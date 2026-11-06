@@ -1,5 +1,5 @@
 ---
-title: L’appareil reste dans le sac
+title: Quand l’autre insiste après un refus
 description: Rémi est venu pour une photo d’objet. Quand il insiste pour obtenir un
   récit personnel, Meriem retire son accord pour la rencontre.
 slug: meriem-appareil-dans-le-sac
@@ -11,9 +11,9 @@ contexte: À la fin d’un jeudi de couture
 tags:
 - TSPT complexe
 - CPTSD
-- Refus respecté
-- Confiance
-- Relais
+- Poser ses limites
+- Reviviscences
+- Passer le relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

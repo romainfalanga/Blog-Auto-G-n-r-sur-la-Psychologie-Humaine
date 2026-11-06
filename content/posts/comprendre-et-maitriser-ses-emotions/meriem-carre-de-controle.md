@@ -1,5 +1,5 @@
 ---
-title: Le carré fait quatre virgule sept
+title: Quand une petite erreur déclenche de la honte
 description: Le patron de la pochette est imprimé trop petit. Meriem sait le corriger
   ; elle peine à croire que le problème se limite à la feuille.
 slug: meriem-carre-de-controle
@@ -11,9 +11,9 @@ contexte: Une première copie à l’atelier
 tags:
 - TSPT complexe
 - CPTSD
-- Honte
-- Rapport à soi
-- Réparation concrète
+- Honte et autocritique
+- Régulation émotionnelle
+- Réparer une erreur
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

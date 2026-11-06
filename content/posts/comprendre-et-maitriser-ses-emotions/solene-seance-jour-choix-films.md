@@ -1,5 +1,5 @@
 ---
-title: Une séance de jour pour voir trois films
+title: Reprendre un projet après une période difficile
 description: Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer
   les trois films et propose un horaire de jour.
 slug: solene-seance-jour-choix-films
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Plusieurs semaines plus tard, à la réunion du cinéma itinérant
 tags:
 - Trouble schizo-affectif
-- Période intermédiaire
-- Horaires de travail
-- Choix de programmation
+- Garder sa place au travail
+- Écouter ses limites
+- Reprise progressive
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

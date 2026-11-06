@@ -1,5 +1,5 @@
 ---
-title: L’ardoise se retourne à midi
+title: Poser une limite quand on voudrait encore rendre service
 description: La première permanence fonctionne jusqu’à la dernière place disponible.
   Mathis voudrait accueillir encore un vélo, alors qu’il faut préparer la fermeture.
 slug: mathis-premiere-permanence-limites
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Sur la place des Tilleuls, le premier samedi ouvert au public
 tags:
 - TDAH
-- Limites de la permanence
-- Décisions sous interruption
-- Travail d’équipe
+- Difficulté à dire non
+- Priorisation
+- Limites au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

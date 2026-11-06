@@ -1,5 +1,5 @@
 ---
-title: Deux chemins jusqu’au kiosque
+title: 'Sensibilité au bruit : Nour choisit un détour au marché'
 description: Le premier repérage longe un marché plus bruyant que prévu. Nour et Fatou
   cherchent un point où les voisins pourront se retrouver.
 slug: nour-kiosque-premier-reperage
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Dans le quartier de l’Ancienne Halle, lors du premier repérage
 tags:
 - TSA
-- Environnement sonore
-- Pauses choisies
-- Parcours de visite
+- Sensibilité au bruit
+- Choix de s’éloigner
+- Participation au groupe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

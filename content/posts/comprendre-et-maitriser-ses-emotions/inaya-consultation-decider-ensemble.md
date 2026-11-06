@@ -1,5 +1,5 @@
 ---
-title: Mettre ses priorités sur la table du rendez-vous
+title: Dire ce qui compte pour soi en consultation
 description: Au suivi, Inaya décrit le sommeil, la boutique et le temps avec Nino.
   Elle demande ce qu’elle peut faire si son état change avant le prochain rendez-vous.
 slug: inaya-consultation-decider-ensemble
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: Un rendez-vous de suivi en consultation
 tags:
 - Dépression récurrente
+- Priorités personnelles
 - Décision partagée
-- Suivi professionnel
-- Préférences de soins
+- Demande de soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

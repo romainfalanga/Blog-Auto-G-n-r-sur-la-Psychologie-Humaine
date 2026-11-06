@@ -1,5 +1,5 @@
 ---
-title: Armand rouvre le carton gris
+title: Quand on ne sait plus quelle note croire
 description: Armand retrouve deux billets pour le même rendez-vous. En attendant de
   vérifier l’heure, il reprend le tri des cartes qu’il veut donner.
 slug: armand-carton-gris-premier-tri
@@ -12,8 +12,9 @@ contexte: Chez Armand, avant sa première rencontre avec la bibliothécaire pour
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Repères écrits
-- Choix personnels
+- Mémoire au quotidien
+- Repères dans l’espace
+- Faire confiance à un repère
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

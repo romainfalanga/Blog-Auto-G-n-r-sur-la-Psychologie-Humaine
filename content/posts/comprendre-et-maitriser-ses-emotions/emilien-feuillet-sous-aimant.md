@@ -1,5 +1,5 @@
 ---
-title: Le feuillet sous l’aimant
+title: Parler de ses signes d’alerte avec Lucie et fixer les limites de l’aide
 description: Émilien reprend son plan avec l’équipe de soins et choisit les informations
   à partager avec Lucie et celles qui restent privées.
 slug: emilien-feuillet-sous-aimant
@@ -11,9 +11,9 @@ contexte: mettre à jour les contacts et convenir de ce que chacun peut faire si
   inquiétude apparaît
 tags:
 - Bipolarité type I
-- Plan de soins concerté
-- Proches
+- Soutien négocié
 - Confidentialité
+- Signaux personnels
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,17 +1,24 @@
 {
   "character_id": "nour",
-  "bio": "Nour, 31 ans, traduit les légendes d’une collection municipale. Autiste, elle utilise aussi l’écrit pour discuter en réunion. Elle prépare avec ses voisins une visite de la ville où chacun choisira son trajet et ses pauses. Fatou, sa voisine et médiatrice culturelle, et Joël, rencontré en atelier, prennent part au projet.",
+  "bio": "Nour traduit les légendes d’une collection municipale. Elle aime les détails qui font voir autrement une rue qu’on croyait connaître et glisse volontiers un trait d’humour dans ses notes. Avec sa voisine Fatou et Joël, rencontré à l’atelier de gravure, elle prépare une visite où chacun peut marcher à son rythme. Les bruits et les changements de dernière minute lui demandent parfois beaucoup d’efforts. Elle tient à partager ses trouvailles tout en choisissant quand parler, faire une pause ou passer le relais.",
+  "profile_topics": [
+    "Préférences de communication",
+    "Sensibilité au bruit",
+    "Effort face aux imprévus",
+    "Fatigue et récupération",
+    "Participation à son rythme"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "nour-legende-choisir-ecrit",
-      "title": "L’hirondelle tient encore sur deux lignes",
+      "title": "Quand l’écrit aide Nour à suivre une réunion",
       "description": "Une réunion change de salle et de rythme. Nour trouve à l’écrit la place d’une question sur une enseigne de la collection municipale.",
       "context": "Au service de la collection municipale, pendant la relecture des légendes",
       "topics": [
-        "Communication écrite",
-        "Autisme chez l’adulte",
-        "Modes de participation"
+        "Préférences de communication",
+        "Attention dans le bruit",
+        "Participation aux échanges"
       ],
       "opening": "Le dossier de Nour tient à plat tant que la grande photographie repose dessus. On y voit l’enseigne d’une boutique de parapluies, une hirondelle en fer qui pointe du bec vers une cour. Nour traduit la légende pour la collection municipale. Elle a réussi à garder sur deux lignes le nom de l’oiseau et celui du commerce. Il lui reste une question sur la cour. Sur la photographie, une rue apparaît derrière l’enseigne. Sur la fiche d’inventaire, l’adresse donne sur une autre.\n\nLa réunion devait se tenir dans la petite salle près de son bureau. Un collègue vient lui dire qu’ils doivent rejoindre la salle des retours, près du monte-charge. Nour rassemble ses feuilles et perd le début de la conversation en arrivant. Chaque fois que la porte s’ouvre, le chariot bute contre le même seuil. Elle attend un passage plus calme pour reprendre son adresse. Au moment où elle ouvre la bouche, quelqu’un propose déjà de passer à la légende suivante.\n\nElle tape sa question dans le document commun, puis ajoute « L’hirondelle traverse les murs. Le livreur de parapluies, moins sûrement. » Une collègue rit en regardant son écran et demande de quelle rue elles parlent. Nour lui montre les deux adresses. Elle suit mieux la conversation depuis que les noms sont devant elles. Si l’enseigne est entrée par une rue et vue depuis l’autre, elle aimerait comprendre où le photographe s’est placé.",
       "sections": [
@@ -41,13 +48,13 @@
     {
       "number": 2,
       "slug": "nour-kiosque-premier-reperage",
-      "title": "Deux chemins jusqu’au kiosque",
+      "title": "Sensibilité au bruit : Nour choisit un détour au marché",
       "description": "Le premier repérage longe un marché plus bruyant que prévu. Nour et Fatou cherchent un point où les voisins pourront se retrouver.",
       "context": "Dans le quartier de l’Ancienne Halle, lors du premier repérage",
       "topics": [
-        "Environnement sonore",
-        "Pauses choisies",
-        "Parcours de visite"
+        "Sensibilité au bruit",
+        "Choix de s’éloigner",
+        "Participation au groupe"
       ],
       "opening": "Le samedi, Nour arrive au kiosque du square avec la photographie sous une pochette transparente. Fatou lui fait signe depuis le trottoir. Deux voisins se sont joints à elles. Le groupe doit suivre le passage des Verriers jusqu’à la cour, puis revenir par la rue du marché. Nour voulait commencer par le passage. Fatou a proposé de faire l’inverse en voyant un camion arrêté devant son entrée. Les deux voisins sont déjà de l’autre côté de la rue.\n\nÀ hauteur de l’Ancienne Halle, un marchand traîne une caisse vide sur les pavés. Le bruit se répète chaque fois qu’il revient chercher des légumes. Fatou montre une plaque et commence à raconter ce qui était vendu ici. Nour entend le nom de la rue, puis plus rien de la phrase. Elle pourrait dire qu’elle a besoin d’un arrêt. Elle a surtout envie de voir l’endroit où l’hirondelle se trouvait et pense qu’elle tiendra jusqu’à la cour.\n\nElle s’arrête pourtant près d’une vitrine où le groupe la dépasse. Elle glisse la photographie dans son sac et écrit à Fatou qu’elle va reprendre par le kiosque. Fatou revient jusqu’à elle. Elle commence à proposer d’écourter la marche pour tout le monde. Nour lui montre le passage sur le plan. Elle voudrait essayer l’autre entrée pendant que les voisins finissent la rue du marché. Il leur faut seulement décider où et quand se revoir.",
       "sections": [
@@ -77,13 +84,13 @@
     {
       "number": 3,
       "slug": "nour-ordre-du-jour-accessible",
-      "title": "Une ligne pour les décisions du jour",
+      "title": "Des repères pour trouver sa place en réunion",
       "description": "Avant la prochaine réunion, Nour demande le déroulé et le document de travail. Elle peut ainsi préparer la décision sur la photographie.",
       "context": "Au service municipal, avant une réunion sur les reproductions de la collection",
       "topics": [
-        "Préparation",
-        "Ordre du jour accessible",
-        "Changements anticipés"
+        "Préparation aux changements",
+        "Préférences de communication",
+        "Participation à son rythme"
       ],
       "opening": "Dans son message, Nour a écrit qu’elle veut connaître l’heure, la salle et ce qu’il faudra décider. Elle retire une phrase d’excuse avant de l’envoyer. À la première réunion, la discussion s’est poursuivie pendant qu’elle cherchait où ouvrir son dossier. Cette fois, elle veut pouvoir lire à l’avance les demandes de reproduction des photographies. Elle a aussi une demande à présenter pour la visite des voisins, à condition de savoir dans quelle partie de la réunion on peut la soumettre.\n\nSa collègue envoie le déroulé le lendemain. Il tient sur une page. Trois décisions apparaissent au milieu, sous le titre « Divers ». Nour écrit pour demander si ces décisions seront prises ce jour-là ou si chacun doit seulement les préparer. Sa collègue remonte deux points en haut de la page et précise où apporter des exemples. Elle indique aussi que la petite salle risque d’être occupée jusqu’à onze heures.\n\nLe jour venu, Nour trouve la porte fermée. Sur l’invitation, le changement a été annoncé avec le nom de l’autre salle. Elle y arrive avant la fin du premier point et ouvre le commentaire qu’elle avait préparé. Elle laisse les autres terminer. Quand son tour vient, elle montre la photographie et demande si elle peut apporter une reproduction à la visite, avec la légende et le crédit que le service veut voir figurer. Elle remarque que son dossier n’a pas quitté ses genoux depuis qu’elle est entrée.",
       "sections": [
@@ -113,13 +120,13 @@
     {
       "number": 4,
       "slug": "nour-joel-carte-preferences",
-      "title": "Joël déplie la carte du côté du marché",
+      "title": "Nour et Joël, deux façons de s’orienter avec la même carte",
       "description": "Joël, rencontré en atelier de gravure, essaie la carte avec Nour. Tous deux sont autistes et ne cherchent pas les mêmes repères.",
       "context": "Dans la salle de l’atelier de gravure, pendant la préparation de la carte",
       "topics": [
-        "Diversité du spectre de l’autisme",
-        "Soutien entre pairs",
-        "Choix de formats"
+        "Besoins sensoriels différents",
+        "Repères visuels et écrits",
+        "Soutien entre pairs"
       ],
       "opening": "Joël a posé la carte près de la presse pour que les bords restent plats. Nour la lui a envoyée deux jours plus tôt. Il a imprimé la première page, puis a gardé le fichier ouvert sur son téléphone. Il voudrait suivre la rue du marché. Le samedi, il aime écouter les vendeurs qui se répondent sous la halle. Sur le papier, il a mis un point là où il s’arrêterait pour lire la légende. Nour a choisi le passage des Verriers pour éviter les chocs de caisses sur les pavés.\n\nJoël tourne la feuille vers la fenêtre. Le papier brillant de la carte renvoie la lumière. Il essaie de suivre la flèche du passage, puis baisse la feuille. Sur son téléphone, il trouve l’adresse en cherchant « kiosque ». Il demande s’il peut agrandir la carte sans perdre le nom des rues. Nour avait prévu de les placer directement sur le dessin pour laisser plus de place aux textes au verso.\n\nElle lui lit une version de la légende. Joël l’interrompt au mot « ferronnerie ». Il avait compris que c’était l’atelier où l’enseigne avait été faite. Nour parlait du matériau et de la façon dont on l’a travaillé. Elle prend son crayon. « Pour une hirondelle, c’est déjà beaucoup de métiers. » Joël rit et lui demande si elle veut revoir le passage avec lui. Il peut lui dire ce que son téléphone lui permet de retrouver et où la carte seule le laisse hésitant.",
       "sections": [
@@ -149,13 +156,13 @@
     {
       "number": 5,
       "slug": "nour-annonce-confidentialite",
-      "title": "Ce que Fatou peut mettre dans l’invitation",
+      "title": "Confidentialité : ce que Nour choisit de dire aux voisins",
       "description": "Fatou prépare l’annonce. Nour souhaite expliquer les choix de trajet et de pause et garder son diagnostic hors du message de quartier.",
       "context": "Chez Fatou, pendant la préparation de l’invitation aux voisins",
       "topics": [
         "Confidentialité",
-        "Choisir ce qu’on partage",
-        "Décrire une possibilité d’accès"
+        "Choix de parler de soi",
+        "Expression de ses besoins"
       ],
       "opening": "Fatou a préparé le message de quartier sur son ordinateur. Le titre tient sur une ligne, avec le jour en capitales. Elle montre ensuite à Nour une phrase qu’elle n’a pas encore mise dans l’annonce. Elle pensait écrire que l’idée vient de sa voisine, qui est autiste et a imaginé une autre façon de visiter la ville. « Je me suis dit que ça expliquerait les deux trajets. Je voulais te demander avant. »\n\nNour pose la feuille qu’elle apporte avec elle. Elle avait parlé de son diagnostic à Fatou un soir où le bruit des travaux remontait jusque dans l’immeuble. Fatou avait gardé cette conversation pour elle. La phrase à l’écran aurait une autre vie. Nour ne sait pas qui relaie les invitations du quartier ni ce qu’on garderait du texte si quelqu’un le coupait. Elle préfère écrire une proposition dans le brouillon. « Vous pouvez partir du kiosque par l’un des deux chemins et vous arrêter quand vous le voulez. »\n\nFatou relit à voix haute. Elle se demande si les gens vont croire qu’il faudra choisir leur chemin dès l’inscription. Nour ajoute que la décision peut se prendre sur place. Puis elle pointe la liste des lieux. Elle aimerait que le message dise à quel endroit le marché est le plus animé. Elle n’a pas encore confirmé que la cour sera ouverte. « Et l’hirondelle ? » demande Fatou. Nour se penche de nouveau vers l’écran. Ça, elle veut bien qu’on en parle.",
       "sections": [
@@ -185,13 +192,13 @@
     {
       "number": 6,
       "slug": "nour-consultation-format-fatigue",
-      "title": "La note que Nour pose sur le bureau",
+      "title": "Parler de sa fatigue en consultation, à l’écrit",
       "description": "Nour prépare par écrit un rendez-vous sur sa fatigue. Elle choisit les situations à examiner et les aménagements qui l’aideraient à en parler.",
       "context": "Au centre qui accompagne Nour, avant la visite test",
       "topics": [
-        "Accès aux soins",
-        "Fatigue et contexte",
-        "Choix de la personne dans l’accompagnement"
+        "Fatigue après l’effort",
+        "Communication écrite",
+        "Choix du soutien"
       ],
       "opening": "Nour avait demandé par message s’il serait possible de commencer dans la petite salle. La personne de l’accueil lui dit qu’un rendez-vous y est encore en cours et lui montre le banc près de la porte. De là, Nour entend chaque nom appelé dans le couloir. Elle reste debout le temps de lire la note qu’elle a préparée. Elle a écrit « fatiguée après les réunions », puis ajouté la journée de jeudi. Ce jour-là, elle était restée longtemps sur une traduction qui lui plaisait. Chez elle, elle a relu une question de Fatou plusieurs fois sans parvenir à choisir une réponse.\n\nLa professionnelle vient la chercher. Elle lui propose d’attendre encore quelques minutes dans un endroit plus calme ou de commencer tout de suite dans un bureau libre. Nour choisit le bureau. Quand la porte se referme, elle entend le bourdonnement du plafonnier et demande si elles peuvent l’éteindre. La fenêtre donne assez de lumière pour lire. Nour pose la note entre elles. « Je sais mieux par où commencer quand vous avez la feuille. »\n\nElle parle des chariots qui passent près de la salle des retours et de la visite où elle s’est arrêtée au kiosque. Elle voudrait garder les deux projets. Elle demande à la professionnelle ce qu’elles peuvent examiner ensemble. Fatou a proposé de venir, et Nour a préféré prendre le rendez-vous seule. Elle la retrouvera au square pour revoir l’heure du prochain repérage, quand elle aura eu le temps de sortir du cabinet.",
       "sections": [
@@ -221,13 +228,13 @@
     {
       "number": 7,
       "slug": "nour-visite-test-banc-cour",
-      "title": "Le banc est derrière la grille",
+      "title": "Un lieu de pause pour suivre la visite à son rythme",
       "description": "Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu de pause. Une grille fermée oblige le groupe à revoir le trajet.",
       "context": "Dans le passage des Verriers, lors de la visite test entre voisins",
       "topics": [
-        "Repérage des obstacles",
-        "Accessibilité de la visite",
-        "Pouvoir interrompre un trajet"
+        "Besoins sensoriels",
+        "Choix de faire une pause",
+        "Repères pour s’orienter"
       ],
       "opening": "Rita, une voisine, a rangé le plan dans la poche de son cabas à roulettes. Elle vient de faire ses courses et a proposé de vérifier le trajet avec elles sur le retour. Nour lui demande de s’orienter sans attendre ses indications. Au premier angle, Rita prend la rue qui porte le nom le plus visible sur la feuille. Elle avance jusqu’à un escalier que Nour n’avait pas dessiné. Elles repartent de l’autre côté. Nour entoure le nom de la rue et note l’endroit où ajouter les marches.\n\nLa cour est visible à travers la grille. Le banc que Fatou leur avait décrit est au soleil. Une feuille scotchée à hauteur de poignée annonce que la grille ferme à midi. Il est midi passé. Rita pourrait rester debout le temps de regarder la photographie. Nour avait surtout compté sur le banc pour s’arrêter avant le retour. Fatou propose de demander au commerce voisin si quelqu’un peut leur ouvrir. Nour lui montre le panneau et préfère repartir vers un siège dont l’accès ne dépend pas d’une clé.\n\nElles reviennent sur leurs pas et trouvent, près de la boulangerie, une banquette d’où l’on voit l’entrée du passage. Rita gare son cabas devant elle et Nour sort la photographie. De là, on ne voit plus les trous de fixation de l’enseigne. On peut encore comparer le sens de la rue avec celui de l’image. Nour se demande laquelle de ces deux choses elle veut raconter aux voisins.",
       "sections": [
@@ -257,13 +264,13 @@
     {
       "number": 8,
       "slug": "nour-travaux-plan-visite",
-      "title": "La flèche s’arrête devant les travaux",
+      "title": "Retrouver ses repères après un changement de trajet",
       "description": "Un avis de travaux arrive après le repérage. Nour décide ce qu’elle garde de la visite et comment indiquer le changement avant le départ.",
       "context": "Chez Nour et à l’entrée du passage, avant le premier jour de visite",
       "topics": [
-        "Changement de dernière minute",
-        "Informations vérifiables",
-        "Choix entre plusieurs trajets"
+        "Effort face aux imprévus",
+        "Besoin de repères",
+        "Partage des tâches"
       ],
       "opening": "Le lendemain de l’essai, Nour lit l’avis de travaux en prenant son petit déjeuner. La zone hachurée recouvre une partie du passage des Verriers. Il reste trois jours avant la visite. Une personne du groupe répond qu’on peut passer par une venelle, « comme d’habitude ». Nour déplie la carte. Elle connaît deux endroits que ce message pourrait désigner. L’un débouche sur des marches et l’autre rejoint le quai. Elle ferme la conversation le temps de retrouver sur le site de la ville l’adresse exacte mentionnée dans l’avis.\n\nFatou passe avec des exemplaires du plan qu’elles avaient préparés. Nour ne les prend pas tout de suite. Elle avait prévu de corriger la légende de l’hirondelle ce matin. Elle montre la zone hachurée, puis la flèche qui la traverse encore sur le papier. Fatou propose de tout faire par la rue du marché. Nour lui dit qu’elle veut garder un chemin qui évite les chariots sous la halle. Elle lui demande de faire l’aller jusqu’au quai avec elle.\n\nElles trouvent la barrière avant l’escalier. Le chemin qui longe le quai rejoint le kiosque par l’extérieur de la place. Il est plus long et reste ouvert. Un panneau précise à quel endroit on doit traverser. Nour photographie ce panneau pour vérifier l’itinéraire en revenant. Fatou lui demande si elles peuvent annoncer cette version aujourd’hui. Nour voudrait s’asseoir quelques minutes avant de lui répondre. Elle a déjà la nouvelle flèche en tête et sent qu’elle relit l’ancienne chaque fois qu’elle baisse les yeux.",
       "sections": [
@@ -293,12 +300,12 @@
     {
       "number": 9,
       "slug": "nour-visite-pause-auvent",
-      "title": "L’hirondelle reste au kiosque",
+      "title": "Trop de bruit au kiosque : Nour fait une pause et passe le relais",
       "description": "Le jour de la visite, une enceinte s’allume sur le square. Nour choisit une pause et précise ce que Fatou peut annoncer pendant son absence.",
       "context": "Au kiosque et sous l’auvent de la boulangerie, le premier jour de visite",
       "topics": [
-        "Ajuster sa participation",
-        "Préférences sensorielles",
+        "Sensibilité au bruit",
+        "Effort pour suivre la conversation",
         "Relais choisi"
       ],
       "opening": "Nour a apporté la reproduction dans une chemise en carton. Elle la pose au milieu du kiosque, à côté des cartes imprimées. Fatou montre les deux chemins aux premiers arrivants. Rita retrouve sur la carte l’endroit où elles ont dessiné les marches. Nour explique qu’on peut commencer par l’image ou y revenir plus tard. Une personne la prend au mot et s’assoit avec la légende pendant que les autres regardent le plan.\n\nAu bord du square, un stand branche une enceinte. Les premières notes couvrent la fin d’une question qu’on vient de poser à Nour. Elle demande à la personne de répéter. Les mots lui arrivent par morceaux. Elle voit le doigt de Fatou posé sur le chemin du quai. Elle voudrait finir d’expliquer où l’hirondelle était fixée, mais elle n’est plus sûre de ce qu’elle vient de dire. Elle montre à Fatou la chemise et écrit qu’elle va s’asseoir sous l’auvent de la boulangerie, à l’écart du square.\n\nFatou lui demande par message si elle veut qu’on interrompe les départs. Nour écrit qu’elle préfère laisser partir les gens. Elle voudrait garder la photo au kiosque et prendre sa pause sans qu’on en donne la raison. Fatou demande seulement s’il faut venir la retrouver. Nour regarde la rue du quai sur la feuille qu’elle a gardée. Elle répond qu’elle décidera dans quelques minutes si elle les rejoint, et qu’elle écrira si elle rentre.",
@@ -329,13 +336,13 @@
     {
       "number": 10,
       "slug": "nour-apres-visite-limites",
-      "title": "La chemise attend sur le palier",
+      "title": "Fatigue après la visite : quelle place garder pour la suivante ?",
       "description": "Des voisins veulent recommencer la visite. Avant de répondre, Nour examine ce que la première lui a demandé et la part qu’elle veut garder.",
       "context": "Chez Nour, dans les jours qui suivent la première visite",
       "topics": [
-        "Fatigue après une sortie",
-        "Rôle choisi",
-        "Partage du travail"
+        "Fatigue après l’effort",
+        "Temps de récupération",
+        "Limites dans un projet collectif"
       ],
       "opening": "Fatou a laissé la chemise sur le palier comme elles en étaient convenues. Nour la ramasse avant de descendre travailler. Entre le carton et la reproduction, une carte porte le nom de l’arrêt du quai, écrit par quelqu’un qui l’a essayé. Nour aimerait retrouver la personne pour lui demander à quelle hauteur elle a vu l’ancienne entrée. Elle glisse la feuille près de sa traduction en pensant qu’elle lui écrira à la pause.\n\nDans la conversation du quartier, plusieurs personnes proposent déjà de recommencer. L’une suggère de faire les départs toutes les demi-heures pour que davantage de voisins puissent venir. Nour ouvre le calendrier. Elle pense d’abord aux horaires qu’elle pourrait offrir. Puis elle voit le créneau qu’elle a réservé à la relecture des légendes. En rentrant du kiosque, elle avait différé une traduction qu’elle voulait reprendre. Elle a encore eu besoin de décaler une conversation avec Fatou le lendemain.\n\nFatou lui écrit qu’elle peut rassembler les retours avant qu’elles en parlent et préparer un rendez-vous si Nour le souhaite. Nour pose son téléphone contre la chemise. Elle voudrait savoir ce qui a marché pour les gens et garder du temps pour relire la légende. Elle ne se voit pas recommencer avec quatre départs. Avant de répondre, elle ouvre un document où elle note ce qu’elle accepte de préparer et ce qu’elle laisserait volontiers aux autres.",
       "sections": [
@@ -365,13 +372,13 @@
     {
       "number": 11,
       "slug": "nour-legende-ecrite-enregistree",
-      "title": "La légende passe d’une feuille à une voix",
+      "title": "Lire ou écouter : chacun sa façon de suivre la visite",
       "description": "Nour et Joël essaient une version enregistrée de la légende. Ils décident ce qui doit rester disponible à l’écrit et sur place.",
       "context": "À l’atelier de gravure, avant la deuxième visite",
       "topics": [
-        "Information dans plusieurs formats",
-        "Consentement à l’enregistrement",
-        "Préférences de communication"
+        "Préférences de communication",
+        "Attention dans le bruit",
+        "Consentement à l’enregistrement"
       ],
       "opening": "Joël a posé un téléphone devant la presse et placé deux feuilles derrière, comme un paravent. Il veut faire un essai pour savoir s’il peut lire la légende pendant que les autres gravent. Nour lui indique la version courte, imprimée sur du papier mat. Ils ont gardé le nom de la boutique et les deux adresses. Sur le deuxième texte, une phrase explique ce qu’on voit quand on regarde l’hirondelle depuis le passage.\n\nJoël lui propose d’enregistrer cette dernière phrase avec sa voix. Nour relit la page. Elle connaît le rythme qu’elle voudrait entendre et préfère le marquer au crayon. Elle n’a pas envie que son propre enregistrement circule. « Je peux te dire où je ferais la pause. Je voudrais que tu lises, si ça te plaît. » Joël garde la feuille sous les yeux et reprend son souffle à l’endroit qu’elle indique.\n\nUne personne tire la poignée de la presse. Dans l’enregistrement, on entend un choc juste avant le nom de la rue. Joël trouve que le bruit va bien avec la légende. Nour entend surtout qu’il masque le mot qu’elle veut faire retenir. Ils réécoutent chacun une fois. Puis elle lui demande s’ils peuvent essayer dans le couloir, où personne n’est en train d’imprimer. Joël replie le petit paravent. Il voudrait garder la première version pour lui, avec le bruit de l’atelier.",
       "sections": [
@@ -401,13 +408,13 @@
     {
       "number": 12,
       "slug": "nour-deuxieme-visite-quai",
-      "title": "Nour suit la flèche du quai",
+      "title": "Choisir sa place dans le groupe après avoir organisé la visite",
       "description": "Au deuxième départ, les voisins prennent plusieurs chemins. Nour garde le sien et laisse une autre personne tenir la carte au point de rendez-vous.",
       "context": "Au porche du quai, lors de la deuxième visite entre voisins",
       "topics": [
-        "Participation choisie",
-        "Relais entre voisins",
-        "Ajuster un projet dans la durée"
+        "Participation à son rythme",
+        "Partage des responsabilités",
+        "Expression de ses préférences"
       ],
       "opening": "Au porche du quai, Fatou tient une liasse de feuilles entre le pouce et l’index. Une femme en prend une, la retourne et demande si elle doit rendre la carte à la fin. Nour répond qu’elle peut la garder. Elle pose la chemise sur un rebord à hauteur de main. Joël a apporté l’enregistrement. Il trouve un endroit où le faire écouter à la personne qui le souhaite. Deux autres voisins regardent déjà l’image en parlant de la vitrine qui occupe aujourd’hui l’ancienne boutique.\n\nNour a prévu de partir par le quai. Rita lui signale qu’un banc est occupé par deux personnes avec leur chien. Nour peut continuer un peu plus loin ou revenir au porche. Elle décide d’avancer jusqu’au bout de la rue et de s’arrêter là où elle pourra regarder la cour de l’autre côté. Fatou lui demande si elle veut encore donner le départ. Nour lui montre l’heure sur la feuille. Elle est venue pour faire ce trajet et ne souhaite pas attendre au porche la personne qui a annoncé son retard.\n\nAu premier tournant, elle entend Joël discuter avec une voisine des noms qu’on voit sur l’image. Il reste au porche pour le moment. Nour marche avec Rita jusqu’à la vieille porte. La dernière fois, elle avait regardé cette adresse sur la carte. Aujourd’hui, elle peut choisir où s’arrêter pour voir la forme de la ferrure.",
       "sections": [

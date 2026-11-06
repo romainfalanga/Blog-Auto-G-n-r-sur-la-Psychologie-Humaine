@@ -1,5 +1,5 @@
 ---
-title: Ce que Selma choisit de dire à une collègue
+title: Demander de l’aide à une collègue sans raconter l’accident
 description: Lors d’une mission autorisée hors conduite, une collègue pose une question
   sur l’accident. Selma répond sur ce qui l’aide au travail.
 slug: selma-choisir-de-parler-au-travail
@@ -11,8 +11,8 @@ contexte: Dans une salle de documentation, loin des voies
 tags:
 - TSPT
 - PTSD
-- Confidentialité au travail
-- Choix de prendre la parole
+- Choisir ce qu’on confie
+- Expression de ses besoins
 - Soutien entre collègues
 categories:
 - Comprendre et maîtriser ses émotions

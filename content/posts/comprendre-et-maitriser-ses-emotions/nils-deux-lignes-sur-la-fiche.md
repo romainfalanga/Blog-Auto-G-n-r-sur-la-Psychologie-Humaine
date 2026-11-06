@@ -1,5 +1,5 @@
 ---
-title: Nils inscrit une question sous les basilics
+title: Perdre le fil quand le bruit monte
 description: À la pépinière, une question de cliente donne à Nils une idée de chronique.
   Il demande à Maud un essai hors antenne.
 slug: nils-deux-lignes-sur-la-fiche
@@ -10,8 +10,9 @@ sujet: Schizophrénie
 contexte: Un lundi matin, au rayon des aromatiques de la pépinière
 tags:
 - Schizophrénie
-- Attention
-- Radio de quartier
+- Attention et bruit
+- Reprendre sa place
+- Préparer un essai
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

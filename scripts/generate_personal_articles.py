@@ -236,6 +236,13 @@ def without_quoted_text(value):
     return re.sub(r'«[^»]*»|“[^”]*”|"[^"\n]*"|‘[^’]*’','',str(value or ''))
 
 
+# Only forms where « il » has no referent. « il y a vécu » can refer to a person.
+IMPERSONAL_PORTRAIT_IL=(r"(?:s[’']agit|se\s+peut)\b|(?:semble|paraît)\s+qu(?:e\b|[’'])|"
+                       r"est\s+possible\s+(?:de\b|d[’'])|"
+                       r"reste\s+(?:un\s+point|une\s+question)\s+à\s+(?:préciser|clarifier|explorer|comprendre)\b")
+AMBIGUOUS_PORTRAIT_PRONOUN=re.compile(rf"(?<![\w‐‑-])(?:elles?|ils|il(?!\s+(?:{IMPERSONAL_PORTRAIT_IL})))(?!\w)",re.I)
+
+
 def assert_portrait_language(p,identity=None):
     """Reject ambiguous new prose; never rewrite a relative's exact words."""
     prose=[p.get('summary')]
@@ -247,7 +254,7 @@ def assert_portrait_language(p,identity=None):
     for h in p.get('psychological_map',[]):
         prose.extend([h.get('observation'),h.get('possible_function'),*h.get('alternatives',[]),h.get('next_question'),h.get('influence',{}).get('rationale')])
         prose.extend(item.get('explanation') for item in h.get('interactions',[]))
-    if any(re.search(r"(?:^|[\s(’'])\b(?:elle|elles|il|ils)\b",without_quoted_text(value),re.I|re.ASCII) for value in prose):
+    if any(AMBIGUOUS_PORTRAIT_PRONOUN.search(without_quoted_text(value)) for value in prose):
         raise ValueError('portrait_language')
     identity=identity if isinstance(identity,dict) else p.get('identity_context') or {}
     attributes={'créative':'créatif','attentive':'attentif','réfléchie':'réfléchi','curieuse':'curieux',
@@ -564,19 +571,23 @@ Pour source type like sans explication, uniquement interest, jamais biographie.'
     adapter.stage='portrait'
     retry_instruction=('\nUne vérification a refusé une tentative précédente. Limite cette nouvelle version aux observations '
                        'explicites attribuées à {{prenom}}, sans inférer une personnalité depuis une préférence de lecture. '
-                       'Privilégie 1–3 axes déclarés et 0–3 pistes prudentes. Si la fonction reste inconnue, écris simplement '
-                       'que ce point reste à préciser, sans inventer une cause. Les contre-exemples doivent limiter '
-                       'la portée des conclusions. Aucun il/elle de reprise dans la prose.'
+                       'Privilégie 1–3 axes déclarés et 0–3 pistes prudentes si les preuves le permettent. '
+                       'Avec des likes sans explication, un axe d’intérêt sans fait personnel suffit. Si la fonction reste '
+                       'inconnue, écris simplement que ce point reste à préciser, sans inventer une cause. Les contre-exemples '
+                       'doivent limiter la portée des conclusions. Emploie « {{prenom}} décrit… » et des phrases courtes sans pronom de reprise.'
                        if (job.get('attempts') or 0)>1 or isinstance(job.get('native_candidate'),dict) and job['native_candidate'].get('rejected') else '')
     p=ask(adapter,'''Construis l’analyse version 3 du portrait V2 uniquement depuis les sources autorisées.
-Dans la prose, désigne le sujet par le marqueur exact {{prenom}} remplacé à l'affichage.
-Accords selon life_context.gender et les préférences explicites de life_context.gender_description.
+Pour désigner la personne dans la prose, utilise le marqueur exact {{prenom}}, remplacé à l’affichage.
+Commence par un verbe d’attribution sans accord genré, par exemple « {{prenom}} rapporte avoir ressenti… »
+ou « Selon {{prenom}}, sa mère a… ». Pour un proche, nomme son rôle. Évite les reprises il/elle/ils/elles
+qui masquent le référent ; réserve il aux tournures clairement impersonnelles comme « Il s’agit de… »
+ou « Il est possible de… ». Pour une question, le vouvoiement convient : « Que remarquez-vous dans
+cette situation ? ». Pour une inconnue : « La portée reste à préciser. ». Ne modifie jamais les mots des citations.
+Si un accord est nécessaire, suis les préférences explicitement déclarées dans life_context.gender_description et
+le genre déclaré dans life_context.gender.
 Si les informations se contredisent ou ne précisent pas les accords souhaités, préfère une tournure
 sans accord genré et un point à clarifier ; aucune déduction psychologique à partir de ces informations.
 Les informations structurées courantes priment sur toute ancienne formulation du portrait.
-N’utilise aucun pronom de troisième personne il/elle/ils/elles hors des citations exactes, même pour
-un proche ou un impersonnel : répète {{prenom}} pour le sujet, le rôle explicite pour un proche,
-et choisis une tournure directe pour un impersonnel. N’altère jamais les mots des citations.
 Chaque phrase de synthèse, force, état ou préférence doit être sourcée avec une citation exacte et sa
 révision. Aucun personnage fictif dans ce portrait réel. Les likes nus sont des intérêts, confiance
 au plus 0.25 ; ils ne prouvent aucune biographie. Un rôle familial seul ne prouve rien sur la personne.

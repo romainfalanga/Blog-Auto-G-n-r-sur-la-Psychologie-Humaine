@@ -1,11 +1,13 @@
 ---
 title: Jules
 date: '2026-11-06T00:00:00+00:00'
-description: Jules a 27 ans et apprend le métier de fleuriste dans un marché couvert.
-  Il dessine les étals, les fleurs et les enseignes, puis envoie certains croquis
-  à sa grand-mère Solange. Il aimerait retrouver la table de dessin du marché et choisir
-  ses trajets. Au début du récit, un médecin évalue déjà les épisodes qui bouleversent
-  ses déplacements.
+description: Jules, 27 ans, apprend le métier de fleuriste dans un marché couvert.
+  Observateur, il dessine les gestes de Sonia, sa maîtresse d’apprentissage, et les
+  enseignes peintes sous la verrière. Il envoie ses croquis à sa grand-mère Solange,
+  qui lui répond parfois par un dessin. Depuis que des accès de peur l’ont surpris
+  dans des moments ordinaires, il évite certains trajets et ne va plus dessiner avec
+  Samuel le samedi. Il aimerait retrouver cette table et décider lui-même de l’aide
+  qui lui serait utile.
 slug: jules
 prenom: Jules
 date_naissance: '1999-01-01'
@@ -16,82 +18,85 @@ weight: 43
 draft: false
 clinical_code: 6B01
 reading_topics:
-- Trouble panique
-- Autonomie
+- Interprétation des sensations
+- Peur que la panique revienne
+- Évitement et reprise d’activités
+- Demander un appui précis
+- Préserver sa vie privée
 ---
 
 <h2 class="parcours-section-title">Parcours de Jules</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/">Le ruban entre deux pages</a></h3>
-    <p class="parcours-resume">Au marché couvert, Jules évite une allée où il a eu peur. Il prépare son prochain rendez-vous médical et hésite à rejoindre la table de dessin.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/">Éviter une allée du marché par peur d’une nouvelle crise</a></h3>
+    <p class="parcours-resume">Jules cherche un ruban assez fin pour ne pas cacher la tige des renoncules. Sonia, sa maîtresse d’apprentissage, lui a laissé composer le premier bouquet de la matinée. Il pose trois morceaux de ruban sur la table et en garde un bleu presque gris.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/">L’appel depuis le marché</a></h3>
-    <p class="parcours-resume">Une douleur thoracique nouvelle et une difficulté à respirer surprennent Jules. Sonia appelle les secours et décrit les signes apparus.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/">Peur et douleur nouvelle au marché : Sonia appelle les secours</a></h3>
+    <p class="parcours-resume">Une cliente demande à Jules d’écrire « à dimanche » sur une petite carte. Il en a choisi une dont les coins sont ronds. Le stylo s’arrête après le premier mot.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/">Le nom donné au rendez-vous</a></h3>
-    <p class="parcours-resume">La psychiatre reprend avec Jules l’histoire des épisodes et ce qu’ils ont changé. Elle lui explique pourquoi elle retient un trouble panique.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/">Trouble panique : quand la peur persiste entre les attaques</a></h3>
+    <p class="parcours-resume">Jules a plié l’adresse du cabinet dans le sens de la verrière qu’il essaie de dessiner. Il avait commencé le trait dans le bus. Quand il ouvre le carnet devant la psychiatre, le haut de l’arche est déjà plus large que sur le modèle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">L’enveloppe et la confidence</a></h3>
-    <p class="parcours-resume">Jules parle du diagnostic à Solange. Il choisit ce qu’il veut lui confier et l’appui qu’il aimerait garder autour de ses dessins.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">Se confier à sa grand-mère et choisir l’aide dont on a besoin</a></h3>
+    <p class="parcours-resume">Jules a trouvé une enveloppe verte de la bonne taille pour envoyer le dessin. Il pose le téléphone sur le bord de la table et attend que sa grand-mère décroche.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Ce que Jules veut retrouver</a></h3>
-    <p class="parcours-resume">Avec la psychiatre, Jules discute d’une thérapie et choisit le dessin au marché comme premier sujet de travail.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Travailler sur sa peur pour retrouver le dessin au marché</a></h3>
+    <p class="parcours-resume">Jules a apporté une feuille où il a dessiné trois emplacements de la table de Samuel. Il se rappelle où il s’asseyait et à quel moment les commerçants repliaient les caisses.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/">La commande aux pavots</a></h3>
-    <p class="parcours-resume">Jules aimerait réaliser le bouquet d’une cliente. Il demande à Sonia de discuter de la livraison et précise ce qu’il souhaite garder privé.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/">Peur de traverser le marché : Jules demande un relais</a></h3>
+    <p class="parcours-resume">La patronne de la boutique de tissus veut un bouquet pour la vitrine. Elle a apporté une chute du rideau qu’elle vient de coudre. Jules la déplie et voit une bordure orange là où il avait d’abord cru qu’elle était rouge.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/">À hauteur des livres</a></h3>
-    <p class="parcours-resume">Jules et la psychiatre font un essai accompagné près du marché. Il garde le choix de s’arrêter et peut raconter ce qu’il a remarqué.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/">Jules appréhende l’entrée du marché et choisit où s’arrêter</a></h3>
+    <p class="parcours-resume">Samuel a posé une caisse de livres devant son stand. On peut voir les couvertures sans entrer dans l’allée du marché. Jules s’arrête en apercevant une édition illustrée dont il se souvient.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/">Une feuille pliée en deux</a></h3>
-    <p class="parcours-resume">Jules rejoint le groupe pour dessiner les mains des commerçants. Il choisit de partir tôt et garde une partie du croquis.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/">La déception de quitter tôt la table de dessin</a></h3>
+    <p class="parcours-resume">Samuel met un poids sur la pile de feuilles. Le marché est plus bruyant que le jour où Jules est venu avec la psychiatre. Une commerçante essaie de fermer une boîte sans quitter sa cliente des yeux.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/">L’arrêt derrière les barrières</a></h3>
-    <p class="parcours-resume">L’arrêt de bus a été déplacé. Jules cherche un trajet pour voir sa grand-mère et choisit parmi les possibilités qui restent.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/">L’inquiétude de Jules quand son arrêt de bus change</a></h3>
+    <p class="parcours-resume">Jules trouve une flèche orange sur le poteau de l’arrêt. Il a regardé l’annonce la veille, mais la flèche qu’il imaginait au coin de la rue l’envoie maintenant vers le carrefour.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/">Deux feuilles sur le bureau</a></h3>
-    <p class="parcours-resume">Jules apporte un dessin du marché et un autre de chez Solange. Il revoit avec la psychiatre ce qu’il souhaite poursuivre et qui joindre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/">Peur en sortie : Jules repère ce qui l’aide selon le lieu</a></h3>
+    <p class="parcours-resume">Jules pose le croquis de la boîte de dominos à côté de la feuille pliée du marché. Au crayon, les deux mains qu’il a dessinées ne se ressemblent pas. L’une tenait un couvercle à moitié fermé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/">La table tournée vers les étals</a></h3>
-    <p class="parcours-resume">Jules retrouve les dessinateurs du marché. Il choisit une place, demande l’accord de Sonia pour un croquis et laisse la suite ouverte.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/">Retrouver sa place à la table de dessin quand la peur demeure</a></h3>
+    <p class="parcours-resume">Samuel a retourné la table pour que les dessinateurs puissent regarder l’allée. Il a laissé une chaise à chaque extrémité. Jules vient de terminer sa matinée au stand et demande s’il en reste une.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/">Le prochain dessin de Jules</a></h3>
-    <p class="parcours-resume">Jules prépare un nouveau courrier à Solange et garde un rendez-vous de suivi. Il choisit ce qu’il aimerait dessiner lors des prochaines matinées.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/">Faire des projets quand certains trajets inquiètent encore</a></h3>
+    <p class="parcours-resume">Solange a répondu au dessin du nœud en lui envoyant une feuille pliée dans l’autre sens. Elle a tracé les deux mains d’un voisin en train de mélanger les dominos et a ajouté un toit de travers au-dessus.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/" class="parcours-link">Lire</a>
   </div>
 </div>

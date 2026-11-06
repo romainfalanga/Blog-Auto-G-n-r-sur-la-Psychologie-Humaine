@@ -1,0 +1,38 @@
+{
+  "references": {
+    "has-tsla": {
+      "title": "Haute Autorité de Santé, parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages",
+      "url": "https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages"
+    },
+    "has-tsla-medecin": {
+      "title": "Haute Autorité de Santé, rôle du médecin de l’enfant dans le parcours de santé des TSLA",
+      "url": "https://www.has-sante.fr/jcms/c_2823395/fr/parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-role-du-medecin-de-l-enfant-intervenant-dans-le-premier-niveau-de-recours-aux-soins"
+    },
+    "asha-langage-ecrit": {
+      "title": "American Speech-Language-Hearing Association, Written Language Disorders",
+      "url": "https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental des apprentissages avec déficit de l’expression écrite",
+    "aliases": [
+      "Déficit de l’expression écrite",
+      "Dysorthographie"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-tsla",
+      "has-tsla-medecin",
+      "asha-langage-ecrit"
+    ],
+    "points": [
+      "OMS, CDDR, 6A03, pp. 134–135 : le trouble développemental des apprentissages concerne des difficultés importantes et persistantes dans l’acquisition de certaines compétences scolaires malgré un enseignement adapté. Le code 6A03.1 concerne l’expression écrite : l’orthographe, la grammaire, la ponctuation ou l’organisation et la cohésion des idées à l’écrit peuvent être touchées. Les manifestations varient selon la personne ; « dysorthographie » est un terme usuel qui met l’accent sur l’orthographe et ne décrit pas à lui seul tout le champ de 6A03.1.",
+      "OMS, CDDR, 6A03, pp. 134, 136–138, caractéristiques essentielles, seuil et distinctions diagnostiques : les professionnels considèrent les compétences en cause, leur histoire et leur retentissement, sur la base de plusieurs éléments. Un texte isolé, sa note ou ses erreurs ne permettent pas de conclure. Une difficulté spécifique à l’écrit ne permet pas de juger l’intelligence ni la qualité d’une idée. Le profil de lecture ne se déduit pas du seul code 6A03.1. Maïwenn a déjà été évaluée avant le récit.",
+      "OMS, CDDR, 6A03, pp. 136–137, caractéristiques cliniques et évolution : un résultat qui paraît satisfaisant peut demander beaucoup de temps, d’effort ou de soutien. L’effet dans la vie courante varie, notamment avec la complexité de la tâche, le temps disponible et les aides. La bonne tenue d’un article ne mesure ni la disparition d’une difficulté ni l’efficacité d’un soin. Les émotions et les choix de Maïwenn restent ceux d’une personne dans un contexte donné.",
+      "HAS, guide sur le parcours de santé des TSLA, synthèse en ligne et fiche « Rôle du médecin de l’enfant », pp. 2–3 : le parcours s’adapte aux besoins et associe l’enfant et sa famille, l’école et les professionnels de santé. Pour le langage écrit, le médecin peut s’appuyer sur un bilan orthophonique et un suivi selon les besoins. Les objectifs et les adaptations se discutent et se réajustent. La professeure de Maïwenn règle le cadre de l’atelier et peut en parler avec elle en privé. Lou contribue au reportage et ne prend aucune décision de soin.",
+      "ASHA, Practice Portal, « Treatment », sections sur l’écriture et « Computer-Based Technologies » : la planification, la rédaction, la révision et la correction peuvent faire l’objet d’appuis distincts. La dictée vocale, la lecture du texte par une voix de synthèse et des aides à la planification font partie des outils possibles, choisis d’après l’objectif et les besoins. Les exemples du journal sont des essais situés : la dictée produit un brouillon dont il faut vérifier le sens ; la voix de synthèse permet d’entendre certaines différences mais ne montre pas tous les accords.",
+      "ASHA, Practice Portal, « Roles and Responsibilities », « Assessment » et « Treatment », et HAS, guide TSLA, premier niveau : la collaboration et l’adaptation à la situation de la personne orientent le choix des appuis. La relecture en deux passages, les suggestions avant modification et les différents degrés d’aide sont des modalités de travail acceptées pour ce reportage, pas un protocole clinique. La confirmation des paroles et de la photo avec le sujet du reportage est une décision éditoriale de l’équipe, sans règle de droit affirmée."
+    ]
+  },
+  "direction": "Maïwenn, 16 ans, tient la rubrique photo du journal du lycée. Elle parle avec précision quand un détail l’intrigue et peut se taire lorsqu’elle sent qu’on attend d’elle une phrase parfaite. Elle entraîne Lou à la halle municipale un dimanche, avant l’arrivée des clients : elles veulent raconter ceux qui préparent les places du marché. La pince à linge orange qui tient un plan, la première table qui arrive de biais et le bruit des roulettes font tenir le reportage, au-delà de la question de l’écrit. Lou apporte ses questions et ses raccords, Maïwenn l’angle, les images et des phrases ; les deux travaillent le sens et décident du crédit. Mme Lenoir encadre le journal, Mme Simon accompagne déjà Maïwenn en orthophonie. Maïwenn peut régler les conditions de travail avec le groupe sans divulguer son diagnostic. Montrer l’effort derrière un texte lisible, l’essai de dictée qui aide au calme puis échoue dans le bus, et le degré d’aide qu’elle choisit. Une correction ne s’applique pas sans accord. Le refus d’un portrait par Rachid réoriente la page. La signature conjointe et le crédit des photos seront choisis et imprimés ; l’effort de la prochaine page demeure. Aucune déduction sur l’intelligence, la lecture ou le suivi à partir d’une faute ou d’un article publié."
+}

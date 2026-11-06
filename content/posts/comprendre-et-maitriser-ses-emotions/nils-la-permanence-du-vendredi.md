@@ -1,5 +1,5 @@
 ---
-title: Nils regarde les horaires avec Matthieu
+title: Poser des limites au travail sans renoncer à son projet
 description: La permanence de Renée tombe pendant la livraison du vendredi. Nils cherche
   une façon de préparer la chronique sans déplacer toute l’équipe.
 slug: nils-la-permanence-du-vendredi
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le mercredi suivant, près du planning de la pépinière
 tags:
 - Schizophrénie
-- Travail à temps partiel
-- Choix d’horaires
-- Participation au quartier
+- Reprendre sa place
+- Poser ses limites
+- Travailler à plusieurs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

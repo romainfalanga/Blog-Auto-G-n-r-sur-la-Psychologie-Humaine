@@ -1,5 +1,5 @@
 ---
-title: Le billet du foyer attend un nouveau jeudi
+title: Ajuster l’aide au retour de l’hôpital
 description: De retour chez lui, Armand demande une visite de suivi de plus. Il reprend
   ensuite la liste du don et retire une carte du lot.
 slug: armand-retour-billet-a-remplacer
@@ -11,9 +11,9 @@ contexte: Quelques jours après le retour d’Armand à domicile, à la table de
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Retour à domicile
-- Besoins à réévaluer
-- Aide coordonnée
+- Recevoir de l’aide
+- Choisir pour soi
+- Repères dans l’espace
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

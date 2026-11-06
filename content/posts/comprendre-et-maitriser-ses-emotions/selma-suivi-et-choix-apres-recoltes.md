@@ -1,5 +1,5 @@
 ---
-title: Deux dates et une place libre
+title: Ce que Selma retrouve et ce qui lui coûte encore après l’accident
 description: Selma prépare la suite de son suivi et garde ouvertes ses décisions professionnelles.
   Dans la serre, elle choisit ce qu’elle plantera ensuite.
 slug: selma-suivi-et-choix-apres-recoltes
@@ -11,9 +11,9 @@ contexte: De la serre au cabinet de sa thérapeute
 tags:
 - TSPT
 - PTSD
-- Suite du suivi
-- Choix professionnels
-- Projets personnels
+- Retour aux activités choisies
+- Réactions qui persistent
+- Choix des appuis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

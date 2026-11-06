@@ -1,0 +1,29 @@
+{
+  "references": {
+    "oms-jeu-video": {
+      "title": "OMS, Trouble du jeu vidéo : questions et réponses",
+      "url": "https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder"
+    },
+    "wolfling-2019": {
+      "title": "Wölfling et al., Efficacy of Short-term Treatment of Internet and Computer Game Addiction, essai randomisé, JAMA Psychiatry (2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31290948/"
+    },
+    "chu-nantes-addictologie": {
+      "title": "CHU de Nantes, Addictologie : consultations spécialisées",
+      "url": "https://www.chu-nantes.fr/venir-en-consultation-45"
+    }
+  },
+  "dossier": {
+    "name": "Trouble du jeu vidéo",
+    "aliases": ["6C51", "Gaming disorder"],
+    "references": ["oms-cddr", "oms-jeu-video", "wolfling-2019", "chu-nantes-addictologie"],
+    "points": [
+      "CDDR OMS, 6C51, p. 511–514 imprimées (p. 529–532 du PDF) : la difficulté durable à modifier sa pratique, la place croissante prise par le jeu et sa poursuite malgré ses conséquences sont examinées dans leur ensemble. Le guide demande un retentissement important ou une détresse significative et l’examen d’autres explications. Le tableau peut être continu ou revenir par périodes ; la FAQ française indique un repère d’environ douze mois, avec possibilité d’une période plus brève dans les situations sévères répondant aux autres exigences selon le CDDR. Ne pas proposer de décompte ni de critères à appliquer soi-même.",
+      "CDDR, 6C51.0 et 6C51.1, p. 512–513 : le trouble peut concerner des jeux surtout en ligne ou surtout hors ligne. La durée, une pratique quotidienne, un événement prolongé ou le plaisir de retrouver d’autres joueurs ne permettent pas de conclure. Une coordination entre amis peut peser sur un horaire sans que les liens soient fictifs ou responsables du trouble.",
+      "CDDR, p. 512 : des difficultés répétées à changer sa pratique et des perturbations du sommeil peuvent faire partie du tableau. Distinguer la durée de jeu du sommeil effectivement perdu et les répercussions du jeu d’autres difficultés possibles. Une soirée maîtrisée ou un écart isolé ne résument pas l’évolution d’une personne.",
+      "CHU de Nantes, consultations spécialisées : des services d’addictologie reçoivent pour les jeux vidéo, évaluent les difficultés et discutent avec la personne d’un suivi adapté. Les modalités d’accès et la place éventuelle de l’entourage dépendent de la situation et du service. Le récit montre les échanges convenus avec la consultation de Côme.",
+      "Wölfling et al. (2019) : un essai ambulatoire randomisé chez 143 hommes, portant sur diverses pratiques problématiques d’internet et des jeux, suggère un bénéfice à court terme d’une thérapie cognitivo-comportementale structurée par rapport à une liste d’attente. Il ne teste pas les arrangements de Côme et n’établit pas un bénéfice durable ou applicable à chacun. La décision de soins appartient à la personne et aux professionnels."
+    ]
+  },
+  "direction": "Côme, 22 ans, pense en dimensions, en pièces qu’on pourrait adapter et en choses à rendre. Sa précision à la boutique ne fait pas disparaître ses retards. Il veut reconstruire une table de jeux de société à partir d’un ancien bâti pour inviter ses amis : suivre les pièces, les horaires réservés, un plateau perdu et le premier essai. Le diagnostic est posé avant l’histoire. Faire sentir quand un choix prévu échappe à Côme, ce qu’il perd concrètement, le plaisir qu’il garde à jouer avec les autres et ce qui se passe les soirs où il joue seul. Varier les jours, les lieux et les revers ; éviter une progression sans accroc. Florian reste un ami et joueur avec ses propres créneaux ; Sana compte dans le groupe même quand elle participe à distance ; Inès pose des limites de collègue ; Nadège coordonne l’atelier ; la consultation garde la responsabilité clinique. Côme décide ce qu’il partage et peut reprendre contact tôt. La première partie à la table clôt le projet en cours, sans pronostic ni abstinence érigée en règle."
+}

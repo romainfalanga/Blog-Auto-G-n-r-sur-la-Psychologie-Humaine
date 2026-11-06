@@ -13,12 +13,180 @@
     "method": "definition_excerpt",
     "source_body_sha256": "4fde13bedb6399aed2737eef07a7b811455a75b5bdd9d4b1d379daa837808891"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque": {
+    "text": "L’ARFID peut gêner la participation aux repas partagés et aux activités qui s’organisent autour d’eux. Selon les personnes et les moments, manger avec d’autres peut faire partie de ce que l’on souhaite, et un endroit plus calme peut aider quand l’environnement devient difficile.",
+    "source_heading": "Être à table et participer à la conversation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c96f09ea3902b961c2763e10dedbd75c758f1c393ac1cfa2ba507d5398568337"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales": {
+    "text": "Dans l’ARFID, la restriction alimentaire n’est pas motivée par une préoccupation de poids ou de silhouette. Les professionnels s’intéressent aux raisons de la restriction et à son retentissement dans la durée.",
+    "source_heading": "Un repas observé dit peu des raisons de la restriction",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5aaf87b2a1e0ff9454570fb5eaf9d9a5f07eb4774e8fd8f29de675c1c2816925"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre": {
+    "text": "L’ARFID peut gêner la vie scolaire ou sociale même lorsque la personne participe à certaines activités du groupe.",
+    "source_heading": "Rejoindre l’activité après avoir utilisé un appui",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9a15094b7f19322f28e3fa1f1d54115f64a54e2d8c34a685a1cba229aa68a5e8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier": {
+    "text": "Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile.",
+    "source_heading": "Ce qui change la vie autour des repas",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f7eb282a580a4968ac77a86fb0c165654b17393301f2b0800de9fc256e9fc8f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier": {
+    "text": "Pour un jeune qui a un ARFID, certains lieux de repas peuvent soulever des difficultés qu’on ne retrouve pas de la même façon à la maison ou à l’école. L’environnement fait partie des éléments qu’on peut examiner avec lui.",
+    "source_heading": "Retrouver une personne avant d’avoir besoin d’elle",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "517bf7a00bd2fd1cebc7660c02f14447a0b7592c8abb730ae8a421dae48f183d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer": {
+    "text": "Les difficultés sensorielles de l’ARFID concernent les caractéristiques des aliments et la façon dont la personne les éprouve au moment de manger. On peut aimer manipuler certaines matières pour un travail manuel et rencontrer des difficultés avec des textures en bouche.",
+    "source_heading": "Une difficulté sensorielle qui a des conséquences",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3f64bd520669ff18c274eb73bdee31548cc7053779f5cde8c74a549319f5e1ac"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit": {
+    "text": "Un repas difficile dans l’ARFID peut peser sur la décision de rester pour une activité sans résumer ce que la personne veut faire.",
+    "source_heading": "Après un repas difficile, revenir à la décision du moment",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d07d980a9ae407c37a3da9faa3a1240a3d47f8a65e944715aa2802a75b201397"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees": {
+    "text": "Les difficultés alimentaires dans l’ARFID peuvent varier avec les conditions du repas. Un changement de lieu, de disposition ou de bruit ne touche pas tout le monde de la même façon.",
+    "source_heading": "Une difficulté peut revenir le même jour",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "73caec6f04cca31394b5888cf7c9335c198e6eae7f4f2efc0bef818ec3524f5d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case": {
+    "text": "Dans l’ARFID, une équipe spécialisée peut examiner les besoins nutritionnels, la santé et ce qui facilite ou complique les repas dans différents cadres. Selon la situation, le suivi associe des professionnels de plusieurs métiers.",
+    "source_heading": "Ce que le suivi peut éclairer avant un séjour",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d38cee9b800069dc3f3013aebb9298d7f55d61b282d602637fcc722f64e88fa5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree": {
+    "text": "L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent.",
+    "source_heading": "Ce que l’endroit change",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7aaba922b2174d46dbbdddfdd15e112bdf31e4baa99d747b20018861583daa50"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees": {
+    "text": "Un repas possible dans un cadre aménagé ne suffit pas à dire comment se passeront les autres repas d’une personne qui a un ARFID. Les caractéristiques des aliments, le lieu, les personnes présentes et les échanges à table peuvent différer.",
+    "source_heading": "Ce qu’un repas ordinaire peut apprendre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b4335e4fc8b947ffd776ec8f654665f947c2e27b5cee19640586657c87ba0287"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre": {
+    "text": "Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles.",
+    "source_heading": "Ce qu’un séjour apprend au suivi",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1b10404af7718e37b8219ac5c050cbb171ce0034aaad6fd5e00ca31ce659614e"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions": {
     "text": "Dans l’usage courant, l’agacement désigne une forme d’irritation. Il n’a ni durée fixe ni seuil qui le distinguerait toujours de la colère. Le bruit, la fatigue et l’approche de la réunion comptent tous pour Lucas.",
     "source_heading": "Définition de l'agacement en colocation",
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "ab4d995b328eaed3ea9cc7d55a40d61f97c6643789ce86e1ad76875efdd0bcdd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-boite-bleue": {
+    "text": "Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient.",
+    "source_heading": "Entendre les mots, retrouver l’ordre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "af1eeda26b43611c3421e98ee05b296e17a5c580bbe57fcdba2b02d0d1708c6b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-ce-qui-sest-passe-au-banc": {
+    "text": "Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux.",
+    "source_heading": "Rendre une suite d’événements compréhensible",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3ffa3e84632afa831d356c87a395579fdf8ad8f2d7341ec269e40b3a052e1ebc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-deux-creneaux": {
+    "text": "Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert.",
+    "source_heading": "Donner une place à l’avis de l’enfant",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "cc862660fb1d676f4e88e79386d41b31cf5d4f105a25e83a1abbaa2fdf099915"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-la-carte-reste-au-jardin": {
+    "text": "Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes.",
+    "source_heading": "Ce que montre une passation réussie",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e984fa95a3279d9f48ea5e6f781b2acc40d76fb9e9fb1cea0ad7ccacbfd3ebc3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-la-copie-grise": {
+    "text": "Un support visuel peut aider à suivre un message s’il donne les repères dont son lecteur a besoin. Un dessin trop semblable à l’objet voisin, ou une indication de lieu qui dépend de ce que l’on connaît déjà, peut faire hésiter n’importe qui.",
+    "source_heading": "Quand l’information manque au document",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "80b11dfc6606b6fe02de3f4fce380bc07ef5fcff7b69f8b69f37b6e464e0e455"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-la-place-au-soleil": {
+    "text": "Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte.",
+    "source_heading": "Apprendre un mot dans une situation qui compte",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5ee2543c7f182165340bff75f25ff877a080d70851aad24cd6f3af3059a6dff5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-laquelle-dabord": {
+    "text": "Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile.",
+    "source_heading": "Décrire ce qui a demandé du travail",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2ff250f496e00e0ff26c8f04965948ac46ad2c6c936791434ac2fedf07981636"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-le-plan-a-lenvers": {
+    "text": "Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes.",
+    "source_heading": "Reprendre avec ses propres repères",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d639f695621698e8c770eed4ae77e87fdd1f4df1d87a35b59ae5874dbde4ca9d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-plan-sans-estrade": {
+    "text": "Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail.",
+    "source_heading": "Changer la façon de participer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c2d4d2dc8fdef66dca993115945ede55466d62ef2a129db077d960318ba9c0f2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-sachet-sous-la-pluie": {
+    "text": "Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer.",
+    "source_heading": "L’idée peut précéder la phrase",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "949fe94b4c3b6967854232f9f2df6963cea32e38b1e807101f4f0644784c7668"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-un-jeudi-sous-toit": {
+    "text": "Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation.",
+    "source_heading": "Ce qui change quand le contexte change",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7c34dbf4771499fc546fb256ab260966c3a29e30f881cdf85381f9fb330fc146"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/agathe-une-question-sur-la-table": {
+    "text": "Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse.",
+    "source_heading": "Répondre à la question qu’on a retrouvée",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "12fe019fc09fd062f27c0a6fb895efd7ce315b5d3094961afb0aa3f73aca7974"
   },
   "posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple": {
     "text": "Le psychiatre Peter Sifneos a employé le terme « alexithymie » dans ses travaux cliniques. En recherche, il désigne plusieurs dimensions, notamment la difficulté à identifier ou à décrire ses émotions et une attention davantage tournée vers les faits extérieurs, comme le distinguent les travaux de Bagby, Parker et Taylor.",
@@ -279,12 +447,264 @@
     "method": "definition_excerpt",
     "source_body_sha256": "9379cb58d434e6dff10330d47e98ce86dc9ead5ded970b5cfb26e2407a00755e"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles": {
+    "text": "Deux rôles peuvent demander des gestes et une organisation très différents, même quand leur durée paraît facile à comparer. Chez certaines personnes qui ont un trouble de la coordination, enchaîner des mouvements dans une activité reste moins aisé que réaliser ces gestes séparément.",
+    "source_heading": "Les rôles sur le papier et dans la salle",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fa98cba1c7fb91237d2fa9d10a15716462f1f3a4b0dbc02a5d182d1829706ffd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat": {
+    "text": "Un changement dans la disposition d’un objet peut modifier les gestes nécessaires pour l’utiliser. L’ergothérapeute examine les activités qui posent problème et les éléments de l’environnement qui les facilitent ou les rendent plus difficiles.",
+    "source_heading": "Regarder ce que la boîte demande",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "61b9941ccec939c89225729d45b82437472a7f4934ca8ae55a8f748abadccdaa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle": {
+    "text": "Une façon de faire qui fonctionne dans un lieu peut demander des ajustements dans un autre.",
+    "source_heading": "Ce qui change avec la salle",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a90a4c2387f401e19ce144ce267fe10b229986fc166df552e1c07b364b53071a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-la-legende-de-la-carte": {
+    "text": "Une tâche de copie peut prendre du temps et de l’attention au point de gêner l’accès à ce qui est expliqué en même temps. Le CDDR de l’OMS cite l’écriture manuscrite, les dessins de cartes et la prise de notes parmi les activités où les difficultés de coordination peuvent se manifester.",
+    "source_heading": "La copie occupe une partie du cours",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "eb33163a435fa4a65fb792993938800ac941dd8fb901144d942ab948ce9c2efa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece": {
+    "text": "Une adaptation utile pour une représentation ne décide pas des rôles qu’une personne pourra choisir ensuite. Les difficultés liées au trouble de la coordination peuvent persister à l’adolescence, et leurs effets dépendent aussi des activités, des objets et de l’organisation du moment.",
+    "source_heading": "Une solution garde la trace de la situation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4ff2578b710fedc4ae8d2fd2fcfc70b72bc8df5ac7941e97c9b0f90218387edf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque": {
+    "text": "Un temps sans mouvement visible peut faire partie d’une action en cours.",
+    "source_heading": "Le silence pendant que la main travaille",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a5f91f3ac933e3223e079297694ecaa4d38174a127e151e434266c960599a9f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-le-bord-du-soleil": {
+    "text": "Un geste qui prend du temps peut demander beaucoup d’effort, même si le résultat est encore peu visible.",
+    "source_heading": "Ce qui se voit quand on compte les pièces",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "991ce6ab8e28d2f9e7a308b8b641d5b356479aa4ceb31e30a040e3b095ec4679"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme": {
+    "text": "Une personne peut vouloir expliquer un besoin à quelqu’un qui l’aide et garder cette information pour elle ailleurs.",
+    "source_heading": "Savoir à qui l’on parle",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "83a02a841a347c0fa47b9fefe53af768d009f94cee2f34f4caf7cfcf01d67eda"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe": {
+    "text": "La réussite d’un geste ne dit pas combien de temps ou d’effort il a fallu pour y parvenir. Dans le trouble développemental de la coordination, des mouvements déjà connus peuvent rester lents ou moins précis.",
+    "source_heading": "L’énergie qu’il reste après avoir fini",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a6e8dd970c826e6f67a46380b2858d474ee70709d27f5b3d8239f776d686919e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-le-temps-du-silence": {
+    "text": "Un silence qui semble long pour la personne en train d’agir peut avoir une autre signification pour ceux qui la regardent.",
+    "source_heading": "Tout le monde n’attend pas la même chose",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "28e78a4d4f2935aca6ec25a45abe06169dc99f4fe4c5d908d69eba985d2922ce"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin": {
+    "text": "L’autonomie consiste aussi à choisir une activité d’après ce qu’on y trouve de plaisant et d’important. Les recommandations de l’EACD invitent à tenir compte du point de vue du jeune et de ses forces lorsqu’on fixe les objectifs d’un accompagnement.",
+    "source_heading": "Faire place à ce qui donne envie de jouer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "40c7a05793938f3aa92b7636b44f6de54118fc8d6fa46638f051e59689a21f2f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale": {
+    "text": "Remplacer un objet peut modifier à la fois son effet et les gestes nécessaires pour le manier. Une différence de rigidité ou de prise peut compter pour quelqu’un qui a des difficultés de coordination.",
+    "source_heading": "Un changement matériel suffit à relancer les questions",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c7a473ee49f33ad75707e1f543165de0e00d6e72255b734a9923f932dc02d847"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille": {
     "text": "L’auto-compassion consiste à se traiter avec attention et bienveillance lorsqu’on éprouve une difficulté. Elle n’impose ni de se rassurer à tout prix ni de se féliciter d’une erreur.",
     "source_heading": "Qu'est-ce que l'auto-compassion selon Kristin Neff ?",
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "82f91eccda9e9bd92891300511064829bdc7da947aff89db4bbc42f28f7ab9c9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-avant-la-place": {
+    "text": "Un lieu lié à quelqu’un qui est mort peut raviver le manque au moment où l’on s’apprête à y entrer. Les CDDR de l’OMS indiquent que, dans le trouble du deuil prolongé, une forte préoccupation pour des souvenirs et l’évitement de certains rappels peuvent coexister.",
+    "source_heading": "Ce qu’un lieu peut raviver",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ec72d51eb152bcaf3eebd9686f28b4320bee0b1d05c42b438434ddad0d95e3b6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-case-des-remerciements": {
+    "text": "Une invitation peut être bienvenue sans que la personne ait envie d’en faire un événement public.",
+    "source_heading": "La place qu’une personne souhaite prendre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1b1b7e1671af39db076432ac80f309995a4a881a9d0bb36cb33a68f76d8f123e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-chaise-pres-porte": {
+    "text": "Une activité liée à un proche disparu peut retrouver de l’intérêt alors que le manque reste douloureux.",
+    "source_heading": "Reprendre une place à sa façon",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "92196bfc19a0cc2487ff4024c95af8030de5466f5d56507d449013e9a3ed53aa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-deux-feuilles-pour-choeur": {
+    "text": "Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision.",
+    "source_heading": "Choisir l’avenir de quelques objets",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6c611c18c29ee8cf8022db49bc1f81b4cc43c39c57fc5df3e717eaa47d47d050"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-elastique-bleu": {
+    "text": "Dans le trouble du deuil prolongé, l’absence d’une personne morte revient avec une douleur qui prend durablement beaucoup de place dans la vie quotidienne. L’OMS décrit dans la CIM-11 le manque persistant de la personne disparue ou des pensées envahissantes à son sujet, avec une douleur émotionnelle intense.",
+    "source_heading": "Quand le manque occupe la journée",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "003cfafb0b159abe2cfcad3e40bd92aceddd2b15a093e7be321a3c5eb0cd81ef"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-encre-et-crayon": {
+    "text": "Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place.",
+    "source_heading": "Garder un objet peut avoir plusieurs sens",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f35625974e16c1be30857980d318ec0d156868fd5ef9c7c5eb05b28f359ec376"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-galette-sur-le-carrelage": {
+    "text": "Les émotions du deuil peuvent changer dans la même journée, parfois de façon inattendue.",
+    "source_heading": "Le chagrin et le plaisir peuvent se côtoyer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0556621c97825e6bc7f75b81d97f0814a471b83dafb553127fa3d1ab03f209e7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-mesure-neuf": {
+    "text": "Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation.",
+    "source_heading": "Deux personnes se rappellent deux scènes",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "77b4f39d3f55707aecaa7325839926952d7ad910fa183a6790e25b59d45e2e49"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-notes-de-consultation": {
+    "text": "Une psychothérapie ciblée sur un deuil persistant et très invalidant peut aider certaines personnes. Dans un essai randomisé, Shear et ses collègues ont observé davantage d’améliorations marquées chez les personnes qui recevaient une psychothérapie ciblée en plus des consultations prévues dans les deux groupes comparés.",
+    "source_heading": "Un suivi peut partir de ce qui compte encore",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2bc3eaaa6918f6ec366d02371fa429fc6c30641b964c6cbd7746ce9b8c8ae9fe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-phrase-sur-les-branches": {
+    "text": "Les difficultés liées à un deuil peuvent rester invisibles à des collègues qui voient surtout le résultat. Dans le cadre de l’évaluation d’un deuil prolongé, l’OMS invite les professionnels à examiner les effets importants sur la vie de la personne, y compris l’effort considérable qui peut être nécessaire pour maintenir ses activités.",
+    "source_heading": "Ce que cache parfois un travail livré",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2e94554b25fef680926484a3b7413b8a6e29260929270baf873e79c4fe6a59b7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-portee-de-la-semaine": {
+    "text": "Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie.",
+    "source_heading": "Examiner ce qui déborde de la scène",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3292f38bb1fa92128290514959e87d53c343bb1acc91c845b2f8f5c9366688fa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/blandine-table-de-mireille": {
+    "text": "Un rituel de souvenir peut réveiller une émotion vive et avoir une place ordinaire dans le deuil. L’OMS souligne que les coutumes, les dates marquées et les façons de montrer son chagrin varient selon les familles et leurs contextes sociaux, culturels ou religieux.",
+    "source_heading": "Le calendrier ne suffit pas",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "738fccc936ab2288c6027b98cbefa10eb33cd20be94f7a5ad8e1860199996a02"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents": {
+    "text": "Une lecture exacte peut demander des relectures et beaucoup de temps dans un trouble développemental des apprentissages avec déficit en lecture. Ce coût se voit peu quand on ne regarde que le résultat final.",
+    "source_heading": "Le temps qu’il faut pour lire juste",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "cda2190b85ba644b2e0941a1c1f48b5af274f8a09be38261d1314540cb036659"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage": {
+    "text": "Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé.",
+    "source_heading": "Un besoin de formation peut se dire en peu de mots",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "133c75908eaab5b01d695246f9c052bad85fd26d912fcfd3fade1f0f0faf0d0a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau": {
+    "text": "Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension.",
+    "source_heading": "Entendre une consigne et lire la même consigne",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "215fd75263a6548457ef5f2b9918d2df4248437c6cff2861bededf7b87cf4e60"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table": {
+    "text": "Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif.",
+    "source_heading": "Avoir un appui et rester responsable de ses choix",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "12f1de1c9f87187c36b44fd5326fd01d319990c784807bfb08be18599c0091ce"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule": {
+    "text": "Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement.",
+    "source_heading": "Le geste est compris avant que la phrase arrive",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "84c2ea022b2b46010812e6b5790828f09031436d2870b7826d27afb59e60fa03"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent": {
+    "text": "Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides.",
+    "source_heading": "Un projet fini et des besoins qui peuvent rester",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "807b6db000c29fc7750170a8c9e10dac21262487135b276ee5e02e5d33c0b023"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service": {
+    "text": "Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas.",
+    "source_heading": "La dernière ligne peut coûter plus que la première",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bac1ebc13a9adf8d4efd4ed7a94a23f5f00c5fb8ee6ffebcd1c7732cd7a95a2f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton": {
+    "text": "Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance.",
+    "source_heading": "Distinguer la lecture difficile de l’information absente",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fd5f9f49c41ec6e1bb257961222a738b0a16625bd6b0f683b95b0b0fa8f1dc2f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter": {
+    "text": "Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent.",
+    "source_heading": "Prendre une responsabilité qui se partage",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "97e82895f1be5a1cd02304b16777cf5264b45a2004662aa2d26d5e22515d688f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus": {
+    "text": "Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps.",
+    "source_heading": "Le moment où retrouver l’aide devient une tâche de plus",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "61e5ddf9638078e01ba8b877d9726a77f1c18ed268da2a60bfcab8636a69d4f2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan": {
+    "text": "La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes.",
+    "source_heading": "Lire les mots et saisir ce que dit le passage",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e260f3b20a652f5fe7aaca4447ed3dde6a48ce3fff67cd3f39b0e03537547e1b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle": {
+    "text": "Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture.",
+    "source_heading": "Un format utile dans une pièce peut l’être moins dans une autre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5a2b7f8dcb2dd33b27b5df5ffaca28fc12e98c8012f421bc0a18c3c94a94bb39"
   },
   "posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions": {
     "text": "Ici, « charge mentale émotionnelle » désigne l’effort d’anticiper des tensions et de prendre en charge le climat d’un groupe. C’est une expression descriptive, sans définition clinique.",
@@ -391,6 +811,90 @@
     "method": "definition_excerpt",
     "source_body_sha256": "1bd839587af56d814dcbbef42997d78cf09a8bba20c88b02cf4a985182969a19"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/come-avant-le-deuxieme-essai": {
+    "text": "Une consultation d’addictologie peut aider à revenir sur une situation précise et à discuter des possibilités de soin.",
+    "source_heading": "Revenir au moment où il reste un choix",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5609f09f3611b56ba79f9504df69637d2a4688fbd76450121367ce29bfc6f5f3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-bac-derriere-le-comptoir": {
+    "text": "Une pratique de jeu difficile à interrompre peut réduire le sommeil et peser sur le travail le lendemain. Le guide de l’OMS signale que les perturbations du sommeil peuvent faire partie du trouble du jeu vidéo.",
+    "source_heading": "Le sommeil se voit le lendemain",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "df7054b5e640172e9f55e62e64997f44ad62d214b01b0d1ad1ff87ee2b1adbe9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-craie-sur-le-bati": {
+    "text": "Dans le trouble du jeu vidéo, il peut devenir difficile de s’arrêter ou de changer le moment où l’on joue, même lorsqu’on voit ce que cela risque de coûter.",
+    "source_heading": "Ce que le retard ne raconte pas à lui seul",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "95c5844196b999c1d37a471e5122533ca047a5e659a0344db9986749caae4146"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-feuille-a-deux-colonnes": {
+    "text": "La difficulté à modifier sa pratique du jeu peut se manifester dans des situations différentes chez une même personne.",
+    "source_heading": "Un même effet après deux soirées différentes",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9c7422c4327d71a414911d91fbdd6760a9d36b7ecad8b1fe89156737d34ecd92"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-jeudi-petite-carte": {
+    "text": "Le jeu en ligne peut être un lieu de rencontre et de coopération. Dans le guide de l’OMS, la coordination entre joueurs fait partie du contexte qui peut entretenir une pratique intensive. Elle ne suffit pas à établir un trouble et le lien entre les joueurs peut avoir de la valeur.",
+    "source_heading": "Le groupe compte dans l’histoire",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "596e75ab9cf3315619a81d12205996ae2a74061927eb9a45860d7575983f6175"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-les-references-sur-le-ticket": {
+    "text": "Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie.",
+    "source_heading": "Rendre visibles les effets sur le travail",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fea7dbe6b5e77c2a8ed75a95499106b803f05a6fd9867dc6f8a9c43c609cc4b2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-place-pour-la-chaise": {
+    "text": "Le retentissement d’un trouble du jeu vidéo se comprend aussi à partir des activités auxquelles une personne tient.",
+    "source_heading": "La place que Côme veut donner à la table",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "732306e200f4e5e4dafdabdfcf3a850491d67b5b7af9a32c654bf4d9f51824b1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-plateau-deja-parti": {
+    "text": "Dans le trouble du jeu vidéo, les difficultés peuvent revenir par périodes. Jeudi, la petite carte avait une fin commune aux trois joueurs.",
+    "source_heading": "Le jeudi réussi et le mercredi manqué",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "692031cd714b5f0825d7eb5c4423a3730b4a357a7391abfd2b5e68117cb24cf0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-premier-pion-sur-le-bois": {
+    "text": "Le trouble du jeu vidéo se comprend à partir du retentissement de la pratique et de la difficulté à la modifier, pas de la valeur des amitiés nouées autour d’un jeu.",
+    "source_heading": "Garder plusieurs façons de se retrouver",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b7c6e5bfdc43ecdc7d3e2dd7cd39883235d6c868b91c32497388d2f586b5e4f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-tour-de-table": {
+    "text": "Un projet personnel peut compter pour lui-même dans la vie d’une personne qui a un trouble du jeu vidéo.",
+    "source_heading": "Un rendez-vous peut avoir sa propre raison d’être",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9e6432b819b9ffae0d2558fb830b5c4bd8b911221e9a35d7f302770037a0fddd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-un-appel-sans-la-partie": {
+    "text": "Un soutien entre amis peut se discuter sans confier à l’un la responsabilité de la pratique de l’autre.",
+    "source_heading": "Un ami peut poser les conditions de son aide",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "47ae69829d94e9980bda1e048e0249d9f43d265a766fedbe85822341f1ce55d3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/come-une-invitation-pour-sana": {
+    "text": "Jouer pour retrouver des amis ne suffit pas à caractériser un trouble du jeu vidéo.",
+    "source_heading": "Les liens peuvent garder la même place quand les horaires changent",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6048c792253f414d60fb38682625a756ba90f2268352e7294fa4f1eb82e51e89"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche": {
     "text": "On parle de compassion quand la souffrance de quelqu’un nous touche et qu’on souhaite l’aider. Le mot « empathie » désigne plusieurs façons de comprendre ou de partager ce que l’autre éprouve. Klimecki et ses collègues ont mesuré des réponses différentes à des vidéos de souffrance après deux entraînements en laboratoire.",
     "source_heading": "Qu'est-ce que la compassion face à la maladie ?",
@@ -460,6 +964,90 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "6e52f4b8b2b0a2dad8ded73c97511d6490e4b119bd078334242b36473d104c53"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-appeler-malik-accueil": {
+    "text": "Quand deux sollicitations arrivent en même temps, une aide ciblée peut laisser la place de terminer ce qu’on a commencé.",
+    "source_heading": "Une demande d’aide qui garde une place pour ce qu’on sait faire",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c301b15af34180fff1b509b99c2634d5da7427a5dc31295119ddac1ae5c98005"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-choisir-ce-que-dit-cartel": {
+    "text": "Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux.",
+    "source_heading": "Ce qu’on voudrait faire voir",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5c16b9a2d07e82b3a3bd50eb1c589a17033131debcb719961705c61ffb44c46b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-defendre-place-des-pieces": {
+    "text": "Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi.",
+    "source_heading": "Faire entendre une préférence avant de l’abandonner",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e2dd4f3da7318b8ad9e299d622fabb1e774902ec632b938b08add19487a8fc36"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-demander-aide-sans-tout-confier": {
+    "text": "Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin.",
+    "source_heading": "Faire préciser l’aide prévue avant de rentrer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9fc5812f6f35935373f8fb4cdf2cea0481160fe9e49366134b1cc671f3a38470"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-doute-bol-four": {
+    "text": "Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire.",
+    "source_heading": "La déception qu’on ajoute au bord du bol",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2d1b8f0845325e8af906a32fa64531a520a015f04c331892034ba41e26f43cf2"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-excuses-banc-canal": {
+    "text": "Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal.",
+    "source_heading": "S’excuser de la phrase dont on se souvient",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6f2c96843976cf475d3d41e05fa10959908f82b4fa549069c9b846b2ef7f51e3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-faire-place-avis-vernissage": {
+    "text": "Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail.",
+    "source_heading": "Laisser une personne regarder à sa façon",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "db10e26c42afb3ae8bc7feb28af808b6253863025560acf90fcc9f3439574ed5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-faire-ses-preuves-bibliotheque": {
+    "text": "Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement.",
+    "source_heading": "Retrouver une compétence à la fois",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bdfc1cc9d691157760a7bd90483846408c9ed6fa9eb27a8018f46571e2d44f82"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-honte-table-poterie": {
+    "text": "On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour.",
+    "source_heading": "Une place à table sans récit à fournir",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c1d294bd987932187143cfc58d8fe3a070a26de9dbdc40ce1673bf843d13d9db"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-nom-trouble-premier-rendez-vous": {
+    "text": "Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre rappelle que le changement s’est installé en quelques jours et que les manifestations ont varié rapidement, puis se sont apaisées pendant le séjour.",
+    "source_heading": "Ce que l’équipe a suivi dans le temps",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "53c4a06f95c65f262891d342f3c4a468f1e2b69f765a4d796d7db2edb04583c8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-peur-que-ca-revienne-marche": {
+    "text": "Un changement préoccupant après un épisode psychotique mérite d’être discuté avec l’équipe qui assure le suivi.",
+    "source_heading": "Parler de ce qui a changé depuis le dernier rendez-vous",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0232b782a0510cfa0030eee61d22194292e544dc59ded65c1b0104bfc314952e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/diane-premier-message-atelier": {
+    "text": "Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour.",
+    "source_heading": "Revenir ne veut pas dire pouvoir tout reprendre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "552b90d29c005cda50fc0636ccc292a5813918da6498d11e8124a8077ca9f19f"
   },
   "posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide": {
     "text": "Pennebaker et Beall ont étudié des exercices où des participants écrivaient sur des expériences difficiles selon des consignes précises. Ces travaux comparent des groupes et des résultats mesurés. Ils ne montrent pas que toute personne devrait écrire sur un traumatisme, ni qu’écrire renforce l’immunité, protège de la violence ou fait disparaître une douleur.",
@@ -860,6 +1448,90 @@
     "method": "definition_excerpt",
     "source_body_sha256": "cf88aade565e163f5d87306f108b2358ae79f1df4e1eb7c24a66967f7c38dd5f"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-appeler-apres-une-nuit": {
+    "text": "Une période plus agréable et le retour d’une préoccupation peuvent faire partie de la même évolution.",
+    "source_heading": "Les bonnes journées comptent aussi au suivi",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "db4f166858843735e58c7ad8ed482f187b6364f304b5f38e678efe387f5b4272"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-banc-boulangerie": {
+    "text": "Parler du retentissement d’une inquiétude peut ouvrir une conversation avant même qu’on puisse en raconter le contenu.",
+    "source_heading": "Faire entendre ce que l’inquiétude coûte",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "70f24fee31fff58f0a2c77423c60fb310c3343bc6910ab13fbb16a384cdd8a45"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-confirmations": {
+    "text": "Un incident réel mérite une réponse concrète, même lorsqu’il s’accompagne d’une inquiétude plus difficile à départager.",
+    "source_heading": "Deux problèmes sur la même table",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c8b07cd7c169b1d88ea13a4719150258882b81e50a8b137ae5f54261a14b9c2c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-durees-reunion": {
+    "text": "Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place.",
+    "source_heading": "Une limite précise pendant une discussion difficile",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "123018725460577f33dfeca5f0c5bf71a896701bc737949f23b7befd39236f38"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-deux-portails": {
+    "text": "Quand un rendez-vous se passe mal, une explication peut s’imposer avant qu’on ait vu tous les détails.",
+    "source_heading": "Traiter ce que le trajet permet de comprendre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "35ec514c12fd5a0d73d2a2b19002eb142410633a3f789dbbb8864291e6168c33"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-heure-a-corriger": {
+    "text": "Une erreur concrète peut être corrigée pendant qu’on s’inquiète encore de ce qu’elle donnera à penser.",
+    "source_heading": "Réparer un fait à la bonne échelle",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7ff5200a5d12cd6087be6864fb1f56f2a1955fb060323528f21017255b094d49"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-la-place-dessai": {
+    "text": "Pouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir.",
+    "source_heading": "Se sentir libre de revenir",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "daceeee2ca19171cc42a6c2e3e25981dd713990e27ec4fc854449f2d65ad1675"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-nom-retire-tableau": {
+    "text": "Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi.",
+    "source_heading": "Quand un détail prend toute la place",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fdead5a6fcae5d25422ec631fe42ca4bae438af745664b9aaf6adf1b1e2f0296"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-note-pour-farah": {
+    "text": "Un rendez-vous de suivi donne l’occasion de parler de ce qui devient plus difficile et de ce qu’on tient à continuer.",
+    "source_heading": "Décrire un changement à partir de sa vie",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3b5390e6c077e9a1964bbc7ef0913365a28c671ef5b159cd96860388b0d4e604"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-reprendre-apres-pique": {
+    "text": "Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée.",
+    "source_heading": "Regarder ce que sa réponse a produit",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "62b98fcba0dbe9aaffb2d5832b81388e027d0ea154c328de4217d67a3f9f8037"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-service-cote-vent": {
+    "text": "Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu.",
+    "source_heading": "Retrouver ce qu’on veut faire de son temps",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7f534e4f853c8bd66dd3c5bcdf4cb8aee63edd4c8bf2c691eb5ff9ab2aee630f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/gasparde-telephone-en-promenade": {
+    "text": "Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend.",
+    "source_heading": "Faire une place à l’autre dans le travail",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4122883cc8734097187a68ca4e175d33a074ac59b31387a8ce834aaf0a635cb9"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis": {
     "text": "La granularité émotionnelle, ou différenciation émotionnelle, décrit la précision avec laquelle une personne distingue ses expériences affectives. Les travaux de Lisa Feldman Barrett et de ses collègues ont examiné le lien entre cette différenciation et les façons de réguler ses émotions.",
     "source_heading": "Définition de la granularité émotionnelle",
@@ -873,6 +1545,90 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "88a46a74355d1967504a8e4547be107dec3b884a9315c3dbf37eae7b39092580"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-au-bout-de-la-fleche": {
+    "text": "Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie.",
+    "source_heading": "Garder le choix du soutien après l’essai",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "61f721c15ebc495649f159504ceb66d708e44e3fd8d95b78055a8e15cb0ba986"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-deux-facons-de-montrer": {
+    "text": "Un support sert quand il donne accès à l’information dont la personne a besoin pour agir. L’étiquette du papier et le nom affiché par l’imprimante ne se correspondent pas à première vue.",
+    "source_heading": "Faire apparaître le lien entre l’écran et le carton",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5248aefda13737596c805f7072e1d5a3caa8bbd3fb80a02b61c2797b42f0ffe6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-la-chaise-de-sofia": {
+    "text": "Présenter deux options ne suffit pas toujours pour qu’une personne puisse choisir entre elles.",
+    "source_heading": "Laisser ouverte une décision qu’on est pressé de clore",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ab70f31d5a4a730435090d88ffb01a2ea4ed407fd025fca8ea2330cd211f12e5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-la-fleche-apres-les-plats": {
+    "text": "Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre.",
+    "source_heading": "Regarder ce qui a changé entre deux essais",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d8c2227c4402b14041cb7ccbb894fcce2969a587af6be0a47f06a61fae11a458"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-la-porte-bleue": {
+    "text": "L’utilité d’un repère dépend de ce que la personne pourra retrouver au moment où elle en aura besoin. Une photo du parking renseigne les personnes qui arrivent en voiture.",
+    "source_heading": "Garder les repères qui correspondent au trajet",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "26ef6808583d087cf97f7f343047ced1cc8425da0df29ac846bc8475c053f80d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-la-table-dans-la-cour": {
+    "text": "Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser.",
+    "source_heading": "Choisir le moment de reprendre une information",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8951890684d6a60370a39ba760ec6663e9db7786bdab39e242f5ed2a0f960c36"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-le-jeudi-sans-verrerie": {
+    "text": "Une déviation change la tâche, même lorsqu’on connaît le trajet habituel.",
+    "source_heading": "Distinguer le trajet connu de la déviation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1e54cb563ca647b69ef88195678746061dbcd68a07506d2a7f949637a88e0908"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-le-panneau-sans-portrait": {
+    "text": "Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie.",
+    "source_heading": "Distinguer ce qu’une personne accepte de montrer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e7cfcda24038e78346fb8fa8a5800c7e75df9e4dc9bb347d98610d16fd458552"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-le-parvis-de-tannerie": {
+    "text": "Un rendez-vous devient plus facile à retrouver quand le repère correspond à ce que les deux personnes peuvent voir et nommer. Ilyes pensait avoir donné un côté du bâtiment.",
+    "source_heading": "Décrire un lieu à partir de ce qu’on voit",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8ab6b7679683447d79640639e4aa53f61cbcd42f2a5da780590e47967a8ed42c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-le-prix-qui-nexiste-pas": {
+    "text": "Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable.",
+    "source_heading": "Lire l’erreur depuis l’endroit où elle se produit",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "11e00ee3e6b7cae5b8bba1a79d7076deff767cb0aae1bdcad7af537fc14a246a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-ou-tombent-les-tasses": {
+    "text": "Un changement de routine peut augmenter le besoin de repères d’une personne qui vit avec un trouble du développement intellectuel. L’OMS décrit des difficultés significatives du fonctionnement intellectuel et des habiletés utilisées dans la vie quotidienne, avec des profils différents d’une personne à l’autre.",
+    "source_heading": "Quand « habituel » ne désigne plus le même endroit",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c806960b1e41e67ba09467d9ae97573103ba4de46daf0a5677c5d4cda0e6e211"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/helene-qui-deplace-la-fleche": {
+    "text": "Un aménagement au travail dure mieux quand son entretien est prévu dès le départ.",
+    "source_heading": "Attribuer une tâche à partir de ce qu’elle demande",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "52489eb8a4523b74e386356db46d7ab1947b09fc5943dc8ff6698041b12b2a4e"
   },
   "posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions": {
     "text": "La honte peut naître de la crainte d’être dévalorisé. Dans les travaux de June Tangney et ses collègues, elle se distingue souvent de la culpabilité : la première porte davantage sur le jugement qu’on porte sur soi, la seconde sur ce qu’on a fait.",
@@ -1035,6 +1791,90 @@
     "method": "definition_excerpt",
     "source_body_sha256": "ebd10a42326dcd0d050ba8aa356143c6a84f2087fb6d9ee9ffcde89f5bfb71fc"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-arret-des-rappels-a-la-maison": {
+    "text": "Un mouvement répété peut entraver une activité à un moment et accompagner une autre activité sans la gêner.",
+    "source_heading": "Distinguer la gêne vécue du geste remarqué",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5602e9a08f141bb872e9457bb0af72e5673bff335d41c89cf55f9298aa6d679c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-chercher-un-coin-a-deux": {
+    "text": "La gêne liée à un mouvement répété dépend en partie de la tâche et des conditions dans lesquelles on la fait.",
+    "source_heading": "Ce qui se perd entre deux pages",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c5209b843a436b3b1c0755d7d884d90fe351a92718c9b8e3573e8dfeed8a54d8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-choisir-la-place-de-chacun-au-programme": {
+    "text": "Une aide utile dans un moment précis peut devenir gênante si l’entourage en fait un rôle permanent.",
+    "source_heading": "Un coup de main ne donne pas un rôle pour toujours",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "632a34898b94ce8c36ee999605176f6c04b55014b72a4c1d6d840d2a3484df5d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-choisir-les-mots-en-consultation": {
+    "text": "Les besoins de sécurité et les difficultés à poursuivre une activité s’évaluent à partir de situations concrètes.",
+    "source_heading": "Parler de la sécurité et de la lecture",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bd7ccc8e14f429075d801b7c9d620ea1f9a0cb8bed280412dc1dc4d82c67eb62"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-defendre-une-idee-au-montage": {
+    "text": "Un aménagement peut aider à poursuivre un échange même quand des mouvements répétés sont présents.",
+    "source_heading": "Le temps de répondre à la question posée",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a949789917dac5461ccb05ec0d712cc52992965ca345d9eb0ebd494ca50241ce"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-demander-un-relais-dans-le-passage": {
+    "text": "Quand un mouvement répété s’accompagne d’un heurt ou d’une douleur, les adultes doivent prendre au sérieux ce qui vient de se passer.",
+    "source_heading": "Une douleur mérite d’être entendue",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "05196ff3f406c50fa398a9adc5ff5ddca9a03365932fd74ffc3480ee5c012ba4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-dire-non-a-une-table-dans-le-hall": {
+    "text": "Pour évaluer un aménagement, il faut regarder ce que la personne pourra y faire quand le lieu sera réellement utilisé.",
+    "source_heading": "Un espace grand peut laisser peu de place",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "df2da96f8b3751257f4909f1dc93d12e115138b05e345b35c86240c2ef5a6938"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-garder-sa-place-a-latelier": {
+    "text": "Des mouvements répétés peuvent coexister avec l’attention portée à une activité et interrompre une partie de ce qu’on essaie de faire.",
+    "source_heading": "Quand un geste familier interrompt la suite",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "89a4df38cc3679c58b9e12f396fa7a9eeadc675029fa8342e759114cfe29a8f4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-montrer-le-plan-au-cdi": {
+    "text": "Les mouvements stéréotypés peuvent survenir au milieu d’un échange qui se passe bien.",
+    "source_heading": "Une scène dont les autres changent le sens",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "dd95f1383172734d46f7e53809ed5b57c825180e4b57c850679a2284c1007080"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-preter-le-livre-et-garder-ses-feutres": {
+    "text": "Un suivi peut porter sur les activités que la personne veut retrouver ou poursuivre et sur les conditions qui l’y aident.",
+    "source_heading": "Regarder ce que le soutien a permis",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c782d6e0009d023d8d5484a2f7891c1451a3e323fe7473173e18d3f92df3ed1c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-retrouver-le-fil-devant-les-visiteurs": {
+    "text": "Participer à une activité reste possible quand un mouvement répété en interrompt un moment.",
+    "source_heading": "Reprendre peut faire partie de la lecture",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "878efdeb6164dddf91e09151e95924bb46d374f459f121984dce1155fc7e7400"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/irene-revenir-au-livre-devant-une-invitee": {
+    "text": "Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité.",
+    "source_heading": "Un essai utile peut encore être difficile",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a78a673c71399f87afcc0bf5a600af3f145338589e21e2dd83f0c1e841a7e164"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir": {
     "text": "La jalousie peut apparaître quand on craint de perdre une relation importante au profit d’une autre personne. Dans leurs études sur la jalousie et l’envie, W. Gerrod Parrott et Richard Smith ont distingué cette crainte de l’envie, qui concerne davantage quelque chose que l’autre possède.",
     "source_heading": "Définition de la jalousie et mécanismes psychologiques",
@@ -1126,6 +1966,90 @@
     "method": "definition_excerpt",
     "source_body_sha256": "99d52d76760a8ca64bd2f06c408fee6d4dd716e68a3af587b1900a6cafbd51be"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-aide-surveillance-deballage": {
+    "text": "Le besoin d’aide peut varier d’une opération à l’autre au sein d’une même tâche. Les difficultés du trouble développemental des apprentissages dépendent entre autres des exigences de la situation et des soutiens disponibles.",
+    "source_heading": "Un appui peut se déplacer d’une étape à l’autre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4a49a3052232eb88c2128eba27d5975e0fd521fb6ee36ec07909ce8037ffcabf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-contredire-etiquette-reserve": {
+    "text": "Une mesure peut être exacte alors que le document auquel on la compare parle d’un autre état du matériel. La vieille étiquette dit « 1 m », sans préciser si cette longueur date d’avant une coupe ou inclut la partie abîmée.",
+    "source_heading": "Deux chiffres peuvent désigner des choses différentes",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "110b0f186e2b4e426f7bd714dfa794e0eac1e674f4da88bee3c1317b1b669190"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-defendre-demande-reliquat": {
+    "text": "Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons.",
+    "source_heading": "Un total peut être juste et la solution ne pas convenir",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a69fa94142f504b730fe6a6e631dff8b32217901fdd2b291b30bfafeb4b55eec"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-demander-une-relecture": {
+    "text": "Demander un appui peut faire craindre d’être jugé sur la difficulté plutôt que sur l’ensemble de son travail. Dans les entretiens menés par Staller et ses collègues, des adultes dyscalculiques ont raconté de la honte et de l’évitement dans certaines situations chiffrées.",
+    "source_heading": "Le risque imaginé derrière une demande d’aide",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c0b616562583ac97e1c0604f2d640cba91b788a5d2b10f5e122c36b43da409d5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-dire-oui-devant-le-devis": {
+    "text": "Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique.",
+    "source_heading": "Ce qu’un résultat juste peut coûter",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a01feecc17058d1cc63d1f3766a5ad314ef3ac75c7185a7950e7a3813f0535c1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-douter-centimetres-metres": {
+    "text": "Changer d’unité oblige à garder la même quantité tout en modifiant la façon de l’écrire. Pour une personne qui a des difficultés durables avec certaines opérations numériques, cette étape peut demander plusieurs vérifications, même si elle connaît la relation entre mètres et centimètres.",
+    "source_heading": "Le nombre a changé d’écriture",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "43c6a4d4dd15fc1c6f2d1e9e3315eaf1f546ecca847f2d6b5365300c0f322d55"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-effort-invisible-rendez-vous": {
+    "text": "L’effort nécessaire pour maintenir un résultat fait partie du retentissement possible d’un trouble des apprentissages. L’OMS décrit des situations où le niveau de fonctionnement paraît satisfaisant grâce à un surcroît marqué de temps, de soutien ou d’effort.",
+    "source_heading": "Le suivi peut partir de l’effort autant que du résultat",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "74d42f36126728cf12e65185151372380e53c7be5d9c560e3587bfe98c795573"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-faire-attendre-le-fournisseur": {
+    "text": "Une longueur de tissu peut rester identique alors que le changement de largeur modifie les pièces qu’on peut y placer.",
+    "source_heading": "Deux nombres n’occupent pas le même côté",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "df317027ca03138252b730639b25fb53c97e62f5a2f68efc5dff83d9ad9322c8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-garder-la-main-commande": {
+    "text": "Être autonome dans une tâche peut vouloir dire choisir les outils et les vérifications nécessaires pour la conduire. Un trouble développemental des apprentissages peut persister à l’âge adulte et ses effets varient avec les tâches et les aides disponibles.",
+    "source_heading": "L’autonomie peut inclure des appuis",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b0a27dd2782d14be6ebe77050e99d35cf9b01ed42f26faf89951997417374e48"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-rire-pour-eviter-de-compter": {
+    "text": "L’appréhension de se tromper peut conduire à passer la main sur une tâche qui compte pourtant pour soi. Parmi les adultes rencontrés par Staller et ses collègues, certains ont décrit des manières d’éviter des situations où des calculs étaient attendus.",
+    "source_heading": "Une plaisanterie peut masquer une hésitation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f23b473155661cf3ef3f59a8cce5b323932da9fb767828fe9e9d369ec0b9e633"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-se-croire-fautive-devant-le-devis": {
+    "text": "Une différence entre deux documents dit où vérifier avant de dire qui s’est trompé.",
+    "source_heading": "L’habitude de douter ne désigne pas l’auteur de l’erreur",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1451f7cc78859261244045042b5622d6d90a7381391fac4949d5b39564f4daee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/lison-vouloir-verifier-seule-livraison": {
+    "text": "Les difficultés numériques peuvent varier selon la tâche, sa complexité et l’appui disponible.",
+    "source_heading": "Une étape bien faite ne règle pas la suivante",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3394dbb5dc702d2bda803d9a8c70333f23fe28cba4663688ad83ff4f4139a347"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels": {
     "text": "Percevoir ses besoins corporels consiste à remarquer des sensations internes et à les mettre en relation avec le contexte pour choisir une réponse adaptée. Cela peut concerner la faim, la soif, le besoin de repos, une gêne ou un besoin de mouvement.",
     "source_heading": "Qu'est-ce que percevoir ses besoins corporels ?",
@@ -1146,6 +2070,90 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "cf9530a3bff94f4a7789c4afd48a619f43c6c6a8f54774559c09276d8c2597f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-choisir-la-signature": {
+    "text": "La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne.",
+    "source_heading": "Ce que la ligne sous le titre rend visible",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "db217a11d8eb48ff39f1790f38072fae1e6c771b6a290f470b1db780cdb9318a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-choisir-un-indice": {
+    "text": "Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne.",
+    "source_heading": "Une aide peut changer de taille",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b4173e0399d1d8cd5ee84ebbabd76369357abb66d79cc210bac0860cea1a0448"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-compter-le-temps-de-relecture": {
+    "text": "Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante.",
+    "source_heading": "Le travail derrière une page qui tient",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "70c84035b0f9e667dfbd16d49d7040eb10e8d47ed2922b6d556cefaa90aeb28e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-couper-au-bouclage": {
+    "text": "Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi.",
+    "source_heading": "Quand l’effort est réel et que l’appui a une limite",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "98564c6abcdd9e52e54d5e98216d4ed1ae214f6db8e038c2a82783bd87093e29"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-dire-le-besoin-a-la-cantine": {
+    "text": "Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices.",
+    "source_heading": "Dire ce qui aide n’oblige pas à dire pourquoi",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4b298d94edd6232a866f68b365fba4dc0227f4537868a20a2114f08ae454667f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-garder-le-brouillon-pour-soi": {
+    "text": "L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise.",
+    "source_heading": "Un outil change d’usage quand le lieu change",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "09a1b804599c1a740cf849513fa41fdb33aef0ac0e5688140c3e30a2e33924b9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-garder-sa-phrase": {
+    "text": "Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise.",
+    "source_heading": "Une correction et une réécriture n’ont pas le même effet",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "75d0d158d3b0f0465fb9c34f09060ae7416a6c2c6cddf8ea5f95c3bdd9760592"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-prendre-part-au-reportage": {
+    "text": "Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi.",
+    "source_heading": "Le temps qu’on ne voit pas sur place",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7b1a3394d9a99c7b7459a57a1bfc3019fed2d41dd1385126d50aee08b42388ea"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-proposer-un-reportage": {
+    "text": "Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit.",
+    "source_heading": "Une idée peut arriver avant sa phrase",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "19ae8b4a199711b87c80ae7c06bc3bf5957fd3ba70f1e41fe09f29b34a3afc10"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-reconnaitre-sa-voix-imprimee": {
+    "text": "Une page qui se lit bien peut avoir demandé un effort que le lecteur ne voit pas.",
+    "source_heading": "Un texte publié ne dit pas tout du travail qui l’a précédé",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5a259111f9745899abf2326ac881042acbab3243aa7035dcbb772861cca830cf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-relire-la-dictee": {
+    "text": "La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre.",
+    "source_heading": "Dicter une phrase, puis vérifier ce qu’elle dit",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1d7b68353c9f76c035254fd77b7e6d00ddfc5e8711f2a1244936746fbf89e32d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maiwenn-retirer-un-portrait": {
+    "text": "Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage.",
+    "source_heading": "Quand un changement visible entraîne du travail invisible",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "12603c1a9cb5f7a3aaf8848333bd13440190e6abb7fa01c6585c230d86d3671d"
   },
   "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi": {
     "text": "Reconnaître une discrimination consiste à identifier un traitement défavorable lié à un critère protégé dans un domaine concerné, sans en faire une faute de la personne qui le subit. Le Défenseur des droits précise ce cadre général.",
@@ -1756,6 +2764,90 @@
     "method": "definition_excerpt",
     "source_body_sha256": "0293fb9bb97ddadc7ecc277d103ceaaf1c6abcd8bfae72f4dd8143bdd4fdad5a"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-au-milieu-du-generique": {
+    "text": "Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne.",
+    "source_heading": "Un mot peut accrocher et le propos aller au bout",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8db75a7e59693b77898020ff8b912ac4d580d65d28635c961b9ab9edc00ec933"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-ce-quon-peut-deplacer": {
+    "text": "L’accompagnement orthophonique d’un adolescent qui bégaie peut porter sur la façon dont il souhaite participer à des situations qui comptent pour lui. L’ASHA décrit des objectifs adaptés à la personne, qui peuvent concerner l’aisance à communiquer, l’impact du bégaiement au quotidien et les réactions de l’entourage.",
+    "source_heading": "Choisir ce qu’on attend du suivi",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8082a608e9dff4e4a972a9ac795fa00d64193649b2e6ab2b8f9a4c9cb3676650"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-deux-cases-sur-une-feuille": {
+    "text": "Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle.",
+    "source_heading": "Accepter un usage et en refuser un autre",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e2d5fba1788758313b8a4c35969248347e7a835dabfe82a427918936d1542429"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-la-table-de-quatre": {
+    "text": "La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas.",
+    "source_heading": "Ce que deux écoutes ne mesurent pas",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "89b2ba0c0770c42807b697832f6850a94c5c116a0aa880a122ebf6114fb96f0f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-le-bout-dessai": {
+    "text": "Une personne qui bégaie peut choisir à qui elle souhaite parler de son bégaiement et garder cette information privée dans d’autres situations. L’ASHA présente le fait d’en parler comme une option dans l’accompagnement, selon les personnes et leurs objectifs.",
+    "source_heading": "Décider de ce qu’on dit de soi",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c233f9a64f10a4a2d8a0911a90a8f819c4d0aa2020d3a54794aa6dd320d152ea"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-le-bruit-dans-la-cour": {
+    "text": "On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne.",
+    "source_heading": "Ce que l’auditeur a compris",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f58ddef5d88aaba3cccae8c12866fe99b8b0ef1f387404b2de469e228d70ae99"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-le-mot-qui-manque": {
+    "text": "Le bégaiement peut interrompre le déroulement de la parole alors même que la personne sait ce qu’elle veut dire. Une répétition, un son qui se prolonge ou un blocage peuvent rendre cette interruption perceptible.",
+    "source_heading": "Une idée peut précéder le mot",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7ade7a8ba014177d28f19e0f7841aa0b8e7638097d56df0472214c1574560bfe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-le-voyant-rouge": {
+    "text": "Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.",
+    "source_heading": "Dire ce qu’on attend du micro",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "51d71fe98d627637dd8f432e7363702e79999772e9f2f12b7cbd9047149c8a41"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-les-huit-minutes": {
+    "text": "Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé.",
+    "source_heading": "Le même propos dans deux situations",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f4ec5c4ce9c3116e2f4a7ddf8a06d01a3aa713b5a7dff29ed12a34448962a923"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-trois-bandes-sur-la-table": {
+    "text": "Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler.",
+    "source_heading": "Avoir plusieurs façons de contribuer",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b910b05d9eeff26936c68b8e961e72cb29b2a151cd3567bde23c7395c430d4a3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-trois-minutes-de-rab": {
+    "text": "Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation.",
+    "source_heading": "Une pause ne dit pas à elle seule qui parle ensuite",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "98619a7ccf1792bf4900a120afdfaaf0e2df2f775bb364c44670a9385087b4ca"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/owen-un-carre-de-silence": {
+    "text": "Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange.",
+    "source_heading": "La fluence n’est pas une règle de montage",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2d9a877d23d34d93691024abb4f505b9e9475b450887ab5b6ea8a44505a5e9b4"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite": {
     "text": "La peur est une expérience qui peut accompagner la perception d’un danger ou son anticipation. Joseph LeDoux distingue les circuits de défense face à la menace de l’expérience consciente de la peur. Attribuer celle de Mei à une seule structure cérébrale ne permet pas de l’expliquer.",
     "source_heading": "Qu'est-ce que la peur face à l'autorité ?",
@@ -1832,6 +2924,174 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "aed71b484484dd48e8f29aa9ae9ade7866f9b3cc53444fafbd4c5869582117eb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert": {
+    "text": "Comprendre une parole dépend de ce qui se passe autour, de ce que l’on connaît de la personne et des sons que l’on distingue dans sa phrase. Au square, le vélo couvre une partie de la première consigne.",
+    "source_heading": "Ce que le bruit emporte",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "af6642c7127aabce7bedba14ef01538997386cb6a0e97c82f18f380e20655cfa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-case-laissee-libre": {
+    "text": "Un appui à la prise de parole peut être prévu pour un moment donné et changé quand le groupe ou le lieu change. Dans un trouble des sons de la parole, une difficulté à se faire comprendre peut rester présente alors même qu’on ajuste la situation.",
+    "source_heading": "Une aide précise laisse chacun prendre sa place",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "caf316168851f7e63d42a632f531873720fba94782696db15da37bd2997629c4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-chaise-qui-grince": {
+    "text": "Une parole peut être audible sans être comprise en entier. Salomé entend une voix qui lui parvient de l’autre bout de la salle. Entre l’écho, la distance, l’absence d’indices visuels et les mots qu’elle n’a pas distingués, elle ne peut pas deviner à quoi tient chaque partie manquante.",
+    "source_heading": "Ce qui change quand la salle change",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9aa8e86142fe2a1ee3d984cacb7e73b28b38ce8076596f6e20f3b8b78c67bce4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-dessin-attendra": {
+    "text": "Une réponse à une devinette renseigne sur le jeu et sur ce que les joueurs en ont perçu. Elle ne suffit pas à dire comment un enfant produit les sons de la parole. Il y a deux questions différentes autour de cette table.",
+    "source_heading": "Pourquoi l’autre n’a pas trouvé",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c800ffa358d4591dc889fc781925aa9109d2d6ff91639dcc17b39eb91c3a2f3e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-enveloppe-sans-son": {
+    "text": "Un accent régional est une variation de la parole. L’OMS et l’ASHA distinguent les façons de prononcer attendues dans une communauté des difficultés qui persistent et gênent la compréhension au-delà de ces variations.",
+    "source_heading": "Un accent fait partie d’une façon de parler",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e998ecdbc42d658a9ff3ad651e3c85a1fedf81a48debe21d5f48aceffd06eaa6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-gomme-clavier": {
+    "text": "Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque.",
+    "source_heading": "Un enregistrement fait entendre une situation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a3ba5e1caad8e4941f3b67bcedb8b064d63141774ba508232838215d7c73f61d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-mot-sous-trombone": {
+    "text": "L’accompagnement orthophonique d’un trouble des sons de la parole s’ajuste aux difficultés de l’enfant et aux situations dans lesquelles il a envie de mieux se faire comprendre. L’orthophoniste peut examiner la parole en conversation et la production de sons dans des mots, car ces situations ne demandent pas la même chose.",
+    "source_heading": "Une priorité qui a du sens pour l’enfant",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "57b10e8fae2bdc4c5a43b723d5eb5eb7d9dd156f4dbe63a71a2daa19535ad4df"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-papier-a-emporter": {
+    "text": "Une présentation réussie renseigne sur ce que l’enfant et son entourage ont pu faire dans cette situation. Le lendemain ou dans un autre lieu, certains sons peuvent encore être difficiles à comprendre.",
+    "source_heading": "D’autres situations, d’autres essais",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0f2bf80d276ce97fc7f89ddff9b953a99c69ac82dafb2d0fb766647c037d9be3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-pince-orange": {
+    "text": "Un trouble développemental des sons de la parole peut faire qu’un interlocuteur ne saisit qu’une partie d’une phrase, même lorsque la pièce est calme.",
+    "source_heading": "Quand une idée arrive par morceaux",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "937542a19eb37b94fc88f2ac378b13dd424a801923a1952674204b7986c609cc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-premier-jeton": {
+    "text": "Les ajustements d’un lieu et les aides entre personnes peuvent faciliter un échange au moment où il se déroule.",
+    "source_heading": "Le relais fait partie du jeu",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "29fca3f808bda02a2cc6fc906e91397e6f6b91548a76f897a642f70e523d977c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-tiroir-des-sons": {
+    "text": "Une personne comprend une parole à partir des sons qu’elle distingue et de ce qu’elle s’attend à entendre. L’ASHA, une association professionnelle d’orthophonie, souligne que la familiarité avec la parole de l’enfant et le contexte de l’échange comptent.",
+    "source_heading": "Quand l’interlocuteur attend autre chose",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0fc52f938d9e9584d16392a373b39c8fafcacf23066412e36cda15a3d3597a54"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/roxane-tour-de-bille": {
+    "text": "Les situations où un enfant se fait bien comprendre peuvent coexister avec des échanges qui restent difficiles. Dans une conversation qui avance vite, la personne qui écoute n’a parfois que quelques mots pour retrouver l’intention du locuteur.",
+    "source_heading": "Se comprendre et être d’accord sont deux choses",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3f35f1554dbe094231facd7d666b5f38dfaaebbee739d2164541c1b1421adc22"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-deux-affiches": {
+    "text": "Une réaction de retrait s’interprète en tenant compte des conditions dans lesquelles elle survient. L’OMS rappelle que, pour évaluer une anxiété sociale, le professionnel tient compte des usages et des risques réels, par exemple quand une personne est confrontée à du harcèlement.",
+    "source_heading": "L’appréhension peut répondre à ce qui s’est passé",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2d4f3c1cb15f2b6fa6d026942a58b5492e05346719870e0cda9dca4a5335849d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-deux-decisions": {
+    "text": "Une thérapie comportementale et cognitive (TCC) adaptée à l’anxiété sociale peut aider à comprendre ce qui entretient la peur dans les situations qui comptent pour la personne. Le guide britannique NICE recommande de proposer d’abord aux adultes une forme individuelle spécifique au trouble, conduite par un professionnel formé.",
+    "source_heading": "Ce qu’un soin peut travailler",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6973a70c73c1b128fb2c864f28b0c0678a5999e28a60feaed13849deb5af7f5c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-fiche-en-place": {
+    "text": "Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer.",
+    "source_heading": "Ce qui se travaille au cabinet",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "66f580bb0fcb81fb6c5cbc1ffd627bab4700a7919ffd162e6d63d56854d66404"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-ligne-pour-le-cafe": {
+    "text": "Vivre avec de l’anxiété sociale laisse une place aux préférences et aux décisions qui n’ont pas besoin d’être expliquées par la santé.",
+    "source_heading": "Une possibilité retrouvée peut prendre plusieurs formes",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5d03a4e3446a8239e6bc2d412b2858b6887cd824dc213a5fc9b3672d0df36904"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-place-au-cafe": {
+    "text": "L’anxiété liée au regard des autres peut prendre du temps avant même qu’une situation ait lieu.",
+    "source_heading": "Le rendez-vous commence parfois bien avant la porte",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9dacfcc7a752cfa1cba5621696f3337a89f2b0ae1cda651b3e34dd6bd8b5a217"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-plier-la-table": {
+    "text": "Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement.",
+    "source_heading": "Une tâche peut être faite au prix d’un effort invisible",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "cb46cc06fc1931505bda68b49277782b357c5fbf5298199e8975a851185799ef"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-pot-de-travers": {
+    "text": "La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe.",
+    "source_heading": "Quand le regard change la situation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0c938d54ec0e8704f61867d2073b7f2b3baf3a4ebc90e98ce5835c473cf4d829"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-racines-au-bord": {
+    "text": "Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres.",
+    "source_heading": "Ce que Sacha décide au milieu de la peur",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bc002beafe3705fe1f77936e785d5402d3440aba9bc6321d4a2445b978b664df"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-sachet-sur-la-table": {
+    "text": "Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent.",
+    "source_heading": "Ce que l’évaluation a mis en relation",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8afdc0909bb3e6366a49597a3fd6bb047ea2a25dc0d07eb6dc54a26e95d5cbb8"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-sourire-de-nora": {
+    "text": "Dans l’anxiété sociale, une situation peut continuer d’occuper l’esprit après qu’elle est terminée. La personne repasse des mots, des gestes ou un signe de réaction dont le sens lui paraît incertain. La recommandation NICE invite à explorer ce qui se passe après l’échange, et certaines thérapies comportementales et cognitives adaptées au trouble travaillent ces pensées quand elles deviennent problématiques.",
+    "source_heading": "Un souvenir peut se resserrer autour d’un détail",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f47d15e90f5c9c3b72d539872dc4f6dc09aecff896fcb62596242328f1dfdbdf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-troisieme-chaise": {
+    "text": "L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile.",
+    "source_heading": "Un essai qui se passe bien laisse d’autres situations ouvertes",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "aa401a82fc95c4bd21a80f206e80225763a0435a27891dd02ae7f79272821955"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sacha-verso-de-la-fiche": {
+    "text": "Dans l’anxiété sociale, une partie de l’attention peut rester fixée sur ce que les autres risquent de remarquer chez soi. Des moyens de se protéger du jugement peuvent prendre beaucoup de place : penser à tenir ses mains hors de vue, vouloir réciter chaque mot ou éviter un échange de regards par crainte d’avoir l’air maladroit.",
+    "source_heading": "À quoi sert la préparation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "eee636bbf678a58ff467f3f86560844d721b3aff2b7195a267553e838f34d3de"
   },
   "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction": {
     "text": "Se parler avec bienveillance consiste à reconnaître ce qui est difficile et sa propre part dans les faits sans recourir à l’humiliation personnelle. Cela ne signifie pas se déclarer irréprochable ni écarter toute critique.",
@@ -2168,6 +3428,90 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "b541c644e5a4ed2eca3ab2bc2366c72a7fe1d21074adc9d95f0043a184483126"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-avoir-lair-de-sen-ficher": {
+    "text": "La façon dont une émotion se voit ou s’entend donne parfois peu d’indications sur ce que la personne éprouve.",
+    "source_heading": "Une voix égale et beaucoup à dire",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2b32b14980b56c587f71e0ecacd63396e14dc90fa0b259b1757a573ace4b5cfd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-cloche-des-absents": {
+    "text": "Le sens d’un geste ou d’une conviction se comprend dans l’histoire et le milieu de la personne qui le partage. Le guide de la CIM-11 invite à en tenir compte : ce qui surprend quelqu’un d’extérieur peut être ordinaire dans un groupe culturel ou religieux.",
+    "source_heading": "L’histoire derrière le geste",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a9e803e1750c67e3b6e0fb491b4924b95be98c3deac9817c46b15d211006e504"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-compte-rendu-atelier": {
+    "text": "On peut avoir une raison précise de se sentir exposé sans savoir ce que les autres feront de l’information.",
+    "source_heading": "Une maladresse réelle et une crainte qui déborde",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "200229351ae4f91bd1fc3fb197bb823cb1c32ea6da08d433e181d4cd8e0db6cf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-craindre-de-passer-la-main": {
+    "text": "L’aide devient difficile à accepter quand le rôle de chacun reste implicite. Pour Mounir, prendre le début veut dire économiser quelques minutes de rangement et donner à voir deux roues.",
+    "source_heading": "Deux façons de comprendre le même coup de main",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8a4b70093cfbdc3a583c19a17fc85bf16450f073182f4c0eaabb069fbc3489c4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-creneau-barre": {
+    "text": "Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ.",
+    "source_heading": "Une intention qu’on n’a pas entendue",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3df21293a3eb2ae71486f1d86d530f3f4b85c9d5f23788496dbcac3c5d479fd6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-garder-du-temps-seul": {
+    "text": "Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après.",
+    "source_heading": "Ce qu’une matinée laisse pour la suite",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "cb5ca091d3b7976d76c4e322004a60532a55f9e6d42b0f89f23cd0e4a5d315ec"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-note-de-consultation": {
+    "text": "Une consultation peut commencer par une scène ordinaire où l’on voit ce qu’une difficulté change dans la vie. Le fromage manque au marché à la fin de la matinée.",
+    "source_heading": "Le détail qu’on aurait pu taire",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "11f6060f8989e8b8a3b00fe255d312e4ba70ccf09fb7bb45d31140d3df04eeee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-perdre-son-eleve": {
+    "text": "Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire.",
+    "source_heading": "Quand l’image devance le geste",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "32fd2fcbe664661048738137133be835a4154f78732fee538a114a376cd413f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-prenom-dans-la-piece": {
+    "text": "Des perceptions inhabituelles qui se répètent et gênent nettement la vie méritent un avis professionnel rapide, même si la personne ne sait pas les nommer.",
+    "source_heading": "Un changement qu’il est possible de décrire",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7acd0a2a230dfaddd47e2f6804cc2457ba55bab8d5c7bdf55b493102e3a71093"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-reparler-a-un-visiteur": {
+    "text": "Un échange interrompu laisse parfois à chacun une explication qu’il n’a jamais pu vérifier auprès de l’autre. Loïc savait déjà qu’il s’était trompé de boîte lors du premier essai à deux. Il croit avoir recommencé.",
+    "source_heading": "Deux personnes, deux raisons de s’en vouloir",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f641a08e74f5cb729aece4f429379dbb8ecaa1b100e5557e3201dcc5aab5acdc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-reprendre-son-fil-devant-le-groupe": {
+    "text": "Une conversation peut se brouiller parce que les personnes répondent à partir d’objets différents. Pour Gil, la question part de la pendule qui l’attend chez lui.",
+    "source_heading": "Retrouver ce que l’autre regarde",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "526b8fb858cb3960a46d3b8cbe34fba1ff343fa4d545eecb83467eaa256854e7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/zephyr-sortir-quand-le-groupe-arrive": {
+    "text": "Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions.",
+    "source_heading": "Quand le tour de parole disparaît",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d9158432e1bd09544fe61c5bafcf00065041accc07574a67ebc6c108b120ba2f"
   },
   "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout": {
     "text": "Reconnaître les limites de l’aide consiste à distinguer ce que l’on peut offrir de ce que l’on ne peut ni décider ni garantir pour une autre personne. Une présence, une information ou une action concrète peuvent compter sans produire la solution complète d’une difficulté.",

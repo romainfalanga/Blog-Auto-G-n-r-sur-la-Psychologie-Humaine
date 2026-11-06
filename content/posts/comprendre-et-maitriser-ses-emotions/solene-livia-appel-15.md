@@ -1,5 +1,5 @@
 ---
-title: Livia donne le code de la porte au Samu
+title: Réagir à la désorientation soudaine d’un proche
 description: Après un malaise, Solène ne reconnaît plus bien sa cuisine. Livia appelle
   le 15 et l’équipe envoyée par le Samu prend le relais.
 slug: solene-livia-appel-15
@@ -11,9 +11,9 @@ contexte: Le samedi suivant, chez Solène et Livia, après des contacts rapproch
   l’équipe de soins
 tags:
 - Trouble schizo-affectif
-- Malaise et confusion
-- Relais d’urgence
-- Présence de la compagne
+- Changement brutal
+- Présence en situation de crise
+- Passer le relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

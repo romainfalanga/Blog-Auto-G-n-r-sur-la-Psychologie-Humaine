@@ -1,5 +1,5 @@
 ---
-title: Fermer plus tôt sans effacer le travail de la journée
+title: 'Fatigue au travail : Inaya essaie de fermer plus tôt'
 description: Inaya regarde ce que lui coûtent les fins de journée à la boutique. Elle
   essaie des horaires plus courts et les revoit avec une collègue.
 slug: inaya-horaires-boutique-adapter
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: La boutique et le tableau des horaires
 tags:
 - Dépression récurrente
-- Retentissement professionnel
-- Aménagement du travail
-- Répartition des tâches
+- Fatigue au travail
+- Limites professionnelles
+- Partage des tâches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Ce jeudi, Ève ouvre seule
+title: Retrouver sa place après s’être mise en retrait
 description: Une semaine après la visite de Rémi, Meriem manque la préparation. Elle
   cherche avec Ève une façon de garder sa place dans l’échange.
 slug: meriem-enveloppes-en-attente
@@ -11,9 +11,9 @@ contexte: Chez Meriem, puis au téléphone avec Ève
 tags:
 - TSPT complexe
 - CPTSD
+- Honte et autocritique
+- Confiance dans les relations
 - Retour des difficultés
-- Rapport à soi
-- Répartition des rôles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

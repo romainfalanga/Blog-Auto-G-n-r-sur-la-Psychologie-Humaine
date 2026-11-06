@@ -1,17 +1,17 @@
 {
   "character_id": "armand",
-  "bio": "Armand a 72 ans. Postier à la retraite, il a longtemps tenu la bibliothèque du foyer communal. Il vit avec un trouble neurocognitif dû à la maladie d’Alzheimer, diagnostiqué avant le début de ce récit. Il aimerait donner une partie de ses cartes anciennes à la bibliothèque, pour qu’on puisse les ouvrir et s’en servir. Avec sa fille Jeanne, la bibliothécaire Nadia et l’équipe de consultation mémoire, il cherche de l’aide sur des points précis et garde la main sur ce qu’il veut transmettre.",
+  "bio": "Ancien postier, Armand connaît les rues du quartier par leurs anciens noms. Il aime montrer le passage qu’on ne voit pas sur un plan récent et voudrait confier une partie de ses cartes à la bibliothèque du foyer. Quand il ne retrouve plus l’heure d’un rendez-vous ou qu’un mot lui échappe, il préfère qu’on lui donne un indice et qu’on lui laisse le temps. Sa fille Jeanne l’aide, mais elle a aussi ses propres contraintes. La maladie d’Alzheimer change certains de leurs repères, tandis qu’Armand tient à décider de ce qu’il transmet.",
   "episodes": [
     {
       "number": 1,
       "slug": "armand-carton-gris-premier-tri",
-      "title": "Armand rouvre le carton gris",
+      "title": "Quand on ne sait plus quelle note croire",
       "description": "Armand retrouve deux billets pour le même rendez-vous. En attendant de vérifier l’heure, il reprend le tri des cartes qu’il veut donner.",
       "context": "Chez Armand, avant sa première rencontre avec la bibliothécaire pour préparer le don",
       "topics": [
-        "Maladie d’Alzheimer",
-        "Repères écrits",
-        "Choix personnels"
+        "Mémoire au quotidien",
+        "Repères dans l’espace",
+        "Faire confiance à un repère"
       ],
       "opening": "Au milieu de la table, Armand a dégagé assez de place pour ouvrir une carte sans coucher la lampe. Il sort du carton gris le plan des canaux, encore plié comme au moment de son achat. Au foyer communal, quand il tenait la bibliothèque, les gens s’installaient avec le journal et repartaient avec un itinéraire griffonné au dos d’un ticket. Il aimerait que quelqu’un puisse ouvrir ce plan-là pour comprendre où passait l’eau avant qu’on couvre le canal. Il vérifie qu’une déchirure au pli n’a pas emporté le nom du quai.\n\nJeanne pose le pain sur le buffet et lui demande à quelle heure il veut aller voir Nadia, la bibliothécaire. Armand soulève un billet : jeudi, dix heures. Sous la lampe, il en trouve un autre : jeudi, onze heures. Il reconnaît son écriture sur les deux. Il se rappelle avoir parlé à Nadia d’un jeudi, mais il ne retrouve pas le moment où l’heure a changé. Jeanne prend son téléphone. « Attends », dit Armand. La dernière fois qu’elle a appelé le foyer pour lui, il n’a appris qu’en raccrochant ce qu’elle avait proposé.\n\nIl écarte les deux billets du plan. Jeanne lui demande si elle peut chercher le numéro et lui passer le téléphone. Il accepte, puis remet le plan des canaux bien à plat. À sa droite, il pose la carte du pont bas. On y voit encore le petit trait qu’il avait fait pour montrer le chemin de la rive à Jeanne quand elle apprenait à rouler à vélo. Cette carte, il la veut à portée de la main.",
       "sections": [
@@ -42,13 +42,13 @@
     {
       "number": 2,
       "slug": "armand-porte-du-foyer",
-      "title": "La porte du foyer a changé",
+      "title": "Se réorienter quand un lieu familier change",
       "description": "Un panneau a déplacé l’entrée du foyer. Armand choisit comment retrouver Nadia et où s’installer pour lui présenter son projet.",
       "context": "Jeudi à dix heures, devant le foyer communal puis à la bibliothèque",
       "topics": [
-        "Repères dans les lieux",
-        "Charge d’une situation",
-        "Accès aux activités"
+        "Repères dans l’espace",
+        "Recevoir de l’aide",
+        "Demander une indication"
       ],
       "opening": "La poignée en laiton ne bouge pas. Armand avait lu son billet avant de prendre ses clés et il est arrivé à dix heures. Un panneau plaqué contre la vitre annonce que l’accueil se fait par la cour. Au-dessous, deux flèches pointent dans des sens différents : l’une pour la permanence de la mairie, l’autre pour les activités du foyer. Il reconnaît les portes peintes qu’il longeait autrefois avec sa boîte de retours. Depuis qu’on a ouvert le passage dans la cour, il perd le fil entre ce qu’indique le panneau et la place où il s’attend à trouver la bibliothèque.\n\nIl recule sous l’auvent pour laisser passer un livreur. Son carton gris est resté chez lui ; il a pris seulement le plan des canaux dans une chemise rigide. Il pense rentrer avec. À ce moment, il entend la clochette du comptoir et appelle l’employée qu’il aperçoit derrière la vitre latérale. « Je viens voir Nadia pour une carte. Vous me montrez où tourner ? » Elle lui indique la porte verte et l’attend à cet endroit, le temps qu’il contourne le bâtiment.\n\nLa table de prêt donne sur l’accueil. Une classe y dépose des livres au moment où Armand sort sa chemise. Il sait quelle partie du canal il veut montrer, mais à chaque « bonjour » du comptoir il repart du début. Nadia lui propose le bout de la grande table, derrière le rayon des romans. Il la suit et s’assoit du côté d’où il voit la porte verte. Il se met à rire en découvrant une tache de café sur le plan. « On pourra la dater, celle-là », dit-il.",
       "sections": [
@@ -80,13 +80,13 @@
     {
       "number": 3,
       "slug": "armand-carte-pont-bas-rester",
-      "title": "La carte du pont bas reste chez Armand",
+      "title": "Choisir ce qu’on transmet et ce qu’on garde",
       "description": "Nadia aimerait montrer les annotations du pont bas. Armand reprend sa carte et cherche ce qu’il peut donner à voir autrement.",
       "context": "Le jeudi suivant, à la grande table de la bibliothèque",
       "topics": [
-        "Décision accompagnée",
-        "Objets personnels",
-        "Temps de réflexion"
+        "Choisir pour soi",
+        "Continuer à transmettre",
+        "Attachement aux souvenirs"
       ],
       "opening": "Nadia a débarrassé la grande table jusqu’au pot à crayons. Armand est entré côté cour avec le carton gris. Il en sort quatre cartes, dont le plan des canaux, et la carte du pont bas qu’il a reprise près de son fauteuil pour expliquer un raccord. Sur celle-ci, l’encre a un peu traversé le papier. Nadia trouve le trait au bord de la rive. Elle voudrait mettre cette carte en tête de la sélection, avec une petite légende pour expliquer le passage. Armand la laisse d’abord près des quatre autres.\n\nEn passant au plan suivant, il ne sait plus lesquelles il a apportées pour les montrer et lesquelles il voulait laisser. Il les avait emballées dans l’ordre, mais sur la table elles se chevauchent. Nadia a préparé un inventaire provisoire. Elle prononce le mot « premier lot » en ramenant vers elle la carte du pont. Armand pose deux doigts sur le bord du papier. Il a une envie très nette de l’ouvrir chez lui le soir. « Celle-là repart dans ma chemise », dit-il. Il s’étonne du ton qu’il a pris.\n\nNadia lui rend la carte. Elle a besoin d’une pièce qui explique comment on passait d’une rive à l’autre, et le plan des canaux n’indique pas les chemins de halage. Armand regarde les deux feuilles côte à côte. Il lui propose une reproduction du recto du pont bas, à vérifier ensemble avant qu’elle soit montrée. Il gardera l’original, et les mots au verso avec. Nadia recule son inventaire pour leur rendre la place nécessaire.",
       "sections": [
@@ -117,13 +117,13 @@
     {
       "number": 4,
       "slug": "armand-feuille-consultation-memoire",
-      "title": "Une feuille qu’Armand lit le premier",
+      "title": "Parler pour soi à une consultation mémoire",
       "description": "À la consultation mémoire, Armand veut décrire ce qui se passe quand il range ses papiers. Jeanne a une autre inquiétude à ajouter.",
       "context": "À un rendez-vous de suivi à la consultation mémoire, après le deuxième passage à la bibliothèque",
       "topics": [
-        "Consultation mémoire",
-        "Vécu de la personne",
-        "Accord pour partager"
+        "Choisir pour soi",
+        "Mémoire au quotidien",
+        "Recevoir de l’aide"
       ],
       "opening": "Armand a écrit « rangé où ? » au milieu d’une feuille et entouré les deux mots. Après le deuxième rendez-vous avec Nadia, il a rentré le plan des canaux dans le carton, puis il a passé une partie de la soirée à le chercher dans le placard des vieux guides. Il avait voulu le mettre à l’abri sous la feuille d’inventaire et ne l’a retrouvé qu’en ouvrant le carton le lendemain. Entre-temps, il avait appelé Jeanne pour lui demander si Nadia l’avait gardé. Il a maintenant apporté la feuille à la consultation mémoire et la tient sur son genou.\n\nDans le couloir, Jeanne lui demande s’il compte aussi parler de l’enveloppe de la mutuelle. Il l’a ouverte puis remise avec les courriers à poster. Depuis qu’elle l’a retrouvée, Jeanne revient souvent sur le délai de réponse. « Tu veux que je parle de tout en même temps ? » lui demande Armand. Elle voulait simplement qu’ils se souviennent de l’enveloppe avant de repartir. Ils conviennent qu’il commencera par la feuille et qu’elle pourra parler du courrier après.\n\nLa médecin connaît déjà le diagnostic de maladie d’Alzheimer d’Armand et les grandes lignes du suivi. Elle lui demande ce qu’il aimerait rendre plus facile chez lui. Il pousse son papier vers le bord du bureau pour le lire lui-même. Sa question arrive avant qu’il ait fini de lisser la feuille : il veut trouver ses affaires sans ouvrir trois placards et sans que quelqu’un ait déplacé le tout pendant qu’il était dehors. La médecin lui demande de raconter un rangement récent.",
       "sections": [
@@ -154,13 +154,13 @@
     {
       "number": 5,
       "slug": "armand-trait-bord-rive",
-      "title": "Armand demande qu’on lui montre le trait",
+      "title": "Reprendre sa phrase quand un mot échappe",
       "description": "En préparant la légende du pont bas, Armand bute sur un mot. Il propose à Nadia un signe qui l’aidera à reprendre son histoire.",
       "context": "Une semaine après la consultation mémoire, pour un essai au foyer communal",
       "topics": [
-        "Temps de parole",
-        "Repère visuel",
-        "Activité choisie"
+        "Mémoire au quotidien",
+        "Continuer à transmettre",
+        "Recevoir de l’aide"
       ],
       "opening": "Le courrier de la mutuelle est parti. Sur le coin gauche du buffet, Armand a laissé à sa place la chemise du pont bas et les horaires de la bibliothèque. Il les a retrouvés tous les deux avant de sortir. Au foyer, Nadia lui présente la reproduction du recto. Elle l’a imprimée en assez grand pour qu’on voie le trait de la rampe sans toucher la vitrine du nez. Armand se penche et remarque que la copie a mangé deux millimètres de rive. Sur l’original, la ligne rejoint un petit carré. Il lui montre ce qui manque.\n\nNadia voudrait essayer la légende à voix haute. Deux personnes du foyer sont venues donner leur avis. Armand commence par le haut de la rampe, puis cherche le mot qui désigne les anneaux où l’on attachait les bateaux. Il fait une boucle avec son index. Quelqu’un propose « les crochets ». Un autre dit le nom de la rue. Armand avait encore l’image du quai, mais il ne sait plus quelle phrase il était en train de dire. Il repose l’original et retire ses lunettes.\n\nUne des personnes demande s’il veut que Nadia raconte à sa place. « Je veux qu’elle me montre là », répond Armand, en posant l’index sur le trait du pont. Il lui demande de ne rien ajouter pendant un instant. Nadia suit son geste. Le mot des anneaux ne revient pas. Armand décide d’expliquer le passage par le chemin qu’empruntait la tournée du facteur. Il reprend la carte et la tourne vers les deux visiteurs.",
       "sections": [
@@ -191,13 +191,13 @@
     {
       "number": 6,
       "slug": "armand-affiche-sous-son-nom",
-      "title": "Ce que l’affiche dira sous son nom",
+      "title": "Décider de ce qu’on rend public sur soi",
       "description": "Armand accepte que son nom accompagne le don. En lisant le projet d’affiche, il décide avec Nadia ce qui peut être dit et montré.",
       "context": "Au foyer communal, devant le projet d’affiche de la rencontre",
       "topics": [
-        "Vie privée",
-        "Préférences exprimées",
-        "Participation sociale"
+        "Choisir pour soi",
+        "Continuer à transmettre",
+        "Vie privée"
       ],
       "opening": "Sur l’affiche posée près de la photocopieuse, le nom d’Armand se lit depuis l’autre bout de la salle. En dessous, en plus petit, quelqu’un a écrit « Un ancien postier nous confie ses souvenirs ». Armand ouvre la chemise de la reproduction pour vérifier que le carré de la rive est bien revenu au bout du trait. Il le trouve. Une bénévole du foyer passe chercher du papier. « On pourrait ajouter un mot sur la mémoire, si vous êtes d’accord », dit-elle, en regardant Nadia. Elle a entendu parler du diagnostic dans le quartier et pense qu’une annonce peut aider des gens à venir.\n\nArmand suit le texte avec le doigt. Il arrive au bout de la phrase, recommence, puis demande à Nadia de lui redire l’idée de la bénévole. Les visiteurs de la semaine dernière ont déjà vu son hésitation sur un mot. Cela l’ennuie qu’un titre dise d’avance comment il faut l’écouter. « Si vous écrivez souvenirs, on va me demander la date de chaque chose. » Il lit de nouveau le nom imprimé et dit que ce nom, lui, peut rester.\n\nLa bénévole voudrait aussi mettre sa photo sur le panneau de l’entrée. Armand se lève pour regarder où elle la placerait. La reproduction du pont tient dans l’espace prévu, à côté du plan des canaux. Il propose de mettre l’image de la rive à la place du portrait. Nadia lui demande ce qu’il écrirait sous son nom. Il pense aux lettres qui arrivaient avec deux noms de rues pour la même adresse. « Des cartes pour retrouver le passage. »",
       "sections": [
@@ -228,13 +228,13 @@
     {
       "number": 7,
       "slug": "armand-jeanne-rend-jeudi",
-      "title": "Jeanne ne peut plus passer le jeudi",
+      "title": "Poser des limites quand on aide un parent",
       "description": "Jeanne veut garder du temps pour voir son père. Elle lui dit pourquoi elle ne peut plus assurer seule le courrier et les rendez-vous.",
       "context": "Chez Armand, devant les papiers en cours, un jeudi en fin d’après-midi",
       "topics": [
-        "Limites du proche",
-        "Organisation du quotidien",
-        "Soutien aux aidants"
+        "Recevoir de l’aide",
+        "Fatigue des proches",
+        "Répartir les responsabilités"
       ],
       "opening": "Jeanne a encore son badge de travail autour du cou. Elle a apporté un paquet de gâteaux qu’elle oublie d’ouvrir. Armand pose près d’elle deux courriers sur le buffet. Il avait prévu de les reprendre avec elle comme la dernière fois, en sachant qu’elle venait après sa journée. Il lui demande si elle préfère commencer par l’enveloppe blanche ou par celle qui porte la mention « réponse demandée ». Jeanne lui dit qu’elle a un quart d’heure aujourd’hui. Le jeudi prochain, son service ferme plus tard et elle ne passera plus à cette heure-là.\n\n« Tu peux les lire maintenant, alors ? » demande Armand. Il a déjà ouvert la blanche, mais il ne retrouve plus, entre les feuillets, la ligne où il avait repéré ce qu’on attendait. Jeanne commence par chercher la page. Puis elle remet ses lunettes dans leur étui. Elle peut l’aider ce soir à retrouver le délai indiqué ; elle ne pourra plus reprendre avec lui chaque semaine les courriers et les horaires. Elle a repoussé deux fois un rendez-vous à elle. Elle aimerait venir le voir un dimanche, pour manger ensemble.\n\nArmand se redresse. « Si tu ne viens plus, qui va savoir ce qu’on a déjà regardé ? » Jeanne lui montre la première page, où elle a repéré la date. Il la relit. Il met l’autre enveloppe de côté et sort du tiroir le numéro donné par l’équipe mémoire. Avant de téléphoner, il demande à Jeanne de l’aider à formuler ce qu’il voudrait garder à sa charge.",
       "sections": [
@@ -265,13 +265,13 @@
     {
       "number": 8,
       "slug": "armand-buffet-deux-destinations",
-      "title": "Le coin gauche du buffet déborde",
+      "title": "Retrouver ses repères dans le rangement quotidien",
       "description": "L’ergothérapeute demande à Armand de lui montrer son rangement. Il essaie deux places séparées pour ses papiers et son projet.",
       "context": "Le mercredi suivant, lors du premier rendez-vous à domicile",
       "topics": [
-        "Ergothérapie",
-        "Aides à domicile",
-        "Repères à ajuster"
+        "Repères dans l’espace",
+        "Mémoire au quotidien",
+        "Recevoir de l’aide"
       ],
       "opening": "Irène, l’ergothérapeute, laisse son sac près du pied de la chaise et demande à Armand où il met les papiers dont il doit se servir. Il lui montre le coin gauche du buffet. La chemise du foyer dépasse d’un bon centimètre. Il peut la saisir tout de suite. Ils ont répondu au courrier dont Jeanne avait relevé la date. Un autre, reçu depuis, a glissé derrière les horaires de la bibliothèque et la feuille de suivi, sous une liste de courses pliée. Armand les retire les uns après les autres. « Si tout est en cours, il faudrait un buffet plus long. »\n\nIrène demande si quelqu’un range pour lui. Jeanne, qui devait repartir tôt, lui montre l’enveloppe qu’elle a remise au-dessus la semaine dernière. Armand lui rappelle qu’elle a aussi porté les horaires sur le buffet sans lui dire où. Jeanne s’apprête à retrouver la feuille. Il l’arrête d’un geste : cette fois, il sait qu’elle est sous sa chemise. Il la sort lui-même. Irène lui demande de lui expliquer quels papiers doivent rester accessibles pour son projet et lesquels le préoccupent pour le reste de la semaine.\n\nArmand pense d’abord qu’il faut deux boîtes. Il essaie une corbeille pour le courrier et la chemise rigide, bien visible, pour le foyer. Irène propose de faire un essai avant de déplacer autre chose. Quand elle demande ce qui serait le plus pratique pour une prochaine visite, Armand dit qu’il voudrait l’accueillir lui-même et parler cette fois des courriers difficiles à reprendre. Jeanne met sa veste. Ils ont déjà convenu qu’elle peut partir avant la fin.",
       "sections": [
@@ -302,13 +302,13 @@
     {
       "number": 9,
       "slug": "armand-matin-inhabituel-appel",
-      "title": "Le matin où Jeanne appelle le 15",
+      "title": "Reconnaître un changement brutal chez un proche",
       "description": "En passant chez son père, Jeanne remarque un changement brutal par rapport à la veille. Elle demande aussitôt un avis médical urgent.",
       "context": "Un dimanche matin, avant la revue prévue des cartes avec Nadia",
       "topics": [
         "Confusion aiguë",
-        "Changement soudain",
-        "Avis médical urgent"
+        "Inquiétude des proches",
+        "Passer le relais"
       ],
       "opening": "Jeanne entre avec un plat qu’elle et Armand ont prévu de partager. Elle l’a entendu la veille au téléphone : ils avaient parlé des cartes et il lui avait rappelé qu’il avait déjà du pain. Ce matin, il est assis près du buffet, encore en veste, et le journal est tombé ouvert à ses pieds. « On part où ? » demande-t-il en la voyant. Elle répond qu’elle est venue pour déjeuner ici. Il regarde au-dessus d’elle comme s’il attendait quelqu’un d’autre. Jeanne s’approche et voit qu’il peine à rester attentif à sa voix.\n\nElle pense au moment où il avait cherché l’heure du rendez-vous avec Nadia. Il avait appelé pour éclaircir une question précise et continué le tri ensuite. Ce matin, il perd le fil au milieu de phrases très courtes, et Jeanne a du mal à capter son regard. Elle pose son plat où elle se trouve. « C’est Jeanne, je suis à côté de toi. Je vais appeler pour qu’un soignant nous aide maintenant. » Armand tourne un peu la tête vers elle et lui demande d’éteindre la radio. Elle éteint la radio d’un geste et appelle aussitôt le 15.\n\nQuand on lui répond, Jeanne dit qu’il a un diagnostic de maladie d’Alzheimer et insiste sur la différence avec son état habituel. Elle dit à quelle heure ils ont parlé la veille, ce qu’elle observe depuis son arrivée et qu’elle ne sait pas quand le changement a commencé. La personne au téléphone lui pose quelques questions et organise une évaluation urgente. Jeanne répète à son père ce qu’elle vient de comprendre, d’une voix qu’il peut entendre.",
       "sections": [
@@ -339,13 +339,13 @@
     {
       "number": 10,
       "slug": "armand-retour-billet-a-remplacer",
-      "title": "Le billet du foyer attend un nouveau jeudi",
+      "title": "Ajuster l’aide au retour de l’hôpital",
       "description": "De retour chez lui, Armand demande une visite de suivi de plus. Il reprend ensuite la liste du don et retire une carte du lot.",
       "context": "Quelques jours après le retour d’Armand à domicile, à la table de la cuisine",
       "topics": [
-        "Retour à domicile",
-        "Besoins à réévaluer",
-        "Aide coordonnée"
+        "Recevoir de l’aide",
+        "Choisir pour soi",
+        "Repères dans l’espace"
       ],
       "opening": "Le billet « dix heures, porte verte » est encore accroché au miroir. Depuis qu’Armand est rentré de l’hôpital, il l’a vu trois fois en prenant ses clés. Deux fois il a cru que Nadia l’attendait ce jour-là. Ce matin, il l’a retiré du miroir et l’a posé face contre la table. L’équipe de l’hôpital a pris en charge une confusion aiguë. Au retour, il a retrouvé sa façon habituelle de parler avec Jeanne, mais se fatigue vite et perd davantage le fil quand plusieurs papiers sont devant lui. Il a demandé qu’ils appellent ensemble son médecin traitant pour en parler.\n\nQuand le médecin rappelle, Jeanne ouvre le résumé donné à la sortie. Armand la prie de retrouver la page où sont les rendez-vous, puis dit lui-même ce qui le gêne. Le médecin reprend avec lui les changements depuis son retour et lui propose un rendez-vous rapproché. Avec son accord, il pourra faire le point avec l’équipe de consultation mémoire. Armand souhaite garder la visite prévue avec Irène et demande aussi un passage supplémentaire si le service peut le proposer.\n\nJeanne lui demande si elle doit dire à Nadia que le don est annulé. Armand lui montre le billet retourné. « Ce rendez-vous est passé, dit-il. Ça n’enlève rien aux cartes. » Il demande à Jeanne de rapprocher le carton gris de la fenêtre, où il voit mieux les titres. Dans la première sélection, il y a un plan vert sur lequel il avait dessiné sa tournée. Il veut revoir ce qu’il ressent en le sortant. Il demande à Jeanne de garder un coin de table libre et ouvre le carton lui-même.",
       "sections": [
@@ -377,13 +377,13 @@
     {
       "number": 11,
       "slug": "armand-trois-cartes-remises",
-      "title": "Trois cartes quittent le carton gris",
+      "title": "Prendre une décision avec l’appui qu’on a choisi",
       "description": "Armand vérifie la liste avec Nadia avant de remettre trois originaux. Il décide aussi comment il veut prendre part à la rencontre.",
       "context": "Au rendez-vous privé à la bibliothèque, le jeudi suivant à dix heures",
       "topics": [
-        "Décision accompagnée",
-        "Rôle dans un projet",
-        "Appui choisi"
+        "Choisir pour soi",
+        "Continuer à transmettre",
+        "Recevoir de l’aide"
       ],
       "opening": "Nadia a sorti une feuille blanche et l’a posée de son côté de la grande table. Armand sort du carton gris le plan des canaux, celui de la gare aux marchandises et celui des rues avant leur élargissement. Le plan vert et la carte originale du pont bas sont restés près du fauteuil, à la maison. Armand sait qu’il y a trois cartes à laisser, mais quand Nadia nomme le pont bas en même temps qu’elle cherche la fiche de la reproduction, il revient à la liste provisoire. « Tu parles du papier que j’ai chez moi ou de celui que tu as tiré ? »\n\nNadia va chercher la reproduction et la pose seule au milieu de la table. Armand voit le bord recadré, le carré et la légende relue ensemble. Il la rapproche de la feuille blanche. « Celle-ci peut être montrée. Les trois autres, tu les gardes ici. » Nadia inscrit les trois titres et note à part l’accord sur la reproduction. Elle lui lit ce qu’elle a écrit. Armand fait ajouter que le plan des canaux doit pouvoir se consulter sur demande, parce que c’était une des raisons du don. Nadia confirme que la bibliothèque pourra l’organiser.\n\nIl y a une place sur le calendrier du samedi suivant, à l’ouverture. Nadia sort le projet d’affiche. Armand demande s’il peut arriver après l’installation et parler assis. Il préfère ouvrir un plan devant quelques personnes et laisser Nadia prendre les questions. S’il en a assez, il lui passera la légende. Il pose un doigt sur le plan des canaux. C’est celui par lequel il veut commencer.",
       "sections": [
@@ -414,13 +414,13 @@
     {
       "number": 12,
       "slug": "armand-table-des-passages",
-      "title": "Une autre main suit le canal",
+      "title": "Continuer à transmettre à sa manière",
       "description": "Au foyer, une lectrice cherche un escalier sur le plan. Armand lui montre un passage, puis décide quand laisser Nadia continuer.",
       "context": "Le samedi de la rencontre, à la grande table du foyer communal",
       "topics": [
-        "Participation sociale",
-        "Préférences à revoir",
-        "Aide au fil du temps"
+        "Continuer à transmettre",
+        "Choisir pour soi",
+        "Trouver sa place"
       ],
       "opening": "Armand arrive après l’installation, comme convenu. Sur la grande table, Nadia a ouvert le plan des canaux et posé la reproduction du pont un peu à l’écart. Elle a laissé libre la chaise près du mur. Deux personnes discutent en regardant le même quai. Armand s’assoit. Il avait prévu de commencer par la tache de café, pour expliquer dans quel sens on ouvre la carte. Une femme lui demande aussitôt si l’escalier que sa mère empruntait descendait par ici. Il suit la ligne qu’elle montre et ne retrouve plus la première phrase qu’il avait préparée.\n\nIl demande à Nadia de lui montrer le trait, comme à l’essai. En voyant le petit carré sur la reproduction, il comprend que la femme parle peut-être du passage sous le pont. Il lui demande ce qu’elle voyait en bas de l’escalier. Elle dit qu’il y avait une rampe et que l’eau arrivait parfois jusqu’à la dernière marche. Armand lui tend le plan. « Regardez de ce côté, on devait se croiser ici. » Elle se penche et pose l’ongle sur la rive opposée. Il voit qu’elle situe un autre passage. Ils en parlent un moment.\n\nDe nouvelles personnes arrivent par la cour. Armand écoute deux questions qui se croisent, puis passe la légende à Nadia. Il lui dit qu’il préfère rester assis et regarder. Jeanne n’a pu venir qu’en fin de rencontre. Elle le trouve à la table, occupé à demander à la femme de lui écrire le nom que sa mère donnait à l’escalier.",
       "sections": [
@@ -449,5 +449,12 @@
         "next": "Le don est accompli. Le plan vert et l’original du pont restent chez Armand ; le suivi des aides et ses visites au foyer peuvent être repris avec lui."
       }
     }
+  ],
+  "profile_topics": [
+    "Mémoire au quotidien",
+    "Repères dans l’espace",
+    "Choisir pour soi",
+    "Recevoir de l’aide",
+    "Continuer à transmettre"
   ]
 }

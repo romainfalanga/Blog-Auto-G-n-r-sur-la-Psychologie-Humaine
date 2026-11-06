@@ -1,0 +1,25 @@
+{
+  "references": {
+    "nsw-ecoute-psychose": {
+      "title": "NSW Health, communiquer avec une personne qui vit une expérience psychotique",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx"
+    },
+    "oms-mhgap-suivi": {
+      "title": "OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses",
+      "url": "https://www.who.int/publications/i/item/9789241549790"
+    }
+  },
+  "dossier": {
+    "name": "Trouble délirant",
+    "aliases": ["Trouble délirant", "Trouble délirant persistant"],
+    "references": ["oms-cddr", "nsw-ecoute-psychose", "oms-mhgap-suivi"],
+    "points": [
+      "OMS, CDDR, 6A24, p. 185, « Essential (required) features » : le trouble comporte une conviction délirante persistante ou plusieurs convictions liées entre elles. Le contenu varie selon les personnes ; il peut notamment porter sur une intention de nuire qui leur serait dirigée. Le diagnostic requiert de considérer l’ensemble du tableau et d’autres explications possibles. Une suspicion ponctuelle ne le définit pas. Gasparde a déjà reçu ce diagnostic d’un professionnel avant le premier épisode.",
+      "OMS, CDDR, 6A24, pp. 185–187, « Essential (required) features », « Boundary with normality » et « Course features » : le degré de conviction, la place prise par la préoccupation et la détresse font partie du tableau clinique. L’expression, le discours et les comportements sont généralement préservés en dehors du champ touché. La série montre la coexistence de moments pénibles et de compétences, sans généraliser le retentissement d’une personne à l’autre.",
+      "OMS, CDDR, 6A24, pp. 185–187, « Course specifiers » et « Culture-related features » : l’évaluation de l’évolution se fait en contexte et tient compte des faits et de l’histoire vécue, dont d’éventuelles expériences réelles de discrimination. Le récit traite les problèmes de réservation objectivables selon les mêmes règles pour tous. Un incident administratif, une mauvaise nuit ou une conversation difficile n’établit pas une aggravation ou une rémission.",
+      "NSW Health, « How can I communicate with someone experiencing psychosis? », rubrique « At a glance » : écouter sans jugement, parler calmement et clairement, reconnaître la détresse, éviter les débats ou la confrontation au sujet des convictions et respecter le souhait de ne pas poursuivre une conversation. Dans le récit, les interlocuteurs disent ce qu’ils savent, accueillent l’émotion sans cautionner une interprétation et proposent un appui concret, facultatif et compatible avec leur rôle. Ils ne mènent pas d’enquête sur la conviction.",
+      "OMS, guide d’intervention mhGAP v2.0, « Essential Care and Practice », pp. 6–7 et 10–15, et « Psychoses », rubrique « Follow-up », p. 46 et suivantes : prendre en compte les préférences, le fonctionnement dans la vie ordinaire et les besoins de soutien, élaborer le suivi avec la personne et impliquer un proche quand c’est indiqué, avec son accord. Dans la série, le relais associatif reste distinct du suivi clinique ; Gasparde peut contacter l’équipe en cas de retentissement croissant et convenir avec elle de la suite. Les repères retenus ensemble sont personnels, sans seuil de rechute ni conseil de traitement."
+    ]
+  },
+  "direction": "Gasparde, 57 ans, connaît le terrain communal par son vent, ses graviers et les habitudes des joueurs. Elle écoute pour savoir qui a pu entrer et qui attend encore. Elle veut une réservation tenable et un vrai accueil pour les nouveaux membres. Le tableau, le registre commun et l’heure affichée deviennent des outils partagés ; Gasparde en décide l’usage et garde le plaisir de jouer avec Brigitte, sa partenaire de double. Basile, trésorier, règle des questions d’organisation et n’a pas besoin de connaître le diagnostic. Dounia, nouvelle adhérente, choisit ce qu’elle veut essayer ; Levent fait entendre l’expérience de celui qui attend au mauvais portail. Farah, infirmière de l’équipe de secteur, s’occupe avec Gasparde du suivi. Les convictions inquiétantes reviennent autour de l’impression d’être écartée : les autres accueillent l’émotion sans cautionner ni enquêter, et traitent les incidents vérifiables comme ceux de n’importe quelle association. Le diagnostic est antérieur au récit. Aucun verdict clinique à partir d’une scène, aucun rapprochement avec la violence, aucune prise de pouvoir du proche. La fin montre une organisation qui peut durer et du temps de jeu retrouvé."
+}

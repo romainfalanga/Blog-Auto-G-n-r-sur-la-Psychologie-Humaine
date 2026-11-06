@@ -2,7 +2,7 @@
 
 [Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
 
-Le catalogue réunit 579 articles et 49 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 16 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Les cartes affichent les repères psychologiques de chaque parcours.
+Le catalogue réunit 771 articles et 65 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 32 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Les fiches cliniques comportent cinq repères psychologiques et des cartes qui commencent avec les premières phrases du récit.
 
 ## Personnalisation
 
@@ -14,7 +14,7 @@ Le mode de test `FREE_ACCESS_ENABLED=true` permet actuellement d’utiliser la p
 
 **Ambre** propose une conversation IA, avec 100 messages utilisateur ayant reçu une réponse par semaine. La présentation reste le premier message des conversations, y compris les fils existants. Elle ne consomme aucun message. L’envoi apparaît immédiatement, avec un indicateur d’attente puis une révélation progressive de la réponse validée. La dictée française du navigateur affiche un texte modifiable, sans envoi automatique ni conservation d’audio par l’application ; sa disponibilité et son service vocal dépendent du navigateur.
 
-Les propositions de modification du portrait, des proches et de la ligne de vie sont sourcées et modifiables avant acceptation. Les capacités sont calculées côté serveur puis revérifiées à la confirmation. Quand la mémoire des repères est activée dans Mes proches, Ambre peut aussi consigner automatiquement des observations relationnelles rapportées sur un proche déjà enregistré. Ces citations apparaissent dans sa cartographie et restent supprimables. Ambre peut proposer des articles déjà publiés et relier leur rubrique pour les proches à ce que la personne vient de partager. Chaque réponse contient au maximum deux questions.
+Les propositions de modification du portrait, des proches et de la ligne de vie sont sourcées et modifiables avant acceptation. Les capacités sont calculées côté serveur puis revérifiées à la confirmation. Avec l’accord de conversation Ambre, des observations relationnelles explicites sur un proche déjà enregistré peuvent être consignées automatiquement. Ces citations apparaissent dans sa cartographie et restent supprimables. Ambre peut proposer des articles déjà publiés et relier leur rubrique pour les proches à ce que la personne vient de partager. Chaque réponse contient au maximum deux questions.
 
 La cartographie présente d’abord les pistes personnelles, puis leurs éléments d’appui, contre-indices, autres explications et questions. L’exploration des 161 repères reste accessible séparément. Ces repères ne constituent ni des diagnostics ni des probabilités cliniques validées.
 

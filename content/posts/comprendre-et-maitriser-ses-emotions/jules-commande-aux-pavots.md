@@ -1,5 +1,5 @@
 ---
-title: La commande aux pavots
+title: 'Peur de traverser le marché : Jules demande un relais'
 description: Jules aimerait réaliser le bouquet d’une cliente. Il demande à Sonia
   de discuter de la livraison et précise ce qu’il souhaite garder privé.
 slug: jules-commande-aux-pavots
@@ -11,9 +11,9 @@ contexte: Au stand de fleurs, pendant la préparation d’une commande pour une 
   du marché
 tags:
 - Attaques de panique
-- Apprentissage
-- Appui au travail
-- Vie privée
+- Peur d’un trajet au travail
+- Négociation d’un aménagement
+- Confidentialité au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

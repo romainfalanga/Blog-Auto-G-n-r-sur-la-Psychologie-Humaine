@@ -1,5 +1,5 @@
 ---
-title: L’horaire dans le fil
+title: Quand un changement d’horaire ravive la crainte d’un repas de groupe
 description: L’horaire de préparation change. Clémence précise ce dont elle a besoin
   pour organiser la soirée et ce qu’elle veut aborder en consultation.
 slug: clemence-horaire-dans-le-fil
@@ -11,9 +11,9 @@ contexte: nommer ce qu’un changement dans la soirée rend difficile sans confi
   soin au ciné-club
 tags:
 - Anorexie
-- Moments collectifs
-- Changement de programme
-- Demande d’aménagement
+- Inquiétude face à l’imprévu
+- Crainte des commentaires pendant un repas
+- Demande de repères au groupe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

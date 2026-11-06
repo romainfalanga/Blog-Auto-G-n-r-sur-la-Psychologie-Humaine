@@ -1,5 +1,5 @@
 ---
-title: Le mardi au lieu du jeudi
+title: Reprendre confiance en décidant du rythme du suivi
 description: Meriem explique à sa thérapeute ce qui lui a coûté après la visite. Elle
   choisit une première question et un créneau qui lui convient.
 slug: meriem-rendez-vous-du-mardi
@@ -11,9 +11,9 @@ contexte: En séance avec sa thérapeute
 tags:
 - TSPT complexe
 - CPTSD
-- Suivi spécialisé
-- Confiance
-- Choix du rythme
+- Confiance dans les relations
+- Poser ses limites
+- Parler de ce qu’on ressent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

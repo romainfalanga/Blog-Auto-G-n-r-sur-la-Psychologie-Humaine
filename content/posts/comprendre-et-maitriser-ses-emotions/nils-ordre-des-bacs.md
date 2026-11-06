@@ -1,5 +1,5 @@
 ---
-title: Nils demande dans quel ordre déplacer les bacs
+title: Retrouver le fil quand deux consignes se croisent
 description: Des étiquettes se décollent et deux consignes se croisent. Nils et Aïcha
   font une liste commune avant d’ouvrir le rayon.
 slug: nils-ordre-des-bacs
@@ -10,8 +10,8 @@ sujet: Schizophrénie
 contexte: Le lundi suivant, à la livraison du matin
 tags:
 - Schizophrénie
-- Attention
-- Travail en pépinière
+- Attention et bruit
+- Surcharge cognitive
 - Consignes écrites
 categories:
 - Comprendre et maîtriser ses émotions

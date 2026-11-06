@@ -1,5 +1,5 @@
 ---
-title: Le message au dessert
+title: Un message de jeu détourne l’attention de Gabin pendant le dîner
 description: Une sollicitation liée au jeu interrompt le dîner. Gabin discute avec
   le service de protections qu’il peut choisir et vérifier.
 slug: gabin-message-au-dessert
@@ -13,8 +13,8 @@ tags:
 - Jeux d’argent
 - Jeu pathologique
 - Sollicitations liées au jeu
-- Moyens de protection
-- Choix accompagné
+- Attention attirée par les notifications
+- Choix de ses protections
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

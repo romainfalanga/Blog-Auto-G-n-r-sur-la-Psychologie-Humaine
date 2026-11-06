@@ -1,5 +1,5 @@
 ---
-title: Ce qu’Aïcha a besoin de savoir
+title: Au travail, dire ce qui aiderait et choisir ce qui reste privé
 description: Noémie veut protéger un temps de travail aux archives. Elle choisit ce
   qu’elle dit de son suivi et ce qui relève de l’organisation du service.
 slug: noemie-ce-quelle-choisit-de-dire
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Lors de la préparation des textes de l’exposition avec Aïcha
 tags:
 - TOC
-- TOC au travail
+- Expression des besoins
 - Confidentialité
-- Organisation du travail
+- Soutien entre collègues
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

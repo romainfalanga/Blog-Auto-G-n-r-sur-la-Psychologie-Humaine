@@ -1,0 +1,26 @@
+{
+  "references": {
+    "has-tsla": {
+      "title": "Haute Autorité de santé, Guide parcours de santé de l’enfant avec troubles spécifiques du langage et des apprentissages (2017)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2018-01/guide_tsla_vf.pdf"
+    },
+    "eacd-tdc": {
+      "title": "Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental de la coordination motrice",
+    "aliases": ["Trouble du développement de la coordination", "TDC", "Dyspraxie"],
+    "references": ["oms-cddr", "has-tsla", "eacd-tdc"],
+    "points": [
+      "OMS, CDDR, code 6A04, p. imprimées 139–140 (PDF p. 157–158) : les difficultés apparaissent au cours du développement et entraînent un retentissement significatif et durable sur les activités. Elles peuvent concerner les gestes fins, les mouvements du corps ou les deux et se traduire par une exécution plus lente ou moins précise. Augustin connaît déjà son diagnostic. Une scène d’écriture, de déplacement ou d’assemblage ne permet pas d’établir un diagnostic ; le professionnel évalue l’histoire, le fonctionnement et les autres explications possibles.",
+      "OMS, CDDR, p. 139–141 (PDF p. 157–159) ; EACD, §3.2–3.3 et §4.4 : un geste peut avoir été acquis et demeurer lent ou peu précis. La complexité de la tâche et les conditions de réalisation comptent ; une stratégie qui permet d’atteindre le résultat peut rester coûteuse. Le temps, l’attention au geste et la fatigue sont rendus perceptibles par le récit d’Augustin dans des situations précises. Ils ne constituent pas un test ni une explication systématique de toute fatigue.",
+      "HAS, guide TSLA, §2 de la prise en charge de niveau 1 et annexe 5, bilan ergothérapique : en France, l’enfant et sa famille participent au parcours coordonné avec les professionnels concernés. L’ergothérapeute peut évaluer les activités, les restrictions de participation et les obstacles ou facilitateurs dans l’environnement humain et matériel. Le guide organise le parcours et la coopération avec l’école ; il ne prescrit pas un traitement unique. Les essais d’atelier ne sont pas des soins.",
+      "EACD, recommandations 16, 18 et 22 : lorsqu’une intervention est indiquée, cibler les activités qui comptent pour la personne et sa participation dans les contextes où elle souhaite agir ; définir avec elle des objectifs individualisés et considérer les appuis matériels et humains. Examiner les effets d’un changement dans la situation réelle. Une organisation du matériel, du temps ou de l’aide peut être utile sans modifier les difficultés sous-jacentes, et son bénéfice ne se transpose pas automatiquement d’un lieu à un autre.",
+      "EACD, §5.2.3 et recommandations 23–24 ; OMS, CDDR, p. 139–141 : la lenteur ou la moindre précision de l’écriture manuscrite peuvent gêner la participation en classe. Un clavier n’est pas d’emblée simple à utiliser et demande lui aussi des habiletés motrices. Un fond de carte imprimé est ici un essai choisi en fonction de l’objectif du cours, révisable avec l’enseignante ; il ne correspond à aucune prescription de l’EACD.",
+      "EACD, §4.4 et recommandations 19–20 ; OMS, CDDR, p. 141 (PDF p. 159) : les difficultés peuvent avoir des répercussions sur le sentiment de compétence et la participation, dans des environnements qui contribuent à façonner le vécu. La honte, la contrariété, la joie de jouer et la crainte de décevoir d’Augustin lui appartiennent ; elles ne définissent pas le trouble. L’aide et le partage de ses informations restent des décisions discutées, pas des conditions pour mériter une place."
+    ]
+  },
+  "direction": "Augustin a quatorze ans, un humour sec et le goût du moment où les acteurs cessent de parler et où un objet prend la place de leurs mots. Au centre social, il fabrique le soleil de L’Aube en carton et hésite entre le concierge et le voisin qui ramène le jour dans une cour d’immeuble. Samira, l’éducatrice qui encadre l’atelier, connaît déjà son diagnostic. Mme Rivière, son ergothérapeute, l’aide à examiner ce qui rend un geste possible et coûteux ; Maxence préfère les bruitages et a parfois la main trop prompte ; Maya convoite aussi le rôle du concierge ; Nora joue la boulangère et tient au programme. Faire sentir le coût à travers ce qui reste à faire, le temps d’un changement, le corps après la séance et ce qu’on ne peut pas mener de front. Tester des appuis dans plusieurs conditions et laisser le personnage définir le geste qu’il tient à faire. Son diagnostic, déjà établi, éclaire certains écarts et ne vaut ni jugement d’effort ni explication totale. Préserver l’incertitude, l’autonomie, les envies artistiques et le droit de changer d’avis. Les décisions de soin relèvent des professionnels. Aucune répétition de plateau n’est une rééducation, aucun exercice standard n’est donné comme remède."
+}

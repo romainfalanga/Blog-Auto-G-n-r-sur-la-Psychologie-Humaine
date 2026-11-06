@@ -1,0 +1,32 @@
+{
+  "references": {
+    "has-tsla": {
+      "title": "Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages",
+      "url": "https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages"
+    },
+    "asha-langage-oral": {
+      "title": "American Speech-Language-Hearing Association, Spoken Language Disorders",
+      "url": "https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental du langage",
+    "aliases": [
+      "TDL",
+      "DLD (developmental language disorder)"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-tsla",
+      "asha-langage-oral"
+    ],
+    "points": [
+      "Le trouble développemental du langage (CIM-11, 6A01.2) concerne des difficultés durables d’acquisition, de compréhension, de production ou d’usage du langage qui apparaissent au cours du développement et retentissent sur la communication quotidienne. Un malentendu ou une recherche de mot isolés ne renseignent pas sur un diagnostic ; les professionnels considèrent notamment l’histoire, le retentissement et les autres explications possibles. CDDR OMS, « Essential (required) features », p. imprimée 118 (PDF p. 136) ; ASHA, « Comprehensive Assessment ».",
+      "Dans la CIM-11, le langage réceptif renvoie à l’apprentissage et à la compréhension du langage ; le langage expressif renvoie à sa production et à son usage. Ces dimensions peuvent être touchées à des degrés différents, avec des points d’appui et des difficultés qui varient selon la personne et peuvent évoluer. Le sens des mots et des phrases, la grammaire, le récit ou certains usages du langage en situation sociale peuvent être concernés ; une scène ne permet pas de déterminer un sous-type. CDDR OMS, « Essential (required) features », « Specifiers for areas of language impairment » et « Course features », p. imprimées 118–121 (PDF p. 136–139) ; ASHA, « Changing Nature of Spoken Language Disorder ».",
+      "Une difficulté à parler ou à comprendre ne permet pas de déduire les capacités intellectuelles, les connaissances ni les intentions d’un enfant. L’OMS décrit des points forts et faibles inégaux, sans exiger un écart entre capacités verbales et non verbales pour le diagnostic. Une conversation en contexte familier peut demander moins de travail langagier qu’une explication à de nouveaux interlocuteurs. CDDR OMS, « Additional clinical features » et « Boundary with disorders of intellectual development », p. imprimées 120–122 (PDF p. 138–140) ; ASHA, « Cognitive Referencing » et « Changing Nature of Spoken Language Disorder ».",
+      "L’évaluation orthophonique peut tenir compte de ce qui varie selon les interlocuteurs, les situations, les tâches et les appuis disponibles. Les objectifs de suivi sont individualisés et peuvent viser la communication dans la vie quotidienne ainsi que l’accès aux apprentissages. Les professionnels ajustent les objectifs en fonction du vécu et des progrès ; les adultes du jardin ne conduisent pas cette évaluation. ASHA, « Comprehensive Assessment », « Treatment » et « Treatment Targets » ; HAS, guide du parcours de santé et fiche sur le rôle du médecin de premier recours.",
+      "Le guide français de la HAS préconise un parcours coordonné et ajusté à la situation, avec l’enfant et ses parents comme acteurs et une articulation entre projet de soins et scolarisation. L’équipe éducative peut essayer et revoir des aménagements ; l’orthophoniste et le médecin gardent leur rôle clinique. L’ASHA décrit l’intérêt de s’appuyer sur les forces de l’enfant, de travailler sur son environnement et de respecter ses choix. Une démonstration, des étapes courtes, un plan ou un temps pour répondre sont ici des essais dans une situation précise, à revoir avec Agathe. HAS, guide du parcours de santé et fiche sur le rôle de l’enseignant ; ASHA, « Treatment » et « Treatment Targets »."
+    ]
+  },
+  "direction": "Agathe, 11 ans, aime que les choses aient une place et raille les étiquettes qui occupent plus de place que les graines. Elle veut laisser à la classe suivante un jardin dont on peut se servir et qu’on a le droit de modifier. Suivre la boîte bleue de réserve, le portillon, le plan plié et les choix que les plus jeunes inscrivent eux-mêmes. Son sens des lieux, son goût pour les choses utiles et ses envies à la récréation lui appartiennent. Mettre en regard le coût des consignes imbriquées et celui d’une explication à formuler alors que l’idée est déjà là ; montrer aussi une incompréhension qui vient du document ou de l’adulte. Le TDL est connu d’Agathe, de sa mère, de l’orthophoniste et de l’enseignante avant le récit. Camille connaît ses appuis pratiques ; les élèves n’ont pas besoin du nom du trouble. Agathe choisit ce qu’on transmet et essaie sa manière de reformuler : un exemple, une étape puis un retour de l’interlocuteur. Lui laisser le temps de préciser un mot ou de choisir de montrer ; personne ne la corrige devant le groupe ni ne répond à sa place sans accord. En orthophonie, distinguer réception et expression sans annoncer de sous-type ni transformer le jardin en soin. Varier le cabinet, la maison, la classe, le terrain, les interlocuteurs et les revers. Le passage de relais est réussi lorsque les plus jeunes peuvent décider et qu’Agathe peut partir avec sa propre idée pour la suite."
+}

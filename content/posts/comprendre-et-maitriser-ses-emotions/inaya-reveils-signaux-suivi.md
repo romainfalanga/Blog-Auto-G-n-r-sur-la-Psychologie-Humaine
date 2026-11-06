@@ -1,5 +1,5 @@
 ---
-title: Les réveils du matin et la décision d’appeler
+title: Demander de l’aide quand le sommeil et le quotidien changent
 description: Plusieurs réveils très matinaux et des tâches devenues plus lourdes incitent
   Inaya à reprendre contact avec son équipe de soins.
 slug: inaya-reveils-signaux-suivi
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: À la maison avant l’aube, puis au comptoir
 tags:
 - Dépression récurrente
-- Sommeil
-- Signes précoces
-- Contact avec les soins
+- Réveils précoces
+- Inquiétude
+- Demande d’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

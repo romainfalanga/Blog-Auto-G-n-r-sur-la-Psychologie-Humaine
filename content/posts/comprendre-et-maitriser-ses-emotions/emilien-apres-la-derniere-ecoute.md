@@ -1,5 +1,5 @@
 ---
-title: Après la dernière écoute
+title: Savoir où s’arrêter quand le projet donne de nouvelles idées
 description: Les commerçants choisissent ce qu’ils veulent partager. Émilien termine
   deux extraits et garde avec l’équipe un plan qu’il peut revoir.
 slug: emilien-apres-la-derniere-ecoute
@@ -11,9 +11,9 @@ contexte: terminer une première écoute de quartier tout en poursuivant un suiv
   à sa vie
 tags:
 - Bipolarité type I
-- Projet personnel
-- Suivi au long cours
-- Plan de soins révisable
+- Limites choisies
+- Décisions en commun
+- Autonomie dans le suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

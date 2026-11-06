@@ -72,7 +72,11 @@ export function validatePortraitV2(value,sources,fail) {
   if(!Array.isArray(value.psychological_map))invalid('Une carte explicite est requise pour la nouvelle analyse.');
   output.analysis_version=PORTRAIT_ANALYSIS_VERSION;
   if(value.identity_context)output.identity_context=declaredLifeContext(value.identity_context);
-  try{assertPortraitLanguage(output)}catch{invalid('La synthèse contient un pronom ambigu. Utilisez {{prenom}} ou un rôle explicite.');}
+  try{assertPortraitLanguage(output)}catch(error){
+   if(error.message==='portrait_language')invalid('La synthèse contient un pronom ambigu. Utilisez {{prenom}} ou un rôle explicite.');
+   else if(error.message==='portrait_gender')invalid('La synthèse utilise un accord contraire aux informations déclarées.');
+   else throw error;
+  }
  }
  const processed=value.coverage?.processed??sources.map(s=>s.id),pending=value.coverage?.pending??[];
  if(!Array.isArray(processed)||!Array.isArray(pending)||[...processed,...pending].some(id=>!allowed.has(id))||new Set([...processed,...pending]).size!==sources.length||processed.some(id=>pending.includes(id))||pending.some(id=>proofs.has(id)))invalid('Couverture des sources invalide.');

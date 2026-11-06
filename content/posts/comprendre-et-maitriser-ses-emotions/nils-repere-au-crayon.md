@@ -1,5 +1,5 @@
 ---
-title: Nils choisit le mot qui le ramène à sa phrase
+title: Reprendre la parole quand les indications s’accumulent
 description: De retour au studio, Nils perd sa phrase lorsque deux indications arrivent
   ensemble. Il modifie la répétition avec Maud.
 slug: nils-repere-au-crayon
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le mercredi suivant, au studio, après les annonces habituelles
 tags:
 - Schizophrénie
-- Attention
-- Retour en studio
-- Format de chronique
+- Reprendre sa place
+- Attention et bruit
+- Surcharge cognitive
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le message que Garance envoie avant la nuit
+title: 'Idées suicidaires : Garance demande une aide immédiate'
 description: Garance craint pour sa sécurité. Elle le dit à Éva, puis utilise le relais
   d’urgence prévu avec son équipe de soins.
 slug: garance-securite-relais-urgent
@@ -11,8 +11,8 @@ contexte: Chez Garance, au cours d’une soirée où le risque augmente
 tags:
 - Bipolarité type II
 - Idées suicidaires
-- Recours aux urgences
-- Limites du soutien d’un proche
+- Limites de l’aide d’une proche
+- Relais d’urgence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

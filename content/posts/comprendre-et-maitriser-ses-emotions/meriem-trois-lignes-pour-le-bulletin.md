@@ -1,5 +1,5 @@
 ---
-title: Les trois lignes du bulletin
+title: Choisir ce qu’on raconte de soi en public
 description: Salomé prépare une annonce pour le samedi d’échange. Meriem choisit les
   mots qu’elle autorise et précise ce que les images pourront montrer.
 slug: meriem-trois-lignes-pour-le-bulletin
@@ -11,9 +11,9 @@ contexte: Avec Salomé, à la table de l’accueil
 tags:
 - TSPT complexe
 - CPTSD
-- Informations choisies
-- Consentement
-- Place dans le groupe
+- Poser ses limites
+- Confiance dans les relations
+- Intimité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

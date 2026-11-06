@@ -1,5 +1,5 @@
 ---
-title: Le cahier où Mathis dessinait des pignons
+title: 'Difficultés d’attention : ce que Mathis retrouve dans ses souvenirs d’école'
 description: Mathis ouvre ses cahiers d’école avec sa mère. Leurs souvenirs éclairent
   le bilan en cours, avec des détails précis et quelques blancs.
 slug: mathis-cahiers-enfance-evaluation
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Chez sa mère et au cabinet, pendant le bilan spécialisé
 tags:
 - TDAH
-- Histoire développementale
-- Souvenirs et traces de l’enfance
-- Place des proches dans le bilan
+- Attention dans l’enfance
+- Organisation des tâches
+- Souvenirs familiaux
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

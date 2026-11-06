@@ -1,5 +1,5 @@
 ---
-title: Huit mesures à la répétition
+title: Reprendre la musique à son rythme après une crise
 description: Quelques semaines après le recours aux urgences, Garance propose de reprendre
   une partie de la répétition. Elle choisit ce qu’elle veut dire à l’ensemble.
 slug: garance-retour-partie-ensemble
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Avant et pendant une reprise de répétition avec l’ensemble de cordes
 tags:
 - Bipolarité type II
-- Retour progressif à une activité
-- Coordination du suivi
+- Reprise progressive
 - Soutien sans pression
+- Choix de ce que l’on partage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

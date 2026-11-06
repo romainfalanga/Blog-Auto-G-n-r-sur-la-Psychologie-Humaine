@@ -1,0 +1,25 @@
+{
+  "references": {
+    "gosh-stereotypies": {
+      "title": "Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)",
+      "url": "https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/"
+    },
+    "medlineplus-mouvements": {
+      "title": "MedlinePlus (US National Library of Medicine) — Stereotypic movement disorder (2026)",
+      "url": "https://medlineplus.gov/ency/article/001548.htm"
+    }
+  },
+  "dossier": {
+    "name": "Trouble des mouvements stéréotypés",
+    "aliases": ["Trouble des mouvements stéréotypiques", "CIM-11 6A06"],
+    "references": ["oms-cddr", "gosh-stereotypies", "medlineplus-mouvements"],
+    "points": [
+      "OMS, CDDR (2024), 6A06, « Essential (required) features » et « Boundary with normality (threshold) », p. 149–151 : il s’agit de mouvements qui reviennent sous une forme assez stable, souvent rythmée, qui persistent et qui commencent au cours du développement, habituellement tôt. Ils ne sont pas dus à l’effet direct d’une substance ou d’un médicament. Pour parler de trouble, les mouvements interfèrent sensiblement avec les activités quotidiennes ou provoquent des blessures qui nécessitent une attention clinique spécifique, ou en provoqueraient sans mesures de protection. Un geste répété, une préférence, un épisode isolé ou le seul regard d’autrui ne permettent pas de conclure.",
+      "OMS, CDDR, « Specifiers related to self-injury » et « Boundaries with other disorders and conditions », p. 150 et 152 : la CIM-11 distingue les présentations sans et avec blessure causée par les mouvements (6A06.0 et 6A06.1). La seconde catégorie demande un retentissement corporel spécifique ; un heurt isolé dans un espace serré ne suffit pas à l’attribuer. L’équipe apprécie les mouvements, leur histoire et les autres explications possibles. Un mouvement seul ne permet pas de déduire un tic, un trouble obsessionnel compulsif, un autisme ou une intention de se blesser.",
+      "OMS, CDDR, p. 151–152, et Great Ormond Street Hospital, « What are stereotypies? » et « What triggers stereotypies? » : ces mouvements peuvent apparaître avec l’enthousiasme, l’attente, la fatigue ou une activité qui captive. Pour certaines personnes, ils sont agréables ou apaisants ; ce sont des vécus possibles, pas une explication de chaque geste. Le contexte, la manière dont un geste s’interrompt ou l’émotion supposée ne suffisent pas à distinguer les diagnostics.",
+      "Great Ormond Street Hospital, « How do stereotypies change over time? », « How can I help manage stereotypies? » et « Is there medication? What else might help? » : pour beaucoup d’enfants, les stéréotypies sont sans danger et ne nécessitent pas de traitement spécifique. Écouter l’enfant, convenir d’un adulte à qui signaler une gêne et repérer les situations où un soutien est utile. Si les mouvements sont difficiles à vivre, entravent les activités ou entraînent des blessures, en parler au pédiatre ; un accompagnement comportemental peut être une option selon la situation. Le choix et la mise en œuvre appartiennent à l’équipe et à l’enfant avec ses responsables, sans protocole à reproduire ici.",
+      "MedlinePlus, rubriques « Treatment » et « Possible Complications », et GOSH, rubrique de soutien : le retentissement peut être social ou pratique ; quand une blessure est possible, tenir compte de la sécurité de l’environnement et demander l’avis des professionnels. Dans le récit, une table dégagée et une possibilité de pause sont des adaptations de la médiathèque discutées avec Irène, sans prétention thérapeutique. Ne pas présenter l’isolement, la mise sous surveillance ni l’arrêt des mouvements sans danger comme des objectifs."
+    ]
+  },
+  "direction": "Irène, 13 ans, raisonne par plans et croquis. Ses répliques sont brèves, parfois drôles ; ses silences peuvent contenir un avis déjà formé. Elle et Ilyès fabriquent La rue sous la pluie, un livre accordéon en relief qui offre deux chemins jusqu’à une place. Elle veut que le public choisisse son chemin et garder ses outils à portée. Mylène, médiatrice, apprend à poser des questions qui laissent Irène décider ; son père passe de l’anticipation inquiète à un appui convenu avec elle ; la pédiatre distingue ce qui peut faire mal, ce qui gêne Irène dans une tâche et ce qui peut rester tel quel. Le diagnostic est ancien et ne donne lieu à aucune annonce ou attribution de sous-code. Le mouvement familier des mains existe aussi dans la joie et au calme ; ses interruptions de lecture et de manipulation ont un effet concret en certains lieux. Traiter l’espace, le partage des rôles et les reprises de consigne ; en cas de douleur ou de risque, montrer le relais adulte et pédiatrique sans geste de soin, contention, consigne de suppression ou interprétation de l’intention. Le dernier épisode répond à la question de la participation et des outils ; il laisse Irène avoir une idée pour un autre livre et le droit d’y consacrer le temps qu’elle souhaite."
+}

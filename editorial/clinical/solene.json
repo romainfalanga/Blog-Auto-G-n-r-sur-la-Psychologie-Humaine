@@ -1,17 +1,17 @@
 {
   "character_id": "solene",
-  "bio": "Solène, 36 ans, est chargée de diffusion pour un cinéma itinérant et vit avec sa compagne Livia. Elle vit avec un trouble schizoaffectif déjà diagnostiqué. Avec Célestin, bénévole, elle prépare une séance de courts métrages et cherche ce qu’un public de petite salle leur fera entendre autrement.",
+  "bio": "Solène travaille dans un cinéma itinérant. Elle entend vite quand un silence entre deux films permet à une scène de rester en tête. Elle voudrait que les spectateurs des petites salles puissent donner leur avis à leur manière. Quand sa concentration ou son humeur change, elle hésite à en parler à Livia, sa compagne, de peur que la discussion prenne toute la place. Le suivi de son trouble schizoaffectif et les choix du travail s’entrecroisent. Elle cherche des horaires qu’elle puisse tenir tout en gardant son rôle dans la programmation.",
   "episodes": [
     {
       "number": 1,
       "slug": "solene-essai-son-deux-ecoutes",
-      "title": "Solène demande ce qu’il y a après la coupe",
+      "title": "Entendre son prénom sans pouvoir situer la voix",
       "description": "Pour choisir le premier court métrage de la tournée, Solène et Célestin écoutent le même passage. Elle y entend son prénom.",
       "context": "Au dépôt du cinéma itinérant, pendant le choix des courts métrages",
       "topics": [
-        "Expérience auditive",
-        "Trouble schizoaffectif",
-        "Programmation de films"
+        "Humeur et perceptions",
+        "Douter de ce qu’on a entendu",
+        "Faire une pause"
       ],
       "opening": "Au bout de quatre minutes, les mains disparaissent de l’écran et la chaise reste seule au milieu de l’atelier. Voilà ce qui plaît à Solène dans Les Mains du jour : la réparation est terminée, mais le montage laisse à la personne qui regarde le temps de voir que le siège est encore de travers. Elle avait d’abord prévu de commencer sa séance par Le Mur d’en face, dont le premier plan est plein de couleurs. Elle déplace la fiche de la chaise tout en haut de la pile.\n\nCélestin cherche la prise qui permet de brancher une deuxième enceinte. Solène recule de quelques secondes dans le film pour lui montrer la coupe. Dans le blanc qui suit, elle entend son prénom, prononcé comme si quelqu’un lui parlait depuis le siège à sa droite. Elle tourne la tête. Célestin a les deux bras sous la table et fredonne. Elle connaît cette impression d’être appelée alors que la personne à côté d’elle n’a rien entendu. Cela lui était arrivé pendant une période difficile que sa psychiatre et elle avaient reprise en consultation. Elle ne sait pas encore quoi faire de ce qui vient de se passer.\n\n« Après le plan de la chaise, tu entends quoi ? » demande-t-elle. Célestin remet la séquence, puis répond qu’il entend une porte et le bout d’un frottement. Solène pense lui demander de vérifier une troisième fois. Elle s’aperçoit qu’elle ne regarde déjà plus la chaise : elle attend son prénom. Elle lui propose de marquer l’endroit et de faire une pause.",
       "sections": [
@@ -42,13 +42,13 @@
     {
       "number": 2,
       "slug": "solene-cuisine-appeler-equipe",
-      "title": "Dans la cuisine, Solène choisit qui appeler",
+      "title": "Parler à sa compagne quand ses perceptions changent",
       "description": "Le prénom revient alors que l’ordinateur est fermé. Solène dit à Livia ce qu’elle a remarqué ces derniers jours et appelle son équipe.",
       "context": "Dans l’appartement de Solène et Livia, avant le cours de poterie de Livia",
       "topics": [
         "Humeur et perceptions",
-        "Contact avec l’équipe de soins",
-        "Écoute en couple"
+        "Reconnaître ses signes",
+        "Choisir ce qu’on partage"
       ],
       "opening": "Livia ressort son tablier de poterie du sac de courses. Une trace de terre cuite s’est incrustée sous la boucle et se détache en poudre sur le plan de travail. Elle aimerait montrer à Solène une photo du bol qu’elle émaille ce soir. Elle a fait l’anse bien trop basse et prétend maintenant que c’est pour le tenir avec des moufles. D’habitude, Solène trouverait une autre bonne raison de rater une anse. Elle cherche depuis lundi à retrouver cet élan pour des choses qui lui plaisent. Elle sait ce qu’elle aurait pu répondre et n’a pas la force de faire la blague. La veille, elle avait laissé son cabas sur la poignée sans partir pour sa promenade au marché.\n\nPendant que Livia cherche la photo, Solène entend son prénom de nouveau. Cette fois, l’ordinateur est fermé. Elle répond « oui ? » avant de comprendre que Livia vient de tourner son écran vers elle, sans parler. Sur la photo, il y a une étiquette où quelqu’un a écrit « cuisson jeudi ». Solène demande quel jour elles sont, puis dit qu’elle a cru être appelée au dépôt et qu’elle vient de l’entendre encore. Cet après-midi, elle a laissé Célestin finir l’essai des sous-titres : elle lisait deux fois les mêmes phrases sans parvenir à suivre la scène.\n\nLivia dit « C’était peut-être les voisins ». Elle le dit très vite, et Solène a le sentiment de devoir prouver quelque chose pour être prise au sérieux. « Je ne te demande pas de chercher qui c’est », reprend-elle. Elle lui dit qu’elle n’a plus envie de sortir pour des choses auxquelles elle tenait la semaine dernière. Le cabinet ferme dans une demi-heure. Elle décide de demander à parler à l’infirmière qui travaille avec sa psychiatre.",
       "sections": [
@@ -79,13 +79,13 @@
     {
       "number": 3,
       "slug": "solene-carnet-chronologie-consultation",
-      "title": "La psychiatre trace deux lignes dans le carnet de Solène",
+      "title": "Comprendre ce qui relie l’humeur et les perceptions",
       "description": "En consultation, Solène distingue ce qu’elle sait de ses derniers jours de ce qu’elle reconstitue avec la psychiatre.",
       "context": "Au cabinet de la psychiatre référente, après l’appel de Solène à l’infirmière",
       "topics": [
-        "Chronologie clinique",
-        "CIM-11 et DSM",
-        "Consultation de suivi"
+        "Humeur et perceptions",
+        "Reconnaître ses signes",
+        "Accepter l’incertitude"
       ],
       "opening": "La docteure Da Costa demande à Solène si elle souhaite garder le carnet devant elle. Solène le tourne de manière à pouvoir lire les dates sans se pencher. « Si je vous dis que j’ai d’abord cessé d’écouter la radio, est-ce que vous allez écrire que ça a commencé là ? » La question lui est venue dans le bus. Elle sait qu’elle a entendu son prénom mardi au dépôt et le lendemain dans la cuisine. Elle se souvient moins bien du jour où elle n’a plus eu envie de sa promenade habituelle au marché.\n\nLa psychiatre demande si c’était une question d’envie, de fatigue ou si quelque chose lui rendait la sortie difficile. « Je ne sais plus pour dimanche. Hier je n’arrivais même pas à choisir ce que j’allais prendre au petit déjeuner. » Elles mettent un point à côté d’hier et laissent dimanche vide. Avec l’accord de Solène, la docteure trace sous les dates deux lignes au crayon. Sur l’une, elles placent les changements qui concernent l’humeur et le quotidien ; sur l’autre, les expériences comme celles du dépôt et de la cuisine.\n\nCette façon de faire rappelle à Solène une consultation bien plus ancienne, après la période pour laquelle elle a reçu le diagnostic. Elle avait cru, en lisant le mot sur un courrier, qu’on lui avait donné deux diagnostics à la fois. Elle n’avait pas osé demander. Cette fois, elle pointe les deux lignes du carnet. « Est-ce que c’est parce que ça se passe sur la même page que vous appelez ça schizoaffectif ? »",
       "sections": [
@@ -116,13 +116,13 @@
     {
       "number": 4,
       "slug": "solene-seance-jour-choix-films",
-      "title": "Une séance de jour pour voir trois films",
+      "title": "Reprendre un projet après une période difficile",
       "description": "Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer les trois films et propose un horaire de jour.",
       "context": "Plusieurs semaines plus tard, à la réunion du cinéma itinérant",
       "topics": [
-        "Période intermédiaire",
-        "Horaires de travail",
-        "Choix de programmation"
+        "Garder sa place au travail",
+        "Écouter ses limites",
+        "Reprise progressive"
       ],
       "opening": "Célestin pose le plan de la salle des Tilleuls à l’envers. Solène le tourne en gardant un doigt sur la prise qui est la plus éloignée de l’entrée. La mairie leur propose un essai un samedi après-midi, avant de confirmer la date de la séance publique. La salle est petite, mais on peut laisser les rideaux tirés en journée. Quand quelqu’un arrivera en retard, il pourra prendre une chaise près de la porte sans traverser l’image. Solène voit déjà où poser la table pour que les spectateurs puissent s’y arrêter en repartant.\n\nElle a revu la docteure Da Costa plusieurs fois depuis le rendez-vous où elles avaient laissé dimanche en blanc. Ces dernières semaines, elle a retrouvé le goût d’écouter la radio au petit déjeuner et peut regarder un film entier sans passer la moitié du temps à guetter si on l’appelle. Le suivi continue. Les créneaux de travail en journée dont elle dispose lui ont permis de reprendre les visionnages et d’écrire à chaque équipe de film.\n\nMireille, qui coordonne la tournée, voudrait retirer Trois minutes de pluie. Les dialogues risquent d’être trop rapides pour une salle où les derniers rangs sont loin du mur. Solène voudrait d’abord vérifier sur place. Le film montre deux personnes qui se parlent sous un abribus, et c’est celui que les gens pourraient avoir envie de reprendre en sortant. Célestin demande si elles veulent profiter de l’essai pour faire aussi le démontage du matériel du soir. Solène regarde l’heure de fin indiquée dans sa semaine et lui propose qu’ils décident maintenant de ce qui tiendra dans l’après-midi.",
       "sections": [
@@ -153,13 +153,13 @@
     {
       "number": 5,
       "slug": "solene-tilleuls-reactions-sans-camera",
-      "title": "La caméra reste dans le sac aux Tilleuls",
+      "title": "Le regard des autres quand une caméra tourne",
       "description": "Après l’essai, Célestin propose de filmer les réactions. Solène se demande ce que les gens oseront dire si l’objectif est braqué sur eux.",
       "context": "À l’essai des courts métrages, dans la petite salle des Tilleuls",
       "topics": [
-        "Parole choisie",
-        "Retour des spectateurs",
-        "Période intermédiaire"
+        "Choisir ce qu’on partage",
+        "Regard des autres",
+        "Désaccord au travail"
       ],
       "opening": "Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Célestin a renoncé à les ranger pour qu’on puisse comparer la lecture des sous-titres devant et au fond. Solène s’assied deux rangées derrière la femme qui a choisi de garder son manteau. À la fin des Mains du jour, elle entend cette femme souffler « Ah, elle tient. » La chaise réparée vient de rester seule à l’écran. Le film n’a pas eu besoin d’un mot pour que quelqu’un prenne parti.\n\nPendant la pause, Célestin sort son téléphone. Il propose de filmer les réactions au deuxième film, celui de l’abribus. Il imagine déjà les voix sur la bande-annonce de la tournée. Solène avait seulement demandé aux trois personnes de venir pour un essai. Avant qu’elle réponde, la femme au manteau la regarde. « Il faut parler face à la caméra ? » Elle a roulé le programme entre ses mains sans s’en apercevoir.\n\nSolène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.",
       "sections": [
@@ -190,13 +190,13 @@
     {
       "number": 6,
       "slug": "solene-salle-annulee-deux-appels",
-      "title": "La salle est prise. Solène ouvre son carnet",
+      "title": "Distinguer un contretemps des signes qui inquiètent",
       "description": "Les Tilleuls ne sont plus disponibles pour la séance. Solène garde sa proposition de films et appelle aussi l’infirmière pour un autre sujet.",
       "context": "Au dépôt, deux semaines après l’essai et avant la date publique pressentie",
       "topics": [
-        "Changement préoccupant",
-        "Plan de relais",
-        "Contretemps de tournée"
+        "Reconnaître ses signes",
+        "Demander de l’aide",
+        "Garder sa place au travail"
       ],
       "opening": "Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée. Mireille a imprimé le courriel pour y écrire les noms de deux autres lieux. Célestin ne sera pas disponible si tout est décalé d’un mois. Solène s’attarde sur ce détail : elle avait déjà prévu qui poserait les cartes et où.\n\nSur la page de travail ouverte devant elle, quelqu’un a laissé un commentaire sur Trois minutes de pluie : « Couper le début de la présentation. » À la première lecture, Solène a cru qu’il lui était adressé d’une autre façon, comme si les gens de la mairie savaient ce qui lui arrivait et lui disaient de se taire. Cette impression est venue avant le message d’annulation. Depuis quelques jours, elle se sent aussi si triste le matin qu’elle a laissé de côté des appels qu’elle passait facilement la semaine d’avant. Elle avait prévu d’attendre sa prochaine consultation pour en parler.\n\nMireille demande si elle a lu les noms de lieux. Solène dit qu’elle souhaite garder les trois films, mais qu’elle ne peut pas téléphoner aux deux salles aujourd’hui. Mireille propose de vérifier la disponibilité de la médiathèque de la Rive. Solène pose le papier à plat, puis prend son carnet dans le sac. Elle connaît par cœur l’emplacement du contact de l’infirmière. Elle a tout de même besoin de l’avoir sous les yeux.",
       "sections": [
@@ -228,13 +228,13 @@
     {
       "number": 7,
       "slug": "solene-livia-appel-15",
-      "title": "Livia donne le code de la porte au Samu",
+      "title": "Réagir à la désorientation soudaine d’un proche",
       "description": "Après un malaise, Solène ne reconnaît plus bien sa cuisine. Livia appelle le 15 et l’équipe envoyée par le Samu prend le relais.",
       "context": "Le samedi suivant, chez Solène et Livia, après des contacts rapprochés avec l’équipe de soins",
       "topics": [
-        "Malaise et confusion",
-        "Relais d’urgence",
-        "Présence de la compagne"
+        "Changement brutal",
+        "Présence en situation de crise",
+        "Passer le relais"
       ],
       "opening": "Le samedi, Livia revient de la boulangerie et trouve Solène assise sur le sol de la cuisine, le dos contre un placard. Elle l’entend dire « je me suis retenue au mur » avant de lui dire bonjour. Le sachet du pain tombe sur le plan de travail. Ce matin, Solène avait dit au téléphone qu’elle se sentait encore très mal et qu’elle avait l’impression d’entendre quelqu’un dans l’entrée. Elles avaient déjà parlé avec l’équipe depuis le rendez-vous avancé. Maintenant, Solène dit que la pièce tourne et demande si elles sont chez elle. Livia entend la question deux fois.\n\n« Tu peux rester avec moi ? » demande Solène. Elle est incapable de décider si elle peut se relever. Livia s’assied près d’elle, lui dit qu’elle appelle les secours et compose le 15 sans attendre le prochain rendez-vous. Elle indique l’adresse, l’étage, la difficulté de Solène à reconnaître la pièce et le malaise qu’elle vient de lui décrire. Elle ne sait pas à quelle heure cela a commencé et le dit. Le professionnel du Samu lui pose des questions sur l’état de Solène. Quand Livia mentionne que sa compagne est suivie en psychiatrie, elle revient aussi sur ce qu’elle observe maintenant.\n\nSolène reconnaît les quatre chiffres du code d’entrée quand Livia les lit. Elle ajoute « L’interphone est en panne », une phrase que Livia répète au téléphone. Le Samu décide d’envoyer une équipe et leur indique quoi faire d’ici son arrivée. Livia reste près de Solène et suit les consignes. Dans le silence, elle entend le papier du pain qui se déplie tout seul sur le plan de travail.",
       "sections": [
@@ -266,12 +266,12 @@
     {
       "number": 8,
       "slug": "solene-bol-fatigue-apres-soins",
-      "title": "Le bol de Livia n’attend pas le retour au travail",
+      "title": "Faire une place à la fatigue après les soins",
       "description": "De retour chez elle, Solène parle de sa fatigue à sa psychiatre. Avec Livia, elle choisit une sortie qui peut durer dix minutes.",
       "context": "Quelques semaines après les urgences, entre le retour à domicile et la reprise du travail",
       "topics": [
-        "Retour à domicile",
-        "Fatigue à signaler",
+        "Écouter ses limites",
+        "Reconnaître ses signes",
         "Soutien choisi"
       ],
       "opening": "Livia pose sur la table le bol qu’elle a enfin ramené de l’atelier. L’anse frôle le bois. En se passant le bol, elles se coincent les pouces l’une contre l’autre et rient des précautions qu’elles ont prises pour rien. Solène s’attendait à avoir envie d’accompagner Livia à l’atelier pour dire à sa professeure qu’un bol comme celui-là tient aussi bien dans les mains. À dix heures, elle a déjà envie de se recoucher. Elle a oublié le dernier bouton de sa chemise. Livia le lui signale quand elle se lève.\n\nDepuis son retour chez elle après la prise en charge aux urgences puis en service, elle revoit sa psychiatre. Elles ont repris une partie de la période où les bruits, la tristesse et la difficulté à s’occuper du quotidien avaient changé. Dans son carnet, Solène a aussi écrit « matin : lourde, somnole après le petit déjeuner ». Elle redoute que la docteure entende seulement qu’elle ne va pas mieux. Ce qu’elle veut savoir, c’est ce qui peut être examiné quand elle a si peu d’énergie le matin, et ce qu’elle peut faire si ça s’accentue.\n\nLivia demande si Solène veut toujours passer à l’atelier. Elle a une deuxième pièce à récupérer et peut y aller seule. Solène n’a pas envie de passer une matinée entière dehors. Elle se demande si elles pourraient boire un chocolat au comptoir d’en face, dix minutes, après le rendez-vous. Elle aimerait garder une partie de la journée qui ne se passe ni au cabinet ni autour d’un planning.",
@@ -304,13 +304,13 @@
     {
       "number": 9,
       "slug": "solene-amenagement-horaires-deux-colonnes",
-      "title": "Solène garde les films, Mireille prend la fermeture",
+      "title": "Poser ses limites pour reprendre le travail",
       "description": "Le seul créneau confirmé à la médiathèque est le soir. Solène propose une autre répartition du travail et un samedi en journée.",
       "context": "À la réunion de reprise avec Mireille, après un échange avec la médecine du travail",
       "topics": [
-        "Aménagement des horaires",
-        "Secret médical",
-        "Répartition du travail"
+        "Garder sa place au travail",
+        "Écouter ses limites",
+        "Choisir ce qu’on partage"
       ],
       "opening": "Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage. Solène regarde le créneau sur l’écran. Avant son arrêt, elle travaillait déjà en journée. Elle a revu le médecin du travail depuis son retour et discuté de créneaux courts, à heures fixes, avec une fin en journée pour sa reprise. Elle est venue pour organiser les tâches dans ce cadre.\n\nMireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, Célestin peut choisir deux films et les montrer un jeudi. » Solène a apporté l’enveloppe des Tilleuls. Elle prend entre deux doigts le bord d’une carte sans la sortir. Elle avait prévu de revoir sa présentation de l’abribus, où les trois spectatrices avaient eu des réactions différentes. Quelqu’un d’autre peut projeter les films. Confier aussi la sélection à Célestin changerait la tâche qu’elle est venue reprendre.\n\n« Est-ce qu’ils ont encore ce samedi à quatorze heures ? » demande-t-elle. Mireille avait cité cette possibilité dans un message, sans la réserver. Il faudrait que la bibliothécaire accepte d’ouvrir l’espace une demi-heure plus tôt et qu’une autre personne ferme la salle. Solène propose de réserver deux heures pour l’essai et de venir le samedi pendant le créneau convenu. Puis elle demande à Mireille quelles sont les tâches qui doivent absolument être faites sur place après son départ.",
       "sections": [
@@ -342,13 +342,13 @@
     {
       "number": 10,
       "slug": "solene-dernier-rang-sous-titres",
-      "title": "Du dernier rang, il manque le début de la phrase",
+      "title": "Défendre son choix quand les avis divergent",
       "description": "À la médiathèque, Célestin perd des mots au fond de la salle. Solène doit choisir combien de places proposer pour garder le film de l’abribus.",
       "context": "À l’essai dans la médiathèque de la Rive, avant l’impression de l’annonce",
       "topics": [
+        "Garder sa place au travail",
         "Désaccord professionnel",
-        "Sous-titres",
-        "Autonomie au travail"
+        "Décider en équipe"
       ],
       "opening": "Du dernier rang, Célestin annonce « Je n’ai que la fin ». Il se penche un peu vers la gauche, puis se redresse. Sur le mur de la médiathèque, les sous-titres de l’abribus sont plus petits qu’aux Tilleuls. Ici, le meuble où se trouve le projecteur est plus près de l’écran et les rangées vont plus loin. Solène refait le trajet jusqu’au fond. Elle voit la femme du film tourner son parapluie et attrape le mot « maison ». La première moitié de la phrase est déjà partie quand elle trouve la seconde.\n\nMireille propose de supprimer le film avant de tirer les affiches. Elle a promis à la bibliothécaire une séance ouverte à vingt-quatre personnes. Si elles retirent la dernière rangée et rapprochent les autres, il faudra limiter à seize. Solène avait espéré que la question serait réglée après l’essai des Tilleuls. Elle commence à dire que Célestin peut relancer la séquence, puis s’arrête : ils viennent tous les deux de constater la même difficulté.\n\nLa bibliothécaire entre pour demander ce qu’elle peut annoncer au groupe qui se réunit d’habitude le samedi. Elle a quatre personnes qui pensent venir ensemble. Solène sent que répondre tout de suite lui coûte. Depuis son retour au dépôt, elle a demandé deux fois une pause avant un échange et redoute qu’on entende « je ne peux plus choisir ». Elle demande cinq minutes et pose le plan de la salle sur le dernier siège. Elle veut savoir ce qu’elles peuvent encore changer, en plus du nombre de chaises.",
       "sections": [
@@ -378,13 +378,13 @@
     {
       "number": 11,
       "slug": "solene-seance-public-retour-oral",
-      "title": "« J’ai trouvé le fil quand elle a posé son parapluie »",
+      "title": "Prendre sa part du travail sans tout porter",
       "description": "Les trois films passent à la médiathèque. Après la séance, une spectatrice demande à laisser une remarque sans prendre de carte.",
       "context": "Le samedi de la première séance publique, à la médiathèque de la Rive",
       "topics": [
-        "Participation choisie",
-        "Retour oral du public",
-        "Relais en fin de séance"
+        "Garder sa place au travail",
+        "Écouter ses limites",
+        "Faire une place à la parole"
       ],
       "opening": "À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie. La bibliothécaire leur montre le plan. Les seize places ont trouvé preneur et plusieurs personnes ont laissé leur contact à l’accueil pour une autre date éventuelle. La bibliothécaire explique que les remarques aideront l’équipe à préparer ses prochaines séances. Sur la table, il y a l’enveloppe des cartes et un verre qui sert à empêcher la pile de glisser quand quelqu’un ouvre la porte.\n\nSolène avait écrit neuf lignes de présentation. Elle en lit trois et laisse la salle découvrir la chaise de l’atelier. Ensuite, dans l’abribus de Trois minutes de pluie, une femme pose son parapluie pour laisser un homme s’asseoir. Il y a un rire bref au deuxième rang. Solène ne sait pas à qui il appartient et en est contente : elle veut voir ce qui restera aux gens au moment où ils auront fini de regarder les films. Elle s’est placée sur le côté pour pouvoir sortir sans interrompre la séance si elle a besoin d’air. Ce samedi, elle choisit de rester jusqu’à la fin du troisième.\n\nUne spectatrice s’arrête près des cartes, lit « À quel moment avez-vous perdu le fil ? » et demande si elle peut répondre sans écrire. « J’ai trouvé le fil quand elle a posé son parapluie. Ça vous intéresse aussi ? » Solène a la main sur le verre qui retient les cartes. Elle propose de l’écouter avant de lui demander si l’équipe peut garder un mot de ce qu’elle a dit.",
       "sections": [
@@ -414,13 +414,13 @@
     {
       "number": 12,
       "slug": "solene-cartes-suite-tournee",
-      "title": "Solène ajoute du silence entre les films",
+      "title": "Écouter des avis différents et décider de la suite",
       "description": "Les cartes de la médiathèque proposent deux changements différents. Solène garde la chaise en ouverture et défend une pause avant le film suivant.",
       "context": "Le mardi après la séance, au dépôt du cinéma itinérant",
       "topics": [
-        "Décision de programmation",
-        "Retours du public",
-        "Continuité des soins"
+        "Garder sa place au travail",
+        "Souplesse dans les décisions",
+        "Écouter ses limites"
       ],
       "opening": "Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque sur deux tables. La femme au manteau avait écrit « Gardez la chaise au début ». Quelqu’un d’autre, samedi, a demandé si on pouvait laisser plus de silence après ce film. Célestin pense que les deux personnes se seraient entendues. Lui aurait préféré commencer par le mur peint pour savoir tout de suite à qui il avait affaire. Il l’avait dit pendant l’essai aux Tilleuls et l’écrit à nouveau sur une carte vierge, pour rire. Il signe en grand pour qu’on ne le prenne pas pour un spectateur.\n\nMireille a vérifié le calendrier : la médiathèque ne peut pas les reprendre avant l’hiver. Elle va prévenir les personnes restées sans place qu’aucune date n’est encore fixée. Une petite salle à côté du marché propose en revanche un samedi. Le budget permet un déplacement. Avant de dire oui, Mireille veut savoir ce qu’elles emmènent de la première séance. Solène commence à mettre les cartes sur les films auxquels elles se rapportent. Elle laisse celle du parapluie à côté du carton de l’abribus.\n\nDepuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochain rendez-vous est déjà dans son téléphone et le cadre des horaires reste en place. Elle ne vient pas faire le bilan du suivi devant Mireille. Elle veut pouvoir dire à quoi lui ont servi les cartes. Elle reprend celle sur le silence et demande à Célestin combien de temps il lui faudrait pour préparer un enchaînement où la salle garde quelques secondes la dernière image en tête avant le film suivant.",
       "sections": [
@@ -448,5 +448,12 @@
         "next": "Le parcours se ferme sur une séance faite et des réactions prises en compte. La visite du lieu suivant dépend encore de l’image, de la jauge et du relais de fermeture."
       }
     }
+  ],
+  "profile_topics": [
+    "Humeur et perceptions",
+    "Reconnaître ses signes",
+    "Écouter ses limites",
+    "Choisir ce qu’on partage",
+    "Garder sa place au travail"
   ]
 }

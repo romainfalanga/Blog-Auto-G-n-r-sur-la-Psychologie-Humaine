@@ -1,5 +1,5 @@
 ---
-title: Un nom et une prochaine date
+title: Partager ce qu’on a créé en gardant son intimité
 description: L’échange revient. Meriem choisit de signer le patron de la pochette
   et réserve un moment pour coudre avec Chloé après l’accueil.
 slug: meriem-un-nom-et-une-date
@@ -11,9 +11,9 @@ contexte: Le deuxième samedi d’échange
 tags:
 - TSPT complexe
 - CPTSD
-- Confiance
-- Soutien dans la durée
-- Projet collectif
+- Confiance dans les relations
+- Poser ses limites
+- Trouver sa place
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

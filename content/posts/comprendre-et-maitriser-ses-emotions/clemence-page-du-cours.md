@@ -1,5 +1,5 @@
 ---
-title: La page du cours
+title: 'Fatigue en cours : Clémence demande de l’aide'
 description: Clémence remarque une fatigue inhabituelle en cours. Elle la signale
   à l’équipe spécialisée et cherche comment suivre la prochaine séance.
 slug: clemence-page-du-cours
@@ -11,9 +11,9 @@ contexte: décrire un changement physique préoccupant et adapter une obligation
   avec les personnes concernées
 tags:
 - Anorexie
-- Santé physique
-- Contact avec l’équipe
-- Études
+- Demande d’aide
+- Confidentialité à l’université
+- Fatigue inhabituelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

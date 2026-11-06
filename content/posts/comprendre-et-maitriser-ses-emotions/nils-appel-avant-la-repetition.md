@@ -1,5 +1,5 @@
 ---
-title: Nils appelle avant d’entrer au studio
+title: Repérer un changement et appeler avant d’en être sûr
 description: Après deux mauvaises nuits et des impressions plus insistantes, Nils
   appelle l’équipe de secteur. Il choisit de reporter la répétition.
 slug: nils-appel-avant-la-repetition
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le vendredi, entre la fin du travail et la répétition prévue
 tags:
 - Schizophrénie
-- Changement inhabituel
-- Sommeil
-- Contact avec les soins
+- Doutes sur ses perceptions
+- Signaux d’alerte personnels
+- Demander du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

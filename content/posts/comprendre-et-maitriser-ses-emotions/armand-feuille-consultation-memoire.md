@@ -1,5 +1,5 @@
 ---
-title: Une feuille qu’Armand lit le premier
+title: Parler pour soi à une consultation mémoire
 description: À la consultation mémoire, Armand veut décrire ce qui se passe quand
   il range ses papiers. Jeanne a une autre inquiétude à ajouter.
 slug: armand-feuille-consultation-memoire
@@ -12,9 +12,9 @@ contexte: À un rendez-vous de suivi à la consultation mémoire, après le deux
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Consultation mémoire
-- Vécu de la personne
-- Accord pour partager
+- Choisir pour soi
+- Mémoire au quotidien
+- Recevoir de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Garance demande à rejouer les quatre mesures
+title: La joie de jouer ensemble, le temps d’une répétition
 description: La valse prend enfin le bon rythme. Garance aimerait rejouer le passage
   et décider plus tard si elle peut préparer le programme du concert.
 slug: garance-joie-repetition-humeur
@@ -11,9 +11,9 @@ contexte: À la première répétition pour le concert de quartier, dans la sall
   Forges
 tags:
 - Bipolarité type II
-- Enthousiasme ordinaire
-- Trouble bipolaire de type II
-- Engagement dans un projet
+- Joie liée à la situation
+- Variations de l’humeur
+- Temps de réflexion avant de s’engager
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

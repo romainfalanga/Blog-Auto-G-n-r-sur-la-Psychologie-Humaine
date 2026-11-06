@@ -1,5 +1,5 @@
 ---
-title: Le premier pli de la couverture
+title: Se juger sur une erreur quand on apprend la reliure
 description: À l’atelier, Mina trouve un défaut sur la couverture. Elle reprend une
   étape de la reliure et choisit elle-même le papier du carnet.
 slug: mina-pli-papier-reliure
@@ -11,9 +11,9 @@ contexte: Un soir dans l’atelier de reliure
 tags:
 - Profil borderline
 - Trouble borderline
-- Image de soi
-- Apprentissage
-- Choix créatif
+- Variation de l’image de soi
+- Comparaison aux autres
+- Retour précis sur une erreur
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

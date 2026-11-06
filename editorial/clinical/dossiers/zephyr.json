@@ -1,0 +1,26 @@
+{
+  "references": {
+    "mayo-schizotypie": {
+      "title": "Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement",
+      "url": "https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924"
+    },
+    "nice-evaluation-psychose": {
+      "title": "NICE, CG178, évaluation spécialisée en cas de manifestations évocatrices de psychose chez l’adulte",
+      "url": "https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565"
+    }
+  },
+  "dossier": {
+    "name": "Trouble schizotypique",
+    "aliases": ["Schizotypie"],
+    "references": ["oms-cddr", "mayo-schizotypie", "nice-evaluation-psychose"],
+    "points": [
+      "OMS, CDDR, 6A22, p. 177–180 (p. 195–198 du PDF), caractéristiques essentielles et évolution : l’évaluation professionnelle porte sur un ensemble durable de difficultés pouvant toucher les relations, la manière de parler, d’interpréter ou de percevoir. Elle tient compte de la souffrance ou du retentissement, des fluctuations et des autres explications possibles, notamment médicales ou liées à des substances ou à un traitement. Le diagnostic de Zéphyr est déjà établi au début du récit.",
+      "OMS, p. 177–179, seuil et contexte culturel : une apparence originale, une façon imagée de s’exprimer, un goût pour la solitude, une croyance partagée ou un vécu perceptif inhabituel isolé ne suffisent pas pour poser un diagnostic. Le sens du geste, le contexte culturel ou familial et ses effets dans la vie de la personne comptent. Une expression discrète n’indique pas ce qu’une personne ressent ; une crainte ne prouve pas les intentions d’autrui et n’annule pas les problèmes vérifiables.",
+      "OMS, p. 177–180, caractéristiques et diagnostic différentiel : le trouble schizotypique figure dans le groupe de la schizophrénie et des autres troubles psychotiques primaires dans la CIM-11. Ce sont des catégories distinctes. Certaines expériences d’allure psychotique peuvent être transitoires dans le trouble schizotypique ; le professionnel apprécie l’ensemble, l’intensité, la durée, le retentissement et les autres causes possibles. L’épisode du son inhabituel ne conclut ni à une hallucination ni à un épisode psychotique.",
+      "Mayo Clinic, rubriques Psychotherapy, Coping and support et Preparing for your appointment : une psychothérapie peut travailler les difficultés vécues dans les échanges, proposer un soutien et aider à trouver des adaptations. Une personne peut préparer des exemples précis et, avec son accord, choisir d’associer un proche. La fiche suit la terminologie du DSM (« trouble de la personnalité schizotypique ») ; elle sert ici aux repères d’accompagnement, tandis que la définition du code 6A22 reste celle de la CIM-11. Aucun protocole unique ni résultat garanti n’est présenté.",
+      "NICE, CG178, recommandation 5.8.1.1, p. 136 du guide complet : si des expériences évocatrices de psychose s’accompagnent de détresse et d’une baisse du fonctionnement social, une évaluation spécialisée sans délai est indiquée. Ce repère concerne l’évaluation d’un changement préoccupant, non le traitement du trouble schizotypique en soi. Zéphyr contacte son équipe de soins et obtient un avis ; ses collègues organisent l’atelier, sans rechercher la cause ni vérifier indéfiniment ses perceptions.",
+      "Les ajustements du musée sont des choix de travail convenus avec Zéphyr et ses collègues : questions explicites, limite de participants, support de démonstration, passage de relais, retour bref. Ils peuvent être utiles dans cette situation sans constituer un soin. Accueillir la gêne ou la peur, dire ce qu’on a observé et rester disponible pour un appui convenu ne veut pas dire partager une interprétation inquiétante. Les informations de santé restent du ressort de Zéphyr et de son équipe clinique."
+    ]
+  },
+  "direction": "Zéphyr a quarante ans, entretient les horloges d’un musée associatif et veut consacrer une matinée par mois à transmettre la mécanique. Il a de l’humour quand il a le temps de parler, aime donner une image aux outils et déteste qu’une fiche parle à la place de quelqu’un. La transmission passe par une petite platine de démonstration et par des supports que les visiteurs ont le droit de contredire ; les horloges de collection restent à l’établi. Maud, collègue à l’accueil, connaît ses préférences de travail et fait ses propres erreurs ; Basile tient le budget du musée ; Mounir, bénévole, peut prendre un geste en charge sans devenir un soignant ; Loïc revient pour apprendre et peut refuser de servir de cobaye ; Agnès, sœur de Zéphyr, défend sa part d’une histoire familiale. Sonia Martinez, psychologue référente, accompagne un diagnostic connu de longue date et le service organise le relais médical si une expérience change. Montrer les écarts entre ce que Zéphyr craint, les faits accessibles et les désaccords réels, sans dévoiler une machination ni effacer toutes ses inquiétudes. Varier la parole imagée, la réserve qui trompe, le plaisir d’être seul, l’effort relationnel et le droit de demander un retour. Le rituel familial et les inventions de métier ont leur sens propre. Une séance interrompue et une date reportée changent réellement le projet ; la fin règle la cadence et le partage des rôles, tandis que les relations et le suivi se poursuivent."
+}

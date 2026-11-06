@@ -1,5 +1,5 @@
 ---
-title: Nils laisse la question de Renée en entier
+title: Laisser de la place à l’imprévu avant de passer à l’antenne
 description: Renée apporte une question qui bouscule le texte préparé. Nils choisit
   de raccourcir sa réponse et confirme ce qui pourra être diffusé.
 slug: nils-la-question-sur-le-ticket
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le vendredi après-midi, à la radio, la veille de l’émission
 tags:
 - Schizophrénie
-- Consentement à la diffusion
-- Préparation du direct
-- Repères choisis
+- Choisir ce qu’on partage
+- S’ajuster à l’imprévu
+- Reprendre sa place
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

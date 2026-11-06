@@ -1,5 +1,5 @@
 ---
-title: La ligne à joindre quand la détresse monte
+title: 'Détresse le soir : Mina appelle le service prévu avec son équipe'
 description: Un soir, Mina se sent dépassée et retrouve le contact prévu avec son
   équipe. Alice l’aide à passer le relais dans les limites convenues.
 slug: mina-appeler-contact-prevu
@@ -11,9 +11,9 @@ contexte: Chez Mina, après les préparatifs du festival
 tags:
 - Profil borderline
 - Trouble borderline
-- Détresse
-- Recours prévu
-- Relais professionnel
+- Détresse et demande d’aide
+- Limites de l’aide d’une proche
+- Relais professionnel prévu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

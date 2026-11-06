@@ -43,11 +43,17 @@
     {{ $presentation := .Description }}
     {{ with index .Site.Data.character_presentations ((.Params.prenom | default .Title) | lower) }}{{ $presentation = .presentation }}{{ end }}
     <p class="perso-profile-bio">{{ $presentation }}</p>
-    {{ with first 5 (sort $recurring "count" "desc") }}
+    {{- $profileTopics := .Params.reading_topics | default (slice) }}
+    {{- if not $profileTopics }}
+      {{- range first 5 (sort $recurring "count" "desc") }}
+        {{- $profileTopics = $profileTopics | append .label }}
+      {{- end }}
+    {{- end }}
+    {{ with $profileTopics }}
     <div class="perso-profile-themes">
       <p id="perso-profile-themes-title">Thèmes récurrents</p>
       <ul aria-labelledby="perso-profile-themes-title">
-        {{ range . }}<li>{{ .label }}</li>{{ end }}
+        {{ range . }}<li>{{ . }}</li>{{ end }}
       </ul>
     </div>
     {{ end }}

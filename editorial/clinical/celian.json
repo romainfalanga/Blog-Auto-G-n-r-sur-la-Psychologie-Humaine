@@ -1,0 +1,451 @@
+{
+  "character_id": "celian",
+  "bio": "Célian a dix-neuf ans. Au centre de formation, il observe la main de sa formatrice avant de chercher le passage qui décrit le geste. Chez lui, il préfère entendre les étapes d’une recette puis revenir sur la fiche. Au volley, il court après les ballons que tout le monde croit perdus. Le bilan a mis un nom sur l’effort que lui demande la lecture : la dyslexie. Il veut organiser le prochain goûter de l’équipe et avoir le temps de jouer aussi.",
+  "profile_topics": [
+    "Effort de lecture",
+    "Pression du temps",
+    "Fatigue mentale",
+    "Confiance en soi",
+    "Autonomie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "celian-fiche-et-spatule",
+      "title": "La pression de lire devant le groupe",
+      "description": "Célian retrouve le geste montré par sa formatrice et perd sa place dans la fiche. Il lui propose une autre façon de participer.",
+      "context": "Au centre de formation d’apprentis, avant un exercice de cuisine.",
+      "topics": [
+        "Pression du temps",
+        "Confiance en soi",
+        "Lecture à voix haute"
+      ],
+      "opening": "Célian regarde Aïcha enfoncer la spatule jusqu’au fond du saladier, puis relever juste le poignet. La préparation revient sur elle-même. Elle repasse près du bord, là où lui aurait recommencé au milieu. Il attend qu’elle pose la spatule et fait le geste dans le vide, les doigts serrés sur un manche imaginaire. Maxime s’en aperçoit. Il fait mine de lui tendre un saladier invisible. Célian lui rend le poids du récipient d’un coup sec et tous les deux éclatent de rire.\n\nPuis les fiches passent de main en main. Aïcha propose que chaque binôme présente une étape avant de commencer. Chez eux, Maxime veut montrer le mouvement. « Je lis, alors », dit Célian. La fiche est arrivée face retournée et il la découvre en même temps que les autres. Il reconnaît les mots du début. À la ligne suivante, il reprend un groupe de mots, assez bas pour que seul Maxime l’entende. Le temps de retrouver la suite, le binôme devant eux a fini. Il sait ce qu’il a vu faire. Il ne sait plus à quel endroit de la page on en parle.\n\nMaxime approche la main de la fiche et s’arrête quand Célian la rapproche de lui. Aïcha lève les yeux. Elle connaît sa dyslexie depuis le début de l’année ; il lui en a parlé seul à seul. Célian envisage de lui dire que c’est bon et d’avancer jusqu’à la fin du paragraphe. Il aperçoit la spatule sur le plan de travail. « Je peux commencer en montrant ce passage ? Laisse-moi retrouver la phrase après. » Puis il demande à Maxime de lui tenir le bol, le vrai cette fois.",
+      "sections": [
+        {
+          "heading": "Le geste est compris avant que la phrase arrive",
+          "text": "Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte. Ces dimensions se rencontrent quand on lit et peuvent se révéler inégalement difficiles. S’arrêter longtemps sur une phrase ne suffit pas pour savoir ce que la personne en a compris. La lecture à voix haute d’une fiche découverte au dernier moment ne mesure pas non plus son intelligence ni l’ensemble de ses compétences. Célian sait ici expliquer comment sa formatrice manie la spatule : il l’a observée faire. Il lui faut encore retrouver dans l’écrit ce qui correspond au geste."
+        },
+        {
+          "heading": "Savoir ce qui est attendu du binôme",
+          "text": "Dans l’exercice d’Aïcha, le binôme doit montrer et expliquer une étape de cuisine. Si un autre exercice porte sur l’usage précis d’une fiche technique, elle pourra dire quelle partie du texte chacun doit consulter. Expliciter le but aide à chercher un appui qui convient. Célian aimerait d’abord voir la fiche avant l’exercice, pour pouvoir repérer les passages qu’il devra retrouver. Aïcha peut en parler avec lui et convenir d’un essai. Si l’organisation de la formation demande d’autres changements, le référent handicap du centre est un interlocuteur possible. Le choix du support se discute à partir des tâches et des besoins qui se présentent."
+        }
+      ],
+      "ending_title": "L’autre fiche à préparer",
+      "ending": "Célian montre où la spatule passe. Maxime fait tourner le saladier trop vite pour le narguer, puis le tient comme il faut. À la fin de l’atelier, Célian rattrape Aïcha et lui demande si la prochaine fiche peut être déposée la veille. Elle propose de commencer par celle de la semaine suivante. Dans le bus, une notification du volley s’affiche : Jade cherche quelqu’un pour organiser le goûter de la rencontre prévue dans un peu plus de trois semaines. Célian imagine déjà un gâteau avec des bords assez dorés pour qu’on se dispute les coins. Il commence par écrire « je peux aider », efface « aider » et envoie : « Je veux bien m’en charger. »",
+      "mirror": [
+        "Maxime voit que Célian rapproche la fiche. Il peut laisser sa main de son côté de la table et demander : « Tu veux que je tienne le bol ou que je repère la ligne avec toi ? » Puis il attend de savoir quelle tâche son binôme lui confie. Il peut aider pendant l’exercice sans demander d’explication médicale et sans parler à la place de Célian devant le groupe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "apprentissage-handicap"
+      ],
+      "continuity": {
+        "choice": "Célian montre l’étape avant de retrouver la phrase et demande une fiche disponible à l’avance. Il se propose pour organiser le goûter du volley.",
+        "next": "Aïcha peut essayer l’envoi en amont à partir de la semaine suivante. Jade doit répondre à Célian et ils devront choisir un mode d’organisation pour la rencontre."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "celian-case-des-absents",
+      "title": "Quand il faut relire chaque inscription",
+      "description": "Au volley, les réponses se croisent sur le téléphone. Célian propose une liste commune avant de compter les parts.",
+      "context": "Dans les gradins du gymnase après l’entraînement du mardi.",
+      "topics": [
+        "Effort de lecture",
+        "Autonomie",
+        "Écrit collectif"
+      ],
+      "opening": "Célian voit le filet s’affaisser de travers au moment où Jade l’appelle depuis les gradins. Yanis s’acharne sur une attache pendant que Léonie fait rouler trois ballons du bout du pied vers le chariot. Célian lui renvoie le dernier d’une manchette et se fait rappeler à l’ordre : ils ont déjà perdu deux ballons sous les gradins cette semaine. Jade monte s’asseoir deux marches plus haut. Elle a aimé son message. Elle lui a aussi envoyé les premières réponses au goûter, en le prévenant qu’elle n’a pas encore la confirmation du foyer.\n\nLes réponses sont dans la conversation de la rencontre, entre les remarques sur les maillots et les propositions de covoiturage. Trois joueuses de l’autre club répondent ensemble. Plus bas, l’une explique qu’elle vient au match mais qu’elle doit partir juste après. Célian l’a comptée la première fois. Il repasse sur les messages : l’ordre change dans sa tête quand il retourne sur le fil pour relire le prénom. Jade demande où il en est. Il lui donne le nombre de personnes dont il est sûr et revient sur la réponse qui l’a fait hésiter. Cette fois, il distingue bien la présence au match de celle au goûter. Il faut encore lire les modifications qui se trouvent plus loin.\n\n« Tu veux que je te fasse les inscriptions ? » propose Jade en tendant la main. Célian éteint l’écran pour que la conversation arrête de remonter. Il lui dit qu’il veut bien qu’elle récupère les confirmations de l’autre club, puisqu’elle parle déjà à leur capitaine. Pour le reste, il demande une liste courte à mettre à jour au même endroit : une réponse par personne, avec une colonne pour les présences au goûter. Il veut savoir qui vient avant de promettre un nombre de parts.",
+      "sections": [
+        {
+          "heading": "Le temps qu’il faut pour lire juste",
+          "text": "Une lecture exacte peut demander des relectures et beaucoup de temps dans un trouble développemental des apprentissages avec déficit en lecture. Ce coût se voit peu quand on ne regarde que le résultat final. Célian finit par lire la réponse en entier : la joueuse quitte le gymnase avant le goûter. Ce qui lui demande encore du travail, c’est de la relier au bon prénom et de vérifier si elle corrige une réponse précédente. Le fil est confus en lui-même. Cette difficulté isolée pourrait arriver à d’autres personnes. Chez Célian, elle s’ajoute à des difficultés durables dont les répercussions ont été évaluées. Une liste mal organisée ou une tâche à laquelle on manque d’habitude ne permet pas de conclure à un trouble."
+        },
+        {
+          "heading": "Écrire la réponse là où on la cherchera",
+          "text": "Jade et Célian ont besoin de la même information : une présence au goûter confirmée ou non. Ils peuvent laisser les plaisanteries dans la conversation et mettre les confirmations sur une feuille commune. Une ligne par personne leur évite de recompter ceux qui ont répondu deux fois. Une réponse incertaine reste indiquée comme telle jusqu’à ce qu’elle soit confirmée. Célian gagne un endroit où vérifier son compte et Jade sait quoi demander à l’autre capitaine. Cette répartition concerne la manière de faire un goûter. Il peut la proposer en parlant du travail à faire et décider lui-même si une information sur son diagnostic serait utile à partager."
+        }
+      ],
+      "ending_title": "Laisser un blanc",
+      "ending": "Célian montre à Jade comment il verrait la feuille, avec les confirmations à gauche et une petite colonne « à revoir » à droite. Elle lui demande de remplacer son titre « absents » : ceux qui doivent attraper un train après le match seront bien sur le terrain. Il écrit « goûter seulement » au-dessus de la colonne des réponses, puis rectifie encore : « reste au goûter ». Jade s’engage à faire compléter la liste au plus tard le mardi qui précède la rencontre. Léonie regarde leurs colonnes et propose de fabriquer le panneau du menu quand celui-ci sera décidé. Célian laisse la case du lieu vide. À elle, il promet au moins de savoir bientôt comment s’appellera le gâteau.",
+      "mirror": [
+        "Jade peut répartir le travail sans reprendre le téléphone : « Je confirme avec leur capitaine. Où est-ce que tu veux que j’écrive la réponse ? » Si une information change, elle la modifie à l’endroit convenu. Elle peut aussi dire jusqu’à quand elle peut recueillir les réponses. Célian reste libre de dire ce qui rend le fil difficile à utiliser et de garder pour lui le reste."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Célian fixe avec Jade un lieu unique pour les confirmations au goûter. Jade vérifie les réponses de l’autre équipe avant le mardi qui précède la rencontre.",
+        "next": "Le nombre et la disponibilité du foyer restent à confirmer. Léonie attend le menu pour préparer le panneau ; Célian veut d’abord essayer son gâteau."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "celian-coin-du-gateau",
+      "title": "Suivre une recette à l’oreille",
+      "description": "Maxime vient goûter un premier essai. Célian découvre qu’une recette enregistrée l’aide si elle reste fidèle à la fiche.",
+      "context": "Un dimanche, dans la cuisine de Célian, avec son camarade d’apprentissage.",
+      "topics": [
+        "Effort de lecture",
+        "Coopération",
+        "Mémoire des gestes"
+      ],
+      "opening": "Le moule que Maxime a apporté dessine un cercle sous le tissu de son sac. Il sort de son placard le moule carré qu’il a déjà préparé. « On fait un gâteau à coins », lui dit-il. Maxime demande si le mot est au programme du centre de formation. Célian lui répond que c’est au programme de Léonie : elle coupe toujours les bords avant que quiconque ait le temps de réclamer une part. Ils posent les deux moules sur la table. Le carré gagne parce qu’il rentre dans la boîte que Célian veut emprunter à sa voisine.\n\nLa recette de son carnet est assez précise mais il a du mal à y revenir en cours de route. Il l’a enregistrée sur son téléphone, une étape par message, pour retrouver un passage sans devoir relire toute la page. Il s’est aussi recopié les titres des étapes sur une petite carte. Maxime écoute les premiers enregistrements en suivant sur la fiche. Au troisième, il relève la tête : une phrase de la fiche décrit ce qu’il faut réserver pour la fin, et le message passe directement à la suite. Célian réécoute. Il a commencé à parler à l’endroit où il posait le doigt ; la phrase oubliée était en dessous de sa main.\n\nLe gâteau n’est pas commencé. Célian propose de garder le téléphone à portée de main pour cet essai, de corriger le message et de réécouter cette partie en la vérifiant ensemble sur la fiche. Ensuite, lui veut faire le mélange : il a encore en tête le mouvement d’Aïcha et voudrait voir s’il lui sert avec cette pâte. Maxime consent volontiers à goûter et à dire ce qu’il en pense. Il prévient qu’il travaillera le samedi de la rencontre. Célian lui promet qu’aujourd’hui, il peut avoir un coin.",
+      "sections": [
+        {
+          "heading": "Entendre une consigne et lire la même consigne",
+          "text": "Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension. Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée."
+        },
+        {
+          "heading": "Garder à portée ce qui fait foi",
+          "text": "Un enregistrement permet de réécouter. S’il omet une phrase, la réécoute répète cette omission. Célian conserve la recette d’origine à côté de sa carte et compare avec Maxime le passage qui les fait hésiter. Il peut ensuite repérer d’où vient un détail au lieu de multiplier les rappels sur son téléphone. Dans cette situation, l’audio l’aide à se repérer entre les étapes, et la fiche sert à vérifier les informations précises. Il pourra choisir un autre format si le lieu, le bruit ou le type de recette changent. L’essai porte sur l’accès à une tâche réelle, et la question d’un travail orthophonique se discute séparément avec un professionnel."
+        }
+      ],
+      "ending_title": "Un coin pour chacun",
+      "ending": "Quand ils goûtent le gâteau, Maxime veut garder une part du milieu pour la comparer à son coin. Célian trouve le milieu un peu fade et les bords à son goût. Il envisage deux recettes, puis regarde la boîte et décide de commencer par celle aux pommes, qu’il sait maintenant bien présenter. Il photographie la recette et garde la fiche dans le carnet pour son prochain essai. À Léonie, il envoie le nom du gâteau et la prévient que le reste du menu attendra le budget. Maxime repart avec son moule rond et une part carrée glissée dans du papier.",
+      "mirror": [
+        "Maxime peut décrire exactement ce qu’il a vu : « Je ne retrouve pas cette phrase dans ton troisième message. Tu veux qu’on l’écoute en suivant le texte ? » Il laisse Célian décider de la correction et du moment où il est prêt à commencer. S’il sait qu’il sera absent le jour du goûter, il peut le dire dès cet essai. Célian sait sur quelle aide il peut compter et peut organiser la suite avec l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Célian compare un message audio à l’original avec Maxime et choisit un gâteau carré aux pommes pour le goûter.",
+        "next": "Il conserve la recette du carnet et les messages d’essai. Léonie connaît le nom du gâteau ; Maxime a annoncé qu’il travaille le samedi de la rencontre."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "celian-huit-lignes-apres-service",
+      "title": "Quand la fatigue ralentit la dernière vérification",
+      "description": "Le service est terminé, mais Célian doit encore comparer deux feuilles de stock. Il cherche comment reprendre la vérification.",
+      "context": "Au restaurant où Célian est apprenti, après un service du soir.",
+      "topics": [
+        "Fatigue mentale",
+        "Pression du temps",
+        "Effort de lecture"
+      ],
+      "opening": "Célian a déjà rangé son tablier quand Farah pose deux feuilles de stock sur le passe. On n’entend plus les commandes, seulement le frigo et les assiettes qui s’empilent dans la salle. Farah, sa tutrice, lui demande de comparer les fournitures du placard avec la liste laissée pour le lendemain. Il aime bien fermer ce placard : on y entend le pêne tomber tout seul quand la porte arrive à la bonne hauteur. Il remonte ses manches et se dit qu’il en a pour deux minutes.\n\nSur les deux feuilles, l’ordre est différent. Sur l’une, les rouleaux de papier sont ensemble ; sur l’autre, ils sont répartis entre le matériel déjà au placard et la réserve. Célian revient à la même ligne et lit chaque mot jusqu’au bout. En levant les yeux pour regarder la pile, il perd le nom exact qu’il cherchait. Il a fini trois lignes sur huit. La veille, il avait ouvert avant le cours la fiche qu’Aïcha avait envoyée, comme promis. Il avait trouvé l’étape qu’il présenterait et avait même eu le temps de noter une question. Ce soir, il sent surtout ses yeux courir vers le bas de la page dès que Farah passe près du plan de travail.\n\nFarah tend la main vers l’interrupteur de la salle, puis la laisse retomber. « Je peux attendre encore un peu. Tu bloques sur quoi ? » Célian lui montre les deux lignes qui concernent les rouleaux. Il lui demande de vérifier avec lui celle dont l’équipe aura besoin dès l’ouverture. Pour les lignes qui peuvent attendre, il propose de finir au début de son service du lendemain. Farah passe avec lui devant le placard et confirme ce qui doit être vérifié ce soir.",
+      "sections": [
+        {
+          "heading": "La dernière ligne peut coûter plus que la première",
+          "text": "Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas. Célian ne lit pas huit lignes dans le vide : il revient du service, tient deux documents en parallèle et vérifie les objets du placard. Sa fatigue ce soir ne suffit pas à expliquer, à elle seule, l’ensemble de ses difficultés de lecture. La fatigue après le travail peut toucher n’importe qui. Ici, elle s’ajoute à la charge d’une tâche écrite qui lui demande déjà un effort."
+        },
+        {
+          "heading": "Dire à quel endroit reprendre",
+          "text": "Avec Farah, Célian peut séparer ce qui est nécessaire pour le lendemain de ce qui peut attendre. Il indique les lignes qu’il a réellement comparées et celles qui restent à vérifier. Il serait difficile de reprendre à partir d’un vague « presque fini ». Ce choix préserve l’information dont l’équipe a besoin et lui laisse une tâche claire pour la reprise. Si la comparaison de feuilles revient souvent, il peut aussi demander s’il existe un ordre commun pour les deux listes. Un ajustement vaut d’abord par ce qu’il rend faisable dans le travail réel ; celui qui a aidé en cours peut ne pas suffire à la fermeture du restaurant."
+        }
+      ],
+      "ending_title": "Un trait sous la dernière ligne lue",
+      "ending": "Farah et Célian vérifient la ligne utile pour l’ouverture et déposent la feuille dans le classeur habituel. Célian trace un trait sous la dernière ligne qu’il a terminée sur sa copie. Il demande à Farah de lui laisser le début du service suivant pour la reprendre ; elle le note sur le planning. Dans la rue, il fait défiler sans lire les trois nouvelles réponses de l’équipe de volley. Aucune ne lui est adressée. Il laisse le téléphone dans sa poche et marche jusqu’à l’arrêt. Demain, il voudrait dire à Aïcha ce qui avait changé pour lui quand il avait pu ouvrir la fiche chez lui.",
+      "mirror": [
+        "Farah peut demander : « Montre-moi jusqu’où tu as vérifié. On regarde ce dont l’équipe a besoin tout de suite. » Elle peut ensuite confirmer le moment où Célian reprendra et laisser une indication claire pour ses collègues. Si elle a un doute sur un élément indispensable au service, elle le vérifie selon les habitudes du restaurant. Elle peut proposer cet appui sans attribuer la fatigue de Célian à une cause médicale."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Célian vérifie avec Farah la ligne indispensable à l’ouverture et marque où reprendre les autres, avec son accord.",
+        "next": "Le restaurant a l’information requise pour ouvrir. Le reste du stock est prévu au début du service suivant ; Célian veut reparler à Aïcha de l’accès à ses fiches."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "celian-choisir-ce-qu-il-partage",
+      "title": "Demander un aménagement sans raconter son dossier",
+      "description": "Aïcha propose d’expliquer le nouveau format au groupe. Célian réfléchit à ce qu’il veut qu’elle dise devant les autres.",
+      "context": "Dans une salle du centre de formation, au moment où le cours du vendredi se termine.",
+      "topics": [
+        "Autonomie",
+        "Confiance en soi",
+        "Confidentialité"
+      ],
+      "opening": "Célian attend que le dernier binôme sorte pour tendre à Aïcha la fiche qu’il a imprimée chez lui. Les mots qu’il avait soulignés ont déteint sur la page de derrière. Il lui montre ses deux traits bleus et la question qu’il avait notée dans la marge. Pendant le cours, la réponse d’un autre binôme lui a donné une idée pour faire tenir la préparation dans un moule qu’il trouvait trop bas. Il a posé sa question à la fin. Cette partie-là, dit-il, il aimerait pouvoir la refaire.\n\nAïcha s’assied sur une table. Elle envisage de déposer la fiche de l’exercice suivant à l’avance pour tout le monde. Elle lui demande si cela l’aiderait qu’elle explique au groupe d’où vient l’idée. Célian pense à la chaise de Maxime, tout près du passage. Maxime sait que Célian lui demande parfois de suivre la recette pendant qu’il l’écoute. Ils ont aussi discuté d’un coup de main pour déménager une armoire. Il ne voudrait pas que toutes leurs façons de travailler deviennent subitement l’histoire de sa dyslexie. À la rentrée, il avait choisi de le dire à Aïcha en tête-à-tête. Il n’avait pas préparé une annonce pour douze personnes.\n\nIl demande d’abord si, en disant non, il pourra quand même recevoir la fiche avant le prochain cours. « Oui, bien sûr », répond Aïcha. Célian plie le papier sur les traits bleus. Il lui propose une phrase simple pour présenter le changement : la fiche sera disponible la veille, chacun peut repérer l’étape qu’il voudra expliquer. Pour lui, il aimerait choisir cette étape avant de passer devant le groupe. Il n’a pas envie qu’on cesse de lui poser des questions de cuisine.",
+      "sections": [
+        {
+          "heading": "Un besoin de formation peut se dire en peu de mots",
+          "text": "Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce. La discussion avec le référent handicap du centre, si Célian souhaite faire le point sur d’autres besoins de formation, se prépare à part. Il peut demander quelles informations seraient utiles, à qui et pour quelle raison."
+        },
+        {
+          "heading": "Choisir le moment de lire et celui de prendre la parole",
+          "text": "Préparer un passage à l’avance peut réduire la pression du moment, sans supprimer toute difficulté de lecture. Dans cet atelier, Aïcha laisse aussi le binôme faire une démonstration. Cela ouvre une façon de participer qui correspond au but de l’exercice. Célian garde la possibilité de lire un passage s’il le souhaite. Pour d’autres tâches, les deux pourront regarder ensemble ce qu’il faut conserver à l’écrit et ce qui peut être montré ou expliqué oralement. Ce petit essai porte sur le déroulement du cours. Il ne décide ni des objectifs éventuels d’une rééducation, ni des conditions d’une évaluation officielle."
+        }
+      ],
+      "ending_title": "La phrase qu’Aïcha pourra dire",
+      "ending": "Aïcha relit la phrase à voix haute, puis Célian lui demande de s’arrêter après « l’étape qu’on voudra expliquer ». Ils s’accordent pour refaire le point après deux exercices. Il glisse la fiche pliée dans son sac, où traîne encore le ticket froissé du premier essai. Plus tard, il termine les lignes mises de côté au restaurant et rapporte sa feuille à Farah. À sa pause, il appelle le cabinet de Mme Vidal, l’orthophoniste qui l’avait reçu plus jeune. Elle a un créneau le lundi suivant. Il accepte et garde dans ses notes une question qu’il aimerait lui poser : que peut-il attendre d’un retour au cabinet, maintenant qu’il travaille ?",
+      "mirror": [
+        "Aïcha peut vérifier l’accord de Célian en lui proposant des mots précis : « Je dirai à tout le monde où trouver la fiche et quand la préparer. Ça te convient si je m’en tiens là ? » Si les besoins de formation doivent être discutés avec un autre interlocuteur, elle peut lui présenter son rôle et préparer l’échange avec lui. Elle n’a pas à raconter au groupe ce qu’il lui a confié."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "apprentissage-handicap"
+      ],
+      "continuity": {
+        "choice": "Célian accepte l’envoi de la fiche à tout le groupe et la possibilité de préparer son passage. Il demande à Aïcha de garder le diagnostic hors de l’annonce et prend rendez-vous avec Mme Vidal.",
+        "next": "Ils feront le point après deux exercices. Le stock du restaurant est terminé ; le rendez-vous d’orthophonie est fixé au lundi suivant."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "celian-relire-son-bilan",
+      "title": "Comprendre son bilan quand le travail a changé",
+      "description": "Chez Mme Vidal, Célian retrouve un vieux compte rendu et montre les textes qu’il doit utiliser aujourd’hui.",
+      "context": "Au cabinet de l’orthophoniste, le lundi avant la rencontre de volley.",
+      "topics": [
+        "Effort de lecture",
+        "Confiance en soi",
+        "Compréhension du texte"
+      ],
+      "opening": "Célian a apporté la fiche d’Aïcha dans une enveloppe où son ancien bilan ne tient pas tout à fait. Il sort le compte rendu en biais pour ne pas déchirer les bords. Mme Vidal reconnaît l’agrafe qui coince et l’ouvre sur son bureau. À l’époque, la couverture du cahier où il recopiait ses devoirs se décollait de la même façon. Il ne se souvient plus très bien des exercices. Il se rappelle en revanche la pile de livres que l’orthophoniste avait déplacée pour lui laisser de la place.\n\nIls avaient déjà parlé de dyslexie après les évaluations. Son médecin l’avait revu ensuite avec le bilan. Célian sait ce mot. Aujourd’hui, il cherche surtout à comprendre une phrase qu’il a soulignée autrefois : les efforts de déchiffrage pouvaient gêner l’accès au sens. Il la retrouve en pointant le bas de la feuille. « Parfois, je peux relire et comprendre. Parfois, quelqu’un me lit le passage et je vois tout de suite où il voulait en venir. Et des fois, même quand on me lit la fiche, il faut que j’aille voir le geste. Ça rentre où ? »\n\nMme Vidal lui demande de prendre un exemple récent. Il hésite entre le texte d’Aïcha et une photo sur son téléphone. Finalement, il lui montre la fiche de cuisine et, sur son écran, le début de la liste du goûter. « La cuisine, je veux comprendre le pourquoi. La liste, je veux surtout retrouver qui vient. » Il lui dit qu’il ne voudrait pas que chaque rendez-vous ressemble à un retour à l’école. Il a envie d’un appui sur les lectures qui lui prennent aujourd’hui le plus de temps. Elle l’invite à choisir par laquelle commencer.",
+      "sections": [
+        {
+          "heading": "Lire les mots et saisir ce que dit le passage",
+          "text": "La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes. Cela ne rend pas l’oral suffisant dans toutes les situations. Célian demande aussi une démonstration lorsqu’il découvre une technique dont il ne connaît pas encore les termes. Le trouble avec déficit en lecture peut toucher la précision, la fluidité ou la compréhension écrite, et ces difficultés peuvent persister à l’âge adulte. Un exemple permet de décrire une gêne au professionnel ; le bilan s’interprète avec l’histoire et le contexte, pas à partir d’un seul exercice."
+        },
+        {
+          "heading": "Mettre un besoin d’aujourd’hui sur le bureau",
+          "text": "Le travail orthophonique et l’adaptation des supports ont des buts distincts et peuvent se compléter. L’adaptation donne accès à une activité ici et maintenant. Une éventuelle reprise du suivi et ses objectifs se discutent avec le professionnel, selon le bilan, les difficultés qui gênent la personne et ce qu’elle veut travailler. Célian apporte un exemple de texte à retrouver au milieu d’une activité. Mme Vidal pourra regarder avec lui ce qui se passe dans ce type de lecture et lui expliquer les étapes qu’elle juge utiles. Le fait qu’une autre personne lise plus vite dans son groupe ne fixe pas l’objectif de ce rendez-vous."
+        }
+      ],
+      "ending_title": "La fiche qu’il laisse sur le bureau",
+      "ending": "Célian choisit la fiche du centre et garde pour lui la liste des joueurs. Avec son accord, Mme Vidal conserve une copie sans nom d’élève. Ils conviennent d’un prochain rendez-vous pour préciser les tâches qui lui coûtent et voir si un travail ciblé est indiqué. Il lui demande de ne rien envoyer à Aïcha pour le moment ; il discutera lui-même des supports en cours. En sortant, il ouvre la liste de Jade. Deux réponses sont encore attendues. Il les laisse comme elles sont. Demain, c’est avec les confirmations qu’il décidera combien le club peut dépenser par personne.",
+      "mirror": [
+        "Si Célian raconte son rendez-vous, un proche peut lui demander : « Tu veux me dire ce que tu as choisi de travailler ou tu préfères qu’on parle d’autre chose ? » Il peut aussi proposer de l’aider à retrouver un exemple de document si Célian le demande. Lire le compte rendu, l’envoyer à quelqu’un ou choisir les exercices appartient à un autre échange, avec l’accord de Célian et le professionnel concerné."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Célian choisit une fiche technique comme point de départ avec Mme Vidal et lui demande de ne rien transmettre au centre pour le moment.",
+        "next": "Un rendez-vous ultérieur servira à préciser le besoin ; aucun suivi nouveau ni progrès rapide n’est annoncé. La liste du goûter attend les deux dernières réponses avant le budget."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "celian-partager-les-taches-du-gouter",
+      "title": "Apprendre à partager les tâches du goûter",
+      "description": "Avec vingt personnes et une enveloppe de quarante-cinq euros, Célian apporte encore deux idées de gâteau à la réunion du club.",
+      "context": "Dans le local du club, le mardi où les inscriptions se terminent.",
+      "topics": [
+        "Autonomie",
+        "Confiance en soi",
+        "Coopération"
+      ],
+      "opening": "Célian a dessiné deux gâteaux sur le dos d’un reçu alors qu’il ne lui reste qu’une boîte de transport à trouver. Jade pose près de lui la liste commune : avec les deux réponses qu’elle attendait, vingt personnes resteront au goûter. Le foyer du gymnase est réservé pour après la rencontre. Nadia, la trésorière, annonce qu’il y a quarante-cinq euros pour l’ensemble. Elle ajoute qu’elle peut prêter les caisses du club. Célian en veut une pour les fruits, une pour les verres et déjà deux pour ses gâteaux. Léonie regarde la taille des caisses, puis lui demande où ils mettront les ballons de l’autre équipe.\n\nNadia a apporté la liste des achats de l’année précédente. Les gobelets et les serviettes figurent à deux endroits ; à côté des sommes, quelqu’un a noté au stylo ce qui avait été prêté. Célian commence à relever les prix, puis s’aperçoit qu’il a inclus deux fois la vaisselle. Il le signale avant de refaire le compte avec les autres. Il sait ce qu’il lui reste à calculer. Il voudrait d’abord savoir si la vaisselle existe encore, si les caisses ont toutes un couvercle, et si quelqu’un d’autre que lui pourra les ramener. Il regarde sa liste d’achats : tout est au futur, tout est à son nom.\n\nIl pousse le reçu vers Léonie. Le deuxième gâteau devait être au chocolat ; c’était son idée pour ceux qui demandent toujours du chocolat. Il préfère faire deux fournées du gâteau aux pommes qu’il a essayé. Avec de l’eau et des fruits, ils peuvent tenir le budget annoncé sans courir dans deux magasins. « Je garde les gâteaux. Qui veut choisir comment on installe le reste ? » demande-t-il. Yanis tire la première caisse vers lui avec le pied.",
+      "sections": [
+        {
+          "heading": "Prendre une responsabilité qui se partage",
+          "text": "Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps. Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable."
+        },
+        {
+          "heading": "Un nom et une action sur chaque ligne",
+          "text": "Le groupe peut repartir de ce qu’il sait maintenant, au lieu de suivre toute la liste de l’année précédente. Yanis compte les gobelets dans la caisse et peut la transporter. Léonie prépare le panneau. Célian garde la liste des ingrédients et les achats ; il se met d’accord avec Nadia sur les justificatifs à remettre. Une personne qui propose de l’aide peut choisir une tâche précise qu’elle pourra tenir. Célian peut accepter cette tâche, en confier une autre ou préférer la faire lui-même. Le plan de travail peut être accessible à tous sans mentionner les besoins de lecture de quelqu’un."
+        }
+      ],
+      "ending_title": "Le premier prénom à côté du sien",
+      "ending": "Ils ouvrent le placard du club. Les gobelets sont bien là et Nadia retrouve une seconde boîte plate pour le gâteau. Yanis prend en charge les gobelets et les caisses. Léonie demande à Célian de lui garder une place à la table pour le panneau et la distribution. Célian raye le gâteau au chocolat. Il fait tenir le nouveau menu sur trois lignes et annonce vingt personnes, de l’eau, des fruits et du gâteau aux pommes. Il peut remettre les tickets à Nadia mardi prochain, après l’entraînement. Quand il arrive à la ligne du transport, il écrit Yanis à côté de son propre prénom. Puis il lui demande s’il a encore la sangle qui empêchait les caisses de glisser dans son coffre.",
+      "mirror": [
+        "Quand Célian demande qui veut prendre une tâche, Yanis peut dire exactement ce qu’il peut faire : « J’apporte les caisses et les gobelets. Pour les courses, je ne suis pas disponible. » Il peut aussi demander quelle caisse récupérer et à quel moment. Un engagement précis aide le groupe à prévoir la suite. Yanis peut faire sa part sans prendre la main sur le menu ni demander pourquoi certaines lectures prennent du temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Pour vingt personnes et quarante-cinq euros, Célian garde un seul gâteau en deux fournées, de l’eau et des fruits. Il confie le transport à Yanis et partage la table avec Léonie.",
+        "next": "Les achats sont à faire, les tickets à remettre le mardi suivant, et le goûter est prévu au foyer après la rencontre. Les rôles sont distribués et Célian jouera le match."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "celian-le-doute-sur-le-carton",
+      "title": "Oser s’arrêter quand une étiquette laisse un doute",
+      "description": "On propose à l’équipe un carton de biscuits en plus. Célian regarde les sachets avant de promettre une place sur la table.",
+      "context": "À l’épicerie près du gymnase, le mercredi des achats.",
+      "topics": [
+        "Gestion de l’incertitude",
+        "Confiance en soi",
+        "Précision de lecture"
+      ],
+      "opening": "Le commerçant glisse un carton de biscuits près des pommes avant que Célian ait rangé son ticket. Le carton vient d’un lot dont plusieurs boîtes sont arrivées abîmées. Les petits sachets sont intacts et le commerçant lui propose de les offrir au club. Léonie, venue faire des courses dans la même rue, se penche par-dessus le panier. « On pourrait les mettre à côté du gâteau », dit-elle. Célian est tenté. Au club, quand quelqu’un offre quelque chose, le réflexe est de trouver tout de suite quelqu’un pour le porter.\n\nIl retourne le carton. Il trouve le poids et le nom du mélange. Il faut chercher ailleurs pour avoir la liste des ingrédients. Une partie du côté est arrachée. Sur les sachets, il y a deux dessins différents, mais pas la même quantité de texte. Léonie pointe une liste sur un sachet. « Là, c’est bon ? » Célian prend le temps de la lire. Il retrouve le dessin de gauche sur ce sachet, pas celui de droite. Il commence à s’excuser de ralentir la file, puis se tourne vers le commerçant. Est-ce qu’il a encore les boîtes correspondant aux deux sortes ? L’homme regarde en dessous du comptoir et répond qu’il les a jetées.\n\nCélian dépose le carton de l’autre côté de la caisse. Il remercie le commerçant et lui dit qu’ils resteront sur ce qu’ils ont prévu. Une joueuse de l’autre équipe a déjà demandé où elle trouverait les ingrédients du gâteau. Célian veut pouvoir lui montrer ce qu’il sait, sans déduire le reste d’un dessin. Léonie récupère les pommes et lui tend le ticket qu’il avait laissé sous la balance.",
+      "sections": [
+        {
+          "heading": "Distinguer la lecture difficile de l’information absente",
+          "text": "Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété. Dans cette scène, relire ou faire lire plus vite ne restituerait pas une information que personne n’a à disposition. Il y a donc deux questions : comment accéder à l’information qui existe, et que décider lorsqu’on ne l’a pas ? Célian peut demander à Léonie de regarder un endroit précis avec lui et choisir de renoncer au lot une fois la réponse du commerçant connue."
+        },
+        {
+          "heading": "Conserver les informations utiles au goûter",
+          "text": "Les étiquettes des produits alimentaires préemballés vendus donnent des informations sur les ingrédients et les allergènes déclarés. Célian garde les emballages des ingrédients achetés et prépare avec Léonie une liste correspondant à ce qu’il utilisera réellement. Ils pourront montrer les informations dont ils disposent sans garantir qu’un aliment convient à quelqu’un. Le club ne transforme pas son goûter en activité de restauration ; l’intérêt de ce choix est de pouvoir répondre précisément à une question sur ce qui est servi. Une note audio peut aider Célian à retrouver une étape de préparation. Pour vérifier la composition d’un produit, ils reviennent à l’emballage correspondant."
+        }
+      ],
+      "ending_title": "Le ticket sous la balance",
+      "ending": "Dehors, Léonie propose un pictogramme de pomme sur le panneau. Célian lui dit qu’il veut bien un dessin pour attirer l’œil et une feuille à côté pour les ingrédients. Ils se donnent rendez-vous chez lui vendredi, avant que Léonie prenne son bus. Elle pourra faire le panneau et l’aider à comparer la liste aux emballages. Célian range le ticket de Nadia dans une poche fermée. Il avait cru, devant la caisse, qu’il faudrait justifier le carton refusé en détail. Léonie s’inquiète surtout de savoir si elle pourra dessiner les pommes avec des dents. Il lui demande d’en faire au moins une qui ait l’air de sourire.",
+      "mirror": [
+        "Léonie peut dire : « Ce sachet correspond au premier dessin. Pour l’autre, il nous manque l’étiquette. Est-ce qu’on garde le menu prévu ? » Elle peut attendre la réponse de Célian ou demander au commerçant où se trouve le document d’origine. Elle peut aussi aider à préparer le panneau en restant précise sur ce qui est connu. Elle n’a pas à promettre à une personne que le goûter lui convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "service-public-allergenes"
+      ],
+      "continuity": {
+        "choice": "Célian conserve le menu prévu et refuse le carton dont la composition n’est pas entièrement documentée. Il garde les emballages et le ticket.",
+        "next": "Léonie vient vendredi pour préparer le panneau et la feuille d’ingrédients avec lui, dans le temps dont elle dispose avant son bus."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "celian-reperes-changement-de-salle",
+      "title": "Retrouver ses repères quand le lieu change",
+      "description": "Le foyer réservé pour le goûter devient indisponible. Célian doit retrouver le nouveau plan entre deux bruits de ballon.",
+      "context": "Dans le couloir des vestiaires, le jeudi avant la rencontre.",
+      "topics": [
+        "Adaptation à l’imprévu",
+        "Pression du temps",
+        "Coopération"
+      ],
+      "opening": "Célian arrive au gymnase avec une caisse vide prêtée par le club au moment où Jade lui montre un ruban devant la porte du foyer. Une fuite a abîmé le sol. Le local réservé mardi ne pourra pas servir samedi. Rachid, le gardien, peut leur ouvrir la salle du club, de l’autre côté du bâtiment. Il montre un plan à Jade avant de repartir chercher un jeu de clés. Les équipes s’entraînent encore. Derrière le mur, un ballon tape à intervalles réguliers comme si quelqu’un voulait demander à entrer.\n\nJade lit les indications de Rachid à voix haute. Célian essaie de suivre sur la feuille : deux accès y figurent, l’un depuis la rue, l’autre depuis le gymnase. Il lui demande de reprendre le début, puis l’équipe d’à côté se met à compter ses points. Au bout du couloir, il aperçoit la porte qu’ils empruntent normalement quand ils vont récupérer les maillots. Il sait où elle mène mais n’a jamais remarqué de salle disponible de ce côté. « On y va ? » demande-t-il. Il prend la caisse pour vérifier en même temps si elle passera avec les autres.\n\nRachid revient et leur ouvre la salle. Ils trouvent deux tables pliantes et des chaises que personne n’a envie de sortir toutes à la fois. Jade commence à envoyer les nouvelles indications dans le groupe. Célian lui demande d’attendre. Il veut vérifier le chemin avec elle depuis la sortie du terrain. Il pose la caisse à l’endroit où il avait prévu de mettre le panneau, puis se ravise : en entrant, on verrait d’abord la pile de chaises. Il tourne la table. De là, on pourra apercevoir les pommes de Léonie depuis la porte bleue.",
+      "sections": [
+        {
+          "heading": "Un format utile dans une pièce peut l’être moins dans une autre",
+          "text": "Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture. Célian s’appuie souvent sur une consigne entendue. Dans ce couloir, le bruit couvre une partie des mots de Jade. Sur le plan écrit, il lui faut retrouver quel accès concerne les joueurs qui sortent du terrain. Il connaît le bâtiment et peut s’appuyer sur ce qu’il voit en parcourant le trajet. Un changement tardif ou une annonce dans le bruit peut aussi compliquer la tâche pour quelqu’un qui n’a pas de trouble de lecture. Le groupe peut tenir compte de ces conditions sans expliquer toutes les hésitations par le diagnostic de Célian."
+        },
+        {
+          "heading": "Donner le même point de départ à l’équipe",
+          "text": "Une fois le trajet essayé et confirmé avec Rachid, Jade peut modifier la ligne du lieu dans le récapitulatif du goûter. Célian propose un message bref : indiquer d’abord par où sortir du terrain, puis ce qui permet de reconnaître la salle. Il veut que la consigne corresponde à ce que les joueurs verront en arrivant. Yanis, qui transporte les caisses, peut vérifier séparément par quel accès les apporter. L’équipe n’a pas besoin de transformer le plan d’origine ; elle a besoin que chacun puisse retrouver le bon lieu et sache auprès de qui vérifier en cas de doute."
+        }
+      ],
+      "ending_title": "Le panneau derrière la porte bleue",
+      "ending": "Célian et Jade refont le trajet depuis le terrain. Rachid confirme la salle, l’accès et l’heure à laquelle il la leur ouvrira. Jade remplace le foyer par « salle du club, porte bleue après les vestiaires » dans le récapitulatif et prévient l’autre capitaine. À Yanis, Célian montre par où il pourra amener les caisses. Le panneau de Léonie n’a pas besoin d’un autre dessin : il changera de table. Sur le chemin du retour, Célian se souvient des vingt personnes et se demande si elles verront toutes la porte bleue. Il demande à Jade d’orienter les premiers arrivants, le temps qu’il installe les deux gâteaux.",
+      "mirror": [
+        "Jade peut demander à Célian où reprendre plutôt que de répéter la phrase entière plus fort : « On repart de la sortie du terrain ? On peut aller voir ensemble. » Après confirmation du gardien, elle peut corriger l’ancien lieu dans le récapitulatif et prévenir les personnes concernées. Si quelqu’un lui demande une information qu’elle n’a pas, elle revient vers Rachid au lieu d’inventer un accès."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Célian essaie le trajet avec Jade et choisit l’emplacement de la table dans la salle du club. Jade met à jour le lieu après confirmation de Rachid.",
+        "next": "Le goûter aura lieu derrière la porte bleue ; Jade oriente les premiers arrivants, Yanis connaît son accès et le panneau de Léonie est maintenu."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "celian-quand-laudio-ne-suit-plus",
+      "title": "Changer d’appui quand l’audio ne suit plus",
+      "description": "La veille du match, deux enregistrements se ressemblent. Célian hésite entre chercher le bon et reprendre sa fiche autrement.",
+      "context": "Chez Célian, le vendredi de la préparation du goûter.",
+      "topics": [
+        "Fatigue mentale",
+        "Effort de lecture",
+        "Adaptation à l’imprévu"
+      ],
+      "opening": "La première chose que Léonie dessine pour le panneau est une pomme qui montre toutes ses dents. Célian la trouve mieux réussie que celle qu’elle avait essayée sur son téléphone. Il lui montre ensuite le papier sur lequel il a prévu ses deux fournées. Tout devait être prêt avant que son amie prenne le bus, mais il lui faut encore remettre la main sur le bon enregistrement. Deux messages portent presque le même nom. Quand il en lance un, il entend le rire de Maxime, puis sa propre voix. Il reconnaît le passage qu’ils avaient dû corriger. Ce qu’il n’arrive plus à savoir tout de suite, c’est si cette version contient la correction.\n\nIl remet l’enregistrement au début, deux fois. Après l’atelier du matin et ces reprises, les débuts de phrase commencent à se confondre. Léonie commence à sortir les emballages. Elle lui demande où poser la feuille destinée aux ingrédients. Il lui montre la table, puis s’aperçoit qu’il a le téléphone dans une main et qu’il a gardé l’autre sur le carnet ouvert. Il n’a encore comparé ni le message ni la liste. Il voudrait que tout soit vérifié maintenant. Léonie lui rappelle qu’elle part dans une demi-heure et lui demande ce qu’elle peut terminer avant.\n\nCélian pose le téléphone à plat et coupe l’enregistrement. Il décide de garder la recette du carnet comme référence pour les deux fournées dans son moule carré. Il veut relire d’abord la partie que Maxime et lui avaient vérifiée. Il retrouve aussi la carte qui porte les titres des étapes. Après chaque passage vérifié, il pourra cocher la carte. À Léonie, il demande de terminer le panneau et de comparer avec lui la liste des ingrédients avant de partir. Les deux gâteaux, dit-il, il les fera cuire de son côté.",
+      "sections": [
+        {
+          "heading": "Le moment où retrouver l’aide devient une tâche de plus",
+          "text": "Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps. Chez Célian, les messages courts avaient fonctionné lors de l’essai avec Maxime. Avant le goûter, la comparaison entre les enregistrements lui prend du temps au moment où il faut préparer deux fournées et vérifier ce qui sera affiché. La fatigue et les exigences de la tâche peuvent accentuer une gêne déjà présente. Cela n’efface pas l’utilité de l’essai précédent. Célian peut changer d’appui pour cette soirée, sans renoncer à demander des supports audio dans d’autres situations."
+        },
+        {
+          "heading": "Retrouver une seule référence",
+          "text": "Célian utilise la recette du carnet pour les détails et garde sa petite carte pour s’orienter. Il peut s’arrêter sur un passage à la fois et prendre le temps de vérifier ce qu’il utilise réellement. Léonie, elle, compare la liste qui sera montrée aux joueurs avec les emballages avant de la laisser sur la table. Si une donnée indispensable leur manquait, ils ne la remplaceraient pas par le souvenir de l’essai. Cette fois, ce qui rend le plan faisable, c’est de n’avoir qu’une référence pour chaque décision et de savoir à quel moment chacun intervient."
+        }
+      ],
+      "ending_title": "Le carnet reste ouvert",
+      "ending": "Avant le départ de Léonie, ils finissent la liste et la laissent avec les emballages dans la caisse du goûter. Elle retourne son panneau contre le mur pour qu’il sèche, annonce qu’elle arrivera à la salle du club dès la fin du match et file au bus. Célian retrouve l’étape qu’il avait perdue dans l’audio. Il termine les deux fournées plus tard qu’il l’avait prévu, avec assez de temps pour les installer dans les boîtes une fois prêtes. Il envoie à Yanis l’heure à laquelle il peut passer pour les charger. Sur sa carte, il reste une dernière ligne : prendre le maillot. Il le glisse tout de suite dans le sac.",
+      "mirror": [
+        "Léonie peut rendre le temps dont elle dispose très clair : « J’ai une demi-heure. Tu veux qu’on finisse le panneau ou qu’on vérifie la liste ensemble d’abord ? » Elle peut confirmer ce qui est prêt avant de partir. Elle aide sur ce qu’ils ont choisi ensemble, sans insister pour que Célian continue d’utiliser un enregistrement qui l’encombre ce soir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "service-public-allergenes"
+      ],
+      "continuity": {
+        "choice": "Célian met de côté les anciennes notes audio, reprend la recette d’origine en deux fournées et vérifie avec Léonie la liste destinée aux joueurs.",
+        "next": "Le panneau, la caisse d’informations et les deux gâteaux sont prêts. Yanis passera charger les boîtes ; Léonie et Jade prendront leur place à la fin du match."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "celian-faire-confiance-a-la-table",
+      "title": "Faire confiance à son équipe pour tenir la table",
+      "description": "Le match vient de finir. Au goûter, Célian garde un œil sur les parts alors qu’on l’appelle de l’autre côté de la salle.",
+      "context": "Dans la salle du club, le samedi de la rencontre de volley.",
+      "topics": [
+        "Autonomie",
+        "Confiance en soi",
+        "Partage des responsabilités"
+      ],
+      "opening": "Célian a encore la trace du dernier plongeon sur le genou quand il ouvre les deux boîtes derrière la porte bleue. Ils ont perdu de deux points. Yanis lui rappelle qu’il a sauvé leur avant-dernier point en allant chercher la balle près du banc. Célian lui montre la manche de son maillot et le trait gris que le sol y a laissé. Puis ils tournent ensemble les boîtes pour que les joueurs puissent voir les deux gâteaux. Sur le panneau, la pomme de Léonie est beaucoup trop contente pour une équipe qui vient de perdre.\n\nJade conduit les premiers arrivants. Léonie pose les gobelets, trouve leur place aux fruits et lui demande quelle boîte ouvrir. Célian avait prévu de tenir la table avec elle pendant tout le goûter. Il vient à peine de servir les premières parts qu’il doit aussi expliquer où sont les ingrédients. La joueuse qui avait posé la question arrive et Célian lui montre la feuille qu’il a préparée. Il va chercher un emballage dans la caisse quand elle lui demande quel produit ils ont utilisé. Pendant ce temps, Léonie sert, montre les fruits et fait remonter les derniers gobelets. Elle n’a pas attendu qu’il lui rappelle ses tâches.\n\nÀ l’autre bout de la salle, Yanis lui fait signe. Un joueur de l’autre club veut revoir le plongeon qu’il a filmé. Célian reste entre la table et la porte. Il regarde les parts et s’aperçoit qu’il n’a pas encore pensé à en prendre une. Il demande à Léonie si elle peut tenir la table quelques minutes avec la feuille à portée de main. « S’il manque une réponse, je suis là-bas. » Elle accepte et se décale pour lui laisser le passage.",
+      "sections": [
+        {
+          "heading": "Avoir un appui et rester responsable de ses choix",
+          "text": "Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif. Célian a choisi les quantités, le menu, le lieu de la table et la façon de retrouver les informations. Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses. Ils ont trouvé des appuis pour cette activité. Le résultat ne renseigne pas à lui seul sur la facilité qu’aura Célian à lire une autre fiche demain. Les difficultés de lecture peuvent persister et devenir plus ou moins gênantes selon le travail demandé et les appuis disponibles."
+        },
+        {
+          "heading": "Dire ce que le relais comprend",
+          "text": "Pour s’éloigner quelques minutes, Célian et Léonie se mettent d’accord sur ce qu’elle peut faire. La feuille et les emballages restent à la table, et elle sait où retrouver Célian si une information lui manque. Ce relais prolonge les tâches déjà réparties. Il ne lui donne pas à décider à la place d’un joueur ce qu’il peut manger. Dans une autre situation, Célian pourrait vouloir rester à la table ou revenir plus tôt. Ici, il choisit de rejoindre les personnes pour qui il a organisé le goûter. Léonie garde la possibilité de l’appeler."
+        }
+      ],
+      "ending_title": "Une place du côté des joueurs",
+      "ending": "Sur la vidéo, on voit surtout Yanis qui se penche au mauvais moment. Il proteste qu’on devine quand même la trajectoire du ballon. Célian prend une chaise et la tourne pour faire de la place au joueur qui filme. Léonie a gardé un coin et l’a laissé au bout de la table. Quand Célian revient, il prend celui d’à côté, qui a un peu plus de croûte. Il demande à Jade combien de temps ils ont encore avant de rendre la salle. Il veut finir sa part avec les autres avant de replier les tables.",
+      "mirror": [
+        "Léonie peut accepter en disant clairement ce qu’elle peut prendre en charge : « Je sers et je garde la fiche ici. Si je n’ai pas l’information, je viens te chercher. » Elle peut aussi dire si elle a elle-même besoin d’un relais. Célian sait où en est la table et peut s’asseoir quelques minutes avec ses coéquipiers."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "service-public-allergenes"
+      ],
+      "continuity": {
+        "choice": "Célian présente les informations sur les ingrédients, puis laisse à Léonie la table quelques minutes et rejoint les joueurs avec qui il a disputé le match.",
+        "next": "Le goûter a lieu dans la salle du club. Célian doit encore rendre les tickets à Nadia et revoir avec Aïcha les deux essais de fiche disponible à l’avance."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "celian-garder-les-appuis-qui-servent",
+      "title": "Garder des appuis après un projet réussi",
+      "description": "Le goûter est passé. Au moment de remettre les tickets, Célian revient sur les tâches qu’il voudrait garder ou transmettre.",
+      "context": "Après l’entraînement du mardi, dans le local du club.",
+      "topics": [
+        "Autonomie",
+        "Confiance en soi",
+        "Effort de lecture"
+      ],
+      "opening": "Quand Célian sort ses tickets de la poche fermée, Nadia soulève une petite pelure de pomme restée collée au dernier. Léonie prétend qu’il l’a gardée pour prouver la qualité du produit. Il en a eu pour moins que l’enveloppe prévue. Nadia entre les montants et lui demande comment il a choisi la salle de repli. Il lui raconte les chaises devant la porte et la table qu’ils ont tournée pour qu’on voie le panneau. Yanis apporte les gobelets propres. Il voudrait déjà savoir si Célian recommencera à la prochaine rencontre.\n\nCélian ouvre la feuille commune sur son téléphone. Il lit d’abord les trois lignes du menu et retrouve la colonne des confirmations. Un nouveau message d’Aïcha apparaît par-dessus. Après les deux exercices convenus, elle demande ce qui devrait rester et ce qu’ils pourraient modifier. Il ouvre sa réponse, puis revient deux fois sur une phrase avant de comprendre qu’elle parle de deux fiches différentes. Il pense répondre « tout va bien ». En fait, pour le dernier exercice, il avait préparé son passage mais cherché longtemps l’endroit où une consigne changeait de page. Il veut garder les fiches à l’avance et pouvoir repérer plus facilement les étapes.\n\nCélian termine d’abord avec Nadia. Elle lui confirme qu’elle a ce qu’il faut pour rembourser les achats. Il répond à Aïcha : il aimerait garder la fiche à l’avance et trouver un repère quand une étape continue sur la page suivante. Puis il relève les yeux vers Yanis. La prochaine fois, il veut bien faire un gâteau s’il peut choisir une recette qui lui plaît. Pour décider du lieu et faire les inscriptions, il propose que deux autres personnes prennent leur tour. Il peut leur laisser la feuille et raconter pourquoi la dernière colonne s’appelle « reste au goûter ».",
+      "sections": [
+        {
+          "heading": "Un projet fini et des besoins qui peuvent rester",
+          "text": "Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides. Célian a organisé le goûter et peut décrire les décisions qui l’ont rendu possible. Quelques jours après, il lui faut toujours de l’effort pour distinguer deux consignes dans un message. Ces faits peuvent coexister. Ils permettent de parler des aides dans des termes précis : ce qu’il a pu faire avec la fiche à l’avance, ce qu’il a dû chercher en cours et le temps qu’il y a passé. Une réussite ne suffit ni à conclure que le trouble a disparu, ni à décider de la suite d’un suivi."
+        },
+        {
+          "heading": "Faire évoluer ce qui aide, au centre et au club",
+          "text": "Aïcha et Célian peuvent garder la fiche en avance et essayer de mieux séparer les étapes qui se poursuivent sur une autre page. Ils pourront regarder sur une tâche réelle si le repérage devient plus facile. Le rendez-vous suivant avec Mme Vidal permettra, à part, de discuter de ses objectifs de suivi s’il le souhaite. Au volley, transmettre la feuille donne aux autres un point de départ. Célian peut continuer à cuisiner pour eux quand il en a envie et choisir un autre rôle selon la semaine. L’usage de ces appuis reste lié à ce qu’il souhaite faire."
+        }
+      ],
+      "ending_title": "Laisser le prochain prénom vide",
+      "ending": "Jade propose d’essayer la feuille la prochaine fois avec Yanis. Célian leur montre où il avait laissé la case du lieu vide en attendant la réponse du gardien. Ils gardent cette case et enlèvent les anciens prénoms de la copie. Célian récupère son sac et demande à Léonie de lui lancer trois ballons avant qu’on ferme. Pendant le match, le joueur d’en face avait reculé d’un pas chaque fois que Célian prenait son élan. Il a envie d’essayer un service plus court. Léonie lui demande où il veut le poser. Il pose son téléphone sur le banc pour lui montrer.",
+      "mirror": [
+        "Yanis peut demander à Célian ce qu’il voudrait faire une prochaine fois : « Tu gardes la recette et on prend les inscriptions ? On peut aussi repartir de ta feuille. » S’il a besoin qu’on lui montre une colonne, il peut le dire. Il laisse Célian choisir sa part du projet et ne déduit pas du goûter que ses besoins en formation ont changé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "apprentissage-handicap"
+      ],
+      "continuity": {
+        "choice": "Célian clôt les dépenses avec Nadia, partage le plan du goûter et choisit de demander à Aïcha un repère de page en plus de la fiche à l’avance.",
+        "next": "Le goûter est mené à son terme. Les prochains rôles pourront tourner. Le rendez-vous avec Mme Vidal est encore prévu, et Célian veut essayer un service plus court au volley."
+      }
+    }
+  ]
+}

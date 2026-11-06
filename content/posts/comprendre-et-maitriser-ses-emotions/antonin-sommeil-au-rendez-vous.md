@@ -1,5 +1,5 @@
 ---
-title: Les heures qu’il voudrait raconter
+title: 'Nuits courtes et inquiétudes : Antonin en parle à son médecin'
 description: Antonin parle à son médecin des nuits courtes et des décisions qui lui
   coûtent. Ils revoient ensemble la suite de sa prise en charge.
 slug: antonin-sommeil-au-rendez-vous
@@ -11,8 +11,8 @@ contexte: Au rendez-vous de suivi médical, après une semaine de nuits interrom
 tags:
 - TAG
 - Anxiété généralisée
-- Sommeil
-- Consultation de suivi
+- Sommeil perturbé
+- Fatigue dans la journée
 - Choix de soins
 categories:
 - Comprendre et maîtriser ses émotions

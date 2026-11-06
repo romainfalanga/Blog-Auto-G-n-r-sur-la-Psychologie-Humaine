@@ -1,5 +1,5 @@
 ---
-title: La valse attend derrière le rideau
+title: Le trac avant de jouer la valse en public
 description: Avant le concert, le programme change légèrement. Garance vérifie sa
   place et choisit comment attendre le moment de jouer.
 slug: garance-concert-heure-avant
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Dans la salle des Forges, le soir du concert de quartier
 tags:
 - Bipolarité type II
-- Trac et humeur ordinaire
-- Engagement ajustable
-- Concert de quartier
+- Trac et excitation
+- Émotions passagères et changements durables
+- Souplesse dans ses engagements
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

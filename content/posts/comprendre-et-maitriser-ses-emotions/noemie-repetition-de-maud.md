@@ -1,5 +1,5 @@
 ---
-title: La répétition de Maud
+title: Quand la peur de devoir vérifier fait renoncer à sortir
 description: Noémie veut entendre Maud jouer. En préparant sa soirée, elle voit aussi
   ce que le TOC lui a fait décliner ces derniers mois.
 slug: noemie-repetition-de-maud
@@ -11,8 +11,8 @@ contexte: Un soir de répétition, entre la maison et la salle où joue le group
   Maud
 tags:
 - TOC
-- Évitement
-- Activités choisies
+- Évitement des sorties
+- Anxiété d’anticipation
 - Vie sociale
 categories:
 - Comprendre et maîtriser ses émotions

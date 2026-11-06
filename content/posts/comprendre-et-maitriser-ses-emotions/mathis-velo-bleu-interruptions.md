@@ -1,5 +1,5 @@
 ---
-title: Le vélo bleu est encore sur le pied
+title: Perdre le fil après une interruption à l’atelier
 description: Une interruption en chasse une autre à l’atelier. Pour son évaluation,
   Mathis cherche des exemples qui disent ce que ces journées lui coûtent.
 slug: mathis-velo-bleu-interruptions
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: À l’atelier associatif, avant le lancement de la permanence mobile
 tags:
 - TDAH
-- Attention au travail
-- Retentissement au quotidien
-- Évaluation du TDAH adulte
+- Attention morcelée
+- Reprise de tâche
+- Repères écrits
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

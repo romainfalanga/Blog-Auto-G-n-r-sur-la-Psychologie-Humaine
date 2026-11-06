@@ -1,5 +1,5 @@
 ---
-title: Ce qui sort de la chemise bleue
+title: Réparer un lien quand un accord n’a pas été respecté
 description: Une photo du patron de Joël circule dans une famille. Meriem lui parle
   de ce qui s’est passé et met en place une règle visible sur les copies.
 slug: meriem-chemise-bleue
@@ -11,9 +11,9 @@ contexte: Au jeudi qui suit le premier échange
 tags:
 - TSPT complexe
 - CPTSD
-- Circulation des informations
-- Confiance
-- Réparation concrète
+- Confiance dans les relations
+- Poser ses limites
+- Réparation du lien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le chemin du dimanche
+title: Garder une place pour ses envies au-delà des vérifications
 description: Après l’exposition, Noémie fait le point avec sa clinicienne et avec
   Maud. Elle emporte son carnet pour dessiner près du canal.
 slug: noemie-le-dimanche-suivant
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Après l’exposition, au rendez-vous de suivi puis au bord du canal
 tags:
 - TOC
-- Continuité du suivi
-- Appuis durables
-- Projet personnel
+- Soutien négocié
+- Loisirs choisis
+- Vérifications répétées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

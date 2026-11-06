@@ -1,5 +1,5 @@
 ---
-title: Le premier atelier, avec quatre places
+title: 'Reprise progressive : l’atelier à un rythme qu’Inaya peut tenir'
 description: Quelques semaines après le report, Inaya et Myriam accueillent quatre
   personnes. Elles se partagent l’atelier et gardent un temps pour le rangement.
 slug: inaya-atelier-quatre-places
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: À la maison de quartier, un samedi matin
 tags:
 - Dépression récurrente
-- Reprise d’une activité
-- Limites choisies
-- Variations de l’humeur
+- Reprise progressive
+- Énergie fluctuante
+- Coopération
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

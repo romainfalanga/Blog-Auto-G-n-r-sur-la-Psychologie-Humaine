@@ -1,5 +1,5 @@
 ---
-title: Deux feuilles sur le bureau
+title: 'Peur en sortie : Jules repère ce qui l’aide selon le lieu'
 description: Jules apporte un dessin du marché et un autre de chez Solange. Il revoit
   avec la psychiatre ce qu’il souhaite poursuivre et qui joindre.
 slug: jules-deux-dessins-au-cabinet
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Lors d’un point de suivi avec la psychiatre, après plusieurs sorties différentes
 tags:
 - Attaques de panique
-- Ajustement du suivi
-- Soutien choisi
-- Repères en cas de besoin
+- Peur selon le contexte
+- Soutien adapté à ses besoins
+- Révision du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

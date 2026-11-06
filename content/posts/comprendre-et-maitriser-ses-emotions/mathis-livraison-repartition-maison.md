@@ -1,5 +1,5 @@
 ---
-title: Qui répond quand le livreur appelle ?
+title: 'Dire oui trop vite : qui porte la charge de la livraison ?'
 description: Une livraison tombe pendant les heures de l’atelier. Mathis et Simon
   reprennent l’accord en regardant qui reçoit les messages et qui peut agir.
 slug: mathis-livraison-repartition-maison
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: À la table de la cuisine, après le repérage aux Tilleuls
 tags:
 - TDAH
-- Organisation à la maison
+- Engagements réalistes
+- Charge mentale
 - Partage des responsabilités
-- Soutien avec accord
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

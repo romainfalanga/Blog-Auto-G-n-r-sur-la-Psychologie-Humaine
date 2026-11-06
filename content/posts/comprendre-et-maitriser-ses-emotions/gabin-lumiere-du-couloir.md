@@ -1,5 +1,5 @@
 ---
-title: La lumière du couloir
+title: Gabin dit à Nora qu’il a peur de se faire du mal
 description: Quand Gabin dit qu’il a peur de se faire du mal, Nora l’aide à demander
   un appui urgent. La discussion sur le loyer attendra.
 slug: gabin-lumiere-du-couloir
@@ -12,7 +12,7 @@ tags:
 - Jeux d’argent
 - Jeu pathologique
 - Détresse aiguë
-- Sécurité
+- Expression d’une peur
 - Appui urgent
 categories:
 - Comprendre et maîtriser ses émotions

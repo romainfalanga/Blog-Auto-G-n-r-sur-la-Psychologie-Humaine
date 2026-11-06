@@ -1,5 +1,5 @@
 ---
-title: Le matin que Garance veut décrire à sa psychiatre
+title: Quand la somnolence gêne le travail de Garance
 description: Garance remarque une somnolence le matin après une adaptation de son
   traitement. Elle demande au cabinet comment examiner ce changement.
 slug: garance-effet-signaler-traitement
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: À son bureau de correctrice, avant un point de suivi
 tags:
 - Bipolarité type II
-- Effets ressentis
-- Réévaluation du traitement
-- Choix avec les soignants
+- Somnolence et attention au travail
+- Ajustement des engagements
+- Dialogue avec la psychiatre
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

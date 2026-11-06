@@ -1,5 +1,5 @@
 ---
-title: Ce que la gouttière a réveillé
+title: Nuit trop courte ou besoin de sommeil réduit ?
 description: Après une nuit hachée, Émilien distingue le manque de sommeil de ses
   signaux habituels et prépare une question pour son rendez-vous.
 slug: emilien-bruit-de-la-gouttiere
@@ -11,9 +11,9 @@ contexte: après une nuit perturbée, distinguer la fatigue ressentie d’une di
   du besoin de sommeil
 tags:
 - Bipolarité type I
-- Sommeil
-- Signaux personnels
-- Suivi du trouble bipolaire
+- Fatigue après une mauvaise nuit
+- Besoin de sommeil
+- Inquiétude face aux signes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

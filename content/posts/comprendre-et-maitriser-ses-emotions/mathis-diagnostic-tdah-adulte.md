@@ -1,5 +1,5 @@
 ---
-title: Ce que Mathis entend au rendez-vous de restitution
+title: Soulagement et appréhension à l’annonce du diagnostic
 description: La psychiatre pose un diagnostic de TDAH. Mathis veut comprendre ce qu’elle
   a retenu de son histoire et décider à qui en parler.
 slug: mathis-diagnostic-tdah-adulte
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Au cabinet de la psychiatre, puis chez Mathis et Simon
 tags:
 - TDAH
-- Restitution du bilan
-- Diagnostic du TDAH à l’âge adulte
-- Choix après le diagnostic
+- Soulagement
+- Peur du jugement
+- Confidences choisies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

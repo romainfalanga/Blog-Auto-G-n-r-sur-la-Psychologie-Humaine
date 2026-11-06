@@ -1,5 +1,5 @@
 ---
-title: L’autre page du calendrier
+title: Repérer les signes d’aggravation tout en gardant des projets
 description: Après l’atelier, Inaya garde son suivi. Elle choisit des repères pour
   demander de l’aide et laisse de la place à d’autres projets.
 slug: inaya-plan-suivi-apres-atelier
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: À la boutique, puis au rendez-vous de suivi
 tags:
 - Dépression récurrente
-- Prévention des rechutes
 - Repères personnels
-- Projets et suivi
+- Demande d’aide précoce
+- Activités choisies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

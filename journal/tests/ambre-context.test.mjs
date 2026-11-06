@@ -9,10 +9,10 @@ const citation={source_id:source.id,revision:1,quote:source.fields.self_descript
 const hypothesis=id=>({pattern_id:id,status:'exploring',observation:'{{prenom}} décrit une difficulté au travail.',possible_function:'Une protection possible, à vérifier.',alternatives:['Une contrainte de travail.'],next_question:'Que se passe-t-il avec vos amis ?',evidence:[source.id],counter_evidence:[]});
 const portrait=()=>({schema_version:2,summary:'{{prenom}} se décrit comme créatif.',summary_evidence:[source.id],axes:[{label:'Pensées répétées',why:'{{prenom}} parle du travail.',confidence:.3,claim_type:'hypothesis',evidence:[source.id]}],strengths:[],uncertainties:[],citations:[citation],psychological_map:[hypothesis('rumination')]});
 
-test('native validation diagnostics contain fixed categories and never rejected private prose',async()=>{
- for(const [mutate,code] of [[p=>p.citations[0].revision=999,'citation'],[p=>p.summary='Elle contient une formulation privée refusée.','language']]){
+test('native validation diagnostics distinguish ambiguous pronouns, gender and citations without saving private prose',async()=>{
+ for(const [mutate,code] of [[p=>p.citations[0].revision=999,'citation'],[p=>p.summary='Elle contient une formulation privée refusée.','pronoun'],[p=>p.summary='{{prenom}} se dit créative.','gender']]){
   const p=structuredClone(portrait());mutate(p);let calls=0;
-  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>{calls++;return JSON.stringify(p)}),e=>e.message==='validation_error'&&JSON.stringify(e.verification_failures)===JSON.stringify(['contract.'+code]));assert.equal(calls,1);
+  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source],self_context:{gender:'male'}},async()=>{calls++;return JSON.stringify(p)}),e=>e.message==='validation_error'&&JSON.stringify(e.verification_failures)===JSON.stringify(['contract.'+code]));assert.equal(calls,1);
  }
 });
 
@@ -29,9 +29,31 @@ test('declared context has one closed identity contract and never civil identity
 
 test('new prose rejects ambiguous reprises and direct wrong gender without changing quotes or third parties',()=>{
  assert.throws(()=>assertPortraitLanguage({summary:'{{prenom}} parle du travail. Elle se sent fatiguée.'}));
+ for(const summary of ['Il semble fatigué.','Il y a vécu deux ans.','Réaction :elle attend.','Il semble qu’elle attende.'])assert.throws(()=>assertPortraitLanguage({summary}),/portrait_language/);
  assert.throws(()=>assertPortraitLanguage({summary:'{{prenom}} se décrit comme créative.',identity_context:{gender:'male'}}));
  assert.doesNotThrow(()=>assertPortraitLanguage({summary:'{{prenom}} décrit sa mère comme créative. Les mots « Elle se sent fatiguée » sont cités.',identity_context:{gender:'male'}}));
  assert.doesNotThrow(()=>assertPortraitLanguage({summary:'{{prenom}} se décrit comme créatif.',psychological_map:[hypothesis('rumination')],identity_context:{gender:'male'}}));
+});
+
+test('impersonal French reaches semantic review with the subject marker and exact quoted words',async()=>{
+ const quote='Elle m’a répondu';
+ const s={...source,fields:{self_description:`Je rapporte : « ${quote} ». Je repense souvent au travail.`}};
+ s.text='self_description: '+s.fields.self_description;
+ const p=portrait(),citations=[{source_id:s.id,revision:s.revision,quote}];p.citations=citations;
+ p.summary=`{{prenom}} rapporte : « ${quote} ». Il reste un point à comprendre.`;
+ p.psychological_map[0].possible_function='Il est possible d’explorer cette piste.';
+ p.psychological_map[0].alternatives=['Il s’agit peut-être d’une contrainte de travail.'];
+ const stages=[];
+ const result=await analyzePortraitSnapshot({sources:[s]},async request=>{
+  stages.push(request.stage);if(request.stage==='portrait')return p;
+  const data=JSON.parse(request.user_prompt);
+  assert.equal(data.claims.find(x=>x.path==='summary').claim,p.summary);
+  assert.deepEqual(data.citations,citations);
+  return {checks:data.claims.map(x=>({path:x.path,supported:x.path!=='map.0.function'}))};
+ });
+ assert.deepEqual(stages,['portrait','support']);
+ assert.equal(result.portrait.summary,p.summary);assert.deepEqual(result.portrait.citations,citations);
+ assert.deepEqual(result.portrait.psychological_map,[]);
 });
 
 test('native analyst and verifier receive the current structured context and discard an old cached prose',async()=>{

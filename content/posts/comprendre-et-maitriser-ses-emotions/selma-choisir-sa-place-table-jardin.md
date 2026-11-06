@@ -1,5 +1,5 @@
 ---
-title: Prendre la parole à la table du jardin
+title: Au repas des voisins, Selma choisit quand prendre la parole
 description: Au repas des voisins, Selma propose un partage des récoltes. Elle choisit
   une façon de participer qui lui convient.
 slug: selma-choisir-sa-place-table-jardin
@@ -11,9 +11,9 @@ contexte: Autour d’une table sous le tilleul des voisins
 tags:
 - TSPT
 - PTSD
-- Participation sociale
-- Choix de parler
-- Appuis de proximité
+- Participation à son rythme
+- Expression de ses préférences
+- Appui d’un voisin
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

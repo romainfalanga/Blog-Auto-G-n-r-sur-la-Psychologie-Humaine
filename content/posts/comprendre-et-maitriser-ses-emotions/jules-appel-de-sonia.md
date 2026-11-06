@@ -1,5 +1,5 @@
 ---
-title: L’appel depuis le marché
+title: 'Peur et douleur nouvelle au marché : Sonia appelle les secours'
 description: Une douleur thoracique nouvelle et une difficulté à respirer surprennent
   Jules. Sonia appelle les secours et décrit les signes apparus.
 slug: jules-appel-de-sonia
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Au stand de fleurs, pendant l’apparition de signes aigus inhabituels
 tags:
 - Attaques de panique
-- Signes nouveaux
-- Évaluation urgente
-- Soutien concret
+- Peur face à des sensations nouvelles
+- Soutien d’une collègue dans l’urgence
+- Évaluation urgente de signes physiques
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

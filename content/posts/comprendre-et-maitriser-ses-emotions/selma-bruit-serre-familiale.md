@@ -1,5 +1,5 @@
 ---
-title: Un bruit de métal dans la serre familiale
+title: 'Sursaut dans la serre : quand un bruit rappelle l’accident'
 description: En mesurant un montant de la serre, Selma est surprise par un bruit qui
   lui rappelle l’accident. Elle choisit ce qu’elle veut reprendre avec André.
 slug: selma-bruit-serre-familiale
@@ -11,9 +11,9 @@ contexte: La serre familiale au début du printemps
 tags:
 - TSPT
 - PTSD
-- Stress post-traumatique
-- Sursaut
-- Repères de sécurité
+- Sursaut et besoin de s’éloigner
+- Rappels du traumatisme
+- Soutien d’un proche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le double de la clé
+title: 'Hypervigilance : Selma guette encore les bruits autour de la serre'
 description: Même après le passage du vitrier, Selma guette le moindre bruit de la
   serre. Elle choisit une façon précise de partager les clés avec André.
 slug: selma-double-cle-hypervigilance
@@ -12,7 +12,7 @@ tags:
 - TSPT
 - PTSD
 - Hypervigilance
-- Sécurité concrète
+- Attention tournée vers le danger
 - Confiance entre voisins
 categories:
 - Comprendre et maîtriser ses émotions

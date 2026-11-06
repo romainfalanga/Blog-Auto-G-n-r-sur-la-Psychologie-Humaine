@@ -1,5 +1,5 @@
 ---
-title: L’hirondelle tient encore sur deux lignes
+title: Quand l’écrit aide Nour à suivre une réunion
 description: Une réunion change de salle et de rythme. Nour trouve à l’écrit la place
   d’une question sur une enseigne de la collection municipale.
 slug: nour-legende-choisir-ecrit
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Au service de la collection municipale, pendant la relecture des légendes
 tags:
 - TSA
-- Communication écrite
-- Autisme chez l’adulte
-- Modes de participation
+- Préférences de communication
+- Attention dans le bruit
+- Participation aux échanges
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Nils corrige la ligne sous son prénom
+title: Choisir ce qu’on dit de soi devant les autres
 description: Le brouillon de l’affiche raconte une histoire que Nils n’a pas proposée.
   Il ramène la discussion au jardinage et au texte qu’il approuve.
 slug: nils-une-ligne-sur-laffiche
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le mercredi, autour de l’affiche de la nouvelle émission
 tags:
 - Schizophrénie
-- Confidentialité
+- Choisir ce qu’on partage
 - Stigmatisation
-- Présentation à la radio
+- Affirmation de soi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

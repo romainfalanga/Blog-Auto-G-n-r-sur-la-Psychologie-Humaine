@@ -1,5 +1,5 @@
 ---
-title: Le bouton du niveau
+title: Faire entendre ses inquiétudes quand un geste familier devient difficile
 description: Une gêne se répète devant la console. Émilien en parle à sa psychiatre
   pour comprendre ce qui se passe et discuter de son suivi.
 slug: emilien-bouton-du-niveau
@@ -11,9 +11,9 @@ contexte: décrire une gêne nouvelle et parler du traitement sans en modifier s
   la prise
 tags:
 - Bipolarité type I
-- Traitement et suivi
+- Inquiétude
+- Expression des besoins
 - Effets indésirables possibles
-- Décision avec les professionnels
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

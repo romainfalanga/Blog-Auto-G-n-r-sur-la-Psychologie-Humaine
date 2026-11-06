@@ -1,5 +1,5 @@
 ---
-title: Les noms sur le carnet
+title: Demander de l’aide en consultation et se confier à son rythme
 description: Clémence demande qui contacter entre ses rendez-vous et quelles informations
   sont utiles aux professionnels qui la suivent.
 slug: clemence-noms-sur-le-carnet
@@ -11,9 +11,9 @@ contexte: clarifier le suivi pluridisciplinaire et choisir ce que Clémence souh
   partager avec son amie
 tags:
 - Anorexie
+- Confidences choisies
+- Appui ponctuel d’une amie
 - Coordination des soins
-- Santé physique et psychique
-- Confidentialité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

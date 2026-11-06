@@ -1,5 +1,5 @@
 ---
-title: Le deuxième message de Maud
+title: 'Réassurance en couple : quand une preuve ne suffit plus'
 description: Maud a confirmé avoir fermé l’appartement. Noémie lui redemande de vérifier
   et découvre ce que ces demandes ont pris dans leurs soirées.
 slug: noemie-message-de-maud
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Après le travail, pendant un détour à l’épicerie avec Maud
 tags:
 - TOC
-- Demandes de réassurance
-- Entourage
-- Vie de couple
+- Réassurance répétée
+- Doute persistant
+- Limites de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

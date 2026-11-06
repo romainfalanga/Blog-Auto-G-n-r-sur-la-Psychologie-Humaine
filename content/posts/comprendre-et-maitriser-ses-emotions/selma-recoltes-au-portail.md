@@ -1,5 +1,5 @@
 ---
-title: Les deux cagettes au portail
+title: Partager ses récoltes et poser une limite à l’entrée de la serre
 description: Les récoltes sont prêtes. Selma tient au partage avec André et choisit
   de garder l’intérieur de la serre pour elle.
 slug: selma-recoltes-au-portail
@@ -12,8 +12,8 @@ tags:
 - TSPT
 - PTSD
 - Limites personnelles
-- Entraide entre voisins
-- Activité qui compte
+- Attention perturbée par un bruit
+- Lien avec les voisins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

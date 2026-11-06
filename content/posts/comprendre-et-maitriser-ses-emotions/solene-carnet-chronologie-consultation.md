@@ -1,5 +1,5 @@
 ---
-title: La psychiatre trace deux lignes dans le carnet de Solène
+title: Comprendre ce qui relie l’humeur et les perceptions
 description: En consultation, Solène distingue ce qu’elle sait de ses derniers jours
   de ce qu’elle reconstitue avec la psychiatre.
 slug: solene-carnet-chronologie-consultation
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Au cabinet de la psychiatre référente, après l’appel de Solène à l’infirmière
 tags:
 - Trouble schizo-affectif
-- Chronologie clinique
-- CIM-11 et DSM
-- Consultation de suivi
+- Humeur et perceptions
+- Reconnaître ses signes
+- Accepter l’incertitude
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

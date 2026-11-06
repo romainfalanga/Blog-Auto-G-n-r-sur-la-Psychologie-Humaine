@@ -1,5 +1,5 @@
 ---
-title: La chemise attend sur le palier
+title: 'Fatigue après la visite : quelle place garder pour la suivante ?'
 description: Des voisins veulent recommencer la visite. Avant de répondre, Nour examine
   ce que la première lui a demandé et la part qu’elle veut garder.
 slug: nour-apres-visite-limites
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Chez Nour, dans les jours qui suivent la première visite
 tags:
 - TSA
-- Fatigue après une sortie
-- Rôle choisi
-- Partage du travail
+- Fatigue après l’effort
+- Temps de récupération
+- Limites dans un projet collectif
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

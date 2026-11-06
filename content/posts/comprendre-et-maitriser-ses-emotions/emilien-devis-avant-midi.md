@@ -1,5 +1,5 @@
 ---
-title: Le devis avant midi
+title: 'Dormir moins, décider plus vite : Émilien met un devis en attente'
 description: Une proposition de diffusion arrive après plusieurs nuits courtes. Émilien
   demande un avis clinique et reporte la signature du devis.
 slug: emilien-devis-avant-midi
@@ -11,9 +11,9 @@ contexte: reconnaître plusieurs changements et utiliser le contact prévu avant
   prendre une décision coûteuse
 tags:
 - Bipolarité type I
-- Signaux d’alerte personnels
-- Prise de décision
-- Contact avec l’équipe de soins
+- Décision précipitée
+- Signaux d’alerte
+- Demande d’avis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: L’hirondelle reste au kiosque
+title: 'Trop de bruit au kiosque : Nour fait une pause et passe le relais'
 description: Le jour de la visite, une enceinte s’allume sur le square. Nour choisit
   une pause et précise ce que Fatou peut annoncer pendant son absence.
 slug: nour-visite-pause-auvent
@@ -10,8 +10,8 @@ sujet: Autisme
 contexte: Au kiosque et sous l’auvent de la boulangerie, le premier jour de visite
 tags:
 - TSA
-- Ajuster sa participation
-- Préférences sensorielles
+- Sensibilité au bruit
+- Effort pour suivre la conversation
 - Relais choisi
 categories:
 - Comprendre et maîtriser ses émotions

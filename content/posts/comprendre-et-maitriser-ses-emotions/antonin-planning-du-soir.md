@@ -1,5 +1,5 @@
 ---
-title: Les noms à inscrire sur le planning
+title: Des permanences claires pour pouvoir décrocher le soir
 description: Antonin propose une répartition des permanences qui tienne compte du
   travail réel. Eva lui indique aussi les soirs qu’elle souhaite garder.
 slug: antonin-planning-du-soir
@@ -11,8 +11,8 @@ contexte: Pendant une réunion d’équipe sur les permanences de l’école
 tags:
 - TAG
 - Anxiété généralisée
-- Charge de travail
-- Permanences
+- Inquiétude face aux consignes floues
+- Limites au travail
 - Responsabilités partagées
 categories:
 - Comprendre et maîtriser ses émotions

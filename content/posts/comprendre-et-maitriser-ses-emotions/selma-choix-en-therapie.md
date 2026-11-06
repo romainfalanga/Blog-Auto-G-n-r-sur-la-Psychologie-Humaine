@@ -1,5 +1,5 @@
 ---
-title: Choisir par où commencer en thérapie
+title: Trouver son rythme en thérapie après un traumatisme
 description: Selma apporte des notes à sa thérapeute. Elle lui demande comment le
   travail pourrait se poursuivre et comment signaler qu’elle souhaite faire une pause.
 slug: selma-choix-en-therapie
@@ -11,9 +11,9 @@ contexte: Au cabinet de sa thérapeute
 tags:
 - TSPT
 - PTSD
-- Soins spécialisés
-- Choix en thérapie
-- Alliance thérapeutique
+- Rythme choisi en thérapie
+- Choix de parler du traumatisme
+- Confiance dans le suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

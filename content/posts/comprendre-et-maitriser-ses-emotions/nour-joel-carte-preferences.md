@@ -1,5 +1,5 @@
 ---
-title: Joël déplie la carte du côté du marché
+title: Nour et Joël, deux façons de s’orienter avec la même carte
 description: Joël, rencontré en atelier de gravure, essaie la carte avec Nour. Tous
   deux sont autistes et ne cherchent pas les mêmes repères.
 slug: nour-joel-carte-preferences
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Dans la salle de l’atelier de gravure, pendant la préparation de la carte
 tags:
 - TSA
-- Diversité du spectre de l’autisme
+- Besoins sensoriels différents
+- Repères visuels et écrits
 - Soutien entre pairs
-- Choix de formats
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

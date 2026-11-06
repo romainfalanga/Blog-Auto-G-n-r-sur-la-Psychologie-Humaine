@@ -1,5 +1,5 @@
 ---
-title: Ce que Selma demande au médecin du travail
+title: Selma parle au médecin du travail de ce qui lui fait perdre le fil
 description: Selma décrit les moments qui lui coûtent le plus. Avec le médecin du
   travail, elle examine des adaptations et ce qui peut être transmis.
 slug: selma-demande-medecin-travail
@@ -11,9 +11,9 @@ contexte: Au service de santé au travail
 tags:
 - TSPT
 - PTSD
-- Aménagement du travail
-- Secret médical
-- Sécurité ferroviaire
+- Attention au travail
+- Rappels sonores du traumatisme
+- Confidentialité médicale
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le bol de Livia n’attend pas le retour au travail
+title: Faire une place à la fatigue après les soins
 description: De retour chez elle, Solène parle de sa fatigue à sa psychiatre. Avec
   Livia, elle choisit une sortie qui peut durer dix minutes.
 slug: solene-bol-fatigue-apres-soins
@@ -11,8 +11,8 @@ contexte: Quelques semaines après les urgences, entre le retour à domicile et 
   du travail
 tags:
 - Trouble schizo-affectif
-- Retour à domicile
-- Fatigue à signaler
+- Écouter ses limites
+- Reconnaître ses signes
 - Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions

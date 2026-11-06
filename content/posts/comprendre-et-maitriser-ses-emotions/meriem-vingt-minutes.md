@@ -1,5 +1,5 @@
 ---
-title: Le café avant le bus
+title: Accepter une invitation quand la proximité inquiète
 description: Après un essai de couture, Chloé invite Meriem à boire un café. Meriem
   cherche une réponse qui lui permette de garder le lien à son rythme.
 slug: meriem-vingt-minutes
@@ -11,9 +11,9 @@ contexte: En quittant l’atelier du jeudi
 tags:
 - TSPT complexe
 - CPTSD
-- Proximité
-- Choix dans les liens
-- Temps partagé
+- Confiance dans les relations
+- Poser ses limites
+- Apprivoiser la proximité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

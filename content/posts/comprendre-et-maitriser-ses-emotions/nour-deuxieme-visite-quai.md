@@ -1,5 +1,5 @@
 ---
-title: Nour suit la flèche du quai
+title: Choisir sa place dans le groupe après avoir organisé la visite
 description: Au deuxième départ, les voisins prennent plusieurs chemins. Nour garde
   le sien et laisse une autre personne tenir la carte au point de rendez-vous.
 slug: nour-deuxieme-visite-quai
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Au porche du quai, lors de la deuxième visite entre voisins
 tags:
 - TSA
-- Participation choisie
-- Relais entre voisins
-- Ajuster un projet dans la durée
+- Participation à son rythme
+- Partage des responsabilités
+- Expression de ses préférences
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

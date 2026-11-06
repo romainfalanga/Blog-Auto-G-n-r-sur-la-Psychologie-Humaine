@@ -1,0 +1,39 @@
+{
+  "references": {
+    "has-tdi-autodetermination": {
+      "title": "Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf"
+    },
+    "has-tdi-synthese": {
+      "title": "Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf"
+    },
+    "has-tdi-travail": {
+      "title": "Haute Autorité de santé, TDI : travail et vie active (volet 2)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Trouble du développement intellectuel",
+    "aliases": [
+      "TDI",
+      "Troubles du développement intellectuel"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-tdi-autodetermination",
+      "has-tdi-synthese",
+      "has-tdi-travail"
+    ],
+    "points": [
+      "OMS, CDDR, catégorie 6A00, « Essential (required) features », pp. 92–93 imprimées (PDF pp. 110–111) : le trouble commence pendant la période du développement. L’évaluation clinique considère des limitations significatives du fonctionnement intellectuel et des habiletés d’adaptation dans la vie quotidienne, qui comprennent des habiletés conceptuelles, sociales et pratiques. Les domaines ne sont pas affectés de façon uniforme ; les attentes de la vie quotidienne changent avec les situations. Hélène a un diagnostic établi ; aucune scène ne sert à établir un diagnostic ou un sous-type.",
+      "OMS, CDDR, 6A00, « General cultural considerations », p. 92, « Additional clinical features » et « Boundary with normality », pp. 95–96 imprimées : il n’y a pas de type de personnalité propre au TDI. Une mesure du fonctionnement intellectuel ne suffit pas au diagnostic ; le professionnel apprécie aussi les habiletés d’adaptation et tient compte des conditions d’évaluation, dont la langue et les particularités de communication. Ni les prises de parole d’Hélène ni son besoin d’un support ne permettent de déduire ses compétences ou son aptitude à faire un choix.",
+      "OMS, CDDR, 6A00, « Additional clinical features », pp. 95–96, et « Course features », p. 97 imprimée (PDF p. 115) : les changements de routine ou de cadre peuvent accroître les besoins de soutien. Le TDI s’inscrit dans la durée et les apprentissages peuvent continuer ; la nature et l’intensité du soutien varient notamment avec les circonstances et l’environnement. Un trajet connu et une déviation posent des problèmes différents.",
+      "HAS, volet 1, livret « Autodétermination, participation et citoyenneté », pp. 8–9 et 12–15 : le soutien vise à rendre les choix possibles, à partir des préférences, des besoins, du mode de communication et de l’environnement. Les évaluations n’en sont pas un préalable ; reconnaître les demandes et les refus, prévoir la préparation d’une réunion et laisser la personne y prendre la part qu’elle souhaite. Permettre d’essayer, de se tromper et de changer d’avis, sans confondre les attentes de l’entourage et les souhaits de la personne. La décision accompagnée dans le récit consiste à rendre la situation et ses options compréhensibles, à laisser un délai et à respecter la réponse ; il ne s’agit pas d’une mesure juridique.",
+      "HAS, synthèse du volet 1, rubriques « Principes généraux », « Communication et habiletés sociales » et « Cognition et apprentissages » : observer intérêts, rythme, fatigabilité et conditions de réalisation ; adapter consignes, outils et rythme avec la personne. Face à un essai qui échoue, examiner aussi la méthode, le support et l’environnement. Il n’existe pas de format unique adapté à toutes les personnes ; les objets, plans, écrits et autres supports choisis par Hélène sont des aménagements situés.",
+      "HAS, volet 2, livret « Travail et vie active », § 2.3, pp. 36–39, et § 3.1–3.2, pp. 40–43 : repérer avec la personne ses compétences et besoins, préparer les changements, adapter l’organisation et les informations de travail, échanger dans le collectif et prendre en compte ses propositions. L’appui se réajuste selon les besoins et les changements du travail. Le dispositif employé dans la fiction reste décrit sans présumer un statut d’emploi ou un droit à un aménagement précis.",
+      "HAS, volet 2, « Travail et vie active », pp. 47–48 : discuter d’apprentissages des déplacements en fonction des besoins, de repères visuels et d’un scénario d’imprévu, incluant qui prévenir et comment situer l’endroit où l’on se trouve. Les repères, le contact et le relais d’Hélène sont convenus en équipe et ne valent que pour le trajet de la fiction."
+    ]
+  },
+  "direction": "Hélène a 27 ans. Employée de recyclerie, elle tient aux échanges avec les habitués, à la netteté d’un tracé et au droit de répondre après avoir réfléchi. Sa voix adulte passe par des remarques précises, de l’humour sec et des désaccords de métier. Elle mène son propre projet de signalétique vaisselle : observer, choisir, fabriquer, tester avec les clients, corriger et garder la main sur la suite. Le magasin reste à la même adresse ; le dépôt déménage et change le départ des tournées. Dario est son collègue de boutique, Maud organise les horaires et les moyens, Ilyes travaille au dépôt. Sofia est l’accompagnatrice qu’Hélène choisit pour les réunions, avec un mandat explicite et révisable. Sa cousine Léa la connaît hors du travail ; leur dîner dans la cour suit sa propre logique. Alterner scènes au magasin, à la maison, en réunion, dans le bus, dans la rue et au dépôt, ainsi que les regards d’Hélène, de collègues et d’une cliente. Distinguer les changements de consigne, les aménagements individuels et les obstacles qui relèvent de l’organisation. Donner une suite au refus et montrer les limites de disponibilité des autres ; éviter un récit de dépassement du handicap ou de retrait définitif de l’aide."
+}

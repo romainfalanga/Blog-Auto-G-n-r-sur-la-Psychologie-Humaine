@@ -1,5 +1,5 @@
 ---
-title: La chaise contre le mur
+title: Gabin hésite à parler des pertes au jeu qui touchent le loyer
 description: En comptant les chaises du repas de rue, Gabin retrouve une dépense qu’il
   a cachée et décide de parler à Nora de sa part du loyer.
 slug: gabin-chaise-contre-le-mur
@@ -12,9 +12,9 @@ contexte: nommer le retentissement du jeu quand une dépense de la colocation de
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Trouble lié aux jeux d’argent
-- Retentissement au quotidien
-- Dépenses communes
+- Honte et crainte d’en parler
+- Difficulté à maîtriser le jeu
+- Engagements envers ses proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

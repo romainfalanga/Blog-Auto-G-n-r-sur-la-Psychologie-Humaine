@@ -1,5 +1,5 @@
 ---
-title: Ce que Jules veut retrouver
+title: Travailler sur sa peur pour retrouver le dessin au marché
 description: Avec la psychiatre, Jules discute d’une thérapie et choisit le dessin
   au marché comme premier sujet de travail.
 slug: jules-essai-convenu
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Au deuxième entretien avec la psychiatre, pour discuter de la prise en charge
 tags:
 - Attaques de panique
+- Évitement d’activités qui comptent
+- Objectif de soin choisi
 - Thérapie cognitivo-comportementale
-- Choix du patient
-- Essai encadré
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

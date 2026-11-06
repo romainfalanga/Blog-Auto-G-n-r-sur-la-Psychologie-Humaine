@@ -1,5 +1,5 @@
 ---
-title: Revoir le relais avec Alice
+title: Après une crise, Mina choisit quand donner des nouvelles à Alice
 description: Après une soirée difficile, Mina ajuste son plan au suivi et précise
   avec Alice les nouvelles qu’elles souhaitent se donner.
 slug: mina-revoir-le-relais-avec-alice
@@ -11,9 +11,9 @@ contexte: À la sortie du théâtre, quelques jours plus tard
 tags:
 - Profil borderline
 - Trouble borderline
-- Suivi après une crise
-- Confidentialité
-- Choix du proche
+- Entente sur l’aide après une crise
+- Choix de donner des nouvelles
+- Révision du plan avec les soignants
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Une liste à reprendre le matin du festival
+title: Mina sent la tension revenir et précise ses limites au festival
 description: Le jour de l’ouverture, des boîtes manquent au local. Mina précise ce
   qu’elle peut faire et confie une autre part à l’équipe.
 slug: mina-ouverture-festival-repartir
@@ -11,9 +11,9 @@ contexte: Dans le local, le premier matin du festival
 tags:
 - Profil borderline
 - Trouble borderline
-- Retentissement au travail
-- Limites concrètes
-- Coopération
+- Réaction à l’indisponibilité d’un collègue
+- Expression de ses limites au travail
+- Passage de relais dans l’équipe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

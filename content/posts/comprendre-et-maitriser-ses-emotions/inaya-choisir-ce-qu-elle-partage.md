@@ -1,5 +1,5 @@
 ---
-title: Deux messages, un seul à envoyer
+title: Préparer l’atelier avec sa sœur en gardant la main sur ses confidences
 description: Myriam prépare un message pour la maison de quartier. Inaya choisit ce
   qu’elle souhaite dire sur le format de l’atelier et garder pour elle.
 slug: inaya-choisir-ce-qu-elle-partage
@@ -11,8 +11,8 @@ contexte: Sur un banc devant la maison de quartier
 tags:
 - Dépression récurrente
 - Vie privée
-- Consentement
-- Soutien des proches
+- Soutien choisi
+- Consentement à partager
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

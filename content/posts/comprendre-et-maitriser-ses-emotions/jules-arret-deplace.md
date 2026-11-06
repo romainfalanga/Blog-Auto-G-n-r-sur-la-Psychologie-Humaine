@@ -1,5 +1,5 @@
 ---
-title: L’arrêt derrière les barrières
+title: L’inquiétude de Jules quand son arrêt de bus change
 description: L’arrêt de bus a été déplacé. Jules cherche un trajet pour voir sa grand-mère
   et choisit parmi les possibilités qui restent.
 slug: jules-arret-deplace
@@ -11,9 +11,9 @@ contexte: Sur le trajet de Jules vers l’appartement de Solange, pendant des tr
   de voirie
 tags:
 - Attaques de panique
-- Déplacements
-- Contraintes réelles
-- Autonomie
+- Peur dans les transports
+- Distinction entre peur et obstacle réel
+- Autonomie avec un appui ponctuel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

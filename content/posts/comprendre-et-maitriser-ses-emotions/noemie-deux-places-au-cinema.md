@@ -1,5 +1,5 @@
 ---
-title: Deux places au cinéma
+title: Soutenir Noémie quand l’envie de vérifier revient
 description: En route pour le cinéma, Maud suit l’accord préparé en consultation.
   Noémie choisit le type de présence qu’elle veut à ses côtés.
 slug: noemie-deux-places-au-cinema
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: En route pour une séance de cinéma après un échange commun avec la clinicienne
 tags:
 - TOC
-- Soutien des proches
+- Inquiétude
 - Réassurance répétée
-- Accord partagé
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

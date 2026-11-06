@@ -1,5 +1,5 @@
 ---
-title: Ce que l’affiche dira sous son nom
+title: Décider de ce qu’on rend public sur soi
 description: Armand accepte que son nom accompagne le don. En lisant le projet d’affiche,
   il décide avec Nadia ce qui peut être dit et montré.
 slug: armand-affiche-sous-son-nom
@@ -11,9 +11,9 @@ contexte: Au foyer communal, devant le projet d’affiche de la rencontre
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
+- Choisir pour soi
+- Continuer à transmettre
 - Vie privée
-- Préférences exprimées
-- Participation sociale
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

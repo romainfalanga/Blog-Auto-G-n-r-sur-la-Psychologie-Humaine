@@ -1,5 +1,5 @@
 ---
-title: La table tournée vers les étals
+title: Retrouver sa place à la table de dessin quand la peur demeure
 description: Jules retrouve les dessinateurs du marché. Il choisit une place, demande
   l’accord de Sonia pour un croquis et laisse la suite ouverte.
 slug: jules-table-tournee-vers-les-etalages
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Au marché couvert, à une nouvelle séance de dessin avec Samuel
 tags:
 - Attaques de panique
-- Participation choisie
-- Écoute des limites
-- Vie quotidienne
+- Reprise d’une activité de groupe
+- Liberté de participer ou de partir
+- Accord de la personne qu’on dessine
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

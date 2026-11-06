@@ -1,5 +1,5 @@
 ---
-title: Solène garde les films, Mireille prend la fermeture
+title: Poser ses limites pour reprendre le travail
 description: Le seul créneau confirmé à la médiathèque est le soir. Solène propose
   une autre répartition du travail et un samedi en journée.
 slug: solene-amenagement-horaires-deux-colonnes
@@ -11,9 +11,9 @@ contexte: À la réunion de reprise avec Mireille, après un échange avec la m�
   du travail
 tags:
 - Trouble schizo-affectif
-- Aménagement des horaires
-- Secret médical
-- Répartition du travail
+- Garder sa place au travail
+- Écouter ses limites
+- Choisir ce qu’on partage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

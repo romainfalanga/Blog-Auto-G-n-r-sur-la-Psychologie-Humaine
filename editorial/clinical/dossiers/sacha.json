@@ -1,0 +1,32 @@
+{
+  "references": {
+    "nice-anxiete-sociale": {
+      "title": "NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale",
+      "url": "https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397"
+    },
+    "defenseur-discrimination": {
+      "title": "Défenseur des droits, reconnaître une discrimination et obtenir de l’aide",
+      "url": "https://www.defenseurdesdroits.fr/discrimination-1229"
+    }
+  },
+  "dossier": {
+    "name": "Trouble d’anxiété sociale",
+    "aliases": [
+      "Anxiété sociale",
+      "Phobie sociale"
+    ],
+    "references": [
+      "oms-cddr",
+      "nice-anxiete-sociale",
+      "defenseur-discrimination"
+    ],
+    "points": [
+      "Dans le CDDR de la CIM-11, le trouble d’anxiété sociale (6B04) se rapporte à une peur marquée d’être évalué négativement, dans certaines interactions ou lorsqu’on réalise une tâche sous le regard d’autrui. Les situations peuvent être évitées ou vécues avec une anxiété importante. La difficulté persiste et entraîne une souffrance ou un retentissement significatifs ; le fonctionnement visible peut être maintenu au prix d’un effort important. Une manifestation corporelle, une préférence pour les échanges à deux ou un trac ponctuel ne permettent pas de conclure. OMS CDDR, p. 284–285.",
+      "Le jugement clinique tient compte des normes culturelles et des conditions réelles, notamment de la possibilité d’hostilité ou de harcèlement. Un retrait motivé par une remarque discriminante ou des conditions de travail hostiles n’est pas à requalifier par défaut en symptôme, y compris chez une personne qui a déjà reçu un diagnostic. OMS CDDR, p. 284–287. En France, le Défenseur des droits propose une information et une orientation aux personnes qui s’estiment victimes ou témoins d’une discrimination.",
+      "Le bilan professionnel explore ce que la personne redoute, évite ou supporte à grand coût, les contextes et le retentissement, ainsi que d’autres explications ou troubles associés. Il peut aussi aborder les façons de se protéger du jugement, l’attention portée à sa propre apparence et ce que la personne repasse avant ou après un échange. Si le premier rendez-vous en personne est difficile, NICE envisage un premier contact à distance, avec la perspective de rendez-vous en personne par la suite. NICE CG159, §1.2.4–1.2.8.",
+      "Après le diagnostic, les objectifs du soin se discutent avec la personne. Pour l’adulte, NICE propose en première intention une thérapie comportementale et cognitive (TCC) individuelle spécialement conçue pour ce trouble et conduite par un praticien formé. Il existe des options à discuter selon les préférences ; ni le soin, ni la vie professionnelle ne se résument à une confrontation imposée. NICE CG159, §1.2.9 et §1.3.1–1.3.7.",
+      "Selon l’approche, la TCC peut travailler la concentration sur ce qui se passe autour de soi, l’anticipation et les pensées qui suivent la situation, les conduites destinées à éviter le jugement, et des essais concertés ou une exposition progressive dans le cadre du soin. Elle peut aussi préparer la réponse aux difficultés futures. Une répétition professionnelle à deux et une prise de parole au travail restent des décisions de travail. NICE CG159, §1.3.13–1.3.14."
+    ]
+  },
+  "direction": "À 25 ans, Sacha travaille dans une graineterie et connaît les dates de semis selon les coins du quartier. Partir du plaisir de transmettre et du coût concret des renoncements. Diagnostic par la docteure Rigal à l’épisode 3, après plusieurs contacts ; l’évaluation puis le soin ont leur calendrier propre. Avec Gaspard, collègue aux disponibilités et aux intérêts propres, et Nora, responsable de la graineterie, Sacha façonne une petite démonstration de rempotage. Alterner la boutique, la vie hors du travail et le cabinet. Montrer une vraie remarque discriminante, son traitement au travail et la possibilité de refuser un autre cadre. Les essais de soin se discutent en consultation, les répétitions restent professionnelles, l’aide des proches se négocie. Éviter la courbe de triomphe : le projet aboutit grâce à des choix concrets et l’anxiété peut encore revenir. Laisser une place pleine aux conversations à deux."
+}

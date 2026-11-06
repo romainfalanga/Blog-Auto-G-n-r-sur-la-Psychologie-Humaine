@@ -1,5 +1,5 @@
 ---
-title: Une excuse et une consigne à revoir
+title: S’excuser après un conflit au travail sans effacer le désaccord
 description: Mina et Rachid reprennent leur échange. Ils réparent une part du désaccord
   et demandent à la coordination de clarifier la consigne.
 slug: mina-excuse-et-desaccord
@@ -12,7 +12,7 @@ tags:
 - Profil borderline
 - Trouble borderline
 - Réparation après un conflit
-- Limites
+- Désaccord qui reste ouvert
 - Responsabilités partagées
 categories:
 - Comprendre et maîtriser ses émotions

@@ -1,10 +1,13 @@
 ---
 title: Solène
 date: '2026-11-06T00:00:00+00:00'
-description: Solène, 36 ans, est chargée de diffusion pour un cinéma itinérant et
-  vit avec sa compagne Livia. Elle vit avec un trouble schizoaffectif déjà diagnostiqué.
-  Avec Célestin, bénévole, elle prépare une séance de courts métrages et cherche ce
-  qu’un public de petite salle leur fera entendre autrement.
+description: Solène travaille dans un cinéma itinérant. Elle entend vite quand un
+  silence entre deux films permet à une scène de rester en tête. Elle voudrait que
+  les spectateurs des petites salles puissent donner leur avis à leur manière. Quand
+  sa concentration ou son humeur change, elle hésite à en parler à Livia, sa compagne,
+  de peur que la discussion prenne toute la place. Le suivi de son trouble schizoaffectif
+  et les choix du travail s’entrecroisent. Elle cherche des horaires qu’elle puisse
+  tenir tout en gardant son rôle dans la programmation.
 slug: solene
 prenom: Solène
 date_naissance: '1990-01-01'
@@ -15,82 +18,85 @@ weight: 47
 draft: false
 clinical_code: 6A21
 reading_topics:
-- Trouble schizoaffectif
-- Période intermédiaire
+- Humeur et perceptions
+- Reconnaître ses signes
+- Écouter ses limites
+- Choisir ce qu’on partage
+- Garder sa place au travail
 ---
 
 <h2 class="parcours-section-title">Parcours de Solène</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/">Solène demande ce qu’il y a après la coupe</a></h3>
-    <p class="parcours-resume">Pour choisir le premier court métrage de la tournée, Solène et Célestin écoutent le même passage. Elle y entend son prénom.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/">Entendre son prénom sans pouvoir situer la voix</a></h3>
+    <p class="parcours-resume">Au bout de quatre minutes, les mains disparaissent de l’écran et la chaise reste seule au milieu de l’atelier. Voilà ce qui plaît à Solène dans Les Mains du jour : la réparation est terminée, mais le montage laisse à la personne qui regarde le temps de voir que le siège est encore de travers.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/">Dans la cuisine, Solène choisit qui appeler</a></h3>
-    <p class="parcours-resume">Le prénom revient alors que l’ordinateur est fermé. Solène dit à Livia ce qu’elle a remarqué ces derniers jours et appelle son équipe.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/">Parler à sa compagne quand ses perceptions changent</a></h3>
+    <p class="parcours-resume">Livia ressort son tablier de poterie du sac de courses. Une trace de terre cuite s’est incrustée sous la boucle et se détache en poudre sur le plan de travail.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/">La psychiatre trace deux lignes dans le carnet de Solène</a></h3>
-    <p class="parcours-resume">En consultation, Solène distingue ce qu’elle sait de ses derniers jours de ce qu’elle reconstitue avec la psychiatre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/">Comprendre ce qui relie l’humeur et les perceptions</a></h3>
+    <p class="parcours-resume">La docteure Da Costa demande à Solène si elle souhaite garder le carnet devant elle. Solène le tourne de manière à pouvoir lire les dates sans se pencher. « Si je vous dis que j’ai d’abord cessé d’écouter la radio, est-ce que vous allez écrire que ça a commencé là ? » La question lui est venue dans le bus.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/">Une séance de jour pour voir trois films</a></h3>
-    <p class="parcours-resume">Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer les trois films et propose un horaire de jour.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/">Reprendre un projet après une période difficile</a></h3>
+    <p class="parcours-resume">Célestin pose le plan de la salle des Tilleuls à l’envers. Solène le tourne en gardant un doigt sur la prise qui est la plus éloignée de l’entrée. La mairie leur propose un essai un samedi après-midi, avant de confirmer la date de la séance publique.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/">La caméra reste dans le sac aux Tilleuls</a></h3>
-    <p class="parcours-resume">Après l’essai, Célestin propose de filmer les réactions. Solène se demande ce que les gens oseront dire si l’objectif est braqué sur eux.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/">Le regard des autres quand une caméra tourne</a></h3>
+    <p class="parcours-resume">Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Célestin a renoncé à les ranger pour qu’on puisse comparer la lecture des sous-titres devant et au fond.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/">La salle est prise. Solène ouvre son carnet</a></h3>
-    <p class="parcours-resume">Les Tilleuls ne sont plus disponibles pour la séance. Solène garde sa proposition de films et appelle aussi l’infirmière pour un autre sujet.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/">Distinguer un contretemps des signes qui inquiètent</a></h3>
+    <p class="parcours-resume">Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/">Livia donne le code de la porte au Samu</a></h3>
-    <p class="parcours-resume">Après un malaise, Solène ne reconnaît plus bien sa cuisine. Livia appelle le 15 et l’équipe envoyée par le Samu prend le relais.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/">Réagir à la désorientation soudaine d’un proche</a></h3>
+    <p class="parcours-resume">Le samedi, Livia revient de la boulangerie et trouve Solène assise sur le sol de la cuisine, le dos contre un placard. Elle l’entend dire « je me suis retenue au mur » avant de lui dire bonjour.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/">Le bol de Livia n’attend pas le retour au travail</a></h3>
-    <p class="parcours-resume">De retour chez elle, Solène parle de sa fatigue à sa psychiatre. Avec Livia, elle choisit une sortie qui peut durer dix minutes.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/">Faire une place à la fatigue après les soins</a></h3>
+    <p class="parcours-resume">Livia pose sur la table le bol qu’elle a enfin ramené de l’atelier. L’anse frôle le bois. En se passant le bol, elles se coincent les pouces l’une contre l’autre et rient des précautions qu’elles ont prises pour rien.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/">Solène garde les films, Mireille prend la fermeture</a></h3>
-    <p class="parcours-resume">Le seul créneau confirmé à la médiathèque est le soir. Solène propose une autre répartition du travail et un samedi en journée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/">Poser ses limites pour reprendre le travail</a></h3>
+    <p class="parcours-resume">Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/">Du dernier rang, il manque le début de la phrase</a></h3>
-    <p class="parcours-resume">À la médiathèque, Célestin perd des mots au fond de la salle. Solène doit choisir combien de places proposer pour garder le film de l’abribus.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/">Défendre son choix quand les avis divergent</a></h3>
+    <p class="parcours-resume">Du dernier rang, Célestin annonce « Je n’ai que la fin ». Il se penche un peu vers la gauche, puis se redresse. Sur le mur de la médiathèque, les sous-titres de l’abribus sont plus petits qu’aux Tilleuls.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/">« J’ai trouvé le fil quand elle a posé son parapluie »</a></h3>
-    <p class="parcours-resume">Les trois films passent à la médiathèque. Après la séance, une spectatrice demande à laisser une remarque sans prendre de carte.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/">Prendre sa part du travail sans tout porter</a></h3>
+    <p class="parcours-resume">À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/">Solène ajoute du silence entre les films</a></h3>
-    <p class="parcours-resume">Les cartes de la médiathèque proposent deux changements différents. Solène garde la chaise en ouverture et défend une pause avant le film suivant.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/">Écouter des avis différents et décider de la suite</a></h3>
+    <p class="parcours-resume">Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque sur deux tables. La femme au manteau avait écrit « Gardez la chaise au début ». Quelqu’un d’autre, samedi, a demandé si on pouvait laisser plus de silence après ce film.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/" class="parcours-link">Lire</a>
   </div>
 </div>

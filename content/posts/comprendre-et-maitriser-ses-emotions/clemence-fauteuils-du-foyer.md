@@ -1,5 +1,5 @@
 ---
-title: Les fauteuils du foyer
+title: 'Hésiter à rejoindre le groupe après un film : l’appui de Baya'
 description: Après une séance, Clémence demande à Baya un coup de main pour rejoindre
   une conversation sur le film.
 slug: clemence-fauteuils-du-foyer
@@ -10,9 +10,9 @@ sujet: Anorexie mentale
 contexte: choisir une aide ponctuelle pour participer à un moment collectif au ciné-club
 tags:
 - Anorexie
-- Participation sociale
-- Soutien choisi
-- Amitié
+- Difficulté à rejoindre un groupe
+- Appui ponctuel d’une amie
+- Liberté de participer à son rythme
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

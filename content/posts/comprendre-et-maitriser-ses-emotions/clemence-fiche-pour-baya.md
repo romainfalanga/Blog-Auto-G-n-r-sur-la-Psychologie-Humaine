@@ -1,5 +1,5 @@
 ---
-title: La fiche pour Baya
+title: Faire de la place à un goût différent au ciné-club
 description: Baya propose une comédie pour la fin de la soirée. Clémence lui laisse
   une vraie décision à prendre avec la référente du club.
 slug: clemence-fiche-pour-baya
@@ -11,9 +11,9 @@ contexte: partager la programmation en précisant les responsabilités et la lib
   de chacune
 tags:
 - Anorexie
-- Programmation partagée
-- Vie sociale
-- Décisions choisies
+- Différences de goûts
+- Liberté de décider
+- Responsabilités partagées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

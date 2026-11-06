@@ -230,11 +230,13 @@ class V2Tests(unittest.TestCase):
 
     def test_v3_language_guard_preserves_exact_quotes_and_inversions_but_refuses_ambiguous_pronouns(self):
         sources,p=contextual_portrait();p['analysis_version']=3
-        p['summary']='{{prenom}} rapporte « elle m’a répondu ». La mère décrit une réponse.'
+        p['summary']='{{prenom}} rapporte « elle m’a répondu ». Il reste un point à comprendre.'
+        p['psychological_map'][0]['possible_function']='Il est possible d’explorer cette piste.'
+        p['psychological_map'][0]['alternatives']=['Il s’agit peut-être d’une contrainte temporaire.']
         original=copy.deepcopy(p['citations']);personal.validate_portrait_v2(p,sources)
         self.assertEqual(p['citations'],original)
         for text in ('Elle décrit une difficulté.','{{prenom}} précise qu’elle rumine.','La mère pense qu’ils vont répondre.',
-                     'Il reste un point à comprendre.','Une réaction : (elles attendent).'):
+                     'Il semble fatigué.','Il y a vécu deux ans.','Une réaction :elle attend.','Il semble qu’elle attende.'):
             broken=copy.deepcopy(p);broken['summary']=text
             with self.subTest(text=text),self.assertRaisesRegex(ValueError,'portrait_language'):
                 personal.validate_portrait_v2(broken,sources)

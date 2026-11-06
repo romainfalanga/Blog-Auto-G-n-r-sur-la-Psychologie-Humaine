@@ -1,5 +1,5 @@
 ---
-title: Une question dans le noir
+title: Au ciné-club, accueillir une réaction qu’on n’attendait pas
 description: La soirée a lieu. Clémence et Baya présentent leurs films, et une réaction
   de la salle change la discussion qu’elles avaient préparée.
 slug: clemence-question-dans-le-noir
@@ -11,9 +11,9 @@ contexte: mener une soirée partagée au ciné-club et poursuivre les choix de s
   de participation après l’événement
 tags:
 - Anorexie
-- Projet personnel
-- Suivi dans la durée
-- Programmation partagée
+- Écoute d’un point de vue inattendu
+- Participation choisie pour la suite
+- Continuité des soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

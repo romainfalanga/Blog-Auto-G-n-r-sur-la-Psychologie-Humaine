@@ -1,5 +1,5 @@
 ---
-title: Les heures au dos du patron
+title: Dire au médecin ce que la fatigue change au quotidien
 description: Meriem vient voir son médecin pour ses nuits hachées. Elle voudrait que
   la fatigue soit examinée avec le reste de ce qu’elle vit.
 slug: meriem-colonne-des-nuits
@@ -11,9 +11,9 @@ contexte: Au cabinet de son médecin
 tags:
 - TSPT complexe
 - CPTSD
-- Sommeil
-- Retentissement
-- Évaluation clinique
+- Sommeil et fatigue
+- Reconnaître ses besoins
+- Demander du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

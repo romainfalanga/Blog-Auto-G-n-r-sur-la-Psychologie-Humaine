@@ -3,7 +3,7 @@
   --header-muted: #526575;
   --header-line: #d6e0e6;
   --header-accent: #205e54;
-  --header-highlight: #e8f2ef;
+  --header-highlight: #eaf0f3;
   --header-gutter: clamp(1rem, 4vw, 2.5rem);
   position: sticky;
   top: 0;
@@ -79,8 +79,7 @@
   white-space: nowrap;
 }
 .site-header .nav-links a:hover,
-.site-header .nav-links a[aria-current="page"] { background: var(--header-highlight); color: var(--header-accent); }
-.site-header .nav-links a[href="/mon-accompagnement/"] { color: var(--header-accent); font-weight: 700; }
+.site-header .nav-links a[aria-current="page"] { background: var(--header-highlight); }
 @media (840px < width <= 1050px) {
   .header-inner { gap: .625rem; padding-inline: 1rem; }
   .site-header .site-logo { font-size: 1.15rem; }

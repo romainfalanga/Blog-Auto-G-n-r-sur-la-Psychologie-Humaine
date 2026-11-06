@@ -1,5 +1,5 @@
 ---
-title: Le pli du justificatif
+title: Faire le point sur le loyer et choisir ce qu’on partage
 description: Avec son accord, un rendez-vous de conseil budgétaire aide Gabin à distinguer
   ce qui concerne le foyer et ce qui reste à examiner seul.
 slug: gabin-pli-du-justificatif
@@ -12,9 +12,9 @@ contexte: préparer avec un service de conseil budgétaire une information fiabl
 tags:
 - Jeux d’argent
 - Jeu pathologique
+- Transparence dans la colocation
+- Limites de l’aide d’un proche
 - Conseil budgétaire
-- Transparence choisie
-- Charges de la colocation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

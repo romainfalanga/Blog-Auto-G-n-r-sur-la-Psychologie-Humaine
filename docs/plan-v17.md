@@ -8,9 +8,15 @@ Chaque article dispose de son propre texte lié à la scène. Ce texte propose u
 
 ## Repères privés et premier échange
 
-Le premier message invite à raconter une réaction, un échange ou un souvenir, puis indique les pages où écrire ces informations à la main. Dans Mes proches, un réglage unique autorise la mémoire des repères. Après activation, Ambre peut conserver un court extrait exact d’un comportement ou d’un souhait décrit dans la conversation. Le prénom ou pseudonyme unique d’un proche déjà enregistré doit apparaître dans la phrase. Les citations, classées par axe, alimentent la cartographie et le portrait relationnel de cette personne.
+Le premier message présente Ambre et explique comment comprendre son propre fonctionnement et ses relations à partir des échanges. Il indique ensuite les pages où écrire soi-même. Avec l’accord de conversation Ambre, un court extrait exact d’un comportement ou d’un souhait rapporté peut être conservé automatiquement. Le prénom ou pseudonyme unique d’un proche déjà enregistré doit apparaître dans la phrase. Les citations, classées par axe, alimentent sa cartographie et son portrait relationnel.
 
-Les extraits restent modifiables par retrait dans la fiche et sont inclus dans l’export du compte. Le réglage coupe l’ajout de nouveaux repères et la réutilisation des repères dans Ambre. Les cas ambigus, les demandes de discrétion, les situations de crise et les propos repérés comme sensibles sont écartés de l’enregistrement automatique. La fiche distingue les faits rapportés et les hypothèses. Le stockage automatique ne réécrit pas les champs manuels.
+Les extraits peuvent être retirés dans la fiche et sont inclus dans l’export du compte. Le retrait de l’accord Ambre arrête l’ajout et le rappel des repères dans la conversation. L’effacement de la conversation supprime les repères associés. Une désactivation enregistrée avec l’ancien réglage reste respectée jusqu’à un nouvel accord qui inclut la mémorisation. Les cas ambigus, les demandes de discrétion, les situations de crise et les propos repérés comme sensibles sont écartés de l’enregistrement automatique. Les champs manuels restent distincts des citations.
+
+## Lecture du portrait
+
+Le menu d’onglets s’aligne sur le panneau du portrait. Sur téléphone, Mon portrait occupe la première ligne. Les pistes et la synthèse disponibles précèdent l’état de leur mise à jour. Une erreur de chargement permet de retenter l’affichage en conservant le brouillon de présentation.
+
+Le contrôle de formulation distingue les pronoms ambigus des tournures impersonnelles dont le sujet est clair. La validation de l’accord, des citations et des sources reste en place. Le planificateur réserve une tentative aux analyses qui portent l’ancien motif de rejet de formulation, dans les plafonds déjà prévus.
 
 ## Parcours cliniques et agent éditorial
 
@@ -20,6 +26,8 @@ La rédaction se fait directement avec un agent dédié par personnage. La comma
 
 Après la relecture du parcours, `record-review` inscrit la date, les observations et les empreintes du manuscrit et de son dossier dans le registre. L’intégration prépare les douze articles, les repères, la fiche du personnage et les conseils pour les proches. Les contrôles vérifient l’ouverture, la continuité documentée, les sources, les liens et la couverture du catalogue. Les affirmations et les raccords sont relus dans leur contexte. La charte conserve les enseignements de chaque vague.
 
+Les 231 articles des vingt premières fiches ont servi de référence éditoriale. Le titre situe le mécanisme ou le vécu, le résumé de la carte reprend les premières phrases de la scène et le portrait expose la manière de réagir du personnage. Cinq repères psychologiques choisis à partir de son parcours sont affichés sur sa fiche et sur l’accueil. Les trois repères de chaque épisode en précisent le sujet. L’article enchaîne la scène, l’explication et les pistes pour agir, puis revient au récit avant la perspective des proches. Les références de chaque parcours clinique restent accessibles.
+
 ## Vagues relues
 
 | Vague | Parcours | Épisodes |
@@ -28,5 +36,11 @@ Après la relecture du parcours, `record-review` inscrit la date, les observatio
 | 2 | Nour, Antonin, Selma et Gabin | 48 |
 | 3 | Garance, Jules, Clémence et Mina | 48 |
 | 4 | Nils, Solène, Meriem et Armand | 48 |
+| 5 | Blandine, Sacha, Adèle et Côme | 48 |
+| 6 | Hélène, Roxane, Owen et Agathe | 48 |
+| 7 | Célian, Maïwenn, Lison et Augustin | 48 |
+| 8 | Irène, Zéphyr, Diane et Gasparde | 48 |
 
-Mathis et Jules reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. Les dix autres commencent avec un diagnostic établi. Ces 144 épisodes ont porté le nombre de rubriques pour les proches à 531. Le [registre des relectures](../editorial/clinical/releases.json) donne l’état des publications suivantes.
+Mathis, Jules et Sacha reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. À l’épisode 2, Diane revient sur le diagnostic posé pendant son hospitalisation. Ces 384 épisodes portent le nombre de rubriques pour les proches à 771. Le [registre des relectures](../editorial/clinical/releases.json) conserve la vérification de chaque parcours.
+
+La vague 9 commence par Malo, Bérénice, Alix et Louise. La cartographie prévoit 150 parcours cliniques. Après la vague 8, il en reste 118 à rédiger et à relire.

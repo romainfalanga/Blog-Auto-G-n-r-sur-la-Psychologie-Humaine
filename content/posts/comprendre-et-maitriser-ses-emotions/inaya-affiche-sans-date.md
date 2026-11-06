@@ -1,5 +1,5 @@
 ---
-title: Inaya prépare un atelier avec un suivi déjà en place
+title: Poser ses limites avant de promettre une date pour l’atelier
 description: Fleuriste, Inaya prépare un atelier avec sa sœur. Son trouble dépressif
   récurrent fait partie de son histoire, et son suivi est déjà en place.
 slug: inaya-affiche-sans-date
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: La boutique, avant l’ouverture
 tags:
 - Dépression récurrente
-- Trouble dépressif récurrent
-- Histoire des épisodes
-- Suivi professionnel
+- Élan retrouvé
+- Engagements réalistes
+- Expression des limites
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

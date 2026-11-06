@@ -1,5 +1,5 @@
 ---
-title: Deux paniers dans l’entrée
+title: Poser des limites sur les dépenses partagées en colocation
 description: Nora propose de séparer certaines courses le temps de clarifier le loyer.
   Gabin et elle précisent les dépenses qu’ils veulent encore partager.
 slug: gabin-deux-paniers
@@ -13,8 +13,8 @@ tags:
 - Jeux d’argent
 - Jeu pathologique
 - Limites financières
-- Soutien des proches
-- Accords de colocation
+- Accord entre proches
+- Autonomie des colocataires
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: La flèche s’arrête devant les travaux
+title: Retrouver ses repères après un changement de trajet
 description: Un avis de travaux arrive après le repérage. Nour décide ce qu’elle garde
   de la visite et comment indiquer le changement avant le départ.
 slug: nour-travaux-plan-visite
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Chez Nour et à l’entrée du passage, avant le premier jour de visite
 tags:
 - TSA
-- Changement de dernière minute
-- Informations vérifiables
-- Choix entre plusieurs trajets
+- Effort face aux imprévus
+- Besoin de repères
+- Partage des tâches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

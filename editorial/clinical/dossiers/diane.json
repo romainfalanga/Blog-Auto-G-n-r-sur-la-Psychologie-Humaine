@@ -1,0 +1,30 @@
+{
+  "references": {
+    "nice-premier-episode-psychotique": {
+      "title": "NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte",
+      "url": "https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565"
+    },
+    "nsw-ecouter-psychose": {
+      "title": "NSW Health, communiquer avec une personne qui vit une psychose",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx"
+    },
+    "service-public-samu": {
+      "title": "Service Public, numéros d’urgence et aide médicale urgente en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    }
+  },
+  "dossier": {
+    "name": "Trouble psychotique aigu et transitoire",
+    "aliases": ["Psychose aiguë et transitoire"],
+    "references": ["oms-cddr", "nice-premier-episode-psychotique", "nsw-ecouter-psychose", "service-public-samu"],
+    "points": [
+      "OMS, CDDR, 6A23, p. 180 : le passage à un état clairement psychotique se produit dans les deux semaines, sans phase prodromique ; la forme et l’intensité des symptômes changent rapidement. La CIM-11 décrit une durée ne dépassant pas trois mois. Le mot « transitoire » décrit l’épisode évalué et ne garantit pas l’évolution d’une personne.",
+      "OMS, CDDR, 6A23, p. 180, 182–184 : le diagnostic repose sur un tableau d’ensemble et son évolution. Les professionnels examinent notamment si une affection médicale, des substances, des médicaments ou un autre trouble expliquent mieux les manifestations. Une expérience isolée ne suffit pas pour conclure. Une autre hypothèse peut devenir pertinente au suivi.",
+      "NICE CG178, 1.3.1.1–1.3.1.3 et 1.3.3.1–1.3.3.6 : un premier épisode psychotique appelle une évaluation spécialisée sans délai. L’équipe évalue l’état physique et psychique, le contexte et les répercussions concrètes, puis construit avec la personne un plan de soins tenant compte de sa vie sociale et professionnelle.",
+      "NICE CG178, 1.1.4.2–1.1.4.4, 1.1.5.3, 1.5.1.1 et 1.5.3.6 : convenir tôt du partage d’informations avec les proches, considérer leurs besoins, maintenir le suivi après l’épisode et prévoir quel professionnel ou service contacter en cas de difficultés préoccupantes ou de rechute suspectée.",
+      "NSW Health, communication en situation de psychose : parler simplement et calmement, prendre la détresse au sérieux, écouter sans jugement ni confrontation. Reconnaître la peur n’oblige pas à confirmer l’explication de la personne. Cette présence ne remplace pas l’évaluation ni les secours.",
+      "Service Public, aide médicale urgente : en France, le 15 joint le Samu et le 112 est le numéro d’urgence européen. En situation de danger immédiat ou d’urgence médicale, un proche peut décrire la situation et suivre les consignes du service, qui décide de la réponse adaptée."
+    ]
+  },
+  "direction": "Diane, trente ans, agente de bibliothèque, remarque les bords, les couleurs et la place que prennent les objets sur une table. Elle a de l’humour quand on lui laisse le temps de répondre. Elle réserve un bol et une carafe pour l’exposition de l’atelier de Maud, reprend une part de son travail avec sa responsable et parle à son cousin Rémi de paroles dont elle se souvient avec honte. L’épisode aigu reste en arrière-plan. Au deuxième épisode, la psychiatre qui l’a suivie explique le diagnostic après l’évaluation de l’équipe et l’évolution observée depuis l’arrivée à l’hôpital. Les souvenirs de peur restent présentés comme le vécu de Diane. Rémi peut rapporter ce qu’il a vu, poser ses limites et rester son cousin. L’atelier reste un lieu où faire des pièces. Un changement inquiétant en cours de reprise conduit à un appel et à une réévaluation professionnelle montrés ; il ne devient ni un second diagnostic, ni la preuve que toute peur est un signe clinique. Le vernissage résout l’enjeu des deux pièces, tandis que le suivi continue."
+}

@@ -1,5 +1,5 @@
 ---
-title: Le titre effacé
+title: Face à un imprévu au ciné-club, Clémence veut décider vite
 description: La copie choisie par Baya devient indisponible. Clémence et elle décident
   ensemble ce qu’elles gardent de leur accord.
 slug: clemence-titre-efface
@@ -11,9 +11,9 @@ contexte: revoir une décision commune après un imprévu et séparer la program
   des questions de santé
 tags:
 - Anorexie
-- Imprévu
-- Participation au ciné-club
-- Choix en commun
+- Besoin de certitude face à l’imprévu
+- Écoute d’une autre proposition
+- Révision d’un accord commun
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Les clarinettes retrouvent la salle
+title: 'Le local rouvre : Antonin passe le relais malgré ses inquiétudes'
 description: Le local a reçu son autorisation de rouvrir. Antonin accueille l’ensemble
   de clarinettes et choisit quand passer la clé à la permanence.
 slug: antonin-repetition-reprend
@@ -11,9 +11,9 @@ contexte: Lors de la première répétition dans le local remis en service
 tags:
 - TAG
 - Anxiété généralisée
-- Reprise d’activité
-- Relais au travail
-- Inquiétude persistante
+- Inquiétudes persistantes
+- Doute après avoir délégué
+- Limites au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

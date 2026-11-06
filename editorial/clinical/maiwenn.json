@@ -1,0 +1,448 @@
+{
+  "character_id": "maiwenn",
+  "bio": "Maïwenn, 16 ans, tient la rubrique photo du journal du lycée. Elle aime les lieux un peu avant l’heure, quand les gens qui installent les tables croisent ceux qui tirent les grilles. Elle sait raconter ce qu’elle a vu, mais se tait parfois si elle pense qu’on attend d’elle une phrase impeccable. Avec Lou, elle prépare un reportage sur les premières heures du marché. Elle tient à ce que leurs deux noms figurent sous le titre et qu’on entende, dans les légendes aussi, ce qui lui a fait lever son appareil.",
+  "profile_topics": [
+    "Effort invisible",
+    "Crainte du jugement",
+    "Confiance pour demander de l’aide",
+    "Limites dans la collaboration",
+    "Sentiment de légitimité"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "maiwenn-proposer-un-reportage",
+      "title": "Oser proposer un reportage au journal du lycée",
+      "description": "Maïwenn veut photographier le marché avant l’arrivée des clients. Quand vient son tour de proposer le sujet, sa première phrase est encore raturée.",
+      "context": "Un jeudi midi, dans la salle du journal du lycée",
+      "topics": [
+        "Crainte du jugement",
+        "Prise de parole",
+        "Effort invisible"
+      ],
+      "opening": "Maïwenn cache sa proposition sous une photo de la halle : elle a barré trois fois la première ligne et la réunion du journal va finir. Elle voudrait raconter qui prépare les places du marché avant l’arrivée des clients.\n\nLa halle, sur le tirage, est prise de l’extérieur. On ne voit que le bas de la grille, un trait de lumière et le bout d’un chariot. Maïwenn a fait la photo en allant chercher du pain dimanche dernier. Elle avait prévu de la rapporter pour sa rubrique, puis elle s’est demandé combien de gens il fallait pour transformer cette grande pièce vide en marché. Lou est la seule, à la table, à retourner le tirage. Elle pense y trouver la légende. Maïwenn sait que le dos est blanc.\n\nMme Lenoir annonce qu’il reste le temps pour une proposition. Maïwenn récupère sa feuille, essaie de reprendre la phrase après la troisième rature et ne sait plus à quoi renvoie son « ils ». Depuis le début de la réunion, elle hésite entre lire ce qu’elle a écrit et attendre le prochain numéro. Elle entend déjà le raclement des chaises. Elle glisse la feuille sous son cahier et pousse le tirage jusqu’au milieu de la table. « Je voudrais qu’on arrive avant les clients. On raconte comment les places se font. » Puis elle ajoute, en se tournant vers Lou : « Tu viendrais avec moi ? J’ai aussi envie d’écrire des bouts. »",
+      "sections": [
+        {
+          "heading": "Une idée peut arriver avant sa phrase",
+          "text": "Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée. Chez Maïwenn, le diagnostic a déjà été posé. Dans cette réunion, personne n’a vu le temps consacré à ce brouillon. Elle sait en revanche quel détail l’a fait s’arrêter devant la halle et quelles questions ce détail lui donne envie de poser."
+        },
+        {
+          "heading": "Écouter d’abord la proposition",
+          "text": "Un tirage posé sur une table permet ici de commencer par le sujet. La photo indique un lieu et Maïwenn précise à l’oral ce qu’elle veut y chercher ; le groupe peut déjà lui répondre sur le fond. Cela ne règle pas la rédaction à venir. Ça évite que l’idée soit écartée avant d’avoir été discutée. Lou demande si elles suivraient une seule personne ou plusieurs. La question plaît à Maïwenn : elle sait qu’elle aurait sauté directement aux images. Elle dit qu’elle veut d’abord voir comment les gens se croisent dans la halle. Elles vont écrire au gardien pour savoir si une visite est possible."
+        }
+      ],
+      "ending_title": "Retourner le tirage",
+      "ending": "Avant de partir, Maïwenn prend le crayon que Lou lui tend. Au dos de la photo, elle écrit seulement « avant les clients ». C’est ce qui restera sur le tableau des sujets. Elles ouvrent le message de demande de visite sur l’ordinateur du journal et le relisent ensemble. Lou se charge de l’envoyer après l’accord de Mme Lenoir. Maïwenn emporte la feuille raturée ; personne n’a besoin de la recopier pour que le sujet existe.",
+      "mirror": [
+        "Si Maïwenn perd le fil en lisant sa proposition, Mme Lenoir peut lui dire : « Tu peux me montrer la photo et me dire ce qui t’a arrêtée. » Elle peut ensuite poser la même question de fond qu’aux autres élèves. Laisser une façon différente de présenter l’idée ne lui enlève pas sa part du travail à venir. Lou peut lui demander quel bout elle aimerait écrire et noter sa réponse avant de répartir les rôles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Maïwenn propose le sujet à partir du tirage et invite Lou en annonçant qu’elle veut aussi écrire.",
+        "next": "Le groupe retient le sujet. Après accord de Mme Lenoir, Lou envoie avec Maïwenn la demande de visite au gardien."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "maiwenn-prendre-part-au-reportage",
+      "title": "Craindre d’être cantonnée aux photos sous la halle",
+      "description": "Sous la halle, Lou prend des notes pendant que Maïwenn cadre. Maïwenn interrompt la visite pour poser elle aussi sa question au gardien.",
+      "context": "Un dimanche tôt, dans la halle municipale avant l’ouverture au public",
+      "topics": [
+        "Sentiment de légitimité",
+        "Répartition des rôles",
+        "Pression de l’instant"
+      ],
+      "opening": "Lou a déjà tourné une page de son carnet quand Maïwenn arrive à écrire le premier mot. Sous la halle, les roulettes d’une table traversent une bande de lumière et l’homme qui la pousse siffle pour qu’on lui dégage le passage.\n\nRachid, le gardien, a répondu au message du journal et leur a donné rendez-vous près de la petite porte. Il leur a indiqué où rester pour ne pas gêner les chariots. À côté de lui, un plan fixé au bord d’une table par une pince à linge orange remue dans le courant d’air. Maïwenn cadre le plan de biais, assez bas pour qu’on voie la pince sans lire les noms. Derrière elle, Lou demande à quelle heure tout le monde est arrivé. Rachid lui répond, puis montre une table qui pivote : « On laisse la place pour les chariots. » Maïwenn voudrait noter la phrase. À peine a-t-elle commencé que Lou pose une autre question et que le gardien désigne autre chose.\n\nLou lui glisse : « Continue tes photos, j’ai les mots. » Maïwenn serre sa courroie. Lou a effectivement les mots dans son carnet ; elle a surtout ceux qu’elle est venue chercher. Maïwenn a remarqué la manière dont la table entre de travers sans rien heurter. Elle baisse l’appareil. « Attends, je peux lui demander pourquoi ils la prennent par ce côté ? » Lou referme son carnet sur un doigt. Rachid suit le geste de Maïwenn, puis leur montre le poteau qui oblige à tourner avant de passer.",
+      "sections": [
+        {
+          "heading": "Le temps qu’on ne voit pas sur place",
+          "text": "Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi. Maïwenn voudrait garder les mots exacts du gardien tout en suivant ce qu’il montre ; si elle s’attarde à écrire, la scène continue sans elle. Lou pensait lui libérer les mains en prenant toutes les notes. Son offre prend un autre sens quand Maïwenn comprend qu’elle risque aussi de perdre le moment où l’on choisit ce qui sera raconté."
+        },
+        {
+          "heading": "Prendre appui sur la note de l’autre",
+          "text": "Se répartir des tâches n’oblige pas à séparer les idées de la personne qui les mettra ensuite en phrases. Elles conviennent que Lou note les mots du gardien quand Maïwenn le lui demande. Maïwenn place une étoile près des passages qu’elle veut retrouver et continue à poser ses questions. Au calme, elle décidera quelles notes relier à quelles photos. L’étoile est un repère pour ce carnet et ce reportage, pas une solution pour toutes les tâches écrites. Elle évite aujourd’hui de devoir tout retenir pendant que Rachid leur explique le trajet des tables."
+        }
+      ],
+      "ending_title": "Une étoile au bord du carnet",
+      "ending": "Rachid accepte qu’elles prennent aussi un portrait de lui pour leur brouillon, à condition de donner son accord avant qu’elle paraisse dans le journal. Maïwenn le lui promet. Elle prend une seule photo, puis rejoint Lou contre le mur. À côté de la phrase sur les chariots, elle dessine l’étoile convenue avec Lou. En sortant, elle dit à Lou qu’elle veut écrire la légende de cette table. Lou lui passe le carnet pour qu’elle puisse reprendre les mots à tête reposée.",
+      "mirror": [
+        "Quand Lou voit Maïwenn lever la tête de son carnet, elle peut lui laisser la prochaine question : « Tu veux que je note la réponse pour qu’on y revienne ? » Si Maïwenn accepte, une courte citation et un repère suffisent pour leur travail. Lou peut aussi dire quand elle aura besoin de se concentrer sur ses propres questions. L’accord fonctionne si chacune peut demander ou décliner un coup de main en cours de visite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn interrompt la visite pour poser sa propre question. Elle et Lou choisissent les notes partagées sur demande. Le portrait reste soumis à l’accord de Rachid.",
+        "next": "Maïwenn repart avec les notes de Lou et veut rédiger la légende de la table. Il faudra montrer à Rachid l’image et obtenir son accord avant d’imprimer le numéro."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "maiwenn-relire-la-dictee",
+      "title": "Reprendre la main quand la dictée change une légende",
+      "description": "Au CDI, la dictée vocale aide Maïwenn à lancer sa légende. Un seul mot entendu de travers suffit à changer ce qu’elle avait voulu raconter.",
+      "context": "Un lundi après les cours, sur un poste du CDI",
+      "topics": [
+        "Frustration",
+        "Sentiment de maîtrise",
+        "Recherche d’appuis"
+      ],
+      "opening": "Au CDI, Maïwenn dicte « cale » à l’ordinateur et voit apparaître « case ». Dans sa légende, Rachid pose maintenant une case sous le pied de la table.\n\nElle se penche pour vérifier la photo. Au bord du cadre, un bout de bois est coincé entre le carrelage et le pied en métal. Dans le haut de l’image, deux doigts reposent sur le plateau. Elle revoit Rachid appuyer deux fois sur le plateau pour vérifier que ça ne bouge plus. La veille, elle avait commencé à taper la légende, puis était restée longtemps sur la première phrase : chaque correction la ramenait au début, et elle avait fini par perdre la suite. Aujourd’hui, avec l’accord de la documentaliste, elle essaie la dictée sur un poste du CDI. Elle dicte son propre texte ; les paroles du gardien restent dans le carnet de Lou.\n\nLa phrase suivante arrive d’un trait. C’est le moment qu’elle avait peur de perdre : l’instant où le pied en métal cesse de claquer contre le carrelage. Elle se redresse, contente de le voir écrit. Puis son regard revient à « case ». Elle imagine la légende tirée en cent exemplaires, et une lectrice qui chercherait en vain une case sur la photo. Elle a envie de tout effacer et de reprendre au clavier. Elle revient plutôt au premier mot qui la gêne, le surligne et termine la légende à voix basse. Elle décidera ensuite ce qui est vraiment à garder.",
+      "sections": [
+        {
+          "heading": "Dicter une phrase, puis vérifier ce qu’elle dit",
+          "text": "La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre. Maïwenn apprécie de pouvoir enchaîner ses deux phrases tant qu’elle entend encore dans sa tête le choc du plateau. Le logiciel, lui, ne voit pas la cale sur la photo ; « case » est un mot possible et ne sera pas forcément signalé comme une erreur. Le brouillon lui rend une partie de son élan, mais il lui reste un vrai travail d’autrice : vérifier le sens, décider ce qu’elle garde et corriger la forme."
+        },
+        {
+          "heading": "Relire avec un seul objectif à la fois",
+          "text": "Maïwenn se donne d’abord une question simple : est-ce bien ce qui s’est passé devant elle ? Elle rouvre la photo, rectifie « case » et retire une indication de temps qu’elle n’a pas notée. Il lui restera une vérification des accords, qu’elle préfère faire un peu plus tard. Une voix de synthèse peut faire entendre une substitution de mot ; elle ne fait pas entendre toutes les marques écrites et ne remplace pas la lecture du texte. Maïwenn en retient la possibilité d’un appui. Le jour où parler ou écouter n’est pas pratique, elle pourra revenir à des notes au clavier."
+        }
+      ],
+      "ending_title": "Deux phrases dans le document",
+      "ending": "Elle copie les deux phrases dans le document commun. Dans le message à Lou, elle écrit : « Tu me dis si tu vois bien le geste ? » Elle laisse l’ordinateur s’éteindre sans attendre la réponse. Sur le chemin du retour, elle se demande encore si la cale mérite deux phrases. Elle a au moins un passage dont elles peuvent discuter. Hier, au même moment, elle avait seulement une ligne barrée et l’image très nette du plateau qui bouge.",
+      "mirror": [
+        "Si Maïwenn demande à Lou si l’on comprend la scène, Lou peut lui dire ce qu’elle voit en lisant : « Je vois le morceau de bois, mais je ne sais pas ce que Rachid fait ensuite. » Elle peut demander si Maïwenn souhaite aussi un retour sur la forme, maintenant ou plus tard. Une réponse sur le sens suffit si c’est ce que Maïwenn a demandé. La dictée n’oblige ni à corriger le texte de l’autre ni à changer d’outil."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn conserve la dictée comme essai de brouillon, rétablit le sens et demande à Lou un retour sur le geste.",
+        "next": "Le passage figure dans le document partagé. La demande de commentaire ne vaut pas accord pour modifier les phrases."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "maiwenn-garder-sa-phrase",
+      "title": "Craindre de perdre sa voix dans un brouillon à deux",
+      "description": "Maïwenn lit une autre version de sa légende, proposée par Lou. Elle est plus courte, mais elle a perdu le bruit qui lui avait fait prendre la photo.",
+      "context": "Un mardi soir, à la table de la cuisine",
+      "topics": [
+        "Limites dans la collaboration",
+        "Confiance entre coautrices",
+        "Rapport à la correction"
+      ],
+      "opening": "À la table de la cuisine, Maïwenn découvre une autre version de sa légende, dans une copie proposée par Lou. La cale en bois y est toujours. Le bruit qui lui avait fait lever l’appareil, lui, a disparu.\n\n« Rachid stabilise la table avec une cale en bois », a écrit Lou. C’est exact. C’est aussi ce qu’on peut deviner d’un coup d’œil. Dans sa version, Maïwenn avait ajouté : « Après deux coups, le plateau se tait. » Quand elle ouvre les deux fichiers l’un à côté de l’autre, elle trouve la phrase de Lou plus nette. Elle n’a pas envie que la sienne gagne juste parce que c’est la sienne. Elle n’a pas non plus envie de la céder parce qu’elle a mis du temps à l’écrire.\n\nSa mère cherche le dessous-de-plat dans le tiroir et lui demande si elle mange ici. Maïwenn se décale au bout de la table, puis envoie un message à Lou : « Est-ce que tu n’avais pas compris le geste, ou est-ce que tu voulais gagner de la place ? » Lou répond qu’elle avait compris ; elle essayait de raccourcir, au cas où. Elle ajoute qu’elle ne savait pas quoi faire d’un pronom dans la première phrase. Maïwenn lui propose d’en parler directement dans le document commun. « Montre-moi le mot qui te gêne. Si tu vois une version plus courte, dis-moi d’abord ce qu’on perd. »",
+      "sections": [
+        {
+          "heading": "Une correction et une réécriture n’ont pas le même effet",
+          "text": "Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise. Lou cherchait une légende courte, Maïwenn voulait faire entendre l’instant où la table cesse de taper. Le choix entre ces deux effets relève du reportage. Clarifier à qui renvoie un pronom relève de la compréhension ; vérifier un accord demande encore une autre attention. On peut travailler sur ces trois questions sans faire de la rapidité de chacune un verdict sur sa façon d’écrire."
+        },
+        {
+          "heading": "Choisir le mode de relecture avant de toucher au texte",
+          "text": "Sur leur page commune, elles gardent le texte d’origine et ouvrent les commentaires. Elles pourront signaler une phrase difficile à comprendre, proposer une autre version à côté, puis décider ensemble des changements qui touchent leur angle. Si l’une demande seulement un avis sur le sens, l’autre commence par là. Elles réserveront un second passage aux accords et à la ponctuation. Cette manière de faire prend un peu plus de temps que d’envoyer une copie déjà réécrite. Elle leur permet de comparer deux phrases pour ce qu’elles racontent, sans présumer que l’une des deux veut être corrigée tout de suite."
+        }
+      ],
+      "ending_title": "Entendre encore le plateau",
+      "ending": "Maïwenn remplace le pronom par « Rachid », puis relit les deux phrases à voix basse. Lou lui écrit qu’elle comprend maintenant qui a glissé la cale. Le plateau se tait toujours. Elles laissent un commentaire près de la légende pour penser à vérifier sa longueur sur la maquette. Si elle déborde, elles regarderont ensemble quel détail peut quitter la page. Maïwenn referme la copie de Lou et pose enfin son assiette sur la table.",
+      "mirror": [
+        "Devant une version plus courte, Lou peut dire ce qu’elle cherchait à obtenir : « J’essayais de gagner une ligne. Est-ce que tu veux qu’on trouve où la prendre ? » Elle n’a pas besoin d’écrire à la place de Maïwenn pour lui signaler un passage qui accroche. Si elle manque elle-même de temps, elle peut l’annoncer et limiter sa relecture à une question convenue. Un commentaire peut attendre la réponse de l’autre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn garde la phrase sur le plateau et clarifie elle-même le pronom. Les deux autrices choisissent les commentaires avant toute modification du texte commun.",
+        "next": "Il faut mesurer la place réelle de la légende et prévoir une passe sur le sens, puis sur la forme, avant le bouclage."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "maiwenn-compter-le-temps-de-relecture",
+      "title": "Faire compter le temps de relecture au journal du lycée",
+      "description": "Il reste une page et le groupe parle déjà d’imprimer. Maïwenn doit décider à quoi renoncer pour garder le temps de relire avec Lou.",
+      "context": "Un jeudi après les cours, à huit jours du bouclage",
+      "topics": [
+        "Effort invisible",
+        "Affirmation de ses besoins",
+        "Négociation"
+      ],
+      "opening": "Sur le tableau du journal, une seule case sépare « rendre » d’« imprimer ». Maïwenn y a compté les légendes à relire, un texte à vérifier et des mots dont elle hésite encore à demander l’orthographe.\n\nSofiane a apporté la maquette : une page pour le marché, à côté des résultats du tournoi. Il peut garder une place pour trois images, à condition d’avoir la page définitive vendredi prochain à seize heures. Maïwenn voudrait montrer la table qu’on vient de caler, la pince orange sur le plan et le portrait que Rachid doit encore voir. Lou lui montre du doigt un petit emplacement sur le côté où tiendrait leur encadré sur les autres arrivées de la matinée. Tout rentre quand on regarde seulement les rectangles.\n\n« Vous aurez juste à relire », dit Sofiane en effaçant une marque de craie. Maïwenn pourrait dire oui : elle aimerait voir les trois images côte à côte. À la place, elle approche la maquette et touche successivement les emplacements des légendes. Elle explique qu’à deux elles peuvent faire mercredi une passe sur le récit et les paroles du gardien, mais qu’il leur faut un autre moment vendredi pour revoir l’orthographe et la ponctuation sur l’épreuve. Elle propose de réserver deux photos et une place facultative pour l’encadré. Sofiane ne pourra plus agrandir l’article plus tard : il a besoin de bloquer la place du tournoi. Maïwenn regarde encore un instant les trois rectangles, puis confirme qu’elle en enlève un.",
+      "sections": [
+        {
+          "heading": "Le travail derrière une page qui tient",
+          "text": "Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante. Maïwenn, elle, sait ce qui se passe quand elle essaie de vérifier le sens et la forme en même temps : elle revient au début et finit parfois par ne plus savoir ce qu’elle cherchait. En disant ce qu’il reste à faire, elle donne au groupe un élément de travail dont il peut se servir."
+        },
+        {
+          "heading": "Décider avec le groupe de ce qui peut bouger",
+          "text": "La date de remise ne change pas. Mme Lenoir demande ce qui peut sortir de la page si le temps manque. Lou tient à montrer l’ordre dans lequel le marché prend forme ; Maïwenn tient à ce que chaque photo raconte quelque chose de différent. Deux images peuvent suffire à leur idée. Elles gardent l’encadré comme élément que l’on peut retirer sans refaire toute la page. Quand des difficultés semblables pèsent sur le travail de classe, les adaptations se discutent dans le cadre scolaire et peuvent s’articuler avec le suivi, selon les besoins. Ici, Mme Lenoir règle d’abord avec le groupe un délai et un volume de travail."
+        }
+      ],
+      "ending_title": "Deux rectangles et une marge",
+      "ending": "Maïwenn conserve deux places : la table et, si Rachid valide l’image, le portrait. Elle range la pince orange parmi les solutions de remplacement. À la fin de la réunion, Mme Lenoir lui demande à part si elle souhaite reprendre aussi ce qui lui coûte du temps dans ses travaux de classe. Elles en ont déjà parlé ensemble. Maïwenn lui répond qu’elle veut finir de préparer le journal aujourd’hui ; elles reprendront cette autre question en privé la semaine suivante.",
+      "mirror": [
+        "Quand Maïwenn dit que « juste relire » lui prendra du temps, Sofiane peut demander : « De combien de passages avez-vous besoin avant que je fige la page ? » Il peut donner son heure limite et dire quelle place il peut vraiment garder. Mme Lenoir peut faire discuter les contraintes communes devant le groupe. Elle peut aussi proposer un échange à part si Maïwenn souhaite parler de sa scolarité. La réunion du journal n’a pas besoin d’informations sur sa santé pour avancer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Maïwenn accepte deux images et un encadré facultatif pour réserver deux moments de vérification. Elle remet à plus tard l’échange privé sur la classe.",
+        "next": "Le bouclage est fixé au vendredi de la semaine suivante à 16 heures. Les faits seront vérifiés mercredi. Le portrait attend l’accord de Rachid ; la pince orange reste une solution de remplacement."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "maiwenn-choisir-un-indice",
+      "title": "Demander un indice avant une correction chez l’orthophoniste",
+      "description": "Maïwenn montre deux phrases à son orthophoniste. Elle veut pouvoir choisir entre chercher elle-même et demander une réponse.",
+      "context": "Un vendredi après les cours, au cabinet de son orthophoniste",
+      "topics": [
+        "Confiance pour demander de l’aide",
+        "Peur de perdre la main",
+        "Autonomie"
+      ],
+      "opening": "Chez Mme Simon, son orthophoniste, Maïwenn a apporté deux phrases du reportage et une question qu’elle n’a pas encore posée à Lou. Quand quelqu’un connaît déjà la correction, est-ce qu’il peut attendre un peu avant de la lui donner ?\n\nMme Simon la suit depuis avant le projet du journal. Ce jour-là, sur sa table, il y a deux crayons et une feuille sur laquelle Maïwenn a recopié deux phrases de son brouillon. Elle n’a apporté ni le carnet de notes ni le portrait du gardien. Elle montre la phrase qui lui pose problème. Elle sait qu’un verbe y accroche. À force de le relire, elle a changé deux fois la terminaison. « Si tu me dis le mot entier, je vais le mettre. Mais je ne saurai pas ce que j’avais raté. » Mme Simon lui demande ce qu’elle voudrait d’abord repérer. Maïwenn retourne sa feuille et recopie seulement le morceau où elle hésite.\n\nL’orthophoniste lui propose de montrer la zone du problème ou de regarder avec elle ce qui commande l’accord. Maïwenn prend un des crayons : « Montre-moi juste où chercher. » Elle essaye, suit deux mots avec la pointe et s’arrête. Elle demande alors qu’on l’aide à revoir le lien entre eux. Cette fois, elle choisit sa correction après l’avoir expliquée à voix haute. « En réunion, je ne voudrai pas toujours faire tout ça », précise-t-elle. Il leur reste une autre phrase ; elle demande qu’on lui indique directement une formulation possible pour celle-là.",
+      "sections": [
+        {
+          "heading": "Une aide peut changer de taille",
+          "text": "Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne. Au cabinet, Maïwenn a du temps pour chercher un accord et dire ce qu’elle a compris. Elle voudra parfois une indication brève, parfois regarder la phrase avec Mme Simon, parfois entendre une proposition qu’elle pourra accepter ou écarter. Ces réponses peuvent convenir à des moments différents. Mme Simon adapte le travail à l’objectif de la séance et au suivi déjà engagé. Le choix que fait Maïwenn ici ne donne aucune consigne sur le soin ou les exercices d’une autre personne."
+        },
+        {
+          "heading": "Garder le choix dans un travail à deux",
+          "text": "Au journal, Lou n’a pas le rôle de Mme Simon. Elle peut signaler un passage, écouter Maïwenn ou formuler une suggestion dans le document. Elles peuvent aussi convenir de passer à autre chose si l’aide prend plus de temps qu’elles n’en ont. Maïwenn explique à Mme Simon ce qu’elle voudrait demander à Lou : qu’elle indique d’abord où elle bute, puis qu’elle attende sa réponse avant de proposer une nouvelle phrase. Elle pourra en reparler en suivi si l’essai l’aide peu ou si le même problème se pose régulièrement ailleurs. C’est Maïwenn qui décidera quelles phrases apporter."
+        }
+      ],
+      "ending_title": "Une demande de deux lignes",
+      "ending": "Avant de reprendre son manteau, Maïwenn écrit à Lou : « Sur les accords, montre-moi le passage avant de donner ta réponse, sauf si je te la demande. Je peux faire pareil pour toi. » Lou lui répond qu’elles essaieront sur deux phrases et verront le temps que ça prend. Maïwenn range sa feuille dans une poche différente de celle où elle garde les tirages. Au prochain passage à la halle, elle veut pouvoir sortir son appareil sans chercher au milieu de tous ses papiers.",
+      "mirror": [
+        "Lou peut répondre à la demande par une question courte : « Tu veux que je montre le passage, ou que je te propose une version ? » Elle peut attendre que Maïwenn choisisse, puis la laisser décider si elle garde la suggestion. Si elles n’ont que quelques minutes, Lou peut dire ce qu’elle pourra regarder et remettre le reste à un autre moment convenu. Elle n’a pas à reproduire une séance d’orthophonie ni à juger ce que Maïwenn y apprend."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla-medecin",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn essaie en suivi plusieurs degrés d’aide et demande à Lou de lui montrer le passage avant de proposer une correction.",
+        "next": "Lou accepte un essai limité à deux phrases. Elles prévoient de repasser à la halle et peuvent ajuster l’appui selon le lieu et le temps."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "maiwenn-garder-le-brouillon-pour-soi",
+      "title": "Garder son brouillon pour soi dans le bus du retour",
+      "description": "Dans le bus, la dictée vocale mélange les mots de Maïwenn au bruit des portes. Elle hésite à répéter plus fort une phrase qu’elle vient de trouver.",
+      "context": "Le dimanche suivant, dans le bus qui passe devant la halle",
+      "topics": [
+        "Crainte du jugement",
+        "Intimité",
+        "Souplesse face aux imprévus"
+      ],
+      "opening": "Dans le bus du retour, Maïwenn baisse son téléphone au moment de répéter sa phrase : le garçon devant elle vient d’enlever ses écouteurs. La première dictée a mélangé la fin de ses mots au bruit des portes.\n\nElle et Lou sont repassées devant la halle ce matin. Rachid leur avait accordé cinq minutes au seuil pour qu’elles regardent le trajet d’une table depuis la rue. À cet angle, le plateau a paru avancer tout seul avant qu’une main apparaisse par la petite porte. Maïwenn voudrait que le reportage commence avec ce décalage. Elle a trouvé une phrase en montant dans le bus, a sorti son téléphone et n’a pas osé la dire assez fort. Maintenant, la moitié des mots manque. Si elle recommence à voix haute, la phrase risque d’être plus nette sur l’écran. Le garçon pourra aussi l’entendre.\n\nLou aperçoit le téléphone tourné vers la vitre. « On attend d’arriver ? » Il leur reste encore plusieurs arrêts et elles descendent à des endroits différents. Maïwenn voudrait profiter du temps où elles sont ensemble. Elle essaie d’écrire la phrase au clavier, bute sur un mot, revient à la photo du seuil et renonce à la phrase entière. Elle tape « plateau / main ensuite », puis tend le téléphone à Lou. « Regarde dans cet ordre. Tu as vu pareil ? »",
+      "sections": [
+        {
+          "heading": "Un outil change d’usage quand le lieu change",
+          "text": "L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise. Au CDI, Maïwenn pouvait dicter assez bas et reprendre son texte devant un écran stable. Dans le bus, elle doit à la fois surveiller ce que le téléphone a compris et décider si elle veut que des inconnus entendent le brouillon. Son choix de ranger la dictée tient à ces deux choses. Il ne dit pas que la dictée a cessé de lui être utile. Sur un autre trajet, elle pourrait préférer n’écrire aucun mot."
+        },
+        {
+          "heading": "Sauver l’observation avant de chercher la phrase",
+          "text": "En gardant deux repères et une image, Maïwenn retrouve quelque chose dont elle peut discuter sans fixer la formulation. Lou lui fait remarquer qu’elle a vu le plateau depuis la rue et qu’un lecteur doit savoir d’où elles regardent. À leur descente, chacune pourra reprendre l’idée à sa manière. Elles n’ont pas besoin de finir la scène en marchant ni de convertir l’échange en exercice. Le temps perdu à faire marcher un outil compte aussi ; choisir un brouillon plus court est une façon de réserver de l’attention à l’ordre des gestes et au lieu."
+        }
+      ],
+      "ending_title": "Le téléphone repasse de l’autre côté",
+      "ending": "Deux arrêts avant le sien, Lou rend le téléphone. Elle propose de garder pour le texte l’idée du plateau qui apparaît avant la main, et de relire la description mercredi avec le carnet. Maïwenn tape « depuis la rue » sous ses deux repères. Pendant une seconde, elle essaie de retrouver sa phrase mot pour mot. Elle revient à ce qu’elle a vu : un petit délai entre le plateau et la main, qui vaut la peine d’être raconté. Elle range le téléphone. Il leur reste jusqu’à l’arrêt de Lou pour discuter d’autre chose. Maïwenn lui demande comment son groupe s’est retrouvé avec une caisse claire de trop.",
+      "mirror": [
+        "Si l’autre renonce à dicter dans un lieu où on l’entend, Lou peut demander : « Tu veux me montrer un mot, ou on reprend plus tard ? » Elle peut accepter les deux réponses et éviter de lire le brouillon à voix haute sans accord. Si elle descend avant, un point de reprise convenu peut suffire. Préserver l’idée ne demande pas de transformer le trajet en séance de relecture."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn arrête la dictée dans le bus et garde les mots qui lui permettront de retrouver le point de vue. Lou ajoute qu’il faut préciser la place des observatrices.",
+        "next": "L’ouverture depuis la rue sera reprise mercredi avec le carnet. La dictée reste un appui possible au calme."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "maiwenn-dire-le-besoin-a-la-cantine",
+      "title": "Demander de l’aide sans devoir se raconter à la cantine",
+      "description": "À la cantine, Lou propose d’expliquer à l’équipe pourquoi il faut du temps. Maïwenn préfère dire elle-même de quoi elles ont besoin pour boucler.",
+      "context": "Le lundi midi, à la cantine du lycée, après un échange avec Mme Lenoir",
+      "topics": [
+        "Limites dans la collaboration",
+        "Confiance pour demander de l’aide",
+        "Partage de l’intime"
+      ],
+      "opening": "À la cantine, Lou propose d’écrire au groupe pour lui expliquer pourquoi la relecture prend du temps. Maïwenn cesse d’éplucher sa clémentine : elle ne sait pas exactement ce que Lou s’apprête à raconter.\n\nElle sort du rendez-vous avec Mme Lenoir dont elles avaient parlé jeudi. Elles ont repris un travail de français en privé. Pour le prochain retour sur copie, elles essaieront de distinguer ce qui concerne l’enchaînement des idées de ce qui concerne la langue. Maïwenn est contente d’avoir trouvé une demande précise pour la classe. Maintenant que son plateau est posé en face de Lou, elle ne tient pas à expliquer d’où elle vient ni ce qui se dit dans ces rendez-vous.\n\nLou a seulement vu le message du groupe. Sofiane demande à quelle heure il pourra récupérer l’épreuve vendredi et si l’encadré tiendra. Elle craint qu’on leur renvoie la même question à chaque pause. « Je peux leur dire que tu as besoin de plus de temps, si ça t’évite de devoir l’expliquer. » Maïwenn repose une moitié de clémentine au milieu de son plateau. « Disons quand on relit et ce qu’on peut couper. Pour moi, j’aimerais bien parler pour moi. » Lou prend le temps de répondre. Elle explique qu’elle a une répétition de batterie le vendredi ; à partir de quinze heures quarante-cinq, elle ne pourra plus relire. Maïwenn sort son agenda. C’est le genre de chose qu’elles peuvent dire au groupe.",
+      "sections": [
+        {
+          "heading": "Dire ce qui aide n’oblige pas à dire pourquoi",
+          "text": "Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal. Le rendez-vous avec Mme Lenoir avait un objet précis, convenu avec Maïwenn, et ne lui donne pas à justifier ensuite son besoin devant la table entière."
+        },
+        {
+          "heading": "Faire une demande qui engage les deux autrices",
+          "text": "Lou et Maïwenn peuvent dire ce qu’elles feront elles-mêmes : vérifier ensemble le récit mercredi et faire la dernière relecture de forme vendredi à quinze heures trente. Lou peut annoncer l’heure à laquelle elle doit quitter la relecture. Maïwenn peut annoncer que si l’encadré les retarde, elles livreront la page sans lui. Leur demande porte sur une décision que Sofiane peut prendre : garder la place amovible jusque-là. La répartition devra leur laisser assez de temps à toutes les deux ; elle ne peut pas tenir au prix d’un engagement que l’une ne pourra pas respecter."
+        }
+      ],
+      "ending_title": "Envoyer l’horaire depuis son propre téléphone",
+      "ending": "Maïwenn lit à Lou le message qu’elle a préparé. Lou lui demande d’y préciser l’heure de son départ, puis Maïwenn l’envoie. Sofiane répond qu’il laissera l’encadré détachable et garde seize heures comme limite. Elles apporteront une version où l’encadré peut être retiré d’un bloc. Maïwenn ne sait pas encore si l’équipe trouvera le rythme raisonnable au moment du bouclage. Pour l’instant, aucune question sur sa santé ne s’est glissée dans le fil du journal.",
+      "mirror": [
+        "Quand Lou veut aider à expliquer un délai, elle peut demander : « Qu’est-ce que tu veux qu’on transmette au groupe ? Tu préfères l’écrire ? » Elle peut ensuite s’en tenir à ce qui a été convenu, même si quelqu’un demande des détails. Si elle doit partir plus tôt, c’est utile de le dire aussi. Les informations sur le travail peuvent circuler sans que le groupe reçoive les éléments personnels qui ont amené chacune à faire sa demande."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "has-tsla-medecin"
+      ],
+      "continuity": {
+        "choice": "Maïwenn choisit de communiquer le déroulé et ses besoins de travail sans partager son diagnostic. Lou précise la limite liée à sa répétition.",
+        "next": "Le groupe attend le passage sur le récit mercredi, puis la dernière relecture vendredi à 15 h 30. Lou part à 15 h 45 et l’encadré peut être retiré."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "maiwenn-choisir-la-signature",
+      "title": "Trouver sa place au moment de signer le reportage",
+      "description": "La maquette attribue le texte à Lou et les photos à Maïwenn. Les deux reprennent ce qu’elles ont fait ensemble avant de fixer la signature.",
+      "context": "Le mardi, devant la première épreuve de la page du marché",
+      "topics": [
+        "Sentiment de légitimité",
+        "Reconnaissance du travail",
+        "Négociation entre pairs"
+      ],
+      "opening": "Dans la maquette du reportage, le prénom de Maïwenn n’apparaît que sous les photos. Lou figure à côté de « Texte ». Maïwenn a déjà signé des images pour le journal ; elle n’a jamais signé un reportage.\n\nSofiane a rempli les crédits comme pour les pages précédentes, en demandant qu’elles les vérifient. Maïwenn s’approche du papier. L’ouverture reprend le plateau qui apparaît avant la main. C’est Lou qui a trouvé la phrase qui relie ce détail au mouvement des chariots. Un peu plus bas, il y a le passage où Rachid explique pourquoi la table doit contourner le poteau et la légende qu’elle a reprise trois fois. Elle passe l’ongle le long de la règle imprimée sous le titre. Elle voudrait dire que le texte est aussi le sien, sans donner l’impression qu’elle retire à Lou ce qu’elle a fait.\n\nLou demande si le crédit photo doit être placé sous chaque image ou une seule fois. Maïwenn répond à côté : « Je voudrais signer avec toi. » Puis elle lui montre le début. « Je n’ai pas écrit toutes les phrases. Mais là, c’est bien la scène qu’on a montée ensemble, non ? » Lou regarde la règle à son tour. Elle aimerait que son travail sur le texte reste visible ; il lui a fallu reprendre plusieurs raccords. Elles glissent l’épreuve à l’écart des autres pages et la posent entre elles pour chercher une formule qui leur convienne toutes les deux.",
+      "sections": [
+        {
+          "heading": "Ce que la ligne sous le titre rend visible",
+          "text": "La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne. Dans ce reportage, Maïwenn a aussi rédigé ; Lou n’a pas seulement recopié ce que Maïwenn a vu. Lou a mené des entretiens, construit des raccords et discuté l’ordre du récit. Elles peuvent regarder ces contributions avant de décider ce que la signature dit de leur travail."
+        },
+        {
+          "heading": "S’accorder sur les crédits avant la dernière épreuve",
+          "text": "Sur le bord du papier, Lou et Maïwenn reprennent les étapes : l’idée, les questions, les photographies, les légendes et la mise en ordre. Toutes ne sont pas partagées de la même façon. Toutes ne doivent pas forcément apparaître sous le titre. Lou souhaite que son prénom reste attaché au reportage entier, qu’elle a écrit avec Maïwenn et construit sur place. Maïwenn propose une ligne commune pour le reportage et un crédit distinct pour les images qu’elle a prises. Elles demandent à Sofiane de laisser la nouvelle ligne sur l’épreuve jusqu’à ce qu’elles l’aient relue ensemble."
+        }
+      ],
+      "ending_title": "Écrire deux prénoms au crayon",
+      "ending": "Sur la marge, Maïwenn écrit « Reportage : Maïwenn et Lou ». Lou indique le crédit des photographies en dessous et rend la feuille à Sofiane. Les deux la gardent un instant par le même coin. Il reste à revoir les faits et à montrer le portrait à Rachid ; cette fois, elles n’attendront pas la fin de ces vérifications pour dire où leurs noms doivent figurer. Quand Maïwenn relâche le papier, elle a encore du mal à imaginer la ligne imprimée.",
+      "mirror": [
+        "Si Maïwenn hésite devant la ligne de crédit, Lou peut demander : « Qu’est-ce que tu veux voir reconnu ici ? Voilà ce qui compte pour moi. » Elles peuvent montrer des passages et des décisions qu’elles ont travaillés ensemble, puis demander à Sofiane de laisser les crédits ouverts le temps d’en convenir. La discussion n’a pas besoin de comparer leurs vitesses de rédaction. Sofiane peut attendre que les deux aient approuvé la ligne avant de la reporter sur la dernière épreuve."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn demande la signature commune, Lou précise ce qu’elle souhaite voir reconnu et elles choisissent une ligne pour le reportage et un crédit distinct pour les photos.",
+        "next": "La ligne « Reportage : Maïwenn et Lou » doit revenir dans l’épreuve finale ; le portrait reste à montrer à Rachid. Les faits doivent être vérifiés mercredi."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "maiwenn-retirer-un-portrait",
+      "title": "Accepter le refus d’un portrait pour le reportage du marché",
+      "description": "Rachid accepte les mots cités dans le reportage, mais préfère que son portrait reste dans le dossier. Maïwenn doit revoir la page avec Lou.",
+      "context": "Le mercredi, devant la halle fermée, pendant la vérification des faits",
+      "topics": [
+        "Déception",
+        "Respect du refus",
+        "Confiance"
+      ],
+      "opening": "Sur le rebord de la petite porte, Rachid pousse doucement son portrait vers Maïwenn. Elle avait choisi cette image pour sa place au milieu du reportage ; il lui dit qu’il préfère que son visage n’y figure pas.\n\nLe mercredi, les grilles de la halle sont baissées et on entend bien le papier glisser sur la pierre. Lou a relu au gardien la phrase sur la place qu’il faut laisser aux chariots. Il a dit qu’elle pouvait rester. Puis elles lui ont demandé si la table qu’elles avaient vue depuis la rue était la première à entrer. Rachid n’en est pas sûr. Il s’est occupé des grilles ; on a pu en monter une autre à l’intérieur pendant ce temps. Maïwenn note « celle qu’on a vue, au deuxième passage ». L’ouverture racontera ce qu’elles ont observé depuis la rue ce dimanche-là. La photo de la cale, elle, date de la première visite.\n\nLe portrait, c’est autre chose. Dans le cadre, Rachid regarde au-dessus de l’appareil vers quelqu’un qui l’appelle. Maïwenn avait attendu ce léger mouvement. Elle sait déjà quelle phrase Lou avait mise près de l’image. Il lui vient une question sur ce qui gêne Rachid ; elle la retient quand elle le voit éloigner encore le tirage. Elle reprend le papier. « D’accord, on l’enlève. Les mots sur les chariots, tu veux toujours qu’on les garde ? » Il répond oui. Lou ferme le carnet sur cette réponse et Maïwenn remet le portrait dans sa pochette.",
+      "sections": [
+        {
+          "heading": "Quand un changement visible entraîne du travail invisible",
+          "text": "Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage. Pour Maïwenn, il change tout de même plusieurs choses : l’ordre des deux images, la phrase voisine et le temps qu’elle doit trouver pour les revoir. Elle peut être déçue de perdre un cadre qu’elle aime et respecter la décision. L’accord sur les mots de Rachid et celui sur la photo sont deux questions distinctes. Elles avaient prévu de lui montrer l’image ; elle ne lui demande pas de l’accepter pour leur éviter des modifications."
+        },
+        {
+          "heading": "Reprendre le fil à partir de ce qui reste",
+          "text": "Lou ressort le tirage de la pince orange, où on ne lit pas les noms du plan. Sur la page, elle pourra faire écho à la table qui doit tourner : les emplacements sont préparés avant qu’un chariot passe. Les deux autrices repartent de leur question de départ sur la manière dont les places se font. Maïwenn propose d’écrire une légende qui dise pourquoi le plan est retenu par une pince. Lou vérifie dans le carnet qu’elles ont bien vu le courant d’air. Le texte peut s’appuyer sur cette observation. Elles laissent tomber la phrase que le portrait portait jusque-là."
+        }
+      ],
+      "ending_title": "À la place du portrait",
+      "ending": "Chez elle, Maïwenn enlève le portrait du dossier de la maquette et prévient Sofiane de l’échange. Elle ne lui envoie pas les raisons de Rachid, qu’elle ne lui a pas demandées. À côté du tirage de la pince, elle place la nouvelle légende et laisse un commentaire pour Lou. Ensemble, elles relisent le début modifié et la phrase sur les chariots. Elles notent que les faits ont été vérifiés. À quinze heures trente vendredi, il restera à vérifier la forme de la nouvelle légende et le reste de l’épreuve.",
+      "mirror": [
+        "Quand Maïwenn revient avec une image en moins, Lou peut lui dire : « Tu voulais vraiment garder ce regard. Quelle autre photo raconte encore quelque chose du lieu ? » Elle peut accepter le refus de Rachid sans lui demander de se justifier. Une décision sur l’image peut faire bouger le texte ; Lou et Maïwenn peuvent choisir ensemble ce qu’elles reprennent. Si elles manquent de temps, elles peuvent prévenir Sofiane plutôt que lui envoyer une version dont elles n’ont pas vérifié les changements."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn honore la demande de Rachid et retire le portrait. Elle et Lou vérifient la citation, précisent leur point de vue et reprennent la page autour de la pince orange.",
+        "next": "Le passage sur le sens est terminé mercredi. Les deux photos sont la table et la pince. Restent la forme, les crédits et la décision sur l’encadré à l’épreuve du vendredi."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "maiwenn-couper-au-bouclage",
+      "title": "Oser couper un encadré avant l’heure du bouclage",
+      "description": "Le délai approche et la dernière relecture demande plus de temps que prévu. Maïwenn peut garder l’encadré ou livrer une page qu’elles ont relue.",
+      "context": "Le vendredi à quinze heures trente, dans la salle du journal",
+      "topics": [
+        "Pression du délai",
+        "Effort invisible",
+        "Confiance pour demander de l’aide"
+      ],
+      "opening": "À quinze heures trente, Maïwenn relit la même ligne pour la troisième fois et voit Lou jeter un coup d’œil à l’horloge. Dans un quart d’heure, son amie doit partir ; l’encadré n’a toujours pas été vérifié.\n\nLes deux images du reportage sont déjà à leur place. Les mots de Rachid aussi. Lou avait laissé deux commentaires, comme convenu : dans la première phrase, elle indique le groupe de mots à regarder. Maïwenn pose le doigt sur le sujet, retrouve le lien et change la terminaison. Sur la seconde, elle cherche, revient à la ligne précédente et ne sait plus par où elle avait commencé. Cette fois, elle demande à Lou quelle correction elle proposerait. Lou l’explique. Maïwenn la saisit, puis vérifie qu’elle tient dans la colonne. Elle a avancé. Elle regarde pourtant le nombre de lignes qui reste dans l’encadré et sent qu’elle recommence à lire trop vite.\n\nSofiane arrive pour demander si le bas de page peut être fixé. Maïwenn avait tenu à raconter deux autres arrivées de la matinée, dont celle du vendeur qui a sorti son tablier de la poche de sa veste avant même de poser ses cagettes. Elle tourne l’épreuve vers Lou. « On l’avait gardé si on avait le temps. Je préfère finir la page qu’on a devant nous. » Lou relit le raccord au-dessus de l’encadré. L’histoire tient sans lui. Maïwenn trace un trait sur le rectangle et le montre à Sofiane.",
+      "sections": [
+        {
+          "heading": "Quand l’effort est réel et que l’appui a une limite",
+          "text": "Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi. Sur le second, Maïwenn a demandé la formulation ; Lou la lui a donnée et Maïwenn a vérifié ce qu’elle mettait dans la phrase. Elle connaît mieux ce qu’elle veut demander dans l’instant. Il reste d’autres lignes à relire. Lou a réservé un quart d’heure pour toute l’épreuve. L’encadré devait justement pouvoir sortir dans ces conditions. Le retirer permet de tenir un choix fait en amont, plutôt que de faire semblant d’avoir relu."
+        },
+        {
+          "heading": "Valider une page à la taille du temps disponible",
+          "text": "Maïwenn et Lou reprennent ce qu’elles pourront vérifier avant le départ de Lou : les deux légendes, le raccord après la coupe et les crédits. Sofiane peut recaler les blocs et aérer le bas de page. Si un mot doit changer pour que ça rentre, elles veulent le voir avant la validation. Ce partage respecte le travail de mise en page et l’accord des deux autrices sur le texte. L’épreuve leur sert de référence. Elles ne sauront pas si une autre tournure aurait été plus légère ; elles peuvent décider que la version lue ensemble raconte ce qu’elles étaient venues chercher."
+        }
+      ],
+      "ending_title": "Donner son accord sur l’épreuve",
+      "ending": "À quinze heures quarante-quatre, Lou tient encore son sac ouvert quand Sofiane leur montre le bas de page recalé. Maïwenn lit la légende de la table. Elle retrouve le bruit du plateau, puis le silence. Lou lui montre leurs deux prénoms sous le titre. Elles donnent leur accord à Sofiane. Il transmet le numéro avant seize heures. Maïwenn replie la feuille où le rectangle est rayé et la glisse dans sa poche. Elle regrette encore le tablier, mais ne veut plus remettre l’encadré.",
+      "mirror": [
+        "Si Lou voit qu’une phrase prend plus de temps, elle peut demander : « Tu veux encore chercher, ou tu veux ma suggestion ? Il me reste cinq minutes. » Elle peut tenir son heure de départ même si elles n’ont pas tout fini. Sofiane peut rappeler la décision prise sur l’encadré et montrer l’épreuve après la coupe. Une question sur la forme se traite avec les autrices présentes, dans les limites du délai qu’elles ont annoncé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn demande deux types d’appui selon le passage et choisit de retirer l’encadré. Les deux autrices valident la page et les crédits avant le départ de Lou.",
+        "next": "Sofiane transmet la version validée avant 16 heures. L’encadré reste dans les brouillons et les deux images retenues sont en page."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "maiwenn-reconnaitre-sa-voix-imprimee",
+      "title": "Reconnaître sa voix dans le journal imprimé",
+      "description": "Maïwenn lit la ligne où leurs deux prénoms figurent. Une élève s’arrête sur une légende et lui pose une question qu’elle n’attendait pas.",
+      "context": "Le lundi suivant, devant la table où le journal est distribué",
+      "topics": [
+        "Sentiment de légitimité",
+        "Plaisir d’être lue",
+        "Effort invisible"
+      ],
+      "opening": "Le journal s’ouvre mal à la page du marché ; Maïwenn doit maintenir le pli avec son coude pour lire « Reportage : Maïwenn et Lou ». À côté, une élève qu’elle ne connaît pas revient sur la légende de la table.\n\nSous les images, le prénom de Maïwenn figure aussi à côté de « Photographies ». Elle s’attend à ce que la fille lui montre une faute : elle a parcouru le premier exemplaire ce matin en se demandant ce que ses yeux auraient pu laisser passer. La fille pose plutôt le doigt sur « Après deux coups, le plateau se tait. » Elle a reconnu le bruit. Son père tient un stand et elle a passé des dimanches à attendre qu’une table arrête de tanguer. Elle se demande pourquoi on ne voit les gens que par bouts. Maïwenn a envie de lui montrer le portrait qu’elle avait pris ; elle laisse le téléphone dans sa poche. Elle répond qu’elles ont voulu commencer là où, depuis la rue, on voit une table avant de voir qui la pousse.\n\nLou arrive avec les derniers journaux et en garde deux au fond de la pile, un pour chacune. Maïwenn lui raconte la question de la fille. Elles ne savent pas si tous les lecteurs comprendront le choix des images de cette façon. À la pause, Maïwenn voit depuis la fenêtre une élève qui retourne un journal pour s’asseoir sur un banc humide. Elle sort son cahier. Elle voudrait savoir quel banc on choisit quand il y a de la place partout. Elle dessine un rectangle, attend une seconde, puis écrit sa question dessous.",
+      "sections": [
+        {
+          "heading": "Un texte publié ne dit pas tout du travail qui l’a précédé",
+          "text": "Une page qui se lit bien peut avoir demandé un effort que le lecteur ne voit pas. La publication du reportage ne suffit pas pour savoir comment évoluent les difficultés de Maïwenn. Elle dit qu’un projet est arrivé jusqu’au bout, avec des passages qu’elle a écrits, un travail partagé et des décisions sur ce qu’elles pouvaient livrer. Certaines difficultés se retrouveront peut-être dans d’autres textes, avec des délais ou des appuis différents. Pour le moment, Maïwenn est surtout surprise que quelqu’un lui parle du bruit de la table. C’est la phrase qu’elle craignait de perdre dans la version courte."
+        },
+        {
+          "heading": "Repartir avec une question plutôt qu’un contrat",
+          "text": "Maïwenn veut garder ce qui lui a servi : discuter l’idée avant de régler tous les mots, réserver du temps à la relecture et choisir l’aide dont elle a besoin. Elle ne sait pas encore ce qui lui servira pour les bancs. Elle peut proposer un petit sujet à la prochaine réunion, quitte à décider ensuite si elle travaille seule ou avec quelqu’un. Le regard de Lou ne sera pas exactement le même et le délai pourra changer. Maïwenn a envie de revenir tôt le lendemain, quand les premiers élèves entrent dans la cour. Elle choisit l’heure à laquelle elle fera ce détour."
+        }
+      ],
+      "ending_title": "Un rectangle dans le cahier",
+      "ending": "Maïwenn pose son exemplaire à côté de celui de Lou et lui montre le rectangle. Lou demande s’il s’agit du plan d’un deuxième marché. Maïwenn rit. « C’est un banc. Je vais voir qui le prend quand les autres sont libres. » Elle lui demande si elle veut lire sa question. Lou approche la main du cahier, attend que Maïwenn le lui tourne et lit la ligne du bas. Maïwenn récupère le cahier, laisse le rectangle tel quel et ajoute seulement l’heure à laquelle elle ira voir.",
+      "mirror": [
+        "Quand Maïwenn montre le journal, Lou ou sa mère peut lui dire ce que la page lui a fait remarquer : « J’ai eu envie de savoir pourquoi la table entrait de biais. » Elle peut aussi lui demander quel bout de la page lui tient le plus à cœur. Si Maïwenn apporte une nouvelle idée, il suffit de lui demander à quel moment elle veut un retour. Un article terminé n’enlève ni la possibilité de demander de l’aide la prochaine fois, ni celle de commencer seule."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "asha-langage-ecrit"
+      ],
+      "continuity": {
+        "choice": "Maïwenn parle de ses choix à une lectrice et partage avec Lou sa prochaine idée sans s’engager sur le format ni la collaboration.",
+        "next": "Le reportage paraît avec la signature commune et le crédit des photos. Maïwenn conserve sa rubrique et note l’heure à laquelle elle observera les bancs dans la cour."
+      }
+    }
+  ]
+}

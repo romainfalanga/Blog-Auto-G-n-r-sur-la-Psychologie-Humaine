@@ -1,5 +1,5 @@
 ---
-title: Une semaine qui prend plus de temps
+title: Les vérifications s’intensifient avant le vernissage
 description: À quelques jours du vernissage, les vérifications reprennent de la place.
   Noémie décrit leurs effets et demande un ajustement à sa clinicienne.
 slug: noemie-semaine-plus-difficile
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: À la relecture des panneaux, quelques jours avant le vernissage
 tags:
 - TOC
-- Fluctuations des symptômes
-- Retentissement
-- Ajustement du suivi
+- Vérifications répétées
+- Décisions retardées
+- Demande d’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

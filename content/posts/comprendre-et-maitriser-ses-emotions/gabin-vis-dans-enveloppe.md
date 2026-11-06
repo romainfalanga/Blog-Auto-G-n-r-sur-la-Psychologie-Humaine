@@ -1,5 +1,5 @@
 ---
-title: La vis dans l’enveloppe
+title: Revenir à l’atelier à son rythme après un moment de détresse
 description: Après le relais urgent, Gabin reprend son suivi et revient à l’atelier
   pour une tâche convenue avec l’association.
 slug: gabin-vis-dans-enveloppe
@@ -12,9 +12,9 @@ contexte: reprendre une activité choisie après une période difficile et revoi
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Continuité du suivi
-- Retour à une activité
-- Choix de soutien
+- Reprise d’une activité choisie
+- Respect de ses limites
+- Choix du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

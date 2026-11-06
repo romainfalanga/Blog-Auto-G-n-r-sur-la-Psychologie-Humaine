@@ -1,0 +1,405 @@
+{
+  "character_id": "diane",
+  "bio": "Diane, trente ans, travaille à la bibliothèque et aime les objets dont on découvre les détails en les prenant en main. Après une hospitalisation, elle retrouve l’atelier de poterie de Maud et veut présenter deux pièces à l’exposition : un bol bas et une carafe sans anse. Elle a du mal à reprendre une conversation quand elle ne sait pas ce que l’autre en a retenu. Avec son cousin Rémi, elle essaie de parler des mots qui l’ont blessé. À l’atelier comme au travail, elle veut retrouver son rythme.",
+  "profile_topics": [
+    "Honte après des paroles blessantes",
+    "Confiance dans ses propres choix",
+    "Choix de ce qu’on raconte de soi",
+    "Peur que les difficultés reviennent",
+    "Demande d’aide et limites des proches"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "diane-premier-message-atelier",
+      "title": "La peur de répondre au premier message de l’atelier",
+      "description": "De retour chez elle, Diane reçoit des nouvelles de ses pièces. Elle cherche comment reprendre contact avec Maud sans promettre de revenir tout de suite.",
+      "context": "Dans la cuisine de Diane, le soir de sa sortie de l’hôpital",
+      "topics": ["Appréhension du premier contact", "Choix des détails à partager", "Envie de reprendre à son rythme"],
+      "opening": "Chez elle, Diane remet la bouilloire à l’endroit exact où elle était avant son départ. Rémi a cru bien faire en la posant plus près de la prise, sur le plan de travail. Là, elle cogne contre la porte du placard quand on veut attraper le thé. Diane ouvre la porte deux fois pour lui faire entendre le bruit. Son cousin tire du sac de courses un paquet de biscuits qu’elle ne lui a jamais vu acheter et demande dans quel placard il a le droit de les mettre.\n\nLe téléphone vibre près de l’évier. Maud, sa professeure de poterie, lui écrit qu’elle a encore la carafe et le bol sur la planche du haut. Elle lui demande si elle veut les revoir avant l’inscription des pièces à l’exposition. Diane relit deux fois « si tu veux ». Avant l’hôpital, il y a eu des moments où elle entendait parler des gens près d’elle et où elle avait la certitude que leurs paroles la concernaient. La sensation s’est dissipée pendant son séjour. Ce soir, elle comprend le message de Maud, mais elle redoute encore de découvrir ce qu’on a pu dire de son absence.\n\nDiane écrit « Désolée pour tout », puis laisse le curseur clignoter. Maud sait qu’elle a annulé un cours. Le reste, Diane ne sait pas ce qu’elle en sait et n’a pas envie de le demander par message. Rémi lui tend une tasse. Elle lui dit de ne pas lire par-dessus son épaule, puis lui demande quand même de rester le temps qu’elle réponde. Il s’assied à la table, de l’autre côté.",
+      "sections": [
+        {
+          "heading": "Revenir ne veut pas dire pouvoir tout reprendre",
+          "text": "Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour. Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir."
+        },
+        {
+          "heading": "Répondre à la question que Maud a posée",
+          "text": "Diane pose sa tasse sur le dessous en liège pour libérer ses deux mains. Elle aimerait demander à Maud si le bol a gardé son bord légèrement incliné. C’était voulu, du moins quand elle l’a laissé sécher. Elle veut aussi que la carafe reste près du bol pour voir les deux ensemble. Elle peut donc donner une réponse utile : demander que les pièces restent sur la planche et convenir plus tard d’un passage. Elle décide de demander un moment calme à l’atelier. Si Maud a déjà besoin d’une date ferme, elle pourra le lui dire. Pour ce soir, répondre à une seule question lui paraît possible."
+        }
+      ],
+      "ending_title": "Deux pièces sur la planche du haut",
+      "ending": "Diane efface « Désolée pour tout ». Elle écrit : « J’aimerais revoir les deux. Tu peux les garder ensemble quelques jours ? Je te dirai quand je peux passer. » Elle attend que le petit signe confirme l’envoi avant de poser le téléphone. Maud lui répond pendant que Rémi cherche la boîte à biscuits : « Oui. On trouvera un moment avant un cours. » Diane coupe le son et montre à son cousin le placard du milieu. Il a acheté les biscuits dont elle enlève le sucre du bout du doigt. Elle en prend deux et lui demande s’il a envie d’en garder pour le trajet.",
+      "mirror": [
+        "À la table, Rémi peut laisser Diane garder l’écran pour elle et dire : « Je peux rester pendant que tu réponds. Dis-moi si tu veux que je lise quelque chose. » Il peut tenir la présence qu’il propose et annoncer l’heure à laquelle il devra partir. Si Diane évoque une difficulté qu’elle veut reprendre avec l’équipe, il peut lui demander si elle souhaite l’écrire pour le rendez-vous. Il peut aussi partager les biscuits et parler d’autre chose si elle en a envie."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique"],
+      "continuity": {
+        "choice": "Diane reprend contact en demandant à Maud de garder ses deux pièces ensemble, sans donner de date de retour ni expliquer son absence.",
+        "next": "Maud lui proposera un moment avant un cours ; Diane garde son rendez-vous de suivi deux jours après sa sortie."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "diane-nom-trouble-premier-rendez-vous",
+      "title": "La peur d’entendre un verdict au premier rendez-vous après l’hôpital",
+      "description": "Diane redoute le mot que va employer sa psychiatre. Elle veut comprendre ce que l’équipe a observé et ce qui reste à discuter.",
+      "context": "Au premier rendez-vous de suivi, deux jours après la sortie de Diane",
+      "topics": ["Peur d’être définie par un diagnostic", "Comprendre ce que l’équipe a observé", "S’accorder sur les prochaines étapes"],
+      "opening": "Diane écrit « pendant combien de temps ? » au dos d’un ticket de boulangerie, dans la salle d’attente. Elle pense aux rendez-vous, aux nuits où elle risque de se réveiller avec la même peur, au temps qu’il lui faudra avant d’oser ouvrir seule la bibliothèque. La question déborde de la largeur du papier. Quand la docteure Lenoir vient la chercher, Diane replie le ticket de façon à garder la phrase visible.\n\nLa psychiatre l’a vue à l’hôpital, au début et quelques jours avant sa sortie. Elle lui demande comment se sont passés les deux derniers soirs. Diane raconte le message de Maud et le plaisir d’avoir écrit quelque chose qu’elle pouvait relire sans en perdre le sens. Puis elle dit ce qui lui revient des premiers jours : à certains moments, elle était convaincue que des conversations autour d’elle parlaient d’elle ; plus tard, elle avait surtout du mal à mettre ses propres phrases en ordre. Elle n’a pas retrouvé depuis la sortie la certitude qui l’effrayait. La docteure Lenoir lui demande si elle veut reprendre maintenant ce que l’équipe a compris.\n\nDiane dit oui, puis pose le ticket sur la table. La psychiatre lui dit que l’épisode évalué correspond à un trouble psychotique aigu et transitoire. Elle lui laisse le temps de répondre. Diane retient surtout le dernier mot. « Ça veut dire que vous savez déjà combien de temps j’aurai besoin de vous voir ? » Elle l’entend sortir d’une seule traite et se demande pourquoi elle s’est donné tant de mal à le faire tenir sur son ticket.",
+      "sections": [
+        {
+          "heading": "Ce que l’équipe a suivi dans le temps",
+          "text": "Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre rappelle que le changement s’est installé en quelques jours et que les manifestations ont varié rapidement, puis se sont apaisées pendant le séjour. Elle explique que l’examen médical, les échanges sur les médicaments et les substances et les entretiens avec l’équipe ont aussi servi à chercher d’autres explications. Dans la CIM-11, le terme « transitoire » renvoie à la durée limitée de l’épisode évalué. Il ne fixe ni la durée du suivi, ni la suite pour Diane. La docteure Lenoir distingue ce que l’équipe a observé de ce qu’elle continuera à vérifier."
+        },
+        {
+          "heading": "Se mettre d’accord sur qui appeler",
+          "text": "Diane veut savoir qui joindre si elle a de nouveau une expérience qui la trouble, même si elle peine à l’expliquer. La psychiatre lui indique le numéro de l’équipe et note avec elle la marche à suivre si la situation ne peut pas attendre. Elles fixent un nouveau rendez-vous pour parler aussi du sommeil et de la reprise du travail. La docteure Lenoir propose de discuter de la place de Rémi dans le suivi. Diane veut lui donner le numéro utile et lui dire qu’elle peut appeler elle-même. Elle décide de choisir plus tard si elle veut lui transmettre le nom du trouble. Elles inscrivent cette préférence sur la feuille de suivi."
+        }
+      ],
+      "ending_title": "Le ticket dans la pochette",
+      "ending": "Diane ressort avec une feuille pliée dans une pochette transparente. Elle hésite à jeter le ticket, puis le glisse derrière la feuille. La prochaine date est écrite en clair et elle sait quel numéro appeler ; sa question peut rester là pour ce qui n’a pas encore de réponse. Rémi lui envoie la photo d’une péniche avec un chien à l’avant. Diane lui propose de se retrouver près du canal dimanche. Elle voudrait lui donner le numéro, puis lui parler d’une chose qu’elle se rappelle avoir dite avant son entrée à l’hôpital. Cette fois, elle ne commence pas à écrire les excuses dans le fil.",
+      "mirror": [
+        "Si Diane revient avec une feuille et en montre seulement un coin, Rémi peut lui demander : « Qu’est-ce qui te serait utile que je garde avec moi ? » Il peut noter le numéro qu’elle lui donne et lui demander dans quelles circonstances elle aimerait qu’il l’aide à appeler. Elle peut avoir besoin de redemander une explication à l’équipe avant de transmettre le reste. Rémi peut lui proposer de l’accompagner à un prochain rendez-vous si elle le souhaite, et préciser à quel moment il est disponible."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique"],
+      "continuity": {
+        "choice": "Diane demande ce que signifie le diagnostic posé et expliqué par sa psychiatre ; elle convient avec elle d’un suivi et du numéro qu’elle peut partager.",
+        "next": "Au canal, Diane veut donner ce numéro à Rémi puis revenir sur les mots qu’elle se souvient de lui avoir dits."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "diane-excuses-banc-canal",
+      "title": "Les excuses qu’elle redoute sur un banc au bord du canal",
+      "description": "Diane se souvient d’une phrase blessante. Au bord du canal, elle demande à son cousin s’il veut en parler et l’écoute poser une limite.",
+      "context": "Le dimanche, sur un banc au bord du canal où Rémi lui a envoyé la photo d’une péniche",
+      "topics": ["Honte après une parole blessante", "Écoute de la personne à qui l’on s’excuse", "Limites d’un proche après l’urgence"],
+      "opening": "Diane a acheté deux chaussons aux pommes en chemin. Elle se demande s’il vaut mieux tendre celui de Rémi avant de parler ou attendre qu’il se soit assis. Il arrive avec le manteau qu’elle lui connaît depuis dix ans, recousu sous le bras avec du fil blanc. Il a aussi acheté à manger. Ils étalent quatre pâtisseries sur le banc et passent quelques minutes à discuter de celles qui laisseront le moins de miettes sur leurs genoux.\n\nAvant de reprendre son chausson, Diane demande à Rémi s’il accepte d’entendre quelque chose au sujet de la soirée avant l’hôpital. Elle se souvient de lui avoir dit qu’il était la dernière personne à qui elle pouvait faire confiance. Elle ne se rappelle plus ce qu’il a répondu. Elle regrette de lui avoir dit ça. Les yeux sur le papier gras, elle ajoute qu’il n’a pas besoin de lui raconter tout le reste. Rémi tourne son gobelet entre ses mains. « J’ai entendu. J’ai trouvé ça dur. » Diane avait prévu de dire qu’elle n’était plus la même depuis. Elle laisse tomber cette phrase et lui demande ce qu’il aimerait qu’elle sache.\n\nIl lui dit qu’il se souvient surtout de sa peur : elle voulait partir, changeait d’avis aussitôt et ne savait plus où elle pouvait rester en sécurité. Il lui avait dit qu’il allait appeler le 15. Au téléphone, il avait décrit ce qu’il voyait ; le Samu avait organisé le relais vers les urgences. Aujourd’hui, Rémi veut bien entendre les excuses de Diane. Il voudrait pouvoir dire qu’il a eu peur, lui aussi, sans qu’ils passent l’après-midi à reprendre chaque mot de la soirée.",
+      "sections": [
+        {
+          "heading": "S’excuser de la phrase dont on se souvient",
+          "text": "Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal. Diane se souvient de ses propres mots. Rémi se souvient aussi des décisions qu’il a dû prendre. Elle peut reconnaître l’effet de la phrase qu’elle regrette et entendre ce qu’il lui répond. Elle lui a demandé son accord pour en parler. Il peut dire jusqu’où il souhaite aller aujourd’hui. Le diagnostic expliqué au rendez-vous donne un cadre pour comprendre une période de détresse. Il ne règle pas à lui seul la conversation que Diane et Rémi sont en train d’avoir."
+        },
+        {
+          "heading": "L’urgence de ce soir-là et l’aide possible aujourd’hui",
+          "text": "Rémi n’avait pas besoin de déterminer la cause de cette peur pour demander une aide médicale urgente. Il a nommé la détresse de Diane et décrit la difficulté qu’elle avait à rester en sécurité. Face à une personne très effrayée, parler calmement et reconnaître ce qu’elle ressent permet de l’écouter sans confirmer l’explication qui lui paraît certaine. En France, le 15 joint le Samu et le 112 est aussi utilisable en cas d’urgence. Au canal, la discussion porte sur ce que Rémi peut faire aujourd’hui. Il accepte de garder le numéro de suivi que Diane lui donne. Ils conviennent qu’elle peut joindre l’équipe elle-même et qu’il peut l’aider s’il est disponible."
+        }
+      ],
+      "ending_title": "Les deux sachets restés fermés",
+      "ending": "Diane lui donne le numéro, puis range le téléphone. Elle demande à Rémi s’il veut reprendre le chemin le long des écluses. Il répond qu’il en a assez du vent et qu’il prendrait bien le raccourci vers le marché. Diane l’avait oublié, ce raccourci derrière les vélos. Elle prend les sachets restés fermés et lui en tend un. Rémi lui demande si la carafe dont elle parlait tient vraiment sans anse. Elle lui montre avec les doigts l’endroit qu’elle a resserré pour la saisir. Ils se mettent d’accord pour essayer de trouver de bonnes poires au même marché la semaine suivante.",
+      "mirror": [
+        "Rémi peut dire : « J’accepte que tu m’en parles. Pour aujourd’hui, j’aimerais qu’on s’arrête après cette phrase. » Il peut accueillir les excuses et garder ses propres limites, y compris s’il lui faut plus de temps. Si une situation urgente se reproduit, il peut nommer ce qu’il observe, appeler le 15 ou le 112 en France et suivre les consignes reçues. Pour les questions de suivi, il peut demander un appui à l’équipe plutôt que de devenir le seul contact de Diane."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique", "nsw-ecouter-psychose", "service-public-samu"],
+      "continuity": {
+        "choice": "Diane présente ses excuses pour une phrase précise et écoute la limite de Rémi ; il accepte de garder le numéro de suivi.",
+        "next": "La marche au marché reste un rendez-vous entre cousins. Diane doit encore choisir comment revenir à l’atelier sans raconter à tous ce qui s’est passé."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "diane-honte-table-poterie",
+      "title": "La honte de reprendre sa place à la table de poterie",
+      "description": "Maud a gardé le bol et la carafe. À l’atelier, Diane voudrait les revoir sans avoir à raconter son absence à chaque personne qui entre.",
+      "context": "À l’atelier de Maud, vingt minutes avant le cours du soir",
+      "topics": ["Honte d’être remarquée à son retour", "Limite posée à une question personnelle", "Engagement à sa propre mesure"],
+      "opening": "Diane reste un instant derrière la porte vitrée de l’atelier. Elle reconnaît son tabouret au morceau de feutre vert collé sous le siège et se demande s’il y a encore quelqu’un qui pense à elle en le déplaçant. Maud lui a proposé de venir vingt minutes avant le cours. La lumière est déjà allumée au-dessus de la grande table. Son tablier pend avec les autres, par une ficelle qu’elle reconnaît aussi.\n\nMaud descend la planche du haut. Elle en retire le papier et Diane voit le bord du bol, puis le col de la carafe. Elle avait oublié à quel point l’ouverture était petite. Elle avait passé une heure à la reprendre pour que le geste de verser oblige à ralentir. Maud pose une fiche d’inscription à côté de la planche. Il est encore temps de réserver deux places si Diane sait à peu près ce qu’elle veut y mettre.\n\nLa porte s’ouvre derrière elles. Anaïs, qui partage habituellement le seau d’eau avec Diane, lui demande où elle était passée. Diane soulève la carafe, comme si le poids de la pièce lui donnait une raison de baisser les yeux. Elle s’était préparée à retrouver Maud et n’avait pas prévu qu’une autre personne arrive aussi tôt. « J’ai dû m’arrêter un moment. Je préfère parler des pièces, si ça te va. » Anaïs pose son sac au pied du tabouret. Elle dit qu’elle voulait surtout savoir si Diane avait encore besoin du grand pinceau. Diane l’avait oublié. Elle demande à le garder pour une séance.",
+      "sections": [
+        {
+          "heading": "Une place à table sans récit à fournir",
+          "text": "On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour. Diane connaît Anaïs et apprécie de travailler avec elle. Entendre la question à l’improviste lui fait quand même imaginer toutes celles qui pourraient suivre. La réponse qu’elle a trouvée suffit à revenir à une conversation dont elle a envie. Elle peut en choisir une autre un autre jour, si elle le souhaite. Avec son équipe, elle a déjà pu réfléchir à ce qu’elle voulait dire à Rémi. À l’atelier, le choix porte aussi sur le moment : avec qui elle veut parler et à quel endroit."
+        },
+        {
+          "heading": "Inscrire les deux pièces et laisser les permanences",
+          "text": "Maud sépare la fiche des pièces du tableau des permanences pour la préparation de l’exposition. Diane remarque qu’une case est vide le vendredi. Elle a l’habitude de se proposer quand elle voit un blanc dans un tableau. Ce soir, elle voudrait avoir assez de temps pour essayer deux couleurs, et c’est déjà un engagement qu’elle a envie de tenir. Elle demande à Maud si les pièces peuvent être inscrites avant la cuisson de l’émail. Oui, dit Maud, tant qu’elles savent qu’elles confirmeront le choix avant l’impression des cartels. Diane peut inscrire les deux formes et attendre le résultat pour leur donner un nom."
+        }
+      ],
+      "ending_title": "Deux lignes à l’encre bleue",
+      "ending": "Sur la première ligne, Diane écrit « bol bas ». La deuxième est assez longue pour « carafe sans anse », en laissant un blanc pour le titre. Maud lui demande si elle veut rester pour le cours. Elle jette un œil au tabouret puis dit qu’elle reviendra au prochain : elle voulait faire seulement ce passage aujourd’hui. Anaïs pose le pinceau sur la planche du haut. Diane va le chercher et le remet avec les deux pièces pour être sûre de le retrouver. En partant, elle voit les noms dans le tableau des permanences. La case du vendredi est encore vide.",
+      "mirror": [
+        "Quand Diane demande à parler des pièces, Anaïs peut répondre à cette demande : « D’accord. Tu veux toujours le grand pinceau ? » Elle peut lui faire une place et passer à la préparation du cours. Maud, de son côté, peut présenter séparément l’inscription des pièces et les créneaux où elle cherche de l’aide. Elle peut dire à Diane quand elle a besoin d’une réponse et accepter qu’elle ne se propose pas. Toutes les deux peuvent rester des personnes avec qui Diane aime travailler la terre."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique"],
+      "continuity": {
+        "choice": "Diane répond à Anaïs avec une limite claire, réserve deux places pour les pièces et quitte l’atelier comme prévu.",
+        "next": "Le grand pinceau attend avec le bol et la carafe ; Diane essaiera les couleurs avant de confirmer les cartels. Elle n’a pas pris de permanence."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "diane-faire-ses-preuves-bibliotheque",
+      "title": "L’envie de faire ses preuves le jour du retour à la bibliothèque",
+      "description": "Dans la réserve, Diane retrouve un travail qu’elle connaît bien. Une demande à l’accueil lui donne envie de reprendre plus que prévu.",
+      "context": "À la bibliothèque, le matin du premier créneau de reprise",
+      "topics": ["Besoin de montrer qu’on est capable", "Retour au travail par étapes", "Limites convenues avec les collègues"],
+      "opening": "Diane reconnaît, de dos, le livre des cartes marines à son ruban rouge. Elle en avait recollé la première page avant de s’absenter. Quelqu’un a trouvé une façon plus solide de fixer le ruban, en le faisant passer derrière la garde. Assise dans la réserve, elle le tire doucement pour voir comment il tient. Mireille, la responsable de la bibliothèque, a préparé deux bacs de livres qui attendent leur cote. Diane sait par lequel elle veut commencer.\n\nElles ont prévu deux créneaux courts pour la reprise. Aujourd’hui, Diane travaille dans la réserve. La fois suivante, elle passe une partie du créneau à l’accueil avec Malik. Elle vient de poser la première étiquette quand la voix d’une habituée arrive de l’autre côté de la porte : « Vous savez si Diane est revenue ? Elle sait où ils sont, les grands atlas. » Diane se lève avant même d’avoir écouté la réponse. Elle sait très bien où ils sont. Elle sait aussi où l’habituée s’installera pour les feuilleter.\n\nMireille est venue reprendre un bac vide. Elle lui demande si elle veut qu’elle indique le rayon à Malik. Diane a déjà la main sur la poignée. Elle imagine la lectrice dire combien de temps elle a attendu pour la revoir. Ça lui ferait plaisir, et elle se sent aussi obligée de lui montrer tout de suite qu’elle est capable de reprendre l’accueil. La cote du livre des cartes marines lui revient avec ses trois premières lettres. Elle les donne à Mireille et ajoute que les grands formats sont couchés tout en bas de la travée.",
+      "sections": [
+        {
+          "heading": "Retrouver une compétence à la fois",
+          "text": "Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement. Le suivi de Diane prend en compte la place que son travail occupe pour elle, ainsi que les difficultés qu’elle peut encore rencontrer en revenant. Mireille et elle ont fixé une première tâche et un horaire. Dans la réserve, Diane se souvient de la cote et de l’emplacement du rayon. À l’accueil, il lui faudrait aussi suivre une conversation, répondre à une demande inattendue et peut-être enchaîner avec les personnes suivantes. Elle veut garder le créneau prévu avec Malik pour retrouver cela."
+        },
+        {
+          "heading": "Donner un renseignement depuis la réserve",
+          "text": "Diane peut aider l’habituée avec la précision dont Malik a besoin. Le livre sera trouvé même si elle reste du côté de la réserve. Avec Mireille, elle peut ensuite reparler du créneau d’accueil : qui prend les demandes longues, et comment se dire qu’il est temps de changer de place. Elle a envie de revoir les lecteurs. Elle remarque aussi qu’elle perd parfois le fil quand plusieurs personnes parlent en même temps. En parler dans le suivi permettra de remettre la difficulté dans son contexte. Avec Mireille, elle peut décider d’un signal pratique pour l’accueil et choisir les détails qu’elle veut garder pour la consultation."
+        }
+      ],
+      "ending_title": "Le bac que Mireille reprendra",
+      "ending": "Diane entend l’habituée remercier Malik. Elle retrouve le livre au ruban rouge sur sa table et termine sa cote. Il lui reste neuf minutes au planning et quatre livres dans le bac. Elle en étiquette deux, laisse les autres sur le côté et indique à Mireille où elle en est. Pour le prochain créneau, elles conviennent que Malik reprendra la file si Diane lui dit qu’elle a besoin de sortir quelques minutes. Diane se rhabille sans déplacer le second bac. Dans la rue, elle pense à la lectrice et se rend compte qu’elle a hâte de savoir quelle carte elle est venue chercher.",
+      "mirror": [
+        "Mireille peut demander : « Tu connais l’emplacement ? Je peux transmettre à Malik et tu gardes ton créneau comme prévu. » Elle peut donner à Diane la place de répondre, sans lui demander ce qui s’est passé pendant son absence. Pour l’accueil, elles peuvent convenir d’une phrase que Malik reconnaîtra même s’il y a du bruit, puis se dire en fin de créneau ce qui a aidé. Malik a besoin de connaître le relais qu’on lui demande et de pouvoir dire ce qu’il peut prendre en charge."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique"],
+      "continuity": {
+        "choice": "Diane transmet l’emplacement des atlas depuis la réserve, respecte son horaire et prépare avec Mireille un relais pour le créneau d’accueil.",
+        "next": "Malik doit pouvoir reprendre la file si Diane demande à sortir quelques minutes. Diane parlera en suivi de la difficulté à tenir le fil en cas de sollicitations multiples."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "diane-doute-bol-four",
+      "title": "Le doute quand son bol sort de travers du four",
+      "description": "L’émail a pris, mais le bol a changé de forme à la cuisson. Diane hésite à le retirer de l’exposition et cherche ce qui lui plaît encore.",
+      "context": "Près des étagères de l’atelier, le jour où Maud rend les pièces émaillées",
+      "topics": ["Déception devant un résultat imprévu", "Jugement de soi à partir d’un échec", "Confiance dans son propre regard"],
+      "opening": "Diane voit le bol avant que Maud l’appelle. Le bord remonte d’un côté plus haut qu’elle ne l’avait voulu. Sous le néon de l’atelier, la pente est assez nette pour qu’elle reconnaisse la pièce parmi les assiettes et les tasses, alors même qu’elle ne reconnaît pas tout à fait la forme. Elle a repris le grand pinceau à la dernière séance et passé du bleu sur l’intérieur. Le bleu lui plaît. C’est ce qui l’agace le plus : à quelques millimètres près, elle se serait précipitée pour prendre le bol.\n\nMaud lui montre aussi la carafe. L’émail gris s’éclaircit vers le col. Diane la soulève un instant, puis la redescend. Elle envisage de la laisser seule à l’exposition. Elle entend déjà la réponse qu’elle donnerait si quelqu’un demandait où est passée la deuxième pièce : il y a eu un problème à la cuisson. Ce serait vrai. Elle aimerait aussi avoir une raison de ne pas montrer ce bol maintenant qu’il lui donne l’impression d’avoir perdu la main.\n\nAnaïs pose trois tasses devant elle et lui demande laquelle devrait aller sur la table du fond. Diane remarque un petit trait plus clair sous la lèvre de l’une d’elles. Elle tourne la tasse vers la lumière, demande à Anaïs si elle a vu le trait et comprend seulement après qu’elle vient de regarder cette pièce beaucoup plus longtemps qu’elle n’a regardé la sienne. Elle revient vers Maud. « Tu peux me laisser poser le bol à côté de la carafe avant que je choisisse ? »",
+      "sections": [
+        {
+          "heading": "La déception qu’on ajoute au bord du bol",
+          "text": "Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire. Diane voit une forme qu’elle aurait voulu autrement et pense aussitôt à sa place dans l’exposition. Elle a le droit de trouver le bol raté à certains endroits. Elle peut aussi se donner le temps de regarder comment il se présente à côté de la carafe. Dans le suivi, elle parle de ce qu’elle retrouve et de ce qui lui coûte encore. Ici, elle veut examiner la pièce avec les mêmes yeux qu’elle vient de poser sur la tasse d’Anaïs."
+        },
+        {
+          "heading": "Regarder les pièces à la hauteur des visiteurs",
+          "text": "Diane demande à Maud de vérifier que le pied du bol repose bien à plat sur le support d’exposition. Maud regarde le dessous et confirme qu’il est stable. Elles essayent deux hauteurs, parce qu’on ne voit pas le bleu de la même manière au-dessus ou au-dessous du rebord. De plus bas, Diane voit la pente ; d’un peu plus haut, elle voit le pinceau qui a laissé une bande plus sombre au fond. Elle voudrait qu’on puisse voir les deux. Maud lui rappelle que le choix du cartel arrive ensuite. Aujourd’hui, la décision est de garder ou de libérer la place qu’elle a réservée."
+        }
+      ],
+      "ending_title": "Le bol reste près de la carafe",
+      "ending": "Diane rapproche le bol de la carafe sans les laisser se toucher. Avec cet écart, les deux nuances lui plaisent ensemble. « Je garde les deux. Il faudra juste que la tablette soit assez basse. » Maud le note sur la fiche. Diane prend une photo à la hauteur où elle aimerait qu’on puisse les regarder. Dans le bus, elle trouve dans son sac une poire achetée le dimanche avec Rémi. Elle l’avait oubliée à côté de son tablier. Elle lui écrit que les poires sont mûres et que la carafe a une couleur qu’elle n’avait pas prévue. Puis elle mange la poire par petites bouchées pour ne pas se mettre de jus sur la manche.",
+      "mirror": [
+        "Devant le bol, Maud peut demander : « Tu veux qu’on le regarde avec la carafe avant de décider ? » Elle peut donner son avis sur la stabilité de la pièce et laisser Diane dire ce qu’elle aime ou regrette. Si la date d’inscription oblige à trancher, elle peut rappeler l’échéance sans décider à sa place. Anaïs peut aussi dire où elle voit le bleu le plus net. Une remarque sur ce qu’elle voit laisse plus de place à Diane qu’un éloge destiné à lui remonter le moral."
+      ],
+      "sources": ["oms-cddr", "nice-premier-episode-psychotique"],
+      "continuity": {
+        "choice": "Diane confirme le bol bleu et la carafe grise, avec une demande de tablette basse pour qu’on voie l’intérieur du bol.",
+        "next": "Les deux places sont confirmées. Il faudra proposer les cartels et vérifier la tablette au moment de l’installation."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "diane-appeler-malik-accueil",
+      "title": "Hésiter à demander un relais quand la file s’allonge",
+      "description": "Diane retrouve le public à la bibliothèque. Deux demandes se croisent et elle hésite à solliciter le collègue qui attend son signal.",
+      "context": "À la bibliothèque, pendant le premier créneau d’accueil avec Malik",
+      "topics": [
+        "Crainte de décevoir un collègue",
+        "Perdre le fil entre deux demandes",
+        "Passer le relais au bon moment"
+      ],
+      "opening": "Diane remet à sa place le petit écriteau que les lecteurs tournent toujours vers eux. De son côté, il dit « Accueil » à l’envers. L’habituée des atlas se présente avec un livre dans un sac de plage, un matin où la pluie bat encore les vitres. Elle veut montrer à Diane ce qu’elle a retrouvé entre deux cartes. C’est le nom d’une île que son père dessinait au dos des enveloppes. Elle l’a recopié sur une liste de courses. Diane se penche pour lire et reconnaît la première lettre.\n\nDerrière elle, l’imprimante commence à faire le bruit qu’elle fait juste avant de s’arrêter. Un homme demande si sa feuille est sortie. Malik est près des retours. Diane lui avait expliqué avant l’ouverture que la phrase « je sors cinq minutes » voudrait dire qu’il reprenait la file. Elle pense à la dire, puis imagine Malik venir à sa place et lui demander à quel lecteur répondre d’abord. Cette partie-là, ils ne l’ont pas prévue.\n\nL’habituée recule un peu pour laisser passer l’homme. Diane ferme le sac des atlas par réflexe et entend le papier de la liste se froisser à l’intérieur. Elle avait oublié de le rendre. Quand elle regarde de nouveau les visages devant elle, elle a perdu la question qu’on vient de lui poser. Elle voit Malik vider son dernier bac. « Tu peux prendre l’imprimante ? Je finis avec madame. » Il pose le bac sur le sol et appelle l’homme près de la machine.",
+      "sections": [
+        {
+          "heading": "Une demande d’aide qui garde une place pour ce qu’on sait faire",
+          "text": "Quand deux sollicitations arrivent en même temps, une aide ciblée peut laisser la place de terminer ce qu’on a commencé. Le relais que Diane et Malik ont préparé prévoit qu’elle quitte l’accueil quelques minutes. Ce matin, elle aurait surtout besoin que quelqu’un prenne l’autre demande. Elle sait où chercher l’île et voudrait mener cet échange à son terme. Elle peut essayer une demande plus précise tout en gardant la possibilité de sortir si elle en a besoin. Pour Malik, savoir s’il reprend la file ou seulement l’imprimante change le geste qu’il doit faire."
+        },
+        {
+          "heading": "Parler au travail et parler en consultation",
+          "text": "Après un premier épisode psychotique, le suivi peut tenir compte du travail et de ce que la reprise demande concrètement. Diane aimerait expliquer à sa psychiatre le moment où elle n’a plus retrouvé la question qu’on venait de lui poser. Le bruit de l’imprimante, la deuxième voix et la liste froissée lui donnent des détails à reprendre. La scène ne permet pas de déterminer une cause. Avec Mireille et Malik, elle peut discuter de la répartition des demandes pendant l’accueil. Ce qu’elle partage avec eux peut rester distinct de ce qu’elle aborde avec l’équipe de soins."
+        }
+      ],
+      "ending_title": "L’île sur le bout de papier",
+      "ending": "Diane retrouve le nom sous son pouce. Elle le tape en ajoutant le nom d’une île voisine, que l’habituée reconnaît aussitôt. Elles repèrent le livre à réserver, puis Diane lui rend la liste. Quand Malik revient avec la feuille enfin sortie, Diane lui demande si ce partage lui irait la prochaine fois. Il lui montre où il se place les jours de livraison, hors de vue depuis le bureau. Ils conviennent que, ces jours-là, il restera près des retours pendant la partie du créneau qu’ils font ensemble. Diane note le nouveau relais sur leur feuille de service.",
+      "mirror": [
+        "Malik peut revenir sur un moment précis : « Quand tu m’as demandé de prendre l’imprimante, j’ai su où aller. La prochaine fois, est-ce que tu veux qu’on prévoie aussi comment je prends le reste de la file ? » Il peut dire à quel moment il doit quitter les retours. Avec Mireille, une répartition qui fonctionne pour l’équipe peut être essayée puis revue. Ils peuvent parler du travail accompli et des obstacles rencontrés sans demander à Diane de raconter sa consultation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique"
+      ],
+      "continuity": {
+        "choice": "Diane appelle Malik pour une demande précise, finit sa recherche avec l’habituée et ajuste avec lui leur relais d’accueil.",
+        "next": "Elle parlera au suivi du moment où elle a perdu le fil. La bibliothèque garde les créneaux courts et l’atelier attend le texte des cartels."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "diane-choisir-ce-que-dit-cartel",
+      "title": "Choisir ce qu’on raconte de soi sur un cartel d’exposition",
+      "description": "Une question au dos d’un brouillon pousse Diane à décider de ce qu’elle veut mettre dans les deux textes qui accompagneront ses pièces.",
+      "context": "Chez Diane, à la table de la cuisine, avant l’impression des cartels",
+      "topics": [
+        "Maîtrise de ce qu’on raconte de soi",
+        "Doute devant le regard du public",
+        "Confiance dans une préférence personnelle"
+      ],
+      "opening": "Rémi a apporté une règle qui ne commence plus à zéro. Il affirme qu’on peut tout de même faire deux rectangles de la même taille, à condition de prendre les mesures du même côté. Diane a posé les cartons sur la table entre les poires et la corbeille à pain. Maud les a donnés pour que chacun essaie les cartels avant l’impression. Elle a écrit derrière le premier « Qu’est-ce que tu aimerais qu’on sache ? » Diane a retourné la carte si vite que son cousin lui a demandé s’il y avait une réponse au dos.\n\nElle a commencé par écrire « Deux pièces faites avant et après une interruption ». Puis elle a tiré un trait sur les cinq derniers mots. Elle avait imaginé que les gens remarqueraient une différence entre les pièces et lui demanderaient d’où elle vient. Rémi prend la photo qu’elle lui montre, approche le téléphone de la fenêtre et fait tourner l’écran. « Je croyais que ton bol était vert. On dirait que la lumière le change. » Il a vu une première photo prise avant la cuisson, à une heure où il faisait presque noir dans la salle.\n\nDiane retrouve le cliché où l’on voit les deux pièces à la bonne hauteur. Avec le bleu au fond du bol et le gris plus clair vers le col de la carafe, on dirait que le bol a gardé la pluie et que la carafe l’a laissée partir. Elle essaie de le dire. Rémi lui demande si c’est une description ou un titre. Elle prend le crayon et lui répond que ça lui donne une idée de deux titres.",
+      "sections": [
+        {
+          "heading": "Ce qu’on voudrait faire voir",
+          "text": "Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît. Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre."
+        },
+        {
+          "heading": "Donner à chacun les informations dont il a besoin",
+          "text": "Diane a communiqué un numéro de suivi à Rémi parce qu’elle voulait pouvoir lui demander une aide précise. Pour son équipe de soins, elle choisit ce qui peut éclairer son retour au travail et ce qu’elle ressent. Les recommandations après un premier épisode psychotique invitent à discuter des informations partagées avec les proches et à revoir ces choix quand les besoins changent. Pour l’exposition, Rémi peut relire un texte sur la carafe sans être invité à parler de la santé de Diane. Elle a encore la possibilité de reparler du diagnostic avec lui, en privé, quand elle le voudra."
+        }
+      ],
+      "ending_title": "Deux titres au crayon",
+      "ending": "Sur le carton du bol, Diane écrit « Pente bleue », puis une phrase sur le bleu plus foncé au fond. Pour la carafe, elle choisit « Gris de pluie » et indique qu’elle a modelé le col pour qu’on verse lentement. Rémi lui montre qu’il a mesuré les deux cartes trop grandes et qu’il faudra les recouper pour la photo. Diane les envoie telles quelles à Maud, qui prépare de toute façon la mise en page. Elle demande à son cousin s’il sera là au vernissage. Il pense passer en fin de journée. Elle lui promet de lui indiquer la tablette qu’elle a demandée.",
+      "mirror": [
+        "Rémi peut proposer de relire les phrases que Diane compte afficher et lui dire ce qu’il voit sur les photos. S’il est tenté de deviner à sa place pourquoi elle veut garder certains détails privés, il peut lui demander quel retour elle attend aujourd’hui. Il peut aussi convenir avec elle de ce qu’il fera si un visiteur lui pose une question personnelle. Lui laisser la parole ou ramener l’échange aux pièces respecte la place qu’elle s’est choisie dans l’exposition."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique"
+      ],
+      "continuity": {
+        "choice": "Diane envoie à Maud deux cartels centrés sur la forme et la couleur. Elle choisit les titres Pente bleue et Gris de pluie.",
+        "next": "Maud doit imprimer les cartels. Rémi pense venir en fin de journée au vernissage et Diane lui indiquera la tablette."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "diane-peur-que-ca-revienne-marche",
+      "title": "Craindre que la crise revienne en rentrant du marché",
+      "description": "Une impression familière inquiète Diane après plusieurs nuits difficiles. Depuis sa cuisine, elle utilise le numéro convenu avec son équipe.",
+      "context": "Chez Diane après le marché, quelques jours avant l’installation des pièces",
+      "topics": [
+        "Peur de revivre une crise",
+        "Doute face à une impression persistante",
+        "Demander un avis à temps"
+      ],
+      "opening": "Diane pose les poires sur l’égouttoir parce qu’une d’elles a fendu le fond du sac. Elle était allée au marché sans Rémi, qui devait remplacer quelqu’un le matin. Elle a rapporté les mêmes fruits que la semaine précédente et le marchand lui a montré comment sentir qu’une poire allait être bonne le jour même. À côté de lui, deux clients ont parlé trop bas pour qu’elle entende leurs phrases. En reprenant son sac, Diane a eu l’impression qu’ils répétaient des mots qu’elle avait employés en quittant l’hôpital. L’idée l’a suivie jusqu’au bus. Elle reste présente dans la cuisine, alors qu’elle ne parvient pas à se rappeler une phrase entière du marché.\n\nDiane laisse l’eau couler dans le saladier. Elle a mal dormi plusieurs nuits et la nuit dernière elle s’est levée deux fois pour ranger des affaires qui ne pressaient pas. Au réveil, elle a retrouvé un tiroir à moitié vidé sur la table. Elle voudrait appeler Rémi. Elle ne saurait pas par où commencer et il doit encore être au travail. Elle regarde la pochette transparente où la docteure Lenoir lui a indiqué le numéro de l’équipe. La feuille est coincée entre la facture du téléphone et le ticket sur lequel elle avait écrit « pendant combien de temps ? ».\n\nElle coupe l’eau. Elle pense attendre le rendez-vous puis se souvient d’une question qu’elle avait posée dans le bureau, quand tout lui semblait plus facile à décrire. Elle voulait savoir si elle pouvait appeler même en doutant de ce qui se passait. Elle compose le numéro indiqué. Quand on décroche, elle a encore la feuille à la main. « J’ai eu une impression qui ressemble à ce qui m’a fait peur la dernière fois, et j’ai du mal à m’en détacher depuis que je suis rentrée. »",
+      "sections": [
+        {
+          "heading": "Parler de ce qui a changé depuis le dernier rendez-vous",
+          "text": "Un changement préoccupant après un épisode psychotique mérite d’être discuté avec l’équipe qui assure le suivi. Diane décrit sa nuit, ce qu’elle a perçu au marché et l’impression qui lui reste chez elle. La soignante lui demande aussi comment elle se sent sur le moment et si elle peut rester en sécurité jusqu’à leur rencontre. Ces précisions servent à décider de la suite de l’évaluation. Le diagnostic s’appuie sur un ensemble d’observations, leur évolution et les autres explications possibles. L’appel de Diane permet à l’équipe d’apprécier la situation sans que Diane ait à lui trouver un nom."
+        },
+        {
+          "heading": "La suite se décide avec le service joint",
+          "text": "Diane suit les indications qu’elle a reçues lors du rendez-vous de sortie. La soignante lui propose une évaluation l’après-midi même et vérifie comment elle pourra venir. Elles reprennent ensemble les consignes si la situation change avant le rendez-vous. En France, si un danger immédiat ou une urgence médicale apparaît, le 15 ou le 112 permet de joindre les secours. Diane peut écrire à Rémi pour lui dire où elle va et lui demander une chose qui tient compte de son horaire. Le service reste le relais pour l’évaluation, y compris si Rémi ne peut pas se libérer."
+        }
+      ],
+      "ending_title": "Une heure écrite sur le carton des poires",
+      "ending": "Diane note l’heure et le nom du bâtiment sur le revers d’un emballage qu’elle trouve près de l’évier. Elle écrit à Rémi que l’équipe a avancé son rendez-vous et qu’elle aimerait lui parler un peu à sa sortie. Il lui répond qu’il peut rappeler à la pause, puis à la fin de son service si elle préfère. Diane choisit la fin de son service. Elle sort la pochette de la pile, y range le carton et prévient Maud qu’elle ne pourra pas venir prendre les mesures de la tablette cet après-midi. Elle part avec le papier et une poire qui n’a pas éclaté.",
+      "mirror": [
+        "Si Diane lui décrit cette impression, Rémi peut dire : « Ça t’inquiète encore depuis que tu es rentrée. Est-ce que tu as pu joindre l’équipe ? » Il peut écouter sans débattre de ce que les clients ont dit, proposer de l’accompagner s’il peut et annoncer l’heure à laquelle il sera joignable. S’il constate une urgence médicale ou un danger immédiat, il peut appeler le 15 ou le 112 en France, décrire la situation et suivre les consignes du service."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique",
+        "nsw-ecouter-psychose",
+        "service-public-samu"
+      ],
+      "continuity": {
+        "choice": "Diane appelle directement son équipe, accepte une réévaluation le jour même et demande à Rémi un appel après son service.",
+        "next": "L’équipe doit évaluer ce qu’elle a rapporté. Maud sait seulement que Diane ne peut pas venir mesurer la tablette cet après-midi."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "diane-demander-aide-sans-tout-confier",
+      "title": "Demander de l’aide à son cousin sans lui confier tout le suivi",
+      "description": "Après un rendez-vous avancé, Diane cherche une aide précise auprès de Rémi. Il lui dit ce qu’il peut faire depuis son travail.",
+      "context": "Au centre de suivi l’après-midi, puis au téléphone avec Rémi après son service",
+      "topics": [
+        "Crainte de peser sur un proche",
+        "Besoin d’aide et de confidentialité",
+        "Limites de la disponibilité d’un proche"
+      ],
+      "opening": "Le centre a changé la chaise en face de la porte du bureau. Diane s’en aperçoit parce que le métal du pied ne grince plus quand elle s’assied. Elle a appelé le matin et voit la docteure Lenoir avant la fin de la journée. En sortant la pochette, elle fait tomber le carton des poires et le ticket de boulangerie. Elle se baisse pour les ramasser tous les deux. La docteure Lenoir déplace le verre d’eau qui aurait empêché Diane de les poser sur le bureau.\n\nDiane raconte les voix basses au marché, la durée de l’impression ensuite et la différence avec la dernière fois. Avant l’hôpital, elle n’arrivait plus à envisager d’autre interprétation. Aujourd’hui, à certains moments, elle peut se dire qu’elle a peut-être entendu des mots différents. Ça n’a pas suffi pour que la peur cesse. La psychiatre lui demande ce qu’elle a fait depuis le coup de fil, reprend avec elle le sommeil et les autres changements récents, puis lui demande comment elle se sent pour la soirée. Elle explique qu’elle doit considérer ces éléments ensemble et voir comment ils évoluent. Elle ne conclut pas à un nouvel épisode sur ce seul récit.\n\nDiane s’attendait à devoir choisir entre rentrer sans rendez-vous et rester à l’hôpital. L’équipe lui propose de la rappeler le lendemain, en plus de revoir avec elle la conduite à tenir si elle se sent moins en sécurité d’ici là. Diane demande l’heure de l’appel. Elle a envie de voir Rémi, mais elle s’aperçoit qu’elle a déjà pensé trois fois à lui demander de faire le guet près de son téléphone. Elle garde la feuille devant elle et demande à qui elle pourra parler si elle a de nouveau peur avant que l’équipe rappelle.",
+      "sections": [
+        {
+          "heading": "Faire préciser l’aide prévue avant de rentrer",
+          "text": "Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin. La docteure Lenoir a entendu que Diane s’inquiète, même si son impression a un peu changé depuis le matin. Elle précise le relais médical qui s’applique avant le prochain appel et vérifie avec Diane qu’elle sait comment le joindre. Le diagnostic du premier épisode ne permet pas d’interpréter d’avance une expérience nouvelle. Diane a de quoi dire à l’équipe ce qui évolue et peut parler avec Rémi de ce qui lui ferait du bien pour ce soir."
+        },
+        {
+          "heading": "Dire combien de temps on peut rester",
+          "text": "Rémi rappelle quand il a quitté son travail. « Ça me fait un peu peur, ce soir. Est-ce que tu pourrais passer ? » Il doit aller chercher un meuble avec un ami et n’est pas sûr de l’heure à laquelle ils auront fini. Il peut lui parler un quart d’heure maintenant et reprendre le téléphone plus tard, à une heure qu’il connaît. Diane se rend compte qu’elle avait surtout envie de dire le nom qu’elle avait choisi de garder pour elle au premier rendez-vous. Elle lui demande s’il veut l’entendre, puis lui dit le nom donné par la psychiatre à l’épisode de l’hôpital. Elle lui précise qu’elle a choisi de lui en parler à lui. Il lui demande ce que l’équipe prévoit pour le lendemain et garde ces informations pour eux."
+        }
+      ],
+      "ending_title": "Deux lignes dans l’agenda",
+      "ending": "Diane demande à Rémi s’ils peuvent s’appeler à neuf heures et parler aussi du meuble. Il lui répond qu’il ne promet pas tous les soirs de la semaine, puis répète l’heure de celui-ci. Quand ils raccrochent, Diane écrit « rappel équipe » à l’heure convenue sur son agenda et met « Rémi » sur une autre ligne. Le lendemain, après le rappel de l’équipe, elle envoie à Maud l’heure à laquelle elle compte venir installer les pièces. Elle lui demande si les mesures peuvent attendre ce moment-là. Elle ne reparle pas à Maud du rendez-vous annulé.",
+      "mirror": [
+        "Rémi peut écouter la partie que Diane a choisi de lui raconter et répondre à sa demande concrète. S’il peut tenir un appel, il peut donner une heure. S’il ne peut pas venir ou rester joignable, le dire laisse le temps à Diane de reprendre avec l’équipe ce qui a été prévu. Il peut demander où il doit appeler s’il se trouve un jour dans une situation préoccupante avec elle. Il peut aussi tenir les autres rendez-vous qui font partie de leur relation, comme le marché."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique"
+      ],
+      "continuity": {
+        "choice": "Diane convient d’un rappel avec l’équipe et demande à Rémi un appel limité. Elle lui partage le nom du premier épisode en privé.",
+        "next": "Le rappel de l’équipe a lieu le lendemain. Rémi connaît désormais le diagnostic initial et les modalités du rappel. Maud attend Diane pour l’installation, sans avoir reçu d’information clinique."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "diane-defendre-place-des-pieces",
+      "title": "Défendre sa façon d’exposer quand la table change de place",
+      "description": "La tablette promise n’est plus libre. Diane veut que les visiteurs voient l’intérieur du bol et cherche une autre place avec Maud et Anaïs.",
+      "context": "Dans la salle d’exposition de l’atelier, pendant l’installation",
+      "topics": [
+        "Doute sur la légitimité d’une demande",
+        "Affirmation d’une préférence en groupe",
+        "Négocier sa place sans tout prendre en charge"
+      ],
+      "opening": "Maud a couvert la tablette basse d’une nappe qui touche presque le parquet. Quand Diane soulève un coin, elle voit que les pieds ont été raccourcis. C’est là qu’elle aimerait placer les pièces. Une boîte y attend déjà, marquée « Tasses d’Anaïs ». Anaïs arrive avec un paquet d’étiquettes sous le bras. La table du fond où elle devait mettre ses tasses a bougé parce que quelqu’un a besoin d’atteindre une prise. Maud a posé sa boîte sur la tablette en attendant. Elle montre à Diane un meuble plus haut, libre près de la porte.\n\nDiane y porte le bol, puis recule jusqu’à ce qu’une personne entrant dans la salle le voie. À cette hauteur, le bord cache le bleu. Elle pose la carafe à côté, lit ses titres imprimés et pense qu’elle peut s’accommoder du meuble. Maud a les mains pleines de pinces. Anaïs cherche encore une assiette qu’elle avait laissée dans sa voiture. Diane ne voudrait pas devenir la personne dont il faut déplacer toutes les affaires à la dernière minute. Elle reprend sa photo, celle où le bleu se voit entre la carafe et le bord du bol.\n\nUne fois Anaïs revenue, Diane lui montre la photo et explique ce qu’elle essaie de garder. Anaïs ouvre sa boîte. Trois des tasses ont une marque sous la lèvre qu’elle voudrait, au contraire, qu’on voie sans se pencher. Les deux regardent le meuble haut et la tablette. Anaïs dit qu’il faudra essayer avec une tasse à la fois parce qu’elle ne se souvient plus de la place que les anses prennent. Diane demande à Maud si elles peuvent faire cet essai avant de fixer les cartels.",
+      "sections": [
+        {
+          "heading": "Faire entendre une préférence avant de l’abandonner",
+          "text": "Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi. Diane s’est entendue penser qu’elle ferait perdre du temps aux autres. En montrant la photo, elle peut expliquer ce qu’elle voulait obtenir et entendre ce qu’Anaïs attend de sa propre présentation. Elles ont deux raisons différentes de demander une certaine hauteur. Les comparer avec Maud permet de chercher un arrangement concret. Diane garde aussi la possibilité d’accepter un emplacement qui lui convient moins si les autres possibilités créent un problème de circulation ou de stabilité."
+        },
+        {
+          "heading": "Finir sa part et décider quand partir",
+          "text": "Diane s’était donné une heure pour installer ses pièces. Depuis le rendez-vous avancé, elle parle encore avec l’équipe de sa reprise et des changements qu’elle observe. Ce suivi peut tenir compte des activités qu’elle souhaite retrouver et des conditions dans lesquelles elles restent possibles. Dans la salle, sa décision porte sur une tâche précise. Elle veut vérifier la place des deux pièces et fixer les cartels. Maud peut l’aider à déterminer ce qui doit être fait ce jour-là, puis les autres membres de l’atelier peuvent prendre le relais sur ce qui leur revient."
+        }
+      ],
+      "ending_title": "Le bleu à hauteur de regard",
+      "ending": "Anaïs place ses tasses sur le meuble haut et fait tourner la première. Depuis la porte, on voit son trait clair. Maud vérifie que le meuble est stable et que la circulation reste possible. Diane récupère la tablette basse et pose le bol près de la carafe, avec l’écart qu’elle avait photographié. Elle colle les deux cartels et envoie à Rémi une image de la tablette au pied de la fenêtre. Puis elle remet les pinces à Maud. Elle a terminé ce qu’elle était venue faire, même si Anaïs n’a pas encore trouvé où fixer l’étiquette de sa dernière assiette.",
+      "mirror": [
+        "Maud peut demander aux deux personnes ce que les visiteurs doivent pouvoir voir et vérifier avec elles les contraintes de la salle. En écoutant la préférence de Diane comme celle d’Anaïs, elle fait une place aux deux dans la décision. Si une pièce doit rester ailleurs, Maud peut nommer la raison et demander laquelle des possibilités convient le mieux. Une fois la présentation prête, elle peut confirmer à Diane que le reste du montage est réparti et qu’elle a tenu la part convenue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique"
+      ],
+      "continuity": {
+        "choice": "Diane demande un essai avec Anaïs et Maud, installe les deux pièces sur la tablette basse et repart après sa tâche.",
+        "next": "Pente bleue et Gris de pluie sont exposés près de la fenêtre. Rémi a reçu la photo et doit passer en fin de journée."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "diane-faire-place-avis-vernissage",
+      "title": "Entendre un avis inattendu sans douter de sa place au vernissage",
+      "description": "Au vernissage, une visiteuse voit le bol autrement que Diane. Les deux pièces sont exposées et le prochain rendez-vous de suivi est fixé.",
+      "context": "Au vernissage de l’atelier, devant la tablette basse près de la fenêtre",
+      "topics": [
+        "Sensibilité au regard du public",
+        "Confiance dans un choix déjà fait",
+        "Reprise d’une activité avec un suivi en cours"
+      ],
+      "opening": "En entrant dans la salle, Diane cherche ses deux cartels et voit d’abord une femme penchée sur le bol. Elle a retiré ses lunettes pour lire. Diane s’arrête à une distance d’où elle pourrait encore repartir vers le buffet. « Il a l’air profond », dit la femme en se redressant. Diane a passé trois séances à vouloir que le bol reste bas. Elle ouvre la bouche pour expliquer le bord remonté à la cuisson. Puis elle regarde l’endroit où se tenait la femme. De ce côté, la couleur sombre au fond est la première chose qu’on aperçoit.\n\nMaud lui fait un signe près de la porte. À côté d’elle, Anaïs montre à un homme comment elle tourne la tasse pour que la marque sous la lèvre attrape la lumière. Diane voit Rémi entrer derrière eux, le manteau au fil blanc au bras. Il prend le temps de trouver la tablette sur la photo qu’elle lui a envoyée et vient la rejoindre. La femme leur demande si les deux pièces sont faites pour aller ensemble. Diane répond qu’elle les a rapprochées pour cette table. La femme remarque le col de la carafe et mime un geste du poignet. Diane lui explique comment il oblige à verser plus lentement. Elle n’a toujours rien dit du four.\n\nRémi sort un programme de sa poche et cherche les horaires du lendemain. Il propose de revenir avec un ami, même si Diane n’est pas là. Elle aurait voulu lui demander ce qu’il pense de la remarque sur la profondeur. Elle regarde de nouveau le bol. « Tu peux lui montrer le bleu en te mettant là », dit-elle en lui laissant sa place près de la tablette. Rémi se baisse un peu et retrouve la bande sombre qu’elle lui avait montrée sur la photo.",
+      "sections": [
+        {
+          "heading": "Laisser une personne regarder à sa façon",
+          "text": "Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail. Diane savait que le bord du bol aurait pu lui faire renoncer à l’exposition. La remarque sur la profondeur lui rappelle ce doute. La visiteuse lui montre aussi un effet qu’elle n’avait pas remarqué de cet endroit. Diane peut entendre ce regard, dire comment elle a fait la carafe et garder sa propre idée du bol. Elle a choisi de présenter les deux pièces parce qu’elle aimait les voir ensemble. La remarque lui donne un autre point de vue sur ce choix."
+        },
+        {
+          "heading": "Garder des rendez-vous pour des choses différentes",
+          "text": "Un suivi peut rester utile après un épisode psychotique alors même que des activités redeviennent possibles. Diane a un rendez-vous avec la docteure Lenoir et compte lui reparler de son sommeil, de l’appel après le marché et de son prochain créneau avec Malik. Le vernissage lui donne aussi quelque chose à raconter qu’elle a simplement envie de partager. L’équipe suit l’évolution de sa santé et les conditions de sa reprise. Avec Rémi, elle pourra passer au marché. Avec Maud, il reste à décider où iront les pièces quand la salle fermera."
+        }
+      ],
+      "ending_title": "Dimanche, après le marché",
+      "ending": "Diane demande à Maud si elle peut récupérer les pièces après le marché, au lieu de venir à la première heure. Maud dit qu’elle sera dans la salle jusqu’à midi. Rémi propose de ramener un sac assez grand pour tenir la carafe debout. Diane lui montre le bol et lui dit qu’elle hésite à s’en servir pour les poires. Elle l’imagine sur le plan de travail, à côté de la bouilloire, puis l’imagine déjà rempli de clés. Elle lui demande de choisir au marché des poires assez petites pour qu’on continue de voir le bleu.",
+      "mirror": [
+        "Rémi peut regarder les pièces avec Diane, lui dire le détail qu’il voit et demander si elle veut rester encore un peu ou sortir ensemble. Il peut respecter le caractère privé de ce qu’elle lui a confié après le rendez-vous et attendre qu’elle aborde la question si elle en a envie. S’ils retournent au marché, ils peuvent faire la place qu’ils avaient prévue aux poires et à la récupération des pièces. Le suivi de Diane garde ses propres interlocuteurs et ses propres horaires."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-premier-episode-psychotique"
+      ],
+      "continuity": {
+        "choice": "Diane montre les deux pièces au public, reçoit la remarque de la visiteuse et prévoit de reprendre ses pièces après le marché.",
+        "next": "Le vernissage clôt le projet d’exposition. Le prochain créneau à la bibliothèque et le suivi avec la docteure Lenoir restent prévus."
+      }
+    }
+  ]
+}

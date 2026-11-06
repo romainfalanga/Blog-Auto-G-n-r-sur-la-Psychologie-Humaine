@@ -1,5 +1,5 @@
 ---
-title: L’assiette au bout de la table
+title: Au repas de rue, Gabin retrouve ses voisins et décide quels appuis garder
 description: Au repas de rue, les chaises fabriquées et prêtées trouvent leur place.
   Gabin choisit ce qu’il garde de son projet et de son suivi.
 slug: gabin-assiette-au-bout
@@ -12,9 +12,9 @@ contexte: terminer une contribution au repas de rue tout en gardant des accords 
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Projet de quartier
-- Suivi dans la durée
-- Budget du foyer
+- Lien avec les voisins
+- Anticipation de l’envie de rejouer
+- Partage des responsabilités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

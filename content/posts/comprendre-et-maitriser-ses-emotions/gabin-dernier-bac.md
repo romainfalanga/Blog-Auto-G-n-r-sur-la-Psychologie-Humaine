@@ -1,5 +1,5 @@
 ---
-title: Le dernier bac
+title: Demander de l’aide quand l’envie de jouer revient tard le soir
 description: Après une fermeture tardive, Gabin retrouve l’envie de jouer. Il utilise
   le repère choisi avec le service et revoit l’horaire qui lui convient.
 slug: gabin-dernier-bac
@@ -12,9 +12,9 @@ contexte: essayer un plan de soutien après une fermeture tardive et préciser c
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Préparation des moments vulnérables
-- Plan de soutien
-- Disponibilité réelle
+- Envie de rejouer
+- Demande de soutien
+- Limites de la disponibilité d’un proche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

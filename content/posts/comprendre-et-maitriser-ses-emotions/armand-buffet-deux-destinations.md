@@ -1,5 +1,5 @@
 ---
-title: Le coin gauche du buffet déborde
+title: Retrouver ses repères dans le rangement quotidien
 description: L’ergothérapeute demande à Armand de lui montrer son rangement. Il essaie
   deux places séparées pour ses papiers et son projet.
 slug: armand-buffet-deux-destinations
@@ -11,9 +11,9 @@ contexte: Le mercredi suivant, lors du premier rendez-vous à domicile
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Ergothérapie
-- Aides à domicile
-- Repères à ajuster
+- Repères dans l’espace
+- Mémoire au quotidien
+- Recevoir de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

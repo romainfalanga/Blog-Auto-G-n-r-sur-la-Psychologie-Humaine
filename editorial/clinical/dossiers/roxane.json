@@ -1,0 +1,40 @@
+{
+  "references": {
+    "asha-articulation-phonologie": {
+      "title": "ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology",
+      "url": "https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/"
+    },
+    "has-parcours-tsla": {
+      "title": "Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)",
+      "url": "https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante"
+    },
+    "lpo-pic-epeiche": {
+      "title": "Ligue pour la protection des oiseaux — Pic épeiche, fiche espèce",
+      "url": "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/pics/pic-epeiche"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental des sons de la parole",
+    "aliases": [
+      "Trouble du développement des sons de la parole",
+      "CIM-11 6A01.0"
+    ],
+    "references": [
+      "oms-cddr",
+      "asha-articulation-phonologie",
+      "has-parcours-tsla",
+      "lpo-pic-epeiche"
+    ],
+    "points": [
+      "OMS, CDDR (2024), 6A01.0, « Essential (required) features » et « Boundary with normality (threshold) », p. imprimées 112–113 (PDF 130–131) : dès le début du développement, des difficultés persistantes touchent la production de certains sons ou leur organisation dans les mots. Elles dépassent les variations attendues pour l’âge et la langue parlée et réduisent sensiblement la possibilité d’être compris. Un mot mal entendu ne suffit pas pour conclure. L’évaluation clinique examine aussi si une cause auditive, structurelle, neurologique ou médicale explique mieux les difficultés.",
+      "OMS, CDDR, 6A01 et 6A01.0, p. imprimées 112–114 (PDF 130–132) : les professionnels tiennent compte des variantes régionales, sociales ou culturelles et des langues auxquelles l’enfant est exposé. Des difficultés de prononciation liées au trouble peuvent être régulières ou varier ; l’habitude d’écouter l’enfant et son débit influencent ce que l’interlocuteur comprend. Le retentissement peut devenir plus visible quand les exigences scolaires changent.",
+      "OMS, CDDR, 6A01.0, « Boundaries with other disorders and conditions », p. imprimées 114–115 (PDF 132–133) : la production des sons, la fluidité de la parole, la voix et les capacités à comprendre, acquérir ou utiliser le langage sont des dimensions distinctes. Des difficultés peuvent se recouper ou coexister ; l’évaluation revient aux professionnels. Rien dans l’histoire de Roxane ne pose un autre diagnostic.",
+      "ASHA, Practice Portal, « Speech Sound Assessment » et « Intelligibility Assessment » : un échantillon de conversation apporte d’autres informations que la production de mots isolés. Ce qu’une personne comprend dépend notamment des sons produits, du débit, de la complexité de l’énoncé, de sa familiarité avec la parole de l’enfant, des indices visuels et du bruit de fond. Modifier l’environnement ou proposer un autre canal aide à transmettre un message dans une situation donnée ; cela ne constitue pas une rééducation.",
+      "ASHA, Practice Portal, « Comprehensive Assessment » et « Considerations for Multilingual and Multidialectal Populations » : les productions sont appréciées dans le système linguistique et la communauté de l’enfant. Une variation attendue d’accent ou de langue n’est pas un trouble. L’accent d’une personne ne dispense pas d’évaluer avec justesse ses éventuelles difficultés distinctes.",
+      "ASHA, Practice Portal, « Roles and Responsibilities », « Treatment » et « Target Selection » : l’orthophoniste individualise les cibles et l’accompagnement selon le profil, l’âge, le retentissement sur la compréhension et ce qui compte pour l’enfant. Le passage d’un son travaillé à une parole spontanée dans des contextes variés se suit au fil du temps. Un essai utile ou difficile ne prédit pas à lui seul la suite. L’enseignante et les proches apportent des observations et des appuis dans leurs rôles respectifs.",
+      "HAS, guide parcours TSLA, introduction et sections « La mise en œuvre d’une rééducation » et « Mise en place d’adaptations pédagogiques » de la prise en charge de niveau 1, p. 5 et 21–23 : le guide français propose d’articuler scolarité, soins et famille. Il décrit le suivi d’objectifs, les ajustements pédagogiques et les échanges d’informations utiles à l’enseignant avec l’accord des parents. Il sert ici pour l’organisation des appuis et leur ajustement, sans être utilisé comme recommandation thérapeutique spécifique au code 6A01.0.",
+      "LPO, fiche Pic épeiche, rubrique « Description » : le pic épeiche produit un bref tambourinage, distinct de son cri de contact. Cette référence documente le comportement de l’espèce. Dans le récit, l’identification de l’enregistrement vient de l’observation faite par le groupe accompagné d’un ornithologue."
+    ]
+  },
+  "direction": "Roxane a neuf ans. Elle aime les mots qui font prendre une fausse piste puis changent de sens. Pour la rencontre de la classe à la médiathèque, elle crée une énigme sur le tambourinage d’un pic épeiche : elle emprunte un son identifié quand la sortie de classe ne suffit pas, éprouve le rythme des indices, négocie le dessin et décide de la part enregistrée et de la part en direct. Le diagnostic précède la première scène. Mme Colin, l’orthophoniste, ajuste les objectifs avec Roxane et reste distincte de Mme Sorel, l’enseignante, qui organise les conditions de parole à l’école. Son père lui demande quel appui elle préfère ; Zoé, sa partenaire de scène, a aussi un travail et un choix propres. Une parole parfois difficile à comprendre peut avoir des effets même au calme. Le bruit, la familiarité et le contexte font varier l’effort de tous. Ni la diction, ni l’accent, ni le fait d’avoir besoin d’aide ne disent ce que l’enfant comprend ou peut inventer. Ne transcrire aucune prononciation pour faire entendre le trouble ; éviter moquerie, correction publique, divulgation et final de guérison."
+}

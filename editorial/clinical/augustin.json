@@ -1,0 +1,447 @@
+{
+  "character_id": "augustin",
+  "bio": "Augustin a quatorze ans et guette au théâtre l’instant où un accessoire fait rire avant même qu’un acteur ouvre la bouche. Au centre social, il fabrique un soleil en carton avec Maxence, qui préfère les bruitages. Il voudrait aussi jouer. Il s’agace qu’on mesure son envie au nombre de pièces qu’il a préparées ; certains gestes lui demandent plus de temps et lui laissent moins d’énergie pour la suite. Il tient à choisir ce qu’il fait de ses mains, ce qu’il confie aux autres et la réplique qu’il dira sur scène.",
+  "profile_topics": [
+    "Effort invisible",
+    "Pression du temps",
+    "Choix de l’aide",
+    "Légitimité dans le groupe",
+    "Limites du partage"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "augustin-le-bord-du-soleil",
+      "title": "Quand la lenteur passe pour du désintérêt à l’atelier",
+      "description": "Augustin veut donner au soleil de la pièce un bord doré. Il défend son idée quand le groupe prend le peu de pièces prêtes pour un manque d’envie.",
+      "context": "à l’atelier scénographie, pendant la fabrication des premiers accessoires",
+      "topics": [
+        "Effort invisible",
+        "Légitimité dans le groupe",
+        "Jugement sur la motivation"
+      ],
+      "opening": "Le soleil a déjà une trace de pouce et Augustin voudrait la garder. Sur le carton jaune, on dirait la tache sombre qu’on voit quand on ferme les yeux après avoir regardé une lampe. Il ne sait pas si elle se verra depuis le dernier rang du centre social. Maxence, assis en face de lui, laisse tomber ses clés dans trois boîtes différentes pour trouver le bruit du concierge. À la troisième, Augustin reconnaît presque la cour de l’immeuble où se passe L’Aube en carton. Dans la pièce, le jour ne se lève pas et les voisins s’accusent d’avoir perdu le soleil.\n\nLe papier doré colle à l’index d’Augustin dès qu’il lâche le bout qu’il tient avec son autre main. Il rapproche le carton de son ventre, décolle la bande sans la déchirer, retrouve le trait de crayon. En face de lui, Nora a déjà empilé les enseignes de la boulangère. Elle lui demande s’il veut plutôt aller lire le texte avec Maya. « Tu n’as encore rien fait, là. » Augustin a envie de montrer la poubelle pleine de bandes recourbées. Il se surprend à chercher une réponse qui ferait rire Maxence et tairait Nora. Pour une fois, il ne la trouve pas.\n\nSamira, l’éducatrice, passe chercher les cartons secs. Augustin se tourne vers elle, puis revient à Nora. « J’ai fait le rond et essayé le bord. Ça colle mieux au doigt qu’au soleil. » Il lui montre les deux premières bandes. La jointure accroche la lumière comme il voulait. Il demande à garder le disque sur sa table et à décider du bord avant qu’ils se répartissent la suite.",
+      "sections": [
+        {
+          "heading": "Ce qui se voit quand on compte les pièces",
+          "text": "Un geste qui prend du temps peut demander beaucoup d’effort, même si le résultat est encore peu visible. Le trouble développemental de la coordination motrice, dont Augustin connaît le diagnostic depuis avant le début de l’atelier, peut rendre certaines actions plus lentes ou moins précises. Les gestes concernés ne sont pas les mêmes chez tout le monde. Tenir ensemble deux matières qui glissent et ajuster leur bord lui demande ici plusieurs reprises. Nora voit surtout le nombre d’objets posés sur la table ; Augustin, lui, sait combien de fois il a dû recommencer. Cette différence de point de vue suffit à faire passer un choix auquel il tient pour quelque chose qu’il délaisse. Son diagnostic ne dit ni quelles idées il aura ni le plaisir qu’il prend à les réaliser."
+        },
+        {
+          "heading": "Choisir ce qu’on veut voir depuis la salle",
+          "text": "Le groupe a besoin d’accessoires finis. Avant d’attribuer le travail selon la vitesse de chacun, Samira peut demander quel effet ils veulent obtenir et combien il reste de temps pour cet effet. Augustin tient au reflet sur le pourtour, pas à produire une quantité fixée de bandes. Ils peuvent regarder son échantillon depuis le fond de la salle, puis décider ensemble s’il faut en préparer d’autres ou chercher un papier plus large. Les recommandations internationales sur le TDC invitent, quand un accompagnement est indiqué, à partir des activités qui comptent pour la personne et du contexte réel. Ici, la discussion est celle d’un atelier : on ajuste le projet et l’organisation pour permettre à Augustin d’y tenir sa place."
+        }
+      ],
+      "ending_title": "Deux bandes contre le mur",
+      "ending": "Augustin pose le disque contre le mur et recule jusqu’à la porte. De là, il ne voit pas sa trace de pouce. Il voit les deux bandes. Nora vient se placer à côté de lui et penche la tête : elles brillent surtout quand il bouge. Il propose d’essayer le papier le plus large mercredi, avec le disque posé à plat. Nora lui réserve une chute. Avant de partir, Augustin prend aussi le texte que Maya a laissé sur une chaise. Il plie le coin de la page où le concierge parle tout seul à ses clés.",
+      "mirror": [
+        "Nora peut revenir sur ce qu’elle a dit : « J’ai regardé le nombre de pièces et j’ai cru que tu voulais passer à autre chose. Tu tiens à quelle partie ? » Elle peut écouter la réponse avant d’offrir de fabriquer ou de répartir. Samira peut laisser du temps pour regarder l’essai et annoncer l’heure réelle de rangement. Si la tâche doit se partager, Augustin peut participer à cette décision."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin demande à garder la fabrication du soleil et à tester un papier doré plus large avec le disque à plat ; il emporte le texte.",
+        "next": "Nora garde une chute de papier. Augustin a repéré le monologue du concierge et se rendra à la lecture des rôles."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "augustin-deux-roles",
+      "title": "Hésiter entre le premier rôle et le geste qu’on aime",
+      "description": "À la lecture, Augustin découvre deux rôles qui lui plaisent. Il demande à les essayer avec les accessoires avant de décider.",
+      "context": "lors de la première lecture des rôles avec la troupe",
+      "topics": [
+        "Pression du temps",
+        "Légitimité dans le groupe",
+        "Droit d’hésiter"
+      ],
+      "opening": "Maya lit la première phrase du concierge comme si elle annonçait une catastrophe dans un ascenseur. Augustin l’aurait dite plus bas, en confiant le secret à la plus petite des clés. Il lui en parle et elle lui tend le texte. Quand vient son tour, il laisse un silence avant de dire le mot « égaré ». Personne ne tourne la page. Ce silence, il le voulait depuis qu’il a plié le coin du monologue. Samira trace un rond à côté de leurs deux prénoms sur la feuille des rôles.\n\nSur la chaise à sa droite, Augustin retrouve le soleil et la chute de papier de Nora. La bande large couvre d’un coup deux jointures. Il a juste le temps de la présenter contre le disque avant que Samira demande au concierge de faire semblant de changer de trousseau. Elle appelle ensuite le voisin. Maya lit sa réplique, celle qu’il dit en revenant avec le soleil que tout le monde cherche depuis le début. Augustin l’essaie à son tour : « Vous auriez pu attendre que je me lève. » Maxence rit avec son stylo encore entre les dents. Augustin n’avait pas pensé que quatre lignes pouvaient laisser autant de place à un acteur.\n\nSamira demande qui souhaite rester sur les essais du concierge. Augustin a envie de lever la main. Il imagine aussi le soleil devant la salle, tenu par quelqu’un d’autre, et ça lui fait le même effet que quand Maxence termine une de ses blagues. « On peut essayer les deux avec les objets, avant de décider ? » Maya garde un doigt dans le texte. Elle voudrait savoir assez tôt quelles pages apprendre. Augustin comprend que son hésitation lui prend aussi du temps à elle.",
+      "sections": [
+        {
+          "heading": "Les rôles sur le papier et dans la salle",
+          "text": "Deux rôles peuvent demander des gestes et une organisation très différents, même quand leur durée paraît facile à comparer. Chez certaines personnes qui ont un trouble de la coordination, enchaîner des mouvements dans une activité reste moins aisé que réaliser ces gestes séparément. Le concierge doit repérer ses clés, les changer et poursuivre un dialogue. Le voisin a moins de texte, mais son entrée repose sur le moment où le soleil devient visible. Augustin ne sait pas encore combien de temps il lui faudrait dans chaque rôle avec de vrais accessoires. Il sait déjà que les deux lui plaisent pour des raisons différentes : le premier pour le monologue, le second pour la possibilité de faire exister un silence autrement."
+        },
+        {
+          "heading": "Donner une date à l’essai",
+          "text": "Pour que le groupe puisse préparer ses pages, Samira peut convenir d’une date pour le choix. Avant ce jour, Augustin peut essayer le passage des clés et le lever du soleil avec le même partenaire, et dire ce qu’il a envie de refaire. Les recommandations de l’EACD préconisent de tenir compte des activités, de l’environnement et du point de vue du jeune quand des objectifs d’accompagnement sont décidés. En répétition, le parallèle est concret : décrire la tâche telle qu’elle se présente et demander son avis à celui qui va jouer. Il peut trouver l’un des gestes coûteux et tenir à le garder. Maya peut dire combien de temps il lui faut pour apprendre son texte. Le cadre de l’essai rend ces deux demandes audibles."
+        }
+      ],
+      "ending_title": "Un rond au crayon",
+      "ending": "Samira note une lecture en mouvement et un filage court avant la distribution définitive. Elle propose à Maya et Augustin d’apprendre d’abord les deux passages qu’ils ont essayés ; le reste attendra la décision. Augustin entoure la réplique du voisin. Il s’applique moins que pour le bord du soleil et le rond traverse deux lettres. À la sortie, Maxence refait le bruit du concierge en secouant sa trousse. Augustin dit qu’il préfère celui de la troisième boîte. Maxence lui répond qu’il compte bien en essayer une quatrième.",
+      "mirror": [
+        "Maya peut défendre son temps sans choisir pour Augustin : « J’ai envie d’essayer aussi. On se donne quel jour pour trancher ? » Samira peut fixer un passage court à jouer dans chaque rôle et rappeler que les deux candidats peuvent dire ce qui leur plaît. Maxence peut rire d’une réplique sans en faire un verdict. Augustin garde le droit d’hésiter pendant le temps convenu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin demande à tester les deux rôles en mouvement. Il accepte une date de décision qui laisse à Maya le temps d’apprendre.",
+        "next": "Le passage des clés et le lever du disque seront essayés avant le choix final. La bande large semble couvrir les jointures."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "augustin-la-legende-de-la-carte",
+      "title": "Perdre le fil du cours en essayant de finir sa carte",
+      "description": "En géographie, Augustin passe tant de temps sur le contour de la carte qu’il manque la discussion. Il propose d’essayer un fond imprimé.",
+      "context": "au collège, pendant la copie d’une carte et la discussion qui l’accompagne",
+      "topics": [
+        "Effort invisible",
+        "Pression du temps",
+        "Limites du partage"
+      ],
+      "opening": "Sur le tableau, le fleuve fait un coude net juste avant la ville. Augustin a posé sa règle trop près du trait bleu ; quand il la retire, l’encre se tire avec elle. Il garde la main au-dessus de la page pour ne pas frotter et cherche où Mme Besson en est dans sa phrase. Sur les tables d’à côté, les règles claquent déjà dans les trousses. Sa voisine Safia demande pourquoi on construit des maisons là où l’eau peut monter. Augustin voudrait savoir si le quartier qu’il traverse pour rentrer est de ce côté du fleuve. Quand il lève les yeux, l’enseignante est passée à la légende.\n\nIl y a encore les trois couleurs à faire, et le vendredi l’atelier ouvre juste après les cours. Augustin avait promis de mettre la bande dorée sur le soleil. Il lui reste une petite marque de colle sous un ongle et il éprouve une drôle de lassitude à l’idée de commencer l’après-midi avec une page à finir. Safia lui glisse sa feuille. Il pourrait copier ses réponses à la pause. Il voit qu’elle a inscrit « quartier récent » à un endroit où il avait imaginé un champ. Elle a entendu quelque chose qu’il n’a pas pu suivre.\n\nÀ la sonnerie, Augustin range sa règle, laisse la carte dehors et attend que les autres passent la porte. Mme Besson croit qu’il veut une nouvelle feuille parce que le bleu a bavé. Il lui montre le coude du fleuve. « Si j’avais déjà ça sur la page, je pourrais vous écouter quand vous expliquez pourquoi la ville est là. » Il lui demande si, pour la prochaine carte, il peut avoir le fond imprimé et écrire lui-même les mots importants.",
+      "sections": [
+        {
+          "heading": "La copie occupe une partie du cours",
+          "text": "Une tâche de copie peut prendre du temps et de l’attention au point de gêner l’accès à ce qui est expliqué en même temps. Le CDDR de l’OMS cite l’écriture manuscrite, les dessins de cartes et la prise de notes parmi les activités où les difficultés de coordination peuvent se manifester. Le trait bleu d’Augustin n’apprend rien sur sa compréhension des risques d’inondation. L’important ici est ce qu’il n’a pas entendu pendant qu’il s’occupait du tracé, puis le temps qu’il lui faudrait pour le rattraper. Safia peut lui passer la légende, ce qui l’aide pour cette page ; elle ne peut pas à elle seule lui rendre l’échange auquel il voulait participer."
+        },
+        {
+          "heading": "Conserver la question de géographie",
+          "text": "Mme Besson peut garder l’objectif du cours et essayer une autre répartition du travail : fournir le contour, puis laisser à Augustin les deux indications qu’elle veut le voir situer. Un support imprimé convient à cet essai si la séance porte sur l’emplacement et le sens des éléments, avec une place pour parler du raisonnement. Si la classe doit apprendre à tracer une carte, l’enseignante peut prendre un autre temps pour ce geste. Le guide de la HAS encourage le lien entre l’enfant, sa famille, les professionnels et l’école pour choisir des aides pertinentes. Si la difficulté de copie revient dans d’autres cours, ils pourront revoir l’essai ensemble. Augustin peut commencer par expliquer ce qui s’est produit ce matin sans raconter son parcours devant la classe."
+        }
+      ],
+      "ending_title": "Le fleuve déjà imprimé",
+      "ending": "Mme Besson sort un exemplaire qu’elle avait prévu pour un autre groupe. Le coude y est bleu foncé. Elle écrit en bas les deux termes à ajouter en début de séance suivante et lui demande de lui dire après le cours s’il a réussi à suivre la discussion. Augustin n’a plus à reprendre tout le tracé après l’atelier. Avant de fermer son sac, il demande de quel côté est son arrêt. L’enseignante lui montre la rue qui descend vers le fleuve. En suivant son doigt, Augustin repère le petit triangle juste à côté de l’arrêt. C’est la salle où ils vont jouer.",
+      "mirror": [
+        "Safia peut offrir la feuille et laisser Augustin choisir s’il en a besoin : « Je peux te montrer où on en est. Tu veux que je te dise ce qu’elle a expliqué ? » L’enseignante peut parler du support en privé, annoncer clairement le but du prochain essai et demander ce qui a changé pour lui. Les camarades n’ont pas besoin de connaître la raison médicale d’un document différent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin demande un fond de carte imprimé et garde deux annotations à faire. Mme Besson accepte un essai et un retour après le prochain cours.",
+        "next": "Il ira à l’atelier du vendredi sans avoir à refaire tout le tracé. Au cours suivant, il comparera ce qu’il a pu écouter."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "augustin-le-soleil-sur-la-nappe",
+      "title": "Oser laisser le soleil inachevé quand la fatigue arrive",
+      "description": "Chez lui, Augustin décide de s’arrêter après le bord doré et propose à la troupe de simplifier le soleil avant la répétition.",
+      "context": "à la table de la cuisine, le lendemain de l’atelier",
+      "topics": [
+        "Effort invisible",
+        "Peur de décevoir",
+        "Choix de l’aide"
+      ],
+      "opening": "À la lumière de la cuisine, le papier doré a la couleur du beurre resté trop longtemps dans une assiette. Augustin a rapporté le disque de l’atelier avec l’accord de Samira. La bande large de Nora tient presque partout. Il manque encore le dernier bout de la bande et la couronne de petits rayons qu’il avait dessinée au crayon. Quand ils ont montré le dessin au groupe, tout le monde regardait le bord du soleil. Augustin se demande si quelqu’un a remarqué les rayons.\n\nSa mère pose le panier de pain sur une chaise pour lui faire de la place. Elle lui demande quand il compte partir chez son cousin, qui a promis de lui laisser choisir ce qu’ils écouteront avant le film. Augustin répond « dans un quart d’heure » en pinçant le dernier bout de papier. Quand il le lâche enfin, il a gardé les épaules levées si longtemps que les baisser lui fait pousser un soupir. Il fait glisser le premier rayon sur la nappe. Il devrait le tenir à un endroit où son index cache précisément le trait. Le film qu’il a prévu de regarder avec son cousin commence dans une heure. Il pense à leur dispute de la dernière fois pour une place sur le canapé. Il se sent déjà trop fatigué pour en rire.\n\nSa mère demande si elle doit finir le soleil. Augustin redresse un coin qui s’était replié. Il a surtout besoin que quelqu’un lui tienne la nappe, qui se déplace chaque fois qu’il s’appuie. « Pour la bande, tiens juste ici. Après j’arrête. » Elle prend le bout de tissu entre deux doigts. Pour la première fois depuis le petit déjeuner, il regarde l’ensemble du disque plutôt que la jointure.",
+      "sections": [
+        {
+          "heading": "L’énergie qu’il reste après avoir fini",
+          "text": "La réussite d’un geste ne dit pas combien de temps ou d’effort il a fallu pour y parvenir. Dans le trouble développemental de la coordination, des mouvements déjà connus peuvent rester lents ou moins précis. Pour Augustin, tenir et ajuster le papier pendant de longues minutes lui demande de reprendre le geste et de faire attention à plusieurs choses à la fois. Il peut être content du bord qu’il a fait et sentir que finir tous les rayons lui laisserait peu d’énergie pour son après-midi. La fatigue d’un jour peut avoir plusieurs causes. Ce qu’il constate ici suffit à poser une limite pour cette séance ; cela ne permet pas de conclure sur l’origine de toute fatigue. Une fatigue inhabituelle ou qui dure mérite d’être abordée avec un professionnel de santé."
+        },
+        {
+          "heading": "Garder l’effet que le groupe attend",
+          "text": "Augustin peut s’arrêter à une version utilisable et présenter les rayons comme une proposition dont la troupe peut discuter. Pour décider, il peut demander à Samira quand le disque doit être prêt et ce qui se voit vraiment depuis la salle. Il y a aussi un choix sur la manière d’aider : maintenir la nappe lui laisse la pose du papier, tandis que finir le bord à sa place lui enlèverait le geste dont il attend le résultat. L’EACD recommande de tenir compte de la tâche, de l’environnement et des priorités de la personne. Ce samedi, les priorités d’Augustin comportent à la fois l’effet du soleil sur scène et un film avec son cousin. Il n’a pas à traiter l’un comme la récompense d’avoir terminé l’autre."
+        }
+      ],
+      "ending_title": "Le premier rayon retourne dans la boîte",
+      "ending": "La bande reste en place quand sa mère lâche la nappe. Augustin remet le rayon et son carton jaune pâle dans la boîte. Ce carton est déjà rond ; il leur avait servi à choisir la taille du disque. Il envoie à Samira une photo du bord doré et propose d’essayer la version sans les rayons. Elle répond qu’ils regarderont depuis la salle et qu’il peut rapporter aussi le disque pâle pour comparer. Il laisse le bord doré sécher à plat et met ses chaussures. Il a encore le temps d’arriver avant que son cousin choisisse la musique.",
+      "mirror": [
+        "Sa mère peut lui demander ce qui l’aiderait à finir la partie qu’il a choisie : « Tu veux que je tienne la nappe ou tu préfères qu’on dégage la table pour plus tard ? » Elle peut aussi respecter l’heure à laquelle il voulait s’arrêter. Samira peut regarder la version incomplète avec lui et dire quelle pièce est nécessaire pour la prochaine répétition ; les décisions d’atelier ne reposent pas sur la famille seule."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin garde le bord doré et s’arrête avant les rayons. Il demande que la troupe juge cette version en salle et part voir son cousin.",
+        "next": "Le disque doré et le disque pâle d’essai retournent à l’atelier. La troupe n’a pas encore vu ce que le doré donne depuis le fond de la salle."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "augustin-la-boite-a-plat",
+      "title": "Demander de l’aide pour lever soi-même le soleil sur scène",
+      "description": "Augustin montre à son ergothérapeute pourquoi sortir le soleil de sa boîte lui prend tant de temps. Il choisit un autre support à essayer.",
+      "context": "au rendez-vous avec l’ergothérapeute, avant la répétition du lever du soleil",
+      "topics": [
+        "Choix de l’aide",
+        "Effort invisible",
+        "Limites du partage"
+      ],
+      "opening": "Mme Rivière a mis de côté le jeu qu’Augustin reconnaît à ses pions transparents. Il a apporté de quoi prendre presque toute la table : le disque jaune pâle dans la boîte de rangement de la troupe, un long carton debout avec une fente en haut. À l’atelier, la boîte va contre le mur parce que tout le monde passe devant. Quand il essaie de sortir le soleil, le fond vient avec. Il coince alors la boîte entre son coude et son ventre et perd le bord qu’il croyait tenir.\n\n« Il faut que je sois assez rapide pour qu’on voie le soleil en même temps que j’arrive. » Augustin a préparé cette phrase dans le bus. Mme Rivière lui demande où il veut être quand on voit le soleil. Il dessine du doigt une table au milieu de la pièce et explique qu’il voudrait lui-même lever le disque. Il n’a pas encore choisi le rôle, mais il sait ce qu’il veut essayer. Quand il parle de la boîte debout, il revoit le visage de Maxence qui lui demande s’il est prêt depuis l’autre bout de l’atelier. Il se dépêche alors au point de lâcher le carton une fois de plus.\n\nSur la table du cabinet, Mme Rivière lui montre un bac vide où le disque pourrait reposer à plat. Elle lui demande si les deux bords seraient accessibles de cette façon dans leur salle. Augustin se lève et tourne autour de la table. Si le bac est placé comme ça, il peut venir de côté. Il essaye. Le disque ne vient pas tout de suite : un bord bute contre la paroi. Il le déplace un peu avant de recommencer. Il aimerait montrer cet essai à Samira ; il cherche ce qu’il peut lui dire sans lui remettre le compte rendu du rendez-vous.",
+      "sections": [
+        {
+          "heading": "Regarder ce que la boîte demande",
+          "text": "Un changement dans la disposition d’un objet peut modifier les gestes nécessaires pour l’utiliser. L’ergothérapeute examine les activités qui posent problème et les éléments de l’environnement qui les facilitent ou les rendent plus difficiles. C’est un des rôles décrits dans le guide de parcours de la HAS. Augustin a nommé l’action qu’il veut garder : lever le soleil devant le public. L’espace pour le saisir et le fait de devoir tenir la boîte en même temps sont des conditions qu’il peut examiner avec Mme Rivière. Le même adolescent peut être à l’aise dans une étape et avoir besoin d’un changement pour la suivante. Ici, la boîte change la difficulté sans que sa motivation ou ses idées aient changé."
+        },
+        {
+          "heading": "Emporter une hypothèse au plateau",
+          "text": "Un essai dans un cabinet ne prédit pas exactement ce qui se passera à l’atelier. Il y aura le passage des autres, une table à partager et un signal à entendre. Augustin peut demander à Samira un bac assez ouvert et un passage d’essai avant de décider. Il peut dire ensuite s’il retrouve le soleil facilement et s’il a encore la tête à sa réplique. Les recommandations internationales privilégient, quand une intervention est indiquée, des objectifs qui ont un sens pour le jeune dans ses activités. La décision de soin reste du ressort du professionnel avec Augustin et sa famille ; l’organisation de la troupe se décide avec Samira et les autres. Un croquis du support suffit pour commencer la discussion à l’atelier."
+        }
+      ],
+      "ending_title": "Un rectangle sur le ticket",
+      "ending": "Augustin dessine le bac sur le dos de son ticket de bus et l’envoie à Samira. « Je veux voir si j’arrive mieux à le prendre posé comme ça. On peut garder une table libre au début ? » Elle lui propose le bac large des grandes feuilles et lui demande de prévenir Maxence pour qu’ils vérifient leurs places. Il range le téléphone. Avec Mme Rivière, il revient à sa carte : sur le fond imprimé, il a pu écouter la réponse sur le quartier. Il a encore oublié un des mots de la légende. Il a rendez-vous avec Mme Besson pour lui dire les deux choses.",
+      "mirror": [
+        "Samira peut répondre au dessin par une question sur le plateau : « Où voudrais-tu essayer le bac ? Je te garde la table jusqu’au passage des clés. » Elle n’a pas besoin du compte rendu pour proposer cet essai. Si une question concerne ses soins, Augustin et sa famille peuvent en parler avec Mme Rivière. Maxence, lui, peut signaler la place dont il a besoin pour ses bruitages sans se charger d’évaluer le geste de son ami."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin choisit de tester le disque dans un bac ouvert et transmet à Samira un croquis et une demande d’essai, sans partager son compte rendu.",
+        "next": "Un bac et un créneau sont réservés à l’atelier. Augustin doit convenir avec Maxence de leurs places et dire à Mme Besson ce qu’a changé le fond imprimé."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "augustin-laisser-le-disque",
+      "title": "Se sentir écarté quand un ami prend l’accessoire",
+      "description": "En voulant faire gagner du temps à la troupe, Maxence tend le soleil à Augustin. Les deux amis se mettent d’accord sur l’aide à apporter.",
+      "context": "lors d’un essai du bac et des bruitages dans l’atelier",
+      "topics": [
+        "Choix de l’aide",
+        "Pression du temps",
+        "Se sentir remplacé"
+      ],
+      "opening": "Le bruit des clés est devenu assez grave pour qu’Augustin imagine un concierge de deux mètres. Maxence a trouvé sa quatrième boîte : une vieille boîte à gâteaux dont le couvercle tremble encore après le tintement. Ils ont posé le bac des grandes feuilles au bout de la table. Le soleil doré y tient à plat. Le côté où Augustin met les doigts reste dégagé ; il l’a vérifié avec Maxence avant l’arrivée des autres. Samira demande d’essayer le début et la fin séparément. Pour ce soir, ils veulent savoir si le bruit des clés et le lever du soleil existent depuis le fond de l’atelier.\n\nAugustin attend le moment où Maya lui laisse le passage. Quand elle recule, il avance la main au-dessus du bac. Le bord est bien là, mais le disque est tourné et le papier frôle la paroi. Le temps qu’il trouve comment le prendre, Maxence est déjà de son côté de la table. Il soulève le soleil et le lui tend en l’air. « Comme ça, tu peux faire la réplique. » Augustin prend l’objet parce qu’il ne veut pas les laisser tous les deux dans cette posture. Il ne dit rien. Il ne voit plus pourquoi il s’est donné la peine de demander un essai du bac.\n\nMaxence lui demande après le passage si l’effet marchait. Augustin répond que le bruit des clés était bien. Il pose le disque et reprend, plus bas : « Quand tu l’as pris, tu as essayé à ma place. J’avais trouvé le bord. » Maxence montre la boîte à gâteaux qu’il a laissée ouverte pour venir. Il croyait que le silence voulait dire qu’Augustin attendait qu’on l’aide. Augustin lui demande de refaire le passage sans quitter son bruitage.",
+      "sections": [
+        {
+          "heading": "Le silence pendant que la main travaille",
+          "text": "Un temps sans mouvement visible peut faire partie d’une action en cours. Augustin est en train d’ajuster sa prise ; Maxence voit surtout que la scène attend. Comme certaines actions coordonnées prennent davantage de temps avec un TDC, l’écart entre ce que la personne fait et ce que les autres voient peut se répéter. L’aide de Maxence a permis de continuer le passage, mais elle a changé la question posée par l’essai : Augustin ne sait toujours pas s’il peut prendre le disque depuis le bac. Il est aussi contrarié qu’un ami ait décidé à sa place. Ce sentiment dépend de ce qu’ils s’étaient promis et du rôle qu’Augustin veut jouer. Une autre fois, il pourrait préférer que Maxence lui tende l’objet."
+        },
+        {
+          "heading": "Laisser une demande d’aide possible",
+          "text": "Ils peuvent décider à deux de la conduite à tenir la prochaine fois. Pendant l’essai, Maxence reste à sa boîte, et Augustin peut demander « Tu me le poses ? » s’il souhaite que le disque soit déplacé à portée de main. Pour que ce soit une vraie option, Maxence doit aussi pouvoir dire quand il ne peut pas quitter son poste. Samira peut les aider à choisir alors une autre personne disponible ou à arrêter l’essai pour changer la disposition. L’EACD situe le soutien de l’entourage parmi les moyens de faciliter la participation. À l’atelier, un bon repère est de vérifier qui fera quel geste et dans quel cas ils veulent changer la répartition."
+        }
+      ],
+      "ending_title": "Maxence reste aux clés",
+      "ending": "À la deuxième prise, Augustin tourne le carton vers lui avant de le soulever. Maxence ne bouge pas. Le disque passe au-dessus du bac et la jointure dorée brille assez longtemps pour que Maya la voie du fond. Augustin ne s’empresse pas de lui dire que tout est réglé. Depuis le fond, Maya dit que le reflet se voit mieux que sur le disque pâle. Augustin range le pâle avec les échantillons et propose de garder le doré sans ajouter de rayons. Il demande à Maxence de laisser le bac en place pour la prochaine répétition et lui montre de quel côté il veut retrouver le soleil. Maxence replie le couvercle de la boîte à gâteaux. Il a hâte de l’entendre dans la grande salle.",
+      "mirror": [
+        "Maxence peut reconnaître ce qu’il a pris en charge trop vite : « J’ai cru que tu m’attendais. Au prochain passage, je reste ici. Si tu veux que je le pose, dis-le-moi et je te réponds. » Il peut aussi dire à quel moment il doit rester au son. Samira garde la responsabilité de faire avancer ou d’arrêter la répétition ; leur amitié n’a pas à dépendre de la vitesse à laquelle ils terminent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin demande de refaire l’essai sans aide anticipée. Il prend le disque par lui-même dans le bac et garde la possibilité de demander un déplacement précis. Il propose de garder le disque doré sans les rayons et range le pâle avec les échantillons.",
+        "next": "La prise fonctionne à la table de l’atelier. Dans la grande salle, le groupe doit encore essayer le geste, le bruitage et la visibilité depuis le public."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "augustin-la-grande-salle",
+      "title": "Douter de soi quand la salle de répétition change",
+      "description": "Le geste essayé à l’atelier se complique sur le plateau. Augustin propose d’arriver les mains libres et de lever le soleil avant de parler.",
+      "context": "au premier essai des accessoires dans la grande salle du centre social",
+      "topics": [
+        "Doute après un revers",
+        "Pression du temps",
+        "Choix de l’aide"
+      ],
+      "opening": "Dans la grande salle, les clés de Maxence font le bruit d’un objet qu’on a laissé tomber pour de vrai. Augustin l’entend de la coulisse, où il cherche le côté ouvert du bac. Le meuble qu’ils ont trouvé ici est plus bas que la table de l’atelier. Il y a assez de lumière pour voir la jointure dorée et pas assez de place pour se mettre du même côté que d’habitude. Augustin approche ses deux mains, tourne le disque et rate l’entrée que lui donne Maya. Quand il rejoint la cour dessinée sur le panneau, il a la réplique sur le bout de la langue et le soleil encore de biais contre lui.\n\nMaxence froisse le papier qui doit faire le bruit du jour. Augustin commence à parler par-dessus. Au premier rang, Samira lève la main : elle a entendu le début de la phrase, puis plus rien. Augustin retourne jusqu’au bac, furieux contre le carton qui s’est mis de travers alors qu’il s’attendait à pouvoir penser au ton de sa réplique. Il fait le geste seul, sans entrée ni texte. Cette fois, le disque vient. Il le tient devant lui quelques secondes. Il se demande lequel des deux essais Samira va retenir.\n\nElle demande à Maya de lui dire ce qu’elle a vu. Maya dit qu’au moment où le soleil lui est apparu, il y avait déjà du bruit et des mots. Augustin remet le disque dans le bac. « Et si j’arrivais les mains libres ? Le soleil pourrait m’attendre près de la fenêtre. » Il regarde le panneau et imagine le côté jaune couché sur la table. De la salle, on ne verrait que le dos de carton.",
+      "sections": [
+        {
+          "heading": "Ce qui change avec la salle",
+          "text": "Une façon de faire qui fonctionne dans un lieu peut demander des ajustements dans un autre. Pour Augustin, la hauteur du support change sa prise et la présence d’un signal change le moment où il doit l’avoir trouvée. Il s’occupe aussi de son trajet et de sa réplique. Les recommandations internationales invitent à examiner les activités et leur environnement ensemble, y compris quand un appui a déjà fonctionné. Prendre le disque facilement dans un essai isolé ne règle pas le problème de la scène entière. Rater une entrée ne fait pas disparaître non plus ce qu’Augustin a découvert à l’atelier. Son doute porte ici sur une question précise : aura-t-il le temps de lever le soleil avant que le public entende autre chose ?"
+        },
+        {
+          "heading": "Mettre les événements dans l’ordre",
+          "text": "La troupe peut essayer un ordre différent : le disque est placé à l’avance, le voisin entre, le lève, le repose, puis parle. Maxence peut choisir un repère qu’il entend pour lancer son bruitage après la réplique. Samira peut regarder une fois depuis la salle, puis demander à Augustin où il a pu prendre son temps et à Maya si elle a su quand lui laisser la place. Avec ces réponses, ils pourront choisir ce qu’ils gardent. Le changement porte autant sur la mise en scène que sur l’accessoire. Il donne aussi au public un instant pour comprendre que ce rond est le soleil avant d’écouter la plaisanterie."
+        }
+      ],
+      "ending_title": "Du carton brun jusqu’à l’entrée",
+      "ending": "Augustin pose le disque face dorée contre la table de la fenêtre. Au deuxième passage, il le soulève avant de regarder la salle. Il le repose, dit sa phrase, et le papier de Maxence crépite après le dernier mot. Samira entend tout ; Maya voudrait un silence un peu plus long avant la réplique. Augustin garde l’ordre sur la feuille de scène et ajoute une note pour vérifier la table au prochain essai. Il n’a pas décidé du rôle. Il sait maintenant comment il aimerait jouer celui-là.",
+      "mirror": [
+        "Samira peut nommer ce qu’elle a observé : « La phrase et le bruit se sont recouverts. On essaie l’ordre que tu proposes et je regarde depuis la salle. » Elle peut demander à chacun ce qui a changé, sans opposer ce nouvel essai au passage réussi à l’atelier. Maxence peut préciser le mot qu’il attend pour son bruitage. Augustin reste celui qui dit si la nouvelle disposition lui convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin propose de placer le disque sur le plateau avant son entrée et de séparer le lever du disque, la réplique et le bruitage. La troupe essaye et conserve cet ordre.",
+        "next": "Le soleil repose face jaune contre la table de la fenêtre, Maxence attend la fin de la réplique. Il reste à vérifier le tout lors du choix du rôle."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "augustin-le-programme",
+      "title": "Choisir ce qu’on raconte de soi dans le programme",
+      "description": "Nora prépare le programme de la pièce. Augustin choisit ce qu’il veut raconter de son travail et garde le reste pour lui.",
+      "context": "à l’accueil du centre social, devant l’épreuve du programme",
+      "topics": [
+        "Limites du partage",
+        "Légitimité dans le groupe",
+        "Peur d’être résumé à une difficulté"
+      ],
+      "opening": "La photocopieuse recrache trois épreuves du programme. Il manque encore la distribution. Nora a mis le titre au milieu d’une fenêtre et demande à Augustin de vérifier si on lit bien L’Aube en carton quand on replie la feuille. Il pousse le papier jusqu’au bord du bureau. Il aime que la cour reste visible à l’intérieur et qu’on ne distingue dehors que deux carreaux noirs. C’est le premier objet de la pièce qu’il pourra glisser dans sa poche.\n\nNora a laissé en dessous un encadré intitulé « Ce qu’on n’avait jamais fait ». Elle a écrit qu’elle n’avait encore jamais joué quelqu’un qui vend du pain et que Maxence avait essayé quatre boîtes pour faire un bruit de clés. Elle demande à Augustin s’il veut raconter pourquoi ils ont dû modifier l’entrée du voisin. « Ça ferait un truc vrai », dit-elle. Il pense à la question de Mme Besson, qui a gardé le fond imprimé pour la prochaine carte après avoir entendu que cela l’aidait à suivre. Là, il savait à qui il parlait et ce qu’il attendait de la conversation. Il n’a aucune idée de qui ouvrira cette feuille.\n\nIl a envie de voir son prénom dans le programme. Il a aussi envie que les spectateurs attendent un soleil, pas le récit d’un garçon à qui il a été difficile de le soulever. Nora lui laisse un crayon et va demander si elle peut encore retarder les copies. Augustin écrit « Augustin, accessoires », puis trouve le titre de l’encadré trop grand pour une ligne si petite. Il tourne la feuille et cherche de quoi il voudrait parler.",
+      "sections": [
+        {
+          "heading": "Savoir à qui l’on parle",
+          "text": "Une personne peut vouloir expliquer un besoin à quelqu’un qui l’aide et garder cette information pour elle ailleurs. Augustin a montré un détail de son travail à son ergothérapeute, un croquis à Samira et une difficulté de copie à Mme Besson. Ces échanges avaient des buts différents. Un programme se lit par des gens que la troupe ne connaît pas et peut être gardé après le spectacle. Le CDDR et les recommandations de l’EACD décrivent le retentissement que les difficultés de coordination peuvent avoir sur le sentiment de compétence et la participation. Dans cet encadré, le sujet est ce qu’Augustin souhaite rendre public de sa contribution. Sa crainte d’être ramené à l’effort qu’un geste lui demande n’est pas un signe clinique."
+        },
+        {
+          "heading": "Parler de ce qu’on a inventé",
+          "text": "Nora peut demander à Augustin de relire sa ligne avant de la mettre en page. S’il veut parler des essais, il peut choisir une décision artistique et garder pour lui le détail qui l’a amené à la proposer. Il peut aussi ne laisser que son nom aux accessoires. Une discussion à propos de l’aide sur scène peut continuer avec Samira en privé. Elle a surtout besoin de savoir où le soleil doit être et qui le place. Rien n’empêche Augustin de nommer son trouble un jour s’il y trouve un intérêt. Pour ce programme, il choisit une phrase qu’il aurait plaisir à retrouver dans la poche de son manteau."
+        }
+      ],
+      "ending_title": "Une ligne sous la fenêtre",
+      "ending": "Quand Nora revient, Augustin lui montre le dos de la feuille : « Comment fait-on du jour avec du carton ? » Il veut bien mettre son prénom après la phrase, dans l’encadré des accessoires. Nora dit qu’on pourrait répondre à sa question dans le programme. Augustin préfère qu’on voie la réponse dans la salle. Elle ajoute le point d’interrogation au propre. Avant de ranger le fichier jusqu’à la distribution, elle lui montre l’épreuve entière. Ils la replient et la fenêtre apparaît exactement entre leurs deux pouces.",
+      "mirror": [
+        "Nora peut dire à Augustin qui verra le programme et lui proposer une dernière lecture : « Cette phrase te va avec ton prénom ? On peut aussi mettre juste les accessoires. » Si elle croit connaître une raison personnelle derrière une décision de scène, elle peut laisser Augustin décider d’en parler. Samira peut garder une conversation sur les ajustements dans le cadre où elle a été utile, même si l’idée du programme lui plaît."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin choisit de signer une question de scénographie et de ne pas raconter ses difficultés personnelles dans le programme.",
+        "next": "Nora a fait relire la ligne avant impression. Le programme peut être préparé pendant que la distribution des rôles se décide."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "augustin-le-voisin",
+      "title": "Renoncer au premier rôle pour jouer la scène qu’on veut",
+      "description": "Après avoir essayé les deux rôles, Augustin choisit le voisin et précise la place qu’il veut garder au moment où le jour se lève.",
+      "context": "au filage où la troupe fixe la distribution",
+      "topics": [
+        "Légitimité dans le groupe",
+        "Choix de l’aide",
+        "Déception et désir"
+      ],
+      "opening": "Augustin garde les clés dans la main une seconde de plus parce que le texte n’a jamais indiqué quand le concierge devait les poser. Il a demandé un petit vide sur la table pour les y laisser sans chercher entre les autres trousseaux. Ça l’aide. Il arrive au mot « égaré » et parle à la plus petite des clés. Du bout de la table, Maya lui répond dans le rôle du voisin. Il est tellement content d’avoir obtenu ce silence-là qu’il manque sa phrase suivante. Il la reprend et voudrait qu’on recommence la scène entière.\n\nSamira propose d’échanger avant qu’il décide. Maya fait son concierge à elle, très appliqué quand il ne sait plus ce qu’il fait. Elle a avancé le texte et cherche à poser ses clés sans cogner la table. Quand Augustin entre en voisin, le disque l’attend près de la fenêtre. Il le lève et laisse la salle regarder. Il aperçoit le pouce de Maxence au-dessus du papier de son bruitage. Maxence le tient immobile en attendant la phrase. Le silence vient de trois endroits à la fois, et Augustin entend mieux la blague avant de la dire.\n\nSamira ramène les deux textes sur la même chaise. Maya dit qu’elle a encore envie du rôle du concierge. Augustin regarde le coin qu’il a plié le premier jour à l’atelier. Une partie de lui voudrait le choisir pour montrer qu’il pourrait le faire ; une autre voudrait recommencer exactement la dernière entrée. Il remet à plat le coin de la page. « Je veux le voisin. Mais je garde le lever du soleil. » Il reste une seconde la main sur le texte du concierge avant de le faire glisser vers Maya.",
+      "sections": [
+        {
+          "heading": "Faire place à ce qui donne envie de jouer",
+          "text": "L’autonomie consiste aussi à choisir une activité d’après ce qu’on y trouve de plaisant et d’important. Les recommandations de l’EACD invitent à tenir compte du point de vue du jeune et de ses forces lorsqu’on fixe les objectifs d’un accompagnement. Augustin a trouvé un agencement des clés qui lui permet d’essayer le monologue. Il sait maintenant ce qu’il aime de chaque scène et ce que chacune lui demande. Choisir le voisin peut laisser une vraie déception : il aimait parler à cette clé. Le choix lui donne en même temps le geste qu’il voulait depuis le début et un silence que trois personnes fabriquent ensemble. La difficulté motrice fait partie de l’arbitrage ; elle n’a pas écrit sa préférence."
+        },
+        {
+          "heading": "Prévoir une autre façon de faire, à la demande",
+          "text": "La troupe peut maintenant décider de ce qui se passe si le disque se décale ou si Augustin préfère ne pas le lever à une représentation. Il peut proposer une phrase que Maya reconnaîtra, en restant dans le jeu. Maya peut dire si elle sait reprendre le geste avec ses clés et où se placer. Samira peut prévoir un essai pour que la solution soit praticable, au lieu de demander à Augustin de promettre que le premier plan marchera. Préparer un relais ne change pas la répartition décidée. Quand les conditions habituelles sont réunies et qu’il tient au geste, Augustin le garde. Il pourra demander le relais au moment utile."
+        }
+      ],
+      "ending_title": "Un mot dans la marge du voisin",
+      "ending": "Augustin et Maya essaient « Montrez-leur » : c’est le signal qu’il peut lui donner s’il veut qu’elle lève le disque. La première fois, elle cherche une place pour les clés. Elle les pose dans le vide qu’Augustin avait demandé au début et recommence. Maxence attend toujours la fin de la réplique sur le réveil. Samira inscrit Maya au concierge et Augustin au voisin. Augustin prend son texte. Il demande à Maya de garder le silence avant « égaré » à sa façon à elle ; il voudrait voir ce que ça donne depuis la coulisse.",
+      "mirror": [
+        "Maya peut entendre le choix et dire ce qu’elle peut assurer : « D’accord, tu lèves le soleil. Si tu me dis “Montrez-leur”, je pose mes clés et je le prends. On essaie une fois ? » Samira peut noter ce relais à côté de la distribution, en gardant le rôle choisi par Augustin. Il peut regretter une partie du concierge sans que les autres traitent son choix comme une erreur à corriger."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin essaie les deux rôles puis choisit le voisin et le lever du soleil. Maya choisit le concierge. Ils répètent le relais à la demande « Montrez-leur ».",
+        "next": "La distribution est fixée ; le disque est préplacé et Maxence attend la fin de la phrase du voisin pour son bruitage. Le relais reste possible sans changer de rôle."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "augustin-un-soleil-plus-pale",
+      "title": "Redouter de tout refaire à la veille du spectacle",
+      "description": "Le soleil doré s’est plié dans le rangement. Augustin teste le disque pâle et choisit ce qu’il peut encore changer avant la représentation.",
+      "context": "la veille du spectacle, dans le local des accessoires",
+      "topics": [
+        "Pression du temps",
+        "Peur de décevoir",
+        "Choix de l’aide"
+      ],
+      "opening": "Le grand carton se coince sous l’enseigne de la boulangerie. Augustin soulève l’enseigne pendant que Samira tire le carton. Quand elle l’ouvre, un pli coupe le soleil doré presque en deux. Il traverse la trace de pouce. Augustin passe l’ongle près de la jointure, là où le papier s’est décollé sur une largeur de main. Il s’entend proposer de refaire le tour ce soir. Il calcule le trajet jusqu’à chez lui, puis le nombre de bandes qu’il lui faudrait. Pendant un instant, il oublie que le carton restera plié avec du papier neuf dessus.\n\nMaxence trouve le disque pâle sous les échantillons de Nora. Ils l’avaient apporté pour comparer les couleurs et rangé après avoir vu le reflet du doré. À côté de l’autre, il a l’air d’une assiette dont le jaune est parti au lavage. Maxence dit que personne dans la salle n’a vu le premier soleil. Augustin lui répond trop fort que lui, si. Il prend le disque pâle et le serre par un seul bord. Il fléchit sous son pouce ; il est moins rigide que l’autre. Augustin dégage la table, le pose à plat et essaie de le soulever à deux mains. Cette fois, il ne plie presque pas.\n\nIl demande à Nora de se mettre au dernier rang pendant qu’il essaye le disque. Elle lui demande s’il veut un avis sur la couleur ou sur la façon dont il se voit. Augustin les veut tous les deux, mais dans cet ordre : d’abord, savoir si ça ressemble au jour.",
+      "sections": [
+        {
+          "heading": "Un changement matériel suffit à relancer les questions",
+          "text": "Remplacer un objet peut modifier à la fois son effet et les gestes nécessaires pour le manier. Une différence de rigidité ou de prise peut compter pour quelqu’un qui a des difficultés de coordination. La recommandation de l’EACD de prendre en compte le contexte vaut aussi quand la tâche semble porter le même nom : lever deux disques de même taille peut demander deux manières de les saisir. Le pli du carton serait un problème pour toute la troupe ; il ne vient pas du trouble d’Augustin. Pour lui, il réveille la crainte d’avoir à passer la soirée sur des gestes longs alors que les répétitions avaient enfin fixé sa place et ses repères."
+        },
+        {
+          "heading": "Vérifier l’essentiel avant de modifier le reste",
+          "text": "La troupe peut vérifier si la couleur pâle se distingue, puis si Augustin peut soulever et reposer le disque comme il le souhaite. Si le jaune est visible et que la prise à deux mains lui convient, garder l’ordre des autres événements limite le nombre de changements à la fois. Si Augustin préfère le relais déjà préparé, il peut le signaler à Maya. Il peut vouloir retoucher une couleur pour des raisons artistiques ; Samira peut lui dire le temps et le matériel réellement disponibles avant qu’il choisisse. La déception de perdre la bande dorée ne disparaît pas parce qu’un remplacement fonctionne. Il peut garder l’ancien disque pour lui et choisir la version qui joue demain."
+        }
+      ],
+      "ending_title": "Le soleil pâle reste sur la table",
+      "ending": "Nora dit qu’au dernier rang, ça ressemble au soleil d’un matin où il fait froid. Augustin imaginait un matin d’août ; il essaye sa réplique dans ce matin froid. Elle marche aussi. Il annonce qu’il jouera avec le disque pâle et montre à Maya comment il le soulèvera. Ils gardent le relais et l’ordre du bruitage. Quand Samira apporte la boîte de rangement, Augustin lui demande de laisser le disque neuf à plat pour demain. Il range le doré ailleurs, avec un papier entre le pli et la trace de pouce.",
+      "mirror": [
+        "Maxence peut revenir sur sa remarque : « J’ai dit qu’on ne verrait pas la différence. Toi, tu la vois. Tu veux que je regarde l’autre du fond ou tu préfères Nora ? » Il peut entendre qu’Augustin a perdu un détail auquel il tenait. Samira peut préciser le temps qu’il reste et protéger l’essai prévu. Une fois le disque choisi, chacun reprend sa part du spectacle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Après l’essai depuis le dernier rang et avec une prise à deux mains, Augustin choisit le disque pâle pour la représentation, sans retouche le soir même.",
+        "next": "Le disque pâle est gardé à plat et sera placé sur la table de scène. La phrase, le bruitage et le relais restent les mêmes. Le disque doré plié est rangé à part."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "augustin-le-temps-du-silence",
+      "title": "S’autoriser une pause sous le regard de la salle",
+      "description": "Devant le public, Augustin a besoin d’un instant de plus avant de soulever le soleil. Il décide de garder le geste et le silence qui le précède.",
+      "context": "pendant la représentation de L’Aube en carton",
+      "topics": [
+        "Pression du temps",
+        "Regard du public",
+        "Choix de l’aide"
+      ],
+      "opening": "Au ras du rideau, Augustin voit d’abord les mains des gens du premier rang. Augustin reconnaît celles de son cousin au rythme qu’elles tapent sur ses genoux. Il ne sait pas si c’est l’impatience ou la musique du film qu’ils ont vu ensemble. Maya parle à la petite clé. Elle laisse avant « égaré » un silence plus court que celui qu’il avait essayé. La salle se penche quand même vers elle. Augustin finit par regarder le dos du disque pâle, posé sur la table comme prévu. D’ici, il se confond avec le bord du panneau.\n\nMaya lui donne son entrée. Le bas de la manche de son costume recouvre le bout de ses doigts. Augustin ne s’en aperçoit qu’en arrivant devant la table. Il pose la première main et le carton glisse un peu. Il relève les yeux. Maya a les clés près de la place où elle pourra les laisser s’il lui dit « Montrez-leur ». Elle attend. Augustin entend une personne tousser du fond ; quelqu’un se retient de rire près du rideau. Il a envie de parler tout de suite pour leur donner quelque chose à entendre. Il choisit d’écarter le tissu et d’approcher ses deux mains avant de décider.\n\nLe bord vient. Le disque penche légèrement quand il se redresse. Augustin trouve l’angle où il le voit encore lui-même et où la salle peut voir le jaune pâle. Il ne sait pas depuis combien de temps il est là. Il garde le soleil levé le temps que le papier des programmes cesse de bouger.",
+      "sections": [
+        {
+          "heading": "Tout le monde n’attend pas la même chose",
+          "text": "Un silence qui semble long pour la personne en train d’agir peut avoir une autre signification pour ceux qui la regardent. Augustin voit le bord du carton bouger et sait ce qu’il pourrait devoir changer. Le public voit un voisin arriver dans une cour où le jour tarde à paraître. Des difficultés de coordination peuvent allonger une action même quand elle a déjà été répétée ; elles n’indiquent pas ce que chacun comprend dans la salle. Ce soir, Augustin a besoin d’un instant pour retrouver sa prise, et il veut que le disque ait le temps d’apparaître. Il peut ressentir les deux choses à la fois. L’appui de Maya est prêt, ce qui lui laisse une possibilité au moment où il n’est pas encore sûr de pouvoir faire le geste."
+        },
+        {
+          "heading": "Laisser le signal à celui qui doit le donner",
+          "text": "Maya peut se tenir prête et attendre le mot convenu. Maxence peut garder son bruitage pour la fin de la réplique, même si l’entrée dure plus longtemps que la veille. Ces repères ont été décidés en répétition et demandent un effort à tous les trois : le silence de Maya et de Maxence laisse à Augustin du temps pour choisir. Les recommandations internationales soulignent l’intérêt des appuis de l’environnement et de l’entourage pour la participation. Ici, ces appuis ont un objectif de scène, et leur utilité ne se juge pas au fait qu’on ait utilisé ou non le relais. Une fois le spectacle terminé, Augustin pourra dire quel moment il a aimé et s’il veut changer quelque chose à la suite."
+        }
+      ],
+      "ending_title": "Après « me lève »",
+      "ending": "Il repose le soleil en regardant le côté pâle s’éteindre sur la table. « Vous auriez pu attendre que je me lève. » Le papier de Maxence répond après la phrase. Il y a un rire près du rideau, un autre plus loin. En coulisse, Augustin s’aperçoit qu’il serre encore les manches. Au salut, il prend le temps d’attendre que Nora les rejoigne. Son cousin l’attend dans l’entrée, son programme roulé dans la main. « J’ai vraiment cru qu’ils allaient attendre dix minutes de plus. » Augustin lui demande à quel moment il s’est mis à le croire. Cette fois, il peut attendre la réponse.",
+      "mirror": [
+        "Maya peut garder le relais disponible et attendre le signal qu’ils ont choisi. Après le spectacle, le cousin d’Augustin peut parler de ce qu’il a vu : « Quand tu as levé le disque, j’ai compris pourquoi ils attendaient tous. Toi, comment tu l’as vécu ? » Il peut accepter qu’Augustin préfère parler de la blague ou qu’il ait besoin de se changer avant la conversation. Il n’a pas à tirer de conclusion sur son trouble à partir de la soirée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin prend un temps de plus, retrouve une prise à deux mains et choisit de lever le soleil lui-même, avec le relais encore possible.",
+        "next": "La troupe a joué la pièce. Augustin veut entendre ce que la salle a perçu ; les accessoires et le programme resteront à ranger après le spectacle."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "augustin-la-prochaine-piece",
+      "title": "Avoir envie de rejouer sans promettre le même rôle",
+      "description": "Au rangement, Augustin revient sur le silence qui l’a fait rire et sur ce qu’il veut garder pour une prochaine pièce.",
+      "context": "la semaine suivante, quand la troupe rend les accessoires",
+      "topics": [
+        "Légitimité dans le groupe",
+        "Limites du partage",
+        "Choix de l’aide"
+      ],
+      "opening": "Le panneau de la fenêtre a été retourné contre le mur. On voit la couleur que la cour aurait eue si Nora avait préféré la première peinture. Augustin porte le disque pâle jusqu’à la grande table où Samira a laissé les programmes en trop. En haut de la pile, quelqu’un a coché « Comment fait-on du jour avec du carton ? » comme si c’était une question d’examen. Son cousin lui a raconté qu’il avait surtout aimé le moment où le concierge parlait à la clé. Augustin aurait voulu qu’il dise le soleil. Il a fini par se faire répéter la façon dont Maya avait baissé la voix.\n\nSamira leur propose de noter une chose à refaire avant de vider les boîtes. Maxence dit qu’il aimerait encore travailler avec quelqu’un qui attend son bruitage. Augustin lui rappelle qu’à la fin c’était plutôt Maxence qui attendait. Ils se mettent à rire au milieu des programmes et Samira leur demande si le voisin et les accessoires les tenteraient de nouveau. Augustin pense à la page du concierge qu’il avait rendue. Il ne regrette pas la soirée et il aimerait toujours essayer une scène longue, un jour où il pourrait lui donner de la place.\n\nSous le disque pâle, il retrouve le soleil doré qu’ils avaient rangé à part. Le carton plie encore. Augustin le tourne pour que le pli traverse le cercle en biais. Ça pourrait faire le dossier d’une chaise d’où quelqu’un annoncerait des choses que personne n’attend. Samira demande quel rôle il faut inscrire à côté de son nom pour le prochain atelier. « Tu peux laisser la case vide ? J’ai envie de venir avec un début de scène. »",
+      "sections": [
+        {
+          "heading": "Une solution garde la trace de la situation",
+          "text": "Une adaptation utile pour une représentation ne décide pas des rôles qu’une personne pourra choisir ensuite. Les difficultés liées au trouble de la coordination peuvent persister à l’adolescence, et leurs effets dépendent aussi des activités, des objets et de l’organisation du moment. Pour L’Aube en carton, Augustin a voulu un geste précis et un certain silence. Avec une autre pièce, il pourrait préférer travailler un texte plus long et laisser la fabrication à quelqu’un d’autre. Il pourra aussi éprouver de nouveau de la fatigue ou être gêné par un accessoire. Le résultat du spectacle lui donne des informations sur ce qu’il a aimé et sur les conditions qui lui ont convenu. Il ne permet pas de prévoir la suite à sa place."
+        },
+        {
+          "heading": "Se souvenir des accords qui laissent un choix",
+          "text": "Samira peut noter que les essais ont été plus utiles quand ils portaient sur un passage concret et quand chacun pouvait dire de quoi il avait besoin. Elle peut proposer de refaire cette discussion au prochain projet sans appliquer d’avance la même disposition. Augustin sait par exemple qu’il aime pouvoir essayer un objet dans la salle avant d’arrêter sa façon de jouer, et qu’il peut demander un relais précis. Les recommandations internationales situent la participation et le point de vue du jeune au cœur des objectifs, que les professionnels peuvent revoir quand les activités changent. Augustin peut en parler avec Mme Rivière s’il le souhaite. Dans son groupe, il peut simplement apporter l’idée d’une scène et choisir plus tard le rôle qu’il aimerait y tenir."
+        }
+      ],
+      "ending_title": "L’autre côté du carton",
+      "ending": "Samira laisse la case vide. Augustin prend un programme pour sa mère et demande s’il peut utiliser le vieux soleil pour son croquis. Il trace au dos une chaise avec un dossier en biais. Maxence trouve qu’elle a l’air de bouder et fait grincer la sienne pour l’imiter. Augustin ajoute deux phrases au crayon, dont une qu’il n’arrive pas encore à dire sans rire. Avant de ranger, il demande à Maxence de venir écouter le début mercredi. Cette fois, ils n’ont pas encore de bruitage.",
+      "mirror": [
+        "Samira peut demander ce qu’Augustin souhaite conserver d’une expérience avant de lui proposer un rôle : « La prochaine fois, tu veux d’abord essayer une scène, fabriquer quelque chose ou regarder les deux ? » Maxence peut venir écouter le début en ami et dire si le projet lui plaît. Le groupe peut garder en mémoire les façons de travailler qui ont aidé, sans transformer le rôle du voisin en place réservée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "eacd-tdc"
+      ],
+      "continuity": {
+        "choice": "Augustin garde un programme et réutilise le disque doré pour une nouvelle idée de scène. Il demande de laisser son prochain rôle ouvert et invite Maxence à écouter son texte.",
+        "next": "L’Aube en carton est jouée et le choix du voisin est résolu. La prochaine scène lui donne un projet neuf ; le rôle, les gestes et l’aide qu’il voudra y essayer restent à décider."
+      }
+    }
+  ]
+}

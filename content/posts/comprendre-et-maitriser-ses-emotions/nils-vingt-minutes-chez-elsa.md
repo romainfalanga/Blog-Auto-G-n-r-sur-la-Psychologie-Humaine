@@ -1,5 +1,5 @@
 ---
-title: Nils demande à Elsa de rester à table
+title: Demander une présence sans rendre l’autre responsable
 description: Elsa voudrait savoir si elle doit rester joignable toute la nuit. Nils
   lui dit ce qu’il est venu chercher pour ce soir.
 slug: nils-vingt-minutes-chez-elsa
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le vendredi soir, dans la cuisine d’Elsa
 tags:
 - Schizophrénie
-- Soutien d’un proche
-- Limites
-- Plan de soins
+- Demander du soutien
+- Limites des proches
+- Écoute sans surveillance
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

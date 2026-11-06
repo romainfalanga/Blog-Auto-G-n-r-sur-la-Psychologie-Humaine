@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 
 import yaml
 
-from build_article_intros import HEADING, WORD, normalized, plain_text
+from build_article_intros import HEADING, WORD, normalized, plain_text, sentences
 from check_editorial_pack import CATEGORIES, ROOT
 from integrate_editorial_pack import public_page
 
@@ -42,6 +42,17 @@ def prose(value):
 
 def words(value):
     return len(WORD.findall(plain_text(value)))
+
+
+def story_teaser(opening):
+    """Use the beginning of the scene, like the original character cards."""
+    preview = []
+    for sentence in sentences(plain_text(opening))[:3]:
+        candidate = ' '.join([*preview, sentence])
+        if preview and (words(' '.join(preview)) >= 30 or words(candidate) > 60):
+            break
+        preview.append(sentence)
+    return ' '.join(preview)
 
 
 def validate_episode(episode, character, number, dossier):
@@ -110,7 +121,16 @@ def character_evidence(character, shared):
 def arc_outputs(character, manifest, publication, order, evidence):
     ident, code = character['id'], character['code']
     dossier = evidence['dossiers'][code]
-    require(manifest.get('character_id') == ident and prose(manifest.get('bio')), f'Présentation du personnage invalide : {ident}')
+    bio = manifest.get('bio')
+    require(manifest.get('character_id') == ident and prose(bio) and 60 <= words(bio) <= 105,
+            f'Présentation du personnage invalide : {ident}')
+    cues = manifest.get('profile_topics')
+    diagnosis = {normalized(label) for label in [dossier['name'], *dossier.get('aliases', [])]}
+    require(isinstance(cues, list) and len(cues) == 5
+            and all(prose(cue) and cue == cue.strip() and '\n' not in cue and len(cue) <= 55 for cue in cues)
+            and len({normalized(cue) for cue in cues}) == 5
+            and not (diagnosis & {normalized(cue) for cue in cues}),
+            f'Cinq repères psychologiques distincts requis dans le portrait : {ident}')
     episodes = manifest.get('episodes')
     require(isinstance(episodes, list) and len(episodes) == 12, f'Douze épisodes requis : {ident}')
     outputs, topics, mirrors, rows = {}, {}, {}, []
@@ -142,19 +162,17 @@ def arc_outputs(character, manifest, publication, order, evidence):
         refs = [evidence['references'][ref] for ref in dict.fromkeys(episode['sources'])]
         body.append('## Sources\n\n'+'\n'.join(f'- [{ref["title"]}]({ref["url"]})' for ref in refs))
         outputs[ROOT / 'content' / (identifier+'.md')] = '---\n'+yaml.safe_dump(front,allow_unicode=True,sort_keys=False)+'---\n\n'+'\n\n'.join(body)+'\n'
-        rows.append({'episode':number,'category_key':CATEGORY_KEY,'slug':slug,'title':episode['title'],'resume_narratif':episode['description']})
+        rows.append({'episode':number,'category_key':CATEGORY_KEY,'slug':slug,'title':episode['title'],
+                     'resume_narratif':story_teaser(episode['opening'])})
     canon = character['canon']
     profile = {
-        'prenom':character['name'],'id':ident,'description_dynamique':manifest['bio'],
+        'prenom':character['name'],'id':ident,'description_dynamique':bio,
         'date_naissance':f'{date.fromisoformat(publication).year-canon["age"]}-01-01',
         'profession':canon.get('occupation',''), 'situation_familiale':canon['setting'],
     }
-    counts = Counter(topic for values in topics.values() for topic in values)
-    cues = [dossier['name']]
-    cues.extend(topic for topic,count in counts.most_common() if topic not in cues and count > 1)
     outputs[ROOT / 'content/personnages' / (ident+'.md')] = public_page(
         profile, rows, 34+order, published_on=publication+'T00:00:00+00:00',
-        profile_fields={'clinical_code':code,'reading_topics':cues[:5]},
+        profile_fields={'clinical_code':code,'reading_topics':cues},
     )
     outputs[ROOT / 'data/article_mirrors' / (ident+'.json')] = dump(mirrors)
     return outputs, topics
@@ -215,6 +233,8 @@ def brief(ident):
         'references':{ref:evidence['references'][ref] for ref in dossier['references']} if dossier else {},
         'charter':(EDITORIAL / 'charter.md').read_text(),
         'files':{'manuscript':str(path.relative_to(ROOT)), 'dossier':str(dossier_path(ident).relative_to(ROOT))},
+        'manifest_fields':['character_id', 'bio', 'profile_topics', 'episodes'],
+        'profile_topics_count':5,
         'episode_fields':[*ARTICLE_KEYS, 'ending_title'],
         'total_episodes':12,
         'continuity':[{'number':e['number'], 'title':e['title'], **e['continuity']} for e in episodes],

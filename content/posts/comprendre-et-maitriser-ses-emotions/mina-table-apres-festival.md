@@ -1,5 +1,5 @@
 ---
-title: La table après la fermeture
+title: Après le festival, garder du temps pour soi malgré le désaccord
 description: Après le festival, Mina et Rachid rangent le local. Mina garde son suivi
   et réserve un créneau de reliure pour un projet personnel.
 slug: mina-table-apres-festival
@@ -11,9 +11,9 @@ contexte: Le lendemain du festival, dans le local presque vide
 tags:
 - Profil borderline
 - Trouble borderline
-- Continuité des soins
-- Relations dans la durée
-- Projet personnel
+- Désaccord durable au travail
+- Disponibilité choisie
+- Place donnée à un projet pour soi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

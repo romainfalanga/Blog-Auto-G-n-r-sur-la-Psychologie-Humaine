@@ -1,5 +1,5 @@
 ---
-title: L’affiche retournée
+title: 'Remarque sur l’apparence : Clémence demande l’appui de Baya'
 description: Une remarque dans le foyer gêne Clémence. Elle dit à Baya de quel appui
   elle aurait envie si la conversation revient sur son apparence.
 slug: clemence-affiche-retournee
@@ -11,9 +11,9 @@ contexte: choisir une réponse à une remarque personnelle et garder la main sur
   informations partagées au ciné-club
 tags:
 - Anorexie
-- Commentaires sur l’apparence
-- Confidentialité
-- Soutien à la demande
+- Gêne face au regard des autres
+- Limites dans une conversation
+- Aide convenue entre amies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

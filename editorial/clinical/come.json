@@ -1,0 +1,454 @@
+{
+  "character_id": "come",
+  "bio": "À 22 ans, Côme travaille dans une boutique de pièces détachées. Il préfère retrouver la bague qui manque à un aspirateur plutôt que changer le tube entier. À l’atelier partagé, il reconstruit une table pour jouer avec ses amis. Le soir, il joue souvent en ligne avec Florian et Sana. Il est suivi pour un trouble du jeu vidéo : certains soirs, il a du mal à quitter une partie à l’heure qu’il s’était donnée. Quand cela lui coûte du sommeil ou un rendez-vous, il essaie d’en parler plus tôt.",
+  "profile_topics": [
+    "Difficulté à s’arrêter",
+    "Sommeil et fatigue",
+    "Besoin de lien",
+    "Limites relationnelles",
+    "Demande d’aide"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "come-craie-sur-le-bati",
+      "title": "Difficulté à s’arrêter la veille d’un rendez-vous",
+      "description": "Côme arrive trop tard à l’atelier. Le bâti de sa table est toujours là, mais quelqu’un d’autre occupe l’établi.",
+      "context": "Un samedi matin, à l’atelier partagé, près du tableau des réservations",
+      "topics": [
+        "Difficulté à s’arrêter",
+        "Priorité donnée au jeu",
+        "Rendez-vous manqué"
+      ],
+      "opening": "La craie a laissé un petit tas de poudre sous le nom de Côme. À la place de son créneau de neuf heures, quelqu’un a écrit « Agathe, étagères ». Il reconnaît les deux traits courts de Nadège. Elle les met quand elle change une réservation. De l’autre côté de l’établi, Agathe déroule le plan d’un meuble et cale les angles avec quatre rondelles. Le bâti de la table que Côme a récupéré est toujours debout contre le mur, sans plateau. Il a fait le trajet en pensant à la façon dont il allait le porter seul. Sur place, il n’a plus rien à porter.\n\nNadège lui montre son message de neuf heures et quart. Elle l’a attendu avant de donner la place à Agathe. Côme avait préparé sa veste et son mètre la veille, puis retrouvé Florian et Sana en ligne. Ils avaient joué comme prévu. Quand Sana s’était déconnectée, il avait dit qu’il allait faire pareil. Il était resté pour jouer encore, d’abord avec Florian, puis seul. Il se souvient avoir regardé sa veste depuis sa chaise et calculé le temps qui lui restait avant le réveil. Le calcul n’avait rien changé. Ce matin, il s’est levé au moment où il aurait dû repartir de l’atelier.\n\nIl sort son mètre de la poche où il l’avait laissé. « Je vais attendre qu’elle finisse », dit-il. Nadège lui indique les panneaux empilés à côté d’Agathe : elle en a pour le reste du créneau. Côme lui demande alors s’il peut prendre les mesures du bâti dans l’espace de rangement. Il voulait le démonter ce matin. Il commence par regarder ce qu’il tient à garder.",
+      "sections": [
+        {
+          "heading": "Ce que le retard ne raconte pas à lui seul",
+          "text": "Dans le trouble du jeu vidéo, il peut devenir difficile de s’arrêter ou de changer le moment où l’on joue, même lorsqu’on voit ce que cela risque de coûter. Côme avait préparé son départ pour l’atelier et savait à quelle heure il devait dormir. Il a repoussé plusieurs fois le moment de quitter la partie. La conséquence prend la forme d’un établi occupé et d’une matinée qu’il ne récupérera pas.\n\nLe diagnostic de Côme a été posé avant ce samedi, en consultation d’addictologie. Il tient à une histoire plus longue qu’un seul rendez-vous. Le guide clinique de l’OMS indique qu’une pratique peut prendre une place croissante au détriment d’autres activités et se poursuivre malgré un retentissement important. Une longue soirée, une habitude quotidienne ou une arrivée en retard ne permettent pas, à elles seules, de tirer cette conclusion. Côme s’était amusé en jouant avec ses amis. Ce plaisir fait aussi partie de ce qu’il voudra expliquer s’il revient parler de sa semaine."
+        },
+        {
+          "heading": "Reprendre la mesure qui reste à sa portée",
+          "text": "Côme voulait venir à l’atelier pour construire quelque chose dont il avait déjà l’usage en tête. Sur son ancienne table, les cartes débordaient dès qu’il dépliait le plateau. Sur la prochaine, il voudrait pouvoir laisser les cartes à plat et garder une place pour les coudes. À neuf heures, il avait prévu de vérifier la solidité du bâti avec Nadège. À son arrivée, il peut encore relever les dimensions dans le rangement, à l’écart du passage. Le reste attendra une réservation disponible.\n\nS’il évoque la nuit en consultation, il dispose d’un exemple précis : ce qu’il avait prévu de faire, le moment où il a voulu quitter la partie et ce qu’il a perdu le matin. Son croquis peut, lui, rester dans la poche de sa veste. Il a deux choses à préparer qui n’ont pas besoin de tenir sur le même papier."
+        }
+      ],
+      "ending_title": "Deux chiffres derrière le tableau",
+      "ending": "Nadège décroche le tableau pour récupérer un bout de ficelle coincé derrière. Côme en profite pour lui demander le prochain créneau libre. Il choisit le samedi d’après, plus tard dans la matinée ; le bâti peut rester au rangement jusque-là. Il relève deux mesures, les inscrit sur un carton et ajoute un point d’interrogation près du côté où le bois a noirci. Quand Agathe lui demande si elle peut emprunter une rondelle qui roule vers le bord, il la retient du doigt et la lui tend. L’établi est bien à elle, maintenant.",
+      "mirror": [
+        "Nadège peut s’en tenir à ce qu’elle sait : « Je t’ai attendu puis j’ai donné la place à Agathe. Il reste un créneau samedi prochain ; tu veux le prendre ? » Elle peut aussi lui indiquer le coin où mesurer sans bloquer l’atelier. Agathe n’a pas à céder l’établi et Nadège n’a pas à appeler Côme pour s’assurer qu’il s’est levé. Chacun peut tenir sa place et lui permettre de reprendre le projet."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video"
+      ],
+      "continuity": {
+        "choice": "Côme prend les mesures possibles dans le rangement et réserve un créneau tardif le samedi suivant.",
+        "next": "Le bâti attend au rangement. Côme conserve le carton où il a noté les dimensions et le côté noirci."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "come-bac-derriere-le-comptoir",
+      "title": "Quand le jeu écourte le sommeil avant le travail",
+      "description": "À la boutique, Inès a ouvert seule et les retours se sont accumulés. Côme choisit ce qu’il lui doit et ce qu’il dira en consultation.",
+      "context": "Le lundi suivant, à la boutique de pièces détachées, au moment de l’ouverture",
+      "topics": [
+        "Sommeil et fatigue",
+        "Retentissement au travail",
+        "Confidentialité"
+      ],
+      "opening": "Il y a trois poignées d’aspirateur dans le bac des retours. Côme reconnaît la première à la marque blanche près de l’emboîtement. Le client voulait qu’elle coulisse sans avoir à changer le tube. Il avait promis de lui chercher la bague seule. La deuxième ne vient pas de chez eux. La troisième, fendue au milieu, porte un numéro écrit sur du ruban de masquage. Inès a commencé à trier le tout avant d’aller servir. Il voit les pièces dans le bac ouvert avant de voir le manteau d’Inès, encore posé sur son tabouret.\n\n« J’ai fait l’ouverture et pris le premier retour. Les deux autres ont attendu. » Elle pose devant lui le ticket que le client a laissé. Côme a couru depuis l’arrêt du bus. Le soir de l’atelier, il s’était couché tôt. Hier, il avait rouvert le jeu en rentrant avec l’idée de regarder un changement apporté à une carte. Quand il avait éteint, il avait d’abord pensé qu’il pourrait se lever quand même. Il voudrait dire à Inès qu’il était de bonne heure là, samedi, dans sa tête au moins. Ce serait lui demander de croire à une heure dont elle ne voit jamais la couleur.\n\nInès reprend son ticket : le client du tube attend un appel. Côme lui dit qu’il prend le bac et qu’il sera en mesure de rappeler avant midi. « Et pour l’ouverture, quand tu sais que tu vas être en retard, j’ai besoin que tu me le dises avant », ajoute-t-elle. Il baisse les yeux vers la marque blanche et dit oui. Elle enfile enfin son manteau pour aller chercher le café qu’elle n’a pas encore eu.",
+      "sections": [
+        {
+          "heading": "Le sommeil se voit le lendemain",
+          "text": "Une pratique de jeu difficile à interrompre peut réduire le sommeil et peser sur le travail le lendemain. Le guide de l’OMS signale que les perturbations du sommeil peuvent faire partie du trouble du jeu vidéo. La fatigue, à elle seule, n’en donne pas la cause. Pour Côme, la question se rapporte à deux nuits qu’il connaît : il a tenté de partir du jeu, est resté et s’est retrouvé trop fatigué pour tenir l’horaire qu’il avait choisi ou accepté. Le samedi soir où il s’est couché tôt compte aussi. La difficulté peut revenir par périodes.\n\nCôme connaît le nom donné à ce qu’il vit. Il a pourtant hésité à rappeler la consultation parce qu’il imaginait qu’il faudrait y apporter le relevé complet de ses parties. Ce matin, il sait déjà dire ce qui l’embête le plus : quand il compte sur sa capacité à quitter une partie à temps, il ne peut pas toujours s’y fier. Le retard lui coûte une prise d’ouverture. Il a aussi laissé à Inès une part de travail qu’elle n’avait pas prévue."
+        },
+        {
+          "heading": "Parler de l’ouverture à la boutique",
+          "text": "Pour remettre les retours en ordre, Inès a besoin de savoir qui appelle le client et comment elle sera prévenue si Côme est en retard. Côme peut répondre à ces questions avec les éléments dont ils se servent tous les jours : une heure, un nom sur le ticket et la consigne de la boutique. Il garde les détails de sa nuit pour la consultation. Le CHU de Nantes décrit l’addictologie comme un lieu où l’on peut discuter avec un professionnel de ses difficultés et d’un suivi adapté, y compris à propos des jeux vidéo.\n\nIl peut aussi dire qu’il lui faudra du temps pour retrouver une façon de tenir ses engagements. Sur l’instant, il n’en fait pas une promesse à Inès. Il retrouve la bonne bague dans un casier où elle a été rangée sous l’ancien nom du tube, puis appelle le client. À côté du téléphone se trouve une feuille où sa collègue a écrit « à rappeler ». Il la retourne pour s’en servir comme brouillon personnel."
+        }
+      ],
+      "ending_title": "Au dos de la feuille d’appel",
+      "ending": "Côme inscrit « samedi, établi » puis « lundi, ouverture » sur le brouillon. Il le plie côté blanc vers l’extérieur et le met dans sa poche. Après son service, il demande un rendez-vous au secrétariat de la consultation où il était déjà suivi. On lui propose le mercredi de la semaine suivante. Il vérifie son horaire de boutique avant de répondre et accepte. En fermant la conversation, il se rend compte qu’il n’a donné aucun chiffre d’heures. Il a dit qu’il avait manqué deux choses auxquelles il tenait.",
+      "mirror": [
+        "Inès peut parler de la matinée qu’elle a dû reprendre : « J’ai pu ouvrir aujourd’hui. Pour la prochaine fois, préviens-moi par le moyen qu’on utilise à la boutique. Est-ce que tu peux prendre les retours ? » Elle n’a pas à deviner ce que Côme a fait de sa soirée. Si les difficultés d’ouverture reviennent, elle peut les traiter comme une question de travail avec la personne qui organise le planning, sans chercher à enquêter sur sa santé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme reprend les retours, accepte de prévenir pour le travail et reprend rendez-vous en addictologie.",
+        "next": "Le rendez-vous est le mercredi de la semaine suivante. Il garde deux exemples écrits au dos du brouillon."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "come-feuille-a-deux-colonnes",
+      "title": "Fixer ses priorités en consultation d’addictologie",
+      "description": "En consultation, Côme choisit de parler des matins qu’il perd et de la soirée avec ses amis qu’il aimerait conserver.",
+      "context": "Le mercredi de la semaine suivante, à la consultation d’addictologie",
+      "topics": [
+        "Priorités personnelles",
+        "Sommeil et fatigue",
+        "Demande d’aide"
+      ],
+      "opening": "Le papier tient encore debout sur son pli. En attendant que la psychologue revienne avec un verre d’eau, Côme le pousse du doigt et lit les mots qu’il a inscrits au dos des retours : « samedi, établi » ; « lundi, ouverture ». Il pourrait commencer par là. À côté de la feuille, il a posé le carton de l’atelier, puis l’a repris. Samedi dernier, il est arrivé à son nouveau créneau. Nadège a regardé le bâti avec lui et repéré une traverse abîmée. De la table, Côme ne voudrait pas devoir dire seulement qu’il en a raté le premier rendez-vous.\n\nLa psychologue lui demande ce qui l’a fait reprendre contact. Il lit les deux bouts de phrase, avec l’impression de dicter un message qu’on a trop raccourci. Elle lui demande à quel moment il s’était dit qu’il allait sortir du jeu. La veille de l’atelier, c’était quand Sana avait dit au revoir. Avant l’ouverture du lundi, c’était en voyant l’heure sur l’ordinateur. Il n’avait pas passé ces deux soirées de la même façon. Le premier soir, il s’était demandé qui resterait avec Florian s’il partait. Le deuxième, il n’attendait personne. Il s’était promis de quitter après avoir réussi à reprendre un passage qu’il ratait.\n\n« Si je joue moins, c’est quel soir que je garde ? » Côme dit cela comme si la psychologue pouvait prendre le planning et barrer des cases. Elle lui rend la question. Il voudrait garder un moment où Sana peut venir, et les matins où il doit ouvrir la boutique. La difficulté, c’est de faire tenir une partie le dimanche sans perdre le début du lundi. Ce serait utile, dit-il, de commencer par une soirée où il y a autre chose à proposer au groupe.",
+      "sections": [
+        {
+          "heading": "Un même effet après deux soirées différentes",
+          "text": "La difficulté à modifier sa pratique du jeu peut se manifester dans des situations différentes chez une même personne. Côme est resté une fois parce qu’il voulait continuer avec les autres. L’autre fois, il jouait pour lui et voulait finir un passage. Dans les deux cas, il avait prévu de partir et la suite a pris le pas sur son sommeil. En consultation, les différences entre ces soirées lui donnent matière à discuter de ce qu’il peut changer. Aucun de ses amis n’était présent le deuxième soir.\n\nLe guide de l’OMS distingue la pratique intensive, qui peut avoir un intérêt social ou correspondre à un événement, d’une difficulté durable qui entraîne un retentissement important. Côme a pu tenir son créneau suivant à l’atelier. Ce samedi ne retire rien aux deux autres exemples, et mérite d’être raconté avec eux. Il aide à repérer ce qui était possible dans cette situation précise."
+        },
+        {
+          "heading": "Choisir ce qu’il veut retrouver",
+          "text": "Un service d’addictologie peut discuter des objectifs de suivi avec la personne. Côme a d’abord envie de revoir l’heure à laquelle ses amis commencent. La psychologue peut aussi revenir avec lui sur les soirs où il joue seul et sur les difficultés qui persistent. Il existe des travaux sur des psychothérapies : dans un essai chez des hommes suivis pour différentes pratiques problématiques d’internet et du jeu, le groupe qui a suivi un programme cognitivo-comportemental structuré a obtenu de meilleurs résultats à la fin du programme que le groupe sur liste d’attente. Cet essai ne permet pas de prédire le résultat de Côme ou d’attribuer un effet à l’horaire qu’il va proposer.\n\nDans cette consultation, il se met d’accord sur un nouveau rendez-vous. Il demande aussi comment reprendre contact si les mêmes matins se répètent avant la date. La réponse concerne son équipe et le moyen de joindre son secrétariat ; il pourra s’en servir même s’il ne sait pas encore quelle aide demander."
+        }
+      ],
+      "ending_title": "Une heure possible au crayon",
+      "ending": "Dans le couloir, il ouvre la conversation de l’équipe. Florian a écrit « dimanche soir ? » sous une image du jeu. Côme tape qu’il doit ouvrir le lundi et efface la suite, où il avait commencé à expliquer toute sa semaine. Il demande si l’équipe a un moment plus tôt le dimanche. Il garde le papier pour le prochain rendez-vous et ajoute, au crayon, à côté des deux matins : « Garder une partie avec Sana. » Le carton de l’atelier, avec la traverse à changer, retourne dans l’autre poche.",
+      "mirror": [
+        "À ce stade, Florian peut répondre à la question qui lui est posée : « Dimanche plus tôt, je peux à cette heure-là » ou « Je ne suis libre qu’après dîner. » Il n’a pas besoin de connaître le contenu de la consultation pour chercher un créneau avec Côme. S’il ne trouve pas d’heure commune, il peut le dire ; Côme garde la possibilité de demander autre chose à son équipe de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "wolfling-2019",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme convient de revoir la psychologue, demande comment reprendre contact et propose au groupe un horaire plus tôt le dimanche.",
+        "next": "Le créneau du groupe reste à négocier. Nadège a repéré une traverse à remplacer et Côme garde le carton des mesures."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "come-jeudi-petite-carte",
+      "title": "Négocier un autre créneau de jeu avec ses amis",
+      "description": "Le dimanche après-midi ne convient ni à Florian ni à Sana. Côme propose un format qu’ils peuvent essayer en semaine.",
+      "context": "Le dimanche après la consultation, dans le bus, puis jeudi sur le canal de l’équipe",
+      "topics": [
+        "Besoin de lien",
+        "Négociation entre amis",
+        "Choix des horaires de jeu"
+      ],
+      "opening": "Dans le bus, le téléphone de Côme affiche le message qu’il a envoyé mercredi et les réponses arrivées depuis. Florian a mis un pouce à côté de « plus tôt » avant de préciser qu’il ne rentrait pas chez lui avant vingt heures. Sana ferme la caisse le dimanche. Même à vingt heures, elle ne peut rien promettre. Deux autres joueurs ont voté pour commencer après dîner. Côme est assis sur la place qui fait face au fond du bus. À chaque arrêt, il doit baisser les genoux pour laisser passer quelqu’un. Il relit « tant pis pour toi », le message que Florian a ajouté avec un autocollant de lapin boudeur.\n\nIl demande à Sana quand elle finit le jeudi. Elle lui répond avec le planning de la semaine, en découpant l’image pour ne lui montrer que sa ligne. À dix-neuf heures, elle devrait être chez elle. Florian a une séance de cinéma à vingt et une heures ; si quelqu’un envoie l’invitation à temps, il peut les retrouver avant. Le grand scénario qu’ils poursuivent le dimanche prend d’habitude une bonne partie de la soirée. Côme ouvre la liste des cartes. Il y en a une petite que Sana a déjà jouée. Il lui demande si elle voudrait leur montrer le chemin derrière le moulin.\n\n« Une carte et après je file », écrit Florian. Cette fois, le lapin boudeur a les deux bras en l’air. Côme relit les réponses : le dimanche soir convient toujours aux autres. Le grand scénario continue le soir même ; il dit qu’il passera son tour et envoie une invitation séparée pour jeudi.",
+      "sections": [
+        {
+          "heading": "Le groupe compte dans l’histoire",
+          "text": "Le jeu en ligne peut être un lieu de rencontre et de coopération. Dans le guide de l’OMS, la coordination entre joueurs fait partie du contexte qui peut entretenir une pratique intensive. Elle ne suffit pas à établir un trouble et le lien entre les joueurs peut avoir de la valeur. Côme veut entendre Sana raconter le raccourci du moulin, autant qu’il veut essayer ce raccourci. Il sait aussi que, lorsqu’il tient à jouer avec le groupe, il accepte parfois un horaire dont il connaît déjà le coût le lendemain.\n\nDimanche soir, Côme regrettera de manquer la suite. Sana connaît déjà ce décalage : depuis quelque temps, son service se termine trop tard pour les rejoindre dès le début. En demandant un autre moment, il découvre une question qui les concerne tous les deux."
+        },
+        {
+          "heading": "Un autre format à mettre à l’essai",
+          "text": "Côme ne demande pas au groupe d’annuler son dimanche. Il propose un moment auquel trois personnes peuvent dire oui sans défaire le reste du programme. Le format court donne à Florian le temps d’aller au cinéma ; Sana choisit la carte qu’elle aimerait montrer ; Côme peut observer s’il quitte le jeu quand la carte est finie. Il choisit de manquer la suite du scénario cette semaine, même s’il reste curieux.\n\nLa petite carte répond à cette soirée précise. Elle ne préjuge pas de ce que Côme fera un autre jour, ni du soin dont il peut avoir besoin. Au prochain rendez-vous, il aura quelque chose de plus utile qu’un horaire idéal à raconter : ce qui s’est passé quand le groupe a changé d’heure et quand l’objectif commun a été atteint."
+        }
+      ],
+      "ending_title": "Le moulin après le dîner",
+      "ending": "Jeudi, Sana leur montre un sentier si près de l’eau que Florian passe devant trois fois. Côme rit quand il les voit ressortir derrière le moulin. Au moment de quitter, il aimerait revoir ce qu’il a raté dimanche. Florian dit qu’il part pour le cinéma ; Sana lui demande de lui raconter le film plus tard. Côme reste dans la conversation le temps de leur dire où trouver les images de la partie, puis se déconnecte. Il n’a toujours pas vu la suite du scénario. Il lui reste une soirée, et la voix de Sana qui leur criait de faire demi-tour.",
+      "mirror": [
+        "Florian et Sana peuvent répondre sur ce qu’ils ont envie de jouer et le temps dont ils disposent. « Je peux jeudi pour le moulin, puis je pars au cinéma » donne à chacun la même information. Si le groupe préfère garder sa soirée habituelle, il peut continuer sans mettre en cause l’amitié de celui qui passe son tour. Personne n’a besoin de rester connecté pour surveiller si Côme quitte à l’heure."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video"
+      ],
+      "continuity": {
+        "choice": "Côme passe son tour le dimanche et essaie une petite carte avec Florian et Sana le jeudi. Il quitte après la carte.",
+        "next": "Le groupe garde aussi son grand scénario. Le jeudi a fonctionné une fois dans ces conditions ; la pratique en solo reste une question ouverte."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "come-place-pour-la-chaise",
+      "title": "Revoir ses attentes après un premier essai à l’atelier",
+      "description": "À l’atelier, le premier croquis ne laisse plus de passage. Côme revoit la taille de sa table et cherche un plateau qui convienne.",
+      "context": "Le samedi suivant, à l’atelier partagé, entre l’établi et la grande fenêtre",
+      "topics": [
+        "Ajuster ses attentes",
+        "Frustration",
+        "Activités qui comptent"
+      ],
+      "opening": "Côme a trouvé un grand carton qui protégeait une armoire. Il en a dessiné les angles au feutre, puis il a demandé à Nadège de l’aider à le poser sur le bâti. La traverse abîmée a été remplacée avec son aide. Il reste une tache noire sur le montant d’origine, mais l’endroit qui lui inquiétait le plus est maintenant solide. Dans le rectangle tracé, il a même dessiné une place pour les tasses. Nadège va chercher une chaise. Elle lui demande de s’asseoir du côté de la fenêtre pendant qu’elle passe avec une caisse vide.\n\nCôme essaie de reculer. Le dossier rencontre le mur avant que ses genoux puissent sortir de sous le carton. Nadège ne dit rien. Elle pose la caisse sur la chaise voisine, puis lui montre le passage qui mène aux casiers de l’atelier. Même s’ils tournaient la table d’un quart de tour, la personne assise au bout occuperait ce passage. Côme déteste la petite satisfaction qu’il perçoit dans son silence. Il avait répondu deux fois qu’il avait pris toutes les mesures.\n\nNadège tend le feutre vers lui. Il croit d’abord qu’elle veut réduire le rectangle par le grand côté. Il pose alors, ouvert, le jeu de société qu’il avait apporté dans son sac. Il suffit d’un peu moins de largeur pour que les tasses ne tiennent plus toutes en ligne. Les cartes, elles, tiennent encore. Il plie le carton le long du trait qu’il vient de tracer et recule de nouveau avec la chaise. La caisse passe.",
+      "sections": [
+        {
+          "heading": "La place que Côme veut donner à la table",
+          "text": "Le retentissement d’un trouble du jeu vidéo se comprend aussi à partir des activités auxquelles une personne tient. Côme veut retrouver des matins dont il peut disposer et des rendez-vous qu’il peut honorer. À l’atelier, il a également un problème qui arrive à beaucoup de gens qui construisent des meubles : il a dessiné un plateau avant d’essayer de s’asseoir autour. Il peut regarder cette erreur avec Nadège pour ce qu’elle est. Il ne perd pas sa place à l’atelier en ayant surestimé une dimension.\n\nLe projet lui donne des décisions agréables à prendre. Il hésite entre un bois clair, sur lequel les cartes seront faciles à voir, et un bois sombre où il pourra garder la trace des anciennes fixations. Il sait qu’il ne veut pas une table dont personne n’ose se servir. Pour pouvoir conserver ce choix, il lui faut d’abord une mesure qui laisse entrer les chaises."
+        },
+        {
+          "heading": "Un rendez-vous avec un objet à trouver",
+          "text": "Le jeudi précédent, Côme a pu quitter le jeu après une petite carte avec ses amis. À l’atelier, le problème du carton lui rappelle ce qu’un essai peut apporter : une information sur la situation telle qu’elle est. Il n’a pas besoin d’expliquer le jeu à Nadège pour profiter de son regard sur le passage. Les deux se préoccupent des usages de l’atelier, et un tracé légèrement plus étroit suffit à les mettre d’accord.\n\nIl aimerait organiser le prochain rendez-vous autour du plateau lui-même. Nadège lui dit qu’elle en voit de temps à autre passer à la ressourcerie. Il pourra demander les dimensions avant de réserver un retrait. Le carton plié lui sert de référence et lui évite de promettre à quelqu’un de prendre un objet qu’il ne pourra pas utiliser."
+        }
+      ],
+      "ending_title": "La mesure sous la photo",
+      "ending": "Côme photographie le carton avec le mètre posé en travers. Le soir, la ressourcerie lui répond qu’un plateau sombre de la bonne taille vient d’arriver. Il faut aller le voir mercredi à neuf heures ; quelqu’un d’autre est intéressé après lui. Côme travaille l’après-midi et accepte le rendez-vous. Il range l’adresse et la photo dans la même note. Il glisse le gabarit plié en quatre dans son sac. Les tasses n’auront plus toutes leur place, mais il y aura de quoi poser les cartes.",
+      "mirror": [
+        "Nadège peut lui faire essayer la chaise et préciser ce qu’elle doit préserver : « Il faut que les autres puissent atteindre leurs casiers pendant qu’on joue ici. On regarde combien il nous manque ? » Elle peut lui indiquer où chercher un plateau et le laisser vérifier la suite. Si Côme se trompe encore de mesure, ils pourront en reparler comme de n’importe quel projet partagé ; elle n’a pas à faire dépendre son aide de ses soirées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video"
+      ],
+      "continuity": {
+        "choice": "Côme réduit la largeur de la table et réserve le retrait d’un plateau sombre à la ressourcerie mercredi à neuf heures.",
+        "next": "La traverse est remplacée. Le gabarit plié et la photo donnent la mesure à conserver ; la ressourcerie a un autre acheteur après Côme."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "come-plateau-deja-parti",
+      "title": "Demander de l’aide après un rendez-vous manqué",
+      "description": "Le plateau qu’il devait retirer a trouvé preneur. Côme dit ce qu’il a manqué et rappelle sa consultation avant le prochain rendez-vous.",
+      "context": "Le mercredi matin, à la ressourcerie, devant le rayon des tables démontées",
+      "topics": [
+        "Difficulté à s’arrêter",
+        "Déception",
+        "Demande d’aide"
+      ],
+      "opening": "Il reste deux morceaux de ruban adhésif sur le montant du rayonnage. Côme avait vu la photo du plateau entre ces deux marques. On distinguait, près du bord, l’endroit où quelqu’un avait laissé longtemps une nappe trop petite. Le bois était plus clair au milieu. Il avait déjà décidé de mettre le plateau de jeu sur cette différence de couleur. Au comptoir de la ressourcerie, il montre la photo avec son doigt posé sur la date. La personne qui le reçoit regarde sa feuille. Elle a attendu un peu après neuf heures, puis a donné la place à la personne suivante. Côme voudrait demander le numéro de celui qui l’a pris. Il remet son téléphone dans sa poche.\n\nLa veille, il avait dîné seul et rouvert le jeu pour retrouver la carte du moulin. La soirée avec Sana et Florian lui avait donné envie de chercher d’autres chemins. Il avait décidé de fermer après son premier essai. Il avait même vu, en allant prendre de l’eau, le rappel de la ressourcerie qu’il avait préparé. Il est retourné à son bureau pour refaire le passage. Chaque fois qu’il perdait, il recommençait avec une idée un peu différente. Ce matin, quand la première alarme a sonné, il s’est donné quelques minutes de plus. Quand il a rouvert les yeux, le bus qu’il devait prendre était passé.\n\nAu comptoir, on lui demande s’il cherche seulement cette couleur. « Non, la taille compte plus », répond-il. La personne lui montre le rayon où les plateaux suivants seront déposés. Côme garde la photo pour la mesure. En sortant, il s’arrête sur un banc avant de reprendre le bus. Au lieu de chercher tout de suite un autre plateau, il ouvre la fiche du secrétariat d’addictologie.",
+      "sections": [
+        {
+          "heading": "Le jeudi réussi et le mercredi manqué",
+          "text": "Dans le trouble du jeu vidéo, les difficultés peuvent revenir par périodes. Jeudi, la petite carte avait une fin commune aux trois joueurs. Côme est parti au moment qu’il avait choisi. Mardi, il joue seul et les tentatives pour retrouver un passage occupent le temps qu’il voulait réserver au sommeil. Le guide de l’OMS décrit notamment la difficulté de changer sa pratique malgré des tentatives répétées. Le moment où Côme a eu besoin de changer n’est pas le même que jeudi.\n\nLe rendez-vous perdu a une conséquence sur le projet : le bois qu’il espérait n’est plus disponible. Le fait que Côme soit déçu ne dit pas, à lui seul, ce qui se passera lors de la prochaine partie. Il peut garder cette déception et parler au service du déroulement de la soirée, sans attendre de savoir s’il se répétera exactement."
+        },
+        {
+          "heading": "Faire deux demandes distinctes",
+          "text": "Côme peut demander à la ressourcerie où trouver un autre plateau. À la consultation, il peut demander s’il y a un moyen de parler de cette soirée avant le prochain rendez-vous. Il s’était renseigné sur le contact à utiliser et ce contact lui est accessible maintenant. La personne qui organise les rendez-vous décidera avec l’équipe de ce qui est possible ; Côme peut expliquer la raison de sa demande avec les mots qu’il a déjà.\n\nQuand il imagine raconter l’épisode à Florian, il voudrait commencer par se défendre : le jeudi avait vraiment bien marché. Il n’a pas besoin de choisir lequel de ces deux souvenirs transmettre. Aujourd’hui, sa priorité est de joindre le service qu’il connaît et de mettre Nadège au courant de la seule chose qu’elle attend : il n’a pas de plateau à poser sur le bâti."
+        }
+      ],
+      "ending_title": "Depuis le banc, avant le bus",
+      "ending": "Il téléphone au secrétariat depuis le banc. « J’ai joué alors que je voulais arrêter et j’ai manqué un rendez-vous ce matin. Je voudrais en parler avant la date, si c’est possible. » La personne prend sa demande pour l’équipe. Un peu plus tard, elle lui propose une place qui s’est libérée vendredi midi. Il vérifie son service et accepte. À Nadège, il écrit seulement que le plateau est parti et qu’il faudra attendre un arrivage. Il laisse la photo du plateau sombre dans la note où il a aussi gardé celle du carton et ses dimensions.",
+      "mirror": [
+        "La personne de la ressourcerie peut donner l’information sans procès : « Je ne l’ai plus. Je peux vous indiquer le rayon des prochains arrivages. » Si Nadège apprend que le retrait a été manqué, elle peut parler de la place disponible pour garder le bâti. Côme a déjà un interlocuteur pour revenir sur la soirée. Ils peuvent l’aider à trouver du bois sans lui demander de justifier son retard par des détails qu’il n’a pas choisi de raconter."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme accepte que le plateau soit parti, appelle tôt son secrétariat et informe Nadège du retard matériel.",
+        "next": "Un créneau s’est libéré vendredi midi. Le bâti reste à l’atelier ; le gabarit sert toujours à chercher un autre plateau."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "come-avant-le-deuxieme-essai",
+      "title": "Repérer quand il devient difficile de décrocher en jouant seul",
+      "description": "La psychologue et Côme reprennent la soirée qui lui a coûté le plateau. Il cherche comment parler à un ami avant de rester bloqué.",
+      "context": "Le vendredi midi, lors du rendez-vous avancé à la consultation d’addictologie",
+      "topics": [
+        "Envie de rejouer",
+        "Difficulté à s’arrêter",
+        "Demande de compagnie"
+      ],
+      "opening": "Côme laisse son sandwich fermé sur la table basse. Il l’a acheté en pensant manger avant le rendez-vous. Au bout du couloir, on a posé une horloge de travers et il essaie de la redresser d’où il est, en penchant la tête. La psychologue l’appelle pendant qu’il regarde les aiguilles. Il remet son sandwich dans son sac. Elle lui demande s’il a le temps de prendre cette place avancée. Il dit qu’il a décalé son déjeuner, puis remarque qu’il lui répond sur l’horaire alors qu’elle lui a déjà ouvert la porte.\n\nDans le bureau, il cherche la photo du plateau et tombe sur une image de la petite carte que Sana leur a montrée. Il passe de l’une à l’autre. « Tout avait bien marché avec eux. Mardi, j’ai juste voulu revoir le moulin. » La psychologue demande ce qu’il faisait avant d’ouvrir le jeu. Côme se souvient de l’assiette encore sur la table, du téléphone posé à côté et d’un message de Florian auquel il n’avait pas répondu. Il n’était pas contrarié à ce moment-là. Il s’ennuyait un peu, et le moulin l’intriguait. La prochaine fois qu’il s’était posé la question d’arrêter, il était déjà en train de refaire le même passage.\n\n« Je ne vais quand même pas appeler quelqu’un pour lui raconter un moulin », dit-il. La psychologue lui demande ce qu’il aurait aimé entendre, s’il avait appelé. Côme pense à Florian, qui demande souvent ce qu’il y a à manger alors qu’il n’est pas invité. Il aurait aimé que quelqu’un lui parle de n’importe quoi pendant qu’il décollait de son écran. Il n’est pas sûr de penser à le demander avant d’avoir passé une heure à recommencer.",
+      "sections": [
+        {
+          "heading": "Revenir au moment où il reste un choix",
+          "text": "Une consultation d’addictologie peut aider à revenir sur une situation précise et à discuter des possibilités de soin. La psychologue demande à Côme de lui raconter le début de soirée, là où elle avait encore plusieurs issues possibles pour lui. Il croyait d’abord qu’il fallait expliquer pourquoi il n’avait pas fermé le jeu à la fin. Il se rappelle aussi le moment où il a ouvert la carte, et celui où le rappel est apparu alors qu’il venait de chercher de l’eau. Ces souvenirs aident à dire quand le choix est devenu difficile à modifier.\n\nCôme voit bien que parler avec Florian ne lui garantira pas de réussir à s’arrêter. L’ami auquel il pense n’est pas présent chaque soir ; la consultation reste le lieu où il peut reprendre ce qui ne marche pas et discuter d’autres soins si besoin. Il garde le rendez-vous prévu après celui-ci. Il veut savoir si, dans une prochaine soirée, la possibilité de parler à quelqu’un lui viendra plus tôt."
+        },
+        {
+          "heading": "Demander de la compagnie avec des mots ordinaires",
+          "text": "Côme se figure qu’il devra expliquer le diagnostic pour que Florian comprenne sa demande. Il peut d’abord vérifier ce qu’il veut lui proposer. Il aimerait entendre une voix familière sans être en train de résoudre une carte en même temps. Florian peut avoir envie de parler ou vouloir continuer sa partie. La demande peut attendre un moment où ils ont tous les deux le temps de l’entendre.\n\nLe repas de Côme a refroidi dans son sac. Il ne va pas tenter de transformer toute la soirée du mardi à la fois. Il décide d’aborder avec Florian la question de l’appel, puis de voir comment son ami la comprend. Il pourra reprendre cette conversation en consultation s’il se retrouve à attendre de Florian une réponse qu’un ami ne peut pas lui donner."
+        }
+      ],
+      "ending_title": "La phrase avant la bouchée",
+      "ending": "Dans le hall, Côme déballe son sandwich sur le papier qui l’entoure. Avant de manger, il envoie à Florian : « Il y a des soirs où j’ai du mal à décrocher du jeu. Tu crois que tu pourrais m’aider quand ça arrive ? » Il ne sait pas encore si « aider » veut dire la même chose pour eux deux. Florian a prévu de l’accompagner dimanche pour regarder le carton de la table. Il lui répond qu’ils en parleront en chemin. Côme garde la fin du message ouverte pendant qu’il mange.",
+      "mirror": [
+        "Florian peut demander ce que Côme entend par « aider » avant de dire oui. « Tu penses à un appel, ou tu veux que je fasse autre chose ? » Il peut aussi proposer d’en parler dimanche s’il ne peut pas répondre sur le moment. Côme a repris contact avec son équipe : Florian peut s’intéresser à ce qui lui arrive tout en gardant la possibilité de ne pas être disponible le soir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme maintient son prochain rendez-vous et demande à Florian s’ils peuvent parler d’un appui en dehors des parties.",
+        "next": "Florian veut clarifier la demande dimanche. Tous deux doivent passer à l’atelier voir le gabarit."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "come-un-appel-sans-la-partie",
+      "title": "S’accorder sur l’aide qu’un ami peut donner",
+      "description": "Florian a compris qu’on lui demandait de faire sortir Côme du jeu. En route pour l’atelier, ils précisent ce qu’ils peuvent se proposer.",
+      "context": "Le dimanche, sous la halle du marché, sur le chemin de l’atelier",
+      "topics": [
+        "Limites relationnelles",
+        "Confidentialité",
+        "Demande de compagnie"
+      ],
+      "opening": "Sous la halle, Florian a acheté deux pommes et les tient toutes les deux dans une seule main. Il vient pour le gabarit parce que Côme lui a promis qu’ils pourraient mesurer avec ses avant-bras la place que prennent deux personnes côte à côte. « Pour ton message de vendredi, je ne peux pas t’éteindre le jeu », dit-il. Côme croit d’abord qu’il plaisante. Florian cherche à séparer les pommes sans lâcher le sac qu’il tient de l’autre main. « L’autre soir, tu voulais que je reste. Si je te dis de partir, on va se prendre la tête. »\n\nCôme se rappelle l’avoir retenu après une partie qu’ils venaient de perdre. Il se rappelle aussi les fois où Florian a demandé qu’on en rejoue une et où tout le monde a dit oui. Il commence à lui dire « toi aussi », puis se rend compte qu’il répond à la mauvaise question. Il n’a jamais voulu que son ami décide de l’heure à sa place. Le message disait seulement qu’il voulait de l’aide ; il comprend que Florian se soit demandé à quoi il s’engageait.\n\n« Je suis suivi en addictologie pour le jeu », dit Côme, avant de demander à Florian de garder l’information pour lui. « Parfois, je voudrais juste parler dix minutes sans lancer de partie. Tu pourrais dire que tu peux ou que tu peux pas. » Florian lui donne enfin une des pommes. Il peut répondre à une question comme ça, dit-il. Parfois, il aura son casque sur les oreilles pour jouer, et la réponse sera non. Côme regarde la pomme dans sa main. Ce non-là a plus de forme que le silence qu’il imaginait vendredi.",
+      "sections": [
+        {
+          "heading": "Un ami peut poser les conditions de son aide",
+          "text": "Un soutien entre amis peut se discuter sans confier à l’un la responsabilité de la pratique de l’autre. Côme a demandé de l’aide avec un mot qui lui paraissait clair. Florian a entendu qu’il faudrait intervenir pendant la partie. Ils ne parlent plus de la même chose quand Côme précise qu’il aimerait une conversation. Une voix au téléphone serait un moment à deux, qui dépend de leur disponibilité comme le rendez-vous à l’atelier.\n\nLes difficultés de Côme à quitter le jeu existaient aussi un soir où il jouait seul. Le guide de l’OMS invite à considérer le contexte des parties et le retentissement de la pratique. Ici, Florian peut avoir contribué à prolonger une partie, comme un ami qu’on a plaisir à garder avec soi. Il peut reconnaître ce souvenir sans devoir déterminer quand la difficulté relève du trouble. Côme dispose d’un suivi pour en parler."
+        },
+        {
+          "heading": "Garder le choix de partager une information",
+          "text": "Côme choisit de dire à Florian qu’il est suivi parce qu’il a envie qu’il comprenne ce qui motive sa demande. Il n’ouvre pas pour autant la conversation à tout le groupe. Il peut préciser qu’il préfère garder cette information entre eux et que Sana a seulement besoin de connaître les horaires s’ils organisent une partie. Florian peut accepter cette limite, tout en parlant de ses propres disponibilités avec les autres.\n\nLeur accord laisse la place à une réponse négative. Si Florian ne répond pas, Côme n’a pas besoin de relancer comme s’il attendait une permission. Le prochain rendez-vous en addictologie est déjà prévu. Pour aujourd’hui, ils avaient un autre engagement : aller voir combien de coudes la future table pourra accueillir."
+        }
+      ],
+      "ending_title": "Deux avant-bras sur le carton",
+      "ending": "À l’atelier, Florian pose les avant-bras sur le carton et les écarte jusqu’à prendre toute sa largeur. Côme s’assied à côté de lui. Il lui demande de faire comme s’il tenait des cartes, et le mouvement devient tout de suite plus petit. Ils mettent un trait à l’endroit où la chaise du bout peut reculer. En repartant, Florian demande quelle phrase il doit reconnaître. Côme dit : « T’es dispo pour parler dix minutes, sans lancer ? » Florian répond qu’il entendra une question. Sur le gabarit, Côme conserve les marques des deux coudes, même si elles ne se font pas face.",
+      "mirror": [
+        "Florian peut répondre au sens précis de la demande : « Je peux parler un peu ce soir » ou « Je suis en partie, je te réponds demain. » Il peut respecter ce que Côme lui confie sans le relayer au groupe. Si la demande prend une place qu’il ne souhaite pas, il peut le dire et laisser Côme reprendre contact avec ses soignants. Il reste libre de proposer un rendez-vous pour la table ou une soirée de jeu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme parle de son suivi à Florian en privé. Ils conviennent d’une demande courte de conversation et du droit de refuser.",
+        "next": "Florian garde l’information pour lui. Deux places et le recul de la chaise sont tracés sur le gabarit ; un plateau manque encore."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "come-les-references-sur-le-ticket",
+      "title": "Dire jusqu’où on peut aider une collègue",
+      "description": "La livraison tarde à la boutique. Côme dit jusqu’à quelle heure il peut rester et prépare la suite avec Inès avant de rejoindre l’atelier.",
+      "context": "Le mardi suivant, à la boutique, une heure avant la fin du service de Côme",
+      "topics": [
+        "Dire ses limites",
+        "Confiance au travail",
+        "Engagements tenus"
+      ],
+      "opening": "Côme reconnaît les joints de cocotte à l’odeur du carton où on les range. Ceux de l’ancien modèle sont plus souples et arrivent dans un sachet sans dessin. À seize heures, il en manque deux pour compléter les commandes. Le transporteur vient d’annoncer qu’il aurait du retard. Inès glisse son téléphone sous la calculatrice pour ne plus entendre la vibration. Elle demande à Côme s’il pourrait rester pour le déchargement, le temps qu’elle ferme le rayon des retours.\n\nCôme a reçu un message de Nadège à midi. Elle a récupéré un plateau de bois clair donné à l’atelier. Elle peut le lui montrer à dix-sept heures et demie, avant de libérer le passage pour un autre groupe. Elle lui demande de venir avec son gabarit. Côme regarde le tiroir où il a rangé le carton plié. Il voudrait dire oui à Inès. Il se rappelle le matin où elle a ouvert sans lui et la façon dont elle a dû repousser sa pause. Il se rend compte qu’il ne sait même pas jusqu’à quelle heure il lui faudrait rester.\n\n« Je peux jusqu’à dix-sept heures, comme prévu. Je peux préparer le bac pour que tu n’aies qu’à vérifier les deux joints. » Inès soupire ; elle aurait préféré avoir deux mains de plus. Elle lui demande de ne pas ranger les sachets de l’ancien modèle dans le même compartiment que les nouveaux. Côme sort un rouleau d’étiquettes et commence par retrouver le numéro de la cocotte d’une cliente. À la place de « joint, deux pièces », il écrit la référence complète et lui montre où il l’a mise.",
+      "sections": [
+        {
+          "heading": "Rendre visibles les effets sur le travail",
+          "text": "Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie. Côme a été en retard après une nuit qu’il n’avait pas réussi à écourter. Ce mardi, il est à son poste et la livraison est en retard pour une autre raison. Il peut prendre au sérieux l’ouverture qu’il a manquée et répondre séparément à la demande d’Inès. Son horaire de fin est déjà fixé ; il choisit de dire ce qu’il peut faire d’ici là.\n\nLe choix le met mal à l’aise. Depuis le matin où Inès a ouvert seule, il aimerait lui montrer qu’elle peut compter sur lui. S’il dit oui à un horaire qu’il ne connaît pas, il risque de perdre son rendez-vous sans savoir ce qu’il aura apporté à la boutique. En notant la référence des pièces, il donne à Inès une information qui lui sera utile même s’il n’est plus là."
+        },
+        {
+          "heading": "Deux lieux où il peut demander des choses différentes",
+          "text": "Inès peut poser ses conditions pour travailler et Côme peut poser les siennes, comme ils viennent de le faire. Les questions de planning reviennent à la personne qui l’organise si les demandes ne sont pas compatibles. La consultation, elle, peut reprendre avec Côme ses difficultés autour du sommeil et de la sortie du jeu. Il n’est pas obligé de relier ces conversations devant le comptoir.\n\nEn préparant les commandes, Côme s’aperçoit qu’il a tenu les ouvertures depuis son dernier retard. Le plateau manqué à la ressourcerie reste un autre fait. Au rendez-vous de suivi, il peut apporter les deux observations : ce qui a recommencé malgré l’essai du jeudi, et ce qu’il parvient à tenir à la boutique. Elles décrivent deux moments de sa vie avec la même précision."
+        }
+      ],
+      "ending_title": "La référence et le carton plié",
+      "ending": "Avant de partir, Côme pose le bac préparé devant Inès et lui montre les deux références sur un ticket. Elle confirme qu’elle sait où chercher et qu’elle demandera à la responsable comment finir le rayon si la livraison tarde encore. À l’atelier, Nadège a posé le bois clair sur deux supports. Côme déplie son carton dessus : les traits de Florian tiennent dedans. Le plateau porte une rayure qui s’arrête au milieu. Il choisit de la garder. Nadège lui réserve un créneau pour monter le plateau et faire un essai avant de recevoir du monde.",
+      "mirror": [
+        "Inès peut dire : « Si tu pars à dix-sept heures, laisse-moi les références que tu as vérifiées. Je vois avec la responsable pour le reste. » Elle peut être contrariée par le retard du transporteur et demander de l’aide sans rouvrir la discussion sur la nuit de Côme. Nadège peut, de son côté, maintenir la limite fixée pour le passage à l’atelier. Elles donnent à Côme des informations utilisables dans chacun des deux lieux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme tient son horaire de travail, prépare le relais à la boutique et choisit le plateau clair compatible avec le gabarit.",
+        "next": "Nadège réserve un montage et un essai à l’atelier. La rayure du plateau restera visible."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "come-une-invitation-pour-sana",
+      "title": "Garder le lien avec une amie qui ne peut pas venir",
+      "description": "Sana ne peut pas se rendre à l’atelier. Elle et Côme cherchent une façon de jouer ensemble sans lui demander de passer la journée au téléphone.",
+      "context": "Quelques jours avant l’essai de la table, pendant la coupure de Sana et la pause de Côme",
+      "topics": [
+        "Besoin de lien",
+        "Confidentialité",
+        "Participation à distance"
+      ],
+      "opening": "Sana envoie une photo de son repas : trois olives dans un couvercle de boîte et un sandwich qui déborde d’une serviette. « J’ai vingt minutes, je t’écoute. » Côme l’appelle devant la boutique, où la plaque du numéro de rue se décolle par le bas. Il lui décrit la table. Le plateau clair doit être monté samedi matin et Nadège leur réserve un coin de l’atelier dimanche à quinze heures. Florian a dit qu’il viendrait ; Lucie, qui joue souvent le dimanche soir avec eux, veut savoir si elle peut apporter un paquet de cartes de son frère. Côme commence à donner l’adresse à Sana, puis s’arrête. Elle lui avait dit qu’elle fermait le dimanche. Lui-même a promis à sa sœur de l’appeler avant le dîner pour lui raconter la première partie.\n\nElle a une coupure entre deux services, mais pas le temps de faire l’aller-retour. « Je pensais qu’on se verrait tous jeudi », dit-elle. Côme n’a pas proposé de créneau cette semaine. Il a gardé la soirée libre parce qu’il a mal dormi un autre soir et veut pouvoir se coucher quand il sera fatigué. Il pourrait lui parler du rendez-vous manqué à la ressourcerie. Il choisit de lui dire qu’il préfère garder certains soirs libres en ce moment et qu’il a quand même envie qu’elle voie la table.\n\n« Je peux vous appeler pendant ma coupure. Montre-moi au moins à quoi elle ressemble, ta table. » Côme fait défiler ses photos. Dans l’une, le plateau est de travers sur ses supports ; dans une autre, on voit seulement le carton posé par-dessus. Il lui envoie celle de la rayure et demande si elle aimerait choisir leur premier départ dans le jeu. Sana veut savoir s’il se souvient qu’elle prend toujours le chemin qui longe la rivière.",
+      "sections": [
+        {
+          "heading": "Les liens peuvent garder la même place quand les horaires changent",
+          "text": "Jouer pour retrouver des amis ne suffit pas à caractériser un trouble du jeu vidéo. Pour Côme, revoir ses horaires est lié à des difficultés de sommeil et à des activités qu’il a manquées. Du côté de Sana, un jeudi qui disparaît est d’abord un moment qu’elle croyait pouvoir passer avec lui et Florian. Elle peut vouloir garder ce contact sans savoir ce qui s’est dit en consultation. Elle et Côme ont déjà passé de bonnes soirées ensemble et il a envie d’en proposer d’autres quand ils auront trouvé un créneau.\n\nL’OMS recommande de tenir compte de la place que la pratique prend dans la vie et de ses conséquences. Cela laisse de la place à ce que Côme trouve dans son groupe : de la conversation, une façon de se retrouver et des idées de jeu qu’il ne trouverait pas seul. Il peut chercher à retrouver du sommeil tout en continuant à donner une place à ces liens."
+        },
+        {
+          "heading": "Inviter avec le temps dont chacun dispose",
+          "text": "La première version de l’invitation donnait une adresse et une heure. Sana ajoute une autre possibilité. Avec une photo du plateau de jeu avant de commencer, elle pourrait se repérer pendant sa coupure et choisir l’emplacement d’un pion. Elle pourra raccrocher à l’heure qu’elle avait prévue, et les autres pourront poursuivre. Côme lui demande ce qui l’intéresse dans ce format avant de l’annoncer au groupe.\n\nIl reste un point à vérifier à l’atelier. Nadège doit regarder la place qu’occupe la table avec les chaises autour. Côme n’a pas encore envie de donner l’adresse comme s’il savait déjà ce qu’il pourra faire dans la salle. Il prépare un message qu’il enverra après l’essai de samedi. Il y laisse la proposition de Sana telle qu’elle l’a formulée."
+        }
+      ],
+      "ending_title": "Une place près de la rivière",
+      "ending": "Sana finit ses olives et lui demande de choisir une photo sur laquelle elle verra le départ et la rivière. Côme ouvre l’invitation et écrit son prénom à côté de « premier chemin ». Il lui envoie l’heure proposée pour l’appel, avec « je te confirme samedi ». Sana répond qu’elle pourra les appeler de la salle de pause si le bruit des livraisons ne l’en chasse pas. Avant de rentrer dans la boutique, Côme passe le pouce sur la plaque du numéro. Il pense à la photo qu’il n’a pas encore : celle où le jeu tient sur le bois, autour de la rayure.",
+      "mirror": [
+        "Sana peut dire ce qu’elle regrette et ce qu’elle peut proposer : « Le jeudi me manque. Dimanche, j’ai vingt minutes pour appeler, si ça vous tente. » Elle peut demander une photo de la table sans réclamer d’explication sur les soirs où Côme se rend moins disponible. Si ce format lui plaît moins que jouer une carte en ligne, elle peut le lui dire et chercher un autre moment avec lui."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video"
+      ],
+      "continuity": {
+        "choice": "Côme garde son suivi privé, propose à Sana de jouer le premier coup à distance et prépare une invitation conditionnée à l’essai.",
+        "next": "Florian et Lucie prévoient de venir. Sana a sa coupure dimanche et attend une confirmation après l’essai de samedi."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "come-tour-de-table",
+      "title": "Inviter ses amis sans attendre que la table soit parfaite",
+      "description": "Le plateau est monté, mais la chaise du bout prend trop de place. Côme déplace la table avant d’envoyer l’invitation.",
+      "context": "Le samedi matin, à l’atelier partagé, avant la confirmation du rendez-vous",
+      "topics": [
+        "Limites relationnelles",
+        "Accepter un refus",
+        "Ajuster ses attentes"
+      ],
+      "opening": "Sur le plateau clair, Nadège pose deux boîtes de cartes vides. Elle les a récupérés dans un tiroir pour remplacer les tasses du dessin de Côme. Il a monté le plateau sur le bâti avec son aide. Maintenant que la table est debout, la rayure et la traverse remplacée n’apparaissent jamais en même temps. Selon l’endroit où il se tient, Côme voit soit le bois clair, soit la trace noire qu’il avait remarquée le premier jour. Il prend son téléphone pour faire une photo, mais Nadège lui demande d’abord de s’asseoir.\n\nLa chaise du bout peut reculer tant que la porte du casier reste fermée. Nadège ouvre la porte et touche le dossier. Au premier essai, ils avaient utilisé une caisse et testé le passage vers les casiers sans ouvrir ceux du fond. Côme pose son téléphone au milieu de la rayure. Il avait prévu une photo avec la fenêtre juste derrière. En tournant la table, il va perdre le fond clair qu’il voulait pour sa photo. Il regarde Nadège tirer la porte jusqu’à ce qu’elle bute. À quoi servira la lumière si quelqu’un doit demander à Lucie de se lever à chaque fois qu’il cherche un outil ?\n\nAvec Nadège, il essaie une autre place. Il se rassoit, se relève, puis va ouvrir le casier lui-même. Le dossier reste à distance de la porte. Quand Nadège lui demande s’il a fini, Côme pense au petit rebord qu’il voudrait ajouter pour empêcher les pions de tomber. Il lui demande plutôt si la table peut rester ici jusqu’à dimanche.",
+      "sections": [
+        {
+          "heading": "Un rendez-vous peut avoir sa propre raison d’être",
+          "text": "Un projet personnel peut compter pour lui-même dans la vie d’une personne qui a un trouble du jeu vidéo. Côme a plusieurs raisons d’avoir passé ce temps à l’atelier. Il voulait recevoir ses amis et construire un objet dont les dimensions auraient une utilité. La consultation peut s’intéresser à ce qu’il a retrouvé dans ses journées ; elle ne décide pas si sa table est prête. Nadège peut l’aider à vérifier que l’aménagement convient et s’assurer que les autres usagers pourront accéder à leurs affaires.\n\nLa table est plus étroite que dans son premier dessin. Côme garde un détail dont il rêvait : les joueurs peuvent laisser leurs cartes sur le bois pendant qu’ils déplacent une pièce. Il peut reporter son idée de rebord et essayer ce qui existe déjà. La première partie leur dira à quel endroit les cartes et les pions se retrouvent vraiment."
+        },
+        {
+          "heading": "Demander, même si la réponse peut être non",
+          "text": "Côme peut recevoir une réponse différente selon ce qu’il demande et à qui il s’adresse. Nadège peut lui dire oui pour laisser la table près de la fenêtre et non s’il veut y entreposer des matériaux. Florian, qui sera là demain, peut être indisponible pour parler ce soir. Côme sait maintenant sous quelle forme il peut lui poser la question. S’il la pose, il prend en compte que Florian puisse être en train de faire autre chose.\n\nLe soutien ponctuel peut compter même s’il n’est pas disponible tous les soirs. Le rendez-vous de suivi reste prévu. Côme n’a pas à attendre qu’un problème se répète à l’identique pour reparler à l’équipe de ce qui devient difficile, comme il l’a fait après la ressourcerie."
+        }
+      ],
+      "ending_title": "La photo avec le casier ouvert",
+      "ending": "Côme prend sa photo en laissant la porte du casier ouverte et confirme le rendez-vous à chacun. Le soir, il pense au scénario en ligne qu’il n’a pas encore rattrapé. Avant d’ouvrir le jeu, il demande à Florian s’il est disponible pour parler dix minutes. Florian termine une partie avec Lucie et répond qu’il ne peut pas. Côme reste devant l’écran un moment, puis va vérifier une règle du jeu qu’il apportera demain. La photo qu’attend Sana viendra demain : il lui a promis de lui montrer le jeu avec la rivière en place.",
+      "mirror": [
+        "Nadège peut expliquer ce qui reste à vérifier : « Quand la porte du casier est ouverte, il nous faut encore de la place pour la chaise. On essaie ailleurs ? » Ce qu’elle voit sur place suffit à guider la décision. Si Florian est déjà en train de jouer, il peut refuser l’appel de Côme sans annuler leur rendez-vous du lendemain. Une confirmation pour la table et une indisponibilité le soir peuvent tenir dans la même conversation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme valide l’emplacement qui libère le casier, confirme l’invitation et accepte que Florian ne soit pas libre pour un appel.",
+        "next": "La table et le lieu sont prêts. Le premier essai avec des invités est dimanche ; Sana attend une photo du jeu en place."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "come-premier-pion-sur-le-bois",
+      "title": "Choisir de s’arrêter après une partie entre amis",
+      "description": "La table accueille enfin les amis de Côme. Sana choisit le chemin à distance et Côme laisse la prochaine partie à un autre jour.",
+      "context": "Le dimanche après-midi, pour la première partie à la table de l’atelier",
+      "topics": [
+        "Choisir quand s’arrêter",
+        "Besoin de lien",
+        "Continuité du suivi"
+      ],
+      "opening": "Florian arrive avec un sac de brioches et demande où il peut poser le papier. Côme lui montre le coin où la rayure s’arrête. Lucie, qui a apporté les cartes de son frère, aperçoit une tache sombre sur le montant d’origine. Elle se penche pour la regarder avant de s’asseoir. Il lui raconte que la tache était déjà là quand il a récupéré le bâti et que la traverse claire, en dessous, est la partie qu’il a refaite avec Nadège. Lucie essaie la chaise du bout. Quand quelqu’un vient ouvrir le casier derrière elle, elle peut rester assise.\n\nCôme déplie le plateau de jeu et montre à Florian les deux cases qu’il photographie pour Sana. Au téléphone, elle leur demande s’ils ont pensé à la case qui ferme le passage quand on prend la rivière. Florian lit la règle. Sana choisit quand même la rivière ; il y a plus de façons d’en sortir, dit-elle. Côme pose le pion à l’endroit qu’elle lui indique. Le plateau a un petit jour au pli, mais le pion reste debout. Ils font le premier tour avant que Sana retourne à sa caisse. Elle raccroche en demandant qu’on lui dise où ils ont fini.\n\nAu milieu de la partie, une carte glisse au sol. Côme la ramasse en se demandant si un rebord gênerait les gens qui jouent avec les poignets posés sur le bois. Quand Lucie propose de recommencer juste après, il est tenté. Il avait prévu de rester pour une partie, de ranger et d’appeler sa sœur avant le dîner, comme promis. Il dit qu’il préfère garder le prochain départ pour une autre fois. Florian lui tend le sac : il reste une brioche et ils ont le temps de la partager.",
+      "sections": [
+        {
+          "heading": "Garder plusieurs façons de se retrouver",
+          "text": "Le trouble du jeu vidéo se comprend à partir du retentissement de la pratique et de la difficulté à la modifier, pas de la valeur des amitiés nouées autour d’un jeu. Chez Côme, la table ouvre une possibilité de plus : retrouver des gens dont il connaît déjà les voix et les façons de choisir un chemin. Il veut aussi retourner un jeudi au moulin avec Sana et Florian. Une partie en ligne peut continuer à lui apporter ce qu’il aime, même s’il s’interroge sur le moment où elle commence et sur celui où il arrive à la quitter.\n\nAu premier rendez-vous autour de la table, Côme remarque ce qui s’est passé quand Lucie a proposé une autre partie. Il avait envie de rester ; il a gardé une place pour son appel et le rangement. Le choix est lié à ce dimanche. Il ne dit pas ce que Côme pourra faire un autre soir ou au milieu d’une autre partie."
+        },
+        {
+          "heading": "Garder la possibilité de demander avant un rendez-vous manqué",
+          "text": "Côme peut apporter à sa consultation les situations où il a réussi à agir comme il le souhaitait et celles où la difficulté revient. La petite carte du jeudi, le plateau perdu et la demande d’appel adressée à Florian donnent chacun une information différente. Le suivi peut continuer à partir de ce que Côme veut retrouver et de ce qui lui coûte encore du sommeil ou des engagements. La première partie à l’atelier ne détermine ni la suite de ses difficultés ni les soins dont il pourra avoir besoin.\n\nCôme sait qui joindre s’il souhaite en parler avant la date convenue. Il peut aussi proposer une partie à ses amis sans leur faire de compte rendu. Il leur doit une heure, une adresse et, pour Sana, une réponse à sa question : où leur pion a-t-il fini ?"
+        }
+      ],
+      "ending_title": "La dernière case sur la photo",
+      "ending": "Avant de ranger, Côme envoie à Sana la photo du pion arrivé près d’un pont. Elle lui répond avec trois flèches pour lui montrer une autre sortie qu’ils auraient pu prendre. Il sourit et lui demande si elle serait libre un prochain jeudi. Sur son calendrier, il retrouve la date de sa consultation et la laisse en place. Puis il passe un chiffon là où le sac de brioches a laissé quelques miettes. Il s’arrête près du bord. La prochaine fois, il demandera à Lucie où elle pose ses poignets avant de dessiner le rebord. Il sort de l’atelier avec une photo à montrer à sa sœur et l’appelle en allant vers l’arrêt du bus.",
+      "mirror": [
+        "Florian peut prendre au sérieux le choix de finir après cette partie et parler avec Côme de l’heure qui lui conviendrait une autre fois. Lucie peut proposer un deuxième tour, puis entendre son refus sans essayer d’y lire son état de santé. Sana peut répondre à la photo comme elle répondrait à n’importe quelle discussion de jeu. Les amis ont de la place pour ces échanges et Côme garde son interlocuteur en addictologie pour le suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-jeu-video",
+        "chu-nantes-addictologie"
+      ],
+      "continuity": {
+        "choice": "Côme accueille la première partie, inclut Sana dans le jeu à distance, termine après une partie, propose un autre jeudi et appelle sa sœur comme promis.",
+        "next": "La table est utilisable et a reçu les amis de Côme. Il garde le suivi, le moyen de demander un rendez-vous tôt et l’idée d’un rebord à discuter après d’autres parties."
+      }
+    }
+  ]
+}

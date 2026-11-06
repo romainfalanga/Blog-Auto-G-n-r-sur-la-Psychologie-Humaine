@@ -1,0 +1,37 @@
+{
+  "references": {
+    "hcl-arfid": {
+      "title": "Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire",
+      "url": "https://www.chu-lyon.fr/arfid"
+    },
+    "maudsley-arfid": {
+      "title": "Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions",
+      "url": "https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf"
+    },
+    "nhs-arfid-repas": {
+      "title": "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes",
+      "url": "https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes"
+    }
+  },
+  "dossier": {
+    "name": "Trouble évitant ou restrictif de la prise alimentaire",
+    "aliases": [
+      "ARFID",
+      "Trouble de l’alimentation sélective et évitante"
+    ],
+    "references": [
+      "oms-cddr",
+      "hcl-arfid",
+      "maudsley-arfid",
+      "nhs-arfid-repas"
+    ],
+    "points": [
+      "La CIM-11 (6B83 ; CDDR, p. 410–413 de l’ouvrage) décrit une restriction ou un évitement des prises alimentaires dont les effets sur la santé physique ou sur la vie quotidienne sont importants, parfois les deux. Chez un enfant, le suivi peut porter entre autres sur la croissance ou les carences. Des préférences, un repas observé, l’apparence corporelle ou l’inquiétude d’un parent ne permettent pas de conclure ; l’évaluation spécialisée tient compte de l’évolution, du contexte et des autres explications possibles.",
+      "Les motifs possibles incluent la sensibilité à des caractéristiques sensorielles de l’alimentation, la crainte d’une conséquence pénible de l’acte de manger ou le peu d’intérêt pour l’alimentation. Ils peuvent se combiner ; aucune de ces expériences ne suffit à établir le trouble. En ARFID, le poids et la silhouette ne motivent pas la restriction. Le motif propre à Adèle est sensoriel et son plaisir à toucher des étoffes ne permet aucune déduction sur sa manière de manger.",
+      "Les Hospices civils de Lyon et le service ARFID du Maudsley décrivent une prise en charge ajustée à la personne, avec des apports médicaux, diététiques et psychologiques selon les besoins. Le jeune et sa famille peuvent décrire ce qui se passe dans les situations ordinaires ; l’équipe évalue le retentissement et le risque, et assure le suivi des besoins nutritionnels et de la santé.",
+      "La fiche du NHS sur les repas soutenants invite à examiner avec le jeune l’effet de l’environnement, les occasions de manger avec d’autres et les possibilités quand un plan devient indisponible. Pour Adèle, les arrangements concrets se construisent avec l’équipe, Eva et les adultes du voyage. Les proches peuvent limiter la pression et les commentaires, signaler une difficulté et passer le relais ; ils ne changent pas seuls le plan de soins.",
+      "Le retentissement social et scolaire peut persister même si un repas a été possible dans un contexte donné. Une difficulté renouvelée ou un écart par rapport au plan de soins mérite d’être communiqué à l’équipe qui suit la personne. Une participation à une activité renseigne sur cette situation ; elle ne démontre pas un état nutritionnel ni l’évolution du trouble à elle seule."
+    ]
+  },
+  "direction": "Adèle a quinze ans et regarde d’abord comment les choses sont faites : un motif que l’on décale, une marque laissée par un outil, la couleur d’un fil à contre-jour. Le récit reste près de sa voix, précise et parfois sèche, sans transformer les étoffes en métaphore de guérison. Elle veut relever les motifs d’un ancien atelier de tissage avec sa classe, choisir ses activités et faire imprimer un dessin qui porte son nom. Le voyage d’une nuit se décide avec Eva, sa professeure référente, l’équipe spécialisée et la diététicienne. Adèle tient au périmètre des informations, à la possibilité de manger avec des camarades quand c’est possible et à plusieurs façons de faire retour, vers le groupe ou chez elle. Les adultes assument leur part et leurs erreurs. Diagnostic établi avant le premier épisode ; distinction nette entre préférence, difficulté sensorielle invalidante et restriction motivée par le poids. Aucun inventaire alimentaire, donnée corporelle chiffrée, exposition improvisée, concours de courage ou garantie de guérison. Le résultat porte sur les choix d’Adèle et la possibilité de garder son dessin et son suivi après le voyage."
+}

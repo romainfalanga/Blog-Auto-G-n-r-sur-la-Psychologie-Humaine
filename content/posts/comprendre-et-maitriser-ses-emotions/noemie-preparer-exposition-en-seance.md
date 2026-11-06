@@ -1,5 +1,5 @@
 ---
-title: Ce que Noémie veut savoir avant d’essayer
+title: Choisir comment affronter le doute en thérapie
 description: La clinicienne propose une exposition avec prévention de la réponse.
   Noémie veut savoir ce qu’elle pourra choisir pendant les séances.
 slug: noemie-preparer-exposition-en-seance
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Dans le cabinet de la clinicienne, après une matinée aux archives
 tags:
 - TOC
-- Exposition avec prévention de la réponse
+- Exposition en thérapie
+- Peur d’être dépassée
 - Consentement aux soins
-- Suivi clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Une ligne pour les décisions du jour
+title: Des repères pour trouver sa place en réunion
 description: Avant la prochaine réunion, Nour demande le déroulé et le document de
   travail. Elle peut ainsi préparer la décision sur la photographie.
 slug: nour-ordre-du-jour-accessible
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Au service municipal, avant une réunion sur les reproductions de la collection
 tags:
 - TSA
-- Préparation
-- Ordre du jour accessible
-- Changements anticipés
+- Préparation aux changements
+- Préférences de communication
+- Participation à son rythme
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

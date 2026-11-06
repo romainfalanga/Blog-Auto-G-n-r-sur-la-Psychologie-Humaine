@@ -1,5 +1,5 @@
 ---
-title: Une pince rouge sur le bord de la table
+title: Partager les rôles pour protéger son attention à l’atelier
 description: Pour préparer la permanence, Mathis et Zélie essaient une autre manière
   de traiter les arrivées pendant une réparation.
 slug: mathis-pince-rouge-amenagements
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Lors d’un essai du poste mobile à l’atelier
 tags:
 - TDAH
-- Aménagement de l’environnement
-- Reprise après une interruption
-- Responsabilités partagées
+- Attention au travail
+- Reprise de tâche
+- Partage des rôles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

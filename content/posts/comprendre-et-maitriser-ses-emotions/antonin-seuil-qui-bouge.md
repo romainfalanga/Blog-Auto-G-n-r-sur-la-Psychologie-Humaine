@@ -1,5 +1,5 @@
 ---
-title: La barre qui se soulève
+title: L’inquiétude persiste après le signalement d’un défaut à l’école
 description: Un défaut du seuil est visible à l’entrée du local. Antonin le signale,
   puis cherche quelles décisions relèvent encore de lui.
 slug: antonin-seuil-qui-bouge
@@ -11,9 +11,9 @@ contexte: Au seuil du local en travaux, pendant un repérage depuis le couloir
 tags:
 - TAG
 - Anxiété généralisée
-- Précaution justifiée
-- Responsabilités
-- Incertitude
+- Évaluation d’un risque concret
+- Inquiétudes qui se prolongent
+- Attente et incertitude
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le matin où Jeanne appelle le 15
+title: Reconnaître un changement brutal chez un proche
 description: En passant chez son père, Jeanne remarque un changement brutal par rapport
   à la veille. Elle demande aussitôt un avis médical urgent.
 slug: armand-matin-inhabituel-appel
@@ -12,8 +12,8 @@ tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
 - Confusion aiguë
-- Changement soudain
-- Avis médical urgent
+- Inquiétude des proches
+- Passer le relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

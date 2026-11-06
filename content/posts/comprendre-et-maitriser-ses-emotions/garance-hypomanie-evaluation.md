@@ -1,5 +1,5 @@
 ---
-title: La psychiatre revient sur les jours qui ont changé
+title: 'Hypomanie : Garance revient sur ses décisions avec sa psychiatre'
 description: Au cabinet, Garance reprend les derniers jours avec sa psychiatre. Elles
   examinent l’épisode hypomaniaque et les engagements à revoir.
 slug: garance-hypomanie-evaluation
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Au rendez-vous rapproché avec la psychiatre, après l’appel au cabinet
 tags:
 - Bipolarité type II
-- Épisode hypomaniaque
-- Évaluation spécialisée
-- Engagements professionnels
+- Variations durables de l’humeur
+- Difficulté à freiner ses décisions
+- Évaluation de l’hypomanie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

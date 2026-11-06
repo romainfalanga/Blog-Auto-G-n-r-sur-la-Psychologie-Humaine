@@ -46,7 +46,8 @@ input,textarea,select { border-color: var(--line); }
 .notice { background: var(--accent-wash); border-color: var(--accent); border-radius: 0 8px 8px 0; }
 
 .portrait-tabs {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3,minmax(0,1fr));
   gap: 5px;
   margin: 0 auto 16px;
   padding: 4px;
@@ -55,11 +56,16 @@ input,textarea,select { border-color: var(--line); }
   background: #eaf0f3;
 }
 .portrait-tabs a {
+  display: grid;
+  place-items: center;
   min-height: 44px;
-  padding: 10px 17px;
+  padding: 8px;
   border-radius: 8px;
   color: var(--muted);
+  font-size: .875rem;
   font-weight: 600;
+  text-align: center;
+  text-decoration: none;
 }
 .portrait-tabs a[aria-current="page"] {
   background: var(--paper);
@@ -68,17 +74,18 @@ input,textarea,select { border-color: var(--line); }
 }
 .portrait-tabs a:hover { color: var(--accent); }
 .portrait-state {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 19px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 14px;
+  margin-top: 18px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: .83rem;
 }
-.portrait-state::before { content: ""; width: 7px; height: 7px; flex: none; border-radius: 50%; background: var(--accent); }
 .portrait-state:empty { display: none; }
-.portrait-state.warn { display: flex; flex-wrap: wrap; color: var(--error); }
-.portrait-state.warn::before { background: currentColor; }
+.portrait-state button.text { padding: 0; font-size: inherit; }
 #portrait-body > div > p,#portrait-body .portrait-reading > p { max-width: 74ch; }
 #self-profile-form .profile-group {
   padding: 0 0 21px;
@@ -155,34 +162,12 @@ input,textarea,select { border-color: var(--line); }
 .source-item:target { outline: 2px solid var(--accent); outline-offset: 2px; }
 .source-item p { margin: 0; }
 .source-item h3,.source-item h4 { margin: 0; font-size: 1.03rem; overflow-wrap: anywhere; }
-.person-card { display: grid; grid-template-columns: auto minmax(0,1fr); align-items: start; gap: 12px; }
-.person-initial {
-  display: grid;
-  place-items: center;
-  width: 42px;
-  height: 42px;
-  border-radius: 10px;
-  background: var(--accent-wash);
-  color: var(--accent);
-  font: 600 1.1rem Georgia,serif;
-}
 .source-meta,.event-people { display: flex; flex-wrap: wrap; align-items: center; gap: 5px 9px; margin: 6px 0 0; color: var(--muted); font-size: .82rem; }
 .source-item .source-note { margin-top: 10px; max-width: 70ch; }
 .source-item .source-actions { margin: 3px 0 -6px; gap: 16px; }
 .source-actions button.text { padding: 0; text-decoration: none; font-size: .83rem; font-weight: 650; }
 .source-actions button.text:hover { text-decoration: underline; }
 .source-item .source-actions button.danger:not(:hover):not(:focus-visible) { color: var(--muted); }
-.people-observation-preference {
-  grid-column: 1 / -1;
-  padding: 12px 15px;
-  margin: 0 0 12px;
-  border: 1px solid var(--line);
-  border-radius: 9px;
-  background: var(--wash);
-}
-.people-observation-preference .check { margin: 0 0 4px; font-size: .9rem; }
-.people-observation-preference .helper { margin: 0; }
-.people-observation-preference .status { margin: 6px 0 0; }
 .person-observations { border-top: 1px solid var(--line); margin-top: 12px; }
 .person-observations summary { list-style: none; min-height: 44px; padding: 10px 0; color: var(--accent); font-size: .9rem; font-weight: 650; }
 .person-observations summary::-webkit-details-marker { display: none; }
@@ -265,6 +250,7 @@ input,textarea,select { border-color: var(--line); }
 .message-quota strong { color: var(--ink); font-variant-numeric: tabular-nums; }
 .chat-message.chat-user { background: var(--accent-wash); }
 .chat-composer textarea { border-color: var(--line); }
+.chat-memory-notice { margin: 0 0 6px; color: var(--muted); font-size: 13px; }
 .account-panel { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 26px; }
 .account-row { min-width: 0; overflow-wrap: anywhere; border-color: var(--line); }
 .account-row:first-child { grid-column: 1 / -1; }
@@ -286,8 +272,9 @@ input,textarea,select { border-color: var(--line); }
   .shell { padding-inline: 15px; }
   .app-head { margin-block: 28px 19px; }
   .page-description { font-size: .875rem; margin-top: 9px; }
-  .portrait-tabs { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .portrait-tabs a { display: grid; place-items: center; padding: 7px 5px; }
+  .portrait-tabs { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .portrait-tabs [data-portrait-tab="synthesis"] { grid-column: 1/-1; }
+  .portrait-tabs a { padding: 7px 5px; font-size: .8125rem; }
   .people-directory,.account-panel { grid-template-columns: minmax(0,1fr); }
   .account-row:nth-child(2) { grid-row: auto; }
   .account-row .row { flex-wrap: wrap; gap: 5px; }

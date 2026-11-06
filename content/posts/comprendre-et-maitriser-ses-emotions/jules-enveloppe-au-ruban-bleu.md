@@ -1,5 +1,5 @@
 ---
-title: Le prochain dessin de Jules
+title: Faire des projets quand certains trajets inquiètent encore
 description: Jules prépare un nouveau courrier à Solange et garde un rendez-vous de
   suivi. Il choisit ce qu’il aimerait dessiner lors des prochaines matinées.
 slug: jules-enveloppe-au-ruban-bleu
@@ -11,9 +11,9 @@ contexte: À la fin d’une journée au marché, quelques semaines après la rep
   dessin
 tags:
 - Attaques de panique
-- Suivi dans le temps
-- Autonomie
-- Projet personnel
+- Peur qui varie selon les trajets
+- Autonomie dans les projets
+- Liens entretenus par le dessin
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

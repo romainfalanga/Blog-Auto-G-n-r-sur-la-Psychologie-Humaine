@@ -1,5 +1,5 @@
 ---
-title: La feuille à mettre à jour
+title: Après avoir rejoué, Gabin reprend contact avec le service
 description: Gabin a rejoué. Il reprend contact avec le service et met à jour ce que
   Nora doit savoir pour les dépenses communes.
 slug: gabin-feuille-a-mettre-a-jour
@@ -13,8 +13,8 @@ tags:
 - Jeux d’argent
 - Jeu pathologique
 - Reprise du jeu
-- Retour vers les soins
-- Conséquences financières
+- Demande de soutien
+- Parler des conséquences à un proche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

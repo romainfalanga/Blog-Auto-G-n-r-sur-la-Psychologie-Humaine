@@ -1,5 +1,5 @@
 ---
-title: Une feuille pliée en deux
+title: La déception de quitter tôt la table de dessin
 description: Jules rejoint le groupe pour dessiner les mains des commerçants. Il choisit
   de partir tôt et garde une partie du croquis.
 slug: jules-feuille-repliee
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Un samedi à la table de dessin, après le premier essai accompagné
 tags:
 - Attaques de panique
-- Reprise d’activité
-- Déception
-- Évolution du suivi
+- Variabilité des difficultés
+- Déception après une sortie
+- Maintien du lien avec le groupe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

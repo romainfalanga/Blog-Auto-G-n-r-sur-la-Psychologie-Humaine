@@ -1,5 +1,5 @@
 ---
-title: Vingt minutes de bande
+title: Reprendre le montage à son rythme après un épisode maniaque
 description: Après l’épisode maniaque, Émilien reprend une séance courte au studio
   et redéfinit sa part du projet avec Dorian.
 slug: emilien-vingt-minutes-de-bande
@@ -11,9 +11,9 @@ contexte: revenir à une activité qui compte après un épisode et ajuster la c
   dans la durée
 tags:
 - Bipolarité type I
-- Rétablissement
-- Retour au travail
-- Suivi après un épisode
+- Reprise progressive
+- Limites de travail
+- Décisions en commun
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

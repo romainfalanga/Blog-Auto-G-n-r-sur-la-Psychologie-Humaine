@@ -1,0 +1,455 @@
+{
+  "character_id": "helene",
+  "bio": "À la recyclerie, Hélène observe où les clients s’arrêtent pour chercher les tasses. Elle a le sens du détail et aime essayer avant de décider. Pendant que le dépôt déménage, elle veut fabriquer les panneaux du rayon vaisselle et les tester avec son collègue Dario. Les consignes s’emmêlent quand elles arrivent toutes à la fois. Elle demande alors un renseignement précis ou l’appui de Sofia, son accompagnatrice, pour garder la main sur ses choix. Hors du magasin, elle prépare un dîner dans la cour avec Léa.",
+  "profile_topics": [
+    "Besoin de consignes claires",
+    "Repères face aux imprévus",
+    "Temps pour faire ses choix",
+    "Aide à la demande",
+    "Reconnaissance de son travail"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "helene-ou-tombent-les-tasses",
+      "title": "Quand un changement d’habitude brouille les consignes au travail",
+      "description": "À la recyclerie, Hélène repère une erreur qui se répète chez les clients. Le même matin, elle reçoit les premières consignes pour le nouveau dépôt.",
+      "context": "Au rayon vaisselle de la recyclerie, à l’ouverture",
+      "topics": [
+        "Repères bousculés",
+        "Surcharge d’informations",
+        "Besoin de consignes précises"
+      ],
+      "opening": "La quatrième tasse de la matinée attend dans le panier des bols. Elle a une anse assez large pour trois doigts, une rayure bleue et un prix sous le pied. Hélène se souvient de l’avoir remise à sa place il y a dix minutes. Elle prend la tasse, fait les six pas jusqu’à l’entrée du rayon et revient en regardant à hauteur des yeux, comme quand elle entre dans un magasin où elle n’est jamais venue. De là, les tasses sont cachées derrière le présentoir à plats. Les bols, eux, se voient de l’autre bout de l’allée. Elle remet la tasse parmi les bols, exprès cette fois, pour la montrer à Dario.\n\nMaud arrive avec le planning de la semaine prochaine. Le dépôt change d’adresse ; le magasin, lui, reste ici. Tout est écrit au-dessus du tableau, mais Maud ajoute en parlant qu’il faut inverser les deux premières tournées et que, pour la remise des caisses, Hélène verra avec Ilyes « selon le quai ». Hélène essaie de rapprocher cette phrase du papier. La ligne de mardi dit « départ habituel ». Elle ne sait plus si cela veut dire la même heure ou le même endroit. Les deux informations ne peuvent pas tenir dans le mot « habituel », surtout si on change justement d’endroit.\n\nDario lui demande s’il doit ranger la tasse. « Attends, celle-là travaille. » Hélène lui montre le rayon depuis l’entrée. Si elle pouvait prendre un bout de son temps de travail pour faire des panneaux, elle voudrait voir si les clients les suivent sans qu’on leur montre le chemin. Puis elle retourne près de Maud : elle veut savoir quelle ligne du planning elle doit garder, avant d’enlever l’ancienne version de son casier.",
+      "sections": [
+        {
+          "heading": "Quand « habituel » ne désigne plus le même endroit",
+          "text": "Un changement de routine peut augmenter le besoin de repères d’une personne qui vit avec un trouble du développement intellectuel. L’OMS décrit des difficultés significatives du fonctionnement intellectuel et des habiletés utilisées dans la vie quotidienne, avec des profils différents d’une personne à l’autre. Chez Hélène, dont le diagnostic est déjà établi, retenir plusieurs changements annoncés d’un bloc et les rapprocher d’un document ancien prend du temps. Le mot « habituel » complique aussi le travail : aucune lecture attentive du papier ne permet de savoir ce que Maud voulait dire.\n\nHélène sait par ailleurs pourquoi la tasse bleue revient dans le mauvais panier. Elle compare les gestes des clients à la disposition du rayon. Cette compétence et sa difficulté avec une annonce de dernière minute peuvent coexister. Les deux apportent des informations sur des situations distinctes de son travail."
+        },
+        {
+          "heading": "Séparer ce qui change de ce qui reste à décider",
+          "text": "Les recommandations de la HAS sur le travail invitent à expliciter l’organisation et à ajuster les supports avec la personne. Maud peut écrire deux renseignements séparés, l’heure de mardi et le lieu du rendez-vous, puis préciser quand le reste sera confirmé. Si une partie n’est pas fixée, il vaut mieux écrire « à confirmer jeudi » que demander à Hélène de retrouver une réponse qui n’existe pas encore. L’équipe a aussi intérêt à retirer du tableau la version qu’elle ne doit plus utiliser.\n\nPour le rayon, Hélène a une demande de métier : du temps pour fabriquer, puis l’occasion de regarder ce qui se passe. Maud peut discuter de ce temps et du matériel disponible sans mélanger le sujet avec les appuis du déplacement. Deux sujets distincts donnent deux décisions dont on peut retrouver la trace."
+        }
+      ],
+      "ending_title": "La tasse sert encore",
+      "ending": "Maud entoure « 9 h » sur une nouvelle feuille et écrit à côté : « mardi, rendez-vous à la boutique ; date de visite du dépôt à fixer jeudi ». Elle raye l’ancienne ligne devant Hélène. Pour les panneaux, elle peut lui dégager un créneau à l’établi, à condition que l’installation puisse être retirée si elle gêne le passage. Hélène demande deux essais, pour avoir le droit de corriger le premier. Maud regarde l’allée et dit oui. Hélène pose alors la tasse rayée devant Dario. « Maintenant elle a fini. Tu peux la remettre avec les siennes. »",
+      "mirror": [
+        "Quand Hélène revient avec le planning, Dario peut lui demander quelle information manque encore. Il peut dire « Je sais que le magasin ne déménage pas. Pour mardi, je ne sais pas si Maud parlait de l’heure ou du lieu. On lui demande de l’écrire ? » Il apporte ce qu’il sait. La confirmation appartient à Maud ; Dario n’a pas à inventer une consigne pour débloquer la conversation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène demande une consigne écrite qui distingue heure et lieu et obtient deux essais réversibles pour ses panneaux.",
+        "next": "Le rendez-vous de mardi reste à la boutique. Jeudi, l’équipe doit organiser une visite du nouveau dépôt ; Hélène veut prendre part à la décision."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "helene-la-chaise-de-sofia",
+      "title": "Se donner le temps de choisir son trajet",
+      "description": "Devant deux propositions pour rejoindre le dépôt, Hélène demande de voir les trajets et invite Sofia à la réunion de jeudi.",
+      "context": "Dans le vestiaire puis au point d’équipe, pendant la préparation du déménagement",
+      "topics": [
+        "Pression de décider",
+        "Besoin de temps",
+        "Soutien choisi"
+      ],
+      "opening": "Le banc du vestiaire est assez long pour quatre personnes à condition que personne n’y pose son sac. Hélène a déjà poussé deux cabas pour faire une place à Maud. Elle garde son manteau sur les genoux : dans cinq minutes, elle doit ouvrir le rayon. Maud lui propose de monter vendredi avec les collègues de la tournée ou de « se débrouiller avec le 4, comme d’habitude », en précisant que le bus passe aussi le samedi, mais pas aux mêmes heures. Hélène prend le papier. Elle ne voit ni l’arrêt où descendre ni l’heure à laquelle il faut être arrivée vendredi. Elle n’a jamais pris le 4 au-delà du marché.\n\n« Tu préfères quoi, au fond ? » demande Maud. Elle tient déjà le crayon près de la case camion. Hélène est tentée de répondre camion pour que la case cesse d’être vide. Elle veut pourtant savoir comment aller au dépôt les jours où elle ne sera pas sur la tournée. Maud ne pourra pas toujours lui proposer le siège. Hélène pose le papier à plat entre elles et repousse le crayon du bout de l’ongle.\n\nElle demande que la question attende le point d’équipe de jeudi. D’ici là, elle veut le nom de l’arrêt et l’heure du rendez-vous, une information par ligne. Puis elle appelle Sofia, son accompagnatrice. « Tu peux venir ? Je veux choisir le trajet. Si ça part sur le planning des camions, je veux que tu nous ramènes au trajet. Si je réfléchis, tu peux attendre. » Sofia lui dit qu’elle ne pourra rester que pendant le premier quart d’heure. Hélène répond que c’est assez, si le trajet passe en premier.",
+      "sections": [
+        {
+          "heading": "Laisser ouverte une décision qu’on est pressé de clore",
+          "text": "Présenter deux options ne suffit pas toujours pour qu’une personne puisse choisir entre elles. Pour Hélène, le camion est une proposition qu’elle peut se représenter. Le bus demeure une suite d’informations à compléter : où descendre, combien de temps marcher, qui sera là. Sans ces renseignements, la case que Maud s’apprête à cocher risque de recueillir l’effet de la précipitation plutôt qu’une préférence.\n\nDans le TDI, traiter ou rapprocher plusieurs informations peut demander un soutien adapté. La HAS propose de prendre en compte ce que la personne souhaite, comment elle comprend la situation et comment elle exprime aussi un refus. Hélène a dit qu’elle ne choisissait pas dans le vestiaire. Elle n’a pas refusé le déplacement. Accepter ce délai permet de lui poser de nouveau la question dans de meilleures conditions."
+        },
+        {
+          "heading": "Préparer le rôle de la personne invitée",
+          "text": "Hélène veut que Sofia veille à ce qu’on parle du déplacement avant les tournées. Son mandat ne comprend pas de choisir le bus, d’interpréter son silence ou de raconter son histoire à l’équipe. Ensemble, elles peuvent convenir d’un signe si Hélène veut que Sofia rappelle la question. Sofia peut aussi annoncer son heure de départ. Ce renseignement aide à organiser la réunion au lieu de laisser Hélène compter sur une présence que Sofia ne peut pas assurer.\n\nLe temps de réflexion a lui aussi des conditions concrètes. Maud doit réserver les places du camion avant jeudi midi. Elle peut poser les deux propositions en début de réunion et dire quand une réponse est nécessaire. Hélène peut demander une autre possibilité, par exemple un premier trajet accompagné suivi d’un nouveau choix."
+        }
+      ],
+      "ending_title": "Le point trajet passe en premier",
+      "ending": "Jeudi matin, Maud a mis le point « trajet » en premier sur la feuille. Hélène a gardé la chaise à sa droite pour Sofia. Elle la laisse rappeler qu’il faut lire le nom de l’arrêt avant de discuter des places en camion. Elle demande ensuite à Dario s’il peut prendre le 4 avec elle vendredi matin. Dario peut faire l’aller sur son temps de travail ; au retour, il doit être à la caisse. Hélène propose de décider de son retour avec Ilyes une fois arrivée, parmi les solutions que Maud vérifie dès la réunion. Sur le papier, elle écrit « essayer l’aller ». Elle entoure ces deux mots elle-même.",
+      "mirror": [
+        "Si Hélène vous invite à une réunion, demandez-lui avant d’entrer : « Tu veux que je prenne des notes ou que je rappelle une question précise ? » Si vous avez vingt minutes, dites-le à l’avance. Au moment où elle s’arrête pour réfléchir, laissez le temps qu’elle a demandé. Vous pouvez lui redonner la parole d’un regard ou attendre son signe, selon ce que vous avez convenu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-autodetermination",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène reporte le choix, fixe le rôle de Sofia et réserve un trajet d’essai en bus avec Dario pour vendredi matin.",
+        "next": "Maud confirme les solutions de retour avant l’essai. Hélène et Dario pourront repérer le trajet à l’aller, puis Hélène décidera de l’appui au retour."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "helene-la-porte-bleue",
+      "title": "Apprendre un trajet en choisissant soi-même ses repères",
+      "description": "Lors d’un premier trajet vers le dépôt, Hélène compose un plan avec les repères qu’elle reconnaît depuis la rue.",
+      "context": "Entre l’arrêt Marché et le nouveau dépôt, un vendredi matin",
+      "topics": [
+        "Apprentissage en situation",
+        "Repères visuels",
+        "Aide à la demande"
+      ],
+      "opening": "Le vendredi, Hélène attend le 4 à l’arrêt Marché avec Dario. Sur son téléphone, la carte présente d’abord le trajet en voiture. Pour voir la partie à pied, il faut agrandir l’écran ; dès qu’elle le fait, le nom de la rue sort du cadre. Elle finit par laisser le téléphone dans sa poche. Elle lit « Les Forges » sur le bus avant de monter. Cette direction, au moins, était écrite sur la feuille de jeudi.\n\nDario reconnaît l’arrêt Verrerie et le lui annonce avant qu’elle ait pu le lire. Elle lui dit qu’il vient de gâcher son pari avec elle-même : elle voulait trouver l’endroit grâce à la marquise rayée de la boulangerie, qu’il lui avait signalée à la montée. Il se décale pour lui laisser la vitre. À l’arrêt, Hélène repère le passage piéton et le nom de la rue, puis deux entrées dans le mur du dépôt. Celle qui figure en gros sur la carte est un portail pour les livraisons. Sur la petite porte bleue, une plaque dit « accueil ». C’est celle-là qu’elle garde. De près, on voit qu’il s’agit d’une ancienne porte d’école, avec la peinture d’un autre bleu autour de la serrure.\n\nIlyes les attend à l’accueil. Il propose d’envoyer une photo prise depuis le parking. Hélène lui demande de ressortir avec elle jusqu’au trottoir. Si elle vient du bus, c’est depuis là qu’elle doit reconnaître l’entrée. De retour au bureau, elle emprunte un crayon et dessine ce qu’elle vient de voir. Dario regarde l’heure et part vers l’arrêt sans finir de corriger son dessin. Il doit reprendre sa place à la caisse avant l’ouverture.",
+      "sections": [
+        {
+          "heading": "Garder les repères qui correspondent au trajet",
+          "text": "L’utilité d’un repère dépend de ce que la personne pourra retrouver au moment où elle en aura besoin. Une photo du parking renseigne les personnes qui arrivent en voiture. Hélène a besoin de distinguer deux entrées depuis le trottoir. Elle a aussi besoin que la direction du bus et le nom de l’arrêt restent visibles ensemble. Son plan tient ces renseignements sur une page ; la carte de son téléphone répond à d’autres questions.\n\nL’OMS rappelle que les habiletés de la vie quotidienne, dont les déplacements, se regardent dans leur contexte. Un trajet peut devenir familier avec l’expérience et rester difficile si ses repères changent. La HAS suggère de discuter avec la personne de la façon de préparer un déplacement et d’envisager les imprévus. Le dessin d’Hélène répond à ses besoins à elle. Il ne permet pas de prédire le trajet qu’une autre personne saurait faire."
+        },
+        {
+          "heading": "S’entendre sur l’aide avant le départ",
+          "text": "Pendant un essai, un collègue peut demander à quel moment intervenir : « Tu veux lire le nom toi-même, ou je te le dis quand on approche ? » Dario connaissait l’arrêt. Il n’avait pas encore demandé à Hélène ce qu’elle voulait essayer. Une fois leur accord trouvé, sa présence lui laisse le temps de chercher et la possibilité de poser une question.\n\nLe chemin de retour mérite son propre regard. Le même arrêt n’est pas forcément du même côté de la rue et la direction sur le bus change. Maud a confirmé qu’Ilyes peut accompagner Hélène jusqu’à l’arrêt du retour si elle le souhaite. Elle a aussi laissé le numéro de la boutique. Hélène peut décider d’utiliser ces appuis et vérifier le sens du bus en restant responsable de ce qu’elle souhaite faire."
+        }
+      ],
+      "ending_title": "Un trait bleu pour l’accueil",
+      "ending": "Hélène plie son plan de façon que « Marché → Verrerie » se lise sans le déplier. À l’intérieur, elle dessine une porte et écrit « accueil ». Pour le retour, elle choisit qu’Ilyes lui montre l’autre abri, puis prend le bus jusqu’au Marché. Avant de partir, elle lui demande quel numéro répond lorsqu’il n’est pas à l’accueil. Elle inscrit celui de la boutique sous le sien. À son prochain passage, la semaine suivante, elle doit récupérer au dépôt le bordereau des caisses de vaisselle. Elle range le plan dans la poche du sac où elle mettra le bordereau.",
+      "mirror": [
+        "Si vous accompagnez quelqu’un sur un trajet nouveau, demandez ce qu’il ou elle veut repérer par soi-même. Dario pourrait dire « Je connais l’arrêt. Dis-moi si tu veux que je te le signale. » Et s’il doit repartir à une heure précise, autant le dire avant de monter. Ensemble, ils peuvent voir qui est disponible après son départ, au lieu de promettre une présence pour tout le trajet."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail",
+        "has-tdi-synthese"
+      ],
+      "continuity": {
+        "choice": "Hélène choisit ses repères, note deux contacts et demande à Ilyes de lui montrer seulement l’arrêt du retour.",
+        "next": "Le plan concerne le trajet ordinaire. La semaine suivante, Hélène devra revenir chercher le bordereau de la tournée vaisselle."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "helene-deux-facons-de-montrer",
+      "title": "Demander un coup de main pour continuer seule",
+      "description": "À l’établi, Hélène fabrique deux versions de ses panneaux et choisit ce qu’elle veut observer chez les clients.",
+      "context": "À l’établi de la recyclerie, pendant le créneau de fabrication",
+      "topics": [
+        "Aide ciblée",
+        "Compréhension d’une consigne",
+        "Apprentissage par l’essai"
+      ],
+      "opening": "En tenant la tasse bleue par l’anse, Hélène découvre que sa rayure ressemble à un éclair sur la photo. Elle garde cette image pour le premier panneau. Sur l’autre, elle dessine une tasse au trait, avec une anse bien ouverte et sans la rayure. Dario préfère la photo. Il dit qu’un dessin pourrait avoir l’air d’un logo de café. Hélène répond que la photo pourrait avoir l’air d’une annonce pour une tasse à vendre. Ils posent les deux à côté d’une assiette imprimée sur le vieux sac du magasin. Tout peut ressembler à une publicité quand on le met au milieu de trois promotions.\n\nMaud lui a donné une demi-heure à l’établi. Le bac à papier du premier tiroir a été changé de place et les feuilles grand format ont deux noms, selon qu’on lit l’étiquette du carton ou le menu de l’imprimante. Hélène a déjà lancé une feuille trop petite. Dario s’apprête à reprendre la souris. Elle lui demande de montrer, sur l’écran, quelle ligne correspond au carton qu’elle a sorti. Une fois le nom repéré, elle relance elle-même et inscrit ce nom sur le paquet pour la prochaine fois.\n\nSur chaque version, elle veut le mot « Tasses » et une flèche. Le premier essai aura lieu le samedi, quand les gens viennent avec une liste ou un panier pour les courses du marché. Hélène demande à Dario de noter les questions qu’il entend depuis la caisse. Elle veut voir où les gens regardent, et pas seulement savoir s’ils trouvent le rayon joli. Dario lui dit que, dès que la file arrive au portant des manteaux, il ne pourra plus écrire.",
+      "sections": [
+        {
+          "heading": "Faire apparaître le lien entre l’écran et le carton",
+          "text": "Un support sert quand il donne accès à l’information dont la personne a besoin pour agir. L’étiquette du papier et le nom affiché par l’imprimante ne se correspondent pas à première vue. Pour Hélène, découvrir ce lien alors qu’il ne reste qu’une demi-heure rend la tâche plus difficile. Son besoin d’aide concerne cette étape : retrouver la ligne et pouvoir s’en servir ensuite.\n\nLa HAS invite à examiner, lorsqu’une difficulté apparaît, le matériel, la consigne et les conditions de réalisation. Montrer la bonne ligne donne ici une information vérifiable que Hélène peut réutiliser. Elle sait déjà comment disposer le texte et le dessin sur la page. L’OMS décrit des profils et des besoins de soutien variables dans le TDI ; une étape qui demande un appui ne renseigne pas, à elle seule, sur l’ensemble du travail de la personne."
+        },
+        {
+          "heading": "Décider ce que le test peut apprendre",
+          "text": "La signalétique est le projet d’Hélène. Le premier essai lui permettra de voir si une photo avec un mot et une flèche aide des clients à s’orienter dans ce rayon. Elle peut décrire ce qu’elle voit à Dario : une personne a tourné trop tôt, quelqu’un a cherché le prix, un client a demandé les bols. Ce sont des observations sur les panneaux et le magasin. Une matinée ne permet pas de départager toutes les raisons qui conduisent les gens à s’arrêter.\n\nPour respecter la disponibilité annoncée par Dario, Hélène propose deux petites périodes d’observation et une seule question pour les clients qui ont le temps. Elle gardera le dessin de côté jusqu’au deuxième essai. Si elle change aussi l’emplacement ou la flèche, elle notera ces changements : elle saura alors ce qu’elle a modifié sans attribuer tout le résultat à l’image."
+        }
+      ],
+      "ending_title": "Le rouleau reste près du dessin",
+      "ending": "Hélène écrit au dos des panneaux le jour prévu et le nom de chaque version. Elle met la photo au-dessus, sous un carton, pour éviter qu’elle ne se courbe. Le dessin reste sur l’établi à côté du rouleau de ruban. En passant à la caisse, elle demande à Dario de lui dire s’il ne peut plus observer samedi. Elle peut voir où regarder depuis le bout de l’allée. Avant de rentrer, elle photographie l’autre côté de la tasse, parce qu’elle se demande encore si l’éclair a pris toute la place.",
+      "mirror": [
+        "Si Hélène demande où cliquer, montrez la ligne qu’elle cherche avant de proposer autre chose. Dario peut dire « C’est cette ligne, pour les grandes feuilles. Tu me demandes si tu veux que je reste. » Pour le test aussi, un engagement précis aide : « Je peux noter les questions tant que la file est courte. » Il peut ensuite retourner à la caisse sans décider du sort des panneaux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-synthese",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène fabrique deux versions, demande une aide limitée pour le format d’impression et définit l’observation du premier essai.",
+        "next": "Samedi, elle testera la photo avec le mot et la flèche ; Dario observera depuis la caisse dans la limite de son travail."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "helene-le-prix-qui-nexiste-pas",
+      "title": "Faire une pause quand les informations arrivent de tous côtés",
+      "description": "Une cliente cherche le prix de la tasse bleue. Hélène comprend ce que le panneau et les affiches du samedi lui ont laissé croire.",
+      "context": "Dans l’allée centrale, pendant le premier essai auprès des clients",
+      "topics": [
+        "Attention divisée",
+        "Besoin de pause",
+        "Point de vue des autres"
+      ],
+      "opening": "Véra vient chercher trois bols. Le premier est pour elle, les deux autres pour ses petits-déjeuners du dimanche, quand ses voisins passent et qu’elle a du café pour tout le monde, mais jamais assez de vaisselle. Près du portant des manteaux, elle lit « Deux verres pour un euro ». Au-dessus du panier de vaisselle, il y a la photo d’une tasse avec un éclair bleu. Véra penche la tête pour voir le prix sous l’image. Il n’y en a pas. La flèche pointe vers les étagères mais, de là où elle se trouve, elle la dirige d’abord vers une table de plats.\n\nUne femme se présente comme Hélène et lui demande si elle veut bien dire ce qu’elle a compris du panneau. Véra répond qu’elle aimerait connaître le prix de la tasse. Hélène lui montre l’étagère et explique le panneau en parlant vite. Véra la voit s’arrêter au milieu d’une phrase. À la caisse, Dario vient d’écarter ses feuilles pour poser le gros sac d’un client ; on l’appelle pour un retour, puis pour de la monnaie. « Je n’arrive pas à suivre les deux bouts », dit Hélène en regardant la caisse. Elle tire son panneau de son support et le tient dans ses mains.\n\nVéra se demande si elle a dit quelque chose de vexant. « J’ai cru qu’on vendait celle de la photo », précise-t-elle. Hélène se place alors à côté d’elle, là où la vue s’ouvre entre les manteaux et la table de plats. Elle dit : « Ah oui. Toutes les offres commencent ici aussi. » Elle demande à Véra si elle veut les bols empilables ou ceux qu’on peut tenir par les bords sans se réchauffer les mains. Véra n’avait pas pensé à cette différence. Elle choisit les empilables.",
+      "sections": [
+        {
+          "heading": "Lire l’erreur depuis l’endroit où elle se produit",
+          "text": "Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan. Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.\n\nLes recommandations de la HAS invitent à examiner les conditions d’un essai plutôt qu’à attribuer d’emblée une difficulté à la personne. Les questions des clients et les interruptions de la caisse compliquent le recueil des observations. Hélène a déjà remarqué qu’elle a besoin de temps pour rapprocher plusieurs informations, et elle demande parfois à les reprendre une par une. L’OMS décrit des besoins de soutien sensibles au contexte. Une personne peut repérer un problème avec précision et avoir besoin d’une pause pour trier les renseignements recueillis."
+        },
+        {
+          "heading": "Arrêter un essai quand il ne permet plus d’observer",
+          "text": "Dario ne peut plus noter les questions sans retarder les clients. Hélène retire le panneau ; l’essai était prévu pour pouvoir s’arrêter dans ces conditions. Après l’affluence, elle peut lui demander de reprendre ce qu’il a entendu avant d’avoir écarté sa feuille. Ce bilan court évite de reconstituer toute la matinée en même temps qu’on encaisse les achats.\n\nPour la prochaine version, elle envisage de dissocier l’orientation et l’étiquette de l’étagère. À l’endroit du virage, il y aurait une flèche ; sur l’étagère, le nom des objets. La HAS encourage à prendre en compte les propositions de la personne sur son environnement de travail. Ici, Maud peut lui dire quels supports restent disponibles et la laisser conduire la correction."
+        }
+      ],
+      "ending_title": "La photo attend dans le tiroir",
+      "ending": "Après le départ de Véra, Hélène plie la feuille de relevé de Dario en deux. Du côté encore blanc, elle écrit « on demande le prix » et « on tourne avant les plats ». Elle ne sait pas si tous les clients ont vu l’image comme Véra. Elle sait déjà qu’elle ne veut pas remettre le panneau tel quel. Elle glisse la photo au fond du tiroir, mais conserve la tasse au trait sur l’établi. Dario vient lui dire qu’il a entendu deux fois demander les bols depuis la caisse. Hélène ajoute une troisième ligne à la feuille.",
+      "mirror": [
+        "À la fin du test, Dario peut dire « J’ai entendu demander les bols deux fois. Après, j’ai arrêté de noter pour servir les clients. » Il peut demander à Hélène si elle veut reprendre les observations maintenant ou après la fermeture. Un retour précis est plus utile que « Ça a marché » ou « Personne n’a compris ». Dario peut laisser Hélène décider quels changements elle veut essayer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-synthese",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène arrête le premier essai en période d’affluence et conserve trois observations pour corriger les panneaux.",
+        "next": "Elle garde le dessin pour le second essai et veut séparer le guidage à l’entrée du rayon et le nom sur les étagères."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "helene-la-table-dans-la-cour",
+      "title": "Poser ses limites quand le travail s’invite à la maison",
+      "description": "En préparant un dîner dans sa cour avec sa cousine Léa, Hélène remet à plus tard une consigne de tournée arrivée le dimanche.",
+      "context": "Dans la cour d’Hélène et à sa table de cuisine, un dimanche",
+      "topics": [
+        "Limites avec les proches",
+        "Respect du rythme",
+        "Surcharge d’informations"
+      ],
+      "opening": "Le pied le plus court de la table est celui qui touche la dalle la plus haute. Hélène et Léa la tournent d’un quart de tour et le verre cesse de trembler. Léa tenait déjà un prospectus plié à quatre pour caler le pied. Elle le range dans sa poche. Hélène veut dîner dans cette cour la semaine prochaine, avec Léa et deux amis. Elle sort quatre chaises. Celle en rotin paraît toujours plus basse que les autres, même vide. « On va la garder pour celui qui réclame le dessert avant d’avoir fini », dit-elle. Léa estime que, dans ce cas, Hélène peut s’y asseoir tout de suite.\n\nEn rentrant chercher les couverts pour vérifier qu’il y en a assez, Hélène voit un message de travail. Le bordereau sera prêt plus tôt jeudi et le magasin a envoyé deux photos pour l’expliquer. L’une représente un planning couvert de flèches ; l’autre, une pile de caisses. Hélène lit trois fois la ligne sur le réassort et ne sait toujours pas si l’heure du dépôt a changé pour elle ou seulement pour le camion. Léa tend la main pour voir l’écran. Hélène le pose à plat sur la table. Elle connaît le pli qu’elles prennent toutes les deux : Léa lit, Léa trouve une réponse, puis Hélène doit retenir la réponse et le raisonnement ensemble.\n\n« On n’a pas fini avec le dîner », dit Hélène. Elle veut d’abord choisir qui apporte quoi. Pour le travail, elle demandera lundi à Maud l’heure et le lieu qui la concernent. Léa récupère le verre dans la cour et lance le vrai problème du dimanche : elle veut faire un gâteau, mais Hélène avait prévu une tarte.",
+      "sections": [
+        {
+          "heading": "Choisir le moment de reprendre une information",
+          "text": "Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement. Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.\n\nLa HAS propose de partir des préférences, du rythme et des habitudes de vie de la personne. Hélène veut le renseignement de l’équipe pendant son temps de travail. Elle sait quelle question poser, et le fait que Léa pourrait interpréter la photo plus vite ne lui donne pas la réponse officielle du dépôt. Le dimanche, ce qui compte à cette table est de décider du dîner."
+        },
+        {
+          "heading": "Recevoir une demande précise sans prendre tout le reste",
+          "text": "Léa peut être une alliée quand Hélène souhaite relire quelque chose ensemble. Elle peut aussi laisser le téléphone où Hélène l’a posé. Un proche gagne à demander si l’aide est souhaitée et sur quelle partie. Si Hélène voulait seulement isoler la ligne qui parle d’elle, reprendre tout le planning ou téléphoner en son nom ajouterait des étapes dont elle n’a pas besoin.\n\nAu travail, le responsable du planning reste le mieux placé pour confirmer l’heure et le lieu. Une phrase suivie d’une question peut suffire : « Je passe chercher le bordereau. Je dois être au dépôt à quelle heure ? » L’important est que la réponse désigne le rendez-vous d’Hélène. La forme du message est à décider avec elle."
+        }
+      ],
+      "ending_title": "La tarte reste au programme",
+      "ending": "Léa décide qu’elle apportera les boissons ; Hélène garde la tarte et en commande une à la boulangerie du quartier pour le samedi suivant. Elle ne veut pas avoir le four à surveiller pendant que les amis sont là. Le lundi, Maud lui confirme que le rendez-vous du jeudi reste à neuf heures à l’accueil du dépôt. C’est le camion qui est avancé. Hélène inscrit l’heure en haut de son plan plié. Sur le groupe de discussion, elle confirme le dîner de samedi à quatre. La chaise en rotin reste libre, faute de volontaire.",
+      "mirror": [
+        "Léa peut reprendre sa main et demander « Tu veux que je regarde la photo avec toi, ou on termine ce qu’on faisait ? » Si Hélène choisit le dîner, elle peut revenir aux courses sans insister. Et si Hélène lui demande de lire une ligne, Léa peut s’en tenir à cette ligne et reconnaître ce qu’elle ignore. Les horaires de l’équipe peuvent être confirmés par l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-autodetermination",
+        "has-tdi-synthese"
+      ],
+      "continuity": {
+        "choice": "Hélène refuse l’aide immédiate de Léa sur le planning, fixe le dîner du samedi suivant et demande elle-même l’horaire de son rendez-vous.",
+        "next": "Maud confirme neuf heures jeudi à l’accueil du dépôt. Le plan est prêt pour le trajet habituel ; l’état de la ligne de bus reste à vérifier."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "helene-le-jeudi-sans-verrerie",
+      "title": "Perdre ses repères quand le bus change d’itinéraire",
+      "description": "Un avis de déviation enlève au plan d’Hélène son point d’arrivée. Elle demande une consigne pour la tournée de ce matin.",
+      "context": "À l’arrêt Marché, avant la tournée du jeudi",
+      "topics": [
+        "Imprévu et repères",
+        "Besoin de réponses claires",
+        "Demande d’aide"
+      ],
+      "opening": "À l’arrêt Marché, une feuille attachée au poteau se soulève chaque fois qu’un bus passe. Hélène lit « Verrerie non desservi » entre deux battements du papier. Il y a une liste des arrêts maintenus, en lettres plus petites. Elle reconnaît « Tannerie » parce que le nom lui fait toujours penser à « Verrerie ». Le message n’indique pas de chemin entre les deux. À neuf heures, Ilyes doit lui donner le bordereau à l’accueil. Son plan indique encore la marquise de la boulangerie et la petite porte bleue. Sans la marquise, elle ne saurait pas dans quel sens partir.\n\nLe 4 s’approche. Hélène pourrait monter et demander en route, mais elle a besoin de connaître le bout du trajet avant de partir. Elle recule sous l’abri, laisse le bus prendre les gens qui attendent et appelle Ilyes. La sonnerie s’arrête sans réponse. Elle déplie le plan et prend le numéro de la boutique. Dario décroche. Il entend d’abord « Verrerie » et lui demande si elle est déjà au dépôt.\n\n« Je suis encore au Marché, devant l’abri. Le 4 passe. Il ne va pas à Verrerie. Je dois savoir si je viens quand même et où je descends. » Dario ne connaît pas le nouvel arrêt. Il fait signe à Maud, qui remonte l’allée, et lui passe le combiné. Hélène voit le bus tourner au bout de la rue. Elle n’a plus envie qu’on lui dise qu’elle peut essayer au hasard, quitte à revenir. Elle demande qu’on lui confirme une chose avant de raccrocher : est-ce qu’on l’attend toujours au dépôt ce matin ?",
+      "sections": [
+        {
+          "heading": "Distinguer le trajet connu de la déviation",
+          "text": "Une déviation change la tâche, même lorsqu’on connaît le trajet habituel. Hélène sait dans quel bus monter et où reconnaître l’entrée du dépôt depuis Verrerie. Rien de cela ne lui dit comment rejoindre le même endroit à pied depuis Tannerie. En plus, le nom des deux arrêts se ressemble et la feuille est difficile à lire. La question est de retrouver des informations et des repères qui correspondent au trajet du jour.\n\nL’OMS décrit des besoins de soutien qui peuvent varier lors d’un changement de routine. La HAS propose de préparer avec la personne des situations d’imprévu dans les transports : quel contact joindre, comment expliquer où l’on se trouve et de quels repères on a besoin. Le plan d’Hélène ne contenait pas la déviation. Le numéro de repli de la boutique, qu’elle avait choisi d’y mettre, lui permet de faire passer sa question à la bonne personne."
+        },
+        {
+          "heading": "Confirmer le rendez-vous avant de proposer un détour",
+          "text": "La recyclerie doit aussi décider comment recevoir le bordereau. Maud peut dire si la présence d’Hélène reste nécessaire, qui transmettra la feuille et quand le trajet pourra être repris. Demander à Hélène de choisir un nouvel arrêt sans lui donner le chemin ne résout pas le rendez-vous. Lui dire simplement de renoncer à aller au dépôt les prochains jours ne prépare pas davantage la suite.\n\nPour ce matin, Hélène souhaite une réponse qui lui permette d’agir à partir de l’arrêt où elle se trouve. Si la déviation doit durer, elle veut essayer le détour avec un repère choisi et quelqu’un disponible au bout. L’équipe peut vérifier la durée des travaux et convenir du premier essai avec elle, après avoir réglé le départ de la tournée."
+        }
+      ],
+      "ending_title": "Rendez-vous annulé, bordereau maintenu",
+      "ending": "Maud confirme que le rendez-vous est annulé pour ce matin. Elle joindra Ilyes pour lui demander d’envoyer une copie à la boutique ; Hélène l’utilisera là-bas pour préparer les étiquettes de rayon. Hélène rentre à pied à la recyclerie par le chemin qu’elle connaît depuis l’arrêt Marché. Elle demande que l’équipe regarde avec elle le détour avant le prochain rendez-vous. À côté de « Verrerie », elle glisse un feuillet qui dépasse quand le plan est plié : « arrêt fermé ». Elle laisse le nom d’origine lisible. La fermeture annoncée est temporaire.",
+      "mirror": [
+        "Au téléphone, répétez l’endroit avant de proposer un trajet : « Tu es à Marché, et la Verrerie n’est pas desservie. J’ai bien compris ? » Dario peut dire qu’il ne connaît pas Tannerie et transmettre la question à Maud. Si la personne censée répondre est occupée, un deuxième contact convenu à l’avance est utile. Le collègue à la caisse n’a pas à donner une direction dont il n’est pas sûr."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène décide de ne pas monter sans connaître le détour, utilise le second contact et fait confirmer l’annulation du rendez-vous.",
+        "next": "Le bordereau sera utilisé à la boutique. Avant la prochaine visite, l’équipe doit vérifier la déviation et proposer un repérage à Hélène."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "helene-le-panneau-sans-portrait",
+      "title": "Être reconnue pour son travail sans exposer sa vie privée",
+      "description": "Maud propose un portrait pour la lettre de la recyclerie. Hélène distingue ce qu’elle veut montrer de ce qu’elle préfère garder pour elle.",
+      "context": "À la table de pause de la recyclerie, après la tournée du jeudi",
+      "topics": [
+        "Reconnaissance du travail",
+        "Intimité",
+        "Liberté de refuser"
+      ],
+      "opening": "Maud a reçu le bordereau par courriel. Quand Hélène passe à la table de pause pour le prendre, la feuille est posée sur un autre imprimé. Sur le second, on voit deux cases vides : « votre prénom » et « une photo de vous en situation de travail ». Maud explique que la lettre de la recyclerie parlera des changements du mois. Elle pense y mettre un portrait d’Hélène, parce que les panneaux sont son idée. Elle aimerait aussi dire qu’Hélène a un accompagnement. « Ça raconte comment tu fais », ajoute-t-elle, en cherchant la page où l’on peut écrire une légende.\n\nHélène prend le bordereau. Elle avait envie que les gens sachent qui a dessiné les panneaux. La perspective d’une photo où elle tient une tasse près du visage lui plaît beaucoup moins. Elle essaie de comprendre si elle doit donner les deux réponses ensemble : montrer le travail et parler d’elle. Sofia, qu’elle a choisie pour le point sur la déviation, attend de l’autre côté de la table. Maud se tourne vers elle et lui demande ce qu’elle pense du portrait. Hélène pousse l’imprimé vers le milieu.\n\n« La photo de moi, je ne veux pas. Et mon accompagnement n’est pas dans la légende. Pour les panneaux, je peux vous dire demain. » Elle regarde Sofia : elles étaient venues parler de Tannerie. Sofia demande à Maud de poser le formulaire de côté. Maud le retourne. Au dos, la date d’envoi est imprimée. La lettre ne part que la semaine prochaine. Il reste du temps. Hélène ouvre alors son plan sur la table.",
+      "sections": [
+        {
+          "heading": "Distinguer ce qu’une personne accepte de montrer",
+          "text": "Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie. Hélène veut être reconnue pour ses panneaux. Elle peut préférer qu’une lettre montre le résultat et explique les essais, sans publier sa photo ni évoquer l’accompagnement. Elle peut aussi attendre de voir ce qu’elle installe pour savoir si elle accepte la photo des panneaux. Son refus est une information suffisante pour ne pas préparer le portrait comme prévu.\n\nLa HAS recommande de reconnaître les demandes et les refus de la personne et de lui laisser une prise réelle sur la décision. Lorsque plusieurs propositions arrivent à la fois, on peut les reprendre séparément. L’OMS décrit des profils très variables dans le TDI : demander un délai ou l’appui de quelqu’un à une réunion ne donne pas d’indication générale sur les choix que la personne peut faire."
+        },
+        {
+          "heading": "Revenir au sujet pour lequel l’appui est demandé",
+          "text": "Sofia était venue à la demande d’Hélène pour l’aider à garder le point trajet à l’ordre du jour. Même si Maud lui demande un avis, elle peut d’abord regarder Hélène et lui laisser la parole. Puis elle peut rappeler le sujet convenu. Ce rôle est différent de celui d’une personne chargée de répondre à sa place. La HAS propose de préparer avec la personne la part qu’elle veut prendre aux échanges et le soutien qu’elle y souhaite.\n\nIl faut ensuite obtenir les faits utiles : Tannerie est bien desservi, le chemin à pied part du côté de la médiathèque et la déviation dure encore plusieurs jours. Maud peut demander à Ilyes de confirmer à quelle heure il pourrait retrouver Hélène. Une fois les détails connus, Hélène peut décider si elle veut faire l’essai et avec qui."
+        }
+      ],
+      "ending_title": "La case photo reste vide",
+      "ending": "Maud écrit « pas de portrait » sur son propre exemplaire et remet l’imprimé dans sa chemise. Hélène propose qu’elles regardent la légende après le deuxième essai prévu vendredi après-midi. Pour le trajet, Ilyes peut venir la chercher le vendredi matin à l’arrêt Tannerie, du côté de la médiathèque. Hélène accepte qu’il marche avec elle de là jusqu’à la porte bleue. Elle veut faire la partie en bus à sa façon. Sur le bordereau, elle retrouve le code des petits bols qu’elle comptait ajouter au rayon. Leur caisse est encore au dépôt. Elle demande à Maud de la faire venir vendredi et réserve aux bols le bout d’étagère qu’elle avait mesuré la veille.",
+      "mirror": [
+        "Si l’on vous demande l’avis d’Hélène à sa place, vous pouvez lui laisser la possibilité de répondre : « Hélène, tu veux leur dire ce que tu as décidé ? » Si elle vous a demandé de revenir au trajet, faites-le après sa réponse. Vous pouvez aussi l’aider à séparer les questions si elle le souhaite. Son accord sur un élément ne vous autorise pas à compléter les cases qu’elle a laissées vides."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-autodetermination",
+        "has-tdi-travail"
+      ],
+      "continuity": {
+        "choice": "Hélène refuse la photo d’elle et la mention de son accompagnement ; elle reporte son avis sur une photo du travail et accepte le rendez-vous à Tannerie.",
+        "next": "Vendredi matin, elle rencontrera Ilyes à l’arrêt de la déviation. Le second test des panneaux doit avoir lieu l’après-midi."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "helene-le-parvis-de-tannerie",
+      "title": "Hélène se fait comprendre en trouvant un repère commun",
+      "description": "À Tannerie, Ilyes et Hélène se retrouvent à deux endroits différents. Elle choisit un point de rencontre qu’on peut nommer sans équivoque.",
+      "context": "Entre l’arrêt Tannerie, la médiathèque et l’accueil du dépôt, vendredi matin",
+      "topics": [
+        "Repères visuels",
+        "Prise d’initiative",
+        "Aide à la demande"
+      ],
+      "opening": "Ilyes attend vendredi devant le bâtiment de la médiathèque. Il a dit « du côté de la médiathèque » et, depuis le dépôt, cela lui paraissait suffisant. Sur le parvis, il s’aperçoit que le nom est écrit sur deux façades. Les bus déposent des voyageurs à chaque extrémité. Hélène lui envoie un message : « Je suis près de la boîte où on rend les livres. » Il connaît cette boîte. Elle est fixée à l’extérieur, de l’autre côté du bâtiment. En arrivant, il voit Hélène assise à côté, le plan plié sur les genoux.\n\nElle lui raconte qu’elle a pris le 4 à Marché, comme lors de l’essai avec Dario. À la sortie, elle a retrouvé le nom de la médiathèque mais n’a pas su quelle façade garder comme repère. Elle a fait le tour du bâtiment, puis a choisi un endroit facile à décrire au téléphone. Ilyes lui propose de lui montrer le chemin qu’il prend, entre les places de stationnement. Hélène remarque qu’il regarde déjà dans la direction du dépôt. D’où elle est assise, elle ne voit que des places de livraison et aucune rue qui porte le même nom que sur le plan.\n\n« Pars d’ici comme si tu ne m’avais pas trouvée », lui dit-elle. Ilyes revient près de la boîte. Ils passent par le parvis, prennent le trottoir qui longe la médiathèque et lisent le nom de la rue au coin. La porte bleue apparaît du côté opposé à celui où Hélène l’attendait. Elle rit : « Si je dessine le dépôt à droite sur mes deux plans, ça va être pratique pour me tromper. »",
+      "sections": [
+        {
+          "heading": "Décrire un lieu à partir de ce qu’on voit",
+          "text": "Un rendez-vous devient plus facile à retrouver quand le repère correspond à ce que les deux personnes peuvent voir et nommer. Ilyes pensait avoir donné un côté du bâtiment. Hélène découvre deux façades. En nommant la boîte de retour des livres, elle transforme un repère large en un endroit où Ilyes peut effectivement la rejoindre. Le problème vient en partie de l’information donnée avant le départ ; il ne disparaît pas parce que le trajet en bus s’est bien passé.\n\nL’OMS rappelle que les personnes avec un TDI peuvent continuer à acquérir des compétences et que leurs besoins varient selon le cadre. La HAS propose de travailler, selon les besoins de la personne, sur la manière de décrire où elle se trouve. Dans cette scène, Hélène utilise un repère qu’Ilyes n’avait pas prévu. Ils peuvent le garder pour un autre rendez-vous."
+        },
+        {
+          "heading": "Vérifier que l’appui a bien le périmètre convenu",
+          "text": "Hélène avait demandé une présence à partir de Tannerie. Ilyes peut marcher avec elle jusqu’au dépôt et lui laisser choisir ce qu’elle inscrit sur le plan. Il peut donner le nom exact d’une rue qu’elle veut relire et attendre qu’elle retrouve la porte. Si un trajet est en travaux ou qu’une traversée a changé, ils peuvent vérifier l’information avant d’essayer une autre fois. Un repère vu sur place vaut surtout pour les conditions dans lesquelles il a été reconnu.\n\nAu retour, Hélène peut choisir de refaire à pied la partie repérée, de demander à Ilyes de revenir jusqu’à la boîte ou de reprendre un autre appui prévu avec Maud. Les choix peuvent différer d’un sens du trajet à l’autre. L’objectif est que chacun sache où commence et où finit l’aide prévue."
+        }
+      ],
+      "ending_title": "La boîte a sa propre page",
+      "ending": "Au dépôt, Hélène prend un autre papier et commence son dessin par la boîte à livres. Elle le glisse à part du plan de Verrerie, pour pouvoir changer de feuille sans reprendre les deux trajets à la fois. Elle choisit de revenir jusqu’à la boîte à pied et fixe avec Ilyes un créneau où il pourra répondre si elle l’appelle. À côté de la table de l’accueil, elle reconnaît la caisse des petits bols : le code figure côté mur. Elle demande à Ilyes de tourner l’étiquette vers l’allée avant que la caisse parte pour le magasin. Au rayon, cet après-midi, elle va justement vérifier de quel côté les gens lisent.",
+      "mirror": [
+        "Si vous convenez d’un rendez-vous à un arrêt, demandez à la personne de vous dire quel repère lui paraît utilisable. Ilyes pourrait répondre « La boîte à livres, je vois où c’est. On peut se retrouver là. » S’il a ensuite vingt minutes pour marcher jusqu’au dépôt, qu’il le dise. Il peut accompagner cette partie du trajet et laisser Hélène reprendre ce qu’elle a repéré, avec l’appui qu’elle souhaite au retour."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail",
+        "has-tdi-synthese"
+      ],
+      "continuity": {
+        "choice": "Hélène précise le point de rendez-vous et dessine un plan distinct pour Tannerie. Elle choisit un contact joignable au retour.",
+        "next": "Elle revient à la boutique pour l’essai du vendredi. Pour une prochaine tournée, l’équipe pourra confirmer quel plan utiliser."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "helene-la-fleche-apres-les-plats",
+      "title": "Remettre les questions dans l’ordre pour garder le fil",
+      "description": "Un client suit les nouvelles étiquettes. Depuis l’entrée latérale, une cliente voit seulement le dos du panneau.",
+      "context": "Dans le rayon vaisselle, au deuxième essai du vendredi après-midi",
+      "topics": [
+        "Surcharge d’informations",
+        "Besoin de temps",
+        "Point de vue des autres"
+      ],
+      "opening": "Pour le deuxième essai, Dario voit la flèche depuis sa caisse. Cette fois, elle ne donne pas vers le milieu de la table de plats. Hélène l’a placée après, avec le mot « Vaisselle ». Les petits bols ont été livrés le matin. Hélène a placé deux étiquettes, une sur leur étagère, l’autre sur celle des tasses. La tasse au trait s’incline comme la tasse bleue sans lui ressembler ; le bol est un demi-cercle barré d’un trait pour le bord. Elle a marqué les mots sous les dessins. Dario lui avait dit qu’il préférait la photo. Il reconnaît depuis sa caisse qu’il lit le dessin plus vite qu’il ne l’aurait cru.\n\nUn homme passe les plats et prend une tasse sans demander. Hélène attend qu’il en ait fini de comparer les anses avant de lui poser une question. Il dit avoir vu d’abord le mot. Puis une cliente s’arrête devant la caisse : elle cherche les bols. Dario est à deux doigts de tendre le bras, mais Hélène vient déjà vers eux. La cliente est arrivée par la porte latérale ; de là, elle a les étagères devant elle et le dos du panneau dans son champ de vision. Elle montre le carton nu. Dario n’avait pas pensé qu’on pouvait arriver dans le rayon par ce côté un vendredi.\n\nMaud passe et demande si le dessin a gagné. Les questions repartent aussitôt : est-ce que le mot était trop petit, qui a vu la flèche, est-ce qu’il faut commander le support ? Hélène lève la main. Elle propose d’abord d’aller voir ce que la cliente a vu. Puis elle veut choisir entre une inscription au dos et un panneau sur l’autre montant. Elle demande à Maud de garder la commande en attente.",
+      "sections": [
+        {
+          "heading": "Regarder ce qui a changé entre deux essais",
+          "text": "Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre. Hélène a changé à la fois le dessin, les mots et l’emplacement. Le client qui lit « Tasses » donne une indication sur ce qui lui a servi. La cliente qui voit le dos du carton indique une limite de l’installation. Ces retours aident à choisir la prochaine modification. Ils ne permettent pas d’attribuer à l’image, à elle seule, les progrès observés.\n\nLa HAS recommande de tenir compte des propositions de la personne et de l’environnement réel de travail. L’OMS distingue différents domaines de fonctionnement dans le TDI. Dans cette situation, suivre plusieurs questions qui arrivent en même temps demande à Hélène un effort qu’elle peut limiter en remettant les étapes dans l’ordre. En revanche, comparer ce que les clients voient depuis deux entrées relève d’un savoir qu’elle construit sur le rayon."
+        },
+        {
+          "heading": "Faire une modification qu’on pourra encore déplacer",
+          "text": "Pour essayer l’autre sens, Hélène peut mettre une indication provisoire à l’entrée latérale, puis regarder depuis le seuil. Si elle la colle au dos du premier panneau, la flèche doit avoir un sens depuis cet endroit aussi. Un support séparé pourra être déplacé si la table d’entrée change. Maud peut préciser ce que le magasin a en stock, sans décider de la forme avant que les deux emplacements aient été regardés.\n\nLes observations de Dario ont un rôle précis : ce qu’il voit et ce qu’on lui demande depuis sa caisse. C’est à Hélène de les croiser avec ses notes. Elle peut remettre la question du dessin à plus tard si, pour l’instant, le point qui compte est l’accès par la porte latérale."
+        }
+      ],
+      "ending_title": "Une seconde entrée sur le croquis",
+      "ending": "Hélène et Maud repartent de la porte latérale. Le panneau est trop loin pour lire un texte au dos. Hélène place un carton de réserve sur le montant le plus proche, le temps de vérifier que la flèche reste visible quand une personne s’arrête devant. Elle veut garder les deux mots sur les étagères et mettre un deuxième panneau à cet endroit. Maud croit qu’il ne reste qu’un seul support neuf. Hélène lui demande de vérifier avant samedi midi ; elle apportera son croquis et verra ce qu’elles peuvent faire avec le matériel disponible. Elles conviennent de reprendre aussi la légende de la lettre à ce moment-là.",
+      "mirror": [
+        "Dario peut dire « De la caisse, j’ai vu un client trouver les tasses. La cliente qui entrait par le côté ne voyait que le dos du panneau. » Il peut aussi demander « Tu veux mes deux retours ensemble ou on commence par l’entrée latérale ? » Si on l’appelle pour encaisser, il peut laisser ses observations sur un papier. Hélène garde les décisions de conception et Maud confirme les moyens."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail",
+        "has-tdi-synthese"
+      ],
+      "continuity": {
+        "choice": "Hélène conserve les étiquettes de la seconde version, propose un guidage propre à l’entrée latérale et fait suspendre la commande.",
+        "next": "Maud vérifiera les supports disponibles. Samedi, Hélène viendra avec son croquis pour décider de l’installation et du crédit de la lettre."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "helene-qui-deplace-la-fleche",
+      "title": "Savoir à quoi on s’engage avant de dire oui au travail",
+      "description": "Pour installer ses panneaux aux deux entrées, Hélène négocie les supports et demande qui gardera les indications à jour.",
+      "context": "Dans la réserve de la boutique, le samedi, avant l’installation",
+      "topics": [
+        "Limites au travail",
+        "Partage des responsabilités",
+        "Reconnaissance de sa contribution"
+      ],
+      "opening": "Il ne reste qu’un porte-affiche neuf. Maud le sort de sa boîte comme si le fond pouvait en cacher un deuxième. Hélène tient son croquis à côté : un panneau après les plats, l’autre au montant de l’entrée latérale. Maud propose d’imprimer une grande affiche qui se verrait des deux côtés, au milieu de l’allée. Hélène demande à Maud de tenir le cadre vide à l’endroit indiqué. Elle regarde depuis la porte latérale, puis elles échangent leurs places. Une personne avec un panier s’arrête devant le cadre et doit passer de côté. Hélène le ramène contre le mur.\n\nDans la réserve, Hélène trouve le support d’une ancienne affiche « Cadres et miroirs ». Il manque une vis à son pied, mais la pochette se détache. Le panneau d’essai de l’allée centrale tient déjà sur un rail ; la vieille pochette pourrait lui servir de protection. Hélène propose de garder le support neuf pour le montant latéral. Maud accepte l’idée de réutiliser la pochette si elle est encore lisible et demande : « Tu pourras tout refaire quand on sortira la table de Noël ? » Hélène s’efforce de comprendre si Maud lui demande de refaire ses dessins ou de déplacer les flèches. Elle a prévu autre chose pour la fin de journée ; elle ne veut pas dire oui à une tâche sans début ni fin.\n\nElle fait glisser le croquis entre elles. « On décide d’abord où les mettre aujourd’hui. Pour Noël, qui décide de la place de la table ? » Maud répond que ce sera Dario avec elle. Hélène leur propose de regarder depuis chaque entrée quand ils déplaceront le meuble, comme elles viennent de le faire.",
+      "sections": [
+        {
+          "heading": "Attribuer une tâche à partir de ce qu’elle demande",
+          "text": "Un aménagement au travail dure mieux quand son entretien est prévu dès le départ. Les panneaux d’Hélène peuvent aider des clients aussi longtemps qu’ils restent visibles et que la flèche correspond au rayon. Leur efficacité dépend des décisions de l’équipe sur les tables et les présentoirs. Si Maud et Dario déplacent les meubles, ils peuvent vérifier en même temps les indications. Hélène pourra donner un avis sur un dessin ou sur un nouvel emplacement si un temps de travail est prévu.\n\nLa HAS propose de réfléchir à l’environnement de travail avec la personne et le collectif. Cela permet d’identifier ce qui relève de l’organisation et les appuis que la personne souhaite. L’OMS rappelle que les habiletés pratiques s’exercent dans des cadres précis. Une demande vague de refaire l’ensemble n’est pas équivalente à une question sur le sens d’une flèche. Hélène peut répondre à l’une sans avoir accepté l’autre."
+        },
+        {
+          "heading": "Nommer la contribution et convenir de sa diffusion",
+          "text": "Maud peut reprendre la proposition pour la lettre une fois la question des supports résolue. Hélène avait refusé le portrait et la mention de son accompagnement ; elle peut encore choisir d’accepter ou non la photo des panneaux. Lui montrer une légende concrète évite de lui faire approuver une intention qu’elle ne peut pas vérifier. La HAS invite à partir des préférences exprimées et à laisser de la place à leur révision.\n\nSi Hélène accepte une photo des panneaux et son prénom pour cette lettre, l’accord porte sur cette proposition. L’équipe peut aussi rappeler ce que Dario et les clients ont apporté au test sans brouiller l’origine du projet. La reconnaissance est une décision de travail ; elle ne demande pas qu’Hélène raconte ce qui relève de son suivi."
+        }
+      ],
+      "ending_title": "La pochette sort de la réserve",
+      "ending": "La vieille pochette n’a qu’une marque dans un coin, loin du texte. Hélène la pose avec le support neuf sur le comptoir pour l’installation de l’après-midi. Maud note sur le croquis que les personnes qui déplacent les meubles vérifieront les flèches. Elle montre aussi la légende à Hélène : « Panneaux conçus par Hélène, du rayon vaisselle, et essayés avec les clients. » Hélène accepte cette phrase et une photo des panneaux installés pour la lettre du mois. Elle demande à voir le cadrage avant l’envoi. Maud laisse la case du portrait barrée.",
+      "mirror": [
+        "Si on vous demande de soutenir Hélène dans une discussion de travail, vous pouvez lui proposer de séparer les questions : « Tu veux qu’on commence par l’emplacement ou par la suite quand le rayon bougera ? » Maud peut inscrire le nom de la personne qui vérifiera les flèches. Pour la lettre, montrez la phrase et le cadrage prévus et laissez Hélène donner sa réponse. Son premier refus reste valable."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail",
+        "has-tdi-autodetermination"
+      ],
+      "continuity": {
+        "choice": "Hélène répartit les deux supports, propose une règle commune pour les changements de tables et accepte une légende et une photo limitée aux panneaux.",
+        "next": "L’installation est prévue l’après-midi. Maud doit lui montrer le cadrage avant l’envoi de la lettre."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "helene-au-bout-de-la-fleche",
+      "title": "Plus d’autonomie au travail avec des appuis qu’on peut ajuster",
+      "description": "Les panneaux sont en place. Hélène décide ce qui mérite encore un essai et choisit un appui pour sa prochaine visite au dépôt.",
+      "context": "À la boutique le samedi après-midi, puis dans la cour au dîner",
+      "topics": [
+        "Autonomie au quotidien",
+        "Soutien ajusté",
+        "Confiance dans ses décisions"
+      ],
+      "opening": "Depuis la porte latérale, Hélène voit le bord blanc du panneau avant de lire le mot « Vaisselle ». Elle recule jusqu’au seuil et attend qu’une cliente avec un panier passe devant elle. Une fois la cliente plus loin, la flèche réapparaît. Sur les étagères, le dessin des bols est à la hauteur prévue et le dessin de la tasse est exactement au-dessus des vraies. Hélène s’est trompée en posant la première étiquette : elle était au-dessus des soucoupes. Il a suffi de la faire coulisser. Elle a gardé le rail parce qu’elle se méfie des choses qu’il faut décoller à l’ongle.\n\nLa cliente suit la flèche. Elle prend une tasse, revient jusqu’au montant et demande si les sous-tasses sont vendues avec. Hélène lui montre la petite pastille sous la tasse où elle a écrit « avec soucoupe ». Puis elle demande où la cliente a vu le panneau. « En entrant. Celui-là. » Elle montre celui du montant. Dario prend un moment pour regarder la nouvelle allée en venant de sa caisse. De chez lui, l’étiquette des bols a l’air de dire « Bois ». Hélène recule encore et plisse les yeux : la vis sombre du rail fait un point au-dessus du l. Elle peut déplacer l’étiquette ; elle ne va pas changer la police de tous les panneaux aujourd’hui.\n\nMaud arrive avec la photo pour la lettre et le planning du mardi. Hélène fait d’abord glisser l’étiquette des bols de quelques centimètres. Puis elle regarde la photo : une silhouette se reflète dans la pochette. Elle demande à Maud de reprendre la photo un pas sur le côté. Pour le planning, elle veut savoir si les travaux sont toujours en cours.",
+      "sections": [
+        {
+          "heading": "Garder le choix du soutien après l’essai",
+          "text": "Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie. Hélène a désormais deux plans pour rejoindre le dépôt. Elle a fait le détour depuis Tannerie et peut choisir l’aide qu’elle souhaite si la déviation continue. Cela n’empêche pas de revenir au trajet de Verrerie quand l’arrêt rouvrira.\n\nLa HAS conseille d’ajuster les appuis avec la personne et de vérifier les renseignements qui lui permettent de se projeter. Le planning ne lui dit rien sur les travaux. Maud peut lui confirmer quelle ligne du plan correspond au mardi et lui demander si le contact prévu est encore disponible. Hélène peut choisir d’appeler avant de monter ou de convenir d’un rendez-vous à la boîte à livres."
+        },
+        {
+          "heading": "Faire le point sur le rayon sans transformer le bilan en examen",
+          "text": "Hélène a tenu son projet : elle a conçu des panneaux, demandé aux clients comment ils s’en servaient, modifié leur emplacement et fait installer les deux indications. Le rayon changera de nouveau quand les objets se vendront ou quand un meuble bougera. Les petites corrections appartiennent à la vie du magasin. Elles ne disent rien à elles seules de la valeur du travail ni de ce que la personne qui l’a fait peut réussir ailleurs.\n\nMaud peut garder une trace des emplacements choisis et du moment où l’équipe regardera si les panneaux conviennent encore. Hélène pourra dire si elle veut participer à une prochaine modification, comme elle a pu arrêter le premier essai. Le projet lui donne une place dans les décisions sur son rayon, avec les collègues qui travaillent autour."
+        }
+      ],
+      "ending_title": "La chaise en rotin trouve preneuse",
+      "ending": "Maud reprend la photo de biais. Hélène la regarde : on y voit les panneaux et le rayon. Elle valide ce cadrage. Pour mardi, les travaux sont confirmés. Elle demande qu’Ilyes lui envoie, avant son départ, un message qui dit s’il sera joignable pendant le bout à pied. S’il ne peut pas, elle et Maud fixeront un autre appui avant le rendez-vous.\n\nLe soir, dans la cour, une amie choisit la chaise en rotin parce que c’est la seule où elle peut étendre les jambes sous la table. Hélène a laissé le carton de la tarte fermé jusqu’à ce que tout le monde soit assis. Quand elle l’ouvre, le dessus est fendu au milieu. Léa lui tend le couteau. Hélène lui passe d’abord la pelle à tarte : elle s’est gardé la part avec le plus de croûte, Léa peut choisir la sienne.",
+      "mirror": [
+        "Quand un projet se termine, vous pouvez demander ce que la personne veut faire ensuite. Léa peut dire « Tu veux me raconter comment les gens s’en servent, ou je te sers une part ? » Si Hélène préfère la tarte, Léa peut la lui servir et laisser le travail de côté. À la recyclerie, Dario et Maud peuvent continuer à confirmer les changements avec Hélène sans lui demander de refaire la démonstration d’un trajet qu’elle a déjà essayé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tdi-travail",
+        "has-tdi-autodetermination"
+      ],
+      "continuity": {
+        "choice": "Hélène installe et vérifie ses panneaux, approuve le cadrage de la lettre et choisit un contact ponctuel pour le prochain trajet dévié.",
+        "next": "Les panneaux restent au rayon et l’équipe a une règle pour les mettre à jour. Hélène gardera la possibilité de choisir un autre appui si la tournée ou le trajet change."
+      }
+    }
+  ]
+}

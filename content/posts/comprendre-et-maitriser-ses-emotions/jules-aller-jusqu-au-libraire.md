@@ -1,5 +1,5 @@
 ---
-title: À hauteur des livres
+title: Jules appréhende l’entrée du marché et choisit où s’arrêter
 description: Jules et la psychiatre font un essai accompagné près du marché. Il garde
   le choix de s’arrêter et peut raconter ce qu’il a remarqué.
 slug: jules-aller-jusqu-au-libraire
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Près du marché couvert, lors d’un essai convenu dans le suivi
 tags:
 - Attaques de panique
-- Accompagnement professionnel
-- Droit de s’arrêter
-- Anticipation
+- Anxiété d’anticipation
+- Choix du rythme
+- Essai accompagné
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

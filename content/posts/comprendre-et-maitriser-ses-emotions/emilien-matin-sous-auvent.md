@@ -1,5 +1,5 @@
 ---
-title: Un matin sous l’auvent
+title: Douter de ses signes d’alerte en pleine reprise du travail
 description: Un changement de programme lui rappelle une période difficile. Émilien
   demande un avis et redéfinit sa part de l’écoute au marché.
 slug: emilien-matin-sous-auvent
@@ -11,9 +11,9 @@ contexte: reprendre son plan face à des signes ambigus sans supposer que toute 
   est un nouvel épisode
 tags:
 - Bipolarité type I
-- Évolution non linéaire
-- Incertitude
-- Suivi des signaux
+- Incertitude face aux signes
+- Demande d’avis
+- Autonomie au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

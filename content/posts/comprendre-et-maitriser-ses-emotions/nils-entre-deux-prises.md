@@ -1,5 +1,5 @@
 ---
-title: Nils pose le casque entre deux prises
+title: Quand Nils entend son prénom sans savoir d’où il vient
 description: Pendant l’essai, Nils croit entendre son prénom. Il arrête la prise et
   convient avec Maud d’un geste qui lui laisse le choix de reprendre.
 slug: nils-entre-deux-prises
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le mardi suivant, au studio de la radio du quartier
 tags:
 - Schizophrénie
-- Perception inhabituelle
-- Pause
-- Confidentialité
+- Doutes sur ses perceptions
+- Attention et bruit
+- Demander une pause
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

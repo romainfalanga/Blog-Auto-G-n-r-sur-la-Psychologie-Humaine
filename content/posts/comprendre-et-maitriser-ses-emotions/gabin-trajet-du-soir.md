@@ -1,5 +1,5 @@
 ---
-title: Le trajet du soir
+title: Repérer ce qui ravive l’envie de jouer après le service
 description: Gabin décrit au service les moments où l’envie revient et construit avec
   l’équipe un plan adapté à ses fins de service.
 slug: gabin-trajet-du-soir
@@ -12,9 +12,9 @@ contexte: mettre en mots des circonstances vulnérables et choisir une réponse 
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Situations à risque
-- Plan de soutien
-- Fins de service
+- Envie de rejouer
+- Inquiétude pour les dépenses
+- Demande de soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

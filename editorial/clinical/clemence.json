@@ -1,17 +1,24 @@
 {
   "character_id": "clemence",
-  "bio": "Clémence, vingt-trois ans, étudie l’histoire de l’art et tient les fiches d’un ciné-club. Elle aime les films qui laissent à la salle le temps de regarder et veut partager la programmation d’une soirée avec son amie Baya. Elle prépare ce projet avec la référente du club et poursuit auprès d’une équipe spécialisée un suivi pour une anorexie mentale déjà diagnostiquée.",
+  "bio": "Clémence, 23 ans, étudie l’histoire de l’art et tient les fiches de son ciné-club. Elle aime les films qui laissent le temps de regarder et remarque les gestes au bord de l’image. Elle voudrait programmer une soirée avec son amie Baya, dont les goûts la surprennent et l’amènent à revoir ce qu’elle avait prévu. Certains repas de groupe et les remarques sur l’apparence l’occupent longtemps après coup. Au club, elle cherche à partager les décisions, à dire ce qui lui est difficile et à prendre part à la soirée.",
+  "profile_topics": [
+    "Inquiétudes autour des repas",
+    "Inquiétude face aux imprévus",
+    "Partage des décisions",
+    "Soutien entre amies",
+    "Préservation de son intimité"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "clemence-case-douverture",
-      "title": "La case d’ouverture",
+      "title": "Partager les décisions au ciné-club : Clémence invite Baya",
       "description": "Clémence choisit une piste pour la soirée du ciné-club. Elle propose à Baya de choisir le film qui lui répondra.",
       "context": "préparer une programmation au ciné-club tout en poursuivant un suivi spécialisé déjà en place",
       "topics": [
-        "Anorexie mentale",
-        "Suivi spécialisé",
-        "Vie étudiante"
+        "Inquiétudes autour des repas",
+        "Partage des décisions",
+        "Suivi spécialisé"
       ],
       "opening": "Clémence pose une fiche sur l’autre et soulève les deux contre la fenêtre. Les lignes du tableau se superposent presque. Sur la première, elle a noté le moment où une femme s’arrête dans l’embrasure d’une porte. Sur la seconde, elle a écrit « on ne voit pas à qui elle parle ». C’est ce passage qu’elle aimerait présenter au ciné-club. Elle tient les fiches depuis le début de ses études en histoire de l’art. Elle y fait figurer les informations dont l’équipe aura besoin pour projeter les films et les questions qu’elle voudrait entendre dans la salle.\n\nLa référente du club a réservé une soirée. Elle voudrait que le programme soit discuté avec quelqu’un d’autre, y compris la place de l’accueil et de la discussion après les films. Clémence regarde la case qu’elle a laissée vide en bas de la page. Elle avait gardé cette place pour une référence qu’elle n’a pas encore retrouvée. Elle pourrait aussi y mettre le nom de la personne qui choisirait la fin de la soirée. Elle pense aussitôt à Baya, qui lui avait parlé d’une comédie où le moment le plus drôle se passe à l’arrière-plan.\n\nDans son carnet, le rendez-vous avec l’équipe spécialisée est déjà inscrit à côté du créneau du club. Clémence est suivie pour une anorexie mentale diagnostiquée avant cette préparation. La semaine dernière, elle a parlé au service d’un moment collectif qui l’avait occupée longtemps après être rentrée. Elle aimerait reprendre la question au rendez-vous. Elle aimerait également pouvoir inviter Baya à parler d’autre chose. Elle remet la fiche devant la fenêtre et essaie de lire à quoi elle tient dans ce premier film.",
       "sections": [
@@ -41,13 +48,13 @@
     {
       "number": 2,
       "slug": "clemence-horaire-dans-le-fil",
-      "title": "L’horaire dans le fil",
+      "title": "Quand un changement d’horaire ravive la crainte d’un repas de groupe",
       "description": "L’horaire de préparation change. Clémence précise ce dont elle a besoin pour organiser la soirée et ce qu’elle veut aborder en consultation.",
       "context": "nommer ce qu’un changement dans la soirée rend difficile sans confier le soin au ciné-club",
       "topics": [
-        "Moments collectifs",
-        "Changement de programme",
-        "Demande d’aménagement"
+        "Inquiétude face à l’imprévu",
+        "Crainte des commentaires pendant un repas",
+        "Demande de repères au groupe"
       ],
       "opening": "L’heure a changé dans le fil du ciné-club, mais le fichier que Clémence a imprimé affiche encore l’ancienne. Elle compare l’affiche et le message de la référente sur le rebord de la fenêtre de la bibliothèque. Le projectionniste doit partir plus tôt et l’équipe dispose d’un autre créneau pour préparer la salle. Quelqu’un a écrit qu’ils pourraient aussi se retrouver dans le foyer avant d’ouvrir les portes. Clémence se rend compte qu’elle a relu cette phrase sans arriver à dire s’il s’agit d’une proposition ou d’un rendez-vous.\n\nElle était venue travailler sur un détail de la fiche du film. Dans le plan de l’embrasure, on aperçoit le reflet d’un rideau dans le carreau du fond. Elle voudrait savoir si cette image figure déjà dans un catalogue qu’elle a consulté pour un cours. Son carnet est ouvert au bon endroit. Pourtant, depuis qu’elle a vu l’horaire, elle passe de l’affiche à son téléphone. Elle pense au repas après une séance, qu’elle a raconté à son équipe. Elle avait redouté les commentaires sur ce que chacun mangeait. Même quand les autres s’étaient remis à parler du film, elle n’arrivait plus à suivre. En lisant le message sur le foyer, elle se demande si la soirée prévoit un autre repas en groupe.\n\nBaya arrive avec son propre carnet. Elle lui montre le titre d’une comédie et demande si elles ont encore le temps de voir un passage. Clémence répond d’abord qu’il faudrait reprendre l’organisation. Elle s’entend expliquer tout le programme à quelqu’un qui lui pose une question sur un film. Elle pourrait lui dire ce qu’elle attend de la référente. Elle pourrait aussi demander quelle partie du changement Baya a comprise.",
       "sections": [
@@ -77,13 +84,13 @@
     {
       "number": 3,
       "slug": "clemence-noms-sur-le-carnet",
-      "title": "Les noms sur le carnet",
+      "title": "Demander de l’aide en consultation et se confier à son rythme",
       "description": "Clémence demande qui contacter entre ses rendez-vous et quelles informations sont utiles aux professionnels qui la suivent.",
       "context": "clarifier le suivi pluridisciplinaire et choisir ce que Clémence souhaite partager avec son amie",
       "topics": [
-        "Coordination des soins",
-        "Santé physique et psychique",
-        "Confidentialité"
+        "Confidences choisies",
+        "Appui ponctuel d’une amie",
+        "Coordination des soins"
       ],
       "opening": "Dans la salle d’attente, le carnet de Clémence reste ouvert sur la page du ciné-club. Une invitation d’un musée dépasse du milieu. Elle l’a glissée là parce que le dos est blanc et qu’elle peut y écrire. Au dernier rendez-vous, elle a noté le nom de la personne avec qui elle devait reprendre une question sur ses études. Au téléphone, un autre nom lui a été donné pour une question sur sa santé. Elle s’aperçoit que les deux indications se trouvent dans des pages différentes. Quand on vient la chercher, elle prend l’invitation avec le carnet.\n\nLa personne qui la reçoit connaît la date du prochain point médical. Clémence sait qu’elle voudrait lui parler des moments où son attention reste prise après une rencontre. Elle lui raconte la scène de la bibliothèque, le carnet ouvert et le passage qu’elle n’arrivait plus à regarder. Puis elle demande à qui elle peut écrire si une inquiétude concerne plutôt sa santé physique. Elle voudrait pouvoir poser la question sans commencer par décider elle-même quel professionnel doit la traiter.\n\nBaya est restée dehors parce qu’elles doivent se retrouver après. Elle lui avait demandé si elle souhaitait qu’elle l’accompagne jusque dans la salle. Clémence a préféré venir seule. À présent, elle pense à une chose qu’elle pourrait lui demander la prochaine fois. Elles pourraient se retrouver à l’entrée pour marcher ensuite vers la bibliothèque. Dans le carnet, il lui reste surtout à trouver où écrire le nom de la personne qui pourra répondre entre les rendez-vous.",
       "sections": [
@@ -113,13 +120,13 @@
     {
       "number": 4,
       "slug": "clemence-fiche-pour-baya",
-      "title": "La fiche pour Baya",
+      "title": "Faire de la place à un goût différent au ciné-club",
       "description": "Baya propose une comédie pour la fin de la soirée. Clémence lui laisse une vraie décision à prendre avec la référente du club.",
       "context": "partager la programmation en précisant les responsabilités et la liberté de chacune",
       "topics": [
-        "Programmation partagée",
-        "Vie sociale",
-        "Décisions choisies"
+        "Différences de goûts",
+        "Liberté de décider",
+        "Responsabilités partagées"
       ],
       "opening": "Baya a laissé la fiche du film presque vide. Elle a écrit le titre, le nom de la réalisatrice et « l’arrêt de bus » sous la rubrique que Clémence a appelée mise en scène. Clémence voit tout de suite qu’il manque la référence de la copie. Elle remarque aussi que Baya a dessiné une flèche entre le banc et un poteau qui apparaît derrière. Elle lui demande ce que la flèche représente. Baya lui dit que c’est là que les deux personnages croient se croiser, avant qu’on comprenne qu’elles attendent des bus différents.\n\nClémence s’attendait à ce que le film réponde au premier par un cadre fixe ou un silence. Baya propose de prendre le contre-pied avec des gens qui parlent à côté les uns des autres. Elle voudrait écrire elle-même les quelques mots d’introduction. Clémence avait commencé à lui préparer un paragraphe. Il se trouve déjà sur son téléphone, sous une version de la fiche qu’elle n’a pas envoyée. Elle ne sait plus très bien si elle demande à Baya de choisir ou seulement de donner un autre nom à ce qu’elle a prévu.\n\nLa référente veut vérifier si le club peut obtenir la copie. Baya se dit prête à lui écrire. Clémence pourrait lui donner la référence qu’il faut retrouver et la laisser décider de la présentation. Elle fait glisser vers Baya la fiche qu’elle vient de relire. Le coin de la feuille tombe sur la flèche. Baya la remet à plat et lui demande si le titre tient toujours à la fin.",
       "sections": [
@@ -149,13 +156,13 @@
     {
       "number": 5,
       "slug": "clemence-affiche-retournee",
-      "title": "L’affiche retournée",
+      "title": "Remarque sur l’apparence : Clémence demande l’appui de Baya",
       "description": "Une remarque dans le foyer gêne Clémence. Elle dit à Baya de quel appui elle aurait envie si la conversation revient sur son apparence.",
       "context": "choisir une réponse à une remarque personnelle et garder la main sur les informations partagées au ciné-club",
       "topics": [
-        "Commentaires sur l’apparence",
-        "Confidentialité",
-        "Soutien à la demande"
+        "Gêne face au regard des autres",
+        "Limites dans une conversation",
+        "Aide convenue entre amies"
       ],
       "opening": "Le reflet de la porte empêche Clémence de lire le bas de l’affiche. Elle l’enlève du cadre pour montrer à la référente l’endroit où la mention de l’accueil a changé. Baya tient encore le coin supérieur quand des personnes entrent dans le foyer après la séance de la semaine. Une membre du groupe salue Clémence, puis fait une remarque sur son apparence devant les autres. La phrase est terminée avant que Clémence sache si elle veut lui répondre. Elle retourne l’affiche sur le comptoir pour ne pas avoir à la tenir en l’air.\n\nQuelqu’un demande à quelle heure le foyer ouvrira pour leur soirée. Clémence a la réponse sous les yeux. Elle demande pourtant à Baya de la répéter. Quand elles sont seules près du cadre, Baya lui demande si elle souhaite reparler de ce qui vient d’arriver. Clémence a surtout envie que la remarque ne circule pas plus loin. Elle s’était préparée à expliquer le choix des films et la différence entre l’heure de la projection et celle de l’accueil. Pour répondre à cette phrase, elle n’avait rien prévu.\n\nBaya cherche de nouveau le haut de l’affiche. Clémence lui dit qu’elle voudrait que le groupe parle du programme quand elles se retrouvent au foyer. Elle ne sait pas encore si elle veut elle-même reprendre la remarque avec la personne. Elle aimerait pouvoir dire à Baya quel geste l’aiderait si une conversation pareille revenait. Pour l’instant, les deux attaches du cadre sont restées ouvertes.",
       "sections": [
@@ -185,13 +192,13 @@
     {
       "number": 6,
       "slug": "clemence-page-du-cours",
-      "title": "La page du cours",
+      "title": "Fatigue en cours : Clémence demande de l’aide",
       "description": "Clémence remarque une fatigue inhabituelle en cours. Elle la signale à l’équipe spécialisée et cherche comment suivre la prochaine séance.",
       "context": "décrire un changement physique préoccupant et adapter une obligation étudiante avec les personnes concernées",
       "topics": [
-        "Santé physique",
-        "Contact avec l’équipe",
-        "Études"
+        "Demande d’aide",
+        "Confidentialité à l’université",
+        "Fatigue inhabituelle"
       ],
       "opening": "La dernière image du cours est encore sur le mur quand Clémence s’aperçoit qu’elle a laissé son crayon sur la page précédente. Elle voulait noter la couleur du rideau dont parlait l’enseignante. Elle retrouve le mot sur la feuille de sa voisine, mais ne sait plus à quel tableau il se rapporte. En ouvrant son carnet, elle remarque l’invitation du musée où elle a noté le contact du service. Elle la laisse dépasser de la page.\n\nDepuis quelque temps, Clémence se fatigue plus vite dans des trajets qu’elle connaît. Ce matin, elle a interrompu sa marche jusqu’à l’amphithéâtre et s’est arrêtée sur le palier. Elle avait prévu de parler au prochain rendez-vous de la remarque au foyer. Elle hésite à appeler avant pour dire qu’un trajet habituel lui coûte davantage. Elle voudrait savoir s’ils ont besoin de la voir et ce qu’elle doit leur expliquer. Elle n’a pas de mot plus précis que celui qu’elle vient d’écrire, « fatigue ».\n\nÀ la sortie, une étudiante lui demande si elle veut rester pour regarder les images du catalogue. Clémence avait attendu ce moment toute la semaine. Elle demande si le document sera disponible pour qu’elles le regardent ensemble un autre jour. L’étudiante vérifie et lui dit qu’elles peuvent réserver un créneau. Clémence note le nom du catalogue avant de retrouver le contact sur l’invitation. Elle choisit de régler les deux questions séparément.",
       "sections": [
@@ -221,13 +228,13 @@
     {
       "number": 7,
       "slug": "clemence-fauteuils-du-foyer",
-      "title": "Les fauteuils du foyer",
+      "title": "Hésiter à rejoindre le groupe après un film : l’appui de Baya",
       "description": "Après une séance, Clémence demande à Baya un coup de main pour rejoindre une conversation sur le film.",
       "context": "choisir une aide ponctuelle pour participer à un moment collectif au ciné-club",
       "topics": [
-        "Participation sociale",
-        "Soutien choisi",
-        "Amitié"
+        "Difficulté à rejoindre un groupe",
+        "Appui ponctuel d’une amie",
+        "Liberté de participer à son rythme"
       ],
       "opening": "Dans le foyer, les fauteuils ont été poussés vers la fenêtre. Clémence s’attendait à les retrouver près des affiches, où l’on entend moins les gens sortir de la salle. La séance de ce soir a attiré des personnes qu’elle connaît surtout de vue. Elles restent après la projection pour discuter. Un groupe a commencé à parler du film près de la table du foyer. Clémence croit reconnaître l’étudiante qui lui avait parlé d’un plan tourné dans une gare, mais elle ne sait pas comment la rejoindre.\n\nElle a parlé de la fatigue au service et garde les rendez-vous convenus avec l’équipe. Elle est aussi revenue sur ce qui la préoccupait lors d’un repas du club. Certains soirs, ces inquiétudes lui laissent moins de place pour répondre à quelqu’un ou suivre une discussion. Elle avait envie de venir aujourd’hui. Elle aimerait écouter ce qui s’est dit du dernier plan, où la gare se vide avant que le générique commence.\n\nBaya finit de rapporter une affiche à la référente. En revenant, elle dit qu’elle doit partir après avoir rendu un livre. Clémence avait imaginé qu’elles resteraient ensemble dans le foyer. Elle regarde le groupe et se demande si elle veut demander à Baya de l’accompagner jusqu’à lui. Elle pourrait simplement lui dire le nom de l’étudiante qu’elle cherche et lui demander de commencer la conversation, puis laisser Baya partir.",
       "sections": [
@@ -257,13 +264,13 @@
     {
       "number": 8,
       "slug": "clemence-titre-efface",
-      "title": "Le titre effacé",
+      "title": "Face à un imprévu au ciné-club, Clémence veut décider vite",
       "description": "La copie choisie par Baya devient indisponible. Clémence et elle décident ensemble ce qu’elles gardent de leur accord.",
       "context": "revoir une décision commune après un imprévu et séparer la programmation des questions de santé",
       "topics": [
-        "Imprévu",
-        "Participation au ciné-club",
-        "Choix en commun"
+        "Besoin de certitude face à l’imprévu",
+        "Écoute d’une autre proposition",
+        "Révision d’un accord commun"
       ],
       "opening": "Le titre de la comédie a disparu du fichier. À la place, Baya a écrit « copie indisponible » et laissé la ligne ouverte. Clémence a déjà imprimé un programme pour vérifier la taille des lettres. Elle le pose sur le clavier et regarde le nom qu’on vient d’enlever. Elle se rappelle la flèche de Baya vers le poteau et la question qu’elle voulait poser sur la fin. Elle s’était habituée à attendre ce passage. Dans la liste des films que le club peut projeter, Clémence en connaît un qu’elle pourrait inscrire tout de suite.\n\nBaya l’appelle en sortant du travail. Elle demande si elles peuvent regarder un autre court métrage avant de décider. Elle a trouvé une scène qui se passe devant un rideau de magasin. Clémence dit qu’elle avait une proposition de secours. Elle s’entend la présenter comme si elle venait d’être approuvée, puis demande à Baya ce qu’elle voulait lui montrer. Au même moment, la référente écrit qu’il leur reste un autre soir pour confirmer le programme.\n\nLa semaine précédente, Clémence avait réussi à laisser Baya choisir ce qui répondrait au film d’ouverture. Aujourd’hui, elle voudrait remplacer elle-même le titre et fermer le fichier. Elle n’a pas encore envie de voir le plan du rideau. Elle peut toutefois distinguer le délai réel, que la référente vient de lui donner, et le moment où elle voudrait être certaine de ce qu’elles feront. Elle relit l’heure de fermeture de la bibliothèque et propose à Baya de s’y retrouver.",
       "sections": [
@@ -293,13 +300,13 @@
     {
       "number": 9,
       "slug": "clemence-boitier-au-sol",
-      "title": "Le boîtier au sol",
+      "title": "Malaise au ciné-club : Baya appelle les secours et reste présente",
       "description": "Clémence fait un malaise au ciné-club. Baya appelle les secours et la référente prend en charge l’organisation de la salle.",
       "context": "demander un relais médical immédiat face à un malaise soudain au ciné-club",
       "topics": [
-        "Malaise",
-        "Évaluation urgente",
-        "Relais des secours"
+        "Présence auprès d’une amie en difficulté",
+        "Respect de la vie privée",
+        "Évaluation urgente d’un malaise"
       ],
       "opening": "Le boîtier tombe devant la porte. Baya croit d’abord que Clémence a voulu poser la copie sur la petite table où elles la laissent d’habitude. La table a été repoussée pour dégager l’entrée. Clémence appuie l’épaule contre le mur et cesse de répondre au milieu de sa phrase. Elle essaie de reprendre appui et s’affaisse. Baya l’appelle par son prénom. Clémence tourne la tête, mais elle répond à peine et n’arrive pas à reprendre le fil.\n\nLa référente arrive depuis la salle où elle préparait les fiches. Baya lui demande l’adresse exacte du local et appelle les secours. Elle dit où elles sont, que son amie vient de s’affaisser et qu’elle a du mal à répondre. La référente répète l’adresse et va à l’entrée pour faciliter l’arrivée de l’équipe. Une personne attend devant la porte pour essayer la projection. La référente lui dit qu’elles s’occuperont de la copie plus tard.\n\nClémence entend son prénom et reconnaît la voix de Baya. Elle essaie de dire qu’elle était venue remettre le boîtier à la référente. Ce qu’elle arrive à dire, c’est où se trouve son sac. Baya lui répond qu’elle est là et suit les indications données au téléphone. Clémence aperçoit encore le coin du boîtier près de la porte. Elle voudrait demander si la copie est intacte. Pour l’instant, elle essaie de répondre à la personne qui lui parle.",
       "sections": [
@@ -329,13 +336,13 @@
     {
       "number": 10,
       "slug": "clemence-rendez-vous-apres",
-      "title": "Le rendez-vous d’après",
+      "title": "Après le malaise, Clémence choisit ce qu’elle veut dire au club",
       "description": "Après le malaise, Clémence reprend le suivi avec l’équipe spécialisée et choisit ce qu’elle veut dire au ciné-club.",
       "context": "coordonner les suites d’une évaluation urgente et clarifier les informations utiles pour revenir au club",
       "topics": [
-        "Continuité des soins",
-        "Coordination après une urgence",
-        "Confidentialité"
+        "Choix des informations confiées",
+        "Attentes et limites pour la reprise",
+        "Coordination des soins après l’urgence"
       ],
       "opening": "Clémence a mis le document remis après l’évaluation médicale derrière la fiche du film. Elle l’a fait en rentrant, parce que c’était la seule chemise qu’elle avait sous la main. En attendant son rendez-vous avec le service spécialisé, elle déplace la fiche pour que le document soit le premier à sortir. Elle ne sait pas ce que son équipe a déjà reçu. Elle aimerait aussi savoir à quel moment elle peut dire à la référente ce qu’elle pourra faire pour la soirée.\n\nLe dernier message du club demande simplement qui peut reprendre l’essai de projection. Baya lui a écrit séparément pour prendre de ses nouvelles et lui dire où la référente a rangé le boîtier. Clémence avait préparé une longue réponse, avec le déroulement du malaise tel qu’on le lui a raconté. Elle l’a laissée en brouillon. Elle voudrait d’abord comprendre ce que les professionnels lui recommandent pour les prochains jours. Elle décidera ensuite de ce qu’elle veut raconter à Baya et de ce que la référente doit savoir pour préparer la projection.\n\nPendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations. Elle dit qu’elle souhaite garder une part dans la soirée si c’est compatible avec les suites du suivi. La professionnelle lui demande quelle tâche compte le plus pour elle. Clémence montre la fiche du film. Elle pourrait la finir même si la présentation devait être partagée. Elle voudrait pouvoir garder cette possibilité pendant qu’elles examinent le reste.",
       "sections": [
@@ -365,13 +372,13 @@
     {
       "number": 11,
       "slug": "clemence-programme-plie",
-      "title": "Le programme plié",
+      "title": "Avant la projection, partager les rôles quand on veut tout prévoir",
       "description": "La date approche. Clémence précise sa place dans la soirée et laisse à Baya la présentation du film qu’elle a choisi.",
       "context": "convenir des rôles le soir de la projection en tenant compte du suivi et des disponibilités",
       "topics": [
-        "Reprise d’une activité",
-        "Rôles au ciné-club",
-        "Choix de participation"
+        "Tendance à tout anticiper",
+        "Délégation de tâches",
+        "Choix de ses limites"
       ],
       "opening": "La référente a confirmé qu’elles pourront projeter le court métrage au rideau. Elle a imprimé un programme plié, avec le film de Clémence à l’intérieur et celui de Baya au dos. Elle veut savoir qui s’occupera de l’accueil et de la présentation. Clémence a déjà préparé quelques phrases pour parler de la porte. Sur une feuille à part, elle a aussi prévu ce qu’elle dirait si Baya oubliait d’expliquer le rideau. Baya voit la feuille, lit le titre et lui demande si elles avaient décidé de présenter les deux films ensemble.\n\nAu dernier rendez-vous, Clémence a discuté avec les professionnels de ce qu’elle peut reprendre et garde un point prévu avec eux. Elle a confirmé à la référente qu’elle souhaite présenter son film. Elle voudrait que quelqu’un d’autre s’occupe de l’accueil. Dans sa tête, elle se retrouve pourtant déjà au foyer, près de la table, à répondre sur l’horaire puis à vérifier que Baya a retrouvé ses mots. Elle replie le programme pour voir quelle partie disparaît quand il est posé sur le comptoir.\n\nBaya dit qu’elle veut présenter le court métrage avec la question qu’elle a écrite. Elle aimerait aussi entendre l’introduction de Clémence avant de passer à la sienne. La référente propose de tenir la table avec une autre bénévole. Clémence pourrait leur remettre les fiches et garder sa feuille sur la porte. Elle ouvre le programme et indique à Baya l’endroit où elle veut s’arrêter quand elle présentera son film.",
       "sections": [
@@ -401,13 +408,13 @@
     {
       "number": 12,
       "slug": "clemence-question-dans-le-noir",
-      "title": "Une question dans le noir",
+      "title": "Au ciné-club, accueillir une réaction qu’on n’attendait pas",
       "description": "La soirée a lieu. Clémence et Baya présentent leurs films, et une réaction de la salle change la discussion qu’elles avaient préparée.",
       "context": "mener une soirée partagée au ciné-club et poursuivre les choix de soin et de participation après l’événement",
       "topics": [
-        "Projet personnel",
-        "Suivi dans la durée",
-        "Programmation partagée"
+        "Écoute d’un point de vue inattendu",
+        "Participation choisie pour la suite",
+        "Continuité des soins"
       ],
       "opening": "Clémence commence à parler de la porte alors que la lumière du couloir entre encore dans la salle. Elle attend que la référente ait tiré le battant. Une personne s’installe au dernier rang et lui fait signe qu’elle peut continuer. Clémence lit la première phrase de sa fiche, puis regarde l’écran encore vide. Elle dit qu’elle voudrait savoir à quel moment les gens auront l’impression que quelqu’un écoute le personnage dans l’embrasure. Cette question lui est venue en répétant avec Baya. Elle ne sait pas ce qu’elle entendra après.\n\nLe premier film se termine. Baya présente le sien et invite la salle à regarder le bord de l’image. Au moment où le rideau du magasin descend, quelqu’un rit près de la porte. Clémence croyait que la salle resterait silencieuse. Quand la lumière revient, Baya raconte qu’elle s’attendait elle aussi à un silence. Elle demande à la personne qui a ri si elle veut dire à quoi elle pensait. La réponse porte sur une main qui reste à l’image alors que le personnage essaie de fermer la boutique. Clémence n’avait jamais remarqué cette main.\n\nDans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la question qu’elle garde sur les soirées collectives. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.",
       "sections": [

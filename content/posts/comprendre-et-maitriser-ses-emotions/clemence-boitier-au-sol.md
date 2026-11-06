@@ -1,5 +1,5 @@
 ---
-title: Le boîtier au sol
+title: 'Malaise au ciné-club : Baya appelle les secours et reste présente'
 description: Clémence fait un malaise au ciné-club. Baya appelle les secours et la
   référente prend en charge l’organisation de la salle.
 slug: clemence-boitier-au-sol
@@ -10,9 +10,9 @@ sujet: Anorexie mentale
 contexte: demander un relais médical immédiat face à un malaise soudain au ciné-club
 tags:
 - Anorexie
-- Malaise
-- Évaluation urgente
-- Relais des secours
+- Présence auprès d’une amie en difficulté
+- Respect de la vie privée
+- Évaluation urgente d’un malaise
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

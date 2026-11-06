@@ -1,5 +1,5 @@
 ---
-title: Le banc est derrière la grille
+title: Un lieu de pause pour suivre la visite à son rythme
 description: Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu
   de pause. Une grille fermée oblige le groupe à revoir le trajet.
 slug: nour-visite-test-banc-cour
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Dans le passage des Verriers, lors de la visite test entre voisins
 tags:
 - TSA
-- Repérage des obstacles
-- Accessibilité de la visite
-- Pouvoir interrompre un trajet
+- Besoins sensoriels
+- Choix de faire une pause
+- Repères pour s’orienter
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

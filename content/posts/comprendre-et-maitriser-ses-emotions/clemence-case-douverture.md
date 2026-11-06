@@ -1,5 +1,5 @@
 ---
-title: La case d’ouverture
+title: 'Partager les décisions au ciné-club : Clémence invite Baya'
 description: Clémence choisit une piste pour la soirée du ciné-club. Elle propose
   à Baya de choisir le film qui lui répondra.
 slug: clemence-case-douverture
@@ -11,9 +11,9 @@ contexte: préparer une programmation au ciné-club tout en poursuivant un suivi
   déjà en place
 tags:
 - Anorexie
-- Anorexie mentale
+- Inquiétudes autour des repas
+- Partage des décisions
 - Suivi spécialisé
-- Vie étudiante
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

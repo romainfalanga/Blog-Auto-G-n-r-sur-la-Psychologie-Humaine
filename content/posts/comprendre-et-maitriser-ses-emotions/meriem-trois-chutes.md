@@ -1,5 +1,5 @@
 ---
-title: Il suffit de trois chutes
+title: Une reviviscence au milieu d’une conversation
 description: Meriem veut lancer un échange de patrons. Quand une question la ramène
   brutalement ailleurs, elle trouve ce qu’elle veut annoncer au groupe.
 slug: meriem-trois-chutes
@@ -11,9 +11,9 @@ contexte: Devant le tableau de la maison de quartier
 tags:
 - TSPT complexe
 - CPTSD
-- Reviviscence
-- Rendez-vous prévisibles
-- Projet collectif
+- Reviviscences
+- Régulation émotionnelle
+- Repères prévisibles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

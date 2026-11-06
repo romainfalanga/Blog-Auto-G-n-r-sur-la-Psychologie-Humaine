@@ -1,5 +1,5 @@
 ---
-title: La liste à la craie
+title: Revoir ses engagements pour garder sa place à l’atelier
 description: L’association attend le nombre de chaises. Gabin propose une contribution
   qui respecte les moyens de l’atelier et son budget.
 slug: gabin-liste-a-la-craie
@@ -12,9 +12,9 @@ contexte: adapter le projet du repas de rue aux ressources disponibles et conser
 tags:
 - Jeux d’argent
 - Jeu pathologique
-- Budget du projet
-- Participation au quartier
-- Choix de ce qui est partagé
+- Engagements à sa mesure
+- Place dans le groupe
+- Choix de ce qu’on partage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

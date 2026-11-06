@@ -1,5 +1,5 @@
 ---
-title: La légende passe d’une feuille à une voix
+title: 'Lire ou écouter : chacun sa façon de suivre la visite'
 description: Nour et Joël essaient une version enregistrée de la légende. Ils décident
   ce qui doit rester disponible à l’écrit et sur place.
 slug: nour-legende-ecrite-enregistree
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: À l’atelier de gravure, avant la deuxième visite
 tags:
 - TSA
-- Information dans plusieurs formats
-- Consentement à l’enregistrement
 - Préférences de communication
+- Attention dans le bruit
+- Consentement à l’enregistrement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

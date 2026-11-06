@@ -1,5 +1,5 @@
 ---
-title: Les chaussures attendent sous la chaise
+title: 'Perte d’élan : aller à la répétition devient difficile'
 description: Garance met du temps à quitter son bureau et hésite devant son alto.
   À la répétition, un passage lui plaît encore. Elle en parlera au suivi.
 slug: garance-repetition-energie-basse
@@ -11,9 +11,9 @@ contexte: À la maison et dans la salle des Forges, plusieurs semaines après l�
   hypomaniaque
 tags:
 - Bipolarité type II
-- Baisse persistante de l’élan
-- Plaisir ponctuel
-- Revenir vers le suivi
+- Perte d’élan durable
+- Plaisir malgré les difficultés
+- Appui pour rejoindre une activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: L’heure du cours de dessin
+title: Le manque de concentration bouscule les horaires de famille
 description: Inaya arrive en retard au cours de dessin de Nino. Elle met des mots
   sur ses difficultés de concentration et organise un relais entre adultes.
 slug: inaya-heure-sortie-dessin
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: Un mercredi entre la boutique et le cours de dessin
 tags:
 - Dépression récurrente
-- Concentration
-- Retentissement quotidien
+- Difficultés de concentration
 - Soutien familial
+- Responsabilités des adultes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

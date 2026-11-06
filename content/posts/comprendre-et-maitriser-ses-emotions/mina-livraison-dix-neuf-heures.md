@@ -1,5 +1,5 @@
 ---
-title: De dix-sept à dix-neuf heures
+title: Se croire écartée après un changement d’horaire au festival
 description: Un message de Rachid déplace la livraison prévue au festival. Mina vérifie
   l’heure, la tâche et le relais avant de décider de sa soirée.
 slug: mina-livraison-dix-neuf-heures
@@ -11,9 +11,9 @@ contexte: Dans le local des préparatifs du festival
 tags:
 - Profil borderline
 - Trouble borderline
-- Incertitude dans les relations
-- Coordination au travail
-- Demande claire
+- Incertitude sur sa place dans l’équipe
+- Vérification d’une interprétation
+- Répartition des tâches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

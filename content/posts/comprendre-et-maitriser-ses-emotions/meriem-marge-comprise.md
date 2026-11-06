@@ -1,5 +1,5 @@
 ---
-title: La marge est comprise
+title: Revenir à la conversation quand une émotion déborde
 description: Le premier échange ouvre. Une question sur la marge de couture bouscule
   Meriem ; elle choisit de garder sa place en changeant le mode d’emploi.
 slug: meriem-marge-comprise
@@ -12,8 +12,8 @@ tags:
 - TSPT complexe
 - CPTSD
 - Régulation émotionnelle
-- Travail partagé
-- Réparation concrète
+- Honte et autocritique
+- Demander un relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

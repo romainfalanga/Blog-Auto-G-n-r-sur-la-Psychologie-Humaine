@@ -1,5 +1,5 @@
 ---
-title: Du dernier rang, il manque le début de la phrase
+title: Défendre son choix quand les avis divergent
 description: À la médiathèque, Célestin perd des mots au fond de la salle. Solène
   doit choisir combien de places proposer pour garder le film de l’abribus.
 slug: solene-dernier-rang-sous-titres
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: À l’essai dans la médiathèque de la Rive, avant l’impression de l’annonce
 tags:
 - Trouble schizo-affectif
+- Garder sa place au travail
 - Désaccord professionnel
-- Sous-titres
-- Autonomie au travail
+- Décider en équipe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

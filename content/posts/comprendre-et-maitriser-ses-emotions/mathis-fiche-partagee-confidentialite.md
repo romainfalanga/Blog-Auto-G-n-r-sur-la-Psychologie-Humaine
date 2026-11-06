@@ -1,5 +1,5 @@
 ---
-title: La fiche que tout l’atelier peut lire
+title: Demander un appui à l’équipe sans tout dire de sa santé
 description: L’association doit valider la permanence. Mathis prépare ce qu’il veut
   demander à l’équipe et ce qu’il souhaite confier à Zélie seule.
 slug: mathis-fiche-partagee-confidentialite
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: À l’atelier, au moment de préparer la réunion de l’association
 tags:
 - TDAH
-- Confidentialité
-- Aménagements au travail
-- Soutien d’une collègue
+- Expression des besoins
+- Vie privée
+- Soutien entre collègues
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

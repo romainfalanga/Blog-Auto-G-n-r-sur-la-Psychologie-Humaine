@@ -1,5 +1,5 @@
 ---
-title: Une autre main suit le canal
+title: Continuer à transmettre à sa manière
 description: Au foyer, une lectrice cherche un escalier sur le plan. Armand lui montre
   un passage, puis décide quand laisser Nadia continuer.
 slug: armand-table-des-passages
@@ -11,9 +11,9 @@ contexte: Le samedi de la rencontre, à la grande table du foyer communal
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Participation sociale
-- Préférences à revoir
-- Aide au fil du temps
+- Continuer à transmettre
+- Choisir pour soi
+- Trouver sa place
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

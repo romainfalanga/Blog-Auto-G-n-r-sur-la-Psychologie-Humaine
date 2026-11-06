@@ -1,5 +1,5 @@
 ---
-title: Quand un souvenir prend la place du présent
+title: 'Reviviscence à la quincaillerie : le souvenir envahit le présent'
 description: À la quincaillerie, une annonce surprend Selma. Elle cherche des mots
   pour décrire la reviviscence et demande que son achat attende.
 slug: selma-reviviscence-quincaillerie
@@ -12,8 +12,8 @@ tags:
 - TSPT
 - PTSD
 - Reviviscence
-- Choix dans l’instant
-- Soutien concret
+- Difficulté à suivre l’échange
+- Choix de s’éloigner
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

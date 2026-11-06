@@ -1,17 +1,24 @@
 {
   "character_id": "emilien",
-  "bio": "À trente-sept ans, Émilien travaille comme technicien du son. Avec Dorian, il restaure des enregistrements du marché : les voix, les annonces et les bruits qu’on oublie quand on rentre. Il partage sa vie avec Lucie et vit avec un trouble bipolaire de type I diagnostiqué par des professionnels. Il a discuté d’un plan avec son équipe de soins. Il aimerait que les autres continuent à lui parler aussi des choses qu’il sait faire.",
+  "bio": "Émilien, 37 ans, est technicien du son. Il aime les conversations qui s’étirent au marché et passe vite d’une idée de montage à l’autre. Avec Dorian, il enregistre les voix des commerçants et veut leur faire écouter leurs témoignages avant de les présenter au quartier. Il vit avec Lucie, à qui il demande de lui dire quand elle remarque un changement qui l’inquiète. Émilien tient à pouvoir entendre cette inquiétude tout en gardant sa place dans les décisions, qu’elles concernent son travail ou sa santé.",
+  "profile_topics": [
+    "Variations de l’humeur",
+    "Repères du sommeil",
+    "Prise de décision",
+    "Limites au travail",
+    "Soutien négocié"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "emilien-bruit-de-la-caisse",
-      "title": "Le bruit de la caisse",
+      "title": "Au studio, Émilien distingue l’enthousiasme d’un changement d’humeur durable",
       "description": "Une voix revient dans un enregistrement du marché. Émilien savoure cette trouvaille sans confondre son enthousiasme avec un épisode maniaque.",
       "context": "restaurer un premier enregistrement du marché avec Dorian après un diagnostic professionnel de trouble bipolaire de type I",
       "topics": [
-        "Trouble bipolaire de type I",
-        "Épisode maniaque",
-        "Variations ordinaires de l’humeur"
+        "Enthousiasme",
+        "Variations de l’humeur",
+        "Doute sur ses ressentis"
       ],
       "opening": "« Elle dit quatre ou trois ? » Dorian rembobine de deux secondes. La vendeuse annonce le prix des poires, mais un chariot vide rebondit sur les pavés juste au milieu de la phrase. Émilien écoute une première fois avec les yeux fermés. Il essaie ensuite de réduire le bruit du chariot et l’annonce devient plus difficile à comprendre. Il remet le réglage comme avant. Dorian rapproche sa chaise. Cette fois, au bout de la phrase, ils entendent la vendeuse rire.\n\nIls ont reçu les copies de plusieurs enregistrements du marché, avec la mission d’en restaurer une courte sélection pour les faire entendre aux commerçants. Émilien voudrait commencer par ce rire. Il enregistre le passage dans leur dossier de travail, puis envoie à Lucie une note vocale pour lui raconter ce qu’ils ont trouvé. Elle lui répond avec le bruit d’une clé dans une serrure : elle vient de rentrer et cherche un plat dans le frigo. Elle lui demande s’il mange avec elle.\n\nDans le métro, Émilien réécoute sa note. Il avait parlé vite, et la dernière fois qu’il s’est entendu parler ainsi, c’était dans un message enregistré pendant une période que sa psychiatre a ensuite reconnue comme un épisode maniaque. Le diagnostic de trouble bipolaire de type I est posé depuis plusieurs mois. Aujourd’hui, il sait pourquoi il est content. Il a faim, il veut rentrer et Dorian et lui ont convenu de ne travailler que sur un extrait cette semaine. Il se demande néanmoins depuis quand il doit fournir toutes ces preuves pour avoir le droit d’être heureux.",
       "sections": [
@@ -41,13 +48,13 @@
     {
       "number": 2,
       "slug": "emilien-bruit-de-la-gouttiere",
-      "title": "Ce que la gouttière a réveillé",
+      "title": "Nuit trop courte ou besoin de sommeil réduit ?",
       "description": "Après une nuit hachée, Émilien distingue le manque de sommeil de ses signaux habituels et prépare une question pour son rendez-vous.",
       "context": "après une nuit perturbée, distinguer la fatigue ressentie d’une diminution du besoin de sommeil",
       "topics": [
-        "Sommeil",
-        "Signaux personnels",
-        "Suivi du trouble bipolaire"
+        "Fatigue après une mauvaise nuit",
+        "Besoin de sommeil",
+        "Inquiétude face aux signes"
       ],
       "opening": "À trois heures dix, le bruit change. Les gouttes tombent toujours depuis le même bord du toit, mais le pot que Lucie a déplacé l’après-midi résonne maintenant sous la fenêtre. Émilien suit trois coups, puis deux. Il commence à se lever pour descendre déplacer le pot. Le parquet craque sous son pied nu. Lucie se retourne et demande ce qu’il y a. Il lui dit qu’il aurait voulu dormir encore et qu’il va essayer de se recoucher.\n\nÀ sept heures, il n’a pas le souvenir d’avoir vraiment replongé. En s’asseyant, il se rend compte qu’il a laissé sa tranche de pain sur la planche sans la mettre à griller. Lucie travaille plus tôt que lui. Elle lui demande ce qu’il veut faire de leur rendez-vous au marché. Il répond qu’il voudrait toujours y aller, mais qu’il ne se sent pas capable de passer ensuite trois heures avec un casque sur les oreilles. Il doit prévenir Dorian du changement.\n\nDans son téléphone, au-dessus de leur conversation, il retrouve une ancienne note sur le sommeil. Il y a écrit « je me réveillais en pensant que c’était dommage de perdre autant de temps au lit ». Il se rappelle même être sorti acheter des piles avant l’ouverture du magasin. Ce matin, il ne sait pas s’il doit signaler la nuit à son équipe, ou si poser la question ferait encore de la gouttière une affaire médicale. Avant de partir, il écrit le bruit, le nombre d’heures dont il se souvient et sa fatigue. Il laisse le reste de la ligne vide.",
       "sections": [
@@ -77,13 +84,13 @@
     {
       "number": 3,
       "slug": "emilien-feuillet-sous-aimant",
-      "title": "Le feuillet sous l’aimant",
+      "title": "Parler de ses signes d’alerte avec Lucie et fixer les limites de l’aide",
       "description": "Émilien reprend son plan avec l’équipe de soins et choisit les informations à partager avec Lucie et celles qui restent privées.",
       "context": "mettre à jour les contacts et convenir de ce que chacun peut faire si une inquiétude apparaît",
       "topics": [
-        "Plan de soins concerté",
-        "Proches",
-        "Confidentialité"
+        "Soutien négocié",
+        "Confidentialité",
+        "Signaux personnels"
       ],
       "opening": "Le feuillet est plus grand qu’Émilien ne se le rappelle. L’infirmière a étalé sur le bureau le plan qu’ils ont préparé avec lui après son diagnostic. Il reconnaît son écriture à côté du mot « sommeil ». La suite de la phrase disparaît dans le pli. Il a apporté la note sur la gouttière, mais il trouve plus urgent de savoir où commence la phrase qu’il n’arrive plus à lire.\n\nL’infirmière lui demande ce qu’il reconnaîtrait de la période qui a précédé son épisode. Il parle d’une succession de nuits courtes pendant lesquelles il ne ressentait pas la fatigue, puis des engagements qu’il avait pris très vite. Il se rappelle avoir annoncé une date à Dorian sans regarder si le lieu était libre. Ce n’est que le lendemain qu’il avait compris qu’il lui avait déjà donné une autre date. Cette fois-là, plusieurs personnes s’étaient inquiétées avant lui.\n\nLucie, qui l’accompagne à sa demande, écoute jusqu’au bout. Elle lui dit qu’elle se rappelle aussi qu’il finissait rarement une conversation : il revenait avec une autre idée au moment où elle allait répondre. Émilien n’aime pas beaucoup ce souvenir. Il voudrait pourtant que Lucie puisse le lui dire si elle retrouve quelque chose de semblable. Elle demande ce qu’elle doit faire si elle le remarque un jour où elle n’est pas à la maison. Émilien regardait jusque-là le plan comme une feuille à lui donner. Il comprend qu’ils ont aussi besoin de savoir ce qu’elle accepte de faire.",
       "sections": [
@@ -113,13 +120,13 @@
     {
       "number": 4,
       "slug": "emilien-devis-avant-midi",
-      "title": "Le devis avant midi",
+      "title": "Dormir moins, décider plus vite : Émilien met un devis en attente",
       "description": "Une proposition de diffusion arrive après plusieurs nuits courtes. Émilien demande un avis clinique et reporte la signature du devis.",
       "context": "reconnaître plusieurs changements et utiliser le contact prévu avant de prendre une décision coûteuse",
       "topics": [
-        "Signaux d’alerte personnels",
-        "Prise de décision",
-        "Contact avec l’équipe de soins"
+        "Décision précipitée",
+        "Signaux d’alerte",
+        "Demande d’avis"
       ],
       "opening": "Le vendeur indique le bas du devis avec son stylo : quatre dates, un acompte avant midi et la possibilité de louer deux enceintes supplémentaires. Émilien a appelé pour connaître le prix d’une petite installation. Au bout de cinq minutes, il a expliqué comment sonoriser les quatre coins de la place, où faire tenir les chaises et quels enregistrements diffuser en marchant d’un stand à l’autre. Il cherche le champ de la signature sur son téléphone pendant que le vendeur va chercher une multiprise.\n\nDorian lui avait proposé un essai sous l’auvent, un matin, avec une seule enceinte. Ils voulaient d’abord demander aux commerçants quels passages ils étaient d’accord pour faire entendre. Émilien lui a envoyé à cinq heures vingt une liste de morceaux, puis un plan de la place qu’il a déjà corrigé trois fois. Il n’a pas attendu la réponse. Le vendeur revient avec une rallonge. Émilien en est maintenant à calculer l’heure à laquelle il pourrait récupérer le matériel.\n\nÀ la sortie, Lucie lui rappelle au téléphone qu’il devait d’abord demander le prix. Elle a vu sa lampe allumée plusieurs fois cette semaine et lui demande s’il a pu se reposer. Il a dormi peu depuis trois nuits et, contrairement au matin de la gouttière, il ne voudrait pas se rendormir. Il trouve agaçant qu’on lui en parle alors qu’il n’a encore rien signé. En regardant le devis, il voit que le vendeur a écrit « quatre séances confirmées » à l’endroit où il pensait trouver une option. Pour la première fois de la matinée, il laisse sa prochaine phrase en suspens.",
       "sections": [
@@ -149,13 +156,13 @@
     {
       "number": 5,
       "slug": "emilien-cle-du-fourgon",
-      "title": "La clé du fourgon",
+      "title": "Prise de risque : Émilien renonce à conduire et demande de l’aide",
       "description": "La situation change avant le rendez-vous prévu. Émilien renonce à prendre le volant et demande une évaluation urgente avec l’aide de Lucie.",
       "context": "faire appel sans attendre quand l’évolution des signes fait apparaître un risque concret",
       "topics": [
-        "Manie suspectée",
-        "Évaluation urgente",
-        "Sécurité"
+        "Prise de risque",
+        "Difficulté à garder le fil",
+        "Recours urgent"
       ],
       "opening": "La borne réclame le numéro du permis. Émilien a déjà posé la clé du fourgon sur le comptoir quand il se rend compte qu’il est devant l’écran de retour. Il la reprend. Il avait réservé le véhicule pour la semaine suivante ; il l’a fait avancer à ce soir pour aller chercher des pieds d’enceinte dans un dépôt. Le responsable du dépôt a répondu qu’il serait fermé. Émilien lui a écrit qu’il pouvait tout de même prendre la route et attendre devant la grille.\n\nSur le parking de la gare, il a du mal à retrouver le fil des deux derniers appels. Il se rappelle avoir promis à Dorian de ne rien engager ; il s’entend aussi lui expliquer qu’il va régler le problème de place sous l’auvent avant qu’ils arrivent. Dorian attend près du kiosque, de retour d’un autre travail. Il demande à Émilien s’ils peuvent parler avant qu’il parte. Émilien répond qu’il n’a plus le temps. Pourtant, le dépôt ne rouvrira que demain.\n\nAu moment de passer devant la vitre du kiosque, il voit qu’il tient dans la même main la clé, son téléphone et son permis. Il ne sait plus où il a mis la pochette avec l’adresse. Il a presque cessé de dormir et n’a pas l’impression de devoir se reposer. L’équipe lui a donné un rendez-vous après son premier appel et un recours si les choses changeaient avant. Dans le bruit des voyageurs, il voudrait que Lucie lui répète lequel. Elle répond au second appel.",
       "sections": [
@@ -185,13 +192,13 @@
     {
       "number": 6,
       "slug": "emilien-vingt-minutes-de-bande",
-      "title": "Vingt minutes de bande",
+      "title": "Reprendre le montage à son rythme après un épisode maniaque",
       "description": "Après l’épisode maniaque, Émilien reprend une séance courte au studio et redéfinit sa part du projet avec Dorian.",
       "context": "revenir à une activité qui compte après un épisode et ajuster la charge dans la durée",
       "topics": [
-        "Rétablissement",
-        "Retour au travail",
-        "Suivi après un épisode"
+        "Reprise progressive",
+        "Limites de travail",
+        "Décisions en commun"
       ],
       "opening": "La chaise a changé de côté. Dorian s’est mis à gauche du clavier pour laisser la bonne sortie du casque à Émilien. Il a aussi numéroté les extraits et s’est occupé de demander deux accords aux commerçants. La voix de la vendeuse de poires se trouve dans un dossier appelé « Avec le chariot ». Émilien voit ce nom et sourit avant de s’asseoir. Il avait peur de ne pas trouver sur l’écran une seule chose qui lui soit encore familière.\n\nIl y a quelques semaines, au terme de l’évaluation, l’équipe a conclu qu’il traversait un épisode maniaque. Le suivi continue. Il a repris un petit nombre de tâches et ne vient au studio que pour une séance brève, dont ils ont parlé la veille. En branchant le casque, il demande à Dorian qui s’occupera de la présentation. Dorian a dit aux commerçants qu’ils les inviteraient d’abord à écouter, en petit comité. Il n’a proposé ni dates publiques ni installation sur toute la place.\n\nÉmilien voudrait demander à quel moment Dorian a décidé cela. Il voudrait aussi dire merci pour les deux accords. Pendant qu’il cherche dans quel ordre le faire, il lance le fichier. Le chariot rebondit sur les pavés comme avant, mais la voix est maintenant plus nette sur la fin. Dorian lui montre un réglage qu’il a ajouté. Émilien commence à en ouvrir un deuxième, puis se rappelle ce qu’il était venu faire : choisir avec Dorian où couper le passage, en vingt minutes. Il laisse le deuxième panneau fermé.",
       "sections": [
@@ -221,12 +228,12 @@
     {
       "number": 7,
       "slug": "emilien-extrait-restait-ferme",
-      "title": "L’extrait restait fermé",
+      "title": "Perte d’intérêt : Émilien délaisse les sons qu’il aimait",
       "description": "Depuis deux semaines, même les enregistrements qu’il aimait restent fermés. Émilien décrit ce changement à son équipe de soins.",
       "context": "reconnaître une perte d’intérêt qui dure et demander un avis sur un possible épisode dépressif",
       "topics": [
-        "Épisode dépressif",
         "Perte d’intérêt",
+        "Retrait du quotidien",
         "Demande de soutien"
       ],
       "opening": "La pochette bleue attend dans l’entrée. Émilien y a glissé l’autorisation de la vendeuse de poires et le papier qui indique l’heure où ils devaient lui faire écouter son extrait. Dorian lui a demandé la veille de confirmer qu’il passerait au marché. Émilien a ouvert le message, a lu l’heure dans la pochette, puis est retourné s’asseoir. Ce matin, il trouve une réponse dans sa tête et n’arrive pas à la taper. Il déplace la pochette pour fermer la porte, mais ne la prend pas.\n\nAprès sa séance au studio, il avait été fatigué et content de son choix de coupe. Cette fois, les fichiers lui paraissent tous semblables. Depuis près de deux semaines, il laisse souvent le repas refroidir, répond peu aux invitations et remet sa douche à une heure qu’il n’atteint pas. Au bout de l’après-midi, il regarde parfois une émission entière sans savoir ce qu’il vient de voir. La seule chose qu’il se rappelle, c’est le temps qu’il a passé à se dire qu’il devrait se lever.\n\nLucie rentre pour chercher les clés de son vélo. Elle voit la pochette à terre et demande si Dorian doit passer. Émilien dit qu’il ne sait pas comment lui expliquer. Il pense que Dorian pourrait simplement présenter l’extrait sans lui. Il voudrait surtout dire à quelqu’un que même le bruit du chariot, qu’il avait défendu trois fois, ne lui fait plus rien. En disant cela à Lucie, il entend que sa phrase ne concerne pas seulement le studio.",
@@ -257,13 +264,13 @@
     {
       "number": 8,
       "slug": "emilien-le-velo-de-lucie",
-      "title": "Le vélo de Lucie",
+      "title": "Besoin de présence : s’entendre quand Lucie a prévu de sortir",
       "description": "Lucie tient à sa sortie à vélo. Elle et Émilien précisent ce qu’ils peuvent se demander sans faire reposer le suivi sur leur couple.",
       "context": "parler de la disponibilité d’une partenaire pendant une période difficile en gardant le relais de l’équipe de soins",
       "topics": [
-        "Soutien du proche",
-        "Limites du couple",
-        "Réseau de soutien"
+        "Besoin de présence",
+        "Limites dans le couple",
+        "Soutien des proches"
       ],
       "opening": "Lucie a posé son casque à côté du bol. Elle attend que son amie lui confirme le départ de la randonnée, puis elle ira chercher les vélos au bout de la rue. Émilien sait depuis plusieurs semaines qu’elles ont choisi ce parcours. Au moment où elle boucle la sangle, il lui demande de garder le téléphone à portée de main. Il aimerait le formuler comme une question ordinaire. Il s’entend ajouter : « Tu regardes quand même si je t’écris ? »\n\nDepuis son appel à l’équipe, il a eu un premier échange et ils ont convenu d’un nouveau point. La veille, il a réussi à s’occuper de quelques démarches. Aujourd’hui, il a laissé de côté le message de Dorian sur l’écoute au marché. Il n’est pas certain de vouloir des nouvelles du travail. Il sait qu’il lui a fait du bien de parler à Lucie le matin. De là à imaginer son après-midi, il ne voit plus que le bruit de la porte quand elle partira.\n\nLucie pose le casque sur la table et lui dit que sur une partie du trajet elle ne pourra pas lire de messages. Elle lui demande ce qui l’inquiète pour les prochaines heures. Émilien pense d’abord qu’il aurait préféré qu’elle reste. Il finit par dire qu’il ne veut pas manger seul. Lucie peut rester déjeuner avant de partir. Elle ne veut pas passer la randonnée à vérifier qu’il a bien terminé son repas. Dans l’entrée, les deux vélos ne sont pas encore sortis.",
       "sections": [
@@ -293,13 +300,13 @@
     {
       "number": 9,
       "slug": "emilien-bouton-du-niveau",
-      "title": "Le bouton du niveau",
+      "title": "Faire entendre ses inquiétudes quand un geste familier devient difficile",
       "description": "Une gêne se répète devant la console. Émilien en parle à sa psychiatre pour comprendre ce qui se passe et discuter de son suivi.",
       "context": "décrire une gêne nouvelle et parler du traitement sans en modifier seul la prise",
       "topics": [
-        "Traitement et suivi",
-        "Effets indésirables possibles",
-        "Décision avec les professionnels"
+        "Inquiétude",
+        "Expression des besoins",
+        "Effets indésirables possibles"
       ],
       "opening": "La même seconde de bande tourne depuis qu’Émilien est arrivé. Il essaie de trouver à quel endroit commence le claquement de la caisse, et ramène chaque fois le bouton un peu trop loin. Dorian a laissé un message : la vendeuse s’est reconnue à sa façon de rire. Elle aimerait entendre la phrase entière avant qu’ils choisissent la coupe. Émilien a trouvé l’idée bonne en l’écoutant. Il aurait voulu lui renvoyer aussitôt une nouvelle version.\n\nIl pose la main sur le bureau. Il remarque un léger tremblement quand il veut reprendre le bouton. Ce n’est pas la première fois depuis qu’il a recommencé à utiliser la petite console. Il l’a aussi senti en fermant un bocal. En cherchant sur Internet, il tombe sur des récits contradictoires. La phrase qui lui reste en tête est celle de quelqu’un qui dit avoir changé de lui-même la façon de prendre son traitement. Émilien ferme l’onglet, puis le rouvre pour être sûr d’avoir bien lu.\n\nSon rendez-vous est dans l’après-midi. Il avait prévu de parler surtout de son énergie et du sommeil. Il hésite à apporter un problème qui, sur le papier, ressemble à une difficulté de quelques millimètres. Dorian l’appelle à ce moment-là. Il entend la seconde tourner derrière lui et lui demande s’il cherche toujours le claquement. Émilien répond que cette fois, c’est sa main qu’il ne comprend pas. Après l’appel, il écrit à côté de l’heure du rendez-vous : « Console et couvercle. »",
       "sections": [
@@ -329,13 +336,13 @@
     {
       "number": 10,
       "slug": "emilien-horaire-de-la-regie",
-      "title": "L’horaire de la régie",
+      "title": "Poser ses limites à la régie et choisir ce qu’on dit de sa santé",
       "description": "Pour une nouvelle prestation, Émilien négocie l’horaire et choisit ce qu’il souhaite dire de sa santé à l’équipe de la salle.",
       "context": "préparer une prestation professionnelle avec des limites et un choix sur les informations partagées",
       "topics": [
-        "Vie professionnelle",
+        "Limites professionnelles",
         "Confidentialité",
-        "Objectifs de rétablissement"
+        "Passage de relais"
       ],
       "opening": "Sur le planning de la salle, la balance commence à dix-huit heures et le démontage n’a pas de fin. Émilien connaît le lieu. Quand tout se passe bien, il faut encore descendre les pieds de micro par l’escalier de service après le dernier rappel. L’année précédente, il avait fallu retrouver la personne qui avait la clé du tableau avant de démonter un projecteur. Il pourrait revenir avec plaisir pour une balance. Il ne veut pas reprendre en même temps tout le travail qui suit le concert.\n\nLa responsable lui a écrit : « Dorian peut prendre la fin si tu lui expliques, mais il faut que je sache ce que je dis aux autres. » Émilien lit cette phrase comme s’il devait choisir entre raconter son épisode et ne pas revenir. Il cherche dans un ancien courriel le mot qu’il avait utilisé pour annoncer son absence. Il trouve seulement « indisponible ». Dorian l’avait relayé sans lui demander de préciser pourquoi.\n\nAu studio, ils viennent de réécouter la phrase entière de la vendeuse. La coupe leur convient enfin. Émilien montre à Dorian le planning, avec la ligne du démontage sans heure. Dorian vérifie ce qu’il doit faire ailleurs le lendemain. Il peut rester jusqu’à la fermeture, à condition de ne pas avoir à arriver aussi pour la balance. Émilien l’entend dire cela en regardant son agenda, sans consulter les messages où ils avaient parlé de sa santé. Il prend une feuille et trace deux colonnes, comme pour répartir les micros.",
       "sections": [
@@ -365,13 +372,13 @@
     {
       "number": 11,
       "slug": "emilien-matin-sous-auvent",
-      "title": "Un matin sous l’auvent",
+      "title": "Douter de ses signes d’alerte en pleine reprise du travail",
       "description": "Un changement de programme lui rappelle une période difficile. Émilien demande un avis et redéfinit sa part de l’écoute au marché.",
       "context": "reprendre son plan face à des signes ambigus sans supposer que toute variation est un nouvel épisode",
       "topics": [
-        "Évolution non linéaire",
-        "Incertitude",
-        "Suivi des signaux"
+        "Incertitude face aux signes",
+        "Demande d’avis",
+        "Autonomie au travail"
       ],
       "opening": "Sous l’auvent, il pleut à deux endroits. Dorian a mis un seau devant la prise et propose de déplacer l’écoute à l’intérieur. Émilien a apporté la petite enceinte et une rallonge qu’il a passée dix minutes à démêler. Les chaises sont encore empilées. Il voit d’un seul coup où déplacer chacune et commence à dire qu’ils pourraient ouvrir la porte de l’ancienne loge, inviter les deux stands du fond et en profiter pour essayer un autre morceau. Dorian lui rappelle que les commerçants attendent surtout d’écouter les deux extraits qu’ils ont choisis.\n\nLa veille, Émilien a eu du mal à finir de préparer les câbles. Il a dormi moins longtemps qu’il ne le voulait et s’est levé une fois pour vérifier l’heure de leur rendez-vous. Ce matin, il est las et contrarié par l’eau. Il reconnaît aussi la vitesse à laquelle il vient de proposer trois changements. Il pense au devis chez le loueur et veut déjà expliquer en quoi le problème des chaises est différent. Personne ne lui a posé la question.\n\nIl s’assoit sur la marche pour laisser passer un commerçant. Lucie lui envoie une photo du vieux pont qu’elle a traversé à vélo. Émilien voulait lui écrire que tout allait bien avant de lui raconter l’écoute. Il décide de ne pas envoyer cette phrase tout de suite. Il n’a pas envie de recommencer à demander un avis après chaque matin compliqué. Il ne veut pas non plus s’empêcher de le demander parce qu’il avait commencé à reprendre le travail.",
       "sections": [
@@ -401,13 +408,13 @@
     {
       "number": 12,
       "slug": "emilien-apres-la-derniere-ecoute",
-      "title": "Après la dernière écoute",
+      "title": "Savoir où s’arrêter quand le projet donne de nouvelles idées",
       "description": "Les commerçants choisissent ce qu’ils veulent partager. Émilien termine deux extraits et garde avec l’équipe un plan qu’il peut revoir.",
       "context": "terminer une première écoute de quartier tout en poursuivant un suivi ajusté à sa vie",
       "topics": [
-        "Projet personnel",
-        "Suivi au long cours",
-        "Plan de soins révisable"
+        "Limites choisies",
+        "Décisions en commun",
+        "Autonomie dans le suivi"
       ],
       "opening": "La vendeuse de poires ne rit pas au moment qu’Émilien attend. Elle lève plutôt le doigt juste avant l’annonce du prix. « Là, j’avais dit au kilo. Vous pouvez reprendre avant ? » Dorian revient de quatre secondes. On entend une caisse qu’on repose et le chariot qui rebondit, puis l’annonce entière. Cette fois, elle rit. Elle dit qu’elle avait oublié comme elle parlait fort en se tournant vers la personne suivante. Émilien regarde les deux personnes assises près de la porte. L’une d’elles était venue pour l’extrait du marchand de fleurs et vient d’enlever son manteau.\n\nIls ont apporté deux extraits et la petite enceinte. Émilien a expliqué en entrant que chacun pourrait leur dire ce qu’il veut garder pour l’écoute locale. Le marchand de fleurs demande qu’ils enlèvent un bout où il donne le prénom d’une personne qui n’est pas là. Émilien marque la seconde et laisse l’original de côté. Dorian prend la parole pour demander qui voudrait écouter le résultat la semaine suivante. Il ne regarde pas Émilien avant de parler.\n\nAprès le message qu’il avait laissé sous l’auvent, Émilien a reparlé avec l’équipe des changements de sommeil et de ce qu’il voulait savoir lorsqu’un signe reste ambigu. Ils ont vérifié le contact en dehors des heures habituelles. Il retrouve le papier dans sa poche en sortant de quoi noter l’heure de la prochaine écoute. Sur le même coin de table, il y a la version à faire entendre et une question qu’il garde pour son prochain rendez-vous. Il sait mieux maintenant à quel moment il veut sortir l’une ou l’autre.",
       "sections": [

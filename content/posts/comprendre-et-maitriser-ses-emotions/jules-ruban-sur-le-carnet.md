@@ -1,5 +1,5 @@
 ---
-title: Le ruban entre deux pages
+title: Éviter une allée du marché par peur d’une nouvelle crise
 description: Au marché couvert, Jules évite une allée où il a eu peur. Il prépare
   son prochain rendez-vous médical et hésite à rejoindre la table de dessin.
 slug: jules-ruban-sur-le-carnet
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Au stand de fleurs, alors qu’une évaluation médicale est déjà engagée
 tags:
 - Attaques de panique
-- Évaluation médicale
-- Attaque de panique
-- Activités choisies
+- Peur soudaine et sensations physiques
+- Évitement d’un trajet
+- Retentissement sur les loisirs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

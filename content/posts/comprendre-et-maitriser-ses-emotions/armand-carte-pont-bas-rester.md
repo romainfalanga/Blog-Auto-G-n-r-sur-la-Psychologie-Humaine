@@ -1,5 +1,5 @@
 ---
-title: La carte du pont bas reste chez Armand
+title: Choisir ce qu’on transmet et ce qu’on garde
 description: Nadia aimerait montrer les annotations du pont bas. Armand reprend sa
   carte et cherche ce qu’il peut donner à voir autrement.
 slug: armand-carte-pont-bas-rester
@@ -11,9 +11,9 @@ contexte: Le jeudi suivant, à la grande table de la bibliothèque
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Décision accompagnée
-- Objets personnels
-- Temps de réflexion
+- Choisir pour soi
+- Continuer à transmettre
+- Attachement aux souvenirs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

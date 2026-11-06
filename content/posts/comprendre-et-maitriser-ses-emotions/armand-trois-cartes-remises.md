@@ -1,5 +1,5 @@
 ---
-title: Trois cartes quittent le carton gris
+title: Prendre une décision avec l’appui qu’on a choisi
 description: Armand vérifie la liste avec Nadia avant de remettre trois originaux.
   Il décide aussi comment il veut prendre part à la rencontre.
 slug: armand-trois-cartes-remises
@@ -11,9 +11,9 @@ contexte: Au rendez-vous privé à la bibliothèque, le jeudi suivant à dix heu
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Décision accompagnée
-- Rôle dans un projet
-- Appui choisi
+- Choisir pour soi
+- Continuer à transmettre
+- Recevoir de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

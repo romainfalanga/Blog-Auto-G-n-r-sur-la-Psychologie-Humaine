@@ -1,17 +1,24 @@
 {
   "character_id": "inaya",
-  "bio": "À 41 ans, Inaya tient une boutique de fleurs et prépare avec sa sœur Myriam un atelier de bouquets de saison. Mère de Nino, elle vit avec un trouble dépressif récurrent diagnostiqué avant ce récit et bénéficie déjà d’un suivi professionnel.",
+  "bio": "Inaya, 41 ans, est fleuriste dans une boutique de quartier. Elle sait faire tenir un bouquet avec peu de tiges et aime aller au cinéma avec son fils Nino. Avec sa sœur Myriam, elle veut relancer un atelier de bouquets de saison. Elle tient à montrer elle-même les gestes du métier et hésite à appeler sa sœur les jours où tout lui coûte davantage, de peur que Myriam reprenne le projet en main. L’envie de transmettre est là ; elle cherche un rythme qu’elle puisse tenir.",
+  "profile_topics": [
+    "Perte de plaisir",
+    "Énergie fluctuante",
+    "Expression des limites",
+    "Soutien familial",
+    "Demande d’aide"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "inaya-affiche-sans-date",
-      "title": "Inaya prépare un atelier avec un suivi déjà en place",
+      "title": "Poser ses limites avant de promettre une date pour l’atelier",
       "description": "Fleuriste, Inaya prépare un atelier avec sa sœur. Son trouble dépressif récurrent fait partie de son histoire, et son suivi est déjà en place.",
       "context": "La boutique, avant l’ouverture",
       "topics": [
-        "Trouble dépressif récurrent",
-        "Histoire des épisodes",
-        "Suivi professionnel"
+        "Élan retrouvé",
+        "Engagements réalistes",
+        "Expression des limites"
       ],
       "opening": "Dans la boutique, les pinces de Myriam tiennent mal le papier contre la vitre. Elle se met sur la pointe des pieds, regarde dehors, puis redescend pour déplacer l’une des pinces. « De la rue, on lit “bouquets de sais”. » Inaya lui tend une feuille plus courte. Elles ont déjà écrit trois titres pour le même atelier. Leur père aurait coupé tout ce qui dépassait et mis le mot fleurs en plus gros. Elles essaient cette version pour voir et éclatent de rire en constatant qu’on pourrait la lire de l’arrêt de bus.\n\nIl est encore tôt. Inaya choisit dans un seau une renoncule dont la tige fait un crochet sous la corolle. C’est le genre de fleur qu’elle aime montrer aux gens qui veulent couper tout ce qui part de travers. Elle imagine la table : six personnes, des branches à faire circuler, un bouquet que personne ne devrait avoir à reproduire. Myriam voudrait aussi un coin où poser les manteaux. Elle a vu la petite salle prêtée par la maison de quartier et se souvient surtout du radiateur contre lequel on coince le portemanteau.\n\nMyriam prend un feutre pour ajouter la date. Inaya pose sa fleur sur le comptoir. Cet hiver, sa psychiatre a posé le diagnostic de trouble dépressif récurrent, après avoir repris avec elle plusieurs périodes de sa vie. Entre deux épisodes, Inaya avait retrouvé assez d’élan pour repeindre la vitrine et recommencer à aller au cinéma. Elle a un rendez-vous de suivi la semaine prochaine. Elle aimerait que l’atelier ait lieu, mais refuse de décider de sa date avec le feutre déjà ouvert.",
       "sections": [
@@ -42,13 +49,13 @@
     {
       "number": 2,
       "slug": "inaya-perte-interet-etal-fleurs",
-      "title": "Quand choisir des fleurs ne procure plus le même plaisir",
+      "title": "Au marché aux fleurs, Inaya remarque que le plaisir s’est émoussé",
       "description": "À l’étal, Inaya reconnaît les couleurs qu’elle aime. La perte d’intérêt change son rapport aux fleurs, sans effacer ce qu’elles comptent pour elle.",
       "context": "Le marché de gros et la sortie de l’école",
       "topics": [
-        "Perte d’intérêt",
-        "Activités adaptées",
-        "Observation du quotidien"
+        "Perte de plaisir",
+        "Énergie fluctuante",
+        "Moments partagés"
       ],
       "opening": "À l’étal de Mirek, les fleurs oranges sont dans des seaux jaunes. Inaya a toujours trouvé que c’était la pire façon de les vendre. D’habitude, elle sort une tige et s’éloigne des seaux pour retrouver la couleur. Ce matin, elle lit les étiquettes de carton brun accrochés au bord des bacs : abricot, mandarine, saumon clair. Elle sait lequel choisir pour les trois commandes du jour. Quand Mirek lui tend un paquet qui vient d’arriver, elle remet l’élastique sans ouvrir le papier.\n\nMyriam a pris rendez-vous avec la maison de quartier vendredi. Il leur manque encore une composition à photographier pour l’affiche. Inaya emporte deux bottes qu’elle connaît bien, puis revient vers le rayon des branches. La dernière fois qu’elle est venue ici, elle était en avance et avait marché jusqu’au fond du hangar pour voir la livraison d’un autre producteur. Aujourd’hui, elle calcule surtout combien de temps il lui faut pour retourner à la boutique, et n’a aucune envie d’aller vérifier si le fond du hangar a changé.\n\nÀ la sortie de l’école, Nino lui montre un ticket qu’il a fabriqué pour le cinéma à la maison. Il a même écrit le prix au dos : un carré de chocolat. Inaya reconnaît son envie de rire à la forme de sa bouche, avant d’entendre le son qui en sort. « On le regarde ce soir ? » demande-t-il. Elle regarde le ticket et l’heure affichée au-dessus du portail. La veille, elle lui avait dit qu’ils trouveraient un moment. Elle se demande ce qu’elle peut lui promettre pour de vrai.",
       "sections": [
@@ -79,13 +86,13 @@
     {
       "number": 3,
       "slug": "inaya-heure-sortie-dessin",
-      "title": "L’heure du cours de dessin",
+      "title": "Le manque de concentration bouscule les horaires de famille",
       "description": "Inaya arrive en retard au cours de dessin de Nino. Elle met des mots sur ses difficultés de concentration et organise un relais entre adultes.",
       "context": "Un mercredi entre la boutique et le cours de dessin",
       "topics": [
-        "Concentration",
-        "Retentissement quotidien",
-        "Soutien familial"
+        "Difficultés de concentration",
+        "Soutien familial",
+        "Responsabilités des adultes"
       ],
       "opening": "Le message de l’animatrice commence par le prénom de Nino. En le lisant, Inaya regarde vers la réserve : elle vient de retrouver la paire de ciseaux qu’elle cherchait depuis qu’elle a posé la première composition sur l’établi. Il est dix-sept heures trente-deux. Le cours de dessin finit à dix-sept heures vingt. Sur son agenda, la sortie de dix-huit heures qu’elle attendait est inscrite pour le vendredi suivant. Inaya laisse sur le comptoir la photo qu’elle devait envoyer à Myriam. Elle appelle l’animatrice pour la prévenir qu’elle arrive.\n\nNino est assis à côté de la porte, son dessin posé sur les genoux. Il a colorié le ciel avant de comprendre qu’il voulait le laisser blanc. Il montre à sa mère le bout de papier qu’il lui reste pour en faire un nuage. Puis il lui demande pourquoi elle est en retard. Inaya commence à dire qu’il y avait beaucoup de travail. Elle s’arrête. Il n’y avait qu’une livraison à noter et un bouquet à terminer. Elle s’était même donné du temps pour partir.\n\nInaya et Nino passent sous l’horloge du couloir avec l’animatrice. L’adulte confirme qu’elle garde toujours les enfants à l’intérieur le temps de joindre une personne autorisée. Dehors, Nino demande si Inaya viendra mercredi prochain ou si c’est Myriam. Il voudrait savoir à qui montrer son dessin une fois le nuage collé. Inaya ne connaît pas encore la réponse. Elle lui dit qu’elle va s’en occuper avec sa tante et qu’elle lui donnera l’horaire le matin du cours. Il replie le ciel bleu à l’intérieur pour ne pas l’abîmer.",
       "sections": [
@@ -116,13 +123,13 @@
     {
       "number": 4,
       "slug": "inaya-reveils-signaux-suivi",
-      "title": "Les réveils du matin et la décision d’appeler",
+      "title": "Demander de l’aide quand le sommeil et le quotidien changent",
       "description": "Plusieurs réveils très matinaux et des tâches devenues plus lourdes incitent Inaya à reprendre contact avec son équipe de soins.",
       "context": "À la maison avant l’aube, puis au comptoir",
       "topics": [
-        "Sommeil",
-        "Signes précoces",
-        "Contact avec les soins"
+        "Réveils précoces",
+        "Inquiétude",
+        "Demande d’aide"
       ],
       "opening": "À quatre heures passées, Inaya entend le premier bus ralentir. Il fait toujours le même bruit au carrefour, mais elle ne l’avait jamais entendu depuis son lit avant cette semaine. Elle s’est réveillée bien avant lui. Elle commence à calculer combien de temps elle pourrait encore dormir, puis pense au pot de monnaie qu’elle a oublié de remettre sous le comptoir. Il est à l’intérieur de la boutique, derrière la caisse fermée. Elle connaît tous les détails qui devraient lui permettre de le laisser là. Elle vérifie quand même sur son téléphone l’heure à laquelle elle pourra entrer.\n\nEn ouvrant plus tard, elle remarque le petit morceau de papier qu’elle a mis près de sa lampe la veille. Elle l’a glissé dans sa poche avec ses clés. Sous la date du cours de dessin, elle note l’heure du réveil. Quatre heures est devenu familier, sans qu’elle soit certaine du nombre de matins où cela s’est produit. Elle a aussi laissé deux messages de la maison de quartier sans réponse. Le premier portait sur le nombre de chaises ; le second, sur la prise électrique près de la table. Autrefois, même fatiguée, elle aurait rappelé en portant son tablier au crochet.\n\nMyriam arrive à l’heure convenue pour mesurer la largeur de la photo. Inaya lui demande d’attendre avant de dérouler le mètre. Elle a le numéro du cabinet sur l’écran et cherche ce qu’elle veut dire à la personne qui décrochera. Sa première phrase lui vient : « Je crois que ça change depuis quelques jours. » Elle n’arrive pas à trouver une phrase plus assurée. Elle appuie quand même sur l’icône d’appel.",
       "sections": [
@@ -153,13 +160,13 @@
     {
       "number": 5,
       "slug": "inaya-horaires-boutique-adapter",
-      "title": "Fermer plus tôt sans effacer le travail de la journée",
+      "title": "Fatigue au travail : Inaya essaie de fermer plus tôt",
       "description": "Inaya regarde ce que lui coûtent les fins de journée à la boutique. Elle essaie des horaires plus courts et les revoit avec une collègue.",
       "context": "La boutique et le tableau des horaires",
       "topics": [
-        "Retentissement professionnel",
-        "Aménagement du travail",
-        "Répartition des tâches"
+        "Fatigue au travail",
+        "Limites professionnelles",
+        "Partage des tâches"
       ],
       "opening": "À dix-huit heures quarante, une cliente choisit entre deux rubans. Inaya tient le rose pâle dans une main, le blanc dans l’autre. Elle a mis plusieurs secondes à comprendre que la cliente parlait de la longueur du ruban, pas de sa couleur. Mina, qui a déjà enfilé son manteau, va chercher les deux rouleaux. La cliente choisit le blanc. Lorsque la porte se referme, Inaya doit recommencer à compter la monnaie de la caisse. Elle ne sait plus si elle est arrivée à vingt ou à trente euros.\n\nElle a eu son échange téléphonique avec le cabinet ce midi. On lui a demandé ce que la fatigue rendait difficile. Elle a parlé du réveil de quatre heures, puis de ces soirs où une commande simple lui prend deux fois plus de temps. Elle n’a pas parlé du ruban. Il n’était pas encore arrivé. En regardant Mina remettre son manteau, Inaya se demande pourquoi elle garde une demi-heure d’ouverture qu’elle passe presque toujours seule, alors qu’elle a du monde le matin.\n\nElles étalent le calendrier des livraisons sur le comptoir. Le jeudi, il y a une commande à retirer tard et Mina a promis d’aller chercher sa nièce. Inaya essaie de trouver une solution où toutes les heures restent ouvertes, avec les deux mêmes personnes. Elle déplace un papier, puis le remet à sa place. « Et si on ne cherchait pas à garder tous les horaires ? » Mina attend sa réponse. Inaya pense à l’atelier et à la peur qu’elle a d’avoir à reculer sur tout en même temps.",
       "sections": [
@@ -190,13 +197,13 @@
     {
       "number": 6,
       "slug": "inaya-consultation-decider-ensemble",
-      "title": "Mettre ses priorités sur la table du rendez-vous",
+      "title": "Dire ce qui compte pour soi en consultation",
       "description": "Au suivi, Inaya décrit le sommeil, la boutique et le temps avec Nino. Elle demande ce qu’elle peut faire si son état change avant le prochain rendez-vous.",
       "context": "Un rendez-vous de suivi en consultation",
       "topics": [
+        "Priorités personnelles",
         "Décision partagée",
-        "Suivi professionnel",
-        "Préférences de soins"
+        "Demande de soutien"
       ],
       "opening": "Le papier qu’Inaya a plié dans son agenda laisse une empreinte sur le revêtement de la chaise. En le dépliant, elle retrouve dans le désordre le cours de dessin, l’heure des réveils et deux dates de fermeture. Elle a ajouté au bas de la page « le film, vingt minutes ». Elle n’avait pas l’intention de raconter le film. Elle a écrit ces mots après avoir essayé de résumer la semaine par « tout est difficile » et trouvé que cela ne disait rien de la façon dont elle la traversait.\n\nSa psychiatre demande par quoi elle aimerait commencer. Inaya montre d’abord la ligne où elle a inscrit l’heure du réveil. Elle raconte aussi le moment où elle a attendu trop longtemps avant de comprendre la question sur le ruban. La psychiatre lui demande si elle arrive à manger, comment se passent ses journées avec Nino et s’il lui est arrivé de penser à mourir. Inaya répond que non. Elle ajoute, après un silence, qu’elle regrette souvent de ne pas pouvoir faire une journée ordinaire sans devoir choisir ce qu’elle va laisser tomber.\n\nC’est l’heure à laquelle Inaya passe d’habitude ses commandes. Elle a prévenu Mina qu’elle ne serait pas joignable. Elle se rend compte qu’elle dispose encore d’un peu de temps et qu’elle ne sait pas vraiment ce qui va se passer après cette consultation. Sur son papier, elle a laissé de la place à côté du mot « atelier ». Avant que sa psychiatre reprenne, elle lui demande quand elles pourront refaire le point.",
       "sections": [
@@ -227,13 +234,13 @@
     {
       "number": 7,
       "slug": "inaya-choisir-ce-qu-elle-partage",
-      "title": "Deux messages, un seul à envoyer",
+      "title": "Préparer l’atelier avec sa sœur en gardant la main sur ses confidences",
       "description": "Myriam prépare un message pour la maison de quartier. Inaya choisit ce qu’elle souhaite dire sur le format de l’atelier et garder pour elle.",
       "context": "Sur un banc devant la maison de quartier",
       "topics": [
         "Vie privée",
-        "Consentement",
-        "Soutien des proches"
+        "Soutien choisi",
+        "Consentement à partager"
       ],
       "opening": "Les deux sœurs se sont assises sur le banc qui donne sur le panneau d’affichage. Une affiche pour un tournoi d’échecs dépasse sous la leur, encore sans date. Myriam tient son téléphone des deux mains parce qu’elle tape avec les pouces. Elle lit la première phrase du message qu’elle s’apprête à envoyer à Sofia, qui gère la salle : « Les problèmes de santé d’Inaya nous obligent à revoir notre proposition. » Elle s’arrête pour demander si elles écrivent « petit groupe » ou « six personnes ».\n\nInaya pose son sac entre ses chaussures. Elle avait prévu de demander un essai de trente minutes, et du temps pour nettoyer après. Elle n’avait pas prévu que Sofia saurait qu’elle avait revu sa psychiatre. « Elle n’a pas besoin de ça pour choisir les horaires », dit-elle. Myriam lui montre l’écran. Aucun message n’est parti. Elle explique qu’elle a peur de passer pour celle qui change les règles au dernier moment, alors qu’elles parlent de l’atelier depuis des semaines. Inaya aurait aimé que sa sœur commence par cette phrase.\n\nDerrière la vitre, Sofia déplace une pile de chaises. Il y a longtemps, Inaya avait vendu à sa mère un bouquet qu’elle lui avait payé avec la monnaie de sa propre caisse. Myriam connaît l’histoire et en rit encore. Inaya pourrait facilement parler de ce souvenir à Sofia. Elle sait aussi ce qu’elle souhaite dire aujourd’hui : elles sont deux à mener l’atelier, elles veulent essayer le format avant d’ouvrir les inscriptions, et les participants auront besoin d’une surface où disposer les fleurs. Elle relit la première phrase et demande à Myriam de l’effacer.",
       "sections": [
@@ -264,13 +271,13 @@
     {
       "number": 8,
       "slug": "inaya-atelier-essai-activite-adaptee",
-      "title": "Un essai autour de trois seaux",
+      "title": "L’intérêt revient à l’atelier, l’énergie ne suit pas toujours",
       "description": "Inaya teste l’atelier avec Myriam et une invitée. Elle remarque ce qui l’intéresse encore et ce qu’elle souhaite raccourcir ou partager.",
       "context": "Dans la petite salle de la maison de quartier",
       "topics": [
-        "Activité adaptée",
-        "Énergie variable",
-        "Partage de l’atelier"
+        "Intérêt retrouvé",
+        "Fatigue rapide",
+        "Passage de relais"
       ],
       "opening": "La table de la salle ne s’ouvre pas jusqu’au bout. Il manque un cran, et Sofia a posé une cale sous un pied. Myriam veut garder la place pour circuler derrière les chaises. Inaya déplace un seau au milieu. L’anémone qu’elle avait retenue penche davantage qu’au magasin. Elle avait préparé une composition de démonstration et deux façons de la refaire. Maintenant qu’elle voit la taille de la table, elle sort seulement les tiges dont elle a besoin pour montrer le premier geste.\n\nAurore, qui tient la librairie voisine, arrive avec une demi-baguette enveloppée de papier. Elle pensait avoir le temps de déjeuner. Myriam trouve un plateau pour poser le pain, puis lui demande si elle préfère commencer par regarder ou toucher les fleurs. Aurore plonge les doigts dans l’un des seaux et prend une tige d’anémone entre le pouce et l’index. « Je croyais que celle-ci était cassée. » Inaya approche sa chaise. Elle a envie de lui montrer le côté du bouquet où la courbe ferait de la place aux autres fleurs.\n\nAu bout de vingt minutes, Inaya se rend compte qu’elle n’écoute plus le début des questions. Elle regarde Myriam pour savoir si sa sœur a entendu la dernière. Sur le brouillon, elle a entouré le moment où elles devaient changer de rôle. Il est plus tôt que prévu. Elle voit encore ce qu’elle aurait envie d’expliquer à Aurore. Elle pose tout de même les branches qu’elle tient et demande à sa sœur de montrer comment elles avaient prévu d’attacher les tiges.",
       "sections": [
@@ -301,13 +308,13 @@
     {
       "number": 9,
       "slug": "inaya-dire-qu-elle-pense-a-mourir",
-      "title": "Le soir où Inaya demande une aide urgente",
+      "title": "Idées suicidaires : Inaya demande de l’aide sans attendre",
       "description": "Un soir, Inaya pense à mourir et dit qu’elle ne se sent pas en sécurité seule. Myriam reste avec elle et contacte les secours.",
       "context": "Dans la cuisine, un soir où Nino est chez un ami",
       "topics": [
         "Idées suicidaires",
-        "Aide urgente",
-        "Soutien des proches"
+        "Demande d’aide",
+        "Relais d’urgence"
       ],
       "opening": "Inaya mange debout, sans avoir sorti de fourchette. Elle devait dîner après avoir envoyé la liste des inscrits à Sofia. Le document est resté ouvert depuis le milieu de l’après-midi. Nino dort chez un ami ce soir, une invitation qu’il attendait depuis longtemps. Dans l’entrée, il a laissé ses chaussures pour le terrain, parce que l’autre paire court plus vite, paraît-il. Inaya avait ri en l’aidant à choisir. Elle regarde maintenant les chaussures en se demandant depuis combien de temps elle tient l’assiette vide.\n\nAu rendez-vous, sa psychiatre lui avait demandé si elle avait pensé à mourir. La réponse qu’elle avait donnée était exacte ce jour-là. Elle ne l’est plus ce soir. Inaya essaie d’abord de rédiger une phrase sur son téléphone. Elle voudrait dire que ça change vite et que cette idée lui fait peur. Elle ne sait pas à quel point elle sera capable de rester seule jusqu’au matin. Elle ferme le document sur les inscriptions et appelle Myriam.\n\nSa sœur décroche en pensant que le groupe du samedi est enfin complet. Inaya l’entend dire bonsoir et poser quelque chose sur une table. « J’ai pensé à mourir aujourd’hui. Je ne me sens pas en sécurité toute seule. » Au bout du fil, Myriam vérifie où elle se trouve. Elle lui dit qu’elle va appeler les secours tout de suite. Inaya lui donne l’adresse qu’elle connaît déjà. Myriam appelle, rapporte les mots d’Inaya et suit les consignes des secours. Cette phrase très ordinaire est la seule qui lui vient ensuite.",
       "sections": [
@@ -338,13 +345,13 @@
     {
       "number": 10,
       "slug": "inaya-reporter-atelier-garder-choix",
-      "title": "Une date qu’on reporte",
+      "title": "Après une crise, s’autoriser à revoir ses engagements",
       "description": "Après l’aide urgente, Inaya revoit ses engagements. Les deux sœurs reportent l’atelier et choisissent ce qu’elles ont l’énergie de garder.",
       "context": "La table de la cuisine, quelques jours après l’évaluation",
       "topics": [
-        "Reprise après une aggravation",
-        "Report d’un engagement",
-        "Soutien familial"
+        "Récupération après une crise",
+        "Limites choisies",
+        "Relais familiaux"
       ],
       "opening": "Le ruban adhésif a arraché un bout du carton où la date avait enfin été écrite. Myriam a décroché l’affiche de la vitrine sur le chemin de chez sa sœur. Elle la pose sur la table de la cuisine, à côté d’une boîte de biscuits que Nino n’arrive plus à refermer depuis qu’il a tordu le couvercle. À travers la déchirure, on lit encore « samedi ». Inaya passe le pouce sur le bord du papier. La veille, Sofia avait demandé si elle devait prévenir les six personnes, ou si les deux sœurs voulaient proposer tout de suite une nouvelle date.\n\nInaya vient de revoir une professionnelle après l’aide urgente reçue quelques jours plus tôt. Elle a d’autres rendez-vous, et les matinées restent difficiles. Avant de rentrer, elle s’était arrêtée pour regarder si les seaux de la boutique étaient encore à la bonne place. Mina lui a expliqué ce qu’elle a pu prendre en charge et ce qui reste à décider. Inaya s’attendait à se sentir coupable en partant après cinq minutes. Elle a surtout été soulagée de savoir que les fleurs seraient arrosées.\n\nNino entre pour demander qui l’accompagne au dessin. « Mercredi, c’est Myriam. Moi, j’ai un rendez-vous de santé », dit Inaya. Il voudrait qu’elles se mettent d’accord aussi pour son cartable, qu’il refuse de porter à la main depuis que la bretelle s’est détachée. Myriam veut voir de quel côté elle tient encore. Inaya retourne l’affiche et prend un stylo. Elle a envie d’écrire la suite, mais peut seulement dire ce qu’elle est sûre de pouvoir demander aujourd’hui : prévenir les inscrits que samedi n’aura pas lieu.",
       "sections": [
@@ -375,13 +382,13 @@
     {
       "number": 11,
       "slug": "inaya-atelier-quatre-places",
-      "title": "Le premier atelier, avec quatre places",
+      "title": "Reprise progressive : l’atelier à un rythme qu’Inaya peut tenir",
       "description": "Quelques semaines après le report, Inaya et Myriam accueillent quatre personnes. Elles se partagent l’atelier et gardent un temps pour le rangement.",
       "context": "À la maison de quartier, un samedi matin",
       "topics": [
-        "Reprise d’une activité",
-        "Limites choisies",
-        "Variations de l’humeur"
+        "Reprise progressive",
+        "Énergie fluctuante",
+        "Coopération"
       ],
       "opening": "La quatrième chaise est déjà occupée quand Inaya arrive avec les fleurs. Un homme a posé son sac sur une cinquième chaise qui traînait près du radiateur. Myriam commence à la déplacer. Inaya lui fait signe de la laisser : il y a enfin assez de place pour les affaires sans bloquer le passage. Le panneau de la rue ne porte plus le dessin de la table pour six. Après le report, elles ont demandé à Sofia si quatre places suffiraient pour ouvrir la salle. Elles ont rappelé les personnes intéressées et maintenu le créneau court qui leur convenait.\n\nInaya pose sur la table une branche qui dépasse de son sac depuis le trajet. Le premier bouquet qu’elle a préparé ne ressemble pas à celui de l’affiche : elle a pris des pois de senteur et un feuillage qui sent fort quand on l’écrase entre les doigts. Une participante demande s’il faut compter les tiges. Inaya allait donner les trois réponses qu’elle a préparées. Elle se contente de montrer ce qui arrive quand on change une branche de côté. Le reste de la table attend.\n\nMyriam jette un coup d’œil à l’horloge et prend le relais au moment convenu. Une participante sort son téléphone. Elle veut montrer à sa sœur le bouquet qu’elle a fait. Inaya a très envie de prendre aussi une photo, puis voit dans l’écran deux visages derrière le bouquet. Elle demande si elles peuvent placer les fleurs devant le mur, le temps d’avoir une image où personne n’apparaît. Tout le monde se remet à chercher de la place pour ses mains.",
       "sections": [
@@ -412,13 +419,13 @@
     {
       "number": 12,
       "slug": "inaya-plan-suivi-apres-atelier",
-      "title": "L’autre page du calendrier",
+      "title": "Repérer les signes d’aggravation tout en gardant des projets",
       "description": "Après l’atelier, Inaya garde son suivi. Elle choisit des repères pour demander de l’aide et laisse de la place à d’autres projets.",
       "context": "À la boutique, puis au rendez-vous de suivi",
       "topics": [
-        "Prévention des rechutes",
         "Repères personnels",
-        "Projets et suivi"
+        "Demande d’aide précoce",
+        "Activités choisies"
       ],
       "opening": "Le calendrier de la boutique s’arrête au mois de l’atelier. Inaya décroche la page pour l’aplatir sur l’établi. Sous la photo imprimée du bouquet, quelqu’un a écrit « à refaire ! » au feutre violet. Elle reconnaît l’écriture de Mina. Elle est contente de lire ces mots et n’a pas envie d’y répondre par une date. À l’arrière, deux fournisseurs ont laissé leur carte. Inaya range les cartes sous la caisse et tourne la page vers le mois suivant.\n\nIl y a déjà un rendez-vous de suivi inscrit dans son téléphone. Inaya le reporte sur le papier avant de compter les samedis disponibles. Elle se souvient du premier bus qu’elle entendait tous les matins avant l’aube et de la difficulté à rappeler la maison de quartier. Elle ne sait pas si un prochain épisode commencerait de la même façon. Elle sait en revanche quel appel elle aimerait pouvoir passer si plusieurs difficultés reviennent, au lieu de refaire seule le trajet depuis le premier réveil.\n\nNino est assis près de la porte. Il a rapporté une feuille de la médiathèque avec des séances de cinéma. Il veut savoir si les places sont numérotées, parce qu’il aime pouvoir voir qui entre après lui. Inaya lit l’horaire et lui dit qu’elle regardera si elle peut le samedi suivant. Elle lui demande de laisser le programme à côté de la photo. Il choisit de le coincer sous le coin transparent du calendrier, exactement là où elle avait prévu de mettre le premier bon de commande.",
       "sections": [

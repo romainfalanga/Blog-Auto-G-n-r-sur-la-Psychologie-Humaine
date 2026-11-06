@@ -1,5 +1,5 @@
 ---
-title: Nils reprend après la question de Maud
+title: Reprendre après un blanc à l’antenne
 description: Le voyant s’allume et Nils perd un mot. Maud répète la question comme
   convenu ; il choisit le dernier détail qu’il veut donner.
 slug: nils-le-voyant-rouge
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le samedi, pendant la première émission des Mains dans la terre
 tags:
 - Schizophrénie
-- Participation choisie
-- Reprise de parole
-- Soutien en studio
+- Perdre le fil
+- Soutien discret
+- Reprendre sa place
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

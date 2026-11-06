@@ -1,5 +1,5 @@
 ---
-title: Nils propose une date et garde la gomme
+title: Choisir un rythme de travail qu’on peut tenir
 description: La radio lui propose de revenir chaque semaine. Nils choisit le rythme
   qu’il peut tenir et prépare déjà une autre question.
 slug: nils-une-date-au-crayon
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le lundi après la première diffusion, au studio puis à la pépinière
 tags:
 - Schizophrénie
-- Participation choisie
-- Suivi dans la durée
-- Chronique de jardinage
+- Reprendre sa place
+- Écouter ses limites
+- Soutien dans la durée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

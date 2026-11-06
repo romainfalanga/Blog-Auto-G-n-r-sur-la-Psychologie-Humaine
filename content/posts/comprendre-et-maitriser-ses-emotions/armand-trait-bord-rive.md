@@ -1,5 +1,5 @@
 ---
-title: Armand demande qu’on lui montre le trait
+title: Reprendre sa phrase quand un mot échappe
 description: En préparant la légende du pont bas, Armand bute sur un mot. Il propose
   à Nadia un signe qui l’aidera à reprendre son histoire.
 slug: armand-trait-bord-rive
@@ -11,9 +11,9 @@ contexte: Une semaine après la consultation mémoire, pour un essai au foyer co
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Temps de parole
-- Repère visuel
-- Activité choisie
+- Mémoire au quotidien
+- Continuer à transmettre
+- Recevoir de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

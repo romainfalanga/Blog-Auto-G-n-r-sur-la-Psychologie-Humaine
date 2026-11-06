@@ -1,5 +1,5 @@
 ---
-title: Le trajet qu’elle refait en pensée
+title: Refaire la vérification en pensée jusqu’à manquer son arrêt
 description: Dans le tram, Noémie reprend chaque geste de fermeture des archives.
   À la consultation, elle parle pour la première fois de ce rituel invisible.
 slug: noemie-rituel-sans-geste
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Dans le tram du retour, puis au rendez-vous de suivi
 tags:
 - TOC
-- Rituels mentaux
-- Souvenirs
-- Attention
+- Rituel mental
+- Pensée intrusive
+- Attention accaparée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

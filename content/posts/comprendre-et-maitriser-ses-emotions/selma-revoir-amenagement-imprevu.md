@@ -1,5 +1,5 @@
 ---
-title: Quand le lieu convenu change
+title: Un changement de salle bouscule les repères de Selma au travail
 description: Un changement de salle déstabilise Selma. Elle utilise le contact prévu
   et revoit avec l’équipe la façon d’annoncer les imprévus.
 slug: selma-revoir-amenagement-imprevu
@@ -11,9 +11,9 @@ contexte: À l’accueil, avant une matinée de documentation
 tags:
 - TSPT
 - PTSD
-- Imprévu
-- Adaptations révisables
-- Soutien au travail
+- Déstabilisation face à un imprévu
+- Besoin de repères
+- Demande d’appui au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

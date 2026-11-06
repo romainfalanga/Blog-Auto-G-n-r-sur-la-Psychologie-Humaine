@@ -4,102 +4,214 @@
     "mathis": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "90907ad363fa41282077ca0c12d9249868a4968dc86e479df6f6fb342cd8f6b3",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+      "sha256": "e5821dc1d7a337ae481e92f006abb7747825d86b73b99d0241ccce531b20b324",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "noemie": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "388e0f7336165351e875e15388db136082f60c50ecc777ca2544ce30755d3be6",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+      "sha256": "f9f37a02f5ca74e54342ef5f73610723f5b704143d6fef99ae9ec22b1ce9c029",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "inaya": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "0127f2d237f6414ce7caa79b52c869a19f4866dd1050e2868373b04511517ae0",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+      "sha256": "9dceb0265bb0304beded83393c6bceb0453ac71926c18221a6175f5e11afc314",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "emilien": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "cbb3e2bdc6d885e042e77c4e59f44bcfb7897897950a0dcad3254acef2ca3690",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+      "sha256": "0673bbcbff0b3d10de1dc9e1165ea2de29f52ec66ca08cbc752185be93927007",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "nour": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "0fb2f598886f3ce88f5886982c2b137d2d54a1b173aeb2623c38a51e052b40bf",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+      "sha256": "f0eedaeb50a64433a54afbc553f71c22a966f06cca3264cc107af535f4743c9f",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "antonin": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "1ede45592acb61a9416a034b1e656e83fd4fb803dfbc8397bdc4a47ad41c8a0b",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+      "sha256": "dbfe1af2e066571103697f34fc97c62bf0b0c8a3f7e9c84fbcb001e64f021c46",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "selma": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "b4398178c9bb87a57a9fe437b70239c58ef4b7444bbce87e54e3857610713097",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+      "sha256": "81cab0f62ea261c81715de94010dbffff4f63b6ad439ec64664790e8cda6dd99",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "gabin": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "caa9ad199e7a280d08159f3dc23d1645e82d1534010a76075de98b73b2dcb839",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+      "sha256": "591b7ac4c96e27ebb03d926ae65ab1584b8eb73efd936e99467a49174623e7b6",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "garance": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "5d8630b324b98f4fa44fb24303772110dbbe2a98f21f21b267594f5e0aecdc63",
-      "review": "Troisième vague. Type II distingué du type I, suivi et relais urgent vérifiés, retour au projet musical et répartition des rôles relus."
+      "sha256": "b8b7ff4caac83f873816c87742dcf747eaae684bf195f287c9abeec9a9272041",
+      "review": "Troisième vague. Type II distingué du type I, suivi et relais urgent vérifiés, retour au projet musical et répartition des rôles relus. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "jules": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "71b5ea7b15ac7390fea1101308378d5f8cfda97fe16a84f01a9023ad16317831",
-      "review": "Troisième vague. Répétition des attaques inattendues et suites précisées, urgence thoracique traitée séparément, évaluation professionnelle à l’épisode 3."
+      "sha256": "47a159f7374e2150787164f6061f0eff5ee7e7aac905fa44d925f0f540e839b3",
+      "review": "Troisième vague. Répétition des attaques inattendues et suites précisées, urgence thoracique traitée séparément, évaluation professionnelle à l’épisode 3. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "clemence": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "5286353e5ee42acde5799706cb3b73bc78e65b6dbbb58681dbd8b7004f8f8470",
-      "review": "Troisième vague. Vécu du trouble précisé aux épisodes 1 et 2. Raccord de la copie et relais médical en cas de malaise vérifiés."
+      "sha256": "311f2caa2aa1d3396f5b55dd71868910538209aa8c3a47d9d298dd7d4dd71f51",
+      "review": "Troisième vague. Vécu du trouble précisé aux épisodes 1 et 2. Raccord de la copie et relais médical en cas de malaise vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "mina": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "732c65aab09b83d25c9e31d0898933102e9c3ae7a1a978c7c44eee1ae2f554a6",
-      "review": "Troisième vague. Qualificatif borderline vérifié, limites du proche et recours à l’équipe distingués, reprises de l’atelier et des désaccords relues."
+      "sha256": "85dcf6d8b032698e8e20e11fafee5026446d1bf7d26652ae16f68a2dc8039e89",
+      "review": "Troisième vague. Qualificatif borderline vérifié, limites du proche et recours à l’équipe distingués, reprises de l’atelier et des désaccords relues. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "nils": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "02b96e09d4fb239da325fba0d1eb774c6ac600b9b60228c4d7415f414759dd55",
+      "sha256": "d0d4cfe780b7455b30297530da7e1ade0e936e1f3270f546ac3e0731f1b3d874",
       "dossier_sha256": "229051260dc269b6395916e836162e5a80db1185e186e1f6018f9f210a48d367",
-      "review": "Vague 4. La question des basilics mène à la première chronique. Raccords du studio, accord de diffusion, vécu psychotique et contacts de suivi vérifiés avec le dossier."
+      "review": "Vague 4. La question des basilics mène à la première chronique. Raccords du studio, accord de diffusion, vécu psychotique et contacts de suivi vérifiés avec le dossier. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "solene": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "f8a1be6d56f2ea8bd8f33ce714b3ce36de4db8d6bf24d17e9857294f451284fb",
+      "sha256": "6cb0052a9028f55f2a3ac55eca8de6236b705294eda2c0613b6616da9fd1683c",
       "dossier_sha256": "2299d7777924a1c2c78137e26dca03ba1cea0b08bb3854ec26f2e1fd7b9755f9",
-      "review": "Vague 4. Repère de durée précisé pour le premier épisode selon la CIM-11. Raccords de programmation, relais médical du malaise et partage choisi des informations vérifiés."
+      "review": "Vague 4. Repère de durée précisé pour le premier épisode selon la CIM-11. Raccords de programmation, relais médical du malaise et partage choisi des informations vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "meriem": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "157bff8507b19b01eca9c896ca751760f1d114603fa5b4b6ab4e630f9b4cda0d",
+      "sha256": "a9987954f3e158b731f39056c9a9aad1ee794118f82489ffe042c1c71db65083",
       "dossier_sha256": "6e6a7c827afa51ed979df6eb3fedde9ebf98757768ee328bbdca1dafddb8b3e1",
-      "review": "Vague 4. Progression de la pochette vers le deuxième échange, limites de diffusion et relais après le refus vérifiés. Distinction entre reviviscence, réaction présente et trouble complexe relue."
+      "review": "Vague 4. Progression de la pochette vers le deuxième échange, limites de diffusion et relais après le refus vérifiés. Distinction entre reviviscence, réaction présente et trouble complexe relue. Titres, portrait et repères revus à partir des vingt premières fiches."
     },
     "armand": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "607362b051f3509107e81073089c8e0b30e30c835cba861f8488a4baae111f80",
+      "sha256": "485343481dec47689a819de2f5b08bfa518e4fb3f1cc770542799f0f7e9dcdd3",
       "dossier_sha256": "a2367b7192d12e6d92b2b5efa9600b163264bc3f51dce688e806326d93bb56b5",
-      "review": "Vague 4. Sort des originaux, reproduction, choix de transmission et limites de Jeanne vérifiés. La scène de confusion nouvelle appelle un relais urgent distinct du suivi de la maladie."
+      "review": "Vague 4. Sort des originaux, reproduction, choix de transmission et limites de Jeanne vérifiés. La scène de confusion nouvelle appelle un relais urgent distinct du suivi de la maladie. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "blandine": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "2b6db851bedfc7b7a51a20a32ea7b551cedbfb682141cf345f57084c972e8924",
+      "dossier_sha256": "7398a96ff752334b5800f8925f2e787fa068a1cbbc616cd930f971d56de38ee2",
+      "review": "Vague 5. Distinction entre le deuil vécu et le retentissement durable vérifiée. Les décisions de transmission et de soutien restent distinctes du soin. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "sacha": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "772ac28f5327e7683641a3879f2ad94a910fcdbba6ff934091a3f2ab959922ca",
+      "dossier_sha256": "49ffb1bf9f44eb993399aaa2fbb388c574323d072bd60307ce47c7ced20fe412",
+      "review": "Vague 5. Diagnostic à l’épisode 3 après plusieurs contacts. Regard des autres, discrimination, proposition collective et choix de participation vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "adele": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "e977e8bfd0953aa3a954e5cd35f3f195402efc35f27b088e4f15ab47e39f4f15",
+      "dossier_sha256": "77541c63a534045140e45836fb87bcba2629b703da9dd9245aef55fc26f2fdc2",
+      "review": "Vague 5. Ressenti sensoriel et retentissement du trouble distingués de la préférence et des préoccupations liées au poids. Les relais et le choix du voyage ont été relus. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "come": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "adc0f51c3a1d22d5cef615ebca940edb0391c63a683edc050ff1cd3a262f4db0",
+      "dossier_sha256": "f58fd67138dcca8b3056b8567d48b975890587548f1ec28d4627400e1653bd71",
+      "review": "Vague 5. Retentissement, difficultés à s’arrêter et reprise de contact relus. Les amitiés en ligne, la table et les limites du soutien conservent leur place. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "helene": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "318d0ff966f87930b4f9c3fda29acd6f7af08363d89da1d51261839a5d9300cc",
+      "dossier_sha256": "9d44b6ad1cc45f184f526291ffa8c5cbdbbc3c56ee76591cf7a6efafa085da5d",
+      "review": "Vague 6. Projets de déplacement et de signalétique raccordés. Appuis choisis, décision et limites du partage vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "roxane": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "2de1401b636dfe7b895e0664dbdda983d1e60574a87cc3b131a95994af74ec42",
+      "dossier_sha256": "b1f11f2ee12e6fd0bdfed809e5fa4e5f031aefc38f27f2a4c2df41bfd173033e",
+      "review": "Vague 6. Raccords des indices et enregistrements, place de l’orthophonie, distinction de l’accent et choix de parole relus. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "owen": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "12ee06ef73f730815d4d39d192eab63f8b5190e3a9c46a1beeb435ad2b6ecc4e",
+      "dossier_sha256": "5158f7b6d99befb78e978bc712d0e8470be9e5b5023a09984042f1f40a2776cc",
+      "review": "Vague 6. Continuité du montage et des accords de diffusion, participation avec le bégaiement et choix des relais vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "agathe": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "c3482246e5b2ce33aff2b5ec9bbe038362e16e939ebfcdd9823688d0641fc581",
+      "dossier_sha256": "a3f35bb598ab47e56264d1d40ec21b297c045b163a0367712961343b530f2977",
+      "review": "Vague 6. Compréhension et expression distinguées. Le plan et les choix de partage sont raccordés jusqu’au passage de relais à la classe suivante. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "celian": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "bcbe5b7d50340fa4e685c7ac1af843f2a4bf1281ef08351b7369b669d7138067",
+      "dossier_sha256": "0ee1c3b660764f8bb559d33f40f8023fed49934d45f9d159fa880af151b8bd8b",
+      "review": "Vague 7. La précision, la fluidité, la fatigue et la compréhension sont distinguées. Le goûter, les vérifications liées aux aliments et les relais sont raccordés. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "maiwenn": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "4043770531f28cc008ab74df693e82796be27e8b180baefc4ea1b94f39127a48",
+      "dossier_sha256": "434ce69b10c8034ce5a814e7da3834b9d80507e704ffc1c4df7bce752d527e06",
+      "review": "Vague 7. L’effort écrit, les choix d’aide et la signature ont été relus. Les deux visites, le consentement et la publication du reportage sont cohérents. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "lison": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "85820089fe531c9ebb44b76daa0144ec67899a59f30ed692d58a8501e8fc0741",
+      "dossier_sha256": "7e75351818d9824769d4a2fd77866a83b98d1219d134ecb4d06d80fcc48d0903",
+      "review": "Vague 7. La conversion, les quantités, les retours et la réception ont été recoupés. Le rôle de Lison, le soutien choisi et la difficulté durable restent distincts. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "augustin": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "547cde1a0920133cc8ef3c2358cd846c4873d0d960ccec29db5a927c760a5112",
+      "dossier_sha256": "23bfa22f6f02df050bd496368cda8b26fd365a81e16fd970805d3788ce34ad6d",
+      "review": "Vague 7. Les rôles, les reprises du soleil en carton et le relais facultatif sont raccordés. L’effort de coordination est montré sans confondre lenteur et envie. Titres, portrait et repères revus à partir des vingt premières fiches."
+    },
+    "irene": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "79be34ccd10f02d84963964179e36b47e9a8861ebf31e3ea34d0afc393305277",
+      "dossier_sha256": "6d68b0b26aab6a3ff0a4b2d8ab1af679498b66e43ad8d5e20415a589f1a0ead9",
+      "review": "Vague 8. Les deux chemins du livre, le heurt, les consignes de reprise et les limites de partage sont raccordés. Le retentissement des mouvements est distingué des gestes familiers et le suivi reste pédiatrique."
+    },
+    "zephyr": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "eb47b5c6ac631bbaedeae487cd94aad6f756ec951dc08b7fc36954c5a628da79",
+      "dossier_sha256": "ce369412b6f60a617ad031efa006eb535230d05f63df20bce734f1926f517866",
+      "review": "Vague 8. Le report, le relais de Mounir et la cadence mensuelle sont raccordés. Les difficultés durables et le contexte familial restent distincts. Le changement perceptif conduit à un avis médical sans conclusion diagnostique dans le récit."
+    },
+    "diane": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "5dd845143d5d14aa3632102e761a71ee8ec784e0a17ddafd0d3b7f23c3524edc",
+      "dossier_sha256": "d034d6c0a7c04eff1579e2d4f2c94aef38c54d2f2442a28bb45e393042f03edf",
+      "review": "Vague 8. Diagnostic expliqué au deuxième épisode, limites de partage et reprise au travail raccordées avec les deux pièces exposées. Le changement rapporté entraîne une réévaluation par l’équipe le jour même."
+    },
+    "gasparde": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "1bfc8a2157fe517cd964e071f7be5136a242326e3faf05585bc8b6a16346777c",
+      "dossier_sha256": "260c7a1cb2f1a70827092e0797a0501a104fda9e8d8fecf2a86dfff40f39bf5f",
+      "review": "Vague 8. Les réservations, l’essai du registre, le double et le suivi avec Farah sont raccordés. Les faits vérifiables du club, le ressenti de Gasparde et l’évaluation par les professionnels sont distingués."
     }
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: La question que Mathis garde pour la consultation
+title: Garder la main sur les choix de suivi quand les difficultés persistent
 description: Certaines adaptations aident Mathis, d’autres problèmes persistent. Au
   cabinet, il compare les options de suivi avec ses propres priorités.
 slug: mathis-options-soins-suivi
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Au rendez-vous de suivi avec la psychiatre
 tags:
 - TDAH
-- Choix des soins
-- Accompagnement psychologique
-- Suivi professionnel du TDAH
+- Décision partagée
+- Priorités personnelles
+- Transitions entre tâches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

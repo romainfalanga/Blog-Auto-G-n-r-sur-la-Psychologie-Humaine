@@ -1,0 +1,42 @@
+{
+  "references": {
+    "staller-adultes": {
+      "title": "Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)",
+      "url": "https://journals.sagepub.com/doi/10.1177/27546330251406911"
+    },
+    "has-tsla": {
+      "title": "Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ?",
+      "url": "https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages"
+    },
+    "orthophonie": {
+      "title": "Légifrance — Code de la santé publique, article L4341-1 : champ de l’orthophonie",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047568519"
+    },
+    "compensation-formation": {
+      "title": "Mon Parcours Handicap — Compenser votre handicap en formation",
+      "url": "https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental des apprentissages avec déficit en mathématiques",
+    "aliases": [
+      "Dyscalculie développementale",
+      "Dyscalculie"
+    ],
+    "references": [
+      "oms-cddr",
+      "staller-adultes",
+      "has-tsla",
+      "orthophonie",
+      "compensation-formation"
+    ],
+    "points": [
+      "Le CDDR de la CIM-11 (6A03 et 6A03.2, p. 134–137) décrit des difficultés durables dans l’apprentissage des mathématiques qui peuvent concerner le sens des nombres, les faits numériques, la précision ou la fluidité du calcul, ou le raisonnement mathématique. Le profil peut être circonscrit. Une erreur de conversion, une lenteur ou une épreuve isolée ne permet pas de conclure à un trouble.",
+      "Les difficultés débutent durant le développement et persistent souvent à l’âge adulte. Leur retentissement varie notamment avec la tâche, ses exigences, le temps et les aides disponibles. Un résultat satisfaisant peut demander un surcroît marqué d’effort, de temps ou de soutien. Lison illustre ce coût sur certaines tâches, sans que le diagnostic rende compte de ses compétences de costumière ni de chaque erreur de commande.",
+      "Chez les 18 étudiants adultes reçus dans une consultation universitaire et interrogés par Staller et al., les auteurs retrouvent des difficultés au quotidien ainsi que des récits de honte, d’appréhension du calcul et d’évitement. Cet échantillon recruté dans un cadre clinique éclaire des vécus possibles. Il ne représente pas tous les adultes dyscalculiques et ne démontre pas l’efficacité d’un outil d’atelier.",
+      "Le guide de la HAS concerne l’enfance. Il inclut les difficultés de calcul et recommande de coordonner le soin et les appuis pédagogiques avec l’enfant et sa famille. Le récit l’utilise pour éclairer le suivi scolaire antérieur ; il n’en transpose pas les modalités à une adulte. En France, la cognition mathématique fait partie du champ de l’orthophonie pour des patients de tous âges (article L4341-1). Le professionnel et la personne suivie réévaluent les besoins cliniques ; la tutrice répond aux besoins de travail.",
+      "Le portail public Mon Parcours Handicap décrit des appuis techniques, organisationnels et humains en formation et en situation de travail, ainsi que le relais possible du référent handicap de l’organisme de formation. Les supports visuels, le temps de vérification et le partage des tâches de l’atelier sont des essais concertés de la fiction. Ils ne valent ni protocole de soin, ni garantie d’un droit individuel, ni obligation de révéler un diagnostic à des collègues."
+    ]
+  },
+  "direction": "Lison a vingt ans, un regard de costumière et un humour sec quand elle est à l’aise. Sa voix part des surfaces, du tombé et de la lumière : elle peut trancher sur un tissu et perdre le fil en transcrivant sa longueur. Elle veut conduire la préparation et le suivi des tissus des quatre vestes du Quai de nuit. Elle voit aussi Alba à l’imprimerie associative pour tirer des cartes de vitrines fermées. Nora, sa tutrice, valide les achats et organise les relais ; Ilyès peut vérifier des étapes définies et garder ses propres engagements ; le suivi orthophonique appartient à Lison. Le diagnostic est établi avant la série. Faire exister l’effort caché, le doute sous le regard d’autrui, le choix des confidences et une autonomie qui inclut l’usage d’appuis. Distinguer besoin brut, stock mesuré, longueur à acheter, largeur, continuité du coupon et réception ; corriger en montrant qui détient l’information. Ni diagnostic devant l’équipe, ni victoire qui effacerait toutes les difficultés, ni délégation de toute la commande. Finir sur des vestes qui bougent comme elle l’espérait et une manière de travailler dont l’équipe peut se resservir."
+}

@@ -1,5 +1,5 @@
 ---
-title: Simon entre pour la deuxième partie
+title: Au rendez-vous, faire une place au regard d’un proche
 description: Mathis choisit d’inviter Simon pour une partie du suivi. Leurs deux récits
   aident à préciser les appuis qu’ils veulent garder.
 slug: mathis-suivi-avec-simon
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Au cabinet, après la première permanence ouverte au public
 tags:
 - TDAH
-- Suivi après le diagnostic
-- Participation d’un proche
-- Observer les effets des appuis
+- Écoute mutuelle
+- Autonomie
+- Soutien des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

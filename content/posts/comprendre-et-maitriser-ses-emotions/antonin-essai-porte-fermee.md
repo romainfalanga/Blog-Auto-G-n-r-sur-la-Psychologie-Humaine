@@ -1,5 +1,5 @@
 ---
-title: Ce qu’on entend porte fermée
+title: Le chantier avance et les inquiétudes pèsent encore sur les nuits
 description: Le local passe son essai et le médecin revoit le suivi d’Antonin. Une
   bonne nouvelle au travail ne fait pas disparaître les autres inquiétudes.
 slug: antonin-essai-porte-fermee
@@ -11,9 +11,9 @@ contexte: À l’essai de la salle après les travaux, puis au rendez-vous de su
 tags:
 - TAG
 - Anxiété généralisée
+- Sommeil perturbé
+- Inquiétudes hors du travail
 - Suivi dans le temps
-- Retentissement
-- Appui professionnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

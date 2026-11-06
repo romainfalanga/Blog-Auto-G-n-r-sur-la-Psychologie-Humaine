@@ -1,5 +1,5 @@
 ---
-title: Dans la cuisine, Solène choisit qui appeler
+title: Parler à sa compagne quand ses perceptions changent
 description: Le prénom revient alors que l’ordinateur est fermé. Solène dit à Livia
   ce qu’elle a remarqué ces derniers jours et appelle son équipe.
 slug: solene-cuisine-appeler-equipe
@@ -11,8 +11,8 @@ contexte: Dans l’appartement de Solène et Livia, avant le cours de poterie de
 tags:
 - Trouble schizo-affectif
 - Humeur et perceptions
-- Contact avec l’équipe de soins
-- Écoute en couple
+- Reconnaître ses signes
+- Choisir ce qu’on partage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

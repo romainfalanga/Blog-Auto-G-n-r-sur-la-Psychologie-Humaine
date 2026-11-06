@@ -1,5 +1,5 @@
 ---
-title: Jeanne ne peut plus passer le jeudi
+title: Poser des limites quand on aide un parent
 description: Jeanne veut garder du temps pour voir son père. Elle lui dit pourquoi
   elle ne peut plus assurer seule le courrier et les rendez-vous.
 slug: armand-jeanne-rend-jeudi
@@ -11,9 +11,9 @@ contexte: Chez Armand, devant les papiers en cours, un jeudi en fin d’après-m
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Limites du proche
-- Organisation du quotidien
-- Soutien aux aidants
+- Recevoir de l’aide
+- Fatigue des proches
+- Répartir les responsabilités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

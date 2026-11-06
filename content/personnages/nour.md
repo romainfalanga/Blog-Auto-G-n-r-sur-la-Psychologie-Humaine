@@ -1,10 +1,13 @@
 ---
 title: Nour
 date: '2026-11-06T00:00:00+00:00'
-description: Nour, 31 ans, traduit les légendes d’une collection municipale. Autiste,
-  elle utilise aussi l’écrit pour discuter en réunion. Elle prépare avec ses voisins
-  une visite de la ville où chacun choisira son trajet et ses pauses. Fatou, sa voisine
-  et médiatrice culturelle, et Joël, rencontré en atelier, prennent part au projet.
+description: Nour traduit les légendes d’une collection municipale. Elle aime les
+  détails qui font voir autrement une rue qu’on croyait connaître et glisse volontiers
+  un trait d’humour dans ses notes. Avec sa voisine Fatou et Joël, rencontré à l’atelier
+  de gravure, elle prépare une visite où chacun peut marcher à son rythme. Les bruits
+  et les changements de dernière minute lui demandent parfois beaucoup d’efforts.
+  Elle tient à partager ses trouvailles tout en choisissant quand parler, faire une
+  pause ou passer le relais.
 slug: nour
 prenom: Nour
 date_naissance: '1995-01-01'
@@ -16,81 +19,85 @@ weight: 38
 draft: false
 clinical_code: 6A02
 reading_topics:
-- Autisme
+- Préférences de communication
+- Sensibilité au bruit
+- Effort face aux imprévus
+- Fatigue et récupération
+- Participation à son rythme
 ---
 
 <h2 class="parcours-section-title">Parcours de Nour</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-choisir-ecrit/">L’hirondelle tient encore sur deux lignes</a></h3>
-    <p class="parcours-resume">Une réunion change de salle et de rythme. Nour trouve à l’écrit la place d’une question sur une enseigne de la collection municipale.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-choisir-ecrit/">Quand l’écrit aide Nour à suivre une réunion</a></h3>
+    <p class="parcours-resume">Le dossier de Nour tient à plat tant que la grande photographie repose dessus. On y voit l’enseigne d’une boutique de parapluies, une hirondelle en fer qui pointe du bec vers une cour.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-choisir-ecrit/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-kiosque-premier-reperage/">Deux chemins jusqu’au kiosque</a></h3>
-    <p class="parcours-resume">Le premier repérage longe un marché plus bruyant que prévu. Nour et Fatou cherchent un point où les voisins pourront se retrouver.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-kiosque-premier-reperage/">Sensibilité au bruit : Nour choisit un détour au marché</a></h3>
+    <p class="parcours-resume">Le samedi, Nour arrive au kiosque du square avec la photographie sous une pochette transparente. Fatou lui fait signe depuis le trottoir. Deux voisins se sont joints à elles.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-kiosque-premier-reperage/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-ordre-du-jour-accessible/">Une ligne pour les décisions du jour</a></h3>
-    <p class="parcours-resume">Avant la prochaine réunion, Nour demande le déroulé et le document de travail. Elle peut ainsi préparer la décision sur la photographie.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-ordre-du-jour-accessible/">Des repères pour trouver sa place en réunion</a></h3>
+    <p class="parcours-resume">Dans son message, Nour a écrit qu’elle veut connaître l’heure, la salle et ce qu’il faudra décider. Elle retire une phrase d’excuse avant de l’envoyer. À la première réunion, la discussion s’est poursuivie pendant qu’elle cherchait où ouvrir son dossier.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-ordre-du-jour-accessible/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences/">Joël déplie la carte du côté du marché</a></h3>
-    <p class="parcours-resume">Joël, rencontré en atelier de gravure, essaie la carte avec Nour. Tous deux sont autistes et ne cherchent pas les mêmes repères.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences/">Nour et Joël, deux façons de s’orienter avec la même carte</a></h3>
+    <p class="parcours-resume">Joël a posé la carte près de la presse pour que les bords restent plats. Nour la lui a envoyée deux jours plus tôt. Il a imprimé la première page, puis a gardé le fichier ouvert sur son téléphone.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-annonce-confidentialite/">Ce que Fatou peut mettre dans l’invitation</a></h3>
-    <p class="parcours-resume">Fatou prépare l’annonce. Nour souhaite expliquer les choix de trajet et de pause et garder son diagnostic hors du message de quartier.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-annonce-confidentialite/">Confidentialité : ce que Nour choisit de dire aux voisins</a></h3>
+    <p class="parcours-resume">Fatou a préparé le message de quartier sur son ordinateur. Le titre tient sur une ligne, avec le jour en capitales. Elle montre ensuite à Nour une phrase qu’elle n’a pas encore mise dans l’annonce.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-annonce-confidentialite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue/">La note que Nour pose sur le bureau</a></h3>
-    <p class="parcours-resume">Nour prépare par écrit un rendez-vous sur sa fatigue. Elle choisit les situations à examiner et les aménagements qui l’aideraient à en parler.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue/">Parler de sa fatigue en consultation, à l’écrit</a></h3>
+    <p class="parcours-resume">Nour avait demandé par message s’il serait possible de commencer dans la petite salle. La personne de l’accueil lui dit qu’un rendez-vous y est encore en cours et lui montre le banc près de la porte.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/">Le banc est derrière la grille</a></h3>
-    <p class="parcours-resume">Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu de pause. Une grille fermée oblige le groupe à revoir le trajet.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/">Un lieu de pause pour suivre la visite à son rythme</a></h3>
+    <p class="parcours-resume">Rita, une voisine, a rangé le plan dans la poche de son cabas à roulettes. Elle vient de faire ses courses et a proposé de vérifier le trajet avec elles sur le retour.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-travaux-plan-visite/">La flèche s’arrête devant les travaux</a></h3>
-    <p class="parcours-resume">Un avis de travaux arrive après le repérage. Nour décide ce qu’elle garde de la visite et comment indiquer le changement avant le départ.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-travaux-plan-visite/">Retrouver ses repères après un changement de trajet</a></h3>
+    <p class="parcours-resume">Le lendemain de l’essai, Nour lit l’avis de travaux en prenant son petit déjeuner. La zone hachurée recouvre une partie du passage des Verriers. Il reste trois jours avant la visite.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-travaux-plan-visite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-pause-auvent/">L’hirondelle reste au kiosque</a></h3>
-    <p class="parcours-resume">Le jour de la visite, une enceinte s’allume sur le square. Nour choisit une pause et précise ce que Fatou peut annoncer pendant son absence.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-pause-auvent/">Trop de bruit au kiosque : Nour fait une pause et passe le relais</a></h3>
+    <p class="parcours-resume">Nour a apporté la reproduction dans une chemise en carton. Elle la pose au milieu du kiosque, à côté des cartes imprimées. Fatou montre les deux chemins aux premiers arrivants.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-pause-auvent/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-apres-visite-limites/">La chemise attend sur le palier</a></h3>
-    <p class="parcours-resume">Des voisins veulent recommencer la visite. Avant de répondre, Nour examine ce que la première lui a demandé et la part qu’elle veut garder.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-apres-visite-limites/">Fatigue après la visite : quelle place garder pour la suivante ?</a></h3>
+    <p class="parcours-resume">Fatou a laissé la chemise sur le palier comme elles en étaient convenues. Nour la ramasse avant de descendre travailler. Entre le carton et la reproduction, une carte porte le nom de l’arrêt du quai, écrit par quelqu’un qui l’a essayé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-apres-visite-limites/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-ecrite-enregistree/">La légende passe d’une feuille à une voix</a></h3>
-    <p class="parcours-resume">Nour et Joël essaient une version enregistrée de la légende. Ils décident ce qui doit rester disponible à l’écrit et sur place.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-ecrite-enregistree/">Lire ou écouter : chacun sa façon de suivre la visite</a></h3>
+    <p class="parcours-resume">Joël a posé un téléphone devant la presse et placé deux feuilles derrière, comme un paravent. Il veut faire un essai pour savoir s’il peut lire la légende pendant que les autres gravent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-legende-ecrite-enregistree/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-deuxieme-visite-quai/">Nour suit la flèche du quai</a></h3>
-    <p class="parcours-resume">Au deuxième départ, les voisins prennent plusieurs chemins. Nour garde le sien et laisse une autre personne tenir la carte au point de rendez-vous.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-deuxieme-visite-quai/">Choisir sa place dans le groupe après avoir organisé la visite</a></h3>
+    <p class="parcours-resume">Au porche du quai, Fatou tient une liasse de feuilles entre le pouce et l’index. Une femme en prend une, la retourne et demande si elle doit rendre la carte à la fin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-deuxieme-visite-quai/" class="parcours-link">Lire</a>
   </div>
 </div>

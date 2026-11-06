@@ -1,5 +1,5 @@
 ---
-title: La date que le fournisseur retire
+title: 'Le chantier prend du retard : décider sans connaître la suite'
 description: La livraison de la porte est retardée. Antonin et Eva doivent organiser
   les répétitions sans promettre une réouverture qu’ils ne maîtrisent pas.
 slug: antonin-livraison-en-retard
@@ -12,9 +12,9 @@ contexte: À l’école, au moment où le fournisseur décale la livraison de la
 tags:
 - TAG
 - Anxiété généralisée
-- Retard du chantier
 - Incertitude réelle
-- Priorités
+- Crainte d’être mis en cause
+- Décision provisoire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

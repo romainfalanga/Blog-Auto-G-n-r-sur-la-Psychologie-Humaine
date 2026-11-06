@@ -1,5 +1,5 @@
 ---
-title: La porte du foyer a changé
+title: Se réorienter quand un lieu familier change
 description: Un panneau a déplacé l’entrée du foyer. Armand choisit comment retrouver
   Nadia et où s’installer pour lui présenter son projet.
 slug: armand-porte-du-foyer
@@ -11,9 +11,9 @@ contexte: Jeudi à dix heures, devant le foyer communal puis à la bibliothèque
 tags:
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Repères dans les lieux
-- Charge d’une situation
-- Accès aux activités
+- Repères dans l’espace
+- Recevoir de l’aide
+- Demander une indication
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

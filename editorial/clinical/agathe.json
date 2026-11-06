@@ -1,0 +1,454 @@
+{
+  "character_id": "agathe",
+  "bio": "Agathe a onze ans. Elle connaît les détours du jardin de l’école et garde une bille blanche à virgule rouge pour la récréation. Si le nom s’efface sur un sachet, elle laisse une ligne vide plutôt que de deviner. Elle veut transmettre aux plus jeunes un plan qu’ils pourront changer. Agathe vit avec un trouble développemental du langage et voit une orthophoniste. Quand les consignes s’enchaînent, elle demande souvent un exemple à regarder. Quand c’est à elle d’expliquer, elle commence parfois par montrer.",
+  "profile_topics": [
+    "Comprendre une consigne",
+    "Mettre une idée en mots",
+    "Garder sa place dans un groupe",
+    "Demander du temps",
+    "Choisir ce qu’on partage"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "agathe-boite-bleue",
+      "title": "Perdre le fil d’une consigne au cabanon",
+      "description": "Une consigne trop longue fait perdre à Agathe l’ordre du tri. Elle dessine ce que la prochaine classe devra pouvoir retrouver.",
+      "context": "Fin mai, au cabanon du jardin scolaire. Le diagnostic d’Agathe est déjà établi ; elle est en CM2.",
+      "topics": [
+        "Comprendre une consigne à plusieurs étapes",
+        "Demander un exemple",
+        "S’entendre sur un rangement"
+      ],
+      "opening": "Agathe avait repéré une boîte en fer bleu sur l’étagère du cabanon. Elle y mettait exactement trois sachets debout, quatre en les pliant. Une boîte pareille pouvait tenir jusqu’à la rentrée sans que le nom de chaque graine disparaisse sous le fond d’un panier. Elle l’avait tirée vers elle avec la main qu’elle n’avait pas pleine de terre. Derrière le portillon, les CM1 attendaient leur tour pour arroser. L’an prochain, ce seraient eux qui ouvriraient le cabanon le jeudi.\n\nCamille avait envoyé les CM2 chercher le matériel par groupes. « Après avoir mis à part les sachets qu’on garde pour la rentrée, vous descendez le panier du haut, sauf celui des radis qui est déjà prêt ; et les étiquettes, seulement quand vous avez fini. » Agathe avait entendu « panier du haut ». Elle le descendit. Deux camarades, déjà à la table, avaient commencé à séparer les sachets. Elle posa le panier devant eux et regarda leurs mains pour retrouver le début. Un camarade lui demanda le sien. Elle ne sut pas s’il parlait du panier ou de son sachet. Elle se sentit fatiguée d’avance à l’idée de demander toute la phrase.\n\nElle revint vers Camille avec un sachet de pois. « Tu me montres où celui-là va ? » Camille lui demanda s’il restait à utiliser ce mois-ci. Agathe secoua la tête et l’animatrice désigna l’étagère du bas : c’était la réserve. Agathe mesura du regard la place à côté du rouleau de ficelle. « On peut leur mettre la boîte ici ? Quand nous on sera plus là, je veux qu’ils la trouvent. »",
+      "sections": [
+        {
+          "heading": "Entendre les mots, retrouver l’ordre",
+          "text": "Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde. Le diagnostic déjà connu d’Agathe s’appuie sur des difficultés durables et leur retentissement dans plusieurs situations, appréciés par des professionnels. Elle n’a pas à expliquer ce bilan chaque fois qu’elle demande qu’on lui montre quelque chose."
+        },
+        {
+          "heading": "Faire apparaître la première étape",
+          "text": "Au cabanon, l’objet permet de raccrocher les mots à quelque chose qu’on peut suivre. Camille peut dire « on garde ces pois pour la rentrée », poser le sachet à sa place, puis laisser au groupe le temps de commencer le tri. Les étiquettes viennent quand les sachets sont rangés. Elle peut ensuite demander où irait un autre sachet et regarder ce que chacun indique, pour vérifier que son explication était utilisable. Ce geste n’est pas un exercice que les élèves doivent réussir devant elle. Agathe peut expliquer qu’elle préfère une démonstration ou demander une étape à la fois. La responsabilité de rendre la consigne accessible reste du côté de l’adulte, même quand un enfant aide à inventer le support."
+        }
+      ],
+      "ending_title": "À côté de la ficelle",
+      "ending": "Camille dégagea une place près de la ficelle. Agathe y glissa la boîte. Elle dessina les deux étagères sur un carton pris sous le panier et fit une tache bleue à côté du rouleau. Dehors, Inès lui dit qu’on ne saurait pas quel mur regarder avec son carton. Agathe entra de nouveau et regarda depuis la porte. Inès avait raison, il y avait deux étagères aussi en face. Elle ajouta le portillon, puis le banc, qui ne bougeait jamais. En bas, il restait la place pour les sachets. Elle demanda à Inès de revenir le jeudi suivant : elles iraient regarder ce qu’il y avait vraiment à conserver.",
+      "mirror": [
+        "Si Agathe arrive avec le panier du haut alors que le tri vient de commencer, Camille peut reprendre au point où elles sont : « On garde d’abord les sachets pour la rentrée. Regarde celui des pois. Tu veux que je te montre où il va ? » Elle attend sa réponse avant d’enchaîner sur les étiquettes. Si Agathe propose un autre rangement, Camille peut examiner la place avec elle ; comprendre la consigne n’oblige pas à renoncer à son idée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe demande un exemple avec les pois et obtient que la boîte bleue serve de réserve sur l’étagère basse, à côté de la ficelle.",
+        "next": "Le carton indique le portillon et le banc ; au prochain atelier Agathe et Inès inventorieront les graines de la réserve."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "agathe-sachet-sous-la-pluie",
+      "title": "Trouver les mots pour garder un sachet à part",
+      "description": "Agathe repère un sachet abîmé. Trouver les mots pour expliquer le problème lui prend plus de temps que trouver une solution.",
+      "context": "Le jeudi suivant, Agathe et Inès font l’inventaire de la réserve, sous l’auvent du cabanon.",
+      "topics": [
+        "Recherche des mots",
+        "Temps laissé pour répondre",
+        "Décision en cas de doute"
+      ],
+      "opening": "Inès avait traîné un tabouret sous l’auvent pour qu’elles puissent s’asseoir chacune à un bout du banc. Agathe vidait la boîte bleue entre elles. Un sachet de pois, un de haricots, un troisième qu’elle n’arrivait pas à lire parce que l’encre avait bavé. Deux semaines plus tôt, elles avaient couru du jardin au cabanon pendant une averse et posé leur panier près de la porte. Agathe reconnut un coin que l’eau avait gondolé. Elle ne se souvenait plus de ce qui était écrit dessus avant. Sur le plan, il fallait une place pour ça aussi : ce qu’elles avaient et dont elles ne connaissaient pas le nom.\n\nInès posa la pointe du feutre sur la première ligne libre. « Capucines ? Je crois que Camille a dit qu’il en restait. » Agathe savait ce qu’elle voulait répondre : garder le sachet à part jusqu’à ce que Camille confirme, et laisser le nom en blanc. « On le met... pas là où... attends. » Le mot « vérifier » lui vint juste au moment où Inès souffla sur l’encre. Elle avait déjà écrit CAPUCINES en capitales.\n\nAgathe mit la main à plat au milieu du banc. « C’est peut-être ça. Mais pas encore. » Elle prit un bout de papier qui protégeait la table et dessina un point d’interrogation. Inès regarda le papier, puis son feutre. Agathe poussa le sachet vers le bord de l’auvent où Camille avait posé ses gants. « On lui demande. S’il a pris l’eau, elle saura quoi en faire. »",
+      "sections": [
+        {
+          "heading": "L’idée peut précéder la phrase",
+          "text": "Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes. Agathe comprend la proposition d’Inès. Ce qui lui prend du temps, c’est d’indiquer comment traiter un sachet au nom incertain et pourquoi il faut attendre. Le point d’interrogation donne à Inès un indice ; Agathe complète elle-même. On ne peut pas déduire de cet échange le profil complet de son langage ni ses compétences en jardinage."
+        },
+        {
+          "heading": "Laisser la décision en suspens",
+          "text": "Sur ce banc, une pause a une conséquence très simple : tant que les deux n’ont pas choisi, le nom peut rester au crayon ou la ligne rester vide. Inès peut reprendre « Tu veux qu’on attende Camille pour le nom ? », en laissant de la place pour un oui, un non ou une précision. Demander l’avis d’Agathe a peu d’effet si l’on écrit la réponse dans le même mouvement. On peut lui offrir le feutre, déplacer le sachet sur sa demande ou attendre qu’elle ait fini sa phrase. C’est le contenu de sa proposition qui compte : ne pas présenter aux suivants une supposition comme un fait. Camille peut répondre de l’usage d’un sachet abîmé sans prendre en charge le dessin de l’inventaire."
+        }
+      ],
+      "ending_title": "Une ligne qui reste libre",
+      "ending": "Camille retrouva les capucines dans un sachet sec, avec un nom intact, parmi le matériel à utiliser avant les vacances. Elle prit le sachet abîmé pour s’en occuper ; il ne rejoindrait pas la boîte de réserve. Sur leur carton, Inès barra « capucines » d’un trait qui laissait encore deviner les lettres. Agathe déchira un coin d’enveloppe et le colla dessous. Elle y dessina son point d’interrogation en petit. Elles garderaient le signe pour les prochains sachets à vérifier, et pour ce qu’elles auraient envie de demander aux CM1. Avant la récréation, Inès proposa qu’Agathe présente le carton le lendemain devant toute la classe. Agathe dit « je vais voir ». Ce n’était pas un oui.",
+      "mirror": [
+        "En voyant qu’Agathe a encore la main sur le sachet, Inès peut poser son feutre et dire : « J’ai commencé à écrire trop vite. Tu voulais qu’on mette quoi ici ? » Elle attend qu’Agathe pointe, dessine ou reprenne sa phrase. Si elles ne trouvent toujours pas le nom, l’adulte peut vérifier avec elles. Il n’est pas nécessaire de reprendre la formulation d’Agathe devant les autres pour réparer l’erreur sur le carton."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe suspend l’identification du sachet abîmé et ajoute au carton un signe pour les informations à vérifier ; Camille met le sachet de côté.",
+        "next": "Les pois et les haricots restent dans la boîte bleue. Inès propose une présentation en classe ; Agathe n’a pas encore accepté."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "agathe-plan-sans-estrade",
+      "title": "Choisir comment participer devant la classe",
+      "description": "Invitée à présenter le jardin à toute la classe, Agathe propose une façon de garder sa place dans le projet.",
+      "context": "Le lendemain, juste après la récréation, dans la salle de CM2 de Mme Roussel.",
+      "topics": [
+        "Suivre plusieurs questions",
+        "Choisir sa façon de participer",
+        "Se mettre d’accord sur les rôles"
+      ],
+      "opening": "Le vendredi, Agathe ne rentra pas tout de suite après la sonnerie. Elle regarda si sa bille blanche avait roulé jusque sous le banc de la cour. Il ne lui en restait qu’une comme celle-là, avec une virgule rouge dedans. Elle la retrouva contre le pied du banc. Quand elle arriva dans la classe, Inès avait déjà posé le plan plié au bord du bureau de Mme Roussel. « Elle peut vous montrer », disait-elle. Agathe comprit que le « elle » était pour elle. Trois élèves rapprochaient déjà leurs chaises.\n\nElle avait apporté le carton pour que la classe décide ce qu’elle voulait laisser aux plus jeunes. Elle avait prévu de le faire passer de table en table. Au bureau, les questions commencèrent alors qu’elle dépliait encore la feuille : combien de sachets, pourquoi les pois et pas les radis, est-ce qu’ils ouvriraient le jardin dès septembre. Elle connaissait certaines réponses. Elle essaya de retrouver la première question et dut se tourner pour voir qui l’avait posée. Quelqu’un demanda si le carton allait servir pour les notes de fin d’année. La bille faisait un petit rond dans la poche de son short.\n\nMme Roussel leva la main pour faire cesser les questions. « Tu veux commencer, Agathe ? » Agathe remit le carton à plat. « Je veux le faire passer. On peut laisser les questions dessus. » Elle sortit les petits papiers qu’elle avait pris pour marquer les plis et les posa à côté. Inès lui fit une place entre deux trousses à leur table. Agathe y revint avec le plan.",
+      "sections": [
+        {
+          "heading": "Changer la façon de participer",
+          "text": "Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail. L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent. Sur le banc du jardin, Agathe avait le sachet en main et parlait à une camarade. En classe, ses interlocuteurs passent d’un sujet à l’autre avant qu’elle ait commencé. En demandant à faire circuler le plan, elle garde sa responsabilité dans le projet. Ce refus de commencer devant la classe indique quel échange elle choisit ce jour-là ; il ne prédit pas ce qu’elle pourra dire au prochain rendez-vous."
+        },
+        {
+          "heading": "Un support commun pour le groupe",
+          "text": "Mme Roussel peut faire circuler le carton et recueillir les questions sur des papiers que le groupe regardera ensuite. Une question dictée à un camarade ou un point posé sur le plan peuvent convenir à ceux qui préfèrent s’exprimer ainsi. La classe a une décision à prendre, ce qui donne un but à l’échange au-delà de la présentation. Demander en privé ce qu’Agathe veut montrer et ce qu’elle souhaite confier à Inès laisse ouverte la répartition des rôles. L’enseignante peut organiser la discussion et limiter les interruptions sans commenter le diagnostic devant les élèves. À la prochaine séance, elle pourra aussi demander ce qu’il faut garder du dispositif et ce qui a empêché certaines personnes de s’exprimer."
+        }
+      ],
+      "ending_title": "Sur le pli du carton",
+      "ending": "Le premier papier demandait si les nouveaux pourraient semer des fleurs. Agathe n’avait pas pensé que ce serait à eux de choisir. Elle plaça le papier au milieu du carton plutôt que dans la marge réservée aux questions à régler. Le second proposait d’écrire quand semer les pois. Inès lui demanda à voix basse si elle avait eu tort de poser la feuille sur le bureau. « La poser, ça va. Tu me demandes avant de dire que je vais parler. » Inès hocha la tête. Agathe décida d’emporter une copie du plan à son rendez-vous d’orthophonie. Elle voulait parler d’un problème plus précis que « je n’aime pas parler devant la classe » : comment demander qu’on reprenne une seule question.",
+      "mirror": [
+        "Quand plusieurs élèves interrogent Agathe à la fois, l’enseignante peut prendre en charge les tours de parole : « On garde vos questions. Agathe, tu préfères en prendre une ou faire passer ton carton d’abord ? » Elle peut accepter un report et revenir au choix avec Agathe à un moment calme. Pour Inès, réparer l’annonce suffit : la prochaine fois, elle demande à Agathe quelle part de la présentation elle veut avant de proposer leurs noms."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe fait passer le plan et recueille des questions au lieu de commencer au bureau ; elle fixe avec Inès une limite pour les prochaines présentations.",
+        "next": "Les fleurs deviennent un choix possible pour les nouveaux. Agathe apporte la copie du plan à son rendez-vous pour discuter d’une façon de reprendre une question."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "agathe-laquelle-dabord",
+      "title": "Reprendre une question au cabinet d’orthophonie",
+      "description": "En orthophonie, Agathe choisit comment reprendre un échange quand les questions se succèdent trop vite.",
+      "context": "Au rendez-vous d’orthophonie déjà prévu, après la présentation en classe.",
+      "topics": [
+        "Distinguer comprendre et dire",
+        "Reformuler une question",
+        "Choisir ce qu’on partage"
+      ],
+      "opening": "Le fauteuil à côté de la fenêtre grinçait quand on se penchait. Agathe laissa son sac par terre et s’assit à l’autre bout de la table, sur la chaise qui ne faisait aucun bruit. Elle avait apporté une copie du carton et trois petits papiers. Celui sur les fleurs dépassait du pli. Elle en sortit un autre, sur lequel quelqu’un avait écrit : « Il est où le panier après ? » Après quoi, Agathe l’ignorait. La question lui avait encore paru incomplète le matin même.\n\nL’orthophoniste lui demanda par quel papier elle voulait commencer. Agathe aligna les trois et essaya de raconter le moment devant le bureau. « Quand ça va vite, je sais plus laquelle c’était. » Elle mit de côté le papier du panier et en prit un autre. « Et celle-là, je pouvais dire où. Mais j’avais pas l’endroit dans la tête. Enfin le mot. » Elle montra du doigt le petit trait noir qu’elle avait tracé pour l’étagère. L’orthophoniste attendit. Agathe finit par dire « à côté de la ficelle » et se renversa sur sa chaise. Cette question-là, elle voulait bien la reprendre.\n\nElles imaginèrent la même scène en laissant les questions sur la table. Quand l’orthophoniste en tendit deux, Agathe en repoussa une du bout de l’ongle : « Une d’abord. » Puis elle posa le doigt sur le portillon et fit le chemin jusqu’à la boîte. « Si je peux voir, après je peux te dire ou te montrer. » L’orthophoniste lui demanda si elle voulait noter ces mots pour les retrouver à l’école. Agathe prit un papier vierge et écrivit « laquelle d’abord ? » ; le reste, elle voulait l’essayer à voix haute.",
+      "sections": [
+        {
+          "heading": "Décrire ce qui a demandé du travail",
+          "text": "Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile. Agathe décrit deux difficultés à sa manière. Une question lui parvient sans qu’elle puisse identifier ce que « après » désigne : pour répondre, il faut d’abord savoir ce que l’autre demande. Pour une autre question, elle se représente l’endroit et peine à en dire le nom. On distingue ainsi le versant réceptif, qui concerne notamment la compréhension, du versant expressif, qui concerne la production d’un message. Cette distinction aide à chercher un appui approprié. Le profil d’Agathe s’apprécie dans la durée en orthophonie et dans son parcours de soins ; le jeu des trois papiers ne détermine pas un sous-type du trouble."
+        },
+        {
+          "heading": "Revenir à ce qu’on peut essayer",
+          "text": "L’objectif de cette séance se construit avec Agathe à partir de ce qui lui est utile au quotidien. Elle veut pouvoir signaler qu’elle a perdu la question, puis répondre par une phrase ou en montrant un trajet. À son prochain rendez-vous, elle pourra dire si elle a utilisé sa demande, si quelqu’un l’a entendue ou si elle a choisi autre chose. L’orthophoniste peut reprendre ce retour pour ajuster le travail avec elle. À l’école, l’adulte peut annoncer « une question d’abord », laisser le support à portée et faire une pause. Le dessin du jardin appartient toujours à Agathe et à sa classe. Il a sa propre fonction : aider d’autres élèves à retrouver des graines."
+        }
+      ],
+      "ending_title": "Le papier dans la poche de devant",
+      "ending": "La mère d’Agathe attendait près du porte-manteau. L’orthophoniste demanda à Agathe ce qu’elle voulait lui dire de la séance. Agathe lui donna le papier « laquelle d’abord ? » et garda les trois autres dans le carton. Sa mère le lut et demanda si elle devait l’apporter à la réunion de l’école. « Je le garde. Je leur montrerai si j’en ai besoin. » Elle rangea le papier dans la poche de devant. Dans l’escalier, elle sortit la copie pour lui montrer le chemin de la porte à la réserve. La boîte bleue y ressemblait à une tache grise. Quand sa mère lui demanda quel rectangle c’était, Agathe hésita elle aussi.",
+      "mirror": [
+        "À la sortie du rendez-vous, la mère d’Agathe peut demander : « Est-ce que tu veux que je retienne quelque chose pour l’école ? » Elle peut écouter une phrase choisie par Agathe et la laisser garder ses notes. Si les difficultés reviennent souvent ou changent de forme, elle peut en parler avec Agathe et l’orthophoniste. À la maison, demander de reprendre une question peut suffire pour l’échange en cours ; il n’y a pas à faire répéter toute la séance."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe essaye de sélectionner une question puis de montrer ou dire sa réponse ; elle garde son propre papier pour la réunion.",
+        "next": "Sa mère a vu une copie où la réserve devient difficile à distinguer. Agathe va vérifier ce problème de reproduction avant le passage de relais."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "agathe-la-copie-grise",
+      "title": "Quand un plan laisse place au malentendu",
+      "description": "À la photocopieuse, Agathe voit disparaître la couleur qui indiquait la réserve. Elle cherche un signe que d’autres pourront suivre.",
+      "context": "Au secrétariat de l’école, avec Inès, pour faire une copie que les futurs jardiniers pourront garder.",
+      "topics": [
+        "Repères implicites",
+        "Malentendu entre lecteurs",
+        "Demander un retour précis"
+      ],
+      "opening": "La machine cracha la copie en faisant un bruit de moulin à café. Au secrétariat, Mme Sorel leur avait dit qu’elle pouvait faire deux copies avant la pile des menus. Agathe mit l’original à côté de la feuille fraîche : de près, le gris de la boîte ressemblait au gris du banc. Elle avait reconnu les contours dans l’escalier en sortant de chez l’orthophoniste parce qu’elle savait où chercher. Elle ne pouvait pas compter là-dessus pour les CM1.\n\nMme Sorel attendait près du bac de sortie. « Si je viens par la porte, je me mets où, pour lire ça ? » Agathe pointa le portillon. Mme Sorel posa son doigt sur l’autre rectangle. « Je croyais que c’était l’entrée. » Inès, qui allait répondre « mais non », se retint et regarda la feuille depuis l’autre côté. Elles avaient dessiné un rectangle avec des traits pour le portillon, un deuxième pour la porte du cabanon, et aucun des deux n’avait de nom. Agathe avait passé plus de temps à tracer les bords des parcelles qu’à penser à l’arrivée de quelqu’un qui ne connaissait pas le jardin.\n\nInès proposa de refaire la copie en couleur dans le bureau de la directrice. Agathe regarda la pile des menus. La couleur n’aiderait pas à choisir entre deux portes. Elle prit un feutre fin, ajouta « entrée du jardin » et reprit le bord de la boîte avec un petit fermoir carré. « On garde le bleu sur l’original. Sur le papier, on met le fermoir. » Elle demanda à Mme Sorel si elle pouvait essayer la feuille une seconde fois, sans que l’une d’elles lui souffle le chemin.",
+      "sections": [
+        {
+          "heading": "Quand l’information manque au document",
+          "text": "Un support visuel peut aider à suivre un message s’il donne les repères dont son lecteur a besoin. Un dessin trop semblable à l’objet voisin, ou une indication de lieu qui dépend de ce que l’on connaît déjà, peut faire hésiter n’importe qui. Le trouble développemental du langage d’Agathe rend certaines tâches de compréhension ou de formulation plus coûteuses. Il n’explique pas que Mme Sorel prenne un rectangle pour une autre porte. C’est le document commun qui laisse place à deux lectures. Relier le nom d’un lieu, son signe et sa position permet ici à Agathe et à Inès de revoir ce qu’elles ont laissé implicite."
+        },
+        {
+          "heading": "Demander où la lecture s’arrête",
+          "text": "Pour vérifier leur carte, les deux élèves peuvent demander à un lecteur de montrer le départ et de dire ce qu’il regarderait ensuite. L’adulte n’a pas besoin de corriger le carton ou la phrase d’Agathe : il peut signaler précisément les endroits où le choix se brouille. L’ASHA encourage à tenir compte de l’environnement de communication et des ressources de l’enfant ; l’essai à la photocopieuse en donne un exemple, sans présumer que ce dessin conviendra à tout le monde. Le prochain lecteur peut comprendre les deux portes et avoir du mal à faire correspondre la légende et les objets sur place. Agathe cherche une façon de s’en apercevoir assez tôt pour pouvoir encore modifier la feuille."
+        }
+      ],
+      "ending_title": "Un carré sur le couvercle",
+      "ending": "Mme Sorel posa son doigt sur les mots « entrée du jardin » puis retrouva la boîte sur la première copie annotée. Elle demanda si le fermoir était un cadenas. Au dos, Agathe fit une légende : le fermoir, le couvercle ouvert et le mot « réserve ». Inès se chargea de refaire la seconde copie avec les annotations sur les deux faces, pendant qu’Agathe ôtait les miettes de gomme du carton. Une pile de menus sortit de la machine juste après leur carte. Elles la laissèrent aux deux élèves venus la distribuer. Agathe remit une copie à Mme Roussel pour la réunion ; la seconde attendrait quelqu’un qui pouvait essayer le chemin dans le vrai jardin.",
+      "mirror": [
+        "Comme Mme Sorel, on peut montrer exactement où on a hésité : « Je vois deux portes sur ta feuille. Comment est-ce que je reconnais celle où je commence ? » Il est possible d’attendre qu’Agathe et Inès choisissent un nom ou un signe, puis de réessayer. Si l’on doit retourner à son propre travail, on peut indiquer ce qui reste à vérifier ; la personne qui prête la machine n’a pas à finir le plan."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe conserve la couleur sur l’original et rend l’entrée et la réserve reconnaissables en noir et blanc avec un nom et un signe.",
+        "next": "Mme Roussel reçoit une copie ; l’autre est destinée à un essai sur place. Il reste à convenir d’un créneau et des rôles."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "agathe-deux-creneaux",
+      "title": "Faire entendre ses préférences en réunion",
+      "description": "Pendant une réunion à l’école, Agathe choisit les aides qu’elle veut transmettre à Camille et garde une place pour les futurs jardiniers.",
+      "context": "Un vendredi après la classe, Agathe et sa mère rencontrent Mme Roussel pour faire le point avant la fin de l’année.",
+      "topics": [
+        "Prendre la parole en réunion",
+        "Choisir ce qu’on transmet",
+        "Convenir des appuis à l’école"
+      ],
+      "opening": "Les chaises des parents étaient si basses que la mère d’Agathe avait mis son sac sur ses genoux pour ne pas le laisser traîner. Mme Roussel avait ouvert un agenda et le carton du jardin occupait un coin du bureau. Elles parlaient des dernières semaines de CM2 et de ce qui avait aidé Agathe quand il fallait travailler à plusieurs. À côté de la règle de la maîtresse, Agathe apercevait sa carte grise, le petit fermoir bien noir. Elle avait envie de parler du jeudi avec les CM1. Les deux adultes en étaient encore à « la possibilité d’élargir les aménagements ».\n\n« Attends. Quels aménagements ? » Sa mère tourna la tête vers elle. Mme Roussel reprit : elle voulait savoir ce que les adultes de l’école pouvaient faire quand Agathe perdait le fil. Agathe sortit le papier de la poche de devant. Elle le laissa face contre la table et leur dit ce qu’il y avait dessus. Pour le jardin, elle voulait pouvoir reprendre une question à la fois. Et quand on changeait le programme, elle voulait voir ce qui passait en premier. Elle était d’accord pour que la maîtresse en parle à Camille. La feuille de l’orthophoniste dans le sac de sa mère, c’était autre chose ; elle demanda qu’elle reste dans le sac pour cette discussion.\n\nMme Roussel montra deux cases dans l’agenda : un petit essai jeudi et une présentation à la classe suivante plus tard. Agathe suivit les deux cases avec l’ongle. « Je voudrais qu’ils essayent avant qu’on mette les feuilles au propre. Deux élèves, ça suffit. »",
+      "sections": [
+        {
+          "heading": "Donner une place à l’avis de l’enfant",
+          "text": "Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre. Agathe sait expliquer ce qui s’est passé devant le bureau, mais le vocabulaire de la réunion lui échappe par moments. Demander à l’enseignante ce qu’elle entend par « aménagements » change la suite de la discussion. Sa mère peut apporter ce qu’elle observe et Mme Roussel parler de ce qu’elle peut organiser à l’école. Le suivi du langage continue avec l’orthophoniste, sans que la réunion décide à sa place de la suite des soins."
+        },
+        {
+          "heading": "Faire circuler ce qui permet d’agir",
+          "text": "Dans ce jardin, Camille a besoin de savoir comment rendre une consigne plus facile à reprendre et comment annoncer un changement. Les notes d’une séance d’orthophonie n’ont pas à circuler pour qu’elle fasse ces deux choses. Avant de transmettre une préférence, les adultes peuvent nommer le destinataire et expliquer ce qu’ils veulent lui dire. Agathe peut indiquer les mots qu’elle accepte ou en choisir d’autres. Pour distinguer l’essai du passage de relais, Mme Roussel et Agathe peuvent garder deux lignes dans l’agenda, avec pour chacune une date et une action. Il sera alors possible de déplacer l’une sans faire croire que l’autre a été annulée. Ce support aide à parler du programme commun ; il ne sert pas à mesurer le langage d’Agathe."
+        }
+      ],
+      "ending_title": "Un jeudi, puis un autre",
+      "ending": "Mme Roussel écrivit dans la première case « deux CM1 essayent la carte », puis dans la seconde « accueil de la classe au jardin ». Elle s’occuperait de demander à l’autre enseignante quels élèves pouvaient venir au premier essai et confirmerait le second créneau. Agathe demanda à voir la première ligne avant de partir ; elle la copia au dos de son plan. Sa mère rangea le dossier dans son sac. Sur le pas de la porte, elle demanda à Agathe si elle voulait rester cinq minutes pour reparler du collège. Agathe vérifia l’heure à l’horloge de la classe. « Pas aujourd’hui. On va au marché demain. Là, j’ai encore le temps de passer voir les pots sur le balcon. »",
+      "mirror": [
+        "Si la conversation entre adultes devient difficile à suivre, la mère d’Agathe peut s’arrêter sur une seule question : « Pour le jardin, qu’est-ce que tu voudrais qu’on dise à Camille ? » Elle peut reformuler ensuite la réponse et attendre la confirmation d’Agathe. Pour une question de soin ou de document scolaire, elle peut demander au professionnel concerné qui a besoin de quelle information. Au jardin, des indications pratiques peuvent déjà permettre de préparer la prochaine séance."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe autorise le partage de deux préférences avec Camille et choisit un petit essai avant la présentation. Elle ne confie pas la feuille de séance.",
+        "next": "L’enseignante organise deux créneaux distincts avec les CM1. Agathe garde le premier au dos du plan et veut choisir ses propres fleurs au marché."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "agathe-la-place-au-soleil",
+      "title": "Demander ce qu’un mot veut dire au marché",
+      "description": "Au marché, Agathe veut choisir ses propres fleurs. Un mot nouveau la fait hésiter entre deux sachets.",
+      "context": "Le samedi, au marché, avec sa mère ; les pots du balcon ne font pas partie du projet de l’école.",
+      "topics": [
+        "Comprendre un mot nouveau",
+        "Demander une précision",
+        "Garder la main sur son choix"
+      ],
+      "opening": "Agathe avait mesuré la place au soleil avec sa chaussure. Deux chaussures et demie entre le pied de la chaise pliante et la rambarde. Elle voulait y mettre un pot de fleurs et garder assez de place pour que sa mère puisse encore s’asseoir dehors. Au marché, sur le bord d’une table, il y avait deux sachets de capucines. Sur l’un, les fleurs descendaient en cascade le long d’un mur en briques. Sur l’autre, elles formaient une tache orange contre une étiquette blanche. L’image du mur était sa préférée.\n\nLe marchand lui dit que les premières étaient « grimpantes » et les autres « naines ». Elle comprenait le premier mot à cause du mur. Elle regarda la tache orange et essaya de voir si le second parlait de la fleur ou de la plante entière. Une personne posa trois bottes de menthe à côté de son coude et demanda le prix. Sa mère prit le sachet avec le mur et commença : « On pourrait prendre... » Agathe retint le coin du papier. « Attends, je veux savoir. » Sa mère le reposa.\n\nQuand le marchand eut rendu sa monnaie, Agathe rapprocha les deux sachets. « Ça prend de la place comment, celui-là ? Je veux encore mettre la chaise. » Elle écarta les mains pour montrer le pot. Le marchand fit un geste vers les pots de présentation : une plante compacte ressemblait à ce qu’elle pouvait mettre dans son coin. Agathe regarda une dernière fois le mur en briques. Elle tendit l’autre sachet et demanda combien elle devait.",
+      "sections": [
+        {
+          "heading": "Apprendre un mot dans une situation qui compte",
+          "text": "Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte. Agathe a ici une question précise : quelle place la plante occupera-t-elle ? Les deux photos donnent des indices, et le marchand rattache les mots à des formes visibles. La difficulté à comprendre un terme spécialisé est aussi très ordinaire. Le marché ne donne aucune information diagnostique nouvelle sur Agathe. Il montre ce qui change dans cet échange quand elle peut demander le renseignement dont dépend sa décision."
+        },
+        {
+          "heading": "Aider à obtenir une réponse sans choisir",
+          "text": "La mère d’Agathe sait qu’elles cherchent un sachet pour un espace étroit. Si la file presse, elle peut garder leur place ou proposer de poser la question ensemble. Le marchand est celui qui connaît ses produits ; il peut montrer une différence et vérifier de quel pot il est question. Agathe, elle, sait ce qui compte sur son balcon. Le même partage des rôles lui servira pour le plan scolaire : elle peut nommer un sachet disponible ou montrer la réserve, tandis que la classe suivante décidera de ce qu’elle voudra essayer. Une explication claire aide à faire un choix. Elle ne garantit pas que la personne choisira ce que celui qui l’aide aurait choisi."
+        }
+      ],
+      "ending_title": "Un sachet pour chez elle",
+      "ending": "À la maison, Agathe posa le sachet de capucines près du pot vide, sans le glisser dans son sac d’école. Sa mère ouvrit la chaise et fit mine de déplier aussi ses jambes jusqu’à la rambarde. Agathe la poussa d’un pied et elles trouvèrent de la place. Le soir, elle ressortit la question sur les fleurs qui venait du carton de la classe. Elle avait d’abord prévu de répondre « capucines » parce qu’elle venait d’en choisir pour chez elle. Elle prit plutôt un deuxième papier : « Où vous voulez des fleurs ? » Elle le fixa derrière la carte grise, pour les deux élèves du jeudi. Avec un emplacement, ils pourraient expliquer ce qu’ils imaginaient avant de parler des sachets.",
+      "mirror": [
+        "Au marché, la mère d’Agathe peut garder le sachet sur la table : « Tu veux poser ta question ou tu veux qu’on la pose ensemble ? » Si Agathe prend la parole, elle la laisse aller au bout, même si elle connaît déjà sa préférence. Si le marchand repart vers la file, elle peut demander s’il sera disponible après. Elle aide ainsi Agathe à obtenir l’information ; le choix des fleurs peut rester entre les mains d’Agathe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe demande elle-même ce que les mots des sachets changent pour son balcon, puis choisit ses capucines.",
+        "next": "Le sachet reste à la maison. Pour l’essai à l’école, Agathe demande aux deux CM1 où ils voudraient des fleurs avant d’imaginer une variété à leur place."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "agathe-le-plan-a-lenvers",
+      "title": "Reformuler un trajet pour les nouveaux jardiniers",
+      "description": "Deux CM1 essaient la carte au jardin. Agathe doit décider quand les laisser chercher et quand leur proposer un point de départ.",
+      "context": "Le jeudi suivant, premier essai au jardin. Mme Roussel a convenu du créneau avec la classe de CM1 ; Camille accueille le groupe.",
+      "topics": [
+        "Prendre le point de vue du lecteur",
+        "Reformuler par l’exemple",
+        "Laisser l’autre chercher"
+      ],
+      "opening": "Sami et Lila arrivèrent avec deux minutes de retard parce qu’ils avaient remis leurs chaises sous leur table. Au portillon, Camille indiqua le banc. « Aujourd’hui, on cherche d’abord la réserve. Après, on parle des fleurs. » Elle montra les deux lignes que Mme Roussel lui avait transmises et attendit que chacun se rapproche. Agathe tendit la copie grise aux CM1. Lila la prit comme on prend une serviette à déplier, un coin dans chaque main. Sami désigna le fond de l’allée en face du portillon. Ils n’avaient pas choisi la bonne direction.\n\nAgathe se mordit le bout de la langue. Elle avait envie de dire « tourne à gauche, après le banc », puis elle vit que Sami s’était tourné pour lui parler. Sa gauche à lui venait de changer. « Attends, je te montre mon départ. » Elle posa son doigt sur « entrée du jardin » et fit pivoter la feuille pour que le banc dessiné soit du même côté que le vrai. « Je suis ici. Là, je vois le banc. Après je cherche la porte du cabanon. Toi, tu irais où ? » Sami indiqua le chemin du bout de sa botte. Lila partit devant, la feuille à plat dans ses mains.\n\nPrès du cabanon, Lila retourna la page pour retrouver le fermoir dans la légende et perdit de nouveau le sens du dessin. « On pourrait mettre le signe sur le devant ? » Agathe sortit son crayon. Elle le lui tendit pour qu’elle marque l’endroit où son regard s’arrêtait.",
+      "sections": [
+        {
+          "heading": "Reprendre avec ses propres repères",
+          "text": "Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes. Agathe préfère montrer l’endroit qu’elle a compris et dire ensuite ce qu’elle ferait. Cette fois, elle utilise cette manière de faire pour donner un départ à Sami. Son trajet n’a pas besoin d’être décrit d’un seul souffle : il devient possible de comparer un lieu réel, un dessin et un geste. Le premier essai des deux CM1 ne renseigne pas sur leur langage. Le plan ne disait pas comment se placer ; ce manque suffit à expliquer qu’on parte ailleurs."
+        },
+        {
+          "heading": "Voir ce que fait l’autre du message",
+          "text": "Au lieu de répéter le trajet plus fort, on peut convenir d’un point de départ et demander à l’autre ce qu’il voit ou ce qu’il ferait ensuite. S’il part dans une autre direction, on apprend quelque chose sur le message qu’il a reçu. Le retour peut se faire par un déplacement, une indication du doigt ou une phrase. Camille peut s’occuper de l’accès au cabanon pendant que les enfants examinent la carte. En laissant Lila placer son repère, Agathe découvre aussi ce que le lecteur doit retrouver sans retourner la page. C’est un essai de terrain qui fait évoluer leur outil commun. Il ne demande à personne de réciter la consigne devant le groupe."
+        }
+      ],
+      "ending_title": "La légende au bord du banc",
+      "ending": "Lila dessina un fermoir et écrivit « réserve » dans la marge, à la hauteur du cabanon. Camille ouvrit la porte et Sami montra la boîte à côté de la ficelle. Agathe pouvait maintenant sortir la question des fleurs. Sami voulait les voir depuis le banc ; Lila préférait un coin qui laisserait le passage libre. Elle dessina une étoile au pied de la clôture et Sami en mit une près du banc. Agathe ne gomma aucune des deux. De retour en classe, Inès voulait savoir si le plan avait marché. Agathe lui montra les traits de Lila et les deux étoiles. Il faudrait expliquer à leurs camarades comment ils en étaient arrivés là, avant de recopier tout cela.",
+      "mirror": [
+        "Quand Sami regarde la mauvaise allée, Camille peut poser une question sur le support : « Qu’est-ce qui vous indique où on commence ? » Elle laisse les enfants chercher et peut proposer un point de départ si la situation se bloque. À Agathe, elle peut demander : « Tu veux montrer ton premier repère ? » Attendre la réponse laisse à Agathe le choix d’intervenir et aux deux lecteurs une part de la recherche."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe montre comment elle aligne le plan avec le jardin et laisse Sami et Lila indiquer le chemin, puis marquer eux-mêmes leurs idées.",
+        "next": "Les deux CM1 trouvent la réserve après le premier exemple. La légende va sur le devant ; les deux idées pour les fleurs seront transmises comme des propositions."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "agathe-ce-qui-sest-passe-au-banc",
+      "title": "Raconter l’essai du jardin à ceux qui n’étaient pas là",
+      "description": "Pour garder une trace de l’essai, Agathe et Inès doivent expliquer ce qui a changé sur la carte et pourquoi.",
+      "context": "En classe, le lendemain de l’essai. Les CM2 complètent le plan et préparent un texte pour le classeur du jardin.",
+      "topics": [
+        "Organiser un récit",
+        "Clarifier de qui on parle",
+        "Écrire avec une camarade"
+      ],
+      "opening": "Dans le cahier des sorties, Mme Roussel avait laissé une page en face de la photo du jardin. Elle voulait que les CM2 racontent ce qui s’était passé quand deux CM1 avaient essayé la carte. Inès avait déjà tracé une ligne sous le titre. Agathe regarda les trois modifications qui occupaient maintenant sa feuille : le départ depuis le portillon, le fermoir en marge, les deux étoiles au crayon. Elle savait montrer chacune. Pour raconter comment elles étaient apparues, il fallait faire passer le lecteur par le portillon avec eux.\n\nElle essaya de dicter une phrase à Inès : « Quand elle a tourné, c’était plus du même côté, alors elle l’a mis devant. » Inès leva son crayon. « La porte ? » Agathe regarda l’endroit où Lila avait fait son carré. Dans sa tête, il y avait la feuille qui tournait entre deux mains et le banc derrière elles. Sur le cahier, il y avait « elle », « ça » et une seule place pour écrire une deuxième phrase sans dépasser du cadre. Agathe se rendit compte qu’elle avait sauté le moment où Lila avait perdu son chemin dans le dessin.\n\nElle posa le plan sur le cahier et prit deux papiers. Sur le premier, elle dessina Lila tenant le plan de dos. Sur le second, la même feuille avec le signe du fermoir devant. « On pourrait écrire sous les deux, comme des photos. Je veux garder pourquoi elle l’a changé. » Inès déplaça sa règle pour leur faire de la place.",
+      "sections": [
+        {
+          "heading": "Rendre une suite d’événements compréhensible",
+          "text": "Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux. Agathe a des images assez nettes pour reprendre les gestes de Lila. Ce qui lui demande plus de travail est de les transformer en un récit qui donne ces images au lecteur. Les besoins varient selon les tâches ; être à l’aise pour décrire un repère avec le plan devant soi ne dit pas comment on racontera l’essai le lendemain. Les professionnels peuvent examiner ces différences quand elles gênent les apprentissages. Le texte de classe est une occasion d’essayer une autre forme de récit, sans en tirer de bilan."
+        },
+        {
+          "heading": "Écrire autour des moments utiles",
+          "text": "Mme Roussel peut rappeler ce que la page doit faire comprendre : d’abord le moment où Lila perd le sens de la carte en la retournant, puis la modification qu’elle propose. Deux petites scènes mises dans l’ordre et accompagnées d’une légende peuvent garder ce lien. Agathe choisit ce qu’elle veut dire dans la légende. Inès peut tenir le crayon ou demander qui a tourné la feuille si c’est encore ambigu. Agathe peut lire, dicter, montrer ou demander un exemple de légende. Ces options portent sur la façon d’écrire une page commune. Le travail plus spécifique sur l’organisation du langage, s’il est utile pour elle, se discute avec son orthophoniste."
+        }
+      ],
+      "ending_title": "Deux dessins et une cause",
+      "ending": "Agathe écrivit sous le premier dessin : « Lila retourne la feuille pour voir le signe. » Inès nota sous le second, après lui avoir relu la phrase : « Le signe est devant : on garde la feuille dans le même sens. » Le cadre était trop petit pour les deux étoiles. Agathe les mit dans une autre case, avec une question pour la classe qui reprendrait le jardin. La page pouvait désormais rejoindre les copies du plan. Mme Roussel leur confirma que les CM1 devaient venir le jeudi suivant, en deux groupes. Agathe rentra avec les deux dessins dans son sac pour les recopier au propre. La pluie commençait à piquer le papier qu’elle avait laissé dépasser.",
+      "mirror": [
+        "Quand Inès ne sait pas à quoi renvoie « elle », elle peut dire : « J’ai perdu de vue qui tient la feuille. Tu me montres ? » Elle peut écrire après avoir vérifié le sens de la phrase, si Agathe veut bien lui confier le crayon. L’enseignante peut aussi aider à choisir deux moments à raconter. On garde l’objectif commun : écrire un souvenir que les prochains jardiniers pourront comprendre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe choisit deux légendes illustrées pour garder la cause de la modification. Elle sépare les deux lieux possibles pour les fleurs de ce qui a déjà été décidé.",
+        "next": "Le plan corrigé et la page doivent accompagner la visite du jeudi, prévue en deux groupes. La pluie commence à compromettre la visite sur place."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "agathe-un-jeudi-sous-toit",
+      "title": "Retrouver ses repères quand la visite change de lieu",
+      "description": "La pluie ferme le jardin pour la visite. Agathe revoit avec Inès la part de la présentation qu’elle veut garder.",
+      "context": "Mercredi, à la fin de la récréation. Après plusieurs averses, Camille suspend la visite du jardin prévue le lendemain.",
+      "topics": [
+        "S’ajuster à un imprévu",
+        "Relire pour retrouver le fil",
+        "Choisir le rôle qu’on garde"
+      ],
+      "opening": "Depuis la cour, Agathe voyait que l’eau était passée par-dessus la bordure de la première parcelle. Camille avait mis un écriteau au portillon : pour la visite de jeudi, les élèves resteraient à l’intérieur. Les deux groupes devaient entrer par le banc, se croiser au milieu et ressortir par la même porte. Agathe avait dessiné son propre trajet sur un coin du plan. En classe, Mme Roussel leur annonça la solution : la salle de lecture était libre, mais seulement au début du créneau ; on montrerait le plan à tous en même temps, quitte à faire circuler le matériel ensuite, tandis que Camille s’occuperait de la boîte.\n\nAgathe nota « tous » sur son cahier, puis « Camille », sans retrouver ce que Camille ferait. La maîtresse avait déjà commencé à parler du nombre de chaises. Inès leva les yeux et poussa vers elle le plan, sans dire qu’elle prendrait la parole à sa place. Agathe leva la main. « Pour demain, on change juste le lieu ? » Mme Roussel regarda le cahier. Elle prit une feuille et écrivit les deux moments : jeudi, plan dans la salle de lecture ; dès que le jardin rouvre, essai sur place. Camille apporterait la boîte pour que les CM1 sachent quoi chercher au cabanon.\n\nAgathe barra son trajet sur le coin du plan. « Je peux dire où on part. Après, je veux qu’ils mettent les sachets sur la carte. » Inès lui demanda si elle pouvait s’occuper de distribuer les copies. Agathe lui passa la pile.",
+      "sections": [
+        {
+          "heading": "Ce qui change quand le contexte change",
+          "text": "Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront. Elle retient deux mots et ne parvient pas à les relier tout de suite. Le changement de lieu explique une partie de l’effort : elle ne peut plus regarder le banc pour imaginer l’arrivée. Les appuis essayés au cabinet ou au jardin restent des possibilités. C’est à l’école de les adapter à cette nouvelle annonce avec Agathe et les autres élèves."
+        },
+        {
+          "heading": "Remettre les décisions dans l’ordre",
+          "text": "On peut d’abord rendre la décision de Camille explicite : le jardin est fermé pour cette visite. Puis indiquer ce qui aura lieu et ce qui attendra, sur deux lignes que tout le groupe pourra relire. Agathe peut demander quel matériel sera présent et quel rôle elle peut encore avoir. Inès peut proposer de distribuer les feuilles ou de reprendre une partie de la présentation, en laissant Agathe dire ce qu’elle préfère garder. Mme Roussel et Camille choisissent et annoncent un lieu praticable ; les élèves n’ont pas à rattraper le programme en entrant dans le jardin fermé. L’objectif peut rester de laisser aux CM1 une carte et une décision à prendre."
+        }
+      ],
+      "ending_title": "Le portillon sur la table",
+      "ending": "À la salle de lecture, Mme Roussel déplaça une pile de revues pour libérer une table. Agathe choisit une place pour le grand plan et marqua le départ d’un petit morceau de carton debout. « Le portillon », dit-elle à Inès, qui le regarda de travers. Agathe inclina le carton : maintenant on pouvait voir les barreaux. Elles convinrent qu’Inès distribuerait les copies, que Camille montrerait la boîte et qu’Agathe commencerait le trajet. Quand les questions viendraient, elles poseraient la question des fleurs à côté du plan. Avant de fermer son sac, Agathe glissa son petit papier « laquelle d’abord ? » dans la poche de devant.",
+      "mirror": [
+        "Au moment de changer le programme, Mme Roussel peut demander : « Je te montre ce qu’on fait demain. De quelle partie tu veux encore t’occuper ? » Elle peut laisser Agathe relire la feuille avant de répartir les rôles. Inès peut proposer sa propre aide sans annoncer la réponse d’Agathe. Si Agathe préfère décider plus tard, l’enseignante peut fixer un moment court pour y revenir et donner au groupe la suite pratique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe clarifie le changement et garde l’ouverture du trajet. Inès distribue les copies et Camille apporte la boîte pour l’essai sur table.",
+        "next": "Jeudi, toute la classe de CM1 verra le plan en salle de lecture. L’essai sur place est reporté à la réouverture du jardin."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "agathe-une-question-sur-la-table",
+      "title": "Garder le fil des questions devant les CM1",
+      "description": "Devant les CM1, Agathe choisit ce qu’elle dit, reprend une question et laisse les nouveaux élèves proposer leurs propres choix.",
+      "context": "Jeudi, dans la salle de lecture. Inès distribue les copies ; Camille a apporté la boîte bleue.",
+      "topics": [
+        "Demander de reprendre une question",
+        "Partager les tours de parole",
+        "Laisser une décision ouverte"
+      ],
+      "opening": "Le morceau de carton tint debout jusqu’à ce qu’un élève ouvre la fenêtre. Il glissa sous la boîte bleue et Agathe dut le récupérer par un barreau dessiné. Les CM1 faisaient presque tout le tour de la table. Sami et Lila se regardaient de chaque côté du plan. Ils connaissaient déjà le trajet dans le vrai jardin. Agathe remit le portillon à sa place. « On part de là. Je vous montre avec mon doigt. » Elle suivit le banc et le bord du cabanon. Puis elle demanda à Sami d’essayer avec un sachet fermé.\n\nSami prit les pois. Une élève demanda si tous les sachets de la boîte étaient pour la rentrée. Quelqu’un montra une étoile et demanda si le banc allait changer de place. Agathe ouvrit la bouche pour dire « il est au même endroit » ; elle avait déjà perdu le fil de la première question. Elle chercha son papier dans la poche, le trouva du côté plié et le laissa où il était. « Attends, je prends celle des sachets. Tu peux la redire ? » Camille fit signe au groupe d’attendre. La première élève reprit. Agathe approcha la boîte. « Les deux, c’est pour vous. Pour savoir quand les semer, vous regarderez avec Camille ce qu’il y a écrit dessus. » Les étoiles, elle y reviendrait.\n\nQuand vint la question des fleurs, elle poussa le feutre vers les CM1. Une élève demanda si on pouvait garder le coin du banc libre pour s’asseoir avec un arrosoir entre les pieds. Agathe regarda le dessin. C’était la première proposition qui ne demandait pas de planter quelque part.",
+      "sections": [
+        {
+          "heading": "Répondre à la question qu’on a retrouvée",
+          "text": "Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble. Elle perd le début de la discussion et l’autre question prend la place de celle qu’elle voulait traiter. Elle choisit de revenir aux sachets, fait redire la question et s’appuie sur la boîte. Le langage réceptif et le langage expressif sont tous deux sollicités par cet échange. Ce qui a fonctionné dans cette salle dépend aussi de Camille, qui laisse le temps nécessaire, et de l’élève, qui accepte de reprendre."
+        },
+        {
+          "heading": "Donner la parole et laisser le résultat ouvert",
+          "text": "On peut se mettre d’accord sur une question à la fois et donner aux autres un endroit où garder la leur. S’ils sont plusieurs à vouloir parler, l’adulte peut organiser l’ordre sans répondre pour l’enfant qui présente. Sur le plan, Agathe peut ensuite montrer les étoiles comme des propositions. Le groupe peut marquer un point qu’il veut vérifier plutôt que de trancher tout de suite. Le but de cette transmission est que la classe suivante dispose d’assez d’informations pour agir et puisse dire ce qui ne lui convient pas. Agathe gardera la possibilité de répondre autrement lors d’un prochain échange, y compris de montrer sans parler si c’est ce qu’elle préfère."
+        }
+      ],
+      "ending_title": "Le banc reste libre",
+      "ending": "Sami posa le sachet de pois au bord du carré qui représentait la réserve. Agathe revint à la question du banc et le montra du doigt. « On le laisse ici. » Lila approcha la question sur les fleurs du dessin de la clôture. Sami ajouta un petit trait près du banc pour le passage, puis dit qu’on pouvait laisser cette étoile sans planter là. Agathe écrivit « à décider dehors » sous les deux propositions. La classe garda une copie et les deux sachets retournèrent dans la boîte que Camille emportait. Si l’allée séchait, deux volontaires pourraient aller chercher la boîte avec elle au dernier atelier. Lila se proposa. Nora, qui n’avait encore rien dit, leva la main. Agathe replia la carte originale.",
+      "mirror": [
+        "Quand Agathe demande de reprendre la question des sachets, Camille peut dire au groupe : « On prend celle-ci, ensuite on revient au banc. » Elle peut redonner le tour à l’élève qui posait la question et attendre qu’Agathe choisisse comment répondre. Si Agathe décide de passer son tour, Camille peut convenir avec elle de la façon de continuer. À cet instant, garder l’ordre des échanges est déjà une aide concrète."
+      ],
+      "sources": [
+        "oms-cddr",
+        "asha-langage-oral",
+        "has-tsla"
+      ],
+      "continuity": {
+        "choice": "Agathe présente le départ, reprend une seule question et laisse aux CM1 une décision à vérifier dehors sur les fleurs.",
+        "next": "La classe a une copie. Lila et Nora se proposent pour l’essai sur place si Camille peut rouvrir le jardin ; les pois et haricots restent en réserve."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "agathe-la-carte-reste-au-jardin",
+      "title": "Laisser les nouveaux jardiniers décider",
+      "description": "Lila et Nora retrouvent la boîte sans suivre Agathe. Elles inscrivent leur premier choix sur un plan qui va devenir celui de leur classe.",
+      "context": "Dernier atelier de l’année, le jeudi suivant. Camille a rouvert l’allée après l’avoir vérifiée.",
+      "topics": [
+        "Laisser les suivants agir",
+        "Demander une précision",
+        "Passer à son propre projet"
+      ],
+      "opening": "Au portillon, Agathe attendit que Nora sorte la copie de sa pochette. En salle de lecture, Nora avait vu le doigt d’Agathe suivre le trajet. Elle n’avait encore jamais fait le chemin. Elle tint la feuille de biais pour mettre le banc du bon côté. Lila indiqua le fermoir à même la page et Camille ouvrit le cabanon. Agathe resta près de la porte. Elle vit Nora chercher sur l’étagère basse, dépasser le rouleau de ficelle, puis revenir jusqu’au métal bleu. La boîte frotta sur le bois quand Nora la tira. Les deux sachets étaient encore là. Agathe se demanda si elle devait leur dire qu’on pouvait les mettre debout. Nora venait de le faire.\n\nSur le banc, elles examinèrent les deux étoiles. Lila s’assit avec l’arrosoir et Nora essaya de passer. Il fallut que Lila rentre les genoux. Elles décidèrent de proposer le coin de la clôture pour les fleurs, avec une question à vérifier à la rentrée : combien de place y aurait-il quand tout le monde serait là ? Nora allait barrer l’autre étoile. Agathe lui proposa d’écrire « passage » dessus, pour qu’on sache pourquoi elles la laissaient libre.\n\nCamille leur annonça qu’on pouvait mettre la feuille dans le classeur du cabanon avant de rentrer, sauf si les CM1 voulaient la reprendre pour en parler cet après-midi. Agathe avait suivi « classeur » et perdu la fin. « La feuille reste ici aujourd’hui ? » demanda-t-elle. Nora leva la pochette. « Celle-là, je l’emmène en classe. » Agathe sortit l’original de son sac. « Alors celle-ci reste ici. »",
+      "sections": [
+        {
+          "heading": "Ce que montre une passation réussie",
+          "text": "Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas. Agathe reprend une question quand Camille parle du classeur et de la copie dans la même phrase. Dans le trouble développemental du langage, les points d’appui et les difficultés peuvent évoluer, et ce qui demande un effort varie selon les situations. Le résultat de cet atelier concerne le projet : les nouvelles jardinières savent où commencer et peuvent modifier la carte. Il ne mesure ni le langage d’Agathe ni la suite dont elle aura besoin en orthophonie."
+        },
+        {
+          "heading": "Laisser les suivants se servir du plan",
+          "text": "Garder une version au jardin et une autre en classe permet aux nouveaux élèves de vérifier un choix dans les deux lieux. Le détail « passage » est utile parce qu’il explique une décision que quelqu’un d’autre pourra revoir. Agathe peut convenir avec Nora de ce qui restera dans le classeur, puis la laisser expliquer sa proposition sans lui demander de suivre exactement sa présentation. De la même manière, les appuis utiles à Agathe pourront être revus dans les situations nouvelles. L’équipe éducative peut écouter ce qu’elle veut conserver, et l’orthophoniste discuter avec elle des besoins de communication qui se présentent. Agathe n’a pas à emporter toutes les tâches du jardin avec ces préférences."
+        }
+      ],
+      "ending_title": "Un dernier tour de banc",
+      "ending": "Agathe glissa le carton original et la page aux deux dessins dans le classeur. Elle vérifia que son papier « laquelle d’abord ? » était encore dans sa poche. Lila écrivait « passage » sur sa copie sans demander où mettre les lettres. Inès attendait Agathe près de la cour. Agathe fit un dernier tour de banc, juste pour voir l’étoile depuis l’entrée, puis la rejoignit. Elle sortit sa bille blanche avec la virgule rouge : il leur restait le temps d’une partie. En rentrant, elle déplacerait son propre pot vers la rambarde. Pour ses capucines, le plan tenait dans deux chaussures et demie et la place d’ouvrir une chaise.",
+      "mirror": [
+        "Camille peut constater ce que les élèves savent maintenant faire : « Vous avez trouvé la réserve. Qu’est-ce que vous voulez noter pour votre classe ? » Si Agathe demande laquelle des feuilles reste au jardin, Camille peut désigner chacune et reprendre une étape à la fois. Plus tard, un autre adulte peut lui demander quels appuis elle veut retrouver dans son nouvel établissement. La fin du projet donne le droit de passer à autre chose, y compris quand certains besoins restent présents."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-tsla",
+        "asha-langage-oral"
+      ],
+      "continuity": {
+        "choice": "Agathe laisse l’original au jardin et la copie annotée aux CM1. Nora et Lila ont retrouvé la réserve et proposent la clôture en gardant libre le passage.",
+        "next": "La transmission est faite et la future classe décidera des fleurs. Agathe passe à son pot de capucines ; ses appuis pourront être revus avec elle à la rentrée."
+      }
+    }
+  ]
+}

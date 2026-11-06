@@ -1,5 +1,5 @@
 ---
-title: Ce que Fatou peut mettre dans l’invitation
+title: 'Confidentialité : ce que Nour choisit de dire aux voisins'
 description: Fatou prépare l’annonce. Nour souhaite expliquer les choix de trajet
   et de pause et garder son diagnostic hors du message de quartier.
 slug: nour-annonce-confidentialite
@@ -11,8 +11,8 @@ contexte: Chez Fatou, pendant la préparation de l’invitation aux voisins
 tags:
 - TSA
 - Confidentialité
-- Choisir ce qu’on partage
-- Décrire une possibilité d’accès
+- Choix de parler de soi
+- Expression de ses besoins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

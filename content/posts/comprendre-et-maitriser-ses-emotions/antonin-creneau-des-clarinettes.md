@@ -1,5 +1,5 @@
 ---
-title: Le mardi que prend Eva
+title: Confier une tâche à Eva malgré la crainte d’un oubli
 description: Eva propose d’organiser la répétition des clarinettes ailleurs. Antonin
   choisit les informations à lui transmettre et celles qui peuvent attendre.
 slug: antonin-creneau-des-clarinettes
@@ -11,9 +11,9 @@ contexte: Au bureau de l’école, pendant la répartition des salles provisoire
 tags:
 - TAG
 - Anxiété généralisée
-- Partage des tâches
-- Incertitude
-- Organisation du travail
+- Crainte d’une erreur
+- Partage des responsabilités
+- Tolérance à l’incertitude
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

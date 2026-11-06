@@ -1,0 +1,35 @@
+{
+  "references": {
+    "nhs-bereavement-support": {
+      "title": "NHS — Grief after bereavement or loss : vécu du deuil et soutien",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    },
+    "shear-2016-complicated-grief": {
+      "title": "Shear et coll. — Optimizing Treatment of Complicated Grief: A Randomized Clinical Trial (JAMA Psychiatry, 2016)",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2526240"
+    }
+  },
+  "dossier": {
+    "name": "Trouble du deuil prolongé",
+    "aliases": [
+      "Deuil prolongé",
+      "CIM-11 6B42"
+    ],
+    "references": [
+      "oms-cddr",
+      "nhs-bereavement-support",
+      "shear-2016-complicated-grief"
+    ],
+    "points": [
+      "OMS, CDDR (2024), 6B42, « Essential (required) features », p. 348–349 : la réaction suit le décès d’une personne proche. Au centre, le manque de la personne décédée ou la préoccupation persistante à son sujet s’accompagne d’une douleur émotionnelle intense. La réaction persiste et prend une place envahissante.",
+      "OMS, CDDR (2024), 6B42, « Essential (required) features » et « Boundary with normality (threshold) », p. 349 : le délai d’au moins six mois est un minimum clinique, jamais suffisant. L’évaluation situe l’intensité et la persistance par rapport au contexte social, culturel ou religieux de la personne. Elle examine les effets importants dans des domaines de vie et l’effort supplémentaire considérable requis quand des activités sont maintenues. Un deuil inscrit dans la durée attendue dans le contexte considéré relève des réactions de deuil ordinaires.",
+      "OMS, CDDR (2024), 6B42, « Additional clinical features », p. 349 : se préoccuper beaucoup des souvenirs et en éviter certains peuvent coexister. Le sens d’un objet ou d’un détour dans la fiction n’en fait pas un signe suffisant à lui seul.",
+      "OMS, CDDR (2024), 6B42, « Culture-related features », p. 350–351 : les manières d’exprimer le deuil et de commémorer, ainsi que la durée attendue, varient selon les contextes. Certaines cérémonies peuvent raviver une vive émotion dans le cadre des pratiques habituelles.",
+      "OMS, CDDR (2024), 6B42, « Boundaries with other disorders and conditions », p. 351 : le deuil prolongé est centré sur la perte, alors que dans un épisode dépressif les pensées et émotions dépressives couvrent habituellement davantage de domaines de la vie. Des symptômes peuvent se recouper et les deux troubles peuvent coexister ; la distinction et une éventuelle co-occurrence relèvent de l’évaluation.",
+      "NHS, « Symptoms of bereavement, grief and loss » : les vécus sont divers et une émotion forte peut surgir à l’improviste. « Things you can try to help with bereavement, grief and loss » et « When and where to get medical help » : une personne peut en parler à un proche, à un professionnel ou à un conseiller ; les propositions modestes et réalisables et le soutien par des pairs font partie des options. Il est possible de demander une aide professionnelle quand le quotidien devient difficile, sans attendre un seuil diagnostique. Le site n’est pas utilisé pour les critères 6B42.",
+      "Shear et coll., JAMA Psychiatry 2016, DOI 10.1001/jamapsychiatry.2016.0892, « Abstract » (Design, Interventions, Results) et « Methods / Complicated Grief Treatment » : un essai randomisé en quatre centres américains, chez 395 adultes endeuillés sélectionnés selon des critères de deuil compliqué, a observé davantage de réponses avec psychothérapie ciblée et placebo qu’avec placebo et suivi clinique du protocole sans cette psychothérapie (82,5 % contre 54,8 %). La réponse était évaluée comme une amélioration marquée ; elle ne correspond pas à une disparition garantie du chagrin. Le protocole professionnel discutait notamment du vécu de la perte et de buts de vie personnels.",
+      "Shear et coll. (2016), « Introduction », « Methods / Participants » et « Table 2 » : la population et les critères de recherche relèvent du deuil compliqué étudié avant la publication des CDDR 2024. Les résultats ne permettent pas de prédire le parcours d’une personne ou de transposer à domicile des exercices du protocole."
+    ]
+  },
+  "direction": "Blandine a 49 ans, relit des traductions et n’a pas repris les répétitions depuis la mort de sa sœur Jeanne. L’évaluation et le diagnostic précèdent la première scène ; la thérapeute reste présente au fil du récit. Suivre deux fils : le coût changeant du manque dans la semaine et le choix musical concret de confier certaines partitions annotées au chœur, d’en garder d’autres et de décider des conditions de leur usage. Léon protège le fonctionnement du chœur, Yannis garde sa vie propre et les coutumes familiales ont leur sens. Une invitation, un retour ou un refus ne mesure ni l’attachement à Jeanne ni l’état clinique de Blandine. Le don reste possible sans retour régulier ; le suivi se poursuit."
+}

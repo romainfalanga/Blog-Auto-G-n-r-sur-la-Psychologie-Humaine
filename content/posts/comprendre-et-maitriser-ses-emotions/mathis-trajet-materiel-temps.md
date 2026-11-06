@@ -1,5 +1,5 @@
 ---
-title: Jusqu’aux Tilleuls avec les deux caisses
+title: Pourquoi Mathis sous-estime le temps d’installation
 description: Mathis mesure le trajet avec Zélie. Il découvre tout ce qui manque entre
   son heure de départ et le moment où le poste sera prêt.
 slug: mathis-trajet-materiel-temps
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Entre l’atelier associatif et la place du marché, pendant le repérage
 tags:
 - TDAH
-- Planifier une transition
-- Estimer un temps de préparation
-- Vérifier un appui en situation
+- Estimation du temps
+- Enchaînement des tâches
+- Passage de relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

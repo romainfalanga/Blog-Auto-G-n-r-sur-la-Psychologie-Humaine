@@ -1,5 +1,5 @@
 ---
-title: Le vélo de Lucie
+title: 'Besoin de présence : s’entendre quand Lucie a prévu de sortir'
 description: Lucie tient à sa sortie à vélo. Elle et Émilien précisent ce qu’ils peuvent
   se demander sans faire reposer le suivi sur leur couple.
 slug: emilien-le-velo-de-lucie
@@ -11,9 +11,9 @@ contexte: parler de la disponibilité d’une partenaire pendant une période di
   en gardant le relais de l’équipe de soins
 tags:
 - Bipolarité type I
-- Soutien du proche
-- Limites du couple
-- Réseau de soutien
+- Besoin de présence
+- Limites dans le couple
+- Soutien des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

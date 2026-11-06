@@ -1,5 +1,5 @@
 ---
-title: L’enveloppe et la confidence
+title: Se confier à sa grand-mère et choisir l’aide dont on a besoin
 description: Jules parle du diagnostic à Solange. Il choisit ce qu’il veut lui confier
   et l’appui qu’il aimerait garder autour de ses dessins.
 slug: jules-enveloppe-pour-solange
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Lors d’un appel à sa grand-mère, quelques jours après le diagnostic
 tags:
 - Attaques de panique
-- Confidentialité
-- Lien familial
-- Aide choisie
+- Confidences choisies
+- Aide proposée et ajustée
+- Lien familial autour du dessin
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

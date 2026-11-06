@@ -1,5 +1,5 @@
 ---
-title: Le prix écrit sur un coin de papier
+title: Faire un choix quand les soucis passent du vélo à la famille
 description: Le réparateur chiffre une réparation. Antonin essaie de choisir pour
   son vélo tandis que d’autres inquiétudes lui reviennent.
 slug: antonin-devis-du-velo
@@ -11,9 +11,9 @@ contexte: À l’atelier de réparation du vélo, puis au café avec Benoît
 tags:
 - TAG
 - Anxiété généralisée
-- Finances du quotidien
-- Inquiétudes changeantes
-- Décision concrète
+- Inquiétudes qui s’enchaînent
+- Difficulté à décider
+- Temps pour les proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

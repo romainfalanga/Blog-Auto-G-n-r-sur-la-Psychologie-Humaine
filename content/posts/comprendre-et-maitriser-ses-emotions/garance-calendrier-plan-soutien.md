@@ -1,5 +1,5 @@
 ---
-title: La pochette bleue ne part pas avec les partitions
+title: 'Soutien entre amies : Garance et Éva posent leurs limites'
 description: Garance mesure le temps que prend son catalogue et revoit avec Éva ce
   qu’elle souhaite lui demander si un changement se prolonge.
 slug: garance-calendrier-plan-soutien
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Chez Garance, entre une échéance professionnelle et la préparation du concert
 tags:
 - Bipolarité type II
-- Plan de soutien partagé
-- Calendrier de travail
-- Limites de l’amie
+- Aide préparée avec une proche
+- Limites de disponibilité
+- Choix des informations confiées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

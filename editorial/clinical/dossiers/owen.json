@@ -1,0 +1,38 @@
+{
+  "references": {
+    "asha-fluence": {
+      "title": "ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole",
+      "url": "https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/"
+    },
+    "nidcd-begaiement": {
+      "title": "NIDCD (NIH), qu’est-ce que le bégaiement ?",
+      "url": "https://www.nidcd.nih.gov/health/stuttering"
+    },
+    "stuttering-foundation-ecoute": {
+      "title": "Stuttering Foundation, six conseils pour parler avec une personne qui bégaie",
+      "url": "https://www.stutteringhelp.org/6-tips-speaking-someone-who-stutters"
+    },
+    "ameli-orthophonie": {
+      "title": "Assurance Maladie, bilan des troubles de la parole et rôle de l’orthophoniste",
+      "url": "https://www.ameli.fr/assure/sante/themes/trouble-expression-langage-oral-enfant/reconnaitre-signes-parole"
+    },
+    "eduscol-image-voix": {
+      "title": "Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix",
+      "url": "https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental de la fluence de la parole",
+    "aliases": ["Bégaiement", "Bégaiement développemental"],
+    "references": ["oms-cddr", "asha-fluence", "nidcd-begaiement", "stuttering-foundation-ecoute", "ameli-orthophonie", "eduscol-image-voix"],
+    "points": [
+      "OMS, CDDR, code 6A01.1, p. imprimées 115–117 (PDF p. 133–135) : le trouble développemental de la fluence affecte durablement le déroulement de la parole et peut avoir un retentissement sur la communication et la participation. Le bégaiement est la présentation d’Owen, déjà diagnostiquée avant le récit. La catégorie couvre aussi le bredouillement ; les deux termes ne sont pas des synonymes.",
+      "OMS, caractéristiques essentielles et supplémentaires ; ASHA, signes et symptômes ; NIDCD, définition : les interruptions du flux de parole peuvent notamment prendre la forme de répétitions, de prolongations ou de blocages. Un blocage peut se produire alors que la personne sait exactement ce qu’elle veut dire. La fluence ne mesure ni l’intelligence, ni la préparation, ni la qualité de l’idée.",
+      "OMS, caractéristiques supplémentaires ; ASHA, signes et symptômes : la tension et la fréquence des moments perceptibles peuvent varier d’un jour à l’autre et selon la situation, notamment sous la pression de communiquer. L’anticipation et le remplacement d’un mot, parfois peu visibles, peuvent peser sur la participation. L’intensité audible n’est pas une mesure directe du retentissement vécu ; un changement de contexte ne garantit pas une parole plus fluide.",
+      "ASHA, évaluation et accompagnement des adolescents : l’orthophoniste prend en compte les situations qui comptent pour le jeune, ses préférences et le retentissement de la parole sur sa vie. Les objectifs peuvent inclure la participation, l’aisance à communiquer et les réactions de l’entourage, sans imposer de viser la disparition du bégaiement. Le bilan et les soins relèvent de professionnels ; l’Assurance Maladie présente le rôle de l’orthophoniste en France.",
+      "ASHA, stratégies liées aux réactions de l’entourage ; Stuttering Foundation, conseils d’écoute : laisser finir la personne, écouter le contenu et éviter de remplir le silence ou de donner des consignes simplistes. Les adaptations dans le récit sont négociées et révisables (ordre des tours, possibilité de reprendre, support visuel ou écrit, prise de parole préparée). Un aménagement est proposé selon la préférence de la personne et n’est pas un exercice de soin.",
+      "ASHA, discussion de la divulgation du bégaiement : parler de son bégaiement peut faire partie des options, sans obligation d’expliquer son diagnostic pour obtenir un tour de parole ou participer à un projet. Distinguer cette décision personnelle de l’autorisation d’enregistrer et d’utiliser la voix. Éduscol propose des modèles pour les personnes mineures et majeures ; le lycée organise les accords et distingue le travail en atelier, la séance et la mise en ligne, et Owen choisit ses usages."
+    ]
+  },
+  "direction": "Owen a dix-sept ans, regarde les décors de travers pour voir ce qu’on rate et dessine des raccords jusque sur ses tickets. En terminale, il monte avec Lucile un club et défend Le Sac rouge, une minute à un terminus racontée par trois personnes qui n’ont pas vu la même chose. Lucile sait qu’il bégaie et peut le couper en pensant aider ; Nassim, qui s’occupe du son, défend d’abord une seule voix pour finir dans les temps ; M. Vasseur encadre le club ; Mme Roussel est l’orthophoniste qu’Owen connaît déjà. Laisser Owen négocier son temps, changer le support d’une réunion et décider quelles prises et quelle scène il présente lui-même. Son goût du montage doit rester un goût de cinéma ; il peut garder un moment de bégaiement ou couper ailleurs, sans devoir cacher sa parole ni en faire un exemple. Séparer le consentement aux essais, au montage, à la séance et à une mise en ligne, avec le cadre du lycée et l’accord des intéressés. Il peut parler avec ou sans bégayer, refuser un usage, différer une réponse, faire une erreur artistique et revenir au projet sans qu’on le traite comme un enfant. Aucun exercice imposé, aucune lecture de la parole comme mesure de l’intelligence ou de la préparation, aucune guérison comme dénouement."
+}

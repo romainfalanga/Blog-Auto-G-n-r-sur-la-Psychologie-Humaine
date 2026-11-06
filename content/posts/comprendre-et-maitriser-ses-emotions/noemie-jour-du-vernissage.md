@@ -1,5 +1,5 @@
 ---
-title: Le chemin que les visiteurs prennent
+title: Choisir son rôle au vernissage même si le doute persiste
 description: Le jour du vernissage, Noémie trouve une façon de présenter la carte
   du canal qui lui laisse de la place pour écouter les visiteurs.
 slug: noemie-jour-du-vernissage
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: À l’ouverture de l’exposition de cartes, devant la première vitrine
 tags:
 - TOC
-- Participation
-- Choix au travail
-- Vie au-delà du trouble
+- Doute persistant
+- Autonomie au travail
+- Coopération
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

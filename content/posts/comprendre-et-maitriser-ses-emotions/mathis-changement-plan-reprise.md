@@ -1,5 +1,5 @@
 ---
-title: Le groupe a reçu deux horaires
+title: 'Imprévu et fatigue : Mathis révise ses repères avec l’équipe'
 description: Un essai décalé laisse circuler deux rendez-vous. Mathis repère ce qui
   lui a échappé et ce que l’équipe peut corriger avant l’ouverture.
 slug: mathis-changement-plan-reprise
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: Au dernier essai avec les bénévoles, avant l’ouverture au public
 tags:
 - TDAH
-- Variations d’une journée à l’autre
-- Imprévus
-- Réviser les appuis
+- Attention et fatigue
+- Souplesse face à l’imprévu
+- Repères communs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

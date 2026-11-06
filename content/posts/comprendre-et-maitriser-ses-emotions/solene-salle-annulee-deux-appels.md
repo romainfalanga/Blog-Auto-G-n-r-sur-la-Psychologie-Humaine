@@ -1,5 +1,5 @@
 ---
-title: La salle est prise. Solène ouvre son carnet
+title: Distinguer un contretemps des signes qui inquiètent
 description: Les Tilleuls ne sont plus disponibles pour la séance. Solène garde sa
   proposition de films et appelle aussi l’infirmière pour un autre sujet.
 slug: solene-salle-annulee-deux-appels
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Au dépôt, deux semaines après l’essai et avant la date publique pressentie
 tags:
 - Trouble schizo-affectif
-- Changement préoccupant
-- Plan de relais
-- Contretemps de tournée
+- Reconnaître ses signes
+- Demander de l’aide
+- Garder sa place au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

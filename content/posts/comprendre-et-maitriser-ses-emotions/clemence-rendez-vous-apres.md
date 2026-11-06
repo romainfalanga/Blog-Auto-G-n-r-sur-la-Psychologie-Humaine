@@ -1,5 +1,5 @@
 ---
-title: Le rendez-vous d’après
+title: Après le malaise, Clémence choisit ce qu’elle veut dire au club
 description: Après le malaise, Clémence reprend le suivi avec l’équipe spécialisée
   et choisit ce qu’elle veut dire au ciné-club.
 slug: clemence-rendez-vous-apres
@@ -11,9 +11,9 @@ contexte: coordonner les suites d’une évaluation urgente et clarifier les inf
   utiles pour revenir au club
 tags:
 - Anorexie
-- Continuité des soins
-- Coordination après une urgence
-- Confidentialité
+- Choix des informations confiées
+- Attentes et limites pour la reprise
+- Coordination des soins après l’urgence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

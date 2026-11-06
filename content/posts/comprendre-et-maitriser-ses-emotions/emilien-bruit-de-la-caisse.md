@@ -1,5 +1,5 @@
 ---
-title: Le bruit de la caisse
+title: Au studio, Émilien distingue l’enthousiasme d’un changement d’humeur durable
 description: Une voix revient dans un enregistrement du marché. Émilien savoure cette
   trouvaille sans confondre son enthousiasme avec un épisode maniaque.
 slug: emilien-bruit-de-la-caisse
@@ -11,9 +11,9 @@ contexte: restaurer un premier enregistrement du marché avec Dorian après un d
   professionnel de trouble bipolaire de type I
 tags:
 - Bipolarité type I
-- Trouble bipolaire de type I
-- Épisode maniaque
-- Variations ordinaires de l’humeur
+- Enthousiasme
+- Variations de l’humeur
+- Doute sur ses ressentis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

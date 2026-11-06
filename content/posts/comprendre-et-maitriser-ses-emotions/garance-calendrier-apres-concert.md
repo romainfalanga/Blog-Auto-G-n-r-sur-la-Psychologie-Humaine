@@ -1,5 +1,5 @@
 ---
-title: Le lundi où Garance laisse un matin libre
+title: Négocier un délai pour préserver du temps pour soi
 description: Après le concert, un client propose un nouveau catalogue. Garance regarde
   ce qu’elle peut accepter et revient sur son plan avec les personnes choisies.
 slug: garance-calendrier-apres-concert
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Après le concert, entre le bureau de Garance, le suivi et la prochaine répétition
 tags:
 - Bipolarité type II
-- Continuité du suivi
-- Calendrier viable
-- Amitié et partage choisi
+- Repos et rythme personnel
+- Négociation des limites au travail
+- Réajustement du soutien entre amies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: La note que Nour pose sur le bureau
+title: Parler de sa fatigue en consultation, à l’écrit
 description: Nour prépare par écrit un rendez-vous sur sa fatigue. Elle choisit les
   situations à examiner et les aménagements qui l’aideraient à en parler.
 slug: nour-consultation-format-fatigue
@@ -10,9 +10,9 @@ sujet: Autisme
 contexte: Au centre qui accompagne Nour, avant la visite test
 tags:
 - TSA
-- Accès aux soins
-- Fatigue et contexte
-- Choix de la personne dans l’accompagnement
+- Fatigue après l’effort
+- Communication écrite
+- Choix du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

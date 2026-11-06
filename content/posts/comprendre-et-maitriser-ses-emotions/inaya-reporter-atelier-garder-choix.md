@@ -1,5 +1,5 @@
 ---
-title: Une date qu’on reporte
+title: Après une crise, s’autoriser à revoir ses engagements
 description: Après l’aide urgente, Inaya revoit ses engagements. Les deux sœurs reportent
   l’atelier et choisissent ce qu’elles ont l’énergie de garder.
 slug: inaya-reporter-atelier-garder-choix
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: La table de la cuisine, quelques jours après l’évaluation
 tags:
 - Dépression récurrente
-- Reprise après une aggravation
-- Report d’un engagement
-- Soutien familial
+- Récupération après une crise
+- Limites choisies
+- Relais familiaux
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

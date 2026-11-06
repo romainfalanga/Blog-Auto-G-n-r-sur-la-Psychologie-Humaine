@@ -1,5 +1,5 @@
 ---
-title: L’avis que personne n’a encore donné
+title: Chercher à se rassurer après un message de la direction
 description: Antonin revient sur le message envoyé à la direction. Eva peut lui dire
   ce qu’elle a lu et l’aider à préciser ce qui attend une réponse.
 slug: antonin-avis-que-personne-na-donne
@@ -11,9 +11,9 @@ contexte: À l’accueil de l’école, après le signalement du retard de la li
 tags:
 - TAG
 - Anxiété généralisée
-- Réassurance
-- Incertitude relationnelle
-- Limites de l’aide
+- Recherche de réassurance
+- Crainte d’un reproche
+- Interprétation d’un message
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

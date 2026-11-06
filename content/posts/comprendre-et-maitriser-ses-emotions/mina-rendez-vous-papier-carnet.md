@@ -1,5 +1,5 @@
 ---
-title: L’heure à laquelle Alice peut venir
+title: La crainte du rejet quand Alice annonce son retard
 description: Mina attend sa cousine devant la papeterie. Un message sur le retard
   change l’heure du rendez-vous et Mina demande ce qui reste possible.
 slug: mina-rendez-vous-papier-carnet
@@ -11,8 +11,9 @@ contexte: Devant une papeterie à la fin de la journée
 tags:
 - Profil borderline
 - Trouble borderline
-- Fonctionnement durable
-- Demandes explicites
+- Crainte du rejet
+- Interprétation d’un message bref
+- Demande d’une précision
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

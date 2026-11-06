@@ -1,5 +1,5 @@
 ---
-title: Les six premières pages du carnet
+title: Offrir un cadeau quand on redoute la réaction de l’autre
 description: Mina termine le carnet d’Alice. Elle le lui offre et lui laisse le temps
   de choisir quand et comment elle l’utilisera.
 slug: mina-carnet-offert-alice
@@ -11,9 +11,9 @@ contexte: Sur le banc devant l’atelier de reliure
 tags:
 - Profil borderline
 - Trouble borderline
-- Choix relationnels
-- Don et réciprocité
-- Préférences personnelles
+- Inquiétude devant une réponse différée
+- Liberté de réagir à un cadeau
+- Plaisir de faire un objet pour quelqu’un
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

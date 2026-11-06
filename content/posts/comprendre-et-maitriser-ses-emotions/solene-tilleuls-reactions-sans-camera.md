@@ -1,5 +1,5 @@
 ---
-title: La caméra reste dans le sac aux Tilleuls
+title: Le regard des autres quand une caméra tourne
 description: Après l’essai, Célestin propose de filmer les réactions. Solène se demande
   ce que les gens oseront dire si l’objectif est braqué sur eux.
 slug: solene-tilleuls-reactions-sans-camera
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: À l’essai des courts métrages, dans la petite salle des Tilleuls
 tags:
 - Trouble schizo-affectif
-- Parole choisie
-- Retour des spectateurs
-- Période intermédiaire
+- Choisir ce qu’on partage
+- Regard des autres
+- Désaccord au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

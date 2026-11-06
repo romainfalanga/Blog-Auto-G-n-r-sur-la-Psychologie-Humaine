@@ -1,5 +1,5 @@
 ---
-title: Solène demande ce qu’il y a après la coupe
+title: Entendre son prénom sans pouvoir situer la voix
 description: Pour choisir le premier court métrage de la tournée, Solène et Célestin
   écoutent le même passage. Elle y entend son prénom.
 slug: solene-essai-son-deux-ecoutes
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Au dépôt du cinéma itinérant, pendant le choix des courts métrages
 tags:
 - Trouble schizo-affectif
-- Expérience auditive
-- Trouble schizoaffectif
-- Programmation de films
+- Humeur et perceptions
+- Douter de ce qu’on a entendu
+- Faire une pause
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

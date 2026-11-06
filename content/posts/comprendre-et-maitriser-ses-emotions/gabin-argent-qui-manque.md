@@ -1,5 +1,5 @@
 ---
-title: L’argent qui manque
+title: 'Rejouer pour effacer une perte : la tentation revient pendant la pause'
 description: Pendant sa pause, Gabin reconnaît l’envie de rejouer pour récupérer une
   perte et demande au service d’en parler avec lui.
 slug: gabin-argent-qui-manque
@@ -14,7 +14,7 @@ tags:
 - Jeu pathologique
 - Rattrapage des pertes
 - Envie de rejouer
-- Service d’addictologie
+- Peur d’annoncer une perte
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

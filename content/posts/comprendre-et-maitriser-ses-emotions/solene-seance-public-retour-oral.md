@@ -1,5 +1,5 @@
 ---
-title: « J’ai trouvé le fil quand elle a posé son parapluie »
+title: Prendre sa part du travail sans tout porter
 description: Les trois films passent à la médiathèque. Après la séance, une spectatrice
   demande à laisser une remarque sans prendre de carte.
 slug: solene-seance-public-retour-oral
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Le samedi de la première séance publique, à la médiathèque de la Rive
 tags:
 - Trouble schizo-affectif
-- Participation choisie
-- Retour oral du public
-- Relais en fin de séance
+- Garder sa place au travail
+- Écouter ses limites
+- Faire une place à la parole
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

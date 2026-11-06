@@ -1,5 +1,5 @@
 ---
-title: Quand choisir des fleurs ne procure plus le même plaisir
+title: Au marché aux fleurs, Inaya remarque que le plaisir s’est émoussé
 description: À l’étal, Inaya reconnaît les couleurs qu’elle aime. La perte d’intérêt
   change son rapport aux fleurs, sans effacer ce qu’elles comptent pour elle.
 slug: inaya-perte-interet-etal-fleurs
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: Le marché de gros et la sortie de l’école
 tags:
 - Dépression récurrente
-- Perte d’intérêt
-- Activités adaptées
-- Observation du quotidien
+- Perte de plaisir
+- Énergie fluctuante
+- Moments partagés
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: La cote au bord de la boîte
+title: 'Doute au travail : pourquoi Noémie vérifie encore après le contrôle'
 description: Aux archives, Noémie a terminé le contrôle d’une carte. Le doute la retient
   encore au moment où Aïcha attend son choix pour l’exposition.
 slug: noemie-cote-sur-la-boite
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Aux archives municipales, au moment de choisir les cartes de l’exposition
 tags:
 - TOC
-- Trouble obsessionnel compulsif
-- Doute
-- Vérifications
+- Doute persistant
+- Vérifications répétées
+- Soulagement passager
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

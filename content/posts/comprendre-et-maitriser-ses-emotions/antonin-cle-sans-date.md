@@ -1,5 +1,5 @@
 ---
-title: La clé qui attend sa date
+title: Une inquiétude en entraîne une autre à l’école de musique
 description: Antonin prépare la réouverture d’un local de musique. Quand Eva lui demande
   quel groupe y rejouera d’abord, il a du mal à quitter sa liste.
 slug: antonin-cle-sans-date
@@ -12,8 +12,9 @@ contexte: À l’école de musique, lors du premier point sur la remise en servi
 tags:
 - TAG
 - Anxiété généralisée
-- Inquiétudes persistantes
-- Retentissement
+- Inquiétudes qui s’enchaînent
+- Difficulté à décider
+- Effort de concentration
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

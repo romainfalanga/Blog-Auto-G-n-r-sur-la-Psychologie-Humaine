@@ -1,5 +1,5 @@
 ---
-title: Un essai autour de trois seaux
+title: L’intérêt revient à l’atelier, l’énergie ne suit pas toujours
 description: Inaya teste l’atelier avec Myriam et une invitée. Elle remarque ce qui
   l’intéresse encore et ce qu’elle souhaite raccourcir ou partager.
 slug: inaya-atelier-essai-activite-adaptee
@@ -10,9 +10,9 @@ sujet: Trouble dépressif récurrent
 contexte: Dans la petite salle de la maison de quartier
 tags:
 - Dépression récurrente
-- Activité adaptée
-- Énergie variable
-- Partage de l’atelier
+- Intérêt retrouvé
+- Fatigue rapide
+- Passage de relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

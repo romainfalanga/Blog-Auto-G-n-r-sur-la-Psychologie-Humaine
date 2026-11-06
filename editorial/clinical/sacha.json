@@ -1,0 +1,446 @@
+{
+  "character_id": "sacha",
+  "bio": "Sacha travaille dans une graineterie et se souvient de l’heure à laquelle le soleil atteint les balcons du quartier. Il aime expliquer ce qu’il sait en tête-à-tête. Avec son collègue Gaspard, il prépare une démonstration de rempotage. Lorsque plusieurs personnes s’approchent, il surveille ses gestes de peur d’avoir l’air maladroit et passe parfois la main en pleine explication. Il voudrait pouvoir aller au bout de ce qu’il a à dire et retrouver le plaisir d’échanger des graines au café, à sa façon.",
+  "profile_topics": [
+    "Peur du regard des autres",
+    "Anticipation inquiète",
+    "Surveillance de soi",
+    "Retrait des échanges",
+    "Choisir sa participation"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "sacha-pot-de-travers",
+      "title": "Quand la peur d’être jugé interrompt un rempotage",
+      "description": "À la graineterie, Sacha voudrait montrer comment rempoter un plant. Quand deux clients s’approchent, il passe la main et repousse son projet.",
+      "context": "La graineterie, un samedi matin",
+      "topics": [
+        "Peur du jugement",
+        "Surveillance de ses gestes",
+        "Évitement"
+      ],
+      "opening": "Madame Baudry revient à la graineterie avec son plant de tomate dans une boîte à biscuits. Elle l’a calé au milieu avec deux éponges. Sacha lui trouve un pot de récupération et lui demande sur quel rebord elle compte le mettre. Il connaît l’immeuble : les balcons au-dessus du marchand de vélos prennent le soleil en fin de journée, et la rue juste derrière reste froide le matin. Elle était venue avec sa voisine acheter ses graines en mars. Il se souvient qu’elles n’avaient pas semé la même semaine.\n\nLe pot de récupération est fendu. Sacha en prend un autre, puis renverse celui qui contient le plant au-dessus d’un plateau. Il aime le moment où la motte sort d’un bloc et où l’on peut voir comment les racines ont poussé contre la paroi. Madame Baudry se penche. Deux clients quittent le présentoir de bulbes pour voir à leur tour. Sacha allait dire qu’elle pouvait essayer elle-même. Il regarde son pouce contre le pot et pense que tout le monde voit qu’il tremble. Il pose le pot sur le plateau et cache sa main sous le rebord. Le pot se met de travers. « Gaspard, tu peux lui montrer ? Je crois que le livreur attend. »\n\nDans la réserve, il entend madame Baudry rire quand Gaspard cherche la boîte à biscuits qu’elle tient sous son bras. Aucun livreur n’attend. Sacha sort son carnet de sa poche. Il y a dessiné un demi-cercle autour d’une table et écrit « rempotage, samedi ? ». Il propose des dates de semis toute la journée, à une personne après l’autre. Chaque fois qu’il imagine un groupe autour de cette table, il trouve une livraison ou un inventaire à faire. Il a repoussé deux fois le moment d’en parler.",
+      "sections": [
+        {
+          "heading": "Quand le regard change la situation",
+          "text": "La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe. Ce qui change pour Sacha est perceptible au milieu d’une tâche qu’il connaît bien. Il tenait son pot tout en parlant à madame Baudry ; à l’arrivée de deux personnes, il se demande surtout ce que son pouce leur laisse voir. Le tremblement n’indique pas à lui seul ce qui se passe. Le sens que Sacha lui prête, et la place que prend cette inquiétude, éclairent sa sortie précipitée.\n\nÊtre intimidé dans une situation inhabituelle est courant. Aimer les échanges à deux peut aussi être un choix qui convient parfaitement. Ici, la différence se voit dans le carnet : Sacha souhaite partager un geste qui lui plaît et reporte le projet à cause de la peur qu’il éprouve. La scène laisse ouverte la question de la nature et de l’étendue de ses difficultés."
+        },
+        {
+          "heading": "Regarder aussi ce qui a été laissé derrière",
+          "text": "Passer la main soulage Sacha sur le moment : il retrouve le bruit familier de la réserve et personne ne regarde son pouce. Il perd aussi la fin d’une conversation qu’il avait envie d’avoir. Quand ce genre de renoncement se répète, il peut modifier les rôles au travail. Gaspard se retrouve avec une tâche qu’il n’avait pas prévue ; les clients pourraient se tourner directement vers lui la prochaine fois. Sacha peut en parler avec lui comme d’une question de travail et préciser ce qu’il aimerait garder comme rôle.\n\nPour décrire une difficulté qui revient à un professionnel, un exemple comme celui-ci permet de dire ce qu’on voulait faire, ce qu’on redoutait et comment la journée a changé ensuite. Le pot et le dessin valent mieux, pour Sacha, que de devoir se présenter comme quelqu’un de « trop timide ». Il pourra également raconter les échanges dans lesquels il se sent libre de parler."
+        }
+      ],
+      "ending_title": "Un croquis à montrer",
+      "ending": "À la fermeture, Gaspard trouve sur son casier le plateau nettoyé. Sacha est encore là. Il attend qu’ils soient seuls, puis tend son carnet en gardant un doigt sur le point d’interrogation. « J’avais envie de montrer ça. Aujourd’hui, j’ai décroché quand ils se sont approchés. Si on montait la table une première fois juste tous les deux ? » Gaspard a son train à prendre. Il regarde le croquis, dit qu’il veut bien en reparler mardi et rend le carnet. Sacha l’emporte sans rayer le samedi.",
+      "mirror": [
+        "Gaspard peut répondre au croquis sans faire de la scène du matin une enquête. « Mardi, j’ai vingt minutes avant la fermeture. Montre-moi ce que tu avais en tête, et on verra ce que je peux prendre en charge. » Il peut aussi lui dire que reprendre seul au pied levé le met en difficulté quand la boutique est pleine. Cet échange donne à chacun un rôle à négocier, sans demander à Sacha de raconter sa santé entre deux clients."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha dit à Gaspard qu’il veut montrer le rempotage et propose de réfléchir à deux.",
+        "next": "Le coût de l’évitement apparaît aussi hors du travail, où Sacha cherche à reprendre un contact de soin."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "sacha-place-au-cafe",
+      "title": "L’inquiétude commence avant d’entrer au café",
+      "description": "Sacha arrive près d’un café où l’on échange des graines. Il reste dehors et cherche comment reprendre contact avec un cabinet.",
+      "context": "Le café du terminus, puis chez Sacha",
+      "topics": [
+        "Anticipation inquiète",
+        "Évitement des rencontres",
+        "Demande d’aide"
+      ],
+      "opening": "Au café du terminus, les gens de l’échange de graines se reconnaissent aux enveloppes étalées sur une table. Sacha a préparé trois sachets de pois de senteur. Sur le troisième, il a dessiné la forme de la fleur, parce que l’encre de son stylo a bavé sur le nom. Il voulait demander à la dame qui apporte les courges comment elle fait sécher ses graines. Ils s’étaient croisés au magasin, et elle lui avait dit qu’il pouvait passer sans rien apporter.\n\nDe l’autre côté de la vitre, il compte huit personnes. Il avait prévu de dire bonjour à la dame et de lui donner une enveloppe. Elle est assise au milieu. Pour l’atteindre, il faudrait demander à quelqu’un de tirer sa chaise. Il répète à mi-voix « je peux passer ? », puis « je viens pour les graines ». Il s’entend parler trop vite. Un homme lève la tête vers la rue et Sacha part vers l’arrêt de bus. Le prochain bus n’arrive que dans dix-sept minutes. Il les passe dehors, les enveloppes serrées entre le téléphone et sa paume. Depuis l’automne, il a déjà renoncé à deux échanges et cessé d’aller chercher ses graines au local quand le comité s’y réunit.\n\nDe retour chez lui, il étale les sachets sur la table. Le papier est humide là où il tenait les enveloppes. Le numéro d’un cabinet est sous un aimant depuis que son généraliste lui a conseillé d’en parler à quelqu’un qui puisse l’évaluer. Il se représente très bien la première question du secrétariat et très mal la suite. En bas de la page du cabinet, il trouve une adresse où poser une question sur les rendez-vous. Il ouvre une fenêtre de message, puis laisse le curseur clignoter.",
+      "sections": [
+        {
+          "heading": "Le rendez-vous commence parfois bien avant la porte",
+          "text": "L’anxiété liée au regard des autres peut prendre du temps avant même qu’une situation ait lieu. Sacha prépare des façons d’entrer et se représente le ton qu’il aura. L’énergie dépensée sur le trottoir n’apparaîtra pas dans la liste des personnes présentes au café. Les sachets qui reviennent, la question qu’il ne posera pas et le détour qu’il fait pour éviter le comité donnent des indices sur ce que cette peur change pour lui. Un professionnel peut s’appuyer sur ces détails pour comprendre son quotidien et examiner la difficulté dans la durée.\n\nLa même décision extérieure peut avoir des raisons très différentes. Préférer un café tranquille à huit personnes autour d’une table est compréhensible. Sacha s’était déplacé exprès parce qu’il avait envie d’échanger avec quelqu’un. Il explique son départ par ce qu’il s’attendait à susciter chez les autres. C’est cette expérience, dans son contexte, qui peut être discutée au cabinet."
+        },
+        {
+          "heading": "Trouver une première porte d’entrée",
+          "text": "Le guide britannique NICE indique que si un premier rendez-vous en personne est difficile à envisager, le professionnel peut proposer un premier échange par téléphone ou en ligne, en prévoyant de rencontrer la personne pour la suite. Les modalités possibles varient d’un service à l’autre. Sacha peut demander une information concrète sur la façon de prendre contact et signaler que l’appel au secrétariat est déjà une difficulté. Le premier message a pour fonction d’ouvrir un échange, et peut rester bref.\n\nIl peut également garder sous la main une situation à raconter si la conversation lui coûte : ce qu’il voulait demander au café, le moment où il est parti et depuis quand ces détours se répètent. Ces exemples aident à conduire l’évaluation. Le cabinet a encore à entendre son histoire et à voir avec lui ce qui lui serait utile."
+        }
+      ],
+      "ending_title": "Une question au cabinet",
+      "ending": "Sacha écrit : « J’ai le numéro donné par mon généraliste. Est-ce qu’on peut convenir par écrit de l’heure d’un premier échange ? » Deux jours après, la secrétaire lui propose un court appel avec la docteure Rigal. Sacha choisit l’heure où il sera chez lui. Ils conviennent ensuite d’un rendez-vous au cabinet ; il le note sur son calendrier et pose une enveloppe de pois de senteur sur la case. Le jour venu, il l’emporte et arrive à raconter pourquoi elle est encore dans sa poche.",
+      "mirror": [
+        "Si Sacha montre à Gaspard le message qui reste ouvert, Gaspard peut demander : « Tu veux que je le lise une fois ou que je te laisse seul pour l’envoyer ? » Il peut relire la demande d’horaire et rendre le téléphone. Sacha choisit ce qu’il raconte au cabinet et à qui. Si Gaspard n’est pas disponible sur le moment, il peut proposer de lire le message un autre jour et laisser Sacha décider s’il préfère l’envoyer seul."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha écrit au cabinet, accepte un premier appel et raconte le café au premier rendez-vous sur place.",
+        "next": "La docteure Rigal reprend avec lui plusieurs exemples lors d’un nouvel entretien."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "sacha-sachet-sur-la-table",
+      "title": "Ce que la peur du jugement change quand on aime parler à deux",
+      "description": "Après plusieurs échanges, la docteure Rigal revient sur le café, le travail et les habitudes de Sacha avant de lui annoncer son diagnostic.",
+      "context": "Le cabinet de la docteure Rigal",
+      "topics": [
+        "Préférence pour le tête-à-tête",
+        "Crainte d’être mal jugé",
+        "Choix de ses objectifs"
+      ],
+      "opening": "Dans le cabinet, la docteure Rigal a changé de tasse. La semaine précédente, celle qui était posée sur le bureau avait une fissure fine. Sacha l’avait regardée tout le temps qu’il racontait le café. Aujourd’hui il remarque la nouvelle, puis remonte les yeux quand la docteure lui demande ce qu’il avait espéré trouver à cette table. « Des conseils sur les courges, surtout. Et le nom d’une dame. À la boutique, je lui dis toujours bonjour sans savoir comment elle s’appelle. » Il sort son enveloppe de pois de senteur. Un coin s’est décollé.\n\nLa docteure a noté plusieurs situations, depuis leur premier appel jusqu’au rendez-vous d’aujourd’hui. Elle revient sur le repas des commerçants auquel Sacha a cessé d’aller, et sur les samedis où il demande à finir l’inventaire à l’heure où les habitués discutent en groupe. Elle lui demande aussi ce qui se passe les jours où il travaille seul au comptoir. Sacha lui parle de monsieur Da Costa et du débat qu’ils ont chaque printemps sur la date des premiers semis de haricots. Ils peuvent y passer vingt minutes. Il n’a jamais cherché d’excuse pour écourter cet échange.\n\nLa docteure Rigal reprend avec lui l’ancienneté de la peur et l’effort qu’il fait certains jours pour rester au comptoir. Elle a aussi posé des questions sur son humeur, sa santé et les situations où l’inquiétude se manifeste. Puis elle lui dit que l’évaluation conduit à un diagnostic de trouble d’anxiété sociale. Sacha replie le rabat du sachet et s’aperçoit qu’il ne pense plus à la tasse. « Je vais devoir apprendre à aimer les repas de commerçants ? » Il le dit sérieusement. Il voudrait savoir ce qui, dans leurs échanges, a compté pour elle.",
+      "sections": [
+        {
+          "heading": "Ce que l’évaluation a mis en relation",
+          "text": "Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent. La docteure Rigal explique à Sacha le lien qu’elle fait entre la peur, le départ du café et les changements dans ses journées de travail. Elle a aussi entendu parler des moments où il reste malgré l’anxiété et doit fournir un effort qui passe inaperçu. L’évaluation a pris plusieurs échanges : une scène peut éclairer une difficulté, tandis que la conclusion appartient au professionnel qui examine l’ensemble et les autres explications possibles.\n\nLa peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables. Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder."
+        },
+        {
+          "heading": "Préciser ce qu’on voudrait retrouver",
+          "text": "NICE recommande de définir les objectifs du soin avec l’adulte après le diagnostic et de lui expliquer les options. Sacha peut commencer par une différence qu’il connaît bien. Les repas de commerçants l’intéressent peu, même quand il s’imagine y être détendu. Il aimerait en revanche pouvoir parler à une table de graines ou montrer un geste dans la boutique. Ce sont deux idées qu’il peut apporter à la prochaine consultation. La docteure peut l’aider à préciser ce qu’il attend du suivi avant qu’il choisisse comment s’y engager.\n\nSacha garde la main sur ce qu’il raconte à Gaspard. Les deux collègues peuvent fixer un moment pour leur essai et prévoir comment se répartir le matériel sans que l’intitulé du diagnostic entre dans leur conversation. Si Sacha souhaite un jour lui en parler, il peut aussi lui dire à quoi il aimerait que cette confidence serve."
+        }
+      ],
+      "ending_title": "Deux choses à retenir",
+      "ending": "La docteure Rigal lui dit qu’il peut continuer à préférer les conversations à deux. Elle note avec lui deux choses pour leur prochain rendez-vous : les questions qu’il se pose sur les soins, et ce qu’il voudrait pouvoir faire à la graineterie. En partant, Sacha colle le rabat du sachet avec un bout d’adhésif prêté par le secrétariat. Dans la rue, il écrit à Gaspard : « On reprend le plan de table mardi ? Je peux apporter deux plants. » Puis il met le sachet dans la poche où il range d’habitude ses clefs.",
+      "mirror": [
+        "Gaspard peut répondre à la proposition sur la table. « Mardi, d’accord pour les plants. Tu veux qu’on parle surtout de la place ou qu’on essaie aussi les gestes ? » Si Sacha lui confie ensuite le diagnostic, il peut demander ce qu’il peut garder pour lui et ce qu’il peut dire à Nora s’ils sollicitent un créneau. Il peut promettre la discrétion et proposer son aide pour le matériel, deux choses à sa portée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "La docteure Rigal pose le diagnostic ; Sacha choisit de parler des soins au cabinet et du projet de table avec Gaspard.",
+        "next": "Sacha discute d’une TCC et négocie les premières conditions de l’atelier, sans annoncer de date publique."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "sacha-deux-decisions",
+      "title": "Prendre la parole à son rythme : Sacha propose un petit atelier",
+      "description": "La docteure Rigal présente les possibilités de soin. À la graineterie, Sacha et Gaspard proposent une démonstration qu’ils peuvent tenir ensemble.",
+      "context": "Le cabinet, puis la graineterie après la livraison",
+      "topics": [
+        "Crainte de parler en groupe",
+        "Décision partagée",
+        "Répartition des rôles"
+      ],
+      "opening": "Au cabinet, Sacha a apporté deux questions sur un carré de papier. Il lit la première en tenant la seconde sous son pouce : « Est-ce que c’est en groupe ? » La docteure Rigal lui présente une thérapie comportementale et cognitive individuelle adaptée à l’anxiété sociale. Elle l’explique avec les exemples qu’ils connaissent déjà. Ils pourront regarder ensemble ce qui se passe avant, pendant et après un échange, puis discuter des essais qui auraient du sens pour lui. Elle lui parle aussi des autres options qu’ils pourraient examiner s’il ne souhaite pas cette forme de soin. Quand Sacha lit la deuxième question, elle répond qu’il peut demander qu’ils reviennent sur une proposition qui lui paraît trop difficile. Il veut commencer avec elle.\n\nÀ la boutique, le même papier est au fond de son sac. Une palette de terreau vient de partir et a laissé un carré de lumière près de la vitrine. Gaspard a dégagé la place et y pousse la table pliante. Il pose six soucoupes par terre pour figurer six personnes. La dernière roule dans le passage. Ils déplacent la table et recommencent. Cette fois, Nora, la responsable, peut aller de la caisse au rayon des arrosoirs sans se mettre de côté.\n\nNora propose de profiter de la matinée d’animation du quartier, quand il y aura du monde. Sacha voit aussitôt le passage se remplir. Gaspard se penche pour ramasser les soucoupes. « Cette matinée-là, je dois partir tôt. Je peux être là un autre samedi. Et j’aimerais montrer comment je récupère les pots du magasin, pas juste distribuer des pelles. » Sacha tient une des soucoupes entre ses mains. Avec Gaspard à sa gauche et une place prévue pour les questions, il voit une démonstration qu’il aurait envie de préparer.",
+      "sections": [
+        {
+          "heading": "Ce qu’un soin peut travailler",
+          "text": "Une thérapie comportementale et cognitive (TCC) adaptée à l’anxiété sociale peut aider à comprendre ce qui entretient la peur dans les situations qui comptent pour la personne. Le guide britannique NICE recommande de proposer d’abord aux adultes une forme individuelle spécifique au trouble, conduite par un professionnel formé. La personne peut poser des questions sur le déroulement, préciser ce qu’elle souhaite travailler et discuter d’autres options. Dans son rendez-vous, Sacha dit qu’il aimerait pouvoir finir une explication au lieu de céder la place dès qu’un regard s’ajoute.\n\nLa démonstration lui donne un exemple concret à raconter. Elle n’est pas la mesure de l’efficacité du soin. Au cabinet, il peut parler aussi de ce que cela lui coûte de rester au café. Si une expérience de soin lui paraît trop difficile ou manque de sens pour lui, il peut expliquer ce qui le gêne et la discuter avec la docteure."
+        },
+        {
+          "heading": "Un format que chacun a envie de tenir",
+          "text": "La table, l’horaire et le rôle de chacun relèvent d’un autre accord, à la graineterie. Sacha voudrait montrer le passage de la motte au nouveau pot. Gaspard tient à expliquer où trouver les pots de récupération et comment les choisir. Leur projet est plus clair quand chacun a quelque chose à y faire. La taille du groupe tient à la place disponible et à la possibilité, pour les visiteurs, de voir ce qu’ils font.\n\nSacha peut demander qu’on vérifie le format avant de l’annoncer. Une proposition utile donne des détails que les collègues peuvent réellement promettre : qui tiendra la caisse, à quel moment commencer, combien de personnes peuvent rester sans bloquer le passage. Nora peut approuver cette organisation sans avoir à connaître l’entretien qui a eu lieu le matin."
+        }
+      ],
+      "ending_title": "Six soucoupes à côté de la vitrine",
+      "ending": "Sacha pousse la dernière soucoupe de la pointe du pied pour libérer le passage. « Six places. Quinze minutes. On essaie entre nous avant de donner une date ? » Nora regarde la caisse depuis la vitrine et accepte le principe. Gaspard ramasse la soucoupe, puis choisit deux pots de récupération à montrer pendant sa partie. Ils inscrivent leur essai au planning du mardi, à la fermeture. Sacha range le papier du cabinet dans son sac et laisse le plan de table sur le comptoir, pour que Nora puisse le regarder de nouveau.",
+      "mirror": [
+        "Gaspard peut dire à Nora ce qu’il veut montrer lui-même et dire à Sacha quand il peut répéter. « Mardi à la fermeture, oui. Le samedi de la fête, je ne pourrai pas tenir jusqu’au bout. » Son appui tient dans un engagement qu’il choisit. Si le soin vient dans la conversation, il peut écouter Sacha sans fixer lui-même un objectif de prise de parole ou présenter le projet à Nora comme un exercice de santé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha choisit d’entamer une TCC avec la docteure Rigal ; la boutique retient un format de six places à essayer.",
+        "next": "La préparation du mardi révèle ce qui aide Sacha à expliquer et ce qu’il fait pour cacher sa peur."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "sacha-verso-de-la-fiche",
+      "title": "Sacha suit son texte de peur de laisser voir son hésitation",
+      "description": "Sacha a rempli le dos d’une fiche de phrases à apprendre. Avec Gaspard, il distingue ce que les visiteurs doivent voir de ce qu’il voudrait cacher.",
+      "context": "La graineterie, pendant l’essai à deux",
+      "topics": [
+        "Peur de montrer son hésitation",
+        "Attention centrée sur soi",
+        "Préparation pour se rassurer"
+      ],
+      "opening": "Le mardi à la fermeture, Sacha pose une fiche sur le plateau, du côté où Gaspard ne pourra pas la lire. Au recto, il a dessiné une motte et un pot. Au verso, il a écrit ce qu’il compte dire, avec des barres pour marquer les pauses. Il a même préparé un mot de secours à la place de « paroi », au cas où le premier lui échapperait. Quand Gaspard lui demande de lui passer la fiche, Sacha la retourne et la pousse du bout des doigts vers Gaspard, dessin vers le haut. Quand Gaspard la repose, Sacha la reprend et regarde ses phrases.\n\nIls font une première fois le geste, dans le bruit du rideau métallique que Nora descend. Gaspard verse le terreau dans un pot de récupération. Sacha retourne son plant et suit le début de son texte. Une petite racine blanche dépasse. Gaspard lui demande si ce qu’il voit est bien une racine ou un bout de ficelle. Sacha a déjà commencé sa phrase. Il regarde sa fiche, termine la phrase et se tait. À deux, avec Gaspard, il aurait pu répondre avant même de lever la tête. Avec la feuille installée comme pour la démonstration, il s’entend réciter.\n\nGaspard attrape une pelle tombée sous la table. « Attends, je la vois mieux d’ici. » Sacha se penche avec lui. La motte est restée sur le plateau. La racine ne ressemble plus du tout à de la ficelle maintenant qu’il la regarde. Il répond à la question de Gaspard, puis reprend sa fiche. Il avait passé la moitié de la veille à se demander comment cacher ses mains si elles tremblaient. Il découvre qu’il n’a pas laissé de place dans le texte pour quelqu’un qui pose une bonne question.",
+      "sections": [
+        {
+          "heading": "À quoi sert la préparation ?",
+          "text": "Dans l’anxiété sociale, une partie de l’attention peut rester fixée sur ce que les autres risquent de remarquer chez soi. Des moyens de se protéger du jugement peuvent prendre beaucoup de place : penser à tenir ses mains hors de vue, vouloir réciter chaque mot ou éviter un échange de regards par crainte d’avoir l’air maladroit. Le bilan professionnel peut explorer ce que ces gestes font pour la personne dans la situation, et le prix qu’elle paie quand ils occupent une part de son attention.\n\nUne fiche peut aussi être utile pour transmettre une information. La racine qu’il a dessinée doit être visible depuis le bout de la table. Il lui sert d’appui quand le rideau fait du bruit. Le texte du verso a une autre fonction, pour lui : s’il suit tout dans l’ordre, il espère que personne ne verra son hésitation. Quand Gaspard lui parle, cet effort prend le dessus sur ce qu’il voulait lui montrer."
+        },
+        {
+          "heading": "Garder le dessin, discuter du reste",
+          "text": "NICE décrit des thérapies comportementales et cognitives qui aident la personne à examiner où va son attention et ce qu’elle fait pour se protéger du jugement. Sacha pourra apporter les deux faces de sa fiche en consultation. La docteure Rigal pourra lui demander ce qu’il craignait et ce qui s’est passé lorsque Gaspard a posé sa question. Le soin peut faire une place à des essais discutés avec elle, avec une intention claire. Retirer un appui à quelqu’un au dernier moment ne lui laisse ni ce choix ni le temps d’en comprendre l’intérêt.\n\nPour leur travail, Sacha et Gaspard peuvent décider que la fiche restera sur la table, visible de tous, et prévoir une pause pour les questions. Ils disposent ainsi d’une manière de transmettre qui accepte les interruptions. Sacha peut demander à Gaspard ce qu’il a compris du geste, plutôt que de lui demander s’il l’a trouvé convaincant."
+        }
+      ],
+      "ending_title": "Le dessin tourné vers la table",
+      "ending": "Sacha retourne la fiche et redessine la racine avec un trait plus épais. Il gardera les phrases au verso pour en reparler au cabinet. Pour le prochain essai, Gaspard propose de faire venir Nora afin de vérifier si le dessin est visible de l’autre côté de la table. Sacha demande qu’elle sache à l’avance qu’ils lui montreront le geste en entier. Ils fixent dix minutes le jeudi après la fermeture. Avant de sortir, Sacha remet dans le terreau le plant qu’ils ont laissé sur le plateau.",
+      "mirror": [
+        "Si Gaspard a besoin de la fiche, il peut demander : « Tu peux me montrer le côté du dessin ? Je veux vérifier ce qu’on voit de ma place. » Sacha décide de montrer ou non ses notes. Gaspard peut dire qu’il aimerait avoir un moment où poser ses questions pendant l’essai. Il peut convenir avec Sacha de l’invitation à Nora et lui laisser le soin de dire ce qu’il veut travailler ailleurs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha conserve le dessin comme support et réserve le récit de la préparation au rendez-vous de soin.",
+        "next": "Nora assiste à un essai convenu ; une réaction ambiguë reste dans la tête de Sacha après leur séparation."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "sacha-sourire-de-nora",
+      "title": "Repasser un échange dans sa tête à cause d’un sourire",
+      "description": "Sacha refait le rempotage devant Nora. Il repart en repensant à un sourire, alors que sa responsable s’interroge sur la place de la table.",
+      "context": "La graineterie après la fermeture, puis le trajet du retour",
+      "topics": [
+        "Rumination après l’échange",
+        "Interprétation d’un sourire",
+        "Demande de retour concret"
+      ],
+      "opening": "Nora reste à la place où ils ont posé la sixième soucoupe, contre le radiateur. De là, elle voit le dessin, mais elle doit pencher la tête pour regarder la motte. Sacha essaie de la tourner vers elle et une pincée de terre tombe dans l’espace entre le plateau et la fiche. « On peut regarder le fond du pot maintenant », dit-il. Il bute sur « regarder », reprend et arrive au bout de la phrase. Nora sourit. Une seconde plus tard, elle se baisse vers sa chaussure.\n\nSacha finit sa partie. Gaspard prend la suite, présente ses deux pots de récupération et demande à Nora ce qu’elle a vu. La responsable voudrait remonter la fiche sur un petit chevalet et rapprocher la table du mur. Quelqu’un sonne à la porte. C’est la personne chargée de relever le compteur, qui avait annoncé son passage en fin de journée. Ils rangent les pots et se quittent sans reprendre leur conversation. Dans le bus, Sacha se demande si Nora souriait parce qu’il avait recommencé le mot « regarder ». Il remonte le souvenir jusqu’à la seconde où elle a baissé la tête. Il ne sait plus ce que Gaspard a dit après.\n\nChez lui, il retrouve un bout de terre séchée dans le pli de sa manche. Il se demande s’il devrait envoyer à Nora un message pour dire qu’il s’occupera du matériel et laissera parler Gaspard. Il ouvre leur conversation et voit le dernier message de la responsable : une photo des sacs de terreau rangés dans le mauvais rayon. Elle avait ajouté une flèche jaune pour qu’il voie lesquels déplacer. Il revient à cette flèche. Au lieu de lui écrire tout de suite, il ferme le téléphone et pose la terre du bout de son doigt sur le rebord d’un pot.",
+      "sections": [
+        {
+          "heading": "Un souvenir peut se resserrer autour d’un détail",
+          "text": "Dans l’anxiété sociale, une situation peut continuer d’occuper l’esprit après qu’elle est terminée. La personne repasse des mots, des gestes ou un signe de réaction dont le sens lui paraît incertain. La recommandation NICE invite à explorer ce qui se passe après l’échange, et certaines thérapies comportementales et cognitives adaptées au trouble travaillent ces pensées quand elles deviennent problématiques.\n\nSacha se souvient du sourire de Nora et du mot qu’il a repris. Il rapproche les deux sans savoir ce qui a fait sourire Nora. Pendant ce temps, d’autres informations lui échappent : le dessin est visible de loin, mais la motte est trop basse ; Nora a proposé de changer la place de la table. L’inquiétude est réelle. La certitude qu’il croit avoir sur ce que Nora a pensé reste à distinguer de ce qu’il a entendu et observé."
+        },
+        {
+          "heading": "Demander un retour qui serve au travail",
+          "text": "Sacha et Gaspard avaient demandé à Nora de vérifier la démonstration. Ils peuvent reprendre cette demande avec une question précise : de quelle place voit-on la motte, et à quel moment faut-il rapprocher le plateau ? Un retour de cette sorte donne de quoi préparer l’atelier. Il reste possible que Nora ait trouvé une phrase difficile à entendre ; elle peut le dire et les aider à savoir quelle partie revoir. Sacha a le droit de faire une pause avant de décider de changer de rôle.\n\nAu cabinet, le sourire qu’il repasse est un exemple utile, même si Sacha n’apprend jamais ce qu’il signifiait. Il peut dire à la docteure ce que cette incertitude lui donne envie de faire. Ils pourront travailler sur la façon dont elle pèse sur ses décisions, sans attendre que Gaspard ou Nora puissent garantir l’avis de chaque personne dans la pièce."
+        }
+      ],
+      "ending_title": "Déplacer le plateau",
+      "ending": "Le lendemain, Sacha demande à Nora où elle poserait la fiche. Elle prend un petit support qui servait aux prix des bulbes, le tourne vers la sixième place et attend que Sacha revienne se mettre derrière la table. Lui avance le plateau. La motte est visible sans que Nora ait à se pencher. Il ne lui parle pas du sourire. Avec Gaspard, ils gardent les deux rôles, choisissent le samedi dans deux semaines à dix heures et impriment l’affiche pour six personnes. Nora y ajoute l’endroit où s’inscrire.",
+      "mirror": [
+        "Si Sacha demande à Gaspard ce que Nora a pensé, Gaspard peut décrire ce qu’il a vu sans parler pour elle. « J’ai entendu ta phrase. Pour la racine, je sais que Nora a dû se pencher. Je peux regarder demain depuis l’autre côté. » Il peut aussi lui dire qu’il ne sait pas ce que voulait dire le sourire. Sacha pourra reprendre au cabinet ce qui continue de tourner dans sa tête ; Gaspard garde sa place de collègue dans l’essai."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha demande un retour sur la visibilité de la démonstration et conserve sa partie. L’affiche fixe le rendez-vous dans deux semaines.",
+        "next": "Un autre cadre lui est proposé. Une remarque sur son accent impose de distinguer son refus de la peur présente ailleurs."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "sacha-deux-affiches",
+      "title": "Poser une limite après une moquerie sur son accent",
+      "description": "Une remarque sur son accent change une proposition d’animation. Sacha demande à Nora de reprendre le contact avec l’organisateur.",
+      "context": "Le comptoir de la graineterie, près de l’affiche",
+      "topics": [
+        "Discrimination liée à l’accent",
+        "Limites au travail",
+        "Soutien d’une collègue"
+      ],
+      "opening": "L’affiche du rempotage est en place depuis quatre jours. Un homme la lit en tenant un rouleau d’affiches sous le bras. Il organise les animations d’une association de quartier. Il demande à Sacha s’ils voudraient refaire leur démonstration lors de la fête, sous l’auvent où l’on prête un micro. Sacha sait de quel auvent il parle : sous la toile, les pieds des tables s’enfoncent toujours dans le gravier. Il allait lui demander si l’association fournissait les tables.\n\n« Vous êtes lequel, sur l’affiche ? » Sacha lui montre son nom et précise qu’il présentera le passage de la motte au nouveau pot. L’homme reprend ses derniers mots en imitant son accent. Il sourit à Nora, qui s’est approchée avec le cahier des inscriptions. « Au micro, ça risque de faire rire les gens. On prendra quelqu’un du coin pour parler, lui pourra préparer les pots. » Nora pose le cahier à plat. Elle lui demande de ne pas parler de son collègue de cette façon et arrête la discussion. L’homme dit qu’il voulait plaisanter. Il remet son rouleau sous son bras et sort sans laisser d’affiche.\n\nSacha remet de niveau un paquet d’étiquettes que l’homme avait pris dans le rayon. Il s’entend dire à Nora qu’il ne veut pas le rappeler. Elle lui répond qu’elle peut prendre la suite pour la boutique. Gaspard ressort de la réserve avec un feutre pour compléter le panneau. Sacha lui raconte la remarque en quelques mots. La place sous l’auvent ne l’intéressait pas tellement au départ. Ce qu’il ne veut plus, à présent, c’est négocier son rôle avec cet homme. Il regarde leur affiche à eux. Il veut la laisser où elle est.",
+      "sections": [
+        {
+          "heading": "L’appréhension peut répondre à ce qui s’est passé",
+          "text": "Une réaction de retrait s’interprète en tenant compte des conditions dans lesquelles elle survient. L’OMS rappelle que, pour évaluer une anxiété sociale, le professionnel tient compte des usages et des risques réels, par exemple quand une personne est confrontée à du harcèlement. Quelqu’un qui vit avec un trouble d’anxiété sociale peut aussi réagir à une remarque dévalorisante ou à une proposition où son origine supposée sert à l’écarter d’un rôle. Le diagnostic ne dit pas à lui seul pourquoi une personne refuse une situation donnée.\n\nL’autre jour, Sacha imaginait le jugement de Nora à partir d’un sourire dont il ignorait la cause. Ici, l’organisateur a imité sa voix et dit devant lui pourquoi il voulait lui retirer la parole. Sacha peut raconter les deux scènes à la docteure Rigal. Elle peut l’écouter décrire ces circonstances différentes, sans traiter le retour sous cet auvent comme un objectif de soin."
+        },
+        {
+          "heading": "Répondre à la remarque dans le cadre où elle a lieu",
+          "text": "Nora peut prendre la suite des échanges avec l’organisateur pour la graineterie, après avoir entendu ce que Sacha souhaite. Elle peut préciser à son équipe que le projet reste à la boutique et que les rôles convenus restent les mêmes. Sacha peut choisir de raconter à Gaspard ce qui s’est passé et garder le reste pour lui. Il a le droit de demander du temps avant de décider s’il veut faire une démarche personnelle.\n\nSi une personne en France pense avoir subi une discrimination ou en avoir été témoin, le Défenseur des droits propose un service d’information et d’orientation. Demander conseil lui permet d’exposer les faits et de se renseigner sur ses possibilités. Dans la scène, l’action immédiate de Nora consiste à interrompre les propos et à régler la relation de travail avec l’organisateur. Sacha peut réfléchir séparément à la suite qu’il souhaite donner à la remarque."
+        }
+      ],
+      "ending_title": "Une affiche reste en place",
+      "ending": "Nora dit à Sacha qu’elle va écrire à l’association pour décliner l’animation sous l’auvent et expliquer que les propos sur sa façon de parler ont interrompu la discussion. Elle relit avec lui le passage qui le concerne avant d’envoyer le message. Sacha lui demande de s’en tenir à ce qui a été dit, sans ajouter qu’il était mal à l’aise. Il prend ensuite le feutre des mains de Gaspard. Il ajoute au bas de leur affiche : « Les pots seront fournis. » Gaspard ajoute « quinze minutes » au-dessous. Sacha repasse le S de son prénom, que le soleil a déjà pâli près de la vitre.",
+      "mirror": [
+        "Gaspard peut dire à Sacha : « Si tu veux m’en parler, je suis là jusqu’à la fermeture. Je peux aussi aller demander à Nora qui reprend le contact. » Sacha décide s’il veut continuer la conversation. Nora a entendu la remarque : elle peut agir sur la relation avec l’association dans le cadre de son poste. Gaspard peut lui passer le relais et éviter de transmettre d’autres informations sur Sacha à l’organisateur ou à l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale",
+        "defenseur-discrimination"
+      ],
+      "continuity": {
+        "choice": "Sacha refuse l’invitation sous l’auvent et maintient son projet à la graineterie ; Nora écrit à l’association pour la boutique.",
+        "next": "Une situation sans remarque hostile réveille quand même sa crainte d’être observé, malgré l’essai avec Nora."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "sacha-troisieme-chaise",
+      "title": "Une personne de plus à table et la peur du jugement revient",
+      "description": "De retour au café, Sacha commence à parler graines avec Jeanne. L’arrivée d’un troisième interlocuteur lui fait perdre le fil.",
+      "context": "Le café du terminus, un samedi avant l’atelier",
+      "topics": [
+        "Anxiété selon le contexte",
+        "Surveillance de sa façon de parler",
+        "Retrait d’un échange"
+      ],
+      "opening": "Il n’y a que deux tasses sur la table du fond quand Sacha pousse la porte du café. La dame aux courges lui fait signe. Elle s’appelle Jeanne. Elle a renversé du café sur son calendrier de plantations et le sèche avec des serviettes en papier. Sacha pose son enveloppe de pois de senteur sur un coin sec. Il lui dit où sa mère les faisait pousser, le long du mur de la cour. Jeanne ouvre le sachet et en compte trois avant de s’arrêter : elle a déjà une idée de ce qu’elle mettra au pied des tiges.\n\nSacha lui parle des courges. Jeanne cherche ses mots pour décrire la variété qu’elle a cultivée quand un homme approche une chaise. Il connaît Jeanne et lui demande s’ils peuvent partager la table. Elle se tourne vers Sacha pour faire les présentations. L’homme s’appelle Omar et vient d’emménager près du terminus. Il veut savoir ce qu’on peut faire pousser dans une cour qui prend peu le soleil. Sacha connaît plusieurs cours de cette rue, dont une où les gens s’échangent des seaux pour leurs plants. Il pense au nombre de secondes qui passent avant sa réponse. Il retourne l’enveloppe, découvre une trace humide sur le papier et dit qu’il doit rejoindre le magasin.\n\nDehors, il regarde l’heure. Il a encore quarante minutes avant sa prise de poste. Avec Nora, il avait pourtant réussi à reprendre une phrase devant quelqu’un. Ici, il avait une réponse et le désir de la donner. Il entend Jeanne derrière lui : il a oublié son carnet sous les serviettes. Elle le lui tend ouvert au croquis de la graineterie. Sacha cherche une phrase pour excuser son départ, puis voit que Jeanne maintient du pouce le coin mouillé pour que la page ne se replie pas sur le dessin.",
+      "sections": [
+        {
+          "heading": "Un essai qui se passe bien laisse d’autres situations ouvertes",
+          "text": "L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile. Chez Sacha, l’entrée au café est différente cette fois : il parle avec Jeanne et échange ses graines. C’est quand Omar attend une réponse que Sacha commence à se demander quelle impression il donne. Le départ arrive au milieu d’un moment dont il profitait jusque-là.\n\nLes conditions étaient différentes au café et à la graineterie. Avec Nora, il savait qui serait là et ce qu’il voulait montrer. Au café, il a dû changer de conversation d’un coup. Raconter ces différences au cabinet peut aider à comprendre le retour de la peur et à choisir ce qui mérite d’être travaillé, sans prendre cette matinée comme un verdict sur son projet."
+        },
+        {
+          "heading": "Que veut-il reprendre de cet échange ?",
+          "text": "NICE recommande que les objectifs et les effets du soin soient revus avec la personne. Sacha pourra dire à la docteure Rigal ce qu’il a aimé au café, puis à quel moment il a cessé d’écouter la question d’Omar pour compter les secondes. Il peut aussi lui parler de l’envie de renoncer à sa partie de l’atelier qui lui vient après. Le soin peut s’intéresser au poids de cette pensée même si la décision au magasin se prend séparément avec ses collègues.\n\nSacha n’a pas à reconstituer le même groupe pour se donner une deuxième chance. Il tient toujours à poser à Jeanne sa question sur les courges. Il peut reprendre cette conversation un jour où ils se croisent et choisir ce qu’il souhaite faire pour la démonstration en considérant les conditions déjà convenues. Ce sont deux envies qui méritent d’exister chacune à leur rythme."
+        }
+      ],
+      "ending_title": "Le carnet revient avec Jeanne",
+      "ending": "Sacha prend le carnet par le coin sec et dit : « J’ai laissé ma question en plan. Pour les courges. » Jeanne lui répond qu’elle doit filer elle aussi et qu’elle passe à la graineterie la semaine suivante pour acheter de la ficelle. Ils reprendront la conversation s’ils se croisent. L’enveloppe reste avec elle. Sur le chemin du magasin, Sacha songe à écrire à Gaspard pour lui dire qu’il ne se sent plus capable de tenir sa partie à l’atelier. Avant sa prise de poste, il note la question d’Omar sur la cour peu ensoleillée, puis le moment où il a perdu le fil. Il voudrait pouvoir en parler au prochain rendez-vous.",
+      "mirror": [
+        "Jeanne peut rendre le carnet et laisser Sacha choisir s’il veut revenir à la table. « Tiens, tu as laissé ça. Je passe à la graineterie la semaine prochaine, on pourra finir de parler des courges si tu es là. » Elle n’a pas besoin de lui demander pourquoi il s’en va ni de promettre qu’Omar n’a rien remarqué. Si elle doit partir, elle peut le dire. La question des courges peut attendre une rencontre qui leur convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha reprend son carnet, garde une possibilité de conversation avec Jeanne et note le café pour le rendez-vous de soin.",
+        "next": "Avant l’atelier, le cabinet et l’équipe prennent chacun une décision différente sur la suite."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "sacha-fiche-en-place",
+      "title": "Pouvoir hésiter sans qu’on parle à sa place",
+      "description": "Au cabinet, Sacha revient sur le café. À la graineterie, il règle avec Gaspard le moment où son collègue prend le plateau.",
+      "context": "Le cabinet, puis la graineterie la veille de l’atelier",
+      "topics": [
+        "Aide choisie",
+        "Crainte d’être mal interprété",
+        "Besoin de temps pour répondre"
+      ],
+      "opening": "La docteure Rigal retourne le carnet de Sacha pour voir le dessin de la table. Il lui montre la note qu’il a ajoutée sous le croquis : « Qu’est-ce qui pousse dans la cour d’Omar ? » Il avait surtout parlé, à leur dernier rendez-vous, de ce qu’il faisait de ses mains quand il se sentait observé. Aujourd’hui il retrouve l’instant où il avait cessé d’écouter Omar pour se demander s’il avait mis trop longtemps à parler. « J’aurais bien aimé entendre la suite de sa question », dit-il. « Il allait me dire de quel côté donne sa fenêtre. »\n\nIls parlent d’un court échange joué ensemble au cabinet, la semaine précédente. Sacha avait cru que la docteure allait relever les silences de sa réponse. Elle lui avait dit ce qu’elle avait effectivement entendu ; ensemble, ils avaient repris ce qu’il craignait et la place qu’avaient prise les silences à ses yeux. Aujourd’hui elle lui demande ce qu’il voudrait travailler après le café. Il propose de revenir au moment où une question lui plaît et où il cesse pourtant de l’écouter. Ils réservent leur prochain rendez-vous pour discuter de la suite. Il est prévu après le samedi du rempotage.\n\nÀ la boutique, Gaspard a fait un plateau de secours avec une pelle et un pot vide. Les six inscriptions sont arrivées. L’un des habitués a demandé s’il pourrait filmer pour sa fille. Sacha dit qu’il préférerait qu’on puisse repartir avec la fiche. Puis il tend à Gaspard le plateau principal. « Si je fais une pause, attends que je te le tende comme ça. Sinon je risque de penser que tu as cru que je n’allais pas y arriver. » Gaspard prend le plateau, le pèse entre ses mains et lui demande ce qu’il devra dire à ce moment-là.",
+      "sections": [
+        {
+          "heading": "Ce qui se travaille au cabinet",
+          "text": "Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer. Dans l’échange avec la docteure Rigal, Sacha a pu comparer ce qu’il croyait faire entendre à ce qu’elle avait entendu. Dans leur suivi, ils pourront discuter ensemble du café, de la question d’Omar et de ce que Sacha souhaite encore travailler. L’étape suivante dépend de cette discussion.\n\nLe samedi a été choisi pour des raisons qui tiennent à la boutique. Le rendez-vous de soin se poursuit ensuite quelle que soit la façon dont l’atelier se passe. Le nombre de personnes qui viendront et l’état de Sacha ce matin-là ne constituent pas une évaluation clinique. Il pourra raconter une difficulté, une bonne surprise ou simplement l’envie de changer quelque chose à la démonstration."
+        },
+        {
+          "heading": "Organiser un passage de relais ordinaire",
+          "text": "Dans le cadre de l’atelier, prévoir qui fait quoi si le déroulé change est une décision de travail. Gaspard et Sacha ont des parties différentes, et le plateau doit de toute façon passer d’une personne à l’autre. Ils peuvent distinguer une pause pendant laquelle Sacha veut garder la parole et le moment où il souhaite que son collègue la reprenne. Gaspard peut vérifier qu’il a compris ce geste et dire s’il saura tenir le relais avec les autres tâches qu’il a ce jour-là.\n\nLa question du film relève du même accord de préparation : demander aux visiteurs de garder leur téléphone rangé laisse chacun participer sans se retrouver enregistré. La fiche permet de transmettre ce qui intéressait l’habitué. Nora peut annoncer cette règle de la boutique sans raconter la consultation ou justifier le choix au nom de Sacha."
+        }
+      ],
+      "ending_title": "Un signal et six fiches",
+      "ending": "Gaspard essaie de poser le plateau en gardant la motte devant le dessin. « Si tu me le tends, je fais les pots ou je prends les questions ? » Sacha lui dit de commencer par les pots. Nora tiendra la caisse et redira, à l’arrivée des inscrits, qu’il n’y aura pas de film. Elle proposera la fiche aux gens de passage. Sacha en dispose six exemplaires sur la table. Il garde le dessin original dans le chevalet. Avant de rentrer, Gaspard et lui vérifient l’heure à laquelle ils pourront ouvrir ensemble le volet côté vitrine.",
+      "mirror": [
+        "Gaspard peut vérifier leur accord avec le plateau en main : « Je te laisse finir même s’il y a un blanc. Si tu me tends le plateau, je passe aux pots. Ça te va ? » Il peut annoncer ce qu’il est en mesure de faire et confier la caisse ou les inscriptions à Nora. Si Sacha change d’avis sur sa participation, ils pourront décider ensemble de ce qui reste faisable pour la boutique et les visiteurs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha garde sa partie, choisit un signal de relais, et l’équipe fixe le cadre d’accueil et de discrétion.",
+        "next": "Le samedi, Sacha choisit une prise de parole utile quand le déroulé prévu change."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "sacha-racines-au-bord",
+      "title": "Répondre à une question malgré la peur du regard",
+      "description": "Le plant s’effrite au premier geste. Sacha prend un instant pour regarder la motte, puis montre aux visiteurs ce qui reste contre la paroi.",
+      "context": "La graineterie, le samedi de la démonstration",
+      "topics": [
+        "Peur d’être observé",
+        "Attention à l’interlocuteur",
+        "Prise de parole choisie"
+      ],
+      "opening": "À dix heures, il manque une personne. Madame Baudry prend la place près du radiateur et pose sa boîte à biscuits sous sa chaise. Nora ferme le cahier des inscriptions. Un homme demande s’il peut filmer juste les mains pour sa fille. « Ici, on ne filme pas, dit Nora. J’ai une fiche pour votre fille. » L’homme range son téléphone et avance sa chaise pour voir le dessin. Sacha tient le bord du plateau à deux mains. Sur la fiche posée près de lui, il aperçoit le trait plus épais qu’il avait ajouté à la racine.\n\nGaspard présente la table et lui passe le premier plant. La motte sort plus vite que pendant l’essai et s’effrite sur le plateau. Sacha avait prévu de montrer comment elle tient dans la main. Il voit le terreau s’étaler devant le dessin, puis l’index de madame Baudry, qui suit le bord du plateau sans le toucher. « C’est ça que je voyais dans ma boîte ? » Sacha entend la question. Il est encore en train de se demander si les autres ont remarqué qu’il ne disait rien. Gaspard tient son pot vide et attend.\n\nSur le côté de la motte qui a gardé sa forme, Sacha voit de petites racines. Il tourne le plateau vers le radiateur, et madame Baudry se penche, exactement comme Nora l’autre soir. « Approchez un peu la fiche, si vous voulez. Là, ce qu’on voit contre la paroi, ce sont les racines. » Il prononce « paroi » avant de penser au mot de secours. Un homme prend le dessin et le rapproche de la motte. La terre n’a pas cessé de s’étaler sur le bois. Il y a assez de place pour que chacun voie.",
+      "sections": [
+        {
+          "heading": "Ce que Sacha décide au milieu de la peur",
+          "text": "Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres. Dans la scène, Sacha a un instant où il se demande comment son silence est perçu. Il entend aussi une question à laquelle il aimerait répondre. Sa prise de parole est courte et sert à montrer les racines. La peur et l’envie d’expliquer ont toutes deux leur place dans ce moment.\n\nLe contexte lui laisse des possibilités : Gaspard n’interprète pas le blanc comme une demande de relais, et les visiteurs savent qu’ils peuvent consulter une fiche. Sacha peut diriger le regard vers la motte et répondre à madame Baudry. Un autre jour, le même choix pourrait lui demander plus d’effort, ou il pourrait choisir de passer la main. La forme que prend sa participation aujourd’hui lui appartient."
+        },
+        {
+          "heading": "Une démonstration qui s’ajuste en cours de route",
+          "text": "Le guide NICE décrit un travail possible au cabinet sur l’attention portée à soi et sur ce que la personne remarque autour d’elle. À la graineterie, la question de madame Baudry a une utilité ordinaire : elle montre ce dont les visiteurs sont venus parler. Sacha pourra raconter au cabinet comment il l’a entendue malgré son inquiétude.\n\nLeur rôle peut rester simple : faire circuler le dessin, attendre une réponse ou demander de mieux voir. Gaspard a ses pots à présenter et un signal convenu pour les prendre au bon moment. Sacha peut lui tendre le plateau quand il a dit ce qu’il souhaitait. Les quinze minutes prévues laissent ensuite place aux achats, au rangement et à des conversations plus courtes avec les gens qui en ont envie."
+        }
+      ],
+      "ending_title": "Le plateau passe à gauche",
+      "ending": "Sacha cale la motte dans le pot de récupération et ajoute du terreau et lève les yeux vers madame Baudry. Elle a encore une question sur la taille du contenant, qu’elle garde pour plus tard. Il tend alors le plateau vers la gauche. Gaspard pose dessus les pots qu’il a préparés et explique d’où ils viennent. L’homme qui voulait filmer prend une fiche pour sa fille. À la fin, Nora rouvre le cahier pour vérifier les inscriptions et l’heure réelle de fin. Sacha met la terre tombée sur la table dans un pot vide. Madame Baudry attend qu’il relève la tête pour lui montrer sa boîte.",
+      "mirror": [
+        "Gaspard peut tenir l’accord qu’ils ont pris la veille, même si la motte se défait. Quand Sacha lui tend le plateau, il peut dire : « Je prends la suite pour les pots. Vous pourrez regarder la fiche pendant ce temps. » S’il a besoin de savoir quand Sacha est prêt à ranger, il peut lui poser cette question après le départ du groupe. Il n’a pas à commenter son niveau d’anxiété devant les visiteurs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha montre les racines en réponse à une question, puis confie le plateau à Gaspard comme prévu.",
+        "next": "La démonstration a eu lieu ; le retour au travail et au cabinet permet de parler aussi de l’effort qui n’était pas visible."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "sacha-plier-la-table",
+      "title": "La fatigue qui suit un atelier réussi",
+      "description": "L’atelier a donné des idées aux visiteurs. Sacha discute de la fatigue qui a suivi et de la façon dont l’équipe gardera le dessin disponible.",
+      "context": "La graineterie, le mardi suivant, puis le cabinet",
+      "topics": [
+        "Effort invisible",
+        "Besoin de répit",
+        "Limites au travail"
+      ],
+      "opening": "Gaspard a laissé la table ouverte jusqu’au mardi parce qu’un ressort s’est coincé. Il s’agenouille avec un tournevis pendant que Sacha retire les fiches restées sur le plateau. Il y en a une avec un cercle autour du plus petit pot. Madame Baudry avait pris sa boîte sous sa chaise pour lui demander s’il pouvait y mettre un pot de cette taille le temps du transport. À deux, Sacha lui avait répondu et lui avait même montré une cale faite avec du carton. Elle avait emporté une fiche ; celle qu’elle avait annotée est restée sur la table.\n\nNora apporte un chiffon. L’homme qui voulait filmer est revenu acheter du terreau le matin même ; sa fille lui avait posé une question sur le dessin. Gaspard demande s’ils devraient refaire la démonstration bientôt. Il aime l’idée que les pots récupérés partent en même temps que les plants. Sacha passe le doigt sur le cercle de madame Baudry. Il aimerait qu’on puisse toujours trouver le dessin. À l’idée d’une deuxième date, il repense à la journée qui a suivi l’atelier : il a laissé son téléphone vibrer longtemps avant de rappeler son frère. Quand il est finalement sorti avec lui, ils ont fait le tour du pâté de maisons au lieu d’aller au repas prévu. Sacha avait envie de voir son frère. Il n’avait pas envie d’une autre table.\n\n« Je ne sais pas encore si je veux reprendre un samedi », dit-il. Gaspard lève le tournevis. Il avait prévu de demander aussi s’ils pourraient laisser le chevalet sur le comptoir, où les gens verraient le dessin en achetant les plants. Sacha lui tend la fiche annotée. Ça, il sait qu’il en a envie.",
+      "sections": [
+        {
+          "heading": "Une tâche peut être faite au prix d’un effort invisible",
+          "text": "Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement. Le fait que Sacha ait transmis une information utile aux visiteurs et la fatigue qu’il décrit après l’atelier peuvent être vrais en même temps. Le temps d’attente avant d’appeler son frère lui donne une façon précise de parler de ce que l’atelier lui a demandé. La fatigue d’une journée ne s’explique toutefois pas à elle seule par un diagnostic.\n\nIl y a eu aussi un échange qui lui a plu avec madame Baudry, une fois les autres visiteurs partis. En parler au cabinet donne une image plus complète de la matinée. Sacha peut garder de cet atelier le plaisir d’une conversation et demander de revoir la préparation avant d’en prendre un autre en charge."
+        },
+        {
+          "heading": "Deux retours avec des questions différentes",
+          "text": "NICE recommande de faire participer la personne à l’examen des effets du soin. Sacha peut dire à la docteure Rigal comment il a vécu le samedi, de la veille au lendemain, et ce qu’il voudrait encore pouvoir faire. Elle peut l’aider à reprendre les difficultés qui comptent pour lui, même quand le travail qu’il voulait faire a été accompli. La conversation avec son frère appartient aussi à la vie qu’il cherche à préserver.\n\nÀ la graineterie, Nora et Gaspard peuvent reprendre des questions propres à leur activité. Qu’est-ce que les visiteurs ont trouvé utile ? Peuvent-ils laisser des fiches au comptoir, et qui en remettra quand il n’y en aura plus ? Une deuxième date pourra être discutée si chacun en a envie et si le planning le permet. Sacha peut préférer contribuer autrement pour le moment."
+        }
+      ],
+      "ending_title": "Le chevalet reste au comptoir",
+      "ending": "Gaspard libère le ressort. Sacha replie la table avec lui, puis pose le chevalet à côté du cahier des commandes. Ils s’accordent sur une dizaine de fiches en libre-service. En fin de journée, au cabinet, Sacha parle de la réponse sur les racines et du dimanche avec son frère. Il veut continuer à travailler sur les moments où il surveille chaque mot, même quand la conversation lui plaît. En sortant, il envoie un message à son frère pour lui proposer un tour au marché, tous les deux. Il a oublié ce qu’il voulait lui raconter la dernière fois. Il se rappelle juste qu’il a envie de le voir.",
+      "mirror": [
+        "Gaspard peut dire ce qu’il a aimé sans proposer aussitôt une date : « J’ai aimé voir les gens repartir avec des pots. Je suis partant pour mettre la fiche au comptoir. On parlera d’un autre samedi si on en a envie tous les deux. » Il peut aussi dire qu’il veut garder ses prochains samedis libres. Si Sacha lui parle de sa fatigue, il peut l’entendre sans lui demander de justifier sa décision de prendre du temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha et Gaspard laissent la fiche au comptoir et ne fixent pas d’autre atelier ; Sacha continue son suivi.",
+        "next": "Jeanne revient chercher de la ficelle et Sacha reprend la conversation restée en suspens au café."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "sacha-ligne-pour-le-cafe",
+      "title": "Contribuer à un projet sans se sentir obligé de parler devant tous",
+      "description": "Jeanne revient pour la ficelle. Sacha reprend sa question sur les courges et choisit la place qu’il veut prendre au prochain échange de graines.",
+      "context": "La graineterie, un matin près du comptoir",
+      "topics": [
+        "Préférences relationnelles",
+        "Choix de participation",
+        "Reprise d’une conversation"
+      ],
+      "opening": "Jeanne arrive quand Sacha coupe les longueurs de ficelle pour les commandes. Elle avait promis de passer la semaine dernière et n’a pas trouvé le temps. Elle pose le sachet de pois de senteur au bord du comptoir. Il a pris la forme de la poche où elle le range. Les pois de senteur ont laissé place à des graines de courge. Jeanne a noté la variété au crayon. Sacha lui demande comment elle les fait sécher. Il reconnaît le coin du papier qu’il avait recollé au cabinet.\n\nIls parlent près de la bobine jusqu’à ce que la sonnette annonce une autre cliente. Sacha perd un mot au milieu d’une question. La cliente prend une fiche dans le chevalet, la retourne et la repose avant de gagner le rayon des étiquettes. Sacha prend la bobine, coupe la longueur que Jeanne lui a demandée et lui demande de finir l’histoire de son rebord de fenêtre. La cliente est toujours dans le rayon. Il entend ses clefs tinter quand elle fouille dans son sac.\n\nJeanne lui parle du prochain échange de graines. Elle est chargée de préparer des feuilles où chacun peut écrire quand il a semé et dans quel coin du quartier. Elle aimerait qu’il dise quelques mots à la table au début. Sacha regarde son carnet : sur le dessin de la table, le bord de la page a gondolé au café. Il sait ce qu’il pourrait raconter sur les haricots de monsieur Da Costa. Il a aussi envie de s’asseoir un jeudi avec Jeanne pour faire un plan des rues et mettre de la place pour les dates. Il lui demande de voir le modèle de feuille qu’elle a déjà préparé.",
+      "sections": [
+        {
+          "heading": "Une possibilité retrouvée peut prendre plusieurs formes",
+          "text": "Vivre avec de l’anxiété sociale laisse une place aux préférences et aux décisions qui n’ont pas besoin d’être expliquées par la santé. Sacha a pu parler devant les visiteurs du magasin, avec Gaspard, de quelque chose qu’il souhaitait montrer. Il peut maintenant préférer dessiner une feuille à deux. Son choix a un contenu : relier les dates de semis à l’orientation des rues, pour que les gens du café puissent comparer leurs expériences. Reprendre de la liberté dans sa participation peut compter autant, pour lui, que prendre la parole dans un autre groupe.\n\nIl garde aussi des difficultés qu’il veut continuer à travailler. Quand une cliente entre, Sacha perd une partie de sa question et attend avant de la reprendre. Au cabinet, il peut raconter comment il reprend le fil aujourd’hui et comment les choses se sont passées quand il s’est retrouvé à la table du café."
+        },
+        {
+          "heading": "Garder une façon de reparler des difficultés",
+          "text": "NICE décrit un travail de préparation à d’éventuelles difficultés futures dans les thérapies adaptées à l’anxiété sociale. Avec la docteure Rigal, Sacha peut revoir les situations où il commence à renoncer à des activités qu’il voudrait garder, et convenir de la façon dont il pourrait en parler si elles prennent de nouveau beaucoup de place. Il peut garder dans son carnet un exemple qui l’aide à expliquer ce qui se passe. Ce repère est pour lui et pour le suivi s’il le souhaite.\n\nAvec Jeanne, il suffit de préciser une envie et une disponibilité. Elle peut proposer un jeudi où le café est calme ; Sacha peut dire ce qu’il compte dessiner et la laisser choisir le format avec lui. Ils peuvent prendre plaisir à préparer l’échange sans avoir à décider qui parlera devant tout le monde."
+        }
+      ],
+      "ending_title": "Deux places le jeudi",
+      "ending": "Jeanne déplie sa feuille. Dans la colonne « où ? », quelqu’un a déjà écrit « chez moi ». Sacha rit et trace sur le brouillon la courbe de la rue du terminus. Il lui propose de reprendre la carte ensemble jeudi matin, à l’ouverture du café. « Pour parler à toute la table, je te laisse demander à quelqu’un d’autre cette fois. » Jeanne lui dit qu’elle n’avait pas encore regardé les horaires et vérifie le jeudi avec lui. Sacha glisse le sachet entre deux pages de son carnet. La fiche de rempotage est un peu de travers sur le comptoir. Il la remet droite pour la personne suivante.",
+      "mirror": [
+        "Jeanne peut entendre l’offre de Sacha et décider de ce qu’elle veut préparer avec lui. « Je veux bien qu’on dessine les rues jeudi. Pour le début de l’échange, je verrai avec quelqu’un qui veut parler. » Elle peut lui demander combien de temps il a pour la carte et dire ce qu’elle peut faire de son côté. Il n’a pas à raconter son soin pour se mettre d’accord."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete-sociale"
+      ],
+      "continuity": {
+        "choice": "Sacha reprend la conversation sur les courges, propose un travail à deux et choisit de ne pas prendre la parole au prochain échange.",
+        "next": "Le rempotage a eu lieu ; la fiche reste en usage, le suivi se poursuit et Sacha a un engagement qu’il a choisi avec Jeanne."
+      }
+    }
+  ]
+}

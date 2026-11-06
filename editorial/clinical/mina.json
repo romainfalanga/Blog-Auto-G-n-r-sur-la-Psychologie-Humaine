@@ -1,17 +1,24 @@
 {
   "character_id": "mina",
-  "bio": "À 30 ans, Mina est assistante logistique dans un festival de quartier et apprend la reliure. Elle souhaite finir un carnet pour sa cousine Alice et préserver deux liens qui comptent pour elle. Elle bénéficie d’un suivi depuis qu’une professionnelle a diagnostiqué un trouble de la personnalité avec profil borderline.",
+  "bio": "Mina, 30 ans, travaille à la logistique d’un festival de quartier et apprend la reliure. Attentive aux détails, elle tient à fabriquer un carnet pour sa cousine Alice. Quand Alice tarde à répondre ou qu’une consigne change au travail, Mina peut vite craindre qu’on la mette à l’écart. Elle cherche à demander ce qui lui manque pour comprendre, à reprendre le dialogue avec Rachid, son collègue, après un accrochage et à garder du temps pour ce qu’elle aime faire.",
+  "profile_topics": [
+    "Crainte de perdre un lien",
+    "Interprétation des intentions",
+    "Émotions dans les conflits",
+    "Reprendre le dialogue",
+    "Limites de l’entraide"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "mina-rendez-vous-papier-carnet",
-      "title": "L’heure à laquelle Alice peut venir",
+      "title": "La crainte du rejet quand Alice annonce son retard",
       "description": "Mina attend sa cousine devant la papeterie. Un message sur le retard change l’heure du rendez-vous et Mina demande ce qui reste possible.",
       "context": "Devant une papeterie à la fin de la journée",
       "topics": [
-        "Profil borderline",
-        "Fonctionnement durable",
-        "Demandes explicites"
+        "Crainte du rejet",
+        "Interprétation d’un message bref",
+        "Demande d’une précision"
       ],
       "opening": "La papeterie a posé les grandes feuilles contre la vitre, du côté où le soleil les fait pâlir. Mina regarde si le vert qu’elle avait choisi la semaine dernière est toujours là. Elle a promis à Alice un carnet fait à la main. Alice aimerait y écrire les retouches de costumes de sa troupe de théâtre. Elle a demandé des pages assez grandes pour dessiner une manche et un carnet assez mince pour tenir dans son sac. Elles devaient se retrouver pour voir le papier.\n\nLe message d’Alice arrive sept minutes après l’heure fixée. « Je ne serai pas là à temps. » Mina lit la phrase deux fois. Le mot « temps » lui reste dans la tête. Elle commence à penser qu’Alice a accepté ce cadeau par politesse et qu’elle regrette maintenant de devoir passer à la boutique. Derrière la vitre, la vendeuse retourne une étiquette. Elle n’a plus qu’une pile de vert. Mina saisit son téléphone pour répondre « Laisse tomber ». Avant de l’envoyer, elle lit sa phrase avec les mots d’Alice au-dessus.\n\nUne psychiatre a diagnostiqué un trouble de la personnalité chez Mina avant cette histoire et a précisé un profil borderline. En séance, Mina a déjà parlé de ces moments où elle croit savoir à quoi tient un retard, puis découvre qu’il lui manquait une information. Aujourd’hui, elle voudrait encore voir Alice et elle a quinze minutes avant que la vendeuse ferme. Elle efface sa phrase et cherche la question qui l’aidera à décider quoi faire de ces quinze minutes.",
       "sections": [
@@ -41,13 +48,13 @@
     {
       "number": 2,
       "slug": "mina-livraison-dix-neuf-heures",
-      "title": "De dix-sept à dix-neuf heures",
+      "title": "Se croire écartée après un changement d’horaire au festival",
       "description": "Un message de Rachid déplace la livraison prévue au festival. Mina vérifie l’heure, la tâche et le relais avant de décider de sa soirée.",
       "context": "Dans le local des préparatifs du festival",
       "topics": [
-        "Incertitude dans les relations",
-        "Coordination au travail",
-        "Demande claire"
+        "Incertitude sur sa place dans l’équipe",
+        "Vérification d’une interprétation",
+        "Répartition des tâches"
       ],
       "opening": "Au feutre, l’heure de livraison prend la largeur de deux cases. Mina a écrit « dix-sept heures » sur le tableau du festival, puis a ajouté son prénom dessous, à côté de celui de Rachid. On attend des boîtes de programmes dans le petit local donnant sur la rue. Ils ont posé des étiquettes à même le sol pour que chaque équipe sache où venir chercher sa pile. Mina a même gardé une place sous la table pour les exemplaires que personne ne réclame avant le dernier jour.\n\nRachid écrit « Pour mardi, ça passe à dix-neuf heures. Je m’en occupe. » Mina lève les yeux du téléphone pour voir si quelqu’un d’autre a reçu le changement. Le local est vide. La phrase ressemble au message qu’il aurait envoyé si elle avait oublié quelque chose et qu’il avait choisi de reprendre la tâche. Elle tire déjà un trait sur son prénom au tableau. Le feutre glisse et elle s’arrête avant de toucher celui de Rachid.\n\nÀ dix-neuf heures, elle a un cours de reliure. La personne qui anime l’atelier lui a demandé d’apporter les papiers qu’elle hésite à utiliser. Mina pourrait annuler le cours et venir au local, au cas où « je m’en occupe » n’inclurait pas le classement des boîtes. Elle pourrait aussi fermer l’agenda et attendre qu’on lui dise ce qu’elle a fait de travers. Elle regarde la ligne au tableau. Elle veut surtout savoir si Rachid attend sa présence ou l’organisation qu’elle avait déjà préparée.",
       "sections": [
@@ -77,13 +84,13 @@
     {
       "number": 3,
       "slug": "mina-pli-papier-reliure",
-      "title": "Le premier pli de la couverture",
+      "title": "Se juger sur une erreur quand on apprend la reliure",
       "description": "À l’atelier, Mina trouve un défaut sur la couverture. Elle reprend une étape de la reliure et choisit elle-même le papier du carnet.",
       "context": "Un soir dans l’atelier de reliure",
       "topics": [
-        "Image de soi",
-        "Apprentissage",
-        "Choix créatif"
+        "Variation de l’image de soi",
+        "Comparaison aux autres",
+        "Retour précis sur une erreur"
       ],
       "opening": "Au milieu de la table, une couverture verte tient sous deux livres. Mina les a empilés pour que le papier cesse de se relever par un coin. Quand elle retire le premier, le pli qu’elle a fait tout à l’heure apparaît plus clair que le reste. Béatrice, qui anime l’atelier, se penche pour regarder. Elle lui explique que sur cet échantillon le trait reste visible. Mina entend qu’il faudra recommencer. Elle a déjà remis le deuxième livre en place avant que Béatrice lui montre l’autre face de la couverture.\n\nÀ côté, deux personnes ont posé des carnets qui se ferment bien. Mina passe le doigt sur le trait blanc. Avant le cours, elle se réjouissait d’avoir choisi une couleur qu’Alice aimait. Elle regarde maintenant le carton et se demande pourquoi elle a promis de fabriquer un objet dont elle ne connaît pas encore toutes les étapes. Elle commence à rassembler ses feuilles pour les remettre dans le sac.\n\nBéatrice lui demande si elle veut regarder ce qui l’a gênée dans le pli. Mina aimerait que la réponse indique directement si le carnet sera assez bien pour Alice. Béatrice attend près de la table, un morceau de papier de brouillon à la main. Mina regarde les deux coins de couleur qu’elle a gardés de la papeterie. Elle sait déjà comment le vert rend avec une page blanche. Ce qu’elle voudrait voir, maintenant, c’est si elle peut refaire le pli sur un autre bout du même papier.",
       "sections": [
@@ -113,13 +120,13 @@
     {
       "number": 4,
       "slug": "mina-pause-loges-festival",
-      "title": "Une pause derrière les caisses",
+      "title": "Tension après un reproche au travail : Mina prend une pause",
       "description": "Au festival, un reproche fait monter la tension. Mina demande un court relais pour la livraison et choisit de reprendre l’échange plus tard.",
       "context": "Dans la cour des livraisons du festival",
       "topics": [
-        "Émotions intenses",
-        "Relais au travail",
-        "Pause choisie"
+        "Réaction à un reproche public",
+        "Pause dans un échange tendu",
+        "Relais au travail"
       ],
       "opening": "Le conducteur a laissé son bon sur le siège et veut qu’on l’aide à retrouver le nom de la personne qui doit recevoir les tables. Mina lui montre le planning affiché à la porte. Elle avait transmis le numéro du local, avec le côté par lequel on peut décharger. Sur la fiche que tient Rachid, une autre entrée est indiquée. Il traverse la cour en disant qu’il faut déplacer les tables tout de suite. Deux bénévoles se retournent pour écouter.\n\n« Tu as mis la livraison au mauvais endroit », lui dit Rachid. Mina sent que sa réponse est déjà sortie lorsqu’elle l’entend. « Tu ne lis jamais ce que j’envoie. » Elle voit qu’il s’arrête devant la première caisse. Le conducteur attend encore près de son siège. Ils auront besoin d’un endroit où poser les tables avant de savoir quelle fiche était la bonne. Mina connaît le numéro de la personne qui coordonne les livraisons. Elle n’arrive pas à se rappeler où elle l’a noté.\n\nElle retrouve dans sa poche le bout de papier vert qu’elle avait apporté à l’atelier. Le coin dépasse de l’étui du téléphone. Elle le repousse et demande à une collègue qui arrive si elle peut appeler la coordination pour confirmer le lieu de dépôt. Puis elle dit à Rachid qu’elle va prendre quelques minutes derrière les caisses. Elle voudrait reprendre les documents avec lui quand ils pourront entendre la réponse du conducteur et regarder les deux fiches à la même table.",
       "sections": [
@@ -149,12 +156,12 @@
     {
       "number": 5,
       "slug": "mina-excuse-et-desaccord",
-      "title": "Une excuse et une consigne à revoir",
+      "title": "S’excuser après un conflit au travail sans effacer le désaccord",
       "description": "Mina et Rachid reprennent leur échange. Ils réparent une part du désaccord et demandent à la coordination de clarifier la consigne.",
       "context": "Sur les marches à côté du local",
       "topics": [
         "Réparation après un conflit",
-        "Limites",
+        "Désaccord qui reste ouvert",
         "Responsabilités partagées"
       ],
       "opening": "Rachid sort du local avec les deux fiches roulées dans la main. Ils ont convenu de se voir sur les marches après la dernière livraison. Il reste une trace de boue à l’endroit où le conducteur avait posé son bon. Mina s’assied plus haut pour qu’ils puissent étaler les documents entre eux. Elle a préparé la phrase qu’elle veut dire. Quand Rachid lui montre le logo différent en haut de sa fiche, elle est tentée de commencer par le document. Elle enfonce le coin du papier sous sa chaussure pour qu’il arrête de se soulever.\n\n« Je t’ai dit que tu ne lisais jamais rien. Ça dépassait ce qui s’est passé. Je te demande pardon. » Rachid l’écoute puis dit qu’il aurait pu lui montrer la feuille avant de dire devant les bénévoles qu’elle s’était trompée. Mina attend la phrase qui vient après. Il pense toujours que la consigne aurait dû être confirmée avant le passage du conducteur. Elle pense que deux documents envoyés par le festival auraient dû donner la même entrée.\n\nIls voient une bénévole passer avec trois chaises empilées. Elle leur demande si les tables seront de nouveau déplacées. Rachid lui dit que le dépôt est terminé et qu’ils vérifient la suite. Mina avait imaginé repartir avec un accord sur toute la dispute. Elle se rend compte qu’elle peut lui demander de signaler les deux consignes à la coordination. Pour le reste, il a déjà dit ce qu’il pense, et elle sait qu’elle a encore des choses à lui répondre.",
@@ -185,13 +192,13 @@
     {
       "number": 6,
       "slug": "mina-horaire-alice-limites",
-      "title": "Ce qu’Alice peut promettre",
+      "title": "Peur de perdre un lien quand un rendez-vous reste incertain",
       "description": "Mina et Alice parlent de leurs rendez-vous. Elles précisent quand elles pourront se prévenir et laissent le prochain dimanche ouvert.",
       "context": "Au café où les deux cousines se retrouvent",
       "topics": [
-        "Crainte de perdre un lien",
-        "Disponibilité",
-        "Limites dans l’entraide"
+        "Peur de perdre un lien",
+        "Limites de disponibilité",
+        "Préserver du temps pour soi"
       ],
       "opening": "Alice a posé sur la table un ourlet tenu par une épingle. Elle doit le rapporter au théâtre avant la répétition. Mina rapproche sa tasse de peur qu’un peu de café tombe dessus. Elle avait proposé de se voir dimanche pour essayer le format du carnet. Alice lui annonce qu’elle ne saura que samedi si elle a le temps. Mina pense au message qui est arrivé devant la papeterie et lui demande si elle peut la prévenir plus tôt cette fois.\n\nAlice retourne le tissu pour cacher le fil qui dépasse. « Je peux te dire que je ne sais pas. Pour dimanche, ça risque de rester comme ça jusqu’à samedi. » Mina s’attendait à ce qu’elle propose au moins une heure. Elle regarde les gens qui se lèvent vers la porte. Elle pourrait lui dire qu’elle a compris et passer la soirée à vérifier son téléphone. Elle pourrait aussi lui demander de réserver tous leurs dimanches, ce qu’elle ne voudrait pas vraiment faire elle-même.\n\nMina dit qu’elle aurait besoin de pouvoir prévoir son après-midi. Alice répond qu’elle peut lui écrire samedi avant dix-huit heures si elle a une réponse. Elle ne promet pas de pouvoir venir. Mina pousse l’ourlet de quelques centimètres pour faire de la place aux tasses. Elle a vu qu’il reste un créneau de reliure dimanche. Elle aimerait le prendre et garder un autre moment pour retrouver sa cousine. Elle ne sait pas encore comment le lui dire sans faire sonner la phrase comme un reproche.",
       "sections": [
@@ -221,13 +228,13 @@
     {
       "number": 7,
       "slug": "mina-plan-de-suivi-et-choix",
-      "title": "Ce que Mina veut garder dans son suivi",
+      "title": "En thérapie, Mina cherche comment demander une réponse claire",
       "description": "Mina parle à sa thérapeute de deux échanges récents. Elle ajuste ses objectifs et choisit la partie du plan qu’elle souhaite partager avec Alice.",
       "context": "Au rendez-vous de suivi, la semaine du festival",
       "topics": [
-        "Suivi structuré",
-        "Plan de crise",
-        "Consentement des proches"
+        "Demande claire dans une relation",
+        "Aide convenue avec une proche",
+        "Plan de crise avec l’équipe"
       ],
       "opening": "Mina a recopié sur un ticket les horaires du festival, parce qu’elle n’a pas envie d’ouvrir le planning pendant la séance. Elle a barré la livraison de mardi et entouré l’heure à laquelle la cour ouvre aux bénévoles. Sa thérapeute lui demande ce qu’elle aimerait reprendre aujourd’hui. Mina pose d’abord le ticket du côté où on ne voit que le nom de la supérette. Elle parle du message de Rachid, du rendez-vous au café avec Alice, puis de l’excuse sur les marches.\n\nQuand elle arrive à l’ourlet qu’Alice devait rendre au théâtre, elle se rappelle à quel point elle avait voulu une réponse pour dimanche. Au moment de réserver l’atelier, elle a eu l’impression de faire seule un choix qu’elle aurait aimé partager. Elle explique à sa thérapeute qu’elle voudrait apprendre à demander une réponse plus claire quand elle en a besoin et à faire quelque chose de son temps si la réponse doit attendre. Elle aimerait aussi parler de ce qui se passe quand elle n’y arrive plus.\n\nElles retrouvent dans le dossier le plan qu’elles ont préparé avec l’équipe de soins. Mina connaît le nom du service à joindre en journée. Elle hésite encore sur celui qu’elle peut appeler après les heures habituelles. Elle demande si elles peuvent remettre cette information en haut de la page. Elle se demande quelle partie de la feuille elle voudrait montrer à Alice. La cousine a ses horaires de répétition. Mina veut pouvoir retrouver le contact même les soirs où Alice ne répond pas.",
       "sections": [
@@ -257,13 +264,13 @@
     {
       "number": 8,
       "slug": "mina-appeler-contact-prevu",
-      "title": "La ligne à joindre quand la détresse monte",
+      "title": "Détresse le soir : Mina appelle le service prévu avec son équipe",
       "description": "Un soir, Mina se sent dépassée et retrouve le contact prévu avec son équipe. Alice l’aide à passer le relais dans les limites convenues.",
       "context": "Chez Mina, après les préparatifs du festival",
       "topics": [
-        "Détresse",
-        "Recours prévu",
-        "Relais professionnel"
+        "Détresse et demande d’aide",
+        "Limites de l’aide d’une proche",
+        "Relais professionnel prévu"
       ],
       "opening": "Le téléphone de Mina ne sonne plus depuis qu’elle l’a posé sur la table, mais elle le retourne à chaque bruit qui vient de l’immeuble. Les préparatifs ont pris du retard. Quelqu’un a demandé dans la conversation du festival qui pourrait reprendre une tâche le lendemain. Le message s’est ajouté aux autres et Mina n’arrive plus à distinguer ceux qui attendent une réponse. Elle a déjà tapé trois débuts de phrase. Le dernier dit qu’elle veut tout quitter. Elle ne l’envoie pas. Elle pose l’appareil, s’assied près de la porte et se rend compte qu’elle pleure depuis un moment.\n\nElle appelle Alice. Sa cousine a quelques minutes avant de rejoindre les autres au théâtre. Mina lui dit qu’elle se sent vraiment dépassée et qu’elle voudrait parler à quelqu’un maintenant. Alice lui demande si elle a toujours la ligne qu’elles avaient regardée ensemble. Mina a le téléphone contre l’oreille. Elle avait complètement oublié le papier derrière la coque. Elle le retrouve et le pose sur la table, près de la boîte où elle range les fils du carnet.\n\nAlice lui dit qu’elle peut rester quelques minutes pendant qu’elle retrouve le contact. Mina lui demande de garder le fil le temps qu’elle écrive le numéro sur un autre papier. Puis elle lui dit qu’elle va appeler le service. Quand quelqu’un décroche, elle donne son prénom et dit qu’elle a un plan préparé avec son équipe, et qu’elle a besoin d’aide pour traverser ce qui se passe ce soir.",
       "sections": [
@@ -293,13 +300,13 @@
     {
       "number": 9,
       "slug": "mina-revoir-le-relais-avec-alice",
-      "title": "Revoir le relais avec Alice",
+      "title": "Après une crise, Mina choisit quand donner des nouvelles à Alice",
       "description": "Après une soirée difficile, Mina ajuste son plan au suivi et précise avec Alice les nouvelles qu’elles souhaitent se donner.",
       "context": "À la sortie du théâtre, quelques jours plus tard",
       "topics": [
-        "Suivi après une crise",
-        "Confidentialité",
-        "Choix du proche"
+        "Entente sur l’aide après une crise",
+        "Choix de donner des nouvelles",
+        "Révision du plan avec les soignants"
       ],
       "opening": "À la sortie du théâtre, Alice a oublié de retirer un fil blanc de sa manche. Mina le lui montre. Alice tire dessus jusqu’à ce qu’il casse, puis demande si elles peuvent marcher jusqu’à l’arrêt ensemble. Mina a dans son sac le papier que la thérapeute lui a donné au rendez-vous de ce matin. Elle a signalé le temps qu’il lui avait fallu pour retrouver le numéro derrière la coque. Elles ont convenu de garder aussi le contact à un endroit facile à ouvrir sur le téléphone. Elle voudrait parler de cette seule partie avec Alice.\n\nAvant qu’elle trouve comment commencer, Alice lui dit qu’elle s’est demandé si elle aurait dû rester plus longtemps au téléphone. Elle était entrée en répétition quand Mina a écrit qu’elle avait joint le service. Elle n’a vu le message que plus tard. Mina l’écoute en suivant des yeux le fil qui reste sur le manteau. Elle avait compris qu’Alice entrait au théâtre. Elle lui dit qu’elle avait surtout eu besoin d’entendre une voix le temps de retrouver le papier.\n\nAlice demande si Mina pourrait lui envoyer systématiquement un message après chaque appel au service. Mina se surprend à vouloir dire oui tout de suite. Elle voudrait surtout qu’Alice sache à quoi s’attendre si elles se retrouvent dans la même situation. Elle pose la main sur la bretelle de son sac. Elle peut lui dire quelle phrase l’a aidée et lui demander ce qu’elle aimerait convenir, en gardant la liberté de choisir quand elle parle de ses soins.",
       "sections": [
@@ -329,13 +336,13 @@
     {
       "number": 10,
       "slug": "mina-ouverture-festival-repartir",
-      "title": "Une liste à reprendre le matin du festival",
+      "title": "Mina sent la tension revenir et précise ses limites au festival",
       "description": "Le jour de l’ouverture, des boîtes manquent au local. Mina précise ce qu’elle peut faire et confie une autre part à l’équipe.",
       "context": "Dans le local, le premier matin du festival",
       "topics": [
-        "Retentissement au travail",
-        "Limites concrètes",
-        "Coopération"
+        "Réaction à l’indisponibilité d’un collègue",
+        "Expression de ses limites au travail",
+        "Passage de relais dans l’équipe"
       ],
       "opening": "Les bénévoles entrent par deux pour venir chercher leur enveloppe. Mina leur demande de donner le nom de leur équipe. Elle a laissé une petite pile sous la table, comme prévu, et les noms sont lisibles depuis la porte. Certaines équipes doivent passer plus tard, en rentrant de la place. Leurs enveloppes sont à part, sous la feuille où Mina note les retraits. Quand la première bénévole cherche sa boîte, Mina voit que les programmes qui devaient arriver en complément n’ont pas été déposés. Dans la marge du planning, quelqu’un a écrit qu’il faudrait les chercher dans l’autre salle.\n\nRachid passe la tête par la porte. Il est attendu pour réceptionner un autre envoi. Mina lui demande s’il a cinq minutes pour regarder la liste. Il secoue la tête et dit qu’il pourra la voir plus tard. Elle sent revenir la réponse qu’elle avait donnée dans la cour. Elle l’entend presque dans sa bouche. Cette fois, elle lui demande juste à quel moment il pense pouvoir revenir. Il ne sait pas encore. Il lui montre l’endroit où le contact de la coordination figure sur le nouveau document.\n\nMina peut préparer les enveloppes sans tous les programmes, le temps d’avoir la confirmation. Elle appelle la coordination pour signaler la boîte manquante. Elle avait espéré finir tôt et passer à l’atelier de reliure, où Béatrice laisse des personnes travailler après le cours. Elle reste un instant devant la table avant de dire ce qu’elle peut couvrir. Elle peut distribuer ce qui est prêt jusqu’à la fin de son créneau. Quelqu’un devra vérifier ensuite ce qui a été livré et ce qui manque encore.",
       "sections": [
@@ -365,13 +372,13 @@
     {
       "number": 11,
       "slug": "mina-carnet-offert-alice",
-      "title": "Les six premières pages du carnet",
+      "title": "Offrir un cadeau quand on redoute la réaction de l’autre",
       "description": "Mina termine le carnet d’Alice. Elle le lui offre et lui laisse le temps de choisir quand et comment elle l’utilisera.",
       "context": "Sur le banc devant l’atelier de reliure",
       "topics": [
-        "Choix relationnels",
-        "Don et réciprocité",
-        "Préférences personnelles"
+        "Inquiétude devant une réponse différée",
+        "Liberté de réagir à un cadeau",
+        "Plaisir de faire un objet pour quelqu’un"
       ],
       "opening": "Béatrice passe son pouce le long de la tranche et demande à Mina si elle veut encore corriger le petit décalage du papier vert. Mina a déjà passé plus de temps sur ce bord que sur le reste de la couverture. Elle ouvre le carnet à la première page, puis à la sixième. Elles s’ouvrent toutes assez loin pour qu’Alice dessine une manche. Elle laisse le coin comme il est et récupère le morceau couleur de rouille qu’elle avait gardé pour un autre essai.\n\nAlice lui a dit qu’elle pourrait passer devant l’atelier après avoir rendu un costume. Mina sort avec le carnet enveloppé dans du papier de récup. Elle hésite entre écrire un mot sur la première page et laisser toute la place à Alice. Elle avait pensé écrire quelque chose sur les rendez-vous qu’elles ont remis. À la lumière de la rue, elle trouve que ce serait demander au carnet de faire un travail pour lequel elle l’a peu préparé. Elle glisse le mot qu’elle avait commencé dans sa poche.\n\nAlice arrive avec un cabas trop plein pour recevoir un autre paquet. Elle s’assied à côté de Mina et en retire le sac d’un costume. Mina lui tend le carnet. Alice dit « Attends » en continuant de chercher de la place. Pendant un instant, Mina a envie de savoir si elle aurait préféré acheter le sien. Alice tient à présent d’une main une boîte de boutons dont le couvercle se soulève. Elle pose le paquet sur le banc et lui demande si elle préfère l’ouvrir ici ou chez elle.",
       "sections": [
@@ -401,13 +408,13 @@
     {
       "number": 12,
       "slug": "mina-table-apres-festival",
-      "title": "La table après la fermeture",
+      "title": "Après le festival, garder du temps pour soi malgré le désaccord",
       "description": "Après le festival, Mina et Rachid rangent le local. Mina garde son suivi et réserve un créneau de reliure pour un projet personnel.",
       "context": "Le lendemain du festival, dans le local presque vide",
       "topics": [
-        "Continuité des soins",
-        "Relations dans la durée",
-        "Projet personnel"
+        "Désaccord durable au travail",
+        "Disponibilité choisie",
+        "Place donnée à un projet pour soi"
       ],
       "opening": "Les enveloppes vides tiennent dans la première boîte. Mina les pose sur la table et retrouve dessous le feutre qui avait glissé le jour du changement de livraison. Il marque encore. Elle écrit « programmes restants » sur une feuille et la pose près de la porte. Le festival s’est terminé la veille. Rachid vide les tiroirs avec l’aide de deux bénévoles. Il met de côté les deux fiches qui indiquaient des entrées différentes, pour les montrer lors du bilan d’équipe.\n\nIl voudrait décider avec Mina qu’ils s’appelleront chaque fois que l’adresse d’une livraison bouge. Mina préfère que la coordination confirme la modification sur le même planning pour tout le monde. Ils reprennent le sujet dix minutes. Rachid dit qu’il aimerait aussi pouvoir joindre quelqu’un si le planning n’a pas été mis à jour. Mina peut entendre sa demande, mais ne souhaite pas promettre de rester joignable après son créneau. Ils notent les deux points pour le bilan. Mina garde le feutre dans la main, même quand les bénévoles reprennent la boîte.\n\nAlice lui a envoyé le dessin de deux manches qui ne se ressemblent pas. Elle demande laquelle permettrait de plier le coude. Mina agrandit la photo du carnet et aperçoit derrière les dessins la page qui s’ouvre assez loin. Dans son sac, elle a le papier rouille. Béatrice lui a donné les nouveaux horaires de l’atelier. Elle les relit à côté du rendez-vous de suivi qu’elle a déjà fixé. Elle aimerait trouver un créneau où elle pourra faire un carnet qu’elle gardera.",
       "sections": [

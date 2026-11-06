@@ -1,5 +1,5 @@
 ---
-title: Le détour du canal
+title: Ce que l’évitement de la gare change dans la journée de Selma
 description: Le détour qu’emprunte Selma pour éviter la gare lui prend de plus en
   plus de temps. Elle choisit ce qu’elle veut en dire au suivi.
 slug: selma-detour-canal-evitement
@@ -11,9 +11,9 @@ contexte: À vélo vers l’atelier du vitrier
 tags:
 - TSPT
 - PTSD
-- Évitement
-- Mobilité
-- Activités choisies
+- Évitement des rappels
+- Place des détours au quotidien
+- Choix de ce qu’on dit en thérapie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

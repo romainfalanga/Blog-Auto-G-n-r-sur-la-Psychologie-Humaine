@@ -1,0 +1,448 @@
+{
+  "character_id": "irene",
+  "bio": "Irène a treize ans. À la médiathèque, elle ouvre les livres en relief à hauteur des yeux, juste pour voir où une petite ombre va tomber. Elle répond souvent par un croquis et garde ses feutres dans une trousse verte. Avec Ilyès, elle veut inventer une rue que chacun pourra traverser à sa façon. Son père lui tient compagnie aux rendez-vous de pédiatrie ; à l’atelier, elle compte sur Mylène pour ménager une place à leurs idées, et elle tient à décider ce qui s’y raconte.",
+  "profile_topics": [
+    "Regard des autres",
+    "Attention et reprise",
+    "Choix de l’aide",
+    "Respect de l’intimité",
+    "Confiance en ses idées"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "irene-garder-sa-place-a-latelier",
+      "title": "Perdre le fil au moment de s’inscrire à l’atelier",
+      "description": "Pour l’atelier de lecture en relief, Irène arrive avec un dessin de rue inondée. Reste à savoir comment en faire un livre à deux.",
+      "context": "À la médiathèque, pendant les inscriptions à l’atelier de lecture en relief",
+      "topics": [
+        "Perdre le fil",
+        "Prendre sa place",
+        "Montrer une idée par le dessin"
+      ],
+      "opening": "Irène avait dessiné des marches au milieu de la rue, là où d’habitude on met les voitures. Si l’eau montait jusqu’aux volets du rez-de-chaussée, les gens pourraient encore sortir en passant par les toits. Elle n’avait pas résolu le problème des poubelles. Dans la file de la médiathèque, elle tend son dessin à Ilyès. Il lui rend la feuille après l’avoir tournée deux fois. « Ton boulanger livre par la cheminée ? » Elle ajoute une miche au bout d’une ficelle et lui laisse la feuille. Maintenant, oui.\n\nMylène explique le projet depuis la table d’inscription : par deux, on va fabriquer un livre en relief et le faire lire à des visiteurs. Quand Irène imagine les toits qui se dresseront au moment d’ouvrir une page, ses mains s’ouvrent et reviennent vers elle par petites séries, comme souvent depuis qu’elle est petite. Elle ne prend pas le feutre qu’on lui tend. Quand elle le prend enfin, la file a avancé. Elle a entendu le mot « créneau » et voit des prénoms dans deux colonnes. Elle ne sait plus laquelle correspond à la fabrication.\n\nMylène dit qu’elle peut écrire pour elle. Irène glisse le feutre contre sa trousse verte. Elle sait écrire son nom. Elle veut bien que Mylène reprenne ce qu’elle a dit, mais quelqu’un derrière a déjà demandé où signer et il lui faut choisir vite. Ilyès est resté juste devant la table, dessin en main. Il regarde les deux colonnes et demande si le créneau du mardi est déjà complet.",
+      "sections": [
+        {
+          "heading": "Quand un geste familier interrompt la suite",
+          "text": "Des mouvements répétés peuvent coexister avec l’attention portée à une activité et interrompre une partie de ce qu’on essaie de faire. Irène suit l’idée des pages en relief ; pendant quelques instants, il lui est difficile de prendre le feutre et de suivre l’ordre des consignes. Son équipe pédiatrique connaît depuis plusieurs années son trouble des mouvements stéréotypés. Les gestes reviennent sous une forme familière et, dans certaines situations, interrompent assez souvent ce qu’elle fait pour compliquer sa journée.\n\nIl existe aussi des mouvements répétés qui ne posent pas de problème. Pour comprendre les difficultés d’une personne, les professionnels regardent l’histoire de ces mouvements et leurs effets dans la vie ordinaire. Le mouvement que voit Mylène ne lui apprend pas ce qu’Irène a entendu ni ce qu’elle veut fabriquer."
+        },
+        {
+          "heading": "Retrouver l’information qui manque",
+          "text": "L’aide proposée par Mylène peut rendre service à quelqu’un qui veut dicter son prénom. Ici, elle ferait gagner un peu de temps à la file et laisserait la question d’Irène sans réponse. Il suffit de revenir à ce que les colonnes demandent : quand aura lieu le premier essai, et avec qui souhaite-t-elle le faire ? Mylène peut montrer les deux horaires sur la feuille tout en les répétant. Irène pourra y revenir au moment de décider.\n\nLe croquis, lui, dit autre chose : il montre que l’histoire pourrait offrir deux chemins. Ilyès peut lui demander ce qu’elle veut qu’ils en fassent. Une personne reprend l’inscription, une autre parle du livre ; Irène peut répondre à chacune dans l’ordre qui lui convient."
+        }
+      ],
+      "ending_title": "Un mardi écrit de sa main",
+      "ending": "« Laquelle, pour les pages ? » Irène montre les deux colonnes avec le capuchon. Mylène souligne « mardi » du doigt et précise qu’on peut commencer par un seul essai. Irène demande à Ilyès s’il veut apporter une idée pour la partie basse de la rue. « Un canal avec des fenêtres au ras de l’eau ? » Il sourit avant même d’avoir fini. Elle écrit son prénom, lui passe le feutre et récupère le plan. Elle le replie pour qu’il entre sans se corner dans sa trousse. Mardi, elle veut dessiner la première page avec ses propres feutres.",
+      "mirror": [
+        "Si la file avance pendant que quelqu’un cherche où reprendre, précisez ce qui est à décider : « Pour fabriquer les pages, c’est ici. Tu veux que j’attende ou que je relise les horaires ? » Une consigne à retrouver et une signature à faire sont deux choses distinctes. Laissez à Irène le stylo et la possibilité de demander autre chose. La proposition de binôme peut attendre qu’elle ait pu regarder le dessin avec Ilyès."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène choisit elle-même le créneau du mardi, propose à Ilyès de travailler à deux et prévoit d’apporter ses feutres.",
+        "next": "Au premier essai, ils partiront de deux chemins, par les toits et par le canal ; la trousse verte reste à Irène."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "irene-chercher-un-coin-a-deux",
+      "title": "S’agacer quand les pages changent de main à l’atelier",
+      "description": "Au premier essai, Irène et Ilyès fabriquent une rue à deux chemins. Sur la petite table, ils se passent les feuillets sans toujours savoir où reprendre.",
+      "context": "Dans l’atelier du mardi, entre le rayonnage et l’entrée de la salle",
+      "topics": [
+        "Attention partagée",
+        "Frustration devant les interruptions",
+        "Demande d’espace"
+      ],
+      "opening": "Ilyès a trouvé comment dessiner le canal en laissant voir des marches sous l’eau. Irène veut que les lecteurs puissent emprunter cette voie ou passer par les toits. Tous les deux arriveraient sur la même place. Elle avait même pensé à la dernière image : quand l’eau redescend, un banc apparaît. En attendant le papier épais de Mylène, ils essaient l’histoire sur des feuilles de brouillon, à une table entre l’entrée et le rayonnage des magazines.\n\nLa trousse verte fait le tour de la table. Quand Ilyès la pousse vers Irène, une pile de dessins prend sa place. Quand Irène lui tend le bleu, le plan du canal disparaît sous la manche de son voisin. Ils s’en amusent jusqu’à ce qu’il lui passe deux feuillets pour qu’elle lise le raccord. Les mains d’Irène reprennent leur mouvement familier. Elle les laisse revenir, puis attrape le papier qui dépasse. Elle commence par la place alors qu’Ilyès vient de lui parler des marches. Il retourne une feuille. Deux minutes plus tard, ils perdent à nouveau le raccord.\n\n« On peut faire une route, si c’est plus facile », dit Ilyès. Irène entend sa chaise racler et pousse la trousse vers le milieu. Elle n’a pas envie de passer le reste de l’heure à défendre le canal qu’il vient lui-même d’inventer. Elle veut savoir si le livre est difficile à lire ou si c’est leur table qui le rend difficile.",
+      "sections": [
+        {
+          "heading": "Ce qui se perd entre deux pages",
+          "text": "La gêne liée à un mouvement répété dépend en partie de la tâche et des conditions dans lesquelles on la fait. Les mains d’Irène reprennent leur mouvement au cours de l’essai ; elle attend un instant pour saisir le papier. Quand elle peut le prendre, les pages ont changé de place et il lui manque une transition. Elle avait envie d’essayer le canal autant que les toits. Perdre deux fois le raccord ne lui donne aucune information fiable sur la valeur de l’idée.\n\nDe tels gestes peuvent apparaître dans des moments où l’on est très pris par ce qu’on fait. Leur présence ne dit pas que la tâche ennuie ou énerve. Ici, la frustration vient de la difficulté à retrouver l’endroit où le récit a changé de main. Elle augmente lorsque Ilyès propose de retirer une partie du livre."
+        },
+        {
+          "heading": "Faire un essai qui renseigne",
+          "text": "Pour décider s’il faut simplifier l’histoire, le duo peut d’abord comparer deux façons de disposer les mêmes pages. Mylène connaît une table disponible au fond ; ils peuvent y laisser le plan à plat, fixer une place pour les brouillons et dégager un coin pour la trousse. Il n’est pas nécessaire qu’Irène prête ses feutres ni que le plan passe de main en main à chaque phrase.\n\nEnsuite, ils relisent un seul raccord. S’ils se perdent encore, ils sauront quel passage revoir. S’ils le retrouvent, il restera à essayer l’autre chemin. Cette façon de faire laisse ouverte la question du livre. Pour Irène, elle rend aussi possible une demande précise : qu’un feuillet reste là où elle s’apprête à le prendre."
+        }
+      ],
+      "ending_title": "Le plan à portée des deux",
+      "ending": "Irène indique du menton la table du fond. Mylène a le temps de les y installer. Ilyès emporte les brouillons ; Irène prend la trousse et le plan. À leur deuxième essai, elle pose un doigt au pied des marches puis attend de pouvoir tourner le feuillet. Le raccord fonctionne. Ilyès veut ajouter un dessin du courant et Irène garde l’idée du banc pour l’arrivée. Ils demandent la table du fond pour le mardi suivant. Avant de partir, Irène glisse le plan dans son cahier : elle voudrait en faire une copie au collège pour que chacun puisse annoter la sienne.",
+      "mirror": [
+        "Quand Ilyès voit Irène reprendre une autre page, il peut demander : « Le raccord te gêne ou tu veux que je remette la feuille à sa place ? » Laissez-lui le temps d’indiquer ce dont elle a besoin. Si la table est encombrée, aidez les deux lecteurs à trouver un endroit où les feuillets restent visibles. Ils pourront alors juger ensemble de la difficulté de l’histoire, sans conditionner l’essai à l’arrêt d’un geste."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène demande à changer de table et à garder les deux parcours pour l’essai.",
+        "next": "Le raccord du canal est lisible à la table du fond ; Irène emporte le plan au collège pour en faire une copie."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "irene-montrer-le-plan-au-cdi",
+      "title": "Craindre les commentaires quand on montre son dessin au CDI",
+      "description": "Irène fait une copie du plan pour Ilyès. Au CDI, une camarade veut voir où mène le canal, tandis qu’un élève s’intéresse à autre chose.",
+      "context": "Au CDI du collège, après le repas",
+      "topics": [
+        "Peur d’être observée",
+        "Limites face aux moqueries",
+        "Choix de partager"
+      ],
+      "opening": "Le photocopieur du CDI a mangé les petits traits bleus du canal. Irène tient la copie près de la fenêtre pour voir si c’est une question de lumière. Non : le banc paraît flotter au milieu de la place. Elle colorie une marche sur l’épreuve et se demande combien de traits il faudra épaissir pour qu’Ilyès puisse travailler dessus. Aya, qui attend de rendre une bande dessinée, lui demande où on commence. Irène lui montre les deux entrées. « Par ici, tu peux voir le canal jusque sous les maisons. » Aya pose son sac. Irène lui laisse la copie et garde le feutre ouvert pour épaissir le trait au besoin.\n\nLes mains d’Irène s’ouvrent et reviennent vers elle. À la table d’à côté, Quentin dit : « Attends, elle fait un truc. » Quand Irène reprend le feutre, il a déjà reproduit un geste avec ses mains. Deux élèves se retournent. Aya tient encore la copie, la bouche ouverte sur une question qu’elle n’a pas finie. Irène récupère le plan d’un mouvement sec. Elle avait prévu de demander à Aya de suivre le canal toute seule pour voir où elle se perdrait. Maintenant, elle cherche surtout comment sortir sans passer devant Quentin.\n\nMme Hamadi s’approche. Elle demande à Quentin de cesser d’imiter Irène et de retourner à sa lecture. Puis elle s’arrête sur le côté, assez loin pour laisser le passage libre, et demande à Irène ce qu’elle voudrait faire de la copie. Irène regarde d’abord la porte, puis le trait qu’elle vient d’épaissir.",
+      "sections": [
+        {
+          "heading": "Une scène dont les autres changent le sens",
+          "text": "Les mouvements stéréotypés peuvent survenir au milieu d’un échange qui se passe bien. Ils accompagnent ici le moment où Irène montre à Aya ce qu’on peut découvrir sous les maisons. C’est après l’imitation de Quentin qu’elle s’inquiète d’être observée et envisage de partir. Deux difficultés se succèdent : un geste détourne Irène un moment de son feutre, puis la réaction des autres rend la conversation pénible. On peut répondre à la seconde en agissant sur ce qui s’est passé entre les élèves.\n\nLe trouble d’Irène n’explique pas ce que ses camarades font. Le règlement de la situation ne demande pas non plus qu’elle prenne la parole pour expliquer ses gestes. Mme Hamadi a vu l’imitation et peut y mettre fin. Si cela recommence, elle peut reprendre la situation avec l’équipe du collège, en tenant Irène au courant."
+        },
+        {
+          "heading": "Choisir à qui montrer le chemin",
+          "text": "Après l’intervention de Mme Hamadi, Irène peut ranger son dessin, en parler avec elle ou reprendre sa question à Aya. La possibilité de partir compte même si elle décide de rester. Aya peut poser sa question là où elle l’avait laissée et attendre la réponse. Il n’y a aucune raison qu’elle promette de faire comme si rien ne s’était passé ; elle peut simplement demander si Irène veut encore son avis sur la page.\n\nLa copie sert à tester le tracé. Si quelqu’un hésite devant les deux départs, Irène et Ilyès sauront peut-être où épaissir les traits. Un seul essai, avec une lectrice qu’Irène choisit, peut suffire pour aujourd’hui. Les autres élèves n’ont besoin ni de l’original ni d’une explication personnelle."
+        }
+      ],
+      "ending_title": "Aya suit la marche bleue",
+      "ending": "Irène remet la copie sur la table, devant Aya seulement. « Essaie sans que je t’aide », lui dit-elle. Aya suit le trait jusqu’aux marches, puis tourne la feuille à l’envers. Elle croyait que le petit rectangle en bas était une impasse. Irène dessine une seconde marche à cet endroit. Elle garde l’épreuve annotée pour Ilyès et demande à Mme Hamadi de refaire une copie plus sombre. Elle n’a pas envie de rester plus longtemps au CDI. En sortant, elle propose à Aya de venir essayer le vrai livre quand les toits tiendront debout.",
+      "mirror": [
+        "Mme Hamadi peut dire en privé : « J’ai vu l’imitation. Je lui ai demandé d’arrêter. Tu veux rester ici ou reprendre ta copie une autre fois ? » Elle peut entendre ce qu’Irène a trouvé pénible sans demander une explication médicale. Si le comportement se répète, c’est aux adultes du collège de faire le suivi. Pour l’instant, laissez à Irène le choix du prochain lecteur et la possibilité de sortir sans remettre son dessin à personne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène montre la copie à Aya seule et lui propose de lire le livre plus tard ; elle demande une copie plus sombre.",
+        "next": "Elle rapporte à Ilyès l’endroit où Aya a pris le passage pour une impasse. Aya attend une invitation quand le livre tiendra debout."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "irene-arret-des-rappels-a-la-maison",
+      "title": "Se sentir surveillée quand son père commente ses gestes à la maison",
+      "description": "Irène veut redessiner l’entrée du canal. Son père croit lui rendre service en intervenant au milieu de son travail.",
+      "context": "À la maison, entre le goûter et les devoirs",
+      "topics": [
+        "Sentiment d’être surveillée",
+        "Différence entre gêne et inquiétude",
+        "Définir l’aide ensemble"
+      ],
+      "opening": "À la maison, Irène a mis une serviette sous sa tasse parce qu’une goutte est déjà tombée sur le plan. Elle repasse les marches que le photocopieur n’a pas prises. Sur la copie pour Ilyès, elle a écrit « fausse impasse » avec une flèche et deux points d’exclamation. Son père lit le mot par-dessus son épaule. « C’est une vraie impasse qui ment ? » Irène lui laisse un feutre pour qu’il propose une définition au verso, comme quand ils jouent à inventer des mots dans le train.\n\nIl commence à écrire, puis dit doucement : « Là, tes mains. » Irène regarde les siennes. Elle voit aussi qu’il a arrêté sa phrase au milieu. Le lendemain, pendant qu’elle ouvre un livre sur le canapé, il dit à nouveau : « Tu recommences. » Elle avait trouvé un escalier qui se déplie comme un éventail. Maintenant, elle essaie de se souvenir combien de fois il lui a déjà dit ça dans la semaine.\n\nÀ la cuisine, Irène lui demande ce qu’il attend qu’elle fasse quand il lui dit ça. Il pose le pain qu’il coupait. « Tu m’as dit que tu avais perdu des pages mardi. Je voulais t’aider à t’en apercevoir. » Elle lui dit que sur le canapé elle n’a rien raté. Elle était même revenue exprès à la page de l’escalier. Son père rapproche la corbeille et lui demande ce qui lui serait utile à la place.",
+      "sections": [
+        {
+          "heading": "Distinguer la gêne vécue du geste remarqué",
+          "text": "Un mouvement répété peut entraver une activité à un moment et accompagner une autre activité sans la gêner. Sur le canapé, Irène peut reprendre sa page au moment voulu. Au premier essai de l’atelier, les pages circulaient et elle perdait le raccord avant de pouvoir reprendre. Ces deux observations sont utiles ensemble. Une remarque sur ses mains attire son attention sur un événement qui, à ce moment-là, n’est pas son problème.\n\nCertaines personnes trouvent des mouvements familiers agréables ou apaisants ; d’autres les trouvent gênants à certains moments. Irène dit ce qui vaut pour elle sur ce canapé. Son père peut aussi dire ce qui l’a inquiété dans ce qu’Irène lui a raconté de l’atelier. Ils pourront comparer leurs observations et garder la possibilité d’en parler avec l’équipe pédiatrique si la difficulté change."
+        },
+        {
+          "heading": "Revenir à ce que la personne essaie de faire",
+          "text": "Au lieu de rappeler chaque mouvement, le père d’Irène peut attendre qu’elle dise ce qu’elle veut reprendre. Si elle lui demande la page, il peut la montrer. Si elle a perdu un bout de phrase, il peut reprendre ce bout-là. Quand elle lit pour elle-même et que tout se passe bien, il peut continuer à inventer sa définition ou s’occuper du repas.\n\nIrène voudrait garder en mémoire les fois où elle a besoin de quelque chose. Un mot près d’un croquis suffit si elle souhaite en reparler. Elle peut y mettre ce qui lui a manqué, par exemple « deuxième page introuvable », et ce qui a été utile. Ils conviennent que ce papier lui appartient ; il n’a pas à servir à compter ses gestes."
+        }
+      ],
+      "ending_title": "Une définition au verso",
+      "ending": "Irène demande à son père de reprendre sa définition. Il avait écrit « endroit qui… ». Elle lui propose de finir par « … fait croire qu’on a déjà choisi ». Il reprend le feutre. Sur un bout de papier à elle, Irène note « petite table : garder le raccord visible ». Elle ne note rien sur le canapé. Au dîner, son père hésite au milieu d’une histoire et Irène lui dit : « Tu en étais à la sortie du rond-point. » Il reprend à cet endroit. Ça leur donne une façon très ordinaire de parler de ce qu’ils se demandent.",
+      "mirror": [
+        "Après deux rappels qu’Irène n’a pas demandés, son père peut revenir sur son idée : « Je croyais que ça te faisait perdre ta page. Dis-moi si tu veux que je te montre où tu en étais. » Laissez-lui les notes qu’elle tient sur son projet. Si elle exprime une douleur ou une difficulté nouvelle, parlez-en avec elle et transmettez ce qui aide le professionnel à comprendre. L’accord de ne pas commenter chaque geste laisse cette possibilité ouverte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène et son père conviennent de laisser passer les gestes qui ne la gênent pas et d’aider à retrouver une page si elle le demande.",
+        "next": "Irène garde sa note sur la table et les raccords ; son père connaît sa préférence et reste son relais pour une difficulté nouvelle."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "irene-demander-un-relais-dans-le-passage",
+      "title": "Oser signaler une douleur quand l’atelier change de table",
+      "description": "La table du fond est prise. Irène et Ilyès commencent leurs découpes ailleurs et interrompent leur essai quand l’espace se resserre.",
+      "context": "À la médiathèque, un mardi où l’atelier change d’emplacement",
+      "topics": [
+        "Peur de faire arrêter l’activité",
+        "Attention à la douleur",
+        "Confiance dans un relais adulte"
+      ],
+      "opening": "La table du fond sert aujourd’hui à couvrir des albums. Mylène l’a appris en arrivant. Elle trouve une autre place pour Irène et Ilyès, près du comptoir de retour. Sur la copie plus sombre, Ilyès a dessiné une fenêtre sous la marche qu’Aya prenait pour une impasse. Irène la regarde de biais. On croirait que quelqu’un a laissé la lumière allumée sous la rue. Ils décident de garder ce détail. Pendant qu’Ilyès dispose les pages du livre en accordéon, Irène reporte la fenêtre au feutre sur le feuillet du canal.\n\nUn chariot de livres en attente a été laissé dans le passage pendant qu’ils travaillaient. Irène voit le haut de la fenêtre au moment où ses mains reprennent leur mouvement familier. Son avant-bras heurte le côté du chariot. Elle pose le papier qu’elle tenait et reste assise. Elle a mal et ne sait pas si ça va passer. Ilyès commence à plier la page du canal pour la mettre à l’abri ; il attend qu’elle lui fasse signe pour la suite. Irène a peur qu’il faille arrêter le livre pour de bon si elle dit ce qui vient de se passer.\n\nElle appelle quand même Mylène et lui montre où elle s’est cognée. La médiatrice suspend l’atelier à cette table, demande à un collègue de dégager le passage et reste avec Irène. Elle appelle son père et lui décrit ce qu’Irène lui a dit. Ilyès garde le papier à plat en le tenant par les coins.",
+      "sections": [
+        {
+          "heading": "Une douleur mérite d’être entendue",
+          "text": "Quand un mouvement répété s’accompagne d’un heurt ou d’une douleur, les adultes doivent prendre au sérieux ce qui vient de se passer. Le geste familier d’Irène ne permet pas de juger de la douleur ni de l’éventuelle blessure. Ici, une situation de travail s’est resserrée sans que les deux collégiens en parlent. Irène a le droit de signaler ce qui lui fait mal et de demander une pause, même si elle aimerait finir sa page.\n\nLa CIM-11 distingue notamment les présentations où les mouvements causent des blessures qui nécessitent une attention clinique propre. Un heurt dans un passage encombré ne permet pas d’attribuer cette catégorie. L’équipe pédiatrique pourra évaluer l’événement et décider de ce qui demande un suivi. Le rôle de Mylène est de s’occuper du lieu, d’écouter Irène et de passer le relais."
+        },
+        {
+          "heading": "Interrompre cette séance et garder le projet en vue",
+          "text": "Aujourd’hui, personne n’a besoin de vérifier ce qui se passerait en remettant le chariot au même endroit. La médiathèque peut ranger les feuillets et réserver pour la suite un emplacement dégagé des allées de service. Irène doit pouvoir dire si elle s’y sent assez à l’aise pour travailler, sans avoir à tester ses mouvements devant les autres. Son père peut contacter l’équipe pédiatrique pour savoir ce qu’il convient de faire après le heurt.\n\nIlyès peut aussi s’occuper d’une chose précise qu’Irène lui confie : laisser sécher l’encre de la fenêtre et préserver le pli qu’ils viennent de décider. C’est une façon de rester partenaire pendant une interruption. Leur travail d’aujourd’hui peut s’arrêter avec une décision de lecture encore intacte."
+        }
+      ],
+      "ending_title": "La fenêtre reste allumée",
+      "ending": "Irène demande à Ilyès de garder la page ouverte jusqu’à ce que le bleu soit sec. Elle choisit de rentrer avec son père. Dans l’entrée, il appelle l’équipe qui la suit et lui passe le téléphone quand on lui demande ce qu’elle ressent. Elle parle de son avant-bras et de l’endroit où le chariot était arrivé. L’équipe leur indique quoi faire pour le bras et fixe un rendez-vous pour reprendre avec eux la question de la sécurité à l’atelier. Avant de mettre son manteau, Irène dit à Mylène de garder aussi la fausse impasse. Elle a une idée pour la suite.",
+      "mirror": [
+        "Quand Irène dit qu’elle s’est cognée, vous pouvez répondre : « Je t’ai entendue. On arrête ici et je vais appeler ton père. » L’adulte du lieu peut prévenir le parent et dégager le passage avec ses collègues. Le parent décrit le heurt et la douleur à l’équipe soignante, qui indique la suite. La mise en sécurité et le relais passent avant la page à finir ; Irène garde le droit de choisir ce qu’on fait de son dessin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies",
+        "medlineplus-mouvements"
+      ],
+      "continuity": {
+        "choice": "Irène signale la douleur, choisit de rentrer et charge Ilyès de préserver la page du canal.",
+        "next": "Le père appelle l’équipe pédiatrique ; un rendez-vous est fixé. Mylène cherche un autre emplacement et garde les deux chemins."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "irene-choisir-les-mots-en-consultation",
+      "title": "Garder la main sur ce qu’on partage après la consultation",
+      "description": "Irène apporte le plan du livre à la pédiatre. Elle souhaite que Mylène connaisse les besoins de l’atelier sans recevoir tout le récit du rendez-vous.",
+      "context": "En consultation pédiatrique, après le heurt à l’atelier",
+      "topics": [
+        "Peur qu’on décide à sa place",
+        "Expression de ses besoins",
+        "Choix des informations partagées"
+      ],
+      "opening": "Dans le cabinet de la Dre Rivière, Irène dessine le chariot comme un petit rectangle. Elle en fait un deuxième pour la table du comptoir et laisse entre les deux un trait trop fin pour y écrire « passage ». Son père, qui l’a accompagnée, trouve que le trait montre mieux le problème que ses explications au téléphone. La douleur a disparu. La pédiatre a demandé à Irène comment elle s’était sentie depuis et a examiné son bras. Maintenant, elle veut savoir si Irène a envie de reprendre l’atelier et dans quelles conditions.\n\nIrène sort le plan du livre. Ce n’est pas le même dessin que celui de la table. En suivant la rue avec son feutre, elle voit pourtant une chose qui manquait à son récit de mardi : parfois ses mains reviennent vers elle et elle laisse passer le mouvement tout en continuant à écouter. À d’autres moments, une page part trop vite et elle ne sait plus par où reprendre. Elle montre le chemin des toits et raconte qu’à la maison, quand elle feuillette un livre seule, ce problème n’arrive pas de cette façon.\n\nLa Dre Rivière demande si Mylène connaît la différence. Son père dit qu’ils pourront lui envoyer un compte rendu. Irène rapproche sa trousse du plan. « Tout ? » Elle songe à la petite note qu’elle a écrite chez elle après leur conversation. Elle veut bien en lire une ligne ici. Elle n’a pas envie que la feuille quitte son cahier.",
+      "sections": [
+        {
+          "heading": "Parler de la sécurité et de la lecture",
+          "text": "Les besoins de sécurité et les difficultés à poursuivre une activité s’évaluent à partir de situations concrètes. Avec Irène, la pédiatre reprend ce qui s’est passé près du chariot et ce qui l’aide à travailler dans un espace dégagé. Elle demande aussi ce que les mouvements interrompent quand aucun obstacle n’est proche. La douleur et les raccords perdus ne réclament pas la même réponse. Sur le canapé, Irène décrit même une lecture qu’elle a pu continuer sans demander d’aide.\n\nSi certains mouvements deviennent douloureux, la mettent en danger ou entravent durablement une activité importante pour elle, l’équipe pourra réévaluer le soutien avec elle et ses responsables. Certaines approches comportementales peuvent être discutées avec un professionnel selon le besoin. Le projet de lecture, lui, n’a pas à attendre une décision de traitement pour retrouver une place praticable."
+        },
+        {
+          "heading": "Une information utile à la bonne personne",
+          "text": "Pour réinstaller l’atelier, Mylène a surtout besoin de savoir qu’il faut garder une place dégagée autour du poste et laisser un repère à l’endroit où Irène reprend. Elle peut aussi savoir à qui parler si une douleur ou un risque réapparaît. Le père et Irène peuvent formuler cela ensemble avec la pédiatre. Ils peuvent distinguer ce qu’ils décident de dire pour organiser l’activité et ce qui reste dans le cabinet.\n\nLa question d’Irène, « Tout ? », leur permet de relire ce qu’ils s’apprêtaient à partager. La note qu’elle a écrite à la maison peut servir à la conversation clinique sans devenir une pièce jointe. Elle peut dire les mots qu’elle préfère employer, même si c’est son père qui transmet l’accord pratique à Mylène."
+        }
+      ],
+      "ending_title": "La note reste dans le cahier",
+      "ending": "Irène lit « garder le raccord visible ». Elle demande à son père de dire à Mylène qu’elle veut reprendre sur une table dégagée, hors du passage, avec sa trousse du côté où elle travaille. Pour une reprise de page, on lui montrera le feuillet si elle le demande. En cas de nouveau heurt ou de douleur, Mylène préviendra son père comme prévu. Irène glisse la note dans son cahier et la Dre Rivière convient avec eux d’un point après le projet. Dehors, Irène déplie encore une fois le plan pour montrer à son père ce que la lumière de la fenêtre change dans la rue.",
+      "mirror": [
+        "Quand Irène demande « Tout ? », son père peut revenir à l’usage de chaque information : « De quoi Mylène a-t-elle besoin pour installer la table ? On peut relire le message ensemble. » Le professionnel et les responsables gardent la responsabilité du suivi et du relais en cas de risque. Irène peut participer à la formulation et conserver les notes qu’elle ne souhaite pas transmettre à l’atelier. La place et la reprise peuvent se résumer en deux phrases. Convenez aussi de la personne à joindre en cas de nouveau heurt ou de douleur."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies",
+        "medlineplus-mouvements"
+      ],
+      "continuity": {
+        "choice": "Irène approuve la transmission des besoins pratiques et garde sa note personnelle ; elle convient d’un point de suivi après le projet.",
+        "next": "Mylène reçoit les besoins d’espace et de reprise par le père. Les deux lecteurs peuvent tester un poste stable hors du passage."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "irene-defendre-une-idee-au-montage",
+      "title": "Défendre son idée quand on monte un livre à deux",
+      "description": "De retour à la médiathèque, Irène retrouve la fenêtre peinte par Ilyès. Ils discutent des indications à laisser aux lecteurs.",
+      "context": "Dans la salle du conte, au premier atelier depuis le rendez-vous de pédiatrie",
+      "topics": [
+        "Confiance retrouvée",
+        "Désaccord entre partenaires",
+        "Place laissée à la curiosité"
+      ],
+      "opening": "Mylène leur a réservé une table dans la salle du conte. Elle a reçu le message du père d’Irène et demande à celle-ci de regarder où elle sera à l’aise. Il y a de la place pour tirer la chaise et les chariots restent dehors. Irène s’assied près de la fenêtre et sort le bleu de la trousse. En dépliant le livre, elle découvre que le toit principal tient debout tout seul. Ilyès a passé une partie de la veille à corriger un pli. Il fait semblant de décerner un prix au toit, « pour services rendus aux habitants des étages ».\n\nIlyès sort ensuite une bande avec une flèche qui part vers le canal. Il voudrait en ajouter une à chaque page. Irène lui demande où ils laisseront la fausse impasse, celle qu’Aya avait cru reconnaître au CDI. « Les gens vont se tromper », dit-il. Irène trouve que ce serait dommage qu’ils ne puissent jamais se tromper. La fenêtre qu’il a dessinée apparaît justement quand on cherche un autre passage.\n\nIlyès attend sa réponse pendant que ses mains bougent. La trousse est à sa droite et la flèche est encore sur la table quand elle reprend le feutre. Elle entend Mylène ouvrir la porte du local voisin pour chercher du papier. Personne n’a avancé à sa place. Irène trace au brouillon deux dessins presque pareils et les pousse vers Ilyès : il pourra essayer chacun de son côté, à la vitesse qu’il voudra.",
+      "sections": [
+        {
+          "heading": "Le temps de répondre à la question posée",
+          "text": "Un aménagement peut aider à poursuivre un échange même quand des mouvements répétés sont présents. Sur cette table, Irène a de l’espace et la flèche et son papier restent à portée de main. Ilyès lui laisse le temps de reprendre le feutre. Son avis sur les flèches peut entrer dans la discussion. Le mouvement lui-même ne renseigne pas sur la solidité de cet avis, ni sur la quantité d’aide qu’elle souhaite.\n\nIl y a une semaine, l’espace autour de la table posait une question de sécurité. Cette fois, la pièce permet surtout de travailler et de revenir à ce qu’on regardait. Les conditions favorables se jugent par ce qu’elles rendent possible pour les deux lecteurs. Il restera à voir comment ils s’en sortent lorsque d’autres personnes attendent de tourner les pages."
+        },
+        {
+          "heading": "Séparer l’entrée du chemin à découvrir",
+          "text": "Ilyès veut qu’un visiteur puisse trouver la première page. Irène veut lui laisser la possibilité d’aller regarder derrière une marche. Ils peuvent tester une version où l’entrée est indiquée et où les passages suivants se découvrent en ouvrant les plis. Pour l’essai, chacun observe un détail : à quel moment on sait comment commencer, et à quel moment on a envie de chercher.\n\nMylène peut tenir les exemplaires et demander ce qu’ils essaient. Elle n’a pas besoin de choisir qui a raison à partir de celui qui répond le plus vite. Si le choix s’avère difficile pour un lecteur invité, les deux auteurs auront quelque chose à retravailler ensemble. La deuxième version n’a pas à effacer d’avance tout ce qui étonne."
+        }
+      ],
+      "ending_title": "Deux entrées et une fenêtre à trouver",
+      "ending": "Ilyès essaie d’abord le dessin qui indique toutes les étapes. Puis il passe à l’autre. Il trouve sa propre fenêtre une fois qu’il a renoncé à suivre la bordure du canal. « D’accord pour deux flèches au départ », dit-il. Irène ajoute une petite ombre sous la marche pour donner envie de soulever le pli. Elle demande à Mylène s’ils peuvent inviter Aya à l’essai de vendredi. Avant de refermer le livre, Ilyès dessine un toit sur une flèche et une ligne d’eau sur l’autre. Irène garde les deux bandes dans la pochette du livre.",
+      "mirror": [
+        "Si Irène s’arrête au milieu d’une réponse, le partenaire peut laisser les propositions visibles et dire : « Je garde les deux versions ici ; dis-moi quand tu veux les reprendre. » Puis revenez au choix du livre. Une personne qui demande du temps peut avoir un avis précis sur la page. Si le poste de travail change, Mylène reste la personne à qui demander si l’espace dégagé convenu sera disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène propose de comparer deux versions et garde des flèches seulement aux entrées, avec l’accord d’Ilyès.",
+        "next": "Le livre a deux entrées lisibles ; Aya est invitée à le tester vendredi dans la salle du conte."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "irene-revenir-au-livre-devant-une-invitee",
+      "title": "Demander un coup de main quand une invitée attend la suite",
+      "description": "Aya vient essayer le livre comme promis. Irène découvre qu’avoir une bonne place ne suffit pas toujours à retrouver la suite devant une lectrice.",
+      "context": "Dans la salle du conte, au premier essai avec une lectrice invitée",
+      "topics": [
+        "Hésitation à demander de l’aide",
+        "Retour à l’activité",
+        "Confiance dans le partenaire"
+      ],
+      "opening": "Le vendredi, Aya arrive avec du sable au fond de son sac de sport et un cadeau pour le banc : un ticket de métro, au cas où les gens de la rue voudraient partir plus loin. Irène le garde à côté de la trousse. La salle du conte est installée comme mardi. Ilyès se place en face, près de l’image finale. Irène montre le toit et la ligne d’eau dessinés au départ. Aya choisit les toits. Ça fait rire Irène, qui avait préparé tout un mot d’accueil pour le canal.\n\nAya ouvre un pli par le dessous. Les maisons se dressent d’un coup. Irène voudrait lui demander ce qu’elle voit ; ses mains reprennent leur mouvement et Aya soulève déjà le pli suivant. Ilyès demande : « Je continue ? » Irène voit ce qu’il veut dire. Il connaît l’histoire et pourrait la raconter jusqu’au banc. Seulement, elle a envie de savoir à quoi Aya pense en regardant les cheminées. Elle ne trouve plus le moment d’entrer dans la conversation.\n\nQuand elle parle, Aya a refermé le pli et attend. Irène dit « J’ai perdu ma place », trop bas pour qu’Ilyès entende. Elle pourrait le laisser raconter la fin et demander à essayer à nouveau une autre fois. Aya reprend son ticket à côté de la trousse : « J’en fais quoi, finalement ? » Irène regarde le ticket, puis le premier toit. Elle sait par quelle image elle voudrait revenir.",
+      "sections": [
+        {
+          "heading": "Un essai utile peut encore être difficile",
+          "text": "Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité. Le livre et les feutres d’Irène sont accessibles. Cette fois, la lectrice choisit une route qu’Irène n’attendait pas et fait avancer les pages à son rythme. Au moment de retrouver sa place dans l’échange, Irène a besoin d’un repère qui lui indique où Aya en est. Le résultat du montage de mardi reste valable : ils avaient alors comparé des versions sans avoir à guider une lectrice.\n\nL’excitation, la fatigue ou le fait d’être très absorbé peuvent accompagner les mouvements stéréotypés. Un seul essai ne dit pas ce qui les fait revenir à tel instant. Irène peut dire ce qu’elle a perdu dans cette lecture et essayer une manière d’y retourner, sans avoir à expliquer pourquoi ses mains ont bougé."
+        },
+        {
+          "heading": "Préciser la part d’aide qui manque",
+          "text": "Ilyès lui propose de continuer. Irène veut plutôt qu’il lui montre le pli qu’Aya vient de refermer et qu’il attende. Ce sont deux façons d’aider, avec des suites différentes. Ils peuvent convenir d’une question courte à utiliser quand ils hésitent : « Tu veux la page ou tu veux que je prenne la suite ? » Si elle dit « la page », Ilyès peut la montrer sans donner la prochaine réplique.\n\nLe ticket d’Aya leur fournit une autre idée. Un petit marque-page à la dernière image ouverte permettrait aussi de revenir à cette image après une interruption. On peut le proposer à tout lecteur. L’essai dira s’il est utile et si le livre reste assez ouvert pour que chacun y fasse sa propre visite."
+        }
+      ],
+      "ending_title": "Le ticket sous les cheminées",
+      "ending": "Irène montre la cheminée basse. « Tu peux rouvrir celle-là ? Après je demande. » Ilyès revient au pli qu’Aya vient de fermer. Irène lui demande ce qu’elle a vu ; Aya dit qu’elle aurait laissé le ticket près de la porte du boulanger. Elle le glisse là, comme un signet. Irène leur propose de garder l’idée et de fabriquer des marque-pages pour le samedi de lecture. Ilyès vérifie ce qu’elle voudra s’il faut lui passer une page. « Montre-la-moi », dit-elle. Elle veut encore poser la question elle-même. Avant de rentrer, Aya essaie enfin le canal. Elle trouve la fenêtre sans leur demander d’aide.",
+      "mirror": [
+        "Quand quelqu’un ne sait plus comment reprendre, évitez de deviner qu’il souhaite vous céder tout le rôle. Ilyès peut demander : « Je te montre le dernier pli ? » et attendre sa réponse. Une page déjà ouverte, un objet qu’on reconnaît ou un mot peuvent servir de point de retour. Si Irène préfère laisser Ilyès continuer une autre fois, ils pourront changer de rôle. Leur accord laisse les deux choix possibles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène demande à Ilyès de retrouver une image, reprend sa question à Aya et propose des marque-pages inspirés du ticket.",
+        "next": "Le binôme a un accord de reprise et des signets à préparer pour le samedi. Aya a essayé les deux routes avant l’ouverture publique."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "irene-choisir-la-place-de-chacun-au-programme",
+      "title": "Se sentir mal comprise en lisant le programme de l’atelier",
+      "description": "Le programme du samedi attribue le dessin à Irène et la lecture à Ilyès. Tous deux y découvrent un rôle qu’ils n’ont pas choisi.",
+      "context": "À la médiathèque, au comptoir où se prépare le programme du samedi de lecture",
+      "topics": [
+        "Effet des étiquettes",
+        "Reconnaissance du travail commun",
+        "Liberté de changer de rôle"
+      ],
+      "opening": "Mercredi, les premiers signets sèchent sur le comptoir d’accueil. On dirait des tickets de métro qui n’auraient pas encore choisi leur destination. Irène les compte par tas de quatre pendant qu’Ilyès lit le programme à voix haute. Au milieu des ateliers du samedi, leur livre a un titre pour la première fois sur une feuille qui n’est pas à eux : La rue sous la pluie. Juste en dessous, il lit : « Dessins d’Irène, lecture par Ilyès. » Il s’arrête. « Ça veut dire que je dois lire ? »\n\nIrène prend la feuille. Elle avait dessiné la première rue ; il avait trouvé les marches et la fenêtre, puis fait tenir le grand toit debout. De son côté, vendredi, elle a dû trouver comment reprendre sa question à Aya. On dirait que ce travail a disparu dans la même petite ligne. Elle allait dire que c’est son dessin qui a donné l’idée du livre. Elle tourne la feuille vers Ilyès et lui montre plutôt les mots « lecture par » : elle veut savoir d’où ils viennent.\n\nMylène les rejoint. On lui a demandé une phrase courte et elle a résumé ce qu’elle voyait à l’atelier : Irène dessinait souvent, et Ilyès avait proposé de continuer l’histoire vendredi. Il s’agit d’un brouillon. Elle peut encore modifier la ligne, à condition qu’ils lui donnent une phrase avant de partir. Irène laisse le tas de signets sur le comptoir et sort un crayon.",
+      "sections": [
+        {
+          "heading": "Un coup de main ne donne pas un rôle pour toujours",
+          "text": "Une aide utile dans un moment précis peut devenir gênante si l’entourage en fait un rôle permanent. Ilyès a proposé de prendre la suite quand Irène avait perdu sa place vendredi. Elle lui a demandé de retrouver une image, puis a continué à parler avec Aya. La prochaine fois, elle pourra choisir autrement. Rien, dans cet accord, ne demande à Ilyès de raconter le livre à chaque visite ou à Irène de se tenir à l’écart de la lecture.\n\nLes gestes répétés d’Irène peuvent compliquer une partie du travail sans dire ce qu’elle sait faire ni ce qu’elle a envie d’essayer. Dessiner lui convient souvent et c’est un plaisir qu’elle veut garder. Elle peut aussi poser une question à un visiteur. La ligne du programme peut rendre ces choix plus faciles en annonçant ce qui se passera pour le public plutôt qu’en répartissant les deux personnes."
+        },
+        {
+          "heading": "Réécrire ce que le visiteur va venir faire",
+          "text": "Mylène a besoin d’une phrase assez courte pour le programme et d’un nom pour retrouver la table. Irène et Ilyès ont besoin que leur livre soit signé par les deux et que la suite reste ouverte. Ils peuvent regarder les mots « dessins » et « lecture » séparément : on peut garder l’idée d’un livre dessiné et lu ensemble sans assigner une seule activité à chacun.\n\nLa phrase pourrait inviter le visiteur à choisir une entrée et à chercher une place dans la rue. Chacun des deux auteurs peut dire si c’est bien ce qu’il voudrait proposer. Mylène peut attendre la nouvelle version avant d’imprimer. Leur accord sur la page à retrouver reste entre eux et les adultes qui organisent la séance."
+        }
+      ],
+      "ending_title": "Deux prénoms sur la même ligne",
+      "ending": "Irène écrit « Irène et Ilyès » sous le titre. Ilyès ajoute : « Entrez par le canal ou par les toits. » Ils se disputent une minute sur le point final, parce qu’Irène veut dessiner une goutte à cet endroit. Mylène peut garder le point dans le programme et la goutte sur les signets. Ilyès lui demande de leur laisser ouvrir le livre ensemble, quitte à ce qu’il pose la première question au visiteur qui choisit le canal. Irène trouve l’idée juste et lui tend un signet sec. Ils gardent le dessin de la goutte pour le samedi.",
+      "mirror": [
+        "Au moment où les deux auteurs s’arrêtent sur « lecture par », vous pouvez dire : « J’ai résumé trop vite ce que j’avais vu vendredi. Que voulez-vous que les lecteurs trouvent sur le programme ? » Demandez l’avis de chacun avant d’imprimer. Les informations dont l’atelier se sert pour organiser l’espace ou retrouver une page peuvent rester dans l’équipe qui les applique. Le public vient lire leur livre ; les deux jeunes peuvent encore choisir comment l’accueillir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène et Ilyès remplacent les rôles figés par leurs deux prénoms et une invitation à choisir une route.",
+        "next": "Le programme imprimé créditera le duo. Ils prévoient d’ouvrir ensemble, avec une première question possible d’Ilyès pour le canal."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "irene-dire-non-a-une-table-dans-le-hall",
+      "title": "Dire non à la grande table quand l’accueil s’accélère",
+      "description": "Les inscriptions ont doublé pour le samedi de lecture. Mylène propose la grande table du hall ; Irène examine les passages autour.",
+      "context": "Dans le hall de la médiathèque, avant l’ouverture du samedi de lecture",
+      "topics": [
+        "Pression à faire vite",
+        "Affirmer une limite",
+        "Négocier une place dans le groupe"
+      ],
+      "opening": "Samedi matin, le nombre d’inscriptions pour le livre a doublé. Au comptoir, Mylène fait deux piles avec les programmes. Elle montre à Irène et à Ilyès la grande table du hall. On pourrait l’ouvrir en entier ici, dit-elle, et les visiteurs verraient les toits depuis l’entrée. La salle du conte est encore disponible, mais il faudra y accueillir les gens en petits groupes et faire attendre ceux qui arrivent ensemble.\n\nIlyès s’approche de la grande table. C’est vrai qu’on verrait de loin les cheminées. Irène vient derrière lui avec la trousse verte. Les premiers visiteurs passent déjà entre deux rangées de chaises pour aller rendre des livres. Un monsieur demande si la table est le point de départ de toutes les visites. Mylène n’a pas fini de répondre que deux personnes s’approchent aussi. Irène regarde l’endroit où elle poserait la trousse. C’est le seul côté de la table où les gens peuvent doubler la file. Elle se souvient d’avoir hésité avant de dire qu’elle avait mal au bras.\n\n« On peut rester dans la salle ? » Ilyès n’a pas encore décidé. Il a envie que le livre soit vu. Irène pose la trousse sur la grande table juste le temps d’en sortir un signet. Si les gens découvrent deux chemins sur le programme, ils peuvent aussi découvrir deux horaires sur un ticket. Elle se demande si Mylène voudrait les distribuer.",
+      "sections": [
+        {
+          "heading": "Un espace grand peut laisser peu de place",
+          "text": "Pour évaluer un aménagement, il faut regarder ce que la personne pourra y faire quand le lieu sera réellement utilisé. Une grande table laisse de la place aux pages, mais les passages autour comptent aussi pour Irène. Le déplacement vers le hall rapprocherait son poste d’une file qui se déplace. Après le heurt, le duo avait retrouvé une table où les allées de service restaient à distance et où chacun savait où poser ses affaires. Le changement mérite une nouvelle discussion.\n\nIrène n’a pas besoin de reproduire ce qui s’est passé près du comptoir pour faire prendre sa demande au sérieux. Mylène peut examiner avec elle les conditions d’accueil, garder le relais convenu en cas de douleur et choisir un endroit qui permette au duo de travailler. Cette décision d’organisation ne répond pas à la place de l’équipe pédiatrique à une question clinique."
+        },
+        {
+          "heading": "Régler l’attente avec les visiteurs",
+          "text": "La salle du conte permet moins d’entrées à la fois. Cette limite a un coût : certains visiteurs ne pourront pas attendre le groupe suivant. Mylène peut l’expliquer à l’entrée, écrire les heures sur les signets et prévoir assez de temps pour qu’un groupe parte avant l’arrivée du suivant. Le binôme pourra garder les deux chemins sans se charger de la file en même temps.\n\nPour ceux qui ne peuvent pas rester, Irène et Ilyès peuvent laisser au comptoir un dessin où figurent les deux départs. Ils gardent le relief pour la salle, où les visiteurs auront le temps de le découvrir. La proposition donne un moyen de voir le projet et laisse aux deux auteurs le choix de la page qu’ils rendent disponible."
+        }
+      ],
+      "ending_title": "Le ticket donne une heure",
+      "ending": "Irène propose deux horaires à Mylène. Ilyès lui demande s’ils peuvent montrer les deux flèches au comptoir, comme pour annoncer une ligne de métro. Il sort la copie sombre de la pochette du livre. Irène accepte qu’on en fasse quelques exemplaires pour l’accueil. Mylène organise deux petits groupes dans la salle du conte et écrit les heures sur les signets. Une famille ne peut pas rester pour le second horaire ; elle prend un plan et repart. Irène aurait aimé lui montrer la fenêtre. Elle reprend sa trousse et s’installe dans la salle avec Ilyès. On frappe : le premier groupe attend derrière la porte.",
+      "mirror": [
+        "Devant une file qui se forme, vous pouvez dire : « Le hall montrerait mieux le livre ; regardons où vous pourriez travailler quand les gens arrivent. » Si l’espace convenu n’y est pas disponible, gardez une autre option et prenez en charge l’attente. La famille qui repart peut être déçue et Irène aussi. C’est aux adultes qui organisent la rencontre de régler le nombre d’entrées et de maintenir le relais prévu si une difficulté de sécurité survient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies",
+        "medlineplus-mouvements"
+      ],
+      "continuity": {
+        "choice": "Irène demande de garder la salle du conte, propose des horaires sur les signets et choisit avec Ilyès de laisser un plan à l’accueil.",
+        "next": "Mylène tient la file en deux petits groupes. Le livre et la trousse sont installés dans la salle du conte ; l’un des groupes est à la porte."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "irene-retrouver-le-fil-devant-les-visiteurs",
+      "title": "Retrouver le fil quand les visiteurs inventent un autre chemin",
+      "description": "Le premier groupe entre dans la salle du conte. Devant les toits, une lectrice voit une suite à laquelle Irène n’avait pas pensé.",
+      "context": "Dans la salle du conte, pendant la première visite publique",
+      "topics": [
+        "Appréhension du regard",
+        "Reprendre après une interruption",
+        "Partager le pouvoir d’inventer"
+      ],
+      "opening": "Le premier groupe entre avec ses signets. Une femme en pull jaune demande si elle a le droit de changer de chemin au milieu du livre. Irène trouve que c’est une bonne question et attend de voir ce qu’Ilyès va répondre. Il demande à la femme de choisir sa première entrée. Elle pose le doigt sur le toit dessiné sur la flèche. Irène tient un côté du livre ; de l’autre, Ilyès ouvre assez grand pour que la rue se dresse. Un garçon qui regardait derrière la femme se baisse d’un cran, jusqu’à ce que son nez soit presque à la hauteur des cheminées.\n\nLes mains d’Irène reprennent leur mouvement quand la femme se penche pour regarder aussi le canal. Le garçon rit. Irène regarde vite de son côté. Il pointe une miche qui pend au bout de la ficelle, au-dessus du toit. Il croit qu’elle sert de sonnette pour le boulanger. Ilyès a entendu aussi, mais le pli que la femme vient d’ouvrir cache la miche. Irène voudrait demander au garçon qui viendrait sonner. Elle a toujours un côté du livre devant elle, mais elle ne retrouve plus l’image dont ils parlent.\n\nIlyès avait glissé un signet sous la première page des toits. Il se tourne vers Irène et lui demande si elle veut retrouver la page. De l’autre côté de la table, la femme cherche où la place pourrait apparaître. Irène peut encore poser sa question. Elle voudrait que le garçon lui montre le toit qu’il choisirait pour sa sonnette.",
+      "sections": [
+        {
+          "heading": "Reprendre peut faire partie de la lecture",
+          "text": "Participer à une activité reste possible quand un mouvement répété en interrompt un moment. Ce qui compte ici, c’est qu’Irène puisse retrouver l’image et décider ce qu’elle veut faire de la remarque du garçon. Après l’expérience du CDI, le rire lui fait lever la tête. Dans cette salle, le garçon montre un détail du livre. Irène a le temps d’écouter sa proposition avant de revenir au pli. Elle n’a pas à deviner ce qu’un autre visiteur penserait de ses gestes.\n\nLa possibilité de reprendre vient de plusieurs choses qui fonctionnent ensemble : l’espace disponible, le signet et l’accord avec Ilyès. Elle se voit dans la question qu’Irène peut poser ensuite. On pourrait avoir la même reprise un jour où les mouvements sont plus présents, ou perdre le fil un jour où ils le sont moins. L’essai renseigne sur l’aide apportée dans cette lecture."
+        },
+        {
+          "heading": "Suivre la proposition d’un lecteur",
+          "text": "Ilyès peut retrouver le pli et laisser Irène décider si elle veut parler. Il peut aussi continuer lui-même si elle le lui demande. Elle peut s’appuyer sur le dessin de la miche pour accueillir une idée qu’elle n’avait pas prévue. Le rôle de chacun se règle au cours de la lecture, comme ils en avaient décidé devant le programme.\n\nLa femme a posé une question à laquelle le livre ne donne pas de réponse. Les deux auteurs peuvent la laisser essayer de relier deux voies. Pour garder un point de retour, on peut déplacer le signet à l’image que les lecteurs veulent revoir. Les visiteurs trouveront peut-être un troisième chemin. Les auteurs resteront libres de le dessiner plus tard ou de le laisser dans l’histoire racontée ce matin-là."
+        }
+      ],
+      "ending_title": "La miche devient une sonnette",
+      "ending": "« La page, s’il te plaît. » Ilyès retrouve le pli grâce au signet et Irène demande qui viendrait sonner. Le garçon dit « les gens du canal » : ils sortiraient par les marches et monteraient jusqu’aux toits pour acheter du pain. La femme rit à son tour et montre où elle ferait passer le chemin. Irène esquisse la liaison au verso d’un signet. Quand le groupe repart, elle demande à Ilyès d’accueillir le suivant le temps qu’elle range ce dessin dans leur pochette. Puis elle pousse sa trousse de quelques centimètres pour qu’elle ne recouvre pas le banc.",
+      "mirror": [
+        "Ilyès peut retrouver le pli sans prendre la question d’Irène : « Je remets le toit devant toi. Tu veux reprendre ou tu me laisses demander ? » Attendez le choix et adressez-vous aussi aux visiteurs qui ont suivi une autre idée. Si Irène souhaite changer de rôle pour la lecture suivante, gardez cette option ouverte. La réussite de l’essai peut se juger au fait qu’elle a pu revenir dans la conversation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène accepte une reprise de page, reprend la question au garçon et note la liaison proposée sans la promettre pour le livre.",
+        "next": "Le premier groupe a trouvé un troisième chemin possible ; Ilyès accueillera le second pendant qu’Irène range le croquis et garde sa place."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "irene-preter-le-livre-et-garder-ses-feutres",
+      "title": "Poser ses limites quand le livre reste à la médiathèque",
+      "description": "Le samedi de lecture est terminé. Mylène propose de laisser le livre à la médiathèque et Irène veut décider ce qui restera avec lui.",
+      "context": "À la médiathèque, pendant le rangement qui suit le samedi de lecture",
+      "topics": [
+        "Choisir la suite de son engagement",
+        "Faire confiance sans tout céder",
+        "Fierté de transmettre"
+      ],
+      "opening": "Irène est revenue chercher le livre le jeudi suivant. Il est à plat sur une table de la salle du conte, avec les bandes des deux entrées à côté. Mylène a mis le ticket d’Aya au milieu, là où les pages tiennent le mieux. Deux personnes ont demandé à revoir le livre après samedi. Elle voudrait le laisser dans la salle jusqu’à la fin du mois, pour qu’on puisse l’ouvrir avec un adulte de la médiathèque. Irène regarde sa trousse verte. La première fois qu’elle a amené ses feutres, elle avait peur que toute la table se mette à les emprunter. Maintenant, elle essaie d’imaginer le livre qui s’ouvre ici quand elle est au collège.\n\nIlyès trouve que ce serait bien si des lecteurs ajoutaient d’autres chemins. Il demande si on devra revenir faire la lecture à chaque fois. Mylène dit qu’elle pourrait s’en charger avec ses collègues si on lui montre ce que les visiteurs ont le droit de toucher. Irène sort le croquis du samedi. Le garçon avait suivi les marches du canal jusqu’au toit où pend la miche. L’idée lui plaît toujours. Elle n’a pas envie de la coller sur la page.\n\nSon père l’attend dans le hall. La veille, après le point de suivi avec la Dre Rivière, ils ont parlé de ce qu’elle voudrait continuer à faire ici. Irène lui a dit qu’elle avait une idée pour un autre livre. Elle n’a pas encore promis de le fabriquer.",
+      "sections": [
+        {
+          "heading": "Regarder ce que le soutien a permis",
+          "text": "Un suivi peut porter sur les activités que la personne veut retrouver ou poursuivre et sur les conditions qui l’y aident. Au rendez-vous après le samedi, Irène a parlé de la place laissée autour de la table, du dernier pli qu’Ilyès lui avait montré et de la question qu’elle a pu poser au garçon. Elle n’a pas eu à donner le nombre de fois où ses mains ont bougé. La pédiatre leur a demandé de reprendre contact si une douleur ou un risque réapparaît, ou si les difficultés la gênent davantage dans ce qu’elle tient à faire.\n\nCes appuis ont servi dans un lieu et avec des personnes précises. Irène pourra garder ce qu’elle trouve utile et en reparler si elle commence un autre projet. Elle peut aussi laisser le livre disponible et choisir de ne pas venir à chaque lecture."
+        },
+        {
+          "heading": "Décider ce qui reste dans la salle",
+          "text": "Irène et Ilyès peuvent montrer à Mylène comment ouvrir le livre et convenir d’une date pour venir le reprendre. Il y a plusieurs objets à répartir : le livre, les flèches qui y mènent, les signets pour les lecteurs et les croquis auxquels ils tiennent. Les feutres sont à Irène. Elle peut les garder même si les personnes de la médiathèque ont envie d’annoter un plan de la rue.\n\nPour les autres chemins, le duo peut laisser des feuilles à part et décider plus tard s’il veut en lire certaines. La fenêtre, la fausse impasse et le banc restent là où ils les ont dessinés. Le projet a une forme assez complète pour continuer sans qu’ils viennent résoudre chaque hésitation du prochain lecteur."
+        }
+      ],
+      "ending_title": "Le livre dans la salle, la trousse sous le bras",
+      "ending": "Irène demande à Ilyès s’il est d’accord pour laisser le livre jusqu’à la fin du mois. Il dit oui et marque la date sur le calendrier de la salle pendant qu’elle montre à Mylène comment suivre les deux entrées. Ils laissent un pot de crayons de la médiathèque et quelques feuilles pour les chemins inventés. Irène remet le ticket d’Aya près du banc et glisse le croquis du garçon dans son cahier. Dans le hall, elle retrouve son père et sort un feutre de sa trousse : « Tu crois que sous le banc, on pourrait mettre une gare ? » Il lui demande où irait le premier train.",
+      "mirror": [
+        "Après la rencontre, demandez à Irène ce qu’elle a envie de transmettre : « Tu veux montrer les plis à Mylène et reprendre tes feutres ? » Notez la date de retour du livre et tenez compte de l’accord d’Ilyès. Une prochaine invitation peut rester ouverte pendant qu’elle réfléchit. Si une difficulté revient, reparlez des conditions qui l’aident avec elle et les adultes concernés ; l’équipe pédiatrique garde la main sur le suivi de santé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "gosh-stereotypies"
+      ],
+      "continuity": {
+        "choice": "Irène et Ilyès prêtent le livre jusqu’à la fin du mois et laissent de quoi dessiner sur des feuilles séparées. Elle repart avec ses outils et son croquis.",
+        "next": "La médiathèque peut faire lire le livre avec les deux chemins. Le relais pédiatrique reste possible, et l’idée d’une gare appartient encore à Irène."
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-title: La partition peut rester au pupitre
+title: Poser ses limites au sein d’un groupe de musique
 description: Garance parle à Lise de sa place au concert et des tâches qu’elle peut
   tenir. Elle choisit les informations qui seront partagées avec le groupe.
 slug: garance-lise-accord-confidentialite
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Dans la salle des Forges, avant une répétition de l’ensemble de cordes
 tags:
 - Bipolarité type II
-- Confidentialité du diagnostic
-- Place dans l’ensemble
-- Aménagement du programme
+- Expression de ses besoins
+- Confidentialité des informations de santé
+- Aménagement d’une activité collective
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

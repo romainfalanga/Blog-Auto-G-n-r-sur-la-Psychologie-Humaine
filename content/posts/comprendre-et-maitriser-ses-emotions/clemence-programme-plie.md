@@ -1,5 +1,5 @@
 ---
-title: Le programme plié
+title: Avant la projection, partager les rôles quand on veut tout prévoir
 description: La date approche. Clémence précise sa place dans la soirée et laisse
   à Baya la présentation du film qu’elle a choisi.
 slug: clemence-programme-plie
@@ -11,9 +11,9 @@ contexte: convenir des rôles le soir de la projection en tenant compte du suivi
   des disponibilités
 tags:
 - Anorexie
-- Reprise d’une activité
-- Rôles au ciné-club
-- Choix de participation
+- Tendance à tout anticiper
+- Délégation de tâches
+- Choix de ses limites
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

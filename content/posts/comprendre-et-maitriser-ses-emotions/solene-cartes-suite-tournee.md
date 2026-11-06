@@ -1,5 +1,5 @@
 ---
-title: Solène ajoute du silence entre les films
+title: Écouter des avis différents et décider de la suite
 description: Les cartes de la médiathèque proposent deux changements différents. Solène
   garde la chaise en ouverture et défend une pause avant le film suivant.
 slug: solene-cartes-suite-tournee
@@ -10,9 +10,9 @@ sujet: Trouble schizoaffectif
 contexte: Le mardi après la séance, au dépôt du cinéma itinérant
 tags:
 - Trouble schizo-affectif
-- Décision de programmation
-- Retours du public
-- Continuité des soins
+- Garder sa place au travail
+- Souplesse dans les décisions
+- Écouter ses limites
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

@@ -1,5 +1,5 @@
 ---
-title: Le deuxième samedi, Mathis commence à l’accueil
+title: Passer le relais sans porter seul toute l’organisation
 description: Mathis et Zélie reprennent la permanence avec des rôles différents. Un
   détail oublié leur montre pourquoi l’équipe doit pouvoir passer le relais.
 slug: mathis-deuxieme-samedi-permanence
@@ -10,9 +10,9 @@ sujet: TDAH chez l’adulte
 contexte: De nouveau sur la place des Tilleuls, lors de la deuxième permanence
 tags:
 - TDAH
-- Maintien des appuis
-- Autonomie et entraide
-- Continuité du suivi
+- Responsabilités partagées
+- Autonomie
+- Repères communs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

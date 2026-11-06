@@ -1,5 +1,5 @@
 ---
-title: La valse figure aussi dans les notes du rendez-vous
+title: 'Dépression : au rendez-vous, Garance parle aussi de plaisir'
 description: La psychiatre évalue la période difficile de Garance. Le plaisir qu’elle
   a pris à jouer quelques mesures fait partie de ce qu’elle raconte.
 slug: garance-episode-depressif-consultation
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: Au cabinet, pour l’évaluation de la période dépressive
 tags:
 - Bipolarité type II
-- Épisode dépressif
-- Retentissement sur le quotidien
-- Prise en charge discutée
+- Plaisir au cours d’une dépression
+- Difficultés dans les tâches ordinaires
+- Choix du traitement avec la psychiatre
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

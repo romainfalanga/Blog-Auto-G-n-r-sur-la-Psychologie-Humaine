@@ -1,17 +1,24 @@
 {
   "character_id": "antonin",
-  "bio": "Antonin a 46 ans et s’occupe de l’intendance dans une école de musique. Il connaît chaque clé et chaque placard. Avec Eva, il prépare la réouverture d’un local de répétition et aimerait retrouver des soirées avec son frère Benoît. Son médecin a déjà diagnostiqué un trouble anxieux généralisé et revoit avec lui sa prise en charge.",
+  "bio": "Antonin s’occupe de l’intendance dans une école de musique. Il connaît chaque clé et sait où retrouver un pupitre oublié. Avec sa collègue Eva, il prépare la réouverture du local de répétition. Quand une réponse tarde, il essaie de prévoir ce qui pourrait mal tourner, jusqu’à emporter ses soucis chez lui. Il aimerait retrouver ses soirées de billard avec son frère Benoît. Il cherche à partager les responsabilités au travail et à laisser certaines questions ouvertes le temps d’une partie.",
+  "profile_topics": [
+    "Inquiétudes qui s’enchaînent",
+    "Attente et incertitude",
+    "Crainte d’être mis en cause",
+    "Sommeil perturbé",
+    "Limites au travail"
+  ],
   "episodes": [
     {
       "number": 1,
       "slug": "antonin-cle-sans-date",
-      "title": "La clé qui attend sa date",
+      "title": "Une inquiétude en entraîne une autre à l’école de musique",
       "description": "Antonin prépare la réouverture d’un local de musique. Quand Eva lui demande quel groupe y rejouera d’abord, il a du mal à quitter sa liste.",
       "context": "À l’école de musique, lors du premier point sur la remise en service du local",
       "topics": [
-        "Anxiété généralisée",
-        "Inquiétudes persistantes",
-        "Retentissement"
+        "Inquiétudes qui s’enchaînent",
+        "Difficulté à décider",
+        "Effort de concentration"
       ],
       "opening": "Antonin remet un pied en caoutchouc sous une chaise, la pose sur le carrelage et s’assoit pour écouter. Le grincement a disparu. Dans l’école de musique, il connaît l’endroit où l’on garde les patins, les pupitres, les câbles oubliés et les doubles des clés. Celle du local de répétition est sur le bureau. Le local doit rester fermé pendant les travaux. Eva, sa collègue, a apporté le cahier des groupes. Elle veut savoir lequel pourrait y retrouver son créneau en premier, une fois la salle remise en service.\n\nAntonin ouvre une feuille où il a noté la livraison, la disponibilité de l’accordeur et les cours qui débordent dans le couloir. Il ajoute la question du chauffage, puis le cas d’une absence chez les professeurs. Il regarde les colonnes et ne sait plus s’il essaie de répondre à Eva ou de prévoir toute l’année. Le téléphone vibre. Son frère Benoît demande s’il viendra jouer au billard jeudi. Antonin pense au bruit que fait la roue de son vélo, au coût de la réparation, puis à l’heure qu’il a promise au professeur de trombone.\n\nSon médecin a posé un diagnostic de trouble anxieux généralisé avant ce chantier. Antonin le voit déjà pour revoir sa prise en charge. À leur dernier rendez-vous, il lui a parlé des nuits où une inquiétude de travail en appelle une autre sur l’argent ou sur sa famille. Ce matin, Eva attend seulement le nom d’un groupe. Antonin entend les pieds de la chaise quand elle la rapproche du bureau.",
       "sections": [
@@ -41,13 +48,13 @@
     {
       "number": 2,
       "slug": "antonin-seuil-qui-bouge",
-      "title": "La barre qui se soulève",
+      "title": "L’inquiétude persiste après le signalement d’un défaut à l’école",
       "description": "Un défaut du seuil est visible à l’entrée du local. Antonin le signale, puis cherche quelles décisions relèvent encore de lui.",
       "context": "Au seuil du local en travaux, pendant un repérage depuis le couloir",
       "topics": [
-        "Précaution justifiée",
-        "Responsabilités",
-        "Incertitude"
+        "Évaluation d’un risque concret",
+        "Inquiétudes qui se prolongent",
+        "Attente et incertitude"
       ],
       "opening": "La baguette métallique devant la porte se soulève à une extrémité. Antonin la voit de biais parce qu’il cherchait, sur le mur du couloir, l’ancienne affiche des auditions. Ce morceau de seuil n’était pas sorti de son logement lors du dernier repérage. Il arrête le déplacement de matériel qu’il devait coordonner et indique à Eva de rester à l’écart. Le local est déjà fermé au public. Il prévient le service qui suit les travaux, transmet l’emplacement précis et demande que l’accès reste réservé aux personnes habilitées jusqu’au contrôle.\n\nAu bureau, Eva décroche une annonce devenue illisible sous trois couches de ruban. Il y a dessus le nom d’un ancien professeur qui gardait les partitions dans des boîtes à chaussures. Ils se demandent si les familles se souviennent encore des petites auditions du samedi. Antonin aimerait proposer à l’ensemble de clarinettes de rejouer le morceau qu’on entendait jusque dans l’escalier. Il cherche son titre sur l’annonce, entre les traces de colle.\n\nLe téléphone indique que son signalement a été reçu. Le service reviendra vers lui après le contrôle prévu. Antonin songe à appeler une deuxième fois, à demander si les ouvriers auront assez de temps et à imaginer d’autres défauts qu’il n’a pas vus depuis le couloir. Eva lui montre le planning du déplacement qui vient d’être suspendu. Elle veut savoir si elle doit prévenir les professeurs maintenant ou attendre l’heure du contrôle. Antonin regarde le nom des deux personnes qui auraient dû venir ce matin.",
       "sections": [
@@ -77,13 +84,13 @@
     {
       "number": 3,
       "slug": "antonin-creneau-des-clarinettes",
-      "title": "Le mardi que prend Eva",
+      "title": "Confier une tâche à Eva malgré la crainte d’un oubli",
       "description": "Eva propose d’organiser la répétition des clarinettes ailleurs. Antonin choisit les informations à lui transmettre et celles qui peuvent attendre.",
       "context": "Au bureau de l’école, pendant la répartition des salles provisoires",
       "topics": [
-        "Partage des tâches",
-        "Incertitude",
-        "Organisation du travail"
+        "Crainte d’une erreur",
+        "Partage des responsabilités",
+        "Tolérance à l’incertitude"
       ],
       "opening": "La salle du haut est libre un mardi sur deux. Eva lit le nom de l’ensemble de clarinettes et déplace une étiquette sur son tableau. L’essai serait possible si le professeur peut changer l’heure et si la salle répond aux besoins des musiciens. Antonin connaît déjà le nombre de pupitres disponibles. Il ouvre la bouche pour expliquer à Eva comment faire l’appel, à qui demander le double de la clé et quelle entrée l’un des élèves préfère emprunter.\n\nEva pose deux crayons sur le cahier. Elle lui demande la capacité de la salle et le nom du professeur, puis lui propose de prendre en charge les échanges jusqu’à la réponse du groupe. Antonin pense à un élève qu’ils avaient oublié de prévenir au début de l’année. Il s’apprête à demander une copie de chaque message. Il aperçoit aussi, au bas de son agenda, l’heure à laquelle il doit apporter son vélo à l’atelier. Il a décalé ce rendez-vous une première fois parce qu’un échange sur les répétitions avait débordé.\n\nDans la cour, le professeur de trombone fait écouter à un élève le passage qu’il jouait trop vite. Antonin reste un instant près de la fenêtre. Au bureau, Eva attend les informations qu’il doit lui passer. Il se demande quel risque demande vraiment sa présence après cet échange. La règle d’accès à la salle ne changera pas. En revanche, il ne sait toujours pas ce que le groupe décidera.",
       "sections": [
@@ -113,13 +120,13 @@
     {
       "number": 4,
       "slug": "antonin-devis-du-velo",
-      "title": "Le prix écrit sur un coin de papier",
+      "title": "Faire un choix quand les soucis passent du vélo à la famille",
       "description": "Le réparateur chiffre une réparation. Antonin essaie de choisir pour son vélo tandis que d’autres inquiétudes lui reviennent.",
       "context": "À l’atelier de réparation du vélo, puis au café avec Benoît",
       "topics": [
-        "Finances du quotidien",
-        "Inquiétudes changeantes",
-        "Décision concrète"
+        "Inquiétudes qui s’enchaînent",
+        "Difficulté à décider",
+        "Temps pour les proches"
       ],
       "opening": "Le réparateur fait tourner la roue avant et demande à Antonin depuis quand elle frotte. Antonin ne s’en souvient pas. Il pense au pavé sur lequel il était monté en rentrant du billard, puis à une bosse qu’il avait évitée près de l’école. Le réparateur examine le vélo et écrit un montant sur un coin de papier. Il précise ce que la réparation comprend et l’heure à laquelle il peut rappeler avec une date. Antonin lui demande de garder le vélo sur place pendant qu’il réfléchit.\n\nDehors, Benoît l’attend devant le café. Il a apporté une vieille craie de billard qu’il a trouvée dans le tiroir de leur père. Ils la faisaient passer de main en main, adolescents, sans savoir à quoi elle servait vraiment. Antonin la fait rouler entre ses doigts. Il voudrait demander à son frère s’il a envie de jouer jeudi, comme prévu, mais il revient au montant écrit. Il imagine qu’une deuxième pièce pourrait lâcher. Puis il pense à une dépense du mois suivant, au rendez-vous de Benoît chez le dentiste et à la clé du local qui attend dans le bureau.\n\nLe devis lui demande une réponse sur une réparation déterminée. Benoît lui demande seulement s’il préfère prendre le bus avec lui jeudi ou attendre que le vélo soit prêt. Antonin pose la craie près de sa tasse pour chercher l’itinéraire qu’il utilisait avant d’avoir le vélo. Le temps de vérifier l’arrêt, il se demande de nouveau ce que le réparateur pourrait avoir oublié.",
       "sections": [
@@ -149,12 +156,12 @@
     {
       "number": 5,
       "slug": "antonin-sommeil-au-rendez-vous",
-      "title": "Les heures qu’il voudrait raconter",
+      "title": "Nuits courtes et inquiétudes : Antonin en parle à son médecin",
       "description": "Antonin parle à son médecin des nuits courtes et des décisions qui lui coûtent. Ils revoient ensemble la suite de sa prise en charge.",
       "context": "Au rendez-vous de suivi médical, après une semaine de nuits interrompues",
       "topics": [
-        "Sommeil",
-        "Consultation de suivi",
+        "Sommeil perturbé",
+        "Fatigue dans la journée",
         "Choix de soins"
       ],
       "opening": "Dans la salle d’attente, Antonin tient un ticket de bus où l’encre a presque disparu. Il l’avait glissé dans son portefeuille après le billard. Benoît lui a laissé le dernier coup et Antonin a raté la bille blanche. Ils ont tellement ri que le joueur de la table voisine a levé les yeux. Le souvenir lui revient avant celui de la nuit suivante. À trois heures, il était allé chercher le papier du réparateur. Il a accepté le devis le lendemain et le vélo attend la pièce nécessaire.\n\nIl a apporté aussi l’horaire d’une répétition déplacée. La feuille lui rappelle le mercredi où il s’est levé pour vérifier un renseignement déjà donné par Eva. Une fois debout, il a pensé à la dépense du vélo puis à l’appel que son frère devait recevoir du dentiste. Au matin, il a trouvé le volet de la cuisine entrouvert. Il ne sait plus s’il l’a ouvert pour voir l’heure à laquelle le jour se levait ou parce qu’il comptait rester debout.\n\nSon médecin l’appelle. Antonin glisse le ticket et la feuille dans la même poche. Ils ont déjà parlé de son anxiété généralisée et des appuis qu’il essaie au travail. Aujourd’hui, il voudrait expliquer comment il tient ses journées et ce qu’il lui reste pour la soirée. Son médecin lui demande ce qu’il souhaiterait voir changer. Antonin pense d’abord aux nuits. Il ajoute qu’il voudrait recommencer à jouer sans commencer son jeudi en calculant s’il aura l’énergie d’y aller.",
@@ -185,13 +192,13 @@
     {
       "number": 6,
       "slug": "antonin-livraison-en-retard",
-      "title": "La date que le fournisseur retire",
+      "title": "Le chantier prend du retard : décider sans connaître la suite",
       "description": "La livraison de la porte est retardée. Antonin et Eva doivent organiser les répétitions sans promettre une réouverture qu’ils ne maîtrisent pas.",
       "context": "À l’école, au moment où le fournisseur décale la livraison de la porte du local",
       "topics": [
-        "Retard du chantier",
         "Incertitude réelle",
-        "Priorités"
+        "Crainte d’être mis en cause",
+        "Décision provisoire"
       ],
       "opening": "Eva a entouré le mardi sur son calendrier quand le fournisseur appelle. La porte acoustique ne sera pas livrée cette semaine. L’entreprise annonce qu’elle donnera une nouvelle estimation après un point avec l’atelier. Le seuil a été repris par le service chargé des travaux. L’accès du public attend toujours la fin du chantier et sa validation. Antonin ouvre son cahier à la page de l’ensemble de clarinettes. Le professeur a accepté d’essayer la salle du haut et attend de savoir combien de temps durera l’arrangement.\n\nDans le couloir, un élève joue par morceaux la fin d’une mélodie pendant qu’un autre lui souffle les notes. Antonin finit par reconnaître le morceau de l’ancienne audition. Il voudrait leur demander d’où ils le tiennent. Il garde pourtant son téléphone à la main. Il a commencé un message au fournisseur où il demande la date, l’heure, la durée de la pose et le nom du premier ouvrier qui entrera sur place. Il sait déjà que certaines réponses ne seront disponibles qu’après le point annoncé.\n\nEva veut prévenir le professeur avant le cours du soir. Elle lui demande combien de dates ils peuvent proposer dans les salles en service. Antonin pense à la salle du haut, puis à la direction qui pourrait demander ce qu’il a fait pour accélérer la livraison. Il regarde le calendrier. Le mardi qu’Eva vient d’entourer tient encore. Le suivant lui échappe. Il n’a pas le nom de la personne qui peut autoriser un échange de salle pour ce soir-là.",
       "sections": [
@@ -221,13 +228,13 @@
     {
       "number": 7,
       "slug": "antonin-avis-que-personne-na-donne",
-      "title": "L’avis que personne n’a encore donné",
+      "title": "Chercher à se rassurer après un message de la direction",
       "description": "Antonin revient sur le message envoyé à la direction. Eva peut lui dire ce qu’elle a lu et l’aider à préciser ce qui attend une réponse.",
       "context": "À l’accueil de l’école, après le signalement du retard de la livraison",
       "topics": [
-        "Réassurance",
-        "Incertitude relationnelle",
-        "Limites de l’aide"
+        "Recherche de réassurance",
+        "Crainte d’un reproche",
+        "Interprétation d’un message"
       ],
       "opening": "La direction a répondu au message d’Antonin par « Bien reçu, à reprendre au point de jeudi ». Eva le relit en attendant que la machine termine son café. Elle comprend que l’équipe parlera du retard jeudi. Antonin, lui, voudrait savoir si la formule annonce un reproche. Il avait écrit qu’aucune date de réouverture n’était confirmée. Il a pensé ajouter qu’il avait rappelé le fournisseur deux jours plus tôt, puis a laissé cette précision de côté.\n\nÀ la sortie du premier cours, un élève lui demande où remettre le tabouret que le professeur lui a prêté. Antonin l’aide à lire le numéro au-dessous de l’assise et reconnaît le tabouret qu’il avait repeint l’été précédent. Il s’attarde à lui montrer le placard des sièges, où le troisième rang est enfin assez haut. Quand l’élève repart, il retrouve Eva au comptoir et lui demande de nouveau si le message paraît trop sec. Elle lui a déjà dit comment elle avait compris la réponse.\n\nEva replie le programme de l’atelier de percussions. Il lui reste deux inscriptions à traiter avant le cours. Antonin pose son téléphone de façon à lui montrer le texte entier. Il pourrait demander à une autre collègue ce qu’elle en pense. Il a aussi une question concrète, à propos de la personne qui doit être présente jeudi. Il s’aperçoit qu’il n’a pas encore formulé celle-là.",
       "sections": [
@@ -257,13 +264,13 @@
     {
       "number": 8,
       "slug": "antonin-derniere-partie-du-jeudi",
-      "title": "Le coup que Benoît lui laisse",
+      "title": "Au billard, les soucis du travail suivent encore Antonin",
       "description": "Une fois le relais du soir organisé, Antonin rejoint Benoît au billard. Le chantier lui revient encore au moment de jouer.",
       "context": "Après le point de chantier, le soir d’un tournoi de billard avec Benoît",
       "topics": [
-        "Temps personnel",
-        "Activités choisies",
-        "Appui de l’entourage"
+        "Inquiétudes persistantes",
+        "Plaisir malgré l’inquiétude",
+        "Relais au travail"
       ],
       "opening": "Benoît arrive devant la salle de billard avec deux queues empruntées au club. Il en tend une à Antonin et le prévient que celle-ci est plus lourde que celle dont il a l’habitude. Ils jouent en équipe pour la première fois depuis longtemps. Antonin n’a aucune idée du niveau des deux personnes qui les attendent. Il choisit la queue lourde parce que son frère préfère l’autre et parce qu’il a envie d’essayer un coup qu’il rate depuis l’hiver.\n\nÀ l’école, le point de chantier s’est achevé tard. La direction a fixé la prochaine décision à la réception de la nouvelle date. La personne qui assure la permanence de ce soir a repris la clé et les informations nécessaires. Elle a le numéro du service à prévenir si un incident survient. Avant de partir, Antonin a failli dire à Eva qu’il resterait joignable pour toute question. Elle lui a demandé si quelque chose était encore à transmettre. Il a ajouté le nom du professeur qui passe récupérer un pupitre, puis ils sont partis chacun de leur côté.\n\nDevant la table, il voit encore en pensée la ligne vide sur le calendrier. Il n’a rien promis sur la reprise. Le téléphone reste dans sa poche. Benoît lui demande de regarder les deux billes près de la bande. Antonin repère un angle qu’il aimerait lui montrer. Il met la queue sur le bord de la table et se décale pour laisser son frère voir le trajet.",
       "sections": [
@@ -293,12 +300,12 @@
     {
       "number": 9,
       "slug": "antonin-planning-du-soir",
-      "title": "Les noms à inscrire sur le planning",
+      "title": "Des permanences claires pour pouvoir décrocher le soir",
       "description": "Antonin propose une répartition des permanences qui tienne compte du travail réel. Eva lui indique aussi les soirs qu’elle souhaite garder.",
       "context": "Pendant une réunion d’équipe sur les permanences de l’école",
       "topics": [
-        "Charge de travail",
-        "Permanences",
+        "Inquiétude face aux consignes floues",
+        "Limites au travail",
         "Responsabilités partagées"
       ],
       "opening": "La directrice étale le planning des permanences sur la grande table où les élèves laissent leurs bouteilles d’eau. Elle a ajouté une colonne pour la période qui suivra la réouverture du local. Antonin lit quatre noms puis s’arrête devant la mention « si besoin ». Ces deux mots lui rappellent les soirs où il a gardé la clé dans sa poche au cas où un professeur appellerait. Il a presque toujours trouvé une façon d’aider. Il ne sait plus combien de fois il avait prévu autre chose.\n\nEva, à côté de lui, demande à quelle heure elle pourra prévenir les familles les jours où elle termine tôt. Le mercredi, elle a un cours de poterie qu’elle a déjà manqué deux fois. Antonin avait pensé lui proposer les messages de fin de journée, parce qu’elle a trouvé le créneau des clarinettes. Il voit que cette idée revient à lui donner une disponibilité qu’elle n’a pas proposée. Il veut mettre sur la table ce que la permanence doit couvrir et la façon dont l’école peut transmettre une question quand personne ne peut y répondre sur-le-champ.\n\nLa directrice demande si Antonin a déjà un nom pour le jeudi. Il pense à Benoît, qui a posé la craie de billard près de sa tasse en lui demandant de revenir la semaine suivante. Antonin aimerait savoir à l’avance quand il sera de permanence. Il ouvre son cahier à la page de la dernière réunion et demande si l’équipe peut d’abord définir les tâches de ce créneau.",
@@ -329,13 +336,13 @@
     {
       "number": 10,
       "slug": "antonin-essai-porte-fermee",
-      "title": "Ce qu’on entend porte fermée",
+      "title": "Le chantier avance et les inquiétudes pèsent encore sur les nuits",
       "description": "Le local passe son essai et le médecin revoit le suivi d’Antonin. Une bonne nouvelle au travail ne fait pas disparaître les autres inquiétudes.",
       "context": "À l’essai de la salle après les travaux, puis au rendez-vous de suivi",
       "topics": [
-        "Suivi dans le temps",
-        "Retentissement",
-        "Appui professionnel"
+        "Sommeil perturbé",
+        "Inquiétudes hors du travail",
+        "Suivi dans le temps"
       ],
       "opening": "Le technicien pose son matériel près du local et demande à Antonin de rester dans le couloir. Eva a fait venir le professeur qui connaît la sonorité de la pièce. Il joue un passage, ferme la porte au moment convenu, puis reprend. À travers le mur, Antonin perçoit un bruit sourd, bien différent de ce qu’il entendait avant les travaux. Il s’imagine raconter à Benoît qu’il reconnaît désormais un morceau à ce qui en reste derrière une porte. Le réparateur doit encore le prévenir que son vélo est prêt. Ce matin, il prendra le bus jusqu’au cabinet, comme il l’avait fait pour le billard.\n\nLe technicien indique quand le rapport sera transmis et à qui. Antonin voudrait lui demander s’il peut déjà garantir que le local sera prêt pour la reprise. Il voit Eva noter l’heure du retour dans le cahier. Le professeur a encore une question sur le rangement des étuis. Antonin lui montre le dessin des placards qu’il a fait pour le premier groupe. Il connaît ce qu’il lui reste à préparer, même si la décision de réouverture attend.\n\nAu cabinet, il raconte au médecin l’essai de la porte, le relais qui lui a permis de jouer et les nuits où il s’est encore demandé qui pourrait être mécontent de lui. Depuis leur dernière rencontre, il a pris contact pour un accompagnement psychologique et attend le premier entretien. Il veut savoir ce qu’ils peuvent suivre d’ici là. Il n’a pas envie de présenter le chantier qui avance comme la réponse à toutes les questions du rendez-vous.",
       "sections": [
@@ -365,13 +372,13 @@
     {
       "number": 11,
       "slug": "antonin-repetition-reprend",
-      "title": "Les clarinettes retrouvent la salle",
+      "title": "Le local rouvre : Antonin passe le relais malgré ses inquiétudes",
       "description": "Le local a reçu son autorisation de rouvrir. Antonin accueille l’ensemble de clarinettes et choisit quand passer la clé à la permanence.",
       "context": "Lors de la première répétition dans le local remis en service",
       "topics": [
-        "Reprise d’activité",
-        "Relais au travail",
-        "Inquiétude persistante"
+        "Inquiétudes persistantes",
+        "Doute après avoir délégué",
+        "Limites au travail"
       ],
       "opening": "Le professeur de clarinette tient l’autorisation de reprise que la direction a envoyée. Antonin a attendu cette confirmation pour déplacer l’étiquette sur le tableau. La première musicienne arrive avec un étui carré dont personne n’avait prévu la largeur. Elle essaie de le glisser avec les autres, puis le reprend pour laisser le passage libre. Antonin lui montre un rangement utilisable et note qu’il devra revoir la place des grands étuis. Une autre élève reconnaît la chaise du couloir à son pied en caoutchouc neuf. Elle demande si c’est lui qui l’a réparée.\n\nQuand le groupe commence, Antonin reste près de l’entrée. Il reconnaît le morceau de l’ancienne audition. Cette fois, il entend ce que les élèves laissaient de côté en le jouant dans le couloir. Eva se tient près du cahier avec la collègue qui prend la permanence. Antonin leur indique l’endroit où il a déplacé le rangement provisoire et le contact prévu si le matériel pose un problème. La collègue lui demande de lui montrer le placard des pupitres avant qu’il parte.\n\nIl peut le faire. Il voudrait aussi attendre le dernier musicien et s’assurer qu’aucun étui ne traîne. À ce moment-là, Eva s’en va chercher ses affaires. Elle lui rappelle l’heure qu’il avait annoncée sur le planning. Son vélo est revenu de l’atelier. Il a prévu de rentrer par les rues où il y a le moins de pente, en passant par la place du billard.",
       "sections": [
@@ -401,13 +408,13 @@
     {
       "number": 12,
       "slug": "antonin-venir-comme-auditeur",
-      "title": "Une place au fond de la salle",
+      "title": "Garder une place pour soi le soir de l’audition",
       "description": "L’école prépare une audition. Antonin garde une tâche précise et choisit d’écouter le reste depuis la salle, avec Benoît s’il le souhaite.",
       "context": "Après la réouverture, lors de la préparation d’une audition à l’école de musique",
       "topics": [
-        "Continuité des soins",
-        "Choix de vie",
-        "Limites au travail"
+        "Plaisir partagé avec un proche",
+        "Limites au travail",
+        "Choix du soutien"
       ],
       "opening": "Eva affiche le programme de l’audition à côté de la porte. Le nom du morceau joué par les clarinettes y figure enfin en entier. Elle a laissé un espace pour écrire le nom des élèves qui souhaitent se présenter eux-mêmes. Antonin se penche pour remettre un coin de ruban. Quelques semaines plus tôt, il aurait préparé la salle, accueilli les familles, récupéré les étuis et repris chaque question restée ouverte. Il a envie, cette fois, d’être assis quand les élèves commenceront. Il aime le bruit qui précède la première note, quand chacun cherche encore sa place.\n\nL’équipe lui demande de préparer les sièges avant l’accueil. Eva s’occupe du programme et la permanence a été attribuée. Antonin demande à quel moment les portes ouvriront et qui lui donnera le nombre de personnes attendues. Il a envie de demander aussi si la personne chargée de l’accueil saura où mettre les familles qui arrivent après le premier morceau. Eva lui indique le plan affiché près de l’entrée. Il remarque que sa question suivante concerne déjà ce que quelqu’un pourrait penser de lui s’il reste assis.\n\nDans sa poche, il a le papier avec l’heure du premier entretien psychologique. Il en a parlé au médecin, qui continue à le suivre. Les réveils n’ont pas disparu. Certaines soirées, il a encore l’impression que tout pourrait attendre de lui une réponse. Il choisit d’écrire à Benoît pour lui proposer une place près de la sienne et lui dit qu’il peut aussi préférer leur partie du jeudi.",
       "sections": [

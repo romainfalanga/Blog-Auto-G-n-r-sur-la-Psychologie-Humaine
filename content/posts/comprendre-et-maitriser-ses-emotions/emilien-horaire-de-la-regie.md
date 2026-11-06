@@ -1,5 +1,5 @@
 ---
-title: L’horaire de la régie
+title: Poser ses limites à la régie et choisir ce qu’on dit de sa santé
 description: Pour une nouvelle prestation, Émilien négocie l’horaire et choisit ce
   qu’il souhaite dire de sa santé à l’équipe de la salle.
 slug: emilien-horaire-de-la-regie
@@ -11,9 +11,9 @@ contexte: préparer une prestation professionnelle avec des limites et un choix 
   les informations partagées
 tags:
 - Bipolarité type I
-- Vie professionnelle
+- Limites professionnelles
 - Confidentialité
-- Objectifs de rétablissement
+- Passage de relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

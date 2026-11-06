@@ -1,5 +1,5 @@
 ---
-title: Ce qu’Alice peut promettre
+title: Peur de perdre un lien quand un rendez-vous reste incertain
 description: Mina et Alice parlent de leurs rendez-vous. Elles précisent quand elles
   pourront se prévenir et laissent le prochain dimanche ouvert.
 slug: mina-horaire-alice-limites
@@ -11,9 +11,9 @@ contexte: Au café où les deux cousines se retrouvent
 tags:
 - Profil borderline
 - Trouble borderline
-- Crainte de perdre un lien
-- Disponibilité
-- Limites dans l’entraide
+- Peur de perdre un lien
+- Limites de disponibilité
+- Préserver du temps pour soi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

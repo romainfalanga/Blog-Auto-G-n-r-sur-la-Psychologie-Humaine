@@ -1,5 +1,5 @@
 ---
-title: Un papier sur la porte
+title: Pourquoi on repousse un appel quand un imprévu inquiète
 description: Une fuite ferme la salle de couture. Meriem et Ève doivent décider quoi
   maintenir, alors que Meriem repousse le moment de rappeler.
 slug: meriem-salle-fermee
@@ -12,8 +12,8 @@ tags:
 - TSPT complexe
 - CPTSD
 - Évitement
-- Changement de programme
-- Relais
+- Régulation émotionnelle
+- Demander un relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

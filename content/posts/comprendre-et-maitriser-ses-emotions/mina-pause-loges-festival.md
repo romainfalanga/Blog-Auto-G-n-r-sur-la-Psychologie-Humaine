@@ -1,5 +1,5 @@
 ---
-title: Une pause derrière les caisses
+title: 'Tension après un reproche au travail : Mina prend une pause'
 description: Au festival, un reproche fait monter la tension. Mina demande un court
   relais pour la livraison et choisit de reprendre l’échange plus tard.
 slug: mina-pause-loges-festival
@@ -11,9 +11,9 @@ contexte: Dans la cour des livraisons du festival
 tags:
 - Profil borderline
 - Trouble borderline
-- Émotions intenses
+- Réaction à un reproche public
+- Pause dans un échange tendu
 - Relais au travail
-- Pause choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

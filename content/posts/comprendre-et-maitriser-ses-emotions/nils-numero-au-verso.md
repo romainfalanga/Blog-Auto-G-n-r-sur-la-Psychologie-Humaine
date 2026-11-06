@@ -1,5 +1,5 @@
 ---
-title: Nils garde le numéro au verso
+title: Préparer un appel à l’aide avant que les difficultés reviennent
 description: Avec l’équipe de secteur, Nils précise ce qui l’amènerait à appeler et
   ce qu’Elsa peut savoir. Il garde une copie pour lui.
 slug: nils-numero-au-verso
@@ -10,9 +10,9 @@ sujet: Schizophrénie
 contexte: Le jeudi, au rendez-vous de suivi avec l’équipe de secteur
 tags:
 - Schizophrénie
-- Plan de soins
-- Signes personnels
-- Partage d’informations
+- Demander du soutien
+- Choisir ce qu’on partage
+- Signaux d’alerte personnels
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

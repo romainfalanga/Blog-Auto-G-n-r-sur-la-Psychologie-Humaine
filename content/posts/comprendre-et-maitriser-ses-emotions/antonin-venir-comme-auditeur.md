@@ -1,5 +1,5 @@
 ---
-title: Une place au fond de la salle
+title: Garder une place pour soi le soir de l’audition
 description: L’école prépare une audition. Antonin garde une tâche précise et choisit
   d’écouter le reste depuis la salle, avec Benoît s’il le souhaite.
 slug: antonin-venir-comme-auditeur
@@ -12,9 +12,9 @@ contexte: Après la réouverture, lors de la préparation d’une audition à l�
 tags:
 - TAG
 - Anxiété généralisée
-- Continuité des soins
-- Choix de vie
+- Plaisir partagé avec un proche
 - Limites au travail
+- Choix du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

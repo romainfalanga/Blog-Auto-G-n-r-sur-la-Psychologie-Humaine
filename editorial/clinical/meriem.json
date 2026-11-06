@@ -1,17 +1,17 @@
 {
   "character_id": "meriem",
-  "bio": "Meriem, 43 ans, coanime un atelier de couture avec Ève à la maison de quartier. Avec trois chutes de tissu, elle sait déjà faire une pochette. Avec une table et quelques enveloppes, elle voudrait que les habitués s’échangent des patrons. Elle décide ce qui peut circuler et ce qu’elle préfère garder pour elle, tout en poursuivant un suivi pour un trouble de stress post-traumatique complexe.",
+  "bio": "Meriem sait repérer une erreur sur un patron au premier coup d’œil. Avec Ève, elle anime un atelier de couture à la maison de quartier et voudrait que les habitués puissent s’échanger des modèles. Elle a le geste précis et l’humour sec, même quand elle prend une erreur plus à cœur qu’elle ne voudrait. Une invitation lui fait plaisir et peut aussi l’inquiéter. Tout en poursuivant son suivi pour un stress post-traumatique complexe, elle cherche comment tisser des liens et partager son travail en gardant une part de sa vie pour elle.",
   "episodes": [
     {
       "number": 1,
       "slug": "meriem-trois-chutes",
-      "title": "Il suffit de trois chutes",
+      "title": "Une reviviscence au milieu d’une conversation",
       "description": "Meriem veut lancer un échange de patrons. Quand une question la ramène brutalement ailleurs, elle trouve ce qu’elle veut annoncer au groupe.",
       "context": "Devant le tableau de la maison de quartier",
       "topics": [
-        "Reviviscence",
-        "Rendez-vous prévisibles",
-        "Projet collectif"
+        "Reviviscences",
+        "Régulation émotionnelle",
+        "Repères prévisibles"
       ],
       "opening": "Meriem retourne une pochette sur la table et en fait ressortir les coins avec le bout d’une règle. Le fond vient d’un vieux pantalon, le devant d’un rideau à carreaux. La troisième chute, jaune, fait juste la largeur d’un mètre ruban. Elle a taillé dedans une poche qui dépasse un peu. Ève dit que ça se voit. Meriem répond que c’est l’idée : on trouve le mètre tout de suite.\n\nLes machines sont rangées. Sur le tableau des jeudis, entre le cours de français et le créneau de réparation des vélos, Ève a obtenu de la place pour une annonce. Meriem voudrait que les gens viennent avec les patrons qu’ils ont dessinés eux-mêmes et qu’ils sont d’accord pour transmettre. Elle a l’habitude de montrer comment retourner un coin. Elle ne sait pas encore expliquer, en trois lignes, ce qu’on aura le droit d’emporter.\n\nUne chaise racle le sol derrière elle. Une habituée lui demande si elle doit donner son numéro de téléphone. Meriem entend la question de loin. Pendant quelques secondes, elle attend les mots d’une voix d’autrefois, avec la certitude qu’il faut répondre maintenant et qu’il n’existe aucune bonne réponse. Sa main reste immobile dans la pochette. Quand la salle lui redevient familière, la chaise est vide et l’habituée a reculé pour laisser passer Ève. Personne ne la presse. Meriem pose la règle et indique du doigt la feuille sur la table. Elle se rappelle la phrase qu’elle avait prévue : c’est un échange de patrons, les numéros ne servent à rien.",
       "sections": [
@@ -41,13 +41,13 @@
     {
       "number": 2,
       "slug": "meriem-carre-de-controle",
-      "title": "Le carré fait quatre virgule sept",
+      "title": "Quand une petite erreur déclenche de la honte",
       "description": "Le patron de la pochette est imprimé trop petit. Meriem sait le corriger ; elle peine à croire que le problème se limite à la feuille.",
       "context": "Une première copie à l’atelier",
       "topics": [
-        "Honte",
-        "Rapport à soi",
-        "Réparation concrète"
+        "Honte et autocritique",
+        "Régulation émotionnelle",
+        "Réparer une erreur"
       ],
       "opening": "Chloé a apporté une chute si verte que Meriem l’a reconnue dès l’entrée. C’était la nappe du repas des bénévoles ; un rond pâle marque encore la place d’un plat. Sur la table, elles orientent la pièce de patron pour que le rond devienne un demi-soleil sur le devant de la pochette. Chloé la tient à plat. Meriem mesure le carré imprimé dans la marge. Quatre virgule sept. Elle tourne la règle et mesure dans l’autre sens. Le carré devrait faire cinq centimètres.\n\nElle a tiré dix copies le matin même. Elle sait comment désactiver la mise à l’échelle et réimprimer une seule copie avant de lancer les neuf autres. Pourtant, quand Chloé demande si elle doit déplacer l’épingle, Meriem répond : « Laisse, je fais toujours des trucs inutilisables. » La dernière moitié de la phrase lui sort à voix basse. Chloé retire sa main. Meriem voit le bord du tissu se recourber et croit que Chloé regrette d’être venue. Elle voudrait lui expliquer que les pièces peuvent rester entières, puisque personne n’a coupé. Elle enfile sa veste.\n\nChez elle, deux heures plus tard, elle retrouve le carré dessiné sur le fichier original : cinq centimètres. Elle sait maintenant où chercher du côté de l’imprimante ; l’autre pensée tient toujours. Au moment de se préparer à dîner, elle a toujours l’impression qu’elle n’aurait jamais dû proposer l’échange. Chloé lui envoie la photo de la nappe pliée, le demi-soleil visible au bord. Elle attend de savoir quand apporter le tissu.",
       "sections": [
@@ -77,13 +77,13 @@
     {
       "number": 3,
       "slug": "meriem-vingt-minutes",
-      "title": "Le café avant le bus",
+      "title": "Accepter une invitation quand la proximité inquiète",
       "description": "Après un essai de couture, Chloé invite Meriem à boire un café. Meriem cherche une réponse qui lui permette de garder le lien à son rythme.",
       "context": "En quittant l’atelier du jeudi",
       "topics": [
-        "Proximité",
-        "Choix dans les liens",
-        "Temps partagé"
+        "Confiance dans les relations",
+        "Poser ses limites",
+        "Apprivoiser la proximité"
       ],
       "opening": "Chloé passe son doigt dans la poche jaune. Le mètre ruban disparaît, puis revient quand elle tire sur son bout de métal. Sur la pochette qu’elle vient de finir, le demi-soleil tombe un peu de travers. Meriem lui montre l’autre côté : quand on l’ouvre, le cercle se termine dans la doublure. Chloé rit. Elle décide que c’était prévu et le dit assez fort pour qu’Ève l’entende depuis le placard.\n\nÀ la sortie, Dalila ferme la porte de la maison de quartier derrière elles. Chloé doit prendre le bus de 19 h 20. Elle dit qu’il y a le temps de prendre un café en face, si Meriem veut. Meriem connaît déjà le goût du café dans ces tasses trop épaisses. Elle pense à la petite table près du radiateur et aurait envie de s’y asseoir. Mais à la perspective que Chloé lui parle comme à quelqu’un qu’elle voudrait revoir en dehors de la couture, quelque chose en elle se ferme. Il y a des gens du quartier qu’elle a cessé de saluer depuis le jour où ils lui ont proposé de se voir. Parfois elle traverse encore la place pour éviter leur boulangerie.\n\nChloé ouvre son sac pour ranger sa pochette. Meriem calcule combien de jours elle pourrait attendre avant de venir de nouveau un jeudi. Elle pourrait prétendre qu’elle a du travail, puis ne jamais rappeler. La solution lui paraît familière et la rend triste. Elle sait aussi combien de temps met Chloé pour rejoindre l’arrêt. Il leur reste un peu moins de vingt minutes.",
       "sections": [
@@ -113,13 +113,13 @@
     {
       "number": 4,
       "slug": "meriem-salle-fermee",
-      "title": "Un papier sur la porte",
+      "title": "Pourquoi on repousse un appel quand un imprévu inquiète",
       "description": "Une fuite ferme la salle de couture. Meriem et Ève doivent décider quoi maintenir, alors que Meriem repousse le moment de rappeler.",
       "context": "Un jeudi où la salle habituelle est fermée",
       "topics": [
         "Évitement",
-        "Changement de programme",
-        "Relais"
+        "Régulation émotionnelle",
+        "Demander un relais"
       ],
       "opening": "À midi, la bobine verte est dans le sac de Meriem, entre la règle et un paquet d’enveloppes kraft. Son téléphone vibre pendant qu’elle essaie d’ouvrir une boîte de tomates. Dans le message d’Ève, elle entend : « La salle est fermée. Il faudrait que tu me rappelles. » Une partie d’elle attend une autre voix à la suite. Elle referme le message avant d’avoir entendu la fin et pose le téléphone, écran contre la table.\n\nQuand elle le reprend, elle a laissé passer plus d’une heure. Ève a écrit qu’une fuite a fait fermer la salle et que Dalila a réservé la petite table du hall de 17 h 30 à 18 h. Il faut décider si elles y acceptent les dépôts. Meriem peut lire la proposition à son rythme. Elle voit maintenant qu’Ève s’est tournée vers l’accueil parce qu’elle devait donner une réponse. Quand la salle était fermée pour les travaux de peinture l’année précédente, deux personnes étaient venues quand même. L’une d’elles avait attendu dehors avec un sac lourd. Meriem pense à celle qui demandait si elle devait laisser son numéro : sans numéro, impossible de prévenir tout le monde directement.\n\nElle voudrait reporter le tout et garder ses enveloppes à la maison. Elle voudrait aussi éviter de laisser Ève tenir seule une table improvisée pendant le créneau du hall. Il reste un moyen de venir pour le papier, dans un lieu qu’elle connaît. Les machines resteront derrière la porte fermée. Elle laisse dans le sac la bobine verte et l’enveloppe qu’elle avait préparée pour le patron de Chloé.",
       "sections": [
@@ -149,13 +149,13 @@
     {
       "number": 5,
       "slug": "meriem-colonne-des-nuits",
-      "title": "Les heures au dos du patron",
+      "title": "Dire au médecin ce que la fatigue change au quotidien",
       "description": "Meriem vient voir son médecin pour ses nuits hachées. Elle voudrait que la fatigue soit examinée avec le reste de ce qu’elle vit.",
       "context": "Au cabinet de son médecin",
       "topics": [
-        "Sommeil",
-        "Retentissement",
-        "Évaluation clinique"
+        "Sommeil et fatigue",
+        "Reconnaître ses besoins",
+        "Demander du soutien"
       ],
       "opening": "Dans le cabinet, Meriem pose sur ses genoux une feuille pliée en deux. C’est l’un des patrons trop petits, celui dont le trait rouge traverse le rabat. Au dos, elle a écrit des heures. 2 h 12 : réveillée, sans souvenir de rêve. 4 h 38 : réveillée encore. Jeudi : 5 h 05, impossible de me rendormir. Elle aurait pu prendre du papier blanc. Sur cette feuille, elle savait dans quel sens écrire sans avoir à allumer la lampe du plafond.\n\nElle a failli prendre le bus dans la mauvaise direction en venant. Elle a aussi oublié la bobine verte quand Dalila lui a ouvert le placard. Chloé l’a récupérée et a laissé dans l’enveloppe le patron qu’elle a adapté à la nappe. Rien n’est perdu, mais Meriem a dû demander deux fois quelle heure il était pour être sûre de fermer la salle à l’heure. Elle voudrait comprendre pourquoi des nuits pareilles reviennent alors qu’elle passe parfois de bonnes journées.\n\nSon médecin ouvre le dossier. Il sait déjà que sa thérapeute la suit pour un stress post-traumatique complexe. Meriem a préparé une phrase pour lui demander de regarder le sommeil en particulier. Elle hésite : si elle précise qu’elle a dormi cet après-midi sur le canapé, il pourrait croire qu’elle fait une montagne de deux réveils. Elle se décide à lui montrer toute la feuille. Sous les heures, elle a écrit le nombre de fois où elle a relu la même phrase du règlement de l’atelier. C’est la ligne qu’elle tient le plus à lui faire lire.",
       "sections": [
@@ -185,13 +185,13 @@
     {
       "number": 6,
       "slug": "meriem-trois-lignes-pour-le-bulletin",
-      "title": "Les trois lignes du bulletin",
+      "title": "Choisir ce qu’on raconte de soi en public",
       "description": "Salomé prépare une annonce pour le samedi d’échange. Meriem choisit les mots qu’elle autorise et précise ce que les images pourront montrer.",
       "context": "Avec Salomé, à la table de l’accueil",
       "topics": [
-        "Informations choisies",
-        "Consentement",
-        "Place dans le groupe"
+        "Poser ses limites",
+        "Confiance dans les relations",
+        "Intimité"
       ],
       "opening": "Salomé a apporté le bulletin du mois précédent. Sur la dernière page, un joueur d’échecs explique qu’il a appris à perdre grâce à un enfant de huit ans. Meriem relit la phrase parce qu’elle aimerait connaître le nom de l’enfant. Il n’y est pas. Le joueur donne le créneau du club juste en dessous, en caractères plus petits que le reste. Meriem montre la page à Salomé. Pour elle, le samedi doit se voir d’aussi loin que la photo.\n\nL’inventaire d’Ève indique sept patrons partageables. Il y a une housse de coussin à rabat, un tablier pour enfant et la pochette aux trois chutes. Meriem propose de parler de la poche jaune. Salomé note la date et l’heure, puis demande ce que l’atelier a changé dans sa vie. « Une phrase personnelle, ça donne envie de pousser la porte. » Meriem entend le mot « personnelle » et se met à compter les carrés du carrelage sous la table. Elle pourrait raconter pourquoi elle aime que les rendez-vous soient écrits. Elle sait déjà que le nom de son trouble viendrait ensuite dans la conversation si elle commençait de cette façon.\n\nSalomé garde son stylo en l’air. Meriem a presque envie de donner une anecdote qui justifierait de refuser la vraie. Elle regarde sa pochette. Le tissu à carreaux venait de chez Ève, qui lui avait dit d’en faire ce qu’elle voulait. C’est une bonne histoire de rideau. Il y a aussi une bonne information dans le cahier : les gens pourront venir essayer un patron même s’ils n’en ont pas à déposer.",
       "sections": [
@@ -221,13 +221,13 @@
     {
       "number": 7,
       "slug": "meriem-appareil-dans-le-sac",
-      "title": "L’appareil reste dans le sac",
+      "title": "Quand l’autre insiste après un refus",
       "description": "Rémi est venu pour une photo d’objet. Quand il insiste pour obtenir un récit personnel, Meriem retire son accord pour la rencontre.",
       "context": "À la fin d’un jeudi de couture",
       "topics": [
-        "Refus respecté",
-        "Confiance",
-        "Relais"
+        "Poser ses limites",
+        "Reviviscences",
+        "Passer le relais"
       ],
       "opening": "À 18 h 50, Meriem déplace la boîte de canettes pour faire de la place à la pochette. Elle pose le côté jaune face à la fenêtre. Rémi arrive avec son appareil dans un sac gris. Il connaît l’heure, le nom de Salomé et la règle qu’on lui a envoyée. Il la répète en posant le sac : « Une photo de la pochette, si tu veux. » Meriem lui dit qu’elle voudrait d’abord vérifier le fond. On lit le prénom de Chloé sur une enveloppe derrière la table.\n\nRémi suit son regard et demande si Chloé a une histoire particulière avec l’atelier. Meriem lui répond qu’il peut lui poser une question sur la couture, pas sur la vie des gens. Il dit que c’est surtout d’elle qu’il aimerait parler. Elle répète qu’elle ne fera pas d’entretien. Il tient encore la sangle du sac quand il demande, comme en changeant de sujet : « Mais qu’est-ce qui t’a amenée ici, vraiment ? » Meriem ramène la pochette contre elle. Elle cherche une réponse qui empêcherait la question suivante et reconnaît qu’elle n’a rien de nouveau à lui répondre.\n\nDe l’autre côté de la table, Ève a fini de fermer une boîte. Meriem a chaud jusque dans le cou et la fenêtre lui paraît loin. Elle tient toujours le tissu jaune dans son poing. Elle regarde Ève, puis la porte de l’accueil. Dalila est encore là. Meriem peut lui demander de venir ; elle peut aussi dire à Ève ce qu’elle veut que celle-ci fasse.",
       "sections": [
@@ -257,13 +257,13 @@
     {
       "number": 8,
       "slug": "meriem-enveloppes-en-attente",
-      "title": "Ce jeudi, Ève ouvre seule",
+      "title": "Retrouver sa place après s’être mise en retrait",
       "description": "Une semaine après la visite de Rémi, Meriem manque la préparation. Elle cherche avec Ève une façon de garder sa place dans l’échange.",
       "context": "Chez Meriem, puis au téléphone avec Ève",
       "topics": [
-        "Retour des difficultés",
-        "Rapport à soi",
-        "Répartition des rôles"
+        "Honte et autocritique",
+        "Confiance dans les relations",
+        "Retour des difficultés"
       ],
       "opening": "La pendule de la cuisine retarde de quatre minutes. Quand elle affiche 17 h 27, Meriem sait qu’Ève vient d’ouvrir la salle. Elle avait écrit à midi qu’elle n’y arriverait pas ce jeudi. Depuis, elle a nettoyé la table, défait un coin de la pochette et refait exactement la même couture. Le tissu n’avait pas bougé. Il y a seulement le pli, qui s’efface quand elle le regarde de l’autre côté.\n\nSalomé lui a envoyé l’annonce relue, sans image. Meriem a confirmé qu’elle gardait sa phrase sur le rideau, et le bulletin est parti à l’impression. Dalila a confirmé que Rémi ne participerait pas. Pourtant, chaque fois que Meriem pense à la table, elle se voit faire signe à Ève devant lui. Elle se rappelle la voix qu’elle avait en disant d’arrêter : trop petite, se dit-elle, pour celle qui est censée animer. Il lui semble qu’Ève va finir par lui dire la même chose. Cela lui paraît aussi certain que l’heure de la pendule.\n\nÀ 19 h 10, Ève laisse un message. Elle a sorti deux bacs et reçu trois nouveaux patrons. Elle demande à Meriem si elle veut choisir avec elle où installer la table samedi. Meriem pourrait écrire qu’Ève est libre de mettre la table où elle veut. Pendant un moment, elle compose même une phrase pour proposer qu’Ève présente tout le projet à sa place. Puis elle repense à l’étiquette des bacs. Si l’un d’eux sert aux patrons encore à vérifier, elle sait très bien ce qu’elle voudrait y faire écrire.",
       "sections": [
@@ -293,13 +293,13 @@
     {
       "number": 9,
       "slug": "meriem-rendez-vous-du-mardi",
-      "title": "Le mardi au lieu du jeudi",
+      "title": "Reprendre confiance en décidant du rythme du suivi",
       "description": "Meriem explique à sa thérapeute ce qui lui a coûté après la visite. Elle choisit une première question et un créneau qui lui convient.",
       "context": "En séance avec sa thérapeute",
       "topics": [
-        "Suivi spécialisé",
-        "Confiance",
-        "Choix du rythme"
+        "Confiance dans les relations",
+        "Poser ses limites",
+        "Parler de ce qu’on ressent"
       ],
       "opening": "Le vendredi, Meriem arrive chez sa thérapeute avec le feutre qui servira à écrire « À vérifier ». Elle l’a glissé dans son sac avec le carnet de rendez-vous. Quand elle en retire le capuchon par habitude, elle se rappelle que l’encre traverse le papier. Ce soir, elle pensera à prendre un bout de carton pour faire les étiquettes. Parmi les patrons reçus par Ève, il y a un chapeau auquel il manque la deuxième taille. Son enveloppe sera la première à attendre dans le bac.\n\nElle a préparé deux phrases pour parler de la visite de Rémi. La première raconte que Dalila l’a raccompagné. La deuxième commence par « le lendemain ». Elle voudrait parler du temps qu’elle a passé à se reprocher d’avoir demandé de l’aide. La thérapeute lui demande par quoi elle souhaite commencer. Meriem ouvre son carnet, où elle a noté la première phrase en entier. Elle la laisse sous son pouce. « Je veux bien vous dire comment ça s’est terminé. Je veux surtout parler de ce que j’ai fait les jours d’après. »\n\nLa thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu’elle a renoncé à l’atelier jeudi alors que Rémi n’y serait pas, et qu’elle a presque renoncé aussi à présenter le projet. Quand elle a fini, elle demande si elles peuvent prendre le temps de discuter de la façon dont elles travaillent ensemble. Les rendez-vous s’achèvent souvent juste avant qu’elle doive ouvrir la salle. Il lui arrive de partir sans poser la question qu’elle avait gardée pour la fin.",
       "sections": [
@@ -329,13 +329,13 @@
     {
       "number": 10,
       "slug": "meriem-marge-comprise",
-      "title": "La marge est comprise",
+      "title": "Revenir à la conversation quand une émotion déborde",
       "description": "Le premier échange ouvre. Une question sur la marge de couture bouscule Meriem ; elle choisit de garder sa place en changeant le mode d’emploi.",
       "context": "Le samedi de l’ouverture",
       "topics": [
         "Régulation émotionnelle",
-        "Travail partagé",
-        "Réparation concrète"
+        "Honte et autocritique",
+        "Demander un relais"
       ],
       "opening": "À 10 h 12, il ne reste qu’une pochette modèle sur la table. L’autre, au demi-soleil vert, est passée entre cinq mains et Chloé a dû la réclamer pour montrer comment elle rentrait dans son sac. Une femme prend une feuille sans rien déposer. Ève lui confirme que c’est possible. La femme repart chercher sa fille, qui sait tracer des cercles mieux qu’elle.\n\nJoël, venu avec le patron du chapeau, approche sa chaise. Il a apporté la deuxième taille dans une chemise bleue. Pendant qu’Ève vérifie les deux feuilles, il prend la copie de la pochette aux trois chutes. « Tu as mis la marge de couture ? » Meriem a entendu « tu as oublié » avant même d’avoir vu le doigt de Joël sur la ligne. Elle lui répond que tout est écrit. Puis elle suit son doigt et voit qu’il n’y a, à cet endroit, qu’un trait interrompu. La mention se trouve sur le rabat, dessiné au verso. Personne n’a encore regardé de ce côté.\n\nLa chaleur qui lui est montée au visage reste là. Elle voudrait se lever, et aussi lui demander pourquoi il ne retourne pas la feuille. Elle voit qu’il retourne déjà la feuille de lui-même. De l’autre côté de la table, la femme revient avec sa fille. Il leur faudra la même indication. Meriem cherche son feutre, le trouve à côté du bac et le laisse une seconde sur la table. Elle pourrait demander à Ève de prendre les deux prochaines arrivées, le temps de réécrire une ligne.",
       "sections": [
@@ -365,13 +365,13 @@
     {
       "number": 11,
       "slug": "meriem-chemise-bleue",
-      "title": "Ce qui sort de la chemise bleue",
+      "title": "Réparer un lien quand un accord n’a pas été respecté",
       "description": "Une photo du patron de Joël circule dans une famille. Meriem lui parle de ce qui s’est passé et met en place une règle visible sur les copies.",
       "context": "Au jeudi qui suit le premier échange",
       "topics": [
-        "Circulation des informations",
-        "Confiance",
-        "Réparation concrète"
+        "Confiance dans les relations",
+        "Poser ses limites",
+        "Réparation du lien"
       ],
       "opening": "Lila revient avec sa mère et un chapeau en toile à fleurs. Une moitié du bord rebique. Elle demande si le petit trait au crayon signifie qu’il faut plier. Meriem se rapproche pour voir le trait. Lila ouvre son téléphone et agrandit la photo qu’elle a prise du patron, parce que sa feuille est restée chez elle. En haut de l’image, Meriem reconnaît la ligne de Joël pour le tour de tête. Tout le dessin est lisible.\n\nLila raconte que sa tante lui a expliqué comment faire le bord dans la conversation de famille où elle avait mis la photo. Elle montre même la réponse, une flèche tracée en rose sur l’image. Elle ne comprend pas tout de suite pourquoi Meriem lui demande si la photo a été envoyée à d’autres personnes. Sa mère répond qu’elles pensaient pouvoir la partager, puisqu’Ève les avait laissées emporter une copie. Meriem ouvre la chemise bleue et y retrouve l’accord de Joël. La mention est sur le rabat de la chemise. Il n’y en a aucune sur la feuille que les gens ont prise.\n\nMeriem se voit déjà lui annoncer que leur échange n’aura pas de deuxième samedi. Elle pense aussi à attendre qu’il découvre la photo lui-même. Sa main hésite au-dessus du bac. Puis elle tire les copies du chapeau, demande à Lila de mettre le téléphone de côté un instant et pose les feuilles près d’Ève. Elle a le numéro que Joël lui a donné pour le prévenir au sujet des deux tailles. Elle a besoin de décider avec Ève ce qu’elles vont lui dire.",
       "sections": [
@@ -401,13 +401,13 @@
     {
       "number": 12,
       "slug": "meriem-un-nom-et-une-date",
-      "title": "Un nom et une prochaine date",
+      "title": "Partager ce qu’on a créé en gardant son intimité",
       "description": "L’échange revient. Meriem choisit de signer le patron de la pochette et réserve un moment pour coudre avec Chloé après l’accueil.",
       "context": "Le deuxième samedi d’échange",
       "topics": [
-        "Confiance",
-        "Soutien dans la durée",
-        "Projet collectif"
+        "Confiance dans les relations",
+        "Poser ses limites",
+        "Trouver sa place"
       ],
       "opening": "Avant de sortir les bacs, Meriem mesure le carré sur une feuille neuve. Cinq centimètres. Le mot « marge » se trouve au recto, près du trait. En bas, elle a écrit « Meriem », à la main sur l’original, puis elle a fait les copies. Sur la ligne suivante, elle a indiqué qu’on peut transmettre une copie de ce patron en gardant la feuille entière. Elle a passé plus de temps à décider si elle mettait son prénom qu’à tracer la poche. Elle aime voir qui a dessiné une pièce. Ce matin, elle a envie qu’on puisse le lui demander.\n\nJoël a relu l’épreuve jeudi. Il a remis les deux tailles dans le bac avec une mention différente : une copie pour coudre chez soi ; si quelqu’un d’autre en veut une, il peut en chercher à la table. Meriem lui avait demandé si le nom devait figurer en bas. Il a gardé ses initiales. Ils ont mesuré ensemble le tour des deux chapeaux dessinés. Depuis ce matin, les copies de Joël et celles de Meriem sont côte à côte.\n\nAu moment où Dalila ouvre les portes, une chaise racle le sol. Meriem lâche le bord de la table. Sa main tremble encore quand Ève lui tend le feutre. Elle montre la liste des heures et indique qu’elle prendra l’accueil jusqu’à onze heures, comme convenu. Chloé arrive avec la nappe pliée. Il en reste de quoi faire deux poches. Meriem lui demande de lui garder un coin et lui montre la petite table où elles pourront s’asseoir à onze heures.",
       "sections": [
@@ -434,5 +434,12 @@
         "next": "L’échange a sa prochaine date et son organisation ; Meriem poursuit ses rendez-vous de soin et garde la main sur ce qu’elle y aborde."
       }
     }
+  ],
+  "profile_topics": [
+    "Reviviscences",
+    "Honte et autocritique",
+    "Confiance dans les relations",
+    "Poser ses limites",
+    "Régulation émotionnelle"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: Trois échéances ajoutées depuis lundi
+title: 'Énergie inhabituelle : Garance s’engage trop vite au travail'
 description: Garance a accepté plusieurs délais après des nuits bien plus courtes
   que d’habitude. Elle relit ses engagements et contacte son cabinet.
 slug: garance-changements-appeler-suivi
@@ -10,9 +10,9 @@ sujet: Trouble bipolaire de type II
 contexte: À son bureau de correctrice, quelques jours plus tard
 tags:
 - Bipolarité type II
-- Changements par rapport aux habitudes
-- Sommeil et activité
-- Contact professionnel anticipé
+- Énergie et sommeil
+- Engagements pris trop vite
+- Changements durables des habitudes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

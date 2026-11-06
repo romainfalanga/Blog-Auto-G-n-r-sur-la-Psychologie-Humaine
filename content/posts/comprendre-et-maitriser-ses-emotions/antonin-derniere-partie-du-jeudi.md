@@ -1,5 +1,5 @@
 ---
-title: Le coup que Benoît lui laisse
+title: Au billard, les soucis du travail suivent encore Antonin
 description: Une fois le relais du soir organisé, Antonin rejoint Benoît au billard.
   Le chantier lui revient encore au moment de jouer.
 slug: antonin-derniere-partie-du-jeudi
@@ -11,9 +11,9 @@ contexte: Après le point de chantier, le soir d’un tournoi de billard avec Be
 tags:
 - TAG
 - Anxiété généralisée
-- Temps personnel
-- Activités choisies
-- Appui de l’entourage
+- Inquiétudes persistantes
+- Plaisir malgré l’inquiétude
+- Relais au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

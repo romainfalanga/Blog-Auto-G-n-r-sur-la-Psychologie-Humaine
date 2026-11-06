@@ -1,0 +1,30 @@
+{
+  "references": {
+    "has-tsla": {
+      "title": "Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages",
+      "url": "https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante"
+    },
+    "apprentissage-handicap": {
+      "title": "La bonne alternance — Apprentissage et handicap : les aménagements de la formation",
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/guide/apprentissage-et-handicap"
+    },
+    "service-public-allergenes": {
+      "title": "Entreprendre Service Public — Information sur les allergènes des produits alimentaires",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F32192"
+    }
+  },
+  "dossier": {
+    "name": "Trouble développemental des apprentissages avec déficit en lecture",
+    "aliases": ["Dyslexie", "Trouble développemental de la lecture"],
+    "references": ["oms-cddr", "has-tsla", "apprentissage-handicap", "service-public-allergenes"],
+    "points": [
+      "Le CDDR de la CIM-11, p. 134–138, distingue en 6A03.0 la lecture exacte des mots, la fluence et la compréhension écrite. L’atteinte peut concerner une ou plusieurs de ces dimensions. Lire juste mais lentement, comprendre un texte après un effort ou accéder plus facilement à son contenu entendu décrivent des expériences possibles. La lecture à voix haute ne permet pas d’inférer l’intelligence de la personne ni sa compréhension dans tous les formats.",
+      "Le diagnostic repose sur des difficultés importantes et persistantes malgré des occasions adéquates d’apprendre et sur leur retentissement. Le professionnel tient compte de l’histoire, de l’évaluation et des autres explications possibles. Une erreur isolée, le manque d’entraînement, un texte mal présenté ou une seule épreuve ne suffisent pas à conclure. Chez Célian, le bilan et le diagnostic précèdent le récit.",
+      "L’effort supplémentaire peut rester invisible si le résultat est exact. La complexité du document, le temps disponible et les appuis changent la gêne en situation réelle. La HAS décrit aussi la fatigabilité dans les troubles des apprentissages chez l’enfant ; l’arc montre la fatigue éprouvée par Célian sans faire de cette expérience un critère diagnostique ni lui attribuer toute fatigue. Les difficultés peuvent persister à l’âge adulte, sous des formes et avec un retentissement variables.",
+      "Le guide de la HAS, centré sur l’enfant, distingue l’évaluation orthophonique du langage écrit, une rééducation si elle est indiquée et les adaptations pédagogiques. Le suivi tient compte du retentissement, des ressources et des objectifs de la personne. Le retour de Célian chez l’orthophoniste sert à discuter de ses besoins actuels avec elle ; il ne propose aucun programme type à appliquer aux adultes. Une aide d’accès n’est pas un traitement et son utilité dans un contexte ne garantit pas son utilité ailleurs.",
+      "Les besoins en centre de formation d’apprentis peuvent se discuter avec la formatrice et, si besoin, le référent handicap du CFA. Le guide public sur l’apprentissage décrit des aménagements individualisés, notamment pédagogiques ou techniques. Dans la fiction, Célian choisit d’essayer des consignes disponibles à l’avance, des étapes distinctes et une démonstration ou un enregistrement quand ils conviennent à la tâche. Il décide aussi quelles informations personnelles transmettre. Aucun aménagement d’examen ni droit automatique n’est promis.",
+      "La fiche d’Entreprendre Service Public sert de référence pour l’information des professionnels sur les allergènes. Le goûter est une rencontre associative entre équipes, pas une situation où le récit transpose les obligations du commerce. Célian conserve les étiquettes et liste les ingrédients effectivement utilisés, écarte ce qu’il ne peut pas documenter et ne garantit jamais qu’un aliment convient à une personne allergique. Un audio ou un résumé personnel ne remplace pas un document de référence pour une information à vérifier."
+    ]
+  },
+  "direction": "Célian a 19 ans. Apprenti en cuisine et joueur de volley, il écoute volontiers une consigne, se rappelle bien les gestes et aime comprendre pourquoi un détail change le résultat. Son humour porte sur les habitudes de son équipe et le métier. Il veut organiser le premier goûter qu’il pilote après une rencontre avec une autre équipe. Jade coordonne la réservation et le groupe, Léonie fabrique les panneaux et tient la table avec lui, Yanis s’occupe des gobelets et du transport. Aïcha, sa formatrice au CFA, peut modifier les supports et préciser l’objet du travail. Maxime, son pair d’apprentissage, participe au premier essai et ne prend pas la responsabilité du goûter. Farah est la tutrice au restaurant. Mme Vidal, l’orthophoniste qui a établi son bilan, le revoit pour les difficultés rencontrées en apprentissage. Faire avancer le goûter par des choix de goût, de budget, de lieu et de partage des rôles. Montrer les bénéfices et les limites d’un format audio, la fatigue peu visible et les liens variables entre précision, lenteur et sens. Ne pas mimer la lecture avec des lettres qui bougent, attribuer à la dyslexie ses qualités ni lui imposer de révéler son diagnostic. Le goûter se tient et Célian reprend sa place sur le terrain ; le travail sur l’accès aux documents continue."
+}

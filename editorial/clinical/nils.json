@@ -1,17 +1,17 @@
 {
   "character_id": "nils",
-  "bio": "Nils, 38 ans, travaille à temps partiel dans une pépinière et enregistre des annonces pour la radio du quartier. Il vit avec une schizophrénie déjà diagnostiquée. Avec Maud, il prépare une chronique sur le jardinage. Sa sœur Elsa et l’équipe de secteur connaissent les appuis qu’il souhaite garder à portée de main.",
+  "bio": "À la pépinière, Nils sait reconnaître le moment où un plant a besoin d’eau. Il aimerait répondre aux questions des clients à la radio du quartier, où il enregistre déjà des annonces. Le bruit et les consignes qui se croisent lui font parfois perdre le fil. Il apprécie les gens qui lui laissent le temps de reprendre, et tient à choisir ce qu’il raconte de sa vie. Avec sa sœur Elsa et son équipe de secteur, il cherche des appuis pour garder cette liberté avec la schizophrénie.",
   "episodes": [
     {
       "number": 1,
       "slug": "nils-deux-lignes-sur-la-fiche",
-      "title": "Nils inscrit une question sous les basilics",
+      "title": "Perdre le fil quand le bruit monte",
       "description": "À la pépinière, une question de cliente donne à Nils une idée de chronique. Il demande à Maud un essai hors antenne.",
       "context": "Un lundi matin, au rayon des aromatiques de la pépinière",
       "topics": [
-        "Schizophrénie",
-        "Attention",
-        "Radio de quartier"
+        "Attention et bruit",
+        "Reprendre sa place",
+        "Préparer un essai"
       ],
       "opening": "La cliente a pris le basilic qui penche le plus. Elle le redresse du bout du doigt, comme si elle essayait un chapeau à un enfant. Elle voudrait savoir combien de fois par semaine l’arroser. Nils retourne le pot pour voir si l’eau peut s’en écouler. Il pose une question sur le balcon, mais le chariot du livreur passe derrière eux. Quand la cliente reprend sa phrase, Nils a perdu le début. Il aperçoit sur le comptoir la fiche qu’Aïcha lui a laissée pour le comptage du rayon. En dessous du chiffre, il écrit « balcon ». Il demande à la cliente de reprendre à partir de là. Elle lui dit qu’elle a du soleil après le déjeuner, en ajoutant que son ancien basilic était mort avant le premier pesto.\n\nMaud arrive avec un enregistreur enveloppé dans une chaussette de sport. Elle veut capter le bruit de l’arrosoir pour annoncer la nouvelle émission de jardinage de la radio du quartier. Depuis six mois, Nils y lit des horaires de collecte et des annonces de tournois. Cette fois, elle lui demande aussi s’il aurait quelque chose à raconter sur les plantes. Elle a une minute à lui faire essayer, sans promesse de diffusion.\n\nNils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait raconter ce qui l’intéresse dans la question de la cliente : le temps qu’il faut pour regarder un pot avant de répondre. Mais Maud parle déjà du bruit de l’arrosoir, et Aïcha lui demande si le comptage est fini. Il recouvre la fiche de sa main. « Une chose à la fois. Je donne le chiffre à Aïcha et on s’assoit deux minutes dehors ? »",
       "sections": [
@@ -42,13 +42,13 @@
     {
       "number": 2,
       "slug": "nils-entre-deux-prises",
-      "title": "Nils pose le casque entre deux prises",
+      "title": "Quand Nils entend son prénom sans savoir d’où il vient",
       "description": "Pendant l’essai, Nils croit entendre son prénom. Il arrête la prise et convient avec Maud d’un geste qui lui laisse le choix de reprendre.",
       "context": "Le mardi suivant, au studio de la radio du quartier",
       "topics": [
-        "Perception inhabituelle",
-        "Pause",
-        "Confidentialité"
+        "Doutes sur ses perceptions",
+        "Attention et bruit",
+        "Demander une pause"
       ],
       "opening": "Le voyant est éteint. Maud a expliqué que sa voix ira dans un fichier sur l’ordinateur et que rien ne passe à l’antenne. Nils a pourtant mis son plus beau pull, celui qui gratte au cou même quand on retrousse le col. Il déplie son papier sous le micro. Au premier essai, il se présente deux fois. Maud lève un doigt derrière la vitre pour lui dire de poursuivre. Au second, il réussit à poser la question de la cliente sans la transformer en slogan.\n\nC’est au moment où il cherche sa phrase suivante qu’il croit entendre « Nils », tout près. Il enlève le casque, le garde à hauteur d’épaule, attend. Maud a les yeux baissés sur la console. Il connaît ces moments où il ne parvient pas à situer ce qu’il vient d’entendre. Celui-ci lui laisse la nuque raide. Quand Maud se penche vers le bouton pour lui parler, il lève la paume. Elle attend qu’il sorte dans le couloir.\n\n« J’ai cru que quelqu’un m’appelait. Ça m’a remué. » Maud lui dit qu’elle n’a pas parlé et lui demande s’il veut rentrer chez lui. Il secoue la tête. Il voudrait s’asseoir une minute dehors avec le papier et reprendre, peut-être. Il ne veut pas expliquer son dossier dans l’escalier. Maud désigne la chaise près du radiateur, où elle pose d’habitude les câbles à réparer. Elle retire les câbles. Quand Nils s’assied, il aperçoit à travers la vitre son pull qui a laissé une fibre sur le siège du studio. L’enregistrement peut rester là lui aussi quelques minutes.",
       "sections": [
@@ -79,13 +79,13 @@
     {
       "number": 3,
       "slug": "nils-numero-au-verso",
-      "title": "Nils garde le numéro au verso",
+      "title": "Préparer un appel à l’aide avant que les difficultés reviennent",
       "description": "Avec l’équipe de secteur, Nils précise ce qui l’amènerait à appeler et ce qu’Elsa peut savoir. Il garde une copie pour lui.",
       "context": "Le jeudi, au rendez-vous de suivi avec l’équipe de secteur",
       "topics": [
-        "Plan de soins",
-        "Signes personnels",
-        "Partage d’informations"
+        "Demander du soutien",
+        "Choisir ce qu’on partage",
+        "Signaux d’alerte personnels"
       ],
       "opening": "L’infirmière demande si Nils veut qu’Elsa entre tout de suite. Il la voit à travers la porte vitrée, son casque de vélo serré entre les genoux. Il préfère commencer seul. À la radio, il lui arrive de recommencer une annonce parce que sa bouche a sauté une syllabe. Mardi, le son qui ressemblait à son prénom lui a paru différent. C’est la phrase qu’il essaie d’expliquer. L’infirmière lui demande ce qui s’est passé ensuite et comment il a dormi les jours d’avant. Il est rentré avec sa prise dans le téléphone, a fait à manger et a dormi comme d’habitude. Il se rappelle aussi une autre période, plus ancienne, où il se réveillait longtemps avant le jour et où les voix qu’il entendait prenaient beaucoup plus de place.\n\nIl veut une réponse pour la prochaine fois qu’il remarquera un changement sans savoir encore quoi en penser. L’infirmière ouvre le plan de soins déjà rédigé ensemble. Ils relisent le passage sur les premiers signes et les numéros à utiliser. Nils lui demande d’écrire d’abord ce qu’il peut faire lui-même. Le brouillon précédent commençait par le prénom d’Elsa. Il aimerait que sa sœur entre maintenant, juste pour parler de la suite.\n\nElsa s’installe sans enlever son sac. « Quand tu m’écris que tu dors mal, est-ce que je dois t’appeler ? » Nils pense au train très matinal qu’elle prend certains vendredis. Elle aussi dort parfois mal et lui envoie des photos de ses tartines à cinq heures. Il lui répond qu’il lui dira s’il veut parler. Il aimerait lui laisser de quoi l’aider s’il le demande, et elle peut lui dire à quelles heures c’est possible.",
       "sections": [
@@ -116,12 +116,12 @@
     {
       "number": 4,
       "slug": "nils-ordre-des-bacs",
-      "title": "Nils demande dans quel ordre déplacer les bacs",
+      "title": "Retrouver le fil quand deux consignes se croisent",
       "description": "Des étiquettes se décollent et deux consignes se croisent. Nils et Aïcha font une liste commune avant d’ouvrir le rayon.",
       "context": "Le lundi suivant, à la livraison du matin",
       "topics": [
-        "Attention",
-        "Travail en pépinière",
+        "Attention et bruit",
+        "Surcharge cognitive",
         "Consignes écrites"
       ],
       "opening": "Aïcha a mis les étiquettes à sécher sur une caisse. L’une a gardé sa colle et s’est fixée au coin de sa manche. Nils sourit en voyant « LOT 14 » lui remonter le long du bras. Ils ont trente minutes avant l’ouverture pour remettre les aromatiques à leur place. Aïcha lui demande de recompter deux bacs, puis lui annonce depuis l’allée que le lot de gauche part au rayon. Au même moment, Matthieu, qui organise les livraisons, l’appelle pour qu’il dégage le passage. Nils pousse le premier bac vers la porte et se retrouve avec le chariot au milieu de l’allée. Il ne sait plus lequel des bacs devait sortir.\n\nIl pourrait continuer et espérer reconnaître le lot une fois dehors. Il regarde les deux tiges qui dépassent et revient chercher le bon de livraison. « Il me faut l’ordre, pas deux ordres. » Aïcha ouvre la bouche pour lui redire toute la suite. En le voyant saisir un carton pour écrire, elle s’arrête sur le premier geste : laisser l’allée libre. Nils note « recul chariot », puis « bon et bacs ».\n\nAïcha ajoute un trait à côté du deuxième point. Elle voulait indiquer le bac qu’elle avait compté. Nils croit qu’elle a rayé la tâche. Quand ils comprennent le malentendu, Aïcha retourne le carton. Ils mettent leurs initiales à côté de ce que chacun vient de finir. Ils vérifient les numéros encore imprimés sur les bacs avec ceux du bon. Le carton n’offre plus assez de place pour noter les lots un par un. Matthieu leur rapporte une feuille et une planchette dont la pince retient les coins.",
@@ -153,13 +153,13 @@
     {
       "number": 5,
       "slug": "nils-une-ligne-sur-laffiche",
-      "title": "Nils corrige la ligne sous son prénom",
+      "title": "Choisir ce qu’on dit de soi devant les autres",
       "description": "Le brouillon de l’affiche raconte une histoire que Nils n’a pas proposée. Il ramène la discussion au jardinage et au texte qu’il approuve.",
       "context": "Le mercredi, autour de l’affiche de la nouvelle émission",
       "topics": [
-        "Confidentialité",
+        "Choisir ce qu’on partage",
         "Stigmatisation",
-        "Présentation à la radio"
+        "Affirmation de soi"
       ],
       "opening": "Sur l’écran, il y a trois tomates détourées et, sous « Les mains dans la terre », une phrase qui n’était pas dans le message de Maud : « La radio donne le micro à ceux qui se reconstruisent. » Jo, qui coordonne les émissions du samedi, l’a ajoutée pour donner un fil à l’affiche. Elle n’est pas encore sortie. Nils lit deux fois le mot « reconstruisent ». Il ne sait pas ce que Jo avait en tête. Il voit déjà les questions qui pourraient arriver quand il donnerait son prénom dans le micro.\n\nMaud dit qu’ils peuvent laisser sa présentation vide s’il veut rester discret. C’est une proposition qu’elle fait vite, en tirant une chaise pour lui. Nils s’assied, regarde la case vide qu’elle a déjà ouverte et demande à garder son prénom. « Je veux qu’on sache qui fait la chronique. Je veux qu’on sache aussi de quoi elle parle. » Jo lâche la souris. Il explique qu’il avait écrit sa phrase pour parler des gens qui reprennent une activité dans le quartier. Nils lui demande si les trois tomates ne suffisent pas à donner le sujet.\n\nMaud reprend la maquette avec eux. Elle supprime la phrase, puis attend. Nils dicte une ligne avec son prénom, le nom de l’émission et sa question d’arrosage. Il ajoute que, si on lui propose une interview, il parlera du jardinage. Jo lit la nouvelle ligne à voix haute. Dans « comment savoir enfin quand arroser », Nils lui fait enlever le « enfin ». Il veut pouvoir annoncer une question simple sans sous-entendre que les auditeurs auraient dû y répondre tout seuls.",
       "sections": [
@@ -190,13 +190,13 @@
     {
       "number": 6,
       "slug": "nils-appel-avant-la-repetition",
-      "title": "Nils appelle avant d’entrer au studio",
+      "title": "Repérer un changement et appeler avant d’en être sûr",
       "description": "Après deux mauvaises nuits et des impressions plus insistantes, Nils appelle l’équipe de secteur. Il choisit de reporter la répétition.",
       "context": "Le vendredi, entre la fin du travail et la répétition prévue",
       "topics": [
-        "Changement inhabituel",
-        "Sommeil",
-        "Contact avec les soins"
+        "Doutes sur ses perceptions",
+        "Signaux d’alerte personnels",
+        "Demander du soutien"
       ],
       "opening": "Nils a promis de passer à la radio après le travail. Il a acheté deux croissants au supermarché parce que Maud n’a jamais rien à manger dans le studio, à part des pastilles pour la gorge. À la caisse, quelqu’un dit « c’est à vous » et il éprouve une certitude désagréable : il a l’impression qu’il y a dans ces mots quelque chose que lui seul est censé comprendre. Il paie et sort avec le sac ouvert. Une fois sur le trottoir, il retrouve l’autre moment de la veille, à l’arrêt du bus, quand une phrase banale lui a semblé le viser. L’impression ne passe pas aussi vite que mardi au studio.\n\nCela fait deux nuits qu’il se réveille très tôt et n’arrive plus à retrouver son sommeil. Au travail, il a terminé les commandes, mais il a fallu qu’Aïcha lui redise la dernière ligne et il a repris le même bon trois fois. Il pense au couloir de la radio. Il peut encore lever la paume et sortir d’une prise. Ce matin, il voudrait surtout savoir quoi faire de ces changements qui ont commencé avant d’arriver là.\n\nIl ouvre la photo du verso. Le service est encore joignable. Il choisit le banc à l’écart, où personne ne passe juste derrière son épaule. Quand le téléphone décroche, il donne son nom et dit qu’il appelle à propos de ce dont ils ont parlé jeudi. La personne lui demande s’il peut attendre quelques minutes pour qu’une soignante le rappelle. Il confirme son numéro et referme le sac aux croissants.",
       "sections": [
@@ -227,13 +227,13 @@
     {
       "number": 7,
       "slug": "nils-vingt-minutes-chez-elsa",
-      "title": "Nils demande à Elsa de rester à table",
+      "title": "Demander une présence sans rendre l’autre responsable",
       "description": "Elsa voudrait savoir si elle doit rester joignable toute la nuit. Nils lui dit ce qu’il est venu chercher pour ce soir.",
       "context": "Le vendredi soir, dans la cuisine d’Elsa",
       "topics": [
-        "Soutien d’un proche",
-        "Limites",
-        "Plan de soins"
+        "Demander du soutien",
+        "Limites des proches",
+        "Écoute sans surveillance"
       ],
       "opening": "Elsa coupe le croissant en deux sur une assiette à soupe parce que les assiettes plates sont dans le lave-vaisselle. Elle a mis un minuteur pour ne pas manquer la fermeture du magasin. Il reste vingt minutes et trois pots de confiture ouverts. Nils prend celui au fond duquel la cuillère ne tient plus debout. Il s’est promis de ne pas commencer la soirée par une explication de la caisse. À peine est-il assis qu’Elsa lui demande si quelqu’un lui a dit de dormir chez elle. Il n’a jamais parlé de dormir chez elle. Il voulait s’asseoir à cette table, où le pied boiteux fait remuer les tasses quand on s’appuie du coude.\n\nElsa se redresse. Elle peut laisser le téléphone allumé cette nuit, dit-elle. Demain, elle va aider à vider le garage d’une amie et n’est pas sûre de pouvoir décrocher. Elle a relu leur feuille et ne sait pas si le fait qu’il l’ait prévenue signifie qu’il l’invite à prendre la suite. Nils pose le couteau. « Je te l’ai dit pour que tu saches que j’ai un rendez-vous. Si je veux que tu m’aides à appeler, je te le demanderai. » Elsa attend. Il ajoute qu’il aurait aimé qu’elle lui demande d’abord ce qu’il voulait pour ce soir.\n\nLe minuteur a encore quinze minutes. Elsa lui demande si elle peut préparer du thé. Nils dit qu’il préférerait qu’elle reste assise deux minutes de plus. Elle lui pousse le pot de confiture et lui dit que, dans ce cas, il peut bien racler l’abricot. Il lui demande ensuite ce que son amie compte faire du vieux vélo qu’il avait essayé de lui racheter.",
       "sections": [
@@ -264,13 +264,13 @@
     {
       "number": 8,
       "slug": "nils-repere-au-crayon",
-      "title": "Nils choisit le mot qui le ramène à sa phrase",
+      "title": "Reprendre la parole quand les indications s’accumulent",
       "description": "De retour au studio, Nils perd sa phrase lorsque deux indications arrivent ensemble. Il modifie la répétition avec Maud.",
       "context": "Le mercredi suivant, au studio, après les annonces habituelles",
       "topics": [
-        "Attention",
-        "Retour en studio",
-        "Format de chronique"
+        "Reprendre sa place",
+        "Attention et bruit",
+        "Surcharge cognitive"
       ],
       "opening": "Il reste à l’écran la liste des trois annonces que Nils vient de lire. À la fin de celle du vide-grenier, il a dit « dimanche prochain » au lieu de la date ; Maud lui a fait reprendre la phrase. Maud ouvre la maquette qu’elle a montée vendredi. À force de l’emporter, Nils a donné au papier des basilics la forme de la poche de son pantalon. Il le déplie sur la console. Lundi, il a revu l’équipe. Le sommeil a commencé à reprendre son rythme et les impressions qui l’avaient inquiété se sont faites moins insistantes. Il est convenu d’en reparler en suivi et sait comment appeler si ça change. Aujourd’hui il a rendez-vous ici avec une phrase qu’il trouve trop longue.\n\nMaud lance la maquette. Son montage garde le froissement de papier, puis coupe un mot que Nils voulait conserver. Il demande à le remettre. Elle montre sur l’écran l’endroit où elle peut faire la correction et lui propose d’essayer la chronique avec une question en direct. Au moment où il commence, elle lui donne deux indications : parler plus près et raccourcir sa deuxième réponse. Il se penche, mais c’est la question précédente qui lui revient. « On reprend où ? » Ils s’aperçoivent qu’ils ne pensaient pas à la même réponse.\n\nNils trace une boîte autour du mot « terre » au milieu de la fiche. Si Maud lui redonne la question, il peut reprendre au mot encadré. Elle pourrait lui indiquer la distance au micro avant qu’ils lancent la prise. Il se recule juste assez pour que le bord de la table n’appuie plus sur son pull.",
       "sections": [
@@ -301,13 +301,13 @@
     {
       "number": 9,
       "slug": "nils-la-permanence-du-vendredi",
-      "title": "Nils regarde les horaires avec Matthieu",
+      "title": "Poser des limites au travail sans renoncer à son projet",
       "description": "La permanence de Renée tombe pendant la livraison du vendredi. Nils cherche une façon de préparer la chronique sans déplacer toute l’équipe.",
       "context": "Le mercredi suivant, près du planning de la pépinière",
       "topics": [
-        "Travail à temps partiel",
-        "Choix d’horaires",
-        "Participation au quartier"
+        "Reprendre sa place",
+        "Poser ses limites",
+        "Travailler à plusieurs"
       ],
       "opening": "Nils tient l’affichette avec un aimant en forme de fraise. Renée reçoit au Clos des Mûriers de huit à neuf heures, avant de porter des plants au centre social. À la radio, Maud aurait le temps de monter une courte prise le vendredi après-midi. Il a prévenu Renée par téléphone qu’il essaierait de passer, sous réserve de pouvoir échanger le début de sa matinée. Sur le planning, son prénom apparaît à huit heures dans la colonne des livraisons. Il pose l’index une case plus tard, comme s’il pouvait faire glisser les plantes à la même vitesse que le papier.\n\nMatthieu ouvre le tableau sur l’ordinateur. L’autre personne prévue partira avec le premier camion. Aïcha n’est pas disponible avant neuf heures. Il ne peut pas promettre qu’ils auront assez de monde au déchargement si Nils arrive en retard. Nils lui propose de rattraper l’heure un autre jour. Matthieu lui montre l’heure à couvrir vendredi, celle où arrivent les bacs. Nils finit par voir ce qu’il avait oublié : le temps se rattrape, mais les bacs arrivent à une heure qu’ils n’ont pas choisie.\n\nIl décroche l’affichette du tableau. Il aurait aimé prendre du son entre les parcelles, un bruit dont Maud ne devrait pas couper la fin pour faire entrer la musique. Renée lui a déjà dit qu’elle tenait la permanence pour recueillir des demandes de matériel et qu’elle ne voudrait pas faire attendre les gens. En mettant le papier à plat, il découvre une ligne au bas de l’affiche, sous la liste des outils à rapporter : on peut aussi écrire au jardin. Il enregistre l’adresse sur son téléphone avant de rendre à Matthieu l’aimant en forme de fraise.",
       "sections": [
@@ -337,13 +337,13 @@
     {
       "number": 10,
       "slug": "nils-la-question-sur-le-ticket",
-      "title": "Nils laisse la question de Renée en entier",
+      "title": "Laisser de la place à l’imprévu avant de passer à l’antenne",
       "description": "Renée apporte une question qui bouscule le texte préparé. Nils choisit de raccourcir sa réponse et confirme ce qui pourra être diffusé.",
       "context": "Le vendredi après-midi, à la radio, la veille de l’émission",
       "topics": [
-        "Consentement à la diffusion",
-        "Préparation du direct",
-        "Repères choisis"
+        "Choisir ce qu’on partage",
+        "S’ajuster à l’imprévu",
+        "Reprendre sa place"
       ],
       "opening": "Renée a noté sa question au dos d’un ticket où le total prend deux lignes. Depuis qu’elle a déplacé son basilic dans un pot rouge, les feuilles du bas jaunissent. Elle l’arrose comme le précédent et veut savoir s’il faut faire pareil quand le pot n’est plus au même endroit. Nils avait prévu de dire quelques mots sur la taille des pots. En lisant le ticket, il voit que ça ne répond pas à ce que Renée veut savoir. Il lui demande où elle a mis le basilic. Sous la gouttière, dit-elle, là où sa voisine a laissé de la place. Nils reprend son crayon et ajoute « pluie » à côté de « terre ».\n\nMaud a préparé deux micros. Renée est venue avec sa question écrite et ne voudrait pas qu’on l’enregistre. Elle peut expliquer où le pot se trouve tant qu’ils sont autour de la table. Maud range le deuxième pied. Renée accepte que Maud lise sa question le lendemain, avec son prénom et le nom du jardin. Elle veut entendre comment elle sera lue, parce qu’elle sait qu’elle a écrit deux fois « comme avant ».\n\nÀ l’essai, Nils explique longuement ce qui peut arriver à un pot à des endroits différents. Maud pointe le chronomètre ; la réponse prend presque tout le créneau. Renée demande à partir de quel moment elle peut reconnaître son problème dans ce qu’il raconte. Nils revient au ticket. Il y a assez de place au-dessous pour une seule ligne : « voir l’endroit avec elle ». Il demande à Renée de redire où tombe l’eau quand il pleut. Cette fois, il écoute la réponse entière avant d’écrire.",
       "sections": [
@@ -373,13 +373,13 @@
     {
       "number": 11,
       "slug": "nils-le-voyant-rouge",
-      "title": "Nils reprend après la question de Maud",
+      "title": "Reprendre après un blanc à l’antenne",
       "description": "Le voyant s’allume et Nils perd un mot. Maud répète la question comme convenu ; il choisit le dernier détail qu’il veut donner.",
       "context": "Le samedi, pendant la première émission des Mains dans la terre",
       "topics": [
-        "Participation choisie",
-        "Reprise de parole",
-        "Soutien en studio"
+        "Perdre le fil",
+        "Soutien discret",
+        "Reprendre sa place"
       ],
       "opening": "Jo a déplacé la chaise de Nils pour laisser entrer Maud avec ses feuilles. Quand Nils s’assied, le bras du micro lui cache le bas de la fiche. Il la fait glisser à côté du verre d’eau. Derrière la vitre, Jo lui montre trois doigts. Le sujet précédent s’est terminé à l’heure. Nils met le casque. Le voyant s’allume quand Jo lance l’introduction. Il entend sa voix telle qu’elle passe à l’antenne. Le froissement de la fiche a survécu au montage. Il reconnaît son propre souffle, plus court que dans son souvenir.\n\nMaud lit la question de Renée avec le « mon pot rouge » qu’elles ont validé, puis lève les yeux. Nils commence par le soleil, s’arrête et s’aperçoit qu’il est en train de répondre à la cliente de la pépinière. Il prend le verre, oublie de boire et cherche le cadre au crayon. Maud attend une seconde. Elle reprend la question en entier comme ils l’avaient essayé. La gouttière lui revient. Nils dit qu’il irait d’abord voir ce qui se passe dans le pot après la pluie. Il n’a pas vu le basilic de Renée et préfère lui poser une autre question plutôt que lui donner une fréquence.\n\nDerrière la vitre, Jo signale le temps qui reste. Nils pense à ce qu’il n’a pas dit sur la taille du pot. Sa main arrive au bord de la page. Il pourrait lever la paume s’il voulait s’arrêter. Il choisit de finir avec une question pour Renée : est-ce que l’eau reste dans la soucoupe ? Maud attend le point et rend la parole à Jo.",
       "sections": [
@@ -410,13 +410,13 @@
     {
       "number": 12,
       "slug": "nils-une-date-au-crayon",
-      "title": "Nils propose une date et garde la gomme",
+      "title": "Choisir un rythme de travail qu’on peut tenir",
       "description": "La radio lui propose de revenir chaque semaine. Nils choisit le rythme qu’il peut tenir et prépare déjà une autre question.",
       "context": "Le lundi après la première diffusion, au studio puis à la pépinière",
       "topics": [
-        "Participation choisie",
-        "Suivi dans la durée",
-        "Chronique de jardinage"
+        "Reprendre sa place",
+        "Écouter ses limites",
+        "Soutien dans la durée"
       ],
       "opening": "Jo a laissé devant le clavier une feuille pour les quatre émissions du mois. Il a mis le prénom de Nils au crayon à côté de chaque samedi. Ce n’est qu’une proposition, explique Maud. Elle lance l’enregistrement du week-end. Ils réécoutent la question de Renée et le blanc au milieu. Nils se souvient d’un très long blanc. À l’écoute, c’est le petit choc du verre sur la table qui l’arrête. Maud trouve la question compréhensible. Elle aurait voulu annoncer un peu plus lentement le nom du jardin. Nils pense à Elsa, qui avait entendu « pot rouge » du fond de sa cuisine et raté le nom du Clos des Mûriers. Il note sur la feuille : « redire le lieu à la fin ».\n\nIl regarde les quatre samedis. Renée lui a proposé de passer voir le pot un après-midi où elle sera au jardin. Il a aussi ses matinées à la pépinière, le goût de rester chez lui certains week-ends et un rendez-vous de suivi déjà fixé. Il propose une chronique le premier samedi du mois. Maud lui dit que Jo espérait faire revenir la même voix plus souvent. Nils lui demande combien de temps la radio pourrait garder un créneau par mois si, à l’occasion, il choisit une prise enregistrée. Elle va chercher Jo plutôt que de lui promettre une réponse.\n\nIls reviennent avec le calendrier des émissions. Jo peut lui réserver le premier samedi des deux prochains mois et faire le point avec lui après. Nils regarde les dates. La seconde tombe le jour du marché aux plants de la pépinière. Il garde la première et écrit « à voir » sur l’autre, assez lisiblement pour que Jo sache quand lui redemander.",
       "sections": [
@@ -444,5 +444,12 @@
         "next": "La diffusion est accomplie ; restent le suivi ordinaire, le prochain sujet choisi et une date à revoir avec la radio."
       }
     }
+  ],
+  "profile_topics": [
+    "Attention et bruit",
+    "Doutes sur ses perceptions",
+    "Choisir ce qu’on partage",
+    "Demander du soutien",
+    "Reprendre sa place"
   ]
 }

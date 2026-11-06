@@ -1,5 +1,5 @@
 ---
-title: Le nom donné au rendez-vous
+title: 'Trouble panique : quand la peur persiste entre les attaques'
 description: La psychiatre reprend avec Jules l’histoire des épisodes et ce qu’ils
   ont changé. Elle lui explique pourquoi elle retient un trouble panique.
 slug: jules-nom-au-cabinet
@@ -10,9 +10,9 @@ sujet: Trouble panique
 contexte: Lors de la consultation spécialisée, après le premier bilan médical
 tags:
 - Attaques de panique
-- Trouble panique
-- Diagnostic professionnel
-- Retentissement
+- Attaques de panique inattendues
+- Inquiétude entre les attaques
+- Changements dans les activités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

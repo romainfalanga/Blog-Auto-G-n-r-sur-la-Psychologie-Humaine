@@ -1,5 +1,5 @@
 ---
-title: Le matin après un cauchemar
+title: Les cauchemars de Selma pèsent sur le reste de sa journée
 description: Après plusieurs nuits interrompues, Selma repère ce que la fatigue change
   dans sa journée. Elle en parle au rendez-vous prévu.
 slug: selma-cauchemars-reveil
@@ -11,9 +11,9 @@ contexte: Dans la cuisine, avant le passage d’André
 tags:
 - TSPT
 - PTSD
-- Cauchemars
-- Sommeil
-- Retentissement de la fatigue
+- Cauchemars et réveils
+- Fatigue dans la journée
+- Difficulté à se concentrer
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

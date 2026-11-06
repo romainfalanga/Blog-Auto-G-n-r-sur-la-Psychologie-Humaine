@@ -1,5 +1,5 @@
 ---
-title: L’extrait restait fermé
+title: 'Perte d’intérêt : Émilien délaisse les sons qu’il aimait'
 description: Depuis deux semaines, même les enregistrements qu’il aimait restent fermés.
   Émilien décrit ce changement à son équipe de soins.
 slug: emilien-extrait-restait-ferme
@@ -11,8 +11,8 @@ contexte: reconnaître une perte d’intérêt qui dure et demander un avis sur 
   épisode dépressif
 tags:
 - Bipolarité type I
-- Épisode dépressif
 - Perte d’intérêt
+- Retrait du quotidien
 - Demande de soutien
 categories:
 - Comprendre et maîtriser ses émotions

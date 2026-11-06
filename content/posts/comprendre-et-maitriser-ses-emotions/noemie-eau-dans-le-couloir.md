@@ -1,5 +1,5 @@
 ---
-title: L’eau au-dessus de la porte
+title: Face à une infiltration, agir malgré l’incertitude
 description: Une trace d’eau change le programme de l’exposition. Noémie et Aïcha
   s’appuient sur les procédures du service et revoient leur visite.
 slug: noemie-eau-dans-le-couloir
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Aux archives, devant une salle où une infiltration vient d’être signalée
 tags:
 - TOC
-- Signal nouveau
+- Tolérance à l’incertitude
+- Doute sur sa responsabilité
 - Procédures de sécurité
-- Incertitude
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

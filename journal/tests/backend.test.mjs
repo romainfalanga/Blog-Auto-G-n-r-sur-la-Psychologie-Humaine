@@ -580,6 +580,7 @@ test('portrait pause blocks provider work while leaving event edits available',a
  await addEvent(env,account);const job=await claim(env);
  env.GENERATION_PAUSED='true';
  assert.equal((await (await claimJobs(env)).json()).status,'generation_paused');
+ assert.equal((await (await request(env,'/api/portrait',{cookie:account.cookie})).json()).status,'paused');
  await assert.rejects(complete(env,job,{portrait:portraitV2(job)}),e=>e.code==='generation_paused');
  const event=await addEvent(env,account,{description:'Un moment dont je veux garder la trace.'});
  assert.ok(event.id);
@@ -623,15 +624,21 @@ test('timeline pagination is chronological across pages and preserves UUID curso
  response=await request(env,'/api/life-events?cursor='+cursor,{cookie:a.cookie});assert.equal(response.status,409);assert.equal((await response.json()).code,'pagination_changed');
 });
 
-test('people observation controls require an authenticated same-origin request',async()=>{
+test('reading and removing people observations require authenticated same-origin access',async()=>{
  const env={DB:database()},account=await register(env);
- const path='/api/people-observations/preferences';
+ const db=env.DB.raw,userId=account.user.id;
+ db.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role) VALUES('mila',?,'mila','hash','Mila','friend')").run(userId);
+ const path='/api/people/mila/observations';
  assert.equal((await request(env,path)).status,401);
- assert.equal((await request(env,path,{method:'PUT',cookie:account.cookie,originHeader:'https://another.example',data:{enabled:true}})).status,403);
  const initial=await request(env,path,{cookie:account.cookie});
  assert.equal(initial.headers.get('Cache-Control'),'private, no-store');
- assert.deepEqual(await initial.json(),{enabled:false});
- const enabled=await request(env,path,{method:'PUT',cookie:account.cookie,data:{enabled:true}});
- assert.equal(enabled.status,200);
- assert.deepEqual(await enabled.json(),{enabled:true});
+ assert.deepEqual(await initial.json(),{enabled:false,observations:[]});
+ assert.equal((await request(env,'/api/chat/consent',{method:'PUT',cookie:account.cookie,data:{accepted:true}})).status,200);
+ const quote='Mila me répond par écrit quand le ton monte.';
+ db.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content) VALUES('turn',?,'key','hash','completed','consumed',?,1,1,?)").run(userId,parisWeek().week_start,quote);
+ db.prepare("INSERT INTO people_observations(id,user_id,person_id,turn_id,axis,quote,fingerprint,created_at) VALUES('note',?,'mila','turn','communication',?,'hash',1)").run(userId,quote);
+ assert.equal((await request(env,path+'/note',{method:'DELETE',cookie:account.cookie,originHeader:'https://another.example'})).status,403);
+ assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[{id:'note',axis:'communication',quote,created_at:1}]});
+ assert.equal((await request(env,path+'/note',{method:'DELETE',cookie:account.cookie})).status,200);
+ assert.deepEqual(await (await request(env,path,{cookie:account.cookie})).json(),{enabled:true,observations:[]});
 });

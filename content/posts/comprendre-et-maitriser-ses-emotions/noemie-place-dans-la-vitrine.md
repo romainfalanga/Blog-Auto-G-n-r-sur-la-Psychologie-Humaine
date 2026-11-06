@@ -1,5 +1,5 @@
 ---
-title: La place de la carte dans la vitrine
+title: 'Compulsion ou préférence : pourquoi Noémie déplace encore la carte'
 description: Noémie aime la première disposition de la vitrine. Elle cherche à séparer
   ce goût des contrôles du métier et d’une obligation qu’elle ressent.
 slug: noemie-place-dans-la-vitrine
@@ -10,9 +10,9 @@ sujet: Trouble obsessionnel-compulsif
 contexte: Pendant l’essai de disposition des cartes aux archives
 tags:
 - TOC
-- Préférences
-- Règles de conservation
+- Sensation d’inachevé
 - Compulsion
+- Préférence personnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

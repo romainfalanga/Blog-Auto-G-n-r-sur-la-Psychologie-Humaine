@@ -1,5 +1,5 @@
 ---
-title: La clé du fourgon
+title: 'Prise de risque : Émilien renonce à conduire et demande de l’aide'
 description: La situation change avant le rendez-vous prévu. Émilien renonce à prendre
   le volant et demande une évaluation urgente avec l’aide de Lucie.
 slug: emilien-cle-du-fourgon
@@ -11,9 +11,9 @@ contexte: faire appel sans attendre quand l’évolution des signes fait appara�
   risque concret
 tags:
 - Bipolarité type I
-- Manie suspectée
-- Évaluation urgente
-- Sécurité
+- Prise de risque
+- Difficulté à garder le fil
+- Recours urgent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17

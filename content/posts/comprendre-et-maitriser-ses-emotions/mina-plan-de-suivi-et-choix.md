@@ -1,5 +1,5 @@
 ---
-title: Ce que Mina veut garder dans son suivi
+title: En thérapie, Mina cherche comment demander une réponse claire
 description: Mina parle à sa thérapeute de deux échanges récents. Elle ajuste ses
   objectifs et choisit la partie du plan qu’elle souhaite partager avec Alice.
 slug: mina-plan-de-suivi-et-choix
@@ -11,9 +11,9 @@ contexte: Au rendez-vous de suivi, la semaine du festival
 tags:
 - Profil borderline
 - Trouble borderline
-- Suivi structuré
-- Plan de crise
-- Consentement des proches
+- Demande claire dans une relation
+- Aide convenue avec une proche
+- Plan de crise avec l’équipe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
