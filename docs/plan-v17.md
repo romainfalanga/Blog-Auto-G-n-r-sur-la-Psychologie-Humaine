@@ -16,16 +16,17 @@ Les extraits restent modifiables par retrait dans la fiche et sont inclus dans l
 
 La [cartographie CIM-11](cartographie-clinique-v17.md) couvre le chapitre 06 dans la version française 2026-01. Chaque code est rattaché à un parcours ou accompagné de sa raison de regroupement ou d’exclusion. Le canon de chaque parcours donne une vie quotidienne, un enjeu hors diagnostic, des ressources, des liens et une temporalité du diagnostic. Une fiche distincte documente les sujets connexes hors de ce chapitre.
 
-L’action « Atelier éditorial des parcours cliniques » produit soit le dossier d’un personnage, soit des brouillons d’épisodes. Elle reprend le principe de continuité du générateur précédent et transmet au modèle le canon, les points sourcés, les choix des épisodes précédents et la charte issue des relectures. Le mode brouillon requiert le secret GitHub Actions `OPENROUTER_API_KEY` et utilise par défaut le même modèle qu’Ambre. La variable `CLINICAL_EDITOR_MODEL` permet de choisir un autre modèle. Chaque exécution traite un personnage. Les fichiers sortent dans un artefact de travail à relire.
+La rédaction se fait directement avec un agent dédié par personnage. La commande `python3 scripts/clinical_editorial.py agent <identifiant>` réunit son canon, la charte commune, les sources vérifiées, sa direction éditoriale et les choix déjà écrits. Le dossier individuel se trouve dans `editorial/clinical/dossiers/` et le manuscrit de douze épisodes dans `editorial/clinical/`. Les points d’étape conservent les faits et les engagements d’une scène à la suivante. La commande `progress` distingue les dossiers de sources, les épisodes rédigés et les parcours relus.
 
-La publication passe par le registre des manuscrits relus, avec l’empreinte du fichier vérifié. Elle intègre les douze articles, les repères, la fiche du personnage et les conseils pour les proches. Les contrôles vérifient l’ouverture, la continuité documentée, les sources, les liens et la couverture du catalogue. La relecture porte sur le sens et les faits, en plus de ces contrôles. La charte conserve les enseignements de chaque vague. Les dossiers cliniques des autres vagues sont à constituer avant leur rédaction.
+Après la relecture du parcours, `record-review` inscrit la date, les observations et les empreintes du manuscrit et de son dossier dans le registre. L’intégration prépare les douze articles, les repères, la fiche du personnage et les conseils pour les proches. Les contrôles vérifient l’ouverture, la continuité documentée, les sources, les liens et la couverture du catalogue. Les affirmations et les raccords sont relus dans leur contexte. La charte conserve les enseignements de chaque vague.
 
-## Trois vagues relues
+## Vagues relues
 
 | Vague | Parcours | Épisodes |
 | --- | --- | ---: |
 | 1 | Mathis, Noémie, Inaya et Émilien | 48 |
 | 2 | Nour, Antonin, Selma et Gabin | 48 |
 | 3 | Garance, Jules, Clémence et Mina | 48 |
+| 4 | Nils, Solène, Meriem et Armand | 48 |
 
-Mathis et Jules reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. Les dix autres commencent avec un diagnostic établi. Les 144 nouveaux épisodes et les 387 articles précédents donnent 531 rubriques pour les proches. Il reste 138 parcours et 1 656 épisodes à documenter, rédiger et relire dans le programme du chapitre 06.
+Mathis et Jules reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. Les dix autres commencent avec un diagnostic établi. Ces 144 épisodes ont porté le nombre de rubriques pour les proches à 531. Le [registre des relectures](../editorial/clinical/releases.json) donne l’état des publications suivantes.

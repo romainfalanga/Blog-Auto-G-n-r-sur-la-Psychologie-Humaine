@@ -405,6 +405,16 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "armand": {
+    "id": "armand",
+    "name": "Armand",
+    "keywords": [
+      "Démence due à la maladie d’Alzheimer",
+      "Décision accompagnée",
+      "Participation sociale"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "clémence": {
     "id": "clemence",
     "name": "Clémence",
@@ -469,11 +479,35 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "meriem": {
+    "id": "meriem",
+    "name": "Meriem",
+    "keywords": [
+      "Trouble de stress post-traumatique complexe",
+      "Confiance",
+      "Réparation concrète",
+      "Projet collectif",
+      "Rapport à soi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "mina": {
     "id": "mina",
     "name": "Mina",
     "keywords": [
       "Trouble de la personnalité avec profil borderline"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "nils": {
+    "id": "nils",
+    "name": "Nils",
+    "keywords": [
+      "Schizophrénie",
+      "Attention",
+      "Confidentialité",
+      "Plan de soins",
+      "Participation choisie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -498,6 +532,15 @@
     "name": "Selma",
     "keywords": [
       "Trouble de stress post-traumatique"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "solène": {
+    "id": "solene",
+    "name": "Solène",
+    "keywords": [
+      "Trouble schizoaffectif",
+      "Période intermédiaire"
     ],
     "source": "repères des parcours cliniques de fiction"
   }

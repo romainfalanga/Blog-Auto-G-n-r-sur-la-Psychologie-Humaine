@@ -2,7 +2,7 @@
 
 [Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
 
-Le catalogue réunit 531 articles et 45 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 12 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Les cartes affichent les repères psychologiques de chaque parcours.
+Le catalogue réunit 579 articles et 49 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 16 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Les cartes affichent les repères psychologiques de chaque parcours.
 
 ## Personnalisation
 
@@ -22,7 +22,7 @@ La cartographie présente d’abord les pistes personnelles, puis leurs élémen
 
 Hugo/Netlify sert le catalogue public. Cloudflare Worker/D1 gère les comptes, les sources personnelles, la conversation et l’analyse du portrait. GitHub Actions relaie l’analyse du portrait pour les contextes longs. Les retards du planificateur sont possibles.
 
-La clé OpenRouter d’Ambre reste un secret Cloudflare. Pour l’analyse des portraits, les Actions s’authentifient par OIDC auprès d’une passerelle qui vérifie versions, bail, droits et budgets avant chaque appel. Les textes privés ne sont écrits ni dans Git, ni dans les articles publics, ni dans les logs Actions. L’action éditoriale traite uniquement des personnages fictifs et lit son propre secret GitHub Actions lorsqu’elle est lancée en mode brouillon.
+La clé OpenRouter d’Ambre reste un secret Cloudflare. Pour l’analyse des portraits, les Actions s’authentifient par OIDC auprès d’une passerelle qui vérifie versions, bail, droits et budgets avant chaque appel. Les textes privés ne sont écrits ni dans Git, ni dans les articles publics, ni dans les logs Actions. Les parcours publics sont rédigés directement par des agents de rédaction dédiés, avec une fiche individuelle et une relecture avant intégration.
 
 ## Validation
 

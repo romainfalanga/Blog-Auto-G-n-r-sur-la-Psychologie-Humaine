@@ -1,0 +1,44 @@
+{
+  "references": {
+    "nice-psychose": {
+      "title": "NICE, psychose et schizophrénie chez l’adulte (CG178)",
+      "url": "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+    },
+    "nice-plan-crise": {
+      "title": "NICE, expérience des soins en santé mentale chez l’adulte (CG136)",
+      "url": "https://www.nice.org.uk/guidance/cg136/chapter/recommendations"
+    },
+    "oms-schizophrenie": {
+      "title": "OMS, fiche d’information sur la schizophrénie",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/schizophrenia"
+    },
+    "nhs-ecoute-psychose": {
+      "title": "Lincolnshire Partnership NHS Foundation Trust, parler avec une personne qui vit une expérience inhabituelle",
+      "url": "https://www.lpft.nhs.uk/contact-us/support/carers-support/advice-how-manage-expressions-strange-beliefs-delusional-thoughts"
+    }
+  },
+  "dossier": {
+    "name": "Schizophrénie",
+    "aliases": [
+      "Schizophrénie"
+    ],
+    "references": [
+      "oms-cddr",
+      "nice-psychose",
+      "nice-plan-crise",
+      "oms-schizophrenie",
+      "nhs-ecoute-psychose"
+    ],
+    "points": [
+      "OMS, CDDR, 6A20, pp. 162–163 : les manifestations possibles touchent plusieurs domaines. Elles comprennent des perceptions sans source extérieure perceptible (souvent auditives), des convictions délirantes (y compris l’attribution d’un sens personnel à un événement), la désorganisation de la pensée ou du discours et, chez certaines personnes, une réduction de l’élan ou de l’expression. Ce tableau n’est ni uniforme ni équivalent au trouble dissociatif de l’identité, décrit séparément par l’OMS au code 6B64, pp. 382–386.",
+      "OMS, CDDR, 6A20, pp. 163–168, sections « Course specifiers », « Additional clinical features », « Boundary with normality » et « Course features » : les trajectoires et la présence de symptômes au cours du temps varient, avec des phases d’accentuation et de rémission possibles, et parfois des manifestations résiduelles. L’interprétation clinique tient compte de l’ensemble du tableau, de sa durée et de son contexte. Une expérience inhabituelle isolée, une nuit courte, une difficulté à suivre des consignes dans le bruit ou un problème de travail ne permettent pas de conclure à une rechute ou à un diagnostic.",
+      "OMS, CDDR, 6A20, pp. 166–168 ; fiche OMS sur la schizophrénie, « Symptoms » et « Impact » : certaines personnes rencontrent des difficultés d’attention, de mémoire ou de résolution de problèmes. Leur retentissement et leurs causes s’apprécient au cas par cas. Le récit attribue à Nils sa propre façon de perdre le fil et teste des ajustements de travail, sans les présenter comme des marqueurs diagnostiques ni comme un traitement.",
+      "NICE CG178, recommandations 1.1.4.1 à 1.1.4.4 « Support for carers » ; texte complet, recommandations 4.6.1.3 à 4.6.1.7 : discuter tôt et revoir le partage d’informations ; inclure les proches dans les décisions si la personne y consent ; leur expliquer les rôles des services et l’accès à de l’aide en cas de crise, et proposer du soutien adapté à leurs propres besoins.",
+      "NICE CG136, section 1.4 « Assessment and care planning », recommandation 1.4.5, et NICE CG178, recommandations 1.1.5.3 et 1.5.3.6 : le plan discuté avec la personne peut consigner ses signes d’alerte personnels, ses préférences, les appuis et les contacts ; en cas de suspicion de rechute, le soignant peut s’appuyer sur la partie crise du plan. Le nombre de nuits et le geste du récit ne sont pas des seuils cliniques. Les recommandations britanniques éclairent le principe de collaboration ; le récit ne transpose pas leur organisation des services au secteur français.",
+      "NICE CG178, sections 1.3.3 « Assessment and care planning » et 1.5.8 « Employment, education and occupational activities » : tenir compte des objectifs et de la situation professionnelle, et proposer un appui à l’emploi aux personnes qui le souhaitent. Les choix de Nils en pépinière et à la radio sont des négociations ordinaires de tâches et d’horaires. Le dossier ne fait aucune affirmation de droit du travail ni ne prescrit un aménagement.",
+      "OMS, fiche sur la schizophrénie, « Impact », « Treatment and care » : la stigmatisation et la discrimination peuvent restreindre les relations et l’accès à l’emploi ou aux soins ; les soutiens psychosociaux et communautaires font partie des options de prise en charge. La participation à la vie du quartier peut être un objectif propre à Nils. Elle ne mesure ni sa stabilité, ni la valeur de son suivi, ni une prétendue guérison.",
+      "Lincolnshire Partnership NHS Foundation Trust, rubrique « How to respond » : reconnaître l’inconfort sans approuver une interprétation inhabituelle. Les répliques de Maud et d’Elsa en donnent une version située : écouter ce que vit Nils, reconnaître son inconfort, ne pas confirmer l’interprétation d’un message, poser une question courte et passer le relais comme convenu. Ni confrontation, ni enquête pour vérifier une conviction, ni adaptation de soin par un proche. Les changements préoccupants sont discutés avec l’équipe de secteur ; le récit ne propose ni prescription ni seuil d’urgence générique."
+    ]
+  },
+  "direction": "Nils, 38 ans, travaille à temps partiel dans une pépinière et prête déjà sa voix aux annonces de la radio du quartier. Il veut réaliser une chronique de jardinage sous son prénom. La fiche des basilics, la question « quand arroser ? » et le pot rouge relient le travail, le studio puis l’antenne. Maud règle le format et le son ; Elsa apporte un soutien limité au rôle fixé ensemble avec l’équipe de secteur ; Aïcha et Matthieu discutent des contraintes de la pépinière. Nils parle de son diagnostic établi quand c’est utile, décide ce qui circule et discute tôt du plan avec l’équipe. Épisode 6 : changement par rapport à son état habituel, appel de sa propre initiative ; épisode 7 : soutien d’Elsa à des heures compatibles avec sa vie ; épisode 8 : bilan qui ne transforme pas un incident de répétition en preuve de rechute. Les derniers épisodes portent sur le contenu, la logistique et un engagement choisi. Aucune révélation publique exigée, aucune validation d’une interprétation menaçante, aucune association avec la violence, aucun diagnostic supplémentaire ni changement de traitement raconté."
+}

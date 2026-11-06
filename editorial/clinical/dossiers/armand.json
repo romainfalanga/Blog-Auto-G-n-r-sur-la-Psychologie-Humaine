@@ -1,0 +1,51 @@
+{
+  "references": {
+    "has-alzheimer-parcours": {
+      "title": "HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer",
+      "url": "https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins"
+    },
+    "nice-demence": {
+      "title": "NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches",
+      "url": "https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109"
+    },
+    "oms-demence-reperes": {
+      "title": "OMS, principaux repères sur la démence",
+      "url": "https://www.who.int/fr/news-room/fact-sheets/detail/dementia"
+    },
+    "has-confusion-aigue": {
+      "title": "HAS, confusion aiguë chez la personne âgée : repérage et prise en charge initiale",
+      "url": "https://www.has-sante.fr/jcms/c_819557/fr/"
+    },
+    "service-public-samu": {
+      "title": "Service Public, numéros d’urgence : aide médicale urgente et orientation par le 15",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    }
+  },
+  "dossier": {
+    "name": "Démence due à la maladie d’Alzheimer",
+    "aliases": [
+      "Maladie d’Alzheimer",
+      "Trouble neurocognitif majeur dû à la maladie d’Alzheimer"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-alzheimer-parcours",
+      "nice-demence",
+      "oms-demence-reperes",
+      "has-confusion-aigue",
+      "service-public-samu"
+    ],
+    "points": [
+      "OMS, CDDR 2024, p. 618–620 (exigences générales) et p. 621–622, 6D80 : déclin avec retentissement sur la vie quotidienne, dû à la maladie d’Alzheimer selon l’évaluation clinique. Un début graduel et des difficultés progressives de mémoire et de recherche de mots sont typiques ; les formes atypiques peuvent d’abord toucher d’autres fonctions. La mémoire n’est pas seule en jeu. Ne pas tirer un diagnostic ou un stade d’une scène.",
+      "OMS, fiche sur la démence, « Signes et symptômes » et « Traitement et prise en charge » : les manifestations et les besoins diffèrent selon la personne et évoluent avec le temps. Des aides peuvent soutenir les activités et le fonctionnement quotidien. HAS, fiche 11, « Élargir l’évaluation aux capacités préservées », p. 1 : le contexte relationnel et physique participe au retentissement fonctionnel. Une tâche menée plus facilement avec des repères ou dans un lieu calme ne démontre pas une régression de la maladie.",
+      "HAS, guide parcours 2018, p. 10, « Conséquences des troubles cognitifs, le point de vue du patient et de l’entourage », et §3, p. 17 : recueillir le vécu et tenir compte du fonctionnement quotidien. Rechercher l’accord pour les échanges avec les proches, parler directement à la personne et adapter la communication. Le suivi et les aides tiennent compte des compétences, des habitudes, de l’environnement et des préférences ; leur utilité et leur acceptabilité sont à réévaluer.",
+      "NICE NG97, recommandations 1.1.1–1.1.3 et 1.1.7 : permettre à la personne d’exprimer ses vues, adapter la communication si nécessaire, distinguer les informations qu’elle accepte de partager et leurs destinataires dans le cadre des soins. Les exemples de tri, d’affiche et de don illustrent ces principes dans une relation ordinaire, sans formuler de règle médicale ou juridique sur le don.",
+      "NICE NG97, recommandations 1.4.1 et 1.4.4 ; HAS parcours §3, p. 17 : les activités peuvent suivre les préférences. L’ergothérapie peut être envisagée en fonction des besoins et du stade, notamment pour soutenir la réalisation des tâches au quotidien ; un rangement ou un repère se teste avec la personne. Aucun essai n’est présenté comme un moyen de restaurer durablement la mémoire.",
+      "HAS, guide parcours, §4, « Évaluer le vécu de l’aidant » et « Inciter l’entourage à accepter de l’aide et prendre du repos », p. 20 ; NICE NG97, 1.11.1–1.11.4 : les proches peuvent avoir besoin d’information, d’appui et de répit. La place de chacun se discute selon ses besoins et ses disponibilités ; le soutien de Jeanne n’a pas à être permanent.",
+      "OMS, CDDR 2024, 6D70, p. 602–604 (« Course features » et « Boundary with dementia ») ; HAS, confusion aiguë, « Messages clés » et « Bilan » : un changement rapide de l’attention ou de la vigilance peut relever d’une confusion aiguë, qui peut se superposer à une maladie d’Alzheimer et requiert une évaluation médicale urgente. Les soignants recherchent la cause ; le proche peut décrire le changement et le dernier état habituel connu.",
+      "Service Public, fiche F33954, « Numéros d’urgence » et encadré relatif au service d’accès aux soins : en France, le 15 joint l’aide médicale urgente et permet d’être orienté par un professionnel selon la situation. Appeler sans attendre dans la scène 9, suivre les consignes et reporter ensuite les engagements ordinaires.",
+      "HAS, guide parcours, §5 et tableau 4, p. 22–23, dont les lignes sur l’hospitalisation et le passage aux urgences ; NICE NG97, 1.1.10, 1.3.1–1.3.2 et 1.12.2 : coordonner la sortie et revoir besoins, souhaits et aides à domicile avec la personne. Identifier le contact à utiliser et quand reparler du plan. NG97 1.1.12–1.1.13 : offrir des occasions précoces et régulières de parler des préférences de soins à venir et de les revoir."
+    ]
+  },
+  "direction": "Armand, 72 ans, parle en ancien postier et bibliothécaire du foyer : il repère les portes, ouvre le papier dans le bon sens et veut que les cartes restent consultables. Il déteste qu’on remplisse ses silences sans lui demander. Son humour et ses exigences de lecteur existent au-delà du suivi. Le carton gris, la porte verte, le carré imprimé et les deux originaux près du fauteuil relient les scènes. La première sélection mène à trois dons, à une reproduction du seul recto du pont bas et à deux originaux conservés. Jeanne a une vie, des horaires et un repas qu’elle veut partager. Nadia gère la bibliothèque, l’équipe le suivi ; chacun peut dire ce qu’il peut prendre en charge. La gêne dans une tâche varie avec la situation. La confusion aiguë fait rupture, appelle aussitôt le 15 et est évaluée par des professionnels. Après le retour, Armand ajuste les appuis, remet ses cartes et choisit de passer la parole ; le cahier des lecteurs prolonge son projet."
+}

@@ -1,0 +1,29 @@
+{
+  "references": {
+    "nice-ptsd": {
+      "title": "NICE NG116, trouble de stress post-traumatique",
+      "url": "https://www.nice.org.uk/guidance/ng116/chapter/Recommendations"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de stress post-traumatique complexe",
+    "aliases": [
+      "TSPT complexe",
+      "CPTSD"
+    ],
+    "references": [
+      "oms-cddr",
+      "nice-ptsd"
+    ],
+    "points": [
+      "Dans la CIM-11, le TSPT complexe inclut le noyau clinique du TSPT (reviviscence dans le présent, évitement des rappels, sentiment persistant de menace actuelle) et des difficultés graves et durables de régulation émotionnelle, de rapport à soi et de proximité dans les relations. Le retentissement est significatif, y compris quand la personne tient ses activités au prix d’un effort important. CDDR OMS, 6B41, « Essential (required) features », p. 344–346 ; NICE NG116, « Terms used in this guideline: Complex PTSD ».",
+      "Les traumatismes prolongés ou répétés auxquels il est difficile d’échapper constituent un contexte fréquent, sans déterminer à eux seuls le diagnostic. « Complexe » désigne un tableau clinique distinct du TSPT dans la CIM-11, sans classement fondé sur la gravité d’un épisode ou sur le nombre d’événements. CDDR OMS, 6B41, « Essential (required) features » et « Boundary with normality (threshold) », p. 344–346.",
+      "Une reviviscence implique que le passé semble se produire à nouveau dans le présent, parfois surtout sous forme émotionnelle ou sensorielle. Une inquiétude, une pensée répétitive ou un souvenir pénible ne suffisent pas à caractériser cette expérience. CDDR OMS, 6B40 et 6B41, « Essential (required) features » et 6B40 « Boundary with depressive episode », p. 339–345.",
+      "Les difficultés de régulation peuvent comporter une réaction vive et prolongée, un engourdissement émotionnel ou des symptômes dissociatifs sous stress. Le manuel décrit aussi la dévalorisation persistante avec honte ou culpabilité liée au trauma et les difficultés à entretenir des liens proches. Un comportement pris seul ne renseigne ni sur le diagnostic ni sur l’histoire de la personne. CDDR OMS, 6B41, « Essential (required) features » et « Boundary with normality (threshold) », p. 345–346.",
+      "Une humeur basse, des symptômes dissociatifs ou anxieux et des difficultés relationnelles peuvent se rencontrer dans des situations différentes et parfois dans des troubles associés. L’évaluation considère le contexte, l’évolution et le retentissement. Les chevauchements avec des troubles de la personnalité n’autorisent pas à conclure à partir d’une limite posée ou d’une réaction forte. CDDR OMS, 6B40, « Boundaries with other disorders and conditions », p. 343–344 ; 6B41, « Additional clinical features » et « Boundaries with other disorders and conditions », p. 346 et 348 ; NICE NG116, § 1.7.1.",
+      "Le suivi spécialisé s’appuie sur les préférences et la situation de la personne. Pour les besoins complexes, du temps supplémentaire peut être prévu pour la confiance ; la sécurité et la stabilité du contexte ainsi que les difficultés qui entravent l’accès aux soins sont à prendre en compte. Les soins centrés sur le traumatisme se discutent avec des professionnels formés. Aucune étape unique ni durée universelle n’est imposée par cette recommandation. NICE NG116, § 1.6.1–1.6.3, § 1.6.16–1.6.20 et § 1.7.3, ainsi que « Rationale and impact: Care for people with post-traumatic stress disorder and complex needs ».",
+      "La souplesse dans le suivi et la façon de reprendre contact après un rendez-vous manqué peuvent aider à maintenir l’accès aux soins. Les appuis utiles après la fin du traitement se préparent avec la personne. L’entourage peut être soutenu et orienté dans son rôle ; les arrangements de l’atelier sont des choix pratiques, pas des interventions de soin. NICE NG116, § 1.4.3, § 1.6.2 et § 1.7.3."
+    ]
+  },
+  "direction": "Meriem, 43 ans, coanime l’atelier avec Ève et invente un échange de patrons à la maison de quartier. Sa voix passe par le geste : elle mesure, dessine, fait un essai et a un humour sec sur les problèmes de couture. Suivre la pochette à trois chutes, le carré de contrôle, le tableau des rendez-vous et les deux bacs. La reviviscence initiale reste sensorielle et sans récit du passé ; montrer ensuite la honte persistante, le coût de l’effort et les liens qu’elle veut garder. Varier les interlocuteurs et les formes de consentement (rendez-vous, visite, citation, circulation d’une copie). L’insistance réelle du bénévole est arrêtée par la structure, avec un rôle explicite pour Dalila ; Ève demande ce que Meriem veut lui confier et conserve ses propres limites. Son médecin et sa thérapeute sont distincts. Le diagnostic est déjà connu ; personne ne l’infère de sa manière de coudre ou de ses refus. Le projet a ses ratés, sa réussite collective et sa prochaine date ; le suivi continue."
+}

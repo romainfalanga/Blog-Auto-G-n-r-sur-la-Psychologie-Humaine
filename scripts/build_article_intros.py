@@ -22,6 +22,11 @@ MIN_OPENING_WORDS = 180
 DEFINITION_MARKERS = ('definition', "qu'est-ce", 'comprendre', 'concept', 'mecanisme', 'au-dela', "coup d'")
 CHARACTER_NAMES = [p['prenom'] for p in json.loads((ROOT / 'scripts/personnages.json').read_text())['personnages']]
 PERSONALIZED_SENTENCE = re.compile(r'\b(?:Pour|Chez|Dans le cas de|Comme)\s+(?:' + '|'.join(re.escape(name) for name in CHARACTER_NAMES) + r')\b')
+CLINICAL_CASES = {
+    c['code']: re.compile(r'\b' + re.escape(c['name']) + r'\b')
+    for c in json.loads((ROOT / 'data/clinical_catalog.json').read_text())['characters']
+    if (ROOT / 'editorial/clinical/dossiers' / (c['id'] + '.json')).exists()
+}
 ABBREVIATIONS = {'m', 'mme', 'mlle', 'dr', 'pr', 'prof', 'etc', 'cf', 'ex', 'av', 'env', 'vol', 'p', 'pp', 'al'}
 
 def normalized(text: str) -> str:
@@ -89,17 +94,19 @@ def sentences(paragraph: str) -> list[str]:
     return result
 
 
-def excerpt(paragraph: str) -> str:
+def excerpt(paragraph: str, case_name: re.Pattern | None = None) -> str:
     parts = sentences(paragraph)
     if not parts:
         raise ValueError('Empty explanatory paragraph')
-    if PERSONALIZED_SENTENCE.search(parts[0]):
+    def personalized(part):
+        return PERSONALIZED_SENTENCE.search(part) or (case_name and case_name.search(part))
+    if personalized(parts[0]):
         raise ValueError('The selected paragraph starts with a fictional case; review manually')
     chosen = [parts[0]]
     for part in parts[1:3]:
         # Some definitions immediately segue back to their fictional character.
         # Keep the complete generic definition instead of padding with biography.
-        if PERSONALIZED_SENTENCE.search(part):
+        if personalized(part):
             break
         if len(' '.join(chosen)) >= 200:
             break
@@ -162,7 +169,8 @@ def build(write: bool = True) -> tuple[dict, dict]:
         paragraph = definition['paragraphs'][0]
         if paragraph.startswith(('-', '*', '#')):
             raise ValueError(f'Expected explanatory prose, not list: {identifier}')
-        text = excerpt(paragraph)
+        code = re.search(r'^clinical_code:\s*(\S+)\s*$', split[1], re.MULTILINE)
+        text = excerpt(paragraph, CLINICAL_CASES.get(code.group(1)) if code else None)
         # Exactly one contiguous excerpt from one explanatory paragraph.
         if text not in paragraph:
             raise ValueError(f'Excerpt is not verbatim after Markdown removal: {identifier}')

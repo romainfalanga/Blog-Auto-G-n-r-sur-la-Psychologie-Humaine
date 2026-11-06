@@ -1,0 +1,66 @@
+{
+  "references": {
+    "oms-services-communautaires": {
+      "title": "OMS, services de santé mentale communautaires : résumé des orientations",
+      "url": "https://www.who.int/fr/publications/i/item/9789240025684"
+    },
+    "oms-mhgap-suivi": {
+      "title": "OMS, Guide d’intervention mhGAP, version 2.0",
+      "url": "https://www.who.int/publications/i/item/9789241549790"
+    },
+    "nsw-psychose-communication": {
+      "title": "NSW Health, communiquer avec une personne qui traverse une psychose",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx"
+    },
+    "apa-schizoaffectif": {
+      "title": "American Psychiatric Association, le trouble schizoaffectif dans la classification américaine",
+      "url": "https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia"
+    },
+    "service-public-urgences": {
+      "title": "Service Public, numéros d’urgence en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    },
+    "service-public-medecine-travail": {
+      "title": "Service Public, médecine du travail pour un salarié du secteur privé",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2211"
+    },
+    "service-public-secret-medical": {
+      "title": "Service Public, secret médical et médecine du travail",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34302"
+    },
+    "ameli-vertiges-urgence": {
+      "title": "Assurance Maladie, vertiges : quand consulter immédiatement",
+      "url": "https://www.ameli.fr/assure/sante/themes/vertiges/bons-reflexes-que-faire"
+    }
+  },
+  "dossier": {
+    "name": "Trouble schizoaffectif",
+    "aliases": [
+      "Trouble schizo-affectif"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-services-communautaires",
+      "oms-mhgap-suivi",
+      "nsw-psychose-communication",
+      "apa-schizoaffectif",
+      "service-public-urgences",
+      "service-public-medecine-travail",
+      "service-public-secret-medical",
+      "ameli-vertiges-urgence"
+    ],
+    "points": [
+      "OMS, CDDR 2024, 6A21, « Essential (required) features », pp. 171–172 : les exigences diagnostiques complètes de la schizophrénie et d’un épisode dépressif modéré ou sévère, maniaque ou mixte sont réunies dans le même épisode. Le début des deux ensembles de symptômes est simultané ou espacé de quelques jours et persistent au moins un mois pour un premier épisode. La note 6A21.1 et 6A21.10, p. 173, précise que ce repère d’un mois n’a pas nécessairement à être atteint lors d’un épisode ultérieur. Si l’épisode d’humeur est dépressif, une humeur dépressive est requise ; une diminution du plaisir seule ne suffit pas. L’évaluation écarte d’autres causes médicales ou les effets de substances, de médicaments ou du sevrage. Les durées décrivent le cadre diagnostique, jamais un délai pour contacter des soins.",
+      "OMS, CDDR 2024, 6A21, « Boundaries with other disorders and conditions », p. 177 : le classement CIM-11 décrit l’épisode actuel ou le plus récent. Une simple coexistence de manifestations de l’humeur et de manifestations psychotiques ne départage pas le trouble schizoaffectif, la schizophrénie ou un épisode thymique avec symptômes psychotiques. La durée et la nature des symptômes psychotiques et thymiques, ainsi que leur relation temporelle, se jugent cliniquement ; le récit ne tranche pas à partir d’une scène.",
+      "American Psychiatric Association, « Schizoaffective Disorder », dans What is Schizophrenia? : dans son cadre DSM, l’APA décrit au moins deux semaines de délires ou d’hallucinations en l’absence d’un épisode thymique majeur au cours de la maladie. La CIM-11 ne requiert pas cette période séparée. Ne pas transposer le critère du DSM ni convertir un nom de diagnostic d’une classification à l’autre.",
+      "OMS, CDDR 2024, 6A21, « Course specifiers », pp. 172–175, et « Additional clinical features », « Boundary with normality », « Course features », pp. 175–176 : l’évolution peut comprendre des épisodes et des périodes de rémission, parfois avec des symptômes persistants ; les effets dans la vie varient. Une perception isolée, une fatigue ou un changement d’humeur hors contexte ne suffit pas à qualifier un épisode. Pas de sous-code posé dans le manuscrit.",
+      "OMS, Guide d’intervention mhGAP, v2.0, « Essential Care and Practice », §5 Follow-up, p. 13 (édition anglaise) : organiser des contacts de suivi, réexaminer l’état général, le fonctionnement, les conditions de vie et les effets indésirables possibles ; proposer un contact avant le prochain rendez-vous si le besoin survient. Le §6 Involving Carers, p. 14, recommande l’implication du proche avec le consentement de la personne si elle est appropriée. Dans cette fiction, l’équipe convient d’un relais précis avec Solène ; la psychiatre évalue les symptômes et les traitements.",
+      "NSW Health, How can I communicate with someone experiencing psychosis?, section « When supporting someone experiencing psychosis » : parler clairement, écouter et accueillir l’émotion, éviter le débat sur le contenu de la croyance ou de la perception, accepter un refus de parler et respecter l’espace de la personne. Ces conseils de communication ne remplacent ni l’évaluation ni l’appel en cas d’urgence.",
+      "OMS, résumé d’orientation sur les services communautaires (2021), « Vue d’ensemble » et document d’orientation : soutien axé sur la personne, ses droits et son rétablissement ; diverses formes d’appui et réseau de proximité. Les décisions, les relations et les projets de Solène ont leur propre place. Le cadre transversal ne pose pas d’équivalence entre les diagnostics.",
+      "Service Public, « Urgence : qui appeler ? » : en France, le 15 joint le Samu pour une urgence médicale et le 112 permet de joindre les secours. Dans la scène, Livia appelle le 15 immédiatement pour le malaise avec confusion, donne des faits, suit la régulation, puis l’équipe envoyée évalue et prend le relais ; elle n’attribue pas le malaise à la seule psychose.",
+      "Assurance Maladie, Que faire en cas de vertiges ?, « Vertiges : les cas où il faut consulter immédiatement » : des vertiges qui empêchent de tenir debout ou s’accompagnent de troubles de la conscience demandent une consultation immédiate. Ce repère s’ajoute à Service Public pour le numéro d’urgence, sans donner une cause au malaise de la fiction.",
+      "Service Public, Médecine du travail pour un salarié du secteur privé, « Un salarié peut-il lui-même contacter la médecine du travail ? » et « La médecine du travail peut-elle imposer des mesures à l’employeur ? » : le salarié peut joindre le service directement et le médecin du travail peut proposer un aménagement du poste ou du temps de travail. Service Public, Secret médical, « Médecine du travail » : le médecin du travail ne transmet pas à l’employeur les informations médicales recueillies lors de la visite. Le calendrier de Solène est un accord de travail contextualisé, pas un droit automatique à l’horaire demandé."
+    ]
+  },
+  "direction": "Solène a 36 ans et vit avec sa compagne Livia. Chargée de diffusion salariée d’un cinéma itinérant, elle construit une séance de films courts à partir de ce qu’un public de petite salle y verra ou y entendra. Sa connaissance du montage agit sur le récit : choix de l’ordre, silence après un plan, taille des sous-titres, place de la voix du public. Célestin est bénévole pour les essais, les projections et l’accueil. Mireille coordonne le travail. La psychiatre référente et l’équipe suivent les changements de santé ; Livia peut aider sans devenir permanente de garde. Montrer des périodes et des décisions distinctes : première demande d’aide, marge retrouvée, difficulté qui revient et relais urgent, retour discuté, projection puis traitement des retours. Les contraintes de salle, de temps et de diffusion restent réelles même quand l’état de Solène change. La conclusion lui laisse un désaccord de programmation et un suivi à venir."
+}

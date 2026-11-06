@@ -72,6 +72,34 @@
       "status": "editorially_reviewed",
       "sha256": "732c65aab09b83d25c9e31d0898933102e9c3ae7a1a978c7c44eee1ae2f554a6",
       "review": "Troisième vague. Qualificatif borderline vérifié, limites du proche et recours à l’équipe distingués, reprises de l’atelier et des désaccords relues."
+    },
+    "nils": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "02b96e09d4fb239da325fba0d1eb774c6ac600b9b60228c4d7415f414759dd55",
+      "dossier_sha256": "229051260dc269b6395916e836162e5a80db1185e186e1f6018f9f210a48d367",
+      "review": "Vague 4. La question des basilics mène à la première chronique. Raccords du studio, accord de diffusion, vécu psychotique et contacts de suivi vérifiés avec le dossier."
+    },
+    "solene": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "f8a1be6d56f2ea8bd8f33ce714b3ce36de4db8d6bf24d17e9857294f451284fb",
+      "dossier_sha256": "2299d7777924a1c2c78137e26dca03ba1cea0b08bb3854ec26f2e1fd7b9755f9",
+      "review": "Vague 4. Repère de durée précisé pour le premier épisode selon la CIM-11. Raccords de programmation, relais médical du malaise et partage choisi des informations vérifiés."
+    },
+    "meriem": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "157bff8507b19b01eca9c896ca751760f1d114603fa5b4b6ab4e630f9b4cda0d",
+      "dossier_sha256": "6e6a7c827afa51ed979df6eb3fedde9ebf98757768ee328bbdca1dafddb8b3e1",
+      "review": "Vague 4. Progression de la pochette vers le deuxième échange, limites de diffusion et relais après le refus vérifiés. Distinction entre reviviscence, réaction présente et trouble complexe relue."
+    },
+    "armand": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "607362b051f3509107e81073089c8e0b30e30c835cba861f8488a4baae111f80",
+      "dossier_sha256": "a2367b7192d12e6d92b2b5efa9600b163264bc3f51dce688e806326d93bb56b5",
+      "review": "Vague 4. Sort des originaux, reproduction, choix de transmission et limites de Jeanne vérifiés. La scène de confusion nouvelle appelle un relais urgent distinct du suivi de la maladie."
     }
   }
 }

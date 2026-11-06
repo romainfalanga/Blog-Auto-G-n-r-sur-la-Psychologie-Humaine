@@ -1,4 +1,4 @@
-"""Prepare clinical briefs, generate review drafts, and integrate reviewed arcs."""
+"""Prepare individual writing assignments and integrate reviewed clinical arcs."""
 from __future__ import annotations
 
 import argparse
@@ -6,11 +6,9 @@ from collections import Counter
 from datetime import date
 import hashlib
 import json
-import os
 from pathlib import Path
 import re
-from urllib.error import HTTPError
-from urllib.request import Request, urlopen
+from urllib.parse import urlsplit
 
 import yaml
 
@@ -75,6 +73,40 @@ def sources_and_characters():
     return {character['id']: character for character in catalogue['characters']}, evidence
 
 
+def dossier_path(ident):
+    return EDITORIAL / 'dossiers' / (ident+'.json')
+
+
+def character_evidence(character, shared):
+    """Keep research and editorial direction scoped to the writing agent."""
+    path = dossier_path(character['id'])
+    code = character['code']
+    if not path.exists():
+        return shared, None
+    raw = path.read_bytes()
+    profile = json.loads(raw)
+    sources, dossier, direction = profile['references'], profile['dossier'], profile['direction']
+    require(prose(direction), f'Direction individuelle manquante : {path.name}')
+    require(isinstance(sources, dict) and 'oms-cddr' not in sources, f'Références invalides : {path.name}')
+    for key, source in sources.items():
+        require(re.fullmatch(r'[a-z0-9-]+', key) and isinstance(source, dict)
+                and prose(source.get('title')) and prose(source.get('url')),
+                f'Référence incomplète : {path.name}, {key}')
+        url = urlsplit(source['url'])
+        require(url.scheme == 'https' and url.hostname and not url.username and not url.password,
+                f'Adresse de source invalide : {path.name}, {key}')
+    references = {**shared['references'], **sources}
+    refs, points = dossier['references'], dossier['points']
+    require(prose(dossier['name']) and isinstance(refs, list) and 'oms-cddr' in refs
+            and len(set(refs)) >= 2 and set(refs) <= references.keys()
+            and isinstance(points, list) and len(points) >= 3 and all(prose(point) for point in points)
+            and isinstance(dossier.get('aliases', []), list) and all(prose(v) for v in dossier.get('aliases', [])),
+            f'Dossier clinique incomplet : {path.name}')
+    return {'references':references, 'dossiers':{code:dossier}}, {
+        'direction':direction, 'sha256':hashlib.sha256(raw).hexdigest(),
+    }
+
+
 def arc_outputs(character, manifest, publication, order, evidence):
     ident, code = character['id'], character['code']
     dossier = evidence['dossiers'][code]
@@ -82,8 +114,16 @@ def arc_outputs(character, manifest, publication, order, evidence):
     episodes = manifest.get('episodes')
     require(isinstance(episodes, list) and len(episodes) == 12, f'Douze épisodes requis : {ident}')
     outputs, topics, mirrors, rows = {}, {}, {}, []
+    titles, passages = set(), set()
     for number, episode in enumerate(episodes, 1):
         validate_episode(episode, character, number, dossier)
+        title = normalized(episode['title'])
+        require(title not in titles, f'Titre répété : {ident}, épisode {number}')
+        titles.add(title)
+        for passage in (episode['opening'], episode['ending'], ' '.join(episode['mirror'])):
+            key = normalized(passage)
+            require(key not in passages, f'Passage répété : {ident}, épisode {number}')
+            passages.add(key)
         slug = episode['slug']
         identifier = f'posts/{FOLDER}/{slug}'
         require(identifier not in topics, f'Adresse répétée : {identifier}')
@@ -121,7 +161,7 @@ def arc_outputs(character, manifest, publication, order, evidence):
 
 
 def integrate(check):
-    characters, evidence = sources_and_characters()
+    characters, shared = sources_and_characters()
     reviewed = read(EDITORIAL / 'releases.json')['arcs']
     outputs, new_topics, published_codes = {}, {}, set()
     for order, (ident, release) in enumerate(reviewed.items()):
@@ -130,10 +170,13 @@ def integrate(check):
         require(character['code'] not in published_codes, f'Plusieurs parcours pour {character["code"]}')
         published_codes.add(character['code'])
         require(prose(release.get('review')) and release.get('status') == 'editorially_reviewed', f'Relecture documentée nécessaire : {ident}')
-        manifest_path = EDITORIAL / (ident+'.json')
-        require(hashlib.sha256(manifest_path.read_bytes()).hexdigest() == release['sha256'], f'Manuscrit modifié depuis la relecture : {ident}')
+        manuscript = (EDITORIAL / (ident+'.json')).read_bytes()
+        require(hashlib.sha256(manuscript).hexdigest() == release['sha256'], f'Manuscrit modifié depuis la relecture : {ident}')
+        evidence, dossier_review = character_evidence(character, shared)
+        digest = dossier_review['sha256'] if dossier_review else None
+        require(digest == release.get('dossier_sha256'), f'Dossier modifié depuis la relecture : {ident}')
         publication = date.fromisoformat(release['date']).isoformat()
-        arc, topics = arc_outputs(character, read(manifest_path), publication, order, evidence)
+        arc, topics = arc_outputs(character, json.loads(manuscript), publication, order, evidence)
         require(not (outputs.keys() & arc.keys()), f'Collision de chemins : {ident}')
         outputs.update(arc)
         new_topics.update(topics)
@@ -159,62 +202,71 @@ def integrate(check):
 
 
 def brief(ident):
-    characters, evidence = sources_and_characters()
+    characters, shared = sources_and_characters()
     require(ident in characters, f'Personnage inconnu : {ident}')
     character = characters[ident]
+    evidence, individual = character_evidence(character, shared)
     dossier = evidence['dossiers'].get(character['code'])
+    path = EDITORIAL / (ident+'.json')
+    episodes = read(path)['episodes'] if path.exists() else []
     return {
-        'character':character, 'dossier':dossier,
+        'agent_id':'redaction-'+ident, 'character':character,
+        'direction':individual['direction'] if individual else None, 'dossier':dossier,
         'references':{ref:evidence['references'][ref] for ref in dossier['references']} if dossier else {},
+        'charter':(EDITORIAL / 'charter.md').read_text(),
+        'files':{'manuscript':str(path.relative_to(ROOT)), 'dossier':str(dossier_path(ident).relative_to(ROOT))},
+        'episode_fields':[*ARTICLE_KEYS, 'ending_title'],
+        'total_episodes':12,
+        'continuity':[{'number':e['number'], 'title':e['title'], **e['continuity']} for e in episodes],
         'ready_to_draft':bool(dossier),
         'instruction':'Rédiger les épisodes dans l’ordre et consigner les choix à reprendre.' if dossier else 'Vérifier les sources cliniques et renseigner un dossier avant de lancer la rédaction.',
     }
 
 
-def provider(system, payload):
-    key = os.environ.get('OPENROUTER_API_KEY')
-    model = os.environ.get('CLINICAL_EDITOR_MODEL') or 'openai/gpt-5-mini'
-    require(key, 'Configurer OPENROUTER_API_KEY dans GitHub Actions.')
-    request = Request(
-        'https://openrouter.ai/api/v1/chat/completions',
-        data=json.dumps({'model':model,'messages':[{'role':'system','content':system},{'role':'user','content':json.dumps(payload,ensure_ascii=False)}],
-                         'response_format':{'type':'json_object'},'max_tokens':4200}).encode(),
-        headers={'Authorization':'Bearer '+key,'Content-Type':'application/json'},
-        method='POST',
-    )
-    try:
-        with urlopen(request, timeout=100) as response:
-            result = json.load(response)
-    except HTTPError as exc:
-        raise ValueError(f'Le fournisseur a refusé la requête (HTTP {exc.code}).') from None
-    choice = result['choices'][0]
-    require(choice['finish_reason'] == 'stop', 'Le fournisseur a interrompu la rédaction.')
-    return json.loads(choice['message']['content'])
+def validate_manuscript(ident, publication):
+    characters, shared = sources_and_characters()
+    require(ident in characters, f'Personnage inconnu : {ident}')
+    character = characters[ident]
+    path = EDITORIAL / (ident+'.json')
+    require(path.exists(), f'Manuscrit absent : {ident}')
+    evidence, dossier_review = character_evidence(character, shared)
+    require(character['code'] in evidence['dossiers'], f'Dossier clinique absent : {ident}')
+    manuscript = path.read_bytes()
+    arc_outputs(character, json.loads(manuscript), publication, 0, evidence)
+    hashes = {'sha256':hashlib.sha256(manuscript).hexdigest()}
+    if dossier_review:
+        hashes['dossier_sha256'] = dossier_review['sha256']
+    return hashes
 
 
-def draft(ident, count, output):
-    pack = brief(ident)
-    require(pack['ready_to_draft'], 'Le dossier clinique de ce personnage doit être vérifié avant rédaction.')
-    require(not output.resolve().is_relative_to(ROOT), 'Écrire les brouillons en dehors du dépôt.')
-    require(1 <= count <= 12, 'Entre un et douze épisodes par exécution.')
-    manuscript = read(output) if output.exists() else {'character_id':ident,'bio':'','episodes':[]}
-    require(manuscript['character_id'] == ident and len(manuscript['episodes']) <= count, 'Ce fichier contient un autre brouillon ou plus d’épisodes.')
-    system = (EDITORIAL / 'charter.md').read_text() + '\nRends un objet JSON {bio, episode}. Champs de episode : '+', '.join(ARTICLE_KEYS)+', ending_title. sections est un tableau {heading,text}. mirror est une liste de paragraphes. sources reprend les identifiants fournis. continuity est un objet {choice,next}. Aucune autre clé.'
-    for number, episode in enumerate(manuscript['episodes'], 1):
-        validate_episode(episode,pack['character'],number,pack['dossier'])
-    for number in range(len(manuscript['episodes'])+1, count+1):
-        payload = {**pack,'number':number,'total_episodes':12,'previous':[{'number':e['number'],'title':e['title'],'continuity':e['continuity']} for e in manuscript['episodes']]}
-        result = provider(system,payload)
-        episode = result['episode']
-        validate_episode(episode,pack['character'],number,pack['dossier'])
-        require(all(e['slug'] != episode['slug'] for e in manuscript['episodes']), 'Adresse répétée dans le brouillon.')
-        if not manuscript['bio']:
-            require(prose(result.get('bio')), 'Présentation manquante.')
-            manuscript['bio'] = result['bio']
-        manuscript['episodes'].append(episode)
-        output.parent.mkdir(parents=True, exist_ok=True)
-        output.write_text(dump(manuscript))
-        print(f'{ident} : épisode {number} prêt à relire.', flush=True)
+def record_review(ident, publication, note):
+    require(prose(note), 'Observations de relecture requises.')
+    path = EDITORIAL / 'releases.json'
+    registry = read(path)
+    hashes = validate_manuscript(ident, publication)
+    release = {'date':publication, 'status':'editorially_reviewed', **hashes, 'review':note}
+    registry['arcs'][ident] = release
+    path.write_text(dump(registry))
+
+
+def progress():
+    characters, shared = sources_and_characters()
+    reviewed = read(EDITORIAL / 'releases.json')['arcs']
+    counts = Counter()
+    pending = []
+    for ident, character in characters.items():
+        path = EDITORIAL / (ident+'.json')
+        count = len(read(path)['episodes']) if path.exists() else 0
+        has_dossier = character['code'] in shared['dossiers'] or dossier_path(ident).exists()
+        counts['episodes_written'] += count
+        counts['dossiers'] += has_dossier
+        counts['complete'] += count == 12
+        if ident not in reviewed:
+            pending.append({'id':ident, 'code':character['code'], 'wave':character['wave'],
+                            'episodes':count, 'has_dossier':has_dossier})
+    return {'planned_arcs':len(characters), 'planned_episodes':len(characters)*12,
+            'reviewed':len(reviewed), 'reviewed_episodes':len(reviewed)*12,
+            **counts, 'pending':pending}
 
 
 def main():
@@ -222,19 +274,26 @@ def main():
     sub = parser.add_subparsers(dest='action',required=True)
     sub.add_parser('check')
     sub.add_parser('integrate')
-    make_brief = sub.add_parser('brief')
+    make_brief = sub.add_parser('brief', aliases=['agent'])
     make_brief.add_argument('character')
-    make_draft = sub.add_parser('draft')
-    make_draft.add_argument('character')
-    make_draft.add_argument('--episodes',type=int,default=12)
-    make_draft.add_argument('--output',type=Path,required=True)
+    sub.add_parser('progress')
+    validate = sub.add_parser('validate')
+    validate.add_argument('character')
+    review = sub.add_parser('record-review')
+    review.add_argument('character')
+    review.add_argument('--date',required=True)
+    review.add_argument('--note',required=True)
     args = parser.parse_args()
     if args.action in {'check','integrate'}:
         integrate(check=args.action=='check')
-    elif args.action=='brief':
+    elif args.action in {'brief','agent'}:
         print(dump(brief(args.character)),end='')
+    elif args.action=='progress':
+        print(dump(progress()),end='')
+    elif args.action=='validate':
+        print(dump(validate_manuscript(args.character,date.today().isoformat())),end='')
     else:
-        draft(args.character,args.episodes,args.output)
+        record_review(args.character,date.fromisoformat(args.date).isoformat(),args.note)
 
 
 if __name__ == '__main__':
