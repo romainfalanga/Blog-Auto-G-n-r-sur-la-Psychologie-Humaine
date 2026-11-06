@@ -44,4 +44,4 @@ V10 : [plan, revue et validation](docs/plan-ambre-v10.md), [audit de couverture]
 
 [Plan de refonte de l’espace personnel](docs/plan-espace-ambre-v14.md).
 
-[Plan de navigation, proches et parcours cliniques](docs/plan-v17.md) · [Cartographie clinique](docs/cartographie-clinique-v17.md).
+[Plan de navigation, proches et parcours cliniques](docs/plan-v17.md) · [Cartographie clinique](docs/cartographie-clinique-v17.md) · [Audit comparatif des troubles et des mécanismes](docs/audit-comparatif-couverture.md).
