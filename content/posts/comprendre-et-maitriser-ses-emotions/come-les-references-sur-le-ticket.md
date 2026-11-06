@@ -27,22 +27,85 @@ Côme reconnaît les joints de cocotte à l’odeur du carton où on les range. 
 
 Côme a reçu un message de Nadège à midi. Elle a récupéré un plateau de bois clair donné à l’atelier. Elle peut le lui montrer à dix-sept heures et demie, avant de libérer le passage pour un autre groupe. Elle lui demande de venir avec son gabarit. Côme regarde le tiroir où il a rangé le carton plié. Il voudrait dire oui à Inès. Il se rappelle le matin où elle a ouvert sans lui et la façon dont elle a dû repousser sa pause. Il se rend compte qu’il ne sait même pas jusqu’à quelle heure il lui faudrait rester.
 
-« Je peux jusqu’à dix-sept heures, comme prévu. Je peux préparer le bac pour que tu n’aies qu’à vérifier les deux joints. » Inès soupire ; elle aurait préféré avoir deux mains de plus. Elle lui demande de ne pas ranger les sachets de l’ancien modèle dans le même compartiment que les nouveaux. Côme sort un rouleau d’étiquettes et commence par retrouver le numéro de la cocotte d’une cliente. À la place de « joint, deux pièces », il écrit la référence complète et lui montre où il l’a mise.
+« Je peux jusqu’à dix-sept heures, comme prévu. Je peux préparer le bac pour que tu n’aies qu’à vérifier les deux joints. » Inès soupire. Elle aurait préféré avoir deux mains de plus. Elle lui demande de ne pas ranger les sachets de l’ancien modèle dans le même compartiment que les nouveaux. Côme sort un rouleau d’étiquettes et commence par retrouver le numéro de la cocotte d’une cliente. À la place de « joint, deux pièces », il écrit la référence complète et lui montre où il l’a mise.
 
 ## Réparer les conséquences du jeu à sa mesure
 
-Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie. Côme a été en retard après une nuit qu’il n’avait pas réussi à écourter. Ce mardi, il est à son poste et la livraison est en retard pour une autre raison. Il peut prendre au sérieux l’ouverture qu’il a manquée et répondre séparément à la demande d’Inès. Son horaire de fin est déjà fixé ; il choisit de dire ce qu’il peut faire d’ici là.
+Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie. Côme a été en retard après une nuit qu’il n’avait pas réussi à écourter. Ce mardi, il est à son poste et la livraison est en retard pour une autre raison. Il peut prendre au sérieux l’ouverture qu’il a manquée et répondre séparément à la demande d’Inès. Son horaire de fin est déjà fixé. Il choisit de dire ce qu’il peut faire d’ici là.
 
-## Comment cette difficulté se manifeste
+## Comment un retard passé peut-il peser sur les engagements suivants ?
 
-Le choix le met mal à l’aise. Depuis le matin où Inès a ouvert seule, il aimerait lui montrer qu’elle peut compter sur lui. S’il dit oui à un horaire qu’il ne connaît pas, il risque de perdre son rendez-vous sans savoir ce qu’il aura apporté à la boutique. En notant la référence des pièces, il donne à Inès une information qui lui sera utile même s’il n’est plus là.
+### Le souvenir d’une conséquence guide la réponse
 
-## Deux lieux où il peut demander des choses différentes
+Se rappeler l’effort demandé au collègue peut donner envie d’accepter aussitôt.
 
-Inès peut poser ses conditions pour travailler et Côme peut poser les siennes, comme ils viennent de le faire. Les questions de planning reviennent à la personne qui l’organise si les demandes ne sont pas compatibles. La consultation, elle, peut reprendre avec Côme ses difficultés autour du sommeil et de la sortie du jeu. Il n’est pas obligé de relier ces conversations devant le comptoir.
+**Exemples concrets**
 
-En préparant les commandes, Côme s’aperçoit qu’il a tenu les ouvertures depuis son dernier retard. Le plateau manqué à la ressourcerie reste un autre fait. Au rendez-vous de suivi, il peut apporter les deux observations : ce qui a recommencé malgré l’essai du jeudi, et ce qu’il parvient à tenir à la boutique. Elles décrivent deux moments de sa vie avec la même précision.
+- Côme pense à la pause qu’Inès n’a pas pu prendre.
+- Quelqu’un dit oui à un remplacement par crainte qu’on lui reproche son dernier retard.
+
+### Les causes de deux problèmes se mélangent
+
+Un retard dû à une nuit de jeu et une livraison tardive n’appellent pas forcément le même geste.
+
+**Exemples concrets**
+
+- Côme est à l’heure aujourd’hui, mais le transporteur tarde.
+- Une personne s’attribue une tâche ajoutée par un changement d’organisation.
+
+### Une promesse trop large crée un nouveau risque
+
+Réparer ne donne pas automatiquement plus de temps.
+
+**Exemples concrets**
+
+- Côme ignore jusqu’à quelle heure il faudrait rester.
+- Un collègue accepte une permanence puis découvre qu’il doit manquer un engagement.
+
+## 3 techniques pour réparer un tort avec un engagement tenable
+
+### 1. Séparer les faits dans le temps
+
+Identifier ce qui demande réellement réparation.
+
+**Exercice pratique**
+
+- Rappelez le retard qui vous concernait.
+- Nommez la cause du problème actuel si elle est connue.
+- Demandez ce qu’il est possible de faire aujourd’hui.
+
+L’échange peut rester centré sur le besoin du jour.
+
+### 2. Donner une limite vérifiable
+
+Éviter de promettre un temps dont on ne dispose pas.
+
+**Exercice pratique**
+
+- Consultez votre horaire.
+- Indiquez l’heure à laquelle vous devez partir.
+- Proposez une tâche faisable d’ici là.
+
+Le collègue peut organiser la suite à partir d’une limite claire.
+
+### 3. Préparer le relais
+
+Réparer le fonctionnement plutôt que tout prendre en charge.
+
+**Exercice pratique**
+
+- Notez les références vérifiées.
+- Montrez où se trouve le matériel.
+- Dites ce qu’il reste à traiter.
+
+La personne suivante peut reprendre sans recommencer les vérifications.
 
 ## La référence et le carton plié
 
-Avant de partir, Côme pose le bac préparé devant Inès et lui montre les deux références sur un ticket. Elle confirme qu’elle sait où chercher et qu’elle demandera à la responsable comment finir le rayon si la livraison tarde encore. À l’atelier, Nadège a posé le bois clair sur deux supports. Côme déplie son carton dessus : les traits de Florian tiennent dedans. Le plateau porte une rayure qui s’arrête au milieu. Il choisit de la garder. Nadège lui réserve un créneau pour monter le plateau et faire un essai avant de recevoir du monde.
+Avant de partir, Côme pose le bac préparé devant Inès et lui montre les deux références sur un ticket. Elle confirme qu’elle sait où chercher et qu’elle demandera à la responsable comment finir le rayon si la livraison tarde encore. À l’atelier, Nadège a posé le bois clair sur deux supports. Côme déplie son carton dessus. Les traits de Florian tiennent dedans. Le plateau porte une rayure qui s’arrête au milieu. Il choisit de la garder. Nadège lui réserve un créneau pour monter le plateau et faire un essai avant de recevoir du monde.
+
+---
+
+**Conclusion**
+
+Côme prend au sérieux l’ouverture qu’il a manquée et garde aujourd’hui l’horaire convenu. Inès peut s’appuyer sur le ticket. À l’atelier, le plateau est prêt pour un essai avec les amis.

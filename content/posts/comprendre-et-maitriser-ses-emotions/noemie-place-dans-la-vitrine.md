@@ -32,18 +32,79 @@ Elle ne regarde plus le trajet de l’enfant ni la légende. Le joint entre les 
 
 Un goût peut être fort. Noémie aimerait que les bords se répondent et que le regard suive le canal. Elle peut expliquer ce choix, entendre l’idée d’Aïcha et préférer malgré tout sa première disposition. Une compulsion peut se manifester par l’impression pressante qu’il faut refaire un geste selon une règle ou continuer jusqu’à obtenir une sensation de justesse.
 
-## Comment cette difficulté se manifeste
+## Comment l’impression d’inachevé transforme-t-elle un geste ordinaire ?
 
-Dans le second moment de la scène, Noémie a perdu de vue la personne qui lira la légende. Elle déplace de nouveau la feuille pour trouver une sensation de fin qui lui échappe.
+### Une préférence qui peut se discuter
 
-La compulsion ne suppose pas toujours la crainte explicite d’un accident. La CIM-11 inclut des actes poussés par le besoin de sentir que quelque chose est enfin complet. Aimer l’ordre ou consacrer du soin à une composition fait aussi partie d’une vie ordinaire. Lors d’une évaluation, la professionnelle regarde l’ensemble des symptômes, leur persistance et leur retentissement. Aïcha peut discuter de l’alignement sans essayer de classer chacun des gestes de Noémie.
+Un goût fort laisse parfois une place à une autre proposition.
 
-## Nommer les critères qui relèvent du métier
+**Exemples concrets**
 
-La règle qui protège la carte originale répond à une situation observable. Noémie connaît l’état du papier et doit obtenir une validation précise avant l’installation. Elle peut chercher cette réponse avec son équipe. Le besoin de déplacer plusieurs fois les reproductions sur la table lui pose une autre question, qu’elle peut rapporter à sa clinicienne. Le cadre de soin tient compte de ces contraintes du travail. Aucun contrôle requis pour la conservation n’est retiré au titre du suivi.
+- Noémie préfère l’alignement initial et comprend l’idée de rapprocher la légende des enfants.
+- Deux collègues peuvent défendre des mises en page différentes et décider ensemble.
 
-Aïcha et Noémie décident de reporter sur leur plan l’état du support, le passage du public et la lisibilité des textes. Elles gardent leurs préférences de présentation dans la discussion. La trace écrite servira à transmettre le projet à l’équipe, avec une responsabilité pour chaque question encore ouverte. Pour sa part, Noémie souhaite pouvoir expliquer en consultation à quel moment son geste a cessé de servir la disposition de la salle.
+### Une gêne qui persiste après le choix
+
+La sensation d’inachevé peut pousser à reprendre une disposition déjà acceptable.
+
+**Exemples concrets**
+
+- Noémie déplace les reproductions, puis remet la première où elle était.
+- Une personne peut revenir sur un objet qu’elle a déjà posé à sa place.
+
+### Une attention qui quitte le but du travail
+
+Le geste répété peut répondre surtout à la recherche d’une sensation de justesse.
+
+**Exemples concrets**
+
+- Le trajet de l’enfant et le texte disparaissent derrière l’écart entre les feuilles.
+- Dans une autre maquette, un détail peut occuper davantage que la lisibilité d’ensemble.
+
+## 3 techniques pour retrouver les critères utiles à la maquette
+
+### 1. Nommer ce qui doit être validé
+
+Préserver la conservation des originaux.
+
+**Exercice pratique**
+
+- Retrouver la note sur la déchirure.
+- Transmettre le point au service compétent.
+- Laisser la réponse du service guider la mise en vitrine.
+
+Les règles de métier gardent leur portée.
+
+### 2. Décrire le choix de présentation
+
+Redonner à la discussion un objectif visible.
+
+**Exercice pratique**
+
+- Regarder d’où l’enfant lira la légende.
+- Proposer une disposition à Aïcha.
+- Garder l’autre essai dans le carnet si on y tient.
+
+Le goût de Noémie peut rester une contribution à la décision.
+
+### 3. Parler de la sensation persistante
+
+Situer ce qui donne envie de recommencer.
+
+**Exercice pratique**
+
+- Choisir un exemple où la disposition convenait déjà.
+- Décrire la gêne qui est restée.
+- Demander comment l’équipe de soins comprend ce moment.
+
+La consultation peut explorer un ressort différent de la peur d’un accident.
 
 ## Deux dispositions à comparer
 
 Aïcha déplie le plan près de la fenêtre. Noémie montre où le dessin de l’escalier pourrait faire respirer la légende et propose de laisser les marges telles quelles pour cette maquette. Elle conserve dans son carnet un autre essai de présentation, qu’elle trouve plus beau. Elles apportent au service le point sur le support de la carte. En fin de journée, Maud lui écrit qu’elle est partie acheter le dîner. Noémie regarde le message et pense à la porte de leur appartement.
+
+---
+
+**Conclusion**
+
+La question du support va au service et la maquette peut avancer. Le sentiment d’inachevé donne à Noémie un autre exemple de ce qui la pousse à reprendre un geste. Plus tard, avec Maud, ce sera une réponse qui semblera incomplète.

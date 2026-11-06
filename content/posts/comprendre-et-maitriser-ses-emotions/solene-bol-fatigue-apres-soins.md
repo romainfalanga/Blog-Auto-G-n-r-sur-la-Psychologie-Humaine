@@ -29,22 +29,83 @@ Depuis son retour chez elle après la prise en charge aux urgences puis en servi
 
 Livia demande si Solène veut toujours passer à l’atelier. Elle a une deuxième pièce à récupérer et peut y aller seule. Solène n’a pas envie de passer une matinée entière dehors. Elle se demande si elles pourraient boire un chocolat au comptoir d’en face, dix minutes, après le rendez-vous. Elle aimerait garder une partie de la journée qui ne se passe ni au cabinet ni autour d’un planning.
 
-## Rapporter la fatigue sans devoir en trouver la cause
+## Distinguer somnolence, humeur et fatigue
 
-Après une période de soins plus rapprochés, ce que la personne peut faire et ce qui lui demande un effort peuvent continuer d’évoluer. Le CDDR de l’OMS décrit des périodes d’amélioration avec ou sans symptômes persistants dans le trouble schizoaffectif. Le retour de Solène chez elle ne permet pas de dire ce que signifie sa fatigue. Il lui donne de nouveaux exemples à discuter : le moment où elle somnole, ce qu’elle arrive à faire dans l’après-midi et ce qui se passe quand elle se repose.
+La fatigue après des soins peut avoir plusieurs explications. Chez une personne suivie pour un trouble schizoaffectif, l’équipe peut explorer le sommeil, l’humeur, les traitements et d’autres causes médicales. Une note sur la somnolence du matin décrit un effet concret. Elle permet à Solène d’en parler sans avoir à conclure elle-même à une rechute ni à modifier un soin.
 
-Le guide de suivi mhGAP invite à revoir l’état général, le fonctionnement dans la vie quotidienne et les éventuels effets indésirables des traitements.
+## Comment décrire la fatigue sans conclure sur sa cause ?
 
-## Comment cette difficulté se manifeste
+### La somnolence survient à un moment précis
 
-Solène peut dire qu’elle aimerait que l’on cherche avec elle d’où vient cette fatigue. Si elle s’interroge sur un traitement, elle pose la question à la prescriptrice et convient avec elle de la suite. La façon dont elle passe un matin est utile à la consultation. Elle n’a pas à en tirer elle-même une décision de traitement.
+Dire quand on a envie de se recoucher aide davantage qu’une impression générale.
 
-## Proposer une visite qui peut s’écourter
+**Exemples concrets**
 
-Livia peut récupérer son travail à l’atelier, et les deux femmes peuvent se retrouver ensuite au comptoir si Solène en a l’énergie. Elles choisissent ensemble un moment et une façon simple d’annuler. Solène peut vouloir cette sortie et garder la possibilité de changer d’avis en sortant du cabinet. Ce choix n’a aucune incidence sur le rendez-vous de santé prévu.
+- Solène remarque la lourdeur après le petit déjeuner.
+- Quelqu’un pourrait noter qu’il peine à garder les yeux ouverts à la lecture du matin.
 
-Mireille a écrit pour savoir si Solène souhaitait recevoir des nouvelles de la médiathèque avant leur prochain échange. Solène peut lui répondre qu’elle aimerait recevoir la date envisagée et qu’elle attendra la réunion prévue pour parler de sa reprise. Le comptoir et les horaires du cinéma ne demandent pas le même engagement. La médecine du travail peut être sollicitée pour discuter des conditions de reprise ; un essai de sortie ne décide pas de ces conditions.
+### L’envie et l’énergie ne coïncident pas toujours
+
+Une personne peut vouloir sortir tout en manquant d’énergie pour la durée prévue.
+
+**Exemples concrets**
+
+- Solène souhaite voir Livia et renonce à la matinée entière à l’atelier.
+- On pourrait avoir envie d’un appel et écourter la conversation parce qu’on est épuisé.
+
+### Les effets se voient dans de petits gestes
+
+Les faits du quotidien aident à préciser la gêne et son intensité.
+
+**Exemples concrets**
+
+- Le dernier bouton de la chemise reste défait alors que Solène se prépare à partir.
+- Une personne pourrait s’interrompre au milieu d’un repas qu’elle prépare facilement d’ordinaire.
+
+## 3 techniques pour faire examiner une fatigue qui gêne la journée
+
+### 1. Garder un exemple daté
+
+Préciser quand et comment la fatigue se manifeste.
+
+**Exercice pratique**
+
+- Notez l’heure approximative où elle arrive.
+- Écrivez la tâche interrompue ou reportée.
+- Ajoutez comment vous aviez dormi si vous vous en souvenez.
+
+Ces détails peuvent guider les questions du soignant.
+
+### 2. Ouvrir une question sur les causes possibles
+
+Examiner la fatigue avec l’équipe sans modifier seul le suivi ou le traitement.
+
+**Exercice pratique**
+
+- Lisez votre exemple en consultation.
+- Demandez ce qui peut être vérifié.
+- Convenez de quand rappeler si la gêne augmente.
+
+La consultation peut aboutir à un suivi plus ciblé.
+
+### 3. Choisir une version plus courte de la sortie
+
+Garder une activité qui compte dans la marge du jour.
+
+**Exercice pratique**
+
+- Dites quelle partie vous aimeriez conserver.
+- Proposez une durée et un lieu qui vous conviennent.
+- Laissez la possibilité de reporter si besoin.
+
+L’adaptation peut permettre un moment partagé malgré la fatigue.
 
 ## Dix minutes au comptoir
 
-Au cabinet, Solène lit sa note sur la somnolence. La docteure reprend ce point avec elle, fixe un contact pour le réévaluer et indique quand rappeler plus tôt. En sortant, Solène écrit à Livia « J’ai envie d’essayer le comptoir. » Elles se retrouvent sans passer par l’atelier. Dix minutes plus tard, Livia cherche ses pièces et Solène lui montre où la serveuse a laissé la coupelle. Elle envoie ensuite à Mireille le message qu’elle avait préparé : elle veut connaître la date que propose la médiathèque et discuter des horaires au rendez-vous de reprise.
+Au cabinet, Solène lit sa note sur la somnolence. La docteure reprend ce point avec elle, fixe un contact pour le réévaluer et indique quand rappeler plus tôt. En sortant, Solène écrit à Livia « J’ai envie d’essayer le comptoir. » Elles se retrouvent sans passer par l’atelier. Dix minutes plus tard, Livia cherche ses pièces et Solène lui montre où la serveuse a laissé la coupelle. Elle envoie ensuite à Mireille le message qu’elle avait préparé pour connaître la date que propose la médiathèque et discuter des horaires au rendez-vous de reprise.
+
+---
+
+**Conclusion**
+
+Solène peut dire qu’elle somnole et garder le plaisir de retrouver Livia au comptoir. La psychiatre examine la première question. Au travail, l’effort disponible va déterminer les horaires, et Livia peut aider en laissant ouvertes les formes d’une sortie.

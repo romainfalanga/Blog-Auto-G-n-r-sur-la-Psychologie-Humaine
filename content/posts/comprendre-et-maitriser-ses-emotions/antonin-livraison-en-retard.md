@@ -34,18 +34,79 @@ Eva veut prévenir le professeur avant le cours du soir. Elle lui demande combie
 
 Un retard peut créer de vraies difficultés d’organisation et laisser en suspens plusieurs décisions. L’inquiétude d’Antonin s’appuie ici sur une livraison qui a changé et sur un groupe à prévenir. Le seuil repris et la porte attendue relèvent du chantier. L’ouverture reste soumise aux validations prévues.
 
-## Comment cette difficulté se manifeste
+## Comment l’incertitude prend-elle de la place avant une décision ?
 
-Antonin peut faire remonter le retard et demander quand viendra la prochaine information, tandis qu’Eva et lui examinent les salles qui peuvent effectivement être utilisées.
+### Des réponses sont encore indisponibles
 
-L’inquiétude occupe une autre part de son temps quand il imagine devoir expliquer un manquement dont personne ne lui a parlé. Il voudrait répondre à cette éventualité avant de prévenir les musiciens. Son médecin peut l’aider à décrire cet enchaînement et son coût. Pour le professeur, l’information utile tient pour l’instant au créneau confirmé, à sa durée provisoire et à la personne qui le rappellera.
+L’absence d’une date peut donner envie de chercher davantage de détails, même lorsque l’information dépend d’un autre interlocuteur.
 
-## Prévoir une réponse provisoire et son prochain point
+**Exemples concrets**
 
-L’équipe peut vérifier une disponibilité avec la personne qui gère les salles et transmettre une proposition pour le premier mardi. Les autres dates restent ouvertes. Un message peut indiquer quand l’école réexaminera la question. Si le retard se prolonge, la direction pourra discuter d’autres priorités avec l’équipe. Aucun changement de salle ne devrait conduire à dépasser la capacité prévue ou à utiliser un local encore fermé.
+- Le fournisseur attend un point avec son atelier avant de donner une estimation.
+- Antonin commence à demander l’heure de livraison et le nom du premier ouvrier.
 
-Antonin peut dire à Eva quelles décisions il a la possibilité de prendre et lui laisser les échanges qu’elle a déjà acceptés. Il peut aussi garder le contact prévu avec le fournisseur, une tâche distincte. Les réponses seront révisées si un élément nouveau arrive. Cette organisation sert à informer les personnes concernées sans faire porter à Antonin la date que l’entreprise ignore encore.
+### Les conséquences se multiplient
+
+Le retard peut conduire à prévoir des réactions et des demandes qui restent hypothétiques.
+
+**Exemples concrets**
+
+- Antonin se représente déjà la question de la direction sur ce qu’il a fait pour accélérer.
+- Il imagine devoir prolonger toutes les répétitions provisoires avant de vérifier le mardi déjà possible.
+
+### La décision disponible passe au second plan
+
+La date inconnue peut occuper l’attention au moment de prendre un engagement plus court.
+
+**Exemples concrets**
+
+- Eva montre le premier mardi libre pendant qu’Antonin regarde le suivant.
+- Les élèves jouent le morceau qu’il cherchait et il garde les yeux sur son brouillon.
+
+## 3 techniques pour décider avec les informations disponibles
+
+### 1. Fixer le prochain point d’information
+
+Situer quand une estimation deviendra possible.
+
+**Exercice pratique**
+
+- Notez le retour annoncé par le fournisseur.
+- Gardez la question qui demande une réponse après ce point.
+- Transmettez à l’équipe ce qu’elle peut déjà savoir.
+
+L’attente peut être délimitée par un échange prévu.
+
+### 2. Proposer un seul créneau confirmé
+
+Maintenir une répétition dans une salle en service.
+
+**Exercice pratique**
+
+- Vérifiez la disponibilité réelle du premier mardi.
+- Faites prévenir le professeur par la personne convenue.
+- Présentez les dates suivantes comme encore à confirmer.
+
+Le groupe peut préparer un essai à partir d’un accord clair.
+
+### 3. Identifier l’autorité pour la reprise
+
+Laisser les décisions techniques aux interlocuteurs prévus.
+
+**Exercice pratique**
+
+- Distinguez les salles déjà ouvertes du local en chantier.
+- Vérifiez qui peut autoriser un échange de salle.
+- Attendez les contrôles et la validation pour annoncer la réouverture.
+
+Les engagements peuvent avancer à l’intérieur des conditions de sécurité.
 
 ## Un mardi reste possible
 
 Eva contacte le professeur pour le premier mardi. Antonin note le prochain point annoncé par le fournisseur et transmet le retard à la direction. Il supprime de son brouillon les demandes qui n’ont pas encore de réponse. Dans le couloir, les deux élèves ont cessé de jouer. Il retrouve le titre du morceau sur la partition qu’ils ont laissée ouverte avec leur professeur. Il demandera à Eva si elle a retrouvé la personne qui avait joué à cette audition. La date de réouverture reste vide.
+
+---
+
+**Conclusion**
+
+Un mardi peut être proposé pendant que la date de la porte reste inconnue. Eva a une information utile pour le groupe. Antonin peut garder le reste pour les interlocuteurs qui auront effectivement une réponse.

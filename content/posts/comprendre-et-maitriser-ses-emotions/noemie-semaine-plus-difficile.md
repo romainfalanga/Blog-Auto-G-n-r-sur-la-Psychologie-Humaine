@@ -32,18 +32,79 @@ Elle avait espéré que ses premières séances rendraient cette semaine plus si
 
 Le temps consacré aux compulsions et la gêne qu’elles entraînent peuvent changer au fil du suivi. Une situation vécue différemment au cinéma ne permet pas de prévoir ce qui se passera devant un texte à livrer.
 
-## Comment cette difficulté se manifeste
+## Comment les compulsions peuvent-elles reprendre pendant une semaine chargée ?
 
-En consultation, Noémie peut raconter plusieurs moments de la semaine. Le nombre de fois où elle a demandé la feuille ne dit qu’une partie de ce qui lui coûte. Elle a aussi perdu du temps avant de prendre une décision, quitté le travail plus tard et dessiné moins souvent qu’elle n’en avait envie.
+### Des vérifications plus longues que la tâche
 
-La clinicienne peut reprendre avec elle les situations qui posent problème, le travail convenu en séance et les objectifs qu’elle avait choisis. Elles pourront discuter de ce qui lui paraît encore adapté et de ce qui appelle un changement. La charge de l’exposition fait partie du contexte. Cette observation à elle seule ne permet pas d’établir la raison de chaque fluctuation.
+Le doute peut revenir même quand une correction a été effectuée.
 
-## Formuler des demandes différentes au cabinet et au travail
+**Exemples concrets**
 
-Noémie aimerait savoir si son rendez-vous peut être avancé. Elle peut dire combien d’activités de la semaine ont été touchées, y compris à la maison. Si aucun créneau n’est disponible plus tôt, elle peut demander quel contact utiliser si la gêne devient plus lourde. Le contenu et le rythme du soin se décident avec la clinicienne. Noémie n’a pas à reprendre seule les exercices du cabinet pour rattraper cette semaine.
+- Noémie redemande la feuille sur laquelle elle a changé la date.
+- Un document envoyé peut encore occuper du temps après la confirmation de sa version.
 
-Au travail, elle peut demander à Aïcha de préciser la version qu’elles doivent valider, qui la garde et quel texte peut attendre. Le choix de relire les deux légendes repose sur ce qui doit être livré. Noémie peut aussi dire si le temps lui manque pour une autre tâche. Aïcha peut répondre à la question d’organisation tout en laissant à Noémie la possibilité de parler du reste à la personne qui la suit.
+### Une gêne qui gagne les heures de repos
+
+Une période difficile peut déborder du contexte où elle est apparue.
+
+**Exemples concrets**
+
+- Le cahier de croquis reste sous le sac pendant plusieurs retours.
+- Une personne peut rentrer et repousser de nouveau un loisir familier.
+
+### Un écart avec des moments plus faciles
+
+Un appui qui a fonctionné ailleurs ne prédit pas la semaine suivante.
+
+**Exemples concrets**
+
+- Noémie se rappelle le cinéma et voit ce que demandent les panneaux aujourd’hui.
+- Une personne peut avoir parlé du doute avec un proche et sentir de nouveau le besoin d’aide devant une tâche à livrer.
+
+## 3 techniques pour revoir ses appuis quand le doute reprend du temps
+
+### 1. Décrire ce qui a changé
+
+Donner à la clinicienne un aperçu de plusieurs jours.
+
+**Exercice pratique**
+
+- Choisir un exemple au travail.
+- Ajouter un effet après le retour à la maison.
+- Indiquer depuis quand cela prend plus de place.
+
+Le suivi peut se régler à partir du changement rapporté.
+
+### 2. Clarifier le besoin de contact
+
+Choisir comment et quand reprendre la difficulté.
+
+**Exercice pratique**
+
+- Consulter le rendez-vous prévu.
+- Écrire au cabinet avec le motif utile.
+- Demander si le point peut être rapproché.
+
+L’équipe peut examiner la demande selon la situation.
+
+### 3. Fixer l’étape qui part aujourd’hui
+
+Limiter les décisions simultanées aux archives.
+
+**Exercice pratique**
+
+- Retenir la légende déjà décidée.
+- Dire ce qui reste ouvert.
+- Fixer avec Aïcha le prochain point.
+
+Le dossier peut avancer avec une répartition explicite.
 
 ## Deux panneaux et un rendez-vous
 
 Aïcha et Noémie conviennent que la légende du bateau partira aujourd’hui et qu’elles regarderont demain la dernière proposition. Noémie écrit au cabinet pour signaler ce qui a pris plus de temps et demander si le rendez-vous peut être rapproché. Sur le chemin du retour, elle s’arrête devant la vitrine du cinéma. Le festival annoncé au dos de leur billet approche. Elle prend une photo du programme pour demander à Maud quel film elle aimerait voir.
+
+---
+
+**Conclusion**
+
+La période plus difficile donne à Noémie de nouveaux éléments pour le cabinet. Avec Aïcha, elle distingue la légende prête et celle qui attendra. Le jour de l’ouverture, le doute pourra revenir alors que les contrôles auront été effectués.

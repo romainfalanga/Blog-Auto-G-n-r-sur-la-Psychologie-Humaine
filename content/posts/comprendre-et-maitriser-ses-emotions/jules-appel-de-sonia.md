@@ -32,16 +32,79 @@ Plus tard, au service d’urgence, Jules retrouve la carte « à dimanche » dan
 
 Une douleur thoracique brutale accompagnée d’une difficulté à respirer appelle une évaluation urgente. Certaines sensations peuvent se rencontrer pendant une attaque de panique et dans des problèmes physiques. La peur que Jules reconnaît ne suffit pas à déterminer la cause de la douleur. Dans cette scène, Sonia appelle les secours dès qu’il lui décrit les signes. Elle peut indiquer le lieu, le début des symptômes et les changements qu’elle observe. Les professionnels décident de la conduite à tenir et des examens utiles.
 
-## Comment cette difficulté se manifeste
+## Comment la peur intense peut-elle coïncider avec une urgence à évaluer ?
 
-Jules a commencé à parler d’épisodes antérieurs avec son médecin. Ce renseignement peut aider l’équipe d’urgence à comprendre le contexte. Il a aussi le droit d’insister sur ce qu’il ressent différemment aujourd’hui. Un apaisement, l’effet de la présence de Sonia ou la fin de la douleur ne permettent pas à eux seuls de conclure à une attaque de panique.
+### Une sensation nouvelle
 
-## Préparer la suite après l’évaluation urgente
+Une personne qui a connu des accès de peur peut ressentir ensuite une douleur d’origine encore inconnue.
 
-L’équipe d’urgence peut transmettre ses observations à la personne qui suit Jules et lui expliquer ce qu’il doit faire ensuite. Jules peut demander comment obtenir ce compte rendu et à qui s’adresser si les signes reviennent ou changent. Le rendez-vous en cours sert à reprendre l’histoire des autres épisodes et leurs conséquences. Les décisions médicales s’appuient sur les éléments évalués par les professionnels.
+**Exemples concrets**
 
-Au travail, Sonia peut lui dire comment la commande a été reprise et lui laisser le choix de parler du reste. Les clients ont besoin de savoir si leur bouquet sera prêt. Ils n’ont pas à connaître les détails de son évaluation. Si Jules veut prévenir sa grand-mère, il peut décider ce qu’il souhaite lui raconter après avoir reçu les informations de l’équipe.
+- La pression dans la poitrine arrête Jules au milieu de la carte.
+- Il peine à reprendre son souffle et reconnaît une douleur différente de ses épisodes précédents.
+
+### La peur vient avec le signe physique
+
+Une émotion vive peut accompagner une urgence. Son intensité ne donne pas la cause du signe physique.
+
+**Exemples concrets**
+
+- Jules reconnaît sa peur et appelle Sonia depuis le comptoir.
+- Une personne qui a déjà eu des crises peut aussi avoir très peur pendant un essoufflement nouveau.
+
+### Le récit des signes guide l’évaluation
+
+Les secours et l’équipe médicale se fondent sur les faits et leur évolution.
+
+**Exemples concrets**
+
+- Sonia décrit la douleur brutale et la difficulté à respirer au téléphone.
+- Aux urgences, Jules dit ce qui lui a paru différent dans cet épisode.
+
+## 3 techniques pour déclencher et passer le relais médical
+
+### 1. Appeler le service d’urgence
+
+Obtenir un avis immédiat face à une douleur thoracique brutale avec gêne respiratoire.
+
+**Exercice pratique**
+
+- En France, appelez le 15 ou le 112 sans attendre.
+- Donnez l’adresse et les informations d’accès.
+- Décrivez les signes observés et leur heure de début.
+
+Le médecin régulateur peut évaluer la situation et indiquer la suite.
+
+### 2. Suivre les consignes reçues
+
+Aider les secours à rejoindre la personne et à poursuivre l’évaluation.
+
+**Exercice pratique**
+
+- Restez joignable et suivez les instructions du régulateur.
+- Demandez à quelqu’un de guider l’équipe si le régulateur le prévoit.
+- Confiez le comptoir à un collègue disponible.
+
+L’appel et l’accès peuvent être facilités pendant la prise en charge.
+
+### 3. Garder le compte rendu pour le suivi
+
+Permettre au médecin de reprendre cet épisode après l’urgence.
+
+**Exercice pratique**
+
+- Demandez à l’équipe ce qui doit être transmis.
+- Gardez le compte rendu et les consignes.
+- Partagez-les avec le médecin qui vous suit selon les indications reçues.
+
+L’équipe de suivi peut s’appuyer sur l’évaluation déjà réalisée.
 
 ## La carte au coin rond
 
 L’équipe lui explique le suivi à prévoir et lui remet les informations destinées à son médecin. Sonia lui envoie un message pour dire que la commande a été terminée et qu’elle rappellera le lendemain pour l’organisation du stand. Jules pose la petite carte près des papiers du rendez-vous. Il écrit à Solange qu’il lui enverra un dessin plus tard dans la semaine. Pour le moment, il veut lui demander si elle a vu la photo du croquis des renoncules au ruban bleu.
+
+---
+
+**Conclusion**
+
+Sonia a appelé dès que la douleur et l’essoufflement sont apparus. L’équipe médicale évalue leur cause. Jules gardera les informations du service pour la consultation qui suit.

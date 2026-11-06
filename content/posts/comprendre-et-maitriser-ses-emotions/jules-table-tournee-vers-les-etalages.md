@@ -32,16 +32,79 @@ Sonia tient les tiges entre deux doigts pendant qu’elle défait une longueur d
 
 Le retentissement du trouble panique se voit notamment dans les activités que la personne a du mal à poursuivre ou à retrouver. Dans son suivi, Jules peut dire à quoi ressemble une séance de dessin qui lui convient. Il peut aussi expliquer la part d’inquiétude qui reste lorsqu’il y prend place. Une sortie ne résume pas l’évolution du trouble. Le fait de pouvoir y faire un choix lui donne une expérience à raconter, même si d’autres trajets sont encore difficiles.
 
-## Comment cette difficulté se manifeste
+## Comment l’appréhension laisse-t-elle parfois de la place au dessin ?
 
-Jules a choisi de retrouver Samuel parce qu’il veut dessiner. Sa participation au groupe et les essais de soin ont des buts distincts. La psychiatre peut entendre ce qu’il a fait et ce que cela lui a demandé. Le groupe peut continuer à décider des sujets et des horaires sans devenir responsable de son suivi.
+### Un bruit rappelle la sortie précédente
 
-## Garder des choix dans une activité collective
+Un détail du lieu peut réveiller la crainte d’une attaque au moment de reprendre une activité.
 
-Samuel peut expliquer où chacun peut s’asseoir et quand le groupe échange les dessins. Jules peut choisir d’y prendre part, de rester un peu ou de rentrer. Les personnes qu’il dessine ont aussi une place dans ce choix. Sonia peut proposer un moment qui lui convient et dire si elle veut voir ce qu’il a fait. Jules peut choisir un autre sujet si elle a besoin de se concentrer sur son travail.
+**Exemples concrets**
 
-Après la séance, il peut parler de son dessin à Solange et de ses difficultés à la psychiatre s’il le souhaite. Ces conversations peuvent parfois se rejoindre. Il garde la main sur ce qu’il confie à chacun. Samuel peut simplement lui donner le programme de la prochaine rencontre et le laisser décider.
+- Jules entend la caisse du fromager et repense au samedi où il est parti.
+- Il se demande s’il devra quitter de nouveau l’allée alors qu’il vient de trouver une place.
+
+### Le regard revient au sujet
+
+Une action qui a du sens peut prendre sa place avec une part de peur encore présente.
+
+**Exemples concrets**
+
+- Jules suit d’abord le coude de Sonia.
+- Il regarde le creux que sa main laisse au-dessus des feuilles quand elle a changé de geste.
+
+### Le résultat peut rester partiel
+
+Une activité peut apporter quelque chose même quand elle ne se déroule pas comme prévu.
+
+**Exemples concrets**
+
+- Jules montre le dessin avec la place vide du ruban.
+- Il croque le nœud sur une autre feuille après que Sonia le lui a montré.
+
+## 3 techniques pour garder une part choisie de l’activité
+
+### 1. Choisir le geste à observer
+
+Donner une raison précise de s’installer.
+
+**Exercice pratique**
+
+- Demandez à la personne si elle accepte d’être dessinée.
+- Choisissez un geste que vous aimeriez suivre.
+- Installez-vous à une place disponible qui vous convient.
+
+Le projet peut garder son intérêt même si le lieu est appréhendé.
+
+### 2. Adapter le dessin en cours de séance
+
+Continuer à partir de ce qui est encore visible.
+
+**Exercice pratique**
+
+- Repérez ce que vous avez vu du mouvement.
+- Dessinez la partie qui vous intéresse.
+- Demandez un autre moment pour le détail manqué si la personne est d’accord.
+
+La feuille peut avancer sans que tout soit terminé sur place.
+
+### 3. Choisir le moment de montrer la feuille
+
+Participer au groupe selon ce qui vous convient.
+
+**Exercice pratique**
+
+- Voyez si vous souhaitez rester à l’échange.
+- Choisissez le détail à montrer.
+- Dites si vous souhaitez repartir après l’avoir présenté.
+
+La participation peut rester une décision personnelle.
 
 ## Le ruban hors du cadre
 
 Jules reste pendant que Samuel passe les dessins de main en main. Il montre le coude et la place vide du ruban. Un autre dessinateur lui demande si Sonia a posé. Jules raconte comment Sonia a gardé les tiges dans une main pour dérouler le ruban de l’autre. Après la séance, Sonia lui montre le nœud qu’il n’a pas vu et Jules le croque sur une feuille séparée. Il choisit ce dernier dessin pour le prochain courrier à Solange.
+
+---
+
+**Conclusion**
+
+Jules repart avec le dessin du nœud et le souvenir du coude qu’il a montré au groupe. La peur a encore traversé la séance. Sonia et Samuel ont gardé des rôles simples dans le moment partagé.

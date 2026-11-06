@@ -32,18 +32,79 @@ Trois appels arrivent pendant qu’elle cherche. Il y a une question sur l’hor
 
 Le TOC peut peser sur une journée de travail même si les collègues voient surtout le résultat. Noémie s’aperçoit qu’elle a consacré du temps à reprendre des vérifications en plus des demandes ordinaires de l’équipe. Elle souhaite dire à Aïcha que le diagnostic existe. Elle peut aussi s’en tenir à une description de ce qui l’aiderait à finir la recherche. Le détail d’une obsession, des séances ou de l’accord avec Maud reste une information personnelle qu’elle est libre de garder.
 
-## Une vérification qui fait perdre le fil d’une recherche
+## Comment une interruption peut-elle relancer les vérifications au travail ?
 
-Après chaque appel, Noémie retourne au début du document. Elle revient même à une cote qui a déjà été confirmée. La crainte qu’une erreur compromette tout le dossier retient son attention alors qu’elle sait où poursuivre la recherche sur les barques. Quand elle relève la tête, elle ne sait plus quelle photo elle voulait montrer à la classe. Le résultat du travail peut rester exact et lui avoir demandé beaucoup plus de temps.
+### Une coupure qui fait perdre le point de reprise
 
-## Prévoir qui traite quoi pendant un travail précis
+Revenir à la tâche peut demander de retrouver où elle en était.
 
-Aïcha a besoin de pouvoir joindre Noémie si une personne signale un problème avec une pièce originale. Pour les questions de mise en page, elle peut recueillir les demandes et convenir d’un moment où elles reprendront ensemble les points en attente. Noémie peut proposer un créneau réaliste pour vérifier les sources de la légende. Les tâches seront revues si une priorité change. Ces décisions servent à répartir le travail et la circulation de l’information.
+**Exemples concrets**
 
-Le plan de soin continue d’être discuté en consultation. Si Noémie veut expliquer à sa clinicienne comment les interruptions compliquent sa journée, elle peut reprendre un exemple précis et ce qu’elles ont pu modifier au bureau. Aïcha n’a pas à décider si une reprise du registre est un rituel ni à en faire un indicateur de progrès. La question des barques doit recevoir une réponse étayée, même si cette réponse reste incomplète.
+- Trois appels interrompent la recherche sur les barques.
+- Une question de livraison peut interrompre la lecture d’un texte dont la fin approchait.
 
-Aïcha peut préciser les informations dont elle a besoin pour répartir le travail. Elles peuvent distinguer la note pratique accessible à l’équipe d’une confidence faite à Aïcha. Si une autre personne doit intervenir, Noémie peut demander à en parler avant toute transmission.
+### Le retour vers un contrôle déjà traité
+
+Après l’interruption, le doute peut déplacer le travail vers une autre question.
+
+**Exemples concrets**
+
+- Noémie revient à une cote confirmée.
+- Une personne peut reprendre un dossier fermé en craignant que la coupure ait masqué une erreur.
+
+### Du temps moins visible que le résultat
+
+La recherche aboutit parfois après des reprises dont les collègues ne savent rien.
+
+**Exemples concrets**
+
+- Aïcha pourra voir la photo de la barque, pas le temps passé autour de la cote.
+- Une légende rendue à l’heure peut avoir occupé le créneau prévu pour une autre tâche.
+
+## 3 techniques pour protéger une tâche souvent interrompue
+
+### 1. Choisir un point de reprise
+
+Rendre la recherche plus facile à retrouver.
+
+**Exercice pratique**
+
+- Noter la question des barques.
+- Indiquer le dossier où la recherche s’arrête.
+- Retrouver le point convenu quand le travail reprend.
+
+L’appui peut rendre l’organisation plus lisible.
+
+### 2. Répartir les appels et les textes
+
+Donner du temps à la tâche partagée.
+
+**Exercice pratique**
+
+- Demander un échange seul à seul.
+- Définir la durée du créneau.
+- Dire quelles questions Aïcha peut recevoir.
+
+Chacune peut savoir ce qui lui revient pendant ce temps.
+
+### 3. Décrire le coût en consultation
+
+Rendre visible ce que le résultat masque.
+
+**Exercice pratique**
+
+- Choisir un appel qui a coupé la recherche.
+- Dire à quel contrôle on est revenu.
+- Nommer la tâche qui a attendu.
+
+La clinicienne peut aborder ce retentissement avec Noémie.
 
 ## Un créneau défini à deux
 
 Noémie parle de son diagnostic en une phrase et garde les séances pour elle. Aïcha note le moment où elles reprendront les textes et l’adresse à laquelle faire suivre les questions de mise en page. Noémie trouve enfin une photographie où une barque a un chargement visible. Elle écrit à côté du nom de l’élève « une image à regarder ensemble ». En allant chercher la fiche du cliché, Aïcha s’arrête devant le mur du couloir. Une tache sombre apparaît au-dessus de la salle où elles devaient recevoir la classe.
+
+---
+
+**Conclusion**
+
+Noémie trouve une image pour la visite et obtient un créneau plus clair. Le résultat ne montre pas à lui seul le temps perdu après les interruptions. L’infiltration demandera bientôt une action immédiate fondée sur ce que l’équipe voit.

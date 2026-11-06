@@ -34,16 +34,79 @@ Dans la CIM-11, le trouble obsessionnel compulsif, ou TOC, correspond au code 6B
 
 La clinicienne tient compte du temps pris, de la souffrance et des effets sur la vie de la personne.
 
-## Comment cette difficulté se manifeste
+## Comment une vérification terminée en appelle-t-elle une autre ?
 
-Noémie peut produire un registre exact et consacrer tout de même une part importante de son énergie à vérifier après l’avoir rempli. Les conséquences se voient aussi dans le délai de ses réponses, les conversations qu’elle perd en route et l’effort qu’elle fournit pour finir une journée ordinaire. Le diagnostic s’appuie sur une évaluation clinique. La scène du chariot montre une partie de ce que Noémie a pu décrire lors de la sienne.
+### Le doute après le contrôle utile
 
-## Faire entrer une scène de travail dans le suivi
+Une information acquise peut être suivie d’une inquiétude insistante.
 
-La cote, la fiche et le registre ont chacun une fonction aux archives. La relecture supplémentaire a une autre place dans ce qui vient de se passer. Noémie a achevé le contrôle demandé, puis a rouvert la boîte pour chercher la certitude qu’elle aurait voulu éprouver. Le répit est bref. La question sur la visite la ramène près du chariot, où l’envie de lire revient alors que les chiffres sont restés les mêmes.
+**Exemples concrets**
 
-Pour sa prochaine consultation, elle peut raconter la scène dans cet ordre et mentionner le temps que la discussion lui a demandé. Elle peut aussi expliquer à sa clinicienne ce qu’une vérification réglementaire implique dans son service. Un soin peut alors tenir compte de cette différence concrète. Aïcha, de son côté, a surtout besoin de savoir quelle carte choisir et à quel moment reprendre la conversation.
+- La cote de la boîte concorde avec la fiche et le doute revient.
+- Après avoir rangé un dossier, une personne peut craindre une erreur malgré le résultat du contrôle prévu.
+
+### Un nouvel effort pour retrouver une certitude
+
+Relire peut apaiser brièvement avant que le besoin de vérifier ne reprenne.
+
+**Exemples concrets**
+
+- Noémie remonte le rabat pour retrouver la même cote.
+- Un texte déjà relu peut rester ouvert alors qu’aucune information nouvelle n’est arrivée.
+
+### L’attention partagée avec le rituel
+
+La répétition peut prendre du temps à une autre tâche.
+
+**Exemples concrets**
+
+- Aïcha attend avec les rectangles de carton.
+- En réunion, une personne peut perdre le fil d’une question en repensant à un dossier fermé.
+
+## 3 techniques pour distinguer le contrôle prévu et le doute qui revient
+
+### 1. Repérer le contrôle officiel
+
+Garder les règles professionnelles dans leur cadre.
+
+**Exercice pratique**
+
+- Identifier la procédure en vigueur.
+- Retrouver la trace prévue du contrôle.
+- Demander au service s’il existe un élément nouveau.
+
+La suite du travail peut reposer sur les consignes communes.
+
+### 2. Reprendre la question d’Aïcha
+
+Retrouver la décision d’exposition qui attend.
+
+**Exercice pratique**
+
+- Demander quelle disposition elle propose.
+- Regarder le chemin de halage.
+- Donner un avis sur l’ordre de visite.
+
+La discussion peut reprendre même si le doute persiste.
+
+### 3. Apporter le moment au suivi
+
+Décrire le passage du contrôle au recommencement.
+
+**Exercice pratique**
+
+- Nommer la tâche déjà effectuée.
+- Dire ce qui a relancé le doute.
+- Expliquer ce que l’échange avec Aïcha a perdu.
+
+La clinicienne peut situer le retentissement à partir d’un exemple.
 
 ## La carte qui ouvrira la visite
 
 Noémie montre le chemin de halage sur la reproduction et propose d’en faire la première étape de la visite. Aïcha retourne le grand carton pour y inscrire leur choix. La boîte attend le rangement prévu avec les autres pièces. En repartant, Noémie écrit dans son carnet de rendez-vous « la cote et les rectangles ». Elle garde aussi une question pour Aïcha. Sur la carte, à quoi pouvait bien servir cette porte qui ouvrait directement sur la berge ?
+
+---
+
+**Conclusion**
+
+La carte prend sa place dans l’exposition alors que le doute continue à revenir. Noémie retient le moment où son travail et la vérification se sont disputé son attention. Dans le tram, une reprise analogue se fera sans boîte devant elle.

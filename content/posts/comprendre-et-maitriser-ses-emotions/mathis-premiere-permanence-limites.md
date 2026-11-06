@@ -6,7 +6,7 @@ slug: mathis-premiere-permanence-limites
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Priorisation et limites au travail
+sujet: Priorisation face aux demandes concurrentes
 contexte: Sur la place des Tilleuls, le premier samedi ouvert au public
 tags:
 - TDAH chez l’adulte
@@ -28,20 +28,83 @@ Au début de la permanence, il a montré à un garçon comment retrouver la tail
 
 Zélie lui demande combien de vélos sont encore en attente. Mathis lit les fiches et annonce le nombre. Il en reste un sur lequel ils doivent travailler et un autre qu’ils doivent rendre après vérification. Le premier créneau de la bénévole se termine. La femme demande si elle doit laisser son vélo ici. Mathis regarde l’ardoise qui n’a pas encore changé de côté. Il prend le temps de lui demander ce dont elle a besoin pour s’organiser aujourd’hui.
 
-## Comprendre ce que protège une heure de fin
+## Ce qui vient d’arriver peut prendre le dessus
 
-Le premier samedi, Mathis a dû choisir à plusieurs reprises entre répondre à une personne qui se présente et rester sur ce qu’il a engagé. L’organisation décidée à l’atelier lui donne des repères en dehors de sa mémoire. Les fiches disent ce qui est déjà pris en charge. L’heure de fin dit à partir de quand il faut garder du temps pour terminer et rendre le matériel. Zélie s’appuie sur les mêmes informations.
+Dans le TDAH, organiser plusieurs tâches peut demander davantage d’effort lorsque les demandes arrivent ensemble. Une demande immédiate peut capter l’attention alors que d’autres engagements restent à terminer. À la permanence, les fiches montrent à Mathis ce que l’équipe doit encore contrôler ou rendre. L’heure de fermeture l’aide à choisir ce qu’il peut proposer à la personne qui arrive.
 
-## Comment cette difficulté se manifeste
+## Comment les demandes concurrentes compliquent-elles la priorité ?
 
-Une adaptation prend son sens dans un environnement particulier. Le NICE recommande d’examiner son effet sur la vie courante. Dans ce cas, la limite protège à la fois le temps de vérification et la possibilité de prendre une pause. Mathis remarque qu’au moment où une personne lui décrit un besoin, il a tendance à dire oui avant de regarder la file. Il peut revenir à l’ardoise et à ce qu’il a convenu avec l’équipe. La responsabilité des vélos déjà engagés et du rangement appartient à toute la permanence.
+### La demande la plus proche occupe l’attention
 
-## Donner une réponse utile à la personne qui arrive tard
+Quelqu’un qui attend une réponse peut devenir prioritaire sur le moment, même si des tâches importantes ont commencé avant son arrivée.
 
-Mathis peut indiquer à la femme ce que l’équipe a encore la capacité de faire. Une vérification rapide à l’écart de l’organisation prévue lui donnerait peu d’informations et pourrait créer une attente qu’ils ne pourront pas tenir. Il l’oriente vers les informations de l’atelier pour une autre prise en charge. Si elle a besoin de rentrer autrement, il peut lui indiquer l’arrêt de bus à proximité et lui laisser choisir la suite.
+**Exemples concrets**
 
-Après la fermeture, Mathis et Zélie regardent où les demandes se sont accumulées et quand la séparation des rôles a fonctionné. Ils peuvent avancer l’heure de fin des inscriptions ou rendre le panneau visible plus tôt. Mathis veut garder un temps pour expliquer des gestes aux gens. Réduire le nombre de vélos pris leur donnerait une façon de préserver ce temps. Il pourra raconter au cabinet à quel moment il a eu besoin du repère et ce qu’il lui a permis de décider.
+- La cycliste veut repartir avec son vélo le jour même et Mathis cherche la place d’une nouvelle fiche.
+- Les deux vélos déjà confiés restent à réparer ou à rendre.
+
+### Plusieurs questions se présentent en même temps
+
+Répondre à plusieurs personnes peut rendre difficile le choix du prochain geste.
+
+**Exemples concrets**
+
+- Mathis commence à répondre à la cycliste et à la personne qui cherche la file.
+- Zélie lui demande de revenir au nombre de vélos encore en attente.
+
+### Le temps de fin reste à réserver
+
+Une heure de fin sert aussi à protéger des étapes qui continuent après les inscriptions.
+
+**Exemples concrets**
+
+- La bénévole termine son premier créneau pendant qu’une nouvelle demande arrive.
+- L’équipe doit vérifier, rendre les vélos et ranger le poste même après avoir retourné l’ardoise.
+
+## 3 techniques pour choisir une priorité en fin de permanence
+
+### 1. Faire apparaître les engagements ouverts
+
+Retrouver ce qui doit être terminé avant d’accepter autre chose.
+
+**Exercice pratique**
+
+- Lisez les fiches de la permanence en cours.
+- Repérez les tâches de sécurité et les retraits à effectuer.
+- Demandez à l’équipe combien de temps elle doit encore leur réserver.
+
+L’engagement existant peut rester visible face à la nouvelle demande.
+
+### 2. Donner une réponse limitée et utile
+
+Proposer une suite sans promettre un dépannage impossible.
+
+**Exercice pratique**
+
+- Demandez ce dont la personne a besoin aujourd’hui.
+- Dites ce que le poste peut assurer avant la fermeture.
+- Donnez une autre possibilité si vous la connaissez.
+
+La personne peut s’organiser à partir d’une information fiable.
+
+### 3. Fixer le geste de clôture
+
+S’appuyer sur un repère que les collègues partagent.
+
+**Exercice pratique**
+
+- Convenez de l’heure qui laisse du temps pour finir.
+- Choisissez qui retourne l’ardoise ou annonce la clôture.
+- Reprenez après la permanence le temps qu’il a réellement fallu.
+
+Le prochain horaire peut tenir compte des obligations du poste.
 
 ## Du temps pour les vélos déjà confiés
 
 Mathis retourne l’ardoise. La femme le remercie pour l’adresse et quitte la place en poussant le vélo. À l’heure de rendre le dernier, Zélie retrouve le nom sur la fiche et appelle la personne qui attend. Ils rangent la table avec cinq minutes de retard sur l’heure qu’ils avaient prévue. Mathis écrit ce chiffre au bas de la feuille. Au dos, il note aussi que le garçon a montré à sa mère où lire la taille d’un pneu. C’est la première chose qu’il raconte à Simon le soir. Il parlera des demandes refusées quand ils auront posé les courses sur la nouvelle table.
+
+---
+
+**Conclusion**
+
+Mathis retourne l’ardoise et réserve le temps nécessaire aux vélos déjà confiés. Le samedi laisse aussi le souvenir d’un garçon qui a appris à lire la taille de son pneu. Il pourra apporter au suivi ces deux aspects de la permanence.

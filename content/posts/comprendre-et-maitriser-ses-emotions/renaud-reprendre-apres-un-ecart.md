@@ -1,21 +1,21 @@
 ---
-title: Reprendre ses engagements après avoir cédé à un ancien réflexe
-description: En septembre, Renaud promet un rendu avant d’en parler à Yara. Son désir
-  de saisir une occasion réveille un ancien problème de collaboration.
+title: Engager le temps des autres pour saisir une occasion de reconnaissance
+description: En septembre, Renaud annonce un rendu avant d’en parler à Yara. Il doit
+  reprendre une promesse qui engage le temps de sa collègue.
 slug: renaud-reprendre-apres-un-ecart
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Renaud
-sujet: Reprise après un ancien réflexe
+sujet: Reconnaissance anticipée et engagements d’autrui
 contexte: En septembre, reprise du travail avec Nora sur le parcours temporaire
 tags:
 - Trouble de la personnalité narcissique
 - Trouble narcissique
 - Personnalité narcissique
 - Narcissisme pathologique
-- Retour d’un ancien réflexe
-- Objectifs réalistes
-- Responsabilité professionnelle
+- Reconnaissance anticipée
+- Temps de l’autre
+- Promesse corrigée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -34,16 +34,79 @@ Il ouvre son dernier message de préparation avec elle. Il y retrouve les dates 
 
 Un suivi peut aider à repérer des difficultés et à développer d’autres réponses. Le besoin d’être reconnu, l’attrait d’une occasion ou la crainte de perdre une place peuvent peser de nouveau quand la situation change. Les données disponibles sur la prise en charge du trouble de la personnalité narcissique appellent à suivre des objectifs réalistes. Les progrès peuvent se voir à l’échelle de plusieurs situations, avec du temps et des reprises.
 
-## Comment cette difficulté se manifeste
+## Comment la perspective d’être reconnu peut-elle faire promettre trop tôt ?
 
-Renaud avait formulé une règle précise en mai et la transgresse en septembre. Il commence par attendre que Yara s’ajuste. Puis il relit un engagement qui existe déjà. La décision observable est de reprendre l’annonce auprès de Nora sans faire endosser sa promesse à Yara. Le travail sur ce qu’il a éprouvé peut continuer en parallèle.
+### Une occasion qui occupe toute la discussion
 
-## S’occuper de la conséquence dans le bon ordre
+La présence d’un public valorisant peut donner de l’urgence au projet.
 
-Nora a entendu une date et peut s’en être servie. Renaud doit la prévenir assez clairement pour qu’elle puisse changer son programme. Il peut dire quelle partie du travail il est en mesure d’assumer et vérifier les autres contributions avant d’annoncer un nouveau rendez-vous. La première promesse a pu faire perdre du temps. La révision de cette promesse en limite les effets possibles.
+**Exemples concrets**
 
-Yara peut garder son engagement ailleurs et choisir si elle souhaite participer à une nouvelle proposition. Si elle veut travailler avec lui, ils peuvent écrire la date et la responsabilité de chacun avant de confirmer. En consultation, Renaud dispose maintenant de deux exemples à comparer. Il avait attendu que la réunion soit passée pour remettre les mesures à disposition. Cette fois, il corrige la date le jour même.
+- Renaud entend que deux personnes de la ville voisine pourraient venir.
+- Une personne peut annoncer une date dès qu’un décideur manifeste son intérêt.
+
+### Un « on » qui engage la collègue
+
+La promesse peut compter sur du temps que l’autre n’a pas accepté de donner.
+
+**Exemples concrets**
+
+- Renaud demande après coup deux matinées à Yara.
+- Un responsable peut proposer un rendu sans avoir vérifié la disponibilité de l’équipe.
+
+### L’envie de défendre la promesse
+
+La difficulté à revenir sur l’annonce peut devenir une pression sur l’autre.
+
+**Exemples concrets**
+
+- Renaud pense que Yara pourrait faire un effort malgré son travail prévu.
+- Quelqu’un peut invoquer l’importance du projet pour déplacer un engagement déjà pris.
+
+## 3 techniques pour corriger un engagement pris trop vite
+
+### 1. Retrouver l’accord de départ
+
+Savoir ce qui a réellement été validé.
+
+**Exercice pratique**
+
+- Relire les disponibilités de Yara.
+- Repérer la réunion déjà possible.
+- Vérifier ce qui n’a pas été décidé.
+
+La suite peut être organisée sur le temps disponible.
+
+### 2. Reprendre l’annonce auprès de Nora
+
+Éviter que l’invitation confirme un délai impossible.
+
+**Exercice pratique**
+
+- Dire quelle date a été annoncée trop tôt.
+- Confirmer le seul rendez-vous validé.
+- Proposer de décider après avoir vu les plans.
+
+Le centre peut adapter son calendrier.
+
+### 3. Apporter le moment au suivi
+
+Comprendre ce qui a donné urgence à la promesse.
+
+**Exercice pratique**
+
+- Nommer le public que Renaud imaginait.
+- Dire ce que son « on » engageait.
+- Décrire comment il a corrigé l’annonce.
+
+Le suivi peut travailler à partir d’une réponse et de ses effets.
 
 ## La réunion qu’ils peuvent réellement proposer
 
 Nora répond qu’elle n’a pas encore envoyé les invitations. Elle peut attendre le mercredi d’après. Yara est disponible ce jour-là pour une courte réunion et pourra décider de la suite après avoir vu le parcours. Renaud confirme seulement ce rendez-vous. Il rassemble les deux plans pour que chacun puisse les regarder avant la réunion. Le vendredi suivant, il passe encore devant le tableau où il avait écrit « version prête ». Il remplace la phrase par l’heure qu’ils ont réellement fixée.
+
+---
+
+**Conclusion**
+
+Renaud retire la date qu’il a annoncée et confirme la réunion disponible. Yara peut garder le travail déjà accepté. L’essai d’automne dépendra de ce qu’ils décideront ensemble.

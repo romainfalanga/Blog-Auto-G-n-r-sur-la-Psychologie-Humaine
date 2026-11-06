@@ -1,12 +1,12 @@
 ---
-title: Distractibilité et perte du fil pendant une réparation
+title: Quand plusieurs sollicitations dispersent l’attention pendant une réparation
 description: Une interruption en chasse une autre à l’atelier. Pour son évaluation,
   Mathis cherche des exemples qui disent ce que ces journées lui coûtent.
 slug: mathis-velo-bleu-interruptions
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Distractibilité et reprise de tâche
+sujet: Attention captée par les sollicitations
 contexte: À l’atelier associatif, avant le lancement de la permanence mobile
 tags:
 - TDAH chez l’adulte
@@ -28,22 +28,83 @@ La sonnette de l’atelier retentit. Une habituée demande si son vélo est prê
 
 À la pause, il voit sur son téléphone un message de Simon à propos du relevé du compteur d’eau. Il s’était engagé à l’envoyer vendredi. Il a bien pris la photo vendredi et pourrait presque dire à quelle heure. L’envoi n’a pas suivi. Au premier entretien de son évaluation, la psychiatre lui a demandé de décrire ce qui l’amène à consulter. Il avait parlé de journées qui lui échappent. Il regarde la photo encore ouverte et se dit qu’il aurait pu raconter celle-ci.
 
-## Comment la distractibilité peut faire perdre le point de reprise
+## La distractibilité au milieu de plusieurs demandes
 
-Une interruption fait perdre le fil à bien des gens. Le trouble du déficit de l’attention avec ou sans hyperactivité, ou TDAH, fait partie des troubles du neurodéveloppement décrits par l’Organisation mondiale de la santé. Les difficultés qu’il recouvre peuvent concerner l’attention ou l’hyperactivité et l’impulsivité, selon la personne. L’évaluation regarde leur durée, les contextes où elles se manifestent, leurs conséquences et l’histoire depuis l’enfance.
+La distractibilité désigne la difficulté à garder son attention sur ce qu’on fait quand autre chose la sollicite. Dans le trouble du déficit de l’attention avec ou sans hyperactivité, ou TDAH, elle peut se répéter et gêner le quotidien. Mathis est en cours d’évaluation. La sonnette, le plan et deux vélos bleus rendent la situation concrète. La psychiatre devra replacer ce moment parmi d’autres difficultés, leurs conséquences et l’histoire depuis l’enfance.
 
-## Perdre la place en reprenant une tâche
+## Comment l’attention se disperse-t-elle quand plusieurs choses se passent à la fois ?
 
-Mathis doit retrouver ce qu’il a fait avant la sonnette et décider où reprendre. Il dit qu’il lui arrive de refaire une vérification faute de savoir s’il l’a terminée. À la maison, une étape peut rester ouverte alors qu’il a l’impression d’avoir traité la demande. Ce sont des faits concrets sur lesquels ils pourront revenir.
+### Une sollicitation passe au premier plan
 
-Chez Mathis, la cause reste à établir. Sa semaine fournit des situations à examiner, comme les jours où il travaille longtemps sur un seul vélo sans avoir à retrouver sa place.
+Un son ou une question peut prendre le dessus sur ce qu’on était en train de faire.
 
-## Garder un repère avant de quitter le pied
+**Exemples concrets**
 
-Quand Zélie lui propose de regarder de nouveau le plan, Mathis lui demande de patienter le temps qu’il marque sur la fiche où en est la réparation. L’atelier utilise déjà ces fiches avant de rendre un vélo. Il propose d’y noter aussi ce qui reste à vérifier quand quelqu’un doit s’interrompre. Ils en parlent tous les deux, car il faut que la mention soit compréhensible si l’autre reprend le travail. Le contrôle habituel avant restitution garde sa place.
+- La sonnette détourne Mathis de la roue qu’il vient de démonter.
+- À la maison, une question peut interrompre la préparation d’un courrier qu’on s’apprêtait à envoyer.
 
-Pour son prochain entretien, Mathis choisit de noter le message de Simon et ce qui s’est passé au pied de réparation. Il veut aussi raconter un jour plus calme où la fiche et l’organisation de l’atelier lui suffisent. Il prend quelques lignes le soir où il s’en souvient. Le dossier de l’association et les noms des personnes venues réparer un vélo restent à l’atelier. Au cabinet, il pourra décrire la scène avec ses mots et dire les moments dont il n’est plus sûr.
+### Deux tâches restent ouvertes en même temps
+
+Il peut devenir difficile de garder le lien entre l’objet qu’on tient et le geste prévu quand on passe d’une conversation à l’autre.
+
+**Exemples concrets**
+
+- Mathis garde la petite pièce pendant qu’il montre sur le plan où attendre.
+- Après avoir aidé la cliente, il cherche d’abord la pièce sur le chiffon avant de la retrouver dans sa poche.
+
+### Le coût devient visible en reprenant
+
+Quand il reste un doute sur ce qui a déjà été fait, la personne peut devoir reprendre du travail avant d’avancer.
+
+**Exemples concrets**
+
+- Mathis recommence un contrôle du vélo parce qu’il ne se rappelle plus la dernière vérification.
+- Le temps passé à reprendre la réparation repousse la discussion sur l’emplacement du barnum.
+
+## 3 techniques pour gérer une sollicitation au milieu d’une tâche
+
+### 1. Choisir qui répond
+
+Limiter les interruptions qui peuvent être prises en charge par quelqu’un d’autre.
+
+**Exercice pratique**
+
+- Repérez avec le collègue ce qui arrive souvent pendant une réparation.
+- Choisissez qui répond en premier quand la sonnette retentit.
+- Dites quand les demandes moins pressantes pourront revenir.
+
+La personne au pied peut rester disponible pour le contrôle qu’elle a commencé.
+
+### 2. Faire le point avant de poursuivre
+
+Reprendre une tâche de sécurité avec les contrôles prévus par l’atelier.
+
+**Exercice pratique**
+
+- Identifiez la réparation et la fiche correspondante.
+- Vérifiez ce qui est confirmé par les repères habituels.
+- En cas de doute, reprenez la vérification selon les règles de l’atelier avant de rendre le vélo.
+
+La reprise peut s’appuyer sur un fait plutôt que sur un souvenir incertain.
+
+### 3. Apporter un exemple au bilan
+
+Décrire le coût répété de la distraction si vous en parlez à un professionnel.
+
+**Exercice pratique**
+
+- Notez ce qui vous a interrompu.
+- Décrivez le geste que vous avez dû refaire ou le délai qui s’est ajouté.
+- Ajoutez un moment où une disposition différente vous a aidé.
+
+Ces faits peuvent éclairer ce qui varie selon l’activité et le contexte.
 
 ## Deux exemples à emporter
 
-Avant de fermer, Zélie replie le plan en laissant le nom de la rue visible. Mathis ajoute au crayon l’endroit où la file pourrait attendre. Il lui demande de garder le papier jusqu’au lendemain. Le vélo est contrôlé selon les habitudes de l’atelier, puis rejoint le mur avec sa fiche. Sur le chemin du retour, Mathis décide d’envoyer le relevé quand il sera devant son ordinateur. Il s’assoit à la table en arrivant et rouvre la photo. Dans la réponse qu’il envoie à Simon, il écrit simplement que c’est fait.
+Avant de fermer, Zélie replie le plan en laissant le nom de la rue visible. Mathis ajoute au crayon l’endroit où la file pourrait attendre. Il lui demande de garder le papier jusqu’au lendemain. Le vélo est contrôlé selon les habitudes de l’atelier, puis rejoint le mur avec sa fiche. Sur le chemin du retour, Mathis décide d’envoyer le relevé quand il sera devant son ordinateur. Il s’assoit à la table en arrivant et rouvre la photo. Dans la réponse qu’il envoie à Simon, il écrit simplement que c’est fait. Pour le prochain entretien, il note la sonnette, le relevé et la manière dont la fiche de retrait l’a aidé à retrouver le vélo de la cliente.
+
+---
+
+**Conclusion**
+
+La sonnette détourne Mathis du vélo et le contrôle lui prend plus de temps. Il dispose d’un exemple pour son évaluation et d’une question à reprendre avec Zélie sur les demandes à l’accueil.

@@ -6,7 +6,7 @@ slug: antonin-essai-porte-fermee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Persistance des soucis dans plusieurs domaines
+sujet: Amélioration partielle de l’anxiété
 contexte: À l’essai de la salle après les travaux, puis au rendez-vous de suivi
 tags:
 - Trouble anxieux généralisé
@@ -31,20 +31,81 @@ Au cabinet, il raconte au médecin l’essai de la porte, le relais qui lui a pe
 
 ## Le progrès se regarde dans plusieurs situations
 
-Le suivi de l’anxiété généralisée tient compte de la gêne et du fonctionnement dans le temps, dans plusieurs domaines. Un changement au travail peut améliorer une partie de la journée sans modifier le sommeil ou les préoccupations familiales.
+L’anxiété peut s’alléger au travail et continuer de perturber les nuits. Dans le trouble anxieux généralisé, ce décalage aide à comprendre le retentissement au fil du temps. L’essai du local règle une incertitude professionnelle pour Antonin. Les préoccupations qui le réveillent et la crainte de décevoir ses proches ont encore besoin d’une place au rendez-vous.
 
-## Comment cette difficulté se manifeste
+## Comment reconnaître une amélioration partielle de l’anxiété ?
 
-Antonin peut dire à la fois qu’il a gardé une soirée, qu’il a moins de décisions urgentes sur le chantier et qu’il a encore des réveils difficiles. Ces éléments aident son médecin à comprendre ce qui change et ce qui continue à lui coûter.
+### Une étape résolue laisse une attente limitée
 
-Des étapes de soin peuvent être revues à partir de ce que la personne souhaite et de la réponse aux appuis déjà essayés. Antonin a demandé un entretien psychologique. Il peut parler du délai et de ce qu’il attend de la rencontre. Avec son médecin, il peut aussi convenir de ce qu’ils réexamineront si les difficultés s’accentuent ou si le délai s’allonge.
+Un progrès concret peut réduire une incertitude sans apporter toutes les réponses.
 
-## Laisser chaque décision à la bonne personne
+**Exemples concrets**
 
-Le rapport du technicien renseignera l’école sur les essais et la direction prendra la décision d’ouvrir selon les validations nécessaires. Antonin peut continuer à préparer les informations dont le premier groupe aura besoin, avec Eva. Il peut aussi se renseigner sur le délai prévu pour son accompagnement auprès de la personne qui le recevra. Ces deux attentes demandent des réponses différentes.
+- Le technicien annonce la transmission du rapport.
+- Antonin aimerait déjà obtenir la garantie de réouverture, qui revient encore à la direction.
 
-Pour son rendez-vous, il lui suffit de dire ce qui lui permet de tenir sa journée et ce qui lui pèse encore. Le médecin peut lui poser des questions ou proposer de revenir sur certains points plus tard. L’examen du local et le bilan du suivi ont chacun leur objet. Antonin garde une place dans les décisions de soin, y compris pour expliquer qu’une option lui paraît peu praticable.
+### Les nuits et les relations suivent leur propre cours
+
+L’amélioration au travail peut coexister avec des soucis dans d’autres moments.
+
+**Exemples concrets**
+
+- Antonin a réussi à aller jouer grâce au relais et continue de se réveiller la nuit.
+- Il se demande encore qui pourrait être mécontent de lui après des journées où le chantier a avancé.
+
+### Une aide commence à se dessiner
+
+Le suivi considère ce qui reste gênant même si certains domaines vont mieux.
+
+**Exemples concrets**
+
+- Antonin a pris contact pour un accompagnement psychologique.
+- Il demande à son médecin ce qu’ils peuvent suivre avant le premier entretien.
+
+## 3 techniques pour faire le point sur une amélioration partielle
+
+### 1. Marquer l’étape accomplie
+
+Voir ce que le dossier permet déjà de décider.
+
+**Exercice pratique**
+
+- Notez ce qui a été essayé.
+- Identifiez qui donne l’accord final.
+- Reprenez les préparatifs autorisés dans votre rôle.
+
+Le travail peut avancer à partir du résultat disponible.
+
+### 2. Faire un bilan hors chantier
+
+Donner une place aux soucis qui continuent ailleurs.
+
+**Exercice pratique**
+
+- Repérez un moment professionnel qui a changé.
+- Ajoutez une soirée ou une nuit encore difficile.
+- Décrivez ce qui compte pour vous dans chaque situation.
+
+Le suivi peut porter sur plusieurs effets de l’anxiété.
+
+### 3. Clarifier l’attente du premier entretien
+
+Prévoir un appui pendant une étape du parcours de soins.
+
+**Exercice pratique**
+
+- Expliquez au médecin où en est votre prise de contact.
+- Convenez de ce que vous souhaitez observer ensemble.
+- Notez comment reprendre contact si l’attente devient difficile.
+
+Vous pouvez savoir à qui parler pendant cette période.
 
 ## Le rapport attendu à l’école
 
 Antonin convient d’un nouveau point avec son médecin et lui demande comment reprendre contact si l’attente devient difficile. En rentrant, il reçoit le compte rendu technique avec Eva. La direction peut examiner la remise en service. Il ouvre le dessin des placards et ajoute un espace pour les étuis les plus longs. Le professeur pourra lui dire s’il en faut davantage. Antonin s’aperçoit qu’il a envie d’entendre le morceau entier la première fois qu’il sera joué dans la salle.
+
+---
+
+**Conclusion**
+
+Le rapport rapproche la réouverture et Antonin peut finir le plan des étuis. Ce progrès lui rend une partie de sa journée. Au cabinet, il garde une place pour les inquiétudes qui interrompent encore ses nuits.

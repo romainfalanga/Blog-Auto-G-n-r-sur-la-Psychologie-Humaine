@@ -34,16 +34,79 @@ Il demande s’ils peuvent reparler des invitations à la fin des journées qu�
 
 Dans la dépendance à l’alcool, la maîtrise de la consommation, sa place dans la vie et les conséquences peuvent évoluer au fil du temps. Les professionnels examinent cette trajectoire à partir de plusieurs situations et de l’état de santé. Le fait qu’Éric ait tenu un rendez-vous important apporte une information. Les envies qu’il décrit et les difficultés encore présentes en apportent d’autres. Les repères de rémission de la CIM-11 s’apprécient sur des périodes et avec une évaluation clinique.
 
-## Le projet aboutit et certaines invitations restent difficiles
+## Comment une amélioration peut-elle coexister avec des envies persistantes ?
 
-Éric a animé le coin d’écoute et a tenu ses rendez-vous de soin. Au repas, il est resté à regarder la table des anciens avec une envie de boire qui l’a surpris. Certaines journées sont plus faciles à organiser, et il lui arrive encore de faire plusieurs fois le tour de son appartement avant de répondre à un appel. Il apporte le programme en consultation pour parler de ces deux aspects.
+### Une activité choisie redevient possible
 
-## Garder une place pour les soins et une place pour le marché
+Un rendez-vous tenu renseigne sur le quotidien sans résumer toute l’évolution.
 
-Le rendez-vous et l’entretien peuvent être prévus à des heures qui lui permettent de les faire l’un et l’autre. Éric pourra demander à Pascal quel mercredi lui convient. Il peut demander à son équipe de revenir sur les situations agréables qui l’ont surpris et sur la manière de la joindre quand il a besoin d’un avis. L’équipe peut reprendre avec lui la fréquence des difficultés, leurs circonstances et les appuis qui lui conviennent. L’ajustement du suivi dépendra de ce qu’ils auront évalué ensemble.
+**Exemples concrets**
 
-Écouter un habitant parler de son travail a du prix pour Éric en dehors du soin. Le projet lui donne envie de savoir ce qu’il entendra la prochaine fois au marché. Il peut aussi continuer de voir Joëlle quand ils en ont envie et laisser un rendez-vous en suspens quand il a besoin de connaître sa disponibilité.
+- Éric anime le coin d’écoute puis revient enregistrer au marché.
+- Une personne retrouve un créneau pour une activité qu’elle avait souvent manquée.
+
+### Certains contextes restent difficiles
+
+Une envie peut revenir même lorsque d’autres situations sont plus faciles.
+
+**Exemples concrets**
+
+- Les invitations du soir occupent encore l’attention d’Éric.
+- Une personne se sent à l’aise dans un déjeuner et hésite face à une ancienne sortie.
+
+### Les appuis changent avec la situation
+
+Un contact accessible un jour peut manquer à un autre moment.
+
+**Exemples concrets**
+
+- Éric compare une soirée où il pouvait appeler et une autre où il s’est retrouvé seul.
+- Une personne constate que l’aide convenue fonctionne en semaine mais reste à préciser le week-end.
+
+## 3 techniques pour faire le point sur une évolution irrégulière
+
+### 1. Apporter un progrès concret
+
+Donner à l’équipe une information qui va au-delà d’une impression générale.
+
+**Exercice pratique**
+
+- Choisissez un engagement que vous avez tenu.
+- Décrivez la décision que cela a demandée.
+- Notez l’appui qui vous a servi.
+
+L’échange peut reconnaître ce qui a changé dans votre vie.
+
+### 2. Comparer deux envies récentes
+
+Déterminer ce qui mérite encore du soutien.
+
+**Exercice pratique**
+
+- Reprenez deux circonstances différentes.
+- Décrivez l’aide accessible à chaque occasion.
+- Demandez quel appui pourrait couvrir le moment difficile.
+
+Le plan de soins peut tenir compte des écarts entre journées.
+
+### 3. Garder un créneau pour le suivi
+
+Donner une place aux soins en même temps qu’aux activités reprises.
+
+**Exercice pratique**
+
+- Vérifiez l’heure de votre prochain rendez-vous.
+- Ajustez les nouveaux engagements autour de ce point.
+- Prévenez l’équipe si l’horaire ne tient plus.
+
+Les progrès et les risques peuvent rester suivis dans le temps.
 
 ## Le bruit qui manquait dans le premier entretien
 
 Le mercredi suivant, au marché, Pascal lui demande par quoi commencer. Éric tient le micro et regarde un homme qui arrive avec un chariot vide. C’est lui qui emporte depuis trente ans les caisses que les marchands laissent à l’entrée. Il accepte de raconter un souvenir avant de continuer sa tournée. Éric lui demande si le chariot peut rester à côté d’eux, parce que c’est son bruit que Gérald a reconnu au repas. Pascal veut savoir s’ils iront retrouver les anciens ensuite. Éric lui dit qu’il a un rendez-vous après le marché et qu’il aimerait le revoir mercredi prochain. L’homme incline le chariot et le métal répond avant sa voix.
+
+---
+
+**Conclusion**
+
+Éric retrouve le marché et garde son rendez-vous de soins. Pascal peut continuer les entretiens avec lui sans attendre que tous les moments difficiles aient disparu. Le projet sonore et le suivi ont chacun leur place.

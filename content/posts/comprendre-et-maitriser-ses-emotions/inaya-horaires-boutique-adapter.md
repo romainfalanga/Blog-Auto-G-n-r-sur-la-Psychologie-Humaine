@@ -32,16 +32,79 @@ Elles étalent le calendrier des livraisons sur le comptoir. Le jeudi, il y a un
 
 L’évaluation du retentissement d’une dépression tient compte de la vie au travail, à la maison et dans les relations. Arriver à effectuer une tâche ne renseigne pas sur tout ce qu’elle demande. Inaya a fini le bouquet, répondu à la cliente et fermé la caisse. Elle peut quand même expliquer qu’à cette heure les mêmes gestes lui coûtent plus et qu’elle a du mal à récupérer ensuite.
 
-## Comment cette difficulté se manifeste
+## Comment la fatigue dépressive se voit-elle derrière le travail terminé ?
 
-Les contraintes ne viennent pas toutes de sa santé. Une commande a déjà été promise et sa collègue a ses propres engagements. Elle peut distinguer les heures où un service est réellement attendu, les heures affichées par habitude et les tâches pour lesquelles une deuxième personne aide. Ce regard lui donne des faits à discuter au suivi, sans réduire sa vie professionnelle à un niveau d’énergie.
+### Un rythme ralenti derrière une vente ordinaire
 
-## Essayer un changement limité et en regarder les effets
+Le coût d’une tâche peut augmenter sans que le client voie la difficulté.
 
-À la boutique, Inaya peut commencer par deux fermetures plus tôt, annoncées avec des dates, et contacter la cliente qui doit retirer la commande tardive. Si cette cliente a besoin d’un autre créneau, elle peut lui proposer les options possibles. Mina peut dire ce qu’elle accepte dans ses horaires, sans hériter du reste. Elles peuvent vérifier ensuite s’il y a eu des commandes difficiles à retirer et si Inaya retrouve du temps pour ses repas ou ses rendez-vous.
+**Exemples concrets**
 
-La possibilité d’aménager le travail dépend de l’activité, de l’équipe et de la situation de chacun. Le suivi de santé reste utile pour en discuter, surtout si la réduction des horaires ne suffit pas ou si la situation change. Inaya peut garder l’atelier au stade de projet pendant l’essai et revenir à cette décision quand elle en saura davantage.
+- Inaya tient deux rubans avant de comprendre que la cliente parle de la longueur.
+- Mina peut finir la recherche dans le rayon alors qu’Inaya peine à reprendre la caisse.
+
+### Des reprises qui allongent la fin de journée
+
+La fatigue peut obliger à recommencer une suite de gestes dont la personne a l’habitude.
+
+**Exemples concrets**
+
+- Inaya recompte la monnaie quand elle ne sait plus où elle en est.
+- Une commande simple peut lui prendre plus de temps les soirs qu’elle a décrits au cabinet.
+
+### Peu de marge après l’horaire prévu
+
+La gêne peut se remarquer quand une seule demande imprévue occupe l’énergie restante.
+
+**Exemples concrets**
+
+- La livraison du jeudi entre en conflit avec l’engagement de Mina.
+- Inaya déplace le papier sur le calendrier sans trouver comment maintenir tous les horaires.
+
+## 3 techniques pour décrire le coût du service et ajuster une fermeture
+
+### 1. Le temps réellement nécessaire
+
+Donner à la fatigue un repère qui parle au soignant.
+
+**Exercice pratique**
+
+- Choisissez une tâche terminée.
+- Dites ce qui a demandé une reprise.
+- Ajoutez comment vous étiez à la fin du service.
+
+La consultation peut tenir compte du travail effectué et de son coût.
+
+### 2. Deux fermetures à essayer
+
+Ajuster une contrainte avec la collègue qui la partage.
+
+**Exercice pratique**
+
+- Identifiez les créneaux où vous manquez de marge.
+- Vérifiez les engagements déjà pris avec les clientes.
+- Affichez les heures effectivement retenues.
+
+L’essai peut alléger la fin de journée et respecter les disponibilités de Mina.
+
+### 3. Une demande claire à la cliente
+
+Résoudre une exception sans prolonger d’emblée tout l’horaire.
+
+**Exercice pratique**
+
+- Reprenez l’heure promise.
+- Proposez un autre moment où la commande est prête.
+- Vérifiez l’accord avant de modifier le retrait.
+
+La commande de jeudi peut être réglée selon sa propre contrainte.
 
 ## Deux fermetures à essayer
 
-Mina prend un petit panneau et écrit les deux dates avec leurs heures. Elles laissent le jeudi pour la fin : Inaya va proposer à la cliente de venir au début de la journée. À dix-neuf heures passées, la caisse est comptée. Inaya accroche le panneau assez bas pour qu’on puisse lire la deuxième ligne. À la maison, elle ouvre son carnet pour le rendez-vous et note ce qu’elle voudra raconter de cette demi-heure. Puis elle appelle Nino, qui essaie de savoir s’ils ont le droit de mettre deux fromages dans le même sandwich.
+Mina prend un petit panneau et écrit les deux dates avec leurs heures. Elles règlent le jeudi en dernier. Inaya va proposer à la cliente de venir au début de la journée. À dix-neuf heures passées, la caisse est comptée. Inaya accroche le panneau assez bas pour qu’on puisse lire la deuxième ligne. À la maison, elle ouvre son carnet pour le rendez-vous et note ce qu’elle voudra raconter de cette demi-heure. Puis elle appelle Nino, qui essaie de savoir s’ils ont le droit de mettre deux fromages dans le même sandwich.
+
+---
+
+**Conclusion**
+
+Inaya termine la caisse et essaie des fermetures plus tôt. Le résultat du travail reste visible, la fatigue devient plus facile à décrire. Mina participe à un accord qui respecte aussi ses horaires.

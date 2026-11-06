@@ -60,14 +60,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-consultation-decider-ensemble/">Décrire le retentissement de la dépression en consultation</a></h3>
-    <p class="parcours-resume">Inaya décrit ses réveils, le temps que lui prend une fermeture et le cinéma qu’elle aimerait partager avec Nino. En consultation, ces exemples éclairent à la fois les symptômes, l’effort du quotidien et ses priorités. La psychiatre peut reprendre l’évolution et la sécurité avec elle. Inaya peut ensuite demander une suite précise, y compris savoir qui appeler si les difficultés augmentent.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-consultation-decider-ensemble/">Quand l’appétit change sans qu’on s’en aperçoive tout de suite</a></h3>
+    <p class="parcours-resume">Venue parler de ses nuits et du travail, Inaya se souvient qu’elle a parfois oublié de déjeuner. Une baisse d’appétit peut accompagner un épisode dépressif et passer au second plan dans une journée bien remplie. En donnant des exemples à sa psychiatre, Inaya peut faire une place à cette difficulté parmi les autres changements.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-consultation-decider-ensemble/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-choisir-ce-qu-elle-partage/">Accepter un soutien en gardant ses confidences</a></h3>
-    <p class="parcours-resume">Inaya entend Myriam commencer un message sur ses problèmes de santé et hésite à la laisser poursuivre. Elle souhaite être aidée à tenir un atelier court et décider qui connaît son diagnostic de dépression. Les besoins de la sœur, de l’équipe de soins et de la personne qui réserve une salle sont différents. Les distinguer laisse à Inaya le choix de ce qu’elle partage avec chacune.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-choisir-ce-qu-elle-partage/">Quand le retrait rend le premier appel à l’aide difficile</a></h3>
+    <p class="parcours-resume">Inaya voudrait faire un essai à la maison de quartier, mais sa demande de rendez-vous reste en brouillon. Pendant une dépression, le retrait et le manque d’élan peuvent rendre le premier contact difficile, même quand on sait à qui s’adresser. Inaya demande à Myriam un appui pour envoyer le message et garde le choix de son contenu.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-choisir-ce-qu-elle-partage/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -84,8 +84,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-reporter-atelier-garder-choix/">Après une crise dépressive quand tenir sa promesse devient trop lourd</a></h3>
-    <p class="parcours-resume">Après le recours aux soins, Inaya hésite à reporter l’atelier qu’elle prépare depuis des semaines. Elle tient toujours au projet et son énergie varie encore. Après une aggravation dépressive, la sécurité, le soutien et les engagements se réévaluent à mesure que les besoins changent. Le report lui permet de préserver le lien avec Myriam et de garder une suite réaliste avec son équipe.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-reporter-atelier-garder-choix/">Quand la culpabilité pousse à promettre trop après une aggravation</a></h3>
+    <p class="parcours-resume">En regardant la date arrachée sur l’affiche, Inaya pense avoir déçu toutes les personnes inscrites. La culpabilité peut prendre beaucoup de place au cours d’un épisode dépressif et pousser à vouloir réparer avant de savoir ce qui est possible. Elle choisit de prévenir les participants du report et garde la décision sur une nouvelle date pour plus tard.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/inaya-reporter-atelier-garder-choix/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

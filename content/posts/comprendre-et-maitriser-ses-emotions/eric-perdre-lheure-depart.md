@@ -34,16 +34,79 @@ Mélissa lui propose de l’aider à retrouver le contact de l’association. É
 
 Dans la dépendance à l’alcool, la difficulté à réguler la consommation peut porter sur le moment où l’on commence ou sur celui où l’on s’arrête. Éric avait fixé son départ et préparé l’enregistrement. Il a fait un premier geste pour partir, puis a repoussé ce moment. La même difficulté lui a déjà fait manquer d’autres engagements, ce qu’il a pu décrire à son équipe d’addictologie quand le diagnostic a été établi.
 
-## Comment cette difficulté se manifeste
+## Comment la difficulté à arrêter de boire se manifeste-t-elle ?
 
-Une soirée qui se prolonge renseigne sur ce qui s’est passé ce jour-là. Les soignants examinent la répétition du phénomène, les conséquences et la place de la consommation dans la vie de la personne. Éric aimait entendre ses amis retrouver les paroles d’un morceau. Le plaisir de cet échange et la difficulté à arrêter appartiennent tous les deux à la scène.
+### Le départ est prévu et se décale
 
-## Rappeler en donnant une place à la personne attendue
+Une heure choisie peut cesser de guider l’action une fois la consommation commencée.
 
-Éric peut parler de son projet à Mélissa et garder le récit de la consommation pour les interlocuteurs qu’il choisit. Avec la marchande, il doit surtout répondre à une attente précise. Il avait pris un engagement, elle avait réservé du temps et il est arrivé trop tard. Un appel peut reconnaître cette conséquence et laisser à la marchande la décision de reparler du marché.
+**Exemples concrets**
 
-En consultation, Éric peut revenir sur les instants dont il se souvient, depuis la veste posée sur les genoux jusqu’à l’appel repoussé. Décrire ce déroulement aide à distinguer ce qu’il souhaitait faire, ce qui a changé au cours de la rencontre et ce qui a rendu le rattrapage difficile. L’équipe peut partir de cet exemple pour réexaminer les appuis qu’il avait prévus.
+- Éric pose sa veste sur ses genoux puis la remet sur le dossier.
+- Une personne regarde l’horloge et reste malgré le transport qu’elle comptait prendre.
+
+### Une raison de rester prend le dessus
+
+Un échange apprécié peut offrir un motif immédiat de continuer alors que le rendez-vous approche.
+
+**Exemples concrets**
+
+- Le souvenir d’un air de fanfare retient Éric à table.
+- Une personne attend la fin d’une conversation puis repousse encore son départ.
+
+### Un engagement souhaité tombe
+
+La difficulté n’implique pas que le projet compte peu.
+
+**Exemples concrets**
+
+- La marchande avait accepté l’enregistrement et Éric manque le rendez-vous.
+- Une visite attendue ne se fait pas après une soirée qui se prolonge.
+
+## 3 techniques pour aborder les départs qui se décalent
+
+### 1. Reconstituer un départ manqué
+
+Décrire à l’équipe l’écart entre le choix et ce qui s’est passé.
+
+**Exercice pratique**
+
+- Notez le départ que vous vouliez prendre.
+- Repérez le premier report.
+- Ajoutez la conséquence dont vous êtes sûr.
+
+Ce passage peut éclairer la discussion sur la maîtrise de la consommation.
+
+### 2. Réparer le rendez-vous
+
+Reconnaître le temps de l’autre sans exiger un nouvel essai.
+
+**Exercice pratique**
+
+- Dites quel engagement vous avez manqué.
+- Demandez si une autre date est possible.
+- Acceptez la réponse ou la limite proposée.
+
+Le projet peut reprendre sur un accord précis.
+
+### 3. Préparer un appui avec le service
+
+Éviter de faire reposer les prochains départs sur une seule intention.
+
+**Exercice pratique**
+
+- Choisissez une occasion qui vous inquiète.
+- Dites à l’équipe ce qui a retardé le départ auparavant.
+- Demandez quel appui conviendrait à cette situation.
+
+Vous pourrez discuter d’un plan adapté à votre santé et à votre vie.
 
 ## Un autre moment proposé par la marchande
 
 À la pause, la marchande répond après deux sonneries. Éric lui dit qu’il lui a fait perdre du temps. Elle se rappelle du rendez-vous et ajoute qu’elle avait encore des cageots à monter dans la camionnette. Le dimanche prochain, elle ne veut pas se presser après le marché. Elle lui propose plutôt de passer un mercredi avant l’ouverture. Éric écrit le jour sur un coin de carton et demande s’il peut venir avec le micro. De retour au panier, Mélissa lui dit qu’elle est toujours partante pour le repas. Elle veut simplement qu’ils choisissent le menu assez tôt pour en parler avec Gérald.
+
+---
+
+**Conclusion**
+
+Éric voulait enregistrer la marchande et n’a pas quitté le café à temps. Elle choisit quand le recevoir de nouveau. Avec Joëlle, il découvrira que la consommation peut aussi déplacer un rendez-vous avant même de boire.

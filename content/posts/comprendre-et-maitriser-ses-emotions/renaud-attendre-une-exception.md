@@ -34,16 +34,79 @@ Il trouve le ton inutilement ferme. Pendant quelques secondes, il envisage d’a
 
 La préférence pour un horaire différent peut être facile à expliquer. Dans cette scène, Renaud traite son retard comme une information à laquelle tout le groupe devrait s’adapter. Il suppose que sa présence et son annonce justifient l’exception. Une attente disproportionnée de traitement favorable peut faire partie des difficultés du trouble de la personnalité narcissique quand elle se répète et pèse sur les relations.
 
-## Comment cette difficulté se manifeste
+## Comment une préférence devient-elle une exception attendue ?
 
-Le sentiment d’être mal accueilli surgit pour lui avant qu’il entende la raison d’Édith. La contrainte de Sophie reste la même quel que soit le prestige du projet dont il veut parler. Le point de vue d’Édith compte également. Elle organise son anniversaire et peut choisir de passer du temps avec plusieurs personnes. Renaud peut éprouver sa déception tout en reconnaissant ces éléments.
+### Une décision déjà prise pour les autres
 
-## Choisir ce qui dépend de soi
+Une demande peut supposer d’emblée que le groupe s’adaptera.
 
-Édith formule une décision qu’elle peut appliquer. Elle garde l’heure et indique que son frère reste bienvenu. Elle répond à la demande réelle sans négocier la valeur du travail de Renaud ou celle de sa présence. Cela laisse un choix à chacun. Les invités peuvent commencer et Renaud peut organiser son déplacement ou arriver plus tard.
+**Exemples concrets**
 
-Dans une relation où ce genre de demande se répète, un accord explicite aide à voir ce que chacun peut tenir. Ici, la comparaison des deux messages fait comprendre à Renaud combien de personnes son choix mobilisait. Il pourra en parler à sa thérapeute s’il veut comprendre pourquoi une réponse négative lui a donné si vite envie de se retirer. Édith n’a pas à attendre cette discussion pour maintenir sa limite.
+- Renaud écrit « Décalez un peu » après avoir organisé son propre détour.
+- Une personne peut annoncer un changement de lieu avant de connaître les contraintes des invités.
+
+### La valeur de son apport invoquée
+
+Ce que la personne apporte peut lui sembler justifier un traitement particulier.
+
+**Exemples concrets**
+
+- Renaud rappelle le dessert et pense à son annonce sur le centre.
+- Quelqu’un peut croire qu’une réunion devrait commencer à son arrivée parce qu’il présente une idée.
+
+### Une limite prise comme un affront
+
+Le refus peut faire perdre de vue la raison donnée.
+
+**Exemples concrets**
+
+- Il envisage de garder les pâtisseries au studio.
+- Une personne peut vouloir se retirer d’un événement lorsque l’heure reste celle du groupe.
+
+## 3 techniques pour rediscuter une demande sans décider pour les autres
+
+### 1. Revenir à la contrainte exprimée
+
+Entendre pourquoi l’heure a été maintenue.
+
+**Exercice pratique**
+
+- Relire la réponse d’Édith.
+- Repérer l’heure du train de Sophie.
+- Dire à quelle heure on peut vraiment arriver.
+
+Le groupe peut garder son accord et accueillir Renaud.
+
+### 2. Reformuler une proposition future
+
+Laisser à l’autre le choix de répondre.
+
+**Exercice pratique**
+
+- Dire ce qu’on souhaiterait.
+- Demander si cela convient.
+- Préparer une autre option si la réponse est négative.
+
+Une préférence peut être discutée sans devenir une obligation collective.
+
+### 3. Vérifier un engagement concret
+
+Tenir compte des conditions avant de dire oui.
+
+**Exercice pratique**
+
+- Demander à Édith le lieu des cartons.
+- Regarder le créneau de quinze heures.
+- Confirmer la part qu’on peut prendre.
+
+La promesse peut correspondre au temps réellement disponible.
 
 ## La chaise au bout de la table
 
 La table est presque pleine quand il arrive. Édith a laissé une chaise au bout, à côté de Malik. Renaud dépose la boîte dans la cuisine et revient sans commencer son annonce. Sophie raconte qu’elle a changé de poste et son train part bientôt. Il lui demande à quelle gare elle descend. Quand elle s’en va, Édith lui propose de l’aider à porter deux cartons chez leur tante dimanche prochain. Elle veut y être à quinze heures. Il regarde l’horaire avant de dire oui.
+
+---
+
+**Conclusion**
+
+L’heure du dîner reste celle qu’Édith avait fixée et Renaud les rejoint. Avant d’accepter les cartons, il regarde cette fois l’heure demandée. Le test avec Yara lui réservera une autre difficulté.

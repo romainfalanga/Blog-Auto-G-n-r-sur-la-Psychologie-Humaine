@@ -6,7 +6,7 @@ slug: mathis-pince-rouge-amenagements
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Aménagement de l’attention au travail
+sujet: Perte du repère à la reprise
 contexte: Lors d’un essai du poste mobile à l’atelier
 tags:
 - TDAH chez l’adulte
@@ -28,20 +28,83 @@ Zélie joue la personne venue pour un dérailleur. Elle s’approche de la table
 
 Un bénévole entre avec un paquet de rustines. Il voit la table en travers et se place à côté de Mathis pour poser une question. Zélie lui montre l’autre bord, là où elle s’est mise pour recevoir les gens. Le bénévole change de côté sans comprendre qu’il vient de faire partie de l’essai. Mathis répond une fois sa fiche complétée. Puis il demande à Zélie ce qui se passe le jour où c’est elle qui veut rester au pied.
 
-## Comprendre ce qu’un aménagement change
+## La reprise demande de retrouver l’étape interrompue
 
-Sur la place, la foule et les passages seront plus difficiles à prévoir qu’à l’atelier. Mathis ne peut pas retirer toutes les interruptions. Il peut travailler avec l’équipe sur celles qui peuvent attendre ou être prises en charge ailleurs. La pince indique qu’une réparation est en cours. Une mention écrite indique ce qu’il faut reprendre. Ces deux repères servent à des moments différents et peuvent être lus par un collègue qui n’a pas suivi les échanges précédents.
+Dans le TDAH, la difficulté à garder en tête la suite d’une tâche peut se voir après une interruption. Il faut retrouver l’étape terminée, le prochain geste et l’objet auquel ils se rapportent. Mathis connaît le travail à faire. L’essai montre que sa fiche ne lui sert que si elle garde un repère lisible au moment où il revient au pied. L’organisation de l’accueil réduit le nombre de coupures qu’il doit traiter.
 
-## Comment cette difficulté se manifeste
+## Comment le point de reprise devient-il difficile à retrouver ?
 
-Le NICE inclut les adaptations de l’environnement parmi les appuis à examiner avec les personnes concernées. Leur utilité dépend des tâches et des contraintes du lieu. Un échange oral peut convenir à Zélie pour déplacer une caisse. Pour reprendre un travail technique, elle aussi veut voir une trace sur la fiche. Ils peuvent garder l’organisation écrite là où elle rend service. L’atelier reste responsable de ses règles de contrôle et les décisions de sécurité ne changent pas avec la couleur de la pince.
+### La prochaine étape n’est plus disponible de mémoire
 
-## Essayer les deux rôles avant de choisir
+Quitter le poste pour répondre à quelqu’un peut rendre incertaine l’étape déjà faite.
 
-Mathis prend la place de Zélie à l’accueil pour un deuxième passage. Il s’aperçoit qu’il doit pouvoir répondre aux gens sans promettre d’emblée une réparation. Ils écrivent sur une ardoise les informations que chacun peut donner. Les cas où il faut mobiliser l’autre personne restent à discuter avec le reste de l’équipe. Zélie propose de fixer les moments où ils pourront échanger les rôles au lieu de rester chacun du même côté pendant toute la permanence.
+**Exemples concrets**
 
-Ils décident d’essayer le repère à l’atelier pendant une plage d’ouverture ordinaire. Après, ils noteront ce qui facilite la reprise et ce qui leur crée du travail en plus. Mathis veut savoir si, quand on lui demande de venir à l’entrée, il peut répondre sans devoir garder l’état du vélo en tête. Zélie veut savoir à quel moment elle pourra quitter l’accueil. Leur essai doit convenir à l’un comme à l’autre.
+- Mathis voit une ligne vide et dit qu’il ne saurait plus ce qu’il a laissé en plan.
+- Après un aller à la caisse, une fiche en cours peut rappeler quel contrôle il reste à faire.
+
+### Le support cesse d’être lisible
+
+Une aide matérielle dépend de sa disposition réelle. Trop de fiches au même endroit peuvent faire perdre de nouveau le repère.
+
+**Exemples concrets**
+
+- La pince rouge glisse lorsqu’elle tient deux fiches.
+- Le classeur reçoit les autres papiers et le bord du pied reste réservé à la fiche active.
+
+### La demande trouve la personne qui répare
+
+Si l’accueil est mal indiqué, les sollicitations arrivent encore au pied. La reprise devient nécessaire plus souvent.
+
+**Exemples concrets**
+
+- Le bénévole aux rustines se place à côté de Mathis pour poser sa question.
+- Le trait au sol n’a pas orienté l’autre bénévole vers le bon bord de la table.
+
+## 3 techniques pour retrouver le point d’arrêt au travail
+
+### 1. Marquer la prochaine étape
+
+Disposer d’un repère que l’équipe peut retrouver après une interruption.
+
+**Exercice pratique**
+
+- Convenez de la fiche utilisée pour la réparation en cours.
+- Avant de quitter le poste, indiquez où le contrôle reprendra quand c’est possible.
+- Au retour, suivez les procédures de vérification de l’atelier.
+
+La reprise peut s’appuyer sur une trace lisible.
+
+### 2. Tester le support à l’usage
+
+Vérifier ce qu’un collègue retrouve quand il prend la suite.
+
+**Exercice pratique**
+
+- Placez une seule fiche de la réparation au repère choisi.
+- Demandez à un collègue de dire ce qu’il en comprend.
+- Déplacez les papiers en attente vers leur rangement commun.
+
+L’étape en cours peut rester visible même si quelqu’un change de rôle.
+
+### 3. Orienter les questions vers l’accueil
+
+Limiter les interruptions qui n’exigent pas la personne au pied.
+
+**Exercice pratique**
+
+- Repérez par où le public arrive.
+- Indiquez le rôle du poste d’accueil et qui l’occupe.
+- Voyez comment changer de rôle quand le collègue a besoin de revenir au pied.
+
+L’accueil peut absorber une partie des questions tout en restant un rôle partageable.
 
 ## L’accueil et le pied de réparation
 
 Au bout de la table, la pince glisse dès que Zélie y accroche deux fiches. Mathis la récupère sous le tabouret. Ils gardent une seule fiche sur ce bord et déplacent le reste dans le classeur habituel. Plus tard, l’ardoise attire la question d’un bénévole sur les horaires. Il n’a pas vu le trait au sol. Mathis repère l’endroit où un panneau serait mieux orienté et tourne la table de quelques centimètres. Cette fois, Zélie peut se placer du côté de l’accueil sans bloquer la sortie de l’atelier.
+
+---
+
+**Conclusion**
+
+L’essai montre ce que la pince rend visible et ce qui l’empêche de tenir. Mathis et Zélie modifient le repère et l’orientation de la table. Leur équipe doit maintenant s’accorder sur les personnes disponibles pour l’accueil.

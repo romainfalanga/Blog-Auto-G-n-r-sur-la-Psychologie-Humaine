@@ -33,18 +33,79 @@ Maud trouve le crayon sous le carnet. Elle dit qu’elle doit partir la premièr
 
 Certaines personnes qui vivent avec un TOC se détournent de situations parce qu’elles s’attendent à une pensée intrusive, à une forte gêne ou au temps que prendraient leurs rituels. Les décisions peuvent finir par restreindre des activités auxquelles elles tiennent.
 
-## Comment cette difficulté se manifeste
+## Comment la perspective de rituels peut-elle rétrécir les sorties ?
 
-Noémie se souvient d’une promenade qu’elle voulait faire et du moment où elle a envisagé tout le temps du retour au cas où elle voudrait vérifier. La décision de rester lui avait alors semblé plus simple. Elle retrouve maintenant le message de Sarah et le souhait qu’elle avait d’y répondre autrement.
+### Anticiper du temps perdu avant de partir
 
-Les raisons de refuser une invitation sont nombreuses. La fatigue, le prix ou l’envie de rester seule peuvent suffire. En consultation, Noémie peut parler des occasions qui lui ont manqué et du rôle que joue le TOC dans certaines de ses décisions. Elle choisit ce qu’elle aimerait retrouver et la place qu’elle souhaite donner à ces objectifs dans son suivi.
+L’idée d’un long détour pour vérifier peut peser avant même la sortie.
 
-## Garder la sortie du côté de celles qui l’organisent
+**Exemples concrets**
 
-Une place près de Sarah et l’indication de l’entrée répondent à des questions ordinaires. Maud peut les proposer comme elle le ferait pour une autre invitée. Elle peut aussi dire quand elle doit rejoindre le groupe et ce qu’elle pourra faire après. La répétition appartient d’abord aux personnes qui jouent et à celles qu’elles invitent. Le travail d’exposition se décide avec la clinicienne. Elle et Noémie ont déjà pu parler de ce que lui demande un essai encadré au cabinet.
+- Noémie calcule le temps nécessaire pour revenir pendant une promenade.
+- Une personne peut hésiter à accepter un dîner en imaginant tout le trajet occupé par un doute.
 
-Si Noémie change d’avis, elle peut prévenir Sarah. Si elle vient, elle peut écouter le morceau et expliquer ensuite ce qui lui a plu, même si le trajet lui a demandé de l’énergie. À son prochain rendez-vous, elle peut dire qu’elle voudrait retrouver une place dans les moments où Maud joue. Elle peut mentionner aussi les invitations qu’elle n’a pas pu accepter. Les deux informations aident à situer ce qui compte.
+### Décliner malgré l’intérêt
+
+Un projet désiré peut devenir difficile à accepter à cause de cette anticipation.
+
+**Exemples concrets**
+
+- Noémie a laissé passer une invitation alors qu’elle veut entendre Maud jouer.
+- Une personne peut renoncer à une balade avec un ami alors qu’elle souhaitait le voir.
+
+### Rétrécir les occasions sans l’avoir choisi
+
+Une série de refus peut réduire la place des loisirs et des liens.
+
+**Exemples concrets**
+
+- Deux anciennes invitations réapparaissent dans le fil avec Sarah.
+- Un ami peut espacer ses propositions après plusieurs réponses repoussées.
+
+## 3 techniques pour décider d’une sortie malgré ce qu’elle pourrait coûter
+
+### 1. Nommer la sortie que l’on veut
+
+Retrouver ce qui donne envie d’accepter.
+
+**Exercice pratique**
+
+- Dire ce qu’on aimerait entendre.
+- Repérer le moment qui compte.
+- Choisir ce qu’on souhaite proposer à Sarah.
+
+La décision peut inclure l’intérêt de la soirée.
+
+### 2. Préparer le rendez-vous avec l’amie
+
+Rendre l’arrivée compréhensible à chacun.
+
+**Exercice pratique**
+
+- Demander où se trouve l’entrée.
+- Convenir d’une heure et d’un point de rencontre.
+- Dire quelle place permet d’écouter le morceau.
+
+L’accueil peut être plus simple à retrouver.
+
+### 3. Décrire les invitations déclinées
+
+Faire apparaître la portée de l’évitement.
+
+**Exercice pratique**
+
+- Retenir une sortie qu’on voulait faire.
+- Dire ce qui a pesé sur la décision.
+- Reprendre le sujet avec la clinicienne.
+
+Le soin peut tenir compte d’activités que Noémie tient à garder.
 
 ## Elle rejoint Sarah dans la salle
 
 Sarah attend près de l’entrée avec le programme plié en deux. Noémie lui montre l’escalier sur son croquis avant de ranger son carnet. Elles s’assoient au fond. À la première entrée de la clarinette, Noémie reconnaît le passage que Maud reprend à la maison. Elle entend cette fois une réponse des autres instruments. En sortant, elle veut savoir comment Maud repère ce moment. Maud dit qu’elle écoute surtout la contrebasse et propose de la lui faire entendre à la prochaine répétition.
+
+---
+
+**Conclusion**
+
+La répétition donne à Noémie la place qu’elle cherchait près de Sarah. Les invitations déclinées restent un repère utile pour comprendre l’évitement. Avant le vernissage, la pression donnera un autre rythme aux vérifications.

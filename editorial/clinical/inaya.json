@@ -20,22 +20,78 @@
         "Fluctuation de l’énergie",
         "Anticipation d’une rechute"
       ],
-      "opening": "Inaya et Myriam éclatent de rire devant leur affiche trop grande. Inaya se surprend à vouloir préparer l’atelier tout de suite. Elle se souvient pourtant d’avoir fixé des rendez-vous par enthousiasme, puis d’avoir eu du mal à les tenir pendant ses épisodes dépressifs. Myriam déplace les pinces contre la vitre. Elles essaient une feuille plus courte qui laisse la place aux fleurs et au titre. Inaya s’imagine expliquer les gestes de leur père à un petit groupe. La perspective lui plaît et la question de la date la retient déjà.\n\nIl est encore tôt. Inaya choisit dans un seau une renoncule dont la tige fait un crochet sous la corolle. C’est le genre de fleur qu’elle aime montrer aux gens qui veulent couper tout ce qui part de travers. Elle imagine la table : six personnes, des branches à faire circuler, un bouquet que personne ne devrait avoir à reproduire. Myriam voudrait aussi un coin où poser les manteaux. Elle a vu la petite salle prêtée par la maison de quartier et se souvient surtout du radiateur contre lequel on coince le portemanteau.\n\nMyriam prend un feutre pour ajouter la date. Inaya pose sa fleur sur le comptoir. Cet hiver, sa psychiatre a posé le diagnostic de trouble dépressif récurrent, après avoir repris avec elle plusieurs périodes de sa vie. Entre deux épisodes, Inaya avait retrouvé assez d’élan pour repeindre la vitrine et recommencer à aller au cinéma. Elle a un rendez-vous de suivi la semaine prochaine. Elle aimerait que l’atelier ait lieu, mais refuse de décider de sa date avec le feutre déjà ouvert.",
+      "opening": "Inaya et Myriam éclatent de rire devant leur affiche trop grande. Inaya se surprend à vouloir préparer l’atelier tout de suite. Elle se souvient pourtant d’avoir fixé des rendez-vous par enthousiasme, puis d’avoir eu du mal à les tenir pendant ses épisodes dépressifs. Myriam déplace les pinces contre la vitre. Elles essaient une feuille plus courte qui laisse la place aux fleurs et au titre. Inaya s’imagine expliquer les gestes de leur père à un petit groupe. La perspective lui plaît et la question de la date la retient déjà.\n\nIl est encore tôt. Inaya choisit dans un seau une renoncule dont la tige fait un crochet sous la corolle. C’est le genre de fleur qu’elle aime montrer aux gens qui veulent couper tout ce qui part de travers. Elle imagine six personnes à table, des branches à faire circuler et un bouquet que personne ne devrait avoir à reproduire. Myriam voudrait aussi un coin où poser les manteaux. Elle a vu la petite salle prêtée par la maison de quartier et se souvient surtout du radiateur contre lequel on coince le portemanteau.\n\nMyriam prend un feutre pour ajouter la date. Inaya pose sa fleur sur le comptoir. Cet hiver, sa psychiatre a posé le diagnostic de trouble dépressif récurrent, après avoir repris avec elle plusieurs périodes de sa vie. Entre deux épisodes, Inaya avait retrouvé assez d’élan pour repeindre la vitrine et recommencer à aller au cinéma. Elle a un rendez-vous de suivi la semaine prochaine. Elle aimerait que l’atelier ait lieu, mais refuse de décider de sa date avec le feutre déjà ouvert.",
       "sections": [
         {
           "role": "explanation",
           "heading": "Comprendre ce que veut dire « récurrent »",
-          "text": "Dans la CIM-11 de l’Organisation mondiale de la Santé, le trouble dépressif récurrent porte le code 6A71. Il correspond à une histoire d’au moins deux épisodes dépressifs, séparés par plusieurs mois sans perturbation notable de l’humeur. L’évaluation tient compte de l’évolution dans le temps et recherche notamment si des périodes d’humeur et d’activité inhabituelles pourraient relever d’un trouble bipolaire. Le diagnostic suppose une évaluation clinique ; un récit permet de reconnaître des situations et d’en parler, pas de conclure pour soi ou pour quelqu’un d’autre."
+          "text": "Le trouble dépressif récurrent correspond à plusieurs épisodes dépressifs séparés par des périodes où l’humeur n’est plus notablement perturbée. L’évaluation tient compte de l’évolution dans le temps et recherche notamment si des périodes d’humeur et d’activité inhabituelles pourraient relever d’un trouble bipolaire. Le diagnostic repose sur une évaluation clinique qui reprend ces différentes périodes avec la personne."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le cas d’Inaya, les épisodes avaient changé sa manière de travailler, de manger avec Nino et de répondre à des invitations qui lui faisaient habituellement plaisir. Elle se rappelle aussi les périodes entre les deux. Cette chronologie aide à comprendre ce que sa psychiatre a retenu. Le fait qu’elle prépare aujourd’hui quelque chose avec sa sœur ne permet pas, à lui seul, de dire où elle en est dans sa santé. Le diagnostic ne fixe pas non plus le nombre de personnes qu’elle pourrait recevoir dans un atelier."
+          "heading": "Comment la récurrence se distingue-t-elle d’une suite de journées difficiles ?",
+          "points": [
+            {
+              "heading": "Des périodes où plusieurs choses changent ensemble",
+              "text": "Un épisode dépressif s’apprécie sur une durée et par ses effets, même quand le souvenir des premiers signes est imprécis.",
+              "examples": [
+                "Inaya se rappelle avoir cessé de tenir plusieurs rendez-vous pendant ses épisodes précédents.",
+                "Pour la consultation, un souvenir de sorties et de tâches devenues difficiles renseigne davantage que le récit d’un samedi raté."
+              ]
+            },
+            {
+              "heading": "Un intervalle où l’élan revient",
+              "text": "Le trouble récurrent comporte des épisodes distincts. Entre eux, la personne peut retrouver des activités et un fonctionnement plus proches de ses habitudes.",
+              "examples": [
+                "Inaya a repeint la vitrine entre deux épisodes.",
+                "Elle avait recommencé à choisir des séances de cinéma et à y aller."
+              ]
+            },
+            {
+              "heading": "Une peur de revivre le même changement",
+              "text": "Le souvenir d’un épisode peut peser sur les décisions même quand l’envie est là.",
+              "examples": [
+                "Inaya rit devant l’affiche et s’imagine montrer les gestes de son père.",
+                "Elle hésite au moment de fixer la date, parce que des rendez-vous étaient devenus difficiles à tenir par le passé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place au projet et au suivi",
-          "text": "La HAS recommande de construire le projet de soins avec la personne et de le réévaluer. Pour Inaya, cela signifie qu’elle peut apporter au prochain rendez-vous une question qui vient de la boutique : comment garder une activité qui lui tient à cœur sans remplir toutes les plages où elle pourrait se reposer ou se rendre à une consultation ? Elle peut aussi dire ce qu’elle aimerait pouvoir faire avec Nino en dehors du travail.\n\nMyriam et elle ont d’autres décisions à prendre, qui leur appartiennent : combien de temps la salle est disponible, qui achète les fleurs et comment prévenir les inscrits si elles doivent décaler. Séparer ces décisions permet à Inaya de parler franchement de son énergie au rendez-vous. Elle n’a pas à obtenir un avis sur l’affiche, ni à expliquer son suivi aux personnes qui liront le panneau dans la rue."
+          "heading": "3 techniques pour retrouver les grandes périodes et choisir un engagement",
+          "points": [
+            {
+              "heading": "Des points de repère séparés",
+              "objective": "Raconter l’évolution sans chercher à refaire soi-même le diagnostic.",
+              "exercise": [
+                "Choisissez une période difficile.",
+                "Retrouvez une période où les choses avaient changé entre deux difficultés.",
+                "Décrivez au soignant ce que vous pouviez faire pendant chacune."
+              ],
+              "benefit": "Cette comparaison peut aider à préciser l’histoire clinique."
+            },
+            {
+              "heading": "Une décision prise par étapes",
+              "objective": "Faire avancer la préparation avant de fixer une date.",
+              "exercise": [
+                "Nommez ce qui peut être décidé maintenant.",
+                "Laissez en blanc la décision qui engage le groupe.",
+                "Conservez le prochain point de suivi."
+              ],
+              "benefit": "Inaya peut mesurer le panneau et garder le projet à six places."
+            },
+            {
+              "heading": "Un accord à deux",
+              "objective": "Éviter qu’une proposition encore ouverte se transforme en rendez-vous annoncé.",
+              "exercise": [
+                "Dites à la personne ce que vous souhaitez préparer.",
+                "Indiquez quand vous pourrez reparler de la date.",
+                "Vérifiez qu’elle peut attendre ce moment."
+              ],
+              "benefit": "Myriam peut connaître l’accord utile sans être chargée d’évaluer l’humeur d’Inaya."
+            }
+          ]
         }
       ],
       "ending": "Myriam referme le feutre. Elles laissent une ligne libre sous le titre et emportent la feuille à la maison de quartier pour mesurer la place sur le panneau. Avant de sortir, Inaya glisse dans son agenda le dessin d’une table pour six. Elle inscrit aussi son rendez-vous, qui figurait jusqu’alors seulement sur son téléphone. La renoncule est restée sur le comptoir. Elle la glisse dans un vase, à côté de l’agenda. Elle voudrait la montrer à Myriam en plein jour.",
@@ -53,7 +109,8 @@
       },
       "ending_title": "Six places sans date fixée",
       "clinical_focus": "Récurrence des épisodes dépressifs",
-      "clinical_intro": "Inaya rit en préparant l’affiche avec Myriam et hésite quand sa sœur veut fixer la date. Elle se souvient des périodes où même fermer la boutique lui coûtait. Son trouble dépressif est dit récurrent parce que plusieurs épisodes distincts ont jalonné sa vie. Le récit montre ce que ces épisodes changent dans ses engagements, y compris lorsqu’un projet lui redonne de l’élan."
+      "clinical_intro": "Inaya rit en préparant l’affiche avec Myriam et hésite quand sa sœur veut fixer la date. Elle se souvient des périodes où même fermer la boutique lui coûtait. Son trouble dépressif est dit récurrent parce que plusieurs épisodes distincts ont jalonné sa vie. Le récit montre ce que ces épisodes changent dans ses engagements, y compris lorsqu’un projet lui redonne de l’élan.",
+      "conclusion": "Inaya connaît des périodes dépressives distinctes et des moments où son élan revient. Aujourd’hui elle choisit d’avancer sur le format de l’atelier. Myriam peut respecter la ligne laissée vide."
     },
     {
       "number": 2,
@@ -66,7 +123,7 @@
         "Perte de motivation",
         "Variabilité du plaisir"
       ],
-      "opening": "À l’étal de Mirek, les fleurs oranges sont dans des seaux jaunes. Inaya a toujours trouvé que c’était la pire façon de les vendre. D’habitude, elle sort une tige et s’éloigne des seaux pour retrouver la couleur. Ce matin, elle lit les étiquettes de carton brun accrochés au bord des bacs : abricot, mandarine, saumon clair. Elle sait lequel choisir pour les trois commandes du jour. Quand Mirek lui tend un paquet qui vient d’arriver, elle remet l’élastique sans ouvrir le papier.\n\nMyriam a pris rendez-vous avec la maison de quartier vendredi. Il leur manque encore une composition à photographier pour l’affiche. Inaya emporte deux bottes qu’elle connaît bien, puis revient vers le rayon des branches. La dernière fois qu’elle est venue ici, elle était en avance et avait marché jusqu’au fond du hangar pour voir la livraison d’un autre producteur. Aujourd’hui, elle calcule surtout combien de temps il lui faut pour retourner à la boutique, et n’a aucune envie d’aller vérifier si le fond du hangar a changé.\n\nÀ la sortie de l’école, Nino lui montre un ticket qu’il a fabriqué pour le cinéma à la maison. Il a même écrit le prix au dos : un carré de chocolat. Inaya reconnaît son envie de rire à la forme de sa bouche, avant d’entendre le son qui en sort. « On le regarde ce soir ? » demande-t-il. Elle regarde le ticket et l’heure affichée au-dessus du portail. La veille, elle lui avait dit qu’ils trouveraient un moment. Elle se demande ce qu’elle peut lui promettre pour de vrai.",
+      "opening": "À l’étal de Mirek, les fleurs oranges sont dans des seaux jaunes. Inaya a toujours trouvé que c’était la pire façon de les vendre. D’habitude, elle sort une tige et s’éloigne des seaux pour retrouver la couleur. Ce matin, elle lit « abricot », « mandarine » et « saumon clair » sur les étiquettes accrochées aux bacs. Elle sait lequel choisir pour les trois commandes du jour. Quand Mirek lui tend un paquet qui vient d’arriver, elle remet l’élastique sans ouvrir le papier.\n\nMyriam a pris rendez-vous avec la maison de quartier vendredi. Il leur manque encore une composition à photographier pour l’affiche. Inaya emporte deux bottes qu’elle connaît bien, puis revient vers le rayon des branches. La dernière fois qu’elle est venue ici, elle était en avance et avait marché jusqu’au fond du hangar pour voir la livraison d’un autre producteur. Aujourd’hui, elle calcule surtout combien de temps il lui faut pour retourner à la boutique, et n’a aucune envie d’aller vérifier si le fond du hangar a changé.\n\nÀ la sortie de l’école, Nino lui montre un ticket qu’il a fabriqué pour le cinéma à la maison. Au dos, il a indiqué que l’entrée coûte un carré de chocolat. Inaya reconnaît son envie de rire à la forme de sa bouche, avant d’entendre le son qui en sort. « On le regarde ce soir ? » demande-t-il. Elle regarde le ticket et l’heure affichée au-dessus du portail. La veille, elle lui avait dit qu’ils trouveraient un moment. Elle se demande ce qu’elle peut lui promettre pour de vrai.",
       "sections": [
         {
           "role": "explanation",
@@ -75,18 +132,74 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Inaya sait toujours distinguer les couleurs de ses commandes. Ce savoir reste disponible même si l’étal ne l’attire plus autant. Son petit rire au portail ne contredit pas non plus ce qu’elle vit le matin. Pour préparer sa consultation, elle peut dire simplement que depuis plusieurs jours les achats, les repas et le cinéma ont perdu une partie de leur attrait. Elle peut ajouter ce qui lui a encore fait envie, sans devoir choisir le récit le plus sombre ou le plus rassurant."
+          "heading": "Comment une perte d’intérêt touche-t-elle les activités familières ?",
+          "points": [
+            {
+              "heading": "Une curiosité qui ne se déclenche plus",
+              "text": "La diminution de l’intérêt peut se remarquer quand la personne fait ses achats habituels sans vouloir regarder plus loin.",
+              "examples": [
+                "Inaya remet l’élastique sur le paquet neuf que lui tend Mirek.",
+                "Elle passe devant le rayon des branches sans aller voir la livraison au fond du hangar."
+              ]
+            },
+            {
+              "heading": "Une activité maintenue avec moins de plaisir",
+              "text": "Le savoir-faire peut rester disponible même quand la personne ressent peu de satisfaction en l’utilisant.",
+              "examples": [
+                "Inaya choisit la nuance adaptée à la commande en lisant l’étiquette.",
+                "Le lendemain, elle ouvre les fleurs et compose une photo avec les couleurs qu’on distinguera sur le panneau."
+              ]
+            },
+            {
+              "heading": "Un intérêt qui ne se prolonge pas",
+              "text": "L’attachement à une personne ou à un rituel peut coexister avec le besoin de s’arrêter assez vite.",
+              "examples": [
+                "Nino a inscrit le prix d’un carré de chocolat et Inaya accepte de s’asseoir avec lui.",
+                "Elle regarde le début du film et demande à Nino de garder le passage pour une autre fois."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir un moment dont la durée lui convient",
-          "text": "L’intérêt que la HAS accorde aux activités de la vie quotidienne s’inscrit dans une prise en charge plus large. Dans la vie d’Inaya, garder une activité signifie parfois réduire ce qu’elle a prévu ou choisir un autre moment. Elle peut promettre un début de film avec une pause, ou proposer un autre jour si elle est trop fatiguée. Elle peut aussi dire à Nino qu’il lui est permis de finir le film sans elle, selon leur arrangement habituel à la maison.\n\nSi le manque d’envie s’étend ou que les tâches ordinaires deviennent beaucoup plus difficiles, Inaya peut reprendre contact avec son équipe de soins sans attendre de réussir à remplir sa journée. Elle n’a pas à utiliser le plaisir qu’elle ressent devant un film ou devant une fleur pour décider seule si son suivi doit changer."
+          "heading": "3 techniques pour faire une place à ce qui compte encore",
+          "points": [
+            {
+              "heading": "Un moment à la taille disponible",
+              "objective": "Conserver un projet partagé que chacun peut interrompre.",
+              "exercise": [
+                "Proposez une partie de l’activité.",
+                "Dites d’avance que vous pourrez faire une pause.",
+                "Gardez un repère pour reprendre plus tard si vous le souhaitez."
+              ],
+              "benefit": "Le film peut rester un moment partagé sans engagement pour toute la soirée."
+            },
+            {
+              "heading": "Un choix pratique quand l’intérêt manque",
+              "objective": "Terminer une décision de travail qui ne demande pas d’explorer toutes les options.",
+              "exercise": [
+                "Reprenez le besoin de la commande.",
+                "Choisissez une option que vous connaissez.",
+                "Laissez la découverte pour un autre moment."
+              ],
+              "benefit": "Cela peut rendre la décision moins coûteuse aujourd’hui."
+            },
+            {
+              "heading": "Deux exemples pour le suivi",
+              "objective": "Donner une idée de la perte d’intérêt dans plusieurs situations.",
+              "exercise": [
+                "Décrivez une activité que vous aimiez.",
+                "Dites ce que vous ressentez avant et en la faisant.",
+                "Ajoutez un moment où quelque chose vous a encore intéressé."
+              ],
+              "benefit": "L’équipe peut examiner la durée et les effets de ce changement."
+            }
+          ]
         }
       ],
       "ending": "Ils mangent un carré de chocolat avant le générique. Au bout d’une vingtaine de minutes, Inaya prévient qu’elle va s’arrêter après la scène suivante. Nino dit que c’est précisément là que l’histoire commence. Il l’a déjà regardée deux fois. Elle lui demande de marquer le passage pour qu’elle le retrouve. En allant ranger leurs tasses, elle laisse le ticket sous le pot à crayons. Le lendemain, elle ouvre enfin le papier qui entoure les fleurs orange. Elle en choisit deux pour la photo, assez différentes pour qu’on voie les couleurs même sur le panneau de la rue.",
       "mirror": [
-        "Myriam pourrait répondre à Inaya depuis la maison de quartier : « Si choisir des fleurs te prend trop d’énergie aujourd’hui, je peux faire la photo avec deux bottes que tu as déjà choisies. » Elle peut aussi attendre si sa sœur tient à faire la composition elle-même. En fin de journée, elle peut entendre qu’Inaya rit avec Nino et trouve d’autres moments pénibles. Nino a le droit de regarder son film ; les adultes cherchent les appuis dont sa mère a besoin."
+        "Myriam pourrait répondre à Inaya depuis la maison de quartier : « Si choisir des fleurs te prend trop d’énergie aujourd’hui, je peux faire la photo avec deux bottes que tu as déjà choisies. » Elle peut aussi attendre si sa sœur tient à faire la composition elle-même. En fin de journée, elle peut entendre qu’Inaya rit avec Nino et trouve d’autres moments pénibles. Nino a le droit de regarder son film. Les adultes cherchent les appuis dont sa mère a besoin."
       ],
       "sources": [
         "oms-cddr",
@@ -99,7 +212,8 @@
       },
       "ending_title": "Deux tiges pour l’affiche",
       "clinical_focus": "Perte d’intérêt et de plaisir",
-      "clinical_intro": "Les fleurs qu’Inaya choisirait d’ordinaire sans hésiter lui paraissent tout à coup indifférentes. L’anhédonie désigne une diminution de l’intérêt ou du plaisir, fréquente au cours d’un épisode dépressif. Inaya garde des goûts et des liens qui comptent pour elle. Cette matinée lui donne une observation concrète sur la manière dont elle éprouve les choses, à replacer dans l’évolution des autres difficultés."
+      "clinical_intro": "Les fleurs qu’Inaya choisirait d’ordinaire sans hésiter lui paraissent tout à coup indifférentes. L’anhédonie désigne une diminution de l’intérêt ou du plaisir, fréquente au cours d’un épisode dépressif. Inaya garde des goûts et des liens qui comptent pour elle. Cette matinée lui donne une observation concrète sur la manière dont elle éprouve les choses, à replacer dans l’évolution des autres difficultés.",
+      "conclusion": "Inaya peut choisir deux tiges pour l’affiche et s’arrêter avant la fin du film. Le plaisir a changé de place et de durée. Les adultes gardent la responsabilité d’organiser la suite avec Nino."
     },
     {
       "number": 3,
@@ -112,22 +226,78 @@
         "Retentissement familial",
         "Relais entre adultes"
       ],
-      "opening": "Le message de l’animatrice commence par le prénom de Nino. En le lisant, Inaya regarde vers la réserve : elle vient de retrouver la paire de ciseaux qu’elle cherchait depuis qu’elle a posé la première composition sur l’établi. Il est dix-sept heures trente-deux. Le cours de dessin finit à dix-sept heures vingt. Sur son agenda, la sortie de dix-huit heures qu’elle attendait est inscrite pour le vendredi suivant. Inaya laisse sur le comptoir la photo qu’elle devait envoyer à Myriam. Elle appelle l’animatrice pour la prévenir qu’elle arrive.\n\nNino est assis à côté de la porte, son dessin posé sur les genoux. Il a colorié le ciel avant de comprendre qu’il voulait le laisser blanc. Il montre à sa mère le bout de papier qu’il lui reste pour en faire un nuage. Puis il lui demande pourquoi elle est en retard. Inaya commence à dire qu’il y avait beaucoup de travail. Elle s’arrête. Il n’y avait qu’une livraison à noter et un bouquet à terminer. Elle s’était même donné du temps pour partir.\n\nInaya et Nino passent sous l’horloge du couloir avec l’animatrice. L’adulte confirme qu’elle garde toujours les enfants à l’intérieur le temps de joindre une personne autorisée. Dehors, Nino demande si Inaya viendra mercredi prochain ou si c’est Myriam. Il voudrait savoir à qui montrer son dessin une fois le nuage collé. Inaya ne connaît pas encore la réponse. Elle lui dit qu’elle va s’en occuper avec sa tante et qu’elle lui donnera l’horaire le matin du cours. Il replie le ciel bleu à l’intérieur pour ne pas l’abîmer.",
+      "opening": "Le message de l’animatrice commence par le prénom de Nino. En le lisant, Inaya regarde vers la réserve où elle vient de retrouver la paire de ciseaux qu’elle cherchait depuis qu’elle a posé la première composition sur l’établi. Il est dix-sept heures trente-deux. Le cours de dessin finit à dix-sept heures vingt. Sur son agenda, la sortie de dix-huit heures qu’elle attendait est inscrite pour le vendredi suivant. Inaya laisse sur le comptoir la photo qu’elle devait envoyer à Myriam. Elle appelle l’animatrice pour la prévenir qu’elle arrive.\n\nNino est assis à côté de la porte, son dessin posé sur les genoux. Il a colorié le ciel avant de comprendre qu’il voulait le laisser blanc. Il montre à sa mère le bout de papier qu’il lui reste pour en faire un nuage. Puis il lui demande pourquoi elle est en retard. Inaya commence à dire qu’il y avait beaucoup de travail. Elle s’arrête. Il n’y avait qu’une livraison à noter et un bouquet à terminer. Elle s’était même donné du temps pour partir.\n\nInaya et Nino passent sous l’horloge du couloir avec l’animatrice. L’adulte confirme qu’elle garde toujours les enfants à l’intérieur le temps de joindre une personne autorisée. Dehors, Nino demande si Inaya viendra mercredi prochain ou si c’est Myriam. Il voudrait savoir à qui montrer son dessin une fois le nuage collé. Inaya ne connaît pas encore la réponse. Elle lui dit qu’elle va s’en occuper avec sa tante et qu’elle lui donnera l’horaire le matin du cours. Il replie le ciel bleu à l’intérieur pour ne pas l’abîmer.",
       "sections": [
         {
           "role": "explanation",
           "heading": "Comprendre ce que la concentration change dans une journée",
-          "text": "Un épisode dépressif peut s’accompagner de difficultés à se concentrer ou à prendre des décisions. Ces difficultés ne sont pas propres à la dépression : le manque de sommeil, les interruptions, une autre difficulté de santé ou un changement d’organisation peuvent aussi peser."
+          "text": "Un épisode dépressif peut s’accompagner de difficultés à se concentrer ou à prendre des décisions. Le manque de sommeil, les interruptions, une autre difficulté de santé ou un changement d’organisation peuvent aussi peser."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour décrire le retentissement au rendez-vous, Inaya peut donner des faits : elle a confondu deux heures de sortie et elle doit parfois relire plusieurs fois un bon de commande avant d’y inscrire le bon chiffre.\n\nLe fait qu’elle puisse faire un bouquet tout en se perdant dans son agenda n’est pas contradictoire. Les deux activités ne lui demandent pas la même attention. Elle n’a pas à attendre une autre erreur pour signaler que cela lui coûte du temps et l’inquiète. Un professionnel pourra replacer ces observations dans l’ensemble de ce qu’elle traverse et chercher, avec elle, ce qui mérite d’être examiné."
+          "heading": "Comment la concentration se fragilise-t-elle quand les horaires se mêlent ?",
+          "points": [
+            {
+              "heading": "Deux horaires pris l’un pour l’autre",
+              "text": "Une difficulté à garder le fil peut faire revenir la mauvaise information au moment de s’en servir.",
+              "examples": [
+                "Inaya attend dix-huit heures, qui concerne le vendredi suivant.",
+                "Le cours de dessin du mercredi se termine à dix-sept heures vingt."
+              ]
+            },
+            {
+              "heading": "Une attention absorbée par ce qui est sous la main",
+              "text": "Même une journée assez calme peut devenir difficile à suivre quand les demandes s’enchaînent.",
+              "examples": [
+                "Inaya cherche ses ciseaux et retrouve la photo qu’elle devait envoyer.",
+                "Le message de l’animatrice la fait revenir à l’horaire dont elle avait besoin."
+              ]
+            },
+            {
+              "heading": "Un effort pour réparer l’organisation",
+              "text": "La difficulté se lit aussi dans les échanges nécessaires après le retard.",
+              "examples": [
+                "Inaya appelle l’animatrice dès qu’elle voit l’heure.",
+                "Nino voudrait savoir qui viendra le mercredi suivant et Inaya doit encore confirmer l’accord avec Myriam."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Organiser un relais sans demander à l’enfant de veiller",
-          "text": "Inaya peut vérifier avec l’animatrice les horaires et les personnes autorisées à venir chercher Nino. Myriam peut s’engager sur un mercredi précis, si elle le peut. Elles peuvent laisser à Nino une information simple : qui vient et où l’attendre. Il n’a pas à rappeler l’heure à sa mère ni à surveiller l’état dans lequel elle part au travail.\n\nÀ la boutique, Inaya peut choisir un repère qu’elle a des chances d’utiliser : placer les bons à vérifier au même endroit et n’ouvrir qu’un dossier à la fois, par exemple. Si ces aménagements ne suffisent pas, le problème mérite encore d’être entendu. Une organisation plus claire peut faciliter une tâche sans régler ce qui lui rend la journée difficile."
+          "heading": "3 techniques pour rendre une consigne importante plus facile à retrouver",
+          "points": [
+            {
+              "heading": "Une confirmation auprès de l’adulte responsable",
+              "objective": "Donner une réponse claire à la personne qui assure l’accueil de l’enfant.",
+              "exercise": [
+                "Appelez l’animatrice si un retard survient.",
+                "Confirmez qui vient chercher l’enfant.",
+                "Suivez les règles d’autorisation prévues par le lieu."
+              ],
+              "benefit": "Le relais reste dans les mains des adultes qui en ont la responsabilité."
+            },
+            {
+              "heading": "Un seul horaire de référence",
+              "objective": "Éviter de reprendre plusieurs agendas au moment du départ.",
+              "exercise": [
+                "Écrivez le jour et l’heure confirmés.",
+                "Notez l’adulte disponible pour cette date.",
+                "Reprenez les dates encore ouvertes avec lui séparément."
+              ],
+              "benefit": "L’accord peut rester fiable sans couvrir les semaines qui n’ont pas encore été organisées."
+            },
+            {
+              "heading": "Un fait à raconter en consultation",
+              "objective": "Préciser ce que la difficulté de concentration a changé.",
+              "exercise": [
+                "Notez les deux horaires confondus.",
+                "Ajoutez ce que vous étiez en train de faire.",
+                "Décrivez l’effet sur la sortie du cours."
+              ],
+              "benefit": "Cet exemple peut aider à distinguer la gêne des autres contraintes de la journée."
+            }
+          ]
         }
       ],
       "ending": "Après le dîner, Inaya appelle Myriam. Sa sœur est disponible le mercredi suivant, pas celui d’après. Elles préviennent l’animatrice et ne mettent dans leur calendrier que ce qu’elles viennent de confirmer. Inaya retourne ensuite voir Nino, qui a collé le nuage bleu sur la fenêtre de sa chambre plutôt que sur son dessin. Elle lui donne le nom de la personne qui viendra mercredi. En allant se coucher, elle écrit aussi la date du retard sur le papier destiné à la consultation. Le papier tient près de la lampe. Elle n’en fait pas une nouvelle liste de choses à rattraper.",
@@ -145,7 +315,8 @@
       },
       "ending_title": "Un seul trajet à confirmer",
       "clinical_focus": "Difficultés de concentration",
-      "clinical_intro": "Inaya confond deux heures de sortie et arrive en retard au cours de dessin de Nino. Elle reconnaît aussi le temps qu’elle passe à relire les commandes. La concentration peut devenir plus fragile pendant un épisode dépressif. Des exemples précis permettent de décrire les conséquences pour les proches et d’examiner d’autres facteurs possibles, comme des nuits écourtées ou des journées interrompues."
+      "clinical_intro": "Inaya confond deux heures de sortie et arrive en retard au cours de dessin de Nino. Elle reconnaît aussi le temps qu’elle passe à relire les commandes. La concentration peut devenir plus fragile pendant un épisode dépressif. Des exemples précis permettent de décrire les conséquences pour les proches et d’examiner d’autres facteurs possibles, comme des nuits écourtées ou des journées interrompues.",
+      "conclusion": "L’animatrice garde Nino en sécurité pendant qu’Inaya arrive. Inaya et Myriam règlent un trajet à la fois. Le retard peut être raconté au rendez-vous sans devenir un jugement sur la mère."
     },
     {
       "number": 4,
@@ -158,22 +329,78 @@
         "Signaux d’aggravation",
         "Demande d’aide précoce"
       ],
-      "opening": "À quatre heures passées, Inaya entend le premier bus ralentir. Il fait toujours le même bruit au carrefour, mais elle ne l’avait jamais entendu depuis son lit avant cette semaine. Elle s’est réveillée bien avant lui. Elle commence à calculer combien de temps elle pourrait encore dormir, puis pense au pot de monnaie qu’elle a oublié de remettre sous le comptoir. Il est à l’intérieur de la boutique, derrière la caisse fermée. Elle connaît tous les détails qui devraient lui permettre de le laisser là. Elle vérifie quand même sur son téléphone l’heure à laquelle elle pourra entrer.\n\nEn ouvrant plus tard, elle remarque le petit morceau de papier qu’elle a mis près de sa lampe la veille. Elle l’a glissé dans sa poche avec ses clés. Sous la date du cours de dessin, elle note l’heure du réveil. Quatre heures est devenu familier, sans qu’elle soit certaine du nombre de matins où cela s’est produit. Elle a aussi laissé deux messages de la maison de quartier sans réponse. Le premier portait sur le nombre de chaises ; le second, sur la prise électrique près de la table. Autrefois, même fatiguée, elle aurait rappelé en portant son tablier au crochet.\n\nMyriam arrive à l’heure convenue pour mesurer la largeur de la photo. Inaya lui demande d’attendre avant de dérouler le mètre. Elle a le numéro du cabinet sur l’écran et cherche ce qu’elle veut dire à la personne qui décrochera. Sa première phrase lui vient : « Je crois que ça change depuis quelques jours. » Elle n’arrive pas à trouver une phrase plus assurée. Elle appuie quand même sur l’icône d’appel.",
+      "opening": "À quatre heures passées, Inaya entend le premier bus ralentir. Il fait toujours le même bruit au carrefour, mais elle ne l’avait jamais entendu depuis son lit avant cette semaine. Elle s’est réveillée bien avant lui. Elle commence à calculer combien de temps elle pourrait encore dormir, puis pense au pot de monnaie qu’elle a oublié de remettre sous le comptoir. Il est à l’intérieur de la boutique, derrière la caisse fermée. Elle connaît tous les détails qui devraient lui permettre de le laisser là. Elle vérifie quand même sur son téléphone l’heure à laquelle elle pourra entrer.\n\nEn ouvrant plus tard, elle remarque le petit morceau de papier qu’elle a mis près de sa lampe la veille. Elle l’a glissé dans sa poche avec ses clés. Sous la date du cours de dessin, elle note l’heure du réveil. Quatre heures est devenu familier, sans qu’elle soit certaine du nombre de matins où cela s’est produit. Elle a aussi laissé deux messages de la maison de quartier sans réponse. Le premier portait sur le nombre de chaises. Le second concernait la prise électrique près de la table. Autrefois, même fatiguée, elle aurait rappelé en portant son tablier au crochet.\n\nMyriam arrive à l’heure convenue pour mesurer la largeur de la photo. Inaya lui demande d’attendre avant de dérouler le mètre. Elle a le numéro du cabinet sur l’écran et cherche ce qu’elle veut dire à la personne qui décrochera. Sa première phrase lui vient : « Je crois que ça change depuis quelques jours. » Elle n’arrive pas à trouver une phrase plus assurée. Elle appuie quand même sur l’icône d’appel.",
       "sections": [
         {
           "role": "explanation",
           "heading": "Comprendre la différence entre un indice et un diagnostic",
-          "text": "Un sommeil plus court ou des réveils inhabituels peuvent accompagner un épisode dépressif et peuvent aussi avoir d’autres explications. Une mauvaise nuit, prise seule, ne suffit pas pour parler de rechute. Le NICE recommande, dans le travail de prévention, de repérer avec la personne les changements qui ont précédé des périodes d’aggravation et de prévoir une réponse si ces changements reviennent. Ce sont des repères personnels, à discuter dans le suivi."
+          "text": "Un sommeil plus court ou des réveils inhabituels peuvent accompagner un épisode dépressif et peuvent aussi avoir d’autres explications. Une mauvaise nuit, prise seule, ne suffit pas pour parler de rechute. Le travail de prévention peut aider à repérer avec la personne les changements qui ont précédé une aggravation et à prévoir une réponse s’ils reviennent. Ce sont des repères personnels, à discuter dans le suivi."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Inaya, la question se pose parce que plusieurs choses se rejoignent : les réveils, l’effort que demandent des tâches familières et les appels qu’elle remet. Elle se rappelle que le sommeil avait changé lors d’un épisode précédent. Elle peut donner cet élément sans affirmer que l’histoire se répète. Le professionnel qui la suit pourra lui demander ce qui a changé, depuis quand et avec quel effet au travail et à la maison."
+          "heading": "Comment des signes personnels d’aggravation s’accumulent-ils ?",
+          "points": [
+            {
+              "heading": "Des réveils qui prennent une place nouvelle",
+              "text": "Une nuit courte peut avoir plusieurs causes. Une modification qui se répète mérite d’être replacée dans son contexte.",
+              "examples": [
+                "Inaya entend depuis son lit un bus qu’elle n’entendait pas avant cette semaine.",
+                "Au lieu de retrouver le sommeil, elle se remet à penser à la caisse déjà fermée."
+              ]
+            },
+            {
+              "heading": "Des gestes habituels qui restent en suspens",
+              "text": "Un changement du sommeil peut s’accompagner de difficultés que la personne repère ailleurs.",
+              "examples": [
+                "Deux messages simples sur la salle restent sans réponse.",
+                "Rappeler après avoir accroché son tablier lui aurait été possible les autres semaines."
+              ]
+            },
+            {
+              "heading": "Une incertitude qui retarde l’appel",
+              "text": "La personne peut attendre d’avoir un récit complet avant de parler d’une aggravation.",
+              "examples": [
+                "Inaya n’est pas sûre du nombre de matins où elle s’est réveillée tôt.",
+                "Devant Myriam, elle cherche une phrase assurée et finit par décrire ce qu’elle sait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Appeler avant d’avoir une explication complète",
-          "text": "Inaya peut indiquer qu’elle a déjà un rendez-vous et expliquer ce qui l’amène à demander un contact plus tôt. Pour préparer l’appel, quelques mots à sa portée suffisent : des réveils répétés, deux tâches qu’elle n’arrive plus à faire comme avant et ce qui l’inquiète. Le cabinet peut lui préciser la suite et la conduite à tenir si sa situation se détériore avant la consultation.\n\nSi elle n’obtient pas de réponse, le médecin qui la connaît ou un autre service de soins peut l’aider à trouver un relais adapté. Si sa sécurité est en jeu, elle cherche une aide urgente. Myriam peut rester près d’elle si elle le souhaite. Elle n’a pas à interpréter chaque nuit ni à décider de la suite clinique."
+          "heading": "3 techniques pour signaler les changements avant le prochain point",
+          "points": [
+            {
+              "heading": "Deux observations à rapprocher",
+              "objective": "Décrire un changement dans plusieurs aspects du quotidien.",
+              "exercise": [
+                "Notez un réveil qui vous a marqué.",
+                "Ajoutez une tâche ordinaire devenue difficile.",
+                "Situez les deux dans la semaine, même approximativement."
+              ],
+              "benefit": "Le rapprochement peut rendre le signal personnel plus compréhensible pour le soignant."
+            },
+            {
+              "heading": "Un contact avant la date prévue",
+              "objective": "Avoir une réponse à une inquiétude nouvelle.",
+              "exercise": [
+                "Appelez le cabinet ou le contact convenu.",
+                "Dites ce qui vous préoccupe depuis quelques jours.",
+                "Demandez quand refaire le point ou rappeler si cela empire."
+              ],
+              "benefit": "L’équipe peut organiser la réponse selon la situation."
+            },
+            {
+              "heading": "Un petit geste après l’appel",
+              "objective": "Choisir ce qui est encore faisable pendant l’attente.",
+              "exercise": [
+                "Dites à votre proche ce que vous venez de régler.",
+                "Reprenez une tâche courte si vous le souhaitez.",
+                "Gardez séparément la consigne de soin reçue."
+              ],
+              "benefit": "Inaya peut mesurer la photo sans attendre que cette décision change ses nuits."
+            }
+          ]
         }
       ],
       "ending": "Le cabinet lui propose un bref échange téléphonique le lendemain et maintient le rendez-vous prévu. Inaya note les deux moments, puis demande à Myriam de dérouler le mètre. Elles réduisent la largeur de la photo de deux centimètres. Sur le dos du papier, Inaya écrit « rappeler si ça empire », d’après la consigne reçue. Le bus repasse devant la vitrine, en pleine lumière cette fois. Elle n’a rien trouvé qui garantisse une meilleure nuit. Elle a maintenant une personne à qui dire comment se passera la suivante.",
@@ -191,7 +418,8 @@
       },
       "ending_title": "Un appel avant le prochain rendez-vous",
       "clinical_focus": "Signaux personnels d’aggravation",
-      "clinical_intro": "Inaya se réveille très tôt plusieurs matins et remarque que les gestes de la journée lui coûtent davantage. Les changements du sommeil peuvent accompagner une aggravation dépressive. Ils deviennent plus informatifs quand on regarde leur durée, les autres difficultés et ce qu’ils rappellent des épisodes antérieurs. Inaya a déjà plusieurs éléments concrets à décrire lorsqu’elle demande un avis plus tôt."
+      "clinical_intro": "Inaya se réveille très tôt plusieurs matins et remarque que les gestes de la journée lui coûtent davantage. Les changements du sommeil peuvent accompagner une aggravation dépressive. Ils deviennent plus informatifs quand on regarde leur durée, les autres difficultés et ce qu’ils rappellent des épisodes antérieurs. Inaya a déjà plusieurs éléments concrets à décrire lorsqu’elle demande un avis plus tôt.",
+      "conclusion": "Le premier bus et les deux messages lui indiquent que plusieurs choses ont changé. Inaya appelle avant le rendez-vous et garde la consigne du cabinet. Myriam peut faire la place nécessaire à cet appel."
     },
     {
       "number": 5,
@@ -213,16 +441,72 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Les contraintes ne viennent pas toutes de sa santé. Une commande a déjà été promise et sa collègue a ses propres engagements. Elle peut distinguer les heures où un service est réellement attendu, les heures affichées par habitude et les tâches pour lesquelles une deuxième personne aide. Ce regard lui donne des faits à discuter au suivi, sans réduire sa vie professionnelle à un niveau d’énergie."
+          "heading": "Comment la fatigue dépressive se voit-elle derrière le travail terminé ?",
+          "points": [
+            {
+              "heading": "Un rythme ralenti derrière une vente ordinaire",
+              "text": "Le coût d’une tâche peut augmenter sans que le client voie la difficulté.",
+              "examples": [
+                "Inaya tient deux rubans avant de comprendre que la cliente parle de la longueur.",
+                "Mina peut finir la recherche dans le rayon alors qu’Inaya peine à reprendre la caisse."
+              ]
+            },
+            {
+              "heading": "Des reprises qui allongent la fin de journée",
+              "text": "La fatigue peut obliger à recommencer une suite de gestes dont la personne a l’habitude.",
+              "examples": [
+                "Inaya recompte la monnaie quand elle ne sait plus où elle en est.",
+                "Une commande simple peut lui prendre plus de temps les soirs qu’elle a décrits au cabinet."
+              ]
+            },
+            {
+              "heading": "Peu de marge après l’horaire prévu",
+              "text": "La gêne peut se remarquer quand une seule demande imprévue occupe l’énergie restante.",
+              "examples": [
+                "La livraison du jeudi entre en conflit avec l’engagement de Mina.",
+                "Inaya déplace le papier sur le calendrier sans trouver comment maintenir tous les horaires."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Essayer un changement limité et en regarder les effets",
-          "text": "À la boutique, Inaya peut commencer par deux fermetures plus tôt, annoncées avec des dates, et contacter la cliente qui doit retirer la commande tardive. Si cette cliente a besoin d’un autre créneau, elle peut lui proposer les options possibles. Mina peut dire ce qu’elle accepte dans ses horaires, sans hériter du reste. Elles peuvent vérifier ensuite s’il y a eu des commandes difficiles à retirer et si Inaya retrouve du temps pour ses repas ou ses rendez-vous.\n\nLa possibilité d’aménager le travail dépend de l’activité, de l’équipe et de la situation de chacun. Le suivi de santé reste utile pour en discuter, surtout si la réduction des horaires ne suffit pas ou si la situation change. Inaya peut garder l’atelier au stade de projet pendant l’essai et revenir à cette décision quand elle en saura davantage."
+          "heading": "3 techniques pour décrire le coût du service et ajuster une fermeture",
+          "points": [
+            {
+              "heading": "Le temps réellement nécessaire",
+              "objective": "Donner à la fatigue un repère qui parle au soignant.",
+              "exercise": [
+                "Choisissez une tâche terminée.",
+                "Dites ce qui a demandé une reprise.",
+                "Ajoutez comment vous étiez à la fin du service."
+              ],
+              "benefit": "La consultation peut tenir compte du travail effectué et de son coût."
+            },
+            {
+              "heading": "Deux fermetures à essayer",
+              "objective": "Ajuster une contrainte avec la collègue qui la partage.",
+              "exercise": [
+                "Identifiez les créneaux où vous manquez de marge.",
+                "Vérifiez les engagements déjà pris avec les clientes.",
+                "Affichez les heures effectivement retenues."
+              ],
+              "benefit": "L’essai peut alléger la fin de journée et respecter les disponibilités de Mina."
+            },
+            {
+              "heading": "Une demande claire à la cliente",
+              "objective": "Résoudre une exception sans prolonger d’emblée tout l’horaire.",
+              "exercise": [
+                "Reprenez l’heure promise.",
+                "Proposez un autre moment où la commande est prête.",
+                "Vérifiez l’accord avant de modifier le retrait."
+              ],
+              "benefit": "La commande de jeudi peut être réglée selon sa propre contrainte."
+            }
+          ]
         }
       ],
-      "ending": "Mina prend un petit panneau et écrit les deux dates avec leurs heures. Elles laissent le jeudi pour la fin : Inaya va proposer à la cliente de venir au début de la journée. À dix-neuf heures passées, la caisse est comptée. Inaya accroche le panneau assez bas pour qu’on puisse lire la deuxième ligne. À la maison, elle ouvre son carnet pour le rendez-vous et note ce qu’elle voudra raconter de cette demi-heure. Puis elle appelle Nino, qui essaie de savoir s’ils ont le droit de mettre deux fromages dans le même sandwich.",
+      "ending": "Mina prend un petit panneau et écrit les deux dates avec leurs heures. Elles règlent le jeudi en dernier. Inaya va proposer à la cliente de venir au début de la journée. À dix-neuf heures passées, la caisse est comptée. Inaya accroche le panneau assez bas pour qu’on puisse lire la deuxième ligne. À la maison, elle ouvre son carnet pour le rendez-vous et note ce qu’elle voudra raconter de cette demi-heure. Puis elle appelle Nino, qui essaie de savoir s’ils ont le droit de mettre deux fromages dans le même sandwich.",
       "mirror": [
         "Mina peut dire clairement les soirs où elle est disponible et relire le panneau des deux fermetures avec Inaya. « Pour jeudi, je dois partir à l’heure. Je peux rappeler la cliente demain matin si tu veux, avec les créneaux que tu choisis. » Elle peut aussi écouter ce qui fatigue Inaya en fin de journée sans chercher à en deviner la cause. Leur accord concerne le travail. Inaya garde le choix de ce qu’elle dira de sa santé à l’équipe ou aux clients."
       ],
@@ -237,35 +521,92 @@
       },
       "ending_title": "Deux fermetures à essayer",
       "clinical_focus": "Fatigue et retentissement professionnel",
-      "clinical_intro": "Inaya termine le bouquet, répond à la cliente et ferme la caisse. Vu de l’extérieur, elle a tenu sa journée. Elle ressent pourtant un effort inhabituel dans les derniers gestes et récupère difficilement. Le retentissement de la dépression se mesure aussi à ce coût, que le résultat d’une tâche rend parfois invisible. Raccourcir deux journées lui donne une situation précise à observer."
+      "clinical_intro": "Inaya termine le bouquet, répond à la cliente et ferme la caisse. Vu de l’extérieur, elle a tenu sa journée. Elle ressent pourtant un effort inhabituel dans les derniers gestes et récupère difficilement. Le retentissement de la dépression se mesure aussi à ce coût, que le résultat d’une tâche rend parfois invisible. Raccourcir deux journées lui donne une situation précise à observer.",
+      "conclusion": "Inaya termine la caisse et essaie des fermetures plus tôt. Le résultat du travail reste visible, la fatigue devient plus facile à décrire. Mina participe à un accord qui respecte aussi ses horaires."
     },
     {
       "number": 6,
       "slug": "inaya-consultation-decider-ensemble",
-      "title": "Décrire le retentissement de la dépression en consultation",
-      "description": "Au suivi, Inaya décrit le sommeil, la boutique et le temps avec Nino. Elle demande ce qu’elle peut faire si son état change avant le prochain rendez-vous.",
+      "title": "Quand l’appétit change sans qu’on s’en aperçoive tout de suite",
+      "description": "La psychiatre interroge Inaya sur ses repas. Elle se souvient d’un déjeuner resté dans son sac et reprend le suivi prévu.",
       "context": "Un rendez-vous de suivi en consultation",
       "topics": [
-        "Retentissement quotidien",
-        "Décision partagée en soins",
-        "Suivi de la dépression"
+        "Appétit",
+        "Dépression récurrente",
+        "Retentissement quotidien"
       ],
-      "opening": "Le papier qu’Inaya a plié dans son agenda laisse une empreinte sur le revêtement de la chaise. En le dépliant, elle retrouve dans le désordre le cours de dessin, l’heure des réveils et deux dates de fermeture. Elle a ajouté au bas de la page « le film, vingt minutes ». Elle n’avait pas l’intention de raconter le film. Elle a écrit ces mots après avoir essayé de résumer la semaine par « tout est difficile » et trouvé que cela ne disait rien de la façon dont elle la traversait.\n\nSa psychiatre demande par quoi elle aimerait commencer. Inaya montre d’abord la ligne où elle a inscrit l’heure du réveil. Elle raconte aussi le moment où elle a attendu trop longtemps avant de comprendre la question sur le ruban. La psychiatre lui demande si elle arrive à manger, comment se passent ses journées avec Nino et s’il lui est arrivé de penser à mourir. Inaya répond que non. Elle ajoute, après un silence, qu’elle regrette souvent de ne pas pouvoir faire une journée ordinaire sans devoir choisir ce qu’elle va laisser tomber.\n\nC’est l’heure à laquelle Inaya passe d’habitude ses commandes. Elle a prévenu Mina qu’elle ne serait pas joignable. Elle se rend compte qu’elle dispose encore d’un peu de temps et qu’elle ne sait pas vraiment ce qui va se passer après cette consultation. Sur son papier, elle a laissé de la place à côté du mot « atelier ». Avant que sa psychiatre reprenne, elle lui demande quand elles pourront refaire le point.",
+      "opening": "Le papier qu’Inaya a plié dans son agenda laisse une empreinte sur le revêtement de la chaise. En le dépliant, elle retrouve dans le désordre le cours de dessin, l’heure des réveils et deux dates de fermeture. Elle a ajouté au bas de la page « le film, vingt minutes ». Elle n’avait pas l’intention de raconter le film. Elle a écrit ces mots après avoir essayé de résumer la semaine par « tout est difficile » et trouvé que cela ne disait rien de la façon dont elle la traversait.\n\nSa psychiatre demande par quoi elle aimerait commencer. Inaya montre d’abord la ligne où elle a inscrit l’heure du réveil. Elle raconte aussi le moment où elle a attendu trop longtemps avant de comprendre la question sur le ruban. La psychiatre lui demande si elle arrive à manger. Inaya revoit le déjeuner qu’elle avait retrouvé intact dans son sac à la fermeture. Le soir, elle s’assoit avec Nino, mais retrouve parfois sa propre tartine presque entière au moment de débarrasser. Elle raconte cela avant de répondre sur ses journées avec Nino et sur la question de savoir s’il lui est arrivé de penser à mourir. Inaya répond que non. Elle ajoute, après un silence, qu’elle regrette souvent de ne pas pouvoir faire une journée ordinaire sans devoir choisir ce qu’elle va laisser tomber.\n\nC’est l’heure à laquelle Inaya passe d’habitude ses commandes. Elle a prévenu Mina qu’elle ne serait pas joignable. Elle se rend compte qu’elle dispose encore d’un peu de temps et qu’elle ne sait pas vraiment ce qui va se passer après cette consultation. Sur son papier, elle a laissé de la place à côté du mot « atelier ». Avant que sa psychiatre reprenne, elle lui demande quand elles pourront refaire le point.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce que chacun apporte au suivi",
-          "text": "La consultation peut relier l’évolution des symptômes, leurs conséquences et ce qui compte pour la personne. La psychiatre apporte son évaluation ; Inaya est la mieux placée pour raconter le temps que lui prend une fermeture, l’intérêt qu’elle garde pour les bouquets et ce qu’elle aimerait faire avec son fils. Les questions sur la sécurité font partie de cette évaluation. Elles ne supposent pas que le professionnel connaît déjà la réponse ou qu’une personne en difficulté doit savoir utiliser les mots cliniques."
+          "heading": "L’appétit dans le bilan d’un épisode dépressif",
+          "text": "Un épisode dépressif peut s’accompagner d’une modification de l’appétit. La personne peut remarquer plus tard qu’elle a mangé autrement ou que la faim lui vient moins facilement. Les repas changent aussi pour d’autres raisons, que la consultation peut examiner. La psychiatre rapproche ce qu’Inaya raconte des autres difficultés, de leur évolution et de leurs conséquences. Elle l’interroge également sur sa sécurité. Inaya peut décrire le déjeuner retrouvé dans son sac sans devoir en déterminer la cause."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La HAS préconise de construire et de revoir le projet de soins avec la personne. Le NICE insiste aussi sur ses préférences et sur la discussion des options. Concrètement, Inaya peut demander ce qu’elle devrait observer, à qui parler si la situation change et quand une nouvelle décision sera nécessaire. Elle peut signaler qu’un créneau la force à choisir entre la consultation et une responsabilité familiale, pour chercher une autre possibilité avec l’équipe."
+          "heading": "Comment un changement d’appétit peut-il passer inaperçu dans la journée ?",
+          "points": [
+            {
+              "heading": "La faim moins facile à reconnaître",
+              "text": "L’appétit peut changer au cours d’un épisode dépressif et la personne peut s’en apercevoir après plusieurs journées.",
+              "examples": [
+                "À la boutique, Inaya retrouve parfois le déjeuner dans son sac quand elle range ses affaires.",
+                "Elle se rend compte que certains jours le repas a simplement quitté son esprit."
+              ]
+            },
+            {
+              "heading": "Le repas qui se réduit alors que le cadre reste en place",
+              "text": "La personne peut continuer à préparer quelque chose pour sa famille tout en mangeant différemment elle-même.",
+              "examples": [
+                "Inaya s’assoit avec Nino et voit que sa propre tartine est restée presque entière.",
+                "Dans une autre situation, quelqu’un peut garder la pause commune et avoir peu d’appétit pendant le repas."
+              ]
+            },
+            {
+              "heading": "Un changement qui n’apparaît qu’en précisant les faits",
+              "text": "Un bilan peut aborder l’alimentation, l’humeur et la fatigue ensemble, sans tirer de conclusion d’un repas.",
+              "examples": [
+                "Inaya pense d’abord raconter le réveil de quatre heures et le ruban.",
+                "À la question de sa psychiatre, elle se souvient du déjeuner encore emballé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se quitter avec une suite qu’elle comprend",
-          "text": "Inaya peut reformuler les points qu’elle retient : une nouvelle date, la personne à joindre entre deux rendez-vous et les situations qui justifieraient de demander une aide plus tôt. Si une réponse lui échappe, elle peut demander qu’elle soit reformulée ou notée. Elle décide de ce qu’elle souhaite partager ensuite avec Myriam. Sa sœur peut l’aider avec un trajet ou un horaire sans recevoir le contenu de la consultation.\n\nSi son état se dégrade, Inaya peut signaler le changement sans attendre le prochain rendez-vous. Les consignes convenues n’ont pas pour fonction de lui faire porter seule le jugement sur ce qui se passe : elles lui indiquent comment retrouver un professionnel qui pourra l’aider à l’évaluer."
+          "heading": "3 techniques pour parler des repas au rendez-vous",
+          "points": [
+            {
+              "heading": "Une journée à raconter",
+              "objective": "Donner un exemple assez concret pour être discuté.",
+              "exercise": [
+                "Reprenez l’heure du repas prévue.",
+                "Dites ce que vous avez pu manger ou préparer.",
+                "Ajoutez depuis quand vous remarquez un changement."
+              ],
+              "benefit": "Ces détails peuvent guider les questions de l’équipe."
+            },
+            {
+              "heading": "Plusieurs difficultés sur le même papier",
+              "objective": "Situer l’alimentation parmi les autres changements.",
+              "exercise": [
+                "Choisissez une difficulté au moment des repas.",
+                "Relevez une conséquence au travail ou à la maison.",
+                "Dites si une question vous inquiète davantage."
+              ],
+              "benefit": "Le soignant peut examiner les liens et les autres explications possibles."
+            },
+            {
+              "heading": "Un point à convenir",
+              "objective": "Savoir comment reparler des difficultés si elles se prolongent.",
+              "exercise": [
+                "Demandez ce qui mérite d’être revu.",
+                "Convenez du prochain contact.",
+                "Notez à qui parler si la situation se dégrade avant la date."
+              ],
+              "benefit": "Un repère de suivi peut être utile même si l’appétit varie d’un jour à l’autre."
+            }
+          ]
         }
       ],
       "ending": "Elles fixent un point plus rapproché et revoient qui Inaya peut joindre entre les deux. Inaya inscrit la date à côté du film. À la sortie, elle appelle Mina pour donner l’heure à laquelle elle sera de retour. Elle n’ajoute aucune explication. À Myriam, elle demande autre chose : « Est-ce qu’on peut reprendre ce qu’on veut dire à la maison de quartier ? Je voudrais qu’on fixe le format avant d’annoncer une date. » Sa sœur lui propose de se retrouver devant le panneau qu’elles ont mesuré.",
@@ -282,36 +623,93 @@
         "next": "Elle choisit avec sa sœur le message à envoyer à la maison de quartier sans révéler son diagnostic."
       },
       "ending_title": "Ce qu’Inaya veut partager",
-      "clinical_focus": "Évaluation du retentissement dépressif",
-      "clinical_intro": "Inaya décrit ses réveils, le temps que lui prend une fermeture et le cinéma qu’elle aimerait partager avec Nino. En consultation, ces exemples éclairent à la fois les symptômes, l’effort du quotidien et ses priorités. La psychiatre peut reprendre l’évolution et la sécurité avec elle. Inaya peut ensuite demander une suite précise, y compris savoir qui appeler si les difficultés augmentent."
+      "clinical_focus": "Baisse d’appétit et repas oubliés",
+      "clinical_intro": "Venue parler de ses nuits et du travail, Inaya se souvient qu’elle a parfois oublié de déjeuner. Une baisse d’appétit peut accompagner un épisode dépressif et passer au second plan dans une journée bien remplie. En donnant des exemples à sa psychiatre, Inaya peut faire une place à cette difficulté parmi les autres changements.",
+      "conclusion": "En décrivant ses repas, Inaya donne un exemple que le mot « difficile » laissait de côté. Le suivi se rapproche. Elle décide ensuite de ce qu’elle souhaite demander à Myriam pour l’atelier."
     },
     {
       "number": 7,
       "slug": "inaya-choisir-ce-qu-elle-partage",
-      "title": "Accepter un soutien en gardant ses confidences",
-      "description": "Myriam prépare un message pour la maison de quartier. Inaya choisit ce qu’elle souhaite dire sur le format de l’atelier et garder pour elle.",
+      "title": "Quand le retrait rend le premier appel à l’aide difficile",
+      "description": "Inaya laisse un message en brouillon. Devant la maison de quartier, elle demande à Myriam de l’aider à l’envoyer.",
       "context": "Sur un banc devant la maison de quartier",
       "topics": [
-        "Consentement à partager",
-        "Crainte de perdre son autonomie",
-        "Soutien familial"
+        "Retrait",
+        "Initiative",
+        "Aide choisie"
       ],
-      "opening": "Inaya serre la poignée de son sac quand Myriam lit à voix haute les mots « problèmes de santé ». Les deux sœurs se sont assises devant le panneau où leur affiche est encore sans date. Myriam prépare un message pour Sofia, qui gère la salle, et elle hésite entre « petit groupe » et « six personnes ». Pour Inaya, la question est ailleurs. Elle a confié à sa sœur ce que lui coûtaient les derniers jours et avait choisi de parler à Sofia seulement du format de l’essai.\n\nInaya pose son sac entre ses chaussures. Elle avait prévu de demander un essai de trente minutes, et du temps pour nettoyer après. Elle n’avait pas prévu que Sofia saurait qu’elle avait revu sa psychiatre. « Elle n’a pas besoin de ça pour choisir les horaires », dit-elle. Myriam lui montre l’écran. Aucun message n’est parti. Elle explique qu’elle a peur de passer pour celle qui change les règles au dernier moment, alors qu’elles parlent de l’atelier depuis des semaines. Inaya aurait aimé que sa sœur commence par cette phrase.\n\nDerrière la vitre, Sofia déplace une pile de chaises. Il y a longtemps, Inaya avait vendu à sa mère un bouquet qu’elle lui avait payé avec la monnaie de sa propre caisse. Myriam connaît l’histoire et en rit encore. Inaya pourrait facilement parler de ce souvenir à Sofia. Elle sait aussi ce qu’elle souhaite dire aujourd’hui : elles sont deux à mener l’atelier, elles veulent essayer le format avant d’ouvrir les inscriptions, et les participants auront besoin d’une surface où disposer les fleurs. Elle relit la première phrase et demande à Myriam de l’effacer.",
+      "opening": "Inaya serre la poignée de son sac quand Myriam lit à voix haute les mots « problèmes de santé ». Les deux sœurs se sont assises devant le panneau où leur affiche est encore sans date. Inaya a déjà réécrit deux fois la première ligne d’une demande de rendez-vous et l’a laissée en brouillon. Elle veut parler de l’atelier, mais remettre une troisième fois les mots dans l’ordre lui paraît trop coûteux. Elle a demandé à Myriam de préparer avec elle un message pour Sofia, qui gère la salle. Sa sœur hésite entre « petit groupe » et « six personnes ». Pour Inaya, la question est ailleurs. Elle a confié à sa sœur ce que lui coûtaient les derniers jours et avait choisi de parler à Sofia seulement du format de l’essai.\n\nInaya pose son sac entre ses chaussures. Elle avait prévu de demander un essai de trente minutes, et du temps pour nettoyer après. Elle n’avait pas prévu que Sofia saurait qu’elle avait revu sa psychiatre. « Elle n’a pas besoin de ça pour choisir les horaires », dit-elle. Myriam lui montre l’écran. Aucun message n’est parti. Elle explique qu’elle a peur de passer pour celle qui change les règles au dernier moment, alors qu’elles parlent de l’atelier depuis des semaines. Inaya aurait aimé que sa sœur commence par cette phrase.\n\nDerrière la vitre, Sofia déplace une pile de chaises. Il y a longtemps, Inaya avait vendu à sa mère un bouquet qu’elle lui avait payé avec la monnaie de sa propre caisse. Myriam connaît l’histoire et en rit encore. Inaya pourrait facilement parler de ce souvenir à Sofia. Aujourd’hui, elle veut dire à Sofia qu’elles vont mener l’atelier à deux et essayer le format avant d’ouvrir les inscriptions. Elle ajoutera que les participants auront besoin d’une surface où disposer les fleurs. Elle relit la première phrase et demande à Myriam de l’effacer.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Distinguer l’aide demandée et les informations qui la rendent possible",
-          "text": "Pour mettre en place un soutien, les personnes autour d’Inaya n’ont pas toutes besoin des mêmes informations. Sa psychiatre a besoin de savoir comment les difficultés évoluent."
+          "heading": "Le premier geste peut demander davantage d’élan",
+          "text": "Dans un épisode dépressif, le manque d’énergie et le retrait peuvent rendre les contacts plus difficiles à engager. La personne peut garder une envie et savoir à qui parler tout en laissant une demande en suspens. Inaya veut obtenir un créneau. Écrire seule à Sofia lui demande en ce moment plus d’effort que de reprendre un texte à deux. Elle peut demander cet appui précis en restant la personne qui décide de ce que Sofia saura."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Myriam, à qui Inaya confie une partie de son vécu, peut demander ce qu’elle doit savoir pour tenir un relais convenu. Sofia, elle, peut réserver une salle à partir du nombre de chaises et de la durée de l’atelier. Aucun de ces interlocuteurs n’a à recevoir par défaut ce qui a été dit à un autre.\n\nLa HAS prévoit d’associer l’entourage au suivi si cela a du sens et avec l’accord de la personne. Dans la scène, Myriam est aussi coorganisatrice : elle peut expliquer ses propres contraintes sans expliquer la santé de sa sœur. Inaya peut accepter son aide et choisir qui saura quoi, à quel moment et pour quelle raison."
+          "heading": "Comment le retrait peut-il rendre une demande d’aide difficile à commencer ?",
+          "points": [
+            {
+              "heading": "Un premier message qui reste en brouillon",
+              "text": "Le manque d’élan et le retrait peuvent compliquer la prise de contact, même quand une aide est disponible.",
+              "examples": [
+                "Inaya réécrit deux fois une demande de rendez-vous à Sofia et la laisse en brouillon.",
+                "Elle peut expliquer à Myriam le format voulu une fois qu’elles se retrouvent devant le panneau."
+              ]
+            },
+            {
+              "heading": "La tâche qui devient trop large",
+              "text": "Quand plusieurs détails sont mêlés, il peut devenir difficile de savoir sur quoi demander de l’aide.",
+              "examples": [
+                "Il faut choisir la durée, le nombre de places et le temps de rangement.",
+                "Myriam propose une explication sur la santé alors qu’Inaya cherche surtout quelqu’un pour écrire le premier message."
+              ]
+            },
+            {
+              "heading": "Une initiative qui revient dans un périmètre défini",
+              "text": "L’appui peut faciliter un geste sans décider de tout à la place de la personne.",
+              "examples": [
+                "Inaya demande à Myriam d’effacer la première phrase.",
+                "Elle garde le choix des tiges et laisse sa sœur régler la question du mobilier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ensemble ce qui change",
-          "text": "Le message peut annoncer un petit essai, la durée visée et la date à laquelle les deux sœurs pourront confirmer la suite. Elles peuvent s’entendre sur la façon de répondre si Sofia demande pourquoi. Inaya peut dire qu’elle ne souhaite pas entrer dans les détails. Myriam peut parler du nombre de places qu’elle est prête à gérer et des heures où elle est disponible, indépendamment de la santé d’Inaya.\n\nCe choix de réserve sur un panneau public ne lui interdit pas de parler ouvertement à une personne en qui elle a confiance. Elle peut modifier son choix plus tard ou préférer que l’information reste entre elles. Un accord pour une conversation ne vaut pas pour toutes les suivantes."
+          "heading": "3 techniques pour formuler un appui que l’on souhaite recevoir",
+          "points": [
+            {
+              "heading": "Une demande avec un seul objet",
+              "objective": "Nommer ce qu’un proche peut faire dans une situation précise.",
+              "exercise": [
+                "Choisissez le premier geste à déléguer.",
+                "Demandez si le proche peut le prendre.",
+                "Dites ce que vous souhaitez garder."
+              ],
+              "benefit": "La répartition peut rendre le contact accessible tout en laissant un rôle aux deux personnes."
+            },
+            {
+              "heading": "Un brouillon relu ensemble",
+              "objective": "Éviter de partager une information sensible sans accord.",
+              "exercise": [
+                "Écrivez la demande pratique.",
+                "Relisez le texte à deux.",
+                "Demandez l’accord avant tout ajout personnel."
+              ],
+              "benefit": "Sofia peut répondre sur la salle avec les informations dont elle a besoin."
+            },
+            {
+              "heading": "Une réponse qui laisse du temps",
+              "objective": "Choisir un pas réalisable quand prendre contact demande beaucoup d’effort.",
+              "exercise": [
+                "Fixez un moment pour reprendre le brouillon.",
+                "Définissez le délai de réponse nécessaire.",
+                "Demandez un relais si vous vous sentez trop en difficulté pour envoyer le message."
+              ],
+              "benefit": "Cette marge peut faciliter la démarche sans mettre le projet sur les épaules d’une seule personne."
+            }
+          ]
         }
       ],
       "ending": "Le texte envoyé compte trois lignes. Sofia leur répond qu’elle peut leur laisser la salle un jeudi pendant une heure, rangement compris. Inaya montre l’écran à Myriam et elles dessinent sur le verso du brouillon une table et six chaises. Elles n’en occuperont que trois pour l’essai. Myriam garde la charge de répondre à Sofia au sujet du mobilier. Inaya garde celle de choisir les tiges à faire manipuler. En rentrant, elle replie le premier brouillon dans sa poche et le met au recyclage avec le ticket de bus.",
@@ -324,12 +722,13 @@
         "nice-depression"
       ],
       "continuity": {
-        "choice": "Inaya valide un message centré sur la salle et le format ; elles obtiennent un créneau d’essai.",
+        "choice": "Inaya valide un message centré sur la salle et le format. Elles obtiennent un créneau d’essai.",
         "next": "Les deux sœurs essaient une version courte de l’atelier avec une invitée, Aurore."
       },
       "ending_title": "Le message qui part",
-      "clinical_focus": "Soutien choisi pendant la dépression",
-      "clinical_intro": "Inaya entend Myriam commencer un message sur ses problèmes de santé et hésite à la laisser poursuivre. Elle souhaite être aidée à tenir un atelier court et décider qui connaît son diagnostic de dépression. Les besoins de la sœur, de l’équipe de soins et de la personne qui réserve une salle sont différents. Les distinguer laisse à Inaya le choix de ce qu’elle partage avec chacune."
+      "clinical_focus": "Retrait et difficulté à demander de l’aide",
+      "clinical_intro": "Inaya voudrait faire un essai à la maison de quartier, mais sa demande de rendez-vous reste en brouillon. Pendant une dépression, le retrait et le manque d’élan peuvent rendre le premier contact difficile, même quand on sait à qui s’adresser. Inaya demande à Myriam un appui pour envoyer le message et garde le choix de son contenu.",
+      "conclusion": "Inaya demande un appui pour envoyer le message, puis décide du contenu avec sa sœur. Le retrait a rendu le premier geste coûteux. Myriam peut l’aider sur ce geste et lui laisser ses confidences."
     },
     {
       "number": 8,
@@ -351,18 +750,74 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Inaya peut raconter les deux aspects au suivi.\n\nLe NICE décrit l’activation comportementale comme une intervention structurée qui examine notamment les liens entre activités et humeur et aide à planifier des changements avec un accompagnement adapté. L’atelier d’Inaya est une activité de son choix et un projet de travail. Il n’a pas à tenir lieu de soin ni à produire un effet donné pour avoir sa place dans le récit."
+          "heading": "Comment du plaisir peut-il revenir alors que l’énergie reste fragile ?",
+          "points": [
+            {
+              "heading": "Un détail qui ranime la curiosité",
+              "text": "Un moment d’intérêt peut apparaître dans une activité familière alors que d’autres difficultés persistent.",
+              "examples": [
+                "Aurore croit l’anémone cassée et Inaya s’approche pour montrer la place de la courbe.",
+                "Inaya a envie de discuter du côté du bouquet où la branche laisserait passer une autre fleur."
+              ]
+            },
+            {
+              "heading": "Une fatigue qui arrive plus tôt que prévu",
+              "text": "L’envie de continuer et la capacité à suivre l’échange peuvent évoluer différemment.",
+              "examples": [
+                "Après vingt minutes, le début des questions échappe à Inaya.",
+                "Elle regarde Myriam pour savoir si elle a entendu la dernière question."
+              ]
+            },
+            {
+              "heading": "Un geste transmis malgré une durée courte",
+              "text": "L’utilité de l’essai peut tenir à ce que la personne transmet pendant un moment limité.",
+              "examples": [
+                "Aurore repart avec l’anémone qu’elle a choisie.",
+                "Myriam reprend l’attache des tiges quand Inaya pose ses branches."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une façon de raccourcir",
-          "text": "Pour décider si elle veut ouvrir les inscriptions, Inaya peut regarder ce qui a tenu : la démonstration avec peu de tiges, le passage de relais et le temps qu’a pris le rangement. Elle peut aussi compter le trajet et ce qu’elle avait besoin de faire après. Si le prix à payer lui paraît trop lourd, elle peut demander à Myriam de prendre une autre partie ou remettre la date en discussion.\n\nUne activité choisie peut être modifiée sans être abandonnée. Ici, les deux sœurs peuvent aussi demander à Aurore ce qu’elle a retenu. Son retour porte sur ce qu’elle a vu et sur les consignes qu’elle a comprises ; il ne mesure pas l’état de santé d’Inaya."
+          "heading": "3 techniques pour profiter d’un intérêt ponctuel avec un relais prévu",
+          "points": [
+            {
+              "heading": "Un plaisir décrit simplement",
+              "objective": "Reconnaître le moment qui a compté.",
+              "exercise": [
+                "Nommez le détail qui vous a intéressé.",
+                "Dites quand il est apparu.",
+                "Ajoutez quand l’effort a commencé à monter."
+              ],
+              "benefit": "Ces observations peuvent coexister dans le récit de l’essai."
+            },
+            {
+              "heading": "Un passage de relais convenu",
+              "objective": "Prévoir une réponse utilisable si la fatigue arrive en cours de tâche.",
+              "exercise": [
+                "Choisissez qui peut reprendre une partie.",
+                "Repérez un signe simple pour passer la main.",
+                "Ajustez le moment si la fatigue arrive plus tôt."
+              ],
+              "benefit": "La participante peut continuer pendant qu’Inaya cesse d’expliquer."
+            },
+            {
+              "heading": "Une durée fondée sur ce qui s’est passé",
+              "objective": "Tirer une décision pratique d’un essai limité.",
+              "exercise": [
+                "Relisez le moment où le relais a servi.",
+                "Retenez une durée de démonstration raisonnable.",
+                "Laissez du temps pour que chacun compose ensuite."
+              ],
+              "benefit": "L’essai suivant peut garder l’intérêt pour les fleurs et une charge accessible."
+            }
+          ]
         }
       ],
-      "ending": "Aurore tient à emporter l’anémone. Elle ne veut pas du modèle complet et le dit avec une franchise qui fait rire Myriam. Quand la salle se vide, Inaya reprend le brouillon : vingt minutes d’explication lui suffisent, suivies d’un temps où chacun compose à son rythme. Elles demandent à Sofia de réserver un samedi, en convenant d’une solution si la date doit changer. Inaya rentre sans s’arrêter à la boutique. Elle a gardé l’après-midi pour elle. En posant son sac à la maison, elle retrouve un pétale au revers de sa manche.",
+      "ending": "Aurore tient à emporter l’anémone. Elle ne veut pas du modèle complet et le dit avec une franchise qui fait rire Myriam. Quand la salle se vide, Inaya note que vingt minutes d’explication lui suffisent. Après, chacun pourra composer à son rythme. Elles demandent à Sofia de réserver un samedi, en convenant d’une solution si la date doit changer. Inaya rentre sans s’arrêter à la boutique. Elle a gardé l’après-midi pour elle. En posant son sac à la maison, elle retrouve un pétale au revers de sa manche.",
       "mirror": [
-        "Quand Inaya pose les branches avant le moment prévu, Myriam peut reprendre l’explication convenue sans annoncer pourquoi. Après le départ d’Aurore, elle pourrait lui dire : « J’ai aimé la démonstration avec une tige. J’ai remarqué qu’on avait peu de temps pour ranger. Tu veux qu’on en tienne compte avant de réserver ? » Elle peut donner aussi ses propres limites de temps. Inaya choisit ce qu’elle souhaite reprendre ; Aurore n’a pas à interpréter la fatigue qu’elle a pu voir."
+        "Quand Inaya pose les branches avant le moment prévu, Myriam peut reprendre l’explication convenue sans annoncer pourquoi. Après le départ d’Aurore, elle pourrait lui dire : « J’ai aimé la démonstration avec une tige. J’ai remarqué qu’on avait peu de temps pour ranger. Tu veux qu’on en tienne compte avant de réserver ? » Elle peut donner aussi ses propres limites de temps. Inaya choisit ce qu’elle souhaite reprendre. Aurore n’a pas à interpréter la fatigue qu’elle a pu voir."
       ],
       "sources": [
         "oms-cddr",
@@ -375,7 +830,8 @@
       },
       "ending_title": "Un format qui laisse un relais",
       "clinical_focus": "Plaisir retrouvé et fatigue persistante",
-      "clinical_intro": "La tige courbée intrigue Inaya et elle retrouve le plaisir d’expliquer un geste de fleuriste. La fatigue l’oblige pourtant à raccourcir l’essai. Durant une période dépressive, l’intérêt, l’énergie et la capacité à poursuivre une activité peuvent évoluer à des rythmes différents. Ces deux observations lui donnent une description plus juste de sa journée et de la place qu’elle souhaite tenir."
+      "clinical_intro": "La tige courbée intrigue Inaya et elle retrouve le plaisir d’expliquer un geste de fleuriste. La fatigue l’oblige pourtant à raccourcir l’essai. Durant une période dépressive, l’intérêt, l’énergie et la capacité à poursuivre une activité peuvent évoluer à des rythmes différents. Ces deux observations lui donnent une description plus juste de sa journée et de la place qu’elle souhaite tenir.",
+      "conclusion": "Inaya retrouve du plaisir dans le geste d’Aurore et a besoin du relais plus tôt. Leur format change à partir de ces deux observations. Myriam peut reprendre le geste convenu sans mesurer l’état de sa sœur."
     },
     {
       "number": 9,
@@ -388,25 +844,81 @@
         "Aggravation dépressive",
         "Relais professionnel urgent"
       ],
-      "opening": "Inaya mange debout, sans avoir sorti de fourchette. Elle devait dîner après avoir envoyé la liste des inscrits à Sofia. Le document est resté ouvert depuis le milieu de l’après-midi. Nino dort chez un ami ce soir, une invitation qu’il attendait depuis longtemps. Dans l’entrée, il a laissé ses chaussures pour le terrain, parce que l’autre paire court plus vite, paraît-il. Inaya avait ri en l’aidant à choisir. Elle regarde maintenant les chaussures en se demandant depuis combien de temps elle tient l’assiette vide.\n\nAu rendez-vous, sa psychiatre lui avait demandé si elle avait pensé à mourir. La réponse qu’elle avait donnée était exacte ce jour-là. Elle ne l’est plus ce soir. Inaya essaie d’abord de rédiger une phrase sur son téléphone. Elle voudrait dire que ça change vite et que cette idée lui fait peur. Elle ne sait pas à quel point elle sera capable de rester seule jusqu’au matin. Elle ferme le document sur les inscriptions et appelle Myriam.\n\nSa sœur décroche en pensant que le groupe du samedi est enfin complet. Inaya l’entend dire bonsoir et poser quelque chose sur une table. « J’ai pensé à mourir aujourd’hui. Je ne me sens pas en sécurité toute seule. » Au bout du fil, Myriam vérifie où elle se trouve. Elle lui dit qu’elle va appeler les secours tout de suite. Inaya lui donne l’adresse qu’elle connaît déjà. Myriam appelle, rapporte les mots d’Inaya et suit les consignes des secours. Cette phrase très ordinaire est la seule qui lui vient ensuite.",
+      "opening": "Inaya mange debout, sans avoir sorti de fourchette. Elle devait dîner après avoir envoyé la liste des inscrits à Sofia. Le document est resté ouvert depuis le milieu de l’après-midi. Nino dort chez un ami ce soir, une invitation qu’il attendait depuis longtemps. Dans l’entrée, il a laissé ses chaussures pour le terrain, parce que l’autre paire court plus vite, paraît-il. Inaya avait ri en l’aidant à choisir. Elle regarde maintenant les chaussures en se demandant depuis combien de temps elle tient l’assiette vide.\n\nAu rendez-vous, sa psychiatre lui avait demandé si elle avait pensé à mourir. La réponse qu’elle avait donnée était exacte ce jour-là. Elle ne l’est plus ce soir. Inaya essaie d’abord de rédiger une phrase sur son téléphone. Elle voudrait dire que ça change vite et que cette idée lui fait peur. Elle ne sait pas à quel point elle sera capable de rester seule jusqu’au matin. Elle ferme le document sur les inscriptions et appelle Myriam.\n\nSa sœur décroche en pensant que le groupe du samedi est enfin complet. Inaya l’entend dire bonsoir et poser quelque chose sur une table. « J’ai pensé à mourir aujourd’hui. Je ne me sens pas en sécurité toute seule. » Au bout du fil, Myriam vérifie où elle se trouve. Elle lui dit qu’elle va appeler les secours tout de suite. Inaya lui donne l’adresse qu’elle connaît déjà. Myriam appelle, rapporte les mots d’Inaya et suit les consignes des secours. Une fois l’adresse donnée, Inaya ne sait plus quoi ajouter.",
       "sections": [
         {
           "role": "explanation",
           "heading": "Prendre au sérieux une parole qui change",
-          "text": "Des pensées de mort ou de suicide peuvent apparaître pendant un épisode dépressif. Leur présence ne permet pas à un proche de déterminer seul le danger. Elle mérite une réponse rapide et un avis professionnel, sans attendre le prochain rendez-vous ni demander à la personne de prouver que sa souffrance est assez grave. Le NICE et la HAS insistent sur l’évaluation du risque au cours du suivi."
+          "text": "Des pensées de mort ou de suicide peuvent apparaître pendant un épisode dépressif. Leur présence ne permet pas à un proche de déterminer seul le danger. Elle mérite une réponse rapide et un avis professionnel, sans attendre le prochain rendez-vous ni demander à la personne de prouver que sa souffrance est assez grave. L’équipe examine le changement, la sécurité et le besoin d’aide immédiate."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La réponse d’Inaya à la consultation et ce qu’elle dit ce soir peuvent toutes deux être vraies.\n\nUn proche peut écouter une phrase directe sans chercher à la contester ou à rappeler tout ce qui devrait donner envie d’aller mieux. S’il s’inquiète, il peut poser une question claire sur les pensées de suicide et aider la personne à trouver du soutien immédiatement. Il n’a pas à interpréter ses silences, à négocier une promesse ou à rester seul responsable de sa sécurité."
+          "heading": "Comment entendre des pensées suicidaires pendant une aggravation ?",
+          "points": [
+            {
+              "heading": "Des pensées nouvelles depuis le dernier bilan",
+              "text": "Une réponse donnée à un rendez-vous peut changer si la détresse augmente entre-temps.",
+              "examples": [
+                "À la consultation, Inaya disait qu’elle n’avait pas pensé à mourir.",
+                "Ce soir-là, elle reconnaît que sa réponse a changé et que l’idée l’inquiète."
+              ]
+            },
+            {
+              "heading": "Une parole difficile à formuler",
+              "text": "La personne peut hésiter à trouver ses mots alors qu’elle a besoin d’aide tout de suite.",
+              "examples": [
+                "Inaya essaie d’abord d’écrire sur son téléphone avant d’appeler sa sœur.",
+                "Elle finit par dire qu’elle a pensé à mourir et ne se sent pas en sécurité seule."
+              ]
+            },
+            {
+              "heading": "Un besoin d’aide qui prime sur les activités en cours",
+              "text": "Un proche peut prendre au sérieux ces mots et passer le relais sans estimer seul le niveau de risque.",
+              "examples": [
+                "Le document des inscriptions reste fermé quand Inaya dit où elle se trouve.",
+                "Myriam rapporte ses mots aux secours et suit leurs consignes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’appuyer sur une aide professionnelle maintenant",
-          "text": "Inaya dit qu’elle ne se sent pas en sécurité seule. Avec elle, Myriam contacte les secours immédiatement. Elle peut donner les informations utiles et suivre les consignes qu’elle reçoit. Le contact qu’Inaya a préparé pour une difficulté ordinaire au cours du suivi ne doit pas retarder l’aide urgente quand sa sécurité est en jeu.\n\nSi une situation comparable se présente sans danger immédiat apparent, un professionnel ou un service de crise peut aider à décider rapidement de la suite. L’entourage peut apporter une présence et un relais pratique, dans la mesure de ce qui est possible et sûr. Les décisions sur les soins reviennent à l’équipe avec la personne. Pour Nino, les arrangements sont gérés entre adultes ; il ne reçoit aucune tâche de surveillance."
+          "heading": "3 techniques pour dire la détresse et obtenir un relais immédiat",
+          "points": [
+            {
+              "heading": "Un appel en cas de danger immédiat",
+              "objective": "Joindre les secours quand la personne ne se sent plus en sécurité.",
+              "exercise": [
+                "Appelez les secours tout de suite.",
+                "Dites où se trouve la personne.",
+                "Rapportez ses paroles et suivez les consignes données."
+              ],
+              "benefit": "Les secours peuvent décider de la réponse urgente adaptée."
+            },
+            {
+              "heading": "Des mots ordinaires pour dire ce qui change",
+              "objective": "Donner aux personnes qui répondent une information directe.",
+              "exercise": [
+                "Nommez la pensée qui vous inquiète.",
+                "Dites si vous pouvez rester en sécurité.",
+                "Demandez de l’aide immédiatement si vous ne vous sentez pas en sécurité."
+              ],
+              "benefit": "L’interlocuteur peut comprendre l’urgence sans attendre un récit complet."
+            },
+            {
+              "heading": "La suite avec les soignants",
+              "objective": "Clarifier ce qui se passe après l’aide immédiate.",
+              "exercise": [
+                "Dites à la soignante ce que vous avez rapporté au premier contact.",
+                "Demandez qui joindre après l’évaluation.",
+                "Gardez ce contact avec vous si cela vous aide."
+              ],
+              "benefit": "Le relais peut être plus clair une fois la réponse immédiate organisée."
+            }
+          ]
         }
       ],
-      "ending": "Plus tard, Inaya parle à une soignante. Elle redit la phrase qu’elle a dite à Myriam et répond à des questions sur ce qui a changé depuis la consultation. La soignante lui explique la suite, puis s’assure qu’elle sait qui contacter après l’évaluation. Inaya demande à Myriam de rester le temps qu’elle retrouve sa veste. Elles laissent le tableau des inscriptions fermé. Ce soir, la seule nouvelle qu’Inaya veut donner au sujet de l’atelier tient en quelques mots : elles répondront plus tard.",
+      "ending": "Plus tard, Inaya parle à une soignante. Elle redit la phrase qu’elle a dite à Myriam et répond à des questions sur ce qui a changé depuis la consultation. La soignante lui explique la suite, puis s’assure qu’elle sait qui contacter après l’évaluation. Inaya demande à Myriam de rester le temps qu’elle retrouve sa veste. Elles laissent le tableau des inscriptions fermé. Ce soir, Inaya veut seulement dire au sujet de l’atelier qu’elles répondront plus tard.",
       "mirror": [
         "Myriam peut répondre : « Merci de me l’avoir dit. Je reste au téléphone. On va demander de l’aide tout de suite. » Puisque sa sœur dit qu’elle ne se sent pas en sécurité, elle contacte les secours et suit leurs consignes. Elle peut ensuite s’occuper du retour de Nino avec les adultes qui le gardent. Elle n’a pas à promettre de garder le danger secret ni à faire de Nino la personne qui doit remarquer si sa mère va plus mal."
       ],
@@ -416,40 +928,97 @@
         "nice-depression"
       ],
       "continuity": {
-        "choice": "Inaya dit qu’elle ne se sent pas en sécurité ; Myriam contacte les secours et un relais professionnel prend la suite.",
+        "choice": "Inaya dit qu’elle ne se sent pas en sécurité. Myriam contacte les secours et un relais professionnel prend la suite.",
         "next": "Une fois les soins organisés, Inaya et Myriam reportent la date de l’atelier."
       },
       "ending_title": "Myriam passe le relais",
       "clinical_focus": "Idées suicidaires et évaluation urgente",
-      "clinical_intro": "Inaya dit à Myriam qu’elle pense à mourir et craint de rester seule. Cette parole indique que sa souffrance et sa sécurité doivent être prises en compte dès maintenant. Des idées suicidaires peuvent apparaître pendant un épisode dépressif. Myriam peut rester présente et transmettre la situation à des professionnels, qui évaluent l’urgence et organisent la suite des soins."
+      "clinical_intro": "Inaya dit à Myriam qu’elle pense à mourir et craint de rester seule. Cette parole indique que sa souffrance et sa sécurité doivent être prises en compte dès maintenant. Des idées suicidaires peuvent apparaître pendant un épisode dépressif. Myriam peut rester présente et transmettre la situation à des professionnels, qui évaluent l’urgence et organisent la suite des soins.",
+      "conclusion": "Inaya dit ce qu’elle pense et qu’elle ne se sent plus en sécurité seule. Myriam appelle les secours et transmet ses mots. Le calendrier de l’atelier peut attendre pendant que les soignants prennent la suite."
     },
     {
       "number": 10,
       "slug": "inaya-reporter-atelier-garder-choix",
-      "title": "Après une crise dépressive quand tenir sa promesse devient trop lourd",
-      "description": "Après l’aide urgente, Inaya revoit ses engagements. Les deux sœurs reportent l’atelier et choisissent ce qu’elles ont l’énergie de garder.",
+      "title": "Quand la culpabilité pousse à promettre trop après une aggravation",
+      "description": "L’affiche du samedi donne à Inaya l’impression d’avoir déçu tout le monde. Elle annonce le report avant de choisir une suite.",
       "context": "La table de la cuisine, quelques jours après l’évaluation",
       "topics": [
-        "Après-crise dépressive",
-        "Limites personnelles",
-        "Continuité du soutien"
+        "Culpabilité",
+        "Dépression récurrente",
+        "Report d’un engagement"
       ],
-      "opening": "Le ruban adhésif a arraché un bout du carton où la date avait enfin été écrite. Myriam a décroché l’affiche de la vitrine sur le chemin de chez sa sœur. Elle la pose sur la table de la cuisine, à côté d’une boîte de biscuits que Nino n’arrive plus à refermer depuis qu’il a tordu le couvercle. À travers la déchirure, on lit encore « samedi ». Inaya passe le pouce sur le bord du papier. La veille, Sofia avait demandé si elle devait prévenir les six personnes, ou si les deux sœurs voulaient proposer tout de suite une nouvelle date.\n\nInaya vient de revoir une professionnelle après l’aide urgente reçue quelques jours plus tôt. Elle a d’autres rendez-vous, et les matinées restent difficiles. Avant de rentrer, elle s’était arrêtée pour regarder si les seaux de la boutique étaient encore à la bonne place. Mina lui a expliqué ce qu’elle a pu prendre en charge et ce qui reste à décider. Inaya s’attendait à se sentir coupable en partant après cinq minutes. Elle a surtout été soulagée de savoir que les fleurs seraient arrosées.\n\nNino entre pour demander qui l’accompagne au dessin. « Mercredi, c’est Myriam. Moi, j’ai un rendez-vous de santé », dit Inaya. Il voudrait qu’elles se mettent d’accord aussi pour son cartable, qu’il refuse de porter à la main depuis que la bretelle s’est détachée. Myriam veut voir de quel côté elle tient encore. Inaya retourne l’affiche et prend un stylo. Elle a envie d’écrire la suite, mais peut seulement dire ce qu’elle est sûre de pouvoir demander aujourd’hui : prévenir les inscrits que samedi n’aura pas lieu.",
+      "opening": "Le ruban adhésif a arraché un bout du carton où la date avait enfin été écrite. Myriam a décroché l’affiche de la vitrine sur le chemin de chez sa sœur. Elle la pose sur la table de la cuisine, à côté d’une boîte de biscuits que Nino n’arrive plus à refermer depuis qu’il a tordu le couvercle. À travers la déchirure, on lit encore « samedi ». Inaya passe le pouce sur le bord du papier. Il lui semble avoir déçu toutes les personnes qui avaient pris le temps de s’inscrire. Sa première idée est d’écrire une nouvelle date pour leur montrer qu’elles peuvent compter sur elle. La veille, Sofia avait demandé si elle devait prévenir les six personnes, ou si les deux sœurs voulaient proposer tout de suite une nouvelle date.\n\nInaya vient de revoir une professionnelle après l’aide urgente reçue quelques jours plus tôt. Elle a d’autres rendez-vous, et les matinées restent difficiles. Avant de rentrer, elle s’était arrêtée pour regarder si les seaux de la boutique étaient encore à la bonne place. Mina lui a expliqué ce qu’elle a pu prendre en charge et ce qui reste à décider. Inaya s’attendait à se sentir coupable en partant après cinq minutes. Elle a surtout été soulagée de savoir que les fleurs seraient arrosées.\n\nNino entre pour demander qui l’accompagne au dessin. « Mercredi, c’est Myriam. Moi, j’ai un rendez-vous de santé », dit Inaya. Il voudrait qu’elles se mettent d’accord aussi pour son cartable, qu’il refuse de porter à la main depuis que la bretelle s’est détachée. Myriam veut voir de quel côté elle tient encore. Inaya retourne l’affiche et prend un stylo. Elle a envie d’écrire la suite, mais pour aujourd’hui elle sait seulement qu’elle peut demander à Sofia de prévenir les inscrits du report.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revoir ce qui est nécessaire dans l’immédiat",
-          "text": "Après une aggravation, les besoins peuvent changer d’une journée à l’autre. Un nouveau contact avec l’équipe permet de revoir la sécurité, le soutien disponible et la suite des soins."
+          "heading": "Quand le jugement dépasse l’engagement réel",
+          "text": "Un épisode dépressif peut s’accompagner d’une culpabilité excessive ou de jugements très durs sur soi. Regretter de reporter un rendez-vous reste compréhensible. Chez Inaya, le report semble d’abord dire quelque chose de sa valeur aux yeux de toutes les personnes inscrites. Il existe une décision plus précise à prendre aujourd’hui. Elle peut prévenir Sofia et reparler avec ses soignants de la culpabilité qui lui donne envie de promettre plus qu’elle ne sait tenir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Inaya n’a pas à démontrer qu’elle peut tenir sa date pour montrer que la prise en charge lui est utile. Elle peut dire que certaines tâches lui coûtent encore beaucoup et demander avec qui refaire le point si cela change.\n\nElle peut aussi séparer la décision urgente des décisions qui peuvent attendre. Sofia a besoin de savoir que le créneau se libère et que les personnes inscrites seront prévenues. La date suivante, le nombre de commandes qu’Inaya reprendra et ce qu’elle dira publiquement peuvent rester en suspens. Reporter un engagement n’oblige pas à annoncer ce que deviendra le projet."
+          "heading": "Comment la culpabilité pèse-t-elle sur les décisions après une aggravation ?",
+          "points": [
+            {
+              "heading": "Le report lu comme une faute personnelle",
+              "text": "Les jugements très durs sur soi peuvent prendre davantage de place pendant une dépression.",
+              "examples": [
+                "Inaya regarde la date arrachée et pense avoir déçu toutes les personnes inscrites.",
+                "En quittant la boutique après cinq minutes, elle s’attend à s’en vouloir alors que Mina prend le relais."
+              ]
+            },
+            {
+              "heading": "Une envie de réparer en promettant davantage",
+              "text": "Quand on se sent responsable de tout, une nouvelle promesse peut sembler être la seule réponse.",
+              "examples": [
+                "Inaya envisage d’inscrire une autre date avant de savoir ce qu’elle pourra tenir.",
+                "Sofia a posé une question d’organisation que les deux sœurs peuvent résoudre en annonçant seulement le report."
+              ]
+            },
+            {
+              "heading": "Une expérience qui nuance le jugement",
+              "text": "Une observation concrète peut coexister avec la crainte de décevoir.",
+              "examples": [
+                "Inaya sort de la boutique rassurée d’apprendre que les fleurs seront arrosées.",
+                "Elle cherche ensuite la couture du cartable avec Nino et s’arrête quand la lumière baisse."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder des repères concrets pour Nino",
-          "text": "Nino demande qui le conduira et ce qu’il fera de son cartable. Les adultes peuvent répondre à ses questions avec les informations qui lui sont utiles. Inaya peut dire qu’elle a des rendez-vous pour sa santé et que des adultes l’aident. Elle peut l’écouter s’il a peur ou s’il veut parler d’autre chose. Les détails des soins et la responsabilité de les organiser restent aux adultes.\n\nMyriam peut offrir une aide précise pendant une durée qu’elle peut tenir. Mina peut dire ce qu’elle a pu faire pour la boutique. Chacune a le droit de préciser ses limites. Inaya peut accepter un trajet ou une fermeture supplémentaire sans devoir trouver, le jour même, comment rendre tous ces services."
+          "heading": "3 techniques pour répondre à un engagement sans se juger tout entière",
+          "points": [
+            {
+              "heading": "Ce qui a été promis et ce qui reste possible",
+              "objective": "Revenir à la responsabilité concrète dans l’engagement.",
+              "exercise": [
+                "Relisez l’accord initial.",
+                "Dites quel élément doit changer aujourd’hui.",
+                "Séparez le report de la décision sur une nouvelle date."
+              ],
+              "benefit": "Les inscrits peuvent recevoir une information utile sans nouvelle promesse précipitée."
+            },
+            {
+              "heading": "La pensée à apporter au suivi",
+              "objective": "Parler du jugement sur soi pendant le rétablissement.",
+              "exercise": [
+                "Relevez la phrase sévère qui vous revient.",
+                "Dites ce que vous essayez alors de faire en plus.",
+                "Parlez-en lors du contact déjà prévu ou plus tôt si votre état vous inquiète."
+              ],
+              "benefit": "L’équipe peut examiner avec vous la place que prend la culpabilité."
+            },
+            {
+              "heading": "Un relais vérifié auprès de l’adulte disponible",
+              "objective": "Préserver ce qui doit être organisé dans les prochains jours.",
+              "exercise": [
+                "Demandez à l’adulte ce qu’il peut faire.",
+                "Confirmez un trajet ou une tâche précise.",
+                "Informez l’enfant de l’accord qui le concerne."
+              ],
+              "benefit": "L’appui laisse Nino à sa place et évite de demander à Myriam une disponibilité générale."
+            }
+          ]
         }
       ],
       "ending": "Sur le verso, Inaya écrit la phrase que Sofia pourra transmettre : « L’atelier de samedi est reporté. Nous reprendrons contact si nous fixons une nouvelle date. » Myriam demande si elle veut garder le dessin de la table pour six. Inaya l’enlève de dessous l’affiche et le coince sous la boîte de biscuits. Il y restera le temps qu’il faudra. Plus tard, Nino revient avec la bretelle roulée autour du poignet. Ils cherchent ensemble la couture qui a lâché, et s’arrêtent quand la lumière de la cuisine ne suffit plus.",
@@ -466,8 +1035,9 @@
         "next": "Quelques semaines plus tard, elle choisit avec Myriam et Sofia une version plus courte de l’atelier."
       },
       "ending_title": "L’affiche attendra",
-      "clinical_focus": "Récupération après une aggravation",
-      "clinical_intro": "Après le recours aux soins, Inaya hésite à reporter l’atelier qu’elle prépare depuis des semaines. Elle tient toujours au projet et son énergie varie encore. Après une aggravation dépressive, la sécurité, le soutien et les engagements se réévaluent à mesure que les besoins changent. Le report lui permet de préserver le lien avec Myriam et de garder une suite réaliste avec son équipe."
+      "clinical_focus": "Culpabilité et jugement sur soi",
+      "clinical_intro": "En regardant la date arrachée sur l’affiche, Inaya pense avoir déçu toutes les personnes inscrites. La culpabilité peut prendre beaucoup de place au cours d’un épisode dépressif et pousser à vouloir réparer avant de savoir ce qui est possible. Elle choisit de prévenir les participants du report et garde la décision sur une nouvelle date pour plus tard.",
+      "conclusion": "Inaya peut prévenir les inscrits et laisser l’affiche sans date. Le jugement qu’elle porte sur elle demande du temps et peut être repris dans le suivi. Myriam peut s’occuper de l’accord prévu."
     },
     {
       "number": 11,
@@ -476,11 +1046,11 @@
       "description": "Quelques semaines après le report, Inaya et Myriam accueillent quatre personnes. Elles se partagent l’atelier et gardent un temps pour le rangement.",
       "context": "À la maison de quartier, un samedi matin",
       "topics": [
-        "Reprise d’activité",
-        "Effort et récupération",
-        "Coopération choisie"
+        "Rétablissement dépressif",
+        "Endurance",
+        "Reprise progressive"
       ],
-      "opening": "La quatrième chaise est déjà occupée quand Inaya arrive avec les fleurs. Un homme a posé son sac sur une cinquième chaise qui traînait près du radiateur. Myriam commence à la déplacer. Inaya lui fait signe de la laisser : il y a enfin assez de place pour les affaires sans bloquer le passage. Le panneau de la rue ne porte plus le dessin de la table pour six. Après le report, elles ont demandé à Sofia si quatre places suffiraient pour ouvrir la salle. Elles ont rappelé les personnes intéressées et maintenu le créneau court qui leur convenait.\n\nInaya pose sur la table une branche qui dépasse de son sac depuis le trajet. Le premier bouquet qu’elle a préparé ne ressemble pas à celui de l’affiche : elle a pris des pois de senteur et un feuillage qui sent fort quand on l’écrase entre les doigts. Une participante demande s’il faut compter les tiges. Inaya allait donner les trois réponses qu’elle a préparées. Elle se contente de montrer ce qui arrive quand on change une branche de côté. Le reste de la table attend.\n\nMyriam jette un coup d’œil à l’horloge et prend le relais au moment convenu. Une participante sort son téléphone. Elle veut montrer à sa sœur le bouquet qu’elle a fait. Inaya a très envie de prendre aussi une photo, puis voit dans l’écran deux visages derrière le bouquet. Elle demande si elles peuvent placer les fleurs devant le mur, le temps d’avoir une image où personne n’apparaît. Tout le monde se remet à chercher de la place pour ses mains.",
+      "opening": "La quatrième chaise est déjà occupée quand Inaya arrive avec les fleurs. Un homme a posé son sac sur une cinquième chaise qui traînait près du radiateur. Myriam commence à la déplacer. Inaya lui fait signe de la laisser. Il y a enfin assez de place pour les affaires sans bloquer le passage. Le panneau de la rue ne porte plus le dessin de la table pour six. Après le report, elles ont demandé à Sofia si quatre places suffiraient pour ouvrir la salle. Elles ont rappelé les personnes intéressées et maintenu le créneau court qui leur convenait.\n\nInaya pose sur la table une branche qui dépasse de son sac depuis le trajet. Pour ce premier bouquet, Inaya a choisi des pois de senteur et un feuillage qui sent fort quand on l’écrase entre les doigts. Il ne ressemble pas à celui de l’affiche. Une participante demande s’il faut compter les tiges. Inaya allait donner les trois réponses qu’elle a préparées. Elle se contente de montrer ce qui arrive quand on change une branche de côté. Le reste de la table attend.\n\nMyriam jette un coup d’œil à l’horloge et prend le relais au moment convenu. Une participante sort son téléphone. Elle veut montrer à sa sœur le bouquet qu’elle a fait. Inaya a très envie de prendre aussi une photo, puis voit dans l’écran deux visages derrière le bouquet. Elle demande si elles peuvent placer les fleurs devant le mur, le temps d’avoir une image où personne n’apparaît. Tout le monde se remet à chercher de la place pour ses mains.",
       "sections": [
         {
           "role": "explanation",
@@ -489,16 +1059,72 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Inaya peut aimer montrer une branche et trouver le bruit de la salle difficile à supporter. Si le lendemain elle n’a pas envie d’ouvrir la boutique, elle peut le dire au suivi sans effacer son plaisir du samedi. À l’inverse, elle peut aussi parler de ce qui a marché et de ce qu’elle souhaiterait garder. Rien ne l’oblige à présenter une journée à la fois comme un échec ou comme une preuve qu’elle va bien."
+          "heading": "Comment le rétablissement se voit-il dans la capacité à reprendre une activité ?",
+          "points": [
+            {
+              "heading": "Un engagement à nouveau possible dans un cadre précis",
+              "text": "Après un épisode, une activité peut redevenir faisable dans certaines conditions avant d’être accessible au même rythme qu’avant.",
+              "examples": [
+                "Inaya et Myriam retiennent quatre places et un créneau court.",
+                "Inaya arrive avec les fleurs et retrouve une place pour les sacs sans gêner le passage."
+              ]
+            },
+            {
+              "heading": "Une tâche accomplie avec moins d’enchaînements",
+              "text": "La reprise peut s’appuyer sur ce que la personne parvient déjà à soutenir.",
+              "examples": [
+                "Inaya montre un changement de branche au lieu d’enchaîner les trois explications préparées.",
+                "Myriam prend le relais à l’heure prévue pendant que les participants composent."
+              ]
+            },
+            {
+              "heading": "Une suite encore difficile à prévoir",
+              "text": "L’aisance dans un essai ne dit pas d’avance combien d’activités peuvent tenir le même jour ou le mois suivant.",
+              "examples": [
+                "Après la séance, Inaya souhaite rentrer déjeuner avec Nino et garde l’après-midi libre.",
+                "Elle envoie la photo à Myriam et laisse en brouillon le message sur un prochain atelier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder du temps après l’activité",
-          "text": "Les deux sœurs avaient prévu le rangement dans le temps de la salle. Elles peuvent regarder si la répartition leur convenait et si une autre personne doit prendre une tâche à l’avenir. Elles peuvent aussi s’arrêter après cet atelier, sans fixer tout de suite le suivant. Quatre places constituent le choix qu’elles ont fait pour cette fois, pas une limite qu’Inaya doit respecter indéfiniment.\n\nPréserver le rendez-vous de suivi et une partie de la journée après l’atelier permet à Inaya de choisir ce qu’elle veut faire du reste du samedi. Si elle a besoin d’aide ou si les difficultés s’aggravent, les possibilités d’appui établies avec son équipe restent disponibles."
+          "heading": "3 techniques pour reprendre une tâche en tenant compte de l’énergie disponible",
+          "points": [
+            {
+              "heading": "Un premier format accessible",
+              "objective": "Préparer une reprise proportionnée à ce que l’on souhaite essayer.",
+              "exercise": [
+                "Choisissez un groupe et une durée tenables.",
+                "Gardez un seul geste à démontrer.",
+                "Vérifiez le relais avec l’autre animatrice."
+              ],
+              "benefit": "Le cadre peut rendre la reprise possible tout en laissant de la place aux participants."
+            },
+            {
+              "heading": "L’heure convenue comme point de relais",
+              "objective": "Garder un accord clair même si l’atelier se passe bien.",
+              "exercise": [
+                "Repérez le moment prévu.",
+                "Passez la main à la personne qui a accepté.",
+                "Reprenez une autre tâche seulement si vous l’avez choisie."
+              ],
+              "benefit": "L’accord peut tenir indépendamment de l’intérêt pour la séance."
+            },
+            {
+              "heading": "Un retour après l’essai",
+              "objective": "Faire le point sur ce que l’activité a réellement demandé.",
+              "exercise": [
+                "Nommez ce que vous avez pu faire.",
+                "Décrivez le coût ou le temps de récupération.",
+                "Décidez plus tard si vous voulez recommencer."
+              ],
+              "benefit": "L’expérience peut éclairer le suivi et le projet sans les confondre."
+            }
+          ]
         }
       ],
-      "ending": "Quand le groupe est parti, Inaya photographie le bouquet seul, devant le mur où pend le règlement de la salle. Elle cadre de façon à laisser les chaises hors de l’image. Myriam remplit le dernier seau pour le nettoyer et lui demande si elle a envie de déjeuner. Inaya répond qu’elle veut rentrer manger avec Nino. Elle n’a pas encore d’idée pour l’après-midi. Elle envoie à sa sœur la photo des fleurs ; le texte qu’elle commence sur un prochain atelier reste en brouillon.",
+      "ending": "Quand le groupe est parti, Inaya photographie le bouquet seul, devant le mur où pend le règlement de la salle. Elle cadre de façon à laisser les chaises hors de l’image. Myriam remplit le dernier seau pour le nettoyer et lui demande si elle a envie de déjeuner. Inaya répond qu’elle veut rentrer manger avec Nino. Elle n’a pas encore d’idée pour l’après-midi. Elle envoie à sa sœur la photo des fleurs et laisse en brouillon le texte sur un prochain atelier.",
       "mirror": [
         "Myriam peut reprendre les questions quand la démonstration se termine, puis s’occuper du rangement qu’elles avaient réparti. « Je peux finir les seaux. Tu veux choisir la photo ou la garder pour plus tard ? » Elle peut être fière de l’atelier et laisser Inaya dire comment elle l’a vécu. Pour publier une photo de groupe, elles demanderaient l’accord des personnes présentes. Pour un deuxième atelier, Myriam peut dire ce qui lui conviendrait et attendre qu’Inaya fasse de même."
       ],
@@ -512,8 +1138,9 @@
         "next": "Inaya revient avec sa psychiatre sur ses appuis et les prochains mois, après avoir gardé la date de suivi."
       },
       "ending_title": "Quatre places pour cette fois",
-      "clinical_focus": "Reprise progressive d’une activité",
-      "clinical_intro": "Inaya montre ses gestes à quatre personnes et laisse du temps pour ranger avec Myriam. Cette reprise renseigne sur ce qu’elle peut faire avec des appuis et un rythme choisis. L’évolution de son trouble dépressif s’apprécie aussi après l’activité, dans le sommeil, les autres tâches et le temps nécessaire pour récupérer. Une séance réussie trouve sa place dans ce tableau plus large."
+      "clinical_focus": "Endurance pendant la reprise",
+      "clinical_intro": "Inaya montre ses gestes à quatre personnes et laisse du temps pour ranger avec Myriam. Cette reprise renseigne sur ce qu’elle peut faire avec des appuis et un rythme choisis. L’évolution de son trouble dépressif s’apprécie aussi après l’activité, dans le sommeil, les autres tâches et le temps nécessaire pour récupérer. Une séance réussie trouve sa place dans ce tableau plus large.",
+      "conclusion": "L’atelier a eu lieu à quatre dans le cadre choisi par Inaya et Myriam. La reprise a une portée précise. Myriam peut reconnaître la séance d’aujourd’hui et attendre l’accord de sa sœur sur la suite."
     },
     {
       "number": 12,
@@ -531,17 +1158,73 @@
         {
           "role": "explanation",
           "heading": "Prévoir une réponse quand plusieurs difficultés reviennent",
-          "text": "Dans la prévention des rechutes, le NICE recommande de revoir avec la personne ce qui l’a aidée, ce qui a précédé une aggravation et les réponses possibles. Pour Inaya, le changement de sommeil, la perte d’intérêt et la difficulté à garder certains engagements sont des observations à discuter avec sa psychiatre. Une matinée pénible n’impose pas d’en conclure qu’un épisode commence. Si les changements s’accumulent ou gênent de nouveau la vie quotidienne, elle sait qu’elle peut le signaler tôt.\n\nElles vérifient ensemble qui répond entre deux consultations et quel relais utiliser si la personne prévue n’est pas joignable."
+          "text": "Dans la prévention des rechutes, l’équipe peut revoir avec la personne ce qui l’a aidée, ce qui a précédé une aggravation et les réponses possibles. Pour Inaya, le changement de sommeil, la perte d’intérêt et la difficulté à garder certains engagements sont des observations à discuter avec sa psychiatre. Une matinée pénible n’impose pas d’en conclure qu’un épisode commence. Si les changements s’accumulent ou gênent de nouveau la vie quotidienne, elle sait qu’elle peut le signaler tôt.\n\nElles vérifient ensemble qui répond entre deux consultations et quel relais utiliser si la personne prévue n’est pas joignable."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Si la sécurité d’Inaya est menacée, elle cherche une aide urgente sans attendre le rendez-vous. Inaya choisit si Myriam garde une copie des coordonnées et quelles tâches pratiques sa sœur pourrait prendre pour un temps limité. La suite du suivi se décide avec l’équipe, selon sa situation et ses préférences."
+          "heading": "Comment repérer une nouvelle difficulté après plusieurs épisodes dépressifs ?",
+          "points": [
+            {
+              "heading": "Des signes qui ont compté lors d’un épisode",
+              "text": "L’histoire peut aider à reconnaître une combinaison de changements qui mérite un contact.",
+              "examples": [
+                "Inaya se rappelle le bus entendu avant l’aube plusieurs matins.",
+                "Elle rapproche ce souvenir des messages qu’elle ne parvenait plus à rappeler."
+              ]
+            },
+            {
+              "heading": "Une combinaison qui peut être différente la prochaine fois",
+              "text": "Les repères de suivi indiquent quand demander un avis et s’ajustent à ce que la personne vit.",
+              "examples": [
+                "Une matinée fatigante peut passer après un temps de repos et une journée habituelle.",
+                "Une difficulté qui s’étend au travail et à la maison peut amener Inaya à reprendre le contact convenu."
+              ]
+            },
+            {
+              "heading": "Des appuis définis après coup",
+              "text": "Un plan discuté pendant une période plus stable peut préciser les actions que chacun est prêt à prendre.",
+              "examples": [
+                "Inaya garde les coordonnées de soins dans son sac.",
+                "Elle partage avec Myriam seulement celles qui lui seront utiles si elle lui demande de l’aide."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire de la place à ce qui n’a pas besoin de servir au suivi",
-          "text": "Préparer une réponse à une aggravation ne demande pas de transformer chaque activité en indicateur. Inaya peut garder une séance de cinéma qui lui fait envie, choisir un autre film, ou ne rien décider aujourd’hui. Elle peut aussi remercier Mina pour son enthousiasme et attendre avant de s’engager sur un atelier. Un projet fait partie de sa vie, avec des choix qui ne se résument pas à ce qu’elle fait quand elle se sent mal.\n\nLe plan sert si une difficulté revient ; il n’a pas à organiser toutes les journées qui viennent. Si les horaires de la boutique ou les personnes disponibles changent, Inaya peut en reparler au suivi et ajuster le relais prévu."
+          "heading": "3 techniques pour préparer une réponse personnelle avec l’équipe",
+          "points": [
+            {
+              "heading": "Deux signes discutés avec le soignant",
+              "objective": "Choisir des observations qui ont du sens dans sa propre histoire.",
+              "exercise": [
+                "Reprenez deux changements de l’épisode précédent.",
+                "Dites à quel moment ils vous ont inquiétée.",
+                "Demandez quand prendre contact s’ils reviennent ensemble."
+              ],
+              "benefit": "Le suivi peut s’appuyer sur des repères personnels révisables."
+            },
+            {
+              "heading": "Un contact facile à retrouver",
+              "objective": "Donner au plan une forme utilisable dans la vie courante.",
+              "exercise": [
+                "Notez le contact convenu.",
+                "Indiquez où vous le gardez.",
+                "Vérifiez la marche à suivre si la situation change rapidement."
+              ],
+              "benefit": "Le relais peut être plus simple à retrouver au moment d’en avoir besoin."
+            },
+            {
+              "heading": "Une place pour les engagements ordinaires",
+              "objective": "Laisser les projets avancer selon leur propre calendrier.",
+              "exercise": [
+                "Inscrivez le suivi déjà prévu.",
+                "Choisissez une proposition de loisir pour sa valeur propre.",
+                "Confirmez la date avec la personne concernée quand elle vous convient."
+              ],
+              "benefit": "Le cinéma avec Nino peut rester une envie partagée sans devenir une mesure de l’humeur."
+            }
+          ]
         }
       ],
       "ending": "Au retour de la consultation, Inaya écrit au verso du programme le nom du cinéma pour ne pas se tromper de salle. Dans son sac, elle garde séparément les coordonnées convenues pour son suivi. Elle envoie à Myriam celles qu’elle souhaite partager et lui demande si elle a toujours envie de déjeuner dimanche. Nino voudrait déjà savoir s’ils prendront du chocolat. Elle lui répond qu’ils choisiront devant la caisse, si la séance leur convient. Sur le calendrier, le samedi suivant n’a encore qu’une ligne au crayon.",
@@ -555,11 +1238,12 @@
       ],
       "continuity": {
         "choice": "Inaya garde un rendez-vous, des coordonnées à utiliser si nécessaire et une invitation au cinéma encore ouverte.",
-        "next": "La suite reste ouverte : les soins et les engagements se rediscutent selon les besoins d’Inaya et les appuis disponibles."
+        "next": "Les soins et les engagements se rediscutent selon les besoins d’Inaya et les appuis disponibles."
       },
       "ending_title": "Le cinéma reste une invitation",
       "clinical_focus": "Prévention des rechutes dépressives",
-      "clinical_intro": "Inaya choisit avec sa psychiatre des repères liés à ce qu’elle a réellement vécu, comme les réveils, la perte d’intérêt pour les fleurs et l’effort croissant pour tenir ses engagements. Ensemble, elles réfléchissent à qui contacter si plusieurs changements se répètent. Ce plan laisse une place aux journées ordinaires et aux projets qu’Inaya a envie de faire pour le plaisir."
+      "clinical_intro": "Inaya choisit avec sa psychiatre des repères liés à ce qu’elle a réellement vécu, comme les réveils, la perte d’intérêt pour les fleurs et l’effort croissant pour tenir ses engagements. Ensemble, elles réfléchissent à qui contacter si plusieurs changements se répètent. Ce plan laisse une place aux journées ordinaires et aux projets qu’Inaya a envie de faire pour le plaisir.",
+      "conclusion": "Inaya garde les repères qui lui permettront de demander de l’aide si plusieurs difficultés reviennent. Le projet d’atelier et la sortie au cinéma avancent selon leurs propres accords. Myriam connaît le rôle qu’Inaya lui a proposé."
     }
   ]
 }

@@ -1,21 +1,21 @@
 ---
-title: Ce qu’un diagnostic éclaire dans plusieurs situations
-description: En consultation, Renaud relie un désaccord au travail et une attente
-  familiale. Il demande aussi pourquoi les classifications diffèrent.
+title: Croire que la même mise à l’écart se répète dans plusieurs lieux
+description: Renaud rapproche un choix du studio et un dîner de famille. En consultation,
+  il examine ce que les deux scènes lui ont fait craindre.
 slug: renaud-diagnostic-contextes-dsm-cim
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Renaud
-sujet: Persistance dans plusieurs contextes
+sujet: Sensibilité au statut dans plusieurs contextes
 contexte: Un jeudi après la validation avec le fabricant, en consultation
 tags:
 - Trouble de la personnalité narcissique
 - Trouble narcissique
 - Personnalité narcissique
 - Narcissisme pathologique
-- Diagnostic professionnel
-- Fonctionnement durable
-- DSM-5-TR et CIM-11
+- Menace sur le statut
+- Fonctionnement dans la durée
+- Évaluation professionnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -38,14 +38,79 @@ Le DSM-5-TR nomme le trouble de la personnalité narcissique comme une catégori
 
 Ce domaine peut rendre compte de certains traits narcissiques. Sa pertinence se juge pour la personne évaluée. L’intitulé DSM-5-TR ne fixe donc pas automatiquement un ensemble de traits ou un degré de sévérité en CIM-11.
 
-## Une remarque sur une tâche qui touche aussi sa place
+## Comment une même sensibilité prend-elle des formes différentes ?
 
-Renaud retrouve dans la phrase de Nora une sensation qu’il a connue quand Édith lui a expliqué qu’elle garderait l’heure du dîner. Un désaccord ancien avec son associé lui revient aussi. En consultation, il remarque l’écart entre les mots de Nora sur le choix d’une intervenante et la réponse qu’il lui a faite sur les responsabilités du studio. Il se rappelle également avoir pu tenir compte de sa sœur un autre dimanche. Ces différences aident à comprendre quand la réaction apparaît et ce qui varie d’une situation à l’autre.
+### Une décision de travail qui paraît personnelle
 
-## Apporter les faits et choisir une réponse précise
+La répartition d’une intervention peut être lue comme un jugement sur son importance.
 
-Renaud peut utiliser la description qu’on lui a expliquée pour poser des questions à sa thérapeute. En relisant les deux messages, il peut séparer le choix annoncé par Nora de ce qu’il a entendu sur son propre rôle. Il choisit de prévenir l’équipe s’il change d’avis et de transmettre le relevé attendu. Si une situation comparable se présente, il pourra l’apporter en consultation et examiner si ces deux gestes l’ont aidé à répondre à la tâche, même si la remarque continue de lui peser.
+**Exemples concrets**
+
+- Renaud note la phrase de Nora et sa propre réponse sur les responsabilités du studio.
+- Un autre directeur peut ressentir le choix d’un intervenant comme un retrait de confiance.
+
+### Une attente analogue dans un lien proche
+
+Une contrainte d’horaire peut sembler réduire la place qu’on occupe.
+
+**Exemples concrets**
+
+- Au dîner d’Édith, Renaud entend difficilement la raison du train.
+- Un proche peut entendre la fin d’un appel comme une prise de distance malgré un autre engagement.
+
+### Un fonctionnement qui se retrouve dans le temps
+
+Plusieurs situations permettent à l’équipe de discuter d’un fonctionnement durable.
+
+**Exemples concrets**
+
+- Renaud se rappelle un ancien associé qui avait refusé une exception.
+- Une personne peut rapprocher des épisodes éloignés et raconter aussi les situations où elle réagit autrement.
+
+## 3 techniques pour étudier une réaction qui revient
+
+### 1. Rapprocher deux événements
+
+Donner un contexte à la même impression.
+
+**Exercice pratique**
+
+- Choisir une décision de travail.
+- Choisir un échange avec un proche.
+- Décrire ce qui a semblé se répéter.
+
+La thérapeute peut examiner la durée et les circonstances.
+
+### 2. Demander ce que le diagnostic décrit
+
+Comprendre les termes employés au rendez-vous.
+
+**Exercice pratique**
+
+- Nommer la classification consultée.
+- Demander ce que l’évaluation a pris en compte.
+- Reformuler l’explication avec ses mots.
+
+Renaud peut mieux situer son diagnostic sans l’appliquer aux autres.
+
+### 3. Choisir un engagement observable
+
+Préserver sa part du travail quand cette impression revient.
+
+**Exercice pratique**
+
+- Nommer ce qui doit être transmis.
+- Prévoir qui prévenir si on se retire.
+- Dire quand on reverra l’effet de cet accord.
+
+Un prochain exemple peut éclairer le suivi.
 
 ## Une phrase à garder sous les dates
 
 La thérapeute lui demande ce qu’il voudrait pouvoir faire la prochaine fois qu’une place au premier rang lui échappe. Renaud fait glisser les deux messages sur l’écran. « Prévenir si je change d’avis, et envoyer ce que je devais envoyer. » Il écrit la phrase sous les dates. Ce soir, il n’appelle personne pour raconter le rendez-vous. Il veut d’abord demander à Yara si elle a reçu le nouveau document du centre. Il lui écrit pour convenir du moment où ils pourront le lire ensemble.
+
+---
+
+**Conclusion**
+
+Le même sentiment de compter moins apparaît derrière plusieurs scènes éloignées. Renaud choisit une réponse de travail qu’il pourra examiner au suivi. Yara lui demandera bientôt d’agir sur un crédit qui l’avantage.

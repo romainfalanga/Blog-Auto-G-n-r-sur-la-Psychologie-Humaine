@@ -6,14 +6,14 @@ slug: solene-salle-annulee-deux-appels
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Impression de référence
+sujet: Tristesse antérieure au contretemps
 contexte: Au dépôt, deux semaines après l’essai et avant la date publique pressentie
 tags:
 - Trouble schizoaffectif
 - Trouble schizo-affectif
+- Changement de l’humeur
 - Impression de référence
-- Tristesse persistante
-- Chronologie des symptômes
+- Chronologie du changement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -22,26 +22,89 @@ clinical_diagnosis: Trouble schizoaffectif
 episode: 6
 ---
 
-Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée. Mireille a imprimé le courriel pour y écrire les noms de deux autres lieux. Célestin ne sera pas disponible si tout est décalé d’un mois. Solène s’attarde sur ce détail : elle avait déjà prévu qui poserait les cartes et où.
+Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée. Mireille a imprimé le courriel pour y écrire les noms de deux autres lieux. Célestin ne sera pas disponible si tout est décalé d’un mois. Solène s’attarde sur ce détail. Elle avait déjà prévu qui poserait les cartes et où.
 
 Sur la page de travail ouverte devant elle, quelqu’un a laissé un commentaire sur Trois minutes de pluie : « Couper le début de la présentation. » À la première lecture, Solène a cru qu’il lui était adressé d’une autre façon, comme si les gens de la mairie savaient ce qui lui arrivait et lui disaient de se taire. Cette impression est venue avant le message d’annulation. Depuis quelques jours, elle se sent aussi si triste le matin qu’elle a laissé de côté des appels qu’elle passait facilement la semaine d’avant. Elle avait prévu d’attendre sa prochaine consultation pour en parler.
 
 Mireille demande si elle a lu les noms de lieux. Solène dit qu’elle souhaite garder les trois films, mais qu’elle ne peut pas téléphoner aux deux salles aujourd’hui. Mireille propose de vérifier la disponibilité de la médiathèque de la Rive. Solène pose le papier à plat, puis prend son carnet dans le sac. Elle connaît par cœur l’emplacement du contact de l’infirmière. Elle a tout de même besoin de l’avoir sous les yeux.
 
-## Un contretemps réel, une inquiétude qui le précède
+## Distinguer une tristesse installée d’une mauvaise nouvelle
 
-L’évaluation d’un changement tient compte de sa chronologie et de ses effets dans la vie quotidienne. Solène peut être contrariée par l’annulation et avoir besoin d’un avis sur une autre difficulté. Le courriel permet de savoir à quoi la salle va servir. Il n’explique pas le sens personnel que lui a paru prendre une remarque professionnelle, ni la tristesse qu’elle éprouvait avant de l’ouvrir.
+Une contrariété réelle peut coexister avec des changements d’humeur ou des impressions de référence qui avaient commencé avant. Dans le trouble schizoaffectif, l’équipe examine comment ces manifestations se rapprochent dans le temps et ce qu’elles changent au quotidien. Solène peut parler de l’annulation et aussi de la tristesse qui l’empêchait déjà de téléphoner le matin.
 
-## Comment cette difficulté se manifeste
+## Comment repérer ce qu’un contretemps n’explique pas à lui seul ?
 
-Au téléphone, elle peut raconter les deux choses qu’elle a remarquées avant l’annulation, préciser ce qu’elle arrive encore à faire et dire ce qui lui devient difficile. Dans le suivi du trouble schizoaffectif, l’équipe considère la nature et l’évolution des manifestations psychotiques et de l’humeur. Ce travail demande plus que le récit d’une matinée. Selon le guide mhGAP de l’OMS, l’examen du fonctionnement et des changements depuis le dernier contact fait partie du suivi. Solène peut demander une réévaluation quand elle s’inquiète, même après une période où elle avait retrouvé ses habitudes.
+### Une difficulté était présente avant l’annonce
 
-## Conserver deux interlocuteurs
+L’ordre des événements aide à ne pas confondre une réaction compréhensible et une évolution plus ancienne.
 
-Mireille a besoin de savoir quels films et quelles tâches restent dans le projet. Solène peut lui transmettre les contacts des lieux et garder dans son carnet les éléments dont elle veut parler avec l’équipe de soins. Elle dit qu’elle reviendra sur le choix de date quand une proposition sera prête. Rien ne l’oblige à défendre trois films et à résoudre les problèmes de salle dans le même appel.
+**Exemples concrets**
 
-Pour la suite des soins, Solène se réfère au contact prévu. Elle peut demander à l’infirmière qui joindre si elle a besoin d’un avis avant le prochain rendez-vous et que le cabinet est fermé. Si la situation devient urgente, elle suit le relais d’urgence discuté avec la psychiatre. Livia peut connaître l’information utile si Solène souhaite la lui transmettre. Elle peut aussi rappeler qu’elle ne peut pas se rendre disponible à chaque instant.
+- Solène avait laissé de côté des appels avant de recevoir le courriel de la mairie.
+- Une personne pourrait remarquer qu’elle avait déjà du mal à préparer ses repas avant une dispute.
+
+### Une remarque prend une portée personnelle
+
+Un commentaire sur une tâche peut paraître contenir une intention dirigée vers soi.
+
+**Exemples concrets**
+
+- La note sur la présentation donne à Solène l’impression qu’on lui demande de se taire.
+- Un rappel adressé à tout un groupe pourrait sembler signaler que les autres connaissent un détail intime.
+
+### Les deux difficultés gênent des actions différentes
+
+Séparer leurs effets rend les demandes plus précises.
+
+**Exemples concrets**
+
+- L’annulation exige une salle. Les changements ressentis avant exigent un point avec l’équipe.
+- Après une sortie annulée, quelqu’un pourrait convenir d’une autre date et parler séparément au soignant des matins devenus difficiles.
+
+## 3 techniques pour signaler ce qui change avant et après un contretemps
+
+### 1. Faire deux lignes dans l’ordre
+
+Retrouver quand chaque élément est apparu.
+
+**Exercice pratique**
+
+- Notez l’heure ou le jour du contretemps.
+- Ajoutez ce qui avait déjà changé avant.
+- Choisissez un exemple de l’effet sur la journée.
+
+Cette chronologie peut donner au soignant des points à examiner.
+
+### 2. Répartir les deux démarches
+
+Éviter d’attendre que le problème pratique se règle pour appeler.
+
+**Exercice pratique**
+
+- Choisissez le collègue qui peut vérifier le fait pratique.
+- Prenez l’endroit calme dont vous avez besoin.
+- Appelez l’équipe de soins pour les changements qui vous préoccupent.
+
+Le travail peut avancer pendant que vous demandez un avis.
+
+### 3. Reprendre les contacts avec l’équipe
+
+Avoir une conduite à tenir si l’état change entre deux points.
+
+**Exercice pratique**
+
+- Demandez quand l’équipe pourra vous revoir.
+- Vérifiez quel numéro utiliser si la situation s’aggrave.
+- Partagez cette information avec le proche choisi si vous le souhaitez.
+
+Le prochain recours peut rester clair même si le programme de travail change.
 
 ## La médiathèque sur la feuille, l’infirmière au téléphone
 
-Solène donne à Mireille le nom de la personne qui avait accueilli les essais de la tournée précédente. Puis elle s’installe dans le bureau libre et appelle l’infirmière. Celle-ci prend le temps de reprendre les faits et organise avec la psychiatre un point dans la journée. Solène demande quoi faire si elle ne se sent plus en sécurité avant le prochain contact ; elles reprennent les numéros à utiliser. Plus tard, en rentrant, Solène dit à Livia que le rendez-vous a été avancé et lui montre la page des contacts. Livia replie le coin qui recouvrait la dernière ligne.
+Solène donne à Mireille le nom de la personne qui avait accueilli les essais de la tournée précédente. Puis elle s’installe dans le bureau libre et appelle l’infirmière. Celle-ci prend le temps de reprendre les faits et organise avec la psychiatre un point dans la journée. Solène demande quoi faire si elle ne se sent plus en sécurité avant le prochain contact. Elles reprennent les numéros à utiliser. Plus tard, en rentrant, Solène dit à Livia que le rendez-vous a été avancé et lui montre la page des contacts. Livia replie le coin qui recouvrait la dernière ligne.
+
+---
+
+**Conclusion**
+
+Solène prend au sérieux le problème de salle et les changements qui ont commencé avant. Elle confie la première question à Mireille et parle de la seconde à l’infirmière. Le relais convenu pourra servir si la situation change à la maison.

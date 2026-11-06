@@ -36,16 +36,79 @@ Une envie forte de boire peut prendre de l’ampleur dans un lieu, une heure ou 
 
 Le sevrage est une autre question clinique, qui se pose quand des symptômes apparaissent après une baisse ou un arrêt de la consommation.
 
-## L’invitation qui fait perdre le fil du rendez-vous
+## Comment un lieu ou un message peut-il raviver l’envie de boire ?
 
-Éric reconnaît la table du café derrière Pascal sur la photo. Il lit plusieurs fois la même invitation et a du mal à garder en tête qu’il doit retrouver Mélissa. À ce moment, il pense à la fois au plaisir de revoir les anciens et au bref soulagement qu’il associe à la décision de rester boire. L’envie demeure quand il se sépare de Pascal, même s’il rejoint Mélissa à l’heure convenue.
+### Le souvenir se réveille à partir d’un détail
 
-## Demander un appui assez précis pour recevoir une réponse
+Un lieu ou une image associés à la consommation peuvent rappeler une sensation attendue.
 
-Pascal sait qu’Éric peut lui demander de parler. Il lui reste à dire s’il a du temps et ce qu’il peut partager. Marcher jusqu’à la boulangerie est possible pour lui aujourd’hui. Éric peut demander un trajet qui ne passe pas devant le café et expliquer qu’il retrouvera ensuite Mélissa. La demande tient dans le moment, sans obliger Pascal à répondre à chaque invitation à sa place.
+**Exemples concrets**
 
-En consultation, Éric peut décrire le passage de l’entretien à la photo, ce qu’il a ressenti, les autres changements qu’il a éventuellement remarqués et ce qui a rendu possible la suite. L’équipe peut reprendre ces éléments avec lui en tenant compte de son histoire et de son état de santé. Les aides qu’il souhaite préparer pourront varier selon qu’il se trouve seul, avec ses collègues ou au milieu des anciens. Son propre but reste important. Ce mercredi, il voulait écouter avec Mélissa la voix de la marchande et lui demander ce qu’elle entendait derrière.
+- Éric reconnaît la marque sur le mur derrière la fanfare.
+- Une personne passe devant le café où elle avait l’habitude de s’arrêter.
+
+### L’attention reste prise dans le message
+
+Il peut devenir difficile de penser à l’engagement déjà prévu.
+
+**Exemples concrets**
+
+- Éric relit l’invitation et perd le fil de son trajet vers Mélissa.
+- Une personne oublie ce qu’elle allait acheter en pensant à un rendez-vous au bar.
+
+### Le désir de retrouver des gens se mêle à l’envie de boire
+
+L’invitation peut promettre à la fois une rencontre et une sensation liée à l’alcool.
+
+**Exemples concrets**
+
+- Éric a envie de voir les anciens et pense au calme bref qu’il associe au café.
+- Une personne veut parler à un ami et se surprend à penser surtout au verre qui accompagne leurs rencontres.
+
+## 3 techniques pour traverser une envie associée à une invitation
+
+### 1. Nommer le déclencheur sur le moment
+
+Reconnaître l’envie avant d’en faire une décision.
+
+**Exercice pratique**
+
+- Repérez ce qui vient d’arriver.
+- Dites en une phrase ce qui vous attire.
+- Gardez une note pour la consultation si elle vous est utile.
+
+Vous pourrez situer ce qui a changé à cet instant.
+
+### 2. Utiliser un trajet de repli
+
+Reprendre la direction de l’activité choisie.
+
+**Exercice pratique**
+
+- Identifiez un autre passage praticable.
+- Demandez au proche convenu s’il peut marcher avec vous.
+- Continuez par le trajet choisi même s’il ne peut pas venir.
+
+Vous pouvez garder un choix pendant que l’envie est encore présente.
+
+### 3. Répondre après la décision du jour
+
+Ne pas se retrouver engagé en relisant le message.
+
+**Exercice pratique**
+
+- Mettez le message de côté un moment.
+- Revenez à la tâche prévue.
+- Décidez ensuite si vous souhaitez répondre.
+
+La réponse peut être choisie hors du moment le plus pressant.
 
 ## Garder le son du bois
 
 Pascal arrive au kiosque avec le sac vide plié dans sa poche. Éric lui fait entendre quelques secondes de l’enregistrement. Pascal reconnaît le bruit du bois et dit que son père empilait les caisses comme ça aussi. Ils descendent ensemble jusqu’à la boulangerie. Éric a encore envie de répondre à la photo quand ils se quittent. Il glisse le téléphone dans sa veste pour retrouver Mélissa à l’heure convenue. Au premier écouteur, elle croit qu’un mot est couvert. Ils repassent la fin et entendent la marchande s’arrêter le temps de caler une cagette. Éric laisse le bruit en place.
+
+---
+
+**Conclusion**
+
+Pascal accompagne Éric jusqu’à la boulangerie et Éric retrouve Mélissa. L’envie n’a pas disparu pour autant. En consultation, il distinguera ce qu’il a ressenti devant le café de symptômes survenus après une baisse.

@@ -31,13 +31,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Renaud, le compliment lui apporte du soulagement et confirme la place qu’il cherche à tenir. Pour Yara, la réponse efface la part de son travail dont dépend le projet. La question de la reconnaissance a donc une conséquence vérifiable. Nora repart avec une attribution inexacte et Yara doit l’arrêter avant que cette attribution se retrouve dans le dossier."
+          "heading": "Comment le besoin d’admiration change-t-il la façon de recevoir un compliment ?",
+          "points": [
+            {
+              "heading": "Un éloge attendu",
+              "text": "Un compliment peut prendre un poids disproportionné dans l’échange.",
+              "examples": [
+                "Renaud éprouve une détente franche quand Nora s’adresse à lui.",
+                "Une personne peut attendre la réaction du public avant de regarder le résultat d’un travail."
+              ]
+            },
+            {
+              "heading": "Un crédit accueilli trop vite",
+              "text": "L’attention à sa place peut faire perdre le fil des contributions.",
+              "examples": [
+                "Renaud emploie « je » pour répondre à propos des formes de Yara.",
+                "En réunion, une personne peut laisser entendre qu’elle a conçu une partie dont elle a assuré la réalisation."
+              ]
+            },
+            {
+              "heading": "Une correction difficile à entendre",
+              "text": "La perspective de perdre l’éloge peut susciter une défense rapide.",
+              "examples": [
+                "Renaud s’apprête à dire que Nora les avait entendus tous les deux.",
+                "Un collègue peut minimiser une erreur d’attribution en la présentant comme un détail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rétablir les faits au bon endroit",
-          "text": "Renaud peut reconnaître son plaisir d’avoir été écouté et corriger précisément ce qu’il a dit. Il se souvient que Yara a réalisé les observations et dessiné les formes de repérage. Lui a travaillé sur la composition des panneaux et la cohérence des textes. S’il apporte cette précision à Nora, elle pourra s’appuyer sur un récit fidèle pour rédiger sa note.\n\nLes difficultés qui ont conduit à son diagnostic se sont manifestées pendant des années, dans plus d’un domaine de sa vie. Cette scène éclaire une réaction particulière et son coût pour une collègue. Le soin peut l’aider à mieux repérer ce qui se passe au moment où la reconnaissance devient urgente. L’attribution du travail, elle, dépend des mots et des actes que les personnes concernées peuvent constater."
+          "heading": "3 techniques pour rendre un compliment à la bonne personne",
+          "points": [
+            {
+              "heading": "Nommer les apports devant l’interlocutrice",
+              "objective": "Rétablir ce que Nora a compris.",
+              "exercise": [
+                "Reprendre le compliment précis.",
+                "Indiquer qui a conçu les formes.",
+                "Nommer son propre apport aux panneaux."
+              ],
+              "benefit": "Chacun peut être reconnu pour sa contribution."
+            },
+            {
+              "heading": "Relire le document à deux",
+              "objective": "Garder une trace fiable pour la présentation.",
+              "exercise": [
+                "Retrouver le message de synthèse.",
+                "Proposer la formulation à Yara.",
+                "Fixer un moment de relecture."
+              ],
+              "benefit": "L’attribution peut rester claire jusqu’à la version publique."
+            },
+            {
+              "heading": "Examiner la réaction en séance",
+              "objective": "Comprendre ce que l’éloge a déclenché.",
+              "exercise": [
+                "Se rappeler l’instant du compliment.",
+                "Dire quelle réponse est venue aussitôt.",
+                "Décrire ce que Yara a dû demander."
+              ],
+              "benefit": "La thérapeute peut explorer le lien entre admiration et relation."
+            }
+          ]
         }
       ],
       "ending_title": "Deux lignes avant de partir",
@@ -52,7 +108,8 @@
       "continuity": {
         "choice": "Renaud attribue à Yara la conception des formes devant Nora, puis l’inscrit dans la réponse de synthèse.",
         "next": "Mardi, Yara détaille son essai. Ils doivent relire ensemble le document de présentation publique."
-      }
+      },
+      "conclusion": "Renaud corrige devant Nora ce que son « je » avait laissé entendre. Le soulagement du compliment a pourtant bien eu lieu. L’épisode suivant montre une autre façon dont le sentiment d’importance peut orienter une demande."
     },
     {
       "number": 2,
@@ -76,13 +133,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le sentiment d’être mal accueilli surgit pour lui avant qu’il entende la raison d’Édith. La contrainte de Sophie reste la même quel que soit le prestige du projet dont il veut parler. Le point de vue d’Édith compte également. Elle organise son anniversaire et peut choisir de passer du temps avec plusieurs personnes. Renaud peut éprouver sa déception tout en reconnaissant ces éléments."
+          "heading": "Comment une préférence devient-elle une exception attendue ?",
+          "points": [
+            {
+              "heading": "Une décision déjà prise pour les autres",
+              "text": "Une demande peut supposer d’emblée que le groupe s’adaptera.",
+              "examples": [
+                "Renaud écrit « Décalez un peu » après avoir organisé son propre détour.",
+                "Une personne peut annoncer un changement de lieu avant de connaître les contraintes des invités."
+              ]
+            },
+            {
+              "heading": "La valeur de son apport invoquée",
+              "text": "Ce que la personne apporte peut lui sembler justifier un traitement particulier.",
+              "examples": [
+                "Renaud rappelle le dessert et pense à son annonce sur le centre.",
+                "Quelqu’un peut croire qu’une réunion devrait commencer à son arrivée parce qu’il présente une idée."
+              ]
+            },
+            {
+              "heading": "Une limite prise comme un affront",
+              "text": "Le refus peut faire perdre de vue la raison donnée.",
+              "examples": [
+                "Il envisage de garder les pâtisseries au studio.",
+                "Une personne peut vouloir se retirer d’un événement lorsque l’heure reste celle du groupe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qui dépend de soi",
-          "text": "Édith formule une décision qu’elle peut appliquer. Elle garde l’heure et indique que son frère reste bienvenu. Elle répond à la demande réelle sans négocier la valeur du travail de Renaud ou celle de sa présence. Cela laisse un choix à chacun. Les invités peuvent commencer et Renaud peut organiser son déplacement ou arriver plus tard.\n\nDans une relation où ce genre de demande se répète, un accord explicite aide à voir ce que chacun peut tenir. Ici, la comparaison des deux messages fait comprendre à Renaud combien de personnes son choix mobilisait. Il pourra en parler à sa thérapeute s’il veut comprendre pourquoi une réponse négative lui a donné si vite envie de se retirer. Édith n’a pas à attendre cette discussion pour maintenir sa limite."
+          "heading": "3 techniques pour rediscuter une demande sans décider pour les autres",
+          "points": [
+            {
+              "heading": "Revenir à la contrainte exprimée",
+              "objective": "Entendre pourquoi l’heure a été maintenue.",
+              "exercise": [
+                "Relire la réponse d’Édith.",
+                "Repérer l’heure du train de Sophie.",
+                "Dire à quelle heure on peut vraiment arriver."
+              ],
+              "benefit": "Le groupe peut garder son accord et accueillir Renaud."
+            },
+            {
+              "heading": "Reformuler une proposition future",
+              "objective": "Laisser à l’autre le choix de répondre.",
+              "exercise": [
+                "Dire ce qu’on souhaiterait.",
+                "Demander si cela convient.",
+                "Préparer une autre option si la réponse est négative."
+              ],
+              "benefit": "Une préférence peut être discutée sans devenir une obligation collective."
+            },
+            {
+              "heading": "Vérifier un engagement concret",
+              "objective": "Tenir compte des conditions avant de dire oui.",
+              "exercise": [
+                "Demander à Édith le lieu des cartons.",
+                "Regarder le créneau de quinze heures.",
+                "Confirmer la part qu’on peut prendre."
+              ],
+              "benefit": "La promesse peut correspondre au temps réellement disponible."
+            }
+          ]
         }
       ],
       "ending_title": "La chaise au bout de la table",
@@ -97,7 +210,8 @@
       "continuity": {
         "choice": "Édith conserve l’horaire de son dîner et Renaud la rejoint. Il s’engage ensuite à porter les cartons dimanche à quinze heures.",
         "next": "Renaud a accepté l’horaire avant de promettre de venir. Le test de parcours avec Yara est prévu mardi."
-      }
+      },
+      "conclusion": "L’heure du dîner reste celle qu’Édith avait fixée et Renaud les rejoint. Avant d’accepter les cartons, il regarde cette fois l’heure demandée. Le test avec Yara lui réservera une autre difficulté."
     },
     {
       "number": 3,
@@ -121,13 +235,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud sait que la visiteuse est partie du mauvais côté. Lorsqu’il se sent observé par Nora, il pense surtout à l’idée qu’on pourrait le croire incompétent. La façon dont Yara a organisé l’essai devient une cible. Sa remarque fait perdre du temps à Yara et la place en position de justifier sa méthode. La honte ressentie éclaire ce passage de la discussion sans effacer ce qu’il vient de dire."
+          "heading": "Comment la honte transforme-t-elle une remarque technique ?",
+          "points": [
+            {
+              "heading": "Une remarque qui prend une portée personnelle",
+              "text": "Un retour limité peut être vécu comme une chute de sa valeur.",
+              "examples": [
+                "Renaud ne veut pas reconnaître devant Nora avoir raccourci le nom.",
+                "Une correction de texte peut être entendue comme un jugement sur la compétence de son auteur."
+              ]
+            },
+            {
+              "heading": "La défense qui devance l’observation",
+              "text": "L’envie de reprendre le dessus peut détourner l’échange du problème.",
+              "examples": [
+                "Renaud attaque le test, puis la hauteur des panneaux.",
+                "Une personne peut contester le protocole avant d’écouter le résultat."
+              ]
+            },
+            {
+              "heading": "Une relation qui se tend autour du travail",
+              "text": "La réponse défensive peut rendre plus difficile l’accord dont l’équipe a besoin.",
+              "examples": [
+                "Yara referme ses notes au lieu de poursuivre l’analyse.",
+                "Un collègue peut demander des règles communes avant d’accepter un nouvel essai."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à une correction qu’on peut observer",
-          "text": "La feuille de Yara contient les deux trajets. Renaud peut reprendre cette information et proposer d’essayer deux libellés avec la même consigne. Cette réponse revient sur la tâche commune. Elle ne demande pas à Yara de confirmer que son travail était bon et elle préserve la possibilité de contester l’essai pour une raison précise si une autre difficulté apparaît.\n\nCe passage fournit aussi un exemple dont Renaud pourra parler en consultation. Il y a la perception d’être jugé, la chaleur qu’il ressent en entendant la remarque, la défense formulée à voix haute et la réaction de Yara. Reconstituer ce qui s’est passé peut aider à repérer la part qu’il aurait la possibilité de traiter autrement. Il peut commencer par reconnaître ce qu’il a fait devant les personnes présentes."
+          "heading": "3 techniques pour reprendre une critique qui a fait honte",
+          "points": [
+            {
+              "heading": "Repartir d’un fait du test",
+              "objective": "Retrouver le problème à résoudre.",
+              "exercise": [
+                "Nommer le détour constaté.",
+                "Préciser le panneau concerné.",
+                "Demander le changement que Yara veut essayer."
+              ],
+              "benefit": "Le débat peut porter de nouveau sur la signalétique."
+            },
+            {
+              "heading": "Reconnaître la réponse donnée",
+              "objective": "Donner à la collègue une base pour reprendre l’échange.",
+              "exercise": [
+                "Nommer le reproche adressé au test.",
+                "Proposer une correction dont on peut s’occuper.",
+                "Écouter les conditions de Yara."
+              ],
+              "benefit": "Le nouvel essai peut partir d’un accord plus précis."
+            },
+            {
+              "heading": "Garder un exemple en consultation",
+              "objective": "Explorer la honte au moment où elle change la réponse.",
+              "exercise": [
+                "Noter la phrase sur la hauteur.",
+                "Dire qui était dans la salle.",
+                "Raconter ce qu’on a redouté de reconnaître."
+              ],
+              "benefit": "La thérapeute peut relier l’émotion et la réaction observée."
+            }
+          ]
         }
       ],
       "ending_title": "Un nouveau libellé",
@@ -143,7 +313,8 @@
       "continuity": {
         "choice": "Renaud reconnaît devant Yara et Nora qu’il a attaqué le test. Il propose de refaire le panneau avec le nom complet.",
         "next": "Yara accepte un nouvel essai avec un accord sur les observations. Renaud garde une note sur sa réaction pour la consultation."
-      }
+      },
+      "conclusion": "Renaud finit par reconnaître le résultat du test et s’engage à reprendre le panneau. Yara garde ses conditions pour le prochain essai. La scène laisse une question sur la place que la honte a prise dans sa réponse."
     },
     {
       "number": 4,
@@ -167,13 +338,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud voit qu’Édith porte un objet encombrant. Il lui laisse la place de le poser. Il lui est plus difficile d’entendre la demande sur l’heure car il veut encore être rassuré à propos de son travail. Ces deux faits peuvent coexister. Édith donne un renseignement dont il a besoin pour s’organiser et qui lui importe aussi pour sa propre vie."
+          "heading": "Comment la préoccupation pour sa propre place fait-elle manquer le besoin d’autrui ?",
+          "points": [
+            {
+              "heading": "Parler avant d’entendre",
+              "text": "Vouloir être compris peut prendre la place d’une demande déjà formulée.",
+              "examples": [
+                "Dans l’escalier, Renaud poursuit son récit quand Édith demande de l’aide.",
+                "Une personne peut finir l’histoire d’un conflit sans répondre à l’ami qui doit partir."
+              ]
+            },
+            {
+              "heading": "Prêter moins de poids à la contrainte de l’autre",
+              "text": "Une demande peut paraître secondaire lorsque son motif reste mal entendu.",
+              "examples": [
+                "Renaud songe que l’appel d’Édith peut attendre.",
+                "Un collègue peut croire qu’un autre rendez-vous est facile à déplacer sans demander pourquoi il compte."
+              ]
+            },
+            {
+              "heading": "Découvrir que l’autre avait une raison propre",
+              "text": "Une question précise peut faire apparaître ce que le premier échange avait écarté.",
+              "examples": [
+                "Édith a promis un appel à son amie qui cherche une chambre.",
+                "Une personne peut préciser qu’elle quitte une réunion pour tenir un autre engagement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire compter ce qu’on a entendu",
-          "text": "Demander une heure précise permet à Renaud de choisir ce qu’il pourra porter seul. Il comprend qu’Édith a promis son temps à quelqu’un et qu’elle souhaite tenir cet engagement. La réponse devient plus complète dès lors que cette raison peut peser sur le plan de l’après-midi. Il peut garder son envie de raconter la réunion pour un moment où ils auront tous les deux le loisir de parler.\n\nLa discussion reste possible si Édith le souhaite. Renaud a fait un effort à un moment précis, dont ils peuvent constater le résultat. Pour savoir si sa manière d’écouter évolue dans la durée, sa thérapeute et lui peuvent revenir sur d’autres situations, notamment celles où reconnaître les besoins d’autrui lui demande davantage."
+          "heading": "3 techniques pour faire une place à la demande de l’autre",
+          "points": [
+            {
+              "heading": "Répondre au besoin exprimé",
+              "objective": "Garder la demande d’Édith au centre un instant.",
+              "exercise": [
+                "Lui demander de redire l’heure.",
+                "Vérifier quel trajet reste à faire.",
+                "Dire si on peut le prendre seul."
+              ],
+              "benefit": "Édith peut partir avec un accord clair."
+            },
+            {
+              "heading": "Demander avant de raconter",
+              "objective": "Chercher un moment où l’autre a du temps.",
+              "exercise": [
+                "Nommer le sujet qu’on voudrait aborder.",
+                "Demander si le moment convient.",
+                "Proposer un autre créneau si besoin."
+              ],
+              "benefit": "La conversation peut tenir compte des disponibilités de chacun."
+            },
+            {
+              "heading": "Reprendre un moment manqué",
+              "objective": "Examiner ce qui a empêché d’écouter.",
+              "exercise": [
+                "Retenir la première demande d’Édith.",
+                "Décrire ce qu’on voulait obtenir alors.",
+                "En parler au suivi si cela revient."
+              ],
+              "benefit": "La consultation peut s’appuyer sur un échange concret."
+            }
+          ]
         }
       ],
       "ending_title": "Le dernier carton près de la porte",
@@ -188,7 +415,8 @@
       "continuity": {
         "choice": "Renaud prend en compte l’heure du départ d’Édith et porte le dernier carton seul.",
         "next": "Il veut désormais proposer un moment pour parler plutôt que d’utiliser d’office le temps d’Édith. Les deux collaborateurs préparent toujours leur présentation publique."
-      }
+      },
+      "conclusion": "Renaud entend l’heure de l’appel et prend en charge le dernier carton. Édith peut repartir avec son engagement intact. Au studio, une réussite de Yara mettra encore son attention à l’épreuve."
     },
     {
       "number": 5,
@@ -212,13 +440,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud sait que l’encadré porte sur un test préparé par Yara. Il vérifie pourtant son propre nom avant de regarder ce qu’elle explique. Cette comparaison rapide lui fait envisager de rabaisser sa collègue pour se sentir à nouveau considéré. Malik pose une autre question, qui ramène l’échange au contenu de l’article et à ce que Renaud voudrait pour lui-même."
+          "heading": "Comment le succès d’autrui peut-il être vécu comme une perte de statut ?",
+          "points": [
+            {
+              "heading": "Lire la visibilité de l’autre comme une soustraction",
+              "text": "L’envie peut faire paraître une reconnaissance accordée à autrui comme une place retirée.",
+              "examples": [
+                "Renaud voit la citation de Yara et cherche la sienne au verso.",
+                "Un collègue peut vivre une invitation reçue par un autre comme un recul de son propre rôle."
+              ]
+            },
+            {
+              "heading": "Dévaluer la façon dont l’autre réussit",
+              "text": "L’attention peut se porter sur une explication qui réduit le mérite.",
+              "examples": [
+                "Renaud pense que Yara parle facilement devant une caméra.",
+                "Quelqu’un peut attribuer un compliment à l’aisance de la personne avant de relire son apport."
+              ]
+            },
+            {
+              "heading": "Retrouver une appréciation précise",
+              "text": "L’envie peut coexister avec la capacité de reconnaître un travail.",
+              "examples": [
+                "Renaud remarque enfin la question utile posée par Yara durant l’essai.",
+                "Une personne peut découvrir en relisant une présentation pourquoi le public a compris une idée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Distinguer la place souhaitée et le crédit dû",
-          "text": "L’article est le résultat d’un choix d’angle. Le dossier public reste un endroit où les contributions doivent être attribuées avec précision. Renaud peut vérifier cet engagement avec Yara lorsqu’une nouvelle version arrive. Pour une autre occasion, il peut demander que son travail sur les panneaux soit présenté en tant que tel. Cette demande laisse à Yara son crédit et à la journaliste sa décision.\n\nReconnaître l’envie peut fournir un exemple utile en consultation. Renaud peut décrire ce qui l’a rendu jaloux, la remarque qu’il a envisagé de faire et l’effet qu’elle aurait pu avoir. Il garde aussi la possibilité de s’intéresser à ce que sa collègue a dit. La phrase citée explique un point qu’ils ont mis du temps à éclaircir ensemble."
+          "heading": "3 techniques pour garder le mérite de chacun en vue",
+          "points": [
+            {
+              "heading": "Vérifier l’attribution réelle",
+              "objective": "Savoir ce que l’article dit du projet.",
+              "exercise": [
+                "Lire l’encadré jusqu’au bout.",
+                "Repérer l’apport cité.",
+                "Comparer au dossier déjà approuvé."
+              ],
+              "benefit": "Le désaccord éventuel peut être formulé avec précision."
+            },
+            {
+              "heading": "Adresser une reconnaissance précise",
+              "objective": "Parler de ce que Yara a effectivement fait.",
+              "exercise": [
+                "Choisir un détail de l’essai.",
+                "Expliquer pourquoi il a compté.",
+                "Envoyer un message sur ce seul apport."
+              ],
+              "benefit": "La collègue peut recevoir un retour qui la concerne."
+            },
+            {
+              "heading": "Nommer son envie dans un cadre choisi",
+              "objective": "Comprendre ce qui a ressemblé à une perte.",
+              "exercise": [
+                "Dire quelle phrase on aurait aimé lire.",
+                "Repérer ce qu’on a imaginé de sa place.",
+                "Discuter du contraste en suivi."
+              ],
+              "benefit": "Le ressenti peut être abordé sans modifier les faits."
+            }
+          ]
         }
       ],
       "ending_title": "Une citation en entier",
@@ -234,7 +518,8 @@
       "continuity": {
         "choice": "Renaud lit l’encadré en entier et reconnaît un apport de Yara dans un message. Il accepte le rendez-vous avec Nora.",
         "next": "Nora organise la présentation du mois suivant. Les contributions de Renaud et de Yara figurent dans le dossier public déjà relu."
-      }
+      },
+      "conclusion": "Renaud reconnaît ce que le journal a retenu du travail de Yara. Il aurait encore aimé une ligne sur les panneaux. La rencontre de presse rendra plus concret le choix de la personne qui parlera."
     },
     {
       "number": 6,
@@ -258,13 +543,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le soulagement immédiat et la validation reportée",
-          "text": "Quand Nora propose que Yara parle à la presse, Renaud interprète ce choix comme une mise à l’écart. Il déplace le relevé et annonce qu’il laissera les autres faire la réunion. Le soulagement est immédiat. Le lendemain, Yara reporte la validation de deux panneaux parce qu’elle n’a pas les mesures attendues. Le retrait a changé une tâche que Renaud avait acceptée et coûté une semaine à l’équipe."
+          "heading": "Comment le sentiment d’être relégué peut-il conduire au retrait ?",
+          "points": [
+            {
+              "heading": "Une tâche limitée entendue comme un déclassement",
+              "text": "Une répartition ponctuelle peut sembler menacer l’importance de son rôle.",
+              "examples": [
+                "Nora propose un intervenant et Renaud demande si le studio a perdu sa responsabilité.",
+                "Quelqu’un peut entendre qu’une autre personne présentera un essai et croire qu’on ne reconnaît plus sa contribution."
+              ]
+            },
+            {
+              "heading": "Se retirer pour ne plus subir la situation",
+              "text": "L’absence peut apporter un répit immédiat.",
+              "examples": [
+                "Renaud annonce qu’il ne viendra pas et déplace le relevé.",
+                "Une personne peut quitter un échange où elle se sent reléguée avant de transmettre son travail."
+              ]
+            },
+            {
+              "heading": "Laisser aux autres un problème précis",
+              "text": "La rupture peut retarder une décision qui dépendait de plusieurs personnes.",
+              "examples": [
+                "Yara reporte la validation de deux panneaux.",
+                "Un fabricant peut repartir sans les mesures nécessaires pour confirmer une commande."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répondre à la tâche et parler ailleurs du sentiment d’exclusion",
-          "text": "Le fichier est disponible. Renaud peut le remettre dans le dossier commun, convenir d’une date de rattrapage et prévenir la personne qui attend. Il peut parler à Nora de la répartition des rôles à un autre moment. Yara conserve la possibilité d’expliquer ses essais. La question de la représentation publique et la responsabilité technique peuvent chacune recevoir une réponse compréhensible.\n\nLe sentiment d’exclusion demeure pour Renaud. Il a prévu une consultation la semaine suivante. Il peut y apporter les deux messages, celui sur le programme et celui sur la validation. Examiner la différence entre ce que Nora a annoncé et ce qu’il en a conclu lui donne une situation précise à discuter. La relation de soin garde sa place à côté du travail de réparation dans l’équipe."
+          "heading": "3 techniques pour préserver ses engagements quand on veut se retirer",
+          "points": [
+            {
+              "heading": "Vérifier la portée de la décision",
+              "objective": "Comprendre la répartition effectivement proposée.",
+              "exercise": [
+                "Demander qui présente l’essai.",
+                "Préciser qui répondra sur la fabrication.",
+                "Distinguer la presse de la validation technique."
+              ],
+              "benefit": "Renaud peut savoir quelles responsabilités sont encore les siennes."
+            },
+            {
+              "heading": "Assurer la transmission",
+              "objective": "Permettre aux autres d’avancer malgré une absence.",
+              "exercise": [
+                "Repérer le document attendu.",
+                "Déposer la version accessible.",
+                "Prévenir l’équipe d’un changement de présence."
+              ],
+              "benefit": "Le fabricant et Yara peuvent savoir sur quoi ils travaillent."
+            },
+            {
+              "heading": "Préparer le prochain rendez-vous de soin",
+              "objective": "Reprendre le moment où le retrait a semblé préférable.",
+              "exercise": [
+                "Noter la phrase de Nora.",
+                "Décrire le soulagement ressenti en partant.",
+                "Nommer la décision que l’équipe a reportée."
+              ],
+              "benefit": "Le suivi peut examiner la réaction et son coût."
+            }
+          ]
         }
       ],
       "ending_title": "Le relevé dans le dossier commun",
@@ -280,21 +621,22 @@
       "continuity": {
         "choice": "Renaud rend les mesures accessibles, reconnaît son absence et organise une nouvelle validation jeudi.",
         "next": "Yara a demandé les mesures la veille. Renaud apporte sa perception du programme et sa réaction à sa prochaine consultation."
-      }
+      },
+      "conclusion": "Le relevé redevient accessible et Yara fixe ses conditions pour jeudi. Renaud emporte la phrase de Nora à sa consultation. Elle lui rappelle déjà d’autres moments où une décision limitée lui a paru parler de sa place."
     },
     {
       "number": 7,
       "slug": "renaud-diagnostic-contextes-dsm-cim",
-      "title": "Ce qu’un diagnostic éclaire dans plusieurs situations",
-      "description": "En consultation, Renaud relie un désaccord au travail et une attente familiale. Il demande aussi pourquoi les classifications diffèrent.",
+      "title": "Croire que la même mise à l’écart se répète dans plusieurs lieux",
+      "description": "Renaud rapproche un choix du studio et un dîner de famille. En consultation, il examine ce que les deux scènes lui ont fait craindre.",
       "context": "Un jeudi après la validation avec le fabricant, en consultation",
       "topics": [
-        "Diagnostic professionnel",
-        "Fonctionnement durable",
-        "DSM-5-TR et CIM-11"
+        "Menace sur le statut",
+        "Fonctionnement dans la durée",
+        "Évaluation professionnelle"
       ],
-      "clinical_focus": "Persistance dans plusieurs contextes",
-      "clinical_intro": "Renaud relit deux messages qu’il veut apporter en consultation. L’un concerne une tâche qu’il a laissée en suspens au studio. L’autre lui rappelle le dîner où il voulait que tous attendent son arrivée. L’épisode montre pourquoi une évaluation s’intéresse à un fonctionnement dans la durée et à ses effets dans plusieurs situations. La thérapeute explique aussi les différences entre le DSM-5-TR et la CIM-11.",
+      "clinical_focus": "Sensibilité au statut dans plusieurs contextes",
+      "clinical_intro": "En consultation, Renaud repère une réaction qui revient au studio et à un dîner de famille. Une répartition des tâches ou un horaire maintenu peuvent lui donner l’impression de compter moins. La thérapeute reprend avec lui ce fonctionnement et ses effets dans le temps, puis explique pourquoi les classifications ne décrivent pas son diagnostic de la même façon.",
       "opening": "Le fabricant a validé les dimensions le matin même. En arrivant à sa consultation, Renaud a encore sur son manteau un bout d’adhésif qui retenait le relevé au mur. Il le décolle et le roule entre ses doigts. Sa thérapeute lui demande ce qu’il veut reprendre aujourd’hui. Il lui montre la note où il a écrit la phrase de Nora sur le choix d’une intervenante. Sous la phrase, il a ajouté ce qu’il a répondu au sujet des responsabilités du studio. En relisant les deux lignes à voix haute, il se rend compte qu’elles ne parlent pas tout à fait de la même chose.\n\nRenaud dit que l’histoire lui rappelle le dîner d’Édith. Il avait demandé d’attendre son arrivée. Sa sœur lui avait répondu qu’une amie devait reprendre le train. Sur le coup, il lui avait fallu un moment pour entendre la raison qu’elle lui donnait. Il se souvient d’un changement d’horaire bien plus ancien, quand il travaillait avec un associé et que celui-ci avait refusé de recevoir un client en dehors des heures prévues. Il avait déjà eu cette sensation de compter moins. Il sort des dates qu’il croyait oubliées et s’arrête en voyant la surprise sur le visage de sa thérapeute.\n\nDepuis son évaluation, Renaud connaît le nom de son trouble. Il a essayé de le retrouver dans une autre classification et n’a pas vu la même entrée. Il demande si l’un des deux livres a raison. Sa thérapeute tourne la feuille et lui montre que deux descriptions peuvent suivre des logiques différentes. Il garde son doigt sur la note. Ce qui l’intéresse maintenant, c’est de comprendre comment une remarque sur une tâche finit par lui sembler dire quelle place il occupe parmi les gens.",
       "sections": [
         {
@@ -304,13 +646,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une remarque sur une tâche qui touche aussi sa place",
-          "text": "Renaud retrouve dans la phrase de Nora une sensation qu’il a connue quand Édith lui a expliqué qu’elle garderait l’heure du dîner. Un désaccord ancien avec son associé lui revient aussi. En consultation, il remarque l’écart entre les mots de Nora sur le choix d’une intervenante et la réponse qu’il lui a faite sur les responsabilités du studio. Il se rappelle également avoir pu tenir compte de sa sœur un autre dimanche. Ces différences aident à comprendre quand la réaction apparaît et ce qui varie d’une situation à l’autre."
+          "heading": "Comment une même sensibilité prend-elle des formes différentes ?",
+          "points": [
+            {
+              "heading": "Une décision de travail qui paraît personnelle",
+              "text": "La répartition d’une intervention peut être lue comme un jugement sur son importance.",
+              "examples": [
+                "Renaud note la phrase de Nora et sa propre réponse sur les responsabilités du studio.",
+                "Un autre directeur peut ressentir le choix d’un intervenant comme un retrait de confiance."
+              ]
+            },
+            {
+              "heading": "Une attente analogue dans un lien proche",
+              "text": "Une contrainte d’horaire peut sembler réduire la place qu’on occupe.",
+              "examples": [
+                "Au dîner d’Édith, Renaud entend difficilement la raison du train.",
+                "Un proche peut entendre la fin d’un appel comme une prise de distance malgré un autre engagement."
+              ]
+            },
+            {
+              "heading": "Un fonctionnement qui se retrouve dans le temps",
+              "text": "Plusieurs situations permettent à l’équipe de discuter d’un fonctionnement durable.",
+              "examples": [
+                "Renaud se rappelle un ancien associé qui avait refusé une exception.",
+                "Une personne peut rapprocher des épisodes éloignés et raconter aussi les situations où elle réagit autrement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Apporter les faits et choisir une réponse précise",
-          "text": "Renaud peut utiliser la description qu’on lui a expliquée pour poser des questions à sa thérapeute. En relisant les deux messages, il peut séparer le choix annoncé par Nora de ce qu’il a entendu sur son propre rôle. Il choisit de prévenir l’équipe s’il change d’avis et de transmettre le relevé attendu. Si une situation comparable se présente, il pourra l’apporter en consultation et examiner si ces deux gestes l’ont aidé à répondre à la tâche, même si la remarque continue de lui peser."
+          "heading": "3 techniques pour étudier une réaction qui revient",
+          "points": [
+            {
+              "heading": "Rapprocher deux événements",
+              "objective": "Donner un contexte à la même impression.",
+              "exercise": [
+                "Choisir une décision de travail.",
+                "Choisir un échange avec un proche.",
+                "Décrire ce qui a semblé se répéter."
+              ],
+              "benefit": "La thérapeute peut examiner la durée et les circonstances."
+            },
+            {
+              "heading": "Demander ce que le diagnostic décrit",
+              "objective": "Comprendre les termes employés au rendez-vous.",
+              "exercise": [
+                "Nommer la classification consultée.",
+                "Demander ce que l’évaluation a pris en compte.",
+                "Reformuler l’explication avec ses mots."
+              ],
+              "benefit": "Renaud peut mieux situer son diagnostic sans l’appliquer aux autres."
+            },
+            {
+              "heading": "Choisir un engagement observable",
+              "objective": "Préserver sa part du travail quand cette impression revient.",
+              "exercise": [
+                "Nommer ce qui doit être transmis.",
+                "Prévoir qui prévenir si on se retire.",
+                "Dire quand on reverra l’effet de cet accord."
+              ],
+              "benefit": "Un prochain exemple peut éclairer le suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Une phrase à garder sous les dates",
@@ -325,21 +723,22 @@
       "continuity": {
         "choice": "Renaud choisit de prévenir en cas de retrait et de rendre sa tâche disponible. Il garde la consultation privée.",
         "next": "Il demande à Yara de convenir d’un moment pour relire le nouveau document du centre."
-      }
+      },
+      "conclusion": "Le même sentiment de compter moins apparaît derrière plusieurs scènes éloignées. Renaud choisit une réponse de travail qu’il pourra examiner au suivi. Yara lui demandera bientôt d’agir sur un crédit qui l’avantage."
     },
     {
       "number": 8,
       "slug": "renaud-reparer-credit-public",
-      "title": "Réparer une attribution qui a effacé la part de l’autre",
-      "description": "Un programme prête à Renaud une idée de Yara. Il doit décider comment faire modifier publiquement un avantage qu’il n’a pas demandé.",
+      "title": "Garder un crédit flatteur quand on connaît l’erreur",
+      "description": "Un programme prête à Renaud une idée de Yara. Il mesure l’attrait de cette visibilité et le coût de l’erreur pour sa collègue.",
       "context": "En mars, au studio avant la rencontre de presse",
       "topics": [
-        "Reconnaissance du préjudice",
+        "Reconnaissance indue",
         "Attribution du travail",
-        "Réparation concrète"
+        "Conséquence pour autrui"
       ],
-      "clinical_focus": "Réparation après un crédit inexact",
-      "clinical_intro": "Dans le programme de presse, l’équipe du centre a résumé trop vite la direction artistique et présenté une idée de Yara comme celle de Renaud. Cette version lui donne une reconnaissance qu’il aimerait garder. L’épisode suit ce qu’il fait de ce désir et du tort constaté. La correction doit atteindre le document que les visiteurs pourront lire.",
+      "clinical_focus": "Reconnaissance indue et prise en compte d’autrui",
+      "clinical_intro": "Le programme attribue à Renaud une idée qu’il sait être de Yara. Il éprouve de la satisfaction et songe d’abord à garder une formule qui le laisse au premier plan. Cette scène montre comment le besoin de reconnaissance peut retarder la prise en compte d’un préjudice concret. Yara a déjà demandé une correction en son nom.",
       "opening": "Le document est ouvert à la page du hall, sur l’écran où Yara a laissé deux versions côte à côte. Dans le dossier qu’ils ont relu, la phrase sur les formes porte son nom. Dans le programme préparé pour la presse, elle commence par « Sous la direction de Renaud » et lui attribue l’idée de la suite entière. Yara lui montre la ligne du curseur. « C’est ce que je voulais vérifier. » Elle a déjà répondu au centre qu’elle souhaiterait corriger le texte. On lui a demandé une confirmation de la direction du studio avant le prochain envoi.\n\nRenaud lit la version erronée une deuxième fois. À la première lecture, il avait éprouvé une satisfaction qu’il voudrait pouvoir faire disparaître de son visage. Il regarde le dossier initial. Les formes sont bien le travail de Yara et les panneaux comprennent aussi sa composition à lui. Il pourrait proposer une phrase où le sujet reste « le studio ». La personne qui lit saurait que Yara fait partie de l’équipe sans avoir besoin de s’arrêter sur ce qu’elle a dessiné.\n\nIl demande si elle a déjà une formulation. Yara lui montre les trois lignes qu’elle a envoyées. Elle veut pouvoir présenter ses observations en son nom lors de la rencontre. Elle lui demande aussi de vérifier que les étiquettes d’aperçu seront modifiées si le document est renvoyé en pièce jointe. Renaud cherche la date de la mise en ligne. Il reste une heure avant que Nora diffuse le lien. Il aurait été plus simple de passer rapidement à la photo. Il ouvre le message de Yara et lui demande s’il peut répondre dans le même fil.",
       "sections": [
         {
@@ -349,13 +748,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le fait à traiter se vérifie dans deux documents. Yara a conçu les formes et mené les essais. Renaud a travaillé sur les textes et les panneaux. La correction porte sur le crédit diffusé et ne dépend pas de l’histoire de son diagnostic. Yara conserve une possibilité de vérifier ce qui change et de répondre si la phrase est reprise ailleurs."
+          "heading": "Comment une attribution flatteuse retarde-t-elle la correction ?",
+          "points": [
+            {
+              "heading": "Un avantage que l’on n’a pas cherché",
+              "text": "Une erreur venue d’ailleurs peut quand même satisfaire le besoin de visibilité.",
+              "examples": [
+                "Renaud découvre le programme et ressent une première satisfaction.",
+                "Une personne peut être contente qu’un communiqué la cite pour une idée collective."
+              ]
+            },
+            {
+              "heading": "Une correction vague qui conserve l’avantage",
+              "text": "L’envie de rester visible peut orienter le choix des mots.",
+              "examples": [
+                "Renaud envisage de créditer « le studio ».",
+                "Un responsable peut proposer un remerciement général qui laisse l’auteur de l’idée invisible."
+              ]
+            },
+            {
+              "heading": "Le coût précis que l’autre doit rappeler",
+              "text": "La collègue peut devoir engager une démarche supplémentaire pour retrouver son nom.",
+              "examples": [
+                "Yara demande une confirmation de la direction et la mise à jour de l’aperçu.",
+                "Une personne peut devoir reprendre un programme à quelques minutes de sa diffusion."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire parvenir la correction aux personnes concernées",
-          "text": "Renaud peut confirmer les contributions dans le fil du centre, puis demander que le programme déjà transmis soit remplacé. Il peut vérifier que la nouvelle version est bien celle que Nora rend accessible. Un accord verbal peut aider la conversation. Le document corrigé donne aux personnes qui le consultent une information dont elles peuvent se servir.\n\nPlus tard, Renaud peut parler en consultation de sa difficulté à se séparer de la phrase qui le mettait en avant. Il peut aussi constater que son travail reste décrit avec exactitude. Des objectifs de ce genre offrent des faits à regarder au fil du suivi. La collègue peut apprécier le changement sans être tenue de rassurer Renaud sur l’image qu’il y laisse."
+          "heading": "3 techniques pour corriger une erreur qui nous avantage",
+          "points": [
+            {
+              "heading": "Revenir aux apports établis",
+              "objective": "Disposer d’une formulation précise.",
+              "exercise": [
+                "Ouvrir le dossier relu ensemble.",
+                "Identifier les formes et les panneaux.",
+                "Reprendre la phrase proposée par Yara."
+              ],
+              "benefit": "La correction peut attribuer chacun des deux apports."
+            },
+            {
+              "heading": "Agir dans le fil de diffusion",
+              "objective": "Faire modifier la version qui circule.",
+              "exercise": [
+                "Demander à Yara si une réponse commune convient.",
+                "Envoyer la correction à Nora.",
+                "Vérifier le fichier et son aperçu."
+              ],
+              "benefit": "La correction peut atteindre les personnes qui liront le programme."
+            },
+            {
+              "heading": "Décrire l’hésitation au suivi",
+              "objective": "Comprendre ce qui a retardé l’action.",
+              "exercise": [
+                "Nommer la satisfaction initiale.",
+                "Dire quelle formulation aurait gardé l’avantage.",
+                "Décrire ce que Yara a dû demander."
+              ],
+              "benefit": "La séance peut revenir sur un choix concret et ses conséquences."
+            }
+          ]
         }
       ],
       "ending_title": "La version que Nora envoie",
@@ -370,7 +825,8 @@
       "continuity": {
         "choice": "Renaud confirme les contributions dans le fil du centre et vérifie avec Yara le remplacement du fichier.",
         "next": "Yara doit présenter son essai à la presse. Renaud accepte sa part technique. Malik propose un dîner le mois suivant."
-      }
+      },
+      "conclusion": "Le programme corrigé rend à Yara la possibilité de présenter son travail sous son nom. Renaud garde son rôle sur la fabrication. Sa gêne devant l’erreur lui donne un exemple à reprendre en consultation."
     },
     {
       "number": 9,
@@ -383,7 +839,7 @@
         "Interprétation du refus",
         "Respect de la vie privée"
       ],
-      "clinical_focus": "Entendre le refus d’un proche",
+      "clinical_focus": "Limite entendue comme jugement personnel",
       "clinical_intro": "Renaud voudrait garder une photo du dîner et l’envoyer à ses contacts. Malik préfère que la soirée reste privée. Renaud se sent visé par cette demande et s’apprête à mettre son ami en défaut devant les invités. L’épisode montre comment une limite peut être entendue comme un rejet quand l’image de soi prend une place importante, et ce que Renaud peut faire de cette impression.",
       "opening": "Malik sort du four un plat qui touche presque les deux poignées de la table. Édith déplace le pain et Renaud se lève pour lui faire une place. Depuis l’entrée, la lumière tombe juste sur le milieu de la nappe. Il cadre avec ses doigts, par habitude, puis prend son téléphone. Le dîner est le premier où ils se retrouvent tous depuis janvier. Il aimerait en garder une image et l’envoyer à plusieurs personnes. Il dit déjà qu’il pourrait mettre la photo avec les quelques nouvelles du centre qu’on lui a demandées.\n\nMalik lève une main. Il dit qu’il préfère que la soirée reste privée et que rien de ce qui permet de les reconnaître ne soit diffusé. Renaud répond qu’il ne va pas faire une séance de portrait. Il voudrait que les autres trouvent sa demande légère et se rangent de son côté. Il regarde Édith, qui a repris son couteau. Malik repose le plat. « Je t’ai invité parce que j’avais envie de te voir. Je garde aussi ma réponse sur la photo. » Renaud s’entend demander depuis quand il faudrait se méfier de lui.\n\nIl voit le visage de Malik changer. Le plat est encore trop chaud et Édith l’aide à dégager une petite place pour le couvercle. Renaud descend le téléphone à la hauteur de sa poche. Il reste persuadé, pendant quelques secondes, que son ami vient de faire une remarque sur le genre de personne qu’il est. Il entend aussi la première partie de la réponse, celle sur l’invitation. Il regarde le plat qu’ils ont déplacé ensemble et repose son téléphone sur le meuble de l’entrée.",
       "sections": [
@@ -394,13 +850,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour comprendre celle de Renaud, la scène donne accès à ce qu’il entend et à la suite qu’il s’apprête à donner.\n\nMalik demande que le dîner reste privé et maintient son invitation. Renaud associe rapidement le refus de la photo à un manque de confiance. En invitant d’autres personnes à prendre parti, il fait peser sur Malik le coût de sa propre gêne. La raison donnée par son ami concerne le cadre dans lequel il veut recevoir."
+          "heading": "Comment le refus d’un usage peut-il sembler remettre le lien en question ?",
+          "points": [
+            {
+              "heading": "Une limite précise qui devient générale",
+              "text": "Une demande sur un acte peut être comprise comme une appréciation de toute la personne.",
+              "examples": [
+                "Malik refuse la diffusion et Renaud entend une question de confiance.",
+                "Un proche peut vouloir une soirée privée et être entendu comme s’il refusait la relation."
+              ]
+            },
+            {
+              "heading": "Chercher l’appui d’un tiers",
+              "text": "Dans la gêne, une personne peut vouloir que les autres valident sa version.",
+              "examples": [
+                "Renaud regarde Édith en espérant qu’elle se rangera de son côté.",
+                "Lors d’un repas, quelqu’un peut solliciter l’approbation des invités au lieu d’entendre l’hôte."
+              ]
+            },
+            {
+              "heading": "Une réponse qui remet chaque sujet à sa place",
+              "text": "Un proche peut maintenir son invitation et sa limite.",
+              "examples": [
+                "Malik dit à Renaud qu’il avait envie de le voir et qu’il garde sa réponse sur la photo.",
+                "Un ami peut refuser qu’un échange soit publié tout en proposant de se revoir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reconnaître le cadre que l’autre a posé",
-          "text": "La réponse de Malik est assez précise pour que Renaud puisse s’y tenir. Il peut laisser le téléphone de côté, prendre part au repas et reparler de la façon dont il a réagi quand l’autre sera disponible. S’il souhaite envoyer des nouvelles du centre, il dispose d’autres images. Choisir l’une de ces images garde distinctes sa communication professionnelle et l’invitation de Malik.\n\nLe sentiment de rejet peut revenir même après cette décision. Renaud peut noter ce qu’il a entendu de travers pour en parler en consultation. Une reprise de l’échange peut aussi se faire à deux, si Malik la souhaite. La limite sur la photo n’a pas besoin de disparaître pour que leur relation garde une suite."
+          "heading": "3 techniques pour entendre une limite sans faire juger la relation",
+          "points": [
+            {
+              "heading": "Reprendre les mots sur l’usage",
+              "objective": "Entendre ce qui a été effectivement demandé.",
+              "exercise": [
+                "Laisser Malik finir.",
+                "Reformuler la limite sur la diffusion.",
+                "Ranger le téléphone."
+              ],
+              "benefit": "Malik peut continuer le dîner sans devoir justifier un refus."
+            },
+            {
+              "heading": "Reconnaître le déplacement de la discussion",
+              "objective": "Reparler de ce qui s’est passé si Malik le souhaite.",
+              "exercise": [
+                "Demander s’il a un instant.",
+                "Nommer la question de confiance ajoutée.",
+                "Respecter son souhait de clore."
+              ],
+              "benefit": "L’autre personne peut conserver la maîtrise de l’échange."
+            },
+            {
+              "heading": "Apporter la réaction en séance",
+              "objective": "Décrire le passage du refus au sentiment de rejet.",
+              "exercise": [
+                "Reprendre la phrase exacte de Malik.",
+                "Dire ce qu’on a cru entendre.",
+                "Nommer la réaction d’Édith ou de Malik."
+              ],
+              "benefit": "La thérapeute peut explorer cette différence avec Renaud."
+            }
+          ]
         }
       ],
       "ending_title": "Le téléphone sur le meuble de l’entrée",
@@ -416,7 +928,8 @@
       "continuity": {
         "choice": "Renaud pose son téléphone, reconnaît le déplacement de la discussion et accepte le souhait de Malik de clore l’échange.",
         "next": "Aucune image du dîner n’est prise ou envoyée. Renaud a proposé d’envoyer à Malik les horaires publics de l’ouverture du centre."
-      }
+      },
+      "conclusion": "Le dîner continue après que le téléphone a été posé. Malik conserve sa limite et décide du moment où l’échange s’arrête. Renaud peut lui proposer un autre rendez-vous sans demander de revenir sur sa réponse."
     },
     {
       "number": 10,
@@ -440,13 +953,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud éprouve réellement le plaisir de voir quelqu’un s’orienter. Il remarque ensuite qu’il attend le moment où l’équipe sera nommée. Les deux expériences se succèdent dans la même scène. Il peut désirer un remerciement et revenir à ce qu’il a observé. Le passage est lisible et une personne vient de l’utiliser. Ces faits restent présents pendant qu’il cherche sa place dans les mots de Nora."
+          "heading": "Comment le plaisir du travail coexiste-t-il avec l’attente des éloges ?",
+          "points": [
+            {
+              "heading": "Une satisfaction liée à l’usage",
+              "text": "Le résultat peut compter pour ce qu’il permet aux visiteurs.",
+              "examples": [
+                "Renaud voit un homme tourner au bon endroit.",
+                "Une personne peut se réjouir qu’un texte aide un lecteur à trouver un service."
+              ]
+            },
+            {
+              "heading": "L’attente qui revient devant le public",
+              "text": "La reconnaissance personnelle peut reprendre beaucoup de place lors d’un accueil.",
+              "examples": [
+                "Renaud écoute le mot de Nora en se demandant si le studio sera nommé.",
+                "Une personne peut cesser de regarder les visiteurs quand elle attend qu’on l’appelle sur scène."
+              ]
+            },
+            {
+              "heading": "Deux sources de fierté dans la même scène",
+              "text": "Un signe utile peut rester important lorsque les éloges vont à d’autres.",
+              "examples": [
+                "Renaud indique à la visiteuse ce que Yara a conçu et l’accompagne jusqu’au palier.",
+                "Un collègue peut apprécier le résultat commun tout en souhaitant entendre le sien nommé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un nom à ce qui satisfait dans le travail",
-          "text": "Renaud peut distinguer le goût du dessin, le résultat d’un essai, la collaboration et le désir d’être connu. Il peut souhaiter un retour direct sur les panneaux lors du bilan avec Nora. Cela lui donne une question précise à poser et laisse à la direction du centre la responsabilité de son mot d’accueil. Quand une visiteuse l’interroge, il peut répondre à sa question et donner les crédits justes.\n\nLe suivi peut l’aider à élargir la manière dont il mesure ce qui lui importe. Il veut continuer à remarquer les effets du travail et à entendre la part prise par d’autres. Ces objectifs prennent du temps. L’aisance qu’il éprouve un moment au pied de l’escalier lui donne un exemple à discuter."
+          "heading": "3 techniques pour garder la réussite du travail en vue",
+          "points": [
+            {
+              "heading": "Regarder un usage réel",
+              "objective": "Retrouver ce que le travail permet.",
+              "exercise": [
+                "Choisir un point du parcours.",
+                "Observer où le visiteur se dirige.",
+                "Partager l’observation avec Yara."
+              ],
+              "benefit": "Le résultat peut être apprécié sur un fait concret."
+            },
+            {
+              "heading": "Répondre avec une attribution précise",
+              "objective": "Laisser à la personne une information qu’elle cherche.",
+              "exercise": [
+                "Écouter sa question sur les formes.",
+                "Nommer l’apport de Yara et le sien.",
+                "Proposer de montrer la suite."
+              ],
+              "benefit": "La conversation peut rester utile à la visiteuse."
+            },
+            {
+              "heading": "Reprendre les deux réactions au suivi",
+              "objective": "Faire place à la fierté et à l’attente d’éloge.",
+              "exercise": [
+                "Raconter le détour réussi.",
+                "Dire ce qui s’est passé au micro.",
+                "Indiquer quelle réaction a pesé sur l’écoute."
+              ],
+              "benefit": "Le contraste peut éclairer les sources de satisfaction de Renaud."
+            }
+          ]
         }
       ],
       "ending_title": "Montrer le passage depuis le premier étage",
@@ -462,21 +1031,22 @@
       "continuity": {
         "choice": "Renaud répond à une visiteuse avec une attribution précise et propose de répartir le prochain projet avant d’en annoncer la date.",
         "next": "Le centre a ouvert. Nora souhaite un parcours temporaire à l’automne et doit revoir le studio en septembre."
-      }
+      },
+      "conclusion": "Les visiteurs utilisent la signalétique et Renaud retrouve le plaisir du travail dans leur trajet. Il entend encore mal une partie de l’accueil parce qu’il guette les remerciements. La répartition du projet suivant mérite une décision commune."
     },
     {
       "number": 11,
       "slug": "renaud-reprendre-apres-un-ecart",
-      "title": "Reprendre ses engagements après avoir cédé à un ancien réflexe",
-      "description": "En septembre, Renaud promet un rendu avant d’en parler à Yara. Son désir de saisir une occasion réveille un ancien problème de collaboration.",
+      "title": "Engager le temps des autres pour saisir une occasion de reconnaissance",
+      "description": "En septembre, Renaud annonce un rendu avant d’en parler à Yara. Il doit reprendre une promesse qui engage le temps de sa collègue.",
       "context": "En septembre, reprise du travail avec Nora sur le parcours temporaire",
       "topics": [
-        "Retour d’un ancien réflexe",
-        "Objectifs réalistes",
-        "Responsabilité professionnelle"
+        "Reconnaissance anticipée",
+        "Temps de l’autre",
+        "Promesse corrigée"
       ],
-      "clinical_focus": "Reprise après un ancien réflexe",
-      "clinical_intro": "Nora demande au studio si un parcours peut être prêt pour l’automne. Renaud promet une date qui l’oblige à compter sur le temps de Yara. Des difficultés anciennes peuvent réapparaître après une période où on a trouvé d’autres réponses. La façon dont Renaud revient sur son engagement permet de voir ce qui a changé et ce qui demande encore du travail.",
+      "clinical_focus": "Reconnaissance anticipée et engagements d’autrui",
+      "clinical_intro": "Nora évoque des visiteurs qui pourraient assister au prochain essai. Renaud imagine déjà ce que le projet donnera à voir et promet un rendu en engageant aussi le temps de Yara. La recherche de reconnaissance peut ainsi prendre le pas sur un accord de travail. Sa collègue lui rappelle qu’elle a des engagements qu’elle entend garder.",
       "opening": "Sur la table de réunion, Nora a étalé les deux parcours possibles. Le plus court traverse le hall où le studio a déjà posé ses panneaux. L’autre passe aussi par la cour, qu’il faudrait reconnaître depuis la rue. Elle voudrait savoir si une visite collective est possible à l’automne. Renaud entend qu’elle a parlé du projet à deux personnes venues de la ville voisine et qu’elles pourraient assister à l’essai. Il ouvre la page de septembre. Il pense à la façon dont on pourrait faire apparaître la cour sur un plan qui tient en poche. « On vous montre une version vendredi prochain », dit-il.\n\nEn rentrant, il écrit à Yara pour lui demander d’aménager deux matinées. Elle répond qu’elle a déjà accepté un travail pour la fin du mois. Ils avaient convenu de décider à deux avant d’annoncer une date. Renaud regarde la salle vide à côté de son bureau. Il avait dit « on » sans réfléchir à tout ce que ce mot engageait pour elle. Il sent pourtant monter une réponse qu’il connaît. Ce projet serait une vraie occasion et Yara pourrait faire un effort.\n\nIl ouvre son dernier message de préparation avec elle. Il y retrouve les dates convenues et la phrase où elle précise qu’elle peut venir à la réunion de lancement la semaine suivante. Il commence un message qui explique pourquoi il a promis la date. Il l’efface. Il demande plutôt si elle serait d’accord pour reparler d’un projet en octobre. Pour vendredi, il écrit à Nora qu’il a annoncé trop tôt le travail de l’équipe. Il garde son doigt un instant au-dessus du bouton avant d’envoyer.",
       "sections": [
         {
@@ -486,13 +1056,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud avait formulé une règle précise en mai et la transgresse en septembre. Il commence par attendre que Yara s’ajuste. Puis il relit un engagement qui existe déjà. La décision observable est de reprendre l’annonce auprès de Nora sans faire endosser sa promesse à Yara. Le travail sur ce qu’il a éprouvé peut continuer en parallèle."
+          "heading": "Comment la perspective d’être reconnu peut-elle faire promettre trop tôt ?",
+          "points": [
+            {
+              "heading": "Une occasion qui occupe toute la discussion",
+              "text": "La présence d’un public valorisant peut donner de l’urgence au projet.",
+              "examples": [
+                "Renaud entend que deux personnes de la ville voisine pourraient venir.",
+                "Une personne peut annoncer une date dès qu’un décideur manifeste son intérêt."
+              ]
+            },
+            {
+              "heading": "Un « on » qui engage la collègue",
+              "text": "La promesse peut compter sur du temps que l’autre n’a pas accepté de donner.",
+              "examples": [
+                "Renaud demande après coup deux matinées à Yara.",
+                "Un responsable peut proposer un rendu sans avoir vérifié la disponibilité de l’équipe."
+              ]
+            },
+            {
+              "heading": "L’envie de défendre la promesse",
+              "text": "La difficulté à revenir sur l’annonce peut devenir une pression sur l’autre.",
+              "examples": [
+                "Renaud pense que Yara pourrait faire un effort malgré son travail prévu.",
+                "Quelqu’un peut invoquer l’importance du projet pour déplacer un engagement déjà pris."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’occuper de la conséquence dans le bon ordre",
-          "text": "Nora a entendu une date et peut s’en être servie. Renaud doit la prévenir assez clairement pour qu’elle puisse changer son programme. Il peut dire quelle partie du travail il est en mesure d’assumer et vérifier les autres contributions avant d’annoncer un nouveau rendez-vous. La première promesse a pu faire perdre du temps. La révision de cette promesse en limite les effets possibles.\n\nYara peut garder son engagement ailleurs et choisir si elle souhaite participer à une nouvelle proposition. Si elle veut travailler avec lui, ils peuvent écrire la date et la responsabilité de chacun avant de confirmer. En consultation, Renaud dispose maintenant de deux exemples à comparer. Il avait attendu que la réunion soit passée pour remettre les mesures à disposition. Cette fois, il corrige la date le jour même."
+          "heading": "3 techniques pour corriger un engagement pris trop vite",
+          "points": [
+            {
+              "heading": "Retrouver l’accord de départ",
+              "objective": "Savoir ce qui a réellement été validé.",
+              "exercise": [
+                "Relire les disponibilités de Yara.",
+                "Repérer la réunion déjà possible.",
+                "Vérifier ce qui n’a pas été décidé."
+              ],
+              "benefit": "La suite peut être organisée sur le temps disponible."
+            },
+            {
+              "heading": "Reprendre l’annonce auprès de Nora",
+              "objective": "Éviter que l’invitation confirme un délai impossible.",
+              "exercise": [
+                "Dire quelle date a été annoncée trop tôt.",
+                "Confirmer le seul rendez-vous validé.",
+                "Proposer de décider après avoir vu les plans."
+              ],
+              "benefit": "Le centre peut adapter son calendrier."
+            },
+            {
+              "heading": "Apporter le moment au suivi",
+              "objective": "Comprendre ce qui a donné urgence à la promesse.",
+              "exercise": [
+                "Nommer le public que Renaud imaginait.",
+                "Dire ce que son « on » engageait.",
+                "Décrire comment il a corrigé l’annonce."
+              ],
+              "benefit": "Le suivi peut travailler à partir d’une réponse et de ses effets."
+            }
+          ]
         }
       ],
       "ending_title": "La réunion qu’ils peuvent réellement proposer",
@@ -507,12 +1133,13 @@
       "continuity": {
         "choice": "Renaud corrige son annonce à Nora, respecte l’engagement de Yara et confirme uniquement une réunion.",
         "next": "Les deux plans peuvent être examinés mercredi. Les invitations attendent leur décision, et Yara n’a rien promis pour le rendu."
-      }
+      },
+      "conclusion": "Renaud retire la date qu’il a annoncée et confirme la réunion disponible. Yara peut garder le travail déjà accepté. L’essai d’automne dépendra de ce qu’ils décideront ensemble."
     },
     {
       "number": 12,
       "slug": "renaud-tenir-place-et-laisser-place",
-      "title": "Tenir sa place dans la durée en laissant une place aux autres",
+      "title": "Faire de la place aux autres quand le besoin de reconnaissance revient",
       "description": "En automne, le parcours temporaire accueille ses premiers visiteurs. Renaud retrouve une difficulté familière et compare les choix qu’il a faits.",
       "context": "À la première visite du parcours temporaire en automne",
       "topics": [
@@ -520,8 +1147,8 @@
         "Partage du crédit",
         "Réciprocité"
       ],
-      "clinical_focus": "Des changements observables dans le temps",
-      "clinical_intro": "Quelques mois ont passé depuis le premier rendez-vous. Au moment de présenter la visite d’automne, Renaud remarque qu’il cherche encore à savoir qui sera nommé. Il dispose aussi de faits précis pour juger du chemin parcouru. Il a repris une promesse trop rapide et demandé à Yara de choisir ce qu’elle voulait présenter. L’épisode distingue ce qu’il ressent et ce qu’il arrive à faire autrement.",
+      "clinical_focus": "Souplesse relationnelle malgré le besoin de reconnaissance",
+      "clinical_intro": "À la visite d’automne, Renaud aimerait encore savoir qui sera nommé. Il peut pourtant écouter la question d’une visiteuse, suivre la répartition choisie avec Yara et tenir son rendez-vous avec ses proches. Dans le suivi de son trouble de la personnalité narcissique, cette souplesse s’apprécie à travers plusieurs décisions et leurs effets dans les relations.",
       "opening": "Le premier groupe d’automne est arrivé avec vingt minutes d’avance. Renaud laisse la porte ouverte sur la cour et cherche le repère qu’il a placé à hauteur des yeux. Lors de leur réunion de septembre, Yara et lui ont choisi le parcours court avec un arrêt possible dehors. Yara a repris le plan pour que le retour soit indiqué sur la même feuille. Renaud a dessiné la version qui résiste à la pluie. Ils ont annoncé la visite après avoir posé le dernier repère, la semaine précédente.\n\nNora pose deux cartons de nom sur une tablette. Elle demande à Yara si elle veut commencer par la manière dont ils ont choisi le trajet. Yara accepte et dit qu’elle restera avec le premier groupe jusqu’à l’escalier. Renaud voit une visiteuse qu’il reconnaît du jour de l’ouverture. Il aimerait qu’elle l’identifie. Il vérifie tout de même la répartition convenue et ouvre la porte à ceux qui se sont arrêtés pour lire le panneau. La visiteuse lève les yeux. « On peut refaire le tour à l’envers ? » Il lui montre le chemin de retour que Yara a ajouté.\n\nÀ la fin, Yara lui demande s’il a entendu la même question dehors. Il l’a entendue deux fois. Elle propose de faire un essai avec une flèche plus loin dans la cour et lui demande quand il souhaite en parler. Renaud est tenté de promettre qu’il s’en occupera dès lundi, devant les gens qui attendent leur manteau. Il regarde l’heure. Il a rendez-vous avec Malik et Édith à dix-huit heures. Il propose à Yara de lui envoyer ses observations le lendemain et de décider ensemble après.",
       "sections": [
         {
@@ -531,13 +1158,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Renaud continue de souhaiter être reconnu par la visiteuse et par Nora. Il conserve aussi l’accord passé avec Yara et peut décrire le travail qu’ils ont fait chacun. Il a annoncé la visite quand elle était prête et choisit un moment réaliste pour examiner la flèche. Les conséquences de ces décisions se constatent dans le travail. Yara peut décider de ses tâches et les visiteurs disposent d’un parcours utilisable."
+          "heading": "Comment une réaction familière peut-elle évoluer dans la durée ?",
+          "points": [
+            {
+              "heading": "L’envie de reconnaissance qui revient",
+              "text": "Un changement de réponse peut coexister avec une attente ancienne.",
+              "examples": [
+                "Renaud souhaite que la visiteuse le reconnaisse.",
+                "Une personne peut guetter encore un signe d’approbation devant un travail terminé."
+              ]
+            },
+            {
+              "heading": "Des engagements mieux tenus dans le même moment",
+              "text": "Une autre réponse peut se voir dans ce que chacun peut faire.",
+              "examples": [
+                "Renaud suit la répartition prévue et montre le retour dessiné par Yara.",
+                "Une équipe peut mener sa visite en respectant les rôles convenus à l’avance."
+              ]
+            },
+            {
+              "heading": "Une attention qui se déplace au fil de la journée",
+              "text": "Les choix dans plusieurs relations donnent un aperçu de ce qui évolue.",
+              "examples": [
+                "Renaud quitte le centre à l’heure et demande à Édith des nouvelles de son amie.",
+                "Une personne peut retrouver un proche à l’heure fixée même si le récit de sa réussite lui tient à cœur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder un projet à soi et une relation à deux",
-          "text": "Le suivi donne à Renaud un endroit où reparler de ce qui lui coûte, même quand la collaboration se passe mieux. Avec sa thérapeute, il peut comparer ce qui s’est passé avant la visite et ce qu’il a fait dans la cour. Il peut aussi continuer à se demander quand son désir d’être remarqué lui rend difficile d’écouter quelqu’un. Les objectifs restent ajustables selon les situations qu’il rencontre.\n\nLes liens avec Malik et Édith ont également leur propre rythme. Renaud peut leur parler du centre quand ils ont envie d’en entendre parler. Ils peuvent discuter d’autre chose et garder leurs accords sur les horaires ou les images. Ce qui fait avancer leur relation se joue dans des échanges répétés, dont chacun peut décider de sa part."
+          "heading": "3 techniques pour suivre des changements qui se voient dans les actes",
+          "points": [
+            {
+              "heading": "Examiner un engagement réel",
+              "objective": "Retrouver un effet observable pour l’équipe.",
+              "exercise": [
+                "Nommer le rôle prévu dans la visite.",
+                "Comparer avec ce qui a été fait.",
+                "Demander ce que Yara souhaite revoir."
+              ],
+              "benefit": "Les collaborateurs peuvent discuter d’un résultat commun."
+            },
+            {
+              "heading": "Séparer les prochains rendez-vous",
+              "objective": "Laisser une place aux engagements hors du travail.",
+              "exercise": [
+                "Noter la question de la flèche.",
+                "Proposer un moment distinct pour en décider.",
+                "Partir à l’heure convenue avec ses proches."
+              ],
+              "benefit": "Le travail et la vie proche peuvent garder leurs créneaux."
+            },
+            {
+              "heading": "Reprendre plusieurs situations en séance",
+              "objective": "Apprécier ce qui change sur une période plus longue.",
+              "exercise": [
+                "Choisir un exemple récent.",
+                "Retrouver une situation antérieure comparable.",
+                "Décrire ce qui a encore été difficile."
+              ],
+              "benefit": "La thérapeute peut ajuster les objectifs à partir de plusieurs scènes."
+            }
+          ]
         }
       ],
       "ending_title": "Une place à la table de dix-huit heures",
@@ -552,7 +1235,8 @@
       "continuity": {
         "choice": "Renaud tient les responsabilités convenues pour la visite, propose un moment distinct pour le prochain essai et respecte son rendez-vous.",
         "next": "Le parcours temporaire est accessible. Yara et Renaud vérifieront ensemble le repère dans la cour. Renaud poursuit son suivi et ses liens au-delà du projet."
-      }
+      },
+      "conclusion": "Le parcours est ouvert et Renaud laisse la prochaine décision à leur échange avec Yara. Il retrouve Édith et Malik à l’heure prévue. La visite et le dîner donnent deux exemples de la place qu’il peut laisser aux autres."
     }
   ]
 }

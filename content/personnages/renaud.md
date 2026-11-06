@@ -67,14 +67,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-diagnostic-contextes-dsm-cim/">Ce qu’un diagnostic éclaire dans plusieurs situations</a></h3>
-    <p class="parcours-resume">Renaud relit deux messages qu’il veut apporter en consultation. L’un concerne une tâche qu’il a laissée en suspens au studio. L’autre lui rappelle le dîner où il voulait que tous attendent son arrivée. L’épisode montre pourquoi une évaluation s’intéresse à un fonctionnement dans la durée et à ses effets dans plusieurs situations. La thérapeute explique aussi les différences entre le DSM-5-TR et la CIM-11.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-diagnostic-contextes-dsm-cim/">Croire que la même mise à l’écart se répète dans plusieurs lieux</a></h3>
+    <p class="parcours-resume">En consultation, Renaud repère une réaction qui revient au studio et à un dîner de famille. Une répartition des tâches ou un horaire maintenu peuvent lui donner l’impression de compter moins. La thérapeute reprend avec lui ce fonctionnement et ses effets dans le temps, puis explique pourquoi les classifications ne décrivent pas son diagnostic de la même façon.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-diagnostic-contextes-dsm-cim/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reparer-credit-public/">Réparer une attribution qui a effacé la part de l’autre</a></h3>
-    <p class="parcours-resume">Dans le programme de presse, l’équipe du centre a résumé trop vite la direction artistique et présenté une idée de Yara comme celle de Renaud. Cette version lui donne une reconnaissance qu’il aimerait garder. L’épisode suit ce qu’il fait de ce désir et du tort constaté. La correction doit atteindre le document que les visiteurs pourront lire.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reparer-credit-public/">Garder un crédit flatteur quand on connaît l’erreur</a></h3>
+    <p class="parcours-resume">Le programme attribue à Renaud une idée qu’il sait être de Yara. Il éprouve de la satisfaction et songe d’abord à garder une formule qui le laisse au premier plan. Cette scène montre comment le besoin de reconnaissance peut retarder la prise en compte d’un préjudice concret. Yara a déjà demandé une correction en son nom.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reparer-credit-public/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -91,14 +91,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reprendre-apres-un-ecart/">Reprendre ses engagements après avoir cédé à un ancien réflexe</a></h3>
-    <p class="parcours-resume">Nora demande au studio si un parcours peut être prêt pour l’automne. Renaud promet une date qui l’oblige à compter sur le temps de Yara. Des difficultés anciennes peuvent réapparaître après une période où on a trouvé d’autres réponses. La façon dont Renaud revient sur son engagement permet de voir ce qui a changé et ce qui demande encore du travail.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reprendre-apres-un-ecart/">Engager le temps des autres pour saisir une occasion de reconnaissance</a></h3>
+    <p class="parcours-resume">Nora évoque des visiteurs qui pourraient assister au prochain essai. Renaud imagine déjà ce que le projet donnera à voir et promet un rendu en engageant aussi le temps de Yara. La recherche de reconnaissance peut ainsi prendre le pas sur un accord de travail. Sa collègue lui rappelle qu’elle a des engagements qu’elle entend garder.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-reprendre-apres-un-ecart/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-tenir-place-et-laisser-place/">Tenir sa place dans la durée en laissant une place aux autres</a></h3>
-    <p class="parcours-resume">Quelques mois ont passé depuis le premier rendez-vous. Au moment de présenter la visite d’automne, Renaud remarque qu’il cherche encore à savoir qui sera nommé. Il dispose aussi de faits précis pour juger du chemin parcouru. Il a repris une promesse trop rapide et demandé à Yara de choisir ce qu’elle voulait présenter. L’épisode distingue ce qu’il ressent et ce qu’il arrive à faire autrement.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-tenir-place-et-laisser-place/">Faire de la place aux autres quand le besoin de reconnaissance revient</a></h3>
+    <p class="parcours-resume">À la visite d’automne, Renaud aimerait encore savoir qui sera nommé. Il peut pourtant écouter la question d’une visiteuse, suivre la répartition choisie avec Yara et tenir son rendez-vous avec ses proches. Dans le suivi de son trouble de la personnalité narcissique, cette souplesse s’apprécie à travers plusieurs décisions et leurs effets dans les relations.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/renaud-tenir-place-et-laisser-place/" class="parcours-link">Lire</a>
   </div>
 </div>

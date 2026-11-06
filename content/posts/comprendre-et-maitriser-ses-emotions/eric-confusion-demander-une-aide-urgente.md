@@ -34,16 +34,79 @@ On lui pose des questions sur son état et sur ce qu’elle sait du suivi. Elle 
 
 Une confusion qui apparaît rapidement justifie une aide médicale urgente. Un sevrage d’alcool peut entraîner des complications graves après une baisse ou un arrêt, notamment après une consommation importante et prolongée. D’autres problèmes de santé peuvent aussi provoquer une confusion. L’équipe doit évaluer l’état de la personne et l’histoire récente pour rechercher la cause et décider du lieu des soins.
 
-## Le changement que Joëlle constate en arrivant
+## Comment une confusion soudaine peut-elle se manifester ?
 
-Éric tremble. Il demande à Joëlle à quelle heure leur mère doit rentrer et lui parle de la salle des fêtes alors qu’elle vient récupérer le disque. Par moments, elle a du mal à suivre ce qu’il dit. Elle sait qu’il a signalé une reprise de consommation et qu’un rendez-vous est prévu, mais elle ignore ce qui s’est passé depuis. C’est le changement soudain qu’elle décrit aux secours. Les soignants en rechercheront la cause.
+### Les repères du jour se mélangent
 
-## Ce que la sœur peut transmettre dans ce moment
+Une personne peut ne plus situer une rencontre, un lieu ou le moment présent.
 
-Joëlle appelle aussitôt, même si un rendez-vous est prévu plus tard. Elle peut transmettre une information reçue directement, comme le message de la veille, dire quand elle a remarqué le changement et préciser ce qu’elle ignore. Son rôle porte sur le changement qu’elle voit et sur l’appel. Le professionnel qui répond peut préciser ce qu’il faut faire en attendant l’arrivée d’une équipe. En France, le 15 ou le 112 permettent de joindre des secours pour une urgence médicale.
+**Exemples concrets**
 
-Après le relais, l’évaluation et les décisions de traitement passent aux soignants. Joëlle peut demander à qui parler pour être informée de la suite, dans le cadre qu’Éric voudra et pourra fixer. Son propre travail, le disque et le repas peuvent être repris plus tard. Dans l’immédiat, elle a reconnu qu’il fallait appeler et a fourni les renseignements qu’elle connaissait.
+- Éric confond la visite pour le disque avec les préparatifs du repas.
+- Une personne croit devoir partir à un rendez-vous de la veille.
+
+### Le fil de l’échange se défait
+
+Une explication simple peut être oubliée ou devenir difficile à suivre.
+
+**Exemples concrets**
+
+- Éric demande à nouveau de quel disque il s’agit et s’interroge sur le retour de sa mère.
+- Une personne pose plusieurs fois la même question sans pouvoir reprendre la réponse.
+
+### D’autres signes accompagnent parfois le changement
+
+Un tremblement peut faire partie du tableau, sans en établir la cause.
+
+**Exemples concrets**
+
+- Joëlle voit les mains d’Éric trembler pendant qu’il perd ses repères.
+- Un proche signale une confusion et des sueurs inhabituelles sans savoir ce qui les explique.
+
+## 3 techniques pour appeler les secours et leur passer le relais
+
+### 1. Appeler dès le changement rapide
+
+Faire évaluer une urgence médicale sans attendre le rendez-vous prévu.
+
+**Exercice pratique**
+
+- Composez le 15 ou le 112 en France.
+- Donnez l’adresse où se trouve la personne.
+- Dites en quoi son état vient de changer.
+
+Les secours peuvent organiser l’aide sans que vous deviez poser un diagnostic.
+
+### 2. Transmettre les faits que vous connaissez
+
+Donner une chronologie utile à la personne qui répond.
+
+**Exercice pratique**
+
+- Indiquez le dernier moment où l’état vous paraissait habituel.
+- Décrivez les signes observés et les informations récentes dont vous disposez.
+- Dites clairement ce que vous ignorez.
+
+Le professionnel peut orienter l’évaluation à partir de faits fiables.
+
+### 3. Suivre le relais indiqué
+
+Laisser l’équipe décider de l’évaluation et des soins.
+
+**Exercice pratique**
+
+- Écoutez les consignes de la personne au téléphone.
+- Restez disponible pour les précisions demandées.
+- Répétez les informations utiles à l’équipe quand elle arrive.
+
+Le relais peut se faire sans imposer au proche de traiter la situation.
 
 ## Le disque reste sur le buffet
 
 Quand l’équipe arrive, Joëlle retrouve le message de la veille pour donner l’heure exacte. Elle dit ce qu’Éric lui a écrit et ce qu’elle a vu en entrant. Les soignants poursuivent l’évaluation et l’emmènent pour des soins. Le disque est sur le buffet, à côté du carton où il a noté l’heure du rendez-vous. Joëlle le laisse là. Elle téléphone à son travail pour prévenir qu’elle sera en retard, puis rejoint l’endroit où l’équipe lui a proposé d’attendre. Éric lui dira après la prise en charge ce qu’il a compris du sevrage que les médecins ont retenu.
+
+---
+
+**Conclusion**
+
+Joëlle appelle parce que la confusion apparaît vite, sans attendre de savoir si l’alcool est en cause. Les soignants font cette évaluation. Après leur intervention, Éric pourra reprendre le suivi et entendre ce que Joëlle a vécu.

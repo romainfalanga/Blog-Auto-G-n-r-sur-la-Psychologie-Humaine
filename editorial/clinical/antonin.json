@@ -29,13 +29,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une chaise bien réparée et un cahier à jour disent ce qu’Antonin a accompli. Ils renseignent moins sur le sommeil qu’il a perdu ou sur ce qu’il n’a pas pu faire après le travail. Ces éléments s’examinent en consultation, dans le contexte de la vie et de la santé de la personne.\n\nLes inquiétudes d’Antonin durent depuis plusieurs mois et reviennent aussi en dehors de l’école. Le médecin tient compte de cette persistance, de la gêne et de l’effort qu’Antonin doit fournir pour rester attentif. Une préoccupation peut avoir un sujet très concret. Sa fréquence, son intensité et la difficulté à la laisser de côté contribuent à éclairer le trouble."
+          "heading": "Comment plusieurs inquiétudes occupent-elles la même décision ?",
+          "points": [
+            {
+              "heading": "Imaginer plusieurs pannes d’avance",
+              "text": "Une question limitée peut faire surgir plusieurs conséquences avant que la première réponse soit donnée.",
+              "examples": [
+                "Le choix du premier groupe fait penser Antonin au chauffage et à une livraison repoussée.",
+                "L’éventuelle absence d’un professeur rejoint la liste alors qu’Eva attend un nom."
+              ]
+            },
+            {
+              "heading": "Les sujets se rencontrent",
+              "text": "Dans l’anxiété généralisée, les préoccupations peuvent concerner plusieurs aspects de la vie et se mêler dans une même matinée.",
+              "examples": [
+                "La roue du vélo l’amène à calculer une dépense possible.",
+                "Le message de Benoît lui rappelle aussi l’heure promise au professeur de trombone."
+              ]
+            },
+            {
+              "heading": "Perdre la question de départ",
+              "text": "Examiner tant de possibilités peut faire perdre de vue la décision qui attend.",
+              "examples": [
+                "Antonin regarde la feuille sans savoir s’il choisit un groupe ou organise l’année.",
+                "Une personne qui ouvre son agenda pour un appel peut se retrouver à vérifier trois semaines de disponibilités."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une décision que l’école peut prendre aujourd’hui",
-          "text": "Eva attend un ordre de passage à discuter avec les professeurs. Le chantier exige encore des validations et une date de reprise. Antonin peut proposer un premier groupe tout en gardant la date provisoire. Les questions qui dépendent d’autres services peuvent conserver leur place dans le cahier avec le nom de la personne qui doit répondre. Elles n’ont pas toutes à être résolues pour parler de l’ordre des répétitions.\n\nPour son suivi, Antonin peut raconter le moment où la liste des travaux a rejoint la dépense du vélo et le rendez-vous avec Benoît. Il peut préciser ce que ces pensées l’ont empêché de décider. La discussion au cabinet aura ainsi une scène précise sur laquelle s’appuyer. Eva, pour sa part, a surtout besoin de connaître le créneau envisagé et la réserve à communiquer au groupe."
+          "heading": "3 techniques pour retrouver la décision du moment",
+          "points": [
+            {
+              "heading": "Écrire la question d’Eva",
+              "objective": "Garder la demande à portée de main.",
+              "exercise": [
+                "Reformulez la question en une ligne.",
+                "Identifiez une réponse disponible aujourd’hui.",
+                "Dites quelle partie dépend encore d’un événement futur."
+              ],
+              "benefit": "Une réponse partielle peut suffire à faire avancer le planning."
+            },
+            {
+              "heading": "Trier les incertitudes sur la feuille",
+              "objective": "Séparer les sujets qui viennent de se rejoindre.",
+              "exercise": [
+                "Regroupez-les par sujet.",
+                "Choisissez celui qui demande une action aujourd’hui.",
+                "Gardez les autres pour le moment où ils pourront être traités."
+              ],
+              "benefit": "La liste peut redevenir un outil de travail."
+            },
+            {
+              "heading": "Répondre à une invitation concrète",
+              "objective": "Garder une activité qui a du sens malgré un trajet incertain.",
+              "exercise": [
+                "Dites si la rencontre vous intéresse.",
+                "Demandez l’heure qui convient.",
+                "Cherchez ensuite le trajet avec les informations utiles."
+              ],
+              "benefit": "Vous pouvez préserver le lien avant de régler tous les détails."
+            }
+          ]
         }
       ],
       "ending_title": "Le nom du premier groupe",
@@ -52,7 +108,8 @@
         "next": "Une dégradation du seuil donne à Antonin un problème concret à signaler avant toute reprise du local."
       },
       "clinical_focus": "Inquiétudes dans plusieurs domaines",
-      "clinical_intro": "Eva demande quel groupe rejouera en premier. Antonin pense au local, puis à un trajet et à ce qui pourrait arriver à son frère. Le trouble anxieux généralisé peut se manifester par des inquiétudes durables et difficiles à maîtriser dans plusieurs domaines. La scène montre comment elles occupent son attention, jusque dans une conversation où une réponse assez simple était possible."
+      "clinical_intro": "Eva demande quel groupe rejouera en premier. Antonin pense au local, puis à un trajet et à ce qui pourrait arriver à son frère. Le trouble anxieux généralisé peut se manifester par des inquiétudes durables et difficiles à maîtriser dans plusieurs domaines. La scène montre comment elles occupent son attention, jusque dans une conversation où une réponse assez simple était possible.",
+      "conclusion": "Eva peut noter le groupe avant de connaître la date. Benoît peut savoir qu’Antonin veut venir avant que la roue soit réparée. Ces deux réponses suffisent pour l’instant, chacune avec ses propres inconnues."
     },
     {
       "number": 2,
@@ -74,13 +131,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin pense à ce qu’il a vu, puis à ce qui pourrait se révéler ailleurs. Il voudrait connaître la suite alors que l’examen est encore à venir. Il peut rapporter cette succession à son médecin, qui l’aide à comprendre ce qui se passe pour lui au-delà de la précaution. Si un nouveau défaut est observé, il reste une information à transmettre selon les mêmes consignes."
+          "heading": "Comment l’anticipation persiste-t-elle après une mesure de sécurité ?",
+          "points": [
+            {
+              "heading": "L’obstacle demande une réponse réelle",
+              "text": "Le seuil soulevé change ce que l’équipe peut faire et relève du service compétent.",
+              "examples": [
+                "Antonin suspend le déplacement et demande à Eva de rester à l’écart.",
+                "Il indique l’endroit du défaut et maintient l’accès réservé aux personnes habilitées."
+              ]
+            },
+            {
+              "heading": "Des scénarios restent en attente",
+              "text": "La pensée peut continuer à examiner des problèmes possibles alors que les premières mesures sont en place.",
+              "examples": [
+                "Après l’accusé de réception, Antonin s’interroge sur le temps dont disposeront les ouvriers.",
+                "Il imagine d’autres défauts qu’il n’a pas vus du couloir."
+              ]
+            },
+            {
+              "heading": "La prochaine décision se brouille",
+              "text": "Des vérifications imaginées peuvent rivaliser avec ce qu’il reste réellement à organiser.",
+              "examples": [
+                "Antonin envisage de rappeler le service alors qu’Eva lui demande quand prévenir les professeurs.",
+                "Une personne qui a signalé une fuite peut hésiter à prévenir les occupants parce qu’elle cherche encore à deviner son origine."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner une suite au report",
-          "text": "Les deux professeurs doivent pouvoir organiser leur matinée. Eva peut les prévenir du déplacement suspendu et leur dire de qui viendront les informations sur la suite. Antonin peut mettre à disposition le matériel dont ils ont besoin dans une autre salle autorisée, si elle est disponible. Il garde le suivi du signalement dans le circuit prévu et pourra tenir compte de tout élément nouveau.\n\nLe point auquel ils attendent une réponse ne donne aucune date certaine de réouverture. Il leur permet de travailler avec les informations disponibles. Pour Antonin, il reste une différence entre ce qu’il peut faire pour les professeurs ce matin et le souhait que l’examen du seuil soit déjà terminé. Eva peut l’aider sur le premier point. Le second pourra être évoqué plus tard avec son médecin si l’attente lui prend beaucoup de place."
+          "heading": "3 techniques pour traiter un défaut et organiser la suite",
+          "points": [
+            {
+              "heading": "Maintenir les précautions prévues",
+              "objective": "Protéger les personnes en attendant un contrôle.",
+              "exercise": [
+                "Arrêtez l’activité concernée selon les consignes.",
+                "Signalez le défaut au service responsable.",
+                "Suivez la décision de ce service sur l’accès et la reprise."
+              ],
+              "benefit": "Le risque peut être pris en charge par les personnes habilitées."
+            },
+            {
+              "heading": "Identifier la prochaine information",
+              "objective": "Distinguer le contrôle attendu d’un rappel supplémentaire.",
+              "exercise": [
+                "Notez ce que le service a confirmé.",
+                "Repérez le moment prévu pour le retour.",
+                "Recontactez selon les consignes ou si un fait nouveau change la situation."
+              ],
+              "benefit": "Vous disposez d’un repère concret pour l’attente."
+            },
+            {
+              "heading": "Prévenir les personnes concernées",
+              "objective": "Organiser ce qui doit changer dans les salles ouvertes.",
+              "exercise": [
+                "Relevez les déplacements qui sont suspendus.",
+                "Convenez de la personne qui prévient les professeurs.",
+                "Répartissez les autres tâches dans les lieux en service."
+              ],
+              "benefit": "Les cours peuvent s’organiser pendant que le chantier suit ses procédures."
+            }
+          ]
         }
       ],
       "ending_title": "Une annonce décollée du mur",
@@ -97,7 +210,8 @@
         "next": "Eva propose de prendre en charge l’emploi du temps provisoire des clarinettes pendant les travaux."
       },
       "clinical_focus": "Persistance de l’anticipation anxieuse",
-      "clinical_intro": "Le seuil bouge réellement et Antonin le signale au service compétent. Après avoir transmis l’information, il continue d’imaginer ce qui pourrait arriver. Dans l’anxiété généralisée, l’inquiétude peut se prolonger après une action utile. Distinguer le défaut matériel de cette anticipation l’aide à décrire son effort et à laisser les travaux à ceux qui en ont la charge."
+      "clinical_intro": "Le seuil bouge réellement et Antonin le signale au service compétent. Après avoir transmis l’information, il continue d’imaginer ce qui pourrait arriver. Dans l’anxiété généralisée, l’inquiétude peut se prolonger après une action utile. Distinguer le défaut matériel de cette anticipation l’aide à décrire son effort et à laisser les travaux à ceux qui en ont la charge.",
+      "conclusion": "Antonin prend le seuil au sérieux et confie son contrôle au service des travaux. L’inquiétude se prolonge pendant l’attente. Eva peut reprendre les déplacements prévus et agir sur ce qu’ils savent déjà."
     },
     {
       "number": 3,
@@ -119,13 +233,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle n’exige pas qu’Antonin lise chaque message. Son médecin peut l’aider à parler de l’effort qu’il fournit pour supporter le doute une fois le travail partagé. Au bureau, Eva peut lui donner un point de retour précis et faire les choix ordinaires qui relèvent de la tâche qu’elle accepte."
+          "heading": "Comment la peur d’une erreur future complique-t-elle une délégation ?",
+          "points": [
+            {
+              "heading": "Un incident ancien vient à l’esprit",
+              "text": "La mémoire d’un oubli peut devenir très présente au moment d’organiser une tâche semblable.",
+              "examples": [
+                "Antonin pense à l’élève qu’ils avaient oublié de prévenir en début d’année.",
+                "Quelqu’un peut revoir une ancienne erreur de clé en confiant aujourd’hui un accès déjà préparé."
+              ]
+            },
+            {
+              "heading": "Vérifier tous les échanges devient tentant",
+              "text": "L’idée de recevoir chaque réponse peut rassurer sur le moment et maintenir la tâche au premier plan.",
+              "examples": [
+                "Antonin s’apprête à demander une copie de chaque message d’Eva.",
+                "Il imagine la liste des appels qu’il ferait alors qu’Eva a proposé de les prendre en charge."
+              ]
+            },
+            {
+              "heading": "Une activité personnelle risque de céder",
+              "text": "Prévoir de suivre une tâche déjà confiée peut empiéter sur le reste de la journée.",
+              "examples": [
+                "Antonin a déjà décalé le rendez-vous du vélo à cause d’un échange qui a débordé.",
+                "En consultant son agenda, il voit que le même rendez-vous risque de disparaître à nouveau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un relais avec une vraie marge de décision",
-          "text": "Antonin peut transmettre la capacité de la salle et les conditions connues, puis dire ce qui justifierait qu’Eva le sollicite de nouveau. S’il manque un équipement dont il a la charge, il pourra répondre. Si le professeur préfère maintenir le créneau initial, Eva peut en parler avec lui. Le groupe pourra aussi décliner l’essai. Le prochain point de travail servira à rendre ce résultat visible, quelle que soit la réponse.\n\nEva a également besoin de dire quand elle peut passer les appels. Antonin peut choisir de lui confier la tâche en entier ou chercher une autre répartition avec elle. Ils gagnent à savoir où chacun intervient. Si le délai devient impossible, ils peuvent convenir d’un report plutôt que passer leur soirée à reprendre les mêmes échanges."
+          "heading": "3 techniques pour déléguer avec des repères précis",
+          "points": [
+            {
+              "heading": "Faire une transmission limitée",
+              "objective": "Donner les informations nécessaires à la tâche.",
+              "exercise": [
+                "Notez les coordonnées et contraintes utiles.",
+                "Vérifiez qui répond aux questions d’accès.",
+                "Convenez de ce qui reste à chacun."
+              ],
+              "benefit": "Le cadre peut rendre la tâche plus claire pour les deux collègues."
+            },
+            {
+              "heading": "Fixer le retour attendu",
+              "objective": "Laisser les échanges se dérouler entre deux points.",
+              "exercise": [
+                "Demandez quand la décision sera connue.",
+                "Convenez de ce qui justifierait un contact avant.",
+                "Laissez l’autre personne choisir la façon d’écrire."
+              ],
+              "benefit": "Vous pouvez recevoir l’information utile sans suivre chaque message."
+            },
+            {
+              "heading": "Protéger le rendez-vous suivant",
+              "objective": "Pouvoir partir après une transmission suffisante.",
+              "exercise": [
+                "Relisez l’heure du rendez-vous personnel.",
+                "Signalez l’heure de départ à votre collègue.",
+                "Confiez la question en cours selon l’accord."
+              ],
+              "benefit": "Le rendez-vous peut garder sa place même si l’issue reste ouverte."
+            }
+          ]
         }
       ],
       "ending_title": "Une étiquette laissée au crayon",
@@ -142,7 +312,8 @@
         "next": "À l’atelier de réparation, une dépense à décider lui fait voir combien l’inquiétude déborde le chantier."
       },
       "clinical_focus": "Crainte anticipée de l’erreur",
-      "clinical_intro": "Eva propose d’organiser les échanges pour les clarinettes. Antonin cherche encore quel oubli pourrait lui être reproché et songe à demander copie des messages. L’anxiété généralisée peut rendre coûteux le fait de laisser une décision en suspens ou de confier une responsabilité. Ici, il peut transmettre les faits utiles et mesurer l’inconfort que lui laisse une suite qu’il ne contrôle pas."
+      "clinical_intro": "Eva propose d’organiser les échanges pour les clarinettes. Antonin cherche encore quel oubli pourrait lui être reproché et songe à demander copie des messages. L’anxiété généralisée peut rendre coûteux le fait de laisser une décision en suspens ou de confier une responsabilité. Ici, il peut transmettre les faits utiles et mesurer l’inconfort que lui laisse une suite qu’il ne contrôle pas.",
+      "conclusion": "Antonin donne à Eva les éléments dont elle a besoin, puis part à l’atelier. L’ancienne erreur explique son envie de vérifier. Le retour prévu après la réponse du groupe donne à Eva le temps de conduire son échange."
     },
     {
       "number": 4,
@@ -164,13 +335,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin peut demander au réparateur de préciser ce qui entre dans le devis. Sa conversation avec Benoît concerne aussi un autre choix, leur prochaine soirée. Ces éléments peuvent être traités avec des personnes différentes. Le médecin peut, lui, entendre comment le passage d’un sujet à l’autre joue sur sa concentration ou le temps qu’il passe à décider."
+          "heading": "Comment un souci en entraîne-t-il un autre ?",
+          "points": [
+            {
+              "heading": "Un montant ouvre d’autres hypothèses",
+              "text": "Une décision précise peut être débordée par des dépenses ou des incidents encore indéterminés.",
+              "examples": [
+                "Antonin lit le prix et imagine qu’une deuxième pièce va lâcher.",
+                "Il passe de cette réparation à une dépense du mois suivant."
+              ]
+            },
+            {
+              "heading": "La pensée change de domaine",
+              "text": "Dans l’anxiété généralisée, une préoccupation peut céder la place à une autre portant sur un sujet différent.",
+              "examples": [
+                "Le montant du vélo l’amène au rendez-vous de Benoît chez le dentiste.",
+                "Quelques instants plus tard, il pense à la clé du local à l’école."
+              ]
+            },
+            {
+              "heading": "La conversation attend",
+              "text": "Les déplacements de la pensée peuvent rendre une question simple plus difficile à suivre.",
+              "examples": [
+                "Benoît propose de prendre le bus et Antonin revient aux oublis possibles du réparateur.",
+                "La craie lui rappelle leur père, mais il retrouve ce souvenir seulement après avoir répondu sur le trajet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répondre à l’invitation avec l’information disponible",
-          "text": "Benoît peut proposer le trajet qu’il compte faire et dire à quelle heure il part. Antonin n’a pas à décider du devis pour choisir s’il a envie de jouer. Il peut réserver sa réponse au réparateur après avoir regardé ce que cette dépense représente pour lui. La date de restitution reste entre les mains de l’atelier. Elle pourra modifier un trajet futur sans décider à elle seule de leur jeudi.\n\nSi Antonin veut reparler de ses inquiétudes en consultation, il peut décrire un moment où une question légitime a été suivie de plusieurs autres qui ne demandaient pas de décision immédiate. Il pourra aussi dire ce qui continue à lui donner envie de sortir. Le médecin dispose alors d’une image de la gêne et des activités qu’Antonin souhaite garder."
+          "heading": "3 techniques pour remettre les sujets à leur place",
+          "points": [
+            {
+              "heading": "Relire le devis disponible",
+              "objective": "Décider à partir du prix et de la réparation décrite.",
+              "exercise": [
+                "Repérez la pièce mentionnée.",
+                "Demandez ce que le devis couvre si un point est flou.",
+                "Convenez d’un délai pour répondre."
+              ],
+              "benefit": "Vous pouvez prendre une décision sur la réparation proposée."
+            },
+            {
+              "heading": "Saisir le passage d’un souci à l’autre",
+              "objective": "Voir quand la question a changé en cours de route.",
+              "exercise": [
+                "Nommez le premier sujet.",
+                "Nommez celui auquel vous pensez à présent.",
+                "Demandez-vous si une action concrète est attendue sur ce nouveau sujet."
+              ],
+              "benefit": "Cette pause peut redonner une place à la décision initiale."
+            },
+            {
+              "heading": "Rester avec la proposition de Benoît",
+              "objective": "Garder le temps du café pour ce qui se passe entre eux.",
+              "exercise": [
+                "Écoutez la question sur jeudi.",
+                "Dites le trajet qui vous paraît possible.",
+                "Reprenez le détail de la conversation qui vous intéressait."
+              ],
+              "benefit": "Le projet partagé peut avancer pendant que le devis attend."
+            }
+          ]
         }
       ],
       "ending_title": "Deux places sur la ligne de bus",
@@ -187,7 +414,8 @@
         "next": "Une nouvelle soirée où les questions se prolongent lui donne des exemples précis à apporter au rendez-vous médical."
       },
       "clinical_focus": "Déplacement des inquiétudes entre domaines",
-      "clinical_intro": "Antonin vient de recevoir le devis de son vélo. Tandis qu’il calcule la dépense, ses pensées passent à la santé de Benoît puis au chantier. Dans le trouble anxieux généralisé, des inquiétudes peuvent se succéder autour de sujets ordinaires et peser ensemble sur une décision. Il se donne un délai pour le devis et peut encore accepter une partie de billard."
+      "clinical_intro": "Antonin vient de recevoir le devis de son vélo. Tandis qu’il calcule la dépense, ses pensées passent à la santé de Benoît puis au chantier. Dans le trouble anxieux généralisé, des inquiétudes peuvent se succéder autour de sujets ordinaires et peser ensemble sur une décision. Il se donne un délai pour le devis et peut encore accepter une partie de billard.",
+      "conclusion": "Antonin choisit le bus et demande un délai pour le devis. Il retrouve ensuite le souvenir de la craie. Les deux choix étaient possibles avant qu’il sache ce qui pourrait arriver au vélo."
     },
     {
       "number": 5,
@@ -209,13 +437,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette consultation, le médecin s’intéresse aussi aux appuis déjà essayés. Antonin raconte le mardi où Eva a pris les appels et le temps qu’il a eu pour déposer son vélo. Ce résultat lui importe même si ses nuits restent difficiles. Il pourra dire ce qu’il a trouvé possible et ce qu’il aimerait travailler avec une aide plus structurée."
+          "heading": "Comment les inquiétudes de la nuit se voient-elles le lendemain ?",
+          "points": [
+            {
+              "heading": "Vérifier une information au réveil",
+              "text": "Une inquiétude peut reprendre la place au milieu de la nuit, même lorsqu’une réponse a déjà été donnée.",
+              "examples": [
+                "Antonin se lève chercher le prix de la réparation à trois heures.",
+                "Une autre nuit, il reprend l’horaire qu’Eva lui avait confirmé."
+              ]
+            },
+            {
+              "heading": "Passer d’un sujet à l’autre dans la nuit",
+              "text": "La même période d’éveil peut réunir des préoccupations sans décision possible à cette heure.",
+              "examples": [
+                "Après l’horaire, Antonin pense au vélo.",
+                "Il revient à l’appel que Benoît attendait du dentiste."
+              ]
+            },
+            {
+              "heading": "Prévoir la journée autour de la fatigue",
+              "text": "Le sommeil perturbé peut peser sur les choix de travail et de loisirs.",
+              "examples": [
+                "Au matin, Antonin trouve le volet entrouvert et ne sait plus pourquoi il s’est levé.",
+                "Il estime dès le jeudi matin s’il lui restera assez d’énergie pour le billard."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider d’une étape de soin avec le médecin",
-          "text": "Le NICE présente une prise en charge par étapes, ajustée à la gêne, aux préférences et à la réponse aux appuis déjà essayés. L’information sur le trouble et un suivi actif peuvent faire partie des premiers appuis. Selon la situation, des approches psychologiques structurées, dont une thérapie cognitivo-comportementale, ou un traitement médicamenteux peuvent être discutés avec un professionnel. Ces décisions concernent l’état de santé de la personne et les options adaptées à sa situation.\n\nAntonin demande comment accéder à un accompagnement psychologique et ce qu’ils peuvent revoir au prochain rendez-vous. Il peut aussi poser des questions sur les autres options, leurs effets attendus et leurs contraintes. Le médecin pourra l’orienter et préciser avec lui quand reprendre contact si son sommeil ou son fonctionnement se dégradent. Antonin garde la possibilité de poser d’autres questions avant de choisir."
+          "heading": "3 techniques pour parler des nuits et de leur effet",
+          "points": [
+            {
+              "heading": "Garder un exemple nocturne",
+              "objective": "Décrire ce qui s’est passé avec assez de précision.",
+              "exercise": [
+                "Retrouvez une nuit dont vous vous souvenez.",
+                "Notez ce qui vous a occupé après le réveil.",
+                "Ajoutez ce qui a été plus difficile le lendemain."
+              ],
+              "benefit": "Cet exemple peut éclairer le lien entre les nuits et les journées."
+            },
+            {
+              "heading": "Préciser une priorité au cabinet",
+              "objective": "Expliquer ce qui compterait dans la vie ordinaire.",
+              "exercise": [
+                "Nommez la difficulté qui vous gêne le plus.",
+                "Donnez un exemple au travail ou le soir.",
+                "Dites quelle activité vous aimeriez retrouver."
+              ],
+              "benefit": "Le professionnel peut discuter des options à partir de ce qui compte pour vous."
+            },
+            {
+              "heading": "Convenir d’un prochain point",
+              "objective": "Organiser le suivi des nuits et de leur retentissement.",
+              "exercise": [
+                "Demandez quels changements observer d’ici là.",
+                "Inscrivez la date du prochain rendez-vous.",
+                "Vérifiez comment reprendre contact si la gêne augmente."
+              ],
+              "benefit": "Le suivi peut être réajusté avec le médecin."
+            }
+          ]
         }
       ],
       "ending_title": "Le rendez-vous suivant dans l’agenda",
@@ -232,7 +516,8 @@
         "next": "Le retard de la porte du local oblige l’école à revoir la durée du créneau provisoire des clarinettes."
       },
       "clinical_focus": "Sommeil et inquiétudes persistantes",
-      "clinical_intro": "Antonin parle au médecin de ses réveils, des préoccupations qui lui reviennent et des décisions devenues plus coûteuses. Le sommeil perturbé peut accompagner l’anxiété généralisée, avec d’autres causes possibles à examiner. Relier les nuits à ses journées de travail et aux soirées avec Benoît donne au médecin des éléments pour discuter avec Antonin du retentissement et des appuis utiles."
+      "clinical_intro": "Antonin parle au médecin de ses réveils, des préoccupations qui lui reviennent et des décisions devenues plus coûteuses. Le sommeil perturbé peut accompagner l’anxiété généralisée, avec d’autres causes possibles à examiner. Relier les nuits à ses journées de travail et aux soirées avec Benoît donne au médecin des éléments pour discuter avec Antonin du retentissement et des appuis utiles.",
+      "conclusion": "Le ticket rappelle une partie qui a compté. La feuille et le devis aident Antonin à raconter les nuits qui ont suivi. Il peut garder le billard parmi ses priorités pendant que le suivi se précise."
     },
     {
       "number": 6,
@@ -254,13 +539,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin peut faire remonter le retard et demander quand viendra la prochaine information, tandis qu’Eva et lui examinent les salles qui peuvent effectivement être utilisées.\n\nL’inquiétude occupe une autre part de son temps quand il imagine devoir expliquer un manquement dont personne ne lui a parlé. Il voudrait répondre à cette éventualité avant de prévenir les musiciens. Son médecin peut l’aider à décrire cet enchaînement et son coût. Pour le professeur, l’information utile tient pour l’instant au créneau confirmé, à sa durée provisoire et à la personne qui le rappellera."
+          "heading": "Comment l’incertitude prend-elle de la place avant une décision ?",
+          "points": [
+            {
+              "heading": "Des réponses sont encore indisponibles",
+              "text": "L’absence d’une date peut donner envie de chercher davantage de détails, même lorsque l’information dépend d’un autre interlocuteur.",
+              "examples": [
+                "Le fournisseur attend un point avec son atelier avant de donner une estimation.",
+                "Antonin commence à demander l’heure de livraison et le nom du premier ouvrier."
+              ]
+            },
+            {
+              "heading": "Les conséquences se multiplient",
+              "text": "Le retard peut conduire à prévoir des réactions et des demandes qui restent hypothétiques.",
+              "examples": [
+                "Antonin se représente déjà la question de la direction sur ce qu’il a fait pour accélérer.",
+                "Il imagine devoir prolonger toutes les répétitions provisoires avant de vérifier le mardi déjà possible."
+              ]
+            },
+            {
+              "heading": "La décision disponible passe au second plan",
+              "text": "La date inconnue peut occuper l’attention au moment de prendre un engagement plus court.",
+              "examples": [
+                "Eva montre le premier mardi libre pendant qu’Antonin regarde le suivant.",
+                "Les élèves jouent le morceau qu’il cherchait et il garde les yeux sur son brouillon."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir une réponse provisoire et son prochain point",
-          "text": "L’équipe peut vérifier une disponibilité avec la personne qui gère les salles et transmettre une proposition pour le premier mardi. Les autres dates restent ouvertes. Un message peut indiquer quand l’école réexaminera la question. Si le retard se prolonge, la direction pourra discuter d’autres priorités avec l’équipe. Aucun changement de salle ne devrait conduire à dépasser la capacité prévue ou à utiliser un local encore fermé.\n\nAntonin peut dire à Eva quelles décisions il a la possibilité de prendre et lui laisser les échanges qu’elle a déjà acceptés. Il peut aussi garder le contact prévu avec le fournisseur, une tâche distincte. Les réponses seront révisées si un élément nouveau arrive. Cette organisation sert à informer les personnes concernées sans faire porter à Antonin la date que l’entreprise ignore encore."
+          "heading": "3 techniques pour décider avec les informations disponibles",
+          "points": [
+            {
+              "heading": "Fixer le prochain point d’information",
+              "objective": "Situer quand une estimation deviendra possible.",
+              "exercise": [
+                "Notez le retour annoncé par le fournisseur.",
+                "Gardez la question qui demande une réponse après ce point.",
+                "Transmettez à l’équipe ce qu’elle peut déjà savoir."
+              ],
+              "benefit": "L’attente peut être délimitée par un échange prévu."
+            },
+            {
+              "heading": "Proposer un seul créneau confirmé",
+              "objective": "Maintenir une répétition dans une salle en service.",
+              "exercise": [
+                "Vérifiez la disponibilité réelle du premier mardi.",
+                "Faites prévenir le professeur par la personne convenue.",
+                "Présentez les dates suivantes comme encore à confirmer."
+              ],
+              "benefit": "Le groupe peut préparer un essai à partir d’un accord clair."
+            },
+            {
+              "heading": "Identifier l’autorité pour la reprise",
+              "objective": "Laisser les décisions techniques aux interlocuteurs prévus.",
+              "exercise": [
+                "Distinguez les salles déjà ouvertes du local en chantier.",
+                "Vérifiez qui peut autoriser un échange de salle.",
+                "Attendez les contrôles et la validation pour annoncer la réouverture."
+              ],
+              "benefit": "Les engagements peuvent avancer à l’intérieur des conditions de sécurité."
+            }
+          ]
         }
       ],
       "ending_title": "Un mardi reste possible",
@@ -277,7 +618,8 @@
         "next": "Après avoir informé la direction, il revient plusieurs fois vers Eva pour savoir comment elle croit que le message a été reçu."
       },
       "clinical_focus": "Incertitude et anticipation des conséquences",
-      "clinical_intro": "La livraison de la porte est retardée et les clarinettes ont besoin d’une salle. Antonin voudrait prévoir toutes les conséquences avant d’annoncer un créneau. L’incertitude concrète et l’inquiétude peuvent se renforcer. En distinguant les décisions possibles aujourd’hui de la date qui dépend encore d’une validation, Antonin voit quelles actions lui reviennent et quelles questions restent légitimement ouvertes."
+      "clinical_intro": "La livraison de la porte est retardée et les clarinettes ont besoin d’une salle. Antonin voudrait prévoir toutes les conséquences avant d’annoncer un créneau. L’incertitude concrète et l’inquiétude peuvent se renforcer. En distinguant les décisions possibles aujourd’hui de la date qui dépend encore d’une validation, Antonin voit quelles actions lui reviennent et quelles questions restent légitimement ouvertes.",
+      "conclusion": "Un mardi peut être proposé pendant que la date de la porte reste inconnue. Eva a une information utile pour le groupe. Antonin peut garder le reste pour les interlocuteurs qui auront effectivement une réponse."
     },
     {
       "number": 7,
@@ -299,13 +641,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette scène, Antonin revient au message comme il a pu revenir à une dépense ou à une inquiétude pour son frère. Le médecin examine l’ensemble de ces préoccupations. Le médecin peut lui demander ce qu’il attendait de la deuxième lecture et ce qui s’est passé ensuite. Eva peut garder sa place de collègue et répondre lorsqu’une information nouvelle est nécessaire à l’organisation."
+          "heading": "Comment la recherche de réassurance revient-elle après une réponse ?",
+          "points": [
+            {
+              "heading": "Une formule devient difficile à laisser ouverte",
+              "text": "Une réponse courte peut être lue plusieurs fois en cherchant ce qu’elle implique pour la relation.",
+              "examples": [
+                "Antonin se demande si « Bien reçu » annonce un reproche.",
+                "Il repasse la phrase qu’il avait songé à ajouter sur son rappel du fournisseur."
+              ]
+            },
+            {
+              "heading": "La première réponse tient peu de temps",
+              "text": "Demander à un proche de confirmer une interprétation peut soulager un instant et laisser revenir la même question.",
+              "examples": [
+                "Eva a déjà lu le message et Antonin lui demande de nouveau s’il paraît sec.",
+                "Il se demande s’il devrait faire relire le texte par une autre collègue."
+              ]
+            },
+            {
+              "heading": "La question vérifiable attend",
+              "text": "La recherche d’une interprétation peut détourner de l’information que l’interlocuteur pourrait donner.",
+              "examples": [
+                "Antonin montre tout le message au lieu de demander qui doit venir jeudi.",
+                "Une personne peut faire relire un courriel plusieurs fois en laissant de côté la seule question sur l’heure de la réunion."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Proposer de l’écoute ou chercher une information",
-          "text": "Le rendez-vous de jeudi demande de savoir qui prépare le point de chantier. Antonin peut poser cette question à la personne qui fixe l’ordre du jour. Elle pourra lui répondre sur la présence attendue et les documents utiles. Eva peut l’aider à repérer cette demande. Si c’est surtout le sentiment d’être mis en cause qui lui pèse, il peut aussi lui dire qu’il voudrait en parler un instant, si elle est disponible.\n\nUne collègue peut entendre une inquiétude et poursuivre son travail après un échange bref. Eva a ses inscriptions à traiter. Elle peut donner une heure pour reprendre une question précise si le besoin demeure. Antonin peut conserver la formulation qu’il a envoyée et s’appuyer jeudi sur les faits du chantier."
+          "heading": "3 techniques pour sortir d’une vérification répétée",
+          "points": [
+            {
+              "heading": "Relire ce qui est écrit",
+              "objective": "Distinguer une information d’une interprétation possible.",
+              "exercise": [
+                "Repérez les mots qui donnent une suite.",
+                "Nommez ce que vous imaginez à leur sujet.",
+                "Gardez cette interprétation ouverte jusqu’à un échange utile."
+              ],
+              "benefit": "Vous pouvez reconnaître le doute sans chercher à le trancher avec chaque collègue."
+            },
+            {
+              "heading": "Formuler la question vérifiable",
+              "objective": "Obtenir une information nécessaire à l’organisation.",
+              "exercise": [
+                "Identifiez le détail qui manque.",
+                "Adressez une question courte à la personne qui peut répondre.",
+                "Agissez sur la réponse reçue."
+              ],
+              "benefit": "La demande peut produire un effet concret sur la réunion."
+            },
+            {
+              "heading": "Convenir d’une limite entre collègues",
+              "objective": "Protéger le temps et la disponibilité de chacun.",
+              "exercise": [
+                "Demandez si la personne a le temps de regarder une fois.",
+                "Accordez-vous sur la question qui vous occupe.",
+                "Revenez à vos tâches si la même interprétation revient."
+              ],
+              "benefit": "Le collègue peut aider ponctuellement et conserver son propre travail."
+            }
+          ]
         }
       ],
       "ending_title": "Le nom à ajouter à l’invitation",
@@ -322,7 +720,8 @@
         "next": "Il choisit s’il garde la soirée de billard alors que la réunion sur les travaux vient de se terminer."
       },
       "clinical_focus": "Recherche de réassurance",
-      "clinical_intro": "Après le message de la direction, Antonin demande à Eva si on lui reproche quelque chose. Son avis peut l’apaiser quelques instants, tandis que la réunion de jeudi reste à venir. Dans l’anxiété généralisée, obtenir une réponse peut calmer momentanément une inquiétude sans lever l’incertitude qui l’a déclenchée. Antonin précise finalement une question à laquelle quelqu’un pourra vraiment répondre."
+      "clinical_intro": "Après le message de la direction, Antonin demande à Eva si on lui reproche quelque chose. Son avis peut l’apaiser quelques instants, tandis que la réunion de jeudi reste à venir. Dans l’anxiété généralisée, obtenir une réponse peut calmer momentanément une inquiétude sans lever l’incertitude qui l’a déclenchée. Antonin précise finalement une question à laquelle quelqu’un pourra vraiment répondre.",
+      "conclusion": "Antonin a obtenu le nom de la personne attendue jeudi. Le sens exact du ton reste ouvert. Eva peut répondre à une question sur l’organisation et retourner à ses inscriptions."
     },
     {
       "number": 8,
@@ -344,13 +743,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans son suivi, le temps retrouvé pour les proches fait partie de ce qu’il veut préserver. Il peut dire ce qui l’a aidé à prendre part à cette soirée et ce qui était difficile avant de partir. Le relais organisé au travail répond à une question pratique. La discussion au cabinet peut porter sur la place que l’inquiétude prend une fois ce relais assuré."
+          "heading": "Comment l’inquiétude accapare-t-elle l’attention pendant un loisir ?",
+          "points": [
+            {
+              "heading": "Une scène de travail reste devant les yeux",
+              "text": "Une décision reportée peut continuer à occuper la pensée en dehors de l’école.",
+              "examples": [
+                "Antonin voit encore la ligne vide du calendrier devant la table de billard.",
+                "Une personne peut continuer à repasser une discussion de travail pendant que les autres joueurs préparent une partie."
+              ]
+            },
+            {
+              "heading": "Le téléphone garde une possibilité ouverte",
+              "text": "La tentation de rester joignable peut venir même après un relais complet.",
+              "examples": [
+                "Antonin a failli promettre de répondre pendant la soirée.",
+                "La personne de permanence a déjà repris la clé et le numéro utile, mais il sent encore le téléphone dans sa poche."
+              ]
+            },
+            {
+              "heading": "Un détail du jeu ramène à la partie",
+              "text": "L’attention peut se déplacer pendant quelques instants même quand la préoccupation reste présente.",
+              "examples": [
+                "Benoît lui montre deux billes et Antonin repère un angle.",
+                "Il retrouve un choix simple en prenant la queue lourde pour le coup qu’il voulait essayer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer le relais avant de quitter le travail",
-          "text": "La permanence a un rôle défini. Antonin peut transmettre l’accès et les renseignements utiles à la personne qui la tient. Si l’organisation change, l’école peut revoir qui sera disponible. Le fonctionnement des services reste assuré même lorsque le départ d’Antonin coïncide avec une période d’attente. Il peut demander ce qui justifierait qu’on le rappelle et à qui les autres questions seront adressées.\n\nBenoît peut avoir envie de jouer une partie entière ou préférer rentrer après le premier tour. Antonin peut lui dire ce qui lui convient aussi. Leur accord sur la soirée appartient aux deux frères. Ils n’ont pas besoin de savoir comment Antonin se sentira au dernier coup pour convenir de jouer le premier."
+          "heading": "3 techniques pour rendre sa place au loisir",
+          "points": [
+            {
+              "heading": "Terminer la transmission avant de partir",
+              "objective": "Vérifier que la responsabilité du soir est attribuée.",
+              "exercise": [
+                "Remettez les informations nécessaires à la permanence.",
+                "Confirmez le contact prévu en cas d’incident.",
+                "Dites quand vous reprendrez les questions de l’école."
+              ],
+              "benefit": "Le relais peut donner un cadre clair au temps personnel."
+            },
+            {
+              "heading": "Repérer un détail de la partie",
+              "objective": "Retrouver un élément concret quand le travail occupe encore la tête.",
+              "exercise": [
+                "Regardez le point que vous montre votre partenaire.",
+                "Décrivez-lui le trajet que vous imaginez.",
+                "Jouez le coup qui correspond à votre choix."
+              ],
+              "benefit": "Une action précise peut remettre la partie au premier plan."
+            },
+            {
+              "heading": "Garder une proposition pour les heures de travail",
+              "objective": "Reprendre une vraie question au bon moment.",
+              "exercise": [
+                "Notez brièvement l’idée venue pendant le loisir.",
+                "Choisissez l’interlocuteur et un moment de travail.",
+                "Décidez ensuite si vous souhaitez prolonger la rencontre."
+              ],
+              "benefit": "La question reste disponible sans occuper le reste de la soirée."
+            }
+          ]
         }
       ],
       "ending_title": "La bille le long de la bande",
@@ -367,7 +822,8 @@
         "next": "Il souhaite que les responsabilités du soir soient discutées en équipe avant d’être décidées dans l’urgence."
       },
       "clinical_focus": "Attention accaparée par l’inquiétude",
-      "clinical_intro": "Le relais du soir est organisé et Antonin a rejoint Benoît. Au moment de jouer, il revient pourtant mentalement au chantier. Une inquiétude persistante peut occuper une partie de l’attention même dans une activité agréable. Cette coexistence donne un repère sur le retentissement du trouble anxieux généralisé. Antonin peut apprécier la partie et décrire l’effort que lui demande le retour au jeu."
+      "clinical_intro": "Le relais du soir est organisé et Antonin a rejoint Benoît. Au moment de jouer, il revient pourtant mentalement au chantier. Une inquiétude persistante peut occuper une partie de l’attention même dans une activité agréable. Cette coexistence donne un repère sur le retentissement du trouble anxieux généralisé. Antonin peut apprécier la partie et décrire l’effort que lui demande le retour au jeu.",
+      "conclusion": "Antonin pense encore au calendrier et reste pour le verre après la partie. Benoît peut lui demander où il voit l’angle ou s’il a envie de rester. L’organisation du soir reviendra dans l’échange avec l’école."
     },
     {
       "number": 9,
@@ -389,13 +845,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Les attentes réelles font partie du contexte que le médecin peut prendre en compte lorsqu’Antonin décrit des difficultés au travail.\n\nLe reste ne se règle pas tout entier en complétant un planning. Même si un nom apparaît, Antonin peut se demander si cette personne trouvera la clé ou si un professeur lui en voudra d’être parti. Il peut parler au médecin de ce que ces pensées lui demandent. Au travail, il peut poser la question de la transmission avec l’équipe et entendre que chacun a ses propres disponibilités."
+          "heading": "Comment des responsabilités floues alimentent-elles l’inquiétude ?",
+          "points": [
+            {
+              "heading": "Une mention ouverte devient un engagement",
+              "text": "L’anticipation peut transformer une formule imprécise en disponibilité permanente.",
+              "examples": [
+                "« Si besoin » rappelle à Antonin les soirs où il gardait la clé sur lui.",
+                "Quelqu’un peut entendre une demande occasionnelle comme l’obligation de répondre chaque soir."
+              ]
+            },
+            {
+              "heading": "La disponibilité des autres est imaginée",
+              "text": "Quand personne n’a encore choisi un rôle, la préoccupation peut remplir le vide par des suppositions.",
+              "examples": [
+                "Antonin envisage de donner à Eva les messages du soir avant de connaître ses créneaux.",
+                "Eva rappelle le cours de poterie qu’elle souhaite reprendre le mercredi."
+              ]
+            },
+            {
+              "heading": "Le temps personnel n’a plus de place fixe",
+              "text": "Un engagement collectif flou peut rendre difficile la réponse à une invitation.",
+              "examples": [
+                "Antonin pense au billard en essayant de savoir quels jeudis seront travaillés.",
+                "Une personne peut retarder la réservation d’une soirée en attendant de savoir qui assurera l’accueil."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un contenu à la permanence",
-          "text": "L’équipe peut fixer l’heure jusqu’à laquelle un membre du personnel est joignable, le circuit en cas de problème et le lieu où retrouver les informations. La direction garde la responsabilité d’organiser une couverture compatible avec les activités de l’école. Si aucun nom ne convient pour une date, la question revient à la direction plutôt qu’à la personne qui répond le plus souvent.\n\nAntonin peut indiquer les soirs où il est disponible et proposer une date pour faire le point après la réouverture. Eva peut demander à conserver son mercredi. La raison qu’elle donne suffit pour organiser son temps, même si les autres ne connaissent pas les détails de son cours. Antonin peut lui aussi parler de ses disponibilités sans expliquer sa situation de santé devant toute l’équipe."
+          "heading": "3 techniques pour rendre les responsabilités lisibles",
+          "points": [
+            {
+              "heading": "Définir le travail de permanence",
+              "objective": "Transformer un intitulé large en tâches concrètes.",
+              "exercise": [
+                "Listez les demandes habituelles du soir.",
+                "Attribuez les urgences aux interlocuteurs prévus.",
+                "Convenez de la suite des questions qui peuvent attendre."
+              ],
+              "benefit": "L’équipe peut voir ce que la permanence doit réellement couvrir."
+            },
+            {
+              "heading": "Inscrire des créneaux choisis",
+              "objective": "Faire correspondre les rôles à de vraies disponibilités.",
+              "exercise": [
+                "Demandez à chacun quelles heures lui conviennent.",
+                "Notez les créneaux acceptés.",
+                "Laissez les cases restantes à une décision d’équipe."
+              ],
+              "benefit": "Les horaires peuvent tenir compte des limites de chacun."
+            },
+            {
+              "heading": "Fixer un retour sur le tableau",
+              "objective": "Pouvoir discuter de ce qui reste sans l’assumer par défaut.",
+              "exercise": [
+                "Distinguez les cases closes et celles qui manquent.",
+                "Convenez de la personne qui les reprend.",
+                "Déterminez le moment où le planning sera annoncé."
+              ],
+              "benefit": "Une suite claire peut limiter les disponibilités supposées."
+            }
+          ]
         }
       ],
       "ending_title": "Le mercredi laissé libre",
@@ -412,7 +924,8 @@
         "next": "La porte est posée. Le local attend un essai et une décision de remise en service pendant qu’Antonin revoit son médecin."
       },
       "clinical_focus": "Inquiétude et ambiguïté des responsabilités",
-      "clinical_intro": "Antonin ignore qui doit répondre le soir et se prépare à rester disponible au-delà de ses heures. Un rôle flou crée une difficulté réelle, qui peut s’ajouter aux inquiétudes durables du trouble anxieux généralisé. En clarifiant les permanences avec l’équipe, Antonin agit sur une contrainte du travail et peut observer ce que les soucis continuent d’occuper une fois le cadre établi."
+      "clinical_intro": "Antonin ignore qui doit répondre le soir et se prépare à rester disponible au-delà de ses heures. Un rôle flou crée une difficulté réelle, qui peut s’ajouter aux inquiétudes durables du trouble anxieux généralisé. En clarifiant les permanences avec l’équipe, Antonin agit sur une contrainte du travail et peut observer ce que les soucis continuent d’occuper une fois le cadre établi.",
+      "conclusion": "Le mercredi d’Eva et les jeudis d’Antonin apparaissent dans la discussion. Le tableau leur permet de fixer leur part avant de répondre aux trous du planning."
     },
     {
       "number": 10,
@@ -430,17 +943,73 @@
         {
           "role": "explanation",
           "heading": "Le progrès se regarde dans plusieurs situations",
-          "text": "Le suivi de l’anxiété généralisée tient compte de la gêne et du fonctionnement dans le temps, dans plusieurs domaines. Un changement au travail peut améliorer une partie de la journée sans modifier le sommeil ou les préoccupations familiales."
+          "text": "L’anxiété peut s’alléger au travail et continuer de perturber les nuits. Dans le trouble anxieux généralisé, ce décalage aide à comprendre le retentissement au fil du temps. L’essai du local règle une incertitude professionnelle pour Antonin. Les préoccupations qui le réveillent et la crainte de décevoir ses proches ont encore besoin d’une place au rendez-vous."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin peut dire à la fois qu’il a gardé une soirée, qu’il a moins de décisions urgentes sur le chantier et qu’il a encore des réveils difficiles. Ces éléments aident son médecin à comprendre ce qui change et ce qui continue à lui coûter.\n\nDes étapes de soin peuvent être revues à partir de ce que la personne souhaite et de la réponse aux appuis déjà essayés. Antonin a demandé un entretien psychologique. Il peut parler du délai et de ce qu’il attend de la rencontre. Avec son médecin, il peut aussi convenir de ce qu’ils réexamineront si les difficultés s’accentuent ou si le délai s’allonge."
+          "heading": "Comment reconnaître une amélioration partielle de l’anxiété ?",
+          "points": [
+            {
+              "heading": "Une étape résolue laisse une attente limitée",
+              "text": "Un progrès concret peut réduire une incertitude sans apporter toutes les réponses.",
+              "examples": [
+                "Le technicien annonce la transmission du rapport.",
+                "Antonin aimerait déjà obtenir la garantie de réouverture, qui revient encore à la direction."
+              ]
+            },
+            {
+              "heading": "Les nuits et les relations suivent leur propre cours",
+              "text": "L’amélioration au travail peut coexister avec des soucis dans d’autres moments.",
+              "examples": [
+                "Antonin a réussi à aller jouer grâce au relais et continue de se réveiller la nuit.",
+                "Il se demande encore qui pourrait être mécontent de lui après des journées où le chantier a avancé."
+              ]
+            },
+            {
+              "heading": "Une aide commence à se dessiner",
+              "text": "Le suivi considère ce qui reste gênant même si certains domaines vont mieux.",
+              "examples": [
+                "Antonin a pris contact pour un accompagnement psychologique.",
+                "Il demande à son médecin ce qu’ils peuvent suivre avant le premier entretien."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser chaque décision à la bonne personne",
-          "text": "Le rapport du technicien renseignera l’école sur les essais et la direction prendra la décision d’ouvrir selon les validations nécessaires. Antonin peut continuer à préparer les informations dont le premier groupe aura besoin, avec Eva. Il peut aussi se renseigner sur le délai prévu pour son accompagnement auprès de la personne qui le recevra. Ces deux attentes demandent des réponses différentes.\n\nPour son rendez-vous, il lui suffit de dire ce qui lui permet de tenir sa journée et ce qui lui pèse encore. Le médecin peut lui poser des questions ou proposer de revenir sur certains points plus tard. L’examen du local et le bilan du suivi ont chacun leur objet. Antonin garde une place dans les décisions de soin, y compris pour expliquer qu’une option lui paraît peu praticable."
+          "heading": "3 techniques pour faire le point sur une amélioration partielle",
+          "points": [
+            {
+              "heading": "Marquer l’étape accomplie",
+              "objective": "Voir ce que le dossier permet déjà de décider.",
+              "exercise": [
+                "Notez ce qui a été essayé.",
+                "Identifiez qui donne l’accord final.",
+                "Reprenez les préparatifs autorisés dans votre rôle."
+              ],
+              "benefit": "Le travail peut avancer à partir du résultat disponible."
+            },
+            {
+              "heading": "Faire un bilan hors chantier",
+              "objective": "Donner une place aux soucis qui continuent ailleurs.",
+              "exercise": [
+                "Repérez un moment professionnel qui a changé.",
+                "Ajoutez une soirée ou une nuit encore difficile.",
+                "Décrivez ce qui compte pour vous dans chaque situation."
+              ],
+              "benefit": "Le suivi peut porter sur plusieurs effets de l’anxiété."
+            },
+            {
+              "heading": "Clarifier l’attente du premier entretien",
+              "objective": "Prévoir un appui pendant une étape du parcours de soins.",
+              "exercise": [
+                "Expliquez au médecin où en est votre prise de contact.",
+                "Convenez de ce que vous souhaitez observer ensemble.",
+                "Notez comment reprendre contact si l’attente devient difficile."
+              ],
+              "benefit": "Vous pouvez savoir à qui parler pendant cette période."
+            }
+          ]
         }
       ],
       "ending_title": "Le rapport attendu à l’école",
@@ -456,8 +1025,9 @@
         "choice": "Antonin convient avec le médecin d’un point pendant l’attente et prépare l’accueil sans annoncer l’ouverture avant validation.",
         "next": "Une fois l’ouverture autorisée, les clarinettes reprennent leur place et Antonin transmet la permanence à l’équipe du soir."
       },
-      "clinical_focus": "Persistance des soucis dans plusieurs domaines",
-      "clinical_intro": "Le local passe son essai et Antonin a moins de décisions urgentes au travail. Il se réveille pourtant encore en pensant à des questions familiales. Dans l’anxiété généralisée, la gêne s’évalue au fil du temps et dans plusieurs domaines. Décrire les améliorations comme les difficultés qui persistent aide à mieux comprendre ce qui change pour Antonin et ce qui demande encore un soutien."
+      "clinical_focus": "Amélioration partielle de l’anxiété",
+      "clinical_intro": "Le local passe son essai et Antonin a moins de décisions urgentes au travail. Il se réveille pourtant encore en pensant à des questions familiales. Dans l’anxiété généralisée, la gêne s’évalue au fil du temps et dans plusieurs domaines. Décrire les améliorations comme les difficultés qui persistent aide à mieux comprendre ce qui change pour Antonin et ce qui demande encore un soutien.",
+      "conclusion": "Le rapport rapproche la réouverture et Antonin peut finir le plan des étuis. Ce progrès lui rend une partie de sa journée. Au cabinet, il garde une place pour les inquiétudes qui interrompent encore ses nuits."
     },
     {
       "number": 11,
@@ -479,13 +1049,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin a encore des tâches qui découlent de la reprise, comme vérifier avec le professeur le rangement adapté aux étuis. La question de sa présence jusqu’à la fin dépend de ce qu’il est convenu qu’il fasse. Les deux sujets peuvent être examinés séparément avec l’équipe."
+          "heading": "Comment l’inquiétude revient-elle au moment de partir ?",
+          "points": [
+            {
+              "heading": "Un détail réel demande une décision",
+              "text": "Un besoin de rangement peut être traité dans le cadre ordinaire de la reprise.",
+              "examples": [
+                "La première musicienne dégage le passage en reprenant son étui.",
+                "Antonin propose un rangement disponible et note la difficulté pour la suite."
+              ]
+            },
+            {
+              "heading": "La transmission a un dernier geste",
+              "text": "Le relais peut comprendre une action précise qui donne à la permanence ce qu’il lui faut.",
+              "examples": [
+                "La collègue demande à voir le placard des pupitres.",
+                "Antonin lui donne la clé et le contact prévu si le matériel pose problème."
+              ]
+            },
+            {
+              "heading": "La tentation de rester se prolonge",
+              "text": "L’inquiétude peut laisser l’impression qu’il faut encore tout vérifier après les actions convenues.",
+              "examples": [
+                "Antonin voudrait attendre le dernier musicien pour vérifier chaque étui.",
+                "Une personne peut vouloir rester jusqu’à la fin d’une activité alors qu’un collègue a repris le rangement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un problème d’étui et une heure de départ",
-          "text": "La musicienne a signalé une difficulté précise. Antonin peut indiquer quel espace utiliser pour l’instant et noter le point à revoir avec le professeur. La collègue de permanence doit savoir où trouver le matériel et comment transmettre un incident. Elle peut dire s’il lui manque une information. Les vérifications de fermeture restent confiées à la personne désignée et suivent les consignes de l’école.\n\nUne fois le relais effectué, Antonin peut décider s’il veut écouter encore un passage ou rentrer. Sa présence peut être agréable pour lui sans devenir une responsabilité du soir. Il peut aussi convenir d’un autre moment pour entendre le groupe. Eva a déjà prévu son départ et peut lui dire ce qu’elle a pris en charge. Elle lui laisse le choix de sa soirée."
+          "heading": "3 techniques pour passer la main en fin de journée",
+          "points": [
+            {
+              "heading": "Traiter le détail observé",
+              "objective": "Répondre à ce qui gêne maintenant.",
+              "exercise": [
+                "Montrez un rangement prévu qui laisse le passage libre.",
+                "Notez ce qui devra être revu plus tard.",
+                "Informez la permanence du changement."
+              ],
+              "benefit": "L’équipe peut retrouver la solution appliquée."
+            },
+            {
+              "heading": "Faire le dernier tour avec la collègue",
+              "objective": "Confirmer qu’elle dispose des informations demandées.",
+              "exercise": [
+                "Montrez le placard qu’elle veut repérer.",
+                "Remettez la clé selon l’accord.",
+                "Vérifiez qu’elle sait qui contacter en cas de problème."
+              ],
+              "benefit": "Le changement de rôle peut devenir concret pour chacun."
+            },
+            {
+              "heading": "S’appuyer sur l’heure annoncée",
+              "objective": "Donner une fin à la transmission complète.",
+              "exercise": [
+                "Regardez l’heure prévue.",
+                "Dites que vous partez et quand vous serez de retour.",
+                "Reprenez le trajet ou l’activité que vous aviez choisi."
+              ],
+              "benefit": "La soirée peut commencer alors que certaines inconnues demeurent."
+            }
+          ]
         }
       ],
       "ending_title": "La clé change de main",
@@ -502,7 +1128,8 @@
         "next": "Quand l’école prépare une audition, Antonin choisit ce qu’il veut encore prendre en charge et garde un temps pour la suite de son suivi."
       },
       "clinical_focus": "Inquiétude au moment du relais",
-      "clinical_intro": "Le local a rouvert et le groupe joue. En donnant la clé à la permanence, Antonin imagine encore ce qui pourrait se passer après son départ. Il connaît toutefois le rôle de la personne qui prend la suite. Cette scène montre comment une inquiétude du trouble anxieux généralisé peut persister après la résolution du problème et comment Antonin choisit malgré elle de rentrer."
+      "clinical_intro": "Le local a rouvert et le groupe joue. En donnant la clé à la permanence, Antonin imagine encore ce qui pourrait se passer après son départ. Il connaît toutefois le rôle de la personne qui prend la suite. Cette scène montre comment une inquiétude du trouble anxieux généralisé peut persister après la résolution du problème et comment Antonin choisit malgré elle de rentrer.",
+      "conclusion": "Antonin écoute une dernière mesure puis prend son vélo. La collègue possède les moyens d’assurer la permanence. Les grands étuis pourront rester un sujet de travail pour un autre moment."
     },
     {
       "number": 12,
@@ -524,13 +1151,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Antonin continue de faire le point avec son médecin. Il peut décrire ses nuits, ses décisions au travail et le temps qu’il arrive à passer avec son frère. Le premier entretien psychologique lui donne un autre endroit où parler de ce qui lui importe et poser des questions sur les options proposées.\n\nUne activité qui reprend ne résume pas l’évolution d’un trouble. Antonin peut apprécier l’audition et ressentir de nouveau de l’inquiétude sur ce qu’on attend de lui. Il garde le choix d’en parler, de demander un appui plus tôt si la gêne s’accentue et de dire quels objectifs lui semblent adaptés maintenant."
+          "heading": "Comment l’inquiétude et le plaisir d’être présent peuvent-ils coexister ?",
+          "points": [
+            {
+              "heading": "Les questions se prolongent après le travail utile",
+              "text": "Une réponse peut être suivie d’un souci sur la façon dont les autres interpréteront votre décision.",
+              "examples": [
+                "Antonin trouve le plan d’accueil près de l’entrée.",
+                "Il pense encore à ce que quelqu’un dira s’il reste assis pendant l’audition."
+              ]
+            },
+            {
+              "heading": "La participation prend une autre forme",
+              "text": "Une activité peut retrouver une place sans que la personne reprenne tous les rôles qu’elle occupait avant.",
+              "examples": [
+                "Antonin prépare les sièges et garde deux places parmi le public.",
+                "Il signale le pied qui grince à la personne chargée de l’accueil et rejoint Benoît."
+              ]
+            },
+            {
+              "heading": "Les difficultés qui restent gardent leur place",
+              "text": "Un projet abouti peut être un progrès pendant qu’un autre aspect de la vie demande un suivi.",
+              "examples": [
+                "Le local accueille son premier groupe, mais les réveils d’Antonin se poursuivent.",
+                "Le papier dans sa poche indique l’heure du premier entretien psychologique."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Conserver une place pour écouter",
-          "text": "Le déroulement de l’audition dépend de plusieurs personnes. Antonin peut préparer les sièges selon le plan et laisser les décisions d’accueil à la permanence. Une information nouvelle peut bien sûr lui être transmise si elle concerne sa part. Il peut aussi dire à Eva qu’il aimerait rester dans le public après avoir terminé. Elle pourra lui indiquer s’il reste un besoin précis et voir avec lui comment y répondre.\n\nBenoît n’a pas besoin de connaître le planning de l’école pour choisir s’il vient. Il peut proposer l’audition ou le billard en fonction de ses envies. Antonin peut lui raconter sa semaine, lui montrer le morceau sur le programme ou simplement partager une heure de musique. Le rendez-vous médical et le temps qu’il choisit pour lui gardent chacun leur place."
+          "heading": "3 techniques pour garder une place dans un projet choisi",
+          "points": [
+            {
+              "heading": "Préciser le rôle d’aujourd’hui",
+              "objective": "Séparer la contribution utile du temps que vous voulez passer avec les autres.",
+              "exercise": [
+                "Choisissez la tâche dont vous êtes chargé.",
+                "Demandez le renseignement dont vous avez besoin.",
+                "Décidez où vous souhaitez être quand la tâche est terminée."
+              ],
+              "benefit": "Vous pouvez participer en ayant un rôle qui vous convient."
+            },
+            {
+              "heading": "Passer un incident ordinaire au bon relais",
+              "objective": "Laisser la personne présente reprendre une petite difficulté.",
+              "exercise": [
+                "Décrivez le fait observé.",
+                "Informez la personne qui a la charge du lieu.",
+                "Rejoignez votre place une fois le relais fait."
+              ],
+              "benefit": "Le problème peut être suivi sans interrompre tout le moment partagé."
+            },
+            {
+              "heading": "Dire ce qui change et ce qui persiste",
+              "objective": "Apporter au suivi une image nuancée de l’évolution.",
+              "exercise": [
+                "Gardez un exemple où vous avez repris une activité.",
+                "Notez une difficulté encore présente.",
+                "Choisissez la question à porter au premier entretien ou au prochain rendez-vous."
+              ],
+              "benefit": "L’accompagnement peut s’appuyer sur les deux aspects de la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Le silence avant la première note",
@@ -547,7 +1230,8 @@
         "next": "Il retrouvera son médecin après le premier entretien psychologique et l’équipe reprendra l’organisation des permanences au prochain bilan."
       },
       "clinical_focus": "Participation et suivi de l’anxiété",
-      "clinical_intro": "Antonin aimerait s’asseoir parmi le public quand les clarinettes commencent. Il garde une tâche précise et partage le reste avec l’équipe. Dans le suivi de l’anxiété généralisée, la place retrouvée pour un loisir peut renseigner autant que le nombre de soucis évoqués. Antonin choisit de suivre aussi ses nuits et de parler des préoccupations qui traversent encore ses journées."
+      "clinical_intro": "Antonin aimerait s’asseoir parmi le public quand les clarinettes commencent. Il garde une tâche précise et partage le reste avec l’équipe. Dans le suivi de l’anxiété généralisée, la place retrouvée pour un loisir peut renseigner autant que le nombre de soucis évoqués. Antonin choisit de suivre aussi ses nuits et de parler des préoccupations qui traversent encore ses journées.",
+      "conclusion": "Antonin entend enfin le morceau depuis la place qu’il voulait prendre. Les réveils et les préoccupations ont encore leur place dans le suivi. Benoît peut partager l’audition et lui proposer une autre soirée de billard."
     }
   ]
 }

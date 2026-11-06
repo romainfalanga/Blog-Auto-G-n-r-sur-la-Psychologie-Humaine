@@ -29,13 +29,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Jules, l’évaluation est toujours en cours.\n\nLe médecin peut aussi écouter ce qui a changé depuis les épisodes. Jules sait qu’il prend la porte latérale et qu’il n’a pas revu Samuel depuis quelque temps. Il voudrait expliquer ce que ça lui coûte de faire le détour, mais aussi pourquoi la table de dessin lui manque. Les circonstances, les sensations et les conséquences dans sa vie fournissent des renseignements différents."
+          "heading": "Comment la peur d’une nouvelle attaque change-t-elle les trajets ?",
+          "points": [
+            {
+              "heading": "Un lieu rappelle un épisode inattendu",
+              "text": "Après un accès de peur, le lieu où il est survenu peut devenir difficile à traverser.",
+              "examples": [
+                "Jules reconnaît l’allée où son cœur s’est mis à battre fort.",
+                "Chez lui, le souvenir de la peur reste associé au carnet qu’il réparait ce soir-là."
+              ]
+            },
+            {
+              "heading": "Le détour devient habituel",
+              "text": "Anticiper une répétition peut modifier les trajets, parfois avant même que la peur soit très présente.",
+              "examples": [
+                "Jules passe désormais par la porte latérale.",
+                "Une personne peut choisir systématiquement une autre entrée après un épisode inattendu devant le portique."
+              ]
+            },
+            {
+              "heading": "L’activité désirée s’éloigne",
+              "text": "Le changement de trajet peut toucher un projet qui garde son intérêt.",
+              "examples": [
+                "Jules renonce à traverser pour saluer Samuel et continue de regarder la table.",
+                "La livraison de son bouquet est reprise par quelqu’un qui se rend déjà à l’entrée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une place pour la commande du matin",
-          "text": "Au stand, Sonia peut donner à Jules une tâche précise et lui dire qui prendra l’autre. Si Jules choisit de finir la commande suivante, il peut encore parler de la livraison avec elle. Il peut aussi lui dire qu’il a un rendez-vous médical et décider quelle part de ses difficultés il souhaite partager. L’organisation du travail peut s’appuyer sur le besoin qu’il exprime et les possibilités du stand.\n\nPour le prochain entretien, Jules peut raconter l’épisode de l’allée et celui survenu chez lui, dans les mots qu’il a. Il peut parler de la porte qu’il emprunte maintenant. Son carnet lui sert d’abord à dessiner. Il peut y glisser une feuille avec le nom des lieux et les questions qu’il veut poser, s’il pense que cela l’aidera pendant le rendez-vous."
+          "heading": "3 techniques pour parler des détours qui s’installent",
+          "points": [
+            {
+              "heading": "Décrire un trajet avant et après",
+              "objective": "Donner un exemple à la personne qui évalue les épisodes.",
+              "exercise": [
+                "Situez l’endroit du premier épisode.",
+                "Décrivez la route que vous preniez auparavant.",
+                "Précisez ce qui vous fait choisir une autre route maintenant."
+              ],
+              "benefit": "Le médecin peut mieux comprendre ce qui a changé entre les épisodes."
+            },
+            {
+              "heading": "Garder une part de l’activité",
+              "objective": "Préserver une tâche utile pendant l’évaluation.",
+              "exercise": [
+                "Dites quel geste vous pouvez prendre ce matin.",
+                "Vérifiez qui reprend l’autre tâche.",
+                "Convenez du moment où reparler de l’organisation."
+              ],
+              "benefit": "Un accord ponctuel peut laisser de la place à l’activité et au suivi."
+            },
+            {
+              "heading": "Poser une question sur le projet désiré",
+              "objective": "Rester en lien avec une activité qui compte.",
+              "exercise": [
+                "Choisissez la personne qui en connaît l’organisation.",
+                "Demandez la date ou le sujet de la prochaine rencontre.",
+                "Laissez votre décision de venir ouverte."
+              ],
+              "benefit": "Vous pouvez reprendre contact à partir d’une question concrète."
+            }
+          ]
         }
       ],
       "ending_title": "Le bouquet côté stand",
@@ -52,7 +108,8 @@
         "next": "Lorsqu’une douleur thoracique nouvelle survient au marché, Sonia appelle les secours et l’évaluation médicale continue."
       },
       "clinical_focus": "Peur anticipée d’une attaque de panique",
-      "clinical_intro": "Jules voudrait faire la livraison et redoute de repasser par l’allée où la peur l’a surpris. Une attaque de panique peut être suivie d’une inquiétude quant à sa répétition. Cette peur a déjà un effet sur ses déplacements et sur le dessin qu’il a laissé de côté. Son médecin a besoin de l’histoire des épisodes et des situations où ils surviennent pour poursuivre l’évaluation."
+      "clinical_intro": "Jules voudrait faire la livraison et redoute de repasser par l’allée où la peur l’a surpris. Une attaque de panique peut être suivie d’une inquiétude quant à sa répétition. Cette peur a déjà un effet sur ses déplacements et sur le dessin qu’il a laissé de côté. Son médecin a besoin de l’histoire des épisodes et des situations où ils surviennent pour poursuivre l’évaluation.",
+      "conclusion": "Le bouquet est terminé et Jules prend des nouvelles de la table. Il pourra décrire au médecin le détour et ce qu’il lui coûte. Sonia peut organiser une livraison précise avec lui."
     },
     {
       "number": 2,
@@ -74,13 +131,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Jules a commencé à parler d’épisodes antérieurs avec son médecin. Ce renseignement peut aider l’équipe d’urgence à comprendre le contexte. Il a aussi le droit d’insister sur ce qu’il ressent différemment aujourd’hui. Un apaisement, l’effet de la présence de Sonia ou la fin de la douleur ne permettent pas à eux seuls de conclure à une attaque de panique."
+          "heading": "Comment la peur intense peut-elle coïncider avec une urgence à évaluer ?",
+          "points": [
+            {
+              "heading": "Une sensation nouvelle",
+              "text": "Une personne qui a connu des accès de peur peut ressentir ensuite une douleur d’origine encore inconnue.",
+              "examples": [
+                "La pression dans la poitrine arrête Jules au milieu de la carte.",
+                "Il peine à reprendre son souffle et reconnaît une douleur différente de ses épisodes précédents."
+              ]
+            },
+            {
+              "heading": "La peur vient avec le signe physique",
+              "text": "Une émotion vive peut accompagner une urgence. Son intensité ne donne pas la cause du signe physique.",
+              "examples": [
+                "Jules reconnaît sa peur et appelle Sonia depuis le comptoir.",
+                "Une personne qui a déjà eu des crises peut aussi avoir très peur pendant un essoufflement nouveau."
+              ]
+            },
+            {
+              "heading": "Le récit des signes guide l’évaluation",
+              "text": "Les secours et l’équipe médicale se fondent sur les faits et leur évolution.",
+              "examples": [
+                "Sonia décrit la douleur brutale et la difficulté à respirer au téléphone.",
+                "Aux urgences, Jules dit ce qui lui a paru différent dans cet épisode."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer la suite après l’évaluation urgente",
-          "text": "L’équipe d’urgence peut transmettre ses observations à la personne qui suit Jules et lui expliquer ce qu’il doit faire ensuite. Jules peut demander comment obtenir ce compte rendu et à qui s’adresser si les signes reviennent ou changent. Le rendez-vous en cours sert à reprendre l’histoire des autres épisodes et leurs conséquences. Les décisions médicales s’appuient sur les éléments évalués par les professionnels.\n\nAu travail, Sonia peut lui dire comment la commande a été reprise et lui laisser le choix de parler du reste. Les clients ont besoin de savoir si leur bouquet sera prêt. Ils n’ont pas à connaître les détails de son évaluation. Si Jules veut prévenir sa grand-mère, il peut décider ce qu’il souhaite lui raconter après avoir reçu les informations de l’équipe."
+          "heading": "3 techniques pour déclencher et passer le relais médical",
+          "points": [
+            {
+              "heading": "Appeler le service d’urgence",
+              "objective": "Obtenir un avis immédiat face à une douleur thoracique brutale avec gêne respiratoire.",
+              "exercise": [
+                "En France, appelez le 15 ou le 112 sans attendre.",
+                "Donnez l’adresse et les informations d’accès.",
+                "Décrivez les signes observés et leur heure de début."
+              ],
+              "benefit": "Le médecin régulateur peut évaluer la situation et indiquer la suite."
+            },
+            {
+              "heading": "Suivre les consignes reçues",
+              "objective": "Aider les secours à rejoindre la personne et à poursuivre l’évaluation.",
+              "exercise": [
+                "Restez joignable et suivez les instructions du régulateur.",
+                "Demandez à quelqu’un de guider l’équipe si le régulateur le prévoit.",
+                "Confiez le comptoir à un collègue disponible."
+              ],
+              "benefit": "L’appel et l’accès peuvent être facilités pendant la prise en charge."
+            },
+            {
+              "heading": "Garder le compte rendu pour le suivi",
+              "objective": "Permettre au médecin de reprendre cet épisode après l’urgence.",
+              "exercise": [
+                "Demandez à l’équipe ce qui doit être transmis.",
+                "Gardez le compte rendu et les consignes.",
+                "Partagez-les avec le médecin qui vous suit selon les indications reçues."
+              ],
+              "benefit": "L’équipe de suivi peut s’appuyer sur l’évaluation déjà réalisée."
+            }
+          ]
         }
       ],
       "ending_title": "La carte au coin rond",
@@ -98,7 +211,8 @@
         "next": "Les informations du bilan et l’histoire des épisodes sont reprises au rendez-vous avec la spécialiste."
       },
       "clinical_focus": "Signes physiques nécessitant une évaluation urgente",
-      "clinical_intro": "Au marché, Jules ressent une douleur thoracique nouvelle et peine à respirer. Il reconnaît la peur, tandis que le caractère nouveau des signes conduit Sonia à appeler les secours. Certaines sensations peuvent se retrouver dans une attaque de panique et dans des problèmes physiques. L’équipe d’urgence peut évaluer leur cause à partir de ce que Jules et Sonia décrivent."
+      "clinical_intro": "Au marché, Jules ressent une douleur thoracique nouvelle et peine à respirer. Il reconnaît la peur, tandis que le caractère nouveau des signes conduit Sonia à appeler les secours. Certaines sensations peuvent se retrouver dans une attaque de panique et dans des problèmes physiques. L’équipe d’urgence peut évaluer leur cause à partir de ce que Jules et Sonia décrivent.",
+      "conclusion": "Sonia a appelé dès que la douleur et l’essoufflement sont apparus. L’équipe médicale évalue leur cause. Jules gardera les informations du service pour la consultation qui suit."
     },
     {
       "number": 3,
@@ -120,13 +234,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.\n\nJules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard."
+          "heading": "Comment les effets entre les attaques éclairent-ils le diagnostic ?",
+          "points": [
+            {
+              "heading": "Des attaques prises de court",
+              "text": "Le médecin revient sur ce que la personne faisait avant l’épisode et la manière dont il a commencé.",
+              "examples": [
+                "Jules comparait des rubans dans l’allée quand l’attaque l’a surpris.",
+                "Une autre est survenue chez lui alors qu’il réparait la couverture du carnet."
+              ]
+            },
+            {
+              "heading": "La peur reste présente dans l’intervalle",
+              "text": "La perspective de revivre un épisode peut peser un jour sans attaque.",
+              "examples": [
+                "Jules redoute une récidive dans le bus même quand le trajet se passe bien.",
+                "Il appréhende l’allée centrale en restant à l’écart au stand."
+              ]
+            },
+            {
+              "heading": "Des changements s’accumulent",
+              "text": "L’évaluation considère les activités et les déplacements devenus plus difficiles.",
+              "examples": [
+                "Certains bouquets sont confiés à d’autres pour éviter l’entrée.",
+                "Jules a refusé plusieurs invitations à la table de dessin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Les questions qui restent à poser",
-          "text": "La psychiatre peut expliquer les possibilités de suivi et préciser comment elle échangera avec le médecin de Jules si celui-ci est d’accord. Jules peut demander du temps pour réfléchir à ce qu’il aimerait travailler. Il voudrait revenir aux dessins du samedi et pouvoir discuter de son apprentissage sans passer tout l’entretien à raconter la douleur du marché. Ses choix donnent des points de départ pour parler des soins.\n\nLa consultation permet aussi de préciser qui contacter selon le besoin. Une question sur le prochain rendez-vous, le retour d’une difficulté déjà discutée et un signe aigu appellent des réponses différentes. Jules peut demander à la psychiatre de lui rappeler les modalités qu’elle vient de lui expliquer. Plus tard, il choisira s’il souhaite en parler à sa grand-mère ou à Sonia."
+          "heading": "3 techniques pour préparer l’entretien sur les attaques",
+          "points": [
+            {
+              "heading": "Raconter des épisodes situés",
+              "objective": "Donner au médecin l’histoire de leur début.",
+              "exercise": [
+                "Choisissez deux moments distincts.",
+                "Dites ce que vous faisiez avant.",
+                "Décrivez ce qui vous a surpris ou ce qui différait."
+              ],
+              "benefit": "La spécialiste peut examiner le contexte de chaque épisode."
+            },
+            {
+              "heading": "Comparer une journée avec et sans attaque",
+              "objective": "Décrire ce que l’anticipation change dans l’intervalle.",
+              "exercise": [
+                "Repérez un trajet qui a changé.",
+                "Notez ce que vous craignez en le prévoyant.",
+                "Donnez un exemple d’activité que cela a déplacée."
+              ],
+              "benefit": "Le médecin peut comprendre les effets qui se prolongent."
+            },
+            {
+              "heading": "Faire préciser la suite de l’évaluation",
+              "objective": "Savoir à qui adresser les questions selon la situation.",
+              "exercise": [
+                "Apportez les informations médicales convenues.",
+                "Demandez comment la spécialiste comprend les épisodes.",
+                "Faites préciser le recours à un avis médical pour un signe nouveau."
+              ],
+              "benefit": "Le diagnostic et la conduite à tenir peuvent être discutés ensemble."
+            }
+          ]
         }
       ],
       "ending_title": "La verrière laissée inachevée",
@@ -143,35 +313,92 @@
         "next": "Il décide ce qu’il souhaite dire à sa grand-mère et quelle aide il veut lui demander."
       },
       "clinical_focus": "Inquiétude persistante entre les attaques",
-      "clinical_intro": "La psychiatre rapproche les attaques inattendues que Jules décrit, les trajets qu’il change et la crainte qu’il éprouve entre les épisodes. Dans le trouble panique, certaines attaques arrivent sans prévenir. Elles sont suivies d’inquiétudes persistantes ou de conduites destinées à éviter leur retour. L’évaluation inclut aussi les autres causes possibles. C’est à partir de cette histoire que la psychiatre lui explique son diagnostic."
+      "clinical_intro": "La psychiatre rapproche les attaques inattendues que Jules décrit, les trajets qu’il change et la crainte qu’il éprouve entre les épisodes. Dans le trouble panique, certaines attaques arrivent sans prévenir. Elles sont suivies d’inquiétudes persistantes ou de conduites destinées à éviter leur retour. L’évaluation inclut aussi les autres causes possibles. C’est à partir de cette histoire que la psychiatre lui explique son diagnostic.",
+      "conclusion": "La psychiatre pose le diagnostic après avoir repris les épisodes et leurs conséquences. Jules choisit de parler à Solange quand ils auront du temps. Il pourra lui dire comment ses déplacements ont changé et quelle aide lui conviendrait."
     },
     {
       "number": 4,
       "slug": "jules-enveloppe-pour-solange",
-      "title": "Parler de la peur après le diagnostic de trouble panique",
-      "description": "Jules parle du diagnostic à Solange. Il choisit ce qu’il veut lui confier et l’appui qu’il aimerait garder autour de ses dessins.",
+      "title": "Quand la peur d’une nouvelle attaque change la place des proches",
+      "description": "Jules explique le détour du marché à Solange. La présence de sa grand-mère pourrait le rassurer, mais il garde le choix de son trajet.",
       "context": "Lors d’un appel à sa grand-mère, quelques jours après le diagnostic",
       "topics": [
-        "Crainte d’être surprotégé",
-        "Confidentialité",
-        "Soutien choisi"
+        "Crainte d’une nouvelle attaque",
+        "Accompagnement choisi",
+        "Lien avec un proche"
       ],
-      "opening": "Jules a répété les mots « trouble panique » avant d’appeler Solange. Il voudrait lui expliquer pourquoi il passe par l’autre porte du marché et se demande si elle va penser qu’il lui faut désormais quelqu’un pour chaque trajet. Quand elle décroche, elle lui demande s’il a choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et se demandait pourquoi il avait laissé un triangle blanc. Jules lui explique que c’est là que le verre prend la lumière. Il écoute sa réponse avant de remettre la feuille dans l’enveloppe.\n\nElle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il lui parle de l’allée et lui dit que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.\n\nIl garde un doigt sur le bord de l’enveloppe. Il n’a pas envie que Solange passe sa matinée à l’attendre devant l’allée. En revanche, il aimerait qu’elle lui dise ce qui se voit sur le dessin avant même qu’on cherche les détails. Il lui dit qu’il n’a pas besoin d’être accompagné demain. Est-ce qu’elle aurait le temps de regarder le papier quand elle le recevra ?",
+      "opening": "Jules a répété les mots « trouble panique » avant d’appeler Solange. Il voudrait lui expliquer pourquoi il passe par l’autre porte du marché et se demande si elle va penser qu’il lui faut désormais quelqu’un pour chaque trajet. Quand elle décroche, elle lui demande s’il a choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et se demandait pourquoi il avait laissé un triangle blanc. Jules lui explique que c’est là que le verre prend la lumière. Il écoute sa réponse avant de remettre la feuille dans l’enveloppe.\n\nElle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il lui parle de l’allée et lui dit que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.\n\nIl garde un doigt sur le bord de l’enveloppe. Un instant, il imagine le soulagement qu’il éprouverait en voyant Solange devant la porte. Il pense aussi à la façon dont il a l’habitude d’arriver au stand. Il n’a pas envie que Solange passe sa matinée à l’attendre devant l’allée. En revanche, il aimerait qu’elle lui dise ce qui se voit sur le dessin avant même qu’on cherche les détails. Il lui dit qu’il n’a pas besoin d’être accompagné demain. Est-ce qu’elle aurait le temps de regarder le papier quand elle le recevra ?",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Parler d’un diagnostic à la mesure du lien",
-          "text": "Après un diagnostic, une personne peut choisir ce qu’elle partage et le type d’aide qu’elle souhaite recevoir. Jules dit à Solange le nom du trouble et le fait que le suivi continue. Il peut garder pour les consultations la description de certains épisodes. Leur conversation peut porter sur une question de transport, sur une inquiétude ou sur un dessin, selon ce qu’ils ont envie d’échanger."
+          "heading": "L’aide imaginée avant le trajet",
+          "text": "La peur de revivre une attaque peut entrer dans le choix d’un itinéraire et donner envie d’être accompagné. Jules se représente Solange à l’entrée du marché et peut comprendre en quoi sa présence lui ferait du bien. Il souhaite aussi garder la possibilité de se rendre au stand comme il en a l’habitude. Sa grand-mère connaît le trajet qui a changé et ce qu’il lui dit de son suivi. Le reste de la discussion peut porter sur ce qu’il aimerait partager avec elle, y compris le dessin qui les intéresse tous les deux."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Solange peut préciser ce qu’elle a compris et poser une question à laquelle Jules est libre de répondre.\n\nL’aide d’un proche dépend aussi de son temps et de ses possibilités. Solange lui propose de venir au marché parce qu’elle veut être présente. Jules préfère d’abord qu’ils gardent le rendez-vous autour du dessin. Si une autre demande se présente, ils pourront voir ensemble ce qu’elle peut faire. Pour les décisions de soin, Jules a déjà des professionnels auxquels s’adresser."
+          "heading": "Comment la peur entre les attaques modifie-t-elle la place de l’entourage ?",
+          "points": [
+            {
+              "heading": "Le trajet est déjà repensé",
+              "text": "L’anticipation peut prendre une place régulière que l’entourage voit seulement par ses effets.",
+              "examples": [
+                "Jules passe par une autre porte et voudrait expliquer ce changement à Solange.",
+                "Une personne peut quitter plus tôt une réunion par crainte de reprendre le métro après la foule."
+              ]
+            },
+            {
+              "heading": "L’accompagnement paraît rassurant",
+              "text": "L’idée de la présence d’un proche peut sembler rassurante quand on redoute une nouvelle attaque. La personne peut aussi préférer décider seule de ce trajet précis.",
+              "examples": [
+                "Jules s’imagine un instant retrouver sa grand-mère devant l’entrée.",
+                "Solange propose de venir au marché avec lui dès le lendemain."
+              ]
+            },
+            {
+              "heading": "D’autres échanges gardent leur sens",
+              "text": "La peur peut envahir la préparation d’une rencontre et laisser de la place à un intérêt partagé pendant celle-ci.",
+              "examples": [
+                "Jules explique la lumière dans le triangle blanc du dessin.",
+                "Il demande ensuite à Solange de lui dire ce qu’elle voit sur la feuille."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Recevoir une proposition et la modifier",
-          "text": "Jules peut entendre la proposition d’accompagnement et lui répondre sur ce qui lui conviendrait cette semaine. Il peut lui donner un jour où lui téléphoner ou lui demander un avis sur l’angle de la verrière. Si Solange souhaite en savoir plus sur la prise en charge, il peut lui proposer d’en parler après le prochain entretien. Il choisira alors les informations qu’il veut transmettre.\n\nCertaines aides rendent une activité plus facile sur le moment. Leur place peut être discutée avec la personne concernée et, si cela touche au suivi, avec la professionnelle. Solange peut aussi continuer à lui parler de ses propres projets. Jules veut lui demander qui a gagné au café la semaine dernière. Ce qu’ils se racontent ne dépend pas seulement de ce qu’il a appris en consultation."
+          "heading": "3 techniques pour choisir l’aide dont on a envie",
+          "points": [
+            {
+              "heading": "Décrire un effet concret",
+              "objective": "Raconter ce qui change sans devoir détailler tout le suivi.",
+              "exercise": [
+                "Choisissez le trajet dont vous souhaitez parler.",
+                "Dites à quel moment la peur prend de la place.",
+                "Précisez quelle information vous voulez partager."
+              ],
+              "benefit": "Le proche peut comprendre un changement observable."
+            },
+            {
+              "heading": "Répondre à une proposition d’accompagnement",
+              "objective": "Garder le choix de ce qui convient pour une sortie donnée.",
+              "exercise": [
+                "Écoutez l’aide proposée.",
+                "Dites si vous la voulez pour cette fois.",
+                "Rediscutez d’un autre soutien si vous en avez envie."
+              ],
+              "benefit": "Chacun peut tenir compte de ses propres engagements."
+            },
+            {
+              "heading": "Garder le rendez-vous autour du dessin",
+              "objective": "Faire une place à un intérêt partagé.",
+              "exercise": [
+                "Envoyez le croquis que vous avez choisi.",
+                "Posez une question sur un détail de l’image.",
+                "Convenez du moment où l’autre pourra répondre."
+              ],
+              "benefit": "L’échange peut rester un plaisir distinct de la question des trajets."
+            }
+          ]
         }
       ],
       "ending_title": "Le triangle de lumière",
@@ -187,36 +414,93 @@
         "choice": "Jules partage le diagnostic avec Solange, décline l’accompagnement du lendemain et lui envoie le croquis qu’il a choisi.",
         "next": "Il discute avec la psychiatre d’un soin structuré et du retour au dessin comme objectif personnel."
       },
-      "clinical_focus": "Divulgation choisie du diagnostic",
-      "clinical_intro": "Jules parle du trouble panique à Solange et lui dit que certaines allées du marché lui coûtent encore. Elle lui propose de venir avec lui. Il préfère garder pour l’instant leur rendez-vous autour du dessin, dont il attend aussi du réconfort. Le diagnostic donne des mots à leur échange et Jules peut préciser le soutien qu’il aimerait recevoir, dans une relation qui garde ses autres sujets."
+      "clinical_focus": "Appréhension et place de l’accompagnement",
+      "clinical_intro": "En parlant à sa grand-mère du détour qu’il fait au marché, Jules imagine qu’il se sentirait rassuré s’il la retrouvait près de la porte. Dans le trouble panique, la crainte d’une nouvelle attaque peut modifier la manière de prévoir un trajet et la place qu’on donne à une personne de confiance. Jules choisit l’appui qu’il souhaite pour le lendemain.",
+      "conclusion": "Jules choisit ce que Solange saura du diagnostic et ce qu’ils feront ensemble. Elle peut écouter sa préférence pour le lendemain et répondre au croquis quand elle le recevra."
     },
     {
       "number": 5,
       "slug": "jules-essai-convenu",
-      "title": "Travailler sur la peur et retrouver une activité évitée",
-      "description": "Avec la psychiatre, Jules discute d’une thérapie et choisit le dessin au marché comme premier sujet de travail.",
+      "title": "Quand le souvenir d’une sensation fait redouter la prochaine attaque",
+      "description": "Jules revient sur les battements dans l’allée. Avec sa psychiatre, il précise ce qu’il redoute lorsqu’il imagine reprendre le dessin.",
       "context": "Au deuxième entretien avec la psychiatre, pour discuter de la prise en charge",
       "topics": [
-        "Évitement des activités",
-        "Peur des sensations",
-        "Objectifs de soin choisis"
+        "Sensations redoutées",
+        "Crainte de récidive",
+        "Thérapie encadrée"
       ],
-      "opening": "Jules a apporté une feuille où il a dessiné trois emplacements de la table de Samuel. Il se rappelle où il s’asseyait et à quel moment les commerçants repliaient les caisses. Le samedi où il a décliné la dernière invitation, Samuel proposait de dessiner les mains qui travaillent. Jules aurait voulu prendre pour modèle la façon dont Sonia bloque les tiges sous son pouce. Il peut encore se rappeler la position de sa main, mais il aimerait travailler devant un modèle qui bouge.\n\nAu cabinet, la psychiatre reprend les possibilités de soin. Elle lui parle d’une thérapie cognitivo-comportementale pour le trouble panique. Jules demande si cela veut dire qu’il devra s’installer au milieu du marché jusqu’à ce qu’il n’ait plus peur. Il pense au samedi où il a réussi à rester devant une porte quelques instants, puis à la fois où une sensation inhabituelle a conduit Sonia à appeler. Il veut savoir comment le travail tiendra compte de ces deux expériences.\n\nLa psychiatre lui propose de partir d’une activité qui lui tient à cœur, de comprendre ce qui lui arrive autour de ses trajets et de choisir avec lui ce qu’ils pourraient essayer dans le suivi. Jules peut poser des questions sur le cadre, dire ce qui lui paraît trop difficile et revenir sur son accord. Il rapproche la feuille qu’il avait laissée sur le côté. Il voudrait commencer par ce que représente la table de dessin, et garder le choix du moment où il reparlera du marché avec Sonia.",
+      "opening": "Jules a apporté une feuille où il a dessiné trois emplacements de la table de Samuel. Il se rappelle où il s’asseyait et à quel moment les commerçants repliaient les caisses. Le samedi où il a décliné la dernière invitation, Samuel proposait de dessiner les mains qui travaillent. Jules aurait voulu prendre pour modèle la façon dont Sonia bloque les tiges sous son pouce. Il peut encore se rappeler la position de sa main, mais il aimerait travailler devant un modèle qui bouge.\n\nAu cabinet, la psychiatre reprend les possibilités de soin. Elle lui parle d’une thérapie cognitivo-comportementale pour le trouble panique. Jules demande si cela veut dire qu’il devra s’installer au milieu du marché jusqu’à ce qu’il n’ait plus peur. Il se souvient du cœur qui battait très fort dans l’allée. Rien qu’à imaginer le trajet jusqu’à la table, il se demande s’il pourrait se sentir de nouveau sur le point de tomber. Il pense au samedi où il a réussi à rester devant une porte quelques instants, puis à la fois où une sensation inhabituelle a conduit Sonia à appeler. Il veut savoir comment le travail tiendra compte de ces deux expériences.\n\nLa psychiatre lui propose de partir d’une activité qui lui tient à cœur, de comprendre ce qui lui arrive autour de ses trajets et de choisir avec lui ce qu’ils pourraient essayer dans le suivi. Jules peut poser des questions sur le cadre, dire ce qui lui paraît trop difficile et revenir sur son accord. Il rapproche la feuille qu’il avait laissée sur le côté. Il voudrait commencer par ce que représente la table de dessin, et garder le choix du moment où il reparlera du marché avec Sonia.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qui se décide avec le professionnel",
-          "text": "La thérapie cognitivo-comportementale fait partie des prises en charge recommandées du trouble panique. Les possibilités de soin dépendent notamment de la gêne, des besoins et des préférences de la personne. Une professionnelle formée peut proposer un travail sur les sensations, sur ce que la personne redoute et sur les situations qu’elle évite. Elle en discute avec elle, y compris lorsque le soin comprend des essais dans des situations choisies."
+          "heading": "La peur de ce que la sensation pourrait annoncer",
+          "text": "Dans le trouble panique, la crainte d’une prochaine attaque peut rester liée à des sensations déjà éprouvées et à leur signification pour la personne. Jules revient aux battements et à la peur de tomber. Il veut comprendre ce qui se passe quand ces souvenirs occupent ses trajets. La thérapie cognitivo-comportementale est une option structurée dont il discute avec sa psychiatre. Ils peuvent choisir ensemble les objectifs et le cadre du travail. Une sensation nouvelle ou différente demande un avis approprié selon la situation, comme le montre la prise en charge précédente."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Jules peut demander quel est le but d’un essai et comment il sera accompagné.\n\nDans son cas, ils envisagent d’abord un travail encadré. La psychiatre pourra revoir ce qu’ils ont convenu avec lui, entendre ce qu’il ressent et ajuster le cadre. Les décisions sur la santé et sur les symptômes inhabituels restent du ressort des professionnels. Jules veut savoir à qui s’adresser si quelque chose de nouveau survient. Cette question trouve sa place dans la préparation de son suivi."
+          "heading": "Comment la crainte de ce qu’annonce une sensation gêne-t-elle une reprise ?",
+          "points": [
+            {
+              "heading": "Le souvenir du corps revient",
+              "text": "Se rappeler une sensation très impressionnante peut raviver la crainte d’une autre attaque.",
+              "examples": [
+                "Jules se souvient du cœur qui battait fort dans l’allée et imagine ce qui se passerait en revenant.",
+                "Quelqu’un peut redouter le retour d’un vertige qu’il a ressenti au cours d’un épisode de panique."
+              ]
+            },
+            {
+              "heading": "Une situation est redoutée pour ce qui pourrait s’y passer",
+              "text": "La peur anticipée peut porter sur le déroulement de la sensation autant que sur le lieu.",
+              "examples": [
+                "Jules se demande s’il devrait rester à la table avec la peur jusqu’à ce qu’elle disparaisse.",
+                "Dans le bus, une personne peut se demander si elle pourra demander de l’aide si elle se sent de nouveau mal."
+              ]
+            },
+            {
+              "heading": "Le doute porte aussi sur le sens du signe",
+              "text": "La même personne peut avoir des attaques connues et des signes qui demandent une évaluation médicale.",
+              "examples": [
+                "Jules différencie le souvenir de l’allée du jour où la douleur nouvelle a conduit Sonia à appeler.",
+                "Il veut savoir quelle place ces deux expériences auront dans le suivi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un objectif qui appartient à Jules",
-          "text": "Jules explique que le dessin lui manque davantage que le fait d’emprunter telle allée. Il aimerait pouvoir revoir Samuel, regarder les gestes des commerçants et choisir le sujet de sa feuille. Cela donne un point de départ au soin. Il peut aussi dire ce qui lui importe au travail. Les besoins de l’apprentissage et les essais thérapeutiques gardent chacun leur cadre.\n\nSolange peut entendre qu’il souhaite reprendre une activité et lui demander ce qu’il voudrait lui raconter. Sonia peut discuter des tâches qui s’accordent avec le fonctionnement du stand. La conduite d’un essai reste entre Jules et la professionnelle. Il peut souhaiter leur soutien pour une chose précise et préférer garder le reste pour le rendez-vous."
+          "heading": "3 techniques pour définir le travail avec la psychiatre",
+          "points": [
+            {
+              "heading": "Décrire la crainte derrière la sensation",
+              "objective": "Nommer ce qu’on redoute avant une sortie ou pendant un épisode connu.",
+              "exercise": [
+                "Choisissez un souvenir que vous souhaitez aborder.",
+                "Décrivez la sensation et ce que vous craigniez qu’elle annonce.",
+                "Demandez au professionnel comment il comprend cette expérience."
+              ],
+              "benefit": "Cette description peut préciser le but du travail thérapeutique."
+            },
+            {
+              "heading": "Choisir un objectif personnel",
+              "objective": "Partir de l’activité que la personne veut retrouver.",
+              "exercise": [
+                "Nommez l’activité qui compte.",
+                "Dites ce qui la rend difficile aujourd’hui.",
+                "Discutez des options de travail et de leur cadre."
+              ],
+              "benefit": "Le suivi peut porter sur un objectif qui a du sens pour la personne."
+            },
+            {
+              "heading": "Faire préciser le cadre de l’essai",
+              "objective": "Garder un accord sur ce qui peut être essayé en suivi.",
+              "exercise": [
+                "Demandez comment l’essai sera préparé.",
+                "Dites comment vous voulez pouvoir demander une pause.",
+                "Vérifiez avec le professionnel à qui parler d’un signe inhabituel."
+              ],
+              "benefit": "Chacun peut savoir comment agir si l’expérience change de forme."
+            }
+          ]
         }
       ],
       "ending_title": "La main qui tient les tiges",
@@ -232,8 +516,9 @@
         "choice": "Jules choisit de commencer un travail encadré et propose de partir de la table de dessin.",
         "next": "Au marché, il formule une demande précise sur ses tâches en discutant d’une commande avec Sonia."
       },
-      "clinical_focus": "Thérapie cognitivo-comportementale du trouble panique",
-      "clinical_intro": "Jules aimerait dessiner les mains de Sonia et a déjà refusé une rencontre au marché. La thérapie cognitivo-comportementale du trouble panique peut travailler les sensations, les inquiétudes qu’elles déclenchent et les activités que la personne évite. Avec sa psychiatre, Jules choisit un objectif qui lui importe et discute de la façon dont ils prépareront ensemble un premier essai."
+      "clinical_focus": "Crainte liée au sens des sensations",
+      "clinical_intro": "Jules se souvient des battements qui l’ont surpris dans l’allée. Il redoute ce qu’il pourrait ressentir de nouveau s’il retourne dessiner. La peur de la prochaine attaque peut prendre appui sur le souvenir de sensations et sur ce que la personne imagine qu’elles annoncent. Avec sa psychiatre, Jules parle de cette crainte et choisit un objectif pour le suivi.",
+      "conclusion": "Jules choisit de travailler sur la peur qui se met entre lui et la table de dessin. Il prépare la suite avec la psychiatre. Au stand, il garde pour plus tard la discussion sur les livraisons qui lui coûtent."
     },
     {
       "number": 6,
@@ -255,13 +540,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Un aménagement ponctuel ne permet pas de prévoir ce que Jules souhaitera à l’avenir. Il peut expliquer à la psychiatre ce qui l’a aidé à prendre part à la commande et ce qu’il évite encore. Le soin garde son propre cadre. L’accord entre Sonia et Jules répond aujourd’hui à une tâche, à un horaire et aux personnes disponibles. Ils peuvent choisir de revoir la répartition lors d’une autre commande."
+          "heading": "Comment l’évitement transforme-t-il une tâche de travail ?",
+          "points": [
+            {
+              "heading": "Une partie du métier reste accessible",
+              "text": "La peur peut porter sur un déplacement précis et laisser de la place à d’autres gestes.",
+              "examples": [
+                "Jules associe la bordure orange à des pavots.",
+                "Il a une idée pour les branches qui dépasseront de chaque côté du vase."
+              ]
+            },
+            {
+              "heading": "Le trajet est passé à d’autres",
+              "text": "Des ajustements répétés peuvent modifier les occasions de pratiquer une partie du métier.",
+              "examples": [
+                "Jules a déjà trouvé plusieurs raisons de confier les livraisons.",
+                "Cette commande exige d’aller au bout de l’allée centrale à l’heure du service."
+              ]
+            },
+            {
+              "heading": "Ce que le client voit change",
+              "text": "Le relais peut laisser une contribution visible ou éloigner la personne de la présentation qu’elle voulait faire.",
+              "examples": [
+                "Jules souhaite expliquer lui-même son assemblage.",
+                "Il propose de montrer les fleurs au stand avant qu’une collègue fasse le déplacement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce que l’équipe doit savoir",
-          "text": "Sonia peut avoir besoin de savoir qui porte le bouquet et qui répond aux questions de la cliente. Jules peut lui dire que les passages dans certaines allées lui demandent beaucoup en ce moment et qu’il en parle dans son suivi. Il peut aussi lui demander de communiquer seulement la répartition des tâches à la collègue qui les aide. Le détail du diagnostic et des rendez-vous peut rester dans l’échange privé.\n\nSi personne ne peut livrer le bouquet, Sonia et Jules peuvent convenir d’une autre heure avec la cliente ou lui demander si elle veut le prendre au stand. Chacun garde une marge pour dire ce qui lui est possible. La cliente pourra choisir le bouquet en voyant l’essai. Jules aimerait entendre ce qu’elle pense de la bordure orange."
+          "heading": "3 techniques pour préciser l’effet de l’évitement au travail",
+          "points": [
+            {
+              "heading": "Décomposer la commande",
+              "objective": "Voir quelle partie du travail demande un ajustement.",
+              "exercise": [
+                "Repérez les gestes de préparation.",
+                "Identifiez le trajet qui pose difficulté.",
+                "Choisissez ce que vous voulez présenter à la cliente."
+              ],
+              "benefit": "Le relais peut viser la tâche qui gêne le moins votre apprentissage."
+            },
+            {
+              "heading": "Parler à l’interlocutrice concernée",
+              "objective": "Définir ce que Sonia doit savoir pour organiser le service.",
+              "exercise": [
+                "Demandez un moment à l’écart.",
+                "Décrivez la tâche qui vous coûte et celle que vous pouvez garder.",
+                "Convenez de ce qui sera annoncé au stand."
+              ],
+              "benefit": "L’organisation peut s’appuyer sur des informations utiles et choisies."
+            },
+            {
+              "heading": "Faire le point au rendez-vous",
+              "objective": "Examiner comment les changements du travail se répètent.",
+              "exercise": [
+                "Notez la livraison que vous avez confiée.",
+                "Ajoutez ce que vous avez pu faire vous-même.",
+                "Décrivez les autres trajets devenus difficiles au professionnel qui vous suit."
+              ],
+              "benefit": "Le suivi peut examiner les effets de l’évitement sur les activités."
+            }
+          ]
         }
       ],
       "ending_title": "Les pavots au bord du tissu",
@@ -278,7 +619,8 @@
         "next": "Avec la psychiatre, il revient sur cette matinée et décide du premier essai accompagné."
       },
       "clinical_focus": "Retentissement professionnel de l’évitement",
-      "clinical_intro": "Jules imagine le bouquet de la cliente et s’inquiète déjà de devoir le livrer à travers le marché. Le trouble panique peut peser sur une partie d’un travail alors que d’autres gestes restent possibles et plaisants. Il précise à Sonia quel trajet lui pose difficulté. Le relais leur permet de répartir une tâche concrète, et Jules pourra raconter cette situation dans le cadre du suivi."
+      "clinical_intro": "Jules imagine le bouquet de la cliente et s’inquiète déjà de devoir le livrer à travers le marché. Le trouble panique peut peser sur une partie d’un travail alors que d’autres gestes restent possibles et plaisants. Il précise à Sonia quel trajet lui pose difficulté. Le relais leur permet de répartir une tâche concrète, et Jules pourra raconter cette situation dans le cadre du suivi.",
+      "conclusion": "Jules présente les couleurs du bouquet et garde une trace de ce qui a demandé un relais. Sonia peut traiter ce déplacement avec l’équipe. Les trajets qui deviennent régulièrement difficiles pourront être abordés en consultation."
     },
     {
       "number": 7,
@@ -300,13 +642,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La réaction de Jules pendant l’essai ne confirme aucun diagnostic et ne permet pas de prévoir le prochain trajet. La psychiatre peut revoir avec lui le cadre des séances et répondre aux questions sur les symptômes. Un signe nouveau ou aigu garde sa place dans l’évaluation médicale, y compris au cours d’un essai."
+          "heading": "Comment l’anxiété d’anticipation change-t-elle pendant un essai accompagné ?",
+          "points": [
+            {
+              "heading": "La scène imaginée avant le départ",
+              "text": "Avant une situation redoutée, la personne peut s’attendre au retour de la peur dans un cadre choisi avec le professionnel.",
+              "examples": [
+                "Jules regarde les gens disparaître sous la verrière.",
+                "Il pense à ce qu’il pourra dire à la psychiatre s’il préfère s’arrêter."
+              ]
+            },
+            {
+              "heading": "Des détails changent la situation réelle",
+              "text": "Ce qu’on entend ou voit sur place peut prendre une importance imprévue.",
+              "examples": [
+                "Le bruit du chariot se détache à mesure qu’il avance.",
+                "Près de la caisse, il lit le titre du livre et perd le fil du prix."
+              ]
+            },
+            {
+              "heading": "Le choix se précise en cours de route",
+              "text": "La personne peut accepter de commencer et choisir ensuite un point d’arrêt.",
+              "examples": [
+                "Jules dit d’abord qu’il souhaite commencer.",
+                "Arrivé à la caisse, il demande à s’arrêter et reprend ce qui s’est passé avec la psychiatre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce que l’on voudrait reprendre",
-          "text": "Jules peut raconter qu’il a oublié le prix tout en se rappelant la couverture. Il peut aussi dire qu’il ne veut pas reprendre l’essai de la même façon la prochaine fois. La psychiatre peut l’aider à distinguer ce qu’il souhaite poursuivre de ce qui mérite un ajustement. L’itinéraire et le rythme sont discutés avec lui. La table de dessin reste une activité dont il peut avoir envie même s’il remet à plus tard une partie du travail convenu.\n\nSamuel peut lui donner des nouvelles du groupe sans lui demander des détails sur sa venue. S’il propose un prochain samedi, Jules peut réfléchir à ce qu’il veut de cette sortie et en reparler dans son suivi. Il garde aussi le droit de vouloir simplement acheter un livre un autre jour."
+          "heading": "3 techniques pour garder sa place dans un essai préparé en soin",
+          "points": [
+            {
+              "heading": "Reprendre l’accord avant l’essai",
+              "objective": "Pouvoir redire ce qui convient au moment où l’essai commence.",
+              "exercise": [
+                "Revoyez avec le professionnel le but retenu.",
+                "Rappelez le signal de pause convenu.",
+                "Dites si vous voulez commencer maintenant."
+              ],
+              "benefit": "L’accord peut tenir compte du moment et de ce que vous ressentez."
+            },
+            {
+              "heading": "Décrire ce qui change sur place",
+              "objective": "Aider le professionnel à comprendre l’écart entre le prévu et le vécu.",
+              "exercise": [
+                "Repérez un détail qui prend de la place.",
+                "Dites ce qui a changé dans votre attention ou votre peur.",
+                "Demandez une pause ou l’arrêt si vous le souhaitez."
+              ],
+              "benefit": "Le professionnel peut adapter l’essai à ce que vous lui signalez."
+            },
+            {
+              "heading": "Garder une trace pour le suivi",
+              "objective": "Retrouver les faits qui ont compté dans l’essai.",
+              "exercise": [
+                "Situez le moment où la peur a changé.",
+                "Décrivez votre décision à ce moment.",
+                "Convenez avec le professionnel de ce que vous reprendrez."
+              ],
+              "benefit": "L’échange peut porter sur une expérience précise."
+            }
+          ]
         }
       ],
       "ending_title": "La couverture qu’il retient",
@@ -323,7 +721,8 @@
         "next": "Invité à la table de dessin, il choisit de partir plus tôt que prévu et doit faire une place à sa déception."
       },
       "clinical_focus": "Anxiété avant une situation redoutée",
-      "clinical_intro": "Jules veut voir les livres de Samuel et observe l’entrée du marché avant d’avancer. La peur commence ici dans ce qu’il s’attend à vivre. Un essai préparé avec sa psychiatre permet de revenir sur ses attentes et sur ce qu’il éprouve sur place. Il peut lui dire quand il veut s’arrêter et reprendre ensuite ce qui l’a surpris, dont le bruit soudain d’un chariot."
+      "clinical_intro": "Jules veut voir les livres de Samuel et observe l’entrée du marché avant d’avancer. La peur commence ici dans ce qu’il s’attend à vivre. Un essai préparé avec sa psychiatre permet de revenir sur ses attentes et sur ce qu’il éprouve sur place. Il peut lui dire quand il veut s’arrêter et reprendre ensuite ce qui l’a surpris, dont le bruit soudain d’un chariot.",
+      "conclusion": "Jules a pu dire où son expérience s’écartait de ce qu’il avait imaginé. La psychiatre reprend avec lui le choix de s’arrêter. Il demande à Samuel les nouvelles du livre parce qu’il l’intéresse encore."
     },
     {
       "number": 8,
@@ -345,13 +744,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Un essai convenu dans le suivi et une sortie de loisir ont chacun leur place. Le samedi lui permet de dire ce qu’il cherche dans cette activité et ce qui peut l’empêcher d’y rester. La psychiatre peut revoir avec lui ce qu’il veut poursuivre. Jules peut lui parler d’un changement dans la nature de ses symptômes s’il survient. Les signes aigus inhabituels relèvent d’une évaluation médicale adaptée."
+          "heading": "Comment une sortie écourtée affecte-t-elle l’activité qu’on voulait reprendre ?",
+          "points": [
+            {
+              "heading": "Le lieu a changé depuis la dernière fois",
+              "text": "Un contexte plus chargé peut modifier l’effort que demande une activité pourtant connue.",
+              "examples": [
+                "Le marché est plus bruyant et la table est tournée autrement.",
+                "Les passants derrière la chaise retiennent l’attention de Jules."
+              ]
+            },
+            {
+              "heading": "La peur prend la place du geste",
+              "text": "La préoccupation de revivre une attaque peut gêner la concentration sur le sujet choisi.",
+              "examples": [
+                "Jules perd de vue le pouce de la commerçante.",
+                "Une personne peut perdre le fil d’un dessin chaque fois que quelqu’un se place derrière sa chaise."
+              ]
+            },
+            {
+              "heading": "La déception porte sur ce qui manque",
+              "text": "Écourter une activité peut laisser une perte précise dont la personne souhaite parler.",
+              "examples": [
+                "Jules plie une feuille où le geste n’est pas terminé.",
+                "Il hésite à montrer le croquis à Solange alors que le pli fait partie de ce qui s’est passé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Quitter la table en gardant le lien",
-          "text": "Samuel peut demander ce que Jules souhaite faire de la feuille. Il peut lui donner l’information sur la prochaine séance ou attendre qu’il la demande. Jules peut rentrer avec le dessin inachevé et choisir s’il veut l’envoyer. Il peut aussi demander à Samuel de lui raconter le sujet suivant plutôt que de lui expliquer pourquoi il est parti.\n\nS’il veut revenir sur ce samedi en consultation, il peut dire ce qu’il a vu depuis sa chaise, à quel moment son attention a changé et ce dont il aurait eu envie sur place. Ce récit peut aider la psychiatre à comprendre l’effet des inquiétudes sur une activité qui lui plaît. L’endroit où il choisira de dessiner la prochaine fois pourra rester une question ouverte."
+          "heading": "3 techniques pour faire place à une sortie différente de celle prévue",
+          "points": [
+            {
+              "heading": "Comparer les deux situations",
+              "objective": "Repérer ce qui a changé dans le lieu et l’activité.",
+              "exercise": [
+                "Notez un détail du jour de l’essai.",
+                "Notez ce qui était différent à la table.",
+                "Décrivez comment cela a affecté votre dessin."
+              ],
+              "benefit": "Ces faits peuvent nourrir une discussion au prochain rendez-vous."
+            },
+            {
+              "heading": "Choisir l’aide à la sortie",
+              "objective": "Dire ce qui convient au moment de quitter la table.",
+              "exercise": [
+                "Dites que vous souhaitez partir.",
+                "Choisissez si quelqu’un vous accompagne.",
+                "Laissez à l’organisateur le temps de reprendre la chaise."
+              ],
+              "benefit": "Le départ peut se faire avec un accord simple."
+            },
+            {
+              "heading": "Partager la part qui reste",
+              "objective": "Raconter l’expérience à travers un détail choisi.",
+              "exercise": [
+                "Gardez la feuille comme elle est.",
+                "Dites ce qui vous déçoit.",
+                "Choisissez à qui montrer un détail encore intéressant."
+              ],
+              "benefit": "L’échange peut faire place à la déception et au dessin."
+            }
+          ]
         }
       ],
       "ending_title": "Le pouce au milieu du pli",
@@ -368,7 +823,8 @@
         "next": "Un arrêt déplacé complique la visite qu’il veut rendre à sa grand-mère. Il doit décider du trajet avec les informations disponibles."
       },
       "clinical_focus": "Peur variable selon la situation",
-      "clinical_intro": "Jules dessine quelques traits au marché et découvre que les gens passent juste derrière sa chaise. Il choisit de partir et confie sa déception à Solange. La peur liée au trouble panique peut varier selon le jour et le contexte. Comparer cette matinée à l’essai près de la librairie aide à décrire ce qui lui coûte, tout en gardant la place des gestes qu’il a pu faire."
+      "clinical_intro": "Jules dessine quelques traits au marché et découvre que les gens passent juste derrière sa chaise. Il choisit de partir et confie sa déception à Solange. La peur liée au trouble panique peut varier selon le jour et le contexte. Comparer cette matinée à l’essai près de la librairie aide à décrire ce qui lui coûte, tout en gardant la place des gestes qu’il a pu faire.",
+      "conclusion": "Jules rentre avec une feuille incomplète. Il peut raconter la gêne et reconnaître le geste qu’il a aperçu. Solange répond au dessin qu’il souhaite lui montrer, et Samuel reste libre de reprendre la chaise."
     },
     {
       "number": 9,
@@ -390,13 +846,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Jules connaît une rue qu’il trouve agréable. Il craint également de revivre un épisode dans le bus. Son choix d’aujourd’hui ne dit pas à lui seul comment il souhaite travailler sur cette inquiétude. Les essais thérapeutiques restent ceux qu’il définit avec la psychiatre. Il peut aussi vouloir rentrer, faire la visite ou modifier son projet pour des raisons ordinaires."
+          "heading": "Comment la peur anticipée se mêle-t-elle à un obstacle réel de trajet ?",
+          "points": [
+            {
+              "heading": "Le passage est réellement fermé",
+              "text": "Une déviation demande une réponse concrète même si le déplacement était déjà redouté.",
+              "examples": [
+                "La flèche orange dirige Jules vers un autre arrêt.",
+                "Les barrières l’obligent à rester sur le trottoir accessible et à demander le passage à l’agent."
+              ]
+            },
+            {
+              "heading": "La pensée revient à une autre sortie",
+              "text": "Le changement de trajet peut raviver la crainte de se sentir coincé si la peur revient.",
+              "examples": [
+                "Jules pense au bus qu’il avait évité un samedi de marché.",
+                "Il craint d’être loin d’un endroit où descendre."
+              ]
+            },
+            {
+              "heading": "L’heure de la rencontre entre dans le choix",
+              "text": "Des contraintes concrètes s’ajoutent à l’anticipation et peuvent rendre la décision difficile.",
+              "examples": [
+                "Jules ne sait pas s’il arrivera avant la fin de la première partie.",
+                "Solange peut attendre mais ne peut pas venir jusqu’au carrefour."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une visite qui convienne aux deux",
-          "text": "Solange peut lui dire quand elle est disponible. Elle peut proposer de montrer l’entrée du bâtiment depuis sa fenêtre, si c’est ce dont Jules a besoin. Elle n’a pas à quitter les voisins pour prendre en charge le trajet. Jules peut lui demander une information précise, choisir l’itinéraire ou proposer de revenir. L’agent du réseau est le bon interlocuteur pour une question de circulation et les consignes liées aux travaux restent les mêmes.\n\nS’il vient, Jules pourra dessiner la partie qui l’intéresse et discuter avec les voisins de ce qu’il fera du croquis. S’il préfère reporter, le projet pourra être repris. L’objectif qu’il se donne aujourd’hui est de voir Solange et de regarder les mains autour de la table. Le trajet sert à s’y rendre."
+          "heading": "3 techniques pour choisir parmi les trajets possibles",
+          "points": [
+            {
+              "heading": "Obtenir l’information de circulation",
+              "objective": "Reprendre le trajet à partir des indications du réseau.",
+              "exercise": [
+                "Restez hors de la zone de travaux.",
+                "Demandez où se prend le bus et quel chemin est ouvert.",
+                "Comparez les deux itinéraires confirmés."
+              ],
+              "benefit": "La décision peut tenir compte de l’accès réel."
+            },
+            {
+              "heading": "Demander le temps dont chacun dispose",
+              "objective": "Décider de la visite avec les personnes concernées.",
+              "exercise": [
+                "Donnez à votre proche l’heure d’arrivée possible.",
+                "Demandez combien de temps il peut vous attendre.",
+                "Choisissez de maintenir la visite ou d’en fixer une autre."
+              ],
+              "benefit": "La sortie peut tenir compte de votre choix et de celui du proche."
+            },
+            {
+              "heading": "Décrire ce qui vous préoccupait",
+              "objective": "Distinguer l’obstacle du trajet de ce que vous redoutiez.",
+              "exercise": [
+                "Notez le changement d’arrêt.",
+                "Ajoutez ce que vous craigniez en montant dans le bus.",
+                "Parlez de ces deux éléments au prochain suivi."
+              ],
+              "benefit": "La spécialiste peut examiner le rôle de chacun."
+            }
+          ]
         }
       ],
       "ending_title": "La rue qu’il connaît à pied",
@@ -413,7 +925,8 @@
         "next": "Au cabinet, il compare ces expériences et revoit avec la psychiatre les aides et les contacts qui lui conviennent."
       },
       "clinical_focus": "Peur anticipée et obstacle observable",
-      "clinical_intro": "Le passage est réellement fermé par des barrières, et Jules s’inquiète aussi de ce qui pourrait lui arriver en chemin. Dans le suivi du trouble panique, il peut distinguer ce qu’il redoute et la contrainte qu’un agent du réseau peut vérifier. Les deux pèsent sur son choix. Une information sur le nouvel arrêt lui rend des possibilités sans effacer d’un coup la peur du trajet."
+      "clinical_intro": "Le passage est réellement fermé par des barrières, et Jules s’inquiète aussi de ce qui pourrait lui arriver en chemin. Dans le suivi du trouble panique, il peut distinguer ce qu’il redoute et la contrainte qu’un agent du réseau peut vérifier. Les deux pèsent sur son choix. Une information sur le nouvel arrêt lui rend des possibilités sans effacer d’un coup la peur du trajet.",
+      "conclusion": "Jules suit les indications du réseau et trouve un trajet qui lui convient. Solange lui dit combien de temps elle peut l’attendre. Il gardera le dessin et la feuille du marché pour comparer les deux expériences en consultation."
     },
     {
       "number": 10,
@@ -422,9 +935,9 @@
       "description": "Jules apporte un dessin du marché et un autre de chez Solange. Il revoit avec la psychiatre ce qu’il souhaite poursuivre et qui joindre.",
       "context": "Lors d’un point de suivi avec la psychiatre, après plusieurs sorties différentes",
       "topics": [
-        "Peur selon le contexte",
-        "Sentiment de pouvoir sortir",
-        "Réévaluation du suivi"
+        "Appréhension selon le lieu",
+        "Possibilité d’interrompre",
+        "Repères du suivi"
       ],
       "opening": "Jules pose le croquis de la boîte de dominos à côté de la feuille pliée du marché. Au crayon, les deux mains qu’il a dessinées ne se ressemblent pas. L’une tenait un couvercle à moitié fermé. L’autre a attendu qu’il dessine la position de son pouce avant de poser une pièce. Il explique à la psychiatre que chez Solange, les gens parlaient presque aussi fort qu’au marché. Ce qu’il a trouvé différent, c’est qu’il savait à peu près quand la partie finirait et qu’il pouvait laisser le dessin sur la table en sortant prendre l’air.\n\nIls reviennent sur l’essai accompagné et sur ce que Jules a envie de faire maintenant. Il voudrait revoir Samuel, mais il ne veut pas lui demander de le retrouver devant chaque porte. Il préfère pouvoir lui écrire s’il a une question sur la table, comme n’importe qui dans le groupe. En revanche, il aimerait savoir avec la psychiatre comment adapter le travail qu’ils ont entrepris si ses inquiétudes prennent de nouveau plus de place. Elle lui demande ce qu’il veut garder de leurs accords et ce qu’il voudrait préciser.\n\nJules reparle alors du jour où Sonia a dû appeler les secours. Il ne sait pas toujours à qui poser une question quand elle concerne une sensation différente. La psychiatre l’aide à distinguer les questions de suivi à lui adresser, l’avis médical à demander pour des signes nouveaux, et le recours aux urgences si des signes aigus inquiétants surviennent. Jules garde une page libre pour ce qu’ils auront décidé.",
       "sections": [
@@ -435,13 +948,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le diagnostic connu fournit une information aux soignants. Il ne dispense pas d’évaluer un signe nouveau selon sa nature et le contexte. Jules veut pouvoir expliquer à son médecin ce qui lui paraît inhabituel. S’il présente de nouveau des signes aigus inquiétants, il peut appeler les secours ou demander à la personne avec lui de le faire. Le service d’urgence décide alors de la conduite à tenir."
+          "heading": "Comment les possibilités de pause modifient-elles l’appréhension d’un lieu ?",
+          "points": [
+            {
+              "heading": "Un niveau de bruit comparable, une gêne différente",
+              "text": "Le bruit peut compter avec d’autres caractéristiques de la situation.",
+              "examples": [
+                "Les voisins parlent presque aussi fort que les commerçants.",
+                "Jules dessine plus longtemps chez Solange, où il sait quand la partie devrait se terminer."
+              ]
+            },
+            {
+              "heading": "L’idée de pouvoir reprendre autrement",
+              "text": "Savoir comment interrompre une activité peut modifier la manière dont on imagine le moment.",
+              "examples": [
+                "Jules sait qu’il pourrait laisser le carnet sur la table et sortir prendre l’air chez Solange.",
+                "Au marché, il ne veut pas que Samuel doive l’attendre devant chaque porte."
+              ]
+            },
+            {
+              "heading": "Les aides ont des fonctions distinctes",
+              "text": "Une demande à un ami et une question de soin peuvent répondre à des besoins différents.",
+              "examples": [
+                "Jules peut demander à Samuel quelle place restera libre.",
+                "Il demande à la psychiatre quoi faire si une sensation inhabituelle le préoccupe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Des contacts différents selon le besoin",
-          "text": "Jules peut garder les coordonnées des personnes qui le suivent et demander à quel moment les joindre si son quotidien se complique. Il peut choisir de dire à Sonia qui appeler en urgence et à Samuel qu’il l’informera s’il change d’avis pour la table. Chacun reçoit l’information qui correspond à ce qu’il peut faire. Les détails de l’évaluation restent entre Jules et les professionnels concernés, sauf s’il choisit d’en parler.\n\nLa psychiatre peut proposer de revoir ensemble un essai déjà décidé ou d’en différer un autre. Jules préfère pour l’instant continuer à parler des trajets qui comptent pour lui et des moments où il a voulu se retirer. Il souhaite garder la possibilité de dessiner au marché même si cette activité prend une autre forme que la première fois."
+          "heading": "3 techniques pour préciser ce qui change d’un lieu à l’autre",
+          "points": [
+            {
+              "heading": "Comparer deux moments semblables",
+              "objective": "Décrire ce qui fait varier la gêne pendant la même activité.",
+              "exercise": [
+                "Choisissez deux moments où vous avez dessiné.",
+                "Notez ce que vous saviez de la durée et de l’espace.",
+                "Décrivez ce qui vous a aidé à rester disponible au geste."
+              ],
+              "benefit": "Le professionnel peut mieux comprendre les différences de contexte."
+            },
+            {
+              "heading": "Demander un détail d’organisation",
+              "objective": "Obtenir l’information qui aidera à décider d’une participation.",
+              "exercise": [
+                "Repérez la question qui concerne la table.",
+                "Adressez-la à la personne qui l’organise.",
+                "Gardez le choix de venir selon le moment."
+              ],
+              "benefit": "L’organisateur peut répondre dans son rôle."
+            },
+            {
+              "heading": "Clarifier les relais de santé",
+              "objective": "Retrouver le bon contact selon la situation.",
+              "exercise": [
+                "Demandez qui appeler pour une question de suivi.",
+                "Faites préciser à qui demander un avis pour un signe nouveau.",
+                "Gardez le numéro d’urgence pour des signes aigus inquiétants."
+              ],
+              "benefit": "Ces repères peuvent faciliter un recours adapté."
+            }
+          ]
         }
       ],
       "ending_title": "La page qu’il garde libre",
@@ -457,8 +1026,9 @@
         "choice": "Jules revoit les appuis et les contacts avec la psychiatre puis demande à Samuel comment se tiendra la prochaine table.",
         "next": "De retour au dessin, il veut choisir sa place, son sujet et la façon de participer à la matinée."
       },
-      "clinical_focus": "Variabilité contextuelle de l’anxiété",
-      "clinical_intro": "Jules montre deux dessins à sa psychiatre. Chez Solange, les voix étaient fortes aussi, mais il savait quand la partie finirait et pouvait sortir prendre l’air. Dans le trouble panique, le contexte peut modifier l’appréhension et l’effort nécessaires à une activité. Le récit de ces deux situations aide à préciser ce que Jules souhaite travailler et les appuis qui lui ont réellement servi."
+      "clinical_focus": "Possibilité de pause et appréhension du lieu",
+      "clinical_intro": "Jules montre deux dessins à sa psychiatre. Chez Solange, les voix étaient fortes aussi, mais il savait quand la partie finirait et pouvait sortir prendre l’air. Dans le trouble panique, le contexte peut modifier l’appréhension et l’effort nécessaires à une activité. Le récit de ces deux situations aide à préciser ce que Jules souhaite travailler et les appuis qui lui ont réellement servi.",
+      "conclusion": "Les deux dessins donnent à Jules une façon de parler de l’espace, de la durée et du choix de partir. Il fixe les contacts de santé avec la psychiatre et pose à Samuel une question sur la table."
     },
     {
       "number": 11,
@@ -480,13 +1050,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Jules a choisi de retrouver Samuel parce qu’il veut dessiner. Sa participation au groupe et les essais de soin ont des buts distincts. La psychiatre peut entendre ce qu’il a fait et ce que cela lui a demandé. Le groupe peut continuer à décider des sujets et des horaires sans devenir responsable de son suivi."
+          "heading": "Comment l’appréhension laisse-t-elle parfois de la place au dessin ?",
+          "points": [
+            {
+              "heading": "Un bruit rappelle la sortie précédente",
+              "text": "Un détail du lieu peut réveiller la crainte d’une attaque au moment de reprendre une activité.",
+              "examples": [
+                "Jules entend la caisse du fromager et repense au samedi où il est parti.",
+                "Il se demande s’il devra quitter de nouveau l’allée alors qu’il vient de trouver une place."
+              ]
+            },
+            {
+              "heading": "Le regard revient au sujet",
+              "text": "Une action qui a du sens peut prendre sa place avec une part de peur encore présente.",
+              "examples": [
+                "Jules suit d’abord le coude de Sonia.",
+                "Il regarde le creux que sa main laisse au-dessus des feuilles quand elle a changé de geste."
+              ]
+            },
+            {
+              "heading": "Le résultat peut rester partiel",
+              "text": "Une activité peut apporter quelque chose même quand elle ne se déroule pas comme prévu.",
+              "examples": [
+                "Jules montre le dessin avec la place vide du ruban.",
+                "Il croque le nœud sur une autre feuille après que Sonia le lui a montré."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder des choix dans une activité collective",
-          "text": "Samuel peut expliquer où chacun peut s’asseoir et quand le groupe échange les dessins. Jules peut choisir d’y prendre part, de rester un peu ou de rentrer. Les personnes qu’il dessine ont aussi une place dans ce choix. Sonia peut proposer un moment qui lui convient et dire si elle veut voir ce qu’il a fait. Jules peut choisir un autre sujet si elle a besoin de se concentrer sur son travail.\n\nAprès la séance, il peut parler de son dessin à Solange et de ses difficultés à la psychiatre s’il le souhaite. Ces conversations peuvent parfois se rejoindre. Il garde la main sur ce qu’il confie à chacun. Samuel peut simplement lui donner le programme de la prochaine rencontre et le laisser décider."
+          "heading": "3 techniques pour garder une part choisie de l’activité",
+          "points": [
+            {
+              "heading": "Choisir le geste à observer",
+              "objective": "Donner une raison précise de s’installer.",
+              "exercise": [
+                "Demandez à la personne si elle accepte d’être dessinée.",
+                "Choisissez un geste que vous aimeriez suivre.",
+                "Installez-vous à une place disponible qui vous convient."
+              ],
+              "benefit": "Le projet peut garder son intérêt même si le lieu est appréhendé."
+            },
+            {
+              "heading": "Adapter le dessin en cours de séance",
+              "objective": "Continuer à partir de ce qui est encore visible.",
+              "exercise": [
+                "Repérez ce que vous avez vu du mouvement.",
+                "Dessinez la partie qui vous intéresse.",
+                "Demandez un autre moment pour le détail manqué si la personne est d’accord."
+              ],
+              "benefit": "La feuille peut avancer sans que tout soit terminé sur place."
+            },
+            {
+              "heading": "Choisir le moment de montrer la feuille",
+              "objective": "Participer au groupe selon ce qui vous convient.",
+              "exercise": [
+                "Voyez si vous souhaitez rester à l’échange.",
+                "Choisissez le détail à montrer.",
+                "Dites si vous souhaitez repartir après l’avoir présenté."
+              ],
+              "benefit": "La participation peut rester une décision personnelle."
+            }
+          ]
         }
       ],
       "ending_title": "Le ruban hors du cadre",
@@ -503,7 +1129,8 @@
         "next": "Il envoie son croquis à Solange et prévoit la suite du suivi autour des activités et des trajets qui comptent pour lui."
       },
       "clinical_focus": "Reprise d’une activité malgré la peur",
-      "clinical_intro": "Jules revient au marché et demande une place au bout de la table. Il veut croquer le geste de Sonia tout en gardant la possibilité de choisir combien de temps il reste. Dans le suivi du trouble panique, la liberté retrouvée dans une activité fait partie de ce qui peut évoluer. Jules peut se réjouir de dessiner et continuer à parler des trajets qui l’inquiètent."
+      "clinical_intro": "Jules revient au marché et demande une place au bout de la table. Il veut croquer le geste de Sonia tout en gardant la possibilité de choisir combien de temps il reste. Dans le suivi du trouble panique, la liberté retrouvée dans une activité fait partie de ce qui peut évoluer. Jules peut se réjouir de dessiner et continuer à parler des trajets qui l’inquiètent.",
+      "conclusion": "Jules repart avec le dessin du nœud et le souvenir du coude qu’il a montré au groupe. La peur a encore traversé la séance. Sonia et Samuel ont gardé des rôles simples dans le moment partagé."
     },
     {
       "number": 12,
@@ -512,9 +1139,9 @@
       "description": "Jules prépare un nouveau courrier à Solange et garde un rendez-vous de suivi. Il choisit ce qu’il aimerait dessiner lors des prochaines matinées.",
       "context": "À la fin d’une journée au marché, quelques semaines après la reprise du dessin",
       "topics": [
-        "Retentissement dans la durée",
-        "Activités choisies",
-        "Continuité du suivi"
+        "Variations au fil du temps",
+        "Trajets encore redoutés",
+        "Projets personnels"
       ],
       "opening": "Solange a répondu au dessin du nœud en lui envoyant une feuille pliée dans l’autre sens. Elle a tracé les deux mains d’un voisin en train de mélanger les dominos et a ajouté un toit de travers au-dessus. Jules garde le dessin dans la poche de son tablier. À la fermeture du marché, il le montre à Sonia. Elle trouve que les doigts se confondent avec les tuiles. Jules lui dit que c’est exactement ce que sa grand-mère aimait dans le toit du livre qu’il cherchait chez Samuel.\n\nIl a dessiné deux samedis depuis qu’ils ont retourné la table. Une autre fois, il avait choisi de rentrer après son service. Il a encore des trajets qu’il anticipe longtemps et d’autres où il pense surtout à la couleur des enseignes. Il a un rendez-vous avec la psychiatre la semaine prochaine. Il voudrait lui dire ce qui lui demande encore du temps et vérifier avec elle ce qu’ils poursuivront. Une personne du groupe lui propose de se retrouver dans un autre marché pour dessiner. Il aimerait savoir si le jour lui convient avant de répondre.\n\nSonia lui passe une enveloppe qui lui restait pour les cartes de commande. Jules y glisse le dessin des renoncules. Il garde la feuille du prochain samedi dans le carnet. Avant de partir, il demande à Sonia quelle tâche elle lui confiera le matin suivant. Il aimerait choisir les couleurs d’un bouquet qu’ils préparent pour l’entrée du marché.",
       "sections": [
@@ -525,13 +1152,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Jules connaît les personnes à contacter pour le suivi ou pour une question médicale. Il peut demander de reprendre un point plus tôt si ses difficultés s’accentuent. Un changement nouveau dans son état mérite d’être évalué par les professionnels selon la situation. Le choix d’une prochaine activité, de son côté, peut aussi répondre à des raisons ordinaires, comme le jour où il travaille ou la personne avec qui il veut dessiner."
+          "heading": "Comment les trajets et les activités évoluent-ils à des rythmes différents ?",
+          "points": [
+            {
+              "heading": "La peur varie selon la sortie",
+              "text": "L’appréhension entre les attaques peut être inégale d’une journée à l’autre.",
+              "examples": [
+                "Jules prépare encore certains trajets longtemps à l’avance.",
+                "D’autres fois, les couleurs des enseignes occupent davantage son regard."
+              ]
+            },
+            {
+              "heading": "Les intérêts reprennent par moments",
+              "text": "Une activité retrouvée peut coexister avec une sortie écourtée ou remise à plus tard.",
+              "examples": [
+                "Jules a rejoint le groupe deux samedis.",
+                "Une autre fois, il a préféré rentrer après le service."
+              ]
+            },
+            {
+              "heading": "Un nouveau projet garde des inconnues",
+              "text": "Le souhait de participer peut venir avant une décision sur le lieu ou la date.",
+              "examples": [
+                "Jules s’intéresse à une rencontre dans un autre marché.",
+                "Il veut connaître le jour avant de promettre un trajet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire des projets avec les personnes concernées",
-          "text": "Jules peut demander à Samuel l’heure de la rencontre et dire s’il pense pouvoir y venir. Il peut aussi préférer la table habituelle ou une visite à Solange. Les personnes avec qui il dessine peuvent prévoir le matériel qu’elles apportent et parler de ce qu’elles voudraient regarder. Au travail, Sonia peut lui confier un bouquet qui le fait progresser et convenir avec lui des tâches qui vont avec. Chaque relation peut continuer autour de ce qu’ils font ensemble.\n\nSolange lui a envoyé son propre dessin. Jules peut lui raconter ce que Sonia y a vu et demander s’ils pourront dessiner côte à côte une prochaine fois. Leur courrier peut contenir des nouvelles de ses trajets, une question sur la verrière ou quelques lignes sur le bleu des renoncules."
+          "heading": "3 techniques pour continuer le suivi et choisir de nouveaux projets",
+          "points": [
+            {
+              "heading": "Raconter un trajet facile et un trajet difficile",
+              "objective": "Donner une image précise de ce qui change.",
+              "exercise": [
+                "Choisissez deux trajets récents.",
+                "Décrivez ce qui occupait votre attention sur chacun.",
+                "Parlez de leur effet sur les activités au prochain entretien."
+              ],
+              "benefit": "Le suivi peut tenir compte des variations entre les journées."
+            },
+            {
+              "heading": "Répondre à l’invitation par une question",
+              "objective": "Garder le choix du prochain projet.",
+              "exercise": [
+                "Demandez le jour et le lieu prévus.",
+                "Regardez votre disponibilité.",
+                "Décidez ensuite si la rencontre vous intéresse dans ce cadre."
+              ],
+              "benefit": "La réponse peut correspondre à l’activité que vous souhaitez choisir."
+            },
+            {
+              "heading": "Garder une continuité au-delà de la sortie",
+              "objective": "Préserver un lien et un objectif personnels.",
+              "exercise": [
+                "Choisissez le dessin que vous voulez partager.",
+                "Décidez de ce que vous souhaitez essayer ensuite.",
+                "Conservez le rendez-vous de suivi convenu."
+              ],
+              "benefit": "Les projets et les soins peuvent poursuivre chacun leur chemin."
+            }
+          ]
         }
       ],
       "ending_title": "L’enveloppe et la feuille blanche",
@@ -547,8 +1230,9 @@
         "choice": "Jules continue ses dessins, garde le rendez-vous de suivi et décide de répondre à la nouvelle invitation après avoir vu son planning.",
         "next": "Il reparlera avec la psychiatre des trajets qui lui demandent encore de l’effort et choisira avec le groupe la prochaine occasion de dessiner."
       },
-      "clinical_focus": "Rétablissement et projets personnels",
-      "clinical_intro": "Jules envoie un dessin à Solange et garde ouverte une invitation pour un samedi. Certains trajets lui demandent encore un effort et il sait qu’il pourra en parler au prochain rendez-vous. Dans le trouble panique, le suivi peut tenir compte des peurs qui persistent et des projets redevenus possibles. Jules garde le choix de ses engagements et de ce qu’il souhaite poursuivre en consultation."
+      "clinical_focus": "Évolution inégale des trajets et activités",
+      "clinical_intro": "Jules envoie un dessin à Solange et garde ouverte une invitation pour un samedi. Certains trajets lui demandent encore un effort et il sait qu’il pourra en parler au prochain rendez-vous. Dans le trouble panique, le suivi peut tenir compte des peurs qui persistent et des projets redevenus possibles. Jules garde le choix de ses engagements et de ce qu’il souhaite poursuivre en consultation.",
+      "conclusion": "Jules envoie son dessin et garde la prochaine feuille dans son carnet. Il parlera à la psychiatre des trajets qui lui prennent encore du temps. Solange peut continuer à regarder les croquis qu’il choisit de lui envoyer."
     }
   ]
 }

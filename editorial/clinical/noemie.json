@@ -29,13 +29,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Noémie peut produire un registre exact et consacrer tout de même une part importante de son énergie à vérifier après l’avoir rempli. Les conséquences se voient aussi dans le délai de ses réponses, les conversations qu’elle perd en route et l’effort qu’elle fournit pour finir une journée ordinaire. Le diagnostic s’appuie sur une évaluation clinique. La scène du chariot montre une partie de ce que Noémie a pu décrire lors de la sienne."
+          "heading": "Comment une vérification terminée en appelle-t-elle une autre ?",
+          "points": [
+            {
+              "heading": "Le doute après le contrôle utile",
+              "text": "Une information acquise peut être suivie d’une inquiétude insistante.",
+              "examples": [
+                "La cote de la boîte concorde avec la fiche et le doute revient.",
+                "Après avoir rangé un dossier, une personne peut craindre une erreur malgré le résultat du contrôle prévu."
+              ]
+            },
+            {
+              "heading": "Un nouvel effort pour retrouver une certitude",
+              "text": "Relire peut apaiser brièvement avant que le besoin de vérifier ne reprenne.",
+              "examples": [
+                "Noémie remonte le rabat pour retrouver la même cote.",
+                "Un texte déjà relu peut rester ouvert alors qu’aucune information nouvelle n’est arrivée."
+              ]
+            },
+            {
+              "heading": "L’attention partagée avec le rituel",
+              "text": "La répétition peut prendre du temps à une autre tâche.",
+              "examples": [
+                "Aïcha attend avec les rectangles de carton.",
+                "En réunion, une personne peut perdre le fil d’une question en repensant à un dossier fermé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire entrer une scène de travail dans le suivi",
-          "text": "La cote, la fiche et le registre ont chacun une fonction aux archives. La relecture supplémentaire a une autre place dans ce qui vient de se passer. Noémie a achevé le contrôle demandé, puis a rouvert la boîte pour chercher la certitude qu’elle aurait voulu éprouver. Le répit est bref. La question sur la visite la ramène près du chariot, où l’envie de lire revient alors que les chiffres sont restés les mêmes.\n\nPour sa prochaine consultation, elle peut raconter la scène dans cet ordre et mentionner le temps que la discussion lui a demandé. Elle peut aussi expliquer à sa clinicienne ce qu’une vérification réglementaire implique dans son service. Un soin peut alors tenir compte de cette différence concrète. Aïcha, de son côté, a surtout besoin de savoir quelle carte choisir et à quel moment reprendre la conversation."
+          "heading": "3 techniques pour distinguer le contrôle prévu et le doute qui revient",
+          "points": [
+            {
+              "heading": "Repérer le contrôle officiel",
+              "objective": "Garder les règles professionnelles dans leur cadre.",
+              "exercise": [
+                "Identifier la procédure en vigueur.",
+                "Retrouver la trace prévue du contrôle.",
+                "Demander au service s’il existe un élément nouveau."
+              ],
+              "benefit": "La suite du travail peut reposer sur les consignes communes."
+            },
+            {
+              "heading": "Reprendre la question d’Aïcha",
+              "objective": "Retrouver la décision d’exposition qui attend.",
+              "exercise": [
+                "Demander quelle disposition elle propose.",
+                "Regarder le chemin de halage.",
+                "Donner un avis sur l’ordre de visite."
+              ],
+              "benefit": "La discussion peut reprendre même si le doute persiste."
+            },
+            {
+              "heading": "Apporter le moment au suivi",
+              "objective": "Décrire le passage du contrôle au recommencement.",
+              "exercise": [
+                "Nommer la tâche déjà effectuée.",
+                "Dire ce qui a relancé le doute.",
+                "Expliquer ce que l’échange avec Aïcha a perdu."
+              ],
+              "benefit": "La clinicienne peut situer le retentissement à partir d’un exemple."
+            }
+          ]
         }
       ],
       "ending": "Noémie montre le chemin de halage sur la reproduction et propose d’en faire la première étape de la visite. Aïcha retourne le grand carton pour y inscrire leur choix. La boîte attend le rangement prévu avec les autres pièces. En repartant, Noémie écrit dans son carnet de rendez-vous « la cote et les rectangles ». Elle garde aussi une question pour Aïcha. Sur la carte, à quoi pouvait bien servir cette porte qui ouvrait directement sur la berge ?",
@@ -52,7 +108,8 @@
       },
       "ending_title": "La carte qui ouvrira la visite",
       "clinical_focus": "Vérification compulsive",
-      "clinical_intro": "Noémie a vérifié la cote selon la procédure. Quand Aïcha lui parle de l’exposition, son esprit revient pourtant à la boîte et au risque d’avoir mal lu. Dans le TOC, la vérification compulsive peut répondre à un doute qui persiste après le contrôle utile. Le bref soulagement aide à comprendre pourquoi l’envie de vérifier revient."
+      "clinical_intro": "Noémie a vérifié la cote selon la procédure. Quand Aïcha lui parle de l’exposition, son esprit revient pourtant à la boîte et au risque d’avoir mal lu. Dans le TOC, la vérification compulsive peut répondre à un doute qui persiste après le contrôle utile. Le bref soulagement aide à comprendre pourquoi l’envie de vérifier revient.",
+      "conclusion": "La carte prend sa place dans l’exposition alors que le doute continue à revenir. Noémie retient le moment où son travail et la vérification se sont disputé son attention. Dans le tram, une reprise analogue se fera sans boîte devant elle."
     },
     {
       "number": 2,
@@ -74,16 +131,72 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand Noémie essaie de retrouver la berge pour dessiner, elle accepte aisément qu’une courbe lui échappe. Dans le souvenir de la fermeture, elle se sent obligée de combler le détail manquant avant de poursuivre autre chose. Ce contraste aide à comprendre sa scène. Le seul fait de penser longtemps à un événement ne permet pas de savoir à quoi sert cette répétition pour quelqu’un d’autre."
+          "heading": "Comment une compulsion mentale se déroule-t-elle sans geste visible ?",
+          "points": [
+            {
+              "heading": "Une image qui revient d’elle-même",
+              "text": "Le premier souvenir peut s’imposer avant que la personne cherche à le vérifier.",
+              "examples": [
+                "Noémie revoit son poignet contre l’interrupteur.",
+                "Sur le chemin du travail, un souvenir de départ peut surgir au milieu d’une autre pensée."
+              ]
+            },
+            {
+              "heading": "Un examen qui cherche à rendre le souvenir certain",
+              "text": "La personne peut se sentir poussée à revenir sur un détail pour apaiser le doute.",
+              "examples": [
+                "Noémie cherche dans le souvenir un mouvement dont elle n’arrive pas à être sûre.",
+                "Quelqu’un peut reprendre mentalement une tâche déjà transmise alors qu’il voudrait écouter un appel."
+              ]
+            },
+            {
+              "heading": "Un trajet occupé sans action apparente",
+              "text": "L’absorption peut rester invisible aux personnes autour.",
+              "examples": [
+                "Le crayon reste au-dessus du carnet et Noémie dépasse son arrêt.",
+                "Dans un bus, une personne peut rester assise et manquer l’annonce qu’elle attendait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre le coût visible au rendez-vous",
-          "text": "En consultation, Noémie avait surtout parlé de ce qu’un collègue aurait pu voir. Elle avait donné l’exemple de la cote relue au bord de la boîte. La clinicienne lui demande ce qui se passe ensuite quand elle se déplace, parle avec quelqu’un ou attend le sommeil. Noémie raconte l’arrêt manqué et l’annonce qui l’a forcée à reprendre son souvenir de fermeture. La consultation devient un endroit où le rituel peut être décrit sans qu’elle ait à prouver que le bâtiment était bien fermé.\n\nLa prise en charge du TOC peut aussi tenir compte des rituels mentaux et des tentatives de neutralisation. Leur place dans le suivi se décide avec la professionnelle qui l’accompagne. Noémie peut choisir de signaler un détail dont elle a honte et garder pour une autre fois ce qu’elle ne veut pas encore développer. L’arrêt de tram et le croquis donnent déjà deux éléments concrets pour parler de l’impact sur sa soirée."
+          "heading": "3 techniques pour parler d’une vérification qui se passe en pensée",
+          "points": [
+            {
+              "heading": "Raconter le début et l’effet",
+              "objective": "Distinguer le souvenir venu et le travail mental qui suit.",
+              "exercise": [
+                "Dire quel souvenir a surgi.",
+                "Nommer ce qu’on cherchait à établir.",
+                "Indiquer ce qui s’est perdu autour."
+              ],
+              "benefit": "La clinicienne peut entendre une difficulté invisible de l’extérieur."
+            },
+            {
+              "heading": "Reprendre le trajet depuis l’arrêt actuel",
+              "objective": "Traiter le détour déjà arrivé.",
+              "exercise": [
+                "Lire le nom de l’arrêt.",
+                "Choisir où descendre selon le plan du réseau.",
+                "Prévenir Maud du changement de trajet."
+              ],
+              "benefit": "Le retour peut reprendre sans devoir résoudre le souvenir."
+            },
+            {
+              "heading": "Garder une activité choisie",
+              "objective": "Retrouver l’intérêt pour les berges.",
+              "exercise": [
+                "Noter l’endroit où se trouve l’escalier.",
+                "Reprendre le croquis quand le temps s’y prête.",
+                "Proposer ce détail à Aïcha."
+              ],
+              "benefit": "Le trajet peut donner lieu à une découverte sans effacer l’entrave."
+            }
+          ]
         }
       ],
-      "ending": "Le lendemain, Maud retrouve le croquis sur la table, sous le sachet de pain. Noémie complète la berge avec un escalier qu’elle a vu en marchant depuis l’autre arrêt. Elle raconte le détour, puis le moment où elle s’est rendu compte qu’elle n’écoutait plus les annonces. Avant son départ, elle glisse le carnet de croquis dans son sac avec une reproduction pour Aïcha. L’escalier pourrait figurer dans leur promenade autour du canal.",
+      "ending": "Le lendemain, Maud retrouve le croquis sur la table, sous le sachet de pain. Noémie complète la berge avec un escalier qu’elle a vu en marchant depuis l’autre arrêt. Elle raconte le détour, puis le moment où elle s’est rendu compte qu’elle n’écoutait plus les annonces. Avant son départ, elle glisse le carnet de croquis dans son sac avec une reproduction pour Aïcha. L’escalier pourrait figurer dans leur promenade autour du canal. En consultation, elle raconte le moment où elle a commencé à reprendre le souvenir et celui où elle a retrouvé le nom de son arrêt.",
       "mirror": [
         "Maud peut demander à Noémie si elle veut qu’elle garde une part du pain et l’attende, ou qu’elles mangent chacune à son heure. Si Noémie lui raconte la fermeture refaite en pensée, elle peut répondre « J’entends que ça t’a retenue tout le trajet. Tu veux m’en parler ou me montrer où tu as dessiné cet escalier ? » Elle n’a pas besoin de reconstruire les gestes avec elle. La conversation peut continuer sur la berge."
       ],
@@ -97,7 +210,8 @@
       },
       "ending_title": "Un souvenir à apporter au cabinet",
       "clinical_focus": "Compulsion mentale",
-      "clinical_intro": "Dans le tram, Noémie se repasse un geste de travail jusqu’à manquer son arrêt. Le doute qui surgit et l’effort répété pour le faire taire sont deux moments distincts. Dans le TOC, cet effort peut prendre la forme d’un rituel mental. L’entourage voit parfois la distraction sans mesurer le temps que la vérification prend en silence."
+      "clinical_intro": "Dans le tram, Noémie se repasse un geste de travail jusqu’à manquer son arrêt. Le doute qui surgit et l’effort répété pour le faire taire sont deux moments distincts. Dans le TOC, cet effort peut prendre la forme d’un rituel mental. L’entourage voit parfois la distraction sans mesurer le temps que la vérification prend en silence.",
+      "conclusion": "Le détour laisse à Noémie un escalier à dessiner et une difficulté à raconter. La répétition avait pris assez de place pour lui faire manquer son arrêt. Au travail, elle devra reconnaître une autre forme du besoin de recommencer."
     },
     {
       "number": 3,
@@ -119,13 +233,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le second moment de la scène, Noémie a perdu de vue la personne qui lira la légende. Elle déplace de nouveau la feuille pour trouver une sensation de fin qui lui échappe.\n\nLa compulsion ne suppose pas toujours la crainte explicite d’un accident. La CIM-11 inclut des actes poussés par le besoin de sentir que quelque chose est enfin complet. Aimer l’ordre ou consacrer du soin à une composition fait aussi partie d’une vie ordinaire. Lors d’une évaluation, la professionnelle regarde l’ensemble des symptômes, leur persistance et leur retentissement. Aïcha peut discuter de l’alignement sans essayer de classer chacun des gestes de Noémie."
+          "heading": "Comment l’impression d’inachevé transforme-t-elle un geste ordinaire ?",
+          "points": [
+            {
+              "heading": "Une préférence qui peut se discuter",
+              "text": "Un goût fort laisse parfois une place à une autre proposition.",
+              "examples": [
+                "Noémie préfère l’alignement initial et comprend l’idée de rapprocher la légende des enfants.",
+                "Deux collègues peuvent défendre des mises en page différentes et décider ensemble."
+              ]
+            },
+            {
+              "heading": "Une gêne qui persiste après le choix",
+              "text": "La sensation d’inachevé peut pousser à reprendre une disposition déjà acceptable.",
+              "examples": [
+                "Noémie déplace les reproductions, puis remet la première où elle était.",
+                "Une personne peut revenir sur un objet qu’elle a déjà posé à sa place."
+              ]
+            },
+            {
+              "heading": "Une attention qui quitte le but du travail",
+              "text": "Le geste répété peut répondre surtout à la recherche d’une sensation de justesse.",
+              "examples": [
+                "Le trajet de l’enfant et le texte disparaissent derrière l’écart entre les feuilles.",
+                "Dans une autre maquette, un détail peut occuper davantage que la lisibilité d’ensemble."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Nommer les critères qui relèvent du métier",
-          "text": "La règle qui protège la carte originale répond à une situation observable. Noémie connaît l’état du papier et doit obtenir une validation précise avant l’installation. Elle peut chercher cette réponse avec son équipe. Le besoin de déplacer plusieurs fois les reproductions sur la table lui pose une autre question, qu’elle peut rapporter à sa clinicienne. Le cadre de soin tient compte de ces contraintes du travail. Aucun contrôle requis pour la conservation n’est retiré au titre du suivi.\n\nAïcha et Noémie décident de reporter sur leur plan l’état du support, le passage du public et la lisibilité des textes. Elles gardent leurs préférences de présentation dans la discussion. La trace écrite servira à transmettre le projet à l’équipe, avec une responsabilité pour chaque question encore ouverte. Pour sa part, Noémie souhaite pouvoir expliquer en consultation à quel moment son geste a cessé de servir la disposition de la salle."
+          "heading": "3 techniques pour retrouver les critères utiles à la maquette",
+          "points": [
+            {
+              "heading": "Nommer ce qui doit être validé",
+              "objective": "Préserver la conservation des originaux.",
+              "exercise": [
+                "Retrouver la note sur la déchirure.",
+                "Transmettre le point au service compétent.",
+                "Laisser la réponse du service guider la mise en vitrine."
+              ],
+              "benefit": "Les règles de métier gardent leur portée."
+            },
+            {
+              "heading": "Décrire le choix de présentation",
+              "objective": "Redonner à la discussion un objectif visible.",
+              "exercise": [
+                "Regarder d’où l’enfant lira la légende.",
+                "Proposer une disposition à Aïcha.",
+                "Garder l’autre essai dans le carnet si on y tient."
+              ],
+              "benefit": "Le goût de Noémie peut rester une contribution à la décision."
+            },
+            {
+              "heading": "Parler de la sensation persistante",
+              "objective": "Situer ce qui donne envie de recommencer.",
+              "exercise": [
+                "Choisir un exemple où la disposition convenait déjà.",
+                "Décrire la gêne qui est restée.",
+                "Demander comment l’équipe de soins comprend ce moment."
+              ],
+              "benefit": "La consultation peut explorer un ressort différent de la peur d’un accident."
+            }
+          ]
         }
       ],
       "ending": "Aïcha déplie le plan près de la fenêtre. Noémie montre où le dessin de l’escalier pourrait faire respirer la légende et propose de laisser les marges telles quelles pour cette maquette. Elle conserve dans son carnet un autre essai de présentation, qu’elle trouve plus beau. Elles apportent au service le point sur le support de la carte. En fin de journée, Maud lui écrit qu’elle est partie acheter le dîner. Noémie regarde le message et pense à la porte de leur appartement.",
@@ -142,7 +312,8 @@
       },
       "ending_title": "Deux dispositions à comparer",
       "clinical_focus": "Sensation d’inachevé",
-      "clinical_intro": "L’écart entre deux reproductions laisse à Noémie une sensation d’inachevé. Dans le TOC, une compulsion peut viser à faire disparaître cette gêne. Noémie connaît pourtant les règles qui protègent la carte et sait dire quel agencement lui plaît. La contrainte ressentie et le temps perdu éclairent le déplacement répété autant que son apparence."
+      "clinical_intro": "L’écart entre deux reproductions laisse à Noémie une sensation d’inachevé. Dans le TOC, une compulsion peut viser à faire disparaître cette gêne. Noémie connaît pourtant les règles qui protègent la carte et sait dire quel agencement lui plaît. La contrainte ressentie et le temps perdu éclairent le déplacement répété autant que son apparence.",
+      "conclusion": "La question du support va au service et la maquette peut avancer. Le sentiment d’inachevé donne à Noémie un autre exemple de ce qui la pousse à reprendre un geste. Plus tard, avec Maud, ce sera une réponse qui semblera incomplète."
     },
     {
       "number": 4,
@@ -164,13 +335,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Maud avait compris que sa réponse soulageait Noémie et a répondu de bonne foi. Elle découvre qu’elle a pris l’habitude de préparer des preuves avant même de quitter la maison. Le NICE recommande, lorsque l’entourage participe aux compulsions, à l’évitement ou aux demandes répétées de réassurance, que le plan de soins aide à réduire cette implication d’une manière attentive et soutenante. Les décisions qui concernent le couple peuvent être préparées avec les personnes concernées."
+          "heading": "Comment la réassurance perd-elle rapidement son effet ?",
+          "points": [
+            {
+              "heading": "La réponse qui suffit un instant",
+              "text": "Une confirmation peut réellement apaiser la peur pendant un bref moment.",
+              "examples": [
+                "Noémie se sent rassurée en lisant que les clés sont dans la poche.",
+                "Quelqu’un peut reprendre son trajet après un premier message."
+              ]
+            },
+            {
+              "heading": "Un détail qui ouvre un nouveau doute",
+              "text": "La recherche de certitude peut se déplacer après la réponse.",
+              "examples": [
+                "Noémie se demande ensuite si Maud avait les bras chargés.",
+                "Une personne peut connaître l’heure d’un départ et chercher encore à reconstituer ce qui s’est passé."
+              ]
+            },
+            {
+              "heading": "Le proche entraîné dans l’échange",
+              "text": "La répétition peut transformer l’aide en obligation de fournir une preuve.",
+              "examples": [
+                "Maud ouvre la messagerie pendant qu’elle paie.",
+                "Une personne peut interrompre un rendez-vous pour répondre de nouveau à la même question."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Parler de l’aide à un moment choisi",
-          "text": "Assises sur le banc, les deux femmes peuvent dire ce qui leur a pesé, chacune à sa place. Noémie peut expliquer à quel moment le premier message a cessé de lui suffire. Maud peut raconter qu’elle a parfois interrompu un repas ou un trajet pour envoyer une image. Elles n’ont pas encore d’accord sur ce qu’elles souhaitent changer. C’est une question qu’elles peuvent poser à la clinicienne, avec l’accord de Noémie et si Maud veut participer à cet échange.\n\nLes questions pratiques entre elles gardent leur place. Si Maud doit donner le double des clés à une amie ou s’il manque une information nouvelle, les deux femmes peuvent se le dire. Elles peuvent aussi convenir de continuer à parler des courses, des invitations et du dîner même lorsqu’une demande répétée prend beaucoup de place. Le soutien peut comprendre cette présence dans la vie commune."
+          "heading": "3 techniques pour mettre les réponses répétées en discussion",
+          "points": [
+            {
+              "heading": "Dire quand l’échange change",
+              "objective": "Reconnaître ce que la première réponse et les suivantes font.",
+              "exercise": [
+                "Revenir au premier message.",
+                "Nommer le moment où une preuve de plus a semblé nécessaire.",
+                "Écouter comment Maud a vécu l’échange."
+              ],
+              "benefit": "Le couple peut décrire une difficulté partagée."
+            },
+            {
+              "heading": "Préparer un exemple pour le cabinet",
+              "objective": "Reprendre la question au calme.",
+              "exercise": [
+                "Choisir l’échange de l’épicerie.",
+                "Demander à Maud ce qu’elle veut y partager.",
+                "Décider quand le raconter."
+              ],
+              "benefit": "La clinicienne peut les aider à chercher une réponse sensible."
+            },
+            {
+              "heading": "Garder une décision de la soirée",
+              "objective": "Redonner une place au moment qu’elles avaient prévu.",
+              "exercise": [
+                "Finir la course en cours.",
+                "Demander si le banc leur convient encore.",
+                "Choisir ensemble quand reparler des messages."
+              ],
+              "benefit": "Le désaccord peut rester abordable sans occuper tout le repas."
+            }
+          ]
         }
       ],
       "ending": "Maud se rappelle finalement que les olives de son amie étaient violettes. Noémie lui tend le bocal vert et elle accepte d’en goûter une. La demande sur la poignée revient sur l’écran, au milieu de leurs messages. Noémie demande à Maud si elles peuvent apporter cet exemple au prochain rendez-vous. Maud dit qu’elle aimerait d’abord savoir en quoi elle pourrait intervenir. Elles conviennent d’en reparler le lendemain et finissent leur repas sur le banc.",
@@ -187,18 +414,19 @@
       },
       "ending_title": "La question que Maud pose",
       "clinical_focus": "Recherche de réassurance",
-      "clinical_intro": "À l’épicerie, une réponse de Maud apaise Noémie pour un moment. Puis une nouvelle question sur la porte s’impose. Dans le TOC, chercher une confirmation répétée peut devenir une manière de neutraliser le doute, et un proche peut y être entraîné en voulant aider. Noémie et Maud cherchent à comprendre ensemble ce que ce rythme leur coûte."
+      "clinical_intro": "À l’épicerie, une réponse de Maud apaise Noémie pour un moment. Puis une nouvelle question sur la porte s’impose. Dans le TOC, chercher une confirmation répétée peut devenir une manière de neutraliser le doute, et un proche peut y être entraîné en voulant aider. Noémie et Maud cherchent à comprendre ensemble ce que ce rythme leur coûte.",
+      "conclusion": "Le oui de Maud a eu un effet avant que Noémie recherche une nouvelle preuve. Elles choisissent d’apporter cette répétition à la clinicienne, avec les questions de chacune sur l’aide qu’elle peut donner."
     },
     {
       "number": 5,
       "slug": "noemie-preparer-exposition-en-seance",
-      "title": "Comprendre la prévention de la réponse avant de choisir un essai en séance",
-      "description": "Noémie demande à sa clinicienne comment elle pourra discuter du rythme et du type d’essai proposés pour son TOC.",
+      "title": "Comprendre l’élan de neutraliser une pensée avant un essai de soin",
+      "description": "Noémie raconte ce qu’elle fait quand le doute l’envahit et demande comment l’essai proposé par sa clinicienne en tiendra compte.",
       "context": "Dans le cabinet de la clinicienne, après une matinée aux archives",
       "topics": [
-        "Prévention de la réponse",
-        "Exposition en thérapie",
-        "Choix du rythme"
+        "Neutralisation",
+        "Exposition avec prévention de la réponse",
+        "Accord sur le soin"
       ],
       "opening": "Noémie arrive avec deux plans de la même rue roulés ensemble. Aïcha lui a demandé de vérifier comment la rue change de nom d’un plan à l’autre. Sur le premier, elle longe le canal. Sur le second, une flèche désigne un passage qui n’existait pas quand son père l’y emmenait. Noémie profite de l’attente pour glisser un papier entre les deux reproductions. Quand la clinicienne ouvre la porte, elle a le pouce sur la flèche et lui raconte qu’on peut dessiner un chemin avant même qu’il existe.\n\nElles reviennent aux messages échangés à l’épicerie. Noémie décrit le premier oui de Maud et le moment où elle a voulu un détail sur la poignée. Elle parle aussi du trajet refait dans le tram. La clinicienne lui propose de discuter d’une thérapie qui comprend l’exposition avec prévention de la réponse. Noémie a lu le terme une fois dans la salle d’attente. Elle demande si elle devra laisser un document dans un état dont elle est responsable pour montrer qu’elle peut supporter l’inquiétude.\n\nLa clinicienne reprend la question avec elle. Les règles des archives continuent de s’appliquer. Ensemble, elles peuvent chercher une situation pertinente pour les difficultés que Noémie a décrites et examiner si elle lui convient avant tout essai. Noémie voudrait commencer par comprendre ce qu’elle pourrait faire si elle se sentait dépassée. Elle pose les deux plans sur la chaise à côté d’elle. Son prochain entretien avec Aïcha n’est que cet après-midi. Elles ont du temps pour en parler.",
       "sections": [
@@ -209,13 +437,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que Noémie redoute à l’idée d’un essai",
-          "text": "Noémie se souvient du premier oui de Maud, puis du besoin d’entendre un détail sur la poignée et du trajet qu’elle a rejoué en pensée dans le tram. Quand la clinicienne lui présente le travail en séance, Noémie pense aussitôt aux documents dont elle a la responsabilité. Elle redoute de devoir les laisser dans un état qui lui paraît incertain. Elle voudrait comprendre ce qu’elle pourra faire si l’inquiétude la dépasse."
+          "heading": "Comment l’envie de neutraliser le doute se reconnaît-elle au rendez-vous ?",
+          "points": [
+            {
+              "heading": "Vouloir répondre à une pensée gênante",
+              "text": "Une compulsion peut chercher à diminuer la gêne que la pensée a soulevée.",
+              "examples": [
+                "Noémie voudrait obtenir un détail sur la poignée après le premier oui.",
+                "Une personne peut ressentir l’urgence de vérifier un point déjà traité alors qu’elle s’apprêtait à changer d’activité."
+              ]
+            },
+            {
+              "heading": "Retrouver cette envie avec des gestes différents",
+              "text": "Une réponse visible et une reprise mentale peuvent avoir une fonction proche.",
+              "examples": [
+                "Dans le tram, Noémie essaie d’obtenir une certitude à partir du souvenir.",
+                "À l’épicerie, elle veut que Maud lui fournisse un élément de plus."
+              ]
+            },
+            {
+              "heading": "Confondre l’essai et l’abandon d’une obligation",
+              "text": "Le mot exposition peut susciter des questions sur les règles réelles.",
+              "examples": [
+                "Noémie demande si elle devra laisser un document dans un état dont elle est responsable.",
+                "Un patient peut avoir besoin de savoir comment la clinicienne distinguerait un soin d’une consigne de travail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce que le soin doit rendre possible",
-          "text": "Quand la clinicienne demande ce qui ferait une différence dans sa vie, Noémie pense au banc de l’épicerie. Elle voudrait entendre la suite d’une anecdote de Maud sans reprendre tout le trajet des clés. Elle aimerait aussi retrouver du temps pour regarder les cartes avec Aïcha. Ces objectifs aident à décider de ce dont elles parleront en séance. Le niveau de gêne, les autres contraintes et ses préférences font partie de la décision.\n\nNoémie souhaite discuter d’un premier essai encadré au cabinet. Elle choisit d’en reparler après pour dire comment elle a vécu l’exercice et ce qu’elle a fait en pensée. La clinicienne lui propose aussi un bref échange avec Maud, si toutes deux en ont envie, pour définir le soutien qui leur conviendrait. Cette partie portera sur leurs messages et le temps qu’ils prennent. Noémie garde le choix des autres éléments de sa consultation qu’elle souhaite partager.\n\nTout exercice est discuté avec Noémie et se fait avec son accord. Elle peut demander des précisions, signaler sa gêne, demander une pause ou revenir sur son choix. La clinicienne reste responsable de la conduite des séances et pourra reprendre avec elle la manière dont elle a vécu l’essai."
+          "heading": "3 techniques pour discuter d’un essai centré sur les compulsions",
+          "points": [
+            {
+              "heading": "Dire ce qu’on voudrait neutraliser",
+              "objective": "Clarifier la situation que le soin aborderait.",
+              "exercise": [
+                "Raconter le doute initial.",
+                "Indiquer ce qu’on se sent poussé à faire.",
+                "Demander comment cette réponse entre dans la proposition."
+              ],
+              "benefit": "La clinicienne peut expliquer la démarche sur un exemple connu."
+            },
+            {
+              "heading": "Poser ses conditions avant tout essai",
+              "objective": "Vérifier le cadre et la possibilité de discuter du rythme.",
+              "exercise": [
+                "Nommer les obligations de conservation.",
+                "Demander ce qu’on pourrait faire en cas de gêne trop forte.",
+                "Dire si on souhaite prendre du temps avant de choisir."
+              ],
+              "benefit": "La décision peut être prise ensemble avec des limites explicites."
+            },
+            {
+              "heading": "Préparer la place de Maud",
+              "objective": "Définir un échange auquel chacune consent.",
+              "exercise": [
+                "Choisir le sujet des messages.",
+                "Proposer à Maud une partie du rendez-vous.",
+                "Préserver les autres sujets comme Noémie le souhaite."
+              ],
+              "benefit": "Le couple peut entendre un cadre commun pour les demandes répétées."
+            }
+          ]
         }
       ],
       "ending": "En quittant le cabinet, Noémie déroule de nouveau les cartes sur ses genoux. Sur la seconde, la rue débouche bien là où elle a trouvé l’escalier en rentrant du tram. Elle écrit ce rapprochement à Aïcha. Puis elle propose à Maud de venir à une partie du prochain rendez-vous. « Je voudrais qu’on parle des messages. Le reste, je préfère le garder pour moi. » Maud lui demande de lui envoyer l’horaire.",
@@ -231,36 +515,93 @@
         "next": "Après un échange commun, Noémie et Maud essaient le soutien qu’elles ont choisi au moment de partir au cinéma."
       },
       "ending_title": "Un essai discuté au cabinet",
-      "clinical_focus": "Exposition avec prévention de la réponse",
-      "clinical_intro": "Noémie craint de se sentir dépassée quand sa clinicienne lui parle d’un essai en séance. L’exposition avec prévention de la réponse est une approche structurée du TOC. Elle aborde une situation qui déclenche le doute et travaille sur la réponse compulsive qui suit. La professionnelle et Noémie peuvent discuter du cadre, du rythme et de ce qui compte pour elle."
+      "clinical_focus": "Élan à neutraliser et soin consenti",
+      "clinical_intro": "En décrivant le tram et les messages de l’épicerie, Noémie reconnaît la même envie de neutraliser le doute par une réponse qu’elle se sent poussée à chercher. Elle demande ce que cette envie aurait à voir avec la thérapie proposée. L’essai se discute avec la clinicienne et les règles de conservation des archives continuent de s’appliquer.",
+      "conclusion": "Noémie comprend mieux ce que l’essai pourrait aborder et choisit d’en discuter au cabinet. Maud pourra venir parler d’un seul moment de leur quotidien. Leur prochaine sortie donnera un contexte précis à cet accord."
     },
     {
       "number": 6,
       "slug": "noemie-deux-places-au-cinema",
-      "title": "Accompagner Noémie au cinéma quand elle cherche encore à être rassurée",
-      "description": "Sur le trajet du cinéma, Noémie demande à Maud une confirmation. Maud lui offre sa présence en suivant leur accord préparé avec la clinicienne.",
+      "title": "Quand le TOC organise peu à peu les réponses du couple",
+      "description": "Maud et Noémie reprennent un accord sur les confirmations demandées après le départ. Elles cherchent une présence qui leur convienne.",
       "context": "En route pour une séance de cinéma après un échange commun avec la clinicienne",
       "topics": [
-        "Réassurance répétée",
-        "Anxiété liée au doute",
-        "Soutien convenu"
+        "Implication du proche",
+        "Accord préparé en soin",
+        "Soutien dans une sortie"
       ],
       "opening": "Maud a réservé deux places pour une comédie dont elle ne se rappelle que l’actrice principale. Elle tient à arriver avant la bande-annonce du festival que le cinéma projette en début de séance. Noémie s’assoit sur le premier banc après leur immeuble pour refaire un lacet. Sur la rue d’en face, une affiche pour le film a perdu un morceau en haut. On voit encore l’actrice et une chaise de jardin. Elle aimerait savoir si la chaise est là par hasard ou si elle a quelque chose à voir avec l’histoire.\n\nMaud a fermé l’appartement en sortant et l’a dit à Noémie. Sur le chemin, la question revient. Elles ont parlé de ce moment avec la clinicienne. Maud s’était demandé si elle devrait reconnaître toutes les demandes répétées. Elles sont convenues de s’en tenir à la situation précise qu’elles avaient apportée au rendez-vous. Maud peut rester près de Noémie, sans recommencer à raconter la fermeture ou retourner prendre une photo lorsque la même question revient. Elles ont aussi convenu de revenir sur l’accord si l’une d’elles se sent mal à l’aise.\n\n« J’ai encore envie de te demander pour la poignée », dit Noémie. Maud s’arrête au bord du trottoir. Le feu des piétons passe au vert, puis repasse au rouge. Elle dit qu’elle peut attendre là avec Noémie ou continuer avec elle vers le cinéma. Noémie reste un moment à regarder l’affiche. Elle n’a pas encore décidé si elle veut qu’on lui prenne le bras.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Soutenir une personne quand la réponse a déjà été donnée",
-          "text": "Maud peut répondre à la situation et à la personne de deux façons différentes. L’information pratique a déjà été transmise quand elles sont sorties. L’inquiétude de Noémie, elle, est toujours présente. Maud peut l’entendre sans ajouter un récit détaillé du bruit de la porte ou un nouveau contrôle. L’accord a été préparé au calme avec la clinicienne."
+          "heading": "Quand le proche est sollicité dans le rituel",
+          "text": "Le TOC peut modifier les habitudes d’un couple lorsque l’un se sent obligé de répondre aux demandes répétées de l’autre. Maud a donné des détails et parfois des photos pour essayer d’aider Noémie. Avec la clinicienne, elles ont défini une situation précise où Maud peut offrir sa présence sans refaire un contrôle. L’aide qu’elles ont choisie tient compte de l’accord et des limites de chacune. Elles pourront revoir cet accord ensemble s’il leur convient mal."
         },
         {
           "role": "manifestations",
-          "heading": "Le besoin d’entendre de nouveau que la porte est fermée",
-          "text": "Maud a fermé l’appartement et l’a dit à Noémie en sortant. Pourtant, sur le chemin, Noémie dit qu’elle a de nouveau envie de demander si la porte est bien fermée. Dans la file du cinéma, elle voudrait encore entendre un détail sur la poignée. C’est le même épisode de fermeture qui l’occupe aux deux moments. La première réponse ne fait pas disparaître l’envie d’obtenir une nouvelle confirmation, alors même que Noémie veut continuer vers le film."
+          "heading": "Comment l’entourage se retrouve-t-il impliqué dans les compulsions ?",
+          "points": [
+            {
+              "heading": "Une aide qui devient habituelle",
+              "text": "Un geste de bonne volonté peut être attendu à chaque retour du doute.",
+              "examples": [
+                "Maud a pris l’habitude de détailler la fermeture.",
+                "Un proche peut finir par garder du temps pour répondre à des confirmations récurrentes."
+              ]
+            },
+            {
+              "heading": "La crainte de mal répondre",
+              "text": "Le proche peut se demander quelle réaction aidera ou blessera.",
+              "examples": [
+                "Maud se demande si elle doit repérer toutes les demandes répétées.",
+                "Un partenaire peut hésiter à changer un échange qu’il pensait apaisant."
+              ]
+            },
+            {
+              "heading": "Une autre présence dans le même moment",
+              "text": "Un accord préparé peut ouvrir une forme d’appui qui ne dépend pas d’une preuve.",
+              "examples": [
+                "Au feu, Maud propose de rester ou de continuer ensemble.",
+                "Dans une situation convenue avec l’équipe, un proche peut écouter la gêne et garder sa propre limite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser un choix après le moment difficile",
-          "text": "L’accord porte sur cette demande répétée, dans les limites de ce que Noémie souhaite et de ce que Maud accepte. Si un fait nouveau survient, par exemple une serrure cassée ou une clé oubliée, elles peuvent se donner l’information et chercher une solution. Elles peuvent revoir l’accord avec la clinicienne si une partie devient trop difficile à tenir.\n\nNoémie peut ressentir de la gêne quand Maud rappelle ce qu’elles ont prévu. Elle peut dire qu’elle préfère quelques instants sans discussion, qu’elle aimerait marcher ensemble ou qu’elle ne veut plus aller au cinéma ce soir. Le billet n’est pas un engagement de soin. Maud a aussi le droit de vouloir voir le film et de décider avec Noémie comment elles s’organisent. Leur envie de sortir leur appartient, même si la difficulté se présente sur le trajet.\n\nAprès coup, Noémie souhaite dire à la clinicienne que le silence à côté de Maud lui a été plus supportable que plusieurs explications. Maud voudrait parler de l’incertitude qu’elle a ressentie en essayant d’aider. Ce retour peut servir à ajuster ce qu’elles se proposent. Elles pourront aussi décider que le prochain trajet reste simplement un moment pour aller voir un film."
+          "heading": "3 techniques pour faire vivre un accord préparé en soin",
+          "points": [
+            {
+              "heading": "S’en tenir au moment convenu",
+              "objective": "Garder l’accord assez précis pour chacune.",
+              "exercise": [
+                "Reprendre ensemble la situation discutée au cabinet.",
+                "Nommer le geste d’appui qui y a été retenu.",
+                "Prévoir d’en reparler si l’une le souhaite."
+              ],
+              "benefit": "La réponse peut rester lisible sans généralisation à tous les échanges."
+            },
+            {
+              "heading": "Choisir la présence utile maintenant",
+              "objective": "Laisser à Noémie un choix concret sur le trajet.",
+              "exercise": [
+                "Dire s’il faut attendre ou marcher.",
+                "Préciser si le contact physique est souhaité.",
+                "Ajuster quand elles arrivent à la salle."
+              ],
+              "benefit": "Maud peut soutenir le trajet à la mesure de ce qui est demandé."
+            },
+            {
+              "heading": "Relire l’expérience avec la clinicienne",
+              "objective": "Voir comment chacune a vécu l’accord.",
+              "exercise": [
+                "Retenir un moment où la question est revenue.",
+                "Dire ce que chacune a trouvé difficile ou aidant.",
+                "Demander un ajustement si nécessaire."
+              ],
+              "benefit": "L’implication des proches peut évoluer avec leur accord."
+            }
+          ]
         }
       ],
       "ending": "Au feu suivant, Noémie demande à Maud de marcher avec elle jusqu’à la salle. Elle n’a plus envie qu’on lui tienne le bras. Dans la file, elle voudrait encore une précision sur la poignée. Maud lui montre l’annonce du festival imprimée au dos de leur billet. Noémie prend son billet, puis lui raconte ce qu’il reste de l’affiche. Quand elles sortent du cinéma, elles sont d’accord sur un point. La chaise de jardin était le meilleur accessoire du film.",
@@ -276,8 +617,9 @@
         "next": "Aux archives, elle choisit quelle part de sa situation personnelle Aïcha a besoin de connaître pour organiser leur travail."
       },
       "ending_title": "Elles partent à pied",
-      "clinical_focus": "Soutien face aux compulsions",
-      "clinical_intro": "Sur le chemin du cinéma, Noémie aimerait redemander si la porte est fermée. Maud peut l’accompagner sans renouveler la réassurance déjà donnée, selon l’accord qu’elles ont préparé avec la clinicienne. Une présence proposée avec tact peut soutenir Noémie pendant que le doute persiste. Elle choisit ce qui lui convient à ce moment."
+      "clinical_focus": "Participation des proches aux rituels",
+      "clinical_intro": "Sur le chemin du cinéma, Noémie voudrait revenir sur la fermeture de l’appartement. Maud avait pris l’habitude de raconter le geste ou d’envoyer une photo pour l’aider. Elles essaient une autre réponse préparée avec la clinicienne. L’envie de demander revient, tandis qu’une présence choisie reste possible pour le trajet.",
+      "conclusion": "Maud et Noémie arrivent au cinéma avec une demande encore présente et une autre manière d’être ensemble. La scène leur donne de quoi reparler de l’accord. Aux archives, Noémie devra formuler un besoin qui relève du travail."
     },
     {
       "number": 7,
@@ -299,13 +641,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une vérification qui fait perdre le fil d’une recherche",
-          "text": "Après chaque appel, Noémie retourne au début du document. Elle revient même à une cote qui a déjà été confirmée. La crainte qu’une erreur compromette tout le dossier retient son attention alors qu’elle sait où poursuivre la recherche sur les barques. Quand elle relève la tête, elle ne sait plus quelle photo elle voulait montrer à la classe. Le résultat du travail peut rester exact et lui avoir demandé beaucoup plus de temps."
+          "heading": "Comment une interruption peut-elle relancer les vérifications au travail ?",
+          "points": [
+            {
+              "heading": "Une coupure qui fait perdre le point de reprise",
+              "text": "Revenir à la tâche peut demander de retrouver où elle en était.",
+              "examples": [
+                "Trois appels interrompent la recherche sur les barques.",
+                "Une question de livraison peut interrompre la lecture d’un texte dont la fin approchait."
+              ]
+            },
+            {
+              "heading": "Le retour vers un contrôle déjà traité",
+              "text": "Après l’interruption, le doute peut déplacer le travail vers une autre question.",
+              "examples": [
+                "Noémie revient à une cote confirmée.",
+                "Une personne peut reprendre un dossier fermé en craignant que la coupure ait masqué une erreur."
+              ]
+            },
+            {
+              "heading": "Du temps moins visible que le résultat",
+              "text": "La recherche aboutit parfois après des reprises dont les collègues ne savent rien.",
+              "examples": [
+                "Aïcha pourra voir la photo de la barque, pas le temps passé autour de la cote.",
+                "Une légende rendue à l’heure peut avoir occupé le créneau prévu pour une autre tâche."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir qui traite quoi pendant un travail précis",
-          "text": "Aïcha a besoin de pouvoir joindre Noémie si une personne signale un problème avec une pièce originale. Pour les questions de mise en page, elle peut recueillir les demandes et convenir d’un moment où elles reprendront ensemble les points en attente. Noémie peut proposer un créneau réaliste pour vérifier les sources de la légende. Les tâches seront revues si une priorité change. Ces décisions servent à répartir le travail et la circulation de l’information.\n\nLe plan de soin continue d’être discuté en consultation. Si Noémie veut expliquer à sa clinicienne comment les interruptions compliquent sa journée, elle peut reprendre un exemple précis et ce qu’elles ont pu modifier au bureau. Aïcha n’a pas à décider si une reprise du registre est un rituel ni à en faire un indicateur de progrès. La question des barques doit recevoir une réponse étayée, même si cette réponse reste incomplète.\n\nAïcha peut préciser les informations dont elle a besoin pour répartir le travail. Elles peuvent distinguer la note pratique accessible à l’équipe d’une confidence faite à Aïcha. Si une autre personne doit intervenir, Noémie peut demander à en parler avant toute transmission."
+          "heading": "3 techniques pour protéger une tâche souvent interrompue",
+          "points": [
+            {
+              "heading": "Choisir un point de reprise",
+              "objective": "Rendre la recherche plus facile à retrouver.",
+              "exercise": [
+                "Noter la question des barques.",
+                "Indiquer le dossier où la recherche s’arrête.",
+                "Retrouver le point convenu quand le travail reprend."
+              ],
+              "benefit": "L’appui peut rendre l’organisation plus lisible."
+            },
+            {
+              "heading": "Répartir les appels et les textes",
+              "objective": "Donner du temps à la tâche partagée.",
+              "exercise": [
+                "Demander un échange seul à seul.",
+                "Définir la durée du créneau.",
+                "Dire quelles questions Aïcha peut recevoir."
+              ],
+              "benefit": "Chacune peut savoir ce qui lui revient pendant ce temps."
+            },
+            {
+              "heading": "Décrire le coût en consultation",
+              "objective": "Rendre visible ce que le résultat masque.",
+              "exercise": [
+                "Choisir un appel qui a coupé la recherche.",
+                "Dire à quel contrôle on est revenu.",
+                "Nommer la tâche qui a attendu."
+              ],
+              "benefit": "La clinicienne peut aborder ce retentissement avec Noémie."
+            }
+          ]
         }
       ],
       "ending": "Noémie parle de son diagnostic en une phrase et garde les séances pour elle. Aïcha note le moment où elles reprendront les textes et l’adresse à laquelle faire suivre les questions de mise en page. Noémie trouve enfin une photographie où une barque a un chargement visible. Elle écrit à côté du nom de l’élève « une image à regarder ensemble ». En allant chercher la fiche du cliché, Aïcha s’arrête devant le mur du couloir. Une tache sombre apparaît au-dessus de la salle où elles devaient recevoir la classe.",
@@ -322,7 +720,8 @@
       },
       "ending_title": "Un créneau défini à deux",
       "clinical_focus": "Retentissement professionnel du TOC",
-      "clinical_intro": "Après chaque interruption, Noémie revient au début du document. Parfois une cote déjà confirmée prend toute son attention et l’éloigne de la recherche pour la classe. Le TOC peut peser sur le travail même quand le résultat paraît impeccable. La scène montre comment parler de cet effort et demander un aménagement en choisissant ce que l’on souhaite confier."
+      "clinical_intro": "Après chaque interruption, Noémie revient au début du document. Parfois une cote déjà confirmée prend toute son attention et l’éloigne de la recherche pour la classe. Le TOC peut peser sur le travail même quand le résultat paraît impeccable. La scène montre comment parler de cet effort et demander un aménagement en choisissant ce que l’on souhaite confier.",
+      "conclusion": "Noémie trouve une image pour la visite et obtient un créneau plus clair. Le résultat ne montre pas à lui seul le temps perdu après les interruptions. L’infiltration demandera bientôt une action immédiate fondée sur ce que l’équipe voit."
     },
     {
       "number": 8,
@@ -344,13 +743,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Après le signalement, Noémie cherche dans sa mémoire un signe qu’elle aurait dû remarquer. Elle ne détient aucune information supplémentaire à transmettre sur ce point. L’enchaînement mérite d’être décrit à la clinicienne, avec l’inquiétude qui a suivi et ce qu’il lui a coûté. Elle peut aussi demander à son équipe qui prend la suite du signalement, une question concrète qui sert à partager les responsabilités."
+          "heading": "Comment un incident réel nourrit-il un doute sur sa responsabilité ?",
+          "points": [
+            {
+              "heading": "Des faits qui justifient un signalement",
+              "text": "Un élément nouveau appelle la réponse prévue par le service.",
+              "examples": [
+                "Aïcha et Noémie observent une tache et un écoulement.",
+                "Un changement visible après un contrôle peut légitimement conduire à prévenir le responsable."
+              ]
+            },
+            {
+              "heading": "L’envie de refaire l’histoire après le relais",
+              "text": "Le doute peut se fixer sur ce qu’on aurait dû prévoir ou remarquer.",
+              "examples": [
+                "Noémie se demande si elle a manqué la tache le matin.",
+                "Une personne peut revoir son trajet après avoir transmis un incident dont une autre équipe s’occupe."
+              ]
+            },
+            {
+              "heading": "L’événement qui continue à occuper l’attention",
+              "text": "La question de responsabilité peut gêner une nouvelle décision.",
+              "examples": [
+                "Aïcha ouvre le calendrier pendant que Noémie reprend son trajet en pensée.",
+                "Quelqu’un peut avoir du mal à choisir une salle de remplacement en repensant encore à une alerte."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répartir la suite sans exiger une garantie générale",
-          "text": "L’équipe aura des réponses partielles tant que l’évaluation du bâtiment n’est pas terminée. L’accueil doit savoir qu’on change la salle prévue. L’enseignant peut être informé qu’une autre proposition arrivera à une heure donnée. Le service compétent garde la décision sur l’accès. Aïcha et Noémie n’ont pas besoin de savoir quand tout sera réparé pour s’accorder sur les informations qu’elles transmettent aujourd’hui.\n\nLorsqu’elle en parlera au cabinet, Noémie pourra dire quel renseignement répondait à une responsabilité du métier et à quel moment elle a commencé à chercher une certitude sur ce qu’elle aurait dû voir. La clinicienne peut examiner avec elle comment l’incident s’inscrit dans ses difficultés. Au travail, chacun répond aux nouveaux faits qui le concernent. Les vérifications liées au bâtiment suivent leur propre cadre."
+          "heading": "3 techniques pour transmettre l’incident et parler du doute qui suit",
+          "points": [
+            {
+              "heading": "Appliquer le relais prévu",
+              "objective": "Traiter l’écoulement avec les personnes compétentes.",
+              "exercise": [
+                "Signaler les faits observés selon la procédure.",
+                "Respecter les consignes d’accès.",
+                "Transmettre les références demandées par le service."
+              ],
+              "benefit": "Les responsables disposent de ce qui leur est utile pour agir."
+            },
+            {
+              "heading": "Prendre une décision distincte",
+              "objective": "Préserver le rendez-vous de l’enseignant.",
+              "exercise": [
+                "Identifier les salles autorisées.",
+                "Vérifier l’accord de l’équipe concernée.",
+                "Proposer une nouvelle place à l’enseignant."
+              ],
+              "benefit": "La visite peut être réorganisée pendant l’évaluation du bâtiment."
+            },
+            {
+              "heading": "Apporter le doute au suivi",
+              "objective": "Expliquer ce qui arrive après le passage de relais.",
+              "exercise": [
+                "Raconter le signalement effectué.",
+                "Dire quand la responsabilité a commencé à tourner en boucle.",
+                "Indiquer ce que cette reprise a interrompu."
+              ],
+              "benefit": "La clinicienne peut entendre ce qui dépasse l’information à transmettre."
+            }
+          ]
         }
       ],
       "ending": "Aïcha propose à l’enseignant un entretien dans la salle de lecture. Les deux femmes pourront y dérouler les reproductions du canal, avec l’accord de l’équipe qui y travaille. Noémie remet la fiche du bateau sous le dossier et laisse au service chargé du bâtiment le point de suivi. Au moment de quitter les archives, elle reçoit de Maud un enregistrement de quelques mesures jouées à la clarinette. Maud la prévient que la répétition du lendemain commencera plus tôt.",
@@ -367,7 +822,8 @@
       },
       "ending_title": "La trace signalée au service",
       "clinical_focus": "Doute sur sa responsabilité",
-      "clinical_intro": "Une infiltration impose d’agir aux archives. Après le signalement, Noémie cherche encore à savoir si elle aurait dû voir quelque chose plus tôt. Dans le TOC, un doute sur sa responsabilité peut entraîner une recherche de certitude qui dépasse l’information disponible. Les procédures du service donnent un cadre à l’action tandis que certaines questions restent ouvertes."
+      "clinical_intro": "Une infiltration impose d’agir aux archives. Après le signalement, Noémie cherche encore à savoir si elle aurait dû voir quelque chose plus tôt. Dans le TOC, un doute sur sa responsabilité peut entraîner une recherche de certitude qui dépasse l’information disponible. Les procédures du service donnent un cadre à l’action tandis que certaines questions restent ouvertes.",
+      "conclusion": "L’eau appelle le signalement effectué par Noémie. Le doute sur le moment où elle aurait dû la voir continue après cette action. Elle garde sa tâche sur l’exposition et laisse au service le suivi du bâtiment."
     },
     {
       "number": 9,
@@ -389,13 +845,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Noémie se souvient d’une promenade qu’elle voulait faire et du moment où elle a envisagé tout le temps du retour au cas où elle voudrait vérifier. La décision de rester lui avait alors semblé plus simple. Elle retrouve maintenant le message de Sarah et le souhait qu’elle avait d’y répondre autrement.\n\nLes raisons de refuser une invitation sont nombreuses. La fatigue, le prix ou l’envie de rester seule peuvent suffire. En consultation, Noémie peut parler des occasions qui lui ont manqué et du rôle que joue le TOC dans certaines de ses décisions. Elle choisit ce qu’elle aimerait retrouver et la place qu’elle souhaite donner à ces objectifs dans son suivi."
+          "heading": "Comment la perspective de rituels peut-elle rétrécir les sorties ?",
+          "points": [
+            {
+              "heading": "Anticiper du temps perdu avant de partir",
+              "text": "L’idée d’un long détour pour vérifier peut peser avant même la sortie.",
+              "examples": [
+                "Noémie calcule le temps nécessaire pour revenir pendant une promenade.",
+                "Une personne peut hésiter à accepter un dîner en imaginant tout le trajet occupé par un doute."
+              ]
+            },
+            {
+              "heading": "Décliner malgré l’intérêt",
+              "text": "Un projet désiré peut devenir difficile à accepter à cause de cette anticipation.",
+              "examples": [
+                "Noémie a laissé passer une invitation alors qu’elle veut entendre Maud jouer.",
+                "Une personne peut renoncer à une balade avec un ami alors qu’elle souhaitait le voir."
+              ]
+            },
+            {
+              "heading": "Rétrécir les occasions sans l’avoir choisi",
+              "text": "Une série de refus peut réduire la place des loisirs et des liens.",
+              "examples": [
+                "Deux anciennes invitations réapparaissent dans le fil avec Sarah.",
+                "Un ami peut espacer ses propositions après plusieurs réponses repoussées."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la sortie du côté de celles qui l’organisent",
-          "text": "Une place près de Sarah et l’indication de l’entrée répondent à des questions ordinaires. Maud peut les proposer comme elle le ferait pour une autre invitée. Elle peut aussi dire quand elle doit rejoindre le groupe et ce qu’elle pourra faire après. La répétition appartient d’abord aux personnes qui jouent et à celles qu’elles invitent. Le travail d’exposition se décide avec la clinicienne. Elle et Noémie ont déjà pu parler de ce que lui demande un essai encadré au cabinet.\n\nSi Noémie change d’avis, elle peut prévenir Sarah. Si elle vient, elle peut écouter le morceau et expliquer ensuite ce qui lui a plu, même si le trajet lui a demandé de l’énergie. À son prochain rendez-vous, elle peut dire qu’elle voudrait retrouver une place dans les moments où Maud joue. Elle peut mentionner aussi les invitations qu’elle n’a pas pu accepter. Les deux informations aident à situer ce qui compte."
+          "heading": "3 techniques pour décider d’une sortie malgré ce qu’elle pourrait coûter",
+          "points": [
+            {
+              "heading": "Nommer la sortie que l’on veut",
+              "objective": "Retrouver ce qui donne envie d’accepter.",
+              "exercise": [
+                "Dire ce qu’on aimerait entendre.",
+                "Repérer le moment qui compte.",
+                "Choisir ce qu’on souhaite proposer à Sarah."
+              ],
+              "benefit": "La décision peut inclure l’intérêt de la soirée."
+            },
+            {
+              "heading": "Préparer le rendez-vous avec l’amie",
+              "objective": "Rendre l’arrivée compréhensible à chacun.",
+              "exercise": [
+                "Demander où se trouve l’entrée.",
+                "Convenir d’une heure et d’un point de rencontre.",
+                "Dire quelle place permet d’écouter le morceau."
+              ],
+              "benefit": "L’accueil peut être plus simple à retrouver."
+            },
+            {
+              "heading": "Décrire les invitations déclinées",
+              "objective": "Faire apparaître la portée de l’évitement.",
+              "exercise": [
+                "Retenir une sortie qu’on voulait faire.",
+                "Dire ce qui a pesé sur la décision.",
+                "Reprendre le sujet avec la clinicienne."
+              ],
+              "benefit": "Le soin peut tenir compte d’activités que Noémie tient à garder."
+            }
+          ]
         }
       ],
       "ending": "Sarah attend près de l’entrée avec le programme plié en deux. Noémie lui montre l’escalier sur son croquis avant de ranger son carnet. Elles s’assoient au fond. À la première entrée de la clarinette, Noémie reconnaît le passage que Maud reprend à la maison. Elle entend cette fois une réponse des autres instruments. En sortant, elle veut savoir comment Maud repère ce moment. Maud dit qu’elle écoute surtout la contrebasse et propose de la lui faire entendre à la prochaine répétition.",
@@ -412,7 +924,8 @@
       },
       "ending_title": "Elle rejoint Sarah dans la salle",
       "clinical_focus": "Évitement lié au TOC",
-      "clinical_intro": "Avant la répétition de Maud, Noémie redoute de passer le trajet à refaire mentalement les gestes du départ. Dans le TOC, éviter une sortie peut soulager cette peur sur le moment. Si cela se répète, l’évitement réduit les occasions de faire ce qui lui tient à cœur. Ce coût fait partie de ce qu’elle peut décrire au suivi."
+      "clinical_intro": "Avant la répétition de Maud, Noémie redoute de passer le trajet à refaire mentalement les gestes du départ. Dans le TOC, éviter une sortie peut soulager cette peur sur le moment. Si cela se répète, l’évitement réduit les occasions de faire ce qui lui tient à cœur. Ce coût fait partie de ce qu’elle peut décrire au suivi.",
+      "conclusion": "La répétition donne à Noémie la place qu’elle cherchait près de Sarah. Les invitations déclinées restent un repère utile pour comprendre l’évitement. Avant le vernissage, la pression donnera un autre rythme aux vérifications."
     },
     {
       "number": 10,
@@ -434,13 +947,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "En consultation, Noémie peut raconter plusieurs moments de la semaine. Le nombre de fois où elle a demandé la feuille ne dit qu’une partie de ce qui lui coûte. Elle a aussi perdu du temps avant de prendre une décision, quitté le travail plus tard et dessiné moins souvent qu’elle n’en avait envie.\n\nLa clinicienne peut reprendre avec elle les situations qui posent problème, le travail convenu en séance et les objectifs qu’elle avait choisis. Elles pourront discuter de ce qui lui paraît encore adapté et de ce qui appelle un changement. La charge de l’exposition fait partie du contexte. Cette observation à elle seule ne permet pas d’établir la raison de chaque fluctuation."
+          "heading": "Comment les compulsions peuvent-elles reprendre pendant une semaine chargée ?",
+          "points": [
+            {
+              "heading": "Des vérifications plus longues que la tâche",
+              "text": "Le doute peut revenir même quand une correction a été effectuée.",
+              "examples": [
+                "Noémie redemande la feuille sur laquelle elle a changé la date.",
+                "Un document envoyé peut encore occuper du temps après la confirmation de sa version."
+              ]
+            },
+            {
+              "heading": "Une gêne qui gagne les heures de repos",
+              "text": "Une période difficile peut déborder du contexte où elle est apparue.",
+              "examples": [
+                "Le cahier de croquis reste sous le sac pendant plusieurs retours.",
+                "Une personne peut rentrer et repousser de nouveau un loisir familier."
+              ]
+            },
+            {
+              "heading": "Un écart avec des moments plus faciles",
+              "text": "Un appui qui a fonctionné ailleurs ne prédit pas la semaine suivante.",
+              "examples": [
+                "Noémie se rappelle le cinéma et voit ce que demandent les panneaux aujourd’hui.",
+                "Une personne peut avoir parlé du doute avec un proche et sentir de nouveau le besoin d’aide devant une tâche à livrer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Formuler des demandes différentes au cabinet et au travail",
-          "text": "Noémie aimerait savoir si son rendez-vous peut être avancé. Elle peut dire combien d’activités de la semaine ont été touchées, y compris à la maison. Si aucun créneau n’est disponible plus tôt, elle peut demander quel contact utiliser si la gêne devient plus lourde. Le contenu et le rythme du soin se décident avec la clinicienne. Noémie n’a pas à reprendre seule les exercices du cabinet pour rattraper cette semaine.\n\nAu travail, elle peut demander à Aïcha de préciser la version qu’elles doivent valider, qui la garde et quel texte peut attendre. Le choix de relire les deux légendes repose sur ce qui doit être livré. Noémie peut aussi dire si le temps lui manque pour une autre tâche. Aïcha peut répondre à la question d’organisation tout en laissant à Noémie la possibilité de parler du reste à la personne qui la suit."
+          "heading": "3 techniques pour revoir ses appuis quand le doute reprend du temps",
+          "points": [
+            {
+              "heading": "Décrire ce qui a changé",
+              "objective": "Donner à la clinicienne un aperçu de plusieurs jours.",
+              "exercise": [
+                "Choisir un exemple au travail.",
+                "Ajouter un effet après le retour à la maison.",
+                "Indiquer depuis quand cela prend plus de place."
+              ],
+              "benefit": "Le suivi peut se régler à partir du changement rapporté."
+            },
+            {
+              "heading": "Clarifier le besoin de contact",
+              "objective": "Choisir comment et quand reprendre la difficulté.",
+              "exercise": [
+                "Consulter le rendez-vous prévu.",
+                "Écrire au cabinet avec le motif utile.",
+                "Demander si le point peut être rapproché."
+              ],
+              "benefit": "L’équipe peut examiner la demande selon la situation."
+            },
+            {
+              "heading": "Fixer l’étape qui part aujourd’hui",
+              "objective": "Limiter les décisions simultanées aux archives.",
+              "exercise": [
+                "Retenir la légende déjà décidée.",
+                "Dire ce qui reste ouvert.",
+                "Fixer avec Aïcha le prochain point."
+              ],
+              "benefit": "Le dossier peut avancer avec une répartition explicite."
+            }
+          ]
         }
       ],
       "ending": "Aïcha et Noémie conviennent que la légende du bateau partira aujourd’hui et qu’elles regarderont demain la dernière proposition. Noémie écrit au cabinet pour signaler ce qui a pris plus de temps et demander si le rendez-vous peut être rapproché. Sur le chemin du retour, elle s’arrête devant la vitrine du cinéma. Le festival annoncé au dos de leur billet approche. Elle prend une photo du programme pour demander à Maud quel film elle aimerait voir.",
@@ -457,7 +1026,8 @@
       },
       "ending_title": "Deux panneaux et un rendez-vous",
       "clinical_focus": "Fluctuation des compulsions",
-      "clinical_intro": "Une collègue confirme quelle version est partie à l’impression et Noémie voudrait encore la vérifier. Les compulsions peuvent reprendre de la place dans un contexte alors qu’elles pèsent moins dans un autre. Noémie observe aussi qu’elle termine plus tard et dessine moins. Ces effets aident à revoir le suivi avec sa clinicienne au-delà du seul nombre de vérifications."
+      "clinical_intro": "Une collègue confirme quelle version est partie à l’impression et Noémie voudrait encore la vérifier. Les compulsions peuvent reprendre de la place dans un contexte alors qu’elles pèsent moins dans un autre. Noémie observe aussi qu’elle termine plus tard et dessine moins. Ces effets aident à revoir le suivi avec sa clinicienne au-delà du seul nombre de vérifications.",
+      "conclusion": "La période plus difficile donne à Noémie de nouveaux éléments pour le cabinet. Avec Aïcha, elle distingue la légende prête et celle qui attendra. Le jour de l’ouverture, le doute pourra revenir alors que les contrôles auront été effectués."
     },
     {
       "number": 11,
@@ -479,13 +1049,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Noémie a choisi de parler des cartes près d’une vitrine parce que ce format lui plaît et qu’il convient à l’organisation. Elle peut discuter en consultation du doute qui lui revient au milieu de cette tâche. Son choix professionnel a aussi un intérêt pour elle en dehors du suivi. Elle a préparé pendant des semaines ce qu’elle voudrait montrer aux visiteurs."
+          "heading": "Comment un doute encore présent pèse-t-il sur une activité choisie ?",
+          "points": [
+            {
+              "heading": "L’envie de revoir une trace disponible",
+              "text": "Un registre déjà renseigné peut rester très attirant lorsque le doute revient.",
+              "examples": [
+                "Noémie pense à revoir le numéro de la première pièce.",
+                "Une personne peut avoir envie de retourner à son dossier juste avant de recevoir quelqu’un."
+              ]
+            },
+            {
+              "heading": "Le fil d’un échange qui se perd",
+              "text": "L’inquiétude peut occuper le moment où une consigne est donnée.",
+              "examples": [
+                "La première phrase d’Aïcha échappe à Noémie.",
+                "Un appel en cours peut devenir difficile à suivre alors que la question précédente revient."
+              ]
+            },
+            {
+              "heading": "L’intérêt de la tâche qui subsiste",
+              "text": "Une envie de rencontrer les autres peut rester présente dans le même moment.",
+              "examples": [
+                "Noémie veut comprendre ce que le visiteur a vu dans le dessin.",
+                "Quelqu’un peut tenir à répondre à une question même en se sentant encore préoccupé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Partager une responsabilité pendant un moment public",
-          "text": "Aïcha peut annoncer les textes et l’ordre de la visite pendant que Noémie accueille les questions sur la première carte. Chacune sait à qui transmettre une difficulté d’organisation. Les pièces ont été vérifiées selon les procédures de l’équipe. Si un détail de l’installation pose un problème concret pendant la soirée, il revient à la personne chargée de cette partie de le traiter. L’appui d’Aïcha tient à la clarté de cette répartition et à la place qu’elle laisse à Noémie.\n\nMaud a prévu de passer après la première prise de parole. Elle peut venir comme visiteuse, demander si Noémie a envie de lui montrer une carte et entendre qu’elle doit encore rester près du public. Ce soir, Noémie peut aussi demander à sortir un moment. Aïcha peut la remplacer si elle est disponible. Ces décisions pratiques peuvent se prendre sans rendre publique une information sur le suivi."
+          "heading": "3 techniques pour prendre sa place quand le doute reste là",
+          "points": [
+            {
+              "heading": "Retrouver l’accord d’accueil",
+              "objective": "Choisir parmi les rôles possibles.",
+              "exercise": [
+                "Demander l’ordre des prises de parole.",
+                "Écouter les deux propositions d’Aïcha.",
+                "Dire où on souhaite se placer."
+              ],
+              "benefit": "L’équipe peut accueillir les visiteurs avec des rôles clairs."
+            },
+            {
+              "heading": "S’appuyer sur un objet de la visite",
+              "objective": "Retrouver une question qui intéresse Noémie.",
+              "exercise": [
+                "Garder une reproduction à disposition.",
+                "Demander ce que le visiteur regarde.",
+                "Répondre à partir des faits connus."
+              ],
+              "benefit": "La conversation peut s’ouvrir même si le doute persiste."
+            },
+            {
+              "heading": "Garder un exemple pour la consultation",
+              "objective": "Décrire l’effort pendant une activité menée.",
+              "exercise": [
+                "Nommer le retour du doute au micro.",
+                "Dire ce qui a permis de reprendre l’échange.",
+                "Indiquer ce qui reste difficile."
+              ],
+              "benefit": "La clinicienne peut entendre l’effet et l’intérêt de la visite."
+            }
+          ]
         }
       ],
       "ending": "Un garçon demande si le chemin de halage existe encore. Noémie lui montre une photographie et lui dit que le chemin n’a pas le même tracé sur les plans les plus récents. Il veut savoir où est passée la petite porte rouge. Noémie promet de chercher, car elle n’a pas encore trouvé de réponse sûre. Quand Maud arrive, elle commence par lui montrer les rames dessinées par la classe. Puis elle lui demande si elle voudrait retourner un dimanche vers l’escalier du canal.",
@@ -502,7 +1128,8 @@
       },
       "ending_title": "Une invitation le long du canal",
       "clinical_focus": "Participation malgré le doute",
-      "clinical_intro": "Au vernissage, un doute obsessionnel sur un numéro détourne Noémie de la première phrase au micro. Elle choisit de parler avec les visiteurs près de la carte alors que l’envie de revoir le registre persiste. Retrouver une activité qui compte peut marquer une amélioration du quotidien avec un TOC. L’effort qu’elle y consacre reste utile à décrire au suivi."
+      "clinical_intro": "Au vernissage, un doute obsessionnel sur un numéro détourne Noémie de la première phrase au micro. Elle choisit de parler avec les visiteurs près de la carte alors que l’envie de revoir le registre persiste. Retrouver une activité qui compte peut marquer une amélioration du quotidien avec un TOC. L’effort qu’elle y consacre reste utile à décrire au suivi.",
+      "conclusion": "Noémie trouve près de la vitrine la place qu’elle veut prendre. L’échange sur le chemin de halage montre ce qu’elle retrouve au milieu d’un doute encore présent. Elle emmène ensuite sa curiosité au bord du canal."
     },
     {
       "number": 12,
@@ -524,13 +1151,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Un doute présent qui n’occupe pas toujours la même place",
-          "text": "Au vernissage, la question qui revient quand Aïcha essaie le micro occupe assez Noémie pour qu’elle perde le fil de ce qui se passe autour d’elle. Dans le tram, la fermeture de l’atelier l’occupe encore, mais elle remarque le nom de son arrêt avant le départ de la rame. Ces deux moments montrent des effets différents sur son attention. L’itinéraire réussi lui donne un exemple à raconter, et le doute fait encore partie de ce trajet."
+          "heading": "Comment mesurer ce que prennent encore les rituels mentaux ?",
+          "points": [
+            {
+              "heading": "Une attention encore absorbée dans un moment réussi",
+              "text": "Une activité peut aboutir malgré une part du temps prise par le rituel.",
+              "examples": [
+                "Noémie présente la carte et se souvient de la consigne qui lui a échappé.",
+                "Une personne peut finir une réunion sans avoir entendu le début d’une question."
+              ]
+            },
+            {
+              "heading": "Un effet qui se réduit dans un autre contexte",
+              "text": "La préoccupation peut persister avec un retentissement différent.",
+              "examples": [
+                "Noémie retrouve le nom de son arrêt alors qu’elle repense à l’atelier.",
+                "Une personne peut reprendre le fil d’un repas avant que toute la conversation lui ait échappé."
+              ]
+            },
+            {
+              "heading": "Le retour d’un temps qui compte",
+              "text": "Une activité choisie aide à situer concrètement ce qui redevient disponible.",
+              "examples": [
+                "Noémie retrouve son carnet et le temps d’écouter Maud près du canal.",
+                "Un loisir repris peut donner un exemple à discuter au suivi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préserver des relations et des activités qui comptent",
-          "text": "Le couple peut reparler de l’aide convenue à propos de la porte. Maud peut dire ce qui lui a paru faisable et ce qui lui a demandé davantage de temps. Noémie peut expliquer les moments où elle souhaite une présence et ceux où elle préfère garder un peu d’espace. Elles peuvent revoir l’accord avec la clinicienne si elles le souhaitent. Elles peuvent aussi laisser ce sujet de côté le temps d’une promenade.\n\nLe carnet, la carte et la clarinette donnent aux deux femmes d’autres raisons de se raconter leur journée. Noémie garde l’envie de retourner près de l’eau après l’exposition. Elle aimerait dessiner aussi les endroits dont son père lui parlait, en commençant par ceux qu’elle connaît déjà. Cette envie a sa place dans son agenda et parmi les choses qu’elle peut choisir de préserver.\n\nNoémie peut demander qui joindre si les symptômes prennent plus de place ou si l’accord avec Maud devient difficile à tenir. Ses tâches aux archives évolueront avec le prochain projet. Elle peut reprendre en consultation les difficultés qui reviennent et décider de ce qu’elle souhaite partager au travail."
+          "heading": "3 techniques pour faire le point sur le temps retrouvé",
+          "points": [
+            {
+              "heading": "Apporter deux situations au rendez-vous",
+              "objective": "Décrire un changement sans résumer tout le soin.",
+              "exercise": [
+                "Retenir un exemple qui reste pénible.",
+                "Choisir un moment où un effet s’est réduit.",
+                "Dire ce qui diffère pour soi."
+              ],
+              "benefit": "La clinicienne peut affiner les objectifs avec Noémie."
+            },
+            {
+              "heading": "Choisir une place pour le loisir",
+              "objective": "Garder une activité que l’on aime dans le programme.",
+              "exercise": [
+                "Fixer avec Maud le temps disponible.",
+                "Emporter le carnet au bord du canal.",
+                "Choisir sur place ce qu’on veut dessiner."
+              ],
+              "benefit": "Le croquis peut garder sa place indépendamment du bilan clinique."
+            },
+            {
+              "heading": "Préparer le prochain point de suivi",
+              "objective": "Vérifier quels appuis comptent encore.",
+              "exercise": [
+                "Nommer une difficulté présente dans le tram ou au travail.",
+                "Dire quelle activité on souhaite conserver.",
+                "Convenir d’un moment pour faire le point."
+              ],
+              "benefit": "Le soin peut s’ajuster au quotidien qui évolue."
+            }
+          ]
         }
       ],
       "ending": "Dimanche, Maud repère le chemin par lequel elles peuvent descendre près de l’eau. Noémie ouvre son carnet sur le croquis fait dans le tram. Le mur s’écarte de quelques centimètres à l’endroit où elle l’avait dessiné droit. Elle attend que Maud termine son histoire sur une mesure qu’elle a enfin réussi à jouer, puis lui montre l’écart. Elle trace un autre bord sous le premier et garde les deux lignes. Elles ont apporté de quoi manger pour retourner s’asseoir plus haut.",
@@ -547,7 +1230,8 @@
       },
       "ending_title": "Une place pour le prochain croquis",
       "clinical_focus": "Retentissement des rituels mentaux",
-      "clinical_intro": "Noémie repère son arrêt à temps dans le tram alors que le doute sur la fermeture de l’atelier l’occupe encore. Elle compare ce trajet à ceux où la vérification mentale lui faisait perdre le fil, ainsi qu’au doute revenu au vernissage. Ces exemples permettent de préciser en consultation ce que les compulsions lui coûtent toujours et ce qu’elle retrouve, notamment du temps pour dessiner."
+      "clinical_intro": "Noémie repère son arrêt à temps dans le tram alors que le doute sur la fermeture de l’atelier l’occupe encore. Elle compare ce trajet à ceux où la vérification mentale lui faisait perdre le fil, ainsi qu’au doute revenu au vernissage. Ces exemples permettent de préciser en consultation ce que les compulsions lui coûtent toujours et ce qu’elle retrouve, notamment du temps pour dessiner.",
+      "conclusion": "Le trajet et le vernissage montrent des effets différents des mêmes difficultés. Noémie en parle au suivi et garde ses croquis parmi les activités qu’elle a choisies. Sur la berge, les deux lignes restent dans le carnet."
     }
   ]
 }

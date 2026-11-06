@@ -35,16 +35,79 @@ Un changement de transport peut demander une adaptation quelle que soit la perso
 
 Le même détour peut avoir plusieurs raisons.
 
-## Comment cette difficulté se manifeste
+## Comment la peur anticipée se mêle-t-elle à un obstacle réel de trajet ?
 
-Jules connaît une rue qu’il trouve agréable. Il craint également de revivre un épisode dans le bus. Son choix d’aujourd’hui ne dit pas à lui seul comment il souhaite travailler sur cette inquiétude. Les essais thérapeutiques restent ceux qu’il définit avec la psychiatre. Il peut aussi vouloir rentrer, faire la visite ou modifier son projet pour des raisons ordinaires.
+### Le passage est réellement fermé
 
-## Garder une visite qui convienne aux deux
+Une déviation demande une réponse concrète même si le déplacement était déjà redouté.
 
-Solange peut lui dire quand elle est disponible. Elle peut proposer de montrer l’entrée du bâtiment depuis sa fenêtre, si c’est ce dont Jules a besoin. Elle n’a pas à quitter les voisins pour prendre en charge le trajet. Jules peut lui demander une information précise, choisir l’itinéraire ou proposer de revenir. L’agent du réseau est le bon interlocuteur pour une question de circulation et les consignes liées aux travaux restent les mêmes.
+**Exemples concrets**
 
-S’il vient, Jules pourra dessiner la partie qui l’intéresse et discuter avec les voisins de ce qu’il fera du croquis. S’il préfère reporter, le projet pourra être repris. L’objectif qu’il se donne aujourd’hui est de voir Solange et de regarder les mains autour de la table. Le trajet sert à s’y rendre.
+- La flèche orange dirige Jules vers un autre arrêt.
+- Les barrières l’obligent à rester sur le trottoir accessible et à demander le passage à l’agent.
+
+### La pensée revient à une autre sortie
+
+Le changement de trajet peut raviver la crainte de se sentir coincé si la peur revient.
+
+**Exemples concrets**
+
+- Jules pense au bus qu’il avait évité un samedi de marché.
+- Il craint d’être loin d’un endroit où descendre.
+
+### L’heure de la rencontre entre dans le choix
+
+Des contraintes concrètes s’ajoutent à l’anticipation et peuvent rendre la décision difficile.
+
+**Exemples concrets**
+
+- Jules ne sait pas s’il arrivera avant la fin de la première partie.
+- Solange peut attendre mais ne peut pas venir jusqu’au carrefour.
+
+## 3 techniques pour choisir parmi les trajets possibles
+
+### 1. Obtenir l’information de circulation
+
+Reprendre le trajet à partir des indications du réseau.
+
+**Exercice pratique**
+
+- Restez hors de la zone de travaux.
+- Demandez où se prend le bus et quel chemin est ouvert.
+- Comparez les deux itinéraires confirmés.
+
+La décision peut tenir compte de l’accès réel.
+
+### 2. Demander le temps dont chacun dispose
+
+Décider de la visite avec les personnes concernées.
+
+**Exercice pratique**
+
+- Donnez à votre proche l’heure d’arrivée possible.
+- Demandez combien de temps il peut vous attendre.
+- Choisissez de maintenir la visite ou d’en fixer une autre.
+
+La sortie peut tenir compte de votre choix et de celui du proche.
+
+### 3. Décrire ce qui vous préoccupait
+
+Distinguer l’obstacle du trajet de ce que vous redoutiez.
+
+**Exercice pratique**
+
+- Notez le changement d’arrêt.
+- Ajoutez ce que vous craigniez en montant dans le bus.
+- Parlez de ces deux éléments au prochain suivi.
+
+La spécialiste peut examiner le rôle de chacun.
 
 ## La rue qu’il connaît à pied
 
 Jules choisit le bus qui lui laisse une marche par la rue aux volets jaunes. Solange confirme qu’ils auront le temps de boire un café. À son arrivée, une partie est déjà commencée. Il demande s’il peut s’asseoir près de la boîte et dessiner la main qui vient d’y prendre une pièce. En ouvrant son carnet, il retrouve la feuille pliée du marché. Il compte apporter les deux dessins quand il parlera des dernières semaines avec la psychiatre.
+
+---
+
+**Conclusion**
+
+Jules suit les indications du réseau et trouve un trajet qui lui convient. Solange lui dit combien de temps elle peut l’attendre. Il gardera le dessin et la feuille du marché pour comparer les deux expériences en consultation.

@@ -34,16 +34,79 @@ Il plie le journal en deux, puis le déplie. Il voudrait qu’il y ait une phras
 
 La joie pour quelqu’un et l’envie peuvent se côtoyer. Dans le trouble de la personnalité narcissique, la façon de se situer par rapport à autrui et de chercher de l’admiration peut donner beaucoup de poids à une comparaison. Le succès d’une autre personne peut être vécu comme le signe que sa propre place se réduit. Cette réaction ne se présente pas de manière uniforme et l’envie, à elle seule, ne renseigne pas sur un diagnostic.
 
-## Comment cette difficulté se manifeste
+## Comment le succès d’autrui peut-il être vécu comme une perte de statut ?
 
-Renaud sait que l’encadré porte sur un test préparé par Yara. Il vérifie pourtant son propre nom avant de regarder ce qu’elle explique. Cette comparaison rapide lui fait envisager de rabaisser sa collègue pour se sentir à nouveau considéré. Malik pose une autre question, qui ramène l’échange au contenu de l’article et à ce que Renaud voudrait pour lui-même.
+### Lire la visibilité de l’autre comme une soustraction
 
-## Distinguer la place souhaitée et le crédit dû
+L’envie peut faire paraître une reconnaissance accordée à autrui comme une place retirée.
 
-L’article est le résultat d’un choix d’angle. Le dossier public reste un endroit où les contributions doivent être attribuées avec précision. Renaud peut vérifier cet engagement avec Yara lorsqu’une nouvelle version arrive. Pour une autre occasion, il peut demander que son travail sur les panneaux soit présenté en tant que tel. Cette demande laisse à Yara son crédit et à la journaliste sa décision.
+**Exemples concrets**
 
-Reconnaître l’envie peut fournir un exemple utile en consultation. Renaud peut décrire ce qui l’a rendu jaloux, la remarque qu’il a envisagé de faire et l’effet qu’elle aurait pu avoir. Il garde aussi la possibilité de s’intéresser à ce que sa collègue a dit. La phrase citée explique un point qu’ils ont mis du temps à éclaircir ensemble.
+- Renaud voit la citation de Yara et cherche la sienne au verso.
+- Un collègue peut vivre une invitation reçue par un autre comme un recul de son propre rôle.
+
+### Dévaluer la façon dont l’autre réussit
+
+L’attention peut se porter sur une explication qui réduit le mérite.
+
+**Exemples concrets**
+
+- Renaud pense que Yara parle facilement devant une caméra.
+- Quelqu’un peut attribuer un compliment à l’aisance de la personne avant de relire son apport.
+
+### Retrouver une appréciation précise
+
+L’envie peut coexister avec la capacité de reconnaître un travail.
+
+**Exemples concrets**
+
+- Renaud remarque enfin la question utile posée par Yara durant l’essai.
+- Une personne peut découvrir en relisant une présentation pourquoi le public a compris une idée.
+
+## 3 techniques pour garder le mérite de chacun en vue
+
+### 1. Vérifier l’attribution réelle
+
+Savoir ce que l’article dit du projet.
+
+**Exercice pratique**
+
+- Lire l’encadré jusqu’au bout.
+- Repérer l’apport cité.
+- Comparer au dossier déjà approuvé.
+
+Le désaccord éventuel peut être formulé avec précision.
+
+### 2. Adresser une reconnaissance précise
+
+Parler de ce que Yara a effectivement fait.
+
+**Exercice pratique**
+
+- Choisir un détail de l’essai.
+- Expliquer pourquoi il a compté.
+- Envoyer un message sur ce seul apport.
+
+La collègue peut recevoir un retour qui la concerne.
+
+### 3. Nommer son envie dans un cadre choisi
+
+Comprendre ce qui a ressemblé à une perte.
+
+**Exercice pratique**
+
+- Dire quelle phrase on aurait aimé lire.
+- Repérer ce qu’on a imaginé de sa place.
+- Discuter du contraste en suivi.
+
+Le ressenti peut être abordé sans modifier les faits.
 
 ## Une citation en entier
 
 Malik doit rentrer. Il laisse le journal sur la table et récupère le ticket de caisse qui dépassait du pli. Renaud lit enfin l’encadré du début à la fin. Il reconnaît un moment de l’essai où Yara avait demandé à une visiteuse de lui décrire son détour. Il lui envoie un mot précis sur cette citation. Puis il regarde l’invitation de Nora, reçue le matin. Elle veut leur parler de la présentation du mois suivant. Renaud confirme qu’il sera disponible.
+
+---
+
+**Conclusion**
+
+Renaud reconnaît ce que le journal a retenu du travail de Yara. Il aurait encore aimé une ligne sur les panneaux. La rencontre de presse rendra plus concret le choix de la personne qui parlera.

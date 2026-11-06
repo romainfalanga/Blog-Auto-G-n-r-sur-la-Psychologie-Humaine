@@ -1,12 +1,12 @@
 ---
-title: Tenir sa place dans la durée en laissant une place aux autres
+title: Faire de la place aux autres quand le besoin de reconnaissance revient
 description: En automne, le parcours temporaire accueille ses premiers visiteurs.
   Renaud retrouve une difficulté familière et compare les choix qu’il a faits.
 slug: renaud-tenir-place-et-laisser-place
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Renaud
-sujet: Des changements observables dans le temps
+sujet: Souplesse relationnelle malgré le besoin de reconnaissance
 contexte: À la première visite du parcours temporaire en automne
 tags:
 - Trouble de la personnalité narcissique
@@ -34,16 +34,79 @@ Nora pose deux cartons de nom sur une tablette. Elle demande à Yara si elle veu
 
 Le suivi d’un trouble de la personnalité s’intéresse au fonctionnement dans le temps. Une personne peut éprouver une réaction familière et trouver davantage de façons d’y répondre. La décision qu’elle prend, la place qu’elle laisse à autrui et les effets de ses actes donnent des points d’appui concrets pour examiner ce changement. Un seul jour facile offre un exemple parmi d’autres.
 
-## Comment cette difficulté se manifeste
+## Comment une réaction familière peut-elle évoluer dans la durée ?
 
-Renaud continue de souhaiter être reconnu par la visiteuse et par Nora. Il conserve aussi l’accord passé avec Yara et peut décrire le travail qu’ils ont fait chacun. Il a annoncé la visite quand elle était prête et choisit un moment réaliste pour examiner la flèche. Les conséquences de ces décisions se constatent dans le travail. Yara peut décider de ses tâches et les visiteurs disposent d’un parcours utilisable.
+### L’envie de reconnaissance qui revient
 
-## Garder un projet à soi et une relation à deux
+Un changement de réponse peut coexister avec une attente ancienne.
 
-Le suivi donne à Renaud un endroit où reparler de ce qui lui coûte, même quand la collaboration se passe mieux. Avec sa thérapeute, il peut comparer ce qui s’est passé avant la visite et ce qu’il a fait dans la cour. Il peut aussi continuer à se demander quand son désir d’être remarqué lui rend difficile d’écouter quelqu’un. Les objectifs restent ajustables selon les situations qu’il rencontre.
+**Exemples concrets**
 
-Les liens avec Malik et Édith ont également leur propre rythme. Renaud peut leur parler du centre quand ils ont envie d’en entendre parler. Ils peuvent discuter d’autre chose et garder leurs accords sur les horaires ou les images. Ce qui fait avancer leur relation se joue dans des échanges répétés, dont chacun peut décider de sa part.
+- Renaud souhaite que la visiteuse le reconnaisse.
+- Une personne peut guetter encore un signe d’approbation devant un travail terminé.
+
+### Des engagements mieux tenus dans le même moment
+
+Une autre réponse peut se voir dans ce que chacun peut faire.
+
+**Exemples concrets**
+
+- Renaud suit la répartition prévue et montre le retour dessiné par Yara.
+- Une équipe peut mener sa visite en respectant les rôles convenus à l’avance.
+
+### Une attention qui se déplace au fil de la journée
+
+Les choix dans plusieurs relations donnent un aperçu de ce qui évolue.
+
+**Exemples concrets**
+
+- Renaud quitte le centre à l’heure et demande à Édith des nouvelles de son amie.
+- Une personne peut retrouver un proche à l’heure fixée même si le récit de sa réussite lui tient à cœur.
+
+## 3 techniques pour suivre des changements qui se voient dans les actes
+
+### 1. Examiner un engagement réel
+
+Retrouver un effet observable pour l’équipe.
+
+**Exercice pratique**
+
+- Nommer le rôle prévu dans la visite.
+- Comparer avec ce qui a été fait.
+- Demander ce que Yara souhaite revoir.
+
+Les collaborateurs peuvent discuter d’un résultat commun.
+
+### 2. Séparer les prochains rendez-vous
+
+Laisser une place aux engagements hors du travail.
+
+**Exercice pratique**
+
+- Noter la question de la flèche.
+- Proposer un moment distinct pour en décider.
+- Partir à l’heure convenue avec ses proches.
+
+Le travail et la vie proche peuvent garder leurs créneaux.
+
+### 3. Reprendre plusieurs situations en séance
+
+Apprécier ce qui change sur une période plus longue.
+
+**Exercice pratique**
+
+- Choisir un exemple récent.
+- Retrouver une situation antérieure comparable.
+- Décrire ce qui a encore été difficile.
+
+La thérapeute peut ajuster les objectifs à partir de plusieurs scènes.
 
 ## Une place à la table de dix-huit heures
 
 Il envoie un message court à Yara pour lui confirmer qu’il a noté les deux questions sur le retour. Dehors, la visiteuse repart par la cour. Renaud la voit lever la feuille pour la regarder à la lumière. Il aurait aimé lui parler encore du panneau. Il la laisse rejoindre les autres et ferme la porte derrière elle. À dix-huit heures, Édith lui fait signe depuis la table où Malik vient de s’asseoir. Renaud pose son manteau sur le dossier. Il a envie de raconter la visite. Il demande d’abord à Édith ce qu’il en est de la chambre que cherchait son amie.
+
+---
+
+**Conclusion**
+
+Le parcours est ouvert et Renaud laisse la prochaine décision à leur échange avec Yara. Il retrouve Édith et Malik à l’heure prévue. La visite et le dîner donnent deux exemples de la place qu’il peut laisser aux autres.

@@ -32,16 +32,79 @@ Quand ils posent enfin la première caisse, Mathis regarde de nouveau l’heure.
 
 Mathis a estimé la durée de la partie qu’il connaît. Il roule souvent jusqu’aux Tilleuls. Cette fois, ils ont attendu la clé, descendu un rebord à pied et discuté du camion. Chacune de ces étapes a des raisons concrètes. Le TDAH peut s’accompagner de difficultés à organiser une succession d’actions. Un trajet encombré renseigne aussi sur le trajet lui-même. En repérant l’origine du délai, les deux collègues peuvent changer quelque chose au programme.
 
-## Comment cette difficulté se manifeste
+## Comment une estimation de durée peut-elle oublier des étapes ?
 
-Le NICE cite l’organisation et la gestion du temps parmi les points à prendre en compte dans le soutien aux personnes concernées. Dans la situation de Mathis, l’objectif est de disposer d’un horaire utile à plusieurs personnes. L’essai fait apparaître deux heures différentes, celle de la sortie de l’atelier et celle où le public pourra être accueilli. L’intervalle contient tout ce qu’ils peuvent préparer et les aléas pour lesquels l’équipe doit garder une marge.
+### Compter la partie connue
 
-## Donner une heure pour chaque passage de relais
+Une estimation peut s’appuyer sur le geste familier et laisser à côté ce qui doit se passer avant ou après.
 
-Au retour, Zélie note le moment où l’ardoise a été posée. Mathis écrit ce qu’il avait mis dans les dix minutes et ajoute le chargement. Ils se répartissent la suite. Zélie demandera quand la place est accessible. Mathis vérifiera avec l’équipe qui possède la clé et où elle pourra la récupérer. Une information écrite près du planning donne à la personne suivante un moyen de reprendre l’organisation si l’un d’eux est absent.
+**Exemples concrets**
 
-Ils choisissent une heure de rendez-vous à l’atelier et une heure d’ouverture à annoncer. Entre les deux, ils prévoient du temps pour installer le matériel avant de recevoir un vélo. Si une condition manque, ils peuvent prévenir l’accueil du marché et décaler ou réduire l’ouverture selon ce qu’ils ont convenu. Mathis préfère ce choix à l’idée de gagner du temps pendant les vérifications. Il pourra aussi évoquer au prochain suivi les situations où les passages d’une tâche à l’autre restent coûteux, même quand le déroulé est préparé.
+- Mathis prévoit dix minutes en pensant au trajet qu’il fait sans les caisses.
+- Le chargement de la remorque et l’accès à la clé prennent du temps avant de partir.
+
+### Ne pas compter les attentes
+
+Une étape peut dépendre d’une autre personne ou de l’environnement. Le temps de déplacement ne dit rien de cette attente.
+
+**Exemples concrets**
+
+- Mathis doit attendre qu’on lui rouvre la grille pour prendre la clé.
+- Sur la place, un camion occupe l’espace prévu pour la file.
+
+### Confondre arrivée et disponibilité
+
+Être sur place ne veut pas dire pouvoir accueillir quelqu’un. La suite du montage fait partie du délai annoncé.
+
+**Exemples concrets**
+
+- Après avoir posé la première caisse, Mathis doit encore installer le poste.
+- La bénévole a besoin de connaître l’heure où l’ardoise et l’accueil seront prêts.
+
+## 3 techniques pour estimer une durée de bout en bout
+
+### 1. Nommer le début et la fin utiles
+
+Définir ce que l’estimation est censée couvrir.
+
+**Exercice pratique**
+
+- Dites à partir de quel geste vous commencez à compter.
+- Précisez ce qui doit être prêt pour la personne suivante.
+- Incluez les opérations de préparation et de montage entre les deux.
+
+L’heure annoncée peut correspondre au moment où le service fonctionne.
+
+### 2. Relever les dépendances
+
+Repérer les informations que l’équipe doit obtenir avant le départ.
+
+**Exercice pratique**
+
+- Notez qui peut ouvrir le local.
+- Vérifiez auprès de la bonne personne quand l’emplacement est disponible.
+- Inscrivez où les réponses pourront être retrouvées.
+
+Les attentes évitables peuvent être traitées et les autres prévues.
+
+### 3. Comparer l’estimation à un essai
+
+Ajuster le délai à partir d’un trajet représentatif.
+
+**Exercice pratique**
+
+- Faites l’essai dans les conditions prévues et selon les règles habituelles.
+- Distinguez le temps de route des autres étapes.
+- Choisissez avec l’équipe l’heure à transmettre aux bénévoles.
+
+L’écart peut indiquer quelle partie du programme demande un changement.
 
 ## Le départ à ne pas confondre avec l’ouverture
 
 Ils reviennent par la rue des Lilas et retrouvent l’atelier avec assez de place pour tourner devant la grille. Mathis décroche la clé du crochet, puis la raccroche pendant que Zélie modifie l’heure sur la fiche. Il lui demande d’écrire le nom de la personne qui ouvrira avec eux. En rentrant, il lit un message de Simon au sujet d’un rendez-vous de livraison. Il allait répondre qu’il serait là dès la fermeture de l’atelier. Il regarde d’abord ce qu’il faut encore faire après cette fermeture. Simon lui propose d’en parler à table, avec le calendrier sous les yeux.
+
+---
+
+**Conclusion**
+
+Dix minutes pouvaient suffire pour rouler jusqu’à la place. L’essai révèle le temps pris par la clé, l’accès et le montage. Mathis s’appuie sur ce constat avant de répondre à Simon au sujet de la livraison.

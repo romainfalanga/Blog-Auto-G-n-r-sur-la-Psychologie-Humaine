@@ -29,24 +29,83 @@ Mireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, 
 
 « Est-ce qu’ils ont encore ce samedi à quatorze heures ? » demande-t-elle. Mireille avait cité cette possibilité dans un message, sans la réserver. Il faudrait que la bibliothécaire accepte d’ouvrir l’espace une demi-heure plus tôt et qu’une autre personne ferme la salle. Solène propose de réserver deux heures pour l’essai et de venir le samedi pendant le créneau convenu. Puis elle demande à Mireille quelles sont les tâches qui doivent absolument être faites sur place après son départ.
 
-## Retrouver une place professionnelle après un arrêt
+## Une endurance limitée au moment de reprendre
 
-Solène doit pouvoir expliquer ce qu’elle arrive à faire et discuter de l’effort que lui demande une séance. La possibilité de suivre un créneau court lui rend une part du travail accessible. Pour garder sa place dans la programmation, elle a aussi besoin que le partage des tâches soit discuté avec elle.
+Le trouble schizoaffectif peut avoir un retentissement professionnel variable selon la période. Après un arrêt, des tâches précises peuvent redevenir possibles avant qu’une journée entière soit supportable. La médecine du travail peut proposer des adaptations du temps de travail. Solène cherche comment conserver les choix de films avec un créneau de jour compatible avec sa reprise.
 
-En France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir.
+## Comment une endurance encore limitée change-t-elle l’organisation du travail ?
 
-## Comment cette difficulté se manifeste
+### Les horaires et les compétences se discutent séparément
 
-Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.
+Une personne peut assurer une tâche de choix sans avoir l’énergie de tenir tout l’événement.
 
-Le suivi d’un trouble schizoaffectif tient compte de l’évolution des symptômes et de leur retentissement. Les périodes plus difficiles et les périodes intermédiaires ne se ressemblent pas forcément. Les orientations de l’OMS sur le rétablissement invitent à tenir compte des objectifs de la personne. Dans ce cadre, Solène peut dire quelles tâches donnent du sens à sa reprise et signaler si le nouvel horaire devient difficile à tenir.
+**Exemples concrets**
 
-## Nommer la personne qui ferme la salle
+- Solène peut revoir les cartes et préparer les films, puis passer la main pour la fermeture.
+- Un salarié pourrait terminer la préparation du matin et avoir besoin d’un relais pour la permanence du soir.
 
-Solène met deux colonnes sur une feuille. Elle peut tester les films, reprendre leur ordre, préparer des mots d’accueil et être présente en début de séance si le samedi se confirme. Le rangement et la fermeture demandent un relais. Le cas échéant, Mireille vérifie avec la médiathèque et les bénévoles qui peut prendre ces tâches. Écrire un nom et une heure pour chaque étape évite que la dernière personne dans la salle en hérite.
+### Un créneau est tenable si les limites sont visibles
 
-Mireille peut accepter ou refuser la date pour des raisons de personnel et de budget. Solène peut lui demander de distinguer cette décision de la question de son horaire. Elles peuvent prévoir un point pour revoir l’organisation après le premier essai. Si aucun samedi ne convient, elles pourront discuter d’une séance présentée par une autre personne avec les trois films que Solène a préparés.
+L’heure de fin compte autant que l’heure d’arrivée lorsqu’on prépare une reprise.
+
+**Exemples concrets**
+
+- La séance du jeudi déborde la plage convenue avec Solène.
+- Un atelier en journée pourrait convenir si un autre collègue range le matériel après le départ de la personne.
+
+### Le rôle peut être préservé en redistribuant les tâches
+
+Une répartition ajustée peut laisser à la personne ce qui donne du sens au projet.
+
+**Exemples concrets**
+
+- Mireille et la bibliothécaire prennent la fermeture, Célestin la projection et Solène la programmation.
+- Dans un autre projet, un collègue pourrait assurer l’accueil pour laisser à la personne la préparation du contenu.
+
+## 3 techniques pour reprendre un rôle dans des horaires adaptés
+
+### 1. Décrire l’effort au médecin du travail
+
+Donner un exemple des limites à prendre en compte.
+
+**Exercice pratique**
+
+- Préparez deux tâches que vous souhaitez reprendre.
+- Précisez à quel moment l’effort devient difficile à tenir.
+- Discutez avec le médecin des adaptations envisageables.
+
+La consultation peut aider à formuler un cadre de reprise.
+
+### 2. Mettre les tâches à côté des heures
+
+Séparer le rôle voulu et la présence nécessaire sur place.
+
+**Exercice pratique**
+
+- Listez les gestes avant, pendant et après l’événement.
+- Entourez les tâches qui comptent pour vous.
+- Attribuez avec l’équipe celles qui dépassent votre créneau.
+
+Le calendrier peut faire apparaître un relais plutôt qu’un retrait complet.
+
+### 3. Prévoir un point après l’essai
+
+Pouvoir ajuster le cadre à partir d’une séance réelle.
+
+**Exercice pratique**
+
+- Fixez une première date dans le cadre convenu.
+- Dites à qui signaler un créneau trop lourd.
+- Convenez du moment où vous réexaminerez la répartition.
+
+Un retour situé peut faire évoluer les tâches sans demander un récit médical aux collègues.
 
 ## Trois noms et une heure de fin
 
-La bibliothécaire confirme le samedi à quatorze heures et propose d’ouvrir à treize heures trente. Célestin peut tenir la projection et doit partir à quinze heures trente. Mireille prend la fin de l’accueil et la fermeture avec la bibliothécaire. Solène inscrit ses deux heures d’essai et son créneau du samedi. Mireille lui demande si elle veut montrer les cartes des Tilleuls. Solène sort celle sur les sous-titres, puis se ravise et lui donne d’abord celle de la chaise. L’une donne le point de départ du nouvel essai ; l’autre rappelle pourquoi le programme commence dans un atelier.
+La bibliothécaire confirme le samedi à quatorze heures et propose d’ouvrir à treize heures trente. Célestin peut tenir la projection et doit partir à quinze heures trente. Mireille prend la fin de l’accueil et la fermeture avec la bibliothécaire. Solène inscrit ses deux heures d’essai et son créneau du samedi. Mireille lui demande si elle veut montrer les cartes des Tilleuls. Solène sort celle sur les sous-titres, puis se ravise et lui donne d’abord celle de la chaise. L’une donne le point de départ du nouvel essai. L’autre rappelle pourquoi le programme commence dans un atelier.
+
+---
+
+**Conclusion**
+
+Solène préserve le choix des films et organise la fermeture avec ceux qui seront présents. L’essai à la médiathèque mettra son rôle à l’épreuve d’un problème de sous-titres. Mireille peut rendre visibles les tâches et les heures dont chacun a besoin.

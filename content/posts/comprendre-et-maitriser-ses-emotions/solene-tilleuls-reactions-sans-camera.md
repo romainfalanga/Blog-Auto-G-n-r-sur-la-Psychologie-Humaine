@@ -1,19 +1,19 @@
 ---
-title: Se sentir exposé quand on perd le choix de ce qu’on partage
-description: Après l’essai, Célestin propose de filmer les réactions. Solène se demande
-  ce que les gens oseront dire si l’objectif est braqué sur eux.
+title: Parler d’une voix inhabituelle quand on se sent exposé
+description: Solène se souvient de la difficulté à parler d’une voix en consultation.
+  Aux Tilleuls, elle change le cadre pour que chacun choisisse ses mots.
 slug: solene-tilleuls-reactions-sans-camera
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Sentiment d’exposition
+sujet: Réticence à parler des perceptions
 contexte: À l’essai des courts métrages, dans la petite salle des Tilleuls
 tags:
 - Trouble schizoaffectif
 - Trouble schizo-affectif
+- Récit des perceptions
 - Sentiment d’exposition
-- Consentement au partage
-- Confiance dans les soins
+- Partage choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -26,26 +26,85 @@ Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Cél
 
 Pendant la pause, Célestin sort son téléphone. Il propose de filmer les réactions au deuxième film, celui de l’abribus. Il imagine déjà les voix sur la bande-annonce de la tournée. Solène avait seulement demandé aux trois personnes de venir pour un essai. Avant qu’elle réponde, la femme au manteau la regarde. « Il faut parler face à la caméra ? » Elle a roulé le programme entre ses mains sans s’en apercevoir.
 
-Solène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Elle avait gardé dans sa poche la note sur la voix jusqu’à ce qu’elle soit prête à en parler. Elle se rappelle le soulagement d’avoir pu finir sa phrase. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.
+Solène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Elle avait gardé dans sa poche la note sur la voix jusqu’à ce qu’elle soit prête à en parler. Elle se rappelle le soulagement d’avoir pu finir sa phrase. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table. Le verso est assez clair pour écrire.
 
-## Le sentiment d’exposition et la possibilité de choisir
+## Parler d’une voix quand on se sent exposé
 
-La présence d’une personne peut rassurer lors d’un échange intime. Elle peut aussi modifier ce qu’on se sent capable de dire, même lorsque la relation est bonne. Solène a pu demander quand Livia entrerait au cabinet. Cette marge aide à comprendre pourquoi la caméra change pour elle le sens de la question posée aux spectatrices.
+Les perceptions inhabituelles du trouble schizoaffectif peuvent être difficiles à raconter, même à quelqu’un de proche. La peur qu’une confidence entraîne des questions ou circule ailleurs peut retarder la discussion. Le cadre de soins peut laisser à la personne le choix de qui entre et du moment où elle parle, lorsque la situation le permet.
 
-Les orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits.
+## Comment le sentiment d’exposition peut-il freiner le récit d’une perception ?
 
-## Comment cette difficulté se manifeste
+### Garder une observation prête sans la dire
 
-Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.
+Le mot peut être noté bien avant que la personne se sente prête à le prononcer.
 
-À la salle des Tilleuls, la femme au manteau formule une question ordinaire : est-ce qu’elle doit parler devant un objectif pour que son retour intéresse l’équipe ? Solène connaît la différence entre répondre à une personne présente et accepter que ses mots soient gardés pour un autre usage. Cette expérience l’aide à entendre la question. Elle ne lui donne pas accès à ce que la spectatrice aurait préféré dire en privé.
+**Exemples concrets**
 
-## Faire un essai qui accepte les mauvaises nouvelles
+- Solène laisse sa note sur la voix dans sa poche pendant une partie du rendez-vous.
+- Quelqu’un pourrait apporter un carnet fermé et attendre d’être seul avec le soignant pour l’ouvrir.
 
-Sur la table, Solène peut laisser quelques cartes vierges, proposer une question et annoncer que chacun peut passer sans s’arrêter. Une personne qui le souhaite peut aussi dire sa remarque à voix haute. Pour cet essai, l’équipe garde les retours pour son travail et explique cet usage. Si elle veut ensuite reprendre des paroles dans une annonce publique, elle pourra en reparler séparément avec les personnes qui les ont données.
+### Craindre qu’un proche complète la phrase
 
-Célestin voulait trouver un support pour présenter la tournée. Cette question peut attendre la date publique. Aujourd’hui, Solène a besoin de savoir à quel endroit le deuxième film est difficile à suivre. Elle propose de demander « À quel moment avez-vous perdu le fil ? » plutôt que « Vous avez aimé ? ». Si une personne dit qu’elle n’a rien lu au fond, l’équipe a une tâche pour la suite. Si personne ne veut répondre, elle peut essayer d’autres façons d’inviter les retours.
+Si les autres parlent vite, la personne peut renoncer à dire une expérience difficile à situer.
+
+**Exemples concrets**
+
+- Solène se souvient du soulagement d’avoir eu le temps de finir.
+- En consultation, une personne pourrait se taire si le proche répond pour elle au premier silence.
+
+### Hésiter quand la destination des mots est floue
+
+Pouvoir choisir le destinataire peut changer ce qu’on accepte de raconter.
+
+**Exemples concrets**
+
+- La spectatrice roule son programme dès qu’elle imagine sa réponse dans une vidéo.
+- Une personne pourrait parler à l’infirmier et demander d’abord ce qui sera transmis à la famille.
+
+## 3 techniques pour raconter une expérience dans un cadre choisi
+
+### 1. Préparer la première phrase
+
+Pouvoir commencer même quand l’expérience paraît difficile à formuler.
+
+**Exercice pratique**
+
+- Choisissez un détail concret que vous souhaitez dire.
+- Écrivez la première phrase.
+- Lisez-la ou montrez-la au professionnel si c’est plus facile.
+
+La note peut vous aider à donner vous-même le point de départ.
+
+### 2. Choisir le moment où le proche entre
+
+Avoir le soutien souhaité pendant la partie qui vous convient.
+
+**Exercice pratique**
+
+- Demandez si l’entretien peut commencer seul.
+- Dites à quel moment vous voulez inviter le proche.
+- Indiquez le sujet pour lequel vous souhaitez sa présence.
+
+Le proche peut contribuer tout en laissant à la personne la maîtrise du récit.
+
+### 3. Demander où les mots iront
+
+Clarifier les suites d’une confidence avant de la faire.
+
+**Exercice pratique**
+
+- Demandez à qui le contenu pourrait être transmis.
+- Dites ce que vous acceptez de partager.
+- Vérifiez le contact à utiliser si vous avez besoin d’en parler plus tôt.
+
+La discussion peut réduire l’incertitude sur le cadre.
 
 ## Un mot au verso du programme
 
-Célestin range son téléphone et va essayer le dernier rang. Aux Tilleuls, les trois spectatrices disent avoir pu lire les sous-titres. Solène note le résultat de l’essai au dos d’une carte. L’une des spectatrices écrit quand même qu’elle n’a compris qu’à la fin que les deux personnes de l’abribus ne se connaissaient pas. Solène glisse la carte dans l’enveloppe réservée aux essais : cette remarque pourrait changer la façon dont elle présente le film. Sur le programme roulé, la femme au manteau a écrit « Gardez la chaise au début ». Solène confirme à Mireille qu’elle souhaite le même ordre à la première séance publique et lui demande de rappeler la mairie.
+Célestin range son téléphone et va essayer le dernier rang. Aux Tilleuls, les trois spectatrices disent avoir pu lire les sous-titres. Solène note le résultat de l’essai au dos d’une carte. L’une des spectatrices écrit quand même qu’elle n’a compris qu’à la fin que les deux personnes de l’abribus ne se connaissaient pas. Solène glisse la carte dans l’enveloppe réservée aux essais. Cette remarque pourrait changer la façon dont elle présente le film. Sur le programme roulé, la femme au manteau a écrit « Gardez la chaise au début ». Solène confirme à Mireille qu’elle souhaite le même ordre à la première séance publique et lui demande de rappeler la mairie.
+
+---
+
+**Conclusion**
+
+La parole a besoin d’un cadre où Solène peut finir sa phrase et choisir qui l’entend. Elle applique ce principe aux remarques du public. Le prochain changement qu’elle remarquera devra être raconté à l’équipe, avec le même droit de choisir l’aide qui lui convient.

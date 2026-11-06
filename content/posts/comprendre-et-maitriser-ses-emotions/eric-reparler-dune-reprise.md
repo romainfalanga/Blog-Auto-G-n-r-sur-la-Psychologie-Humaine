@@ -34,16 +34,79 @@ Quand le centre répond, Éric demande le nom de la personne à qui il peut raco
 
 Une reprise de consommation peut suivre une période d’amélioration. Elle peut concerner une soirée, se répéter ou s’installer à nouveau. L’équipe a besoin de savoir ce qui s’est passé depuis le dernier rendez-vous et ce que la situation présente implique pour la santé. Elle peut aussi reprendre avec Éric les aides qui étaient accessibles et les circonstances où elles ne lui convenaient plus.
 
-## Comment cette difficulté se manifeste
+## Comment une reprise peut-elle modifier le besoin de soins ?
 
-Le premier refus qu’Éric a pu formuler à la répétition reste une expérience utile. Dans la situation suivante, le café est revenu comme suite immédiate de la rencontre, alors qu’il était venu rendre une photo. La discussion peut porter sur cette différence et sur les conséquences pour Joëlle. Parler du détail facilite un ajustement plus précis qu’une promesse générale d’aller mieux.
+### Un épisode devient une répétition
 
-## Laisser l’équipe évaluer l’urgence du moment
+Ce qui recommence peut prendre une forme différente de celle attendue.
 
-Après plusieurs reprises, le suivi peut devoir être rapproché. L’équipe vérifie l’état de la personne, les risques de sevrage et les besoins de soins ou d’orientation. Éric peut expliquer ce qu’il connaît de ses antécédents et signaler tout signe récent. Le choix d’un accompagnement appartient aux professionnels avec lui, en fonction des risques du moment.
+**Exemples concrets**
 
-L’attente d’avoir de bonnes nouvelles pourrait retarder cette évaluation. Éric peut garder des projets au village et demander un délai pour les engagements qu’il ne peut plus garantir. Mélissa saura ce qu’elle doit préparer. Le centre peut l’aider à traiter les changements de santé au rythme où ils se présentent.
+- Éric boit après une répétition puis à d’autres moments.
+- Une personne retrouve plusieurs fois une difficulté à partir après un premier soir.
+
+### Le rendez-vous ordinaire paraît difficile à tenir
+
+Attendre d’avoir une meilleure nouvelle peut priver l’équipe d’une information utile.
+
+**Exemples concrets**
+
+- Éric pense annuler au lieu de dire ce qui a changé.
+- Une personne prépare un prétexte alors que ses difficultés s’accentuent.
+
+### La santé du jour change la priorité
+
+Une reprise peut justifier de revoir avec l’équipe le délai ou le type d’aide.
+
+**Exemples concrets**
+
+- L’infirmière demande à Éric comment il va ce matin.
+- Une personne signale à l’appel des symptômes apparus depuis le rendez-vous précédent.
+
+## 3 techniques pour reprendre contact quand la consommation recommence
+
+### 1. Ouvrir l’échange par le changement
+
+Permettre au centre de situer la situation actuelle.
+
+**Exercice pratique**
+
+- Appelez au numéro convenu.
+- Dites que vous avez repris et si cela s’est répété.
+- Expliquez comment vous vous sentez aujourd’hui.
+
+L’équipe peut décider si un avis plus proche est indiqué.
+
+### 2. Demander la conduite à tenir
+
+Savoir qui appeler entre deux échanges.
+
+**Exercice pratique**
+
+- Confirmez la date qui vous est proposée.
+- Demandez quels changements doivent faire rappeler ou demander une aide urgente.
+- Notez le contact indiqué.
+
+Le prochain geste peut être clair si l’état se modifie.
+
+### 3. Informer le proche sur ce qui le concerne
+
+Reconnaître les conséquences sans lui demander de gérer les soins.
+
+**Exercice pratique**
+
+- Dites quel engagement a été touché.
+- Précisez si vous avez déjà joint l’équipe.
+- Proposez un moment qui respecte sa disponibilité.
+
+Le proche peut faire ses choix avec l’information utile.
 
 ## L’heure avancée sur le carton
 
 L’infirmière reprend avec lui ce qu’il a signalé ce matin et lui propose un rendez-vous avancé pour le lendemain. Elle lui rappelle quand demander de l’aide si son état se dégrade. Éric déplace le carton sur la table et note l’heure. Il envoie ensuite à Joëlle un message où il explique qu’il a repris sa consommation, qu’il a appelé le centre et qu’il aimerait lui rendre le disque qu’elle lui avait prêté pour le projet. Joëlle peut passer demain avant son rendez-vous. Éric lui dit qu’elle n’aura pas besoin de l’attendre après.
+
+---
+
+**Conclusion**
+
+Éric appelle malgré sa honte et le centre avance le rendez-vous. Joëlle vient chercher le disque sans avoir à assurer le suivi. Le lendemain, un changement rapide de son état fera passer l’aide urgente en premier.

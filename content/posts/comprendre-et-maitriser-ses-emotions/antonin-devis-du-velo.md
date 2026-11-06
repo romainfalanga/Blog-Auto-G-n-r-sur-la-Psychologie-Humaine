@@ -35,16 +35,79 @@ Dans l’anxiété généralisée, les inquiétudes peuvent s’étendre à plus
 
 Une dépense de vélo mérite d’être examinée selon ses moyens et le service proposé.
 
-## Comment cette difficulté se manifeste
+## Comment un souci en entraîne-t-il un autre ?
 
-Antonin peut demander au réparateur de préciser ce qui entre dans le devis. Sa conversation avec Benoît concerne aussi un autre choix, leur prochaine soirée. Ces éléments peuvent être traités avec des personnes différentes. Le médecin peut, lui, entendre comment le passage d’un sujet à l’autre joue sur sa concentration ou le temps qu’il passe à décider.
+### Un montant ouvre d’autres hypothèses
 
-## Répondre à l’invitation avec l’information disponible
+Une décision précise peut être débordée par des dépenses ou des incidents encore indéterminés.
 
-Benoît peut proposer le trajet qu’il compte faire et dire à quelle heure il part. Antonin n’a pas à décider du devis pour choisir s’il a envie de jouer. Il peut réserver sa réponse au réparateur après avoir regardé ce que cette dépense représente pour lui. La date de restitution reste entre les mains de l’atelier. Elle pourra modifier un trajet futur sans décider à elle seule de leur jeudi.
+**Exemples concrets**
 
-Si Antonin veut reparler de ses inquiétudes en consultation, il peut décrire un moment où une question légitime a été suivie de plusieurs autres qui ne demandaient pas de décision immédiate. Il pourra aussi dire ce qui continue à lui donner envie de sortir. Le médecin dispose alors d’une image de la gêne et des activités qu’Antonin souhaite garder.
+- Antonin lit le prix et imagine qu’une deuxième pièce va lâcher.
+- Il passe de cette réparation à une dépense du mois suivant.
+
+### La pensée change de domaine
+
+Dans l’anxiété généralisée, une préoccupation peut céder la place à une autre portant sur un sujet différent.
+
+**Exemples concrets**
+
+- Le montant du vélo l’amène au rendez-vous de Benoît chez le dentiste.
+- Quelques instants plus tard, il pense à la clé du local à l’école.
+
+### La conversation attend
+
+Les déplacements de la pensée peuvent rendre une question simple plus difficile à suivre.
+
+**Exemples concrets**
+
+- Benoît propose de prendre le bus et Antonin revient aux oublis possibles du réparateur.
+- La craie lui rappelle leur père, mais il retrouve ce souvenir seulement après avoir répondu sur le trajet.
+
+## 3 techniques pour remettre les sujets à leur place
+
+### 1. Relire le devis disponible
+
+Décider à partir du prix et de la réparation décrite.
+
+**Exercice pratique**
+
+- Repérez la pièce mentionnée.
+- Demandez ce que le devis couvre si un point est flou.
+- Convenez d’un délai pour répondre.
+
+Vous pouvez prendre une décision sur la réparation proposée.
+
+### 2. Saisir le passage d’un souci à l’autre
+
+Voir quand la question a changé en cours de route.
+
+**Exercice pratique**
+
+- Nommez le premier sujet.
+- Nommez celui auquel vous pensez à présent.
+- Demandez-vous si une action concrète est attendue sur ce nouveau sujet.
+
+Cette pause peut redonner une place à la décision initiale.
+
+### 3. Rester avec la proposition de Benoît
+
+Garder le temps du café pour ce qui se passe entre eux.
+
+**Exercice pratique**
+
+- Écoutez la question sur jeudi.
+- Dites le trajet qui vous paraît possible.
+- Reprenez le détail de la conversation qui vous intéressait.
+
+Le projet partagé peut avancer pendant que le devis attend.
 
 ## Deux places sur la ligne de bus
 
 Benoît ramasse la craie. Antonin lui dit qu’il peut le retrouver à l’arrêt. Au réparateur, il demande un délai jusqu’au lendemain pour donner sa réponse. Il garde le prix écrit dans sa poche au lieu de chercher ce qu’un autre atelier aurait facturé pour une panne différente. Au café, il se rappelle enfin pourquoi la craie lui paraît si petite. Son père la cassait en deux pour que chacun en garde une moitié. Benoît dit qu’il s’en souvient aussi.
+
+---
+
+**Conclusion**
+
+Antonin choisit le bus et demande un délai pour le devis. Il retrouve ensuite le souvenir de la craie. Les deux choix étaient possibles avant qu’il sache ce qui pourrait arriver au vélo.

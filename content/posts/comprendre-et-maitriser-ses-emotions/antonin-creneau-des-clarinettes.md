@@ -35,16 +35,79 @@ L’inquiétude persistante peut compliquer le partage du travail en donnant bea
 
 Dans ce récit, l’histoire de l’élève oublié aide à prévoir une vérification ciblée de la liste.
 
-## Comment cette difficulté se manifeste
+## Comment la peur d’une erreur future complique-t-elle une délégation ?
 
-Elle n’exige pas qu’Antonin lise chaque message. Son médecin peut l’aider à parler de l’effort qu’il fournit pour supporter le doute une fois le travail partagé. Au bureau, Eva peut lui donner un point de retour précis et faire les choix ordinaires qui relèvent de la tâche qu’elle accepte.
+### Un incident ancien vient à l’esprit
 
-## Un relais avec une vraie marge de décision
+La mémoire d’un oubli peut devenir très présente au moment d’organiser une tâche semblable.
 
-Antonin peut transmettre la capacité de la salle et les conditions connues, puis dire ce qui justifierait qu’Eva le sollicite de nouveau. S’il manque un équipement dont il a la charge, il pourra répondre. Si le professeur préfère maintenir le créneau initial, Eva peut en parler avec lui. Le groupe pourra aussi décliner l’essai. Le prochain point de travail servira à rendre ce résultat visible, quelle que soit la réponse.
+**Exemples concrets**
 
-Eva a également besoin de dire quand elle peut passer les appels. Antonin peut choisir de lui confier la tâche en entier ou chercher une autre répartition avec elle. Ils gagnent à savoir où chacun intervient. Si le délai devient impossible, ils peuvent convenir d’un report plutôt que passer leur soirée à reprendre les mêmes échanges.
+- Antonin pense à l’élève qu’ils avaient oublié de prévenir en début d’année.
+- Quelqu’un peut revoir une ancienne erreur de clé en confiant aujourd’hui un accès déjà préparé.
+
+### Vérifier tous les échanges devient tentant
+
+L’idée de recevoir chaque réponse peut rassurer sur le moment et maintenir la tâche au premier plan.
+
+**Exemples concrets**
+
+- Antonin s’apprête à demander une copie de chaque message d’Eva.
+- Il imagine la liste des appels qu’il ferait alors qu’Eva a proposé de les prendre en charge.
+
+### Une activité personnelle risque de céder
+
+Prévoir de suivre une tâche déjà confiée peut empiéter sur le reste de la journée.
+
+**Exemples concrets**
+
+- Antonin a déjà décalé le rendez-vous du vélo à cause d’un échange qui a débordé.
+- En consultant son agenda, il voit que le même rendez-vous risque de disparaître à nouveau.
+
+## 3 techniques pour déléguer avec des repères précis
+
+### 1. Faire une transmission limitée
+
+Donner les informations nécessaires à la tâche.
+
+**Exercice pratique**
+
+- Notez les coordonnées et contraintes utiles.
+- Vérifiez qui répond aux questions d’accès.
+- Convenez de ce qui reste à chacun.
+
+Le cadre peut rendre la tâche plus claire pour les deux collègues.
+
+### 2. Fixer le retour attendu
+
+Laisser les échanges se dérouler entre deux points.
+
+**Exercice pratique**
+
+- Demandez quand la décision sera connue.
+- Convenez de ce qui justifierait un contact avant.
+- Laissez l’autre personne choisir la façon d’écrire.
+
+Vous pouvez recevoir l’information utile sans suivre chaque message.
+
+### 3. Protéger le rendez-vous suivant
+
+Pouvoir partir après une transmission suffisante.
+
+**Exercice pratique**
+
+- Relisez l’heure du rendez-vous personnel.
+- Signalez l’heure de départ à votre collègue.
+- Confiez la question en cours selon l’accord.
+
+Le rendez-vous peut garder sa place même si l’issue reste ouverte.
 
 ## Une étiquette laissée au crayon
 
 Antonin donne à Eva les coordonnées du professeur et reste sur sa propre tâche de la journée. Elle lui écrira après le retour du groupe. Il a encore envie de lui envoyer la liste des appels qu’il aurait passés. Il remet son agenda dans sa poche et part à l’heure de son rendez-vous. Dans la cour, il reconnaît enfin le début du morceau de l’ancienne affiche. Il compte demander le titre au professeur le lendemain.
+
+---
+
+**Conclusion**
+
+Antonin donne à Eva les éléments dont elle a besoin, puis part à l’atelier. L’ancienne erreur explique son envie de vérifier. Le retour prévu après la réponse du groupe donne à Eva le temps de conduire son échange.

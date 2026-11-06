@@ -34,16 +34,79 @@ Dans cette scène, l’eau qui coule et l’état du mur donnent à l’équipe 
 
 Un souci légitime peut aussi être suivi d’une envie persistante de revenir sur chaque détail.
 
-## Comment cette difficulté se manifeste
+## Comment un incident réel nourrit-il un doute sur sa responsabilité ?
 
-Après le signalement, Noémie cherche dans sa mémoire un signe qu’elle aurait dû remarquer. Elle ne détient aucune information supplémentaire à transmettre sur ce point. L’enchaînement mérite d’être décrit à la clinicienne, avec l’inquiétude qui a suivi et ce qu’il lui a coûté. Elle peut aussi demander à son équipe qui prend la suite du signalement, une question concrète qui sert à partager les responsabilités.
+### Des faits qui justifient un signalement
 
-## Répartir la suite sans exiger une garantie générale
+Un élément nouveau appelle la réponse prévue par le service.
 
-L’équipe aura des réponses partielles tant que l’évaluation du bâtiment n’est pas terminée. L’accueil doit savoir qu’on change la salle prévue. L’enseignant peut être informé qu’une autre proposition arrivera à une heure donnée. Le service compétent garde la décision sur l’accès. Aïcha et Noémie n’ont pas besoin de savoir quand tout sera réparé pour s’accorder sur les informations qu’elles transmettent aujourd’hui.
+**Exemples concrets**
 
-Lorsqu’elle en parlera au cabinet, Noémie pourra dire quel renseignement répondait à une responsabilité du métier et à quel moment elle a commencé à chercher une certitude sur ce qu’elle aurait dû voir. La clinicienne peut examiner avec elle comment l’incident s’inscrit dans ses difficultés. Au travail, chacun répond aux nouveaux faits qui le concernent. Les vérifications liées au bâtiment suivent leur propre cadre.
+- Aïcha et Noémie observent une tache et un écoulement.
+- Un changement visible après un contrôle peut légitimement conduire à prévenir le responsable.
+
+### L’envie de refaire l’histoire après le relais
+
+Le doute peut se fixer sur ce qu’on aurait dû prévoir ou remarquer.
+
+**Exemples concrets**
+
+- Noémie se demande si elle a manqué la tache le matin.
+- Une personne peut revoir son trajet après avoir transmis un incident dont une autre équipe s’occupe.
+
+### L’événement qui continue à occuper l’attention
+
+La question de responsabilité peut gêner une nouvelle décision.
+
+**Exemples concrets**
+
+- Aïcha ouvre le calendrier pendant que Noémie reprend son trajet en pensée.
+- Quelqu’un peut avoir du mal à choisir une salle de remplacement en repensant encore à une alerte.
+
+## 3 techniques pour transmettre l’incident et parler du doute qui suit
+
+### 1. Appliquer le relais prévu
+
+Traiter l’écoulement avec les personnes compétentes.
+
+**Exercice pratique**
+
+- Signaler les faits observés selon la procédure.
+- Respecter les consignes d’accès.
+- Transmettre les références demandées par le service.
+
+Les responsables disposent de ce qui leur est utile pour agir.
+
+### 2. Prendre une décision distincte
+
+Préserver le rendez-vous de l’enseignant.
+
+**Exercice pratique**
+
+- Identifier les salles autorisées.
+- Vérifier l’accord de l’équipe concernée.
+- Proposer une nouvelle place à l’enseignant.
+
+La visite peut être réorganisée pendant l’évaluation du bâtiment.
+
+### 3. Apporter le doute au suivi
+
+Expliquer ce qui arrive après le passage de relais.
+
+**Exercice pratique**
+
+- Raconter le signalement effectué.
+- Dire quand la responsabilité a commencé à tourner en boucle.
+- Indiquer ce que cette reprise a interrompu.
+
+La clinicienne peut entendre ce qui dépasse l’information à transmettre.
 
 ## La trace signalée au service
 
 Aïcha propose à l’enseignant un entretien dans la salle de lecture. Les deux femmes pourront y dérouler les reproductions du canal, avec l’accord de l’équipe qui y travaille. Noémie remet la fiche du bateau sous le dossier et laisse au service chargé du bâtiment le point de suivi. Au moment de quitter les archives, elle reçoit de Maud un enregistrement de quelques mesures jouées à la clarinette. Maud la prévient que la répétition du lendemain commencera plus tôt.
+
+---
+
+**Conclusion**
+
+L’eau appelle le signalement effectué par Noémie. Le doute sur le moment où elle aurait dû la voir continue après cette action. Elle garde sa tâche sur l’exposition et laisse au service le suivi du bâtiment.

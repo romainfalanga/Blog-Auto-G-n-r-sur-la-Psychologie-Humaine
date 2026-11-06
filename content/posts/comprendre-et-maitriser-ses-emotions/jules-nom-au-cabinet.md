@@ -32,18 +32,79 @@ La psychiatre reprend l’histoire avec lui, les résultats des examens décidé
 
 Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. La peur durable qu’elles reviennent ou les conduites adoptées pour en éviter le retour font aussi partie du tableau. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles.
 
-## Comment cette difficulté se manifeste
+## Comment les effets entre les attaques éclairent-ils le diagnostic ?
 
-Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.
+### Des attaques prises de court
 
-Jules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard.
+Le médecin revient sur ce que la personne faisait avant l’épisode et la manière dont il a commencé.
 
-## Les questions qui restent à poser
+**Exemples concrets**
 
-La psychiatre peut expliquer les possibilités de suivi et préciser comment elle échangera avec le médecin de Jules si celui-ci est d’accord. Jules peut demander du temps pour réfléchir à ce qu’il aimerait travailler. Il voudrait revenir aux dessins du samedi et pouvoir discuter de son apprentissage sans passer tout l’entretien à raconter la douleur du marché. Ses choix donnent des points de départ pour parler des soins.
+- Jules comparait des rubans dans l’allée quand l’attaque l’a surpris.
+- Une autre est survenue chez lui alors qu’il réparait la couverture du carnet.
 
-La consultation permet aussi de préciser qui contacter selon le besoin. Une question sur le prochain rendez-vous, le retour d’une difficulté déjà discutée et un signe aigu appellent des réponses différentes. Jules peut demander à la psychiatre de lui rappeler les modalités qu’elle vient de lui expliquer. Plus tard, il choisira s’il souhaite en parler à sa grand-mère ou à Sonia.
+### La peur reste présente dans l’intervalle
+
+La perspective de revivre un épisode peut peser un jour sans attaque.
+
+**Exemples concrets**
+
+- Jules redoute une récidive dans le bus même quand le trajet se passe bien.
+- Il appréhende l’allée centrale en restant à l’écart au stand.
+
+### Des changements s’accumulent
+
+L’évaluation considère les activités et les déplacements devenus plus difficiles.
+
+**Exemples concrets**
+
+- Certains bouquets sont confiés à d’autres pour éviter l’entrée.
+- Jules a refusé plusieurs invitations à la table de dessin.
+
+## 3 techniques pour préparer l’entretien sur les attaques
+
+### 1. Raconter des épisodes situés
+
+Donner au médecin l’histoire de leur début.
+
+**Exercice pratique**
+
+- Choisissez deux moments distincts.
+- Dites ce que vous faisiez avant.
+- Décrivez ce qui vous a surpris ou ce qui différait.
+
+La spécialiste peut examiner le contexte de chaque épisode.
+
+### 2. Comparer une journée avec et sans attaque
+
+Décrire ce que l’anticipation change dans l’intervalle.
+
+**Exercice pratique**
+
+- Repérez un trajet qui a changé.
+- Notez ce que vous craignez en le prévoyant.
+- Donnez un exemple d’activité que cela a déplacée.
+
+Le médecin peut comprendre les effets qui se prolongent.
+
+### 3. Faire préciser la suite de l’évaluation
+
+Savoir à qui adresser les questions selon la situation.
+
+**Exercice pratique**
+
+- Apportez les informations médicales convenues.
+- Demandez comment la spécialiste comprend les épisodes.
+- Faites préciser le recours à un avis médical pour un signe nouveau.
+
+Le diagnostic et la conduite à tenir peuvent être discutés ensemble.
 
 ## La verrière laissée inachevée
 
 La psychiatre lui propose un autre entretien pour discuter de la prise en charge. Dans le bus du retour, Jules retrouve la forme de l’arche qu’il avait trop élargie. Il range le carnet avant de la corriger. Il préfère dire à Solange comment s’est passé le rendez-vous dans une conversation où ils auront du temps. En sortant, il lui écrit pour lui demander quel soir elle sera à la maison.
+
+---
+
+**Conclusion**
+
+La psychiatre pose le diagnostic après avoir repris les épisodes et leurs conséquences. Jules choisit de parler à Solange quand ils auront du temps. Il pourra lui dire comment ses déplacements ont changé et quelle aide lui conviendrait.

@@ -33,16 +33,79 @@ Eva replie le programme de l’atelier de percussions. Il lui reste deux inscrip
 
 Les inquiétudes persistantes peuvent conduire à redemander comment interpréter une réponse qui laisse des choses ouvertes. Il arrive qu’une personne cherche à savoir si un autre la juge ou si une difficulté est aussi grave qu’elle le craint. Antonin connaît les mots écrits par la direction. Il voudrait aussi être certain du jugement qu’ils laissent présager. Eva peut dire ce qu’elle a compris, avec les limites de ce qu’elle sait. Son avis peut lui faire du bien un moment alors que le point de jeudi reste à venir.
 
-## Comment cette difficulté se manifeste
+## Comment la recherche de réassurance revient-elle après une réponse ?
 
-Dans cette scène, Antonin revient au message comme il a pu revenir à une dépense ou à une inquiétude pour son frère. Le médecin examine l’ensemble de ces préoccupations. Le médecin peut lui demander ce qu’il attendait de la deuxième lecture et ce qui s’est passé ensuite. Eva peut garder sa place de collègue et répondre lorsqu’une information nouvelle est nécessaire à l’organisation.
+### Une formule devient difficile à laisser ouverte
 
-## Proposer de l’écoute ou chercher une information
+Une réponse courte peut être lue plusieurs fois en cherchant ce qu’elle implique pour la relation.
 
-Le rendez-vous de jeudi demande de savoir qui prépare le point de chantier. Antonin peut poser cette question à la personne qui fixe l’ordre du jour. Elle pourra lui répondre sur la présence attendue et les documents utiles. Eva peut l’aider à repérer cette demande. Si c’est surtout le sentiment d’être mis en cause qui lui pèse, il peut aussi lui dire qu’il voudrait en parler un instant, si elle est disponible.
+**Exemples concrets**
 
-Une collègue peut entendre une inquiétude et poursuivre son travail après un échange bref. Eva a ses inscriptions à traiter. Elle peut donner une heure pour reprendre une question précise si le besoin demeure. Antonin peut conserver la formulation qu’il a envoyée et s’appuyer jeudi sur les faits du chantier.
+- Antonin se demande si « Bien reçu » annonce un reproche.
+- Il repasse la phrase qu’il avait songé à ajouter sur son rappel du fournisseur.
+
+### La première réponse tient peu de temps
+
+Demander à un proche de confirmer une interprétation peut soulager un instant et laisser revenir la même question.
+
+**Exemples concrets**
+
+- Eva a déjà lu le message et Antonin lui demande de nouveau s’il paraît sec.
+- Il se demande s’il devrait faire relire le texte par une autre collègue.
+
+### La question vérifiable attend
+
+La recherche d’une interprétation peut détourner de l’information que l’interlocuteur pourrait donner.
+
+**Exemples concrets**
+
+- Antonin montre tout le message au lieu de demander qui doit venir jeudi.
+- Une personne peut faire relire un courriel plusieurs fois en laissant de côté la seule question sur l’heure de la réunion.
+
+## 3 techniques pour sortir d’une vérification répétée
+
+### 1. Relire ce qui est écrit
+
+Distinguer une information d’une interprétation possible.
+
+**Exercice pratique**
+
+- Repérez les mots qui donnent une suite.
+- Nommez ce que vous imaginez à leur sujet.
+- Gardez cette interprétation ouverte jusqu’à un échange utile.
+
+Vous pouvez reconnaître le doute sans chercher à le trancher avec chaque collègue.
+
+### 2. Formuler la question vérifiable
+
+Obtenir une information nécessaire à l’organisation.
+
+**Exercice pratique**
+
+- Identifiez le détail qui manque.
+- Adressez une question courte à la personne qui peut répondre.
+- Agissez sur la réponse reçue.
+
+La demande peut produire un effet concret sur la réunion.
+
+### 3. Convenir d’une limite entre collègues
+
+Protéger le temps et la disponibilité de chacun.
+
+**Exercice pratique**
+
+- Demandez si la personne a le temps de regarder une fois.
+- Accordez-vous sur la question qui vous occupe.
+- Revenez à vos tâches si la même interprétation revient.
+
+Le collègue peut aider ponctuellement et conserver son propre travail.
 
 ## Le nom à ajouter à l’invitation
 
 Antonin demande à la direction qui doit assister au point. La responsable lui répond qu’elle attend aussi la personne qui suit la pose. Antonin lui transfère l’invitation, puis reprend le programme des percussions qu’Eva avait posé devant lui. L’atelier termine plus tôt jeudi. Il peut préparer la dernière salle sans y passer la soirée. Sur son téléphone, Benoît lui a envoyé l’heure du tournoi de billard par équipes. Il attend encore de savoir s’ils s’inscrivent.
+
+---
+
+**Conclusion**
+
+Antonin a obtenu le nom de la personne attendue jeudi. Le sens exact du ton reste ouvert. Eva peut répondre à une question sur l’organisation et retourner à ses inscriptions.

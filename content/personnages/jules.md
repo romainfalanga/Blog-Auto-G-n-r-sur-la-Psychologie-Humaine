@@ -48,14 +48,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">Parler de la peur après le diagnostic de trouble panique</a></h3>
-    <p class="parcours-resume">Jules parle du trouble panique à Solange et lui dit que certaines allées du marché lui coûtent encore. Elle lui propose de venir avec lui. Il préfère garder pour l’instant leur rendez-vous autour du dessin, dont il attend aussi du réconfort. Le diagnostic donne des mots à leur échange et Jules peut préciser le soutien qu’il aimerait recevoir, dans une relation qui garde ses autres sujets.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">Quand la peur d’une nouvelle attaque change la place des proches</a></h3>
+    <p class="parcours-resume">En parlant à sa grand-mère du détour qu’il fait au marché, Jules imagine qu’il se sentirait rassuré s’il la retrouvait près de la porte. Dans le trouble panique, la crainte d’une nouvelle attaque peut modifier la manière de prévoir un trajet et la place qu’on donne à une personne de confiance. Jules choisit l’appui qu’il souhaite pour le lendemain.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Travailler sur la peur et retrouver une activité évitée</a></h3>
-    <p class="parcours-resume">Jules aimerait dessiner les mains de Sonia et a déjà refusé une rencontre au marché. La thérapie cognitivo-comportementale du trouble panique peut travailler les sensations, les inquiétudes qu’elles déclenchent et les activités que la personne évite. Avec sa psychiatre, Jules choisit un objectif qui lui importe et discute de la façon dont ils prépareront ensemble un premier essai.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Quand le souvenir d’une sensation fait redouter la prochaine attaque</a></h3>
+    <p class="parcours-resume">Jules se souvient des battements qui l’ont surpris dans l’allée. Il redoute ce qu’il pourrait ressentir de nouveau s’il retourne dessiner. La peur de la prochaine attaque peut prendre appui sur le souvenir de sensations et sur ce que la personne imagine qu’elles annoncent. Avec sa psychiatre, Jules parle de cette crainte et choisit un objectif pour le suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

@@ -1,19 +1,19 @@
 ---
-title: Retour du plaisir pendant une période d’amélioration
-description: Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer
-  les trois films et propose un horaire de jour.
+title: Quand les perceptions s’apaisent et laissent à nouveau suivre un film
+description: Solène guette moins la voix et peut revoir un film jusqu’au bout. Elle
+  choisit ce qu’elle veut reprendre pendant cette période plus calme.
 slug: solene-seance-jour-choix-films
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Amélioration et reprise du plaisir
+sujet: Apaisement des perceptions entre les épisodes
 contexte: Plusieurs semaines plus tard, à la réunion du cinéma itinérant
 tags:
 - Trouble schizoaffectif
 - Trouble schizo-affectif
-- Période d’amélioration
-- Retour du plaisir
-- Reprise d’activité
+- Apaisement des perceptions
+- Périodes d’amélioration
+- Reprise d’une activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,22 +28,83 @@ Elle a revu la docteure Da Costa plusieurs fois depuis le rendez-vous où elles 
 
 Mireille, qui coordonne la tournée, voudrait retirer Trois minutes de pluie. Les dialogues risquent d’être trop rapides pour une salle où les derniers rangs sont loin du mur. Solène voudrait d’abord vérifier sur place. Le film montre deux personnes qui se parlent sous un abribus, et c’est celui que les gens pourraient avoir envie de reprendre en sortant. Célestin demande si elles veulent profiter de l’essai pour faire aussi le démontage du matériel du soir. Solène regarde l’heure de fin indiquée dans sa semaine et lui propose qu’ils décident maintenant de ce qui tiendra dans l’après-midi.
 
-## Les périodes du suivi ont des rythmes différents
+## Une période où la voix occupe moins de place
 
-Le trouble schizoaffectif peut évoluer par épisodes séparés par des périodes où les symptômes s’atténuent, avec des expériences différentes d’une personne à l’autre. Le manuel de l’OMS distingue plusieurs évolutions et décrit des périodes où des symptômes demeurent et d’autres où ils ne sont plus présents.
+Le trouble schizoaffectif peut comporter des périodes où les manifestations diminuent, parfois sans toutes disparaître. Pour Solène, une amélioration se reconnaît aussi à ce qu’elle peut refaire sans surveiller chaque son. Elle peut de nouveau suivre le montage d’un film. Le nombre d’heures qu’elle souhaite engager reste une décision séparée du constat clinique.
 
-## Comment cette difficulté se manifeste
+## Comment un apaisement des perceptions peut-il rendre de la place à une activité ?
 
-Solène retrouve certaines activités qu’elle avait mises de côté. C’est ce qu’elle peut dire sur sa situation actuelle ; il reste utile de garder les points de suivi prévus avec elle.
+### L’écoute revient à ce qu’on avait choisi
 
-Elle a envie de défendre Trois minutes de pluie parce que sa place dans le programme lui paraît juste. Elle dispose d’un argument qui se discute : le contraste entre la fin du film de la chaise, très silencieuse, et la façon dont les deux personnes de l’abribus se parlent. Les soins lui laissent l’espace de retrouver des intérêts et de prendre des décisions ordinaires. Un désaccord sur le nombre de films se traite en regardant ce que la séance doit permettre.
+Quand on guette moins un son inhabituel, l’attention peut rester davantage sur la tâche.
 
-## Chiffrer ce que l’après-midi permet
+**Exemples concrets**
 
-Solène peut proposer un créneau qui laisse le temps de vérifier les sous-titres depuis plusieurs rangées et de noter ce qui gêne la lecture. Le démontage du soir est une autre tâche. Mireille décide qui peut s’en charger, et Célestin annonce ce qu’il pourra faire en tant que bénévole. Une heure de fin écrite aide chacun à savoir à quoi il s’engage.
+- Solène entend de nouveau la radio pour ce qui s’y raconte.
+- Une personne pourrait suivre un podcast sans s’arrêter à chaque silence pour écouter autour d’elle.
 
-Les orientations de l’OMS sur le rétablissement mettent les objectifs et préférences de la personne au centre du soutien. Dans le travail de Solène, une décision utile est de préciser les tâches qu’elle veut exercer dans le cadre déjà convenu avec son employeur. Si ce cadre doit évoluer, il se discute à nouveau avec les personnes concernées, avec l’appui de la médecine du travail au besoin. La séance d’essai ne change pas à elle seule les horaires convenus pour la tournée.
+### La durée supportable change
+
+La diminution de la gêne peut permettre de terminer une activité jusque-là interrompue.
+
+**Exemples concrets**
+
+- Solène regarde à nouveau un film entier.
+- Quelqu’un pourrait rester jusqu’à la dernière page lue à voix haute après avoir quitté plusieurs séances avant la fin.
+
+### Le retour d’une capacité ne fixe pas toute la reprise
+
+Une activité redevenue accessible ne donne pas d’emblée le rythme de la semaine.
+
+**Exemples concrets**
+
+- Solène propose un essai de jour et garde la fin du démontage en dehors de son créneau.
+- Une personne pourrait reprendre une réunion le matin et garder libre le reste de l’après-midi.
+
+## 3 techniques pour reprendre une activité quand les perceptions s’apaisent
+
+### 1. Choisir un objectif délimité
+
+Utiliser la marge retrouvée sur un projet concret.
+
+**Exercice pratique**
+
+- Nommez une activité que vous souhaitez reprendre.
+- Choisissez un résultat modeste pour l’essai.
+- Fixez une heure de fin avant de commencer.
+
+Le temps délimité peut aider à mesurer la place que prend réellement la tâche.
+
+### 2. Reprendre un détail qui compte
+
+Retrouver le sens de l’activité à partir d’un point précis.
+
+**Exercice pratique**
+
+- Choisissez un élément auquel vous teniez avant la période difficile.
+- Revenez-y dans de bonnes conditions de travail.
+- Notez ce que vous pouvez à nouveau faire avec cet élément.
+
+Le détail peut rendre l’évolution visible sans demander un bilan général.
+
+### 3. Garder le suivi en parallèle
+
+Pouvoir parler des changements qui restent ou reviennent.
+
+**Exercice pratique**
+
+- Distinguez ce qui vous gêne encore et ce qui s’est apaisé.
+- Préparez un exemple pour le prochain entretien.
+- Gardez à portée le contact prévu si une difficulté revient.
+
+L’équipe peut apprécier l’évolution au-delà d’un seul bon jour.
 
 ## Un essai réservé à quinze heures
 
-Mireille accepte de tester les trois films et de décider ensuite de leur ordre. Solène inscrit l’essai à quinze heures. Elle garde une demi-heure pour la lecture des sous-titres et demande à Célestin s’il peut amener trois personnes qui ne connaissent pas les films. Il peut inviter deux habituées de la salle ; pour la troisième, il faudra demander à l’accueil. Il se charge de mettre Mireille en copie quand il aura les réponses. Solène reprend le plan des Tilleuls. Cette fois, elle l’oriente comme si elle entrait par la porte et dessine la petite table près de la sortie.
+Mireille accepte de tester les trois films et de décider ensuite de leur ordre. Solène inscrit l’essai à quinze heures. Elle garde une demi-heure pour la lecture des sous-titres et demande à Célestin s’il peut amener trois personnes qui ne connaissent pas les films. Il peut inviter deux habituées de la salle. Pour la troisième, il faudra demander à l’accueil. Il se charge de mettre Mireille en copie quand il aura les réponses. Solène reprend le plan des Tilleuls. Cette fois, elle l’oriente comme si elle entrait par la porte et dessine la petite table près de la sortie.
+
+---
+
+**Conclusion**
+
+Solène retrouve du temps d’écoute et l’utilise pour vérifier ses trois films. L’essai aux Tilleuls lui donnera une autre décision à prendre. Célestin peut s’accorder avec elle sur la durée et les gestes à faire ensemble.

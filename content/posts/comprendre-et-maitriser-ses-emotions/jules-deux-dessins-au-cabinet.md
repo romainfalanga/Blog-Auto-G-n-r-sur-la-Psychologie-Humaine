@@ -6,14 +6,14 @@ slug: jules-deux-dessins-au-cabinet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Variabilité contextuelle de l’anxiété
+sujet: Possibilité de pause et appréhension du lieu
 contexte: Lors d’un point de suivi avec la psychiatre, après plusieurs sorties différentes
 tags:
 - Trouble panique
 - Attaques de panique
-- Peur selon le contexte
-- Sentiment de pouvoir sortir
-- Réévaluation du suivi
+- Appréhension selon le lieu
+- Possibilité d’interrompre
+- Repères du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -32,16 +32,79 @@ Jules reparle alors du jour où Sonia a dû appeler les secours. Il ne sait pas 
 
 Une prise en charge du trouble panique peut être ajustée à mesure que la personne décrit ce qui change dans sa vie et ce qui lui demande encore beaucoup d’effort. Jules peut apporter à la consultation plusieurs situations, y compris une sortie qu’il a interrompue et une visite où il a pu dessiner comme il le souhaitait. La psychiatre peut discuter avec lui de ce qu’il veut continuer, de ses préférences et des difficultés qui concernent encore son apprentissage ou ses trajets.
 
-## Comment cette difficulté se manifeste
+## Comment les possibilités de pause modifient-elles l’appréhension d’un lieu ?
 
-Le diagnostic connu fournit une information aux soignants. Il ne dispense pas d’évaluer un signe nouveau selon sa nature et le contexte. Jules veut pouvoir expliquer à son médecin ce qui lui paraît inhabituel. S’il présente de nouveau des signes aigus inquiétants, il peut appeler les secours ou demander à la personne avec lui de le faire. Le service d’urgence décide alors de la conduite à tenir.
+### Un niveau de bruit comparable, une gêne différente
 
-## Des contacts différents selon le besoin
+Le bruit peut compter avec d’autres caractéristiques de la situation.
 
-Jules peut garder les coordonnées des personnes qui le suivent et demander à quel moment les joindre si son quotidien se complique. Il peut choisir de dire à Sonia qui appeler en urgence et à Samuel qu’il l’informera s’il change d’avis pour la table. Chacun reçoit l’information qui correspond à ce qu’il peut faire. Les détails de l’évaluation restent entre Jules et les professionnels concernés, sauf s’il choisit d’en parler.
+**Exemples concrets**
 
-La psychiatre peut proposer de revoir ensemble un essai déjà décidé ou d’en différer un autre. Jules préfère pour l’instant continuer à parler des trajets qui comptent pour lui et des moments où il a voulu se retirer. Il souhaite garder la possibilité de dessiner au marché même si cette activité prend une autre forme que la première fois.
+- Les voisins parlent presque aussi fort que les commerçants.
+- Jules dessine plus longtemps chez Solange, où il sait quand la partie devrait se terminer.
+
+### L’idée de pouvoir reprendre autrement
+
+Savoir comment interrompre une activité peut modifier la manière dont on imagine le moment.
+
+**Exemples concrets**
+
+- Jules sait qu’il pourrait laisser le carnet sur la table et sortir prendre l’air chez Solange.
+- Au marché, il ne veut pas que Samuel doive l’attendre devant chaque porte.
+
+### Les aides ont des fonctions distinctes
+
+Une demande à un ami et une question de soin peuvent répondre à des besoins différents.
+
+**Exemples concrets**
+
+- Jules peut demander à Samuel quelle place restera libre.
+- Il demande à la psychiatre quoi faire si une sensation inhabituelle le préoccupe.
+
+## 3 techniques pour préciser ce qui change d’un lieu à l’autre
+
+### 1. Comparer deux moments semblables
+
+Décrire ce qui fait varier la gêne pendant la même activité.
+
+**Exercice pratique**
+
+- Choisissez deux moments où vous avez dessiné.
+- Notez ce que vous saviez de la durée et de l’espace.
+- Décrivez ce qui vous a aidé à rester disponible au geste.
+
+Le professionnel peut mieux comprendre les différences de contexte.
+
+### 2. Demander un détail d’organisation
+
+Obtenir l’information qui aidera à décider d’une participation.
+
+**Exercice pratique**
+
+- Repérez la question qui concerne la table.
+- Adressez-la à la personne qui l’organise.
+- Gardez le choix de venir selon le moment.
+
+L’organisateur peut répondre dans son rôle.
+
+### 3. Clarifier les relais de santé
+
+Retrouver le bon contact selon la situation.
+
+**Exercice pratique**
+
+- Demandez qui appeler pour une question de suivi.
+- Faites préciser à qui demander un avis pour un signe nouveau.
+- Gardez le numéro d’urgence pour des signes aigus inquiétants.
+
+Ces repères peuvent faciliter un recours adapté.
 
 ## La page qu’il garde libre
 
 Jules garde les coordonnées utiles dans son téléphone et range les dessins. Il a dit à la psychiatre qu’il aimerait reprendre contact avec Samuel. En sortant, il lui écrit pour savoir si quelqu’un s’installera près de l’extrémité de la table. Il précise qu’il viendra s’il en a envie ce samedi. À Solange, il envoie une photo du croquis de la boîte et lui demande quel nom elle donnerait à la main qui attend.
+
+---
+
+**Conclusion**
+
+Les deux dessins donnent à Jules une façon de parler de l’espace, de la durée et du choix de partir. Il fixe les contacts de santé avec la psychiatre et pose à Samuel une question sur la table.

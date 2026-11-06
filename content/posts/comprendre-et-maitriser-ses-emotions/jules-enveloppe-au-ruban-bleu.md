@@ -6,15 +6,15 @@ slug: jules-enveloppe-au-ruban-bleu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Rétablissement et projets personnels
+sujet: Évolution inégale des trajets et activités
 contexte: À la fin d’une journée au marché, quelques semaines après la reprise du
   dessin
 tags:
 - Trouble panique
 - Attaques de panique
-- Retentissement dans la durée
-- Activités choisies
-- Continuité du suivi
+- Variations au fil du temps
+- Trajets encore redoutés
+- Projets personnels
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -33,16 +33,79 @@ Sonia lui passe une enveloppe qui lui restait pour les cartes de commande. Jules
 
 L’évolution du trouble panique se discute dans le temps, selon les difficultés qui persistent, la participation aux activités et les préférences de la personne. Jules a repris certains dessins et choisit encore de rentrer directement certains jours. Il peut décrire ce que ces décisions lui permettent et les trajets qu’il trouve plus coûteux. La psychiatre peut en tenir compte pour revoir avec lui le soin et les appuis qu’il souhaite garder.
 
-## Comment cette difficulté se manifeste
+## Comment les trajets et les activités évoluent-ils à des rythmes différents ?
 
-Jules connaît les personnes à contacter pour le suivi ou pour une question médicale. Il peut demander de reprendre un point plus tôt si ses difficultés s’accentuent. Un changement nouveau dans son état mérite d’être évalué par les professionnels selon la situation. Le choix d’une prochaine activité, de son côté, peut aussi répondre à des raisons ordinaires, comme le jour où il travaille ou la personne avec qui il veut dessiner.
+### La peur varie selon la sortie
 
-## Faire des projets avec les personnes concernées
+L’appréhension entre les attaques peut être inégale d’une journée à l’autre.
 
-Jules peut demander à Samuel l’heure de la rencontre et dire s’il pense pouvoir y venir. Il peut aussi préférer la table habituelle ou une visite à Solange. Les personnes avec qui il dessine peuvent prévoir le matériel qu’elles apportent et parler de ce qu’elles voudraient regarder. Au travail, Sonia peut lui confier un bouquet qui le fait progresser et convenir avec lui des tâches qui vont avec. Chaque relation peut continuer autour de ce qu’ils font ensemble.
+**Exemples concrets**
 
-Solange lui a envoyé son propre dessin. Jules peut lui raconter ce que Sonia y a vu et demander s’ils pourront dessiner côte à côte une prochaine fois. Leur courrier peut contenir des nouvelles de ses trajets, une question sur la verrière ou quelques lignes sur le bleu des renoncules.
+- Jules prépare encore certains trajets longtemps à l’avance.
+- D’autres fois, les couleurs des enseignes occupent davantage son regard.
+
+### Les intérêts reprennent par moments
+
+Une activité retrouvée peut coexister avec une sortie écourtée ou remise à plus tard.
+
+**Exemples concrets**
+
+- Jules a rejoint le groupe deux samedis.
+- Une autre fois, il a préféré rentrer après le service.
+
+### Un nouveau projet garde des inconnues
+
+Le souhait de participer peut venir avant une décision sur le lieu ou la date.
+
+**Exemples concrets**
+
+- Jules s’intéresse à une rencontre dans un autre marché.
+- Il veut connaître le jour avant de promettre un trajet.
+
+## 3 techniques pour continuer le suivi et choisir de nouveaux projets
+
+### 1. Raconter un trajet facile et un trajet difficile
+
+Donner une image précise de ce qui change.
+
+**Exercice pratique**
+
+- Choisissez deux trajets récents.
+- Décrivez ce qui occupait votre attention sur chacun.
+- Parlez de leur effet sur les activités au prochain entretien.
+
+Le suivi peut tenir compte des variations entre les journées.
+
+### 2. Répondre à l’invitation par une question
+
+Garder le choix du prochain projet.
+
+**Exercice pratique**
+
+- Demandez le jour et le lieu prévus.
+- Regardez votre disponibilité.
+- Décidez ensuite si la rencontre vous intéresse dans ce cadre.
+
+La réponse peut correspondre à l’activité que vous souhaitez choisir.
+
+### 3. Garder une continuité au-delà de la sortie
+
+Préserver un lien et un objectif personnels.
+
+**Exercice pratique**
+
+- Choisissez le dessin que vous voulez partager.
+- Décidez de ce que vous souhaitez essayer ensuite.
+- Conservez le rendez-vous de suivi convenu.
+
+Les projets et les soins peuvent poursuivre chacun leur chemin.
 
 ## L’enveloppe et la feuille blanche
 
 Jules écrit l’adresse de Solange et glisse le bout de ruban bleu avec son dessin. Devant le marché, il répond qu’il aimerait connaître la date de la rencontre. Il choisira quand il aura vu son planning. Il passe à la boîte aux lettres avant de prendre son bus. Il pense au bouquet du lendemain et se demande si Sonia le laissera remettre un peu de gris parmi les couleurs vives.
+
+---
+
+**Conclusion**
+
+Jules envoie son dessin et garde la prochaine feuille dans son carnet. Il parlera à la psychiatre des trajets qui lui prennent encore du temps. Solange peut continuer à regarder les croquis qu’il choisit de lui envoyer.

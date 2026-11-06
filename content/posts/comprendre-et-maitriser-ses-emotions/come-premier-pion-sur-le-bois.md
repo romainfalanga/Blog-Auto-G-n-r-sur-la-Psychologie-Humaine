@@ -25,24 +25,87 @@ episode: 12
 
 Florian arrive avec un sac de brioches et demande où il peut poser le papier. Côme lui montre le coin où la rayure s’arrête. Lucie, qui a apporté les cartes de son frère, aperçoit une tache sombre sur le montant d’origine. Elle se penche pour la regarder avant de s’asseoir. Il lui raconte que la tache était déjà là quand il a récupéré le bâti et que la traverse claire, en dessous, est la partie qu’il a refaite avec Nadège. Lucie essaie la chaise du bout. Quand quelqu’un vient ouvrir le casier derrière elle, elle peut rester assise.
 
-Côme déplie le plateau de jeu et montre à Florian les deux cases qu’il photographie pour Sana. Au téléphone, elle leur demande s’ils ont pensé à la case qui ferme le passage quand on prend la rivière. Florian lit la règle. Sana choisit quand même la rivière ; il y a plus de façons d’en sortir, dit-elle. Côme pose le pion à l’endroit qu’elle lui indique. Le plateau a un petit jour au pli, mais le pion reste debout. Ils font le premier tour avant que Sana retourne à sa caisse. Elle raccroche en demandant qu’on lui dise où ils ont fini.
+Côme déplie le plateau de jeu et montre à Florian les deux cases qu’il photographie pour Sana. Au téléphone, elle leur demande s’ils ont pensé à la case qui ferme le passage quand on prend la rivière. Florian lit la règle. Sana choisit quand même la rivière. Il y a plus de façons d’en sortir, dit-elle. Côme pose le pion à l’endroit qu’elle lui indique. Le plateau a un petit jour au pli, mais le pion reste debout. Ils font le premier tour avant que Sana retourne à sa caisse. Elle raccroche en demandant qu’on lui dise où ils ont fini.
 
-Au milieu de la partie, une carte glisse au sol. Côme la ramasse en se demandant si un rebord gênerait les gens qui jouent avec les poignets posés sur le bois. Quand Lucie propose de recommencer juste après, il est tenté. Il avait prévu de rester pour une partie, de ranger et d’appeler sa sœur avant le dîner, comme promis. Il dit qu’il préfère garder le prochain départ pour une autre fois. Florian lui tend le sac : il reste une brioche et ils ont le temps de la partager.
+Au milieu de la partie, une carte glisse au sol. Côme la ramasse en se demandant si un rebord gênerait les gens qui jouent avec les poignets posés sur le bois. Quand Lucie propose de recommencer juste après, il est tenté. Il avait prévu de rester pour une partie, de ranger et d’appeler sa sœur avant le dîner, comme promis. Il dit qu’il préfère garder le prochain départ pour une autre fois. Florian lui tend le sac. Il reste une brioche et ils ont le temps de la partager.
 
-## Garder plusieurs façons de se retrouver
+## Retrouver plusieurs choix dans la journée
 
-Le trouble du jeu vidéo se comprend à partir du retentissement de la pratique et de la difficulté à la modifier, pas de la valeur des amitiés nouées autour d’un jeu. Chez Côme, la table ouvre une possibilité de plus : retrouver des gens dont il connaît déjà les voix et les façons de choisir un chemin. Il veut aussi retourner un jeudi au moulin avec Sana et Florian. Une partie en ligne peut continuer à lui apporter ce qu’il aime, même s’il s’interroge sur le moment où elle commence et sur celui où il arrive à la quitter.
+Dans le trouble du jeu vidéo, la pratique peut prendre le pas sur des activités et engagements auxquels on tient. Retrouver de la marge consiste aussi à pouvoir leur redonner une place. Côme partage une partie de société et choisit de la terminer pour appeler sa sœur. Cette décision lui donne un repère sur ce qu’il veut préserver. Une partie autour de la table ne renseigne pas à elle seule sur la maîtrise de ses soirées de jeu vidéo.
 
-## Comment cette difficulté se manifeste
+## Comment voit-on qu’un autre engagement retrouve sa place ?
 
-Au premier rendez-vous autour de la table, Côme remarque ce qui s’est passé quand Lucie a proposé une autre partie. Il avait envie de rester ; il a gardé une place pour son appel et le rangement. Le choix est lié à ce dimanche. Il ne dit pas ce que Côme pourra faire un autre soir ou au milieu d’une autre partie.
+### Deux envies restent valables
 
-## Garder la possibilité de demander avant un rendez-vous manqué
+Le plaisir du jeu peut coexister avec un rendez-vous qui importe.
 
-Côme peut apporter à sa consultation les situations où il a réussi à agir comme il le souhaitait et celles où la difficulté revient. La petite carte du jeudi, le plateau perdu et la demande d’appel adressée à Florian donnent chacun une information différente. Le suivi peut continuer à partir de ce que Côme veut retrouver et de ce qui lui coûte encore du sommeil ou des engagements. La première partie à l’atelier ne détermine ni la suite de ses difficultés ni les soins dont il pourra avoir besoin.
+**Exemples concrets**
 
-Côme sait qui joindre s’il souhaite en parler avant la date convenue. Il peut aussi proposer une partie à ses amis sans leur faire de compte rendu. Il leur doit une heure, une adresse et, pour Sana, une réponse à sa question : où leur pion a-t-il fini ?
+- Côme voudrait repartir avec Lucie et appeler sa sœur.
+- Une personne apprécie la soirée en ligne et veut aussi préserver son réveil.
+
+### La prochaine partie peut attendre
+
+Une limite tenue prend une forme ordinaire dans le groupe.
+
+**Exemples concrets**
+
+- Côme propose de garder le prochain départ pour une autre fois.
+- Une personne choisit de se déconnecter et de reprendre la discussion un autre jour.
+
+### L’appui peut rester utile quand un choix devient possible
+
+Les situations ne se ressemblent pas toutes et les objectifs peuvent évoluer.
+
+**Exemples concrets**
+
+- Côme garde sa consultation même après une partie qui s’est bien passée.
+- Une personne veut parler d’un soir solitaire alors que les sorties de groupe lui réussissent mieux.
+
+## 3 techniques pour garder ses priorités dans les décisions de jeu
+
+### 1. Nommer l’engagement à garder
+
+Rendre visible ce que l’on a choisi avant de commencer.
+
+**Exercice pratique**
+
+- Inscrivez le rendez-vous suivant.
+- Décidez du moment de fin compatible.
+- Prévenez les personnes concernées.
+
+Le choix peut être plus clair si une suite vous est proposée.
+
+### 2. Préparer une réponse à l’invitation suivante
+
+Garder le plaisir de rejouer sans devoir prolonger maintenant.
+
+**Exercice pratique**
+
+- Dites à quel moment vous voulez vous arrêter.
+- Proposez une autre occasion si vous en avez envie.
+- Faites la transition vers l’activité prévue.
+
+Le groupe peut garder le projet d’une nouvelle partie.
+
+### 3. Observer ce qui varie encore
+
+Garder des exemples pour le suivi.
+
+**Exercice pratique**
+
+- Relevez un engagement que vous avez pu tenir.
+- Identifiez une situation qui reste difficile.
+- Apportez les deux à votre équipe.
+
+L’accompagnement peut suivre les progrès et les difficultés à la fois.
 
 ## La dernière case sur la photo
 
 Avant de ranger, Côme envoie à Sana la photo du pion arrivé près d’un pont. Elle lui répond avec trois flèches pour lui montrer une autre sortie qu’ils auraient pu prendre. Il sourit et lui demande si elle serait libre un prochain jeudi. Sur son calendrier, il retrouve la date de sa consultation et la laisse en place. Puis il passe un chiffon là où le sac de brioches a laissé quelques miettes. Il s’arrête près du bord. La prochaine fois, il demandera à Lucie où elle pose ses poignets avant de dessiner le rebord. Il sort de l’atelier avec une photo à montrer à sa sœur et l’appelle en allant vers l’arrêt du bus.
+
+---
+
+**Conclusion**
+
+La table rassemble les amis de Côme et il appelle sa sœur comme prévu. Son envie de jouer avec Sana reste entière. Les proches peuvent entendre son choix du jour et le suivi garde une place pour les situations qui débordent.

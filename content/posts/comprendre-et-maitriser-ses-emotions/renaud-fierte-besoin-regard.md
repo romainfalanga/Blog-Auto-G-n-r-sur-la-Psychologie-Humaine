@@ -34,16 +34,79 @@ Nora remercie d’abord les personnes qui ont fait les essais et celles qui ouvr
 
 Être fier d’un travail précis et souhaiter qu’il soit reconnu sont des expériences courantes. Dans le trouble de la personnalité narcissique, le besoin d’admiration peut prendre une place si importante qu’il devient difficile de profiter d’un résultat lorsque les autres n’y voient pas la même preuve de valeur. Pour une même personne, cette place peut varier avec la situation.
 
-## Comment cette difficulté se manifeste
+## Comment le plaisir du travail coexiste-t-il avec l’attente des éloges ?
 
-Renaud éprouve réellement le plaisir de voir quelqu’un s’orienter. Il remarque ensuite qu’il attend le moment où l’équipe sera nommée. Les deux expériences se succèdent dans la même scène. Il peut désirer un remerciement et revenir à ce qu’il a observé. Le passage est lisible et une personne vient de l’utiliser. Ces faits restent présents pendant qu’il cherche sa place dans les mots de Nora.
+### Une satisfaction liée à l’usage
 
-## Donner un nom à ce qui satisfait dans le travail
+Le résultat peut compter pour ce qu’il permet aux visiteurs.
 
-Renaud peut distinguer le goût du dessin, le résultat d’un essai, la collaboration et le désir d’être connu. Il peut souhaiter un retour direct sur les panneaux lors du bilan avec Nora. Cela lui donne une question précise à poser et laisse à la direction du centre la responsabilité de son mot d’accueil. Quand une visiteuse l’interroge, il peut répondre à sa question et donner les crédits justes.
+**Exemples concrets**
 
-Le suivi peut l’aider à élargir la manière dont il mesure ce qui lui importe. Il veut continuer à remarquer les effets du travail et à entendre la part prise par d’autres. Ces objectifs prennent du temps. L’aisance qu’il éprouve un moment au pied de l’escalier lui donne un exemple à discuter.
+- Renaud voit un homme tourner au bon endroit.
+- Une personne peut se réjouir qu’un texte aide un lecteur à trouver un service.
+
+### L’attente qui revient devant le public
+
+La reconnaissance personnelle peut reprendre beaucoup de place lors d’un accueil.
+
+**Exemples concrets**
+
+- Renaud écoute le mot de Nora en se demandant si le studio sera nommé.
+- Une personne peut cesser de regarder les visiteurs quand elle attend qu’on l’appelle sur scène.
+
+### Deux sources de fierté dans la même scène
+
+Un signe utile peut rester important lorsque les éloges vont à d’autres.
+
+**Exemples concrets**
+
+- Renaud indique à la visiteuse ce que Yara a conçu et l’accompagne jusqu’au palier.
+- Un collègue peut apprécier le résultat commun tout en souhaitant entendre le sien nommé.
+
+## 3 techniques pour garder la réussite du travail en vue
+
+### 1. Regarder un usage réel
+
+Retrouver ce que le travail permet.
+
+**Exercice pratique**
+
+- Choisir un point du parcours.
+- Observer où le visiteur se dirige.
+- Partager l’observation avec Yara.
+
+Le résultat peut être apprécié sur un fait concret.
+
+### 2. Répondre avec une attribution précise
+
+Laisser à la personne une information qu’elle cherche.
+
+**Exercice pratique**
+
+- Écouter sa question sur les formes.
+- Nommer l’apport de Yara et le sien.
+- Proposer de montrer la suite.
+
+La conversation peut rester utile à la visiteuse.
+
+### 3. Reprendre les deux réactions au suivi
+
+Faire place à la fierté et à l’attente d’éloge.
+
+**Exercice pratique**
+
+- Raconter le détour réussi.
+- Dire ce qui s’est passé au micro.
+- Indiquer quelle réaction a pesé sur l’écoute.
+
+Le contraste peut éclairer les sources de satisfaction de Renaud.
 
 ## Montrer le passage depuis le premier étage
 
 Renaud accompagne la visiteuse jusqu’au palier. Elle lui raconte qu’elle cherche une salle pour revenir samedi avec sa fille. Il lui montre le repère qui reprend la forme au bout du couloir et elle le suit du regard. Il n’a entendu que la fin du mot d’accueil. Il en demande un résumé à Yara quand elle le rejoint. Nora voudrait les revoir en septembre pour préparer un parcours de visite temporaire. Cette fois, Renaud propose de fixer la répartition des tâches avant d’annoncer une date.
+
+---
+
+**Conclusion**
+
+Les visiteurs utilisent la signalétique et Renaud retrouve le plaisir du travail dans leur trajet. Il entend encore mal une partie de l’accueil parce qu’il guette les remerciements. La répartition du projet suivant mérite une décision commune.

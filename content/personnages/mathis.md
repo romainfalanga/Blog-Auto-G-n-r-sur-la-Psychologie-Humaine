@@ -30,7 +30,7 @@ reading_topics:
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/">Distractibilité et perte du fil pendant une réparation</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/">Quand plusieurs sollicitations dispersent l’attention pendant une réparation</a></h3>
     <p class="parcours-resume">Une sonnette interrompt Mathis pendant qu’il vérifie le vélo bleu. À son retour, il hésite sur le dernier contrôle et songe à le refaire. Son évaluation porte sur la répétition de ce type de difficulté et sur ses conséquences au travail comme à la maison. Le récit montre l’intérêt d’apporter des exemples précis quand on s’interroge sur un TDAH.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/" class="parcours-link">Lire</a>
   </div>
@@ -42,8 +42,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/">Le soulagement et les doutes à l’annonce du TDAH</a></h3>
-    <p class="parcours-resume">Mathis avait écrit sa première question avant le rendez-vous. Il se demande si le diagnostic de TDAH va l’obliger à changer de métier. La psychiatre lui explique comment elle a rapproché son histoire d’enfance, les conséquences observées aujourd’hui et les autres explications possibles. Sur le banc après l’entretien, il hésite à écrire les quatre lettres à Simon.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/">Comprendre un diagnostic de TDAH à partir de plusieurs milieux</a></h3>
+    <p class="parcours-resume">À la restitution de son bilan, Mathis se demande comment le TDAH s’accorde avec sa capacité à attendre le mercredi pour réparer un vélo. La psychiatre rapproche ses difficultés durables à l’atelier, à la maison et dans l’enfance. Les exigences et l’intérêt de chaque activité peuvent rendre certaines difficultés plus ou moins visibles.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -54,8 +54,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/">Parler de ses besoins au travail après un diagnostic de TDAH</a></h3>
-    <p class="parcours-resume">Pour obtenir du renfort le samedi, Mathis peut décrire une interruption précise et le contrôle qu’il aurait dû reprendre. Il souhaite aussi parler de son diagnostic à Zélie, dans un échange privé. L’épisode distingue les besoins de travail qu’il présente à l’équipe des informations de santé qu’il choisit de partager avec une collègue.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/">Expliquer le coût des interruptions répétées à son équipe</a></h3>
+    <p class="parcours-resume">La pince rouge aide Mathis à reprendre une réparation. Plusieurs interruptions successives prennent malgré tout du temps et de l’attention. Ce retentissement du TDAH lui donne un exemple à présenter pour organiser un renfort le samedi. Il décide à part de parler de son diagnostic à Zélie pendant leur déjeuner.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -66,13 +66,13 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/">La peur de décevoir quand on s’engage trop vite</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/">Quand une action prévue risque de rester en suspens</a></h3>
     <p class="parcours-resume">Mathis veut dire à Simon qu’il sera là pour la livraison avant de vérifier son heure de départ de l’atelier. Puis il se rappelle la photo qu’il avait prise à temps et envoyée en retard. Cet oubli d’une action prévue et la difficulté à anticiper l’horaire rendent son engagement plus fragile. L’accord concerne aussi la charge de Simon, qui reçoit les appels du magasin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/">Choisir un accompagnement pour les difficultés qui persistent</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/">Quand une difficulté d’attention persiste malgré un aménagement utile</a></h3>
     <p class="parcours-resume">Au cabinet, Mathis montre ce qui l’aide à retrouver l’étape d’une réparation et ce qui lui échappe encore à la maison. Le suivi du TDAH tient compte des difficultés persistantes, des aménagements essayés et de ce que la personne veut travailler. Avec sa psychiatre, il choisit de commencer par un accompagnement structuré qui part de ces deux situations.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/" class="parcours-link">Lire</a>
   </div>
@@ -90,14 +90,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/">Ce que le regard d’un proche apporte au suivi du TDAH</a></h3>
-    <p class="parcours-resume">Mathis invite Simon à une partie du rendez-vous pour entendre comment chacun a vécu l’organisation de la livraison. Le récit d’un proche peut préciser des effets quotidiens du TDAH et des attentes différentes au sein d’une relation. Mathis choisit de commencer par la livraison et garde la main sur les sujets qu’il souhaite aborder.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/">Quand un accord se perd après une journée qui a demandé de l’attention</a></h3>
+    <p class="parcours-resume">Mathis s’appuie sur les fiches pendant la permanence. Le soir, il ne retrouve ni la date ni le contenu d’un accord passé avec Simon. Dans le TDAH, les difficultés d’attention et d’organisation peuvent prendre d’autres formes à domicile. Simon peut décrire ce qu’il a vu et Mathis garde la main sur ce qu’ils abordent en suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/">Rendre les aides à l’organisation utilisables par toute l’équipe</a></h3>
-    <p class="parcours-resume">Lors de la deuxième permanence, Mathis aimerait retourner vers le pied de réparation. Pour changer de rôle, il faut que les autres retrouvent les horaires et les étapes en cours. Des appuis au quotidien deviennent plus faciles à maintenir quand l’équipe sait les utiliser et les revoir. Mathis peut alors choisir comment il participe et garder son suivi.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/">Retrouver ses repères quand les rôles et les lieux changent</a></h3>
+    <p class="parcours-resume">La pluie déplace la table, la file se forme ailleurs et Mathis commence à l’accueil. Les repères qui l’aident à s’organiser avec son TDAH deviennent moins accessibles quand le cadre et les rôles changent. La permanence lui donne l’occasion de retrouver les informations grâce à des supports que les autres savent aussi utiliser.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/" class="parcours-link">Lire</a>
   </div>
 </div>

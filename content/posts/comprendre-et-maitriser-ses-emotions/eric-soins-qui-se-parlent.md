@@ -1,21 +1,20 @@
 ---
-title: Accorder ses soins quand le travail et la santé se croisent
-description: Éric choisit ce que le centre peut partager avec son médecin et ce qu’il
-  veut dire à Mélissa sur sa disponibilité.
+title: Suivre les effets de l’alcool sur la santé entre deux consultations
+description: Entre la cuisine et la consultation, Éric veut que son médecin dispose
+  des informations utiles sur sa consommation pour examiner sa santé physique.
 slug: eric-soins-qui-se-parlent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Éric
-sujet: Coordination du suivi addictologique
-contexte: Une semaine plus tard, entre la cuisine de l’école et l’appel du centre
+sujet: Suivi des effets physiques de la dépendance
+contexte: Articuler les informations sur la consommation et la santé physique.
 tags:
 - Dépendance à l’alcool
 - Alcoolodépendance
 - Addiction à l’alcool
 - 6C40.2
-- Suivi somatique
-- Coordination des soins
-- Choix du patient
+- Santé physique
+- Suivi addictologique coordonné
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -30,22 +29,83 @@ Mélissa lui demande s’il veut prendre ses prochaines heures de pause avec ell
 
 Dans le couloir, au moment de décrocher, il ressort le carton. À l’infirmière, il demande quel résumé sera envoyé et qui pourra le lire. Il aimerait que le médecin habituel puisse tenir compte de ses derniers changements de consommation quand ils parleront de son état physique. Il hésite à transmettre ce qu’il avait raconté sur Joëlle. L’infirmière lui propose de préciser le contenu utile avec le docteur Lenoir.
 
-## Plusieurs dimensions à suivre ensemble
+## Pourquoi les deux suivis se rejoignent
 
-Un suivi de la dépendance à l’alcool peut réunir des questions médicales, psychologiques et sociales. Le médecin habituel peut évaluer l’état général, reprendre les symptômes rapportés et coordonner les examens nécessaires.
+La dépendance à l’alcool peut avoir des conséquences qui se voient dans la santé physique et dans le quotidien. Le médecin habituel peut évaluer l’état général et les symptômes. Le service d’addictologie suit aussi la consommation, les reprises et les circonstances où sa maîtrise devient difficile. Pour Éric, relier ces deux suivis permet de discuter de la suite des soins avec les informations utiles à chacun.
 
-L’équipe d’addictologie peut travailler avec Éric sur la consommation, les reprises et les situations où il perd la maîtrise. La transmission entre professionnels peut se discuter à partir de ce qui est utile à ses soins.
+## Comment un suivi partagé peut-il éclairer les effets sur la santé ?
 
-## Les rendez-vous qu’il essaie de garder dans sa semaine
+### Un fait de consommation éclaire un symptôme à évaluer
 
-La consommation a déjà pesé sur l’agenda d’Éric, jusque dans les fins de journée qu’il laissait libres pour retrouver ses amis. Aujourd’hui, il remarque une autre contrainte. Il a déjà déplacé des rendez-vous quand les préparatifs du repas lui prenaient toute la place. Il tient cette fois à garder l’heure de son appel. Il veut que son médecin puisse tenir compte des changements de consommation et hésite à transmettre ce qu’il a raconté sur Joëlle.
+Les événements récents donnent un contexte médical utile.
 
-## Rendre les rendez-vous compatibles avec les engagements
+**Exemples concrets**
 
-Éric peut demander au centre quand il sera possible de discuter du résumé et en reprendre les termes avant l’envoi. S’il souhaite un relais pour un symptôme physique, cette information peut être distinguée des détails d’une conversation privée. Il peut aussi indiquer ses contraintes de travail pour trouver un moment où il pourra répondre et se concentrer. L’équipe peut chercher avec lui des objectifs qui tiennent compte de ses besoins et des risques évalués.
+- Éric veut que son médecin connaisse les derniers changements quand ils parleront de son état physique.
+- Une personne mentionne une baisse récente quand elle demande un avis sur des tremblements.
 
-Avec Mélissa, Éric tient à finir un menu commun. Il peut annoncer une disponibilité précise et choisir plus tard s’il souhaite en dire davantage. Sa collègue peut organiser la fin de la pause sur la base de cette information. Un rendez-vous maintenu dans le soin et un accord clair au travail réduisent les occasions de devoir tout réorganiser au dernier moment.
+### Des questions différentes sont à suivre
+
+L’examen de la santé et le travail sur les difficultés à réguler la consommation ont chacun leur place.
+
+**Exemples concrets**
+
+- Éric revoit le moment où il lui devient difficile de partir du café au centre.
+- Une personne discute des examens nécessaires avec son médecin et de ses invitations difficiles en addictologie.
+
+### Le quotidien peut compliquer la continuité
+
+Un suivi utile doit pouvoir trouver sa place dans la journée de la personne.
+
+**Exemples concrets**
+
+- Éric réserve une partie de sa pause à l’appel du centre.
+- Une personne reporte un rendez-vous faute d’avoir prévu comment quitter le travail à temps.
+
+## 3 techniques pour préparer le lien entre ses interlocuteurs de soins
+
+### 1. Nommer la question qui relie les deux suivis
+
+Savoir ce qui doit être examiné avec quel interlocuteur.
+
+**Exercice pratique**
+
+- Notez un changement dont vous souhaitez parler.
+- Dites quelle question de santé vous vous posez.
+- Demandez qui reprendra ce point avec vous.
+
+Chaque échange peut partir d’un besoin précis.
+
+### 2. Relire le résumé prévu
+
+Convenir du contenu utile avec l’équipe.
+
+**Exercice pratique**
+
+- Demandez qui recevra le résumé.
+- Repérez les informations médicales utiles.
+- Posez vos questions sur ce que vous préférez garder dans l’entretien.
+
+Vous pouvez discuter de la transmission avant qu’elle se fasse.
+
+### 3. Réserver le moment de l’échange
+
+Garder un créneau de soins sans imposer au collègue de deviner la suite.
+
+**Exercice pratique**
+
+- Choisissez un moment compatible avec votre horaire.
+- Dites quand vous devrez vous absenter.
+- Convenez de ce qui sera repris à votre retour.
+
+L’équipe de travail peut s’organiser et vous pouvez prendre l’appel.
 
 ## La feuille du menu reste sur le comptoir
 
 À la fin de l’appel, Éric accepte qu’on prépare le résumé et demande à le revoir avec le médecin du centre. Il rejoint Mélissa, qui a laissé les deux propositions sur la feuille. Elle lui dit qu’elle préfère celle où l’on sent les poireaux dès la première bouchée. Éric ajoute le nom de la marchande à côté des ingrédients, pour savoir à qui demander si elle serait d’accord de les fournir. Puis ils conviennent de rencontrer Gérald mardi, après l’école. Éric lira le menu avec Mélissa et gardera un moment pour parler du coin d’écoute.
+
+---
+
+**Conclusion**
+
+Éric veut que son médecin puisse lire les changements utiles à sa santé et demande à revoir le résumé. Mélissa a surtout besoin de connaître son heure de retour. La prochaine réunion posera autrement la question de ce qu’il souhaite dire.

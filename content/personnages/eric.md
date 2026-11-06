@@ -56,8 +56,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/eric-soins-qui-se-parlent/">Accorder ses soins quand le travail et la santé se croisent</a></h3>
-    <p class="parcours-resume">Éric prépare le menu avec Mélissa et pense à l’appel du centre qu’il risque de manquer. Il hésite à coordonner ses rendez-vous avec son médecin habituel parce qu’il tient à choisir ce qui sera partagé. Cette scène montre comment le suivi de la dépendance peut tenir compte de la santé physique, du quotidien et des décisions de la personne.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/eric-soins-qui-se-parlent/">Suivre les effets de l’alcool sur la santé entre deux consultations</a></h3>
+    <p class="parcours-resume">Entre deux essais de soupe, Éric attend l’appel du centre. Il veut que son médecin habituel puisse tenir compte des changements de sa consommation quand ils parleront de sa santé physique. Il ne sait pas encore quel renseignement doit circuler. Le suivi de la dépendance peut articuler l’évaluation médicale et le travail sur la consommation à partir des besoins qu’il exprime.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/eric-soins-qui-se-parlent/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

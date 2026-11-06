@@ -34,18 +34,79 @@ Dans sa poche, il a le papier avec l’heure du premier entretien psychologique.
 
 L’accompagnement de l’anxiété généralisée s’ajuste à ce qui pèse sur la personne, à ses préférences et à la réponse aux aides déjà essayées. Quand un chantier se termine, certaines contraintes de travail disparaissent et d’autres peuvent revenir sous une forme différente.
 
-## Comment cette difficulté se manifeste
+## Comment l’inquiétude et le plaisir d’être présent peuvent-ils coexister ?
 
-Antonin continue de faire le point avec son médecin. Il peut décrire ses nuits, ses décisions au travail et le temps qu’il arrive à passer avec son frère. Le premier entretien psychologique lui donne un autre endroit où parler de ce qui lui importe et poser des questions sur les options proposées.
+### Les questions se prolongent après le travail utile
 
-Une activité qui reprend ne résume pas l’évolution d’un trouble. Antonin peut apprécier l’audition et ressentir de nouveau de l’inquiétude sur ce qu’on attend de lui. Il garde le choix d’en parler, de demander un appui plus tôt si la gêne s’accentue et de dire quels objectifs lui semblent adaptés maintenant.
+Une réponse peut être suivie d’un souci sur la façon dont les autres interpréteront votre décision.
 
-## Conserver une place pour écouter
+**Exemples concrets**
 
-Le déroulement de l’audition dépend de plusieurs personnes. Antonin peut préparer les sièges selon le plan et laisser les décisions d’accueil à la permanence. Une information nouvelle peut bien sûr lui être transmise si elle concerne sa part. Il peut aussi dire à Eva qu’il aimerait rester dans le public après avoir terminé. Elle pourra lui indiquer s’il reste un besoin précis et voir avec lui comment y répondre.
+- Antonin trouve le plan d’accueil près de l’entrée.
+- Il pense encore à ce que quelqu’un dira s’il reste assis pendant l’audition.
 
-Benoît n’a pas besoin de connaître le planning de l’école pour choisir s’il vient. Il peut proposer l’audition ou le billard en fonction de ses envies. Antonin peut lui raconter sa semaine, lui montrer le morceau sur le programme ou simplement partager une heure de musique. Le rendez-vous médical et le temps qu’il choisit pour lui gardent chacun leur place.
+### La participation prend une autre forme
+
+Une activité peut retrouver une place sans que la personne reprenne tous les rôles qu’elle occupait avant.
+
+**Exemples concrets**
+
+- Antonin prépare les sièges et garde deux places parmi le public.
+- Il signale le pied qui grince à la personne chargée de l’accueil et rejoint Benoît.
+
+### Les difficultés qui restent gardent leur place
+
+Un projet abouti peut être un progrès pendant qu’un autre aspect de la vie demande un suivi.
+
+**Exemples concrets**
+
+- Le local accueille son premier groupe, mais les réveils d’Antonin se poursuivent.
+- Le papier dans sa poche indique l’heure du premier entretien psychologique.
+
+## 3 techniques pour garder une place dans un projet choisi
+
+### 1. Préciser le rôle d’aujourd’hui
+
+Séparer la contribution utile du temps que vous voulez passer avec les autres.
+
+**Exercice pratique**
+
+- Choisissez la tâche dont vous êtes chargé.
+- Demandez le renseignement dont vous avez besoin.
+- Décidez où vous souhaitez être quand la tâche est terminée.
+
+Vous pouvez participer en ayant un rôle qui vous convient.
+
+### 2. Passer un incident ordinaire au bon relais
+
+Laisser la personne présente reprendre une petite difficulté.
+
+**Exercice pratique**
+
+- Décrivez le fait observé.
+- Informez la personne qui a la charge du lieu.
+- Rejoignez votre place une fois le relais fait.
+
+Le problème peut être suivi sans interrompre tout le moment partagé.
+
+### 3. Dire ce qui change et ce qui persiste
+
+Apporter au suivi une image nuancée de l’évolution.
+
+**Exercice pratique**
+
+- Gardez un exemple où vous avez repris une activité.
+- Notez une difficulté encore présente.
+- Choisissez la question à porter au premier entretien ou au prochain rendez-vous.
+
+L’accompagnement peut s’appuyer sur les deux aspects de la situation.
 
 ## Le silence avant la première note
 
 Benoît accepte l’audition et propose de jouer une autre fois. Antonin garde deux places au fond après avoir préparé la salle. Avant de s’asseoir, il remarque qu’un pied grince sur le sol et en parle à la personne qui assure l’accueil. Puis il rejoint son frère. Benoît lui demande s’il connaît le morceau. Antonin reconnaît les deux notes qui l’ouvraient dans le couloir. Il baisse la voix pour les fredonner, puis se tait quand les élèves lèvent leurs instruments.
+
+---
+
+**Conclusion**
+
+Antonin entend enfin le morceau depuis la place qu’il voulait prendre. Les réveils et les préoccupations ont encore leur place dans le suivi. Benoît peut partager l’audition et lui proposer une autre soirée de billard.

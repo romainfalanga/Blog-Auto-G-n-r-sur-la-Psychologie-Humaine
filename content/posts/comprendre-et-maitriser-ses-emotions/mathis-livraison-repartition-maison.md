@@ -1,12 +1,12 @@
 ---
-title: La peur de décevoir quand on s’engage trop vite
+title: Quand une action prévue risque de rester en suspens
 description: Une livraison tombe pendant les heures de l’atelier. Mathis et Simon
   reprennent l’accord en regardant qui reçoit les messages et qui peut agir.
 slug: mathis-livraison-repartition-maison
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Anticipation et oubli d’intention
+sujet: Oubli d’une action prévue pour plus tard
 contexte: À la table de la cuisine, après le repérage aux Tilleuls
 tags:
 - TDAH chez l’adulte
@@ -28,20 +28,83 @@ Mathis propose d’activer une alarme. Simon lui montre la dernière ligne du me
 
 Mathis tire le calendrier vers lui. Il avait répondu oui avant d’imaginer les vélos à ranger et les bénévoles qui lui posent souvent une question en partant. Il a envie de dire qu’il trouvera bien un moyen. En voyant le vendredi sur le calendrier, il se rappelle la photo du compteur envoyée en retard. Il sait retrouver une heure sur son téléphone. Ce soir, il cherche surtout une heure qu’il pourra vraiment tenir.
 
-## De l’intention à l’engagement qu’il faudra tenir
+## Avoir une intention et la retrouver au bon moment
 
-Une livraison comporte plusieurs actions. Quelqu’un fixe la date, quelqu’un reçoit le message, quelqu’un ouvre la porte et quelqu’un doit pouvoir appeler si le jour change. Mathis s’est engagé sur la présence à la maison, tandis que Simon garde sans l’avoir choisi la responsabilité d’attraper l’appel. Le problème existe avant la sonnerie. Ils peuvent le voir ensemble en suivant le parcours du message.
+L’oubli d’une action prévue peut concerner une tâche qu’on a déjà commencée ou un engagement auquel on tient. Dans le TDAH, s’organiser pour agir au moment convenu peut être difficile. La photo du compteur existe et son envoi est resté en suspens. Pour la livraison, Mathis repère à l’avance l’écart entre l’intention d’être là et les actions qui permettraient de tenir l’accord.
 
-## Comment cette difficulté se manifeste
+## Comment une action prévue peut-elle rester en attente ?
 
-Les difficultés d’organisation peuvent se manifester aussi hors du travail. Elles affectent parfois la façon dont des tâches sont réparties entre adultes. Dans le suivi, Mathis peut décrire ce qu’il arrive à assurer et les endroits où il se retrouve à dépendre d’un rappel. Il souhaite que Simon puisse lui dire ce qui devient pesant sans endosser le rôle de vérifier tous ses engagements. De son côté, il veut pouvoir demander un appui ponctuel sans perdre la possibilité de prendre une décision.
+### Une tâche commencée donne l’impression d’être faite
 
-## Transmettre l’information et convenir d’un horaire possible
+Préparer une étape peut laisser un souvenir précis alors que l’action attendue par l’autre reste à faire.
 
-Ils relisent les modalités de modification. Mathis propose de rappeler lui-même le magasin pour demander un autre créneau et faire mettre son numéro comme contact de la livraison. Il connaît ses horaires à l’atelier et peut vérifier quelle demi-journée il passera à l’appartement. Si aucun horaire ne convient, ils discuteront d’une autre solution ensemble. Simon lui transfère le message avec la référence, puis peut partir aider son ami sans surveiller le fil.
+**Exemples concrets**
 
-Mathis s’interroge sur le genre de rappel qui lui sert. Il retrouve vite l’alarme au moment où elle sonne. S’il reçoit l’alerte pendant une réparation, elle risque de disparaître avant qu’il puisse agir. Il choisit de mettre l’heure de l’appel au magasin près du moment où il a réellement accès à son téléphone. Simon peut lui dire ses disponibilités et les tâches qu’il accepte de partager. Tous deux peuvent revenir sur l’accord s’il leur ajoute plus de travail qu’il ne leur en retire.
+- Mathis se rappelle l’heure où il a pris la photo, qu’il n’a pas envoyée à temps.
+- Un formulaire peut être rempli et rester dans les brouillons le jour où il devait partir.
+
+### Le rappel arrive à un moment où l’on ne peut agir
+
+Se rappeler le rendez-vous ne suffit pas si l’action demande d’être ailleurs ou d’avoir une information disponible.
+
+**Exemples concrets**
+
+- L’alarme envisagée ne rendrait pas Mathis disponible pendant le rangement de l’atelier.
+- Le livreur appelle Simon, qui a prévu d’aider un ami loin de l’appartement.
+
+### La responsabilité change sans que l’information suive
+
+Un accord peut laisser une étape chez la personne qui n’est plus chargée de la tâche.
+
+**Exemples concrets**
+
+- Mathis a promis d’être présent. Le numéro de Simon est encore celui du magasin.
+- Simon aurait dû surveiller son téléphone pour faire suivre un appel dont Mathis a besoin.
+
+## 3 techniques pour relier une intention à l’action prévue
+
+### 1. Repérer l’étape encore attendue
+
+Garder en vue le geste qui termine l’engagement.
+
+**Exercice pratique**
+
+- Demandez ce que l’autre personne attend de recevoir ou de voir fait.
+- Distinguez la préparation du geste final, comme l’envoi.
+- Choisissez un moment où vous pouvez effectuer ce geste.
+
+L’appui peut porter sur l’étape qui reste ouverte.
+
+### 2. Faire arriver l’information à la bonne personne
+
+Éviter qu’une action dépende d’un relais qui ne sera pas disponible.
+
+**Exercice pratique**
+
+- Vérifiez qui doit recevoir la confirmation.
+- Demandez que le service utilise le contact convenu.
+- Relisez la confirmation ensemble si une précision doit être partagée.
+
+Le rappel peut parvenir directement à la personne qui doit agir.
+
+### 3. Reporter avant de confirmer
+
+Choisir un engagement qui tient compte de la journée réelle.
+
+**Exercice pratique**
+
+- Relisez le créneau proposé en regard des activités déjà prévues.
+- Demandez une autre heure si vous ne pouvez pas être disponible.
+- Confirmez la nouvelle heure une fois votre disponibilité vérifiée.
+
+Un accord réaliste est plus facile à tenir qu’un rappel posé sur un créneau impossible.
 
 ## Un créneau dont il s’occupe
 
 Le magasin propose le mardi matin suivant. Mathis vérifie qu’il ouvre l’atelier plus tard ce jour-là. Quand la confirmation arrive, il voit son numéro au bon endroit et envoie l’horaire à Simon. Il aurait aimé que la table soit montée pour le week-end. Simon lui montre les journaux pliés sous le pied de l’ancienne, qu’ils pourront garder quelques jours de plus. Mathis prend une feuille pour noter la suite. Au moment de l’ajouter au dossier pour sa psychiatre, il écrit aussi une question. Il voudrait savoir ce qui peut l’aider quand un accord reste difficile à tenir malgré un calendrier utilisable.
+
+---
+
+**Conclusion**
+
+Mathis reprend le contact du magasin et choisit un créneau où il pourra ouvrir lui-même. Il souhaite parler en suivi des étapes qui continuent de lui échapper. Simon peut transmettre les renseignements qu’il a reçus et retrouver sa liberté de mouvement.

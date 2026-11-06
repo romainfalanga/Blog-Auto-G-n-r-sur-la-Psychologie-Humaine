@@ -34,16 +34,79 @@ Mélissa lui touche le coude et lui demande de lui passer la louche. Il lui dit 
 
 Une envie de boire peut apparaître lors d’une inquiétude, d’une habitude du soir ou d’un événement que la personne a envie de fêter. Éric éprouve de la fierté et se souvient des fins de service où il allait retrouver le groupe et boire. L’envie arrive au moment où son rôle change et où il pourrait se laisser conduire par la suite familière. L’équipe de soins peut tenir compte de cette association, comme elle l’a fait pour l’invitation reçue sur la place.
 
-## Comment cette difficulté se manifeste
+## Comment un moment heureux peut-il raviver l’envie de boire ?
 
-Le repas donne à Éric une expérience différente de la répétition de la fanfare. Le travail qui vient de réussir et les remerciements lui donnent envie de prolonger la journée. Il peut remarquer ce que chacun de ces moments suscite et en parler au prochain rendez-vous.
+### Le plaisir rappelle une suite familière
 
-## Passer d’un rôle à l’autre avec un accord concret
+Un événement apprécié peut réveiller l’envie par l’habitude de le prolonger avec de l’alcool.
 
-Éric et Mélissa ont convenu d’un moment où elle reprend la louche et où il va au casque. Cet accord donne une forme à ce qu’il voulait faire et réduit le temps où il doit se décider à nouveau devant plusieurs propositions. Mélissa voit un service à tenir et peut lui dire quand elle est prête. Éric choisit la réponse à donner à Gérald et l’invite à écouter.
+**Exemples concrets**
 
-Les aides peuvent être adaptées à une situation précise. Éric pourra raconter pourquoi le passage a été difficile même si la journée lui plaisait. Le soin peut s’appuyer sur ce qu’il découvre dans des moments agréables et sur la place qu’il souhaite continuer de donner à ses amis.
+- Le compliment sur la soupe rappelle à Éric les fins de service.
+- Une personne associe l’annonce d’une bonne nouvelle au verre pris d’habitude après.
+
+### La transition laisse place à l’ancien enchaînement
+
+Un rôle se termine et la suite n’est pas encore engagée.
+
+**Exemples concrets**
+
+- Éric oublie un instant l’heure du casque en entendant l’invitation.
+- À la fin d’une activité réussie, une personne se dirige par habitude vers le lieu où elle allait boire.
+
+### L’envie peut accompagner le nouveau choix
+
+Une activité choisie reste possible alors que le désir de prolonger la fête est là.
+
+**Exemples concrets**
+
+- Éric pense encore à l’autre table en accueillant le premier auditeur.
+- Une personne poursuit la rencontre prévue avec un ami et pense encore à la sortie qu’elle a déclinée.
+
+## 3 techniques pour préparer la suite d’un moment qu’on souhaite fêter
+
+### 1. Préparer le passage entre deux rôles
+
+Garder un repère quand l’ambiance change.
+
+**Exercice pratique**
+
+- Choisissez la tâche qui vient après.
+- Fixez le moment du relais avec le collègue.
+- Décidez quel signe annoncera qu’il prend la suite.
+
+Le prochain geste peut rester clair au milieu de la fête.
+
+### 2. Prévoir une façon de marquer la réussite
+
+Préserver le plaisir dans une activité souhaitée.
+
+**Exercice pratique**
+
+- Choisissez ce que vous voulez célébrer.
+- Proposez un geste ou un échange à quelqu’un.
+- Donnez-vous le droit de vous en tenir à ce moment.
+
+La réussite peut garder une suite que vous avez choisie.
+
+### 3. Apporter une soirée agréable au suivi
+
+Inclure les contextes positifs dans la discussion des envies.
+
+**Exercice pratique**
+
+- Notez le bon moment qui a précédé l’envie.
+- Décrivez la suite qui vous est venue en tête.
+- Dites ce qui vous a aidé à choisir.
+
+L’équipe peut tenir compte d’un contexte qu’on oublie parfois de lui raconter.
 
 ## La photo entre le dessin et le casque
 
 Gérald trouve sa photo posée entre le dessin de Joëlle et le casque. Éric lui dit de commencer par le passage où la marchande cale les cagettes. Gérald ferme les yeux quelques secondes. Quand il les rouvre, il dit qu’il pourrait reconnaître la place rien qu’au bruit du chariot derrière elle. Deux personnes attendent leur tour. Éric demande à Gérald s’il peut garder la photo sur la table le temps d’expliquer l’enregistrement. Gérald est d’accord et retourne chercher Pascal pour lui faire entendre le chariot. Éric a encore envie de savoir ce qui se dit à l’autre table. Il peut d’ici entendre son prénom autrement.
+
+---
+
+**Conclusion**
+
+Éric passe la louche à Mélissa, même si la table des anciens l’attire encore. Gérald découvre le bruit du marché au casque. Cette envie apparue après une réussite aura aussi une place à la prochaine consultation.

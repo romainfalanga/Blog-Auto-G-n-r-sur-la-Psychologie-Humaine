@@ -34,16 +34,79 @@ Le lendemain, il entend le fabricant repartir avant de sortir de son bureau. Yar
 
 Certaines personnes présentant ce trouble réagissent à une critique ou à une déception en s’isolant. La honte ou l’impression d’avoir perdu sa place peut rendre difficile le fait de rester en lien. Se retirer peut diminuer l’inconfort sur le moment. Le résultat peut aussi être un travail reporté ou une conversation laissée à la charge des autres. Ces effets dépendent de la situation et des responsabilités de chacun.
 
-## Le soulagement immédiat et la validation reportée
+## Comment le sentiment d’être relégué peut-il conduire au retrait ?
 
-Quand Nora propose que Yara parle à la presse, Renaud interprète ce choix comme une mise à l’écart. Il déplace le relevé et annonce qu’il laissera les autres faire la réunion. Le soulagement est immédiat. Le lendemain, Yara reporte la validation de deux panneaux parce qu’elle n’a pas les mesures attendues. Le retrait a changé une tâche que Renaud avait acceptée et coûté une semaine à l’équipe.
+### Une tâche limitée entendue comme un déclassement
 
-## Répondre à la tâche et parler ailleurs du sentiment d’exclusion
+Une répartition ponctuelle peut sembler menacer l’importance de son rôle.
 
-Le fichier est disponible. Renaud peut le remettre dans le dossier commun, convenir d’une date de rattrapage et prévenir la personne qui attend. Il peut parler à Nora de la répartition des rôles à un autre moment. Yara conserve la possibilité d’expliquer ses essais. La question de la représentation publique et la responsabilité technique peuvent chacune recevoir une réponse compréhensible.
+**Exemples concrets**
 
-Le sentiment d’exclusion demeure pour Renaud. Il a prévu une consultation la semaine suivante. Il peut y apporter les deux messages, celui sur le programme et celui sur la validation. Examiner la différence entre ce que Nora a annoncé et ce qu’il en a conclu lui donne une situation précise à discuter. La relation de soin garde sa place à côté du travail de réparation dans l’équipe.
+- Nora propose un intervenant et Renaud demande si le studio a perdu sa responsabilité.
+- Quelqu’un peut entendre qu’une autre personne présentera un essai et croire qu’on ne reconnaît plus sa contribution.
+
+### Se retirer pour ne plus subir la situation
+
+L’absence peut apporter un répit immédiat.
+
+**Exemples concrets**
+
+- Renaud annonce qu’il ne viendra pas et déplace le relevé.
+- Une personne peut quitter un échange où elle se sent reléguée avant de transmettre son travail.
+
+### Laisser aux autres un problème précis
+
+La rupture peut retarder une décision qui dépendait de plusieurs personnes.
+
+**Exemples concrets**
+
+- Yara reporte la validation de deux panneaux.
+- Un fabricant peut repartir sans les mesures nécessaires pour confirmer une commande.
+
+## 3 techniques pour préserver ses engagements quand on veut se retirer
+
+### 1. Vérifier la portée de la décision
+
+Comprendre la répartition effectivement proposée.
+
+**Exercice pratique**
+
+- Demander qui présente l’essai.
+- Préciser qui répondra sur la fabrication.
+- Distinguer la presse de la validation technique.
+
+Renaud peut savoir quelles responsabilités sont encore les siennes.
+
+### 2. Assurer la transmission
+
+Permettre aux autres d’avancer malgré une absence.
+
+**Exercice pratique**
+
+- Repérer le document attendu.
+- Déposer la version accessible.
+- Prévenir l’équipe d’un changement de présence.
+
+Le fabricant et Yara peuvent savoir sur quoi ils travaillent.
+
+### 3. Préparer le prochain rendez-vous de soin
+
+Reprendre le moment où le retrait a semblé préférable.
+
+**Exercice pratique**
+
+- Noter la phrase de Nora.
+- Décrire le soulagement ressenti en partant.
+- Nommer la décision que l’équipe a reportée.
+
+Le suivi peut examiner la réaction et son coût.
 
 ## Le relevé dans le dossier commun
 
 Renaud remet le document à sa place et envoie le lien à Yara et au fabricant. Il indique qu’il n’était pas venu alors qu’il avait le relevé et demande un créneau pour reprendre la validation. Yara peut venir jeudi matin. Elle lui demande de déposer les mesures la veille à l’avenir. Avant de fermer son agenda, il ajoute une note à son rendez-vous de consultation. Il écrit la phrase de Nora aussi exactement qu’il peut se la rappeler.
+
+---
+
+**Conclusion**
+
+Le relevé redevient accessible et Yara fixe ses conditions pour jeudi. Renaud emporte la phrase de Nora à sa consultation. Elle lui rappelle déjà d’autres moments où une décision limitée lui a paru parler de sa place.

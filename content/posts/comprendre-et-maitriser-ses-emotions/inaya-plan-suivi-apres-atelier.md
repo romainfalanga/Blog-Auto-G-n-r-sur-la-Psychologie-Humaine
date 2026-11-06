@@ -30,20 +30,83 @@ Nino est assis près de la porte. Il a rapporté une feuille de la médiathèque
 
 ## Prévoir une réponse quand plusieurs difficultés reviennent
 
-Dans la prévention des rechutes, le NICE recommande de revoir avec la personne ce qui l’a aidée, ce qui a précédé une aggravation et les réponses possibles. Pour Inaya, le changement de sommeil, la perte d’intérêt et la difficulté à garder certains engagements sont des observations à discuter avec sa psychiatre. Une matinée pénible n’impose pas d’en conclure qu’un épisode commence. Si les changements s’accumulent ou gênent de nouveau la vie quotidienne, elle sait qu’elle peut le signaler tôt.
+Dans la prévention des rechutes, l’équipe peut revoir avec la personne ce qui l’a aidée, ce qui a précédé une aggravation et les réponses possibles. Pour Inaya, le changement de sommeil, la perte d’intérêt et la difficulté à garder certains engagements sont des observations à discuter avec sa psychiatre. Une matinée pénible n’impose pas d’en conclure qu’un épisode commence. Si les changements s’accumulent ou gênent de nouveau la vie quotidienne, elle sait qu’elle peut le signaler tôt.
 
 Elles vérifient ensemble qui répond entre deux consultations et quel relais utiliser si la personne prévue n’est pas joignable.
 
-## Comment cette difficulté se manifeste
+## Comment repérer une nouvelle difficulté après plusieurs épisodes dépressifs ?
 
-Si la sécurité d’Inaya est menacée, elle cherche une aide urgente sans attendre le rendez-vous. Inaya choisit si Myriam garde une copie des coordonnées et quelles tâches pratiques sa sœur pourrait prendre pour un temps limité. La suite du suivi se décide avec l’équipe, selon sa situation et ses préférences.
+### Des signes qui ont compté lors d’un épisode
 
-## Faire de la place à ce qui n’a pas besoin de servir au suivi
+L’histoire peut aider à reconnaître une combinaison de changements qui mérite un contact.
 
-Préparer une réponse à une aggravation ne demande pas de transformer chaque activité en indicateur. Inaya peut garder une séance de cinéma qui lui fait envie, choisir un autre film, ou ne rien décider aujourd’hui. Elle peut aussi remercier Mina pour son enthousiasme et attendre avant de s’engager sur un atelier. Un projet fait partie de sa vie, avec des choix qui ne se résument pas à ce qu’elle fait quand elle se sent mal.
+**Exemples concrets**
 
-Le plan sert si une difficulté revient ; il n’a pas à organiser toutes les journées qui viennent. Si les horaires de la boutique ou les personnes disponibles changent, Inaya peut en reparler au suivi et ajuster le relais prévu.
+- Inaya se rappelle le bus entendu avant l’aube plusieurs matins.
+- Elle rapproche ce souvenir des messages qu’elle ne parvenait plus à rappeler.
+
+### Une combinaison qui peut être différente la prochaine fois
+
+Les repères de suivi indiquent quand demander un avis et s’ajustent à ce que la personne vit.
+
+**Exemples concrets**
+
+- Une matinée fatigante peut passer après un temps de repos et une journée habituelle.
+- Une difficulté qui s’étend au travail et à la maison peut amener Inaya à reprendre le contact convenu.
+
+### Des appuis définis après coup
+
+Un plan discuté pendant une période plus stable peut préciser les actions que chacun est prêt à prendre.
+
+**Exemples concrets**
+
+- Inaya garde les coordonnées de soins dans son sac.
+- Elle partage avec Myriam seulement celles qui lui seront utiles si elle lui demande de l’aide.
+
+## 3 techniques pour préparer une réponse personnelle avec l’équipe
+
+### 1. Deux signes discutés avec le soignant
+
+Choisir des observations qui ont du sens dans sa propre histoire.
+
+**Exercice pratique**
+
+- Reprenez deux changements de l’épisode précédent.
+- Dites à quel moment ils vous ont inquiétée.
+- Demandez quand prendre contact s’ils reviennent ensemble.
+
+Le suivi peut s’appuyer sur des repères personnels révisables.
+
+### 2. Un contact facile à retrouver
+
+Donner au plan une forme utilisable dans la vie courante.
+
+**Exercice pratique**
+
+- Notez le contact convenu.
+- Indiquez où vous le gardez.
+- Vérifiez la marche à suivre si la situation change rapidement.
+
+Le relais peut être plus simple à retrouver au moment d’en avoir besoin.
+
+### 3. Une place pour les engagements ordinaires
+
+Laisser les projets avancer selon leur propre calendrier.
+
+**Exercice pratique**
+
+- Inscrivez le suivi déjà prévu.
+- Choisissez une proposition de loisir pour sa valeur propre.
+- Confirmez la date avec la personne concernée quand elle vous convient.
+
+Le cinéma avec Nino peut rester une envie partagée sans devenir une mesure de l’humeur.
 
 ## Le cinéma reste une invitation
 
 Au retour de la consultation, Inaya écrit au verso du programme le nom du cinéma pour ne pas se tromper de salle. Dans son sac, elle garde séparément les coordonnées convenues pour son suivi. Elle envoie à Myriam celles qu’elle souhaite partager et lui demande si elle a toujours envie de déjeuner dimanche. Nino voudrait déjà savoir s’ils prendront du chocolat. Elle lui répond qu’ils choisiront devant la caisse, si la séance leur convient. Sur le calendrier, le samedi suivant n’a encore qu’une ligne au crayon.
+
+---
+
+**Conclusion**
+
+Inaya garde les repères qui lui permettront de demander de l’aide si plusieurs difficultés reviennent. Le projet d’atelier et la sortie au cinéma avancent selon leurs propres accords. Myriam connaît le rôle qu’Inaya lui a proposé.

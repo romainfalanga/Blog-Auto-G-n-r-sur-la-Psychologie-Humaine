@@ -34,16 +34,79 @@ Pour Noémie, la réussite de la soirée peut tenir à la rencontre avec les vis
 
 La présentation en salle et le travail d’exposition en thérapie ont chacun leur cadre.
 
-## Comment cette difficulté se manifeste
+## Comment un doute encore présent pèse-t-il sur une activité choisie ?
 
-Noémie a choisi de parler des cartes près d’une vitrine parce que ce format lui plaît et qu’il convient à l’organisation. Elle peut discuter en consultation du doute qui lui revient au milieu de cette tâche. Son choix professionnel a aussi un intérêt pour elle en dehors du suivi. Elle a préparé pendant des semaines ce qu’elle voudrait montrer aux visiteurs.
+### L’envie de revoir une trace disponible
 
-## Partager une responsabilité pendant un moment public
+Un registre déjà renseigné peut rester très attirant lorsque le doute revient.
 
-Aïcha peut annoncer les textes et l’ordre de la visite pendant que Noémie accueille les questions sur la première carte. Chacune sait à qui transmettre une difficulté d’organisation. Les pièces ont été vérifiées selon les procédures de l’équipe. Si un détail de l’installation pose un problème concret pendant la soirée, il revient à la personne chargée de cette partie de le traiter. L’appui d’Aïcha tient à la clarté de cette répartition et à la place qu’elle laisse à Noémie.
+**Exemples concrets**
 
-Maud a prévu de passer après la première prise de parole. Elle peut venir comme visiteuse, demander si Noémie a envie de lui montrer une carte et entendre qu’elle doit encore rester près du public. Ce soir, Noémie peut aussi demander à sortir un moment. Aïcha peut la remplacer si elle est disponible. Ces décisions pratiques peuvent se prendre sans rendre publique une information sur le suivi.
+- Noémie pense à revoir le numéro de la première pièce.
+- Une personne peut avoir envie de retourner à son dossier juste avant de recevoir quelqu’un.
+
+### Le fil d’un échange qui se perd
+
+L’inquiétude peut occuper le moment où une consigne est donnée.
+
+**Exemples concrets**
+
+- La première phrase d’Aïcha échappe à Noémie.
+- Un appel en cours peut devenir difficile à suivre alors que la question précédente revient.
+
+### L’intérêt de la tâche qui subsiste
+
+Une envie de rencontrer les autres peut rester présente dans le même moment.
+
+**Exemples concrets**
+
+- Noémie veut comprendre ce que le visiteur a vu dans le dessin.
+- Quelqu’un peut tenir à répondre à une question même en se sentant encore préoccupé.
+
+## 3 techniques pour prendre sa place quand le doute reste là
+
+### 1. Retrouver l’accord d’accueil
+
+Choisir parmi les rôles possibles.
+
+**Exercice pratique**
+
+- Demander l’ordre des prises de parole.
+- Écouter les deux propositions d’Aïcha.
+- Dire où on souhaite se placer.
+
+L’équipe peut accueillir les visiteurs avec des rôles clairs.
+
+### 2. S’appuyer sur un objet de la visite
+
+Retrouver une question qui intéresse Noémie.
+
+**Exercice pratique**
+
+- Garder une reproduction à disposition.
+- Demander ce que le visiteur regarde.
+- Répondre à partir des faits connus.
+
+La conversation peut s’ouvrir même si le doute persiste.
+
+### 3. Garder un exemple pour la consultation
+
+Décrire l’effort pendant une activité menée.
+
+**Exercice pratique**
+
+- Nommer le retour du doute au micro.
+- Dire ce qui a permis de reprendre l’échange.
+- Indiquer ce qui reste difficile.
+
+La clinicienne peut entendre l’effet et l’intérêt de la visite.
 
 ## Une invitation le long du canal
 
 Un garçon demande si le chemin de halage existe encore. Noémie lui montre une photographie et lui dit que le chemin n’a pas le même tracé sur les plans les plus récents. Il veut savoir où est passée la petite porte rouge. Noémie promet de chercher, car elle n’a pas encore trouvé de réponse sûre. Quand Maud arrive, elle commence par lui montrer les rames dessinées par la classe. Puis elle lui demande si elle voudrait retourner un dimanche vers l’escalier du canal.
+
+---
+
+**Conclusion**
+
+Noémie trouve près de la vitrine la place qu’elle veut prendre. L’échange sur le chemin de halage montre ce qu’elle retrouve au milieu d’un doute encore présent. Elle emmène ensuite sa curiosité au bord du canal.

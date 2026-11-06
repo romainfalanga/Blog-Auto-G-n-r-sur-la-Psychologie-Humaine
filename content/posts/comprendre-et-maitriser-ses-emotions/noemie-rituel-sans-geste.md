@@ -34,16 +34,79 @@ Le TOC peut comporter des compulsions mentales. Une personne peut se repasser un
 
 Le même travail de mémoire peut avoir un sens très différent selon le moment.
 
-## Comment cette difficulté se manifeste
+## Comment une compulsion mentale se déroule-t-elle sans geste visible ?
 
-Quand Noémie essaie de retrouver la berge pour dessiner, elle accepte aisément qu’une courbe lui échappe. Dans le souvenir de la fermeture, elle se sent obligée de combler le détail manquant avant de poursuivre autre chose. Ce contraste aide à comprendre sa scène. Le seul fait de penser longtemps à un événement ne permet pas de savoir à quoi sert cette répétition pour quelqu’un d’autre.
+### Une image qui revient d’elle-même
 
-## Rendre le coût visible au rendez-vous
+Le premier souvenir peut s’imposer avant que la personne cherche à le vérifier.
 
-En consultation, Noémie avait surtout parlé de ce qu’un collègue aurait pu voir. Elle avait donné l’exemple de la cote relue au bord de la boîte. La clinicienne lui demande ce qui se passe ensuite quand elle se déplace, parle avec quelqu’un ou attend le sommeil. Noémie raconte l’arrêt manqué et l’annonce qui l’a forcée à reprendre son souvenir de fermeture. La consultation devient un endroit où le rituel peut être décrit sans qu’elle ait à prouver que le bâtiment était bien fermé.
+**Exemples concrets**
 
-La prise en charge du TOC peut aussi tenir compte des rituels mentaux et des tentatives de neutralisation. Leur place dans le suivi se décide avec la professionnelle qui l’accompagne. Noémie peut choisir de signaler un détail dont elle a honte et garder pour une autre fois ce qu’elle ne veut pas encore développer. L’arrêt de tram et le croquis donnent déjà deux éléments concrets pour parler de l’impact sur sa soirée.
+- Noémie revoit son poignet contre l’interrupteur.
+- Sur le chemin du travail, un souvenir de départ peut surgir au milieu d’une autre pensée.
+
+### Un examen qui cherche à rendre le souvenir certain
+
+La personne peut se sentir poussée à revenir sur un détail pour apaiser le doute.
+
+**Exemples concrets**
+
+- Noémie cherche dans le souvenir un mouvement dont elle n’arrive pas à être sûre.
+- Quelqu’un peut reprendre mentalement une tâche déjà transmise alors qu’il voudrait écouter un appel.
+
+### Un trajet occupé sans action apparente
+
+L’absorption peut rester invisible aux personnes autour.
+
+**Exemples concrets**
+
+- Le crayon reste au-dessus du carnet et Noémie dépasse son arrêt.
+- Dans un bus, une personne peut rester assise et manquer l’annonce qu’elle attendait.
+
+## 3 techniques pour parler d’une vérification qui se passe en pensée
+
+### 1. Raconter le début et l’effet
+
+Distinguer le souvenir venu et le travail mental qui suit.
+
+**Exercice pratique**
+
+- Dire quel souvenir a surgi.
+- Nommer ce qu’on cherchait à établir.
+- Indiquer ce qui s’est perdu autour.
+
+La clinicienne peut entendre une difficulté invisible de l’extérieur.
+
+### 2. Reprendre le trajet depuis l’arrêt actuel
+
+Traiter le détour déjà arrivé.
+
+**Exercice pratique**
+
+- Lire le nom de l’arrêt.
+- Choisir où descendre selon le plan du réseau.
+- Prévenir Maud du changement de trajet.
+
+Le retour peut reprendre sans devoir résoudre le souvenir.
+
+### 3. Garder une activité choisie
+
+Retrouver l’intérêt pour les berges.
+
+**Exercice pratique**
+
+- Noter l’endroit où se trouve l’escalier.
+- Reprendre le croquis quand le temps s’y prête.
+- Proposer ce détail à Aïcha.
+
+Le trajet peut donner lieu à une découverte sans effacer l’entrave.
 
 ## Un souvenir à apporter au cabinet
 
-Le lendemain, Maud retrouve le croquis sur la table, sous le sachet de pain. Noémie complète la berge avec un escalier qu’elle a vu en marchant depuis l’autre arrêt. Elle raconte le détour, puis le moment où elle s’est rendu compte qu’elle n’écoutait plus les annonces. Avant son départ, elle glisse le carnet de croquis dans son sac avec une reproduction pour Aïcha. L’escalier pourrait figurer dans leur promenade autour du canal.
+Le lendemain, Maud retrouve le croquis sur la table, sous le sachet de pain. Noémie complète la berge avec un escalier qu’elle a vu en marchant depuis l’autre arrêt. Elle raconte le détour, puis le moment où elle s’est rendu compte qu’elle n’écoutait plus les annonces. Avant son départ, elle glisse le carnet de croquis dans son sac avec une reproduction pour Aïcha. L’escalier pourrait figurer dans leur promenade autour du canal. En consultation, elle raconte le moment où elle a commencé à reprendre le souvenir et celui où elle a retrouvé le nom de son arrêt.
+
+---
+
+**Conclusion**
+
+Le détour laisse à Noémie un escalier à dessiner et une difficulté à raconter. La répétition avait pris assez de place pour lui faire manquer son arrêt. Au travail, elle devra reconnaître une autre forme du besoin de recommencer.

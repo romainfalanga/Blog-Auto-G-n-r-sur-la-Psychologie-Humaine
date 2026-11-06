@@ -36,18 +36,79 @@ Le trouble anxieux généralisé se manifeste par une appréhension persistante 
 
 Le médecin tient compte de la souffrance, du temps et de l’effort que la personne consacre à tenir ses activités.
 
-## Comment cette difficulté se manifeste
+## Comment plusieurs inquiétudes occupent-elles la même décision ?
 
-Une chaise bien réparée et un cahier à jour disent ce qu’Antonin a accompli. Ils renseignent moins sur le sommeil qu’il a perdu ou sur ce qu’il n’a pas pu faire après le travail. Ces éléments s’examinent en consultation, dans le contexte de la vie et de la santé de la personne.
+### Imaginer plusieurs pannes d’avance
 
-Les inquiétudes d’Antonin durent depuis plusieurs mois et reviennent aussi en dehors de l’école. Le médecin tient compte de cette persistance, de la gêne et de l’effort qu’Antonin doit fournir pour rester attentif. Une préoccupation peut avoir un sujet très concret. Sa fréquence, son intensité et la difficulté à la laisser de côté contribuent à éclairer le trouble.
+Une question limitée peut faire surgir plusieurs conséquences avant que la première réponse soit donnée.
 
-## Une décision que l’école peut prendre aujourd’hui
+**Exemples concrets**
 
-Eva attend un ordre de passage à discuter avec les professeurs. Le chantier exige encore des validations et une date de reprise. Antonin peut proposer un premier groupe tout en gardant la date provisoire. Les questions qui dépendent d’autres services peuvent conserver leur place dans le cahier avec le nom de la personne qui doit répondre. Elles n’ont pas toutes à être résolues pour parler de l’ordre des répétitions.
+- Le choix du premier groupe fait penser Antonin au chauffage et à une livraison repoussée.
+- L’éventuelle absence d’un professeur rejoint la liste alors qu’Eva attend un nom.
 
-Pour son suivi, Antonin peut raconter le moment où la liste des travaux a rejoint la dépense du vélo et le rendez-vous avec Benoît. Il peut préciser ce que ces pensées l’ont empêché de décider. La discussion au cabinet aura ainsi une scène précise sur laquelle s’appuyer. Eva, pour sa part, a surtout besoin de connaître le créneau envisagé et la réserve à communiquer au groupe.
+### Les sujets se rencontrent
+
+Dans l’anxiété généralisée, les préoccupations peuvent concerner plusieurs aspects de la vie et se mêler dans une même matinée.
+
+**Exemples concrets**
+
+- La roue du vélo l’amène à calculer une dépense possible.
+- Le message de Benoît lui rappelle aussi l’heure promise au professeur de trombone.
+
+### Perdre la question de départ
+
+Examiner tant de possibilités peut faire perdre de vue la décision qui attend.
+
+**Exemples concrets**
+
+- Antonin regarde la feuille sans savoir s’il choisit un groupe ou organise l’année.
+- Une personne qui ouvre son agenda pour un appel peut se retrouver à vérifier trois semaines de disponibilités.
+
+## 3 techniques pour retrouver la décision du moment
+
+### 1. Écrire la question d’Eva
+
+Garder la demande à portée de main.
+
+**Exercice pratique**
+
+- Reformulez la question en une ligne.
+- Identifiez une réponse disponible aujourd’hui.
+- Dites quelle partie dépend encore d’un événement futur.
+
+Une réponse partielle peut suffire à faire avancer le planning.
+
+### 2. Trier les incertitudes sur la feuille
+
+Séparer les sujets qui viennent de se rejoindre.
+
+**Exercice pratique**
+
+- Regroupez-les par sujet.
+- Choisissez celui qui demande une action aujourd’hui.
+- Gardez les autres pour le moment où ils pourront être traités.
+
+La liste peut redevenir un outil de travail.
+
+### 3. Répondre à une invitation concrète
+
+Garder une activité qui a du sens malgré un trajet incertain.
+
+**Exercice pratique**
+
+- Dites si la rencontre vous intéresse.
+- Demandez l’heure qui convient.
+- Cherchez ensuite le trajet avec les informations utiles.
+
+Vous pouvez préserver le lien avant de régler tous les détails.
 
 ## Le nom du premier groupe
 
 Antonin propose l’ensemble de clarinettes, qui s’entasse depuis des mois dans une salle où le dernier rang touche le mur. Eva note le nom au crayon. Elle garde une place pour la date quand les travaux auront avancé. La chaise, elle, est prête à reprendre sa place dans le couloir. Avant de quitter le bureau, Antonin écrit à Benoît qu’il aimerait jouer jeudi et qu’il regardera comment venir. Il n’a pas encore répondu au bruit de la roue.
+
+---
+
+**Conclusion**
+
+Eva peut noter le groupe avant de connaître la date. Benoît peut savoir qu’Antonin veut venir avant que la roue soit réparée. Ces deux réponses suffisent pour l’instant, chacune avec ses propres inconnues.

@@ -36,16 +36,79 @@ La reconnaissance peut avoir une valeur ordinaire. Renaud a réfléchi à la dis
 
 Le récit donne à voir deux effets du même moment.
 
-## Comment cette difficulté se manifeste
+## Comment le besoin d’admiration change-t-il la façon de recevoir un compliment ?
 
-Pour Renaud, le compliment lui apporte du soulagement et confirme la place qu’il cherche à tenir. Pour Yara, la réponse efface la part de son travail dont dépend le projet. La question de la reconnaissance a donc une conséquence vérifiable. Nora repart avec une attribution inexacte et Yara doit l’arrêter avant que cette attribution se retrouve dans le dossier.
+### Un éloge attendu
 
-## Rétablir les faits au bon endroit
+Un compliment peut prendre un poids disproportionné dans l’échange.
 
-Renaud peut reconnaître son plaisir d’avoir été écouté et corriger précisément ce qu’il a dit. Il se souvient que Yara a réalisé les observations et dessiné les formes de repérage. Lui a travaillé sur la composition des panneaux et la cohérence des textes. S’il apporte cette précision à Nora, elle pourra s’appuyer sur un récit fidèle pour rédiger sa note.
+**Exemples concrets**
 
-Les difficultés qui ont conduit à son diagnostic se sont manifestées pendant des années, dans plus d’un domaine de sa vie. Cette scène éclaire une réaction particulière et son coût pour une collègue. Le soin peut l’aider à mieux repérer ce qui se passe au moment où la reconnaissance devient urgente. L’attribution du travail, elle, dépend des mots et des actes que les personnes concernées peuvent constater.
+- Renaud éprouve une détente franche quand Nora s’adresse à lui.
+- Une personne peut attendre la réaction du public avant de regarder le résultat d’un travail.
+
+### Un crédit accueilli trop vite
+
+L’attention à sa place peut faire perdre le fil des contributions.
+
+**Exemples concrets**
+
+- Renaud emploie « je » pour répondre à propos des formes de Yara.
+- En réunion, une personne peut laisser entendre qu’elle a conçu une partie dont elle a assuré la réalisation.
+
+### Une correction difficile à entendre
+
+La perspective de perdre l’éloge peut susciter une défense rapide.
+
+**Exemples concrets**
+
+- Renaud s’apprête à dire que Nora les avait entendus tous les deux.
+- Un collègue peut minimiser une erreur d’attribution en la présentant comme un détail.
+
+## 3 techniques pour rendre un compliment à la bonne personne
+
+### 1. Nommer les apports devant l’interlocutrice
+
+Rétablir ce que Nora a compris.
+
+**Exercice pratique**
+
+- Reprendre le compliment précis.
+- Indiquer qui a conçu les formes.
+- Nommer son propre apport aux panneaux.
+
+Chacun peut être reconnu pour sa contribution.
+
+### 2. Relire le document à deux
+
+Garder une trace fiable pour la présentation.
+
+**Exercice pratique**
+
+- Retrouver le message de synthèse.
+- Proposer la formulation à Yara.
+- Fixer un moment de relecture.
+
+L’attribution peut rester claire jusqu’à la version publique.
+
+### 3. Examiner la réaction en séance
+
+Comprendre ce que l’éloge a déclenché.
+
+**Exercice pratique**
+
+- Se rappeler l’instant du compliment.
+- Dire quelle réponse est venue aussitôt.
+- Décrire ce que Yara a dû demander.
+
+La thérapeute peut explorer le lien entre admiration et relation.
 
 ## Deux lignes avant de partir
 
 Nora revient en soufflant dans ses mains. Renaud reprend le plan. « La suite de formes, c’est Yara qui l’a conçue à partir de ses observations. J’ai travaillé sur les panneaux avec elle. » Yara déplie de nouveau son écran et propose de détailler son essai mardi. En rentrant, Renaud trouve le premier message de synthèse dans sa boîte. Il écrit les deux contributions dans sa réponse et met Yara en copie. Elle lui demande de relire ensemble la version publique quand elle arrivera. Il inscrit ce point dans leur agenda.
+
+---
+
+**Conclusion**
+
+Renaud corrige devant Nora ce que son « je » avait laissé entendre. Le soulagement du compliment a pourtant bien eu lieu. L’épisode suivant montre une autre façon dont le sentiment d’importance peut orienter une demande.

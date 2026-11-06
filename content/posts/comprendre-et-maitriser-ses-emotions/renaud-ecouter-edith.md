@@ -34,16 +34,79 @@ En bas, sa sœur lui explique qu’elle doit parler à une amie qui cherche une 
 
 Tenir compte d’autrui suppose de pouvoir écouter ce que l’autre éprouve et de laisser cette information modifier une décision. Les difficultés d’empathie décrites dans le trouble de la personnalité narcissique peuvent concerner cette place accordée aux besoins d’autrui. Elles peuvent devenir particulièrement visibles lorsque la personne se concentre sur sa valeur ou le regard porté sur elle. Leur expression varie selon les personnes et les situations.
 
-## Comment cette difficulté se manifeste
+## Comment la préoccupation pour sa propre place fait-elle manquer le besoin d’autrui ?
 
-Renaud voit qu’Édith porte un objet encombrant. Il lui laisse la place de le poser. Il lui est plus difficile d’entendre la demande sur l’heure car il veut encore être rassuré à propos de son travail. Ces deux faits peuvent coexister. Édith donne un renseignement dont il a besoin pour s’organiser et qui lui importe aussi pour sa propre vie.
+### Parler avant d’entendre
 
-## Faire compter ce qu’on a entendu
+Vouloir être compris peut prendre la place d’une demande déjà formulée.
 
-Demander une heure précise permet à Renaud de choisir ce qu’il pourra porter seul. Il comprend qu’Édith a promis son temps à quelqu’un et qu’elle souhaite tenir cet engagement. La réponse devient plus complète dès lors que cette raison peut peser sur le plan de l’après-midi. Il peut garder son envie de raconter la réunion pour un moment où ils auront tous les deux le loisir de parler.
+**Exemples concrets**
 
-La discussion reste possible si Édith le souhaite. Renaud a fait un effort à un moment précis, dont ils peuvent constater le résultat. Pour savoir si sa manière d’écouter évolue dans la durée, sa thérapeute et lui peuvent revenir sur d’autres situations, notamment celles où reconnaître les besoins d’autrui lui demande davantage.
+- Dans l’escalier, Renaud poursuit son récit quand Édith demande de l’aide.
+- Une personne peut finir l’histoire d’un conflit sans répondre à l’ami qui doit partir.
+
+### Prêter moins de poids à la contrainte de l’autre
+
+Une demande peut paraître secondaire lorsque son motif reste mal entendu.
+
+**Exemples concrets**
+
+- Renaud songe que l’appel d’Édith peut attendre.
+- Un collègue peut croire qu’un autre rendez-vous est facile à déplacer sans demander pourquoi il compte.
+
+### Découvrir que l’autre avait une raison propre
+
+Une question précise peut faire apparaître ce que le premier échange avait écarté.
+
+**Exemples concrets**
+
+- Édith a promis un appel à son amie qui cherche une chambre.
+- Une personne peut préciser qu’elle quitte une réunion pour tenir un autre engagement.
+
+## 3 techniques pour faire une place à la demande de l’autre
+
+### 1. Répondre au besoin exprimé
+
+Garder la demande d’Édith au centre un instant.
+
+**Exercice pratique**
+
+- Lui demander de redire l’heure.
+- Vérifier quel trajet reste à faire.
+- Dire si on peut le prendre seul.
+
+Édith peut partir avec un accord clair.
+
+### 2. Demander avant de raconter
+
+Chercher un moment où l’autre a du temps.
+
+**Exercice pratique**
+
+- Nommer le sujet qu’on voudrait aborder.
+- Demander si le moment convient.
+- Proposer un autre créneau si besoin.
+
+La conversation peut tenir compte des disponibilités de chacun.
+
+### 3. Reprendre un moment manqué
+
+Examiner ce qui a empêché d’écouter.
+
+**Exercice pratique**
+
+- Retenir la première demande d’Édith.
+- Décrire ce qu’on voulait obtenir alors.
+- En parler au suivi si cela revient.
+
+La consultation peut s’appuyer sur un échange concret.
 
 ## Le dernier carton près de la porte
 
 À moins dix, Édith attrape son écharpe dans l’entrée. Renaud a posé le dernier carton près de la porte de leur tante pour le reprendre plus tard. Il descend avec elle pour tenir la porte du hall pendant qu’elle rejoint sa voiture. « Tu peux m’envoyer un message si tu veux un café en ville cette semaine ? » lui demande-t-elle. Il lui propose mercredi midi, puis pense à la réunion prévue et rouvre son agenda devant elle.
+
+---
+
+**Conclusion**
+
+Renaud entend l’heure de l’appel et prend en charge le dernier carton. Édith peut repartir avec son engagement intact. Au studio, une réussite de Yara mettra encore son attention à l’épreuve.

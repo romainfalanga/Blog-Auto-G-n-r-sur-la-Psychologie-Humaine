@@ -32,16 +32,79 @@ Jules replie la feuille pour la glisser dans son carnet. Le pouce se retrouve ex
 
 Les difficultés liées au trouble panique peuvent varier d’une situation à l’autre et d’une journée à l’autre. Jules avait approché la librairie avec sa psychiatre. Aujourd’hui, il est venu dessiner au milieu de passages qu’il n’avait pas anticipés. Il a pu tracer les premières lignes et a choisi de quitter la table. Il peut parler de ce qu’il a vécu et de sa déception à la consultation, avec la même liberté que lorsqu’il raconte un moment qui s’est bien passé.
 
-## Comment cette difficulté se manifeste
+## Comment une sortie écourtée affecte-t-elle l’activité qu’on voulait reprendre ?
 
-Un essai convenu dans le suivi et une sortie de loisir ont chacun leur place. Le samedi lui permet de dire ce qu’il cherche dans cette activité et ce qui peut l’empêcher d’y rester. La psychiatre peut revoir avec lui ce qu’il veut poursuivre. Jules peut lui parler d’un changement dans la nature de ses symptômes s’il survient. Les signes aigus inhabituels relèvent d’une évaluation médicale adaptée.
+### Le lieu a changé depuis la dernière fois
 
-## Quitter la table en gardant le lien
+Un contexte plus chargé peut modifier l’effort que demande une activité pourtant connue.
 
-Samuel peut demander ce que Jules souhaite faire de la feuille. Il peut lui donner l’information sur la prochaine séance ou attendre qu’il la demande. Jules peut rentrer avec le dessin inachevé et choisir s’il veut l’envoyer. Il peut aussi demander à Samuel de lui raconter le sujet suivant plutôt que de lui expliquer pourquoi il est parti.
+**Exemples concrets**
 
-S’il veut revenir sur ce samedi en consultation, il peut dire ce qu’il a vu depuis sa chaise, à quel moment son attention a changé et ce dont il aurait eu envie sur place. Ce récit peut aider la psychiatre à comprendre l’effet des inquiétudes sur une activité qui lui plaît. L’endroit où il choisira de dessiner la prochaine fois pourra rester une question ouverte.
+- Le marché est plus bruyant et la table est tournée autrement.
+- Les passants derrière la chaise retiennent l’attention de Jules.
+
+### La peur prend la place du geste
+
+La préoccupation de revivre une attaque peut gêner la concentration sur le sujet choisi.
+
+**Exemples concrets**
+
+- Jules perd de vue le pouce de la commerçante.
+- Une personne peut perdre le fil d’un dessin chaque fois que quelqu’un se place derrière sa chaise.
+
+### La déception porte sur ce qui manque
+
+Écourter une activité peut laisser une perte précise dont la personne souhaite parler.
+
+**Exemples concrets**
+
+- Jules plie une feuille où le geste n’est pas terminé.
+- Il hésite à montrer le croquis à Solange alors que le pli fait partie de ce qui s’est passé.
+
+## 3 techniques pour faire place à une sortie différente de celle prévue
+
+### 1. Comparer les deux situations
+
+Repérer ce qui a changé dans le lieu et l’activité.
+
+**Exercice pratique**
+
+- Notez un détail du jour de l’essai.
+- Notez ce qui était différent à la table.
+- Décrivez comment cela a affecté votre dessin.
+
+Ces faits peuvent nourrir une discussion au prochain rendez-vous.
+
+### 2. Choisir l’aide à la sortie
+
+Dire ce qui convient au moment de quitter la table.
+
+**Exercice pratique**
+
+- Dites que vous souhaitez partir.
+- Choisissez si quelqu’un vous accompagne.
+- Laissez à l’organisateur le temps de reprendre la chaise.
+
+Le départ peut se faire avec un accord simple.
+
+### 3. Partager la part qui reste
+
+Raconter l’expérience à travers un détail choisi.
+
+**Exercice pratique**
+
+- Gardez la feuille comme elle est.
+- Dites ce qui vous déçoit.
+- Choisissez à qui montrer un détail encore intéressant.
+
+L’échange peut faire place à la déception et au dessin.
 
 ## Le pouce au milieu du pli
 
 Sur le chemin du retour, Jules montre le pli à Solange en photo. Il lui dit qu’il est déçu d’avoir quitté la table. Elle lui répond que la main ressemble à celle de son voisin quand il ferme sa boîte de dominos. Jules lui demande s’il peut venir la dessiner un autre jour. Avant de décider du trajet, il voit une annonce indiquant que l’arrêt près de chez elle sera déplacé pendant les travaux.
+
+---
+
+**Conclusion**
+
+Jules rentre avec une feuille incomplète. Il peut raconter la gêne et reconnaître le geste qu’il a aperçu. Solange répond au dessin qu’il souhaite lui montrer, et Samuel reste libre de reprendre la chaise.

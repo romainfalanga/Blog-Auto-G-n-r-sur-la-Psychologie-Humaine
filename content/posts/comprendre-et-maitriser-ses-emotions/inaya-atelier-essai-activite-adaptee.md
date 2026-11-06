@@ -32,18 +32,79 @@ Au bout de vingt minutes, Inaya se rend compte qu’elle n’écoute plus le dé
 
 Inaya a retrouvé un peu de curiosité au contact de la tige courbée, tout en se fatiguant vite. Une activité peut avoir de l’intérêt et demander un effort réel le même jour. Le fait d’y prendre plaisir un instant n’indique pas que la dépression a disparu. Inversement, vouloir raccourcir un essai n’efface pas le savoir-faire qu’elle vient de montrer.
 
-## Comment cette difficulté se manifeste
+## Comment du plaisir peut-il revenir alors que l’énergie reste fragile ?
 
-Inaya peut raconter les deux aspects au suivi.
+### Un détail qui ranime la curiosité
 
-Le NICE décrit l’activation comportementale comme une intervention structurée qui examine notamment les liens entre activités et humeur et aide à planifier des changements avec un accompagnement adapté. L’atelier d’Inaya est une activité de son choix et un projet de travail. Il n’a pas à tenir lieu de soin ni à produire un effet donné pour avoir sa place dans le récit.
+Un moment d’intérêt peut apparaître dans une activité familière alors que d’autres difficultés persistent.
 
-## Garder une façon de raccourcir
+**Exemples concrets**
 
-Pour décider si elle veut ouvrir les inscriptions, Inaya peut regarder ce qui a tenu : la démonstration avec peu de tiges, le passage de relais et le temps qu’a pris le rangement. Elle peut aussi compter le trajet et ce qu’elle avait besoin de faire après. Si le prix à payer lui paraît trop lourd, elle peut demander à Myriam de prendre une autre partie ou remettre la date en discussion.
+- Aurore croit l’anémone cassée et Inaya s’approche pour montrer la place de la courbe.
+- Inaya a envie de discuter du côté du bouquet où la branche laisserait passer une autre fleur.
 
-Une activité choisie peut être modifiée sans être abandonnée. Ici, les deux sœurs peuvent aussi demander à Aurore ce qu’elle a retenu. Son retour porte sur ce qu’elle a vu et sur les consignes qu’elle a comprises ; il ne mesure pas l’état de santé d’Inaya.
+### Une fatigue qui arrive plus tôt que prévu
+
+L’envie de continuer et la capacité à suivre l’échange peuvent évoluer différemment.
+
+**Exemples concrets**
+
+- Après vingt minutes, le début des questions échappe à Inaya.
+- Elle regarde Myriam pour savoir si elle a entendu la dernière question.
+
+### Un geste transmis malgré une durée courte
+
+L’utilité de l’essai peut tenir à ce que la personne transmet pendant un moment limité.
+
+**Exemples concrets**
+
+- Aurore repart avec l’anémone qu’elle a choisie.
+- Myriam reprend l’attache des tiges quand Inaya pose ses branches.
+
+## 3 techniques pour profiter d’un intérêt ponctuel avec un relais prévu
+
+### 1. Un plaisir décrit simplement
+
+Reconnaître le moment qui a compté.
+
+**Exercice pratique**
+
+- Nommez le détail qui vous a intéressé.
+- Dites quand il est apparu.
+- Ajoutez quand l’effort a commencé à monter.
+
+Ces observations peuvent coexister dans le récit de l’essai.
+
+### 2. Un passage de relais convenu
+
+Prévoir une réponse utilisable si la fatigue arrive en cours de tâche.
+
+**Exercice pratique**
+
+- Choisissez qui peut reprendre une partie.
+- Repérez un signe simple pour passer la main.
+- Ajustez le moment si la fatigue arrive plus tôt.
+
+La participante peut continuer pendant qu’Inaya cesse d’expliquer.
+
+### 3. Une durée fondée sur ce qui s’est passé
+
+Tirer une décision pratique d’un essai limité.
+
+**Exercice pratique**
+
+- Relisez le moment où le relais a servi.
+- Retenez une durée de démonstration raisonnable.
+- Laissez du temps pour que chacun compose ensuite.
+
+L’essai suivant peut garder l’intérêt pour les fleurs et une charge accessible.
 
 ## Un format qui laisse un relais
 
-Aurore tient à emporter l’anémone. Elle ne veut pas du modèle complet et le dit avec une franchise qui fait rire Myriam. Quand la salle se vide, Inaya reprend le brouillon : vingt minutes d’explication lui suffisent, suivies d’un temps où chacun compose à son rythme. Elles demandent à Sofia de réserver un samedi, en convenant d’une solution si la date doit changer. Inaya rentre sans s’arrêter à la boutique. Elle a gardé l’après-midi pour elle. En posant son sac à la maison, elle retrouve un pétale au revers de sa manche.
+Aurore tient à emporter l’anémone. Elle ne veut pas du modèle complet et le dit avec une franchise qui fait rire Myriam. Quand la salle se vide, Inaya note que vingt minutes d’explication lui suffisent. Après, chacun pourra composer à son rythme. Elles demandent à Sofia de réserver un samedi, en convenant d’une solution si la date doit changer. Inaya rentre sans s’arrêter à la boutique. Elle a gardé l’après-midi pour elle. En posant son sac à la maison, elle retrouve un pétale au revers de sa manche.
+
+---
+
+**Conclusion**
+
+Inaya retrouve du plaisir dans le geste d’Aurore et a besoin du relais plus tôt. Leur format change à partir de ces deux observations. Myriam peut reprendre le geste convenu sans mesurer l’état de sa sœur.

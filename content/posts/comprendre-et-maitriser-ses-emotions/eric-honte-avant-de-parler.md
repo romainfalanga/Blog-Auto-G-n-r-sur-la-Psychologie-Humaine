@@ -36,16 +36,79 @@ La honte peut pousser une personne à se cacher quand elle anticipe d’être ju
 
 La stigmatisation peut compliquer l’accès aux soins et la possibilité de parler des changements. La HAS insiste sur les échanges sans jugement autour de l’alcool.
 
-## La question banale qu’il entend comme un jugement
+## Comment la honte peut-elle faire reculer une conversation sur l’alcool ?
 
-Gérald lui demande si la camionnette a dû attendre. Éric imagine qu’on le verra désormais comme « celui qui boit ». Il envisage de ranger le micro et de reporter l’écoute alors même qu’il est venu pour la proposer. Quand il répond au sujet du rendez-vous manqué, Gérald lui pose une question sur l’accord de diffusion. Éric choisit ensuite un autre endroit pour parler de son suivi à Mélissa.
+### La réaction attendue déborde les faits
 
-## Choisir un interlocuteur et un périmètre
+On peut craindre que toute l’activité soit désormais lue à travers la consommation.
 
-Éric peut répondre à Gérald au sujet du rendez-vous et de l’accord de diffusion. Il peut parler plus tard à Mélissa, dans un endroit où il se sent à l’aise. Sa collègue peut entendre la difficulté et rappeler qu’elle a besoin d’être prévenue si un horaire change. La confiance se discute à partir des actes qui les concernent et de la place que chacun veut tenir.
+**Exemples concrets**
 
-Parler à une personne choisie ne met pas la honte à distance pour de bon. Éric pourra encore hésiter à raconter une reprise ou à demander du temps pour un rendez-vous. L’équipe peut l’aider à distinguer le jugement qu’il anticipe, ce qui s’est passé et ce qu’il voudrait demander. Il a déjà dans le récit une expérience où sa demande de confidentialité a pu être entendue. Il peut s’en servir pour chercher les mots qui lui conviendront avec d’autres personnes.
+- La question de Gérald sur le rendez-vous fait craindre à Éric de n’être vu que comme « celui qui boit ».
+- Une personne redoute que chaque retard soit désormais interprété de la même façon.
+
+### L’envie d’écourter arrive vite
+
+Quitter la scène peut sembler plus supportable que d’attendre la réponse des autres.
+
+**Exemples concrets**
+
+- Éric pense à ranger le câble ou à invoquer un problème de micro.
+- Une personne envisage d’annuler une réunion qui compte plutôt que d’y répondre à une question.
+
+### Le silence bloque une demande précise
+
+Garder tout pour soi peut empêcher de chercher l’appui souhaité.
+
+**Exemples concrets**
+
+- Éric hésite avant de demander à Mélissa de l’aider pour le passage au casque.
+- Quelqu’un ne dit pas à un proche qu’il apprécierait un appel avant une sortie.
+
+## 3 techniques pour aborder une difficulté dans un cadre choisi
+
+### 1. Distinguer le fait du jugement redouté
+
+Trouver une phrase qui répond à la question réelle.
+
+**Exercice pratique**
+
+- Notez l’engagement qui a changé.
+- Formulez ce que vous pouvez dire sur ce fait.
+- Laissez à l’autre le temps de répondre.
+
+Une conversation peut avancer sans discuter de toute votre santé.
+
+### 2. Choisir à qui en parler
+
+Garder la maîtrise de ce que vous souhaitez partager.
+
+**Exercice pratique**
+
+- Choisissez une personne et un endroit adaptés.
+- Dites la partie que vous voulez raconter.
+- Précisez ce qui doit rester entre vous.
+
+L’échange peut se faire avec des limites claires.
+
+### 3. Faire une demande concrète
+
+Préciser ce que le proche peut accepter ou refuser.
+
+**Exercice pratique**
+
+- Décrivez le besoin du projet.
+- Proposez un rôle limité dans le temps.
+- Demandez ce que l’autre peut réellement faire.
+
+Son appui peut être utile sans devenir un rôle de soin.
 
 ## Le temps annoncé pour chacun
 
 Mélissa lui dit qu’elle peut garder leur conversation entre eux. Pour le repas, elle peut reprendre le service si elle sait à l’avance quand Éric compte partir vers le coin d’écoute. Elle ne veut pas répondre aux questions sur ses rendez-vous à sa place. Éric la remercie de lui dire ce qu’elle peut faire. De retour dans la salle, Gérald apporte un plan. Ils trouvent un coin où les gens pourront mettre le casque sans gêner le passage. Éric inscrit son prénom sur la feuille des deux rôles et propose qu’ils essaient le micro et le casque une semaine avant.
+
+---
+
+**Conclusion**
+
+Éric dit à Gérald ce qui s’est passé et réserve une conversation plus personnelle à Mélissa. Elle lui indique le relais qu’elle peut tenir. À la fanfare, un refus à formuler soulèvera une autre crainte.

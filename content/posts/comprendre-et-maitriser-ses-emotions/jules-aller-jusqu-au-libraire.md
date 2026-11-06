@@ -34,16 +34,79 @@ Une prise en charge structurée du trouble panique peut comprendre des essais d�
 
 Le fait d’arriver jusqu’à une caisse ou de revenir en arrière renseigne sur ce moment.
 
-## Comment cette difficulté se manifeste
+## Comment l’anxiété d’anticipation change-t-elle pendant un essai accompagné ?
 
-La réaction de Jules pendant l’essai ne confirme aucun diagnostic et ne permet pas de prévoir le prochain trajet. La psychiatre peut revoir avec lui le cadre des séances et répondre aux questions sur les symptômes. Un signe nouveau ou aigu garde sa place dans l’évaluation médicale, y compris au cours d’un essai.
+### La scène imaginée avant le départ
 
-## Dire ce que l’on voudrait reprendre
+Avant une situation redoutée, la personne peut s’attendre au retour de la peur dans un cadre choisi avec le professionnel.
 
-Jules peut raconter qu’il a oublié le prix tout en se rappelant la couverture. Il peut aussi dire qu’il ne veut pas reprendre l’essai de la même façon la prochaine fois. La psychiatre peut l’aider à distinguer ce qu’il souhaite poursuivre de ce qui mérite un ajustement. L’itinéraire et le rythme sont discutés avec lui. La table de dessin reste une activité dont il peut avoir envie même s’il remet à plus tard une partie du travail convenu.
+**Exemples concrets**
 
-Samuel peut lui donner des nouvelles du groupe sans lui demander des détails sur sa venue. S’il propose un prochain samedi, Jules peut réfléchir à ce qu’il veut de cette sortie et en reparler dans son suivi. Il garde aussi le droit de vouloir simplement acheter un livre un autre jour.
+- Jules regarde les gens disparaître sous la verrière.
+- Il pense à ce qu’il pourra dire à la psychiatre s’il préfère s’arrêter.
+
+### Des détails changent la situation réelle
+
+Ce qu’on entend ou voit sur place peut prendre une importance imprévue.
+
+**Exemples concrets**
+
+- Le bruit du chariot se détache à mesure qu’il avance.
+- Près de la caisse, il lit le titre du livre et perd le fil du prix.
+
+### Le choix se précise en cours de route
+
+La personne peut accepter de commencer et choisir ensuite un point d’arrêt.
+
+**Exemples concrets**
+
+- Jules dit d’abord qu’il souhaite commencer.
+- Arrivé à la caisse, il demande à s’arrêter et reprend ce qui s’est passé avec la psychiatre.
+
+## 3 techniques pour garder sa place dans un essai préparé en soin
+
+### 1. Reprendre l’accord avant l’essai
+
+Pouvoir redire ce qui convient au moment où l’essai commence.
+
+**Exercice pratique**
+
+- Revoyez avec le professionnel le but retenu.
+- Rappelez le signal de pause convenu.
+- Dites si vous voulez commencer maintenant.
+
+L’accord peut tenir compte du moment et de ce que vous ressentez.
+
+### 2. Décrire ce qui change sur place
+
+Aider le professionnel à comprendre l’écart entre le prévu et le vécu.
+
+**Exercice pratique**
+
+- Repérez un détail qui prend de la place.
+- Dites ce qui a changé dans votre attention ou votre peur.
+- Demandez une pause ou l’arrêt si vous le souhaitez.
+
+Le professionnel peut adapter l’essai à ce que vous lui signalez.
+
+### 3. Garder une trace pour le suivi
+
+Retrouver les faits qui ont compté dans l’essai.
+
+**Exercice pratique**
+
+- Situez le moment où la peur a changé.
+- Décrivez votre décision à ce moment.
+- Convenez avec le professionnel de ce que vous reprendrez.
+
+L’échange peut porter sur une expérience précise.
 
 ## La couverture qu’il retient
 
 Jules décrit le bruit du chariot et le moment où il a demandé de s’arrêter. La psychiatre convient avec lui de ce qu’ils reverront au rendez-vous suivant. Avant de rentrer, il écrit à Samuel le nom du livre qu’il voudrait retrouver. Samuel lui répond avec le prix et le prochain sujet de dessin. Ils vont regarder les mains derrière les comptoirs. Jules prend une feuille blanche et la glisse dans son carnet pour samedi.
+
+---
+
+**Conclusion**
+
+Jules a pu dire où son expérience s’écartait de ce qu’il avait imaginé. La psychiatre reprend avec lui le choix de s’arrêter. Il demande à Samuel les nouvelles du livre parce qu’il l’intéresse encore.

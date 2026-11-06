@@ -32,16 +32,79 @@ Dans le couloir, Simon attend avec son manteau sur les genoux. Ils doivent aller
 
 Un diagnostic peut être posé à l’âge adulte alors que les manifestations remontent à la période du développement. C’est ce que l’évaluation cherche à éclaircir en reprenant le parcours dans le temps. La psychiatre s’intéresse à la manière dont Mathis apprenait, s’organisait et vivait avec les autres. Elle lui demande ce qu’il arrivait à faire seul, ce que les adultes préparaient avec lui et ce qui changeait en dehors de la classe.
 
-## Comment cette difficulté se manifeste
+## Comment une difficulté d’enfance se retrouve-t-elle dans une évaluation à l’âge adulte ?
 
-Un dessin de pignon, une bonne moyenne ou un oubli de matériel renseignent peu isolément. En rapprochant des exemples issus de situations différentes, la spécialiste peut demander à quelle fréquence les difficultés revenaient et quelles conséquences elles avaient. Elle examine aussi des explications qui peuvent se recouper ou coexister. Mathis se rappelle une période de sommeil très irrégulier pendant ses études. L’entretien permet de distinguer ce qu’il rapporte de cette période de ce qu’il se rappelle avant et après. Certaines dates resteront approximatives.
+### Des traces dans une tâche scolaire
 
-## Choisir qui peut apporter quel souvenir
+Un cahier peut rouvrir un souvenir précis. La manière dont une tâche se passait donne plus de contexte qu’une note prise seule.
 
-Le NICE recommande une évaluation qui combine l’entretien clinique, l’histoire du développement et des informations sur le quotidien. Une échelle ou un témoignage peut éclairer une partie du tableau. La spécialiste doit les interpréter avec les autres éléments recueillis. Si des documents scolaires ont disparu ou si un proche n’est pas disponible, Mathis peut le dire et discuter avec elle de ce qui reste accessible.
+**Exemples concrets**
 
-Il propose que sa mère lui écrive quelques lignes sur les soirs de devoirs. Elle peut s’en tenir à ce qu’elle a elle-même observé et signaler une incertitude. Mathis veut les lire avant de décider s’il les apporte. Simon connaît le quotidien actuel et pourrait l’aider à décrire un accord qu’ils ont essayé à la maison. La psychiatre demande à Mathis s’il souhaite que Simon participe. Pour cet entretien, Mathis préfère venir seul avec ses notes. Il pourra rouvrir la question si un autre échange s’y prête.
+- Mathis avait cru terminer la fiche jusqu’à ce qu’un camarade la retourne.
+- Sa mère retrouve une période où elle a dû remplacer le matériel de géométrie en cours d’année.
+
+### Des capacités qui varient selon le cadre
+
+S’organiser pour une activité choisie et suivre plusieurs consignes en classe ne mobilisent pas toujours les mêmes appuis.
+
+**Exemples concrets**
+
+- Mathis attendait le mercredi où il remontait le vélo du voisin.
+- Pour ces réparations, le voisin lui donnait une consigne à la fois.
+
+### Des souvenirs incomplets ou incertains
+
+La date, le lieu et le souvenir d’un proche ne coïncident pas toujours. Le professionnel tient compte de la qualité des éléments disponibles.
+
+**Exemples concrets**
+
+- Mathis se rappelle la page retournée et hésite sur l’année.
+- Sa mère pense au collège. La date du cahier apporte un repère sans tout résoudre.
+
+## 3 techniques pour retrouver des éléments utiles au bilan
+
+### 1. Choisir une trace parlante
+
+Apporter un détail qui aide à raconter le déroulement d’une tâche.
+
+**Exercice pratique**
+
+- Choisissez une page, un souvenir ou un document que vous avez envie de partager.
+- Décrivez la consigne et ce que vous pensiez avoir fini.
+- Dites ce dont vous êtes certain et ce qui reste flou.
+
+Le professionnel peut replacer l’exemple dans son contexte.
+
+### 2. Comparer deux façons d’apprendre
+
+Décrire aussi les conditions dans lesquelles l’attention tenait.
+
+**Exercice pratique**
+
+- Pensez à une activité que vous suiviez longtemps.
+- Rappelez-vous qui préparait le matériel ou donnait les consignes.
+- Apportez la comparaison avec une activité qui vous demandait davantage.
+
+Les appuis et les difficultés peuvent apparaître côte à côte.
+
+### 3. Choisir la place d’un témoin
+
+Recueillir un souvenir sans lui donner la charge du diagnostic.
+
+**Exercice pratique**
+
+- Demandez à un proche s’il se rappelle une scène ordinaire de cette période.
+- Convenez de ce que vous souhaitez rapporter au bilan.
+- Décidez si vous préférez faire l’entretien seul ou en discuter avec le professionnel.
+
+Le témoignage peut rester une information parmi les autres.
 
 ## Le cahier près du sac
 
 Au cabinet, la page du cahier se coince dans la couverture quand Mathis essaie de la retourner. La psychiatre attend qu’il la déplie. Il retrouve le dessin du pignon avant l’exercice et le lui montre quand même. Ils discutent du temps qu’il passait à réparer avec le voisin et des consignes que celui-ci lui donnait une par une. En fin de séance, la spécialiste lui indique qu’ils reprendront ensemble ce qu’elle a pu établir lors d’un rendez-vous de restitution. Mathis note la date en rentrant. Au dos du papier, il écrit la question qu’il veut poser en premier.
+
+---
+
+**Conclusion**
+
+Le cahier montre un exercice mal suivi et un dessin de vélo préparé avec soin. Le bilan peut donner une place aux deux scènes, à leurs dates incertaines et à l’aide du voisin. La psychiatre reprendra ensuite les éléments qu’elle a pu établir.

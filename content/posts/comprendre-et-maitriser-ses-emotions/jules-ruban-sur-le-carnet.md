@@ -32,18 +32,79 @@ Un médecin a commencé à évaluer ces épisodes. Jules a un nouveau rendez-vou
 
 Une attaque de panique est un épisode de peur ou d’appréhension intense qui apparaît rapidement et peut s’accompagner de sensations physiques marquées. Plusieurs causes et situations peuvent donner lieu à des signes qui se ressemblent. Une attaque seule ne permet pas de conclure à un trouble panique. Le médecin qui suit Jules lui demande de raconter ce qu’il a vécu et dans quelles circonstances. Il peut décider quels éléments de santé ou quels examens méritent d’être regardés.
 
-## Comment cette difficulté se manifeste
+## Comment la peur d’une nouvelle attaque change-t-elle les trajets ?
 
-Pour Jules, l’évaluation est toujours en cours.
+### Un lieu rappelle un épisode inattendu
 
-Le médecin peut aussi écouter ce qui a changé depuis les épisodes. Jules sait qu’il prend la porte latérale et qu’il n’a pas revu Samuel depuis quelque temps. Il voudrait expliquer ce que ça lui coûte de faire le détour, mais aussi pourquoi la table de dessin lui manque. Les circonstances, les sensations et les conséquences dans sa vie fournissent des renseignements différents.
+Après un accès de peur, le lieu où il est survenu peut devenir difficile à traverser.
 
-## Garder une place pour la commande du matin
+**Exemples concrets**
 
-Au stand, Sonia peut donner à Jules une tâche précise et lui dire qui prendra l’autre. Si Jules choisit de finir la commande suivante, il peut encore parler de la livraison avec elle. Il peut aussi lui dire qu’il a un rendez-vous médical et décider quelle part de ses difficultés il souhaite partager. L’organisation du travail peut s’appuyer sur le besoin qu’il exprime et les possibilités du stand.
+- Jules reconnaît l’allée où son cœur s’est mis à battre fort.
+- Chez lui, le souvenir de la peur reste associé au carnet qu’il réparait ce soir-là.
 
-Pour le prochain entretien, Jules peut raconter l’épisode de l’allée et celui survenu chez lui, dans les mots qu’il a. Il peut parler de la porte qu’il emprunte maintenant. Son carnet lui sert d’abord à dessiner. Il peut y glisser une feuille avec le nom des lieux et les questions qu’il veut poser, s’il pense que cela l’aidera pendant le rendez-vous.
+### Le détour devient habituel
+
+Anticiper une répétition peut modifier les trajets, parfois avant même que la peur soit très présente.
+
+**Exemples concrets**
+
+- Jules passe désormais par la porte latérale.
+- Une personne peut choisir systématiquement une autre entrée après un épisode inattendu devant le portique.
+
+### L’activité désirée s’éloigne
+
+Le changement de trajet peut toucher un projet qui garde son intérêt.
+
+**Exemples concrets**
+
+- Jules renonce à traverser pour saluer Samuel et continue de regarder la table.
+- La livraison de son bouquet est reprise par quelqu’un qui se rend déjà à l’entrée.
+
+## 3 techniques pour parler des détours qui s’installent
+
+### 1. Décrire un trajet avant et après
+
+Donner un exemple à la personne qui évalue les épisodes.
+
+**Exercice pratique**
+
+- Situez l’endroit du premier épisode.
+- Décrivez la route que vous preniez auparavant.
+- Précisez ce qui vous fait choisir une autre route maintenant.
+
+Le médecin peut mieux comprendre ce qui a changé entre les épisodes.
+
+### 2. Garder une part de l’activité
+
+Préserver une tâche utile pendant l’évaluation.
+
+**Exercice pratique**
+
+- Dites quel geste vous pouvez prendre ce matin.
+- Vérifiez qui reprend l’autre tâche.
+- Convenez du moment où reparler de l’organisation.
+
+Un accord ponctuel peut laisser de la place à l’activité et au suivi.
+
+### 3. Poser une question sur le projet désiré
+
+Rester en lien avec une activité qui compte.
+
+**Exercice pratique**
+
+- Choisissez la personne qui en connaît l’organisation.
+- Demandez la date ou le sujet de la prochaine rencontre.
+- Laissez votre décision de venir ouverte.
+
+Vous pouvez reprendre contact à partir d’une question concrète.
 
 ## Le bouquet côté stand
 
 Jules demande à finir la commande au stand. Sonia confie la livraison à la personne qui allait déjà vers l’entrée principale. Il garde le bout de ruban dans son carnet et écrit à Samuel qu’il aimerait savoir quand la table se réunira de nouveau. Il relit ensuite la carte de Solange, où elle lui demande de lui dessiner un jour le dessus de la verrière. Il sait déjà de quelle couleur il voudrait la faire.
+
+---
+
+**Conclusion**
+
+Le bouquet est terminé et Jules prend des nouvelles de la table. Il pourra décrire au médecin le détour et ce qu’il lui coûte. Sonia peut organiser une livraison précise avec lui.

@@ -1,19 +1,19 @@
 ---
-title: Ce que le regard d’un proche apporte au suivi du TDAH
-description: Mathis choisit d’inviter Simon pour une partie du suivi. Leurs deux récits
-  aident à préciser les appuis qu’ils veulent garder.
+title: Quand un accord se perd après une journée qui a demandé de l’attention
+description: Mathis retrouve ses repères à l’atelier. Le soir, il ne se rappelle ni
+  la date ni l’accord évoqué avec Simon.
 slug: mathis-suivi-avec-simon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Retentissement du TDAH à domicile
+sujet: Perte du fil dans les échanges domestiques
 contexte: Au cabinet, après la première permanence ouverte au public
 tags:
 - TDAH chez l’adulte
 - TDAH
-- Retentissement à domicile
-- Observation d’un proche
-- Décision partagée
+- Échange à domicile
+- Rappel d’un accord
+- Retentissement après le travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,20 +28,83 @@ Pendant la première partie, Mathis parle des dernières séances d’accompagne
 
 Quand il va chercher Simon, la place voisine est vide. Simon s’est levé pour lire un prospectus au bout du couloir. Mathis le rejoint et lui dit qu’il aimerait commencer par la livraison. « Après, tu pourras dire ce que tu as remarqué le samedi soir, si tu veux. » Il revient dans le bureau le premier et reprend son papier sur la chaise.
 
-## Comprendre ce que le suivi peut éclairer
+## L’attention peut être sollicitée autrement à domicile
 
-Mathis a plusieurs repères pour revenir sur les aménagements. Il sait à quels moments la fiche lui a permis de reprendre sans hésiter, ce qu’il lui a fallu faire avant la fermeture et ce qu’il avait encore de disponible en rentrant. Une réussite sur la place ne donne pas toute la mesure de ce qui lui coûte. Une soirée difficile ne suffit pas non plus à décider que le suivi est inutile. Les exemples lui permettent de préciser ce qu’il voudrait voir changer.
+Dans le TDAH, la difficulté à suivre une conversation ou à retrouver une information convenue peut persister même quand un appui fonctionne au travail. À la maison, le moment de l’échange et le support disponible peuvent être différents. Mathis a pu s’arrêter pour lire les fiches pendant la permanence. Le soir, retrouver l’accord dont parle Simon lui coûte davantage. Leurs deux observations peuvent éclairer cet exemple s’ils souhaitent les partager en consultation.
 
-## Comment cette difficulté se manifeste
+## Comment un accord peut-il devenir difficile à retrouver à la maison ?
 
-Le NICE recommande de revoir les choix de prise en charge avec la personne, à partir de ses priorités et de leur effet dans sa vie. Mathis et sa psychiatre font le point sur l’accompagnement commencé et gardent ouverte la discussion sur les autres options. Il mentionne aussi les mauvaises nuits qui reviennent parfois avant une journée chargée. Ils en parlent séparément. Il pourra poser des questions supplémentaires avant de modifier les soins et sait comment joindre sa psychiatre.
+### Le contexte ne fournit pas les mêmes repères
 
-## Écouter deux récits en laissant à Mathis ses décisions
+Au travail, des supports peuvent montrer les étapes et les horaires. Une conversation domestique peut demander de reconstruire ces éléments au moment où elle reprend.
 
-Simon raconte qu’il a mieux vécu la livraison une fois son numéro retiré de la liste des contacts. Le samedi soir, il a compris que Mathis souhaitait changer l’heure du rendez-vous, alors que Mathis ne se rappelait plus l’avoir fixé. La différence mérite une question. Est-ce qu’ils avaient chacun la même information au moment de rentrer ? Mathis se rappelle que l’heure était dans un message qu’il avait lu pendant le rangement. Simon peut dire quand il a besoin d’une réponse ferme.
+**Exemples concrets**
 
-La présence d’un proche se discute avec la personne suivie. Mathis choisit le sujet qu’il ouvre à Simon et peut en garder un autre pour l’entretien seul. La psychiatre leur demande à chacun ce qu’il peut raisonnablement assurer au quotidien. Pour leur prochain engagement à deux dans la semaine, ils préfèrent se donner une heure où ils pourront regarder le calendrier. Simon peut refuser d’attendre une réponse pendant une soirée entière. Mathis peut demander un autre moment et rester responsable de la réponse qu’il a promise.
+- Mathis sait relire la fiche qui lui permet de vérifier les tâches du poste.
+- Quand Simon évoque un rendez-vous à la maison, Mathis ne retrouve pas sa date.
+
+### Le détail d’un accord manque malgré le souvenir d’en avoir parlé
+
+On peut reconnaître le sujet d’une conversation et avoir du mal à retrouver ce que chacun devait faire.
+
+**Exemples concrets**
+
+- Mathis comprend que Simon revient sur un rendez-vous déjà fixé. Le contenu de l’accord lui échappe.
+- Pour la livraison, ils s’étaient accordés sur la présence de Mathis avant de vérifier qui recevrait l’appel.
+
+### La difficulté n’est pas visible de la même manière pour chacun
+
+Le proche peut observer l’absence de réponse. La personne peut décrire l’effort de retrouver une information qu’elle croyait disponible.
+
+**Exemples concrets**
+
+- Simon peut raconter qu’il a demandé une confirmation le samedi soir.
+- Mathis peut dire qu’il ne retrouvait ni le jour ni ce qu’ils avaient convenu.
+
+## 3 techniques pour reprendre un accord perdu dans un échange
+
+### 1. Revenir à un seul rendez-vous
+
+Reconstituer l’information utile sans ouvrir tous les désaccords passés.
+
+**Exercice pratique**
+
+- Nommez le rendez-vous dont vous parlez.
+- Vérifiez ensemble l’heure et l’action attendue.
+- Choisissez où l’un et l’autre pourront retrouver cet accord.
+
+La prochaine conversation peut partir d’un repère commun.
+
+### 2. Choisir un moment où l’on peut écouter
+
+Donner à l’échange les conditions dont chacun a besoin.
+
+**Exercice pratique**
+
+- Dites si vous pouvez parler maintenant.
+- Convenez d’un moment précis si vous préférez attendre.
+- Gardez le sujet que vous souhaitez reprendre.
+
+L’accord peut être revu à un moment où les deux personnes sont disponibles.
+
+### 3. Apporter les deux observations au suivi
+
+Éclairer le retentissement à la maison en respectant l’accord de la personne.
+
+**Exercice pratique**
+
+- Choisissez ensemble un exemple à raconter.
+- Distinguez ce que le proche a vu de ce que la personne a vécu.
+- Dites au professionnel quelles parties vous souhaitez aborder à deux.
+
+Le suivi peut tenir compte des deux perspectives et de leurs limites.
 
 ## L’entretien auquel Simon assiste en partie
 
 La psychiatre et Mathis conviennent de poursuivre l’accompagnement et fixent un nouveau point. Simon propose d’aller chercher du pain sur le retour. Devant la porte, Mathis lit le papier une dernière fois et le replie. Il laisse passer un vélo devant le cabinet, puis lui parle du deuxième samedi. Zélie voudrait prendre les premiers vélos au pied. Il aimerait lui dire qu’il peut commencer à l’accueil, avec quelqu’un pour le relayer le temps de préparer les fiches. Simon lui demande à quelle heure ils pourront reparler du rendez-vous. Mathis propose après avoir mangé.
+
+---
+
+**Conclusion**
+
+Mathis et Simon peuvent parler de la livraison et du samedi soir avec la psychiatre. L’accord sur ce qu’ils racontent reste limité à ces situations. En repartant, ils fixent un moment où reprendre la discussion à la maison.

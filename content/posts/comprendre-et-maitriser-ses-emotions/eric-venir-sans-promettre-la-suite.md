@@ -34,18 +34,79 @@ Avant la répétition, il avait demandé à Pascal s’il pourrait rester quelqu
 
 Les attentes du groupe et la crainte de s’en éloigner peuvent compter dans la difficulté à choisir. Éric associe le café à des souvenirs agréables, aux occasions de boire et à des départs qu’il a eu du mal à tenir.
 
-## Comment cette difficulté se manifeste
+## Comment la peur de perdre sa place peut-elle rendre un refus difficile ?
 
-Quand l’invitation arrive, la perspective de perdre les photos et le moment partagé rend le refus plus coûteux. Le fait de vouloir garder des amis mérite sa place dans la discussion clinique.
+### Le verre et l’appartenance semblent aller ensemble
 
-Les soins peuvent prendre en compte les situations sociales et les ressources dont la personne dispose. Éric peut parler de ce qui lui donne envie d’y aller et chercher comment retrouver une part de ces échanges ailleurs. Les occasions de se voir n’ont pas toutes la même signification pour lui.
+Une invitation peut réunir ce que la personne veut garder et ce qui lui pose problème.
 
-## Une réponse assez courte pour rester utilisable
+**Exemples concrets**
 
-Éric a prévu une phrase sur ce qu’il fera à la fin de la répétition. Elle lui permet de répondre à Gérald en laissant sa santé dans la sphère qu’il a choisie. Il peut demander à voir les photos au prochain rendez-vous. Gérald a le droit de préférer les montrer au café. Éric pourra alors décider ce qu’il souhaite faire de cette déception.
+- Les photos que veut voir Éric seront montrées au café.
+- Une personne aimerait rester avec ses amis après une répétition et redoute d’y boire.
 
-Avec Pascal, le temps convenu est celui d’une écoute et s’arrête quand Pascal doit partir. Ce soutien peut donner une suite au rendez-vous sans transformer un ami en surveillant. Éric pourra reprendre en consultation les invitations où sa réponse est plus difficile à tenir et celles où une autre façon de se retrouver lui convient.
+### Le silence après le refus est redouté
+
+La crainte d’une réaction peut peser avant même que quelqu’un insiste.
+
+**Exemples concrets**
+
+- Éric envisage de dire oui pour éviter le malaise qui suivrait son refus.
+- Une personne accepte une sortie de peur qu’on ne l’invite plus la prochaine fois.
+
+### Le lien peut avoir une autre occasion
+
+Faire une proposition précise permet de voir ce que l’amitié peut porter ailleurs.
+
+**Exemples concrets**
+
+- Éric propose de regarder les photos à la prochaine répétition.
+- Une personne décline le bar et donne rendez-vous à un ami pour marcher le lendemain.
+
+## 3 techniques pour décliner une sortie en gardant le lien souhaité
+
+### 1. Préparer une réponse courte
+
+Garder une phrase possible sans dévoiler le suivi.
+
+**Exercice pratique**
+
+- Nommez la partie de l’invitation que vous déclinez.
+- Préparez une phrase simple.
+- Répétez-la si on vous pose de nouveau la question.
+
+Vous pourrez répondre sans improviser une justification.
+
+### 2. Proposer une suite précise
+
+Garder un point de rencontre autour de ce qui vous plaît.
+
+**Exercice pratique**
+
+- Choisissez une activité que vous voulez partager.
+- Proposez un lieu ou un moment.
+- Demandez si l’autre en a envie.
+
+Le lien peut continuer selon un nouvel accord.
+
+### 3. Prévoir un appui à la fin de la rencontre
+
+Éviter de décider seul dans le moment le plus hésitant si vous souhaitez de l’aide.
+
+**Exercice pratique**
+
+- Demandez à un proche s’il peut rester un peu.
+- Convenez d’une durée.
+- Préparez aussi ce que vous ferez s’il doit partir.
+
+Le soutien peut rester possible sans rendre l’ami responsable de votre choix.
 
 ## La photo pliée dans le dossier
 
 Gérald sort une photo pliée. Éric y voit Pascal tenant le pupitre au-dessus de sa tête pour protéger la partition. Il lui demande s’il peut la regarder de plus près. Gérald lui laisse la photo jusqu’à la répétition suivante et emporte les autres. Après leur départ, Pascal met le casque et reconnaît le bruit des cagettes. Quand il doit rentrer, Éric a encore envie de savoir ce que les autres se racontent au café. Il envoie à Gérald le nom du morceau qu’il aimerait reprendre la prochaine fois et s’arrête un moment pour regarder ce qu’on voit du défilé derrière le pupitre.
+
+---
+
+**Conclusion**
+
+Éric reste dans la salle avec Pascal et Gérald lui prête la photo. Le café continue sans lui cette fois. Une soirée suivante se passera autrement et lui donnera une raison de reprendre contact avec le centre.

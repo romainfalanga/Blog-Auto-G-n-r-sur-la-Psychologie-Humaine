@@ -55,14 +55,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/">Comprendre la prévention de la réponse avant de choisir un essai en séance</a></h3>
-    <p class="parcours-resume">Noémie craint de se sentir dépassée quand sa clinicienne lui parle d’un essai en séance. L’exposition avec prévention de la réponse est une approche structurée du TOC. Elle aborde une situation qui déclenche le doute et travaille sur la réponse compulsive qui suit. La professionnelle et Noémie peuvent discuter du cadre, du rythme et de ce qui compte pour elle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/">Comprendre l’élan de neutraliser une pensée avant un essai de soin</a></h3>
+    <p class="parcours-resume">En décrivant le tram et les messages de l’épicerie, Noémie reconnaît la même envie de neutraliser le doute par une réponse qu’elle se sent poussée à chercher. Elle demande ce que cette envie aurait à voir avec la thérapie proposée. L’essai se discute avec la clinicienne et les règles de conservation des archives continuent de s’appliquer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/">Accompagner Noémie au cinéma quand elle cherche encore à être rassurée</a></h3>
-    <p class="parcours-resume">Sur le chemin du cinéma, Noémie aimerait redemander si la porte est fermée. Maud peut l’accompagner sans renouveler la réassurance déjà donnée, selon l’accord qu’elles ont préparé avec la clinicienne. Une présence proposée avec tact peut soutenir Noémie pendant que le doute persiste. Elle choisit ce qui lui convient à ce moment.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/">Quand le TOC organise peu à peu les réponses du couple</a></h3>
+    <p class="parcours-resume">Sur le chemin du cinéma, Noémie voudrait revenir sur la fermeture de l’appartement. Maud avait pris l’habitude de raconter le geste ou d’envoyer une photo pour l’aider. Elles essaient une autre réponse préparée avec la clinicienne. L’envie de demander revient, tandis qu’une présence choisie reste possible pour le trajet.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

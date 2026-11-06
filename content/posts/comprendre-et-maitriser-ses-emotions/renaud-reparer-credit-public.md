@@ -1,21 +1,21 @@
 ---
-title: Réparer une attribution qui a effacé la part de l’autre
-description: Un programme prête à Renaud une idée de Yara. Il doit décider comment
-  faire modifier publiquement un avantage qu’il n’a pas demandé.
+title: Garder un crédit flatteur quand on connaît l’erreur
+description: Un programme prête à Renaud une idée de Yara. Il mesure l’attrait de
+  cette visibilité et le coût de l’erreur pour sa collègue.
 slug: renaud-reparer-credit-public
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Renaud
-sujet: Réparation après un crédit inexact
+sujet: Reconnaissance indue et prise en compte d’autrui
 contexte: En mars, au studio avant la rencontre de presse
 tags:
 - Trouble de la personnalité narcissique
 - Trouble narcissique
 - Personnalité narcissique
 - Narcissisme pathologique
-- Reconnaissance du préjudice
+- Reconnaissance indue
 - Attribution du travail
-- Réparation concrète
+- Conséquence pour autrui
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -34,16 +34,79 @@ Il demande si elle a déjà une formulation. Yara lui montre les trois lignes qu
 
 Recevoir de la reconnaissance pour un travail qu’on n’a pas fait peut mettre une personne devant une décision. Chez Renaud, l’attribution erronée satisfait un besoin de visibilité particulièrement fort. Il cherche d’abord une formulation qui lui permettrait de garder une partie de cette place. La préoccupation pour sa propre image peut donner moins de poids à ce que l’erreur coûte à Yara.
 
-## Comment cette difficulté se manifeste
+## Comment une attribution flatteuse retarde-t-elle la correction ?
 
-Le fait à traiter se vérifie dans deux documents. Yara a conçu les formes et mené les essais. Renaud a travaillé sur les textes et les panneaux. La correction porte sur le crédit diffusé et ne dépend pas de l’histoire de son diagnostic. Yara conserve une possibilité de vérifier ce qui change et de répondre si la phrase est reprise ailleurs.
+### Un avantage que l’on n’a pas cherché
 
-## Faire parvenir la correction aux personnes concernées
+Une erreur venue d’ailleurs peut quand même satisfaire le besoin de visibilité.
 
-Renaud peut confirmer les contributions dans le fil du centre, puis demander que le programme déjà transmis soit remplacé. Il peut vérifier que la nouvelle version est bien celle que Nora rend accessible. Un accord verbal peut aider la conversation. Le document corrigé donne aux personnes qui le consultent une information dont elles peuvent se servir.
+**Exemples concrets**
 
-Plus tard, Renaud peut parler en consultation de sa difficulté à se séparer de la phrase qui le mettait en avant. Il peut aussi constater que son travail reste décrit avec exactitude. Des objectifs de ce genre offrent des faits à regarder au fil du suivi. La collègue peut apprécier le changement sans être tenue de rassurer Renaud sur l’image qu’il y laisse.
+- Renaud découvre le programme et ressent une première satisfaction.
+- Une personne peut être contente qu’un communiqué la cite pour une idée collective.
+
+### Une correction vague qui conserve l’avantage
+
+L’envie de rester visible peut orienter le choix des mots.
+
+**Exemples concrets**
+
+- Renaud envisage de créditer « le studio ».
+- Un responsable peut proposer un remerciement général qui laisse l’auteur de l’idée invisible.
+
+### Le coût précis que l’autre doit rappeler
+
+La collègue peut devoir engager une démarche supplémentaire pour retrouver son nom.
+
+**Exemples concrets**
+
+- Yara demande une confirmation de la direction et la mise à jour de l’aperçu.
+- Une personne peut devoir reprendre un programme à quelques minutes de sa diffusion.
+
+## 3 techniques pour corriger une erreur qui nous avantage
+
+### 1. Revenir aux apports établis
+
+Disposer d’une formulation précise.
+
+**Exercice pratique**
+
+- Ouvrir le dossier relu ensemble.
+- Identifier les formes et les panneaux.
+- Reprendre la phrase proposée par Yara.
+
+La correction peut attribuer chacun des deux apports.
+
+### 2. Agir dans le fil de diffusion
+
+Faire modifier la version qui circule.
+
+**Exercice pratique**
+
+- Demander à Yara si une réponse commune convient.
+- Envoyer la correction à Nora.
+- Vérifier le fichier et son aperçu.
+
+La correction peut atteindre les personnes qui liront le programme.
+
+### 3. Décrire l’hésitation au suivi
+
+Comprendre ce qui a retardé l’action.
+
+**Exercice pratique**
+
+- Nommer la satisfaction initiale.
+- Dire quelle formulation aurait gardé l’avantage.
+- Décrire ce que Yara a dû demander.
+
+La séance peut revenir sur un choix concret et ses conséquences.
 
 ## La version que Nora envoie
 
 Nora accuse réception et propose de retirer le premier fichier. Renaud envoie la description courte qu’ils ont relue ensemble. Lorsque la nouvelle pièce jointe arrive, Yara retrouve son nom à côté de sa contribution. Elle ferme l’ancienne version et demande à Renaud s’il pourra répondre aux questions du fabricant pendant qu’elle explique l’essai. Il répond oui. Avant de partir, il voit une invitation de Malik pour dîner le mois suivant. Il lui demande si Édith peut venir aussi.
+
+---
+
+**Conclusion**
+
+Le programme corrigé rend à Yara la possibilité de présenter son travail sous son nom. Renaud garde son rôle sur la fabrication. Sa gêne devant l’erreur lui donne un exemple à reprendre en consultation.

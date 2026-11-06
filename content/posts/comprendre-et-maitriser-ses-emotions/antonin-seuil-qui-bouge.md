@@ -35,16 +35,79 @@ Une précaution est justifiée lorsqu’elle répond à une information crédibl
 
 L’inquiétude peut se prolonger après les mesures nécessaires.
 
-## Comment cette difficulté se manifeste
+## Comment l’anticipation persiste-t-elle après une mesure de sécurité ?
 
-Antonin pense à ce qu’il a vu, puis à ce qui pourrait se révéler ailleurs. Il voudrait connaître la suite alors que l’examen est encore à venir. Il peut rapporter cette succession à son médecin, qui l’aide à comprendre ce qui se passe pour lui au-delà de la précaution. Si un nouveau défaut est observé, il reste une information à transmettre selon les mêmes consignes.
+### L’obstacle demande une réponse réelle
 
-## Donner une suite au report
+Le seuil soulevé change ce que l’équipe peut faire et relève du service compétent.
 
-Les deux professeurs doivent pouvoir organiser leur matinée. Eva peut les prévenir du déplacement suspendu et leur dire de qui viendront les informations sur la suite. Antonin peut mettre à disposition le matériel dont ils ont besoin dans une autre salle autorisée, si elle est disponible. Il garde le suivi du signalement dans le circuit prévu et pourra tenir compte de tout élément nouveau.
+**Exemples concrets**
 
-Le point auquel ils attendent une réponse ne donne aucune date certaine de réouverture. Il leur permet de travailler avec les informations disponibles. Pour Antonin, il reste une différence entre ce qu’il peut faire pour les professeurs ce matin et le souhait que l’examen du seuil soit déjà terminé. Eva peut l’aider sur le premier point. Le second pourra être évoqué plus tard avec son médecin si l’attente lui prend beaucoup de place.
+- Antonin suspend le déplacement et demande à Eva de rester à l’écart.
+- Il indique l’endroit du défaut et maintient l’accès réservé aux personnes habilitées.
+
+### Des scénarios restent en attente
+
+La pensée peut continuer à examiner des problèmes possibles alors que les premières mesures sont en place.
+
+**Exemples concrets**
+
+- Après l’accusé de réception, Antonin s’interroge sur le temps dont disposeront les ouvriers.
+- Il imagine d’autres défauts qu’il n’a pas vus du couloir.
+
+### La prochaine décision se brouille
+
+Des vérifications imaginées peuvent rivaliser avec ce qu’il reste réellement à organiser.
+
+**Exemples concrets**
+
+- Antonin envisage de rappeler le service alors qu’Eva lui demande quand prévenir les professeurs.
+- Une personne qui a signalé une fuite peut hésiter à prévenir les occupants parce qu’elle cherche encore à deviner son origine.
+
+## 3 techniques pour traiter un défaut et organiser la suite
+
+### 1. Maintenir les précautions prévues
+
+Protéger les personnes en attendant un contrôle.
+
+**Exercice pratique**
+
+- Arrêtez l’activité concernée selon les consignes.
+- Signalez le défaut au service responsable.
+- Suivez la décision de ce service sur l’accès et la reprise.
+
+Le risque peut être pris en charge par les personnes habilitées.
+
+### 2. Identifier la prochaine information
+
+Distinguer le contrôle attendu d’un rappel supplémentaire.
+
+**Exercice pratique**
+
+- Notez ce que le service a confirmé.
+- Repérez le moment prévu pour le retour.
+- Recontactez selon les consignes ou si un fait nouveau change la situation.
+
+Vous disposez d’un repère concret pour l’attente.
+
+### 3. Prévenir les personnes concernées
+
+Organiser ce qui doit changer dans les salles ouvertes.
+
+**Exercice pratique**
+
+- Relevez les déplacements qui sont suspendus.
+- Convenez de la personne qui prévient les professeurs.
+- Répartissez les autres tâches dans les lieux en service.
+
+Les cours peuvent s’organiser pendant que le chantier suit ses procédures.
 
 ## Une annonce décollée du mur
 
 Eva écrit aux professeurs avant qu’ils se déplacent. Antonin porte deux pupitres dans une salle déjà ouverte et vérifie que le responsable du chantier a reçu le changement de planning. Sur l’annonce, le titre qu’il cherchait est caché sous une bande de papier. Il la donne à Eva, qui connaît encore quelqu’un ayant joué à cette audition. Le seuil sera examiné sans eux. La semaine prochaine, ils devront aussi trouver où les clarinettes peuvent répéter en attendant.
+
+---
+
+**Conclusion**
+
+Antonin prend le seuil au sérieux et confie son contrôle au service des travaux. L’inquiétude se prolonge pendant l’attente. Eva peut reprendre les déplacements prévus et agir sur ce qu’ils savent déjà.

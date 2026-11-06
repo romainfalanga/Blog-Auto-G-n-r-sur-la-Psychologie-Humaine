@@ -35,16 +35,79 @@ Les inquiétudes liées à l’anxiété généralisée peuvent persister quand 
 
 L’ouverture répond à des validations que l’école a reçues.
 
-## Comment cette difficulté se manifeste
+## Comment l’inquiétude revient-elle au moment de partir ?
 
-Antonin a encore des tâches qui découlent de la reprise, comme vérifier avec le professeur le rangement adapté aux étuis. La question de sa présence jusqu’à la fin dépend de ce qu’il est convenu qu’il fasse. Les deux sujets peuvent être examinés séparément avec l’équipe.
+### Un détail réel demande une décision
 
-## Un problème d’étui et une heure de départ
+Un besoin de rangement peut être traité dans le cadre ordinaire de la reprise.
 
-La musicienne a signalé une difficulté précise. Antonin peut indiquer quel espace utiliser pour l’instant et noter le point à revoir avec le professeur. La collègue de permanence doit savoir où trouver le matériel et comment transmettre un incident. Elle peut dire s’il lui manque une information. Les vérifications de fermeture restent confiées à la personne désignée et suivent les consignes de l’école.
+**Exemples concrets**
 
-Une fois le relais effectué, Antonin peut décider s’il veut écouter encore un passage ou rentrer. Sa présence peut être agréable pour lui sans devenir une responsabilité du soir. Il peut aussi convenir d’un autre moment pour entendre le groupe. Eva a déjà prévu son départ et peut lui dire ce qu’elle a pris en charge. Elle lui laisse le choix de sa soirée.
+- La première musicienne dégage le passage en reprenant son étui.
+- Antonin propose un rangement disponible et note la difficulté pour la suite.
+
+### La transmission a un dernier geste
+
+Le relais peut comprendre une action précise qui donne à la permanence ce qu’il lui faut.
+
+**Exemples concrets**
+
+- La collègue demande à voir le placard des pupitres.
+- Antonin lui donne la clé et le contact prévu si le matériel pose problème.
+
+### La tentation de rester se prolonge
+
+L’inquiétude peut laisser l’impression qu’il faut encore tout vérifier après les actions convenues.
+
+**Exemples concrets**
+
+- Antonin voudrait attendre le dernier musicien pour vérifier chaque étui.
+- Une personne peut vouloir rester jusqu’à la fin d’une activité alors qu’un collègue a repris le rangement.
+
+## 3 techniques pour passer la main en fin de journée
+
+### 1. Traiter le détail observé
+
+Répondre à ce qui gêne maintenant.
+
+**Exercice pratique**
+
+- Montrez un rangement prévu qui laisse le passage libre.
+- Notez ce qui devra être revu plus tard.
+- Informez la permanence du changement.
+
+L’équipe peut retrouver la solution appliquée.
+
+### 2. Faire le dernier tour avec la collègue
+
+Confirmer qu’elle dispose des informations demandées.
+
+**Exercice pratique**
+
+- Montrez le placard qu’elle veut repérer.
+- Remettez la clé selon l’accord.
+- Vérifiez qu’elle sait qui contacter en cas de problème.
+
+Le changement de rôle peut devenir concret pour chacun.
+
+### 3. S’appuyer sur l’heure annoncée
+
+Donner une fin à la transmission complète.
+
+**Exercice pratique**
+
+- Regardez l’heure prévue.
+- Dites que vous partez et quand vous serez de retour.
+- Reprenez le trajet ou l’activité que vous aviez choisi.
+
+La soirée peut commencer alors que certaines inconnues demeurent.
 
 ## La clé change de main
 
 Antonin montre le placard, remet la clé à la collègue de permanence et écoute une dernière mesure près de la porte. Il ne sait pas ce que donneront les semaines suivantes. En descendant l’escalier, il entend le professeur reprendre deux notes avec tout le groupe. Il sort son vélo et part vers la place. La roue tourne sans frotter. Il s’arrête devant le billard pour écrire à Benoît que la salle de musique et le vélo ont repris le même jour.
+
+---
+
+**Conclusion**
+
+Antonin écoute une dernière mesure puis prend son vélo. La collègue possède les moyens d’assurer la permanence. Les grands étuis pourront rester un sujet de travail pour un autre moment.

@@ -27,22 +27,85 @@ Côme sait que le créneau de neuf heures est passé. Il avait préparé ses aff
 
 Nadège lui montre son message de neuf heures et quart. Elle l’a attendu avant de donner la place à Agathe. Côme avait préparé sa veste et son mètre la veille, puis retrouvé Florian et Sana en ligne. Ils avaient joué comme prévu. Quand Sana s’était déconnectée, il avait dit qu’il allait faire pareil. Il était resté pour jouer encore, d’abord avec Florian, puis seul. Il se souvient avoir regardé sa veste depuis sa chaise et calculé le temps qui lui restait avant le réveil. Le calcul n’avait rien changé. Ce matin, il s’est levé au moment où il aurait dû repartir de l’atelier.
 
-Il sort son mètre de la poche où il l’avait laissé. « Je vais attendre qu’elle finisse », dit-il. Nadège lui indique les panneaux empilés à côté d’Agathe : elle en a pour le reste du créneau. Côme lui demande alors s’il peut prendre les mesures du bâti dans l’espace de rangement. Il voulait le démonter ce matin. Il commence par regarder ce qu’il tient à garder.
+Il sort son mètre de la poche où il l’avait laissé. « Je vais attendre qu’elle finisse », dit-il. Nadège lui indique les panneaux empilés à côté d’Agathe. Elle en a pour le reste du créneau. Côme lui demande alors s’il peut prendre les mesures du bâti dans l’espace de rangement. Il voulait le démonter ce matin. Il commence par regarder ce qu’il tient à garder.
 
 ## Difficulté à s’arrêter et conséquences dans la durée
 
 Dans le trouble du jeu vidéo, il peut devenir difficile de s’arrêter ou de changer le moment où l’on joue, même lorsqu’on voit ce que cela risque de coûter. Côme avait préparé son départ pour l’atelier et savait à quelle heure il devait dormir. Il a repoussé plusieurs fois le moment de quitter la partie. La conséquence prend la forme d’un établi occupé et d’une matinée qu’il ne récupérera pas.
 
-## Comment cette difficulté se manifeste
+## Comment la difficulté à arrêter une partie se manifeste-t-elle ?
 
-Le diagnostic de Côme a été posé avant ce samedi, en consultation d’addictologie. Il tient à une histoire plus longue qu’un seul rendez-vous. Le guide clinique de l’OMS indique qu’une pratique peut prendre une place croissante au détriment d’autres activités et se poursuivre malgré un retentissement important. Une longue soirée, une habitude quotidienne ou une arrivée en retard ne permettent pas, à elles seules, de tirer cette conclusion. Côme s’était amusé en jouant avec ses amis. Ce plaisir fait aussi partie de ce qu’il voudra expliquer s’il revient parler de sa semaine.
+### Le signal choisi passe
 
-## Reprendre la mesure qui reste à sa portée
+La fin prévue peut rester claire sans déclencher le départ.
 
-Côme voulait venir à l’atelier pour construire quelque chose dont il avait déjà l’usage en tête. Sur son ancienne table, les cartes débordaient dès qu’il dépliait le plateau. Sur la prochaine, il voudrait pouvoir laisser les cartes à plat et garder une place pour les coudes. À neuf heures, il avait prévu de vérifier la solidité du bâti avec Nadège. À son arrivée, il peut encore relever les dimensions dans le rangement, à l’écart du passage. Le reste attendra une réservation disponible.
+**Exemples concrets**
 
-S’il évoque la nuit en consultation, il dispose d’un exemple précis : ce qu’il avait prévu de faire, le moment où il a voulu quitter la partie et ce qu’il a perdu le matin. Son croquis peut, lui, rester dans la poche de sa veste. Il a deux choses à préparer qui n’ont pas besoin de tenir sur le même papier.
+- Côme reste quand Sana dit au revoir.
+- Une personne continue après le rappel qui devait marquer sa dernière partie.
+
+### Une nouvelle fin remplace la première
+
+Le moment du départ peut être renégocié plusieurs fois.
+
+**Exemples concrets**
+
+- Côme reste d’abord avec Florian, puis seul.
+- Une défaite transforme « j’arrête ici » en « encore un essai ».
+
+### Le lendemain en porte la trace
+
+La difficulté devient visible dans un engagement qu’on voulait pourtant tenir.
+
+**Exemples concrets**
+
+- Côme trouve le créneau de l’établi attribué à Agathe.
+- Un rendez-vous préparé la veille doit être repris à une autre date.
+
+## 3 techniques pour préparer la fin d’une session
+
+### 1. Définir un point de sortie
+
+Décider avant de jouer ce qui marquera la fin.
+
+**Exercice pratique**
+
+- Choisissez une limite réaliste.
+- Dites aux amis quand vous comptez partir.
+- Repérez ce qui peut rester en suspens.
+
+La décision peut être plus facile à retrouver au moment voulu.
+
+### 2. Noter une fin qui a glissé
+
+Comprendre où le choix a changé.
+
+**Exercice pratique**
+
+- Relevez l’heure ou l’événement prévu.
+- Notez quand vous avez effectivement fermé.
+- Indiquez ce que cela a déplacé le lendemain.
+
+Un exemple peut donner un point de départ en consultation.
+
+### 3. Reprendre le rendez-vous manqué
+
+Sauver ce qui reste possible dans l’activité.
+
+**Exercice pratique**
+
+- Demandez si une petite tâche peut encore être faite.
+- Respectez le créneau de l’autre personne.
+- Réservez un nouvel horaire que vous pouvez tenir.
+
+Le projet peut avancer malgré la matinée perdue.
 
 ## Deux chiffres derrière le tableau
 
-Nadège décroche le tableau pour récupérer un bout de ficelle coincé derrière. Côme en profite pour lui demander le prochain créneau libre. Il choisit le samedi d’après, plus tard dans la matinée ; le bâti peut rester au rangement jusque-là. Il relève deux mesures, les inscrit sur un carton et ajoute un point d’interrogation près du côté où le bois a noirci. Quand Agathe lui demande si elle peut emprunter une rondelle qui roule vers le bord, il la retient du doigt et la lui tend. L’établi est bien à elle, maintenant.
+Nadège décroche le tableau pour récupérer un bout de ficelle coincé derrière. Côme en profite pour lui demander le prochain créneau libre. Il choisit le samedi d’après, plus tard dans la matinée. Le bâti peut rester au rangement jusque-là. Il relève deux mesures, les inscrit sur un carton et ajoute un point d’interrogation près du côté où le bois a noirci. Quand Agathe lui demande si elle peut emprunter une rondelle qui roule vers le bord, il la retient du doigt et la lui tend. L’établi est bien à elle, maintenant.
+
+---
+
+**Conclusion**
+
+Côme sait à quel moment il voulait partir et voit ce que lui a coûté la soirée. Nadège peut lui proposer un autre créneau. À la boutique, le manque de sommeil aura une autre conséquence.

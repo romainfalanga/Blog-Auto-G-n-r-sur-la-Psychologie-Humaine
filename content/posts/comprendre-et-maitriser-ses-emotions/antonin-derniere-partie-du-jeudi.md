@@ -33,16 +33,79 @@ Devant la table, il voit encore en pensée la ligne vide sur le calendrier. Il n
 
 Une inquiétude persistante peut prendre du temps et compliquer la participation à une activité qu’on aime. Elle peut rester présente même pendant un moment agréable. Au billard, Antonin voudrait suivre ce qui se joue sur la table et pense encore au chantier par moments. Il peut raconter cette coexistence au médecin. Une soirée où il a réussi à venir donne une information sur sa vie. Elle dit aussi combien d’effort certains choix lui demandent encore.
 
-## Comment cette difficulté se manifeste
+## Comment l’inquiétude accapare-t-elle l’attention pendant un loisir ?
 
-Dans son suivi, le temps retrouvé pour les proches fait partie de ce qu’il veut préserver. Il peut dire ce qui l’a aidé à prendre part à cette soirée et ce qui était difficile avant de partir. Le relais organisé au travail répond à une question pratique. La discussion au cabinet peut porter sur la place que l’inquiétude prend une fois ce relais assuré.
+### Une scène de travail reste devant les yeux
 
-## Passer le relais avant de quitter le travail
+Une décision reportée peut continuer à occuper la pensée en dehors de l’école.
 
-La permanence a un rôle défini. Antonin peut transmettre l’accès et les renseignements utiles à la personne qui la tient. Si l’organisation change, l’école peut revoir qui sera disponible. Le fonctionnement des services reste assuré même lorsque le départ d’Antonin coïncide avec une période d’attente. Il peut demander ce qui justifierait qu’on le rappelle et à qui les autres questions seront adressées.
+**Exemples concrets**
 
-Benoît peut avoir envie de jouer une partie entière ou préférer rentrer après le premier tour. Antonin peut lui dire ce qui lui convient aussi. Leur accord sur la soirée appartient aux deux frères. Ils n’ont pas besoin de savoir comment Antonin se sentira au dernier coup pour convenir de jouer le premier.
+- Antonin voit encore la ligne vide du calendrier devant la table de billard.
+- Une personne peut continuer à repasser une discussion de travail pendant que les autres joueurs préparent une partie.
+
+### Le téléphone garde une possibilité ouverte
+
+La tentation de rester joignable peut venir même après un relais complet.
+
+**Exemples concrets**
+
+- Antonin a failli promettre de répondre pendant la soirée.
+- La personne de permanence a déjà repris la clé et le numéro utile, mais il sent encore le téléphone dans sa poche.
+
+### Un détail du jeu ramène à la partie
+
+L’attention peut se déplacer pendant quelques instants même quand la préoccupation reste présente.
+
+**Exemples concrets**
+
+- Benoît lui montre deux billes et Antonin repère un angle.
+- Il retrouve un choix simple en prenant la queue lourde pour le coup qu’il voulait essayer.
+
+## 3 techniques pour rendre sa place au loisir
+
+### 1. Terminer la transmission avant de partir
+
+Vérifier que la responsabilité du soir est attribuée.
+
+**Exercice pratique**
+
+- Remettez les informations nécessaires à la permanence.
+- Confirmez le contact prévu en cas d’incident.
+- Dites quand vous reprendrez les questions de l’école.
+
+Le relais peut donner un cadre clair au temps personnel.
+
+### 2. Repérer un détail de la partie
+
+Retrouver un élément concret quand le travail occupe encore la tête.
+
+**Exercice pratique**
+
+- Regardez le point que vous montre votre partenaire.
+- Décrivez-lui le trajet que vous imaginez.
+- Jouez le coup qui correspond à votre choix.
+
+Une action précise peut remettre la partie au premier plan.
+
+### 3. Garder une proposition pour les heures de travail
+
+Reprendre une vraie question au bon moment.
+
+**Exercice pratique**
+
+- Notez brièvement l’idée venue pendant le loisir.
+- Choisissez l’interlocuteur et un moment de travail.
+- Décidez ensuite si vous souhaitez prolonger la rencontre.
+
+La question reste disponible sans occuper le reste de la soirée.
 
 ## La bille le long de la bande
 
 Antonin manque le coup qu’il voulait tenter. La bille revient assez près de celle de Benoît pour leur laisser une possibilité au tour suivant. Son frère lui demande s’il reste pour le verre après la partie. Antonin dit oui. Sur le chemin du retour, il se rappelle la ligne vide du calendrier et l’envie de proposer un relais du soir qui ne se négocie pas à chaque réunion. Il en parlera avec Eva pendant les heures de travail.
+
+---
+
+**Conclusion**
+
+Antonin pense encore au calendrier et reste pour le verre après la partie. Benoît peut lui demander où il voit l’angle ou s’il a envie de rester. L’organisation du soir reviendra dans l’échange avec l’école.

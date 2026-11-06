@@ -34,16 +34,79 @@ Il lui propose d’écouter l’entretien tout de suite, s’il lui reste un qua
 
 La dépendance à l’alcool peut se poursuivre malgré des conséquences dans les relations. Une reprise des soins peut améliorer la situation médicale et permettre de revoir les appuis. La personne avec qui un rendez-vous a été manqué a sa propre expérience de cet engagement et peut demander un changement concret. Éric peut reconnaître cette conséquence sans décider pour Joëlle ce qu’elle devrait ressentir.
 
-## Les heures où Joëlle attendait de savoir s’il viendrait
+## Comment les rendez-vous manqués continuent-ils de peser sur la confiance ?
 
-Le disque a été une raison de se voir et le matin où Joëlle est passée a aussi été celui des secours. Dans le garage, elle parle d’autres moments où elle avait attendu l’appel d’Éric avant de pouvoir organiser son après-midi. Éric voudrait d’abord lui dire que ses soins ont repris. En lui demandant quel rendez-vous elle a en tête, il entend ce que l’attente a changé pour elle, jusque dans le trajet qu’ils devaient faire ensemble.
+### Le proche a sa propre mémoire du retard
 
-## Faire une proposition que l’autre peut accepter ou refuser
+Une amélioration de la santé ne change pas ce que l’autre a dû organiser.
 
-Éric propose une écoute qui peut avoir lieu maintenant, dans la durée que Joëlle a choisie. Elle n’a pas besoin de réserver une après-midi ni de s’engager à l’accompagner à d’autres rendez-vous. Ils pourront préparer le trajet qui reste à organiser à partir d’une date réelle et d’une autre possibilité pour Joëlle si nécessaire.
+**Exemples concrets**
 
-La consultation peut accueillir ce qu’Éric remarque dans ses liens depuis son retour. Les soignants peuvent l’aider à garder des activités choisies, à reprendre ses observations de santé et à définir les formes d’aide qu’il souhaite. La conversation avec Joëlle a aussi son sens propre. Elle leur permet de retrouver un sujet qu’ils ont envie de partager.
+- Joëlle se rappelle l’après-midi gardé libre.
+- Une personne refuse de réserver à nouveau un trajet avant d’avoir une heure confirmée.
+
+### La peur vécue pendant l’urgence reste présente
+
+Les suites médicales et les conséquences pour le proche ne se règlent pas forcément ensemble.
+
+**Exemples concrets**
+
+- Joëlle reparle du matin où elle a appelé les secours.
+- Une personne souhaite raconter ce qu’elle a vu avant de reprendre un projet commun.
+
+### Un geste limité peut être acceptable
+
+Le proche peut vouloir partager un moment sans reprendre tous les engagements.
+
+**Exemples concrets**
+
+- Joëlle accepte un enregistrement et reporte la discussion du trajet.
+- Quelqu’un accepte de rendre un objet ensemble et réserve la sortie pour une autre date.
+
+## 3 techniques pour réparer un engagement à la mesure des deux personnes
+
+### 1. Nommer le rendez-vous en cause
+
+Répondre à la conséquence précise que l’autre a vécue.
+
+**Exercice pratique**
+
+- Demandez quel moment il a en tête.
+- Écoutez ce qu’il a dû changer.
+- Reconnaissez votre part sans lui demander d’être rassuré.
+
+Chacun peut être entendu sur ce qui s’est passé.
+
+### 2. Proposer un geste vérifiable
+
+Choisir une réparation qu’on peut tenir maintenant.
+
+**Exercice pratique**
+
+- Identifiez ce qui peut être fait aujourd’hui.
+- Demandez combien de temps l’autre veut y consacrer.
+- Laissez les autres projets ouverts.
+
+La rencontre peut se terminer sur un accord réellement tenu.
+
+### 3. Séparer les prochains rendez-vous
+
+Éviter de faire du proche le garant de la reprise des soins.
+
+**Exercice pratique**
+
+- Confirmez vos soins avec l’équipe.
+- Parlez séparément de la date partagée.
+- Convenez du moment où chacun pourra la confirmer.
+
+Les deux engagements peuvent avancer à des rythmes différents.
 
 ## Écouter jusqu’au bruit des cagettes
 
 Joëlle écoute l’entretien jusqu’au bruit des cagettes. Elle pense que certains prendront le casque au milieu de la phrase. Elle lui propose d’ajouter quelques mots pour leur dire qui parle et à quel endroit. Éric note cette idée. Il remercie Joëlle d’avoir appelé les secours et lui dit qu’il entend ce qu’elle lui demande sur les rendez-vous. Elle pose le disque sur l’étagère et va sortir le vélo. Éric repart avec le casque et une phrase d’accueil. Il confirme à Mélissa qu’il peut venir à l’essai prévu une semaine avant le repas. Ils fixeront l’heure du passage de la cuisine à l’écoute.
+
+---
+
+**Conclusion**
+
+Joëlle choisit d’écouter un enregistrement et garde la suite du trajet ouverte. Éric reconnaît le temps qu’elle a attendu. Au repas de village, le passage du service à l’écoute mettra à l’épreuve un autre engagement précis.

@@ -4,20 +4,23 @@
     "mathis": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "c9e5363a237390bd7f1f2f696ffef3d801855d8d0551797bb16d10c24a89b8ba",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Distractibilité, effort de reprise, retentissement dans plusieurs milieux et évaluation adulte."
+      "article_format": 2,
+      "sha256": "8355445e935b99360f98e44116433d7de9ee0c74de4eb0982225d0be83be5513",
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue les interruptions, la mémoire des intentions, la planification et le retentissement selon le milieu. Évaluation adulte et règles de sécurité conservées."
     },
     "noemie": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "170be68e6e0cd9f2db898f05bb8c64323512afcac6b0a6434f49dc0a7a5b70eb",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Obsessions, compulsions visibles et mentales, réassurance et soulagement bref."
+      "article_format": 2,
+      "sha256": "5243329997c7b9fc972fc023fbe98387a3a0cc49ca5768afb165096d16803cd8",
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue obsession, compulsion visible ou mentale, réassurance et évitement. Les essais de soin et la participation des proches restent consentis."
     },
     "inaya": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "471e2ecf1704667dd83760f3bcfba630cba62f23eb78e07c27a735533b163bb5",
-      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Perte d’intérêt, retentissement, périodes entre les épisodes et engagement progressif."
+      "article_format": 2,
+      "sha256": "a91451b65b08c1aed4f0b0af00426c997df56941dbecce9587d7f25bbe59b133",
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue récurrence, anhédonie, fatigue, appétit et signes d’aggravation. La situation urgente montre l’appel et le relais professionnel."
     },
     "emilien": {
       "date": "2026-11-06",
@@ -34,8 +37,9 @@
     "antonin": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "e0e544b1b902564a09d16d106294f7c2c71caf2b1d40010ead762879c1ce22e6",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Inquiétude durable sur plusieurs sujets, incertitude, réassurance et attention mobilisée."
+      "article_format": 2,
+      "sha256": "391dcd9a56bbf0dac3c1b3794ea138ec75868fdfed0169746a8b3a95b321b307",
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Sépare le passage d’un sujet d’inquiétude à l’autre de l’amélioration partielle. Les manifestations et les appuis suivent chaque situation sans modifier les responsabilités du chantier."
     },
     "selma": {
       "date": "2026-11-06",
@@ -59,8 +63,9 @@
     "jules": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "e2a31b18cbd19120c3c152a5bf0484316daff06f4915848a122c7eeb8b34ec67",
-      "review": "Troisième vague. Répétition des attaques inattendues et suites précisées, urgence thoracique traitée séparément, évaluation professionnelle à l’épisode 3. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Attaques inattendues dans le parcours, anticipation, évitement et évaluation des symptômes aigus."
+      "article_format": 2,
+      "sha256": "e5ed09ea393c1ca0092af0bcba98c22e0b1f4cb6348250cae4eb76780899efa4",
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue peur anticipée, inquiétude entre attaques, contexte et retentissement. Les signes physiques nouveaux gardent leur évaluation urgente."
     },
     "clemence": {
       "date": "2026-11-06",
@@ -85,9 +90,10 @@
     "solene": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "bf913a58b3c5c8321cc673a995a6b42a3e7be21d7796f55ccfab0a5ad5a23f54",
+      "article_format": 2,
+      "sha256": "dae4cddbaba4fa565bc8f3e3115de258a57e231e1fe5530e3be9266868a5237a",
       "dossier_sha256": "2299d7777924a1c2c78137e26dca03ba1cea0b08bb3854ec26f2e1fd7b9755f9",
-      "review": "Vague 4. Repère de durée précisé pour le premier épisode selon la CIM-11. Raccords de programmation, relais médical du malaise et partage choisi des informations vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Relation temporelle entre manifestations psychotiques et épisodes de l’humeur, rémission et relais médical."
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Suit séparément les changements d’humeur et les expériences psychotiques. Les symptômes nouveaux, le suivi et la place choisie pour Livia gardent leurs limites."
     },
     "meriem": {
       "date": "2026-11-06",
@@ -127,9 +133,10 @@
     "come": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "0df1a9ade0e8ae9f4a365160637bfa512b157ceefdb359da2bc3ec8a5546edd0",
+      "article_format": 2,
+      "sha256": "d10f61db6b49674410f089f6dbce4262d9051021adc1bf1835a931a9c48db0c0",
       "dossier_sha256": "f58fd67138dcca8b3056b8567d48b975890587548f1ec28d4627400e1653bd71",
-      "review": "Vague 5. Retentissement, difficultés à s’arrêter et reprise de contact relus. Les amitiés en ligne, la table et les limites du soutien conservent leur place. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Perte de maîtrise, coût sur le sommeil et le travail, rôle des amitiés et suivi."
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue difficulté à interrompre le jeu, effets sur le sommeil et le travail, et liens en ligne. Les appuis préservent la participation choisie."
     },
     "helene": {
       "date": "2026-11-06",
@@ -218,9 +225,10 @@
     "renaud": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "f68d6b6632fc1b564d72ffb55606de1c0a47e3aba4c96a5f83fc7557b6137e46",
+      "article_format": 2,
+      "sha256": "2a9102951496776a7f10f57f12f5df735c81b0fedfcfddad47361f986553aa8c",
       "dossier_sha256": "3de15e24b086ca0708f0f9e0261d9fd7dbc914a30e6e1331933f2c5c472df710",
-      "review": "Le diagnostic DSM-5-TR et la distinction avec le modèle CIM-11 sont explicites. Besoin d’admiration, sensibilité à la critique, responsabilité, limites des proches et raccords de l’hiver à l’automne vérifiés."
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue admiration, crédit, sentiment de traitement de faveur et souplesse relationnelle. Le parcours suit le dossier DSM-5-TR, avec la possibilité de limites au travail et dans les relations."
     },
     "victoire": {
       "date": "2026-11-06",
@@ -253,9 +261,10 @@
     "eric": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "92f4511e7e3587d13b2eb0fb44eb6194d36e5f65bc32097990b5937b69f9ca6e",
+      "article_format": 2,
+      "sha256": "9309095efb2ee199965163afb1f1a13ebbdc353b47129061bacd28e5281f7613",
       "dossier_sha256": "d56dd23a79a7bca240f111dfc25a5682742c31a86b22adbb9965a0c389e41be2",
-      "review": "Envie, perte de maîtrise, tolérance et sevrage distingués. Le relais urgent face à une confusion laisse l’évaluation à l’équipe. Soutien, reprise des soins et déroulement du repas relus."
+      "review": "Trame de Youssef avec exemples, trois techniques situées, retour à la scène, conclusion et rubrique des proches. Distingue perte de maîtrise, priorité de la consommation, envie et sevrage. Les changements de consommation et les situations urgentes relèvent des professionnels."
     },
     "elvire": {
       "date": "2026-11-06",

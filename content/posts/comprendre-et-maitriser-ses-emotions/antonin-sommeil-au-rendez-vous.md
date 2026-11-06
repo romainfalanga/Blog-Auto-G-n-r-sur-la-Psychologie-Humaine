@@ -33,16 +33,79 @@ Son médecin l’appelle. Antonin glisse le ticket et la feuille dans la même p
 
 Un sommeil perturbé peut accompagner l’anxiété généralisée et peser sur les journées suivantes. Le médecin regarde avec la personne à quel moment les difficultés surviennent, ce qui les accompagne et leur effet sur les activités. D’autres problèmes de santé ou circonstances peuvent aussi compter. Antonin peut décrire ses réveils, les pensées dont il se souvient et les conséquences qu’il remarque au travail ou au billard. Ces éléments renseignent le suivi sans exiger un relevé complet de toutes les nuits.
 
-## Comment cette difficulté se manifeste
+## Comment les inquiétudes de la nuit se voient-elles le lendemain ?
 
-Dans cette consultation, le médecin s’intéresse aussi aux appuis déjà essayés. Antonin raconte le mardi où Eva a pris les appels et le temps qu’il a eu pour déposer son vélo. Ce résultat lui importe même si ses nuits restent difficiles. Il pourra dire ce qu’il a trouvé possible et ce qu’il aimerait travailler avec une aide plus structurée.
+### Vérifier une information au réveil
 
-## Décider d’une étape de soin avec le médecin
+Une inquiétude peut reprendre la place au milieu de la nuit, même lorsqu’une réponse a déjà été donnée.
 
-Le NICE présente une prise en charge par étapes, ajustée à la gêne, aux préférences et à la réponse aux appuis déjà essayés. L’information sur le trouble et un suivi actif peuvent faire partie des premiers appuis. Selon la situation, des approches psychologiques structurées, dont une thérapie cognitivo-comportementale, ou un traitement médicamenteux peuvent être discutés avec un professionnel. Ces décisions concernent l’état de santé de la personne et les options adaptées à sa situation.
+**Exemples concrets**
 
-Antonin demande comment accéder à un accompagnement psychologique et ce qu’ils peuvent revoir au prochain rendez-vous. Il peut aussi poser des questions sur les autres options, leurs effets attendus et leurs contraintes. Le médecin pourra l’orienter et préciser avec lui quand reprendre contact si son sommeil ou son fonctionnement se dégradent. Antonin garde la possibilité de poser d’autres questions avant de choisir.
+- Antonin se lève chercher le prix de la réparation à trois heures.
+- Une autre nuit, il reprend l’horaire qu’Eva lui avait confirmé.
+
+### Passer d’un sujet à l’autre dans la nuit
+
+La même période d’éveil peut réunir des préoccupations sans décision possible à cette heure.
+
+**Exemples concrets**
+
+- Après l’horaire, Antonin pense au vélo.
+- Il revient à l’appel que Benoît attendait du dentiste.
+
+### Prévoir la journée autour de la fatigue
+
+Le sommeil perturbé peut peser sur les choix de travail et de loisirs.
+
+**Exemples concrets**
+
+- Au matin, Antonin trouve le volet entrouvert et ne sait plus pourquoi il s’est levé.
+- Il estime dès le jeudi matin s’il lui restera assez d’énergie pour le billard.
+
+## 3 techniques pour parler des nuits et de leur effet
+
+### 1. Garder un exemple nocturne
+
+Décrire ce qui s’est passé avec assez de précision.
+
+**Exercice pratique**
+
+- Retrouvez une nuit dont vous vous souvenez.
+- Notez ce qui vous a occupé après le réveil.
+- Ajoutez ce qui a été plus difficile le lendemain.
+
+Cet exemple peut éclairer le lien entre les nuits et les journées.
+
+### 2. Préciser une priorité au cabinet
+
+Expliquer ce qui compterait dans la vie ordinaire.
+
+**Exercice pratique**
+
+- Nommez la difficulté qui vous gêne le plus.
+- Donnez un exemple au travail ou le soir.
+- Dites quelle activité vous aimeriez retrouver.
+
+Le professionnel peut discuter des options à partir de ce qui compte pour vous.
+
+### 3. Convenir d’un prochain point
+
+Organiser le suivi des nuits et de leur retentissement.
+
+**Exercice pratique**
+
+- Demandez quels changements observer d’ici là.
+- Inscrivez la date du prochain rendez-vous.
+- Vérifiez comment reprendre contact si la gêne augmente.
+
+Le suivi peut être réajusté avec le médecin.
 
 ## Le rendez-vous suivant dans l’agenda
 
 Ils conviennent d’un nouveau point et le médecin explique les possibilités d’accompagnement à examiner. Antonin inscrit la date dans son agenda. En sortant, il retrouve le ticket et écrit au dos le prénom du joueur qui leur avait prêté sa craie quand la leur s’était émiettée. Au même moment, Eva laisse un message. Le fournisseur de la porte du local doit revoir sa date de livraison. Antonin note l’heure à laquelle il lui répondra après être arrivé à l’école.
+
+---
+
+**Conclusion**
+
+Le ticket rappelle une partie qui a compté. La feuille et le devis aident Antonin à raconter les nuits qui ont suivi. Il peut garder le billard parmi ses priorités pendant que le suivi se précise.

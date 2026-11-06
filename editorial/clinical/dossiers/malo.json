@@ -1,0 +1,44 @@
+{
+  "references": {
+    "bap-catatonie": {
+      "title": "British Association for Psychopharmacology, recommandations de consensus pour la prise en charge de la catatonie (Rogers et coll., 2023)",
+      "url": "https://www.bap.org.uk/pdfs/BAP_Guidelines-Catatonia.pdf"
+    },
+    "aclp-catatonie-liaison": {
+      "title": "Academy of Consultation-Liaison Psychiatry, monographie clinique sur la catatonie à l’hôpital : synthèse",
+      "url": "https://clpsychiatry.org/educationcareers/clinical-monographs/catatonia/ebm-summary/"
+    },
+    "service-public-urgences": {
+      "title": "Service Public, numéros d’urgence en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    },
+    "has-decision-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    }
+  },
+  "dossier": {
+    "name": "Catatonie associée à un autre trouble mental",
+    "aliases": [
+      "Catatonie",
+      "Syndrome catatonique"
+    ],
+    "references": [
+      "oms-cddr",
+      "bap-catatonie",
+      "aclp-catatonie-liaison",
+      "service-public-urgences",
+      "has-decision-partagee"
+    ],
+    "points": [
+      "OMS, CDDR 2024, « General diagnostic requirements for catatonia », pp. 201–203 : la catatonie est un syndrome qui peut modifier les mouvements, les réponses et la parole. L’évaluation clinique s’appuie sur un ensemble de manifestations, leur évolution, leur retentissement et l’examen par des professionnels. La diminution des mouvements et de la parole n’est qu’une présentation possible. Un silence, une hésitation ou une immobilité isolés ne permettent pas de conclure. Aucun seuil diagnostique à appliquer soi-même ni aucun délai à attendre avant un appel.",
+      "OMS, CDDR 2024, 6A40, « Essential (required) features », p. 203, et « Boundaries with other disorders and conditions », pp. 207–209 : le syndrome catatonique survient dans le contexte d’un autre trouble mental, diagnostiqué séparément. Les manifestations ne sont pas entièrement expliquées par un syndrome confusionnel, une substance, un médicament ou son sevrage, ou un trouble primaire du mouvement. Le CDDR distingue notamment la catatonie due à une affection médicale. L’association retenue dans le récit résulte de l’évaluation hospitalière au deuxième épisode ; le trouble associé est connu de Malo et de son équipe, mais reste dans sa vie privée.",
+      "BAP, Rogers et coll. (2023), « Clinical assessment » et « Investigations », pp. 334–337, et ACLP, « Introduction — Differential Diagnosis » : rechercher d’autres explications médicales, neurologiques ou psychiatriques et apprécier les complications possibles. Les professionnels croisent l’observation, l’examen et l’histoire recueillie, y compris auprès de témoins si nécessaire. Une première présentation demande une évaluation complète. Une situation ultérieure doit être évaluée pour elle-même, même si le diagnostic antérieur est connu. Aucun test clinique ou bilan détaillé dans le récit.",
+      "BAP, « Recommendations on the assessment of catatonia », p. 335 : ne pas supposer que l’absence de réponse est volontaire ; continuer à s’adresser à la personne puisqu’elle peut comprendre sans parvenir à répondre. Le souvenir de certains moments est possible et peut être vif, sans être identique pour toutes les personnes ni forcément complet. Le récit d’Enora apporte des faits et n’annule pas l’expérience que Malo se remémore. L’absence de réponse durant la crise et le refus formulé ensuite sont deux situations distinctes.",
+      "OMS, CDDR 2024, pp. 202–203, BAP, « General approach » et « Complications », et Service Public, « Urgence : qui appeler ? » : une catatonie suspectée nécessite une évaluation médicale urgente à cause des complications potentiellement graves. Le 15 joint le Samu en France. Enora décrit la rupture marquée de réactivité et le lieu, appelle immédiatement et suit les indications de la régulation. Le relais envoyé arrive et prend Malo en charge ; la cause n’est pas présumée sur place. Aucun geste ni protocole à réaliser par l’entourage.",
+      "OMS, CDDR 2024, 6A40, « Course features », p. 204 : la durée et le déroulement varient ; des épisodes peuvent revenir. Un changement modéré perçu par Malo après la sortie peut justifier de joindre son équipe sans prouver une récidive ; une altération brutale et marquée de la réactivité relève des secours. L’équipe évalue le changement et adapte le suivi. Ni le retour au théâtre ni une décision réussie sur les archives ne prédisent l’évolution clinique.",
+      "HAS, « Patient et professionnels de santé : décider ensemble » : échange d’informations, expression des préférences et discussion des options avec le soignant. Les contacts de suivi, le rendez-vous de sortie et la place choisie pour Enora relèvent d’un accord individuel ; distinguer ce rôle familial d’un service d’urgence ou d’une disponibilité permanente. Le projet d’archives et les échanges avec la troupe ne conditionnent pas l’accès aux soins."
+    ]
+  },
+  "direction": "Malo, 34 ans, photographie les spectacles de la troupe Les Traverses. Il reconnaît un spectacle à ses coulisses, fait des choix de cadre précis et déteste devoir parler pendant qu’on regarde un tirage. Nadir tient la régie et Léonie coordonne la production ; Yasmina joue dans Une mer au plafond. Enora, sa sœur, connaît le chemin de service et appelle les secours sur place dès le premier épisode. La Dre Le Berre donne le diagnostic au deuxième après l’évaluation hospitalière ; Anna, l’infirmière de suivi, aide Malo à distinguer contact de soins, urgence et appui familial. Le trouble associé n’est jamais nommé devant la troupe ni déduit du travail. L’intrigue des archives tient à une mallette rouge, une image horizontale dont le cadre donne une place à la régie et un dépôt provisoire qui ne vaut pas autorisation de diffuser. Montrer les erreurs de transmission, le droit d’Yasmina à donner son avis, les limites de disponibilité de chacun et une vraie remise des archives, avec une date de réexamen. La fin ouvre sur un choix photographique de Malo, tandis que le suivi se poursuit."
+}

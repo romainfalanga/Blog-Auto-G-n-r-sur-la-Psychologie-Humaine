@@ -1,19 +1,19 @@
 ---
-title: Rendre les aides à l’organisation utilisables par toute l’équipe
+title: Retrouver ses repères quand les rôles et les lieux changent
 description: Mathis et Zélie reprennent la permanence avec des rôles différents. Un
   détail oublié leur montre pourquoi l’équipe doit pouvoir passer le relais.
 slug: mathis-deuxieme-samedi-permanence
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: Maintien des appuis au quotidien
+sujet: Transfert des repères entre rôles
 contexte: De nouveau sur la place des Tilleuls, lors de la deuxième permanence
 tags:
 - TDAH chez l’adulte
 - TDAH
-- Organisation collective
-- Repère visuel
-- Autonomie au travail
+- Repères qui changent de place
+- Changement de rôle
+- Organisation partagée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,22 +28,83 @@ Il a proposé de prendre l’accueil au début. Zélie peut alors terminer le tr
 
 Plus tard, Mathis cherche sa pince rouge sous le classeur. La bénévole lui montre la deuxième fiche, celle qui indique le contrôle à faire au retour de Zélie. Elle a pris la pince pour maintenir le papier quand un courant d’air a soulevé le coin. Mathis vérifie que le repère reste lisible. Puis il demande si elle veut prendre l’accueil à son tour. Il aimerait montrer à la femme comment lire l’inscription sur son pneu, comme il l’a fait le premier samedi.
 
-## Comprendre ce qui permet aux appuis de durer
+## Un appui doit pouvoir être retrouvé dans le nouveau cadre
 
-Le deuxième samedi change l’emplacement de la table, les rôles et le nombre de personnes présentes au départ. Mathis retrouve une partie des repères parce que d’autres les utilisent aussi. La bénévole sait à quoi sert la fiche et peut vérifier ce qu’il lui manque. Quand le panneau est tourné du mauvais côté, elle peut le lui signaler. Les responsabilités restent visibles, même quand le matériel bouge ou qu’une personne quitte son poste.
+Quand un rôle ou un lieu change, les repères qui aident à s’organiser peuvent ne plus se trouver là où on les attend. Dans le TDAH, un support écrit et une répartition claire des tâches peuvent aider si les personnes qui les utilisent les retrouvent au bon moment. Mathis et l’équipe ajustent le panneau, la fiche et le relais d’accueil. Le suivi peut aider à revoir ces appuis quand les situations changent.
 
-Un suivi du TDAH peut aider à ajuster les appuis au fil des changements de vie.
+## Comment les repères d’organisation se perdent-ils quand le cadre change ?
 
-## Comment cette difficulté se manifeste
+### L’objet reste présent mais son emplacement change
 
-Les besoins de Mathis restent situés. La fiche est utile au poste de réparation. Le rendez-vous de livraison a demandé une autre solution. La psychiatre et la professionnelle qui l’accompagne disposent de ces exemples pour discuter de ce qui lui convient et de ce qu’il aimerait encore travailler. Mathis pourra aussi leur dire s’il a envie de déplacer ses objectifs une fois le rythme de la permanence mieux établi.
+Une indication peut cesser de guider le public ou l’équipe lorsqu’elle ne se trouve plus dans le trajet attendu.
 
-## Préparer une passation et garder une suite pour soi
+**Exemples concrets**
 
-Avant de fermer, Mathis propose de conserver sur une page commune l’ouverture, les rôles à tenir et le contact de la place. Zélie ajoute l’endroit où retrouver les fiches. La prochaine personne qui rejoint le groupe pourra refaire le trajet avec quelqu’un et poser ses propres questions. Mathis veut que le document serve aux autres même s’il décide de ne pas être présent chaque samedi. Lui aussi a besoin de savoir qui joindre quand un changement intervient.
+- La table est déplacée près du bord de la place. L’ardoise continue de regarder vers l’ancien passage.
+- Une file se forme près de l’étal parce que les personnes y arrivent avant de voir l’accueil.
 
-Pour le prochain entretien, il garde deux moments. Il a retrouvé le contrôle en cours en lisant une fiche rédigée par quelqu’un d’autre. Il a aussi dû retourner chercher sa sacoche parce qu’il l’avait laissée au pied en allant à l’accueil. Ce sont des points dont il peut parler en quelques phrases. À la maison, il a promis de regarder avec Simon l’heure de leur rendez-vous avant de repartir vers une autre tâche.
+### Un autre rôle demande un autre point d’arrêt
+
+Changer de poste oblige à garder en vue ce qu’il reste à faire au poste quitté.
+
+**Exemples concrets**
+
+- Mathis commence à contourner la table pour répondre à une question sur un vélo.
+- Les fiches lui rappellent ce qui doit rester prêt à l’accueil avant qu’il passe la main.
+
+### Le repère devient utilisable quand un collègue le retrouve
+
+Une aide partagée permet de relayer une tâche même si celui qui l’a commencée n’est plus au même endroit.
+
+**Exemples concrets**
+
+- La bénévole montre la fiche à Mathis quand il cherche la pince rouge.
+- Zélie retrouve la pince à l’endroit convenu pour la prochaine permanence.
+
+## 3 techniques pour garder un repère utilisable lors d’un changement
+
+### 1. Regarder le poste depuis l’arrivée
+
+Vérifier ce que les personnes voient après un changement de place.
+
+**Exercice pratique**
+
+- Approchez du poste par le trajet du public.
+- Vérifiez l’endroit où l’ardoise indique l’accueil.
+- Convenez avec un collègue de la repositionner si le trajet change.
+
+Le panneau peut retrouver son usage pour les visiteurs et l’équipe.
+
+### 2. Passer la main avec le repère actif
+
+Permettre au collègue de reprendre le rôle au bon endroit.
+
+**Exercice pratique**
+
+- Dites quelle tâche est encore en cours.
+- Montrez la fiche ou l’horaire que l’autre devra retrouver.
+- Demandez-lui s’il a ce qu’il lui faut avant de changer de poste.
+
+Les informations peuvent rester accessibles pendant la relève.
+
+### 3. Revoir les appuis après l’essai
+
+Choisir ce qui reste utile pour la prochaine permanence.
+
+**Exercice pratique**
+
+- Repérez ce que plusieurs personnes ont su retrouver seules.
+- Dites ce qui a été difficile quand le cadre a changé.
+- Convenez de l’endroit où garder le matériel et des créneaux de chacun.
+
+Le prochain rendez-vous peut s’appuyer sur l’expérience partagée.
 
 ## Quelqu’un d’autre prend le relais
 
 Après le dernier retrait, la bénévole range l’ardoise dans le sens indiqué sur la caisse. Mathis met sa fiche dans le classeur et laisse la pince rouge sur le bord de la table pour Zélie. Elle veut la garder à portée de main au début de la prochaine permanence. En rentrant, il trouve Simon en train de poser deux tasses sur la table. Il demande s’ils peuvent regarder le calendrier pendant que l’eau chauffe. Une fois l’heure notée, il a encore le temps de lui raconter pourquoi la file s’est formée du côté du fromager. Dehors, la pluie recommence. Son vélo est à l’abri dans la cour.
+
+---
+
+**Conclusion**
+
+La bénévole, Zélie et Mathis savent désormais reprendre des rôles grâce aux mêmes repères. Mathis peut choisir comment il participera au prochain samedi et poursuivre son accompagnement à part. À la maison, il a encore envie de raconter l’arrivée de la file près du fromager.

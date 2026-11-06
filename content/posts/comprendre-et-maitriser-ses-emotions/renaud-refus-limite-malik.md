@@ -6,7 +6,7 @@ slug: renaud-refus-limite-malik
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Renaud
-sujet: Entendre le refus d’un proche
+sujet: Limite entendue comme jugement personnel
 contexte: Le dîner d’avril chez Malik, après la rencontre de presse
 tags:
 - Trouble de la personnalité narcissique
@@ -34,18 +34,79 @@ Il voit le visage de Malik changer. Le plat est encore trop chaud et Édith l’
 
 Lorsqu’un sentiment de valeur dépend beaucoup de la façon dont on pense être perçu, une réponse négative peut prendre un poids important. Certaines personnes présentant un trouble de la personnalité narcissique éprouvent une forte sensibilité au jugement et peuvent se défendre en dépréciant l’autre ou en mettant en doute ses raisons. Les réactions varient.
 
-## Comment cette difficulté se manifeste
+## Comment le refus d’un usage peut-il sembler remettre le lien en question ?
 
-Pour comprendre celle de Renaud, la scène donne accès à ce qu’il entend et à la suite qu’il s’apprête à donner.
+### Une limite précise qui devient générale
 
-Malik demande que le dîner reste privé et maintient son invitation. Renaud associe rapidement le refus de la photo à un manque de confiance. En invitant d’autres personnes à prendre parti, il fait peser sur Malik le coût de sa propre gêne. La raison donnée par son ami concerne le cadre dans lequel il veut recevoir.
+Une demande sur un acte peut être comprise comme une appréciation de toute la personne.
 
-## Reconnaître le cadre que l’autre a posé
+**Exemples concrets**
 
-La réponse de Malik est assez précise pour que Renaud puisse s’y tenir. Il peut laisser le téléphone de côté, prendre part au repas et reparler de la façon dont il a réagi quand l’autre sera disponible. S’il souhaite envoyer des nouvelles du centre, il dispose d’autres images. Choisir l’une de ces images garde distinctes sa communication professionnelle et l’invitation de Malik.
+- Malik refuse la diffusion et Renaud entend une question de confiance.
+- Un proche peut vouloir une soirée privée et être entendu comme s’il refusait la relation.
 
-Le sentiment de rejet peut revenir même après cette décision. Renaud peut noter ce qu’il a entendu de travers pour en parler en consultation. Une reprise de l’échange peut aussi se faire à deux, si Malik la souhaite. La limite sur la photo n’a pas besoin de disparaître pour que leur relation garde une suite.
+### Chercher l’appui d’un tiers
+
+Dans la gêne, une personne peut vouloir que les autres valident sa version.
+
+**Exemples concrets**
+
+- Renaud regarde Édith en espérant qu’elle se rangera de son côté.
+- Lors d’un repas, quelqu’un peut solliciter l’approbation des invités au lieu d’entendre l’hôte.
+
+### Une réponse qui remet chaque sujet à sa place
+
+Un proche peut maintenir son invitation et sa limite.
+
+**Exemples concrets**
+
+- Malik dit à Renaud qu’il avait envie de le voir et qu’il garde sa réponse sur la photo.
+- Un ami peut refuser qu’un échange soit publié tout en proposant de se revoir.
+
+## 3 techniques pour entendre une limite sans faire juger la relation
+
+### 1. Reprendre les mots sur l’usage
+
+Entendre ce qui a été effectivement demandé.
+
+**Exercice pratique**
+
+- Laisser Malik finir.
+- Reformuler la limite sur la diffusion.
+- Ranger le téléphone.
+
+Malik peut continuer le dîner sans devoir justifier un refus.
+
+### 2. Reconnaître le déplacement de la discussion
+
+Reparler de ce qui s’est passé si Malik le souhaite.
+
+**Exercice pratique**
+
+- Demander s’il a un instant.
+- Nommer la question de confiance ajoutée.
+- Respecter son souhait de clore.
+
+L’autre personne peut conserver la maîtrise de l’échange.
+
+### 3. Apporter la réaction en séance
+
+Décrire le passage du refus au sentiment de rejet.
+
+**Exercice pratique**
+
+- Reprendre la phrase exacte de Malik.
+- Dire ce qu’on a cru entendre.
+- Nommer la réaction d’Édith ou de Malik.
+
+La thérapeute peut explorer cette différence avec Renaud.
 
 ## Le téléphone sur le meuble de l’entrée
 
 Après le dessert, Renaud apporte deux assiettes dans la cuisine. Il demande à Malik s’il a le temps de parler une minute. « Je t’ai fait répondre sur la confiance alors que tu parlais de la photo. » Malik ferme le robinet. Il dit qu’il a entendu la reprise et veut finir la soirée tranquillement. Renaud revient s’asseoir. Au moment de partir, il pense à demander à Malik s’il voudra venir à l’ouverture du centre le mois suivant. Il lui propose de lui envoyer les horaires quand ils seront publics. Malik accepte de les recevoir et dit qu’il regardera s’il peut se libérer.
+
+---
+
+**Conclusion**
+
+Le dîner continue après que le téléphone a été posé. Malik conserve sa limite et décide du moment où l’échange s’arrête. Renaud peut lui proposer un autre rendez-vous sans demander de revenir sur sa réponse.

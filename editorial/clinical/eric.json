@@ -31,13 +31,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une soirée qui se prolonge renseigne sur ce qui s’est passé ce jour-là. Les soignants examinent la répétition du phénomène, les conséquences et la place de la consommation dans la vie de la personne. Éric aimait entendre ses amis retrouver les paroles d’un morceau. Le plaisir de cet échange et la difficulté à arrêter appartiennent tous les deux à la scène."
+          "heading": "Comment la difficulté à arrêter de boire se manifeste-t-elle ?",
+          "points": [
+            {
+              "heading": "Le départ est prévu et se décale",
+              "text": "Une heure choisie peut cesser de guider l’action une fois la consommation commencée.",
+              "examples": [
+                "Éric pose sa veste sur ses genoux puis la remet sur le dossier.",
+                "Une personne regarde l’horloge et reste malgré le transport qu’elle comptait prendre."
+              ]
+            },
+            {
+              "heading": "Une raison de rester prend le dessus",
+              "text": "Un échange apprécié peut offrir un motif immédiat de continuer alors que le rendez-vous approche.",
+              "examples": [
+                "Le souvenir d’un air de fanfare retient Éric à table.",
+                "Une personne attend la fin d’une conversation puis repousse encore son départ."
+              ]
+            },
+            {
+              "heading": "Un engagement souhaité tombe",
+              "text": "La difficulté n’implique pas que le projet compte peu.",
+              "examples": [
+                "La marchande avait accepté l’enregistrement et Éric manque le rendez-vous.",
+                "Une visite attendue ne se fait pas après une soirée qui se prolonge."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rappeler en donnant une place à la personne attendue",
-          "text": "Éric peut parler de son projet à Mélissa et garder le récit de la consommation pour les interlocuteurs qu’il choisit. Avec la marchande, il doit surtout répondre à une attente précise. Il avait pris un engagement, elle avait réservé du temps et il est arrivé trop tard. Un appel peut reconnaître cette conséquence et laisser à la marchande la décision de reparler du marché.\n\nEn consultation, Éric peut revenir sur les instants dont il se souvient, depuis la veste posée sur les genoux jusqu’à l’appel repoussé. Décrire ce déroulement aide à distinguer ce qu’il souhaitait faire, ce qui a changé au cours de la rencontre et ce qui a rendu le rattrapage difficile. L’équipe peut partir de cet exemple pour réexaminer les appuis qu’il avait prévus."
+          "heading": "3 techniques pour aborder les départs qui se décalent",
+          "points": [
+            {
+              "heading": "Reconstituer un départ manqué",
+              "objective": "Décrire à l’équipe l’écart entre le choix et ce qui s’est passé.",
+              "exercise": [
+                "Notez le départ que vous vouliez prendre.",
+                "Repérez le premier report.",
+                "Ajoutez la conséquence dont vous êtes sûr."
+              ],
+              "benefit": "Ce passage peut éclairer la discussion sur la maîtrise de la consommation."
+            },
+            {
+              "heading": "Réparer le rendez-vous",
+              "objective": "Reconnaître le temps de l’autre sans exiger un nouvel essai.",
+              "exercise": [
+                "Dites quel engagement vous avez manqué.",
+                "Demandez si une autre date est possible.",
+                "Acceptez la réponse ou la limite proposée."
+              ],
+              "benefit": "Le projet peut reprendre sur un accord précis."
+            },
+            {
+              "heading": "Préparer un appui avec le service",
+              "objective": "Éviter de faire reposer les prochains départs sur une seule intention.",
+              "exercise": [
+                "Choisissez une occasion qui vous inquiète.",
+                "Dites à l’équipe ce qui a retardé le départ auparavant.",
+                "Demandez quel appui conviendrait à cette situation."
+              ],
+              "benefit": "Vous pourrez discuter d’un plan adapté à votre santé et à votre vie."
+            }
+          ]
         }
       ],
       "ending_title": "Un autre moment proposé par la marchande",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Éric rappelle la marchande, accepte son mercredi matin et confirme qu’il veut préparer le repas avec Mélissa.",
         "next": "Le rendez-vous du mercredi est noté. Mélissa attend une proposition de menu avant la prochaine discussion avec Gérald."
-      }
+      },
+      "conclusion": "Éric voulait enregistrer la marchande et n’a pas quitté le café à temps. Elle choisit quand le recevoir de nouveau. Avec Joëlle, il découvrira que la consommation peut aussi déplacer un rendez-vous avant même de boire."
     },
     {
       "number": 2,
@@ -77,13 +134,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Les conséquences deviennent parfois visibles à travers des rendez-vous continuellement déplacés. Joëlle se souvient des attentes successives et peut dire ce qu’elles lui ont coûté. L’équipe d’addictologie examine, avec Éric, comment cet épisode s’inscrit dans sa vie. Elle peut aussi lui demander quels engagements il voudrait retrouver. Une relation compte à la fois pour elle-même et comme partie du quotidien à soutenir dans les soins."
+          "heading": "Comment la consommation peut-elle prendre le pas sur des engagements ?",
+          "points": [
+            {
+              "heading": "Une heure est réservée sans invitation",
+              "text": "Le programme peut se construire autour de la possibilité de boire.",
+              "examples": [
+                "Éric garde sa fin de journée libre sans savoir si les anciens viendront.",
+                "Une personne laisse plusieurs soirs ouverts au cas où une sortie au bar s’organiserait."
+              ]
+            },
+            {
+              "heading": "Les autres activités passent après",
+              "text": "La même disponibilité peut manquer à des activités auxquelles on tient.",
+              "examples": [
+                "Éric propose un autre jour pour le vélo plutôt que le soir même.",
+                "Une personne reporte une course à faire avec un proche pour rester disponible."
+              ]
+            },
+            {
+              "heading": "Le proche prévoit sans attendre",
+              "text": "Des reports successifs changent la façon dont les autres organisent leur temps.",
+              "examples": [
+                "Joëlle prévoit l’aide de la voisine.",
+                "Quelqu’un réserve un second moyen de transport après plusieurs réponses tardives."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire un choix que chacun peut vérifier",
-          "text": "Éric remarque le temps qu’il a réservé au café en écoutant la proposition de Joëlle. Il peut s’engager sur un essai ce soir et lui dire combien de temps il restera au garage. Joëlle peut accepter ou choisir le rendez-vous avec sa voisine. Elle a besoin d’un trajet praticable avant samedi et peut avancer avec les ressources qu’elle a déjà trouvées.\n\nSi Éric évoque cette hésitation à son prochain rendez-vous, il peut préciser ce qu’il attend des anciens amis et les moments qu’il se rend difficilement disponibles pour autre chose. Le soin a une prise sur une situation concrète quand on voit ce qui est précieux dans chaque choix. Un tour de quartier avec sa sœur a sa propre valeur, quelle que soit la manière dont une autre fin de journée se passe."
+          "heading": "3 techniques pour regarder quelle place la consommation prend",
+          "points": [
+            {
+              "heading": "Repérer les créneaux réservés par défaut",
+              "objective": "Rendre visible la place occupée même les jours où rien n’est fixé.",
+              "exercise": [
+                "Regardez deux soirées restées libres.",
+                "Notez ce que vous espériez faire à la place d’un rendez-vous.",
+                "Apportez un exemple au suivi."
+              ],
+              "benefit": "L’équipe peut examiner comment vos choix s’organisent autour de la consommation."
+            },
+            {
+              "heading": "Choisir une activité à remettre au calendrier",
+              "objective": "Donner un horaire concret à un engagement choisi.",
+              "exercise": [
+                "Demandez à l’autre quand il est libre.",
+                "Proposez un créneau que vous pouvez confirmer.",
+                "Acceptez qu’il ait une solution de repli."
+              ],
+              "benefit": "Le rendez-vous peut avoir sa place sans tenir le proche dans l’attente."
+            },
+            {
+              "heading": "Dire quand on répondra",
+              "objective": "Limiter les accords qui restent incertains.",
+              "exercise": [
+                "Distinguez ce que vous savez de ce que vous hésitez à confirmer.",
+                "Donnez un délai de réponse.",
+                "Prévenez si le créneau ne convient plus."
+              ],
+              "benefit": "Le proche peut faire ses propres choix entre-temps."
+            }
+          ]
         }
       ],
       "ending_title": "Le guidon sans son panier",
@@ -99,7 +212,8 @@
       "continuity": {
         "choice": "Éric essaie le vélo avec Joëlle dès mardi. Elle conserve son autre appui pour le réglage.",
         "next": "Joëlle veut savoir comment se passe l’entretien du mercredi. Éric compte encore parler du menu avec Mélissa."
-      }
+      },
+      "conclusion": "Éric essaie le vélo aujourd’hui et Joëlle garde l’appui de sa voisine. Le rendez-vous de la marchande retrouve aussi une date. Sur le trajet du retour, une invitation va faire revenir l’envie de boire."
     },
     {
       "number": 3,
@@ -123,13 +237,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "L’invitation qui fait perdre le fil du rendez-vous",
-          "text": "Éric reconnaît la table du café derrière Pascal sur la photo. Il lit plusieurs fois la même invitation et a du mal à garder en tête qu’il doit retrouver Mélissa. À ce moment, il pense à la fois au plaisir de revoir les anciens et au bref soulagement qu’il associe à la décision de rester boire. L’envie demeure quand il se sépare de Pascal, même s’il rejoint Mélissa à l’heure convenue."
+          "heading": "Comment un lieu ou un message peut-il raviver l’envie de boire ?",
+          "points": [
+            {
+              "heading": "Le souvenir se réveille à partir d’un détail",
+              "text": "Un lieu ou une image associés à la consommation peuvent rappeler une sensation attendue.",
+              "examples": [
+                "Éric reconnaît la marque sur le mur derrière la fanfare.",
+                "Une personne passe devant le café où elle avait l’habitude de s’arrêter."
+              ]
+            },
+            {
+              "heading": "L’attention reste prise dans le message",
+              "text": "Il peut devenir difficile de penser à l’engagement déjà prévu.",
+              "examples": [
+                "Éric relit l’invitation et perd le fil de son trajet vers Mélissa.",
+                "Une personne oublie ce qu’elle allait acheter en pensant à un rendez-vous au bar."
+              ]
+            },
+            {
+              "heading": "Le désir de retrouver des gens se mêle à l’envie de boire",
+              "text": "L’invitation peut promettre à la fois une rencontre et une sensation liée à l’alcool.",
+              "examples": [
+                "Éric a envie de voir les anciens et pense au calme bref qu’il associe au café.",
+                "Une personne veut parler à un ami et se surprend à penser surtout au verre qui accompagne leurs rencontres."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander un appui assez précis pour recevoir une réponse",
-          "text": "Pascal sait qu’Éric peut lui demander de parler. Il lui reste à dire s’il a du temps et ce qu’il peut partager. Marcher jusqu’à la boulangerie est possible pour lui aujourd’hui. Éric peut demander un trajet qui ne passe pas devant le café et expliquer qu’il retrouvera ensuite Mélissa. La demande tient dans le moment, sans obliger Pascal à répondre à chaque invitation à sa place.\n\nEn consultation, Éric peut décrire le passage de l’entretien à la photo, ce qu’il a ressenti, les autres changements qu’il a éventuellement remarqués et ce qui a rendu possible la suite. L’équipe peut reprendre ces éléments avec lui en tenant compte de son histoire et de son état de santé. Les aides qu’il souhaite préparer pourront varier selon qu’il se trouve seul, avec ses collègues ou au milieu des anciens. Son propre but reste important. Ce mercredi, il voulait écouter avec Mélissa la voix de la marchande et lui demander ce qu’elle entendait derrière."
+          "heading": "3 techniques pour traverser une envie associée à une invitation",
+          "points": [
+            {
+              "heading": "Nommer le déclencheur sur le moment",
+              "objective": "Reconnaître l’envie avant d’en faire une décision.",
+              "exercise": [
+                "Repérez ce qui vient d’arriver.",
+                "Dites en une phrase ce qui vous attire.",
+                "Gardez une note pour la consultation si elle vous est utile."
+              ],
+              "benefit": "Vous pourrez situer ce qui a changé à cet instant."
+            },
+            {
+              "heading": "Utiliser un trajet de repli",
+              "objective": "Reprendre la direction de l’activité choisie.",
+              "exercise": [
+                "Identifiez un autre passage praticable.",
+                "Demandez au proche convenu s’il peut marcher avec vous.",
+                "Continuez par le trajet choisi même s’il ne peut pas venir."
+              ],
+              "benefit": "Vous pouvez garder un choix pendant que l’envie est encore présente."
+            },
+            {
+              "heading": "Répondre après la décision du jour",
+              "objective": "Ne pas se retrouver engagé en relisant le message.",
+              "exercise": [
+                "Mettez le message de côté un moment.",
+                "Revenez à la tâche prévue.",
+                "Décidez ensuite si vous souhaitez répondre."
+              ],
+              "benefit": "La réponse peut être choisie hors du moment le plus pressant."
+            }
+          ]
         }
       ],
       "ending_title": "Garder le son du bois",
@@ -145,7 +315,8 @@
       "continuity": {
         "choice": "Éric demande à Pascal un bref trajet ailleurs que devant le café et revient écouter le premier enregistrement avec Mélissa.",
         "next": "Le bruit des cagettes est conservé. Éric dispose d’un exemple récent à raconter en consultation."
-      }
+      },
+      "conclusion": "Pascal accompagne Éric jusqu’à la boulangerie et Éric retrouve Mélissa. L’envie n’a pas disparu pour autant. En consultation, il distinguera ce qu’il a ressenti devant le café de symptômes survenus après une baisse."
     },
     {
       "number": 4,
@@ -164,18 +335,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que renseigne le moment où un signe apparaît",
-          "text": "La tolérance peut se traduire par un effet moins marqué pour une consommation comparable. Le sevrage peut survenir après une diminution ou un arrêt, lorsque le corps s’est adapté à l’alcool. Des tremblements ou des sueurs méritent d’être replacés dans ce qui précède et examinés par un professionnel. D’autres problèmes de santé peuvent entraîner des sensations proches."
+          "heading": "Envie, tolérance et sevrage",
+          "text": "L’envie de boire peut surgir en réponse à un contexte, même sans changement récent de consommation. La tolérance décrit un effet moins marqué pour une consommation comparable. Le sevrage peut suivre une diminution ou un arrêt, et les symptômes peuvent avoir d’autres causes. Une réduction brusque peut être dangereuse en cas de dépendance. Un professionnel évalue le risque et les soins nécessaires."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’envie qu’Éric a éprouvée sur la place suit l’invitation et le rappel d’une situation familière. Son histoire ancienne de signes physiques apporte au médecin une autre information. Une dépendance peut se manifester par des difficultés répétées de maîtrise et de priorité, avec des signes physiques qui varient selon les personnes. Éric peut décrire ce qu’il vit aujourd’hui sans en déduire seul le risque de sevrage."
+          "heading": "Comment ces expériences se distinguent-elles dans le temps ?",
+          "points": [
+            {
+              "heading": "Une envie liée à une situation",
+              "text": "Elle peut devenir pressante à la vue d’un lieu associé à la consommation.",
+              "examples": [
+                "Éric relit la photo devant le café.",
+                "Une personne éprouve une forte envie en recevant une invitation familière sans avoir récemment modifié sa consommation."
+              ]
+            },
+            {
+              "heading": "Un effet qui n’est plus le même",
+              "text": "La tolérance concerne la réponse du corps au fil du temps.",
+              "examples": [
+                "Éric se rappelle que l’alcool lui faisait moins d’effet à une autre période.",
+                "Une personne signale au médecin un effet moins marqué dans des circonstances comparables."
+              ]
+            },
+            {
+              "heading": "Des signes après un changement",
+              "text": "Leur lien avec une diminution ou un arrêt demande un avis médical, même si la personne reconnaît la sensation.",
+              "examples": [
+                "Éric décrit des tremblements et des sueurs après avoir réduit brusquement.",
+                "Une personne remarque des sueurs inhabituelles après une baisse récente."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander une évaluation avant un changement important",
-          "text": "Une baisse brusque après une consommation importante peut entraîner des complications graves. Le médecin évalue le risque en tenant compte du vécu d’Éric, de sa consommation récente, de ses antécédents et de son état physique. Les professionnels peuvent organiser un accompagnement et décider où les soins doivent avoir lieu. La difficulté ressentie le mercredi n’indique pas à elle seule quel accompagnement serait nécessaire.\n\nÉric demande à connaître le contact adapté si des signes reviennent ou si sa consommation change. Son équipe lui propose de noter le numéro du centre dans son téléphone et vérifie avec lui les situations qui demanderaient une aide urgente. Elle pourra revoir ces repères s’il revient avec une histoire différente."
+          "heading": "3 techniques pour décrire ce qui se passe et demander un avis médical",
+          "points": [
+            {
+              "heading": "Donner deux récits séparés",
+              "objective": "Aider l’équipe à distinguer le contexte et les signes physiques.",
+              "exercise": [
+                "Décrivez l’occasion où l’envie est venue.",
+                "Décrivez séparément les symptômes et ce qui a précédé.",
+                "Signalez les éléments dont vous ne vous souvenez pas."
+              ],
+              "benefit": "La chronologie peut guider l’évaluation sans vous demander de conclure vous-même."
+            },
+            {
+              "heading": "Préparer une modification avec le médecin",
+              "objective": "Éviter de décider seul d’une baisse brutale en cas de dépendance.",
+              "exercise": [
+                "Parlez de la consommation actuelle au professionnel.",
+                "Signalez les réactions déjà éprouvées après une baisse.",
+                "Demandez quel cadre médical convient avant tout changement."
+              ],
+              "benefit": "L’équipe peut évaluer le risque et organiser les soins nécessaires."
+            },
+            {
+              "heading": "Retrouver le recours en cas de signes",
+              "objective": "Savoir où demander une aide adaptée à la situation.",
+              "exercise": [
+                "Vérifiez le numéro médical avec l’équipe.",
+                "Demandez quand l’utiliser et quand joindre les urgences.",
+                "Gardez ces consignes accessibles."
+              ],
+              "benefit": "Vous pourrez agir sans attendre de savoir vous-même ce qui cause les symptômes."
+            }
+          ]
         }
       ],
       "ending_title": "Un numéro à côté du prénom",
@@ -191,37 +418,94 @@
       "continuity": {
         "choice": "Éric distingue les événements avec le médecin et enregistre le contact du centre. Il réfléchit à une coordination avec son médecin habituel.",
         "next": "L’équipe lui a expliqué quand demander un avis ou un secours urgent. Éric a la proposition de coordination à reprendre."
-      }
+      },
+      "conclusion": "Éric laisse le médecin interpréter ses signes physiques et garde le contact indiqué. Une envie devant le café ne suffit pas à parler de sevrage. Il réfléchit ensuite aux renseignements qui seraient utiles à son médecin habituel."
     },
     {
       "number": 5,
       "slug": "eric-soins-qui-se-parlent",
-      "title": "Accorder ses soins quand le travail et la santé se croisent",
-      "description": "Éric choisit ce que le centre peut partager avec son médecin et ce qu’il veut dire à Mélissa sur sa disponibilité.",
-      "context": "Une semaine plus tard, entre la cuisine de l’école et l’appel du centre",
+      "title": "Suivre les effets de l’alcool sur la santé entre deux consultations",
+      "description": "Entre la cuisine et la consultation, Éric veut que son médecin dispose des informations utiles sur sa consommation pour examiner sa santé physique.",
+      "context": "Articuler les informations sur la consommation et la santé physique.",
       "topics": [
-        "Suivi somatique",
-        "Coordination des soins",
-        "Choix du patient"
+        "Dépendance à l’alcool",
+        "Santé physique",
+        "Suivi addictologique coordonné"
       ],
-      "clinical_focus": "Coordination du suivi addictologique",
-      "clinical_intro": "Éric prépare le menu avec Mélissa et pense à l’appel du centre qu’il risque de manquer. Il hésite à coordonner ses rendez-vous avec son médecin habituel parce qu’il tient à choisir ce qui sera partagé. Cette scène montre comment le suivi de la dépendance peut tenir compte de la santé physique, du quotidien et des décisions de la personne.",
+      "clinical_focus": "Suivi des effets physiques de la dépendance",
+      "clinical_intro": "Entre deux essais de soupe, Éric attend l’appel du centre. Il veut que son médecin habituel puisse tenir compte des changements de sa consommation quand ils parleront de sa santé physique. Il ne sait pas encore quel renseignement doit circuler. Le suivi de la dépendance peut articuler l’évaluation médicale et le travail sur la consommation à partir des besoins qu’il exprime.",
       "opening": "Mélissa pose une louche de soupe dans une assiette blanche et la pousse de son côté. Éric avait ajouté les feuilles des poireaux du marché pour retrouver un goût qu’il connaissait d’un restaurant où il travaillait autrefois. Il goûte en pensant à un appel qu’il risque de manquer. Une infirmière du centre doit lui téléphoner pendant la pause pour savoir s’il accepte de mettre en lien le docteur Lenoir et son médecin habituel. Il voudrait dire oui pour que chacun ait les informations dont il a besoin. Il a aussi peur que son médecin ne voie plus que cela quand il viendra lui parler d’autre chose.\n\nMélissa lui demande s’il veut prendre ses prochaines heures de pause avec elle pour choisir deux variantes du menu. Il a envie d’accepter. Il pense à des rendez-vous qu’il a déplacés parce que les reprendre au milieu des préparatifs lui semblait trop compliqué. Il dit qu’il peut faire un essai aujourd’hui et qu’il a déjà prévu un appel sur une partie de la pause. Mélissa lui demande de lui signaler quand il doit sortir, parce qu’elle devra finir de noter les ingrédients avant de ranger. Cette réponse le soulage. Il savait lui donner l’heure où il serait disponible. Il n’avait encore trouvé aucun mot qu’il aurait voulu employer devant elle pour parler du reste.\n\nDans le couloir, au moment de décrocher, il ressort le carton. À l’infirmière, il demande quel résumé sera envoyé et qui pourra le lire. Il aimerait que le médecin habituel puisse tenir compte de ses derniers changements de consommation quand ils parleront de son état physique. Il hésite à transmettre ce qu’il avait raconté sur Joëlle. L’infirmière lui propose de préciser le contenu utile avec le docteur Lenoir.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Plusieurs dimensions à suivre ensemble",
-          "text": "Un suivi de la dépendance à l’alcool peut réunir des questions médicales, psychologiques et sociales. Le médecin habituel peut évaluer l’état général, reprendre les symptômes rapportés et coordonner les examens nécessaires.\n\nL’équipe d’addictologie peut travailler avec Éric sur la consommation, les reprises et les situations où il perd la maîtrise. La transmission entre professionnels peut se discuter à partir de ce qui est utile à ses soins."
+          "heading": "Pourquoi les deux suivis se rejoignent",
+          "text": "La dépendance à l’alcool peut avoir des conséquences qui se voient dans la santé physique et dans le quotidien. Le médecin habituel peut évaluer l’état général et les symptômes. Le service d’addictologie suit aussi la consommation, les reprises et les circonstances où sa maîtrise devient difficile. Pour Éric, relier ces deux suivis permet de discuter de la suite des soins avec les informations utiles à chacun."
         },
         {
           "role": "manifestations",
-          "heading": "Les rendez-vous qu’il essaie de garder dans sa semaine",
-          "text": "La consommation a déjà pesé sur l’agenda d’Éric, jusque dans les fins de journée qu’il laissait libres pour retrouver ses amis. Aujourd’hui, il remarque une autre contrainte. Il a déjà déplacé des rendez-vous quand les préparatifs du repas lui prenaient toute la place. Il tient cette fois à garder l’heure de son appel. Il veut que son médecin puisse tenir compte des changements de consommation et hésite à transmettre ce qu’il a raconté sur Joëlle."
+          "heading": "Comment un suivi partagé peut-il éclairer les effets sur la santé ?",
+          "points": [
+            {
+              "heading": "Un fait de consommation éclaire un symptôme à évaluer",
+              "text": "Les événements récents donnent un contexte médical utile.",
+              "examples": [
+                "Éric veut que son médecin connaisse les derniers changements quand ils parleront de son état physique.",
+                "Une personne mentionne une baisse récente quand elle demande un avis sur des tremblements."
+              ]
+            },
+            {
+              "heading": "Des questions différentes sont à suivre",
+              "text": "L’examen de la santé et le travail sur les difficultés à réguler la consommation ont chacun leur place.",
+              "examples": [
+                "Éric revoit le moment où il lui devient difficile de partir du café au centre.",
+                "Une personne discute des examens nécessaires avec son médecin et de ses invitations difficiles en addictologie."
+              ]
+            },
+            {
+              "heading": "Le quotidien peut compliquer la continuité",
+              "text": "Un suivi utile doit pouvoir trouver sa place dans la journée de la personne.",
+              "examples": [
+                "Éric réserve une partie de sa pause à l’appel du centre.",
+                "Une personne reporte un rendez-vous faute d’avoir prévu comment quitter le travail à temps."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre les rendez-vous compatibles avec les engagements",
-          "text": "Éric peut demander au centre quand il sera possible de discuter du résumé et en reprendre les termes avant l’envoi. S’il souhaite un relais pour un symptôme physique, cette information peut être distinguée des détails d’une conversation privée. Il peut aussi indiquer ses contraintes de travail pour trouver un moment où il pourra répondre et se concentrer. L’équipe peut chercher avec lui des objectifs qui tiennent compte de ses besoins et des risques évalués.\n\nAvec Mélissa, Éric tient à finir un menu commun. Il peut annoncer une disponibilité précise et choisir plus tard s’il souhaite en dire davantage. Sa collègue peut organiser la fin de la pause sur la base de cette information. Un rendez-vous maintenu dans le soin et un accord clair au travail réduisent les occasions de devoir tout réorganiser au dernier moment."
+          "heading": "3 techniques pour préparer le lien entre ses interlocuteurs de soins",
+          "points": [
+            {
+              "heading": "Nommer la question qui relie les deux suivis",
+              "objective": "Savoir ce qui doit être examiné avec quel interlocuteur.",
+              "exercise": [
+                "Notez un changement dont vous souhaitez parler.",
+                "Dites quelle question de santé vous vous posez.",
+                "Demandez qui reprendra ce point avec vous."
+              ],
+              "benefit": "Chaque échange peut partir d’un besoin précis."
+            },
+            {
+              "heading": "Relire le résumé prévu",
+              "objective": "Convenir du contenu utile avec l’équipe.",
+              "exercise": [
+                "Demandez qui recevra le résumé.",
+                "Repérez les informations médicales utiles.",
+                "Posez vos questions sur ce que vous préférez garder dans l’entretien."
+              ],
+              "benefit": "Vous pouvez discuter de la transmission avant qu’elle se fasse."
+            },
+            {
+              "heading": "Réserver le moment de l’échange",
+              "objective": "Garder un créneau de soins sans imposer au collègue de deviner la suite.",
+              "exercise": [
+                "Choisissez un moment compatible avec votre horaire.",
+                "Dites quand vous devrez vous absenter.",
+                "Convenez de ce qui sera repris à votre retour."
+              ],
+              "benefit": "L’équipe de travail peut s’organiser et vous pouvez prendre l’appel."
+            }
+          ]
         }
       ],
       "ending_title": "La feuille du menu reste sur le comptoir",
@@ -237,7 +521,8 @@
       "continuity": {
         "choice": "Éric prévoit de revoir le résumé de coordination avec le docteur Lenoir et fixe avec Mélissa une rencontre avec Gérald.",
         "next": "Le menu est prêt pour mardi. Éric veut présenter le coin d’écoute et déterminer à qui il parlera de sa situation."
-      }
+      },
+      "conclusion": "Éric veut que son médecin puisse lire les changements utiles à sa santé et demande à revoir le résumé. Mélissa a surtout besoin de connaître son heure de retour. La prochaine réunion posera autrement la question de ce qu’il souhaite dire."
     },
     {
       "number": 6,
@@ -261,13 +546,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "La question banale qu’il entend comme un jugement",
-          "text": "Gérald lui demande si la camionnette a dû attendre. Éric imagine qu’on le verra désormais comme « celui qui boit ». Il envisage de ranger le micro et de reporter l’écoute alors même qu’il est venu pour la proposer. Quand il répond au sujet du rendez-vous manqué, Gérald lui pose une question sur l’accord de diffusion. Éric choisit ensuite un autre endroit pour parler de son suivi à Mélissa."
+          "heading": "Comment la honte peut-elle faire reculer une conversation sur l’alcool ?",
+          "points": [
+            {
+              "heading": "La réaction attendue déborde les faits",
+              "text": "On peut craindre que toute l’activité soit désormais lue à travers la consommation.",
+              "examples": [
+                "La question de Gérald sur le rendez-vous fait craindre à Éric de n’être vu que comme « celui qui boit ».",
+                "Une personne redoute que chaque retard soit désormais interprété de la même façon."
+              ]
+            },
+            {
+              "heading": "L’envie d’écourter arrive vite",
+              "text": "Quitter la scène peut sembler plus supportable que d’attendre la réponse des autres.",
+              "examples": [
+                "Éric pense à ranger le câble ou à invoquer un problème de micro.",
+                "Une personne envisage d’annuler une réunion qui compte plutôt que d’y répondre à une question."
+              ]
+            },
+            {
+              "heading": "Le silence bloque une demande précise",
+              "text": "Garder tout pour soi peut empêcher de chercher l’appui souhaité.",
+              "examples": [
+                "Éric hésite avant de demander à Mélissa de l’aider pour le passage au casque.",
+                "Quelqu’un ne dit pas à un proche qu’il apprécierait un appel avant une sortie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir un interlocuteur et un périmètre",
-          "text": "Éric peut répondre à Gérald au sujet du rendez-vous et de l’accord de diffusion. Il peut parler plus tard à Mélissa, dans un endroit où il se sent à l’aise. Sa collègue peut entendre la difficulté et rappeler qu’elle a besoin d’être prévenue si un horaire change. La confiance se discute à partir des actes qui les concernent et de la place que chacun veut tenir.\n\nParler à une personne choisie ne met pas la honte à distance pour de bon. Éric pourra encore hésiter à raconter une reprise ou à demander du temps pour un rendez-vous. L’équipe peut l’aider à distinguer le jugement qu’il anticipe, ce qui s’est passé et ce qu’il voudrait demander. Il a déjà dans le récit une expérience où sa demande de confidentialité a pu être entendue. Il peut s’en servir pour chercher les mots qui lui conviendront avec d’autres personnes."
+          "heading": "3 techniques pour aborder une difficulté dans un cadre choisi",
+          "points": [
+            {
+              "heading": "Distinguer le fait du jugement redouté",
+              "objective": "Trouver une phrase qui répond à la question réelle.",
+              "exercise": [
+                "Notez l’engagement qui a changé.",
+                "Formulez ce que vous pouvez dire sur ce fait.",
+                "Laissez à l’autre le temps de répondre."
+              ],
+              "benefit": "Une conversation peut avancer sans discuter de toute votre santé."
+            },
+            {
+              "heading": "Choisir à qui en parler",
+              "objective": "Garder la maîtrise de ce que vous souhaitez partager.",
+              "exercise": [
+                "Choisissez une personne et un endroit adaptés.",
+                "Dites la partie que vous voulez raconter.",
+                "Précisez ce qui doit rester entre vous."
+              ],
+              "benefit": "L’échange peut se faire avec des limites claires."
+            },
+            {
+              "heading": "Faire une demande concrète",
+              "objective": "Préciser ce que le proche peut accepter ou refuser.",
+              "exercise": [
+                "Décrivez le besoin du projet.",
+                "Proposez un rôle limité dans le temps.",
+                "Demandez ce que l’autre peut réellement faire."
+              ],
+              "benefit": "Son appui peut être utile sans devenir un rôle de soin."
+            }
+          ]
         }
       ],
       "ending_title": "Le temps annoncé pour chacun",
@@ -283,7 +624,8 @@
       "continuity": {
         "choice": "Éric partage une information avec Mélissa en privé et fixe avec elle le principe du passage du service au coin d’écoute.",
         "next": "Mélissa connaît la situation et son périmètre. Gérald a inscrit le coin d’écoute au plan. Un essai est prévu une semaine avant."
-      }
+      },
+      "conclusion": "Éric dit à Gérald ce qui s’est passé et réserve une conversation plus personnelle à Mélissa. Elle lui indique le relais qu’elle peut tenir. À la fanfare, un refus à formuler soulèvera une autre crainte."
     },
     {
       "number": 7,
@@ -307,13 +649,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand l’invitation arrive, la perspective de perdre les photos et le moment partagé rend le refus plus coûteux. Le fait de vouloir garder des amis mérite sa place dans la discussion clinique.\n\nLes soins peuvent prendre en compte les situations sociales et les ressources dont la personne dispose. Éric peut parler de ce qui lui donne envie d’y aller et chercher comment retrouver une part de ces échanges ailleurs. Les occasions de se voir n’ont pas toutes la même signification pour lui."
+          "heading": "Comment la peur de perdre sa place peut-elle rendre un refus difficile ?",
+          "points": [
+            {
+              "heading": "Le verre et l’appartenance semblent aller ensemble",
+              "text": "Une invitation peut réunir ce que la personne veut garder et ce qui lui pose problème.",
+              "examples": [
+                "Les photos que veut voir Éric seront montrées au café.",
+                "Une personne aimerait rester avec ses amis après une répétition et redoute d’y boire."
+              ]
+            },
+            {
+              "heading": "Le silence après le refus est redouté",
+              "text": "La crainte d’une réaction peut peser avant même que quelqu’un insiste.",
+              "examples": [
+                "Éric envisage de dire oui pour éviter le malaise qui suivrait son refus.",
+                "Une personne accepte une sortie de peur qu’on ne l’invite plus la prochaine fois."
+              ]
+            },
+            {
+              "heading": "Le lien peut avoir une autre occasion",
+              "text": "Faire une proposition précise permet de voir ce que l’amitié peut porter ailleurs.",
+              "examples": [
+                "Éric propose de regarder les photos à la prochaine répétition.",
+                "Une personne décline le bar et donne rendez-vous à un ami pour marcher le lendemain."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une réponse assez courte pour rester utilisable",
-          "text": "Éric a prévu une phrase sur ce qu’il fera à la fin de la répétition. Elle lui permet de répondre à Gérald en laissant sa santé dans la sphère qu’il a choisie. Il peut demander à voir les photos au prochain rendez-vous. Gérald a le droit de préférer les montrer au café. Éric pourra alors décider ce qu’il souhaite faire de cette déception.\n\nAvec Pascal, le temps convenu est celui d’une écoute et s’arrête quand Pascal doit partir. Ce soutien peut donner une suite au rendez-vous sans transformer un ami en surveillant. Éric pourra reprendre en consultation les invitations où sa réponse est plus difficile à tenir et celles où une autre façon de se retrouver lui convient."
+          "heading": "3 techniques pour décliner une sortie en gardant le lien souhaité",
+          "points": [
+            {
+              "heading": "Préparer une réponse courte",
+              "objective": "Garder une phrase possible sans dévoiler le suivi.",
+              "exercise": [
+                "Nommez la partie de l’invitation que vous déclinez.",
+                "Préparez une phrase simple.",
+                "Répétez-la si on vous pose de nouveau la question."
+              ],
+              "benefit": "Vous pourrez répondre sans improviser une justification."
+            },
+            {
+              "heading": "Proposer une suite précise",
+              "objective": "Garder un point de rencontre autour de ce qui vous plaît.",
+              "exercise": [
+                "Choisissez une activité que vous voulez partager.",
+                "Proposez un lieu ou un moment.",
+                "Demandez si l’autre en a envie."
+              ],
+              "benefit": "Le lien peut continuer selon un nouvel accord."
+            },
+            {
+              "heading": "Prévoir un appui à la fin de la rencontre",
+              "objective": "Éviter de décider seul dans le moment le plus hésitant si vous souhaitez de l’aide.",
+              "exercise": [
+                "Demandez à un proche s’il peut rester un peu.",
+                "Convenez d’une durée.",
+                "Préparez aussi ce que vous ferez s’il doit partir."
+              ],
+              "benefit": "Le soutien peut rester possible sans rendre l’ami responsable de votre choix."
+            }
+          ]
         }
       ],
       "ending_title": "La photo pliée dans le dossier",
@@ -329,7 +727,8 @@
       "continuity": {
         "choice": "Éric décline le café, prévoit de revoir des photos et écoute un extrait avec Pascal après la répétition.",
         "next": "Gérald attend la photo au prochain rendez-vous. L’essai du coin d’écoute reste à organiser avant le repas."
-      }
+      },
+      "conclusion": "Éric reste dans la salle avec Pascal et Gérald lui prête la photo. Le café continue sans lui cette fois. Une soirée suivante se passera autrement et lui donnera une raison de reprendre contact avec le centre."
     },
     {
       "number": 8,
@@ -353,13 +752,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le premier refus qu’Éric a pu formuler à la répétition reste une expérience utile. Dans la situation suivante, le café est revenu comme suite immédiate de la rencontre, alors qu’il était venu rendre une photo. La discussion peut porter sur cette différence et sur les conséquences pour Joëlle. Parler du détail facilite un ajustement plus précis qu’une promesse générale d’aller mieux."
+          "heading": "Comment une reprise peut-elle modifier le besoin de soins ?",
+          "points": [
+            {
+              "heading": "Un épisode devient une répétition",
+              "text": "Ce qui recommence peut prendre une forme différente de celle attendue.",
+              "examples": [
+                "Éric boit après une répétition puis à d’autres moments.",
+                "Une personne retrouve plusieurs fois une difficulté à partir après un premier soir."
+              ]
+            },
+            {
+              "heading": "Le rendez-vous ordinaire paraît difficile à tenir",
+              "text": "Attendre d’avoir une meilleure nouvelle peut priver l’équipe d’une information utile.",
+              "examples": [
+                "Éric pense annuler au lieu de dire ce qui a changé.",
+                "Une personne prépare un prétexte alors que ses difficultés s’accentuent."
+              ]
+            },
+            {
+              "heading": "La santé du jour change la priorité",
+              "text": "Une reprise peut justifier de revoir avec l’équipe le délai ou le type d’aide.",
+              "examples": [
+                "L’infirmière demande à Éric comment il va ce matin.",
+                "Une personne signale à l’appel des symptômes apparus depuis le rendez-vous précédent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser l’équipe évaluer l’urgence du moment",
-          "text": "Après plusieurs reprises, le suivi peut devoir être rapproché. L’équipe vérifie l’état de la personne, les risques de sevrage et les besoins de soins ou d’orientation. Éric peut expliquer ce qu’il connaît de ses antécédents et signaler tout signe récent. Le choix d’un accompagnement appartient aux professionnels avec lui, en fonction des risques du moment.\n\nL’attente d’avoir de bonnes nouvelles pourrait retarder cette évaluation. Éric peut garder des projets au village et demander un délai pour les engagements qu’il ne peut plus garantir. Mélissa saura ce qu’elle doit préparer. Le centre peut l’aider à traiter les changements de santé au rythme où ils se présentent."
+          "heading": "3 techniques pour reprendre contact quand la consommation recommence",
+          "points": [
+            {
+              "heading": "Ouvrir l’échange par le changement",
+              "objective": "Permettre au centre de situer la situation actuelle.",
+              "exercise": [
+                "Appelez au numéro convenu.",
+                "Dites que vous avez repris et si cela s’est répété.",
+                "Expliquez comment vous vous sentez aujourd’hui."
+              ],
+              "benefit": "L’équipe peut décider si un avis plus proche est indiqué."
+            },
+            {
+              "heading": "Demander la conduite à tenir",
+              "objective": "Savoir qui appeler entre deux échanges.",
+              "exercise": [
+                "Confirmez la date qui vous est proposée.",
+                "Demandez quels changements doivent faire rappeler ou demander une aide urgente.",
+                "Notez le contact indiqué."
+              ],
+              "benefit": "Le prochain geste peut être clair si l’état se modifie."
+            },
+            {
+              "heading": "Informer le proche sur ce qui le concerne",
+              "objective": "Reconnaître les conséquences sans lui demander de gérer les soins.",
+              "exercise": [
+                "Dites quel engagement a été touché.",
+                "Précisez si vous avez déjà joint l’équipe.",
+                "Proposez un moment qui respecte sa disponibilité."
+              ],
+              "benefit": "Le proche peut faire ses choix avec l’information utile."
+            }
+          ]
         }
       ],
       "ending_title": "L’heure avancée sur le carton",
@@ -375,7 +830,8 @@
       "continuity": {
         "choice": "Éric raconte les reprises au centre, accepte un rendez-vous le lendemain et en informe Joëlle.",
         "next": "Joëlle passe le lendemain avant le rendez-vous. Le centre et le médecin habituel connaissent le suivi en cours."
-      }
+      },
+      "conclusion": "Éric appelle malgré sa honte et le centre avance le rendez-vous. Joëlle vient chercher le disque sans avoir à assurer le suivi. Le lendemain, un changement rapide de son état fera passer l’aide urgente en premier."
     },
     {
       "number": 9,
@@ -399,13 +855,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le changement que Joëlle constate en arrivant",
-          "text": "Éric tremble. Il demande à Joëlle à quelle heure leur mère doit rentrer et lui parle de la salle des fêtes alors qu’elle vient récupérer le disque. Par moments, elle a du mal à suivre ce qu’il dit. Elle sait qu’il a signalé une reprise de consommation et qu’un rendez-vous est prévu, mais elle ignore ce qui s’est passé depuis. C’est le changement soudain qu’elle décrit aux secours. Les soignants en rechercheront la cause."
+          "heading": "Comment une confusion soudaine peut-elle se manifester ?",
+          "points": [
+            {
+              "heading": "Les repères du jour se mélangent",
+              "text": "Une personne peut ne plus situer une rencontre, un lieu ou le moment présent.",
+              "examples": [
+                "Éric confond la visite pour le disque avec les préparatifs du repas.",
+                "Une personne croit devoir partir à un rendez-vous de la veille."
+              ]
+            },
+            {
+              "heading": "Le fil de l’échange se défait",
+              "text": "Une explication simple peut être oubliée ou devenir difficile à suivre.",
+              "examples": [
+                "Éric demande à nouveau de quel disque il s’agit et s’interroge sur le retour de sa mère.",
+                "Une personne pose plusieurs fois la même question sans pouvoir reprendre la réponse."
+              ]
+            },
+            {
+              "heading": "D’autres signes accompagnent parfois le changement",
+              "text": "Un tremblement peut faire partie du tableau, sans en établir la cause.",
+              "examples": [
+                "Joëlle voit les mains d’Éric trembler pendant qu’il perd ses repères.",
+                "Un proche signale une confusion et des sueurs inhabituelles sans savoir ce qui les explique."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Ce que la sœur peut transmettre dans ce moment",
-          "text": "Joëlle appelle aussitôt, même si un rendez-vous est prévu plus tard. Elle peut transmettre une information reçue directement, comme le message de la veille, dire quand elle a remarqué le changement et préciser ce qu’elle ignore. Son rôle porte sur le changement qu’elle voit et sur l’appel. Le professionnel qui répond peut préciser ce qu’il faut faire en attendant l’arrivée d’une équipe. En France, le 15 ou le 112 permettent de joindre des secours pour une urgence médicale.\n\nAprès le relais, l’évaluation et les décisions de traitement passent aux soignants. Joëlle peut demander à qui parler pour être informée de la suite, dans le cadre qu’Éric voudra et pourra fixer. Son propre travail, le disque et le repas peuvent être repris plus tard. Dans l’immédiat, elle a reconnu qu’il fallait appeler et a fourni les renseignements qu’elle connaissait."
+          "heading": "3 techniques pour appeler les secours et leur passer le relais",
+          "points": [
+            {
+              "heading": "Appeler dès le changement rapide",
+              "objective": "Faire évaluer une urgence médicale sans attendre le rendez-vous prévu.",
+              "exercise": [
+                "Composez le 15 ou le 112 en France.",
+                "Donnez l’adresse où se trouve la personne.",
+                "Dites en quoi son état vient de changer."
+              ],
+              "benefit": "Les secours peuvent organiser l’aide sans que vous deviez poser un diagnostic."
+            },
+            {
+              "heading": "Transmettre les faits que vous connaissez",
+              "objective": "Donner une chronologie utile à la personne qui répond.",
+              "exercise": [
+                "Indiquez le dernier moment où l’état vous paraissait habituel.",
+                "Décrivez les signes observés et les informations récentes dont vous disposez.",
+                "Dites clairement ce que vous ignorez."
+              ],
+              "benefit": "Le professionnel peut orienter l’évaluation à partir de faits fiables."
+            },
+            {
+              "heading": "Suivre le relais indiqué",
+              "objective": "Laisser l’équipe décider de l’évaluation et des soins.",
+              "exercise": [
+                "Écoutez les consignes de la personne au téléphone.",
+                "Restez disponible pour les précisions demandées.",
+                "Répétez les informations utiles à l’équipe quand elle arrive."
+              ],
+              "benefit": "Le relais peut se faire sans imposer au proche de traiter la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Le disque reste sur le buffet",
@@ -421,7 +933,8 @@
       "continuity": {
         "choice": "Joëlle appelle le 15 devant la confusion et l’équipe médicale assure le relais.",
         "next": "Éric est pris en charge et pourra convenir de la suite avec les soignants. Le projet sonore reste en pause."
-      }
+      },
+      "conclusion": "Joëlle appelle parce que la confusion apparaît vite, sans attendre de savoir si l’alcool est en cause. Les soignants font cette évaluation. Après leur intervention, Éric pourra reprendre le suivi et entendre ce que Joëlle a vécu."
     },
     {
       "number": 10,
@@ -445,13 +958,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Les heures où Joëlle attendait de savoir s’il viendrait",
-          "text": "Le disque a été une raison de se voir et le matin où Joëlle est passée a aussi été celui des secours. Dans le garage, elle parle d’autres moments où elle avait attendu l’appel d’Éric avant de pouvoir organiser son après-midi. Éric voudrait d’abord lui dire que ses soins ont repris. En lui demandant quel rendez-vous elle a en tête, il entend ce que l’attente a changé pour elle, jusque dans le trajet qu’ils devaient faire ensemble."
+          "heading": "Comment les rendez-vous manqués continuent-ils de peser sur la confiance ?",
+          "points": [
+            {
+              "heading": "Le proche a sa propre mémoire du retard",
+              "text": "Une amélioration de la santé ne change pas ce que l’autre a dû organiser.",
+              "examples": [
+                "Joëlle se rappelle l’après-midi gardé libre.",
+                "Une personne refuse de réserver à nouveau un trajet avant d’avoir une heure confirmée."
+              ]
+            },
+            {
+              "heading": "La peur vécue pendant l’urgence reste présente",
+              "text": "Les suites médicales et les conséquences pour le proche ne se règlent pas forcément ensemble.",
+              "examples": [
+                "Joëlle reparle du matin où elle a appelé les secours.",
+                "Une personne souhaite raconter ce qu’elle a vu avant de reprendre un projet commun."
+              ]
+            },
+            {
+              "heading": "Un geste limité peut être acceptable",
+              "text": "Le proche peut vouloir partager un moment sans reprendre tous les engagements.",
+              "examples": [
+                "Joëlle accepte un enregistrement et reporte la discussion du trajet.",
+                "Quelqu’un accepte de rendre un objet ensemble et réserve la sortie pour une autre date."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une proposition que l’autre peut accepter ou refuser",
-          "text": "Éric propose une écoute qui peut avoir lieu maintenant, dans la durée que Joëlle a choisie. Elle n’a pas besoin de réserver une après-midi ni de s’engager à l’accompagner à d’autres rendez-vous. Ils pourront préparer le trajet qui reste à organiser à partir d’une date réelle et d’une autre possibilité pour Joëlle si nécessaire.\n\nLa consultation peut accueillir ce qu’Éric remarque dans ses liens depuis son retour. Les soignants peuvent l’aider à garder des activités choisies, à reprendre ses observations de santé et à définir les formes d’aide qu’il souhaite. La conversation avec Joëlle a aussi son sens propre. Elle leur permet de retrouver un sujet qu’ils ont envie de partager."
+          "heading": "3 techniques pour réparer un engagement à la mesure des deux personnes",
+          "points": [
+            {
+              "heading": "Nommer le rendez-vous en cause",
+              "objective": "Répondre à la conséquence précise que l’autre a vécue.",
+              "exercise": [
+                "Demandez quel moment il a en tête.",
+                "Écoutez ce qu’il a dû changer.",
+                "Reconnaissez votre part sans lui demander d’être rassuré."
+              ],
+              "benefit": "Chacun peut être entendu sur ce qui s’est passé."
+            },
+            {
+              "heading": "Proposer un geste vérifiable",
+              "objective": "Choisir une réparation qu’on peut tenir maintenant.",
+              "exercise": [
+                "Identifiez ce qui peut être fait aujourd’hui.",
+                "Demandez combien de temps l’autre veut y consacrer.",
+                "Laissez les autres projets ouverts."
+              ],
+              "benefit": "La rencontre peut se terminer sur un accord réellement tenu."
+            },
+            {
+              "heading": "Séparer les prochains rendez-vous",
+              "objective": "Éviter de faire du proche le garant de la reprise des soins.",
+              "exercise": [
+                "Confirmez vos soins avec l’équipe.",
+                "Parlez séparément de la date partagée.",
+                "Convenez du moment où chacun pourra la confirmer."
+              ],
+              "benefit": "Les deux engagements peuvent avancer à des rythmes différents."
+            }
+          ]
         }
       ],
       "ending_title": "Écouter jusqu’au bruit des cagettes",
@@ -467,7 +1036,8 @@
       "continuity": {
         "choice": "Éric rend le disque, reconnaît les attentes manquées et fait une écoute brève avec Joëlle, qui choisit la durée.",
         "next": "Éric a une phrase d’accueil et confirme l’essai avec Mélissa. Le trajet avec Joëlle reste à discuter séparément."
-      }
+      },
+      "conclusion": "Joëlle choisit d’écouter un enregistrement et garde la suite du trajet ouverte. Éric reconnaît le temps qu’elle a attendu. Au repas de village, le passage du service à l’écoute mettra à l’épreuve un autre engagement précis."
     },
     {
       "number": 11,
@@ -491,13 +1061,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le repas donne à Éric une expérience différente de la répétition de la fanfare. Le travail qui vient de réussir et les remerciements lui donnent envie de prolonger la journée. Il peut remarquer ce que chacun de ces moments suscite et en parler au prochain rendez-vous."
+          "heading": "Comment un moment heureux peut-il raviver l’envie de boire ?",
+          "points": [
+            {
+              "heading": "Le plaisir rappelle une suite familière",
+              "text": "Un événement apprécié peut réveiller l’envie par l’habitude de le prolonger avec de l’alcool.",
+              "examples": [
+                "Le compliment sur la soupe rappelle à Éric les fins de service.",
+                "Une personne associe l’annonce d’une bonne nouvelle au verre pris d’habitude après."
+              ]
+            },
+            {
+              "heading": "La transition laisse place à l’ancien enchaînement",
+              "text": "Un rôle se termine et la suite n’est pas encore engagée.",
+              "examples": [
+                "Éric oublie un instant l’heure du casque en entendant l’invitation.",
+                "À la fin d’une activité réussie, une personne se dirige par habitude vers le lieu où elle allait boire."
+              ]
+            },
+            {
+              "heading": "L’envie peut accompagner le nouveau choix",
+              "text": "Une activité choisie reste possible alors que le désir de prolonger la fête est là.",
+              "examples": [
+                "Éric pense encore à l’autre table en accueillant le premier auditeur.",
+                "Une personne poursuit la rencontre prévue avec un ami et pense encore à la sortie qu’elle a déclinée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer d’un rôle à l’autre avec un accord concret",
-          "text": "Éric et Mélissa ont convenu d’un moment où elle reprend la louche et où il va au casque. Cet accord donne une forme à ce qu’il voulait faire et réduit le temps où il doit se décider à nouveau devant plusieurs propositions. Mélissa voit un service à tenir et peut lui dire quand elle est prête. Éric choisit la réponse à donner à Gérald et l’invite à écouter.\n\nLes aides peuvent être adaptées à une situation précise. Éric pourra raconter pourquoi le passage a été difficile même si la journée lui plaisait. Le soin peut s’appuyer sur ce qu’il découvre dans des moments agréables et sur la place qu’il souhaite continuer de donner à ses amis."
+          "heading": "3 techniques pour préparer la suite d’un moment qu’on souhaite fêter",
+          "points": [
+            {
+              "heading": "Préparer le passage entre deux rôles",
+              "objective": "Garder un repère quand l’ambiance change.",
+              "exercise": [
+                "Choisissez la tâche qui vient après.",
+                "Fixez le moment du relais avec le collègue.",
+                "Décidez quel signe annoncera qu’il prend la suite."
+              ],
+              "benefit": "Le prochain geste peut rester clair au milieu de la fête."
+            },
+            {
+              "heading": "Prévoir une façon de marquer la réussite",
+              "objective": "Préserver le plaisir dans une activité souhaitée.",
+              "exercise": [
+                "Choisissez ce que vous voulez célébrer.",
+                "Proposez un geste ou un échange à quelqu’un.",
+                "Donnez-vous le droit de vous en tenir à ce moment."
+              ],
+              "benefit": "La réussite peut garder une suite que vous avez choisie."
+            },
+            {
+              "heading": "Apporter une soirée agréable au suivi",
+              "objective": "Inclure les contextes positifs dans la discussion des envies.",
+              "exercise": [
+                "Notez le bon moment qui a précédé l’envie.",
+                "Décrivez la suite qui vous est venue en tête.",
+                "Dites ce qui vous a aidé à choisir."
+              ],
+              "benefit": "L’équipe peut tenir compte d’un contexte qu’on oublie parfois de lui raconter."
+            }
+          ]
         }
       ],
       "ending_title": "La photo entre le dessin et le casque",
@@ -513,7 +1139,8 @@
       "continuity": {
         "choice": "Éric passe la louche à Mélissa, anime le coin d’écoute et rend la photo à Gérald pendant l’événement.",
         "next": "Le repas et l’écoute ont eu lieu. Éric pourra revenir en soins sur l’envie après le service et décider s’il veut reprendre les entretiens."
-      }
+      },
+      "conclusion": "Éric passe la louche à Mélissa, même si la table des anciens l’attire encore. Gérald découvre le bruit du marché au casque. Cette envie apparue après une réussite aura aussi une place à la prochaine consultation."
     },
     {
       "number": 12,
@@ -537,13 +1164,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le projet aboutit et certaines invitations restent difficiles",
-          "text": "Éric a animé le coin d’écoute et a tenu ses rendez-vous de soin. Au repas, il est resté à regarder la table des anciens avec une envie de boire qui l’a surpris. Certaines journées sont plus faciles à organiser, et il lui arrive encore de faire plusieurs fois le tour de son appartement avant de répondre à un appel. Il apporte le programme en consultation pour parler de ces deux aspects."
+          "heading": "Comment une amélioration peut-elle coexister avec des envies persistantes ?",
+          "points": [
+            {
+              "heading": "Une activité choisie redevient possible",
+              "text": "Un rendez-vous tenu renseigne sur le quotidien sans résumer toute l’évolution.",
+              "examples": [
+                "Éric anime le coin d’écoute puis revient enregistrer au marché.",
+                "Une personne retrouve un créneau pour une activité qu’elle avait souvent manquée."
+              ]
+            },
+            {
+              "heading": "Certains contextes restent difficiles",
+              "text": "Une envie peut revenir même lorsque d’autres situations sont plus faciles.",
+              "examples": [
+                "Les invitations du soir occupent encore l’attention d’Éric.",
+                "Une personne se sent à l’aise dans un déjeuner et hésite face à une ancienne sortie."
+              ]
+            },
+            {
+              "heading": "Les appuis changent avec la situation",
+              "text": "Un contact accessible un jour peut manquer à un autre moment.",
+              "examples": [
+                "Éric compare une soirée où il pouvait appeler et une autre où il s’est retrouvé seul.",
+                "Une personne constate que l’aide convenue fonctionne en semaine mais reste à préciser le week-end."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une place pour les soins et une place pour le marché",
-          "text": "Le rendez-vous et l’entretien peuvent être prévus à des heures qui lui permettent de les faire l’un et l’autre. Éric pourra demander à Pascal quel mercredi lui convient. Il peut demander à son équipe de revenir sur les situations agréables qui l’ont surpris et sur la manière de la joindre quand il a besoin d’un avis. L’équipe peut reprendre avec lui la fréquence des difficultés, leurs circonstances et les appuis qui lui conviennent. L’ajustement du suivi dépendra de ce qu’ils auront évalué ensemble.\n\nÉcouter un habitant parler de son travail a du prix pour Éric en dehors du soin. Le projet lui donne envie de savoir ce qu’il entendra la prochaine fois au marché. Il peut aussi continuer de voir Joëlle quand ils en ont envie et laisser un rendez-vous en suspens quand il a besoin de connaître sa disponibilité."
+          "heading": "3 techniques pour faire le point sur une évolution irrégulière",
+          "points": [
+            {
+              "heading": "Apporter un progrès concret",
+              "objective": "Donner à l’équipe une information qui va au-delà d’une impression générale.",
+              "exercise": [
+                "Choisissez un engagement que vous avez tenu.",
+                "Décrivez la décision que cela a demandée.",
+                "Notez l’appui qui vous a servi."
+              ],
+              "benefit": "L’échange peut reconnaître ce qui a changé dans votre vie."
+            },
+            {
+              "heading": "Comparer deux envies récentes",
+              "objective": "Déterminer ce qui mérite encore du soutien.",
+              "exercise": [
+                "Reprenez deux circonstances différentes.",
+                "Décrivez l’aide accessible à chaque occasion.",
+                "Demandez quel appui pourrait couvrir le moment difficile."
+              ],
+              "benefit": "Le plan de soins peut tenir compte des écarts entre journées."
+            },
+            {
+              "heading": "Garder un créneau pour le suivi",
+              "objective": "Donner une place aux soins en même temps qu’aux activités reprises.",
+              "exercise": [
+                "Vérifiez l’heure de votre prochain rendez-vous.",
+                "Ajustez les nouveaux engagements autour de ce point.",
+                "Prévenez l’équipe si l’horaire ne tient plus."
+              ],
+              "benefit": "Les progrès et les risques peuvent rester suivis dans le temps."
+            }
+          ]
         }
       ],
       "ending_title": "Le bruit qui manquait dans le premier entretien",
@@ -559,7 +1242,8 @@
       "continuity": {
         "choice": "Éric revient sur les envies persistantes en consultation, garde le suivi et reprend les entretiens avec Pascal.",
         "next": "Le coin d’écoute du repas a abouti. La collecte se poursuit à un rythme choisi et l’équipe reste impliquée dans le suivi."
-      }
+      },
+      "conclusion": "Éric retrouve le marché et garde son rendez-vous de soins. Pascal peut continuer les entretiens avec lui sans attendre que tous les moments difficiles aient disparu. Le projet sonore et le suivi ont chacun leur place."
     }
   ]
 }

@@ -1,19 +1,19 @@
 ---
-title: Accompagner Noémie au cinéma quand elle cherche encore à être rassurée
-description: Sur le trajet du cinéma, Noémie demande à Maud une confirmation. Maud
-  lui offre sa présence en suivant leur accord préparé avec la clinicienne.
+title: Quand le TOC organise peu à peu les réponses du couple
+description: Maud et Noémie reprennent un accord sur les confirmations demandées après
+  le départ. Elles cherchent une présence qui leur convienne.
 slug: noemie-deux-places-au-cinema
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Soutien face aux compulsions
+sujet: Participation des proches aux rituels
 contexte: En route pour une séance de cinéma après un échange commun avec la clinicienne
 tags:
 - Trouble obsessionnel-compulsif
 - TOC
-- Réassurance répétée
-- Anxiété liée au doute
-- Soutien convenu
+- Implication du proche
+- Accord préparé en soin
+- Soutien dans une sortie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,22 +28,83 @@ Maud a fermé l’appartement en sortant et l’a dit à Noémie. Sur le chemin,
 
 « J’ai encore envie de te demander pour la poignée », dit Noémie. Maud s’arrête au bord du trottoir. Le feu des piétons passe au vert, puis repasse au rouge. Elle dit qu’elle peut attendre là avec Noémie ou continuer avec elle vers le cinéma. Noémie reste un moment à regarder l’affiche. Elle n’a pas encore décidé si elle veut qu’on lui prenne le bras.
 
-## Soutenir une personne quand la réponse a déjà été donnée
+## Quand le proche est sollicité dans le rituel
 
-Maud peut répondre à la situation et à la personne de deux façons différentes. L’information pratique a déjà été transmise quand elles sont sorties. L’inquiétude de Noémie, elle, est toujours présente. Maud peut l’entendre sans ajouter un récit détaillé du bruit de la porte ou un nouveau contrôle. L’accord a été préparé au calme avec la clinicienne.
+Le TOC peut modifier les habitudes d’un couple lorsque l’un se sent obligé de répondre aux demandes répétées de l’autre. Maud a donné des détails et parfois des photos pour essayer d’aider Noémie. Avec la clinicienne, elles ont défini une situation précise où Maud peut offrir sa présence sans refaire un contrôle. L’aide qu’elles ont choisie tient compte de l’accord et des limites de chacune. Elles pourront revoir cet accord ensemble s’il leur convient mal.
 
-## Le besoin d’entendre de nouveau que la porte est fermée
+## Comment l’entourage se retrouve-t-il impliqué dans les compulsions ?
 
-Maud a fermé l’appartement et l’a dit à Noémie en sortant. Pourtant, sur le chemin, Noémie dit qu’elle a de nouveau envie de demander si la porte est bien fermée. Dans la file du cinéma, elle voudrait encore entendre un détail sur la poignée. C’est le même épisode de fermeture qui l’occupe aux deux moments. La première réponse ne fait pas disparaître l’envie d’obtenir une nouvelle confirmation, alors même que Noémie veut continuer vers le film.
+### Une aide qui devient habituelle
 
-## Laisser un choix après le moment difficile
+Un geste de bonne volonté peut être attendu à chaque retour du doute.
 
-L’accord porte sur cette demande répétée, dans les limites de ce que Noémie souhaite et de ce que Maud accepte. Si un fait nouveau survient, par exemple une serrure cassée ou une clé oubliée, elles peuvent se donner l’information et chercher une solution. Elles peuvent revoir l’accord avec la clinicienne si une partie devient trop difficile à tenir.
+**Exemples concrets**
 
-Noémie peut ressentir de la gêne quand Maud rappelle ce qu’elles ont prévu. Elle peut dire qu’elle préfère quelques instants sans discussion, qu’elle aimerait marcher ensemble ou qu’elle ne veut plus aller au cinéma ce soir. Le billet n’est pas un engagement de soin. Maud a aussi le droit de vouloir voir le film et de décider avec Noémie comment elles s’organisent. Leur envie de sortir leur appartient, même si la difficulté se présente sur le trajet.
+- Maud a pris l’habitude de détailler la fermeture.
+- Un proche peut finir par garder du temps pour répondre à des confirmations récurrentes.
 
-Après coup, Noémie souhaite dire à la clinicienne que le silence à côté de Maud lui a été plus supportable que plusieurs explications. Maud voudrait parler de l’incertitude qu’elle a ressentie en essayant d’aider. Ce retour peut servir à ajuster ce qu’elles se proposent. Elles pourront aussi décider que le prochain trajet reste simplement un moment pour aller voir un film.
+### La crainte de mal répondre
+
+Le proche peut se demander quelle réaction aidera ou blessera.
+
+**Exemples concrets**
+
+- Maud se demande si elle doit repérer toutes les demandes répétées.
+- Un partenaire peut hésiter à changer un échange qu’il pensait apaisant.
+
+### Une autre présence dans le même moment
+
+Un accord préparé peut ouvrir une forme d’appui qui ne dépend pas d’une preuve.
+
+**Exemples concrets**
+
+- Au feu, Maud propose de rester ou de continuer ensemble.
+- Dans une situation convenue avec l’équipe, un proche peut écouter la gêne et garder sa propre limite.
+
+## 3 techniques pour faire vivre un accord préparé en soin
+
+### 1. S’en tenir au moment convenu
+
+Garder l’accord assez précis pour chacune.
+
+**Exercice pratique**
+
+- Reprendre ensemble la situation discutée au cabinet.
+- Nommer le geste d’appui qui y a été retenu.
+- Prévoir d’en reparler si l’une le souhaite.
+
+La réponse peut rester lisible sans généralisation à tous les échanges.
+
+### 2. Choisir la présence utile maintenant
+
+Laisser à Noémie un choix concret sur le trajet.
+
+**Exercice pratique**
+
+- Dire s’il faut attendre ou marcher.
+- Préciser si le contact physique est souhaité.
+- Ajuster quand elles arrivent à la salle.
+
+Maud peut soutenir le trajet à la mesure de ce qui est demandé.
+
+### 3. Relire l’expérience avec la clinicienne
+
+Voir comment chacune a vécu l’accord.
+
+**Exercice pratique**
+
+- Retenir un moment où la question est revenue.
+- Dire ce que chacune a trouvé difficile ou aidant.
+- Demander un ajustement si nécessaire.
+
+L’implication des proches peut évoluer avec leur accord.
 
 ## Elles partent à pied
 
 Au feu suivant, Noémie demande à Maud de marcher avec elle jusqu’à la salle. Elle n’a plus envie qu’on lui tienne le bras. Dans la file, elle voudrait encore une précision sur la poignée. Maud lui montre l’annonce du festival imprimée au dos de leur billet. Noémie prend son billet, puis lui raconte ce qu’il reste de l’affiche. Quand elles sortent du cinéma, elles sont d’accord sur un point. La chaise de jardin était le meilleur accessoire du film.
+
+---
+
+**Conclusion**
+
+Maud et Noémie arrivent au cinéma avec une demande encore présente et une autre manière d’être ensemble. La scène leur donne de quoi reparler de l’accord. Aux archives, Noémie devra formuler un besoin qui relève du travail.
