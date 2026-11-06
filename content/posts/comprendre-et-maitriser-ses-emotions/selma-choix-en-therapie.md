@@ -29,20 +29,83 @@ Selma raconte le moment à la quincaillerie, à partir de la charnière restée 
 
 Sur le plan de la serre, le crayon a laissé une bosse à l’endroit où elle a entouré le montant vert. Elle la suit du doigt. Elle demande aussi comment sa thérapeute lui expliquera la suite, et à quel moment elle pourra dire qu’elle préfère une autre façon de travailler. À la fin de sa question, elle remet le plan à plat. La thérapeute déplace son carnet pour lui laisser la place de reprendre la feuille.
 
-## Ce qu’apporte un cadre de soins spécialisé
+## Les effets du trauma donnent un point de départ au soin
 
-Les soins du trouble de stress post-traumatique peuvent comprendre des psychothérapies qui portent sur les effets du traumatisme. Le NICE décrit notamment des thérapies cognitives et comportementales centrées sur le traumatisme et l’EMDR, une approche de travail sur les souvenirs traumatiques. Les indications et le choix se discutent avec des professionnels formés selon la situation, les besoins et les préférences de la personne. Une séance peut aussi servir à comprendre les réactions, à parler de la sécurité et à trouver des appuis pour les moments difficiles.
+Les soins centrés sur le traumatisme se discutent avec des professionnels formés, en tenant compte des besoins et des préférences de la personne. On peut commencer à parler d’un effet actuel, comme les moments où un bruit coupe la conversation. Selma part de la charnière et veut comprendre la suite du travail. Elle demande aussi comment signaler qu’elle a besoin d’une pause pendant la séance.
 
-## Des nuits coupées et un achat interrompu
+## Comment Selma prend-elle part aux choix en séance ?
 
-Les notes que Selma a apportées concernent les nuits interrompues et la fatigue qu’elle retrouve le matin. Au magasin, le bruit l’a ramenée à l’accident et elle a perdu le fil de l’échange au comptoir. Elle est sortie en laissant la charnière qu’elle était venue acheter. En séance, elle arrive à parler de la charnière et de ce qu’elle entendait, puis hésite quand le mot accident lui vient.
+### Un objet aide à situer ce qui s’est passé
 
-## Des mots qu’elle peut choisir pour cette séance
+Parler d’un effet dans le présent peut rendre une difficulté précise abordable avant un récit plus large.
 
-Selma peut demander de partir du retentissement des nuits interrompues et de l’achat au magasin. Elle peut poser des questions sur la méthode proposée, la place des souvenirs et les objectifs de ce travail. Elle peut dire ce qui lui paraît possible aujourd’hui et convenir d’un signal si elle souhaite faire une pause. Si elle souhaite parler de l’accident dans le cadre des soins, elle peut revenir sur cette question avec sa thérapeute. Le NICE recommande de s’abstenir de proposer un débriefing psychologique visant à prévenir ou traiter le trouble. Une conversation ordinaire avec un proche peut rester une écoute ou une aide concrète, selon ce que Selma demande.
+**Exemples concrets**
 
-En sortant, elle peut garder pour elle les sujets abordés et partager seulement un besoin pratique. La prochaine discussion, avec le médecin du travail, aura un autre objet. Elle portera sur ce qui l’aide ou la gêne dans le cadre professionnel.
+- Selma commence par la charnière laissée au comptoir.
+- Elle raconte le bruit et l’endroit qu’elle a regardé en sortant du magasin.
+
+### Une hésitation devient une question de travail
+
+Quand la personne craint de perdre le fil ou de se sentir débordée, elle peut en parler avec le professionnel.
+
+**Exemples concrets**
+
+- Selma hésite au mot « accident » et sa thérapeute attend.
+- Elle demande si elles pourront travailler les moments où le bruit lui fait perdre le fil et s’arrêter au besoin.
+
+### La méthode peut être expliquée et discutée
+
+Un cadre de soin permet de poser des questions sur la façon d’avancer et de dire ce qui ne convient pas.
+
+**Exemples concrets**
+
+- Selma demande comment la thérapeute lui expliquera les prochaines étapes.
+- Elle écrit qu’elles reprendront les bruits et qu’elle pourra demander une pause.
+
+## 3 techniques pour préparer un échange sur des soins centrés sur le trauma
+
+### 1. Choisir une difficulté actuelle à aborder
+
+Définir un objectif à partir du vécu plutôt que préparer tout le récit.
+
+**Exercice pratique**
+
+- Choisissez une situation récente que vous souhaitez reprendre.
+- Décrivez ce qu’elle vous a empêché de faire sur le moment.
+- Demandez au professionnel quelles approches permettent de travailler cette difficulté.
+
+L’entretien peut partir d’un objectif que vous comprenez et que vous souhaitez examiner.
+
+### 2. Mettre des mots sur le besoin d’une pause
+
+Pouvoir signaler ce que la séance demande pendant qu’elle a lieu.
+
+**Exercice pratique**
+
+- Dites ce que vous craignez de ne plus pouvoir exprimer au cours de l’échange.
+- Convenez avec le professionnel d’une phrase ou d’un signal pour demander une pause.
+- Demandez comment vous déciderez ensemble de reprendre ou de revenir plus tard au sujet.
+
+Le professionnel dispose d’un repère choisi avec vous pour ajuster le travail.
+
+### 3. Demander le déroulé de la prochaine étape
+
+Comprendre la méthode proposée avant de commencer.
+
+**Exercice pratique**
+
+- Demandez ce qui est prévu et quel en est le but.
+- Indiquez ce que vous aimeriez éclaircir ou modifier.
+- Notez la question que vous voulez reprendre au prochain rendez-vous.
+
+Les choix de soin restent discutables et les démarches de travail peuvent suivre un autre échange.
 
 ## Le plan de la serre et deux lignes au dos
 
 Avant de partir, Selma écrit au dos de ses notes qu’elles reprendront la question des bruits et qu’elle peut demander une pause. Elle replie le plan de la serre et le remet dans son sac. Dans la rue, elle rappelle le service de santé au travail. On lui propose un créneau le mardi suivant. Elle regarde d’abord si elle doit recevoir le vitrier ce jour-là. Puis elle confirme le rendez-vous et demande à quel endroit elle devra attendre.
+
+---
+
+**Conclusion**
+
+Selma quitte la séance avec deux lignes sur les bruits et la possibilité d’une pause. Elle décide ensuite d’appeler la santé au travail. La thérapeute et le médecin du travail répondent à des questions distinctes qui partent toutes deux de ce que Selma vit.

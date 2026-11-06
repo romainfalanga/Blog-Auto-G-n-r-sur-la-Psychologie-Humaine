@@ -29,20 +29,83 @@ Le premier film se termine. Baya présente le sien et invite la salle à regarde
 
 Dans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la crainte qu’un repas de groupe lui reprenne toute son attention lors de la prochaine soirée. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.
 
-## Parler du plaisir retrouvé et des difficultés qui persistent
+## Le suivi peut aussi parler de ce qui redonne du plaisir
 
-Le suivi d’un trouble des conduites alimentaires peut se poursuivre pendant que la personne reprend des activités qui lui importent. Le NICE recommande de coordonner les soins et de tenir compte des besoins de santé, des études et de la vie sociale.
+La qualité de vie compte dans le suivi de l’anorexie mentale. Retrouver une activité appréciée apporte une information sur ce qui va mieux ou sur ce que l’on veut préserver, même si des préoccupations alimentaires persistent. Clémence retrouve le plaisir d’écouter un autre regard sur le film. Elle veut aussi raconter à son équipe l’effort de laisser les tâches aux autres et ce qu’elle craint pour une prochaine soirée.
 
-## Comment cette difficulté se manifeste
+## Comment le plaisir retrouvé et les difficultés persistantes apparaissent-ils dans la même soirée ?
 
-Clémence peut apporter au rendez-vous ce qu’elle a trouvé difficile et ce qu’elle a apprécié dans la préparation. Elle pourra dire quelle place elle aimerait garder aux études et à la programmation lors des prochaines semaines. L’équipe reste l’interlocuteur pour apprécier les changements de santé et discuter avec elle de ce qu’il faudra revoir.
+### La curiosité reprend devant une réponse inattendue
 
-## Préparer une prochaine séance avec les mêmes choix ouverts
+Une activité choisie peut rendre à nouveau disponible un regard que la personne veut partager.
 
-La référente peut recueillir ce que chacune a envie de faire une autre fois. Clémence peut garder les fiches ou partager leur rédaction avec quelqu’un qui le souhaite. Baya peut continuer à proposer un film, revenir comme spectatrice ou choisir une autre activité. Leurs décisions pour la suite dépendent aussi de leurs horaires et des goûts qu’elles ont entendus dans la salle.
+**Exemples concrets**
 
-Clémence souhaite revenir sur le plan de la main. Elle peut demander la référence à Baya et prendre le temps de faire une note pour son cours. Cette note et les questions qu’elle apportera à l’équipe trouvent chacune leur place dans sa semaine.
+- Clémence demande à quel moment le public a l’impression que quelqu’un écoute dans l’embrasure.
+- Elle entend la personne qui a ri parler d’une main qu’elle n’avait jamais vue.
+
+### Les préoccupations restent présentes hors de l’écran
+
+Un bon moment ne dit pas tout de ce que demande une autre partie de la journée ou du projet.
+
+**Exemples concrets**
+
+- Clémence pense encore au moment où elle a failli reprendre toutes les tâches du club.
+- Elle redoute qu’un autre repas collectif accapare son attention lors d’une prochaine soirée.
+
+### Le prochain engagement peut rester en discussion
+
+Garder une activité qui compte peut demander de décider séparément de ce que l’on peut en reprendre.
+
+**Exemples concrets**
+
+- La référente demande qui voudrait préparer la prochaine séance.
+- Clémence propose d’en reparler après son cours et reste encore devant l’image avec Baya.
+
+## 3 techniques pour parler de la qualité de vie pendant le suivi
+
+### 1. Raconter un moment où la curiosité est revenue
+
+Faire une place aux intérêts personnels dans l’entretien.
+
+**Exercice pratique**
+
+- Choisissez une activité qui vous a fait du bien ou surpris.
+- Décrivez le détail qui vous a donné envie de rester ou de continuer.
+- Apportez cet exemple à l’équipe, avec les autres questions que vous voulez aborder.
+
+Le suivi peut s’appuyer sur ce que vous souhaitez préserver dans votre vie.
+
+### 2. Nommer ce qui prend encore de l’attention
+
+Faire entendre ce qui reste difficile à côté d’un progrès.
+
+**Exercice pratique**
+
+- Notez la prochaine situation que vous appréhendez.
+- Décrivez ce qui vous a demandé de l’effort dans un moment comparable.
+- Demandez à votre équipe comment préparer la suite avec les appuis convenus.
+
+La réussite d’une séance et les difficultés liées à une autre peuvent toutes deux entrer dans le suivi.
+
+### 3. Donner une date à la réponse plutôt qu’un engagement
+
+Garder une possibilité au club sans décider sur le moment.
+
+**Exercice pratique**
+
+- Demandez ce que la prochaine préparation demandera.
+- Proposez quand vous pourrez dire quelle part vous intéresse et paraît possible.
+- Gardez une trace du détail que vous voulez revoir avec les autres entre-temps.
+
+L’activité reste ouverte et la prochaine responsabilité se choisit à un moment qui convient.
 
 ## La main dans le dernier plan
 
 La référente relance le passage. Cette fois, Clémence voit la main que la personne a décrite. Elle note le moment au verso de sa fiche et demande à Baya si elle veut ajouter la réponse de la salle à sa propre fiche. Baya lui dit qu’elle gardera surtout le rire. Près de la sortie, la référente leur demande qui veut préparer la prochaine séance. Clémence lui propose d’en reparler après son cours. Pour ce soir, elle reste un moment avec Baya devant l’image arrêtée.
+
+---
+
+**Conclusion**
+
+Clémence ajoute la main à sa fiche et Baya garde le souvenir du rire. La soirée apporte à Clémence un plaisir à raconter et des questions qu’elle garde pour son rendez-vous. Elle peut remettre à plus tard la décision sur la prochaine séance.

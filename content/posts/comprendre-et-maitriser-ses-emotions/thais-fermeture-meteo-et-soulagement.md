@@ -32,18 +32,81 @@ Un habitant a répondu au message. Il a sorti ses anciennes photos pour reconna�
 
 ## Une consigne commune et un vécu individuel
 
-Les conditions réelles d’un lieu peuvent changer et rendre une sortie inadaptée pour tous. Samir applique la fermeture communiquée par le gestionnaire. Cette décision vaut aussi pour une personne qui n’éprouve aucune peur particulière des hauteurs. Dans l’évaluation d’une phobie spécifique, un professionnel tient également compte du risque raisonnable dans une situation. Il s’intéresse aux craintes qui restent très fortes même dans certains contextes ordinaires, et aux conséquences qu’elles ont dans la vie de la personne.
+Une fermeture de terrain répond à des conditions qui s’appliquent à tout le groupe. Elle peut aussi soulager une personne qui redoutait une hauteur et la décevoir parce qu’elle tenait à participer. L’évaluation d’une phobie spécifique tient compte du risque concret et des situations où la peur reste forte dans des conditions ordinaires. Thaïs est soulagée d’éviter la passerelle ce jour-là et regrette déjà les échanges qu’elle attendait.
 
-## Comment cette difficulté se manifeste
+## Comment le soulagement et la déception peuvent-ils coexister après une fermeture ?
 
-Thaïs ressent du soulagement et de la déception dans le même quart d’heure. Le premier sentiment se comprend notamment à partir du scénario redouté avant le départ. Le second rappelle un objectif réel. Aucun de ces sentiments ne décide de la réouverture du vallon. Ils peuvent l’aider à préciser ce qu’elle veut faire de la journée et ce qu’elle souhaite aborder dans le suivi.
+### La sécurité s’impose à tous les postes
 
-## Sauver ce qui a du sens quand la mission change
+Une consigne liée à la pluie ou à l’état d’un passage s’applique quelle que soit l’émotion de chacun.
 
-L’équipe peut répartir les choses qu’elle peut encore faire. Samir garde la responsabilité de vérifier les futurs accès. Inès pourra reprendre ses photographies à la date convenue. Thaïs peut proposer une rencontre au village pour identifier les noms de lieu et vérifier les repères dont ils auront besoin ensuite. Les données qui exigent de se rendre au canal restent à relever après la réouverture.
+**Exemples concrets**
 
-Avoir une autre tâche n’efface pas forcément la peur de la prochaine sortie. Ce que Thaïs a imaginé avant de partir pourra être abordé avec sa psychologue. Elle peut lui expliquer que l’accord au sol était clair et que l’incertitude lui a tout de même pris une partie de la soirée. Cette différence entre les consignes connues et ce qu’elle anticipait constitue un point de départ pour leur échange.
+- L’avis du gestionnaire annonce que l’eau a monté et que le sentier est fermé.
+- Samir laisse le matériel dans le véhicule et prévient les personnes attendues.
+
+### Le soulagement peut concerner un seul passage
+
+Une difficulté redoutée peut ne plus se présenter alors que le reste de l’activité garde sa valeur.
+
+**Exemples concrets**
+
+- Thaïs avait espéré que la passerelle puisse être écartée.
+- Elle regrette en même temps de ne pas comparer les noms avec les habitants sur le terrain.
+
+### Un autre cadre peut garder une partie de l’objectif
+
+Reporter le relevé laisse parfois une place à un échange qui devait l’accompagner.
+
+**Exemples concrets**
+
+- Thaïs vérifie si le café de l’association est ouvert.
+- Un habitant accepte d’y apporter ses photographies pendant que Samir prépare une nouvelle date sous réserve de réouverture.
+
+## 3 techniques pour respecter une fermeture et garder le sens de la mission
+
+### 1. Appliquer la consigne et informer
+
+Assurer le relais pratique lorsqu’un lieu ferme.
+
+**Exercice pratique**
+
+- Vérifiez la consigne auprès de la personne responsable.
+- Annulez ou reportez la partie qui dépend de l’accès fermé.
+- Prévenez les participants et précisez ce qui reste à confirmer.
+
+Le groupe connaît la décision de sécurité et les conditions d’une éventuelle reprise.
+
+### 2. Donner une place aux deux réactions
+
+Comprendre ce que l’annulation a changé pour vous.
+
+**Exercice pratique**
+
+- Identifiez le passage dont l’annulation vous soulage.
+- Nommez ce que vous regrettez de ne pas pouvoir faire.
+- Apportez ces deux détails au suivi si vous souhaitez parler de l’effet de la peur sur vos choix.
+
+La consultation peut partir de l’activité désirée et du passage qui posait problème.
+
+### 3. Sauver un échange indépendant du lieu
+
+Retrouver une partie du projet dans des conditions sûres et consenties.
+
+**Exercice pratique**
+
+- Repérez une question qui peut être traitée ailleurs.
+- Proposez un lieu et vérifiez l’accord des personnes concernées.
+- Gardez le relevé sur place pour une date autorisée.
+
+Le projet peut avancer sur un point pendant que les accès restent fermés.
 
 ## Une matinée dans le village
 
 L’habitant accepte de passer au café avec ses photographies. Thaïs prend les pochettes pour les regarder sans les abîmer. Samir convient d’une nouvelle date sous réserve de réouverture, et confirme que la répartition des rôles reste celle convenue après le repérage. La veille, Thaïs aurait voulu que tout le monde oublie la passerelle. En se rendant au café, elle se surprend à préparer la question qu’elle posera à sa psychologue sur les semaines à venir.
+
+---
+
+**Conclusion**
+
+La mission sur le sentier est reportée. Thaïs peut écouter l’habitant au café et rester soulagée de ne pas avoir à penser à la passerelle ce matin. L’écart entre ces deux réactions l’aide à formuler une question pour Mme Verdier.

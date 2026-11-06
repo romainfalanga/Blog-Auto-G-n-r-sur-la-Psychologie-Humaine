@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Entendre les mots, retrouver l’ordre",
-          "text": "Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde."
+          "text": "Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde.\n\nAu cabanon, Agathe commence par l’objet qu’elle a reconnu. Camille peut lui montrer où mettre un sachet, puis rendre la suite visible une étape à la fois. Pour savoir si cette explication sert au groupe, elle peut demander où irait un autre sachet et regarder le choix des élèves."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le diagnostic déjà connu d’Agathe s’appuie sur des difficultés durables et leur retentissement dans plusieurs situations, appréciés par des professionnels. Elle n’a pas à expliquer ce bilan chaque fois qu’elle demande qu’on lui montre quelque chose."
+          "heading": "Comment peut-on reconnaître les mots et perdre l’ordre de la consigne ?",
+          "points": [
+            {
+              "heading": "Un nom familier attire l’attention",
+              "text": "Saisir un mot indique le sujet de la phrase, mais pas toujours l’action à faire en premier.",
+              "examples": [
+                "Agathe reconnaît le panier du haut et le descend avant le tri.",
+                "Un enfant prend ses ciseaux en entendant « découper », alors qu’il fallait d’abord choisir la forme."
+              ]
+            },
+            {
+              "heading": "Une exception change la tâche",
+              "text": "Une précision placée au milieu d’une phrase peut se perdre alors qu’une partie de la consigne reste claire.",
+              "examples": [
+                "Agathe se souvient du panier mais pas de l’exception annoncée pour les sachets.",
+                "À l’école, un élève rapporte tous les cahiers alors qu’un seul devait rester sur la table."
+              ]
+            },
+            {
+              "heading": "Un premier geste rend l’ordre perceptible",
+              "text": "Une démonstration relie le mot à un objet et montre où commencer.",
+              "examples": [
+                "Camille pose les pois à l’endroit où ils resteront pour la rentrée.",
+                "Devant une feuille de bricolage, montrer le pli avant de donner la consigne de découpe rend les deux étapes distinctes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire apparaître la première étape",
-          "text": "Au cabanon, l’objet permet de raccrocher les mots à quelque chose qu’on peut suivre. Camille peut dire « on garde ces pois pour la rentrée », poser le sachet à sa place, puis laisser au groupe le temps de commencer le tri. Les étiquettes viennent quand les sachets sont rangés. Elle peut ensuite demander où irait un autre sachet et regarder ce que chacun indique, pour vérifier que son explication était utilisable. Ce geste n’est pas un exercice que les élèves doivent réussir devant elle. Agathe peut expliquer qu’elle préfère une démonstration ou demander une étape à la fois. La responsabilité de rendre la consigne accessible reste du côté de l’adulte, même quand un enfant aide à inventer le support."
+          "heading": "3 techniques pour rendre une consigne à plusieurs étapes utilisable",
+          "points": [
+            {
+              "heading": "Annoncer l’étape à faire maintenant",
+              "objective": "Réduire le nombre d’actions à garder en tête en même temps.",
+              "exercise": [
+                "Nommez l’action qui vient en premier.",
+                "Donnez le temps de l’amorcer.",
+                "Présentez l’action suivante une fois la première située."
+              ],
+              "benefit": "L’enfant peut repérer à quelle action se rattachent les mots entendus."
+            },
+            {
+              "heading": "Donner un exemple et un cas à part",
+              "objective": "Rendre visible l’exception qui modifie le tri.",
+              "exercise": [
+                "Placez un premier sachet à sa destination.",
+                "Montrez ensuite celui qui suit une autre règle.",
+                "Laissez ces deux exemples à portée pendant le tri."
+              ],
+              "benefit": "Le groupe peut comparer les cas au moment où il doit choisir."
+            },
+            {
+              "heading": "Vérifier la consigne en regardant l’action",
+              "objective": "Savoir si l’explication était utilisable.",
+              "exercise": [
+                "Proposez un autre sachet du même type.",
+                "Demandez à l’enfant de montrer où il le mettrait.",
+                "Reprenez l’étape qui prête encore à confusion, sans faire réciter la consigne."
+              ],
+              "benefit": "L’adulte obtient un retour précis sur son message."
+            }
+          ]
         }
       ],
       "ending_title": "À côté de la ficelle",
@@ -53,7 +109,8 @@
         "next": "Le carton indique le portillon et le banc ; au prochain atelier Agathe et Inès inventorieront les graines de la réserve."
       },
       "clinical_focus": "Compréhension des consignes complexes",
-      "clinical_intro": "Agathe reconnaît les mots « panier du haut » et descend le panier, alors qu’un tri devait venir avant. La phrase comporte aussi une exception qu’elle n’a pas retenue. Dans le trouble développemental du langage, saisir les relations entre des mots familiers peut coûter plus d’effort que les reconnaître un à un. Agathe demande un exemple concret pour retrouver ce qu’elle doit faire en premier."
+      "clinical_intro": "Agathe reconnaît les mots « panier du haut » et descend le panier, alors qu’un tri devait venir avant. La phrase comporte aussi une exception qu’elle n’a pas retenue. Dans le trouble développemental du langage, saisir les relations entre des mots familiers peut coûter plus d’effort que les reconnaître un à un. Agathe demande un exemple concret pour retrouver ce qu’elle doit faire en premier.",
+      "conclusion": "Le premier sachet posé par Camille aide Agathe à retrouver le début du tri. Agathe place la boîte près de la ficelle puis ajoute le portillon au plan après la remarque d’Inès. Elle découvre qu’un repère doit fonctionner pour la personne qui le découvre aussi."
     },
     {
       "number": 2,
@@ -71,17 +128,73 @@
         {
           "role": "explanation",
           "heading": "L’idée peut précéder la phrase",
-          "text": "Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes."
+          "text": "Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes.\n\nAgathe a compris ce qu’Inès propose et a déjà une objection. Le mot « vérifier » arrive quand le nom est écrit. Sur leur carton, laisser une ligne libre lui donnerait le temps de faire entendre sa décision et de demander à Camille de vérifier le sachet."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe comprend la proposition d’Inès. Ce qui lui prend du temps, c’est d’indiquer comment traiter un sachet au nom incertain et pourquoi il faut attendre. Le point d’interrogation donne à Inès un indice ; Agathe complète elle-même. On ne peut pas déduire de cet échange le profil complet de son langage ni ses compétences en jardinage."
+          "heading": "Comment une recherche de mot peut-elle retarder une décision déjà claire ?",
+          "points": [
+            {
+              "heading": "L’idée est là avant la formulation",
+              "text": "Une personne peut savoir ce qu’elle souhaite faire et chercher encore le mot qui résume sa proposition.",
+              "examples": [
+                "Agathe veut laisser une ligne vide avant de trouver « vérifier ».",
+                "Un élève peut savoir qu’il veut garder un objet pour une autre séance et chercher comment le dire."
+              ]
+            },
+            {
+              "heading": "Le groupe peut avancer avant la réponse",
+              "text": "Si l’autre écrit ou décide aussitôt, la recherche d’un mot risque d’être prise pour un accord.",
+              "examples": [
+                "Inès a déjà inscrit le nom quand Agathe trouve sa phrase.",
+                "Dans un travail à deux, un camarade peut coller une étiquette pendant que son partenaire essaie encore de proposer une autre place."
+              ]
+            },
+            {
+              "heading": "Un signe peut porter l’idée",
+              "text": "Un geste ou un symbole donne une façon d’intervenir quand le mot demande du temps.",
+              "examples": [
+                "Le point d’interrogation conserve le doute sur le sachet.",
+                "Un doigt posé sur une ligne vide peut signifier qu’il reste une décision à prendre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser la décision en suspens",
-          "text": "Sur ce banc, une pause a une conséquence très simple : tant que les deux n’ont pas choisi, le nom peut rester au crayon ou la ligne rester vide. Inès peut reprendre « Tu veux qu’on attende Camille pour le nom ? », en laissant de la place pour un oui, un non ou une précision. Demander l’avis d’Agathe a peu d’effet si l’on écrit la réponse dans le même mouvement. On peut lui offrir le feutre, déplacer le sachet sur sa demande ou attendre qu’elle ait fini sa phrase. C’est le contenu de sa proposition qui compte : ne pas présenter aux suivants une supposition comme un fait. Camille peut répondre de l’usage d’un sachet abîmé sans prendre en charge le dessin de l’inventaire."
+          "heading": "3 techniques pour laisser une idée arriver jusqu’au groupe",
+          "points": [
+            {
+              "heading": "Garder la décision ouverte",
+              "objective": "Laisser le temps de répondre avant une action difficile à défaire.",
+              "exercise": [
+                "Demandez l’avis de l’autre.",
+                "Attendez une réponse avant d’écrire ou de coller.",
+                "Si la réponse doit attendre, laissez la case libre."
+              ],
+              "benefit": "Le silence ne devient pas une décision prise pour deux."
+            },
+            {
+              "heading": "Proposer une reformulation à vérifier",
+              "objective": "S’assurer qu’on a compris l’intention sans imposer un mot.",
+              "exercise": [
+                "Reprenez la partie que vous avez saisie.",
+                "Proposez une question courte : « On attend Camille pour le nom ? »",
+                "Laissez l’autre confirmer, refuser ou préciser."
+              ],
+              "benefit": "Le mot suggéré sert à vérifier, et l’auteur garde sa proposition."
+            },
+            {
+              "heading": "Créer un signe provisoire",
+              "objective": "Donner un moyen de marquer un doute utile.",
+              "exercise": [
+                "Choisissez un symbole avec la personne.",
+                "Mettez-le là où une information reste à vérifier.",
+                "Décidez qui peut confirmer la réponse et à quel moment."
+              ],
+              "benefit": "Le projet avance sans inscrire une supposition comme un fait."
+            }
+          ]
         }
       ],
       "ending_title": "Une ligne qui reste libre",
@@ -98,7 +211,8 @@
         "next": "Les pois et les haricots restent dans la boîte bleue. Inès propose une présentation en classe ; Agathe n’a pas encore accepté."
       },
       "clinical_focus": "Recherche des mots en conversation",
-      "clinical_intro": "Agathe comprend qu’Inès propose le nom d’une graine. Elle sait qu’il faudrait laisser la ligne vide, puis le mot « vérifier » lui vient alors qu’Inès a déjà écrit. Dans le trouble développemental du langage, la compréhension et la formulation peuvent demander des efforts différents. Donner du temps à Agathe permet de distinguer son hésitation à trouver une phrase de la décision qu’elle souhaite défendre."
+      "clinical_intro": "Agathe comprend qu’Inès propose le nom d’une graine. Elle sait qu’il faudrait laisser la ligne vide, puis le mot « vérifier » lui vient alors qu’Inès a déjà écrit. Dans le trouble développemental du langage, la compréhension et la formulation peuvent demander des efforts différents. Donner du temps à Agathe permet de distinguer son hésitation à trouver une phrase de la décision qu’elle souhaite défendre.",
+      "conclusion": "Agathe arrive à garder une trace du doute avant de décider avec Inès. Elles disposent désormais d’un signe pour les prochains sachets à vérifier. Quand Inès propose la présentation, Agathe peut encore choisir le rôle qu’elle souhaite."
     },
     {
       "number": 3,
@@ -116,17 +230,73 @@
         {
           "role": "explanation",
           "heading": "Changer la façon de participer",
-          "text": "Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail. L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent."
+          "text": "Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail. L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent.\n\nEn classe, Agathe déplie encore le carton quand la première question se perd dans les suivantes. Elle a pourtant les réponses à plusieurs d’entre elles. Faire circuler le plan et recueillir les questions séparément modifie ce que la discussion lui demande au même instant."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Sur le banc du jardin, Agathe avait le sachet en main et parlait à une camarade. En classe, ses interlocuteurs passent d’un sujet à l’autre avant qu’elle ait commencé. En demandant à faire circuler le plan, elle garde sa responsabilité dans le projet. Ce refus de commencer devant la classe indique quel échange elle choisit ce jour-là ; il ne prédit pas ce qu’elle pourra dire au prochain rendez-vous."
+          "heading": "Comment les interventions d’un groupe peuvent-elles faire perdre le fil ?",
+          "points": [
+            {
+              "heading": "Une nouvelle question chasse la précédente",
+              "text": "Suivre des phrases imprévues en même temps qu’on prépare une réponse peut demander plus d’effort que parler d’un seul sujet à deux.",
+              "examples": [
+                "Agathe perd la première intervention pendant qu’elle ouvre le plan.",
+                "En classe, une question sur les pois peut être oubliée quand deux personnes parlent déjà des fleurs."
+              ]
+            },
+            {
+              "heading": "Les interlocuteurs ne partagent pas tous les mêmes repères",
+              "text": "Le groupe peut demander des explications qu’un partenaire habituel n’aurait pas besoin d’entendre.",
+              "examples": [
+                "Inès connaît le carton et les raisons de sa forme ; les autres le découvrent au bureau.",
+                "Un élève qui n’a pas vu le cabanon peut demander où il se trouve alors qu’Agathe allait parler de la boîte."
+              ]
+            },
+            {
+              "heading": "Changer le format redistribue l’effort",
+              "text": "Des questions que l’on peut relire donnent du temps pour choisir un ordre et distinguer les idées.",
+              "examples": [
+                "Agathe peut relire la demande sur les fleurs et la placer au milieu du carton.",
+                "Un camarade qui ne veut pas couper la parole peut laisser une question près du dessin qu’elle concerne."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un support commun pour le groupe",
-          "text": "Mme Roussel peut faire circuler le carton et recueillir les questions sur des papiers que le groupe regardera ensuite. Une question dictée à un camarade ou un point posé sur le plan peuvent convenir à ceux qui préfèrent s’exprimer ainsi. La classe a une décision à prendre, ce qui donne un but à l’échange au-delà de la présentation. Demander en privé ce qu’Agathe veut montrer et ce qu’elle souhaite confier à Inès laisse ouverte la répartition des rôles. L’enseignante peut organiser la discussion et limiter les interruptions sans commenter le diagnostic devant les élèves. À la prochaine séance, elle pourra aussi demander ce qu’il faut garder du dispositif et ce qui a empêché certaines personnes de s’exprimer."
+          "heading": "3 techniques pour alléger les échanges quand les questions s’accumulent",
+          "points": [
+            {
+              "heading": "Montrer le support avant d’ouvrir la discussion",
+              "objective": "Donner des repères communs à ceux qui arrivent.",
+              "exercise": [
+                "Faites circuler le plan ou posez-le à la vue du groupe.",
+                "Accordez un moment pour le regarder.",
+                "Ouvrez ensuite les questions."
+              ],
+              "benefit": "La personne qui présente peut partir d’une image que les autres ont déjà repérée."
+            },
+            {
+              "heading": "Garder une trace des interventions",
+              "objective": "Éviter qu’une question disparaisse sous la suivante.",
+              "exercise": [
+                "Choisissez un emplacement pour déposer les questions.",
+                "Acceptez une phrase, une dictée ou un repère sur le plan.",
+                "Lisez une seule demande à la fois."
+              ],
+              "benefit": "Les participants peuvent revenir aux questions sans les répéter toutes en même temps."
+            },
+            {
+              "heading": "Vérifier les rôles avant le groupe",
+              "objective": "Permettre à l’enfant de choisir comment il contribue.",
+              "exercise": [
+                "Demandez en privé ce qu’il veut montrer ou dire.",
+                "Convenez de ce que peut faire le partenaire.",
+                "Demandez de nouveau son accord si le déroulement change."
+              ],
+              "benefit": "La présence d’un support ne vaut pas annonce d’une prise de parole."
+            }
+          ]
         }
       ],
       "ending_title": "Sur le pli du carton",
@@ -144,7 +314,8 @@
         "next": "Les fleurs deviennent un choix possible pour les nouveaux. Agathe apporte la copie du plan à son rendez-vous pour discuter d’une façon de reprendre une question."
       },
       "clinical_focus": "Charge langagière en groupe",
-      "clinical_intro": "Agathe connaît le jardin et pourrait répondre à plusieurs questions. Devant la classe, les élèves parlent pendant qu’elle déplie encore la feuille, et elle perd la première intervention. Pour une personne ayant un trouble développemental du langage, suivre les questions et préparer une réponse en même temps peut être coûteux. Agathe transforme les questions orales en repères qu’elle pourra retrouver dans l’ordre."
+      "clinical_intro": "Agathe connaît le jardin et pourrait répondre à plusieurs questions. Devant la classe, les élèves parlent pendant qu’elle déplie encore la feuille, et elle perd la première intervention. Pour une personne ayant un trouble développemental du langage, suivre les questions et préparer une réponse en même temps peut être coûteux. Agathe transforme les questions orales en repères qu’elle pourra retrouver dans l’ordre.",
+      "conclusion": "Agathe choisit de faire passer le plan et découvre une question que son groupe n’avait pas prévue. Elle précise à Inès qu’elle veut décider quand elle prend la parole. Au prochain rendez-vous, elle pourra partir d’un exemple concret de question perdue."
     },
     {
       "number": 4,
@@ -161,18 +332,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Décrire ce qui a demandé du travail",
-          "text": "Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile. Agathe décrit deux difficultés à sa manière. Une question lui parvient sans qu’elle puisse identifier ce que « après » désigne : pour répondre, il faut d’abord savoir ce que l’autre demande. Pour une autre question, elle se représente l’endroit et peine à en dire le nom. On distingue ainsi le versant réceptif, qui concerne notamment la compréhension, du versant expressif, qui concerne la production d’un message. Cette distinction aide à chercher un appui approprié."
+          "heading": "Comprendre une demande et formuler une réponse",
+          "text": "Le langage réceptif permet notamment de comprendre ce qu’on entend ; le langage expressif permet de trouver les mots et de construire sa réponse. Dans le trouble développemental du langage, ces deux dimensions peuvent demander des efforts différents. Quand Agathe ne sait pas à quoi renvoie « après », il lui faut d’abord une précision sur la question. Quand elle se représente l’étagère mais cherche son nom, du temps ou la possibilité de la montrer peuvent lui servir.\n\nL’orthophoniste peut partir de cette distinction pour discuter avec Agathe de ce qui l’aide. Les papiers de la séance fournissent des exemples pour le suivi ; ils ne déterminent pas le profil clinique à eux seuls."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le profil d’Agathe s’apprécie dans la durée en orthophonie et dans son parcours de soins ; le jeu des trois papiers ne détermine pas un sous-type du trouble."
+          "heading": "Comment distinguer une question mal comprise d’une réponse difficile à formuler ?",
+          "points": [
+            {
+              "heading": "Il manque le sens de la demande",
+              "text": "Avant de répondre, il faut parfois savoir à quoi se rapporte un mot ou dans quel ordre suivre les éléments.",
+              "examples": [
+                "Agathe entend « après » et doit savoir après quelle étape.",
+                "Un élève à qui l’on demande « Et l’autre ? » peut avoir besoin que l’adulte nomme l’objet visé."
+              ]
+            },
+            {
+              "heading": "La réponse est connue avant d’être dite",
+              "text": "Une personne peut savoir ce qu’elle veut montrer et chercher encore les mots qui l’expriment.",
+              "examples": [
+                "Agathe se représente l’endroit où se trouve l’étagère mais tarde à le nommer.",
+                "Un enfant peut pointer la bonne porte sans retrouver tout de suite « cabanon »."
+              ]
+            },
+            {
+              "heading": "Les deux difficultés peuvent se suivre",
+              "text": "Clarifier la question laisse parfois encore le travail de formuler la réponse.",
+              "examples": [
+                "Au cabinet, Agathe veut sélectionner une question puis dire sa réponse ou montrer le trajet.",
+                "En classe, un enfant peut d’abord faire préciser quel jeudi est prévu, puis chercher une phrase pour dire s’il viendra."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à ce qu’on peut essayer",
-          "text": "L’objectif de cette séance se construit avec Agathe à partir de ce qui lui est utile au quotidien. Elle veut pouvoir signaler qu’elle a perdu la question, puis répondre par une phrase ou en montrant un trajet. À son prochain rendez-vous, elle pourra dire si elle a utilisé sa demande, si quelqu’un l’a entendue ou si elle a choisi autre chose. L’orthophoniste peut reprendre ce retour pour ajuster le travail avec elle. À l’école, l’adulte peut annoncer « une question d’abord », laisser le support à portée et faire une pause. Le dessin du jardin appartient toujours à Agathe et à sa classe. Il a sa propre fonction : aider d’autres élèves à retrouver des graines."
+          "heading": "3 techniques pour choisir un appui selon le point qui bloque",
+          "points": [
+            {
+              "heading": "Préciser le mot qui relie les étapes",
+              "objective": "Rendre la question assez claire pour y répondre.",
+              "exercise": [
+                "Repérez le mot qui peut désigner plusieurs moments.",
+                "Remplacez-le par le lieu ou l’action précise.",
+                "Demandez si c’est bien ce dont l’enfant avait besoin avant d’attendre sa réponse."
+              ],
+              "benefit": "La clarification agit sur le message à comprendre."
+            },
+            {
+              "heading": "Donner une autre façon de formuler",
+              "objective": "Laisser la personne exprimer ce qu’elle sait.",
+              "exercise": [
+                "Laissez un temps après la question.",
+                "Proposez, si elle le souhaite, de montrer, dessiner ou dire.",
+                "Vérifiez le sens de ce qu’elle a choisi de transmettre."
+              ],
+              "benefit": "La personne peut répondre même si un nom reste difficile à trouver."
+            },
+            {
+              "heading": "Apporter un exemple au suivi",
+              "objective": "Aider à discuter de ce qui se passe hors du cabinet.",
+              "exercise": [
+                "Choisissez avec l’enfant un échange dont il veut parler.",
+                "Décrivez la question et ce qui a aidé à y répondre.",
+                "Demandez à l’orthophoniste comment reprendre cette situation avec lui."
+              ],
+              "benefit": "Les choix de suivi tiennent compte d’un usage précis du langage."
+            }
+          ]
         }
       ],
       "ending_title": "Le papier dans la poche de devant",
@@ -190,7 +417,8 @@
         "next": "Sa mère a vu une copie où la réserve devient difficile à distinguer. Agathe va vérifier ce problème de reproduction avant le passage de relais."
       },
       "clinical_focus": "Langage réceptif et expressif",
-      "clinical_intro": "Au cabinet, Agathe ne sait pas à quoi renvoie « après » dans une question. Pour une autre, elle voit exactement où est l’étagère et cherche ses mots. Cette différence éclaire deux dimensions du trouble développemental du langage. Comprendre le message aide à savoir à quelle question répondre, puis il faut pouvoir organiser une réponse. L’orthophoniste ajuste le travail à partir des situations qui importent à Agathe."
+      "clinical_intro": "Au cabinet, Agathe ne sait pas à quoi renvoie « après » dans une question. Pour une autre, elle voit exactement où est l’étagère et cherche ses mots. Cette différence éclaire deux dimensions du trouble développemental du langage. Comprendre le message aide à savoir à quelle question répondre, puis il faut pouvoir organiser une réponse. L’orthophoniste ajuste le travail à partir des situations qui importent à Agathe.",
+      "conclusion": "Agathe garde « laquelle d’abord ? » dans sa poche et choisira de le montrer si elle en a besoin. Le trajet qu’elle montre ensuite à sa mère lui pose une autre question : que vaut le plan quand deux repères se confondent sur la copie ?"
     },
     {
       "number": 5,
@@ -208,17 +436,73 @@
         {
           "role": "explanation",
           "heading": "Quand l’information manque au document",
-          "text": "Un support visuel peut aider à suivre un message s’il donne les repères dont son lecteur a besoin. Un dessin trop semblable à l’objet voisin, ou une indication de lieu qui dépend de ce que l’on connaît déjà, peut faire hésiter n’importe qui."
+          "text": "Un support visuel peut aider à suivre un message s’il donne les repères dont son lecteur a besoin. Un dessin trop semblable à l’objet voisin, ou une indication de lieu qui dépend de ce que l’on connaît déjà, peut faire hésiter n’importe qui.\n\nLa copie en gris fait perdre l’indice de couleur qui distinguait la réserve. Le trouble développemental du langage peut rendre un repère visuel utile à Agathe, mais la même ambiguïté arrête sa mère puis Mme Sorel. Tester le document permet ici de repérer ce que ses auteurs savaient et que les lecteurs ne pouvaient pas deviner."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le trouble développemental du langage d’Agathe rend certaines tâches de compréhension ou de formulation plus coûteuses. Il n’explique pas que Mme Sorel prenne un rectangle pour une autre porte. C’est le document commun qui laisse place à deux lectures. Relier le nom d’un lieu, son signe et sa position permet ici à Agathe et à Inès de revoir ce qu’elles ont laissé implicite."
+          "heading": "Comment un plan censé aider peut-il lui-même prêter à confusion ?",
+          "points": [
+            {
+              "heading": "Un signe peut disparaître en changeant de format",
+              "text": "Un plan qui repose sur une couleur perd une partie de son sens si cette couleur n’est plus visible.",
+              "examples": [
+                "La boîte bleue ressemble à une tache grise sur la photocopie.",
+                "Deux lignes de couleurs différentes peuvent devenir indiscernables sur une impression en noir et blanc."
+              ]
+            },
+            {
+              "heading": "Un repère évident pour l’auteur reste caché au lecteur",
+              "text": "Sans nom ou point de départ, deux dessins ressemblants peuvent conduire à des lieux différents.",
+              "examples": [
+                "Mme Sorel montre la mauvaise entrée quand elle cherche par où commencer.",
+                "Un lecteur peut prendre un fermoir pour un cadenas s’il ne voit pas la boîte à laquelle il correspond."
+              ]
+            },
+            {
+              "heading": "Le trajet révèle ce que le dessin n’explique pas",
+              "text": "Un lecteur qui indique son premier geste permet de voir où le support cesse de l’aider.",
+              "examples": [
+                "La copie annotée permet de retrouver l’entrée, mais le fermoir demande encore une légende.",
+                "Une personne peut comprendre les symboles sur table puis les chercher sur le mauvais mur dans le jardin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander où la lecture s’arrête",
-          "text": "Pour vérifier leur carte, les deux élèves peuvent demander à un lecteur de montrer le départ et de dire ce qu’il regarderait ensuite. L’adulte n’a pas besoin de corriger le carton ou la phrase d’Agathe : il peut signaler précisément les endroits où le choix se brouille. L’ASHA encourage à tenir compte de l’environnement de communication et des ressources de l’enfant ; l’essai à la photocopieuse en donne un exemple, sans présumer que ce dessin conviendra à tout le monde. Le prochain lecteur peut comprendre les deux portes et avoir du mal à faire correspondre la légende et les objets sur place. Agathe cherche une façon de s’en apercevoir assez tôt pour pouvoir encore modifier la feuille."
+          "heading": "3 techniques pour vérifier qu’un support visuel dit ce qu’on attend",
+          "points": [
+            {
+              "heading": "Relire dans le format utilisé",
+              "objective": "Repérer ce que la photocopie ou la distance fait disparaître.",
+              "exercise": [
+                "Regardez l’exemplaire que les lecteurs auront en main.",
+                "Entourez les signes qu’on peut confondre.",
+                "Ajoutez un mot ou une forme distincte à ces endroits."
+              ],
+              "benefit": "L’information ne dépend plus d’une seule couleur."
+            },
+            {
+              "heading": "Demander au lecteur de montrer son départ",
+              "objective": "Trouver l’ambiguïté avant de donner une longue explication.",
+              "exercise": [
+                "Donnez la carte à quelqu’un qui ne connaît pas le trajet.",
+                "Demandez où il commencerait et ce qu’il regarderait ensuite.",
+                "Notez l’endroit où vos interprétations se séparent."
+              ],
+              "benefit": "Le retour indique quoi améliorer dans le document."
+            },
+            {
+              "heading": "Relier un dessin à un objet réel",
+              "objective": "Vérifier si la légende sert dans le lieu prévu.",
+              "exercise": [
+                "Prenez la copie finale dans le jardin.",
+                "Mettez chaque signe à côté de l’objet correspondant.",
+                "Laissez le lecteur proposer un autre repère s’il hésite encore."
+              ],
+              "benefit": "Le support peut évoluer à partir de son usage réel."
+            }
+          ]
         }
       ],
       "ending_title": "Un carré sur le couvercle",
@@ -235,7 +519,8 @@
         "next": "Mme Roussel reçoit une copie ; l’autre est destinée à un essai sur place. Il reste à convenir d’un créneau et des rôles."
       },
       "clinical_focus": "Ambiguïté des supports visuels",
-      "clinical_intro": "Une copie en gris efface une distinction qu’Agathe croyait claire et Mme Sorel montre la mauvaise entrée. Un plan peut aider une personne qui a un trouble du langage à retrouver des repères, à condition de porter l’information nécessaire. Quand plusieurs lecteurs hésitent au même endroit, le groupe peut clarifier le document plutôt que d’interpréter ce malentendu comme un indice sur le trouble d’Agathe."
+      "clinical_intro": "Une copie en gris efface une distinction qu’Agathe croyait claire et Mme Sorel montre la mauvaise entrée. Un plan peut aider une personne qui a un trouble du langage à retrouver des repères, à condition de porter l’information nécessaire. Quand plusieurs lecteurs hésitent au même endroit, le groupe peut clarifier le document plutôt que d’interpréter ce malentendu comme un indice sur le trouble d’Agathe.",
+      "conclusion": "La boîte redevient repérable grâce au mot « réserve » et au dessin du couvercle. Agathe garde une copie pour un lecteur qui pourra essayer le trajet. Ce que l’essai dira du plan reste distinct de ce que son suivi dira de son langage."
     },
     {
       "number": 6,
@@ -253,17 +538,73 @@
         {
           "role": "explanation",
           "heading": "Donner une place à l’avis de l’enfant",
-          "text": "Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre."
+          "text": "Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre.\n\nUne réunion d’aménagement peut demander à l’enfant de se prononcer sur des mots qu’il entend rarement. « Élargir les aménagements » ne dit pas à Agathe quelle consigne changera, dans quel lieu ni avec qui. La discussion devient plus accessible lorsque les adultes décrivent une action et laissent l’enfant dire si elle lui conviendrait."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe sait expliquer ce qui s’est passé devant le bureau, mais le vocabulaire de la réunion lui échappe par moments. Demander à l’enseignante ce qu’elle entend par « aménagements » change la suite de la discussion. Sa mère peut apporter ce qu’elle observe et Mme Roussel parler de ce qu’elle peut organiser à l’école. Le suivi du langage continue avec l’orthophoniste, sans que la réunion décide à sa place de la suite des soins."
+          "heading": "Comment des mots de réunion peuvent-ils empêcher de donner son avis ?",
+          "points": [
+            {
+              "heading": "Un terme abstrait laisse la situation dans le flou",
+              "text": "Comprendre un mot ou une formule générale ne suffit pas toujours à imaginer ce qui sera fait.",
+              "examples": [
+                "Agathe hésite sur ce que signifie « élargir les aménagements ».",
+                "Un enfant peut entendre « organiser un relais » sans savoir si cela change la personne, l’heure ou le lieu."
+              ]
+            },
+            {
+              "heading": "Deux rendez-vous peuvent se confondre",
+              "text": "Quand plusieurs actions sont évoquées ensemble, il faut pouvoir retrouver le but de chacune.",
+              "examples": [
+                "Mme Roussel distingue l’essai de deux élèves et l’accueil de la classe entière.",
+                "Une famille peut avoir besoin de deux dates écrites quand un entretien et une visite sont annoncés dans la même phrase."
+              ]
+            },
+            {
+              "heading": "Donner son avis suppose de connaître le destinataire",
+              "text": "Pour choisir ce qu’il veut partager, l’enfant doit savoir qui recevra l’information et à quoi elle servira.",
+              "examples": [
+                "Camille a besoin de la préférence d’Agathe pour les consignes, et pas des notes de séance.",
+                "À l’école, un élève peut accepter qu’un adulte connaisse son repère écrit et garder le reste du suivi privé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire circuler ce qui permet d’agir",
-          "text": "Dans ce jardin, Camille a besoin de savoir comment rendre une consigne plus facile à reprendre et comment annoncer un changement. Les notes d’une séance d’orthophonie n’ont pas à circuler pour qu’elle fasse ces deux choses. Avant de transmettre une préférence, les adultes peuvent nommer le destinataire et expliquer ce qu’ils veulent lui dire. Agathe peut indiquer les mots qu’elle accepte ou en choisir d’autres. Pour distinguer l’essai du passage de relais, Mme Roussel et Agathe peuvent garder deux lignes dans l’agenda, avec pour chacune une date et une action. Il sera alors possible de déplacer l’une sans faire croire que l’autre a été annulée. Ce support aide à parler du programme commun ; il ne sert pas à mesurer le langage d’Agathe."
+          "heading": "3 techniques pour rendre une réunion d’aménagement compréhensible",
+          "points": [
+            {
+              "heading": "Traduire la formule en une scène ordinaire",
+              "objective": "Permettre à l’enfant de juger ce que la proposition changerait.",
+              "exercise": [
+                "Choisissez la formule qui reste abstraite.",
+                "Expliquez qui ferait quoi dans une situation familière.",
+                "Demandez si l’appui semble utile ou appelle un changement."
+              ],
+              "benefit": "L’enfant peut répondre à une proposition qu’il peut se représenter."
+            },
+            {
+              "heading": "Écrire une action par créneau",
+              "objective": "Séparer les décisions qui ont des calendriers différents.",
+              "exercise": [
+                "Tracez une case pour chaque rendez-vous.",
+                "Inscrivez le groupe, le lieu et l’action.",
+                "Montrez à l’enfant la case qui le concerne avant de confirmer."
+              ],
+              "benefit": "Un changement de date peut ensuite se lire sans refaire toute la réunion."
+            },
+            {
+              "heading": "Valider le message destiné à un tiers",
+              "objective": "Partager les seuls repères utiles à la personne qui agit.",
+              "exercise": [
+                "Nommez le destinataire et ce dont il a besoin.",
+                "Relisez la phrase avec l’enfant et son parent.",
+                "Modifiez ou retirez ce qu’ils ne souhaitent pas communiquer, puis convenez de la transmission."
+              ],
+              "benefit": "L’équipe peut mettre en place l’appui tout en préservant le cadre du suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Un jeudi, puis un autre",
@@ -281,7 +622,8 @@
         "next": "L’enseignante organise deux créneaux distincts avec les CM1. Agathe garde le premier au dos du plan et veut choisir ses propres fleurs au marché."
       },
       "clinical_focus": "Compréhension du vocabulaire institutionnel",
-      "clinical_intro": "Agathe a des idées sur ce qui l’aide, mais elle hésite sur le sens d’« élargir les aménagements ». Avec un trouble développemental du langage, suivre les mots abstraits d’une réunion peut être difficile même quand on connaît bien le sujet concret. Quand l’enseignante précise la question, Agathe peut faire entendre son avis et choisir ce qu’elle souhaite partager au sujet de son suivi."
+      "clinical_intro": "Agathe a des idées sur ce qui l’aide, mais elle hésite sur le sens d’« élargir les aménagements ». Avec un trouble développemental du langage, suivre les mots abstraits d’une réunion peut être difficile même quand on connaît bien le sujet concret. Quand l’enseignante précise la question, Agathe peut faire entendre son avis et choisir ce qu’elle souhaite partager au sujet de son suivi.",
+      "conclusion": "Agathe repart avec la ligne du premier essai et laisse la discussion sur le collège pour un autre moment. Les adultes ont maintenant deux actions précises à organiser. Elle a pu prendre part à celles qui la concernent en sachant de quel jeudi ils parlaient."
     },
     {
       "number": 7,
@@ -299,17 +641,73 @@
         {
           "role": "explanation",
           "heading": "Apprendre un mot dans une situation qui compte",
-          "text": "Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte."
+          "text": "Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte.\n\nAgathe comprend « grimpantes » à partir du mur sur le sachet. Pour « naines », la photo seule ne lui indique pas la taille de la plante. En montrant un pot comparable, le marchand peut relier le mot à la place qui restera pour la chaise. Agathe a alors l’information dont elle avait besoin pour choisir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe a ici une question précise : quelle place la plante occupera-t-elle ? Les deux photos donnent des indices, et le marchand rattache les mots à des formes visibles. La difficulté à comprendre un terme spécialisé est aussi très ordinaire. Le marché ne donne aucune information diagnostique nouvelle sur Agathe. Il montre ce qui change dans cet échange quand elle peut demander le renseignement dont dépend sa décision."
+          "heading": "Comment rattacher un mot inconnu à la décision qu’on doit prendre ?",
+          "points": [
+            {
+              "heading": "Les images éclairent certains mots",
+              "text": "Une image peut donner assez de contexte pour comprendre une propriété, tout en laissant une autre propriété invisible.",
+              "examples": [
+                "Agathe associe « grimpantes » aux tiges le long du mur.",
+                "La tache orange du second sachet ne lui dit pas si « naines » décrit les fleurs ou la plante entière."
+              ]
+            },
+            {
+              "heading": "Un mot technique peut laisser une question précise",
+              "text": "Même lorsqu’on connaît le sujet, un terme spécialisé peut empêcher de comparer deux options.",
+              "examples": [
+                "Agathe connaît les capucines mais ne sait pas quelle place le second sachet suppose.",
+                "Un enfant qui veut planter près d’une rambarde peut demander si « vivace » indique la hauteur ou la durée de vie."
+              ]
+            },
+            {
+              "heading": "Un exemple concret donne prise à la décision",
+              "text": "Relier le mot à un objet ou une situation connue permet de voir ce qu’il change pour soi.",
+              "examples": [
+                "Le marchand montre une plante compacte et Agathe imagine la chaise encore ouverte à côté du pot.",
+                "Devant deux bacs, un enfant peut choisir celui qui laisse le passage après avoir vu leur largeur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Aider à obtenir une réponse sans choisir",
-          "text": "La mère d’Agathe sait qu’elles cherchent un sachet pour un espace étroit. Si la file presse, elle peut garder leur place ou proposer de poser la question ensemble. Le marchand est celui qui connaît ses produits ; il peut montrer une différence et vérifier de quel pot il est question. Agathe, elle, sait ce qui compte sur son balcon. Le même partage des rôles lui servira pour le plan scolaire : elle peut nommer un sachet disponible ou montrer la réserve, tandis que la classe suivante décidera de ce qu’elle voudra essayer. Une explication claire aide à faire un choix. Elle ne garantit pas que la personne choisira ce que celui qui l’aide aurait choisi."
+          "heading": "3 techniques pour éclaircir un mot avant de choisir",
+          "points": [
+            {
+              "heading": "Dire ce qu’on a besoin de savoir",
+              "objective": "Orienter la demande vers l’information utile.",
+              "exercise": [
+                "Nommez le mot que vous cherchez à comprendre.",
+                "Dites ce qui doit tenir ou rester possible dans votre situation.",
+                "Demandez quel exemple représente le mieux cette différence."
+              ],
+              "benefit": "La réponse peut porter sur la propriété qui guide le choix."
+            },
+            {
+              "heading": "Comparer sur place",
+              "objective": "Relier l’étiquette à une chose que l’on peut regarder.",
+              "exercise": [
+                "Posez les deux options côte à côte.",
+                "Demandez à la personne qui connaît les produits d’en montrer la différence.",
+                "Indiquez quelle option convient au lieu que vous avez en tête."
+              ],
+              "benefit": "Le mot devient un renseignement utilisable."
+            },
+            {
+              "heading": "Laisser à la personne le temps de poser la question",
+              "objective": "Préserver sa décision quand l’échange est pressé.",
+              "exercise": [
+                "Demandez si elle veut parler seule ou avec vous.",
+                "Attendez un moment où le vendeur peut écouter.",
+                "Laissez-la choisir après avoir entendu la réponse."
+              ],
+              "benefit": "Le proche aide à obtenir l’information et la personne peut en faire son propre usage."
+            }
+          ]
         }
       ],
       "ending_title": "Un sachet pour chez elle",
@@ -326,7 +724,8 @@
         "next": "Le sachet reste à la maison. Pour l’essai à l’école, Agathe demande aux deux CM1 où ils voudraient des fleurs avant d’imaginer une variété à leur place."
       },
       "clinical_focus": "Compréhension du vocabulaire en contexte",
-      "clinical_intro": "Agathe reconnaît les images de deux sachets mais ne sait pas ce que « naines » indique sur la plante. Le vocabulaire peut demander du travail dans un trouble développemental du langage. Un mot spécialisé peut aussi faire hésiter n’importe qui. Montrer des plantes concrètes rend la différence utile pour sa décision, et sa mère lui laisse le temps de poser elle-même la question."
+      "clinical_intro": "Agathe reconnaît les images de deux sachets mais ne sait pas ce que « naines » indique sur la plante. Le vocabulaire peut demander du travail dans un trouble développemental du langage. Un mot spécialisé peut aussi faire hésiter n’importe qui. Montrer des plantes concrètes rend la différence utile pour sa décision, et sa mère lui laisse le temps de poser elle-même la question.",
+      "conclusion": "Agathe choisit les capucines pour la place qu’elle a chez elle. Elle garde pour les CM1 une autre question : où voudraient-ils voir des fleurs ? Comprendre un mot lui a servi à décider pour son balcon et lui donne une idée pour laisser décider les autres."
     },
     {
       "number": 8,
@@ -344,17 +743,73 @@
         {
           "role": "explanation",
           "heading": "Reprendre avec ses propres repères",
-          "text": "Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes."
+          "text": "Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes.\n\nAu portillon, la gauche change selon la position de Sami. Agathe préfère aligner la carte sur le banc et montrer la première étape. Puis elle demande au lecteur de montrer son trajet. La reformulation et son retour lui apprennent autant sur son explication que sur les informations du plan."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe préfère montrer l’endroit qu’elle a compris et dire ensuite ce qu’elle ferait. Cette fois, elle utilise cette manière de faire pour donner un départ à Sami. Son trajet n’a pas besoin d’être décrit d’un seul souffle : il devient possible de comparer un lieu réel, un dessin et un geste. Le premier essai des deux CM1 ne renseigne pas sur leur langage. Le plan ne disait pas comment se placer ; ce manque suffit à expliquer qu’on parte ailleurs."
+          "heading": "Comment reformuler une direction quand le point de vue change ?",
+          "points": [
+            {
+              "heading": "Le mot dépend de la position de chacun",
+              "text": "« À gauche » suppose que l’on sache de quel côté on regarde. Deux personnes qui se font face peuvent comprendre des directions opposées.",
+              "examples": [
+                "Sami se retourne vers Agathe au moment où elle s’apprête à lui indiquer la gauche.",
+                "Un lecteur placé de l’autre côté d’une table peut suivre « derrière la boîte » vers le bord opposé."
+              ]
+            },
+            {
+              "heading": "Un repère fixe stabilise le départ",
+              "text": "Comparer un dessin au lieu permet de partager un point de départ avant de nommer le chemin.",
+              "examples": [
+                "Agathe oriente le plan en comparant le dessin du banc au vrai banc.",
+                "Dans une école, montrer la porte au panneau vert peut être plus précis que dire « la suivante »."
+              ]
+            },
+            {
+              "heading": "Le retour du lecteur permet de corriger le support",
+              "text": "Voir comment l’autre suit la consigne révèle une ambiguïté que le premier exemple peut laisser passer.",
+              "examples": [
+                "Sami montre son prochain pas du bout de sa botte.",
+                "Lila perd le sens du plan en retournant la page et propose une légende devant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Voir ce que fait l’autre du message",
-          "text": "Au lieu de répéter le trajet plus fort, on peut convenir d’un point de départ et demander à l’autre ce qu’il voit ou ce qu’il ferait ensuite. S’il part dans une autre direction, on apprend quelque chose sur le message qu’il a reçu. Le retour peut se faire par un déplacement, une indication du doigt ou une phrase. Camille peut s’occuper de l’accès au cabanon pendant que les enfants examinent la carte. En laissant Lila placer son repère, Agathe découvre aussi ce que le lecteur doit retrouver sans retourner la page. C’est un essai de terrain qui fait évoluer leur outil commun. Il ne demande à personne de réciter la consigne devant le groupe."
+          "heading": "3 techniques pour reformuler un trajet à partir d’un repère commun",
+          "points": [
+            {
+              "heading": "Aligner le plan et le lieu",
+              "objective": "Stabiliser la perspective avant de donner la direction.",
+              "exercise": [
+                "Placez-vous ensemble au départ.",
+                "Repérez un élément fixe sur le plan et dans le lieu.",
+                "Orientez la feuille avant de parler du trajet."
+              ],
+              "benefit": "Les deux personnes se réfèrent au même côté."
+            },
+            {
+              "heading": "Montrer une étape puis demander la suite",
+              "objective": "Vérifier ce que le lecteur peut faire avec l’explication.",
+              "exercise": [
+                "Montrez un premier geste.",
+                "Demandez à l’autre de montrer ou dire son prochain repère.",
+                "Reprenez seulement l’endroit où vos parcours divergent."
+              ],
+              "benefit": "Le retour guide la reformulation sans faire réciter le trajet entier."
+            },
+            {
+              "heading": "Placer l’information là où elle sert",
+              "objective": "Éviter que le lecteur perde un repère en cherchant l’autre.",
+              "exercise": [
+                "Repérez où la lecture s’interrompt.",
+                "Demandez au lecteur d’indiquer où il cherchait la légende.",
+                "Ajoutez-la à cet endroit et essayez de nouveau."
+              ],
+              "benefit": "Le plan reste utilisable pendant le déplacement."
+            }
+          ]
         }
       ],
       "ending_title": "La légende au bord du banc",
@@ -372,7 +827,8 @@
         "next": "Les deux CM1 trouvent la réserve après le premier exemple. La légende va sur le devant ; les deux idées pour les fleurs seront transmises comme des propositions."
       },
       "clinical_focus": "Reformulation d’une consigne spatiale",
-      "clinical_intro": "Sami se tourne et la gauche dont Agathe allait parler change de sens. Elle préfère montrer le départ, puis lui demander ce qu’il ferait. Le trouble développemental du langage peut toucher la compréhension et la formulation, et un exemple visible peut étayer l’une comme l’autre. Agathe découvre ici comment vérifier l’information que chacun a reçue en laissant le lecteur expliquer son trajet."
+      "clinical_intro": "Sami se tourne et la gauche dont Agathe allait parler change de sens. Elle préfère montrer le départ, puis lui demander ce qu’il ferait. Le trouble développemental du langage peut toucher la compréhension et la formulation, et un exemple visible peut étayer l’une comme l’autre. Agathe découvre ici comment vérifier l’information que chacun a reçue en laissant le lecteur expliquer son trajet.",
+      "conclusion": "Agathe trouve un départ commun avec Sami, puis Lila montre ce qui manque au plan. Toutes deux gardent les deux étoiles des fleurs sans trancher. De retour en classe, il reste à raconter pourquoi la légende doit changer de côté."
     },
     {
       "number": 9,
@@ -390,17 +846,73 @@
         {
           "role": "explanation",
           "heading": "Rendre une suite d’événements compréhensible",
-          "text": "Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux."
+          "text": "Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux.\n\nAgathe revoit les gestes de Lila et utilise des pronoms dont Inès ne connaît pas encore les référents. Deux dessins peuvent poser l’ordre des gestes ; les légendes disent ensuite ce qui a conduit à déplacer le signe. Ce travail porte sur l’histoire à transmettre et peut s’appuyer sur les images que l’enfant a déjà en tête."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe a des images assez nettes pour reprendre les gestes de Lila. Ce qui lui demande plus de travail est de les transformer en un récit qui donne ces images au lecteur. Les besoins varient selon les tâches ; être à l’aise pour décrire un repère avec le plan devant soi ne dit pas comment on racontera l’essai le lendemain. Les professionnels peuvent examiner ces différences quand elles gênent les apprentissages. Le texte de classe est une occasion d’essayer une autre forme de récit, sans en tirer de bilan."
+          "heading": "Comment raconter une scène à quelqu’un qui ne l’a pas vue ?",
+          "points": [
+            {
+              "heading": "Le pronom suppose un nom connu",
+              "text": "L’auditeur ne peut pas toujours retrouver à qui renvoie « elle » ou quel objet désigne « ça ».",
+              "examples": [
+                "Agathe pense à Lila et à la feuille, mais Inès doit demander de qui et de quoi elle parle.",
+                "Dans un compte rendu, « il l’a déplacée » reste ambigu quand deux élèves et deux boîtes ont été mentionnés."
+              ]
+            },
+            {
+              "heading": "L’ordre vécu n’est pas toujours dans les phrases",
+              "text": "Un récit utilisable aide l’auditeur à relier le premier geste et ce qui a suivi.",
+              "examples": [
+                "Le lecteur doit voir Lila retourner la feuille avant de comprendre l’ajout du signe sur le devant.",
+                "Un dessin du plan déjà corrigé n’expliquerait pas à lui seul pourquoi quelqu’un avait hésité."
+              ]
+            },
+            {
+              "heading": "La cause donne un sens à la correction",
+              "text": "Raconter qu’une chose a changé ne suffit pas toujours à dire pourquoi elle a changé.",
+              "examples": [
+                "La légende explique qu’on garde la feuille dans le même sens lorsque le signe est devant.",
+                "Une proposition de fleurs mérite une autre case puisqu’elle ne découle pas de l’erreur de lecture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire autour des moments utiles",
-          "text": "Mme Roussel peut rappeler ce que la page doit faire comprendre : d’abord le moment où Lila perd le sens de la carte en la retournant, puis la modification qu’elle propose. Deux petites scènes mises dans l’ordre et accompagnées d’une légende peuvent garder ce lien. Agathe choisit ce qu’elle veut dire dans la légende. Inès peut tenir le crayon ou demander qui a tourné la feuille si c’est encore ambigu. Agathe peut lire, dicter, montrer ou demander un exemple de légende. Ces options portent sur la façon d’écrire une page commune. Le travail plus spécifique sur l’organisation du langage, s’il est utile pour elle, se discute avec son orthophoniste."
+          "heading": "3 techniques pour rendre le fil d’un récit visible",
+          "points": [
+            {
+              "heading": "Donner un nom avant le pronom",
+              "objective": "Permettre au lecteur d’identifier qui fait le premier geste.",
+              "exercise": [
+                "Choisissez la personne et l’objet dont vous parlez.",
+                "Nommez-les dans la première phrase.",
+                "Demandez à un lecteur de signaler le prochain endroit où il hésite."
+              ],
+              "benefit": "Le lecteur suit les actions sans inventer les personnes."
+            },
+            {
+              "heading": "Organiser deux moments sur la page",
+              "objective": "Montrer ce qui s’est passé avant et après.",
+              "exercise": [
+                "Dessinez ou notez le moment où le problème apparaît.",
+                "Placez à côté le geste qui le résout.",
+                "Ajoutez une phrase qui explique ce que le second change."
+              ],
+              "benefit": "L’ordre et la cause deviennent consultables ensemble."
+            },
+            {
+              "heading": "Séparer le constat et l’idée à discuter",
+              "objective": "Éviter que les propositions soient prises pour des décisions prises.",
+              "exercise": [
+                "Relisez ce qui décrit l’essai.",
+                "Placez les nouvelles idées dans un autre cadre.",
+                "Ajoutez la question que les lecteurs pourront encore trancher."
+              ],
+              "benefit": "Le récit explique la correction et laisse sa place à la suite."
+            }
+          ]
         }
       ],
       "ending_title": "Deux dessins et une cause",
@@ -418,7 +930,8 @@
         "next": "Le plan corrigé et la page doivent accompagner la visite du jeudi, prévue en deux groupes. La pluie commence à compromettre la visite sur place."
       },
       "clinical_focus": "Organisation du récit",
-      "clinical_intro": "Agathe revoit Lila retourner la carte, puis déplacer un signe. Quand elle raconte l’essai, ses pronoms laissent Inès chercher de qui et de quoi il s’agit. Un trouble développemental du langage peut compliquer l’organisation d’un récit quand l’interlocuteur n’a pas vu la scène. Nommer les personnes et rendre l’ordre des événements visible aide Agathe à expliquer pourquoi le signe a changé de place."
+      "clinical_intro": "Agathe revoit Lila retourner la carte, puis déplacer un signe. Quand elle raconte l’essai, ses pronoms laissent Inès chercher de qui et de quoi il s’agit. Un trouble développemental du langage peut compliquer l’organisation d’un récit quand l’interlocuteur n’a pas vu la scène. Nommer les personnes et rendre l’ordre des événements visible aide Agathe à expliquer pourquoi le signe a changé de place.",
+      "conclusion": "Deux dessins permettent de comprendre le changement de légende sans avoir assisté à l’essai. Agathe laisse les fleurs en dehors de ce récit, dans la case des décisions à venir. Le groupe a une page prête alors que la pluie met le trajet du jeudi en question."
     },
     {
       "number": 10,
@@ -436,17 +949,73 @@
         {
           "role": "explanation",
           "heading": "Ce qui change quand le contexte change",
-          "text": "Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront."
+          "text": "Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront.\n\nAgathe retient « tous » et « Camille » mais perd la relation entre les deux. L’annonce change à la fois le lieu, le nombre de visiteurs et le rôle des adultes. Un programme lisible distingue ce que la pluie reporte et ce que le groupe peut faire ailleurs."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle retient deux mots et ne parvient pas à les relier tout de suite. Le changement de lieu explique une partie de l’effort : elle ne peut plus regarder le banc pour imaginer l’arrivée. Les appuis essayés au cabinet ou au jardin restent des possibilités. C’est à l’école de les adapter à cette nouvelle annonce avec Agathe et les autres élèves."
+          "heading": "Comment un changement de programme peut-il brouiller un rôle pourtant préparé ?",
+          "points": [
+            {
+              "heading": "Des mots restent sans lien clair",
+              "text": "Retenir les personnes et les lieux n’indique pas nécessairement qui fait quelle action.",
+              "examples": [
+                "Agathe a noté « tous » et « Camille » sans comprendre le nouveau rôle de Camille.",
+                "Une élève peut entendre « salle de lecture » et « boîte » sans savoir si elle doit apporter la boîte ou si elle y sera déjà."
+              ]
+            },
+            {
+              "heading": "L’ancien déroulement reste en tête",
+              "text": "La personne peut continuer à se représenter le lieu et les rôles préparés alors que l’annonce en modifie une partie.",
+              "examples": [
+                "Agathe avait prévu de montrer le chemin depuis le vrai portillon.",
+                "Les élèves peuvent encore attendre deux visites alors que toute la classe viendra ensemble."
+              ]
+            },
+            {
+              "heading": "Les rôles peuvent être reconstruits à partir du nouveau lieu",
+              "text": "Quand les informations sont séparées, chacun peut décider ce qu’il garde et ce qu’il adapte.",
+              "examples": [
+                "Agathe place un portillon en carton sur la table et conserve le début du trajet.",
+                "Camille montre la boîte dans la salle pendant qu’Inès distribue les copies."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Remettre les décisions dans l’ordre",
-          "text": "On peut d’abord rendre la décision de Camille explicite : le jardin est fermé pour cette visite. Puis indiquer ce qui aura lieu et ce qui attendra, sur deux lignes que tout le groupe pourra relire. Agathe peut demander quel matériel sera présent et quel rôle elle peut encore avoir. Inès peut proposer de distribuer les feuilles ou de reprendre une partie de la présentation, en laissant Agathe dire ce qu’elle préfère garder. Mme Roussel et Camille choisissent et annoncent un lieu praticable ; les élèves n’ont pas à rattraper le programme en entrant dans le jardin fermé. L’objectif peut rester de laisser aux CM1 une carte et une décision à prendre."
+          "heading": "3 techniques pour retrouver ses repères dans un programme modifié",
+          "points": [
+            {
+              "heading": "Séparer ce qui se fait et ce qui attend",
+              "objective": "Donner une place distincte à la fermeture et au nouveau rendez-vous.",
+              "exercise": [
+                "Annoncez d’abord ce qui a changé et pourquoi.",
+                "Écrivez sur une ligne ce qui est maintenu et sur l’autre ce qui est reporté.",
+                "Lisez les deux lignes à ceux qui doivent adapter leur rôle."
+              ],
+              "benefit": "L’ancien et le nouveau programme cessent de se superposer."
+            },
+            {
+              "heading": "Redonner une action à chaque nom",
+              "objective": "Clarifier les responsabilités dans le nouveau cadre.",
+              "exercise": [
+                "Nommez la personne qui apporte chaque objet.",
+                "Vérifiez qui ouvre la présentation et qui distribue.",
+                "Faites confirmer les rôles avant d’annoncer le changement au groupe."
+              ],
+              "benefit": "Chacun peut savoir ce qu’il doit préparer."
+            },
+            {
+              "heading": "Remplacer un repère absent",
+              "objective": "Garder la possibilité de montrer le début du trajet hors du jardin.",
+              "exercise": [
+                "Choisissez le détail sans lequel on ne sait pas d’où partir.",
+                "Représentez-le sur la table.",
+                "Faites essayer le départ à quelqu’un qui découvre le dispositif."
+              ],
+              "benefit": "Le groupe peut travailler dans le lieu prévu sans rouvrir le jardin."
+            }
+          ]
         }
       ],
       "ending_title": "Le portillon sur la table",
@@ -464,7 +1033,8 @@
         "next": "Jeudi, toute la classe de CM1 verra le plan en salle de lecture. L’essai sur place est reporté à la réouverture du jardin."
       },
       "clinical_focus": "Compréhension d’un programme modifié",
-      "clinical_intro": "La pluie change la visite. Agathe note « tous » et « Camille » sans comprendre ce que Camille fera ni ce qui reste prévu. Un trouble développemental du langage peut redevenir visible lorsque le contexte change et que plusieurs décisions arrivent dans la même phrase. Préciser ce qui est reporté, ce qui est maintenu et le rôle de chacun lui permet de retrouver la place qu’elle souhaite garder."
+      "clinical_intro": "La pluie change la visite. Agathe note « tous » et « Camille » sans comprendre ce que Camille fera ni ce qui reste prévu. Un trouble développemental du langage peut redevenir visible lorsque le contexte change et que plusieurs décisions arrivent dans la même phrase. Préciser ce qui est reporté, ce qui est maintenu et le rôle de chacun lui permet de retrouver la place qu’elle souhaite garder.",
+      "conclusion": "Agathe peut retrouver son rôle dès que les nouvelles tâches sont visibles. Son petit portillon rend le départ possible dans la salle de lecture. La visite du jardin reste reportée et la question sur les fleurs garde sa place pour les CM1."
     },
     {
       "number": 11,
@@ -482,17 +1052,73 @@
         {
           "role": "explanation",
           "heading": "Répondre à la question qu’on a retrouvée",
-          "text": "Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble."
+          "text": "Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.\n\nLes questions sur les sachets et sur le banc ne demandent pas la même réponse. Agathe choisit de reprendre d’abord celle sur les graines. En redonnant une place aux autres questions, Camille l’aide à finir cet échange sans obliger le groupe à renoncer au suivant."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle perd le début de la discussion et l’autre question prend la place de celle qu’elle voulait traiter. Elle choisit de revenir aux sachets, fait redire la question et s’appuie sur la boîte. Le langage réceptif et le langage expressif sont tous deux sollicités par cet échange. Ce qui a fonctionné dans cette salle dépend aussi de Camille, qui laisse le temps nécessaire, et de l’élève, qui accepte de reprendre."
+          "heading": "Comment faire préciser la question avant de chercher une réponse ?",
+          "points": [
+            {
+              "heading": "Une partie de la question peut manquer",
+              "text": "Il est difficile de savoir quoi dire si l’on a perdu le début ou le sujet de la demande.",
+              "examples": [
+                "Agathe reconnaît qu’il était question de sachets mais perd la question entière.",
+                "Un élève peut entendre « le banc » sans savoir si l’autre demande sa place ou s’il peut le déplacer."
+              ]
+            },
+            {
+              "heading": "Une reprise ciblée rend le sujet disponible",
+              "text": "Faire redire la question qui importe évite d’avoir à retrouver tous les échanges en même temps.",
+              "examples": [
+                "Agathe demande de revenir aux sachets avant de regarder le banc.",
+                "Un enfant peut demander « La question sur les pois, tu peux la redire ? » pendant qu’il garde le plan ouvert."
+              ]
+            },
+            {
+              "heading": "Les autres demandes ont besoin d’une place",
+              "text": "Mettre une question de côté permet de l’accueillir ensuite sans la laisser occuper la même place que la première.",
+              "examples": [
+                "Sami pose le sachet de pois sur la réserve avant qu’Agathe revienne au banc.",
+                "La proposition sur les fleurs peut rester près des deux étoiles jusqu’à ce que le groupe en parle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner la parole et laisser le résultat ouvert",
-          "text": "On peut se mettre d’accord sur une question à la fois et donner aux autres un endroit où garder la leur. S’ils sont plusieurs à vouloir parler, l’adulte peut organiser l’ordre sans répondre pour l’enfant qui présente. Sur le plan, Agathe peut ensuite montrer les étoiles comme des propositions. Le groupe peut marquer un point qu’il veut vérifier plutôt que de trancher tout de suite. Le but de cette transmission est que la classe suivante dispose d’assez d’informations pour agir et puisse dire ce qui ne lui convient pas. Agathe gardera la possibilité de répondre autrement lors d’un prochain échange, y compris de montrer sans parler si c’est ce qu’elle préfère."
+          "heading": "3 techniques pour retrouver une demande au milieu de plusieurs questions",
+          "points": [
+            {
+              "heading": "Nommer le bout que l’on a retenu",
+              "objective": "Inviter l’autre à redonner le bon message.",
+              "exercise": [
+                "Dites le mot ou l’objet dont vous vous souvenez.",
+                "Demandez à la personne de reprendre cette seule question.",
+                "Vérifiez que vous savez maintenant ce qu’elle veut savoir."
+              ],
+              "benefit": "Vous pouvez préparer une réponse à la demande exacte."
+            },
+            {
+              "heading": "Mettre les autres questions en attente",
+              "objective": "Garder un tour praticable sans fermer la discussion.",
+              "exercise": [
+                "Désignez un endroit où laisser les questions suivantes.",
+                "Invitez le groupe à déposer un repère ou une phrase courte.",
+                "Revenez à l’une d’elles après la réponse en cours."
+              ],
+              "benefit": "Une demande peut être terminée et les autres restent visibles."
+            },
+            {
+              "heading": "Choisir comment répondre après la reprise",
+              "objective": "Donner une réponse adaptée à ce que l’autre demande.",
+              "exercise": [
+                "Repérez si la question concerne un lieu, un objet ou une décision.",
+                "Choisissez de dire, montrer ou renvoyer au moment où le groupe pourra vérifier.",
+                "Demandez à l’autre si ce qu’il a compris lui suffit."
+              ],
+              "benefit": "La réponse peut être utile sans prendre toujours la forme d’une longue phrase."
+            }
+          ]
         }
       ],
       "ending_title": "Le banc reste libre",
@@ -510,7 +1136,8 @@
         "next": "La classe a une copie. Lila et Nora se proposent pour l’essai sur place si Camille peut rouvrir le jardin ; les pois et haricots restent en réserve."
       },
       "clinical_focus": "Clarification avant la réponse",
-      "clinical_intro": "Agathe avait préparé le trajet et sait où est le banc. Plusieurs élèves l’interrogent en même temps et elle perd la question sur les sachets. Dans ce trouble du langage, comprendre une demande spontanée puis formuler une réponse peut mobiliser plus d’effort que présenter un sujet préparé. Agathe fait préciser une question pour y répondre avant de passer à la suivante."
+      "clinical_intro": "Agathe avait préparé le trajet et sait où est le banc. Plusieurs élèves l’interrogent en même temps et elle perd la question sur les sachets. Dans ce trouble du langage, comprendre une demande spontanée puis formuler une réponse peut mobiliser plus d’effort que présenter un sujet préparé. Agathe fait préciser une question pour y répondre avant de passer à la suivante.",
+      "conclusion": "Agathe a fait redire la question sur les sachets avant de revenir au banc. Elle peut ensuite laisser les fleurs en discussion jusqu’à l’essai dehors. Les CM1 repartent avec un plan et une décision qu’ils pourront examiner sur place."
     },
     {
       "number": 12,
@@ -528,17 +1155,73 @@
         {
           "role": "explanation",
           "heading": "Ce que montre une passation réussie",
-          "text": "Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas."
+          "text": "Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas.\n\nAgathe doit encore faire préciser une phrase sur les copies pendant que Lila et Nora trouvent la réserve. Avec un trouble développemental du langage, les besoins peuvent varier selon l’échange et les appuis. L’activité réussie apporte une information sur le plan et les nouvelles jardinières ; les efforts d’Agathe restent à écouter à part."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Agathe reprend une question quand Camille parle du classeur et de la copie dans la même phrase. Dans le trouble développemental du langage, les points d’appui et les difficultés peuvent évoluer, et ce qui demande un effort varie selon les situations. Le résultat de cet atelier concerne le projet : les nouvelles jardinières savent où commencer et peuvent modifier la carte. Il ne mesure ni le langage d’Agathe ni la suite dont elle aura besoin en orthophonie."
+          "heading": "Comment une passation réussie peut-elle coexister avec un échange encore difficile ?",
+          "points": [
+            {
+              "heading": "Les outils changent ce que le groupe peut faire",
+              "text": "Un plan lisible et des repères que l’on peut vérifier dans le lieu rendent l’activité moins dépendante d’une longue explication.",
+              "examples": [
+                "Nora et Lila retrouvent la réserve sans qu’Agathe donne chaque étape.",
+                "Le mot « passage » aide les suivantes à discuter des fleurs à partir d’une contrainte visible."
+              ]
+            },
+            {
+              "heading": "Un autre message peut encore demander une précision",
+              "text": "Une phrase qui contient plusieurs décisions peut demander plus d’effort, même à la fin d’une activité connue.",
+              "examples": [
+                "Agathe fait reprendre la demande de Camille sur l’original et la copie.",
+                "Un élève qui connaît le trajet peut encore faire préciser quel exemplaire doit rester au jardin."
+              ]
+            },
+            {
+              "heading": "L’appui et le rôle peuvent évoluer séparément",
+              "text": "On peut transmettre la tâche aux autres et garder une préférence pour les échanges à venir.",
+              "examples": [
+                "Agathe laisse le plan aux CM1 et garde « laquelle d’abord ? » dans sa poche.",
+                "Les nouvelles jardinières peuvent modifier le plan sans lui demander de diriger chaque visite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser les suivants se servir du plan",
-          "text": "Garder une version au jardin et une autre en classe permet aux nouveaux élèves de vérifier un choix dans les deux lieux. Le détail « passage » est utile parce qu’il explique une décision que quelqu’un d’autre pourra revoir. Agathe peut convenir avec Nora de ce qui restera dans le classeur, puis la laisser expliquer sa proposition sans lui demander de suivre exactement sa présentation. De la même manière, les appuis utiles à Agathe pourront être revus dans les situations nouvelles. L’équipe éducative peut écouter ce qu’elle veut conserver, et l’orthophoniste discuter avec elle des besoins de communication qui se présentent. Agathe n’a pas à emporter toutes les tâches du jardin avec ces préférences."
+          "heading": "3 techniques pour garder les appuis utiles après un passage de relais",
+          "points": [
+            {
+              "heading": "Faire un retour sur l’activité précise",
+              "objective": "Distinguer ce que les nouveaux peuvent faire de ce qui reste à expliquer.",
+              "exercise": [
+                "Demandez-leur de montrer leur premier trajet.",
+                "Notez ce qu’ils ont trouvé et ce qu’ils veulent modifier.",
+                "Décidez où ils retrouveront ces repères."
+              ],
+              "benefit": "Le bilan porte sur l’usage réel du plan."
+            },
+            {
+              "heading": "Retenir une préférence pour le prochain échange",
+              "objective": "Garder un moyen de demander de l’aide qui appartient à la personne.",
+              "exercise": [
+                "Repérez une phrase ou un geste qui vous a servi.",
+                "Choisissez dans quelle situation l’essayer à nouveau.",
+                "Dites à la personne concernée ce que vous attendez d’elle."
+              ],
+              "benefit": "L’appui reste révisable selon les lieux et les interlocuteurs."
+            },
+            {
+              "heading": "Discuter des différences en suivi",
+              "objective": "Aider les professionnels à situer les besoins qui demeurent.",
+              "exercise": [
+                "Choisissez un échange devenu plus facile.",
+                "Ajoutez un autre échange qui vous a encore demandé une reprise.",
+                "Apportez les deux au prochain rendez-vous si vous le souhaitez."
+              ],
+              "benefit": "L’équipe peut entendre ce que le projet a permis sans en déduire que toutes les situations se ressemblent."
+            }
+          ]
         }
       ],
       "ending_title": "Un dernier tour de banc",
@@ -556,7 +1239,8 @@
         "next": "La transmission est faite et la future classe décidera des fleurs. Agathe passe à son pot de capucines ; ses appuis pourront être revus avec elle à la rentrée."
       },
       "clinical_focus": "Retentissement du langage selon les situations",
-      "clinical_intro": "Lila et Nora trouvent la réserve à l’aide du plan, pendant qu’Agathe doit faire préciser une phrase qui concerne les deux copies. Ces résultats peuvent coexister avec un trouble développemental du langage. Une adaptation rend un projet réalisable dans certaines conditions, tandis que d’autres échanges restent exigeants. Observer ces différences aide à choisir quels appuis garder quand l’environnement et les demandes changent."
+      "clinical_intro": "Lila et Nora trouvent la réserve à l’aide du plan, pendant qu’Agathe doit faire préciser une phrase qui concerne les deux copies. Ces résultats peuvent coexister avec un trouble développemental du langage. Une adaptation rend un projet réalisable dans certaines conditions, tandis que d’autres échanges restent exigeants. Observer ces différences aide à choisir quels appuis garder quand l’environnement et les demandes changent.",
+      "conclusion": "Lila et Nora savent où trouver la boîte et peuvent décider des fleurs. Agathe garde son papier pour d’autres échanges et laisse le jardin dans leurs mains. Son dernier tour de banc lui suffit avant de rejoindre Inès et de penser à ses propres capucines."
     }
   ]
 }

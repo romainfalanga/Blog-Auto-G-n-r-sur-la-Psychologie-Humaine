@@ -12,34 +12,90 @@
     {
       "number": 1,
       "slug": "mina-rendez-vous-papier-carnet",
-      "title": "Sensibilité au rejet quand Mina lit un refus dans un retard",
-      "description": "Alice annonce un retard. Mina entend un refus du cadeau et remarque son envie de mettre fin au rendez-vous avant de poser une question.",
+      "title": "Sensibilité au rejet quand un retard blesse comme un refus",
+      "description": "Devant la papeterie, un retard d’Alice fait mal à Mina comme si sa cousine avait refusé de la voir.",
       "context": "Devant une papeterie à la fin de la journée",
       "topics": [
         "Sensibilité au rejet",
-        "Peur de l’abandon",
-        "Interprétation des signaux sociaux"
+        "Attente d’une réponse",
+        "Retrait anticipé"
       ],
-      "opening": "La papeterie a posé les grandes feuilles contre la vitre, du côté où le soleil les fait pâlir. Mina regarde si le vert qu’elle avait choisi la semaine dernière est toujours là. Elle a promis à Alice un carnet fait à la main. Alice aimerait y écrire les retouches de costumes de sa troupe de théâtre. Elle a demandé des pages assez grandes pour dessiner une manche et un carnet assez mince pour tenir dans son sac. Elles devaient se retrouver pour voir le papier.\n\nLe message d’Alice arrive sept minutes après l’heure fixée. « Je ne serai pas là à temps. » Mina lit la phrase deux fois. Le mot « temps » lui reste dans la tête. Elle commence à penser qu’Alice a accepté ce cadeau par politesse et qu’elle regrette maintenant de devoir passer à la boutique. Derrière la vitre, la vendeuse retourne une étiquette. Elle n’a plus qu’une pile de vert. Mina saisit son téléphone pour répondre « Laisse tomber ». Avant de l’envoyer, elle lit sa phrase avec les mots d’Alice au-dessus.\n\nUne psychiatre a diagnostiqué un trouble de la personnalité chez Mina avant cette histoire et a précisé un profil borderline. En séance, Mina a déjà parlé de ces moments où elle croit savoir à quoi tient un retard, puis découvre qu’il lui manquait une information. Aujourd’hui, elle voudrait encore voir Alice et elle a quinze minutes avant que la vendeuse ferme. Elle efface sa phrase et cherche la question qui l’aidera à décider quoi faire de ces quinze minutes.",
+      "opening": "La papeterie a posé les grandes feuilles contre la vitre, du côté où le soleil les fait pâlir. Mina regarde si le vert qu’elle avait choisi la semaine dernière est toujours là. Elle a promis à Alice un carnet fait à la main. Alice aimerait y écrire les retouches de costumes de sa troupe de théâtre. Elle a demandé des pages assez grandes pour dessiner une manche et un carnet assez mince pour tenir dans son sac. Elles devaient se retrouver pour voir le papier.\n\nLe message d’Alice arrive sept minutes après l’heure fixée. « Je ne serai pas là à temps. » Mina lit la phrase deux fois. Le mot « temps » lui reste dans la tête. Elle baisse le téléphone comme si Alice venait de lui dire qu’elle ne voulait plus venir. Elle commence à penser qu’Alice a accepté ce cadeau par politesse et qu’elle regrette maintenant de devoir passer à la boutique. Derrière la vitre, la vendeuse retourne une étiquette. Elle n’a plus qu’une pile de vert. Mina saisit son téléphone pour répondre « Laisse tomber ». Avant de l’envoyer, elle lit sa phrase avec les mots d’Alice au-dessus.\n\nUne psychiatre a diagnostiqué un trouble de la personnalité chez Mina avant cette histoire et a précisé un profil borderline. En séance, Mina a déjà parlé de ces moments où elle croit savoir à quoi tient un retard, puis découvre qu’il lui manquait une information. Aujourd’hui, elle voudrait encore voir Alice et elle a quinze minutes avant que la vendeuse ferme. Elle efface sa phrase et cherche la question qui l’aidera à décider quoi faire de ces quinze minutes.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un diagnostic qui prend en compte une histoire",
-          "text": "Un trouble de la personnalité touche durablement la façon dont une personne se comprend ou fonctionne dans ses relations. Dans la CIM-11, le code 6D10 désigne le trouble de la personnalité. Le profil borderline, codé 6D11.5, est un qualificatif qui peut préciser le tableau clinique. Il concerne notamment une instabilité qui touche les liens, l’image de soi et les émotions, et des conduites impulsives. La forme et les effets de ces difficultés varient selon la personne. Les professionnels examinent l’évolution, les difficultés rencontrées dans différents contextes et leurs effets dans la vie. Ils construisent cette évaluation à partir d’une histoire plus large que l’échange montré ici."
+          "heading": "Quand la blessure précède le refus",
+          "text": "Une forte sensibilité au rejet peut rendre douloureux un signe encore ambigu de la part de quelqu’un à qui l’on tient. Elle fait partie des difficultés possibles du profil borderline. Dans la CIM-11, ce profil peut préciser un trouble de la personnalité établi par un professionnel à partir d’un fonctionnement durable. Se sentir blessé par un retard ne permet pas d’en tirer cette conclusion. Devant la papeterie, Mina a déjà mal à l’idée de ne pas être attendue et envisage de rentrer alors qu’elle souhaite passer un moment avec Alice."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mina a parlé avec sa psychiatre de difficultés présentes depuis plusieurs années et dans des situations différentes. Au suivi, elle peut reprendre ce qu’elle a éprouvé devant la papeterie et raconter la suite. La force d’une réaction mérite d’être entendue, et une question adressée à Alice peut lui apporter l’information qui lui manque."
+          "heading": "Comment la sensibilité au rejet change-t-elle l’attente ?",
+          "points": [
+            {
+              "heading": "Se sentir blessée par un signe ténu",
+              "text": "La peine arrive parfois au moment où les faits se résument encore à un détail. Le sentiment de rejet peut être intense même si aucun refus n’a été exprimé.",
+              "examples": [
+                "Dans la rue, les quelques mots sur le retard font à Mina l’effet d’un rendez-vous annulé.",
+                "Après une invitation, une personne se sent mise de côté en lisant « je te redis », alors que l’autre doit encore vérifier ses horaires."
+              ]
+            },
+            {
+              "heading": "Ne plus réussir à se consacrer à autre chose",
+              "text": "Le signe prend assez de place pour interrompre ce que la personne avait prévu de faire, même quand une décision reste possible.",
+              "examples": [
+                "Mina relit le message devant la vitrine. Pendant ce temps, elle perd de vue les papiers qu’elle venait comparer.",
+                "À un repas, une réponse inhabituellement brève occupe toute l’attention d’une personne. Elle décroche de la conversation qu’elle suivait jusque-là."
+              ]
+            },
+            {
+              "heading": "Se retirer d’une rencontre encore possible",
+              "text": "Annuler de son côté peut sembler une façon d’éviter un nouveau moment pénible. Ce premier mouvement peut coûter un échange dont la personne avait envie.",
+              "examples": [
+                "Mina tape « Laisse tomber » alors qu’elle est encore disponible après la fermeture.",
+                "Après deux appels sans réponse, une amie s’apprête à renoncer à la promenade prévue le lendemain, même si aucun changement n’a été annoncé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une question qui aide à choisir quoi faire",
-          "text": "Dans le message reçu, Alice dit qu’elle arrivera trop tard. Mina peut demander si elles ont encore un moment pour se voir. Elle peut préciser à quelle heure la boutique ferme, puis décider si elle veut regarder les feuilles seule ou rentrer. La question laisse à Alice la possibilité de répondre selon son emploi du temps. Mina garde son choix sur le carnet.\n\nUn suivi peut s’intéresser à ce qui rend l’attente pénible et aux appuis que Mina souhaite essayer. Le NICE recommande de construire les objectifs de soins avec la personne. Mina peut ainsi proposer de parler des attentes difficiles au travail et dans ses liens, en prenant la scène de la papeterie comme exemple."
+          "heading": "3 techniques pour faire face à un sentiment de rejet dans l’attente",
+          "points": [
+            {
+              "heading": "Prendre le temps de relire son brouillon",
+              "objective": "Laisser à la première réponse le temps de révéler ce qu’elle ferait au rendez-vous.",
+              "exercise": [
+                "Gardez le message dans le brouillon le temps de le relire.",
+                "Demandez-vous si vous voulez encore voir la personne aujourd’hui.",
+                "Si votre brouillon annule une rencontre que vous souhaitez garder, mettez-le de côté avant de décider quoi envoyer."
+              ],
+              "benefit": "Ce court délai peut éviter une annulation faite au plus fort de la peine."
+            },
+            {
+              "heading": "Faire une proposition liée à l’horaire",
+              "objective": "Vérifier s’il reste un moment possible pour se retrouver.",
+              "exercise": [
+                "Indiquez l’heure à laquelle votre activité se termine.",
+                "Proposez une option qui vous convient, comme un café après la fermeture.",
+                "Convenez d’un autre jour si aucun des deux horaires ne permet de se voir."
+              ],
+              "benefit": "Une réponse portant sur le rendez-vous peut aider à choisir quoi faire du temps disponible."
+            },
+            {
+              "heading": "Garder une part du projet pendant l’attente",
+              "objective": "Préserver un choix personnel tant que le rendez-vous reste incertain.",
+              "exercise": [
+                "Repérez une chose que vous êtes libre de faire sur place.",
+                "Décidez combien de temps vous voulez y consacrer.",
+                "Faites ce premier geste, par exemple comparer deux papiers, puis choisissez de rester ou de rentrer."
+              ],
+              "benefit": "Une action choisie peut redonner une place au projet pendant que la réponse tarde."
+            }
+          ]
         }
       ],
       "ending_title": "Un coin de papier dans la poche",
-      "ending": "Mina demande à Alice si elle pourra passer après la fermeture. Alice répond qu’elle sortira de la répétition à dix-huit heures trente et qu’elle a encore le temps de boire quelque chose. Mina entre regarder les papiers. La vendeuse lui donne un coin de feuille verte et un autre couleur de rouille. Quand Alice arrive au café, Mina les pose entre les deux tasses. Alice prend le vert, le retourne et dit qu’elle aime aussi la couleur qu’on voit au dos. Mina la regarde enfin sans penser à l’heure.",
+      "ending": "Mina demande à Alice si elle pourra passer après la fermeture. Alice répond qu’elle sortira de la répétition à dix-huit heures trente et qu’elle a encore le temps de boire quelque chose. Le retard continue de l’agacer, même après la réponse. Mina entre regarder les papiers. La vendeuse lui donne un coin de feuille verte et un autre couleur de rouille. Quand Alice arrive au café, Mina les pose entre les deux tasses. Alice prend le vert, le retourne et dit qu’elle aime aussi la couleur qu’on voit au dos. Mina la regarde enfin sans penser à l’heure.",
       "mirror": [
         "Alice peut préciser ce qu’elle sait de son horaire et proposer un autre moment si elle en a envie. « Je rate la papeterie. Je peux te retrouver au café à dix-huit heures trente. Ça te convient encore ? » Si Mina préfère rentrer, Alice peut entendre sa réponse. Elles pourront reparler du carnet un autre jour. Le retard et la façon de s’en prévenir restent des sujets qu’elles peuvent discuter avec leurs propres contraintes."
       ],
@@ -52,39 +108,96 @@
         "next": "Au festival, une consigne de Rachid soulève une incertitude sur son rôle dans la réception d’une livraison."
       },
       "clinical_focus": "Sensibilité au rejet",
-      "clinical_intro": "Un message de retard suffit à Mina pour imaginer qu’Alice regrette de la voir. L’émotion monte et elle s’apprête à annuler le rendez-vous. Une forte sensibilité au rejet peut faire partie d’un profil borderline. Dans la CIM-11, ce profil précise un trouble de la personnalité évalué dans la durée et dans plusieurs situations. La scène éclaire une réaction parmi celles que Mina décrit en suivi."
+      "clinical_intro": "Quand Alice annonce son retard, Mina éprouve déjà la peine d’un rendez-vous refusé. Elle est sur le point d’y renoncer alors qu’elle voudrait encore voir sa cousine. Une sensibilité marquée au rejet peut accompagner le profil borderline. Elle se voit ici dans ce que l’attente fait à Mina et dans sa première envie de se retirer.",
+      "conclusion": "Le retard a blessé Mina avant même qu’elle sache si Alice pouvait encore venir. En gardant la possibilité d’une rencontre, elle a aussi gardé du temps pour son carnet. Au festival, une phrase aussi courte aura un autre effet sur elle. Elle croira savoir ce qu’un collègue lui reproche."
     },
     {
       "number": 2,
       "slug": "mina-livraison-dix-neuf-heures",
-      "title": "Se croire mise à l’écart quand un collègue reprend une tâche",
-      "description": "Rachid reprend la réception d’une livraison. Mina craint qu’il l’écarte et cherche ce que son message lui demande réellement.",
+      "title": "Prêter une intention à un collègue quand une tâche change de main",
+      "description": "Rachid reprend la réception des programmes. Mina prend ce changement pour un reproche et envisage de déplacer son propre cours.",
       "context": "Dans le local des préparatifs du festival",
       "topics": [
         "Interprétation des intentions",
-        "Sensibilité au rejet",
-        "Clarification d’un malentendu"
+        "Signaux sociaux ambigus",
+        "Répartition des tâches"
       ],
       "opening": "Au feutre, l’heure de livraison prend la largeur de deux cases. Mina a écrit « dix-sept heures » sur le tableau du festival, puis a ajouté son prénom dessous, à côté de celui de Rachid. On attend des boîtes de programmes dans le petit local donnant sur la rue. Ils ont posé des étiquettes à même le sol pour que chaque équipe sache où venir chercher sa pile. Mina a même gardé une place sous la table pour les exemplaires que personne ne réclame avant le dernier jour.\n\nRachid écrit « Pour mardi, ça passe à dix-neuf heures. Je m’en occupe. » Mina lève les yeux du téléphone pour voir si quelqu’un d’autre a reçu le changement. Le local est vide. La phrase ressemble au message qu’il aurait envoyé si elle avait oublié quelque chose et qu’il avait choisi de reprendre la tâche. Elle tire déjà un trait sur son prénom au tableau. Le feutre glisse et elle s’arrête avant de toucher celui de Rachid.\n\nÀ dix-neuf heures, elle a un cours de reliure. La personne qui anime l’atelier lui a demandé d’apporter les papiers qu’elle hésite à utiliser. Mina pourrait annuler le cours et venir au local, au cas où « je m’en occupe » n’inclurait pas le classement des boîtes. Elle pourrait aussi fermer l’agenda et attendre qu’on lui dise ce qu’elle a fait de travers. Elle regarde la ligne au tableau. Elle veut surtout savoir si Rachid attend sa présence ou l’organisation qu’elle avait déjà préparée.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand une information incomplète ressemble à un rejet",
-          "text": "Dans certaines situations, une incertitude dans un lien peut prendre une place importante avant que la personne ait obtenu les informations dont elle a besoin. Mina entend une mise à l’écart dans un changement d’heure. Le texte annonce un déplacement de livraison et dit que Rachid s’en occupe. Il reste à savoir ce qu’il entend par là."
+          "heading": "Quand une supposition prend la place d’une information",
+          "text": "Dans un profil borderline, il peut être difficile de garder plusieurs interprétations possibles d’un signal social, en particulier lorsque la situation est tendue. Une intention supposée peut paraître aussi certaine qu’une information écrite. Au festival, l’heure change et Rachid propose de prendre la réception. Mina ajoute à ce message un jugement sur sa compétence. Ce jugement change déjà ce qu’elle est prête à faire de sa soirée. Le but de vérifier la consigne est de savoir sur quoi elle peut décider."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mina peut éprouver de l’inquiétude et demander une précision sur la tâche au même moment.\n\nAu suivi, elle peut raconter comment elle en est venue à se préparer à annuler son cours et ce que la réponse de Rachid a changé. L’entretien peut s’intéresser à la façon dont des situations semblables se répètent et aux effets qu’elles ont. Au local, la question pratique peut rester plus courte que tout ce qui lui vient en tête."
+          "heading": "Comment une intention supposée peut-elle guider les décisions ?",
+          "points": [
+            {
+              "heading": "Entendre un reproche implicite",
+              "text": "Une formule pratique peut être comprise comme un commentaire personnel. La personne réagit alors aussi à un sens qu’elle a ajouté au message.",
+              "examples": [
+                "Mina comprend « Je m’en occupe » comme si Rachid lui avait écrit qu’elle a oublié une étape.",
+                "Une bénévole lit « Je reprends l’accueil à midi » et croit que sa façon d’accueillir les visiteurs a été critiquée, sans avoir reçu ce retour."
+              ]
+            },
+            {
+              "heading": "Relire les détails à partir de cette hypothèse",
+              "text": "Une fois l’intention supposée, des indices peu précis peuvent sembler la confirmer. D’autres explications restent alors difficiles à envisager.",
+              "examples": [
+                "Dans le local vide, Mina cherche qui d’autre a reçu le changement comme si le message devait cacher une décision sur elle.",
+                "En retrouvant une correction anonyme sur un tableau, une personne repense surtout à un échange sec de la veille, sans savoir qui a corrigé le document."
+              ]
+            },
+            {
+              "heading": "Modifier sa conduite avant d’avoir vérifié",
+              "text": "L’interprétation peut peser sur l’organisation du travail ou sur des choix qui n’avaient aucun lien avec la demande de départ.",
+              "examples": [
+                "Mina commence à effacer son prénom du tableau alors qu’elle a encore les étiquettes à préparer.",
+                "Un salarié accepte une permanence qu’on ne lui a pas demandée parce qu’il est persuadé que le changement d’équipe sanctionne son absence."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répartir ce qui reste à faire",
-          "text": "Mina peut demander si Rachid prend la réception et de quoi il a besoin avant l’arrivée des programmes. Elle peut proposer de lui transmettre le tableau où figurent les noms des équipes, puis lui dire à quelle heure elle part. S’il manque un relais, ils peuvent le chercher avec la personne chargée du planning. Chacun peut dire ce qu’il est en mesure de tenir ce soir.\n\nCette conversation peut aussi donner une information pour la prochaine livraison. Ils peuvent préciser l’heure, les tâches et ce qui a changé dans un même message, afin que chacun puisse préparer sa part."
+          "heading": "3 techniques pour vérifier ce qu’un message de travail demande",
+          "points": [
+            {
+              "heading": "Relire le message mot pour mot",
+              "objective": "Distinguer la consigne écrite de l’intention qu’on croit y lire.",
+              "exercise": [
+                "Reprenez les mots exacts du message.",
+                "Relevez l’heure et l’action annoncées.",
+                "Dites à part ce qui reste une supposition, par exemple « Je me demande si mon travail est en cause. »"
+              ],
+              "benefit": "Cette distinction peut faire apparaître l’information qui manque avant de décider."
+            },
+            {
+              "heading": "Demander qui fait quelle partie",
+              "objective": "Clarifier le travail à terminer sans demander au collègue de se défendre d’une intention supposée.",
+              "exercise": [
+                "Nommez la livraison ou la tâche concernée.",
+                "Demandez ce que l’autre prend en charge et ce qu’il attend encore de vous.",
+                "Reformulez la réponse sur le tableau commun ou dans un bref message."
+              ],
+              "benefit": "Une répartition vérifiable peut aider chacun à organiser sa part et à signaler un désaccord réel."
+            },
+            {
+              "heading": "Garder une décision révisable",
+              "objective": "Éviter de déplacer d’emblée un engagement personnel pour répondre à une demande incertaine.",
+              "exercise": [
+                "Repérez ce que vous avez déjà prévu à l’heure indiquée.",
+                "Dites quand vous pouvez laisser les éléments utiles au relais.",
+                "Si la tâche reste sans responsable, demandez une décision à la coordination avant de modifier votre agenda."
+              ],
+              "benefit": "Le créneau personnel peut rester disponible quand une autre répartition répond au besoin du festival."
+            }
+          ]
         }
       ],
       "ending_title": "Le trait s’arrête au milieu du prénom",
-      "ending": "Rachid répond qu’il prendra les cartons à dix-neuf heures. Il lui demande si elle peut laisser les étiquettes près de la porte. Mina remet son prénom sur le tableau à côté de « préparation », puis écrit celui de Rachid près de l’heure de livraison. En glissant le feutre dans le tiroir, elle retrouve le coin de papier vert. Elle le glisse dans son étui avec l’échantillon rouille. Il lui reste le temps de passer à l’atelier avant l’ouverture du cours.",
+      "ending": "Mina écrit pour demander si Rachid attend sa présence ou seulement les étiquettes. Il répond qu’il prendra les cartons à dix-neuf heures. Il lui demande si elle peut laisser les étiquettes près de la porte. Mina remet son prénom sur le tableau à côté de « préparation », puis écrit celui de Rachid près de l’heure de livraison. En glissant le feutre dans le tiroir, elle retrouve le coin de papier vert. Elle le glisse dans son étui avec l’échantillon rouille. Il lui reste le temps de passer à l’atelier avant l’ouverture du cours.",
       "mirror": [
         "Rachid peut préciser sa phrase en nommant ce qui change. « Je prends la livraison à dix-neuf heures. Tu peux laisser tes étiquettes et je te dirai demain ce qu’il reste à distribuer. » Si Mina demande pourquoi l’heure a bougé, il peut lui dire ce qu’il sait du transport. Il peut aussi lui demander si cette répartition lui convient. Leurs messages servent à s’organiser, et chacun garde la possibilité de signaler un désaccord."
       ],
@@ -97,35 +210,92 @@
         "next": "À l’atelier, un défaut sur un pli lui fait revoir la manière dont elle juge ce qu’elle apprend."
       },
       "clinical_focus": "Interprétation des intentions sous tension",
-      "clinical_intro": "Quand Rachid dit qu’il s’occupe de la livraison, Mina entend que sa place dans l’équipe est menacée. Elle envisage d’annuler son cours pour montrer qu’elle reste utile. La sensibilité au rejet peut donner ce poids à une information incomplète. Revenir à la tâche permet à Mina de découvrir ce que Rachid lui demande et de garder une décision pour elle."
+      "clinical_intro": "Mina lit le message de Rachid et croit comprendre qu’il lui reproche d’avoir mal préparé la livraison. Elle envisage aussitôt de changer son emploi du temps. Dans un profil borderline, il peut être difficile d’interpréter les signaux sociaux sous tension. Une question sur la tâche lui permet ici de savoir ce que Rachid attend pour la livraison.",
+      "conclusion": "Une heure de livraison et un reproche supposé ont d’abord eu le même poids pour Mina. En posant une question sur la tâche, elle sait ce qu’elle doit finir et peut aller à son cours. À l’atelier, un défaut de papier lui fera porter un jugement sur elle-même sans que personne l’ait mis en cause."
     },
     {
       "number": 3,
       "slug": "mina-pli-papier-reliure",
-      "title": "Image de soi instable quand un défaut de reliure devient un verdict",
-      "description": "Un pli imparfait fait douter Mina de sa capacité à fabriquer le cadeau. Un retour précis sur le papier l’aide à revenir à un choix concret.",
+      "title": "Image de soi instable quand un pli imparfait devient un verdict",
+      "description": "Une trace sur un pli fait douter Mina de sa capacité à apprendre la reliure. Elle essaie un geste précis avant de juger tout son travail.",
       "context": "Un soir dans l’atelier de reliure",
       "topics": [
         "Image de soi instable",
         "Dévalorisation après une erreur",
-        "Retour concret sur une tâche"
+        "Apprentissage de la reliure"
       ],
-      "opening": "Au milieu de la table, une couverture verte tient sous deux livres. Mina les a empilés pour que le papier cesse de se relever par un coin. Quand elle retire le premier, le pli qu’elle a fait tout à l’heure apparaît plus clair que le reste. Béatrice, qui anime l’atelier, se penche pour regarder. Elle lui explique que sur cet échantillon le trait reste visible. Mina entend qu’il faudra recommencer. Elle a déjà remis le deuxième livre en place avant que Béatrice lui montre l’autre face de la couverture.\n\nÀ côté, deux personnes ont posé des carnets qui se ferment bien. Mina passe le doigt sur le trait blanc. Avant le cours, elle se réjouissait d’avoir choisi une couleur qu’Alice aimait. Elle regarde maintenant le carton et se demande pourquoi elle a promis de fabriquer un objet dont elle ne connaît pas encore toutes les étapes. Elle commence à rassembler ses feuilles pour les remettre dans le sac.\n\nBéatrice lui demande si elle veut regarder ce qui l’a gênée dans le pli. Mina aimerait que la réponse indique directement si le carnet sera assez bien pour Alice. Béatrice attend près de la table, un morceau de papier de brouillon à la main. Mina regarde les deux coins de couleur qu’elle a gardés de la papeterie. Elle sait déjà comment le vert rend avec une page blanche. Ce qu’elle voudrait voir, maintenant, c’est si elle peut refaire le pli sur un autre bout du même papier.",
+      "opening": "Au milieu de la table, une couverture verte tient sous deux livres. Mina les a empilés pour que le papier cesse de se relever par un coin. Quand elle retire le premier, le pli qu’elle a fait tout à l’heure apparaît plus clair que le reste. Béatrice, qui anime l’atelier, se penche pour regarder. Elle lui explique que sur cet échantillon le trait reste visible. Mina entend qu’il faudra recommencer. Elle a déjà remis le deuxième livre en place avant que Béatrice lui montre l’autre face de la couverture.\n\nÀ côté, deux personnes ont posé des carnets qui se ferment bien. Mina passe le doigt sur le trait blanc. Avant le cours, elle se réjouissait d’avoir choisi une couleur qu’Alice aimait. Elle regarde maintenant le carton et se demande pourquoi elle a promis de fabriquer un objet dont elle ne connaît pas encore toutes les étapes. Pendant un instant, elle se dit que la reliure n’est tout simplement pas pour elle. Elle commence à rassembler ses feuilles pour les remettre dans le sac.\n\nBéatrice lui demande si elle veut regarder ce qui l’a gênée dans le pli. Mina aimerait que la réponse indique directement si le carnet sera assez bien pour Alice. Béatrice attend près de la table, un morceau de papier de brouillon à la main. Mina regarde les deux coins de couleur qu’elle a gardés de la papeterie. Elle sait déjà comment le vert rend avec une page blanche. Ce qu’elle voudrait voir, maintenant, c’est si elle peut refaire le pli sur un autre bout du même papier.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un jugement sur soi peut changer très vite",
-          "text": "Chez certaines personnes, les difficultés qui concernent l’image de soi font partie d’un trouble durable du fonctionnement personnel. Le profil borderline décrit dans la CIM-11 peut notamment préciser des variations marquées de cette image. Pour comprendre le retentissement, les professionnels regardent comment ces variations se manifestent dans la durée et ce qu’elles changent dans la vie de la personne."
+          "heading": "Quand une erreur change le regard sur soi",
+          "text": "L’image de soi peut varier fortement dans un profil borderline. Une difficulté locale peut alors modifier l’idée que la personne se fait de ses capacités et de ce qu’elle peut entreprendre. Une critique qui fait douter ne suffit pas à caractériser un trouble. L’équipe de Mina s’intéresse à la répétition de ces bascules et à leur coût. À l’atelier, une trace visible sur un pli lui fait oublier ce qu’elle a déjà appris et l’amène à envisager d’arrêter avant la fin du cours."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mina passe de l’envie de fabriquer un carnet à l’idée qu’elle aurait dû y renoncer. Elle peut examiner avec Béatrice le trait sur la couverture et, au suivi, parler du jugement qui lui est venu à cet instant. Ce sont deux questions auxquelles elle s’adresse à des personnes différentes. À l’atelier, une indication sur le pli lui donne de quoi poursuivre l’apprentissage."
+          "heading": "Comment le jugement sur soi peut-il basculer après une difficulté ?",
+          "points": [
+            {
+              "heading": "Étendre le défaut à sa personne",
+              "text": "Une difficulté circonscrite se transforme en jugement général sur les capacités ou la valeur que la personne se reconnaît.",
+              "examples": [
+                "Devant la couverture, Mina ne pense plus au seul pli. Elle se dit qu’elle n’est pas faite pour la reliure.",
+                "Une personne rate une présentation et se dit aussitôt qu’elle n’a rien à apporter à son équipe, même sur les tâches qu’elle connaît."
+              ]
+            },
+            {
+              "heading": "Perdre de vue les acquis",
+              "text": "Le regard du moment peut faire disparaître ce qui allait bien une heure ou une semaine plus tôt. Les réussites deviennent difficiles à rappeler au moment où elles seraient utiles.",
+              "examples": [
+                "En voyant les carnets finis autour d’elle, Mina ne pense plus à son essai réussi avec le papier vert et la page blanche.",
+                "Pendant un cours de cuisine, une préparation trop cuite prend toute la place dans le souvenir de la séance, alors que la personne a réussi les autres étapes."
+              ]
+            },
+            {
+              "heading": "Renoncer à une suite qui comptait",
+              "text": "Quand le jugement change brusquement, le projet peut sembler hors de portée. Ce découragement peut modifier une décision avant que la personne ait vérifié ce qui est possible.",
+              "examples": [
+                "Mina range déjà les feuilles avec lesquelles elle était venue apprendre à monter son carnet.",
+                "Une personne raye l’atelier suivant de son agenda en sortant d’une répétition difficile, même si elle s’y était inscrite pour apprendre un geste encore nouveau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à un choix qui lui appartient",
-          "text": "Mina peut faire un autre essai sur le morceau de papier que Béatrice lui propose. Elle peut demander un retour qui porte sur une étape précise, comme la façon dont le papier tient sur le carton. Elle peut ensuite revenir à la couleur qu’elle souhaite pour le carnet. Alice a dit qu’elle aimait le vert et elle a précisé l’usage des pages. Mina garde une part des décisions de fabrication.\n\nSi elle a envie de ranger ses affaires et de reprendre une autre fois, cette possibilité reste ouverte. Une pause peut lui permettre de préserver ce qu’elle veut apprendre. Si le jugement sur elle-même revient dans d’autres situations, elle peut apporter ces exemples à sa thérapeute pour regarder avec elle ce qui lui coûte et ce qui l’aide."
+          "heading": "3 techniques pour poursuivre un projet après un jugement dur sur soi",
+          "points": [
+            {
+              "heading": "Décrire le défaut sur l’objet",
+              "objective": "Circonscrire le problème que l’on peut examiner avec quelqu’un.",
+              "exercise": [
+                "Montrez le point qui vous gêne sur l’objet.",
+                "Nommez ce que vous voyez, par exemple un pli plus clair sur un côté.",
+                "Demandez à la personne qui anime l’atelier de vous montrer une option sur cette seule étape."
+              ],
+              "benefit": "Un retour précis peut aider à repérer ce qui relève du papier ou du geste et ce qui reste à choisir."
+            },
+            {
+              "heading": "Réunir deux traces du travail",
+              "objective": "Garder une vue plus complète de ce qui a été appris, même pendant un moment de découragement.",
+              "exercise": [
+                "Posez devant vous l’essai qui vous déçoit.",
+                "Ajoutez un autre essai ou un détail dont vous étiez satisfait.",
+                "Nommez une chose visible sur chacun avant de décider de la suite."
+              ],
+              "benefit": "Ces traces peuvent rendre les acquis plus accessibles sans effacer le défaut du jour."
+            },
+            {
+              "heading": "Réserver un seul essai de reprise",
+              "objective": "Donner au projet une prochaine étape de taille supportable.",
+              "exercise": [
+                "Choisissez une chute de papier ou un brouillon.",
+                "Faites un seul essai du geste que vous souhaitez revoir, maintenant ou au prochain cours.",
+                "Décidez ce que vous gardez de cet essai pour la suite du projet."
+              ],
+              "benefit": "Une étape courte laisse la possibilité de continuer sans devoir être sûr de réussir le carnet entier."
+            }
+          ]
         }
       ],
       "ending_title": "Un essai de la taille d’un timbre",
@@ -141,40 +311,97 @@
         "choice": "Mina reprend un seul pli et choisit le vert pour le carnet d’Alice.",
         "next": "Une consigne contradictoire au festival la conduit à demander un relais avant de reprendre l’échange."
       },
-      "clinical_focus": "Instabilité de l’image de soi",
-      "clinical_intro": "Le défaut de la couverture fait passer Mina d’une difficulté précise à un jugement sur sa capacité à fabriquer un carnet qui mérite d’être offert. Les variations marquées de l’image de soi peuvent faire partie d’un profil borderline. Le récit montre le coût de ce basculement et comment un retour sur le pli lui redonne un problème qu’elle peut examiner."
+      "clinical_focus": "Variations marquées de l’image de soi",
+      "clinical_intro": "Un défaut apparaît sur le papier vert. En regardant les carnets des autres, Mina passe de la satisfaction d’avoir choisi sa couverture à l’idée qu’elle n’est pas capable d’apprendre la reliure. Des variations marquées de l’image de soi peuvent faire partie d’un profil borderline. L’enjeu à l’atelier est de pouvoir poursuivre un apprentissage malgré ce changement de regard.",
+      "conclusion": "Un trait sur la couverture a suffi à Mina pour ne plus se reconnaître comme quelqu’un qui apprend. L’essai de la taille d’un timbre lui donne une autre décision à prendre, celle du papier qu’elle veut garder. Elle repart avec le vert et une étape en tête. Au festival, la difficulté surgira cette fois au milieu d’un échange."
     },
     {
       "number": 4,
       "slug": "mina-pause-loges-festival",
-      "title": "Réactivité émotionnelle quand un reproche public fait partir la réponse",
-      "description": "Un reproche devant les bénévoles fait réagir Mina avant qu’elle regarde les deux fiches. Elle demande un relais pour retrouver un temps de réponse.",
+      "title": "Réactivité émotionnelle quand la colère monte devant les bénévoles",
+      "description": "Une remarque publique fait monter la colère de Mina en quelques secondes. Elle demande un relais pour que le dépôt puisse continuer.",
       "context": "Dans la cour des livraisons du festival",
       "topics": [
         "Réactivité émotionnelle",
-        "Réponse impulsive",
-        "Reprise après une pause"
+        "Colère soudaine",
+        "Relais au travail"
       ],
-      "opening": "Le conducteur a laissé son bon sur le siège et veut qu’on l’aide à retrouver le nom de la personne qui doit recevoir les tables. Mina lui montre le planning affiché à la porte. Elle avait transmis le numéro du local, avec le côté par lequel on peut décharger. Sur la fiche que tient Rachid, une autre entrée est indiquée. Il traverse la cour en disant qu’il faut déplacer les tables tout de suite. Deux bénévoles se retournent pour écouter.\n\n« Tu as mis la livraison au mauvais endroit », lui dit Rachid. Mina sent que sa réponse est déjà sortie lorsqu’elle l’entend. « Tu ne lis jamais ce que j’envoie. » Elle voit qu’il s’arrête devant la première caisse. Le conducteur attend encore près de son siège. Ils auront besoin d’un endroit où poser les tables avant de savoir quelle fiche était la bonne. Mina connaît le numéro de la personne qui coordonne les livraisons. Elle n’arrive pas à se rappeler où elle l’a noté.\n\nElle retrouve dans sa poche le bout de papier vert qu’elle avait apporté à l’atelier. Le coin dépasse de l’étui du téléphone. Elle le repousse et demande à une collègue qui arrive si elle peut appeler la coordination pour confirmer le lieu de dépôt. Puis elle dit à Rachid qu’elle va prendre quelques minutes derrière les caisses. Elle voudrait reprendre les documents avec lui quand ils pourront entendre la réponse du conducteur et regarder les deux fiches à la même table.",
+      "opening": "Le conducteur a laissé son bon sur le siège et veut qu’on l’aide à retrouver le nom de la personne qui doit recevoir les tables. Mina lui montre le planning affiché à la porte. Elle avait transmis le numéro du local, avec le côté par lequel on peut décharger. Sur la fiche que tient Rachid, une autre entrée est indiquée. Il traverse la cour en disant qu’il faut déplacer les tables tout de suite. Deux bénévoles se retournent pour écouter.\n\n« Tu as mis la livraison au mauvais endroit », lui dit Rachid. Une seconde plus tôt, Mina pensait au bon de livraison. Elle serre la mâchoire et sent la colère lui monter au visage. Sa réponse est déjà sortie lorsqu’elle l’entend. « Tu ne lis jamais ce que j’envoie. » Elle voit qu’il s’arrête devant la première caisse. Le conducteur attend encore près de son siège. Ils auront besoin d’un endroit où poser les tables avant de savoir quelle fiche était la bonne. Mina connaît le numéro de la personne qui coordonne les livraisons. Elle n’arrive pas à se rappeler où elle l’a noté.\n\nElle retrouve dans sa poche le bout de papier vert qu’elle avait apporté à l’atelier. Le coin dépasse de l’étui du téléphone. Elle le repousse et demande à une collègue qui arrive si elle peut appeler la coordination pour confirmer le lieu de dépôt. Puis elle dit à Rachid qu’elle va prendre quelques minutes derrière les caisses. Elle voudrait reprendre les documents avec lui quand ils pourront entendre la réponse du conducteur et regarder les deux fiches à la même table.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un désaccord peut prendre de la place très vite",
-          "text": "Une émotion intense peut rendre difficile de suivre tout ce qui se passe dans un échange. Dans un profil borderline, les professionnels peuvent s’intéresser à des réactions émotionnelles qui reviennent et à leurs effets dans plusieurs contextes. Dans la cour du festival, deux documents indiquent des lieux différents et un reproche a été prononcé devant d’autres personnes. Il y a un problème de livraison à traiter et une relation de travail à reprendre."
+          "heading": "Quand l’émotion monte avant qu’on ait le temps de répondre",
+          "text": "Une réactivité émotionnelle marquée peut se traduire par une variation rapide et intense de l’état émotionnel après un événement ou une pensée. Dans le profil borderline, cette variation peut toucher la colère, la tristesse ou l’anxiété. Sa durée varie. Une remarque en public peut fâcher bien des gens. Chez Mina, la rapidité de la montée change aussi sa capacité à suivre la conversation et à régler la livraison. Le désaccord sur les deux fiches existe quelle que soit l’intensité de sa réaction."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mina peut reconnaître ce qu’elle a dit et entendre ensuite la version de Rachid. Elle peut également dire que sa remarque l’a blessée. Elle ne connaît pas son intention. Son envie d’interrompre la conversation peut lui donner un repère pour demander un temps avant de décider ce qu’elle veut faire de ce désaccord."
+          "heading": "Comment la montée de la colère change-t-elle l’échange sur le moment ?",
+          "points": [
+            {
+              "heading": "Passer très vite du travail à la colère",
+              "text": "Le contraste entre l’état d’avant et l’intensité de l’émotion peut laisser peu de temps pour repérer ce qui se passe.",
+              "examples": [
+                "Quelques secondes après avoir indiqué l’entrée au conducteur, Mina entend le reproche et sent sa mâchoire se serrer.",
+                "Une bénévole passe d’une discussion calme à une forte colère en entendant quelqu’un critiquer brusquement sa façon de donner les consignes."
+              ]
+            },
+            {
+              "heading": "Avoir du mal à suivre les autres informations",
+              "text": "Quand l’émotion prend beaucoup de place, une tâche familière ou les détails d’une discussion peuvent devenir plus difficiles à retrouver.",
+              "examples": [
+                "Mina connaît le contact des livraisons. Au milieu de l’échange, elle ne se rappelle plus où le numéro est noté.",
+                "En pleine dispute sur une réservation, une personne ne parvient plus à suivre la réponse qu’elle vient de demander au guichet."
+              ]
+            },
+            {
+              "heading": "Rester remuée quand la situation pratique est réglée",
+              "text": "Le problème matériel peut trouver une réponse avant que la personne soit de nouveau disponible pour discuter.",
+              "examples": [
+                "La coordination confirme le dépôt. Mina est encore trop remuée pour reprendre les deux fiches avec Rachid devant le conducteur.",
+                "Après une erreur d’horaire corrigée, une personne a encore besoin de temps avant d’écouter ce que sa collègue voulait lui expliquer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire passer la tâche pendant la pause",
-          "text": "Au travail, demander un relais suppose de dire ce qui reste à faire et qui peut le prendre. Ici, une collègue peut contacter la coordination pour connaître le lieu de dépôt, pendant que le conducteur attend la confirmation. Mina peut signaler où on la trouvera si une information utile arrive. Elle peut ensuite décider avec Rachid à quel moment ils pourront reprendre le reste de l’échange.\n\nMina peut aussi apporter cette scène au suivi, en précisant ce qui l’a aidée à interrompre l’échange et ce qui reste difficile. Le retour sur une situation peut porter à la fois sur sa réaction, sur le cadre de travail et sur ce qu’elle aimerait pouvoir demander la fois suivante."
+          "heading": "3 techniques pour faire de la place quand la colère monte vite",
+          "points": [
+            {
+              "heading": "Repérer son premier signe de montée",
+              "objective": "Identifier un signal personnel qui indique qu’il devient difficile de suivre l’échange.",
+              "exercise": [
+                "À un moment calme, repensez à un échange récent avec votre thérapeute si vous êtes en suivi.",
+                "Relevez un signe que vous aviez remarqué, comme la mâchoire tendue ou le besoin de répondre tout de suite.",
+                "Choisissez une phrase courte à utiliser si vous reconnaissez ce signe une autre fois."
+              ],
+              "benefit": "Une phrase préparée peut être plus facile à retrouver lorsque l’émotion prend beaucoup de place."
+            },
+            {
+              "heading": "Passer la décision immédiate à la bonne personne",
+              "objective": "Permettre au travail de continuer sans devoir trancher le désaccord sous le coup de la colère.",
+              "exercise": [
+                "Nommez ce qu’il faut régler tout de suite, comme le lieu de dépôt.",
+                "Demandez à une collègue de transmettre cette seule question à la coordination si vous avez du mal à le faire.",
+                "Vérifiez auprès d’elle que la consigne est arrivée jusqu’au conducteur."
+              ],
+              "benefit": "Un relais identifié peut permettre de répondre à l’urgence pratique avant de reprendre l’échange."
+            },
+            {
+              "heading": "Demander un moment pour revenir aux faits",
+              "objective": "Reporter la discussion de fond le temps de pouvoir écouter et lire les deux documents.",
+              "exercise": [
+                "Dites que vous avez besoin de quelques minutes et indiquez où vous restez disponible.",
+                "Laissez les fiches ensemble pour les retrouver.",
+                "Proposez de les examiner à un moment où vous aurez tous deux du temps."
+              ],
+              "benefit": "Ce délai peut éviter de traiter un désaccord devant les bénévoles alors que la colère est encore vive."
+            }
+          ]
         }
       ],
       "ending_title": "Le numéro au dos du planning",
-      "ending": "La collègue trouve le numéro derrière le planning et appelle depuis le local. Mina entend que les tables seront déposées à l’endroit confirmé par la coordination. Quand le conducteur revient pour récupérer sa fiche, elle lui tient la porte. Elle ne reprend pas encore la discussion devant lui. À Rachid, elle envoie un message pour proposer de regarder les deux fiches à seize heures. Il répond qu’il a un autre rendez-vous à ce moment-là. Mina le laisse proposer un horaire et va coller l’étiquette qu’on attend sur la première table.",
+      "ending": "La collègue trouve le numéro derrière le planning et appelle depuis le local. Mina entend que les tables seront déposées à l’endroit confirmé par la coordination. Quand le conducteur revient pour récupérer sa fiche, elle lui tient la porte. Elle a encore la mâchoire serrée. Elle ne reprend pas la discussion devant lui. À Rachid, elle envoie un message pour proposer de regarder les deux fiches à seize heures. Il répond qu’il a un autre rendez-vous à ce moment-là. Mina le laisse proposer un horaire et va coller l’étiquette qu’on attend sur la première table.",
       "mirror": [
         "Rachid peut laisser Mina prendre la pause qu’elle vient de demander et entendre le lieu de dépôt quand la collègue le confirme. « Je garde les deux fiches. Je peux en reparler après mon rendez-vous, si tu es disponible. » Il peut expliquer ce qui l’a gêné dans la phrase de Mina quand ils seront tous les deux prêts. La décision sur la livraison revient à la coordination. La conversation entre collègues peut attendre un moment où ils ont assez de temps."
       ],
@@ -186,36 +413,93 @@
         "choice": "Mina passe la question du dépôt à la coordination et propose un moment pour revoir le désaccord.",
         "next": "Rachid et elle reviennent sur les paroles échangées. Leur accord sur la suite reste partiel."
       },
-      "clinical_focus": "Réactivité émotionnelle sous tension",
-      "clinical_intro": "Rachid met en cause Mina devant les bénévoles et sa réponse sort avant qu’elle ait examiné la fiche. Dans un profil borderline, une montée émotionnelle vive peut rendre une réaction immédiate plus difficile à différer. Ici, il y a aussi une livraison à organiser et un reproche public à discuter. Confier la tâche un instant laisse du temps pour les deux."
+      "clinical_focus": "Montée rapide de la colère",
+      "clinical_intro": "Devant deux bénévoles, Rachid dit que Mina s’est trompée d’entrée. La colère monte si vite qu’elle entend sa propre réplique avec surprise. Une forte réactivité émotionnelle peut faire partie du profil borderline. Sur le moment, Mina peine à réfléchir à la livraison et à l’échange en même temps. Sa collègue l’aide à séparer la décision sur le dépôt du désaccord.",
+      "conclusion": "La colère est montée plus vite que Mina n’a pu reprendre les faits. Le relais lui a permis de laisser la livraison avancer tandis qu’elle retrouvait la possibilité de parler. Rachid et elle auront encore deux choses à traiter sur les marches, les paroles échangées et la divergence entre les fiches."
     },
     {
       "number": 5,
       "slug": "mina-excuse-et-desaccord",
-      "title": "Réparer une parole impulsive quand le désaccord reste ouvert",
-      "description": "Mina s’excuse pour sa phrase dans la cour. Avec Rachid, elle distingue l’effet des paroles du problème de livraison à résoudre.",
+      "title": "Les effets d’une parole impulsive quand le désaccord continue",
+      "description": "Mina revient sur une phrase lancée à Rachid sous le coup de la colère. Ils réparent une part de l’échange et gardent un désaccord.",
       "context": "Sur les marches à côté du local",
       "topics": [
-        "Parole impulsive",
-        "Réparation relationnelle",
-        "Tolérance du désaccord"
+        "Impulsivité verbale",
+        "Effets sur une relation de travail",
+        "Réparation après un conflit"
       ],
       "opening": "Rachid sort du local avec les deux fiches roulées dans la main. Ils ont convenu de se voir sur les marches après la dernière livraison. Il reste une trace de boue à l’endroit où le conducteur avait posé son bon. Mina s’assied plus haut pour qu’ils puissent étaler les documents entre eux. Elle a préparé la phrase qu’elle veut dire. Quand Rachid lui montre le logo différent en haut de sa fiche, elle est tentée de commencer par le document. Elle enfonce le coin du papier sous sa chaussure pour qu’il arrête de se soulever.\n\n« Je t’ai dit que tu ne lisais jamais rien. Ça dépassait ce qui s’est passé. Je te demande pardon. » Rachid l’écoute puis dit qu’il aurait pu lui montrer la feuille avant de dire devant les bénévoles qu’elle s’était trompée. Mina attend la phrase qui vient après. Elle s’aperçoit qu’elle guette un signe que Rachid veut encore travailler avec elle. Depuis la dispute, cette question revient dès qu’elle pense à la cour. Elle regarde les fiches pour écouter ce qu’il lui dit de la livraison. Il pense toujours que la consigne aurait dû être confirmée avant le passage du conducteur. Elle pense que deux documents envoyés par le festival auraient dû donner la même entrée.\n\nIls voient une bénévole passer avec trois chaises empilées. Elle leur demande si les tables seront de nouveau déplacées. Rachid lui dit que le dépôt est terminé et qu’ils vérifient la suite. Mina avait imaginé repartir avec un accord sur toute la dispute. Elle se rend compte qu’elle peut lui demander de signaler les deux consignes à la coordination. Pour le reste, il a déjà dit ce qu’il pense, et elle sait qu’elle a encore des choses à lui répondre.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Réparer les effets d’une réponse impulsive",
-          "text": "Une réparation après un conflit peut commencer par une parole ou un geste précis que la personne souhaite reconnaître. Elle peut aussi laisser un désaccord ouvert. Dans la scène, Mina et Rachid nomment ce qu’ils ont fait dans la cour. Ils gardent chacun leur avis sur la manière dont la livraison aurait dû être préparée."
+          "heading": "Ce qu’une parole laisse après la dispute",
+          "text": "Une parole prononcée sous le coup d’une émotion vive peut modifier un lien au-delà de l’échange où elle est sortie. Le profil borderline peut comporter des difficultés à différer certaines réactions sous tension. L’impulsivité peut éclairer la rapidité de la réponse. L’autre personne garde sa propre lecture de l’échange et peut dire ce qui l’a blessée. Sur les marches, Mina peut reconnaître que sa phrase visait Rachid plus largement que la livraison. Cette reconnaissance laisse aussi la place au reproche public de Rachid et au désaccord qu’ils ont encore sur la procédure."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le trouble de Mina fait partie de ce dont elle peut parler au suivi. Les documents et les décisions de travail gardent leur place dans l’échange.\n\nMina peut dire ce qu’elle voudrait changer la prochaine fois, comme reprendre les fiches à part avant d’en parler devant les bénévoles. Rachid peut préciser qu’il a besoin d’une confirmation en amont. Leurs demandes peuvent être entendues même s’ils gardent encore des questions sur l’autre."
+          "heading": "Comment une parole impulsive pèse-t-elle après l’échange ?",
+          "points": [
+            {
+              "heading": "Faire d’un incident un reproche général",
+              "text": "Une parole lancée dans l’instant peut élargir le conflit. L’autre entend alors un jugement sur sa façon d’être ou de travailler.",
+              "examples": [
+                "Rachid a entendu qu’il ne lisait jamais les messages, alors que l’incident portait sur deux fiches qui ne concordaient pas.",
+                "Après une erreur sur une réservation, quelqu’un dit à sa sœur qu’elle ne tient jamais parole. La discussion prend alors un tour qui dépasse ce rendez-vous."
+              ]
+            },
+            {
+              "heading": "Rendre le contact suivant plus prudent",
+              "text": "Les personnes peuvent hésiter à se parler de la tâche suivante ou s’attendre à ce que la même scène recommence.",
+              "examples": [
+                "Sur les marches, Mina guette un signe que Rachid acceptera encore de travailler avec elle, jusque dans la façon dont il déplie sa fiche.",
+                "Le lendemain d’une réunion où une remarque sèche a visé une collègue devant l’équipe, les deux personnes passent par des messages écrits pour un point qu’elles réglaient d’habitude ensemble."
+              ]
+            },
+            {
+              "heading": "Faire porter à l’excuse la résolution de tout le conflit",
+              "text": "La personne qui regrette ses mots peut espérer que tout se règle dès qu’elle s’excuse. L’autre peut entendre l’excuse et conserver une objection sur le fond.",
+              "examples": [
+                "Mina espère repartir avec un accord complet. Rachid reconnaît sa remarque publique et souhaite toujours une confirmation préalable des entrées.",
+                "Deux amis se reparlent après une remarque blessante. Ils peuvent reconnaître ce qui a été dit et continuer de ne pas être d’accord sur le partage d’une dépense."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Fixer le point qui demande une décision",
-          "text": "Les deux collègues peuvent transmettre les fiches et demander à la coordination quelle version utilisera l’équipe. Ils peuvent chacun proposer une modification du planning ou signaler ce qui leur paraît encore difficile à tenir. Ils peuvent aussi convenir de remettre la suite de leur conversation à un moment où ils seront disponibles.\n\nLe suivi de Mina peut l’aider à reprendre ce qu’elle ressent après l’échange, y compris la gêne de savoir qu’il reste une divergence. Elle peut choisir de faire de la réparation au travail un objectif qu’elle veut discuter. La réaction de Rachid lui appartient et le prochain accord dépendra aussi des conditions du festival."
+          "heading": "3 techniques pour reprendre un échange après des mots impulsifs",
+          "points": [
+            {
+              "heading": "Nommer la phrase qu’on souhaite reprendre",
+              "objective": "Reconnaître sa part de l’échange avec des mots que l’autre peut situer.",
+              "exercise": [
+                "Choisissez un moment où vous pouvez tous deux parler.",
+                "Rappelez la phrase précise et ce qu’elle avait d’injuste ou de blessant.",
+                "Proposez une excuse et laissez à l’autre le temps de dire ce qu’il veut en faire."
+              ],
+              "benefit": "Une excuse située peut rendre possible une reprise sans demander un pardon immédiat."
+            },
+            {
+              "heading": "Faire une place à la version de l’autre",
+              "objective": "Entendre ce que l’autre souhaite reprendre avant de discuter de la procédure.",
+              "exercise": [
+                "Demandez-lui s’il souhaite dire comment il a vécu l’échange.",
+                "Reformulez un point entendu pour vérifier que vous l’avez compris.",
+                "Dites aussi ce que vous souhaitez reprendre sur la façon dont on vous a parlé."
+              ],
+              "benefit": "Chacun peut préciser son vécu, y compris si un désaccord demeure sur l’incident."
+            },
+            {
+              "heading": "S’accorder sur une seule suite pratique",
+              "objective": "Trouver une action commune sans exiger une conclusion sur toute la dispute.",
+              "exercise": [
+                "Repérez un point concret que vous voulez tous deux transmettre.",
+                "Convenez de la personne qui s’en charge.",
+                "Gardez le point qui reste ouvert pour une discussion où la bonne personne sera présente."
+              ],
+              "benefit": "Un geste commun peut remettre le travail en route sans effacer ce que chacun souhaite encore discuter."
+            }
+          ]
         }
       ],
       "ending_title": "Les deux fiches dans la même pochette",
@@ -231,36 +515,93 @@
         "choice": "Ils reconnaissent leurs paroles et transmettent les fiches. Leur désaccord sur la confirmation reste à revoir.",
         "next": "En dehors du festival, Mina et Alice discutent de ce qu’elles peuvent se promettre quand un rendez-vous change."
       },
-      "clinical_focus": "Réparation après une réaction vive",
-      "clinical_intro": "Sur les marches, Mina peut revenir sur sa réponse rapide et reconnaître ce qu’elle a dit. Rachid maintient son avis sur la livraison. Quand des réactions intenses affectent plusieurs relations, examiner leur suite aide à comprendre le retentissement d’un trouble de la personnalité. Cet échange illustre une réparation possible alors que la question de travail reste à décider."
+      "clinical_focus": "Retentissement relationnel des paroles impulsives",
+      "clinical_intro": "Sur les marches du festival, Mina revient sur une phrase qui accusait Rachid de ne jamais lire ses messages. Elle voit que cette parole a laissé une trace dans leur manière de se parler. Des réactions impulsives sous une forte émotion peuvent faire partie d’un profil borderline. Le dépôt est réglé et les collègues doivent encore retrouver une façon de travailler ensemble.",
+      "conclusion": "Mina revient sur ses mots et entend ce que Rachid reconnaît à son tour. Leur coopération reprend avec les fiches, même si leur désaccord continue. Avec Alice, l’incertitude sur la relation lui posera une autre question. Elle devra décider de ce qu’elle peut prévoir sans promesse sur les semaines à venir."
     },
     {
       "number": 6,
       "slug": "mina-horaire-alice-limites",
-      "title": "Peur de l’abandon quand Alice ne peut pas confirmer le rendez-vous",
-      "description": "Mina voudrait connaître la réponse d’Alice tout de suite. Elle apprend à regarder aussi ce qu’elle souhaite faire de son dimanche.",
+      "title": "Peur de l’abandon quand un dimanche incertain semble menacer le lien",
+      "description": "Alice ne peut pas confirmer le dimanche. Mina voudrait une garantie que leur lien va durer et essaie de prévoir tout de même son après-midi.",
       "context": "Au café où les deux cousines se retrouvent",
       "topics": [
         "Peur de l’abandon",
-        "Incertitude relationnelle",
-        "Autonomie dans la relation"
+        "Recherche de garanties",
+        "Projets personnels"
       ],
-      "opening": "Alice a posé sur la table un ourlet tenu par une épingle. Elle doit le rapporter au théâtre avant la répétition. Mina rapproche sa tasse de peur qu’un peu de café tombe dessus. Elle avait proposé de se voir dimanche pour essayer le format du carnet. Alice lui annonce qu’elle ne saura que samedi si elle a le temps. Mina pense au message qui est arrivé devant la papeterie et lui demande si elle peut la prévenir plus tôt cette fois.\n\nAlice retourne le tissu pour cacher le fil qui dépasse. « Je peux te dire que je ne sais pas. Pour dimanche, ça risque de rester comme ça jusqu’à samedi. » Mina s’attendait à ce qu’elle propose au moins une heure. Elle regarde les gens qui se lèvent vers la porte. Elle pourrait lui dire qu’elle a compris et passer la soirée à vérifier son téléphone. Elle pourrait aussi lui demander de réserver tous leurs dimanches, ce qu’elle ne voudrait pas vraiment faire elle-même.\n\nMina dit qu’elle aurait besoin de pouvoir prévoir son après-midi. Alice répond qu’elle peut lui écrire samedi avant dix-huit heures si elle a une réponse. Elle ne promet pas de pouvoir venir. Mina pousse l’ourlet de quelques centimètres pour faire de la place aux tasses. Elle a vu qu’il reste un créneau de reliure dimanche. Elle aimerait le prendre et garder un autre moment pour retrouver sa cousine. Elle ne sait pas encore comment le lui dire sans faire sonner la phrase comme un reproche.",
+      "opening": "Alice a posé sur la table un ourlet tenu par une épingle. Elle doit le rapporter au théâtre avant la répétition. Mina rapproche sa tasse de peur qu’un peu de café tombe dessus. Elle avait proposé de se voir dimanche pour essayer le format du carnet. Alice lui annonce qu’elle ne saura que samedi si elle a le temps. Mina pense au message qui est arrivé devant la papeterie et lui demande si elle peut la prévenir plus tôt cette fois.\n\nAlice retourne le tissu pour cacher le fil qui dépasse. « Je peux te dire que je ne sais pas. Pour dimanche, ça risque de rester comme ça jusqu’à samedi. » Mina s’attendait à ce qu’elle propose au moins une heure. Elle essaie de se rappeler combien de fois elles se sont vues ce mois-ci. Elle voit déjà les dimanches suivants passer sans qu’Alice l’appelle. Elle regarde les gens qui se lèvent vers la porte. Elle pourrait lui dire qu’elle a compris et passer la soirée à vérifier son téléphone. Elle pourrait aussi lui demander de réserver tous leurs dimanches, ce qu’elle ne voudrait pas vraiment faire elle-même.\n\nMina dit qu’elle aurait besoin de pouvoir prévoir son après-midi. Alice répond qu’elle peut lui écrire samedi avant dix-huit heures si elle a une réponse. Elle ne promet pas de pouvoir venir. Mina pousse l’ourlet de quelques centimètres pour faire de la place aux tasses. Elle a vu qu’il reste un créneau de reliure dimanche. Elle aimerait le prendre et garder un autre moment pour retrouver sa cousine. Elle ne sait pas encore comment le lui dire sans faire sonner la phrase comme un reproche.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un besoin de lien et deux emplois du temps",
-          "text": "Une crainte forte de perdre un lien peut faire partie des difficultés décrites par le profil borderline. Les professionnels s’intéressent à la manière dont cette crainte revient et aux effets qu’elle a sur les relations."
+          "heading": "Quand l’incertitude touche l’avenir du lien",
+          "text": "Dans le profil borderline, la crainte d’une séparation ou d’un abandon peut être intense et conduire à chercher activement comment empêcher cette perte, qu’elle soit réelle ou redoutée. Ici, l’enjeu ne se limite pas à la déception d’un dimanche manqué. Mina se demande si sa cousine cessera de lui faire une place. Cette crainte l’amène à imaginer une promesse de disponibilité qu’elle-même ne souhaite pas tenir. Alice peut tenir à elle et avoir des contraintes. La conversation porte sur ce qu’elles peuvent choisir chacune aujourd’hui."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mina peut se demander ce qu’elle éprouve en entendant la réponse d’Alice et ce dont elle a besoin pour son dimanche. Alice peut apprécier leurs rendez-vous et avoir une disponibilité qui varie avec la troupe.\n\nIl est possible de formuler une demande de contact et d’entendre la limite que pose l’autre personne. Ce que Mina souhaite préserver peut tenir à un moment précis ou à une façon de se prévenir. Elle peut aussi dire qu’elle reste déçue et décider de ce qu’elle fera pendant ce temps."
+          "heading": "Comment la peur de l’abandon pèse-t-elle sur les choix à venir ?",
+          "points": [
+            {
+              "heading": "Imaginer que les rencontres vont disparaître",
+              "text": "Une incertitude pour une date peut faire redouter une séparation plus durable et déplacer la conversation bien au-delà du rendez-vous.",
+              "examples": [
+                "Mina entend qu’Alice ne peut pas répondre pour dimanche et se demande déjà quand elle cessera de la voir.",
+                "Au moment où un ami annonce des semaines de travail chargées, une personne imagine que leur habitude de déjeuner ensemble va disparaître sans qu’il ait parlé d’y mettre fin."
+              ]
+            },
+            {
+              "heading": "Chercher une promesse plus large que le besoin",
+              "text": "Sous l’effet de la crainte, une réponse sur l’horaire peut ne plus suffire. La personne peut souhaiter un engagement censé garantir le lien.",
+              "examples": [
+                "Mina envisage de demander à Alice de réserver tous leurs dimanches, alors qu’elle veut elle aussi du temps pour d’autres projets.",
+                "À l’annonce d’un déplacement professionnel, quelqu’un s’apprête à demander un appel tous les soirs à une personne proche avant de discuter de ce qui leur conviendrait."
+              ]
+            },
+            {
+              "heading": "Suspendre ses activités pour rester disponible",
+              "text": "Rester joignable et libre peut sembler préserver la relation. Cela peut aussi réduire le temps consacré à ce que la personne choisit pour elle.",
+              "examples": [
+                "Mina s’imagine passer la soirée à vérifier son téléphone et laisser l’atelier du dimanche sans réservation.",
+                "En attendant de savoir si un proche peut venir, une personne refuse une sortie qui lui plaît et reste seule tout l’après-midi, au cas où il proposerait de se voir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un engagement à la mesure de ce qui est possible",
-          "text": "Alice peut dire à quel moment elle saura si elle vient et donner des nouvelles si elles en conviennent. Mina peut réserver son atelier sans attendre cette réponse. Les deux cousines peuvent chercher un autre jour pour essayer le carnet. Le fait de préciser les disponibilités donne à chacune de quoi choisir.\n\nSi elles veulent que cette façon de se prévenir change, elles peuvent en reparler. Mina peut aussi préparer avec sa thérapeute ce qu’elle souhaite demander, en gardant la place d’un refus ou d’un délai. Le NICE recommande d’associer les proches au suivi selon le souhait de la personne et dans le respect de la confidentialité. La conversation du café reste un échange que les deux cousines organisent à leur manière."
+          "heading": "3 techniques pour garder une marge de choix quand le lien paraît incertain",
+          "points": [
+            {
+              "heading": "Dire quelle crainte dépasse le rendez-vous",
+              "objective": "Exprimer ce qui inquiète sans exiger de garantie sur l’avenir du lien.",
+              "exercise": [
+                "Choisissez un moment où l’autre peut écouter.",
+                "Dites ce que le changement vous fait craindre, par exemple « J’ai peur qu’on finisse par ne plus se voir. »",
+                "Demandez quelle rencontre vous aimeriez chercher ensemble, sans demander qu’elle soit fixée immédiatement."
+              ],
+              "benefit": "Mettre la crainte en mots peut permettre de parler du lien sans transformer un horaire en preuve d’affection."
+            },
+            {
+              "heading": "Demander un engagement que chacun peut tenir",
+              "objective": "Limiter l’accord à ce qui dépend effectivement de chacun.",
+              "exercise": [
+                "Dites quand vous avez besoin de décider pour vous-même.",
+                "Demandez à quel moment l’autre pense en savoir plus.",
+                "Si les deux délais diffèrent, convenez de reparler d’un autre rendez-vous quand vos horaires le permettront."
+              ],
+              "benefit": "Un engagement concret peut protéger l’organisation de chacun, même si la rencontre reste à fixer."
+            },
+            {
+              "heading": "Garder un rendez-vous avec son propre projet",
+              "objective": "Faire une place à une activité choisie malgré l’incertitude de la rencontre.",
+              "exercise": [
+                "Repérez une activité que vous souhaitez vraiment faire.",
+                "Réservez le créneau si vous ne souhaitez plus attendre la réponse.",
+                "Prévenez l’autre que vous aimeriez vous voir à un autre moment."
+              ],
+              "benefit": "Le temps gardé pour soi peut réduire le coût de l’attente sans décider de la place que le lien aura par la suite."
+            }
+          ]
         }
       ],
       "ending_title": "Dimanche à la table de reliure",
@@ -276,40 +617,97 @@
         "choice": "Mina garde son dimanche pour la reliure. Alice et elle laissent le prochain rendez-vous à fixer.",
         "next": "Mina apporte la conversation et le désaccord au festival au suivi pour ajuster ses objectifs et ses appuis."
       },
-      "clinical_focus": "Peur de perdre un lien",
-      "clinical_intro": "Alice ne sait pas encore si elle pourra venir. Mina ressent l’envie de demander une nouvelle confirmation même après avoir entendu quand elle en saura davantage. Dans le profil borderline, la peur de perdre un lien peut rendre l’attente très coûteuse. Garder son cours de reliure permet à Mina de décider de son dimanche pendant que la question du prochain rendez-vous reste ouverte."
+      "clinical_focus": "Peur de l’abandon",
+      "clinical_intro": "Un dimanche difficile à fixer fait craindre à Mina que les rendez-vous avec Alice disparaissent peu à peu. Elle se voit prête à demander une promesse dont elle ne voudrait pas elle-même. La peur d’être abandonnée peut être une difficulté importante dans un profil borderline. Elle pèse ici sur la place que Mina laisse à ses propres projets.",
+      "conclusion": "En réservant l’atelier, Mina choisit son dimanche alors qu’elle a encore peur de voir les rencontres s’espacer. Alice garde la possibilité de proposer un autre moment et Mina ne sait pas encore quand il viendra. Elle apportera au suivi ce que cette attente lui a coûté et ce qu’elle a tout de même réussi à choisir."
     },
     {
       "number": 7,
       "slug": "mina-plan-de-suivi-et-choix",
-      "title": "Un suivi structuré pour comprendre la peur du rejet et préparer les crises",
-      "description": "Mina reprend ses échanges avec Alice et Rachid. Elle choisit avec sa thérapeute un objectif relationnel et précise quel service appeler en cas de crise.",
+      "title": "Quand la tension d’un échange continue de peser sur la journée",
+      "description": "Mina apporte au suivi deux échanges qui ont continué de l’occuper bien après leur fin, au festival et avec Alice.",
       "context": "Au rendez-vous de suivi, la semaine du festival",
       "topics": [
-        "Objectifs de soins",
-        "Incertitude relationnelle",
-        "Plan de crise"
+        "Retentissement des tensions",
+        "Activités mises en attente",
+        "Objectifs du suivi"
       ],
-      "opening": "Mina a recopié sur un ticket les horaires du festival, parce qu’elle n’a pas envie d’ouvrir le planning pendant la séance. Elle a barré la livraison de mardi et entouré l’heure à laquelle la cour ouvre aux bénévoles. Sa thérapeute lui demande ce qu’elle aimerait reprendre aujourd’hui. Mina pose d’abord le ticket du côté où on ne voit que le nom de la supérette. Elle parle du message de Rachid, du rendez-vous au café avec Alice, puis de l’excuse sur les marches.\n\nQuand elle arrive à l’ourlet qu’Alice devait rendre au théâtre, elle se rappelle à quel point elle avait voulu une réponse pour dimanche. Au moment de réserver l’atelier, elle a eu l’impression de faire seule un choix qu’elle aurait aimé partager. Elle explique à sa thérapeute qu’elle voudrait apprendre à demander une réponse plus claire quand elle en a besoin et à faire quelque chose de son temps si la réponse doit attendre. Elle aimerait aussi parler de ce qui se passe quand elle n’y arrive plus.\n\nElles retrouvent dans le dossier le plan qu’elles ont préparé avec l’équipe de soins. Mina connaît le nom du service à joindre en journée. Elle hésite encore sur celui qu’elle peut appeler après les heures habituelles. Elle demande si elles peuvent remettre cette information en haut de la page. Elle se demande quelle partie de la feuille elle voudrait montrer à Alice. La cousine a ses horaires de répétition. Mina veut pouvoir retrouver le contact même les soirs où Alice ne répond pas.",
+      "opening": "Mina a recopié sur un ticket les horaires du festival, parce qu’elle n’a pas envie d’ouvrir le planning pendant la séance. Elle a barré la livraison de mardi et entouré l’heure à laquelle la cour ouvre aux bénévoles. Sa thérapeute lui demande ce qu’elle aimerait reprendre aujourd’hui. Mina pose d’abord le ticket du côté où on ne voit que le nom de la supérette. Elle parle du message de Rachid, du rendez-vous au café avec Alice, puis de l’excuse sur les marches. Après chacun de ces échanges, elle avait eu du mal à penser à l’activité qui venait ensuite. Elle revoit la page des horaires qu’elle a relue plusieurs fois après le café, en revenant toujours au dimanche.\n\nQuand elle arrive à l’ourlet qu’Alice devait rendre au théâtre, elle se rappelle à quel point elle avait voulu une réponse pour dimanche. Au moment de réserver l’atelier, elle a eu l’impression de faire seule un choix qu’elle aurait aimé partager. Elle explique à sa thérapeute qu’elle voudrait apprendre à demander une réponse plus claire quand elle en a besoin et à faire quelque chose de son temps si la réponse doit attendre. Elle aimerait aussi parler de ce qui se passe quand elle n’y arrive plus.\n\nElles retrouvent dans le dossier le plan qu’elles ont préparé avec l’équipe de soins. Mina connaît le nom du service à joindre en journée. Elle hésite encore sur celui qu’elle peut appeler après les heures habituelles. Elle demande si elles peuvent remettre cette information en haut de la page. Elle se demande quelle partie de la feuille elle voudrait montrer à Alice. La cousine a ses horaires de répétition. Mina veut pouvoir retrouver le contact même les soirs où Alice ne répond pas.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Des objectifs de soins définis ensemble",
-          "text": "Un suivi psychologique structuré peut s’appuyer sur des objectifs que la personne et l’équipe définissent et réexaminent ensemble. Le NICE recommande de préciser les rôles des professionnels, de convenir d’objectifs à court et à plus long terme et de préparer l’accès aux soins en cas de crise. Les priorités peuvent concerner les relations, les activités ou le travail. Mina peut demander à sa thérapeute comment elles examineront ce qui l’aide et à quel moment elles feront le point."
+          "heading": "Ce que la tension prend au reste de la journée",
+          "text": "Le retentissement d’une réaction émotionnelle s’observe aussi après l’échange qui l’a déclenchée. Dans un trouble de la personnalité avec profil borderline, les difficultés relationnelles et émotionnelles peuvent peser sur le travail, les loisirs ou les choix du quotidien. Le même coût peut se retrouver dans des situations très différentes. Au suivi, Mina regarde à quel moment son attention est restée prise par une conversation et ce qu’elle avait alors du mal à reprendre. Cette comparaison sert à choisir un objectif avec sa thérapeute."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La demande de Mina porte sur des situations qu’elle connaît. Elle veut pouvoir demander à quelqu’un quand elle aura une réponse et garder ses propres activités si l’autre n’est pas disponible. Elle peut aussi dire que la question d’une livraison relève de l’organisation du festival. Le suivi peut l’aider à démêler ce qu’elle veut travailler et ce que l’équipe du festival doit décider."
+          "heading": "Comment la tension continue-t-elle de peser une fois l’échange fini ?",
+          "points": [
+            {
+              "heading": "Rejouer une discussion alors qu’on est passé à autre chose",
+              "text": "Une phrase peut revenir pendant une activité suivante et prendre une partie de l’attention.",
+              "examples": [
+                "Le soir de la discussion avec Alice, Mina relit plusieurs fois le même horaire de l’atelier en repensant à la conversation sur le dimanche.",
+                "Une personne cherche encore la phrase qu’elle aurait voulu dire en réunion pendant qu’un ami lui raconte sa journée."
+              ]
+            },
+            {
+              "heading": "Laisser un projet en suspens",
+              "text": "Tant que la discussion semble à résoudre, la personne peut mettre de côté une décision qui pourrait pourtant se prendre séparément.",
+              "examples": [
+                "Mina est près d’annuler son cours pour rester disponible pour une livraison qui a changé d’heure.",
+                "Une personne laisse passer le délai d’inscription à une activité parce qu’elle attend que se règle une dispute avec l’ami qui devait l’y accompagner."
+              ]
+            },
+            {
+              "heading": "Avoir du mal à voir le coût cumulé",
+              "text": "Chaque moment peut paraître isolé. En les rapprochant, la personne peut voir ce qui se répète dans sa semaine et ce qui mérite de l’aide.",
+              "examples": [
+                "Au cabinet, Mina parle d’abord du tableau du festival puis de l’ourlet. Elle se rend compte qu’elle avait encore chacune de ces conversations en tête quand elle voulait penser à la reliure.",
+                "Une personne apporte à un rendez-vous deux exemples éloignés. Elle remarque qu’après chacun elle a passé la soirée à reprendre l’échange au lieu de pouvoir faire la tâche prévue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un contact qu’elle sait retrouver",
-          "text": "Dans un plan de crise, la personne et l’équipe peuvent préciser à quel moment reprendre contact, quel service joindre et ce qui est prévu quand les interlocuteurs habituels sont indisponibles. Mina peut demander que la fiche indique clairement ce qu’elle peut faire en dehors des rendez-vous. L’équipe peut ensuite revoir la fiche avec elle selon ce qui se passe et selon ses besoins.\n\nAlice peut participer si Mina le souhaite et si cela lui convient. Elles peuvent choisir une information pratique à partager et préciser ce qu’Alice est disposée à faire. Le plan garde les coordonnées professionnelles à portée de Mina, y compris quand sa cousine est occupée."
+          "heading": "3 techniques pour décrire en suivi ce qu’une tension change au quotidien",
+          "points": [
+            {
+              "heading": "Raconter aussi ce qui s’est passé après",
+              "objective": "Faire apparaître un effet de l’échange qu’on oublie parfois de mentionner en séance.",
+              "exercise": [
+                "Choisissez un épisode récent dont vous souhaitez parler.",
+                "Notez à quoi vous pensiez ou ce que vous faisiez une fois la discussion finie.",
+                "Indiquez ce qui a été interrompu, repris ou remis à plus tard."
+              ],
+              "benefit": "Cette suite peut donner au professionnel un exemple du coût quotidien de la difficulté."
+            },
+            {
+              "heading": "Choisir un objectif lié à une activité",
+              "objective": "Trouver avec le professionnel un premier changement que la personne pourra observer.",
+              "exercise": [
+                "Nommez une activité que vous souhaitez garder dans votre semaine.",
+                "Choisissez ensemble une situation où vous aimeriez réussir à la reprendre.",
+                "Convenez d’en reparler à partir de ce qui s’est réellement passé."
+              ],
+              "benefit": "Un objectif comme garder un cours peut être plus facile à examiner qu’une consigne générale de moins s’inquiéter."
+            },
+            {
+              "heading": "Prévoir le relais si la détresse devient trop forte",
+              "objective": "Relier les observations du quotidien au plan élaboré avec l’équipe de soins.",
+              "exercise": [
+                "Parlez avec l’équipe de ce que vous remarquez quand vous ne parvenez plus à faire face.",
+                "Vérifiez quel service joindre en journée et en dehors des heures habituelles.",
+                "Demandez à inscrire le contact et les consignes à un endroit que vous pourrez retrouver."
+              ],
+              "benefit": "Une consigne accessible peut faciliter une demande d’aide si la détresse devient trop forte pour y faire face seul."
+            }
+          ]
         }
       ],
       "ending_title": "La ligne qu’elle copie à part",
-      "ending": "Mina recopie la ligne qui indique le service à joindre le soir et la glisse dans l’étui de son téléphone. Elle garde le reste de la feuille dans son dossier. En rentrant, elle demande à Alice si elle veut en parler quelques minutes avant la prochaine répétition. Alice lui propose de l’appeler le lendemain. Mina remet ensuite le ticket du festival sur le réfrigérateur. Elle pourra regarder les deux horaires quand elle le voudra, et le rendez-vous suivant reste inscrit dans l’agenda.",
+      "ending": "Elles se donnent un premier point à reprendre la prochaine fois. Mina aimerait savoir à quelles conditions elle peut retourner à sa table de reliure après une conversation difficile. Elle recopie ensuite la ligne qui indique le service à joindre le soir et la glisse dans l’étui de son téléphone. Elle garde le reste de la feuille dans son dossier. En rentrant, elle demande à Alice si elle veut en parler quelques minutes avant la prochaine répétition. Alice lui propose de l’appeler le lendemain. Mina remet ensuite le ticket du festival sur le réfrigérateur. Elle pourra regarder les deux horaires quand elle le voudra, et le rendez-vous suivant reste inscrit dans l’agenda.",
       "mirror": [
         "Alice peut demander à Mina quelle aide elle souhaite lui confier avant de recevoir une copie. « Je peux garder le contact du service et rester au téléphone un moment si je suis disponible. Tu veux qu’on parle de ce qui t’aiderait ? » Elle peut dire quels soirs elle sera au théâtre. Mina choisit le contenu qu’elle partage et peut garder le reste du plan dans son dossier. Les contacts professionnels restent accessibles à Mina dans les conditions prévues avec l’équipe."
       ],
@@ -321,42 +719,99 @@
         "choice": "Mina précise son objectif, garde le contact du soir à portée et propose à Alice de convenir d’une aide limitée.",
         "next": "Pendant une soirée difficile, Mina utilise elle-même ce contact et demande à Alice un appui bref."
       },
-      "clinical_focus": "Objectifs de suivi et plan de crise",
-      "clinical_intro": "Mina retrouve en séance plusieurs moments où l’incertitude a pris toute la place, au travail et avec Alice. Un suivi psychologique structuré peut partir de ces situations pour convenir d’objectifs précis. Mina veut pouvoir demander quand elle aura une réponse et garder ses activités pendant l’attente. Elle choisit aussi avec son équipe quel relais contacter si la détresse devient difficile à traverser."
+      "clinical_focus": "Retentissement des tensions au-delà de l’échange",
+      "clinical_intro": "Au suivi, Mina reprend une livraison et une discussion avec Alice. Elle remarque ce qu’elles ont eu en commun. Une fois l’échange terminé, elle avait encore du mal à penser à ses autres projets. Dans un trouble de la personnalité avec profil borderline, le retentissement de ces tensions peut se voir dans plusieurs contextes. Mina et sa thérapeute cherchent ce qu’il serait utile de travailler en premier.",
+      "conclusion": "En reprenant les heures qui ont suivi ses échanges, Mina voit comment les tensions ont débordé sur ses projets. Elle choisit un premier objectif avec sa thérapeute et rend le numéro du soir plus accessible. Le prochain épisode montrera ce qu’il lui en coûte encore de retrouver ce contact quand elle a besoin d’aide tout de suite."
     },
     {
       "number": 8,
       "slug": "mina-appeler-contact-prevu",
-      "title": "Détresse aiguë quand Mina a besoin d’un relais professionnel",
-      "description": "Débordée par plusieurs messages, Mina retrouve avec l’aide d’Alice le contact prévu et appelle le service convenu avec son équipe.",
+      "title": "Détresse aiguë quand répondre et chercher de l’aide deviennent difficiles",
+      "description": "Les messages s’accumulent et Mina ne sait plus à quoi répondre. Elle retrouve le contact du soir et demande une évaluation au service.",
       "context": "Chez Mina, après les préparatifs du festival",
       "topics": [
         "Détresse aiguë",
-        "Plan de crise",
-        "Relais professionnel"
+        "Difficulté à organiser une action",
+        "Appel au service de crise"
       ],
-      "opening": "Le téléphone de Mina ne sonne plus depuis qu’elle l’a posé sur la table, mais elle le retourne à chaque bruit qui vient de l’immeuble. Les préparatifs ont pris du retard. Quelqu’un a demandé dans la conversation du festival qui pourrait reprendre une tâche le lendemain. Le message s’est ajouté aux autres et Mina n’arrive plus à distinguer ceux qui attendent une réponse. Elle a déjà tapé trois débuts de phrase. Le dernier dit qu’elle veut tout quitter. Elle ne l’envoie pas. Elle pose l’appareil, s’assied près de la porte et se rend compte qu’elle pleure depuis un moment.\n\nElle appelle Alice. Sa cousine a quelques minutes avant de rejoindre les autres au théâtre. Mina lui dit qu’elle se sent vraiment dépassée et qu’elle voudrait parler à quelqu’un maintenant. Alice lui demande si elle a toujours la ligne qu’elles avaient regardée ensemble. Mina a le téléphone contre l’oreille. Elle avait complètement oublié le papier derrière la coque. Elle le retrouve et le pose sur la table, près de la boîte où elle range les fils du carnet.\n\nAlice lui dit qu’elle peut rester quelques minutes pendant qu’elle retrouve le contact. Mina lui demande de garder le fil le temps qu’elle écrive le numéro sur un autre papier. Puis elle lui dit qu’elle va appeler le service. Quand quelqu’un décroche, elle donne son prénom et dit qu’elle a un plan préparé avec son équipe, et qu’elle a besoin d’aide pour traverser ce qui se passe ce soir.",
+      "opening": "Le téléphone de Mina ne sonne plus depuis qu’elle l’a posé sur la table, mais elle le retourne à chaque bruit qui vient de l’immeuble. Les préparatifs ont pris du retard. Quelqu’un a demandé dans la conversation du festival qui pourrait reprendre une tâche le lendemain. Le message s’est ajouté aux autres et Mina n’arrive plus à distinguer ceux qui attendent une réponse. Elle a déjà tapé trois débuts de phrase. Le dernier dit qu’elle veut tout quitter. Elle ne l’envoie pas. Elle pose l’appareil, s’assied près de la porte et se rend compte qu’elle pleure depuis un moment.\n\nElle appelle Alice. Sa cousine a quelques minutes avant de rejoindre les autres au théâtre. Mina lui dit qu’elle se sent vraiment dépassée et qu’elle voudrait parler à quelqu’un maintenant. Alice lui demande si elle a toujours la ligne qu’elles avaient regardée ensemble. Mina a le téléphone contre l’oreille. Elle avait complètement oublié le papier derrière la coque. Elle le retrouve et le pose sur la table, près de la boîte où elle range les fils du carnet.\n\nAlice lui dit qu’elle peut rester quelques minutes. Mina déplie le papier et lui lit la ligne qu’elle a recopiée. Elle dit qu’elle va appeler le service et compose le numéro dès qu’elles raccrochent. Quand quelqu’un décroche, elle donne son prénom et dit qu’elle a un plan préparé avec son équipe, et qu’elle a besoin d’aide pour traverser ce qui se passe ce soir.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Prendre le besoin d’aide au sérieux",
-          "text": "En période de crise, un plan préparé avec les soignants peut aider une personne à retrouver le service adapté et à dire ce dont elle a besoin. Le NICE recommande aux professionnels de s’appuyer sur le plan, d’écouter le point de vue de la personne et de convenir d’un suivi adapté à la situation."
+          "heading": "Quand la détresse rend les prochaines étapes difficiles",
+          "text": "Une détresse intense peut réduire la capacité à choisir quoi faire et à mobiliser des appuis pourtant familiers. Dans un profil borderline, des variations émotionnelles marquées peuvent s’accompagner de moments où la personne a besoin d’une aide rapide. Les causes et le niveau de risque de la crise ne se déduisent pas du diagnostic. Le service écoute ce que la personne traverse, vérifie avec elle sa sécurité et organise la réponse qui convient. Ce soir, Mina peine à formuler un message et à retrouver une information préparée au calme."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La détresse de Mina mérite une réponse. Le service peut lui demander ce qui se passe, comment elle se sent et si elle est en sécurité dans l’instant.\n\nLes messages du festival font partie de ce qu’elle peut raconter. L’échange clinique permet de prendre en compte ce qui s’accumule, y compris ce qui est difficile à mettre en mots. Mina peut expliquer que, ce soir, elle n’arrive plus à faire ses choix habituels et cherche un appui immédiat."
+          "heading": "Comment une détresse aiguë peut-elle gêner l’action ?",
+          "points": [
+            {
+              "heading": "Perdre le fil des demandes ordinaires",
+              "text": "Les informations peuvent devenir difficiles à trier. Une décision courte semble alors aussi pressante que toutes les autres.",
+              "examples": [
+                "Mina n’arrive plus à distinguer les messages du festival auxquels elle doit répondre.",
+                "Devant une série de notifications de sa famille, une personne ouvre plusieurs conversations de suite sans réussir à suivre ce qu’on lui demande."
+              ]
+            },
+            {
+              "heading": "Ne plus réussir à formuler la suite",
+              "text": "Sous une détresse aiguë, une tâche simple peut rester interrompue. Ce qui compte est de pouvoir dire à quelqu’un qu’on a besoin d’aide.",
+              "examples": [
+                "Mina commence plusieurs réponses, finit par poser le téléphone et pleure près de la porte.",
+                "Au moment de répondre à une invitation, une personne relit la même phrase sans pouvoir terminer sa réponse. Elle arrive toutefois à dire à un proche que cela ne va pas."
+              ]
+            },
+            {
+              "heading": "Ne plus penser à un appui préparé",
+              "text": "Un contact connu peut échapper à l’attention au moment où la personne en a besoin. Un rappel bref peut aider à le retrouver.",
+              "examples": [
+                "Mina a oublié le papier derrière la coque. La question d’Alice lui rappelle où il est.",
+                "Une personne cherche un numéro parmi les derniers appels alors qu’elle avait convenu avec son équipe de l’enregistrer sous un nom précis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer la suite aux professionnels",
-          "text": "Alice peut rester quelques minutes et aider Mina à retrouver la ligne qu’elles ont notée. Elle peut ensuite respecter le relais convenu. La personne qui répond au service évalue avec Mina la situation et la suite utile. Si un danger immédiat est en jeu, il faut contacter les secours. La proche peut chercher une aide urgente et suivre les consignes reçues.\n\nAprès cet échange, Mina peut revoir le plan au rendez-vous de suivi. Elle pourra dire qu’elle a eu du mal à retrouver le contact, choisir où le garder et vérifier avec l’équipe ce qu’elle fera si la situation évolue. Les décisions du festival peuvent attendre le moment où elle sera en mesure de reprendre la discussion."
+          "heading": "3 techniques pour obtenir un relais professionnel quand la détresse déborde",
+          "points": [
+            {
+              "heading": "Appeler le service prévu dès qu’il faut de l’aide",
+              "objective": "Passer rapidement à un contact professionnel quand la personne ne parvient plus à faire face seule.",
+              "exercise": [
+                "En cas de danger immédiat, appelez les secours sans attendre le service habituel ni le rappel d’un proche.",
+                "Si vous n’êtes pas en danger immédiat, utilisez le contact prévu dans votre plan de crise ou demandez sans tarder de l’aide à un professionnel.",
+                "Dites d’emblée ce que vous traversez, en particulier si vous ne savez pas comment rester en sécurité."
+              ],
+              "benefit": "Un appel rapide permet à un professionnel de déterminer avec vous quelle aide est nécessaire."
+            },
+            {
+              "heading": "Demander une aide brève pour joindre le service",
+              "objective": "Obtenir un geste précis si un proche est disponible, sans retarder l’appel aux secours en cas de danger immédiat.",
+              "exercise": [
+                "Dites au proche que vous avez besoin d’aide maintenant.",
+                "Demandez-lui de vous rappeler le contact ou de vous aider à le joindre.",
+                "Si vous ne pouvez pas appeler vous-même, demandez-lui d’appeler le service compétent et de relayer ce qu’il sait."
+              ],
+              "benefit": "Une demande précise peut faciliter l’accès au service quand la détresse rend les étapes difficiles à organiser."
+            },
+            {
+              "heading": "Faire préciser la suite avant de raccrocher",
+              "objective": "Suivre le relais prévu après l’évaluation plutôt que devoir décider seul de la prochaine démarche.",
+              "exercise": [
+                "Répondez aux questions du professionnel sur votre situation et suivez ses consignes.",
+                "Faites-vous préciser qui vous recontacte et à quel moment.",
+                "Demandez quel service appeler si la situation s’aggrave avant ce contact."
+              ],
+              "benefit": "Une suite explicite peut réduire les démarches à improviser après l’appel."
+            }
+          ]
         }
       ],
       "ending_title": "Le papier reste sur la table",
-      "ending": "La personne qui a répondu fait le point avec Mina et convient d’un nouvel échange. Mina recopie l’heure sur le papier posé devant elle. Elle écrit ensuite à Alice qu’elle a parlé au service. Elle garde pour elle l’heure du prochain échange. Dans la conversation du festival, elle envoie seulement qu’elle répondra demain pour la tâche demandée. Elle remet le fil dans la boîte du carnet et laisse sur la table le papier qu’elle veut retrouver le matin.",
+      "ending": "La personne qui a répondu lui demande ce qui se passe et vérifie avec elle si elle est en sécurité. Après avoir fait le point, elles conviennent d’un nouvel échange. La professionnelle précise aussi qui appeler si la situation s’aggrave avant cet échange. Mina recopie l’heure sur le papier posé devant elle. Elle écrit ensuite à Alice qu’elle a parlé au service. Elle garde pour elle l’heure du prochain échange. Dans la conversation du festival, elle envoie seulement qu’elle répondra demain pour la tâche demandée. Elle remet le fil dans la boîte du carnet et laisse sur la table le papier qu’elle veut retrouver le matin.",
       "mirror": [
-        "Alice peut dire « Je suis là quelques minutes. Est-ce que tu retrouves le contact qu’on avait mis de côté ? » Elle peut écouter la réponse de Mina et rester jusqu’au moment convenu pour l’appel au service. Si elle entend qu’il y a un danger immédiat, elle cherche une aide urgente et suit les consignes des secours. Elle garde sa place de proche et peut dire quand elle devra partir. Le service prend en charge l’évaluation et convient avec Mina de la suite."
+        "Alice peut dire « Je reste le temps que tu retrouves le contact. Est-ce que tu veux que je t’aide à joindre le service ? » Si Mina indique un danger immédiat ou qu’Alice constate une urgence, Alice appelle les secours sans attendre et suit leurs consignes. Une fois le relais pris, elle peut dire quand elle ne sera plus joignable. Le service mène l’évaluation et organise la suite avec Mina."
       ],
       "sources": [
         "oms-cddr",
@@ -366,36 +821,93 @@
         "choice": "Mina utilise le plan de crise et convient d’un contact de suivi. Alice apporte l’aide brève qu’elles avaient prévue.",
         "next": "Au rendez-vous suivant, Mina ajuste le plan et reparle avec Alice de l’aide qu’elle souhaite partager."
       },
-      "clinical_focus": "Détresse aiguë et accès aux soins",
-      "clinical_intro": "Plusieurs messages se mêlent et Mina se surprend à écrire qu’elle veut tout quitter. Elle pleure et sent qu’elle a besoin de parler à quelqu’un maintenant. Dans un trouble de la personnalité avec profil borderline, une crise peut rendre les choix ordinaires très difficiles. Le plan préparé lui donne un point de contact professionnel pendant qu’Alice l’aide à le retrouver."
+      "clinical_focus": "Désorganisation pendant une détresse aiguë",
+      "clinical_intro": "Un soir, Mina n’arrive plus à trier les demandes du festival ni à retrouver tout de suite le numéro qu’elle a préparé. Dans un profil borderline, la détresse peut devenir intense et rendre les décisions ordinaires difficiles. Une crise demande une réponse adaptée à ce qui se passe sur le moment. Mina appelle le service indiqué dans son plan et lui explique ce qui a changé.",
+      "conclusion": "La détresse a rendu difficiles des gestes que Mina savait faire, jusqu’à retrouver le numéro du soir. Alice a fourni un appui bref et le service a évalué la situation et fixé la suite. Au prochain rendez-vous, Mina pourra dire à quel moment le plan lui a été utile et où il lui a manqué quelque chose de facile à retrouver."
     },
     {
       "number": 9,
       "slug": "mina-revoir-le-relais-avec-alice",
-      "title": "Après une crise, évaluer ce qui a aidé et ajuster le relais",
-      "description": "Mina a pu joindre le service, mais a eu du mal à retrouver le numéro. Elle ajuste le plan et discute avec Alice de l’aide qu’elles souhaitent.",
+      "title": "Après une crise, repérer ce qui a rendu les appuis difficiles à utiliser",
+      "description": "Mina revient sur ce qui a gêné son appel pendant la crise. Elle rend le contact plus accessible et précise avec Alice l’aide qui lui convient.",
       "context": "À la sortie du théâtre, quelques jours plus tard",
       "topics": [
-        "Réévaluation du plan de crise",
-        "Soutien des proches",
-        "Confidentialité des soins"
+        "Accès aux appuis",
+        "Retour sur une crise",
+        "Consentement des proches"
       ],
-      "opening": "À la sortie du théâtre, Alice a oublié de retirer un fil blanc de sa manche. Mina le lui montre. Alice tire dessus jusqu’à ce qu’il casse, puis demande si elles peuvent marcher jusqu’à l’arrêt ensemble. Mina a dans son sac le papier que la thérapeute lui a donné au rendez-vous de ce matin. Elle a signalé le temps qu’il lui avait fallu pour retrouver le numéro derrière la coque. Elles ont convenu de garder aussi le contact à un endroit facile à ouvrir sur le téléphone. Elle voudrait parler de cette seule partie avec Alice.\n\nAvant qu’elle trouve comment commencer, Alice lui dit qu’elle s’est demandé si elle aurait dû rester plus longtemps au téléphone. Elle était entrée en répétition quand Mina a écrit qu’elle avait joint le service. Elle n’a vu le message que plus tard. Mina l’écoute en suivant des yeux le fil qui reste sur le manteau. Elle avait compris qu’Alice entrait au théâtre. Elle lui dit qu’elle avait surtout eu besoin d’entendre une voix le temps de retrouver le papier.\n\nAlice demande si Mina pourrait lui envoyer systématiquement un message après chaque appel au service. Mina se surprend à vouloir dire oui tout de suite. Elle voudrait surtout qu’Alice sache à quoi s’attendre si elles se retrouvent dans la même situation. Elle pose la main sur la bretelle de son sac. Elle peut lui dire quelle phrase l’a aidée et lui demander ce qu’elle aimerait convenir, en gardant la liberté de choisir quand elle parle de ses soins.",
+      "opening": "À la sortie du théâtre, Alice a oublié de retirer un fil blanc de sa manche. Mina le lui montre. Alice tire dessus jusqu’à ce qu’il casse, puis demande si elles peuvent marcher jusqu’à l’arrêt ensemble. Mina a dans son sac le papier que la thérapeute lui a donné au rendez-vous de ce matin. Elle a signalé le temps qu’il lui avait fallu pour retrouver le numéro derrière la coque. Elles ont convenu de garder aussi le contact à un endroit facile à ouvrir sur le téléphone. Au cabinet, Mina a essayé de l’afficher une fois sans lancer l’appel. Elle voudrait parler de cette seule partie avec Alice.\n\nAvant qu’elle trouve comment commencer, Alice lui dit qu’elle s’est demandé si elle aurait dû rester plus longtemps au téléphone. Elle était entrée en répétition quand Mina a écrit qu’elle avait joint le service. Elle n’a vu le message que plus tard. Mina l’écoute en suivant des yeux le fil qui reste sur le manteau. Elle avait compris qu’Alice entrait au théâtre. Elle lui dit qu’elle avait surtout eu besoin d’entendre une voix le temps de retrouver le papier.\n\nAlice demande si Mina pourrait lui envoyer systématiquement un message après chaque appel au service. Mina se surprend à vouloir dire oui tout de suite. Elle voudrait surtout qu’Alice sache à quoi s’attendre si elles se retrouvent dans la même situation. Elle pose la main sur la bretelle de son sac. Elle peut lui dire quelle phrase l’a aidée et lui demander ce qu’elle aimerait convenir, en gardant la liberté de choisir quand elle parle de ses soins.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Faire le point après une période de crise",
-          "text": "Après une crise, le plan de soutien peut être réexaminé avec la personne et les professionnels qui la suivent. Le NICE recommande de reprendre ce qui s’est passé et de vérifier quels appuis ont été utiles. Mina peut expliquer comment elle a retrouvé le contact et ce qu’elle aimerait pouvoir faire si le besoin revient. Elle peut choisir avec l’équipe de garder la fiche papier et d’ajouter un autre moyen d’accéder à la même information."
+          "heading": "Un appui prévu doit pouvoir servir au moment voulu",
+          "text": "Après une crise, reprendre avec l’équipe ce qui s’est passé permet de vérifier comment les appuis ont fonctionné en situation réelle. Dans le suivi d’un profil borderline, ce retour peut concerner ce qui a précédé la crise, l’accès aux soins et la place que la personne souhaite laisser aux proches. Mina connaissait le numéro. Le retrouver lui a demandé un effort inattendu. Alice a aidé de la manière prévue, puis est entrée en répétition. Mina et sa thérapeute ajustent le premier point, et Mina choisit ce qu’elle souhaite rediscuter avec Alice."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La participation d’Alice se discute avec l’accord de Mina. Elle peut concerner un geste précis, comme rappeler où se trouve la fiche ou rester quelques minutes au téléphone. Mina peut garder confidentiel le contenu de ses échanges avec les soignants. Alice peut dire quelles informations pratiques lui permettraient d’aider et quand elle sera disponible."
+          "heading": "Comment l’écart entre le plan prévu et l’aide disponible apparaît-il après une crise ?",
+          "points": [
+            {
+              "heading": "Avoir un numéro et mettre du temps à le retrouver",
+              "text": "Le retour sur l’appel peut montrer que l’endroit choisi au calme a demandé trop d’étapes sous la tension.",
+              "examples": [
+                "Mina savait qu’elle avait recopié le numéro. Elle a eu besoin d’un rappel pour regarder derrière la coque.",
+                "Après une soirée difficile, une personne explique que son contact se trouvait dans un ancien message qu’elle n’a pas réussi à retrouver."
+              ]
+            },
+            {
+              "heading": "Dépendre d’un moment où le proche peut répondre",
+              "text": "L’aide d’un proche a une durée et des conditions. En reparler permet de voir quelles parties du plan restent accessibles sans lui.",
+              "examples": [
+                "Alice a parlé à Mina avant la répétition. Elle a vu le message confirmant l’appel seulement plus tard.",
+                "Un ami disponible sur le trajet du retour peut aider à joindre un service, mais ne peut pas promettre de répondre une fois au travail."
+              ]
+            },
+            {
+              "heading": "Comprendre différemment les nouvelles après l’appel",
+              "text": "S’être mis d’accord sur un appui ponctuel ne dit pas à chacun ce qu’il pourra attendre ensuite. Le retour au calme permet de préciser ce qu’on souhaite partager.",
+              "examples": [
+                "Alice aimerait un message après chaque appel. Mina voudrait décider quand elle envoie des nouvelles.",
+                "Un proche pense que sa proposition d’accompagner quelqu’un à une consultation lui donnera accès au compte rendu. La personne tient à garder l’entretien privé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un accord qui peut se revoir",
-          "text": "Les deux cousines peuvent décider qu’elles se feront signe après un appel si elles en ont convenu sur le moment. Mina garde la liberté de prendre contact avec l’équipe quand elle le souhaite. Alice peut redire qu’elle coupe son téléphone en répétition et demander comment elles se préviennent si l’une doit partir. Le suivi de Mina reste accessible selon ce qu’elle a prévu avec les professionnels.\n\nL’entraide peut aussi avoir des sujets ordinaires. À l’arrêt, Alice peut raconter comment l’ourlet a tenu pendant la répétition et Mina peut choisir de l’écouter ou d’attendre une autre fois. Le plan garde sa place dans leur relation parmi ce qu’elles ont choisi de partager."
+          "heading": "3 techniques pour ajuster les appuis après avoir traversé une crise",
+          "points": [
+            {
+              "heading": "Repérer l’étape qui a coincé",
+              "objective": "Aider l’équipe à modifier un obstacle concret dans le plan existant.",
+              "exercise": [
+                "Une fois la situation évaluée, racontez au professionnel ce que vous avez tenté pour obtenir de l’aide.",
+                "Montrez à quelle étape vous avez perdu du temps ou eu besoin d’un rappel.",
+                "Choisissez ensemble un changement simple et vérifiez au calme que vous savez retrouver le contact."
+              ],
+              "benefit": "Cet essai peut indiquer si le contact demande moins d’effort à retrouver."
+            },
+            {
+              "heading": "Distinguer le service du geste que le proche peut faire",
+              "objective": "Garder un accès à l’aide professionnelle quels que soient les horaires de l’entourage.",
+              "exercise": [
+                "Demandez au proche quelle aide il souhaite et peut apporter.",
+                "Précisez jusqu’à quand il pense pouvoir être disponible.",
+                "Avec l’équipe, vérifiez à qui vous vous adressez s’il ne répond pas ou s’il doit partir."
+              ],
+              "benefit": "Le plan peut rester utilisable même lorsque le proche ne peut pas prendre l’appel."
+            },
+            {
+              "heading": "Choisir quand donner des nouvelles",
+              "objective": "Préserver la possibilité de partager un message utile et de garder les détails des soins privés.",
+              "exercise": [
+                "Dites ce que vous souhaitez raconter de l’appel précédent.",
+                "Convenez au besoin d’un message bref quand l’autre a proposé de rester joignable.",
+                "Précisez que vous pourrez revoir cet accord selon la situation."
+              ],
+              "benefit": "Un accord limité peut aider chacun à savoir quoi attendre sans faire du compte rendu une obligation."
+            }
+          ]
         }
       ],
       "ending_title": "Le fil blanc reste à la manche",
@@ -411,40 +923,97 @@
         "choice": "Mina ajuste l’accès au contact et garde la liberté de dire à Alice ce qu’elle souhaite après un appel.",
         "next": "À l’ouverture du festival, elle retrouve Rachid autour d’un planning modifié et décide d’une part qu’elle peut prendre."
       },
-      "clinical_focus": "Réévaluation du plan de crise",
-      "clinical_intro": "Mina a finalement joint le service et explique en suivi le temps qu’il lui a fallu pour retrouver le numéro. Revenir sur ce qui a aidé pendant une crise permet de mettre à jour le plan avec son équipe. Alice souhaite aussi savoir quand elle peut soutenir sa cousine. Mina choisit l’aide à partager et le moment où elle veut donner des nouvelles."
+      "clinical_focus": "Accessibilité des appuis après une crise",
+      "clinical_intro": "Après l’appel du soir, Mina revient avec sa thérapeute sur le temps qu’il lui a fallu pour retrouver le numéro. Elle souhaite garder le geste utile d’Alice et préciser ce qui dépend de la disponibilité de sa cousine. Dans le suivi d’un profil borderline, revenir sur les obstacles rencontrés pendant une crise peut aider à préparer des appuis plus faciles à utiliser.",
+      "conclusion": "Mina garde une façon plus directe d’ouvrir le contact et choisit ce qu’elle dira à Alice après un appel. Le plan change à partir des difficultés constatées cette fois. Au festival, une situation de travail la mettra de nouveau sous tension, avec un relais qui relèvera cette fois de la coordination."
     },
     {
       "number": 10,
       "slug": "mina-ouverture-festival-repartir",
-      "title": "Réguler une réaction vive quand un collègue se dit indisponible",
-      "description": "Rachid ne peut pas l’aider tout de suite. Mina reconnaît sa première envie de répliquer et décide quelle tâche elle peut prendre.",
+      "title": "Faire un autre choix quand une réponse impulsive revient au travail",
+      "description": "Une réponse sèche revient à Mina quand Rachid se dit pris. Malgré l’agacement, elle indique ce qu’elle peut faire et organise le relais.",
       "context": "Dans le local, le premier matin du festival",
       "topics": [
-        "Réactivité émotionnelle",
-        "Régulation de la réponse",
-        "Retentissement professionnel"
+        "Régulation de l’impulsion",
+        "Choix sous tension",
+        "Limites au travail"
       ],
       "opening": "Les bénévoles entrent par deux pour venir chercher leur enveloppe. Mina leur demande de donner le nom de leur équipe. Elle a laissé une petite pile sous la table, comme prévu, et les noms sont lisibles depuis la porte. Certaines équipes doivent passer plus tard, en rentrant de la place. Leurs enveloppes sont à part, sous la feuille où Mina note les retraits. Quand la première bénévole cherche sa boîte, Mina voit que les programmes qui devaient arriver en complément n’ont pas été déposés. Dans la marge du planning, quelqu’un a écrit qu’il faudrait les chercher dans l’autre salle.\n\nRachid passe la tête par la porte. Il est attendu pour réceptionner un autre envoi. Mina lui demande s’il a cinq minutes pour regarder la liste. Il secoue la tête et dit qu’il pourra la voir plus tard. Elle sent revenir la réponse qu’elle avait donnée dans la cour. Elle l’entend presque dans sa bouche. Cette fois, elle lui demande juste à quel moment il pense pouvoir revenir. Il ne sait pas encore. Il lui montre l’endroit où le contact de la coordination figure sur le nouveau document.\n\nMina peut préparer les enveloppes sans tous les programmes, le temps d’avoir la confirmation. Elle appelle la coordination pour signaler la boîte manquante. Elle avait espéré finir tôt et passer à l’atelier de reliure, où Béatrice laisse des personnes travailler après le cours. Elle reste un instant devant la table avant de dire ce qu’elle peut couvrir. Elle peut distribuer ce qui est prêt jusqu’à la fin de son créneau. Quelqu’un devra vérifier ensuite ce qui a été livré et ce qui manque encore.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reconnaître une réaction récurrente au travail",
-          "text": "Un suivi peut prendre en compte les difficultés que la personne rencontre au travail et les objectifs qu’elle souhaite y garder. Le NICE prévoit de discuter d’objectifs concrets liés à l’emploi et à la vie quotidienne."
+          "heading": "L’envie de répliquer et le geste qui suit",
+          "text": "Sous le coup d’une émotion forte, le profil borderline peut s’accompagner d’une tendance à agir précipitamment. La marge entre l’impulsion et l’action peut varier selon la situation et les appuis accessibles. L’envie de répliquer revient ici dès que Rachid dit qu’il est pris. Mina la remarque et s’occupe de la boîte manquante puis du relais à la table. Elle reste contrariée et la question du planning devra être reprise."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la scène, Mina veut accueillir les bénévoles et donner une information fiable. Elle remarque aussi l’effet qu’a sur elle la réponse de Rachid. Elle peut apporter ces deux observations au suivi et choisir de traiter la livraison avec la coordination.\n\nLe fait d’avoir pu reprendre leur désaccord la dernière fois ne garantit pas un accord aujourd’hui. Mina et Rachid peuvent se répartir les tâches à partir de leurs disponibilités. Les raisons d’un retard ou d’une réponse brève peuvent rester ouvertes jusqu’à ce qu’ils aient de quoi les comprendre."
+          "heading": "Comment une autre réponse devient-elle possible quand l’impulsion revient ?",
+          "points": [
+            {
+              "heading": "Reconnaître une réplique déjà connue",
+              "text": "Dans un contexte familier, une réponse peut venir à l’esprit assez nettement pour que la personne reconnaisse ce qu’elle s’apprête à dire.",
+              "examples": [
+                "Quand Rachid ne peut pas s’arrêter, Mina entend presque dans sa bouche la réplique qu’elle lui avait lancée dans la cour.",
+                "En découvrant un nouvel oubli dans la liste commune, une personne se voit déjà écrire « Tu fais toujours pareil » et reconnaît la phrase d’une dispute précédente."
+              ]
+            },
+            {
+              "heading": "Répondre sur le besoin qui subsiste",
+              "text": "L’envie de régler l’échange tout de suite peut coexister avec une demande pratique plus limitée. La personne peut formuler cette demande alors qu’elle est encore touchée.",
+              "examples": [
+                "Mina aimerait répondre sèchement. Elle pose finalement une question sur le retour de Rachid et suit le contact qu’il lui montre.",
+                "Quand un collègue écourte une réunion, une personne a encore envie de lui reprocher son départ. Elle lui demande ce qu’elle peut terminer avant son retour."
+              ]
+            },
+            {
+              "heading": "Garder sa limite quand l’autre revient",
+              "text": "Une autre réaction peut aussi consister à ne pas reprendre immédiatement la discussion. La personne garde la possibilité de traiter le fond au moment qui lui convient.",
+              "examples": [
+                "Quand Rachid revient, Mina lui propose le lendemain pour parler des créneaux et maintient son départ pour l’atelier.",
+                "Après une interruption de service, une personne passe sa consigne au relais même si une collègue souhaite discuter du problème juste à la fin de son horaire."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un passage de relais qu’une autre personne peut reprendre",
-          "text": "Mina peut indiquer quelles enveloppes sont prêtes, quelles équipes attendent encore et à qui poser la question de la livraison. Une autre personne peut reprendre ces éléments à la fin du créneau. La coordination peut organiser la distribution avec les moyens disponibles. Mina peut aussi dire qu’elle a besoin qu’on lui confirme le relais avant de partir.\n\nSon activité de reliure reste dans son agenda. Elle peut en parler à Béatrice si le temps prévu change, ou garder le créneau si l’équipe trouve un relais. Les deux activités ont chacune une place dans ce qu’elle souhaite faire ce jour-là."
+          "heading": "3 techniques pour garder une marge de choix face à une réaction familière",
+          "points": [
+            {
+              "heading": "Préparer une réponse de rechange pour un cas connu",
+              "objective": "Avoir une phrase disponible lorsqu’une situation semblable survient.",
+              "exercise": [
+                "Choisissez à froid un échange de travail qui se répète.",
+                "Repérez une réponse qui vous vient vite et ce qu’elle risque d’interrompre.",
+                "Préparez une question sur le besoin concret à poser à la place."
+              ],
+              "benefit": "Une formulation préparée peut être plus accessible quand revient la première réplique."
+            },
+            {
+              "heading": "Donner une limite et un relais",
+              "objective": "Répondre au besoin du moment en respectant la durée de son engagement.",
+              "exercise": [
+                "Nommez ce que vous pouvez assurer pendant votre créneau.",
+                "Demandez à la coordination qui prendra le reste.",
+                "Donnez à cette personne l’information qui lui permet de reprendre."
+              ],
+              "benefit": "Savoir qui fait la suite peut aider à tenir sa limite sans laisser la tâche sans responsable."
+            },
+            {
+              "heading": "Prévoir une reprise qui ne dépend pas de l’agacement du moment",
+              "objective": "Garder un sujet ouvert sans se laisser entraîner dans une nouvelle discussion au moment de partir.",
+              "exercise": [
+                "Indiquez le point que vous voulez garder pour plus tard.",
+                "Proposez un moment où vous pourrez en parler.",
+                "Si aucun horaire ne convient, convenez avec la coordination de la façon de traiter le sujet."
+              ],
+              "benefit": "Un rendez-vous distinct peut préserver le temps personnel et la possibilité de parler du fond."
+            }
+          ]
         }
       ],
       "ending_title": "Le prénom sous la dernière case",
-      "ending": "La coordination désigne quelqu’un pour reprendre la table. Mina écrit le prénom de cette personne sous la dernière case et lui montre où poser les boîtes qui manquent. Rachid revient pendant le changement. Il voudrait encore regarder la question des créneaux du lendemain. Mina lui dit qu’elle peut en parler le matin suivant. Elle prend avec elle le morceau de papier vert qu’elle avait laissé derrière le planning pour écrire une étiquette. En sortant, elle compte le temps qu’il lui reste pour rejoindre l’atelier.",
+      "ending": "La coordination désigne quelqu’un pour reprendre la table. Mina écrit le prénom de cette personne sous la dernière case et lui montre où poser les boîtes qui manquent. Rachid revient pendant le changement. Il voudrait encore regarder la question des créneaux du lendemain. Mina a toujours envie de lui dire qu’elle aurait préféré qu’il s’arrête plus tôt. Elle lui dit qu’elle peut en parler le matin suivant. Elle prend avec elle le morceau de papier vert qu’elle avait laissé derrière le planning pour écrire une étiquette. En sortant, elle compte le temps qu’il lui reste pour rejoindre l’atelier.",
       "mirror": [
         "Rachid peut dire ce qu’il peut tenir ce matin et indiquer à Mina le contact à joindre pour les programmes. « Je suis pris par l’autre livraison. Je peux regarder le planning de demain avec toi quand j’aurai fini. » Si Mina propose le lendemain, il peut vérifier si l’organisation le permet. La coordination garde la main sur le relais. Rachid peut ensuite discuter avec Mina du planning et de ce qui leur convient, chacun parlant de sa propre tâche."
       ],
@@ -456,40 +1025,97 @@
         "choice": "Mina assure son créneau, transmet la table à la personne désignée et garde son temps de reliure.",
         "next": "Elle termine le carnet et choisit le moment de l’offrir à Alice, sans lui demander de régler en même temps leurs prochains rendez-vous."
       },
-      "clinical_focus": "Régulation émotionnelle au travail",
-      "clinical_intro": "Le jour de l’ouverture, Rachid dit qu’il ne peut pas aider tout de suite. Mina entend presque la réponse vive de leur dispute précédente dans sa propre bouche. Repérer l’élan permet ici de demander une information et de passer le reste de la tâche à l’équipe. Ces moments donnent des exemples concrets à discuter dans le suivi de son trouble de la personnalité."
+      "clinical_focus": "Marge de choix malgré l’impulsion",
+      "clinical_intro": "À l’ouverture du festival, Rachid ne peut pas s’arrêter. Mina a la même réplique au bord des lèvres que le jour des tables. Elle trouve pourtant une autre réponse et garde son horaire. Dans un profil borderline, une forte émotion peut donner envie d’agir très vite. La scène montre comment une autre décision peut devenir possible alors que l’agacement est encore présent.",
+      "conclusion": "Mina connaît l’envie de répliquer et la retrouve ce matin. Elle parvient pourtant à organiser le relais et à garder du temps pour achever le carnet. Lorsqu’elle l’offrira, elle aura de nouveau besoin de faire une place à plusieurs choses à la fois, cette fois dans sa relation avec Alice."
     },
     {
       "number": 11,
       "slug": "mina-carnet-offert-alice",
-      "title": "La réponse différée d’Alice réveille la crainte du rejet au moment du cadeau",
-      "description": "Alice dit « Attends » en tenant son cabas. Mina s’interroge aussitôt sur la valeur du cadeau et laisse à Alice le temps de répondre.",
+      "title": "Quand une contrariété change soudain le regard sur une relation proche",
+      "description": "En offrant le carnet, Mina prend une hésitation d’Alice pour un signe que leur lien compte moins. Elle lui laisse le temps de l’ouvrir.",
       "context": "Sur le banc devant l’atelier de reliure",
       "topics": [
-        "Sensibilité au rejet",
-        "Interprétation d’une réponse brève",
-        "Attente d’une réponse"
+        "Variations du regard sur le lien",
+        "Proximité relationnelle",
+        "Attention et liberté de réponse"
       ],
-      "opening": "Béatrice passe son pouce le long de la tranche et demande à Mina si elle veut encore corriger le petit décalage du papier vert. Mina a déjà passé plus de temps sur ce bord que sur le reste de la couverture. Elle ouvre le carnet à la première page, puis à la sixième. Elles s’ouvrent toutes assez loin pour qu’Alice dessine une manche. Elle laisse le coin comme il est et récupère le morceau couleur de rouille qu’elle avait gardé pour un autre essai.\n\nAlice lui a dit qu’elle pourrait passer devant l’atelier après avoir rendu un costume. Mina sort avec le carnet enveloppé dans du papier de récup. Elle hésite entre écrire un mot sur la première page et laisser toute la place à Alice. Elle avait pensé écrire quelque chose sur les rendez-vous qu’elles ont remis. À la lumière de la rue, elle trouve que ce serait demander au carnet de faire un travail pour lequel elle l’a peu préparé. Elle glisse le mot qu’elle avait commencé dans sa poche.\n\nAlice arrive avec un cabas trop plein pour recevoir un autre paquet. Elle s’assied à côté de Mina et en retire le sac d’un costume. Mina lui tend le carnet. Alice dit « Attends » en continuant de chercher de la place. Pendant un instant, Mina a envie de savoir si elle aurait préféré acheter le sien. Alice tient à présent d’une main une boîte de boutons dont le couvercle se soulève. Elle pose le paquet sur le banc et lui demande si elle préfère l’ouvrir ici ou chez elle.",
+      "opening": "Béatrice passe son pouce le long de la tranche et demande à Mina si elle veut encore corriger le petit décalage du papier vert. Mina a déjà passé plus de temps sur ce bord que sur le reste de la couverture. Elle ouvre le carnet à la première page, puis à la sixième. Elles s’ouvrent toutes assez loin pour qu’Alice dessine une manche. Elle laisse le coin comme il est et récupère le morceau couleur de rouille qu’elle avait gardé pour un autre essai.\n\nAlice lui a dit qu’elle pourrait passer devant l’atelier après avoir rendu un costume. Mina sort avec le carnet enveloppé dans du papier de récup. Elle hésite entre écrire un mot sur la première page et laisser toute la place à Alice. Elle avait pensé écrire quelque chose sur les rendez-vous qu’elles ont remis. À la lumière de la rue, elle trouve que ce serait demander au carnet de faire un travail pour lequel elle l’a peu préparé. Elle glisse le mot qu’elle avait commencé dans sa poche.\n\nAlice arrive avec un cabas trop plein pour recevoir un autre paquet. Elle s’assied à côté de Mina et en retire le sac d’un costume. Mina lui tend le carnet. Alice dit « Attends » en continuant de chercher de la place. Pendant un instant, Mina a envie de savoir si Alice aurait préféré acheter le sien. Elle ne pense plus à la table du café ni au moment où Alice a retourné le papier vert. Elle se dit que ces rendez-vous ont surtout compté pour elle et a envie de reprendre le paquet. Alice tient à présent d’une main une boîte de boutons dont le couvercle se soulève. Elle pose le paquet sur le banc et lui demande si elle préfère l’ouvrir ici ou chez elle.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Laisser le temps d’une réponse quand le rejet paraît imminent",
-          "text": "Dans un lien qui compte, une réponse différée peut susciter des inquiétudes et des questions sur ce que l’autre pense. Mina peut ressentir cette inquiétude et laisser à Alice le temps de trouver où poser ses affaires. Elle peut lui demander ce qu’elle préfère faire du cadeau. Elle peut aussi garder pour une autre conversation les sujets qu’elle aimerait reprendre avec sa cousine."
+          "heading": "Quand l’instant recouvre une partie de l’histoire du lien",
+          "text": "Dans le profil borderline, le regard sur une relation proche peut varier de façon marquée, surtout dans des moments chargés d’émotion. Chez Mina, un geste décevant rend parfois difficile le souvenir d’une attention de la même personne. Une relation peut aussi traverser de vrais désaccords, et une contrariété isolée ne suffit pas à caractériser ce fonctionnement. Mina avait préparé le carnet avec Alice. Pendant qu’Alice fait de la place dans son sac, Mina peine à garder en tête ce qu’elles ont fait ensemble et ce qu’elle éprouve à ce moment-là."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Un suivi peut s’intéresser aux situations dans lesquelles cette incertitude revient et à ce que Mina veut essayer pour y faire face. Le carnet lui-même garde l’usage qu’Alice souhaite lui donner. Les deux cousines peuvent parler de la façon de se retrouver et continuer d’avoir des envies et des horaires différents."
+          "heading": "Comment une contrariété peut-elle changer le regard sur une relation proche ?",
+          "points": [
+            {
+              "heading": "Voir tout le lien à travers la dernière réaction",
+              "text": "Ce qui vient de se passer peut faire oublier momentanément des échanges différents avec la même personne.",
+              "examples": [
+                "Quand Alice dit « Attends », Mina oublie presque que sa cousine avait choisi le papier avec elle au café.",
+                "Après une remarque sèche au téléphone, une personne a le sentiment de ne jamais être écoutée par son ami et ne pense plus aux moments où il a pris du temps pour elle."
+              ]
+            },
+            {
+              "heading": "Changer brusquement la manière de se rapprocher",
+              "text": "La personne peut avoir très envie d’un moment partagé puis souhaiter y mettre fin quand son regard sur la relation bascule.",
+              "examples": [
+                "Mina était venue offrir le carnet. Elle a soudain envie de reprendre le paquet alors qu’Alice cherche où poser ses affaires.",
+                "Une personne prépare un repas pour fêter un projet commun puis songe à partir quand l’autre commence la soirée en évoquant un problème à régler."
+              ]
+            },
+            {
+              "heading": "Demander à un geste de répondre pour toute la relation",
+              "text": "Une rencontre ou un cadeau peut paraître chargé de montrer si la relation compte encore, au risque de rendre difficile l’attention portée au geste lui-même.",
+              "examples": [
+                "Mina avait songé à glisser dans le carnet un mot sur les rendez-vous remis, en espérant une réponse au moment de l’offrir.",
+                "Deux proches regardent un album. L’un d’eux souhaite que l’enthousiasme immédiat de l’autre règle un désaccord qui remonte à plusieurs semaines."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Ce que Mina tient à offrir",
-          "text": "Mina a choisi le papier, appris à refaire un pli et décidé où s’arrêter. Elle peut dire qu’elle a pris plaisir à apprendre et qu’elle espère que le carnet sera utile. Alice peut choisir de le feuilleter ou de l’ouvrir plus tard. Si Mina tient à parler de leur prochain rendez-vous, elle peut poser cette question un autre jour ou vérifier qu’Alice a du temps maintenant.\n\nDans cette scène, Mina peut aussi garder pour elle un projet de fabrication qui ne dépend de personne. Le morceau couleur de rouille pourra servir au prochain cours, même si Alice utilise son carnet autrement que prévu."
+          "heading": "3 techniques pour garder une vue plus complète d’une relation proche",
+          "points": [
+            {
+              "heading": "Nommer deux moments du même lien",
+              "objective": "Faire une place à la contrariété du jour et à un souvenir précis qui raconte autre chose.",
+              "exercise": [
+                "Dites ce qui vous a déçu dans l’échange actuel.",
+                "Rappelez-vous un moment récent où vous avez apprécié quelque chose avec la même personne.",
+                "Laissez les deux faits côte à côte avant de prendre une décision sur la rencontre."
+              ],
+              "benefit": "Se rappeler plusieurs moments peut éviter que le dernier résume à lui seul le lien."
+            },
+            {
+              "heading": "Laisser le cadeau porter sur ce qui a été choisi",
+              "objective": "Offrir un objet pour l’usage ou l’attention qui a motivé le geste.",
+              "exercise": [
+                "Rappelez-vous pourquoi vous avez préparé le cadeau.",
+                "Décidez si une autre conversation a besoin de son propre moment.",
+                "Laissez au destinataire le choix de l’ouvrir maintenant ou plus tard."
+              ],
+              "benefit": "Le geste peut rester possible sans devenir une demande de réponse sur l’avenir du lien."
+            },
+            {
+              "heading": "Reprendre un désaccord à un autre moment",
+              "objective": "Parler d’une difficulté du lien là où chacun peut s’y consacrer.",
+              "exercise": [
+                "Choisissez le point que vous souhaitez réellement discuter.",
+                "Demandez à l’autre s’il souhaite y revenir et quand.",
+                "S’il ne peut pas répondre sur le moment, gardez votre choix sur l’activité en cours."
+              ],
+              "benefit": "Un temps à part peut laisser la place au désaccord et aux moments que les deux personnes apprécient."
+            }
+          ]
         }
       ],
       "ending_title": "Une manche sur la première page",
-      "ending": "Alice ouvre le paquet sur le banc. Elle passe la paume sur la couverture, puis demande à Mina si elle peut commencer tout de suite. Du fond du cabas, elle sort un crayon. Elle trace de biais une manche qu’elle devra reprendre le lendemain. Mina voit le trait passer près du bord qu’elle avait failli corriger et demande ce qui manque au costume. En repartant, Alice prend le carnet sous le bras. Mina garde le papier rouille et le mot qu’elle décidera peut-être d’écrire un jour.",
+      "ending": "Mina pose la main sur le papier d’emballage. Elle se rappelle qu’Alice avait demandé de la place pour dessiner une manche. Elle lui dit qu’elle aimerait le voir ouvert ici, si Alice en a envie. Alice ouvre le paquet sur le banc. Elle passe la paume sur la couverture, puis demande à Mina si elle peut commencer tout de suite. Du fond du cabas, elle sort un crayon. Elle trace de biais une manche qu’elle devra reprendre le lendemain. Mina voit le trait passer près du bord qu’elle avait failli corriger et demande ce qui manque au costume. En repartant, Alice prend le carnet sous le bras. Mina garde le papier rouille et le mot qu’elle décidera peut-être d’écrire un jour.",
       "mirror": [
         "Alice peut dire qu’elle a besoin d’une minute pour poser ses affaires et préciser si elle souhaite ouvrir le carnet sur le banc. « Je veux le voir. Laisse-moi juste sortir cette boîte. » Si elle préfère l’ouvrir chez elle, elle peut le dire et remercier Mina pour le travail qu’elle a fait. Elle peut aussi s’intéresser au choix du papier. L’invitation à se revoir et la façon dont elle utilisera le carnet restent des décisions qu’elles peuvent prendre chacune à son rythme."
       ],
@@ -501,36 +1127,93 @@
         "choice": "Mina offre le carnet et Alice choisit de l’ouvrir et d’y dessiner une manche.",
         "next": "Après la fermeture du festival, Mina garde un rendez-vous de suivi et une place à l’atelier pour un projet à elle."
       },
-      "clinical_focus": "Crainte du rejet dans l’attente",
-      "clinical_intro": "Au moment d’offrir le carnet, Mina entend un « Attends » et se demande tout de suite si Alice aurait préféré un autre cadeau. Une forte sensibilité au rejet peut colorer une réponse très brève dans un lien important. En laissant Alice chercher où poser ses affaires, Mina se donne la possibilité d’entendre ce qu’elle souhaite réellement faire du cadeau."
+      "clinical_focus": "Variations du regard sur une relation proche",
+      "clinical_intro": "Mina a préparé le carnet avec Alice. Au moment de l’offrir, un simple « Attends » lui fait pourtant voir leur relation comme si elle seule y tenait. Des variations marquées du regard porté sur les liens proches peuvent faire partie d’un profil borderline. Ici, Mina laisse coexister la contrariété du moment et ce qu’elle sait déjà de leur relation.",
+      "conclusion": "Pendant un instant, Mina a vu la relation entière à travers l’attente devant le cabas. En offrant tout de même le carnet, elle retrouve avec Alice ce qu’elles avaient imaginé pour ces pages. La question de leurs rendez-vous reste ouverte. Mina peut maintenant faire une place à un projet de reliure qu’elle gardera pour elle."
     },
     {
       "number": 12,
       "slug": "mina-table-apres-festival",
-      "title": "Mesurer les progrès du suivi dans les relations et l’autonomie quotidienne",
-      "description": "Après le festival, le désaccord reste ouvert. Mina maintient son suivi et choisit un créneau pour réaliser un carnet qu’elle gardera.",
+      "title": "Évaluer des progrès inégaux dans les relations et les projets du quotidien",
+      "description": "Le festival se termine. Mina peut préserver son horaire et lancer un projet de reliure alors qu’un désaccord avec Rachid reste ouvert.",
       "context": "Le lendemain du festival, dans le local presque vide",
       "topics": [
-        "Fonctionnement relationnel",
-        "Autonomie",
-        "Suivi du trouble de la personnalité"
+        "Évolution dans le suivi",
+        "Fonctionnement quotidien",
+        "Autonomie dans les projets"
       ],
-      "opening": "Les enveloppes vides tiennent dans la première boîte. Mina les pose sur la table et retrouve dessous le feutre qui avait glissé le jour du changement de livraison. Il marque encore. Elle écrit « programmes restants » sur une feuille et la pose près de la porte. Le festival s’est terminé la veille. Rachid vide les tiroirs avec l’aide de deux bénévoles. Il met de côté les deux fiches qui indiquaient des entrées différentes, pour les montrer lors du bilan d’équipe.\n\nIl voudrait décider avec Mina qu’ils s’appelleront chaque fois que l’adresse d’une livraison bouge. Mina préfère que la coordination confirme la modification sur le même planning pour tout le monde. Ils reprennent le sujet dix minutes. Rachid dit qu’il aimerait aussi pouvoir joindre quelqu’un si le planning n’a pas été mis à jour. Mina peut entendre sa demande, mais ne souhaite pas promettre de rester joignable après son créneau. Ils notent les deux points pour le bilan. Mina garde le feutre dans la main, même quand les bénévoles reprennent la boîte.\n\nAlice lui a envoyé le dessin de deux manches qui ne se ressemblent pas. Elle demande laquelle permettrait de plier le coude. Mina agrandit la photo du carnet et aperçoit derrière les dessins la page qui s’ouvre assez loin. Dans son sac, elle a le papier rouille. Béatrice lui a donné les nouveaux horaires de l’atelier. Elle les relit à côté du rendez-vous de suivi qu’elle a déjà fixé. Elle aimerait trouver un créneau où elle pourra faire un carnet qu’elle gardera.",
+      "opening": "Les enveloppes vides tiennent dans la première boîte. Mina les pose sur la table et retrouve dessous le feutre qui avait glissé le jour du changement de livraison. Il marque encore. Elle écrit « programmes restants » sur une feuille et la pose près de la porte. Le festival s’est terminé la veille. Rachid vide les tiroirs avec l’aide de deux bénévoles. Il met de côté les deux fiches qui indiquaient des entrées différentes, pour les montrer lors du bilan d’équipe.\n\nIl voudrait décider avec Mina qu’ils s’appelleront chaque fois que l’adresse d’une livraison bouge. Mina préfère que la coordination confirme la modification sur le même planning pour tout le monde. Ils reprennent le sujet dix minutes. Rachid dit qu’il aimerait aussi pouvoir joindre quelqu’un si le planning n’a pas été mis à jour. Mina peut entendre sa demande. « Je peux répondre pendant mon créneau. Après, je ne serai pas joignable. » Ils notent les deux points pour le bilan. Mina garde le feutre dans la main, même quand les bénévoles reprennent la boîte. Elle aimerait encore que Rachid choisisse la confirmation écrite. Elle voit aussi qu’ils ont réussi à inscrire les deux avis sans reprendre la dispute dans la cour.\n\nAlice lui a envoyé le dessin de deux manches qui ne se ressemblent pas. Elle demande laquelle permettrait de plier le coude. Mina agrandit la photo du carnet et aperçoit derrière les dessins la page qui s’ouvre assez loin. Dans son sac, elle a le papier rouille. Béatrice lui a donné les nouveaux horaires de l’atelier. Elle les relit à côté du rendez-vous de suivi qu’elle a déjà fixé. Elle aimerait trouver un créneau où elle pourra faire un carnet qu’elle gardera.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un suivi qui tient compte de plusieurs aspects de la vie",
-          "text": "Les objectifs d’un suivi pour un trouble de la personnalité peuvent évoluer avec ce que la personne souhaite préserver et ce qui lui coûte encore. Le NICE recommande que les professionnels et la personne examinent ensemble le fonctionnement quotidien et les effets du suivi. Mina peut raconter qu’elle a fini le carnet, utilisé son plan quand elle en a eu besoin et laissé un désaccord de travail ouvert. Elle peut dire ce qu’elle veut reprendre avec sa thérapeute et ce dont elle aimerait se charger elle-même."
+          "heading": "Des changements qui ne suivent pas tous le même rythme",
+          "text": "Dans le suivi d’un trouble de la personnalité, l’évolution se regarde aussi à travers les relations, les activités et les décisions que la personne arrive à prendre. Ces aspects peuvent évoluer à des rythmes différents. Mina garde son horaire et peut transmettre un désaccord sans devoir le résoudre sur-le-champ. La discussion avec Rachid continue de lui coûter. Elle prend aussi une décision qui ne dépend ni du festival ni de l’emploi du temps d’Alice. Au suivi, elle pourra parler de ces changements et de ce qui mérite encore de l’aide."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’équipe et Mina peuvent revoir les objectifs et les coordonnées disponibles si ses besoins changent. Les arrangements avec Alice restent à discuter entre elles. Au festival, la coordination peut écouter les demandes de Mina et de Rachid et préciser le fonctionnement de l’équipe."
+          "heading": "Comment des progrès peuvent-ils coexister avec des difficultés qui restent ?",
+          "points": [
+            {
+              "heading": "Sentir encore la tension et choisir une réponse tenable",
+              "text": "Un changement peut se voir dans ce que la personne arrive à dire ou à organiser pendant qu’une réaction reste pénible.",
+              "examples": [
+                "Mina dit à Rachid qu’elle ne restera pas joignable après son créneau. Elle serre encore le feutre quand ils notent leurs propositions.",
+                "Lors d’un nouveau désaccord, une personne reste contrariée le reste de la journée et parvient à garder le rendez-vous prévu en rentrant."
+              ]
+            },
+            {
+              "heading": "Coopérer sur un sujet où le désaccord continue",
+              "text": "La relation de travail ou d’amitié peut garder une utilité et une place même si les deux personnes défendent encore des solutions différentes.",
+              "examples": [
+                "Mina et Rachid déposent ensemble les fiches et inscrivent deux propositions pour le bilan, sans les fusionner.",
+                "Deux colocataires se répartissent les courses pendant qu’ils cherchent encore un accord sur les invités du week-end."
+              ]
+            },
+            {
+              "heading": "Retrouver de la place pour un projet personnel",
+              "text": "Pouvoir choisir une activité pour soi donne un autre repère que l’intensité des émotions ou l’issue d’une conversation.",
+              "examples": [
+                "Mina réserve une place à l’atelier pour un carnet qu’elle veut garder. Elle maintient aussi son rendez-vous de suivi.",
+                "Une personne reprend un cours du soir qu’elle avait mis de côté, même si la relation qui l’occupait reste difficile par moments."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Des décisions qu’elle peut prendre maintenant",
-          "text": "Mina peut garder son prochain rendez-vous et choisir un créneau de reliure. Elle peut convenir avec Rachid des éléments qu’ils transmettent au bilan et demander à Alice à quel moment elle voudra reparler des manches. Chaque accord a ses interlocuteurs et son propre calendrier.\n\nSi les difficultés reprennent de la place, Mina sait avec qui reprendre les questions de suivi. Le carnet qu’elle veut faire pour elle peut commencer par la taille, le papier ou l’usage des pages. Elle garde le temps de décider de ces détails."
+          "heading": "3 techniques pour parler de progrès qui avancent à des rythmes différents",
+          "points": [
+            {
+              "heading": "Comparer deux situations précises",
+              "objective": "Observer ce qui a changé dans une décision sans résumer les semaines à un succès ou à un échec.",
+              "exercise": [
+                "Choisissez un échange ancien et un autre plus récent qui posaient une question proche.",
+                "Décrivez ce qui restait difficile et ce que vous avez pu faire chaque fois.",
+                "Apportez les deux exemples au suivi si vous souhaitez les examiner avec le professionnel."
+              ],
+              "benefit": "La comparaison peut rendre visible un changement qui passe inaperçu quand la tension est encore présente."
+            },
+            {
+              "heading": "Inclure une activité qui compte pour soi",
+              "objective": "Garder un objectif choisi par la personne dans les repères du suivi.",
+              "exercise": [
+                "Nommez une activité que vous aimeriez garder dans le mois.",
+                "Réservez une place réaliste dans l’agenda.",
+                "Au bilan suivant, regardez si elle a tenu et ce qui l’a aidée ou empêchée."
+              ],
+              "benefit": "Le temps consacré au projet peut montrer une évolution utile en dehors des conflits et des crises."
+            },
+            {
+              "heading": "Conserver un point à retravailler",
+              "objective": "Reconnaître le chemin parcouru tout en gardant un appui pour une difficulté persistante.",
+              "exercise": [
+                "Notez une situation qui demande encore trop d’effort.",
+                "Dites au professionnel ce que vous souhaitez pouvoir faire autrement.",
+                "Convenez avec lui de la prochaine étape et du moment où vous la reverrez."
+              ],
+              "benefit": "Ce point de suivi peut aider à ajuster les appuis même quand d’autres aspects du quotidien vont mieux."
+            }
+          ]
         }
       ],
       "ending_title": "Le morceau rouille dans le cahier de brouillon",
@@ -546,8 +1229,9 @@
         "choice": "Mina apporte le désaccord au bilan, garde son suivi et réserve un créneau de reliure pour elle.",
         "next": "Mina garde la possibilité de revoir ses objectifs avec son équipe et ses accords avec les personnes concernées."
       },
-      "clinical_focus": "Évolution du fonctionnement personnel et relationnel",
-      "clinical_intro": "Mina et Rachid gardent deux avis sur les livraisons. Mina peut entendre le sien, tenir sa propre limite et chercher un créneau de reliure pour elle. Le suivi d’un trouble de la personnalité regarde le fonctionnement dans plusieurs domaines. La scène montre ce qu’elle retrouve dans son quotidien, tandis que les moments de forte détresse restent des situations dont elle peut parler."
+      "clinical_focus": "Évolution inégale du fonctionnement quotidien",
+      "clinical_intro": "Le festival est terminé et Mina peut parler à Rachid d’une consigne contestée sans s’engager à rester joignable après son service. Elle a encore du mal à lâcher le feutre, puis réserve un cours pour un carnet à elle. Dans le suivi d’un trouble de la personnalité avec profil borderline, les progrès peuvent se voir dans les choix du quotidien même quand certaines situations restent pénibles.",
+      "conclusion": "Le festival est fini et le carnet d’Alice sert déjà. Mina a repris le travail avec Rachid, même si la question des appels reste ouverte. Les progrès qu’elle pourra raconter en séance tiennent aussi à ces choix modestes. Elle garde son horaire, son prochain rendez-vous et un morceau de papier rouille pour un carnet qui lui appartiendra."
     }
   ]
 }

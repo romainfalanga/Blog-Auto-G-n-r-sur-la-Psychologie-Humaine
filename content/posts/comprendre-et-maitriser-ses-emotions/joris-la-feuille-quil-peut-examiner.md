@@ -1,7 +1,7 @@
 ---
-title: Une impression d’étrangeté et ce qu’on peut constater ensemble
-description: À la répétition, Joris trouve la salle étrange et Dounia lui signale
-  un reflet sur sa feuille. Chacun peut décrire ce qu’il éprouve.
+title: Distinguer l’étrangeté ressentie de ce qui se passe autour de soi
+description: La bibliothèque paraît étrange à Joris. Il la reconnaît et peut examiner
+  avec Dounia le reflet qui l’empêche de lire.
 slug: joris-la-feuille-quil-peut-examiner
 date: '2026-11-06T00:00:00+00:00'
 draft: false
@@ -32,16 +32,81 @@ Il demande à Dounia de lui montrer la ligne. Elle avance le papier, puis lui mo
 
 ## Reconnaître une impression comme une impression
 
-L’épreuve du réel reste préservée pendant les manifestations de ce trouble. Le terme désigne ici la possibilité de reconnaître qu’une expérience d’étrangeté relève de son vécu et que le monde extérieur n’a pas changé de cette façon. Joris éprouve une distance dans la salle et reconnaît en même temps les lieux et ce qui s’y passe. Le professionnel examine cette capacité avec l’histoire des symptômes, leurs circonstances et les autres explications possibles. Un détail de cette scène pris seul renseigne peu sur un diagnostic.
+Dans le trouble dépersonnalisation-déréalisation, l’appréciation du réel reste préservée pendant les manifestations. La personne reconnaît que l’étrangeté tient à son expérience et peut constater ce qui se passe autour d’elle. Le professionnel situe cette distinction dans une évaluation plus large. Joris reconnaît la bibliothèque malgré l’étrangeté qu’il éprouve. Le reflet signalé par Dounia pose une question de travail qu’ils peuvent examiner ensemble.
 
-## La demande de Dounia a son propre objet
+## Comment l’étrangeté ressentie peut-elle coexister avec ce que l’on constate ?
 
-Joris peut entendre le mot « reflet » alors qu’il peine déjà à rester disponible. Dounia lui indique une ligne qu’elle voudrait lire depuis une place particulière. Son besoin peut être discuté avec elle. L’impression de Joris peut coexister avec un problème que l’équipe observe et règle dans le cours ordinaire du travail. Le fait qu’il puisse prendre une décision avec Dounia laisse ouverte la question du coût que cet essai a eu pour lui.
+### L’impression ne devient pas une affirmation sur le lieu
 
-## Se répartir les décisions du moment
+Reconnaître la salle et son usage peut aller de pair avec un vécu de distance.
 
-Ava peut reprendre la question de la place pendant que Joris écoute ce que Dounia veut faire de la feuille. Joris peut décrire ensuite au suivi les deux questions qui se posaient en même temps, sans essayer de vérifier tout ce qu’il a ressenti. Le réglage se décide avec l’équipe. L’évaluation du vécu, notamment lorsque quelque chose change, se fait avec la professionnelle qui le suit. Joris sait déjà quel exemple il veut reprendre et peut garder la suite de la répétition pour eux quatre.
+**Exemples concrets**
+
+- Joris sait qu’il se trouve dans la même bibliothèque que la veille.
+- Une personne reconnaît sa salle de réunion et rapporte qu’elle lui a pourtant paru moins familière.
+
+### Un obstacle réel reste distinct de l’impression
+
+La personne peut reconnaître que le lieu lui paraît étrange et entendre qu’un obstacle précis gêne quelqu’un d’autre.
+
+**Exemples concrets**
+
+- Joris distingue la distance qu’il éprouve et le reflet qui masque un mot pour Dounia. Il lui demande de montrer la ligne.
+- Une personne éprouve une impression d’étrangeté dans une salle. Elle peut aussi constater avec une collègue qu’une chaise masque le bas de l’affiche qu’elles doivent lire.
+
+### Les deux descriptions demandent des réponses différentes
+
+Un réglage peut être décidé dans le travail et le vécu peut être repris ailleurs avec les mots choisis.
+
+**Exemples concrets**
+
+- Joris note où Dounia veut poser sa feuille et garde pour sa consultation une phrase sur la salle.
+- Une personne aide à déplacer un panneau et parle plus tard au professionnel de l’effort que l’échange lui a demandé.
+
+## 3 techniques pour traiter une demande concrète quand une impression d’étrangeté est présente
+
+### 1. Revenir au besoin exprimé
+
+Répondre à ce qui gêne l’autre personne.
+
+**Exercice pratique**
+
+- Demandez-lui ce qu’elle essaie de faire.
+- Laissez-la montrer ce qui l’en empêche.
+- Vérifiez avec elle quelle solution lui convient.
+
+Le problème de lecture peut être résolu sans juger la façon dont le lieu est éprouvé.
+
+### 2. Demander un relais bref si nécessaire
+
+Garder la possibilité de participer après un temps de reprise.
+
+**Exercice pratique**
+
+- Dites au collègue quelle question il peut poser.
+- Convenez de la façon dont il résumera la réponse.
+- Décidez à quel moment vous voulez reprendre la discussion.
+
+La tâche continue sans transformer le collègue en évaluateur du vécu.
+
+### 3. Garder une phrase pour le suivi
+
+Parler de l’impression dans un cadre qui permet de l’examiner.
+
+**Exercice pratique**
+
+- Décrivez-la avec les mots qui vous conviennent.
+- Ajoutez ce que vous saviez de la situation au même moment.
+- Expliquez au professionnel ce que cela a changé dans votre capacité à suivre.
+
+Le récit peut faire entendre l’étrangeté et l’effort sans en tirer seul une conclusion clinique.
 
 ## La pause que Dounia choisit
 
 Dounia lit la première phrase après un silence plus long que Joris ne l’aurait prévu. La feuille reste visible pour elle à la place qu’elle a choisie. Il marque cette décision sur la feuille jaune, puis demande à Luc où poser sa table. En sortant, il envoie à Samir une phrase sur le texte. Il garde pour le rendez-vous une autre phrase, sur la salle qu’il connaissait et qui lui avait pourtant semblé étrange.
+
+---
+
+**Conclusion**
+
+Dounia peut lire sans le reflet et choisir la durée de sa pause. Joris peut reconnaître la salle et se rappeler qu’elle lui a pourtant semblé étrange. Sa feuille note une décision de lumière, tandis que le ressenti garde une place distincte au suivi.

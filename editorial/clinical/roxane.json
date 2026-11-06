@@ -29,13 +29,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette scène, elle sait déjà quel genre de jeu elle veut construire. Mme Sorel a besoin d’un autre point de départ pour saisir le détail de sa proposition.\n\nUn échange comme celui du bureau ne suffit jamais à identifier un trouble chez quelqu’un. Les professionnels considèrent l’histoire de l’enfant, sa façon de parler dans plusieurs situations et les effets durables dans sa vie. Dans l’instant, Mme Sorel a une tâche plus simple : retrouver avec Roxane le bout d’idée qui s’est perdu."
+          "heading": "Comment une parole difficile à comprendre gêne-t-elle l’échange même au calme ?",
+          "points": [
+            {
+              "heading": "Une phrase arrive par morceaux",
+              "text": "L’intelligibilité désigne la part d’un message que l’autre arrive à reconnaître. Même quand aucun bruit ne couvre la voix, quelques sons difficiles à distinguer peuvent laisser un détail essentiel en suspens.",
+              "examples": [
+                "Mme Sorel saisit que Roxane propose un jeu de bruit, mais doit vérifier de quel oiseau il est question.",
+                "Dans une cuisine silencieuse, un parent entend la demande d’aller chercher un objet, mais hésite entre deux noms possibles."
+              ]
+            },
+            {
+              "heading": "L’idée est prête avant que l’autre la saisisse",
+              "text": "Un écart entre ce que l’enfant veut dire et ce que l’autre entend ne renseigne ni sur son imagination ni sur sa compréhension.",
+              "examples": [
+                "Roxane a déjà pensé à une fausse piste ; il lui manque un moyen de la faire entendre à Mme Sorel.",
+                "Dans un jeu de cartes, un enfant sait expliquer une règle et doit reprendre le mot qui précise quand passer son tour."
+              ]
+            },
+            {
+              "heading": "La reprise coûte quelque chose",
+              "text": "Lorsque tout le reste est compris, devoir redonner l’intégralité de sa réponse peut décourager une nouvelle tentative.",
+              "examples": [
+                "Roxane hésite à recommencer sa proposition pour un détail que l’enseignante n’a pas reconnu.",
+                "Au moment de choisir un livre, un enfant montre la couverture quand l’adulte lui redemande plusieurs fois le titre entier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Chercher quelqu’un qui laisse la question ouverte",
-          "text": "Il y a une différence entre attendre la fin d’une réponse et la donner à la place de quelqu’un. Roxane a déjà essayé de travailler avec un camarade qui annonçait le résultat dès qu’il croyait l’avoir trouvé. La question de Zoé lui plaît parce qu’elle laisse plusieurs suites possibles. Elle peut lui proposer un essai précis : choisir ensemble deux bruits, sans s’engager à parler à sa place le jour de la rencontre.\n\nMme Sorel peut aider les deux élèves à convenir de ce premier essai. Elle tient la liste, donne le temps nécessaire et pourra revenir avec elles sur la répartition des rôles. La façon de jouer avec la fausse piste reste entre les mains des deux inventrices."
+          "heading": "3 techniques pour retrouver la partie d’une phrase qui manque",
+          "points": [
+            {
+              "heading": "Redire ce qui est arrivé",
+              "objective": "Donner à l’enfant un point précis à reprendre.",
+              "exercise": [
+                "Attendez qu’il termine.",
+                "Dites ce que vous avez entendu : « J’ai compris que tu veux faire deviner un bruit. »",
+                "Posez une seule question sur le détail manquant."
+              ],
+              "benefit": "Le début de l’idée est reconnu et l’enfant peut concentrer sa réponse sur un mot ou un détail."
+            },
+            {
+              "heading": "Offrir un autre point de départ",
+              "objective": "Garder la proposition à la main de l’enfant.",
+              "exercise": [
+                "Posez un papier entre vous.",
+                "Demandez : « Tu veux redire le mot ou faire un dessin ? »",
+                "Laissez l’enfant choisir puis vérifiez avec lui ce qu’il voulait dire."
+              ],
+              "benefit": "Un deuxième canal permet de poursuivre le projet sans demander une prononciation différente."
+            },
+            {
+              "heading": "Décrire un malentendu utile au suivi",
+              "objective": "Relier l’observation à un besoin de communication.",
+              "exercise": [
+                "Repérez un échange récurrent qui se termine trop tôt.",
+                "Notez le lieu, la partie comprise et ce qui a aidé.",
+                "Si la gêne se répète, demandez à l’enfant ce qu’il veut en dire avec son parent et l’orthophoniste."
+              ],
+              "benefit": "Le professionnel peut replacer l’exemple dans l’histoire de l’enfant et décider avec lui des suites utiles."
+            }
+          ]
         }
       ],
       "ending_title": "Deux noms sous la pince",
@@ -53,7 +109,8 @@
         "next": "Elles iront écouter au square avec la classe ; Zoé pourra essayer un dessin qui cache la réponse."
       },
       "clinical_focus": "Intelligibilité de la parole",
-      "clinical_intro": "La classe est déjà sortie quand Roxane explique sa devinette à Mme Sorel. L’enseignante reconnaît qu’il est question d’un bruit et lui demande de quel oiseau elle parle. Dans le trouble développemental des sons de la parole, produire ou enchaîner certains sons peut rendre un message difficile à comprendre même au calme. Roxane hésite à recommencer alors que son idée est déjà précise."
+      "clinical_intro": "La classe est déjà sortie quand Roxane explique sa devinette à Mme Sorel. L’enseignante reconnaît qu’il est question d’un bruit et lui demande de quel oiseau elle parle. Dans le trouble développemental des sons de la parole, produire ou enchaîner certains sons peut rendre un message difficile à comprendre même au calme. Roxane hésite à recommencer alors que son idée est déjà précise.",
+      "conclusion": "Mme Sorel a saisi une partie de la proposition ; le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner."
     },
     {
       "number": 2,
@@ -75,13 +132,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Roxane, qui rencontre déjà des difficultés de prononciation dans d’autres circonstances, l’écart entre ces deux essais compte. Il montre ce que le groupe peut changer dans l’échange, et ce qui reste à préciser.\n\nLa carte fournit ici une information que la phrase n’a pas réussi à livrer seule. Elle sert à la tâche de tous : choisir d’où écouter. On peut repérer qu’une conversation devient plus facile après ce geste sans tirer de conclusion sur l’évolution du trouble."
+          "heading": "Comment le bruit change-t-il ce qu’on comprend d’une consigne ?",
+          "points": [
+            {
+              "heading": "Un bruit bref masque le mot qui oriente",
+              "text": "Il suffit parfois de manquer une syllabe ou la fin d’un groupe de mots pour agir sur une autre interprétation.",
+              "examples": [
+                "Au square, le passage du vélo emporte une partie de la consigne et Zoé se dirige vers le mauvais banc.",
+                "Dans une cour, le choc d’un ballon couvre « près du portail » alors que le mot « banc » reste audible."
+              ]
+            },
+            {
+              "heading": "Le calme rend une partie du message disponible",
+              "text": "Attendre que le bruit cesse peut faciliter l’écoute, mais il reste parfois deux repères possibles ou des sons difficiles à reconnaître.",
+              "examples": [
+                "Au deuxième essai, Zoé comprend qu’il s’agit d’un banc ; elle garde encore le mauvais emplacement.",
+                "Sous un préau redevenu calme, un élève entend le nom d’une salle sans parvenir à savoir de quelle porte il s’agit."
+              ]
+            },
+            {
+              "heading": "Un repère visible lève un doute précis",
+              "text": "Un plan ou un geste aide à confirmer le lieu sans exiger que la personne répète encore la même suite de sons.",
+              "examples": [
+                "Zoé suit sur le plan le trait qui relie le carré blanc à la grille.",
+                "À la sortie d’une salle, un enfant indique sur un panneau le numéro de la porte qu’il vient de nommer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un nom provisoire",
-          "text": "Roxane voudrait faire deviner une source précise. Elle ne peut pas nommer un oiseau à partir de ce que le groupe a entendu ce matin. Mme Sorel leur propose de marquer les extraits douteux et d’en chercher un dont l’origine est connue. La médiathèque conserve des sons d’une précédente sortie menée avec une personne qui connaît les oiseaux du quartier. Zoé peut demander si un extrait de cette collection est disponible pour la rencontre.\n\nPour rejoindre le bon point d’écoute, elles n’auront plus à discuter des deux bancs de loin. Zoé demande si Roxane préfère qu’elle lui montre où elle croit devoir aller ou qu’elle lui fasse répéter le nom du lieu. Roxane prend le plan entre elles. Zoé regarde le carré blanc et suit le trait de crayon jusqu’à la grille."
+          "heading": "3 techniques pour se comprendre quand un bruit couvre la parole",
+          "points": [
+            {
+              "heading": "Déplacer le moment de parler",
+              "objective": "Écarter un bruit concurrent le temps du détail utile.",
+              "exercise": [
+                "Repérez ce qui couvre le mot : des roues, des voix ou un objet déplacé.",
+                "Attendez une accalmie ou rapprochez-vous si les deux le souhaitent.",
+                "Redonnez seulement le repère demandé et vérifiez lequel l’autre a compris."
+              ],
+              "benefit": "L’échange reprend sur le point perdu, avec moins de sons à démêler."
+            },
+            {
+              "heading": "Comparer ce que chacun a compris",
+              "objective": "Repérer à quel moment les deux personnes prennent des chemins différents.",
+              "exercise": [
+                "Dites où vous avez compris qu’il fallait aller.",
+                "Invitez l’autre à indiquer son point sur la carte.",
+                "Choisissez ensemble le repère à garder pour la suite."
+              ],
+              "benefit": "Le doute porte sur une information que les deux partenaires peuvent vérifier."
+            },
+            {
+              "heading": "Séparer lieu et origine d’un bruit",
+              "objective": "Conserver une observation sans lui faire dire davantage.",
+              "exercise": [
+                "Inscrivez l’endroit confirmé sur le plan.",
+                "Ajoutez un point d’interrogation à côté de l’origine incertaine.",
+                "Choisissez un autre extrait identifié si l’activité exige de nommer l’oiseau."
+              ],
+              "benefit": "Le groupe peut s’accorder sur le lieu tout en gardant la question de l’origine ouverte."
+            }
+          ]
         }
       ],
       "ending_title": "Le point d’interrogation",
@@ -98,7 +211,8 @@
         "next": "La prise de chant reste à l’atelier de la classe ; Roxane et son père chercheront un autre extrait auprès de la médiathèque."
       },
       "clinical_focus": "Intelligibilité dans le bruit",
-      "clinical_intro": "Zoé part vers le mauvais banc après le passage d’un vélo. Quand Roxane reprend, le silence revenu aide Zoé à comprendre qu’il s’agit d’un banc, mais elle garde le mauvais repère. Avec une difficulté durable de production des sons, retirer un bruit concurrent améliore parfois l’écoute sans lever toute ambiguïté. La carte permet aux deux filles de vérifier le lieu ensemble."
+      "clinical_intro": "Zoé part vers le mauvais banc après le passage d’un vélo. Quand Roxane reprend, le silence revenu aide Zoé à comprendre qu’il s’agit d’un banc, mais elle garde le mauvais repère. Avec une difficulté durable de production des sons, retirer un bruit concurrent améliore parfois l’écoute sans lever toute ambiguïté. La carte permet aux deux filles de vérifier le lieu ensemble.",
+      "conclusion": "Le plan ramène Zoé au bon banc après deux essais de la phrase. Il ne dit toujours pas ce qui a fait le bruit. Roxane peut chercher un extrait identifié sans effacer ce que la classe a réellement entendu au square."
     },
     {
       "number": 3,
@@ -120,13 +234,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Salomé, elle, pensait que Roxane allait nommer la source du bruit. Son père pourrait lever ce malentendu, mais Roxane tient à poser la question elle-même.\n\nLe geste qu’elle adresse à son père lui donne le temps de reformuler. L’issue compte pour elle : Salomé répond à la question qu’elle voulait poser, et son souvenir apporte une piste au projet. Le geste n’a pas modifié la production des sons."
+          "heading": "Comment l’habitude d’écouter quelqu’un change-t-elle la compréhension ?",
+          "points": [
+            {
+              "heading": "Un proche possède déjà des indices",
+              "text": "Les échanges passés aident à reconnaître les sons et à prévoir ce que la personne veut préciser. Il est alors plus facile de retrouver un mot incomplet.",
+              "examples": [
+                "Le père de Roxane connaît la fausse piste discutée avant leur arrivée à la médiathèque.",
+                "À la maison, un parent comprend plus vite le nom du livre dont l’enfant parle depuis plusieurs soirs."
+              ]
+            },
+            {
+              "heading": "Un nouveau partenaire part d’une autre attente",
+              "text": "Ce que l’autre croit qu’on va lui demander oriente les mots qu’il croit avoir entendus.",
+              "examples": [
+                "Salomé attend le nom de l’oiseau alors que Roxane cherche un bruit susceptible de tromper des joueurs.",
+                "Lors d’une inscription, une bénévole croit qu’un enfant nomme l’activité, alors qu’il demande si le matériel est fourni."
+              ]
+            },
+            {
+              "heading": "La familiarité peut servir d’appui à la réponse",
+              "text": "Le proche peut aider à poser le contexte ou rester disponible le temps d’une reprise, selon ce que souhaite la personne.",
+              "examples": [
+                "Roxane adresse un geste à son père avant de reformuler sa demande à Salomé.",
+                "Un frère rappelle à un nouvel interlocuteur qu’il s’agit du trajet du samedi, puis laisse l’enfant indiquer l’arrêt."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre le silence dans le jeu",
-          "text": "Le bruit choisi est un tambourinage de pic épeiche. Il vient des coups de bec sur le bois. Ce son peut prendre place à côté des chants collectés par la classe : son origine, différente, fait justement le jeu. Salomé propose d’en mettre une copie de côté pour la rencontre et de joindre l’étiquette de la collection. Le groupe de Roxane aura ainsi une source à citer, même si le bruit du square reste sans nom.\n\nRoxane a besoin de deux moments : celui où le visiteur se trompe de famille de bruits, puis celui où une phrase le remet sur une piste. Son père lui tend une feuille pour les noter. Quand elle lui demande de la plier, il lui montre d’abord les deux sens possibles. Elle choisit celui qui permet de soulever la réponse sans que le visiteur la voie avant d’avoir proposé la sienne."
+          "heading": "3 techniques pour donner un repère à un interlocuteur nouveau",
+          "points": [
+            {
+              "heading": "Annoncer le sujet",
+              "objective": "Fournir un contexte sans raconter la réponse à la place de la personne.",
+              "exercise": [
+                "Choisissez le mot qui situe l’échange, comme « la devinette ».",
+                "Dites-le ou écrivez-le avant la question.",
+                "Demandez si c’est bien sur ce sujet que l’autre vous a suivi."
+              ],
+              "benefit": "Les deux personnes ont moins de possibilités à départager pour comprendre la suite."
+            },
+            {
+              "heading": "Laisser le temps d’une autre phrase",
+              "objective": "Éviter que le proche familier devienne systématiquement l’interprète.",
+              "exercise": [
+                "Convenez d’un geste qui signifie « je continue ».",
+                "Lorsqu’il apparaît, laissez la personne reprendre la demande.",
+                "Proposez une aide sur le seul détail manquant si elle la demande."
+              ],
+              "benefit": "La personne peut corriger elle-même ce que son nouvel interlocuteur avait compris."
+            },
+            {
+              "heading": "Donner un objet commun à regarder",
+              "objective": "Partager une information que le proche avait déjà.",
+              "exercise": [
+                "Montrez les deux cases ou les deux choix dont vous parlez.",
+                "Indiquez lequel concerne la question actuelle.",
+                "Laissez l’autre répondre à cette question avant de passer au choix suivant."
+              ],
+              "benefit": "Le support apporte du contexte au nouvel interlocuteur et garde la décision ouverte."
+            }
+          ]
         }
       ],
       "ending_title": "La réponse tournée vers la table",
@@ -144,7 +314,8 @@
         "next": "Salomé garde le son pour la rencontre ; Zoé l’écoutera avant de fabriquer le dessin sous le rabat."
       },
       "clinical_focus": "Familiarité avec la parole",
-      "clinical_intro": "Le père de Roxane connaît déjà la devinette et comprend plus vite ce qu’elle demande. Salomé attend une réponse sur l’origine du bruit et croit entendre autre chose. Les sons que l’on distingue, l’habitude d’écouter la personne et le contexte orientent ensemble la compréhension. Pour Roxane, le geste adressé à son père préserve le temps de reformuler une question qui lui importe."
+      "clinical_intro": "Le père de Roxane connaît déjà la devinette et comprend plus vite ce qu’elle demande. Salomé attend une réponse sur l’origine du bruit et croit entendre autre chose. Les sons que l’on distingue, l’habitude d’écouter la personne et le contexte orientent ensemble la compréhension. Pour Roxane, le geste adressé à son père préserve le temps de reformuler une question qui lui importe.",
+      "conclusion": "Salomé finit par entendre la question de Roxane et peut lui proposer le tambourinage identifié. Son père a laissé passer le temps nécessaire pour qu’elle précise son idée. Roxane repart avec de quoi faire écouter à Zoé un bruit qui les mènera ailleurs qu’au square."
     },
     {
       "number": 4,
@@ -166,13 +337,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Roxane, la demande de renseignement fournit un but concret à discuter. Mme Colin reste responsable de choisir avec elle ce qu’elles travailleront et de suivre ce que cela change au fil des rendez-vous.\n\nLeur travail a commencé bien avant la rencontre à la médiathèque. Roxane décide de garder ses indices dans la pochette pour le moment. Elle peut parler au cabinet d’une situation difficile sans devoir y répéter la présentation qu’elle prépare pour les visiteurs."
+          "heading": "Comment une difficulté du quotidien devient-elle un objectif en orthophonie ?",
+          "points": [
+            {
+              "heading": "Un échange important peut s’arrêter trop tôt",
+              "text": "Le retentissement inclut les questions qu’on n’ose plus poser lorsqu’on craint que l’autre ne comprenne pas. L’orthophoniste peut tenir compte de ce que l’enfant veut pouvoir faire.",
+              "examples": [
+                "Roxane voudrait finir une demande de renseignement malgré un premier mot mal compris.",
+                "Un enfant peut vouloir demander un jeu à la ludothèque, alors qu’il laisse habituellement son parent parler dès le premier malentendu."
+              ]
+            },
+            {
+              "heading": "Le cabinet et la vie quotidienne apportent des informations différentes",
+              "text": "Produire un mot lors d’un rendez-vous et l’utiliser dans un échange imprévu ne sollicitent pas l’enfant de la même manière.",
+              "examples": [
+                "Mme Colin peut écouter la parole de Roxane dans plusieurs situations et lui demander ce qui s’est passé lors d’une demande réelle.",
+                "Un mot travaillé à partir d’une image peut rester difficile à reconnaître dans une phrase donnée sans préparation."
+              ]
+            },
+            {
+              "heading": "Une aide précise peut être essayée hors du cabinet",
+              "text": "L’enfant et son entourage peuvent convenir d’un geste ou d’une phrase qui aide à continuer. Le choix du travail clinique revient au professionnel avec l’enfant.",
+              "examples": [
+                "Roxane veut entendre « J’ai compris jusque-là » avant de reprendre sa phrase.",
+                "En classe, une enseignante peut demander si elle a bien entendu le lieu d’un rendez-vous, puis attendre que l’élève confirme."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une phrase utile à Mme Sorel",
-          "text": "Dans le parcours de soins, l’enseignante et l’orthophoniste peuvent échanger sur les appuis utiles à l’enfant avec l’accord de ses parents. Ici, elles n’ont pas besoin des mêmes informations. Mme Colin suit la parole de Roxane dans le cadre du soin. Mme Sorel peut agir tout de suite sur un échange en classe : décrire ce qu’elle a compris, préciser sa question et attendre la réponse. Le père de Roxane et l’orthophoniste lui demandent ce qu’elle souhaite transmettre à l’enseignante.\n\nRoxane a une formulation à proposer. Elle voudrait que Mme Sorel puisse lui dire « J’ai compris jusque-là » quand elle perd le fil. Ensuite, elle veut quelques secondes pour choisir une autre façon de dire la suite. Ils peuvent essayer cela en classe et en reparler si l’aide convient mal à certaines situations."
+          "heading": "3 techniques pour relier le suivi à un échange important",
+          "points": [
+            {
+              "heading": "Apporter une situation au rendez-vous",
+              "objective": "Formuler un but que l’enfant reconnaît comme le sien.",
+              "exercise": [
+                "Choisissez avec lui un échange où il aimerait garder la parole.",
+                "Notez l’endroit précis où il a eu envie d’arrêter.",
+                "Demandez à l’orthophoniste ce qui pourrait être travaillé ou adapté autour de cet échange."
+              ],
+              "benefit": "Une situation vécue donne un sens aux objectifs discutés au cabinet."
+            },
+            {
+              "heading": "Préparer un message utile à l’école",
+              "objective": "Partager une préférence avec la personne qui peut l’appliquer.",
+              "exercise": [
+                "Écrivez en deux lignes ce que l’adulte peut dire puis faire.",
+                "Vérifiez avec l’enfant et son parent qui recevra le billet.",
+                "Remettez-le en tête à tête à l’adulte concerné."
+              ],
+              "benefit": "L’enseignante dispose d’un geste concret à essayer dans le cadre prévu."
+            },
+            {
+              "heading": "Rapporter l’essai en gardant sa nuance",
+              "objective": "Observer l’effet de l’appui sur la possibilité de poursuivre.",
+              "exercise": [
+                "Après un échange, relevez la partie que l’enfant a pu reprendre.",
+                "Demandez-lui si l’aide lui a convenu et à quel moment.",
+                "Rapportez un exemple au rendez-vous si l’enfant est d’accord."
+              ],
+              "benefit": "Mme Colin peut discuter avec Roxane de l’aide à garder ou à ajuster, sans faire d’un seul essai une mesure des progrès."
+            }
+          ]
         }
       ],
       "ending_title": "La feuille qui sort du cabinet",
@@ -190,7 +417,8 @@
         "next": "Son père remettra le billet à Mme Sorel ; Zoé et la classe n’en recevront ni le contenu ni les informations cliniques. L’énigme reste disponible pour le premier essai de groupe."
       },
       "clinical_focus": "Objectif fonctionnel en orthophonie",
-      "clinical_intro": "Roxane dit à son orthophoniste que lorsqu’un premier mot est mal compris, elle a parfois envie d’abandonner toute sa question. Le retentissement du trouble des sons de la parole s’apprécie aussi dans les échanges que la personne redoute ou auxquels elle renonce. Une demande de renseignement à un inconnu donne au suivi un objectif qui compte pour elle. Son enseignante peut adapter ses réponses avec l’appui qu’elles ont convenu de partager."
+      "clinical_intro": "Roxane dit à son orthophoniste que lorsqu’un premier mot est mal compris, elle a parfois envie d’abandonner toute sa question. Le retentissement du trouble des sons de la parole s’apprécie aussi dans les échanges que la personne redoute ou auxquels elle renonce. Une demande de renseignement à un inconnu donne au suivi un objectif qui compte pour elle. Son enseignante peut adapter ses réponses avec l’appui qu’elles ont convenu de partager.",
+      "conclusion": "Au cabinet, Roxane nomme ce qu’elle aimerait réussir : finir une question même si elle doit en préciser un mot. Elle choisit ce que Mme Sorel pourra essayer avec elle. Elle réserve à Zoé l’autre papier, celui de la devinette qu’elles préparent ensemble."
     },
     {
       "number": 5,
@@ -207,18 +435,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Pourquoi l’autre n’a pas trouvé",
-          "text": "Une réponse à une devinette renseigne sur le jeu et sur ce que les joueurs en ont perçu. Elle ne suffit pas à dire comment un enfant produit les sons de la parole. Il y a deux questions différentes autour de cette table. Nassim cherche un détail dans une consigne parlée : à quel moment doit-il avancer la boîte ? La fille du groupe, elle, dispose déjà d’un indice supplémentaire, le dessin qui dépasse. Il faut pouvoir faire la différence entre le déroulement d’une activité et la façon dont la parole a été comprise."
+          "heading": "Entendre l’indice et trouver ce qu’il veut dire",
+          "text": "Accéder aux mots d’un message oral et en comprendre le sens sont deux opérations différentes. Une difficulté à produire certains sons peut rendre un mot de l’indice peu reconnaissable. Une fois le mot accessible, une devinette peut encore laisser son auditeur perplexe : c’est même le jeu. Inversement, une réponse correcte peut venir d’une image vue trop tôt.\n\nÀ la table de Roxane, le dessin qui dépasse et la question sur l’instrument appellent donc des réponses différentes. Pour savoir si son indice fonctionne, le groupe doit d’abord donner à chaque joueur accès à la même phrase. Il pourra ensuite écouter les réponses sans les prendre pour une mesure de la prononciation de Roxane."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le billet transmis à Mme Sorel lui a indiqué un appui que Roxane souhaite essayer. Quand l’enseignante dit ce qu’elle a compris et fait une pause, Roxane peut préciser son idée à Nassim. L’appui se fait au moment où il sert, dans la discussion ordinaire du groupe."
+          "heading": "Comment distinguer une phrase mal entendue d’un indice à interpréter ?",
+          "points": [
+            {
+              "heading": "Une consigne perd un détail utile",
+              "text": "L’accès aux mots est en jeu lorsque l’autre a assez entendu pour suivre le sujet, mais ne sait toujours pas quelle action faire.",
+              "examples": [
+                "Nassim ne sait pas à quel moment il doit avancer la boîte.",
+                "Dans un autre jeu, un élève entend qu’il peut poser un jeton et demande sur quelle case."
+              ]
+            },
+            {
+              "heading": "Les mots arrivent et la piste reste ouverte",
+              "text": "Une phrase correctement entendue peut demeurer énigmatique par sa construction ou son sens figuré.",
+              "examples": [
+                "Le garçon demande de quel instrument il s’agit quand il entend le mot « tambour ».",
+                "En relisant la phrase écrite sur les racines, il propose un arbre et reste encore loin du pic."
+              ]
+            },
+            {
+              "heading": "Une réponse juste vient parfois d’ailleurs",
+              "text": "Trouver la réponse ne garantit pas d’avoir compris la phrase : une image ou un geste peut l’avoir révélée.",
+              "examples": [
+                "Une joueuse voit le dessin du pic dépasser et nomme l’oiseau avant le premier indice.",
+                "Un joueur qui voit un voisin retourner sa carte peut annoncer la solution sans avoir suivi l’indice."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux indices visibles, un dessin caché",
-          "text": "Avec les joueurs qui n’avaient pas vu le dessin, la première réponse qui arrive à la deuxième écoute est « un moteur ». Roxane veut garder cette fausse piste. Quand elle dit « Mon tambour a des racines », un garçon lui demande de quel instrument elle parle. Elle met la phrase écrite devant eux et leur laisse du temps. Le garçon la relit à voix basse. Il propose un arbre. L’écrit rend ici les mots de l’indice disponibles ; il reste aux joueurs à comprendre ce qu’ils désignent.\n\nZoé propose un vrai rabat qui recouvre toute la couleur. Elles pourraient aussi poser la phrase en face des visiteurs dès qu’elle a été dite. Ces deux gestes règlent des problèmes différents. L’un évite de dévoiler la solution trop tôt ; l’autre laisse à chacun le temps de reprendre l’indice."
+          "heading": "3 techniques pour vérifier l’accès à un indice oral",
+          "points": [
+            {
+              "heading": "Demander quelle partie manque",
+              "objective": "Distinguer un problème de consigne d’une question sur le jeu.",
+              "exercise": [
+                "Interrogez le partenaire sur l’action qu’il pense devoir faire.",
+                "Dites ou montrez uniquement le repère qui manque.",
+                "Essayez de nouveau cette étape avant de relancer le groupe."
+              ],
+              "benefit": "Le rôle de chacun devient praticable sans interrompre le jeu pour corriger toute une phrase."
+            },
+            {
+              "heading": "Donner accès aux mêmes mots",
+              "objective": "Laisser le joueur interpréter l’indice une fois le texte disponible.",
+              "exercise": [
+                "Préparez un carton avec les mots prévus.",
+                "Posez-le à hauteur des joueurs après avoir donné l’indice.",
+                "Attendez une hypothèse avant de commenter le sens."
+              ],
+              "benefit": "L’écrit rend la phrase consultable sans retirer la part de recherche."
+            },
+            {
+              "heading": "Retirer un indice donné par accident",
+              "objective": "Mettre à l’épreuve la devinette elle-même.",
+              "exercise": [
+                "Vérifiez ce que l’on voit du côté des joueurs avant de parler.",
+                "Cachez le dessin jusqu’au moment prévu.",
+                "Demandez la première piste de chaque joueur et comparez-la au résultat attendu."
+              ],
+              "benefit": "Une hypothèse comme « moteur » peut indiquer que la fausse piste fonctionne."
+            }
+          ]
         }
       ],
       "ending_title": "Le pli sans rouge",
@@ -236,7 +520,8 @@
         "next": "Le groupe peut passer à l’enregistrement ; la première phrase et le silence qui la précède sont fixés, les cartons restent séparés du dessin."
       },
       "clinical_focus": "Accès au message oral",
-      "clinical_intro": "Le pic apparaît sous le rabat et une joueuse trouve la réponse avant l’indice. À l’essai suivant, un garçon entend la phrase de Roxane et demande de quel instrument elle parle. Les mots écrits lui donnent le temps de reprendre l’indice, dont il doit encore chercher le sens. Cette scène distingue ce qu’un trouble des sons peut compliquer de ce qui relève de l’interprétation d’une énigme."
+      "clinical_intro": "Le pic apparaît sous le rabat et une joueuse trouve la réponse avant l’indice. À l’essai suivant, un garçon entend la phrase de Roxane et demande de quel instrument elle parle. Les mots écrits lui donnent le temps de reprendre l’indice, dont il doit encore chercher le sens. Cette scène distingue ce qu’un trouble des sons peut compliquer de ce qui relève de l’interprétation d’une énigme.",
+      "conclusion": "Le pic visible trop tôt brouillait l’essai. En séparant le dessin et les cartons, Roxane pourra mieux voir ce que fait sa phrase une fois qu’elle est comprise. Elle garde « moteur » à côté de sa gouttière : les joueurs ont commencé à entendre le bruit comme elle l’espérait."
     },
     {
       "number": 6,
@@ -254,17 +539,73 @@
         {
           "role": "explanation",
           "heading": "Un enregistrement fait entendre une situation",
-          "text": "Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés."
+          "text": "Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.\n\nDans le trouble des sons de la parole, la facilité à distinguer un mot peut changer d’une prise à l’autre. Elle dépend de la façon dont les sons sont produits et aussi de ce que capte le micro. En comparant les prises, Roxane cherche celle qui donnera sa place au silence et à l’indice. Ce choix de montage ne mesure pas son niveau de parole."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le groupe de Roxane, lui, cherche un montage qui sert la devinette. Zoé lui indique ce qu’elle comprend et Roxane peut dire quelle version donne le ton qu’elle voulait.\n\nLe ruban sur la première prise complique l’écoute pour des raisons qui n’appartiennent pas à la parole de Roxane. Dans la troisième, le peu de bruit de fond et la phrase que Zoé connaît facilitent peut-être l’écoute. Un autre auditeur peut avoir besoin du carton. Le groupe a prévu de le poser au moment de l’indice."
+          "heading": "Comment deux prises de la même phrase donnent-elles des résultats différents ?",
+          "points": [
+            {
+              "heading": "Un son extérieur reste dans le fichier",
+              "text": "Le micro enregistre aussi ce qui se passe autour. Un incident de prise peut rendre un mot moins clair, même si la phrase était bien reconnaissable sur place.",
+              "examples": [
+                "Le bruit du ruban adhésif se superpose à la voix sur l’un des essais.",
+                "Si quelqu’un rapproche sa chaise pendant l’indice, l’auditeur au casque peut entendre le frottement avant le mot."
+              ]
+            },
+            {
+              "heading": "La même phrase peut être plus ou moins facile à distinguer",
+              "text": "Répéter un texte ne produit jamais exactement la même parole. Une difficulté sur un son peut gêner davantage dans un enchaînement que dans un mot isolé.",
+              "examples": [
+                "La comparaison de deux fichiers donne à Roxane des informations sur ces deux prises, à ce moment de la séance.",
+                "Un enfant peut être compris sur le nom de l’animal seul puis devoir le préciser quand il l’emploie dans une phrase rapide."
+              ]
+            },
+            {
+              "heading": "L’écoute change avec ce qu’on sait",
+              "text": "La personne qui a le carton sous les yeux reconstitue parfois un mot qu’un visiteur, privé de ce contexte, ne reconnaît pas.",
+              "examples": [
+                "Zoé sait déjà qu’il est question de racines lorsqu’elle écoute la phrase.",
+                "Un auditeur qui reçoit seulement le fichier peut hésiter sur le mot précis alors qu’il entend nettement le début et la fin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser une place au jeu dans le montage",
-          "text": "L’enseignante fait écouter deux versions sans demander une prise de plus. Dans l’une, la phrase arrive presque avec le bruit. Dans l’autre, quelques secondes la séparent du tambourinage. Roxane préfère la deuxième. Zoé avait envie d’ajouter un son fabriqué par le groupe. Elle décide de conserver ses percussions de table pour l’ouverture de la rencontre, à un moment où elles ne masqueront pas l’indice.\n\nIl reste à décider quelle voix arrivera au public, et à quel moment. Roxane accepte que la troisième prise serve pour la rencontre à la médiathèque. Elle veut garder la seconde phrase et le moment de retourner le rabat pour les visiteurs qui seront devant elles. Mme Sorel limite l’usage du fichier à la rencontre prévue et met les essais de côté pour le rangement, selon ce que le groupe a convenu."
+          "heading": "3 techniques pour choisir un enregistrement qui porte le message",
+          "points": [
+            {
+              "heading": "Comparer depuis la place du futur auditeur",
+              "objective": "Tester la part de la phrase qu’on comprend sans préparation.",
+              "exercise": [
+                "Demandez à une personne qui accepte l’essai d’écouter sans voir l’indice écrit.",
+                "Demandez ce qu’elle a compris, puis ce qui reste incertain.",
+                "Comparez les deux prises sur ce seul passage."
+              ],
+              "benefit": "Le retour porte sur l’écoute réelle du fichier plutôt que sur un jugement global de la voix."
+            },
+            {
+              "heading": "Distinguer le bruit de la phrase",
+              "objective": "Repérer ce qu’un changement technique peut améliorer.",
+              "exercise": [
+                "Localisez l’instant où le bruit couvre la voix.",
+                "Si l’enfant souhaite reprendre, éloignez la source du bruit avant l’essai.",
+                "Laissez-lui choisir entre les prises ou un carton de renfort."
+              ],
+              "benefit": "Le groupe peut améliorer l’enregistrement sans multiplier les corrections de prononciation."
+            },
+            {
+              "heading": "Fixer l’usage du fichier choisi",
+              "objective": "Garder la maîtrise de la prise qui sera entendue.",
+              "exercise": [
+                "Distinguez les essais de la version destinée au public.",
+                "Donnez au fichier choisi un nom qui indique son usage.",
+                "Vérifiez l’écoute dans la salle prévue et respectez l’accord sur la diffusion."
+              ],
+              "benefit": "La prise reste une partie du projet, dont les conditions peuvent être revues avant la rencontre."
+            }
+          ]
         }
       ],
       "ending_title": "L’espace laissé entre les deux pistes",
@@ -281,7 +622,8 @@
         "next": "Le montage est réservé à la rencontre, les prises d’essai restent à l’école pour le rangement, et le groupe doit vérifier ce que la salle change à l’écoute."
       },
       "clinical_focus": "Variabilité de la parole enregistrée",
-      "clinical_intro": "Dans le casque, le bruit d’un ruban adhésif explique pourquoi Zoé a perdu la fin d’une phrase. Roxane entend aussi combien le ton varie entre ses trois essais. Pour une personne qui a un trouble des sons de la parole, un enregistrement renseigne sur les mots compris dans cette situation. Roxane peut tenir compte de ce retour et choisir la prise qui ressemble à sa façon de raconter."
+      "clinical_intro": "Dans le casque, le bruit d’un ruban adhésif explique pourquoi Zoé a perdu la fin d’une phrase. Roxane entend aussi combien le ton varie entre ses trois essais. Pour une personne qui a un trouble des sons de la parole, un enregistrement renseigne sur les mots compris dans cette situation. Roxane peut tenir compte de ce retour et choisir la prise qui ressemble à sa façon de raconter.",
+      "conclusion": "Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle ; le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes."
     },
     {
       "number": 7,
@@ -303,13 +645,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Mme Sorel et Salomé déplacent le panneau et essaient une place où Roxane n’a pas besoin de se dresser. Elles règlent le micro et vérifient avec elle le résultat depuis les chaises rapprochées. Après l’essai, Roxane veut que l’on garde aussi le carton du deuxième indice. Ce que Salomé comprend dans une salle vide pourra lui échapper quand la salle sera occupée."
+          "heading": "Comment une voix peut-elle être audible au micro sans que les mots soient clairs ?",
+          "points": [
+            {
+              "heading": "Le volume ne sépare pas tous les sons",
+              "text": "Amplifier une voix la rend plus présente. L’écho et les bruits proches peuvent encore masquer des détails dont l’auditeur a besoin.",
+              "examples": [
+                "Au fond de la salle, Salomé entend le début de l’indice et demande à Roxane d’en redire la fin.",
+                "Dans une salle qui résonne, un groupe entend qu’on lui parle mais hésite sur le mot qui indique la sortie."
+              ]
+            },
+            {
+              "heading": "La place des personnes compte",
+              "text": "La distance et l’orientation changent ce que l’auditeur peut entendre et voir. Le visage, un geste ou un carton peuvent donner un repère supplémentaire.",
+              "examples": [
+                "Mme Sorel libère l’espace devant le panneau pour que Roxane puisse s’y placer face à la salle.",
+                "Des auditeurs en arc peuvent suivre le geste de l’enfant alors qu’un dernier rang derrière une colonne ne le voit pas."
+              ]
+            },
+            {
+              "heading": "L’appui doit fonctionner pendant l’échange",
+              "text": "Un mot peut rester incertain même dans une salle réorganisée. Savoir comment le rendre accessible compte autant que le réglage de départ.",
+              "examples": [
+                "Roxane essaie le signal du galet si elle souhaite que Zoé reprenne l’indice.",
+                "Un carton tenu à hauteur du public peut rendre une phrase consultable sans couper le déroulement du jeu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se donner un signal qu’on peut voir",
-          "text": "Zoé a voulu aider dès la première demande ; elle n’a pas pu voir si Roxane avait fini. Roxane voudrait d’abord avoir le choix de reprendre la phrase. Si elle préfère passer la main, elle veut que Zoé puisse dire l’indice, puis lui rendre la suite du jeu. Elles prennent un galet plat qui sert de poids au panneau et dessinent un rond orange sur une face. Le rond visible voudra dire : « À toi pour l’indice. »\n\nL’accord permet à chacune de savoir quoi attendre sans ajouter une explication pour les visiteurs. Elles testent le passage de relais à deux. Zoé lit la phrase puis se tait. Roxane sait que le silence suivant lui appartient : c’est celui où elle donne le carton et attend les réponses."
+          "heading": "3 techniques pour rendre un indice plus clair dans une salle",
+          "points": [
+            {
+              "heading": "Écouter depuis les places éloignées",
+              "objective": "Repérer ce qui se perd dans les conditions réelles.",
+              "exercise": [
+                "Placez un auditeur au fond de la salle.",
+                "Demandez-lui de dire quels mots il a compris après un essai au micro.",
+                "Changez une seule chose, la place ou l’orientation, et comparez."
+              ],
+              "benefit": "L’équipe peut choisir un aménagement d’après ce que le public perçoit."
+            },
+            {
+              "heading": "Réserver une place au repère visuel",
+              "objective": "Faire en sorte que plusieurs personnes voient la même information.",
+              "exercise": [
+                "Dégagez l’espace entre l’enfant et les derniers sièges.",
+                "Vérifiez que le carton se lit depuis les places prévues.",
+                "Mettez-le à portée de l’enfant pour l’instant où il en aura envie."
+              ],
+              "benefit": "Le texte peut compléter la parole sans devoir être cherché au milieu de la présentation."
+            },
+            {
+              "heading": "Répéter le relais comme un élément de scène",
+              "objective": "Laisser à l’enfant le choix du moment où la phrase change de voix.",
+              "exercise": [
+                "Convenez du signal et de la personne qui le regardera.",
+                "Essayez une fois avec le signal et une fois sans.",
+                "Prévoyez qui poursuit le jeu après la phrase relayée."
+              ],
+              "benefit": "L’aide se limite à la demande convenue et Roxane garde la révélation."
+            }
+          ]
         }
       ],
       "ending_title": "Face orange contre la table",
@@ -327,7 +725,8 @@
         "next": "Les adultes prépareront l’arc de chaises et le micro ; Zoé dira le second indice seulement si elle voit la face orange, puis Roxane mènera la révélation."
       },
       "clinical_focus": "Intelligibilité avec un micro",
-      "clinical_intro": "Au fond de la salle, Salomé entend Roxane mais perd la fin de l’indice. En parlant plus fort, Roxane entend surtout la résonance de sa propre voix. La difficulté à distinguer les sons se joue aussi dans la distance, l’écho et la possibilité de voir le visage qui parle. Déplacer les chaises et rendre le relais visible change les conditions de l’échange pour chacune."
+      "clinical_intro": "Au fond de la salle, Salomé entend Roxane mais perd la fin de l’indice. En parlant plus fort, Roxane entend surtout la résonance de sa propre voix. La difficulté à distinguer les sons se joue aussi dans la distance, l’écho et la possibilité de voir le visage qui parle. Déplacer les chaises et rendre le relais visible change les conditions de l’échange pour chacune.",
+      "conclusion": "L’arc de chaises et le galet répondent à deux questions : ce que la salle permet d’entendre, puis ce que Roxane veut faire si un mot échappe encore. Elle a testé le relais jusqu’au dessin. Le jour de la rencontre, elle pourra décider de l’utiliser ou de garder la phrase."
     },
     {
       "number": 8,
@@ -349,13 +748,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Roxane reconnaît sa tante à l’oreille. Quand Joëlle perd le fil, elle part d’un événement dont elles ont déjà parlé, le square. Roxane préfère changer sa façon d’amener la devinette. Elle pose une question sur le jeu à venir. Joëlle peut y répondre même si elle n’a pas entendu tous les détails de la préparation."
+          "heading": "Comment tenir compte d’un accent quand on ne comprend pas tout ?",
+          "points": [
+            {
+              "heading": "Une prononciation peut être habituelle dans une communauté",
+              "text": "Une variation de sons ou d’intonation liée à une région, à un milieu ou à une langue fait partie de la diversité de la parole.",
+              "examples": [
+                "Joëlle peut prononcer des mots avec une intonation que Roxane entend moins souvent à l’école.",
+                "Un enfant peut reconnaître à la maison une façon de dire un nom qui surprend d’abord un visiteur d’une autre région."
+              ]
+            },
+            {
+              "heading": "L’accent et une difficulté durable peuvent coexister",
+              "text": "Une personne peut parler avec un accent tout en rencontrant des difficultés distinctes dans la production de sons. Leur évaluation demande une histoire et plusieurs situations.",
+              "examples": [
+                "Les échanges avec Joëlle n’effacent pas ce que Roxane travaille déjà avec Mme Colin.",
+                "Un mot redemandé au téléphone ne permet pas à un auditeur de départager une variation attendue, un effet de l’écoute ou une difficulté de parole."
+              ]
+            },
+            {
+              "heading": "La demande de précision peut rester ordinaire",
+              "text": "Quand l’objectif est de comprendre l’autre, un repère sur le sujet suffit parfois. On peut vérifier un mot sans commenter la voix.",
+              "examples": [
+                "Pour la devinette par téléphone, Roxane peut vérifier la première piste de sa tante avant de l’inviter à ouvrir le pli.",
+                "Si quelqu’un hésite entre deux noms de lieux, il peut dire celui qu’il a compris et laisser son interlocuteur le corriger."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire pour quelqu’un qui ne sera pas là",
-          "text": "Le montage de la classe a été fait pour la rencontre et Roxane n’a pas choisi de l’envoyer ailleurs. Sa tante peut tout de même participer à un échange entre elles. Pour décrire un bruit sur une feuille, Roxane imagine un mot pour la vitesse et un autre pour la sensation que le son lui laisse. Elle les mettra en tête de lettre pour que Joëlle ait, elle aussi, le droit de partir sur une fausse piste.\n\nSon père propose de l’aider à chercher les mots. Roxane lui donne le rond de bois et lui demande de le tenir pendant qu’elle essaie de prendre son empreinte au crayon. C’est à ce geste que son aide peut servir maintenant. Elle choisira plus tard si l’empreinte fait partie du jeu ou doit rester dans l’enveloppe pour la fin."
+          "heading": "3 techniques pour clarifier un mot sans juger la façon de parler",
+          "points": [
+            {
+              "heading": "Vérifier le sens de la phrase",
+              "objective": "Porter l’attention sur ce que la personne voulait communiquer.",
+              "exercise": [
+                "Reprenez le fragment que vous avez saisi.",
+                "Demandez quel objet ou lieu complète la phrase.",
+                "Confirmez la réponse avant de revenir au sujet."
+              ],
+              "benefit": "L’échange reste centré sur le message plutôt que sur une manière de prononcer."
+            },
+            {
+              "heading": "Relever un contexte utile au professionnel",
+              "objective": "Préparer une discussion si la gêne persiste dans le quotidien.",
+              "exercise": [
+                "Notez une situation précise et qui y participait.",
+                "Recueillez les habitudes de langues ou de prononciation que l’enfant et sa famille souhaitent décrire.",
+                "Présentez-les à l’orthophoniste si une évaluation ou un suivi est indiqué."
+              ],
+              "benefit": "Le professionnel peut situer les observations et éviter de confondre différence linguistique et difficulté."
+            },
+            {
+              "heading": "Choisir un appui adapté à l’échange",
+              "objective": "Garder les moyens dont la personne a envie selon le destinataire.",
+              "exercise": [
+                "Demandez si elle préfère poursuivre de vive voix, montrer ou envoyer un mot.",
+                "Préparez le support pour cet échange précis.",
+                "Revoyez le choix avec elle dans un autre lieu ou avec un autre interlocuteur."
+              ],
+              "benefit": "Un appui peut servir dans une situation sans devenir une consigne pour toutes les conversations."
+            }
+          ]
         }
       ],
       "ending_title": "Le papier sur le rond de bois",
@@ -372,7 +827,8 @@
         "next": "Après la rencontre, Roxane terminera l’enveloppe ; Joëlle lui dira sa première idée par téléphone avant d’ouvrir le dernier pli."
       },
       "clinical_focus": "Variation d’accent et trouble des sons",
-      "clinical_intro": "Roxane reconnaît sa tante Joëlle à sa façon marseillaise d’allonger les fins de phrase. Plus tard, sa tante croit que la devinette parle des bruits du square. Un accent est une variation attendue au sein d’une communauté. Pour évaluer des difficultés durables de production des sons, un professionnel considère les façons de parler auxquelles la personne est exposée, son âge et le retentissement dans plusieurs situations."
+      "clinical_intro": "Roxane reconnaît sa tante Joëlle à sa façon marseillaise d’allonger les fins de phrase. Plus tard, sa tante croit que la devinette parle des bruits du square. Un accent est une variation attendue au sein d’une communauté. Pour évaluer des difficultés durables de production des sons, un professionnel considère les façons de parler auxquelles la personne est exposée, son âge et le retentissement dans plusieurs situations.",
+      "conclusion": "La façon de parler de Joëlle donne à Roxane l’occasion de s’interroger sur ce qu’on entend d’un accent. Leur devinette gardera sa propre forme : une première idée au téléphone, puis une réponse cachée dans le papier. Les mots de chacune pourront être précisés au fil du jeu."
     },
     {
       "number": 9,
@@ -389,18 +845,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Se comprendre et être d’accord sont deux choses",
-          "text": "Les situations où un enfant se fait bien comprendre peuvent coexister avec des échanges qui restent difficiles. Dans une conversation qui avance vite, la personne qui écoute n’a parfois que quelques mots pour retrouver l’intention du locuteur. Une phrase enregistrée à l’école, avec un sujet connu de Zoé, et une règle donnée à la récréation à deux élèves peu familiers demandent des choses différentes."
+          "heading": "Ce qu’on perd quand le tour avance",
+          "text": "Une difficulté à se faire comprendre peut avoir un coût social quand le groupe agit avant que la personne ait pu préciser sa phrase. Chez Roxane, le trouble des sons de la parole rend certains mots moins faciles à reconnaître. À la récréation, les nouveaux joueurs disposent de peu de contexte et les billes avancent. L’erreur de compréhension prend alors la forme d’un tour perdu.\n\nUne démonstration rend sa règle discutable. Une camarade peut objecter, un autre joueur améliorer le tracé et Roxane peut garder sa place dans la décision. Réparer le malentendu signifie ici retrouver le droit ordinaire de jouer avec les autres."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le tour de bille perdu ne permet pas de conclure que la parole de Roxane s’est dégradée.\n\nLa démonstration rend sa proposition claire. La fille qui joue la comprend et y voit un inconvénient. Cette objection a de la valeur pour Roxane : son idée vient d’être entendue, et elle peut maintenant discuter de la règle avec une autre joueuse. Une aide à la communication doit laisser de la place à ce genre de désaccord."
+          "heading": "Comment un malentendu peut-il coûter une place dans un jeu ?",
+          "points": [
+            {
+              "heading": "L’action avance sur une hypothèse",
+              "text": "Un groupe peut agir aussitôt sur la partie de phrase qu’il a comprise. Le reste devient difficile à ajouter après coup.",
+              "examples": [
+                "Une élève entend la fin de la règle et croit que Roxane doit passer sa main.",
+                "Dans un jeu de ballon, des enfants commencent une nouvelle manche avant qu’un joueur ait pu expliquer pourquoi le point reste à jouer."
+              ]
+            },
+            {
+              "heading": "Il faut interrompre la partie pour se faire entendre",
+              "text": "Quand les autres sont déjà passés à l’action, reprendre sa proposition demande davantage que préciser un mot.",
+              "examples": [
+                "Roxane montre le trait avec sa bille pour revenir à la règle qu’elle essayait de proposer.",
+                "Un joueur peut montrer sa carte encore retournée pour signaler que son tour n’a pas commencé."
+              ]
+            },
+            {
+              "heading": "L’accord sur le message ouvre la discussion",
+              "text": "Être compris permet à l’autre de répondre à l’idée, y compris de s’y opposer. L’enfant retrouve alors une place active dans le groupe.",
+              "examples": [
+                "La fille voit la différence entre revenir au trait et sortir du parcours, puis propose sa modification.",
+                "Deux enfants peuvent convenir d’un trait de chaque côté du bouchon une fois qu’ils parlent de la même règle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Changer le jeu à plusieurs",
-          "text": "Roxane propose un seul nouvel essai avant de passer la main. Le garçon ajoute que le trait doit être visible de chaque côté du bouchon. Nassim trouve un morceau de craie qui tient encore entre deux doigts. On trace les marques pendant que Roxane montre à la fille la différence entre revenir au trait et sortir du parcours.\n\nNassim peut aider en suivant la règle, comme tous les joueurs. S’il a encore un doute, il peut montrer l’endroit qu’il imagine et attendre sa réponse avant de prendre une bille qui ne lui appartient pas. Roxane n’a pas besoin d’une personne désignée pour tous ses échanges. Dans la cour, elle veut jouer sa bille et garde la possibilité de demander à quelqu’un de l’aider au moment où cela lui sert."
+          "heading": "3 techniques pour garder sa place après un malentendu",
+          "points": [
+            {
+              "heading": "Retenir le jeu à l’endroit précis",
+              "objective": "Éviter que le tour avance avant la vérification.",
+              "exercise": [
+                "Posez la bille là où la discussion s’est arrêtée.",
+                "Dites : « Je crois que tu proposes de partir d’ici ; c’est ça ? »",
+                "Attendez la confirmation de la personne qui parlait."
+              ],
+              "benefit": "Une pause courte laisse le temps de réparer le malentendu sans rejouer toute la manche."
+            },
+            {
+              "heading": "Montrer la différence entre deux règles",
+              "objective": "Donner au groupe un moyen commun de comparer les idées.",
+              "exercise": [
+                "Montrez les deux départs possibles du doigt ou avec un objet.",
+                "Demandez à l’auteur de la proposition lequel il veut essayer.",
+                "Faites un tour d’essai avant de choisir ensemble."
+              ],
+              "benefit": "La discussion porte sur les effets de la règle et chacun peut y contribuer."
+            },
+            {
+              "heading": "Laisser une marque pour la reprise",
+              "objective": "Éviter de devoir redonner tout le contexte au retour.",
+              "exercise": [
+                "Repérez le point où l’accord a été trouvé.",
+                "Tracez-le ou notez-le avec le groupe.",
+                "Au prochain tour, montrez la marque avant que quelqu’un ne joue."
+              ],
+              "benefit": "Le repère reste disponible même si des joueurs changent."
+            }
+          ]
         }
       ],
       "ending_title": "À elle d’essayer la pente",
@@ -417,7 +929,8 @@
         "next": "Elle retient l’idée d’un endroit visible où chacun peut inscrire sa première tentative ; elle veut l’utiliser pour les réponses de la rencontre."
       },
       "clinical_focus": "Coût social du malentendu",
-      "clinical_intro": "Deux élèves qui connaissent peu Roxane viennent jouer. L’une n’entend que la fin d’une règle et croit que Roxane doit passer son tour. Quand elle montre le trait avec sa bille, la proposition devient claire et les autres peuvent en discuter. Un trouble des sons de la parole peut peser sur la participation quand les échanges avancent vite. Ici, réparer le malentendu rend à Roxane le droit de proposer, d’objecter et de jouer."
+      "clinical_intro": "Deux élèves qui connaissent peu Roxane viennent jouer. L’une n’entend que la fin d’une règle et croit que Roxane doit passer son tour. Quand elle montre le trait avec sa bille, la proposition devient claire et les autres peuvent en discuter. Un trouble des sons de la parole peut peser sur la participation quand les échanges avancent vite. Ici, réparer le malentendu rend à Roxane le droit de proposer, d’objecter et de jouer.",
+      "conclusion": "Quand Roxane retrouve son tour, elle peut aussi entendre l’objection de l’autre joueuse. Leur craie garde une trace de la décision commune. À la médiathèque, elle veut offrir le même genre de repère aux personnes qui voudront proposer une première réponse."
     },
     {
       "number": 10,
@@ -439,13 +952,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce qu’un auditeur parvient à entendre",
-          "text": "Lors d’une répétition, Salomé avait distingué le début de l’indice depuis le fond de la salle et demandé à Roxane de redire la fin. Sur un enregistrement, le bruit du ruban adhésif avait couvert une partie de la phrase. Le père de Roxane, habitué à sa façon de parler et déjà au courant de la devinette, avait compris plus vite ce qu’elle demandait dans un autre échange. Roxane se demande ce que le deuxième groupe entendra si plusieurs personnes répondent en même temps. En regardant la case qui se libère, elle craint d’avoir de nouveau à reprendre sa phrase alors que le jeu avance."
+          "heading": "Comment garder le choix de sa parole quand un appui change ?",
+          "points": [
+            {
+              "heading": "L’appui appartient à un moment précis",
+              "text": "Une personne disponible au premier passage ne le sera pas forcément au suivant. Le besoin de préciser une phrase peut se présenter dans les deux créneaux.",
+              "examples": [
+                "Zoé peut relayer l’indice une seule fois parce qu’elle mène aussi l’atelier de dessin.",
+                "Un camarade qui connaît une consigne peut être appelé à sa propre table au moment où un nouveau groupe arrive."
+              ]
+            },
+            {
+              "heading": "Un support peut rester accessible quand l’équipe bouge",
+              "text": "Un objet ou un texte préparé peut prendre le relais d’un appui humain sans imposer le même choix à chaque fois.",
+              "examples": [
+                "Roxane place le second carton dans la poche du panneau, assez près pour l’attraper.",
+                "Dans un atelier, un duplicata confié à l’enseignante permet de retrouver une phrase si le premier carton est déplacé."
+              ]
+            },
+            {
+              "heading": "Un choix se fait aussi au moment de parler",
+              "text": "Le support disponible donne à la personne la possibilité de décider d’après ce qu’elle observe de l’écoute.",
+              "examples": [
+                "Roxane pourra dire son deuxième indice ou tendre le carton si le groupe n’a pas compris.",
+                "Un élève peut faire attendre les réponses le temps que le bruit baisse et reprendre lui-même sa phrase."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire de la place aux premières idées",
-          "text": "Au premier passage, Zoé peut dire l’indice au signal de Roxane. Au deuxième, Roxane pourra le dire elle-même ou tendre le carton pour que le public lise sa phrase. Mme Sorel garde les cartes accessibles et laisse Roxane choisir sur place, pendant que Zoé mène son atelier.\n\nNassim apporte la boîte à jetons. Roxane se souvient que, dans la cour, revenir à une marque aidait les joueurs à voir ce qui comptait. Elle propose un coin de table où poser un jeton à la première hypothèse. Elle pourra attendre quelques propositions sans prendre la parole dans le bruit des réponses. Après le second indice, les visiteurs pourront déplacer leur jeton s’ils ont changé d’idée. Le dessin reste caché jusque-là.\n\nZoé inscrit son nom près du rabat et sur le plan de l’atelier dessin. Roxane ajoute le sien au titre de la devinette. Nassim garde le lancement du son, dont il a noté l’ordre avec Mme Sorel. Ils peuvent se faire signe si quelque chose manque sans devoir raconter au public pourquoi l’un prend une phrase plutôt qu’un autre."
+          "heading": "3 techniques pour prévoir des appuis qui laissent un choix",
+          "points": [
+            {
+              "heading": "Vérifier qui sera là à chaque passage",
+              "objective": "Identifier les moments où un relais est réellement disponible.",
+              "exercise": [
+                "Dessinez deux colonnes pour les deux créneaux.",
+                "Inscrivez les rôles avec les personnes concernées.",
+                "Repérez où il faut préparer une autre option."
+              ],
+              "benefit": "Les engagements de Zoé et la prise de parole de Roxane peuvent coexister."
+            },
+            {
+              "heading": "Mettre l’option de rechange à portée",
+              "objective": "Préparer un moyen de poursuivre sans attendre quelqu’un.",
+              "exercise": [
+                "Choisissez une phrase qui peut aussi être montrée.",
+                "Placez-la là où l’enfant peut la prendre lui-même.",
+                "Faites un essai où il décide de la sortir ou de la laisser en place."
+              ],
+              "benefit": "L’enfant garde la maîtrise du passage même lorsque les personnes changent."
+            },
+            {
+              "heading": "Organiser le temps des premières réponses",
+              "objective": "Réserver à l’indice un moment où on peut l’entendre.",
+              "exercise": [
+                "Indiquez aux visiteurs où poser leur première hypothèse.",
+                "Prévoyez un signe pour annoncer l’indice suivant.",
+                "Laissez la personne qui mène le jeu choisir quand reprendre."
+              ],
+              "benefit": "Le temps entre les deux indices reste disponible pour parler ou montrer la phrase."
+            }
+          ]
         }
       ],
       "ending_title": "Une place pour les plumes",
@@ -463,7 +1032,8 @@
         "next": "Le jeu est prêt pour deux passages. Les jetons accueillent les premières hypothèses, et Zoé a sa place à la fois dans la devinette et à son atelier."
       },
       "clinical_focus": "Autonomie dans la communication",
-      "clinical_intro": "Roxane découvre que Zoé pourra relayer l’indice pendant une seule des deux présentations. Elle avait pris pour acquis que sa partenaire serait là tout le temps. Une difficulté de parole peut rester présente d’un passage à l’autre alors que les appuis disponibles changent. En gardant une version écrite à portée de main, Roxane retrouve une possibilité de choisir comment communiquer sa phrase sur le moment."
+      "clinical_intro": "Roxane découvre que Zoé pourra relayer l’indice pendant une seule des deux présentations. Elle avait pris pour acquis que sa partenaire serait là tout le temps. Une difficulté de parole peut rester présente d’un passage à l’autre alors que les appuis disponibles changent. En gardant une version écrite à portée de main, Roxane retrouve une possibilité de choisir comment communiquer sa phrase sur le moment.",
+      "conclusion": "Zoé garde son atelier et Roxane dispose d’un deuxième moyen de faire circuler l’indice. Les deux créneaux n’auront pas besoin de se ressembler pour que Roxane mène sa devinette. Les cartes, les jetons et le galet lui laissent des décisions à prendre sur place."
     },
     {
       "number": 11,
@@ -480,18 +1050,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le relais fait partie du jeu",
-          "text": "Les ajustements d’un lieu et les aides entre personnes peuvent faciliter un échange au moment où il se déroule. Quand les chaises grincent et que Roxane se détourne du micro, une partie du message échappe au garçon. Le groupe change ce qu’il peut changer : la place du micro, la distance avec les derniers arrivés et le moment où la parole reprend. La possibilité d’utiliser un support écrit ou de passer une phrase à Zoé reste utile, que le malentendu vienne du bruit ou d’une difficulté à distinguer des sons."
+          "heading": "Garder la conduite du jeu devant le public",
+          "text": "Participer à l’oral en public peut demander de gérer à la fois sa phrase et la réaction de gens qui découvrent le sujet. Avec un trouble des sons de la parole, certains mots peuvent rester difficiles à reconnaître. Quand les chaises grincent et que Roxane se détourne du micro, le public perd une partie du message et son jeu s’interrompt un instant.\n\nRoxane peut reprendre en modifiant sa place, en montrant le carton ou en passant une phrase à Zoé au signal convenu. La décision qui compte est celle qui lui permet de mener le jeu : laisser le public proposer, puis montrer ce qui était caché."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le passage de relais appartient à Roxane. Cette fois, elle le déclenche avant de commencer son indice. Zoé a attendu le signe convenu. Elle dit « Je frappe le bois avec mon bec », retourne le second carton et écarte sa chaise. Roxane entend un enfant demander : « Alors c’est un oiseau qui tape ? » Elle découvre ce que ça fait d’attendre une réponse de ce côté de la table, sans avoir à préparer sa phrase."
+          "heading": "Comment une difficulté à se faire comprendre change-t-elle une présentation publique ?",
+          "points": [
+            {
+              "heading": "Le public bouge pendant une phrase",
+              "text": "Le bruit ou un changement de place peut faire perdre un détail dont les auditeurs ont besoin pour suivre.",
+              "examples": [
+                "Un garçon ne reconnaît pas le mot qui lui manque quand des chaises grincent.",
+                "Des personnes arrivées après le premier indice peuvent entendre la suite sans savoir ce que désigne « ce bruit »."
+              ]
+            },
+            {
+              "heading": "La personne doit décider quoi reprendre",
+              "text": "Une présentation en direct laisse peu de temps pour savoir s’il faut répéter, montrer ou revenir au déroulement prévu.",
+              "examples": [
+                "Roxane peut remettre son visage face au micro pour la partie qu’elle veut reprendre.",
+                "Un enfant qui voit encore des mains levées peut poser l’indice écrit et attendre que les joueurs l’aient lu."
+              ]
+            },
+            {
+              "heading": "Le public peut amener une question nouvelle",
+              "text": "Une réponse imprévue change le travail à faire, même quand le déroulement de départ a été réussi.",
+              "examples": [
+                "Une petite fille passe de « marteau » à « oiseau », puis demande pourquoi le pic tambourine.",
+                "Roxane peut montrer le livre et proposer de vérifier après l’atelier une réponse qu’elle n’a pas encore."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "La réponse et ce qu’ils en font",
-          "text": "Roxane accepte « un oiseau qui tape » comme première réponse qui explique le bruit. Quelqu’un propose un pic. Elle soulève le rabat de Zoé ; le nom « pic épeiche » apparaît avec le dessin. Le son retenu dans la collection est bien un tambourinage de cet oiseau. Elle montre aussi l’étiquette de Salomé : elle veut que les visiteurs sachent que ce n’était pas le son du banc vert, resté sans nom.\n\nAu deuxième passage, Zoé part à l’atelier dessin. Deux visiteurs parlent encore entre eux quand la deuxième phrase devrait arriver. Roxane leur indique le carton et laisse les gens le lire. Puis elle reprend à voix haute la question du début : « On garde les mêmes idées ? » Cette manière de jouer permet au deuxième groupe de poursuivre. Roxane choisit où sa voix lui sert le plus : elle peut interroger les gens à partir des mots qu’ils ont posés sur la table."
+          "heading": "3 techniques pour continuer à mener un jeu quand des mots se perdent",
+          "points": [
+            {
+              "heading": "Poser une question sur le mot manquant",
+              "objective": "Reprendre l’information utile au lieu de rejouer la présentation entière.",
+              "exercise": [
+                "Demandez à l’auditeur quel morceau il veut entendre.",
+                "Placez-vous à nouveau face au groupe avant de le reprendre.",
+                "Vérifiez s’il peut maintenant proposer une idée."
+              ],
+              "benefit": "Le public retrouve le fil à partir du passage dont il avait besoin."
+            },
+            {
+              "heading": "Utiliser le relais prévu à la demande",
+              "objective": "Confier une phrase sans perdre le fil de l’activité.",
+              "exercise": [
+                "Vérifiez avant le passage que le signal sera visible du partenaire.",
+                "Si l’enfant fait le signe, laissez le partenaire lire seulement l’indice convenu.",
+                "Rendez aussitôt l’initiative à l’enfant pour l’action suivante."
+              ],
+              "benefit": "Roxane peut recevoir l’aide et continuer à décider quand dévoiler le dessin."
+            },
+            {
+              "heading": "Accueillir la question qui dépasse la préparation",
+              "objective": "Conserver l’échange après la réponse au jeu.",
+              "exercise": [
+                "Dites ce que vous savez sur l’oiseau ou le son.",
+                "Indiquez le livre ou la personne qui pourra compléter l’information.",
+                "Proposez un moment après le jeu pour regarder ensemble."
+              ],
+              "benefit": "La conversation peut se poursuivre avec le public sans exiger une réponse immédiate."
+            }
+          ]
         }
       ],
       "ending_title": "Le galet reste dans sa poche",
@@ -510,7 +1136,8 @@
         "next": "Les visiteurs ont joué avec le tambourinage identifié et le dessin. Après la rencontre, Roxane pourra garder les éléments de papier et terminer la version promise à Joëlle."
       },
       "clinical_focus": "Participation orale en public",
-      "clinical_intro": "La porte s’ouvre au moment où Roxane répond à un visiteur. En reprenant sa phrase après le bruit, elle peut poursuivre l’échange. Elle passe ensuite l’indice à Zoé au signe convenu. Avec un trouble des sons de la parole, rendre les mots accessibles et conserver l’initiative sont deux enjeux. Le micro, le carton et le relais lui laissent plusieurs manières de tenir son rôle."
+      "clinical_intro": "La porte s’ouvre au moment où Roxane répond à un visiteur. En reprenant sa phrase après le bruit, elle peut poursuivre l’échange. Elle passe ensuite l’indice à Zoé au signe convenu. Avec un trouble des sons de la parole, rendre les mots accessibles et conserver l’initiative sont deux enjeux. Le micro, le carton et le relais lui laissent plusieurs manières de tenir son rôle.",
+      "conclusion": "Roxane a pu reprendre son indice et soulever le rabat au bon moment. La question de la petite fille l’emmène plus loin que son texte préparé. Elle garde la main sur cette nouvelle piste, avec un livre à chercher et une réponse encore ouverte."
     },
     {
       "number": 12,
@@ -532,13 +1159,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Roxane pourra raconter ce moment à son prochain rendez-vous. Elle peut aussi dire que, devant le public, elle a aimé décider elle-même de passer la phrase à Zoé. Mme Colin continue de suivre avec elle ce qui lui demande de l’effort et les objectifs qui lui sont utiles. Un exemple de la vie ordinaire peut éclairer cette discussion. Il ne remplace pas l’évaluation de l’orthophoniste."
+          "heading": "Comment la parole change-t-elle entre une présentation préparée et une conversation spontanée ?",
+          "points": [
+            {
+              "heading": "La préparation donne des repères partagés",
+              "text": "Un public qui voit le carton et suit un ordre annoncé peut retrouver des mots qui seraient difficiles à saisir hors de ce cadre.",
+              "examples": [
+                "À la rencontre, le son, les jetons et le carton situent l’indice de Roxane.",
+                "Pour la version postale, les plis donnent à Joëlle un ordre à suivre pendant l’appel."
+              ]
+            },
+            {
+              "heading": "Une demande improvisée ajoute de l’inconnu",
+              "text": "Une nouvelle personne peut ignorer le sujet et ne reconnaître qu’une partie de la question. Il faut parfois chercher un autre point de départ sur le moment.",
+              "examples": [
+                "Au comptoir, Roxane doit préciser ce qu’elle cherche avant d’obtenir un renseignement.",
+                "Dans une autre bibliothèque, un enfant peut désigner le rayon pour compléter un nom de livre que l’adulte ne reconnaît pas."
+              ]
+            },
+            {
+              "heading": "Un appui peut changer de forme en route",
+              "text": "Ce qui se retrouve d’une situation à l’autre est parfois une manière de vérifier ou de reprendre, même quand le support préparé n’est plus là.",
+              "examples": [
+                "L’objet devant Roxane au comptoir lui donne une autre phrase.",
+                "Au téléphone, elle s’appuie sur l’empreinte que sa tante tient déjà pour suivre la devinette à distance."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un autre jeu au fond de l’enveloppe",
-          "text": "Dans sa lettre, Roxane n’écrit pas le nom de l’oiseau en haut de la page. Elle décrit d’abord un bruit bref qui fait penser à un petit objet sur du bois. Elle recopie l’indice du tambour sur un premier pli. Au fond, elle met l’empreinte prise chez Joëlle, la plume de papier et un petit dessin qu’elle a demandé à Zoé. Le rabat original ira dans son cahier, avec la feuille à deux cases.\n\nLe projet avait commencé par le désir de faire entendre une fausse piste. Pour la rencontre, Roxane a choisi un extrait, écrit, parlé et partagé une phrase avec Zoé. L’enveloppe lui permet d’essayer le même jeu avec une personne qui n’entendra aucun son. Pour son enquête sur les tuyaux, elle commence une page neuve. Il n’y a encore ni réponse, ni public, ni date pour la lire."
+          "heading": "3 techniques pour adapter un appui à un nouvel échange",
+          "points": [
+            {
+              "heading": "Repérer ce qui était disponible",
+              "objective": "Comprendre quel élément a aidé dans la situation préparée.",
+              "exercise": [
+                "Reprenez un échange qui a permis de poursuivre.",
+                "Repérez si le support, la personne ou l’ordre des étapes a compté.",
+                "Choisissez ce qui serait transportable dans un autre lieu."
+              ],
+              "benefit": "On peut garder la fonction utile d’un appui en changeant sa forme."
+            },
+            {
+              "heading": "Trouver un repère sur place",
+              "objective": "Reformuler une demande imprévue à partir d’un élément commun.",
+              "exercise": [
+                "Écoutez ce que l’interlocuteur dit avoir compris.",
+                "Montrez un objet proche qui situe la demande.",
+                "Formulez de nouveau la partie manquante autour de cet objet."
+              ],
+              "benefit": "Le contexte devient commun même si aucun carton n’était prévu."
+            },
+            {
+              "heading": "Décrire deux échanges en orthophonie",
+              "objective": "Aider le suivi à prendre en compte les situations ordinaires.",
+              "exercise": [
+                "Choisissez un exemple préparé et un échange imprévu.",
+                "Décrivez les personnes, le lieu et ce qui a permis de poursuivre.",
+                "Demandez avec l’enfant quel échange il aimerait travailler ensuite."
+              ],
+              "benefit": "Mme Colin peut s’appuyer sur ces différences pour ajuster les objectifs avec Roxane."
+            }
+          ]
         }
       ],
       "ending_title": "Un bruit à garder pour la prochaine fois",
@@ -556,7 +1239,8 @@
         "next": "Joëlle joue jusqu’à la réponse. La présentation collective est achevée, le suivi avec Mme Colin continue et Roxane pourra reprendre sa question sur les bruits de l’immeuble."
       },
       "clinical_focus": "Transfert en conversation spontanée",
-      "clinical_intro": "Après une présentation préparée, Roxane demande un livre à un bibliothécaire qui connaît peu sa voix. Il lui fait répéter un mot. En prenant le radiateur comme repère, elle reformule et reprend l’échange qu’elle voulait pouvoir mener seule. Dans le suivi d’un trouble des sons de la parole, une situation spontanée éclaire l’effort qui reste à faire là où les interlocuteurs et les appuis changent."
+      "clinical_intro": "Après une présentation préparée, Roxane demande un livre à un bibliothécaire qui connaît peu sa voix. Il lui fait répéter un mot. En prenant le radiateur comme repère, elle reformule et reprend l’échange qu’elle voulait pouvoir mener seule. Dans le suivi d’un trouble des sons de la parole, une situation spontanée éclaire l’effort qui reste à faire là où les interlocuteurs et les appuis changent.",
+      "conclusion": "La rencontre et la question au comptoir sollicitent Roxane différemment. Elle peut apporter cette différence à Mme Colin et garder pour elle le plaisir d’avoir fait jouer Joëlle. Les bruits qu’elle entend chez elle lui donnent déjà un nouveau point de départ."
     }
   ]
 }

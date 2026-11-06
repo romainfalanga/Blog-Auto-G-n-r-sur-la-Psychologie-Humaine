@@ -29,22 +29,83 @@ La fenêtre de l’atelier n’a que deux montants. Le troisième, qu’Adèle a
 
 La personne qui montre le métier a accepté qu’Inès enregistre le bruit de la démonstration. Elle demande qu’on attende derrière une ligne au sol. Adèle cherche d’où on voit à la fois les fils et la pierre. Une élève lui propose de prendre sa place au premier rang. De là, la traverse cacherait toute la fenêtre. Adèle la remercie et lui demande plutôt si elle peut prendre le bout de la ligne, là où il faut se pencher un peu pour voir ce qui change.
 
-## L’effort du repas peut prendre la place de la conversation
+## Quand le repas occupe aussi l’attention
 
-L’ARFID peut gêner la participation aux repas partagés et aux activités qui s’organisent autour d’eux. Selon les personnes et les moments, manger avec d’autres peut faire partie de ce que l’on souhaite, et un endroit plus calme peut aider quand l’environnement devient difficile. Le même appui n’a pas à être choisi chaque fois.
+Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès ; en surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre.
 
-## Comment cette difficulté se manifeste
+## Comment l’attention se partage-t-elle entre le repas et la conversation ?
 
-À midi, Adèle a pu prendre son repas dans le cadre prévu avec le groupe. Elle a aussi dû faire un effort pour retrouver le fil de la conversation. Ces deux aspects peuvent être entendus ensemble lorsqu’elle en reparlera avec l’équipe.
+### La place choisie aide sur un point et pas sur tout
 
-Le choix de rejoindre la table commune n’annonce pas celui du soir. Les accompagnateurs peuvent conserver les autres modalités convenues et demander à Adèle ce qui a été possible seulement lorsqu’ils ont un moment pour parler à part. Le suivi garde ses propres repères, au-delà de ce qu’un camarade pourrait remarquer pendant le déjeuner.
+Être près d’une personne connue peut faciliter la rencontre sans rendre l’espace autour de la table moins exigeant.
 
-## Voir l’atelier à sa façon
+**Exemples concrets**
 
-À l’atelier, Adèle peut faire des choix qui répondent au dessin qu’elle veut obtenir. Depuis le bout de la ligne, elle verra peut-être mieux l’ombre et moins bien la démonstration. Elle peut demander à la personne qui présente le métier si elle peut lui montrer ensuite le geste qu’elle ne voit pas depuis sa place. Inès, de son côté, s’intéresse à l’instant où le mécanisme démarre. Leurs deux façons de regarder peuvent entrer dans la restitution.
+- Adèle choisit le bout de la table avec Inès et reste sensible au passage derrière elle.
+- Un jeune se place près d’un camarade et se distrait chaque fois qu’un siège bouge dans son dos.
 
-Au moment de reprendre sa bande blanche, Adèle a une décision à prendre : montrer une fenêtre fidèle au bâtiment ou retenir l’ombre qui lui a donné l’idée. Elle peut expliquer la différence à la personne qui verra son dessin, ou lui laisser le temps de la remarquer.
+### L’histoire se poursuit pendant qu’on regarde ailleurs
+
+Suivre ce qui se passe autour du repas peut faire perdre une partie du fil social.
+
+**Exemples concrets**
+
+- Adèle manque le début de l’histoire sur le chauffeur.
+- Une personne entend la fin d’une question pendant qu’elle se concentre sur ce qu’elle éprouve au moment du repas.
+
+### Demander une reprise permet de rester dans l’échange
+
+Une information précise peut être rattrapée sans raconter ce qui a pris l’attention.
+
+**Exemples concrets**
+
+- Adèle demande à Inès de reprendre au passage du sac renversé.
+- Un jeune dit « Tu parlais de quel arrêt ? » et retrouve le sujet au moment de quitter la table.
+
+## 3 techniques pour garder une place dans l’échange au repas
+
+### 1. Décrire ce que la place change
+
+Aider les adultes à comprendre ce que le cadre demande.
+
+**Exercice pratique**
+
+- Repérez d’où vient le passage ou le bruit.
+- Dites à l’adulte ce qui vous a aidé et ce qui a pris de l’attention.
+- Revoyez avec lui et l’équipe les options déjà convenues si le cadre reste difficile.
+
+Le choix de la place peut se discuter à partir de ce qui s’est passé.
+
+### 2. Demander un point de reprise
+
+Retrouver le fil sans devoir interrompre longtemps le groupe.
+
+**Exercice pratique**
+
+- Repérez le dernier détail entendu.
+- Demandez à quelqu’un de reprendre à partir de là.
+- Revenez à l’échange plus tard s’il n’y a pas de temps à table.
+
+Le lien avec les autres peut continuer même si le début d’une phrase a échappé.
+
+### 3. Distinguer ce qui a aidé de ce qui a coûté
+
+Décrire un repas possible sans en minimiser l’effort.
+
+**Exercice pratique**
+
+- Notez l’appui qui était disponible.
+- Décrivez un moment où votre attention a quitté l’échange.
+- Mentionnez ces deux éléments au suivi si cela se répète.
+
+L’équipe peut comprendre à la fois la participation et la gêne encore présente.
 
 ## Garder l’ombre
 
 Adèle retourne la bande blanche et trace les deux montants. À la place du troisième, elle dessine une barre qui s’arrête un peu avant le bord. Inès l’appelle pour écouter le début de sa prise. On entend un frottement, un silence bref, puis le claquement du métier. Adèle demande qu’elle garde le frottement. Elle inscrit dans la marge de sa bande, en tout petit : « Vu du bout de la ligne. »
+
+---
+
+**Conclusion**
+
+Adèle a pu déjeuner près d’Inès et a eu besoin qu’elle reprenne l’histoire. Plus tard, elle choisit le bout de la ligne pour mieux voir la fenêtre. Les deux scènes montrent comment une place change ce qu’elle peut suivre.

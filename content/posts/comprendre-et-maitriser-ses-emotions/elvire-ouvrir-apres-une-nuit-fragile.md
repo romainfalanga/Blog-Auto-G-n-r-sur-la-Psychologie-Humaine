@@ -35,14 +35,79 @@ Elle demande à Sonia de reprendre le registre. À l’homme qui a apporté le b
 
 Après une nuit difficile, une personne peut avoir du mal à traiter plusieurs informations en même temps ou à reprendre le fil après une interruption. L’effet varie selon ce qu’elle a à faire et selon les appuis possibles. Élvire répond à la question de la lampe quand elle a le temps d’écouter. Les arrivées simultanées lui demandent un autre effort. Un changement d’organisation peut réduire la charge de cette activité et préserver la qualité de l’accueil. Les nuits difficiles et leur retentissement restent des éléments à reprendre dans le suivi.
 
-## Reconnaître le moment où le fil commence à se perdre
+## Comment plusieurs demandes en même temps peuvent-elles faire perdre le fil ?
 
-Élvire remarque qu’elle écrit encore le premier prénom alors que le deuxième échange a commencé. Elle pourrait essayer de rattraper la réponse en se déplaçant vers la porte. Cela laisserait deux personnes à l’accueil sans interlocuteur. Son expérience des deux adresses au bureau de la coopérative lui avait déjà montré le coût d’un message envoyé au moment d’une interruption. Le signe du jour concerne sa concentration. La consigne sur les trajets et la vigilance reste distincte. Salim garde la conduite et la manutention, comme ils en ont convenu.
+### Une demande à la fois peut rester facile à suivre
 
-## Prendre la relève au moment où elle devient utile
+L’effet de la nuit dépend aussi du nombre de choses qui sollicitent l’attention.
 
-Élvire demande à Sonia de reprendre le registre en lui indiquant où elle s’est arrêtée. Elle confirme ensuite qui va chercher le visiteur au panneau. Ces gestes donnent à chacun une suite précise. Après la pause, elle peut proposer de revenir pour une tâche à la fois, selon la façon dont elle se sent et ce que Sonia peut lui transmettre. Si la vigilance change ou que la somnolence revient, elle peut le signaler et reprendre l’avis médical convenu. Le but de la matinée reste de recevoir les habitants dans des conditions sûres.
+**Exemples concrets**
+
+- Élvire entend la première demande au sujet de la lampe et sait quoi répondre.
+- Elle indique à la visiteuse où revenir avant que plusieurs personnes se présentent.
+
+### Les arrivées simultanées interrompent le fil
+
+Deux questions qui se chevauchent peuvent rendre difficile la reprise d’un échange.
+
+**Exemples concrets**
+
+- Un visiteur demande où laisser la remorque pendant qu’un autre parle d’une chaise cassée.
+- Élvire commence un prénom sur le registre et perd la suite de la première question.
+
+### Un relais permet de changer de rythme
+
+Une répartition déjà convenue peut réduire la charge et laisser une possibilité de revenir.
+
+**Exemples concrets**
+
+- Sonia reprend le registre et Salim peut traiter la question de la remorque.
+- Élvire revient pour la lampe et reprend l’inscription à la ligne suivante.
+
+## 3 techniques pour utiliser un relais quand l’accueil devient trop chargé
+
+### 1. Orienter une demande à la fois
+
+Réduire les interruptions au point d’accueil.
+
+**Exercice pratique**
+
+- Indiquez à chacun le poste correspondant à sa demande.
+- Demandez à une personne de reprendre la question qu’elle n’a pas pu finir.
+- Terminez une inscription avant d’en ouvrir une autre quand l’organisation le permet.
+
+L’accueil peut retrouver un ordre compréhensible pour les visiteurs et l’équipe.
+
+### 2. Passer la tâche et annoncer une pause
+
+Garder la continuité de l’activité sans rester seul devant plusieurs sollicitations.
+
+**Exercice pratique**
+
+- Utilisez le signal convenu pour le relais.
+- Dites à quel point vous laissez la tâche.
+- Précisez quand vous pensez faire le point avant de reprendre, si vous le souhaitez.
+
+Le collègue dispose d’un point de départ et la reprise reste un choix.
+
+### 3. Vérifier ce qui s’est passé pendant l’absence
+
+Retrouver le fil sans devoir reconstituer toute la matinée.
+
+**Exercice pratique**
+
+- Demandez quels visiteurs ou objets ont déjà été pris en charge.
+- Repérez la prochaine ligne ou la question encore ouverte.
+- Reprenez une tâche si elle vous paraît possible et gardez le reste réparti.
+
+La reprise peut se faire sur une information claire plutôt que sur tout ce qui a eu lieu.
 
 ## La lampe revient par le bon passage
 
 Quand Élvire revient, Sonia lui indique que le bureau est dans la zone d’attente et que Salim s’occupe de la remorque. La femme à la lampe arrive. Élvire la reconnaît au moment où elle passe devant le dessin et lui propose de s’approcher de la table. Elle prend le temps de lui demander si le fil est encore fixé. La femme dit qu’elle l’a attaché pour que personne ne trébuche. Élvire inscrit la lampe sur la ligne suivante et laisse Sonia vérifier où elle va. À la fin de la matinée, l’équipe décide d’évaluer l’essai avant de proposer un autre samedi.
+
+---
+
+**Conclusion**
+
+Élvire retrouve la visiteuse et inscrit la lampe après avoir laissé Sonia reprendre le registre. Le relais a répondu à la difficulté née des arrivées simultanées. La réussite de l’accueil tient aussi à ce passage de main, que l’équipe pourra examiner avant de refaire un samedi.

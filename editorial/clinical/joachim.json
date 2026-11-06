@@ -27,17 +27,73 @@
         {
           "role": "explanation",
           "heading": "Ce que plusieurs lieux peuvent avoir en commun",
-          "text": "L’agoraphobie concerne la peur marquée de plusieurs situations où s’éloigner ou obtenir de l’aide semblerait difficile en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma et un trajet loin de chez soi peuvent ainsi susciter une peur semblable malgré leurs différences. Le scénario redouté et les conditions du lieu comptent autant que son nom."
+          "text": "Dans l’agoraphobie, plusieurs situations peuvent susciter une peur marquée parce qu’il semblerait difficile de s’en éloigner ou d’obtenir de l’aide en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma ou un trajet loin de chez soi peuvent alors poser une question semblable malgré leurs différences. À l’arrêt, Joachim imagine moins le trajet vers le panneau que ce qui lui arriverait s’il se sentait mal au retour."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le cas de Joachim, le bus qu’il s’apprête à prendre est presque vide. Le retour lui paraît déjà difficile parce qu’il imagine qu’au moment où il aurait besoin de sortir, l’allée serait occupée.\n\nUn professionnel regarde la durée, la répétition et les effets de la difficulté dans la vie de la personne. Rater un bus un matin peut avoir bien des explications. Chez Joachim, la crainte qu’il décrit a aussi affecté ses rendez-vous, ses courses et les moments passés avec sa fille. C’est au cours de son suivi, bien avant ce samedi, que le diagnostic a pris place."
+          "heading": "Comment la crainte de rester coincé apparaît-elle dans des lieux différents ?",
+          "points": [
+            {
+              "heading": "L’aller et le retour ne posent pas la même question",
+              "text": "La personne peut avoir envie de se rendre quelque part et craindre de ne plus savoir comment en revenir.",
+              "examples": [
+                "Joachim a choisi son objectif pour photographier le panneau, puis renonce à monter en pensant au retour.",
+                "Quelqu’un peut apprécier la destination d’une visite et hésiter surtout à l’idée de rentrer à une heure où il y a moins de passages."
+              ]
+            },
+            {
+              "heading": "Des lieux différents évoquent la même difficulté",
+              "text": "L’agencement du lieu compte parce qu’il change la façon dont on s’imagine pouvoir partir ou être aidé.",
+              "examples": [
+                "Au cinéma, une personne peut redouter de demander à plusieurs spectateurs de se lever si elle se sent mal.",
+                "Dans une file, elle peut craindre de devoir traverser le groupe pour s’éloigner."
+              ]
+            },
+            {
+              "heading": "Une activité proche peut rester accessible",
+              "text": "La difficulté varie avec ce que la personne anticipe, même pour des activités qu’elle apprécie toutes les deux.",
+              "examples": [
+                "Joachim ne monte pas dans le bus mais s’arrête photographier la plaque près de chez lui.",
+                "Il peut retrouver Diego au café familier à deux rues de chez eux alors que le panneau des Aulnes reste en suspens."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre les mots de la situation",
-          "text": "« Tu veux rester sur le banc ? » est une question à laquelle Joachim peut répondre sans expliquer toute son histoire. Il sait qu’il préfère regarder le départ suivant depuis l’arrêt. En consultation, il pourra détailler la crainte qui est revenue. Il a imaginé devoir descendre et ne pas réussir à se faire entendre. Une formule générale comme « j’ai peur du bus » risquerait de faire disparaître ce détail. Il pourra également dire ce à quoi il tenait dans la sortie. Le panneau, sa visibilité et le plaisir de cadrer l’image expliquent pourquoi cette annulation lui coûte quelque chose.\n\nDiego peut décider s’il a encore envie d’aller aux Aulnes aujourd’hui. La carte comporte des tâches que chacun peut choisir. Leur projet commun permet de se revoir autour d’une décision concrète, sans que l’un ait à convaincre l’autre que le trajet est facile."
+          "heading": "3 techniques pour décrire ce qui rend la sortie difficile à envisager",
+          "points": [
+            {
+              "heading": "Mettre des mots sur le scénario redouté",
+              "objective": "Préciser le point commun de plusieurs situations pour en parler au professionnel.",
+              "exercise": [
+                "Choisissez un trajet ou un lieu qui vous a occupé récemment.",
+                "Décrivez ce que vous redoutiez et ce qui vous semblait difficile si cela arrivait.",
+                "Apportez cet exemple au suivi avec un autre contexte où la même question s’est posée."
+              ],
+              "benefit": "L’équipe peut entendre ce qui vous inquiète au-delà du nom du lieu."
+            },
+            {
+              "heading": "Dire sa décision avant de se séparer",
+              "objective": "Laisser au partenaire de sortie la possibilité de poursuivre ou de changer son projet.",
+              "exercise": [
+                "Dites quelle partie du trajet vous ne souhaitez pas faire aujourd’hui.",
+                "Précisez si vous voulez rester un moment ou repartir.",
+                "Laissez l’autre décider de sa propre sortie."
+              ],
+              "benefit": "L’accord peut rester simple même lorsque les deux personnes prennent des directions différentes."
+            },
+            {
+              "heading": "Choisir une tâche de proximité",
+              "objective": "Garder une part utile d’un projet sans transformer la sortie en épreuve.",
+              "exercise": [
+                "Repérez ce qui peut avancer depuis un lieu familier.",
+                "Choisissez un détail à relever ou à transmettre.",
+                "Laissez la décision sur le trajet redouté pour le moment prévu avec le professionnel."
+              ],
+              "benefit": "Le projet peut avancer à sa façon et le travail sur la peur garder un cadre choisi."
+            }
+          ]
         }
       ],
       "ending_title": "La photo qui attend",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Joachim reste à l’arrêt, laisse la photo des Aulnes en suspens et photographie le début de la promenade près de l’atelier.",
         "next": "Diego poursuit le repérage et Joachim reprend la photo du point de départ lors de leur prochain échange sur la carte."
-      }
+      },
+      "conclusion": "Le bus part sans Joachim et il rentre par le début de la future carte. La photo de la plaque donne une suite au projet. Le panneau des Aulnes reste à revoir, et la crainte du retour explique pourquoi cette partie demandait un autre choix."
     },
     {
       "number": 2,
@@ -73,17 +130,73 @@
         {
           "role": "explanation",
           "heading": "Une peur qui commence avant la situation",
-          "text": "L’anxiété d’anticipation peut accompagner l’agoraphobie. La personne pense à une situation future et imagine ce qui arriverait si elle devait sortir ou trouver de l’aide. Une vérification peut donner une information utile, par exemple l’heure de fermeture d’un service."
+          "text": "Dans l’agoraphobie, l’anxiété peut commencer avant d’arriver dans le lieu redouté. La personne imagine ce qui se passerait si elle devait s’éloigner ou demander de l’aide. Vérifier un horaire peut donner une information utile, puis la même question peut continuer à revenir sans information nouvelle. En écoutant Ana, Joachim se rend compte que la sortie du lendemain prend déjà une partie de leur dîner."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim a déjà cette information quand il reprend son téléphone. Il repasse surtout des variantes de ce qui pourrait le coincer le lendemain. Pendant ces minutes, sa fille lui parle d’un événement important pour elle. La conversation perd en disponibilité alors qu’il est chez lui et que le déplacement reste incertain.\n\nCet effet aide à comprendre le retentissement de l’agoraphobie. Il y a les sorties que quelqu’un annule. Il y a aussi celles qu’il fait avec beaucoup d’effort et celles qui mobilisent du temps pendant les jours qui précèdent. Un proche peut voir un agenda à peu près rempli et ignorer la place que ces préparatifs ont prise."
+          "heading": "Comment une sortie du lendemain peut-elle occuper la soirée ?",
+          "points": [
+            {
+              "heading": "Préparer apporte une réponse concrète",
+              "text": "Une information horaire ou un point de rendez-vous peut répondre à une vraie question pratique.",
+              "examples": [
+                "Joachim veut savoir comment rejoindre Diego après ses courses.",
+                "Deux personnes peuvent décider d’un lieu où se retrouver si l’une vient à pied."
+              ]
+            },
+            {
+              "heading": "La vérification revient malgré la réponse",
+              "text": "La préoccupation peut se prolonger après qu’une information utile a été trouvée.",
+              "examples": [
+                "Joachim ouvre de nouveau l’image de l’horaire quand un avis de colis fait vibrer son téléphone.",
+                "Une personne peut rouvrir le même plan plusieurs fois après avoir déjà trouvé l’heure et l’arrêt."
+              ]
+            },
+            {
+              "heading": "La soirée présente perd un détail",
+              "text": "L’attention retenue par la sortie du lendemain peut laisser échapper ce que quelqu’un dit aujourd’hui.",
+              "examples": [
+                "Ana se met à parler plus vite pendant que Joachim regarde son écran.",
+                "Quand elle reprend l’histoire de la clé, Joachim découvre qu’il avait compris l’inverse."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qui doit être décidé ce soir",
-          "text": "Ana demande à Joachim s’il lui reste une décision pratique à prendre. Il voudrait avertir Diego de l’endroit où il pense le rejoindre et savoir s’ils parleront de la carte après le repérage. Il peut envoyer ce message une fois le dîner terminé. La suite des horaires a une autre fonction pour lui. Il essaie d’obtenir l’assurance qu’une sortie ne sera jamais difficile. Cette assurance dépasse ce que le tableau du bus peut lui dire. Il décide de reparler de cette soirée avec Louise, sa psychologue. Il veut lui décrire le moment où il a perdu le fil du récit d’Ana.\n\nLa décision de ce soir appartient à Joachim. Il choisit d’inviter Ana à reprendre sa phrase. Elle peut lui dire si elle a envie de la raconter à nouveau. Le lendemain, ils pourront chacun poursuivre les projets qui les occupent, y compris si le repérage change encore de forme."
+          "heading": "3 techniques pour retrouver le fil d’une soirée prise par l’anticipation",
+          "points": [
+            {
+              "heading": "Distinguer la question résolue de celle qui revient",
+              "objective": "Clarifier ce qui reste à organiser avant une sortie.",
+              "exercise": [
+                "Notez l’information pratique qui vous manque.",
+                "Relevez la réponse et le moment où elle pourrait réellement changer.",
+                "Si l’inquiétude revient avec la même question, gardez cet exemple pour le suivi."
+              ],
+              "benefit": "Vous disposez d’un repère pratique et d’un exemple de ce que l’anticipation vous coûte."
+            },
+            {
+              "heading": "Demander de reprendre une phrase",
+              "objective": "Revenir à une conversation qui vous intéresse.",
+              "exercise": [
+                "Dites à la personne que votre attention est partie vers autre chose.",
+                "Demandez-lui à quel point elle peut reprendre son récit.",
+                "Choisissez ensemble de continuer maintenant ou de reprendre à un autre moment."
+              ],
+              "benefit": "L’échange peut retrouver son fil sans que le proche doive résoudre le trajet."
+            },
+            {
+              "heading": "Donner un rendez-vous révisable",
+              "objective": "Laisser une place au projet sans passer toute la soirée à le régler.",
+              "exercise": [
+                "Choisissez un lieu ou une heure que vous pouvez proposer.",
+                "Dites quel détail demande encore confirmation.",
+                "Indiquez quand vous ferez le point."
+              ],
+              "benefit": "La prochaine décision est datée et vous pouvez revenir à ce que vous faisiez."
+            }
+          ]
         }
       ],
       "ending_title": "Un message après le dîner",
@@ -98,7 +211,8 @@
       "continuity": {
         "choice": "Joachim reprend le dîner avec Ana et convient avec Diego d’un repérage près du lavoir à confirmer après le marché.",
         "next": "Au marché, Joachim découvre l’effort nécessaire pour rejoindre un étal qu’il connaît pourtant bien."
-      }
+      },
+      "conclusion": "Joachim repose le téléphone et entend enfin pourquoi Ana a trouvé la clé sur son bureau. Il peut proposer le lavoir à Diego avec un moment pour confirmer. Le trajet occupe encore ses pensées, et le dîner montre à quel point cette inquiétude peut commencer tôt."
     },
     {
       "number": 3,
@@ -122,13 +236,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim aurait aimé rester client de cet étal qu’il connaît bien. Il voudrait aussi avoir une matinée qui puisse contenir plusieurs choses. Le repas et le repérage ne perdent pas leur valeur parce qu’il s’est éloigné de la file. Les conséquences de son choix se voient à distance de l’étal, quand la préparation du déjeuner et la façon de rejoindre Diego doivent être revues."
+          "heading": "Comment l’évitement peut-il soulager tout en coûtant quelque chose ?",
+          "points": [
+            {
+              "heading": "Le répit est réel",
+              "text": "S’éloigner d’une situation redoutée peut faire baisser la tension sur le moment.",
+              "examples": [
+                "Joachim quitte la file du marché et retrouve une rue dont il connaît les volets.",
+                "Une personne peut retrouver du calme dès qu’elle rejoint le trottoir après avoir quitté un bus."
+              ]
+            },
+            {
+              "heading": "Une tâche est laissée sur place",
+              "text": "Le soulagement peut être suivi d’une conséquence qui concerne une activité ou quelqu’un d’autre.",
+              "examples": [
+                "Joachim n’a pas acheté les sardines qu’il devait préparer avec Ana.",
+                "Il doit lui écrire pour qu’ils puissent décider quoi faire du déjeuner."
+              ]
+            },
+            {
+              "heading": "La perspective de refaire le trajet change",
+              "text": "Le départ peut devenir ce que la personne attend pour retrouver du calme lors d’une prochaine sortie.",
+              "examples": [
+                "Joachim pourra parler à Louise de ce qui l’a fait quitter la file et de ce qu’il a ressenti ensuite.",
+                "Une personne peut repousser d’autres courses en pensant au répit que lui avait donné le premier départ."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le choix de la suite de sa journée",
-          "text": "Le chariot touchait presque la chaussure de Joachim, et demander de l’espace est une réponse ordinaire à cette situation. La peur qu’il a décrite portait également sur un malaise possible et le temps qu’il lui faudrait pour sortir du rang. Il pourra raconter les deux aspects à Louise. Ils donnent une image plus précise que le seul mot « marché ». Le suivi peut s’appuyer sur cet exemple sans que le voisin ou la famille organise un retour imprévu à l’étal.\n\nLe déjeuner peut changer. Ana lui propose de faire les pommes de terre avec ce qu’il a déjà chez lui et de choisir une autre fois le poisson ensemble. Il décide de voir Diego à l’endroit convenu. Marcher jusqu’au lavoir lui semble encore possible. Il est venu prendre des photos et il peut décider de ce qu’il fait après cette file, au lieu de laisser toutes les décisions de la matinée suspendues à l’achat des sardines."
+          "heading": "3 techniques pour revenir sur un départ qui a soulagé",
+          "points": [
+            {
+              "heading": "Décrire le soulagement et son coût",
+              "objective": "Préparer un exemple pour le suivi.",
+              "exercise": [
+                "Racontez la situation juste avant votre départ.",
+                "Décrivez ce qui s’est apaisé dans les minutes suivantes.",
+                "Ajoutez ce qui est resté à régler et présentez ces faits au professionnel."
+              ],
+              "benefit": "L’entretien peut examiner ce que l’évitement a permis sur le moment et ce qu’il a changé ensuite."
+            },
+            {
+              "heading": "Prévenir la personne qui attend",
+              "objective": "Remettre en commun une décision devenue nécessaire.",
+              "exercise": [
+                "Dites ce que vous n’avez pas pu faire.",
+                "Proposez une autre façon d’organiser la suite immédiate.",
+                "Vérifiez ce que l’autre veut et peut encore faire."
+              ],
+              "benefit": "Le rendez-vous peut s’ajuster à partir d’une information suffisante."
+            },
+            {
+              "heading": "Discuter de la boucle en consultation",
+              "objective": "Choisir avec le professionnel le point à travailler.",
+              "exercise": [
+                "Repérez une situation où cette réponse tend à revenir.",
+                "Dites ce que vous souhaiteriez retrouver dans cette activité.",
+                "Demandez quel travail pourrait convenir et à quelles conditions."
+              ],
+              "benefit": "Le travail sur la peur peut partir d’un objectif choisi plutôt que d’une consigne à exécuter seul."
+            }
+          ]
         }
       ],
       "ending_title": "Au lavoir, la sortie tient encore",
@@ -144,7 +314,8 @@
       "continuity": {
         "choice": "Joachim quitte le marché, modifie le repas avec Ana et fait le relevé du carrefour du lavoir avec Diego.",
         "next": "La carte comporte maintenant une bifurcation à préciser, et Joachim reprend avec Ana l’invitation au cinéma."
-      }
+      },
+      "conclusion": "Au lavoir, Joachim peut encore photographier la bifurcation après avoir quitté le marché. Le soulagement dans la rue et le changement de déjeuner ont tous deux compté. Leur ordre donne à Louise un exemple concret de ce que ce départ a changé."
     },
     {
       "number": 4,
@@ -168,13 +339,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "En consultation, Joachim pourra reprendre l’ordre des événements. Il réfléchissait à la sortie avant de sentir son cœur cogner. Le groupe est arrivé et un passage qu’il pensait facile lui a paru moins praticable. Une personne a déplacé son sac quand il a parlé. Ces détails renseignent sur la peur, les sensations et ce qui s’est réellement passé."
+          "heading": "Comment une montée de panique peut-elle se mêler à la peur de ne pas pouvoir sortir ?",
+          "points": [
+            {
+              "heading": "Le corps prend beaucoup de place",
+              "text": "Des sensations intenses peuvent surgir au milieu d’une activité que l’on voulait suivre.",
+              "examples": [
+                "Joachim s’intéresse au film avant de se trouver occupé par ce qu’il ressent.",
+                "Une personne peut sentir son cœur battre très vite dans un lieu qu’elle redoutait déjà."
+              ]
+            },
+            {
+              "heading": "Sortir devient une question immédiate",
+              "text": "Lorsque les sensations montent, la personne peut se mettre à chercher comment demander le passage ou recevoir de l’aide.",
+              "examples": [
+                "Au cinéma, Joachim voit des spectateurs et un sac entre lui et l’allée.",
+                "Il demande de la place et une personne ramasse le sac."
+              ]
+            },
+            {
+              "heading": "Une seule scène ne résume pas le tableau",
+              "text": "L’évaluation regarde où les épisodes surviennent, ce qui était attendu et ce que la personne change ensuite.",
+              "examples": [
+                "Joachim note la scène du cinéma pour Louise avec le détail du passage.",
+                "Une personne qui connaît aussi des épisodes répétés et inattendus peut décrire ces autres circonstances au professionnel."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’entendre à l’avance sur la suite",
-          "text": "Joachim et Ana avaient discuté du film et de ce qu’ils feraient si l’un voulait partir. Cela permet à Ana de regarder la suite et à Joachim de prendre quelques minutes dans le hall. Il n’a pas à dire tout de suite comment appeler ce qu’il vient de vivre. Plus tard, ils peuvent parler à la fois du film et du moment où il est sorti. Ils ont chacun vu une partie différente de la même soirée.\n\nPour Louise, l’intérêt de cette scène tient aussi à la question que Joachim se posait. Il voulait pouvoir demander le passage si la peur devenait trop forte. La réponse des personnes dans l’allée et la durée de son inconfort sont des éléments qu’il a observés. Il pourra les apporter au rendez-vous sans essayer de trancher lui-même ce qui relève de l’agoraphobie, des symptômes physiques ou d’un autre trouble. Cette précision laisse de la place à l’évaluation professionnelle."
+          "heading": "3 techniques pour préparer la suite après une forte montée d’anxiété",
+          "points": [
+            {
+              "heading": "Préciser ce qui s’est passé sur le moment",
+              "objective": "Préparer un récit qui aide à situer les sensations et leur contexte.",
+              "exercise": [
+                "Notez où vous étiez et ce que vous redoutiez déjà avant la montée.",
+                "Décrivez ce que vous avez ressenti et ce qui s’est passé ensuite.",
+                "Demandez au professionnel comment comprendre ces éléments et comment faire évaluer des symptômes inhabituels."
+              ],
+              "benefit": "Les sensations peuvent être examinées sans attribuer automatiquement tout changement à l’anxiété."
+            },
+            {
+              "heading": "Préparer une phrase pour demander le passage",
+              "objective": "Pouvoir demander un geste simple sans détailler sa santé.",
+              "exercise": [
+                "Choisissez des mots que vous pourriez dire à un voisin de rang.",
+                "Dites à la personne qui vous accompagne si vous voulez qu’elle reste ou qu’elle vienne, selon le moment.",
+                "Revenez sur cet accord avec elle après la sortie."
+              ],
+              "benefit": "Le proche connaît le rôle souhaité et la personne garde une façon de demander de la place."
+            },
+            {
+              "heading": "Choisir la suite une fois à l’écart",
+              "objective": "Retrouver une décision compatible avec ce dont vous avez besoin.",
+              "exercise": [
+                "Dites à la personne avec vous où vous êtes si cela vous aide.",
+                "Choisissez si vous souhaitez attendre, rentrer ou demander un avis selon la situation.",
+                "Décrivez plus tard au professionnel la décision et ce qui l’a rendue possible."
+              ],
+              "benefit": "Le fait de quitter une salle donne une information sans imposer d’y revenir."
+            }
+          ]
         }
       ],
       "ending_title": "Deux souvenirs de la même séance",
@@ -189,7 +416,8 @@
       "continuity": {
         "choice": "Joachim quitte la salle, attend Ana dans le hall et note ce qu’il veut raconter à Louise sur le passage et sa peur.",
         "next": "À la bibliothèque, il retrouve une crainte proche dans un lieu dont la configuration est tout autre."
-      }
+      },
+      "conclusion": "Joachim reste dans le hall jusqu’au générique et retrouve Ana pour le retour. Il se souvient autant de l’aide obtenue que de la montée d’anxiété. La scène ne suffit pas à nommer un autre trouble, mais elle montre ce qu’il redoutait dans cette salle."
     },
     {
       "number": 5,
@@ -213,13 +441,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim parle à Louise de sa propre manière d’imaginer un malaise dans la cabine. La même inquiétude se retrouve à l’extérieur, dans la file ou quand il pense au bus du retour. L’escalier lui permet ce jour-là d’accéder aux archives. Le diagnostic a été posé en tenant compte de plusieurs situations et de leurs conséquences dans sa vie. Cette scène aide surtout à préciser le suivi."
+          "heading": "Comment le sens de la peur varie-t-il devant un même ascenseur ?",
+          "points": [
+            {
+              "heading": "Le même lieu peut évoquer plusieurs peurs",
+              "text": "Le nom d’un endroit renseigne peu sans ce que la personne craint d’y vivre.",
+              "examples": [
+                "Devant l’ascenseur, Joachim se demande comment il partirait s’il se sentait mal.",
+                "Une personne peut redouter surtout l’espace clos de la cabine, même si elle ne craint pas de se sentir mal dans d’autres endroits."
+              ]
+            },
+            {
+              "heading": "Une question peut revenir hors de cet endroit",
+              "text": "L’agoraphobie peut relier des situations différentes lorsque le départ ou l’aide y semblent difficiles.",
+              "examples": [
+                "Joachim retrouve la question du passage au cinéma quand il raconte l’ascenseur.",
+                "Il se souvient aussi d’avoir cherché comment sortir de la file au marché."
+              ]
+            },
+            {
+              "heading": "Les façons de répondre à la peur varient",
+              "text": "Changer de chemin peut permettre d’atteindre le but et, ailleurs, partir peut amener à y renoncer.",
+              "examples": [
+                "Joachim accède aux plans de la bibliothèque par une autre voie.",
+                "Au marché, il est reparti sans les sardines qu’il venait acheter."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décrire les choix qui ont vraiment eu lieu",
-          "text": "Louise demande ce que Joachim a trouvé en montant. Un registre récent nomme correctement la rue, et la photographie ancienne situe le premier panneau à quelques mètres de l’endroit qu’ils avaient retenu. L’agent lui a donné la cote pour que Martine puisse vérifier l’information. Le rendez-vous de Joachim avait donc deux objets. Il est venu comprendre la difficulté rencontrée dans le hall et il a mené une recherche dont il est satisfait.\n\nPour une consultation, il peut être utile de raconter ce qu’on a continué à faire, ce qu’on a changé et ce à quoi on a renoncé. Joachim avait surtout préparé le récit de la montée d’anxiété. Dire qu’il est resté assez longtemps pour trouver le nom de la rue rend visible un aspect différent de sa journée. Louise peut ainsi lui demander à quels déplacements il voudrait consacrer son travail plutôt que de supposer que l’ascenseur des archives doit passer en premier."
+          "heading": "3 techniques pour décrire la difficulté qui revient d’un lieu à l’autre",
+          "points": [
+            {
+              "heading": "Formuler ce qui est redouté",
+              "objective": "Faire comprendre la peur au-delà du nom de l’endroit.",
+              "exercise": [
+                "Choisissez une situation précise et nommez ce que vous craigniez qu’il arrive.",
+                "Ajoutez ce que vous pensiez pouvoir faire si cela se produisait.",
+                "Présentez ces mots au professionnel plutôt que de choisir vous-même une étiquette."
+              ],
+              "benefit": "Le bilan peut partir de l’objet de la peur et de la difficulté qui revient."
+            },
+            {
+              "heading": "Comparer deux réactions concrètes",
+              "objective": "Décrire les effets différents d’une crainte qui se ressemble.",
+              "exercise": [
+                "Relevez un moment où vous avez trouvé un autre chemin.",
+                "Choisissez un moment où vous avez renoncé à ce que vous vouliez faire.",
+                "Dites au professionnel ce que chacun a changé dans votre journée."
+              ],
+              "benefit": "Les exemples éclairent les décisions prises et leur retentissement."
+            },
+            {
+              "heading": "Garder l’information obtenue",
+              "objective": "Retenir ce que vous êtes venu faire en laissant la question clinique ouverte.",
+              "exercise": [
+                "Notez le résultat de la démarche que vous avez pu mener.",
+                "Fixez la prochaine tâche utile au projet.",
+                "Laissez pour le suivi les questions sur le trajet ou le lieu redouté."
+              ],
+              "benefit": "Le travail réalisé garde sa valeur sans décider du sens de la peur."
+            }
+          ]
         }
       ],
       "ending_title": "La rue sur le plan",
@@ -234,7 +518,8 @@
       "continuity": {
         "choice": "Joachim prend l’escalier, vérifie la rue et décrit à Louise le scénario qu’il retrouve dans plusieurs lieux.",
         "next": "Le nom de rue est confirmé. Joachim propose à Diego de discuter de l’accompagnement avant un nouveau passage au lavoir."
-      }
+      },
+      "conclusion": "Joachim écrit le nom de la rue sur l’épreuve et laisse l’ascenseur en suspens. En rapprochant la bibliothèque, le cinéma et le marché avec Louise, il a pu dire quelle question revenait. C’est cette crainte d’avoir du mal à partir ou à être aidé qui relie ses exemples."
     },
     {
       "number": 6,
@@ -258,13 +543,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim a choisi de parler de son agoraphobie à Diego et il préfère répondre à Samia comme contributeur de la carte. Cette différence lui importe. Être disponible pour le retour donne à Diego un rôle concret. Parler de la difficulté à sa place touche à un autre choix, celui des informations qui circulent. Les deux voisins peuvent corriger leur accord en s’appuyant sur ce qu’ils viennent de voir."
+          "heading": "Comment un accompagnement change-t-il la sortie tout en laissant une marge de choix ?",
+          "points": [
+            {
+              "heading": "La présence rend un projet envisageable",
+              "text": "Savoir qu’un proche sera disponible peut aider à entrer dans une situation redoutée.",
+              "examples": [
+                "Joachim propose le lavoir à Diego et envisage de photographier aussi le virage.",
+                "Savoir qu’ils peuvent repartir ensemble lui laisse le temps de regarder le nom de la rue."
+              ]
+            },
+            {
+              "heading": "L’aide peut dépasser la demande",
+              "text": "Une personne accompagnée peut avoir besoin d’un appui pour se déplacer et vouloir parler pour elle-même.",
+              "examples": [
+                "Diego répond trop vite pendant l’échange avec Samia.",
+                "Joachim lui demande ensuite de lui laisser le temps de formuler sa propre réponse."
+              ]
+            },
+            {
+              "heading": "Le proche a lui aussi un horaire",
+              "text": "Un accord utile tient compte de ce que chacun peut faire et du droit de revoir la sortie.",
+              "examples": [
+                "Diego doit rejoindre sa fille à midi.",
+                "Joachim annonce lui-même le demi-tour et ils rentrent à temps pour le rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder deux projets dans la même sortie",
-          "text": "Diego voudrait mesurer le passage et Joachim voudrait comparer les photos du virage. Ils peuvent se proposer l’un à l’autre des choses qu’ils auraient plaisir à faire, puis convenir d’un point où ils se séparent. Sur ce trajet, Joachim préfère rentrer avec Diego et a fixé le retour assez tôt pour qu’il puisse rejoindre sa fille. Samia peut leur demander un relevé à un autre moment.\n\nQuand la place de l’accompagnement change d’une sortie à l’autre, ce changement peut être décrit en consultation. Louise pourra demander à Joachim dans quelles situations il tient à être accompagné, ce que cela lui permet de faire et ce qu’il souhaite éventuellement aborder autrement. La présence de Diego au lavoir fait partie de leur organisation du jour. La façon d’aborder la peur sur le long terme relève du suivi et de ce que Joachim veut y travailler."
+          "heading": "3 techniques pour convenir d’une présence utile pour les deux personnes",
+          "points": [
+            {
+              "heading": "Définir l’aide avant de partir",
+              "objective": "Donner à la présence du proche une fonction précise.",
+              "exercise": [
+                "Dites quelle partie du trajet vous voulez partager.",
+                "Précisez le geste qui vous aiderait si vous souhaitez repartir.",
+                "Demandez au proche jusqu’à quelle heure il est disponible."
+              ],
+              "benefit": "Le projet peut tenir compte du choix et des limites de chacun."
+            },
+            {
+              "heading": "Reprendre la parole après une réponse donnée pour vous",
+              "objective": "Ajuster un appui sans renoncer à l’accompagnement choisi.",
+              "exercise": [
+                "Décrivez au proche le moment où il a répondu.",
+                "Dites quel temps ou quel geste vous aurait aidé.",
+                "Vérifiez comment vous voulez faire la prochaine fois."
+              ],
+              "benefit": "La personne peut être soutenue dans le trajet et garder la parole dans l’échange."
+            },
+            {
+              "heading": "Faire le point en fin de sortie",
+              "objective": "Décider quel rôle garder lors d’une autre occasion.",
+              "exercise": [
+                "Relevez ce qui a été possible grâce à l’accord.",
+                "Demandez au proche comment il a vécu la sortie.",
+                "Reprenez avec le professionnel la place de cet appui si elle compte dans le suivi."
+              ],
+              "benefit": "La présence peut être révisée à partir de l’expérience des deux personnes."
+            }
+          ]
         }
       ],
       "ending_title": "Revenir à l’heure convenue",
@@ -279,7 +620,8 @@
       "continuity": {
         "choice": "Joachim demande à Diego de rester disponible pour le retour et de lui laisser les échanges qui le concernent.",
         "next": "Samia apporte son regard sur le passage du verger et ils distinguent ensemble les obstacles observés des hypothèses."
-      }
+      },
+      "conclusion": "Joachim choisit le virage, la photo et l’heure du demi-tour avec Diego. Il a aussi dit comment il voulait répondre à Samia. La présence de son voisin l’aide à envisager la sortie et prend une forme qu’ils peuvent ajuster ensemble."
     },
     {
       "number": 7,
@@ -303,13 +645,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim entend cette difficulté et décrit aussi une autre crainte. Il pense à l’aide qui manquerait derrière la grille. Il retrouve cette pensée sur des surfaces qu’il sait praticables, dans le bus ou au cinéma. Dans son suivi, les deux éléments peuvent être décrits ensemble. La peur qu’il éprouve dans plusieurs contextes ne retire rien aux difficultés matérielles du sentier ni à l’expérience de Samia."
+          "heading": "Comment distinguer un obstacle de terrain de la peur qui l’accompagne ?",
+          "points": [
+            {
+              "heading": "Un obstacle se décrit avec ses conditions",
+              "text": "Un détail matériel peut limiter un trajet indépendamment de la peur que l’on éprouve.",
+              "examples": [
+                "La roue a creusé un sillon dans la terre après la pluie.",
+                "La pente après la grille change la façon dont Samia envisage le retour avec sa canne."
+              ]
+            },
+            {
+              "heading": "Les raisons d’un demi-tour peuvent différer",
+              "text": "Deux personnes qui prennent la même décision peuvent réagir à des contraintes différentes.",
+              "examples": [
+                "Samia veut pouvoir choisir un appui stable et décide ce qui lui convient.",
+                "Joachim s’interroge aussi sur la façon dont il pourrait s’éloigner ou demander de l’aide."
+              ]
+            },
+            {
+              "heading": "Une indication gagne à rester précise",
+              "text": "Un relevé décrit un état observé et laisse chaque personne décider selon ses besoins.",
+              "examples": [
+                "Joachim barre « praticable » et note la pente.",
+                "Les deux traits vers la rue restent au crayon jusqu’à ce que Diego puisse vérifier le raccord."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Apporter des détails qui servent à la décision",
-          "text": "Louise pourra demander à Joachim ce qu’il a observé sur place, ce qu’il a imaginé et ce que chacun a décidé. Il pourra lui montrer la photo du sillon, puis raconter une situation récente où il s’attendait à manquer d’aide sans avoir rencontré le même obstacle. Les deux récits permettent de parler de sa peur avec davantage de précision. La consultation peut s’intéresser aux effets de cette crainte tout en tenant compte des précautions utiles à un moment donné.\n\nPour le projet de carte, les trois promeneurs peuvent convenir d’un nouvel essai et choisir de ne pas publier une indication dont ils ne sont pas sûrs. Samia souhaite une description du sol et des places où s’arrêter. Elle propose de noter la position du banc depuis la rue avant de décider quel chemin emprunter. Cela aide Joachim à préciser ce qu’il voudrait prendre en photo lors de leur prochain passage."
+          "heading": "3 techniques pour décrire les accès et les inquiétudes dans leur contexte",
+          "points": [
+            {
+              "heading": "Décrire ce qui a été observé",
+              "objective": "Donner une information utilisable sans certifier un accès.",
+              "exercise": [
+                "Nommez le détail du terrain et son emplacement.",
+                "Ajoutez les conditions dans lesquelles vous l’avez vu.",
+                "Indiquez quelles variantes restent à vérifier."
+              ],
+              "benefit": "Les personnes peuvent faire un choix à partir de faits situés."
+            },
+            {
+              "heading": "Demander à chacun ce qui compte pour lui",
+              "objective": "Prendre en compte des besoins de déplacement différents.",
+              "exercise": [
+                "Laissez chaque personne préciser la difficulté qu’elle observe.",
+                "Présentez les possibilités qui sont vérifiées et dites ce qui reste inconnu.",
+                "Respectez sa décision de s’arrêter, de changer de trajet ou de reprendre plus tard."
+              ],
+              "benefit": "Le groupe n’a pas besoin d’une seule raison pour adapter sa sortie."
+            },
+            {
+              "heading": "Apporter les deux plans du problème",
+              "objective": "Permettre au suivi de tenir compte de la situation réelle.",
+              "exercise": [
+                "Notez le détail du lieu qui posait problème.",
+                "Décrivez séparément ce que vous imaginiez s’il vous fallait partir ou demander de l’aide.",
+                "Montrez les deux observations au professionnel."
+              ],
+              "benefit": "L’évaluation peut distinguer l’obstacle et le rôle éventuel de la peur."
+            }
+          ]
         }
       ],
       "ending_title": "Les deux indications au crayon",
@@ -324,7 +722,8 @@
       "continuity": {
         "choice": "Joachim et Samia renoncent à la branche détrempée, décrivent l’obstacle et proposent d’examiner une variante par la rue.",
         "next": "Joachim apporte le cas du verger à Louise et choisit avec elle le déplacement qu’il voudrait travailler."
-      }
+      },
+      "conclusion": "La pente remplace le mot « praticable » sur la carte et Samia garde la décision sur la variante. Joachim peut parler à Louise de la grille et du bus. Le demi-tour peut avoir plusieurs raisons, et la carte comme la consultation gagnent à savoir lesquelles."
     },
     {
       "number": 8,
@@ -348,13 +747,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim vient surtout avec une situation dont l’importance dépasse le trajet. Il souhaite retrouver du temps pour prendre ses photos, puis rentrer sans consacrer toute la veille à prévoir le pire. Ce but lui permet d’expliquer pourquoi le bus qui revient du lavoir l’intéresse davantage que l’ascenseur de la bibliothèque. Louise l’aide à examiner ce qu’il voudrait apprendre de cet essai."
+          "heading": "Comment un objectif de soin prend-il forme à partir d’un trajet choisi ?",
+          "points": [
+            {
+              "heading": "L’objectif vient d’une activité qui compte",
+              "text": "Le suivi peut partir d’un déplacement que la personne voudrait retrouver.",
+              "examples": [
+                "Joachim montre à Louise le banc et le trajet de retour près du lavoir.",
+                "Il garde le belvédère dans les idées et souhaite travailler d’abord sur un autre trajet."
+              ]
+            },
+            {
+              "heading": "Les attentes deviennent plus précises",
+              "text": "Dire ce qui paraît difficile peut orienter le travail convenu avec la professionnelle.",
+              "examples": [
+                "Joachim pense au moment où il voudrait demander un renseignement.",
+                "Il s’interroge aussi sur l’allée du bus si elle est occupée."
+              ]
+            },
+            {
+              "heading": "Le cadre reste révisable",
+              "text": "Le choix d’un objectif ne fixe pas à lui seul les modalités de la prochaine sortie.",
+              "examples": [
+                "Joachim veut pouvoir revoir leur accord en fonction de ce qu’il observe.",
+                "Diego propose de partager le début du prochain repérage et Joachim note leur accord."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’accorder sur la place de Diego",
-          "text": "Joachim pourra demander à Diego s’il est disponible pour une partie de la promenade. Diego peut répondre en fonction de son temps, de ses envies et de la carte. La décision sur le travail thérapeutique se discute avec Louise. Quand il la retrouve, Joachim peut raconter ce qui l’a surpris, ce qui l’a mis mal à l’aise et ce qu’il a choisi de faire. Un trajet qu’il n’a pas fait peut aussi donner une information sur le rythme ou sur la situation qu’il a retenue.\n\nJoachim choisit de garder le panneau des Aulnes pour plus tard. Il ne veut pas devoir terminer la photographie pour considérer que son rendez-vous de suivi a servi. Les deux décisions peuvent avancer séparément. L’association peut terminer une partie de la carte et Joachim peut continuer d’examiner le retour qu’il a choisi d’aborder avec sa psychologue."
+          "heading": "3 techniques pour discuter d’un objectif et d’un rythme avec sa psychologue",
+          "points": [
+            {
+              "heading": "Choisir un déplacement qui a un sens",
+              "objective": "Ancrer le travail clinique dans une activité que vous voulez retrouver.",
+              "exercise": [
+                "Dites où vous souhaiteriez pouvoir aller et pour quelle raison.",
+                "Décrivez le point qui vous semble difficile dans cette situation.",
+                "Demandez à votre professionnel quel objectif pourrait être abordé avec vous."
+              ],
+              "benefit": "Le suivi peut partir de votre vie et choisir le travail en fonction de votre situation."
+            },
+            {
+              "heading": "Clarifier le cadre avant un essai",
+              "objective": "Garder une décision partagée et révisable avec le professionnel.",
+              "exercise": [
+                "Demandez ce qui est prévu et comment les difficultés seront reprises.",
+                "Précisez les contraintes du lieu et vos préférences.",
+                "Convenez du moment où vous en reparlerez avant d’ajuster la suite."
+              ],
+              "benefit": "La personne sait ce qui relève de l’accord de soin sans avoir à improviser seule."
+            },
+            {
+              "heading": "Donner un rôle précis au proche",
+              "objective": "Associer un accompagnant si cela convient à chacun.",
+              "exercise": [
+                "Décidez avec le professionnel si une présence peut avoir sa place.",
+                "Décrivez au proche le rôle que vous souhaitez lui proposer.",
+                "Vérifiez ce qu’il accepte et notez le rendez-vous convenu."
+              ],
+              "benefit": "L’accompagnement peut servir un objectif précis tout en respectant les limites du proche."
+            }
+          ]
         }
       ],
       "ending_title": "Le travail choisi tient sur une ligne",
@@ -369,7 +824,8 @@
       "continuity": {
         "choice": "Joachim choisit avec Louise de travailler sur un retour qui compte pour lui. Diego accepte de partager le début de la sortie.",
         "next": "Après des trajets courts travaillés en suivi, un détour imprévu du bus change les conditions du déplacement suivant."
-      }
+      },
+      "conclusion": "Le retour près du lavoir devient un sujet choisi avec Louise et Diego propose une présence limitée. Le belvédère peut attendre. Joachim a défini une question qui l’intéresse et les conditions dans lesquelles il pourra revoir ce qu’il a convenu."
     },
     {
       "number": 9,
@@ -393,13 +849,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il se dit d’abord que ses précédents trajets n’ont servi à rien. Il peut pourtant dire qu’il a déjà pu descendre du bus, acheter du pain et rentrer. Ces faits gardent leur place à côté de ce qu’il a vécu aujourd’hui. Louise pourra s’intéresser au changement de parcours, à la colère et à la suite qu’il voudrait choisir."
+          "heading": "Comment un imprévu peut-il faire revenir une peur après deux trajets réussis ?",
+          "points": [
+            {
+              "heading": "Un repère connu disparaît",
+              "text": "Une nouvelle configuration peut changer la façon dont une personne imagine pouvoir partir ou obtenir de l’aide.",
+              "examples": [
+                "La correspondance n’est plus à l’endroit que Joachim avait préparé.",
+                "Le rond-point inconnu lui rend plus difficile d’imaginer comment demander de l’aide."
+              ]
+            },
+            {
+              "heading": "Le contraste peut susciter du découragement",
+              "text": "La peur du jour peut donner l’impression que les essais précédents ont perdu leur valeur.",
+              "examples": [
+                "Joachim regarde les deux photos du banc après deux trajets courts réalisés avec le cadre convenu.",
+                "Il a envie de jeter les images alors qu’elles montrent ce qu’il avait pu relever."
+              ]
+            },
+            {
+              "heading": "Un changement de programme reste descriptible",
+              "text": "La personne peut retenir ce qui a été différent et garder la possibilité de revenir sur le projet.",
+              "examples": [
+                "Joachim dit à Diego qu’il comptait venir et qu’il ne montera pas au belvédère aujourd’hui.",
+                "Il note la réponse qu’il n’a pas comprise pour en reparler avec Louise."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ce qui peut avancer aujourd’hui",
-          "text": "Joachim a reporté le belvédère. Avec Diego, il peut maintenant examiner le trajet par la rue du verger et mettre à jour la description de la bifurcation. Ils choisissent un objectif qui convient au travail de la carte. La photo que Diego avait prévu de prendre au belvédère peut rester une photo personnelle jusqu’à ce que tous deux décident s’ils veulent étendre la carte jusque-là. Le détour du bus n’a pas à fixer le contenu du plan pour tous les promeneurs.\n\nPour le suivi, Joachim préfère noter ce qu’il avait voulu faire et ce que l’annonce a changé. Il peut aussi dire ce qu’il éprouve en y repensant. Lors d’un prochain rendez-vous, il décidera avec Louise s’il souhaite reprendre la question des trajets modifiés ou s’occuper d’abord du déplacement qu’il avait choisi."
+          "heading": "3 techniques pour décrire la sortie qui a changé au dernier moment",
+          "points": [
+            {
+              "heading": "Relever le changement précis",
+              "objective": "Donner au suivi une information sur le contexte de la peur.",
+              "exercise": [
+                "Notez le repère attendu avant la sortie.",
+                "Décrivez ce que vous avez trouvé à la place et l’aide que vous avez cherchée.",
+                "Apportez au rendez-vous le détail qui vous a manqué."
+              ],
+              "benefit": "L’équipe peut discuter d’un changement concret plutôt que d’un échec global."
+            },
+            {
+              "heading": "Conserver une trace de deux sorties",
+              "objective": "Présenter les essais précédents et celui qui a coûté davantage.",
+              "exercise": [
+                "Gardez une photo ou une note de ce qui a été possible auparavant.",
+                "Ajoutez un détail différent dans la situation récente.",
+                "Discutez avec le professionnel de ce que les deux expériences permettent d’observer."
+              ],
+              "benefit": "Le bilan garde la trace de plusieurs situations réellement vécues."
+            },
+            {
+              "heading": "Dire ce qui est reporté",
+              "objective": "Réorganiser une sortie partagée lorsque le trajet change.",
+              "exercise": [
+                "Dites quelle partie vous ne souhaitez pas faire aujourd’hui.",
+                "Vérifiez si l’autre veut poursuivre ou si une autre contribution est utile.",
+                "Laissez le point en suspens jusqu’au moment où vous voudrez en reparler."
+              ],
+              "benefit": "Le report est clair et l’autre personne peut décider de sa propre sortie."
+            }
+          ]
         }
       ],
       "ending_title": "Le belvédère reste en suspens",
@@ -415,7 +927,8 @@
       "continuity": {
         "choice": "Joachim reporte le belvédère, garde les faits pour Louise et s’accorde avec Diego pour travailler sur la variante.",
         "next": "À l’atelier, ils finalisent la version à présenter à Martine. Elle leur demande comment chacun souhaite intervenir."
-      }
+      },
+      "conclusion": "Les deux images du banc restent dans le dossier et le rond-point entre dans le carnet. Joachim a changé de programme après un changement réel de trajet. Le retour de la peur donne un fait de plus à reprendre avec Louise, au côté des trajets déjà faits."
     },
     {
       "number": 10,
@@ -435,17 +948,73 @@
         {
           "role": "explanation",
           "heading": "Deux questions peuvent se poser dans la même salle",
-          "text": "Une personne peut avoir peur de se sentir mal et de devoir traverser une salle occupée. Une autre peut redouter d’être évaluée devant un public, même dans un lieu d’où elle pourrait sortir facilement. Les cliniciens s’intéressent à la crainte qui organise les décisions."
+          "text": "Dans l’agoraphobie, la crainte de se sentir mal et de devoir traverser une salle occupée peut peser sur la décision de participer à une réunion. D’autres craintes, comme être évalué en parlant devant le public, peuvent se manifester dans le même lieu et demandent à être comprises séparément. Joachim veut montrer une photo. Sa demande à Martine porte sur le passage qu’il pourrait emprunter s’il souhaitait s’éloigner."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Joachim, une question sur le banc ou le cadrage est la bienvenue. La perspective de se retrouver au bout de plusieurs rangées lorsqu’il voudrait demander à sortir suffit toutefois à le faire hésiter.\n\nIl peut avoir peur de ce que les gens penseront s’il quitte la salle et aussi vouloir protéger des informations personnelles. Les deux réactions peuvent exister à côté de son agoraphobie. Le rendez-vous avec Louise lui permet de revenir sur ce qu’il redoute et de distinguer cette crainte de la façon dont il souhaite être connu des personnes du quartier."
+          "heading": "Comment la crainte de devoir traverser une salle change-t-elle la façon de participer ?",
+          "points": [
+            {
+              "heading": "Le choix de place répond à une crainte précise",
+              "text": "La personne peut s’intéresser à la réunion et devoir réfléchir à sa possibilité de sortir.",
+              "examples": [
+                "Joachim veut montrer la photo du lavoir près du passage latéral.",
+                "Quelqu’un peut aimer expliquer son travail et hésiter surtout si des chaises rendent la sortie difficile."
+              ]
+            },
+            {
+              "heading": "L’aide demandée ne suppose pas un récit médical",
+              "text": "Un responsable peut examiner l’organisation de la salle à partir d’une demande pratique.",
+              "examples": [
+                "Joachim propose de regarder avec Martine où mettre la table.",
+                "Elle veut vérifier l’installation avant de lui répondre."
+              ]
+            },
+            {
+              "heading": "Une transmission de parole se prépare",
+              "text": "Répartir les contributions permet de savoir comment la discussion continuera en cas de pause.",
+              "examples": [
+                "Joachim choisit la photo qu’il veut commenter.",
+                "Diego connaît le signe qui lui indiquera qu’il peut prendre la suite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Formuler une demande qui permet de s’organiser",
-          "text": "Joachim choisit le détail que Martine peut utiliser. Il souhaite intervenir près du passage et partir quelques minutes si nécessaire. Martine peut examiner ce que cela implique pour la disposition de la salle, avec les besoins de circulation de tous. Joachim n’a pas besoin de s’engager à parler pendant toute la présentation pour participer au projet. Ils discutent d’une photo et d’une personne qui peut reprendre la parole si le programme change.\n\nCe qu’il en dit à Martine et ce qu’il en dit à Louise répondent à des buts différents. À Martine, il demande une organisation compatible avec sa présence. Avec Louise, il pourra examiner l’anticipation qui l’a occupé et les options qu’il voudrait travailler en suivi. Au moment de se séparer, il prévoit de dire à Diego seulement ce dont il a besoin de convenir avec lui pour la présentation."
+          "heading": "3 techniques pour préparer une place sans devoir raconter son suivi",
+          "points": [
+            {
+              "heading": "Décrire la disposition qui vous aiderait",
+              "objective": "Poser une demande claire à la personne responsable du lieu.",
+              "exercise": [
+                "Repérez le passage ou la place dont vous avez besoin.",
+                "Expliquez quel geste vous voulez pouvoir faire pendant la réunion.",
+                "Demandez au responsable de vérifier les possibilités avec vous."
+              ],
+              "benefit": "L’organisation peut prendre en compte la demande sans exiger d’explication de santé."
+            },
+            {
+              "heading": "Choisir ce que vous souhaitez dire",
+              "objective": "Garder la maîtrise de l’information personnelle.",
+              "exercise": [
+                "Préparez une phrase qui se limite au besoin pratique si cela vous convient.",
+                "Choisissez à qui parler et à quel moment.",
+                "Précisez ce que vous souhaitez garder entre vous."
+              ],
+              "benefit": "Vous pouvez demander un ajustement avec le niveau de détail que vous préférez."
+            },
+            {
+              "heading": "Répartir la prise de parole",
+              "objective": "Garder une contribution possible même si vous faites une pause.",
+              "exercise": [
+                "Choisissez votre partie de la présentation.",
+                "Convenez avec une personne de ce qu’elle peut reprendre.",
+                "Fixez un signe ou une phrase pour lui passer la parole."
+              ],
+              "benefit": "L’échange peut continuer et votre rôle reste défini."
+            }
+          ]
         }
       ],
       "ending_title": "Une photo qu’il choisit lui-même",
@@ -460,7 +1029,8 @@
       "continuity": {
         "choice": "Joachim demande à Martine d’intervenir près du passage latéral, choisit sa photo et propose un relais à Diego.",
         "next": "Lors de la présentation, la salle et les personnes qui arrivent mettent leur accord à l’épreuve."
-      }
+      },
+      "conclusion": "Joachim garde la photo du lavoir et prépare avec Diego un passage de parole. À Martine, il a dit ce qui rendrait la présentation possible dans cette salle. La demande protège la place qu’il veut prendre et les informations qu’il veut garder pour lui."
     },
     {
       "number": 11,
@@ -484,13 +1054,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Joachim, la peur remonte quand le passage lui paraît encombré. L’accord avec Diego rend possible un départ sans laisser un blanc dans la présentation. Quand il revient, il garde la possibilité de s’asseoir et d’écouter. Parler reste une décision qu’il peut prendre au moment où elle se pose."
+          "heading": "Comment une marge de décision peut-elle revenir après être sorti d’une salle ?",
+          "points": [
+            {
+              "heading": "Le départ ne dit pas à lui seul ce que la personne vit",
+              "text": "Une sortie peut se remarquer alors que l’effort qui l’a précédée reste privé.",
+              "examples": [
+                "Joachim quitte la salle où Diego parle de la pente.",
+                "Dans le hall, il relit un panneau sans retrouver tout de suite le premier mot."
+              ]
+            },
+            {
+              "heading": "Le retour peut partir d’un intérêt précis",
+              "text": "La personne peut choisir de revenir pour une question ou un détail qui compte pour elle.",
+              "examples": [
+                "Joachim entend une question sur le banc et se rappelle à quelle heure il est à l’ombre.",
+                "Il attend que le passage se dégage pour revenir écouter jusqu’au bout."
+              ]
+            },
+            {
+              "heading": "La contribution peut être reprise à un moment choisi",
+              "text": "Un appui permet au collectif de poursuivre et laisse la personne décider de reprendre la parole.",
+              "examples": [
+                "Diego continue de décrire la pente quand Joachim est dehors.",
+                "Joachim lève la main lorsque Martine revient à la photo du lavoir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire exister le projet pendant la pause",
-          "text": "Diego reprend le contenu préparé. Il peut parler de la rue parallèle et des observations de Samia. Il reste un interlocuteur du public quand Joachim est dans le hall. Il peut ensuite lui laisser reprendre la photo si Joachim lève la main, comme ils en sont convenus. Chacun sait ce qu’il a à dire. Leur accord a une utilité qui dépasse la gestion du départ.\n\nEn consultation, Joachim pourra décrire la configuration de la salle, le signe qu’il a fait et ce qui l’a amené à revenir. Il se souviendra peut-être autant du manteau que de la première question sur le banc. Louise pourra s’appuyer sur ces éléments et sur ce qu’il en dit aujourd’hui, avec son accord, pour continuer le travail qu’ils ont choisi ensemble. Un moment où il se sent encore mal peut coexister avec un moment où il prend la parole."
+          "heading": "3 techniques pour garder plusieurs façons de participer à une rencontre",
+          "points": [
+            {
+              "heading": "Prévoir ce qui continue pendant la pause",
+              "objective": "Faire en sorte qu’une sortie éventuelle laisse le choix de revenir ou de s’arrêter.",
+              "exercise": [
+                "Identifiez votre partie de la rencontre.",
+                "Convenez d’un relais si vous souhaitez sortir.",
+                "Gardez une façon de savoir où en est l’échange si vous voulez revenir."
+              ],
+              "benefit": "Le groupe peut poursuivre sans que la personne perde la possibilité de choisir sa place."
+            },
+            {
+              "heading": "Choisir un point de retour",
+              "objective": "Se donner un repère si l’on veut reprendre l’activité.",
+              "exercise": [
+                "Repérez une question qui vous intéresse encore.",
+                "Vérifiez que l’accès et le moment vous conviennent.",
+                "Décidez si vous voulez écouter, répondre ou prolonger la pause."
+              ],
+              "benefit": "Le retour peut correspondre à un souhait précis plutôt qu’à une obligation."
+            },
+            {
+              "heading": "Décrire l’effort aussi bien que la contribution",
+              "objective": "Rendre compte de la soirée sans la résumer au temps passé dehors.",
+              "exercise": [
+                "Notez ce que vous avez éprouvé quand vous êtes sorti.",
+                "Ajoutez ce qui vous a donné envie de reprendre ou de partir.",
+                "Reprenez les deux aspects avec le professionnel."
+              ],
+              "benefit": "Le suivi peut tenir compte de la difficulté et du choix que vous avez retrouvé."
+            }
+          ]
         }
       ],
       "ending_title": "L’ombre sur le banc",
@@ -505,7 +1131,8 @@
       "continuity": {
         "choice": "Joachim sort quelques minutes, revient à sa place et répond à la question du banc pendant que Diego assure le relais prévu.",
         "next": "Après la soirée, Joachim et Diego préparent la version finale et Joachim fait le point avec Louise."
-      }
+      },
+      "conclusion": "Joachim sort, puis revient pour une question sur l’ombre près du banc. Diego et Martine ont laissé l’échange se poursuivre. Le retour de Joachim montre qu’il a pu retrouver une décision dans cette salle, avec un effort qu’il peut encore expliquer à Louise."
     },
     {
       "number": 12,
@@ -525,17 +1152,73 @@
         {
           "role": "explanation",
           "heading": "Regarder la vie quotidienne sur plusieurs moments",
-          "text": "L’agoraphobie peut avoir des effets durables et variables. Un déplacement rendu possible et une situation qui reste très difficile peuvent exister à quelques jours d’intervalle. La comparaison gagne à porter sur des faits."
+          "text": "L’agoraphobie peut évoluer différemment selon les situations et les moments. Un déplacement devenu possible et une sortie qui reste très difficile peuvent coexister. Un bilan peut partir de ce que la personne a fait, de l’effort que cela lui a demandé et de ce qu’elle souhaite aborder ensuite. Joachim explique à Louise la question à laquelle il a répondu près du lavoir et lui montre aussi la page consacrée au détour du bus."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Joachim a rejoint le lavoir avec Diego, repris un retour court dans le cadre de son suivi et choisi comment présenter une photo. Il a aussi quitté une file et reporté une visite après un changement de trajet. Avec Louise, il peut regarder ce que cela change pour ses sorties, son travail et ses relations.\n\nLe suivi peut s’intéresser à la peur et à la place que la personne retrouve pour des activités qui lui importent. Joachim a aimé expliquer l’ombre du banc. Ce détail a du sens même s’il ne dit rien du prochain voyage. Sa façon de choisir un rendez-vous, d’en parler et de tenir compte du temps des autres fait également partie du parcours qu’il peut raconter."
+          "heading": "Comment un progrès et une difficulté peuvent-ils compter dans le même bilan ?",
+          "points": [
+            {
+              "heading": "Une contribution devient plus facile à reconnaître",
+              "text": "La personne peut retenir ce qu’elle a pu faire au-delà du temps passé dans le lieu.",
+              "examples": [
+                "Joachim raconte la réponse qu’il a donnée sur le banc au lieu de compter seulement les minutes passées dans le hall.",
+                "La carte imprimée garde la photo de la plaque prise le matin où il n’a pas pris le bus."
+              ]
+            },
+            {
+              "heading": "Une difficulté reste liée à certaines conditions",
+              "text": "Ce qui a été possible dans un cadre n’efface pas ce qu’un imprévu peut rendre difficile ailleurs.",
+              "examples": [
+                "Joachim reprend le rond-point et le changement de correspondance avec Louise.",
+                "Le belvédère reste en suspens après le détour du bus."
+              ]
+            },
+            {
+              "heading": "La suite peut partir d’un désir ordinaire",
+              "text": "Une prochaine activité peut avoir un intérêt propre alors que le suivi se poursuit.",
+              "examples": [
+                "Joachim propose à Ana de choisir ensemble un autre film.",
+                "Il sait aussi quelle question sur les changements de trajet il voudrait aborder au prochain rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser une décision ouverte",
-          "text": "Le prochain projet de Joachim peut commencer par une photographie au lavoir. Il peut également reprendre en consultation le moment où l’arrêt du bus a changé. La durée et les priorités du suivi se discutent avec Louise selon ce dont il a besoin et ce qu’ils observent. Elle peut lui demander ce qu’il voudrait retrouver dans ses sorties et ce qui lui demande encore beaucoup d’effort.\n\nDiego peut garder son envie de marcher jusqu’au verger. Les deux hommes peuvent choisir de se retrouver pour la lumière du matin ou commencer chacun de leur côté. Le belvédère reste une idée que Joachim voudrait peut-être essayer. Il a déjà de quoi parler avec Diego quand ils se voient. La question de la prochaine photo leur rend un espace où chacun peut encore proposer quelque chose."
+          "heading": "3 techniques pour faire le point à partir de sorties différentes",
+          "points": [
+            {
+              "heading": "Donner une place à deux faits",
+              "objective": "Faire un bilan qui inclut la possibilité retrouvée et la gêne qui persiste.",
+              "exercise": [
+                "Choisissez un déplacement où vous avez pu faire quelque chose qui comptait.",
+                "Décrivez une situation qui reste difficile et son contexte.",
+                "Discutez de l’effort et de l’intérêt des deux avec le professionnel."
+              ],
+              "benefit": "Le suivi peut s’ajuster sans réduire l’évolution à une seule sortie."
+            },
+            {
+              "heading": "Choisir la prochaine question à travailler",
+              "objective": "Utiliser un détail marquant pour orienter le rendez-vous.",
+              "exercise": [
+                "Retenez le moment où vous avez été le plus surpris.",
+                "Notez ce que vous saviez et ce que vous auriez voulu savoir sur place.",
+                "Demandez à la personne qui vous suit comment reprendre cette question."
+              ],
+              "benefit": "Le rendez-vous peut partir d’une situation réelle et garder un objectif précis."
+            },
+            {
+              "heading": "Proposer une sortie qui fait envie",
+              "objective": "Retrouver un rendez-vous partagé pour son intérêt propre.",
+              "exercise": [
+                "Choisissez une activité que vous voulez faire avec quelqu’un.",
+                "Convenez ensemble du moment et de ce qui reste à décider.",
+                "Gardez la possibilité de la modifier selon les conditions réelles et votre accord."
+              ],
+              "benefit": "Une sortie peut rester un choix commun sans devenir une mesure du suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Une carte à montrer et un retour à discuter",
@@ -551,7 +1234,8 @@
       "continuity": {
         "choice": "Joachim publie la carte avec la variante du verger, garde le belvédère en suspens et choisit de discuter des trajets modifiés en suivi.",
         "next": "Le projet de carte est terminé. Joachim conserve son lien avec Diego et poursuit son travail avec Louise en gardant la photographie pour lui-même."
-      }
+      },
+      "conclusion": "La carte imprimée garde le lavoir, la pente et la plaque du premier matin. Le rond-point a toujours sa place dans le carnet. Joachim peut parler à Louise de ce qui l’a arrêté et proposer un film à Ana pour le plaisir de choisir une séance ensemble."
     }
   ]
 }

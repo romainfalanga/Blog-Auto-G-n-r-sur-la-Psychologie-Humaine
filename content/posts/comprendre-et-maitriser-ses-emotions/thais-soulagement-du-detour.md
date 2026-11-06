@@ -34,18 +34,79 @@ Le bus met plus de temps que prévu. À l’arrivée, l’archiviste a remis les
 
 Renoncer à un passage qui déclenche une peur intense peut faire retomber la tension rapidement. Ce changement immédiat peut rendre le détour particulièrement attirant quand une situation similaire se présente. Les conséquences du détour arrivent parfois plus tard et sont moins perceptibles sur le moment.
 
-## Comment cette difficulté se manifeste
+## Comment le soulagement du détour peut-il faire oublier son coût ?
 
-Pour Thaïs, le soulagement survient dès l’abri du tram. Le rendez-vous manqué apparaît une fois qu’elle est devant les archives.
+### Le soulagement arrive avant le calcul
 
-Ce fonctionnement s’apprécie dans la durée. Éviter un lieu peut être un choix adapté à la sécurité, à la fatigue ou au programme du jour. Un aménagement de travail peut aussi permettre une participation importante. Dans le suivi d’une phobie, il est possible d’examiner les situations où une personne perd de la marge de décision et celles où elle gagne une façon de participer à une activité qu’elle a choisie.
+Éviter ce qui fait peur peut apaiser assez vite pour retenir d’abord toute l’attention.
 
-## Repérer les choix que Thaïs veut retrouver
+**Exemples concrets**
 
-Thaïs peut arriver au rendez-vous avec sa psychologue en sachant ce qui comptait dans cette sortie. Elle voulait consulter deux feuilles avec l’archiviste et finir assez tôt pour aller à la réunion de vendredi. Elle peut lui dire à quel moment elle a changé de trajet, ce qu’elle a éprouvé ensuite et quelle autre possibilité elle aimerait avoir dans l’avenir. Ces détails donnent un objectif plus concret que l’idée de devoir emprunter toutes les passerelles.
+- Thaïs choisit un autre trajet avant de regarder combien de temps il prendra.
+- Une personne peut sentir sa tension baisser dès qu’elle s’éloigne de l’entrée d’une passerelle.
 
-Pour la carte, elle peut vérifier avec l’archiviste les modalités d’un nouveau créneau. Demander une date ou une cote précise répond au travail à faire. Si elle souhaite aborder la peur des hauteurs, cela se discute dans un cadre choisi avec sa psychologue. Les personnes chargées des documents peuvent l’aider sur leur propre domaine sans chercher à modifier son trajet.
+### Le coût apparaît une fois arrivé
+
+Le répit peut être suivi d’un effet sur une activité qui comptait pour la personne.
+
+**Exemples concrets**
+
+- Le bus met plus de temps que Thaïs ne le prévoyait.
+- Aux archives, l’archiviste a déjà remis les documents en réserve.
+
+### Une prochaine décision peut reprendre ce qui s’est passé
+
+L’évitement peut devenir plus attirant quand on se souvient surtout du répit qu’il a donné.
+
+**Exemples concrets**
+
+- Thaïs écrit que le soulagement est venu avant la vérification de l’heure.
+- Quelqu’un peut reprendre le même détour lors d’un autre rendez-vous en pensant au calme immédiat qu’il avait retrouvé.
+
+## 3 techniques pour revenir sur un détour qui a fait baisser la peur
+
+### 1. Reconstituer l’ordre de la décision
+
+Décrire le répit et son effet pratique au professionnel.
+
+**Exercice pratique**
+
+- Notez le moment où vous avez changé de trajet.
+- Dites quand la peur a baissé et quand une conséquence est devenue visible.
+- Apportez cet ordre au rendez-vous pour discuter de ce que vous souhaitez travailler.
+
+L’entretien peut tenir compte de la fonction immédiate du détour et de son coût.
+
+### 2. Vérifier le délai d’une option autorisée
+
+Savoir si un autre trajet reste compatible avec le rendez-vous.
+
+**Exercice pratique**
+
+- Consultez l’heure d’arrivée prévue sur l’option envisagée.
+- Vérifiez le créneau de la personne qui vous attend.
+- Prévenez-la si vous risquez d’arriver trop tard et demandez ce qui peut être reporté.
+
+Vous pouvez prendre une décision pratique à partir d’une information disponible.
+
+### 3. Retrouver l’objectif du déplacement
+
+Préparer une nouvelle démarche sans se forcer seul à franchir un passage redouté.
+
+**Exercice pratique**
+
+- Nommez le document, le lieu ou la personne que vous vouliez retrouver.
+- Demandez quelles conditions permettent de reprendre le rendez-vous.
+- Discutez avec le professionnel du trajet qui gêne si vous souhaitez le travailler.
+
+L’activité peut garder son intérêt et la peur être reprise dans le cadre du suivi.
 
 ## Reprendre un créneau
 
 Thaïs écrit à l’archiviste pour demander quand elles pourront reprendre le rendez-vous. Elle note les deux titres de documents dans son carnet et garde les cartes postales pour la prochaine fois. Puis elle ouvre une note pour sa consultation et inscrit simplement « le soulagement est arrivé avant que je vérifie l’heure ». Milo lui a répondu qu’il veut voir la drôle de plaque de rue. Elle lui envoie le nom de l’arrêt.
+
+---
+
+**Conclusion**
+
+Thaïs a manqué le créneau et demande à l’archiviste quand elle pourra revenir. La phrase gardée pour sa psychologue situe le moment où le soulagement a pris le dessus sur l’horaire. Elle donne un point précis à reprendre sans transformer le trajet en épreuve.

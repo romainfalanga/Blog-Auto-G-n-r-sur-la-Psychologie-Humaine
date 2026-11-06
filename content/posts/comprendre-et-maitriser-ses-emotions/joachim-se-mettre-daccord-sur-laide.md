@@ -33,16 +33,79 @@ Quand Samia s’éloigne, Joachim demande à Diego de le laisser répondre même
 
 Certaines personnes qui vivent avec une agoraphobie se rendent dans des lieux redoutés plus facilement en présence d’une personne de confiance. Pour Joachim, savoir que Diego est prêt à repartir avec lui laisse de la place à l’envie de faire une photo ou de discuter d’un chemin. L’aide a aussi des contours. Elle peut passer par un trajet partagé, une disponibilité limitée ou une réponse à une demande. La personne qui l’apporte peut avoir son propre emploi du temps.
 
-## Comment cette difficulté se manifeste
+## Comment un accompagnement change-t-il la sortie tout en laissant une marge de choix ?
 
-Joachim a choisi de parler de son agoraphobie à Diego et il préfère répondre à Samia comme contributeur de la carte. Cette différence lui importe. Être disponible pour le retour donne à Diego un rôle concret. Parler de la difficulté à sa place touche à un autre choix, celui des informations qui circulent. Les deux voisins peuvent corriger leur accord en s’appuyant sur ce qu’ils viennent de voir.
+### La présence rend un projet envisageable
 
-## Garder deux projets dans la même sortie
+Savoir qu’un proche sera disponible peut aider à entrer dans une situation redoutée.
 
-Diego voudrait mesurer le passage et Joachim voudrait comparer les photos du virage. Ils peuvent se proposer l’un à l’autre des choses qu’ils auraient plaisir à faire, puis convenir d’un point où ils se séparent. Sur ce trajet, Joachim préfère rentrer avec Diego et a fixé le retour assez tôt pour qu’il puisse rejoindre sa fille. Samia peut leur demander un relevé à un autre moment.
+**Exemples concrets**
 
-Quand la place de l’accompagnement change d’une sortie à l’autre, ce changement peut être décrit en consultation. Louise pourra demander à Joachim dans quelles situations il tient à être accompagné, ce que cela lui permet de faire et ce qu’il souhaite éventuellement aborder autrement. La présence de Diego au lavoir fait partie de leur organisation du jour. La façon d’aborder la peur sur le long terme relève du suivi et de ce que Joachim veut y travailler.
+- Joachim propose le lavoir à Diego et envisage de photographier aussi le virage.
+- Savoir qu’ils peuvent repartir ensemble lui laisse le temps de regarder le nom de la rue.
+
+### L’aide peut dépasser la demande
+
+Une personne accompagnée peut avoir besoin d’un appui pour se déplacer et vouloir parler pour elle-même.
+
+**Exemples concrets**
+
+- Diego répond trop vite pendant l’échange avec Samia.
+- Joachim lui demande ensuite de lui laisser le temps de formuler sa propre réponse.
+
+### Le proche a lui aussi un horaire
+
+Un accord utile tient compte de ce que chacun peut faire et du droit de revoir la sortie.
+
+**Exemples concrets**
+
+- Diego doit rejoindre sa fille à midi.
+- Joachim annonce lui-même le demi-tour et ils rentrent à temps pour le rendez-vous.
+
+## 3 techniques pour convenir d’une présence utile pour les deux personnes
+
+### 1. Définir l’aide avant de partir
+
+Donner à la présence du proche une fonction précise.
+
+**Exercice pratique**
+
+- Dites quelle partie du trajet vous voulez partager.
+- Précisez le geste qui vous aiderait si vous souhaitez repartir.
+- Demandez au proche jusqu’à quelle heure il est disponible.
+
+Le projet peut tenir compte du choix et des limites de chacun.
+
+### 2. Reprendre la parole après une réponse donnée pour vous
+
+Ajuster un appui sans renoncer à l’accompagnement choisi.
+
+**Exercice pratique**
+
+- Décrivez au proche le moment où il a répondu.
+- Dites quel temps ou quel geste vous aurait aidé.
+- Vérifiez comment vous voulez faire la prochaine fois.
+
+La personne peut être soutenue dans le trajet et garder la parole dans l’échange.
+
+### 3. Faire le point en fin de sortie
+
+Décider quel rôle garder lors d’une autre occasion.
+
+**Exercice pratique**
+
+- Relevez ce qui a été possible grâce à l’accord.
+- Demandez au proche comment il a vécu la sortie.
+- Reprenez avec le professionnel la place de cet appui si elle compte dans le suivi.
+
+La présence peut être révisée à partir de l’expérience des deux personnes.
 
 ## Revenir à l’heure convenue
 
 Au virage, la lumière frappe le nom de la rue sur le côté. Joachim reprend sa photo de biais, comme il l’avait fait avec la plaque près de chez lui. Ils rentrent à temps pour le rendez-vous de Diego. Sur le pas de sa porte, Joachim lui propose de préparer avec Samia un relevé descriptif de l’itinéraire jusqu’au verger. Il aimerait savoir ce qui change selon qu’on arrive à pied, avec une canne ou en ayant besoin d’une assise.
+
+---
+
+**Conclusion**
+
+Joachim choisit le virage, la photo et l’heure du demi-tour avec Diego. Il a aussi dit comment il voulait répondre à Samia. La présence de son voisin l’aide à envisager la sortie et prend une forme qu’ils peuvent ajuster ensemble.

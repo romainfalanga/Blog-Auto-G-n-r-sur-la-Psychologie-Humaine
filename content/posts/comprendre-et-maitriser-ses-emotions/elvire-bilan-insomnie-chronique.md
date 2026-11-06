@@ -34,14 +34,79 @@ Après l’entretien et l’examen, la docteure Vidal lui dit qu’elle retient 
 
 Le diagnostic d’insomnie chronique se fonde sur une évaluation clinique. Le professionnel cherche des difficultés récurrentes et persistantes, malgré une possibilité suffisante de dormir, et leurs répercussions dans la vie éveillée. Il examine aussi des causes ou troubles associés qui peuvent demander un autre bilan. Chez Élvire, la docteure Vidal retrouve une histoire de plusieurs mois et des difficultés régulières dans des situations différentes. L’évaluation tient compte du travail, de l’humeur et des informations de santé disponibles, ainsi que des nuits elles-mêmes.
 
-## Préciser le vécu quand les mêmes mots peuvent couvrir plusieurs choses
+## Comment le médecin construit-il le diagnostic à partir des nuits et des journées ?
 
-Élvire emploie le mot fatigue pour dire qu’elle doit se reprendre plusieurs fois avant d’envoyer un message et qu’elle perd vite patience. Le médecin lui demande si elle a aussi une tendance à s’endormir quand elle voudrait rester éveillée. Cette précision peut changer l’évaluation, notamment si le signe apparaît plus tard ou concerne une activité qui demande de la vigilance. Les difficultés de sommeil peuvent se manifester par des nuits et des journées différentes. En parler à partir de scènes connues aide à décrire ces variations.
+### L’histoire couvre plusieurs circonstances
 
-## Choisir ce qui sera utile au prochain rendez-vous
+Le médecin cherche ce qui revient et comment la gêne a commencé, plutôt qu’une estimation parfaite de chaque nuit.
 
-La docteure Vidal et Élvire conviennent d’observer son sommeil et quelques effets pendant la journée jusqu’au prochain point. Élvire peut utiliser des estimations, en signalant ce qu’elle ne sait pas. Le médecin lui présente aussi la thérapie cognitivo-comportementale de l’insomnie, ou TCC-I, et lui propose de voir une professionnelle formée. Le suivi peut être revu si les symptômes évoluent. Élvire demande comment joindre le cabinet si elle commence à s’assoupir involontairement ou si un autre signe l’inquiète.
+**Exemples concrets**
+
+- Élvire décrit des réveils précoces en congé et pendant ses semaines de travail.
+- Elle retrouve aussi des nuits où l’endormissement était difficile alors qu’elle avait prévu du temps pour dormir.
+
+### La journée aide à comprendre la gêne
+
+La fatigue et la tendance à s’endormir sont des informations que le professionnel peut examiner séparément.
+
+**Exemples concrets**
+
+- Élvire dit qu’elle se concentre plus difficilement l’après-midi.
+- Au moment du bilan, elle ne se rappelle pas s’être assoupie au travail.
+
+### D’autres explications sont examinées
+
+L’entretien et l’examen peuvent aborder les horaires, les traitements ou des signes qui orientent vers un autre bilan.
+
+**Exemples concrets**
+
+- La docteure Vidal demande à Élvire quels traitements elle prend et comment ses horaires s’organisent.
+- Elle l’interroge sur des signes respiratoires remarqués par Lou et sur d’éventuelles sensations dans les jambes au repos.
+
+## 3 techniques pour préparer une évaluation du sommeil sans faire soi-même le diagnostic
+
+### 1. Préparer une chronologie approximative
+
+Donner un repère de début et de répétition sans devoir calculer toutes les nuits.
+
+**Exercice pratique**
+
+- Notez depuis quand vous remarquez la difficulté.
+- Choisissez des exemples dans deux types de journées ou d’horaires.
+- Indiquez au médecin ce qui est certain et ce qui reste approximatif.
+
+Le médecin dispose d’éléments de contexte pour orienter l’entretien.
+
+### 2. Apporter la liste des questions de santé
+
+Faciliter l’examen d’autres éléments pertinents pour le sommeil.
+
+**Exercice pratique**
+
+- Apportez la liste des traitements et des informations médicales utiles.
+- Dites ce que vous avez remarqué la nuit et en journée.
+- Demandez quels signes devront être signalés s’ils apparaissent.
+
+L’évaluation peut tenir compte du tableau complet et donner une suite claire.
+
+### 3. Demander ce que le diagnostic change
+
+Comprendre le plan de suivi proposé.
+
+**Exercice pratique**
+
+- Demandez au médecin ce qu’il retient de l’entretien et de l’examen.
+- Faites préciser à quoi servira l’agenda ou le prochain rendez-vous.
+- Dites quelles difficultés vous pourriez rencontrer à suivre ce qui est prévu.
+
+Vous pouvez repartir avec des repères compréhensibles et ajustables.
 
 ## Un rendez-vous et une question de plus
 
 En partant, Élvire a le nom de Claire Imbert, une psychologue formée à la TCC-I, et un rendez-vous de suivi avec la docteure Vidal. Elle demande si elle pourra revoir la manière de tenir l’agenda si elle passe trop de temps à remplir les cases. La docteure lui dit qu’elles pourront le simplifier ensemble. Dans la rue, Élvire écrit à Lou qu’elle a envie de lui raconter ce que le médecin a dit. Elle garde pour plus tard la réponse à Sonia, qui vient de lui proposer une visite de la cour le mercredi suivant.
+
+---
+
+**Conclusion**
+
+La docteure Vidal retient une insomnie chronique après l’entretien et l’examen. Élvire repart avec des rendez-vous et une question sur la façon de tenir son agenda. Le nom du trouble donne un cadre au suivi de difficultés qu’elle attribuait jusque-là à son caractère.

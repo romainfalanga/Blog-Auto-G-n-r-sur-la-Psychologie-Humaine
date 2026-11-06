@@ -29,22 +29,83 @@ La thérapeute reprend avec elle l’ordre des journées. Blandine raconte le te
 
 La thérapeute lui demande ce qu’elle aimerait pouvoir choisir ces jours-là. Blandine dit qu’elle aimerait décider du chemin en regardant l’heure du bus. Elle voudrait aussi finir sa semaine avec assez d’énergie pour faire quelque chose de son samedi. Le chœur est encore une question. Elle pousse du doigt le papier pour que la thérapeute puisse lire la colonne des dates.
 
-## Un suivi peut partir de ce qui compte encore
+## Partir d’une vie que la personne veut retrouver
 
-Une psychothérapie ciblée sur un deuil persistant et très invalidant peut aider certaines personnes. Dans un essai randomisé, Shear et ses collègues ont observé davantage d’améliorations marquées chez les personnes qui recevaient une psychothérapie ciblée en plus des consultations prévues dans les deux groupes comparés. Les deux groupes recevaient un placebo. L’étude portait sur des adultes répondant à des critères de recherche de « deuil compliqué », établis avant le manuel actuel de la CIM-11. Les résultats ne prédisent pas ce qu’éprouvera une personne en particulier.
+L’accompagnement d’un deuil prolongé peut aborder la douleur liée à la perte et les buts que la personne souhaite retrouver dans sa vie. Des recherches ont évalué des psychothérapies ciblées chez des adultes suivis pour un deuil compliqué ; ces résultats ne prédisent pas le chemin d’une personne. Blandine et sa thérapeute examinent le coût des activités courantes et ce que Blandine aimerait à nouveau pouvoir choisir.
 
-Les thérapeutes de l’essai abordaient entre autres le vécu de la perte et les buts personnels.
+## Comment l’accompagnement part-il de ce que la personne vit ?
 
-## Comment cette difficulté se manifeste
+### Le résultat et le coût sont examinés ensemble
 
-Dans la fiction, Blandine et sa thérapeute cherchent quels changements auraient du sens pour elle : retrouver du temps après le travail et avoir plusieurs possibilités pour ses déplacements, même quand elle pense à Jeanne. Elle parle aussi du chœur, auquel elle reste libre de reprendre part à sa manière. Elles discutent de l’accompagnement qui lui convient et conviennent de refaire le point.
+Une activité accomplie peut masquer le renoncement à plusieurs autres.
 
-## Garder les choix du chœur à leur place
+**Exemples concrets**
 
-Blandine veut pouvoir parler en séance des jours où elle passe devant la place et de ceux où elle fait un détour. Pour la lecture des deux partitions, sa question à Léon porte sur les horaires, le lieu et les personnes invitées. Il ne lui demande aucun compte rendu de consultation. Ils peuvent convenir que l’essai reste un échange sur la musique, et qu’elle puisse l’annuler ou déplacer la rencontre si le lieu lui devient trop difficile.
+- Blandine a fini une commande mais a repoussé des courses et des invitations.
+- Une personne tient sa permanence associative et explique en séance qu’elle lui prend maintenant tout le reste de la journée.
 
-Elle choisit d’écrire elle-même à Léon. Si la lecture de jeudi ne se fait pas, il pourra lui proposer à nouveau l’annexe selon les disponibilités des chanteurs. Avec la thérapeute, elle fixe le rendez-vous de suivi. La feuille à deux colonnes l’aide à raconter des faits qu’elle sépare mal sur le moment : le souvenir agréable de l’écharpe et les journées de travail dont elle met du temps à se remettre.
+### Un objectif peut être très ordinaire
+
+Une priorité utile est liée à ce que la personne voudrait faire, même si elle paraît modeste.
+
+**Exemples concrets**
+
+- Blandine aimerait choisir son trajet selon l’heure du bus.
+- Quelqu’un souhaite disposer de nouveau d’un samedi pour jardiner une heure avec une amie.
+
+### Le soin et les décisions de vie gardent chacun leur rythme
+
+La personne peut parler d’un projet en séance et choisir ailleurs quand ou comment y prendre part.
+
+**Exemples concrets**
+
+- Blandine discute du chœur avec sa thérapeute et répond ensuite à Léon sur un créneau d’essai.
+- Une personne apporte en suivi la question d’un repas familial et confirme sa présence seulement quand elle connaît le cadre.
+
+## 3 techniques pour donner une direction concrète à un suivi du deuil
+
+### 1. Décrire ce que l’effort a déplacé
+
+Apporter au suivi une image plus complète de la semaine.
+
+**Exercice pratique**
+
+- Choisissez une activité maintenue.
+- Dites ce qui a dû attendre ou être annulé pour y arriver.
+- Signalez la priorité que vous voudriez retrouver.
+
+L’objectif du suivi se rattache à ce qui changerait votre quotidien.
+
+### 2. Formuler une liberté plutôt qu’un résultat
+
+Définir ce que vous aimeriez pouvoir choisir.
+
+**Exercice pratique**
+
+- Nommez une décision aujourd’hui très contrainte.
+- Dites en quoi elle compterait si vous aviez plus de marge.
+- Demandez au professionnel comment travailler ce point à un rythme acceptable.
+
+Le suivi peut s’adapter à une préférence personnelle sans poser un objectif unique pour tout le monde.
+
+### 3. Séparer un arrangement ordinaire du soin
+
+Garder la main sur les engagements proposés par l’entourage.
+
+**Exercice pratique**
+
+- Demandez au proche ce qui est possible sans promesse durable.
+- Convenez de la façon de reporter si besoin.
+- Faites le point en séance sur ce que la situation vous a demandé, que vous y soyez allé ou non.
+
+L’expérience peut nourrir le suivi sans devenir une épreuve à réussir.
 
 ## L’heure du bus dans la marge
 
 À la sortie, Blandine retourne la feuille et voit que Léon a noté dix-neuf heures pour jeudi prochain. Elle lui écrit que ce créneau lui convient à titre d’essai, avec la possibilité de remettre la lecture à plus tard. Il confirme qu’il attendra devant la salle et pourra dire aux deux chanteurs de se préparer pour la répétition si elle ne vient pas. À Yannis, qui voudrait s’exercer à faire des galettes pour la fête d’école de son fils, elle propose samedi midi. Elle a une grande poêle qui pourrait lui servir.
+
+---
+
+**Conclusion**
+
+Blandine quitte la séance avec une envie formulée par elle-même : pouvoir décider de son trajet. Le créneau de Léon et la poêle prêtée à Yannis sont deux choix ordinaires qu’elle peut encore ajuster.

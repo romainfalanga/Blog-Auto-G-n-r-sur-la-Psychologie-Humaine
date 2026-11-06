@@ -30,16 +30,81 @@ Rémi sort un programme de sa poche et cherche les horaires du lendemain. Il pro
 
 ## Recevoir un avis et garder confiance dans son choix
 
-Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail. Diane savait que le bord du bol aurait pu lui faire renoncer à l’exposition. La remarque sur la profondeur lui rappelle ce doute. La visiteuse lui montre aussi un effet qu’elle n’avait pas remarqué de cet endroit.
+Retrouver confiance après un épisode psychotique peut se voir dans la liberté de soutenir un choix, d’écouter un avis et de poursuivre une activité. Ce mouvement n’indique pas à lui seul où en est le suivi clinique. Diane entend une visiteuse remarquer la profondeur du bol et pense d’abord à justifier son bord. Elle peut aussi se placer à côté d’elle et regarder le bleu que cette profondeur rend visible.
 
-## Comment cette difficulté se manifeste
+## Comment la confiance retrouvée se voit-elle face au regard du public ?
 
-Diane peut entendre ce regard, dire comment elle a fait la carafe et garder sa propre idée du bol. Elle a choisi de présenter les deux pièces parce qu’elle aimait les voir ensemble. La remarque lui donne un autre point de vue sur ce choix.
+### Une remarque réveille un ancien doute
 
-## Garder des rendez-vous pour des choses différentes
+Même une observation neutre peut ramener à la déception des premiers essais.
 
-Un suivi peut rester utile après un épisode psychotique alors même que des activités redeviennent possibles. Diane a un rendez-vous avec la docteure Lenoir et compte lui reparler de son sommeil, de l’appel après le marché et de son prochain créneau avec Malik. Le vernissage lui donne aussi quelque chose à raconter qu’elle a simplement envie de partager. L’équipe suit l’évolution de sa santé et les conditions de sa reprise. Avec Rémi, elle pourra passer au marché. Avec Maud, il reste à décider où iront les pièces quand la salle fermera.
+**Exemples concrets**
+
+- Diane entend « profond » et pense au bord qu’elle avait voulu plus bas.
+- Lors d’une présentation, quelqu’un entend qu’un texte est bref et se rappelle les pages qu’il avait supprimées à regret.
+
+### On peut prendre le point de vue du visiteur
+
+Regarder ce que l’autre a réellement vu donne une autre manière d’entendre sa remarque.
+
+**Exemples concrets**
+
+- Diane se place là où la visiteuse regardait le bleu.
+- Un auteur écoute le passage que la lectrice cite avant d’expliquer comment il l’a écrit.
+
+### Le choix peut rester à soi après l’échange
+
+La confiance se lit dans la possibilité de décider de la suite sans attendre l’approbation générale.
+
+**Exemples concrets**
+
+- Diane montre à Rémi d’où voir le bleu et envisage de mettre le bol chez elle.
+- Une personne garde une pièce qui lui plaît même si tous les visiteurs n’ont pas relevé le même détail.
+
+## 3 techniques pour accueillir un avis en gardant ses choix
+
+### 1. Écouter l’observation avant de l’expliquer
+
+Donner une chance à la remarque d’avoir son sens propre.
+
+**Exercice pratique**
+
+- Repérez ce que l’autre a dit exactement.
+- Demandez-lui ou regardez d’où vient son observation.
+- Décidez ensuite si vous avez envie d’expliquer votre choix.
+
+Un avis peut devenir une information sur l’objet et moins une appréciation de la personne.
+
+### 2. Dire ce que l’on tient à montrer
+
+Partager une préférence sans demander à l’autre de l’approuver.
+
+**Exercice pratique**
+
+- Choisissez un détail que vous aimez.
+- Montrez l’endroit ou le geste qui le rend visible.
+- Laissez la personne en dire ce qu’elle veut.
+
+Le partage peut rester une conversation entre deux regards.
+
+### 3. Organiser l’après sans faire un bilan global
+
+Clore une activité et préserver les autres repères de reprise.
+
+**Exercice pratique**
+
+- Décidez comment et quand récupérer ce que vous avez montré.
+- Gardez un prochain projet ou rendez-vous qui vous importe.
+- Abordez au suivi les difficultés qui demandent encore un appui.
+
+La satisfaction d’un projet abouti peut coexister avec les ajustements qui restent nécessaires.
 
 ## Dimanche, après le marché
 
 Diane demande à Maud si elle peut récupérer les pièces après le marché, au lieu de venir à la première heure. Maud dit qu’elle sera dans la salle jusqu’à midi. Rémi propose de ramener un sac assez grand pour tenir la carafe debout. Diane lui montre le bol et lui dit qu’elle hésite à s’en servir pour les poires. Elle l’imagine sur le plan de travail, à côté de la bouilloire, puis l’imagine déjà rempli de clés. Elle lui demande de choisir au marché des poires assez petites pour qu’on continue de voir le bleu.
+
+---
+
+**Conclusion**
+
+Diane finit par penser à la place du bol chez elle et à des poires qui laisseraient voir le bleu. L’exposition a eu lieu, avec le bord imprévu et les deux pièces. Son travail à la bibliothèque et son suivi continuent à leur propre rythme.

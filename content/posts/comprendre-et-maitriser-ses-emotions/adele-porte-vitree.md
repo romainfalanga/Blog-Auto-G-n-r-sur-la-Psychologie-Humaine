@@ -29,22 +29,83 @@ La responsable du centre propose le bureau vitré près du réfectoire. Elle dit
 
 Eva a le stylo en main. Adèle pose deux doigts sur le plan, entre le réfectoire et le bureau, avant qu’Eva n’écrive le numéro de la pièce. « Est-ce que vous avez une pièce où les groupes ne passent pas ? » demande-t-elle assez fort pour le téléphone. Dans le silence qui suit, elle entend une porte se fermer du côté du centre. Elle suit de nouveau le couloir sur le plan, pour vérifier qu’elle n’a pas pris le trajet des chambres pour celui des ateliers.
 
-## Quand le contexte sensoriel et le regard des autres se cumulent
+## Le lieu où l’on mange fait partie de l’expérience
 
-L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. La question peut se poser à l’école, lors d’un déplacement ou à l’âge adulte dans un repas avec des collègues. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent.
+Dans l’ARFID, certains aliments peuvent être difficiles à prendre en raison de leurs caractéristiques sensorielles. L’environnement du repas peut ajouter des bruits, des allées et venues ou la crainte d’être observé. Ce que la personne trouve aidant se discute avec elle et son équipe. Pour Adèle, le bureau proposé n’offre pas le calme attendu s’il s’ouvre sur le couloir le plus fréquenté.
 
-## Comment cette difficulté se manifeste
+## Comment le lieu peut-il ajouter une difficulté au repas ?
 
-Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.
+### Le calme sur le plan ne garantit pas le calme sur place
 
-Dans le bureau vitré, le passage serait constant même avec une chaise à l’écart. En repérant ce détail, Adèle explique ce qu’elle entend par discrétion. Elle n’a pas besoin de raconter toute son histoire à la responsable du lieu pour demander où se trouve l’autre pièce.
+Une pièce peut être à part tout en donnant sur un passage bruyant.
 
-## Rendre la solution réellement disponible
+**Exemples concrets**
 
-La proposition d’un lieu prend du sens si les adultes peuvent y accéder pendant les repas et savent qui accompagne Adèle. Mme Roussel doit pouvoir vérifier les modalités convenues avec la famille et l’équipe, et M. Benhamou doit savoir quand la relayer. Le centre peut en dire davantage sur les horaires et la disponibilité des espaces. Adèle veut aussi que les adultes lui expliquent comment elle pourra revenir vers le groupe une fois le repas terminé.
+- Le bureau proposé au centre s’ouvre sur le couloir emprunté par les groupes.
+- Une table dans un coin reste difficile à utiliser si les chaises bougent juste derrière elle.
 
-Le plan garde la possibilité pour Eva de venir la chercher si l’organisation ne suffit plus. Dans ce cas, la professeure contactera Eva et les adultes suivront les consignes de l’équipe pour les questions de santé. Eva et Adèle choisissent ce que les deux accompagnateurs doivent savoir. Le centre reçoit les éléments nécessaires à son rôle. Le moment où le groupe passe devant une porte n’a pas à devenir celui où l’on communique ces informations.
+### Le chemin peut exposer aux regards
+
+Quitter la table ou franchir une porte devant le groupe peut ajouter un effort au moment où manger est déjà difficile.
+
+**Exemples concrets**
+
+- Adèle cherche un trajet qui ne l’oblige pas à expliquer publiquement pourquoi elle change de salle.
+- Une élève hésite à demander la clé si elle doit revenir la chercher devant tous ses camarades.
+
+### Un lieu utile doit être accessible au bon moment
+
+Le numéro d’une salle et la personne qui peut l’ouvrir font partie de l’aménagement.
+
+**Exemples concrets**
+
+- La responsable prévoit de remettre la clé aux accompagnateurs aux heures convenues.
+- Un local calme est disponible à midi mais sert à une réunion au dîner ; l’équipe doit vérifier l’autre option prévue.
+
+## 3 techniques pour évaluer un espace de repas avec la personne
+
+### 1. Regarder le lieu et son chemin
+
+Repérer ce que le plan seul ne dit pas.
+
+**Exercice pratique**
+
+- Identifiez les couloirs et salles proches.
+- Demandez qui y passe aux heures des repas.
+- Si c’est possible, regardez le trajet réel avec l’adulte concerné.
+
+L’aménagement peut être choisi à partir du bruit, du passage et de l’accès effectif.
+
+### 2. Prévoir un changement sans annonce
+
+Pouvoir utiliser une option discutée sans avoir à se justifier devant le groupe.
+
+**Exercice pratique**
+
+- Choisissez avec le jeune un moyen discret de joindre l’accompagnateur.
+- Dites où l’attendre et qui a la clé.
+- Demandez à l’équipe scolaire de confirmer comment le passage se fera.
+
+Le jeune sait à quoi s’attendre et les adultes connaissent leur rôle.
+
+### 3. Faire vérifier la solution
+
+S’assurer que le cadre matériel convient au plan déjà discuté.
+
+**Exercice pratique**
+
+- Relevez les heures auxquelles la salle est disponible.
+- Présentez à l’équipe de soins les différences avec le cadre habituel.
+- Décidez avec les adultes ce qui doit encore être confirmé avant le départ.
+
+Une solution de lieu peut soutenir le plan sans modifier seule la prise en charge.
 
 ## La flèche vers la petite salle
 
 La responsable reprend : elle pourra réserver une petite salle de réunion et remettre la clé aux accompagnateurs aux heures prévues. Mme Roussel note le numéro de la salle sur le plan et dessine une flèche jusqu’à l’embranchement qui rejoint les ateliers. M. Benhamou arrive, vérifie avec Eva quel numéro appeler et écoute Adèle expliquer qu’elle veut pouvoir passer de la table commune à l’autre salle sans annonce. « D’accord. On vérifie ensemble que c’est bien ça avant que tu confirmes », dit-il. Adèle retrouve la croix du tissage sur la fiche. L’autorisation de départ attendra.
+
+---
+
+**Conclusion**
+
+La flèche sur le plan mène à une salle qui n’oblige pas Adèle à passer devant tous les groupes. La place au tissage reste son premier choix. La confirmation attend qu’elle ait pu vérifier l’appui avec les adultes.

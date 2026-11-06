@@ -33,16 +33,79 @@ Le père de Roxane parle de la rencontre du samedi. Joëlle prend le train ce jo
 
 Un accent régional est une variation de la parole. L’OMS et l’ASHA distinguent les façons de prononcer attendues dans une communauté des difficultés qui persistent et gênent la compréhension au-delà de ces variations. Une personne peut avoir un accent et rencontrer par ailleurs des difficultés avec certains sons. Une intonation, un mot répété ou le fait de demander une précision ne permettent pas de faire la distinction : c’est à un professionnel de situer un ensemble d’observations dans l’histoire de la personne et de ses langues.
 
-## Comment cette difficulté se manifeste
+## Comment tenir compte d’un accent quand on ne comprend pas tout ?
 
-Roxane reconnaît sa tante à l’oreille. Quand Joëlle perd le fil, elle part d’un événement dont elles ont déjà parlé, le square. Roxane préfère changer sa façon d’amener la devinette. Elle pose une question sur le jeu à venir. Joëlle peut y répondre même si elle n’a pas entendu tous les détails de la préparation.
+### Une prononciation peut être habituelle dans une communauté
 
-## Écrire pour quelqu’un qui ne sera pas là
+Une variation de sons ou d’intonation liée à une région, à un milieu ou à une langue fait partie de la diversité de la parole.
 
-Le montage de la classe a été fait pour la rencontre et Roxane n’a pas choisi de l’envoyer ailleurs. Sa tante peut tout de même participer à un échange entre elles. Pour décrire un bruit sur une feuille, Roxane imagine un mot pour la vitesse et un autre pour la sensation que le son lui laisse. Elle les mettra en tête de lettre pour que Joëlle ait, elle aussi, le droit de partir sur une fausse piste.
+**Exemples concrets**
 
-Son père propose de l’aider à chercher les mots. Roxane lui donne le rond de bois et lui demande de le tenir pendant qu’elle essaie de prendre son empreinte au crayon. C’est à ce geste que son aide peut servir maintenant. Elle choisira plus tard si l’empreinte fait partie du jeu ou doit rester dans l’enveloppe pour la fin.
+- Joëlle peut prononcer des mots avec une intonation que Roxane entend moins souvent à l’école.
+- Un enfant peut reconnaître à la maison une façon de dire un nom qui surprend d’abord un visiteur d’une autre région.
+
+### L’accent et une difficulté durable peuvent coexister
+
+Une personne peut parler avec un accent tout en rencontrant des difficultés distinctes dans la production de sons. Leur évaluation demande une histoire et plusieurs situations.
+
+**Exemples concrets**
+
+- Les échanges avec Joëlle n’effacent pas ce que Roxane travaille déjà avec Mme Colin.
+- Un mot redemandé au téléphone ne permet pas à un auditeur de départager une variation attendue, un effet de l’écoute ou une difficulté de parole.
+
+### La demande de précision peut rester ordinaire
+
+Quand l’objectif est de comprendre l’autre, un repère sur le sujet suffit parfois. On peut vérifier un mot sans commenter la voix.
+
+**Exemples concrets**
+
+- Pour la devinette par téléphone, Roxane peut vérifier la première piste de sa tante avant de l’inviter à ouvrir le pli.
+- Si quelqu’un hésite entre deux noms de lieux, il peut dire celui qu’il a compris et laisser son interlocuteur le corriger.
+
+## 3 techniques pour clarifier un mot sans juger la façon de parler
+
+### 1. Vérifier le sens de la phrase
+
+Porter l’attention sur ce que la personne voulait communiquer.
+
+**Exercice pratique**
+
+- Reprenez le fragment que vous avez saisi.
+- Demandez quel objet ou lieu complète la phrase.
+- Confirmez la réponse avant de revenir au sujet.
+
+L’échange reste centré sur le message plutôt que sur une manière de prononcer.
+
+### 2. Relever un contexte utile au professionnel
+
+Préparer une discussion si la gêne persiste dans le quotidien.
+
+**Exercice pratique**
+
+- Notez une situation précise et qui y participait.
+- Recueillez les habitudes de langues ou de prononciation que l’enfant et sa famille souhaitent décrire.
+- Présentez-les à l’orthophoniste si une évaluation ou un suivi est indiqué.
+
+Le professionnel peut situer les observations et éviter de confondre différence linguistique et difficulté.
+
+### 3. Choisir un appui adapté à l’échange
+
+Garder les moyens dont la personne a envie selon le destinataire.
+
+**Exercice pratique**
+
+- Demandez si elle préfère poursuivre de vive voix, montrer ou envoyer un mot.
+- Préparez le support pour cet échange précis.
+- Revoyez le choix avec elle dans un autre lieu ou avec un autre interlocuteur.
+
+Un appui peut servir dans une situation sans devenir une consigne pour toutes les conversations.
 
 ## Le papier sur le rond de bois
 
 Le premier trait casse ; une miette de mine se coince dans le pli de la feuille. Roxane passe un crayon moins pointu et voit apparaître un bord irrégulier. L’empreinte ferait trop vite penser à un arbre. Elle choisit de la glisser avec la réponse, au fond de l’enveloppe qu’elle finira après la rencontre. En sortant, elle demande à Joëlle de lui dire sa première idée au téléphone, avant d’ouvrir le dernier pli. Sa tante promet de le garder fermé jusque-là.
+
+---
+
+**Conclusion**
+
+La façon de parler de Joëlle donne à Roxane l’occasion de s’interroger sur ce qu’on entend d’un accent. Leur devinette gardera sa propre forme : une première idée au téléphone, puis une réponse cachée dans le papier. Les mots de chacune pourront être précisés au fil du jeu.

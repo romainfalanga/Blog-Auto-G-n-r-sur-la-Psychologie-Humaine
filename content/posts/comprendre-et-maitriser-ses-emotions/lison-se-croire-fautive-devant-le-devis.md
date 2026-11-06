@@ -33,16 +33,79 @@ Nora revient avec ses lunettes. « On y va ? » Lison glisse le devis à côté 
 
 Une différence entre deux documents dit où vérifier avant de dire qui s’est trompé. Lison connaît le coût de certaines transcriptions. À la vue de chiffres inversés, elle croit d’abord que l’erreur vient d’elle. Dans la dyscalculie développementale, les exigences de rapidité et les tâches complexes peuvent rendre certaines difficultés plus visibles ; la présence d’un trouble n’explique pas chaque écart rencontré. Des personnes interrogées par Staller et ses collègues ont parlé de honte après des expériences chiffrées difficiles. Ce vécu aide à comprendre le premier mouvement de Lison. Sur le devis, ni les chiffres ni son sentiment ne permettent d’identifier l’auteur de l’écart.
 
-## Deux longueurs à comparer au milieu du doute
+## Comment passer de « j’ai dû me tromper » à une vérification précise ?
 
-Lison voit « 1,58 m » sur le devis et « 185 cm » sur sa fiche. Elle se croit fautive avant même de refaire la conversion. Quand Nora s’approche pour signer, Lison a envie de retourner la feuille et sa voix sort plus fort qu’elle ne le souhaite. Le courriel lui remet sous les yeux la longueur qu’elle avait transmise, 1,85 m. L’écart représente 27 cm, assez pour compromettre le placement prévu si la commande partait avec la longueur du devis.
+### La crainte peut arriver avant la comparaison
 
-## Garder une seule version prête à partir
+Un écart rappelle parfois des erreurs redoutées et la première explication vient avant les preuves.
 
-Lison peut isoler la ligne du devis, la demande écrite et la quantité validée dans le dossier d’atelier. Le courriel établit ce qui a été transmis par écrit. Nora peut suspendre la signature de ce devis le temps de faire corriger l’écart.
+**Exemples concrets**
 
-Lison peut préparer une demande de correction brève avec les deux longueurs, puis relire la réponse avec Nora avant toute validation. La correction se fait sur le devis du fournisseur, pas en changeant à la main la copie que l’atelier garde. Ensuite, l’ancienne version reste identifiée comme telle ; une seule doit servir au lancement de la commande et à la réception. Ce contrôle porte sur les documents et sur la décision d’achat. Lison garde la main sur les échanges et Nora décide au nom de l’atelier. Une fois la réponse validée, elles peuvent convenir du contrôle suivant et fermer le dossier pour la journée. Lison pourra reprendre à cette étape plutôt que se fier à sa mémoire.
+- Lison voit des chiffres inversés et pense aussitôt que l’erreur vient d’elle.
+- Une personne peut croire qu’elle a donné le mauvais montant avant de relire le message envoyé.
+
+### Chaque document répond à une question différente
+
+Comparer la demande et l’offre aide à retrouver à quel endroit le chiffre a changé.
+
+**Exemples concrets**
+
+- Lison revient à la quantité qu’elle avait confirmée par écrit.
+- Un relevé daté peut être correct même si une valeur différente apparaît dans le devis suivant.
+
+### Le contrôle permet de demander une action
+
+Une fois l’écart localisé, la personne peut faire corriger le document sans trancher sur sa compétence.
+
+**Exemples concrets**
+
+- Lison interrompt la validation et montre les deux lignes à Nora.
+- Le fournisseur peut envoyer une version corrigée que l’atelier contrôle avant l’achat.
+
+## 3 techniques pour vérifier un écart avant d’en attribuer la cause
+
+### 1. Suspendre la validation au bon moment
+
+Empêcher qu’une valeur douteuse parte en commande.
+
+**Exercice pratique**
+
+- Marquez la ligne où vous avez vu l’écart.
+- Prévenez la personne qui valide.
+- Attendez la comparaison avant de signer ou d’envoyer.
+
+L’atelier garde le temps d’établir ce que chaque document indique.
+
+### 2. Retrouver la demande qui fait foi
+
+Comparer les traces sur la même quantité.
+
+**Exercice pratique**
+
+- Ouvrez le message envoyé et le devis reçu.
+- Mettez en regard la quantité, l’unité et la référence.
+- Relevez la différence dans une phrase qui décrit les deux valeurs.
+
+La demande de correction peut partir de faits vérifiables.
+
+### 3. Identifier clairement la version validée
+
+Éviter qu’un ancien devis revienne dans la suite du dossier.
+
+**Exercice pratique**
+
+- Vérifiez la ligne sur le devis corrigé.
+- Faites confirmer l’achat par la personne responsable.
+- Classez à part la version précédente et notez la prochaine vérification.
+
+La réception pourra partir du bon document.
 
 ## La bonne version dans le dossier
 
 Farah répond avant midi avec un nouveau devis. Lison compare la ligne du sergé : 1,85 m d’un seul tenant, B17, 140 cm. Nora vérifie aussi la toile ardoise et autorise la commande. Lison envoie la version validée sur instruction de Nora ; la confirmation du fournisseur arrive avant la pause. Elle classe le premier devis dans « anciennes versions » et note le prochain point : réception, mardi. Dehors, son sandwich a un coin tout aplati. Elle l’avait laissé sous la pochette du devis. Elle le sort sans reprendre son téléphone et va manger sur la marche où il reste un peu de soleil.
+
+---
+
+**Conclusion**
+
+Le premier doute de Lison ne désignait pas l’origine de l’écart. La demande écrite lui permet d’arrêter la validation et d’obtenir une correction. Le dossier contient maintenant la version que l’atelier pourra contrôler à la réception.

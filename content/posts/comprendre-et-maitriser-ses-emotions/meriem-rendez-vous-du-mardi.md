@@ -1,20 +1,20 @@
 ---
-title: L’alliance thérapeutique quand Meriem redoute de poser une question difficile
-description: Meriem demande comment garder du temps pour ses questions de suivi et
-  examine ce qui l’a conduite à manquer l’atelier.
+title: L’appréhension en séance quand une question reste pour la fin
+description: Meriem craint que poser sa question l’engage à raconter le passé. Elle
+  demande à sa thérapeute un autre créneau et du temps pour en parler.
 slug: meriem-rendez-vous-du-mardi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Confiance dans le suivi
+sujet: Appréhension dans le suivi du trauma
 contexte: En séance avec sa thérapeute
 tags:
 - Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Alliance thérapeutique
-- Confiance
-- Continuité des soins
+- Appréhension des séances
+- Confiance dans le suivi
+- Rythme de la prise en charge
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -27,24 +27,87 @@ Le vendredi, Meriem arrive chez sa thérapeute avec le feutre qui servira à éc
 
 Elle a préparé deux phrases pour parler de la visite de Rémi. La première raconte que Dalila l’a raccompagné. La deuxième commence par « le lendemain ». Elle voudrait parler du temps qu’elle a passé à se reprocher d’avoir demandé de l’aide. La thérapeute lui demande par quoi elle souhaite commencer. Meriem ouvre son carnet, où elle a noté la première phrase en entier. Elle la laisse sous son pouce. « Je veux bien vous dire comment ça s’est terminé. Je veux surtout parler de ce que j’ai fait les jours d’après. »
 
-La thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu’elle a renoncé à l’atelier jeudi alors que Rémi n’y serait pas, et qu’elle a presque renoncé aussi à présenter le projet. Quand elle a fini, elle demande si elles peuvent prendre le temps de discuter de la façon dont elles travaillent ensemble. Les rendez-vous s’achèvent souvent juste avant qu’elle doive ouvrir la salle. Il lui arrive de partir sans poser la question qu’elle avait gardée pour la fin.
+La thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu’elle a renoncé à l’atelier jeudi alors que Rémi n’y serait pas, et qu’elle a presque renoncé aussi à présenter le projet. Quand elle a fini, elle hésite à poser une question sur la façon dont elles travaillent ensemble. Elle craint qu’en parlant du rythme, elles en viennent directement à un souvenir qu’elle ne souhaite pas raconter aujourd’hui. Elle demande pourtant si elles peuvent prendre le temps d’en discuter. Les rendez-vous s’achèvent souvent juste avant qu’elle doive ouvrir la salle. Il lui arrive de partir sans poser la question qu’elle avait gardée pour la fin.
 
-## Une place pour discuter de la façon de travailler
+## Quand la crainte freine la parole en séance
 
-Dans un suivi pour un stress post-traumatique complexe, il peut être utile de prendre du temps pour établir la confiance et comprendre ce qui rend une séance difficile à aborder. Le NICE invite à adapter le temps et le cadre aux besoins de la personne. Les obstacles peuvent tenir aux émotions, à la façon dont la personne se voit, à ses relations ou à ses conditions de vie.
+Dans le suivi du TSPT complexe, l’appréhension, la honte ou la difficulté à faire confiance peuvent compliquer la discussion, même quand on souhaite être accompagné. Le NICE recommande aux professionnels de prévoir davantage de temps pour établir la confiance selon les besoins, et de tenir compte de ce qui rend l’accès au soin difficile.
 
-## Comment cette difficulté se manifeste
+Meriem craint que poser une question sur le rythme l’amène à devoir raconter tout de suite quelque chose qu’elle ne veut pas aborder ce jour-là. Sa thérapeute peut expliquer les options et convenir avec elle du temps à réserver à ses questions. Les soins centrés sur le traumatisme se discutent avec une personne formée qui peut préciser ce qu’elle propose et pourquoi.
 
-Pour Meriem, il y a aussi un problème d’horaire : elle passe trop vite du cabinet à la salle où des personnes l’attendent.
+## Comment l’appréhension peut-elle gêner le suivi ?
 
-Sa thérapeute, formée à la prise en charge du traumatisme, peut l’aider à revenir sur ce qui l’a conduite à manquer le jeudi et lui expliquer les options de soin. Le NICE recommande, selon la situation, des psychothérapies centrées sur le traumatisme, comme certaines thérapies cognitives et comportementales ou l’EMDR. Ces approches sont proposées par des professionnels formés. Le choix et la façon d’avancer se discutent avec la personne. L’échange de patrons, qui compte dans la vie de Meriem, ne tient pas lieu de traitement et ne mesure pas l’effet d’une séance.
+### La phrase préparée reste sous le pouce
 
-## Deux rendez-vous qui ont chacun leur but
+Même avec des mots déjà choisis, une personne peut hésiter à commencer par ce qui la préoccupe le plus.
 
-Meriem peut demander de réserver un temps pour les questions sur le suivi et de déplacer un rendez-vous qui la met trop près de son service à l’atelier. Elle peut aussi dire qu’aujourd’hui elle souhaite parler des conséquences de la visite plutôt que d’autres événements. Sa thérapeute peut expliquer ce qu’elles pourraient travailler, dire quels créneaux elle a et convenir avec Meriem du point à reprendre la fois suivante.
+**Exemples concrets**
 
-Le rendez-vous du vendredi avec Ève a un autre objet. Il suffit d’apporter le feutre, de choisir l’emplacement des bacs et de répartir les premiers accueils. Meriem peut décider si elle veut prévenir Ève de quelque chose sur la séance. Le programme du samedi peut s’écrire sans cette information. Une phrase sur ce que chacune pourra faire à la table suffit.
+- Meriem couvre de son pouce la phrase sur la fin de la visite. Elle réussit à dire qu’elle voudrait parler des jours qui ont suivi.
+- Une personne peut apporter une note sur une semaine difficile et parler uniquement de l’heure du prochain rendez-vous en gardant sa note dans le sac.
+
+### Une question sur le soin est repoussée
+
+La crainte de ce que la réponse pourrait entraîner peut faire remettre une question utile sur le cadre ou le rythme.
+
+**Exemples concrets**
+
+- Meriem garde souvent ses questions pour les dernières minutes. Celle sur la façon de choisir le rythme risque encore de rester sans réponse.
+- Quelqu’un à qui l’on présente une approche peut garder pour plus tard sa question sur ce qui se passerait s’il demandait une pause pendant une séance.
+
+### L’heure de départ raccourcit ce qu’on peut dire
+
+Un horaire serré peut ajouter un obstacle aux sujets qu’une personne hésite déjà à aborder.
+
+**Exemples concrets**
+
+- Meriem doit souvent passer du cabinet à la salle où le groupe l’attend. Elle part avec la question qu’elle a gardée pour la fin.
+- Une personne qui doit attraper le dernier bus après la séance peut s’en tenir à ce qu’elle pense pouvoir dire avant de partir, même si elle aimerait parler du reste.
+
+## 3 techniques pour trouver une place à ses questions de suivi
+
+### 1. Annoncer ce qu’on souhaite aborder aujourd’hui
+
+Donner à la professionnelle une entrée en matière qui corresponde à ce que vous vous sentez prêt à dire.
+
+**Exercice pratique**
+
+- Choisissez un sujet que vous souhaitez aborder, comme les jours qui ont suivi une visite.
+- Préparez une phrase qui indique ce que vous préférez remettre à un autre jour.
+- Dites ou montrez cette phrase au début, selon ce qui vous est le plus facile.
+
+La thérapeute peut partir de votre priorité et préciser avec vous ce que la séance permet d’aborder.
+
+### 2. Poser une question sur la façon de travailler
+
+Mieux comprendre comment les décisions de soin se prennent ensemble.
+
+**Exercice pratique**
+
+- Choisissez une question sur le rythme ou le contenu proposé.
+- Demandez un temps pour en parler en début de séance.
+- Demandez ce que vous pouvez signaler si vous avez besoin de ralentir ou de faire une pause.
+
+Connaître les possibilités de discussion peut rendre le suivi plus compréhensible. Les décisions sur le traitement se prennent avec la professionnelle.
+
+### 3. Prévoir un créneau qui laisse du temps
+
+Réduire l’effet d’une contrainte qui écourte la discussion.
+
+**Exercice pratique**
+
+- Dites ce qui vous oblige à partir rapidement après la séance.
+- Demandez s’il existe un horaire plus praticable pour vous.
+- Confirmez le créneau et ce que vous voulez aborder en premier.
+
+Le changement peut enlever une difficulté concrète. Il n’a pas besoin de régler à lui seul la crainte de poser une question.
 
 ## Le chapeau attend sa deuxième taille
 
-Meriem retient le prochain mardi et demande qu’elles commencent par la question qu’elle n’a pas encore posée : comment décider ensemble du moment où elles aborderont ce qui lui est difficile ? En fin de journée, elle trace les mots sur du carton. Ève place l’enveloppe du chapeau dans le bac « À vérifier » et montre deux endroits où la table pourrait tenir. Meriem choisit celui où l’on peut faire le tour avec une poussette. Elles décident qu’Ève recevra les visiteurs et que Meriem expliquera les patrons à celles et ceux qui le souhaitent. À la vingtième minute, Ève remet son manteau. Les deux étiquettes sont à l’endroit.
+Sa thérapeute lui propose le prochain mardi, en dehors des heures d’ouverture de l’atelier. Meriem accepte et demande de commencer mardi par la question qui lui reste. « Comment on décide ensemble du moment où on aborde ce qui m’est difficile ? » Sa thérapeute le note. En fin de journée, Meriem trace les mots sur du carton. Ève place l’enveloppe du chapeau dans le bac « À vérifier » et montre deux endroits où la table pourrait tenir. Meriem choisit celui où l’on peut faire le tour avec une poussette. Elles décident qu’Ève recevra les visiteurs et que Meriem expliquera les patrons à celles et ceux qui le souhaitent. À la vingtième minute, Ève remet son manteau. Les deux étiquettes sont à l’endroit.
+
+---
+
+**Conclusion**
+
+Meriem obtient un rendez-vous où il sera possible de commencer par sa question sur le rythme. La préparation de l’échange suit son propre cours. Quand elle retrouve Ève et les deux bacs, elles peuvent décider qui fera quoi le samedi.

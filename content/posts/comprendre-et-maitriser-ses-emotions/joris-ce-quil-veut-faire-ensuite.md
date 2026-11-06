@@ -1,21 +1,21 @@
 ---
-title: Faire le bilan et choisir la suite
-description: Joris parle du coût de la soirée en consultation et retrouve les auteurs
-  pour un bilan. Une nouvelle idée prolonge ce qu’il a aimé faire.
+title: Un projet abouti et une gêne qui persiste au quotidien
+description: La lecture a abouti, mais les difficultés reviennent au studio. Avec
+  sa psychiatre, Joris précise ce qu’il voudrait retrouver dans ses échanges.
 slug: joris-ce-quil-veut-faire-ensuite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Joris
-sujet: Évaluer le retentissement sur la durée
+sujet: Persistance du retentissement au quotidien
 contexte: Dans les jours qui suivent la lecture, en consultation puis à la bibliothèque
 tags:
 - Trouble dépersonnalisation-déréalisation
 - Dépersonnalisation
 - Déréalisation
 - Trouble de dépersonnalisation-déréalisation
-- Bilan du retentissement
-- Objectifs de soin
-- Projet créatif
+- Persistance des difficultés
+- Retentissement dans les échanges
+- Suivi dans la durée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -30,18 +30,83 @@ Depuis, le détachement lui a encore pris du temps chez lui. Lors d’un autre d
 
 À la bibliothèque, Luc revient sur le temps qu’il a eu pour passer de la note au carnet. Dounia avait remarqué qu’elle pouvait attendre avant le premier mot. Joris leur demande ce qu’ils garderaient si les textes étaient lus à nouveau. En écoutant leurs réponses, il repense à l’estampe de l’enveloppe. Il aimerait voir ce que donne un petit dessin près d’une page lue à voix haute.
 
-## Suivre ce que le trouble change dans la vie
+## Une réussite et des difficultés qui reviennent
 
-L’évolution du trouble dépersonnalisation-déréalisation s’apprécie dans la durée et peut varier selon les personnes. La gêne peut revenir malgré un projet mené à terme. En consultation, la personne et le professionnel peuvent reprendre à la fois le vécu de détachement, les effets sur la vie et ce que la personne voudrait retrouver. Joris parle d’un projet qui a abouti et de conversations qu’il a encore du mal à suivre. Le bilan lui donne le temps de s’arrêter sur un dîner ordinaire, où l’effort mérite lui aussi d’être entendu.
+Le trouble dépersonnalisation-déréalisation peut se prolonger et son retentissement peut évoluer de façon inégale selon les activités. Un projet qui a abouti donne des informations sur ce qui a aidé dans ce cadre. Il ne dit pas à lui seul comment la personne vit les journées ordinaires qui suivent. Joris reprend la soirée avec sa psychiatre et lui raconte aussi un dîner où il a encore perdu le fil.
 
-## Ce que racontent le spectacle et le dîner
+## Comment des difficultés ordinaires peuvent-elles persister après un projet abouti ?
 
-Au foyer, Joris pouvait choisir le moment de sa question et la personne à qui il la posait. Au studio, l’histoire de Samir suivait son propre cours et Joris en a manqué une partie. Il a demandé de la reprendre et garde pourtant le regret de ne pas avoir suivi son ami du premier coup. Ce coût se révèle au fil des activités qui l’intéressent, y compris des plus familières. L’avis de Luc et de Dounia porte sur le travail de lumière. Joris garde sa propre lecture de l’effort qu’il a fourni.
+### Le bilan d’un projet rend visibles certains appuis
 
-## Garder un objectif au suivi et un projet à soi
+Les arrangements utiles pendant un événement donnent un repère pour parler de ce qui a changé à ce moment-là.
 
-Les choix d’accompagnement se discutent avec le professionnel, en tenant compte de ce que la personne souhaite et de ce qui la gêne. Joris propose de reprendre les échanges où il perd le fil, avec des exemples assez simples pour qu’ils puissent en parler. Le projet de dessin appartient à un autre registre. Il peut demander à Ava si elle veut le regarder avec lui, puis appeler l’artiste dont Samir lui a parlé. Il retrouve ainsi une question de métier qu’il a envie d’explorer à son rythme.
+**Exemples concrets**
+
+- Joris a pu choisir quand poser sa question à Dounia et partir au moment qui lui convenait.
+- Une personne peut dire qu’elle a tenu sa part lors d’un événement avec un ordre convenu à l’avance et un relais disponible.
+
+### Une habitude simple peut encore demander un effort
+
+La gêne peut persister dans un cadre où la personne n’avait rien préparé de particulier.
+
+**Exemples concrets**
+
+- À un dîner après la lecture, Joris perd une partie de l’histoire de Samir sur l’artiste.
+- Après avoir animé une rencontre préparée, une personne demande à une amie de reprendre un récit commencé dans la cuisine.
+
+### Les échanges ordinaires peuvent être touchés à plusieurs reprises
+
+Au fil du temps, la difficulté peut se remarquer aux conversations qu’il faut reprendre ou que l’on remet à plus tard.
+
+**Exemples concrets**
+
+- Joris voudrait pouvoir suivre plus facilement les histoires de Samir, y compris les semaines où il n’a rien de particulier à préparer.
+- Une personne qui a mené un atelier à terme dit au soignant qu’elle a encore dû écourter plusieurs appels du soir avec sa sœur.
+
+## 3 techniques pour faire le point sur ce qui reste difficile au quotidien
+
+### 1. Reprendre deux situations différentes au suivi
+
+Montrer ce qui a été possible et ce qui reste pénible.
+
+**Exercice pratique**
+
+- Choisissez un moment où un aménagement vous a aidé.
+- Ajoutez une situation ordinaire où la gêne a encore compté.
+- Dites ce que vous aimeriez retrouver dans ce deuxième cadre.
+
+La discussion peut se porter sur une difficulté quotidienne qui n’apparaît pas dans le bilan du projet.
+
+### 2. Convenir d’un prochain point
+
+Donner au suivi un objectif dont vous pouvez reparler ensemble.
+
+**Exercice pratique**
+
+- Proposez un exemple d’échange que vous aimeriez suivre plus facilement.
+- Demandez au professionnel ce que vous pouvez examiner ensemble.
+- Fixez quand vous en reparlerez et quels exemples seront utiles.
+
+Le rendez-vous suivant peut s’appuyer sur ce qui change dans votre vie.
+
+### 3. Faire un premier pas vers un projet qui vous tient à cœur
+
+Garder une place pour une envie qui existe à côté du suivi.
+
+**Exercice pratique**
+
+- Repérez une idée que vous avez envie de poursuivre.
+- Demandez à une personne concernée si elle souhaite en parler.
+- Convenez d’un premier échange qui vous convient à tous les deux.
+
+Le projet peut avancer pendant que vous continuez à discuter de la gêne au suivi.
 
 ## Une place pour le dessin près du texte
 
-Joris range le programme signé avec la feuille jaune qu’Ava lui rend. Il remercie les auteurs pour leurs remarques et note ce qu’il voudrait reprendre un jour avec eux. En rentrant, il demande à Samir s’il peut lui présenter l’artiste des estampes. Samir propose de lui écrire ensemble le lendemain. Joris ouvre un carnet et dessine la table qu’il aimerait éclairer, avec assez de place pour la page et l’image.
+Joris range le programme signé avec la feuille jaune qu’Ava lui rend. Il remercie les auteurs pour leurs remarques et note ce qu’il voudrait reprendre un jour avec eux. En rentrant, il revient avec Samir à l’endroit où il avait perdu le fil de l’histoire. Il lui demande s’il peut lui présenter l’artiste des estampes. Samir propose de lui écrire ensemble le lendemain. Joris ouvre un carnet et dessine la table qu’il aimerait éclairer, avec assez de place pour la page et l’image.
+
+---
+
+**Conclusion**
+
+La lecture est terminée et les choix de lumière ont trouvé leur place. Le dîner où Joris a perdu le fil compte aussi dans le bilan avec sa psychiatre. Avec Samir, il peut reprendre l’histoire de l’artiste et avancer l’idée d’un dessin près d’une page lue à voix haute.

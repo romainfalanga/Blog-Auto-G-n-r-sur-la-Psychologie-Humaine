@@ -29,16 +29,81 @@ Laure sent son avant-bras contre le bord de la table. Elle connaît cette sensat
 
 ## Une permanence peut se décrire précisément
 
-Laure peut accueillir et renseigner des visiteurs. La durée, le fait d’être seule et la possibilité de quitter la table à l’heure influent sur ce que cette tâche lui coûte. L’évaluation du retentissement gagne à préciser ces conditions. Une capacité réelle observée pendant une heure ne permet pas de prévoir trois heures identiques. Les besoins d’information des lecteurs et les disponibilités de l’équipe comptent également. À la mairie, les dates des essais et les détails du relais donnent une base commune pour prendre une décision.
+Le retentissement de symptômes persistants au travail dépend de la tâche, de sa durée et de l’aide disponible. Dans le trouble de détresse physique, la douleur ou la fatigue et l’attention qu’elles mobilisent peuvent peser sur l’énergie restante après un créneau. Laure sait renseigner des visiteurs. Les essais lui apprennent dans quelles conditions elle peut le faire et partir à l’heure. Cela donne une base plus précise qu’une promesse de tenir toute la matinée.
 
-## Le samedi commence à prendre toute la semaine
+## Comment le retentissement au travail dépend-il des conditions du créneau ?
 
-Avant de répondre, Laure a déjà imaginé le temps qu’il lui faudrait récupérer après trois heures et les préparatifs à avancer pour y arriver. Elle remarque que sa journée de travail et sa semaine commencent à s’organiser autour des symptômes qu’elle anticipe. Elle dispose aussi d’informations qui proviennent des essais. Elle sait transmettre une demande à la personne suivante et se sent plus à l’aise quand celle-ci est attendue. Mettre ces éléments sur la table lui permet de discuter de ce qu’elle peut proposer au lieu de promettre une disponibilité incertaine.
+### Le geste reste possible et sa durée change le coût
 
-## Prévoir le relais et l’annoncer
+La capacité à faire une tâche sur une période ne prédit pas ce que demande une période plus longue.
 
-Le groupe décide d’ouvrir un samedi par mois avec deux personnes dont les tâches sont écrites. Laure apporte le créneau qu’elle souhaite garder et précise les conditions de son accueil. La mairie peut examiner la solution à partir des horaires et du service rendu. Le planning prévoit aussi qui confirme un remplacement et qui prévient les visiteurs quand il manque quelqu’un. Une personne qui se retire à l’heure dispose d’un accord déjà fait. Elle n’a pas besoin de détailler sa santé devant le public pour que l’organisation fonctionne.
+**Exemples concrets**
+
+- Laure a accueilli des visiteurs pendant une heure, tandis que la mairie propose trois heures.
+- Une personne renseigne le public pendant une demi-heure et ne sait pas ce que lui coûterait le même travail jusqu’à midi.
+
+### La fin de la permanence change la suite de la journée
+
+La possibilité de partir à l’heure peut préserver de l’énergie pour d’autres activités.
+
+**Exemples concrets**
+
+- Après la permanence décalée, Laure a profité de son après-midi.
+- Une personne garde un rendez-vous après le travail quand un collègue reprend la file à l’heure annoncée.
+
+### L’aide doit être disponible à la date prévue
+
+Un relais peut convenir dans son principe et manquer pour une ouverture particulière.
+
+**Exemples concrets**
+
+- Yasmina annonce une obligation familiale au prochain créneau proposé.
+- Une collègue peut remplacer au premier essai et prévient qu’elle n’aura pas la même disponibilité le mois suivant.
+
+## 3 techniques pour définir un créneau de travail faisable
+
+### 1. Apporter la trace des essais
+
+Négocier à partir de conditions observées.
+
+**Exercice pratique**
+
+- Notez la durée et le nombre de personnes présentes.
+- Indiquez ce que vous avez pu faire et ce que cela vous a coûté ensuite.
+- Présentez ces éléments à la personne qui fixe le planning.
+
+La discussion porte sur des aménagements concrets plutôt que sur une capacité supposée.
+
+### 2. Préciser le relais à l’horaire utile
+
+Vérifier que la durée promise correspond à l’équipe disponible.
+
+**Exercice pratique**
+
+- Indiquez le moment où vous devez pouvoir partir.
+- Demandez qui peut prendre la suite à cette date.
+- Confirmez son accord avant de diffuser l’horaire.
+
+L’organisation peut accueillir le public sans compter sur une disponibilité qui n’a pas été vérifiée.
+
+### 3. Programmer une révision
+
+Garder la possibilité d’adapter le créneau à ce qui se passe.
+
+**Exercice pratique**
+
+- Convenez d’un petit nombre de dates pour commencer.
+- Choisissez ce que l’équipe observera, notamment les besoins du public et le coût des tâches.
+- Fixez un point après ces ouvertures.
+
+Le planning peut évoluer à partir d’une expérience partagée.
 
 ## Un nom confirmé pour chaque heure
 
 L’adjointe accepte le démarrage mensuel. Yasmina propose de préparer le matériel avant sa date d’indisponibilité, à condition que la seconde personne soit trouvée d’ici lundi. La mairie mettra en ligne les deux premières dates et l’équipe reverra les horaires à la suite de ces ouvertures. Le lundi, une collègue de la bibliothèque, Lucie, confirme qu’elle peut tenir de dix heures trente à onze heures trente le premier jour. Laure ajoute son nom au tableau et lui propose une courte répétition.
+
+---
+
+**Conclusion**
+
+Laure propose un horaire qu’elle a de bonnes raisons d’essayer. Yasmina signale son indisponibilité et Lucie accepte le premier relais. L’accueil peut démarrer sur deux dates et l’équipe aura des conditions précises à revoir avec la mairie.

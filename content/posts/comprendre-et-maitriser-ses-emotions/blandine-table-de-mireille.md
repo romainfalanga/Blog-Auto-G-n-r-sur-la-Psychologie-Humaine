@@ -29,22 +29,83 @@ Mireille connaît la réunion prévue lundi. Elle propose de prendre en photo la
 
 Son cousin commence une phrase : « Si ça te fait toujours cet effet après tout ce temps… » Puis il l’interrompt pour rattraper la pelle à tarte, qui bascule dans l’assiette. Blandine aurait préféré qu’il lui demande pourquoi elle a apporté le dossier. Elle lui tend la pelle et explique qu’elle veut toujours savoir à qui est le feuillet. Pour l’image, elle répond à Mireille qu’elle n’est pas prête à la faire circuler.
 
-## Le calendrier ne suffit pas
+## Les rites donnent un contexte aux émotions
 
-Un rituel de souvenir peut réveiller une émotion vive et avoir une place ordinaire dans le deuil. L’OMS souligne que les coutumes, les dates marquées et les façons de montrer son chagrin varient selon les familles et leurs contextes sociaux, culturels ou religieux. Pour la CIM-11, six mois constituent un repère minimal : dans certains contextes, une durée bien plus longue reste attendue. Le temps écoulé ne suffit jamais. L’évaluation prend aussi en compte la persistance, l’intensité, le contexte de la personne et les effets sur sa vie.
+Les manières de vivre et de commémorer un deuil varient selon les familles, les cultures et les pratiques religieuses. Des larmes au cours d’un anniversaire peuvent s’inscrire dans un rituel ordinaire. Pour évaluer un trouble du deuil prolongé, les professionnels examinent la durée, l’intensité et les conséquences de la souffrance en tenant compte de ce contexte. Le déjeuner de Blandine montre ce que le rituel signifie pour elle, ce jour-là.
 
-Mireille ne dispose que d’un moment à table et du souvenir des repas précédents.
+## Comment le contexte donne-t-il un autre sens à une réaction de deuil ?
 
-## Comment cette difficulté se manifeste
+### Une date peut réunir les souvenirs
 
-Elle peut apprendre ce que Blandine souhaite pour cette journée. Les larmes qui surviennent en voyant l’écriture de Jeanne ne permettent pas de tirer une conclusion sur l’état de Blandine. Elles peuvent coexister avec le plaisir d’entendre le cousin raconter la dispute des deux sœurs à propos de la meilleure variété de prunes.
+Une commémoration donne parfois une place explicite à une émotion qui surgirait autrement à l’improviste.
 
-## Garder le rituel et choisir ce qui circule
+**Exemples concrets**
 
-La famille a un usage commun pour les cartes et les recettes. Il reste à décider ce que Blandine veut confier au groupe cette fois. Elle peut laisser photographier la tarte et raconter l’histoire des fruits, puis remettre la partition dans son cabas. Mireille peut envoyer ce qu’elles ont choisi ensemble. Si elle veut connaître l’origine du feuillet, elle peut le regarder avec Blandine après le repas, quand la table est rangée et que les autres invités n’attendent plus une explication.
+- La carte au nom de Jeanne reste près de la tarte le jour de son anniversaire.
+- Une famille prépare un plat de la personne disparue et accepte que quelqu’un s’arrête pour pleurer en le servant.
 
-Blandine sait que ce déjeuner lui coûte de l’énergie ; elle veut encore entendre l’histoire des prunes. Elle peut dire à quelle heure elle souhaite partir et demander qu’on lui garde une part pour le soir. C’est un choix d’organisation pour la journée. Si elle a envie de reparler ensuite du poids de la semaine avec sa thérapeute, le repas lui fournit un exemple, avec ce qu’il avait de difficile et ce qui lui a fait du bien.
+### Un même geste peut avoir plusieurs sens
+
+Se rassembler, apporter un objet ou prendre une photo peut répondre à des usages différents selon les personnes.
+
+**Exemples concrets**
+
+- Blandine apporte le dossier pour retrouver à qui appartient un feuillet ; elle ne souhaite pas que son image circule.
+- Une personne veut participer à un repas du souvenir et préfère ne pas figurer sur la photo envoyée au reste de la famille.
+
+### Les proches et la personne ne regardent pas les mêmes périodes
+
+Un proche peut voir une émotion un jour particulier, alors que la personne sait ce qu’elle traverse les jours ordinaires.
+
+**Exemples concrets**
+
+- Le cousin réagit au temps écoulé en voyant Blandine à table.
+- Une personne raconte à son médecin que la cérémonie lui fait du bien mais que la plupart de ses journées restent difficiles à organiser.
+
+## 3 techniques pour parler d’un deuil dans son contexte
+
+### 1. Dire le sens du rituel
+
+Faire comprendre pourquoi une date ou un geste compte.
+
+**Exercice pratique**
+
+- Nommez le moment dont vous parlez.
+- Expliquez ce que vous souhaitez y faire.
+- Précisez ce que vous préférez laisser de côté.
+
+La discussion part d’un usage qui vous appartient plutôt que d’une lecture extérieure de vos larmes.
+
+### 2. Choisir ce qui peut circuler
+
+Garder la main sur les traces laissées par une commémoration.
+
+**Exercice pratique**
+
+- Demandez ce qui sera photographié et qui recevra l’image.
+- Séparez les objets qui peuvent figurer de ceux que vous souhaitez garder privés.
+- Confirmez l’accord une fois le cadrage choisi.
+
+Une photo du rituel peut exister sans rendre publics tous les souvenirs apportés.
+
+### 3. Comparer un jour particulier et une semaine ordinaire
+
+Aider le suivi à replacer l’émotion dans la durée.
+
+**Exercice pratique**
+
+- Décrivez ce qui est attendu autour de la date.
+- Parlez aussi d’un jour sans rituel et de ce qu’il vous a permis ou coûté.
+- Demandez un avis professionnel si la souffrance reste envahissante ou gêne le quotidien.
+
+Les professionnels peuvent apprécier l’ensemble plutôt que se prononcer sur la force d’une réaction au repas.
 
 ## La photo de la tarte
 
 Mireille prend la photo après que Blandine a rapproché du plat la carte au nom de Jeanne. Elles regardent ensuite le feuillet. L’initiale au dos est celle de leur mère ; Mireille lui rapportera la feuille. Blandine garde les autres et glisse dans une chemise jaune Le Pont et Les Fenêtres, les deux titres nommés par Léon. Les Saules reste sous l’élastique bleu. Dans le bus, elle s’aperçoit qu’elle a encore dans sa poche le morceau de papier sur lequel elle voulait noter la variété des prunes.
+
+---
+
+**Conclusion**
+
+La carte de Jeanne et le feuillet destiné à sa mère n’ont pas la même place dans ce déjeuner. Blandine peut décider de ce qu’elle transmet. L’émotion de ce jour a son contexte ; les effets durables du manque se discutent au fil du suivi.

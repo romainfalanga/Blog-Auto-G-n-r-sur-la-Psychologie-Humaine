@@ -29,18 +29,83 @@ La personne qui la reçoit connaît la date du prochain point médical. Clémenc
 
 Baya est restée dehors parce qu’elles doivent se retrouver après. Elle lui avait demandé si elle souhaitait qu’elle l’accompagne jusque dans la salle. Clémence a préféré venir seule. À présent, elle pense à une chose qu’elle pourrait lui demander la prochaine fois. Elles pourraient se retrouver à l’entrée pour marcher ensuite vers la bibliothèque. Dans le carnet, il lui reste surtout à trouver où écrire le nom de la personne qui pourra répondre entre les rendez-vous.
 
-## Réunir les éléments du suivi
+## Mettre le retentissement de l’anorexie en mots
 
-Un suivi spécialisé de l’anorexie mentale tient ensemble la santé physique, la santé psychique et ce que la personne vit dans son quotidien. Le NICE recommande une prise en charge coordonnée entre les professionnels concernés.
+Le suivi de l’anorexie mentale peut examiner à la fois le vécu autour de l’alimentation, les effets sur la journée et la santé physique. Donner une situation précise permet de décrire ce que la personne ne sait pas encore expliquer. Clémence raconte le carnet ouvert et le travail qu’elle n’a pas réussi à reprendre. Elle veut aussi savoir comment joindre l’équipe si une autre inquiétude apparaît entre deux rendez-vous.
 
-## Comment cette difficulté se manifeste
+## Comment une difficulté du quotidien devient-elle abordable en consultation ?
 
-Clémence peut leur demander comment ils se répartissent le suivi, de quelle façon ils échangent les éléments utiles et quel contact utiliser entre les rendez-vous. Les professionnels évaluent les signes préoccupants et décident avec elle des suites adaptées. Une question peut leur être adressée même lorsqu’elle ne sait pas comment la nommer. Le projet du ciné-club et les contraintes de ses études peuvent aussi figurer parmi les sujets dont elle veut parler.
+### Une activité interrompue donne un point de départ
 
-## Inviter Baya à un moment qu’elles choisissent
+Le récit d’un moment précis aide à faire comprendre la gêne sans avoir à trouver d’abord le mot clinique juste.
 
-Clémence peut souhaiter venir seule à un entretien et retrouver Baya ensuite. Un autre jour, elle peut lui demander d’être présente pendant une partie du rendez-vous. Il leur revient de dire ce qui leur convient et à l’équipe de préciser la place possible de cette présence. Baya peut proposer un geste concret, par exemple l’attendre au hall ou lui rappeler une question qu’elle lui a confiée. Le contenu de l’entretien reste à partager selon le choix de Clémence et le cadre discuté avec les professionnels. Une amie peut aussi venir pour le plaisir de poursuivre une conversation sur le film.
+**Exemples concrets**
+
+- Clémence explique ce qu’elle cherchait dans le carnet à la bibliothèque.
+- Elle dit qu’elle n’arrivait plus à suivre le passage après avoir relu l’organisation du foyer.
+
+### Une question peut concerner plusieurs professionnels
+
+La personne n’a pas toujours à déterminer elle-même qui doit évaluer ce qui l’inquiète.
+
+**Exemples concrets**
+
+- Clémence retrouve dans des pages différentes le nom pour les études et celui donné pour la santé.
+- Elle demande qui joindre si une difficulté physique se présente avant le point médical.
+
+### La présence d’un proche peut se décider à part
+
+On peut souhaiter venir seul en consultation et retrouver une personne après.
+
+**Exemples concrets**
+
+- Baya propose d’entrer avec elle et Clémence choisit de parler seule.
+- À la sortie, elles se retrouvent pour marcher vers la bibliothèque et parler d’un décor.
+
+## 3 techniques pour préparer une consultation à partir de ce que l’on vit
+
+### 1. Partir d’une scène récente
+
+Donner au professionnel un exemple qu’il peut vous aider à préciser.
+
+**Exercice pratique**
+
+- Notez où vous étiez et ce que vous vouliez faire.
+- Décrivez ce qui a pris votre attention et ce que vous avez laissé en suspens.
+- Lisez la note ou racontez le moment de la façon qui vous convient.
+
+L’échange peut porter sur les effets de la difficulté même si son origine reste à examiner.
+
+### 2. Trouver le contact entre deux rendez-vous
+
+Savoir à qui transmettre une nouvelle inquiétude.
+
+**Exercice pratique**
+
+- Demandez quel contact utiliser pour une difficulté qui apparaît entre les points prévus.
+- Demandez ce qu’il faut faire si la question ne peut pas attendre.
+- Reformulez la réponse et notez-la à un endroit que vous retrouvez facilement.
+
+Une inquiétude peut être signalée sans refaire seul le tri entre les professionnels.
+
+### 3. Choisir l’aide autour du rendez-vous
+
+Décider de ce que l’on souhaite faire seul ou avec une personne de confiance.
+
+**Exercice pratique**
+
+- Dites si vous préférez entrer seul, accompagné ou être rejoint à la sortie.
+- Convenez d’un lieu et d’une heure avec la personne disponible.
+- Indiquez ce dont vous voulez parler ensuite, si vous le savez.
+
+Un appui concret peut être offert sans faire entrer le proche dans l’échange médical.
 
 ## Au dos de l’invitation
 
 Clémence écrit le contact au dos de l’invitation et demande à qui s’adresser si l’inquiétude ne peut pas attendre. Elle reprend l’information dans ses propres mots avec la personne qui l’a reçue. À la sortie, Baya lui montre une image de sa comédie, prise au moment où deux personnes se croisent près d’un arrêt. Clémence lui propose de marcher vers la bibliothèque. Elle aimerait comprendre ce que Baya voit dans le décor.
+
+---
+
+**Conclusion**
+
+Clémence écrit le contact au dos de l’invitation et vérifie quand l’utiliser. Elle a pu parler d’une scène qui a débordé sur ses études sans devoir en expliquer seule tous les effets. Baya la retrouve après pour regarder un autre détail du film.

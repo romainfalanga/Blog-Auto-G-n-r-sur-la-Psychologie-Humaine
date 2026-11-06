@@ -29,22 +29,83 @@ Le même matin, elle a reçu deux messages. Le médecin du travail lui propose d
 
 Elle apporte à sa thérapeute une page où elle a écrit le détour du canal, les nuits difficiles et la conversation sous le tilleul. Le papier a pris l’odeur des sachets qui étaient au fond de son sac. Selma avait cru qu’au moment de décider du travail elle saurait tout de suite ce qu’elle voulait. Aujourd’hui, elle souhaite surtout savoir quelles options elle peut examiner. Elle tient encore à son métier et aimerait prendre le temps d’en parler.
 
-## Revenir sur ce qui a aidé et ce qui coûte encore
+## Une évolution qui se voit dans plusieurs domaines
 
-Le suivi d’un trouble de stress post-traumatique peut faire place à l’évolution des réactions, aux activités importantes pour la personne et aux besoins qui demeurent. Le NICE prévoit que les professionnels puissent préparer la suite du soutien avec elle, y compris lorsque des difficultés persistent.
+Le retentissement du TSPT peut changer au fil du suivi et des activités. Retrouver l’envie de faire une tâche ne fait pas disparaître les difficultés rencontrées ailleurs. Selma a aimé rendre les dossiers utiles et elle a perdu une matinée quand la salle a changé. Elle peut apporter ces deux faits aux professionnels, avec les nuits difficiles et les conversations qu’elle a pu reprendre autour de la serre.
 
-## Les tâches qu’elle retrouve et celles qui lui coûtent encore
+## Comment faire un bilan quand certaines choses reprennent et que d’autres coûtent encore ?
 
-Selma a retrouvé le plaisir de rendre un dossier utilisable pour la personne suivante. Elle se rappelle aussi la matinée où le changement de salle l’a arrêtée à l’accueil. Sur la page qu’elle apporte en consultation, les nuits difficiles et le détour du canal côtoient le souvenir d’une conversation avec les voisins. Son travail et sa vie sociale lui donnent des exemples de ce qu’elle reprend et des situations qui restent éprouvantes.
+### Le plaisir d’une tâche revient
 
-## Garder la suite professionnelle ouverte
+Une activité retrouvée peut préciser ce que la personne souhaite garder ou reprendre.
 
-Au rendez-vous de santé au travail, Selma peut demander quelles options restent possibles, quels aménagements ont aidé et ce qu’il faudrait examiner si elle souhaite évoluer vers d’autres fonctions. Les décisions touchant à la conduite et à la sécurité suivent leur cadre professionnel. Selma participe à la discussion en disant ce qui compte pour elle. Les dates prévues pour ces échanges lui donnent le temps de poser ses questions.
+**Exemples concrets**
 
-D’ici là, le projet de la serre garde sa place. Elle peut convenir d’un prochain partage, revoir la quantité de graines qu’elle veut garder ou laisser un rang libre. Ce sont des décisions à prendre avec les personnes concernées, au moment qui lui convient.
+- Selma se rappelle le plaisir de préparer un dossier pour la personne suivante.
+- Sous le tilleul, elle a proposé un lieu et une heure pour partager les récoltes.
 
-Avec sa thérapeute, Selma peut préciser les questions à reprendre et savoir à qui s’adresser si une difficulté survient avant le prochain rendez-vous. Elle peut dire à André quel appui pratique l’intéresse, comme garder un horaire convenu pour l’arrosage. André choisit la part qu’il souhaite prendre.
+### Un rappel continue à modifier la journée
+
+Le retentissement persistant peut se lire dans les déplacements, le repos ou l’organisation du travail.
+
+**Exemples concrets**
+
+- Selma garde en mémoire l’attente dans le siège de l’accueil après le changement de salle.
+- Elle note aussi le détour par le canal et les nuits difficiles pour sa thérapeute.
+
+### L’avenir professionnel reste une question ouverte
+
+Un essai et un avis permettent de discuter des options sans dater la fin des difficultés.
+
+**Exemples concrets**
+
+- La santé au travail propose de revoir les aménagements après la mission.
+- Selma souhaite comprendre ce qu’elle peut examiner sans devoir décider tout de suite si elle reprendra son poste.
+
+## 3 techniques pour faire le point sur un rétablissement qui se poursuit
+
+### 1. Apporter deux situations différentes
+
+Rendre compte à la fois de ce qui reprend et de ce qui reste coûteux.
+
+**Exercice pratique**
+
+- Choisissez un geste qui a retrouvé sa place.
+- Ajoutez un moment où un rappel ou la fatigue a encore changé vos plans.
+- Décrivez les deux au professionnel qui vous accompagne.
+
+Le bilan peut reconnaître un progrès sans écarter les difficultés persistantes.
+
+### 2. Garder une question pour chaque rendez-vous
+
+Adresser les questions de soins et de travail à la personne qui peut y répondre.
+
+**Exercice pratique**
+
+- Notez ce que vous souhaitez reprendre avec le thérapeute.
+- Écrivez séparément la question sur les horaires, la mission ou l’aptitude.
+- Vérifiez avec la santé au travail les options et la prochaine décision possible.
+
+Les échanges peuvent avancer sans exiger une réponse unique sur l’ensemble de la vie.
+
+### 3. Laisser un projet ouvert quand le choix n’est pas mûr
+
+Conserver une activité ou une relation sans décider de tout maintenant.
+
+**Exercice pratique**
+
+- Choisissez ce qui est déjà convenu, comme le prochain arrosage.
+- Nommez le choix que vous voulez encore examiner.
+- Fixez un moment pour en reparler si quelqu’un a besoin d’une réponse.
+
+Il reste une place pour les décisions qui demandent du temps, au jardin comme dans la reprise.
 
 ## Le rang reste libre
 
 En sortant du cabinet, Selma confirme le rendez-vous de santé au travail et demande combien de temps l’échange pourra durer. Elle retrouve André près du banc. Il a apporté les graines dont il lui avait parlé. Elle ouvre le sachet et voit que les fleurs qui y sont dessinées sont bleues. André lui propose d’en emporter la moitié. Elle lui demande si elle peut regarder le sachet chez elle. Il lui dit de lui rendre le reste jeudi. Au bout de l’allée, elle laisse le dernier rang libre pour le moment.
+
+---
+
+**Conclusion**
+
+Selma confirme le rendez-vous de santé au travail et laisse le rang libre pour le moment. Les récoltes partagées, les dossiers repris et la matinée reportée ont tous leur place dans le bilan. Le suivi lui permet de continuer à examiner ce qu’elle veut faire de ces expériences.

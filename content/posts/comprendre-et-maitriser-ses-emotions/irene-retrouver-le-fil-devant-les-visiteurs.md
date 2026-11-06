@@ -29,22 +29,83 @@ Les mains d’Irène reprennent leur mouvement quand la femme se penche pour reg
 
 Ilyès avait glissé un signet sous la première page des toits. Il se tourne vers Irène et lui demande si elle veut retrouver la page. De l’autre côté de la table, la femme cherche où la place pourrait apparaître. Irène peut encore poser sa question. Elle voudrait que le garçon lui montre le toit qu’il choisirait pour sa sonnette.
 
-## Reprendre peut faire partie de la lecture
+## Un rire peut réveiller le souvenir d’une moquerie
 
-Participer à une activité reste possible quand un mouvement répété en interrompt un moment. Ce qui compte ici, c’est qu’Irène puisse retrouver l’image et décider ce qu’elle veut faire de la remarque du garçon. Après l’expérience du CDI, le rire lui fait lever la tête. Dans cette salle, le garçon montre un détail du livre.
+Après une moquerie liée à un mouvement, un nouveau rire peut faire craindre d’être de nouveau visé. Ce retentissement social mérite d’être pris au sérieux, même quand le rire a une autre cause. Irène repense au CDI et cherche aussitôt ce que le garçon regarde. En retrouvant l’image de la miche, elle peut entendre son idée et décider de reprendre la question.
 
-## Comment cette difficulté se manifeste
+## Comment une ancienne moquerie peut-elle peser sur un nouvel échange ?
 
-Irène a le temps d’écouter sa proposition avant de revenir au pli. Elle n’a pas à deviner ce qu’un autre visiteur penserait de ses gestes.
+### L’attention se tourne vers ce que les autres regardent
 
-La possibilité de reprendre vient de plusieurs choses qui fonctionnent ensemble : l’espace disponible, le signet et l’accord avec Ilyès. Elle se voit dans la question qu’Irène peut poser ensuite. On pourrait avoir la même reprise un jour où les mouvements sont plus présents, ou perdre le fil un jour où ils le sont moins. L’essai renseigne sur l’aide apportée dans cette lecture.
+Le souvenir d’une remarque peut revenir dès qu’un geste et une réaction semblent coïncider.
 
-## Suivre la proposition d’un lecteur
+**Exemples concrets**
 
-Ilyès peut retrouver le pli et laisser Irène décider si elle veut parler. Il peut aussi continuer lui-même si elle le lui demande. Elle peut s’appuyer sur le dessin de la miche pour accueillir une idée qu’elle n’avait pas prévue. Le rôle de chacun se règle au cours de la lecture, comme ils en avaient décidé devant le programme.
+- Irène regarde le garçon qui rit au moment où ses mains bougent.
+- Un enfant entend rire derrière lui et se demande si les autres parlent encore de ses gestes.
 
-La femme a posé une question à laquelle le livre ne donne pas de réponse. Les deux auteurs peuvent la laisser essayer de relier deux voies. Pour garder un point de retour, on peut déplacer le signet à l’image que les lecteurs veulent revoir. Les visiteurs trouveront peut-être un troisième chemin. Les auteurs resteront libres de le dessiner plus tard ou de le laisser dans l’histoire racontée ce matin-là.
+### La réaction présente peut avoir un autre objet
+
+Regarder le détail désigné ou écouter ce que la personne dit peut aider à comprendre ce qui se passe, si l’on veut rester dans l’échange.
+
+**Exemples concrets**
+
+- Le garçon pointe la miche et la prend pour une sonnette.
+- Une lectrice s’aperçoit que le rire vient d’un détail du dessin qu’un camarade montre aux autres.
+
+### La personne peut reprendre ou demander un relais
+
+Une fois le contexte retrouvé, il reste possible de poser la question ou de laisser quelqu’un d’autre accueillir le groupe.
+
+**Exemples concrets**
+
+- Irène demande à revoir le pli, pose sa question, puis confie l’accueil suivant à Ilyès le temps de ranger le dessin.
+- Un enfant choisit de terminer une réponse avec son binôme et de faire une pause avant le prochain visiteur.
+
+## 3 techniques pour retrouver ce qui se passe dans l’échange présent
+
+### 1. Demander à revoir le détail
+
+Reprendre une scène quand un regard ou un rire a fait perdre le fil.
+
+**Exercice pratique**
+
+- Identifiez la page ou l’objet dont les autres parlent.
+- Demandez qu’on vous le montre si nécessaire.
+- Choisissez si vous voulez entendre la suite ou faire une pause.
+
+Le contexte redevient accessible sans vous obliger à rester dans l’échange.
+
+### 2. Confier une reprise courte au binôme
+
+Garder une place pour revenir au moment choisi.
+
+**Exercice pratique**
+
+- Dites ce que vous voulez qu’il reprenne, par exemple l’accueil.
+- Indiquez si vous souhaitez retrouver la page ou un peu de temps.
+- Reprenez lorsque vous êtes prêt et que le contexte vous convient.
+
+Le relais protège la continuité de l’activité sans fixer un rôle pour le reste de la rencontre.
+
+### 3. Reparler d’une inquiétude qui revient
+
+Pouvoir demander une aide si la peur d’être moqué pèse sur les activités.
+
+**Exercice pratique**
+
+- Dites à un adulte de confiance ce qui vous a inquiété.
+- Décrivez la réaction observée et le souvenir qu’elle a réveillé.
+- Demandez à l’adulte d’intervenir si une moquerie vise la personne, ou d’aider à préparer une reprise si elle le souhaite.
+
+L’entourage peut reconnaître l’inquiétude et répondre à la situation présente.
 
 ## La miche devient une sonnette
 
 « La page, s’il te plaît. » Ilyès retrouve le pli grâce au signet et Irène demande qui viendrait sonner. Le garçon dit « les gens du canal » : ils sortiraient par les marches et monteraient jusqu’aux toits pour acheter du pain. La femme rit à son tour et montre où elle ferait passer le chemin. Irène esquisse la liaison au verso d’un signet. Quand le groupe repart, elle demande à Ilyès d’accueillir le suivant le temps qu’elle range ce dessin dans leur pochette. Puis elle pousse sa trousse de quelques centimètres pour qu’elle ne recouvre pas le banc.
+
+---
+
+**Conclusion**
+
+Le garçon propose un chemin par les marches jusqu’à la miche. Irène retrouve sa question, puis garde le croquis à part. Ilyès peut accueillir le groupe suivant pendant qu’elle range cette idée.

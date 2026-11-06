@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Comment une interprétation peut prendre la force d’une conviction",
-          "text": "Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi. Chez Gasparde, l’espace blanc fait surgir l’idée qu’on s’organise pour l’écarter. Elle l’éprouve avec une force qui dépasse la simple question du tableau. Cette peur s’inscrit dans une histoire plus longue dont elle parle en consultation. Son équipe lui a expliqué le diagnostic de trouble délirant avant le début du récit."
+          "text": "Dans le trouble délirant, une conviction persistante peut porter sur l’idée que d’autres cherchent à nuire ou à écarter la personne. Elle peut donner un sens personnel à des faits ordinaires et rester très convaincante pour la personne qui la vit. Le diagnostic de Gasparde a été établi avant le récit, à partir d’une histoire plus longue. Un prénom absent d’une affiche est une observation vérifiable. Le projet d’exclusion que Gasparde croit y reconnaître reste son interprétation."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans ce trouble, les convictions persistantes peuvent concerner des intentions hostiles que la personne attribue à son entourage. Leur contenu et leur retentissement varient. La disparition du nom sur l’affiche est observable. Ce qu’elle signifie pour les autres membres du club reste à préciser. Une évaluation clinique se fait à partir d’une histoire et d’un ensemble d’éléments, y compris les conflits ou les injustices effectivement vécus."
+          "heading": "Comment une conviction persécutive prend-elle appui sur des détails ordinaires ?",
+          "points": [
+            {
+              "heading": "Un détail prend le sens d’une décision",
+              "text": "Ce que la personne observe et ce qu’elle en déduit peuvent lui paraître inséparables.",
+              "examples": [
+                "L’espace blanc après les horaires paraît annoncer à Gasparde qu’elle n’a plus sa place.",
+                "Quelqu’un lit une liste réorganisée et y voit un message dirigé contre lui avant de connaître la raison du changement."
+              ]
+            },
+            {
+              "heading": "D’autres scènes semblent donner la même réponse",
+              "text": "Une préoccupation déjà présente peut orienter le sens donné à des paroles entendues en passant.",
+              "examples": [
+                "Une question entre deux joueurs semble à Gasparde faire allusion à une décision dont elle a été tenue à l’écart.",
+                "Une conversation s’interrompt au moment où une personne arrive et elle croit y reconnaître la même intention hostile."
+              ]
+            },
+            {
+              "heading": "La crainte infléchit une tâche encore possible",
+              "text": "La conviction peut accaparer un échange alors que le travail en cours reste à la portée de la personne.",
+              "examples": [
+                "Gasparde songe à renvoyer Dounia puis trouve son créneau dans le carnet.",
+                "Un bénévole veut fermer un local après avoir lu un affichage qui l’inquiète, alors qu’une réservation est déjà confirmée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place à la question vérifiable",
-          "text": "Gasparde a un moyen de traiter le changement qui concerne sa fonction. Elle peut demander qui met le tableau à jour, quelle information le club a décidé d’y afficher et comment les gens la joignent. Les réponses serviront à renseigner les adhérents. Elles pourront laisser ouverte la question de ce qu’elle ressent en découvrant son nom absent.\n\nSi Basile entend surtout qu’elle a peur de perdre sa place, il peut s’arrêter sur ce point. Une phrase sur ce qu’il sait de l’affiche, suivie d’un temps pour écouter, laisse plus de place à la discussion qu’une défense de toutes les personnes présentes. Il a une tâche au club et peut dire jusqu’où il est en mesure de répondre. Gasparde choisira le moment et la personne avec qui parler du reste."
+          "heading": "3 techniques pour répondre à une situation précise malgré une conviction inquiétante",
+          "points": [
+            {
+              "heading": "Revenir à la demande qui est devant soi",
+              "objective": "Donner à l’autre l’information dont il a besoin maintenant.",
+              "exercise": [
+                "Nommez la demande que vous avez entendue.",
+                "Consultez le support prévu pour y répondre.",
+                "Communiquez seulement la décision qui concerne cette personne."
+              ],
+              "benefit": "Une tâche concrète peut avancer sans que la préoccupation soit résolue."
+            },
+            {
+              "heading": "Poser une question sur l’affichage",
+              "objective": "Traiter la difficulté d’organisation sans engager un débat sur les intentions.",
+              "exercise": [
+                "Repérez le changement que vous avez vu.",
+                "Demandez qui peut expliquer son usage.",
+                "Convenez d’un échange sur le renseignement à donner aux adhérents."
+              ],
+              "benefit": "Le club peut corriger une information utile au public, quelle que soit l’inquiétude encore présente."
+            },
+            {
+              "heading": "Parler de la peur à un interlocuteur de soins",
+              "objective": "Recevoir un appui si la conviction occupe durablement le travail ou le reste de la journée.",
+              "exercise": [
+                "Choisissez un moment où elle vous a empêché de faire quelque chose.",
+                "Décrivez ce que vous avez vécu et la conséquence concrète.",
+                "Demandez à l’équipe quel appui conviendrait à votre situation."
+              ],
+              "benefit": "Le suivi peut travailler la détresse sans demander à l’entourage de vérifier la conviction."
+            }
+          ]
         }
       ],
       "ending_title": "Le message à Basile",
@@ -52,7 +108,8 @@
         "next": "Samedi matin, Basile apporte les deux versions de l’affiche. La réservation de Dounia figure dans le carnet de Gasparde."
       },
       "clinical_focus": "Conviction persécutive",
-      "clinical_intro": "Quand Gasparde ne voit plus son nom sur le tableau, elle se sent certaine qu’on prépare son départ. Le trouble délirant peut s’organiser autour d’une conviction persistante que des personnes cherchent à nuire ou à écarter. Le récit montre combien cette interprétation pèse sur elle, alors qu’elle sait encore retrouver le créneau de Dounia et demander pourquoi l’affiche a changé."
+      "clinical_intro": "Quand Gasparde ne voit plus son nom sur le tableau, elle se sent certaine qu’on prépare son départ. Le trouble délirant peut s’organiser autour d’une conviction persistante que des personnes cherchent à nuire ou à écarter. Le récit montre combien cette interprétation pèse sur elle, alors qu’elle sait encore retrouver le créneau de Dounia et demander pourquoi l’affiche a changé.",
+      "conclusion": "L’affiche a changé et Gasparde a éprouvé ce changement comme une mise à l’écart. Elle confirme le créneau de Dounia et obtient un moment pour parler du contact sur l’affiche. Cette décision n’exige pas que la peur ait déjà disparu."
     },
     {
       "number": 2,
@@ -70,17 +127,73 @@
         {
           "role": "explanation",
           "heading": "Deux problèmes sur la même table",
-          "text": "Un incident réel mérite une réponse concrète, même lorsqu’il s’accompagne d’une inquiétude plus difficile à départager. Gasparde et Basile ont bien envoyé deux confirmations incompatibles. Ils peuvent reprendre les heures d’envoi et corriger les réservations. Le sentiment d’être visée demande une autre conversation, si Gasparde souhaite l’avoir. L’un de ces sujets peut avancer alors que l’autre reste douloureux.\n\nL’OMS décrit, dans le trouble délirant, des degrés variables de détresse, de préoccupation et de conviction."
+          "text": "Un incident réel mérite une réponse précise, même quand il est vécu comme la preuve d’une intention hostile. Dans le trouble délirant, un problème vérifiable peut coexister avec un sentiment persistant d’être visé. Basile a effectivement retiré le prénom sans prévenir Gasparde. Les confirmations incompatibles sont également réelles. Le motif que Gasparde attribue à ces faits et la détresse qu’elle éprouve peuvent faire l’objet d’un autre échange."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Gasparde, le geste de Basile vers le casier et le choc de la chaise deviennent très saillants à un moment où elle redoute une mise en cause. Sa compétence sur les réservations se voit aussi. Elle retrouve l’ordre des confirmations et se rappelle une contrainte qui compte pour Dounia."
+          "heading": "Comment le sentiment d’être visée se mêle-t-il à une erreur de réservation ?",
+          "points": [
+            {
+              "heading": "L’oubli réel rend la crainte plus difficile à départager",
+              "text": "Un défaut de communication demande à être reconnu, quelle que soit la lecture que chacun en fait.",
+              "examples": [
+                "Basile confirme qu’il a changé la feuille sans le dire à Gasparde.",
+                "Une personne apprend que la salle a bien été déplacée avant d’être prévenue et se demande si l’oubli était délibéré."
+              ]
+            },
+            {
+              "heading": "Une erreur partagée devient un reproche anticipé",
+              "text": "Quand la peur d’être visé est présente, on peut s’attendre à porter seul la faute.",
+              "examples": [
+                "Les confirmations sont parties de deux relevés, mais Gasparde imagine que le doublon lui sera reproché.",
+                "Deux collègues écrivent sur des plannings séparés et l’un craint que son erreur soit la seule retenue."
+              ]
+            },
+            {
+              "heading": "Un fait se corrige même si la gêne demeure",
+              "text": "Une décision d’organisation n’efface pas nécessairement la peur qui s’y est attachée.",
+              "examples": [
+                "Gasparde veut appeler Dounia et demande à Basile de joindre Agnès.",
+                "Une personne remet une date correcte au tableau et souhaite reparler plus tard de la façon dont elle a appris le changement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre la correction possible pour les deux",
-          "text": "Un registre commun peut servir à décider sur quelle information s’appuyer. Gasparde demande que le club note une réservation avant d’en confirmer l’heure. Il faut aussi décider qui regarde les messages et à quels moments. Si chacun pense que l’autre s’en occupe, la même erreur pourra revenir avec un support plus propre.\n\nBasile peut reconnaître le changement qu’il a affiché sans prévenir et prendre une part de la correction. Dounia et Agnès ont chacune reçu une promesse. Dire clairement ce qui s’est passé leur permet de décider avec des informations fiables. Pour la suite, le club peut prévoir une règle de priorité qui s’applique à toutes les personnes, y compris aux adhérents connus de longue date. Les deux bénévoles pourront alors s’y référer au lieu d’avoir à défendre leur décision de mémoire."
+          "heading": "3 techniques pour traiter un incident réel quand on se sent visé",
+          "points": [
+            {
+              "heading": "Comparer les confirmations",
+              "objective": "Reconstituer ce que les adhérents ont reçu.",
+              "exercise": [
+                "Placez les deux confirmations côte à côte.",
+                "Relevez les heures d’envoi et les créneaux promis.",
+                "Appliquez la règle commune pour proposer un nouvel horaire."
+              ],
+              "benefit": "Les personnes concernées peuvent obtenir une réponse sans attendre une discussion sur les intentions."
+            },
+            {
+              "heading": "Répartir les appels",
+              "objective": "Garder à chacun sa part du travail et de la décision.",
+              "exercise": [
+                "Identifiez qui a déjà parlé à chaque personne.",
+                "Convenez ensemble des appels à passer.",
+                "Consignez les réponses dans le même registre."
+              ],
+              "benefit": "La réparation est visible et ne repose pas sur une seule personne."
+            },
+            {
+              "heading": "Choisir où parler du sentiment d’être visé",
+              "objective": "Faire entendre la détresse en dehors de la correction administrative.",
+              "exercise": [
+                "Nommez la partie qui reste douloureuse après les appels.",
+                "Décidez si vous voulez en parler à un proche ou à l’équipe qui vous suit.",
+                "Si la gêne persiste, décrivez ce qui prend encore du temps ou de l’énergie."
+              ],
+              "benefit": "L’échange peut porter sur ce que vous vivez sans effacer le problème réel ni chercher à établir une intention."
+            }
+          ]
         }
       ],
       "ending_title": "La première page du registre",
@@ -97,7 +210,8 @@
         "next": "Dounia vient mardi à dix-huit heures et parlera avec Gasparde d’un accueil pour les nouveaux. Basile répond de sa part de la double réservation."
       },
       "clinical_focus": "Sentiment d’être visée",
-      "clinical_intro": "Deux réservations incompatibles existent vraiment. En entendant Basile cogner sa chaise, Gasparde est saisie un instant par la conviction que le changement visait à lui faire commettre une erreur. Dans le trouble délirant, les problèmes ordinaires peuvent coexister avec une interprétation menaçante qui s’impose. Reprendre les heures des messages donne une solution au problème que le club peut vérifier."
+      "clinical_intro": "Deux réservations incompatibles existent vraiment. En entendant Basile cogner sa chaise, Gasparde est saisie un instant par la conviction que le changement visait à lui faire commettre une erreur. Dans le trouble délirant, les problèmes ordinaires peuvent coexister avec une interprétation menaçante qui s’impose. Reprendre les heures des messages donne une solution au problème que le club peut vérifier.",
+      "conclusion": "Le registre tient désormais les deux réponses sur la même page. Gasparde peut vérifier l’accord de Dounia et Basile assume son appel. L’incident a une solution précise, même si le sentiment d’avoir été visée ne se règle pas au bout du fil."
     },
     {
       "number": 3,
@@ -115,17 +229,73 @@
         {
           "role": "explanation",
           "heading": "Faire entendre ce que l’inquiétude coûte",
-          "text": "Parler du retentissement d’une inquiétude peut ouvrir une conversation avant même qu’on puisse en raconter le contenu. Gasparde explique comment elle dort et ce que les relectures occupent dans sa soirée. Brigitte peut comprendre qu’elle a passé une nuit pénible sans être chargée de trancher le sens des messages. Elle peut aussi entendre une demande sur le tennis. La présence qu’elle offre tient à leur relation, avec une place pour leurs envies à toutes les deux."
+          "text": "Une préoccupation persistante peut occuper le temps où l’on voudrait dormir ou récupérer. Dans le trouble délirant, la force d’une conviction et la place qu’elle prend dans la vie peuvent varier. Gasparde revient au message du club pendant la nuit et arrive au café déjà fatiguée. Elle peut parler de cette conséquence avec Brigitte sans lui demander d’établir le sens caché qu’elle a cru lire."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le diagnostic de Gasparde vient éclairer ce qu’elle rapporte à son équipe de soins. Dans le trouble délirant, la préoccupation et la souffrance ont une intensité variable. Pour le suivi, l’équipe a besoin de savoir ce qui change dans la vie de Gasparde, comment elle le vit et à quels moments elle souhaite de l’aide. Une proche peut l’écouter et soutenir l’accès à cette conversation."
+          "heading": "Comment une préoccupation persistante empiète-t-elle sur le repos ?",
+          "points": [
+            {
+              "heading": "La relecture revient la nuit",
+              "text": "Un mot peut occuper l’attention longtemps après le moment où il a été lu.",
+              "examples": [
+                "Vers trois heures, Gasparde rouvre le message et revient sur le mot « ensemble ».",
+                "Une personne rallume son téléphone après s’être couchée et relit une phrase qui l’a inquiétée."
+              ]
+            },
+            {
+              "heading": "Le lendemain commence avec le coût de la veille",
+              "text": "La fatigue peut rendre moins disponible à une conversation qui faisait envie.",
+              "examples": [
+                "Gasparde regarde le café refroidir pendant que Brigitte lui parle de sa raquette.",
+                "Après une nuit passée à relire un échange, quelqu’un arrive à une promenade avec peu d’énergie pour en profiter."
+              ]
+            },
+            {
+              "heading": "La personne choisit ce qu’elle peut raconter",
+              "text": "Dire ce que la préoccupation coûte peut être plus abordable que raconter tout ce qu’on a pensé.",
+              "examples": [
+                "Gasparde dit que le club lui prend ses nuits et garde pour elle le contenu de sa crainte.",
+                "Une personne dit à son frère qu’elle se lève épuisée et lui demande de rester un moment sans revenir sur le message."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une confidence et un rendez-vous",
-          "text": "Brigitte peut lui demander ce qu’elle aimerait recevoir aujourd’hui. Un tour de place, un café sans parler du club ou un rappel pour le double sont des propositions différentes. Gasparde choisit jusqu’où elle veut aller. La question du suivi pourra revenir avec Farah, l’infirmière qu’elle connaît, notamment si ses nuits restent courtes et qu’elle continue à renoncer à des choses qu’elle aime.\n\nLes deux amies peuvent protéger une heure qu’elles partagent. Elles ont besoin d’un horaire et d’un moyen de se prévenir si l’une change d’avis. Pour les réservations, Gasparde et Basile peuvent décider à part qui vérifie le téléphone quand elle joue. L’accord avec Brigitte gagne à rester simple. Elle peut demander à son amie si elle a envie de venir jouer, y compris les jours où les affaires du club lui prennent encore de la place."
+          "heading": "3 techniques pour protéger le repos et une activité quand la préoccupation insiste",
+          "points": [
+            {
+              "heading": "Raconter une nuit sans reprendre toute la scène",
+              "objective": "Faire comprendre ce qui a changé dans le sommeil.",
+              "exercise": [
+                "Choisissez une nuit dont vous vous souvenez.",
+                "Dites à quel moment la préoccupation a repris.",
+                "Décrivez un effet sur le lendemain."
+              ],
+              "benefit": "Un proche peut entendre la fatigue sans devenir responsable de vérifier le contenu de la crainte."
+            },
+            {
+              "heading": "Réserver un temps sans permanence",
+              "objective": "Donner sa place à une activité appréciée.",
+              "exercise": [
+                "Choisissez un créneau de jeu ou de sortie.",
+                "Faites confirmer par le club la personne qui répondra aux demandes.",
+                "Indiquez à partir de quand vous serez de nouveau disponible."
+              ],
+              "benefit": "Un accord de travail peut protéger ce temps, même si les pensées reviennent."
+            },
+            {
+              "heading": "Évoquer les nuits au suivi",
+              "objective": "Obtenir un appui lorsque le manque de repos se répète.",
+              "exercise": [
+                "Relevez un exemple que vous souhaitez apporter.",
+                "Indiquez la place prise par les relectures et la fatigue.",
+                "Demandez à l’équipe comment la joindre plus tôt si cela devient difficile à supporter."
+              ],
+              "benefit": "Le professionnel peut examiner le retentissement et convenir d’une suite avec vous."
+            }
+          ]
         }
       ],
       "ending_title": "Samedi, le temps de deux sets",
@@ -143,7 +313,8 @@
         "next": "Gasparde doit convenir d’une absence de réponse pendant le jeu avec Basile. Farah reste l’interlocutrice du suivi."
       },
       "clinical_focus": "Préoccupation persistante",
-      "clinical_intro": "Gasparde relit les messages du club jusqu’à perdre une partie de sa nuit. Avec un trouble délirant, la préoccupation peut occuper une place importante même quand les activités ordinaires se poursuivent. Elle peut dire à Brigitte combien ces soirées l’épuisent et choisir ce qu’elle souhaite raconter. Brigitte peut prendre cette fatigue au sérieux et lui proposer une présence dont elles conviennent ensemble."
+      "clinical_intro": "Gasparde relit les messages du club jusqu’à perdre une partie de sa nuit. Avec un trouble délirant, la préoccupation peut occuper une place importante même quand les activités ordinaires se poursuivent. Elle peut dire à Brigitte combien ces soirées l’épuisent et choisir ce qu’elle souhaite raconter. Brigitte peut prendre cette fatigue au sérieux et lui proposer une présence dont elles conviennent ensemble.",
+      "conclusion": "Brigitte entend ce que la nuit a coûté sans recevoir toute l’histoire que Gasparde a lue dans le message. Elles gardent leur conversation et leur projet de double. La question des nuits pourra être reprise avec Farah, à qui elle peut en parler autrement."
     },
     {
       "number": 4,
@@ -161,23 +332,79 @@
         {
           "role": "explanation",
           "heading": "Une remarque entendue comme une mise en cause",
-          "text": "Gasparde s’attend à être désignée quand elle entend parler des inscriptions. La conviction qui la préoccupe porte sur sa place au club. La phrase de Dounia renseigne d’abord sur une nouvelle venue qui aurait aimé regarder le terrain. Lui demander ce qu’elle cherchait permet de répondre à une question d’accueil tout en laissant la préoccupation être discutée avec l’équipe de soins.\n\nPouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir. Regarder, jouer un moment et repartir sont trois possibilités qu’elle souhaite pouvoir choisir sur place."
+          "text": "Un retour sur le fonctionnement d’un lieu peut être entendu comme un reproche personnel. Dans le trouble délirant, une préoccupation persistante autour de sa place peut donner beaucoup de poids à une intention prêtée à l’autre. Dounia décrit la première visite de sa voisine. Gasparde se prépare à défendre son travail, puis apprend ce qui avait manqué à cette visiteuse. L’information reste utile même si la crainte de Gasparde ne disparaît pas."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gasparde entend d’abord la remarque comme un jugement sur sa façon d’accueillir. Puis elle écoute la suite et retrouve une question qui lui importe depuis longtemps. Les compétences de Gasparde et les effets du trouble délirant s’inscrivent dans des aspects différents de sa vie. Son attention à une personne derrière un portail n’a pas à passer au second plan dans le récit de ses inquiétudes."
+          "heading": "Comment une remarque sur l’accueil peut-elle être entendue comme une attaque ?",
+          "points": [
+            {
+              "heading": "Une expérience racontée paraît désigner un responsable",
+              "text": "La personne qui écoute peut se sentir directement mise en cause alors que le retour porte sur une situation.",
+              "examples": [
+                "La table des inscriptions rappelle à Gasparde qu’elle tenait l’accueil ce jour-là.",
+                "Une bénévole entend qu’un visiteur n’a pas trouvé la salle et croit qu’on lui reproche personnellement la signalétique."
+              ]
+            },
+            {
+              "heading": "On attend une accusation qui n’a pas été formulée",
+              "text": "L’intention redoutée peut occuper l’écoute avant la fin de la phrase.",
+              "examples": [
+                "Gasparde s’attend à entendre son prénom et ferme le registre un instant.",
+                "Dans une réunion, quelqu’un prépare sa défense dès qu’on évoque une visite qui s’est mal passée."
+              ]
+            },
+            {
+              "heading": "Une question d’usage déplace la discussion",
+              "text": "Le besoin de la personne peut être compris séparément de l’intention qu’on avait imaginée.",
+              "examples": [
+                "Dounia précise que sa voisine voulait d’abord voir le terrain.",
+                "Une visiteuse indique qu’elle cherchait où s’asseoir avant de choisir un créneau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Essayer une invitation à petite échelle",
-          "text": "Le samedi suivant, Gasparde peut recevoir deux personnes et leur dire ce qui est disponible. Une balle, un banc et quelqu’un pour indiquer l’entrée suffisent pour ce premier essai. Pour que la proposition tienne, le club a besoin d’une heure que les bénévoles peuvent réellement assurer. Il peut aussi demander à chaque personne ce qu’elle attend une fois arrivée.\n\nDounia donne un avis parce qu’elle a rencontré le problème de l’entrée. Elle peut continuer à jouer comme adhérente et revenir sur cet avis après avoir essayé. Le suivi de Gasparde tient compte de ses objectifs et de ce qu’elle souhaite garder dans sa vie ordinaire. Ici, elle ajuste sa manière d’accueillir en parlant avec les gens concernés, avec la possibilité de conserver une autre partie de sa journée pour le double."
+          "heading": "3 techniques pour recueillir un retour sans devoir régler toutes ses inquiétudes",
+          "points": [
+            {
+              "heading": "Demander ce qui a manqué à la personne",
+              "objective": "Situer la remarque dans l’expérience de la visite.",
+              "exercise": [
+                "Repérez le moment précis évoqué.",
+                "Demandez ce que la personne voulait faire à ce moment-là.",
+                "Reformulez le besoin que vous avez compris."
+              ],
+              "benefit": "La conversation peut révéler un problème d’accueil qu’une réponse défensive aurait laissé de côté."
+            },
+            {
+              "heading": "Proposer un choix visible",
+              "objective": "Modifier une condition vérifiable dans le lieu.",
+              "exercise": [
+                "Repérez ce qu’une personne voit en arrivant.",
+                "Indiquez une possibilité d’observer et une possibilité d’essayer.",
+                "Demandez aux nouveaux comment ils souhaitent participer."
+              ],
+              "benefit": "Les visiteurs peuvent se faire une idée de l’activité avant de s’y engager."
+            },
+            {
+              "heading": "Donner un autre espace à la crainte",
+              "objective": "Parler du poids de l’intention prêtée si elle continue d’occuper l’échange.",
+              "exercise": [
+                "Retenez la phrase qui vous est revenue ensuite.",
+                "Décrivez ce que vous avez cru devoir défendre.",
+                "Apportez l’exemple au suivi si cette préoccupation gêne les rencontres."
+              ],
+              "benefit": "Le travail sur la peur peut se faire sans demander aux visiteurs de rassurer ou de se justifier."
+            }
+          ]
         }
       ],
       "ending_title": "Une heure et un portail",
       "ending": "Sur une feuille qu’elle fixe au registre, Gasparde écrit « Premier accueil samedi, 10 h 30 ». Elle ajoute « Venez voir ou échanger quelques balles » et indique le portail côté rue. Dounia demande une photo de la feuille pour la montrer à un collègue, Levent. Gasparde reprend le téléphone du club pour vérifier le message envoyé à Basile après le café du dimanche. Il a accepté de consulter les appels pendant le double de seize heures. Elle montre à Dounia où son invitation apparaîtra dehors, avant de lui demander ce qu’elle a pensé de son premier service. Dounia se met à rire. La balle a touché le seul poteau qu’elle voulait éviter.",
       "mirror": [
-        "Une personne qui accompagne Dounia peut lui demander si elle veut entrer ensemble, prendre un moment pour regarder ou jouer tout de suite. Elle peut aussi laisser Dounia expliquer ce qu’elle cherche à Gasparde. « Tu préfères qu’on s’assoie un peu avant de voir ? » suffit pour ouvrir le choix. L’enthousiasme de l’entourage aide davantage quand la personne garde la possibilité de remettre sa décision à une autre visite. La présence d’une amie peut compter même si chacune a envie de faire quelque chose de différent sur place."
+        "Dounia peut préciser ce qu’elle a voulu dire lorsqu’elle voit Gasparde refermer le registre. « Je te parle de ce que ma voisine cherchait ce jour-là. Elle voulait regarder le terrain avant de s’inscrire. » Elle peut répondre sur la visite sans promettre à Gasparde ce que les autres pensent d’elle. Si Gasparde lui propose de tenir l’accueil, Dounia peut aussi dire qu’elle préfère venir avec sa raquette pour le moment. Elle laisse à sa voisine le choix d’observer, de jouer ou de repartir."
       ],
       "sources": [
         "oms-cddr",
@@ -188,7 +415,8 @@
         "next": "Le rendez-vous est annoncé au portail côté rue. Basile a accepté de consulter le téléphone du club pendant le double de seize heures."
       },
       "clinical_focus": "Interprétation d’une intention",
-      "clinical_intro": "Dounia raconte qu’une voisine est repartie devant la table des inscriptions. Gasparde entend d’abord une critique de sa façon d’accueillir et se prépare à se défendre. Dans son trouble délirant, l’idée d’être écartée peut donner un autre sens aux remarques qui touchent sa place au club. En demandant ce que la voisine voulait faire, elle trouve un besoin auquel elle peut répondre."
+      "clinical_intro": "Dounia raconte qu’une voisine est repartie devant la table des inscriptions. Gasparde entend d’abord une critique de sa façon d’accueillir et se prépare à se défendre. Dans son trouble délirant, l’idée d’être écartée peut donner un autre sens aux remarques qui touchent sa place au club. En demandant ce que la voisine voulait faire, elle trouve un besoin auquel elle peut répondre.",
+      "conclusion": "La remarque de Dounia devient une proposition d’accueil qu’on peut essayer. Gasparde laisse aux nouveaux la possibilité de regarder avant de jouer. Ce choix ne règle pas son inquiétude sur sa place, mais il lui permet de reprendre la conversation sur ce que les visiteurs viennent chercher."
     },
     {
       "number": 5,
@@ -206,17 +434,73 @@
         {
           "role": "explanation",
           "heading": "Traiter ce que le trajet permet de comprendre",
-          "text": "Quand un rendez-vous se passe mal, une explication peut s’imposer avant qu’on ait vu tous les détails. Gasparde a d’abord l’impression que quelqu’un a rendu son invitation introuvable. Le trajet de Levent apporte une information utile au club."
+          "text": "Quand il manque une information, une explication peut s’imposer avant que le déroulement des faits soit connu. Dans le trouble délirant, la force d’une conviction peut donner à cette explication une place durable. Au portail, Gasparde croit que son invitation a été déplacée. Levent peut montrer le chemin qu’il a pris et ce qu’il a vu. Ce trajet donne au club une modification utile à faire sans devenir une enquête sur l’intention supposée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selon le point par lequel on arrive, la plaque du parc est plus visible que l’indication de Gasparde. Elle peut corriger le chemin affiché même si son inquiétude revient ensuite.\n\nLe trouble délirant peut s’accompagner de convictions persistantes sur les intentions d’autrui. Dans cette scène, le fait de voir le panneau oriente la discussion vers un problème que les trois personnes peuvent décrire. Il reste possible pour Gasparde de trouver l’incident troublant et de prendre une décision utile. La situation peut aussi être rapportée en suivi si la question continue à occuper ses soirées."
+          "heading": "Comment une certitude s’installe-t-elle lorsqu’il manque une information ?",
+          "points": [
+            {
+              "heading": "Une explication précède les détails",
+              "text": "L’urgence de répondre peut faire paraître immédiate la cause d’un problème.",
+              "examples": [
+                "Avant de voir le parcours de Levent, Gasparde se dit qu’on a déplacé l’invitation.",
+                "Quelqu’un apprend qu’un adhérent attend et croit aussitôt que le panneau a été retiré."
+              ]
+            },
+            {
+              "heading": "Le point de vue de l’autre apporte un fait",
+              "text": "La personne qui a fait le trajet a vu des choses auxquelles l’organisateur n’avait pas pensé.",
+              "examples": [
+                "Levent a suivi la plaque « Tennis » jusqu’au portail verrouillé.",
+                "Une nouvelle adhérente montre qu’elle a lu le nom de la salle sans voir l’indication de l’étage."
+              ]
+            },
+            {
+              "heading": "Une solution pratique laisse la question ouverte",
+              "text": "Corriger le chemin peut être utile même si l’inquiétude remonte plus tard.",
+              "examples": [
+                "Gasparde demande d’ajouter le croquis, puis entend son téléphone vibrer pendant le double.",
+                "Quelqu’un ajoute une flèche à l’entrée et continue de se demander pourquoi le premier panneau a manqué son effet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Partir de ce qui reste possible maintenant",
-          "text": "Levent est venu pour voir le terrain et le temps qu’il avait réservé a diminué. Gasparde peut lui donner l’heure de fin et lui demander ce qu’il aimerait faire dans le temps qui reste. Il peut suivre les autres, regarder jouer ou choisir une nouvelle visite. Le choix de Levent appartient à l’accueil, au même titre que l’accès au terrain.\n\nDounia peut aider en décrivant ce qu’elle a vu sur le trajet. Elle peut demander à Gasparde si elle veut que la feuille indique l’arrêt du bus et les deux portails. Ce geste fait avancer le projet qu’elles ont commencé mardi. Si Gasparde lui parle de l’idée qu’on a déplacé la feuille, Dounia peut écouter son inquiétude et s’en tenir à ce qu’elle a effectivement observé. Elle a ensuite le droit de rejoindre le terrain pour jouer."
+          "heading": "3 techniques pour agir sur le renseignement qui manque",
+          "points": [
+            {
+              "heading": "Demander le trajet réellement suivi",
+              "objective": "Trouver l’obstacle que l’on peut corriger.",
+              "exercise": [
+                "Demandez à la personne par où elle est arrivée.",
+                "Regardez quel panneau l’a orientée.",
+                "Proposez l’accès utilisable aujourd’hui."
+              ],
+              "benefit": "L’accueil peut reprendre sans chercher à prouver ce qui s’est passé hors de ce trajet."
+            },
+            {
+              "heading": "Rendre le point d’entrée lisible",
+              "objective": "Éviter que le même renseignement manque au prochain visiteur.",
+              "exercise": [
+                "Repérez le détail peu visible sur la photo ou l’affiche.",
+                "Ajoutez un dessin ou une indication concrète.",
+                "Demandez à une personne qui découvre le lieu où elle irait en le lisant."
+              ],
+              "benefit": "Un regard neuf peut repérer un écart entre l’indication et le chemin réel."
+            },
+            {
+              "heading": "Rester dans un autre rendez-vous choisi",
+              "objective": "Donner une place à une activité qui compte après avoir passé le relais.",
+              "exercise": [
+                "Transmettez le changement à la personne chargée de l’affichage.",
+                "Rappelez qui répond au téléphone pendant votre absence.",
+                "Revenez à l’activité prévue lorsque l’appel ne vous revient pas."
+              ],
+              "benefit": "L’organisation peut continuer pendant que vous retrouvez un temps de jeu."
+            }
+          ]
         }
       ],
       "ending_title": "La flèche après l’arrêt du bus",
@@ -233,7 +517,8 @@
         "next": "Levent veut revenir, et Basile reçoit le plan corrigé. Gasparde a réussi à garder son temps de jeu, malgré une inquiétude qui revient."
       },
       "clinical_focus": "Certitude et interprétation",
-      "clinical_intro": "Levent attend au mauvais portail et Gasparde a aussitôt l’impression que quelqu’un a rendu son invitation introuvable. Dans un trouble délirant, la force d’une interprétation peut dépasser les informations dont on dispose. Le trajet de Levent révèle un problème de signalisation. Le corriger lui permet d’agir utilement pendant que la préoccupation qui revient dans d’autres situations reste un sujet de suivi."
+      "clinical_intro": "Levent attend au mauvais portail et Gasparde a aussitôt l’impression que quelqu’un a rendu son invitation introuvable. Dans un trouble délirant, la force d’une interprétation peut dépasser les informations dont on dispose. Le trajet de Levent révèle un problème de signalisation. Le corriger lui permet d’agir utilement pendant que la préoccupation qui revient dans d’autres situations reste un sujet de suivi.",
+      "conclusion": "Levent dessine le portail où il a attendu. Le club a ainsi quelque chose à modifier, et Gasparde rejoint Brigitte à l’heure prévue. Le téléphone vibre encore, mais le service suivant et le renseignement aux visiteurs ne dépendent pas tous les deux d’elle."
     },
     {
       "number": 6,
@@ -251,17 +536,73 @@
         {
           "role": "explanation",
           "heading": "Décrire un changement à partir de sa vie",
-          "text": "Un rendez-vous de suivi donne l’occasion de parler de ce qui devient plus difficile et de ce qu’on tient à continuer. Farah connaît le trouble délirant pour lequel Gasparde est suivie. Elle entend une évolution de la préoccupation, du sommeil et du temps passé à revenir sur les messages. Elle peut lui demander ce qui s’est passé entre les rendez-vous, quels appuis étaient disponibles et comment elle a pu jouer samedi. L’ensemble compte pour préparer la suite.\n\nLa CIM-11 prévoit que l’évolution du trouble s’évalue en tenant compte du tableau clinique."
+          "text": "Le retentissement d’une conviction se mesure aussi à ce qui change dans les nuits, les activités et les liens. Dans le trouble délirant, une préoccupation peut prendre davantage de place dans un domaine sans faire disparaître les capacités ou les plaisirs de la personne. Farah recueille les nuits pénibles de Gasparde, l’appel oublié à sa sœur et le double qu’elle a pu garder. Elle peut examiner ces changements dans leur ensemble et discuter de la suite avec elle."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une soirée difficile et une bonne partie de tennis apportent chacune un renseignement sur la vie de Gasparde. Son équipe peut les replacer dans ce qu’elle rapporte sur la durée et dans les décisions de suivi déjà prises avec elle."
+          "heading": "Comment le retentissement d’une conviction apparaît-il dans la vie quotidienne ?",
+          "points": [
+            {
+              "heading": "Des tâches ordinaires restent en suspens",
+              "text": "Une préoccupation qui mobilise l’attention peut retarder des gestes sans rapport direct avec elle.",
+              "examples": [
+                "Gasparde oublie d’appeler sa sœur alors qu’elle fait défiler les messages.",
+                "Quelqu’un laisse le dîner refroidir après avoir repris plusieurs fois la même conversation."
+              ]
+            },
+            {
+              "heading": "Le repos est occupé autrement",
+              "text": "Le temps perdu est parfois plus facile à décrire que le contenu de la conviction.",
+              "examples": [
+                "Gasparde raconte l’heure passée debout devant l’évier.",
+                "Une personne indique qu’elle n’a pas réussi à se recoucher après avoir relu un échange."
+              ]
+            },
+            {
+              "heading": "Un moment préservé donne un autre repère",
+              "text": "Une activité qui a tenu peut éclairer l’aide qui était disponible et ce que la personne souhaite garder.",
+              "examples": [
+                "Gasparde a pu jouer en double samedi malgré la préoccupation.",
+                "Quelqu’un décrit un repas entre amis qui a eu lieu parce qu’un collègue a repris la permanence."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Savoir qui joindre et garder le choix",
-          "text": "Farah peut vérifier avec Gasparde qui répond au centre, comment laisser un message et quand attendre un retour. L’OMS situe les objectifs et les préférences de la personne dans le suivi. À partir des questions de Gasparde, cela signifie garder un chemin court vers l’équipe et choisir ce qu’elle veut pouvoir dire quand elle appelle.\n\nLa fiche qu’elles préparent part de moments reconnus par Gasparde. Elle voudrait en parler plus tôt quand les relectures reprennent la nuit et lui prennent de la place le lendemain. Elle précise qu’elle préfère appeler elle-même. Si elle demande un coup de main à Brigitte, elle pourra proposer une présence pendant l’appel. Basile reste la personne avec laquelle elle organise le club. Gasparde peut traiter ces deux sujets dans des conversations distinctes."
+          "heading": "3 techniques pour parler au suivi de ce qui change dans ses journées",
+          "points": [
+            {
+              "heading": "Préparer deux scènes précises",
+              "objective": "Rendre perceptible le retentissement entre les rendez-vous.",
+              "exercise": [
+                "Choisissez une nuit et une activité de la journée.",
+                "Notez ce qui a été reporté, oublié ou interrompu.",
+                "Apportez ces éléments au prochain échange ou contactez l’équipe plus tôt si la gêne augmente."
+              ],
+              "benefit": "Des exemples situés donnent une base commune pour discuter de ce qui se dégrade."
+            },
+            {
+              "heading": "Nommer un plaisir que l’on veut préserver",
+              "objective": "Donner au suivi un objectif qui compte pour soi.",
+              "exercise": [
+                "Repérez un moment où vous avez encore pu participer.",
+                "Décrivez l’appui qui a rendu ce moment possible.",
+                "Demandez avec l’équipe comment garder une place à cette activité."
+              ],
+              "benefit": "Le projet de soins peut tenir compte de la vie que la personne veut continuer à mener."
+            },
+            {
+              "heading": "Écrire un premier message au service",
+              "objective": "Rendre l’appel plus accessible quand l’énergie manque.",
+              "exercise": [
+                "Confirmez le numéro et les heures où quelqu’un peut répondre.",
+                "Préparez une phrase sur le changement qui vous préoccupe.",
+                "Demandez au service comment il organise le rappel."
+              ],
+              "benefit": "Le contact est possible sans devoir raconter toute l’histoire d’emblée."
+            }
+          ]
         }
       ],
       "ending_title": "Un numéro au dos des scores",
@@ -279,7 +620,8 @@
         "next": "La feuille des scores reste dans sa poche. Farah et Gasparde ont fixé un suivi la semaine suivante. Basile reste son appui pour l’organisation du terrain."
       },
       "clinical_focus": "Retentissement quotidien",
-      "clinical_intro": "Au rendez-vous, Gasparde parle de ses nuits et d’un appel à sa sœur qu’elle a oublié en relisant les messages. Dans le trouble délirant, l’équipe s’intéresse à la conviction et à ce qu’elle change dans le sommeil, les liens ou les activités. Gasparde décrit aussi le plaisir de jouer et demande comment joindre les soins quand la préoccupation l’envahit chez elle."
+      "clinical_intro": "Au rendez-vous, Gasparde parle de ses nuits et d’un appel à sa sœur qu’elle a oublié en relisant les messages. Dans le trouble délirant, l’équipe s’intéresse à la conviction et à ce qu’elle change dans le sommeil, les liens ou les activités. Gasparde décrit aussi le plaisir de jouer et demande comment joindre les soins quand la préoccupation l’envahit chez elle.",
+      "conclusion": "Sur la feuille des scores, Gasparde met une phrase pour appeler et un numéro. Farah peut l’aider à suivre le sommeil et ce qui devient plus difficile. Le double encadré sur le même papier indique aussi ce que Gasparde veut garder."
     },
     {
       "number": 7,
@@ -297,17 +639,73 @@
         {
           "role": "explanation",
           "heading": "La peur d’être écartée pousse à en faire davantage",
-          "text": "Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place. Gasparde pourrait accepter une longue permanence pour montrer qu’elle reste utile. Quand elle pose sa question, elle découvre que la proposition a déjà une volontaire pour une partie du travail. Elles peuvent parler du reste. Son envie de garder sa place au club et sa peur d’en être écartée sont deux éléments qu’elle éprouve ensemble.\n\nLa CIM-11 décrit un retentissement qui peut se concentrer autour du sujet des convictions."
+          "text": "La peur d’être écarté peut pousser à accepter davantage de responsabilités pour montrer qu’on reste utile. Dans le trouble délirant, l’effet d’une conviction peut se concentrer sur le sujet qu’elle touche, ici la place de Gasparde au club. Elle souhaite vraiment s’occuper de l’accueil et se sent aussi poussée à prendre les deux heures du dimanche. Ces deux raisons peuvent être présentes sans conduire à la même décision."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une réunion sur le partage des réservations concerne directement les inquiétudes de Gasparde. Son équipe est la mieux placée pour reprendre ce qu’elle ressent dans la durée. Au club, Gasparde peut discuter du temps et des moyens requis comme le ferait une autre bénévole."
+          "heading": "Comment la peur d’être écartée pousse-t-elle à se rendre indispensable ?",
+          "points": [
+            {
+              "heading": "Une proposition semble retirer une place",
+              "text": "Une idée soumise au groupe peut être comprise comme un partage déjà décidé.",
+              "examples": [
+                "Gasparde voit la membre du comité regarder Basile et craint qu’on distribue son travail.",
+                "Une bénévole entend parler d’un renfort et imagine qu’elle ne sera plus consultée sur son créneau."
+              ]
+            },
+            {
+              "heading": "Le réflexe est de se proposer pour tout",
+              "text": "Dire oui peut sembler protéger sa place, même quand le travail est trop large.",
+              "examples": [
+                "Gasparde songe à tenir les deux heures sans savoir qui répondrait aux appels.",
+                "Quelqu’un accepte d’ouvrir et de fermer le local de peur que refuser l’un de ces gestes remette son rôle en cause."
+              ]
+            },
+            {
+              "heading": "Une préférence devient plus claire en détaillant les tâches",
+              "text": "Nommer ce qu’on souhaite garder permet de distinguer l’intérêt pour le projet de la crainte de le perdre.",
+              "examples": [
+                "Gasparde tient à son samedi et veut préparer l’affiche du dimanche.",
+                "Une personne préfère continuer les inscriptions et laisser à un collègue la mise en place des chaises."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un nom à chaque tâche",
-          "text": "Il faut distinguer la personne qui accueille, celle qui prépare l’affiche et celle qui décide d’une fermeture s’il pleut. Une heure d’essai avec des rôles nommés donne un point de départ à réexaminer. Gasparde tient à garder l’accueil du samedi. La nouvelle proposition peut s’ajouter à celui-ci si les autres personnes peuvent la tenir et si le fonctionnement reste lisible pour les adhérents.\n\nBasile peut vérifier avec Gasparde qu’il a compris sa limite, puis la répéter dans le compte rendu. Il peut aussi lui demander comment elle préfère recevoir les demandes de dernière minute. Dire qui traite les messages permet de laisser du temps libre aux autres bénévoles. Les raisons personnelles pour lesquelles Gasparde protège sa journée peuvent rester dans les conversations qu’elle choisit."
+          "heading": "3 techniques pour choisir sa part d’un projet quand on craint d’être écarté",
+          "points": [
+            {
+              "heading": "Demander ce qui reste à décider",
+              "objective": "Distinguer une proposition d’un engagement déjà pris.",
+              "exercise": [
+                "Repérez le créneau ou le rôle dont on parle.",
+                "Demandez qui peut participer et pour combien de temps.",
+                "Dites quelle partie vous souhaitez discuter avant la décision."
+              ],
+              "benefit": "La répartition peut avancer à partir des disponibilités réelles."
+            },
+            {
+              "heading": "Définir sa part et sa limite",
+              "objective": "Garder une tâche qui compte sans prendre toutes les autres.",
+              "exercise": [
+                "Nommez celle que vous voulez conserver.",
+                "Indiquez celle que vous pouvez offrir pour l’essai.",
+                "Précisez ce que quelqu’un d’autre devra prendre."
+              ],
+              "benefit": "L’accord rend visible la contribution de chacun sans mesurer sa valeur au nombre d’heures."
+            },
+            {
+              "heading": "Fixer le moment du bilan",
+              "objective": "Éviter qu’un essai limité ne devienne un engagement continu.",
+              "exercise": [
+                "Écrivez le jour et la durée de l’essai.",
+                "Décidez qui rapportera ce qui a été fait.",
+                "Fixez la date à laquelle les choix seront revus."
+              ],
+              "benefit": "La personne peut évaluer sa place à partir d’un accord qu’elle a contribué à définir."
+            }
+          ]
         }
       ],
       "ending_title": "Un prénom par tâche",
@@ -325,7 +723,8 @@
         "next": "Basile doit poser le plan corrigé vendredi et assurer le téléphone dimanche. Le comité revient sur l’essai mardi."
       },
       "clinical_focus": "Peur d’être écartée",
-      "clinical_intro": "Quand le comité propose un deuxième créneau, Gasparde a envie de tout accepter pour prouver qu’on a encore besoin d’elle. La conviction d’être progressivement écartée, au cœur de son trouble délirant, peut lui faire prendre une charge qu’elle ne voulait pas. Demander qui prendrait la porte et le téléphone lui permet de garder le rôle qu’elle souhaite exercer."
+      "clinical_intro": "Quand le comité propose un deuxième créneau, Gasparde a envie de tout accepter pour prouver qu’on a encore besoin d’elle. La conviction d’être progressivement écartée, au cœur de son trouble délirant, peut lui faire prendre une charge qu’elle ne voulait pas. Demander qui prendrait la porte et le téléphone lui permet de garder le rôle qu’elle souhaite exercer.",
+      "conclusion": "Le samedi reste à Gasparde et le dimanche a une volontaire, une durée et un relais pour le téléphone. Préparer l’affiche lui donne la part qu’elle a choisie. Elle n’a pas eu à prendre toute la permanence pour rester dans le projet."
     },
     {
       "number": 8,
@@ -343,17 +742,73 @@
         {
           "role": "explanation",
           "heading": "Comprendre ce que la peur a ajouté à la question",
-          "text": "Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée. Gasparde reste préoccupée par le partage des rôles au club. Elle entend aussi Dounia dire qu’elle cherchait à rendre des clés. Sa remarque a prêté une intention à Dounia et a coupé l’échange. Elle peut en répondre directement, en laissant à Dounia une place pour dire comment elle l’a reçue.\n\nDans le trouble délirant, une conviction peut rester forte malgré un changement dans la situation qui l’a ravivée."
+          "text": "Une intention prêtée à quelqu’un peut orienter le ton de la réponse avant que sa question ait été comprise. Dans le trouble délirant, une conviction déjà préoccupante peut rendre très plausible un lien qui n’a pas été établi. Gasparde répond à l’idée que Dounia souhaite la remplacer. Dounia voulait rendre une clé. La première peut reconnaître l’effet de sa réponse sans attendre que toute inquiétude au club se dissipe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le récit montre une inquiétude propre à Gasparde, avec un moment où elle influence sa réponse. Gasparde pourra en parler dans son suivi. Elle choisit ici un geste relationnel précis. Elle veut que Dounia puisse poser une question au club et obtenir une réponse qui la concerne."
+          "heading": "Comment une intention prêtée à autrui change-t-elle la réponse ?",
+          "points": [
+            {
+              "heading": "La question est entendue au-delà de ses mots",
+              "text": "La crainte peut ajouter un projet à une demande ordinaire.",
+              "examples": [
+                "Dounia demande si Basile viendra et Gasparde croit entendre qu’elle préfère qu’il dirige.",
+                "Une personne demande qui fermera le local et reçoit une réponse sur la confiance qu’on lui accorde."
+              ]
+            },
+            {
+              "heading": "La parole coupe l’échange",
+              "text": "Une réponse à l’intention supposée peut laisser le besoin réel sans réponse.",
+              "examples": [
+                "Gasparde dit à Dounia de s’adresser directement à Basile et le trousseau reste à rendre.",
+                "Un collègue réagit vivement à une demande de rendez-vous et l’autre repart sans savoir à quelle heure revenir."
+              ]
+            },
+            {
+              "heading": "La réparation a sa propre limite",
+              "text": "Une excuse peut compter même si l’autre ne souhaite pas reprendre toute la discussion.",
+              "examples": [
+                "Dounia accorde une minute et veut en rester là après l’excuse.",
+                "Une personne accepte qu’on reconnaisse une parole blessante et demande de revenir au travail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire des excuses qui laissent de la place",
-          "text": "Gasparde peut rappeler brièvement ce qu’elle a dit, reconnaître le ton et répondre à la question des clés. Dounia pourra décider si elle souhaite parler du désaccord sur le moment ou revenir vers le terrain. Les excuses ne fixent pas la durée nécessaire pour que la relation se rétablisse. Elles ouvrent la possibilité d’un nouvel échange sans l’exiger.\n\nSi Gasparde se sent encore mise à l’écart, elle peut attendre le moment où elle aura plus de temps pour parler de ce que cela lui fait. Dounia a aussi des raisons de venir au terrain qui lui appartiennent. Elle peut continuer à jouer, regarder avec Clara ou demander à Basile où rendre la clé. L’accord sur le lieu où déposer le trousseau peut tenir en une phrase, quelle que soit la suite de leur conversation."
+          "heading": "3 techniques pour réparer un échange après une réponse brusque",
+          "points": [
+            {
+              "heading": "Reprendre la demande concrète",
+              "objective": "Rétablir ce que l’autre cherchait à faire.",
+              "exercise": [
+                "Demandez si vous pouvez reprendre un instant.",
+                "Redites avec vos mots la demande que vous avez comprise après coup.",
+                "Donnez l’information ou l’aide qui restait à fournir."
+              ],
+              "benefit": "Le problème immédiat peut être résolu même si l’échange a laissé une gêne."
+            },
+            {
+              "heading": "Nommer ce que l’on a ajouté",
+              "objective": "Reconnaître le lien entre l’intention prêtée et sa réponse.",
+              "exercise": [
+                "Rappelez la phrase que vous avez prononcée.",
+                "Dites ce que vous avez supposé sans que l’autre l’ait exprimé.",
+                "Excusez-vous pour la façon dont vous lui avez parlé."
+              ],
+              "benefit": "La personne entend une réponse au tort précis et peut choisir ce qu’elle souhaite dire."
+            },
+            {
+              "heading": "Accepter la durée proposée",
+              "objective": "Respecter le choix de l’autre sur la réparation.",
+              "exercise": [
+                "Demandez combien de temps la personne souhaite consacrer à l’échange.",
+                "Laissez-la dire si elle veut s’arrêter.",
+                "Reprenez une activité ordinaire si vous êtes tous deux prêts."
+              ],
+              "benefit": "La discussion n’a pas besoin de régler toute la relation pour être utile."
+            }
+          ]
         }
       ],
       "ending_title": "Le crochet près de la porte",
@@ -370,7 +825,8 @@
         "next": "Dounia continue à venir comme adhérente. Le croquis corrige l’accès pour Levent. L’accueil du dimanche reste confié à Nathalie et Basile."
       },
       "clinical_focus": "Intention prêtée à autrui",
-      "clinical_intro": "Dounia demande si Basile viendra et Gasparde entend une remise en cause de sa place. Elle lui répond sèchement, avant d’apprendre que la question concernait des clés. Dans le trouble délirant, une préoccupation persistante peut s’étendre à des échanges très courts. Gasparde peut reconnaître la portée de sa réponse et écouter Dounia même si la peur d’être écartée reste présente."
+      "clinical_intro": "Dounia demande si Basile viendra et Gasparde entend une remise en cause de sa place. Elle lui répond sèchement, avant d’apprendre que la question concernait des clés. Dans le trouble délirant, une préoccupation persistante peut s’étendre à des échanges très courts. Gasparde peut reconnaître la portée de sa réponse et écouter Dounia même si la peur d’être écartée reste présente.",
+      "conclusion": "La clé retrouve son crochet et Dounia choisit de s’arrêter après l’excuse. Gasparde peut revenir vers les joueurs sans exiger que Dounia apaise la peur à sa place. Le geste suivant est de montrer une ligne qui s’efface sur le terrain."
     },
     {
       "number": 9,
@@ -388,17 +844,73 @@
         {
           "role": "explanation",
           "heading": "Tolérer l’incertitude pendant que quelqu’un d’autre prend le relais",
-          "text": "Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend. Gasparde voit le problème possible et sait qu’elle pourrait y consacrer son matin. Elle se souvient aussi de la répartition écrite au comité. Basile doit organiser les informations et prévenir Nathalie si la pluie rend l’essai impossible. Elle peut transmettre la question arrivée chez elle et s’appuyer sur cet accord, même si elle demeure inquiète."
+          "text": "Déléguer implique de laisser une autre personne décider de certains gestes sans les suivre au fur et à mesure. Dans le trouble délirant, une préoccupation sur sa place peut rendre cette incertitude particulièrement coûteuse. Gasparde reçoit une question sur son téléphone personnel et se sent poussée à reprendre l’accueil. L’accord passé avec Basile et Nathalie lui donne un relais réel, même si elle craint encore ce qui pourrait lui échapper."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La préoccupation de Gasparde peut se prolonger au-delà de l’incident qui l’a relancée. Le suivi tiendra compte du temps et de l’énergie qu’elle y consacre. Ce dimanche, son choix concerne une partie de sa journée. Elle veut rejoindre sa sœur. L’OMS recommande de discuter en suivi des activités et soutiens auxquels la personne tient, parmi les aspects concrets de son fonctionnement quotidien."
+          "heading": "Comment l’anxiété de déléguer se voit-elle pendant une absence ?",
+          "points": [
+            {
+              "heading": "Un message semble rouvrir la permanence",
+              "text": "Une demande adressée par habitude peut donner l’impression que le relais ne tient pas.",
+              "examples": [
+                "Le message d’Agnès fait revenir Gasparde dans la cuisine alors qu’elle a mis son manteau.",
+                "Une personne reçoit sur son numéro personnel une question que le secrétariat devait reprendre."
+              ]
+            },
+            {
+              "heading": "On envisage de rester l’intermédiaire",
+              "text": "On peut transmettre l’information tout en voulant contrôler chaque réponse par inquiétude.",
+              "examples": [
+                "Gasparde pense à suivre les messages pendant la promenade.",
+                "Une bénévole envisage de demander au collègue de lui transférer les confirmations qu’il a accepté de gérer."
+              ]
+            },
+            {
+              "heading": "Le retour convenu suffit pour reprendre le fil",
+              "text": "Une information brève sur ce qui a été fait peut éviter d’avoir à suivre tout l’échange.",
+              "examples": [
+                "Basile indique que l’essai est annulé et que les deux personnes ont été prévenues.",
+                "Une collègue informe à l’heure prévue que l’inscription est reportée et que le public le sait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Définir comment une information circule",
-          "text": "Un relais fonctionne mieux quand les personnes concernées savent où recevoir la décision. Ici, les adhérents peuvent appeler le numéro du club. L’affiche d’accueil peut donner ce même numéro et indiquer que le créneau dépend de l’état du terrain. Basile et Nathalie peuvent ensuite vérifier que les deux personnes attendues ont reçu le message de fermeture, si elle a lieu.\n\nGasparde peut apporter mardi un exemple de ce qui lui est arrivé et demander qu’on oriente mieux les questions vers le numéro commun. De son côté, Agnès peut faire passer l’information à sa sœur quand elle a une réponse. Les messages personnels et les heures de disponibilité se règlent à l’occasion du travail du club. La promenade de Gasparde avec sa sœur garde un autre rythme, avec le droit de prendre le temps de parler de ce qu’elles ont envie de se dire."
+          "heading": "3 techniques pour passer un relais sans rester de permanence",
+          "points": [
+            {
+              "heading": "Renvoyer la question vers le bon contact",
+              "objective": "Éviter de redevenir l’unique point de passage.",
+              "exercise": [
+                "Indiquez à l’adhérent le numéro prévu.",
+                "Prévenez la personne de permanence qu’une question est arrivée.",
+                "Laissez-lui répondre selon l’accord pris."
+              ],
+              "benefit": "La demande reste suivie et le rôle de chacun devient plus lisible."
+            },
+            {
+              "heading": "Convenir d’un seul retour utile",
+              "objective": "Savoir quand vous apprendrez le résultat.",
+              "exercise": [
+                "Définissez ce qui doit vous être transmis.",
+                "Choisissez un moment où le collègue peut le faire.",
+                "Gardez les détails d’organisation pour le prochain bilan."
+              ],
+              "benefit": "L’information reste disponible sans demander au collègue de rendre compte de chaque décision."
+            },
+            {
+              "heading": "Maintenir le projet personnel prévu",
+              "objective": "Permettre au relais de libérer du temps réel.",
+              "exercise": [
+                "Dites à la personne qui vous attend quand vous partez.",
+                "Choisissez la durée ou le trajet qui vous convient aujourd’hui.",
+                "Revenez au résultat de la permanence au moment convenu."
+              ],
+              "benefit": "Le temps libéré peut être utilisé même si le sentiment d’incertitude persiste."
+            }
+          ]
         }
       ],
       "ending_title": "L’eau sous le pont",
@@ -416,7 +928,8 @@
         "next": "Le premier dimanche a été annulé et les deux visiteurs prévenus. Gasparde veut reparler du numéro commun au bilan de mardi."
       },
       "clinical_focus": "Anxiété de déléguer",
-      "clinical_intro": "Une question arrive sur son téléphone et Gasparde craint que laisser un collègue y répondre lui fasse perdre sa place. L’inquiétude liée à son trouble délirant menace d’occuper la promenade qu’elle a prévue avec sa sœur. Le relais convenu lui permet de prendre la demande au sérieux, de la transmettre et d’essayer de laisser à Basile sa part de responsabilité."
+      "clinical_intro": "Une question arrive sur son téléphone et Gasparde craint que laisser un collègue y répondre lui fasse perdre sa place. L’inquiétude liée à son trouble délirant menace d’occuper la promenade qu’elle a prévue avec sa sœur. Le relais convenu lui permet de prendre la demande au sérieux, de la transmettre et d’essayer de laisser à Basile sa part de responsabilité.",
+      "conclusion": "Gasparde n’a pas à annuler sa promenade pour que l’accueil soit pris en charge. Basile et Nathalie donnent la même information aux personnes attendues. Au pont, l’inquiétude a encore sa place, mais elle ne décide pas de tout le temps passé avec sa sœur."
     },
     {
       "number": 10,
@@ -434,17 +947,73 @@
         {
           "role": "explanation",
           "heading": "Réparer un fait à la bonne échelle",
-          "text": "Une erreur concrète peut être corrigée pendant qu’on s’inquiète encore de ce qu’elle donnera à penser. Gasparde sait d’où vient l’heure qu’elle a écrite. Dounia et son amie ont besoin de connaître la bonne. Basile peut consigner le décalage pour examiner le fonctionnement du club."
+          "text": "Une erreur concrète peut faire craindre des conséquences bien plus larges que la correction nécessaire. Dans le trouble délirant, une inquiétude persistante sur une intention hostile peut donner à une faute ordinaire le poids d’une menace sur sa place. Gasparde sait comment l’heure erronée a été recopiée. L’amie de Dounia a besoin de l’heure exacte et le club peut décider comment éviter la même erreur."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gasparde peut demander comment l’incident figurera au bilan et quel usage sera fait de l’information.\n\nLa conviction que le document servira à l’écarter est une expérience dont elle peut parler à Farah si elle persiste. Le trouble délirant peut donner beaucoup de poids à certains événements autour d’une préoccupation. Les éléments qui entrent dans l’évaluation dépassent cette conversation. Sur le moment, Gasparde choisit d’expliquer sa correction avec des mots qu’elle emploierait aussi pour un autre membre du club."
+          "heading": "Comment la peur des conséquences grandit-elle après une erreur précise ?",
+          "points": [
+            {
+              "heading": "Un chiffre devient le début d’une histoire",
+              "text": "L’erreur réelle peut faire imaginer une suite que les faits n’établissent pas.",
+              "examples": [
+                "Gasparde voit « dix heures » et imagine qu’on utilisera son erreur pour reprendre le club sans elle.",
+                "Une personne se trompe de salle sur un message et croit déjà qu’on lui retirera ses permanences."
+              ]
+            },
+            {
+              "heading": "On voudrait effacer avant d’avertir",
+              "text": "Quand la conséquence redoutée prend toute la place, cacher l’erreur peut paraître plus urgent que la corriger.",
+              "examples": [
+                "Gasparde aimerait que Dounia efface la photo, puis choisit de l’appeler.",
+                "Quelqu’un pense à supprimer une annonce erronée sans avoir encore prévenu les lecteurs qui l’ont vue."
+              ]
+            },
+            {
+              "heading": "Le bilan peut porter sur la méthode",
+              "text": "L’équipe peut avoir besoin de comprendre comment l’erreur a circulé sans prononcer un jugement sur la personne.",
+              "examples": [
+                "Basile propose de relire l’heure dans le registre avant tout affichage.",
+                "Une équipe ajoute une vérification de l’adresse au moment où elle envoie les invitations."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire servir le bilan à la prochaine réservation",
-          "text": "Le comité a déjà un moyen de noter l’horaire avant d’en envoyer la confirmation. Il peut appliquer la même règle aux affiches et décider comment prévenir les personnes qui ont reçu une première version. Basile peut demander à Gasparde si elle veut inscrire la correction elle-même. En séance, ils peuvent prendre cinq minutes pour vérifier ce que l’essai a réellement changé dans les tâches de chacun.\n\nLes autres questions ont chacune leur place. Nathalie peut préciser quel dimanche elle serait disponible pour refaire l’essai. Dounia peut relire une indication d’accès si elle en a envie. Elle peut aussi se contenter de relayer la correction à l’amie à qui elle avait donné rendez-vous. Le bilan se construit sur ces informations. Une situation qui demande encore une réponse peut y figurer avec un nom et une date de reprise."
+          "heading": "3 techniques pour réparer une erreur à la mesure de ses effets",
+          "points": [
+            {
+              "heading": "Prévenir les personnes concernées",
+              "objective": "Corriger ce qu’une autre personne s’apprête à faire sur la foi de l’erreur.",
+              "exercise": [
+                "Vérifiez le renseignement au bon endroit.",
+                "Contactez les personnes qui ont reçu la première version.",
+                "Confirmez l’heure ou le lieu corrigé sans diffuser les autres données du registre."
+              ],
+              "benefit": "La réparation répond au besoin immédiat et protège les informations qui n’y sont pas liées."
+            },
+            {
+              "heading": "Inscrire une règle de travail",
+              "objective": "Réduire le risque de reproduire la même erreur.",
+              "exercise": [
+                "Repérez à quel passage le renseignement a changé.",
+                "Choisissez le support qui fera référence.",
+                "Convenez de qui le vérifiera avant diffusion."
+              ],
+              "benefit": "L’équipe peut améliorer la méthode au lieu de faire porter toute la suite sur une seule personne."
+            },
+            {
+              "heading": "Reprendre le scénario redouté avec le bon interlocuteur",
+              "objective": "Parler de ce qui continue à inquiéter une fois l’erreur réparée.",
+              "exercise": [
+                "Distinguez ce qui a été corrigé et ce que vous craignez encore.",
+                "Demandez au collègue ce qui figure réellement au bilan.",
+                "Si le scénario continue de prendre beaucoup de place, apportez son effet au suivi."
+              ],
+              "benefit": "La question de travail et la détresse peuvent recevoir des réponses différentes."
+            }
+          ]
         }
       ],
       "ending_title": "Dix heures trente, en toutes lettres",
@@ -461,7 +1030,8 @@
         "next": "L’accueil du samedi reste à dix heures trente. Le comité examinera après l’accueil les plages du téléphone commun et un nouveau dimanche d’essai le mois suivant."
       },
       "clinical_focus": "Peur des conséquences",
-      "clinical_intro": "Gasparde repère une erreur d’heure qu’elle a commise. Elle redoute que le compte rendu serve à convaincre le comité de la remplacer. Le trouble délirant peut donner une portée menaçante à des faits bien réels. En appelant Dounia pour corriger l’heure, elle répond à une conséquence vérifiable et garde la possibilité de discuter du reste avec les interlocuteurs concernés."
+      "clinical_intro": "Gasparde repère une erreur d’heure qu’elle a commise. Elle redoute que le compte rendu serve à convaincre le comité de la remplacer. Le trouble délirant peut donner une portée menaçante à des faits bien réels. En appelant Dounia pour corriger l’heure, elle répond à une conséquence vérifiable et garde la possibilité de discuter du reste avec les interlocuteurs concernés.",
+      "conclusion": "L’heure correcte repart vers Dounia et son amie. Le bilan garde une consigne sur le registre, tandis que Gasparde reprend avec Basile la question du téléphone. L’erreur a demandé une réponse, sans décider de la place qu’elle gardera le samedi."
     },
     {
       "number": 11,
@@ -479,17 +1049,73 @@
         {
           "role": "explanation",
           "heading": "Les bonnes journées comptent aussi au suivi",
-          "text": "Une période plus agréable et le retour d’une préoccupation peuvent faire partie de la même évolution. Gasparde a aimé jouer, a passé du temps avec sa sœur et a ensuite vécu une nuit difficile. L’équipe peut entendre ces moments ensemble. Elle peut lui demander ce que la phrase a réveillé, combien de temps elle a été occupée à la relire et ce qu’elle souhaite retrouver dans ses journées."
+          "text": "Une préoccupation peut revenir après plusieurs journées plus agréables. Dans le trouble délirant, l’équipe apprécie l’évolution avec la personne, en regardant plusieurs moments et leurs conséquences plutôt qu’une seule mauvaise nuit. Gasparde a joué et marché avec sa sœur, puis revient longtemps sur une phrase du comité. Ces expériences peuvent être racontées ensemble lorsque Farah demande ce qui a changé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la CIM-11, l’appréciation de l’évolution du trouble délirant demande de regarder la durée et l’ensemble des signes avec la personne. Gasparde choisit d’appeler à partir d’une difficulté qu’elle avait nommée avec Farah. Le contenu d’un message du club peut rester un sujet à part. Le besoin qu’elle exprime concerne le temps que l’inquiétude reprend et la possibilité d’en parler avec quelqu’un qui connaît son suivi."
+          "heading": "Comment la préoccupation peut-elle revenir après des jours plus calmes ?",
+          "points": [
+            {
+              "heading": "Une phrase déjà lue change de poids",
+              "text": "Le même message peut occuper plus de place à un autre moment.",
+              "examples": [
+                "Gasparde trouve d’abord la phrase du comité ordinaire, puis la relit au milieu de la nuit.",
+                "Une personne laisse un message de côté en journée et y revient quand elle se réveille la nuit."
+              ]
+            },
+            {
+              "heading": "Un bon moment n’efface pas la nuit difficile",
+              "text": "Le plaisir passé et la fatigue présente peuvent être décrits sans que l’un contredise l’autre.",
+              "examples": [
+                "Gasparde se souvient du canal et se sent épuisée devant le lait débordé.",
+                "Quelqu’un raconte une visite appréciée et, deux jours plus tard, le temps passé à relire une conversation."
+              ]
+            },
+            {
+              "heading": "On hésite à redemander un avis",
+              "text": "Un mieux récent peut faire croire que demander de l’aide serait prématuré.",
+              "examples": [
+                "Gasparde explique à Farah qu’elle a hésité parce que plusieurs jours lui avaient fait du bien.",
+                "Une personne repousse un appel prévu parce qu’elle a pu sortir la veille, même si la gêne a repris."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Utiliser le contact qu’on a préparé ensemble",
-          "text": "Le guide de l’OMS pour le suivi des psychoses invite les soignants à tenir compte des changements et du fonctionnement rapportés par la personne. La phrase gardée avec Farah aide Gasparde à entrer dans la conversation. Elle peut raconter le reste à son rythme, à partir de la question qui la fait appeler. Si elle souhaite prendre un rendez-vous plus tôt, elle peut en discuter avec la personne qui lui répond.\n\nBrigitte peut choisir une heure pour passer et demander à Gasparde si elle veut qu’on parle de la nuit ou qu’on prenne le petit déjeuner. Elle peut lui laisser le temps de joindre l’équipe. Un appui amical et un rendez-vous de suivi répondent à des besoins différents. Gasparde décide ce qu’elle aimerait recevoir de chacune et ce qu’elle préfère garder pour elle."
+          "heading": "3 techniques pour faire le point quand une préoccupation revient",
+          "points": [
+            {
+              "heading": "Décrire les variations",
+              "objective": "Donner une vue plus juste que le souvenir de la dernière nuit.",
+              "exercise": [
+                "Choisissez un moment plus calme et un autre plus difficile.",
+                "Dites ce que la préoccupation vous a laissé faire à chaque fois.",
+                "Apportez ces deux exemples au suivi."
+              ],
+              "benefit": "L’équipe peut examiner l’évolution en tenant compte du contexte et du retentissement."
+            },
+            {
+              "heading": "Utiliser le contact convenu",
+              "objective": "Demander un avis avant que la question prenne davantage de place.",
+              "exercise": [
+                "Reprenez le numéro et la plage notés avec le service.",
+                "Dites ce qui s’est remis à gêner votre sommeil ou vos activités.",
+                "Demandez si un échange plus proche est possible."
+              ],
+              "benefit": "Le service peut proposer le délai qui convient à la situation."
+            },
+            {
+              "heading": "Choisir quand voir un proche",
+              "objective": "Garder un appui compatible avec la façon dont on souhaite parler.",
+              "exercise": [
+                "Décidez si vous voulez appeler seul ou accompagné.",
+                "Proposez au proche un autre moment si vous souhaitez le voir ensuite.",
+                "Dites quelle aide vous est utile ce jour-là."
+              ],
+              "benefit": "Le proche peut être disponible sans devoir intervenir dans le contact de soins."
+            }
+          ]
         }
       ],
       "ending_title": "La feuille à portée de main",
@@ -507,7 +1133,8 @@
         "next": "Le suivi continue avec Farah. Gasparde garde la possibilité de jouer samedi et peut discuter de l’organisation du club séparément."
       },
       "clinical_focus": "Fluctuation de la préoccupation",
-      "clinical_intro": "Gasparde avait apprécié son après-midi au canal. Pendant la nuit, un message ordinaire du comité reprend un sens inquiétant et elle le rouvre plusieurs fois. Dans le trouble délirant, une période de soulagement et une remontée de la préoccupation peuvent se succéder. Elle décrit à son équipe l’effet sur sa nuit et demande à Brigitte la présence qui lui ferait du bien."
+      "clinical_intro": "Gasparde avait apprécié son après-midi au canal. Pendant la nuit, un message ordinaire du comité reprend un sens inquiétant et elle le rouvre plusieurs fois. Dans le trouble délirant, une période de soulagement et une remontée de la préoccupation peuvent se succéder. Elle décrit à son équipe l’effet sur sa nuit et demande à Brigitte la présence qui lui ferait du bien.",
+      "conclusion": "Farah entend à la fois les jours agréables et la nuit qui a poussé Gasparde à appeler. Elles avancent le rendez-vous sans faire d’une seule nuit un verdict. Brigitte peut arriver ensuite avec le grip promis et partager un café."
     },
     {
       "number": 12,
@@ -525,17 +1152,73 @@
         {
           "role": "explanation",
           "heading": "Reprendre des activités qui ont de la valeur pour soi",
-          "text": "Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu. Gasparde veut s’occuper des réservations sur des plages connues, accueillir le samedi matin et garder du temps pour jouer. Elle a encore des moments où une modification ordinaire du planning ravive la peur d’être mise de côté. Elle continue à en parler en suivi quand cela lui coûte. Son expérience du club comprend aussi une organisation qu’elle a contribué à construire.\n\nLe trouble délirant peut avoir des effets qui se concentrent autour de certaines préoccupations."
+          "text": "Dans le rétablissement, l’autonomie se voit aussi dans la possibilité de choisir des activités et la façon d’y prendre part. Avec un trouble délirant, une préoccupation peut rester vive par moments alors que la personne retrouve du temps pour ce qui lui importe. Gasparde garde le samedi matin, prévoit les plages de téléphone avec le club et inscrit enfin son propre double. La pensée qui revient devant le calendrier reste un sujet à aborder avec Farah."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le suivi regarde comment elles évoluent et ce que Gasparde souhaite faire dans sa vie. Le rendez-vous convenu avec Farah reste utile au-delà de la dernière scène. Le registre répond à des questions de fonctionnement du club. Le tennis et le choix de passer un dimanche au canal ont une valeur pour elle dans la vie qu’elle organise."
+          "heading": "Comment l’autonomie se voit-elle dans les activités retrouvées ?",
+          "points": [
+            {
+              "heading": "La personne choisit sa contribution",
+              "text": "Participer peut vouloir dire garder une tâche définie plutôt que prendre toutes les responsabilités.",
+              "examples": [
+                "Gasparde entoure le créneau d’accueil et accepte que Nathalie reprenne un dimanche.",
+                "Une bénévole garde les inscriptions d’une séance et partage la permanence du mois avec deux autres."
+              ]
+            },
+            {
+              "heading": "Le plaisir obtient un horaire propre",
+              "text": "Une activité choisie devient plus accessible quand elle n’attend plus la fin des obligations.",
+              "examples": [
+                "Le double de seize heures est inscrit sur la même ligne que les réservations des autres.",
+                "Une personne bloque une heure pour jouer avant de regarder si le club a besoin d’elle pour une tâche supplémentaire."
+              ]
+            },
+            {
+              "heading": "Les préoccupations et les choix suivent des chemins distincts",
+              "text": "Une pensée peut revenir pendant qu’une décision ordinaire reste possible.",
+              "examples": [
+                "Gasparde pense au changement des lignes et garde son doigt sur l’heure qu’elle veut réserver.",
+                "Quelqu’un note une inquiétude à reprendre en consultation et confirme en parallèle le rendez-vous qu’il souhaite maintenir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se mettre d’accord sur des rôles qui durent",
-          "text": "Le club garde le numéro commun, le registre et le plan qu’on peut lire en arrivant du bus ou du parc. Deux bénévoles se répartissent les plages téléphoniques et indiquent qui donne la décision si le terrain doit fermer. L’accueil du samedi est ouvert à une première visite, avec le droit de rester au banc. Le dimanche reste un essai tenu par Nathalie. Ils peuvent réexaminer l’accord quand la saison change ou si les bénévoles en ont besoin.\n\nGasparde a aussi décidé de réserver son double. La même procédure vaut pour elle, pour Agnès et pour une personne qui vient d’arriver. Basile peut respecter cette réservation et appeler un autre bénévole si une question surgit pendant la partie. Le téléphone et le registre sont au service d’une activité que les gens veulent pratiquer. Gasparde en fait partie aussi quand elle sert, perd un point et demande une balle de plus."
+          "heading": "3 techniques pour faire une place durable à des activités choisies",
+          "points": [
+            {
+              "heading": "Nommer ce que l’on veut continuer",
+              "objective": "Donner la priorité aux tâches et aux moments qui ont de la valeur pour soi.",
+              "exercise": [
+                "Choisissez une contribution et un plaisir que vous voulez garder.",
+                "Inscrivez leur durée sur le planning commun.",
+                "Vérifiez que les engagements de l’équipe laissent les deux possibles."
+              ],
+              "benefit": "Le temps de jeu devient aussi visible que le travail d’accueil."
+            },
+            {
+              "heading": "Prévoir comment modifier l’accord",
+              "objective": "Garder des responsabilités choisies quand la saison ou l’équipe change.",
+              "exercise": [
+                "Confirmez qui répond et sur quelles plages.",
+                "Fixez un moment où chacun pourra proposer un ajustement.",
+                "Indiquez au public où signaler une difficulté."
+              ],
+              "benefit": "L’organisation peut évoluer sans dépendre d’une seule personne."
+            },
+            {
+              "heading": "Garder un espace pour le suivi",
+              "objective": "Continuer à parler de ce qui coûte, même après un projet réussi.",
+              "exercise": [
+                "Notez le moment où la préoccupation a repris si vous souhaitez en parler.",
+                "Dites à l’équipe ce que vous avez pu faire malgré elle.",
+                "Convenez de la suite selon ce qui vous aide encore."
+              ],
+              "benefit": "Le suivi garde une place à côté des décisions du club et des moments de plaisir."
+            }
+          ]
         }
       ],
       "ending_title": "Une balle au-dessus de Brigitte",
@@ -552,7 +1235,8 @@
         "next": "Le comité pourra revoir les plages quand la saison change. Gasparde garde son rendez-vous de suivi, du temps d’accueil et un créneau de jeu avec Brigitte."
       },
       "clinical_focus": "Autonomie dans le rétablissement",
-      "clinical_intro": "Gasparde remarque un détail du calendrier et se surprend à se demander de nouveau ce qu’on prépare. Elle tient aussi à inscrire son heure de double au même titre que les autres. Dans le trouble délirant, une préoccupation peut rester présente alors que la personne retrouve des activités qui lui plaisent. Le récit montre quelle place le suivi et les accords du club occupent chacun dans cette évolution."
+      "clinical_intro": "Gasparde remarque un détail du calendrier et se surprend à se demander de nouveau ce qu’on prépare. Elle tient aussi à inscrire son heure de double au même titre que les autres. Dans le trouble délirant, une préoccupation peut rester présente alors que la personne retrouve des activités qui lui plaisent. Le récit montre quelle place le suivi et les accords du club occupent chacun dans cette évolution.",
+      "conclusion": "Le registre indique qui répond et qui accueille. Gasparde s’en sert aussi pour réserver son temps de jeu, puis rejoint Brigitte sur le terrain. Elle garde ce qu’elle a construit au club et sait à qui parler quand l’inquiétude reprend de la place."
     }
   ]
 }

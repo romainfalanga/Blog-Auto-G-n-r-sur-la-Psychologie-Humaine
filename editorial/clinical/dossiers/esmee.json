@@ -1,0 +1,29 @@
+{
+  "references": {
+    "nhs-trichotillomanie": {
+      "title": "NHS, Trichotillomania, manifestations, évaluation et prise en charge",
+      "url": "https://www.nhs.uk/mental-health/conditions/trichotillomania/"
+    },
+    "woods-trichotillomanie": {
+      "title": "Woods et coll., Acceptance-enhanced behavior therapy for trichotillomania in adults, essai randomisé",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36099688/"
+    },
+    "carlson-trichotillomanie": {
+      "title": "Carlson et coll., Comprehensive Behavioral Treatment of Trichotillomania, essai randomisé",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34656205/"
+    }
+  },
+  "dossier": {
+    "name": "Trichotillomanie",
+    "aliases": ["Trouble d’arrachage des cheveux ou des poils"],
+    "references": ["oms-cddr", "nhs-trichotillomanie", "woods-trichotillomanie", "carlson-trichotillomanie"],
+    "points": [
+      "OMS, CDDR 2024, 6B25.0, pp. 327–329 : la trichotillomanie comporte un arrachage récurrent qui entraîne une perte de cheveux ou de poils, des tentatives de réduire ou d’arrêter et un retentissement ou une détresse. Le diagnostic tient compte d’autres causes possibles. Le récit ne détaille aucun geste ni ne demande de regarder, compter ou commenter l’apparence.",
+      "OMS, CDDR 2024, manifestations additionnelles et évolution, et NHS, manifestations : le comportement peut survenir avec peu de conscience ou avec une envie remarquée, dans différents contextes. Tension, sensations, ennui ou émotions peuvent précéder certains moments et un soulagement de courte durée peut suivre. Le rythme et les effets varient. Le stress n’est ni nécessaire ni suffisant pour expliquer le trouble.",
+      "OMS, CDDR 2024, limites avec d’autres troubles : les comportements répétitifs centrés sur le corps ne répondent pas toujours à une obsession. Le trouble d’excoriation cible la peau et constitue une catégorie distincte. Une chute de cheveux ou un geste isolé ne permet pas d’attribuer la cause. Pour un changement corporel ou un symptôme nouveau, demander l’avis du professionnel approprié.",
+      "NHS, prise en charge, et essais contrôlés de Woods et coll. et Carlson et coll. chez des adultes : des thérapies comportementales peuvent être proposées et adaptées aux contextes et aux besoins. Les résultats des essais sont des observations de groupe, sans promesse individuelle. Les récits n’enseignent aucun protocole ni technique de contrainte. Esmée examine avec sa clinicienne ce qui peut lui convenir.",
+      "NHS, soutien et évaluation : la gêne et la peur du regard peuvent favoriser le secret ou l’évitement. Le soutien peut respecter le choix de parler et garder le lien avec les activités. Une amie ne surveille ni ne relève les gestes d’Esmée. L’évaluation des effets physiques revient aux professionnels."
+    ]
+  },
+  "direction": "Esmée, 21 ans, apprend la reliure. Elle parle d’abord du toucher et de la façon dont une couverture s’ouvre. Inès, camarade d’école, l’aide à préparer un stand sans surveiller ses gestes. La clinicienne Camille Renard suit le trouble déjà évalué. Le fil matériel est une série de carnets gris, verts et cuivre à présenter au marché des écoles. Séparer les moments peu remarqués, l’envie consciente, les contextes sensoriels, le soulagement bref, la honte, les appuis choisis en suivi et l’évolution après un imprévu. Les limites avec d’autres causes et l’excoriation sont expliquées sans les attribuer à Esmée. Aucun détail visuel sur l’apparence, aucune autoévaluation répétitive du corps et aucune mise en scène du geste. Le marché peut avoir lieu malgré une difficulté présente et l’histoire se termine sur un choix de reliure qui appartient à Esmée."
+}

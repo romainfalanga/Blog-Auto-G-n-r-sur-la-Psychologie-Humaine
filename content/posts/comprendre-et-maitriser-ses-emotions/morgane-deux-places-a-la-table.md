@@ -35,14 +35,79 @@ Elles atteignent le café dont les tables se sont libérées depuis leur départ
 
 Dans l’hyperphagie boulimique, les épisodes peuvent s’accompagner de honte, de culpabilité ou de dégoût. Le regard que Morgane porte sur elle-même continue à peser après la crise et l’amène à réduire les occasions de voir sa sœur.
 
-## Comment cette difficulté se manifeste
+## Comment la honte après une crise prolonge-t-elle la détresse ?
 
-Elle avait envie de retrouver Lucie et redoutait ce qu’elle pourrait deviner. Les deux sentiments peuvent coexister. La souffrance et le retentissement social ont une place dans l’évaluation et dans le suivi. Morgane peut expliquer à Anna qu’une partie difficile se joue quand elle voit une invitation apparaître sur son téléphone le lendemain.
+### Un rendez-vous attendu devient difficile
 
-## Passer de la rassurance à l’écoute
+La honte peut pousser à retarder une rencontre même si la personne en garde l’envie.
 
-Lucie cherchait à rendre la situation moins menaçante et a ramené ce qu’elle entendait à un appétit qu’elle connaît. La réponse laisse de côté la perte de contrôle et le coût qui suit. Elle peut reprendre en demandant ce que Morgane essayait de lui dire sur leurs rendez-vous. Morgane garde la possibilité de s’arrêter là ou d’évoquer le suivi. Leur marche peut rester une occasion de se voir, sans obligation de discuter de santé chaque fois. Un appui utile se construit sur une demande possible pour la proche. La présence de Lucie ce mercredi et l’accompagnement des soignants ont des fonctions différentes.
+**Exemples concrets**
+
+- Morgane propose à Lucie de remettre leur marche deux mercredis de suite.
+- À force d’imaginer qu’elle devra s’expliquer, elle en vient presque à souhaiter ne plus recevoir d’invitation.
+
+### La réponse de l’autre peut manquer le besoin
+
+Une tentative de rassurer peut laisser de côté ce qui rend le vécu pénible.
+
+**Exemples concrets**
+
+- Lucie parle d’un gros appétit alors que Morgane essaie de décrire pourquoi elle se cache après l’épisode.
+- Morgane replie le ticket du livre et perd le fil de la phrase qu’elle avait répétée.
+
+### Le coût devient audible dans un détail
+
+Raconter une conséquence ordinaire peut aider l’autre à comprendre ce que la honte a changé.
+
+**Exemples concrets**
+
+- Morgane demande à finir sa phrase avant de s’asseoir au café.
+- Elle finit par dire qu’elle aurait voulu voir Lucie les deux autres mercredis.
+
+## 3 techniques pour faire entendre ce que la honte a changé dans un lien
+
+### 1. Partir du rendez-vous manqué
+
+Mettre des mots sur l’effet de la honte sans détailler la crise.
+
+**Exercice pratique**
+
+- Choisissez un moment où vous auriez souhaité voir le proche.
+- Dites quel choix est devenu difficile ensuite.
+- Précisez si vous voulez être écouté ou faire une nouvelle proposition.
+
+La conversation peut partir d’un effet concret et d’un besoin audible.
+
+### 2. Demander quelques mots de plus
+
+Reprendre la parole quand une réponse rapide a interrompu la confidence.
+
+**Exercice pratique**
+
+- Dites que vous souhaitez finir une phrase.
+- Revenez au détail qui montre ce qui vous a coûté.
+- Décidez ensuite si vous voulez continuer la conversation ou la remettre.
+
+Vous pouvez garder la mesure de la confidence quand l’autre cherche à vous rassurer.
+
+### 3. Choisir une invitation modulable
+
+Garder le lien en faisant une place aux jours difficiles.
+
+**Exercice pratique**
+
+- Proposez un format bref que vous pourriez apprécier.
+- Convenez de la façon de le demander le jour venu.
+- Vérifiez ce que le proche peut offrir et parlez à l’équipe si le retrait prend beaucoup de place.
+
+La rencontre peut rester possible et les professionnels peuvent reprendre la détresse si elle persiste.
 
 ## Une raison de reprendre la marche
 
 Morgane dit qu’elle aurait voulu voir Lucie les deux autres mercredis. Lucie se tait un instant, puis lui demande si elle veut garder leur prochain rendez-vous même quand la veille a été difficile. Morgane répond qu’elle préférerait pouvoir lui écrire qu’elle a besoin d’un tour court. Elles s’installent près de la fenêtre et reviennent au plan imprimé dans le livre. Avant de rentrer, Morgane retrouve un message de Sonia. L’équipe a obtenu un créneau lundi pour essayer l’accueil des visiteurs.
+
+---
+
+**Conclusion**
+
+Les deux sœurs se mettent à parler des mercredis manqués puis conviennent d’un tour court quand Morgane en a besoin. Lucie peut comprendre que le problème a débordé sur leur lien. La cour dans le livre leur donne ensuite une raison de poursuivre la rencontre.

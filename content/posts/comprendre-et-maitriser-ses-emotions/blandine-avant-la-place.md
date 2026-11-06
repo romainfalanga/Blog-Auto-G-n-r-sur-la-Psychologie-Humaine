@@ -29,22 +29,83 @@ Blandine pose un pied entre deux pavés plus clairs et s’arrête. Avant la mor
 
 Elle appelle Léon. Il décroche au moment où elle s’apprête à raccrocher et lui dit qu’il peut laisser les chanteurs se préparer. Blandine entend sa question sur la porte ouverte. Elle lui explique où elle est et dit qu’elle veut reporter. Pendant qu’il traverse le couloir pour prévenir les autres, elle glisse la chemise plus bas dans son sac. Elle a encore le temps de rentrer par le bus du boulevard.
 
-## Ce qu’un lieu peut raviver
+## Contourner un lieu qui rappelle l’absence
 
-Un lieu lié à quelqu’un qui est mort peut raviver le manque au moment où l’on s’apprête à y entrer. Les CDDR de l’OMS indiquent que, dans le trouble du deuil prolongé, une forte préoccupation pour des souvenirs et l’évitement de certains rappels peuvent coexister.
+Dans un trouble du deuil prolongé, on peut penser très souvent à la personne décédée et éviter certains lieux ou moments qui rappellent sa mort ou son absence. Le détour peut donner de la marge sur le moment et écarter aussi une activité désirée lorsqu’il se répète. Blandine a préparé une lecture avec le chœur ; la vue de la salle rend cette rencontre trop difficile ce jeudi.
 
-## Comment cette difficulté se manifeste
+## Comment l’évitement peut-il modifier un projet qui compte ?
 
-Chez Blandine, les annotations de Jeanne ont un intérêt qui la porte jusqu’à la place. Le bruit de la chaise change la situation. Elle se retrouve à désirer une présence dont elle connaît l’absence.
+### La décision change à l’approche du lieu
 
-Deux lieux peuvent appeler des réactions différentes. À l’annexe, elle s’était assise devant un tableau avec Léon. Ici, la salle a gardé une disposition qu’elle associe au jeudi avec sa sœur. Blandine pourra en parler en consultation si elle veut comprendre ce qui lui coûte le plus. Le retour en bus lui montre aussi que le détour peut déplacer un problème sur une autre course, même si elle l’a choisi pour rentrer ce soir.
+Il est possible de vouloir une rencontre en la préparant et de se sentir autrement face au rappel concret.
 
-## Prévenir et laisser retomber la pression du rendez-vous
+**Exemples concrets**
 
-Il suffit à Léon de savoir que la lecture ne se fera pas ce soir. Il peut préparer sa répétition, puis proposer un créneau à l’annexe quand il en connaît les horaires. Blandine garde la possibilité de les refuser ou de reprendre la question par écrit. Le retour vers la salle reste distinct de l’accord sur les partitions. Si elle veut savoir ce qui a pesé sur son trajet, elle pourra le reprendre avec sa thérapeute, sans demander à Léon de l’accompagner dans un exercice de soin.
+- Blandine est arrivée au bout de la rue avant de demander le report.
+- Quelqu’un prévoit de voir une amie et choisit un autre chemin au moment de passer devant un lieu de souvenir.
 
-Le report a tout de même des conséquences pratiques. Des gens se sont déplacés avant l’heure, et Blandine a laissé sa course. Elle remercie Léon d’avoir relayé le changement. Elle vérifie les horaires du lendemain pour la pharmacie près de son bureau. La rencontre suivante pourra être fixée au moment où Alice comptait déjà passer à l’annexe.
+### Le détour garde de la distance au prix d’une rencontre
+
+Éviter un rappel peut momentanément soulager et empêcher un échange que la personne voulait avoir.
+
+**Exemples concrets**
+
+- Blandine reprend le bus du boulevard avec les deux partitions dans son sac.
+- Une personne change régulièrement de trajet et ne croise plus les voisins avec lesquels elle aimait parler.
+
+### Le lieu et l’activité peuvent être séparés
+
+Ce qui est difficile dans un cadre peut rester possible dans un autre.
+
+**Exemples concrets**
+
+- Blandine accepte de parler des annotations à l’annexe plutôt qu’à la salle du chœur.
+- Quelqu’un préfère écouter un morceau chez un ami avant de décider s’il veut retourner au lieu du concert.
+
+## 3 techniques pour garder un choix lorsque le détour s’impose
+
+### 1. Prévoir un report explicite
+
+Pouvoir changer de décision sans devoir tout expliquer sur place.
+
+**Exercice pratique**
+
+- Convenez à l’avance d’un moyen de prévenir.
+- Dites simplement si vous ne venez pas et si vous souhaitez reparler du projet.
+- Laissez les autres reprendre leur activité.
+
+L’arrangement limite la pression et permet aux personnes présentes de s’organiser.
+
+### 2. Sauver une partie du projet
+
+Séparer l’échange recherché du lieu devenu trop difficile.
+
+**Exercice pratique**
+
+- Nommez ce qui vous intéressait, comme relire une annotation.
+- Demandez si cette partie est possible ailleurs.
+- Précisez les conditions avant d’accepter.
+
+Vous gardez une option concrète même quand le premier cadre ne convient pas.
+
+### 3. Apporter un détour récurrent au suivi
+
+Examiner son coût et les choix qu’on voudrait retrouver.
+
+**Exercice pratique**
+
+- Notez un trajet ou un rendez-vous écarté.
+- Décrivez le rappel qui pesait et ce que vous avez manqué.
+- Discutez des possibilités avec le professionnel qui vous suit, à votre rythme.
+
+Le travail peut porter sur la liberté souhaitée, avec un soutien ajusté.
 
 ## Le bus du boulevard
 
 Léon lui écrit que Alice et Malo sont avec les autres, prêts à répéter. Blandine descend vers le boulevard. Dans le bus, elle aperçoit la chemise jaune entre son parapluie et le livre qu’elle n’a pas ouvert. Elle rentre avec les deux partitions. Léon propose lundi : Alice, qui tient les archives du chœur, doit de toute façon rendre des livres à l’annexe ; Malo pourra la rejoindre. Blandine accepte ce créneau. Elle lui demande de prévenir les deux personnes qu’elles parleront des annotations et qu’elle repartira avec les feuilles.
+
+---
+
+**Conclusion**
+
+Blandine ne franchit pas la place et tient encore à la lecture. Le report lui permet de préciser ce qu’elle veut faire à l’annexe. Les détours qui écartent des rencontres resteront un sujet à suivre.

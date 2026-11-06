@@ -33,14 +33,79 @@ Juste avant de jouer, un pan de la toile claque sous la halle. Baptiste refait l
 
 L’évolution du trouble explosif intermittent s’apprécie dans le temps. L’équipe peut revenir sur les accès, sur leurs effets et sur ce que Damien réussit à faire quand une difficulté apparaît. Une soirée qui se passe bien renseigne sur un lieu, un moment et des conditions précises. Après les insultes au travail, l’équipe a aussi un épisode où le premier repère a manqué. Les deux expériences ont leur place dans le suivi. Damien peut retrouver une part de sa vie musicale tout en gardant des rendez-vous et des engagements de sécurité.
 
-## Les progrès et les décisions des autres se voient séparément
+## Comment une évolution peut-elle être reconnue sans exiger le retour de la confiance ?
 
-Damien attend le nouveau signe de Baptiste et peut reprendre le morceau à l’endroit prévu. Judith vient jouer dans le cadre défini par le bureau. Leïla passe sa journée au jardin, et les choix de Mireille restent pris en compte dans l’accord sur la salle. Ces conduites n’ont pas à traduire un même niveau de confiance. Pour Damien, jouer à nouveau a une valeur propre. Pour les autres, la possibilité de venir, de partir ou de garder de la distance a aussi une valeur en elle-même.
+### Un changement se voit dans une situation précise
 
-## Maintenir les dispositions après le concert
+Un geste plus adapté peut apporter une information sur l’évolution lorsqu’on sait dans quelles conditions il a eu lieu.
 
-Damien peut apporter au suivi ce qu’il a observé pendant la répétition et le concert, ainsi que ce qui lui reste difficile. Il peut aussi vérifier auprès de Baptiste ce qui est convenu pour les prochains morceaux. Le bureau garde les dispositions sur la clé et sur les échanges entre associations. Le choix de Mireille de ne recevoir aucun message continue de s’appliquer. Damien peut prendre sa part de responsabilité et continuer son projet sans organiser un moment où les autres devraient reconnaître son évolution.
+**Exemples concrets**
+
+- Baptiste refait son signe après le bruit de la toile et Damien attend un temps.
+- Damien entre avec les saxophones en s’appuyant sur la marque de la répétition.
+
+### Les autres gardent leurs engagements et leurs distances
+
+L’évolution d’une personne ne donne aucune obligation de présence, de contact ou de pardon.
+
+**Exemples concrets**
+
+- Leïla a choisi son échange de graines et Damien cesse de chercher sa place au premier rang.
+- Mireille et son groupe n’ont aucune démarche à faire pour le concert.
+
+### Les règles et le suivi continuent après l’événement
+
+Une prestation réussie ne remplace ni les accords de sécurité ni les décisions de soin.
+
+**Exemples concrets**
+
+- La clé de la salle reste au guichet et Damien range son matériel du côté prévu.
+- La prochaine répétition proposée garde le même cadre et le rendez-vous de soins est déjà inscrit.
+
+## 3 techniques pour faire le bilan d’une reprise en respectant les limites des autres
+
+### 1. Décrire un changement observable
+
+Donner à l’équipe un exemple qui ne présume pas la suite.
+
+**Exercice pratique**
+
+- Relevez un moment où vous avez agi différemment.
+- Décrivez les conditions et les personnes qui y ont contribué.
+- Reprenez au rendez-vous cet exemple avec une difficulté qui demande encore du travail.
+
+Le suivi peut situer le progrès dans le temps et le cadre où il a été possible.
+
+### 2. Respecter le choix d’une personne absente
+
+Garder la relation libre de toute dette de confiance.
+
+**Exercice pratique**
+
+- Prenez acte de sa décision sans demander de justification.
+- Renoncez à vérifier sa présence ou à lui faire transmettre un message qu’elle n’a pas demandé.
+- Utilisez le cadre du suivi pour parler de ce que cette distance vous fait éprouver.
+
+La personne peut garder ses propres projets et les limites qu’elle a posées.
+
+### 3. Maintenir le cadre convenu pour le prochain rendez-vous collectif
+
+Proposer une suite définie et révisable.
+
+**Exercice pratique**
+
+- Relisez les conditions acceptées par le groupe.
+- Vérifiez le rôle que les organisateurs proposent et celui que vous acceptez.
+- Confirmez séparément vos rendez-vous de soins et les obligations de sécurité qui restent en place.
+
+Une nouvelle participation peut être discutée sans transformer le concert en preuve de sécurité.
 
 ## Une dernière note tenue ensemble
 
 Baptiste lève la main pour la dernière note. Damien la tient le temps prévu, puis entend le petit bruit des saxophones qu’on repose sur les genoux. Quand le morceau est fini, il débranche son ampli et le range du côté convenu. Judith lui demande s’il veut essayer le même arrangement sur un autre air, la semaine suivante, avec le même cadre de répétition. Il accepte. Sur son téléphone, il ajoute l’horaire sous le rendez-vous déjà pris avec l’équipe. Il pense aux graines de Leïla et se dit qu’elle lui racontera son samedi si elle en a envie. Il repart avec la basse et son carnet.
+
+---
+
+**Conclusion**
+
+Damien joue son morceau, range l’ampli du côté convenu et ajoute une répétition sous son rendez-vous de soins. La musique a retrouvé une place précise. Les limites de Mireille et le samedi de Leïla gardent leur sens, quel que soit le progrès que Damien peut reprendre avec son équipe.

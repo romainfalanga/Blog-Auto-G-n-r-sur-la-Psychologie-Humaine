@@ -34,14 +34,81 @@ Le portrait, c’est autre chose. Dans le cadre, Rachid regarde au-dessus de l�
 
 Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage.
 
-## Comment cette difficulté se manifeste
+Le refus du portrait règle l’usage de l’image et laisse d’autres choix à faire sur la page. Pour Maïwenn, il faut revoir la légende, le début et les liens entre les éléments alors que chaque passage a déjà demandé des reprises. La pince orange lui donne un fait observé à partir duquel retravailler la page.
 
-Pour Maïwenn, il change tout de même plusieurs choses : l’ordre des deux images, la phrase voisine et le temps qu’elle doit trouver pour les revoir. Elle peut être déçue de perdre un cadre qu’elle aime et respecter la décision. L’accord sur les mots de Rachid et celui sur la photo sont deux questions distinctes. Elles avaient prévu de lui montrer l’image ; elle ne lui demande pas de l’accepter pour leur éviter des modifications.
+## Comment une modification tardive peut-elle relancer plusieurs tâches d’écriture ?
 
-## Reprendre le fil à partir de ce qui reste
+### Une image retirée entraîne parfois une phrase avec elle
 
-Lou ressort le tirage de la pince orange, où on ne lit pas les noms du plan. Sur la page, elle pourra faire écho à la table qui doit tourner : les emplacements sont préparés avant qu’un chariot passe. Les deux autrices repartent de leur question de départ sur la manière dont les places se font. Maïwenn propose d’écrire une légende qui dise pourquoi le plan est retenu par une pince. Lou vérifie dans le carnet qu’elles ont bien vu le courant d’air. Le texte peut s’appuyer sur cette observation. Elles laissent tomber la phrase que le portrait portait jusque-là.
+Quand la légende et le texte s’appuient sur une image, son retrait peut changer ce que le lecteur comprend.
+
+**Exemples concrets**
+
+- Rachid refuse la publication de son portrait et Maïwenn reprend la légende associée.
+- Une phrase comme « on le voit ici » doit changer si la photo qu’elle désignait disparaît.
+
+### Un nouvel angle a besoin de faits utilisables
+
+Pour écrire sous une autre image, il faut choisir ce qui a été vu et ce qui reste à vérifier.
+
+**Exemples concrets**
+
+- Maïwenn reprend le détail de la pince orange et précise le point de vue des deux observatrices.
+- La phrase sur les chariots peut rester après une nouvelle lecture de la page.
+
+### La relecture se rouvre à un endroit précis
+
+Un passage modifié doit être vérifié dans son nouvel ensemble et sa forme peut encore demander un autre temps.
+
+**Exemples concrets**
+
+- Lou et Maïwenn relisent le début avec la nouvelle légende.
+- La dernière passe sur la forme reste prévue pour vendredi.
+
+## 3 techniques pour reprendre un texte après un changement imprévu
+
+### 1. Délimiter ce qui dépendait de l’élément retiré
+
+Éviter de reprendre toute la page sans nécessité.
+
+**Exercice pratique**
+
+- Retirez du dossier l’image qui ne paraîtra pas.
+- Repérez les renvois et phrases qu’elle soutenait.
+- Gardez une liste courte des passages à revoir.
+
+Le travail peut se concentrer sur les changements utiles.
+
+### 2. Repartir d’un détail vérifié
+
+Construire une autre entrée sans inventer les faits qui manquent.
+
+**Exercice pratique**
+
+- Choisissez une observation dont vous pouvez préciser le lieu.
+- Comparez-la aux notes ou à l’image retenue.
+- Proposez une légende qui dit ce que ce détail apporte.
+
+La nouvelle version a un point d’appui concret.
+
+### 3. Vérifier d’abord la cohérence avec le reste
+
+Préserver du temps pour la forme au bouclage.
+
+**Exercice pratique**
+
+- Relisez les passages autour du changement.
+- Confirmez les faits et les liens avec le partenaire.
+- Marquez les corrections de forme à reprendre au créneau suivant.
+
+L’équipe sait ce qui est terminé et ce qui demande encore un passage.
 
 ## À la place du portrait
 
 Chez elle, Maïwenn enlève le portrait du dossier de la maquette et prévient Sofiane de l’échange. Elle ne lui envoie pas les raisons de Rachid, qu’elle ne lui a pas demandées. À côté du tirage de la pince, elle place la nouvelle légende et laisse un commentaire pour Lou. Ensemble, elles relisent le début modifié et la phrase sur les chariots. Elles notent que les faits ont été vérifiés. À quinze heures trente vendredi, il restera à vérifier la forme de la nouvelle légende et le reste de l’épreuve.
+
+---
+
+**Conclusion**
+
+Maïwenn retire le portrait et garde la pince comme deuxième image. Avec Lou, elle vérifie le début et la phrase sur les chariots. Vendredi, elles pourront consacrer leur dernière passe à la forme, aux crédits et à l’encadré.

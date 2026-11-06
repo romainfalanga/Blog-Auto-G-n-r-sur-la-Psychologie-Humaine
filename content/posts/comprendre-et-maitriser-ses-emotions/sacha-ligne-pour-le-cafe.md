@@ -29,22 +29,83 @@ Ils parlent près de la bobine jusqu’à ce que la sonnette annonce une autre c
 
 Jeanne lui parle du prochain échange de graines. Elle est chargée de préparer des feuilles où chacun peut écrire quand il a semé et dans quel coin du quartier. Elle aimerait qu’il dise quelques mots à la table au début. Sacha regarde son carnet : sur le dessin de la table, le bord de la page a gondolé au café. Il sait ce qu’il pourrait raconter sur les haricots de monsieur Da Costa. Il a aussi envie de s’asseoir un jeudi avec Jeanne pour faire un plan des rues et mettre de la place pour les dates. Il lui demande de voir le modèle de feuille qu’elle a déjà préparé.
 
-## Une possibilité retrouvée peut prendre plusieurs formes
+## Choisir comment prendre part
 
-Vivre avec de l’anxiété sociale laisse une place aux préférences et aux décisions qui n’ont pas besoin d’être expliquées par la santé. Sacha a pu parler devant les visiteurs du magasin, avec Gaspard, de quelque chose qu’il souhaitait montrer. Il peut maintenant préférer dessiner une feuille à deux. Son choix a un contenu : relier les dates de semis à l’orientation des rues, pour que les gens du café puissent comparer leurs expériences. Reprendre de la liberté dans sa participation peut compter autant, pour lui, que prendre la parole dans un autre groupe.
+Le suivi de l’anxiété sociale peut aider une personne à retrouver des choix dans les situations que la peur restreint. Elle peut aussi continuer à préférer certains cadres, interlocuteurs ou rôles. Sacha a aimé expliquer le rempotage au magasin et souhaite préparer la carte des graines à deux. Il peut préciser ce qui l’intéresse cette fois et ce qu’il laisse à quelqu’un d’autre.
 
-Il garde aussi des difficultés qu’il veut continuer à travailler.
+## Comment reconnaître une participation qui correspond au choix de la personne ?
 
-## Comment cette difficulté se manifeste
+### Un sujet retrouve un fil dans un nouveau lieu
 
-Quand une cliente entre, Sacha perd une partie de sa question et attend avant de la reprendre. Au cabinet, il peut raconter comment il reprend le fil aujourd’hui et comment les choses se sont passées quand il s’est retrouvé à la table du café.
+La personne peut reprendre un échange qui avait été interrompu dans un autre contexte.
 
-## Garder une façon de reparler des difficultés
+**Exemples concrets**
 
-NICE décrit un travail de préparation à d’éventuelles difficultés futures dans les thérapies adaptées à l’anxiété sociale. Avec la docteure Rigal, Sacha peut revoir les situations où il commence à renoncer à des activités qu’il voudrait garder, et convenir de la façon dont il pourrait en parler si elles prennent de nouveau beaucoup de place. Il peut garder dans son carnet un exemple qui l’aide à expliquer ce qui se passe. Ce repère est pour lui et pour le suivi s’il le souhaite.
+- Jeanne vient chercher de la ficelle et Sacha peut revenir à leur discussion sur les courges.
+- Une personne reprend à deux la question qu’elle n’avait pas pu finir autour d’une table nombreuse.
 
-Avec Jeanne, il suffit de préciser une envie et une disponibilité. Elle peut proposer un jeudi où le café est calme ; Sacha peut dire ce qu’il compte dessiner et la laisser choisir le format avec lui. Ils peuvent prendre plaisir à préparer l’échange sans avoir à décider qui parlera devant tout le monde.
+### Le projet admet plusieurs contributions
+
+Préparer un document, présenter le projet ou accueillir les participants sont des choix distincts.
+
+**Exemples concrets**
+
+- Sacha veut dessiner les rues et laisser la présentation collective à quelqu’un d’autre.
+- Une personne prépare les photos d’une exposition et demande qu’un collègue ouvre la rencontre.
+
+### La préférence et la peur se décrivent dans le temps
+
+Une décision peut associer envie, limites et anxiété encore présente ; le suivi peut distinguer ces dimensions sur plusieurs exemples.
+
+**Exemples concrets**
+
+- Sacha propose jeudi à l’ouverture, un moment et un format qu’il a choisis.
+- Quelqu’un aime expliquer en duo et parle encore au praticien des occasions où il ne réussit pas à poser une question souhaitée.
+
+## 3 techniques pour choisir sa contribution sans la faire mesurer par le regard des autres
+
+### 1. Décrire l’activité qui vous attire
+
+Partir de votre intérêt dans un projet collectif.
+
+**Exercice pratique**
+
+- Nommez la partie qui vous donne envie de participer.
+- Demandez ce que les autres ont déjà préparé.
+- Proposez une étape concrète que vous aimeriez prendre en charge.
+
+Le projet commun peut s’organiser autour de contributions différentes.
+
+### 2. Refuser une partie précise
+
+Rendre une limite lisible sans renoncer au reste.
+
+**Exercice pratique**
+
+- Dites clairement quelle tâche vous ne prenez pas cette fois.
+- Confirmez ce que vous proposez de faire.
+- Laissez l’équipe organiser l’autre rôle avec une personne disponible.
+
+Les attentes deviennent claires pour tout le monde et votre accord reste limité à ce que vous avez choisi.
+
+### 3. Revenir aux choix retrouvés en suivi
+
+Examiner ce qui s’ouvre et ce qui reste difficile.
+
+**Exercice pratique**
+
+- Décrivez une situation où vous avez pu choisir un rôle.
+- Donnez un exemple où la peur continue à réduire votre liberté.
+- Ajustez avec le praticien l’objectif qui compte maintenant.
+
+Le suivi garde sa place sans confondre préférence personnelle et obstacle à travailler.
 
 ## Deux places le jeudi
 
 Jeanne déplie sa feuille. Dans la colonne « où ? », quelqu’un a déjà écrit « chez moi ». Sacha rit et trace sur le brouillon la courbe de la rue du terminus. Il lui propose de reprendre la carte ensemble jeudi matin, à l’ouverture du café. « Pour parler à toute la table, je te laisse demander à quelqu’un d’autre cette fois. » Jeanne lui dit qu’elle n’avait pas encore regardé les horaires et vérifie le jeudi avec lui. Sacha glisse le sachet entre deux pages de son carnet. La fiche de rempotage est un peu de travers sur le comptoir. Il la remet droite pour la personne suivante.
+
+---
+
+**Conclusion**
+
+Le croquis retourne au café avec une date et une place pour deux. La fiche de rempotage reste au comptoir. Sacha a choisi ces deux façons de transmettre et pourra décider autrement quand une autre question se présentera.

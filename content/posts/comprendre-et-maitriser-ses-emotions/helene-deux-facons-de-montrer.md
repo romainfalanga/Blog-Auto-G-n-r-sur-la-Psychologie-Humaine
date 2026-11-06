@@ -29,22 +29,83 @@ Maud lui a donné une demi-heure à l’établi. Le bac à papier du premier tir
 
 Sur chaque version, elle veut le mot « Tasses » et une flèche. Le premier essai aura lieu le samedi, quand les gens viennent avec une liste ou un panier pour les courses du marché. Hélène demande à Dario de noter les questions qu’il entend depuis la caisse. Elle veut voir où les gens regardent, et pas seulement savoir s’ils trouvent le rayon joli. Dario lui dit que, dès que la file arrive au portant des manteaux, il ne pourra plus écrire.
 
-## Faire apparaître le lien entre l’écran et le carton
+## Un appui peut viser une seule étape
 
-Un support sert quand il donne accès à l’information dont la personne a besoin pour agir. L’étiquette du papier et le nom affiché par l’imprimante ne se correspondent pas à première vue. Pour Hélène, découvrir ce lien alors qu’il ne reste qu’une demi-heure rend la tâche plus difficile. Son besoin d’aide concerne cette étape : retrouver la ligne et pouvoir s’en servir ensuite.
+Dans le trouble du développement intellectuel, un apprentissage peut être facilité par une aide ajustée à l’étape qui pose problème. Une personne peut maîtriser le but d’une tâche et avoir besoin d’un lien plus explicite entre deux supports. Hélène sait ce qu’elle veut imprimer. Il lui manque la correspondance entre le nom du papier dans le menu et celui du paquet.
 
-La HAS invite à examiner, lorsqu’une difficulté apparaît, le matériel, la consigne et les conditions de réalisation.
+## Comment une aide ciblée se distingue-t-elle d’une prise en charge de toute la tâche ?
 
-## Comment cette difficulté se manifeste
+### La difficulté est située
 
-Montrer la bonne ligne donne ici une information vérifiable que Hélène peut réutiliser. Elle sait déjà comment disposer le texte et le dessin sur la page. L’OMS décrit des profils et des besoins de soutien variables dans le TDI ; une étape qui demande un appui ne renseigne pas, à elle seule, sur l’ensemble du travail de la personne.
+Observer la première étape qui bloque permet de proposer une réponse plus précise.
 
-## Décider ce que le test peut apprendre
+**Exemples concrets**
 
-La signalétique est le projet d’Hélène. Le premier essai lui permettra de voir si une photo avec un mot et une flèche aide des clients à s’orienter dans ce rayon. Elle peut décrire ce qu’elle voit à Dario : une personne a tourné trop tôt, quelqu’un a cherché le prix, un client a demandé les bols. Ce sont des observations sur les panneaux et le magasin. Une matinée ne permet pas de départager toutes les raisons qui conduisent les gens à s’arrêter.
+- Hélène a choisi la flèche et l’image ; le premier tirage sort trop petit.
+- Une personne sait préparer les étiquettes et demande seulement de retrouver le réglage correspondant à leur format.
 
-Pour respecter la disponibilité annoncée par Dario, Hélène propose deux petites périodes d’observation et une seule question pour les clients qui ont le temps. Elle gardera le dessin de côté jusqu’au deuxième essai. Si elle change aussi l’emplacement ou la flèche, elle notera ces changements : elle saura alors ce qu’elle a modifié sans attribuer tout le résultat à l’image.
+### Une démonstration peut laisser les commandes à la personne
+
+Montrer le lien utile permet de reprendre l’action sans déplacer toute la responsabilité.
+
+**Exemples concrets**
+
+- Dario montre à Hélène la ligne du menu qui correspond à son paquet.
+- Une collègue montre où lire le numéro de la pièce puis laisse la personne entrer la référence.
+
+### La trace peut servir à l’essai suivant
+
+Ajouter un repère là où la difficulté s’est présentée rend l’information plus facile à retrouver.
+
+**Exemples concrets**
+
+- Hélène inscrit sur le carton le nom qu’elle verra dans le menu.
+- Quelqu’un place une étiquette près d’un bac pour retrouver le nom employé dans la liste de commandes.
+
+## 3 techniques pour construire une aide limitée à ce qui bloque
+
+### 1. Préciser l’étape utile
+
+Savoir ce que le collègue peut montrer sans faire le reste.
+
+**Exercice pratique**
+
+- Dites ce que vous voulez obtenir.
+- Montrez l’endroit où vous ne savez plus quel choix faire.
+- Demandez une explication limitée à ce point.
+
+Le collègue peut apporter une information précise et vous laisser poursuivre.
+
+### 2. Relier les deux supports
+
+Retrouver une correspondance entre un objet et son nom de travail.
+
+**Exercice pratique**
+
+- Placez le paquet ou la pièce à côté du menu ou de la fiche.
+- Identifiez ensemble les deux termes.
+- Notez celui qui sera utile la prochaine fois.
+
+La correspondance reste visible une fois l’aide terminée.
+
+### 3. Reprendre et vérifier sur un résultat
+
+Voir si l’aide permet de continuer la tâche choisie.
+
+**Exercice pratique**
+
+- Réalisez l’étape suivante vous-même si vous le souhaitez.
+- Vérifiez si le résultat correspond à ce que vous cherchiez.
+- Dites à l’équipe ce qui doit rester disponible ou être adapté.
+
+La vérification porte sur le résultat du travail et sur l’utilité de l’appui.
 
 ## Le rouleau reste près du dessin
 
 Hélène écrit au dos des panneaux le jour prévu et le nom de chaque version. Elle met la photo au-dessus, sous un carton, pour éviter qu’elle ne se courbe. Le dessin reste sur l’établi à côté du rouleau de ruban. En passant à la caisse, elle demande à Dario de lui dire s’il ne peut plus observer samedi. Elle peut voir où regarder depuis le bout de l’allée. Avant de rentrer, elle photographie l’autre côté de la tasse, parce qu’elle se demande encore si l’éclair a pris toute la place.
+
+---
+
+**Conclusion**
+
+Hélène prépare ses deux versions après avoir résolu une question de papier. Le nom sur le carton pourra resservir ; le samedi, elle observera ce que les clients comprennent du panneau lui-même.

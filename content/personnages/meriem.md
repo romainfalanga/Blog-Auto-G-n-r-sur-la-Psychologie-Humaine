@@ -31,74 +31,74 @@ reading_topics:
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-chutes/">Reviviscence traumatique quand une voix d’autrefois couvre la conversation</a></h3>
-    <p class="parcours-resume">Une question sur les patrons prend soudain pour Meriem le ton d’une voix ancienne. Elle se sent prise dans la même urgence qu’autrefois. Dans le trouble de stress post-traumatique complexe, la reviviscence appartient au noyau du TSPT. Le récit montre comment le passé semble revenir dans le présent, à travers la peur et les sensations, même sans image précise.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-chutes/">Reviviscence traumatique quand une voix ancienne couvre la conversation</a></h3>
+    <p class="parcours-resume">Une question sur les patrons prend soudain pour Meriem le ton d’une voix ancienne. Elle se sent prise dans la même urgence qu’autrefois. Dans le trouble de stress post-traumatique complexe, la reviviscence appartient au noyau commun avec le TSPT. Le passé semble revenir dans le présent, à travers la peur et les sensations, même sans image précise.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-chutes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-carre-de-controle/">Dévalorisation persistante quand Meriem prend une erreur pour un jugement sur elle</a></h3>
-    <p class="parcours-resume">Un patron imprimé trop petit laisse Meriem en proie à une honte qui dure après qu’elle a trouvé la correction. Dans le TSPT complexe, une dévalorisation persistante liée au trauma peut donner à un incident corrigeable un poids qui déborde largement la tâche. Meriem continue à penser qu’elle n’aurait jamais dû lancer l’échange alors qu’elle sait maintenant comment refaire le tirage.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-carre-de-controle/">Dévalorisation persistante quand une erreur devient un jugement sur soi</a></h3>
+    <p class="parcours-resume">Un patron imprimé trop petit laisse Meriem en proie à une honte qui dure après qu’elle a trouvé la correction. Dans le TSPT complexe, une dévalorisation persistante liée au traumatisme peut donner à une erreur un poids qui déborde largement la tâche. Meriem pense qu’elle n’aurait jamais dû lancer l’échange alors qu’elle sait comment refaire le tirage.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-carre-de-controle/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-vingt-minutes/">Désirer un lien et redouter la proximité quand Chloé propose un café</a></h3>
-    <p class="parcours-resume">L’invitation de Chloé fait plaisir à Meriem et lui donne en même temps envie de ne plus revenir le jeudi. Dans le TSPT complexe, se sentir proche ou maintenir un lien peut rester difficile alors que la relation compte. Le café avant le bus illustre un choix à sa portée, au milieu d’une tension entre l’envie de lien et la crainte de ce qu’il demande.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-vingt-minutes/">La difficulté à se sentir proche quand une invitation change le lien</a></h3>
+    <p class="parcours-resume">L’invitation de Chloé fait plaisir à Meriem et lui donne en même temps envie de ne plus revenir le jeudi. Dans le TSPT complexe, le rapprochement peut être difficile alors même qu’un lien compte. Le café avant le bus lui laisse le temps d’une rencontre qu’elle désire, sans que ce choix décide de la suite de leur relation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-vingt-minutes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-salle-fermee/">L’évitement des rappels quand Meriem coupe un message et repousse l’appel</a></h3>
-    <p class="parcours-resume">En écoutant le message d’Ève, Meriem attend soudain une autre voix. Elle l’interrompt pour se soustraire à cette impression et perd l’occasion de décider de la suite avec Ève. L’évitement des rappels fait partie du noyau du TSPT complexe. Le récit distingue son effet sur la décision du problème réel qui a fait fermer la salle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-salle-fermee/">L’évitement des rappels traumatiques quand un message reste inachevé</a></h3>
+    <p class="parcours-resume">En écoutant le message d’Ève, Meriem attend soudain une autre voix. Elle interrompt l’écoute pour se soustraire à cette impression et perd l’occasion de décider avec Ève. L’évitement des rappels fait partie du noyau commun au TSPT et au TSPT complexe. Le délai et la fermeture réelle de la salle posent chacun leur problème.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-salle-fermee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-colonne-des-nuits/">Fatigue et concentration dans le suivi du stress post-traumatique complexe</a></h3>
-    <p class="parcours-resume">Meriem note ses réveils et le nombre de fois où elle doit relire la même phrase. Cette fatigue compte dans sa vie, quelle qu’en soit la cause. Quand un TSPT complexe est connu, une consultation peut examiner le sommeil et d’autres difficultés en s’appuyant sur des effets concrets. Meriem choisit ce qu’elle veut montrer à son médecin.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-colonne-des-nuits/">Fatigue et concentration quand le sommeil se fragmente</a></h3>
+    <p class="parcours-resume">Meriem note ses réveils et le nombre de fois où elle doit relire la même phrase. La fatigue la gêne dans des tâches qu’elle connaît bien. Même avec un TSPT complexe déjà diagnostiqué, le sommeil et ses conséquences méritent une évaluation à part entière. Les exemples qu’elle apporte à son médecin lui donnent de quoi commencer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-colonne-des-nuits/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-lignes-pour-le-bulletin/">La honte anticipée quand une question personnelle s’invite dans le bulletin</a></h3>
-    <p class="parcours-resume">En préparant le bulletin, Meriem commence à chercher une excuse avant même d’avoir posé sa limite. La honte et la difficulté à faire confiance peuvent alourdir le partage d’informations dans un TSPT complexe. Ce coût s’ajoute à un choix ordinaire que chacun peut faire. Meriem choisit ce qu’elle veut dire de son travail et les conditions de publication.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-lignes-pour-le-bulletin/">La honte anticipée quand le bulletin demande une phrase personnelle</a></h3>
+    <p class="parcours-resume">En préparant le bulletin, Meriem imagine déjà qu’on va lui reprocher ce qu’elle souhaite garder privé. La honte liée au traumatisme peut s’inviter ainsi dans un TSPT complexe, avant la réaction de l’autre. Meriem se tourne vers ce qu’elle souhaite réellement dire et demande à relire la citation dans le bulletin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-trois-lignes-pour-le-bulletin/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-appareil-dans-le-sac/">Alerte corporelle quand Rémi continue à poser une question écartée</a></h3>
-    <p class="parcours-resume">Rémi insiste après un refus. Meriem serre le tissu et sent la chaleur lui monter jusqu’au cou. Dans le TSPT complexe, une impression ancienne d’être coincée peut rendre cette émotion difficile à traverser. La demande répétée pose aussi un problème immédiat. Meriem peut arrêter la rencontre et chercher un appui à partir de ce qui vient de se passer.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-appareil-dans-le-sac/">Le sentiment de menace qui dure après une visite interrompue</a></h3>
+    <p class="parcours-resume">Rémi revient sur une question écartée et Meriem demande à faire arrêter la visite. À l’accueil, elle continue à guetter ses pas après l’avoir vu partir. Dans le TSPT complexe, le sentiment de menace peut persister alors que les circonstances ont changé. La scène montre aussi le rôle de Dalila pour faire respecter une limite réellement franchie.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-appareil-dans-le-sac/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-enveloppes-en-attente/">Quand la honte persiste et pousse Meriem à quitter la préparation</a></h3>
-    <p class="parcours-resume">Meriem sait que Rémi ne reviendra pas. En se rappelant sa propre voix, elle se juge si sévèrement qu’elle manque un jeudi et pense abandonner son rôle. Le TSPT complexe peut comporter un rapport à soi douloureux qui persiste après l’événement immédiat. L’épisode donne à voir le retrait qui en découle et ce qui permet de retrouver une place à son rythme.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-enveloppes-en-attente/">Le retrait après la honte quand revenir à l’atelier devient difficile</a></h3>
+    <p class="parcours-resume">Meriem sait que Rémi ne reviendra pas. Elle se juge encore si sévèrement d’avoir demandé de l’aide qu’elle manque un jeudi et pense céder son rôle. Dans le TSPT complexe, le regard porté sur soi peut rester douloureux après l’événement et peser sur la participation à une activité que l’on souhaite pourtant poursuivre.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-enveloppes-en-attente/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-rendez-vous-du-mardi/">L’alliance thérapeutique quand Meriem redoute de poser une question difficile</a></h3>
-    <p class="parcours-resume">Meriem s’apprête souvent à quitter le cabinet au moment où elle aurait enfin une question sur la séance. Dans le suivi d’un TSPT complexe, du temps pour construire la confiance et un rythme praticable peuvent aider à aborder des difficultés qu’on n’a pas encore dites. Meriem demande à sa thérapeute comment aménager leurs rendez-vous pour y faire une place.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-rendez-vous-du-mardi/">L’appréhension en séance quand une question reste pour la fin</a></h3>
+    <p class="parcours-resume">Meriem quitte souvent le cabinet sans avoir posé la question qui lui reste sur la séance. Dans le suivi d’un TSPT complexe, l’appréhension et le manque de temps peuvent rendre plus difficile le fait de parler de ce qui gêne. Meriem demande à sa thérapeute comment ménager un moment pour discuter du rythme et choisir ce qu’elles vont aborder.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-rendez-vous-du-mardi/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-marge-comprise/">Régulation émotionnelle quand une question de couture sonne comme un reproche</a></h3>
-    <p class="parcours-resume">Meriem comprend que Joël parle d’un trait de couture, mais son corps et ses émotions restent mobilisés par le reproche qu’elle a cru entendre. Des difficultés durables de régulation émotionnelle font partie du TSPT complexe. Dans la scène, un relais bref lui donne le temps de retrouver la question, de préciser la copie et de reprendre l’échange.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-marge-comprise/">Quand l’émotion tarde à retomber après une question de couture</a></h3>
+    <p class="parcours-resume">Meriem comprend que Joël parle d’un trait de couture, mais l’agacement et la honte persistent après le reproche qu’elle a cru entendre. Les difficultés de régulation émotionnelle font partie du TSPT complexe. Un bref relais lui permet de retrouver la question et de reprendre l’échange, alors même que l’émotion n’a pas fini de retomber.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-marge-comprise/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-chemise-bleue/">Anticiper une rupture après un désaccord quand le lien avec Joël compte</a></h3>
-    <p class="parcours-resume">Quand une photo circule au-delà de l’accord, Meriem s’attend à perdre le lien avec Joël. Les difficultés relationnelles qui peuvent durer dans le TSPT complexe donnent un contexte à son envie de se retirer avant de lui avoir parlé. La diffusion de la photo demande aussi une réponse concrète. La scène montre comment expliquer le problème et redonner à l’autre sa part de décision.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-chemise-bleue/">Anticiper une rupture avant de parler d’un désaccord</a></h3>
+    <p class="parcours-resume">Une photo a circulé au-delà de l’accord et Meriem s’attend déjà à perdre le lien avec Joël. Dans le TSPT complexe, la difficulté à garder les liens peut durer, y compris quand une relation compte. Le désaccord appelle une réponse concrète, et seul Joël peut dire ce qu’il souhaite pour le chapeau après avoir reçu les faits.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-chemise-bleue/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-un-nom-et-une-date/">Poursuivre une activité qui compte malgré le retentissement du trauma</a></h3>
-    <p class="parcours-resume">Une chaise racle le sol à l’ouverture et Meriem prend le feutre avec la main encore tremblante. Dans le TSPT complexe, une activité retrouvée peut demander un effort durable. Son échange de patrons avance alors que certaines réactions lui coûtent toujours. Retrouver une place dans le projet et parler de cet effort au suivi sont deux évolutions qui peuvent coexister.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-un-nom-et-une-date/">L’effort invisible pour tenir une activité qui compte</a></h3>
+    <p class="parcours-resume">À l’ouverture de l’échange, une chaise racle le sol et Meriem prend le feutre avec la main encore tremblante. Dans le TSPT complexe, continuer une activité qui compte peut demander un effort important. Meriem prépare sa place, s’appuie sur le relais prévu et peut parler de ce qui lui coûte en suivi, même si la matinée se passe bien.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/meriem-un-nom-et-une-date/" class="parcours-link">Lire</a>
   </div>
 </div>

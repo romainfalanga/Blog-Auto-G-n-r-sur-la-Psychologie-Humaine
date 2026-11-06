@@ -30,16 +30,81 @@ Mireille est venue reprendre un bac vide. Elle lui demande si elle veut qu’ell
 
 ## Retrouver une compétence à la fois
 
-Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement. Le suivi de Diane prend en compte la place que son travail occupe pour elle, ainsi que les difficultés qu’elle peut encore rencontrer en revenant. Mireille et elle ont fixé une première tâche et un horaire.
+Après un arrêt lié à un épisode psychotique, la pression de prouver qu’on peut tout reprendre peut pousser à dépasser ce qui a été prévu. Cette pression n’indique pas à elle seule un changement clinique. Elle peut compliquer la reprise en faisant de chaque tâche une épreuve. Diane veut revoir une lectrice qu’elle apprécie et redoute de paraître moins capable si Malik s’en occupe. Le créneau en réserve lui permet de retrouver une tâche qu’elle connaît.
 
-## Comment cette difficulté se manifeste
+## Comment la pression de faire ses preuves agit-elle à la reprise du travail ?
 
-Dans la réserve, Diane se souvient de la cote et de l’emplacement du rayon. À l’accueil, il lui faudrait aussi suivre une conversation, répondre à une demande inattendue et peut-être enchaîner avec les personnes suivantes. Elle veut garder le créneau prévu avec Malik pour retrouver cela.
+### Une occasion prend valeur de test
 
-## Donner un renseignement depuis la réserve
+Une tâche ordinaire peut sembler devoir prouver qu’on tient encore son poste.
 
-Diane peut aider l’habituée avec la précision dont Malik a besoin. Le livre sera trouvé même si elle reste du côté de la réserve. Avec Mireille, elle peut ensuite reparler du créneau d’accueil : qui prend les demandes longues, et comment se dire qu’il est temps de changer de place. Elle a envie de revoir les lecteurs. Elle remarque aussi qu’elle perd parfois le fil quand plusieurs personnes parlent en même temps. En parler dans le suivi permettra de remettre la difficulté dans son contexte. Avec Mireille, elle peut décider d’un signal pratique pour l’accueil et choisir les détails qu’elle veut garder pour la consultation.
+**Exemples concrets**
+
+- Diane se sent tenue de répondre elle-même à l’habituée dès qu’elle reconnaît sa demande.
+- Une personne reprend une matinée de travail et se sent obligée de prendre aussi le premier rendez-vous imprévu.
+
+### Un relais ressemble à un échec
+
+Demander un appui peut paraître incompatible avec l’image qu’on voudrait donner.
+
+**Exemples concrets**
+
+- Diane a la main sur la poignée alors que Mireille propose de passer la cote à Malik.
+- Une collègue hésite à confier un appel qui n’était pas prévu dans son créneau de reprise.
+
+### On oublie la tâche qu’on s’était donnée
+
+Vouloir en faire davantage peut détourner l’attention de ce qu’on était revenu essayer.
+
+**Exemples concrets**
+
+- Diane retrouve le livre au ruban rouge après avoir pensé à rejoindre l’accueil.
+- Quelqu’un ouvre un deuxième dossier pour rassurer son équipe alors que le premier n’est pas terminé.
+
+## 3 techniques pour reprendre une tâche sans devoir tout prouver
+
+### 1. Se donner un résultat mesurable
+
+Évaluer une reprise à partir de l’accord prévu.
+
+**Exercice pratique**
+
+- Choisissez une tâche et un horaire avec la personne responsable.
+- Notez ce que vous souhaitez avoir fait avant de partir.
+- Indiquez ce qui reste en cours au lieu de prolonger automatiquement le créneau.
+
+Un résultat défini permet de voir ce qui fonctionne dans les conditions réelles.
+
+### 2. Contribuer par une information ciblée
+
+Mettre à profit ce que l’on sait sans reprendre tout le poste.
+
+**Exercice pratique**
+
+- Repérez l’information qui fera avancer le collègue.
+- Donnez-la brièvement, par exemple la cote et le rayon.
+- Laissez-le poursuivre l’échange pendant que vous revenez à votre tâche.
+
+La compétence reste utile alors que le relais tient.
+
+### 3. Préparer un relais pour la prochaine fois
+
+Anticiper une difficulté à enchaîner les sollicitations.
+
+**Exercice pratique**
+
+- Repérez le moment où vous auriez aimé pouvoir demander de l’aide.
+- Convenez du signal et de la personne disponible.
+- Discutez du retentissement avec l’équipe de soins si cette difficulté revient.
+
+L’ajustement de travail et le suivi peuvent chacun répondre à leur part du problème.
 
 ## Le bac que Mireille reprendra
 
 Diane entend l’habituée remercier Malik. Elle retrouve le livre au ruban rouge sur sa table et termine sa cote. Il lui reste neuf minutes au planning et quatre livres dans le bac. Elle en étiquette deux, laisse les autres sur le côté et indique à Mireille où elle en est. Pour le prochain créneau, elles conviennent que Malik reprendra la file si Diane lui dit qu’elle a besoin de sortir quelques minutes. Diane se rhabille sans déplacer le second bac. Dans la rue, elle pense à la lectrice et se rend compte qu’elle a hâte de savoir quelle carte elle est venue chercher.
+
+---
+
+**Conclusion**
+
+Diane fait avancer la recherche de la lectrice sans quitter la réserve. Elle finit ce qu’elle peut dans l’horaire prévu et signale les livres qui restent. La prochaine reprise peut s’appuyer sur ce résultat et sur un relais qu’elle a contribué à définir.

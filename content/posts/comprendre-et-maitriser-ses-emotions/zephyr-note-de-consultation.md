@@ -31,18 +31,81 @@ Sonia prend son crayon, puis lui demande ce qu’il voudrait faire de ces deux c
 
 ## Le détail qu’on aurait pu taire
 
-Une consultation peut commencer par une scène ordinaire où l’on voit ce qu’une difficulté change dans la vie. Le fromage manque au marché à la fin de la matinée. Ce qui compte pour Zéphyr, c’est d’y être allé trop tard à force de déplacer son départ. Il peut dire ce qu’il craignait et ce qu’il a fait, même s’il hésite encore sur les intentions des personnes qu’il évitait.
+La rumination consiste à revenir de façon répétée sur une scène ou une question qui reste ouverte. Lorsque la méfiance et les difficultés relationnelles se prolongent, comme cela peut arriver dans le trouble schizotypique, ce retour peut finir par déplacer des activités ordinaires. Zéphyr peut en parler à Sonia en prenant pour exemple l’heure du marché. Il n’a pas besoin de trancher ce que les autres ont pensé pour décrire les sorties qu’il a retardées.
 
-## Comment cette difficulté se manifeste
+## Comment la rumination après un échange prend-elle du temps sur la journée ?
 
-Son trouble schizotypique est connu depuis plusieurs années. La CIM-11 décrit un ensemble durable de difficultés qui peuvent toucher la manière de parler, d’interpréter ou de percevoir les choses, et les relations. Le professionnel tient compte de la souffrance, du retentissement et des autres explications possibles. Un diagnostic connu peut donner des mots à une partie de ce que Zéphyr traverse. Il laisse ouverte la question de savoir pourquoi un collègue a réagi de telle manière à une réunion.
+### Les mêmes mots reviennent
 
-## Préparer ce qu’on voudrait pouvoir faire
+Un détail paraît promettre une explication et ramène sans cesse au même échange.
 
-Zéphyr souhaite retrouver le marché à son heure habituelle ; au musée, il veut pouvoir terminer une présentation avant que le bureau discute de son projet. Ce sont deux objectifs distincts. Avec Sonia, il peut choisir lequel aborder d’abord et lui dire quand une suggestion lui paraît trop coûteuse ou mal adaptée. Un accompagnement psychologique peut s’appuyer sur des exemples concrets et travailler des façons de faire qui comptent dans les échanges. Il ne donne pas de réponse certaine sur ce que les autres pensent.
+**Exemples concrets**
 
-Pour la réunion, Zéphyr choisit de demander à recevoir les questions à l’avance quand c’est possible. Il peut le demander pour des raisons de travail, sans raconter le samedi du marché. Avec son service de soins, il peut aussi décider comment reprendre contact si ce qu’il vit change ou lui prend beaucoup plus de place dans la journée. Une décision ne tient pas lieu de l’autre.
+- Zéphyr reprend les phrases de Basile le dimanche.
+- Une remarque entendue en fin de réunion occupe de nouveau une personne au moment de préparer le dîner.
+
+### La suite se joue dans la tête
+
+Imaginer ce que d’autres vont raconter prolonge une conversation qui est déjà terminée.
+
+**Exemples concrets**
+
+- Zéphyr se demande plusieurs soirs si Loïc parlera de sa démonstration au café.
+- Après une présentation écourtée, quelqu’un consacre son trajet à imaginer ce que ses collègues se disent.
+
+### Une activité attend de pouvoir commencer
+
+Lorsque la réflexion se prolonge, elle peut prendre la place de quelque chose qui compte.
+
+**Exemples concrets**
+
+- Zéphyr repousse sa sortie et arrive trop tard pour le fromage.
+- Une personne réécrit mentalement sa réponse jusqu’à manquer le début d’une répétition.
+
+## 3 techniques pour retrouver une activité malgré une question ouverte
+
+### 1. Nommer le moment perdu
+
+Rendre visible ce que les pensées répétées changent concrètement.
+
+**Exercice pratique**
+
+- Repérez quand vous êtes revenu sur le même échange.
+- Rappelez-vous ce que vous aviez prévu à ce moment.
+- Notez si l’activité a commencé, attendu ou été annulée.
+
+Un exemple délimité donne un sujet à examiner sans reprendre toute la conversation.
+
+### 2. Préserver le prochain départ
+
+Garder une activité choisie quand la réponse ne dépend pas de vous.
+
+**Exercice pratique**
+
+- Choisissez une sortie que vous aimeriez faire.
+- Fixez un repère pour partir, par exemple l’heure du bus.
+- Si la question reste présente, gardez-la pour un moment défini où vous pourrez en parler.
+
+Le départ peut redevenir possible avant que toute incertitude soit levée.
+
+### 3. Apporter une scène au rendez-vous
+
+Parler de la répétition sans devoir expliquer toutes les intentions.
+
+**Exercice pratique**
+
+- Choisissez un jour dont vous vous souvenez.
+- Dites ce qui revenait et ce que vous avez manqué.
+- Convenez avec le professionnel du moyen de le joindre si la difficulté change.
+
+L’équipe dispose d’un exemple et vous savez où demander un avis si le retentissement augmente.
 
 ## Deux lignes sur deux papiers
 
 Sur la convocation, Zéphyr note le numéro du secrétariat que Sonia lui conseille d’appeler si une difficulté change et qu’il ne peut pas attendre leur prochaine séance. Ils conviennent de revenir sur les samedis du marché. Dans le bus, il sort un autre bout de papier, le pose sur la fiche de mécanique et y écrit le message qu’il enverra à Maud : « Tu peux me dire ce que le bureau va devoir trancher ? J’aimerais montrer la platine avant les questions. » Il recopie ces deux phrases sur son téléphone. Il laisse dans la poche le papier avec le numéro du centre.
+
+---
+
+**Conclusion**
+
+Zéphyr peut commencer avec une matinée de marché manquée. Sonia entend ainsi ce que prennent ces retours sur les échanges, au-delà de la question de savoir qui pensait quoi. Dans le bus, il trouve aussi une demande concrète à adresser à Maud.

@@ -1,5 +1,5 @@
 ---
-title: Ce que chacun a besoin de savoir
+title: Aide à l’atelier et choix de partager son diagnostic
 description: Lina écrit aux bénévoles au sujet de l’accueil. Gaëlle veut que la chaise
   et les relais figurent dans le plan sans y joindre son dossier médical.
 slug: gaelle-ce-qui-va-sur-le-plan
@@ -35,16 +35,81 @@ Gaëlle lit le message une seconde fois. Lina lui demande si elle s’est tromp�
 
 ## Ce que dit le diagnostic et ce qu’organise l’atelier
 
-Le diagnostic de trouble neurologique fonctionnel aide l’équipe de soins et Gaëlle à comprendre une partie de ses difficultés. Pour les bénévoles qui vont déplacer une chaise, les informations nécessaires sont différentes. Ils ont besoin de savoir où elle doit rester et comment laisser le passage libre. Gaëlle peut avoir envie de raconter davantage à quelqu’un et garder son choix pour une autre occasion. Une confidence faite à Lina a eu lieu dans leur relation. L’étendre à tout le groupe modifierait l’usage de cette information et le nombre de personnes qui la possèdent.
+Une aide se négocie à partir de la tâche qui devient difficile et de ce que la personne veut pouvoir continuer. Le diagnostic peut être utile au suivi du trouble neurologique fonctionnel sans être nécessaire à tous les aménagements. Lina connaît une partie de l’histoire de Gaëlle. Les autres bénévoles ont besoin de savoir où mettre la chaise, comment libérer le passage et qui reprend l’accueil. Gaëlle peut décider séparément de ce qu’elle veut raconter à chacun.
 
-## Quand on cherche sa place au milieu d’une tâche
+## Comment l’aide se négocie-t-elle sans partager tout le diagnostic ?
 
-Au poste d’accueil, Gaëlle veut pouvoir continuer une conversation assise. Si sa jambe devient moins fiable pendant un déplacement, elle veut que la personne à côté lui laisse dire quelle aide lui convient. En cas de pause, elle souhaite que le relais sache quel matériel remettre à un visiteur sans lui demander de se relever. Elle explique à Lina le moment où tout se complique pour elle, quand un plateau encombre le chemin et que quelqu’un veut prendre son bras avant qu’elle ait pu répondre. Lina comprend mieux la différence entre être disponible et agir à sa place.
+### Une confidence avait un destinataire
 
-## Écrire des consignes que chacun peut utiliser
+Dire quelque chose à une personne en privé ne décide pas de sa diffusion à un groupe.
 
-Elles rédigent ensemble une phrase sur les deux places et une autre sur le passage entre les tables. Gaëlle préfère convenir oralement, avec les personnes concernées, de l’aide qu’elle souhaite pendant les difficultés habituelles déjà discutées avec son équipe de soins. Lina demande ce qu’elle peut dire si un autre bénévole veut connaître le motif de la chaise. Elles s’entendent sur une réponse simple, l’accueil a besoin de deux postes et l’un des sièges doit rester disponible. Ce plan permet aussi à Lina de quitter la table à l’heure prévue pour préparer ses propres pièces.
+**Exemples concrets**
+
+- Gaëlle a parlé à Lina en revenant d’une séance.
+- Une bénévole raconte son examen à une amie et ne souhaite pas que le groupe reçoive ce détail dans un message.
+
+### Une consigne pratique répond à un autre besoin
+
+Décrire le matériel et les horaires peut suffire à organiser le travail.
+
+**Exemples concrets**
+
+- Le groupe a besoin de savoir où laisser le siège et quand prendre le relais.
+- Une équipe note qui rapproche les cartons sans indiquer pourquoi sa collègue ne peut pas tous les porter.
+
+### Le relais peut laisser une décision à la personne
+
+L’aide est plus précise quand la personne dit ce qu’elle veut garder dans l’activité.
+
+**Exemples concrets**
+
+- Gaëlle dessine deux places et garde le choix de présenter l’échantillon au premier groupe.
+- Une personne demande qu’on ouvre la salle tout en souhaitant accueillir elle-même les visiteurs.
+
+## 3 techniques pour convenir d’une aide qui respecte la confidentialité
+
+### 1. Relire les informations avant l’envoi
+
+Vérifier que chaque détail répond à un besoin de travail.
+
+**Exercice pratique**
+
+- Identifiez les destinataires du message.
+- Distinguez ce dont ils ont besoin et ce que vous voulez garder privé.
+- Relisez ensemble la version qui sera envoyée.
+
+Une confidence reste dans l’échange où elle a été faite si vous ne choisissez pas de l’étendre.
+
+### 2. Décrire le rôle de chacun
+
+Organiser une aide qu’on pourra utiliser sans explication médicale.
+
+**Exercice pratique**
+
+- Dessinez ou indiquez les places au poste de travail.
+- Convenez du geste ou du créneau à reprendre.
+- Précisez comment vous signalerez que vous souhaitez le relais.
+
+Le collègue peut répondre à la demande sans devoir deviner les besoins.
+
+### 3. Vérifier la disponibilité réelle
+
+Donner à l’aide une limite claire pour les deux personnes.
+
+**Exercice pratique**
+
+- Demandez combien de temps le collègue peut rester.
+- Prévoyez une autre personne si le créneau dépasse cet accord.
+- Reprenez le plan si la personne ou l’activité change.
+
+Le soutien reste une décision partagée et ne dépend pas d’une disponibilité supposée.
 
 ## Deux prénoms sur le brouillon
 
 Lina remplace la phrase sur le diagnostic par les horaires de relais. Gaëlle ajoute qu’elle voudrait que le premier groupe puisse toucher l’échantillon avant d’entendre parler de cuisson. Lina propose une variante avec un bol déjà cuit. Elles en choisissent un ensemble et découvrent qu’il porte une date vieille de sept ans. Le message part avec la photo du bol et un appel à réserver la deuxième place.
+
+---
+
+**Conclusion**
+
+Le message annonce les relais et montre le bol choisi par Gaëlle et Lina. Il aide les bénévoles à préparer l’accueil sans reprendre une confidence privée. Gaëlle peut conserver sa façon de présenter les empreintes et décider plus tard si elle souhaite expliquer davantage.

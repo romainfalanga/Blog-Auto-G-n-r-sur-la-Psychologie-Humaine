@@ -30,18 +30,81 @@ La sœur de Gasparde lui écrit qu’elle est arrivée au pont avec deux imperm�
 
 ## Tolérer l’incertitude pendant que quelqu’un d’autre prend le relais
 
-Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend. Gasparde voit le problème possible et sait qu’elle pourrait y consacrer son matin. Elle se souvient aussi de la répartition écrite au comité. Basile doit organiser les informations et prévenir Nathalie si la pluie rend l’essai impossible. Elle peut transmettre la question arrivée chez elle et s’appuyer sur cet accord, même si elle demeure inquiète.
+Déléguer implique de laisser une autre personne décider de certains gestes sans les suivre au fur et à mesure. Dans le trouble délirant, une préoccupation sur sa place peut rendre cette incertitude particulièrement coûteuse. Gasparde reçoit une question sur son téléphone personnel et se sent poussée à reprendre l’accueil. L’accord passé avec Basile et Nathalie lui donne un relais réel, même si elle craint encore ce qui pourrait lui échapper.
 
-## Comment cette difficulté se manifeste
+## Comment l’anxiété de déléguer se voit-elle pendant une absence ?
 
-La préoccupation de Gasparde peut se prolonger au-delà de l’incident qui l’a relancée. Le suivi tiendra compte du temps et de l’énergie qu’elle y consacre. Ce dimanche, son choix concerne une partie de sa journée. Elle veut rejoindre sa sœur. L’OMS recommande de discuter en suivi des activités et soutiens auxquels la personne tient, parmi les aspects concrets de son fonctionnement quotidien.
+### Un message semble rouvrir la permanence
 
-## Définir comment une information circule
+Une demande adressée par habitude peut donner l’impression que le relais ne tient pas.
 
-Un relais fonctionne mieux quand les personnes concernées savent où recevoir la décision. Ici, les adhérents peuvent appeler le numéro du club. L’affiche d’accueil peut donner ce même numéro et indiquer que le créneau dépend de l’état du terrain. Basile et Nathalie peuvent ensuite vérifier que les deux personnes attendues ont reçu le message de fermeture, si elle a lieu.
+**Exemples concrets**
 
-Gasparde peut apporter mardi un exemple de ce qui lui est arrivé et demander qu’on oriente mieux les questions vers le numéro commun. De son côté, Agnès peut faire passer l’information à sa sœur quand elle a une réponse. Les messages personnels et les heures de disponibilité se règlent à l’occasion du travail du club. La promenade de Gasparde avec sa sœur garde un autre rythme, avec le droit de prendre le temps de parler de ce qu’elles ont envie de se dire.
+- Le message d’Agnès fait revenir Gasparde dans la cuisine alors qu’elle a mis son manteau.
+- Une personne reçoit sur son numéro personnel une question que le secrétariat devait reprendre.
+
+### On envisage de rester l’intermédiaire
+
+On peut transmettre l’information tout en voulant contrôler chaque réponse par inquiétude.
+
+**Exemples concrets**
+
+- Gasparde pense à suivre les messages pendant la promenade.
+- Une bénévole envisage de demander au collègue de lui transférer les confirmations qu’il a accepté de gérer.
+
+### Le retour convenu suffit pour reprendre le fil
+
+Une information brève sur ce qui a été fait peut éviter d’avoir à suivre tout l’échange.
+
+**Exemples concrets**
+
+- Basile indique que l’essai est annulé et que les deux personnes ont été prévenues.
+- Une collègue informe à l’heure prévue que l’inscription est reportée et que le public le sait.
+
+## 3 techniques pour passer un relais sans rester de permanence
+
+### 1. Renvoyer la question vers le bon contact
+
+Éviter de redevenir l’unique point de passage.
+
+**Exercice pratique**
+
+- Indiquez à l’adhérent le numéro prévu.
+- Prévenez la personne de permanence qu’une question est arrivée.
+- Laissez-lui répondre selon l’accord pris.
+
+La demande reste suivie et le rôle de chacun devient plus lisible.
+
+### 2. Convenir d’un seul retour utile
+
+Savoir quand vous apprendrez le résultat.
+
+**Exercice pratique**
+
+- Définissez ce qui doit vous être transmis.
+- Choisissez un moment où le collègue peut le faire.
+- Gardez les détails d’organisation pour le prochain bilan.
+
+L’information reste disponible sans demander au collègue de rendre compte de chaque décision.
+
+### 3. Maintenir le projet personnel prévu
+
+Permettre au relais de libérer du temps réel.
+
+**Exercice pratique**
+
+- Dites à la personne qui vous attend quand vous partez.
+- Choisissez la durée ou le trajet qui vous convient aujourd’hui.
+- Revenez au résultat de la permanence au moment convenu.
+
+Le temps libéré peut être utilisé même si le sentiment d’incertitude persiste.
 
 ## L’eau sous le pont
 
 Au pont, sa sœur lui tend l’imperméable le plus long et lui demande si elle veut faire le grand tour. Gasparde accepte le petit. Vers le milieu de la matinée, elle consulte son téléphone. Basile lui a écrit que l’essai est annulé, que Nathalie a prévenu les deux personnes attendues et que le numéro du club donne la même information. Gasparde envoie un merci. Elle n’avait parlé que d’une heure avec sa sœur. Il leur reste un peu de temps avant de rentrer. Elle lui propose de descendre jusqu’à l’écluse, où l’eau de pluie a changé la couleur du canal.
+
+---
+
+**Conclusion**
+
+Gasparde n’a pas à annuler sa promenade pour que l’accueil soit pris en charge. Basile et Nathalie donnent la même information aux personnes attendues. Au pont, l’inquiétude a encore sa place, mais elle ne décide pas de tout le temps passé avec sa sœur.

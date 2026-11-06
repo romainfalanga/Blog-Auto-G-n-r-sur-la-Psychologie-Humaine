@@ -17,18 +17,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "La mémoire des informations récentes dans la maladie d’Alzheimer",
-          "text": "La maladie d’Alzheimer peut rendre plus difficile le fait de retenir une information récente ou de retrouver dans quelles circonstances on l’a apprise. Le changement s’installe en général progressivement et peut peser sur des activités aussi ordinaires qu’organiser un rendez-vous. Armand a reçu son diagnostic lors d’une évaluation antérieure. Les deux billets éclairent une difficulté qui se présente à lui ce matin. Ils ne permettent pas, à eux seuls, de dire ce qui cause les oublis de quelqu’un."
+          "heading": "L’heure qu’on ne sait plus d’où l’on tient",
+          "text": "La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu ; ce matin, l’enjeu est de vérifier l’heure qu’il utilisera."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Armand a encore des raisons très précises de vouloir donner le plan des canaux et garder la carte du pont. Son hésitation sur l’heure de jeudi ne tranche aucune de ces questions. Le guide de la Haute Autorité de santé invite à tenir compte du vécu de la personne, de ce qu’elle peut faire et de l’aide qui lui est utile dans la vie quotidienne. Pour Armand, aujourd’hui, le besoin porte sur l’heure du rendez-vous."
+          "heading": "Comment un renseignement récent peut-il échapper à Armand ?",
+          "points": [
+            {
+              "heading": "L’information a été entendue, puis se perd",
+              "text": "Avoir compris un renseignement sur le moment n’assure pas qu’il sera encore disponible quand on en aura besoin.",
+              "examples": [
+                "Une heure convenue le matin ne revient plus au moment de préparer la sortie.",
+                "Après avoir salué un visiteur qu’on vient de lui présenter, une personne peut chercher son prénom en voulant lui rendre son écharpe."
+              ]
+            },
+            {
+              "heading": "Le papier reste, la provenance manque",
+              "text": "Deux traces lisibles peuvent rester impossibles à départager si on ne se rappelle pas laquelle est arrivée en dernier.",
+              "examples": [
+                "Devant les billets de dix et onze heures, Armand reconnaît son écriture sans pouvoir dater la correction.",
+                "Deux notes affichées à la cuisine donnent des jours différents pour une livraison ; le souvenir de l’appel ne suffit plus à trancher."
+              ]
+            },
+            {
+              "heading": "Un souvenir ancien revient avec précision",
+              "text": "Les difficultés touchant le récent peuvent coexister avec un accès assez détaillé à des expériences plus anciennes.",
+              "examples": [
+                "Armand suit sur la carte le trait dessiné pour Jeanne quand elle apprenait à rouler à vélo.",
+                "Quelqu’un peut retrouver l’ancien nom d’une rue en lisant un plan et redemander à quelle heure commence la visite d’aujourd’hui."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un seul endroit pour retrouver l’heure",
-          "text": "Chercher le numéro, appeler et retenir la réponse sont trois choses distinctes. Armand souhaite parler lui-même à Nadia. Il peut demander à Jeanne de lui trouver le contact, puis garder près du téléphone une feuille où écrire l’heure qu’il entend. Une fois le rendez-vous confirmé, il choisit quel billet garder et ce qu’il fait de l’autre. Les billets peuvent servir de repères si l’information encore valable est facile à reconnaître.\n\nLe tri du don peut avancer séparément. Armand pense à trois destinations : garder, donner, revoir. Le dernier tas laisse aux cartes incertaines une place à part. Il peut examiner un petit ensemble et retrouver ses décisions la prochaine fois. Si l’écrit ne lui suffit plus ou si les rendez-vous manqués se multiplient, il pourra parler de ce besoin précis à son équipe de suivi et revoir l’appui avec elle."
+          "heading": "3 techniques pour garder une information récente à portée",
+          "points": [
+            {
+              "heading": "Vérifier à la source",
+              "objective": "S’assurer que le renseignement utilisé est bien le dernier.",
+              "exercise": [
+                "Relevez les deux indications qui se contredisent.",
+                "Contactez la personne qui fixe le rendez-vous.",
+                "Faites confirmer le jour, l’heure et le lieu ensemble."
+              ],
+              "benefit": "Un nouvel échange règle la question sans faire dépendre le départ du souvenir du premier appel."
+            },
+            {
+              "heading": "Choisir l’endroit de la prochaine action",
+              "objective": "Retrouver la bonne note au moment où elle sert.",
+              "exercise": [
+                "Choisissez un endroit où vous passez avant de sortir.",
+                "Placez-y le billet confirmé.",
+                "Retirez les versions périmées avec l’accord de la personne."
+              ],
+              "benefit": "Le repère soutient une action précise et évite de relancer la comparaison entre deux papiers."
+            },
+            {
+              "heading": "Distinguer l’aide et l’action",
+              "objective": "Garder la main sur une démarche même quand une étape coûte davantage.",
+              "exercise": [
+                "Repérez ce que vous voulez faire vous-même.",
+                "Demandez une aide limitée, comme trouver le numéro.",
+                "Dites à l’équipe de suivi si ces vérifications deviennent trop difficiles au quotidien."
+              ],
+              "benefit": "Il devient possible d’ajuster le soutien autour de ce qui pose problème, ici retrouver la bonne heure."
+            }
+          ]
         }
       ],
       "ending_title": "Jeudi, dix heures",
@@ -46,7 +102,8 @@
         "next": "Jeudi à dix heures, il veut présenter le plan des canaux à Nadia au foyer communal."
       },
       "clinical_focus": "Mémoire des informations récentes",
-      "clinical_intro": "Armand trouve deux billets portant des heures différentes pour le même rendez-vous. Il ne parvient plus à retrouver à quel moment l’horaire a changé. La maladie d’Alzheimer peut fragiliser la mémorisation d’informations récentes et de leur contexte. Il vérifie lui-même l’heure avant de choisir un seul emplacement pour conserver le renseignement dont il aura besoin."
+      "clinical_intro": "Armand trouve deux billets portant des heures différentes pour le même rendez-vous. Il ne parvient plus à retrouver à quel moment l’horaire a changé. La maladie d’Alzheimer peut fragiliser la mémorisation d’informations récentes et de leur contexte. Il vérifie lui-même l’heure avant de choisir un seul emplacement pour conserver le renseignement dont il aura besoin.",
+      "conclusion": "Les deux billets mettent en jeu le souvenir d’une information récente et de son ordre d’arrivée. Avec une seule heure au miroir, Armand sait quand partir et peut encore choisir quelle histoire racontera sa carte."
     },
     {
       "number": 2,
@@ -63,18 +120,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que la désorientation change dans un lieu familier",
-          "text": "Une activité familière peut devenir plus difficile quand les repères du lieu changent ou que plusieurs informations arrivent en même temps. Le parcours habituel d’Armand et le nom qu’il a en tête lui servent encore. Devant une entrée déplacée, le panneau lui demande d’associer une flèche, un service et un trajet dont il ne voit pas encore la fin. Au comptoir, les interruptions s’ajoutent à ce qu’il essaie de raconter. Ces difficultés sont concrètes même si, quelques minutes plus tard, la conversation se déroule mieux à une autre table."
+          "heading": "Quand le bâtiment familier change d’entrée",
+          "text": "La maladie d’Alzheimer peut compliquer l’orientation dans un lieu connu quand un repère habituel disparaît ou change de place. Reconnaître le bâtiment ne suffit pas toujours à déduire comment atteindre la bonne porte. Au foyer, Armand a besoin d’une indication reconnaissable depuis la rue, puis d’une place qui lui laisse voir comment il est entré."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La maladie d’Alzheimer évolue avec le temps, et ses effets diffèrent d’une personne à l’autre. Les aides peuvent donc se discuter à partir d’une activité et d’un lieu précis. L’aisance d’Armand dans la salle calme n’établit ni un retour durable de capacités perdues ni ce qu’il pourra faire dans un environnement différent. Elle montre qu’il peut présenter sa carte dans les conditions de cette rencontre."
+          "heading": "Comment la perte d’un repère familier se voit-elle sur un trajet ?",
+          "points": [
+            {
+              "heading": "L’habitude mène à une porte qui ne convient plus",
+              "text": "Un parcours appris peut rester disponible alors qu’une modification du lieu le rend moins utile.",
+              "examples": [
+                "Armand rejoint le côté du foyer qu’il connaît et doit chercher un autre accès.",
+                "Une personne prend le couloir familier pour aller au guichet et s’arrête devant l’ancien bureau fermé."
+              ]
+            },
+            {
+              "heading": "Un panneau laisse une étape à deviner",
+              "text": "Une flèche demande parfois de relier un nom, une direction et un détail qu’on ne voit pas encore.",
+              "examples": [
+                "Devant le foyer, il manque à Armand un signe qu’il puisse retrouver en arrivant de la rue.",
+                "Un panneau indique « accueil provisoire » ; au tournant suivant, deux portes identiques n’ont plus d’indication."
+              ]
+            },
+            {
+              "heading": "La position change ce qu’on peut retrouver",
+              "text": "Voir une entrée depuis sa place permet parfois de conserver un repère pour la suite de la visite.",
+              "examples": [
+                "Armand s’assied du côté de la grande table d’où il voit la porte verte.",
+                "Dans un hall aux couloirs semblables, une personne préfère attendre face au vestibule par lequel elle ressortira."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre l’arrivée plus simple",
-          "text": "Nadia peut donner à Armand un lieu qui se voit : « la porte verte dans la cour ». Ils peuvent décider qui vient à sa rencontre si cette entrée change encore. Une invitation qui nomme la bonne porte et la personne attendue a un usage plus clair qu’un plan général donné à l’avance. Armand peut choisir si un mot, une photo de la porte ou la présence de quelqu’un lui sert le mieux.\n\nPour le projet lui-même, Nadia peut proposer une table disponible à une heure calme. Elle peut demander à Armand s’il veut parler en ouvrant la carte ou commencer par convenir du prochain rendez-vous. Les recommandations du NICE demandent d’adapter la communication si nécessaire et de tenir compte des activités qui ont du sens pour la personne. Ici, l’enjeu est que l’ancien bibliothécaire puisse faire voir un quartier disparu. Nadia peut s’occuper des accès du foyer sans se charger de ses décisions de santé."
+          "heading": "3 techniques pour se repérer quand un accès change",
+          "points": [
+            {
+              "heading": "Repérer la porte depuis dehors",
+              "objective": "Reconnaître l’accès au moment d’arriver.",
+              "exercise": [
+                "Demandez quelle entrée est effectivement ouverte.",
+                "Choisissez un signe visible depuis votre direction d’arrivée.",
+                "Regardez avec la personne où il apparaît depuis la rue."
+              ],
+              "benefit": "Le signe écrit ou mémorisé correspond alors à quelque chose qu’on peut retrouver sur place."
+            },
+            {
+              "heading": "Rendre un détour lisible",
+              "objective": "Réduire le nombre de directions à déduire.",
+              "exercise": [
+                "Situez d’abord l’endroit où vous vous trouvez.",
+                "Demandez l’étape suivante à l’accueil ou à quelqu’un qui connaît les lieux.",
+                "Faites-vous montrer le tournant si une phrase seule ne suffit pas."
+              ],
+              "benefit": "Une indication donnée au bon endroit évite d’avoir à garder tout le plan en tête."
+            },
+            {
+              "heading": "Garder un point de retour",
+              "objective": "Pouvoir retrouver l’accès après s’être installé.",
+              "exercise": [
+                "Repérez depuis la salle la porte utilisée.",
+                "Choisissez une place qui permet de la voir si c’est possible.",
+                "Convenez d’un point d’accueil si un nouvel accès doit être utilisé."
+              ],
+              "benefit": "L’aménagement répond au lieu et peut être repris si le trajet change encore."
+            }
+          ]
         }
       ],
       "ending_title": "Côté cour",
@@ -93,7 +206,8 @@
         "next": "Il apporte une première sélection et découvre ce qu’il veut montrer de ses cartes annotées."
       },
       "clinical_focus": "Désorientation dans un lieu connu",
-      "clinical_intro": "Armand connaît le foyer et se retrouve pourtant du mauvais côté lorsque l’entrée change. La maladie d’Alzheimer peut compliquer l’orientation et l’utilisation de repères, surtout quand la disposition habituelle ne suffit plus. Armand cherche une indication qu’il peut reconnaître depuis la rue et choisit avec Nadia une place d’où il voit la porte."
+      "clinical_intro": "Armand connaît le foyer et se retrouve pourtant du mauvais côté lorsque l’entrée change. La maladie d’Alzheimer peut compliquer l’orientation et l’utilisation de repères, surtout quand la disposition habituelle ne suffit plus. Armand cherche une indication qu’il peut reconnaître depuis la rue et choisit avec Nadia une place d’où il voit la porte.",
+      "conclusion": "La porte verte prend son sens parce qu’Armand l’a regardée depuis la rue. Il conserve sa connaissance du foyer tout en ajoutant un nouveau repère. Lors d’un autre changement, il faudra peut-être demander une autre indication."
     },
     {
       "number": 3,
@@ -110,18 +224,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Soutenir la mémoire de travail pendant une décision",
-          "text": "Suivre plusieurs options peut demander davantage d’effort à une personne qui vit avec la maladie d’Alzheimer, surtout si les objets et les décisions se mélangent. Sur la table, Armand doit savoir de quelle carte ils parlent, distinguer présentation et don, puis envisager ce qui arrivera au papier. Le diagnostic ne donne pas la réponse à ces questions à sa place. Il peut dire ce qui lui importe quand il a la carte et les possibilités devant lui."
+          "heading": "Garder les options sous les yeux",
+          "text": "La maladie d’Alzheimer peut fragiliser la mémoire de travail, qui aide à garder des informations à l’esprit le temps de s’en servir. Dans une décision, une nouvelle précision peut faire perdre l’option dont on parlait jusque-là. En comparant la reproduction et l’original, Armand a besoin de voir à quelle face et à quel usage correspond chaque proposition. Ses préférences restent le point de départ."
         },
         {
           "role": "manifestations",
-          "heading": "Les cartes à montrer se confondent avec celles à laisser",
-          "text": "Quand les cartes se chevauchent sur la table, Armand ne sait plus lesquelles il a apportées pour les montrer et lesquelles il voulait laisser. Il se souvient pourtant très bien de ce qu’il veut faire de l’original du pont bas. Quand Nadia ramène la carte vers elle en parlant du premier lot, il pose deux doigts sur le papier et demande à le garder. L’incertitude porte sur le tri en cours et coexiste avec un choix précis pour cette carte."
+          "heading": "Comment une décision devient-elle difficile à suivre ?",
+          "points": [
+            {
+              "heading": "L’objet de la discussion change",
+              "text": "Quand plusieurs pièces se ressemblent, il faut retenir laquelle est concernée pendant qu’on en parle.",
+              "examples": [
+                "Au milieu des cinq cartes, la proposition de Nadia concerne les annotations du pont bas.",
+                "Devant trois photos retournées, une personne peut perdre le fil de celle dont on vient de discuter le cadrage."
+              ]
+            },
+            {
+              "heading": "Une seule question cache plusieurs conséquences",
+              "text": "Un mot comme « montrer » peut laisser en suspens le support, la durée et le public.",
+              "examples": [
+                "Armand distingue le don du papier et la présentation d’une reproduction.",
+                "Dans une association, accepter de prêter un carnet pour une réunion laisse encore à décider si quelqu’un pourra en garder une copie."
+              ]
+            },
+            {
+              "heading": "Un intérêt clair coexiste avec une hésitation",
+              "text": "La difficulté à tenir ensemble plusieurs options ne fait pas disparaître la raison de préférer l’une d’elles.",
+              "examples": [
+                "Armand veut garder la date écrite au verso, même s’il réfléchit encore à l’image à montrer.",
+                "Une personne tient à récupérer son album familial et demande à voir quelle page l’équipe souhaite exposer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place au provisoire",
-          "text": "Nadia a besoin de savoir sur quoi elle peut commencer à travailler. Elle peut inscrire les quatre cartes à examiner sur une feuille et écrire ailleurs « pont bas : original repris par Armand, reproduction à vérifier ». Il pourra relire ces deux lignes avec elle avant de remettre quoi que ce soit. L’inventaire provisoire indique leur point d’arrêt ; il laisse une place pour revenir sur une question encore ouverte.\n\nDans cet échange, Nadia peut expliquer ce qu’un visiteur gagnerait à voir le pont bas et entendre qu’Armand tient à feuilleter son original. Lui présenter seulement la place que l’image prendrait dans la vitrine laisse une décision trop large à déduire. En ouvrant les deux cartes et en précisant que le verso resterait privé, ils trouvent une proposition qui répond à leurs deux préoccupations. La possibilité de conserver simplement l’original reste ouverte si l’essai ne lui plaît pas.\n\nLe NICE recommande de favoriser l’expression de la personne dans les décisions sur ses soins et, lorsque c’est utile, d’adapter la façon de présenter les informations. Dans l’échange avec Nadia, le partage de l’image, le sort de l’original et le texte d’accompagnement peuvent aussi être traités séparément."
+          "heading": "3 techniques pour examiner une option à la fois",
+          "points": [
+            {
+              "heading": "Rapprocher l’objet et la question",
+              "objective": "Savoir immédiatement de quelle pièce on parle.",
+              "exercise": [
+                "Posez la carte concernée devant vous.",
+                "Écartez provisoirement les autres.",
+                "Dites en une phrase ce qui reste à décider pour celle-ci."
+              ],
+              "benefit": "La question reste rattachée à un objet visible pendant qu’on examine la réponse."
+            },
+            {
+              "heading": "Donner une place à chaque possibilité",
+              "objective": "Distinguer l’original, la copie et leur destination.",
+              "exercise": [
+                "Placez les deux supports côte à côte.",
+                "Indiquez sous chacun ce qui en serait fait.",
+                "Laissez le temps de comparer ou de remettre la décision à plus tard."
+              ],
+              "benefit": "Ce dispositif permet de revenir sur une option sans reconstruire toute la discussion de mémoire."
+            },
+            {
+              "heading": "Emporter une trace de l’accord provisoire",
+              "objective": "Retrouver plus tard ce qui est retenu et ce qui reste ouvert.",
+              "exercise": [
+                "Notez les conditions telles que la personne les formule.",
+                "Relisez ensemble le résultat devant les pièces.",
+                "Gardez une copie jusqu’à ce que la version définitive soit vérifiée."
+              ],
+              "benefit": "Les interlocuteurs repartent avec la même information et peuvent reprendre à l’étape utile."
+            }
+          ]
         }
       ],
       "ending_title": "Les annotations du verso",
@@ -139,7 +309,8 @@
         "next": "Il parlera en consultation d’une carte qu’il a du mal à retrouver après le rangement."
       },
       "clinical_focus": "Mémoire de travail et décision",
-      "clinical_intro": "Nadia demande à Armand si elle peut montrer les annotations de sa carte du pont bas. Il tient à garder l’original et doit examiner plusieurs possibilités à la fois. Mettre les options sous ses yeux l’aide à garder une trace de ce qu’il est en train de décider. Son hésitation sur la forme du don laisse intacte l’importance que la carte a pour lui."
+      "clinical_intro": "Nadia demande à Armand si elle peut montrer les annotations de sa carte du pont bas. Il tient à garder l’original et doit examiner plusieurs possibilités à la fois. Mettre les options sous ses yeux l’aide à garder une trace de ce qu’il est en train de décider. Son hésitation sur la forme du don laisse intacte l’importance que la carte a pour lui.",
+      "conclusion": "Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction ; la sortie de Jeanne reste une histoire qu’il racontera s’il en a envie."
     },
     {
       "number": 4,
@@ -156,18 +327,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Décrire une difficulté dans la vie qu’on mène",
-          "text": "Le suivi d’un trouble neurocognitif porte aussi sur les activités auxquelles la personne tient et sur ce qui a changé pour elle. Ranger une carte et reprendre un courrier administratif le lendemain sont deux tâches différentes. La médecin peut demander ce qui se passe à chaque étape, ce qu’Armand fait encore aisément et dans quelle situation il a demandé de l’aide. Cette conversation peut guider le choix d’un soutien plus concret qu’une remarque générale sur les oublis."
+          "heading": "Ce que les oublis changent dans une tâche",
+          "text": "Le suivi d’un trouble neurocognitif s’intéresse à ses conséquences concrètes dans les activités de tous les jours. Une tâche peut prendre davantage de temps, nécessiter un appui ou ne plus aboutir dans les conditions habituelles. Armand veut décrire ses recherches dans les placards. La médecin peut rapprocher ce récit du courrier évoqué par Jeanne et examiner où une aide aurait une utilité."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La Haute Autorité de santé recommande de recueillir le vécu de la personne et, avec son accord dans le cadre du suivi, le point de vue de l’entourage. Jeanne a remarqué un délai et Armand a passé une soirée à chercher le plan. Chacun dispose d’une information que l’autre n’a pas. Ils peuvent les apporter au rendez-vous sans devoir s’accorder d’avance sur leur interprétation. C’est l’équipe de soins qui examine ce qu’elles changent au suivi."
+          "heading": "Comment décrire le retentissement d’une difficulté de mémoire ?",
+          "points": [
+            {
+              "heading": "Une tâche prend un détour",
+              "text": "Le temps et les étapes supplémentaires comptent même si on finit par retrouver l’objet.",
+              "examples": [
+                "Armand ouvre plusieurs placards pour retrouver une carte rangée chez lui.",
+                "Une personne retrouve un document après avoir vidé deux tiroirs et n’a plus le temps de le déposer au guichet."
+              ]
+            },
+            {
+              "heading": "Les étapes ne demandent pas le même soutien",
+              "text": "Lire un courrier, retenir une échéance et reprendre la réponse le lendemain peuvent poser des difficultés différentes.",
+              "examples": [
+                "Jeanne a repéré la date de l’enveloppe ; Armand veut garder sa place dans la réponse.",
+                "Une personne peut écrire sa lettre une fois assise et avoir besoin qu’on l’aide à repérer le dossier où la ranger."
+              ]
+            },
+            {
+              "heading": "Deux récits éclairent deux conséquences",
+              "text": "La personne et le proche n’observent pas toujours les mêmes moments d’une activité.",
+              "examples": [
+                "Armand décrit ses recherches dans ses propres affaires ; Jeanne peut préciser quand une démarche est restée en attente.",
+                "Au suivi, quelqu’un dit combien d’efforts prend la préparation d’un rendez-vous tandis que son proche décrit les appels nécessaires pour le confirmer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux sujets, deux réponses possibles",
-          "text": "Armand peut demander que la médecin reprenne d’abord la difficulté qu’il a notée. Elle peut vérifier avec lui s’il lui serait utile d’avoir un endroit visible pour ce qui est en cours, avec un repère qu’il puisse lire depuis sa place à table. Une ergothérapeute peut, si l’équipe le propose, examiner avec lui comment les objets sont utilisés dans le logement et quelles adaptations il souhaite essayer. L’intérêt de l’essai se juge sur ce qu’il lui permet de faire au quotidien.\n\nLe courrier a sa propre échéance. Armand peut préciser ce qu’il accepte que Jeanne lise avec lui. Si un rendez-vous pour revoir l’organisation est proposé, la médecin peut lui en donner un résumé et le contact à utiliser si l’aide ne suffit pas. Jeanne peut dire ce qu’elle a déjà fait et jusqu’où elle peut s’engager. Une échéance urgente et un appui régulier ne demandent pas forcément les mêmes personnes."
+          "heading": "3 techniques pour préparer un suivi à partir du quotidien",
+          "points": [
+            {
+              "heading": "Reconstituer une seule tâche",
+              "objective": "Situer la difficulté dans une action concrète.",
+              "exercise": [
+                "Choisissez une recherche ou une démarche récente.",
+                "Dites ce que vous vouliez faire et à quelle étape il a fallu de l’aide.",
+                "Précisez ce qui a pu être fait malgré la difficulté."
+              ],
+              "benefit": "Le professionnel peut discuter d’un appui adapté à cette étape plutôt que d’une aide globale."
+            },
+            {
+              "heading": "Organiser les prises de parole",
+              "objective": "Faire entendre l’expérience de la personne et, si elle le souhaite, un complément du proche.",
+              "exercise": [
+                "Demandez quels exemples elle veut aborder.",
+                "Laissez-la commencer dans l’ordre qu’elle choisit.",
+                "Ajoutez avec son accord le fait concret qui manquait."
+              ],
+              "benefit": "La consultation recueille plusieurs informations sans que l’une efface l’autre."
+            },
+            {
+              "heading": "Choisir un essai à réexaminer",
+              "objective": "Vérifier l’utilité d’un soutien entre deux rendez-vous.",
+              "exercise": [
+                "Convenez d’une modification limitée pour les papiers en cours.",
+                "Identifiez avec l’équipe qui peut aider si le problème persiste.",
+                "Rapportez à la prochaine visite ce qui est plus simple et ce qui reste difficile."
+              ],
+              "benefit": "L’équipe peut réviser sa proposition à partir d’un essai vécu chez soi."
+            }
+          ]
         }
       ],
       "ending_title": "Le coin gauche du buffet",
@@ -185,7 +412,8 @@
         "next": "Après avoir répondu avec Jeanne au courrier de la mutuelle, il retrouvera Nadia pour préparer la présentation d’une reproduction."
       },
       "clinical_focus": "Retentissement cognitif dans la vie quotidienne",
-      "clinical_intro": "Armand veut parler de ce qui se passe lorsqu’il ouvre plusieurs placards pour retrouver ses papiers. Jeanne souhaite ajouter une inquiétude différente. Une consultation mémoire peut rapprocher ces récits pour comprendre le retentissement du trouble dans la vie quotidienne. Armand garde le premier mot sur les situations dont il veut discuter et sur l’aide qu’il souhaite examiner."
+      "clinical_intro": "Armand veut parler de ce qui se passe lorsqu’il ouvre plusieurs placards pour retrouver ses papiers. Jeanne souhaite ajouter une inquiétude différente. Une consultation mémoire peut rapprocher ces récits pour comprendre le retentissement du trouble dans la vie quotidienne. Armand garde le premier mot sur les situations dont il veut discuter et sur l’aide qu’il souhaite examiner.",
+      "conclusion": "Le coin gauche du buffet donne à Armand une façon d’essayer l’aide dont il vient de parler. La date sur l’enveloppe et la carte égarée restent deux informations différentes, utiles à une même consultation."
     },
     {
       "number": 5,
@@ -202,18 +430,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une difficulté à trouver le mot dans une conversation",
-          "text": "La maladie d’Alzheimer peut gêner la recherche de mots et la conduite d’une conversation, en plus des difficultés de mémoire. Dans une discussion où plusieurs personnes parlent, suivre les suggestions et garder la phrase en tête peuvent devenir deux tâches à la fois."
+          "heading": "Le mot manque, le trajet reste",
+          "text": "La recherche d’un mot peut devenir plus difficile avec la maladie d’Alzheimer. La personne peut savoir ce qu’elle veut désigner et avoir besoin de temps pour retrouver son nom. Des suggestions ou des questions simultanées ajoutent parfois une autre difficulté : garder en tête la phrase commencée. Armand retrouve une façon d’expliquer le passage en s’appuyant sur la carte et sur sa tournée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il est possible qu’Armand profite d’une indication sur la carte tout en continuant à chercher le mot qu’il avait en tête. Il peut aussi contourner le mot pour donner son explication autrement.\n\nL’aider à reprendre est différent de lui faire réciter ce dont il se souvient. Le guide de la Haute Autorité de santé invite à maintenir le dialogue malgré les difficultés de langage, et le NICE propose, si nécessaire, des modes de communication adaptés. Dans ce cas, la carte peut porter une partie de l’explication et les autres peuvent attendre qu’Armand dise comment il veut continuer."
+          "heading": "Comment le manque du mot s’entend-il dans un échange ?",
+          "points": [
+            {
+              "heading": "Une pause au milieu d’une idée",
+              "text": "Un arrêt peut survenir au moment de nommer un détail sans que tout le récit soit perdu.",
+              "examples": [
+                "Armand garde son doigt sur le trait et cherche encore le nom des anneaux.",
+                "En décrivant une ancienne boutique, une personne hésite sur le mot « devanture » tout en situant très bien l’entrée."
+              ]
+            },
+            {
+              "heading": "Les réponses proposées font perdre le tour",
+              "text": "Plusieurs interventions peuvent rendre plus difficile le retour à la phrase initiale.",
+              "examples": [
+                "Un visiteur demande si Nadia doit raconter ; Armand veut seulement qu’elle lui montre l’endroit.",
+                "À table, deux personnes proposent des mots en même temps et l’orateur demande où il s’était arrêté."
+              ]
+            },
+            {
+              "heading": "Une autre formulation garde le sens",
+              "text": "Une description ou un support peut transmettre l’idée quand le terme précis reste inaccessible.",
+              "examples": [
+                "Armand montre le passage par le chemin de la tournée du facteur.",
+                "Quelqu’un dit « la petite pièce qui retient le volet » et montre la ferrure qu’il voulait nommer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer un appui qui n’entre en jeu qu’au bon moment",
-          "text": "Armand et Nadia peuvent mettre au point un signal discret : s’il pointe la rive ou demande où ils en étaient, elle lui montre le trait convenu. Il peut préférer qu’elle lise une courte légende si le récit devient trop fatigant. Avec deux visiteurs, Nadia peut aussi annoncer qu’ils poseront leurs questions après l’explication. Cela laisse à Armand un début de récit à mener à son rythme et donne aux auditeurs une place précise.\n\nSi Armand accepte de participer à une présentation, il peut choisir d’en faire une démonstration autour de la carte et décider avec Nadia comment s’arrêter. Il n’a pas besoin d’attendre que chaque mot soit revenu pour dire quelque chose qu’il juge utile. Quand la difficulté se retrouve dans des échanges importants du quotidien, il peut en parler lors du suivi ; l’équipe peut l’aider à examiner les appuis qui lui conviennent."
+          "heading": "3 techniques pour poursuivre quand un mot tarde",
+          "points": [
+            {
+              "heading": "Donner du temps à la phrase",
+              "objective": "Laisser à la personne la possibilité de continuer à sa manière.",
+              "exercise": [
+                "Gardez l’attention sur ce qu’elle explique.",
+                "Attendez avant de proposer un mot.",
+                "Demandez si elle veut un indice ou du temps."
+              ],
+              "benefit": "Une pause peut suffire à préserver son tour de parole, même si le mot ne revient pas."
+            },
+            {
+              "heading": "Choisir un indice visible",
+              "objective": "Relier le détail cherché à quelque chose qui reste accessible.",
+              "exercise": [
+                "Convenez d’un geste pour demander un appui.",
+                "Montrez le point de la carte indiqué par ce geste.",
+                "Laissez l’orateur reprendre à partir de ce qu’il voit."
+              ],
+              "benefit": "L’aide visuelle accompagne l’idée sans remplacer la voix de la personne."
+            },
+            {
+              "heading": "Décrire le détail autrement",
+              "objective": "Transmettre ce qui compte malgré le manque d’un terme.",
+              "exercise": [
+                "Identifiez ce que le public doit comprendre.",
+                "Essayez une description, un trajet du doigt ou un dessin.",
+                "Faites redire le sens de la phrase si vous souhaitez le vérifier."
+              ],
+              "benefit": "Une formulation de rechange peut rendre l’explication utilisable tout de suite."
+            }
+          ]
         }
       ],
       "ending_title": "Le carré au bout du trait",
@@ -231,7 +515,8 @@
         "next": "Nadia soumet le cadrage repris et le projet d’annonce au foyer."
       },
       "clinical_focus": "Manque du mot dans la maladie d’Alzheimer",
-      "clinical_intro": "En préparant la légende du pont bas, Armand cherche un mot pendant que d’autres personnes suivent son explication. La maladie d’Alzheimer peut affecter la recherche des mots et rendre l’effort plus marqué lorsque plusieurs voix interviennent. Armand choisit un appui visuel à son signal et trouve aussi une autre manière de décrire le passage."
+      "clinical_intro": "En préparant la légende du pont bas, Armand cherche un mot pendant que d’autres personnes suivent son explication. La maladie d’Alzheimer peut affecter la recherche des mots et rendre l’effort plus marqué lorsque plusieurs voix interviennent. Armand choisit un appui visuel à son signal et trouve aussi une autre manière de décrire le passage.",
+      "conclusion": "Au foyer, le nom des anneaux reste introuvable et les visiteurs peuvent pourtant suivre le chemin. Armand définit l’aide qui lui convient, puis choisit une phrase qui garde l’essentiel de son explication."
     },
     {
       "number": 6,
@@ -248,18 +533,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce que la personne souhaite rendre public",
-          "text": "Accepter de participer à une activité publique peut laisser ouvertes plusieurs décisions sur les informations qu’on veut y partager. Armand accepte que son nom apparaisse avec le don. La photographie et le fait d’évoquer sa santé sont deux autres propositions. Il veut comprendre chacune et choisir sa réponse. Une formulation lisible, un exemple concret de l’affiche ou la possibilité de relire plus tard peuvent aider la personne à dire ce qu’elle souhaite."
+          "heading": "Un accord dont on peut voir les limites",
+          "text": "La compréhension d’une proposition de partage est souvent plus facile quand chaque information et chaque usage sont présentés séparément. Pour une personne qui vit avec Alzheimer, une affiche lisible et le temps de la revoir peuvent alléger l’effort de comparaison. Armand veut être nommé pour ses cartes. Il peut choisir autrement pour son portrait et pour les informations qui concernent sa santé."
         },
         {
           "role": "manifestations",
-          "heading": "Des choix distincts difficiles à suivre en même temps",
-          "text": "Armand suit du doigt le texte de l’affiche, recommence sa lecture et demande à Nadia de redire la proposition de la bénévole. Une mention sur la mémoire lui donnerait l’impression qu’on attend de lui des dates. Il reconnaît son nom et dit qu’il peut rester. Il choisit ensuite la reproduction du pont à la place du portrait. L’effort pour reprendre les propositions laisse place à des choix différents pour chaque élément."
+          "heading": "Comment distinguer les accords derrière une même annonce ?",
+          "points": [
+            {
+              "heading": "Le principe et le contenu",
+              "text": "Une personne peut vouloir participer et avoir des réserves sur le texte ou les images qui seront associés à sa participation.",
+              "examples": [
+                "Armand accepte que son nom figure avec le don et souhaite retirer d’autres informations.",
+                "Une lectrice accepte de venir présenter un livre et préfère que l’annonce ne mentionne pas son adresse."
+              ]
+            },
+            {
+              "heading": "La visibilité du support",
+              "text": "Voir la taille et l’emplacement d’un élément donne une idée plus concrète de ce qu’en saura le public.",
+              "examples": [
+                "Devant le panneau d’entrée, Armand voit la place proposée pour son portrait.",
+                "Une personne accepte de montrer une image au groupe et demande à revoir sa réponse lorsqu’elle découvre qu’elle est prévue en vitrine."
+              ]
+            },
+            {
+              "heading": "La réponse dépend de la version relue",
+              "text": "Un changement de texte ou de destinataire peut justifier une nouvelle vérification.",
+              "examples": [
+                "Nadia réimprime une affiche avec la carte du pont à la place du portrait.",
+                "Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication ; l’équipe vérifie à nouveau l’accord."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Relire le document qui sera affiché",
-          "text": "Armand et Nadia peuvent vérifier la version finale ensemble, à côté de la reproduction qu’il a approuvée. Il voit la taille du texte, la place du nom et l’image que les passants verront. Nadia peut lui présenter les éléments l’un après l’autre et reprendre une question s’il le demande. Une fois l’accord obtenu sur cette version, elle sait quoi transmettre à la personne qui imprime l’affiche.\n\nL’annonce peut aussi dire comment la rencontre se déroulera, de façon à laisser plusieurs manières de participer. On peut venir voir le plan pendant les heures d’ouverture et lire la légende même si Armand écourte sa présence. Le don reste un projet entre lui et la bibliothèque. Si une nouvelle proposition de photo ou de récit arrive après l’impression, ils pourront la traiter séparément. Le personnel du foyer peut tenir cette limite sans demander à Jeanne de surveiller ce qui se dit.\n\nDans le cadre des soins, le NICE recommande de demander à la personne quelles informations elle autorise à partager et avec qui. Au foyer, Nadia peut appliquer la même attention au choix d’Armand. L’accord sur son nom porte sur cette affiche. Elle peut répondre aux questions en s’en tenant à ce qui a été convenu pour la rencontre."
+          "heading": "3 techniques pour rendre un accord de partage compréhensible",
+          "points": [
+            {
+              "heading": "Détailler ce qui sera montré",
+              "objective": "Faire apparaître les choix derrière une demande globale.",
+              "exercise": [
+                "Nommez les éléments prévus, un par un.",
+                "Pour chacun, précisez où et à qui il sera visible.",
+                "Laissez à la personne le temps de demander une modification."
+              ],
+              "benefit": "Elle peut se prononcer sur chaque usage sans avoir à accepter l’ensemble."
+            },
+            {
+              "heading": "Comparer des versions concrètes",
+              "objective": "Relier une préférence à l’annonce qu’on verra réellement.",
+              "exercise": [
+                "Montrez le projet à l’endroit où il sera affiché si c’est possible.",
+                "Proposez de remplacer ou d’enlever l’élément qui pose question.",
+                "Relisez le nouveau résultat ensemble."
+              ],
+              "benefit": "La discussion porte sur des mots et des images visibles, plus faciles à reprendre."
+            },
+            {
+              "heading": "Garder la trace de la version choisie",
+              "objective": "Éviter que l’ancien projet circule par erreur.",
+              "exercise": [
+                "Identifiez la feuille que la personne a approuvée.",
+                "Rangez ou retirez les brouillons inutilisés.",
+                "Revenez vers elle si l’équipe veut élargir la diffusion."
+              ],
+              "benefit": "La trace écrite aide chacun à respecter le périmètre convenu."
+            }
+          ]
         }
       ],
       "ending_title": "À la place du portrait",
@@ -277,7 +618,8 @@
         "next": "Avant de fixer la date, Jeanne doit lui dire qu’elle ne pourra plus venir systématiquement les jeudis."
       },
       "clinical_focus": "Consentement et compréhension des options",
-      "clinical_intro": "Armand accepte de voir son nom sur l’affiche du don. La photo et les informations personnelles proposées demandent chacune un choix. Quand plusieurs éléments sont présentés ensemble, relire séparément ce qui sera rendu public soutient la compréhension et la décision. Armand formule la phrase qu’il souhaite voir associée à son nom et garde la main sur le reste."
+      "clinical_intro": "Armand accepte de voir son nom sur l’affiche du don. La photo et les informations personnelles proposées demandent chacune un choix. Quand plusieurs éléments sont présentés ensemble, relire séparément ce qui sera rendu public soutient la compréhension et la décision. Armand formule la phrase qu’il souhaite voir associée à son nom et garde la main sur le reste.",
+      "conclusion": "Sur l’affiche retenue, le pont a la place qu’Armand lui a choisie. Un accord peut être précis et partiel : cette version montre les cartes et indique son nom. Le rendez-vous pourra se fixer à part."
     },
     {
       "number": 7,
@@ -294,18 +636,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Les besoins du proche changent aussi",
-          "text": "Le soutien quotidien se construit à partir des besoins de la personne malade et du temps dont les proches disposent réellement. Jeanne a pris plusieurs tâches au fil des semaines. Pour certaines, personne ne sait encore comment prendre la suite quand elle termine plus tard. Dire ce qu’elle peut faire aide à repérer les démarches pour lesquelles il faut une autre solution. Elle peut aussi demander du soutien pour elle-même."
+          "heading": "Les tâches qui s’ajoutent au fil des visites",
+          "text": "L’aide familiale liée à la maladie d’Alzheimer peut demander un temps croissant, même lorsqu’elle s’est installée par petites touches. Ouvrir un courrier ensemble, se souvenir de l’étape suivante et maintenir les rendez-vous sont des engagements distincts. Jeanne veut continuer à déjeuner avec son père sans promettre tous ses jeudis. Savoir ce qu’elle ne pourra plus faire permet à Armand de demander un relais précis."
         },
         {
           "role": "manifestations",
-          "heading": "Les courriers qui s’ajoutent aux rendez-vous de Jeanne",
-          "text": "Armand ne retrouve plus la ligne à laquelle il devait répondre dans un courrier déjà ouvert. Jeanne se met à la chercher comme les autres semaines. Elle a repoussé deux fois un rendez-vous à elle et n’a qu’un quart d’heure ce soir. Elle aimerait retrouver du temps pour un déjeuner avec son père. Armand craint de perdre le fil des courriers déjà lus si leurs jeudis s’arrêtent."
+          "heading": "Comment la charge d’aide se voit-elle au fil des semaines ?",
+          "points": [
+            {
+              "heading": "L’aide dépasse le moment passé ensemble",
+              "text": "Une démarche peut demander des rappels et des vérifications entre deux visites.",
+              "examples": [
+                "Jeanne a repéré une échéance et doit encore trouver un moment pour reprendre la réponse.",
+                "Une sœur qui lit les courriers le dimanche doit aussi rappeler les bureaux en semaine quand ils sont ouverts."
+              ]
+            },
+            {
+              "heading": "La disponibilité change",
+              "text": "Une organisation informelle peut continuer de fonctionner sur le papier alors que les horaires du proche ont changé.",
+              "examples": [
+                "Les jeudis de Jeanne ne seront plus disponibles de façon régulière.",
+                "Un proche qui accompagnait aux rendez-vous peut changer d’horaires et perdre le créneau sur lequel tout le monde comptait."
+              ]
+            },
+            {
+              "heading": "Le lien familial risque de se réduire aux démarches",
+              "text": "Les affaires à traiter prennent parfois la place de ce que chacun attendait de la visite.",
+              "examples": [
+                "Le paquet de gâteaux reste fermé le temps de clarifier le courrier.",
+                "Deux personnes qui avaient prévu de regarder des photos passent la visite à réunir les pièces d’un dossier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un nom à chaque tâche",
-          "text": "Armand veut continuer à ouvrir son courrier. Pour les documents à plusieurs pages, il souhaite pouvoir demander de l’aide afin de comprendre ce qui appelle une réponse. Jeanne peut l’aider ce soir à retrouver un délai et convenir du moment où elle s’en va. Ils peuvent marquer la page ensemble et joindre le contact convenu en consultation. Si d’autres documents réclament une attention rapide, ils peuvent demander vers quel service s’orienter au lieu d’attendre la prochaine visite.\n\nLa bibliothèque et le courrier ont des interlocuteurs différents. Armand peut convenir directement avec Nadia de l’heure du don. Il peut aussi lui demander de garder la date ouverte le temps qu’il organise ses appuis à la maison. Jeanne peut réserver sa prochaine visite au déjeuner qu’elle souhaite partager. Une limite annoncée et un contact identifié rendent le relais plus concret pour tous les deux.\n\nLa Haute Autorité de santé et le NICE recommandent de prendre en compte les besoins des aidants et de leur proposer un soutien adapté. Jeanne peut demander à son médecin ou à l’équipe quelles ressources d’information, d’accompagnement ou de répit existent près de chez elle. Elle choisit l’aide qui lui serait utile, tandis qu’Armand discute de celle qu’il souhaite recevoir."
+          "heading": "3 techniques pour répartir l’aide sans perdre les moments partagés",
+          "points": [
+            {
+              "heading": "Nommer ce qui est effectivement fait",
+              "objective": "Voir les petites tâches jusque-là invisibles.",
+              "exercise": [
+                "Prenez une démarche récente.",
+                "Notez qui s’occupe de chaque étape, y compris des rappels.",
+                "Distinguez ce qui peut attendre de ce qui réclame un relais."
+              ],
+              "benefit": "Cette liste fait apparaître les besoins avant qu’une absence ne les rende urgents."
+            },
+            {
+              "heading": "Donner une limite et une date",
+              "objective": "Prévoir une organisation qui ne repose pas sur une disponibilité supposée.",
+              "exercise": [
+                "Dites à partir de quand votre horaire change.",
+                "Convenez de ce que vous pouvez encore faire ensemble.",
+                "Contactez avec la personne l’équipe qui peut proposer un relais pour le reste."
+              ],
+              "benefit": "Le relais s’organise autour d’un besoin défini, ici les papiers difficiles à reprendre."
+            },
+            {
+              "heading": "Demander du soutien pour le proche",
+              "objective": "Garder un espace où parler de ses propres besoins.",
+              "exercise": [
+                "Choisissez à qui demander conseil, par exemple l’équipe ou une plateforme de répit.",
+                "Précisez le type d’aide ou de temps qui vous serait utile.",
+                "Convenez d’un prochain contact sans attendre que toutes les tâches soient réglées."
+              ],
+              "benefit": "Le proche peut chercher un soutien pour lui-même en plus de celui prévu pour la personne qu’il aide."
+            }
+          ]
         }
       ],
       "ending_title": "Le paquet est ouvert",
@@ -323,7 +721,8 @@
         "next": "Mercredi, Armand montrera ce qu’il trouve et ce qu’il cherche encore au coin gauche du buffet."
       },
       "clinical_focus": "Charge de l’aidant familial",
-      "clinical_intro": "Jeanne veut continuer à voir son père et commence à manquer de temps pour gérer son courrier et ses rendez-vous. Dans la maladie d’Alzheimer, l’aide se compose souvent de petites tâches qui finissent par peser sur un proche. Armand et Jeanne nomment ce qui peut être repris par un relais et ce que chacun souhaite garder."
+      "clinical_intro": "Jeanne veut continuer à voir son père et commence à manquer de temps pour gérer son courrier et ses rendez-vous. Dans la maladie d’Alzheimer, l’aide se compose souvent de petites tâches qui finissent par peser sur un proche. Armand et Jeanne nomment ce qui peut être repris par un relais et ce que chacun souhaite garder.",
+      "conclusion": "Jeanne peut garder un moment avec Armand sans garder chaque jeudi. La demande d’ergothérapie concerne les papiers ; son propre contact de répit répond à une autre question. Ils finissent par ouvrir le paquet ensemble."
     },
     {
       "number": 8,
@@ -340,18 +739,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une aide se juge à l’usage",
-          "text": "Dans la maladie d’Alzheimer, une adaptation peut soutenir une activité précise et devoir être modifiée avec le temps. Le coin du buffet a aidé Armand à reprendre la chemise du pont bas. À mesure que des papiers s’y sont ajoutés, le même repère est devenu moins utile pour son courrier. Ce constat permet de chercher avec lui ce qui se perd dans le rangement : une feuille cachée, une différence peu visible ou l’étape où il faut s’en occuper.\n\nLa Haute Autorité de santé recommande d’évaluer régulièrement l’acceptabilité et l’utilité des interventions avec la personne et ceux qui l’accompagnent. Le NICE envisage notamment l’ergothérapie pour soutenir le fonctionnement quotidien chez certaines personnes vivant avec une démence légère à modérée."
+          "heading": "Un rangement se juge au moment où il sert",
+          "text": "Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand ; le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui."
         },
         {
           "role": "manifestations",
-          "heading": "Un courrier à reprendre se perd parmi les autres papiers",
-          "text": "Armand saisit sans hésiter la chemise qui dépasse du buffet. Pour retrouver un courrier reçu récemment, il doit sortir plusieurs feuilles qui se sont empilées dessus. Il se rappelle cette fois où se trouvent les horaires de la bibliothèque et peut les reprendre lui-même. Les deux situations montrent ce qui change selon la manière dont chaque papier reste visible ou se mêle aux autres."
+          "heading": "Comment voit-on qu’un repère ne suffit plus ?",
+          "points": [
+            {
+              "heading": "L’emplacement est bon, le papier devient invisible",
+              "text": "Une indication utile pour une chemise peut perdre son intérêt quand trop d’objets occupent la même place.",
+              "examples": [
+                "La chemise du pont et une enveloppe à traiter se retrouvent au coin du buffet.",
+                "Une note de rendez-vous glissée dans une pile de prospectus ne se voit plus avant le départ."
+              ]
+            },
+            {
+              "heading": "Deux tâches demandent deux indices",
+              "text": "Retrouver un projet et se rappeler qu’une réponse reste à faire sont des besoins différents.",
+              "examples": [
+                "Armand essaie la corbeille pour le courrier et la chemise rigide pour le foyer.",
+                "Des documents destinés au prochain rendez-vous peuvent rester près du sac tandis qu’une enveloppe à traiter attend dans un bac visible."
+              ]
+            },
+            {
+              "heading": "Le choix doit tenir dans la vie de la personne",
+              "text": "Un rangement devient plus facile à utiliser s’il est accessible depuis un endroit où l’on passe déjà.",
+              "examples": [
+                "Armand veut voir sa corbeille depuis la table.",
+                "Une personne retrouve mieux un agenda près du téléphone qu’au fond d’un casier classé par thèmes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Essayer deux destinations bien visibles",
-          "text": "Armand peut choisir une place pour le courrier à reprendre et garder ses documents de la bibliothèque dans la chemise. Une aide est plus facile à discuter quand on peut la montrer : « Je retrouve la chemise, mais je ne sais plus si j’ai répondu à cette enveloppe. » Il peut décider de revoir cet exemple avec Irène au rendez-vous suivant. Si une difficulté persiste ou touche une démarche qui ne peut attendre, l’équipe peut l’aider à trouver un appui adapté plutôt que d’ajouter une pile de rappels.\n\nLe rangement de ses cartes suit une autre logique. L’original du pont bas demeure près du fauteuil quand Armand veut le feuilleter ; la reproduction approuvée relève de la bibliothèque. La chemise du foyer peut contenir seulement ce qui sert au rendez-vous. Armand garde le choix de ce qui reste visible pour une personne qui vient l’aider. Il peut demander qu’on le prévienne avant de déplacer une feuille."
+          "heading": "3 techniques pour tester un repère de mémoire chez soi",
+          "points": [
+            {
+              "heading": "Observer avant de déplacer",
+              "objective": "Découvrir à quelle étape l’information devient difficile à retrouver.",
+              "exercise": [
+                "Reprenez une recherche récente avec la personne.",
+                "Regardez où elle commence spontanément.",
+                "Repérez ensemble ce qui masque ou détourne le renseignement."
+              ],
+              "benefit": "L’aide peut répondre à l’obstacle observé plutôt que remplacer tout le rangement."
+            },
+            {
+              "heading": "Faire un essai limité",
+              "objective": "Distinguer deux usages sans multiplier les boîtes.",
+              "exercise": [
+                "Choisissez deux catégories réellement utiles.",
+                "Décidez avec la personne de leur emplacement.",
+                "Utilisez ces places jusqu’au prochain point convenu, si elles lui conviennent."
+              ],
+              "benefit": "Un petit changement se compare plus facilement à ce qui se passait avant."
+            },
+            {
+              "heading": "Vérifier ce qui reste difficile",
+              "objective": "Adapter le soutien quand la maison ou les tâches changent.",
+              "exercise": [
+                "Apportez à l’ergothérapeute un exemple où le repère a servi.",
+                "Montrez aussi une recherche qui a encore pris du temps.",
+                "Convenez de ce qu’il faut garder ou modifier."
+              ],
+              "benefit": "Le suivi porte sur l’usage réel du repère, qui peut évoluer avec les besoins."
+            }
+          ]
         }
       ],
       "ending_title": "Une place pour l’enveloppe",
@@ -369,7 +824,8 @@
         "next": "Avant cette revue, un changement soudain interrompt les préparatifs."
       },
       "clinical_focus": "Compensation des difficultés de mémoire",
-      "clinical_intro": "À la maison, Armand montre à l’ergothérapeute où se mélangent les enveloppes et les cartes. Ils essaient deux emplacements choisis ensemble pour rendre l’information plus facile à retrouver. Un aménagement peut soutenir une activité quotidienne quand la mémoire devient moins fiable. Armand vérifie ce qui lui rend service dans son rangement plutôt que de se fier à l’idée qu’un outil devrait fonctionner."
+      "clinical_intro": "À la maison, Armand montre à l’ergothérapeute où se mélangent les enveloppes et les cartes. Ils essaient deux emplacements choisis ensemble pour rendre l’information plus facile à retrouver. Un aménagement peut soutenir une activité quotidienne quand la mémoire devient moins fiable. Armand vérifie ce qui lui rend service dans son rangement plutôt que de se fier à l’idée qu’un outil devrait fonctionner.",
+      "conclusion": "La corbeille reçoit d’abord une seule enveloppe, et le billet du foyer reste à sa place. Armand pourra dire, à la prochaine visite, si cette séparation aide encore quand de nouveaux courriers arrivent."
     },
     {
       "number": 9,
@@ -386,18 +842,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Confusion aiguë et déclin progressif dans la maladie d’Alzheimer",
-          "text": "Une confusion apparue brutalement chez une personne âgée demande une évaluation médicale urgente, y compris lorsque la maladie d’Alzheimer est déjà diagnostiquée. La confusion aiguë, aussi appelée syndrome confusionnel, peut survenir chez une personne qui a déjà des difficultés cognitives. Un changement rapide dans la capacité à rester attentif ou dans la vigilance ne doit pas être mis d’emblée sur le compte d’un déclin attendu. Des causes diverses sont possibles et la recherche de la cause relève des soignants.\n\nLa Haute Autorité de santé distingue ce tableau d’une évolution cognitive chronique et souligne l’urgence de l’évaluation."
+          "heading": "Un changement soudain appelle une évaluation urgente",
+          "text": "Une modification rapide de l’attention ou de la vigilance chez une personne âgée peut correspondre à une confusion aiguë. C’est une urgence médicale, même lorsque la maladie d’Alzheimer est déjà connue. Les causes possibles sont diverses et les soignants doivent les rechercher. Jeanne reconnaît la rupture avec la veille et appelle le 15 sans attendre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Lorsqu’Armand hésitait sur l’heure d’un rendez-vous, il pouvait demander une confirmation et reprendre son activité. Le changement que Jeanne observe ici concerne la conversation et la vigilance sur un temps beaucoup plus court. Elle n’a pas à décider de ce que signifie le changement pour demander de l’aide."
+          "heading": "Comment un changement soudain se distingue-t-il du fonctionnement habituel ?",
+          "points": [
+            {
+              "heading": "L’attention change nettement",
+              "text": "Dans une confusion aiguë, suivre un échange bref peut devenir soudain beaucoup plus difficile.",
+              "examples": [
+                "La veille, Armand parlait des cartes ; ce matin, il perd le fil au milieu de quelques mots.",
+                "Une personne qui échangeait normalement au petit déjeuner ne parvient plus quelques heures plus tard à suivre une question simple."
+              ]
+            },
+            {
+              "heading": "La vigilance peut être différente ou varier rapidement",
+              "text": "La personne peut sembler nettement moins présente ou alterner des moments où il est plus ou moins facile d’établir un contact.",
+              "examples": [
+                "Jeanne a du mal à capter le regard d’Armand et il tourne à peine la tête vers elle.",
+                "Un proche trouve quelqu’un inhabituellement somnolent et constate qu’il décroche de nouveau peu après lui avoir répondu."
+              ]
+            },
+            {
+              "heading": "Le début exact peut rester inconnu",
+              "text": "Le dernier moment où la personne semblait dans son état habituel aide les soignants à comprendre la chronologie.",
+              "examples": [
+                "Jeanne connaît l’heure de leur appel la veille et ignore quand le changement a commencé.",
+                "En arrivant après une nuit passée séparément, quelqu’un peut dire comment la personne allait au coucher sans prétendre connaître l’heure de début."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce qui a changé et laisser l’équipe orienter",
-          "text": "En France, le 15 permet de joindre une régulation médicale et d’obtenir une réponse adaptée à une situation urgente. Jeanne peut expliquer les faits dans l’ordre où elle les connaît : le dernier échange habituel, l’heure de son arrivée, puis ce qu’elle voit maintenant. Une heure approximative ou inconnue peut être indiquée comme telle. La personne au téléphone lui pose les questions nécessaires et décide de l’orientation.\n\nSi elle peut rester auprès d’Armand en attendant, elle peut lui dire qui vient et l’écouter s’il exprime un besoin. La priorité reste de suivre les consignes reçues. Les cartes et les horaires du foyer peuvent attendre. Une fois l’évaluation organisée, une personne du foyer peut reporter le rendez-vous sur un message bref. Jeanne peut s’en tenir à ce qu’il est utile de communiquer pour ce report."
+          "heading": "3 techniques pour demander et transmettre l’aide urgente",
+          "points": [
+            {
+              "heading": "Appeler sans attendre",
+              "objective": "Obtenir une orientation médicale immédiate face à un changement brutal.",
+              "exercise": [
+                "Appelez aussitôt le 15 en France.",
+                "Indiquez où vous êtes et décrivez en quelques mots le changement.",
+                "Suivez les consignes du professionnel qui répond."
+              ],
+              "benefit": "L’équipe peut organiser l’évaluation nécessaire sans que le proche ait à déterminer la cause."
+            },
+            {
+              "heading": "Décrire la rupture pendant l’appel",
+              "objective": "Donner aux soignants un point de comparaison.",
+              "exercise": [
+                "Dites ce qui est différent de d’habitude.",
+                "Précisez quand la personne semblait pour la dernière fois dans son état habituel.",
+                "Indiquez le diagnostic connu et ce que vous ignorez sur le début."
+              ],
+              "benefit": "Ces faits aident l’équipe à apprécier la situation sans retarder l’appel."
+            },
+            {
+              "heading": "Faciliter le relais après l’appel",
+              "objective": "Aider la personne à comprendre ce qui va se passer, selon les consignes reçues.",
+              "exercise": [
+                "Dites brièvement qui vous êtes et que de l’aide arrive.",
+                "Signalez à l’équipe toute nouvelle modification ou demande de la personne.",
+                "Reportez ensuite les rendez-vous ordinaires."
+              ],
+              "benefit": "Les besoins immédiats restent prioritaires et les soignants savent ce que la personne a pu exprimer."
+            }
+          ]
         }
       ],
       "ending_title": "La radio éteinte",
@@ -415,7 +927,8 @@
         "next": "Après la prise en charge urgente, Armand et Jeanne reverront les aides du retour à domicile avant de rouvrir le carton."
       },
       "clinical_focus": "Confusion aiguë et vigilance",
-      "clinical_intro": "Jeanne trouve Armand très différent de la veille. Il peine à suivre quelques mots et son attention décroche au milieu d’une phrase. Ce changement rapide peut indiquer une confusion aiguë, y compris chez une personne déjà suivie pour Alzheimer. Jeanne appelle aussitôt le 15 et décrit ce qui a changé ainsi que la dernière fois où il lui semblait dans son état habituel."
+      "clinical_intro": "Jeanne trouve Armand très différent de la veille. Il peine à suivre quelques mots et son attention décroche au milieu d’une phrase. Ce changement rapide peut indiquer une confusion aiguë, y compris chez une personne déjà suivie pour Alzheimer. Jeanne appelle aussitôt le 15 et décrit ce qui a changé ainsi que la dernière fois où il lui semblait dans son état habituel.",
+      "conclusion": "La veille, Armand avait pu discuter de ses cartes. Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite. Le rendez-vous à la bibliothèque attend ; l’équipe médicale a pris le relais."
     },
     {
       "number": 10,
@@ -432,18 +945,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revoir le soutien après l’hôpital",
-          "text": "Un retour à domicile est un moment pour vérifier avec la personne ce qu’elle peut reprendre, ce qui lui coûte davantage et les aides dont elle a besoin. Une évaluation urgente a répondu à la confusion de dimanche ; le suivi peut maintenant reprendre les difficultés présentes à la maison et les comparer au fonctionnement antérieur. L’évolution de la maladie et les suites d’un autre problème de santé sont des questions que les professionnels examinent dans leur contexte. La famille peut décrire les changements sans conclure seule à un nouveau stade."
+          "heading": "Reprendre le quotidien après le retour",
+          "text": "Après une confusion aiguë, le suivi à domicile sert à revoir le fonctionnement quotidien et les aides nécessaires. Le retour d’une façon familière de parler peut coexister avec une fatigue ou des difficultés encore présentes. Leur origine et leur évolution s’évaluent avec les professionnels. Armand décrit ce qui a changé depuis l’hôpital et sépare ce point de suivi de son rendez-vous au foyer."
         },
         {
           "role": "manifestations",
-          "heading": "La confusion inhabituelle et ce qui reste difficile au retour",
-          "text": "Dimanche, Jeanne avait trouvé Armand très différent de la veille. Il avait du mal à rester attentif à sa voix et perdait le fil au milieu de phrases courtes. Au retour de l’hôpital, il retrouve sa manière habituelle de parler avec elle. Il se fatigue encore vite devant plusieurs papiers. Par deux fois, il a cru que l’ancien billet indiquait un rendez-vous pour le jour même. Ces observations précisent ce qui a changé à la maison depuis la sortie."
+          "heading": "Comment les besoins se précisent-ils après le retour à domicile ?",
+          "points": [
+            {
+              "heading": "Les activités reprennent à des rythmes différents",
+              "text": "Une amélioration dans un échange ne renseigne pas à elle seule sur les autres tâches.",
+              "examples": [
+                "Armand retrouve sa manière habituelle de parler avec Jeanne et perd plus vite le fil devant plusieurs papiers.",
+                "Une personne peut reprendre un appel familier et avoir encore besoin d’aide pour relire des rendez-vous de sortie."
+              ]
+            },
+            {
+              "heading": "Un ancien repère n’est plus à jour",
+              "text": "Une indication restée en place peut correspondre à un engagement interrompu pendant l’hospitalisation.",
+              "examples": [
+                "Le billet au miroir fait croire à Armand que Nadia l’attend encore.",
+                "Un calendrier peut afficher une visite déjà annulée et laisser à confirmer le nouveau rendez-vous."
+              ]
+            },
+            {
+              "heading": "Les aides sont à revoir dans la maison",
+              "text": "Un besoin se précise en observant une tâche réelle plutôt qu’en résumant la situation à un niveau d’autonomie.",
+              "examples": [
+                "Armand demande un passage supplémentaire d’Irène pour réexaminer ses repères.",
+                "Une personne peut demander que l’équipe regarde comment elle retrouve le document de suivi au moment où elle en a besoin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder deux rendez-vous distincts",
-          "text": "La Haute Autorité de santé invite à préparer le retour, à adapter les aides si nécessaire et à coordonner les intervenants. Armand peut demander au médecin ce qu’il propose de revoir et à quel moment. Si une nouvelle confusion brutale apparaît, il faut à nouveau solliciter sans attendre une évaluation médicale urgente.\n\nArmand peut faire de la fatigue et de la reprise des papiers des sujets de suivi. Il peut garder le contact du cabinet à un endroit qu’il repère et noter, avec l’équipe, à qui demander de l’aide entre les visites. Jeanne peut convenir du temps qu’elle a pour lire le document de sortie avec lui. Le médecin, le service à domicile et la consultation mémoire peuvent préciser qui reprend chaque question.\n\nArmand peut aussi recontacter Nadia, en lui disant seulement ce qui est utile pour organiser la rencontre. S’il veut revoir le lot à une heure calme, ils peuvent fixer une date qui laisse le temps de relire la liste et de retirer une carte. Un billet portant une date passée peut quitter le miroir dès que son report est certain. La prochaine date y viendra lorsqu’elle sera effectivement convenue."
+          "heading": "3 techniques pour préparer la réévaluation à domicile",
+          "points": [
+            {
+              "heading": "Apporter deux moments de comparaison",
+              "objective": "Décrire ce qui a changé sans supposer pourquoi.",
+              "exercise": [
+                "Choisissez une activité connue avant l’hospitalisation.",
+                "Décrivez ce qui se passe aujourd’hui dans une situation comparable.",
+                "Partagez l’exemple au suivi et signalez sans attendre au 15 toute nouvelle rupture brutale."
+              ],
+              "benefit": "Le professionnel peut situer le changement et décider de l’évaluation utile."
+            },
+            {
+              "heading": "Clarifier les contacts de retour",
+              "objective": "Savoir qui rappeler et pour quel besoin.",
+              "exercise": [
+                "Reprenez avec la personne les consignes de sortie.",
+                "Confirmez le rendez-vous et le service à appeler entre deux visites.",
+                "Demandez avec son accord comment les équipes se transmettent les informations."
+              ],
+              "benefit": "Les demandes de suivi arrivent au bon interlocuteur sans reposer uniquement sur la famille."
+            },
+            {
+              "heading": "Actualiser un engagement interrompu",
+              "objective": "Éviter qu’un repère ancien ajoute de la confusion.",
+              "exercise": [
+                "Vérifiez si la date affichée est toujours valable.",
+                "Retirez l’ancien billet s’il ne l’est plus.",
+                "Replacez un seul renseignement lorsque le nouveau rendez-vous est confirmé."
+              ],
+              "benefit": "La reprise du projet peut se préparer séparément des démarches de santé."
+            }
+          ]
         }
       ],
       "ending_title": "Le plan vert dans la chemise personnelle",
@@ -462,7 +1031,8 @@
         "next": "Le jeudi suivant, il veut confirmer avec Nadia ce que la bibliothèque recevra et comment le public pourra le consulter."
       },
       "clinical_focus": "Évaluation après une confusion aiguë",
-      "clinical_intro": "De retour chez lui, Armand veut revoir l’aide dont il a besoin pour reprendre son quotidien. Les suites d’un épisode aigu et l’évolution de sa maladie demandent une évaluation attentive de ce qui a changé et de ce qu’il peut faire. Il demande un passage de suivi supplémentaire avant de remettre les cartes à Nadia, à un rendez-vous distinct."
+      "clinical_intro": "De retour chez lui, Armand veut revoir l’aide dont il a besoin pour reprendre son quotidien. Les suites d’un épisode aigu et l’évolution de sa maladie demandent une évaluation attentive de ce qui a changé et de ce qu’il peut faire. Il demande un passage de suivi supplémentaire avant de remettre les cartes à Nadia, à un rendez-vous distinct.",
+      "conclusion": "Le passage supplémentaire donnera à Armand l’occasion de revoir les aides chez lui. Pendant ce temps, il peut fixer avec Nadia une nouvelle date et décider que le plan vert restera près du fauteuil."
     },
     {
       "number": 11,
@@ -479,18 +1049,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un choix tient aussi à la manière de l’examiner",
-          "text": "Une décision est plus facile à examiner quand ses différentes conséquences peuvent être présentées l’une après l’autre. Armand a besoin de distinguer trois originaux qu’il souhaite remettre, la reproduction qu’il autorise à montrer et les deux originaux qui resteront chez lui. Il peut voir chaque catégorie sur la table, entendre ce que Nadia entend faire des cartes et poser des questions. Sa demande de précision sur le pont bas aide la conversation à repartir sur une base commune."
+          "heading": "Pouvoir décider avec les pièces devant soi",
+          "text": "Une aide à la décision peut rendre les choix et leurs conséquences plus faciles à examiner quand la mémoire ou l’attention sont fragilisées. Elle permet à la personne de demander une précision, de revenir sur une option et de formuler sa préférence. Nadia présente les cartes et les usages séparément. Armand peut décider du don et prévoir à sa façon la rencontre du samedi."
         },
         {
           "role": "manifestations",
-          "heading": "Une hésitation entre l’original et sa reproduction",
-          "text": "Armand sait qu’il est venu laisser trois cartes. Quand Nadia parle du pont bas en cherchant la fiche de la reproduction, il revient à la liste et demande de quel papier elle parle. Dès qu’il voit la copie seule au milieu de la table, il reconnaît le bord recadré. Il peut alors distinguer ce qu’il accepte de montrer et ce qu’il souhaite laisser à la bibliothèque."
+          "heading": "Comment voit-on qu’une décision reste celle de la personne ?",
+          "points": [
+            {
+              "heading": "La question peut être reprise",
+              "text": "Rendre un choix accessible donne la possibilité d’interrompre l’échange pour faire préciser un point.",
+              "examples": [
+                "Armand demande de clarifier ce que la bibliothèque fera de la reproduction du pont.",
+                "Avant de prêter un objet, une personne peut demander à revoir la date et l’endroit où elle le récupérera."
+              ]
+            },
+            {
+              "heading": "Les conséquences se distinguent",
+              "text": "Voir les pièces séparées aide à relier chaque décision à son résultat concret.",
+              "examples": [
+                "Armand remet trois originaux, mais l’original du pont restera avec le plan vert chez lui.",
+                "Sur une table, une boîte « à rendre » et une boîte « à prêter » permettent de vérifier où chaque objet ira."
+              ]
+            },
+            {
+              "heading": "Un accord peut prévoir une possibilité de relais",
+              "text": "La personne peut choisir une façon de participer qui s’ajustera sur le moment.",
+              "examples": [
+                "Armand veut commencer avec le plan des canaux et donner ensuite la légende à Nadia s’il le souhaite.",
+                "Quelqu’un peut choisir de présenter une photo assis et convenir que le collègue répondra aux questions si nécessaire."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner les cartes et choisir sa place",
-          "text": "Les conditions du don se discutent avec la bibliothèque. Nadia peut dire quels documents elle peut rendre consultables et de quelle manière. Armand peut choisir de ne donner que les cartes pour lesquelles cette proposition lui convient. La feuille qu’ils relisent garde une trace de leurs décisions et évite de confondre ce que la bibliothèque conserve et ce qu’elle a l’accord de montrer.\n\nLa présentation publique est une autre décision. Armand choisit la carte qu’il veut ouvrir et la personne à qui passer la parole. Nadia peut préparer la salle pour ce format et annoncer la suite si Armand préfère rester simple visiteur. Jeanne peut, si elle est libre et s’il le souhaite, venir écouter. Le projet peut continuer à avoir une place dans la vie d’Armand même quand les conditions de sa participation changent.\n\nLe NICE encourage à soutenir la parole de la personne et à présenter les informations sous une forme adaptée quand c’est utile. Ces recommandations concernent les soins et l’accompagnement. Au rendez-vous avec la bibliothèque, Nadia peut montrer les cartes une à une et relire la liste avec Armand. Si une décision reste incertaine, ils peuvent laisser la remise en attente."
+          "heading": "3 techniques pour accompagner une décision sur des objets et leur usage",
+          "points": [
+            {
+              "heading": "Décrire le devenir de chaque pièce",
+              "objective": "Savoir ce qu’implique chaque réponse.",
+              "exercise": [
+                "Présentez un objet à la fois.",
+                "Dites ce qu’il deviendra selon les options proposées.",
+                "Laissez la personne demander de revoir une pièce déjà examinée."
+              ],
+              "benefit": "La décision se rattache à des conséquences visibles plutôt qu’à une formule générale."
+            },
+            {
+              "heading": "Confirmer avec une trace commune",
+              "objective": "Donner à la personne un support pour retrouver son choix.",
+              "exercise": [
+                "Relisez la liste devant les objets.",
+                "Corrigez la ligne si la personne précise sa réponse.",
+                "Remettez-lui son exemplaire."
+              ],
+              "benefit": "Chacun peut vérifier par la suite ce qui a été remis et à quelles conditions."
+            },
+            {
+              "heading": "Prévoir une participation modulable",
+              "objective": "Permettre de changer de rôle sans renoncer à la rencontre.",
+              "exercise": [
+                "Demandez par quoi la personne souhaite commencer.",
+                "Convenez du signe ou de l’objet qui indiquera un relais.",
+                "Prévoyez une place où elle pourra rester si elle passe la parole."
+              ],
+              "benefit": "La possibilité de s’arrêter fait partie du plan dès le départ."
+            }
+          ]
         }
       ],
       "ending_title": "Un exemplaire dans le carton vide",
@@ -508,7 +1134,8 @@
         "next": "Samedi, il verra qui vient consulter les cartes et comment il veut ouvrir la rencontre."
       },
       "clinical_focus": "Décision accompagnée et autonomie",
-      "clinical_intro": "Armand regarde avec Nadia la liste des originaux qu’il envisage de remettre. Voir les cartes une à une l’aide à suivre son choix. Il décide aussi quand il souhaite prendre la parole et quand il pourrait la lui passer. L’épisode montre comment adapter la manière de présenter une décision pour laisser la personne y prendre sa place."
+      "clinical_intro": "Armand regarde avec Nadia la liste des originaux qu’il envisage de remettre. Voir les cartes une à une l’aide à suivre son choix. Il décide aussi quand il souhaite prendre la parole et quand il pourrait la lui passer. L’épisode montre comment adapter la manière de présenter une décision pour laisser la personne y prendre sa place.",
+      "conclusion": "Le carton est vide et contient encore la liste, preuve pratique de ce qu’Armand a choisi. Le samedi, une chaise et la légende à portée de Nadia lui permettront de décider quand parler."
     },
     {
       "number": 12,
@@ -525,18 +1152,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une activité peut changer de forme",
-          "text": "Une personne qui vit avec la maladie d’Alzheimer peut continuer à participer à des activités qui lui importent, avec un soutien qui s’ajuste à ses besoins. Le NICE recommande de proposer des activités en fonction de ses préférences. Armand avait prévu une entrée en matière et a pu reprendre autrement quand une question l’a détourné de la phrase. Son échange avec la lectrice donne un usage aux cartes. Il ne prédit pas comment une conversation se déroulera un autre jour.\n\nLe besoin d’aide peut évoluer et varier selon le contexte."
+          "heading": "Continuer à transmettre à sa façon",
+          "text": "La maladie d’Alzheimer peut modifier les conditions dans lesquelles une personne participe à une activité qui lui importe. Une place choisie, un support ou un relais peuvent lui permettre d’y prendre la part qu’elle souhaite. Armand peut montrer le passage à partir de sa connaissance du quartier, puis écouter quand les questions se croisent. L’utilité de ces aides dépend du moment et du cadre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Armand a gardé le plaisir de chercher un passage à deux, puis choisi de passer la parole quand plusieurs questions sont arrivées ensemble. Le signal convenu avec Nadia lui laisse la possibilité d’ajuster sa place en cours de rencontre. Si le format cesse de lui convenir, sa décision peut être revue sans défaire ce qu’il a déjà transmis."
+          "heading": "Comment la participation s’ajuste-t-elle pendant une rencontre ?",
+          "points": [
+            {
+              "heading": "Un savoir peut rester disponible",
+              "text": "Une activité liée aux intérêts de la personne peut s’appuyer sur ce qu’elle connaît et aime encore partager.",
+              "examples": [
+                "Armand montre à la lectrice le passage qu’elle cherche sur la carte.",
+                "Une ancienne couturière peut expliquer le sens d’un motif quand quelqu’un le lui montre sur le tissu."
+              ]
+            },
+            {
+              "heading": "Le cadre peut devenir plus exigeant",
+              "text": "Plusieurs voix ou de nouvelles arrivées changent la difficulté d’un échange pourtant bien commencé.",
+              "examples": [
+                "Deux questions se croisent quand les visiteurs entrent par la cour ; Armand passe la légende à Nadia.",
+                "Une personne répond à son voisin de table, puis préfère écouter quand la conversation se disperse entre plusieurs groupes."
+              ]
+            },
+            {
+              "heading": "La participation peut se poursuivre autrement",
+              "text": "Céder un rôle n’oblige pas à quitter le lieu ni à renoncer à l’échange.",
+              "examples": [
+                "Armand reste assis et demande à la lectrice d’écrire le nom de l’escalier.",
+                "Quelqu’un laisse l’animation d’une visite à son collègue et continue à regarder les photos avec un invité."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Anticiper ce qui mérite d’être revu",
-          "text": "Le suivi peut reprendre avec la personne les aides qui lui servent, celles qui demandent des ajustements et les préférences qu’elle souhaite garder. La Haute Autorité de santé et le NICE soulignent la place de cette réévaluation. Armand peut indiquer qu’il veut toujours accueillir la personne qui l’aide et continuer à ouvrir ses propres lettres. Il peut aussi dire que certains jours il a besoin d’aide pour savoir par quel courrier commencer. Ils peuvent décider de revoir l’aide si des courriers s’accumulent dans la corbeille. Jeanne peut préciser ce qu’elle est en mesure de faire de son côté.\n\nLe contact du service et la prochaine date de suivi permettent de discuter de ces changements avec les professionnels concernés. À la bibliothèque, Nadia a un rôle différent : elle peut convenir avec Armand de la façon dont il veut accéder aux cartes données s’il revient. Chez lui, le plan vert et le pont bas gardent la place qu’il a choisie. Les trois décisions se reprennent séparément quand le besoin se présente."
+          "heading": "3 techniques pour garder une activité accessible et choisie",
+          "points": [
+            {
+              "heading": "Partir d’un intérêt concret",
+              "objective": "Faciliter une entrée dans l’échange qui ait du sens pour la personne.",
+              "exercise": [
+                "Choisissez ensemble un objet ou un détail qu’elle aimerait présenter.",
+                "Disposez-le à portée et dans une position confortable.",
+                "Laissez la discussion prendre la direction qui lui convient."
+              ],
+              "benefit": "L’activité se construit autour de son projet plutôt qu’autour d’une performance attendue."
+            },
+            {
+              "heading": "Changer de place ou de rôle au bon moment",
+              "objective": "Garder plusieurs manières de participer.",
+              "exercise": [
+                "Convenez de la personne qui pourra reprendre la parole.",
+                "Gardez un siège ou un espace où l’on peut rester autrement.",
+                "Vérifiez ensuite ce que la personne a apprécié ou veut modifier."
+              ],
+              "benefit": "Le relais répond au moment sans devenir un rôle imposé pour chaque rencontre."
+            },
+            {
+              "heading": "Prévoir une suite à son rythme",
+              "objective": "Donner une continuité au projet sans exiger le même effort à chaque fois.",
+              "exercise": [
+                "Proposez un moyen de recueillir les contributions, comme un cahier.",
+                "Demandez si la personne veut les relire et dans quelles conditions.",
+                "Revoyez les appuis avant la prochaine visite si les besoins ont changé."
+              ],
+              "benefit": "Le projet reste ouvert à de nouveaux échanges, même quand la forme de participation évolue."
+            }
+          ]
         }
       ],
       "ending_title": "Le nom de l’escalier",
@@ -555,7 +1238,8 @@
         "next": "Le don est accompli. Le plan vert et l’original du pont restent chez Armand ; le suivi des aides et ses visites au foyer peuvent être repris avec lui."
       },
       "clinical_focus": "Participation sociale avec Alzheimer",
-      "clinical_intro": "Une lectrice cherche un escalier sur le plan. Armand s’appuie sur sa connaissance du quartier et montre le passage, puis choisit de laisser Nadia poursuivre. La maladie d’Alzheimer peut changer les conditions qui permettent de participer à une rencontre. Des appuis ajustables aident Armand à continuer de transmettre ce qu’il connaît et à arrêter quand il le souhaite."
+      "clinical_intro": "Une lectrice cherche un escalier sur le plan. Armand s’appuie sur sa connaissance du quartier et montre le passage, puis choisit de laisser Nadia poursuivre. La maladie d’Alzheimer peut changer les conditions qui permettent de participer à une rencontre. Des appuis ajustables aident Armand à continuer de transmettre ce qu’il connaît et à arrêter quand il le souhaite.",
+      "conclusion": "Les cartes sont à la bibliothèque et le nom de l’escalier revient avec Armand chez lui. Son don continue de susciter des questions. Il peut y répondre plus tard, avec l’aide qui lui sera utile ce jour-là."
     }
   ],
   "profile_topics": [

@@ -33,14 +33,79 @@ Sur les séchoirs, il y a des cartes à plusieurs endroits. Alba lui parle en m�
 
 L’appréhension de se tromper peut conduire à passer la main sur une tâche qui compte pourtant pour soi. Parmi les adultes rencontrés par Staller et ses collègues, certains ont décrit des manières d’éviter des situations où des calculs étaient attendus. Cette étude n’explique pas chaque plaisanterie ni chaque partage des tâches. À l’imprimerie, Lison reconnaît ce qu’elle voulait faire cette fois : détourner la question, puis laisser son amie compter. Elle réalise aussi qu’en lui passant la tâche entière elle risque de renoncer au choix des tirages. Elle peut faire de la place pour les deux sujets : le compte et l’endroit où chacune voudrait que les cartes arrivent.
 
-## Le bon appui change avec la situation
+## Comment l’humour peut-il aider à esquiver un calcul tout en coûtant une décision ?
 
-Lison a mis au point une fiche pour les quantités de tissu. Les cartes lui posent un autre problème : elle peut les déplacer, mais certaines sèchent et elle ne veut pas perdre leur ordre. Les difficultés peuvent persister à l’âge adulte et se manifester différemment selon les tâches et leurs exigences. Lison choisit de matérialiser les deux destinations au lieu de reprendre le modèle de l’atelier. Elle peut dire à Alba ce qui la gêne ici et demander une modification simple. Si elle souhaite raconter ce qu’elle vit avec la dyscalculie, ce sera un autre échange. Son amie peut comprendre une demande précise sans connaître son histoire scolaire.
+### Une plaisanterie peut détourner la question
 
-## Laisser une place pour la carte qui manque
+Quelqu’un peut se protéger d’un moment inconfortable en faisant rire. La raison d’une plaisanterie appartient à la personne.
 
-Les deux amies peuvent préparer six emplacements pour le café et six pour la librairie, puis déplacer les cartes une fois sèches. Elles peuvent vérifier ensemble s’il en manque et, au besoin, décider de tirer encore une carte, de faire deux piles plus petites ou de différer un dépôt. L’enjeu est de garder un accord sur ce qu’elles font, pas de réussir un compte à toute vitesse. Lison veut répartir les tirages les plus nets ; Alba peut lui dire lesquels elle préfère. Le dispositif laisse chacune participer à cette décision. Elles peuvent aussi le laisser de côté la prochaine fois si la situation est plus simple ou si une autre manière de faire leur convient mieux.
+**Exemples concrets**
+
+- Lison reconnaît qu’elle voulait détourner la question du compte.
+- Une amie peut plaisanter sur le nombre de cartes pour laisser l’autre commencer à compter.
+
+### Passer la main peut emporter autre chose que le calcul
+
+Si le partenaire prend en charge toute la tâche, une décision à laquelle la personne tient peut lui échapper.
+
+**Exemples concrets**
+
+- Lison veut encore choisir quels tirages porter au café.
+- Alba veut garder une version plus claire pour la librairie, un choix qui se discute à deux.
+
+### Un repère commun rend le compte partageable
+
+Un nombre posé sur des objets visibles laisse la place à d’autres décisions pendant l’échange.
+
+**Exemples concrets**
+
+- Alba trace deux rangées et elles peuvent y placer les cartes.
+- Les deux piles de six donnent un compte à vérifier sans décider à elles seules du lieu de dépôt.
+
+## 3 techniques pour garder sa part d’un choix quand les chiffres gênent
+
+### 1. Revenir à ce que l’on veut décider
+
+Dire ce qui compte derrière le nombre demandé.
+
+**Exercice pratique**
+
+- Repérez la décision que vous vouliez garder.
+- Dites-la après la plaisanterie ou à un moment plus calme.
+- Demandez de séparer ce choix du compte à vérifier.
+
+La discussion peut reprendre sur les deux sujets.
+
+### 2. Compter avec un appui commun
+
+Faire du nombre un résultat que les deux peuvent voir.
+
+**Exercice pratique**
+
+- Tracez une place pour chaque groupe d’objets.
+- Remplissez les groupes avec le partenaire.
+- Vérifiez le nombre sans enlever les choix qui restent à faire.
+
+L’appui laisse du temps pour discuter des cartes.
+
+### 3. Répartir l’aide selon les envies
+
+Garder un partage acceptable pour les deux personnes.
+
+**Exercice pratique**
+
+- Demandez qui souhaite compter et qui souhaite préparer les piles.
+- Indiquez ce que vous voulez décider ensemble.
+- Changez la répartition si l’une n’y trouve plus sa place.
+
+Le soutien reste un choix dans l’activité commune.
 
 ## Deux rangées sous la presse
 
 Alba trace au crayon deux rangées sur une grande feuille. Au moment de ranger, elles ont bien de quoi remplir les deux rangées. Lison réserve une carte où l’enseigne est impeccable pour le café et en montre une autre, plus claire, qu’Alba préfère pour la librairie. Elles glissent les deux piles dans des chemises pour le transport et laissent l’achat des enveloppes au lendemain. Quand Alba l’accompagne jusqu’à l’arrêt, Lison lui montre l’ancienne vitrine au bout de la rue. À cette heure, la porte est effectivement noire. Alba prend une photo ; Lison lui dit qu’il y a une autre boutique à graver près du pont.
+
+---
+
+**Conclusion**
+
+Les deux rangées donnent un moyen de compter, puis Lison et Alba choisissent chacune un tirage. Lison a pu garder sa part de la décision sans faire du nombre le seul sujet de la soirée. Elle pense déjà à une autre vitrine à graver.

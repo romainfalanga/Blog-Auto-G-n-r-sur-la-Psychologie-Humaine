@@ -29,18 +29,83 @@ Le dernier message du club demande simplement qui peut reprendre l’essai de pr
 
 Pendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations. Elle dit qu’elle souhaite garder une part dans la soirée si c’est compatible avec les suites du suivi. La professionnelle lui demande quelle tâche compte le plus pour elle. Clémence montre la fiche du film. Elle pourrait la finir même si la présentation devait être partagée. Elle voudrait pouvoir garder cette possibilité pendant qu’elles examinent le reste.
 
-## Assurer la continuité après une évaluation urgente
+## Choisir ce qui circule après un malaise
 
-Quand plusieurs services interviennent auprès d’une personne qui a un trouble des conduites alimentaires, la coordination fait partie des soins. Le NICE recommande que les équipes concernées se transmettent les informations utiles et collaborent sur la suite de la prise en charge.
+Après un malaise devant d’autres personnes, la honte peut faire craindre que l’événement résume désormais la place que l’on occupe dans le groupe. Dans le suivi de l’anorexie mentale, les professionnels ont besoin des renseignements utiles à la santé. Clémence choisit de parler du compte rendu au service et de donner au club les éléments qui concernent la soirée. Elle garde ouverte la conversation personnelle avec Baya.
 
-## Comment cette difficulté se manifeste
+## Comment le sentiment d’être exposée influence-t-il ce que Clémence veut raconter ?
 
-Clémence peut demander ce qui a déjà été transmis, qui répondra à ses questions et comment se dérouleront les prochains rendez-vous. Elle peut apporter le document qu’elle a reçu et signaler ce qu’elle ne comprend pas. Les professionnels apprécient l’évolution de sa santé et l’aident à décider de la suite. La reprise du ciné-club peut être un sujet de discussion avec l’équipe.
+### Le message préparé dépasse ce que le groupe a demandé
 
-## Répondre au club sur ce qui change pour la soirée
+La crainte du regard peut donner envie d’expliquer l’épisode en détail alors qu’un renseignement pratique suffit.
 
-Clémence peut prévenir la référente qu’elle attend de confirmer sa présence et préciser quelle fiche elle peut transmettre. Elle peut choisir de partager davantage d’informations avec une personne de confiance si elle le souhaite. La référente a besoin de savoir à qui confier l’essai et comment la présentation sera assurée. Baya peut répondre sur sa partie de la soirée et indiquer les limites de sa disponibilité. En cas de nouvelle inquiétude pour sa santé, Clémence retrouve le recours convenu avec les professionnels. La disponibilité d’une amie et l’organisation du suivi restent deux questions distinctes.
+**Exemples concrets**
+
+- Le club demande qui peut reprendre l’essai de projection.
+- Clémence rédige un long récit du malaise et le garde en brouillon.
+
+### L’incertitude sur le suivi retarde la réponse au groupe
+
+Avant d’annoncer sa place, la personne peut vouloir comprendre ce qui a été évalué et ce qui vient ensuite.
+
+**Exemples concrets**
+
+- Clémence ne sait pas ce que le service a déjà reçu du document médical.
+- Elle demande qui reprendra les informations et ce que les soignants recommandent pour les prochains jours.
+
+### Une contribution donne une autre manière de reprendre contact
+
+On peut transmettre une tâche ou répondre à une question du projet en gardant le récit de santé privé.
+
+**Exemples concrets**
+
+- Clémence transmet la fiche du film et donne le moment où elle pourra confirmer sa présence.
+- Elle répond à Baya sur le mot qu’elle a choisi pour parler du rideau.
+
+## 3 techniques pour faire circuler les bonnes informations après un malaise
+
+### 1. Clarifier le suivi avec l’équipe
+
+Vérifier à qui remettre les éléments de santé et quand poser une nouvelle question.
+
+**Exercice pratique**
+
+- Apportez le document médical au professionnel concerné.
+- Demandez ce que l’équipe a reçu et qui coordonne la suite.
+- Vérifiez le contact et le moment où vous referez le point.
+
+La personne peut comprendre le parcours de soins sans devoir en faire le récit à son entourage.
+
+### 2. Préparer un message limité à la tâche
+
+Informer le groupe de ce qu’il peut organiser maintenant.
+
+**Exercice pratique**
+
+- Repérez l’information qui manque pour le programme.
+- Dites ce que vous pouvez déjà transmettre et quand vous confirmerez la suite.
+- Gardez le compte rendu et les renseignements de santé pour les interlocuteurs choisis.
+
+Le ciné-club peut préparer la projection sans que le malaise devienne le sujet du groupe.
+
+### 3. Choisir si l’on veut parler à un proche
+
+Se laisser du temps pour un échange personnel après l’évaluation.
+
+**Exercice pratique**
+
+- Décidez si vous voulez parler maintenant, plus tard ou rester sur le film.
+- Dites à la personne ce qu’elle peut faire, comme vous tenir au courant du boîtier.
+- Si la honte continue à vous peser, choisissez un exemple à aborder avec votre équipe.
+
+Le lien peut reprendre à votre rythme et le vécu reste accessible dans le suivi.
 
 ## La fiche sort de la chemise
 
 Clémence repart en sachant quel contact prendra la suite et à quel moment elles feront le point. Elle transmet la fiche à la référente et lui dit qu’elle confirmera sa présence après ce rendez-vous. Baya lui envoie la question qu’elle a écrite sur le rideau. Clémence lui répond sur un mot qu’elle trouve bien choisi, puis demande si la référente a réussi à lire la référence de la copie. Le document de l’évaluation reste rangé dans sa chemise.
+
+---
+
+**Conclusion**
+
+Clémence sort la fiche du film pour la référente et garde le document médical dans sa chemise. Elle sait quel contact prendra la suite et quand elle confirmera sa présence. Le groupe peut compter sur une information pratique pendant qu’elle choisit le reste.

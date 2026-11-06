@@ -419,6 +419,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "alix": {
+    "id": "alix",
+    "name": "Alix",
+    "keywords": [
+      "Trouble cyclothymique",
+      "Variations d’humeur et d’énergie",
+      "Engagements révisables",
+      "Retentissement au travail",
+      "Suivi dans la durée"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "antonin": {
     "id": "antonin",
     "name": "Antonin",
@@ -575,6 +587,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "esmée": {
+    "id": "esmee",
+    "name": "Esmée",
+    "keywords": [
+      "Trichotillomanie",
+      "Arrachage peu remarqué",
+      "Envie d’arracher",
+      "Peur du regard",
+      "Soutien choisi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "gabin": {
     "id": "gabin",
     "name": "Gabin",
@@ -704,6 +728,18 @@
       "Attention aux sensations",
       "Retentissement au quotidien",
       "Suivi coordonné"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "lénaïc": {
+    "id": "lenaic",
+    "name": "Lénaïc",
+    "keywords": [
+      "Hypocondrie",
+      "Recherches répétées sur la santé",
+      "Interprétation des sensations",
+      "Demandes de réassurance",
+      "Suivi médical et reprise d’activité"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -848,6 +884,18 @@
       "Anticipation du jugement",
       "Variabilité du bégaiement",
       "Participation à la conversation"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "rébecca": {
+    "id": "rebecca",
+    "name": "Rébecca",
+    "keywords": [
+      "Trouble d’anxiété de séparation",
+      "Évitement avant un départ",
+      "Scénarios de malheur",
+      "Contacts et réassurance",
+      "Retentissement sur les études et le sommeil"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

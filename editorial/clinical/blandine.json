@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand le manque occupe la journée",
-          "text": "Dans le trouble du deuil prolongé, l’absence d’une personne morte revient avec une douleur qui prend durablement beaucoup de place dans la vie quotidienne. L’OMS décrit dans la CIM-11 le manque persistant de la personne disparue ou des pensées envahissantes à son sujet, avec une douleur émotionnelle intense. La clinicienne qui a évalué Blandine a discuté avec elle de la place que cette douleur avait prise depuis le décès, de son contexte et de ce que lui demandaient ses journées de travail."
+          "heading": "Le manque se loge dans une question ordinaire",
+          "text": "Le trouble du deuil prolongé est centré sur un manque persistant de la personne décédée ou une préoccupation durable à son sujet, avec une douleur intense et un retentissement important. Un souvenir douloureux isolé peut faire partie d’un deuil ordinaire. Blandine voudrait encore poser une question à Jeanne en voyant son écriture. Ce qui compte dans son suivi, c’est aussi la fréquence et la place que prennent ces moments dans ses journées."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Blandine est déjà suivie ; le dîner montre seulement un moment de cette histoire.\n\nAvoir envie de raconter une chose à quelqu’un qui est mort fait aussi partie du deuil ordinaire. Un objet chargé de souvenirs ou un après-midi difficile ne renseigne pas à lui seul sur l’ensemble d’une vie. Ce qui pèse ici, c’est que plusieurs heures ont passé à circuler entre le dossier, le texte du guide et un message que Blandine veut pourtant écrire. Elle pourrait raconter cette succession à sa thérapeute, jusqu’à la phrase qu’elle avait voulu corriger."
+          "heading": "Comment le manque s’invite-t-il dans des gestes ordinaires ?",
+          "points": [
+            {
+              "heading": "Le réflexe de s’adresser à la personne",
+              "text": "La question peut surgir avant même qu’on mesure qu’elle restera sans réponse.",
+              "examples": [
+                "Blandine voit une marque de crayon et voudrait demander à Jeanne ce qu’elle voulait dire.",
+                "En préparant un plat, quelqu’un prend son téléphone pour demander à son frère où acheter un ingrédient, avant de se rappeler sa mort."
+              ]
+            },
+            {
+              "heading": "L’attention revient longuement à l’absence",
+              "text": "Un rappel bref peut prendre plus de place que ce qu’on avait prévu de faire à cet instant.",
+              "examples": [
+                "Blandine revient à la partition alors que l’eau déborde.",
+                "En cherchant un numéro dans un carnet, une personne retombe sur un ancien message et laisse la démarche en attente jusqu’au soir."
+              ]
+            },
+            {
+              "heading": "Le manque change ce qu’on se sent prêt à promettre",
+              "text": "On peut tenir à un projet associé à la personne disparue tout en trouvant difficile de s’y engager comme auparavant.",
+              "examples": [
+                "Blandine veut savoir ce que le chœur pourrait faire des partitions et hésite à annoncer son retour.",
+                "Une personne souhaite transmettre une recette familiale et demande à un ami de l’aider à choisir un moment, sans s’engager à animer le repas."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Envoyer une question à la fois",
-          "text": "Blandine commence par demander à Léon ce dont le chœur aurait l’usage. Elle souhaite garder la décision sur les feuilles et ne sait toujours pas si elle a envie de chanter en groupe. Tant que ces questions restent nouées dans le même message, elle a l’impression qu’une réponse favorable à l’une l’engage sur toutes. Un premier échange peut porter sur la musique écrite, avec la liberté de reprendre les autres sujets plus tard.\n\nYannis, lui, peut l’aider à tenir le repas en cours. Il sait où est le sel et peut lui demander de quelle taille elle veut les pommes de terre. Blandine choisit de lui lire son brouillon, une fois la casserole retirée du feu. Le message sera signé d’elle. Elle tient à cette manière de s’adresser à Léon : c’est elle qui a chanté sous sa direction, et elle a aussi son avis sur les morceaux que l’ensemble ferait bien de ressortir."
+          "heading": "3 techniques pour traverser un moment où le manque prend toute la place",
+          "points": [
+            {
+              "heading": "Nommer ce qui revient",
+              "objective": "Faire une place au manque sans devoir raconter toute l’histoire.",
+              "exercise": [
+                "Repérez le détail qui a fait surgir le souvenir.",
+                "Dites ou notez ce que vous auriez aimé partager à cet instant.",
+                "Décidez si vous souhaitez garder cette phrase ou la dire à quelqu’un."
+              ],
+              "benefit": "Le souvenir peut être reconnu sans rendre obligatoire une conversation longue."
+            },
+            {
+              "heading": "Garder une seule prochaine action",
+              "objective": "Retrouver un geste praticable après l’interruption.",
+              "exercise": [
+                "Regardez ce qui demande votre attention maintenant, par exemple la casserole.",
+                "Demandez une aide précise si quelqu’un est disponible.",
+                "Revenez au brouillon seulement si vous le souhaitez."
+              ],
+              "benefit": "Une action courte peut rendre la soirée à nouveau habitable, sans mesurer l’importance du manque."
+            },
+            {
+              "heading": "En parler dans la durée",
+              "objective": "Aider un professionnel à comprendre ce qui se répète.",
+              "exercise": [
+                "Choisissez un ou deux moments qui donnent une idée de votre semaine.",
+                "Dites combien de temps l’activité est restée interrompue.",
+                "Parlez de cette gêne en suivi ou demandez un rendez-vous si elle prend durablement de la place."
+              ],
+              "benefit": "La discussion porte sur ce que le manque change réellement dans votre vie."
+            }
+          ]
         }
       ],
       "ending_title": "Une demande qui tient sur deux lignes",
@@ -52,7 +108,8 @@
         "next": "La réponse de Léon arrive pendant la dernière relecture du guide de jardins, où l’effort pour tenir les délais est devenu difficile à cacher."
       },
       "clinical_focus": "Manque persistant du proche décédé",
-      "clinical_intro": "En voyant l’écriture de Jeanne sur une partition, Blandine voudrait encore lui poser une question toute simple. L’épisode montre le manque qui, dans le trouble du deuil prolongé, revient avec une douleur intense et prend durablement de la place. Une réaction à un souvenir peut aussi appartenir au deuil ordinaire. Le suivi regarde ce que le manque change au fil des journées."
+      "clinical_intro": "En voyant l’écriture de Jeanne sur une partition, Blandine voudrait encore lui poser une question toute simple. L’épisode montre le manque qui, dans le trouble du deuil prolongé, revient avec une douleur intense et prend durablement de la place. Une réaction à un souvenir peut aussi appartenir au deuil ordinaire. Le suivi regarde ce que le manque change au fil des journées.",
+      "conclusion": "Le message de Blandine peut partir sans annoncer son retour. L’écriture de Jeanne garde son importance, mais Blandine trouve une demande à laquelle Léon peut répondre maintenant."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que cache parfois un travail livré",
-          "text": "Les difficultés liées à un deuil peuvent rester invisibles à des collègues qui voient surtout le résultat. Dans le cadre de l’évaluation d’un deuil prolongé, l’OMS invite les professionnels à examiner les effets importants sur la vie de la personne, y compris l’effort considérable qui peut être nécessaire pour maintenir ses activités."
+          "heading": "Une livraison à l’heure peut coûter beaucoup",
+          "text": "Le retentissement professionnel d’un deuil prolongé peut se voir dans l’effort nécessaire pour maintenir une activité. Un travail rendu à temps ne renseigne pas à lui seul sur les heures supplémentaires ni sur ce qui a dû être reporté pour y parvenir. Blandine le sait après deux nuits consacrées à rattraper une commande. Avec Esther, elle peut partir des chapitres réellement prêts."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Blandine, la question de l’effort s’éclaire en regardant les deux commandes ensemble. La précédente a été rendue, mais ses soirées et son sommeil ont été absorbés par le rattrapage. Cette fois, un retard menace une autre étape du travail.\n\nSa compétence de relectrice est intacte dans la phrase qu’elle vient de reprendre. Sa thérapeute peut entendre à la fois ce plaisir de travail et le coût des derniers délais. Ces éléments servent à comprendre la situation dans son ensemble. La scène ne permet aucune conclusion sur une autre personne qui manque un délai ou qui pense à un proche pendant son travail."
+          "heading": "Comment le retentissement sur le travail peut-il rester invisible ?",
+          "points": [
+            {
+              "heading": "Le fil se perd, le délai reste",
+              "text": "Reprendre une page après une longue interruption peut demander de retrouver ce qu’on vérifiait avant de continuer.",
+              "examples": [
+                "Blandine doit revenir aux mêmes noms après que son attention est repartie vers Jeanne.",
+                "Une personne relit un paragraphe plusieurs fois sans parvenir à reprendre la comparaison commencée."
+              ]
+            },
+            {
+              "heading": "Le rattrapage déborde sur le reste",
+              "text": "Compenser les interruptions peut déplacer le coût sur le sommeil ou sur les engagements hors du travail.",
+              "examples": [
+                "Blandine a terminé la commande précédente en travaillant deux nuits.",
+                "Quelqu’un décale une course et annule un dîner pour finir le dossier qui semblait avancer normalement."
+              ]
+            },
+            {
+              "heading": "L’incertitude concerne parfois une partie du travail",
+              "text": "Distinguer le travail prêt de ce qui réclame encore un contrôle permet de négocier un délai plus précis.",
+              "examples": [
+                "Blandine peut envoyer le début du guide et fixer une heure pour refaire le point sur les noms.",
+                "Une collègue remet les tableaux vérifiés et prévient qu’elle ne promet pas encore l’annexe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Proposer une remise dont on connaît les limites",
-          "text": "La maquettiste a besoin d’un ordre de livraison sur lequel s’appuyer. Blandine vérifie avec Esther que le début peut partir seul. Elle annonce les deux chapitres relus et propose le lendemain matin pour le dernier, à condition que les questions sur les noms des serres soient réglées ensemble cet après-midi. Esther doit revoir son organisation ; elle peut dire que tel encadré lui est nécessaire avant le reste. Leur accord porte sur le document. Blandine choisit ce qu’elle explique de sa situation personnelle.\n\nIl reste deux réponses à donner à des personnes qui n’attendent pas la même chose. Pour Léon, un rendez-vous peut être bref, après le repas familial prévu samedi, et avoir lieu ailleurs que dans la salle du chœur. Pour la thérapeute, Blandine met de côté deux faits à raconter : le temps passé à revenir au souvenir du banc et la fatigue accumulée autour du guide. Un collègue peut régler un horaire ; le suivi offre un autre lieu pour examiner ce qui se répète."
+          "heading": "3 techniques pour rendre le coût du travail plus visible",
+          "points": [
+            {
+              "heading": "Compter ce qui peut partir",
+              "objective": "Donner une réponse fondée sur l’avancement réel.",
+              "exercise": [
+                "Écartez un instant les autres fils de conversation.",
+                "Relevez les parties dont vous êtes sûr.",
+                "Rappelez avec une proposition de remise partielle et une heure de point."
+              ],
+              "benefit": "Le travail peut avancer sans que tout le volume repose sur une promesse incertaine."
+            },
+            {
+              "heading": "Prévoir une reprise identifiable",
+              "objective": "Retrouver le fil sans recommencer toute la relecture.",
+              "exercise": [
+                "Laissez un repère à l’endroit exact où vous vous arrêtez.",
+                "Notez le dernier contrôle terminé.",
+                "Reprenez par ce seul contrôle avant de rouvrir les autres demandes."
+              ],
+              "benefit": "Le repère peut limiter le temps passé à reconstruire la tâche."
+            },
+            {
+              "heading": "Apporter le coût réel au suivi",
+              "objective": "Faire compter l’effort qui ne se voit pas dans le résultat final.",
+              "exercise": [
+                "Reprenez une livraison récente.",
+                "Précisez les heures de rattrapage et ce qu’elles ont déplacé.",
+                "Voyez avec votre professionnel quels ajustements seraient réalistes si le coût se répète."
+              ],
+              "benefit": "Le suivi peut s’appuyer sur la semaine vécue en plus du travail remis."
+            }
+          ]
         }
       ],
       "ending_title": "Le début du guide part à midi",
@@ -97,7 +210,8 @@
         "next": "Samedi, le repas pour l’anniversaire de Jeanne soulève la question de ce que Blandine souhaite partager des partitions."
       },
       "clinical_focus": "Retentissement professionnel du deuil",
-      "clinical_intro": "Blandine peut rendre un texte relu à l’heure et avoir passé deux nuits à compenser les moments où son attention revenait à Jeanne. Dans l’évaluation du trouble du deuil prolongé, l’effort nécessaire pour maintenir le travail compte aussi. Quand Esther appelle, Blandine essaie de partir de ce qu’elle peut livrer au lieu de promettre tout le volume."
+      "clinical_intro": "Blandine peut rendre un texte relu à l’heure et avoir passé deux nuits à compenser les moments où son attention revenait à Jeanne. Dans l’évaluation du trouble du deuil prolongé, l’effort nécessaire pour maintenir le travail compte aussi. Quand Esther appelle, Blandine essaie de partir de ce qu’elle peut livrer au lieu de promettre tout le volume.",
+      "conclusion": "Le début du guide part et le reste a désormais une heure de discussion. Blandine a communiqué assez pour que la maquettiste s’organise. Les nuits perdues gardent leur place dans ce qu’elle pourra aborder en suivi."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le calendrier ne suffit pas",
-          "text": "Un rituel de souvenir peut réveiller une émotion vive et avoir une place ordinaire dans le deuil. L’OMS souligne que les coutumes, les dates marquées et les façons de montrer son chagrin varient selon les familles et leurs contextes sociaux, culturels ou religieux. Pour la CIM-11, six mois constituent un repère minimal : dans certains contextes, une durée bien plus longue reste attendue. Le temps écoulé ne suffit jamais. L’évaluation prend aussi en compte la persistance, l’intensité, le contexte de la personne et les effets sur sa vie.\n\nMireille ne dispose que d’un moment à table et du souvenir des repas précédents."
+          "heading": "Les rites donnent un contexte aux émotions",
+          "text": "Les manières de vivre et de commémorer un deuil varient selon les familles, les cultures et les pratiques religieuses. Des larmes au cours d’un anniversaire peuvent s’inscrire dans un rituel ordinaire. Pour évaluer un trouble du deuil prolongé, les professionnels examinent la durée, l’intensité et les conséquences de la souffrance en tenant compte de ce contexte. Le déjeuner de Blandine montre ce que le rituel signifie pour elle, ce jour-là."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle peut apprendre ce que Blandine souhaite pour cette journée. Les larmes qui surviennent en voyant l’écriture de Jeanne ne permettent pas de tirer une conclusion sur l’état de Blandine. Elles peuvent coexister avec le plaisir d’entendre le cousin raconter la dispute des deux sœurs à propos de la meilleure variété de prunes."
+          "heading": "Comment le contexte donne-t-il un autre sens à une réaction de deuil ?",
+          "points": [
+            {
+              "heading": "Une date peut réunir les souvenirs",
+              "text": "Une commémoration donne parfois une place explicite à une émotion qui surgirait autrement à l’improviste.",
+              "examples": [
+                "La carte au nom de Jeanne reste près de la tarte le jour de son anniversaire.",
+                "Une famille prépare un plat de la personne disparue et accepte que quelqu’un s’arrête pour pleurer en le servant."
+              ]
+            },
+            {
+              "heading": "Un même geste peut avoir plusieurs sens",
+              "text": "Se rassembler, apporter un objet ou prendre une photo peut répondre à des usages différents selon les personnes.",
+              "examples": [
+                "Blandine apporte le dossier pour retrouver à qui appartient un feuillet ; elle ne souhaite pas que son image circule.",
+                "Une personne veut participer à un repas du souvenir et préfère ne pas figurer sur la photo envoyée au reste de la famille."
+              ]
+            },
+            {
+              "heading": "Les proches et la personne ne regardent pas les mêmes périodes",
+              "text": "Un proche peut voir une émotion un jour particulier, alors que la personne sait ce qu’elle traverse les jours ordinaires.",
+              "examples": [
+                "Le cousin réagit au temps écoulé en voyant Blandine à table.",
+                "Une personne raconte à son médecin que la cérémonie lui fait du bien mais que la plupart de ses journées restent difficiles à organiser."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le rituel et choisir ce qui circule",
-          "text": "La famille a un usage commun pour les cartes et les recettes. Il reste à décider ce que Blandine veut confier au groupe cette fois. Elle peut laisser photographier la tarte et raconter l’histoire des fruits, puis remettre la partition dans son cabas. Mireille peut envoyer ce qu’elles ont choisi ensemble. Si elle veut connaître l’origine du feuillet, elle peut le regarder avec Blandine après le repas, quand la table est rangée et que les autres invités n’attendent plus une explication.\n\nBlandine sait que ce déjeuner lui coûte de l’énergie ; elle veut encore entendre l’histoire des prunes. Elle peut dire à quelle heure elle souhaite partir et demander qu’on lui garde une part pour le soir. C’est un choix d’organisation pour la journée. Si elle a envie de reparler ensuite du poids de la semaine avec sa thérapeute, le repas lui fournit un exemple, avec ce qu’il avait de difficile et ce qui lui a fait du bien."
+          "heading": "3 techniques pour parler d’un deuil dans son contexte",
+          "points": [
+            {
+              "heading": "Dire le sens du rituel",
+              "objective": "Faire comprendre pourquoi une date ou un geste compte.",
+              "exercise": [
+                "Nommez le moment dont vous parlez.",
+                "Expliquez ce que vous souhaitez y faire.",
+                "Précisez ce que vous préférez laisser de côté."
+              ],
+              "benefit": "La discussion part d’un usage qui vous appartient plutôt que d’une lecture extérieure de vos larmes."
+            },
+            {
+              "heading": "Choisir ce qui peut circuler",
+              "objective": "Garder la main sur les traces laissées par une commémoration.",
+              "exercise": [
+                "Demandez ce qui sera photographié et qui recevra l’image.",
+                "Séparez les objets qui peuvent figurer de ceux que vous souhaitez garder privés.",
+                "Confirmez l’accord une fois le cadrage choisi."
+              ],
+              "benefit": "Une photo du rituel peut exister sans rendre publics tous les souvenirs apportés."
+            },
+            {
+              "heading": "Comparer un jour particulier et une semaine ordinaire",
+              "objective": "Aider le suivi à replacer l’émotion dans la durée.",
+              "exercise": [
+                "Décrivez ce qui est attendu autour de la date.",
+                "Parlez aussi d’un jour sans rituel et de ce qu’il vous a permis ou coûté.",
+                "Demandez un avis professionnel si la souffrance reste envahissante ou gêne le quotidien."
+              ],
+              "benefit": "Les professionnels peuvent apprécier l’ensemble plutôt que se prononcer sur la force d’une réaction au repas."
+            }
+          ]
         }
       ],
       "ending_title": "La photo de la tarte",
@@ -142,7 +312,8 @@
         "next": "À l’annexe, Léon et Blandine examinent ce que le chœur pourrait tirer des annotations et ce qu’il peut attendre de leur rendez-vous."
       },
       "clinical_focus": "Deuil et contexte culturel",
-      "clinical_intro": "Pour l’anniversaire de Jeanne, les larmes de Blandine surgissent au milieu d’un rituel de souvenir. La CIM-11 situe les réactions de deuil dans leur contexte social, culturel et familial. Le cousin de Blandine s’interroge sur le temps écoulé. L’évaluation d’un trouble du deuil prolongé associe durée, intensité du manque et effets dans les activités de la personne."
+      "clinical_intro": "Pour l’anniversaire de Jeanne, les larmes de Blandine surgissent au milieu d’un rituel de souvenir. La CIM-11 situe les réactions de deuil dans leur contexte social, culturel et familial. Le cousin de Blandine s’interroge sur le temps écoulé. L’évaluation d’un trouble du deuil prolongé associe durée, intensité du manque et effets dans les activités de la personne.",
+      "conclusion": "La carte de Jeanne et le feuillet destiné à sa mère n’ont pas la même place dans ce déjeuner. Blandine peut décider de ce qu’elle transmet. L’émotion de ce jour a son contexte ; les effets durables du manque se discutent au fil du suivi."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre l’ambivalence des souvenirs",
-          "text": "Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier."
+          "heading": "Une envie et une réticence peuvent coexister",
+          "text": "Dans un deuil, un même souvenir peut donner du plaisir et rappeler vivement une absence. Cette ambivalence ne renseigne pas à elle seule sur la présence d’un trouble. Chez Blandine, qui est suivie pour un deuil prolongé, retrouver un détail musical avec Léon lui plaît alors que l’idée de laisser les feuilles ailleurs la saisit. Les deux réactions éclairent des décisions distinctes."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.\n\nUn échange heureux ou une discussion précise sur la musique ne fait pas disparaître les autres moments où le manque prend toute la place. Blandine conserve son intérêt pour le morceau et peut encore trouver très difficile de remettre la feuille qu’elle tient. La perspective d’un don réveille quelque chose de différent de leur discussion sur l’interprétation. Léon entend sa question et peut y répondre sans s’autoriser à en déduire où elle en est de son deuil."
+          "heading": "Comment deux réactions opposées se présentent-elles dans une même rencontre ?",
+          "points": [
+            {
+              "heading": "Le souvenir remet quelque chose en commun",
+              "text": "Une discussion peut redonner de la place à une expérience appréciée.",
+              "examples": [
+                "Blandine aime chercher qui chantait à la mesure neuf.",
+                "Deux amis retrouvent l’ordre des chansons d’un ancien concert et rient d’un faux départ."
+              ]
+            },
+            {
+              "heading": "Le projet rend une séparation concrète",
+              "text": "Le moment où un objet pourrait changer de place peut réveiller une douleur que l’échange musical n’occupait pas jusque-là.",
+              "examples": [
+                "Blandine rapproche la chemise quand Léon parle du tiroir des archives.",
+                "Quelqu’un prend plaisir à décrire une photo puis hésite au moment où on lui propose de laisser l’original."
+              ]
+            },
+            {
+              "heading": "L’hésitation peut informer le choix",
+              "text": "Sentir à la fois l’attrait et le coût d’une proposition peut conduire à choisir une étape intermédiaire.",
+              "examples": [
+                "Blandine demande à entendre une lecture avant de décider du don.",
+                "Une personne accepte de montrer un carnet à deux proches et reprend la question du prêt un autre jour."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander comment les feuilles serviront",
-          "text": "Léon explique que les chanteurs ont les éditions dont ils ont besoin. Ce qu’il aimerait conserver, ce sont les traces de leur propre travail : les dates et les indications de pupitre. L’armoire est ouverte au chef et à la personne qui tient les archives. Une feuille qui en sort pour une répétition y revient ensuite. Blandine lui demande si les notes peuvent être lues par deux chanteurs à la table de l’annexe avant de décider de leur place. Léon peut organiser cette lecture avec elle un autre jour.\n\nL’échange prend plus de temps que prévu sur Le Pont. Blandine préfère arrêter au bout des vingt minutes et reprendre Les Fenêtres plus tard. Ils peuvent prendre une décision sur l’usage des deux feuilles sans engager le reste du dossier. Léon continuera de préparer les répétitions avec ses exemplaires habituels. Rien ne dépend d’un don rapide, et elle sait à présent où se trouveraient les originaux si elle choisissait de les remettre."
+          "heading": "3 techniques pour faire une place à deux réactions",
+          "points": [
+            {
+              "heading": "Mettre deux phrases côte à côte",
+              "objective": "Décrire l’intérêt et la difficulté sans devoir les départager.",
+              "exercise": [
+                "Dites ce que vous aimeriez dans la proposition.",
+                "Nommez ce qui vous retient si vous voulez le partager.",
+                "Demandez qu’on écoute les deux avant de proposer la suite."
+              ],
+              "benefit": "La personne en face peut ajuster sa demande sans effacer le plaisir ni la réserve."
+            },
+            {
+              "heading": "Définir une étape réversible",
+              "objective": "Continuer un échange sans trancher le sort d’un souvenir.",
+              "exercise": [
+                "Choisissez une chose possible aujourd’hui, par exemple lire ensemble.",
+                "Décidez à l’avance ce qui repart avec vous.",
+                "Laissez la décision de transmettre pour un autre moment."
+              ],
+              "benefit": "Une étape limitée donne des informations utiles sans engager tout le projet."
+            },
+            {
+              "heading": "Vérifier l’usage envisagé",
+              "objective": "Transformer l’image vague d’une séparation en une question précise.",
+              "exercise": [
+                "Demandez où l’objet irait et qui pourrait le consulter.",
+                "Notez la réponse dans des mots que vous pouvez reprendre.",
+                "Discutez en suivi si ce type de décision vous occupe longtemps après la rencontre."
+              ],
+              "benefit": "Vous pouvez réfléchir à des conditions réelles et chercher de l’aide pour ce qui reste très douloureux."
+            }
+          ]
         }
       ],
       "ending_title": "La chemise jaune repart avec elle",
@@ -187,7 +414,8 @@
         "next": "En consultation, elle veut parler de la fatigue du travail et du contraste entre l’annexe et la salle du chœur."
       },
       "clinical_focus": "Ambivalence dans le deuil",
-      "clinical_intro": "Blandine aime chercher avec Léon qui chantait à la mesure neuf et se crispe quand elle imagine la feuille dans un autre tiroir. La même rencontre peut porter de l’affection, du plaisir et une douleur vive. Dans un deuil prolongé, ces instants donnent des repères différents sur le lien au souvenir et ce que la perte prend encore dans la vie."
+      "clinical_intro": "Blandine aime chercher avec Léon qui chantait à la mesure neuf et se crispe quand elle imagine la feuille dans un autre tiroir. La même rencontre peut porter de l’affection, du plaisir et une douleur vive. Dans un deuil prolongé, ces instants donnent des repères différents sur le lien au souvenir et ce que la perte prend encore dans la vie.",
+      "conclusion": "La mesure neuf redevient une discussion possible, et la chemise rentre avec Blandine. Elle repart avec une étape à examiner. Elle peut encore aimer l’idée de la lecture tout en hésitant sur le tiroir."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un suivi peut partir de ce qui compte encore",
-          "text": "Une psychothérapie ciblée sur un deuil persistant et très invalidant peut aider certaines personnes. Dans un essai randomisé, Shear et ses collègues ont observé davantage d’améliorations marquées chez les personnes qui recevaient une psychothérapie ciblée en plus des consultations prévues dans les deux groupes comparés. Les deux groupes recevaient un placebo. L’étude portait sur des adultes répondant à des critères de recherche de « deuil compliqué », établis avant le manuel actuel de la CIM-11. Les résultats ne prédisent pas ce qu’éprouvera une personne en particulier.\n\nLes thérapeutes de l’essai abordaient entre autres le vécu de la perte et les buts personnels."
+          "heading": "Partir d’une vie que la personne veut retrouver",
+          "text": "L’accompagnement d’un deuil prolongé peut aborder la douleur liée à la perte et les buts que la personne souhaite retrouver dans sa vie. Des recherches ont évalué des psychothérapies ciblées chez des adultes suivis pour un deuil compliqué ; ces résultats ne prédisent pas le chemin d’une personne. Blandine et sa thérapeute examinent le coût des activités courantes et ce que Blandine aimerait à nouveau pouvoir choisir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la fiction, Blandine et sa thérapeute cherchent quels changements auraient du sens pour elle : retrouver du temps après le travail et avoir plusieurs possibilités pour ses déplacements, même quand elle pense à Jeanne. Elle parle aussi du chœur, auquel elle reste libre de reprendre part à sa manière. Elles discutent de l’accompagnement qui lui convient et conviennent de refaire le point."
+          "heading": "Comment l’accompagnement part-il de ce que la personne vit ?",
+          "points": [
+            {
+              "heading": "Le résultat et le coût sont examinés ensemble",
+              "text": "Une activité accomplie peut masquer le renoncement à plusieurs autres.",
+              "examples": [
+                "Blandine a fini une commande mais a repoussé des courses et des invitations.",
+                "Une personne tient sa permanence associative et explique en séance qu’elle lui prend maintenant tout le reste de la journée."
+              ]
+            },
+            {
+              "heading": "Un objectif peut être très ordinaire",
+              "text": "Une priorité utile est liée à ce que la personne voudrait faire, même si elle paraît modeste.",
+              "examples": [
+                "Blandine aimerait choisir son trajet selon l’heure du bus.",
+                "Quelqu’un souhaite disposer de nouveau d’un samedi pour jardiner une heure avec une amie."
+              ]
+            },
+            {
+              "heading": "Le soin et les décisions de vie gardent chacun leur rythme",
+              "text": "La personne peut parler d’un projet en séance et choisir ailleurs quand ou comment y prendre part.",
+              "examples": [
+                "Blandine discute du chœur avec sa thérapeute et répond ensuite à Léon sur un créneau d’essai.",
+                "Une personne apporte en suivi la question d’un repas familial et confirme sa présence seulement quand elle connaît le cadre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder les choix du chœur à leur place",
-          "text": "Blandine veut pouvoir parler en séance des jours où elle passe devant la place et de ceux où elle fait un détour. Pour la lecture des deux partitions, sa question à Léon porte sur les horaires, le lieu et les personnes invitées. Il ne lui demande aucun compte rendu de consultation. Ils peuvent convenir que l’essai reste un échange sur la musique, et qu’elle puisse l’annuler ou déplacer la rencontre si le lieu lui devient trop difficile.\n\nElle choisit d’écrire elle-même à Léon. Si la lecture de jeudi ne se fait pas, il pourra lui proposer à nouveau l’annexe selon les disponibilités des chanteurs. Avec la thérapeute, elle fixe le rendez-vous de suivi. La feuille à deux colonnes l’aide à raconter des faits qu’elle sépare mal sur le moment : le souvenir agréable de l’écharpe et les journées de travail dont elle met du temps à se remettre."
+          "heading": "3 techniques pour donner une direction concrète à un suivi du deuil",
+          "points": [
+            {
+              "heading": "Décrire ce que l’effort a déplacé",
+              "objective": "Apporter au suivi une image plus complète de la semaine.",
+              "exercise": [
+                "Choisissez une activité maintenue.",
+                "Dites ce qui a dû attendre ou être annulé pour y arriver.",
+                "Signalez la priorité que vous voudriez retrouver."
+              ],
+              "benefit": "L’objectif du suivi se rattache à ce qui changerait votre quotidien."
+            },
+            {
+              "heading": "Formuler une liberté plutôt qu’un résultat",
+              "objective": "Définir ce que vous aimeriez pouvoir choisir.",
+              "exercise": [
+                "Nommez une décision aujourd’hui très contrainte.",
+                "Dites en quoi elle compterait si vous aviez plus de marge.",
+                "Demandez au professionnel comment travailler ce point à un rythme acceptable."
+              ],
+              "benefit": "Le suivi peut s’adapter à une préférence personnelle sans poser un objectif unique pour tout le monde."
+            },
+            {
+              "heading": "Séparer un arrangement ordinaire du soin",
+              "objective": "Garder la main sur les engagements proposés par l’entourage.",
+              "exercise": [
+                "Demandez au proche ce qui est possible sans promesse durable.",
+                "Convenez de la façon de reporter si besoin.",
+                "Faites le point en séance sur ce que la situation vous a demandé, que vous y soyez allé ou non."
+              ],
+              "benefit": "L’expérience peut nourrir le suivi sans devenir une épreuve à réussir."
+            }
+          ]
         }
       ],
       "ending_title": "L’heure du bus dans la marge",
@@ -233,7 +517,8 @@
         "next": "En cuisinant avec Yannis, elle s’aperçoit qu’elle peut rire, puis se sentir aussitôt mal d’avoir ri."
       },
       "clinical_focus": "Accompagnement du deuil persistant",
-      "clinical_intro": "En séance, Blandine décrit une commande achevée et les courses et invitations qu’elle a repoussées pour y arriver. La recherche sur le deuil compliqué a étudié des psychothérapies ciblées qui abordent le vécu de la perte et des buts personnels. Ici, le rendez-vous part de ce que Blandine voudrait retrouver, comme pouvoir choisir son trajet ou disposer de son samedi."
+      "clinical_intro": "En séance, Blandine décrit une commande achevée et les courses et invitations qu’elle a repoussées pour y arriver. La recherche sur le deuil compliqué a étudié des psychothérapies ciblées qui abordent le vécu de la perte et des buts personnels. Ici, le rendez-vous part de ce que Blandine voudrait retrouver, comme pouvoir choisir son trajet ou disposer de son samedi.",
+      "conclusion": "Blandine quitte la séance avec une envie formulée par elle-même : pouvoir décider de son trajet. Le créneau de Léon et la poêle prêtée à Yannis sont deux choix ordinaires qu’elle peut encore ajuster."
     },
     {
       "number": 6,
@@ -250,18 +535,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le chagrin et le plaisir peuvent se côtoyer",
-          "text": "Les émotions du deuil peuvent changer dans la même journée, parfois de façon inattendue. Le rire de Blandine appartient à la conversation avec Yannis. L’idée qu’elle aurait dû rester triste lui vient juste après. Elle tient à Jeanne même durant ces quelques secondes où elle regarde une galette voler. Elle peut trouver étrange d’avoir éprouvé du plaisir et avoir envie de rester malgré tout auprès de son ami.\n\nLa culpabilité peut surgir dans le deuil, dans des situations très différentes."
+          "heading": "Rire et se demander si on en a le droit",
+          "text": "Dans un deuil, la culpabilité peut surgir après un moment de plaisir, comme si le rire était incompatible avec l’attachement à la personne décédée. Une émotion agréable ne suffit pas à renseigner sur l’état clinique, pas plus que la culpabilité ne caractérise à elle seule un trouble du deuil prolongé. Dans la cuisine, Blandine peut rire avec Yannis et être aussitôt ramenée à l’absence de Jeanne."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Blandine, c’est la répétition de journées absorbées par le manque qui est importante dans son suivi. Le rire et la peine de ce samedi ne décident pas à eux seuls du cours de ce suivi. Elle peut raconter ce qui l’a fait rire et dire aussi ce que lui coûte l’idée que le plaisir serait déplacé."
+          "heading": "Comment la culpabilité peut-elle suivre un moment de plaisir ?",
+          "points": [
+            {
+              "heading": "Le rire vient avant la question",
+              "text": "Le plaisir peut arriver sans intention et être remis en cause juste après.",
+              "examples": [
+                "Blandine rit quand la galette tombe, puis se demande si elle aurait dû se retenir.",
+                "Quelqu’un sourit au milieu d’une promenade, puis se reproche d’avoir profité de la sortie."
+              ]
+            },
+            {
+              "heading": "La pensée transforme le plaisir en jugement sur le lien",
+              "text": "Une phrase intérieure peut donner au rire une signification qu’il n’avait pas au moment de l’échange.",
+              "examples": [
+                "Après la galette, Blandine s’interroge sur ce que ce rire dit de sa relation à Jeanne.",
+                "Une personne refuse de raconter un bon moment à sa famille de peur qu’on croie qu’elle a oublié le proche décédé."
+              ]
+            },
+            {
+              "heading": "La culpabilité peut interrompre l’élan sans l’effacer",
+              "text": "Il est possible de vouloir rester dans l’activité tout en ayant besoin de temps.",
+              "examples": [
+                "Blandine s’assied un instant et choisit de continuer à cuisiner.",
+                "Une personne pose un jeu qu’elle aimait, prend l’air, puis rejoint la partie si elle en a envie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place à la conversation en cours",
-          "text": "Yannis veut apprendre à faire des galettes dont il pourra s’occuper seul lors de la fête. Blandine préfère savoir si l’une est assez cuite pour qu’ils mangent. Ils peuvent reprendre la recette avec ces deux questions et parler de Jeanne si Blandine en a envie. Il n’est pas nécessaire que Yannis ramène la conversation au chœur. Leur samedi tient aussi au souci qu’a l’un de nettoyer le mur et à la recette que l’autre connaît par cœur.\n\nBlandine peut demander une pause et repartir ensuite sur la cuisine, ou accepter que l’après-midi change. Aujourd’hui, elle voudrait lui dire la phrase sur le beurre. Elle choisit ensuite de demander des nouvelles de la fête et décide qu’elle ne participera pas au stand. Yannis devra s’organiser avec les autres parents. Blandine peut garder ce repas comme un moment partagé, sans en faire un engagement pour la semaine."
+          "heading": "3 techniques pour laisser une place au plaisir pendant le deuil",
+          "points": [
+            {
+              "heading": "Distinguer le moment du reproche",
+              "objective": "Repérer ce qui a été agréable et la pensée arrivée ensuite.",
+              "exercise": [
+                "Décrivez le moment de plaisir en une phrase.",
+                "Nommez la question ou le reproche qui a suivi.",
+                "Laissez les deux phrases exister sans devoir conclure sur votre attachement."
+              ],
+              "benefit": "Mettre les deux temps à part peut aider à parler de la culpabilité plutôt qu’à faire du plaisir une faute."
+            },
+            {
+              "heading": "Choisir une petite reprise",
+              "objective": "Retrouver ce qui vous intéressait dans l’activité, à votre rythme.",
+              "exercise": [
+                "Dites si vous préférez rester, faire une pause ou partir.",
+                "Si vous restez, choisissez un geste simple, comme chercher la spatule.",
+                "Décidez ensuite librement si vous voulez continuer."
+              ],
+              "benefit": "La suite dépend de ce que vous voulez faire maintenant, et non d’une obligation de retrouver le même rire."
+            },
+            {
+              "heading": "En parler sans demander un verdict",
+              "objective": "Trouver quelqu’un qui peut entendre le plaisir et la peine ensemble.",
+              "exercise": [
+                "Choisissez une personne à qui vous voulez en dire un peu.",
+                "Demandez de vous écouter sans évaluer si vous allez mieux.",
+                "Abordez le reproche en suivi s’il revient au point d’écarter ce qui compte pour vous."
+              ],
+              "benefit": "La discussion peut porter sur les effets de la culpabilité plutôt que sur la fidélité au souvenir."
+            }
+          ]
         }
       ],
       "ending_title": "La recette sans la partie acrobatique",
@@ -278,7 +619,8 @@
         "next": "Jeudi, Blandine arrive au bout de la rue de la salle. Le trajet lui coûte davantage que le rendez-vous de l’annexe."
       },
       "clinical_focus": "Culpabilité face au plaisir",
-      "clinical_intro": "Une galette tombe par terre et Blandine rit avec Yannis. Puis elle se demande si ce plaisir était déplacé alors que Jeanne lui manque. Cette culpabilité peut survenir dans le deuil. Pour comprendre le trouble du deuil prolongé, on observe la répétition des journées envahies par le manque tout en laissant une place aux moments de rire et de présence aux autres."
+      "clinical_intro": "Une galette tombe par terre et Blandine rit avec Yannis. Puis elle se demande si ce plaisir était déplacé alors que Jeanne lui manque. Cette culpabilité peut survenir dans le deuil. Pour comprendre le trouble du deuil prolongé, on observe la répétition des journées envahies par le manque tout en laissant une place aux moments de rire et de présence aux autres.",
+      "conclusion": "Blandine continue avec la spatule et garde deux galettes. Le rire appartient à son samedi avec Yannis. L’incertitude du prochain jeudi et le manque de Jeanne ont encore leur place."
     },
     {
       "number": 7,
@@ -295,18 +637,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’un lieu peut raviver",
-          "text": "Un lieu lié à quelqu’un qui est mort peut raviver le manque au moment où l’on s’apprête à y entrer. Les CDDR de l’OMS indiquent que, dans le trouble du deuil prolongé, une forte préoccupation pour des souvenirs et l’évitement de certains rappels peuvent coexister."
+          "heading": "Contourner un lieu qui rappelle l’absence",
+          "text": "Dans un trouble du deuil prolongé, on peut penser très souvent à la personne décédée et éviter certains lieux ou moments qui rappellent sa mort ou son absence. Le détour peut donner de la marge sur le moment et écarter aussi une activité désirée lorsqu’il se répète. Blandine a préparé une lecture avec le chœur ; la vue de la salle rend cette rencontre trop difficile ce jeudi."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Blandine, les annotations de Jeanne ont un intérêt qui la porte jusqu’à la place. Le bruit de la chaise change la situation. Elle se retrouve à désirer une présence dont elle connaît l’absence.\n\nDeux lieux peuvent appeler des réactions différentes. À l’annexe, elle s’était assise devant un tableau avec Léon. Ici, la salle a gardé une disposition qu’elle associe au jeudi avec sa sœur. Blandine pourra en parler en consultation si elle veut comprendre ce qui lui coûte le plus. Le retour en bus lui montre aussi que le détour peut déplacer un problème sur une autre course, même si elle l’a choisi pour rentrer ce soir."
+          "heading": "Comment l’évitement peut-il modifier un projet qui compte ?",
+          "points": [
+            {
+              "heading": "La décision change à l’approche du lieu",
+              "text": "Il est possible de vouloir une rencontre en la préparant et de se sentir autrement face au rappel concret.",
+              "examples": [
+                "Blandine est arrivée au bout de la rue avant de demander le report.",
+                "Quelqu’un prévoit de voir une amie et choisit un autre chemin au moment de passer devant un lieu de souvenir."
+              ]
+            },
+            {
+              "heading": "Le détour garde de la distance au prix d’une rencontre",
+              "text": "Éviter un rappel peut momentanément soulager et empêcher un échange que la personne voulait avoir.",
+              "examples": [
+                "Blandine reprend le bus du boulevard avec les deux partitions dans son sac.",
+                "Une personne change régulièrement de trajet et ne croise plus les voisins avec lesquels elle aimait parler."
+              ]
+            },
+            {
+              "heading": "Le lieu et l’activité peuvent être séparés",
+              "text": "Ce qui est difficile dans un cadre peut rester possible dans un autre.",
+              "examples": [
+                "Blandine accepte de parler des annotations à l’annexe plutôt qu’à la salle du chœur.",
+                "Quelqu’un préfère écouter un morceau chez un ami avant de décider s’il veut retourner au lieu du concert."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévenir et laisser retomber la pression du rendez-vous",
-          "text": "Il suffit à Léon de savoir que la lecture ne se fera pas ce soir. Il peut préparer sa répétition, puis proposer un créneau à l’annexe quand il en connaît les horaires. Blandine garde la possibilité de les refuser ou de reprendre la question par écrit. Le retour vers la salle reste distinct de l’accord sur les partitions. Si elle veut savoir ce qui a pesé sur son trajet, elle pourra le reprendre avec sa thérapeute, sans demander à Léon de l’accompagner dans un exercice de soin.\n\nLe report a tout de même des conséquences pratiques. Des gens se sont déplacés avant l’heure, et Blandine a laissé sa course. Elle remercie Léon d’avoir relayé le changement. Elle vérifie les horaires du lendemain pour la pharmacie près de son bureau. La rencontre suivante pourra être fixée au moment où Alice comptait déjà passer à l’annexe."
+          "heading": "3 techniques pour garder un choix lorsque le détour s’impose",
+          "points": [
+            {
+              "heading": "Prévoir un report explicite",
+              "objective": "Pouvoir changer de décision sans devoir tout expliquer sur place.",
+              "exercise": [
+                "Convenez à l’avance d’un moyen de prévenir.",
+                "Dites simplement si vous ne venez pas et si vous souhaitez reparler du projet.",
+                "Laissez les autres reprendre leur activité."
+              ],
+              "benefit": "L’arrangement limite la pression et permet aux personnes présentes de s’organiser."
+            },
+            {
+              "heading": "Sauver une partie du projet",
+              "objective": "Séparer l’échange recherché du lieu devenu trop difficile.",
+              "exercise": [
+                "Nommez ce qui vous intéressait, comme relire une annotation.",
+                "Demandez si cette partie est possible ailleurs.",
+                "Précisez les conditions avant d’accepter."
+              ],
+              "benefit": "Vous gardez une option concrète même quand le premier cadre ne convient pas."
+            },
+            {
+              "heading": "Apporter un détour récurrent au suivi",
+              "objective": "Examiner son coût et les choix qu’on voudrait retrouver.",
+              "exercise": [
+                "Notez un trajet ou un rendez-vous écarté.",
+                "Décrivez le rappel qui pesait et ce que vous avez manqué.",
+                "Discutez des possibilités avec le professionnel qui vous suit, à votre rythme."
+              ],
+              "benefit": "Le travail peut porter sur la liberté souhaitée, avec un soutien ajusté."
+            }
+          ]
         }
       ],
       "ending_title": "Le bus du boulevard",
@@ -323,7 +721,8 @@
         "next": "À l’annexe, elle laisse les autres comprendre deux annotations et découvre ce qu’elle ne veut pas rendre public."
       },
       "clinical_focus": "Évitement des rappels du deuil",
-      "clinical_intro": "Au bout de la rue, Blandine voit la salle et le manque de Jeanne la pousse à reporter la lecture qu’elle avait choisie. Dans un trouble du deuil prolongé, une préoccupation intense pour le proche et l’évitement de certains rappels peuvent coexister. La scène donne un exemple du coût du détour quand il devient habituel et écarte des rencontres qui comptent."
+      "clinical_intro": "Au bout de la rue, Blandine voit la salle et le manque de Jeanne la pousse à reporter la lecture qu’elle avait choisie. Dans un trouble du deuil prolongé, une préoccupation intense pour le proche et l’évitement de certains rappels peuvent coexister. La scène donne un exemple du coût du détour quand il devient habituel et écarte des rencontres qui comptent.",
+      "conclusion": "Blandine ne franchit pas la place et tient encore à la lecture. Le report lui permet de préciser ce qu’elle veut faire à l’annexe. Les détours qui écartent des rencontres resteront un sujet à suivre."
     },
     {
       "number": 8,
@@ -340,18 +739,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Observer la place prise par les souvenirs matériels",
-          "text": "Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble."
+          "heading": "La place qu’un objet prend dans une journée",
+          "text": "Un objet du proche décédé peut porter un souvenir auquel on tient et occuper, certains jours, une place qui change ce qu’on arrive à faire. Dans l’évaluation d’un deuil prolongé, conserver un objet ne dit rien à lui seul ; on examine aussi l’effet durable des préoccupations et de la douleur. Blandine tient à garder Les Saules pour elle et accepte de discuter de l’usage de deux autres feuilles."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.\n\nCe choix lui demande du temps. La partition personnelle peut rester telle quelle et Le Pont servir à la prochaine répétition par l’intermédiaire d’une note de Léon. Ce qui concerne le suivi, si Blandine veut en parler, est la place que prend le dossier dans certaines journées, au point qu’une course ou un rendez-vous n’a plus lieu. Ce qui concerne l’archive est le sens qu’elle veut donner à ce don précis."
+          "heading": "Comment un objet du proche peut-il avoir plusieurs places ?",
+          "points": [
+            {
+              "heading": "Un usage intime a sa valeur propre",
+              "text": "Retrouver une écriture ou un détail familier peut avoir un sens que la personne n’a pas besoin d’expliquer.",
+              "examples": [
+                "Blandine aime relire seule la trace du crayon sur Les Saules.",
+                "Quelqu’un garde un carnet pour y retrouver la manière dont un proche notait les noms de ses amis."
+              ]
+            },
+            {
+              "heading": "La lecture peut occuper plus de temps que prévu",
+              "text": "Quand les préoccupations liées à la perte reviennent longtemps, une activité prévue peut rester en attente.",
+              "examples": [
+                "Blandine a parfois passé assez de temps dans le dossier pour repousser une course.",
+                "En ouvrant une boîte avant un rendez-vous, une personne reste longtemps sur une lettre et ne part pas à l’heure."
+              ]
+            },
+            {
+              "heading": "Les objets n’appellent pas tous la même décision",
+              "text": "Deux pièces liées au même souvenir peuvent avoir des usages très différents.",
+              "examples": [
+                "Blandine parle avec le chœur du Pont et des Fenêtres, tandis que Les Saules reste sous l’élastique bleu.",
+                "Une personne propose une copie d’une photo de groupe et garde chez elle les notes personnelles glissées derrière."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer la feuille de l’indication de travail",
-          "text": "Alice propose une fiche avec le titre des deux morceaux, les dates et le lieu de rangement envisagé. Blandine demande d’en faire un brouillon qu’elle pourra approuver au moment du don. Pour l’instant Léon peut reprendre sur son exemplaire de travail l’idée d’écouter les basses à la mesure neuf. Personne n’a besoin de photographier le papier ou d’emporter l’original pour essayer ce passage. Malo peut chanter sa ligne comme il s’en souvient, et Léon décidera avec le groupe de la façon de la placer.\n\nIls sont d’accord sur les feuilles discutées et sur ce qui peut être utilisé avant une décision. Blandine veut encore répondre à une question : son nom doit-il figurer sur autre chose que la fiche conservée avec les partitions ? Alice lui propose de vérifier comment le chœur a déjà présenté les entrées aux archives. Ce renseignement pourra l’aider ; sa réponse peut attendre."
+          "heading": "3 techniques pour choisir la place des objets du souvenir",
+          "points": [
+            {
+              "heading": "Définir ce qui reste privé",
+              "objective": "Garder l’usage intime d’un objet si on le souhaite.",
+              "exercise": [
+                "Choisissez la pièce que vous ne voulez pas présenter.",
+                "Dites quelle autre pièce peut être discutée.",
+                "Précisez si vous acceptez seulement une lecture ou aussi une copie."
+              ],
+              "benefit": "Le partage peut concerner une partie choisie du souvenir."
+            },
+            {
+              "heading": "Faire noter ce qui reste provisoire",
+              "objective": "Éviter qu’une conversation sur un objet soit prise pour un accord définitif.",
+              "exercise": [
+                "Identifiez les pièces dont on vient de parler.",
+                "Laissez distinctement en attente les lignes qui demandent encore une décision.",
+                "Relisez à qui le brouillon sera envoyé."
+              ],
+              "benefit": "La trace permet de reprendre l’échange plus tard sans anticiper la réponse."
+            },
+            {
+              "heading": "Parler du temps que prend le dossier",
+              "objective": "Faire connaître le retentissement sans renoncer à l’objet.",
+              "exercise": [
+                "Pensez à un jour où vous avez ouvert l’objet ou le dossier.",
+                "Décrivez ce que cela vous a apporté et l’activité qui a éventuellement attendu.",
+                "Abordez la répétition de ces moments en suivi s’ils deviennent difficiles à vivre."
+              ],
+              "benefit": "La conversation tient compte de la valeur du souvenir et de ses effets dans la journée."
+            }
+          ]
         }
       ],
       "ending_title": "Deux titres sur la fiche",
@@ -368,7 +823,8 @@
         "next": "Une proposition de remerciement public arrive avant qu’elle ait donné son accord sur la place de son nom."
       },
       "clinical_focus": "Objets du proche décédé",
-      "clinical_intro": "Blandine garde une feuille qui lui permet de retrouver seule la trace du crayon de Jeanne. Conserver un objet peut avoir une valeur intime. Dans l’évaluation d’un deuil prolongé, la question porte aussi sur ce qui se passe quand le dossier occupe des heures et décale une course ou un rendez-vous. Le récit montre ces deux usages du même souvenir."
+      "clinical_intro": "Blandine garde une feuille qui lui permet de retrouver seule la trace du crayon de Jeanne. Conserver un objet peut avoir une valeur intime. Dans l’évaluation d’un deuil prolongé, la question porte aussi sur ce qui se passe quand le dossier occupe des heures et décale une course ou un rendez-vous. Le récit montre ces deux usages du même souvenir.",
+      "conclusion": "La fiche d’Alice dit de quelles partitions ils ont parlé, et laisse le don ouvert. Blandine garde Les Saules pour elle. Elle peut aussi souhaiter entendre ce que le chœur fera d’une mesure du Pont."
     },
     {
       "number": 9,
@@ -385,18 +841,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "La place qu’une personne souhaite prendre",
-          "text": "Une invitation peut être bienvenue sans que la personne ait envie d’en faire un événement public. Blandine tient au groupe et aux traces du travail de Jeanne. Elle connaît sa propre hésitation à entrer dans la salle. L’idée de revenir un soir lui appartient ; la rédaction d’un programme donne à cette idée un autre poids. Elle pourrait se sentir tenue d’être présente ou de répondre à des questions auxquelles elle n’a encore rien décidé de dire."
+          "heading": "Quand une invitation devient un retour annoncé",
+          "text": "Un deuil prolongé peut rendre la reprise de certaines activités difficile longtemps, même lorsque l’intérêt pour elles demeure. L’entourage peut ajouter une pression s’il transforme une possibilité en engagement visible de tous. En lisant le programme, Blandine retrouve le souvenir du jeudi où le manque l’a arrêtée. Elle souhaite décider de sa venue en sachant qu’elle pourra aussi ne pas venir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le chœur a vu ses absences et la retrouve autour de deux documents. Cette partie de sa vie ne suffit pas à rendre compte de son deuil ou de son suivi. Dans un échange avec un proche ou une professionnelle, Blandine peut dire ce qu’elle voudrait rendre possible dans cette salle. Dans l’échange sur le programme, elle peut se limiter à dire où elle consent à voir les deux noms et où elle ne le souhaite pas."
+          "heading": "Comment l’attente de l’entourage peut-elle peser sur une reprise ?",
+          "points": [
+            {
+              "heading": "Une présence possible est annoncée comme certaine",
+              "text": "La formulation peut engager publiquement une personne qui réfléchissait encore.",
+              "examples": [
+                "Le programme parle d’un retour alors que Blandine n’a confirmé ni sa venue ni son rôle.",
+                "Un message collectif annonce qu’une personne reprendra le groupe après qu’elle a seulement demandé l’heure de la prochaine séance."
+              ]
+            },
+            {
+              "heading": "Le cadre annoncé ravive une difficulté connue",
+              "text": "Une attente précise peut rappeler la dernière fois où la personne n’a pas pu poursuivre l’activité.",
+              "examples": [
+                "Blandine revoit la porte du chœur devant laquelle elle s’est arrêtée.",
+                "Une personne hésite à s’inscrire à un repas lorsqu’on la présente déjà comme celle qui parlera du défunt."
+              ]
+            },
+            {
+              "heading": "Deux engagements sont confondus",
+              "text": "Accepter une contribution limitée n’engage pas à revenir devant un public.",
+              "examples": [
+                "Blandine sépare l’entrée de deux feuilles aux archives d’un mot dans le programme du concert.",
+                "Quelqu’un accepte de prêter une image et demande que son nom ne figure pas dans l’annonce."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre le texte avant son impression",
-          "text": "Alice voulait expliquer d’où viendraient les feuilles, et elle a demandé à Blandine de lire la proposition avant de l’imprimer. Les deux femmes peuvent examiner les besoins séparément. Si le don a lieu, la fiche interne indiquera la provenance, avec les noms de Jeanne et de Blandine, et restera avec les partitions. Pour le programme du concert, Blandine propose de retirer l’annonce. Le public pourra entendre Le Pont sans histoire ajoutée ; Alice a de la place pour une information sur les répétitions ouvertes.\n\nLa même distinction vaut pour l’essai de jeudi. Léon peut dire quand le groupe prévoit de reprendre le passage et où quelqu’un peut s’asseoir s’il veut écouter. L’invitation ne demande pas à Blandine de parler, de chanter ou de confirmer sa participation aux prochaines dates. Si l’horaire glisse, Léon peut lui écrire avant qu’elle parte. Elle choisira encore le trajet."
+          "heading": "3 techniques pour rendre une invitation à nouveau ouverte",
+          "points": [
+            {
+              "heading": "Corriger l’annonce à sa source",
+              "objective": "Rétablir la différence entre une option et un accord.",
+              "exercise": [
+                "Indiquez quelle phrase dépasse ce que vous avez dit.",
+                "Demandez à la personne qui prépare le texte de la retirer ou de la modifier.",
+                "Confirmez ensemble la version qui sera diffusée."
+              ],
+              "benefit": "Le public ne compte pas sur une présence qui n’a pas été décidée."
+            },
+            {
+              "heading": "Séparer les décisions",
+              "objective": "Pouvoir avancer sur un projet sans devoir tout accepter ensemble.",
+              "exercise": [
+                "Nommez le geste dont vous discutez déjà.",
+                "Mettez la présence, la prise de parole ou la communication sur des lignes à part.",
+                "Répondez seulement aux questions que vous voulez trancher."
+              ],
+              "benefit": "Un accord partiel laisse encore de la place aux autres choix."
+            },
+            {
+              "heading": "Prévoir le déroulement si la chaise reste vide",
+              "objective": "Faire d’une proposition un rendez-vous qui peut avoir lieu sans vous.",
+              "exercise": [
+                "Demandez à quelle heure l’activité commencera.",
+                "Dites quel rôle vous pourriez prendre si vous venez.",
+                "Convenez que le groupe commence même sans vous."
+              ],
+              "benefit": "L’invitation garde son sens et n’exige pas que la personne promette plus qu’elle ne souhaite."
+            }
+          ]
         }
       ],
       "ending_title": "Une ligne retirée avant impression",
@@ -413,7 +925,8 @@
         "next": "Au dernier quart d’heure de répétition, elle découvre que le morceau a changé et choisit jusqu’où elle veut participer."
       },
       "clinical_focus": "Pression sociale autour du deuil",
-      "clinical_intro": "Le programme présente la venue de Blandine comme son retour au chœur et ravive le souvenir du jeudi où le manque l’a arrêtée devant la salle. Les difficultés à reprendre certaines activités peuvent durer dans le trouble du deuil prolongé. Une invitation qui reste ouverte lui laisse une possibilité de retrouver la musique et de choisir elle-même le moment."
+      "clinical_intro": "Le programme présente la venue de Blandine comme son retour au chœur et ravive le souvenir du jeudi où le manque l’a arrêtée devant la salle. Les difficultés à reprendre certaines activités peuvent durer dans le trouble du deuil prolongé. Une invitation qui reste ouverte lui laisse une possibilité de retrouver la musique et de choisir elle-même le moment.",
+      "conclusion": "Alice laisse la case vide. Le morceau commencera à vingt heures, que Blandine occupe la chaise ou non. Elle connaît une possibilité qu’elle pourra choisir sur place."
     },
     {
       "number": 10,
@@ -430,18 +943,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reprendre une place à sa façon",
-          "text": "Une activité liée à un proche disparu peut retrouver de l’intérêt alors que le manque reste douloureux. Blandine a pu traverser la place ce soir et s’asseoir dans la salle. La semaine précédente, les chaises l’avaient arrêtée dehors. Aujourd’hui elle perçoit à la fois le geste du nouveau chanteur et un problème musical qu’elle a envie de discuter. Ces deux choses font partie de la même soirée. L’une ne retire pas sa force à l’autre."
+          "heading": "Revenir par l’activité qu’on a choisie",
+          "text": "Reprendre une activité sociale après un deuil prolongé peut vouloir dire y prendre une part différente de celle d’avant. Le plaisir de retrouver un intérêt et la douleur du manque peuvent être présents au même moment. Blandine écoute les basses et s’intéresse à une fin de vers. L’expérience donne un repère au suivi sans dire comment se passeront ses autres journées."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’écoute constitue la forme de participation qu’elle choisit à ce moment. Les possibilités de s’engager à nouveau dans des activités peuvent être discutées dans le suivi quand elles comptent pour la personne. La thérapeute peut aussi lui demander ce qui se passe dans les autres lieux et les jours où elle travaille. Une séance de chœur ne permet pas d’évaluer à elle seule les effets du deuil sur sa vie."
+          "heading": "Comment la reprise d’une activité peut-elle prendre une forme nouvelle ?",
+          "points": [
+            {
+              "heading": "Le rôle se redéfinit sur place",
+              "text": "Une personne peut vouloir revenir dans un lieu sans reprendre la même tâche.",
+              "examples": [
+                "Blandine demande à lire la feuille et préfère écouter plutôt que chanter le couplet.",
+                "Quelqu’un revient à un atelier pour regarder les ouvrages et diffère la reprise de son propre projet."
+              ]
+            },
+            {
+              "heading": "L’intérêt se montre par un geste précis",
+              "text": "Une contribution limitée peut garder un lien avec l’activité et ses participants.",
+              "examples": [
+                "Blandine rend la partition avec un mot sur la fin du vers.",
+                "Une personne reste le temps d’un morceau et dit au groupe quel passage lui a plu."
+              ]
+            },
+            {
+              "heading": "Le manque reste possible après la rencontre",
+              "text": "Une activité qui a plu peut réveiller le désir de la partager avec le proche disparu.",
+              "examples": [
+                "Sur la place, Blandine voudrait encore dire à Jeanne que les basses ont trouvé leur entrée.",
+                "Une personne sort d’une projection contente du film et regrette aussitôt de ne pas pouvoir en discuter avec son compagnon décédé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une proposition qui peut rester sans suite",
-          "text": "Léon peut prêter une partition à quelqu’un qui écoute et continuer la répétition. Si Blandine tient à signaler la fin du vers, il peut lui demander ce qu’elle a entendu ou reprendre la question par écrit après avoir rangé. La discussion peut porter sur la musique. Il n’a pas besoin de donner à son arrivée un sens que les autres partageraient ni de lui demander devant eux quand elle chantera.\n\nDe son côté, Blandine peut décider qu’un morceau lui suffit. Elle aimerait que la chaise reste possible certains soirs, sans inscription dans l’effectif. Léon doit pour sa part savoir sur quelles voix il peut compter à l’approche du concert. Ils peuvent fixer un accord simple : sa présence d’auditrice est facultative, et une reprise comme choriste ferait l’objet d’une autre discussion. Aucun des deux n’a à deviner l’engagement de l’autre."
+          "heading": "3 techniques pour retrouver une place dans une activité choisie",
+          "points": [
+            {
+              "heading": "Préciser son rôle à l’arrivée",
+              "objective": "Garder une participation qui correspond à ce qu’on veut ce jour-là.",
+              "exercise": [
+                "Demandez ce qui se passe maintenant.",
+                "Dites la part que vous voulez prendre, par exemple écouter.",
+                "Répondez de nouveau si une autre tâche vous est proposée."
+              ],
+              "benefit": "Il devient possible de rester présent sans reprendre d’emblée toutes les attentes d’avant."
+            },
+            {
+              "heading": "Contribuer sur un détail",
+              "objective": "Faire une place à l’intérêt qui revient.",
+              "exercise": [
+                "Choisissez ce que vous avez remarqué dans l’activité.",
+                "Partagez-le si vous le souhaitez.",
+                "Demandez comment vous pourrez suivre la suite sans obligation régulière."
+              ],
+              "benefit": "Un échange concret peut compter à lui seul."
+            },
+            {
+              "heading": "Garder du temps après",
+              "objective": "Pouvoir accueillir ce qui revient une fois la rencontre terminée.",
+              "exercise": [
+                "Prévoyez un retour que vous pouvez ralentir ou modifier.",
+                "Repérez un moment qui vous a plu et ce qui vous a pesé.",
+                "Reparlez-en en suivi si la reprise ou le retour vous demande beaucoup."
+              ],
+              "benefit": "La suite se construit sur l’expérience complète, y compris l’effort moins visible."
+            }
+          ]
         }
       ],
       "ending_title": "La fin du vers en marge",
@@ -458,7 +1027,8 @@
         "next": "Une nouvelle commande arrive et une semaine inégale lui fournit des exemples de ce qu’elle veut discuter en consultation."
       },
       "clinical_focus": "Reprise d’une activité sociale",
-      "clinical_intro": "Blandine traverse cette fois la place et écoute les basses. Elle a envie de discuter d’une phrase musicale et voudrait aussi que Jeanne l’entende. Dans un trouble du deuil prolongé, une activité peut retrouver de l’intérêt tandis que le manque reste vif. Le suivi peut accueillir ce progrès concret et continuer d’examiner les moments où sortir ou travailler lui coûte davantage."
+      "clinical_intro": "Blandine traverse cette fois la place et écoute les basses. Elle a envie de discuter d’une phrase musicale et voudrait aussi que Jeanne l’entende. Dans un trouble du deuil prolongé, une activité peut retrouver de l’intérêt tandis que le manque reste vif. Le suivi peut accueillir ce progrès concret et continuer d’examiner les moments où sortir ou travailler lui coûte davantage.",
+      "conclusion": "Le Pont redevient une musique que Blandine peut écouter et commenter. Elle souhaite encore en parler à Jeanne. En quittant la salle, elle a choisi le rôle qu’elle veut garder pour le moment."
     },
     {
       "number": 11,
@@ -475,18 +1045,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Examiner le deuil prolongé et les signes dépressifs",
-          "text": "Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie. Les deux troubles peuvent aussi coexister. La distinction relève d’une évaluation : un moment de plaisir ou plusieurs journées difficiles ne permettent pas, à eux seuls, d’en juger."
+          "heading": "Ce qu’une évaluation distingue et peut retrouver ensemble",
+          "text": "Le deuil prolongé se rapporte principalement à la perte et au manque de la personne décédée. Dans une dépression, la tristesse ou la perte d’intérêt peuvent toucher plus largement les activités et les domaines de la vie. Les expériences se recoupent parfois et les deux troubles peuvent coexister. En consultation, Blandine parle de la musique, de son dimanche et du travail, pour examiner l’ensemble avec sa thérapeute."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Blandine a déjà été évaluée pour son deuil prolongé. Elle apporte à sa thérapeute une semaine qu’il est difficile de résumer en une phrase. Il y a le jeudi, dont elle est contente, le livre qu’elle voulait offrir et les pages dont elle n’a pas pu s’occuper. La consultation lui permet de parler des effets qui persistent et de questions nouvelles, sans donner au seul jeudi la charge de dire comment elle va."
+          "heading": "Comment une consultation explore-t-elle l’étendue de la souffrance ?",
+          "points": [
+            {
+              "heading": "Le contenu des pensées donne un contexte",
+              "text": "Dire à quoi revient l’attention aide à comprendre ce qui a interrompu une tâche.",
+              "examples": [
+                "Blandine raconte le texte qui lui a rappelé Jeanne et le temps qu’elle y a passé.",
+                "Un lecteur laisse une lettre de côté parce qu’elle le ramène à la personne disparue, et décrit ce moment au cabinet."
+              ]
+            },
+            {
+              "heading": "Les journées sans rappel méritent aussi d’être racontées",
+              "text": "Le professionnel examine ce qui se passe dans plusieurs situations, y compris quand aucun souvenir précis n’a précédé la difficulté.",
+              "examples": [
+                "La thérapeute demande à Blandine de penser aux journées où elle croise peu de rappels de sa sœur.",
+                "Une personne décrit des sorties, du travail et des gestes quotidiens devenus difficiles sans savoir exactement pourquoi."
+              ]
+            },
+            {
+              "heading": "Des moments d’intérêt peuvent coexister avec des difficultés",
+              "text": "Un plaisir retrouvé n’efface pas ce qui reste douloureux ; l’évolution se regarde à plusieurs moments.",
+              "examples": [
+                "Blandine a aimé Le Pont et souhaite aussi parler du dimanche où elle a laissé son livre dans son sac.",
+                "Une personne se réjouit d’une visite et rapporte qu’elle peine encore à faire ses courses la plupart des jours."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un accord pour le travail, un autre pour le suivi",
-          "text": "Blandine s’engage sur les légendes et la liste de termes. Esther s’occupe de répartir l’autre volume ; si une visite soulève un problème de vocabulaire commun, elles savent où noter la question. Blandine a choisi une part du projet dont elle peut évaluer la taille. Elle garde la possibilité de faire un autre choix pour une autre commande.\n\nAvec sa thérapeute, elle prévoit un nouveau point. Elles conviennent qu’elle pourra reprendre contact plus tôt si les difficultés s’accumulent ou si elle se sent moins capable de faire face. La réponse à une psychothérapie ciblée, étudiée sur plusieurs semaines dans l’essai de Shear et de ses collègues, concerne les changements d’ensemble dans le cadre d’un suivi. La capacité à assister une fois à la répétition ne décide donc pas, à elle seule, de la suite des soins de Blandine."
+          "heading": "3 techniques pour décrire une souffrance qui touche plusieurs domaines",
+          "points": [
+            {
+              "heading": "Apporter deux journées contrastées",
+              "objective": "Aider le professionnel à voir comment la difficulté varie.",
+              "exercise": [
+                "Choisissez une journée avec un rappel marquant.",
+                "Décrivez-en une autre où vous avez moins rencontré de rappels.",
+                "Précisez ce que vous avez pu faire et ce qui est resté en attente."
+              ],
+              "benefit": "La comparaison donne un contexte sans servir de test à faire soi-même."
+            },
+            {
+              "heading": "Préciser la portée de la gêne",
+              "objective": "Donner des exemples au-delà d’un seul moment.",
+              "exercise": [
+                "Nommez les activités ou relations concernées.",
+                "Dites depuis quand elles sont touchées et ce qui reste important pour vous.",
+                "Laissez au professionnel les questions d’évaluation et posez celles qui vous restent."
+              ],
+              "benefit": "Le suivi peut examiner des difficultés qui se recoupent sans les réduire à une seule explication."
+            },
+            {
+              "heading": "Distinguer une décision du bilan",
+              "objective": "Pouvoir discuter d’un engagement sans en faire un signe clinique.",
+              "exercise": [
+                "Nommez le projet accepté et celui que vous avez décliné.",
+                "Expliquez les raisons pratiques ou affectives que vous connaissez.",
+                "Convenez d’un nouveau point si la gêne reste importante."
+              ],
+              "benefit": "Un choix professionnel apporte un exemple, et l’évaluation garde sa portée plus large."
+            }
+          ]
         }
       ],
       "ending_title": "Les légendes et le prochain rendez-vous",
@@ -504,7 +1130,8 @@
         "next": "Elle retrouve Alice et Léon pour remettre les originaux et décider séparément ce qu’elle gardera à la maison."
       },
       "clinical_focus": "Deuil prolongé et dépression",
-      "clinical_intro": "Blandine a aimé entendre le chœur et passe plus tard un long moment devant un texte qui lui rappelle Jeanne. Retrait et perte d’intérêt peuvent se rencontrer dans un trouble du deuil prolongé et dans une dépression. En consultation, le contenu et l’étendue de la souffrance, son évolution et ses effets aident à préciser ce qui se passe. Les deux troubles peuvent coexister."
+      "clinical_intro": "Blandine a aimé entendre le chœur et passe plus tard un long moment devant un texte qui lui rappelle Jeanne. Retrait et perte d’intérêt peuvent se rencontrer dans un trouble du deuil prolongé et dans une dépression. En consultation, le contenu et l’étendue de la souffrance, son évolution et ses effets aident à préciser ce qui se passe. Les deux troubles peuvent coexister.",
+      "conclusion": "Blandine peut parler du vers qui lui plaît et du travail qu’elle ne se sent pas de prendre. Sa thérapeute pourra continuer à éclairer ces situations ; vendredi, Blandine a un autre rendez-vous pour les partitions."
     },
     {
       "number": 12,
@@ -521,18 +1148,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Suivre l’évolution du retentissement dans la durée",
-          "text": "Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision. Blandine a choisi deux feuilles parce qu’elle comprend leur utilité pour le chœur et sait où elles seront. Elle garde Les Saules et le reste du dossier parce qu’elle veut pouvoir les lire à sa façon. Dans la vie d’une autre personne, conserver toutes les partitions ou s’en séparer peut avoir un autre sens. Le geste ne permet pas de qualifier son deuil."
+          "heading": "Suivre ce qui change et ce qui demande encore du temps",
+          "text": "L’évolution d’un deuil prolongé se juge au fil du temps, dans plusieurs activités et à partir du vécu de la personne. Des choix peuvent redevenir possibles tandis que le manque garde des moments intenses. Blandine remet deux partitions aux archives et souhaite encore que Jeanne soit là pour en parler. Elle peut rapporter au suivi ce qui a changé et ce qui continue de lui coûter."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Blandine sait qu’elle aura encore des jours où elle cherchera la voix de Jeanne longtemps après avoir fermé le dossier. Les effets de ces journées restent une question à discuter en consultation. Aujourd’hui, ce qui s’est réglé autour de la table est concret : deux originaux ont rejoint l’archive et les autres ont une place chez elle. Le chœur sait comment les retrouver. Blandine n’a pas à transformer ce choix en programme pour ses prochains jeudis."
+          "heading": "Comment une évolution se lit-elle au-delà d’une décision ?",
+          "points": [
+            {
+              "heading": "Une marge de choix reparaît",
+              "text": "Retrouver une décision voulue apporte une information sur cette activité précise.",
+              "examples": [
+                "Blandine dépose deux originaux après avoir relu la fiche et vérifié le programme.",
+                "Une personne se remet à accepter certaines visites en choisissant leur durée."
+              ]
+            },
+            {
+              "heading": "Le lien garde une forme propre",
+              "text": "Une décision nouvelle peut aller de pair avec le désir de retrouver un détail associé au proche.",
+              "examples": [
+                "Blandine garde Les Saules et regarde encore le mot caché dans le pli.",
+                "Quelqu’un reprend la marche avec une amie et conserve l’habitude de s’arrêter à l’endroit préféré du proche."
+              ]
+            },
+            {
+              "heading": "Le coût peut varier d’un jour à l’autre",
+              "text": "Un projet mené à son terme ne rend pas toutes les prochaines activités également disponibles.",
+              "examples": [
+                "Blandine prévoit la pépinière selon l’avancement des légendes attendues par Esther.",
+                "Une personne peut assurer une permanence cette semaine et souhaiter parler du prix qu’elle paie en fatigue après d’autres engagements."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser de la place aux prochains choix",
-          "text": "Léon peut continuer à lui signaler les répétitions ouvertes qu’elle lui a demandé de connaître. Blandine souhaite pouvoir en écouter une de temps en temps, si l’horaire et sa journée le permettent. Elle peut donner un avis sur une mesure et partir ensuite. Pour un concert, Léon continuera de compter sur les personnes inscrites. Alice pourra lui dire, plus tard, si les feuilles leur ont permis de retrouver d’autres indications.\n\nBlandine garde son rendez-vous avec sa thérapeute et le moyen de la joindre plus tôt si les journées deviennent trop difficiles. Yannis, de son côté, l’invite à la pépinière samedi : il veut choisir de la menthe et repartir avant que les files s’allongent. Elle peut lui dire si elle a envie de venir. Sa réponse décidera de l’heure à laquelle ils se retrouvent, avec la possibilité d’un autre samedi."
+          "heading": "3 techniques pour faire le point sur un deuil qui évolue",
+          "points": [
+            {
+              "heading": "Choisir des repères qui vous appartiennent",
+              "objective": "Comparer ce qui compte pour vous à deux moments différents.",
+              "exercise": [
+                "Nommez une activité importante.",
+                "Rappelez comment elle se passait auparavant.",
+                "Notez ce que vous pouvez choisir aujourd’hui."
+              ],
+              "benefit": "Le repère donne une mesure concrète sans résumer toute l’évolution à un résultat."
+            },
+            {
+              "heading": "Garder une option révisable",
+              "objective": "Préparer un engagement compatible avec le reste de la journée.",
+              "exercise": [
+                "Regardez ce qui doit déjà être fait.",
+                "Proposez une activité avec une condition claire.",
+                "Confirmez-la quand vous savez ce que la journée vous permet."
+              ],
+              "benefit": "L’invitation reste possible sans exiger de promettre une énergie qu’on ne connaît pas encore."
+            },
+            {
+              "heading": "Continuer à parler de ce qui coûte",
+              "objective": "Maintenir une place pour les difficultés encore présentes.",
+              "exercise": [
+                "Choisissez un moment qui reste pénible.",
+                "Dites ce qu’il change dans vos décisions ou vos activités.",
+                "Demandez en suivi quand refaire le point et à qui vous adresser si cela s’aggrave."
+              ],
+              "benefit": "L’accompagnement peut tenir compte à la fois des possibilités retrouvées et de la souffrance persistante."
+            }
+          ]
         }
       ],
       "ending_title": "L’élastique reprend sa place",
@@ -549,7 +1232,8 @@
         "next": "La décision sur les partitions est réglée. Les prochains jeudis et le travail des légendes restent des choix ordinaires à reprendre selon la semaine."
       },
       "clinical_focus": "Évolution du deuil prolongé",
-      "clinical_intro": "Blandine décide de transmettre deux partitions et éprouve encore l’envie que Jeanne soit là pour les commenter. Dans le suivi d’un deuil prolongé, on peut observer les décisions retrouvées, les activités possibles et la souffrance qui continue de prendre de la place. L’épisode suit ce que Blandine peut choisir aujourd’hui, à côté des journées qu’elle veut encore aborder en consultation."
+      "clinical_intro": "Blandine décide de transmettre deux partitions et éprouve encore l’envie que Jeanne soit là pour les commenter. Dans le suivi d’un deuil prolongé, on peut observer les décisions retrouvées, les activités possibles et la souffrance qui continue de prendre de la place. L’épisode suit ce que Blandine peut choisir aujourd’hui, à côté des journées qu’elle veut encore aborder en consultation.",
+      "conclusion": "Deux feuilles restent aux archives, Les Saules rentre dans son dossier et la chemise jaune sert à un autre travail. Blandine a choisi ce que le chœur recevrait. Elle continue de décider comment ses semaines se remplissent, avec un suivi pour les journées plus difficiles."
     }
   ]
 }

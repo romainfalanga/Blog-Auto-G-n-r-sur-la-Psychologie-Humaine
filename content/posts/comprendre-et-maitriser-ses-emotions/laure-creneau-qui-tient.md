@@ -29,16 +29,81 @@ Quand il part, elle sent une fatigue déjà connue dans les épaules. Elle se de
 
 ## Repérer ce que le cadre rend possible
 
-Laure ressent encore les symptômes qui font l’objet du suivi. Elle peut en parler avec ses soignantes en décrivant ce qu’ils lui coûtent et l’attention qu’ils lui prennent. L’accueil apporte une autre information. Laure a reçu quelqu’un, expliqué la circulation des sachets et transmis ce qu’il restait à faire. Elle sait dans quelles conditions cela a été possible. Ce sont des éléments concrets pour examiner la suite avec son équipe. L’évolution du trouble s’observe dans la durée, à partir des symptômes et de leur retentissement dans plusieurs domaines.
+Participer avec un trouble persistant peut devenir plus faisable quand la personne connaît le cadre qui l’aide. Dans le trouble de détresse physique, l’évolution se discute dans la durée à partir des symptômes, de l’attention qu’ils prennent et de leur retentissement. Laure accueille un visiteur malgré une fatigue qui revient. Elle peut décrire ce qu’elle a aimé faire, le coût de la permanence et ce que le relais lui a permis de conserver.
 
-## Les deux calendriers ont leur place
+## Comment la participation se maintient-elle quand les symptômes sont encore présents ?
 
-Laure a une date pour revoir la Dre Valette et une autre pour tenir sa prochaine permanence. La première lui permet de suivre ce qui reste douloureux, de reprendre les décisions médicales et de parler de ce qui changerait. La deuxième lui donne une activité dont la durée et le relais sont connus. Elle garde aussi son travail avec Nina sur les moments où l’attention devient difficile à déplacer. En séparant les informations dont chacun a besoin, Laure peut passer d’un calendrier à l’autre avec des décisions déjà prises.
+### Le cadre rend un échange possible
 
-## Faire le point sur les prochaines dates
+Une tâche choisie peut rester accessible même lorsque les symptômes persistent.
 
-Pour les deux premières ouvertures, Laure et ses collègues ont choisi de revoir ensemble les durées et l’accès au matériel. Elles pourront conserver l’heure si elle fonctionne ou proposer un changement précis. Laure gardera, pour Nina, le souvenir de la minute où elle a recommencé à calculer ses courses et a pu revenir au registre. Avec la Dre Valette, elle évoquera la fatigue qui persiste et les questions de suivi encore ouvertes. Le projet avance avec ces rendez-vous à côté, comme avec le cahier qu’elle remet à Lucie.
+**Exemples concrets**
+
+- Laure explique à un visiteur comment déposer des graines et revenir en chercher.
+- Une personne tient un court créneau de renseignements grâce à une table préparée par l’équipe.
+
+### La fatigue reste présente après un bon moment
+
+La satisfaction d’avoir participé peut coexister avec un besoin de repos ou de souplesse.
+
+**Exemples concrets**
+
+- Laure sent ses épaules fatiguées et remet la décision sur les courses à après le déjeuner.
+- Une bénévole est contente de son accueil et raccourcit le trajet qu’elle avait prévu ensuite.
+
+### Le relais permet d’arrêter avec une tâche en cours
+
+La continuité dépend du passage entre personnes plutôt que d’une présence sans limite.
+
+**Exemples concrets**
+
+- Lucie arrive à l’heure et Laure lui montre l’enveloppe et la prochaine demande.
+- Une personne donne à sa collègue le nom du lecteur qui reviendra et ferme le registre à l’heure prévue.
+
+## 3 techniques pour préserver une participation dans la durée
+
+### 1. Décrire les conditions d’un créneau réussi
+
+Repérer ce qui vaut la peine de garder.
+
+**Exercice pratique**
+
+- Nommez le geste qui vous a plu ou que vous avez pu terminer.
+- Dites quelle durée et quel appui l’ont rendu possible.
+- Ajoutez ce qui reste pénible après l’activité.
+
+L’équipe peut garder ce qui aide sans conclure trop vite que tout est devenu facile.
+
+### 2. Vérifier la suite avec les collègues
+
+Maintenir un relais quand les personnes ou les dates changent.
+
+**Exercice pratique**
+
+- Confirmez le nom du relais avant l’annonce.
+- Transmettez seulement le travail en cours et les demandes à suivre.
+- Fixez un moment pour revoir les horaires après plusieurs ouvertures.
+
+Le public et l’équipe peuvent compter sur un accord qui reste ajustable.
+
+### 3. Apporter le retentissement au suivi
+
+Garder un espace de soins à côté du projet.
+
+**Exercice pratique**
+
+- Notez les activités rendues possibles et celles qui restent difficiles.
+- Apportez ces éléments au rendez-vous convenu.
+- Signalez une évolution nouvelle selon les indications de l’équipe.
+
+Le suivi peut tenir compte de ce que vous voulez poursuivre autant que de ce qui vous gêne.
 
 ## Le nom reste jusqu’à dix heures trente
 
 Lucie prend la place de Laure à l’heure prévue. Dans le couloir, Laure affiche la deuxième date et écrit au crayon le nom de Yasmina dans la case de relais, conformément à l’accord qu’elles ont obtenu la veille. Elles reverront les horaires ensemble après cette date. Laure met son agenda dans sa poche. La date de sa prochaine consultation y est déjà entourée. Elle traverse la place sans se presser et décide de déjeuner avant de voir pour les courses. Elle a envie de demander à Benoît s’il connaît un endroit ensoleillé où ils pourraient boire un café dimanche.
+
+---
+
+**Conclusion**
+
+Laure affiche la date suivante avec le nom de Yasmina. Elle a ouvert la grainothèque dans un cadre qu’elle a contribué à régler, et la fatigue reste à considérer. Le prochain rendez-vous de suivi et l’idée d’un café avec Benoît tiennent encore dans le même agenda.

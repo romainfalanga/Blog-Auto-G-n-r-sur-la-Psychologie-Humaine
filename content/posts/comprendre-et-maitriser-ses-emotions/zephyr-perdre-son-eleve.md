@@ -31,20 +31,81 @@ Loïc tourne le manche du tournevis entre ses doigts. Il doit partir dans vingt 
 
 ## Quand le détour imagé fait perdre le premier geste
 
-Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi.
+Une explication très imagée peut aider quelqu’un à retenir une idée et, si les détours se multiplient, rendre la première consigne difficile à repérer. Dans le trouble schizotypique, un discours circonstancié peut compliquer certains échanges. Une comparaison originale ne suffit pas à indiquer une difficulté clinique. Chez Zéphyr, la maison a un sens précis. Loïc ne sait pas encore à quelle pièce ni à quel geste la rattacher.
 
-## Comment cette difficulté se manifeste
+## Comment les détours dans un discours compliquent-ils une démonstration ?
 
-Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.
+### Une image arrive avant son repère
 
-Dans le trouble schizotypique, une parole qui multiplie les détours, devient difficile à suivre ou se charge d’images peut compter parmi des difficultés durables. Ce n’est pas le fait d’employer une métaphore qui a une valeur clinique. Le retentissement sur les échanges et le contexte plus large comptent. L’image de la maison peut même devenir utile si Loïc sait où regarder et ce qu’il cherche à faire.
+L’image devient difficile à suivre quand l’auditeur ignore encore ce qu’elle désigne.
 
-## Mettre la pièce avant son surnom
+**Exemples concrets**
 
-Pour reprendre cet essai, Zéphyr peut indiquer la pièce sur la platine, annoncer une seule action et attendre de voir où va la main de Loïc. Après, il pourra raconter pourquoi il l’appelle ainsi. Il n’a pas à reprendre tout son cours ni à demander à son visiteur s’il a « compris », une question à laquelle on peut dire oui pour être poli. Demander « Qu’est-ce que tu ferais ensuite ? » lui apprend quelque chose sur sa consigne.
+- Zéphyr parle de l’adresse de la roue avant que Loïc ait repéré son emplacement.
+- Une personne évoque le « cœur » d’un outil avant de dire quelle pièce elle a dans la main.
 
-Dans un accompagnement psychologique, on peut partir de scènes où l’on voudrait se faire comprendre avec moins d’effort de part et d’autre. Le but se choisit avec la personne. Ici, Zéphyr veut continuer à parler à sa manière et apprendre à repérer le moment où l’autre cherche encore le premier pas. Le support de laiton lui sert pour enseigner ; personne ne lui demande de s’en servir pour mesurer son état de santé.
+### Les précisions déplacent l’attention
+
+Plusieurs détails exacts peuvent se concurrencer au moment où l’autre cherche une consigne.
+
+**Exemples concrets**
+
+- L’évocation de l’horloge ouverte détourne Loïc de la petite platine.
+- En expliquant un trajet, quelqu’un décrit deux anciens arrêts alors qu’un visiteur veut savoir où descendre.
+
+### L’incertitude se voit dans le geste
+
+Celui qui écoute peut agir au hasard pour éviter d’interrompre encore.
+
+**Exemples concrets**
+
+- Loïc prend une boîte sans être sûr qu’elle contient la pièce demandée.
+- Une bénévole ouvre le classeur de gauche alors que l’instruction concernait la pochette posée dessus.
+
+## 3 techniques pour garder le premier geste compréhensible
+
+### 1. Commencer par montrer
+
+Donner un repère à partir duquel l’autre pourra écouter.
+
+**Exercice pratique**
+
+- Choisissez le premier geste indispensable.
+- Nommez l’objet en le désignant.
+- Laissez à l’autre le temps de le regarder avant d’ajouter une image.
+
+Le mot et le geste se rapportent alors à la même chose.
+
+### 2. Faire préciser le point d’arrêt
+
+Comprendre à quel moment l’explication a cessé d’aider.
+
+**Exercice pratique**
+
+- Demandez quelle action la personne s’apprêtait à faire.
+- Reprenez à l’endroit qu’elle indique.
+- Proposez-lui de poursuivre ou de s’arrêter là.
+
+La réponse donne une indication sur la consigne sans juger la façon de parler.
+
+### 3. Préparer une fiche en deux temps
+
+Conserver une comparaison utile en évitant de la superposer à la consigne.
+
+**Exercice pratique**
+
+- Écrivez l’action seule sur une face.
+- Placez l’image et ses détails sur l’autre.
+- Essayez les deux faces avec une personne d’accord pour vous dire où elle hésite.
+
+La fiche permet de retrouver le geste sans appauvrir le vocabulaire de la démonstration.
 
 ## Retourner la fiche
 
 Sur le dos du dessin, Zéphyr écrit « Montrer l’emplacement de la roue » et le désigne sur la platine. Loïc retire ses lunettes pour voir de plus près, puis lui montre l’autre emplacement en demandant s’il aura aussi son tour. Ils n’ont plus le temps de faire tourner les deux roues. Avant de filer, Loïc fait remarquer que le mot « adresse » lui aurait bien plu s’il avait vu d’abord où la pièce allait. Zéphyr replie la feuille en deux : un côté pour la première action, un côté pour les mots qui viennent ensuite. Il essaiera de la montrer comme ça au bureau.
+
+---
+
+**Conclusion**
+
+La difficulté se voit quand Loïc prend la mauvaise boîte. Dès qu’il a l’emplacement sous les yeux, l’idée d’adresse lui parle. Zéphyr emporte au bureau une fiche qui conserve cette image et distingue le moment où elle aide.

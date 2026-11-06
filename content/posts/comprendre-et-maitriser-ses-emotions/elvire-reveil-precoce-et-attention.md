@@ -33,16 +33,81 @@ Sonia demande si elles peuvent annoncer le dépôt pour le mois prochain. Élvir
 
 ## Relier la nuit et le retentissement dans la journée
 
-Une difficulté de sommeil peut commencer par un endormissement laborieux, un réveil prolongé ou un réveil plus tôt que souhaité. Quand une personne parle de nuits difficiles, le professionnel cherche aussi ce qui se passe pendant ses journées. Une nuit écourtée peut peser sur la disponibilité, l’attention ou l’humeur. Dans le cas d’Élvire, c’est la répétition des réveils et de leurs conséquences qui l’amène à envisager une consultation. La gêne mérite d’être décrite même si elle ne sait pas compter précisément les heures dormies.
+Un réveil plus tôt que souhaité peut écourter le sommeil et peser sur l’attention ou l’humeur pendant la journée. Lorsque cette difficulté revient, l’évaluation prend en compte son retentissement autant que la façon dont la nuit s’est passée. Élvire connaît les tournées et les adresses. Ce matin, elle doit pourtant comparer les deux lignes pour retrouver celle qu’elle voulait transmettre à Salim.
 
-## Voir l’effort que les tâches familières demandent
+## Comment un réveil trop précoce se fait-il sentir dans une tâche familière ?
 
-Élvire connaît le logiciel et a déjà organisé cette tournée. Ce lundi, elle perd le fil quand deux messages se succèdent. Sonia, elle, entend un ton plus dur au moment d’aborder le point de dépôt. Ces deux effets peuvent avoir d’autres explications, comme une surcharge ou un désaccord réel. Ils prennent leur sens si Élvire les replace parmi d’autres journées. Chez elle, elle constate aussi qu’elle oublie parfois le début d’une conversation quand elle se concentre sur ce qu’elle doit encore faire. Ces exemples renseignent mieux que le seul mot fatigue.
+### Une partie du sommeil manque alors qu’on voudrait le poursuivre
 
-## Sécuriser une décision et noter ce qui a compté
+Le réveil précoce laisse parfois une période d’éveil avant le début prévu de la journée.
 
-Pour le départ de Salim, Élvire peut relire une seule adresse avec lui puis lui demander de confirmer celle qu’il a reçue. Pour l’ouverture, elle peut réserver un temps distinct où la photo et la liste des rôles seront sous leurs yeux. Elle peut aussi retenir ce matin comme exemple pour une consultation. Le réveil précoce, la difficulté à se concentrer et la conversation écourtée décrivent des moments précis. Cette description aidera à parler de ce qui s’étend dans le temps et de ce qui change d’un jour à l’autre.
+**Exemples concrets**
+
+- Élvire note que c’est la troisième fois en quelques jours qu’elle se réveille avant l’heure.
+- Une personne peut rester éveillée longtemps avant le moment où elle comptait se lever, puis commencer sa journée en ayant moins dormi que prévu.
+
+### Une décision familière demande une vérification
+
+Une attention moins disponible peut rendre difficile de garder plusieurs renseignements proches en tête.
+
+**Exemples concrets**
+
+- Élvire met côte à côte les deux adresses pour retrouver celle du dossier.
+- Salim relit le numéro confirmé avant de partir.
+
+### Le rythme de l’échange peut changer
+
+Un manque de disponibilité peut modifier la façon dont une nouvelle demande est entendue.
+
+**Exemples concrets**
+
+- Élvire répond sèchement à Sonia qui voudrait fixer une date.
+- Elle réalise ensuite qu’elle avait déjà ouvert la photo dont Sonia lui parlait.
+
+## 3 techniques pour rendre visible ce que la nuit a changé dans la journée
+
+### 1. Vérifier un renseignement avant de le transmettre
+
+Sécuriser une décision quand deux informations se confondent.
+
+**Exercice pratique**
+
+- Posez les deux documents à côté l’un de l’autre.
+- Repérez le dossier qui correspond à la tâche en cours.
+- Demandez à la personne qui utilise l’information de relire le renseignement retenu.
+
+La décision peut s’appuyer sur une donnée vérifiée même quand l’attention demande davantage d’effort.
+
+### 2. Retenir un effet de la nuit dans la journée
+
+Préparer un exemple concret pour un avis professionnel.
+
+**Exercice pratique**
+
+- Notez approximativement quand vous vous êtes réveillé.
+- Relevez une tâche devenue plus difficile ou une interruption dans la journée.
+- Si cela se répète ou vous gêne, parlez-en à un professionnel avec cet exemple.
+
+Le bilan peut examiner ce qui arrive la nuit et ce que cela change dans votre activité.
+
+### 3. Redonner un moment à la deuxième question
+
+Garder un échange de travail possible après une réponse précipitée.
+
+**Exercice pratique**
+
+- Dites quelle décision est prioritaire maintenant.
+- Proposez un moment pour revenir à l’autre demande.
+- Reprenez-la avec le document ou la personne nécessaire.
+
+Les deux questions peuvent être traitées avec l’attention qu’elles demandent.
 
 ## Un seul numéro à l’écran
 
 Salim lit le numéro qu’Élvire vient de confirmer et part. Sonia attend qu’elle relève la tête pour lui remontrer la photo. Élvire lui dit qu’elle lui a parlé sèchement et qu’elle aimerait voir la cour avant qu’elles annoncent une date. Sonia est d’accord pour demander une visite. Sur une autre feuille, Élvire note que c’est le troisième matin en quelques jours où elle s’est réveillée avant l’heure. Elle ne sait pas encore comment raconter le reste. Elle écrit simplement « les deux adresses » pour se souvenir de ce que la nuit avait changé dans la matinée.
+
+---
+
+**Conclusion**
+
+Salim repart avec le bon numéro et Sonia pourra faire visiter la cour avant l’annonce. En écrivant « les deux adresses », Élvire garde la trace de l’effort inattendu du matin. Cette observation lui sera utile si elle veut expliquer ce que les réveils changent.

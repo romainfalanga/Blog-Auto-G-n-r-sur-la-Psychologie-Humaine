@@ -29,20 +29,83 @@ Ils font une première fois le geste, dans le bruit du rideau métallique que No
 
 Gaspard attrape une pelle tombée sous la table. « Attends, je la vois mieux d’ici. » Sacha se penche avec lui. La motte est restée sur le plateau. La racine ne ressemble plus du tout à de la ficelle maintenant qu’il la regarde. Il répond à la question de Gaspard, puis reprend sa fiche. Il avait passé la moitié de la veille à se demander comment cacher ses mains si elles tremblaient. Il découvre qu’il n’a pas laissé de place dans le texte pour quelqu’un qui pose une bonne question.
 
-## À quoi sert la préparation ?
+## Quand une préparation sert à se protéger du jugement
 
-Dans l’anxiété sociale, une partie de l’attention peut rester fixée sur ce que les autres risquent de remarquer chez soi. Des moyens de se protéger du jugement peuvent prendre beaucoup de place : penser à tenir ses mains hors de vue, vouloir réciter chaque mot ou éviter un échange de regards par crainte d’avoir l’air maladroit. Le bilan professionnel peut explorer ce que ces gestes font pour la personne dans la situation, et le prix qu’elle paie quand ils occupent une part de son attention.
+Dans l’anxiété sociale, une personne peut préparer des gestes ou des phrases destinés à empêcher une mauvaise impression. Ces conduites peuvent la rassurer sur le moment et prendre de l’attention pendant l’échange. Leur rôle dépend de l’usage, pas de l’objet lui-même. Sur la fiche de Sacha, le dessin aide le public à comprendre et le verso sert surtout à éviter une hésitation visible.
 
-## Comment cette difficulté se manifeste
+## Comment distinguer un support utile d’une conduite de protection ?
 
-Une fiche peut aussi être utile pour transmettre une information. La racine qu’il a dessinée doit être visible depuis le bout de la table. Il lui sert d’appui quand le rideau fait du bruit. Le texte du verso a une autre fonction, pour lui : s’il suit tout dans l’ordre, il espère que personne ne verra son hésitation. Quand Gaspard lui parle, cet effort prend le dessus sur ce qu’il voulait lui montrer.
+### La préparation vise ce qu’on veut cacher
 
-## Garder le dessin, discuter du reste
+La conduite de protection cherche à empêcher les autres de remarquer ce qu’on redoute.
 
-NICE décrit des thérapies comportementales et cognitives qui aident la personne à examiner où va son attention et ce qu’elle fait pour se protéger du jugement. Sacha pourra apporter les deux faces de sa fiche en consultation. La docteure Rigal pourra lui demander ce qu’il craignait et ce qui s’est passé lorsque Gaspard a posé sa question. Le soin peut faire une place à des essais discutés avec elle, avec une intention claire. Retirer un appui à quelqu’un au dernier moment ne lui laisse ni ce choix ni le temps d’en comprendre l’intérêt.
+**Exemples concrets**
 
-Pour leur travail, Sacha et Gaspard peuvent décider que la fiche restera sur la table, visible de tous, et prévoir une pause pour les questions. Ils disposent ainsi d’une manière de transmettre qui accepte les interruptions. Sacha peut demander à Gaspard ce qu’il a compris du geste, plutôt que de lui demander s’il l’a trouvé convaincant.
+- Sacha prépare un mot de secours et réfléchit à la manière de cacher un tremblement.
+- Quelqu’un serre son cahier contre lui pour que ses mains soient moins visibles pendant qu’il explique un dessin.
+
+### La surveillance mobilise de l’attention
+
+Suivre un plan mot à mot peut laisser moins de place à une question imprévue.
+
+**Exemples concrets**
+
+- Au verso, Sacha a prévu ses pauses sans laisser de place aux questions.
+- Une personne écoute peu la réponse parce qu’elle vérifie si la prochaine phrase correspond à celle répétée la veille.
+
+### Un même support peut répondre à deux besoins
+
+Ce qui rend une tâche lisible pour les autres mérite d’être distingué de ce qui sert à prévenir un jugement redouté.
+
+**Exemples concrets**
+
+- Gaspard peut mieux voir la racine grâce au dessin au recto.
+- Une fiche avec trois dates aide un groupe à suivre ; réciter chaque ligne en surveillant son ton peut avoir une autre fonction.
+
+## 3 techniques pour examiner le rôle d’une préparation
+
+### 1. Décrire le geste et son intention
+
+Comprendre à quoi sert ce qu’on prépare.
+
+**Exercice pratique**
+
+- Choisissez un geste, une phrase ou un objet.
+- Dites ce que vous espérez éviter ou rendre plus simple.
+- Comparez ce but à ce dont l’interlocuteur a réellement besoin.
+
+La discussion distingue des aides qui se ressemblent mais n’ont pas le même usage.
+
+### 2. Garder un support pour l’explication
+
+Faciliter la compréhension du public pendant l’essai de travail.
+
+**Exercice pratique**
+
+- Identifiez le détail qu’on doit pouvoir voir.
+- Testez sa lisibilité depuis l’autre côté de la table.
+- Corrigez le dessin selon ce que l’observateur voit.
+
+Le support se juge sur une question de métier plutôt que sur l’impression donnée.
+
+### 3. Apporter l’exemple au cabinet
+
+Examiner sans précipitation une conduite qui coûte de l’attention.
+
+**Exercice pratique**
+
+- Décrivez la situation et le jugement que vous redoutiez.
+- Racontez ce que vous surveilliez et ce qui vous a échappé.
+- Discutez avec le praticien de ce que vous aimeriez essayer dans le cadre du soin.
+
+L’exemple aide à comprendre la fonction de la préparation avant d’en modifier l’usage.
 
 ## Le dessin tourné vers la table
 
 Sacha retourne la fiche et redessine la racine avec un trait plus épais. Il gardera les phrases au verso pour en reparler au cabinet. Pour le prochain essai, Gaspard propose de faire venir Nora afin de vérifier si le dessin est visible de l’autre côté de la table. Sacha demande qu’elle sache à l’avance qu’ils lui montreront le geste en entier. Ils fixent dix minutes le jeudi après la fermeture. Avant de sortir, Sacha remet dans le terreau le plant qu’ils ont laissé sur le plateau.
+
+---
+
+**Conclusion**
+
+Sacha épaissit le trait de la racine parce qu’il veut qu’elle se voie. Il garde aussi les phrases préparées pour pouvoir expliquer au cabinet le rôle différent qu’elles ont pris dans l’essai.

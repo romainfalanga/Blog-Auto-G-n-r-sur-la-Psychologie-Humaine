@@ -31,16 +31,81 @@ Il lui dit qu’il se souvient surtout de sa peur : elle voulait partir, changea
 
 ## S’excuser de la phrase dont on se souvient
 
-Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal. Diane se souvient de ses propres mots. Rémi se souvient aussi des décisions qu’il a dû prendre.
+Après un épisode psychotique, la honte peut s’attacher à des paroles dont on se souvient sans que les deux personnes gardent la même scène en mémoire. Elle peut conduire à éviter la conversation ou à vouloir tout réparer d’un seul coup. Diane se souvient d’une phrase adressée à Rémi. Lui se souvient aussi de la peur et du moment où il a dû appeler le Samu. Ils peuvent parler d’un tort sans reprendre toute la situation d’urgence.
 
-## Comment cette difficulté se manifeste
+## Comment la honte après une crise pèse-t-elle sur une conversation ?
 
-Elle peut reconnaître l’effet de la phrase qu’elle regrette et entendre ce qu’il lui répond. Elle lui a demandé son accord pour en parler. Il peut dire jusqu’où il souhaite aller aujourd’hui. Le diagnostic expliqué au rendez-vous donne un cadre pour comprendre une période de détresse. Il ne règle pas à lui seul la conversation que Diane et Rémi sont en train d’avoir.
+### Une phrase occupe le souvenir
 
-## L’urgence de ce soir-là et l’aide possible aujourd’hui
+Une parole regrettée peut revenir plus facilement que ce qui l’entourait.
 
-Rémi n’avait pas besoin de déterminer la cause de cette peur pour demander une aide médicale urgente. Il a nommé la détresse de Diane et décrit la difficulté qu’elle avait à rester en sécurité. Face à une personne très effrayée, parler calmement et reconnaître ce qu’elle ressent permet de l’écouter sans confirmer l’explication qui lui paraît certaine. En France, le 15 joint le Samu et le 112 est aussi utilisable en cas d’urgence. Au canal, la discussion porte sur ce que Rémi peut faire aujourd’hui. Il accepte de garder le numéro de suivi que Diane lui donne. Ils conviennent qu’elle peut joindre l’équipe elle-même et qu’il peut l’aider s’il est disponible.
+**Exemples concrets**
+
+- Diane se rappelle ce qu’elle a dit à Rémi mais pas sa réponse.
+- Après une hospitalisation, une personne revient sur une accusation adressée à une amie et se souvient mal de la fin de l’échange.
+
+### On prépare une excuse qui porte trop loin
+
+La gêne peut pousser à vouloir prouver qu’on est redevenu digne de confiance plutôt qu’à écouter ce qui a blessé.
+
+**Exemples concrets**
+
+- Diane renonce à dire qu’elle n’est plus la même et demande ce que Rémi aimerait qu’elle sache.
+- Quelqu’un commence une longue justification et s’arrête pour entendre ce que son frère a vécu.
+
+### Les deux personnes peuvent demander une limite
+
+Un proche peut accepter une excuse et ne pas vouloir revisiter toute la crise.
+
+**Exemples concrets**
+
+- Rémi peut dire que la phrase lui a fait mal et refuser d’y consacrer l’après-midi.
+- Une amie accepte d’en parler quelques minutes et préfère reprendre l’échange un autre jour.
+
+## 3 techniques pour revenir sur une parole blessante après une crise
+
+### 1. Demander l’accord avant de commencer
+
+Choisir un moment où chacun peut parler et s’arrêter.
+
+**Exercice pratique**
+
+- Indiquez brièvement le sujet.
+- Demandez si la personne est disponible pour l’entendre.
+- Acceptez de fixer un autre moment ou de remettre la discussion à plus tard.
+
+La conversation commence avec une limite claire pour les deux personnes.
+
+### 2. S’excuser pour le geste ou la phrase
+
+Reconnaître une blessure à partir d’un souvenir précis.
+
+**Exercice pratique**
+
+- Nommez la parole ou le geste dont vous vous souvenez.
+- Dites ce que vous en regrettez.
+- Écoutez la réponse sans demander au proche de vous pardonner tout de suite.
+
+L’excuse peut reconnaître l’effet de la phrase sans faire porter à l’autre le soin de vous rassurer.
+
+### 3. Prévoir à part le contact de soins
+
+Laisser les questions de sécurité à ceux qui peuvent y répondre.
+
+**Exercice pratique**
+
+- Reprenez avec l’équipe le moyen de la joindre en cas de changement.
+- Demandez au proche ce qu’il accepte de faire et à quel moment.
+- En cas de danger immédiat ou d’urgence médicale en France, appelez le 15 ou le 112 et suivez les consignes.
+
+Le proche garde son rôle et la réponse à l’urgence appartient aux professionnels.
 
 ## Les deux sachets restés fermés
 
 Diane lui donne le numéro, puis range le téléphone. Elle demande à Rémi s’il veut reprendre le chemin le long des écluses. Il répond qu’il en a assez du vent et qu’il prendrait bien le raccourci vers le marché. Diane l’avait oublié, ce raccourci derrière les vélos. Elle prend les sachets restés fermés et lui en tend un. Rémi lui demande si la carafe dont elle parlait tient vraiment sans anse. Elle lui montre avec les doigts l’endroit qu’elle a resserré pour la saisir. Ils se mettent d’accord pour essayer de trouver de bonnes poires au même marché la semaine suivante.
+
+---
+
+**Conclusion**
+
+Diane a dit ce qu’elle regrettait et Rémi a pu nommer ce qui lui avait fait peur. Leur conversation a une limite qu’ils peuvent tous deux entendre. La prochaine sortie au marché garde sa place entre cousins, à côté du numéro qu’il a accepté de prendre.

@@ -28,20 +28,83 @@ Nour pose la feuille qu’elle apporte avec elle. Elle avait parlé de son diagn
 
 Fatou relit à voix haute. Elle se demande si les gens vont croire qu’il faudra choisir leur chemin dès l’inscription. Nour ajoute que la décision peut se prendre sur place. Puis elle pointe la liste des lieux. Elle aimerait que le message dise à quel endroit le marché est le plus animé. Elle n’a pas encore confirmé que la cour sera ouverte. « Et l’hirondelle ? » demande Fatou. Nour se penche de nouveau vers l’écran. Ça, elle veut bien qu’on en parle.
 
-## Une confidence et une information pratique
+## L’accord pour en parler dépend du contexte
 
-Une personne peut parler de son diagnostic dans une relation et garder cette information privée ailleurs. Nour utilise pour elle-même le mot « autiste ». Elle en a parlé à Fatou dans une conversation choisie. Pour l’annonce, elle souhaite que les voisins lisent ce qu’ils pourront faire et sachent à qui poser une question. Elle garde la décision de se présenter autrement si elle le veut un jour.
+Une personne autiste peut confier son diagnostic dans une conversation et décider de le garder privé dans une annonce. Le choix appartient à la personne et les aménagements peuvent souvent être expliqués par leur usage. Nour avait parlé des bruits de travaux à Fatou. Pour la visite, elle veut surtout que les voisins sachent où se retrouver, quand ils peuvent choisir leur chemin et où montrer l’hirondelle.
 
-## Comment cette difficulté se manifeste
+## Comment la confidentialité change-t-elle entre une conversation et une annonce ?
 
-Le NICE demande aux professionnels de discuter de la participation des proches avec la personne autiste et de respecter la confidentialité. L’invitation de quartier se situe en dehors du soin. Elle donne un exemple de ce qui change quand un message s’adresse à plusieurs personnes et peut être recopié. Fatou peut décrire le parcours et les choix de pause avec des termes utiles au public. Elle peut demander l’accord de Nour avant de transmettre une information personnelle.
+### La confiance porte sur une situation précise
 
-## Laisser les gens indiquer ce qui leur serait utile
+Une information donnée dans un échange privé ne devient pas disponible pour tous les autres usages.
 
-Nour et Fatou choisissent d’inviter chacun à leur écrire s’il lui manque une information. Quelqu’un pourra demander la longueur du passage ou l’endroit où il pourra s’asseoir. Les réponses restent entre l’organisatrice contactée et la personne, sauf si elles conviennent de partager une précision pratique avec le groupe. Si plusieurs voisins posent la même question, l’équipe pourra ajouter la réponse au plan.
+**Exemples concrets**
 
-Fatou veut que son rôle soit clair. Elle peut expliquer les lieux lors du rendez-vous et répondre aux questions sur l’inscription. Nour se charge des textes et du plan. Elles conviennent de se renvoyer les demandes qui concernent leur partie. Elles peuvent aussi dire quand une information reste à vérifier. Une première invitation peut annoncer le kiosque et les choix possibles, puis préciser la cour une fois qu’elles en connaissent les horaires.
+- Nour a parlé de son diagnostic à Fatou un soir où le bruit remontait dans l’immeuble.
+- Fatou lui montre la phrase avant de l’ajouter au message public.
+
+### La diffusion rend l’audience incertaine
+
+Une annonce peut être relayée, abrégée ou lue loin du contexte dans lequel elle a été écrite.
+
+**Exemples concrets**
+
+- Nour ne sait pas qui transmettra le texte du quartier ni quels mots resteront si on le coupe.
+- Elle accepte que son prénom figure près du plan, après avoir vu la version exacte.
+
+### L’appui se décrit aussi par ce qu’il permet
+
+Des renseignements pratiques peuvent expliquer la visite sans révéler à qui un aménagement est particulièrement utile.
+
+**Exemples concrets**
+
+- Le départ par deux chemins peut se décider au kiosque et chacun peut s’arrêter.
+- Nour veut préciser où le marché est animé et parler de l’hirondelle dans l’annonce.
+
+## 3 techniques pour communiquer sur un aménagement en gardant la main sur le reste
+
+### 1. Séparer les renseignements utiles au départ
+
+Rédiger une annonce autour de ce que les visiteurs feront.
+
+**Exercice pratique**
+
+- Indiquez le lieu et l’heure du rendez-vous.
+- Décrivez les trajets, les pauses et les choix possibles.
+- Relisez le texte en retirant les informations de santé que la personne n’a pas choisi de diffuser.
+
+L’annonce explique l’aménagement à tous en respectant la confidentialité choisie.
+
+### 2. Relire la version qui partira
+
+Donner un accord précis sur un texte et son usage.
+
+**Exercice pratique**
+
+- Demandez à voir le message complet avant l’envoi.
+- Indiquez les informations que vous acceptez de voir partagées et dans quel canal.
+- Si la version ou le public change, demandez une nouvelle validation.
+
+L’accord porte sur un texte identifiable plutôt que sur une permission supposée.
+
+### 3. Préparer une réponse aux questions des voisins
+
+Savoir comment parler du projet si quelqu’un demande d’où il vient.
+
+**Exercice pratique**
+
+- Choisissez une phrase sur l’enseigne ou l’idée des deux chemins.
+- Convenez avec le proche qu’il pourra s’en tenir à cette réponse.
+- Gardez le choix d’en dire plus vous-même si vous le souhaitez plus tard.
+
+La curiosité peut trouver une réponse sans élargir la diffusion d’un renseignement personnel.
 
 ## Le mot « autiste » reste dans la conversation
 
 Fatou retire la phrase et envoie à Nour la version qu’elle propose de diffuser. Nour lui répond qu’elle peut ajouter son prénom à côté du plan. Sur la reproduction, elle laisse le crédit de la collection et note qu’elle montrera l’image le jour de la visite. Un voisin leur demande déjà à quelle heure on pourra repartir. Nour écrit que chacun pourra rentrer quand il le souhaite et que le kiosque restera leur point commun. Avant de quitter l’ordinateur, elle ouvre le message de la professionnelle qu’elle doit voir la semaine suivante. Elle voudrait lui parler du temps qu’il lui faut pour récupérer après certaines journées.
+
+---
+
+**Conclusion**
+
+L’annonce dit aux voisins comment venir et repartir. Nour choisit d’y mettre son prénom près du plan et de parler de l’hirondelle. Elle a confié son diagnostic à Fatou dans une autre conversation et garde la décision d’en reparler.

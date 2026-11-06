@@ -34,14 +34,81 @@ Owen avait défendu ce bruit dès le premier dessin. Il le déplace avec la sour
 
 Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange. Un montage de fiction pose ici une question différente : de quoi le film a-t-il besoin à cet endroit, et qu’accepte la personne enregistrée ?
 
-## Comment cette difficulté se manifeste
+Quand la coupe retire un début de mot repris, Owen entend un ton différent. Il préfère écouter la prise entière et décaler le bus. Garder un passage où il bégaie ou préférer une autre coupe sont des choix qu’il peut discuter avec l’équipe, à partir du film et de son accord.
 
-Owen peut laisser entendre le début repris du mot parce qu’il préfère cette prise dans la scène. Il peut aussi couper une pause ailleurs pour avancer dans l’action. Aucune de ces décisions ne démontre qu’il parle mieux ni qu’il accepte que le même enregistrement circule hors du film.
+## Comment une coupe change-t-elle la façon dont le film fait entendre un blocage ?
 
-## Écouter avec l’image et le bruit
+### Un raccord modifie aussi le rythme d’une voix
 
-Nassim a essayé de faire rentrer la voix dans un espace trop court. En redonnant à la phrase son rythme et en déplaçant le bruit du bus, Owen change la succession des informations. Le ruban peut apparaître avant l’explication ; le bruit indique ensuite un départ. Ils peuvent comparer les deux raccords sans demander à Owen de refaire la phrase pour la faire entrer dans le premier. Chacun peut vérifier sa voix dans le montage qui sera montré et demander qu’une prise de travail ne soit pas utilisée. Owen souhaite conserver le silence au milieu de sa phrase ; il accepte de raccourcir l’attente entre la dernière phrase et la sortie du sac. Ces deux décisions ne lui enlèvent pas le droit de revoir encore le passage.
+Raccourcir une phrase pour la caler sur un bruit peut changer le ton ou l’instant où l’auditeur comprend l’intention.
+
+**Exemples concrets**
+
+- La coupe retire le début repris d’un mot et Owen trouve la réplique différente.
+- Un bruit de porte placé trop tôt peut faire paraître la réponse d’un personnage précipitée.
+
+### La personne enregistrée a son propre point d’écoute
+
+Un partenaire peut juger un raccord commode alors que la personne entend autre chose dans sa prise.
+
+**Exemples concrets**
+
+- Nassim pense d’abord au départ du bus ; Owen revient à la façon dont il joue la phrase entière.
+- Dans un entretien filmé, un participant peut préférer garder sa pause parce qu’elle laisse une place à ce qu’il dit ensuite.
+
+### Une décision artistique ne règle pas la diffusion
+
+Le groupe peut accepter d’écouter un montage pour y travailler sans décider qu’il sera vu ailleurs.
+
+**Exemples concrets**
+
+- Tous les quatre vérifient la version dans la salle du club avec M. Vasseur.
+- Les prises anciennes restent au dossier de travail et ne sont pas jointes au fichier exporté.
+
+## 3 techniques pour décider ensemble de la place d’une voix au montage
+
+### 1. Comparer deux raccords complets
+
+Entendre ce que la coupe change dans la scène.
+
+**Exercice pratique**
+
+- Gardez une version avant et une version après la coupe.
+- Écoutez la réplique avec l’image et les bruits autour.
+- Demandez à la personne enregistrée ce qu’elle préfère et pourquoi.
+
+La discussion peut porter sur le personnage et le raccord au lieu de présumer qu’un blocage doit disparaître.
+
+### 2. Déplacer un autre élément
+
+Explorer une solution quand la coupe de voix ne convient pas.
+
+**Exercice pratique**
+
+- Nommez le problème d’image ou de son à régler.
+- Essayez de déplacer le bruit ou de raccourcir un plan.
+- Vérifiez ensemble que l’information reste lisible.
+
+L’équipe peut résoudre un problème de montage tout en gardant la prise choisie.
+
+### 3. Nommer le cercle de la prochaine écoute
+
+Éviter que le fichier de travail sorte de son usage convenu.
+
+**Exercice pratique**
+
+- Identifiez qui doit regarder la version maintenant.
+- Recueillez l’accord pour cette écoute précise.
+- Réservez toute nouvelle projection à une autre décision.
+
+Les interprètes savent dans quel contexte la voix sera entendue.
 
 ## Le bus après la phrase
 
 Nassim remet la prise 2, puis Owen coupe après « trempait » et laisse le bus partir plus loin. Lucile vérifie sa réplique ; Lina confirme que le bruit arrive maintenant quand le sac a quitté le cadre. Ils exportent une version pour la regarder tous les quatre avec M. Vasseur. Chacun a donné son accord pour cette écoute de travail, dans la salle du club. Nassim range les anciennes prises sans les joindre à la vidéo. Sur le chemin du casier, Owen pense qu’il aurait pu se battre tout l’après-midi pour le départ du bus. Il se demande encore si, avec le nouveau raccord, on reconnaîtra le ruban.
+
+---
+
+**Conclusion**
+
+Owen garde la prise entière et laisse le bus partir après la phrase. L’équipe a réglé un raccord et peut vérifier le résultat avec le professeur. Il reste à savoir si le ruban sera visible et si chacun acceptera une projection plus large.

@@ -29,22 +29,83 @@ Dans la réserve, Hélène trouve le support d’une ancienne affiche « Cadres 
 
 Elle fait glisser le croquis entre elles. « On décide d’abord où les mettre aujourd’hui. Pour Noël, qui décide de la place de la table ? » Maud répond que ce sera Dario avec elle. Hélène leur propose de regarder depuis chaque entrée quand ils déplaceront le meuble, comme elles viennent de le faire.
 
-## Attribuer une tâche à partir de ce qu’elle demande
+## Comprendre le travail derrière un « oui »
 
-Un aménagement au travail dure mieux quand son entretien est prévu dès le départ. Les panneaux d’Hélène peuvent aider des clients aussi longtemps qu’ils restent visibles et que la flèche correspond au rayon. Leur efficacité dépend des décisions de l’équipe sur les tables et les présentoirs. Si Maud et Dario déplacent les meubles, ils peuvent vérifier en même temps les indications.
+Un engagement de travail peut être difficile à examiner si ses tâches, sa durée ou les personnes responsables restent implicites. Une description concrète aide la personne vivant avec un trouble du développement intellectuel et ses collègues à vérifier ce qu’ils acceptent. Hélène peut préparer les panneaux d’aujourd’hui. Avant de répondre pour Noël, elle veut savoir ce que « tout refaire » demanderait.
 
-## Comment cette difficulté se manifeste
+## Comment une demande imprécise peut-elle devenir un engagement clair ?
 
-Hélène pourra donner un avis sur un dessin ou sur un nouvel emplacement si un temps de travail est prévu.
+### Le même verbe peut désigner plusieurs tâches
 
-La HAS propose de réfléchir à l’environnement de travail avec la personne et le collectif. Cela permet d’identifier ce qui relève de l’organisation et les appuis que la personne souhaite. L’OMS rappelle que les habiletés pratiques s’exercent dans des cadres précis. Une demande vague de refaire l’ensemble n’est pas équivalente à une question sur le sens d’une flèche. Hélène peut répondre à l’une sans avoir accepté l’autre.
+Une phrase courte peut laisser ouvertes des actions qui ne demandent ni le même temps ni le même matériel.
 
-## Nommer la contribution et convenir de sa diffusion
+**Exemples concrets**
 
-Maud peut reprendre la proposition pour la lettre une fois la question des supports résolue. Hélène avait refusé le portrait et la mention de son accompagnement ; elle peut encore choisir d’accepter ou non la photo des panneaux. Lui montrer une légende concrète évite de lui faire approuver une intention qu’elle ne peut pas vérifier. La HAS invite à partir des préférences exprimées et à laisser de la place à leur révision.
+- « Tout refaire » peut vouloir dire déplacer les flèches ou redessiner les panneaux.
+- « Reprendre le rayon » peut vouloir dire changer les prix ou réorganiser toutes les étagères.
 
-Si Hélène accepte une photo des panneaux et son prénom pour cette lettre, l’accord porte sur cette proposition. L’équipe peut aussi rappeler ce que Dario et les clients ont apporté au test sans brouiller l’origine du projet. La reconnaissance est une décision de travail ; elle ne demande pas qu’Hélène raconte ce qui relève de son suivi.
+### Un exemple futur aide à répartir la responsabilité
+
+Savoir qui sera là au moment du changement permet de préciser qui fera la vérification.
+
+**Exemples concrets**
+
+- Maud et Dario déplaceront la table de Noël ; Hélène propose qu’ils vérifient aussi les deux entrées.
+- Une équipe décide que les personnes qui déplacent la caisse regardent aussi si le panneau reste visible.
+
+### L’accord peut porter sur une version déterminée
+
+Une légende et une photo n’engagent pas toutes les versions futures du support.
+
+**Exemples concrets**
+
+- Hélène accepte le texte et demande à voir le cadrage avant l’envoi.
+- Une personne valide une phrase de crédit et souhaite relire la page une fois la maquette terminée.
+
+## 3 techniques pour rendre un engagement de travail compréhensible
+
+### 1. Demander ce que le verbe signifie en pratique
+
+Savoir quelles actions sont réellement attendues.
+
+**Exercice pratique**
+
+- Reprenez le mot qui laisse plusieurs interprétations.
+- Proposez deux exemples concrets de ce qu’il pourrait vouloir dire.
+- Faites préciser les limites avant de répondre.
+
+Chacun peut s’accorder sur une tâche repérable dans le temps et l’espace.
+
+### 2. Attribuer le suivi à l’équipe qui pourra agir
+
+Organiser ce qui se passera lorsqu’un changement aura lieu.
+
+**Exercice pratique**
+
+- Identifiez les personnes responsables du déplacement.
+- Ajoutez la vérification des repères à cette tâche.
+- Inscrivez la règle sur le support que l’équipe consultera.
+
+La maintenance ne repose pas sur une promesse vague de la personne qui a créé les panneaux.
+
+### 3. Distinguer l’accord de principe et la dernière vérification
+
+Garder la main jusqu’à ce que le support soit complet.
+
+**Exercice pratique**
+
+- Lisez la légende telle qu’elle sera publiée.
+- Dites ce que vous acceptez déjà.
+- Convenez du moment où vous verrez le cadrage final.
+
+Les conditions d’accord restent claires pour les personnes qui préparent la publication.
 
 ## La pochette sort de la réserve
 
 La vieille pochette n’a qu’une marque dans un coin, loin du texte. Hélène la pose avec le support neuf sur le comptoir pour l’installation de l’après-midi. Maud note sur le croquis que les personnes qui déplacent les meubles vérifieront les flèches. Elle montre aussi la légende à Hélène : « Panneaux conçus par Hélène, du rayon vaisselle, et essayés avec les clients. » Hélène accepte cette phrase et une photo des panneaux installés pour la lettre du mois. Elle demande à voir le cadrage avant l’envoi. Maud laisse la case du portrait barrée.
+
+---
+
+**Conclusion**
+
+La vieille pochette pourra protéger le panneau de l’allée centrale. La règle pour Noël est inscrite sur le croquis, et le cadrage sera montré avant l’envoi. Hélène sait maintenant à quoi elle a répondu.

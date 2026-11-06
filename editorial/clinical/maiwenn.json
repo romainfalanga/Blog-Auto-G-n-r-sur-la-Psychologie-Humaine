@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Une idée peut arriver avant sa phrase",
-          "text": "Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée."
+          "text": "Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée.\n\nLes corrections peuvent prendre assez de place pour que le lien entre deux idées se perde. Maïwenn a en tête les gens qui installent le marché, mais en reprenant sa phrase elle ne sait plus à qui renvoie « ils ». La photo lui rend un point de départ. Elle peut d’abord noter ce qu’elle veut raconter, puis chercher comment l’écrire."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Maïwenn, le diagnostic a déjà été posé. Dans cette réunion, personne n’a vu le temps consacré à ce brouillon. Elle sait en revanche quel détail l’a fait s’arrêter devant la halle et quelles questions ce détail lui donne envie de poser."
+          "heading": "Comment les corrections peuvent-elles faire perdre le fil d’une idée ?",
+          "points": [
+            {
+              "heading": "Une correction prend la place de la suite",
+              "text": "Chercher l’orthographe ou une terminaison pendant qu’on formule peut détourner l’attention de ce qui devait venir ensuite.",
+              "examples": [
+                "Maïwenn revient sur sa première ligne et perd le lien entre le pronom et les personnes de la scène.",
+                "Une élève peut oublier l’exemple qu’elle voulait donner pendant qu’elle corrige le début d’une phrase."
+              ]
+            },
+            {
+              "heading": "L’ordre du texte reste à construire",
+              "text": "Une idée claire à l’oral doit encore devenir une suite que le lecteur peut suivre sans voir la scène.",
+              "examples": [
+                "Maïwenn peut montrer la table du marché sur le tirage et dire ce qu’elle veut raconter.",
+                "Dans un article sur un atelier, il faut nommer la personne qui pose l’objet avant d’écrire ce qu’elle en fait."
+              ]
+            },
+            {
+              "heading": "Une trace courte peut garder le sujet",
+              "text": "Un mot ou une image peut aider à conserver l’intention quand la phrase demande encore du travail.",
+              "examples": [
+                "Maïwenn écrit « avant les clients » au dos de sa photo.",
+                "Un brouillon peut conserver deux mots sous un dessin avant de chercher la liaison qui manque."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écouter d’abord la proposition",
-          "text": "Un tirage posé sur une table permet ici de commencer par le sujet. La photo indique un lieu et Maïwenn précise à l’oral ce qu’elle veut y chercher ; le groupe peut déjà lui répondre sur le fond. Cela ne règle pas la rédaction à venir. Ça évite que l’idée soit écartée avant d’avoir été discutée. Lou demande si elles suivraient une seule personne ou plusieurs. La question plaît à Maïwenn : elle sait qu’elle aurait sauté directement aux images. Elle dit qu’elle veut d’abord voir comment les gens se croisent dans la halle. Elles vont écrire au gardien pour savoir si une visite est possible."
+          "heading": "3 techniques pour garder une idée pendant qu’on cherche sa phrase",
+          "points": [
+            {
+              "heading": "Noter ce qu’on veut faire voir",
+              "objective": "Garder le sujet avant la première correction.",
+              "exercise": [
+                "Choisissez une image ou un détail de la scène.",
+                "Écrivez à côté deux ou trois mots qui le situent.",
+                "Relisez cette trace avant de revenir à la phrase."
+              ],
+              "benefit": "Le texte peut repartir de l’intention initiale si les corrections interrompent la rédaction."
+            },
+            {
+              "heading": "Donner un ordre aux détails",
+              "objective": "Construire le fil avant de régler la forme.",
+              "exercise": [
+                "Notez qui est là et ce qui arrive d’abord.",
+                "Placez le détail important après ce premier repère.",
+                "Dites à voix haute ce que le lecteur doit comprendre du lien."
+              ],
+              "benefit": "L’enchaînement peut être discuté sans arrêter le travail sur chaque mot."
+            },
+            {
+              "heading": "Garder une marque là où l’on hésite",
+              "objective": "Éviter de reprendre tout le paragraphe pour une difficulté précise.",
+              "exercise": [
+                "Soulignez le mot ou la terminaison incertaine.",
+                "Continuez jusqu’à la fin de l’idée.",
+                "Revenez ensuite à la marque pour la vérifier ou demander de l’aide."
+              ],
+              "benefit": "Le temps de formulation et celui de la correction deviennent plus faciles à distinguer."
+            }
+          ]
         }
       ],
       "ending_title": "Retourner le tirage",
@@ -52,7 +108,8 @@
         "next": "Le groupe retient le sujet. Après accord de Mme Lenoir, Lou envoie avec Maïwenn la demande de visite au gardien."
       },
       "clinical_focus": "Organisation des idées à l’écrit",
-      "clinical_intro": "Maïwenn rature sa première ligne et ne sait plus à qui renvoie « ils ». Elle peut pourtant expliquer son sujet en montrant une photo. Un trouble développemental de l’expression écrite peut peser sur l’orthographe, la grammaire ou l’organisation d’un texte. Le passage à l’écrit lui demande un effort durable et la peur que sa phrase soit jugée lui fait envisager de remettre son projet à plus tard."
+      "clinical_intro": "Maïwenn rature sa première ligne et ne sait plus à qui renvoie « ils ». Elle peut pourtant expliquer son sujet en montrant une photo. Un trouble développemental de l’expression écrite peut peser sur l’orthographe, la grammaire ou l’organisation d’un texte. Le passage à l’écrit lui demande un effort durable et la peur que sa phrase soit jugée lui fait envisager de remettre son projet à plus tard.",
+      "conclusion": "Le tirage donne à Maïwenn un point de départ que sa ligne raturée avait perdu. Elle propose le sujet et dit à Lou qu’elle veut aussi écrire. Le reportage peut commencer avec quelques mots choisis, avant que la première phrase soit arrêtée."
     },
     {
       "number": 2,
@@ -70,17 +127,73 @@
         {
           "role": "explanation",
           "heading": "Le temps qu’on ne voit pas sur place",
-          "text": "Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi."
+          "text": "Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi.\n\nMaïwenn essaie de noter les mots de Rachid pendant que le plateau se déplace et qu’une autre question arrive. Écrire lui prend le temps où elle aurait voulu regarder. Elle et Lou peuvent décider quels mots méritent une note exacte, qui la prend et à quel moment revenir à l’observation."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Maïwenn voudrait garder les mots exacts du gardien tout en suivant ce qu’il montre ; si elle s’attarde à écrire, la scène continue sans elle. Lou pensait lui libérer les mains en prenant toutes les notes. Son offre prend un autre sens quand Maïwenn comprend qu’elle risque aussi de perdre le moment où l’on choisit ce qui sera raconté."
+          "heading": "Comment écrire en écoutant peut-il faire manquer une partie de la scène ?",
+          "points": [
+            {
+              "heading": "La phrase à noter retient l’attention",
+              "text": "Pendant qu’on cherche comment écrire quelques mots, le reste de l’échange peut continuer trop vite.",
+              "examples": [
+                "Maïwenn n’a pas fini de noter la phrase du gardien quand une autre question est posée.",
+                "Dans une visite d’atelier, une élève peut manquer la suite du geste pendant qu’elle écrit le nom de l’outil."
+              ]
+            },
+            {
+              "heading": "Regarder et écrire ne gardent pas les mêmes détails",
+              "text": "Une note peut conserver une parole, et une observation apporte parfois ce que personne n’a décrit.",
+              "examples": [
+                "Lou saisit la phrase sur les chariots pendant que Maïwenn s’intéresse au déplacement de la table.",
+                "Une personne qui prend des notes peut garder l’heure de l’installation sans voir la main qui retient le plateau."
+              ]
+            },
+            {
+              "heading": "Le retour aux notes demande du contexte",
+              "text": "Des mots abrégés deviennent plus utiles si leur lecteur peut les relier au moment observé.",
+              "examples": [
+                "Maïwenn met une étoile à côté de la phrase sur les chariots.",
+                "Une heure notée au bord d’une photo peut permettre de retrouver plus tard à quel passage du carnet elle correspond."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prendre appui sur la note de l’autre",
-          "text": "Se répartir des tâches n’oblige pas à séparer les idées de la personne qui les mettra ensuite en phrases. Elles conviennent que Lou note les mots du gardien quand Maïwenn le lui demande. Maïwenn place une étoile près des passages qu’elle veut retrouver et continue à poser ses questions. Au calme, elle décidera quelles notes relier à quelles photos. L’étoile est un repère pour ce carnet et ce reportage, pas une solution pour toutes les tâches écrites. Elle évite aujourd’hui de devoir tout retenir pendant que Rachid leur explique le trajet des tables."
+          "heading": "3 techniques pour prendre des notes sans perdre l’observation",
+          "points": [
+            {
+              "heading": "Décider quand il faut une note exacte",
+              "objective": "Conserver les paroles nécessaires sans chercher à tout transcrire.",
+              "exercise": [
+                "Repérez la phrase qui pourrait être citée.",
+                "Demandez, si possible, de la faire redire ou confirmer.",
+                "Notez qui l’a dite et dans quel contexte."
+              ],
+              "benefit": "La vérification peut porter sur une parole précise."
+            },
+            {
+              "heading": "Partager l’écoute et le regard",
+              "objective": "Permettre aux deux personnes de contribuer selon le moment.",
+              "exercise": [
+                "Dites qui prend les notes pour cette question.",
+                "Convenez d’un signe si l’autre veut reprendre la parole ou marquer un passage.",
+                "Échangez les rôles pour l’observation suivante si vous le souhaitez."
+              ],
+              "benefit": "La personne qui écrit moins vite peut conserver sa part de questions et de choix."
+            },
+            {
+              "heading": "Ajouter un repère avant de quitter le lieu",
+              "objective": "Pouvoir retrouver l’idée à tête reposée.",
+              "exercise": [
+                "Choisissez un mot, une étoile ou un numéro près de la note.",
+                "Reliez-le à l’objet ou à la photo qu’il désigne.",
+                "Reprenez le carnet ensuite pour développer la phrase."
+              ],
+              "benefit": "Le souvenir utile reste disponible sans devoir rédiger sur place."
+            }
+          ]
         }
       ],
       "ending_title": "Une étoile au bord du carnet",
@@ -97,7 +210,8 @@
         "next": "Maïwenn repart avec les notes de Lou et veut rédiger la légende de la table. Il faudra montrer à Rachid l’image et obtenir son accord avant d’imprimer le numéro."
       },
       "clinical_focus": "Coût de la prise de notes",
-      "clinical_intro": "Maïwenn commence à noter la phrase du gardien. Avant qu’elle ait fini, une autre question est posée et la table qui l’intéresse a changé de place. Une difficulté d’expression écrite peut rendre coûteux le fait d’écouter et d’écrire en même temps. Maïwenn demande à poser sa question, puis discute du partage des notes pour garder sa place dans le choix de ce qui sera raconté."
+      "clinical_intro": "Maïwenn commence à noter la phrase du gardien. Avant qu’elle ait fini, une autre question est posée et la table qui l’intéresse a changé de place. Une difficulté d’expression écrite peut rendre coûteux le fait d’écouter et d’écrire en même temps. Maïwenn demande à poser sa question, puis discute du partage des notes pour garder sa place dans le choix de ce qui sera raconté.",
+      "conclusion": "Lou garde la phrase, Maïwenn marque son passage et choisit d’écrire la légende de la table. Le carnet partagé leur permet de rassembler ce que chacune a vu et entendu. Le portrait reste une autre décision à revoir avec Rachid."
     },
     {
       "number": 3,
@@ -115,17 +229,73 @@
         {
           "role": "explanation",
           "heading": "Dicter une phrase, puis vérifier ce qu’elle dit",
-          "text": "La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre."
+          "text": "La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre.\n\nLa dictée vocale aide Maïwenn à dérouler son idée sans revenir tout de suite aux corrections. Quand le logiciel écrit « case » à la place de « cale », le brouillon devient pourtant inexact. L’outil déplace une partie du travail vers la vérification du sens et ne remplace pas la relecture."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Maïwenn apprécie de pouvoir enchaîner ses deux phrases tant qu’elle entend encore dans sa tête le choc du plateau. Le logiciel, lui, ne voit pas la cale sur la photo ; « case » est un mot possible et ne sera pas forcément signalé comme une erreur. Le brouillon lui rend une partie de son élan, mais il lui reste un vrai travail d’autrice : vérifier le sens, décider ce qu’elle garde et corriger la forme."
+          "heading": "Comment la dictée vocale déplace-t-elle l’effort vers la relecture ?",
+          "points": [
+            {
+              "heading": "L’idée peut s’enchaîner avant la correction",
+              "text": "Dicter permet de garder le fil d’un premier jet lorsque la saisie ou l’orthographe interrompt souvent la phrase.",
+              "examples": [
+                "Maïwenn formule le geste en deux phrases avant de revenir à leur forme.",
+                "Une élève peut dicter l’ordre des actions observées avant de chercher où ponctuer."
+              ]
+            },
+            {
+              "heading": "Un mot plausible peut changer le fait",
+              "text": "La transcription peut choisir un autre mot qui ressemble au premier et qui reste grammaticalement possible.",
+              "examples": [
+                "Le logiciel écrit « case » alors que Rachid a glissé une cale.",
+                "Un brouillon peut écrire « table » au lieu de « tablier » sans que le reste de la phrase rende l’erreur évidente."
+              ]
+            },
+            {
+              "heading": "La phrase doit encore fonctionner pour un lecteur",
+              "text": "Une dictée compréhensible pour son auteur peut demander des précisions sur la personne ou le geste.",
+              "examples": [
+                "Maïwenn demande à Lou si elle arrive à voir le geste en lisant.",
+                "Un lecteur qui n’était pas à la halle peut avoir besoin de savoir quel plateau bouge."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Relire avec un seul objectif à la fois",
-          "text": "Maïwenn se donne d’abord une question simple : est-ce bien ce qui s’est passé devant elle ? Elle rouvre la photo, rectifie « case » et retire une indication de temps qu’elle n’a pas notée. Il lui restera une vérification des accords, qu’elle préfère faire un peu plus tard. Une voix de synthèse peut faire entendre une substitution de mot ; elle ne fait pas entendre toutes les marques écrites et ne remplace pas la lecture du texte. Maïwenn en retient la possibilité d’un appui. Le jour où parler ou écouter n’est pas pratique, elle pourra revenir à des notes au clavier."
+          "heading": "3 techniques pour dicter un brouillon et vérifier ce qu’il raconte",
+          "points": [
+            {
+              "heading": "Délimiter un premier jet",
+              "objective": "Séparer le moment de formuler et celui de corriger.",
+              "exercise": [
+                "Choisissez un passage court à dicter.",
+                "Dites-le en gardant l’objet ou la photo à portée.",
+                "Laissez la transcription en brouillon jusqu’à la relecture."
+              ],
+              "benefit": "L’outil sert à garder l’idée avant de fixer le texte."
+            },
+            {
+              "heading": "Vérifier les mots qui changent le sens",
+              "objective": "Repérer une substitution qui ferait raconter une autre scène.",
+              "exercise": [
+                "Relisez les noms, objets et actions du passage.",
+                "Comparez-les à vos notes ou à l’image.",
+                "Corrigez le mot avant de travailler les accords ou la ponctuation."
+              ],
+              "benefit": "La relecture commence par ce dont le lecteur a besoin pour comprendre le fait."
+            },
+            {
+              "heading": "Demander un retour sur un détail",
+              "objective": "Savoir ce qu’un lecteur extérieur peut se représenter.",
+              "exercise": [
+                "Envoyez seulement le passage concerné.",
+                "Posez une question sur ce que le lecteur voit ou comprend.",
+                "Choisissez ensuite ce que vous souhaitez réviser vous-même."
+              ],
+              "benefit": "La demande de commentaire soutient la rédaction et laisse la décision à l’autrice."
+            }
+          ]
         }
       ],
       "ending_title": "Deux phrases dans le document",
@@ -142,7 +312,8 @@
         "next": "Le passage figure dans le document partagé. La demande de commentaire ne vaut pas accord pour modifier les phrases."
       },
       "clinical_focus": "Dictée vocale et révision du sens",
-      "clinical_intro": "Au clavier, les corrections ramenaient Maïwenn au début de la phrase. En dictant, elle peut enchaîner son idée avant de la perdre. Le logiciel écrit toutefois « case » à la place de « cale ». Avec un trouble de l’expression écrite, un outil peut alléger une partie du travail et déplacer l’effort vers la relecture. Maïwenn sépare les deux moments pour continuer à rédiger."
+      "clinical_intro": "Au clavier, les corrections ramenaient Maïwenn au début de la phrase. En dictant, elle peut enchaîner son idée avant de la perdre. Le logiciel écrit toutefois « case » à la place de « cale ». Avec un trouble de l’expression écrite, un outil peut alléger une partie du travail et déplacer l’effort vers la relecture. Maïwenn sépare les deux moments pour continuer à rédiger.",
+      "conclusion": "La dictée donne à Maïwenn deux phrases qu’elle peut relire et discuter avec Lou. Elle rétablit le mot qui change le geste. Elle décidera ensuite si la cale mérite cette place dans la légende."
     },
     {
       "number": 4,
@@ -160,17 +331,73 @@
         {
           "role": "explanation",
           "heading": "Une correction et une réécriture n’ont pas le même effet",
-          "text": "Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise."
+          "text": "Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise.\n\nLou a clarifié le mouvement, mais sa version a fait disparaître le bruit que Maïwenn voulait faire entendre. Lorsqu’une phrase a déjà demandé beaucoup d’effort, commenter le problème précis rend la décision moins coûteuse qu’une réécriture complète. Maïwenn peut garder le détail qui compte et éclaircir le pronom."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Lou cherchait une légende courte, Maïwenn voulait faire entendre l’instant où la table cesse de taper. Le choix entre ces deux effets relève du reportage. Clarifier à qui renvoie un pronom relève de la compréhension ; vérifier un accord demande encore une autre attention. On peut travailler sur ces trois questions sans faire de la rapidité de chacune un verdict sur sa façon d’écrire."
+          "heading": "Comment une correction peut-elle finir par effacer l’intention de l’autrice ?",
+          "points": [
+            {
+              "heading": "Un lecteur peut signaler une ambiguïté utile",
+              "text": "Un retour précis sur le passage difficile permet à l’autrice de retrouver la petite chose à changer.",
+              "examples": [
+                "Lou ne sait pas d’abord qui a glissé la cale.",
+                "Un lecteur peut comprendre l’action mais hésiter sur la table dont parle la légende."
+              ]
+            },
+            {
+              "heading": "Une réécriture touche parfois plus que le problème",
+              "text": "En lissant toute la phrase, on peut modifier son rythme ou supprimer une observation à laquelle l’autre tient.",
+              "examples": [
+                "La version de Lou est plus nette et perd le bruit du plateau.",
+                "Raccourcir une description peut enlever le détail qui distinguait ce marché d’un autre."
+              ]
+            },
+            {
+              "heading": "La personne qui écrit peut choisir la correction",
+              "text": "Quand le problème est nommé, une modification ciblée peut rendre le texte clair en gardant sa voix.",
+              "examples": [
+                "Maïwenn remplace le pronom par « Rachid ».",
+                "Une autrice peut déplacer un détail dans la phrase suivante plutôt que l’abandonner."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir le mode de relecture avant de toucher au texte",
-          "text": "Sur leur page commune, elles gardent le texte d’origine et ouvrent les commentaires. Elles pourront signaler une phrase difficile à comprendre, proposer une autre version à côté, puis décider ensemble des changements qui touchent leur angle. Si l’une demande seulement un avis sur le sens, l’autre commence par là. Elles réserveront un second passage aux accords et à la ponctuation. Cette manière de faire prend un peu plus de temps que d’envoyer une copie déjà réécrite. Elle leur permet de comparer deux phrases pour ce qu’elles racontent, sans présumer que l’une des deux veut être corrigée tout de suite."
+          "heading": "3 techniques pour réviser ensemble sans perdre ce qu’on voulait dire",
+          "points": [
+            {
+              "heading": "Indiquer l’endroit où le sens se brouille",
+              "objective": "Donner un retour que l’autrice peut utiliser elle-même.",
+              "exercise": [
+                "Montrez le passage précis.",
+                "Dites ce que vous avez compris et ce qui reste incertain.",
+                "Laissez l’autrice proposer une clarification."
+              ],
+              "benefit": "Le retour peut améliorer la lecture sans prendre la phrase en charge."
+            },
+            {
+              "heading": "Nommer le détail à conserver",
+              "objective": "Préserver ce qui porte l’angle ou la voix du texte.",
+              "exercise": [
+                "Choisissez le mot, le son ou l’image auquel vous tenez.",
+                "Comparez les versions en regardant si ce détail reste perceptible.",
+                "Essayez la plus petite modification qui clarifie le passage."
+              ],
+              "benefit": "L’autrice peut faire un choix proportionné au problème signalé."
+            },
+            {
+              "heading": "Convenir du mode de modification",
+              "objective": "Distinguer une proposition d’un changement déjà appliqué.",
+              "exercise": [
+                "Utilisez un commentaire pour une réécriture suggérée.",
+                "Attendez l’accord de l’autre avant de remplacer le passage.",
+                "Vérifiez ensemble la longueur dans la maquette."
+              ],
+              "benefit": "Les décisions restent visibles et peuvent être reprises si la place change."
+            }
+          ]
         }
       ],
       "ending_title": "Entendre encore le plateau",
@@ -187,7 +414,8 @@
         "next": "Il faut mesurer la place réelle de la légende et prévoir une passe sur le sens, puis sur la forme, avant le bouclage."
       },
       "clinical_focus": "Autonomie dans la révision du texte",
-      "clinical_intro": "La légende proposée par Lou est plus nette et a perdu le bruit auquel Maïwenn tenait. Quand chaque phrase a déjà demandé du travail, il peut être tentant de céder devant une version rédigée plus vite. Un retour qui nomme le problème de compréhension aide Maïwenn à choisir ce qu’elle corrige. Elle peut clarifier un pronom et garder le détail qui donne sa voix au reportage."
+      "clinical_intro": "La légende proposée par Lou est plus nette et a perdu le bruit auquel Maïwenn tenait. Quand chaque phrase a déjà demandé du travail, il peut être tentant de céder devant une version rédigée plus vite. Un retour qui nomme le problème de compréhension aide Maïwenn à choisir ce qu’elle corrige. Elle peut clarifier un pronom et garder le détail qui donne sa voix au reportage.",
+      "conclusion": "Maïwenn précise qui glisse la cale et garde le plateau qu’on entend se taire. Les deux autrices peuvent maintenant vérifier la place de la légende. Leur accord sur les commentaires leur donnera un moyen de parler du prochain changement avant de l’appliquer."
     },
     {
       "number": 5,
@@ -205,17 +433,73 @@
         {
           "role": "explanation",
           "heading": "Le travail derrière une page qui tient",
-          "text": "Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante."
+          "text": "Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante.\n\nMaïwenn voit encore des faits à vérifier et des accords à relire. Ces deux tâches n’occupent pas nécessairement le même temps, surtout quand revenir sur une phrase lui demande plusieurs passages. Prévoir une place pour chaque vérification lui permet de discuter de la page à livrer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Maïwenn, elle, sait ce qui se passe quand elle essaie de vérifier le sens et la forme en même temps : elle revient au début et finit parfois par ne plus savoir ce qu’elle cherchait. En disant ce qu’il reste à faire, elle donne au groupe un élément de travail dont il peut se servir."
+          "heading": "Comment une échéance courte rend-elle le temps de relecture difficile à prévoir ?",
+          "points": [
+            {
+              "heading": "La mise en page peut donner une impression trompeuse",
+              "text": "Une page presque remplie semble parfois prête alors que son sens et sa forme restent à vérifier.",
+              "examples": [
+                "Sofiane regarde les rectangles de la maquette et pense que la page tient.",
+                "Maïwenn sait qu’il reste à confirmer ce que les légendes racontent des gestes."
+              ]
+            },
+            {
+              "heading": "Les vérifications s’ajoutent sans se remplacer",
+              "text": "Vérifier qu’une parole a été bien rapportée et relire un accord demandent une attention différente.",
+              "examples": [
+                "Une légende peut décrire correctement la table et demander encore une reprise grammaticale.",
+                "Une image peut rentrer dans la page tout en attendant l’accord de la personne photographiée."
+              ]
+            },
+            {
+              "heading": "Une marge permet de faire un choix",
+              "text": "Distinguer ce qui doit paraître et ce qui reste facultatif rend la charge plus lisible avant le bouclage.",
+              "examples": [
+                "Maïwenn garde deux places et laisse un encadré facultatif.",
+                "La pince orange offre une autre image à travailler si le portrait n’est pas retenu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider avec le groupe de ce qui peut bouger",
-          "text": "La date de remise ne change pas. Mme Lenoir demande ce qui peut sortir de la page si le temps manque. Lou tient à montrer l’ordre dans lequel le marché prend forme ; Maïwenn tient à ce que chaque photo raconte quelque chose de différent. Deux images peuvent suffire à leur idée. Elles gardent l’encadré comme élément que l’on peut retirer sans refaire toute la page. Quand des difficultés semblables pèsent sur le travail de classe, les adaptations se discutent dans le cadre scolaire et peuvent s’articuler avec le suivi, selon les besoins. Ici, Mme Lenoir règle d’abord avec le groupe un délai et un volume de travail."
+          "heading": "3 techniques pour rendre le temps de relecture visible avant une échéance",
+          "points": [
+            {
+              "heading": "Réserver deux moments différents",
+              "objective": "Donner un créneau à chaque type de vérification.",
+              "exercise": [
+                "Listez les faits et légendes dont il faut vérifier le sens.",
+                "Choisissez un moment distinct pour les accords et la ponctuation.",
+                "Inscrivez ces deux temps au calendrier de l’équipe."
+              ],
+              "benefit": "La maquette peut avancer sans cacher le travail encore à faire."
+            },
+            {
+              "heading": "Définir le périmètre de la page",
+              "objective": "Adapter le contenu au temps qui reste réellement.",
+              "exercise": [
+                "Choisissez les éléments indispensables au reportage.",
+                "Marquez ce qui peut être retiré sans créer de trou dans le récit.",
+                "Vérifiez que le plan de page peut accueillir les deux versions."
+              ],
+              "benefit": "Un retard ou une incertitude peut être traité sans tout remanier."
+            },
+            {
+              "heading": "Séparer l’atelier et la discussion scolaire",
+              "objective": "Garder le temps du projet et un lieu pour parler des besoins durables.",
+              "exercise": [
+                "Nommez ce qui doit être réglé avant le bouclage.",
+                "Demandez un autre moment privé si la difficulté dépasse le reportage.",
+                "Préparez un exemple concret à discuter avec l’enseignante ou le professionnel concerné."
+              ],
+              "benefit": "Chaque échange peut aboutir à une décision qui relève de son cadre."
+            }
+          ]
         }
       ],
       "ending_title": "Deux rectangles et une marge",
@@ -232,7 +516,8 @@
         "next": "Le bouclage est fixé au vendredi de la semaine suivante à 16 heures. Les faits seront vérifiés mercredi. Le portrait attend l’accord de Rachid ; la pince orange reste une solution de remplacement."
       },
       "clinical_focus": "Effort de relecture sous contrainte",
-      "clinical_intro": "Sur la maquette, Sofiane voit une page presque prête. Maïwenn voit des légendes à vérifier et des accords qui lui demandent de reprendre la phrase. Dans un trouble développemental de l’expression écrite, le texte terminé peut masquer le temps et l’effort nécessaires. Réserver un moment pour le sens et un autre pour la forme lui permet d’estimer ce qu’elle peut livrer à l’heure."
+      "clinical_intro": "Sur la maquette, Sofiane voit une page presque prête. Maïwenn voit des légendes à vérifier et des accords qui lui demandent de reprendre la phrase. Dans un trouble développemental de l’expression écrite, le texte terminé peut masquer le temps et l’effort nécessaires. Réserver un moment pour le sens et un autre pour la forme lui permet d’estimer ce qu’elle peut livrer à l’heure.",
+      "conclusion": "Deux images et un encadré facultatif laissent à Maïwenn un temps pour le sens et un autre pour la forme. Le portrait attend toujours la réponse de Rachid. La prochaine échéance est plus claire parce que le travail restant a été nommé."
     },
     {
       "number": 6,
@@ -250,17 +535,73 @@
         {
           "role": "explanation",
           "heading": "Une aide peut changer de taille",
-          "text": "Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne. Au cabinet, Maïwenn a du temps pour chercher un accord et dire ce qu’elle a compris."
+          "text": "Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne. Au cabinet, Maïwenn a du temps pour chercher un accord et dire ce qu’elle a compris.\n\nUn indice sur l’endroit à regarder et une explication du lien entre les mots n’aident pas de la même manière. Maïwenn peut d’abord chercher à comprendre l’accord en orthophonie. Au journal, le temps disponible et son but du moment peuvent lui faire choisir un appui plus direct."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle voudra parfois une indication brève, parfois regarder la phrase avec Mme Simon, parfois entendre une proposition qu’elle pourra accepter ou écarter. Ces réponses peuvent convenir à des moments différents. Mme Simon adapte le travail à l’objectif de la séance et au suivi déjà engagé. Le choix que fait Maïwenn ici ne donne aucune consigne sur le soin ou les exercices d’une autre personne."
+          "heading": "Comment ajuster la quantité d’aide à ce qu’on cherche à faire ?",
+          "points": [
+            {
+              "heading": "Un repère peut suffire à relancer la recherche",
+              "text": "Lorsque la personne connaît le raisonnement, montrer le passage lui laisse faire le reste.",
+              "examples": [
+                "Maïwenn demande d’abord qu’on lui indique où chercher dans la phrase.",
+                "Dans une légende, un trait entre le verbe et le groupe dont il dépend peut suffire à reprendre l’accord."
+              ]
+            },
+            {
+              "heading": "Une explication peut être nécessaire pour comprendre",
+              "text": "Si l’indice laisse encore le choix indécis, reprendre le lien entre les mots donne un autre type d’appui.",
+              "examples": [
+                "Maïwenn change deux fois la terminaison et demande de reprendre le lien entre les mots.",
+                "Un élève qui ne sait pas quel nom gouverne l’accord peut demander qu’on explique comment le repérer."
+              ]
+            },
+            {
+              "heading": "Une proposition directe peut convenir à un autre but",
+              "text": "Lorsque l’objectif est de finir une page, la personne peut choisir de vérifier une proposition plutôt que de chercher seule longtemps.",
+              "examples": [
+                "Lou accepte de commencer par montrer le passage et d’aller plus loin si Maïwenn le demande.",
+                "En réunion, une autrice peut demander une formulation à comparer à la sienne avant le bouclage."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le choix dans un travail à deux",
-          "text": "Au journal, Lou n’a pas le rôle de Mme Simon. Elle peut signaler un passage, écouter Maïwenn ou formuler une suggestion dans le document. Elles peuvent aussi convenir de passer à autre chose si l’aide prend plus de temps qu’elles n’en ont. Maïwenn explique à Mme Simon ce qu’elle voudrait demander à Lou : qu’elle indique d’abord où elle bute, puis qu’elle attende sa réponse avant de proposer une nouvelle phrase. Elle pourra en reparler en suivi si l’essai l’aide peu ou si le même problème se pose régulièrement ailleurs. C’est Maïwenn qui décidera quelles phrases apporter."
+          "heading": "3 techniques pour demander le degré d’aide qui convient",
+          "points": [
+            {
+              "heading": "Dire ce qu’on veut faire de la correction",
+              "objective": "Distinguer un moment d’apprentissage d’une décision de rédaction.",
+              "exercise": [
+                "Nommez le passage qui vous fait hésiter.",
+                "Dites si vous voulez comprendre le lien ou avancer sur le texte.",
+                "Choisissez un indice, une explication ou une proposition à relire."
+              ],
+              "benefit": "L’aide se règle sur le but de la personne."
+            },
+            {
+              "heading": "Commencer par un essai limité",
+              "objective": "Vérifier l’appui sans changer tout le travail partagé.",
+              "exercise": [
+                "Choisissez une ou deux phrases.",
+                "Demandez au partenaire de montrer l’endroit avant de proposer une réponse.",
+                "Ajustez après avoir vu le temps et l’effort nécessaires."
+              ],
+              "benefit": "L’accord peut évoluer à partir d’un exemple."
+            },
+            {
+              "heading": "Apporter la difficulté au bon interlocuteur",
+              "objective": "Garder une place au suivi sans transformer le projet en exercice de soin.",
+              "exercise": [
+                "Notez le type de correction qui revient souvent.",
+                "Parlez-en à l’orthophoniste si vous voulez l’aborder en suivi.",
+                "Au journal, convenez seulement du retour utile au texte en cours."
+              ],
+              "benefit": "Les deux lieux peuvent répondre à des objectifs différents."
+            }
+          ]
         }
       ],
       "ending_title": "Une demande de deux lignes",
@@ -278,7 +619,8 @@
         "next": "Lou accepte un essai limité à deux phrases. Elles prévoient de repasser à la halle et peuvent ajuster l’appui selon le lieu et le temps."
       },
       "clinical_focus": "Aide graduée à la correction",
-      "clinical_intro": "Maïwenn change deux fois la terminaison d’un verbe. Elle demande d’abord à son orthophoniste de montrer où chercher, puis de reprendre le lien entre les mots. Dans son suivi de l’expression écrite, les deux aides servent des objectifs différents. Elle peut vouloir comprendre une correction au cabinet et préférer une proposition rapide en réunion. L’objectif et le temps disponible orientent la forme de l’appui."
+      "clinical_intro": "Maïwenn change deux fois la terminaison d’un verbe. Elle demande d’abord à son orthophoniste de montrer où chercher, puis de reprendre le lien entre les mots. Dans son suivi de l’expression écrite, les deux aides servent des objectifs différents. Elle peut vouloir comprendre une correction au cabinet et préférer une proposition rapide en réunion. L’objectif et le temps disponible orientent la forme de l’appui.",
+      "conclusion": "Maïwenn retient qu’elle peut demander un indice puis une explication si le doute reste. Avec Lou, elle choisit un essai sur deux phrases. L’aide restera à régler selon le texte, le moment et ce qu’elle veut comprendre."
     },
     {
       "number": 7,
@@ -296,17 +638,73 @@
         {
           "role": "explanation",
           "heading": "Un outil change d’usage quand le lieu change",
-          "text": "L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise. Au CDI, Maïwenn pouvait dicter assez bas et reprendre son texte devant un écran stable."
+          "text": "L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise. Au CDI, Maïwenn pouvait dicter assez bas et reprendre son texte devant un écran stable.\n\nDans le bus, le bruit réduit la précision de la transcription et Maïwenn hésite à redire sa phrase devant des inconnus. Écrire le passage entier sur le téléphone lui demande aussi du temps. Elle garde deux repères pour retrouver l’observation, et pourra formuler la phrase dans un lieu plus adapté."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le bus, elle doit à la fois surveiller ce que le téléphone a compris et décider si elle veut que des inconnus entendent le brouillon. Son choix de ranger la dictée tient à ces deux choses. Il ne dit pas que la dictée a cessé de lui être utile. Sur un autre trajet, elle pourrait préférer n’écrire aucun mot."
+          "heading": "Comment le lieu peut-il rendre une dictée vocale moins utile ?",
+          "points": [
+            {
+              "heading": "Le bruit entre dans la prise",
+              "text": "Une dictée qui fonctionne au calme peut produire des mots incertains quand des voix ou des vibrations couvrent la parole.",
+              "examples": [
+                "Au CDI, Maïwenn peut parler bas et vérifier le texte sur un écran stable.",
+                "Dans le bus, le bruit lui fait douter de ce que le logiciel a saisi."
+              ]
+            },
+            {
+              "heading": "L’outil demande de pouvoir parler à son aise",
+              "text": "Dicter à portée d’autres personnes change ce que l’on est prêt à dire ou à répéter.",
+              "examples": [
+                "Maïwenn hésite à redire sa phrase devant des inconnus.",
+                "Quelqu’un peut préférer ne pas dicter une citation dans un couloir où d’autres élèves l’entendent."
+              ]
+            },
+            {
+              "heading": "Une trace minimale garde le détail pour plus tard",
+              "text": "Quand le lieu gêne la formulation, un mot ou une marque suffit parfois pour conserver l’observation.",
+              "examples": [
+                "Maïwenn note le plateau et la main, puis ajoute « depuis la rue ».",
+                "Une photo repérée dans le carnet peut permettre de retrouver l’ordre d’un geste le soir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Sauver l’observation avant de chercher la phrase",
-          "text": "En gardant deux repères et une image, Maïwenn retrouve quelque chose dont elle peut discuter sans fixer la formulation. Lou lui fait remarquer qu’elle a vu le plateau depuis la rue et qu’un lecteur doit savoir d’où elles regardent. À leur descente, chacune pourra reprendre l’idée à sa manière. Elles n’ont pas besoin de finir la scène en marchant ni de convertir l’échange en exercice. Le temps perdu à faire marcher un outil compte aussi ; choisir un brouillon plus court est une façon de réserver de l’attention à l’ordre des gestes et au lieu."
+          "heading": "3 techniques pour garder son idée quand on ne peut pas dicter",
+          "points": [
+            {
+              "heading": "Vérifier les conditions avant de commencer",
+              "objective": "Éviter de perdre du temps à reprendre des mots dans un lieu peu adapté.",
+              "exercise": [
+                "Regardez si vous pourrez parler à votre aise et relire ce qui s’affiche.",
+                "Choisissez une phrase courte pour essayer si le lieu s’y prête.",
+                "Changez de format si le bruit ou la gêne rend l’essai coûteux."
+              ],
+              "benefit": "Le choix dépend des conditions réelles plutôt que d’une habitude."
+            },
+            {
+              "heading": "Garder l’observation en quelques mots",
+              "objective": "Conserver le détail qui compte sans exiger une phrase complète.",
+              "exercise": [
+                "Notez l’objet, le geste ou le contraste observé.",
+                "Ajoutez votre place ou l’heure si elle change le point de vue.",
+                "Mettez la note à côté de la photo ou du carnet correspondant."
+              ],
+              "benefit": "Vous pourrez retrouver l’idée sans reconstruire la phrase mot pour mot."
+            },
+            {
+              "heading": "Programmer la reprise",
+              "objective": "Revenir au texte quand le format choisi pourra servir.",
+              "exercise": [
+                "Choisissez un moment plus calme.",
+                "Relisez d’abord les repères et les notes communes.",
+                "Décidez alors si vous voulez dicter, taper ou demander un retour."
+              ],
+              "benefit": "La phrase pourra se construire autour de ce qui a été vu."
+            }
+          ]
         }
       ],
       "ending_title": "Le téléphone repasse de l’autre côté",
@@ -323,7 +721,8 @@
         "next": "L’ouverture depuis la rue sera reprise mercredi avec le carnet. La dictée reste un appui possible au calme."
       },
       "clinical_focus": "Contraintes d’usage de la dictée",
-      "clinical_intro": "Au CDI, Maïwenn pouvait dicter au calme. Dans le bus, le bruit couvre ses mots et elle hésite à recommencer devant des inconnus. Pour une personne qui s’appuie sur la dictée en raison d’une difficulté d’écriture, l’environnement peut remettre l’effort et la gêne au premier plan. Maïwenn note deux repères qui lui permettront de retrouver l’observation, puis remet la formulation à plus tard."
+      "clinical_intro": "Au CDI, Maïwenn pouvait dicter au calme. Dans le bus, le bruit couvre ses mots et elle hésite à recommencer devant des inconnus. Pour une personne qui s’appuie sur la dictée en raison d’une difficulté d’écriture, l’environnement peut remettre l’effort et la gêne au premier plan. Maïwenn note deux repères qui lui permettront de retrouver l’observation, puis remet la formulation à plus tard.",
+      "conclusion": "Maïwenn arrête la dictée et conserve le détail du plateau qui arrive avant la main. Elle peut reprendre cette observation mercredi avec le carnet. L’outil reste disponible au calme sans devenir la solution pour chaque trajet."
     },
     {
       "number": 8,
@@ -341,17 +740,73 @@
         {
           "role": "explanation",
           "heading": "Dire ce qui aide n’oblige pas à dire pourquoi",
-          "text": "Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal."
+          "text": "Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal.\n\nLa relecture demande à Maïwenn une marge et des retours distincts sur le sens et la forme. Elle peut présenter ces besoins au journal sans demander à Lou d’expliquer le trouble. Le message précise les heures, la disponibilité de Lou et ce que l’équipe pourra retirer si le temps manque."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le rendez-vous avec Mme Lenoir avait un objet précis, convenu avec Maïwenn, et ne lui donne pas à justifier ensuite son besoin devant la table entière."
+          "heading": "Comment rendre un besoin d’écriture compréhensible sans raconter son suivi ?",
+          "points": [
+            {
+              "heading": "Un temps de travail peut s’expliquer par la tâche",
+              "text": "Dire ce qui reste à relire aide à comprendre pourquoi une échéance intermédiaire est utile.",
+              "examples": [
+                "Maïwenn distingue le passage sur le récit et la dernière vérification de la forme.",
+                "Un élève peut demander à recevoir les commentaires la veille pour revoir ses phrases avant la réunion."
+              ]
+            },
+            {
+              "heading": "Une proposition d’aide peut dépasser le cadre voulu",
+              "text": "Le partenaire peut vouloir justifier le délai en disant des choses que l’autre préférait garder privées.",
+              "examples": [
+                "Maïwenn hésite quand Lou propose d’expliquer pourquoi la relecture prend du temps.",
+                "Une amie peut vérifier « Tu veux que je dise seulement à quelle heure on livre ? » avant d’écrire au groupe."
+              ]
+            },
+            {
+              "heading": "Les contraintes des autres peuvent être nommées séparément",
+              "text": "Un message de travail peut donner les horaires et les options sans présenter une personne comme la cause du délai.",
+              "examples": [
+                "Lou précise qu’elle doit partir à quinze heures quarante-cinq.",
+                "Sofiane peut organiser une page avec un encadré détachable en connaissant l’heure du bouclage."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une demande qui engage les deux autrices",
-          "text": "Lou et Maïwenn peuvent dire ce qu’elles feront elles-mêmes : vérifier ensemble le récit mercredi et faire la dernière relecture de forme vendredi à quinze heures trente. Lou peut annoncer l’heure à laquelle elle doit quitter la relecture. Maïwenn peut annoncer que si l’encadré les retarde, elles livreront la page sans lui. Leur demande porte sur une décision que Sofiane peut prendre : garder la place amovible jusque-là. La répartition devra leur laisser assez de temps à toutes les deux ; elle ne peut pas tenir au prix d’un engagement que l’une ne pourra pas respecter."
+          "heading": "3 techniques pour formuler des besoins de travail dans un message commun",
+          "points": [
+            {
+              "heading": "Traduire le besoin en action",
+              "objective": "Dire au groupe ce qu’il peut préparer ou changer.",
+              "exercise": [
+                "Nommez le passage ou le moment qui demande du temps.",
+                "Proposez une heure et un type de retour précis.",
+                "Vérifiez si l’équipe peut s’organiser avec cette proposition."
+              ],
+              "benefit": "La demande porte sur un geste praticable."
+            },
+            {
+              "heading": "Relire qui dira quoi",
+              "objective": "Garder la maîtrise de l’information personnelle.",
+              "exercise": [
+                "Demandez au partenaire ce qu’il comptait partager.",
+                "Gardez les seules informations utiles au destinataire.",
+                "Envoyez vous-même le message si vous le préférez."
+              ],
+              "benefit": "L’aide à communiquer peut respecter le périmètre choisi."
+            },
+            {
+              "heading": "Prévoir une version plus courte",
+              "objective": "Rendre le délai réaliste pour les personnes disponibles.",
+              "exercise": [
+                "Repérez la partie facultative.",
+                "Dites à quel moment vous déciderez de la garder.",
+                "Vérifiez que le reste du texte se lit sans elle."
+              ],
+              "benefit": "Le groupe a une option de travail si la marge prévue ne suffit pas."
+            }
+          ]
         }
       ],
       "ending_title": "Envoyer l’horaire depuis son propre téléphone",
@@ -369,7 +824,8 @@
         "next": "Le groupe attend le passage sur le récit mercredi, puis la dernière relecture vendredi à 15 h 30. Lou part à 15 h 45 et l’encadré peut être retiré."
       },
       "clinical_focus": "Expression des besoins d’écriture",
-      "clinical_intro": "À la cantine, Lou propose d’expliquer pourquoi la relecture prend du temps. Maïwenn hésite parce qu’elle ne sait pas ce que Lou s’apprête à révéler. Une difficulté durable d’expression écrite peut demander un aménagement du temps ou des retours. Maïwenn choisit de parler des deux étapes de relecture et du délai dont elles ont besoin, puis garde les informations de santé pour les personnes qu’elle choisit."
+      "clinical_intro": "À la cantine, Lou propose d’expliquer pourquoi la relecture prend du temps. Maïwenn hésite parce qu’elle ne sait pas ce que Lou s’apprête à révéler. Une difficulté durable d’expression écrite peut demander un aménagement du temps ou des retours. Maïwenn choisit de parler des deux étapes de relecture et du délai dont elles ont besoin, puis garde les informations de santé pour les personnes qu’elle choisit.",
+      "conclusion": "Maïwenn envoie elle-même les horaires et l’équipe garde l’encadré détachable. Lou a pu ajouter l’heure de son départ. Les autres disposent d’une organisation à suivre et Maïwenn choisira avec qui parler de ses besoins au-delà du journal."
     },
     {
       "number": 9,
@@ -387,17 +843,73 @@
         {
           "role": "explanation",
           "heading": "Ce que la ligne sous le titre rend visible",
-          "text": "La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne."
+          "text": "La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne.\n\nLes phrases qui apparaissent vite dans un document peuvent prendre plus de place dans le regard de l’équipe que le travail moins visible qui les a préparées. Maïwenn a choisi des observations et rédigé des passages, même si les reprises lui ont pris du temps. Les deux autrices peuvent décrire ce qu’elles ont réellement fait avant de décider de la signature."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans ce reportage, Maïwenn a aussi rédigé ; Lou n’a pas seulement recopié ce que Maïwenn a vu. Lou a mené des entretiens, construit des raccords et discuté l’ordre du récit. Elles peuvent regarder ces contributions avant de décider ce que la signature dit de leur travail."
+          "heading": "Comment un rythme d’écriture différent peut-il masquer une contribution ?",
+          "points": [
+            {
+              "heading": "La première version n’est qu’une partie du texte",
+              "text": "Une phrase mise en ligne rapidement se voit tout de suite, tandis que les décisions et révisions qui la soutiennent restent parfois en marge.",
+              "examples": [
+                "La maquette attribue le texte à Lou et les photos à Maïwenn.",
+                "L’idée de commencer avant l’arrivée des clients ne se lit pas dans le nombre de lignes tapées par chacune."
+              ]
+            },
+            {
+              "heading": "Réviser peut aussi être un travail d’autrice",
+              "text": "Choisir un détail, clarifier un mot et vérifier une citation modifient ce que le reportage fait comprendre.",
+              "examples": [
+                "Maïwenn garde le bruit du plateau et précise qui glisse la cale.",
+                "Lou apporte ses questions et ses raccords pour rendre la scène lisible."
+              ]
+            },
+            {
+              "heading": "Un crédit explicite peut rendre ces apports visibles",
+              "text": "Relire les contributions aide à choisir une signature qui correspond au travail réalisé.",
+              "examples": [
+                "Maïwenn écrit leurs deux prénoms pour le reportage.",
+                "Lou distingue la signature commune du crédit des photographies."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’accorder sur les crédits avant la dernière épreuve",
-          "text": "Sur le bord du papier, Lou et Maïwenn reprennent les étapes : l’idée, les questions, les photographies, les légendes et la mise en ordre. Toutes ne sont pas partagées de la même façon. Toutes ne doivent pas forcément apparaître sous le titre. Lou souhaite que son prénom reste attaché au reportage entier, qu’elle a écrit avec Maïwenn et construit sur place. Maïwenn propose une ligne commune pour le reportage et un crédit distinct pour les images qu’elle a prises. Elles demandent à Sofiane de laisser la nouvelle ligne sur l’épreuve jusqu’à ce qu’elles l’aient relue ensemble."
+          "heading": "3 techniques pour discuter des contributions à un texte commun",
+          "points": [
+            {
+              "heading": "Reprendre le travail dans son ordre",
+              "objective": "Faire apparaître les contributions avant et après la rédaction.",
+              "exercise": [
+                "Listez les observations, les questions et les phrases révisées.",
+                "Indiquez qui a apporté chaque élément.",
+                "Laissez chacune compléter ce qu’elle reconnaît dans le résultat."
+              ],
+              "benefit": "L’équipe peut parler des apports plutôt que de la vitesse d’écriture."
+            },
+            {
+              "heading": "Séparer le texte et les autres crédits",
+              "objective": "Indiquer clairement ce que chacun a signé ou fourni.",
+              "exercise": [
+                "Vérifiez à quoi correspond chaque ligne de la maquette.",
+                "Décidez ensemble d’une signature pour le reportage.",
+                "Ajoutez un crédit distinct si les images ont une autre attribution."
+              ],
+              "benefit": "Les lecteurs peuvent retrouver les contributions sans les confondre."
+            },
+            {
+              "heading": "Revoir les noms sur l’épreuve finale",
+              "objective": "Éviter qu’une décision d’attribution se perde dans les corrections.",
+              "exercise": [
+                "Notez le libellé approuvé.",
+                "Comparez-le à l’épreuve avant transmission.",
+                "Demandez une correction si une version ancienne est revenue."
+              ],
+              "benefit": "Les crédits restent une décision éditoriale à vérifier comme le reste."
+            }
+          ]
         }
       ],
       "ending_title": "Écrire deux prénoms au crayon",
@@ -414,7 +926,8 @@
         "next": "La ligne « Reportage : Maïwenn et Lou » doit revenir dans l’épreuve finale ; le portrait reste à montrer à Rachid. Les faits doivent être vérifiés mercredi."
       },
       "clinical_focus": "Reconnaissance du travail d’écriture",
-      "clinical_intro": "Maïwenn découvre qu’on lui attribue les photographies et que Lou figure seule pour le texte. L’expression écrite lui demande plus de temps et la facilité de Lou peut rendre son propre apport moins visible. Revenir aux observations, aux questions et aux phrases travaillées à deux leur permet de parler de la contribution de chacune. Maïwenn peut demander une signature commune à partir de ce qu’elle a réellement fait."
+      "clinical_intro": "Maïwenn découvre qu’on lui attribue les photographies et que Lou figure seule pour le texte. L’expression écrite lui demande plus de temps et la facilité de Lou peut rendre son propre apport moins visible. Revenir aux observations, aux questions et aux phrases travaillées à deux leur permet de parler de la contribution de chacune. Maïwenn peut demander une signature commune à partir de ce qu’elle a réellement fait.",
+      "conclusion": "Maïwenn et Lou choisissent de signer le reportage ensemble et de distinguer les photos. Elles peuvent revenir à cette ligne sur l’épreuve finale. Ce qui doit paraître sous le titre découle des décisions et des phrases qu’elles ont travaillées."
     },
     {
       "number": 10,
@@ -432,17 +945,73 @@
         {
           "role": "explanation",
           "heading": "Quand un changement visible entraîne du travail invisible",
-          "text": "Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage."
+          "text": "Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage.\n\nLe refus du portrait règle l’usage de l’image et laisse d’autres choix à faire sur la page. Pour Maïwenn, il faut revoir la légende, le début et les liens entre les éléments alors que chaque passage a déjà demandé des reprises. La pince orange lui donne un fait observé à partir duquel retravailler la page."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Maïwenn, il change tout de même plusieurs choses : l’ordre des deux images, la phrase voisine et le temps qu’elle doit trouver pour les revoir. Elle peut être déçue de perdre un cadre qu’elle aime et respecter la décision. L’accord sur les mots de Rachid et celui sur la photo sont deux questions distinctes. Elles avaient prévu de lui montrer l’image ; elle ne lui demande pas de l’accepter pour leur éviter des modifications."
+          "heading": "Comment une modification tardive peut-elle relancer plusieurs tâches d’écriture ?",
+          "points": [
+            {
+              "heading": "Une image retirée entraîne parfois une phrase avec elle",
+              "text": "Quand la légende et le texte s’appuient sur une image, son retrait peut changer ce que le lecteur comprend.",
+              "examples": [
+                "Rachid refuse la publication de son portrait et Maïwenn reprend la légende associée.",
+                "Une phrase comme « on le voit ici » doit changer si la photo qu’elle désignait disparaît."
+              ]
+            },
+            {
+              "heading": "Un nouvel angle a besoin de faits utilisables",
+              "text": "Pour écrire sous une autre image, il faut choisir ce qui a été vu et ce qui reste à vérifier.",
+              "examples": [
+                "Maïwenn reprend le détail de la pince orange et précise le point de vue des deux observatrices.",
+                "La phrase sur les chariots peut rester après une nouvelle lecture de la page."
+              ]
+            },
+            {
+              "heading": "La relecture se rouvre à un endroit précis",
+              "text": "Un passage modifié doit être vérifié dans son nouvel ensemble et sa forme peut encore demander un autre temps.",
+              "examples": [
+                "Lou et Maïwenn relisent le début avec la nouvelle légende.",
+                "La dernière passe sur la forme reste prévue pour vendredi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre le fil à partir de ce qui reste",
-          "text": "Lou ressort le tirage de la pince orange, où on ne lit pas les noms du plan. Sur la page, elle pourra faire écho à la table qui doit tourner : les emplacements sont préparés avant qu’un chariot passe. Les deux autrices repartent de leur question de départ sur la manière dont les places se font. Maïwenn propose d’écrire une légende qui dise pourquoi le plan est retenu par une pince. Lou vérifie dans le carnet qu’elles ont bien vu le courant d’air. Le texte peut s’appuyer sur cette observation. Elles laissent tomber la phrase que le portrait portait jusque-là."
+          "heading": "3 techniques pour reprendre un texte après un changement imprévu",
+          "points": [
+            {
+              "heading": "Délimiter ce qui dépendait de l’élément retiré",
+              "objective": "Éviter de reprendre toute la page sans nécessité.",
+              "exercise": [
+                "Retirez du dossier l’image qui ne paraîtra pas.",
+                "Repérez les renvois et phrases qu’elle soutenait.",
+                "Gardez une liste courte des passages à revoir."
+              ],
+              "benefit": "Le travail peut se concentrer sur les changements utiles."
+            },
+            {
+              "heading": "Repartir d’un détail vérifié",
+              "objective": "Construire une autre entrée sans inventer les faits qui manquent.",
+              "exercise": [
+                "Choisissez une observation dont vous pouvez préciser le lieu.",
+                "Comparez-la aux notes ou à l’image retenue.",
+                "Proposez une légende qui dit ce que ce détail apporte."
+              ],
+              "benefit": "La nouvelle version a un point d’appui concret."
+            },
+            {
+              "heading": "Vérifier d’abord la cohérence avec le reste",
+              "objective": "Préserver du temps pour la forme au bouclage.",
+              "exercise": [
+                "Relisez les passages autour du changement.",
+                "Confirmez les faits et les liens avec le partenaire.",
+                "Marquez les corrections de forme à reprendre au créneau suivant."
+              ],
+              "benefit": "L’équipe sait ce qui est terminé et ce qui demande encore un passage."
+            }
+          ]
         }
       ],
       "ending_title": "À la place du portrait",
@@ -459,7 +1028,8 @@
         "next": "Le passage sur le sens est terminé mercredi. Les deux photos sont la table et la pince. Restent la forme, les crédits et la décision sur l’encadré à l’épreuve du vendredi."
       },
       "clinical_focus": "Coût d’une révision imprévue",
-      "clinical_intro": "Rachid souhaite garder son portrait hors du journal. Maïwenn perd une image qu’elle aime et doit revoir la phrase qui l’accompagnait. Pour quelqu’un dont l’expression écrite demande déjà un effort important, une modification simple à annoncer peut relancer plusieurs tâches de révision. Repartir des observations vérifiées et du détail de la pince lui donne un point précis pour reprendre sans précipiter la correction."
+      "clinical_intro": "Rachid souhaite garder son portrait hors du journal. Maïwenn perd une image qu’elle aime et doit revoir la phrase qui l’accompagnait. Pour quelqu’un dont l’expression écrite demande déjà un effort important, une modification simple à annoncer peut relancer plusieurs tâches de révision. Repartir des observations vérifiées et du détail de la pince lui donne un point précis pour reprendre sans précipiter la correction.",
+      "conclusion": "Maïwenn retire le portrait et garde la pince comme deuxième image. Avec Lou, elle vérifie le début et la phrase sur les chariots. Vendredi, elles pourront consacrer leur dernière passe à la forme, aux crédits et à l’encadré."
     },
     {
       "number": 11,
@@ -477,17 +1047,73 @@
         {
           "role": "explanation",
           "heading": "Quand l’effort est réel et que l’appui a une limite",
-          "text": "Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi."
+          "text": "Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi.\n\nEn relisant plusieurs fois la même ligne, Maïwenn sent que le temps restant ne permettra pas de vérifier chaque partie de la page. Un indice l’aide à reprendre un accord et une proposition lui convient ailleurs. Retirer l’encadré est une décision sur ce qu’elles peuvent livrer, prise avant de donner leur accord sur l’épreuve."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Sur le second, Maïwenn a demandé la formulation ; Lou la lui a donnée et Maïwenn a vérifié ce qu’elle mettait dans la phrase. Elle connaît mieux ce qu’elle veut demander dans l’instant. Il reste d’autres lignes à relire. Lou a réservé un quart d’heure pour toute l’épreuve. L’encadré devait justement pouvoir sortir dans ces conditions. Le retirer permet de tenir un choix fait en amont, plutôt que de faire semblant d’avoir relu."
+          "heading": "Comment la fatigue de relecture change-t-elle ce qu’on peut vérifier ?",
+          "points": [
+            {
+              "heading": "Une vérification peut reprendre plusieurs fois",
+              "text": "Un texte presque terminé peut encore demander de retrouver le lien entre les mots avant de décider d’un accord.",
+              "examples": [
+                "Maïwenn relit une ligne pour la troisième fois.",
+                "Un lecteur peut revenir à un sujet éloigné du verbe avant d’être sûr de la terminaison."
+              ]
+            },
+            {
+              "heading": "Le même appui ne suffit pas partout",
+              "text": "Une indication peut relancer une vérification et un autre passage demander une proposition plus directe.",
+              "examples": [
+                "Un indice suffit à Maïwenn pour le premier accord.",
+                "Elle demande une formulation à examiner pour un autre passage."
+              ]
+            },
+            {
+              "heading": "Une échéance oblige à protéger l’essentiel",
+              "text": "Quand il reste peu de temps, retirer une partie indépendante peut préserver les vérifications les plus utiles.",
+              "examples": [
+                "Maïwenn raye l’encadré et garde les deux images.",
+                "Lou et elle vérifient leurs prénoms et la légende avant le départ de Lou."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Valider une page à la taille du temps disponible",
-          "text": "Maïwenn et Lou reprennent ce qu’elles pourront vérifier avant le départ de Lou : les deux légendes, le raccord après la coupe et les crédits. Sofiane peut recaler les blocs et aérer le bas de page. Si un mot doit changer pour que ça rentre, elles veulent le voir avant la validation. Ce partage respecte le travail de mise en page et l’accord des deux autrices sur le texte. L’épreuve leur sert de référence. Elles ne sauront pas si une autre tournure aurait été plus légère ; elles peuvent décider que la version lue ensemble raconte ce qu’elles étaient venues chercher."
+          "heading": "3 techniques pour choisir les vérifications à faire avant de livrer",
+          "points": [
+            {
+              "heading": "Établir un ordre de lecture",
+              "objective": "Réserver l’attention aux passages qui changent le sens ou l’attribution.",
+              "exercise": [
+                "Repérez les légendes, noms et citations essentiels.",
+                "Relisez ces éléments en premier.",
+                "Cochez chaque passage quand la version est vérifiée."
+              ],
+              "benefit": "Le temps restant est consacré aux éléments dont la page a besoin."
+            },
+            {
+              "heading": "Demander un retour à la bonne taille",
+              "objective": "Ajuster l’effort au passage sans retirer la décision à l’autrice.",
+              "exercise": [
+                "Dites quel mot ou lien vous voulez vérifier.",
+                "Demandez un indice ou une proposition selon ce dont vous avez besoin.",
+                "Relisez le résultat avant de le valider."
+              ],
+              "benefit": "L’aide sert au choix du moment et reste discutable."
+            },
+            {
+              "heading": "Utiliser le plan de repli prévu",
+              "objective": "Finir une version que l’équipe peut vraiment contrôler.",
+              "exercise": [
+                "Fixez l’heure où vous tranchez sur la partie facultative.",
+                "Retirez-la si elle ne peut plus être relue avec le reste.",
+                "Vérifiez que la page tient et faites valider l’épreuve."
+              ],
+              "benefit": "Le retrait laisse une page cohérente et un brouillon réutilisable."
+            }
+          ]
         }
       ],
       "ending_title": "Donner son accord sur l’épreuve",
@@ -504,7 +1130,8 @@
         "next": "Sofiane transmet la version validée avant 16 heures. L’encadré reste dans les brouillons et les deux images retenues sont en page."
       },
       "clinical_focus": "Fatigue de relecture et arbitrage",
-      "clinical_intro": "Maïwenn lit une ligne pour la troisième fois alors que Lou doit bientôt partir. Un indice suffit pour un accord et elle demande une formulation pour un autre passage. Dans son trouble de l’expression écrite, l’effort de relecture s’additionne sur les lignes qui restent. En coupant l’encadré, elle choisit de livrer ce qu’elles peuvent encore vérifier et garde la main sur la version finale."
+      "clinical_intro": "Maïwenn lit une ligne pour la troisième fois alors que Lou doit bientôt partir. Un indice suffit pour un accord et elle demande une formulation pour un autre passage. Dans son trouble de l’expression écrite, l’effort de relecture s’additionne sur les lignes qui restent. En coupant l’encadré, elle choisit de livrer ce qu’elles peuvent encore vérifier et garde la main sur la version finale.",
+      "conclusion": "Maïwenn regrette le tablier de l’encadré et choisit de ne pas le remettre. Elle retrouve le bruit du plateau dans la légende et vérifie les crédits avec Lou. Elles peuvent donner leur accord à partir d’une page qu’elles ont eu le temps de relire."
     },
     {
       "number": 12,
@@ -526,13 +1153,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour le moment, Maïwenn est surtout surprise que quelqu’un lui parle du bruit de la table. C’est la phrase qu’elle craignait de perdre dans la version courte."
+          "heading": "Comment un texte qui se lit bien peut-il cacher le travail d’écriture ?",
+          "points": [
+            {
+              "heading": "Le lecteur rencontre l’effet de la phrase",
+              "text": "La personne qui découvre la page voit ce que le texte lui fait remarquer, sans connaître le nombre de reprises.",
+              "examples": [
+                "Une lectrice s’arrête sur le détail que Maïwenn voulait faire entendre.",
+                "Un lecteur peut raconter la scène du marché sans savoir comment ses deux légendes ont été construites."
+              ]
+            },
+            {
+              "heading": "Un résultat lisible a pu demander des appuis différents",
+              "text": "Les outils, le temps et la collaboration laissent des traces qui ne figurent pas toutes sur le texte imprimé.",
+              "examples": [
+                "Maïwenn a dicté un brouillon puis vérifié le mot « cale ».",
+                "Elle et Lou ont séparé le retour sur le sens de la dernière relecture."
+              ]
+            },
+            {
+              "heading": "La prochaine page demandera d’autres choix",
+              "text": "Ce qui a aidé une fois fournit des repères à essayer sans déterminer la suite.",
+              "examples": [
+                "Maïwenn note l’heure où elle ira regarder les bancs sans fixer déjà son format.",
+                "Elle montre une question à Lou sans lui demander encore de reprendre le même rôle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Repartir avec une question plutôt qu’un contrat",
-          "text": "Maïwenn veut garder ce qui lui a servi : discuter l’idée avant de régler tous les mots, réserver du temps à la relecture et choisir l’aide dont elle a besoin. Elle ne sait pas encore ce qui lui servira pour les bancs. Elle peut proposer un petit sujet à la prochaine réunion, quitte à décider ensuite si elle travaille seule ou avec quelqu’un. Le regard de Lou ne sera pas exactement le même et le délai pourra changer. Maïwenn a envie de revenir tôt le lendemain, quand les premiers élèves entrent dans la cour. Elle choisit l’heure à laquelle elle fera ce détour."
+          "heading": "3 techniques pour faire un retour utile après la publication",
+          "points": [
+            {
+              "heading": "Parler de ce que le texte a transmis",
+              "objective": "Permettre à l’autrice d’entendre l’effet recherché.",
+              "exercise": [
+                "Choisissez un détail que vous avez retenu.",
+                "Dites ce qu’il vous a fait comprendre ou imaginer.",
+                "Invitez l’autrice à en parler si elle le souhaite."
+              ],
+              "benefit": "Le retour porte sur la lecture réelle de la page."
+            },
+            {
+              "heading": "Repérer un appui qu’on pourrait réessayer",
+              "objective": "Conserver une idée du travail qui a aidé.",
+              "exercise": [
+                "Choisissez une difficulté précise du reportage.",
+                "Identifiez l’appui qui a facilité cette étape.",
+                "Notez dans quelles conditions il serait encore utile."
+              ],
+              "benefit": "Un nouvel essai pourra partir de l’expérience sans supposer le même résultat."
+            },
+            {
+              "heading": "Donner une forme minimale au prochain sujet",
+              "objective": "Ouvrir un projet sans décider déjà du texte ni du rythme.",
+              "exercise": [
+                "Notez une question d’observation.",
+                "Choisissez quand et où vous pourrez regarder.",
+                "Attendez ce que vous aurez vu avant de fixer le support et les rôles."
+              ],
+              "benefit": "L’idée peut grandir avant le travail de rédaction."
+            }
+          ]
         }
       ],
       "ending_title": "Un rectangle dans le cahier",
@@ -550,7 +1233,8 @@
         "next": "Le reportage paraît avec la signature commune et le crédit des photos. Maïwenn conserve sa rubrique et note l’heure à laquelle elle observera les bancs dans la cour."
       },
       "clinical_focus": "Effort invisible derrière un texte publié",
-      "clinical_intro": "Maïwenn croit qu’une élève a repéré une faute. La lectrice s’arrête en réalité sur un détail que Maïwenn voulait faire entendre dans sa légende. Une page aboutie peut avoir exigé beaucoup de reprises et d’aide, avec un trouble de l’expression écrite. Le retour de la lectrice renseigne sur ce que le texte transmet, tandis que Maïwenn peut reprendre les appuis qui lui ont servi dans un autre projet."
+      "clinical_intro": "Maïwenn croit qu’une élève a repéré une faute. La lectrice s’arrête en réalité sur un détail que Maïwenn voulait faire entendre dans sa légende. Une page aboutie peut avoir exigé beaucoup de reprises et d’aide, avec un trouble de l’expression écrite. Le retour de la lectrice renseigne sur ce que le texte transmet, tandis que Maïwenn peut reprendre les appuis qui lui ont servi dans un autre projet.",
+      "conclusion": "La lectrice entend le détail du plateau, sans voir les versions et les corrections qui l’ont porté jusque-là. Maïwenn peut garder ce retour et se souvenir des appuis qui lui ont servi. Sa prochaine question commence par un banc et une heure dans le cahier."
     }
   ]
 }

@@ -29,20 +29,83 @@ Au cours des dernières semaines, elle a retrouvé par moments son rythme de tra
 
 Dans la salle, quelqu’un a avancé son pupitre. Elle le remet à sa hauteur et arrive à jouer les deux premières pages. Vers la fin de la valse, Éva joue une note à contretemps et lui sourit. Garance rit en retrouvant leur entrée. Elle voudrait entendre la suite et sait qu’elle n’a presque plus d’attention à y mettre. Elle referme la partition quand Lise annonce la pause. Elle garde en tête les quatre mesures qui lui ont plu. En rentrant, il lui restera le même fichier à joindre.
 
-## Un moment agréable au milieu de jours difficiles
+## La baisse d’élan peut laisser des moments de plaisir
 
-Un moment de plaisir peut subsister au cours d’une période où les activités ordinaires deviennent difficiles. Garance a aimé une partie de la valse. Depuis plusieurs jours, elle constate aussi une baisse d’élan, des tâches reportées et des difficultés à terminer son travail. Elle peut décrire les deux expériences dans le même entretien. L’évaluation d’un éventuel épisode dépressif tient compte de l’évolution, du retentissement et de l’ensemble des difficultés.
+La dépression peut rendre difficile le démarrage d’activités ordinaires ou attendues, alors même que certains moments font encore plaisir. Un professionnel examine comment ces difficultés s’installent et ce qu’elles changent au fil des jours. Garance retarde des courses et des réponses de travail. Elle rit pourtant à la répétition. Les deux expériences ont leur place lorsqu’elle demande un échange plus tôt.
 
-## Comment cette difficulté se manifeste
+## Comment une perte d’élan se voit-elle avant et après la répétition ?
 
-Garance a traversé une période où elle a été très active. La baisse actuelle ne peut pas être déduite automatiquement de cette période. Un professionnel peut reprendre avec elle ce qu’elle vit et les autres éléments qui peuvent y contribuer. Le NICE recommande de demander une réévaluation si des symptômes dépressifs s’aggravent ou si la personne se sent en difficulté. Garance peut expliquer qu’elle hésite à attendre le prochain rendez-vous. Le cabinet pourra préciser la suite.
+### Commencer demande davantage
 
-## Dire ce qui est devenu plus difficile
+Une tâche familière peut rester devant soi alors que les étapes pour s’y mettre sont connues.
 
-Garance peut noter une situation au travail, une tâche à la maison et ce qui s’est passé pendant la répétition. Une phrase peut suffire pour chacun de ces exemples. Elle choisit de signaler au cabinet que son quotidien devient plus difficile. Si elle souhaite aussi en parler à sa psychologue, elle peut revenir sur le moment où elle a pu demander à Éva de l’attendre. Le plaisir du passage musical a sa place dans ce récit.
+**Exemples concrets**
 
-Lise peut garder l’accord sur le départ anticipé et préciser quand la valse sera rejouée. Éva peut proposer à Garance de l’attendre à l’entrée si l’horaire lui convient. Garance peut venir, choisir une partie ou rentrer. Si sa situation s’aggrave avant le rendez-vous, elle peut utiliser les contacts convenus. En cas de danger immédiat, l’aide urgente prend la priorité sur le travail et la répétition.
+- Garance laisse le dossier à joindre en attente.
+- Elle reporte aussi les courses les jours où le courrier des clients est calme.
+
+### Aller vers les autres prend une préparation
+
+L’envie de retrouver une activité peut être présente sans suffire à sortir de chez soi.
+
+**Exemples concrets**
+
+- Garance ne retrouve pas au réveil l’envie de jouer qu’elle avait la veille.
+- Avant d’envoyer sa réponse à Lise, elle demande à Éva de l’attendre à l’entrée.
+
+### Le plaisir d’un passage ne donne pas l’énergie du reste
+
+Une expérience agréable peut rester brève au milieu d’une journée coûteuse.
+
+**Exemples concrets**
+
+- Garance rit quand Éva décale une note et retrouve avec elle l’entrée.
+- Elle referme sa partition à la pause, avec trop peu d’attention pour jouer la suite.
+
+## 3 techniques pour traverser une baisse d’élan qui dure
+
+### 1. Raccourcir la démarche sans effacer la difficulté
+
+Choisir une première action à portée pour le travail du jour.
+
+**Exercice pratique**
+
+- Repérez la personne qui attend une réponse.
+- Dites en une phrase ce que vous pouvez encore tenir.
+- Gardez une note sur ce qui vous empêche de faire la suite afin d’en parler au soignant.
+
+Le client reçoit une information et l’effort du jour reste visible dans le suivi.
+
+### 2. Préparer un début et un point d’arrêt
+
+Essayer une partie de l’activité que l’on tient à retrouver.
+
+**Exercice pratique**
+
+- Choisissez le passage auquel vous aimeriez assister ou jouer.
+- Demandez un appui précis, comme quelqu’un à l’entrée, et convenez du moment du départ.
+- Laissez la prochaine séance ouverte si vous ne savez pas encore comment vous vous sentirez.
+
+La répétition peut contenir un bon moment sans devenir un engagement pour toutes les semaines.
+
+### 3. Demander un entretien plus tôt
+
+Faire connaître un retentissement qui s’installe.
+
+**Exercice pratique**
+
+- Notez une tâche devenue difficile et une rencontre qui vous a encore fait du bien.
+- Indiquez depuis quand vos journées ont changé.
+- Transmettez ces éléments au cabinet et demandez quel contact utiliser si la situation s’aggrave.
+
+Le professionnel dispose d’exemples pour apprécier l’évolution avec vous.
 
 ## Le fichier et le message au cabinet
 
 Chez elle, Garance retrouve le dossier ouvert. Elle envoie au client un court message pour confirmer le délai qui lui reste possible, puis revient au contact du cabinet. Elle écrit que les journées se font plus difficiles depuis quelque temps et demande à parler à la psychiatre avant le rendez-vous prévu. Elle garde en mémoire le rire sur la note d’Éva. Elle voudrait le raconter aussi, parce que c’est arrivé au milieu du reste. Avant de fermer le calendrier, elle précise à Lise qu’elle ne promet pas encore de venir jeudi prochain.
+
+---
+
+**Conclusion**
+
+La valse fait encore rire Garance et le fichier reste difficile à envoyer. Elle raconte ces deux choses sans attendre de décider ce qu’elles signifient. Son message au cabinet ouvre un échange sur la durée et le retentissement de la baisse d’élan.

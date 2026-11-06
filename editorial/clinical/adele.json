@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comment la restriction alimentaire déborde du repas",
-          "text": "Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile. Pour d’autres, le manque d’intérêt pour l’alimentation ou la crainte de conséquences pénibles joue davantage."
+          "heading": "Quand la difficulté à manger change le programme",
+          "text": "Dans le trouble évitant ou restrictif de la prise alimentaire, appelé ARFID, la restriction ou l’évitement ont des conséquences importantes sur la santé physique, la vie quotidienne ou les deux. Les difficultés peuvent être liées aux sensations, à une crainte ou au peu d’intérêt pour l’alimentation. Chez Adèle, c’est la consistance de certains aliments qui soulève le cœur. Le problème se retrouve jusque sur une fiche de sortie scolaire."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ce qui met Adèle en difficulté à midi est la consistance de ce qu’on lui propose. Le problème revient au moment de l’inscription : une activité scolaire qui lui plaît reste difficile à envisager tant qu’elle ne sait pas dans quelles conditions se passeront les repas.\n\nLes professionnels évaluent le retentissement dans le temps et dans les différents lieux de vie. Refuser un aliment par préférence, ou s’être trouvé mal à l’aise à un repas, ne permet pas de conclure. Une scène de cantine ne résume pas le suivi d’Adèle. Elle aide à comprendre pourquoi la question des repas mérite une discussion, même lorsque l’activité prévue lui plaît beaucoup."
+          "heading": "Comment une difficulté alimentaire peut-elle peser sur la vie sociale ?",
+          "points": [
+            {
+              "heading": "La question du repas arrive avant l’activité",
+              "text": "On peut avoir envie de partir et hésiter parce que les conditions pour manger restent inconnues.",
+              "examples": [
+                "Adèle coche la visite du tissage et s’arrête quand elle lit que les repas seront pris en groupe.",
+                "Une adolescente veut jouer avec son équipe en déplacement et hésite au moment de l’inscription faute de savoir à qui parler du repas."
+              ]
+            },
+            {
+              "heading": "Un départ peut être écarté sans que l’intérêt disparaisse",
+              "text": "Renoncer à une activité donne parfois une idée du retentissement qu’un repas observé ne montre pas.",
+              "examples": [
+                "Adèle a déjà manqué une sortie quand la question des repas était restée sans réponse.",
+                "Une invitation à un anniversaire plaît à quelqu’un qui préfère finalement ne pas y aller parce qu’il ne sait pas comment s’y passera le déjeuner."
+              ]
+            },
+            {
+              "heading": "Le besoin peut rester difficile à dire",
+              "text": "Dans un groupe, il faut parfois trouver une façon d’aborder une question de repas sans exposer son vécu.",
+              "examples": [
+                "Adèle attend la fin de la classe pour parler à Mme Roussel.",
+                "Un élève garde le formulaire dans son sac jusqu’à ce qu’il puisse demander qui organise les repas."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Poser une question avant de rendre la fiche",
-          "text": "Adèle veut connaître la marge de discussion avant de donner une réponse définitive. Elle peut s’adresser à Mme Roussel au sujet de ce que l’école organise : les conditions du séjour, les personnes présentes et ce qu’elles peuvent faire. L’équipe spécialisée reste son interlocutrice pour les besoins liés à l’alimentation et à la santé. Le premier échange avec la professeure peut rester bref. Une demande de rendez-vous permet de sortir la question des repas du passage des fiches de main en main.\n\nLe premier choix d’activité a aussi sa place sur le papier. Le garder visible donne à Mme Roussel une information utile : Adèle veut visiter l’atelier et cherche un moyen d’y aller dans des conditions envisageables. La professeure pourra retenir ce souhait pendant que les adultes vérifient la suite."
+          "heading": "3 techniques pour préparer une activité qui comporte des repas",
+          "points": [
+            {
+              "heading": "Garder l’activité souhaitée visible",
+              "objective": "Faire comprendre ce que vous aimeriez pouvoir faire.",
+              "exercise": [
+                "Notez votre premier choix sur la fiche ou le programme.",
+                "Repérez la question de repas qui empêche encore de confirmer.",
+                "Demandez un moment privé à l’adulte qui organise l’activité."
+              ],
+              "benefit": "L’école connaît votre souhait pendant que les conditions restent à vérifier."
+            },
+            {
+              "heading": "Vérifier qui peut répondre",
+              "objective": "Distinguer les modalités scolaires des besoins de santé.",
+              "exercise": [
+                "Demandez qui décide des lieux et des horaires.",
+                "Avec votre parent ou un adulte de confiance, transmettez ces informations à l’équipe qui vous suit.",
+                "Discutez avec elle de ce qui serait adapté avant de modifier quoi que ce soit."
+              ],
+              "benefit": "Chacun répond dans son rôle et les arrangements restent compatibles avec le suivi."
+            },
+            {
+              "heading": "Décrire une activité manquée",
+              "objective": "Signaler un retentissement qui dépasse la table.",
+              "exercise": [
+                "Choisissez une sortie ou une rencontre que vous auriez voulu faire.",
+                "Expliquez la question de repas qui est restée sans réponse.",
+                "Dites à l’équipe de soins ce qui vous aiderait à préparer une prochaine occasion."
+              ],
+              "benefit": "Le suivi peut tenir compte de l’accès aux activités qui vous plaisent."
+            }
+          ]
         }
       ],
       "ending_title": "La croix reste",
@@ -53,7 +109,8 @@
         "next": "Mme Roussel convient qu’Eva prendra contact pour fixer une discussion ; Adèle veut décider de ce qui sera communiqué."
       },
       "clinical_focus": "Restriction alimentaire et retentissement social",
-      "clinical_intro": "Adèle veut voir un métier à tisser mais hésite à s’inscrire dès qu’elle lit que les repas se prendront en groupe. À la cantine, la consistance de certains aliments lui soulève le cœur. L’ARFID se distingue d’une préférence alimentaire par l’importance de ses conséquences sur la santé ou la vie quotidienne. Ici, la difficulté à manger compromet une activité qui lui plaît."
+      "clinical_intro": "Adèle veut voir un métier à tisser mais hésite à s’inscrire dès qu’elle lit que les repas se prendront en groupe. À la cantine, la consistance de certains aliments lui soulève le cœur. L’ARFID se distingue d’une préférence alimentaire par l’importance de ses conséquences sur la santé ou la vie quotidienne. Ici, la difficulté à manger compromet une activité qui lui plaît.",
+      "conclusion": "La croix du tissage reste sur la fiche. Adèle peut dire qu’elle veut partir tout en demandant comment les repas seront préparés avec elle. La réponse attend encore un échange avec Eva et l’école."
     },
     {
       "number": 2,
@@ -70,18 +127,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une difficulté sensorielle qui a des conséquences",
-          "text": "Les difficultés sensorielles de l’ARFID concernent les caractéristiques des aliments et la façon dont la personne les éprouve au moment de manger. On peut aimer manipuler certaines matières pour un travail manuel et rencontrer des difficultés avec des textures en bouche."
+          "heading": "Faire comprendre le besoin sans coller une étiquette",
+          "text": "Une difficulté liée à l’ARFID peut être prise pour un caprice si l’on voit seulement un refus. À l’inverse, diffuser un diagnostic sans en discuter peut faire craindre d’être désigné par lui devant les autres. Adèle distingue son goût pour une étoffe de ce qui se passe avec une texture en bouche. Elle veut que l’école comprenne le besoin sans annoncer d’emblée son dossier au centre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le plaisir qu’Adèle prend à retourner sa veste ne renseigne donc pas sur ce qu’elle pourrait manger. Sa préférence pour une nuance est un choix de dessin. Ce qui a conduit à son suivi tient au retentissement de sa restriction, évalué par l’équipe qui la connaît.\n\nLe poids et la silhouette ne motivent pas la restriction dans l’ARFID. Cette distinction concerne la raison de la restriction ; l’apparence d’une personne ne permet pas de la deviner. Un professionnel examine l’ensemble de la situation et tient aussi compte d’autres explications possibles lorsqu’il évalue un trouble alimentaire. Adèle peut choisir de ne pas détailler ces distinctions dans un premier échange au sujet de la sortie."
+          "heading": "Comment les jugements redoutés peuvent-ils peser sur une demande d’aide ?",
+          "points": [
+            {
+              "heading": "Le refus peut être mal interprété",
+              "text": "Observer un geste de recul ne donne pas accès à l’expérience sensorielle de la personne.",
+              "examples": [
+                "Eva craint qu’on réduise de nouveau la difficulté d’Adèle à un caprice.",
+                "Une personne veut participer à un repas et entend qu’elle fait des histoires quand une consistance la met en difficulté."
+              ]
+            },
+            {
+              "heading": "La peur d’être désigné peut retarder la demande",
+              "text": "S’attendre à des questions publiques peut décourager une personne de demander un appui pourtant utile.",
+              "examples": [
+                "Adèle imagine son nom circuler avec la liste des chambres.",
+                "Une élève renonce à demander où trouver un adulte parce qu’elle redoute qu’on explique sa demande devant le groupe."
+              ]
+            },
+            {
+              "heading": "Une information pratique peut ouvrir la discussion",
+              "text": "On peut faire comprendre qu’un soutien est nécessaire sans raconter d’emblée tout ce qui concerne la santé.",
+              "examples": [
+                "Adèle propose d’indiquer qu’elle est suivie et veut préparer les repas avec Mme Roussel.",
+                "Quelqu’un demande un échange confidentiel sur une organisation au travail et convient ensuite de ce qui doit être transmis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider du contenu avec la personne concernée",
-          "text": "Un premier message à la professeure peut servir à fixer un entretien, et la discussion qui suit à préciser ce qui doit être organisé. Eva peut expliquer pourquoi elle veut que l’école prenne la demande au sérieux. Adèle peut préciser ce qui lui fait craindre un message trop détaillé. Avant de parler au centre, elles veulent savoir qui y est réellement chargé des repas et de l’encadrement. L’école pourra alors discuter avec elles des informations nécessaires pour agir.\n\nCe choix laisse du temps pour formuler les besoins avec les soignants, sans demander à Adèle de gérer seule tous les contacts. Si les adultes ont besoin de transmettre une information pour organiser l’accompagnement, ils peuvent lui expliquer à qui elle est destinée et pourquoi. Pour ce soir, Adèle n’attend qu’une réponse de Mme Roussel : le moment où elles pourront s’asseoir ensemble."
+          "heading": "3 techniques pour demander un appui avec les mots que vous choisissez",
+          "points": [
+            {
+              "heading": "Définir l’objet du premier message",
+              "objective": "Ouvrir une discussion sans avoir à régler tous les détails d’emblée.",
+              "exercise": [
+                "Nommez la décision encore à préparer.",
+                "Demandez un rendez-vous avec l’interlocuteur concerné.",
+                "Gardez les informations de santé à discuter dans un cadre adapté."
+              ],
+              "benefit": "Le message peut être utile sans répondre à des questions que personne n’a encore posées."
+            },
+            {
+              "heading": "Relire le texte à deux",
+              "objective": "Vérifier que les mots transmis correspondent à ce que le jeune veut expliquer.",
+              "exercise": [
+                "Lisez le brouillon avec lui et laissez-lui le temps de corriger.",
+                "Vérifiez le destinataire avant l’envoi.",
+                "Confirmez ensemble ce qui doit être indiqué pour organiser le rendez-vous."
+              ],
+              "benefit": "Le jeune peut préciser sa demande sans que le proche parle seul à sa place."
+            },
+            {
+              "heading": "Préparer la suite des échanges",
+              "objective": "Séparer l’aide nécessaire et les informations utiles à sa mise en œuvre.",
+              "exercise": [
+                "Demandez qui aura un rôle concret dans l’organisation.",
+                "Déterminez avec le jeune et les adultes responsables ce que chacun doit savoir.",
+                "Demandez conseil à l’équipe de soins sur les informations nécessaires à la sécurité."
+              ],
+              "benefit": "Le partage peut rester limité au besoin réel tout en permettant aux adultes d’agir."
+            }
+          ]
         }
       ],
       "ending_title": "Le curseur sur la dernière phrase",
@@ -99,7 +212,8 @@
         "next": "Avant le rendez-vous scolaire, elles demanderont à la diététicienne comment préparer des conditions compatibles avec le suivi."
       },
       "clinical_focus": "Stigmatisation de la restriction alimentaire",
-      "clinical_intro": "Eva veut expliquer le diagnostic à l’école pour éviter que la difficulté d’Adèle soit prise à la légère. Adèle s’imagine déjà désignée devant le groupe. L’ARFID peut s’accompagner de difficultés liées aux textures en bouche même lorsqu’on aime manipuler des matières dans d’autres activités. Décrire l’appui dont elle a besoin lui permet d’ouvrir la discussion avec l’école et de garder la main sur ce qu’elle raconte."
+      "clinical_intro": "Eva veut expliquer le diagnostic à l’école pour éviter que la difficulté d’Adèle soit prise à la légère. Adèle s’imagine déjà désignée devant le groupe. L’ARFID peut s’accompagner de difficultés liées aux textures en bouche même lorsqu’on aime manipuler des matières dans d’autres activités. Décrire l’appui dont elle a besoin lui permet d’ouvrir la discussion avec l’école et de garder la main sur ce qu’elle raconte.",
+      "conclusion": "Adèle rend l’ordinateur après avoir choisi la phrase qui partira. Le message dit qu’elle est suivie et demande un échange. Il lui laisse encore la possibilité de décider avec qui parler des repas."
     },
     {
       "number": 3,
@@ -116,18 +230,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que le suivi peut éclairer avant un séjour",
-          "text": "Dans l’ARFID, une équipe spécialisée peut examiner les besoins nutritionnels, la santé et ce qui facilite ou complique les repas dans différents cadres. Selon la situation, le suivi associe des professionnels de plusieurs métiers. Le médecin et la diététicienne peuvent notamment examiner l’évolution de la croissance et les apports. Aucun repas raconté dans ce bureau ne suffit à déterminer l’ensemble de ces éléments. Ce que rapporte Adèle sur la cantine et sur la maison permet de comprendre pourquoi les mêmes arrangements ne fonctionneraient pas forcément dans les deux lieux."
+          "heading": "Un repas possible ici ne prédit pas un repas ailleurs",
+          "text": "Les difficultés liées à l’ARFID peuvent varier selon les aliments, les lieux et les conditions du repas. Une expérience à la maison renseigne sur ce contexte sans suffire à prévoir le séjour ni à évaluer les besoins nutritionnels. La diététicienne recueille ce qui s’est passé à la cantine et chez Adèle. Avec l’équipe, elle pourra revoir les possibilités au centre."
         },
         {
           "role": "manifestations",
-          "heading": "Un repas possible à la maison ne répond pas à la question du séjour",
-          "text": "Adèle se souvient surtout du bruit des chaises à la cantine. Le même jour, elle a pu prendre chez elle le repas dont elle avait parlé avec la diététicienne. Dans le bureau, elle retrouve son envie de tisser et son inquiétude à l’idée du dîner au centre. Elle a peur qu’un oui à l’atelier l’engage déjà pour toute la soirée. Les repas et les conditions dans lesquelles ils se déroulent pèsent différemment dans sa décision."
+          "heading": "Comment la difficulté varie-t-elle d’un repas à l’autre ?",
+          "points": [
+            {
+              "heading": "Le lieu change les conditions",
+              "text": "Les bruits, le passage et la disponibilité d’un adulte ne sont pas les mêmes à chaque repas.",
+              "examples": [
+                "Adèle se souvient du bruit des chaises à la cantine.",
+                "Un élève peut manger dans le calme à la maison et rencontrer plus de difficultés quand plusieurs classes déjeunent ensemble."
+              ]
+            },
+            {
+              "heading": "Le soutien utilisé compte dans la comparaison",
+              "text": "Un repas possible peut tenir à des conditions déjà ajustées avec l’équipe.",
+              "examples": [
+                "Chez elle, Adèle a pu prendre le repas discuté avec la diététicienne.",
+                "Une personne décrit un repas possible avec un appui prévu et vérifie si cet appui existera au lieu suivant."
+              ]
+            },
+            {
+              "heading": "Le projet s’étend sur plusieurs moments",
+              "text": "Une journée avec plusieurs repas et une nuit demande de vérifier plus d’une situation.",
+              "examples": [
+                "Pour Adèle, vouloir l’atelier ne répond pas à la question du petit déjeuner au centre.",
+                "Un jeune peut être prêt pour une visite d’après-midi et avoir encore besoin de préparer le dîner avant de confirmer le séjour entier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir qui peut aider à changer de plan",
-          "text": "Le point qu’Adèle met sur la table est très concret : que pourra-t-elle demander si, le soir, la première option ne fonctionne pas ? Elle aimerait pouvoir essayer la place prévue avec les autres et savoir où aller, avec quel adulte, si elle a besoin d’un cadre plus calme. Eva peut rester joignable et envisager de venir la chercher. Les modalités alimentaires qui iraient avec ces options se discutent avec les soignants ; un départ en cours de séjour est une décision à organiser avec les adultes, pas quelque chose qu’Adèle doit gérer sur le moment.\n\nPrévoir un retour donne une réponse à une inquiétude présente. Cela laisse aussi la place à une autre question : si elle souhaite rester, quels appuis peuvent rendre ce choix possible ? La diététicienne propose de noter les deux questions pour le collège.\n\nLa diététicienne peut partir du suivi déjà en place pour proposer avec Adèle et Eva des modalités de repas compatibles avec le séjour. Elle reprend ces propositions avec le reste de l’équipe, notamment si le séjour modifie l’organisation des appuis habituels. Le centre et les adultes qui encadreront le groupe doivent dire ce qu’ils peuvent assurer. Il faut les deux réponses avant de confirmer la nuit."
+          "heading": "3 techniques pour préparer des possibilités avec l’équipe de soins",
+          "points": [
+            {
+              "heading": "Comparer deux expériences",
+              "objective": "Faire connaître ce qui aide ou gêne selon le lieu.",
+              "exercise": [
+                "Choisissez un repas à la maison et un autre à l’extérieur.",
+                "Décrivez le cadre et l’appui qui était disponible.",
+                "Demandez à l’équipe ce que ces observations permettent de préparer."
+              ],
+              "benefit": "Le plan peut partir de conditions vécues au lieu d’extrapoler à partir d’un seul repas."
+            },
+            {
+              "heading": "Découper le programme du séjour",
+              "objective": "Repérer quels moments demandent une décision ou un relais.",
+              "exercise": [
+                "Regardez la journée et la nuit séparément.",
+                "Identifiez les lieux, les repas et les adultes qui restent à confirmer.",
+                "Demandez comment revoir la décision si les conditions changent."
+              ],
+              "benefit": "L’atelier et la nuit peuvent faire l’objet de vérifications distinctes."
+            },
+            {
+              "heading": "Préparer un changement avec les professionnels",
+              "objective": "Éviter de devoir improviser l’alimentation ou la suite du séjour sur place.",
+              "exercise": [
+                "Demandez à l’équipe quelles options sont compatibles avec le suivi.",
+                "Convenez avec les adultes de la personne à contacter si le plan devient difficile à suivre.",
+                "Notez les réponses lorsque le médecin et la diététicienne ont confirmé les modalités."
+              ],
+              "benefit": "Le cadre devient plus prévisible et les décisions de santé restent du ressort de l’équipe."
+            }
+          ]
         }
       ],
       "ending_title": "Deux questions au verso",
@@ -146,7 +316,8 @@
         "next": "Le collège doit identifier les adultes et les lieux qui permettraient d’appliquer ces options avant toute confirmation."
       },
       "clinical_focus": "Variabilité des difficultés alimentaires",
-      "clinical_intro": "Eva se demande si un repas pris à la maison signifie que la nuit au centre se passera bien. Adèle redoute de devoir accepter tous les repas du séjour en disant oui à l’atelier. Pour comprendre l’ARFID, l’équipe examine le retentissement, les besoins nutritionnels et les conditions propres à chaque lieu. Elle prépare avec Adèle plusieurs possibilités adaptées à son suivi."
+      "clinical_intro": "Eva se demande si un repas pris à la maison signifie que la nuit au centre se passera bien. Adèle redoute de devoir accepter tous les repas du séjour en disant oui à l’atelier. Pour comprendre l’ARFID, l’équipe examine le retentissement, les besoins nutritionnels et les conditions propres à chaque lieu. Elle prépare avec Adèle plusieurs possibilités adaptées à son suivi.",
+      "conclusion": "La pochette d’Adèle repart avec deux questions précises et une soirée encore ouverte. Ce qu’elle a pu faire à la maison aide à préparer la discussion. Le centre aura ses propres conditions à vérifier."
     },
     {
       "number": 4,
@@ -163,18 +334,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand le contexte sensoriel et le regard des autres se cumulent",
-          "text": "L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. La question peut se poser à l’école, lors d’un déplacement ou à l’âge adulte dans un repas avec des collègues. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent."
+          "heading": "Le lieu où l’on mange fait partie de l’expérience",
+          "text": "Dans l’ARFID, certains aliments peuvent être difficiles à prendre en raison de leurs caractéristiques sensorielles. L’environnement du repas peut ajouter des bruits, des allées et venues ou la crainte d’être observé. Ce que la personne trouve aidant se discute avec elle et son équipe. Pour Adèle, le bureau proposé n’offre pas le calme attendu s’il s’ouvre sur le couloir le plus fréquenté."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.\n\nDans le bureau vitré, le passage serait constant même avec une chaise à l’écart. En repérant ce détail, Adèle explique ce qu’elle entend par discrétion. Elle n’a pas besoin de raconter toute son histoire à la responsable du lieu pour demander où se trouve l’autre pièce."
+          "heading": "Comment le lieu peut-il ajouter une difficulté au repas ?",
+          "points": [
+            {
+              "heading": "Le calme sur le plan ne garantit pas le calme sur place",
+              "text": "Une pièce peut être à part tout en donnant sur un passage bruyant.",
+              "examples": [
+                "Le bureau proposé au centre s’ouvre sur le couloir emprunté par les groupes.",
+                "Une table dans un coin reste difficile à utiliser si les chaises bougent juste derrière elle."
+              ]
+            },
+            {
+              "heading": "Le chemin peut exposer aux regards",
+              "text": "Quitter la table ou franchir une porte devant le groupe peut ajouter un effort au moment où manger est déjà difficile.",
+              "examples": [
+                "Adèle cherche un trajet qui ne l’oblige pas à expliquer publiquement pourquoi elle change de salle.",
+                "Une élève hésite à demander la clé si elle doit revenir la chercher devant tous ses camarades."
+              ]
+            },
+            {
+              "heading": "Un lieu utile doit être accessible au bon moment",
+              "text": "Le numéro d’une salle et la personne qui peut l’ouvrir font partie de l’aménagement.",
+              "examples": [
+                "La responsable prévoit de remettre la clé aux accompagnateurs aux heures convenues.",
+                "Un local calme est disponible à midi mais sert à une réunion au dîner ; l’équipe doit vérifier l’autre option prévue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre la solution réellement disponible",
-          "text": "La proposition d’un lieu prend du sens si les adultes peuvent y accéder pendant les repas et savent qui accompagne Adèle. Mme Roussel doit pouvoir vérifier les modalités convenues avec la famille et l’équipe, et M. Benhamou doit savoir quand la relayer. Le centre peut en dire davantage sur les horaires et la disponibilité des espaces. Adèle veut aussi que les adultes lui expliquent comment elle pourra revenir vers le groupe une fois le repas terminé.\n\nLe plan garde la possibilité pour Eva de venir la chercher si l’organisation ne suffit plus. Dans ce cas, la professeure contactera Eva et les adultes suivront les consignes de l’équipe pour les questions de santé. Eva et Adèle choisissent ce que les deux accompagnateurs doivent savoir. Le centre reçoit les éléments nécessaires à son rôle. Le moment où le groupe passe devant une porte n’a pas à devenir celui où l’on communique ces informations."
+          "heading": "3 techniques pour évaluer un espace de repas avec la personne",
+          "points": [
+            {
+              "heading": "Regarder le lieu et son chemin",
+              "objective": "Repérer ce que le plan seul ne dit pas.",
+              "exercise": [
+                "Identifiez les couloirs et salles proches.",
+                "Demandez qui y passe aux heures des repas.",
+                "Si c’est possible, regardez le trajet réel avec l’adulte concerné."
+              ],
+              "benefit": "L’aménagement peut être choisi à partir du bruit, du passage et de l’accès effectif."
+            },
+            {
+              "heading": "Prévoir un changement sans annonce",
+              "objective": "Pouvoir utiliser une option discutée sans avoir à se justifier devant le groupe.",
+              "exercise": [
+                "Choisissez avec le jeune un moyen discret de joindre l’accompagnateur.",
+                "Dites où l’attendre et qui a la clé.",
+                "Demandez à l’équipe scolaire de confirmer comment le passage se fera."
+              ],
+              "benefit": "Le jeune sait à quoi s’attendre et les adultes connaissent leur rôle."
+            },
+            {
+              "heading": "Faire vérifier la solution",
+              "objective": "S’assurer que le cadre matériel convient au plan déjà discuté.",
+              "exercise": [
+                "Relevez les heures auxquelles la salle est disponible.",
+                "Présentez à l’équipe de soins les différences avec le cadre habituel.",
+                "Décidez avec les adultes ce qui doit encore être confirmé avant le départ."
+              ],
+              "benefit": "Une solution de lieu peut soutenir le plan sans modifier seule la prise en charge."
+            }
+          ]
         }
       ],
       "ending_title": "La flèche vers la petite salle",
@@ -192,7 +419,8 @@
         "next": "Un essai au collège et la confirmation des modalités par les adultes précéderont l’inscription définitive."
       },
       "clinical_focus": "Environnement sensoriel et regard social",
-      "clinical_intro": "Adèle apprend que le bureau censé lui offrir du calme donne sur le couloir le plus fréquenté. Elle craint d’y attirer l’attention au moment où elle a déjà du mal à manger. Pour elle, l’effort sensoriel et la peur d’être observée se cumulent. Discuter du lieu avec l’équipe peut aussi être utile quand les repas en déplacement ou au travail posent problème à l’âge adulte."
+      "clinical_intro": "Adèle apprend que le bureau censé lui offrir du calme donne sur le couloir le plus fréquenté. Elle craint d’y attirer l’attention au moment où elle a déjà du mal à manger. Pour elle, l’effort sensoriel et la peur d’être observée se cumulent. Discuter du lieu avec l’équipe peut aussi être utile quand les repas en déplacement ou au travail posent problème à l’âge adulte.",
+      "conclusion": "La flèche sur le plan mène à une salle qui n’oblige pas Adèle à passer devant tous les groupes. La place au tissage reste son premier choix. La confirmation attend qu’elle ait pu vérifier l’appui avec les adultes."
     },
     {
       "number": 5,
@@ -209,18 +437,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’un repas ordinaire peut apprendre",
-          "text": "Un repas possible dans un cadre aménagé ne suffit pas à dire comment se passeront les autres repas d’une personne qui a un ARFID. Les caractéristiques des aliments, le lieu, les personnes présentes et les échanges à table peuvent différer."
+          "heading": "Un appui utilisé peut encore demander un effort",
+          "text": "Un repas pris dans le cadre prévu peut rester éprouvant pour une personne suivie pour un ARFID. Ce que les autres voient ne rend pas compte de l’effort pour demander une aide ou de la fatigue qui suit. Adèle a pu utiliser l’appui de midi et a dû s’arrêter dans le couloir en remontant. Elle veut préciser à Mme Roussel comment vérifier le soutien sans attirer les regards."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ici, Adèle et les adultes vérifient une partie pratique du plan : la possibilité de trouver la personne prévue et de lui parler discrètement. Vérifier ce relais ne change rien à ce qu’Adèle a prévu pour le repas avec son équipe de suivi. Elle reste libre de dire ce qui lui a coûté de l’effort.\n\nAdèle apporte deux informations distinctes : elle a pu demander l’appui et elle reste préoccupée par une question qui serait posée devant le groupe. Ces précisions peuvent servir à organiser le voyage. Le médecin et la diététicienne gardent la responsabilité du suivi de la santé et de l’alimentation, qui se poursuit indépendamment de ce midi."
+          "heading": "Comment l’effort reste-t-il peu visible quand l’appui a fonctionné ?",
+          "points": [
+            {
+              "heading": "Demander l’aide demande déjà une démarche",
+              "text": "Trouver la personne et le moment où s’adresser à elle peut compter autant que connaître la solution.",
+              "examples": [
+                "Adèle utilise le relais convenu à la cantine sans devoir expliquer son repas dans la file.",
+                "Un élève attend de croiser l’adulte seul avant d’oser demander la salle qui lui a été indiquée."
+              ]
+            },
+            {
+              "heading": "Le contrecoup apparaît hors de la table",
+              "text": "Après le repas, la personne peut avoir encore besoin de temps avant de rejoindre l’activité suivante.",
+              "examples": [
+                "Adèle s’arrête pour attendre que le bruit des élèves passe.",
+                "Un jeune prend le repas prévu puis demande un moment calme avant de rejoindre sa classe."
+              ]
+            },
+            {
+              "heading": "Une question publique peut décourager un retour utile",
+              "text": "Un adulte peut chercher à prendre des nouvelles et rendre plus difficile l’expression de la personne s’il le fait devant les autres.",
+              "examples": [
+                "Adèle demande à Mme Roussel de lui parler en privé au centre.",
+                "Un élève répond « oui » dans le groupe alors qu’il voudrait expliquer une difficulté à part."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prendre une décision quand les adultes ont vérifié leur part",
-          "text": "Le centre a confirmé l’accès à la petite salle et les dispositions nécessaires pour respecter les modalités revues avec l’équipe. Mme Roussel et M. Benhamou ont fixé leur relais. Adèle sait à qui s’adresser ; Eva sait à quoi elle s’engage si Adèle souhaite rentrer ou si les accompagnateurs doivent organiser son retour. Mme Roussel peut maintenant reprendre la fiche de départ avec elles et préciser à Adèle que la discussion sur place reste possible.\n\nLa bande de papier répond à une autre question : à quoi veut-elle employer son temps à l’atelier ? Adèle peut décider d’emporter un dessin qu’elle pourra modifier en fonction de ce qu’elle verra. Elle n’a pas besoin de savoir d’avance si la fenêtre qu’elle a dessinée ressemble à la vraie."
+          "heading": "3 techniques pour rendre la demande d’aide plus discrète",
+          "points": [
+            {
+              "heading": "Choisir la façon de joindre l’adulte",
+              "objective": "Savoir comment demander un appui au moment utile.",
+              "exercise": [
+                "Indiquez l’adulte que vous pouvez joindre.",
+                "Convenez d’un endroit ou d’une phrase brève qui vous convient.",
+                "Vérifiez sur une journée ordinaire si vous pouvez le trouver comme prévu."
+              ],
+              "benefit": "L’essai renseigne sur la facilité d’accès à l’aide, pas seulement sur l’issue du repas."
+            },
+            {
+              "heading": "Décrire le moment après",
+              "objective": "Donner à l’adulte une information qu’il ne pouvait pas voir à table.",
+              "exercise": [
+                "Dites ce qui a été possible grâce à l’appui.",
+                "Expliquez en quelques mots ce qui est resté difficile en repartant.",
+                "Demandez que ce retour se fasse en privé."
+              ],
+              "benefit": "L’organisation peut tenir compte du trajet et du temps entre deux activités."
+            },
+            {
+              "heading": "Rendre le retour utile au suivi",
+              "objective": "Distinguer l’accès à un appui de l’évaluation du repas.",
+              "exercise": [
+                "Rapportez à l’équipe ce qui a fonctionné dans l’organisation.",
+                "Décrivez ce qui vous a encore coûté et toute difficulté à suivre le plan.",
+                "Demandez quels éléments revoir avant la prochaine sortie."
+              ],
+              "benefit": "L’équipe dispose d’informations pour décider des ajustements nécessaires."
+            }
+          ]
         }
       ],
       "ending_title": "La bande dans le carnet",
@@ -239,7 +523,8 @@
         "next": "Elle doit encore préciser à Inès ce qu’elle souhaite partager et ce que les deux amies veulent faire ensemble sur place."
       },
       "clinical_focus": "Effort invisible et demande d’aide",
-      "clinical_intro": "Adèle a pu manger à la cantine avec l’appui convenu. En remontant, elle a pourtant dû attendre que le bruit du couloir passe. Elle redoute qu’une question posée en public lui impose d’expliquer cet effort. Dans le suivi de l’ARFID, ce que la personne a vécu compte autant pour comprendre le contexte que le seul fait d’avoir pris le repas."
+      "clinical_intro": "Adèle a pu manger à la cantine avec l’appui convenu. En remontant, elle a pourtant dû attendre que le bruit du couloir passe. Elle redoute qu’une question posée en public lui impose d’expliquer cet effort. Dans le suivi de l’ARFID, ce que la personne a vécu compte autant pour comprendre le contexte que le seul fait d’avoir pris le repas.",
+      "conclusion": "Adèle confirme le voyage après avoir dit comment elle veut être approchée. Le repas de midi a donné une information utile et l’arrêt dans le couloir en donne une autre. Elle reprend son dessin avec ces deux faits en tête."
     },
     {
       "number": 6,
@@ -256,18 +541,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Pourquoi les motifs de la restriction comptent dans l’évaluation",
-          "text": "Dans l’ARFID, la restriction alimentaire n’est pas motivée par une préoccupation de poids ou de silhouette. Les professionnels s’intéressent aux raisons de la restriction et à son retentissement dans la durée. Voir ce qu’une personne mange ou l’apercevoir en train de parler à un adulte ne permet pas de connaître ces raisons."
+          "heading": "Ce qui motive la restriction ne se voit pas de l’extérieur",
+          "text": "Dans l’ARFID, la restriction alimentaire n’est pas motivée par le poids ou la silhouette. Elle peut être liée à des sensations, à la crainte d’une conséquence pénible ou à un faible intérêt pour l’alimentation. Ces difficultés peuvent se combiner et leur évaluation appartient à des professionnels. Pour Adèle, la difficulté est sensorielle ; la question du camarade sur un régime ne renseigne pas sur ce qu’elle éprouve."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Adèle, certaines caractéristiques sensorielles rendent les repas difficiles ; le camarade qui la questionne ne dispose d’aucun élément pour en tirer une conclusion sur sa santé.\n\nRépondre à une supposition par une explication complète peut obliger la personne à partager des éléments privés pour faire cesser les commentaires. Adèle n’a pas à fournir une telle explication. La professeure peut prendre le relais sur ce qui se passe entre élèves et répondre au commentaire sans révéler la nature du suivi."
+          "heading": "Comment distinguer ce que l’on voit du motif d’une restriction ?",
+          "points": [
+            {
+              "heading": "Une même apparence peut couvrir des expériences différentes",
+              "text": "Deux personnes peuvent laisser un aliment pour des raisons que la table ne montre pas.",
+              "examples": [
+                "Adèle peut avoir un haut-le-cœur face à une consistance, même si elle aimerait pouvoir manger ce plat.",
+                "Deux personnes écartent la même assiette : l’une décrit une odeur très difficile, l’autre ne ressent guère d’envie de manger."
+              ]
+            },
+            {
+              "heading": "Une comparaison avec un régime peut exposer inutilement",
+              "text": "Attribuer un motif à quelqu’un en public peut le placer dans la position d’avoir à se justifier.",
+              "examples": [
+                "Le garçon demande à Adèle devant les autres si elle a parlé à Mme Roussel pour un régime.",
+                "Un collègue commente un repas en groupe et demande à une personne si elle cherche à changer sa silhouette."
+              ]
+            },
+            {
+              "heading": "L’intéressé peut choisir à qui parler de son vécu",
+              "text": "L’équipe de soins peut avoir besoin de comprendre les motifs ; un camarade n’a pas à les connaître.",
+              "examples": [
+                "Adèle dit à Inès qu’elle a prévu les repas avec les adultes et qu’elle préfère s’en tenir là.",
+                "Une personne décrit ses difficultés sensorielles au professionnel qui la suit et demande à ses collègues de ne pas commenter son assiette."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander à une amie une aide qu’elle peut offrir",
-          "text": "Inès peut avoir envie de défendre Adèle ou de faire comme si elle n’avait rien entendu. Adèle peut lui dire quelle réaction lui conviendrait. Elle veut, si la question revient, qu’Inès ne réponde pas à sa place. Elle peut aussi lui dire qu’un adulte connaît les arrangements du voyage : le fait qu’Inès soit sa camarade de projet ne lui donne aucune responsabilité à l’heure du repas.\n\nElles ont encore une décision à prendre à propos du reportage. Inès peut demander à la personne qui leur montrera le métier si elle accepte que le bruit soit enregistré. Adèle peut dessiner de son côté et lui faire signe si elle voit un détail qui pourrait figurer dans leur restitution. Elles peuvent se retrouver à l’atelier même si elles ne passent pas tout le séjour côte à côte."
+          "heading": "3 techniques pour répondre à une remarque sur ce que vous mangez",
+          "points": [
+            {
+              "heading": "Poser une limite en une phrase",
+              "objective": "Pouvoir répondre sans rendre public un diagnostic.",
+              "exercise": [
+                "Préparez une phrase courte comme « Je préfère qu’on ne parle pas de mon repas. »",
+                "Dites-la ou quittez l’échange si vous préférez.",
+                "Reprenez la conversation sur le sujet que vous avez choisi."
+              ],
+              "benefit": "La limite reste compréhensible sans exposer vos raisons."
+            },
+            {
+              "heading": "Solliciter un adulte pour le commentaire",
+              "objective": "Faire traiter la remarque dans un cadre adapté.",
+              "exercise": [
+                "Indiquez en privé ce qui a été dit et où.",
+                "Dites si vous souhaitez que l’adulte reprenne la question avec l’autre élève.",
+                "Convenez de ce qu’il peut répéter en respectant les besoins de sécurité."
+              ],
+              "benefit": "L’adulte peut agir sur la situation sans demander au jeune de défendre son dossier."
+            },
+            {
+              "heading": "Décrire son expérience au bon interlocuteur",
+              "objective": "Apporter à l’évaluation ce que les autres ne peuvent pas déduire.",
+              "exercise": [
+                "Choisissez une situation de repas qui vous a mis en difficulté.",
+                "Décrivez ce que vous avez ressenti ou appréhendé.",
+                "Demandez au professionnel qui vous suit comment utiliser cette information dans le suivi."
+              ],
+              "benefit": "Les motifs peuvent être discutés dans un cadre de soins et replacés dans l’ensemble de la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Une place laissée au bruit",
@@ -285,7 +626,8 @@
         "next": "Au départ, Adèle et Inès gardent leur collaboration sur le dessin et le son ; l’encadrement reste aux adultes."
       },
       "clinical_focus": "Motifs de la restriction alimentaire",
-      "clinical_intro": "Un camarade parle de régime après avoir vu Adèle demander de l’aide. Elle se sent exposée et se demande si elle devra expliquer son diagnostic pour que les questions cessent. La CIM-11 distingue l’ARFID de l’anorexie mentale en examinant notamment ce qui motive la restriction. Chez Adèle, la difficulté tient à certaines sensations en mangeant. Une observation à table ne suffit pas pour connaître ces motifs."
+      "clinical_intro": "Un camarade parle de régime après avoir vu Adèle demander de l’aide. Elle se sent exposée et se demande si elle devra expliquer son diagnostic pour que les questions cessent. La CIM-11 distingue l’ARFID de l’anorexie mentale en examinant notamment ce qui motive la restriction. Chez Adèle, la difficulté tient à certaines sensations en mangeant. Une observation à table ne suffit pas pour connaître ces motifs.",
+      "conclusion": "Mme Roussel peut reprendre la remarque avec le garçon. Adèle choisit ce qu’elle dit à Inès et revient au son du métier à tisser. Son camarade n’a pas besoin de connaître le diagnostic pour respecter sa limite."
     },
     {
       "number": 7,
@@ -302,18 +644,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Retrouver une personne avant d’avoir besoin d’elle",
-          "text": "Pour un jeune qui a un ARFID, certains lieux de repas peuvent soulever des difficultés qu’on ne retrouve pas de la même façon à la maison ou à l’école. L’environnement fait partie des éléments qu’on peut examiner avec lui."
+          "heading": "Arriver dans un lieu où l’aide est encore abstraite",
+          "text": "Dans l’ARFID, la perspective d’un repas hors des lieux familiers peut prendre de l’attention bien avant de manger. La personne peut anticiper une difficulté sensorielle et se demander si l’appui promis sera effectivement accessible. Adèle a envie de retrouver Inès et veut d’abord savoir où chercher quelqu’un si la texture la met en difficulté. Le plan prend son sens quand les adultes lui montrent le trajet."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "À l’arrivée, Adèle vérifie un point que le plan du collège ne montrait pas : à quel endroit elle pourra parler à l’adulte qui l’accompagne et comment il pourra l’aider à rejoindre la petite salle. La visite lui donne un repère, sans prédire ce qu’elle ressentira au moment du repas.\n\nElle peut choisir d’être accompagnée pour ces vérifications. Mme Roussel s’occupe de la disponibilité du lieu avec le centre et confirme le relais avec M. Benhamou. Adèle garde son rôle : dire si le lieu lui paraît utilisable et choisir la façon de signaler une difficulté quand elle en rencontre une."
+          "heading": "Comment l’appréhension d’un repas hors de chez soi apparaît-elle à l’arrivée ?",
+          "points": [
+            {
+              "heading": "L’inquiétude concurrence ce qu’on veut découvrir",
+              "text": "Une question de repas peut revenir au moment même où une activité agréable devient possible.",
+              "examples": [
+                "Adèle aperçoit les cheminées de l’atelier et pense à la cantine en descendant du car.",
+                "Un adolescent arrive à un tournoi et a du mal à écouter les consignes tant qu’il ne sait pas à qui parler du déjeuner."
+              ]
+            },
+            {
+              "heading": "Le lieu réel n’est pas toujours facile à reconnaître",
+              "text": "Une aide connue sur papier peut rester difficile à trouver parmi des portes semblables.",
+              "examples": [
+                "Adèle découvre une lingerie et une salle dont le numéro est peu lisible.",
+                "Un élève connaît le nom du bureau mais ne voit pas comment y aller depuis l’entrée utilisée par le groupe."
+              ]
+            },
+            {
+              "heading": "La disponibilité compte autant que le nom",
+              "text": "Savoir qui est de service et où attendre peut répondre à l’incertitude de l’arrivée.",
+              "examples": [
+                "Adèle demande qui peut l’aider si Mme Roussel est occupée.",
+                "Une personne sait à qui parler le matin et vérifie qui peut prendre le relais au moment du repas."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Redonner une place au reste du séjour",
-          "text": "La responsable a les consignes utiles à l’organisation des repas et des salles. Les accompagnateurs sont les personnes avec qui Adèle et Eva ont convenu du relais. Les autres élèves ont besoin des indications pour leur chambre et leur atelier. Mme Roussel peut répondre à la question d’Adèle à l’écart et retrouver le groupe ensuite. Elle peut aussi vérifier qu’Adèle sait que l’appel à Eva, si nécessaire, est à la charge des adultes.\n\nCette visite ne doit pas prendre tout le temps libre dont disposent les élèves avant le départ vers l’atelier. Une fois l’information obtenue, Adèle peut poser son sac, revenir vers Inès et lui dire quel endroit du centre elle veut voir en premier."
+          "heading": "3 techniques pour rendre un appui repérable à l’arrivée",
+          "points": [
+            {
+              "heading": "Voir le trajet avant qu’il serve",
+              "objective": "Reconnaître les lieux sans devoir chercher au moment du repas.",
+              "exercise": [
+                "Demandez à un adulte de vous montrer le point de départ.",
+                "Regardez une fois le trajet ensemble.",
+                "Choisissez un numéro ou un détail que vous pourrez reconnaître."
+              ],
+              "benefit": "Vous disposez d’un repère observé sur place plutôt que d’une flèche seule."
+            },
+            {
+              "heading": "Vérifier la disponibilité du relais",
+              "objective": "Savoir où trouver quelqu’un même si le premier adulte est occupé.",
+              "exercise": [
+                "Demandez qui sera présent à l’heure prévue.",
+                "Confirmez où attendre et comment signaler le besoin.",
+                "Demandez aux accompagnateurs de partager ce repère entre eux."
+              ],
+              "benefit": "La demande ne dépend pas de retrouver une personne particulière au milieu du groupe."
+            },
+            {
+              "heading": "Revenir à la première chose qu’on voulait faire",
+              "objective": "Laisser une place à l’activité après la vérification.",
+              "exercise": [
+                "Dites à votre camarade où vous retrouver.",
+                "Repérez ce qui est désormais convenu et ce qui reste à demander aux adultes.",
+                "Rejoignez l’activité quand vous êtes prêt."
+              ],
+              "benefit": "Le repas peut rester une préoccupation sans occuper toute l’arrivée."
+            }
+          ]
         }
       ],
       "ending_title": "Un repère près de l’escalier",
@@ -331,7 +729,8 @@
         "next": "Le premier déjeuner et la visite du métier à tisser donnent des expériences distinctes : un repas soutenu dans le groupe et une découverte de dessin."
       },
       "clinical_focus": "Appréhension des repas hors domicile",
-      "clinical_intro": "Adèle aimerait découvrir l’atelier avec Inès. Une fois sur place, elle se demande surtout qui pourra l’aider si le repas devient difficile. Dans l’ARFID, anticiper une difficulté à manger loin de ses repères peut prendre de l’attention avant même le repas. Adèle vérifie à qui elle pourra s’adresser. Cette information lui permet de rejoindre Inès même si l’appréhension est encore là."
+      "clinical_intro": "Adèle aimerait découvrir l’atelier avec Inès. Une fois sur place, elle se demande surtout qui pourra l’aider si le repas devient difficile. Dans l’ARFID, anticiper une difficulté à manger loin de ses repères peut prendre de l’attention avant même le repas. Adèle vérifie à qui elle pourra s’adresser. Cette information lui permet de rejoindre Inès même si l’appréhension est encore là.",
+      "conclusion": "Adèle connaît maintenant le palier où quelqu’un pourra l’aider. Elle rejoint Inès et retrouve les cheminées vues depuis le car. Le repas n’a pas encore eu lieu, mais la demande d’aide a un endroit."
     },
     {
       "number": 8,
@@ -348,18 +747,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "L’effort du repas peut prendre la place de la conversation",
-          "text": "L’ARFID peut gêner la participation aux repas partagés et aux activités qui s’organisent autour d’eux. Selon les personnes et les moments, manger avec d’autres peut faire partie de ce que l’on souhaite, et un endroit plus calme peut aider quand l’environnement devient difficile. Le même appui n’a pas à être choisi chaque fois."
+          "heading": "Quand le repas occupe aussi l’attention",
+          "text": "Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès ; en surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "À midi, Adèle a pu prendre son repas dans le cadre prévu avec le groupe. Elle a aussi dû faire un effort pour retrouver le fil de la conversation. Ces deux aspects peuvent être entendus ensemble lorsqu’elle en reparlera avec l’équipe.\n\nLe choix de rejoindre la table commune n’annonce pas celui du soir. Les accompagnateurs peuvent conserver les autres modalités convenues et demander à Adèle ce qui a été possible seulement lorsqu’ils ont un moment pour parler à part. Le suivi garde ses propres repères, au-delà de ce qu’un camarade pourrait remarquer pendant le déjeuner."
+          "heading": "Comment l’attention se partage-t-elle entre le repas et la conversation ?",
+          "points": [
+            {
+              "heading": "La place choisie aide sur un point et pas sur tout",
+              "text": "Être près d’une personne connue peut faciliter la rencontre sans rendre l’espace autour de la table moins exigeant.",
+              "examples": [
+                "Adèle choisit le bout de la table avec Inès et reste sensible au passage derrière elle.",
+                "Un jeune se place près d’un camarade et se distrait chaque fois qu’un siège bouge dans son dos."
+              ]
+            },
+            {
+              "heading": "L’histoire se poursuit pendant qu’on regarde ailleurs",
+              "text": "Suivre ce qui se passe autour du repas peut faire perdre une partie du fil social.",
+              "examples": [
+                "Adèle manque le début de l’histoire sur le chauffeur.",
+                "Une personne entend la fin d’une question pendant qu’elle se concentre sur ce qu’elle éprouve au moment du repas."
+              ]
+            },
+            {
+              "heading": "Demander une reprise permet de rester dans l’échange",
+              "text": "Une information précise peut être rattrapée sans raconter ce qui a pris l’attention.",
+              "examples": [
+                "Adèle demande à Inès de reprendre au passage du sac renversé.",
+                "Un jeune dit « Tu parlais de quel arrêt ? » et retrouve le sujet au moment de quitter la table."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Voir l’atelier à sa façon",
-          "text": "À l’atelier, Adèle peut faire des choix qui répondent au dessin qu’elle veut obtenir. Depuis le bout de la ligne, elle verra peut-être mieux l’ombre et moins bien la démonstration. Elle peut demander à la personne qui présente le métier si elle peut lui montrer ensuite le geste qu’elle ne voit pas depuis sa place. Inès, de son côté, s’intéresse à l’instant où le mécanisme démarre. Leurs deux façons de regarder peuvent entrer dans la restitution.\n\nAu moment de reprendre sa bande blanche, Adèle a une décision à prendre : montrer une fenêtre fidèle au bâtiment ou retenir l’ombre qui lui a donné l’idée. Elle peut expliquer la différence à la personne qui verra son dessin, ou lui laisser le temps de la remarquer."
+          "heading": "3 techniques pour garder une place dans l’échange au repas",
+          "points": [
+            {
+              "heading": "Décrire ce que la place change",
+              "objective": "Aider les adultes à comprendre ce que le cadre demande.",
+              "exercise": [
+                "Repérez d’où vient le passage ou le bruit.",
+                "Dites à l’adulte ce qui vous a aidé et ce qui a pris de l’attention.",
+                "Revoyez avec lui et l’équipe les options déjà convenues si le cadre reste difficile."
+              ],
+              "benefit": "Le choix de la place peut se discuter à partir de ce qui s’est passé."
+            },
+            {
+              "heading": "Demander un point de reprise",
+              "objective": "Retrouver le fil sans devoir interrompre longtemps le groupe.",
+              "exercise": [
+                "Repérez le dernier détail entendu.",
+                "Demandez à quelqu’un de reprendre à partir de là.",
+                "Revenez à l’échange plus tard s’il n’y a pas de temps à table."
+              ],
+              "benefit": "Le lien avec les autres peut continuer même si le début d’une phrase a échappé."
+            },
+            {
+              "heading": "Distinguer ce qui a aidé de ce qui a coûté",
+              "objective": "Décrire un repas possible sans en minimiser l’effort.",
+              "exercise": [
+                "Notez l’appui qui était disponible.",
+                "Décrivez un moment où votre attention a quitté l’échange.",
+                "Mentionnez ces deux éléments au suivi si cela se répète."
+              ],
+              "benefit": "L’équipe peut comprendre à la fois la participation et la gêne encore présente."
+            }
+          ]
         }
       ],
       "ending_title": "Garder l’ombre",
@@ -377,7 +832,8 @@
         "next": "Au dîner, un imprévu au centre rend l’environnement différent ; les adultes et Adèle doivent utiliser l’autre possibilité vérifiée à l’arrivée."
       },
       "clinical_focus": "Attention accaparée pendant le repas",
-      "clinical_intro": "Adèle voulait déjeuner près d’Inès et a pu le faire dans le cadre prévu. Elle s’est concentrée sur le repas et les mouvements autour d’elle au point de perdre le fil d’une blague. Dans l’ARFID, participer à un repas peut demander un effort qui échappe aux autres. Cette expérience précise ce qui l’a aidée et ce qui lui a coûté même avec le soutien prévu."
+      "clinical_intro": "Adèle voulait déjeuner près d’Inès et a pu le faire dans le cadre prévu. Elle s’est concentrée sur le repas et les mouvements autour d’elle au point de perdre le fil d’une blague. Dans l’ARFID, participer à un repas peut demander un effort qui échappe aux autres. Cette expérience précise ce qui l’a aidée et ce qui lui a coûté même avec le soutien prévu.",
+      "conclusion": "Adèle a pu déjeuner près d’Inès et a eu besoin qu’elle reprenne l’histoire. Plus tard, elle choisit le bout de la ligne pour mieux voir la fenêtre. Les deux scènes montrent comment une place change ce qu’elle peut suivre."
     },
     {
       "number": 9,
@@ -394,18 +850,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une difficulté peut revenir le même jour",
-          "text": "Les difficultés alimentaires dans l’ARFID peuvent varier avec les conditions du repas. Un changement de lieu, de disposition ou de bruit ne touche pas tout le monde de la même façon."
+          "heading": "Le même repas prévu peut se dérouler dans un autre cadre",
+          "text": "Dans l’ARFID, des difficultés peuvent revenir quand les conditions changent, même après un repas possible dans le même lieu. Un autre placement, davantage de bruit ou un mouvement imprévu peut rendre le cadre plus exigeant. Au dîner, Adèle voit une rangée de chaises de plus et n’arrive pas à entrer comme à midi. Elle s’adresse à l’adulte qui peut vérifier l’option déjà préparée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Adèle avait pu manger avec ses camarades à midi dans des conditions prévues avec l’équipe. Ce soir, le cadre a changé et elle indique qu’elle ne parvient pas à se mettre à table comme prévu. Cela donne aux adultes une raison d’écouter sa demande et de vérifier ce qu’ils ont préparé avec elle. Le repas du midi ne permet pas de prédire la réponse du soir.\n\nDans un séjour encadré, l’appui de repli sert à poursuivre les modalités déjà convenues quand c’est possible. Si elles deviennent insuffisantes ou qu’une question de santé se pose, les adultes reprennent les consignes du suivi et contactent les personnes prévues. Ils ne demandent pas à la jeune personne d’improviser une solution alimentaire dans le couloir."
+          "heading": "Comment une difficulté peut-elle revenir quand le cadre change ?",
+          "points": [
+            {
+              "heading": "Un repère d’il y a quelques heures n’est plus là",
+              "text": "Une place connue ou un passage attendu peut se modifier entre deux repas.",
+              "examples": [
+                "Adèle retrouve le réfectoire avec une disposition différente de celle du déjeuner.",
+                "Une table près d’une sortie est déplacée et l’accès à l’adulte ne se fait plus du même côté."
+              ]
+            },
+            {
+              "heading": "La tension arrive avant qu’on essaie de manger",
+              "text": "La personne peut éprouver la difficulté dès la porte et avoir du mal à expliquer ce qui a changé.",
+              "examples": [
+                "Adèle s’arrête à l’entrée au lieu de reprendre la place qu’elle avait en tête.",
+                "Un jeune entend plusieurs groupes s’installer et va demander de l’aide avant de rejoindre sa table."
+              ]
+            },
+            {
+              "heading": "L’autre option demande une vérification",
+              "text": "Savoir qu’un plan de repli existe ne garantit pas qu’il est accessible à l’instant.",
+              "examples": [
+                "M. Benhamou vérifie avec Mme Roussel que la petite salle et le repas convenu sont disponibles.",
+                "Un accompagnateur confirme l’accès à une salle avant de proposer à un élève de s’y rendre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre en place l’option prévue",
-          "text": "M. Benhamou peut confirmer l’accès à la salle et l’arrangement du repas avec Mme Roussel. L’un d’eux reste disponible auprès d’Adèle et l’aide à retrouver le groupe si elle le souhaite ensuite. La professeure peut convenir avec elle du moment où elles contacteront Eva pour décider de la nuit. Si le retour est indiqué ou demandé, les adultes l’organiseront avec Eva. Les questions de santé restent du ressort de l’équipe qui suit Adèle.\n\nInès n’a pas besoin d’attendre à table ni de chercher la petite salle. M. Benhamou peut lui transmettre une information pratique si Adèle le demande : elles pourront se retrouver plus tard. Adèle peut prendre le temps de répondre à une seule question, celle qui lui permet de demander l’appui dont elle a besoin maintenant."
+          "heading": "3 techniques pour demander l’appui prévu quand la situation change",
+          "points": [
+            {
+              "heading": "Dire ce qui a changé maintenant",
+              "objective": "Donner à l’adulte un fait sur lequel agir.",
+              "exercise": [
+                "Rejoignez le point de contact prévu si vous pouvez le faire.",
+                "Dites ce qui est différent et ce que vous n’arrivez pas à reprendre.",
+                "Demandez à l’adulte de vérifier l’option discutée."
+              ],
+              "benefit": "La décision répond au repas présent sans prendre celui de midi comme une obligation."
+            },
+            {
+              "heading": "S’appuyer sur le plan convenu",
+              "objective": "Garder le soutien dans le cadre préparé avec l’équipe.",
+              "exercise": [
+                "Demandez qui confirme la disponibilité du lieu et du repas prévus.",
+                "Dites si vous voulez que l’adulte reste pendant la vérification.",
+                "Si le plan n’est pas disponible, demandez aux adultes de suivre le relais convenu avec les responsables et l’équipe de soins."
+              ],
+              "benefit": "Les accompagnateurs n’ont pas à inventer une modification de l’alimentation sur place."
+            },
+            {
+              "heading": "Transmettre ce qui s’est réellement passé",
+              "objective": "Permettre aux responsables d’ajuster la suite.",
+              "exercise": [
+                "Notez l’imprévu et l’aide utilisée.",
+                "Informez le parent ou l’adulte responsable comme convenu.",
+                "Signalez à l’équipe de soins toute difficulté persistante ou impossibilité de suivre le plan."
+              ],
+              "benefit": "La suite peut être examinée à partir des conditions réelles du dîner."
+            }
+          ]
         }
       ],
       "ending_title": "Le cahier attendra en haut",
@@ -424,7 +936,8 @@
         "next": "Le repas a pu se prendre avec l’appui prévu. La discussion avec Eva et Mme Roussel porte maintenant sur le séjour jusqu’au lendemain."
       },
       "clinical_focus": "Retour des difficultés alimentaires",
-      "clinical_intro": "Adèle pense reprendre sa place du midi. Elle découvre une rangée de chaises de plus et sent la tension monter dès la porte. Dans son ARFID, le cadre où elle a réussi à manger quelques heures avant peut devenir difficile quand les conditions changent. Elle décrit ce qui se passe à l’adulte disponible, qui vérifie l’option déjà convenue avec l’équipe."
+      "clinical_intro": "Adèle pense reprendre sa place du midi. Elle découvre une rangée de chaises de plus et sent la tension monter dès la porte. Dans son ARFID, le cadre où elle a réussi à manger quelques heures avant peut devenir difficile quand les conditions changent. Elle décrit ce qui se passe à l’adulte disponible, qui vérifie l’option déjà convenue avec l’équipe.",
+      "conclusion": "Le changement dans le réfectoire a rendu le dîner difficile avant même qu’Adèle s’assoie. La petite salle est disponible. Après l’avoir utilisée, elle demande un échange distinct avec Eva pour la nuit."
     },
     {
       "number": 10,
@@ -441,18 +954,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Distinguer les craintes autour du repas et l’envie de rentrer",
-          "text": "Un repas difficile dans l’ARFID peut peser sur la décision de rester pour une activité sans résumer ce que la personne veut faire. Adèle a pu utiliser l’alternative préparée avec les adultes. Il reste à savoir comment le séjour peut continuer dans des conditions qui lui conviennent et qui respectent son suivi. Elle est aussi loin de sa chambre pour la première fois avec sa classe. Avoir envie de retrouver son lit ne dit pas, à lui seul, comment sa santé évolue ou ce dont elle aura besoin au prochain repas."
+          "heading": "Quand le prochain repas pèse sur la nuit",
+          "text": "Une difficulté autour d’un repas peut avoir des effets au-delà de ce qui s’est passé à table. Après un repas difficile, la crainte de revivre la même situation peut peser sur une autre décision, comme dormir sur place. Adèle aimerait rester avec Inès et retrouver aussi le confort de son lit. Il lui manque une information précise : l’appui du petit déjeuner sera-t-il encore accessible ?"
         },
         {
           "role": "manifestations",
-          "heading": "L’inquiétude qui revient à la pensée du petit déjeuner",
-          "text": "De retour dans la chambre, Adèle rit avec Inès en regardant leur dessin. Au moment de décider où dormir, elle repense à la porte du réfectoire, où elle n’est pas parvenue à entrer pour dîner. La petite salle a été accessible une fois. Elle se demande encore si elle pourra s’en servir le matin et demande à sa mère de rester au téléphone pour entendre la réponse. Elle a aussi envie de retrouver son lit chez elle."
+          "heading": "Comment le repas suivant entre-t-il dans une décision qui semble porter sur autre chose ?",
+          "points": [
+            {
+              "heading": "Le souvenir du dîner revient dans la chambre",
+              "text": "La personne peut anticiper une répétition alors que le repas précédent est déjà terminé.",
+              "examples": [
+                "Adèle repense au moment où elle n’a plus pu entrer au réfectoire.",
+                "Un jeune se prépare à dormir et se demande s’il retrouvera le même bruit au petit déjeuner."
+              ]
+            },
+            {
+              "heading": "Plusieurs inquiétudes coexistent",
+              "text": "Une décision peut dépendre à la fois d’un besoin de confort, d’un projet qui plaît et d’une question alimentaire.",
+              "examples": [
+                "Adèle a envie d’entendre le montage avec Inès et aimerait être dans son lit.",
+                "Une personne voudrait rester pour une activité du lendemain et hésite aussi à cause de la nuit hors de chez elle."
+              ]
+            },
+            {
+              "heading": "Un renseignement peut rouvrir la décision",
+              "text": "Confirmer le soutien du lendemain peut permettre de choisir, sans garantir comment le repas se passera.",
+              "examples": [
+                "Mme Roussel confirme le relais de M. Benhamou et l’accès à la petite salle.",
+                "Un adulte vérifie qui sera joignable le matin avant que le jeune et son parent décident ensemble de la suite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Conserver une possibilité de retour",
-          "text": "Eva et Mme Roussel peuvent vérifier que l’appui disponible au dîner le sera aussi au petit déjeuner et dire à Adèle qui pourra la recevoir. Pour les questions liées au plan de soins, elles s’en tiennent aux consignes de l’équipe. Eva peut parler avec Adèle de ce qu’elle a aimé à l’atelier, quelle que soit sa décision sur la nuit.\n\nLe trajet du retour a été discuté avant le départ. Mme Roussel et Eva peuvent redire qui appelle si une difficulté apparaît pendant la nuit ou au réveil et où trouver un adulte. Adèle n’a pas à promettre qu’elle restera jusqu’à l’heure du car pour choisir de remonter dans la chambre maintenant. Elle sait aussi où se trouve Mme Roussel pendant la nuit et comment lui demander de l’aide.\n\nSi elle souhaite rester, une tâche l’attend avec Inès : choisir comment présenter leur travail. Elles peuvent avancer un peu ce soir et remettre la décision au matin. Le téléphone, la clé de la petite salle et le carnet ont chacun leur place dans cette soirée. Adèle n’est pas chargée de les tenir tous en même temps."
+          "heading": "3 techniques pour décider après un repas difficile",
+          "points": [
+            {
+              "heading": "Séparer les raisons d’hésiter",
+              "objective": "Repérer la question qui peut recevoir une réponse maintenant.",
+              "exercise": [
+                "Dites ce qui vous donne envie de rester.",
+                "Nommez ce qui vous ferait préférer rentrer.",
+                "Choisissez le renseignement qui vous manque encore pour décider."
+              ],
+              "benefit": "Il devient possible de répondre à une incertitude précise plutôt qu’à la soirée entière."
+            },
+            {
+              "heading": "Demander une confirmation pour le prochain repas",
+              "objective": "Savoir quel soutien du plan sera disponible.",
+              "exercise": [
+                "Demandez au responsable qui prendra le relais le matin.",
+                "Faites confirmer le lieu et la façon de demander l’appui.",
+                "Demandez que votre parent ou adulte de confiance entende la réponse si cela vous aide."
+              ],
+              "benefit": "Les personnes concernées savent à quoi se référer au prochain repas."
+            },
+            {
+              "heading": "Prévoir ce qui reste révisable",
+              "objective": "Garder un recours après avoir choisi pour la nuit.",
+              "exercise": [
+                "Vérifiez qui est joignable et où frapper.",
+                "Dites votre décision avec les informations dont vous disposez.",
+                "Demandez aux adultes de revoir la suite selon le plan si une difficulté survient."
+              ],
+              "benefit": "Une décision de rester n’engage pas à surmonter seul une situation imprévue."
+            }
+          ]
         }
       ],
       "ending_title": "Le volet est fermé",
@@ -470,7 +1039,8 @@
         "next": "Le petit déjeuner peut demander un choix différent du premier déjeuner. Le groupe a prévu une restitution avant le retour."
       },
       "clinical_focus": "Anxiété liée au prochain repas",
-      "clinical_intro": "Après un dîner difficile, Adèle hésite à dormir au centre. Elle a envie de retrouver son lit et elle veut aussi savoir si l’appui sera accessible au petit déjeuner. Distinguer ce qui l’inquiète lui permet de reprendre la décision avec sa mère et la professeure. Dans l’ARFID, les difficultés autour d’un repas peuvent peser sur un séjour au-delà du temps passé à table."
+      "clinical_intro": "Après un dîner difficile, Adèle hésite à dormir au centre. Elle a envie de retrouver son lit et elle veut aussi savoir si l’appui sera accessible au petit déjeuner. Distinguer ce qui l’inquiète lui permet de reprendre la décision avec sa mère et la professeure. Dans l’ARFID, les difficultés autour d’un repas peuvent peser sur un séjour au-delà du temps passé à table.",
+      "conclusion": "Adèle reste après avoir entendu qui sera là le matin et comment joindre sa mère. Elle retrouve le son enregistré avec Inès. La réponse sur le petit déjeuner lui donne un appui, sans lui promettre une nuit ni un repas faciles."
     },
     {
       "number": 11,
@@ -487,18 +1057,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Rejoindre l’activité après avoir utilisé un appui",
-          "text": "L’ARFID peut gêner la vie scolaire ou sociale même lorsque la personne participe à certaines activités du groupe. La présence d’Adèle dans la salle des ateliers ne dit pas ce qu’il lui a fallu pour prendre le petit déjeuner. Inversement, avoir besoin du lieu prévu pour le repas n’enlève rien à ce qu’elle vient montrer à ses camarades. Les professionnels peuvent écouter ce qu’elle rapporte des repas successifs et ce qui a permis de les prendre, sans juger l’ensemble du séjour à partir d’un seul de ces moments."
+          "heading": "Le groupe voit le retour, pas toujours le chemin",
+          "text": "Dans l’ARFID, participer à un projet avec les autres peut rester possible alors que les repas demandent encore un appui important. Une aide adaptée peut permettre de rejoindre l’activité ; l’effort fourni ne devient pas pour autant visible aux camarades. Adèle demande le cadre convenu au petit déjeuner et retrouve Inès pour présenter le dessin. Les deux moments disent des choses différentes sur sa matinée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Adèle a pu faire une demande plus tôt ce matin. Cela peut devenir un point de discussion avec son équipe, qui pourra entendre aussi que les difficultés sont revenues. Mme Roussel et M. Benhamou peuvent aider en rapportant les faits utiles à la famille, pendant qu’Adèle choisit les mots qu’elle souhaite employer."
+          "heading": "Comment l’appui au repas et la participation se côtoient-ils ?",
+          "points": [
+            {
+              "heading": "L’appui peut être demandé dès le départ",
+              "text": "Une expérience précédente peut aider à choisir plus tôt le cadre disponible, même si la difficulté persiste.",
+              "examples": [
+                "Adèle va directement parler à M. Benhamou avant d’essayer de reprendre sa place.",
+                "Une jeune personne retrouve l’adulte convenu à l’arrivée, parce que la salle commune lui paraît déjà trop difficile."
+              ]
+            },
+            {
+              "heading": "La reprise d’une activité peut avoir son propre rythme",
+              "text": "Après le repas, un projet concret donne un point où retrouver le groupe sans avoir à raconter ce qui s’est passé.",
+              "examples": [
+                "Adèle rejoint Inès près du trait de craie et discute de l’ordre de présentation.",
+                "Un élève rejoint son équipe par la tâche qu’il avait prévue, après avoir déjeuné avec un appui ailleurs."
+              ]
+            },
+            {
+              "heading": "Ce que le public voit n’est pas un bilan de santé",
+              "text": "Réussir une prise de parole apporte une information sur l’activité, pas sur les difficultés alimentaires.",
+              "examples": [
+                "Les élèves entendent Adèle expliquer l’ombre et ignorent son effort du petit déjeuner.",
+                "Un jeune tient son rôle sur scène alors que les repas du séjour restent difficiles et doivent être revus en suivi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Présenter le dessin sans raconter le séjour entier",
-          "text": "Dans la salle, Inès peut proposer un ordre pour le dessin et le son. Adèle peut répondre sur ce point, demander à Inès de parler ou prendre une partie de la présentation. Le groupe attend une restitution de l’atelier. Adèle n’a pas à expliquer les moments où elle s’est séparée de la classe pour présenter l’ombre qu’elle a remarquée. Si quelqu’un s’interroge sur le déroulement du séjour, la professeure peut revenir sur les activités communes et donner à chacun la possibilité de parler du détail qu’il a choisi.\n\nAdèle aimerait que la bande soit vue de suffisamment près. Depuis le fond de la salle, l’enceinte s’entendra. Pour le dessin, elle cherche un support à la bonne hauteur. Inès regarde où elle pose le dessin et attend son signe."
+          "heading": "3 techniques pour retrouver le groupe après un repas qui demande de l’aide",
+          "points": [
+            {
+              "heading": "Demander le cadre convenu à temps",
+              "objective": "Pouvoir utiliser l’appui sans passer d’abord par une situation trop difficile.",
+              "exercise": [
+                "Repérez qui doit être disponible à ce repas.",
+                "Dites que vous voulez utiliser l’option prévue.",
+                "Demandez à l’adulte de la confirmer et de vous accompagner comme convenu."
+              ],
+              "benefit": "L’accès au soutien laisse davantage de marge pour la suite de la matinée."
+            },
+            {
+              "heading": "Retrouver le projet par un geste choisi",
+              "objective": "Rejoindre les autres à partir de ce que vous vouliez faire.",
+              "exercise": [
+                "Repérez la personne ou le matériel avec lequel vous reprenez.",
+                "Choisissez ensemble la première action, par exemple montrer le dessin.",
+                "Dites ce que vous voulez faire vous-même."
+              ],
+              "benefit": "La reprise respecte la place que vous souhaitez prendre dans le groupe."
+            },
+            {
+              "heading": "Raconter les deux temps au suivi",
+              "objective": "Rendre visibles l’appui et l’activité qui a suivi.",
+              "exercise": [
+                "Décrivez comment vous avez demandé de l’aide pour le repas.",
+                "Notez ce qui a encore été difficile et ce que vous avez ensuite pu faire.",
+                "Rapportez séparément ces éléments aux adultes concernés et à l’équipe de soins."
+              ],
+              "benefit": "La participation peut être reconnue sans perdre les informations utiles sur le repas."
+            }
+          ]
         }
       ],
       "ending_title": "Le dessin passe avant le son",
@@ -516,7 +1142,8 @@
         "next": "De retour chez elle, elle fera le point avec l’équipe et développera la bande en un motif à montrer au collège."
       },
       "clinical_focus": "Participation sociale et coût invisible",
-      "clinical_intro": "Adèle demande directement l’aide prévue au petit déjeuner et retrouve Inès pour leur présentation. Ses camarades voient une élève capable d’expliquer son dessin et ignorent l’effort que le repas lui a demandé. Dans l’ARFID, la possibilité de participer à une activité peut coexister avec des difficultés alimentaires importantes. Dire ce qui lui a permis de rejoindre le groupe donne une information utile à son suivi."
+      "clinical_intro": "Adèle demande directement l’aide prévue au petit déjeuner et retrouve Inès pour leur présentation. Ses camarades voient une élève capable d’expliquer son dessin et ignorent l’effort que le repas lui a demandé. Dans l’ARFID, la possibilité de participer à une activité peut coexister avec des difficultés alimentaires importantes. Dire ce qui lui a permis de rejoindre le groupe donne une information utile à son suivi.",
+      "conclusion": "La bande passe avant le son parce qu’Adèle a une idée précise de ce qu’elle veut montrer. Elle a aussi choisi, plus tôt, de demander de l’aide. Les autres peuvent suivre son dessin sans connaître les détails du petit déjeuner."
     },
     {
       "number": 12,
@@ -533,18 +1160,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Évaluer ce qui a changé et ce qui gêne encore les repas",
-          "text": "Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Un séjour possible avec des appuis donne un point de départ pour examiner les difficultés qui persistent. L’ARFID peut continuer à l’âge adulte et peut aussi se manifester pour la première fois à cet âge. Le suivi s’adapte à ce que la personne vit et aux effets de la restriction sur sa santé et son quotidien."
+          "heading": "Ce qu’un voyage permet d’apprendre pour la suite",
+          "text": "Le suivi de l’ARFID tient compte de la santé et des conséquences dans plusieurs situations au fil du temps. Une activité menée à bien ne résume pas l’évolution des difficultés alimentaires. Adèle et Eva ont retenu des faits différents du même séjour : la nuit passée au centre, les conditions du déjeuner et le temps consacré à appréhender les autres repas. Leur équipe peut les examiner ensemble."
         },
         {
           "role": "manifestations",
-          "heading": "La nuit au centre et le temps passé à redouter les repas",
-          "text": "Eva se souvient d’abord qu’Adèle a dormi au centre. Adèle repense au déjeuner qu’elle a pu prendre au réfectoire, puis aux tables déplacées le soir. Elle se rappelle le temps passé à se demander si elle devrait réussir à manger comme à midi. Elle a aussi pu demander l’aide plus tôt au petit déjeuner. Le récit du séjour fait apparaître l’effort que le simple fait d’être restée ne rend pas visible."
+          "heading": "Comment le suivi replace-t-il une réussite dans le temps ?",
+          "points": [
+            {
+              "heading": "Des observations différentes éclairent une même journée",
+              "text": "Le jeune peut décrire l’effort que l’entourage n’a pas vu tandis qu’un adulte se rappelle ce qui a pu être fait.",
+              "examples": [
+                "Eva retient qu’Adèle est restée dormir ; Adèle repense à la difficulté de refaire comme à midi.",
+                "Un parent dit que la sortie a eu lieu et le jeune raconte combien de temps il a cherché l’aide convenue."
+              ]
+            },
+            {
+              "heading": "Deux repas du même séjour peuvent apporter des réponses différentes",
+              "text": "Reprendre les situations dans l’ordre permet de voir ce qui a changé autour de chacune.",
+              "examples": [
+                "Adèle raconte le déjeuner en groupe, la disposition du dîner et la petite salle utilisée ensuite.",
+                "Une personne distingue le repas rendu possible par un appui et celui qui est resté difficile malgré une organisation proche."
+              ]
+            },
+            {
+              "heading": "Le prochain point peut porter sur un autre lieu",
+              "text": "Le retentissement se compare aussi dans des activités ordinaires, après le retour.",
+              "examples": [
+                "La diététicienne demande si les mêmes difficultés se répètent au collège.",
+                "Un jeune et son équipe prévoient de revoir les repas de la semaine après avoir parlé d’un déplacement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser au dessin l’espace qui lui revient",
-          "text": "Pour choisir son tirage, Adèle peut regarder de l’endroit d’où les élèves le verront. Elle peut demander à Inès de placer le carton un peu plus bas, où le reflet gêne moins la lecture. Leur travail associe deux observations : le début du bruit et l’ombre qui coupe les fils. Il peut être présenté avec les noms et les détails qu’elles souhaitent partager.\n\nEva peut venir voir la vitrine et demander à Adèle de lui montrer cette différence. À un autre moment, elle peut lui proposer de reprendre le prochain rendez-vous et la question des repas au collège. Adèle a choisi de faire place à ces deux conversations. Elle n’a pas besoin de les tenir devant les mêmes personnes.\n\nLa diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé. Avant une autre sortie, les adultes et Adèle pourront discuter des besoins et des appuis selon le lieu. Adèle peut en reparler au moment de préparer une prochaine sortie."
+          "heading": "3 techniques pour faire un bilan utile après une sortie",
+          "points": [
+            {
+              "heading": "Reprendre les faits dans l’ordre",
+              "objective": "Donner une chronologie que l’équipe peut utiliser.",
+              "exercise": [
+                "Identifiez les repas et les conditions de chacun.",
+                "Dites quel appui était prévu et lequel a réellement servi.",
+                "Signalez les difficultés à suivre le plan ou les questions qui restent."
+              ],
+              "benefit": "La discussion peut se fonder sur plusieurs moments plutôt que sur le souvenir global du voyage."
+            },
+            {
+              "heading": "Recueillir aussi le vécu du jeune",
+              "objective": "Faire entendre ce qui n’a pas été visible aux autres.",
+              "exercise": [
+                "Demandez au jeune par quoi il veut commencer.",
+                "Écoutez ce qui l’a aidé et ce qu’il a appréhendé.",
+                "Ajoutez les observations de l’adulte sans parler à sa place."
+              ],
+              "benefit": "Les professionnels disposent de deux points de vue sur les conditions réelles."
+            },
+            {
+              "heading": "Préparer le prochain suivi",
+              "objective": "Vérifier si les mêmes besoins reviennent dans la semaine habituelle.",
+              "exercise": [
+                "Convenez avec l’équipe de la situation à revoir.",
+                "Identifiez à qui signaler une aggravation ou un écart au plan.",
+                "Fixez le prochain point avec le service."
+              ],
+              "benefit": "Le soutien peut être ajusté dans la durée, même après une sortie qui a eu lieu."
+            }
+          ]
         }
       ],
       "ending_title": "À hauteur de la barre courte",
@@ -563,7 +1246,8 @@
         "next": "L’enjeu du voyage est résolu : elle a choisi l’atelier et passé la nuit avec des appuis révisables. Le suivi continue ; Adèle prévoit d’essayer une nouvelle couleur au collège."
       },
       "clinical_focus": "Suivi du retentissement dans la durée",
-      "clinical_intro": "Eva se souvient qu’Adèle a réussi à dormir au centre. Adèle se souvient surtout du temps passé à redouter les repas et de l’appui qui l’a aidée. Les deux expériences éclairent ce qui a changé pendant le voyage. L’ARFID peut persister à l’âge adulte, et le suivi tient compte des difficultés et de leurs conséquences au fil des situations."
+      "clinical_intro": "Eva se souvient qu’Adèle a réussi à dormir au centre. Adèle se souvient surtout du temps passé à redouter les repas et de l’appui qui l’a aidée. Les deux expériences éclairent ce qui a changé pendant le voyage. L’ARFID peut persister à l’âge adulte, et le suivi tient compte des difficultés et de leurs conséquences au fil des situations.",
+      "conclusion": "Adèle expose le dessin qu’elle voulait faire et raconte au suivi ce qui s’est passé à table. La nuit au centre est un fait parmi d’autres. Au collège, elle pense déjà à la prochaine couleur, tandis que la diététicienne reverra avec elle les repas ordinaires."
     }
   ]
 }

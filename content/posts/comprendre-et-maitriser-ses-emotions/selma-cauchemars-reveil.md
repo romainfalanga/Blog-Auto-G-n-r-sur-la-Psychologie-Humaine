@@ -29,20 +29,83 @@ André doit arroser ses radis ce matin. Elle l’aperçoit de la fenêtre, avec 
 
 « Je voudrais qu’on remette l’étagère à un autre jour. » André demande si elle manque de matériel. Selma secoue la tête. Elle pourrait parler du cauchemar, mais préfère dire qu’elle s’est réveillée plusieurs fois cette semaine et qu’elle ne veut pas commencer à assembler quoi que ce soit ce matin. Elle a rendez-vous avec sa thérapeute l’après-midi. En rentrant dans la cuisine, elle cherche ce qu’elle a envie de noter sur cette nuit, à part l’heure où elle s’est levée.
 
-## Ce qui arrive la nuit et ce qui reste le matin
+## Des nuits marquées par le trauma qui pèsent le matin
 
-Les cauchemars peuvent faire partie des manifestations du trouble de stress post-traumatique. Ils peuvent faire revenir certains aspects du traumatisme ou des émotions qui lui sont associées. Le sommeil peut aussi être interrompu pour des raisons diverses. Pour comprendre ce qui se passe, un professionnel peut demander ce que la personne remarque au réveil, à quelle fréquence cela arrive et comment elle se sent le jour. L’effet sur les activités compte autant dans la discussion que le souvenir du rêve.
+Les cauchemars dans le TSPT peuvent reprendre des aspects ou des émotions du traumatisme sans en restituer toute la scène. Les réveils répétés peuvent avoir des effets le lendemain. Selma garde une impression de danger et deux sons du rêve. Ce qu’elle souhaite surtout dire en séance, c’est que le sommeil se coupe depuis plusieurs jours et qu’elle ne retient plus une consigne simple le matin.
 
-## Comment cette difficulté se manifeste
+## Comment un cauchemar et les réveils qui suivent se répercutent-ils dans la journée ?
 
-Selma n’a pas retenu tous les détails. Elle peut parler du moment où elle se réveille, de la difficulté à retrouver le sommeil et de sa fatigue au petit déjeuner. Elle peut indiquer si elle est moins attentive le matin ou si une tâche prend plus de temps. Sa thérapeute pourra examiner avec elle ce qui appartient au suivi du traumatisme et ce qui pourrait justifier un autre avis.
+### Le réveil laisse des fragments
 
-## Préserver le rendez-vous et déplacer une tâche
+L’impression de danger ou une sensation peuvent rester vives, même lorsque le récit du rêve est incomplet.
 
-Le NICE reconnaît que les troubles du sommeil peuvent demander une attention dans la prise en charge du stress post-traumatique. Selma peut apporter la question au rendez-vous qu’elle a déjà pris, avec le niveau de détail qu’elle choisit. Les décisions qui touchent à son métier, en particulier à des fonctions de sécurité, demandent de passer par les interlocuteurs compétents. Elle peut leur décrire le retentissement de la fatigue pour discuter d’un aménagement. Si un conducteur estime que son état compromet son aptitude à conduire, le signalement à son entreprise ou au gestionnaire concerné est immédiat. Cette démarche de sécurité est distincte de ce que Selma choisit de raconter de son cauchemar.
+**Exemples concrets**
 
-Le montage de l’étagère relève d’un autre accord. André peut arroser comme prévu, et les deux voisins peuvent décider ensemble de reprendre les vis un autre jour. Ce report libère la matinée pour ce dont Selma a besoin avant de partir.
+- Selma prend un instant le bord du rideau pour celui d’une vitre.
+- Elle se rappelle deux sons et une impression de danger quand elle reconnaît le bruit du radiateur.
+
+### La fatigue atteint des gestes ordinaires
+
+Après plusieurs nuits hachées, l’attention ou la mémoire immédiate peuvent devenir moins disponibles.
+
+**Exemples concrets**
+
+- Selma lit la longueur sur la boîte sans retenir le chiffre.
+- Elle croit entendre le téléphone quand le grille-pain saute et retrouve l’écran éteint.
+
+### La journée doit parfois être réorganisée
+
+Le retentissement du sommeil compte aussi pour les tâches qui exigent de la vigilance.
+
+**Exemples concrets**
+
+- Selma reporte le montage de l’étagère avant d’avoir commencé l’assemblage.
+- Pour une personne chargée de conduire un train, une fatigue qui remet en cause l’aptitude exige un signalement immédiat selon la procédure du métier.
+
+## 3 techniques pour faire connaître l’effet des nuits hachées
+
+### 1. Décrire le réveil sans reconstruire le rêve
+
+Apporter au suivi ce que l’on a retenu et ce qui pose problème.
+
+**Exercice pratique**
+
+- Notez depuis quand les réveils se répètent.
+- Choisissez ce que vous voulez dire de la sensation au réveil.
+- Ajoutez un exemple de fatigue ou de perte d’attention dans la journée pour en parler au professionnel.
+
+Le suivi peut tenir compte du sommeil et de son retentissement sans exiger le récit du cauchemar.
+
+### 2. Reporter une tâche qui demande de l’attention
+
+Préserver une décision sûre lorsque la fatigue se fait sentir.
+
+**Exercice pratique**
+
+- Repérez la tâche qui devient difficile à suivre.
+- Dites à l’autre ce que vous remettez et ce qui peut rester prévu.
+- Choisissez un moment pour en reparler sans promettre de reprendre aujourd’hui.
+
+Le projet de l’étagère reste possible sans commencer un montage quand on peine à lire les consignes.
+
+### 3. Utiliser le relais de sécurité si l’aptitude est en cause
+
+Faire traiter un risque professionnel sans attendre le prochain rendez-vous de soins.
+
+**Exercice pratique**
+
+- Si vous estimez que votre santé remet en cause votre aptitude à conduire un train, signalez-le immédiatement à l’entreprise ferroviaire ou au gestionnaire concerné.
+- Suivez la procédure du métier et les consignes de l’interlocuteur habilité.
+- Parlez séparément avec vos soignants de ce que vous souhaitez travailler sur le sommeil.
+
+Le signalement traite le risque de conduite. La discussion du cauchemar conserve son cadre de soins.
 
 ## Le mug devant la fenêtre
 
 Sur la feuille qu’elle emporte au rendez-vous, Selma note que les nuits sont hachées depuis plusieurs jours et qu’elle a eu du mal à suivre une conversation ce matin. Elle trouve la formule courte et laisse le reste de la page blanc. Avant de sortir, elle lave le mug et le pose à sécher sur le bord de la fenêtre. André a ramené l’arrosoir dans l’allée. Elle lui envoie un message pour lui dire qu’elle a une idée pour l’emplacement de l’étagère. Ils regarderont ensemble quand ils seront tous les deux disponibles.
+
+---
+
+**Conclusion**
+
+Selma apporte deux faits à sa thérapeute et laisse les vis à André. Elle peut expliquer comment les réveils lui coûtent le matin sans restituer le rêve. La fatigue et le récit du trauma ont chacun leur place dans les échanges qu’elle choisit.

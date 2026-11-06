@@ -29,18 +29,85 @@ Ils avaient déjà parlé de dyslexie après les évaluations. Son médecin l’
 
 Mme Vidal lui demande de prendre un exemple récent. Il hésite entre le texte d’Aïcha et une photo sur son téléphone. Finalement, il lui montre la fiche de cuisine et, sur son écran, le début de la liste du goûter. « La cuisine, je veux comprendre le pourquoi. La liste, je veux surtout retrouver qui vient. » Il lui dit qu’il ne voudrait pas que chaque rendez-vous ressemble à un retour à l’école. Il a envie d’un appui sur les lectures qui lui prennent aujourd’hui le plus de temps. Elle l’invite à choisir par laquelle commencer.
 
-## Lire les mots et saisir ce que dit le passage
+## Ce qu’un bilan ancien dit du travail d’aujourd’hui
 
-La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes. Cela ne rend pas l’oral suffisant dans toutes les situations.
+Un trouble développemental de la lecture peut persister alors que les documents, les tâches et les appuis changent. Un bilan ancien renseigne sur les difficultés relevées à l’époque. Pour comprendre ce qui coûte aujourd’hui, le professionnel peut reprendre avec la personne ses habitudes, les documents qu’elle utilise et le retentissement de la lecture.
 
-## Comment cette difficulté se manifeste
+Célian apporte une fiche de cuisine et décrit le temps qu’il passe à retrouver une étape. Il peut comparer cette situation à une consigne entendue ou montrée. Mme Vidal décidera avec lui des éléments à examiner et de l’intérêt d’un éventuel travail ciblé.
 
-Célian demande aussi une démonstration lorsqu’il découvre une technique dont il ne connaît pas encore les termes. Le trouble avec déficit en lecture peut toucher la précision, la fluidité ou la compréhension écrite, et ces difficultés peuvent persister à l’âge adulte. Un exemple permet de décrire une gêne au professionnel ; le bilan s’interprète avec l’histoire et le contexte, pas à partir d’un seul exercice.
+## Comment les tâches actuelles donnent-elles de nouvelles questions au suivi ?
 
-## Mettre un besoin d’aujourd’hui sur le bureau
+### Les documents changent avec la formation
 
-Le travail orthophonique et l’adaptation des supports ont des buts distincts et peuvent se compléter. L’adaptation donne accès à une activité ici et maintenant. Une éventuelle reprise du suivi et ses objectifs se discutent avec le professionnel, selon le bilan, les difficultés qui gênent la personne et ce qu’elle veut travailler. Célian apporte un exemple de texte à retrouver au milieu d’une activité. Mme Vidal pourra regarder avec lui ce qui se passe dans ce type de lecture et lui expliquer les étapes qu’elle juge utiles. Le fait qu’une autre personne lise plus vite dans son groupe ne fixe pas l’objectif de ce rendez-vous.
+Une fiche technique ne demande pas les mêmes repères qu’un texte de classe ou un exercice du bilan ancien.
+
+**Exemples concrets**
+
+- Célian retrouve dans son ancien compte rendu une description qui précède le travail en cuisine.
+- Au restaurant, il doit passer d’une ligne de stock à une autre et revenir au bon endroit après avoir regardé le poste.
+
+### L’effort se décrit en contexte
+
+Le professionnel peut examiner ce que la personne lit, les interruptions de la tâche et les aides disponibles.
+
+**Exemples concrets**
+
+- Célian peut raconter qu’il comprend un geste montré avant de pouvoir retrouver la même étape sur la fiche.
+- Il peut décrire le retour à la ligne qui devient plus coûteux à la fin du service.
+
+### Le choix des documents appartient aussi à la personne
+
+On peut apporter un exemple utile tout en préservant les informations sur d’autres personnes.
+
+**Exemples concrets**
+
+- Célian laisse une copie sans nom d’élève et reprend la liste des joueurs.
+- Une personne peut recopier la structure d’un document de travail si elle ne peut pas en partager le contenu.
+
+## 3 techniques pour préparer un rendez-vous sur des difficultés de lecture actuelles
+
+### 1. Choisir un exemple que l’on peut partager
+
+Donner au professionnel un document représentatif.
+
+**Exercice pratique**
+
+- Prenez une fiche qui revient dans votre semaine.
+- Retirez les renseignements qui concernent des tiers.
+- Marquez le passage où vous perdez du temps.
+
+L’entretien peut partir d’une tâche concrète et respecter la confidentialité.
+
+### 2. Comparer deux façons de recevoir l’information
+
+Décrire ce que chaque format facilite ou complique.
+
+**Exercice pratique**
+
+- Choisissez une consigne lue puis entendue ou montrée.
+- Notez ce qui reste à vérifier dans chaque cas.
+- Demandez à l’orthophoniste comment ces différences peuvent éclairer vos besoins.
+
+L’évaluation peut tenir compte de plusieurs accès au même contenu.
+
+### 3. Préparer une question pour la suite
+
+Donner une direction au prochain échange.
+
+**Exercice pratique**
+
+- Dites quelle activité vous aimeriez rendre plus praticable.
+- Demandez ce qu’il serait utile d’évaluer de nouveau.
+- Convenez de ce qui sera partagé avec la formation, si vous le souhaitez.
+
+Le rendez-vous débouche sur une prochaine étape comprise et choisie.
 
 ## La fiche qu’il laisse sur le bureau
 
 Célian choisit la fiche du centre et garde pour lui la liste des joueurs. Avec son accord, Mme Vidal conserve une copie sans nom d’élève. Ils conviennent d’un prochain rendez-vous pour préciser les tâches qui lui coûtent et voir si un travail ciblé est indiqué. Il lui demande de ne rien envoyer à Aïcha pour le moment ; il discutera lui-même des supports en cours. En sortant, il ouvre la liste de Jade. Deux réponses sont encore attendues. Il les laisse comme elles sont. Demain, c’est avec les confirmations qu’il décidera combien le club peut dépenser par personne.
+
+---
+
+**Conclusion**
+
+Célian laisse une fiche représentative à Mme Vidal et garde les réponses du volley pour lui. Le bilan ancien reste un point de départ. Le prochain rendez-vous servira à préciser ce qui gêne sa lecture dans les situations de travail d’aujourd’hui.

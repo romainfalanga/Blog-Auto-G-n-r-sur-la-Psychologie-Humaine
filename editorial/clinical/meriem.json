@@ -5,7 +5,7 @@
     {
       "number": 1,
       "slug": "meriem-trois-chutes",
-      "title": "Reviviscence traumatique quand une voix d’autrefois couvre la conversation",
+      "title": "Reviviscence traumatique quand une voix ancienne couvre la conversation",
       "description": "Une demande à l’atelier donne à Meriem l’impression qu’une scène ancienne recommence. Elle perd le fil de la conversation.",
       "context": "Devant le tableau de la maison de quartier",
       "topics": [
@@ -13,28 +13,84 @@
         "Rappel traumatique",
         "Peur dans le présent"
       ],
-      "opening": "Meriem retourne une pochette sur la table et en fait ressortir les coins avec le bout d’une règle. Le fond vient d’un vieux pantalon, le devant d’un rideau à carreaux. La troisième chute, jaune, fait juste la largeur d’un mètre ruban. Elle a taillé dedans une poche qui dépasse un peu. Ève dit que ça se voit. Meriem répond que c’est l’idée : on trouve le mètre tout de suite.\n\nLes machines sont rangées. Sur le tableau des jeudis, entre le cours de français et le créneau de réparation des vélos, Ève a obtenu de la place pour une annonce. Meriem voudrait que les gens viennent avec les patrons qu’ils ont dessinés eux-mêmes et qu’ils sont d’accord pour transmettre. Elle a l’habitude de montrer comment retourner un coin. Elle ne sait pas encore expliquer, en trois lignes, ce qu’on aura le droit d’emporter.\n\nUne chaise racle le sol derrière elle. Une habituée lui demande si elle doit donner son numéro de téléphone. Meriem entend la question de loin. Pendant quelques secondes, elle attend les mots d’une voix d’autrefois, avec la certitude qu’il faut répondre maintenant et qu’il n’existe aucune bonne réponse. Sa main reste immobile dans la pochette. Quand la salle lui redevient familière, la chaise est vide et l’habituée a reculé pour laisser passer Ève. Personne ne la presse. Meriem pose la règle et indique du doigt la feuille sur la table. Elle se rappelle la phrase qu’elle avait prévue : c’est un échange de patrons, les numéros ne servent à rien.",
+      "opening": "Meriem retourne une pochette sur la table et en fait ressortir les coins avec le bout d’une règle. Le fond vient d’un vieux pantalon, le devant d’un rideau à carreaux. La troisième chute, jaune, fait juste la largeur d’un mètre ruban. Elle a taillé dedans une poche qui dépasse un peu. Ève dit que ça se voit. « C’est l’idée. On trouve le mètre tout de suite », répond Meriem.\n\nLes machines sont rangées. Sur le tableau des jeudis, entre le cours de français et le créneau de réparation des vélos, Ève a obtenu de la place pour une annonce. Meriem voudrait que les gens viennent avec les patrons qu’ils ont dessinés eux-mêmes et qu’ils sont d’accord pour transmettre. Elle a l’habitude de montrer comment retourner un coin. Elle ne sait pas encore expliquer, en trois lignes, ce qu’on aura le droit d’emporter.\n\nUne chaise racle le sol derrière elle. Une habituée lui demande si elle doit donner son numéro de téléphone. Meriem entend la question de loin. Pendant quelques secondes, elle attend les mots d’une voix d’autrefois, avec la certitude qu’il faut répondre maintenant et qu’il n’existe aucune bonne réponse. Sa main reste immobile dans la pochette. Quand la salle lui redevient familière, la chaise est vide et l’habituée a reculé pour laisser passer Ève. Personne ne la presse. Meriem pose la règle et indique du doigt la feuille sur la table. La phrase qu’elle avait prévue lui revient. « C’est un échange de patrons. Les numéros ne servent à rien. »",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand le passé revient dans le présent",
-          "text": "Une reviviscence peut donner l’impression que ce qui s’est passé autrefois se produit à nouveau. Elle peut s’accompagner de sensations ou d’émotions très fortes, même en l’absence d’images nettes de ce qui est arrivé. Dans la scène, Meriem a brièvement la certitude qu’elle doit répondre à quelqu’un qui n’est pas dans la pièce. Se rappeler une situation en sachant qu’elle est passée, ou sursauter au bruit d’une chaise, peut être très désagréable sans correspondre à ce vécu."
+          "heading": "Quand le passé semble recommencer",
+          "text": "Une reviviscence donne l’impression que quelque chose du traumatisme se produit de nouveau, ici et maintenant. Elle peut s’accompagner d’images, mais aussi passer surtout par les émotions et les sensations de l’époque. Se rappeler un événement, même avec beaucoup de peine, est une autre expérience quand on continue à le situer dans le passé.\n\nMeriem connaît déjà son diagnostic de trouble de stress post-traumatique complexe. La CIM-11 décrit la reviviscence, l’évitement des rappels et le sentiment persistant de menace dans le TSPT et le TSPT complexe. Dans le second, s’y ajoutent des difficultés durables à réguler ses émotions, une dévalorisation liée au traumatisme et des difficultés à se sentir proche ou à maintenir des liens. Un moment de reviviscence ne suffit pas à poser un diagnostic."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Meriem connaît déjà le nom de son trouble de stress post-traumatique complexe. La CIM-11 y décrit le noyau du stress post-traumatique. Il associe reviviscences dans le présent, évitement des rappels et sentiment persistant de menace. S’y ajoutent des difficultés graves et durables à réguler ses émotions, un regard durablement dévalorisé sur soi et des difficultés à se sentir proche des autres. Le mot « complexe » désigne cet ensemble. Une réaction aussi vive que celle de Meriem ne permettrait, à elle seule, de conclure à aucun des deux diagnostics. À l’atelier, personne n’a besoin de trancher ce qui lui est arrivé pour reprendre la conversation."
+          "heading": "Comment la reviviscence prend-elle la place du présent ?",
+          "points": [
+            {
+              "heading": "Une impression d’urgence qui revient",
+              "text": "Pendant un instant, la personne peut éprouver la situation comme si elle exigeait la même réponse qu’autrefois.",
+              "examples": [
+                "À l’atelier, Meriem se sent obligée de répondre sur-le-champ à une voix ancienne alors que l’habituée attend tranquillement près de la table.",
+                "Dans un bus, une porte qui claque peut donner à quelqu’un l’impression de devoir se mettre à couvert comme à l’époque, le temps de retrouver les repères du trajet."
+              ]
+            },
+            {
+              "heading": "Des sensations sans image précise",
+              "text": "La peur ou des sensations liées à ce qui s’est passé peuvent occuper le premier plan. Ce qui compte ici est l’impression de revivre la scène, même sans la voir nettement.",
+              "examples": [
+                "Meriem ne voit pas une autre pièce. Sa main s’immobilise dans la pochette et elle retrouve la même peur de répondre qu’autrefois.",
+                "Dans un couloir, une odeur familière peut s’accompagner d’une gorge serrée et donner à quelqu’un l’impression d’être de nouveau dans un lieu du passé, sans en revoir les détails."
+              ]
+            },
+            {
+              "heading": "Un fil de conversation à retrouver",
+              "text": "Quand cette expérience prend le dessus, ce que disent les personnes présentes peut devenir difficile à suivre.",
+              "examples": [
+                "Lorsque l’atelier redevient familier à Meriem, l’habituée a changé de place et Ève est passée devant la chaise.",
+                "Après un tel moment au téléphone, une personne peut entendre que son interlocutrice attend une réponse et avoir besoin qu’elle lui redise la dernière question."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre sur le tableau ce qui concerne l’atelier",
-          "text": "Ève peut dire où elles en sont et laisser Meriem décider qui répond. La question pratique est simple : faut-il un numéro ? Meriem choisit de mettre sur le tableau les heures, le lieu et le type de patrons attendus. L’information sera lisible à l’accueil et identique sur les papiers qu’on remettra aux personnes intéressées. C’est aussi utile à quelqu’un qui quitte son travail à une heure fixe ou qui vient à pied depuis l’autre bout du quartier.\n\nMeriem garde pour son suivi ce qu’elle veut dire du retour de cette impression de menace. Les recommandations du NICE invitent à tenir compte du contexte et des préférences quand on parle du traitement. Elle peut commencer par expliquer ce qui a changé dans la pièce pour elle, puis dire ce qu’elle attend d’une séance. L’annonce, elle, peut tenir en quatre lignes."
+          "heading": "3 techniques pour reprendre le fil après une reviviscence",
+          "points": [
+            {
+              "heading": "Retrouver un repère disponible",
+              "objective": "Se donner un point de départ quand le lieu redevient familier.",
+              "exercise": [
+                "Si la situation le permet, posez l’outil que vous tenez.",
+                "Regardez un repère familier du lieu, comme le tableau de l’atelier.",
+                "Prenez le temps de voir ce qui se passe autour de vous avant de décider si vous voulez reprendre."
+              ],
+              "benefit": "Le repère peut aider à retrouver la situation en cours. Il ne demande pas de retrouver une image du passé."
+            },
+            {
+              "heading": "Faire redire la question",
+              "objective": "Récupérer l’information perdue pendant le moment de confusion.",
+              "exercise": [
+                "Faites signe à une personne avec qui vous êtes à l’aise.",
+                "Demandez-lui de redire la dernière question, en une phrase.",
+                "Choisissez d’y répondre maintenant ou de lui demander de prendre le relais."
+              ],
+              "benefit": "Une question reformulée peut suffire à reprendre la conversation à l’endroit où elle s’est interrompue."
+            },
+            {
+              "heading": "Parler de l’interruption en séance",
+              "objective": "Aborder avec un professionnel ce que ces moments changent dans la vie courante.",
+              "exercise": [
+                "À un moment où vous vous sentez disponible, choisissez un épisode récent.",
+                "Notez ce que vous n’avez pas pu suivre ou faire à ce moment-là, si vous souhaitez vous en souvenir pour la séance.",
+                "Demandez à votre thérapeute quel appui préparer avec vous si cela revient."
+              ],
+              "benefit": "Partir de l’effet sur la journée permet d’aborder un besoin précis en gardant la main sur ce que vous souhaitez raconter."
+            }
+          ]
         }
       ],
       "ending_title": "Le jeudi reste le jeudi",
-      "ending": "L’habituée revient chercher son sac. Meriem lui dit qu’elle pourra déposer un patron sans laisser de numéro. Puis elle relit à voix haute ce qu’Ève a écrit : « Dépôt le jeudi, de 17 h 30 à 19 h. Échange un samedi matin, date affichée ici. » Elles impriment deux exemplaires. Meriem en prend un pour préparer sa pochette modèle ; elle a envie de savoir si quelqu’un peut la refaire en suivant seulement ses dessins. Quand Ève lui demande où coller l’autre, Meriem lui montre le coin du tableau qu’on voit depuis le banc, sans avoir à entrer dans la salle.",
+      "ending": "L’habituée revient chercher son sac. Meriem lui dit qu’elle pourra déposer un patron sans laisser de numéro. Puis elle relit à voix haute ce qu’Ève a écrit : « Dépôt le jeudi, de 17 h 30 à 19 h. Échange un samedi matin, date affichée ici. » Elles impriment deux exemplaires. Meriem en prend un pour préparer sa pochette modèle. Elle a envie de savoir si quelqu’un peut la refaire en suivant seulement ses dessins. Quand Ève lui demande où coller l’autre, Meriem lui montre le coin du tableau qu’on voit depuis le banc, sans avoir à entrer dans la salle.",
       "mirror": [
-        "Ève peut rester à côté du tableau et laisser la chaise libre. « Elle demande juste si un numéro est nécessaire. Tu veux lui répondre ou tu préfères que je le fasse ? » Si Meriem reprend la parole, Ève peut noter les heures. Elle garde la question sur le patron au premier plan et laisse à Meriem le choix d’évoquer ce qu’elle a vécu, à ce moment ou plus tard."
+        "Ève peut laisser la chaise libre et redire la question à Meriem. « Elle voulait savoir s’il faut laisser un numéro. Tu veux lui répondre ou tu préfères que je le fasse ? » Ève peut ensuite s’occuper des horaires. Elle laisse Meriem décider si elle souhaite revenir sur ce qui s’est passé, même une fois l’affiche au mur."
       ],
       "sources": [
         "oms-cddr",
@@ -45,41 +101,98 @@
         "next": "Elle apporte un premier patron de la pochette et cherche ce qu’un autre regard peut lui apprendre."
       },
       "clinical_focus": "Reviviscence émotionnelle et sensorielle",
-      "clinical_intro": "Une question sur les patrons prend soudain pour Meriem le ton d’une voix ancienne. Elle se sent prise dans la même urgence qu’autrefois. Dans le trouble de stress post-traumatique complexe, la reviviscence appartient au noyau du TSPT. Le récit montre comment le passé semble revenir dans le présent, à travers la peur et les sensations, même sans image précise."
+      "clinical_intro": "Une question sur les patrons prend soudain pour Meriem le ton d’une voix ancienne. Elle se sent prise dans la même urgence qu’autrefois. Dans le trouble de stress post-traumatique complexe, la reviviscence appartient au noyau commun avec le TSPT. Le passé semble revenir dans le présent, à travers la peur et les sensations, même sans image précise.",
+      "conclusion": "Le passé a pris pendant quelques secondes la place de la question sur les numéros. Meriem peut retrouver cette question avec Ève et afficher une règle claire pour les dépôts. Au prochain jeudi, ce sera à une autre personne de mettre son patron à l’épreuve."
     },
     {
       "number": 2,
       "slug": "meriem-carre-de-controle",
-      "title": "Dévalorisation persistante quand Meriem prend une erreur pour un jugement sur elle",
+      "title": "Dévalorisation persistante quand une erreur devient un jugement sur soi",
       "description": "Meriem trouve comment corriger un tirage. La honte reste vive et lui fait encore douter de sa place à l’atelier.",
       "context": "Une première copie à l’atelier",
       "topics": [
         "Dévalorisation persistante",
-        "Honte liée au trauma",
-        "Retentissement sur l’initiative"
+        "Honte liée au traumatisme",
+        "Jugement sur soi"
       ],
-      "opening": "Chloé a apporté une chute si verte que Meriem l’a reconnue dès l’entrée. C’était la nappe du repas des bénévoles ; un rond pâle marque encore la place d’un plat. Sur la table, elles orientent la pièce de patron pour que le rond devienne un demi-soleil sur le devant de la pochette. Chloé la tient à plat. Meriem mesure le carré imprimé dans la marge. Quatre virgule sept. Elle tourne la règle et mesure dans l’autre sens. Le carré devrait faire cinq centimètres.\n\nElle a tiré dix copies le matin même. Elle sait comment désactiver la mise à l’échelle et réimprimer une seule copie avant de lancer les neuf autres. Pourtant, quand Chloé demande si elle doit déplacer l’épingle, Meriem répond : « Laisse, je fais toujours des trucs inutilisables. » La dernière moitié de la phrase lui sort à voix basse. Chloé retire sa main. Meriem voit le bord du tissu se recourber et croit que Chloé regrette d’être venue. Elle voudrait lui expliquer que les pièces peuvent rester entières, puisque personne n’a coupé. Elle enfile sa veste.\n\nChez elle, deux heures plus tard, elle retrouve le carré dessiné sur le fichier original : cinq centimètres. Elle sait maintenant où chercher du côté de l’imprimante ; l’autre pensée tient toujours. Au moment de se préparer à dîner, elle a toujours l’impression qu’elle n’aurait jamais dû proposer l’échange. Chloé lui envoie la photo de la nappe pliée, le demi-soleil visible au bord. Elle attend de savoir quand apporter le tissu.",
+      "opening": "Chloé a apporté une chute si verte que Meriem l’a reconnue dès l’entrée. C’était la nappe du repas des bénévoles. Un rond pâle marque encore la place d’un plat. Sur la table, elles orientent la pièce de patron pour que le rond devienne un demi-soleil sur le devant de la pochette. Chloé la tient à plat. Meriem mesure le carré imprimé dans la marge. Quatre virgule sept. Elle tourne la règle et mesure dans l’autre sens. Le carré devrait faire cinq centimètres.\n\nElle a tiré dix copies le matin même. Elle sait comment désactiver la mise à l’échelle et réimprimer une seule copie avant de lancer les neuf autres. Pourtant, quand Chloé demande si elle doit déplacer l’épingle, Meriem répond : « Laisse, je fais toujours des trucs inutilisables. » La dernière moitié de la phrase lui sort à voix basse. Chloé retire sa main. Meriem voit le bord du tissu se recourber et croit que Chloé regrette d’être venue. Elle voudrait lui expliquer que les pièces peuvent rester entières, puisque personne n’a coupé. Elle enfile sa veste.\n\nChez elle, deux heures plus tard, elle retrouve le carré de cinq centimètres dans le fichier original. Elle sait maintenant où chercher du côté de l’imprimante. L’autre pensée tient toujours. Au moment de se préparer à dîner, elle a toujours l’impression qu’elle n’aurait jamais dû proposer l’échange. Chloé lui envoie la photo de la nappe pliée, le demi-soleil visible au bord. Elle attend de savoir quand apporter le tissu.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand une erreur prend toute la place",
-          "text": "Dans le stress post-traumatique complexe, le sentiment d’être sans valeur peut persister et s’accompagner d’une honte profonde liée à ce qui a été vécu. Il dépasse alors la contrariété qu’une erreur concrète peut provoquer. Pour Meriem, il y a une différence entre « l’imprimante a réduit le carré », qu’elle sait vérifier, et l’impression qui dure jusqu’au dîner d’être incapable de faire quoi que ce soit de bien. Elle peut encore trouver ce jugement convaincant une fois le tirage rectifié."
+          "heading": "D’une erreur précise à un jugement sur soi",
+          "text": "Le trouble de stress post-traumatique complexe peut s’accompagner d’une conviction durable d’être sans valeur, liée au traumatisme et souvent chargée de honte ou de culpabilité. Ce jugement peut resurgir dans une situation où le problème du jour est pourtant bien délimité.\n\nMeriem peut expliquer pourquoi le carré ne mesure pas cinq centimètres et rester persuadée qu’elle est incapable de mener le projet. Le suivi peut l’aider à parler de la durée et du poids de ce jugement. Une phrase sévère après une erreur peut avoir bien d’autres raisons et ne renseigne pas sur l’histoire d’une personne."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une personne peut se dévaloriser pour des raisons très différentes. Une phrase dite devant une nappe n’apprend rien de certain sur son histoire, même si elle surprend son entourage. Le suivi donne un lieu où parler de la durée de cette pensée et de ce qu’elle lui a déjà coûté ailleurs. Le NICE invite les professionnels à tenir compte du regard négatif que la personne peut porter sur elle-même quand il gêne l’accès à un travail thérapeutique."
+          "heading": "Comment la dévalorisation déborde-t-elle l’erreur ?",
+          "points": [
+            {
+              "heading": "Une erreur devient un verdict",
+              "text": "Le jugement porte sur toute la personne et finit par dépasser ce qu’on peut observer ou réparer.",
+              "examples": [
+                "Chloé demande où déplacer son épingle. Meriem, qui vient de mesurer un carré trop petit, répond que tout ce qu’elle fait est inutilisable.",
+                "Au travail, une personne qui trouve un montant erroné sur une facture peut se dire que son équipe s’est trompée en l’embauchant."
+              ]
+            },
+            {
+              "heading": "La correction arrive avant le soulagement",
+              "text": "Une fois le problème compris ou réglé, le jugement sur soi peut rester aussi convaincant qu’au départ.",
+              "examples": [
+                "Meriem retrouve la bonne mesure sur son fichier. À l’heure du dîner, elle pense encore qu’elle n’aurait jamais dû lancer l’échange.",
+                "Après avoir remis une clé égarée à la personne qui en avait besoin, quelqu’un peut continuer toute la soirée à se sentir indigne de confiance."
+              ]
+            },
+            {
+              "heading": "Ce qui a bien marché perd du poids",
+              "text": "Quand la dévalorisation persiste, une réussite précise peut sembler trop petite pour compter face au jugement global.",
+              "examples": [
+                "Meriem hésite à effacer la photo du carré bien imprimé, alors qu’elle vient de vérifier la mesure avec Ève.",
+                "Une personne peut recevoir un merci pour l’affiche qu’elle a dessinée et ne retenir que l’heure qu’elle avait mal recopiée au premier essai."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une seule épreuve à la fois",
-          "text": "Le problème de l’impression a sa propre solution. Meriem peut rappeler à Chloé de garder la nappe entière et se mettre d’accord avec Ève pour comparer un tirage au fichier avant de le distribuer. Elles pourront marquer le lot trop petit pour qu’il ne reparte pas par erreur. Une réponse précise est utile, même si Meriem a encore honte quand elle la donne.\n\nSi elle souhaite en parler à sa thérapeute, elle pourra dire quand la honte a commencé, ce qu’elle lui a fait abandonner ce soir-là et combien de temps elle est restée après avoir trouvé la cause. Ce sont des faits de sa journée qu’elle peut choisir de donner. Chloé, pour sa part, attend seulement une réponse sur le tissu. Elle a gardé le demi-soleil intact."
+          "heading": "3 techniques pour distinguer une erreur du jugement qu’elle laisse",
+          "points": [
+            {
+              "heading": "Décrire le défaut que l’on peut vérifier",
+              "objective": "Isoler la partie du problème sur laquelle on peut agir.",
+              "exercise": [
+                "Décrivez le défaut en une phrase, comme « Le carré imprimé est trop petit ».",
+                "Repérez une vérification simple avec ce que vous avez sous la main.",
+                "Faites un seul nouvel essai avant de décider de la suite."
+              ],
+              "benefit": "Une vérification permet de corriger le tirage, même si le jugement sur soi met plus de temps à perdre de sa force."
+            },
+            {
+              "heading": "Garder une trace du travail accompli",
+              "objective": "Préserver un élément concret auquel revenir si tout semble raté.",
+              "exercise": [
+                "Choisissez une chose que vous avez faite et que vous pouvez constater.",
+                "Gardez-en une trace, par exemple la photo du carré à la bonne mesure.",
+                "Si vous le souhaitez, envoyez-la avec une information utile à la personne qui attend la correction."
+              ],
+              "benefit": "Ce repère peut faciliter la reprise du projet sans vous obliger à vous sentir mieux avant d’agir."
+            },
+            {
+              "heading": "Apporter le jugement tel qu’il dure",
+              "objective": "Permettre à la thérapeute de comprendre ce qui persiste au-delà de l’incident.",
+              "exercise": [
+                "Choisissez les mots qui vous sont venus sur vous-même, si vous souhaitez les dire.",
+                "Indiquez jusqu’à quel moment ils sont restés présents après la correction.",
+                "Dites ce qu’ils vous ont fait remettre ou abandonner, même brièvement."
+              ],
+              "benefit": "La thérapeute peut ainsi explorer l’effet de la dévalorisation sur votre vie à partir d’un exemple concret."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait rouge sur dix feuilles",
       "ending": "Meriem répond à Chloé de rapporter la nappe jeudi. Le lendemain, elle demande à Ève de vérifier le premier tirage avec elle. Elles se passent la règle et trouvent cinq centimètres chacune. Sur le lot trop petit, Meriem tire un trait rouge. Elle range ces feuilles pour les essais de feutres dans un bac qu’elle étiquette. À Chloé, elle envoie la photo de la règle sur le bon carré. En dessous, elle ajoute : « Ton soleil aura le bon diamètre. » Elle a encore le réflexe d’effacer le message. Cette fois, Chloé a déjà répondu avec un soleil.",
       "mirror": [
-        "Chloé peut arrêter l’essai et dire à quel moment elle repart avec son tissu. « Je garde la nappe entière. Tu me diras quand tu auras un tirage qu’on peut essayer. » Elle peut aussi dire de combien de temps elle dispose jeudi. Le soin apporté à la pochette et un délai clair sont deux choses qu’elle peut offrir ; le jugement que Meriem porte sur elle-même reste quelque chose qu’elle peut choisir d’aborder ailleurs."
+        "Chloé peut s’en tenir à ce qu’elle voit sur la table et à son propre emploi du temps. « Je garde la nappe entière. Je suis libre jeudi à 18 heures si tu veux qu’on essaie une autre copie. » Elle peut reconnaître que le tirage n’a pas marché et continuer à s’intéresser au projet. Meriem pourra parler du jugement qui lui reste si elle en a envie."
       ],
       "sources": [
         "oms-cddr",
@@ -89,13 +202,14 @@
         "choice": "Meriem corrige le tirage, met les feuilles réduites à part et propose un nouvel essai à Chloé.",
         "next": "Après l’essai sur la nappe, Chloé lui fait une proposition qui ne concerne plus la couture."
       },
-      "clinical_focus": "Honte et dévalorisation persistante",
-      "clinical_intro": "Un patron imprimé trop petit laisse Meriem en proie à une honte qui dure après qu’elle a trouvé la correction. Dans le TSPT complexe, une dévalorisation persistante liée au trauma peut donner à un incident corrigeable un poids qui déborde largement la tâche. Meriem continue à penser qu’elle n’aurait jamais dû lancer l’échange alors qu’elle sait maintenant comment refaire le tirage."
+      "clinical_focus": "Dévalorisation durable de soi",
+      "clinical_intro": "Un patron imprimé trop petit laisse Meriem en proie à une honte qui dure après qu’elle a trouvé la correction. Dans le TSPT complexe, une dévalorisation persistante liée au traumatisme peut donner à une erreur un poids qui déborde largement la tâche. Meriem pense qu’elle n’aurait jamais dû lancer l’échange alors qu’elle sait comment refaire le tirage.",
+      "conclusion": "Le carré fait cinq centimètres sur le nouveau tirage. La honte, elle, ne change pas à la même vitesse. Meriem reprend contact avec Chloé au sujet du tissu, et le prochain jeudi leur donne une autre occasion de se retrouver."
     },
     {
       "number": 3,
       "slug": "meriem-vingt-minutes",
-      "title": "Désirer un lien et redouter la proximité quand Chloé propose un café",
+      "title": "La difficulté à se sentir proche quand une invitation change le lien",
       "description": "Meriem aimerait garder le lien avec Chloé. Elle remarque l’envie de prendre ses distances et choisit un café avant le bus.",
       "context": "En quittant l’atelier du jeudi",
       "topics": [
@@ -103,28 +217,84 @@
         "Retrait relationnel",
         "Confiance dans les liens"
       ],
-      "opening": "Chloé passe son doigt dans la poche jaune. Le mètre ruban disparaît, puis revient quand elle tire sur son bout de métal. Sur la pochette qu’elle vient de finir, le demi-soleil tombe un peu de travers. Meriem lui montre l’autre côté : quand on l’ouvre, le cercle se termine dans la doublure. Chloé rit. Elle décide que c’était prévu et le dit assez fort pour qu’Ève l’entende depuis le placard.\n\nÀ la sortie, Dalila ferme la porte de la maison de quartier derrière elles. Chloé doit prendre le bus de 19 h 20. Elle dit qu’il y a le temps de prendre un café en face, si Meriem veut. Meriem connaît déjà le goût du café dans ces tasses trop épaisses. Elle pense à la petite table près du radiateur et aurait envie de s’y asseoir. Mais à la perspective que Chloé lui parle comme à quelqu’un qu’elle voudrait revoir en dehors de la couture, quelque chose en elle se ferme. Il y a des gens du quartier qu’elle a cessé de saluer depuis le jour où ils lui ont proposé de se voir. Parfois elle traverse encore la place pour éviter leur boulangerie.\n\nChloé ouvre son sac pour ranger sa pochette. Meriem calcule combien de jours elle pourrait attendre avant de venir de nouveau un jeudi. Elle pourrait prétendre qu’elle a du travail, puis ne jamais rappeler. La solution lui paraît familière et la rend triste. Elle sait aussi combien de temps met Chloé pour rejoindre l’arrêt. Il leur reste un peu moins de vingt minutes.",
+      "opening": "Chloé passe son doigt dans la poche jaune. Le mètre ruban disparaît, puis revient quand elle tire sur son bout de métal. Sur la pochette qu’elle vient de finir, le demi-soleil tombe un peu de travers. Meriem lui montre l’autre côté. Quand on l’ouvre, le cercle se termine dans la doublure. Chloé rit. Elle décide que c’était prévu et le dit assez fort pour qu’Ève l’entende depuis le placard.\n\nÀ la sortie, Dalila ferme la porte de la maison de quartier derrière elles. Chloé doit prendre le bus de 19 h 20. Elle dit qu’il y a le temps de prendre un café en face, si Meriem veut. Meriem connaît déjà le goût du café dans ces tasses trop épaisses. Elle pense à la petite table près du radiateur et aurait envie de s’y asseoir. Mais à la perspective que Chloé lui parle comme à quelqu’un qu’elle voudrait revoir en dehors de la couture, quelque chose en elle se ferme. Il y a des gens du quartier qu’elle a cessé de saluer depuis le jour où ils lui ont proposé de se voir. Parfois elle traverse encore la place pour éviter leur boulangerie.\n\nChloé ouvre son sac pour ranger sa pochette. Meriem calcule combien de jours elle pourrait attendre avant de venir de nouveau un jeudi. Elle pourrait prétendre qu’elle a du travail, puis ne jamais rappeler. La solution lui paraît familière et la rend triste. Elle sait aussi combien de temps met Chloé pour rejoindre l’arrêt. Il leur reste un peu moins de vingt minutes.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Vouloir un lien et redouter ce qu’il demande",
-          "text": "Dans le stress post-traumatique complexe, les difficultés à se sentir proche d’autrui ou à entretenir des liens peuvent durer, y compris quand la personne aimerait garder ces liens. Elles ne prennent pas la même forme chez tout le monde. Avec Chloé, le passage de la table de couture à la table d’un café change la nature de la rencontre pour Meriem. Elle a envie de la compagnie de Chloé et pense en même temps à la manière de disparaître de ses jeudis."
+          "heading": "Quand une relation devient plus personnelle",
+          "text": "Dans le trouble de stress post-traumatique complexe, se sentir proche d’autrui peut rester difficile même quand on tient à sa compagnie. Les difficultés varient selon les personnes et les relations. Une invitation refusée, à elle seule, n’indique rien de certain sur la santé de quelqu’un.\n\nMeriem connaît la place qu’elle occupe auprès de Chloé à l’atelier. L’invitation au café la fait passer de la couture partagée à une rencontre dont elle connaît moins les contours. Elle a déjà pris ses distances avec des personnes qu’elle aurait aimé continuer à voir. Cette fois, la présence d’une heure de départ lui permet de savoir ce qu’elle accepte."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "On peut refuser une invitation par goût, par fatigue ou parce qu’on ne souhaite pas cette proximité. Un refus est une réponse à respecter et ne donne aucun renseignement sûr sur la santé de la personne. Le point important pour Meriem tient à la répétition : elle pense aux liens qu’elle aurait aimé garder et à ces rues qu’elle ne prend plus. Si elle souhaite en parler en séance, elle peut partir d’une de ces pertes, sans faire d’une invitation un examen à réussir."
+          "heading": "Comment le malaise apparaît-il quand le lien se rapproche ?",
+          "points": [
+            {
+              "heading": "Le passage à une rencontre plus personnelle",
+              "text": "Le contact peut être agréable dans un cadre connu et devenir plus difficile à envisager dès que la relation prend une autre place.",
+              "examples": [
+                "Meriem plaisante avec Chloé sur la pochette. Au moment de choisir si elles s’assoient ensemble au café, elle a soudain envie de rentrer.",
+                "Après des semaines de marche en groupe, une personne peut apprécier sa voisine de trajet et hésiter fortement lorsqu’elle lui propose de se retrouver à deux."
+              ]
+            },
+            {
+              "heading": "Une invitation semble engager la suite",
+              "text": "La personne peut se sentir tenue d’accepter d’autres rencontres ou de parler de choses intimes alors que la proposition porte sur un seul moment.",
+              "examples": [
+                "Meriem entend l’invitation avant le bus et pense déjà à ce que Chloé pourrait attendre d’elle un autre jeudi.",
+                "Une personne à qui un collègue propose de déjeuner peut hésiter parce qu’elle imagine devoir lui donner son numéro privé, alors que la proposition s’arrête au déjeuner."
+              ]
+            },
+            {
+              "heading": "Une distance qui coûte un lien désiré",
+              "text": "L’envie de se protéger de cette proximité peut amener à éviter aussi les rencontres familières qu’on aurait voulu garder.",
+              "examples": [
+                "Meriem songe à ne plus venir le jeudi, alors qu’elle a aimé terminer la pochette avec Chloé.",
+                "Meriem traverse parfois la place pour éviter la boulangerie où elle risque de croiser des gens du quartier qu’elle a cessé de saluer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider à partir du temps dont on dispose",
-          "text": "Elles connaissent l’heure du bus. Chacune peut dire ce qu’elle aimerait faire de ce temps. Un café court peut convenir aux deux, et l’une d’elles peut aussi préférer rentrer directement. Il n’y a pas besoin de convenir dès ce soir d’un rendez-vous la semaine suivante ni de poser des questions sur la vie privée de l’autre.\n\nLe NICE mentionne que les difficultés relationnelles peuvent demander une attention particulière dans un suivi spécialisé. Ce travail est différent de la façon dont deux personnes se donnent une heure et la respectent. Meriem peut demander à sa thérapeute de l’aider à comprendre ce qui lui coûte quand une rencontre lui plaît mais devient plus personnelle. Ce soir, la phrase qu’elle cherche est plus courte : « J’ai le temps d’en prendre un avant ton bus. »"
+          "heading": "3 techniques pour choisir jusqu’où aller dans une rencontre",
+          "points": [
+            {
+              "heading": "Distinguer l’envie et la disponibilité",
+              "objective": "Prendre une décision sur l’invitation en cours.",
+              "exercise": [
+                "Repérez un détail qui vous attire ou vous déplaît dans la proposition.",
+                "Regardez le temps ou l’énergie dont vous disposez aujourd’hui.",
+                "Répondez pour cette fois, en précisant ce qui vous convient."
+              ],
+              "benefit": "Une réponse limitée à la rencontre du jour peut alléger l’impression de devoir décider de toute la relation d’un coup."
+            },
+            {
+              "heading": "Prévoir une fin que chacun connaît",
+              "objective": "Donner à la rencontre une durée acceptable pour les deux personnes.",
+              "exercise": [
+                "Demandez si l’heure de départ proposée convient aussi à l’autre.",
+                "Gardez une façon simple de partir à cette heure ou plus tôt si nécessaire.",
+                "Au moment de partir, décidez si vous souhaitez proposer autre chose ou en rester là."
+              ],
+              "benefit": "Un accord clair peut donner à chacune plus de latitude pour accepter, écourter ou refuser la rencontre."
+            },
+            {
+              "heading": "Repérer un lien qu’on regrette de perdre",
+              "objective": "Choisir un exemple à discuter avec un professionnel si ces retraits se répètent.",
+              "exercise": [
+                "Pensez à un lien que vous auriez souhaité garder.",
+                "Notez ce qui vous plaisait et à quel moment la rencontre est devenue plus difficile.",
+                "Demandez à votre thérapeute si vous pouvez en parler en séance, sans vous engager à reprendre contact."
+              ],
+              "benefit": "Cet exemple peut aider à comprendre à quel moment le désir de lien et l’envie de prendre ses distances entrent en tension."
+            }
+          ]
         }
       ],
       "ending_title": "Une poche pour le ticket",
-      "ending": "Chloé veut une tisane. Meriem prend le café dans sa tasse épaisse et met sa veste sur le dossier de la chaise. Chloé sort la pochette pour y ranger son ticket de transport ; elle constate que le ticket entre dans la petite poche jaune. Meriem dit qu’elle a inventé une poche à mètre ruban et que personne ne respecte son travail. Elles rient. Quand il est temps de partir, Chloé enfile son manteau et dit à jeudi. Meriem a eu le temps de finir le café. Elle n’a promis que de rapporter une bobine verte et se réjouit déjà de choisir laquelle.",
+      "ending": "Chloé veut une tisane. Meriem prend le café dans sa tasse épaisse et met sa veste sur le dossier de la chaise. Chloé sort la pochette pour y ranger son ticket de transport. Il entre dans la petite poche jaune. Meriem dit qu’elle a inventé une poche à mètre ruban et que personne ne respecte son travail. Elles rient. Quand il est temps de partir, Chloé enfile son manteau et dit à jeudi. Meriem a eu le temps de finir le café. Elle n’a promis que de rapporter une bobine verte et se réjouit déjà de choisir laquelle.",
       "mirror": [
-        "Chloé peut regarder l’heure et laisser une réponse ouverte. « Mon bus passe à 19 h 20. On a le temps d’un café, si ça te dit. Sinon, à jeudi. » Si Meriem s’assoit avec elle, Chloé peut parler de la pochette ou de sa propre journée sans prendre ce oui pour un accord de parler de tout. Elle garde son bus et laisse le prochain café dépendre d’une autre invitation."
+        "Chloé peut annoncer l’heure de son bus et laisser les deux réponses possibles. « Il passe à 19 h 20. On a le temps d’un café si ça te dit. Sinon, à jeudi. » Si Meriem s’assoit avec elle, elles peuvent parler de la pochette ou d’autre chose, au fil de la conversation. Chloé peut partir à l’heure prévue et attendre un autre jour pour proposer un nouveau café."
       ],
       "sources": [
         "oms-cddr",
@@ -134,42 +304,99 @@
         "choice": "Meriem accepte un café avant le bus et maintient le rendez-vous de couture sans promettre davantage.",
         "next": "Un changement de salle met à mal la prévisibilité du jeudi. Meriem et Ève doivent décider ce qu’elles peuvent maintenir."
       },
-      "clinical_focus": "Difficulté à se sentir proche",
-      "clinical_intro": "L’invitation de Chloé fait plaisir à Meriem et lui donne en même temps envie de ne plus revenir le jeudi. Dans le TSPT complexe, se sentir proche ou maintenir un lien peut rester difficile alors que la relation compte. Le café avant le bus illustre un choix à sa portée, au milieu d’une tension entre l’envie de lien et la crainte de ce qu’il demande."
+      "clinical_focus": "Malaise face à la proximité",
+      "clinical_intro": "L’invitation de Chloé fait plaisir à Meriem et lui donne en même temps envie de ne plus revenir le jeudi. Dans le TSPT complexe, le rapprochement peut être difficile alors même qu’un lien compte. Le café avant le bus lui laisse le temps d’une rencontre qu’elle désire, sans que ce choix décide de la suite de leur relation.",
+      "conclusion": "Meriem accepte le café dont elle a envie avant le bus de Chloé. Elle peut tenir à cette compagnie sans convenir d’un autre café. La bobine qu’elle choisit de rapporter sera dans son sac quand la salle du jeudi fermera."
     },
     {
       "number": 4,
       "slug": "meriem-salle-fermee",
-      "title": "L’évitement des rappels quand Meriem coupe un message et repousse l’appel",
+      "title": "L’évitement des rappels traumatiques quand un message reste inachevé",
       "description": "Le début d’un message lui fait attendre une voix ancienne. Meriem coupe l’écoute et découvre ce que le délai change pour l’atelier.",
       "context": "Un jeudi où la salle habituelle est fermée",
       "topics": [
-        "Évitement des rappels traumatiques",
-        "Anticipation d’une menace",
-        "Retentissement quotidien"
+        "Évitement des rappels",
+        "Interruption de l’écoute",
+        "Retentissement sur l’activité"
       ],
-      "opening": "À midi, la bobine verte est dans le sac de Meriem, entre la règle et un paquet d’enveloppes kraft. Son téléphone vibre pendant qu’elle essaie d’ouvrir une boîte de tomates. Dans le message d’Ève, elle entend : « La salle est fermée. Il faudrait que tu me rappelles. » Une partie d’elle attend une autre voix à la suite. Elle referme le message avant d’avoir entendu la fin et pose le téléphone, écran contre la table.\n\nQuand elle le reprend, elle a laissé passer plus d’une heure. Ève a écrit qu’une fuite a fait fermer la salle et que Dalila a réservé la petite table du hall de 17 h 30 à 18 h. Il faut décider si elles y acceptent les dépôts. Meriem peut lire la proposition à son rythme. Elle voit maintenant qu’Ève s’est tournée vers l’accueil parce qu’elle devait donner une réponse. Quand la salle était fermée pour les travaux de peinture l’année précédente, deux personnes étaient venues quand même. L’une d’elles avait attendu dehors avec un sac lourd. Meriem pense à celle qui demandait si elle devait laisser son numéro : sans numéro, impossible de prévenir tout le monde directement.\n\nElle voudrait reporter le tout et garder ses enveloppes à la maison. Elle voudrait aussi éviter de laisser Ève tenir seule une table improvisée pendant le créneau du hall. Il reste un moyen de venir pour le papier, dans un lieu qu’elle connaît. Les machines resteront derrière la porte fermée. Elle laisse dans le sac la bobine verte et l’enveloppe qu’elle avait préparée pour le patron de Chloé.",
+      "opening": "À midi, la bobine verte est dans le sac de Meriem, entre la règle et un paquet d’enveloppes kraft. Son téléphone vibre pendant qu’elle essaie d’ouvrir une boîte de tomates. Dans le message d’Ève, elle entend : « La salle est fermée. Il faudrait que tu me rappelles. » Une partie d’elle attend une autre voix à la suite. Elle referme le message avant d’avoir entendu la fin et pose le téléphone, écran contre la table.\n\nQuand elle le reprend, elle a laissé passer plus d’une heure. Ève a écrit qu’une fuite a fait fermer la salle et que Dalila a réservé la petite table du hall de 17 h 30 à 18 h. Il faut décider si elles y acceptent les dépôts. Meriem peut lire la proposition à son rythme. Elle voit maintenant qu’Ève s’est tournée vers l’accueil parce qu’elle devait donner une réponse. Quand la salle était fermée pour les travaux de peinture l’année précédente, deux personnes étaient venues quand même. L’une d’elles avait attendu dehors avec un sac lourd. Meriem pense à celle qui demandait si elle devait laisser son numéro. Sans les numéros, elles ne peuvent pas prévenir tout le monde directement.\n\nElle voudrait reporter le tout et garder ses enveloppes à la maison. Elle voudrait aussi éviter de laisser Ève tenir seule une table improvisée pendant le créneau du hall. Il reste un moyen de venir pour le papier, dans un lieu qu’elle connaît. Les machines resteront derrière la porte fermée. Elle laisse dans le sac la bobine verte et l’enveloppe qu’elle avait préparée pour le patron de Chloé.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’une réponse différée change",
-          "text": "L’évitement des rappels du traumatisme fait partie du noyau commun au stress post-traumatique et à sa forme complexe. Il peut s’agir de tenir à distance une conversation, un lieu ou des pensées que la personne associe à l’événement. Pour Meriem, remettre le message à plus tard a été une façon de ne pas retrouver une impression qui venait de la saisir. Quand elle lit la proposition écrite, elle découvre ce que ce délai a changé dans sa journée : Ève a dû retenir une table avant d’avoir sa réponse.\n\nDécider de ne pas s’exposer à un risque réel ou préférer lire une information importante sont des choix qui ont leur raison."
+          "heading": "Tenir les rappels à distance",
+          "text": "L’évitement des rappels du traumatisme fait partie du TSPT et du TSPT complexe. Une personne peut s’écarter d’une situation ou couper court à une conversation parce qu’elle redoute de revivre ce qui lui est arrivé. Elle peut aussi chercher à tenir des pensées ou des souvenirs à distance.\n\nMeriem coupe le message d’Ève pour ne pas retrouver une impression qu’elle connaît. Elle perd du même coup des renseignements utiles et Ève doit retenir une table sans sa réponse. La fermeture de la salle est bien réelle. Respecter cette fermeture ou préférer un message écrit peut répondre à des besoins tout à fait ordinaires."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La fuite et la fermeture de la salle existent indépendamment de ce que Meriem éprouve. Le coût qu’elle voudrait examiner en suivi tient au moment où elle a coupé le message et perdu une possibilité de prendre part à la décision. La CIM-11 situe ce genre de difficulté dans un ensemble évalué par un professionnel. La façon de répondre à un seul message ne dit rien de certain sur l’histoire de la personne."
+          "heading": "Comment l’évitement des rappels pèse-t-il sur la suite ?",
+          "points": [
+            {
+              "heading": "Interrompre avant d’avoir l’information",
+              "text": "Couper le contact avec le rappel peut éviter de continuer à entendre ou à voir ce qui inquiète. Des éléments utiles peuvent alors manquer.",
+              "examples": [
+                "Meriem arrête le message après la demande de rappel. Elle ne sait pas encore que Dalila a trouvé une table dans le hall.",
+                "Une personne peut quitter une conversation après avoir entendu un mot associé au traumatisme et manquer le nouvel horaire annoncé juste après."
+              ]
+            },
+            {
+              "heading": "Repousser la reprise du contact",
+              "text": "Même lorsque l’information est accessible autrement, la personne peut remettre la décision pour tenir l’impression à distance.",
+              "examples": [
+                "Meriem laisse l’écran retourné plus d’une heure. Pendant ce temps, Ève doit prendre une décision avec Dalila.",
+                "Après avoir refermé un courriel dont le début lui rappelle un événement ancien, quelqu’un peut remettre aussi à plus tard le fait de demander un résumé à l’expéditeur."
+              ]
+            },
+            {
+              "heading": "Écarter aussi ce qui comptait dans l’activité",
+              "text": "Le rappel peut amener à envisager de renoncer à une partie de l’activité à laquelle on tient, même quand des aménagements sont possibles.",
+              "examples": [
+                "Meriem envisage de garder les enveloppes chez elle et de renoncer au dépôt, alors qu’un lieu de repli a été réservé.",
+                "Une personne peut renoncer à retrouver son groupe de lecture pendant des semaines après avoir évité un trajet qui lui rappelait le traumatisme, sans encore se sentir prête à chercher un autre trajet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Annoncer ce qui peut se faire au hall",
-          "text": "Meriem peut dire à Ève quelle part elle peut prendre : tenir la table le temps réservé et recevoir des patrons sur papier. Dalila peut afficher le changement à l’entrée et sur le tableau, avec l’heure de fin et la mention que la salle reste fermée. Si quelqu’un arrive pour coudre, l’information reste vraie après leur départ : l’atelier de couture est reporté. Chloé pourra récupérer sa bobine la semaine suivante si elle arrive après 18 heures.\n\nLe cadre adapté dont parlent les recommandations du NICE concerne le soin, notamment lorsque certaines circonstances compliquent l’engagement. À la maison de quartier, préciser la durée et le contenu du rendez-vous répond à un besoin commun. Meriem peut aussi demander que les changements qui la concernent soient récapitulés par écrit, dans la mesure du possible. Elle peut faire cette demande sans raconter pourquoi le début du message lui est resté dans la gorge."
+          "heading": "3 techniques pour traiter l’information quand un rappel interrompt l’échange",
+          "points": [
+            {
+              "heading": "Demander l’essentiel sous une autre forme",
+              "objective": "Récupérer les informations nécessaires sans réécouter le début du message.",
+              "exercise": [
+                "Identifiez la décision pour laquelle il vous manque un renseignement.",
+                "Demandez un court récapitulatif par écrit si ce format vous convient.",
+                "Vérifiez l’heure à laquelle votre réponse sera utile."
+              ],
+              "benefit": "Un autre canal peut permettre de reprendre part à la décision. Il ne vous oblige pas à réécouter ce que vous avez interrompu."
+            },
+            {
+              "heading": "Distinguer ce qui est fermé et ce qui reste possible",
+              "objective": "Choisir une part praticable de l’activité en respectant la fermeture.",
+              "exercise": [
+                "Demandez à la personne responsable de confirmer les lieux accessibles.",
+                "Regardez ce que vous souhaitez maintenir parmi les options annoncées.",
+                "Donnez votre réponse à l’équipe et mettez-vous d’accord sur l’information à afficher."
+              ],
+              "benefit": "Un dépôt court peut préserver une part de l’échange. L’équipe peut aussi décider de tout reporter selon ses moyens."
+            },
+            {
+              "heading": "Discuter d’un délai qui revient souvent",
+              "objective": "Parler des effets de l’évitement avec la thérapeute si des décisions ou des activités importantes se trouvent régulièrement repoussées.",
+              "exercise": [
+                "Repérez une occasion récente où vous avez interrompu un échange.",
+                "Dites ce qui vous a manqué ou ce que vous n’avez plus pu décider ensuite.",
+                "Demandez avec quel type d’appui vous pourriez aborder cette difficulté en séance."
+              ],
+              "benefit": "Parler de ce qui a été empêché suffit pour ouvrir la discussion. Les décisions de traitement se prennent avec la professionnelle."
+            }
+          ]
         }
       ],
       "ending_title": "Un dépôt de trente minutes",
       "ending": "Meriem écrit à Ève qu’elle tiendra la table jusqu’à 18 heures. Au hall, Dalila déplace le panneau près de la porte extérieure. Deux enveloppes arrivent, dont celle d’un homme qui doit repartir avec son vélo avant la pluie. Meriem inscrit les conditions de partage qu’il lui donne et lui fait relire. À 18 heures, Ève l’aide à ranger les deux enveloppes dans le placard de l’accueil. La bobine verte y attendra aussi. Sur le chemin du retour, Meriem se surprend à tenir son téléphone allumé dans la main. Elle pense à ces nuits où elle vérifie l’heure de la même façon et finit par ne plus dormir.",
       "mirror": [
-        "Ève peut confirmer par écrit les éléments qui demandent une réponse : « Dalila a trouvé une table au hall jusqu’à 18 heures. Tu peux y être ou je préviens que le dépôt est reporté ? » Elle peut donner l’heure à laquelle elle doit prévenir l’accueil et dire le temps dont elle dispose elle-même. L’affiche peut expliquer le changement de salle sans livrer d’information sur la santé de Meriem."
+        "Ève peut confirmer par écrit les éléments qui demandent une réponse. « Dalila a trouvé une table au hall jusqu’à 18 heures. Tu peux y être ou je préviens que le dépôt est reporté ? » Elle peut donner l’heure à laquelle elle doit prévenir l’accueil et le temps dont elle dispose elle-même. L’affiche explique la fermeture et la suite prévue pour le public."
       ],
       "sources": [
         "oms-cddr",
@@ -180,41 +407,98 @@
         "next": "Les nuits hachées et leurs conséquences lui donnent un motif précis de consulter son médecin."
       },
       "clinical_focus": "Évitement des rappels traumatiques",
-      "clinical_intro": "En écoutant le message d’Ève, Meriem attend soudain une autre voix. Elle l’interrompt pour se soustraire à cette impression et perd l’occasion de décider de la suite avec Ève. L’évitement des rappels fait partie du noyau du TSPT complexe. Le récit distingue son effet sur la décision du problème réel qui a fait fermer la salle."
+      "clinical_intro": "En écoutant le message d’Ève, Meriem attend soudain une autre voix. Elle interrompt l’écoute pour se soustraire à cette impression et perd l’occasion de décider avec Ève. L’évitement des rappels fait partie du noyau commun au TSPT et au TSPT complexe. Le délai et la fermeture réelle de la salle posent chacun leur problème.",
+      "conclusion": "Le message interrompu a retardé la réponse de Meriem. L’écrit lui permet de prendre sa part du dépôt au hall. La salle reste fermée. En rentrant, elle remarque qu’elle garde le téléphone allumé dans sa main, comme pendant les nuits dont elle va parler à son médecin."
     },
     {
       "number": 5,
       "slug": "meriem-colonne-des-nuits",
-      "title": "Fatigue et concentration dans le suivi du stress post-traumatique complexe",
-      "description": "Les réveils compliquent la préparation de l’atelier. Meriem demande à son médecin d’examiner le sommeil et la fatigue.",
+      "title": "Fatigue et concentration quand le sommeil se fragmente",
+      "description": "Après des nuits hachées, Meriem perd le fil de tâches familières. Elle demande à son médecin d’examiner les réveils et la fatigue.",
       "context": "Au cabinet de son médecin",
       "topics": [
         "Sommeil fragmenté",
-        "Concentration perturbée",
-        "Évaluation clinique"
+        "Fatigue diurne",
+        "Difficultés de concentration"
       ],
-      "opening": "Dans le cabinet, Meriem pose sur ses genoux une feuille pliée en deux. C’est l’un des patrons trop petits, celui dont le trait rouge traverse le rabat. Au dos, elle a écrit des heures. 2 h 12 : réveillée, sans souvenir de rêve. 4 h 38 : réveillée encore. Jeudi : 5 h 05, impossible de me rendormir. Elle aurait pu prendre du papier blanc. Sur cette feuille, elle savait dans quel sens écrire sans avoir à allumer la lampe du plafond.\n\nElle a failli prendre le bus dans la mauvaise direction en venant. Elle a aussi oublié la bobine verte quand Dalila lui a ouvert le placard. Chloé l’a récupérée et a laissé dans l’enveloppe le patron qu’elle a adapté à la nappe. Rien n’est perdu, mais Meriem a dû demander deux fois quelle heure il était pour être sûre de fermer la salle à l’heure. Elle voudrait comprendre pourquoi des nuits pareilles reviennent alors qu’elle passe parfois de bonnes journées.\n\nSon médecin ouvre le dossier. Il sait déjà que sa thérapeute la suit pour un stress post-traumatique complexe. Meriem a préparé une phrase pour lui demander de regarder le sommeil en particulier. Elle hésite : si elle précise qu’elle a dormi cet après-midi sur le canapé, il pourrait croire qu’elle fait une montagne de deux réveils. Elle se décide à lui montrer toute la feuille. Sous les heures, elle a écrit le nombre de fois où elle a relu la même phrase du règlement de l’atelier. C’est la ligne qu’elle tient le plus à lui faire lire.",
+      "opening": "Dans le cabinet, Meriem pose sur ses genoux une feuille pliée en deux. C’est l’un des patrons trop petits, celui dont le trait rouge traverse le rabat. Au dos, elle a écrit des heures. « Réveillée à 2 h 12, sans souvenir de rêve. Encore à 4 h 38. Jeudi, réveillée à 5 h 05, impossible de me rendormir. » Elle aurait pu prendre du papier blanc. Sur cette feuille, elle savait dans quel sens écrire sans avoir à allumer la lampe du plafond.\n\nElle a failli prendre le bus dans la mauvaise direction en venant. Elle a aussi oublié la bobine verte quand Dalila lui a ouvert le placard. Chloé l’a récupérée et a laissé dans l’enveloppe le patron qu’elle a adapté à la nappe. Rien n’est perdu, mais Meriem a dû demander deux fois quelle heure il était pour être sûre de fermer la salle à l’heure. Elle voudrait comprendre pourquoi des nuits pareilles reviennent alors qu’elle passe parfois de bonnes journées.\n\nSon médecin ouvre le dossier. Il sait déjà que sa thérapeute la suit pour un stress post-traumatique complexe. Meriem a préparé une phrase pour lui demander de regarder le sommeil en particulier. Elle hésite. Si elle précise qu’elle a dormi cet après-midi sur le canapé, il pourrait croire qu’elle fait une montagne de deux réveils. Elle se décide à lui montrer toute la feuille. Sous les heures, elle a écrit le nombre de fois où elle a relu la même phrase du règlement de l’atelier. C’est la ligne qu’elle tient le plus à lui faire lire.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Examiner la fatigue et son retentissement",
-          "text": "La fatigue, les nuits hachées ou le retrait social peuvent avoir plusieurs explications, même chez une personne qui a déjà reçu un diagnostic. Le trouble de stress post-traumatique complexe peut s’accompagner d’autres difficultés, notamment de symptômes dépressifs. Le médecin peut examiner comment le sommeil a changé, dans quelles circonstances les réveils surviennent et quelles conséquences ils ont sur les journées."
+          "heading": "Ce que les réveils changent dans la journée",
+          "text": "Les difficultés de sommeil peuvent accompagner le stress post-traumatique et gêner la concentration dans la journée. Elles peuvent aussi avoir d’autres causes, y compris quand le diagnostic de TSPT complexe est déjà posé. Des réveils répétés méritent d’être examinés à partir de ce que la personne vit la nuit et de ce qu’elle arrive à faire le jour.\n\nMeriem ne se souvient pas d’un rêve à chacun de ses réveils. Elle décrit ce qu’elle sait et montre à son médecin l’endroit où sa lecture a buté. Il peut examiner le sommeil avec elle sans supposer d’avance que tout vient du traumatisme."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il peut aussi rechercher d’autres causes, selon ce que Meriem lui raconte et ce qu’il observe.\n\nLe fait de ruminer au réveil et l’expérience de revivre quelque chose comme si cela se produisait à nouveau sont deux vécus différents. La distinction aide à décrire une nuit ; elle ne permet pas de s’attribuer un trouble du sommeil, une dépression ou un trouble post-traumatique. Lorsque plusieurs difficultés se présentent ensemble, le NICE invite les professionnels à tenir compte de leur gravité et de leur effet sur la possibilité de suivre un traitement. Meriem n’a pas à arriver avec une explication déjà faite."
+          "heading": "Comment les nuits fragmentées retentissent-elles sur la journée ?",
+          "points": [
+            {
+              "heading": "Il faut plus de temps pour suivre une information",
+              "text": "Quand la fatigue rend l’attention moins disponible, une phrase ou une consigne familière peut demander plusieurs lectures.",
+              "examples": [
+                "Meriem relit la même phrase du règlement de l’atelier et finit par noter combien de fois elle est revenue au début.",
+                "Le lendemain d’une nuit hachée, quelqu’un peut perdre le fil d’un appel et demander de recevoir l’horaire par écrit."
+              ]
+            },
+            {
+              "heading": "Les gestes habituels réclament une vérification",
+              "text": "La fatigue peut compliquer une suite de gestes que l’on fait d’ordinaire sans y penser.",
+              "examples": [
+                "Meriem repère au dernier moment que le bus devant elle ne va pas dans le bon sens, alors qu’elle connaît le trajet du cabinet.",
+                "Quand Dalila lui ouvre le placard, Meriem récupère ses affaires mais laisse la bobine verte qu’elle était venue chercher."
+              ]
+            },
+            {
+              "heading": "La journée se raccourcit",
+              "text": "Le besoin de repos ou la difficulté à rester disponible peut changer ce qu’on peut assumer dans la journée.",
+              "examples": [
+                "Meriem s’endort l’après-midi sur le canapé et hésite à le dire alors que ce sommeil en journée fait partie de ce qu’elle observe.",
+                "Quelqu’un qui doit faire l’inventaire et répondre à un courriel en fin d’après-midi peut remettre l’une des deux tâches après avoir constaté qu’il ne suit plus les chiffres."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce que la fatigue empêche de faire",
-          "text": "Une consultation peut commencer avec ce que la personne souhaite changer. Meriem voudrait pouvoir suivre une conversation en fin de journée et terminer de préparer l’échange. Elle peut donner les heures qu’elle a notées, parler des réveils dont elle ne sait rien et de l’après-midi sur le canapé. Le médecin peut lui expliquer les points qu’il veut examiner et convenir avec elle du prochain contact.\n\nLa préparation du samedi a une autre échéance. Meriem peut garder le dessin du patron, qu’elle aime faire chez elle, et demander à Ève de se charger cette semaine de l’inventaire des dépôts. Leur accord peut se limiter à ce jeudi. Si Meriem souhaite que son médecin et sa thérapeute puissent échanger sur son sommeil, elle peut leur demander quel renseignement serait utile et à qui il serait transmis."
+          "heading": "3 techniques pour décrire la fatigue et alléger une journée",
+          "points": [
+            {
+              "heading": "Donner quelques repères sur les nuits",
+              "objective": "Apporter des informations utilisables sans chercher à surveiller chaque réveil.",
+              "exercise": [
+                "Quand vous êtes levé, retenez une nuit récente dont vous avez des repères.",
+                "Notez ce dont vous vous souvenez, même approximativement, sans vous obliger à vérifier l’heure pendant la nuit.",
+                "Ajoutez une chose qui vous a demandé plus d’effort le lendemain."
+              ],
+              "benefit": "Le lien entre une nuit et une tâche concrète peut faciliter la discussion avec le médecin, sans décider à lui seul de la cause."
+            },
+            {
+              "heading": "Demander un point sur le sommeil",
+              "objective": "Faire examiner les réveils et la fatigue en tant que difficultés à part entière.",
+              "exercise": [
+                "Commencez par ce qui vous gêne le plus dans votre journée.",
+                "Mentionnez depuis quand cela se répète et, si c’est le cas, le sommeil qui vous prend en journée.",
+                "Demandez au médecin ce qu’il souhaite examiner et quand reprendre contact."
+              ],
+              "benefit": "Le médecin peut décider avec vous des points à explorer et proposer un suivi adapté à ce que vous décrivez."
+            },
+            {
+              "heading": "Confier une tâche précise pour un jour",
+              "objective": "Éviter d’accumuler toutes les tâches au moment où l’attention baisse.",
+              "exercise": [
+                "Choisissez une tâche que quelqu’un d’autre peut faire avec votre accord.",
+                "Demandez à la personne si elle peut la prendre et pour quelle heure.",
+                "Gardez une manière simple de retrouver le résultat, comme un total par message."
+              ],
+              "benefit": "Une répartition limitée peut réduire la charge de préparation sans retirer à la personne la part du projet qu’elle souhaite garder."
+            }
+          ]
         }
       ],
       "ending_title": "Deux lignes à laisser chez le médecin",
-      "ending": "Le médecin lui pose des questions sur les dernières semaines et lui propose un point de suivi. Meriem accepte qu’il note les heures et ce qu’elles lui coûtent dans la journée. Elle garde la feuille ; elle lui faut un exemple d’impression réduite pour expliquer les contrôles du samedi. En sortant, elle écrit à Ève pour lui demander de compter les enveloppes jeudi. Ève répond qu’elle le fera avant 18 h 30. Ce sera assez tôt pour donner un chiffre à Salomé, qui prépare le bulletin de la maison de quartier. Meriem vérifie une fois le nom inscrit en tête du message, puis range le téléphone.",
+      "ending": "Le médecin lui pose des questions sur les dernières semaines et lui propose un point de suivi. Meriem accepte qu’il note les heures et ce qu’elles lui coûtent dans la journée. Elle garde la feuille. Il lui faut un exemple d’impression réduite pour expliquer les contrôles du samedi. En sortant, elle écrit à Ève pour lui demander de compter les enveloppes jeudi. Ève répond qu’elle le fera avant 18 h 30. Ce sera assez tôt pour donner un chiffre à Salomé, qui prépare le bulletin de la maison de quartier. Meriem vérifie une fois le nom inscrit en tête du message, puis range le téléphone.",
       "mirror": [
-        "Ève peut accepter ou décliner l’inventaire en donnant une réponse claire. « Je peux compter les enveloppes et te donner le total avant 18 h 30. Pour le texte, je te laisse répondre à Salomé. » Si Meriem mentionne le médecin, Ève peut écouter ce qu’elle veut en dire. Elle peut aussi tenir leur accord sur l’inventaire sans réclamer de raison ni demander à voir les notes du cabinet."
+        "Ève peut répondre sur la tâche qu’elle est prête à prendre. « Je peux compter les enveloppes et t’envoyer le total avant 18 h 30. Pour le texte, je te laisse répondre à Salomé. » Si Meriem mentionne le médecin, Ève peut lui demander si elle préfère en parler ou passer à la préparation du samedi. Leur accord sur l’inventaire n’a pas besoin d’une explication médicale."
       ],
       "sources": [
         "oms-cddr",
@@ -224,42 +508,99 @@
         "choice": "Meriem fait examiner ses nuits, convient d’un suivi avec son médecin et confie un inventaire à Ève pour un jeudi.",
         "next": "Les chiffres de l’échange donnent à Salomé le point de départ d’une annonce, pour laquelle elle propose aussi une citation personnelle."
       },
-      "clinical_focus": "Fatigue et attention soutenue",
-      "clinical_intro": "Meriem note ses réveils et le nombre de fois où elle doit relire la même phrase. Cette fatigue compte dans sa vie, quelle qu’en soit la cause. Quand un TSPT complexe est connu, une consultation peut examiner le sommeil et d’autres difficultés en s’appuyant sur des effets concrets. Meriem choisit ce qu’elle veut montrer à son médecin."
+      "clinical_focus": "Retentissement diurne du sommeil fragmenté",
+      "clinical_intro": "Meriem note ses réveils et le nombre de fois où elle doit relire la même phrase. La fatigue la gêne dans des tâches qu’elle connaît bien. Même avec un TSPT complexe déjà diagnostiqué, le sommeil et ses conséquences méritent une évaluation à part entière. Les exemples qu’elle apporte à son médecin lui donnent de quoi commencer.",
+      "conclusion": "Le médecin peut examiner des nuits difficiles à partir de leurs effets dans la journée. Meriem garde son patron pour le samedi et demande à Ève de compter les enveloppes. Ce chiffre suffira à Salomé pour commencer l’annonce."
     },
     {
       "number": 6,
       "slug": "meriem-trois-lignes-pour-le-bulletin",
-      "title": "La honte anticipée quand une question personnelle s’invite dans le bulletin",
-      "description": "Une demande d’anecdote fait anticiper à Meriem le besoin de se justifier. Elle décide quelle phrase peut paraître dans le bulletin.",
+      "title": "La honte anticipée quand le bulletin demande une phrase personnelle",
+      "description": "Avant même de répondre, Meriem craint d’avoir à justifier ce qu’elle garde pour elle. Elle choisit une citation sur la couture.",
       "context": "Avec Salomé, à la table de l’accueil",
       "topics": [
         "Honte anticipée",
-        "Confiance",
-        "Maîtrise de la divulgation"
+        "Crainte du jugement",
+        "Choix de ce qu’on partage"
       ],
-      "opening": "Salomé a apporté le bulletin du mois précédent. Sur la dernière page, un joueur d’échecs explique qu’il a appris à perdre grâce à un enfant de huit ans. Meriem relit la phrase parce qu’elle aimerait connaître le nom de l’enfant. Il n’y est pas. Le joueur donne le créneau du club juste en dessous, en caractères plus petits que le reste. Meriem montre la page à Salomé. Pour elle, le samedi doit se voir d’aussi loin que la photo.\n\nL’inventaire d’Ève indique sept patrons partageables. Il y a une housse de coussin à rabat, un tablier pour enfant et la pochette aux trois chutes. Meriem propose de parler de la poche jaune. Salomé note la date et l’heure, puis demande ce que l’atelier a changé dans sa vie. « Une phrase personnelle, ça donne envie de pousser la porte. » Meriem entend le mot « personnelle » et se met à compter les carrés du carrelage sous la table. Elle pourrait raconter pourquoi elle aime que les rendez-vous soient écrits. Elle sait déjà que le nom de son trouble viendrait ensuite dans la conversation si elle commençait de cette façon.\n\nSalomé garde son stylo en l’air. Meriem a presque envie de donner une anecdote qui justifierait de refuser la vraie. Elle regarde sa pochette. Le tissu à carreaux venait de chez Ève, qui lui avait dit d’en faire ce qu’elle voulait. C’est une bonne histoire de rideau. Il y a aussi une bonne information dans le cahier : les gens pourront venir essayer un patron même s’ils n’en ont pas à déposer.",
+      "opening": "Salomé a apporté le bulletin du mois précédent. Sur la dernière page, un joueur d’échecs explique qu’il a appris à perdre grâce à un enfant de huit ans. Meriem relit la phrase parce qu’elle aimerait connaître le nom de l’enfant. Il n’y est pas. Le joueur donne le créneau du club juste en dessous, en caractères plus petits que le reste. Meriem montre la page à Salomé. Pour elle, le samedi doit se voir d’aussi loin que la photo.\n\nL’inventaire d’Ève indique sept patrons partageables. Il y a une housse de coussin à rabat, un tablier pour enfant et la pochette aux trois chutes. Meriem propose de parler de la poche jaune. Salomé note la date et l’heure, puis demande ce que l’atelier a changé dans sa vie. « Une phrase personnelle, ça donne envie de pousser la porte. » Meriem entend le mot « personnelle » et se met à compter les carrés du carrelage sous la table. Elle pourrait raconter pourquoi elle aime que les rendez-vous soient écrits. Elle sait déjà que le nom de son trouble viendrait ensuite dans la conversation si elle commençait de cette façon.\n\nSalomé garde son stylo en l’air. Meriem imagine qu’elle va lui demander ce qu’elle a donc à cacher, alors que Salomé n’a rien dit de tel. La honte lui chauffe déjà les joues. Elle a presque envie de donner une anecdote qui justifierait de passer la question. Elle regarde sa pochette. Le tissu à carreaux venait de chez Ève, qui lui avait dit d’en faire ce qu’elle voulait. C’est une bonne histoire de rideau. Le cahier lui rappelle que les gens pourront venir essayer un patron même s’ils n’en ont pas à déposer. C’est une bonne information à faire passer.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "L’effort de confiance derrière une demande de confidence",
-          "text": "Les difficultés de confiance et la honte peuvent rendre le partage d’informations particulièrement coûteux pour une personne qui vit avec un stress post-traumatique complexe. Le fait d’en dire peu sur sa vie peut aussi être une simple préférence ; chacun choisit ce qu’il souhaite rendre public."
+          "heading": "Avoir honte de ce qu’on imagine devoir dire",
+          "text": "La honte liée au traumatisme, qui peut être profonde et durable dans le TSPT complexe, peut se faire sentir avant même que quelqu’un ait réagi. Dans la scène, Meriem imagine que Salomé va lui demander ce qu’elle a à cacher et commence à préparer une justification. Salomé lui a posé une question ouverte et peut reprendre son travail avec une autre réponse.\n\nTenir à sa vie privée est une préférence à respecter. Le coût particulier pour Meriem vient de la honte qu’elle éprouve déjà en imaginant le regard de l’autre, avant d’avoir choisi ce qu’elle souhaite rendre public."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Meriem commence à préparer des explications alors que la demande de Salomé tient en une phrase. L’anticipation dit quelque chose de son vécu. Son droit de répondre, de limiter une citation ou de passer la question tient à l’échange en cours, comme pour n’importe qui.\n\nLe NICE recommande de prévoir du temps pour construire la confiance dans les soins quand les besoins sont complexes. Dans le bulletin, l’enjeu est différent : Meriem peut choisir les mots utiles pour accueillir du monde. Elle peut aussi indiquer qu’une question sur le projet lui convient mieux. Salomé peut faire son travail avec les horaires, la façon dont on reçoit un patron et une phrase sur le tissu qu’on a déjà chez soi. Les gens sauront à quoi s’attendre en arrivant."
+          "heading": "Comment la honte anticipée change-t-elle une réponse ?",
+          "points": [
+            {
+              "heading": "Imaginer un regard avant qu’il se pose",
+              "text": "La personne peut entendre une demande ouverte et attendre déjà un jugement sur ce qu’elle dira ou sur le fait de garder le silence.",
+              "examples": [
+                "Salomé propose une phrase personnelle. Meriem imagine qu’elle lui reprochera d’avoir quelque chose à cacher alors qu’elle n’a rien dit de tel.",
+                "Une personne peut recevoir une invitation à se présenter dans un groupe et craindre que les autres voient sa réserve comme un aveu, avant même de prendre la parole."
+              ]
+            },
+            {
+              "heading": "Chercher une raison qui rendrait le refus acceptable",
+              "text": "Dire simplement ce que l’on souhaite peut paraître insuffisant. La personne se met alors à préparer une explication qu’on ne lui a pas demandée.",
+              "examples": [
+                "Meriem envisage de raconter une autre anecdote pour justifier de passer la question.",
+                "Face à une demande de portrait pour un trombinoscope, quelqu’un peut préparer toute une explication familiale alors qu’il voudrait simplement demander si le portrait est facultatif."
+              ]
+            },
+            {
+              "heading": "Envisager de livrer une information de trop",
+              "text": "La peur d’être jugée peut peser sur ce qu’une personne pense devoir dévoiler pour que sa réponse soit entendue.",
+              "examples": [
+                "Meriem sait qu’expliquer pourquoi elle tient aux rendez-vous affichés pourrait l’amener à nommer son trouble, alors qu’elle veut parler de couture.",
+                "Pour répondre à un collègue qui demande pourquoi un horaire lui convient, une personne peut envisager de parler d’un soin qu’elle aurait préféré garder pour elle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’accorder sur la phrase et sur son usage",
-          "text": "L’accord peut être précis : une citation relue, sur ce bulletin, et une éventuelle photo de matériel après un nouvel accord. Une autorisation de reprendre des horaires ne couvre pas un entretien plus personnel. Meriem peut demander de voir la phrase avec le texte qui l’entoure. Ève peut choisir séparément si elle souhaite être citée. Salomé peut aussi préférer une annonce sans parole attribuée et le dire à toutes les deux.\n\nLa photo demande une décision à part. Meriem est prête à discuter d’une photo de la pochette posée sur une table vide. Elle peut demander qui viendrait, à quelle heure, et ce qui serait visible autour de l’objet. Elles pourront décider à nouveau quand la table sera prête. D’ici là, le rendez-vous qui doit être affiché est celui de l’échange, de 10 à 12 heures le samedi."
+          "heading": "3 techniques pour choisir ce qu’on dit quand la honte est déjà là",
+          "points": [
+            {
+              "heading": "Répondre sur le sujet qu’on choisit",
+              "objective": "Garder une réponse utile sans avoir à expliquer sa vie privée.",
+              "exercise": [
+                "Repérez ce dont la personne a besoin pour sa tâche, par exemple une phrase pour le bulletin.",
+                "Choisissez un fait sur le projet que vous êtes à l’aise de partager.",
+                "Proposez-le ou dites que vous préférez passer la question."
+              ],
+              "benefit": "Une autre réponse peut suffire au travail en cours, même si la gêne ne se dissipe pas tout de suite."
+            },
+            {
+              "heading": "Fixer les limites d’une citation",
+              "objective": "Savoir sur quoi porte l’accord avant une publication.",
+              "exercise": [
+                "Indiquez la phrase que vous acceptez de voir citée et, si besoin, le nom qui l’accompagne.",
+                "Demandez à la relire dans le texte complet avant de confirmer.",
+                "Répondez séparément à une autre demande, par exemple une photo."
+              ],
+              "benefit": "Séparer les demandes peut vous laisser le temps de faire plusieurs choix au lieu de tout autoriser d’un coup."
+            },
+            {
+              "heading": "Parler du jugement qu’on attendait",
+              "objective": "Aborder en suivi la honte qui précède certaines conversations.",
+              "exercise": [
+                "Retenez une question qui vous a fait anticiper ce jugement, sans détailler ce que vous avez choisi de garder privé.",
+                "Dites à votre thérapeute ce que vous vous attendiez à entendre ensuite.",
+                "Expliquez ce que cette attente vous a fait envisager de taire ou de dévoiler."
+              ],
+              "benefit": "Ce point de départ permet de parler de l’effet de la honte sans que la séance dépende de la révélation d’une histoire."
+            }
+          ]
         }
       ],
       "ending_title": "La phrase sur le rideau",
-      "ending": "Meriem propose : « La pochette a un fond de pantalon, un devant de rideau et une poche taillée dans la dernière chute. » Salomé demande si elle peut signer la phrase avec son prénom. Meriem dit oui pour cette phrase, une fois le texte relu. Salomé raye la question personnelle. Pour l’image, elle suggère que Rémi passe au prochain atelier en fin de séance ; Meriem précise qu’elle décidera sur place et que la discussion se limitera à une photo d’objet. Salomé écrit les deux conditions sur sa feuille. Meriem encadre l’heure de l’échange et recopie la date sur le tableau.",
+      "ending": "Meriem propose : « La pochette a un fond de pantalon, un devant de rideau et une poche taillée dans la dernière chute. » Salomé demande si elle peut signer la phrase avec son prénom. Meriem dit oui pour cette phrase, une fois le texte relu. Salomé raye la question personnelle. Pour l’image, elle suggère que Rémi passe au prochain atelier en fin de séance. Meriem précise qu’elle décidera sur place et que la discussion se limitera à une photo d’objet. Salomé écrit les deux conditions sur sa feuille. Meriem encadre l’heure de l’échange et recopie la date sur le tableau.",
       "mirror": [
-        "Salomé peut baisser son stylo et reprendre à partir de la proposition de Meriem. « Je peux citer la phrase sur le rideau dans le bulletin. Je t’envoie le texte avant. Pour la photo, Rémi te demandera sur place et attendra ton accord. » Elle peut transmettre à Rémi ces limites pratiques, sans donner d’explication personnelle. Si l’image complique la préparation, elle peut garder une annonce en texte."
+        "Salomé peut reprendre à partir de la phrase que Meriem propose. « Je peux garder la phrase sur le rideau et te faire relire l’annonce. Pour la photo, Rémi attendra ton accord sur place. » Elle transmet la limite pratique à Rémi et garde la possibilité de publier une annonce en texte. La page peut être prête même si Meriem préfère ne pas raconter d’anecdote personnelle."
       ],
       "sources": [
         "oms-cddr",
@@ -269,42 +610,99 @@
         "choice": "Meriem autorise sous réserve de relecture une citation de couture, et réserve sa décision sur une photo d’objet.",
         "next": "Le bénévole chargé de l’image revient sur la demande de récit personnel malgré la limite transmise."
       },
-      "clinical_focus": "Honte anticipée dans un échange",
-      "clinical_intro": "En préparant le bulletin, Meriem commence à chercher une excuse avant même d’avoir posé sa limite. La honte et la difficulté à faire confiance peuvent alourdir le partage d’informations dans un TSPT complexe. Ce coût s’ajoute à un choix ordinaire que chacun peut faire. Meriem choisit ce qu’elle veut dire de son travail et les conditions de publication."
+      "clinical_focus": "Honte anticipée avant de parler de soi",
+      "clinical_intro": "En préparant le bulletin, Meriem imagine déjà qu’on va lui reprocher ce qu’elle souhaite garder privé. La honte liée au traumatisme peut s’inviter ainsi dans un TSPT complexe, avant la réaction de l’autre. Meriem se tourne vers ce qu’elle souhaite réellement dire et demande à relire la citation dans le bulletin.",
+      "conclusion": "Meriem propose la phrase sur le rideau et demande à la relire. Même avec la honte qui lui est venue avant de répondre, elle a pu choisir ce qu’elle voulait dire. La photo reste une demande distincte, dont le cadre est écrit avant que Rémi arrive."
     },
     {
       "number": 7,
       "slug": "meriem-appareil-dans-le-sac",
-      "title": "Alerte corporelle quand Rémi continue à poser une question écartée",
-      "description": "Rémi revient sur une demande refusée. Meriem se sent coincée et demande un relais pour mettre fin à la rencontre.",
+      "title": "Le sentiment de menace qui dure après une visite interrompue",
+      "description": "Rémi insiste malgré un refus. Meriem appelle du renfort et reste sur le qui-vive même après l’intervention de Dalila.",
       "context": "À la fin d’un jeudi de couture",
       "topics": [
-        "Alerte corporelle",
-        "Sentiment d’être coincée",
-        "Sécurité relationnelle"
+        "Sentiment de menace actuelle",
+        "Vigilance persistante",
+        "Relais pour faire respecter une limite"
       ],
-      "opening": "À 18 h 50, Meriem déplace la boîte de canettes pour faire de la place à la pochette. Elle pose le côté jaune face à la fenêtre. Rémi arrive avec son appareil dans un sac gris. Il connaît l’heure, le nom de Salomé et la règle qu’on lui a envoyée. Il la répète en posant le sac : « Une photo de la pochette, si tu veux. » Meriem lui dit qu’elle voudrait d’abord vérifier le fond. On lit le prénom de Chloé sur une enveloppe derrière la table.\n\nRémi suit son regard et demande si Chloé a une histoire particulière avec l’atelier. Meriem lui répond qu’il peut lui poser une question sur la couture, pas sur la vie des gens. Il dit que c’est surtout d’elle qu’il aimerait parler. Elle répète qu’elle ne fera pas d’entretien. Il tient encore la sangle du sac quand il demande, comme en changeant de sujet : « Mais qu’est-ce qui t’a amenée ici, vraiment ? » Meriem ramène la pochette contre elle. Elle cherche une réponse qui empêcherait la question suivante et reconnaît qu’elle n’a rien de nouveau à lui répondre.\n\nDe l’autre côté de la table, Ève a fini de fermer une boîte. Meriem a chaud jusque dans le cou et la fenêtre lui paraît loin. Elle tient toujours le tissu jaune dans son poing. Elle regarde Ève, puis la porte de l’accueil. Dalila est encore là. Meriem peut lui demander de venir ; elle peut aussi dire à Ève ce qu’elle veut que celle-ci fasse.",
+      "opening": "À 18 h 50, Meriem déplace la boîte de canettes pour faire de la place à la pochette. Elle pose le côté jaune face à la fenêtre. Rémi arrive avec son appareil dans un sac gris. Il connaît l’heure, le nom de Salomé et la règle qu’on lui a envoyée. Il la répète en posant le sac : « Une photo de la pochette, si tu veux. » Meriem lui dit qu’elle voudrait d’abord vérifier le fond. On lit le prénom de Chloé sur une enveloppe derrière la table.\n\nRémi suit son regard et demande si Chloé a une histoire particulière avec l’atelier. Meriem lui répond qu’il peut lui poser une question sur la couture, pas sur la vie des gens. Il dit que c’est surtout d’elle qu’il aimerait parler. Elle répète qu’elle ne fera pas d’entretien. Il tient encore la sangle du sac quand il demande, comme en changeant de sujet : « Mais qu’est-ce qui t’a amenée ici, vraiment ? » Meriem ramène la pochette contre elle et suit la main qui tient la sangle du sac. Elle cherche une réponse qui empêcherait la question suivante et reconnaît qu’elle n’a rien de nouveau à lui répondre.\n\nDe l’autre côté de la table, Ève a fini de fermer une boîte. Meriem a chaud jusque dans le cou et la fenêtre lui paraît loin. Elle tient toujours le tissu jaune dans son poing. Elle regarde Ève, puis la porte de l’accueil. Dalila est encore là. Meriem peut lui demander de venir. Elle cherche les mots qu’Ève entendra de l’autre côté de la table.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand la demande continue après le refus",
-          "text": "Une demande qui se répète après un refus pose un problème concret dans la relation. Le stress post-traumatique complexe peut rendre une émotion plus difficile à traverser, et le refus doit être entendu quel que soit l’état de la personne. Meriem a répondu deux fois sur le cadre de la rencontre. Rémi poursuit alors que la limite est claire."
+          "heading": "Quand l’alerte continue après la rencontre",
+          "text": "Un sentiment de menace actuelle qui persiste fait partie de ce que la CIM-11 décrit dans le TSPT et le TSPT complexe. L’attention peut rester tournée vers ce qui pourrait arriver, jusque dans des moments où la personne sait que la situation a changé. Une réaction corporelle forte, à elle seule, ne permet pas d’identifier ce phénomène.\n\nRémi revient réellement sur une question que Meriem a refusée. Il y a de quoi interrompre la rencontre et faire appliquer la règle de la maison de quartier. Une fois qu’il a quitté les lieux, Meriem guette encore des pas dans l’entrée alors qu’elle vient de le voir partir. Le départ met fin à la visite. Son sentiment d’alerte dure davantage."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le retour d’une forte impression d’être coincée appartient au vécu de Meriem. La décision de mettre fin à l’échange peut se fonder sur ce qui vient de se passer, sans chercher pourquoi son corps réagit aussi fort.\n\nLe manuel de l’OMS décrit aussi des difficultés de confiance et de proximité dans ce trouble. L’entourage ne peut pas déduire d’une réaction ce qu’une personne a vécu. Dans les soins, le NICE demande de prendre en compte la sécurité et la stabilité de la situation. Ici, le geste immédiat est d’arrêter une rencontre dont les conditions ne sont plus respectées."
+          "heading": "Comment le sentiment de menace peut-il rester présent ?",
+          "points": [
+            {
+              "heading": "L’attention va aux signes d’une nouvelle intrusion",
+              "text": "Chercher ce qui pourrait arriver ensuite peut prendre le pas sur le reste de la scène.",
+              "examples": [
+                "Meriem surveille l’appareil et attend la prochaine question, alors qu’elle était en train de choisir le fond de la photo.",
+                "Après qu’un entretien difficile a été arrêté, quelqu’un peut continuer à guetter chaque vibration de son téléphone, de peur que l’échange recommence."
+              ]
+            },
+            {
+              "heading": "La possibilité de sortir occupe l’attention",
+              "text": "La personne peut continuer à repérer un passage ou à chercher qui pourra l’aider, même quand la première difficulté a été traitée.",
+              "examples": [
+                "Meriem cherche le regard d’Ève et la porte de l’accueil quand Rémi insiste. Une fois à l’accueil, elle garde encore les yeux sur l’entrée.",
+                "Après avoir rejoint un espace où l’équipe d’accueil peut la soutenir, une personne peut hésiter à s’asseoir dos à la porte alors qu’on lui a confirmé le départ du visiteur."
+              ]
+            },
+            {
+              "heading": "Un bruit ordinaire relance l’attente",
+              "text": "Après le départ de l’autre personne, un signe peu précis peut encore donner l’impression qu’il faut se tenir prête.",
+              "examples": [
+                "Meriem vient de voir partir Rémi. À chaque pas dans l’entrée, elle s’attend encore à ce qu’il revienne poser sa question.",
+                "Plus tard, quelqu’un peut entendre la poignée d’une salle tourner et se préparer de nouveau à devoir dire non, avant de reconnaître une collègue qui vient ranger."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire intervenir la personne responsable du lieu",
-          "text": "Meriem peut dire qu’elle arrête, puis demander à Ève d’appeler Dalila. Il suffit de dire que le bénévole est revenu sur un sujet écarté et que la rencontre prend fin. Dalila peut demander à Rémi de ranger ses affaires et traiter la suite avec l’équipe du bulletin. Elle n’a pas besoin de réunir Meriem et Rémi pour qu’il explique son intention ou qu’elle réponde à une dernière question.\n\nPour l’annonce, Salomé peut confirmer ce qui a été recueilli et repartir du texte, avec un accord renouvelé si elle souhaite citer quelqu’un. Meriem pourra décider plus tard du récit qu’elle veut faire de ce jeudi et de la personne à qui elle le fera. Avant cela, elle peut vérifier qui se charge du bulletin et à quel moment elle retrouvera la salle pour son propre projet."
+          "heading": "3 techniques pour mettre fin à l’échange et passer le relais",
+          "points": [
+            {
+              "heading": "Sortir de la discussion",
+              "objective": "Faire cesser une rencontre dont la limite n’est plus respectée.",
+              "exercise": [
+                "Si vous le pouvez sans risque, dites que la rencontre prend fin.",
+                "Rejoignez l’accueil ou demandez à une personne de prévenir la responsable du lieu.",
+                "Dites quelle limite a été franchie et de quelle aide vous avez besoin."
+              ],
+              "benefit": "Passer le relais permet à la personne responsable d’intervenir. Vous pouvez demander de l’aide sans répéter votre refus une fois de plus."
+            },
+            {
+              "heading": "Vérifier qui prend en charge la suite",
+              "objective": "Savoir ce que le lieu a fait et qui répondra si la personne reprend contact.",
+              "exercise": [
+                "Demandez à la personne responsable ce qui a été décidé et qui s’en occupe.",
+                "Convenez avec elle de la marche à suivre si le visiteur se présente de nouveau.",
+                "Choisissez avec qui attendre ou partir, selon les options dont vous disposez."
+              ],
+              "benefit": "Connaître la suite peut réduire le nombre de décisions à prendre pendant que l’alerte est encore présente."
+            },
+            {
+              "heading": "Décrire ce qui reste après le départ",
+              "objective": "Aborder avec la thérapeute une vigilance qui se prolonge une fois la situation terminée.",
+              "exercise": [
+                "À un moment qui vous convient, retenez un fait que l’équipe a pu vérifier, comme le départ du visiteur.",
+                "Indiquez ce que vous continuiez à guetter et ce que cela vous a empêchée de faire.",
+                "Demandez à la thérapeute avec qui et comment chercher de l’aide si cette vigilance dure ou revient."
+              ],
+              "benefit": "Décrire les deux moments permet de discuter du soutien clinique sans perdre de vue la limite réelle que l’équipe devait faire respecter."
+            }
+          ]
         }
       ],
       "ending_title": "La pochette retourne dans le sac de Meriem",
-      "ending": "« On arrête. Ève, tu peux appeler Dalila ? » Meriem glisse la pochette dans son propre sac. Dalila vient, met fin à la visite et raccompagne Rémi. L’appareil est resté rangé. À l’accueil, Ève demande ce que Meriem veut transmettre pour le bulletin. Meriem dicte : « Pas d’image. Pour le texte, renvoie-moi la version finale. » Ève lui montre le message avant de l’envoyer à Salomé. Dalila s’occupe de signaler que la visite a dû être interrompue et convient avec Salomé que Rémi ne reviendra pas pour l’échange. Dehors, Meriem découvre qu’elle a froissé la poche jaune. Elle la remet à plat sur son genou ; le pli reste.",
+      "ending": "« On arrête. Ève, tu peux appeler Dalila ? » Meriem glisse la pochette dans son propre sac. Dalila vient, met fin à la visite et raccompagne Rémi. L’appareil est resté rangé. Meriem le voit s’éloigner à travers la vitre de l’accueil. Pourtant, à chaque bruit de pas dans l’entrée, elle attend qu’il revienne avec sa question. Quand Ève lui demande ce qu’elle veut transmettre pour le bulletin, Meriem lui fait répéter la question. Puis elle dicte : « Pas d’image. Pour le texte, renvoie-moi la version finale. » Ève lui montre le message avant de l’envoyer à Salomé. Dalila s’occupe de signaler que la visite a dû être interrompue et convient avec Salomé que Rémi ne reviendra pas pour l’échange. Dehors, Meriem découvre qu’elle a froissé la poche jaune. Elle la remet à plat sur son genou. Le pli reste.",
       "mirror": [
-        "Ève peut répondre à la demande que Meriem lui adresse : « J’appelle Dalila. Tu veux que j’attende ici avec toi ? » Dalila peut interrompre la visite et prendre en charge les échanges avec l’équipe du bulletin. Ève peut ensuite demander ce que Meriem veut faire du texte déjà préparé. Elle peut proposer de transmettre un message qu’elles relisent ensemble, en laissant à Meriem la décision sur le contenu personnel."
+        "Ève peut prendre au sérieux la demande de Meriem. « J’appelle Dalila. Tu veux que je reste avec toi ? » Dalila peut interrompre la visite, prévenir l’équipe du bulletin et dire à Meriem qui contacter si Rémi revient. Ève peut ensuite lui demander si elle a assez de disponibilité pour relire le message à Salomé ou si elle préfère le faire plus tard."
       ],
       "sources": [
         "oms-cddr",
@@ -314,42 +712,99 @@
         "choice": "Meriem termine la rencontre, confie l’intervention à Dalila et demande une annonce en texte à relire.",
         "next": "Malgré la fin de la visite et le relais de Dalila, le jeudi suivant lui paraît difficile à reprendre."
       },
-      "clinical_focus": "Alerte et sentiment d’impasse",
-      "clinical_intro": "Rémi insiste après un refus. Meriem serre le tissu et sent la chaleur lui monter jusqu’au cou. Dans le TSPT complexe, une impression ancienne d’être coincée peut rendre cette émotion difficile à traverser. La demande répétée pose aussi un problème immédiat. Meriem peut arrêter la rencontre et chercher un appui à partir de ce qui vient de se passer."
+      "clinical_focus": "Sentiment de menace qui persiste",
+      "clinical_intro": "Rémi revient sur une question écartée et Meriem demande à faire arrêter la visite. À l’accueil, elle continue à guetter ses pas après l’avoir vu partir. Dans le TSPT complexe, le sentiment de menace peut persister alors que les circonstances ont changé. La scène montre aussi le rôle de Dalila pour faire respecter une limite réellement franchie.",
+      "conclusion": "Dalila met fin à la visite et organise la suite avec Salomé. Meriem sait que Rémi est parti, mais les bruits de l’entrée la tiennent encore en alerte. Dalila a confirmé que Rémi ne reviendra pas pour l’échange. Il reste à Meriem à voir ce qu’elle se sentira prête à faire le jeudi suivant."
     },
     {
       "number": 8,
       "slug": "meriem-enveloppes-en-attente",
-      "title": "Quand la honte persiste et pousse Meriem à quitter la préparation",
-      "description": "La visite est terminée, mais la honte reste et Meriem manque un jeudi. Elle cherche une part du projet qu’elle souhaite garder.",
+      "title": "Le retrait après la honte quand revenir à l’atelier devient difficile",
+      "description": "La visite est terminée, mais la honte pousse Meriem à manquer un jeudi. Elle cherche quelle part du projet elle veut garder.",
       "context": "Chez Meriem, puis au téléphone avec Ève",
       "topics": [
-        "Honte persistante",
-        "Autocritique",
-        "Retrait de l’activité"
+        "Retrait après la honte",
+        "Participation à une activité",
+        "Reprise d’un rôle choisi"
       ],
-      "opening": "La pendule de la cuisine retarde de quatre minutes. Quand elle affiche 17 h 27, Meriem sait qu’Ève vient d’ouvrir la salle. Elle avait écrit à midi qu’elle n’y arriverait pas ce jeudi. Depuis, elle a nettoyé la table, défait un coin de la pochette et refait exactement la même couture. Le tissu n’avait pas bougé. Il y a seulement le pli, qui s’efface quand elle le regarde de l’autre côté.\n\nSalomé lui a envoyé l’annonce relue, sans image. Meriem a confirmé qu’elle gardait sa phrase sur le rideau, et le bulletin est parti à l’impression. Dalila a confirmé que Rémi ne participerait pas. Pourtant, chaque fois que Meriem pense à la table, elle se voit faire signe à Ève devant lui. Elle se rappelle la voix qu’elle avait en disant d’arrêter : trop petite, se dit-elle, pour celle qui est censée animer. Il lui semble qu’Ève va finir par lui dire la même chose. Cela lui paraît aussi certain que l’heure de la pendule.\n\nÀ 19 h 10, Ève laisse un message. Elle a sorti deux bacs et reçu trois nouveaux patrons. Elle demande à Meriem si elle veut choisir avec elle où installer la table samedi. Meriem pourrait écrire qu’Ève est libre de mettre la table où elle veut. Pendant un moment, elle compose même une phrase pour proposer qu’Ève présente tout le projet à sa place. Puis elle repense à l’étiquette des bacs. Si l’un d’eux sert aux patrons encore à vérifier, elle sait très bien ce qu’elle voudrait y faire écrire.",
+      "opening": "La pendule de la cuisine retarde de quatre minutes. Quand elle affiche 17 h 27, Meriem sait qu’Ève vient d’ouvrir la salle. Elle avait écrit à midi qu’elle n’y arriverait pas ce jeudi. Depuis, elle a nettoyé la table, défait un coin de la pochette et refait exactement la même couture. Le tissu n’avait pas bougé. Il y a seulement le pli, qui s’efface quand elle le regarde de l’autre côté.\n\nSalomé lui a envoyé l’annonce relue, sans image. Meriem a confirmé qu’elle gardait sa phrase sur le rideau, et le bulletin est parti à l’impression. Dalila a confirmé que Rémi ne participerait pas. Pourtant, chaque fois que Meriem pense à la table, elle se voit faire signe à Ève devant lui. Elle se rappelle la voix qu’elle avait en disant d’arrêter. Trop petite, se dit-elle, pour celle qui est censée animer. Il lui semble qu’Ève va finir par lui dire la même chose. Cela lui paraît aussi certain que l’heure de la pendule.\n\nÀ 19 h 10, Ève laisse un message. Elle a sorti deux bacs et reçu trois nouveaux patrons. Elle demande à Meriem si elle veut choisir avec elle où installer la table samedi. Meriem pourrait écrire qu’Ève est libre de mettre la table où elle veut. Pendant un moment, elle compose même une phrase pour proposer qu’Ève présente tout le projet à sa place. Puis elle repense à l’étiquette des bacs. Si l’un d’eux sert aux patrons encore à vérifier, elle sait très bien ce qu’elle voudrait y faire écrire.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Pourquoi une décision difficile peut continuer à peser",
-          "text": "Dans un stress post-traumatique complexe, le jugement sévère porté sur soi peut revenir après une situation où la personne a pourtant pris une décision utile. Une situation peut être terminée alors que la honte et le jugement sur soi persistent. Meriem a obtenu que la visite s’arrête, puis que l’annonce paraisse dans les conditions qu’elle a relues. Une semaine après, elle se sent incapable de tenir son rôle."
+          "heading": "Quand la honte fait perdre une place qu’on voulait garder",
+          "text": "Dans le TSPT complexe, un jugement durablement négatif sur soi peut s’accompagner d’une honte profonde. Cette honte peut encore gêner la participation à une activité quand l’événement est terminé. Meriem sait que Rémi ne reviendra pas. Elle manque pourtant le jeudi, parce qu’elle juge indigne de son rôle la façon dont elle a appelé Ève à l’aide.\n\nElle se souvient de sa propre voix et la juge. Elle ne l’entend pas comme si la visite se reproduisait. Ce qui lui coûte une part de l’atelier cette semaine, c’est la difficulté à reprendre sa place sous le regard des autres."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans ce passage, Meriem se rappelle sa voix et la juge ; c’est différent de l’impression initiale que le passé se produisait à nouveau.\n\nLes symptômes peuvent être persistants et coûter un effort même lorsque des activités sont maintenues. Le diagnostic ne rend pas chaque jeudi prévisible. Il n’efface ni les préférences de Meriem ni ce qu’elle sait faire. Son hésitation peut aussi faire place à une question ordinaire de travail : qu’est-ce qu’Ève a pu préparer seule et qu’est-ce qu’elles veulent encore décider ensemble ?"
+          "heading": "Comment la honte persistante pousse-t-elle à se retirer ?",
+          "points": [
+            {
+              "heading": "Manquer un rendez-vous auquel on tient",
+              "text": "Revenir dans le lieu peut paraître difficile à cause du regard que la personne porte sur ce qu’elle y a fait.",
+              "examples": [
+                "Meriem reste chez elle le jeudi où Ève ouvre la salle. Elle refait une couture dont le tissu n’avait pas bougé.",
+                "Après avoir demandé de l’aide devant son équipe, une personne peut manquer la répétition suivante, même si personne ne lui a reproché d’avoir interrompu la séance."
+              ]
+            },
+            {
+              "heading": "Céder un rôle que l’on voulait tenir",
+              "text": "La honte peut amener à abandonner une responsabilité qu’on avait choisie, au-delà de ce qu’on souhaite déléguer ce jour-là.",
+              "examples": [
+                "Meriem commence à écrire qu’Ève pourrait présenter tout le projet à sa place, alors qu’elle tenait à montrer les patrons.",
+                "Quelqu’un peut vouloir retirer son nom de toute une préparation parce qu’il se sent incapable de reprendre la parole au prochain accueil."
+              ]
+            },
+            {
+              "heading": "Se tenir loin des décisions du groupe",
+              "text": "La personne peut s’écarter aussi d’échanges pratiques qu’elle aurait aimé avoir et qui n’exigent pas de raconter ce qui s’est passé.",
+              "examples": [
+                "Meriem hésite à laisser Ève placer seule la table alors qu’elle a déjà une idée pour distinguer les deux bacs.",
+                "Après une séance manquée, une personne peut laisser sans réponse le message qui demande quel matériel apporter, de peur qu’il débouche sur une discussion devant le groupe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un rôle à garder, du travail à partager",
-          "text": "Meriem peut demander ce qu’il reste à faire et proposer une part limitée. Elle n’a pas besoin de décider ce soir si elle assurera tout le samedi. Elle peut dire où elle veut installer la table et ce qu’elle voudrait vérifier sur les feuilles. Ève peut signaler la tâche qu’elle a déjà prise et celle qu’elle ne pourra pas reprendre seule. Si elles repoussent une décision, elles peuvent annoncer quand elles la reprendront.\n\nLe NICE reconnaît que la honte ou la difficulté à faire confiance peuvent compliquer l’accès aux soins. Il invite à discuter des moyens de maintenir le contact, notamment quand un rendez-vous est manqué. Un jeudi de couture manqué et une séance de soin ont des conséquences différentes. Meriem peut reprendre contact avec Ève sur les bacs et garder pour sa thérapeute ce qu’elle aimerait comprendre de la honte qui a suivi la visite."
+          "heading": "3 techniques pour garder une part choisie du projet",
+          "points": [
+            {
+              "heading": "Demander ce qui reste à décider",
+              "objective": "Retrouver les informations utiles après une absence.",
+              "exercise": [
+                "Contactez la personne qui a pris le relais par le moyen qui vous convient.",
+                "Demandez ce qui a été fait et ce qui est encore ouvert.",
+                "Choisissez si vous souhaitez prendre une décision maintenant ou convenir d’un moment pour la reprendre."
+              ],
+              "benefit": "Distinguer les décisions ouvertes peut rendre la reprise possible sans avoir à tout rattraper d’un coup."
+            },
+            {
+              "heading": "Proposer une contribution précise",
+              "objective": "Trouver une part du projet que vous souhaitez encore tenir.",
+              "exercise": [
+                "Repérez une tâche qui compte pour vous, comme préparer les étiquettes.",
+                "Proposez un moment et une durée que l’autre peut accepter ou modifier.",
+                "Laissez les rôles suivants en discussion si vous ne souhaitez pas vous engager dès aujourd’hui."
+              ],
+              "benefit": "Une tâche choisie peut préserver votre place dans le projet tout en laissant une marge pour l’étape suivante."
+            },
+            {
+              "heading": "Apporter les jours d’après en consultation",
+              "objective": "Parler des effets de la honte sur votre participation avec votre thérapeute.",
+              "exercise": [
+                "Dites ce qui était terminé dans les faits.",
+                "Indiquez une chose que la honte vous a fait manquer ou envisager d’abandonner.",
+                "Choisissez une question à lui poser sur ce retour difficile."
+              ],
+              "benefit": "Votre thérapeute peut partir de ce qui a changé dans votre semaine sans vous demander de raconter la visite en détail."
+            }
+          ]
         }
       ],
       "ending_title": "« À vérifier », en gros",
-      "ending": "Au téléphone, Meriem apprend qu’Ève n’a rien promis aux personnes qui ont déposé les trois patrons. Elle lui propose deux étiquettes : « À vérifier » et « Copies à prendre ». Elle demande à venir vendredi soir, au moment où Dalila est encore à l’accueil, pour installer les bacs avec elle. Ève peut lui accorder vingt minutes, puis elle doit partir. Ève laisse l’heure sur le tableau avant de partir. Elles conviennent de décider vendredi qui accueille les premiers visiteurs. Meriem ne promet pas de parler devant le groupe. Elle a encore rendez-vous avec sa thérapeute avant de retrouver la table.",
+      "ending": "Au téléphone, Meriem apprend qu’Ève n’a rien promis aux personnes qui ont déposé les trois patrons. Elle lui propose « À vérifier » et « Copies à prendre » pour les deux étiquettes. Elle demande à venir vendredi soir, au moment où Dalila est encore à l’accueil, pour installer les bacs avec elle. Ève peut lui accorder vingt minutes, puis elle doit partir. Ève laisse l’heure sur le tableau avant de partir. Elles conviennent de décider vendredi qui accueille les premiers visiteurs. Meriem ne promet pas de parler devant le groupe. Elle a encore rendez-vous avec sa thérapeute avant de retrouver la table.",
       "mirror": [
-        "Ève peut lui dire à quoi ont servi les deux bacs et lui proposer un choix précis. « Je peux te retrouver vingt minutes vendredi pour la table. Samedi, je peux accueillir les gens ; qu’est-ce que tu voudrais garder ? » Elle peut rappeler ce qu’a confirmé Dalila au sujet de Rémi. En préparant sa part et en donnant sa disponibilité, elle laisse à Meriem la possibilité de répondre sans lui demander de se justifier."
+        "Ève peut lui dire ce qu’elle a pu préparer et ce qui reste à choisir. « J’ai sorti les bacs. J’ai vingt minutes vendredi pour les mettre en place avec toi. Pour l’accueil, on peut en reparler à ce moment-là. » Elle peut redire la décision de Dalila si Meriem pose la question et proposer une tâche sans conditionner sa place dans le projet à un récit de la visite."
       ],
       "sources": [
         "oms-cddr",
@@ -359,42 +814,99 @@
         "choice": "Meriem manque un jeudi, reprend sa place dans la préparation par les étiquettes et fixe un rendez-vous court avec Ève.",
         "next": "Avec sa thérapeute, elle met des mots sur le coût des jours qui ont suivi et discute de la suite de son suivi."
       },
-      "clinical_focus": "Honte persistante et retrait",
-      "clinical_intro": "Meriem sait que Rémi ne reviendra pas. En se rappelant sa propre voix, elle se juge si sévèrement qu’elle manque un jeudi et pense abandonner son rôle. Le TSPT complexe peut comporter un rapport à soi douloureux qui persiste après l’événement immédiat. L’épisode donne à voir le retrait qui en découle et ce qui permet de retrouver une place à son rythme."
+      "clinical_focus": "Retrait après une honte persistante",
+      "clinical_intro": "Meriem sait que Rémi ne reviendra pas. Elle se juge encore si sévèrement d’avoir demandé de l’aide qu’elle manque un jeudi et pense céder son rôle. Dans le TSPT complexe, le regard porté sur soi peut rester douloureux après l’événement et peser sur la participation à une activité que l’on souhaite pourtant poursuivre.",
+      "conclusion": "Meriem manque un jeudi et reprend une part de la préparation en choisissant les mots sur les bacs. L’envie de céder tout le projet ne décide plus de ce qu’elle fera vendredi. Les jours qu’elle vient de passer seront le point de départ de sa prochaine séance."
     },
     {
       "number": 9,
       "slug": "meriem-rendez-vous-du-mardi",
-      "title": "L’alliance thérapeutique quand Meriem redoute de poser une question difficile",
-      "description": "Meriem demande comment garder du temps pour ses questions de suivi et examine ce qui l’a conduite à manquer l’atelier.",
+      "title": "L’appréhension en séance quand une question reste pour la fin",
+      "description": "Meriem craint que poser sa question l’engage à raconter le passé. Elle demande à sa thérapeute un autre créneau et du temps pour en parler.",
       "context": "En séance avec sa thérapeute",
       "topics": [
-        "Alliance thérapeutique",
-        "Confiance",
-        "Continuité des soins"
+        "Appréhension des séances",
+        "Confiance dans le suivi",
+        "Rythme de la prise en charge"
       ],
-      "opening": "Le vendredi, Meriem arrive chez sa thérapeute avec le feutre qui servira à écrire « À vérifier ». Elle l’a glissé dans son sac avec le carnet de rendez-vous. Quand elle en retire le capuchon par habitude, elle se rappelle que l’encre traverse le papier. Ce soir, elle pensera à prendre un bout de carton pour faire les étiquettes. Parmi les patrons reçus par Ève, il y a un chapeau auquel il manque la deuxième taille. Son enveloppe sera la première à attendre dans le bac.\n\nElle a préparé deux phrases pour parler de la visite de Rémi. La première raconte que Dalila l’a raccompagné. La deuxième commence par « le lendemain ». Elle voudrait parler du temps qu’elle a passé à se reprocher d’avoir demandé de l’aide. La thérapeute lui demande par quoi elle souhaite commencer. Meriem ouvre son carnet, où elle a noté la première phrase en entier. Elle la laisse sous son pouce. « Je veux bien vous dire comment ça s’est terminé. Je veux surtout parler de ce que j’ai fait les jours d’après. »\n\nLa thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu’elle a renoncé à l’atelier jeudi alors que Rémi n’y serait pas, et qu’elle a presque renoncé aussi à présenter le projet. Quand elle a fini, elle demande si elles peuvent prendre le temps de discuter de la façon dont elles travaillent ensemble. Les rendez-vous s’achèvent souvent juste avant qu’elle doive ouvrir la salle. Il lui arrive de partir sans poser la question qu’elle avait gardée pour la fin.",
+      "opening": "Le vendredi, Meriem arrive chez sa thérapeute avec le feutre qui servira à écrire « À vérifier ». Elle l’a glissé dans son sac avec le carnet de rendez-vous. Quand elle en retire le capuchon par habitude, elle se rappelle que l’encre traverse le papier. Ce soir, elle pensera à prendre un bout de carton pour faire les étiquettes. Parmi les patrons reçus par Ève, il y a un chapeau auquel il manque la deuxième taille. Son enveloppe sera la première à attendre dans le bac.\n\nElle a préparé deux phrases pour parler de la visite de Rémi. La première raconte que Dalila l’a raccompagné. La deuxième commence par « le lendemain ». Elle voudrait parler du temps qu’elle a passé à se reprocher d’avoir demandé de l’aide. La thérapeute lui demande par quoi elle souhaite commencer. Meriem ouvre son carnet, où elle a noté la première phrase en entier. Elle la laisse sous son pouce. « Je veux bien vous dire comment ça s’est terminé. Je veux surtout parler de ce que j’ai fait les jours d’après. »\n\nLa thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu’elle a renoncé à l’atelier jeudi alors que Rémi n’y serait pas, et qu’elle a presque renoncé aussi à présenter le projet. Quand elle a fini, elle hésite à poser une question sur la façon dont elles travaillent ensemble. Elle craint qu’en parlant du rythme, elles en viennent directement à un souvenir qu’elle ne souhaite pas raconter aujourd’hui. Elle demande pourtant si elles peuvent prendre le temps d’en discuter. Les rendez-vous s’achèvent souvent juste avant qu’elle doive ouvrir la salle. Il lui arrive de partir sans poser la question qu’elle avait gardée pour la fin.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une place pour discuter de la façon de travailler",
-          "text": "Dans un suivi pour un stress post-traumatique complexe, il peut être utile de prendre du temps pour établir la confiance et comprendre ce qui rend une séance difficile à aborder. Le NICE invite à adapter le temps et le cadre aux besoins de la personne. Les obstacles peuvent tenir aux émotions, à la façon dont la personne se voit, à ses relations ou à ses conditions de vie."
+          "heading": "Quand la crainte freine la parole en séance",
+          "text": "Dans le suivi du TSPT complexe, l’appréhension, la honte ou la difficulté à faire confiance peuvent compliquer la discussion, même quand on souhaite être accompagné. Le NICE recommande aux professionnels de prévoir davantage de temps pour établir la confiance selon les besoins, et de tenir compte de ce qui rend l’accès au soin difficile.\n\nMeriem craint que poser une question sur le rythme l’amène à devoir raconter tout de suite quelque chose qu’elle ne veut pas aborder ce jour-là. Sa thérapeute peut expliquer les options et convenir avec elle du temps à réserver à ses questions. Les soins centrés sur le traumatisme se discutent avec une personne formée qui peut préciser ce qu’elle propose et pourquoi."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Meriem, il y a aussi un problème d’horaire : elle passe trop vite du cabinet à la salle où des personnes l’attendent.\n\nSa thérapeute, formée à la prise en charge du traumatisme, peut l’aider à revenir sur ce qui l’a conduite à manquer le jeudi et lui expliquer les options de soin. Le NICE recommande, selon la situation, des psychothérapies centrées sur le traumatisme, comme certaines thérapies cognitives et comportementales ou l’EMDR. Ces approches sont proposées par des professionnels formés. Le choix et la façon d’avancer se discutent avec la personne. L’échange de patrons, qui compte dans la vie de Meriem, ne tient pas lieu de traitement et ne mesure pas l’effet d’une séance."
+          "heading": "Comment l’appréhension peut-elle gêner le suivi ?",
+          "points": [
+            {
+              "heading": "La phrase préparée reste sous le pouce",
+              "text": "Même avec des mots déjà choisis, une personne peut hésiter à commencer par ce qui la préoccupe le plus.",
+              "examples": [
+                "Meriem couvre de son pouce la phrase sur la fin de la visite. Elle réussit à dire qu’elle voudrait parler des jours qui ont suivi.",
+                "Une personne peut apporter une note sur une semaine difficile et parler uniquement de l’heure du prochain rendez-vous en gardant sa note dans le sac."
+              ]
+            },
+            {
+              "heading": "Une question sur le soin est repoussée",
+              "text": "La crainte de ce que la réponse pourrait entraîner peut faire remettre une question utile sur le cadre ou le rythme.",
+              "examples": [
+                "Meriem garde souvent ses questions pour les dernières minutes. Celle sur la façon de choisir le rythme risque encore de rester sans réponse.",
+                "Quelqu’un à qui l’on présente une approche peut garder pour plus tard sa question sur ce qui se passerait s’il demandait une pause pendant une séance."
+              ]
+            },
+            {
+              "heading": "L’heure de départ raccourcit ce qu’on peut dire",
+              "text": "Un horaire serré peut ajouter un obstacle aux sujets qu’une personne hésite déjà à aborder.",
+              "examples": [
+                "Meriem doit souvent passer du cabinet à la salle où le groupe l’attend. Elle part avec la question qu’elle a gardée pour la fin.",
+                "Une personne qui doit attraper le dernier bus après la séance peut s’en tenir à ce qu’elle pense pouvoir dire avant de partir, même si elle aimerait parler du reste."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux rendez-vous qui ont chacun leur but",
-          "text": "Meriem peut demander de réserver un temps pour les questions sur le suivi et de déplacer un rendez-vous qui la met trop près de son service à l’atelier. Elle peut aussi dire qu’aujourd’hui elle souhaite parler des conséquences de la visite plutôt que d’autres événements. Sa thérapeute peut expliquer ce qu’elles pourraient travailler, dire quels créneaux elle a et convenir avec Meriem du point à reprendre la fois suivante.\n\nLe rendez-vous du vendredi avec Ève a un autre objet. Il suffit d’apporter le feutre, de choisir l’emplacement des bacs et de répartir les premiers accueils. Meriem peut décider si elle veut prévenir Ève de quelque chose sur la séance. Le programme du samedi peut s’écrire sans cette information. Une phrase sur ce que chacune pourra faire à la table suffit."
+          "heading": "3 techniques pour trouver une place à ses questions de suivi",
+          "points": [
+            {
+              "heading": "Annoncer ce qu’on souhaite aborder aujourd’hui",
+              "objective": "Donner à la professionnelle une entrée en matière qui corresponde à ce que vous vous sentez prêt à dire.",
+              "exercise": [
+                "Choisissez un sujet que vous souhaitez aborder, comme les jours qui ont suivi une visite.",
+                "Préparez une phrase qui indique ce que vous préférez remettre à un autre jour.",
+                "Dites ou montrez cette phrase au début, selon ce qui vous est le plus facile."
+              ],
+              "benefit": "La thérapeute peut partir de votre priorité et préciser avec vous ce que la séance permet d’aborder."
+            },
+            {
+              "heading": "Poser une question sur la façon de travailler",
+              "objective": "Mieux comprendre comment les décisions de soin se prennent ensemble.",
+              "exercise": [
+                "Choisissez une question sur le rythme ou le contenu proposé.",
+                "Demandez un temps pour en parler en début de séance.",
+                "Demandez ce que vous pouvez signaler si vous avez besoin de ralentir ou de faire une pause."
+              ],
+              "benefit": "Connaître les possibilités de discussion peut rendre le suivi plus compréhensible. Les décisions sur le traitement se prennent avec la professionnelle."
+            },
+            {
+              "heading": "Prévoir un créneau qui laisse du temps",
+              "objective": "Réduire l’effet d’une contrainte qui écourte la discussion.",
+              "exercise": [
+                "Dites ce qui vous oblige à partir rapidement après la séance.",
+                "Demandez s’il existe un horaire plus praticable pour vous.",
+                "Confirmez le créneau et ce que vous voulez aborder en premier."
+              ],
+              "benefit": "Le changement peut enlever une difficulté concrète. Il n’a pas besoin de régler à lui seul la crainte de poser une question."
+            }
+          ]
         }
       ],
       "ending_title": "Le chapeau attend sa deuxième taille",
-      "ending": "Meriem retient le prochain mardi et demande qu’elles commencent par la question qu’elle n’a pas encore posée : comment décider ensemble du moment où elles aborderont ce qui lui est difficile ? En fin de journée, elle trace les mots sur du carton. Ève place l’enveloppe du chapeau dans le bac « À vérifier » et montre deux endroits où la table pourrait tenir. Meriem choisit celui où l’on peut faire le tour avec une poussette. Elles décident qu’Ève recevra les visiteurs et que Meriem expliquera les patrons à celles et ceux qui le souhaitent. À la vingtième minute, Ève remet son manteau. Les deux étiquettes sont à l’endroit.",
+      "ending": "Sa thérapeute lui propose le prochain mardi, en dehors des heures d’ouverture de l’atelier. Meriem accepte et demande de commencer mardi par la question qui lui reste. « Comment on décide ensemble du moment où on aborde ce qui m’est difficile ? » Sa thérapeute le note. En fin de journée, Meriem trace les mots sur du carton. Ève place l’enveloppe du chapeau dans le bac « À vérifier » et montre deux endroits où la table pourrait tenir. Meriem choisit celui où l’on peut faire le tour avec une poussette. Elles décident qu’Ève recevra les visiteurs et que Meriem expliquera les patrons à celles et ceux qui le souhaitent. À la vingtième minute, Ève remet son manteau. Les deux étiquettes sont à l’endroit.",
       "mirror": [
-        "Si Meriem mentionne le rendez-vous, Ève peut lui laisser la main sur ce qu’elle raconte. « Pour samedi, je prends l’accueil. Tu me dis si tu préfères les explications à la table ou la vérification des copies. » Elle peut rappeler qu’elle a vingt minutes ce vendredi et tenir ce délai. Les questions de soin restent entre Meriem et les professionnels qu’elle choisit d’y associer."
+        "Ève peut accueillir ce que Meriem souhaite dire de sa séance et préciser ce qui la concerne elle. « J’ai vingt minutes pour les bacs. Samedi, je prends l’accueil. Tu veux expliquer les patrons ou t’occuper des copies ? » Elle peut tenir cet accord qu’elles parlent ou non du rendez-vous. Les questions sur le soin peuvent rester entre Meriem et sa thérapeute."
       ],
       "sources": [
         "oms-cddr",
@@ -404,42 +916,99 @@
         "choice": "Meriem obtient un autre créneau de suivi, prépare ses questions et fixe avec Ève leurs rôles pour l’ouverture.",
         "next": "Pendant le premier échange, une question sur le patron de la pochette met leur répartition à l’épreuve."
       },
-      "clinical_focus": "Confiance dans le suivi",
-      "clinical_intro": "Meriem s’apprête souvent à quitter le cabinet au moment où elle aurait enfin une question sur la séance. Dans le suivi d’un TSPT complexe, du temps pour construire la confiance et un rythme praticable peuvent aider à aborder des difficultés qu’on n’a pas encore dites. Meriem demande à sa thérapeute comment aménager leurs rendez-vous pour y faire une place."
+      "clinical_focus": "Appréhension dans le suivi du trauma",
+      "clinical_intro": "Meriem quitte souvent le cabinet sans avoir posé la question qui lui reste sur la séance. Dans le suivi d’un TSPT complexe, l’appréhension et le manque de temps peuvent rendre plus difficile le fait de parler de ce qui gêne. Meriem demande à sa thérapeute comment ménager un moment pour discuter du rythme et choisir ce qu’elles vont aborder.",
+      "conclusion": "Meriem obtient un rendez-vous où il sera possible de commencer par sa question sur le rythme. La préparation de l’échange suit son propre cours. Quand elle retrouve Ève et les deux bacs, elles peuvent décider qui fera quoi le samedi."
     },
     {
       "number": 10,
       "slug": "meriem-marge-comprise",
-      "title": "Régulation émotionnelle quand une question de couture sonne comme un reproche",
-      "description": "Meriem comprend que Joël parle du patron. L’agacement et la honte restent présents et lui demandent du temps avant de répondre.",
+      "title": "Quand l’émotion tarde à retomber après une question de couture",
+      "description": "Meriem comprend que Joël cherche la marge de couture. L’agacement et la honte persistent et lui demandent du temps avant de répondre.",
       "context": "Le samedi de l’ouverture",
       "topics": [
-        "Réactivité émotionnelle",
-        "Honte",
-        "Retour à l’échange"
+        "Régulation émotionnelle",
+        "Réaction vive à une question",
+        "Retour à l’apaisement"
       ],
-      "opening": "À 10 h 12, il ne reste qu’une pochette modèle sur la table. L’autre, au demi-soleil vert, est passée entre cinq mains et Chloé a dû la réclamer pour montrer comment elle rentrait dans son sac. Une femme prend une feuille sans rien déposer. Ève lui confirme que c’est possible. La femme repart chercher sa fille, qui sait tracer des cercles mieux qu’elle.\n\nJoël, venu avec le patron du chapeau, approche sa chaise. Il a apporté la deuxième taille dans une chemise bleue. Pendant qu’Ève vérifie les deux feuilles, il prend la copie de la pochette aux trois chutes. « Tu as mis la marge de couture ? » Meriem a entendu « tu as oublié » avant même d’avoir vu le doigt de Joël sur la ligne. Elle lui répond que tout est écrit. Puis elle suit son doigt et voit qu’il n’y a, à cet endroit, qu’un trait interrompu. La mention se trouve sur le rabat, dessiné au verso. Personne n’a encore regardé de ce côté.\n\nLa chaleur qui lui est montée au visage reste là. Elle voudrait se lever, et aussi lui demander pourquoi il ne retourne pas la feuille. Elle voit qu’il retourne déjà la feuille de lui-même. De l’autre côté de la table, la femme revient avec sa fille. Il leur faudra la même indication. Meriem cherche son feutre, le trouve à côté du bac et le laisse une seconde sur la table. Elle pourrait demander à Ève de prendre les deux prochaines arrivées, le temps de réécrire une ligne.",
+      "opening": "À 10 h 12, il ne reste qu’une pochette modèle sur la table. L’autre, au demi-soleil vert, est passée entre cinq mains et Chloé a dû la réclamer pour montrer comment elle rentrait dans son sac. Une femme prend une feuille sans rien déposer. Ève lui confirme que c’est possible. La femme repart chercher sa fille, qui sait tracer des cercles mieux qu’elle.\n\nJoël, venu avec le patron du chapeau, approche sa chaise. Il a apporté la deuxième taille dans une chemise bleue. Pendant qu’Ève vérifie les deux feuilles, il prend la copie de la pochette aux trois chutes. « Tu as mis la marge de couture ? » Meriem entend un reproche dans sa question, comme s’il avait dit « tu as oublié », avant même de voir son doigt sur la ligne. Elle lui répond que tout est écrit. Puis elle suit son doigt et voit qu’il n’y a, à cet endroit, qu’un trait interrompu. La mention se trouve sur le rabat, dessiné au verso. Personne n’a encore regardé de ce côté.\n\nLa chaleur qui lui est montée au visage reste là. Elle voudrait se lever, et aussi lui demander pourquoi il ne retourne pas la feuille. Elle voit qu’il retourne déjà la feuille de lui-même. De l’autre côté de la table, la femme revient avec sa fille. Il leur faudra la même indication. Meriem cherche son feutre, le trouve à côté du bac et le laisse une seconde sur la table. Elle pourrait demander à Ève de prendre les deux prochaines arrivées, le temps de réécrire une ligne.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le temps que met une émotion à retomber",
-          "text": "La régulation émotionnelle concerne entre autres la façon dont une émotion monte et le temps qu’elle met à retomber. Dans le stress post-traumatique complexe, ces difficultés peuvent prendre une place durable."
+          "heading": "Comprendre la question avant que l’émotion retombe",
+          "text": "La régulation émotionnelle concerne notamment la vitesse à laquelle une émotion monte et le temps qu’elle met à retomber. Les difficultés dans ce domaine peuvent être marquées et durables dans le TSPT complexe. Meriem comprend que Joël cherche où couper la feuille alors que la chaleur et l’agacement sont encore là.\n\nUne réponse sèche peut avoir toutes sortes de causes. Dans cet échange, la difficulté visible est le décalage entre ce que Meriem comprend et le moment où elle peut répondre autrement. Joël s’en tient au patron et lui laisse le temps de le vérifier. Meriem peut reprendre sa réponse sans que l’émotion ait entièrement disparu."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Meriem, l’agacement et la honte restent présents quand elle a compris que Joël posait une question de couture. Le fait de comprendre la question et le fait de se sentir prête à y répondre n’arrivent pas forcément au même moment.\n\nUne réponse sèche dans un lieu de travail a bien d’autres explications possibles. Elle peut aussi avoir un effet sur la personne qui l’entend. Joël a le droit de demander ce que signifie le trait et Meriem peut reprendre sa réponse. La scène montre un désaccord très différent de la demande de Rémi : Joël parle de la copie qu’il a en main et laisse Meriem s’en occuper. La distinction aide à choisir l’action utile, sans devoir expliquer à Joël son dossier de santé."
+          "heading": "Comment une émotion qui tarde à retomber change-t-elle l’échange ?",
+          "points": [
+            {
+              "heading": "La première réponse part trop vite",
+              "text": "L’émotion peut donner un sens à la question avant que la personne ait eu le temps de regarder ce que l’autre lui montre.",
+              "examples": [
+                "Meriem entend un reproche et répond que tout est écrit avant de suivre le doigt de Joël sur le patron.",
+                "Au travail, quelqu’un peut entendre « On reprend ce point ? » comme une critique et répondre sèchement avant que sa collègue ait montré de quel passage elle parle."
+              ]
+            },
+            {
+              "heading": "Les faits deviennent clairs, l’élan reste",
+              "text": "Comprendre la situation peut prendre un instant. La chaleur, l’agacement ou l’envie de s’éloigner peuvent durer davantage.",
+              "examples": [
+                "Joël retourne lui-même la feuille. Meriem comprend qu’il cherche la marge, mais elle a encore envie de lui reprocher de ne pas avoir regardé au verso.",
+                "Après avoir compris qu’un proche voulait vérifier l’heure et ne lui reprochait aucun retard, une personne peut avoir encore besoin de temps avant de reprendre la conversation."
+              ]
+            },
+            {
+              "heading": "La difficulté déborde sur ce qui suit",
+              "text": "Pendant que l’émotion reste vive, répondre à une deuxième personne ou reprendre la tâche peut coûter davantage.",
+              "examples": [
+                "Quand la femme revient avec sa fille, Meriem laisse le feutre sur la table un instant. Elle comprend qu’elle devra donner la même indication et demande un relais.",
+                "Après une question ressentie comme un reproche, quelqu’un peut rester sur le même ton avec la personne suivante qui lui demande où déposer son dossier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Changer la copie et reprendre la conversation",
-          "text": "Meriem peut proposer une phrase précise à ajouter au recto et demander à Joël si elle répond à sa question. Elle peut reconnaître que sa réponse a été brusque et dire ce qu’elle va faire maintenant. Ève peut accueillir les prochaines personnes si elle en a la possibilité. Si elle est déjà occupée avec les patrons du chapeau, elles peuvent laisser un panneau et demander aux gens d’attendre un instant.\n\nDans le suivi, le NICE invite les professionnels à tenir compte des difficultés à faire face aux émotions si elles compliquent l’accès aux soins. Meriem pourra y raconter le délai entre le moment où elle a compris et le moment où elle a pu reparler de la feuille. À l’atelier, ces quelques minutes servent surtout à rendre les copies compréhensibles. Joël peut alors décider s’il souhaite en prendre une."
+          "heading": "3 techniques pour reprendre une réponse quand l’émotion dure",
+          "points": [
+            {
+              "heading": "Mettre la tâche en pause un instant",
+              "objective": "Se laisser une marge avant de devoir répondre à une nouvelle demande.",
+              "exercise": [
+                "Repérez ce qui peut attendre quelques instants.",
+                "Si quelqu’un est disponible, demandez-lui une aide précise et de courte durée.",
+                "Annoncez à quel moment vous pourrez revenir ou donner une réponse."
+              ],
+              "benefit": "Un relais bref peut laisser le temps de reprendre la tâche sans attendre que toute la tension soit passée."
+            },
+            {
+              "heading": "Revenir à ce que l’autre demande",
+              "objective": "Retrouver la question en cours avant de répondre à ce qu’on a cru entendre.",
+              "exercise": [
+                "Demandez à l’autre de montrer l’endroit qui pose problème.",
+                "Reformulez sa question en une phrase.",
+                "Proposez une réponse ou dites quand vous pourrez la donner."
+              ],
+              "benefit": "Un détail visible, comme le trait au recto, peut aider les deux personnes à parler du même problème."
+            },
+            {
+              "heading": "Reprendre une réponse qui a été brusque",
+              "objective": "Réparer ce qui s’est joué dans l’échange sans dévoiler des informations de santé.",
+              "exercise": [
+                "Quand vous vous sentez disponible, nommez ce que vous venez de faire ou de dire.",
+                "Donnez la réponse que vous vouliez apporter au départ.",
+                "Demandez si elle suffit ou si l’autre a encore besoin d’une précision."
+              ],
+              "benefit": "Une reprise brève peut rouvrir l’échange même si l’émotion demeure. Si ce décalage complique souvent vos relations, vous pouvez en parler à un professionnel."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait noir au recto",
-      "ending": "« Ève, tu peux leur montrer les bacs ? Je termine la copie. » Ève se tourne vers la femme et sa fille. Meriem reprend la feuille et écrit au feutre : « Marge comprise. Couper sur le trait extérieur. » Elle dit à Joël qu’elle lui a répondu trop vite. Il lui montre l’endroit où il avait cherché. Meriem y reporte la même mention sur les autres copies. Joël repart avec une pochette à faire et laisse ses deux tailles à la table. Ève note sur la chemise bleue qu’il accepte les copies à emporter pour coudre chez soi. Pour toute transmission à d’autres personnes, il veut qu’on lui demande. À midi, ils comptent onze copies parties. Chloé propose de faire une deuxième session le mois prochain. Meriem a encore chaud quand elle lui demande quel samedi elle aurait en tête.",
+      "ending": "« Ève, tu peux leur montrer les bacs ? Je termine la copie. » Ève se tourne vers la femme et sa fille. Meriem reprend la feuille et écrit au feutre : « Marge comprise. Couper sur le trait extérieur. » Elle dit à Joël qu’elle lui a répondu trop vite. Il lui montre l’endroit où il avait cherché. Meriem y reporte la même mention sur les autres copies. Joël repart avec une pochette à faire et laisse ses deux tailles à la table. Ève note sur la chemise bleue qu’il accepte les copies à emporter pour coudre chez soi. Pour toute transmission à d’autres personnes, il veut qu’on lui demande. À midi, ils comptent onze copies parties. Chloé propose de faire une deuxième session le mois prochain. Meriem sent encore la chaleur lui revenir aux joues par moments. Elle demande à Chloé quel samedi elle aurait en tête.",
       "mirror": [
-        "Joël peut maintenir sa question sur la marge, puis laisser Meriem relire la copie. « J’avais cherché au recto. Si tu l’écris à côté du trait, je le verrai. » Ève peut prendre l’accueil pendant ce court échange si elle est libre. Elle peut dire quand elle a de nouveau besoin de Meriem à la table, sans raconter l’épisode de Rémi ni décider à sa place de ce qu’elle peut expliquer."
+        "Joël peut maintenir sa question et montrer ce qu’il cherchait. « J’avais regardé au recto. Si tu l’écris à côté du trait, je le verrai. » Ève peut prendre deux arrivées si elle est libre ou prévenir que les prochaines personnes devront attendre. Meriem garde la possibilité de reprendre sa réponse elle-même quand elle le peut."
       ],
       "sources": [
         "oms-cddr",
@@ -449,42 +1018,99 @@
         "choice": "Meriem demande un relais bref, reprend sa réponse à Joël et clarifie le patron. La première session va jusqu’au bout.",
         "next": "Une copie circule plus loin que ce qui avait été convenu, ce qui les oblige à préciser le partage pour la suite."
       },
-      "clinical_focus": "Régulation émotionnelle après un rappel",
-      "clinical_intro": "Meriem comprend que Joël parle d’un trait de couture, mais son corps et ses émotions restent mobilisés par le reproche qu’elle a cru entendre. Des difficultés durables de régulation émotionnelle font partie du TSPT complexe. Dans la scène, un relais bref lui donne le temps de retrouver la question, de préciser la copie et de reprendre l’échange."
+      "clinical_focus": "Émotion qui tarde à retomber",
+      "clinical_intro": "Meriem comprend que Joël parle d’un trait de couture, mais l’agacement et la honte persistent après le reproche qu’elle a cru entendre. Les difficultés de régulation émotionnelle font partie du TSPT complexe. Un bref relais lui permet de retrouver la question et de reprendre l’échange, alors même que l’émotion n’a pas fini de retomber.",
+      "conclusion": "Meriem a eu besoin de plus de temps pour répondre que pour comprendre la question de Joël. Avec le relais d’Ève, elle clarifie la marge et reprend l’échange avec Joël. La première session va jusqu’au bout et la chemise bleue garde la règle de partage qui comptera la prochaine fois."
     },
     {
       "number": 11,
       "slug": "meriem-chemise-bleue",
-      "title": "Anticiper une rupture après un désaccord quand le lien avec Joël compte",
+      "title": "Anticiper une rupture avant de parler d’un désaccord",
       "description": "Une copie a circulé au-delà de l’accord. Meriem pense que Joël va quitter le projet avant de lui avoir expliqué la situation.",
       "context": "Au jeudi qui suit le premier échange",
       "topics": [
-        "Anticipation de rupture",
-        "Retrait relationnel",
-        "Réparation du lien"
+        "Anticipation d’une rupture",
+        "Maintien du lien",
+        "Désaccord et choix de partage"
       ],
-      "opening": "Lila revient avec sa mère et un chapeau en toile à fleurs. Une moitié du bord rebique. Elle demande si le petit trait au crayon signifie qu’il faut plier. Meriem se rapproche pour voir le trait. Lila ouvre son téléphone et agrandit la photo qu’elle a prise du patron, parce que sa feuille est restée chez elle. En haut de l’image, Meriem reconnaît la ligne de Joël pour le tour de tête. Tout le dessin est lisible.\n\nLila raconte que sa tante lui a expliqué comment faire le bord dans la conversation de famille où elle avait mis la photo. Elle montre même la réponse, une flèche tracée en rose sur l’image. Elle ne comprend pas tout de suite pourquoi Meriem lui demande si la photo a été envoyée à d’autres personnes. Sa mère répond qu’elles pensaient pouvoir la partager, puisqu’Ève les avait laissées emporter une copie. Meriem ouvre la chemise bleue et y retrouve l’accord de Joël. La mention est sur le rabat de la chemise. Il n’y en a aucune sur la feuille que les gens ont prise.\n\nMeriem se voit déjà lui annoncer que leur échange n’aura pas de deuxième samedi. Elle pense aussi à attendre qu’il découvre la photo lui-même. Sa main hésite au-dessus du bac. Puis elle tire les copies du chapeau, demande à Lila de mettre le téléphone de côté un instant et pose les feuilles près d’Ève. Elle a le numéro que Joël lui a donné pour le prévenir au sujet des deux tailles. Elle a besoin de décider avec Ève ce qu’elles vont lui dire.",
+      "opening": "Lila revient avec sa mère et un chapeau en toile à fleurs. Une moitié du bord rebique. Elle demande si le petit trait au crayon signifie qu’il faut plier. Meriem se rapproche pour voir le trait. Lila ouvre son téléphone et agrandit la photo qu’elle a prise du patron, parce que sa feuille est restée chez elle. En haut de l’image, Meriem reconnaît la ligne de Joël pour le tour de tête. Tout le dessin est lisible.\n\nLila raconte que sa tante lui a expliqué comment faire le bord dans la conversation de famille où elle avait mis la photo. Elle montre même la réponse, une flèche tracée en rose sur l’image. Elle ne comprend pas tout de suite pourquoi Meriem lui demande si la photo a été envoyée à d’autres personnes. Sa mère répond qu’elles pensaient pouvoir la partager, puisqu’Ève les avait laissées emporter une copie. Meriem ouvre la chemise bleue et y retrouve l’accord de Joël. La mention est sur le rabat de la chemise. Il n’y en a aucune sur la feuille que les gens ont prise.\n\nMeriem croit déjà que Joël ne lui confiera plus de patron et qu’il ne voudra plus lui parler. Elle se voit lui annoncer que leur échange n’aura pas de deuxième samedi. Elle pense aussi à attendre qu’il découvre la photo lui-même. Sa main hésite au-dessus du bac. Puis elle tire les copies du chapeau, demande à Lila de mettre le téléphone de côté un instant et pose les feuilles près d’Ève. Elle a le numéro que Joël lui a donné pour le prévenir au sujet des deux tailles. Elle a besoin de décider avec Ève ce qu’elles vont lui dire.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le retrait quand on s’attend déjà à perdre le lien",
-          "text": "Les difficultés à entretenir des relations peuvent être durables dans le stress post-traumatique complexe. Elles peuvent se manifester par une tendance à prendre ses distances, y compris quand le lien compte pour la personne."
+          "heading": "Attendre la rupture avant d’avoir parlé à l’autre",
+          "text": "Les difficultés à maintenir des liens peuvent durer dans le TSPT complexe. Chez Meriem, un incident qui peut contrarier quelqu’un lui donne tout de suite l’impression qu’elle va perdre le lien. Elle envisage alors de prendre ses distances avant de savoir comment l’autre veut répondre. Cette façon d’anticiper une rupture décrit son vécu dans la scène. Elle ne suffit pas à reconnaître un trouble chez quelqu’un.\n\nLa copie a bien circulé au-delà de l’accord. Il faut prévenir Joël et lui laisser décider ce qu’il souhaite faire de son patron. Imaginer qu’il quittera l’échange ne donne aucune réponse à ces deux questions."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la scène, Meriem anticipe la rupture avant d’avoir parlé à Joël. Elle a déjà renoncé à des relations qu’elle aurait préféré garder. Le fait qu’elle s’attende à perdre celle-ci ne dit pas comment Joël recevra la nouvelle. Il y a une situation à lui expliquer et des choix qui lui reviennent.\n\nLa confiance peut être en jeu dans un désaccord ordinaire comme dans une situation plus grave. Ici, Lila pensait que la copie pouvait circuler ; elle n’avait pas lu ce qui était écrit sur la chemise. C’est différent de la visite de Rémi, où la limite avait été dite deux fois. Meriem peut reconnaître l’effet de leur organisation sur Joël, et Joël peut maintenir ou revoir les conditions qu’il avait données. Le diagnostic de Meriem ne sert pas à décider lequel des deux a le droit d’être contrarié."
+          "heading": "Comment l’attente d’une rupture pèse-t-elle sur un désaccord ?",
+          "points": [
+            {
+              "heading": "La décision de l’autre paraît déjà prise",
+              "text": "La personne peut avoir l’impression de connaître l’issue de la conversation avant d’avoir donné les faits.",
+              "examples": [
+                "Meriem s’imagine annoncer à Joël la fin du projet avant même de lui avoir expliqué où la photo a circulé.",
+                "Après avoir oublié d’inclure un proche dans un message de groupe, quelqu’un peut être convaincu qu’il ne voudra plus le voir alors qu’il ne lui en a pas encore parlé."
+              ]
+            },
+            {
+              "heading": "Le contact est retardé pour éviter cette issue",
+              "text": "La perspective d’entendre un refus ou un reproche peut faire remettre la conversation, alors que l’autre a une décision à prendre.",
+              "examples": [
+                "Meriem envisage de laisser Joël découvrir la photo tout seul, alors qu’elle a son numéro et qu’ils peuvent parler de la suite du partage.",
+                "Une personne peut repousser le moment d’appeler une amie au sujet d’un objet abîmé, parce qu’elle s’attend à perdre son amitié dès qu’elle lui donnera la nouvelle."
+              ]
+            },
+            {
+              "heading": "On songe à annuler davantage que ce qui est en jeu",
+              "text": "La rupture anticipée peut amener à renoncer à des projets qui ne sont pas encore compromis.",
+              "examples": [
+                "Meriem pense à annuler le deuxième samedi alors qu’elle peut mettre le chapeau de côté et maintenir les autres patrons selon leurs conditions.",
+                "Après un désaccord sur le texte d’une affiche, quelqu’un peut vouloir renoncer à toute une activité de groupe alors que seule la prochaine version du texte est à décider."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Remettre la règle là où l’on prend la feuille",
-          "text": "Le premier geste possible est de mettre les copies restantes de côté. Meriem et Ève peuvent expliquer à Joël où l’image a été envoyée et lui demander ce qu’il préfère pour la suite. Lila peut retirer la photo si elle le peut et demander aux destinataires de ne pas la transmettre ou de la supprimer s’ils l’ont enregistrée. Personne ne peut lui promettre que toute copie disparaîtra. Pour les prochains patrons, les conditions choisies par chaque personne peuvent être imprimées sur la feuille elle-même et expliquées avant qu’on la prenne.\n\nLe NICE mentionne les difficultés relationnelles parmi les points qui peuvent demander un appui dans les soins. Meriem pourra parler en séance du moment où elle a voulu annuler l’échange entier. Avec Ève, elle a surtout besoin de préciser qui appelle Joël et ce que le groupe fera des copies déjà préparées."
+          "heading": "3 techniques pour traiter le désaccord avant de conclure sur le lien",
+          "points": [
+            {
+              "heading": "Mettre à part ce qui est certain",
+              "objective": "Distinguer les faits du scénario que l’on redoute et agir sur ce qui peut l’être.",
+              "exercise": [
+                "Relevez l’accord tel qu’il avait été donné.",
+                "Notez ce qui a effectivement circulé et les éléments dont vous ne savez rien.",
+                "Mettez de côté les copies encore sous votre contrôle avant de prendre d’autres décisions."
+              ],
+              "benefit": "Cette première action peut empêcher de nouvelles copies de partir de la table et prépare une explication précise."
+            },
+            {
+              "heading": "Rendre la décision à la personne concernée",
+              "objective": "Donner à Joël les faits et les choix qui lui reviennent.",
+              "exercise": [
+                "Convenez avec Ève de qui appelle et de ce que chacun a pu vérifier.",
+                "Expliquez la diffusion et les demandes d’effacement déjà faites.",
+                "Demandez à Joël ce qu’il souhaite pour les copies restantes et celles de la prochaine séance."
+              ],
+              "benefit": "La réponse de l’autre peut orienter la suite réelle du projet. Elle peut comprendre un refus ou un accord sous conditions."
+            },
+            {
+              "heading": "Préparer une règle visible à l’endroit où elle sert",
+              "objective": "Garder une possibilité de travailler ensemble avec une consigne lisible.",
+              "exercise": [
+                "Proposez un emplacement pour les conditions sur chaque copie.",
+                "Faites relire la formulation à la personne qui décide du partage.",
+                "Attendez son accord avant de remettre son document à disposition."
+              ],
+              "benefit": "Le groupe peut traiter le problème qui s’est posé sans faire dépendre les autres contributions de la réponse d’une seule personne."
+            }
+          ]
         }
       ],
       "ending_title": "Au bas de chaque feuille",
-      "ending": "Ève reste avec Lila et sa mère, qui retirent l’image du groupe et demandent aux destinataires d’effacer les éventuelles copies. Meriem appelle Joël après l’atelier. Elle lui dit où était écrite la condition. Il veut que le chapeau reste de côté jusqu’à ce qu’il ait vu la nouvelle mention. Elle lui propose de relire une épreuve jeudi prochain. Les autres patrons pourront partir une fois leurs indications vérifiées. Meriem remet les feuilles de Joël dans la chemise bleue. En bas d’une copie de sa propre pochette, elle dessine deux lignes : une pour le nom, si on souhaite le mettre, et une pour l’usage qu’on autorise.",
+      "ending": "Ève reste avec Lila et sa mère, qui retirent l’image du groupe et demandent aux destinataires d’effacer les éventuelles copies. Meriem appelle Joël après l’atelier. Elle lui dit où était écrite la condition. Il veut que le chapeau reste de côté jusqu’à ce qu’il ait vu la nouvelle mention. Elle lui propose de relire une épreuve jeudi prochain et il accepte. Meriem n’a pas à décider du reste de l’échange pendant cet appel. Les autres patrons pourront partir une fois leurs indications vérifiées. Meriem remet les feuilles de Joël dans la chemise bleue. En bas d’une copie de sa propre pochette, elle dessine une ligne pour le nom, si on souhaite le mettre, et une autre pour l’usage qu’on autorise.",
       "mirror": [
-        "Ève peut prendre une part de la réparation : « Je demande à Lila et à sa mère ce qu’elles peuvent faire pour la photo. Tu préfères que j’appelle Joël avec toi ou que je te laisse lui expliquer ? » Elle peut s’accorder avec Meriem sur les faits à donner et sur les copies à retirer. Joël décide de ce qu’il autorisera à l’avenir. Lila et sa mère peuvent dire à qui elles ont demandé d’effacer l’image, sans garantir que chaque copie a disparu."
+        "Ève peut prendre une part de la réponse. « Je demande à Lila et à sa mère ce qu’elles peuvent faire pour la photo. Tu préfères que j’appelle Joël avec toi ou que je te laisse lui expliquer ? » Elles peuvent préparer les faits et laisser Joël décider de la suite. Lila et sa mère peuvent retirer l’image du groupe et demander qu’elle soit effacée sans garantir que toutes les copies disparaîtront."
       ],
       "sources": [
         "oms-cddr",
@@ -495,41 +1121,98 @@
         "next": "Pour le deuxième samedi, Joël décide de la suite et Meriem choisit ce qu’elle fait figurer sur son propre patron."
       },
       "clinical_focus": "Anticipation d’une rupture relationnelle",
-      "clinical_intro": "Quand une photo circule au-delà de l’accord, Meriem s’attend à perdre le lien avec Joël. Les difficultés relationnelles qui peuvent durer dans le TSPT complexe donnent un contexte à son envie de se retirer avant de lui avoir parlé. La diffusion de la photo demande aussi une réponse concrète. La scène montre comment expliquer le problème et redonner à l’autre sa part de décision."
+      "clinical_intro": "Une photo a circulé au-delà de l’accord et Meriem s’attend déjà à perdre le lien avec Joël. Dans le TSPT complexe, la difficulté à garder les liens peut durer, y compris quand une relation compte. Le désaccord appelle une réponse concrète, et seul Joël peut dire ce qu’il souhaite pour le chapeau après avoir reçu les faits.",
+      "conclusion": "Meriem redoutait de perdre le lien avec Joël. En l’appelant, elle a pu lui laisser la décision sur le chapeau. Il attend de voir une nouvelle épreuve avant de choisir. Le deuxième samedi pourra accueillir des patrons dont les auteurs ont choisi des conditions différentes."
     },
     {
       "number": 12,
       "slug": "meriem-un-nom-et-une-date",
-      "title": "Poursuivre une activité qui compte malgré le retentissement du trauma",
-      "description": "Meriem ouvre l’échange même si un bruit la fait trembler. Elle choisit ses appuis, sa place à l’accueil et ce qu’elle rend public.",
+      "title": "L’effort invisible pour tenir une activité qui compte",
+      "description": "Meriem assure l’accueil malgré une main tremblante. Son rôle préparé et le relais d’Ève montrent ce que l’échange lui demande encore.",
       "context": "Le deuxième samedi d’échange",
       "topics": [
-        "Retentissement persistant",
-        "Participation sociale",
-        "Poursuite du suivi"
+        "Effort pour maintenir une activité",
+        "Retentissement au quotidien",
+        "Appuis dans la durée"
       ],
-      "opening": "Avant de sortir les bacs, Meriem mesure le carré sur une feuille neuve. Cinq centimètres. Le mot « marge » se trouve au recto, près du trait. En bas, elle a écrit « Meriem », à la main sur l’original, puis elle a fait les copies. Sur la ligne suivante, elle a indiqué qu’on peut transmettre une copie de ce patron en gardant la feuille entière. Elle a passé plus de temps à décider si elle mettait son prénom qu’à tracer la poche. Elle aime voir qui a dessiné une pièce. Ce matin, elle a envie qu’on puisse le lui demander.\n\nJoël a relu l’épreuve jeudi. Il a remis les deux tailles dans le bac avec une mention différente : une copie pour coudre chez soi ; si quelqu’un d’autre en veut une, il peut en chercher à la table. Meriem lui avait demandé si le nom devait figurer en bas. Il a gardé ses initiales. Ils ont mesuré ensemble le tour des deux chapeaux dessinés. Depuis ce matin, les copies de Joël et celles de Meriem sont côte à côte.\n\nAu moment où Dalila ouvre les portes, une chaise racle le sol. Meriem lâche le bord de la table. Sa main tremble encore quand Ève lui tend le feutre. Elle montre la liste des heures et indique qu’elle prendra l’accueil jusqu’à onze heures, comme convenu. Chloé arrive avec la nappe pliée. Il en reste de quoi faire deux poches. Meriem lui demande de lui garder un coin et lui montre la petite table où elles pourront s’asseoir à onze heures.",
+      "opening": "Avant de sortir les bacs, Meriem mesure le carré sur une feuille neuve. Cinq centimètres. Le mot « marge » se trouve au recto, près du trait. En bas, elle a écrit « Meriem », à la main sur l’original, puis elle a fait les copies. Sur la ligne suivante, elle a indiqué qu’on peut transmettre une copie de ce patron en gardant la feuille entière. Elle a passé plus de temps à décider si elle mettait son prénom qu’à tracer la poche. Elle aime voir qui a dessiné une pièce. Ce matin, elle a envie qu’on puisse le lui demander.\n\nJoël a relu l’épreuve jeudi. Il a remis les deux tailles dans le bac avec une nouvelle mention. Chacun peut prendre une copie pour coudre chez soi. Si quelqu’un d’autre en veut une, il peut venir la chercher à la table. Meriem lui avait demandé si le nom devait figurer en bas. Il a gardé ses initiales. Ils ont mesuré ensemble le tour des deux chapeaux dessinés. Depuis ce matin, les copies de Joël et celles de Meriem sont côte à côte.\n\nAu moment où Dalila ouvre les portes, une chaise racle le sol. Meriem lâche le bord de la table. Sa main tremble encore quand Ève lui tend le feutre. Elle montre la liste des heures et indique qu’elle prendra l’accueil jusqu’à onze heures, comme convenu. Chloé arrive avec la nappe pliée. Il en reste de quoi faire deux poches. Meriem lui demande de lui garder un coin et lui montre la petite table où elles pourront s’asseoir à onze heures.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Repérer l’effort qui reste derrière une activité retrouvée",
-          "text": "Le stress post-traumatique complexe peut garder un retentissement même quand une personne tient une activité qui lui importe. L’effort pour accomplir une tâche ou rester en relation peut passer inaperçu quand on regarde seulement ce que la personne a réussi à faire. Meriem reconnaît le bruit d’une chaise et sa main tremble ; ce détail ne dit ni tout ce qu’elle ressent ni où elle en est dans son suivi. Ce matin, elle a préparé les copies, prévu son rôle et réservé du temps pour faire une pochette. Une journée dont elle est contente peut coexister avec des moments qui lui demandent encore beaucoup."
+          "heading": "L’effort que ne montre pas une matinée réussie",
+          "text": "Dans le TSPT complexe, maintenir une activité peut demander un effort important qui reste peu visible pour les autres. Une personne peut être contente de son travail et avoir besoin de préparer longtemps son rôle, de passer le relais ou de récupérer ensuite. Une activité réussie ne suffit pas à dire comment le trouble évolue.\n\nMeriem a envie de recevoir les premiers visiteurs. Elle prépare les copies et décide à l’avance de l’heure où Ève prendra la suite. Quand la chaise racle le sol, sa main tremble encore, et elle garde le rendez-vous qu’elle a pris avec sa thérapeute. Le bruit seul ne permet pas de dire qu’elle revit un événement. La scène montre surtout ce que tenir l’atelier lui demande ce matin-là."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La façon dont Meriem partage son patron a aussi changé. Elle choisit de signer quelque chose qu’elle veut donner. Joël tient à une autre règle et cela ne dit rien de sa santé ni de sa confiance dans le groupe. Une personne peut se sentir proche d’une autre dans une activité et garder des choses pour elle. Pour le prochain rendez-vous de soin, Meriem pourra dire ce qui lui a demandé un effort et ce qu’elle a aimé, même si les deux se sont produits à quelques minutes d’intervalle."
+          "heading": "Comment l’effort reste-t-il peu visible quand l’activité avance ?",
+          "points": [
+            {
+              "heading": "Préparer davantage avant d’ouvrir",
+              "text": "L’entourage voit le résultat à la table. Il ne voit pas forcément le temps qui a été nécessaire pour choisir sa place ou anticiper les moments plus difficiles.",
+              "examples": [
+                "Les visiteurs trouvent le prénom de Meriem au bas de la feuille. Elle a passé plus de temps à décider si elle voulait le mettre qu’à dessiner la poche.",
+                "Une personne peut arriver à l’heure à une réunion après avoir réfléchi la veille à la traversée d’un couloir bruyant et au moment où elle pourra repartir."
+              ]
+            },
+            {
+              "heading": "Continuer malgré un moment qui coûte",
+              "text": "Un geste maîtrisé et une réaction qui demande un effort peuvent se produire dans la même minute.",
+              "examples": [
+                "Après le bruit de la chaise, Meriem prend le feutre avec la main tremblante et montre tout de même la liste des heures.",
+                "Une personne peut expliquer une consigne qu’elle connaît, puis avoir besoin que sa collègue prenne la question suivante alors que le groupe pense que tout lui a paru facile."
+              ]
+            },
+            {
+              "heading": "Changer de rôle pour garder une part qui compte",
+              "text": "Rester dans une activité peut demander de limiter sa durée ou de répartir les tâches selon ce qui est possible ce jour-là.",
+              "examples": [
+                "À onze heures, Meriem laisse l’accueil à Ève et va couper une poche avec Chloé. Les gens qui arrivent après voient simplement deux personnes coudre côte à côte.",
+                "Après une préparation collective, quelqu’un peut laisser le rangement à une collègue et garder assez d’énergie pour finir un dessin auquel il tient."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir la suite avec des personnes différentes",
-          "text": "Le NICE recommande, pour les besoins complexes, de discuter avec la personne des appuis qui pourraient rester utiles après le traitement. Meriem poursuit son suivi. Elle peut déjà convenir avec sa thérapeute de la façon de signaler un changement, et garder le prochain point prévu avec son médecin pour le sommeil. Leur travail continue quels que soient les résultats de l’échange. Ève et Chloé ont une autre place : elles peuvent convenir d’heures et choisir les tâches qu’elles ont envie de prendre.\n\nÀ l’atelier, la prochaine étape peut tenir en une date et un nom pour chaque tâche. Meriem souhaite recevoir les premiers visiteurs et garder un moment pour coudre. Ève peut se libérer en fin de matinée, et Dalila peut dire quand elle aura une salle. Elles peuvent retenir le rendez-vous une fois ces disponibilités vérifiées et le rendre visible sur le même tableau."
+          "heading": "3 techniques pour tenir une activité sans perdre de vue ce qu’elle coûte",
+          "points": [
+            {
+              "heading": "Donner des bornes au rôle qu’on choisit",
+              "objective": "Prévoir une contribution qui laisse une place à ce qui compte dans la journée.",
+              "exercise": [
+                "Choisissez la tâche que vous souhaitez assurer.",
+                "Convenez d’une heure de fin ou d’un point de relais avec la personne disponible.",
+                "Gardez une autre option si la répartition prévue doit changer."
+              ],
+              "benefit": "Un rôle délimité peut faciliter la participation. Il peut être révisé avec l’équipe sans juger la réussite de la journée entière."
+            },
+            {
+              "heading": "Passer le relais au moment convenu",
+              "objective": "Garder du temps pour une activité désirée ou un moment de repos.",
+              "exercise": [
+                "Dites à la personne qui prend le relais ce qui lui reste à savoir.",
+                "Laissez-lui la tâche à l’heure prévue.",
+                "Prenez le temps prévu pour vous et voyez ce qui vous convient à ce moment-là."
+              ],
+              "benefit": "Le passage de relais peut éviter qu’une matinée qui se passe bien se prolonge au prix d’un effort que personne n’avait prévu."
+            },
+            {
+              "heading": "Parler en suivi du résultat et du coût",
+              "objective": "Permettre au professionnel de comprendre comment la participation évolue.",
+              "exercise": [
+                "Choisissez une chose que vous avez réussi à faire ou que vous avez aimée.",
+                "Dites ce qu’elle vous a demandé avant, pendant ou après.",
+                "Discutez d’un appui à garder ou à revoir si cet effort change."
+              ],
+              "benefit": "Les deux informations peuvent aider à ajuster l’accompagnement et à choisir avec le professionnel ce qui serait utile pour la suite."
+            }
+          ]
         }
       ],
       "ending_title": "L’épingle à côté de la date",
       "ending": "À onze heures, Ève prend le feutre et vient s’asseoir près du bac. Meriem rejoint Chloé. Avec le reste de nappe, elles découpent une poche assez large pour deux tickets de bus. Dalila a trouvé un samedi libre le mois suivant. Avant midi, Ève vérifie qu’elle est disponible et Meriem épingle la nouvelle date au tableau. Son prochain rendez-vous avec la thérapeute reste dans le carnet qui est au fond de son sac. Sur la table, une femme retourne le patron et demande d’où vient le tissu à carreaux. Meriem lui raconte le rideau.",
       "mirror": [
-        "À onze heures, Ève peut tenir le relais convenu : « Je prends la table jusqu’à midi. On vérifie la date suivante au moment de ranger. » Chloé peut proposer le coin de nappe et demander à Meriem quelle poche elle a envie de faire. Toutes deux peuvent accueillir un oui, un changement d’heure ou un refus. Si Meriem choisit de parler du rendez-vous avec sa thérapeute, elles peuvent l’écouter dans la mesure où elles sont disponibles."
+        "À onze heures, Ève peut tenir le relais convenu. « Je prends la table jusqu’à midi. On vérifie la date suivante au moment de ranger. » Chloé peut proposer le coin de nappe et demander à Meriem quelle poche elle a envie de faire. Si Meriem préfère se reposer ou garder la poche pour plus tard, elles peuvent s’en tenir au relais déjà convenu."
       ],
       "sources": [
         "oms-cddr",
@@ -539,8 +1222,9 @@
         "choice": "Meriem signe et autorise la circulation de son patron, passe le relais prévu et affiche la date du prochain échange.",
         "next": "L’échange a sa prochaine date et son organisation ; Meriem poursuit ses rendez-vous de soin et garde la main sur ce qu’elle y aborde."
       },
-      "clinical_focus": "Retentissement persistant du TSPT complexe",
-      "clinical_intro": "Une chaise racle le sol à l’ouverture et Meriem prend le feutre avec la main encore tremblante. Dans le TSPT complexe, une activité retrouvée peut demander un effort durable. Son échange de patrons avance alors que certaines réactions lui coûtent toujours. Retrouver une place dans le projet et parler de cet effort au suivi sont deux évolutions qui peuvent coexister."
+      "clinical_focus": "Effort pour maintenir une activité",
+      "clinical_intro": "À l’ouverture de l’échange, une chaise racle le sol et Meriem prend le feutre avec la main encore tremblante. Dans le TSPT complexe, continuer une activité qui compte peut demander un effort important. Meriem prépare sa place, s’appuie sur le relais prévu et peut parler de ce qui lui coûte en suivi, même si la matinée se passe bien.",
+      "conclusion": "Meriem signe le patron qu’elle veut transmettre, passe la main à onze heures et épingle une nouvelle date. Cette matinée lui a demandé de l’effort et lui a donné envie de recommencer. Elle garde sa place à l’atelier et ses rendez-vous de soin."
     }
   ],
   "profile_topics": [

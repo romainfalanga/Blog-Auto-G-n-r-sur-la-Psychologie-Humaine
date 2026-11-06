@@ -28,22 +28,83 @@ Au bord du square, un stand branche une enceinte. Les premières notes couvrent 
 
 Fatou lui demande par message si elle veut qu’on interrompe les départs. Nour écrit qu’elle préfère laisser partir les gens. Elle voudrait garder la photo au kiosque et prendre sa pause sans qu’on en donne la raison. Fatou demande seulement s’il faut venir la retrouver. Nour regarde la rue du quai sur la feuille qu’elle a gardée. Elle répond qu’elle décidera dans quelques minutes si elle les rejoint, et qu’elle écrira si elle rentre.
 
-## Reconnaître la surcharge pendant une activité choisie
+## Quand la surcharge interrompt l’échange
 
-Une pause choisie peut permettre de décider de la suite quand un environnement devient difficile à supporter. Les sensibilités sensorielles peuvent compter dans le quotidien d’une personne autiste. Nour avait repéré le marché et prévu un autre trajet. L’enceinte introduit un son qu’elle n’avait pas anticipé. Pour elle, les mots deviennent plus difficiles à suivre et parler lui demande plus d’effort. Elle peut utiliser l’écrit et s’éloigner, y compris après avoir préparé la visite avec soin.
+Une surcharge sensorielle peut survenir lorsque des sons et d’autres sollicitations s’ajoutent au point de rendre difficile une action ordinaire. Chez Nour, qui est autiste, l’enceinte rend les questions plus difficiles à suivre alors qu’elle parle déjà avec plusieurs personnes. Elle utilise l’écrit pour confier le départ à Fatou et retrouver un lieu où elle pourra décider de la suite.
 
-Le NICE recommande d’ajuster le cadre des soins et de l’accompagnement aux besoins sensoriels et de communication.
+## Comment la surcharge modifie-t-elle la participation au kiosque ?
 
-## Comment cette difficulté se manifeste
+### Les questions n’arrivent plus en entier
 
-Dans la sortie organisée par Nour, cette idée prend la forme d’un lieu de retrait et d’un moyen de rester en contact choisi. D’autres personnes peuvent préférer un soutien différent. Laisser Nour décider du moment où elle souhaite répondre lui donne une place réelle dans l’organisation.
+La parole peut devenir difficile à isoler lorsqu’un son vient se superposer à plusieurs échanges.
 
-## Passer un relais limité
+**Exemples concrets**
 
-Nour demande que la reproduction reste accessible et que Fatou indique les deux départs. Fatou peut reprendre ces tâches sans raconter la raison de la pause. Si elle doit rejoindre un groupe, elle peut indiquer à Nour qui reste au kiosque et jusqu’à quelle heure. Elles ont besoin de quelques informations communes. La décision de Nour de parler, de revenir ou de repartir lui appartient.
+- Les premières notes couvrent la fin de la question posée à Nour.
+- Même quand la personne répète, Nour entend des mots par morceaux.
 
-Sur la feuille, Nour retrouve le chemin du quai et l’adresse du banc. Elle envisage de rejoindre la visite à mi-chemin, puis attend de savoir ce qu’elle a envie de faire. Elle peut aussi préférer rentrer après avoir envoyé le message prévu. Plus tard, elle pourra dire aux voisins si la musique a rendu difficile l’écoute au kiosque et ce qu’elle souhaiterait changer lors d’une autre visite. Elle pourra choisir de garder le reste pour elle.
+### Parler demande davantage de repères
+
+On peut perdre le fil de ce que l’on vient de dire et préférer un autre moyen de communiquer.
+
+**Exemples concrets**
+
+- Nour ne sait plus où elle en est dans l’explication des fixations.
+- Elle montre la chemise et écrit à Fatou qu’elle va sous l’auvent.
+
+### La décision peut attendre que l’on soit à l’écart
+
+Une pause peut rendre possible un nouveau choix, y compris celui de rentrer.
+
+**Exemples concrets**
+
+- Fatou demande par message si elle doit interrompre les départs. Nour préfère que le groupe continue.
+- Sous l’auvent, Nour lit le message de départ et choisit de ne pas retraverser le square.
+
+## 3 techniques pour adapter sa participation quand les sollicitations débordent
+
+### 1. Écrire ce dont on a besoin maintenant
+
+Transmettre une demande simple si parler devient difficile.
+
+**Exercice pratique**
+
+- Utilisez le canal qui vous reste accessible, comme un message court ou un geste convenu.
+- Indiquez où vous allez et si vous voulez de la compagnie.
+- Dites quand vous pourrez décider de la suite, si vous le savez.
+
+La personne qui reçoit le message peut répondre à votre besoin immédiat.
+
+### 2. Confier une tâche précise
+
+Faire passer la suite de l’activité à quelqu’un de disponible.
+
+**Exercice pratique**
+
+- Nommez ce qui doit continuer, comme orienter les premiers départs.
+- Montrez où laisser la photo ou les indications nécessaires.
+- Précisez ce que la personne peut dire sur votre absence.
+
+Le groupe garde ses repères sans que la raison de la pause doive circuler.
+
+### 3. Rechoisir sa participation après l’arrêt
+
+Donner à la pause une suite que l’on peut encore modifier.
+
+**Exercice pratique**
+
+- Rejoignez l’endroit calme prévu ou demandez qu’on vous indique une autre possibilité.
+- Choisissez entre retrouver le groupe, rester un peu ou rentrer.
+- Prévenez la personne qui tient le rendez-vous lorsque vous avez décidé.
+
+La pause sert à retrouver un choix, même lorsque la suite se passe sans vous.
 
 ## Un message depuis la banquette
 
 Sous l’auvent, Nour lit le message qui annonce le départ du groupe par le quai. Elle reste encore un moment sur la banquette, puis répond qu’elle va rentrer. Avant de se lever, elle voit Rita revenir par l’autre rue et montrer du doigt l’ancienne entrée de la cour à quelqu’un. Rita vient lui dire que deux voisins ont gardé la carte pour chercher les fixations un autre jour. Nour lui demande de transmettre qu’elle récupérera la chemise chez Fatou. Elle est contente que des gens aient eu envie de revenir voir le passage. Elle n’a plus envie de retraverser le square aujourd’hui.
+
+---
+
+**Conclusion**
+
+Nour laisse l’image et les départs au kiosque, puis rentre. La visite continue grâce au relais et la pause garde le sens qu’elle lui a donné. La curiosité des voisins pour la porte demeure, même si Nour choisit d’en reparler un autre jour.

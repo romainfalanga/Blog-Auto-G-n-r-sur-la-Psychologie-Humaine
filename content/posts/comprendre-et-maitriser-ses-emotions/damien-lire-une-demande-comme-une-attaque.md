@@ -33,14 +33,79 @@ Quand la psychologue le reçoit, il apporte le brouillon et la feuille du travai
 
 Dans certains accès du trouble explosif intermittent, une personne réagit très vite à une menace qu’elle croit percevoir. L’attribution d’hostilité désigne le fait de prêter à autrui l’intention de nuire, parfois sur des indices qui laissent place à plusieurs lectures. Pour Damien, une demande adressée au bureau devient la preuve qu’on veut l’humilier. Le contexte compte. Un ton sec ou une décision restrictive peuvent être réels. La distinction porte sur ce que l’on peut établir et sur l’intention que l’on en déduit.
 
-## Une certitude qui se forme avant la réponse
+## Comment une intention hostile peut-elle être déduite avant d’avoir vérifié les faits ?
 
-Damien peut citer la pensée qui a traversé la salle et retrouver le début du brouillon. Dans les deux cas, il se prépare à se défendre alors qu’il connaît mal l’intention de l’autre personne. La fois du pupitre, cette interprétation a précédé des actes agressifs. Dans la salle d’attente, elle est encore au stade d’une pensée et d’un message non envoyé. Aucune de ces observations n’indique que tous ses accès suivent la même suite ni que l’interprétation explique à elle seule le geste.
+### Une phrase prend le sens d’une attaque
 
-## Relire en séparant les mots et leur interprétation
+Une intention peut paraître certaine alors que les paroles ou les faits permettent plusieurs lectures.
 
-La psychologue propose à Damien d’écrire une phrase observée et la lecture qui lui est venue, puis de chercher une autre lecture plausible. Cette façon d’examiner une situation peut s’inscrire dans un travail cognitivo-comportemental avec l’équipe. Damien peut garder le brouillon fermé et demander au bureau quelle action relève de lui. Ce détour ne lui donne aucun motif pour faire préciser à Mireille ce qu’elle a voulu dire jeudi. La confirmation revient à Judith et l’échange avec la mairie reste administratif.
+**Exemples concrets**
+
+- En repensant à Mireille, Damien se souvient de « Elle se croit au-dessus de moi », qui était sa pensée.
+- Il lit le transfert de la mairie comme une tentative de le remettre à sa place.
+
+### La réponse peut être engagée avant de vérifier le rôle de chacun
+
+Une interprétation rapide peut pousser à répondre à une personne qui n’attendait aucun message.
+
+**Exemples concrets**
+
+- Damien commence à défendre son ancien rôle alors que le bureau a simplement transféré le courriel.
+- Il voit ensuite que le message demande une confirmation au bureau.
+
+### Revenir aux mots garde les désaccords examinables
+
+Séparer l’intention supposée et les faits laisse une place aux griefs fondés comme aux incertitudes.
+
+**Exemples concrets**
+
+- La psychologue demande à Damien de lire exactement ce qu’Armelle a écrit.
+- Le courriel comporte une consigne et des horaires, sans mention de Mireille.
+
+## 3 techniques pour distinguer ce qui a été dit et ce que l’on en a compris
+
+### 1. Noter le fait et l’interprétation à part
+
+Donner à l’entretien une trace de ce qui s’est passé et de ce que vous avez compris.
+
+**Exercice pratique**
+
+- Retrouvez les paroles exactes ou le fait que vous avez observé.
+- Écrivez à côté l’intention que vous avez attribuée à l’autre.
+- Discutez avec le professionnel des éléments qui appuient ou laissent ouverte cette lecture.
+
+La consultation peut examiner une hypothèse sans ignorer un problème réel.
+
+### 2. Suspendre une réponse en cours
+
+Éviter qu’un message prolonge une réaction immédiate.
+
+**Exercice pratique**
+
+- Ne transmettez pas le brouillon au moment où vous vous sentez poussé à répondre.
+- Vérifiez qui a reçu la demande et qui doit la traiter.
+- Confiez le point pratique au canal prévu si ce rôle ne vous revient pas.
+
+La question peut recevoir une réponse sans ajouter une confrontation.
+
+### 3. Limiter la transmission au document utile
+
+Régler ce qui relève de votre tâche sans dépasser les limites en place.
+
+**Exercice pratique**
+
+- Repérez la seule information qui vous est demandée.
+- Transmettez-la au destinataire prévu.
+- Laissez celui-ci traiter la suite et reprenez votre réaction en consultation si elle vous préoccupe.
+
+Le circuit protège les rôles et ne dépend pas d’une discussion sur les intentions.
 
 ## Deux phrases au dos du planning
 
 Dans la marge, Damien écrit « confirmer par le bureau » puis, dessous, « je crois qu’elle veut me remettre à ma place ». Il garde le point de vue qu’il a eu, à côté des mots du courriel. En sortant, il efface le brouillon. Il répond seulement à Judith, qui lui avait demandé s’il avait encore la référence de l’ancienne réservation. Il lui envoie le numéro. Judith s’occupe de demander à Armelle quels soirs sont disponibles. Elle lui dira si le bureau a besoin d’un autre document.
+
+---
+
+**Conclusion**
+
+Damien efface le brouillon et envoie à Judith le numéro de réservation. Le courriel garde sa fonction pratique, et la phrase qu’il s’était dite reste disponible pour la consultation. Ces deux textes montrent ce qui peut arriver entre une consigne et le sens qu’on lui prête.

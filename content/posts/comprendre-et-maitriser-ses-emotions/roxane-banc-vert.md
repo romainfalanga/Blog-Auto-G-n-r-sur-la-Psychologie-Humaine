@@ -33,18 +33,79 @@ Ils s’installent sous le regard de Mme Sorel, à distance de l’allée. Le br
 
 Comprendre une parole dépend de ce qui se passe autour, de ce que l’on connaît de la personne et des sons que l’on distingue dans sa phrase. Au square, le vélo couvre une partie de la première consigne. Le malentendu reste quand il est passé : la deuxième fois, Zoé reconnaît le banc comme type de repère, sans savoir lequel.
 
-## Comment cette difficulté se manifeste
+## Comment le bruit change-t-il ce qu’on comprend d’une consigne ?
 
-Pour Roxane, qui rencontre déjà des difficultés de prononciation dans d’autres circonstances, l’écart entre ces deux essais compte. Il montre ce que le groupe peut changer dans l’échange, et ce qui reste à préciser.
+### Un bruit bref masque le mot qui oriente
 
-La carte fournit ici une information que la phrase n’a pas réussi à livrer seule. Elle sert à la tâche de tous : choisir d’où écouter. On peut repérer qu’une conversation devient plus facile après ce geste sans tirer de conclusion sur l’évolution du trouble.
+Il suffit parfois de manquer une syllabe ou la fin d’un groupe de mots pour agir sur une autre interprétation.
 
-## Donner un nom provisoire
+**Exemples concrets**
 
-Roxane voudrait faire deviner une source précise. Elle ne peut pas nommer un oiseau à partir de ce que le groupe a entendu ce matin. Mme Sorel leur propose de marquer les extraits douteux et d’en chercher un dont l’origine est connue. La médiathèque conserve des sons d’une précédente sortie menée avec une personne qui connaît les oiseaux du quartier. Zoé peut demander si un extrait de cette collection est disponible pour la rencontre.
+- Au square, le passage du vélo emporte une partie de la consigne et Zoé se dirige vers le mauvais banc.
+- Dans une cour, le choc d’un ballon couvre « près du portail » alors que le mot « banc » reste audible.
 
-Pour rejoindre le bon point d’écoute, elles n’auront plus à discuter des deux bancs de loin. Zoé demande si Roxane préfère qu’elle lui montre où elle croit devoir aller ou qu’elle lui fasse répéter le nom du lieu. Roxane prend le plan entre elles. Zoé regarde le carré blanc et suit le trait de crayon jusqu’à la grille.
+### Le calme rend une partie du message disponible
+
+Attendre que le bruit cesse peut faciliter l’écoute, mais il reste parfois deux repères possibles ou des sons difficiles à reconnaître.
+
+**Exemples concrets**
+
+- Au deuxième essai, Zoé comprend qu’il s’agit d’un banc ; elle garde encore le mauvais emplacement.
+- Sous un préau redevenu calme, un élève entend le nom d’une salle sans parvenir à savoir de quelle porte il s’agit.
+
+### Un repère visible lève un doute précis
+
+Un plan ou un geste aide à confirmer le lieu sans exiger que la personne répète encore la même suite de sons.
+
+**Exemples concrets**
+
+- Zoé suit sur le plan le trait qui relie le carré blanc à la grille.
+- À la sortie d’une salle, un enfant indique sur un panneau le numéro de la porte qu’il vient de nommer.
+
+## 3 techniques pour se comprendre quand un bruit couvre la parole
+
+### 1. Déplacer le moment de parler
+
+Écarter un bruit concurrent le temps du détail utile.
+
+**Exercice pratique**
+
+- Repérez ce qui couvre le mot : des roues, des voix ou un objet déplacé.
+- Attendez une accalmie ou rapprochez-vous si les deux le souhaitent.
+- Redonnez seulement le repère demandé et vérifiez lequel l’autre a compris.
+
+L’échange reprend sur le point perdu, avec moins de sons à démêler.
+
+### 2. Comparer ce que chacun a compris
+
+Repérer à quel moment les deux personnes prennent des chemins différents.
+
+**Exercice pratique**
+
+- Dites où vous avez compris qu’il fallait aller.
+- Invitez l’autre à indiquer son point sur la carte.
+- Choisissez ensemble le repère à garder pour la suite.
+
+Le doute porte sur une information que les deux partenaires peuvent vérifier.
+
+### 3. Séparer lieu et origine d’un bruit
+
+Conserver une observation sans lui faire dire davantage.
+
+**Exercice pratique**
+
+- Inscrivez l’endroit confirmé sur le plan.
+- Ajoutez un point d’interrogation à côté de l’origine incertaine.
+- Choisissez un autre extrait identifié si l’activité exige de nommer l’oiseau.
+
+Le groupe peut s’accorder sur le lieu tout en gardant la question de l’origine ouverte.
 
 ## Le point d’interrogation
 
 Roxane écrit « derrière le banc clair ? » sur la ligne du carnet réservée au son sec. Le point d’interrogation reste même si le repère est maintenant bon : il concerne ce qui faisait le bruit. Mme Sorel garde pour l’atelier d’écoute le court chant que l’on entend avant les roulettes. Pour sa devinette, Roxane choisit de chercher un son identifié ailleurs et de revenir avec deux pistes. Au retour, elle confie le carnet à Zoé. Elle garde le plan dans sa poche, plié juste à l’endroit où les deux bancs se font face.
+
+---
+
+**Conclusion**
+
+Le plan ramène Zoé au bon banc après deux essais de la phrase. Il ne dit toujours pas ce qui a fait le bruit. Roxane peut chercher un extrait identifié sans effacer ce que la classe a réellement entendu au square.

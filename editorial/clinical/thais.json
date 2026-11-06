@@ -27,17 +27,73 @@
         {
           "role": "explanation",
           "heading": "Comment une image peut déclencher l’alarme",
-          "text": "Dans une phobie spécifique, la peur se concentre sur une situation ou un objet. Elle peut se déclencher lors d’une rencontre avec ce qui est redouté et aussi à l’idée de cette rencontre. Le lieu représenté sur l’écran reste loin du bureau."
+          "text": "Dans une phobie spécifique, une peur marquée se concentre sur un objet ou une situation, comme les hauteurs. Elle peut apparaître au contact de ce qui est redouté ou dès qu’on se le représente. Pour Thaïs, l’image du point d’observation suffit à faire venir la peur alors qu’elle est encore au bureau. La proposition de détour prend la place de la question de cartographie qu’elle préparait."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "En revanche, Thaïs imagine déjà le sol sous ses chaussures et le moment où elle devra répondre à Inès. Les sensations qu’elle éprouve à sa place sont bien présentes. La scène rend visible l’effort qu’il lui faut pour suivre une discussion alors qu’elle s’attend à avoir très peur.\n\nUne photo inquiétante peut aussi susciter un malaise passager chez quelqu’un. Pour comprendre une phobie, un professionnel replace les réactions dans la durée et regarde leurs effets sur les déplacements, le travail ou d’autres activités. Le temps passé à préparer un trajet peut faire partie de ce retentissement, y compris quand personne ne remarque de sortie annulée."
+          "heading": "Comment la peur de la hauteur s’invite-t-elle avant d’arriver sur place ?",
+          "points": [
+            {
+              "heading": "Une image suffit à lancer l’anticipation",
+              "text": "Un indice peut faire imaginer une situation redoutée alors qu’on en est encore loin.",
+              "examples": [
+                "Thaïs regarde le point d’observation sur l’écran et pense déjà à la hauteur.",
+                "Une personne peut appréhender un escalier ajouré lorsqu’elle le découvre sur la photo d’un lieu qu’elle doit visiter."
+              ]
+            },
+            {
+              "heading": "L’attention abandonne une tâche en cours",
+              "text": "La peur anticipée peut empêcher d’entendre la question que l’on venait pourtant de préparer.",
+              "examples": [
+                "Thaïs perd la liste des photos à faire alors qu’Inès parle des bornes.",
+                "Le nom du canal lui paraît lointain après avoir occupé le début de la discussion."
+              ]
+            },
+            {
+              "heading": "Le projet change avant la vérification des accès",
+              "text": "L’envie d’éviter la hauteur peut pousser à modifier un itinéraire avant de connaître ses conditions.",
+              "examples": [
+                "Thaïs propose un parcours qui écarte tout le point d’observation.",
+                "Inès lui demande comment elles obtiendraient alors les photographies nécessaires."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer la question de la mission et celle de la peur",
-          "text": "Samir peut expliquer ce que l’expédition doit réellement produire et quels accès seront examinés. L’intérêt scientifique du point d’observation a sa place dans la réunion. Thaïs peut apporter une question de cartographie tout en réservant à sa psychologue les images précises qui lui viennent quand la passerelle apparaît. Rien ne l’oblige à décider ce matin quel rôle elle prendra sur chaque portion du trajet.\n\nIl peut être utile de pouvoir différer une décision quand plusieurs informations arrivent en même temps. Pour Thaïs, demander l’ordre du jour et la liste des points à documenter lui permet de revenir à des choix concrets. Avec sa psychologue, elle pourra ensuite expliquer que la peur a déjà pesé sur sa proposition et qu’elle cherche à comprendre cette habitude, dans cette réunion et dans d’autres situations."
+          "heading": "3 techniques pour répondre à l’anticipation sans décider seul du trajet",
+          "points": [
+            {
+              "heading": "Nommer le détail qui a déclenché la peur",
+              "objective": "Préparer un exemple pour le suivi.",
+              "exercise": [
+                "Repérez le mot, l’image ou le détail qui a retenu votre attention.",
+                "Notez ce que vous imaginiez au sujet de la hauteur et ce que vous avez cessé de suivre.",
+                "Présentez ces deux éléments au professionnel."
+              ],
+              "benefit": "La discussion peut distinguer la situation anticipée de celle qui se déroulait à ce moment-là."
+            },
+            {
+              "heading": "Reprendre une question de travail",
+              "objective": "Récupérer une information perdue pendant la discussion.",
+              "exercise": [
+                "Dites quel point vous n’avez plus suivi.",
+                "Demandez à la personne qui en parlait de reprendre ce passage.",
+                "Revenez à la décision que le groupe doit prendre à présent."
+              ],
+              "benefit": "La discussion peut repartir de ce qui manque plutôt que d’un détour proposé dans l’urgence."
+            },
+            {
+              "heading": "Faire vérifier les conditions du trajet",
+              "objective": "Séparer l’évaluation du terrain de la peur anticipée.",
+              "exercise": [
+                "Identifiez l’information de terrain qui manque.",
+                "Demandez au responsable de vérifier les accès autorisés et les postes possibles.",
+                "Décidez ensuite du rôle que vous souhaitez tenir dans les limites de sécurité fixées."
+              ],
+              "benefit": "La répartition peut partir de faits vérifiés et rester compatible avec les choix de chacun."
+            }
+          ]
         }
       ],
       "ending_title": "Revenir au nom du canal",
@@ -52,7 +108,8 @@
       "continuity": {
         "choice": "Thaïs accepte de participer au repérage avec Samir et Inès et demande de différer la répartition.",
         "next": "Au repérage, l’équipe suit les consignes du lieu. Thaïs constate la différence entre une partie réellement fermée et une peur intense sur un accès autorisé."
-      }
+      },
+      "conclusion": "Thaïs retrouve le nom du canal après avoir demandé de reprendre la liste des bornes. Elle accepte d’examiner les accès avant de répartir les postes. L’image du point d’observation a déjà eu un effet sur son travail, sans qu’elle ait quitté le bureau."
     },
     {
       "number": 2,
@@ -72,17 +129,73 @@
         {
           "role": "explanation",
           "heading": "Apprécier la peur dans son contexte",
-          "text": "Devant un chemin fermé après la chute d’un arbre, respecter la barrière est une décision de sécurité. Sur une plateforme en service, Thaïs éprouve une peur très forte à la vue de la hauteur. Ce contraste donne des éléments pour comprendre ce qu’elle vit, parce qu’elle connaît depuis longtemps cette réaction dans plusieurs lieux présentant la même caractéristique.\n\nUne situation autorisée peut encore comporter des règles à suivre. L’intensité de la peur ne donne à elle seule ni une estimation du risque, ni l’explication de cette peur.\n\nDans une évaluation clinique, le professionnel tient compte des conditions concrètes et de la façon dont la peur, l’évitement ou l’effort se répètent. Des signes physiques comme les tremblements ou les palpitations peuvent accompagner la peur. Leur présence, à elle seule, ne suffit pas à définir une phobie spécifique."
+          "text": "L’intensité d’une peur ne mesure pas à elle seule le risque d’un lieu. Dans l’évaluation d’une phobie spécifique, un professionnel regarde les conditions concrètes et ce qui se répète dans les réactions de la personne. Le groupe respecte la fermeture après la chute d’un arbre. Plus loin, la plateforme est en service et ses consignes restent applicables. Thaïs ressent une peur intense à la vue de la hauteur et choisit de travailler en bas."
         },
         {
           "role": "manifestations",
-          "heading": "La peur sur la première marche de la plateforme",
-          "text": "Thaïs suit le chemin balisé avec Inès et parle des noms recueillis. Sur la première marche de la plateforme ouverte, elle aperçoit l’eau à travers le garde-corps. Son ventre se serre et sa voix porte moins. Son pied est immobile, et elle l’imagine déjà glisser. Elle attend en bas et remarque ensuite un reflet qui gêne la lecture de la borne sur la photo d’Inès."
+          "heading": "Comment distinguer l’intensité de la peur et le risque de terrain ?",
+          "points": [
+            {
+              "heading": "Une fermeture donne une information indépendante",
+              "text": "Une consigne de sécurité vaut aussi pour quelqu’un qui ne ressent pas de peur particulière.",
+              "examples": [
+                "Le panneau interdit le chemin après la chute d’un arbre.",
+                "Samir prévoit de transmettre la fermeture à la personne qui accueille le public."
+              ]
+            },
+            {
+              "heading": "Une protection peut laisser une peur vive",
+              "text": "Dans une phobie des hauteurs, un aménagement autorisé peut encore évoquer une chute pour la personne.",
+              "examples": [
+                "Thaïs s’arrête en bas alors que la plateforme est accessible et équipée d’un garde-corps.",
+                "Quelqu’un peut ressentir des tremblements devant une vue plongeante alors même qu’il reste sur l’espace aménagé."
+              ]
+            },
+            {
+              "heading": "Le rôle sur place se discute séparément",
+              "text": "Les besoins du travail permettent de chercher une autre manière d’obtenir une information.",
+              "examples": [
+                "Thaïs repère depuis le sol le reflet qui masque le numéro de la borne.",
+                "Samir lui demande ce qu’il peut vérifier depuis la plateforme pendant qu’elle reste au panneau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la sécurité et le travail dans leur rôle",
-          "text": "Samir doit vérifier les accès pour toute l’équipe. Il peut proposer à Thaïs de lui transmettre les informations qui permettront de décider à distance quelle photographie reprendre. En restant à un emplacement autorisé au sol, elle peut encore contrôler la référence de la borne et vérifier la précision d’une donnée. Si le site venait à fermer, le plan de toute l’équipe changerait.\n\nThaïs peut également garder pour une consultation la question de savoir ce qui s’est passé sur la marche et ce qui se répète ailleurs. Le travail de terrain suit les besoins de la mission et les règles du lieu. La prise en charge de sa peur suit des objectifs dont elle discute avec la psychologue. Ce jour-là, rester en bas est une décision qu’elle peut prendre sans devoir en tirer immédiatement une conclusion sur ses progrès."
+          "heading": "3 techniques pour faire la part de la sécurité, de la peur et du travail à réaliser",
+          "points": [
+            {
+              "heading": "Vérifier auprès du responsable du site",
+              "objective": "S’appuyer sur les conditions observables pour les décisions de sécurité.",
+              "exercise": [
+                "Relevez les indications officielles et les fermetures signalées.",
+                "Faites préciser les accès autorisés par la personne qui en a la responsabilité.",
+                "Adaptez la tâche aux consignes et reportez-la si l’accès requis est fermé."
+              ],
+              "benefit": "La sécurité du groupe repose sur l’état du lieu et les consignes applicables."
+            },
+            {
+              "heading": "Décrire la peur dans le bon cadre",
+              "objective": "Situer une réaction sans en faire une mesure du danger.",
+              "exercise": [
+                "Retenez un exemple dont le contexte est connu.",
+                "Notez ce que vous redoutiez et ce que vous avez fait ensuite.",
+                "Reprenez cet exemple avec le professionnel qui vous accompagne."
+              ],
+              "benefit": "Le suivi peut examiner le vécu de la hauteur et les conditions concrètes de ce moment."
+            },
+            {
+              "heading": "Demander une observation depuis un poste différent",
+              "objective": "Contribuer à un relevé selon une répartition autorisée.",
+              "exercise": [
+                "Précisez l’information dont vous avez besoin.",
+                "Demandez à la personne qui tient l’autre poste si elle peut la transmettre.",
+                "Vérifiez ensemble si le résultat répond à la question de départ."
+              ],
+              "benefit": "Le travail peut avancer sans imposer à chacun le même accès."
+            }
+          ]
         }
       ],
       "ending_title": "La borne sur deux photos",
@@ -97,7 +210,8 @@
       "continuity": {
         "choice": "Thaïs reste au sol pour le point d’observation, contribue à l’identification de la borne et demande un entretien au bureau.",
         "next": "Elle propose de coordonner des relevés depuis les points au sol et négocie exactement ce qui sera communiqué au groupe."
-      }
+      },
+      "conclusion": "Les deux photos permettent à Thaïs de rattacher la borne au cadastre. Elle a respecté avec le groupe la fermeture du chemin et choisi de rester en bas de la plateforme. Le risque du lieu et l’intensité de sa peur ont appelé des décisions différentes."
     },
     {
       "number": 3,
@@ -121,13 +235,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Thaïs tient aux relevés et aux rencontres avec les habitants. Si les autres ne voient que ses refus devant une hauteur, ils peuvent tirer une conclusion erronée sur ses envies ou ses compétences.\n\nLa crainte d’être jugée s’ajoute ici à une peur dont le déclencheur principal reste la hauteur. Elle explique une partie de la difficulté de l’entretien. Cette nuance aide à comprendre pourquoi un besoin précis semble parfois demander un récit beaucoup plus intime. Thaïs peut parler des conséquences concrètes de la peur au travail, puis choisir séparément avec qui elle veut parler de son diagnostic."
+          "heading": "Comment la peur des hauteurs peut-elle peser sur un rôle professionnel ?",
+          "points": [
+            {
+              "heading": "Un poste implique une situation redoutée",
+              "text": "Une partie du travail peut dépendre d’un accès difficile, même quand le reste des compétences est disponible.",
+              "examples": [
+                "Samir écrit « notes en direct » près de la station.",
+                "Les vues des bornes qui se prennent en hauteur préoccupent Thaïs lorsqu’elle lit la répartition."
+              ]
+            },
+            {
+              "heading": "Une limite peut être entendue trop largement",
+              "text": "Dire qu’on préfère rester en bas peut être compris comme une demande de quitter toute la mission.",
+              "examples": [
+                "Samir a interprété l’attente de Thaïs près de la plateforme comme un retrait du relevé.",
+                "Thaïs doit préciser qu’elle veut être sur le terrain et travailler depuis un point au sol."
+              ]
+            },
+            {
+              "heading": "L’ajustement peut se transmettre par ses effets",
+              "text": "L’équipe a besoin de savoir qui fait quoi et quand les informations circulent.",
+              "examples": [
+                "Thaïs montre le poste où elle pourra recevoir les notes d’Inès.",
+                "Elle demande à relire le message qui décrit sa coordination au sol."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ensemble de ce qui sera transmis",
-          "text": "Samir a besoin d’un plan praticable, dont les responsabilités sont claires. Thaïs peut nommer les postes qu’elle souhaite tenir et les conditions qui changeraient sa participation. Pour vérifier si cette répartition fonctionne, chacun peut relire ce qu’il devra faire sur place. Le partage d’informations peut rester limité à ce que Thaïs accepte et à ce qui est utile au groupe. Les questions de suivi et les raisons intimes n’ont pas à entrer dans le compte rendu.\n\nSi la répartition crée trop de travail pour Inès, cette dernière peut le dire et demander une adaptation. Un accord fait une place au choix de Thaïs et aux contraintes des collègues. Ils peuvent convenir d’un moment pour vérifier ce que cela donne, sans demander à Thaïs de franchir un point haut pour prouver qu’elle veut participer."
+          "heading": "3 techniques pour demander un aménagement de terrain en choisissant ce qu’on dit",
+          "points": [
+            {
+              "heading": "Décrire le poste qui permet de contribuer",
+              "objective": "Rendre la demande opérationnelle pour l’équipe.",
+              "exercise": [
+                "Nommez la tâche que vous voulez tenir.",
+                "Indiquez l’emplacement ou la modalité dont vous avez besoin.",
+                "Vérifiez avec le responsable qui vous transmettra les informations utiles."
+              ],
+              "benefit": "Le rôle reste lisible et chacun sait comment faire circuler le relevé."
+            },
+            {
+              "heading": "Relire le message avant sa diffusion",
+              "objective": "Garder la maîtrise du détail personnel.",
+              "exercise": [
+                "Demandez quelle information est nécessaire aux collègues.",
+                "Proposez une formulation limitée à l’organisation si elle répond au besoin.",
+                "Convenez des destinataires et du moment de l’envoi."
+              ],
+              "benefit": "L’ajustement peut être partagé avec les personnes concernées et selon le niveau de détail choisi."
+            },
+            {
+              "heading": "Prévoir un point après la mission",
+              "objective": "Savoir si l’aménagement permet de faire le travail attendu.",
+              "exercise": [
+                "Convenez d’une façon de signaler une difficulté le jour venu.",
+                "Notez une tâche qui a bien fonctionné et une qui reste difficile.",
+                "Réservez la gêne liée à la peur au suivi si vous souhaitez l’y reprendre."
+              ],
+              "benefit": "L’équipe peut ajuster l’organisation et le professionnel peut examiner séparément le retentissement."
+            }
+          ]
         }
       ],
       "ending_title": "Un accord en deux lignes",
@@ -142,7 +312,8 @@
       "continuity": {
         "choice": "Thaïs obtient une répartition de la mission au sol et valide un message qui ne dévoile pas son diagnostic.",
         "next": "Le sujet de ce qu’elle veut partager revient en famille quand Milo propose un autre rendez-vous en hauteur."
-      }
+      },
+      "conclusion": "Le message retient les relevés et la coordination au sol. Thaïs reste sur le terrain avec un rôle précis, et l’équipe sait comment lui envoyer les photos. La peur a un effet sur l’organisation sans obliger Thaïs à raconter son diagnostic à ses collègues."
     },
     {
       "number": 4,
@@ -166,13 +337,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Thaïs redoute la hauteur dans l’escalier. Elle éprouve aussi de la honte à l’idée que Milo pense qu’elle exagère ou se désintéresse de ce qu’il a préparé. Ces deux expériences ont des conséquences différentes. L’une l’arrête à l’entrée et l’autre lui donne envie d’inventer une raison pour partir.\n\nUne montée de panique peut survenir au contact de ce qui fait peur ou à son anticipation. Les circonstances, le déclencheur, les difficultés rencontrées ailleurs et leur durée donnent au clinicien des éléments pour comprendre l’ensemble. Chez Thaïs, le lieu redouté reste lié aux hauteurs, même quand le regard des autres complique la situation."
+          "heading": "Comment la peur d’être jugée peut-elle s’ajouter à la peur de tomber ?",
+          "points": [
+            {
+              "heading": "La peur a d’abord un objet précis",
+              "text": "Une réaction visible peut venir de la hauteur avant de concerner le regard des autres.",
+              "examples": [
+                "Thaïs veut voir l’affiche mais redoute de tomber dans l’escalier du moulin.",
+                "Elle reste en bas alors que Milo et d’autres visiteurs montent."
+              ]
+            },
+            {
+              "heading": "Le regard prêté à l’autre augmente l’embarras",
+              "text": "La personne peut anticiper un reproche sans l’avoir entendu.",
+              "examples": [
+                "Thaïs imagine que son frère lui demandera de faire un effort.",
+                "Une personne peut expliquer qu’elle a changé d’avis sur une visite alors qu’elle redoute seulement le passage en hauteur."
+              ]
+            },
+            {
+              "heading": "Le désir de poursuivre peut être entendu autrement",
+              "text": "Une confidence peut distinguer l’activité souhaitée et l’endroit que la personne ne veut pas traverser.",
+              "examples": [
+                "Dans la cour, Thaïs dit à Milo qu’elle veut toujours voir les affiches.",
+                "Milo l’écoute puis demande au bénévole s’il existe une reproduction à l’accueil."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre visible la sortie que chacun attendait",
-          "text": "Milo peut dire qu’il a cru que sa sœur n’avait plus envie de passer l’après-midi avec lui. Elle peut lui expliquer ce qu’elle souhaitait voir et ce qui l’a retenue dans le hall. Cette conversation n’exige pas de passer l’escalier pour vérifier ce qu’elle dit. Elle peut permettre à chacun de faire une nouvelle proposition en comprenant mieux la réaction de l’autre.\n\nThaïs peut aussi dire ce qui lui serait utile dans une prochaine sortie. Ici, elle préfère qu’on lui demande si elle veut une alternative avant de partir chercher une personne qui la ferait monter. Milo peut de son côté aller voir l’exposition ou rester avec elle. Un accord ponctuel permet de retrouver une partie de la sortie prévue et laisse à chacun sa décision."
+          "heading": "3 techniques pour parler de la gêne à une personne choisie",
+          "points": [
+            {
+              "heading": "Choisir un endroit où parler",
+              "objective": "Donner à l’échange un cadre que vous préférez.",
+              "exercise": [
+                "Demandez si vous pouvez vous mettre un moment à l’écart.",
+                "Dites ce que vous redoutez dans la situation et ce que vous vouliez faire.",
+                "Précisez ce que vous souhaitez garder entre vous."
+              ],
+              "benefit": "Le proche peut comprendre le changement de programme sans vous demander de le justifier en public."
+            },
+            {
+              "heading": "Corriger un malentendu sur l’activité",
+              "objective": "Préserver une sortie quand une partie du lieu vous fait peur.",
+              "exercise": [
+                "Dites ce qui vous intéresse toujours dans la visite.",
+                "Demandez s’il existe une manière autorisée d’y accéder autrement.",
+                "Décidez ensemble de la suite en laissant chacun libre de poursuivre ou de s’arrêter."
+              ],
+              "benefit": "Une autre proposition peut permettre de garder l’intérêt de la sortie."
+            },
+            {
+              "heading": "Garder un exemple du jugement anticipé",
+              "objective": "Faire une place à la gêne dans le suivi.",
+              "exercise": [
+                "Notez le détail de hauteur qui a déclenché la peur.",
+                "Ajoutez ce que vous avez imaginé que l’autre dirait et ce qu’il a réellement dit.",
+                "Apportez cet exemple au professionnel si l’embarras vous empêche souvent de parler."
+              ],
+              "benefit": "La consultation peut distinguer la peur initiale de la gêne relationnelle qui s’y ajoute."
+            }
+          ]
         }
       ],
       "ending_title": "Une carte postale dans l’enveloppe",
@@ -187,7 +414,8 @@
       "continuity": {
         "choice": "Thaïs se confie à Milo et lui demande de garder cette information pour lui.",
         "next": "Elle remarque seule le coût d’un détour qui, cette fois, lui apporte un soulagement immédiat et lui fait manquer un rendez-vous."
-      }
+      },
+      "conclusion": "Les deux références entrent dans l’enveloppe sans que Thaïs monte l’escalier. Elle a pu dire à Milo qu’elle avait peur de tomber et qu’elle voulait encore voir l’affiche. Leur accord sur la confidentialité donne une suite à cette conversation."
     },
     {
       "number": 5,
@@ -211,13 +439,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Thaïs, le soulagement survient dès l’abri du tram. Le rendez-vous manqué apparaît une fois qu’elle est devant les archives.\n\nCe fonctionnement s’apprécie dans la durée. Éviter un lieu peut être un choix adapté à la sécurité, à la fatigue ou au programme du jour. Un aménagement de travail peut aussi permettre une participation importante. Dans le suivi d’une phobie, il est possible d’examiner les situations où une personne perd de la marge de décision et celles où elle gagne une façon de participer à une activité qu’elle a choisie."
+          "heading": "Comment le soulagement du détour peut-il faire oublier son coût ?",
+          "points": [
+            {
+              "heading": "Le soulagement arrive avant le calcul",
+              "text": "Éviter ce qui fait peur peut apaiser assez vite pour retenir d’abord toute l’attention.",
+              "examples": [
+                "Thaïs choisit un autre trajet avant de regarder combien de temps il prendra.",
+                "Une personne peut sentir sa tension baisser dès qu’elle s’éloigne de l’entrée d’une passerelle."
+              ]
+            },
+            {
+              "heading": "Le coût apparaît une fois arrivé",
+              "text": "Le répit peut être suivi d’un effet sur une activité qui comptait pour la personne.",
+              "examples": [
+                "Le bus met plus de temps que Thaïs ne le prévoyait.",
+                "Aux archives, l’archiviste a déjà remis les documents en réserve."
+              ]
+            },
+            {
+              "heading": "Une prochaine décision peut reprendre ce qui s’est passé",
+              "text": "L’évitement peut devenir plus attirant quand on se souvient surtout du répit qu’il a donné.",
+              "examples": [
+                "Thaïs écrit que le soulagement est venu avant la vérification de l’heure.",
+                "Quelqu’un peut reprendre le même détour lors d’un autre rendez-vous en pensant au calme immédiat qu’il avait retrouvé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Repérer les choix que Thaïs veut retrouver",
-          "text": "Thaïs peut arriver au rendez-vous avec sa psychologue en sachant ce qui comptait dans cette sortie. Elle voulait consulter deux feuilles avec l’archiviste et finir assez tôt pour aller à la réunion de vendredi. Elle peut lui dire à quel moment elle a changé de trajet, ce qu’elle a éprouvé ensuite et quelle autre possibilité elle aimerait avoir dans l’avenir. Ces détails donnent un objectif plus concret que l’idée de devoir emprunter toutes les passerelles.\n\nPour la carte, elle peut vérifier avec l’archiviste les modalités d’un nouveau créneau. Demander une date ou une cote précise répond au travail à faire. Si elle souhaite aborder la peur des hauteurs, cela se discute dans un cadre choisi avec sa psychologue. Les personnes chargées des documents peuvent l’aider sur leur propre domaine sans chercher à modifier son trajet."
+          "heading": "3 techniques pour revenir sur un détour qui a fait baisser la peur",
+          "points": [
+            {
+              "heading": "Reconstituer l’ordre de la décision",
+              "objective": "Décrire le répit et son effet pratique au professionnel.",
+              "exercise": [
+                "Notez le moment où vous avez changé de trajet.",
+                "Dites quand la peur a baissé et quand une conséquence est devenue visible.",
+                "Apportez cet ordre au rendez-vous pour discuter de ce que vous souhaitez travailler."
+              ],
+              "benefit": "L’entretien peut tenir compte de la fonction immédiate du détour et de son coût."
+            },
+            {
+              "heading": "Vérifier le délai d’une option autorisée",
+              "objective": "Savoir si un autre trajet reste compatible avec le rendez-vous.",
+              "exercise": [
+                "Consultez l’heure d’arrivée prévue sur l’option envisagée.",
+                "Vérifiez le créneau de la personne qui vous attend.",
+                "Prévenez-la si vous risquez d’arriver trop tard et demandez ce qui peut être reporté."
+              ],
+              "benefit": "Vous pouvez prendre une décision pratique à partir d’une information disponible."
+            },
+            {
+              "heading": "Retrouver l’objectif du déplacement",
+              "objective": "Préparer une nouvelle démarche sans se forcer seul à franchir un passage redouté.",
+              "exercise": [
+                "Nommez le document, le lieu ou la personne que vous vouliez retrouver.",
+                "Demandez quelles conditions permettent de reprendre le rendez-vous.",
+                "Discutez avec le professionnel du trajet qui gêne si vous souhaitez le travailler."
+              ],
+              "benefit": "L’activité peut garder son intérêt et la peur être reprise dans le cadre du suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Reprendre un créneau",
@@ -232,7 +516,8 @@
       "continuity": {
         "choice": "Thaïs demande un nouveau rendez-vous aux archives et retient l’écart entre le soulagement rapide et le retard.",
         "next": "Le matin de l’expédition, une alerte concernant le site modifie réellement les possibilités du groupe."
-      }
+      },
+      "conclusion": "Thaïs a manqué le créneau et demande à l’archiviste quand elle pourra revenir. La phrase gardée pour sa psychologue situe le moment où le soulagement a pris le dessus sur l’horaire. Elle donne un point précis à reprendre sans transformer le trajet en épreuve."
     },
     {
       "number": 6,
@@ -252,17 +537,73 @@
         {
           "role": "explanation",
           "heading": "Une consigne commune et un vécu individuel",
-          "text": "Les conditions réelles d’un lieu peuvent changer et rendre une sortie inadaptée pour tous. Samir applique la fermeture communiquée par le gestionnaire. Cette décision vaut aussi pour une personne qui n’éprouve aucune peur particulière des hauteurs. Dans l’évaluation d’une phobie spécifique, un professionnel tient également compte du risque raisonnable dans une situation. Il s’intéresse aux craintes qui restent très fortes même dans certains contextes ordinaires, et aux conséquences qu’elles ont dans la vie de la personne."
+          "text": "Une fermeture de terrain répond à des conditions qui s’appliquent à tout le groupe. Elle peut aussi soulager une personne qui redoutait une hauteur et la décevoir parce qu’elle tenait à participer. L’évaluation d’une phobie spécifique tient compte du risque concret et des situations où la peur reste forte dans des conditions ordinaires. Thaïs est soulagée d’éviter la passerelle ce jour-là et regrette déjà les échanges qu’elle attendait."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Thaïs ressent du soulagement et de la déception dans le même quart d’heure. Le premier sentiment se comprend notamment à partir du scénario redouté avant le départ. Le second rappelle un objectif réel. Aucun de ces sentiments ne décide de la réouverture du vallon. Ils peuvent l’aider à préciser ce qu’elle veut faire de la journée et ce qu’elle souhaite aborder dans le suivi."
+          "heading": "Comment le soulagement et la déception peuvent-ils coexister après une fermeture ?",
+          "points": [
+            {
+              "heading": "La sécurité s’impose à tous les postes",
+              "text": "Une consigne liée à la pluie ou à l’état d’un passage s’applique quelle que soit l’émotion de chacun.",
+              "examples": [
+                "L’avis du gestionnaire annonce que l’eau a monté et que le sentier est fermé.",
+                "Samir laisse le matériel dans le véhicule et prévient les personnes attendues."
+              ]
+            },
+            {
+              "heading": "Le soulagement peut concerner un seul passage",
+              "text": "Une difficulté redoutée peut ne plus se présenter alors que le reste de l’activité garde sa valeur.",
+              "examples": [
+                "Thaïs avait espéré que la passerelle puisse être écartée.",
+                "Elle regrette en même temps de ne pas comparer les noms avec les habitants sur le terrain."
+              ]
+            },
+            {
+              "heading": "Un autre cadre peut garder une partie de l’objectif",
+              "text": "Reporter le relevé laisse parfois une place à un échange qui devait l’accompagner.",
+              "examples": [
+                "Thaïs vérifie si le café de l’association est ouvert.",
+                "Un habitant accepte d’y apporter ses photographies pendant que Samir prépare une nouvelle date sous réserve de réouverture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Sauver ce qui a du sens quand la mission change",
-          "text": "L’équipe peut répartir les choses qu’elle peut encore faire. Samir garde la responsabilité de vérifier les futurs accès. Inès pourra reprendre ses photographies à la date convenue. Thaïs peut proposer une rencontre au village pour identifier les noms de lieu et vérifier les repères dont ils auront besoin ensuite. Les données qui exigent de se rendre au canal restent à relever après la réouverture.\n\nAvoir une autre tâche n’efface pas forcément la peur de la prochaine sortie. Ce que Thaïs a imaginé avant de partir pourra être abordé avec sa psychologue. Elle peut lui expliquer que l’accord au sol était clair et que l’incertitude lui a tout de même pris une partie de la soirée. Cette différence entre les consignes connues et ce qu’elle anticipait constitue un point de départ pour leur échange."
+          "heading": "3 techniques pour respecter une fermeture et garder le sens de la mission",
+          "points": [
+            {
+              "heading": "Appliquer la consigne et informer",
+              "objective": "Assurer le relais pratique lorsqu’un lieu ferme.",
+              "exercise": [
+                "Vérifiez la consigne auprès de la personne responsable.",
+                "Annulez ou reportez la partie qui dépend de l’accès fermé.",
+                "Prévenez les participants et précisez ce qui reste à confirmer."
+              ],
+              "benefit": "Le groupe connaît la décision de sécurité et les conditions d’une éventuelle reprise."
+            },
+            {
+              "heading": "Donner une place aux deux réactions",
+              "objective": "Comprendre ce que l’annulation a changé pour vous.",
+              "exercise": [
+                "Identifiez le passage dont l’annulation vous soulage.",
+                "Nommez ce que vous regrettez de ne pas pouvoir faire.",
+                "Apportez ces deux détails au suivi si vous souhaitez parler de l’effet de la peur sur vos choix."
+              ],
+              "benefit": "La consultation peut partir de l’activité désirée et du passage qui posait problème."
+            },
+            {
+              "heading": "Sauver un échange indépendant du lieu",
+              "objective": "Retrouver une partie du projet dans des conditions sûres et consenties.",
+              "exercise": [
+                "Repérez une question qui peut être traitée ailleurs.",
+                "Proposez un lieu et vérifiez l’accord des personnes concernées.",
+                "Gardez le relevé sur place pour une date autorisée."
+              ],
+              "benefit": "Le projet peut avancer sur un point pendant que les accès restent fermés."
+            }
+          ]
         }
       ],
       "ending_title": "Une matinée dans le village",
@@ -277,7 +618,8 @@
       "continuity": {
         "choice": "Thaïs rencontre un habitant au café. La mission de terrain sera reprise après autorisation, avec le même partage des tâches.",
         "next": "Elle échange avec sa psychologue sur le travail qu’elle souhaite engager et le rôle que la mission doit conserver."
-      }
+      },
+      "conclusion": "La mission sur le sentier est reportée. Thaïs peut écouter l’habitant au café et rester soulagée de ne pas avoir à penser à la passerelle ce matin. L’écart entre ces deux réactions l’aide à formuler une question pour Mme Verdier."
     },
     {
       "number": 7,
@@ -301,13 +643,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Les sorties que la peur rend plus difficiles à garder",
-          "text": "Thaïs repense au détour qui lui a fait manquer l’archiviste et à la sortie qu’elle voulait faire avec Milo. Dans sa première idée, elle mesure son objectif à ce qu’Inès fait au travail. En parlant de ses propres sorties, elle remarque un effet plus large. Certains passages lui prennent du temps avant même qu’elle parte et pèsent sur les rendez-vous qu’elle souhaite tenir."
+          "heading": "Comment un choix de soin peut-il partir d’une activité que la peur limite ?",
+          "points": [
+            {
+              "heading": "Une formulation trop large masque le besoin",
+              "text": "Définir le soin par une action générale peut laisser de côté ce que la personne veut retrouver.",
+              "examples": [
+                "Thaïs commence par écrire « pouvoir monter » sur son téléphone.",
+                "Elle pense ensuite au document qu’elle n’a pas pu consulter et au temps qu’un détour lui prend."
+              ]
+            },
+            {
+              "heading": "Le but peut concerner la vie ordinaire",
+              "text": "Le travail sur une phobie peut partir d’un déplacement ou d’une rencontre dont la personne veut décider plus librement.",
+              "examples": [
+                "Thaïs voudrait pouvoir garder certaines promenades avec Milo.",
+                "Elle souhaite que la peur décide moins souvent de l’heure à laquelle elle part."
+              ]
+            },
+            {
+              "heading": "La décision reste ouverte à plusieurs modalités",
+              "text": "L’objectif ne suffit pas à choisir seul un exercice ni les conditions du soin.",
+              "examples": [
+                "Mme Verdier propose de discuter du premier objectif avant la suite.",
+                "Thaïs accepte d’examiner un accompagnement et demande de pouvoir revenir sur les décisions."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Ce qu’une étude ajoute à la conversation",
-          "text": "Dans l’essai de Freeman et ses collègues, un programme précis en réalité virtuelle a réduit à court terme la peur rapportée par des adultes qui craignaient les hauteurs, par rapport au groupe témoin. La portée du résultat tient au programme étudié, aux personnes incluses et au suivi limité dans le temps. Il peut aider Thaïs à poser une question sur les options. Il ne permet pas de savoir quel accompagnement est indiqué pour elle ou ce qu’elle pourrait obtenir près de chez elle.\n\nMme Verdier peut accueillir sa curiosité et revenir aux possibilités du suivi. Thaïs peut demander comment une option se déroulerait, ce qu’elle pourrait choisir ou interrompre et à quoi elles reconnaîtraient un changement utile. L’accord concerne ce qu’elles décideront ensemble. Les bénéfices possibles se discutent sans promesse de résultat individuel. Ses collègues, son frère et le calendrier d’une mission n’ont pas à fixer les étapes ni à organiser une confrontation. Elle peut avancer à partir d’un objectif défini avec elle et signaler ce qui ne lui convient pas."
+          "heading": "3 techniques pour préparer une décision partagée sur le suivi",
+          "points": [
+            {
+              "heading": "Remplacer un verbe vague par une activité",
+              "objective": "Décrire ce que vous aimeriez retrouver dans votre vie.",
+              "exercise": [
+                "Choisissez une sortie que vous souhaitez faire pour elle-même.",
+                "Dites quel aspect de la peur limite aujourd’hui cette possibilité.",
+                "Présentez cet objectif à la personne qui vous suit."
+              ],
+              "benefit": "Le choix de soin peut partir d’un changement qui a du sens pour vous."
+            },
+            {
+              "heading": "Demander les conditions de chaque option",
+              "objective": "Comprendre ce qui vous serait proposé et comment le revoir.",
+              "exercise": [
+                "Demandez ce que le professionnel envisage pour votre situation.",
+                "Faites préciser le cadre, les conditions de sécurité et le rôle que vous aurez dans la décision.",
+                "Convenez de quand vous pourrez poser d’autres questions ou ajuster l’accord."
+              ],
+              "benefit": "La décision peut s’appuyer sur ce que chaque approche implique dans votre cas."
+            },
+            {
+              "heading": "Garder un accord de travail distinct",
+              "objective": "Éviter que le choix de soin soit confondu avec une mission professionnelle.",
+              "exercise": [
+                "Notez l’ajustement de travail déjà convenu.",
+                "Identifiez ce qui doit être communiqué à vos collègues.",
+                "Réservez au suivi ce que vous voulez discuter du traitement de la peur."
+              ],
+              "benefit": "Les collègues connaissent la répartition et le travail clinique reste dans le cadre choisi."
+            }
+          ]
         }
       ],
       "ending_title": "Un objectif écrit avec ses mots",
@@ -323,7 +721,8 @@
       "continuity": {
         "choice": "Thaïs choisit un objectif personnel et convient avec Mme Verdier de discuter des options au prochain rendez-vous.",
         "next": "Pendant une projection professionnelle, Thaïs découvre qu’une image calme et une vidéo en mouvement peuvent susciter des réactions très différentes."
-      }
+      },
+      "conclusion": "Thaïs remplace « monter » par une phrase sur les sorties qu’elle veut pouvoir choisir. Elle prend un nouveau rendez-vous et envoie à Samir le tableau de terrain dans un autre message. L’objectif de soin peut évoluer sans changer d’emblée le poste qu’elle a choisi."
     },
     {
       "number": 8,
@@ -347,13 +746,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le mouvement de la caméra change la réaction",
-          "text": "Devant la photo fixe, Thaïs montre la borne et propose même d’agrandir l’eau. Quand la caméra descend vers le bord de la passerelle, elle recule sa chaise, attrape la table et a l’impression que son corps part vers l’avant. Elle reste silencieuse alors qu’Inès lui demande si un nom se lit bien. Les deux réactions surviennent devant des images du même endroit."
+          "heading": "Comment le mouvement d’une image peut-il changer ce que la hauteur évoque ?",
+          "points": [
+            {
+              "heading": "L’image fixe dirige le regard vers un détail",
+              "text": "La réaction peut dépendre de ce à quoi la personne prête attention à cet instant.",
+              "examples": [
+                "Thaïs utilise l’arrêt sur image pour entourer la borne.",
+                "Elle trouve le numéro plus lisible à l’écran et peut vérifier sa référence."
+              ]
+            },
+            {
+              "heading": "Un mouvement transforme la perception",
+              "text": "Une vue de même hauteur peut faire naître une autre impression lorsque le cadrage se déplace.",
+              "examples": [
+                "La caméra se dirige vers l’eau et Thaïs éprouve une impression soudaine de chute.",
+                "Une personne peut lire tranquillement une image fixe et se sentir saisie quand une vidéo fait apparaître la profondeur."
+              ]
+            },
+            {
+              "heading": "Le support peut être choisi selon sa fonction",
+              "text": "Adapter la présentation répond à l’usage prévu et ne dit pas tout des réactions futures.",
+              "examples": [
+                "Inès arrête la lecture et demande si Thaïs veut reprendre.",
+                "Thaïs choisit la photo fixe pour situer la borne et laisse une autre décision sur les vidéos pour plus tard."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le pouvoir de demander une pause",
-          "text": "Dans un travail en commun, la possibilité de mettre une séquence en pause permet de continuer à discuter de sa fonction. Inès peut préciser à quoi sert la vidéo et demander à Thaïs si elle souhaite revoir une partie. Elle peut aussi préparer un aperçu stable lorsqu’une photo suffit. Thaïs n’est pas tenue de raconter ce que lui a dit sa psychologue pour faire une proposition de montage.\n\nThaïs peut décrire à sa psychologue l’instant où le mouvement a changé son expérience et ce qu’elle arrivait à faire devant la photo fixe. Cet exemple donne des détails sur les deux réactions et laisse ouverte la question de ce qu’elle éprouverait dans le lieu réel. Avec Mme Verdier, elle a commencé à discuter des options qui lui permettraient de garder des activités importantes. L’ordinateur du bureau reste un outil de présentation. Chacune garde la possibilité de dire qu’elle a besoin de connaître le contenu à venir ou de continuer la séance de travail autrement."
+          "heading": "3 techniques pour décrire la différence entre deux présentations du même lieu",
+          "points": [
+            {
+              "heading": "Nommer le détail qui a changé",
+              "objective": "Donner au suivi deux observations sur un même lieu.",
+              "exercise": [
+                "Notez ce que vous regardiez dans la première image.",
+                "Décrivez ce qui a changé dans la seconde et ce que vous avez ressenti.",
+                "Reprenez la comparaison avec le professionnel sans devoir revoir les images."
+              ],
+              "benefit": "Le contexte de la réaction devient plus précis sans chercher à provoquer de nouveau la peur."
+            },
+            {
+              "heading": "Choisir le support utile au public",
+              "objective": "Garder une présentation qui répond à l’objectif du projet.",
+              "exercise": [
+                "Identifiez l’information à montrer.",
+                "Proposez un support qui permet de la lire ou de la comprendre.",
+                "Décidez avec l’équipe des autres images dont la présentation a vraiment besoin."
+              ],
+              "benefit": "La décision peut partir de ce que le document doit faire."
+            },
+            {
+              "heading": "Préparer l’annonce des vidéos",
+              "objective": "Permettre de choisir comment participer à une répétition.",
+              "exercise": [
+                "Demandez à l’équipe d’annoncer les extraits avant de les lancer.",
+                "Précisez ce que vous voudriez pouvoir faire si un extrait vous gêne.",
+                "Vérifiez avec elle comment poursuivre la présentation le cas échéant."
+              ],
+              "benefit": "Les participants disposent d’un cadre prévisible et peuvent maintenir leurs contributions."
+            }
+          ]
         }
       ],
       "ending_title": "La borne reste à l’écran",
@@ -368,7 +823,8 @@
       "continuity": {
         "choice": "Thaïs remplace une séquence par une photo qui remplit le même objectif. Inès annonce les vidéos pendant les répétitions.",
         "next": "Le gestionnaire rouvre l’accès au vallon et Thaïs met en œuvre la coordination au sol convenue avec Samir."
-      }
+      },
+      "conclusion": "La borne reste lisible sur la photo choisie avec Inès. Thaïs garde pour Mme Verdier la surprise ressentie quand l’image s’est déplacée vers l’eau. À quelques secondes d’intervalle, deux façons de montrer le même lieu ont changé ce qu’elle percevait."
     },
     {
       "number": 9,
@@ -392,13 +848,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "La tension qui revient au moment de l’appel",
-          "text": "Quand Inès appelle, Thaïs voit la plateforme par la vitre. Elle retrouve la tension et envisage de prétexter un rendez-vous. Elle ressent encore cette gêne en demandant les deux vues et en disant qu’elle reste à la station. Le partage prévu des tâches lui permet de reprendre la conversation avec l’habitant et d’utiliser ensuite les photos envoyées."
+          "heading": "Comment une mission peut-elle rester possible quand une tâche en hauteur est difficile ?",
+          "points": [
+            {
+              "heading": "Les accès sont vérifiés pour l’ensemble du groupe",
+              "text": "La participation s’appuie sur les consignes et la répartition prévues.",
+              "examples": [
+                "Samir confirme la réouverture avec le gestionnaire et reprend les consignes du jour.",
+                "Thaïs installe les cartes sur une table à l’abri pour recevoir les photos."
+              ]
+            },
+            {
+              "heading": "Une invitation imprévue peut remettre le choix en jeu",
+              "text": "La peur peut revenir lorsqu’une demande menace de modifier la place déjà convenue.",
+              "examples": [
+                "Thaïs se demande comment répondre quand le relevé pourrait l’amener à monter.",
+                "Elle demande à Inès de lui envoyer les deux vues et indique qu’elle reste à la station."
+              ]
+            },
+            {
+              "heading": "L’aménagement se vérifie dans le résultat du travail",
+              "text": "Un échange utile permet de repérer ce qui fonctionne et ce qui gagnerait à être précisé.",
+              "examples": [
+                "Depuis sa table, Thaïs rapproche la photographie du mur et ce qu’un habitant en sait.",
+                "À la fin, elle propose d’identifier les photos dès leur envoi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Vérifier que l’accord répond aux besoins de chacun",
-          "text": "Le rôle de Samir est de maintenir les conditions de sécurité et de regarder avec l’équipe ce qui peut se faire depuis chaque emplacement. Inès peut dire si l’envoi des vues lui demande trop de temps ou si elle a besoin d’un moyen de comparer deux photos. Thaïs peut proposer un autre outil ou un autre créneau. Ces décisions relèvent de la mission et peuvent être évaluées sur le résultat du travail.\n\nLa question de savoir ce que Thaïs veut travailler dans son suivi a un autre cadre. Elle peut expliquer à Mme Verdier ce qu’elle a ressenti en répondant à l’appel et ce que cet accord a rendu possible. Une journée de terrain utile apporte des exemples de participation. Elle n’impose aucune conclusion sur la disparition de la peur ni sur les rôles des prochaines missions."
+          "heading": "3 techniques pour faire fonctionner un ajustement sur le terrain",
+          "points": [
+            {
+              "heading": "Confirmer le rôle au début de la mission",
+              "objective": "Savoir comment obtenir les informations nécessaires sans changer de poste.",
+              "exercise": [
+                "Vérifiez les conditions d’accès avec le responsable.",
+                "Rappelez qui relève, qui photographie et qui vérifie les données.",
+                "Fixez le moyen d’envoyer les éléments entre les postes."
+              ],
+              "benefit": "L’équipe peut réaliser la mission en suivant une organisation commune."
+            },
+            {
+              "heading": "Répondre à une demande qui change le plan",
+              "objective": "Garder le choix de sa contribution lors d’un imprévu.",
+              "exercise": [
+                "Demandez quelle information motive la nouvelle demande.",
+                "Dites ce que vous pouvez vérifier depuis votre poste.",
+                "Convenez d’un relais ou d’un report si l’information manque encore."
+              ],
+              "benefit": "La question peut être résolue sans modifier sous pression l’accord de terrain."
+            },
+            {
+              "heading": "Ajuster le passage des informations après l’essai",
+              "objective": "Rendre le prochain relevé plus simple pour chacun.",
+              "exercise": [
+                "Notez où une donnée est devenue difficile à identifier.",
+                "Proposez une façon de l’indiquer dès l’envoi.",
+                "Vérifiez avec les collègues si ce changement leur convient."
+              ],
+              "benefit": "Le retour sur la mission améliore l’appui concret sur lequel repose le poste."
+            }
+          ]
         }
       ],
       "ending_title": "Le trait qui traverse le mur",
@@ -413,7 +925,8 @@
       "continuity": {
         "choice": "L’expédition aboutit aux relevés. Thaïs tient son rôle au sol et propose un ajustement concret au partage des photographies.",
         "next": "Au cours d’une sortie choisie avec Milo, la peur redevient forte dans une situation qui semblait d’abord accessible."
-      }
+      },
+      "conclusion": "Thaïs identifie le tracé à partir des photos et des indications des habitants. Son poste au sol lui permet de tenir le rôle qu’elle a choisi, même lorsque la question de monter revient. Le prochain ajustement portera sur l’identification des images."
     },
     {
       "number": 10,
@@ -437,13 +950,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Thaïs a trouvé une façon de faire aux archives. Elle éprouve une peur intense dans le cinéma. Les deux événements peuvent être décrits ensemble dans le suivi. Ils ne justifient pas de conclure, à partir de ce soir, à l’échec d’un accompagnement ou à la perte de tout ce qui lui a déjà été utile.\n\nLe fait qu’une phobie soit centrée sur un type de situation n’implique pas que toutes ses variantes soient vécues de la même manière. La vue sur la salle et le changement de place imprévu ont compté pour Thaïs. Son récit aide la psychologue à comprendre précisément ce qu’elle a remarqué."
+          "heading": "Comment la peur peut-elle revenir malgré une expérience plus facile ?",
+          "points": [
+            {
+              "heading": "Deux lieux de même type ne se présentent pas pareil",
+              "text": "Les repères visibles et la profondeur peuvent changer ce que la personne redoute.",
+              "examples": [
+                "Thaïs se souvient d’un escalier aux archives où la vue était masquée.",
+                "Au cinéma, le balcon s’ouvre sur la salle et la peur revient fortement."
+              ]
+            },
+            {
+              "heading": "L’attente d’avoir progressé peut ajouter de la déception",
+              "text": "Une expérience plus facile peut faire espérer que la suivante le sera aussi.",
+              "examples": [
+                "Thaïs est déçue de sentir une peur aussi vive en arrivant pour le film.",
+                "Milo commence à parler des archives puis lui demande si elle veut regarder les places du bas."
+              ]
+            },
+            {
+              "heading": "La soirée peut continuer avec un autre choix",
+              "text": "Une autre place permet parfois de retrouver l’activité souhaitée alors que la gêne persiste.",
+              "examples": [
+                "Thaïs demande à l’accueil si deux places en bas sont libres.",
+                "Elle retrouve le documentaire et pense encore à la montée au moment du générique."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mesurer le choix qui reste possible",
-          "text": "Dans le hall, Thaïs peut envisager la suite à partir de son objectif de la soirée. Elle avait envie de voir le film avec Milo. Elle peut demander si des places se libèrent, accepter une autre séance ou laisser son frère entrer s’il le souhaite. La réponse du cinéma et l’envie de chacun guideront cette décision. Le cinéma n’a aucune raison de faire de l’accès au balcon une épreuve.\n\nPour le suivi, elle peut dire que l’escalier des archives était plus facile que prévu et qu’elle s’est sentie déçue en revenant dans le hall. Le fait de remettre deux expériences dans leur contexte aide à trouver des objectifs qui tiennent compte des difficultés qui persistent. Mme Verdier pourra reprendre avec elle ce qui lui convient dans l’accompagnement."
+          "heading": "3 techniques pour relire deux situations qui n’ont pas demandé le même effort",
+          "points": [
+            {
+              "heading": "Décrire les différences entre les deux lieux",
+              "objective": "Préparer un échange qui ne réduit pas la peur à une seule mesure.",
+              "exercise": [
+                "Notez un détail qui était visible dans chaque situation.",
+                "Dites ce que vous redoutiez et l’effort que cela vous a demandé.",
+                "Reprenez les deux exemples avec le professionnel."
+              ],
+              "benefit": "Les différences de contexte peuvent éclairer une variation qui vous a surpris."
+            },
+            {
+              "heading": "Demander l’option qui garde l’activité possible",
+              "objective": "Vérifier un choix pratique quand le lieu ne convient pas.",
+              "exercise": [
+                "Identifiez ce que vous voulez encore faire.",
+                "Demandez au personnel quelles places ou modalités autorisées existent.",
+                "Choisissez avec l’autre personne de rester, de changer de place ou de reporter."
+              ],
+              "benefit": "La décision peut partir de ce que chacun souhaite pour la sortie."
+            },
+            {
+              "heading": "Choisir quand reparler de la peur",
+              "objective": "Éviter qu’une explication soit exigée au moment de reprendre la soirée.",
+              "exercise": [
+                "Dites à votre accompagnant si vous voulez une aide maintenant.",
+                "Précisez si vous préférez reparler de l’expérience plus tard.",
+                "Convenez d’un autre moment et gardez les questions cliniques pour le suivi."
+              ],
+              "benefit": "Le proche connaît l’appui attendu et le récit peut attendre un moment choisi."
+            }
+          ]
         }
       ],
       "ending_title": "Deux places près de la porte",
@@ -458,7 +1027,8 @@
       "continuity": {
         "choice": "Thaïs voit le film depuis le bas avec Milo et décide de reparler de la montée le lendemain.",
         "next": "Elle précise avec Milo quelle présence l’aide et ce qu’il peut réellement promettre pour la présentation de la carte."
-      }
+      },
+      "conclusion": "Le film a lieu en bas, et Thaïs demande à Milo de reparler de l’escalier le lendemain. La peur de ce balcon ne retire rien à l’expérience des archives. Les deux situations offrent des détails différents à reprendre en consultation."
     },
     {
       "number": 11,
@@ -482,13 +1052,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une demande qui commence avant l’ouverture des portes",
-          "text": "Dans la phobie spécifique, le besoin de se préparer peut concerner des moments bien avant le passage redouté. Thaïs anticipe déjà une invitation vers la galerie. Elle voudrait que Milo reste toute la matinée, puis se rappelle qu’au cinéma elle avait déjà craint qu’il se lasse. Elle arrive à préciser qu’elle souhaite surtout une présence pendant les premières questions et qu’elle préfère répondre elle-même aux invitations à monter."
+          "heading": "Comment le soutien d’un proche peut-il laisser chacun libre de sa décision ?",
+          "points": [
+            {
+              "heading": "Être présent peut avoir une fonction précise",
+              "text": "La présence d’un proche peut rassurer pendant une partie de l’activité sans déterminer toutes les décisions.",
+              "examples": [
+                "Thaïs souhaite que Milo soit là pour les premières questions.",
+                "Elle lui demande aussi un geste précis, celui de l’aider à poser les affiches."
+              ]
+            },
+            {
+              "heading": "L’aide pratique et la réponse personnelle se distinguent",
+              "text": "Le proche peut tenir une tâche et laisser la personne parler de ce qu’elle accepte.",
+              "examples": [
+                "Milo demande s’il doit intervenir si on propose la galerie.",
+                "Thaïs lui dit qu’elle veut répondre elle-même à cette invitation."
+              ]
+            },
+            {
+              "heading": "L’organisation continue après le départ du proche",
+              "text": "Une présence limitée peut être complétée par des rôles convenus avec les organisateurs.",
+              "examples": [
+                "Milo peut partir après les premières questions.",
+                "Thaïs écrit à Inès pour vérifier qui reprendra celles sur la galerie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Conserver une réponse quand le proche n’est plus là",
-          "text": "Milo peut dire à quel moment il peut aider et ce qu’il est prêt à faire. Thaïs peut convenir avec lui d’une heure d’arrivée et lui dire qu’elle souhaite garder la réponse si on l’invite à monter. Elle peut s’assurer avec Samir et Inès que la présence de Milo ne sera pas la seule manière de garder son rôle au sol. Leur accord sur la répartition permet de prévoir à qui transmettre une question. Le fonctionnement de la présentation peut être expliqué à tous sans dévoiler son diagnostic.\n\nL’organisation de la rencontre répond aux besoins du projet et permet aux visiteurs d’accéder aux informations. Thaïs peut, de son côté, choisir ce qu’elle veut discuter dans son suivi sur cette crainte et sur ses choix. Un soutien familial et une décision professionnelle peuvent coexister sans demander à Milo de prendre la place de ses collègues ou de sa psychologue."
+          "heading": "3 techniques pour préparer une présence qui aide sans prendre la parole à votre place",
+          "points": [
+            {
+              "heading": "Proposer une présence délimitée",
+              "objective": "Clarifier l’appui que vous souhaitez et celui que l’autre peut offrir.",
+              "exercise": [
+                "Choisissez le moment où sa présence vous aiderait.",
+                "Nommez la tâche ou le geste que vous voulez lui demander.",
+                "Convenez de son heure de départ ou du moment où vous ferez le point."
+              ],
+              "benefit": "Le proche peut s’engager sur une aide qu’il est libre d’accepter."
+            },
+            {
+              "heading": "Distinguer les paroles que chacun peut prendre",
+              "objective": "Garder la réponse aux invitations qui vous concernent.",
+              "exercise": [
+                "Identifiez une question à laquelle vous souhaitez répondre vous-même.",
+                "Dites au proche comment vous voulez qu’il vous laisse cet espace.",
+                "Précisez comment vous lui demanderez de l’aide si vous en voulez."
+              ],
+              "benefit": "L’accompagnement laisse à la personne le choix de parler et de demander un relais."
+            },
+            {
+              "heading": "Vérifier la suite avec les organisateurs",
+              "objective": "Éviter qu’une question de lieu dépende de la disponibilité du proche.",
+              "exercise": [
+                "Repérez le sujet qui doit être pris par l’équipe.",
+                "Demandez qui connaît la réponse et peut la donner.",
+                "Convenez à quel moment vous dirigerez les participants vers cette personne."
+              ],
+              "benefit": "Le fonctionnement de la présentation repose sur des rôles dont chacun est informé."
+            }
+          ]
         }
       ],
       "ending_title": "La première heure ensemble",
@@ -503,7 +1129,8 @@
       "continuity": {
         "choice": "Thaïs et Milo fixent une aide limitée à l’ouverture et conviennent qu’elle répondra elle-même aux invitations.",
         "next": "La carte est présentée en salle basse. Thaïs tient le premier échange avec les habitants puis décide de la part qu’elle prendra dans une prochaine mission."
-      }
+      },
+      "conclusion": "Milo apporte la carte postale, aide à poser les affiches et sait quand il partira. Thaïs décide de sa réponse si quelqu’un lui propose la galerie. La présence de son frère a une fonction précise au milieu d’une organisation que l’équipe tient avec elle."
     },
     {
       "number": 12,
@@ -527,13 +1154,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette scène, rester en salle basse lui permet de présenter le travail qu’elle a choisi de faire. Le projet aboutit et elle s’inquiète encore lorsqu’un visiteur lui parle de l’étage. Le fait que les deux soient vrais l’aide à ne plus juger toute sa journée d’après une seule proposition."
+          "heading": "Comment les choix retrouvés deviennent-ils visibles alors que la peur persiste ?",
+          "points": [
+            {
+              "heading": "Une tâche qui compte redevient possible",
+              "text": "Un changement utile peut se voir dans la façon dont la personne participe à une activité importante.",
+              "examples": [
+                "Thaïs peut montrer la carte et comparer les noms que les habitants lui donnent.",
+                "Elle réserve un exemplaire à l’archiviste après la présentation."
+              ]
+            },
+            {
+              "heading": "Une crainte peut garder sa place",
+              "text": "Le retour d’une activité ne fait pas disparaître toutes les réactions liées à la hauteur.",
+              "examples": [
+                "Thaïs sait qu’une prochaine vue plongeante pourra encore lui faire peur.",
+                "Elle retrouve dans son carnet le détour du tram et choisit une question à reprendre avec Mme Verdier."
+              ]
+            },
+            {
+              "heading": "Un nouvel engagement peut être examiné avant d’être accepté",
+              "text": "Retrouver une marge de décision peut consister à demander des informations avant de répondre.",
+              "examples": [
+                "Thaïs demande le dossier du prochain canal au lieu de dire tout de suite oui ou non.",
+                "Elle choisit avec Inès une heure pour commencer par les noms que les habitants utilisent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire un point sans se fixer une épreuve",
-          "text": "Dans le suivi, Thaïs peut revenir sur ses objectifs et expliquer lesquels ont changé. Elle veut pouvoir garder plus souvent les sorties qu’elle choisit. Elle aimerait toujours discuter des passerelles avec Mme Verdier. Elle peut décrire le trajet des archives, le cinéma et la manière dont elle a réparti les tâches sur le terrain. Les exemples aident à décider ensemble de ce qui mérite d’être poursuivi.\n\nAu travail, une nouvelle mission peut être acceptée, refusée ou ajustée après examen des conditions. Les questions qu’elle pose à Samir sur l’accès et la collecte font partie de son rôle de cartographe. Une rencontre réussie ouvre la discussion sur ce qu’elle veut faire ensuite. Elle n’a pas à rendre son suivi visible pour en tirer des décisions qui comptent dans sa vie."
+          "heading": "3 techniques pour faire un bilan à partir de ce qu’on a pu choisir",
+          "points": [
+            {
+              "heading": "Citer un choix concret retrouvé",
+              "objective": "Faire place au retentissement de la phobie dans un bilan de suivi.",
+              "exercise": [
+                "Retenez une situation où vous avez pu prendre une décision qui vous importait.",
+                "Dites ce qui l’a rendue possible et ce qui vous a encore coûté.",
+                "Présentez les deux aspects à votre professionnel."
+              ],
+              "benefit": "Le bilan peut inclure les effets dans la vie et la peur qui reste présente."
+            },
+            {
+              "heading": "Préparer la prochaine question de soin",
+              "objective": "Choisir un point à examiner au lieu de tirer une conclusion générale.",
+              "exercise": [
+                "Retrouvez une situation qui vous intrigue encore.",
+                "Notez ce que vous aimeriez comprendre ou changer.",
+                "Convenez avec le professionnel de la façon d’en parler au prochain entretien."
+              ],
+              "benefit": "La suite peut prendre appui sur une question formulée dans vos propres mots."
+            },
+            {
+              "heading": "Examiner un projet avant de s’engager",
+              "objective": "Évaluer une nouvelle mission selon son intérêt et ses conditions réelles.",
+              "exercise": [
+                "Demandez l’objectif, les accès et la répartition envisagés.",
+                "Repérez la contribution qui vous intéresse et ce qui reste à vérifier.",
+                "Fixez un moment pour donner votre réponse après cet examen."
+              ],
+              "benefit": "La décision peut tenir compte du projet entier, y compris des conditions qui rendraient la contribution possible."
+            }
+          ]
         }
       ],
       "ending_title": "Un tracé à discuter",
@@ -548,7 +1231,8 @@
       "continuity": {
         "choice": "Thaïs termine la carte et accepte d’examiner les conditions d’une nouvelle mission. Elle précise les sujets qu’elle veut reprendre en suivi.",
         "next": "La carte publiée et les accords de travail restent disponibles pour la suite. Le suivi se poursuit autour des déplacements choisis par Thaïs."
-      }
+      },
+      "conclusion": "La carte du vallon est imprimée et Thaïs a choisi de lire le dossier du prochain canal. Elle garde aussi une question sur le détour du tram pour Mme Verdier. Les choix retrouvés dans le travail peuvent compter alors que certaines hauteurs restent difficiles."
     }
   ]
 }

@@ -29,22 +29,83 @@ Irène demande si quelqu’un range pour lui. Jeanne, qui devait repartir tôt, 
 
 Armand pense d’abord qu’il faut deux boîtes. Il essaie une corbeille pour le courrier et la chemise rigide, bien visible, pour le foyer. Irène propose de faire un essai avant de déplacer autre chose. Quand elle demande ce qui serait le plus pratique pour une prochaine visite, Armand dit qu’il voudrait l’accueillir lui-même et parler cette fois des courriers difficiles à reprendre. Jeanne met sa veste. Ils ont déjà convenu qu’elle peut partir avant la fin.
 
-## Une aide se juge à l’usage
+## Un rangement se juge au moment où il sert
 
-Dans la maladie d’Alzheimer, une adaptation peut soutenir une activité précise et devoir être modifiée avec le temps. Le coin du buffet a aidé Armand à reprendre la chemise du pont bas. À mesure que des papiers s’y sont ajoutés, le même repère est devenu moins utile pour son courrier. Ce constat permet de chercher avec lui ce qui se perd dans le rangement : une feuille cachée, une différence peu visible ou l’étape où il faut s’en occuper.
+Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand ; le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui.
 
-La Haute Autorité de santé recommande d’évaluer régulièrement l’acceptabilité et l’utilité des interventions avec la personne et ceux qui l’accompagnent. Le NICE envisage notamment l’ergothérapie pour soutenir le fonctionnement quotidien chez certaines personnes vivant avec une démence légère à modérée.
+## Comment voit-on qu’un repère ne suffit plus ?
 
-## Un courrier à reprendre se perd parmi les autres papiers
+### L’emplacement est bon, le papier devient invisible
 
-Armand saisit sans hésiter la chemise qui dépasse du buffet. Pour retrouver un courrier reçu récemment, il doit sortir plusieurs feuilles qui se sont empilées dessus. Il se rappelle cette fois où se trouvent les horaires de la bibliothèque et peut les reprendre lui-même. Les deux situations montrent ce qui change selon la manière dont chaque papier reste visible ou se mêle aux autres.
+Une indication utile pour une chemise peut perdre son intérêt quand trop d’objets occupent la même place.
 
-## Essayer deux destinations bien visibles
+**Exemples concrets**
 
-Armand peut choisir une place pour le courrier à reprendre et garder ses documents de la bibliothèque dans la chemise. Une aide est plus facile à discuter quand on peut la montrer : « Je retrouve la chemise, mais je ne sais plus si j’ai répondu à cette enveloppe. » Il peut décider de revoir cet exemple avec Irène au rendez-vous suivant. Si une difficulté persiste ou touche une démarche qui ne peut attendre, l’équipe peut l’aider à trouver un appui adapté plutôt que d’ajouter une pile de rappels.
+- La chemise du pont et une enveloppe à traiter se retrouvent au coin du buffet.
+- Une note de rendez-vous glissée dans une pile de prospectus ne se voit plus avant le départ.
 
-Le rangement de ses cartes suit une autre logique. L’original du pont bas demeure près du fauteuil quand Armand veut le feuilleter ; la reproduction approuvée relève de la bibliothèque. La chemise du foyer peut contenir seulement ce qui sert au rendez-vous. Armand garde le choix de ce qui reste visible pour une personne qui vient l’aider. Il peut demander qu’on le prévienne avant de déplacer une feuille.
+### Deux tâches demandent deux indices
+
+Retrouver un projet et se rappeler qu’une réponse reste à faire sont des besoins différents.
+
+**Exemples concrets**
+
+- Armand essaie la corbeille pour le courrier et la chemise rigide pour le foyer.
+- Des documents destinés au prochain rendez-vous peuvent rester près du sac tandis qu’une enveloppe à traiter attend dans un bac visible.
+
+### Le choix doit tenir dans la vie de la personne
+
+Un rangement devient plus facile à utiliser s’il est accessible depuis un endroit où l’on passe déjà.
+
+**Exemples concrets**
+
+- Armand veut voir sa corbeille depuis la table.
+- Une personne retrouve mieux un agenda près du téléphone qu’au fond d’un casier classé par thèmes.
+
+## 3 techniques pour tester un repère de mémoire chez soi
+
+### 1. Observer avant de déplacer
+
+Découvrir à quelle étape l’information devient difficile à retrouver.
+
+**Exercice pratique**
+
+- Reprenez une recherche récente avec la personne.
+- Regardez où elle commence spontanément.
+- Repérez ensemble ce qui masque ou détourne le renseignement.
+
+L’aide peut répondre à l’obstacle observé plutôt que remplacer tout le rangement.
+
+### 2. Faire un essai limité
+
+Distinguer deux usages sans multiplier les boîtes.
+
+**Exercice pratique**
+
+- Choisissez deux catégories réellement utiles.
+- Décidez avec la personne de leur emplacement.
+- Utilisez ces places jusqu’au prochain point convenu, si elles lui conviennent.
+
+Un petit changement se compare plus facilement à ce qui se passait avant.
+
+### 3. Vérifier ce qui reste difficile
+
+Adapter le soutien quand la maison ou les tâches changent.
+
+**Exercice pratique**
+
+- Apportez à l’ergothérapeute un exemple où le repère a servi.
+- Montrez aussi une recherche qui a encore pris du temps.
+- Convenez de ce qu’il faut garder ou modifier.
+
+Le suivi porte sur l’usage réel du repère, qui peut évoluer avec les besoins.
 
 ## Une place pour l’enveloppe
 
 Irène écrit avec Armand le jour de la prochaine visite et lui laisse le contact du service. Armand place la corbeille du courrier où il peut la voir depuis la table. Il reprend ensuite la chemise du foyer et appelle Nadia. Elle lui propose un jeudi dans deux semaines pour regarder les quatre cartes avant la remise. Ils gardent l’annonce sans date publique jusque-là. Il note « dix heures, porte verte » sur le billet. La corbeille vide lui plaît. Il y dépose l’enveloppe à laquelle il doit encore répondre.
+
+---
+
+**Conclusion**
+
+La corbeille reçoit d’abord une seule enveloppe, et le billet du foyer reste à sa place. Armand pourra dire, à la prochaine visite, si cette séparation aide encore quand de nouveaux courriers arrivent.

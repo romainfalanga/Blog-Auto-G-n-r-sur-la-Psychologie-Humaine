@@ -28,20 +28,83 @@ Le lendemain de la répétition, Garance pose son calendrier à côté du catalo
 
 Garance lui montre la page des contacts et garde les autres feuilles dans la pochette. Elle préfère qu’Éva lui demande ce qu’elle a remarqué si plusieurs jours lui paraissent inhabituels. Un appel en pleine répétition, en revanche, ne lui serait pas utile. Éva dit qu’elle peut lui parler à la sortie, mais qu’elle n’aura pas toujours le temps de rester longtemps. Garance retourne le calendrier et inscrit le jour où elle doit revoir sa psychologue.
 
-## Des repères convenus à un moment calme
+## À quoi sert un plan de soutien ?
 
-Un plan partagé peut préciser ce que la personne veut faire et qui contacter si une inquiétude apparaît. Le NICE recommande de construire ces repères avec la personne suivie et, lorsque c’est approprié, avec les proches qu’elle choisit. Les changements qui retiennent l’attention, les modalités de contact et la réponse en cas de risque sont discutés dans le cadre des soins. Pour Garance, la pochette contient des informations de travail. Elle peut les reprendre au rendez-vous si ses besoins ou les disponibilités d’Éva changent.
+Un plan de suivi du trouble bipolaire peut indiquer comment demander un avis lorsque des changements inquiètent et quelle place un proche accepte de tenir. Il se prépare avec l’équipe et la personne peut choisir ce qu’elle partage. Garance ouvre la pochette bleue pour comparer les coordonnées avec Éva. Les deux amies doivent aussi trouver un moment pour se parler qui convienne à leurs journées.
 
-## Comment cette difficulté se manifeste
+## Comment un plan de soutien devient-il utilisable à deux ?
 
-Garance partage la manière dont elle souhaite qu’Éva lui parle. Elle peut préciser quels faits lui semblent utiles, comme une succession de nuits très différentes ou des engagements inhabituels. Éva peut lui dire ce qu’elle observe, demander comment Garance se sent et lui rappeler le contact prévu. La lecture clinique revient aux soignants. Si la situation paraît urgente ou présente un danger immédiat, le plan indique de joindre un service d’urgence. Éva peut demander de l’aide sans attendre d’avoir compris quel épisode se dessine.
+### Les repères se précisent avant la difficulté
 
-## Séparer les engagements et le soutien
+Un plan prévoit ce qui peut amener à parler d’un changement sans interpréter chaque journée.
 
-Le texte du programme dépend du temps qu’il reste autour des corrections et des répétitions. Garance prévoit de dire à Lise qu’elle peut relire une seule notice si elle la reçoit à la date convenue. Une autre personne peut préparer le premier jet. Lise saura à qui transmettre la suite si les épreuves du catalogue arrivent plus tard. Le plan de soin peut rester dans le tiroir pendant cet échange.
+**Exemples concrets**
 
-Garance souhaite aussi pouvoir écrire à sa psychiatre avant le prochain rendez-vous s’il y a un changement qui l’inquiète. Éva a deux soirées où elle sera difficile à joindre et peut les annoncer. Garance repère le numéro du cabinet et le contact qui figure sur le plan en dehors des horaires habituels. Elle peut examiner ces informations avec sa psychologue et les garder à portée de main. Le soutien d’Éva s’ajoute à ce cadre, avec les limites dont elles ont parlé.
+- Garance veut qu’Éva lui pose une question si plusieurs jours lui paraissent inhabituels.
+- Elle préfère échanger à la sortie de la répétition qu’être appelée au milieu du morceau.
+
+### Le partage se fait page par page
+
+L’aide peut s’organiser autour d’informations choisies et limitées à ce qui est utile.
+
+**Exemples concrets**
+
+- Garance montre la page des contacts et garde les autres feuilles dans la pochette.
+- Éva prend une photo de la page avec son accord avant de partir.
+
+### La disponibilité a des bornes
+
+Un appui concret est plus facile à utiliser si l’on sait quand il peut être proposé et quel relais est prévu le reste du temps.
+
+**Exemples concrets**
+
+- Éva annonce deux soirs où elle terminera tard.
+- Garance garde le contact du cabinet pour les moments où elle souhaite demander un avis.
+
+## 3 techniques pour préparer un soutien à la mesure de chacun
+
+### 1. Choisir ce qu’un proche peut vous dire
+
+Préparer une remarque facile à recevoir et ancrée dans un fait.
+
+**Exercice pratique**
+
+- Nommez un changement dont vous aimeriez entendre parler s’il se répète.
+- Dites où et quand vous préféreriez avoir la conversation.
+- Demandez au proche si cette façon de faire lui convient.
+
+Le proche sait comment ouvrir la discussion sans prétendre savoir ce que le changement signifie.
+
+### 2. Mettre à part les coordonnées utiles
+
+Permettre à chacun de retrouver l’information qu’il a accepté de garder.
+
+**Exercice pratique**
+
+- Vérifiez les coordonnées avec l’équipe.
+- Choisissez ensemble quelles lignes peuvent être partagées.
+- Convenez de la façon de transmettre la prochaine mise à jour.
+
+Une page courte peut suffire pour orienter un appel en gardant le reste confidentiel.
+
+### 3. Prévoir le soir où l’amie travaille
+
+Savoir vers qui se tourner quand un appui informel n’est pas disponible.
+
+**Exercice pratique**
+
+- Demandez quand le proche est généralement joignable.
+- Notez avec les soignants le contact à utiliser en son absence et hors horaires habituels.
+- En cas de danger immédiat, utilisez le relais urgent sans attendre le retour du proche.
+
+L’accès aux soins ne dépend pas d’un seul horaire ni de la réponse d’Éva.
 
 ## Une seule notice dans le message
 
 Garance sort la partition du sac et la donne à Éva. Sur l’écran, elle écrit à Lise qu’elle pourra relire une notice, si le texte est prêt à temps, et qu’elle préfère laisser les autres à l’ensemble. Elle garde le calendrier ouvert jusqu’à ce que l’heure de retour du catalogue soit notée. Éva photographie la page de contacts avec son accord. Garance range le reste dans la pochette bleue. Quand Éva s’en va, elle joue le début de la valse à mi-voix en cherchant un trombone. Elle se rappelle enfin l’endroit où sa partie reprend.
+
+---
+
+**Conclusion**
+
+Éva repart avec une partition et la page que Garance lui a confiée. Elles savent mieux dans quelles conditions se parler et où trouver les coordonnées. La notice proposée à Lise reste une décision de calendrier que Garance prend séparément.

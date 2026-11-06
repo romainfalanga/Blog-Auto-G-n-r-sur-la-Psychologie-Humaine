@@ -34,18 +34,81 @@ Roxane ramène la gomme sur le carton pour le remettre droit. Elle écoute la tr
 
 Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.
 
-## Comment cette difficulté se manifeste
+Dans le trouble des sons de la parole, la facilité à distinguer un mot peut changer d’une prise à l’autre. Elle dépend de la façon dont les sons sont produits et aussi de ce que capte le micro. En comparant les prises, Roxane cherche celle qui donnera sa place au silence et à l’indice. Ce choix de montage ne mesure pas son niveau de parole.
 
-Le groupe de Roxane, lui, cherche un montage qui sert la devinette. Zoé lui indique ce qu’elle comprend et Roxane peut dire quelle version donne le ton qu’elle voulait.
+## Comment deux prises de la même phrase donnent-elles des résultats différents ?
 
-Le ruban sur la première prise complique l’écoute pour des raisons qui n’appartiennent pas à la parole de Roxane. Dans la troisième, le peu de bruit de fond et la phrase que Zoé connaît facilitent peut-être l’écoute. Un autre auditeur peut avoir besoin du carton. Le groupe a prévu de le poser au moment de l’indice.
+### Un son extérieur reste dans le fichier
 
-## Laisser une place au jeu dans le montage
+Le micro enregistre aussi ce qui se passe autour. Un incident de prise peut rendre un mot moins clair, même si la phrase était bien reconnaissable sur place.
 
-L’enseignante fait écouter deux versions sans demander une prise de plus. Dans l’une, la phrase arrive presque avec le bruit. Dans l’autre, quelques secondes la séparent du tambourinage. Roxane préfère la deuxième. Zoé avait envie d’ajouter un son fabriqué par le groupe. Elle décide de conserver ses percussions de table pour l’ouverture de la rencontre, à un moment où elles ne masqueront pas l’indice.
+**Exemples concrets**
 
-Il reste à décider quelle voix arrivera au public, et à quel moment. Roxane accepte que la troisième prise serve pour la rencontre à la médiathèque. Elle veut garder la seconde phrase et le moment de retourner le rabat pour les visiteurs qui seront devant elles. Mme Sorel limite l’usage du fichier à la rencontre prévue et met les essais de côté pour le rangement, selon ce que le groupe a convenu.
+- Le bruit du ruban adhésif se superpose à la voix sur l’un des essais.
+- Si quelqu’un rapproche sa chaise pendant l’indice, l’auditeur au casque peut entendre le frottement avant le mot.
+
+### La même phrase peut être plus ou moins facile à distinguer
+
+Répéter un texte ne produit jamais exactement la même parole. Une difficulté sur un son peut gêner davantage dans un enchaînement que dans un mot isolé.
+
+**Exemples concrets**
+
+- La comparaison de deux fichiers donne à Roxane des informations sur ces deux prises, à ce moment de la séance.
+- Un enfant peut être compris sur le nom de l’animal seul puis devoir le préciser quand il l’emploie dans une phrase rapide.
+
+### L’écoute change avec ce qu’on sait
+
+La personne qui a le carton sous les yeux reconstitue parfois un mot qu’un visiteur, privé de ce contexte, ne reconnaît pas.
+
+**Exemples concrets**
+
+- Zoé sait déjà qu’il est question de racines lorsqu’elle écoute la phrase.
+- Un auditeur qui reçoit seulement le fichier peut hésiter sur le mot précis alors qu’il entend nettement le début et la fin.
+
+## 3 techniques pour choisir un enregistrement qui porte le message
+
+### 1. Comparer depuis la place du futur auditeur
+
+Tester la part de la phrase qu’on comprend sans préparation.
+
+**Exercice pratique**
+
+- Demandez à une personne qui accepte l’essai d’écouter sans voir l’indice écrit.
+- Demandez ce qu’elle a compris, puis ce qui reste incertain.
+- Comparez les deux prises sur ce seul passage.
+
+Le retour porte sur l’écoute réelle du fichier plutôt que sur un jugement global de la voix.
+
+### 2. Distinguer le bruit de la phrase
+
+Repérer ce qu’un changement technique peut améliorer.
+
+**Exercice pratique**
+
+- Localisez l’instant où le bruit couvre la voix.
+- Si l’enfant souhaite reprendre, éloignez la source du bruit avant l’essai.
+- Laissez-lui choisir entre les prises ou un carton de renfort.
+
+Le groupe peut améliorer l’enregistrement sans multiplier les corrections de prononciation.
+
+### 3. Fixer l’usage du fichier choisi
+
+Garder la maîtrise de la prise qui sera entendue.
+
+**Exercice pratique**
+
+- Distinguez les essais de la version destinée au public.
+- Donnez au fichier choisi un nom qui indique son usage.
+- Vérifiez l’écoute dans la salle prévue et respectez l’accord sur la diffusion.
+
+La prise reste une partie du projet, dont les conditions peuvent être revues avant la rencontre.
 
 ## L’espace laissé entre les deux pistes
 
 Sur la feuille de Zoé, Roxane dessine un rectangle pour le bruit et un autre pour sa voix. Entre les deux, elle trace un petit trait qui veut dire « attendre les propositions ». Elles pourront attendre plus longtemps en faisant une pause si des mains se lèvent. Mme Sorel nomme le montage retenu « À jouer au début ». À la fin de la séance, Roxane soulève la gomme. Sous le premier indice, elle trouve un carton vierge, qu’elle prend pour noter ce que l’essai dans la salle leur apprendra.
+
+---
+
+**Conclusion**
+
+Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle ; le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes.

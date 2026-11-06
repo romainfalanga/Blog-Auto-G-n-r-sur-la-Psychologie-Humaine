@@ -29,22 +29,83 @@ Elle a choisi la chaise au bout de la table. Elle peut voir l’allée qui ramè
 
 André lui avait demandé s’il pouvait proposer le partage. Ils n’avaient pas décidé où chacun prendrait les légumes. Maud demande s’ils pourraient passer dimanche. Selma aurait envie de dire oui pour garder la conversation simple. Elle regarde la pluie qui commence derrière le tilleul et pense aux personnes qui passeraient sans savoir à quelle heure la serre est ouverte. Elle ouvre le torchon et dit qu’elle voudrait d’abord proposer une heure et un endroit.
 
-## Faire place à une conversation quand l’alerte capte l’attention
+## L’alerte peut peser au milieu d’un moment agréable
 
-Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre.
+Dans le TSPT, rester attentif à ce qui se passe autour de soi peut prendre de la place jusque dans une rencontre qui plaît. L’effet n’est pas toujours visible dans la façon de parler ou de rester à table. Selma veut discuter de ses salades et garde l’allée dans son champ de vision. Quand la discussion devient une proposition de visite, elle sent sa main se crisper et choisit de préciser ce qu’elle veut organiser.
 
-## L’attention partagée entre le repas et le portail
+## Comment l’alerte influe-t-elle sur un repas entre voisins ?
 
-Selma écoute ses voisins parler des limaces et réfléchit à la place qui manque à Maud. Depuis le bout de la table, elle garde aussi l’allée du portail en vue. Quand les regards se tournent vers elle, sa main se resserre sur le torchon. Elle se représente les passages à la serre dont l’heure resterait incertaine. Sa réaction se mêle à son envie réelle de partager les récoltes et de garder une partie du lieu privée.
+### Le choix d’une place a plusieurs raisons
 
-## Donner à chacun une façon de participer
+Une place peut servir au geste prévu et permettre de garder un repère utile.
 
-Selma peut proposer que les récoltes soient déposées à une heure donnée près du portail. André peut dire s’il veut être présent et à quel moment il pourra repartir. Les voisins peuvent demander comment prévenir s’ils arrivent plus tard. Chacun dispose alors d’une proposition qu’il peut accepter ou ajuster.
+**Exemples concrets**
 
-Si Selma préfère écouter une partie du repas, les autres peuvent continuer la discussion et lui laisser le temps de revenir à son idée. Elle garde la liberté de faire une autre proposition un autre jour. Si elle prend la parole aujourd’hui, le contenu de ce qu’elle dit peut recevoir la même attention que les autres idées de jardin.
+- Selma s’assoit au bout de la table pour ouvrir son torchon.
+- De là, elle garde aussi dans son champ de vision l’allée qui ramène au portail.
 
-Le NICE inclut les relations et les activités quotidiennes dans ce que peut prendre en compte une prise en charge. Selma peut parler en consultation des moments qu’elle souhaite conserver et des obstacles qu’elle y retrouve.
+### Une question imprévue prend toute la place
+
+Quand plusieurs personnes attendent une réponse, l’effort de rester dans l’échange peut monter vite.
+
+**Exemples concrets**
+
+- Les voisins se tournent vers Selma quand André évoque le partage et elle serre le torchon.
+- La demande de passer dimanche lui fait imaginer des gens devant la serre sans horaire prévu.
+
+### Certains échanges reviennent dans un autre cadre
+
+Une idée qui se perd dans le groupe peut rester possible en marchant à deux ou à un autre moment.
+
+**Exemples concrets**
+
+- Pendant le repas, Selma pense à la place qui manque à Maud et n’en parle pas.
+- En rentrant, elle lui décrit le carré de terre ensoleillé au pied du mur.
+
+## 3 techniques pour garder une place choisie dans un échange de groupe
+
+### 1. Préparer un point d’entrée
+
+Choisir comment prendre part à une rencontre qui compte.
+
+**Exercice pratique**
+
+- Repérez la place où vous souhaitez vous asseoir.
+- Apportez, si cela vous aide, un objet ou une idée pour commencer la conversation.
+- Convenez d’un moyen de reprendre à deux ce que vous n’aurez pas dit à table.
+
+La rencontre peut garder plusieurs formes de participation.
+
+### 2. Prendre le temps de préciser l’offre
+
+Répondre à une demande sans accepter par défaut ce qu’elle implique.
+
+**Exercice pratique**
+
+- Dites que vous souhaitez d’abord fixer l’heure ou le lieu.
+- Proposez une forme précise, comme le partage au portail.
+- Demandez qui peut prendre une tâche et pendant combien de temps.
+
+Le groupe sait ce qui est possible et la personne garde la décision sur son espace.
+
+### 3. Reprendre la conversation qui vous intéressait
+
+Retrouver un échange que l’alerte ou le groupe a relégué au second plan.
+
+**Exercice pratique**
+
+- Repérez l’idée que vous vouliez partager.
+- Proposez d’en parler en chemin ou à un autre moment.
+- Si cette attention divisée revient souvent, décrivez au suivi ce qu’elle vous empêche de faire.
+
+Un lien peut reprendre dans un cadre plus favorable et le retentissement reste dicible en consultation.
 
 ## Dimanche près du portail
 
 Selma propose le dimanche en fin de matinée, près du portail. André dit qu’il peut rester jusqu’à midi. Maud ira chercher deux cagettes et récupérera celle qui restera vide. Pendant que les autres reprennent la discussion sur les limaces, Selma replace les feuilles dans le torchon. Elle s’aperçoit qu’elle n’a encore rien dit de son idée à Maud. En rentrant, elles font un bout de chemin ensemble. Selma lui parle du carré de terre au pied du mur qui reçoit du soleil après le déjeuner.
+
+---
+
+**Conclusion**
+
+Selma propose un lieu et une heure plutôt que d’ouvrir la serre aux visites. Elle retrouve ensuite l’occasion de parler à Maud du coin ensoleillé. Le repas montre qu’elle peut aimer l’échange tout en choisissant le cadre qui lui convient.

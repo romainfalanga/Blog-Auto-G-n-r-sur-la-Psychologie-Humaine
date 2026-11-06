@@ -34,18 +34,79 @@ Le message qu’elle tient ouvert est une photo de la borne. Elle n’a rien à 
 
 Une phobie spécifique peut s’accompagner d’une montée de peur si vive qu’elle devient visible. À la crainte de la situation s’ajoutent parfois l’embarras ou la peur d’être commenté.
 
-## Comment cette difficulté se manifeste
+## Comment la peur d’être jugée peut-elle s’ajouter à la peur de tomber ?
 
-Thaïs redoute la hauteur dans l’escalier. Elle éprouve aussi de la honte à l’idée que Milo pense qu’elle exagère ou se désintéresse de ce qu’il a préparé. Ces deux expériences ont des conséquences différentes. L’une l’arrête à l’entrée et l’autre lui donne envie d’inventer une raison pour partir.
+### La peur a d’abord un objet précis
 
-Une montée de panique peut survenir au contact de ce qui fait peur ou à son anticipation. Les circonstances, le déclencheur, les difficultés rencontrées ailleurs et leur durée donnent au clinicien des éléments pour comprendre l’ensemble. Chez Thaïs, le lieu redouté reste lié aux hauteurs, même quand le regard des autres complique la situation.
+Une réaction visible peut venir de la hauteur avant de concerner le regard des autres.
 
-## Rendre visible la sortie que chacun attendait
+**Exemples concrets**
 
-Milo peut dire qu’il a cru que sa sœur n’avait plus envie de passer l’après-midi avec lui. Elle peut lui expliquer ce qu’elle souhaitait voir et ce qui l’a retenue dans le hall. Cette conversation n’exige pas de passer l’escalier pour vérifier ce qu’elle dit. Elle peut permettre à chacun de faire une nouvelle proposition en comprenant mieux la réaction de l’autre.
+- Thaïs veut voir l’affiche mais redoute de tomber dans l’escalier du moulin.
+- Elle reste en bas alors que Milo et d’autres visiteurs montent.
 
-Thaïs peut aussi dire ce qui lui serait utile dans une prochaine sortie. Ici, elle préfère qu’on lui demande si elle veut une alternative avant de partir chercher une personne qui la ferait monter. Milo peut de son côté aller voir l’exposition ou rester avec elle. Un accord ponctuel permet de retrouver une partie de la sortie prévue et laisse à chacun sa décision.
+### Le regard prêté à l’autre augmente l’embarras
+
+La personne peut anticiper un reproche sans l’avoir entendu.
+
+**Exemples concrets**
+
+- Thaïs imagine que son frère lui demandera de faire un effort.
+- Une personne peut expliquer qu’elle a changé d’avis sur une visite alors qu’elle redoute seulement le passage en hauteur.
+
+### Le désir de poursuivre peut être entendu autrement
+
+Une confidence peut distinguer l’activité souhaitée et l’endroit que la personne ne veut pas traverser.
+
+**Exemples concrets**
+
+- Dans la cour, Thaïs dit à Milo qu’elle veut toujours voir les affiches.
+- Milo l’écoute puis demande au bénévole s’il existe une reproduction à l’accueil.
+
+## 3 techniques pour parler de la gêne à une personne choisie
+
+### 1. Choisir un endroit où parler
+
+Donner à l’échange un cadre que vous préférez.
+
+**Exercice pratique**
+
+- Demandez si vous pouvez vous mettre un moment à l’écart.
+- Dites ce que vous redoutez dans la situation et ce que vous vouliez faire.
+- Précisez ce que vous souhaitez garder entre vous.
+
+Le proche peut comprendre le changement de programme sans vous demander de le justifier en public.
+
+### 2. Corriger un malentendu sur l’activité
+
+Préserver une sortie quand une partie du lieu vous fait peur.
+
+**Exercice pratique**
+
+- Dites ce qui vous intéresse toujours dans la visite.
+- Demandez s’il existe une manière autorisée d’y accéder autrement.
+- Décidez ensemble de la suite en laissant chacun libre de poursuivre ou de s’arrêter.
+
+Une autre proposition peut permettre de garder l’intérêt de la sortie.
+
+### 3. Garder un exemple du jugement anticipé
+
+Faire une place à la gêne dans le suivi.
+
+**Exercice pratique**
+
+- Notez le détail de hauteur qui a déclenché la peur.
+- Ajoutez ce que vous avez imaginé que l’autre dirait et ce qu’il a réellement dit.
+- Apportez cet exemple au professionnel si l’embarras vous empêche souvent de parler.
+
+La consultation peut distinguer la peur initiale de la gêne relationnelle qui s’y ajoute.
 
 ## Une carte postale dans l’enveloppe
 
 Milo demande au bénévole s’il existe une reproduction de l’affiche à l’accueil. Thaïs le rejoint quand il lui fait signe. Ils trouvent le nom du canal sur une carte postale et un deuxième document avec une autre orthographe. Ils glissent les deux références dans l’enveloppe. En sortant, Thaïs dit à Milo qu’il peut lui demander directement si elle change d’avis sur une sortie. Elle lui demande de garder pour lui la conversation sur la peur.
+
+---
+
+**Conclusion**
+
+Les deux références entrent dans l’enveloppe sans que Thaïs monte l’escalier. Elle a pu dire à Milo qu’elle avait peur de tomber et qu’elle voulait encore voir l’affiche. Leur accord sur la confidentialité donne une suite à cette conversation.

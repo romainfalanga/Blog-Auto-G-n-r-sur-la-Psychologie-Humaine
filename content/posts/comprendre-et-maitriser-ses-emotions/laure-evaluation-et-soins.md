@@ -31,16 +31,81 @@ La médecin lui demande combien de temps elle a passé à chercher un rendez-vou
 
 ## Ce que l’évaluation a réuni
 
-La Dre Valette reprend les éléments qui ont permis d’établir le diagnostic. Les douleurs et la fatigue de Laure sont présentes la plupart des jours depuis plusieurs mois. La médecin apprécie si les symptômes continuent à mobiliser une part disproportionnée de son attention au regard de sa situation médicale et des réponses qui lui ont déjà été apportées. Cela gêne des activités importantes. La question du genou montre aussi pourquoi un médecin continue à étudier les problèmes physiques et leurs effets. Un examen répond à la question pour laquelle il a été indiqué. L’évaluation du trouble demande des éléments cliniques positifs, recueillis au fil du temps.
+L’évaluation du trouble de détresse physique s’appuie sur l’histoire des symptômes pénibles, la place que l’attention leur accorde dans la durée et leur retentissement. Elle prend aussi en compte les affections physiques qui peuvent causer ou accentuer certaines plaintes. Un examen rassurant ou une succession de rendez-vous ne suffisent pas à poser le diagnostic. La Dre Valette revient avec Laure sur ce qu’elles ont observé au fil du temps, tout en gardant une question distincte sur le genou.
 
-## Des démarches qui coûtent du temps
+## Comment l’évaluation distingue-t-elle plusieurs questions de santé ?
 
-Les démarches de Laure ont chacune une histoire. Parfois, elle attendait une réponse à une question ouverte. À d’autres moments, elle a repris la même recherche après une explication déjà reçue, avec l’impression qu’il lui fallait recommencer pour pouvoir décider du lendemain. La Dre Valette examine ces situations séparément. Des difficultés d’accès, des consignes peu claires ou un symptôme qui change peuvent donner de bonnes raisons de reprendre contact. La fréquence des rendez-vous, prise seule, ne renseigne guère sur ce dont Laure avait besoin.
+### L’histoire des symptômes se construit dans le temps
 
-## Fixer qui suit quoi
+Les professionnels reprennent ce qui persiste et ce qui a changé au lieu de conclure à partir d’une seule consultation.
 
-Elles conviennent que la Dre Valette garde la vue d’ensemble des examens et des décisions médicales. Nina Perrin, la psychologue de Laure, peut travailler avec elle sur les conséquences au quotidien et la place des symptômes dans son attention. Avant tout échange, elles délimitent ce que Laure accepte de faire circuler entre les deux professionnelles. Elle pourra garder avec elle un résumé des décisions et de la prochaine date. Ce cadre doit lui donner un point de contact, y compris si une plainte se transforme ou apparaît.
+**Exemples concrets**
+
+- La Dre Valette demande ce qui est habituel dans le bras et ce qui a évolué au fil des mois.
+- Une personne rapporte depuis quand plusieurs douleurs gênent ses trajets et ce que les examens ont déjà éclairé.
+
+### Un examen répond à une question précise
+
+Une affection physique peut expliquer certaines plaintes sans éclairer toutes les autres.
+
+**Exemples concrets**
+
+- Le genou de Laure reste suivi séparément et n’explique pas toute sa fatigue ni l’ensemble de ses douleurs.
+- Une personne reçoit une explication pour une douleur locale et garde un autre rendez-vous pour discuter d’un symptôme différent.
+
+### La gêne quotidienne apporte une information
+
+Le coût réel d’une plainte et de l’attention qu’elle mobilise ne se lit pas dans un résultat isolé.
+
+**Exemples concrets**
+
+- Laure décrit la question de Yasmina qu’elle n’a entendue qu’à moitié et les provisions restées dans le sac.
+- Une personne explique qu’elle passe ses soirées à revenir sur la gravité d’une douleur et remet des activités qui lui importent.
+
+## 3 techniques pour comprendre ce que l’évaluation a établi
+
+### 1. Préparer un exemple situé
+
+Donner au médecin un point de départ dans la vie quotidienne.
+
+**Exercice pratique**
+
+- Choisissez un épisode dont vous vous souvenez.
+- Dites ce que vous ressentiez et ce que vous faisiez.
+- Ajoutez ce que la gêne vous a empêché de finir.
+
+Le médecin peut replacer le symptôme et son retentissement dans votre histoire.
+
+### 2. Demander ce que répond chaque examen
+
+Clarifier ce qui est connu et ce qui demande encore un suivi.
+
+**Exercice pratique**
+
+- Montrez le résultat dont vous ne comprenez pas la portée.
+- Demandez à quelle question il répondait.
+- Faites préciser les prochaines étapes pour les autres questions.
+
+La discussion peut avancer sans faire d’un résultat un verdict sur tout ce que vous ressentez.
+
+### 3. Choisir le document à transmettre
+
+Faciliter la coordination des soins avec votre accord.
+
+**Exercice pratique**
+
+- Demandez un résumé des points convenus.
+- Décidez avec le professionnel à qui il sera utile.
+- Transmettez ce document par le moyen dont vous êtes convenus.
+
+Les soignants concernés disposent d’un repère commun, et vous gardez la main sur le partage.
 
 ## Une feuille pour le prochain rendez-vous
 
 Laure récupère ses documents. La Dre Valette les lui rend dans le même ordre et lui donne un résumé daté. Elles conviennent d’une prochaine consultation et Laure choisit d’apporter elle-même le premier résumé à Nina Perrin. Elle laisse sur le papier ce qu’elles ont décidé au sujet des suites et glisse les comptes rendus complets dans son sac. Dehors, elle appelle Benoît pour confirmer leur dîner de vendredi. Il lui demande s’il faut avancer la date. « Vendredi est bien. J’aimerais juste qu’on mange chez moi cette fois. »
+
+---
+
+**Conclusion**
+
+Le compte rendu du genou garde sa place et le résumé daté répond à une autre question. Laure repart avec des éléments à transmettre à Nina si elle le souhaite. Elle peut aussi appeler Benoît pour le dîner sans avoir à lui expliquer toute l’évaluation.

@@ -29,22 +29,83 @@ Mme Roussel pose deux trousses sur la table voisine. Elle lui demande si elle a 
 
 « Je sais où vous trouver. Mais au centre je ne veux pas que vous me demandiez devant tout le monde si ça va », dit-elle. Mme Roussel se rapproche pour voir la bande sans la prendre. Adèle y ajoute une deuxième fenêtre, décale la barre en sens inverse et lève enfin le crayon.
 
-## Ce qu’un repas ordinaire peut apprendre
+## Un appui utilisé peut encore demander un effort
 
-Un repas possible dans un cadre aménagé ne suffit pas à dire comment se passeront les autres repas d’une personne qui a un ARFID. Les caractéristiques des aliments, le lieu, les personnes présentes et les échanges à table peuvent différer.
+Un repas pris dans le cadre prévu peut rester éprouvant pour une personne suivie pour un ARFID. Ce que les autres voient ne rend pas compte de l’effort pour demander une aide ou de la fatigue qui suit. Adèle a pu utiliser l’appui de midi et a dû s’arrêter dans le couloir en remontant. Elle veut préciser à Mme Roussel comment vérifier le soutien sans attirer les regards.
 
-## Comment cette difficulté se manifeste
+## Comment l’effort reste-t-il peu visible quand l’appui a fonctionné ?
 
-Ici, Adèle et les adultes vérifient une partie pratique du plan : la possibilité de trouver la personne prévue et de lui parler discrètement. Vérifier ce relais ne change rien à ce qu’Adèle a prévu pour le repas avec son équipe de suivi. Elle reste libre de dire ce qui lui a coûté de l’effort.
+### Demander l’aide demande déjà une démarche
 
-Adèle apporte deux informations distinctes : elle a pu demander l’appui et elle reste préoccupée par une question qui serait posée devant le groupe. Ces précisions peuvent servir à organiser le voyage. Le médecin et la diététicienne gardent la responsabilité du suivi de la santé et de l’alimentation, qui se poursuit indépendamment de ce midi.
+Trouver la personne et le moment où s’adresser à elle peut compter autant que connaître la solution.
 
-## Prendre une décision quand les adultes ont vérifié leur part
+**Exemples concrets**
 
-Le centre a confirmé l’accès à la petite salle et les dispositions nécessaires pour respecter les modalités revues avec l’équipe. Mme Roussel et M. Benhamou ont fixé leur relais. Adèle sait à qui s’adresser ; Eva sait à quoi elle s’engage si Adèle souhaite rentrer ou si les accompagnateurs doivent organiser son retour. Mme Roussel peut maintenant reprendre la fiche de départ avec elles et préciser à Adèle que la discussion sur place reste possible.
+- Adèle utilise le relais convenu à la cantine sans devoir expliquer son repas dans la file.
+- Un élève attend de croiser l’adulte seul avant d’oser demander la salle qui lui a été indiquée.
 
-La bande de papier répond à une autre question : à quoi veut-elle employer son temps à l’atelier ? Adèle peut décider d’emporter un dessin qu’elle pourra modifier en fonction de ce qu’elle verra. Elle n’a pas besoin de savoir d’avance si la fenêtre qu’elle a dessinée ressemble à la vraie.
+### Le contrecoup apparaît hors de la table
+
+Après le repas, la personne peut avoir encore besoin de temps avant de rejoindre l’activité suivante.
+
+**Exemples concrets**
+
+- Adèle s’arrête pour attendre que le bruit des élèves passe.
+- Un jeune prend le repas prévu puis demande un moment calme avant de rejoindre sa classe.
+
+### Une question publique peut décourager un retour utile
+
+Un adulte peut chercher à prendre des nouvelles et rendre plus difficile l’expression de la personne s’il le fait devant les autres.
+
+**Exemples concrets**
+
+- Adèle demande à Mme Roussel de lui parler en privé au centre.
+- Un élève répond « oui » dans le groupe alors qu’il voudrait expliquer une difficulté à part.
+
+## 3 techniques pour rendre la demande d’aide plus discrète
+
+### 1. Choisir la façon de joindre l’adulte
+
+Savoir comment demander un appui au moment utile.
+
+**Exercice pratique**
+
+- Indiquez l’adulte que vous pouvez joindre.
+- Convenez d’un endroit ou d’une phrase brève qui vous convient.
+- Vérifiez sur une journée ordinaire si vous pouvez le trouver comme prévu.
+
+L’essai renseigne sur la facilité d’accès à l’aide, pas seulement sur l’issue du repas.
+
+### 2. Décrire le moment après
+
+Donner à l’adulte une information qu’il ne pouvait pas voir à table.
+
+**Exercice pratique**
+
+- Dites ce qui a été possible grâce à l’appui.
+- Expliquez en quelques mots ce qui est resté difficile en repartant.
+- Demandez que ce retour se fasse en privé.
+
+L’organisation peut tenir compte du trajet et du temps entre deux activités.
+
+### 3. Rendre le retour utile au suivi
+
+Distinguer l’accès à un appui de l’évaluation du repas.
+
+**Exercice pratique**
+
+- Rapportez à l’équipe ce qui a fonctionné dans l’organisation.
+- Décrivez ce qui vous a encore coûté et toute difficulté à suivre le plan.
+- Demandez quels éléments revoir avant la prochaine sortie.
+
+L’équipe dispose d’informations pour décider des ajustements nécessaires.
 
 ## La bande dans le carnet
 
 Mme Roussel sort la fiche déjà signée par Eva, qui attendait encore l’accord d’Adèle. Elle la retourne du côté des ateliers. « Alors on confirme ? » Adèle dit oui pour le voyage et garde son premier choix. Elle coince la bande blanche entre les pages du carnet et précise qu’elle veut voir la fenêtre de près. « De près, oui. On demandera où on a le droit de se placer », répond la professeure. Pour la prochaine bande, Adèle essaiera deux fenêtres qui ne se touchent pas.
+
+---
+
+**Conclusion**
+
+Adèle confirme le voyage après avoir dit comment elle veut être approchée. Le repas de midi a donné une information utile et l’arrêt dans le couloir en donne une autre. Elle reprend son dessin avec ces deux faits en tête.

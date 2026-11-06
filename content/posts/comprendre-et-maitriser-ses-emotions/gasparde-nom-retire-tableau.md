@@ -30,18 +30,81 @@ Une femme arrive avec une raquette à la main. Elle s’appelle Dounia et a lais
 
 ## Comment une interprétation peut prendre la force d’une conviction
 
-Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi. Chez Gasparde, l’espace blanc fait surgir l’idée qu’on s’organise pour l’écarter. Elle l’éprouve avec une force qui dépasse la simple question du tableau. Cette peur s’inscrit dans une histoire plus longue dont elle parle en consultation. Son équipe lui a expliqué le diagnostic de trouble délirant avant le début du récit.
+Dans le trouble délirant, une conviction persistante peut porter sur l’idée que d’autres cherchent à nuire ou à écarter la personne. Elle peut donner un sens personnel à des faits ordinaires et rester très convaincante pour la personne qui la vit. Le diagnostic de Gasparde a été établi avant le récit, à partir d’une histoire plus longue. Un prénom absent d’une affiche est une observation vérifiable. Le projet d’exclusion que Gasparde croit y reconnaître reste son interprétation.
 
-## Comment cette difficulté se manifeste
+## Comment une conviction persécutive prend-elle appui sur des détails ordinaires ?
 
-Dans ce trouble, les convictions persistantes peuvent concerner des intentions hostiles que la personne attribue à son entourage. Leur contenu et leur retentissement varient. La disparition du nom sur l’affiche est observable. Ce qu’elle signifie pour les autres membres du club reste à préciser. Une évaluation clinique se fait à partir d’une histoire et d’un ensemble d’éléments, y compris les conflits ou les injustices effectivement vécus.
+### Un détail prend le sens d’une décision
 
-## Faire une place à la question vérifiable
+Ce que la personne observe et ce qu’elle en déduit peuvent lui paraître inséparables.
 
-Gasparde a un moyen de traiter le changement qui concerne sa fonction. Elle peut demander qui met le tableau à jour, quelle information le club a décidé d’y afficher et comment les gens la joignent. Les réponses serviront à renseigner les adhérents. Elles pourront laisser ouverte la question de ce qu’elle ressent en découvrant son nom absent.
+**Exemples concrets**
 
-Si Basile entend surtout qu’elle a peur de perdre sa place, il peut s’arrêter sur ce point. Une phrase sur ce qu’il sait de l’affiche, suivie d’un temps pour écouter, laisse plus de place à la discussion qu’une défense de toutes les personnes présentes. Il a une tâche au club et peut dire jusqu’où il est en mesure de répondre. Gasparde choisira le moment et la personne avec qui parler du reste.
+- L’espace blanc après les horaires paraît annoncer à Gasparde qu’elle n’a plus sa place.
+- Quelqu’un lit une liste réorganisée et y voit un message dirigé contre lui avant de connaître la raison du changement.
+
+### D’autres scènes semblent donner la même réponse
+
+Une préoccupation déjà présente peut orienter le sens donné à des paroles entendues en passant.
+
+**Exemples concrets**
+
+- Une question entre deux joueurs semble à Gasparde faire allusion à une décision dont elle a été tenue à l’écart.
+- Une conversation s’interrompt au moment où une personne arrive et elle croit y reconnaître la même intention hostile.
+
+### La crainte infléchit une tâche encore possible
+
+La conviction peut accaparer un échange alors que le travail en cours reste à la portée de la personne.
+
+**Exemples concrets**
+
+- Gasparde songe à renvoyer Dounia puis trouve son créneau dans le carnet.
+- Un bénévole veut fermer un local après avoir lu un affichage qui l’inquiète, alors qu’une réservation est déjà confirmée.
+
+## 3 techniques pour répondre à une situation précise malgré une conviction inquiétante
+
+### 1. Revenir à la demande qui est devant soi
+
+Donner à l’autre l’information dont il a besoin maintenant.
+
+**Exercice pratique**
+
+- Nommez la demande que vous avez entendue.
+- Consultez le support prévu pour y répondre.
+- Communiquez seulement la décision qui concerne cette personne.
+
+Une tâche concrète peut avancer sans que la préoccupation soit résolue.
+
+### 2. Poser une question sur l’affichage
+
+Traiter la difficulté d’organisation sans engager un débat sur les intentions.
+
+**Exercice pratique**
+
+- Repérez le changement que vous avez vu.
+- Demandez qui peut expliquer son usage.
+- Convenez d’un échange sur le renseignement à donner aux adhérents.
+
+Le club peut corriger une information utile au public, quelle que soit l’inquiétude encore présente.
+
+### 3. Parler de la peur à un interlocuteur de soins
+
+Recevoir un appui si la conviction occupe durablement le travail ou le reste de la journée.
+
+**Exercice pratique**
+
+- Choisissez un moment où elle vous a empêché de faire quelque chose.
+- Décrivez ce que vous avez vécu et la conséquence concrète.
+- Demandez à l’équipe quel appui conviendrait à votre situation.
+
+Le suivi peut travailler la détresse sans demander à l’entourage de vérifier la conviction.
 
 ## Le message à Basile
 
 Elle a envoyé deux phrases. « Qui a mis la feuille sous le plastique ? Je voudrais qu’on regarde comment les gens trouvent le bon contact. » Basile lui répond depuis son travail. Il propose d’apporter les deux versions samedi matin. Gasparde fixe l’heure. Avant de partir, elle ajoute dans son carnet le rappel qu’elle vient de faire à Dounia. Dix-huit heures, mardi. Elle retient la porte derrière les deux joueurs qui sortent. L’un d’eux la remercie. Elle sent qu’elle pourrait chercher longtemps ce que son ton voulait dire. Elle descend la rue jusqu’au rond-point en pensant au double que Brigitte lui a proposé.
+
+---
+
+**Conclusion**
+
+L’affiche a changé et Gasparde a éprouvé ce changement comme une mise à l’écart. Elle confirme le créneau de Dounia et obtient un moment pour parler du contact sur l’affiche. Cette décision n’exige pas que la peur ait déjà disparu.

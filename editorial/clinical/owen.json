@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Une idée peut précéder le mot",
-          "text": "Le bégaiement peut interrompre le déroulement de la parole alors même que la personne sait ce qu’elle veut dire. Une répétition, un son qui se prolonge ou un blocage peuvent rendre cette interruption perceptible. Dans un blocage, il peut n’y avoir aucun son à entendre pendant un moment. Cela n’indique ni la qualité de l’idée, ni le travail qui a précédé la prise de parole, ni l’intelligence de la personne. La CIM-11 regroupe le bégaiement développemental dans les troubles de la fluence de la parole."
+          "text": "Le bégaiement peut interrompre le déroulement de la parole alors même que la personne sait ce qu’elle veut dire. Une répétition, un son qui se prolonge ou un blocage peuvent rendre cette interruption perceptible. Dans un blocage, il peut n’y avoir aucun son à entendre pendant un moment. Cela n’indique ni la qualité de l’idée, ni le travail qui a précédé la prise de parole, ni l’intelligence de la personne. La CIM-11 regroupe le bégaiement développemental dans les troubles de la fluence de la parole.\n\nAu club, c’est le mot « moment » qui reste bloqué. Owen a déjà dessiné trois cadrans pour expliquer son projet. Lorsque Lucile propose un autre mot, le groupe se met à parler d’un même sac plutôt que d’une même minute. La phrase interrompue et l’idée mal comprise demandent deux réponses différentes."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Owen, le diagnostic est établi depuis avant cette réunion. Dans cette scène, ce qui lui coûte est aussi de devoir récupérer une idée que le mot proposé par Lucile a déjà fait partir dans une autre direction."
+          "heading": "Comment un blocage interrompt-il une idée déjà prête ?",
+          "points": [
+            {
+              "heading": "Le mot est disponible, la parole s’arrête",
+              "text": "Un blocage peut interrompre le déroulement de la phrase alors que la personne a déjà trouvé son mot.",
+              "examples": [
+                "Owen vise « moment » pour expliquer ses trois cadrans, même si le mot ne sort pas tout de suite.",
+                "Un élève peut connaître le nom du réalisateur qu’il cite et rester bloqué avant de le prononcer."
+              ]
+            },
+            {
+              "heading": "Le silence peut être mal interprété",
+              "text": "Une pause audible ou silencieuse ne donne pas accès à ce que la personne sait ou souhaite faire ensuite.",
+              "examples": [
+                "Lucile croit pouvoir compléter la phrase d’Owen à partir de son début.",
+                "Dans une réunion, quelqu’un peut croire qu’un intervenant a oublié son idée et passer à l’ordre du jour suivant."
+              ]
+            },
+            {
+              "heading": "Le mot ajouté change le sujet",
+              "text": "En complétant trop vite, on risque d’introduire une idée différente de celle qu’on cherchait à aider.",
+              "examples": [
+                "Le « même sac » proposé par Lucile déplace la discussion que les trois cadrans devaient ouvrir.",
+                "Un partenaire qui suggère « demain » alors que l’autre allait dire « dimanche » peut entraîner le groupe vers une autre date."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Le cercle autour du sac",
-          "text": "Le mot deviné par Lucile est plausible : elle regarde un sac au tableau et pense aider le groupe à avancer. Owen, lui, parle de la durée de la scène. Laisser la phrase se terminer donne donc accès à une information qui change le projet. La Stuttering Foundation recommande de laisser le temps à la personne de finir et de prêter attention à ce qu’elle dit, sans fournir de mot à sa place. Owen trouve ici une formulation brève, parce qu’il a envie de reprendre la phrase. Une autre fois, il pourrait montrer le croquis ou demander à revenir à son idée après quelqu’un d’autre. Lucile peut garder le feutre à portée de main sans écrire la fin avant de l’avoir entendue. Elle n’a rien à deviner de son diagnostic pour lui laisser le choix."
+          "heading": "3 techniques pour laisser une idée aller jusqu’au bout",
+          "points": [
+            {
+              "heading": "Attendre la suite",
+              "objective": "Préserver le tour de la personne pendant un blocage.",
+              "exercise": [
+                "Gardez votre attention sur la personne.",
+                "Laissez-lui le temps de poursuivre à sa façon.",
+                "Reprenez la discussion à partir de sa phrase terminée."
+              ],
+              "benefit": "Owen peut donner sa propre formulation sans devoir reprendre le tour."
+            },
+            {
+              "heading": "Rendre la parole après une interruption",
+              "objective": "Revenir à l’idée sans faire durer l’incident.",
+              "exercise": [
+                "Reconnaissez brièvement l’interruption.",
+                "Dites « je t’écoute » et faites une pause.",
+                "Répondez au contenu quand la personne a fini."
+              ],
+              "benefit": "L’échange peut repartir de l’idée qu’elle voulait présenter."
+            },
+            {
+              "heading": "Offrir une manière de reprendre le fil",
+              "objective": "Donner un choix si l’auteur veut changer de support.",
+              "exercise": [
+                "Laissez sa feuille ou son schéma à portée.",
+                "Demandez en privé si un geste ou un temps d’attente l’aide.",
+                "Appliquez seulement l’appui convenu à la prochaine discussion."
+              ],
+              "benefit": "La personne conserve ses mots et décide comment les faire parvenir."
+            }
+          ]
         }
       ],
       "ending_title": "Une seule trotteuse",
@@ -54,7 +110,8 @@
         "next": "Nassim est prêt à écouter un essai si le temps de tournage reste raisonnable. Le groupe doit obtenir un créneau et du matériel avant de pouvoir lui faire entendre les versions."
       },
       "clinical_focus": "Blocage de parole",
-      "clinical_intro": "Owen sait qu’il veut filmer trois versions de la même minute. Quand le mot « moment » reste bloqué, Lucile propose « le même sac » et le groupe part dans une autre direction. Un blocage de bégaiement peut être silencieux alors que le mot est déjà connu. Ce qui frustre Owen, c’est aussi de perdre l’occasion d’expliquer lui-même son idée."
+      "clinical_intro": "Owen sait qu’il veut filmer trois versions de la même minute. Quand le mot « moment » reste bloqué, Lucile propose « le même sac » et le groupe part dans une autre direction. Un blocage de bégaiement peut être silencieux alors que le mot est déjà connu. Ce qui frustre Owen, c’est aussi de perdre l’occasion d’expliquer lui-même son idée.",
+      "conclusion": "Les trois cadrans montrent l’idée qui était prête pendant le blocage. Une fois revenu à sa phrase, Owen peut discuter du temps de tournage avec Nassim. Il choisit de présenter cette version au professeur qui encadre le club."
     },
     {
       "number": 2,
@@ -72,17 +129,73 @@
         {
           "role": "explanation",
           "heading": "Le même propos dans deux situations",
-          "text": "Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne."
+          "text": "Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.\n\nOwen bute sur « sac » pendant que M. Vasseur cherche une décision avant la sonnerie. Le temps restant est une contrainte réelle pour réserver le préau. En traitant cette réservation séparément, le groupe peut accorder à l’idée d’Owen le temps de discussion qui lui manquait."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Owen, les huit minutes ont deux effets : elles limitent ce qu’il peut exposer et elles font peser sur son silence une interprétation. M. Vasseur croit qu’il manque une décision alors qu’Owen est en train de défendre une proposition."
+          "heading": "Comment une limite de temps change-t-elle la prise de parole ?",
+          "points": [
+            {
+              "heading": "L’attention se partage entre la phrase et l’horloge",
+              "text": "La pression ressentie pour parler peut varier selon la situation. La même présentation peut donc demander un effort différent.",
+              "examples": [
+                "Owen a préparé le titre du film, mais bute sur « sac » quand la réunion touche à sa fin.",
+                "En classe, annoncer une idée à un voisin peut sembler plus facile que la dire avant que le professeur distribue la parole ailleurs."
+              ]
+            },
+            {
+              "heading": "Le silence peut être pris pour une décision manquante",
+              "text": "Quand un groupe a une échéance, il peut confondre l’interruption d’une phrase et l’absence de réponse.",
+              "examples": [
+                "M. Vasseur regarde l’heure pour régler la réservation et attend de savoir si le groupe a choisi.",
+                "Un animateur peut passer au sujet suivant parce qu’il croit que personne ne répond, alors qu’un élève essaie de reprendre sa phrase."
+              ]
+            },
+            {
+              "heading": "L’échéance et la discussion peuvent être séparées",
+              "text": "Un horaire fixe n’oblige pas à régler toutes les questions au même instant.",
+              "examples": [
+                "Le préau reste réservé jusqu’au lendemain à midi pendant que le groupe prépare un court rendez-vous.",
+                "Dans un autre club, on peut confirmer le matériel avant la fermeture et réserver la discussion sur les rôles à la prochaine séance."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une réservation, puis les questions",
-          "text": "Le professeur a besoin d’un horaire et d’un projet de tournage assez clair pour encadrer le club. Owen veut pouvoir exposer ce qui distingue son idée d’un plan de tournage ordinaire. Ils peuvent traiter ces besoins à des moments différents. Une réservation provisoire permet de gérer la contrainte du jour ; un rendez-vous avec les croquis sur la table laisse à Owen le choix d’alterner parole et dessin. Il peut préciser ce qui l’aiderait : montrer d’abord les trois images, annoncer lui-même la fin de sa présentation, puis entendre les questions. Le temps convenu doit rester assez souple pour cette présentation. Owen n’a pas à raconter ses rendez-vous de santé pour négocier cet ordre. Le groupe pourra encore trouver que l’idée est trop difficile à tourner."
+          "heading": "3 techniques pour organiser un échange quand le temps est compté",
+          "points": [
+            {
+              "heading": "Isoler la décision urgente",
+              "objective": "Donner à chaque décision un délai utilisable.",
+              "exercise": [
+                "Nommez ce qu’il faut régler avant la sonnerie.",
+                "Listez les questions qui peuvent attendre.",
+                "Fixez un créneau pour en discuter avec leurs auteurs."
+              ],
+              "benefit": "La salle peut être réservée sans transformer chaque phrase en compte à rebours."
+            },
+            {
+              "heading": "Fixer le moment des questions",
+              "objective": "Éviter de devoir défendre plusieurs morceaux d’une idée à la fois.",
+              "exercise": [
+                "Demandez à la personne comment elle veut présenter.",
+                "Convenez qu’un geste ou la fin du dernier support ouvre les questions.",
+                "Rappelez cet ordre au groupe avant le début."
+              ],
+              "benefit": "Les interlocuteurs savent quand attendre et quand intervenir."
+            },
+            {
+              "heading": "Prévoir une réponse différée",
+              "objective": "Permettre à la personne de contribuer si la discussion doit vraiment finir.",
+              "exercise": [
+                "Vérifiez avec elle le point qui reste en suspens.",
+                "Choisissez un moyen de répondre plus tard, par écrit ou de vive voix.",
+                "Donnez l’heure à laquelle cette réponse sera reprise par le groupe."
+              ],
+              "benefit": "La contrainte reste explicite et l’idée a une suite prévue."
+            }
+          ]
         }
       ],
       "ending_title": "Mercredi au crayon",
@@ -100,7 +213,8 @@
         "next": "Le préau est réservé provisoirement jusqu’à la pause du lendemain. Owen apporte ses trois bandes découpées et M. Vasseur a noté l’ordre de parole convenu."
       },
       "clinical_focus": "Pression temporelle et bégaiement",
-      "clinical_intro": "Owen bute sur « sac » pendant qu’il reste huit minutes à la réunion. M. Vasseur regarde sa montre et cherche à savoir si le groupe a pris une décision. La pression pour parler peut modifier le bégaiement et la façon dont le silence est interprété. Séparer la réservation et la présentation redonne à Owen du temps pour une idée qu’il avait préparée."
+      "clinical_intro": "Owen bute sur « sac » pendant qu’il reste huit minutes à la réunion. M. Vasseur regarde sa montre et cherche à savoir si le groupe a pris une décision. La pression pour parler peut modifier le bégaiement et la façon dont le silence est interprété. Séparer la réservation et la présentation redonne à Owen du temps pour une idée qu’il avait préparée.",
+      "conclusion": "Owen sépare son idée en trois bandes et demande que les questions attendent la dernière. M. Vasseur peut garder le préau au crayon jusqu’au rendez-vous. Cette marge change les conditions de l’échange sans prédire comment chaque mot sortira."
     },
     {
       "number": 3,
@@ -118,17 +232,73 @@
         {
           "role": "explanation",
           "heading": "Avoir plusieurs façons de contribuer",
-          "text": "Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler."
+          "text": "Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler.\n\nLe blocage arrive sur « poignée », au moment où Owen doit expliquer ce que voit le troisième personnage. Ses camarades ont les trois dessins devant eux et peuvent garder la question ouverte pendant qu’il reprend. Les bandes complètent une parole qui continue. Elles servent aussi à discuter des versions du film et du temps que demandera l’essai."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Owen, les bandes maintiennent ensemble les trois points de vue pendant qu’il explique le ruban. Elles restent lisibles pendant son blocage. Il peut les montrer, ajouter une précision à voix haute et décider quand il a terminé. L’ASHA invite à regarder la participation et les conditions de communication, en plus de ce qui arrive à la parole elle-même. Un support aide parfois à préserver une place dans la conversation sans changer la fluence. Owen bute encore sur « poignée » et transmet quand même la différence qui l’intéresse. Demain, il pourra préférer s’en passer pour une autre discussion."
+          "heading": "Comment un support laisse-t-il la discussion avancer pendant un blocage ?",
+          "points": [
+            {
+              "heading": "Le support garde un repère commun",
+              "text": "Un dessin consultable pendant une interruption permet de retrouver de quoi parle la personne.",
+              "examples": [
+                "Les trois bandes d’Owen montrent que les personnages regardent la même minute depuis des endroits différents.",
+                "Dans un atelier, une photo de la poignée peut permettre de suivre le sujet pendant que quelqu’un reprend une phrase."
+              ]
+            },
+            {
+              "heading": "L’ordre convenu préserve la parole",
+              "text": "Le groupe peut regarder le support tout en attendant la suite. Une règle simple évite qu’un regard sur la feuille soit pris pour une fin de tour.",
+              "examples": [
+                "M. Vasseur a noté que les questions attendraient la troisième bande.",
+                "Un élève peut pointer le deuxième dessin et poursuivre son explication sans qu’un camarade commence la sienne."
+              ]
+            },
+            {
+              "heading": "L’idée reçoit un retour sur le fond",
+              "text": "Quand la proposition est accessible, les participants peuvent la discuter, y compris exprimer un désaccord ordinaire.",
+              "examples": [
+                "Nassim veut comparer les versions avant de s’engager sur le tournage.",
+                "Lucile peut prendre le sac et proposer un essai pendant qu’Owen choisit le plan à garder."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Comparer ce que chacun voit",
-          "text": "La proposition doit encore répondre à la question de Nassim. M. Vasseur peut tenir l’ordre de discussion sans trancher le montage à la place du groupe. Owen propose un test qui tient dans le créneau : un plan fixe, deux versions très courtes à écouter sur les mêmes images. La première confie le récit à une seule voix ; l’autre le partage. Chacun peut ensuite dire à quel moment il a reconnu le sac ou perdu le fil. Ce retour porte sur l’histoire et le travail du groupe. Owen ne demande pas qu’on protège son idée des objections. Il a besoin de pouvoir les entendre après avoir terminé, et d’y répondre avec les mots ou les dessins qu’il aura choisis."
+          "heading": "3 techniques pour compléter la parole par un support choisi",
+          "points": [
+            {
+              "heading": "Préparer ce que l’on veut montrer",
+              "objective": "Partager les éléments qu’un auditeur doit relier.",
+              "exercise": [
+                "Choisissez une image ou un mot par étape de l’idée.",
+                "Disposez les éléments dans l’ordre qui vous convient.",
+                "Décidez ce que vous voulez dire à partir de chacun."
+              ],
+              "benefit": "Le groupe garde une carte de l’explication si la parole s’interrompt."
+            },
+            {
+              "heading": "Laisser la personne ouvrir les questions",
+              "objective": "Donner un signal lisible à tous.",
+              "exercise": [
+                "Choisissez avec elle le moment où les questions seront bienvenues.",
+                "Annoncez-le avant la présentation.",
+                "Pendant une pause, attendez ce signal en gardant le document visible."
+              ],
+              "benefit": "Le support soutient le tour de parole au lieu de le terminer."
+            },
+            {
+              "heading": "Mettre la proposition à l’essai",
+              "objective": "Poursuivre la discussion sur ce que le projet demande.",
+              "exercise": [
+                "Formulez l’objection en termes de temps, de matériel ou de résultat.",
+                "Demandez ce qu’un essai court permettrait de comparer.",
+                "Convenez du prochain pas avec les personnes qui auront ce rôle."
+              ],
+              "benefit": "La qualité de l’idée se discute à partir du projet."
+            }
+          ]
         }
       ],
       "ending_title": "Un plan pour deux versions",
@@ -146,7 +316,8 @@
         "next": "Mercredi est confirmé pour un essai au banc, sous réserve des autorisations gérées par M. Vasseur. Owen envisage de prêter sa voix, sans avoir encore choisi de passage."
       },
       "clinical_focus": "Participation malgré le blocage",
-      "clinical_intro": "Quand la phrase d’Owen s’arrête sur « poignée », ses trois dessins restent lisibles et ses camarades attendent. Le bégaiement continue de se faire entendre, mais le groupe peut suivre ce qu’il essaie d’expliquer et lui laisser la suite de la phrase. Une personne qui bégaie peut s’appuyer sur un schéma ou sur l’écrit pour participer à une réunion tout en gardant la possibilité de parler."
+      "clinical_intro": "Quand la phrase d’Owen s’arrête sur « poignée », ses trois dessins restent lisibles et ses camarades attendent. Le bégaiement continue de se faire entendre, mais le groupe peut suivre ce qu’il essaie d’expliquer et lui laisser la suite de la phrase. Une personne qui bégaie peut s’appuyer sur un schéma ou sur l’écrit pour participer à une réunion tout en gardant la possibilité de parler.",
+      "conclusion": "Avec les bandes, Owen garde son tour et entend l’objection de Nassim. Le groupe réduit l’essai à un banc et garde deux versions à comparer, après les accords nécessaires. Owen peut encore réfléchir à la voix qu’il aimerait prêter au film."
     },
     {
       "number": 4,
@@ -164,17 +335,73 @@
         {
           "role": "explanation",
           "heading": "Choisir ce qu’on attend du suivi",
-          "text": "L’accompagnement orthophonique d’un adolescent qui bégaie peut porter sur la façon dont il souhaite participer à des situations qui comptent pour lui. L’ASHA décrit des objectifs adaptés à la personne, qui peuvent concerner l’aisance à communiquer, l’impact du bégaiement au quotidien et les réactions de l’entourage. La fréquence des blocages entendus en séance ne résume pas ce qui se passe au lycée. En France, l’orthophoniste est un professionnel de santé qui intervient notamment dans les troubles de la parole."
+          "text": "L’accompagnement orthophonique d’un adolescent qui bégaie peut porter sur la façon dont il souhaite participer à des situations qui comptent pour lui. L’ASHA décrit des objectifs adaptés à la personne, qui peuvent concerner l’aisance à communiquer, l’impact du bégaiement au quotidien et les réactions de l’entourage. La fréquence des blocages entendus en séance ne résume pas ce qui se passe au lycée. En France, l’orthophoniste est un professionnel de santé qui intervient notamment dans les troubles de la parole.\n\nOwen a envisagé de se mettre au son pour éviter le micro, alors même que jouer une voix lui plaît. Il craint surtout d’être évalué au nombre de prises. Au cabinet, cette appréhension fournit une question à discuter : qu’aimerait-il essayer et dans quelles conditions ?"
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Avec Mme Roussel, Owen peut examiner ce qui lui convient et ce qui lui pèse, même s’il n’a aucun extrait à lui faire écouter. Elle ne décide ni de son rôle dans le film, ni des personnes à qui il le montrera."
+          "heading": "Comment l’appréhension influence-t-elle un choix avant de parler ?",
+          "points": [
+            {
+              "heading": "Une situation future occupe déjà l’esprit",
+              "text": "Une personne peut imaginer les réactions des autres et modifier son projet avant que le moment de parler arrive.",
+              "examples": [
+                "Owen pense aux prises que les autres pourraient compter avant même d’arriver au micro.",
+                "Un élève peut préparer une réponse puis décider de laisser un camarade lire pour éviter des commentaires sur sa parole."
+              ]
+            },
+            {
+              "heading": "L’appréhension est parfois peu visible",
+              "text": "Une conversation aisée au cabinet peut coexister avec un coût important dans un autre cadre.",
+              "examples": [
+                "Owen plaisante avec Mme Roussel tout en lui racontant son hésitation à se proposer au club.",
+                "Un jeune peut parler facilement d’un film en tête à tête et redouter de défendre une scène devant une équipe."
+              ]
+            },
+            {
+              "heading": "L’envie et la crainte peuvent cohabiter",
+              "text": "La personne peut chercher un essai assez limité pour savoir ce qu’elle veut garder de l’activité.",
+              "examples": [
+                "Owen a envie de lire deux phrases pour un essai, même s’il ignore si elles seront retenues.",
+                "Quelqu’un peut accepter d’ouvrir une réunion à deux puis choisir au dernier moment de partager l’introduction."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux phrases qu’il a envie de dire",
-          "text": "Mme Roussel reprend une différence qu’Owen a lui-même formulée. Au club, il a envie d’expliquer la poignée. Au micro, il veut jouer le ton d’une personne qui travaille et qu’on est venu questionner sur un détail. Il peut dire à ses camarades ce qu’il veut essayer, puis discuter du temps prévu et de l’usage des prises. Il peut également refuser qu’un enregistrement soit transformé en compte rendu de séance. Il n’a pas à préparer sa parole pour satisfaire l’orthophoniste ou le groupe. Dans le suivi, il pourra revenir sur l’expérience avec ses propres mots, y compris s’il change d’avis en cours de route. Pour le film, la décision immédiate est plus petite : proposer une voix à essayer au même titre que les autres."
+          "heading": "3 techniques pour discuter d’une prise de parole qui inquiète",
+          "points": [
+            {
+              "heading": "Nommer le moment redouté",
+              "objective": "Donner au professionnel un exemple utile du retentissement.",
+              "exercise": [
+                "Choisissez une situation où vous avez changé de rôle avant de parler.",
+                "Précisez la réaction ou la contrainte que vous anticipiez.",
+                "Dites en orthophonie ce que vous auriez aimé pouvoir essayer."
+              ],
+              "benefit": "Le suivi peut intégrer l’envie et le coût vécu, y compris ce que les autres ne voient pas."
+            },
+            {
+              "heading": "Négocier un premier essai précis",
+              "objective": "Garder un rôle choisi et une sortie possible.",
+              "exercise": [
+                "Choisissez la partie que vous voulez tenter.",
+                "Demandez au groupe une marge de temps réaliste pour chaque personne.",
+                "Convenez du moment où vous déciderez de continuer ou d’ajuster."
+              ],
+              "benefit": "L’accord porte sur l’essai et chacun peut revoir son rôle ensuite."
+            },
+            {
+              "heading": "Choisir le type de soutien d’un proche",
+              "objective": "Recevoir l’aide qui convient pour cette décision.",
+              "exercise": [
+                "Dites si vous cherchez une écoute ou une répétition de la scène.",
+                "Choisissez ensemble un moment court.",
+                "Arrêtez quand vous avez ce dont vous aviez besoin."
+              ],
+              "benefit": "Le proche peut aider à préparer le projet sans transformer la discussion en séance de soin."
+            }
+          ]
         }
       ],
       "ending_title": "Le message à Nassim",
@@ -192,7 +419,8 @@
         "next": "Nassim n’a pas garanti que cette voix restera. Le club a un essai à préparer et Owen doit lui rendre son bouchon d’objectif."
       },
       "clinical_focus": "Appréhension de prendre la parole",
-      "clinical_intro": "Owen plaisante facilement au cabinet et raconte qu’au lycée il avait envisagé de laisser Lucile tout présenter. Ce qu’il redoute au micro, c’est que les autres se mettent à compter ses prises. En orthophonie, le retentissement du bégaiement peut se discuter à partir de ces choix et de ces appréhensions. Owen s’en sert pour formuler ce qu’il veut essayer dans le club."
+      "clinical_intro": "Owen plaisante facilement au cabinet et raconte qu’au lycée il avait envisagé de laisser Lucile tout présenter. Ce qu’il redoute au micro, c’est que les autres se mettent à compter ses prises. En orthophonie, le retentissement du bégaiement peut se discuter à partir de ces choix et de ces appréhensions. Owen s’en sert pour formuler ce qu’il veut essayer dans le club.",
+      "conclusion": "Owen efface le message où il se réservait le son et demande deux phrases au micro. Le groupe peut préparer cet essai sans trancher le montage. Au cabinet, il a trouvé une façon de parler de ce qu’il redoute et de ce qu’il a envie de faire."
     },
     {
       "number": 5,
@@ -210,17 +438,73 @@
         {
           "role": "explanation",
           "heading": "Ce que l’auditeur a compris",
-          "text": "On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement."
+          "text": "On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.\n\nLina a entendu Owen s’arrêter puis terminer sa réplique. Sa question sur la peur du personnage lui montre ce qui est passé dans le jeu. Un retour de spectateur peut ainsi porter sur le sens, le ton ou le récit, que la parole ait été fluide ou qu’un mot ait bloqué."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ici, il s’agit d’un essai de cinéma. Les deux écoutes donnent à Lina une place pour dire ce qui l’a intéressée et ce qui lui manque. Sa question sur la peur de se tromper concerne le personnage du film. Owen peut lui répondre comme auteur, et même découvrir qu’elle a entendu quelque chose qu’il n’avait pas prévu."
+          "heading": "Comment écouter ce qu’une parole qui bégaie transmet ?",
+          "points": [
+            {
+              "heading": "Attendre ce que fait la phrase entière",
+              "text": "Une pause avant un mot ne dit pas comment la phrase va sonner une fois terminée.",
+              "examples": [
+                "Owen s’arrête sur « retourné », puis finit sa réplique dans la pièce calme.",
+                "Un auditeur peut attendre la fin d’une histoire au lieu de réagir à la première répétition."
+              ]
+            },
+            {
+              "heading": "Revenir à une intention entendue",
+              "text": "Une question sur le récit montre ce qui a été reçu et ce que le spectateur veut encore comprendre.",
+              "examples": [
+                "Lina demande pourquoi le personnage semble avoir peur de reprendre son sac.",
+                "Un camarade peut dire qu’il a compris le lieu mais qu’il ignore encore ce que le personnage cherche."
+              ]
+            },
+            {
+              "heading": "Comparer les essais sur des critères communs",
+              "text": "La pertinence d’un jeu d’acteur ou d’un montage s’apprécie en regardant ce que chaque version rend possible.",
+              "examples": [
+                "Nassim préfère trois voix parce que le personnage qui cherche ressort davantage.",
+                "Deux prises peuvent être discutées à partir du raccord avec le bruit du bus, quelle que soit la durée d’une hésitation."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la contrainte qui a permis l’essai",
-          "text": "Nassim s’attendait à préférer la voix unique parce qu’elle explique vite la succession des gestes. Le second essai n’exige finalement ni plus de décors ni un bus à l’image. Il utilise les mêmes plans, mais il faut du temps pour enregistrer et monter trois interprétations. Owen propose de garder le plan fixe et de refaire le bruit du bus au club. Lina peut vérifier la cohérence du ruban dans le cadre ; Lucile a envie de pousser sa voyageuse à regarder autour du banc. Le groupe peut donc décider en sachant ce que coûte la version choisie. Les prises d’essai servent à comparer des formes. L’équipe peut décider ensuite qui veut rejouer et ce que chacun autorise à conserver ou à montrer."
+          "heading": "3 techniques pour donner un retour sur le contenu d’une parole",
+          "points": [
+            {
+              "heading": "Dire ce que vous avez compris",
+              "objective": "Aider l’auteur à savoir ce qui passe dans la scène.",
+              "exercise": [
+                "Attendez que la personne ait fini.",
+                "Citez un détail du récit que vous avez retenu.",
+                "Posez une question sur l’intention ou l’action du personnage."
+              ],
+              "benefit": "Le retour peut guider le jeu ou le montage."
+            },
+            {
+              "heading": "Réécouter pour répondre à une question précise",
+              "objective": "Trouver l’endroit où une information de l’histoire reste incertaine.",
+              "exercise": [
+                "Nommez le détail que vous cherchez.",
+                "Demandez l’accord pour réécouter le passage utile.",
+                "Dites ce que cette écoute vous a apporté."
+              ],
+              "benefit": "La reprise a un but compréhensible pour tout le monde."
+            },
+            {
+              "heading": "Convenir d’un critère de choix",
+              "objective": "Comparer les versions à partir de l’effet souhaité.",
+              "exercise": [
+                "Formulez le choix artistique avant d’écouter.",
+                "Relevez ce que chaque version fait entendre du personnage.",
+                "Décidez ensemble laquelle vous voulez essayer au montage."
+              ],
+              "benefit": "Les prises sont jugées sur le travail demandé à toutes les voix."
+            }
+          ]
         }
       ],
       "ending_title": "Le vote au dos des bandes",
@@ -239,7 +523,8 @@
         "next": "Les essais restent au club. Le groupe prépare les voix pour le film et les bruitages qu’il enregistre lui-même. Owen veut rejouer les deux phrases de la troisième personne."
       },
       "clinical_focus": "Écoute du contenu",
-      "clinical_intro": "Dans une pièce calme, Owen s’arrête sur « retourné », puis va au bout de la réplique. Lina écoute et pose une question sur la peur d’un personnage. La préparation et le calme peuvent faciliter un échange, et un blocage peut encore survenir. Le retour de Lina lui permet de savoir ce qui a été transmis à travers sa façon de jouer."
+      "clinical_intro": "Dans une pièce calme, Owen s’arrête sur « retourné », puis va au bout de la réplique. Lina écoute et pose une question sur la peur d’un personnage. La préparation et le calme peuvent faciliter un échange, et un blocage peut encore survenir. Le retour de Lina lui permet de savoir ce qui a été transmis à travers sa façon de jouer.",
+      "conclusion": "Lina a parlé du personnage, puis Nassim a choisi la version qui lui faisait mieux suivre sa recherche. Le club garde trois voix. Owen peut reprendre ses répliques en sachant ce que leur jeu a déjà transmis."
     },
     {
       "number": 6,
@@ -257,17 +542,73 @@
         {
           "role": "explanation",
           "heading": "Dire ce qu’on attend du micro",
-          "text": "Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle."
+          "text": "Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.\n\nOwen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage ; leur comparaison ne fixe pas ce que sera sa parole au prochain essai."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand il dit à Owen de respirer, il lui donne pourtant une consigne sur sa façon de parler, alors qu’Owen demande une information sur l’horaire. La Stuttering Foundation recommande d’éviter ces consignes adressées à quelqu’un qui bégaie en conversation. Le groupe peut annoncer le temps disponible avant les prises, dire quand le micro tourne et demander ce que chacun veut refaire. Il laisse ainsi aux interprètes la possibilité de répondre pour leur jeu."
+          "heading": "Comment deux prises d’un même texte peuvent-elles différer ?",
+          "points": [
+            {
+              "heading": "Le déroulement de la parole varie",
+              "text": "Un mot qui passe facilement à un essai peut demander du temps au suivant.",
+              "examples": [
+                "Owen prononce sa première prise sans blocage marqué, puis reprend le début de « poignée » dans la seconde.",
+                "Une comédienne peut dire sa réplique sans accrocher à la répétition et bloquer sur un mot au moment de l’enregistrement."
+              ]
+            },
+            {
+              "heading": "Le ton et la fluence évoluent séparément",
+              "text": "Une prise peut sembler plus convaincante pour le personnage même si elle contient un blocage.",
+              "examples": [
+                "Owen s’entend presque s’excuser dans la première prise.",
+                "La seconde lui donne le ton voulu alors qu’il a repris un mot."
+              ]
+            },
+            {
+              "heading": "La durée disponible change les décisions",
+              "text": "Quand il reste peu de temps, l’équipe peut choisir d’écouter, de refaire un essai ou de garder les deux options pour plus tard.",
+              "examples": [
+                "Nassim doit compter le temps de salle et demande à Owen quelle prise conserver.",
+                "Un groupe peut renoncer à une nouvelle prise pour laisser le temps d’enregistrer la voix suivante."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une prise retenue pour un usage précis",
-          "text": "La deuxième prise plaît à Owen à cause de l’intention de la dernière phrase. Il peut choisir de l’écouter, de la travailler au montage avec Nassim et de revoir sa décision une fois le raccord terminé. Un blocage dans la prise ne la rend ni plus intéressante ni moins exploitable par principe. Il peut aussi choisir la première dans une autre version s’il y entend quelque chose qui sert le personnage. Ce choix artistique reste distinct de l’accord pour utiliser l’enregistrement dans un lieu donné. Autoriser l’écoute au sein du club ne donne pas son accord pour un extrait de communication. Owen n’a pas à livrer une explication de son bégaiement pour dire à quel usage il est prêt à consentir."
+          "heading": "3 techniques pour comparer des prises quand la fluence varie",
+          "points": [
+            {
+              "heading": "Nommer l’effet recherché",
+              "objective": "Donner un critère qui vaut pour les deux essais.",
+              "exercise": [
+                "Choisissez l’intention de la réplique avant d’écouter.",
+                "Repérez dans chaque fichier le moment où vous l’entendez.",
+                "Indiquez votre préférence et ce qui vous la fait choisir."
+              ],
+              "benefit": "La personne peut décider à partir du jeu plutôt que du seul nombre d’interruptions."
+            },
+            {
+              "heading": "Présenter les options dans le temps restant",
+              "objective": "Garder la décision praticable pour toute l’équipe.",
+              "exercise": [
+                "Annoncez les minutes disponibles.",
+                "Présentez les choix possibles à la personne enregistrée.",
+                "Convenez d’un moment pour revoir la décision si vous arrêtez là."
+              ],
+              "benefit": "Le temps du studio ne devient pas une demande implicite de parler plus vite."
+            },
+            {
+              "heading": "Distinguer l’essai du fichier retenu",
+              "objective": "Respecter la décision sur ce qui peut rester accessible.",
+              "exercise": [
+                "Étiquetez chaque fichier avec son usage prévu.",
+                "Confirmez avec les personnes enregistrées ce qui reste au dossier de travail.",
+                "Écartez les essais qui n’ont plus leur place selon l’accord du groupe."
+              ],
+              "benefit": "Les deux prises peuvent servir au montage sans être destinées à circuler."
+            }
+          ]
         }
       ],
       "ending_title": "Le numéro deux au crayon",
@@ -286,7 +627,8 @@
         "next": "L’équipe travaille sur les fichiers internes. Alma a demandé un extrait pour annoncer la soirée ; personne n’a donné son accord à cet usage."
       },
       "clinical_focus": "Variabilité de la fluence",
-      "clinical_intro": "La première prise sort facilement et Owen s’y entend presque s’excuser. Dans la seconde, il reprend le début de « poignée », puis trouve le ton qui l’intéresse. Le bégaiement peut varier d’un essai à l’autre, y compris sur le même texte. Ce que le groupe peut régler, c’est le temps à prévoir et le type de retour à donner sur la prise."
+      "clinical_intro": "La première prise sort facilement et Owen s’y entend presque s’excuser. Dans la seconde, il reprend le début de « poignée », puis trouve le ton qui l’intéresse. Le bégaiement peut varier d’un essai à l’autre, y compris sur le même texte. Ce que le groupe peut régler, c’est le temps à prévoir et le type de retour à donner sur la prise.",
+      "conclusion": "Owen note « prise 2 à essayer » pour le ton qu’il y trouve. La première reste disponible au montage, et l’essai de micro sans rapport avec le film est retiré. La demande d’Alma ouvrira une autre décision, celle de l’usage de la voix."
     },
     {
       "number": 7,
@@ -304,17 +646,73 @@
         {
           "role": "explanation",
           "heading": "Décider de ce qu’on dit de soi",
-          "text": "Une personne qui bégaie peut choisir à qui elle souhaite parler de son bégaiement et garder cette information privée dans d’autres situations. L’ASHA présente le fait d’en parler comme une option dans l’accompagnement, selon les personnes et leurs objectifs. Une parole entendue ou un besoin de temps n’oblige pas à fournir des informations de santé. Ici, Alma veut savoir si elle peut utiliser un extrait."
+          "text": "Une personne qui bégaie peut choisir à qui elle souhaite parler de son bégaiement et garder cette information privée dans d’autres situations. L’ASHA présente le fait d’en parler comme une option dans l’accompagnement, selon les personnes et leurs objectifs. Une parole entendue ou un besoin de temps n’oblige pas à fournir des informations de santé. Ici, Alma veut savoir si elle peut utiliser un extrait.\n\nPour Owen, une annonce et une projection ne donnent pas le même contexte à sa voix. Il imagine sa phrase seule entre deux annonces et choisit un visuel. Il peut parler de ce qui motive sa décision s’il le souhaite. Alma a seulement besoin de savoir ce que le club lui permet d’utiliser."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Owen peut répondre en donnant le périmètre de son accord. Il n’a pas à dire si son refus tient au montage, à son bégaiement, au public ou à autre chose. Lucile peut aider à préciser ce que le groupe a déjà décidé sans raconter à sa place ce qu’elle sait de lui."
+          "heading": "Comment choisir quand parler de son bégaiement ?",
+          "points": [
+            {
+              "heading": "Un besoin se formule sans raconter son suivi",
+              "text": "On peut demander du temps, une réponse différée ou un autre format en ne partageant que ce qui est utile à la situation.",
+              "examples": [
+                "Owen propose une image du sac pour l’annonce.",
+                "Un élève peut demander de finir son idée avant les questions sans donner d’information de santé."
+              ]
+            },
+            {
+              "heading": "Le choix dépend du destinataire et du contexte",
+              "text": "Dire quelque chose à une amie ne vaut pas accord pour qu’elle le répète à d’autres personnes.",
+              "examples": [
+                "Lucile connaît déjà le bégaiement d’Owen ; Alma n’a pas à lui demander de l’expliquer.",
+                "Un jeune peut en parler à un partenaire d’atelier et préférer garder la question privée devant le public."
+              ]
+            },
+            {
+              "heading": "La réponse peut venir plus tard",
+              "text": "La personne peut avoir besoin de connaître la version et le contexte avant de décider ce qu’elle souhaite rendre visible.",
+              "examples": [
+                "Owen veut voir le film en entier avant de répondre sur la soirée.",
+                "Une voix choisie pour travailler en équipe peut amener une autre décision quand on propose de l’entendre hors de l’atelier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une annonce peut attendre une autre image",
-          "text": "La fiche du club prévoit un usage pour le travail sur le film. Une annonce en ligne et une projection dans une salle sont deux demandes distinctes ; elles touchent des publics différents. Éduscol fournit aux établissements des modèles pour encadrer l’enregistrement et l’utilisation de l’image et de la voix des élèves. M. Vasseur peut vérifier avec le lycée ce qui a été autorisé et ce qui doit faire l’objet d’un nouvel accord. Pour l’annonce, Owen peut proposer un visuel qui ne montre personne et n’utilise pas les voix : le titre sur une image du sac, une fois que le groupe l’aura approuvée. Cela laisse à Alma une affiche à terminer et aux interprètes une décision à prendre lorsqu’ils auront vu le film."
+          "heading": "3 techniques pour dire ce que l’on souhaite partager",
+          "points": [
+            {
+              "heading": "Formuler la limite utile à l’échange",
+              "objective": "Donner une réponse sans devoir justifier une décision personnelle.",
+              "exercise": [
+                "Nommez l’usage dont il est question.",
+                "Dites ce que vous acceptez ou préférez différer.",
+                "Proposez une option si vous en avez une."
+              ],
+              "benefit": "La personne qui organise peut avancer avec l’information nécessaire."
+            },
+            {
+              "heading": "Choisir à qui se confier",
+              "objective": "Garder la maîtrise du destinataire et du contenu.",
+              "exercise": [
+                "Choisissez une personne et un lieu où vous avez envie d’en parler.",
+                "Dites si vous cherchez un conseil ou simplement à être entendu.",
+                "Précisez si vous souhaitez que cela reste entre vous."
+              ],
+              "benefit": "Le proche sait comment accueillir la parole et ce qu’il peut en faire."
+            },
+            {
+              "heading": "Faire suivre la décision au bon moment",
+              "objective": "Permettre une réponse informée sur un autre usage.",
+              "exercise": [
+                "Demandez à voir le film ou l’extrait concerné.",
+                "Convenez du moment où la question sera reposée.",
+                "Passez par l’adulte responsable pour recueillir les accords requis."
+              ],
+              "benefit": "La demande provisoire et l’accord effectif restent distincts."
+            }
+          ]
         }
       ],
       "ending_title": "La case du lien",
@@ -332,7 +730,8 @@
         "next": "Alma réserve un créneau à titre provisoire et attend le visuel validé. Le groupe doit regarder le film entier avant de donner ses accords pour la salle."
       },
       "clinical_focus": "Divulgation choisie du bégaiement",
-      "clinical_intro": "Face à une demande d’extrait, Owen imagine sa phrase isolée entre deux annonces. Il préfère que le club propose une image. Quand une personne bégaie, elle peut choisir de parler de son bégaiement à certains interlocuteurs et d’en garder les détails privés ailleurs. Owen peut prendre le temps de fixer une limite à l’usage de sa voix, quelle que soit la raison qu’il souhaite donner."
+      "clinical_intro": "Face à une demande d’extrait, Owen imagine sa phrase isolée entre deux annonces. Il préfère que le club propose une image. Quand une personne bégaie, elle peut choisir de parler de son bégaiement à certains interlocuteurs et d’en garder les détails privés ailleurs. Owen peut prendre le temps de fixer une limite à l’usage de sa voix, quelle que soit la raison qu’il souhaite donner.",
+      "conclusion": "Owen offre un visuel et garde le lien vide. Il laisse une place au film dans la soirée sans avoir à expliquer pourquoi sa phrase lui paraît différente isolée. Le groupe reverra la question après avoir vu le montage entier."
     },
     {
       "number": 8,
@@ -350,17 +749,73 @@
         {
           "role": "explanation",
           "heading": "La fluence n’est pas une règle de montage",
-          "text": "Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange. Un montage de fiction pose ici une question différente : de quoi le film a-t-il besoin à cet endroit, et qu’accepte la personne enregistrée ?"
+          "text": "Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange. Un montage de fiction pose ici une question différente : de quoi le film a-t-il besoin à cet endroit, et qu’accepte la personne enregistrée ?\n\nQuand la coupe retire un début de mot repris, Owen entend un ton différent. Il préfère écouter la prise entière et décaler le bus. Garder un passage où il bégaie ou préférer une autre coupe sont des choix qu’il peut discuter avec l’équipe, à partir du film et de son accord."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Owen peut laisser entendre le début repris du mot parce qu’il préfère cette prise dans la scène. Il peut aussi couper une pause ailleurs pour avancer dans l’action. Aucune de ces décisions ne démontre qu’il parle mieux ni qu’il accepte que le même enregistrement circule hors du film."
+          "heading": "Comment une coupe change-t-elle la façon dont le film fait entendre un blocage ?",
+          "points": [
+            {
+              "heading": "Un raccord modifie aussi le rythme d’une voix",
+              "text": "Raccourcir une phrase pour la caler sur un bruit peut changer le ton ou l’instant où l’auditeur comprend l’intention.",
+              "examples": [
+                "La coupe retire le début repris d’un mot et Owen trouve la réplique différente.",
+                "Un bruit de porte placé trop tôt peut faire paraître la réponse d’un personnage précipitée."
+              ]
+            },
+            {
+              "heading": "La personne enregistrée a son propre point d’écoute",
+              "text": "Un partenaire peut juger un raccord commode alors que la personne entend autre chose dans sa prise.",
+              "examples": [
+                "Nassim pense d’abord au départ du bus ; Owen revient à la façon dont il joue la phrase entière.",
+                "Dans un entretien filmé, un participant peut préférer garder sa pause parce qu’elle laisse une place à ce qu’il dit ensuite."
+              ]
+            },
+            {
+              "heading": "Une décision artistique ne règle pas la diffusion",
+              "text": "Le groupe peut accepter d’écouter un montage pour y travailler sans décider qu’il sera vu ailleurs.",
+              "examples": [
+                "Tous les quatre vérifient la version dans la salle du club avec M. Vasseur.",
+                "Les prises anciennes restent au dossier de travail et ne sont pas jointes au fichier exporté."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écouter avec l’image et le bruit",
-          "text": "Nassim a essayé de faire rentrer la voix dans un espace trop court. En redonnant à la phrase son rythme et en déplaçant le bruit du bus, Owen change la succession des informations. Le ruban peut apparaître avant l’explication ; le bruit indique ensuite un départ. Ils peuvent comparer les deux raccords sans demander à Owen de refaire la phrase pour la faire entrer dans le premier. Chacun peut vérifier sa voix dans le montage qui sera montré et demander qu’une prise de travail ne soit pas utilisée. Owen souhaite conserver le silence au milieu de sa phrase ; il accepte de raccourcir l’attente entre la dernière phrase et la sortie du sac. Ces deux décisions ne lui enlèvent pas le droit de revoir encore le passage."
+          "heading": "3 techniques pour décider ensemble de la place d’une voix au montage",
+          "points": [
+            {
+              "heading": "Comparer deux raccords complets",
+              "objective": "Entendre ce que la coupe change dans la scène.",
+              "exercise": [
+                "Gardez une version avant et une version après la coupe.",
+                "Écoutez la réplique avec l’image et les bruits autour.",
+                "Demandez à la personne enregistrée ce qu’elle préfère et pourquoi."
+              ],
+              "benefit": "La discussion peut porter sur le personnage et le raccord au lieu de présumer qu’un blocage doit disparaître."
+            },
+            {
+              "heading": "Déplacer un autre élément",
+              "objective": "Explorer une solution quand la coupe de voix ne convient pas.",
+              "exercise": [
+                "Nommez le problème d’image ou de son à régler.",
+                "Essayez de déplacer le bruit ou de raccourcir un plan.",
+                "Vérifiez ensemble que l’information reste lisible."
+              ],
+              "benefit": "L’équipe peut résoudre un problème de montage tout en gardant la prise choisie."
+            },
+            {
+              "heading": "Nommer le cercle de la prochaine écoute",
+              "objective": "Éviter que le fichier de travail sorte de son usage convenu.",
+              "exercise": [
+                "Identifiez qui doit regarder la version maintenant.",
+                "Recueillez l’accord pour cette écoute précise.",
+                "Réservez toute nouvelle projection à une autre décision."
+              ],
+              "benefit": "Les interprètes savent dans quel contexte la voix sera entendue."
+            }
+          ]
         }
       ],
       "ending_title": "Le bus après la phrase",
@@ -378,7 +833,8 @@
         "next": "Les voix sont vérifiées pour une projection de travail avec le club et M. Vasseur seulement. Il reste à vérifier la compréhension du ruban et à décider des usages publics."
       },
       "clinical_focus": "Représentation de sa propre parole",
-      "clinical_intro": "Une coupe efface le début repris d’un mot et change le ton de la réplique d’Owen. Il écoute la prise entière et trouve que le rythme sert mieux la scène. Les interruptions audibles font partie de la parole qu’il entend au casque. Il peut choisir ce que le montage garde selon son intention artistique et selon ce qu’il accepte de faire entendre."
+      "clinical_intro": "Une coupe efface le début repris d’un mot et change le ton de la réplique d’Owen. Il écoute la prise entière et trouve que le rythme sert mieux la scène. Les interruptions audibles font partie de la parole qu’il entend au casque. Il peut choisir ce que le montage garde selon son intention artistique et selon ce qu’il accepte de faire entendre.",
+      "conclusion": "Owen garde la prise entière et laisse le bus partir après la phrase. L’équipe a réglé un raccord et peut vérifier le résultat avec le professeur. Il reste à savoir si le ruban sera visible et si chacun acceptera une projection plus large."
     },
     {
       "number": 9,
@@ -396,17 +852,73 @@
         {
           "role": "explanation",
           "heading": "Ce que deux écoutes ne mesurent pas",
-          "text": "La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas. L’ASHA distingue aussi ce qu’on entend du retentissement que la personne décrit."
+          "text": "La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas. L’ASHA distingue aussi ce qu’on entend du retentissement que la personne décrit.\n\nOwen a expliqué le raccord à Nassim sans y penser longtemps. Devant le groupe, le premier mot lui demande du temps et il pointe l’image. Le contexte a changé : certains spectateurs découvrent le film et le retour se fait à plusieurs. Une écoute unique ne résume pas l’effort qu’il éprouve selon les interlocuteurs."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Owen, avoir pu parler du raccord à Nassim ne lui donne pas le pouvoir de répondre sur commande. Dans la salle, il tient encore à répondre. Pointer l’image garde le sujet en vue pendant qu’il attend son mot. Le professeur peut ensuite faire une remarque sur le détail qui lui manque, sans supposer qu’il doit simplifier le projet ou parler pour Owen."
+          "heading": "Comment le même propos change-t-il d’un interlocuteur à l’autre ?",
+          "points": [
+            {
+              "heading": "Les personnes familières partagent du contexte",
+              "text": "Un partenaire déjà au courant reconnaît plus vite ce qu’on cherche à lui montrer. Il connaît aussi les habitudes de l’échange.",
+              "examples": [
+                "Nassim sait quel raccord Owen vient de modifier avant de regarder avec lui.",
+                "Dans un atelier, parler à la personne qui tenait la caméra peut demander moins d’explications qu’à quelqu’un qui découvre la scène."
+              ]
+            },
+            {
+              "heading": "Un nouveau groupe change la situation",
+              "text": "Le nombre d’interlocuteurs, leurs questions et ce qu’ils connaissent peuvent modifier l’effort de parler. La variation ne dit pas si la personne s’est préparée.",
+              "examples": [
+                "Devant plusieurs personnes, Owen bloque au début de la même explication.",
+                "Une personne peut raconter aisément une scène à un ami et avoir besoin de temps quand trois auditeurs lui demandent quel plan regarder."
+              ]
+            },
+            {
+              "heading": "Un repère partagé rend la question disponible",
+              "text": "Montrer un détail commun peut laisser la discussion ouverte pendant une interruption.",
+              "examples": [
+                "Owen pointe l’image pour que M. Vasseur voie où chercher le ruban.",
+                "Une animatrice peut poser la photo au milieu de la table et attendre la réponse avant de formuler la prochaine question."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir la scène que l’on a envie d’introduire",
-          "text": "Le groupe peut corriger un problème d’image sans rallonger la narration : tenir plus longtemps le plan déjà tourné où la poignée se retourne, puis vérifier le rendu sur un mur. Si la soirée a lieu, Owen envisage d’introduire cette scène, parce qu’elle fait basculer ce qu’on croit savoir du sac. Lucile peut prendre l’accueil et la fin de la présentation, selon ce qu’ils voudront chacun porter. Donner à Owen la possibilité de choisir un passage lui laisse une vraie décision de réalisateur. Il peut décider plus tard s’il veut utiliser une carte, parler sans notes ou montrer d’abord une image. L’accord sur la projection et celui sur sa prise de parole restent à régler séparément."
+          "heading": "3 techniques pour adapter une explication à de nouveaux interlocuteurs",
+          "points": [
+            {
+              "heading": "Vérifier ce que le public connaît",
+              "objective": "Éviter de compter sur un contexte que tout le monde n’a pas.",
+              "exercise": [
+                "Demandez si les personnes ont vu le passage.",
+                "Indiquez le plan ou le moment dont vous parlez.",
+                "Laissez quelques secondes à chacun pour le retrouver."
+              ],
+              "benefit": "Les auditeurs peuvent poser une question sur le même détail."
+            },
+            {
+              "heading": "Réserver un objet ou une image à montrer",
+              "objective": "Donner un point d’appui si l’explication s’interrompt.",
+              "exercise": [
+                "Choisissez l’image qui porte l’information.",
+                "Mettez-la à portée avant l’échange.",
+                "Si vous le souhaitez, montrez-la avant de reprendre votre phrase."
+              ],
+              "benefit": "Le support garde le sujet ouvert sans imposer une façon de reprendre."
+            },
+            {
+              "heading": "Proposer une répartition révisable",
+              "objective": "Ajuster le rôle à ce que la personne souhaite faire dans ce groupe.",
+              "exercise": [
+                "Demandez quelle partie elle aimerait présenter.",
+                "Décidez qui prend l’accueil ou les autres questions.",
+                "Revoyez l’accord avant le passage public."
+              ],
+              "benefit": "Une expérience à deux donne des idées d’appui sans déterminer le prochain rôle."
+            }
+          ]
         }
       ],
       "ending_title": "Le trait jaune sur le mur",
@@ -424,7 +936,8 @@
         "next": "Le club doit vérifier le nouveau montage. Les accords pour la soirée restent à recueillir et la répartition de l’introduction est esquissée, sans prise de parole imposée."
       },
       "clinical_focus": "Bégaiement selon l’interlocuteur",
-      "clinical_intro": "Owen explique le raccord à Nassim, puis bloque au début de la même explication devant plusieurs personnes. Le bégaiement varie avec les situations et le vécu de l’échange. La facilité de la première conversation n’indique pas la quantité d’effort que la suivante demandera. Quand Owen pointe l’image, le professeur garde la question ouverte et peut ensuite entendre sa réponse."
+      "clinical_intro": "Owen explique le raccord à Nassim, puis bloque au début de la même explication devant plusieurs personnes. Le bégaiement varie avec les situations et le vécu de l’échange. La facilité de la première conversation n’indique pas la quantité d’effort que la suivante demandera. Quand Owen pointe l’image, le professeur garde la question ouverte et peut ensuite entendre sa réponse.",
+      "conclusion": "Le professeur attend le détail sur le ruban et Owen peut proposer de prolonger le plan. Il se réserve une scène à introduire si le film est montré. L’échange avec Nassim et celui devant le groupe lui donnent deux expériences différentes à partir desquelles décider."
     },
     {
       "number": 10,
@@ -442,17 +955,73 @@
         {
           "role": "explanation",
           "heading": "Accepter un usage et en refuser un autre",
-          "text": "Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle."
+          "text": "Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle.\n\nUne personne qui bégaie peut vouloir prendre la parole devant des gens connus et refuser que ce moment devienne un fichier rejouable ailleurs. Owen souhaite la présence de sa mère et veut garder sa présentation dans la salle. Le lycée recueille les accords pour chaque usage prévu avec les personnes concernées et leurs responsables légaux selon le cadre applicable."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Owen est disposé à montrer le film qu’il a monté et à en introduire une scène. Il n’a pas changé d’avis sur le compte du lycée. Sa mère peut entendre cette distinction et lui demander ce qu’il souhaite, avant de remplir les documents que l’établissement a prévus. Éduscol propose des modèles pour recueillir les autorisations d’enregistrement et d’utilisation de l’image et de la voix. Dans le récit, M. Vasseur vérifie avec le lycée les accords des personnes concernées et les autorisations de leurs responsables légaux pour les élèves mineurs."
+          "heading": "Comment distinguer le choix de parler et celui d’être enregistré ?",
+          "points": [
+            {
+              "heading": "Voir une scène donne un contexte à la voix",
+              "text": "La voix entendue avec le film porte le jeu et l’histoire. Un enregistrement isolé ou montré ailleurs ne fait pas entendre la même situation.",
+              "examples": [
+                "La mère d’Owen comprend le geste à l’écran en voyant le film entier.",
+                "L’extrait envisagé pour l’annonce aurait placé la phrase entre deux messages sans montrer le banc."
+              ]
+            },
+            {
+              "heading": "Un accord a un périmètre",
+              "text": "Autoriser une séance concerne un public et un usage précis. Un souvenir filmé ou une mise en ligne est une autre décision.",
+              "examples": [
+                "Owen et sa mère renseignent la feuille pour la séance au lycée.",
+                "La demande de ne pas filmer porte aussi sur ce qu’Owen dira devant le public."
+              ]
+            },
+            {
+              "heading": "L’annonce peut exister sans fichier sonore",
+              "text": "Le groupe peut communiquer sur le projet par un moyen que les personnes concernées acceptent.",
+              "examples": [
+                "Alma dispose du titre et du visuel du sac.",
+                "Le club peut donner le programme de la soirée sans envoyer d’enregistrement des interprètes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une demande qui vaut aussi en famille",
-          "text": "L’ASHA présente le fait de parler ouvertement de son bégaiement comme une possibilité, selon la personne et le contexte. Owen n’a pas à expliquer son bégaiement à chaque fois qu’il choisit où sa voix peut être entendue. Ce qu’il demande à sa mère concerne l’usage d’un enregistrement, qu’il bégaie ou non le soir de la projection. Elle peut lui proposer de raconter le film au frère d’Owen plus tard ou le laisser décider de ce qu’il partagera avec lui. Dans la salle, le lycée peut rappeler que la séance ne doit pas être filmée et demander aux personnes qui sortiraient leur téléphone de le ranger. Ce rappel ne garantit pas que personne ne tentera de filmer ; Owen peut en tenir compte dans sa décision."
+          "heading": "3 techniques pour préciser les usages de sa voix",
+          "points": [
+            {
+              "heading": "Lister les usages séparément",
+              "objective": "Donner un cadre clair à chaque décision.",
+              "exercise": [
+                "Distinguez travail, séance, captation et diffusion.",
+                "Relisez pour chacun le public et les conditions prévues.",
+                "Faites préciser et recueillir les accords par l’adulte responsable."
+              ],
+              "benefit": "Une acceptation pour la séance ne se propage pas à d’autres usages."
+            },
+            {
+              "heading": "Prévoir le rappel dans la salle",
+              "objective": "Rendre la consigne accessible au public au bon moment.",
+              "exercise": [
+                "Inscrivez la demande de ne pas filmer au programme de l’équipe.",
+                "Choisissez qui la donnera avant l’introduction.",
+                "Dites au public ce qu’il peut faire à la place, comme ranger le téléphone et profiter du film."
+              ],
+              "benefit": "Owen peut se consacrer à ce qu’il veut montrer."
+            },
+            {
+              "heading": "Valider une annonce sans extrait",
+              "objective": "Informer sans élargir l’usage de l’enregistrement.",
+              "exercise": [
+                "Choisissez un visuel accepté par les auteurs.",
+                "Vérifiez qu’aucun lien sonore ou vidéo n’y est joint.",
+                "Faites valider la version finale avant de l’envoyer."
+              ],
+              "benefit": "Le film peut trouver son public dans les conditions prévues."
+            }
+          ]
         }
       ],
       "ending_title": "Une ligne pour la salle",
@@ -470,7 +1039,8 @@
         "next": "M. Vasseur confirme les accords pour la séance et Alma a un visuel sans extrait. Owen et Lucile préparent la répartition de l’introduction et le rappel dans la salle."
       },
       "clinical_focus": "Contrôle de la divulgation",
-      "clinical_intro": "Owen entend son blocage dans le film et voit que sa mère comprend enfin le geste à l’écran. Il souhaite qu’elle assiste à la séance et lui demande de ne pas filmer sa présentation. Pour quelqu’un qui bégaie, prendre la parole devant un public et autoriser un enregistrement touchent à des choix différents. Owen garde la possibilité d’en parler sans expliquer son suivi."
+      "clinical_intro": "Owen entend son blocage dans le film et voit que sa mère comprend enfin le geste à l’écran. Il souhaite qu’elle assiste à la séance et lui demande de ne pas filmer sa présentation. Pour quelqu’un qui bégaie, prendre la parole devant un public et autoriser un enregistrement touchent à des choix différents. Owen garde la possibilité d’en parler sans expliquer son suivi.",
+      "conclusion": "Le lycée confirme la séance et Alma a de quoi l’annoncer. Owen veut présenter une scène devant les familles et conserver sa prise de parole dans la salle. La ligne ajoutée au programme transforme cette limite en consigne que l’équipe pourra donner ensemble."
     },
     {
       "number": 11,
@@ -488,17 +1058,73 @@
         {
           "role": "explanation",
           "heading": "Une pause ne dit pas à elle seule qui parle ensuite",
-          "text": "Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation."
+          "text": "Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation.\n\nLucile sait qu’Owen veut continuer certaines phrases même lorsqu’il ne fait plus de bruit. Leur carte distingue ce moment d’une décision de passer la main. S’ils manquent de temps, ils peuvent revoir le programme ensemble et garder la même règle pendant la prise de parole."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Lucile peut demander ce qu’Owen préférerait si le temps devient court, plutôt que d’assimiler chaque pause à une difficulté qu’elle doit résoudre. Owen peut souhaiter garder sa phrase jusqu’au bout et, un autre jour, passer la main plus tôt. La carte retournée convient à cette présentation parce qu’ils en décident ensemble. Elle ne promet ni que la parole sera fluide, ni que le passage sera facile à chronométrer."
+          "heading": "Comment reconnaître qu’un relais est demandé pendant un blocage silencieux ?",
+          "points": [
+            {
+              "heading": "Le silence n’annonce pas forcément la fin",
+              "text": "Pendant un blocage, le flux de parole peut s’arrêter sans que la personne ait terminé son idée.",
+              "examples": [
+                "Owen s’arrête en répétition et peut encore vouloir reprendre sa phrase.",
+                "Dans un débat, une personne peut garder son regard sur le groupe pendant le silence qui précède le mot."
+              ]
+            },
+            {
+              "heading": "Un signal choisi donne une information supplémentaire",
+              "text": "Un signe convenu indique un choix que la durée du silence ne permet pas de deviner.",
+              "examples": [
+                "Owen montre à Lucile que seul le dos blanc déclenche le relais.",
+                "Lors d’un autre projet, le partenaire peut attendre que la personne lui tende explicitement la feuille."
+              ]
+            },
+            {
+              "heading": "Le temps de scène se règle en amont",
+              "text": "Un programme serré peut être revu avant l’intervention. Le relais conserve alors la fonction que la personne lui a donnée.",
+              "examples": [
+                "Lucile raccourcit son accueil pour libérer du temps.",
+                "Alma prend la consigne sur les téléphones pendant qu’Owen prépare la présentation du film."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Réduire le texte pour tout le monde",
-          "text": "Alma a une contrainte commune aux clubs. Lucile peut raccourcir l’accueil et garder son texte pour le programme de la soirée, sans perdre tout le travail qu’elle y a mis. Owen choisit une phrase sur la scène de la poignée. Il aimerait la dire lui-même, et il propose un geste s’il veut que Lucile passe au lancement du film. Pour les questions après, chacun peut en choisir une, en laisser une au groupe ou proposer d’en reparler à la sortie. Nassim peut vérifier le son pendant qu’ils s’accordent sur cet ordre. Le petit temps gagné vient de la répartition des tâches, du texte qu’ils ont décidé d’enlever et de la souplesse prévue autour des questions."
+          "heading": "3 techniques pour convenir d’un relais sans deviner",
+          "points": [
+            {
+              "heading": "Définir les deux positions du signal",
+              "objective": "Distinguer l’attente et le passage de main.",
+              "exercise": [
+                "Choisissez un signe que la personne peut faire facilement.",
+                "Dites ce qui se passe quand le signe n’apparaît pas.",
+                "Faites reformuler l’accord par le partenaire."
+              ],
+              "benefit": "Le silence garde sa place ordinaire et le relais dépend d’une demande."
+            },
+            {
+              "heading": "Répéter les deux issues",
+              "objective": "Vérifier ce que fait chaque personne après le signal.",
+              "exercise": [
+                "Essayez une fois où la personne reprend sa phrase.",
+                "Essayez une fois où le partenaire fait l’action convenue.",
+                "Vérifiez si le signe est visible à la place de chacun."
+              ],
+              "benefit": "L’équipe sait quoi faire sans improviser à partir de la longueur d’une pause."
+            },
+            {
+              "heading": "Régler la durée hors de la prise de parole",
+              "objective": "Protéger la marge prévue pour les intervenants.",
+              "exercise": [
+                "Repérez un point de programme que vous pouvez raccourcir.",
+                "Confirmez cette option avec l’organisation.",
+                "Gardez le même accord de relais pendant l’intervention."
+              ],
+              "benefit": "La contrainte de temps reçoit une réponse collective."
+            }
+          ]
         }
       ],
       "ending_title": "Le dos blanc de la carte",
@@ -516,7 +1142,8 @@
         "next": "Alma annoncera la consigne de ne pas filmer. Le plan de la poignée est lisible sur le mur, Nassim est prêt à lancer le film et le public arrive."
       },
       "clinical_focus": "Blocage silencieux et relais choisi",
-      "clinical_intro": "Lucile hésite à poursuivre au premier silence parce que le programme est serré. Owen lui montre le signal qu’il veut utiliser. Dans le bégaiement, un blocage peut laisser un silence au milieu d’un propos, alors que la personne tient encore à sa phrase. Quand un relais a été convenu, un signe explicite permet de le déclencher au moment où Owen le souhaite."
+      "clinical_intro": "Lucile hésite à poursuivre au premier silence parce que le programme est serré. Owen lui montre le signal qu’il veut utiliser. Dans le bégaiement, un blocage peut laisser un silence au milieu d’un propos, alors que la personne tient encore à sa phrase. Quand un relais a été convenu, un signe explicite permet de le déclencher au moment où Owen le souhaite.",
+      "conclusion": "Owen et Lucile savent ce que veut dire le dos blanc et ce qu’ils feront si la carte ne bouge pas. Nassim a testé le départ du film et Alma donnera le rappel. Owen pourra regarder sa carte, parler ou demander le relais quand le public sera là."
     },
     {
       "number": 12,
@@ -534,17 +1161,73 @@
         {
           "role": "explanation",
           "heading": "Un mot peut accrocher et le propos aller au bout",
-          "text": "Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne."
+          "text": "Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne.\n\nLa répétition au début de « ruban » n’empêche pas Owen d’aller au bout de l’indice qu’il a choisi de donner. La salle peut ensuite parler de l’histoire et du son du bus. Ce que cette expérience montre concerne sa place dans cette séance, ce qu’il a transmis et l’effort qu’il pourra décrire lui-même."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "À l’estrade, Owen prend le temps du mot et l’introduction garde sa fonction : donner au public un détail à regarder. Sa prise enregistrée et sa voix dans la salle ne sont pas deux mesures de son progrès. Il peut choisir de continuer à parler dans une situation qui l’intéresse, avec ou sans bégaiement. Il pourrait aussi passer une question et garder la possibilité d’en prendre une autre plus tard."
+          "heading": "Comment apprécier la participation quand le bégaiement reste audible ?",
+          "points": [
+            {
+              "heading": "La phrase peut livrer son détail",
+              "text": "Une répétition ou un blocage n’empêche pas nécessairement l’auditeur d’accéder au sens une fois que la personne a fini.",
+              "examples": [
+                "Owen prend le temps du mot « ruban » et termine l’indication sur le nœud.",
+                "Un élève peut répéter le début d’un nom et transmettre quand même le titre qu’il voulait recommander."
+              ]
+            },
+            {
+              "heading": "Le rôle choisi peut se prolonger après la présentation",
+              "text": "La participation se lit aussi dans les questions auxquelles la personne a envie de répondre et les tours qu’elle choisit de partager.",
+              "examples": [
+                "Owen explique les trois significations du banc après le film.",
+                "Lucile prend la question suivante pendant qu’il a déjà livré le détail qui lui importait."
+              ]
+            },
+            {
+              "heading": "L’effort et l’envie restent à écouter",
+              "text": "Une séance réussie peut avoir demandé du temps ou de l’attention. La personne peut vouloir refaire une partie et changer le reste.",
+              "examples": [
+                "Owen note une nouvelle idée de bruit sans arrêter sa place dans le prochain projet.",
+                "Quelqu’un peut être satisfait de son intervention et demander un format différent pour la réunion suivante."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Parler d’abord de ce qui est à l’écran",
-          "text": "La question sur le banc porte sur la forme du film. Owen peut dire ce qu’il voulait que les spectateurs découvrent à chaque passage et leur demander ce qu’ils ont vu. Ceux qui n’ont pas compris le même détail pourront répondre sans qu’il ait à défendre sa façon de le dire. Le fait que la séance ait eu lieu ne change pas les accords de diffusion : le film reste autorisé pour cette projection et les prises de travail ne servent pas d’extraits. Si l’équipe veut le montrer ailleurs, elle devra discuter de ce nouvel usage. Pour le prochain film, Owen pourra prendre une autre place, demander plus de temps ou recommencer à défendre une idée avec une feuille et un feutre."
+          "heading": "3 techniques pour faire un retour qui tient compte de la participation",
+          "points": [
+            {
+              "heading": "Revenir à l’effet du propos",
+              "objective": "Donner un retour utilisable à partir de ce que le public a compris.",
+              "exercise": [
+                "Citez une scène ou un détail que la présentation vous a fait remarquer.",
+                "Posez une question sur ce choix.",
+                "Laissez la personne décider combien elle veut en dire."
+              ],
+              "benefit": "Le retour reconnaît son travail et peut nourrir la suite du projet."
+            },
+            {
+              "heading": "Reprendre l’expérience à partir de ses propres objectifs",
+              "objective": "Tenir compte de l’effort qui ne s’entend pas toujours.",
+              "exercise": [
+                "Notez ce que vous vouliez dire ou faire.",
+                "Ajoutez une chose qui vous a aidé et une qui a coûté.",
+                "Si cela compte pour votre suivi, apportez ces exemples à l’orthophoniste."
+              ],
+              "benefit": "Le bilan peut porter sur des objectifs de vie et de communication choisis."
+            },
+            {
+              "heading": "Choisir le premier pas du prochain projet",
+              "objective": "Donner une suite sans fixer à l’avance le même rôle.",
+              "exercise": [
+                "Notez une idée concrète que vous avez envie d’essayer.",
+                "Dites au groupe ce que vous voulez prendre en charge d’abord.",
+                "Laissez le reste des rôles à la discussion de mercredi."
+              ],
+              "benefit": "La séance ouvre une occasion de créer dont la forme reste à choisir."
+            }
+          ]
         }
       ],
       "ending_title": "Un bruit pour mercredi",
@@ -562,7 +1245,8 @@
         "next": "Le premier film a été montré pour la séance convenue. Le club peut se retrouver mercredi, et Owen a une nouvelle idée de son sans avoir arrêté son rôle ni la forme de sa prise de parole."
       },
       "clinical_focus": "Participation avec le bégaiement",
-      "clinical_intro": "Devant la salle, le début du mot « ruban » se répète. Owen prend le temps de finir la phrase qu’il avait choisie, puis répond à une question sur son film. On peut évaluer ce qu’une personne a pu dire, le rôle qu’elle a tenu et l’effort qu’elle a vécu. Ce regard sur la participation vaut aussi lors d’une réunion de travail ou d’un entretien."
+      "clinical_intro": "Devant la salle, le début du mot « ruban » se répète. Owen prend le temps de finir la phrase qu’il avait choisie, puis répond à une question sur son film. On peut évaluer ce qu’une personne a pu dire, le rôle qu’elle a tenu et l’effort qu’elle a vécu. Ce regard sur la participation vaut aussi lors d’une réunion de travail ou d’un entretien.",
+      "conclusion": "Owen finit son indication sur le ruban et reçoit une question sur le banc. Cette séance montre qu’il a pu transmettre le détail auquel il tenait et partager la discussion. Il quitte le club avec le bruit d’une porte en tête et décidera de la place qu’il veut prendre mercredi."
     }
   ]
 }

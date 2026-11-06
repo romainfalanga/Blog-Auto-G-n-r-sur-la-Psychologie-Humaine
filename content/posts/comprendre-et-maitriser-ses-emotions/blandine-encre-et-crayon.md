@@ -30,22 +30,83 @@ Alice a rendu ses livres et pris la table du fond. Elle connaît Léon depuis le
 
 Léon demande s’il peut noter pour le prochain jeudi l’essai qu’ils viennent de lire ensemble. Blandine est d’accord pour la mesure du Pont. Elle s’imagine ensuite devoir apporter Les Saules pour que chacun retrouve ce qu’il y a écrit. Cette page-là, elle aime encore la lire sans avoir à expliquer le pli ni le morceau de phrase. Elle annonce que les deux feuilles sur la table sont les seules qu’elle envisage de donner. Alice pousse la fiche vers elle pour qu’elles précisent ce qui pourrait entrer aux archives.
 
-## Observer la place prise par les souvenirs matériels
+## La place qu’un objet prend dans une journée
 
-Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble.
+Un objet du proche décédé peut porter un souvenir auquel on tient et occuper, certains jours, une place qui change ce qu’on arrive à faire. Dans l’évaluation d’un deuil prolongé, conserver un objet ne dit rien à lui seul ; on examine aussi l’effet durable des préoccupations et de la douleur. Blandine tient à garder Les Saules pour elle et accepte de discuter de l’usage de deux autres feuilles.
 
-## Comment cette difficulté se manifeste
+## Comment un objet du proche peut-il avoir plusieurs places ?
 
-Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.
+### Un usage intime a sa valeur propre
 
-Ce choix lui demande du temps. La partition personnelle peut rester telle quelle et Le Pont servir à la prochaine répétition par l’intermédiaire d’une note de Léon. Ce qui concerne le suivi, si Blandine veut en parler, est la place que prend le dossier dans certaines journées, au point qu’une course ou un rendez-vous n’a plus lieu. Ce qui concerne l’archive est le sens qu’elle veut donner à ce don précis.
+Retrouver une écriture ou un détail familier peut avoir un sens que la personne n’a pas besoin d’expliquer.
 
-## Séparer la feuille de l’indication de travail
+**Exemples concrets**
 
-Alice propose une fiche avec le titre des deux morceaux, les dates et le lieu de rangement envisagé. Blandine demande d’en faire un brouillon qu’elle pourra approuver au moment du don. Pour l’instant Léon peut reprendre sur son exemplaire de travail l’idée d’écouter les basses à la mesure neuf. Personne n’a besoin de photographier le papier ou d’emporter l’original pour essayer ce passage. Malo peut chanter sa ligne comme il s’en souvient, et Léon décidera avec le groupe de la façon de la placer.
+- Blandine aime relire seule la trace du crayon sur Les Saules.
+- Quelqu’un garde un carnet pour y retrouver la manière dont un proche notait les noms de ses amis.
 
-Ils sont d’accord sur les feuilles discutées et sur ce qui peut être utilisé avant une décision. Blandine veut encore répondre à une question : son nom doit-il figurer sur autre chose que la fiche conservée avec les partitions ? Alice lui propose de vérifier comment le chœur a déjà présenté les entrées aux archives. Ce renseignement pourra l’aider ; sa réponse peut attendre.
+### La lecture peut occuper plus de temps que prévu
+
+Quand les préoccupations liées à la perte reviennent longtemps, une activité prévue peut rester en attente.
+
+**Exemples concrets**
+
+- Blandine a parfois passé assez de temps dans le dossier pour repousser une course.
+- En ouvrant une boîte avant un rendez-vous, une personne reste longtemps sur une lettre et ne part pas à l’heure.
+
+### Les objets n’appellent pas tous la même décision
+
+Deux pièces liées au même souvenir peuvent avoir des usages très différents.
+
+**Exemples concrets**
+
+- Blandine parle avec le chœur du Pont et des Fenêtres, tandis que Les Saules reste sous l’élastique bleu.
+- Une personne propose une copie d’une photo de groupe et garde chez elle les notes personnelles glissées derrière.
+
+## 3 techniques pour choisir la place des objets du souvenir
+
+### 1. Définir ce qui reste privé
+
+Garder l’usage intime d’un objet si on le souhaite.
+
+**Exercice pratique**
+
+- Choisissez la pièce que vous ne voulez pas présenter.
+- Dites quelle autre pièce peut être discutée.
+- Précisez si vous acceptez seulement une lecture ou aussi une copie.
+
+Le partage peut concerner une partie choisie du souvenir.
+
+### 2. Faire noter ce qui reste provisoire
+
+Éviter qu’une conversation sur un objet soit prise pour un accord définitif.
+
+**Exercice pratique**
+
+- Identifiez les pièces dont on vient de parler.
+- Laissez distinctement en attente les lignes qui demandent encore une décision.
+- Relisez à qui le brouillon sera envoyé.
+
+La trace permet de reprendre l’échange plus tard sans anticiper la réponse.
+
+### 3. Parler du temps que prend le dossier
+
+Faire connaître le retentissement sans renoncer à l’objet.
+
+**Exercice pratique**
+
+- Pensez à un jour où vous avez ouvert l’objet ou le dossier.
+- Décrivez ce que cela vous a apporté et l’activité qui a éventuellement attendu.
+- Abordez la répétition de ces moments en suivi s’ils deviennent difficiles à vivre.
+
+La conversation tient compte de la valeur du souvenir et de ses effets dans la journée.
 
 ## Deux titres sur la fiche
 
 Alice écrit Le Pont et Les Fenêtres. Elle laisse vide la ligne du don et envoie une copie du brouillon à Blandine seulement. Malo prend la version propre, que Léon lui confie jusqu’à jeudi. En reprenant la chemise jaune, Blandine demande si elle pourrait entendre de loin ce que donnerait la mesure neuf. Léon lui répond qu’il peut lui dire l’heure à laquelle ils prévoient de travailler le morceau. Il reste à voir si elle voudra venir l’écouter.
+
+---
+
+**Conclusion**
+
+La fiche d’Alice dit de quelles partitions ils ont parlé, et laisse le don ouvert. Blandine garde Les Saules pour elle. Elle peut aussi souhaiter entendre ce que le chœur fera d’une mesure du Pont.

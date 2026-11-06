@@ -1,7 +1,7 @@
 ---
-title: Se croire mise à l’écart quand un collègue reprend une tâche
-description: Rachid reprend la réception d’une livraison. Mina craint qu’il l’écarte
-  et cherche ce que son message lui demande réellement.
+title: Prêter une intention à un collègue quand une tâche change de main
+description: Rachid reprend la réception des programmes. Mina prend ce changement
+  pour un reproche et envisage de déplacer son propre cours.
 slug: mina-livraison-dix-neuf-heures
 date: '2026-11-06T00:00:00+00:00'
 draft: false
@@ -13,8 +13,8 @@ tags:
 - Profil borderline
 - Trouble borderline
 - Interprétation des intentions
-- Sensibilité au rejet
-- Clarification d’un malentendu
+- Signaux sociaux ambigus
+- Répartition des tâches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -29,22 +29,83 @@ Rachid écrit « Pour mardi, ça passe à dix-neuf heures. Je m’en occupe. » 
 
 À dix-neuf heures, elle a un cours de reliure. La personne qui anime l’atelier lui a demandé d’apporter les papiers qu’elle hésite à utiliser. Mina pourrait annuler le cours et venir au local, au cas où « je m’en occupe » n’inclurait pas le classement des boîtes. Elle pourrait aussi fermer l’agenda et attendre qu’on lui dise ce qu’elle a fait de travers. Elle regarde la ligne au tableau. Elle veut surtout savoir si Rachid attend sa présence ou l’organisation qu’elle avait déjà préparée.
 
-## Quand une information incomplète ressemble à un rejet
+## Quand une supposition prend la place d’une information
 
-Dans certaines situations, une incertitude dans un lien peut prendre une place importante avant que la personne ait obtenu les informations dont elle a besoin. Mina entend une mise à l’écart dans un changement d’heure. Le texte annonce un déplacement de livraison et dit que Rachid s’en occupe. Il reste à savoir ce qu’il entend par là.
+Dans un profil borderline, il peut être difficile de garder plusieurs interprétations possibles d’un signal social, en particulier lorsque la situation est tendue. Une intention supposée peut paraître aussi certaine qu’une information écrite. Au festival, l’heure change et Rachid propose de prendre la réception. Mina ajoute à ce message un jugement sur sa compétence. Ce jugement change déjà ce qu’elle est prête à faire de sa soirée. Le but de vérifier la consigne est de savoir sur quoi elle peut décider.
 
-## Comment cette difficulté se manifeste
+## Comment une intention supposée peut-elle guider les décisions ?
 
-Mina peut éprouver de l’inquiétude et demander une précision sur la tâche au même moment.
+### Entendre un reproche implicite
 
-Au suivi, elle peut raconter comment elle en est venue à se préparer à annuler son cours et ce que la réponse de Rachid a changé. L’entretien peut s’intéresser à la façon dont des situations semblables se répètent et aux effets qu’elles ont. Au local, la question pratique peut rester plus courte que tout ce qui lui vient en tête.
+Une formule pratique peut être comprise comme un commentaire personnel. La personne réagit alors aussi à un sens qu’elle a ajouté au message.
 
-## Répartir ce qui reste à faire
+**Exemples concrets**
 
-Mina peut demander si Rachid prend la réception et de quoi il a besoin avant l’arrivée des programmes. Elle peut proposer de lui transmettre le tableau où figurent les noms des équipes, puis lui dire à quelle heure elle part. S’il manque un relais, ils peuvent le chercher avec la personne chargée du planning. Chacun peut dire ce qu’il est en mesure de tenir ce soir.
+- Mina comprend « Je m’en occupe » comme si Rachid lui avait écrit qu’elle a oublié une étape.
+- Une bénévole lit « Je reprends l’accueil à midi » et croit que sa façon d’accueillir les visiteurs a été critiquée, sans avoir reçu ce retour.
 
-Cette conversation peut aussi donner une information pour la prochaine livraison. Ils peuvent préciser l’heure, les tâches et ce qui a changé dans un même message, afin que chacun puisse préparer sa part.
+### Relire les détails à partir de cette hypothèse
+
+Une fois l’intention supposée, des indices peu précis peuvent sembler la confirmer. D’autres explications restent alors difficiles à envisager.
+
+**Exemples concrets**
+
+- Dans le local vide, Mina cherche qui d’autre a reçu le changement comme si le message devait cacher une décision sur elle.
+- En retrouvant une correction anonyme sur un tableau, une personne repense surtout à un échange sec de la veille, sans savoir qui a corrigé le document.
+
+### Modifier sa conduite avant d’avoir vérifié
+
+L’interprétation peut peser sur l’organisation du travail ou sur des choix qui n’avaient aucun lien avec la demande de départ.
+
+**Exemples concrets**
+
+- Mina commence à effacer son prénom du tableau alors qu’elle a encore les étiquettes à préparer.
+- Un salarié accepte une permanence qu’on ne lui a pas demandée parce qu’il est persuadé que le changement d’équipe sanctionne son absence.
+
+## 3 techniques pour vérifier ce qu’un message de travail demande
+
+### 1. Relire le message mot pour mot
+
+Distinguer la consigne écrite de l’intention qu’on croit y lire.
+
+**Exercice pratique**
+
+- Reprenez les mots exacts du message.
+- Relevez l’heure et l’action annoncées.
+- Dites à part ce qui reste une supposition, par exemple « Je me demande si mon travail est en cause. »
+
+Cette distinction peut faire apparaître l’information qui manque avant de décider.
+
+### 2. Demander qui fait quelle partie
+
+Clarifier le travail à terminer sans demander au collègue de se défendre d’une intention supposée.
+
+**Exercice pratique**
+
+- Nommez la livraison ou la tâche concernée.
+- Demandez ce que l’autre prend en charge et ce qu’il attend encore de vous.
+- Reformulez la réponse sur le tableau commun ou dans un bref message.
+
+Une répartition vérifiable peut aider chacun à organiser sa part et à signaler un désaccord réel.
+
+### 3. Garder une décision révisable
+
+Éviter de déplacer d’emblée un engagement personnel pour répondre à une demande incertaine.
+
+**Exercice pratique**
+
+- Repérez ce que vous avez déjà prévu à l’heure indiquée.
+- Dites quand vous pouvez laisser les éléments utiles au relais.
+- Si la tâche reste sans responsable, demandez une décision à la coordination avant de modifier votre agenda.
+
+Le créneau personnel peut rester disponible quand une autre répartition répond au besoin du festival.
 
 ## Le trait s’arrête au milieu du prénom
 
-Rachid répond qu’il prendra les cartons à dix-neuf heures. Il lui demande si elle peut laisser les étiquettes près de la porte. Mina remet son prénom sur le tableau à côté de « préparation », puis écrit celui de Rachid près de l’heure de livraison. En glissant le feutre dans le tiroir, elle retrouve le coin de papier vert. Elle le glisse dans son étui avec l’échantillon rouille. Il lui reste le temps de passer à l’atelier avant l’ouverture du cours.
+Mina écrit pour demander si Rachid attend sa présence ou seulement les étiquettes. Il répond qu’il prendra les cartons à dix-neuf heures. Il lui demande si elle peut laisser les étiquettes près de la porte. Mina remet son prénom sur le tableau à côté de « préparation », puis écrit celui de Rachid près de l’heure de livraison. En glissant le feutre dans le tiroir, elle retrouve le coin de papier vert. Elle le glisse dans son étui avec l’échantillon rouille. Il lui reste le temps de passer à l’atelier avant l’ouverture du cours.
+
+---
+
+**Conclusion**
+
+Une heure de livraison et un reproche supposé ont d’abord eu le même poids pour Mina. En posant une question sur la tâche, elle sait ce qu’elle doit finir et peut aller à son cours. À l’atelier, un défaut de papier lui fera porter un jugement sur elle-même sans que personne l’ait mis en cause.

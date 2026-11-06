@@ -33,16 +33,79 @@ Joachim laisse les portes se refermer. Il avait cru qu’après ses deux trajets
 
 Les formes que prend l’agoraphobie peuvent varier. Une personne peut traverser une situation avec beaucoup d’effort un jour et l’éviter dans d’autres circonstances. Joachim connaît le bus lorsqu’il passe près de la plaque de rue et il s’était préparé à ce retour. Il manque aujourd’hui un repère qu’il juge important. L’arrêt de correspondance a changé et il imagine qu’il aura du mal à demander de l’aide au milieu d’un carrefour inconnu. Le retour de sa peur a des éléments précis qu’il peut reprendre en consultation.
 
-## Comment cette difficulté se manifeste
+## Comment un imprévu peut-il faire revenir une peur après deux trajets réussis ?
 
-Il se dit d’abord que ses précédents trajets n’ont servi à rien. Il peut pourtant dire qu’il a déjà pu descendre du bus, acheter du pain et rentrer. Ces faits gardent leur place à côté de ce qu’il a vécu aujourd’hui. Louise pourra s’intéresser au changement de parcours, à la colère et à la suite qu’il voudrait choisir.
+### Un repère connu disparaît
 
-## Décider ce qui peut avancer aujourd’hui
+Une nouvelle configuration peut changer la façon dont une personne imagine pouvoir partir ou obtenir de l’aide.
 
-Joachim a reporté le belvédère. Avec Diego, il peut maintenant examiner le trajet par la rue du verger et mettre à jour la description de la bifurcation. Ils choisissent un objectif qui convient au travail de la carte. La photo que Diego avait prévu de prendre au belvédère peut rester une photo personnelle jusqu’à ce que tous deux décident s’ils veulent étendre la carte jusque-là. Le détour du bus n’a pas à fixer le contenu du plan pour tous les promeneurs.
+**Exemples concrets**
 
-Pour le suivi, Joachim préfère noter ce qu’il avait voulu faire et ce que l’annonce a changé. Il peut aussi dire ce qu’il éprouve en y repensant. Lors d’un prochain rendez-vous, il décidera avec Louise s’il souhaite reprendre la question des trajets modifiés ou s’occuper d’abord du déplacement qu’il avait choisi.
+- La correspondance n’est plus à l’endroit que Joachim avait préparé.
+- Le rond-point inconnu lui rend plus difficile d’imaginer comment demander de l’aide.
+
+### Le contraste peut susciter du découragement
+
+La peur du jour peut donner l’impression que les essais précédents ont perdu leur valeur.
+
+**Exemples concrets**
+
+- Joachim regarde les deux photos du banc après deux trajets courts réalisés avec le cadre convenu.
+- Il a envie de jeter les images alors qu’elles montrent ce qu’il avait pu relever.
+
+### Un changement de programme reste descriptible
+
+La personne peut retenir ce qui a été différent et garder la possibilité de revenir sur le projet.
+
+**Exemples concrets**
+
+- Joachim dit à Diego qu’il comptait venir et qu’il ne montera pas au belvédère aujourd’hui.
+- Il note la réponse qu’il n’a pas comprise pour en reparler avec Louise.
+
+## 3 techniques pour décrire la sortie qui a changé au dernier moment
+
+### 1. Relever le changement précis
+
+Donner au suivi une information sur le contexte de la peur.
+
+**Exercice pratique**
+
+- Notez le repère attendu avant la sortie.
+- Décrivez ce que vous avez trouvé à la place et l’aide que vous avez cherchée.
+- Apportez au rendez-vous le détail qui vous a manqué.
+
+L’équipe peut discuter d’un changement concret plutôt que d’un échec global.
+
+### 2. Conserver une trace de deux sorties
+
+Présenter les essais précédents et celui qui a coûté davantage.
+
+**Exercice pratique**
+
+- Gardez une photo ou une note de ce qui a été possible auparavant.
+- Ajoutez un détail différent dans la situation récente.
+- Discutez avec le professionnel de ce que les deux expériences permettent d’observer.
+
+Le bilan garde la trace de plusieurs situations réellement vécues.
+
+### 3. Dire ce qui est reporté
+
+Réorganiser une sortie partagée lorsque le trajet change.
+
+**Exercice pratique**
+
+- Dites quelle partie vous ne souhaitez pas faire aujourd’hui.
+- Vérifiez si l’autre veut poursuivre ou si une autre contribution est utile.
+- Laissez le point en suspens jusqu’au moment où vous voudrez en reparler.
+
+Le report est clair et l’autre personne peut décider de sa propre sortie.
 
 ## Le belvédère reste en suspens
 
 Diego envoie un message du chemin du retour. Il a envie de reprendre la variante par le verger avec lui avant d’ajouter un autre point de vue. Joachim lui propose de se voir à l’atelier pour regarder les deux images du banc. Il laisse le belvédère dans ses notes. Dans la marge, il écrit le nom du rond-point, la question qu’il a posée et la réponse qu’il n’a pas comprise. Il veut pouvoir relire cette page sans avoir à se raconter toute la matinée depuis le début.
+
+---
+
+**Conclusion**
+
+Les deux images du banc restent dans le dossier et le rond-point entre dans le carnet. Joachim a changé de programme après un changement réel de trajet. Le retour de la peur donne un fait de plus à reprendre avec Louise, au côté des trajets déjà faits.

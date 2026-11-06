@@ -29,20 +29,83 @@ Hélène prend le bordereau. Elle avait envie que les gens sachent qui a dessin�
 
 « La photo de moi, je ne veux pas. Et mon accompagnement n’est pas dans la légende. Pour les panneaux, je peux vous dire demain. » Elle regarde Sofia : elles étaient venues parler de Tannerie. Sofia demande à Maud de poser le formulaire de côté. Maud le retourne. Au dos, la date d’envoi est imprimée. La lettre ne part que la semaine prochaine. Il reste du temps. Hélène ouvre alors son plan sur la table.
 
-## Comprendre et distinguer les options d’un consentement
+## Dire oui à un usage et non à un autre
 
-Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie. Hélène veut être reconnue pour ses panneaux. Elle peut préférer qu’une lettre montre le résultat et explique les essais, sans publier sa photo ni évoquer l’accompagnement. Elle peut aussi attendre de voir ce qu’elle installe pour savoir si elle accepte la photo des panneaux. Son refus est une information suffisante pour ne pas préparer le portrait comme prévu.
+L’autodétermination au travail comprend la possibilité d’accepter, de refuser ou de reporter séparément des propositions. Un support accessible et un délai peuvent aider une personne ayant un trouble du développement intellectuel à examiner ce qui est demandé. Hélène souhaite que son travail soit reconnu. Elle refuse le portrait et la mention de son accompagnement ; la photo des panneaux reste à discuter.
 
-## Comment cette difficulté se manifeste
+## Comment un accord devient-il plus clair quand on sépare les demandes ?
 
-La HAS recommande de reconnaître les demandes et les refus de la personne et de lui laisser une prise réelle sur la décision. Lorsque plusieurs propositions arrivent à la fois, on peut les reprendre séparément. L’OMS décrit des profils très variables dans le TDI : demander un délai ou l’appui de quelqu’un à une réunion ne donne pas d’indication générale sur les choix que la personne peut faire.
+### Le crédit du travail et l’image de la personne sont distincts
 
-## Revenir au sujet pour lequel l’appui est demandé
+Valoriser une contribution ne suppose pas d’accepter tous les éléments proposés pour l’illustrer.
 
-Sofia était venue à la demande d’Hélène pour l’aider à garder le point trajet à l’ordre du jour. Même si Maud lui demande un avis, elle peut d’abord regarder Hélène et lui laisser la parole. Puis elle peut rappeler le sujet convenu. Ce rôle est différent de celui d’une personne chargée de répondre à sa place. La HAS propose de préparer avec la personne la part qu’elle veut prendre aux échanges et le soutien qu’elle y souhaite.
+**Exemples concrets**
 
-Il faut ensuite obtenir les faits utiles : Tannerie est bien desservi, le chemin à pied part du côté de la médiathèque et la déviation dure encore plusieurs jours. Maud peut demander à Ilyes de confirmer à quelle heure il pourrait retrouver Hélène. Une fois les détails connus, Hélène peut décider si elle veut faire l’essai et avec qui.
+- Hélène veut que le dessin lui soit attribué et refuse la photo où elle tient une tasse près du visage.
+- Une personne accepte que son nom figure sous une création et préfère qu’on ne publie que l’image de l’objet.
+
+### L’accompagnant n’a pas la réponse à la place de la personne
+
+Sa présence peut faciliter l’échange si son rôle est défini selon la demande.
+
+**Exemples concrets**
+
+- Sofia est venue pour le trajet et demande de poser le formulaire après la réponse d’Hélène.
+- Un collègue lit deux propositions à voix haute, puis attend que la personne dise ce qu’elle accepte.
+
+### Une réponse peut rester en attente
+
+Un refus clair peut coexister avec une décision reportée sur un autre point.
+
+**Exemples concrets**
+
+- Hélène refuse le portrait et demande de reparler de la légende après le test.
+- Une personne décline un entretien et souhaite voir la photo du rayon avant de décider de sa diffusion.
+
+## 3 techniques pour préciser un accord au travail
+
+### 1. Montrer chaque usage séparément
+
+Rendre visibles les choix contenus dans un même formulaire.
+
+**Exercice pratique**
+
+- Présentez la photo, la légende et le support de diffusion sur des lignes distinctes.
+- Expliquez qui verra chaque élément.
+- Demandez à la personne sa réponse sur un seul point à la fois.
+
+Chacun sait à quoi correspond l’accord et ce qui reste ouvert.
+
+### 2. Donner une suite au refus
+
+Éviter qu’un élément refusé revienne dans le prochain brouillon.
+
+**Exercice pratique**
+
+- Notez les propositions que la personne écarte.
+- Retirez-les de la version en cours.
+- Montrez la nouvelle version si elle contient encore des éléments à valider.
+
+Le refus a une conséquence concrète sur ce qui sera préparé.
+
+### 3. Réserver du temps pour ce qui reste à choisir
+
+Laisser la personne examiner une proposition sans la mêler au reste de la réunion.
+
+**Exercice pratique**
+
+- Demandez quand le support doit partir.
+- Fixez un moment pour revoir les éléments en attente.
+- Revenez à l’autre sujet si la décision n’est pas nécessaire aujourd’hui.
+
+La personne dispose d’un délai réel et garde la possibilité de dire oui ou non ensuite.
 
 ## La case photo reste vide
 
 Maud écrit « pas de portrait » sur son propre exemplaire et remet l’imprimé dans sa chemise. Hélène propose qu’elles regardent la légende après le deuxième essai prévu vendredi après-midi. Pour le trajet, Ilyes peut venir la chercher le vendredi matin à l’arrêt Tannerie, du côté de la médiathèque. Hélène accepte qu’il marche avec elle de là jusqu’à la porte bleue. Elle veut faire la partie en bus à sa façon. Sur le bordereau, elle retrouve le code des petits bols qu’elle comptait ajouter au rayon. Leur caisse est encore au dépôt. Elle demande à Maud de la faire venir vendredi et réserve aux bols le bout d’étagère qu’elle avait mesuré la veille.
+
+---
+
+**Conclusion**
+
+La case du portrait peut rester vide. Hélène pourra regarder la légende plus tard et décider maintenant du trajet avec Ilyes. Les deux réponses n’ont pas besoin de tomber au même moment.

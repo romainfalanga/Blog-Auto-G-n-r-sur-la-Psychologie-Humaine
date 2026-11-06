@@ -33,14 +33,81 @@ Owen connaît la différence entre la caméra d’un proche et le compte d’un 
 
 Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle.
 
-## Comment cette difficulté se manifeste
+Une personne qui bégaie peut vouloir prendre la parole devant des gens connus et refuser que ce moment devienne un fichier rejouable ailleurs. Owen souhaite la présence de sa mère et veut garder sa présentation dans la salle. Le lycée recueille les accords pour chaque usage prévu avec les personnes concernées et leurs responsables légaux selon le cadre applicable.
 
-Owen est disposé à montrer le film qu’il a monté et à en introduire une scène. Il n’a pas changé d’avis sur le compte du lycée. Sa mère peut entendre cette distinction et lui demander ce qu’il souhaite, avant de remplir les documents que l’établissement a prévus. Éduscol propose des modèles pour recueillir les autorisations d’enregistrement et d’utilisation de l’image et de la voix. Dans le récit, M. Vasseur vérifie avec le lycée les accords des personnes concernées et les autorisations de leurs responsables légaux pour les élèves mineurs.
+## Comment distinguer le choix de parler et celui d’être enregistré ?
 
-## Une demande qui vaut aussi en famille
+### Voir une scène donne un contexte à la voix
 
-L’ASHA présente le fait de parler ouvertement de son bégaiement comme une possibilité, selon la personne et le contexte. Owen n’a pas à expliquer son bégaiement à chaque fois qu’il choisit où sa voix peut être entendue. Ce qu’il demande à sa mère concerne l’usage d’un enregistrement, qu’il bégaie ou non le soir de la projection. Elle peut lui proposer de raconter le film au frère d’Owen plus tard ou le laisser décider de ce qu’il partagera avec lui. Dans la salle, le lycée peut rappeler que la séance ne doit pas être filmée et demander aux personnes qui sortiraient leur téléphone de le ranger. Ce rappel ne garantit pas que personne ne tentera de filmer ; Owen peut en tenir compte dans sa décision.
+La voix entendue avec le film porte le jeu et l’histoire. Un enregistrement isolé ou montré ailleurs ne fait pas entendre la même situation.
+
+**Exemples concrets**
+
+- La mère d’Owen comprend le geste à l’écran en voyant le film entier.
+- L’extrait envisagé pour l’annonce aurait placé la phrase entre deux messages sans montrer le banc.
+
+### Un accord a un périmètre
+
+Autoriser une séance concerne un public et un usage précis. Un souvenir filmé ou une mise en ligne est une autre décision.
+
+**Exemples concrets**
+
+- Owen et sa mère renseignent la feuille pour la séance au lycée.
+- La demande de ne pas filmer porte aussi sur ce qu’Owen dira devant le public.
+
+### L’annonce peut exister sans fichier sonore
+
+Le groupe peut communiquer sur le projet par un moyen que les personnes concernées acceptent.
+
+**Exemples concrets**
+
+- Alma dispose du titre et du visuel du sac.
+- Le club peut donner le programme de la soirée sans envoyer d’enregistrement des interprètes.
+
+## 3 techniques pour préciser les usages de sa voix
+
+### 1. Lister les usages séparément
+
+Donner un cadre clair à chaque décision.
+
+**Exercice pratique**
+
+- Distinguez travail, séance, captation et diffusion.
+- Relisez pour chacun le public et les conditions prévues.
+- Faites préciser et recueillir les accords par l’adulte responsable.
+
+Une acceptation pour la séance ne se propage pas à d’autres usages.
+
+### 2. Prévoir le rappel dans la salle
+
+Rendre la consigne accessible au public au bon moment.
+
+**Exercice pratique**
+
+- Inscrivez la demande de ne pas filmer au programme de l’équipe.
+- Choisissez qui la donnera avant l’introduction.
+- Dites au public ce qu’il peut faire à la place, comme ranger le téléphone et profiter du film.
+
+Owen peut se consacrer à ce qu’il veut montrer.
+
+### 3. Valider une annonce sans extrait
+
+Informer sans élargir l’usage de l’enregistrement.
+
+**Exercice pratique**
+
+- Choisissez un visuel accepté par les auteurs.
+- Vérifiez qu’aucun lien sonore ou vidéo n’y est joint.
+- Faites valider la version finale avant de l’envoyer.
+
+Le film peut trouver son public dans les conditions prévues.
 
 ## Une ligne pour la salle
 
 Owen répond à sa mère qu’il voudrait bien qu’elle soit là. Ils renseignent la feuille pour une séance au lycée, devant les élèves et les familles invités, sans autoriser de diffusion en ligne. Au club, le lendemain, M. Vasseur confirme que les accords sont réunis pour cette séance. Alma a déjà le visuel que l’équipe a approuvé, avec le sac et le titre, sans extrait. Owen glisse la copie du programme dans la chemise de Lucile. À côté du créneau du film, il ajoute : « Rappeler de ne pas filmer. » Lucile lui demande s’il sait déjà comment il veut commencer. Owen répond qu’il sait ce qu’il veut montrer.
+
+---
+
+**Conclusion**
+
+Le lycée confirme la séance et Alma a de quoi l’annoncer. Owen veut présenter une scène devant les familles et conserver sa prise de parole dans la salle. La ligne ajoutée au programme transforme cette limite en consigne que l’équipe pourra donner ensemble.

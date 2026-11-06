@@ -29,16 +29,81 @@ Sur le planning, son nom est au début du créneau. Elle pourrait envoyer un seu
 
 ## Réfléchir à une durée à la fois
 
-Le réveil difficile fait exister dans la même minute la permanence, le trajet et la soirée. Cette anticipation peut occuper Laure alors qu’elle aurait besoin de choisir seulement ce qu’elle prend dans son sac. Ses sensations lui donnent des informations sur ses capacités du moment. Elle gagne à préciser quelle décision s’impose maintenant et lesquelles pourront attendre. La fluctuation, fréquente dans les douleurs persistantes, laisse une part d’incertitude. Une adaptation testée au cas par cas permet de tenir compte des symptômes sans devoir connaître toute la journée à l’avance.
+Des symptômes persistants peuvent varier d’un jour à l’autre et rendre les engagements difficiles à prévoir. Dans le trouble de détresse physique, la douleur, la fatigue et l’attention portée à ce qu’elles pourraient changer peuvent se prolonger même quand l’intensité varie. Laure se réveille mal et voudrait savoir comment elle se sentira jusqu’au soir. Pour l’accueil, la question immédiate est plus précise. Elle cherche le temps et le matériel nécessaires pour recevoir la dame au balcon.
 
-## Des contraintes différentes autour de la table
+## Comment la fluctuation des symptômes change-t-elle une décision au quotidien ?
 
-Le changement que Laure envisage aura aussi un effet sur le temps de Yasmina. Quand Laure lui demande comment elle a organisé les retours, elles découvrent une possibilité qu’aucune n’avait formulée sur le planning. Ouvrir quinze minutes plus tard laisse l’accueil possible avec la tâche déjà préparée. À l’inverse, déplacer l’horaire d’une heure demanderait une autre personne ou un avis aux visiteurs. Les difficultés de Laure prennent donc un relief différent suivant l’organisation. Cette donnée compte quand elle et sa psychologue examinent le retentissement du trouble.
+### Une matinée difficile paraît annoncer toute la journée
 
-## Convenir d’un début plus court
+La sensation du réveil peut peser sur des décisions qui pourraient être prises plus tard.
 
-Laure et Yasmina se fixent un horaire précis, une manière d’afficher le changement et le même passage de relais. Laure restera assise à l’accueil. Yasmina préparera le plateau de graines en même temps que l’ouverture de la salle, dans la limite de ce qui est déjà prêt. Si le trajet coûte trop à Laure, elle peut encore choisir de faire couvrir l’accueil ou de reporter sa participation. Plus tard, elles pourront vérifier si le quart d’heure a aidé et si le déplacement de tâches reste acceptable pour chacune.
+**Exemples concrets**
+
+- Laure imagine déjà la permanence, le trajet et la soirée avant d’ouvrir son sac.
+- Une personne hésite à annuler un rendez-vous de l’après-midi avant de savoir ce qu’elle pourra adapter le matin.
+
+### Le choix paraît réduit à tenir ou annuler
+
+L’incertitude peut masquer un horaire intermédiaire compatible avec les disponibilités de chacun.
+
+**Exemples concrets**
+
+- Laure envisage d’annuler ou d’arriver à l’heure habituelle, puis demande à Yasmina ce qu’elle peut reprendre.
+- Un bénévole croit devoir faire toute la matinée avant d’apprendre qu’un collègue peut ouvrir le premier quart d’heure.
+
+### Une priorité reste possible avec moins de temps
+
+Une activité peut tenir si les gestes indispensables sont déjà prêts.
+
+**Exemples concrets**
+
+- Laure prend la fiche et un stylo pour répondre sur la profondeur des pots.
+- Une personne garde un rendez-vous court parce que les documents à remettre ont été préparés la veille.
+
+## 3 techniques pour adapter un engagement quand les symptômes fluctuent
+
+### 1. Décider du premier intervalle
+
+Résoudre la question qui se pose maintenant.
+
+**Exercice pratique**
+
+- Repérez l’heure à laquelle la décision doit être prise.
+- Demandez ce qui peut être déplacé ou repris pendant ce temps.
+- Laissez les décisions plus tardives ouvertes tant qu’elles peuvent l’être.
+
+Un accord court peut être pris sans faire une prévision pour toute la journée.
+
+### 2. Choisir le matériel indispensable
+
+Réduire l’effort avant une tâche appréciée.
+
+**Exercice pratique**
+
+- Nommez la demande que vous voulez traiter.
+- Gardez les objets nécessaires pour y répondre.
+- Remettez les préparatifs secondaires à quelqu’un qui a accepté de les prendre ou à plus tard.
+
+L’effort disponible va au travail qui compte pour ce créneau.
+
+### 3. Faire le point après l’essai
+
+Voir ce que l’ajustement a permis et ce qu’il a coûté.
+
+**Exercice pratique**
+
+- Notez ce qui a pu être terminé.
+- Dites ce qui restait pénible ou incertain.
+- Révisez l’organisation avec l’équipe, en signalant au soignant tout changement préoccupant.
+
+L’expérience informe la prochaine décision sans garantir que la journée suivante se passera de la même façon.
 
 ## La hauteur du pot
 
 Yasmina a affiché le changement à l’entrée. Laure arrive à neuf heures quarante-cinq. La dame au balcon déplie une photo où un pot dépasse à peine le bord d’une table. Laure pose son index sur la soucoupe et lui demande si elle peut mesurer la profondeur chez elle. Elles choisissent un sachet à essayer. À dix heures trente, Laure pousse le cahier vers Yasmina et s’en va comme prévu. Son bras lui fait encore mal, et le fait d’avoir pu finir l’échange lui plaît. Dans le couloir, Yasmina lui montre la date du prochain samedi et lui propose une revue du planning après la permanence.
+
+---
+
+**Conclusion**
+
+L’ouverture retardée permet à Laure d’aider la dame au balcon puis de transmettre le cahier à l’heure prévue. Son bras reste douloureux. Elle connaît maintenant l’effet de cet ajustement pour ce samedi et pourra revoir le planning avec Yasmina après un autre essai.

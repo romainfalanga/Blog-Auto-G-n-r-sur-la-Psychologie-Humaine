@@ -33,16 +33,81 @@ Sonia prend une branche un peu lourde. Morgane lui montre comment la poser sur l
 
 ## Ce qui se passe quand la décision échappe
 
-La perte de contrôle est un élément central de l’expérience d’un épisode. Morgane peut penser à s’arrêter et sentir malgré cela qu’elle n’arrive plus à diriger la manière dont elle mange. Pour comprendre l’hyperphagie boulimique, les professionnels regardent la répétition de ces moments, la souffrance et les effets dans la vie de la personne. Ils tiennent aussi compte de son état de santé et des autres explications possibles.
+Pendant un épisode d’hyperphagie boulimique, une personne peut avoir le sentiment de ne plus pouvoir diriger sa manière de manger alors même qu’elle voudrait s’arrêter. Les professionnels examinent cette expérience avec la répétition des épisodes, la souffrance et le retentissement, ainsi que les autres explications possibles. À l’atelier, Morgane se souvient surtout du moment où elle a voulu interrompre ce qu’elle faisait. Elle avait aussi laissé le message de Sonia sans réponse.
 
-## Le message laissé sans réponse après la crise
+## Comment le sentiment de perdre la main se fait-il sentir pendant et après un épisode ?
 
-Morgane se souvient de s’être dit qu’elle voulait s’arrêter, sans retrouver le sentiment de décider comment elle mangeait. La difficulté a continué à peser après la soirée. Elle a laissé sans réponse la photo que Sonia lui a envoyée et douté du projet qu’elle avait proposé. Le lendemain, à l’atelier, elle hésite encore à sortir sa feuille de sa poche.
+### L’arrêt souhaité ne vient pas
 
-## Décrire aussi ce que l’épisode laisse derrière lui
+Perdre la main décrit un vécu pendant l’épisode, même si une autre activité restait prévue.
 
-Morgane peut raconter à l’équipe qui la suit le moment de la crise et celui où elle a laissé le message de Sonia sans réponse. La scène du lendemain donne une information différente de celle de l’épisode lui-même. Elle montre le temps pendant lequel la honte a continué à peser sur ses décisions. À l’atelier, Morgane peut reprendre la conversation en donnant simplement le papier. Le projet appelle un avis de fleuriste. La question de santé a une autre place, au rendez-vous qu’elle a déjà pris.
+**Exemples concrets**
+
+- Morgane se souvient qu’elle voulait passer à autre chose sans y parvenir.
+- Une personne peut avoir préparé un appel à un proche et le laisser passer alors qu’elle souhaitait s’arrêter pour répondre.
+
+### Le vécu reste difficile à transmettre
+
+Le sentiment de contrôle n’est pas directement visible pour un collègue qui ne connaît que l’après.
+
+**Exemples concrets**
+
+- Sonia voit Morgane venir prendre son tablier, sans savoir ce qui l’a occupée la veille.
+- Quelqu’un peut raconter qu’il a laissé passer l’heure d’un appel et avoir besoin d’aide pour dire pourquoi.
+
+### L’épisode laisse une tâche en suspens
+
+Ce qui n’a pas été fait aide à situer l’effet de l’épisode dans une journée.
+
+**Exemples concrets**
+
+- Le message de Sonia reste sans réponse alors que Morgane avait préparé son idée.
+- En montrant à Sonia comment soutenir la branche, Morgane retrouve le geste qu’elle voulait partager.
+
+## 3 techniques pour décrire ce qu’un épisode a changé
+
+### 1. Retenir les mots du moment
+
+Décrire la perte de contrôle en consultation.
+
+**Exercice pratique**
+
+- Choisissez un épisode dont vous souhaitez parler.
+- Dites ce que vous vouliez pouvoir faire et ce qui vous semblait vous échapper.
+- Demandez au professionnel de vous aider à situer ce vécu dans le suivi.
+
+L’entretien peut partir de la difficulté ressentie sans débat sur la quantité mangée.
+
+### 2. Relever un effet qui se voit après
+
+Montrer ce qui a été modifié dans la vie ordinaire.
+
+**Exercice pratique**
+
+- Repérez une action attendue qui est restée en suspens.
+- Notez ce qu’elle représentait pour vous avant l’épisode.
+- Apportez cette observation au rendez-vous.
+
+Un exemple précis peut aider à comprendre le retentissement en dehors de la crise.
+
+### 3. Reprendre une demande laissée en attente
+
+Répondre au projet sans devoir expliquer l’épisode au travail.
+
+**Exercice pratique**
+
+- Retrouvez le message ou la demande initiale.
+- Dites ce que vous souhaitez encore proposer.
+- Choisissez avec l’autre un moment pour le reprendre.
+
+Le projet peut retrouver un point de départ qui ne dépend pas d’une confidence.
 
 ## Le papier à côté des seaux
 
 Morgane déplie sa feuille. Elle propose des essais assez courts pour que quelqu’un qui passe puisse y prendre part. Sonia lui demande à quel moment elles pourront en reparler tranquillement. Elles conviennent d’en parler jeudi, à la fin du déjeuner de départ de Marie. Morgane écrit « essayer un geste » en haut de la feuille et, dans son carnet de suivi, note qu’elle voudrait expliquer pourquoi elle avait laissé le message sans réponse.
+
+---
+
+**Conclusion**
+
+Morgane sort sa feuille et propose un geste assez court pour une personne de passage. Elle garde pour l’équipe de soins la question du message qu’elle n’a pas réussi à reprendre la veille. Ce délai donne un exemple du coût de l’épisode dans sa journée.

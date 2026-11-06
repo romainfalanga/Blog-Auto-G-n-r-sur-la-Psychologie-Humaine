@@ -34,14 +34,81 @@ Elle lui demande si elle doit prendre la suite au premier silence pour assurer l
 
 Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation.
 
-## Comment cette difficulté se manifeste
+Lucile sait qu’Owen veut continuer certaines phrases même lorsqu’il ne fait plus de bruit. Leur carte distingue ce moment d’une décision de passer la main. S’ils manquent de temps, ils peuvent revoir le programme ensemble et garder la même règle pendant la prise de parole.
 
-Lucile peut demander ce qu’Owen préférerait si le temps devient court, plutôt que d’assimiler chaque pause à une difficulté qu’elle doit résoudre. Owen peut souhaiter garder sa phrase jusqu’au bout et, un autre jour, passer la main plus tôt. La carte retournée convient à cette présentation parce qu’ils en décident ensemble. Elle ne promet ni que la parole sera fluide, ni que le passage sera facile à chronométrer.
+## Comment reconnaître qu’un relais est demandé pendant un blocage silencieux ?
 
-## Réduire le texte pour tout le monde
+### Le silence n’annonce pas forcément la fin
 
-Alma a une contrainte commune aux clubs. Lucile peut raccourcir l’accueil et garder son texte pour le programme de la soirée, sans perdre tout le travail qu’elle y a mis. Owen choisit une phrase sur la scène de la poignée. Il aimerait la dire lui-même, et il propose un geste s’il veut que Lucile passe au lancement du film. Pour les questions après, chacun peut en choisir une, en laisser une au groupe ou proposer d’en reparler à la sortie. Nassim peut vérifier le son pendant qu’ils s’accordent sur cet ordre. Le petit temps gagné vient de la répartition des tâches, du texte qu’ils ont décidé d’enlever et de la souplesse prévue autour des questions.
+Pendant un blocage, le flux de parole peut s’arrêter sans que la personne ait terminé son idée.
+
+**Exemples concrets**
+
+- Owen s’arrête en répétition et peut encore vouloir reprendre sa phrase.
+- Dans un débat, une personne peut garder son regard sur le groupe pendant le silence qui précède le mot.
+
+### Un signal choisi donne une information supplémentaire
+
+Un signe convenu indique un choix que la durée du silence ne permet pas de deviner.
+
+**Exemples concrets**
+
+- Owen montre à Lucile que seul le dos blanc déclenche le relais.
+- Lors d’un autre projet, le partenaire peut attendre que la personne lui tende explicitement la feuille.
+
+### Le temps de scène se règle en amont
+
+Un programme serré peut être revu avant l’intervention. Le relais conserve alors la fonction que la personne lui a donnée.
+
+**Exemples concrets**
+
+- Lucile raccourcit son accueil pour libérer du temps.
+- Alma prend la consigne sur les téléphones pendant qu’Owen prépare la présentation du film.
+
+## 3 techniques pour convenir d’un relais sans deviner
+
+### 1. Définir les deux positions du signal
+
+Distinguer l’attente et le passage de main.
+
+**Exercice pratique**
+
+- Choisissez un signe que la personne peut faire facilement.
+- Dites ce qui se passe quand le signe n’apparaît pas.
+- Faites reformuler l’accord par le partenaire.
+
+Le silence garde sa place ordinaire et le relais dépend d’une demande.
+
+### 2. Répéter les deux issues
+
+Vérifier ce que fait chaque personne après le signal.
+
+**Exercice pratique**
+
+- Essayez une fois où la personne reprend sa phrase.
+- Essayez une fois où le partenaire fait l’action convenue.
+- Vérifiez si le signe est visible à la place de chacun.
+
+L’équipe sait quoi faire sans improviser à partir de la longueur d’une pause.
+
+### 3. Régler la durée hors de la prise de parole
+
+Protéger la marge prévue pour les intervenants.
+
+**Exercice pratique**
+
+- Repérez un point de programme que vous pouvez raccourcir.
+- Confirmez cette option avec l’organisation.
+- Gardez le même accord de relais pendant l’intervention.
+
+La contrainte de temps reçoit une réponse collective.
 
 ## Le dos blanc de la carte
 
 Lucile lit son accueil raccourci, puis s’arrête sans expliquer tout le film. Owen lève la carte, la repose du même côté et lui dit : « Blanc seulement si je te passe la main. » Ils essaient la transition une fois ; Owen utilise le signal cette fois pour que Nassim puisse tester le départ du film. Lucile garde sa feuille entière dans sa poche. Alma annonce qu’elle fera le rappel sur les téléphones avant l’introduction. Owen demande qu’on laisse allumée la petite lampe de la table. Il pourra lire la carte ou ne pas la toucher. Quand les premières chaises raclent le sol dans le couloir, il cherche où poser son verre sans mouiller la carte.
+
+---
+
+**Conclusion**
+
+Owen et Lucile savent ce que veut dire le dos blanc et ce qu’ils feront si la carte ne bouge pas. Nassim a testé le départ du film et Alma donnera le rappel. Owen pourra regarder sa carte, parler ou demander le relais quand le public sera là.

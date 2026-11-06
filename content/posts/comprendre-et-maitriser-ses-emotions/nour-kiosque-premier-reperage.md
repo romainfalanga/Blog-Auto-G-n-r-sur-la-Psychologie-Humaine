@@ -28,22 +28,83 @@ Le samedi, Nour arrive au kiosque du square avec la photographie sous une pochet
 
 Elle s’arrête pourtant près d’une vitrine où le groupe la dépasse. Elle glisse la photographie dans son sac et écrit à Fatou qu’elle va reprendre par le kiosque. Fatou revient jusqu’à elle. Elle commence à proposer d’écourter la marche pour tout le monde. Nour lui montre le passage sur le plan. Elle voudrait essayer l’autre entrée pendant que les voisins finissent la rue du marché. Il leur faut seulement décider où et quand se revoir.
 
-## Le bruit change ce que permet un lieu
+## Quand un son prend trop de place
 
-Une personne peut vouloir participer à une sortie et avoir besoin de s’écarter de certains sons. Les particularités sensorielles décrites dans l’autisme sont variées. Certains bruits deviennent difficiles à supporter pour une personne, tandis qu’une autre remarque peu ces bruits ou rencontre des difficultés ailleurs.
+Les particularités sensorielles de l’autisme peuvent rendre certains sons très difficiles à supporter. Elles varient selon la personne, le bruit et le contexte. Au marché, Nour entend bien le raclement répété des caisses. Elle perd pourtant des morceaux de l’histoire racontée à côté d’elle et finit par vouloir changer de rue. Le lieu et la possibilité de s’en écarter comptent dans ce qu’elle peut faire de sa visite.
 
-## Comment cette difficulté se manifeste
+## Comment la sensibilité aux sons change-t-elle le trajet ?
 
-Nour apprécie l’animation quand elle peut s’éloigner et entend mal Fatou au milieu des chocs répétés sur les pavés. Le détour lui permet de choisir ce qu’elle veut continuer à voir.
+### Un bruit revient sans qu’on puisse choisir le moment
 
-Le NICE propose de tenir compte de l’environnement physique et d’adapter les conditions de l’accompagnement si nécessaire. Pour la visite, Nour peut appliquer cette idée à son propre projet. Un passage qui lui convient un matin calme peut lui demander davantage les jours de marché. Le plan gagne à préciser où se trouve la rue animée, quand elle est occupée et par où il est possible de revenir. Chacun pourra utiliser ces indications selon ses besoins.
+Un son peut être difficile par sa répétition et sa proximité, même s’il fait partie du décor pour les autres.
 
-## Un point commun pour des trajets différents
+**Exemples concrets**
 
-Fatou et Nour regardent l’heure et s’accordent sur le kiosque comme lieu de retour. Elles peuvent donner la même information aux voisins et leur demander ce qui serait pratique pour eux. Une personne veut continuer jusqu’à la cour. L’autre préfère s’arrêter à la boulangerie sur le chemin. Nour leur montre qu’ils peuvent tous retrouver la photographie au kiosque, où elle compte rester un moment.
+- À l’Ancienne Halle, la caisse vide racle les pavés chaque fois que le marchand revient.
+- Une personne peut accepter de traverser une rue calme et vouloir la quitter dès qu’un chariot passe à plusieurs reprises devant elle.
 
-Si elle fait une pause, Nour peut choisir de revenir à la visite, de reprendre ailleurs ou de rentrer. Fatou veut savoir où la retrouver sans avoir à lui écrire toutes les deux minutes. Elles conviennent du message utile si le point de rendez-vous change. Pour le prochain repérage, Nour voudrait obtenir le déroulé avant de sortir, avec une adresse qu’elle peut relire. Elle pourra dire quelles parties lui conviennent et vérifier ce qui reste incertain.
+### La parole devient plus difficile à entendre
+
+L’attention prise par le bruit laisse moins de place à une conversation ou à l’observation d’un lieu.
+
+**Exemples concrets**
+
+- Nour entend le nom de la rue au début de l’explication de Fatou et perd la suite.
+- Elle range la photo près de la vitrine alors qu’elle voulait la comparer à l’ancienne porte.
+
+### Le retrait peut être temporaire et choisi
+
+S’écarter d’un bruit peut aider à poursuivre une partie de l’activité autrement.
+
+**Exemples concrets**
+
+- Nour écrit qu’elle reprend par le kiosque au lieu de rester sous la halle.
+- Elle veut essayer le passage par l’autre entrée et revoir les voisins après leur tour du marché.
+
+## 3 techniques pour adapter un trajet quand le bruit gêne
+
+### 1. Situer le son qui pose problème
+
+Choisir un trajet à partir d’une gêne précise.
+
+**Exercice pratique**
+
+- Repérez où se trouve le bruit et quand il se répète.
+- Indiquez sur le plan le segment que vous préféreriez contourner.
+- Cherchez une autre entrée ou un horaire plus calme, si c’est possible.
+
+La décision porte sur la partie difficile du trajet et laisse ouvertes les autres.
+
+### 2. Prévoir un point de retour commun
+
+Pouvoir changer de rue sans couper le contact avec le groupe.
+
+**Exercice pratique**
+
+- Choisissez un lieu facile à nommer et à retrouver.
+- Convenez d’un moment pour s’y retrouver.
+- Dites comment signaler un détour ou un retour anticipé.
+
+Chacun peut marcher à sa manière tout en sachant où rejoindre les autres.
+
+### 3. Récupérer le passage manqué par écrit
+
+Retrouver l’information quand le lieu gêne l’écoute.
+
+**Exercice pratique**
+
+- Repérez le sujet dont vous aimeriez avoir la suite.
+- Demandez une note, une photo légendée ou l’adresse exacte à la personne qui la connaît.
+- Reprenez-la dans un endroit où vous pouvez lire à votre rythme.
+
+Un récit du lieu reste accessible même si on n’a pas pu l’entendre sur place.
 
 ## Le bec tourné vers le passage
 
 Au kiosque, l’un des voisins retrouve sur son téléphone l’image qu’il a prise dans la cour. On y voit deux fixations au-dessus d’une porte. Nour ressort la photographie et rapproche les bords. L’hirondelle pointait bien vers le passage, même si la porte donne aujourd’hui sur la rue du marché. Fatou lui demande si elle a pu entendre son histoire sur la halle. Nour répond qu’elle aimerait la lire. En rentrant, elle se souvient qu’une autre réunion au service municipal est prévue la semaine suivante. Elle voudrait savoir ce qui est prévu avant d’entrer dans la salle.
+
+---
+
+**Conclusion**
+
+Nour retrouve les voisins au kiosque et la photo aide à replacer l’enseigne. Le bruit a compté dans le choix du chemin et dans ce qu’elle a pu entendre. L’autre entrée et la demande d’un texte lui laissent d’autres façons de suivre le repérage.

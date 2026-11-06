@@ -27,17 +27,73 @@
         {
           "role": "explanation",
           "heading": "Deux charges dans la même tâche",
-          "text": "Le bras de Laure lui fait mal. Elle doit aussi consacrer de l’attention à la douleur, à sa durée et à ce qu’elle pourrait changer dans la suite de la journée. On voit la différence au moment où elle perd le fil d’une phrase. Elle est toujours à la table, les sachets sont à portée de main, mais une partie du travail se fait désormais dans sa tête. Dans son trouble, cette attention soutenue revient dans plusieurs situations depuis des mois et continue à peser après les explications apportées au cours du suivi."
+          "text": "Une douleur persistante peut gêner directement un geste et continuer à occuper l’attention pendant le reste de l’activité. Dans le trouble de détresse physique, la place prise par les symptômes et leurs conséquences se prolonge et peut peser sur plusieurs domaines de la vie. Cela ne remet pas en cause la réalité de la douleur ni la possibilité d’une affection physique associée. Laure a mal au bras, puis se met à comparer la sensation à celle de la veille au point de perdre une partie de la question de Yasmina."
         },
         {
           "role": "manifestations",
-          "heading": "Ce qui disparaît du planning",
-          "text": "Si Laure regarde seulement combien de tiroirs sont remplis, elle manque une autre partie de la matinée. Des courses sont reportées, des conversations doivent être reprises et l’horaire proposé se transforme vite en question sur la soirée entière. Le retentissement se voit en suivant ce que Laure voulait faire avant et après sa venue. La Dre Valette connaît cette histoire à travers plusieurs rendez-vous. Une seule matinée de douleur ou un besoin de repos courant apporteraient à eux seuls peu d’informations sur la situation clinique."
+          "heading": "Comment la douleur et l’attention qu’elle mobilise se mêlent-elles à une tâche ?",
+          "points": [
+            {
+              "heading": "Un geste devient pénible",
+              "text": "La sensation elle-même peut modifier ce que la personne est en train de faire.",
+              "examples": [
+                "Laure a encore mal au bras en manipulant les sachets.",
+                "Une personne interrompt le classement de livres pour trouver une position moins inconfortable."
+              ]
+            },
+            {
+              "heading": "La comparaison prend la place de l’échange",
+              "text": "L’attention peut rester fixée sur la durée ou la variation d’une plainte familière pendant qu’autre chose demande une réponse.",
+              "examples": [
+                "Laure compare son bras à celui de la veille et demande à Yasmina de répéter.",
+                "Quelqu’un revient plusieurs fois sur l’heure où la fatigue a commencé et ne retient pas la consigne qu’on vient de lui donner."
+              ]
+            },
+            {
+              "heading": "L’effort se répercute après la tâche",
+              "text": "Une activité accomplie peut prendre assez d’énergie pour que d’autres restent en attente.",
+              "examples": [
+                "Après avoir trié des livres jusqu’à midi, Laure a laissé ses courses dans le sac jusqu’au soir.",
+                "Une personne termine une permanence et ne prépare plus le repas qu’elle avait prévu en rentrant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner une durée à un essai",
-          "text": "L’équipe peut fixer l’heure de début et celle du passage de relais avant de mettre un nom sur le planning. Pour Laure, une heure assise, avec les sachets dans un plateau à portée de main, rend la tâche assez précise pour qu’elle puisse décider. Elle pourra ensuite dire ce qui l’a aidée à accueillir quelqu’un et ce qui lui a coûté trop d’énergie. Yasmina saura de son côté quand reprendre la table et pourra prévoir ses propres tâches. Le premier essai sert à obtenir ces informations."
+          "heading": "3 techniques pour préserver une tâche quand la douleur prend de la place",
+          "points": [
+            {
+              "heading": "Choisir une première durée d’essai",
+              "objective": "Éviter de promettre une présence plus longue que celle que l’on veut tester.",
+              "exercise": [
+                "Repérez la partie de l’activité à laquelle vous tenez.",
+                "Proposez une durée à la personne qui organise.",
+                "Fixez l’heure et le nom du relais avant d’annoncer le créneau."
+              ],
+              "benefit": "Le cadre permet de juger ce que l’essai vous coûte dans des conditions définies."
+            },
+            {
+              "heading": "Rendre le prochain geste visible",
+              "objective": "Retrouver le fil d’un travail qui a été interrompu.",
+              "exercise": [
+                "Choisissez le sachet, le document ou l’outil qui marque la reprise.",
+                "Placez-le à un endroit distinct.",
+                "Revenez à une seule action avant de décider de la suivante."
+              ],
+              "benefit": "Un repère de travail peut aider quand l’attention revient vers une sensation familière."
+            },
+            {
+              "heading": "Apporter un exemple de retentissement",
+              "objective": "Aider l’équipe à distinguer la douleur et ce qui a occupé l’attention.",
+              "exercise": [
+                "Décrivez la tâche et la sensation que vous ressentiez.",
+                "Indiquez la pensée qui est revenue et ce que vous avez laissé en suspens.",
+                "Discutez avec le professionnel des suites utiles, en signalant les symptômes nouveaux."
+              ],
+              "benefit": "Le suivi peut tenir compte des symptômes, de l’attention et des conséquences dans la vie réelle."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait à dix heures trente",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Laure inscrit une heure d’essai assise avec passage de relais à Yasmina.",
         "next": "Elle apporte deux exemples de retentissement au rendez-vous médical de mardi."
-      }
+      },
+      "conclusion": "Laure fixe l’heure où Yasmina reprendra la table. Elle a encore mal au bras et sait quel sachet elle veut présenter en premier. Les deux exemples notés dans le bus lui donneront des mots pour parler de cette matinée à la Dre Valette."
     },
     {
       "number": 2,
@@ -73,17 +130,73 @@
         {
           "role": "explanation",
           "heading": "Ce que l’évaluation a réuni",
-          "text": "La Dre Valette reprend les éléments qui ont permis d’établir le diagnostic. Les douleurs et la fatigue de Laure sont présentes la plupart des jours depuis plusieurs mois. La médecin apprécie si les symptômes continuent à mobiliser une part disproportionnée de son attention au regard de sa situation médicale et des réponses qui lui ont déjà été apportées. Cela gêne des activités importantes. La question du genou montre aussi pourquoi un médecin continue à étudier les problèmes physiques et leurs effets. Un examen répond à la question pour laquelle il a été indiqué. L’évaluation du trouble demande des éléments cliniques positifs, recueillis au fil du temps."
+          "text": "L’évaluation du trouble de détresse physique s’appuie sur l’histoire des symptômes pénibles, la place que l’attention leur accorde dans la durée et leur retentissement. Elle prend aussi en compte les affections physiques qui peuvent causer ou accentuer certaines plaintes. Un examen rassurant ou une succession de rendez-vous ne suffisent pas à poser le diagnostic. La Dre Valette revient avec Laure sur ce qu’elles ont observé au fil du temps, tout en gardant une question distincte sur le genou."
         },
         {
           "role": "manifestations",
-          "heading": "Des démarches qui coûtent du temps",
-          "text": "Les démarches de Laure ont chacune une histoire. Parfois, elle attendait une réponse à une question ouverte. À d’autres moments, elle a repris la même recherche après une explication déjà reçue, avec l’impression qu’il lui fallait recommencer pour pouvoir décider du lendemain. La Dre Valette examine ces situations séparément. Des difficultés d’accès, des consignes peu claires ou un symptôme qui change peuvent donner de bonnes raisons de reprendre contact. La fréquence des rendez-vous, prise seule, ne renseigne guère sur ce dont Laure avait besoin."
+          "heading": "Comment l’évaluation distingue-t-elle plusieurs questions de santé ?",
+          "points": [
+            {
+              "heading": "L’histoire des symptômes se construit dans le temps",
+              "text": "Les professionnels reprennent ce qui persiste et ce qui a changé au lieu de conclure à partir d’une seule consultation.",
+              "examples": [
+                "La Dre Valette demande ce qui est habituel dans le bras et ce qui a évolué au fil des mois.",
+                "Une personne rapporte depuis quand plusieurs douleurs gênent ses trajets et ce que les examens ont déjà éclairé."
+              ]
+            },
+            {
+              "heading": "Un examen répond à une question précise",
+              "text": "Une affection physique peut expliquer certaines plaintes sans éclairer toutes les autres.",
+              "examples": [
+                "Le genou de Laure reste suivi séparément et n’explique pas toute sa fatigue ni l’ensemble de ses douleurs.",
+                "Une personne reçoit une explication pour une douleur locale et garde un autre rendez-vous pour discuter d’un symptôme différent."
+              ]
+            },
+            {
+              "heading": "La gêne quotidienne apporte une information",
+              "text": "Le coût réel d’une plainte et de l’attention qu’elle mobilise ne se lit pas dans un résultat isolé.",
+              "examples": [
+                "Laure décrit la question de Yasmina qu’elle n’a entendue qu’à moitié et les provisions restées dans le sac.",
+                "Une personne explique qu’elle passe ses soirées à revenir sur la gravité d’une douleur et remet des activités qui lui importent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Fixer qui suit quoi",
-          "text": "Elles conviennent que la Dre Valette garde la vue d’ensemble des examens et des décisions médicales. Nina Perrin, la psychologue de Laure, peut travailler avec elle sur les conséquences au quotidien et la place des symptômes dans son attention. Avant tout échange, elles délimitent ce que Laure accepte de faire circuler entre les deux professionnelles. Elle pourra garder avec elle un résumé des décisions et de la prochaine date. Ce cadre doit lui donner un point de contact, y compris si une plainte se transforme ou apparaît."
+          "heading": "3 techniques pour comprendre ce que l’évaluation a établi",
+          "points": [
+            {
+              "heading": "Préparer un exemple situé",
+              "objective": "Donner au médecin un point de départ dans la vie quotidienne.",
+              "exercise": [
+                "Choisissez un épisode dont vous vous souvenez.",
+                "Dites ce que vous ressentiez et ce que vous faisiez.",
+                "Ajoutez ce que la gêne vous a empêché de finir."
+              ],
+              "benefit": "Le médecin peut replacer le symptôme et son retentissement dans votre histoire."
+            },
+            {
+              "heading": "Demander ce que répond chaque examen",
+              "objective": "Clarifier ce qui est connu et ce qui demande encore un suivi.",
+              "exercise": [
+                "Montrez le résultat dont vous ne comprenez pas la portée.",
+                "Demandez à quelle question il répondait.",
+                "Faites préciser les prochaines étapes pour les autres questions."
+              ],
+              "benefit": "La discussion peut avancer sans faire d’un résultat un verdict sur tout ce que vous ressentez."
+            },
+            {
+              "heading": "Choisir le document à transmettre",
+              "objective": "Faciliter la coordination des soins avec votre accord.",
+              "exercise": [
+                "Demandez un résumé des points convenus.",
+                "Décidez avec le professionnel à qui il sera utile.",
+                "Transmettez ce document par le moyen dont vous êtes convenus."
+              ],
+              "benefit": "Les soignants concernés disposent d’un repère commun, et vous gardez la main sur le partage."
+            }
+          ]
         }
       ],
       "ending_title": "Une feuille pour le prochain rendez-vous",
@@ -99,7 +212,8 @@
       "continuity": {
         "choice": "Laure fixe un suivi avec la Dre Valette et choisit ce qu’elle transmet à Nina.",
         "next": "Elle dîne chez elle avec Benoît avant la permanence d’essai."
-      }
+      },
+      "conclusion": "Le compte rendu du genou garde sa place et le résumé daté répond à une autre question. Laure repart avec des éléments à transmettre à Nina si elle le souhaite. Elle peut aussi appeler Benoît pour le dîner sans avoir à lui expliquer toute l’évaluation."
     },
     {
       "number": 3,
@@ -119,17 +233,73 @@
         {
           "role": "explanation",
           "heading": "Une sensation peut relancer une comparaison",
-          "text": "Pour répondre honnêtement, Laure essaie de retrouver la sensation précédente et de décider si celle du moment a changé. Une douleur persistante peut revenir au premier plan de cette façon. Chez elle, la comparaison se poursuit parfois longtemps et repousse la conversation, le repas ou le choix d’une activité. Observer un changement peut aider dans un suivi médical. Le travail consiste ici à reconnaître quand l’attention est déjà accaparée par une comparaison répétée autour d’une plainte familière. Laure connaît cette difficulté dans bien d’autres situations que ce dîner."
+          "text": "Une question sur une douleur connue peut relancer une comparaison qui prend plus de temps que la réponse elle-même. Dans le trouble de détresse physique, l’attention peut rester prise par les symptômes et leurs conséquences. Observer un changement pour en parler à un soignant garde une utilité. Au dîner, Laure cherche surtout une façon de dire que la douleur est pénible sans que chaque question lui fasse recommencer le même examen de son bras."
         },
         {
           "role": "manifestations",
-          "heading": "Les deux personnes attendent une réponse",
-          "text": "Benoît espère repérer à quel moment sa sœur a besoin de lui. Laure essaie de lui fournir une réponse assez précise pour être comprise. Il entend une hésitation et pose la question suivante. Elle prend cette question comme un signal pour vérifier à nouveau. Ils peuvent ainsi recommencer plusieurs fois dans le même repas. Le projet du samedi devient difficile à aborder parce qu’il semble d’abord leur falloir connaître la sensation exacte du vendredi. Dans les faits, Benoît pourrait aider pour un détail du trajet même si le lendemain reste incertain."
+          "heading": "Comment les questions sur la douleur changent-elles la demande de soutien ?",
+          "points": [
+            {
+              "heading": "La réponse déclenche une nouvelle comparaison",
+              "text": "Chercher à être précis peut ramener à la sensation que l’on essayait de décrire la fois précédente.",
+              "examples": [
+                "Laure essaie de retrouver comment elle ressentait son bras avant de répondre à Benoît.",
+                "Une personne se demande, à chaque question au téléphone, si sa douleur familière est exactement celle du matin."
+              ]
+            },
+            {
+              "heading": "Les bonnes intentions ne répondent pas toujours au besoin du moment",
+              "text": "Un proche peut vouloir se rendre utile et poser des questions qui prennent la place de l’activité partagée.",
+              "examples": [
+                "Benoît demande une troisième fois comment vont les douleurs et Laure pose son couteau.",
+                "Au dîner, une amie reprend les détails d’une plainte connue alors que la personne voulait surtout passer un moment ensemble."
+              ]
+            },
+            {
+              "heading": "Une aide précise se distingue d’une surveillance",
+              "text": "On peut avoir besoin d’un geste pratique sans vouloir rendre compte de ses symptômes toute la journée.",
+              "examples": [
+                "Laure préfère convenir d’un retour en voiture après la permanence.",
+                "Une personne demande qu’on l’attende à l’arrêt de bus et garde les questions de santé pour son rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qui peut être demandé",
-          "text": "Laure peut convenir avec son frère qu’elle ouvrira elle-même la discussion sur ses symptômes quand elle en aura besoin. Pour demain, elle aimerait un retour en voiture après le relais, s’il est disponible. Benoît peut dire à quelle heure et où il pourra venir. Ils se donnent alors un accord qui peut être tenu par chacun. Les questions qui touchent à une modification de symptômes ont leur place dans le plan discuté avec la Dre Valette. Pour ce soir, ils ont encore le temps de finir le repas ensemble."
+          "heading": "3 techniques pour demander une aide sans centrer tout l’échange sur la douleur",
+          "points": [
+            {
+              "heading": "Nommer le besoin de la conversation",
+              "objective": "Faire entendre à la fois la douleur et le choix du moment pour en parler.",
+              "exercise": [
+                "Dites brièvement ce qui vous pèse.",
+                "Précisez si vous voulez en parler maintenant ou plus tard.",
+                "Proposez un autre sujet si vous souhaitez continuer le repas ensemble."
+              ],
+              "benefit": "Le proche peut prendre la douleur au sérieux sans demander davantage de détails."
+            },
+            {
+              "heading": "Choisir une aide délimitée",
+              "objective": "Donner au proche une demande à laquelle il peut répondre librement.",
+              "exercise": [
+                "Repérez le trajet ou le geste qui vous aiderait.",
+                "Proposez une heure et un lieu.",
+                "Vérifiez que cela lui convient et convenez de la façon de signaler un changement."
+              ],
+              "benefit": "Chacun sait quelle aide est prévue et ce qui reste à décider."
+            },
+            {
+              "heading": "Garder les questions de santé pour le suivi",
+              "objective": "Éviter qu’une conversation familiale remplace l’évaluation.",
+              "exercise": [
+                "Reprenez avec le soignant ce qu’il est utile de noter sur une plainte familière.",
+                "Demandez comment signaler une évolution nouvelle.",
+                "Dites au proche quelle partie de l’accord vous voulez partager."
+              ],
+              "benefit": "Un repère médical peut coexister avec des échanges qui ne tournent pas tous autour de la douleur."
+            }
+          ]
         }
       ],
       "ending_title": "Le rendez-vous sous l’horloge",
@@ -144,7 +314,8 @@
       "continuity": {
         "choice": "Laure demande à Benoît un retour en voiture après le relais et garde l’initiative des échanges sur ses symptômes.",
         "next": "Elle teste le créneau de neuf heures trente avec Yasmina."
-      }
+      },
+      "conclusion": "Benoît sait où attendre Laure et à quelle heure. La douleur n’a pas quitté le dîner, mais elle n’en fixe plus toutes les questions. Ils peuvent parler des croûtons, et Laure choisit la fiche qu’elle veut emporter pour son premier accueil."
     },
     {
       "number": 4,
@@ -164,17 +335,73 @@
         {
           "role": "explanation",
           "heading": "La fin d’une tâche prend aussi de l’attention",
-          "text": "Accueillir la première visiteuse, retrouver les sachets et tenir l’horaire demandent des efforts distincts. Pendant un moment, Laure écoute et choisit des graines avec plaisir. Entre deux visites, les sensations pénibles reprennent de la place et l’amènent à anticiper la suite du samedi. La difficulté se lit dans la transition. Laure a les informations utiles pour la personne suivante et peine à décider si elle doit engager un nouvel échange. Dans le suivi, elle pourra raconter ce changement au lieu de résumer l’heure en disant qu’elle a tenu."
+          "text": "Une fatigue persistante peut rendre plus difficile le passage d’un échange au suivant. Dans le trouble de détresse physique, les sensations pénibles et l’attention consacrée à leurs conséquences peuvent se conjuguer dans ces transitions. Laure sait recevoir la première visiteuse et reconnaître le travail qui reste. À l’arrivée du bocal, elle pense surtout au retour et ne sait plus si elle doit commencer un entretien qu’elle n’aura peut-être pas le temps de finir."
         },
         {
           "role": "manifestations",
-          "heading": "Le visiteur arrive pendant le relais",
-          "text": "Le planning indiquait deux heures de prise de poste et deux noms. Il restait à définir ce qui se passe quand la dernière minute est occupée. Laure a longtemps associé le fait de bien recevoir quelqu’un à l’idée de le suivre jusqu’au bout. Comme elle se sent déjà fatiguée, la perspective d’une conversation de durée inconnue ramène son attention sur ce qu’elle pourrait payer plus tard. Elle ne sait plus si elle choisit l’accueil ou si elle promet le reste de sa matinée. Yasmina peut réduire cette ambiguïté en se présentant tout de suite au visiteur."
+          "heading": "Comment la fatigue change-t-elle la manière de passer d’un visiteur au suivant ?",
+          "points": [
+            {
+              "heading": "Un premier échange reste possible",
+              "text": "Les compétences peuvent rester disponibles même quand l’effort commence à peser.",
+              "examples": [
+                "Laure aide la première visiteuse à choisir de la ciboulette.",
+                "Une personne renseigne un lecteur sur un rayon connu alors qu’elle ressent déjà une fatigue familière."
+              ]
+            },
+            {
+              "heading": "La suite de la journée prend de la place",
+              "text": "Quand l’énergie manque, on peut commencer à calculer les conséquences de la tâche avant de la commencer.",
+              "examples": [
+                "Laure regarde l’horloge en pensant à la fin de l’entretien et à son trajet.",
+                "Une bénévole tient le registre ouvert et pense déjà aux courses qu’elle risque de ne pas pouvoir faire."
+              ]
+            },
+            {
+              "heading": "Le passage de relais demande aussi une décision",
+              "text": "Il peut être difficile de quitter la table lorsqu’une demande arrive au moment où l’autre personne prend la suite.",
+              "examples": [
+                "Laure doit choisir quoi dire à Yasmina pendant que le visiteur attend avec son bocal.",
+                "Un collègue arrive à l’heure prévue et une personne hésite à lui laisser une question tout juste posée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Transmettre la question et le matériel",
-          "text": "Un passage de relais court suffit dans ce cas. Laure peut décrire ce qui vient d’arriver et laisser Yasmina se présenter. Elle peut aussi signaler où se trouvent les sachets à donner et les bocaux encore à identifier. La répartition porte sur des actions que chacune peut prendre en charge. Elle tient compte de la fatigue et se prépare les jours faciles aussi. Pour le prochain essai, Laure proposera de poser le cahier entre les deux personnes avant le changement de créneau."
+          "heading": "3 techniques pour alléger le passage entre deux tâches quand la fatigue pèse",
+          "points": [
+            {
+              "heading": "Préparer un relais en une phrase",
+              "objective": "Transmettre le nécessaire sans entamer une nouvelle tâche.",
+              "exercise": [
+                "Dites ce que la personne apporte ou demande.",
+                "Montrez à votre collègue où se trouve le support utile.",
+                "Vérifiez que votre collègue accepte de poursuivre."
+              ],
+              "benefit": "La demande reste accueillie, et la personne qui part sait où s’arrêter."
+            },
+            {
+              "heading": "Dissocier l’heure de départ de la dernière demande",
+              "objective": "Maintenir une limite même si quelqu’un arrive juste avant.",
+              "exercise": [
+                "Indiquez à l’équipe l’heure où vous devez pouvoir quitter la table.",
+                "Décidez qui accueille une demande à ce moment.",
+                "Laissez au public le temps de comprendre à qui parler."
+              ],
+              "benefit": "Le départ dépend moins d’un échange qu’on ne peut pas prévoir."
+            },
+            {
+              "heading": "Décrire le moment de bascule",
+              "objective": "Donner au suivi une observation plus précise que « j’ai tenu ».",
+              "exercise": [
+                "Repérez le dernier geste que vous avez fait avec aisance.",
+                "Dites quand l’attention s’est déplacée vers le retour ou la fatigue.",
+                "Apportez l’exemple au professionnel avec ce qui a aidé sur place."
+              ],
+              "benefit": "Le rendez-vous peut examiner ce qui change à la fin d’une activité appréciée."
+            }
+          ]
         }
       ],
       "ending_title": "Le bocal change de côté",
@@ -189,7 +416,8 @@
       "continuity": {
         "choice": "Laure transmet le bocal et quitte la permanence à l’heure fixée.",
         "next": "Elle revient avec Nina sur le calcul de la suite de sa journée au milieu de l’accueil."
-      }
+      },
+      "conclusion": "Laure sait encore quoi demander au sujet des graines, mais elle laisse à Yasmina l’entretien qui commence. Dans la voiture, elle peut raconter le plaisir d’avoir conseillé la ciboulette et le moment où calculer le retour a pris la place de l’écoute."
     },
     {
       "number": 5,
@@ -209,17 +437,73 @@
         {
           "role": "explanation",
           "heading": "Reconnaître ce autour de quoi la crainte s’organise",
-          "text": "La distinction porte sur l’ensemble de l’histoire. Dans le trouble de détresse physique, les symptômes pénibles et leurs effets prennent une place durable. Une personne peut également se demander s’ils indiquent une maladie. Dans l’hypocondrie telle que la CIM-11 la décrit, c’est la peur durable d’avoir une maladie grave qui organise la préoccupation. Des sensations corporelles peuvent être présentes dans cette autre situation. La question posée par Nina aide à préciser ce qui compte pour Laure dans une scène, puis à le replacer dans le suivi déjà en cours."
+          "text": "Les symptômes pénibles et la crainte d’une maladie peuvent coexister. Dans le trouble de détresse physique, l’attention porte surtout sur les symptômes ressentis, leur gravité ou leurs effets. Dans l’hypocondrie au sens de la CIM-11, la préoccupation durable d’avoir une maladie grave occupe le premier plan. L’équipe situe cette distinction dans l’histoire entière. Laure explique à Nina qu’auprès du bocal elle pensait surtout à ce qu’elle pourrait faire ensuite, même si d’autres jours elle s’inquiète d’une maladie qui aurait échappé au bilan."
         },
         {
           "role": "manifestations",
-          "heading": "Suivre la question jusqu’à ce qu’elle change",
-          "text": "À la bibliothèque, Laure se demande comment elle terminera la journée avec la fatigue qu’elle connaît. L’estimation devient longue et vient au milieu d’un échange. Un autre jour, elle s’était inquiétée d’une maladie en lisant le résultat d’un examen et voulait que la Dre Valette lui en explique un terme. Dans les deux cas, elle a quelque chose à dire sur son corps. Pour les comprendre, il faut demander ce qu’elle cherchait à obtenir, le temps que cela lui a pris et ce qui s’est passé ensuite. Un énoncé isolé donne peu d’éléments."
+          "heading": "Comment la crainte d’une maladie se mêle-t-elle au poids des symptômes ?",
+          "points": [
+            {
+              "heading": "Une activité paraît plus coûteuse à cause de ce que l’on ressent",
+              "text": "L’inquiétude peut porter surtout sur ce que la douleur ou la fatigue rendra possible dans la journée.",
+              "examples": [
+                "Laure pense au déjeuner et à la fatigue du soir avant de laisser le bocal à Yasmina.",
+                "Une personne se demande si son bras douloureux lui permettra encore de porter ses courses après son créneau."
+              ]
+            },
+            {
+              "heading": "La question peut aussi porter sur une cause grave",
+              "text": "Redouter une maladie est une expérience qui peut accompagner plusieurs situations cliniques.",
+              "examples": [
+                "Laure se souvient de jours où elle s’est demandé si une maladie lui échappait.",
+                "Une personne relit une ancienne note parce qu’elle se demande si une affection grave a pu rester inaperçue."
+              ]
+            },
+            {
+              "heading": "Les deux questions peuvent appeler des réponses différentes",
+              "text": "Dire ce qui inquiète à un moment précis aide le professionnel à comprendre ce qui a besoin d’être examiné.",
+              "examples": [
+                "Au rendez-vous, Laure veut reparler du moment où elle a hésité entre faire à manger et relire les notes.",
+                "Quelqu’un demande au médecin ce qu’il faut signaler et discute aussi de la fatigue qui gêne son activité."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se rappeler un exemple entier",
-          "text": "Nina lui propose de retenir une seule situation entre deux consultations, avec ce qu’elle faisait avant que l’attention se fixe et ce qu’elle a pu choisir ensuite. Laure préfère la raconter après coup, quand elle peut se souvenir de la tâche et de la personne présente. Elles conviennent que les nouvelles plaintes seront abordées dans le cadre médical prévu. La psychologue aidera Laure à travailler sur les conséquences pour sa vie et sur ses décisions. Elles gardent assez de souplesse pour renoncer à la note si la chercher prend toute la place."
+          "heading": "3 techniques pour préciser ce qui inquiète dans une situation de santé",
+          "points": [
+            {
+              "heading": "Partir d’une décision ordinaire",
+              "objective": "Décrire l’effet concret du symptôme et de l’inquiétude.",
+              "exercise": [
+                "Choisissez un moment où vous avez hésité.",
+                "Racontez ce que vous ressentiez et ce que vous redoutiez à cet instant.",
+                "Dites quelle décision vous avez prise ensuite."
+              ],
+              "benefit": "Le professionnel peut entendre ce qui a pesé le plus dans cette situation sans en tirer de conclusion sur un seul exemple."
+            },
+            {
+              "heading": "Formuler la question médicale",
+              "objective": "Obtenir un repère sur ce qui a été examiné et ce qui resterait à signaler.",
+              "exercise": [
+                "Choisissez la question qui reste ouverte pour vous.",
+                "Demandez ce que l’évaluation permet de dire aujourd’hui.",
+                "Faites préciser comment joindre le service en cas de changement."
+              ],
+              "benefit": "Une réponse située peut éviter de demander à un ancien résultat de répondre à toutes les questions nouvelles."
+            },
+            {
+              "heading": "Relier les objectifs des soignants",
+              "objective": "Garder un suivi compréhensible quand plusieurs personnes interviennent.",
+              "exercise": [
+                "Identifiez ce que vous voulez travailler avec chaque professionnel.",
+                "Décidez de ce qu’ils peuvent se transmettre avec votre accord.",
+                "Demandez comment chacun reprendra ce qui vous gêne dans les activités."
+              ],
+              "benefit": "Les soins peuvent tenir compte de la douleur, des craintes et de la vie quotidienne sans confondre leurs rôles."
+            }
+          ]
         }
       ],
       "ending_title": "La visiteuse au balcon",
@@ -235,7 +519,8 @@
       "continuity": {
         "choice": "Laure et Nina choisissent d’examiner une situation concrète après coup et de garder les questions médicales dans le suivi prévu.",
         "next": "Laure confirme le principe du relais pour un deuxième essai."
-      }
+      },
+      "conclusion": "Le bocal donne à Laure et Nina un exemple de la place prise par les conséquences de la fatigue. La crainte d’une maladie pourra être discutée aussi. Laure choisit ce qu’elle veut transmettre et répond à Yasmina à partir du relais dont elle sait avoir besoin."
     },
     {
       "number": 6,
@@ -255,17 +540,73 @@
         {
           "role": "explanation",
           "heading": "Réfléchir à une durée à la fois",
-          "text": "Le réveil difficile fait exister dans la même minute la permanence, le trajet et la soirée. Cette anticipation peut occuper Laure alors qu’elle aurait besoin de choisir seulement ce qu’elle prend dans son sac. Ses sensations lui donnent des informations sur ses capacités du moment. Elle gagne à préciser quelle décision s’impose maintenant et lesquelles pourront attendre. La fluctuation, fréquente dans les douleurs persistantes, laisse une part d’incertitude. Une adaptation testée au cas par cas permet de tenir compte des symptômes sans devoir connaître toute la journée à l’avance."
+          "text": "Des symptômes persistants peuvent varier d’un jour à l’autre et rendre les engagements difficiles à prévoir. Dans le trouble de détresse physique, la douleur, la fatigue et l’attention portée à ce qu’elles pourraient changer peuvent se prolonger même quand l’intensité varie. Laure se réveille mal et voudrait savoir comment elle se sentira jusqu’au soir. Pour l’accueil, la question immédiate est plus précise. Elle cherche le temps et le matériel nécessaires pour recevoir la dame au balcon."
         },
         {
           "role": "manifestations",
-          "heading": "Des contraintes différentes autour de la table",
-          "text": "Le changement que Laure envisage aura aussi un effet sur le temps de Yasmina. Quand Laure lui demande comment elle a organisé les retours, elles découvrent une possibilité qu’aucune n’avait formulée sur le planning. Ouvrir quinze minutes plus tard laisse l’accueil possible avec la tâche déjà préparée. À l’inverse, déplacer l’horaire d’une heure demanderait une autre personne ou un avis aux visiteurs. Les difficultés de Laure prennent donc un relief différent suivant l’organisation. Cette donnée compte quand elle et sa psychologue examinent le retentissement du trouble."
+          "heading": "Comment la fluctuation des symptômes change-t-elle une décision au quotidien ?",
+          "points": [
+            {
+              "heading": "Une matinée difficile paraît annoncer toute la journée",
+              "text": "La sensation du réveil peut peser sur des décisions qui pourraient être prises plus tard.",
+              "examples": [
+                "Laure imagine déjà la permanence, le trajet et la soirée avant d’ouvrir son sac.",
+                "Une personne hésite à annuler un rendez-vous de l’après-midi avant de savoir ce qu’elle pourra adapter le matin."
+              ]
+            },
+            {
+              "heading": "Le choix paraît réduit à tenir ou annuler",
+              "text": "L’incertitude peut masquer un horaire intermédiaire compatible avec les disponibilités de chacun.",
+              "examples": [
+                "Laure envisage d’annuler ou d’arriver à l’heure habituelle, puis demande à Yasmina ce qu’elle peut reprendre.",
+                "Un bénévole croit devoir faire toute la matinée avant d’apprendre qu’un collègue peut ouvrir le premier quart d’heure."
+              ]
+            },
+            {
+              "heading": "Une priorité reste possible avec moins de temps",
+              "text": "Une activité peut tenir si les gestes indispensables sont déjà prêts.",
+              "examples": [
+                "Laure prend la fiche et un stylo pour répondre sur la profondeur des pots.",
+                "Une personne garde un rendez-vous court parce que les documents à remettre ont été préparés la veille."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Convenir d’un début plus court",
-          "text": "Laure et Yasmina se fixent un horaire précis, une manière d’afficher le changement et le même passage de relais. Laure restera assise à l’accueil. Yasmina préparera le plateau de graines en même temps que l’ouverture de la salle, dans la limite de ce qui est déjà prêt. Si le trajet coûte trop à Laure, elle peut encore choisir de faire couvrir l’accueil ou de reporter sa participation. Plus tard, elles pourront vérifier si le quart d’heure a aidé et si le déplacement de tâches reste acceptable pour chacune."
+          "heading": "3 techniques pour adapter un engagement quand les symptômes fluctuent",
+          "points": [
+            {
+              "heading": "Décider du premier intervalle",
+              "objective": "Résoudre la question qui se pose maintenant.",
+              "exercise": [
+                "Repérez l’heure à laquelle la décision doit être prise.",
+                "Demandez ce qui peut être déplacé ou repris pendant ce temps.",
+                "Laissez les décisions plus tardives ouvertes tant qu’elles peuvent l’être."
+              ],
+              "benefit": "Un accord court peut être pris sans faire une prévision pour toute la journée."
+            },
+            {
+              "heading": "Choisir le matériel indispensable",
+              "objective": "Réduire l’effort avant une tâche appréciée.",
+              "exercise": [
+                "Nommez la demande que vous voulez traiter.",
+                "Gardez les objets nécessaires pour y répondre.",
+                "Remettez les préparatifs secondaires à quelqu’un qui a accepté de les prendre ou à plus tard."
+              ],
+              "benefit": "L’effort disponible va au travail qui compte pour ce créneau."
+            },
+            {
+              "heading": "Faire le point après l’essai",
+              "objective": "Voir ce que l’ajustement a permis et ce qu’il a coûté.",
+              "exercise": [
+                "Notez ce qui a pu être terminé.",
+                "Dites ce qui restait pénible ou incertain.",
+                "Révisez l’organisation avec l’équipe, en signalant au soignant tout changement préoccupant."
+              ],
+              "benefit": "L’expérience informe la prochaine décision sans garantir que la journée suivante se passera de la même façon."
+            }
+          ]
         }
       ],
       "ending_title": "La hauteur du pot",
@@ -280,7 +621,8 @@
       "continuity": {
         "choice": "Laure et Yasmina décalent le début de quinze minutes et gardent un relais à dix heures trente.",
         "next": "Elles prévoient de revoir le dispositif après une nouvelle permanence."
-      }
+      },
+      "conclusion": "L’ouverture retardée permet à Laure d’aider la dame au balcon puis de transmettre le cahier à l’heure prévue. Son bras reste douloureux. Elle connaît maintenant l’effet de cet ajustement pour ce samedi et pourra revoir le planning avec Yasmina après un autre essai."
     },
     {
       "number": 7,
@@ -300,17 +642,73 @@
         {
           "role": "explanation",
           "heading": "La nouveauté compte dans l’évaluation",
-          "text": "Les douleurs et la fatigue qui durent ont déjà fait l’objet d’une évaluation. Laure vit à présent quelque chose de différent, avec une apparition brusque, une oppression thoracique et une difficulté à respirer. Ces signes demandent une évaluation urgente. Le trouble de détresse physique peut coexister avec d’autres affections. L’équipe de soins s’appuie sur les caractéristiques de l’épisode qui vient d’arriver et tient compte de l’histoire médicale dans son ensemble. Elle décidera des examens indiqués après avoir écouté et évalué Laure."
+          "text": "Une douleur thoracique brutale qui serre la poitrine et s’accompagne d’un manque d’air ou de sueurs peut relever d’une urgence. En France, il faut appeler immédiatement le 15 ou le 112 et suivre les consignes. Un trouble de détresse physique déjà établi n’explique pas d’emblée une plainte nouvelle et peut coexister avec une autre affection. Yasmina transmet ce que Laure ressent et ce qu’elle observe. Le service d’urgence décide de la réponse à apporter."
         },
         {
           "role": "manifestations",
-          "heading": "Les mots utiles au moment d’appeler",
-          "text": "Yasmina peut rapporter ce qu’elle a observé et ce que Laure est en mesure de lui dire. Le début est soudain, la poitrine serre, le souffle manque et les sueurs sont apparues. Elle donne aussi l’adresse et l’accès. Ces renseignements permettent au médecin régulateur de préciser la situation et de guider les personnes sur place. Laure n’a besoin ni de raconter tous les examens passés ni de formuler elle-même une explication. Quand un détail manque, Yasmina dit ce qu’elle sait, puis laisse la place aux questions."
+          "heading": "Comment une douleur nouvelle apparaît-elle au milieu de symptômes habituels ?",
+          "points": [
+            {
+              "heading": "Un signe nouveau interrompt une activité",
+              "text": "Un changement brutal peut survenir dans une journée qui ressemblait jusque-là aux autres.",
+              "examples": [
+                "Laure connaît la fatigue de fin de permanence, puis sent sa poitrine se serrer d’un coup.",
+                "À la maison, une personne qui connaît ses douleurs articulaires s’arrête parce qu’une oppression thoracique vient d’apparaître."
+              ]
+            },
+            {
+              "heading": "Plusieurs signes peuvent survenir ensemble",
+              "text": "Le manque d’air et les sueurs ajoutent des informations utiles lorsque la poitrine serre.",
+              "examples": [
+                "Laure peine à finir sa phrase et sent la sueur sur son front.",
+                "Dans une salle d’attente, une personne dit que sa poitrine serre et son voisin voit qu’elle respire difficilement."
+              ]
+            },
+            {
+              "heading": "La personne peut avoir du mal à raconter",
+              "text": "Quelques mots et l’heure approximative du début peuvent être utiles au téléphone.",
+              "examples": [
+                "Laure montre sa poitrine et arrive à dire que cela vient de commencer.",
+                "Une personne parle par courtes phrases et un témoin précise qu’elle a interrompu son activité soudainement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Partager les tâches pendant les secours",
-          "text": "En France, une douleur thoracique accompagnée de signes de ce type conduit à appeler immédiatement le 15 ou le 112 et à suivre les consignes données. Dans la bibliothèque, Yasmina reste disponible au téléphone, tandis qu’une collègue assure l’accès et s’occupe des personnes venues échanger des graines. Quand les secours prennent le relais, Laure leur décrit l’épisode comme elle l’a vécu. Elle peut aussi préciser ses antécédents s’ils lui sont demandés. Le planning de la grainothèque sera revu une autre fois."
+          "heading": "3 techniques pour agir sans attendre devant une douleur thoracique inquiétante",
+          "points": [
+            {
+              "heading": "Appeler immédiatement",
+              "objective": "Obtenir la réponse des secours sans attendre que la douleur passe.",
+              "exercise": [
+                "Composez le 15 ou le 112 en France, ou demandez à quelqu’un de le faire tout de suite.",
+                "Donnez votre numéro et l’adresse exacte.",
+                "Restez en ligne et suivez les consignes reçues."
+              ],
+              "benefit": "Le service peut évaluer la situation et envoyer l’aide adaptée."
+            },
+            {
+              "heading": "Décrire les signes pendant l’appel",
+              "objective": "Transmettre ce qui aide le médecin régulateur à décider.",
+              "exercise": [
+                "Dites ce que la personne ressent ou ce que vous voyez.",
+                "Indiquez quand les signes ont commencé et comment ils évoluent.",
+                "Répondez aux questions du service sur les antécédents si on vous les pose."
+              ],
+              "benefit": "Le médecin dispose d’informations sur l’épisode présent et peut le considérer pour lui-même."
+            },
+            {
+              "heading": "Organiser l’accès des secours",
+              "objective": "Laisser la personne qui appelle disponible pour le service.",
+              "exercise": [
+                "Si d’autres personnes sont présentes, demandez à l’une d’indiquer l’entrée aux secours.",
+                "Dites où se trouve exactement la personne concernée.",
+                "Laissez le médecin régulateur guider la conduite à tenir en attendant l’équipe."
+              ],
+              "benefit": "Les secours peuvent rejoindre le lieu indiqué pendant que l’appelant transmet les informations utiles."
+            }
+          ]
         }
       ],
       "ending_title": "La feuille reste sous le registre",
@@ -326,7 +724,8 @@
       "continuity": {
         "choice": "Laure signale l’oppression nouvelle. Yasmina appelle immédiatement le 15, puis l’équipe médicale prend le relais.",
         "next": "Laure transmet le compte rendu et revoit la Dre Valette avant de discuter de la prochaine permanence."
-      }
+      },
+      "conclusion": "Laure a pu dire ce qui venait de changer et Yasmina a appelé le 15 tout de suite. L’évaluation porte sur cette douleur et le manque d’air. La permanence attendra, tandis que Laure peut reprendre le compte rendu et les suites avec la Dre Valette."
     },
     {
       "number": 8,
@@ -346,17 +745,73 @@
         {
           "role": "explanation",
           "heading": "Une réponse médicale située dans le temps",
-          "text": "Les explications portent sur ce que l’équipe a pu évaluer le samedi et sur les suites indiquées. La Dre Valette vérifie ce qui a changé depuis, reprend l’examen si nécessaire et traite les questions encore ouvertes. Ce rendez-vous permet aussi de tenir compte du trouble de détresse physique dans le suivi. Une fois chez elle, Laure a consacré beaucoup de temps à relire un document sans obtenir l’assurance qu’elle cherchait. Parler de ce temps et de la plainte nouvelle aide à répondre à deux besoins différents au cours d’une même consultation."
+          "text": "Une réévaluation après un épisode aigu sert à préciser ce qui a été examiné, ce qui a changé et quelles suites sont utiles. Un trouble de détresse physique connu ne retire rien à la nécessité de cette démarche. Le rendez-vous de Laure permet aussi de parler du temps passé à relire le compte rendu sans obtenir la certitude qu’elle cherchait. La Dre Valette peut répondre séparément à la question de la plainte nouvelle et à celle de son retentissement depuis le retour."
         },
         {
           "role": "manifestations",
-          "heading": "Un papier que Laure rouvre sans cesse",
-          "text": "Relire le compte rendu peut être utile lorsque Laure veut comprendre la prochaine étape. Elle remarque que certaines relectures servaient surtout à essayer de garantir qu’elle pourrait entrer dans la bibliothèque sans retrouver l’oppression. Chaque passage sur la même ligne ramenait la décision à un futur impossible à connaître en entier. Laure a besoin d’une information applicable si une situation apparaît, et d’un cadre pour parler de cette attention répétée. Elle peut garder le compte rendu pour ses soins et mettre les consignes utiles sur une page plus facile à retrouver."
+          "heading": "Comment la réévaluation reprend-elle ce qui s’est passé et ce qui reste à suivre ?",
+          "points": [
+            {
+              "heading": "Une partie des explications n’a pas été retenue",
+              "text": "À la sortie d’un service, une personne peut se souvenir d’un détail et avoir besoin de reprendre les consignes.",
+              "examples": [
+                "Laure se rappelle surtout l’heure de l’examen et montre le compte rendu à la Dre Valette.",
+                "Une personne sait que l’équipe lui a parlé d’un contrôle et demande quel professionnel doit le faire."
+              ]
+            },
+            {
+              "heading": "Ce qui est ressenti ensuite apporte une information",
+              "text": "Le suivi peut reprendre la différence entre le symptôme nouveau et les difficultés familières, sans écarter d’autres changements.",
+              "examples": [
+                "Laure montre où sa poitrine avait serré et dit que, depuis, elle retrouve surtout la douleur du bras connue.",
+                "Quelqu’un décrit ce qui s’est arrêté à la sortie et ce qui est revenu le lendemain."
+              ]
+            },
+            {
+              "heading": "La recherche de certitude occupe d’autres décisions",
+              "text": "Relire un document peut prendre du temps sans répondre à une question qui dépend du suivi.",
+              "examples": [
+                "Laure laisse le document sur la table et hésite à accepter un nouveau créneau.",
+                "Une personne revient sur la même ligne d’un compte rendu avant chaque sortie parce qu’elle redoute de se sentir mal."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Savoir à qui s’adresser et pour quoi",
-          "text": "La Dre Valette note les suites convenues avec Laure, le prochain rendez-vous et les consignes adaptées à l’épisode. Laure les reformule pour vérifier ce qu’elle a compris. Elle autorise un bref échange avec Nina sur le retentissement et les objectifs de leur travail. Yasmina recevra ce qui concerne le prochain créneau et le relais. Cette répartition permet à Laure de se faire aider dans plusieurs domaines tout en maîtrisant la circulation des informations. Elle laisse aussi une place claire aux symptômes qui changeraient de nouveau."
+          "heading": "3 techniques pour organiser les suites après une évaluation urgente",
+          "points": [
+            {
+              "heading": "Reprendre le compte rendu avec le médecin",
+              "objective": "Comprendre ce que l’évaluation a pu examiner.",
+              "exercise": [
+                "Apportez le document qui vous a été remis.",
+                "Signalez ce que vous avez ressenti depuis la sortie.",
+                "Demandez quelles questions nécessitent encore un contrôle."
+              ],
+              "benefit": "Les résultats sont replacés dans la situation pour laquelle ils ont été obtenus."
+            },
+            {
+              "heading": "Faire préciser la conduite à tenir",
+              "objective": "Savoir à qui s’adresser si un symptôme change ou revient.",
+              "exercise": [
+                "Demandez quels signes nécessitent d’agir vite.",
+                "Faites préciser le contact et le délai prévus pour les autres changements.",
+                "Gardez ces consignes et le prochain rendez-vous au même endroit."
+              ],
+              "benefit": "Les décisions peuvent s’appuyer sur un repère établi avec le médecin."
+            },
+            {
+              "heading": "Séparer le suivi du prochain choix de travail",
+              "objective": "Retrouver une décision pratique sans attendre de tout prévoir.",
+              "exercise": [
+                "Identifiez ce qui appartient au rendez-vous médical.",
+                "Choisissez ce que vous voulez dire à l’équipe de travail.",
+                "Proposez seulement l’heure et le sujet de la prochaine réunion."
+              ],
+              "benefit": "Vous pouvez organiser un échange sans transmettre le dossier ni vous engager sur toute la suite."
+            }
+          ]
         }
       ],
       "ending_title": "Le planning peut attendre jeudi",
@@ -371,7 +826,8 @@
       "continuity": {
         "choice": "Laure clarifie les suites médicales, les consignes et le partage limité avec Nina, puis fixe une demi-heure de discussion avec Yasmina.",
         "next": "Elles préparent un créneau durable avant de le présenter à la mairie."
-      }
+      },
+      "conclusion": "Laure repart avec le compte rendu et des consignes qu’elle peut retrouver. Elle sait ce qu’elle peut discuter avec la Dre Valette et propose à Yasmina une demi-heure pour le planning. Le rendez-vous de la bibliothèque n’a pas besoin de reprendre toute la consultation."
     },
     {
       "number": 9,
@@ -391,17 +847,73 @@
         {
           "role": "explanation",
           "heading": "Une permanence peut se décrire précisément",
-          "text": "Laure peut accueillir et renseigner des visiteurs. La durée, le fait d’être seule et la possibilité de quitter la table à l’heure influent sur ce que cette tâche lui coûte. L’évaluation du retentissement gagne à préciser ces conditions. Une capacité réelle observée pendant une heure ne permet pas de prévoir trois heures identiques. Les besoins d’information des lecteurs et les disponibilités de l’équipe comptent également. À la mairie, les dates des essais et les détails du relais donnent une base commune pour prendre une décision."
+          "text": "Le retentissement de symptômes persistants au travail dépend de la tâche, de sa durée et de l’aide disponible. Dans le trouble de détresse physique, la douleur ou la fatigue et l’attention qu’elles mobilisent peuvent peser sur l’énergie restante après un créneau. Laure sait renseigner des visiteurs. Les essais lui apprennent dans quelles conditions elle peut le faire et partir à l’heure. Cela donne une base plus précise qu’une promesse de tenir toute la matinée."
         },
         {
           "role": "manifestations",
-          "heading": "Le samedi commence à prendre toute la semaine",
-          "text": "Avant de répondre, Laure a déjà imaginé le temps qu’il lui faudrait récupérer après trois heures et les préparatifs à avancer pour y arriver. Elle remarque que sa journée de travail et sa semaine commencent à s’organiser autour des symptômes qu’elle anticipe. Elle dispose aussi d’informations qui proviennent des essais. Elle sait transmettre une demande à la personne suivante et se sent plus à l’aise quand celle-ci est attendue. Mettre ces éléments sur la table lui permet de discuter de ce qu’elle peut proposer au lieu de promettre une disponibilité incertaine."
+          "heading": "Comment le retentissement au travail dépend-il des conditions du créneau ?",
+          "points": [
+            {
+              "heading": "Le geste reste possible et sa durée change le coût",
+              "text": "La capacité à faire une tâche sur une période ne prédit pas ce que demande une période plus longue.",
+              "examples": [
+                "Laure a accueilli des visiteurs pendant une heure, tandis que la mairie propose trois heures.",
+                "Une personne renseigne le public pendant une demi-heure et ne sait pas ce que lui coûterait le même travail jusqu’à midi."
+              ]
+            },
+            {
+              "heading": "La fin de la permanence change la suite de la journée",
+              "text": "La possibilité de partir à l’heure peut préserver de l’énergie pour d’autres activités.",
+              "examples": [
+                "Après la permanence décalée, Laure a profité de son après-midi.",
+                "Une personne garde un rendez-vous après le travail quand un collègue reprend la file à l’heure annoncée."
+              ]
+            },
+            {
+              "heading": "L’aide doit être disponible à la date prévue",
+              "text": "Un relais peut convenir dans son principe et manquer pour une ouverture particulière.",
+              "examples": [
+                "Yasmina annonce une obligation familiale au prochain créneau proposé.",
+                "Une collègue peut remplacer au premier essai et prévient qu’elle n’aura pas la même disponibilité le mois suivant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir le relais et l’annoncer",
-          "text": "Le groupe décide d’ouvrir un samedi par mois avec deux personnes dont les tâches sont écrites. Laure apporte le créneau qu’elle souhaite garder et précise les conditions de son accueil. La mairie peut examiner la solution à partir des horaires et du service rendu. Le planning prévoit aussi qui confirme un remplacement et qui prévient les visiteurs quand il manque quelqu’un. Une personne qui se retire à l’heure dispose d’un accord déjà fait. Elle n’a pas besoin de détailler sa santé devant le public pour que l’organisation fonctionne."
+          "heading": "3 techniques pour définir un créneau de travail faisable",
+          "points": [
+            {
+              "heading": "Apporter la trace des essais",
+              "objective": "Négocier à partir de conditions observées.",
+              "exercise": [
+                "Notez la durée et le nombre de personnes présentes.",
+                "Indiquez ce que vous avez pu faire et ce que cela vous a coûté ensuite.",
+                "Présentez ces éléments à la personne qui fixe le planning."
+              ],
+              "benefit": "La discussion porte sur des aménagements concrets plutôt que sur une capacité supposée."
+            },
+            {
+              "heading": "Préciser le relais à l’horaire utile",
+              "objective": "Vérifier que la durée promise correspond à l’équipe disponible.",
+              "exercise": [
+                "Indiquez le moment où vous devez pouvoir partir.",
+                "Demandez qui peut prendre la suite à cette date.",
+                "Confirmez son accord avant de diffuser l’horaire."
+              ],
+              "benefit": "L’organisation peut accueillir le public sans compter sur une disponibilité qui n’a pas été vérifiée."
+            },
+            {
+              "heading": "Programmer une révision",
+              "objective": "Garder la possibilité d’adapter le créneau à ce qui se passe.",
+              "exercise": [
+                "Convenez d’un petit nombre de dates pour commencer.",
+                "Choisissez ce que l’équipe observera, notamment les besoins du public et le coût des tâches.",
+                "Fixez un point après ces ouvertures."
+              ],
+              "benefit": "Le planning peut évoluer à partir d’une expérience partagée."
+            }
+          ]
         }
       ],
       "ending_title": "Un nom confirmé pour chaque heure",
@@ -416,7 +928,8 @@
       "continuity": {
         "choice": "Le groupe décide d’une ouverture mensuelle, avec Lucie pour le premier relais de Laure à dix heures trente.",
         "next": "Laure prépare l’ouverture et explique à Benoît quelle aide lui conviendra."
-      }
+      },
+      "conclusion": "Laure propose un horaire qu’elle a de bonnes raisons d’essayer. Yasmina signale son indisponibilité et Lucie accepte le premier relais. L’accueil peut démarrer sur deux dates et l’équipe aura des conditions précises à revoir avec la mairie."
     },
     {
       "number": 10,
@@ -436,17 +949,73 @@
         {
           "role": "explanation",
           "heading": "La place d’une inquiétude partagée",
-          "text": "L’épisode à la bibliothèque a changé ce que Benoît imagine quand sa sœur part à une permanence. Il cherche une réponse qui l’aiderait à savoir s’il doit rester joignable. Laure connaît déjà cette recherche de certitude, qui lui a fait relire plusieurs fois le compte rendu. Les deux besoins peuvent être entendus. Les résultats et les consignes ont une place dans le suivi de Laure. Son frère peut lui dire ce qu’il a vécu et poser une question sur l’aide qu’il se sent en mesure d’apporter."
+          "text": "Après une urgence, un proche peut chercher des garanties dans des documents médicaux pour savoir comment aider. Cette demande peut ramener une personne suivie pour un trouble de détresse physique aux relectures qui l’ont déjà occupée. Benoît a passé des nuits près de son téléphone et Laure comprend qu’il soit inquiet. Elle peut reconnaître cette inquiétude et lui proposer une tâche utile, tout en gardant les résultats et les consignes dans son échange avec la Dre Valette."
         },
         {
           "role": "manifestations",
-          "heading": "Une consultation menace d’occuper le café",
-          "text": "Laure remarque qu’elle prépare sa réponse comme elle préparerait le récit pour un médecin. Elle trie déjà les informations dans sa tête, cherche l’ordre des examens et anticipe les questions suivantes. L’attention revient aux symptômes et laisse en suspens la raison pour laquelle ils avaient prévu de se retrouver. Benoît, de son côté, a une question de temps et de disponibilité que le compte rendu ne peut pas résoudre. En la formulant, il permet à Laure de dire quelle aide aurait un effet sur sa matinée."
+          "heading": "Comment le besoin d’être rassuré peut-il changer le soutien d’un proche ?",
+          "points": [
+            {
+              "heading": "Le proche garde une vigilance après l’urgence",
+              "text": "Il peut continuer à attendre un appel même si aucune disponibilité permanente n’a été demandée.",
+              "examples": [
+                "Benoît laisse son téléphone allumé près de son lit plusieurs nuits.",
+                "Une sœur évite de s’éloigner le week-end parce qu’elle ne sait pas si on compte sur elle."
+              ]
+            },
+            {
+              "heading": "Les résultats semblent devoir rassurer tout le monde",
+              "text": "Reprendre chaque ligne peut mobiliser de nouveau l’attention sans donner une réponse sur l’avenir.",
+              "examples": [
+                "Laure pense au temps qu’elle a passé à relire le papier quand Benoît demande à voir les résultats.",
+                "Une personne accepte d’expliquer plusieurs comptes rendus et se retrouve avec les mêmes questions que son proche."
+              ]
+            },
+            {
+              "heading": "Une tâche ordinaire devient un soutien défini",
+              "text": "L’aide peut se décider sur un besoin précis qui ne demande pas d’entrer dans le suivi.",
+              "examples": [
+                "Laure parle du dépôt des panneaux et demande à Benoît l’heure où il doit récupérer son vélo.",
+                "Un proche accepte de passer prendre une boîte à une heure convenue et poursuit ses autres activités."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Réserver ensemble une aide faisable",
-          "text": "Benoît ira chercher son vélo au moment de l’ouverture. Il peut déposer la petite pile de panneaux la veille, en revenant du travail, si Laure lui indique la bonne entrée. Ils s’accordent sur cette course et gardent la possibilité de l’annuler si le bureau de la bibliothèque est fermé. La permanence a déjà un relais prévu avec Lucie. Laure pourra décider d’en reparler avec son frère si elle le souhaite. Pour le suivi de la douleur, elle garde son prochain rendez-vous et le plan établi avec la Dre Valette."
+          "heading": "3 techniques pour recevoir un soutien sans partager plus qu’on ne souhaite",
+          "points": [
+            {
+              "heading": "Entendre le besoin du proche",
+              "objective": "Comprendre ce qu’il essaie de décider pour lui-même.",
+              "exercise": [
+                "Demandez ce qui lui fait garder du temps libre.",
+                "Écoutez ce qui l’a marqué dans la situation.",
+                "Répondez sur la disponibilité dont vous avez besoin aujourd’hui."
+              ],
+              "benefit": "Le proche peut dire son inquiétude sans demander une garantie médicale."
+            },
+            {
+              "heading": "Définir ce qui peut rester privé",
+              "objective": "Garder un choix sur la circulation des informations de santé.",
+              "exercise": [
+                "Décidez ce que vous voulez dire des suites.",
+                "Indiquez ce que vous souhaitez garder pour la consultation.",
+                "Proposez de parler de l’organisation pratique si c’est le besoin commun."
+              ],
+              "benefit": "L’échange peut rester utile sans devenir une nouvelle lecture du dossier."
+            },
+            {
+              "heading": "Préciser un service et sa durée",
+              "objective": "Permettre à chacun d’accepter ou de refuser une aide.",
+              "exercise": [
+                "Nommez un geste que le proche pourrait prendre.",
+                "Vérifiez son horaire et le vôtre.",
+                "Convenez d’un message si la demande change."
+              ],
+              "benefit": "Le proche sait quand son aide est attendue et peut garder le reste de sa journée."
+            }
+          ]
         }
       ],
       "ending_title": "Le panneau peut attendre demain",
@@ -461,7 +1030,8 @@
       "continuity": {
         "choice": "Benoît apporte les panneaux la veille. Laure garde son compte rendu privé et les soins dans le cadre convenu.",
         "next": "Laure et Lucie répètent les deux gestes qui permettront d’ouvrir et de transmettre la table."
-      }
+      },
+      "conclusion": "Benoît a le nom d’une rue et Laure garde le compte rendu pour ses rendez-vous. Le dépôt des panneaux répond à un besoin réel sans laisser son frère de garde. Ils peuvent reprendre le café et regarder la photo du vélo."
     },
     {
       "number": 11,
@@ -481,17 +1051,73 @@
         {
           "role": "explanation",
           "heading": "Le coût des gestes se voit en les répétant",
-          "text": "Laure pensait que passer en revue toute la liste lui donnerait une idée de ce qu’elle pourrait faire demain. La douleur et la fatigue familières attirent déjà l’attention et ralentissent la lecture des fiches. La répétition peut lui apprendre autre chose. Elle et Lucie peuvent découvrir un obstacle qui tient à la place du matériel ou au partage des gestes. Leur essai ne prédit pas l’état de Laure le lendemain. Il leur permet de décider avec quoi elles veulent travailler et quelle solution utiliser si l’accueil doit être raccourci."
+          "text": "Un essai de travail peut montrer quels gestes demandent de l’effort et lesquels pourraient être simplifiés. Avec des symptômes persistants et l’attention qu’ils mobilisent, vouloir tout répéter peut finir par prendre la place des préparatifs nécessaires. Laure relit ses fiches et aimerait prévoir comment elle se sentira le lendemain. La répétition avec Lucie permet surtout de voir où un visiteur déposera ses graines et comment le cahier passera d’une personne à l’autre."
         },
         {
           "role": "manifestations",
-          "heading": "Relire des noms ou regarder depuis la porte",
-          "text": "Laure revient plusieurs fois aux étiquettes parce qu’elle craint qu’une erreur complique la matinée au moment où elle se sentira fatiguée. En suivant la visite imaginée par Lucie, elle trouve une difficulté que les étiquettes ne pouvaient pas régler. Une personne doit savoir où laisser ses graines avant même d’arriver au bureau. Placer une boîte à l’entrée simplifie l’accueil et évite de soulever le carton à chaque dépôt. La participation de Lucie transforme une préparation qui prenait beaucoup d’attention en deux choix qu’elles peuvent vérifier."
+          "heading": "Comment des symptômes persistants orientent-ils les ajustements avant l’ouverture ?",
+          "points": [
+            {
+              "heading": "La préparation demande déjà un effort",
+              "text": "Relire des informations familières peut devenir lent lorsqu’une douleur occupe l’attention.",
+              "examples": [
+                "Laure relit deux fiches en gardant la main sur la troisième.",
+                "Une personne qui prépare un accueil revient plusieurs fois sur les mêmes étiquettes et n’a plus le temps de tester l’entrée."
+              ]
+            },
+            {
+              "heading": "Certains obstacles appartiennent au lieu",
+              "text": "Regarder depuis le point de vue du public peut révéler un problème qu’aucune relecture ne résoudra.",
+              "examples": [
+                "Lucie constate depuis la porte qu’on ne voit pas où poser un sachet.",
+                "Un collègue qui joue le premier visiteur ne trouve pas la feuille d’inscription depuis le couloir."
+              ]
+            },
+            {
+              "heading": "Un relais réduit le nombre de gestes à assurer",
+              "text": "La personne peut garder un rôle même si elle doit transmettre une partie du travail.",
+              "examples": [
+                "Laure et Lucie répètent le passage du cahier une fois.",
+                "Deux personnes prévoient une boîte où laisser les fiches qu’elles n’auront pas le temps de classer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer une relève possible dès le départ",
-          "text": "Laure garde l’accueil assis, les réponses aux visiteurs et la remise du registre à dix heures trente. Lucie peut préparer la boîte de dépôts et reprendre les demandes en cours à son arrivée. Si Laure doit quitter plus tôt et que Lucie ne peut pas venir immédiatement, la responsable de la bibliothèque peut afficher une interruption. Elles inscrivent cette décision au dos du planning et préviennent la responsable. La conduite à tenir pour la santé de Laure reste celle qu’elle a revue avec sa médecin, avec une voie de contact si les symptômes changent."
+          "heading": "3 techniques pour alléger les gestes à préparer avant une ouverture",
+          "points": [
+            {
+              "heading": "Choisir ce qui doit fonctionner le premier jour",
+              "objective": "Réserver le temps d’essai aux gestes utiles.",
+              "exercise": [
+                "Repérez le premier accueil et le passage de relais.",
+                "Testez-les dans la durée disponible.",
+                "Reportez les vérifications secondaires à un moment défini."
+              ],
+              "benefit": "L’essai renseigne sur le travail réel sans demander de répéter toute la matinée."
+            },
+            {
+              "heading": "Regarder le lieu comme un visiteur",
+              "objective": "Repérer un obstacle qui ne tient pas à la capacité de la personne.",
+              "exercise": [
+                "Placez-vous à l’entrée ou demandez à un collègue de le faire.",
+                "Identifiez ce qui doit être visible sans explication.",
+                "Déplacez le support ou ajoutez un panneau simple."
+              ],
+              "benefit": "Un aménagement du lieu peut réduire l’effort d’accueil pour l’équipe et les visiteurs."
+            },
+            {
+              "heading": "Prévoir une transmission courte",
+              "objective": "Garder une option si les symptômes ou l’affluence changent.",
+              "exercise": [
+                "Indiquez ce qui peut rester dans une boîte pour plus tard.",
+                "Convenez du message de départ et de la personne qui prend la suite.",
+                "Vérifiez une fois comment le matériel passe de main en main."
+              ],
+              "benefit": "La personne peut commencer l’activité avec un relais utilisable, même si elle ne sait pas encore comment elle se sentira."
+            }
+          ]
         }
       ],
       "ending_title": "La boîte à l’entrée",
@@ -506,7 +1132,8 @@
       "continuity": {
         "choice": "Laure et Lucie testent une boîte de dépôts et un passage de relais court, avec un dispositif si le premier créneau doit s’arrêter plus tôt.",
         "next": "Laure envoie son message de départ et ouvre le premier créneau régulier."
-      }
+      },
+      "conclusion": "La boîte et son panneau répondent à un besoin que la liste ne montrait pas. Laure et Lucie savent comment reprendre le cahier. Elles s’arrêtent à l’heure prévue et gardent un moyen de se joindre le lendemain si les conditions changent."
     },
     {
       "number": 12,
@@ -526,17 +1153,73 @@
         {
           "role": "explanation",
           "heading": "Repérer ce que le cadre rend possible",
-          "text": "Laure ressent encore les symptômes qui font l’objet du suivi. Elle peut en parler avec ses soignantes en décrivant ce qu’ils lui coûtent et l’attention qu’ils lui prennent. L’accueil apporte une autre information. Laure a reçu quelqu’un, expliqué la circulation des sachets et transmis ce qu’il restait à faire. Elle sait dans quelles conditions cela a été possible. Ce sont des éléments concrets pour examiner la suite avec son équipe. L’évolution du trouble s’observe dans la durée, à partir des symptômes et de leur retentissement dans plusieurs domaines."
+          "text": "Participer avec un trouble persistant peut devenir plus faisable quand la personne connaît le cadre qui l’aide. Dans le trouble de détresse physique, l’évolution se discute dans la durée à partir des symptômes, de l’attention qu’ils prennent et de leur retentissement. Laure accueille un visiteur malgré une fatigue qui revient. Elle peut décrire ce qu’elle a aimé faire, le coût de la permanence et ce que le relais lui a permis de conserver."
         },
         {
           "role": "manifestations",
-          "heading": "Les deux calendriers ont leur place",
-          "text": "Laure a une date pour revoir la Dre Valette et une autre pour tenir sa prochaine permanence. La première lui permet de suivre ce qui reste douloureux, de reprendre les décisions médicales et de parler de ce qui changerait. La deuxième lui donne une activité dont la durée et le relais sont connus. Elle garde aussi son travail avec Nina sur les moments où l’attention devient difficile à déplacer. En séparant les informations dont chacun a besoin, Laure peut passer d’un calendrier à l’autre avec des décisions déjà prises."
+          "heading": "Comment la participation se maintient-elle quand les symptômes sont encore présents ?",
+          "points": [
+            {
+              "heading": "Le cadre rend un échange possible",
+              "text": "Une tâche choisie peut rester accessible même lorsque les symptômes persistent.",
+              "examples": [
+                "Laure explique à un visiteur comment déposer des graines et revenir en chercher.",
+                "Une personne tient un court créneau de renseignements grâce à une table préparée par l’équipe."
+              ]
+            },
+            {
+              "heading": "La fatigue reste présente après un bon moment",
+              "text": "La satisfaction d’avoir participé peut coexister avec un besoin de repos ou de souplesse.",
+              "examples": [
+                "Laure sent ses épaules fatiguées et remet la décision sur les courses à après le déjeuner.",
+                "Une bénévole est contente de son accueil et raccourcit le trajet qu’elle avait prévu ensuite."
+              ]
+            },
+            {
+              "heading": "Le relais permet d’arrêter avec une tâche en cours",
+              "text": "La continuité dépend du passage entre personnes plutôt que d’une présence sans limite.",
+              "examples": [
+                "Lucie arrive à l’heure et Laure lui montre l’enveloppe et la prochaine demande.",
+                "Une personne donne à sa collègue le nom du lecteur qui reviendra et ferme le registre à l’heure prévue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire le point sur les prochaines dates",
-          "text": "Pour les deux premières ouvertures, Laure et ses collègues ont choisi de revoir ensemble les durées et l’accès au matériel. Elles pourront conserver l’heure si elle fonctionne ou proposer un changement précis. Laure gardera, pour Nina, le souvenir de la minute où elle a recommencé à calculer ses courses et a pu revenir au registre. Avec la Dre Valette, elle évoquera la fatigue qui persiste et les questions de suivi encore ouvertes. Le projet avance avec ces rendez-vous à côté, comme avec le cahier qu’elle remet à Lucie."
+          "heading": "3 techniques pour préserver une participation dans la durée",
+          "points": [
+            {
+              "heading": "Décrire les conditions d’un créneau réussi",
+              "objective": "Repérer ce qui vaut la peine de garder.",
+              "exercise": [
+                "Nommez le geste qui vous a plu ou que vous avez pu terminer.",
+                "Dites quelle durée et quel appui l’ont rendu possible.",
+                "Ajoutez ce qui reste pénible après l’activité."
+              ],
+              "benefit": "L’équipe peut garder ce qui aide sans conclure trop vite que tout est devenu facile."
+            },
+            {
+              "heading": "Vérifier la suite avec les collègues",
+              "objective": "Maintenir un relais quand les personnes ou les dates changent.",
+              "exercise": [
+                "Confirmez le nom du relais avant l’annonce.",
+                "Transmettez seulement le travail en cours et les demandes à suivre.",
+                "Fixez un moment pour revoir les horaires après plusieurs ouvertures."
+              ],
+              "benefit": "Le public et l’équipe peuvent compter sur un accord qui reste ajustable."
+            },
+            {
+              "heading": "Apporter le retentissement au suivi",
+              "objective": "Garder un espace de soins à côté du projet.",
+              "exercise": [
+                "Notez les activités rendues possibles et celles qui restent difficiles.",
+                "Apportez ces éléments au rendez-vous convenu.",
+                "Signalez une évolution nouvelle selon les indications de l’équipe."
+              ],
+              "benefit": "Le suivi peut tenir compte de ce que vous voulez poursuivre autant que de ce qui vous gêne."
+            }
+          ]
         }
       ],
       "ending_title": "Le nom reste jusqu’à dix heures trente",
@@ -551,7 +1234,8 @@
       "continuity": {
         "choice": "Laure assure son créneau d’une heure, passe la table à Lucie et prépare la seconde date avec Yasmina.",
         "next": "L’équipe revoit l’organisation après la deuxième ouverture. Laure poursuit son suivi et signale toute évolution nouvelle dans le cadre convenu."
-      }
+      },
+      "conclusion": "Laure affiche la date suivante avec le nom de Yasmina. Elle a ouvert la grainothèque dans un cadre qu’elle a contribué à régler, et la fatigue reste à considérer. Le prochain rendez-vous de suivi et l’idée d’un café avec Benoît tiennent encore dans le même agenda."
     }
   ]
 }

@@ -29,20 +29,85 @@ Avant l’arrivée du groupe de la classe voisine, elle explique à Nassim quand
 
 Le son démarre. Avant même que Roxane dise sa phrase, une fille du groupe annonce « Un pic ! » en montrant la table. En soulevant les rectangles, Nassim a posé le rabat dans l’autre sens. Tout le rouge du dessin dépasse. Zoé couvre le bord avec sa manche, trop tard. Roxane avait préparé une façon de ménager le silence ; son silence est déjà rempli par une bonne réponse. Elle regarde les trois autres joueurs qui n’ont pas encore posé de jeton et demande si on peut refaire le jeu une fois, avec une table vide.
 
-## Pourquoi l’autre n’a pas trouvé
+## Entendre l’indice et trouver ce qu’il veut dire
 
-Une réponse à une devinette renseigne sur le jeu et sur ce que les joueurs en ont perçu. Elle ne suffit pas à dire comment un enfant produit les sons de la parole. Il y a deux questions différentes autour de cette table. Nassim cherche un détail dans une consigne parlée : à quel moment doit-il avancer la boîte ? La fille du groupe, elle, dispose déjà d’un indice supplémentaire, le dessin qui dépasse. Il faut pouvoir faire la différence entre le déroulement d’une activité et la façon dont la parole a été comprise.
+Accéder aux mots d’un message oral et en comprendre le sens sont deux opérations différentes. Une difficulté à produire certains sons peut rendre un mot de l’indice peu reconnaissable. Une fois le mot accessible, une devinette peut encore laisser son auditeur perplexe : c’est même le jeu. Inversement, une réponse correcte peut venir d’une image vue trop tôt.
 
-## Comment cette difficulté se manifeste
+À la table de Roxane, le dessin qui dépasse et la question sur l’instrument appellent donc des réponses différentes. Pour savoir si son indice fonctionne, le groupe doit d’abord donner à chaque joueur accès à la même phrase. Il pourra ensuite écouter les réponses sans les prendre pour une mesure de la prononciation de Roxane.
 
-Le billet transmis à Mme Sorel lui a indiqué un appui que Roxane souhaite essayer. Quand l’enseignante dit ce qu’elle a compris et fait une pause, Roxane peut préciser son idée à Nassim. L’appui se fait au moment où il sert, dans la discussion ordinaire du groupe.
+## Comment distinguer une phrase mal entendue d’un indice à interpréter ?
 
-## Deux indices visibles, un dessin caché
+### Une consigne perd un détail utile
 
-Avec les joueurs qui n’avaient pas vu le dessin, la première réponse qui arrive à la deuxième écoute est « un moteur ». Roxane veut garder cette fausse piste. Quand elle dit « Mon tambour a des racines », un garçon lui demande de quel instrument elle parle. Elle met la phrase écrite devant eux et leur laisse du temps. Le garçon la relit à voix basse. Il propose un arbre. L’écrit rend ici les mots de l’indice disponibles ; il reste aux joueurs à comprendre ce qu’ils désignent.
+L’accès aux mots est en jeu lorsque l’autre a assez entendu pour suivre le sujet, mais ne sait toujours pas quelle action faire.
 
-Zoé propose un vrai rabat qui recouvre toute la couleur. Elles pourraient aussi poser la phrase en face des visiteurs dès qu’elle a été dite. Ces deux gestes règlent des problèmes différents. L’un évite de dévoiler la solution trop tôt ; l’autre laisse à chacun le temps de reprendre l’indice.
+**Exemples concrets**
+
+- Nassim ne sait pas à quel moment il doit avancer la boîte.
+- Dans un autre jeu, un élève entend qu’il peut poser un jeton et demande sur quelle case.
+
+### Les mots arrivent et la piste reste ouverte
+
+Une phrase correctement entendue peut demeurer énigmatique par sa construction ou son sens figuré.
+
+**Exemples concrets**
+
+- Le garçon demande de quel instrument il s’agit quand il entend le mot « tambour ».
+- En relisant la phrase écrite sur les racines, il propose un arbre et reste encore loin du pic.
+
+### Une réponse juste vient parfois d’ailleurs
+
+Trouver la réponse ne garantit pas d’avoir compris la phrase : une image ou un geste peut l’avoir révélée.
+
+**Exemples concrets**
+
+- Une joueuse voit le dessin du pic dépasser et nomme l’oiseau avant le premier indice.
+- Un joueur qui voit un voisin retourner sa carte peut annoncer la solution sans avoir suivi l’indice.
+
+## 3 techniques pour vérifier l’accès à un indice oral
+
+### 1. Demander quelle partie manque
+
+Distinguer un problème de consigne d’une question sur le jeu.
+
+**Exercice pratique**
+
+- Interrogez le partenaire sur l’action qu’il pense devoir faire.
+- Dites ou montrez uniquement le repère qui manque.
+- Essayez de nouveau cette étape avant de relancer le groupe.
+
+Le rôle de chacun devient praticable sans interrompre le jeu pour corriger toute une phrase.
+
+### 2. Donner accès aux mêmes mots
+
+Laisser le joueur interpréter l’indice une fois le texte disponible.
+
+**Exercice pratique**
+
+- Préparez un carton avec les mots prévus.
+- Posez-le à hauteur des joueurs après avoir donné l’indice.
+- Attendez une hypothèse avant de commenter le sens.
+
+L’écrit rend la phrase consultable sans retirer la part de recherche.
+
+### 3. Retirer un indice donné par accident
+
+Mettre à l’épreuve la devinette elle-même.
+
+**Exercice pratique**
+
+- Vérifiez ce que l’on voit du côté des joueurs avant de parler.
+- Cachez le dessin jusqu’au moment prévu.
+- Demandez la première piste de chaque joueur et comparez-la au résultat attendu.
+
+Une hypothèse comme « moteur » peut indiquer que la fausse piste fonctionne.
 
 ## Le pli sans rouge
 
 Quand les visiteurs d’essai sont repartis, Zoé décolle les épaisseurs et montre à Roxane un rabat assez large pour cacher le dessin. Roxane inscrit les deux indices sur des cartons séparés. Elle demande à Nassim de laisser les jetons dehors jusqu’à la première idée, quitte à les faire glisser sans bruit sur la table. Puis elle ressort la feuille à deux cases. À côté de sa gouttière, elle ajoute « moteur ». Elle prend ce mot au sérieux : il leur indique que la devinette commence enfin à fonctionner.
+
+---
+
+**Conclusion**
+
+Le pic visible trop tôt brouillait l’essai. En séparant le dessin et les cartons, Roxane pourra mieux voir ce que fait sa phrase une fois qu’elle est comprise. Elle garde « moteur » à côté de sa gouttière : les joueurs ont commencé à entendre le bruit comme elle l’espérait.

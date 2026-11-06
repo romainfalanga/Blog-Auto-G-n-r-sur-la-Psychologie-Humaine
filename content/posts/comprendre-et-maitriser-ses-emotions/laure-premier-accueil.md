@@ -29,16 +29,81 @@ Yasmina arrive comme prévu avec le cahier de présence. Un homme se présente a
 
 ## La fin d’une tâche prend aussi de l’attention
 
-Accueillir la première visiteuse, retrouver les sachets et tenir l’horaire demandent des efforts distincts. Pendant un moment, Laure écoute et choisit des graines avec plaisir. Entre deux visites, les sensations pénibles reprennent de la place et l’amènent à anticiper la suite du samedi. La difficulté se lit dans la transition. Laure a les informations utiles pour la personne suivante et peine à décider si elle doit engager un nouvel échange. Dans le suivi, elle pourra raconter ce changement au lieu de résumer l’heure en disant qu’elle a tenu.
+Une fatigue persistante peut rendre plus difficile le passage d’un échange au suivant. Dans le trouble de détresse physique, les sensations pénibles et l’attention consacrée à leurs conséquences peuvent se conjuguer dans ces transitions. Laure sait recevoir la première visiteuse et reconnaître le travail qui reste. À l’arrivée du bocal, elle pense surtout au retour et ne sait plus si elle doit commencer un entretien qu’elle n’aura peut-être pas le temps de finir.
 
-## Le visiteur arrive pendant le relais
+## Comment la fatigue change-t-elle la manière de passer d’un visiteur au suivant ?
 
-Le planning indiquait deux heures de prise de poste et deux noms. Il restait à définir ce qui se passe quand la dernière minute est occupée. Laure a longtemps associé le fait de bien recevoir quelqu’un à l’idée de le suivre jusqu’au bout. Comme elle se sent déjà fatiguée, la perspective d’une conversation de durée inconnue ramène son attention sur ce qu’elle pourrait payer plus tard. Elle ne sait plus si elle choisit l’accueil ou si elle promet le reste de sa matinée. Yasmina peut réduire cette ambiguïté en se présentant tout de suite au visiteur.
+### Un premier échange reste possible
 
-## Transmettre la question et le matériel
+Les compétences peuvent rester disponibles même quand l’effort commence à peser.
 
-Un passage de relais court suffit dans ce cas. Laure peut décrire ce qui vient d’arriver et laisser Yasmina se présenter. Elle peut aussi signaler où se trouvent les sachets à donner et les bocaux encore à identifier. La répartition porte sur des actions que chacune peut prendre en charge. Elle tient compte de la fatigue et se prépare les jours faciles aussi. Pour le prochain essai, Laure proposera de poser le cahier entre les deux personnes avant le changement de créneau.
+**Exemples concrets**
+
+- Laure aide la première visiteuse à choisir de la ciboulette.
+- Une personne renseigne un lecteur sur un rayon connu alors qu’elle ressent déjà une fatigue familière.
+
+### La suite de la journée prend de la place
+
+Quand l’énergie manque, on peut commencer à calculer les conséquences de la tâche avant de la commencer.
+
+**Exemples concrets**
+
+- Laure regarde l’horloge en pensant à la fin de l’entretien et à son trajet.
+- Une bénévole tient le registre ouvert et pense déjà aux courses qu’elle risque de ne pas pouvoir faire.
+
+### Le passage de relais demande aussi une décision
+
+Il peut être difficile de quitter la table lorsqu’une demande arrive au moment où l’autre personne prend la suite.
+
+**Exemples concrets**
+
+- Laure doit choisir quoi dire à Yasmina pendant que le visiteur attend avec son bocal.
+- Un collègue arrive à l’heure prévue et une personne hésite à lui laisser une question tout juste posée.
+
+## 3 techniques pour alléger le passage entre deux tâches quand la fatigue pèse
+
+### 1. Préparer un relais en une phrase
+
+Transmettre le nécessaire sans entamer une nouvelle tâche.
+
+**Exercice pratique**
+
+- Dites ce que la personne apporte ou demande.
+- Montrez à votre collègue où se trouve le support utile.
+- Vérifiez que votre collègue accepte de poursuivre.
+
+La demande reste accueillie, et la personne qui part sait où s’arrêter.
+
+### 2. Dissocier l’heure de départ de la dernière demande
+
+Maintenir une limite même si quelqu’un arrive juste avant.
+
+**Exercice pratique**
+
+- Indiquez à l’équipe l’heure où vous devez pouvoir quitter la table.
+- Décidez qui accueille une demande à ce moment.
+- Laissez au public le temps de comprendre à qui parler.
+
+Le départ dépend moins d’un échange qu’on ne peut pas prévoir.
+
+### 3. Décrire le moment de bascule
+
+Donner au suivi une observation plus précise que « j’ai tenu ».
+
+**Exercice pratique**
+
+- Repérez le dernier geste que vous avez fait avec aisance.
+- Dites quand l’attention s’est déplacée vers le retour ou la fatigue.
+- Apportez l’exemple au professionnel avec ce qui a aidé sur place.
+
+Le rendez-vous peut examiner ce qui change à la fin d’une activité appréciée.
 
 ## Le bocal change de côté
 
 « Monsieur apporte des graines dont il a perdu le nom. Je lui laisse le bocal ici et tu vois avec lui où les mettre ? » Yasmina confirme et invite l’homme à lui parler du potager. Laure prend son manteau, glisse sa fiche sous le cahier et retrouve Benoît sous l’horloge. Dans la voiture, elle dit qu’une personne est repartie avec de la ciboulette. Puis elle décrit à voix haute le moment où elle a cessé d’écouter son propre échange pour calculer son retour. Elle voudrait s’en souvenir au rendez-vous avec Nina.
+
+---
+
+**Conclusion**
+
+Laure sait encore quoi demander au sujet des graines, mais elle laisse à Yasmina l’entretien qui commence. Dans la voiture, elle peut raconter le plaisir d’avoir conseillé la ciboulette et le moment où calculer le retour a pris la place de l’écoute.

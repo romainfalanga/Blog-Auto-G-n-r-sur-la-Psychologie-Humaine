@@ -34,18 +34,79 @@ Samir lui demande si elle préfère travailler au bureau ce jour-là. Thaïs com
 
 Une phobie spécifique peut se traduire par des renoncements professionnels. Elle peut aussi rester peu visible lorsque la personne arrive à accomplir sa part du travail en dépensant beaucoup de temps et d’énergie à contourner certaines situations.
 
-## Comment cette difficulté se manifeste
+## Comment la peur des hauteurs peut-elle peser sur un rôle professionnel ?
 
-Thaïs tient aux relevés et aux rencontres avec les habitants. Si les autres ne voient que ses refus devant une hauteur, ils peuvent tirer une conclusion erronée sur ses envies ou ses compétences.
+### Un poste implique une situation redoutée
 
-La crainte d’être jugée s’ajoute ici à une peur dont le déclencheur principal reste la hauteur. Elle explique une partie de la difficulté de l’entretien. Cette nuance aide à comprendre pourquoi un besoin précis semble parfois demander un récit beaucoup plus intime. Thaïs peut parler des conséquences concrètes de la peur au travail, puis choisir séparément avec qui elle veut parler de son diagnostic.
+Une partie du travail peut dépendre d’un accès difficile, même quand le reste des compétences est disponible.
 
-## Décider ensemble de ce qui sera transmis
+**Exemples concrets**
 
-Samir a besoin d’un plan praticable, dont les responsabilités sont claires. Thaïs peut nommer les postes qu’elle souhaite tenir et les conditions qui changeraient sa participation. Pour vérifier si cette répartition fonctionne, chacun peut relire ce qu’il devra faire sur place. Le partage d’informations peut rester limité à ce que Thaïs accepte et à ce qui est utile au groupe. Les questions de suivi et les raisons intimes n’ont pas à entrer dans le compte rendu.
+- Samir écrit « notes en direct » près de la station.
+- Les vues des bornes qui se prennent en hauteur préoccupent Thaïs lorsqu’elle lit la répartition.
 
-Si la répartition crée trop de travail pour Inès, cette dernière peut le dire et demander une adaptation. Un accord fait une place au choix de Thaïs et aux contraintes des collègues. Ils peuvent convenir d’un moment pour vérifier ce que cela donne, sans demander à Thaïs de franchir un point haut pour prouver qu’elle veut participer.
+### Une limite peut être entendue trop largement
+
+Dire qu’on préfère rester en bas peut être compris comme une demande de quitter toute la mission.
+
+**Exemples concrets**
+
+- Samir a interprété l’attente de Thaïs près de la plateforme comme un retrait du relevé.
+- Thaïs doit préciser qu’elle veut être sur le terrain et travailler depuis un point au sol.
+
+### L’ajustement peut se transmettre par ses effets
+
+L’équipe a besoin de savoir qui fait quoi et quand les informations circulent.
+
+**Exemples concrets**
+
+- Thaïs montre le poste où elle pourra recevoir les notes d’Inès.
+- Elle demande à relire le message qui décrit sa coordination au sol.
+
+## 3 techniques pour demander un aménagement de terrain en choisissant ce qu’on dit
+
+### 1. Décrire le poste qui permet de contribuer
+
+Rendre la demande opérationnelle pour l’équipe.
+
+**Exercice pratique**
+
+- Nommez la tâche que vous voulez tenir.
+- Indiquez l’emplacement ou la modalité dont vous avez besoin.
+- Vérifiez avec le responsable qui vous transmettra les informations utiles.
+
+Le rôle reste lisible et chacun sait comment faire circuler le relevé.
+
+### 2. Relire le message avant sa diffusion
+
+Garder la maîtrise du détail personnel.
+
+**Exercice pratique**
+
+- Demandez quelle information est nécessaire aux collègues.
+- Proposez une formulation limitée à l’organisation si elle répond au besoin.
+- Convenez des destinataires et du moment de l’envoi.
+
+L’ajustement peut être partagé avec les personnes concernées et selon le niveau de détail choisi.
+
+### 3. Prévoir un point après la mission
+
+Savoir si l’aménagement permet de faire le travail attendu.
+
+**Exercice pratique**
+
+- Convenez d’une façon de signaler une difficulté le jour venu.
+- Notez une tâche qui a bien fonctionné et une qui reste difficile.
+- Réservez la gêne liée à la peur au suivi si vous souhaitez l’y reprendre.
+
+L’équipe peut ajuster l’organisation et le professionnel peut examiner séparément le retentissement.
 
 ## Un accord en deux lignes
 
 Thaïs demande à relire le message avant l’envoi. Elle laisse la phrase qui lui attribue la coordination au sol et le contrôle des relevés. Elle ajoute le créneau où Inès pourra envoyer les photos et propose une pause à la station pour traiter les questions de noms. Samir lui dit de signaler si le plan crée une difficulté pendant la mission. Elle prend la carte et remarque qu’elle a encore le crayon dans la main.
+
+---
+
+**Conclusion**
+
+Le message retient les relevés et la coordination au sol. Thaïs reste sur le terrain avec un rôle précis, et l’équipe sait comment lui envoyer les photos. La peur a un effet sur l’organisation sans obliger Thaïs à raconter son diagnostic à ses collègues.

@@ -37,14 +37,79 @@ La perte de contrôle pendant des épisodes récurrents peut être au cœur de l
 
 L’hyperphagie boulimique correspond à un autre ensemble clinique, avec des épisodes récurrents qui ne s’accompagnent pas régulièrement de telles conduites. Cette distinction se fait dans une évaluation qui considère la souffrance, le fonctionnement et d’autres explications possibles. La silhouette ne permet pas de départager les deux troubles. En français, on trouve « Frénésie alimentaire » dans la CIM-11 pour l’hyperphagie boulimique.
 
-## Ce qui arrive pendant la crise et après
+## Comment les professionnels distinguent-ils deux troubles qui comportent des crises ?
 
-Morgane se souvient du moment où elle voulait s’arrêter et du mal qu’elle avait ensuite à reprendre sa journée. Elle décrit à Anna des épisodes après lesquels elle a envie de quitter la conversation ou annule un rendez-vous. La consultation reprend ces épisodes et le fait que Morgane n’a pas régulièrement de conduites compensatoires. Ces informations éclairent le diagnostic et ce que les crises changent pour elle.
+### Le mot crise ne tranche pas
 
-## Faire entrer la vie quotidienne dans le suivi
+Une expérience de perte de contrôle peut être présente dans les deux tableaux et mérite d’être décrite en détail avec l’équipe.
 
-L’équipe peut tenir compte de ce retentissement social, de la détresse et de sa santé physique dans le projet de soins. La HAS et la FFAB recommandent une prise en charge adaptée et discutée avec la personne. Dans la scène, la clarification du diagnostic donne surtout à Morgane un langage pour poser des questions. Elle peut choisir de parler à Lucie de ce qu’elle vit sans avoir à lui expliquer les catégories en détail. Le rendez-vous lui laisse aussi une place pour parler du projet qui l’occupe en ce moment.
+**Exemples concrets**
+
+- Morgane écrit « hyperphagie boulimique » à côté de « crise de boulimie » parce que ces mots lui paraissent proches.
+- Une personne peut dire qu’elle n’arrivait plus à s’arrêter sans que cette seule phrase permette de nommer le trouble.
+
+### L’après-épisode apporte une information distincte
+
+L’équipe s’intéresse à la présence ou à l’absence de compensations inappropriées répétées visant à prévenir une prise de poids.
+
+**Exemples concrets**
+
+- Morgane décrit surtout la détresse et des rendez-vous qu’elle annule, et indique qu’elle n’a pas de conduites compensatoires régulières.
+- Un autre entretien peut examiner des compensations qui reviennent en plus des crises, quelles que soient les impressions de l’entourage sur le corps.
+
+### Le retentissement donne du contexte
+
+Les soignants reprennent ce qui a motivé l’évaluation, en tenant compte de la vie quotidienne et des autres explications possibles.
+
+**Exemples concrets**
+
+- Anna revient sur les crises qui ont conduit Morgane à être suivie.
+- Morgane explique à Anna qu’elle a parfois envie de disparaître de la conversation après un épisode.
+
+## 3 techniques pour préparer ses questions sur le diagnostic en consultation
+
+### 1. Apporter les termes qui se ressemblent
+
+Comprendre les mots utilisés par son équipe.
+
+**Exercice pratique**
+
+- Écrivez les termes que vous avez entendus ou lus.
+- Soulignez ce qui vous paraît désigner la même chose.
+- Demandez au professionnel de vous expliquer la différence dans le cadre de votre bilan.
+
+Vous pouvez repartir avec des mots plus clairs pour parler du suivi.
+
+### 2. Distinguer pendant, après et au fil du temps
+
+Donner à l’équipe des éléments qui dépassent le récit d’une crise.
+
+**Exercice pratique**
+
+- Décrivez ce que vous ressentez pendant un épisode.
+- Dites ce qui se passe ensuite et quelles conséquences vous préoccupent.
+- Indiquez au professionnel ce qui revient et ce sur quoi vous avez un doute.
+
+L’équipe peut rapprocher les épisodes, leur suite et leur retentissement.
+
+### 3. Choisir une phrase pour un proche
+
+Partager un vécu sans avoir à faire un exposé sur le diagnostic.
+
+**Exercice pratique**
+
+- Choisissez ce que vous voulez faire comprendre à cette personne.
+- Préparez une phrase avec vos propres mots.
+- Gardez les questions médicales qui restent pour le prochain échange avec l’équipe.
+
+La confidence peut rester à la mesure de ce que vous souhaitez transmettre.
 
 ## Une phrase plutôt qu’un cours
 
 À la sortie, Morgane range le dessin du côté intact dans son sac. Elle a noté « j’ai parfois l’impression que je ne peux plus décider comment je mange » sur un coin du papier. Lucie lui a proposé de se retrouver mercredi près de la librairie. Morgane lui répond qu’elle viendra et qu’elle aimerait lui parler d’une chose qui lui prend du temps. Elles conviennent de marcher d’abord un peu, avant de chercher une table.
+
+---
+
+**Conclusion**
+
+Morgane repart avec une phrase sur ce qu’elle éprouve et des questions pour son équipe. L’entretien a clarifié la différence entre le vécu d’une crise et le tableau dont elle fait partie. Elle pourra choisir ses mots avec Lucie sans se fonder sur l’apparence ou sur la ressemblance des noms.

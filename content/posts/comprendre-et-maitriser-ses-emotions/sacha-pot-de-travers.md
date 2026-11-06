@@ -29,22 +29,83 @@ Le pot de récupération est fendu. Sacha en prend un autre, puis renverse celui
 
 Dans la réserve, il entend madame Baudry rire quand Gaspard cherche la boîte à biscuits qu’elle tient sous son bras. Aucun livreur n’attend. Sacha sort son carnet de sa poche. Il y a dessiné un demi-cercle autour d’une table et écrit « rempotage, samedi ? ». Il propose des dates de semis toute la journée, à une personne après l’autre. Chaque fois qu’il imagine un groupe autour de cette table, il trouve une livraison ou un inventaire à faire. Il a repoussé deux fois le moment d’en parler.
 
-## Quand le regard change la situation
+## La crainte porte sur ce que les autres vont penser
 
-La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe. Ce qui change pour Sacha est perceptible au milieu d’une tâche qu’il connaît bien. Il tenait son pot tout en parlant à madame Baudry ; à l’arrivée de deux personnes, il se demande surtout ce que son pouce leur laisse voir. Le tremblement n’indique pas à lui seul ce qui se passe.
+Dans l’anxiété sociale, la difficulté peut venir de la peur d’être jugé négativement pendant un échange ou une tâche observée. Un geste familier devient alors coûteux, même quand la personne sait le faire. La peur ou le retrait à un moment donné ne suffisent pas à poser un diagnostic. Pour Sacha, la question commence à se poser parce qu’il renonce plusieurs fois à des échanges qu’il aimerait avoir.
 
-## Comment cette difficulté se manifeste
+## Comment la peur du jugement modifie-t-elle un geste qu’on connaît ?
 
-Le sens que Sacha lui prête, et la place que prend cette inquiétude, éclairent sa sortie précipitée.
+### Un regard semble changer la tâche
 
-Être intimidé dans une situation inhabituelle est courant. Aimer les échanges à deux peut aussi être un choix qui convient parfaitement. Ici, la différence se voit dans le carnet : Sacha souhaite partager un geste qui lui plaît et reporte le projet à cause de la peur qu’il éprouve. La scène laisse ouverte la question de la nature et de l’étendue de ses difficultés.
+Expliquer à une personne et être regardé par plusieurs peuvent donner une impression très différente de la même situation.
 
-## Regarder aussi ce qui a été laissé derrière
+**Exemples concrets**
 
-Passer la main soulage Sacha sur le moment : il retrouve le bruit familier de la réserve et personne ne regarde son pouce. Il perd aussi la fin d’une conversation qu’il avait envie d’avoir. Quand ce genre de renoncement se répète, il peut modifier les rôles au travail. Gaspard se retrouve avec une tâche qu’il n’avait pas prévue ; les clients pourraient se tourner directement vers lui la prochaine fois. Sacha peut en parler avec lui comme d’une question de travail et préciser ce qu’il aimerait garder comme rôle.
+- Sacha parlait du rempotage à madame Baudry quand d’autres clients se sont approchés.
+- Une personne sait montrer un appareil à un collègue et redoute de s’embrouiller lorsque le reste de l’équipe se met autour.
 
-Pour décrire une difficulté qui revient à un professionnel, un exemple comme celui-ci permet de dire ce qu’on voulait faire, ce qu’on redoutait et comment la journée a changé ensuite. Le pot et le dessin valent mieux, pour Sacha, que de devoir se présenter comme quelqu’un de « trop timide ». Il pourra également raconter les échanges dans lesquels il se sent libre de parler.
+### Un détail devient une preuve possible
+
+La personne peut craindre qu’un geste ou une hésitation révèle aux autres une maladresse.
+
+**Exemples concrets**
+
+- Sacha pense à ce que son pouce laisse voir et écoute moins la question du client.
+- Quelqu’un qui tient un stylo se demande si le mouvement de sa main sera interprété comme un manque d’assurance.
+
+### La personne abandonne un échange qu’elle voulait
+
+Se retirer peut réduire l’exposition au regard sur le moment et éloigner un projet désiré.
+
+**Exemples concrets**
+
+- Sacha cède la place à Gaspard et repousse encore l’idée d’un atelier.
+- Une personne prépare une question qu’elle veut poser en réunion et sort avant le tour de table.
+
+## 3 techniques pour clarifier ce que la peur du jugement change
+
+### 1. Décrire le point de bascule
+
+Distinguer la tâche de ce qui la rend difficile.
+
+**Exercice pratique**
+
+- Nommez l’action que vous vouliez mener.
+- Situez le moment où vous avez craint d’être jugé.
+- Décrivez ce que vous avez fait juste après.
+
+L’exemple peut aider à identifier ce qui interrompt un geste pourtant connu.
+
+### 2. Parler d’un projet à une personne choisie
+
+Garder une possibilité de préparer ce qui vous intéresse.
+
+**Exercice pratique**
+
+- Montrez un détail concret du projet à un collègue disponible.
+- Demandez-lui s’il a envie d’en parler à deux.
+- Fixez ensemble un prochain moment s’il est d’accord.
+
+La discussion avance sans présumer du format final ni du rôle de l’autre.
+
+### 3. Décrire la répétition à un professionnel
+
+Savoir si une évaluation serait utile lorsque les renoncements s’accumulent.
+
+**Exercice pratique**
+
+- Relevez une situation où vous êtes parti et une où vous êtes resté avec effort.
+- Dites ce que vous craigniez que les autres pensent.
+- Prenez contact avec un professionnel si ces difficultés pèsent durablement.
+
+L’évaluation peut tenir compte du contexte, de vos préférences et du retentissement.
 
 ## Un croquis à montrer
 
 À la fermeture, Gaspard trouve sur son casier le plateau nettoyé. Sacha est encore là. Il attend qu’ils soient seuls, puis tend son carnet en gardant un doigt sur le point d’interrogation. « J’avais envie de montrer ça. Aujourd’hui, j’ai décroché quand ils se sont approchés. Si on montait la table une première fois juste tous les deux ? » Gaspard a son train à prendre. Il regarde le croquis, dit qu’il veut bien en reparler mardi et rend le carnet. Sacha l’emporte sans rayer le samedi.
+
+---
+
+**Conclusion**
+
+Le rempotage intéresse toujours Sacha, même après son départ vers la réserve. En tendant son carnet à Gaspard, il parle à la fois du geste qu’il connaît et du regard qui l’a interrompu.

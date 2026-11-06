@@ -31,18 +31,81 @@ Son assiette est encore froide. Il appelle sa sœur et lui dit qu’il a été e
 
 ## Un changement qu’il est possible de décrire
 
-Des perceptions inhabituelles qui se répètent et gênent nettement la vie méritent un avis professionnel rapide, même si la personne ne sait pas les nommer. Zéphyr peut parler de ce qu’il a cru entendre, du moment où cela a commencé à revenir plus souvent et des effets sur ses repas et ses sorties. Il n’a pas à trouver seul l’origine du son pour que cette description soit utile.
+Des perceptions auditives inhabituelles qui se répètent, suscitent de la détresse et gênent nettement la vie méritent un avis professionnel rapide. De telles expériences peuvent survenir dans le trouble schizotypique. Elles ne permettent pas, à elles seules, d’en connaître la cause ni de conclure à un épisode psychotique. Le fait que Zéphyr croie entendre son prénom compte pour l’équipe, tout comme la fréquence qui change et les repas ou sorties qu’il laisse passer.
 
-## Comment cette difficulté se manifeste
+## Comment les perceptions inhabituelles prennent-elles de la place ?
 
-Dans la CIM-11, le trouble schizotypique se distingue de la schizophrénie et d’autres troubles psychotiques. Certaines expériences d’allure psychotique peuvent être transitoires ; la distinction se fait lors d’une évaluation qui tient compte de l’intensité, de la durée, du retentissement et d’autres explications possibles. L’expérience de Zéphyr ne suffit pas à conclure qu’il traverse un épisode psychotique ou que son diagnostic a changé.
+### L’impression change de contexte
 
-## Faire appel à deux personnes pour deux besoins
+Une expérience familière peut devenir préoccupante quand elle revient plus souvent ou dans d’autres circonstances.
 
-Le numéro gardé par Zéphyr lui permet de signaler au centre qu’une difficulté change et qu’attendre la séance habituelle ne lui convient plus. Le professionnel qui le reçoit peut reprendre les circonstances, l’état général et les difficultés récentes, puis décider avec lui de la suite du suivi. Agnès peut venir un moment s’il le souhaite. Elle n’a pas à établir la cause du bruit pour prendre sa peur au sérieux.
+**Exemples concrets**
 
-Pour l’atelier, une seule décision est nécessaire dans l’immédiat : maintenir la date ou prévenir les inscrits qu’elle est reportée. Zéphyr peut donner cette information à Maud sans lui envoyer le récit qu’il réserve au centre. Reporter l’essai ne tranche ni la question de sa santé ni l’avenir de son projet.
+- Zéphyr croyait reconnaître des mots dans les bruits de l’immeuble. Il rapporte maintenant la même impression dans le calme.
+- Une personne signale que ce qu’elle croyait entendre dans une rue animée lui arrive aussi au moment de s’endormir.
+
+### L’attention reste fixée sur le bruit
+
+Chercher sans cesse à comprendre ce qui s’est passé peut accaparer l’attention.
+
+**Exemples concrets**
+
+- Zéphyr laisse son repas refroidir en attendant de savoir ce qu’il a entendu.
+- Quelqu’un cesse de suivre une conversation parce qu’il surveille les bruits du couloir.
+
+### Les activités se réduisent
+
+Le retentissement se voit aussi dans ce qu’une personne ne fait plus.
+
+**Exemples concrets**
+
+- Zéphyr renonce à des sorties et laisse passer deux dîners.
+- Une personne cesse d’aller à son rendez-vous hebdomadaire parce qu’elle a peur que l’impression se répète.
+
+## 3 techniques pour demander un avis quand une perception inhabituelle se répète
+
+### 1. Joindre rapidement l’équipe de soins
+
+Obtenir une évaluation lorsque l’expérience change et gêne la vie.
+
+**Exercice pratique**
+
+- Appelez l’équipe ou le service indiqué sans attendre de trouver une explication.
+- Dites brièvement ce qui a changé et quelle activité vous n’arrivez plus à faire.
+- Suivez l’orientation donnée par le service.
+
+L’équipe peut évaluer la situation et décider du délai de la prochaine rencontre.
+
+### 2. Décrire l’expérience avec ses propres mots
+
+Donner des éléments utiles sans chercher à nommer un symptôme.
+
+**Exercice pratique**
+
+- Dites « j’ai cru entendre » si cela décrit votre expérience.
+- Indiquez ce dont vous vous souvenez sur la répétition et les circonstances.
+- Précisez la conséquence qui vous inquiète le plus.
+
+La distinction entre vécu, contexte et retentissement aide à comprendre ce que la personne traverse.
+
+### 3. Confier l’organisation à un collègue
+
+Dégager le temps nécessaire au rendez-vous et prévenir les visiteurs.
+
+**Exercice pratique**
+
+- Nommez la séance à reporter.
+- Convenez de ce que le collègue annonce et à qui.
+- Laissez la date suivante ouverte tant que l’équipe ne peut pas la confirmer.
+
+Le travail est pris en charge sans faire des collègues les enquêteurs de l’expérience ni leur transmettre de détails médicaux.
 
 ## Un rendez-vous et une date à libérer
 
 Le secrétariat transmet son appel. Sonia le rappelle dans la matinée et le centre lui propose un entretien médical le jour même. Zéphyr accepte. Il demande à Maud de libérer le samedi ; elle prévient les inscrits que la séance est reportée et qu’une nouvelle date sera proposée si le musée peut l’assurer. Il arrive au centre avec les heures dont il se souvient et le souvenir des deux dîners qu’il a laissés passer. Le médecin l’écoute, lui pose des questions sur ces journées et convient avec lui d’un prochain point rapproché avec l’équipe et de la façon de la joindre d’ici là. En rentrant, Zéphyr trouve Agnès au pied de l’immeuble. Il lui demande de marcher avec lui jusqu’à l’épicerie.
+
+---
+
+**Conclusion**
+
+Zéphyr parle à l’équipe avant de savoir à quoi attribuer le son. Le rendez-vous du jour et le prochain contact répondent au changement qui le gêne. La séance est reportée. Le trajet à l’épicerie avec Agnès redevient une possibilité pour ce soir.

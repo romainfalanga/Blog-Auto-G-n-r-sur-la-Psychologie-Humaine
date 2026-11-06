@@ -30,18 +30,81 @@ Diane s’attendait à devoir choisir entre rentrer sans rendez-vous et rester �
 
 ## Faire préciser l’aide prévue avant de rentrer
 
-Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin. La docteure Lenoir reprend avec Diane le contexte de cette expérience, le sommeil et les autres changements récents. Elle tient compte du premier épisode et examine comment la situation actuelle évolue.
+La peur d’une rechute peut rester forte même lorsqu’on envisage plusieurs explications à une impression inquiétante. Après un épisode psychotique, une évaluation de suivi peut aboutir à une réponse intermédiaire entre attendre sans contact et être hospitalisé. La docteure Lenoir reprend avec Diane l’expérience, le sommeil et la façon dont elle se sent pour le soir. Un rappel est convenu et aucune conclusion de rechute n’est tirée de ce seul récit.
 
-## La peur persiste alors que la certitude varie
+## Comment l’anxiété de rechute pèse-t-elle sur les demandes d’aide ?
 
-Au rendez-vous, Diane dit que par moments elle peut envisager d’avoir mal entendu les clients du marché. Avant l’hôpital, elle ne parvenait plus à envisager une autre interprétation. Cette fois, le doute lui laisse un peu de place et la peur reste assez vive pour qu’elle redoute de passer la soirée seule. Pendant qu’elle attend de connaître l’heure du prochain appel, elle se surprend à imaginer plusieurs fois la même demande à Rémi. Elle voudrait qu’il reste près de son téléphone. Elle peut ainsi raconter comment l’impression a changé et ce qui continue à l’inquiéter.
+### Le doute ne suffit pas à calmer la peur
 
-## Dire combien de temps on peut rester
+Admettre une autre explication peut coexister avec une détresse réelle.
 
-Avant que Diane reparte, la docteure Lenoir précise qui joindre si la situation change avant le prochain appel et vérifie avec elle qu’elle sait comment le faire. Diane garde ce relais médical et réfléchit à ce qu’elle aimerait partager avec Rémi ce soir.
+**Exemples concrets**
 
-Quand Rémi rappelle après son travail, Diane lui demande « Ça me fait un peu peur, ce soir. Est-ce que tu pourrais passer ? » Il doit aller chercher un meuble avec un ami et n’est pas sûr de l’heure à laquelle ils auront fini. Il peut lui parler un quart d’heure maintenant et reprendre le téléphone plus tard, à une heure qu’il connaît. Diane se rend compte qu’elle avait surtout envie de dire le nom qu’elle avait choisi de garder pour elle au premier rendez-vous. Elle lui demande s’il veut l’entendre, puis lui dit le nom donné par la psychiatre à l’épisode de l’hôpital. Elle lui précise qu’elle a choisi de lui en parler à lui. Il lui demande ce que l’équipe prévoit pour le lendemain et garde ces informations pour eux.
+- Diane peut penser qu’elle a mal entendu et reste effrayée par ce que l’impression lui rappelle.
+- Une personne sait qu’une mauvaise nuit peut avoir plusieurs raisons et redoute tout de même le retour de difficultés anciennes.
+
+### On imagine deux seules issues
+
+La peur peut réduire ce qu’on imagine possible avant d’en parler avec l’équipe.
+
+**Exemples concrets**
+
+- Diane s’attend à rentrer sans rendez-vous ou à rester à l’hôpital.
+- Quelqu’un pense devoir attendre le prochain entretien ou appeler les urgences, sans connaître le contact prévu pour un avis de suivi.
+
+### La présence familiale peut sembler devoir être continue
+
+Quand l’attente inquiète, on peut être tenté de demander à un proche une disponibilité qu’il ne peut pas garantir.
+
+**Exemples concrets**
+
+- Diane songe à demander à Rémi de rester près de son téléphone toute la soirée.
+- Une personne voudrait que son frère la rappelle à toute heure alors qu’ils n’ont convenu que d’un appel.
+
+## 3 techniques pour répartir l’aide quand on redoute une rechute
+
+### 1. Demander ce qui est prévu entre les rendez-vous
+
+Savoir quel contact utiliser si la situation change.
+
+**Exercice pratique**
+
+- Demandez l’heure du rappel et ce qu’il permettra de reprendre.
+- Vérifiez à qui parler si vous vous sentez moins en sécurité avant.
+- Notez les consignes avec vos propres mots.
+
+Il devient possible de demander un avis sans dépendre du seul rendez-vous ordinaire.
+
+### 2. Donner une place définie au proche
+
+Garder un appui compatible avec sa disponibilité.
+
+**Exercice pratique**
+
+- Choisissez ce que vous voulez lui dire.
+- Proposez une aide limitée, par exemple un appel à une heure donnée.
+- Demandez-lui ce qu’il peut accepter ou refuser.
+
+Le proche sait ce qui lui est demandé et peut rester présent sans prendre la place de l’équipe.
+
+### 3. Distinguer les deux échanges
+
+Conserver la relation avec le proche à côté du suivi.
+
+**Exercice pratique**
+
+- Inscrivez le rappel de l’équipe séparément.
+- Convenez avec le proche d’un sujet ordinaire que vous avez aussi envie d’aborder.
+- Si une question de santé reste ouverte, gardez-la pour l’interlocuteur prévu.
+
+Les deux contacts peuvent compter sans avoir le même rôle.
 
 ## Deux lignes dans l’agenda
 
 Diane demande à Rémi s’ils peuvent s’appeler à neuf heures et parler aussi du meuble. Il lui répond qu’il ne promet pas tous les soirs de la semaine, puis répète l’heure de celui-ci. Quand ils raccrochent, Diane écrit « rappel équipe » à l’heure convenue sur son agenda et met « Rémi » sur une autre ligne. Le lendemain, après le rappel de l’équipe, elle envoie à Maud l’heure à laquelle elle compte venir installer les pièces. Elle lui demande si les mesures peuvent attendre ce moment-là. Elle ne reparle pas à Maud du rendez-vous annulé.
+
+---
+
+**Conclusion**
+
+Diane écrit deux rendez-vous sur deux lignes. Le rappel de l’équipe concerne l’évolution de la gêne et l’appel de Rémi garde aussi une place pour le meuble. Cette distinction rend possible un appui familial sans en faire une veille permanente.

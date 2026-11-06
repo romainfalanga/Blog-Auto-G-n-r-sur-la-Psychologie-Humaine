@@ -33,16 +33,79 @@ Il respire mieux presque tout de suite. Il est surpris de pouvoir regarder une f
 
 Dans l’agoraphobie, une personne peut quitter une situation redoutée ou ne s’y engager qu’à certaines conditions. Quitter la file réduit la tension de Joachim ce matin. Le répit rend sa décision très compréhensible. Il peut aussi rendre une autre sortie plus difficile à envisager, si s’éloigner devient la réponse qu’il attend pour être soulagé. Les approches cognitives et comportementales peuvent travailler sur cette boucle avec une professionnelle. Elles s’intéressent au rôle que le soulagement et les craintes prennent dans chaque situation.
 
-## Comment cette difficulté se manifeste
+## Comment l’évitement peut-il soulager tout en coûtant quelque chose ?
 
-Joachim aurait aimé rester client de cet étal qu’il connaît bien. Il voudrait aussi avoir une matinée qui puisse contenir plusieurs choses. Le repas et le repérage ne perdent pas leur valeur parce qu’il s’est éloigné de la file. Les conséquences de son choix se voient à distance de l’étal, quand la préparation du déjeuner et la façon de rejoindre Diego doivent être revues.
+### Le répit est réel
 
-## Garder le choix de la suite de sa journée
+S’éloigner d’une situation redoutée peut faire baisser la tension sur le moment.
 
-Le chariot touchait presque la chaussure de Joachim, et demander de l’espace est une réponse ordinaire à cette situation. La peur qu’il a décrite portait également sur un malaise possible et le temps qu’il lui faudrait pour sortir du rang. Il pourra raconter les deux aspects à Louise. Ils donnent une image plus précise que le seul mot « marché ». Le suivi peut s’appuyer sur cet exemple sans que le voisin ou la famille organise un retour imprévu à l’étal.
+**Exemples concrets**
 
-Le déjeuner peut changer. Ana lui propose de faire les pommes de terre avec ce qu’il a déjà chez lui et de choisir une autre fois le poisson ensemble. Il décide de voir Diego à l’endroit convenu. Marcher jusqu’au lavoir lui semble encore possible. Il est venu prendre des photos et il peut décider de ce qu’il fait après cette file, au lieu de laisser toutes les décisions de la matinée suspendues à l’achat des sardines.
+- Joachim quitte la file du marché et retrouve une rue dont il connaît les volets.
+- Une personne peut retrouver du calme dès qu’elle rejoint le trottoir après avoir quitté un bus.
+
+### Une tâche est laissée sur place
+
+Le soulagement peut être suivi d’une conséquence qui concerne une activité ou quelqu’un d’autre.
+
+**Exemples concrets**
+
+- Joachim n’a pas acheté les sardines qu’il devait préparer avec Ana.
+- Il doit lui écrire pour qu’ils puissent décider quoi faire du déjeuner.
+
+### La perspective de refaire le trajet change
+
+Le départ peut devenir ce que la personne attend pour retrouver du calme lors d’une prochaine sortie.
+
+**Exemples concrets**
+
+- Joachim pourra parler à Louise de ce qui l’a fait quitter la file et de ce qu’il a ressenti ensuite.
+- Une personne peut repousser d’autres courses en pensant au répit que lui avait donné le premier départ.
+
+## 3 techniques pour revenir sur un départ qui a soulagé
+
+### 1. Décrire le soulagement et son coût
+
+Préparer un exemple pour le suivi.
+
+**Exercice pratique**
+
+- Racontez la situation juste avant votre départ.
+- Décrivez ce qui s’est apaisé dans les minutes suivantes.
+- Ajoutez ce qui est resté à régler et présentez ces faits au professionnel.
+
+L’entretien peut examiner ce que l’évitement a permis sur le moment et ce qu’il a changé ensuite.
+
+### 2. Prévenir la personne qui attend
+
+Remettre en commun une décision devenue nécessaire.
+
+**Exercice pratique**
+
+- Dites ce que vous n’avez pas pu faire.
+- Proposez une autre façon d’organiser la suite immédiate.
+- Vérifiez ce que l’autre veut et peut encore faire.
+
+Le rendez-vous peut s’ajuster à partir d’une information suffisante.
+
+### 3. Discuter de la boucle en consultation
+
+Choisir avec le professionnel le point à travailler.
+
+**Exercice pratique**
+
+- Repérez une situation où cette réponse tend à revenir.
+- Dites ce que vous souhaiteriez retrouver dans cette activité.
+- Demandez quel travail pourrait convenir et à quelles conditions.
+
+Le travail sur la peur peut partir d’un objectif choisi plutôt que d’une consigne à exécuter seul.
 
 ## Au lavoir, la sortie tient encore
 
 Diego a placé le plan sur le muret. Joachim lui dit où il en est sans revenir sur chaque minute du marché. Il tient à photographier l’endroit où le chemin se divise. Depuis le côté où ils se sont arrêtés, le second passage disparaît derrière une haie. Diego l’indique du doigt. Joachim propose de noter cette séparation sur leur carte, puis rentre préparer le déjeuner. En mettant le four en route, il demande à Ana si elle pense encore au film qu’ils ont évoqué la semaine passée.
+
+---
+
+**Conclusion**
+
+Au lavoir, Joachim peut encore photographier la bifurcation après avoir quitté le marché. Le soulagement dans la rue et le changement de déjeuner ont tous deux compté. Leur ordre donne à Louise un exemple concret de ce que ce départ a changé.

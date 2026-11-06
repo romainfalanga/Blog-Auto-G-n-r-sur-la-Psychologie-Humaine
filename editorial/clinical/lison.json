@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Le coût invisible d’un calcul dans la dyscalculie",
-          "text": "Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique. Elles ne touchent pas toutes ces dimensions chez tout le monde. Pour Lison, préparer la quantité d’un tissu et choisir comment deux matières accrochent la lumière sollicitent des compétences différentes. Elle peut être précise dans les deux situations, avec des conditions de travail et un effort différents. Son diagnostic a été posé par des professionnels bien avant cette scène. Une erreur de devis, à elle seule, n’aurait rien permis d’établir."
+          "text": "Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique. Elles ne touchent pas toutes ces dimensions chez tout le monde. Pour Lison, préparer la quantité d’un tissu et choisir comment deux matières accrochent la lumière sollicitent des compétences différentes. Elle peut être précise dans les deux situations, avec des conditions de travail et un effort différents. Son diagnostic a été posé par des professionnels bien avant cette scène. Une erreur de devis, à elle seule, n’aurait rien permis d’établir.\n\nUne personne qui redoute de devoir calculer devant quelqu’un peut donner une réponse avant d’avoir vérifié ce qu’elle peut confirmer. Lison dit oui à deux questions d’un coup alors qu’elle a décidé seulement des matières. Revenir à la quantité lui permet de garder sa responsabilité sans s’engager sur un chiffre incertain."
         },
         {
           "role": "manifestations",
-          "heading": "Le oui qui engage trop vite",
-          "text": "Lison craint que sa façon de calculer devienne ce que les autres retiennent de sa matinée. Répondre vite lui épargne un silence embarrassant, puis la laisse avec une quantité qu’elle n’a pas préparée et une promesse difficile à tenir. Dans une étude auprès de dix-huit adultes reçus dans une consultation universitaire, des participants ont décrit cette appréhension et des façons d’éviter des situations chiffrées. Leurs récits éclairent un vécu possible, sans résumer celui de toutes les personnes dyscalculiques. Ici, Lison veut rester au centre du travail : c’est elle qui sait pourquoi le sergé doit apparaître par instants et pas éclairer toute la veste."
+          "heading": "Comment l’appréhension du calcul peut-elle pousser à répondre trop vite ?",
+          "points": [
+            {
+              "heading": "La réponse met fin à un moment inconfortable",
+              "text": "Dire oui rapidement peut éviter un calcul sous le regard de l’autre, mais laisse la décision en suspens.",
+              "examples": [
+                "Lison acquiesce alors que la quantité reste à reprendre.",
+                "Un apprenti peut dire qu’il a assez de matériel sans avoir encore comparé le stock au patron."
+              ]
+            },
+            {
+              "heading": "Deux questions peuvent demander des réponses différentes",
+              "text": "Quand l’une touche un domaine familier et l’autre exige un calcul, répondre aux deux en même temps cache le point à vérifier.",
+              "examples": [
+                "Lison sait quelles matières elle veut superposer et hésite sur le métrage.",
+                "Une personne peut choisir un format d’impression tout en ayant besoin de temps pour confirmer combien elle peut en tirer."
+              ]
+            },
+            {
+              "heading": "On peut revenir sur une réponse donnée trop tôt",
+              "text": "Indiquer ce qui est acquis et ce qui reste à examiner permet de reprendre sa place dans la décision.",
+              "examples": [
+                "Lison écrit « revoir quantité » et laisse la case vide.",
+                "Dans un atelier, on peut garder la référence du tissu et réserver un créneau pour contrôler le stock."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Rendre la question assez précise pour y répondre",
-          "text": "Lison peut reprendre son premier oui en séparant la décision sur les matières de celle sur la quantité. Avec Nora, elle peut se donner un moment pour lire le patron, identifier ce qui manque et décider quand une vérification sera utile. Elles peuvent aussi préciser qui transmettra la commande : Lison veut préparer les chiffres et suivre les réponses ; Nora reste responsable de valider l’achat. Cet accord évite que chaque question sur une longueur devienne une épreuve surprise. Si le temps pris pour reprendre les chiffres déborde régulièrement sur ses pauses ou ses soirées, Lison peut apporter ces situations à son équipe de suivi. Au travail, elle peut demander de revoir le moment et la forme des demandes."
+          "heading": "3 techniques pour répondre quand le calcul demande plus de temps",
+          "points": [
+            {
+              "heading": "Séparer les deux questions",
+              "objective": "Conserver la décision déjà prise et garder le calcul ouvert.",
+              "exercise": [
+                "Dites ce que vous pouvez confirmer maintenant.",
+                "Nommez la quantité à vérifier.",
+                "Laissez-la en attente jusqu’au moment où vous aurez la référence."
+              ],
+              "benefit": "Le oui à une matière ne devient pas un accord sur un nombre."
+            },
+            {
+              "heading": "Demander le délai réel",
+              "objective": "Savoir quand et dans quelles conditions la réponse est attendue.",
+              "exercise": [
+                "Demandez jusqu’à quand le choix peut attendre.",
+                "Réservez un temps avec le patron et le mètre.",
+                "Vérifiez qui validera le chiffre après le relevé."
+              ],
+              "benefit": "La réponse peut se préparer dans un cadre convenu."
+            },
+            {
+              "heading": "Revenir sur un accord précipité",
+              "objective": "Clarifier la prochaine étape sans devoir expliquer son trouble.",
+              "exercise": [
+                "Dites que vous souhaitez reprendre la ligne chiffrée.",
+                "Proposez un moment précis pour le faire.",
+                "Confirmez la tâche que vous voulez garder."
+              ],
+              "benefit": "Le rôle reste choisi pendant que la quantité se vérifie."
+            }
+          ]
         }
       ],
       "ending": "Nora ouvre son agenda. Mardi avant la pause, la petite table du fond est libre. Elle propose qu’elles y apportent le patron et un mètre, puis qu’elles aillent vérifier le stock un autre jour. Lison écrit « revoir quantité » sur le formulaire et laisse la case vide. Elle revient aux deux chutes pour agrafer un coin de l’ocre par-dessus l’ardoise, de sorte qu’on puisse le soulever. Nora essaie du pouce. « Ça ne se voit que si on bouge », dit-elle. Lison acquiesce. Pour cette question-là, elle sait exactement à quoi elle répond.",
@@ -53,7 +109,8 @@
         "next": "Nora et Lison réservent la table du fond mardi avant la pause pour reprendre les mesures du patron ; Nora conserve la validation de l’achat."
       },
       "clinical_focus": "Appréhension du calcul et évitement",
-      "clinical_intro": "Lison a choisi les matières des vestes et dit oui trop vite quand il faut préciser les quantités. Elle redoute de devoir calculer pendant que Nora attend sa réponse. Avec la dyscalculie, un calcul juste peut demander beaucoup de temps et d’effort. Dans cette scène, la crainte de paraître incompétente complique encore le moment de demander ce dont elle a besoin."
+      "clinical_intro": "Lison a choisi les matières des vestes et dit oui trop vite quand il faut préciser les quantités. Elle redoute de devoir calculer pendant que Nora attend sa réponse. Avec la dyscalculie, un calcul juste peut demander beaucoup de temps et d’effort. Dans cette scène, la crainte de paraître incompétente complique encore le moment de demander ce dont elle a besoin.",
+      "conclusion": "Lison confirme les tissus et rouvre la question de la quantité. La case vide garde la place du calcul qu’elle veut reprendre à la table du fond. Elle peut suivre la commande tout en laissant à Nora la validation de l’achat."
     },
     {
       "number": 2,
@@ -75,13 +132,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Un résultat qui répond à une seule question",
-          "text": "Le doute revient lorsque Lison regarde sa correction. Elle pense à la commande et une autre question se mélange à la première : faut-il acheter cette longueur entière ? Si elle reporte le bon résultat dans la mauvaise case, le bon de commande reste faux. Les 260 cm correspondent au besoin de sergé pour les quatre vestes, marge comprise. Le stock utilisable n’a pas encore été mesuré. La longueur à acheter dépend de ce qui sera réellement utilisable dans la réserve. Écrire d’abord la question devant chaque quantité aide Lison à conserver une réponse correcte même quand la suivante manque. Cela lui donne aussi une raison de revenir plus tard à la fiche plutôt que de recommencer tout le calcul."
+          "heading": "Comment changer d’unité sans perdre de vue la longueur mesurée ?",
+          "points": [
+            {
+              "heading": "La quantité reste la même sous une autre écriture",
+              "text": "Les chiffres et la virgule changent quand on passe des centimètres aux mètres. Le bout de tissu à représenter reste le même.",
+              "examples": [
+                "Lison compare 260 cm et 2,60 m sur son devis d’essai.",
+                "Sur une table, 75 cm et 0,75 m peuvent désigner la distance entre les mêmes deux marques."
+              ]
+            },
+            {
+              "heading": "L’unité donne son sens au nombre",
+              "text": "Un nombre isolé peut faire perdre l’échelle, surtout au moment de recopier ou de comparer les lignes.",
+              "examples": [
+                "Lison garde les unités sur le dessin et sur la ligne du besoin total.",
+                "Un collègue qui retrouve « 140 » sur un papier doit savoir s’il s’agit de la largeur en centimètres ou d’une autre donnée."
+              ]
+            },
+            {
+              "heading": "Le bon chiffre peut se retrouver sur la mauvaise ligne",
+              "text": "Convertir correctement ne suffit pas si le nombre est ensuite pris pour le stock ou la quantité à acheter.",
+              "examples": [
+                "Lison distingue les 260 cm nécessaires de la réserve à mesurer.",
+                "Écrire zéro dans la réserve pourrait laisser croire qu’un contrôle a déjà montré qu’elle est vide."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Fabriquer une fiche qui survive à la pause",
-          "text": "Lison et Nora peuvent garder trois lignes explicites : « besoin total », « stock utilisable vérifié » et « à acheter ». Pour ce dossier, elles choisissent les centimètres pendant la préparation et notent l’équivalence en mètres au moment de préparer le bon. Le ruban et les traits servent à Lison à comparer deux longueurs qui se ressemblent à l’écrit. Elle peut aussi utiliser une calculatrice et relire l’unité ou la ligne dans laquelle elle copie le résultat. Ces supports correspondent à cette tâche ; ils peuvent être simplifiés ou complétés après usage. Pour que quelqu’un d’autre puisse reprendre la fiche, la date et la provenance du stock seront aussi utiles que le chiffre lui-même."
+          "heading": "3 techniques pour vérifier une conversion à partir de la mesure",
+          "points": [
+            {
+              "heading": "Poser les deux écritures côte à côte",
+              "objective": "Garder visible ce que chaque unité représente.",
+              "exercise": [
+                "Écrivez la mesure d’origine avec son unité.",
+                "Ajoutez la nouvelle écriture sur la même ligne.",
+                "Comparez les deux à la longueur représentée sur le ruban."
+              ],
+              "benefit": "Le résultat peut être rapproché d’un repère concret."
+            },
+            {
+              "heading": "Relier le nombre à la bonne colonne",
+              "objective": "Éviter de confondre besoin total, réserve et achat.",
+              "exercise": [
+                "Nommez les trois quantités sur des lignes distinctes.",
+                "Reportez le chiffre à côté de son rôle.",
+                "Laissez « à mesurer » tant que la réserve n’a pas été contrôlée."
+              ],
+              "benefit": "La fiche indique ce qui est connu et ce qui ne l’est pas encore."
+            },
+            {
+              "heading": "Demander une seconde lecture précise",
+              "objective": "Vérifier la conversion ou le report selon le doute réel.",
+              "exercise": [
+                "Montrez la mesure de départ et le résultat écrit.",
+                "Dites lequel des deux passages vous voulez vérifier.",
+                "Corrigez seulement la ligne concernée après avoir comparé les repères."
+              ],
+              "benefit": "Le contrôle porte sur le point où l’incertitude se trouve."
+            }
+          ]
         }
       ],
       "ending": "Sur une feuille propre, Lison écrit « ocre », puis « besoin total : 260 cm ». Elle garde le formulaire barré au dos, parce que les deux mètres dessinés lui serviront encore. La quantité d’ardoise, déjà établie par Nora sur son plan, sera suivie sur une ligne séparée. Quand elles rangent, Nora désigne l’espace du bas : « On pourrait mettre un zéro provisoire pour la réserve. » Lison pense à la fois où elle a repris une fiche sans pouvoir se rappeler quels zéros venaient d’une mesure. Elle écrit « à mesurer » en toutes lettres. Un zéro dirait déjà quelque chose sur la mezzanine.",
@@ -98,7 +211,8 @@
         "next": "La quantité d’ardoise déjà établie aura sa propre ligne ; Lison doit encore organiser une vérification et mesurer le stock d’ocre."
       },
       "clinical_focus": "Sens des nombres et conversions",
-      "clinical_intro": "Sur le devis d’essai, Lison réécrit 260 centimètres en 2,60 mètres et vérifie ce que les deux écritures représentent. Passer d’une unité à l’autre demande de conserver la même quantité tout en changeant les chiffres et leurs repères. Cette tâche illustre une difficulté possible de la dyscalculie. Garder les unités visibles l’aide aussi à distinguer le besoin de tissu du stock à mesurer."
+      "clinical_intro": "Sur le devis d’essai, Lison réécrit 260 centimètres en 2,60 mètres et vérifie ce que les deux écritures représentent. Passer d’une unité à l’autre demande de conserver la même quantité tout en changeant les chiffres et leurs repères. Cette tâche illustre une difficulté possible de la dyscalculie. Garder les unités visibles l’aide aussi à distinguer le besoin de tissu du stock à mesurer.",
+      "conclusion": "Lison garde le dessin qui relie les deux écritures d’une même longueur. Sur la fiche, elle distingue le besoin total du stock à mesurer. Cette distinction lui permettra de demander un contrôle utile avant de préparer la quantité à commander."
     },
     {
       "number": 3,
@@ -120,13 +234,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Demander une relecture quand on craint de perdre la main",
-          "text": "Lison répète deux fois sa demande avant d’arriver au café. Elle imagine qu’Ilyès lui proposera de prendre la fiche à sa place, comme elle a déjà vu une tâche changer de mains à l’approche d’une échéance. Elle avait préparé toute une justification. Ilyès lui demande surtout combien de temps prendrait la relecture. Lison peut alors préciser la ligne d’ocre et ce qu’ils pourraient vérifier en dix minutes."
+          "heading": "Comment la peur d’être jugée change-t-elle la façon de demander un contrôle ?",
+          "points": [
+            {
+              "heading": "Un contrôle peut sembler menacer tout un rôle",
+              "text": "Une personne peut craindre qu’une demande ponctuelle soit comprise comme une incapacité à tenir le projet.",
+              "examples": [
+                "Lison redoute qu’Ilyès la croie incapable de suivre la commande si elle lui montre la ligne d’ocre.",
+                "Une apprentie peut remettre à plus tard une question sur le total si elle a déjà vu quelqu’un prendre le dossier des mains d’un collègue."
+              ]
+            },
+            {
+              "heading": "Une demande précise donne un cadre à l’aide",
+              "text": "Nommer l’opération et les références permet de vérifier le point utile sans élargir le relais.",
+              "examples": [
+                "Lison demande la comparaison du patron, de la réserve et de la fiche.",
+                "Quelqu’un peut demander un regard sur la conversion d’une ligne et garder le contact avec le fournisseur."
+              ]
+            },
+            {
+              "heading": "Le partenaire a aussi un temps à respecter",
+              "text": "Une réponse concrète sur sa disponibilité évite que l’aide reste une promesse vague.",
+              "examples": [
+                "Ilyès propose dix minutes avant l’essayage.",
+                "Ils inscrivent Nora comme relais si une question dépasse le créneau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un créneau qui se termine",
-          "text": "Ils peuvent préciser le début et la fin de la relecture : Lison apporte le patron et la mesure du stock ; Ilyès compare les sources aux lignes reportées ; les deux laissent un doute visible s’il en reste un. Dix minutes deviennent une limite de disponibilité, pas un délai pour arriver coûte que coûte à une réponse. Nora peut proposer un autre créneau ou nommer une autre personne pour la vérification si Ilyès est pris. Un appui d’atelier se conçoit à partir de la tâche et des ressources des gens qui y participent. Si la difficulté se retrouve régulièrement entre le lieu de formation et l’atelier, Lison peut aussi se renseigner auprès du référent handicap de son organisme sur les appuis possibles.\n\nLison peut expliquer quelle vérification lui est utile et garder pour elle son parcours de santé. Ilyès a besoin de savoir quelle ligne relire et à quel moment. Lison choisit si elle souhaite lui parler de son diagnostic un autre jour."
+          "heading": "3 techniques pour demander une vérification sans céder tout le projet",
+          "points": [
+            {
+              "heading": "Définir la question à vérifier",
+              "objective": "Rendre la demande faisable et limitée.",
+              "exercise": [
+                "Choisissez la ligne sur laquelle vous hésitez.",
+                "Préparez les deux documents à comparer.",
+                "Dites ce que vous voulez obtenir de la comparaison."
+              ],
+              "benefit": "Le partenaire sait ce qu’il vient vérifier."
+            },
+            {
+              "heading": "Fixer un créneau et une issue",
+              "objective": "Respecter les engagements des deux personnes.",
+              "exercise": [
+                "Convenez d’une heure et d’une durée.",
+                "Décidez qui prévenir si le créneau bouge.",
+                "Nommez la personne qui peut prendre une question non résolue."
+              ],
+              "benefit": "La commande a une suite même si le premier contrôle n’aboutit pas."
+            },
+            {
+              "heading": "Choisir les informations à partager",
+              "objective": "Parler du besoin sans devoir raconter son parcours.",
+              "exercise": [
+                "Montrez le relevé ou la difficulté pratique.",
+                "Indiquez le rôle que vous gardez.",
+                "Si vous souhaitez discuter d’un appui plus durable, choisissez un échange privé avec la personne concernée."
+              ],
+              "benefit": "L’aide porte sur la tâche et la personne garde la maîtrise de ce qu’elle confie."
+            }
+          ]
         }
       ],
       "ending": "Ilyès propose jeudi à onze heures quarante. Il sort le ticket des deux menthes et dessine trois traits sur le dos : patron, réserve, fiche. Lison ajoute à droite de la dernière ligne : « si doute, Nora ». Elle lui rappelle qu’il peut le lui dire le matin même si l’essayage a avancé. Elle n’a pas envie de passer la pause à le chercher dans tous les coins. Ils règlent chacun leur verre. En repartant, elle retourne enfin son téléphone et écrit à Alba qu’elle viendra samedi, même si elles ne tirent qu’une seule des vitrines.",
@@ -144,7 +314,8 @@
         "next": "Jeudi à onze heures quarante, Ilyès compare le patron et le relevé de stock à la fiche ; Nora reste le relais si un doute subsiste."
       },
       "clinical_focus": "Peur du jugement et aide ciblée",
-      "clinical_intro": "Lison demande à Ilyès de relire la ligne d’ocre et craint qu’il pense qu’elle ne peut pas suivre la commande. Les expériences difficiles avec les nombres peuvent nourrir l’appréhension d’être jugé au travail. Lison réduit cette incertitude en précisant ce qu’elle veut vérifier, à partir du patron et de la mesure, avec un temps convenu pour le faire."
+      "clinical_intro": "Lison demande à Ilyès de relire la ligne d’ocre et craint qu’il pense qu’elle ne peut pas suivre la commande. Les expériences difficiles avec les nombres peuvent nourrir l’appréhension d’être jugé au travail. Lison réduit cette incertitude en précisant ce qu’elle veut vérifier, à partir du patron et de la mesure, avec un temps convenu pour le faire.",
+      "conclusion": "Lison demande un contrôle de la ligne d’ocre, et Ilyès lui donne dix minutes plutôt qu’une promesse sans heure. Nora reste disponible si un doute subsiste. Lison garde la commande et peut penser à son rendez-vous avec Alba."
     },
     {
       "number": 4,
@@ -166,13 +337,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Se fier à ce qu’on peut faire reprendre",
-          "text": "Lison a envie que l’étiquette gagne, parce qu’elle porterait alors la responsabilité de la personne qui l’a écrite. Une vérification utile lui offre autre chose : le même objet, la même question et une façon de retrouver le résultat. Dans les récits d’adultes étudiés par Staller et ses collègues, certaines expériences chiffrées s’accompagnent d’appréhension ou de honte. On comprend que Lison mette un peu de temps à contredire un chiffre ancien. En le rattachant à un bord visible, elle donne à Ilyès un moyen de discuter de la mesure avec elle. Ils peuvent également expliquer ce qu’ils ont vérifié si Nora arrive plus tard."
+          "heading": "Comment vérifier une mesure qui ne correspond pas au nombre imprimé ?",
+          "points": [
+            {
+              "heading": "Deux chiffres peuvent désigner des quantités différentes",
+              "text": "Un ancien métrage peut inclure une partie abîmée ou déjà coupée. Il faut préciser la portion utile avant de comparer.",
+              "examples": [
+                "L’étiquette indique un mètre tandis que Lison relève 75 cm utilisables.",
+                "Dans l’atelier, un rouleau ouvert peut encore porter la longueur notée avant le dernier prélèvement."
+              ]
+            },
+            {
+              "heading": "Le doute peut faire abandonner une observation juste",
+              "text": "Des difficultés passées peuvent peser sur la confiance accordée à un relevé actuel, même si celui-ci repose sur un contrôle direct.",
+              "examples": [
+                "Lison hésite à défendre sa mesure devant l’étiquette imprimée.",
+                "Une personne peut effacer une longueur lue sur le ruban en voyant un nombre différent sur un ancien dossier."
+              ]
+            },
+            {
+              "heading": "Une nouvelle trace rend la comparaison possible",
+              "text": "Une mesure datée avec son périmètre donne aux suivants de quoi la reprendre.",
+              "examples": [
+                "Lison écrit « 75 cm utilisables, mesurés aujourd’hui » sur le rouleau.",
+                "Indiquer la largeur et le lot aide à rattacher le relevé au bon tissu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire la mesure, sa date et son usage",
-          "text": "Lison reporte les 75 cm sur la ligne « stock utilisable vérifié » et précise le lot et la largeur de 140 cm relevés sur le coupon. Elle garde l’ancienne étiquette comme trace, en la distinguant du relevé du jour. Avec Ilyès, elle reprend le besoin de 260 cm sur le patron et retranche le stock : il reste 185 cm à acheter, soit 1,85 m. Elle vérifie aussi que le stock pourra fournir au moins une des bandes de 60 cm prévues. Cette façon de relire conserve deux éléments utiles : le calcul répond à la question posée et les morceaux disponibles permettent réellement de placer les pièces. Le bon devra indiquer à la fois la longueur et la largeur retenues."
+          "heading": "3 techniques pour comparer une mesure et une étiquette",
+          "points": [
+            {
+              "heading": "Définir ce que l’on mesure",
+              "objective": "Vérifier que les chiffres parlent de la même partie.",
+              "exercise": [
+                "Repérez les bords de la portion utilisable.",
+                "Montrez à l’autre d’où vous partez et où vous vous arrêtez.",
+                "Mesurez après vous être accordés sur ces limites."
+              ],
+              "benefit": "La comparaison porte sur la même quantité."
+            },
+            {
+              "heading": "Garder la trace du relevé actuel",
+              "objective": "Donner au prochain lecteur un résultat vérifiable.",
+              "exercise": [
+                "Inscrivez la longueur, l’unité et la date.",
+                "Ajoutez la mention « utilisable » si elle est nécessaire.",
+                "Rattachez le relevé au bon rouleau et au dossier."
+              ],
+              "benefit": "Une future différence pourra être examinée sans refaire toute l’histoire de mémoire."
+            },
+            {
+              "heading": "Reprendre le complément à partir des données confirmées",
+              "objective": "Éviter de commander à partir de l’étiquette seule.",
+              "exercise": [
+                "Relisez le besoin total et le stock confirmé dans la même unité.",
+                "Calculez la différence puis faites-la vérifier selon le cadre de l’atelier.",
+                "Faites valider la quantité à commander par la personne responsable."
+              ],
+              "benefit": "Le calcul suit les mesures dont l’équipe connaît le sens."
+            }
+          ]
         }
       ],
       "ending": "Ilyès vérifie une dernière fois la ligne de 185 cm et regarde l’horloge. Lison lui dit qu’elle a ce qu’il lui faut et peut rendre la table. Elle écrit sur le rouleau « 75 cm utilisables, mesurés aujourd’hui », avec la date. En bas de la fiche, elle ajoute « ocre B17, largeur 140 cm », puis elle prélève pour le dossier un petit morceau dans la partie abîmée, là où le sergé a encore sa vraie couleur. Avant de remonter le rouleau, elle montre la nouvelle étiquette à Nora, qui réserve le coupon pour les vestes. Il faut que la personne qui redescendra ce coupon sache où poser son mètre.",
@@ -189,7 +416,8 @@
         "next": "Le besoin de 260 cm et le stock B17 de 75 cm à largeur 140 cm sont documentés ; la demande fournisseur peut préciser ces contraintes et doit encore être validée par Nora."
       },
       "clinical_focus": "Doute et vérification numérique",
-      "clinical_intro": "Sur la mezzanine, l’étiquette indique un mètre alors que Lison mesure soixante-quinze centimètres utilisables. Elle hésite avant de soutenir le chiffre qu’elle vient de relever. L’habitude de trouver certaines tâches numériques difficiles peut peser sur la confiance accordée à sa propre mesure. La reprise avec Ilyès permet de distinguer la longueur inscrite, la partie utilisable et la quantité à commander."
+      "clinical_intro": "Sur la mezzanine, l’étiquette indique un mètre alors que Lison mesure soixante-quinze centimètres utilisables. Elle hésite avant de soutenir le chiffre qu’elle vient de relever. L’habitude de trouver certaines tâches numériques difficiles peut peser sur la confiance accordée à sa propre mesure. La reprise avec Ilyès permet de distinguer la longueur inscrite, la partie utilisable et la quantité à commander.",
+      "conclusion": "Ilyès et Lison repartent des bords du tissu utilisable. Les 75 cm vérifiés permettent de calculer le complément et la nouvelle étiquette indique ce qui a été mesuré. La prochaine personne saura où poser son mètre."
     },
     {
       "number": 5,
@@ -211,13 +439,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Un délai n’oblige pas à répondre au téléphone",
-          "text": "Lison entend l’offre comme une invitation à décider avant que Farah ne raccroche. Elle peut craindre de gêner en demandant une autre recherche, d’autant qu’une réponse rapide est valorisée dans l’atelier. Des adultes interrogés dans l’étude de Staller et de ses collègues décrivent des situations où il leur est difficile de traiter des chiffres sur le moment, avec de l’appréhension à la clé. Pour Lison, l’écart entre « on doit avancer » et « il faut accepter maintenant » se referme vite. Quand elle demande l’écrit, elle le rouvre : Nora peut faire un choix sur une proposition précise, avec le patron devant elle."
+          "heading": "Comment une réponse attendue peut-elle compliquer le suivi de plusieurs dimensions ?",
+          "points": [
+            {
+              "heading": "Les valeurs arrivent dans le même échange",
+              "text": "Suivre une largeur, une longueur et une échéance oblige à garder le rôle de chaque nombre pendant qu’une autre information arrive.",
+              "examples": [
+                "Au téléphone, Lison entend une proposition à 90 cm de large alors qu’elle avait préparé le métrage pour du 140 cm.",
+                "Dans un autre appel, un prix, une quantité et une heure de retrait peuvent se mélanger dans les notes."
+              ]
+            },
+            {
+              "heading": "Une valeur peut changer les conditions du calcul",
+              "text": "Un chiffre différent ne se remplace pas toujours seul. Il peut modifier le patron, la matière ou le délai.",
+              "examples": [
+                "Le tissu plus étroit imposerait de revoir la disposition des pièces.",
+                "Un lot différent peut aussi déplacer la question vers la teinte avant même de commander."
+              ]
+            },
+            {
+              "heading": "L’écrit permet de reprendre après l’appel",
+              "text": "Une confirmation précise libère du temps pour vérifier chaque donnée avec la référence.",
+              "examples": [
+                "Lison dessine une flèche en travers du patron pour garder le sens de la largeur.",
+                "Le fournisseur peut confirmer jusqu’à quelle heure le lot prévu restera réservé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner au fournisseur une demande qu’il peut reprendre",
-          "text": "Lison peut faire reformuler les données qui ont changé, puis demander qu’elles figurent sur un devis. Ici, elle veut lire séparément la référence, le lot, la largeur et la longueur continue. Elle peut aussi demander combien de temps l’offre ou la réservation tient. Cela permet à Nora de dire si le délai reste possible et, le cas échéant, de faire revoir le patron avant d’envisager un autre tissu. Si le fournisseur est pressé, Lison peut annoncer à quel moment l’atelier rappellera. Elle n’a pas à expliquer son diagnostic pour obtenir la confirmation d’une caractéristique du tissu ou préciser qu’une commande n’est pas encore validée."
+          "heading": "3 techniques pour garder les dimensions distinctes sous pression",
+          "points": [
+            {
+              "heading": "Préparer une place pour chaque valeur",
+              "objective": "Éviter qu’un nombre reçu masque le rôle du précédent.",
+              "exercise": [
+                "Écrivez les rubriques longueur, largeur, lot et délai avant l’appel.",
+                "Ajoutez chaque valeur à côté de sa rubrique.",
+                "Relisez celles qui déterminent la suite avant de raccrocher."
+              ],
+              "benefit": "L’information peut être vérifiée sans la reconstruire de mémoire."
+            },
+            {
+              "heading": "Demander une pause avant de s’engager",
+              "objective": "Éviter de répondre sur une proposition dont les conséquences restent incertaines.",
+              "exercise": [
+                "Nommez le paramètre qui vient de changer.",
+                "Demandez un écrit et la durée de réservation.",
+                "Revenez au patron ou à la personne qui valide avant de confirmer."
+              ],
+              "benefit": "La pression de l’appel ne décide pas du choix de tissu."
+            },
+            {
+              "heading": "Distinguer offre et achat",
+              "objective": "Donner à l’équipe le bon état d’avancement.",
+              "exercise": [
+                "Récapitulez ce que le fournisseur doit chiffrer.",
+                "Transmettez la confirmation à la personne qui valide.",
+                "Gardez la mention « devis attendu » jusqu’à réception et décision."
+              ],
+              "benefit": "Le statut visible indique ce qui reste à faire."
+            }
+          ]
         }
       ],
       "ending": "Farah demande de patienter. Lison dessine une flèche en travers du patron et écrit « largeur » dessus. Quand Farah reprend, un rouleau du lot B17 est bien disponible dans un autre dépôt, en 140 cm de large. Le métrage demandé peut être coupé en une pièce. Farah propose de le réserver jusqu’au lendemain midi ; le devis arrivera le matin. Lison confirme par écrit les deux lignes à chiffrer : six mètres de toile ardoise et 1,85 m de sergé ocre dans les conditions convenues. Elle envoie une copie à Nora. Sur sa fiche, elle laisse la commande au statut « devis attendu ».",
@@ -235,7 +519,8 @@
         "next": "Elle a confirmé par écrit six mètres d’ardoise et 1,85 m continu d’ocre B17 de 140 cm de large. Nora doit valider le devis."
       },
       "clinical_focus": "Charge cognitive sous pression temporelle",
-      "clinical_intro": "Le fournisseur propose au téléphone un tissu plus étroit. Lison doit suivre à la fois la largeur, le métrage et l’heure de réservation. Certaines tâches numériques deviennent plus coûteuses quand plusieurs valeurs doivent rester présentes pendant qu’une réponse est attendue. Demander une confirmation écrite lui permet de reprendre les dimensions séparément et de décider selon le besoin des vestes."
+      "clinical_intro": "Le fournisseur propose au téléphone un tissu plus étroit. Lison doit suivre à la fois la largeur, le métrage et l’heure de réservation. Certaines tâches numériques deviennent plus coûteuses quand plusieurs valeurs doivent rester présentes pendant qu’une réponse est attendue. Demander une confirmation écrite lui permet de reprendre les dimensions séparément et de décider selon le besoin des vestes.",
+      "conclusion": "Lison obtient une offre sur le bon lot et la bonne largeur, sans engager l’achat pendant l’appel. Elle peut transmettre les deux lignes à Nora. La mention « devis attendu » sépare ce qui a été réservé de la commande qui reste à valider."
     },
     {
       "number": 6,
@@ -257,13 +542,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Deux longueurs à comparer au milieu du doute",
-          "text": "Lison voit « 1,58 m » sur le devis et « 185 cm » sur sa fiche. Elle se croit fautive avant même de refaire la conversion. Quand Nora s’approche pour signer, Lison a envie de retourner la feuille et sa voix sort plus fort qu’elle ne le souhaite. Le courriel lui remet sous les yeux la longueur qu’elle avait transmise, 1,85 m. L’écart représente 27 cm, assez pour compromettre le placement prévu si la commande partait avec la longueur du devis."
+          "heading": "Comment passer de « j’ai dû me tromper » à une vérification précise ?",
+          "points": [
+            {
+              "heading": "La crainte peut arriver avant la comparaison",
+              "text": "Un écart rappelle parfois des erreurs redoutées et la première explication vient avant les preuves.",
+              "examples": [
+                "Lison voit des chiffres inversés et pense aussitôt que l’erreur vient d’elle.",
+                "Une personne peut croire qu’elle a donné le mauvais montant avant de relire le message envoyé."
+              ]
+            },
+            {
+              "heading": "Chaque document répond à une question différente",
+              "text": "Comparer la demande et l’offre aide à retrouver à quel endroit le chiffre a changé.",
+              "examples": [
+                "Lison revient à la quantité qu’elle avait confirmée par écrit.",
+                "Un relevé daté peut être correct même si une valeur différente apparaît dans le devis suivant."
+              ]
+            },
+            {
+              "heading": "Le contrôle permet de demander une action",
+              "text": "Une fois l’écart localisé, la personne peut faire corriger le document sans trancher sur sa compétence.",
+              "examples": [
+                "Lison interrompt la validation et montre les deux lignes à Nora.",
+                "Le fournisseur peut envoyer une version corrigée que l’atelier contrôle avant l’achat."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une seule version prête à partir",
-          "text": "Lison peut isoler la ligne du devis, la demande écrite et la quantité validée dans le dossier d’atelier. Le courriel établit ce qui a été transmis par écrit. Nora peut suspendre la signature de ce devis le temps de faire corriger l’écart.\n\nLison peut préparer une demande de correction brève avec les deux longueurs, puis relire la réponse avec Nora avant toute validation. La correction se fait sur le devis du fournisseur, pas en changeant à la main la copie que l’atelier garde. Ensuite, l’ancienne version reste identifiée comme telle ; une seule doit servir au lancement de la commande et à la réception. Ce contrôle porte sur les documents et sur la décision d’achat. Lison garde la main sur les échanges et Nora décide au nom de l’atelier. Une fois la réponse validée, elles peuvent convenir du contrôle suivant et fermer le dossier pour la journée. Lison pourra reprendre à cette étape plutôt que se fier à sa mémoire."
+          "heading": "3 techniques pour vérifier un écart avant d’en attribuer la cause",
+          "points": [
+            {
+              "heading": "Suspendre la validation au bon moment",
+              "objective": "Empêcher qu’une valeur douteuse parte en commande.",
+              "exercise": [
+                "Marquez la ligne où vous avez vu l’écart.",
+                "Prévenez la personne qui valide.",
+                "Attendez la comparaison avant de signer ou d’envoyer."
+              ],
+              "benefit": "L’atelier garde le temps d’établir ce que chaque document indique."
+            },
+            {
+              "heading": "Retrouver la demande qui fait foi",
+              "objective": "Comparer les traces sur la même quantité.",
+              "exercise": [
+                "Ouvrez le message envoyé et le devis reçu.",
+                "Mettez en regard la quantité, l’unité et la référence.",
+                "Relevez la différence dans une phrase qui décrit les deux valeurs."
+              ],
+              "benefit": "La demande de correction peut partir de faits vérifiables."
+            },
+            {
+              "heading": "Identifier clairement la version validée",
+              "objective": "Éviter qu’un ancien devis revienne dans la suite du dossier.",
+              "exercise": [
+                "Vérifiez la ligne sur le devis corrigé.",
+                "Faites confirmer l’achat par la personne responsable.",
+                "Classez à part la version précédente et notez la prochaine vérification."
+              ],
+              "benefit": "La réception pourra partir du bon document."
+            }
+          ]
         }
       ],
       "ending": "Farah répond avant midi avec un nouveau devis. Lison compare la ligne du sergé : 1,85 m d’un seul tenant, B17, 140 cm. Nora vérifie aussi la toile ardoise et autorise la commande. Lison envoie la version validée sur instruction de Nora ; la confirmation du fournisseur arrive avant la pause. Elle classe le premier devis dans « anciennes versions » et note le prochain point : réception, mardi. Dehors, son sandwich a un coin tout aplati. Elle l’avait laissé sous la pochette du devis. Elle le sort sans reprendre son téléphone et va manger sur la marche où il reste un peu de soleil.",
@@ -280,7 +621,8 @@
         "next": "La commande est confirmée pour une réception mardi : 6 m d’ardoise et 1,85 m continu de sergé ocre B17 de 140 cm de large."
       },
       "clinical_focus": "Autoaccusation après une erreur redoutée",
-      "clinical_intro": "Lison voit deux chiffres inversés sur le devis et suppose aussitôt qu’elle s’est trompée. En revenant à sa demande écrite, elle retrouve le métrage convenu et peut demander au fournisseur de corriger le document. Sa peur de mal lire un nombre est compréhensible au vu de ses difficultés passées. La comparaison des traces lui permet d’identifier l’écart et d’agir dessus."
+      "clinical_intro": "Lison voit deux chiffres inversés sur le devis et suppose aussitôt qu’elle s’est trompée. En revenant à sa demande écrite, elle retrouve le métrage convenu et peut demander au fournisseur de corriger le document. Sa peur de mal lire un nombre est compréhensible au vu de ses difficultés passées. La comparaison des traces lui permet d’identifier l’écart et d’agir dessus.",
+      "conclusion": "Le premier doute de Lison ne désignait pas l’origine de l’écart. La demande écrite lui permet d’arrêter la validation et d’obtenir une correction. Le dossier contient maintenant la version que l’atelier pourra contrôler à la réception."
     },
     {
       "number": 7,
@@ -298,17 +640,73 @@
         {
           "role": "explanation",
           "heading": "Le suivi peut partir de l’effort autant que du résultat",
-          "text": "L’effort nécessaire pour maintenir un résultat fait partie du retentissement possible d’un trouble des apprentissages. L’OMS décrit des situations où le niveau de fonctionnement paraît satisfaisant grâce à un surcroît marqué de temps, de soutien ou d’effort. Les exigences d’une formation professionnelle peuvent rendre certaines difficultés plus visibles. Lison en parle avec une orthophoniste qui connaît son diagnostic. Elle a déjà vécu des échanges entre l’école et les professionnels lorsqu’elle était plus jeune. Le guide de la HAS sur les troubles spécifiques du langage et des apprentissages explique cette coordination pendant l’enfance, notamment pour le calcul. Les décisions de suivi à vingt ans se prennent à partir des besoins de la personne adulte et de son contexte actuel."
+          "text": "L’effort nécessaire pour maintenir un résultat fait partie du retentissement possible d’un trouble des apprentissages. L’OMS décrit des situations où le niveau de fonctionnement paraît satisfaisant grâce à un surcroît marqué de temps, de soutien ou d’effort. Les exigences d’une formation professionnelle peuvent rendre certaines difficultés plus visibles. Lison en parle avec une orthophoniste qui connaît son diagnostic. Elle a déjà vécu des échanges entre l’école et les professionnels lorsqu’elle était plus jeune. Le guide de la HAS sur les troubles spécifiques du langage et des apprentissages explique cette coordination pendant l’enfance, notamment pour le calcul. Les décisions de suivi à vingt ans se prennent à partir des besoins de la personne adulte et de son contexte actuel.\n\nLe devis que voit Mme Vasseur est juste. Lison peut néanmoins raconter les contrôles, les reprises et la difficulté à retrouver où elle en était. La qualité du résultat et l’effort nécessaire pour l’obtenir donnent deux informations utiles pour discuter du suivi et des appuis au travail."
         },
         {
           "role": "manifestations",
-          "heading": "Une soirée ne figure sur aucun bon de commande",
-          "text": "Lison peut terminer une tâche précise au travail et continuer à s’en inquiéter pendant son temps libre. Ce détail change ce qu’elle veut raconter au rendez-vous. Elle a su corriger une différence entre des documents et obtenir la bonne version du devis. Ce qui la gêne maintenant, c’est l’énergie prise par la crainte d’avoir encore quelque chose à corriger. En France, l’orthophonie peut porter sur la cognition mathématique à tout âge. La professionnelle peut examiner avec Lison les difficultés qu’elle rapporte et discuter des objectifs de suivi. Nora n’a pas à trancher une question clinique ; elle peut agir sur l’ordre des demandes et la façon de vérifier à l’atelier."
+          "heading": "Comment rendre visible l’effort derrière un résultat juste ?",
+          "points": [
+            {
+              "heading": "Le document fini cache les essais précédents",
+              "text": "Une version correcte ne montre pas toujours le temps ou les soutiens qui ont permis de l’obtenir.",
+              "examples": [
+                "La bonne ligne du devis ne montre ni le patron repris ni les mesures comparées.",
+                "Un total peut être juste après plusieurs vérifications dont le lecteur ne voit que la dernière."
+              ]
+            },
+            {
+              "heading": "Le coût se remarque lorsqu’il faut reprendre",
+              "text": "Après une interruption, retrouver la donnée et le point du calcul peut demander une partie du travail de nouveau.",
+              "examples": [
+                "Lison veut ajouter une case « où reprendre ? » au dessin qu’elle montre à l’orthophoniste.",
+                "Une personne peut savoir qu’un relevé est fait et devoir relire toute la fiche pour retrouver la dernière ligne contrôlée."
+              ]
+            },
+            {
+              "heading": "Le cabinet et l’atelier n’ont pas besoin des mêmes détails",
+              "text": "La personne peut décrire son vécu au professionnel et proposer au travail un appui concret.",
+              "examples": [
+                "Lison discute de l’effort avec Mme Vasseur.",
+                "Elle choisit de montrer à Nora la case qui pourrait servir à la réception."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer une fin de tâche que l’on puisse retrouver",
-          "text": "Pour la réception, Lison peut essayer une trace de reprise : la dernière étape contrôlée, la question qui reste et la personne qui doit y répondre. Le format peut rester court. Si un doute revient le soir, elle pourra se souvenir qu’un point a un responsable et un moment prévu, même si cela ne fait pas disparaître l’inquiétude à coup sûr. Elle peut décrire ce qu’elle observe à son orthophoniste lors d’un prochain rendez-vous. À Nora, elle peut proposer seulement le changement utile au travail, sans raconter les échanges au cabinet. Si les appuis de formation et ceux de l’atelier doivent être mieux accordés, Lison peut aussi demander à connaître les interlocuteurs de son organisme de formation."
+          "heading": "3 techniques pour parler d’effort quand le résultat ne le montre pas",
+          "points": [
+            {
+              "heading": "Raconter les étapes derrière le chiffre",
+              "objective": "Décrire une difficulté de travail à partir d’un exemple.",
+              "exercise": [
+                "Choisissez un calcul terminé.",
+                "Notez où vous avez repris, vérifié ou demandé de l’aide.",
+                "Apportez au rendez-vous ce que vous souhaitez raconter de cet exemple."
+              ],
+              "benefit": "L’orthophoniste peut considérer l’effort et ses effets sur la tâche."
+            },
+            {
+              "heading": "Préparer une case de reprise",
+              "objective": "Garder la trace de ce qui reste à vérifier.",
+              "exercise": [
+                "Écrivez le nom de la tâche en haut de la fiche.",
+                "Prévoyez un espace pour la dernière étape confirmée.",
+                "Notez l’action suivante lorsque vous vous arrêtez."
+              ],
+              "benefit": "La prochaine reprise ne dépend pas du souvenir de tout le calcul."
+            },
+            {
+              "heading": "Discuter d’un appui dans le cadre où il sera utilisé",
+              "objective": "Distinguer la question clinique du besoin d’atelier.",
+              "exercise": [
+                "Choisissez l’appui que vous voulez essayer au travail.",
+                "Présentez son usage à la tutrice.",
+                "Décidez ensemble quand vous reviendrez sur son effet."
+              ],
+              "benefit": "L’atelier peut examiner l’utilité du repère sans recevoir le détail du suivi."
+            }
+          ]
         }
       ],
       "ending": "Mme Vasseur lui demande par quelle tâche elle commencerait. Lison écrit « réception » en haut de son dessin et, en bas, « où reprendre ? ». Elle décide qu’elle montrera cette dernière case à Nora. En rangeant le papier, elle fait glisser de sa poche une carte qu’elle a prise à l’imprimerie. C’est le tirage réussi de samedi, avec juste assez de blanc entre les lettres de la vitrine. Lison le remet dans son portefeuille à l’endroit, contre sa carte de transport. Ce soir, elle enverra la photo à Alba : il faut qu’elles en tirent plusieurs.",
@@ -327,7 +725,8 @@
         "next": "Mardi, Lison propose à Nora le repère de reprise. Alba a un bon tirage de samedi à reproduire plus tard."
       },
       "clinical_focus": "Retentissement et effort compensatoire",
-      "clinical_intro": "Chez l’orthophoniste, Lison raconte le temps passé à reprendre un devis dont le montant était juste. Dans un trouble des apprentissages, un résultat satisfaisant peut reposer sur un surcroît durable d’effort ou d’appuis. Lison souhaite pouvoir interrompre un contrôle sans devoir refaire toute la suite le samedi. Elle choisit d’essayer un repère pour la réception des tissus."
+      "clinical_intro": "Chez l’orthophoniste, Lison raconte le temps passé à reprendre un devis dont le montant était juste. Dans un trouble des apprentissages, un résultat satisfaisant peut reposer sur un surcroît durable d’effort ou d’appuis. Lison souhaite pouvoir interrompre un contrôle sans devoir refaire toute la suite le samedi. Elle choisit d’essayer un repère pour la réception des tissus.",
+      "conclusion": "Lison apporte au cabinet le travail que le devis fini ne montre pas. Elle repart avec une case à essayer pour la réception et choisit ce qu’elle en dira à Nora. La carte dans son portefeuille lui rappelle un autre résultat dont elle a envie de parler avec Alba."
     },
     {
       "number": 8,
@@ -349,13 +748,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Finir seule et rendre un dossier utilisable",
-          "text": "Lison voulait remettre une livraison fermée à Nora. Sa peur de ne pas y arriver la pousse d’abord à tout garder dans sa tête, y compris la demande venue de la porte. En marquant « mesuré », elle garde le bénéfice de son travail. En signalant le coupon en attente, elle transmet une décision que l’atelier doit prendre. Le fournisseur propose un reliquat de 35 cm ; le tissu reçu et le morceau annoncé totaliseraient bien 185 cm. Il reste à savoir si la découpe peut se faire à partir de deux morceaux. Jusqu’à ce que cette question soit examinée, le coupon d’ocre ne rejoint pas les tissus disponibles à la coupe."
+          "heading": "Comment une interruption peut-elle relancer des vérifications déjà faites ?",
+          "points": [
+            {
+              "heading": "Un écart ouvre une deuxième question",
+              "text": "Quand une livraison diffère de la commande, mesurer ce qui est arrivé et vérifier ce qui reste dû sont deux actions séparées.",
+              "examples": [
+                "Le coupon d’ocre ne correspond pas au métrage continu commandé.",
+                "Le complément annoncé par le fournisseur ne se trouve pas dans le carton que Lison vient d’ouvrir."
+              ]
+            },
+            {
+              "heading": "Perdre sa place peut faire recommencer une mesure",
+              "text": "Une interruption peut séparer le relevé de sa trace. La personne doit alors retrouver l’étape confirmée et celle qui reste ouverte.",
+              "examples": [
+                "Lison ne retrouve plus l’endroit de la fiche où elle s’était arrêtée.",
+                "Elle reprend le coupon et retrouve la même mesure sans que cela réponde à la question du complément."
+              ]
+            },
+            {
+              "heading": "Un relais identifié arrête la répétition",
+              "text": "Une fois l’écart documenté, une autre personne peut traiter le dossier sans recommencer le relevé.",
+              "examples": [
+                "Nora met l’ocre de côté avec la pancarte de retour.",
+                "Le devis et le bordereau restent dans la même pochette pour le point du lendemain."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire passer le point bloqué à la bonne personne",
-          "text": "Lison peut séparer « reçu et vérifié », « reçu mais en attente » et « annoncé ». Une note de reprise dit ce qu’elle a constaté et à qui elle l’a transmis, avec l’heure du prochain point. Ici, elle peut finir le contrôle de la toile et demander à Nora de garder l’ocre de côté jusqu’à la décision sur la continuité du coupon. Un créneau prévu ou un autre relais permet d’avancer même quand Ilyès est pris. Dans ce genre d’essai, les repères d’organisation et l’aide d’un collègue peuvent être ajustés ensemble. L’équipe conserve un contrôle sur les conséquences de l’écart ; Lison garde la conduite du suivi."
+          "heading": "3 techniques pour reprendre un contrôle sans tout recommencer",
+          "points": [
+            {
+              "heading": "Noter ce qui est présent et ce qui est annoncé",
+              "objective": "Éviter de compter un produit qui n’a pas été livré.",
+              "exercise": [
+                "Inscrivez la longueur réellement mesurée.",
+                "Notez à part le complément annoncé et d’où vient l’information.",
+                "Laissez en suspens l’acceptation du produit jusqu’au contrôle prévu."
+              ],
+              "benefit": "La fiche distingue les deux états du dossier."
+            },
+            {
+              "heading": "Marquer l’endroit exact où l’on s’arrête",
+              "objective": "Préserver le résultat avant de quitter la tâche.",
+              "exercise": [
+                "Cochez la dernière ligne confirmée.",
+                "Écrivez l’étape qui reste à faire.",
+                "Gardez les références ensemble pour la reprise."
+              ],
+              "benefit": "Un retour à la fiche peut remplacer une nouvelle mesure quand rien n’a changé."
+            },
+            {
+              "heading": "Donner la suite à la personne responsable",
+              "objective": "Éviter de porter seule une décision de retour.",
+              "exercise": [
+                "Montrez à la tutrice la ligne du devis et le relevé reçu.",
+                "Convenez de ce qui doit rester intact et qui traite l’écart.",
+                "Fixez le point où la décision sera reprise avec l’équipe."
+              ],
+              "benefit": "Le contrôle trouve une suite sans que le coupon soit utilisé trop tôt."
+            }
+          ]
         }
       ],
       "ending": "Nora vient pendant qu’elle remet le bordereau à plat. Lison lui montre d’abord la toile prête, puis la ligne de l’ocre. Nora pose sur le coupon la pancarte que l’atelier utilise pour les retours et note l’écart dans le dossier fournisseur. Elles fixent un point le lendemain avant le premier essayage ; Nora demandera à Ilyès s’il peut être disponible pour poser les gabarits. Lison pourra ensuite transmettre la demande de l’atelier. Elle glisse le bordereau avec le devis, dans la même pochette. Quand on revient la chercher pour préparer l’essayage, elle sait où elle s’arrête et ce que Nora reprend.",
@@ -372,7 +827,8 @@
         "next": "Le lendemain, elles doivent vérifier si 150 cm reçus et 35 cm annoncés peuvent remplacer les 185 cm commandés d’un seul tenant."
       },
       "clinical_focus": "Doute et charge de vérification",
-      "clinical_intro": "À la livraison, Lison mesure 150 centimètres d’ocre et s’apprête à cocher la case de conformité. Elle s’arrête pour distinguer ce qu’elle a vérifié de la décision qui reste à prendre avec Nora. Un relevé écrit lui évite de garder en tête le nombre, le statut du coupon et la question du reliquat. Elle peut transmettre un problème précis et reprendre ensuite le dossier."
+      "clinical_intro": "À la livraison, Lison mesure 150 centimètres d’ocre et s’apprête à cocher la case de conformité. Elle s’arrête pour distinguer ce qu’elle a vérifié de la décision qui reste à prendre avec Nora. Un relevé écrit lui évite de garder en tête le nombre, le statut du coupon et la question du reliquat. Elle peut transmettre un problème précis et reprendre ensuite le dossier.",
+      "conclusion": "Lison sait ce qu’elle a reçu et ce qui n’est encore qu’annoncé. Nora marque le coupon et prend en charge l’écart. Elles pourront examiner demain si les longueurs proposées permettent de placer les pièces prévues."
     },
     {
       "number": 9,
@@ -390,17 +846,73 @@
         {
           "role": "explanation",
           "heading": "Donner une forme visible à un problème de quantités",
-          "text": "Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits."
+          "text": "Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits.\n\nLe trouble des apprentissages en mathématiques peut rendre certaines étapes de calcul ou de raisonnement plus coûteuses. Le gabarit aide ici Lison à vérifier une autre dimension du problème, la possibilité d’obtenir quatre bandes dans le tissu réel. Son essai donne à l’équipe un argument vérifiable pour demander l’échange."
         },
         {
           "role": "manifestations",
-          "heading": "Dire oui à une somme et poser une autre question",
-          "text": "L’assurance de Farah fait revenir le doute de Lison. Elle a peur de donner l’impression de contester une addition simple. L’OMS rappelle que le trouble des apprentissages avec déficit en mathématiques peut concerner diverses compétences et que les difficultés varient selon les exigences. Lison s’appuie ici sur un raisonnement lié à son métier. Elle sait pourquoi les bandes doivent tenir entières et trouve une façon de le montrer. Staller et ses collègues ont recueilli des récits d’appréhension dans des situations où des chiffres devaient être traités sur le moment. Lison peut éprouver cette gêne et reprendre sa place dans l’échange dès qu’elle retrouve sa question."
+          "heading": "Comment un total juste peut-il cacher une quantité inutilisable ?",
+          "points": [
+            {
+              "heading": "Additionner ne dit pas comment la matière se répartit",
+              "text": "Deux coupons peuvent totaliser la longueur commandée sans fournir une pièce de cette longueur.",
+              "examples": [
+                "Les 150 cm et les 35 cm donnent bien 185 cm mais restent deux coupons.",
+                "Une réserve peut compléter le total sans prolonger le bord d’un autre morceau."
+              ]
+            },
+            {
+              "heading": "Le gabarit rend la contrainte perceptible",
+              "text": "Poser chaque forme montre combien de pièces complètes tiennent réellement dans chaque morceau.",
+              "examples": [
+                "Deux bandes de 60 cm tiennent dans les 150 cm et une dans les 75 cm de réserve.",
+                "Les 35 cm proposés ne peuvent contenir aucune bande entière de 60 cm."
+              ]
+            },
+            {
+              "heading": "La marge ne répond pas à toutes les contraintes",
+              "text": "Une réserve pour ajuster une coupe n’assemble pas des chutes en une bande continue.",
+              "examples": [
+                "Les vingt centimètres de marge sont utiles après placement des quatre bandes.",
+                "Une chute permet de regarder le rendu de la couleur sans fournir la matière des vrais revers."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner une trace au désaccord",
-          "text": "Lison peut envoyer la référence du devis accepté et une photo centrée sur ce qui doit être compris. Elle peut aussi préciser que le coupon reçu est intact et proposer, avec l’accord de Nora, qu’il soit repris. Pour préparer la suite, l’atelier a besoin d’une réponse sur le lot, la largeur, la longueur d’un seul tenant et la date de l’échange. Nora peut vérifier ces conditions, puis décider de ce qui peut avancer entre-temps. Ilyès a aidé à garder le dessin visible ; il n’a pas à porter la négociation. Si le fournisseur ne peut pas assurer l’échange, ce sera à l’atelier de revoir le patron, l’échéance ou le choix de matière."
+          "heading": "3 techniques pour vérifier ce qu’un total permet réellement de faire",
+          "points": [
+            {
+              "heading": "Écrire le besoin en pièces",
+              "objective": "Séparer le total des éléments à obtenir.",
+              "exercise": [
+                "Comptez le nombre de pièces nécessaires.",
+                "Inscrivez la longueur et la largeur utiles de chaque pièce.",
+                "Distinguez les pièces entières de la marge d’ajustement."
+              ],
+              "benefit": "La vérification porte sur ce qui doit être produit."
+            },
+            {
+              "heading": "Essayer le placement avant toute coupe",
+              "objective": "Comparer le calcul à la matière disponible.",
+              "exercise": [
+                "Disposez les gabarits sur chaque coupon sans couper.",
+                "Comptez les formes qui tiennent entièrement.",
+                "Montrez où une pièce manque malgré le total."
+              ],
+              "benefit": "Le partenaire peut vérifier la contrainte sur le support réel."
+            },
+            {
+              "heading": "Expliquer le besoin au fournisseur",
+              "objective": "Faire une demande précise sans multiplier les chiffres isolés.",
+              "exercise": [
+                "Photographiez le placement et joignez la référence du devis.",
+                "Précisez la longueur qui doit être d’un seul tenant.",
+                "Faites valider l’échange par la personne responsable avant de reprendre la coupe."
+              ],
+              "benefit": "Le fournisseur peut répondre à la contrainte exacte."
+            }
+          ]
         }
       ],
       "ending": "Lison photographie les gabarits et la règle, puis joint le numéro du devis. Avant l’essayage, Farah confirme par écrit un échange pour lundi : reprise du coupon intact et livraison de 185 cm d’un seul tenant, dans le lot et la largeur demandés. Nora approuve le retour. Elles pourront vérifier la coupe générale sur les toiles d’essai aujourd’hui ; les vrais revers attendront. Lison inscrit « échange lundi » sur la fiche et range la photo. Puis elle embarque une chute d’ocre à l’essayage. Une comédienne voudrait voir où apparaîtra la couleur quand elle lève le bras. Ça, elles peuvent déjà le regarder.",
@@ -417,7 +929,8 @@
         "next": "L’échange est confirmé pour lundi. L’atelier avance sur l’essayage en toile d’essai ; le coupon livré reste intact et les revers attendent la livraison continue."
       },
       "clinical_focus": "Raisonnement mathématique avec appui concret",
-      "clinical_intro": "Le fournisseur propose d’envoyer le métrage manquant séparément. Lison place les gabarits pour vérifier combien de bandes les coupons permettent de découper. La somme donne une quantité totale alors que le placement dépend aussi de la longueur de chaque morceau. Cette représentation concrète aide Lison à expliquer son raisonnement et à demander une solution qui convient aux quatre vestes."
+      "clinical_intro": "Le fournisseur propose d’envoyer le métrage manquant séparément. Lison place les gabarits pour vérifier combien de bandes les coupons permettent de découper. La somme donne une quantité totale alors que le placement dépend aussi de la longueur de chaque morceau. Cette représentation concrète aide Lison à expliquer son raisonnement et à demander une solution qui convient aux quatre vestes.",
+      "conclusion": "La somme n’était pas l’obstacle. Les gabarits montrent qu’il manque une bande entière et permettent à Lison d’obtenir un échange. L’atelier garde le coupon intact et avance sur les toiles d’essai pendant que les vrais revers attendent."
     },
     {
       "number": 10,
@@ -439,13 +952,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le bon appui change avec la situation",
-          "text": "Lison a mis au point une fiche pour les quantités de tissu. Les cartes lui posent un autre problème : elle peut les déplacer, mais certaines sèchent et elle ne veut pas perdre leur ordre. Les difficultés peuvent persister à l’âge adulte et se manifester différemment selon les tâches et leurs exigences. Lison choisit de matérialiser les deux destinations au lieu de reprendre le modèle de l’atelier. Elle peut dire à Alba ce qui la gêne ici et demander une modification simple. Si elle souhaite raconter ce qu’elle vit avec la dyscalculie, ce sera un autre échange. Son amie peut comprendre une demande précise sans connaître son histoire scolaire."
+          "heading": "Comment l’humour peut-il aider à esquiver un calcul tout en coûtant une décision ?",
+          "points": [
+            {
+              "heading": "Une plaisanterie peut détourner la question",
+              "text": "Quelqu’un peut se protéger d’un moment inconfortable en faisant rire. La raison d’une plaisanterie appartient à la personne.",
+              "examples": [
+                "Lison reconnaît qu’elle voulait détourner la question du compte.",
+                "Une amie peut plaisanter sur le nombre de cartes pour laisser l’autre commencer à compter."
+              ]
+            },
+            {
+              "heading": "Passer la main peut emporter autre chose que le calcul",
+              "text": "Si le partenaire prend en charge toute la tâche, une décision à laquelle la personne tient peut lui échapper.",
+              "examples": [
+                "Lison veut encore choisir quels tirages porter au café.",
+                "Alba veut garder une version plus claire pour la librairie, un choix qui se discute à deux."
+              ]
+            },
+            {
+              "heading": "Un repère commun rend le compte partageable",
+              "text": "Un nombre posé sur des objets visibles laisse la place à d’autres décisions pendant l’échange.",
+              "examples": [
+                "Alba trace deux rangées et elles peuvent y placer les cartes.",
+                "Les deux piles de six donnent un compte à vérifier sans décider à elles seules du lieu de dépôt."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser une place pour la carte qui manque",
-          "text": "Les deux amies peuvent préparer six emplacements pour le café et six pour la librairie, puis déplacer les cartes une fois sèches. Elles peuvent vérifier ensemble s’il en manque et, au besoin, décider de tirer encore une carte, de faire deux piles plus petites ou de différer un dépôt. L’enjeu est de garder un accord sur ce qu’elles font, pas de réussir un compte à toute vitesse. Lison veut répartir les tirages les plus nets ; Alba peut lui dire lesquels elle préfère. Le dispositif laisse chacune participer à cette décision. Elles peuvent aussi le laisser de côté la prochaine fois si la situation est plus simple ou si une autre manière de faire leur convient mieux."
+          "heading": "3 techniques pour garder sa part d’un choix quand les chiffres gênent",
+          "points": [
+            {
+              "heading": "Revenir à ce que l’on veut décider",
+              "objective": "Dire ce qui compte derrière le nombre demandé.",
+              "exercise": [
+                "Repérez la décision que vous vouliez garder.",
+                "Dites-la après la plaisanterie ou à un moment plus calme.",
+                "Demandez de séparer ce choix du compte à vérifier."
+              ],
+              "benefit": "La discussion peut reprendre sur les deux sujets."
+            },
+            {
+              "heading": "Compter avec un appui commun",
+              "objective": "Faire du nombre un résultat que les deux peuvent voir.",
+              "exercise": [
+                "Tracez une place pour chaque groupe d’objets.",
+                "Remplissez les groupes avec le partenaire.",
+                "Vérifiez le nombre sans enlever les choix qui restent à faire."
+              ],
+              "benefit": "L’appui laisse du temps pour discuter des cartes."
+            },
+            {
+              "heading": "Répartir l’aide selon les envies",
+              "objective": "Garder un partage acceptable pour les deux personnes.",
+              "exercise": [
+                "Demandez qui souhaite compter et qui souhaite préparer les piles.",
+                "Indiquez ce que vous voulez décider ensemble.",
+                "Changez la répartition si l’une n’y trouve plus sa place."
+              ],
+              "benefit": "Le soutien reste un choix dans l’activité commune."
+            }
+          ]
         }
       ],
       "ending": "Alba trace au crayon deux rangées sur une grande feuille. Au moment de ranger, elles ont bien de quoi remplir les deux rangées. Lison réserve une carte où l’enseigne est impeccable pour le café et en montre une autre, plus claire, qu’Alba préfère pour la librairie. Elles glissent les deux piles dans des chemises pour le transport et laissent l’achat des enveloppes au lendemain. Quand Alba l’accompagne jusqu’à l’arrêt, Lison lui montre l’ancienne vitrine au bout de la rue. À cette heure, la porte est effectivement noire. Alba prend une photo ; Lison lui dit qu’il y a une autre boutique à graver près du pont.",
@@ -462,7 +1031,8 @@
         "next": "Deux piles de six sont prêtes pour les dépôts du samedi. L’échange d’ocre reste programmé pour lundi à l’atelier."
       },
       "clinical_focus": "Appréhension du calcul et protection sociale",
-      "clinical_intro": "À l’imprimerie, Lison pense faire une blague et laisser Alba compter les cartes. Elle préfère lui expliquer qu’elle perd le fil lorsqu’elles comptent tout en discutant de la répartition. Cette scène montre comment le doute lié aux nombres peut peser jusque dans un projet amical. Prévoir une place pour chaque carte donne un appui sans lui enlever la décision."
+      "clinical_intro": "À l’imprimerie, Lison pense faire une blague et laisser Alba compter les cartes. Elle préfère lui expliquer qu’elle perd le fil lorsqu’elles comptent tout en discutant de la répartition. Cette scène montre comment le doute lié aux nombres peut peser jusque dans un projet amical. Prévoir une place pour chaque carte donne un appui sans lui enlever la décision.",
+      "conclusion": "Les deux rangées donnent un moyen de compter, puis Lison et Alba choisissent chacune un tirage. Lison a pu garder sa part de la décision sans faire du nombre le seul sujet de la soirée. Elle pense déjà à une autre vitrine à graver."
     },
     {
       "number": 11,
@@ -484,13 +1054,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Travailler sous un regard ou comparer deux mesures",
-          "text": "Ce que Lison redoute est une présence qui transforme chaque geste en démonstration. Un contrôle indépendant répond à une autre question : retrouve-t-on la même longueur quand quelqu’un reprend le coupon et le devis ? Elle peut expliquer à Nora qu’elle préfère terminer la ligne avant d’en parler. Cela donne à Nora un moment où elle peut revenir et entendre ce que Lison a déjà vérifié. Lison peut également choisir de demander plus tôt une deuxième paire de mains si le coupon glisse. Aucun de ces choix n’est un jugement sur ses capacités ; ils organisent une vérification dont les conséquences touchent les quatre vestes."
+          "heading": "Comment choisir la vérification qui soutient l’autonomie ?",
+          "points": [
+            {
+              "heading": "Les opérations déjà connues ne demandent pas toutes un relais",
+              "text": "Une personne peut choisir de faire seule les étapes qu’elle sait retrouver et garder un contrôle sur un point précis.",
+              "examples": [
+                "Lison peut lire le lot, la largeur et la trace du retour sur ses supports.",
+                "La présence continue de Nora lui demanderait de travailler sous un regard dont elle n’a pas besoin à ce moment."
+              ]
+            },
+            {
+              "heading": "Un second relevé répond à une contrainte concrète",
+              "text": "Deux mesures réalisées séparément permettent de comparer un résultat important avant une décision d’atelier.",
+              "examples": [
+                "Ilyès mesure le coupon sans regarder la valeur de Lison.",
+                "Leurs deux relevés donnent 185 cm d’un seul tenant, condition nécessaire pour placer les trois bandes."
+              ]
+            },
+            {
+              "heading": "La responsabilité reste lisible",
+              "text": "Le contrôle partagé et la validation finale peuvent relever de personnes différentes.",
+              "examples": [
+                "Lison tient la fiche et montre le plan de coupe.",
+                "Nora valide la réception après avoir vérifié les relevés."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir quand tester plus d’autonomie",
-          "text": "Au lieu de retirer toutes les aides après un devis réussi, l’équipe peut essayer de réduire la présence d’un collègue sur les étapes stables. Lison peut relever seule les références et les dates, garder l’écrit et prévoir le contrôle à deux avant une commande ou une coupe qui engage le projet. Si une unité, une largeur ou un conditionnement change, elle pourra redemander un appui. Mon Parcours Handicap présente des aménagements d’organisation et des appuis humains en situation de formation. Dans cet atelier, les conditions précises sont convenues entre les personnes qui y travaillent. Elles peuvent en reparler si les tâches ou les besoins changent."
+          "heading": "3 techniques pour définir un contrôle qui laisse conduire la tâche",
+          "points": [
+            {
+              "heading": "Choisir ce qui peut être fait en premier",
+              "objective": "Définir la part que la personne veut mener seule.",
+              "exercise": [
+                "Listez les repères déjà disponibles.",
+                "Choisissez les relevés que vous pouvez faire avant le passage du partenaire.",
+                "Convenez de la manière de le joindre plus tôt si le doute apparaît."
+              ],
+              "benefit": "Le relais reste disponible sans occuper toute l’activité."
+            },
+            {
+              "heading": "Comparer deux résultats sur la même contrainte",
+              "objective": "Vérifier le point qui détermine la décision.",
+              "exercise": [
+                "Convenez du périmètre à mesurer.",
+                "Faites deux relevés sans copier le premier chiffre.",
+                "Comparez les valeurs et présentez-les à la personne qui valide."
+              ],
+              "benefit": "Le contrôle soutient la décision prévue par l’atelier."
+            },
+            {
+              "heading": "Inscrire la conséquence sur la fiche",
+              "objective": "Faire apparaître ce que le contrôle permet maintenant.",
+              "exercise": [
+                "Notez la quantité et la continuité confirmées.",
+                "Ajoutez la décision de la responsable.",
+                "Reportez l’étape autorisée sur le plan de travail."
+              ],
+              "benefit": "La personne peut poursuivre à partir d’un état clair."
+            }
+          ]
         }
       ],
       "ending": "Ilyès arrive après la pause. Sans regarder le chiffre inscrit par Lison, il mesure à son tour 185 cm continus. Avec Lison, il relit 140 cm de large et la référence B17 sur le devis et l’étiquette. Nora vérifie leurs relevés, valide la réception de l’ocre et classe le bordereau de retour que Lison lui tend. Lison remet le coupon de réserve à côté du nouveau. Sur le plan de coupe, elle montre où iront les trois bandes sur le coupon neuf et la quatrième sur celui de la réserve. Il restera vingt centimètres au total pour les petits ajustements. Elle écrit « contrôlé, disponible pour la coupe ». Ilyès lui demande s’ils gardent la petite chute de l’essai. « Oui, j’ai encore une idée pour elle. »",
@@ -507,7 +1133,8 @@
         "next": "Le remplacement de 185 cm d’un seul tenant est disponible avec les 75 cm de réserve. Le plan prévoit trois bandes dans le nouveau coupon et une dans l’ancien."
       },
       "clinical_focus": "Sentiment de compétence et vérification",
-      "clinical_intro": "Lison redoute qu’on la regarde mesurer le tissu à la réception. Elle propose de relever la longueur seule, puis de comparer sa mesure à celle qu’Ilyès prendra de son côté. Un contrôle préparé avec elle répond au besoin de fiabilité tout en lui laissant le temps nécessaire. La scène permet de distinguer l’appui utile et la pression qu’elle ressent quand quelqu’un attend son chiffre."
+      "clinical_intro": "Lison redoute qu’on la regarde mesurer le tissu à la réception. Elle propose de relever la longueur seule, puis de comparer sa mesure à celle qu’Ilyès prendra de son côté. Un contrôle préparé avec elle répond au besoin de fiabilité tout en lui laissant le temps nécessaire. La scène permet de distinguer l’appui utile et la pression qu’elle ressent quand quelqu’un attend son chiffre.",
+      "conclusion": "Lison choisit de faire le premier relevé et Ilyès contrôle la longueur avant la validation de Nora. Elle montre où iront les quatre bandes et garde la petite chute. La vérification lui permet de poursuivre la commande avec le rôle qu’elle a choisi."
     },
     {
       "number": 12,
@@ -529,13 +1156,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Faire le bilan sans se donner une note",
-          "text": "Lison et Nora peuvent revenir sur ce qui a réellement aidé. La mesure datée a évité de traiter une ancienne étiquette comme un stock confirmé. Le courriel a permis de retrouver le nombre transmis. Les gabarits ont montré ce que le total du fournisseur ne garantissait pas. Une aide est utile aussi quand elle évite de recommencer un travail le soir ou quand elle donne à une autre personne de quoi prendre un relais. Lison a en outre trouvé l’ocre qu’elle voulait pour le mouvement des vestes. Si le bilan ne porte que sur les chiffres, ce choix de costumière disparaît. Elle a besoin de pouvoir nommer les deux parts du travail."
+          "heading": "Comment garder des appuis pour le calcul après une commande réussie ?",
+          "points": [
+            {
+              "heading": "Un résultat reflète les conditions dans lesquelles il a été obtenu",
+              "text": "La personne peut avoir réussi une tâche avec du temps, des documents et des relais qui ont compté.",
+              "examples": [
+                "Lison a utilisé le dessin des mesures et les confirmations écrites pour suivre la commande.",
+                "Elle a pu vérifier le coupon avec Ilyès puis faire valider la réception par Nora."
+              ]
+            },
+            {
+              "heading": "Une nouvelle matière peut poser un autre problème",
+              "text": "Le métrage précédent ne se transpose pas automatiquement quand le patron, la largeur ou le motif change.",
+              "examples": [
+                "Les carreaux obligent l’atelier à revoir la disposition des pièces.",
+                "Lison demande encore un contrôle de la quantité avant le prochain devis."
+              ]
+            },
+            {
+              "heading": "Le métier ne se résume pas au calcul",
+              "text": "Le rendu du tissu et les choix de scène apportent d’autres informations que le métrage.",
+              "examples": [
+                "Lison vérifie le temps où l’ocre apparaît lorsque les comédiens tournent.",
+                "Elle garde une chute sur la planche d’échantillons pour une idée de costume future."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Emporter les appuis qui ont servi",
-          "text": "L’équipe peut conserver la fiche commune et le moment de vérification, puis décider sur la prochaine commande des étapes qui méritent un regard à deux. Lison peut être celle qui propose cette répartition et fixe quand la revoir. Si le temps passé à vérifier déborde encore sur ses soirées ou si une nouvelle tâche révèle un besoin différent, elle pourra l’aborder au suivi. Le référent handicap de son organisme de formation est aussi un interlocuteur possible si des appuis doivent être coordonnés entre la formation et l’atelier. Le bilan du jour peut rester concret : où la fiche sera rangée, qui peut y écrire et quand appeler quelqu’un avant qu’un engagement soit pris."
+          "heading": "3 techniques pour reconduire les appuis utiles dans un nouveau projet",
+          "points": [
+            {
+              "heading": "Identifier ce qui a servi",
+              "objective": "Retenir les outils et accords qui ont réellement facilité la tâche.",
+              "exercise": [
+                "Reprenez une difficulté du dernier dossier.",
+                "Nommez le support ou le relais qui a permis de poursuivre.",
+                "Décidez ce que vous voulez rendre disponible pour le prochain devis."
+              ],
+              "benefit": "L’expérience devient un point de départ réutilisable."
+            },
+            {
+              "heading": "Rouvrir les calculs propres au nouveau patron",
+              "objective": "Vérifier les paramètres avant de reprendre un ancien chiffre.",
+              "exercise": [
+                "Repérez ce qui change dans le tissu ou la disposition.",
+                "Réservez un moment pour reprendre le patron avec les mesures du nouveau projet.",
+                "Faites contrôler la quantité avant la validation du devis."
+              ],
+              "benefit": "La décision tient compte de la commande réelle."
+            },
+            {
+              "heading": "Faire un bilan à partir de deux résultats",
+              "objective": "Reconnaître à la fois le travail numérique et le rendu souhaité.",
+              "exercise": [
+                "Notez un point de vérification utile pour la prochaine commande.",
+                "Conservez un repère du résultat en scène.",
+                "Choisissez la décision que vous souhaitez préparer vous-même ensuite."
+              ],
+              "benefit": "Le bilan aide à poursuivre son métier en gardant les appuis nécessaires."
+            }
+          ]
         }
       ],
       "ending": "Nora inscrit un rendez-vous à la table de coupe pour le nouveau patron. Lison ferme le dossier du Quai de nuit et le range dans la caisse qui retourne à l’atelier. Avant de quitter la salle, elle prend dans la poche de son tablier la chute mise de côté et l’épingle près du projecteur de travail sur leur planche d’échantillons. Elle veut s’en souvenir pour un autre costume. La régisseuse propose un dernier passage. Lison retourne au dernier rang et fait signe qu’elle est prête. Les quatre comédiens se tournent ; à cette distance, l’ocre dure exactement le temps qu’elle espérait.",
@@ -552,7 +1235,8 @@
         "next": "Les quatre vestes sont essayées sous les projecteurs. La fiche et les relais restent disponibles pour la prochaine commande, dont le patron et la largeur seront repris à la table de coupe."
       },
       "clinical_focus": "Autonomie et persistance des difficultés",
-      "clinical_intro": "Les quatre vestes sont prêtes et Lison voit enfin comment l’ocre apparaît sous les projecteurs. Pour la commande suivante, elle demande encore une vérification du métrage avant le devis. Un trouble durable du calcul peut coexister avec une maîtrise croissante du métier. La réussite lui donne des informations sur les aides qu’elle veut conserver et les décisions qu’elle peut préparer seule."
+      "clinical_intro": "Les quatre vestes sont prêtes et Lison voit enfin comment l’ocre apparaît sous les projecteurs. Pour la commande suivante, elle demande encore une vérification du métrage avant le devis. Un trouble durable du calcul peut coexister avec une maîtrise croissante du métier. La réussite lui donne des informations sur les aides qu’elle veut conserver et les décisions qu’elle peut préparer seule.",
+      "conclusion": "Les vestes montrent l’ocre pendant le temps que Lison avait imaginé. Elle clôt la commande avec une fiche et des relais qu’elle pourra reprendre. Le nouveau métrage aura son contrôle, et la chute restera sur la planche pour une autre idée."
     }
   ]
 }

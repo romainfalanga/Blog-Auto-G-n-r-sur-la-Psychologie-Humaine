@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Surcharge sensorielle et effort pour suivre la parole",
-          "text": "Le mode de communication qui convient à une personne peut varier selon le lieu et le moment. Nour utilise la parole et l’écrit. Dans la salle des retours, elle choisit le document partagé pour faire apparaître une question qui lui échappe entre deux changements de sujet. Le texte garde sa précision et son humour. Ses collègues peuvent relire le nom des rues avant de lui répondre."
+          "heading": "Suivre une conversation qui n’attend pas",
+          "text": "Une conversation de groupe peut être plus ou moins accessible selon le rythme des tours de parole, le bruit et le format de réponse. Chez Nour, qui est autiste, un choc dans le couloir suffit à lui faire perdre le nom de la rue dont on parle. Le groupe avance pendant qu’elle essaie de retrouver ce repère. En écrivant dans le document commun, elle rend sa question et son humour accessibles aux collègues."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nour se dit autiste. Son diagnostic est connu depuis plusieurs années. L’autisme, classé parmi les troubles du neurodéveloppement dans la CIM-11 sous le code 6A02, peut concerner la communication et les interactions, la manière de composer avec les changements et les expériences sensorielles. Les profils et les besoins diffèrent largement. La façon dont Nour contribue à cette réunion raconte ce qu’elle fait de l’écrit dans une situation précise. D’autres personnes préfèrent d’autres formats, parfois au sein d’une même journée."
+          "heading": "Comment une discussion de groupe devient-elle difficile à suivre ?",
+          "points": [
+            {
+              "heading": "Des bruits et des voix se disputent l’attention",
+              "text": "Quand plusieurs sons arrivent en même temps, isoler une information et la garder en mémoire peut demander plus d’effort.",
+              "examples": [
+                "Près du monte-charge, le chariot heurte le seuil pendant que la collègue donne un nom de rue.",
+                "Nour essaie de retrouver lequel des deux noms elle vient d’entendre alors que la conversation continue."
+              ]
+            },
+            {
+              "heading": "Le bon moment pour intervenir se referme",
+              "text": "Une question peut rester sans place quand chacun enchaîne avant que la personne ait retrouvé ce qu’elle veut dire.",
+              "examples": [
+                "Nour attend un instant plus calme pour reprendre son adresse.",
+                "Quand elle ouvre la bouche, quelqu’un est déjà en train de passer à la légende suivante."
+              ]
+            },
+            {
+              "heading": "Le format change ce que les autres peuvent entendre",
+              "text": "La contribution peut être précise à l’écrit alors que la réponse spontanée en groupe est difficile à préparer.",
+              "examples": [
+                "Nour pose sa question dans le document et fait rire une collègue avec le livreur de parapluies.",
+                "Les deux adresses visibles côte à côte lui permettent de reprendre la conversation sur la photo."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place à la question écrite",
-          "text": "Nour demande à sa collègue si elles peuvent laisser le commentaire ouvert jusqu’à ce que quelqu’un ait revu l’adresse. Elle propose de reporter la réponse dans le même document. Si elle manque la fin de l’échange dans le bruit, elle saura où retrouver la décision. Sa collègue peut indiquer le point qui lui manque et laisser à Nour le choix d’y répondre de vive voix ou par écrit.\n\nLe NICE, dans ses recommandations britanniques pour l’accompagnement des adultes autistes, demande de rendre la communication accessible selon les besoins de la personne. Les collègues de Nour peuvent s’inspirer de ce principe pour la réunion. Ils peuvent lire les questions écrites avec la même attention que les questions posées à voix haute. Si la salle change encore, la personne qui organise peut préciser où et quand ils reprennent. Nour pourra dire ce qui lui sert sans avoir à expliquer son diagnostic."
+          "heading": "3 techniques pour ouvrir une place dans un échange de groupe",
+          "points": [
+            {
+              "heading": "Garder les noms devant soi",
+              "objective": "Rendre visible le renseignement qui se perd entre deux prises de parole.",
+              "exercise": [
+                "Écrivez les noms ou les options examinées dans un support lisible par les participants.",
+                "Demandez que l’on montre celui dont il est question.",
+                "Vérifiez votre interprétation en posant la question à partir du texte."
+              ],
+              "benefit": "Le groupe retrouve le même sujet sans demander à chacun de retenir chaque mot entendu."
+            },
+            {
+              "heading": "Ouvrir un tour avant de changer de sujet",
+              "objective": "Donner une place à une intervention qui prend un peu de temps.",
+              "exercise": [
+                "Demandez à la personne qui anime de marquer une pause avant le point suivant.",
+                "Indiquez votre question à l’oral ou dans le document, selon ce qui vous convient.",
+                "Faites préciser quand elle recevra une réponse si elle doit être reprise plus tard."
+              ],
+              "benefit": "Une contribution peut entrer dans la discussion même si elle n’arrive pas au premier tour."
+            },
+            {
+              "heading": "Rendre le document utilisable pendant la réunion",
+              "objective": "Faire de l’écrit un mode de participation reconnu.",
+              "exercise": [
+                "Choisissez où les participants peuvent écrire leurs questions.",
+                "Convenez que quelqu’un les regardera avant la décision.",
+                "Répondez directement à la personne qui écrit plutôt que de faire parler quelqu’un pour elle."
+              ],
+              "benefit": "Le support peut donner accès à l’échange sans effacer la voix de la personne."
+            }
+          ]
         }
       ],
       "ending_title": "Deux adresses au dos d’une photo",
@@ -52,7 +108,8 @@
         "next": "Fatou et Nour vont chercher les deux entrées de la cour avec des voisins."
       },
       "clinical_focus": "Communication sociale en réunion",
-      "clinical_intro": "Dans une salle de réunion plus bruyante que prévu, Nour peine à suivre les noms de rue qui circulent dans la conversation. Les voir écrits l’aide à retrouver son idée sur la photo. Cette scène montre comment le bruit, la vitesse des échanges et le format de réponse peuvent modifier la participation d’une personne autiste."
+      "clinical_intro": "Dans une salle de réunion plus bruyante que prévu, Nour peine à suivre les noms de rue qui circulent dans la conversation. Les voir écrits l’aide à retrouver son idée sur la photo. Cette scène montre comment le bruit, la vitesse des échanges et le format de réponse peuvent modifier la participation d’une personne autiste.",
+      "conclusion": "Les deux adresses sorties de la réunion donnent à Nour une nouvelle question sur le trajet de l’enseigne. Elle a pu contribuer quand les mots sont devenus visibles. Le problème tenait à la façon dont la discussion se déroulait autant qu’au bruit du couloir."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le bruit change ce que permet un lieu",
-          "text": "Une personne peut vouloir participer à une sortie et avoir besoin de s’écarter de certains sons. Les particularités sensorielles décrites dans l’autisme sont variées. Certains bruits deviennent difficiles à supporter pour une personne, tandis qu’une autre remarque peu ces bruits ou rencontre des difficultés ailleurs."
+          "heading": "Quand un son prend trop de place",
+          "text": "Les particularités sensorielles de l’autisme peuvent rendre certains sons très difficiles à supporter. Elles varient selon la personne, le bruit et le contexte. Au marché, Nour entend bien le raclement répété des caisses. Elle perd pourtant des morceaux de l’histoire racontée à côté d’elle et finit par vouloir changer de rue. Le lieu et la possibilité de s’en écarter comptent dans ce qu’elle peut faire de sa visite."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nour apprécie l’animation quand elle peut s’éloigner et entend mal Fatou au milieu des chocs répétés sur les pavés. Le détour lui permet de choisir ce qu’elle veut continuer à voir.\n\nLe NICE propose de tenir compte de l’environnement physique et d’adapter les conditions de l’accompagnement si nécessaire. Pour la visite, Nour peut appliquer cette idée à son propre projet. Un passage qui lui convient un matin calme peut lui demander davantage les jours de marché. Le plan gagne à préciser où se trouve la rue animée, quand elle est occupée et par où il est possible de revenir. Chacun pourra utiliser ces indications selon ses besoins."
+          "heading": "Comment la sensibilité aux sons change-t-elle le trajet ?",
+          "points": [
+            {
+              "heading": "Un bruit revient sans qu’on puisse choisir le moment",
+              "text": "Un son peut être difficile par sa répétition et sa proximité, même s’il fait partie du décor pour les autres.",
+              "examples": [
+                "À l’Ancienne Halle, la caisse vide racle les pavés chaque fois que le marchand revient.",
+                "Une personne peut accepter de traverser une rue calme et vouloir la quitter dès qu’un chariot passe à plusieurs reprises devant elle."
+              ]
+            },
+            {
+              "heading": "La parole devient plus difficile à entendre",
+              "text": "L’attention prise par le bruit laisse moins de place à une conversation ou à l’observation d’un lieu.",
+              "examples": [
+                "Nour entend le nom de la rue au début de l’explication de Fatou et perd la suite.",
+                "Elle range la photo près de la vitrine alors qu’elle voulait la comparer à l’ancienne porte."
+              ]
+            },
+            {
+              "heading": "Le retrait peut être temporaire et choisi",
+              "text": "S’écarter d’un bruit peut aider à poursuivre une partie de l’activité autrement.",
+              "examples": [
+                "Nour écrit qu’elle reprend par le kiosque au lieu de rester sous la halle.",
+                "Elle veut essayer le passage par l’autre entrée et revoir les voisins après leur tour du marché."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un point commun pour des trajets différents",
-          "text": "Fatou et Nour regardent l’heure et s’accordent sur le kiosque comme lieu de retour. Elles peuvent donner la même information aux voisins et leur demander ce qui serait pratique pour eux. Une personne veut continuer jusqu’à la cour. L’autre préfère s’arrêter à la boulangerie sur le chemin. Nour leur montre qu’ils peuvent tous retrouver la photographie au kiosque, où elle compte rester un moment.\n\nSi elle fait une pause, Nour peut choisir de revenir à la visite, de reprendre ailleurs ou de rentrer. Fatou veut savoir où la retrouver sans avoir à lui écrire toutes les deux minutes. Elles conviennent du message utile si le point de rendez-vous change. Pour le prochain repérage, Nour voudrait obtenir le déroulé avant de sortir, avec une adresse qu’elle peut relire. Elle pourra dire quelles parties lui conviennent et vérifier ce qui reste incertain."
+          "heading": "3 techniques pour adapter un trajet quand le bruit gêne",
+          "points": [
+            {
+              "heading": "Situer le son qui pose problème",
+              "objective": "Choisir un trajet à partir d’une gêne précise.",
+              "exercise": [
+                "Repérez où se trouve le bruit et quand il se répète.",
+                "Indiquez sur le plan le segment que vous préféreriez contourner.",
+                "Cherchez une autre entrée ou un horaire plus calme, si c’est possible."
+              ],
+              "benefit": "La décision porte sur la partie difficile du trajet et laisse ouvertes les autres."
+            },
+            {
+              "heading": "Prévoir un point de retour commun",
+              "objective": "Pouvoir changer de rue sans couper le contact avec le groupe.",
+              "exercise": [
+                "Choisissez un lieu facile à nommer et à retrouver.",
+                "Convenez d’un moment pour s’y retrouver.",
+                "Dites comment signaler un détour ou un retour anticipé."
+              ],
+              "benefit": "Chacun peut marcher à sa manière tout en sachant où rejoindre les autres."
+            },
+            {
+              "heading": "Récupérer le passage manqué par écrit",
+              "objective": "Retrouver l’information quand le lieu gêne l’écoute.",
+              "exercise": [
+                "Repérez le sujet dont vous aimeriez avoir la suite.",
+                "Demandez une note, une photo légendée ou l’adresse exacte à la personne qui la connaît.",
+                "Reprenez-la dans un endroit où vous pouvez lire à votre rythme."
+              ],
+              "benefit": "Un récit du lieu reste accessible même si on n’a pas pu l’entendre sur place."
+            }
+          ]
         }
       ],
       "ending_title": "Le bec tourné vers le passage",
@@ -97,7 +210,8 @@
         "next": "Elle souhaite obtenir un déroulé en amont de la prochaine réunion et du prochain repérage."
       },
       "clinical_focus": "Sensibilité sensorielle au bruit",
-      "clinical_intro": "Au marché, le bruit devient assez présent pour que Nour souhaite changer de trajet. Elle veut aussi retrouver les voisins au kiosque et continuer le repérage. Certaines personnes autistes ressentent les sons avec une intensité qui change ce qu’elles peuvent faire dans un lieu. Chercher un passage plus calme permet à Nour de doser cet effort et de garder une place dans la sortie."
+      "clinical_intro": "Au marché, le bruit devient assez présent pour que Nour souhaite changer de trajet. Elle veut aussi retrouver les voisins au kiosque et continuer le repérage. Certaines personnes autistes ressentent les sons avec une intensité qui change ce qu’elles peuvent faire dans un lieu. Chercher un passage plus calme permet à Nour de doser cet effort et de garder une place dans la sortie.",
+      "conclusion": "Nour retrouve les voisins au kiosque et la photo aide à replacer l’enseigne. Le bruit a compté dans le choix du chemin et dans ce qu’elle a pu entendre. L’autre entrée et la demande d’un texte lui laissent d’autres façons de suivre le repérage."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que la prévisibilité rend disponible pour la discussion",
-          "text": "Connaître le déroulement d’une réunion à l’avance peut donner le temps de préparer une contribution. Pour Nour, les informations les plus utiles sont le but de l’échange, les documents qui seront examinés et la manière dont les réponses seront recueillies. Un ordre du jour très détaillé peut laisser ces points flous. Elle a pu demander ce que signifiait la rubrique « Divers » et retrouver ensuite sa question dans le bon échange.\n\nL’OMS décrit des difficultés possibles face aux changements imprévus dans l’autisme. Elles varient selon les personnes et les situations."
+          "heading": "Se préparer à ce qu’une réunion demande",
+          "text": "Un ordre du jour peut réduire une partie de l’effort de communication lorsqu’il indique ce que chacun doit préparer, à quel moment intervenir et comment les changements seront annoncés. Pour Nour, qui est autiste, deviner ces règles pendant que les autres parlent mobilise une attention qu’elle voudrait consacrer à la photographie. La préparation lui permet de formuler sa demande avant de chercher sa place dans l’échange."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le cas de Nour, l’autre salle demande un déplacement et une installation différente. L’adresse envoyée en amont lui laisse du temps pour s’y rendre. Un changement annoncé peut encore l’affecter. Elle peut relire le point sur lequel le groupe travaille et utiliser l’écrit si cela lui demande moins d’effort à ce moment."
+          "heading": "Comment l’anticipation change-t-elle la façon de prendre part à la réunion ?",
+          "points": [
+            {
+              "heading": "Le but de chaque point devient lisible",
+              "text": "Un thème affiché ne dit pas toujours si l’on attend une décision, une information ou un exemple.",
+              "examples": [
+                "Nour voit trois décisions cachées sous « Divers » et demande lesquelles seront prises ce jour-là.",
+                "Sa collègue remonte les points concernés et indique où apporter des exemples."
+              ]
+            },
+            {
+              "heading": "La contribution peut exister avant l’entrée dans la salle",
+              "text": "Le temps de préparer un texte ou une question libère une partie de l’attention nécessaire pour suivre les autres.",
+              "examples": [
+                "Nour peut lire les demandes de reproduction à l’avance.",
+                "En arrivant, elle ouvre le commentaire qu’elle a déjà préparé sur la photographie."
+              ]
+            },
+            {
+              "heading": "L’imprévu laisse un repère stable",
+              "text": "Une modification annoncée clairement aide à retrouver la discussion, même si l’arrivée reste coûteuse.",
+              "examples": [
+                "La porte est fermée, mais l’invitation donne le nom de la salle de remplacement.",
+                "Nour rejoint le premier point et garde le dossier sur ses genoux jusqu’à ce que son tour arrive."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Indiquer ce qui est fixé et ce qui peut bouger",
-          "text": "La collègue qui tient le document peut mettre l’heure et la salle en haut, puis préciser où elle affichera un changement. Si une décision nouvelle doit être prise au milieu de la réunion, elle peut laisser un court temps pour consulter l’information et demander si les personnes ont besoin de revenir sur leur réponse plus tard. Les choix urgents et ceux qui peuvent attendre seront plus faciles à distinguer pour toute l’équipe.\n\nNour veut reprendre ce principe avec Fatou. Elles peuvent annoncer un rendez-vous au kiosque, indiquer les trajets connus et signaler ce qu’elles doivent encore vérifier. Si l’une des entrées est fermée, les participants auront une information précise sur ce qui reste accessible. Nour souhaite qu’ils puissent se prononcer avant le jour de la visite et écrire leur réponse s’ils le préfèrent. Les recommandations du NICE sur l’information dans un format adapté donnent un cadre à cette discussion. La forme utile se décide avec les personnes qui vont s’en servir."
+          "heading": "3 techniques pour préparer une contribution avant la réunion",
+          "points": [
+            {
+              "heading": "Poser trois questions utiles",
+              "objective": "Obtenir les renseignements qui changent réellement ce que l’on doit préparer.",
+              "exercise": [
+                "Demandez le lieu et l’heure, ainsi que le canal prévu si l’un change.",
+                "Repérez la décision à laquelle vous souhaitez contribuer.",
+                "Demandez quel document sera examiné et quand vous pourrez intervenir."
+              ],
+              "benefit": "La préparation porte sur des attentes précises plutôt que sur tous les sujets possibles."
+            },
+            {
+              "heading": "Préparer l’intervention dans le format choisi",
+              "objective": "Retrouver sa demande même si l’arrivée est agitée.",
+              "exercise": [
+                "Écrivez la question avec le document auquel elle se réfère.",
+                "Choisissez si vous souhaitez l’envoyer avant, la lire ou la présenter sur place.",
+                "Gardez-la à un endroit où elle sera accessible pendant la réunion."
+              ],
+              "benefit": "L’essentiel peut être transmis même si la conversation a déjà commencé."
+            },
+            {
+              "heading": "Prévoir l’annonce d’un changement",
+              "objective": "Savoir où retrouver l’information utile au moment de se déplacer.",
+              "exercise": [
+                "Convenez d’un seul endroit pour les modifications de salle ou d’horaire.",
+                "Demandez que l’annonce indique clairement ce qui change et ce qui reste prévu.",
+                "Si un point est manqué, demandez quelle décision a été prise et si votre contribution peut encore être lue."
+              ],
+              "benefit": "Un imprévu demande moins de recherches et le groupe conserve la possibilité d’entendre la question."
+            }
+          ]
         }
       ],
       "ending_title": "Le crédit sous l’hirondelle",
@@ -142,7 +312,8 @@
         "next": "Elle invite Joël à examiner la carte et à lui dire quels repères lui seraient utiles."
       },
       "clinical_focus": "Anticipation et communication sociale",
-      "clinical_intro": "Nour demande le déroulé de la réunion et les documents avant d’y entrer. Elle peut préparer sa demande sur la photographie au lieu d’essayer de suivre chaque changement pendant la discussion. Pour elle, savoir quelles décisions seront prises libère de l’attention pour y contribuer. Cette aide dépend de ce qui lui coûte dans cet échange précis."
+      "clinical_intro": "Nour demande le déroulé de la réunion et les documents avant d’y entrer. Elle peut préparer sa demande sur la photographie au lieu d’essayer de suivre chaque changement pendant la discussion. Pour elle, savoir quelles décisions seront prises libère de l’attention pour y contribuer. Cette aide dépend de ce qui lui coûte dans cet échange précis.",
+      "conclusion": "Nour présente la reproduction avec sa légende et note le crédit convenu. L’ordre du jour n’a pas empêché le changement de salle. Il lui a donné un point où reprendre la discussion, assez précis pour préparer la demande qui l’amenait."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Deux personnes autistes, deux façons de lire",
-          "text": "Les personnes autistes ont des besoins, des capacités et des préférences qui peuvent différer sensiblement. Nour et Joël ont fait connaissance en atelier de gravure et se disent tous les deux autistes. Leurs avis sur la rue du marché divergent. Chacun décrit la façon dont il voudrait la traverser ou s’y arrêter. Le dessin de la carte pourra faire une place aux deux choix."
+          "heading": "Des besoins différents avec le même diagnostic",
+          "text": "L’autisme recouvre des profils variés. Les sensibilités, les manières de recevoir une information et les appuis utiles peuvent différer d’une personne à l’autre et selon la situation. Nour voudrait contourner les bruits de la halle. Joël a envie de les écouter et demande surtout une carte qu’il peut lire ou chercher facilement. Leur échange donne deux raisons de proposer des options."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’OMS distingue des profils variés, notamment dans le langage fonctionnel et le développement intellectuel. Ces distinctions aident les professionnels à préciser les appuis selon la personne. Autour de la carte, ce qui aide est de demander à Joël s’il veut lire, écouter ou essayer un trajet. Il peut avoir une réponse différente de Nour et changer de format au cours du repérage."
+          "heading": "Comment deux profils autistiques se distinguent-ils devant la même carte ?",
+          "points": [
+            {
+              "heading": "Le même lieu attire l’un et fatigue l’autre",
+              "text": "Un son de rue peut avoir un intérêt pour une personne et représenter un effort important pour une autre.",
+              "examples": [
+                "Joël aimerait écouter les vendeurs se répondre le samedi.",
+                "Nour préfère le passage des Verriers pour éviter les caisses sur les pavés."
+              ]
+            },
+            {
+              "heading": "Un support aide selon la manière de s’en servir",
+              "text": "Le papier, le téléphone et la lumière modifient l’accès à l’information.",
+              "examples": [
+                "Le reflet du papier brillant gêne Joël quand il suit la flèche près de la fenêtre.",
+                "Il retrouve le kiosque par son nom sur le téléphone, mais l’adresse de la cour disparaît quand Nour agrandit le dessin."
+              ]
+            },
+            {
+              "heading": "Les mots peuvent appeler des précisions différentes",
+              "text": "Un essai à deux révèle ce que chacun comprend d’une consigne ou d’une légende.",
+              "examples": [
+                "Joël lit « ferronnerie » comme le nom du lieu où l’enseigne a été faite.",
+                "Nour explique qu’elle parle du matériau et de son travail, puis reprend le texte au crayon."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Vérifier ce que chaque version permet",
-          "text": "Nour garde une carte simple à imprimer et ajoute une liste des lieux à côté du dessin. Elle peut vérifier avec Joël s’il retrouve le kiosque quand il agrandit la page sur son téléphone. Lui propose un court enregistrement où les adresses seraient dites dans l’ordre. Ils commencent par identifier les informations qui doivent être les mêmes, quel que soit le support. Le crédit de la collection reste avec la reproduction.\n\nLe NICE met l’accent sur des informations disponibles dans un format approprié. Nour et Joël peuvent s’en inspirer et demander à d’autres voisins ce qu’ils utiliseraient. Si aucun format ne convient à une personne, ils pourront examiner avec elle une autre manière de donner l’information. Joël précise qu’il a le temps de tester la carte ce soir. Il ne sait pas encore s’il pourra enregistrer une légende ou participer à la visite. Nour note les propositions sans lui attribuer une tâche."
+          "heading": "3 techniques pour choisir des appuis adaptés à des préférences différentes",
+          "points": [
+            {
+              "heading": "Interroger un choix plutôt qu’une catégorie",
+              "objective": "Recueillir l’expérience de chacun dans le lieu concerné.",
+              "exercise": [
+                "Proposez deux itinéraires et décrivez ce qu’on trouve sur chacun.",
+                "Demandez ce que chaque personne veut y retrouver ou éviter.",
+                "Laissez plusieurs options ouvertes si elles peuvent rejoindre un point commun."
+              ],
+              "benefit": "Le choix peut tenir compte de besoins qui ne coïncident pas."
+            },
+            {
+              "heading": "Faire essayer le même repère sous deux formes",
+              "objective": "Voir ce que chaque support rend visible ou difficile à retrouver.",
+              "exercise": [
+                "Préparez une version papier et une liste d’adresses à chercher.",
+                "Demandez à une personne d’y retrouver le même lieu sur les deux supports.",
+                "Corrigez ce qui disparaît au grossissement ou sous la lumière."
+              ],
+              "benefit": "Une information reste accessible par un autre chemin si un support gêne la lecture."
+            },
+            {
+              "heading": "Préciser un mot par son usage",
+              "objective": "Vérifier le sens d’une légende dans la situation de visite.",
+              "exercise": [
+                "Demandez à quelqu’un de dire à quoi le mot lui fait penser ici.",
+                "Montrez l’objet ou la partie du dessin dont vous parlez.",
+                "Réécrivez la phrase si elle laisse croire qu’il s’agit d’une adresse ou d’une étape."
+              ],
+              "benefit": "La légende peut rester courte tout en donnant un repère plus clair."
+            }
+          ]
         }
       ],
       "ending_title": "Une adresse qu’on peut chercher",
@@ -187,7 +414,8 @@
         "next": "L’annonce de la visite pose la question des détails personnels que Nour accepte de voir circuler."
       },
       "clinical_focus": "Diversité des profils autistiques",
-      "clinical_intro": "Nour retrouve une adresse sur la carte imprimée. Joël préfère l’entendre et retrouver le lieu sur son téléphone. Tous deux sont autistes et leurs façons de s’orienter appellent des aides différentes. Les comparer aide à comprendre pourquoi les appuis se discutent avec la personne et selon la situation, jusque dans un même projet de quartier."
+      "clinical_intro": "Nour regarde l’itinéraire sur la carte imprimée. Joël retrouve le kiosque en cherchant son nom sur le téléphone et aimerait passer sous la halle. Tous deux sont autistes, mais le bruit du marché et les formats du plan n’ont pas les mêmes effets pour eux. Leurs essais permettent de choisir des appuis adaptés à chacun.",
+      "conclusion": "Nour et Joël gardent plusieurs chemins et rendent les adresses cherchables. Ils n’ont pas besoin d’aimer les mêmes sons ni de lire le plan de la même façon pour travailler ensemble. Leur essai indique ce que le prochain lecteur pourra choisir."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une confidence et une information pratique",
-          "text": "Une personne peut parler de son diagnostic dans une relation et garder cette information privée ailleurs. Nour utilise pour elle-même le mot « autiste ». Elle en a parlé à Fatou dans une conversation choisie. Pour l’annonce, elle souhaite que les voisins lisent ce qu’ils pourront faire et sachent à qui poser une question. Elle garde la décision de se présenter autrement si elle le veut un jour."
+          "heading": "L’accord pour en parler dépend du contexte",
+          "text": "Une personne autiste peut confier son diagnostic dans une conversation et décider de le garder privé dans une annonce. Le choix appartient à la personne et les aménagements peuvent souvent être expliqués par leur usage. Nour avait parlé des bruits de travaux à Fatou. Pour la visite, elle veut surtout que les voisins sachent où se retrouver, quand ils peuvent choisir leur chemin et où montrer l’hirondelle."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le NICE demande aux professionnels de discuter de la participation des proches avec la personne autiste et de respecter la confidentialité. L’invitation de quartier se situe en dehors du soin. Elle donne un exemple de ce qui change quand un message s’adresse à plusieurs personnes et peut être recopié. Fatou peut décrire le parcours et les choix de pause avec des termes utiles au public. Elle peut demander l’accord de Nour avant de transmettre une information personnelle."
+          "heading": "Comment la confidentialité change-t-elle entre une conversation et une annonce ?",
+          "points": [
+            {
+              "heading": "La confiance porte sur une situation précise",
+              "text": "Une information donnée dans un échange privé ne devient pas disponible pour tous les autres usages.",
+              "examples": [
+                "Nour a parlé de son diagnostic à Fatou un soir où le bruit remontait dans l’immeuble.",
+                "Fatou lui montre la phrase avant de l’ajouter au message public."
+              ]
+            },
+            {
+              "heading": "La diffusion rend l’audience incertaine",
+              "text": "Une annonce peut être relayée, abrégée ou lue loin du contexte dans lequel elle a été écrite.",
+              "examples": [
+                "Nour ne sait pas qui transmettra le texte du quartier ni quels mots resteront si on le coupe.",
+                "Elle accepte que son prénom figure près du plan, après avoir vu la version exacte."
+              ]
+            },
+            {
+              "heading": "L’appui se décrit aussi par ce qu’il permet",
+              "text": "Des renseignements pratiques peuvent expliquer la visite sans révéler à qui un aménagement est particulièrement utile.",
+              "examples": [
+                "Le départ par deux chemins peut se décider au kiosque et chacun peut s’arrêter.",
+                "Nour veut préciser où le marché est animé et parler de l’hirondelle dans l’annonce."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser les gens indiquer ce qui leur serait utile",
-          "text": "Nour et Fatou choisissent d’inviter chacun à leur écrire s’il lui manque une information. Quelqu’un pourra demander la longueur du passage ou l’endroit où il pourra s’asseoir. Les réponses restent entre l’organisatrice contactée et la personne, sauf si elles conviennent de partager une précision pratique avec le groupe. Si plusieurs voisins posent la même question, l’équipe pourra ajouter la réponse au plan.\n\nFatou veut que son rôle soit clair. Elle peut expliquer les lieux lors du rendez-vous et répondre aux questions sur l’inscription. Nour se charge des textes et du plan. Elles conviennent de se renvoyer les demandes qui concernent leur partie. Elles peuvent aussi dire quand une information reste à vérifier. Une première invitation peut annoncer le kiosque et les choix possibles, puis préciser la cour une fois qu’elles en connaissent les horaires."
+          "heading": "3 techniques pour communiquer sur un aménagement en gardant la main sur le reste",
+          "points": [
+            {
+              "heading": "Séparer les renseignements utiles au départ",
+              "objective": "Rédiger une annonce autour de ce que les visiteurs feront.",
+              "exercise": [
+                "Indiquez le lieu et l’heure du rendez-vous.",
+                "Décrivez les trajets, les pauses et les choix possibles.",
+                "Relisez le texte en retirant les informations de santé que la personne n’a pas choisi de diffuser."
+              ],
+              "benefit": "L’annonce explique l’aménagement à tous en respectant la confidentialité choisie."
+            },
+            {
+              "heading": "Relire la version qui partira",
+              "objective": "Donner un accord précis sur un texte et son usage.",
+              "exercise": [
+                "Demandez à voir le message complet avant l’envoi.",
+                "Indiquez les informations que vous acceptez de voir partagées et dans quel canal.",
+                "Si la version ou le public change, demandez une nouvelle validation."
+              ],
+              "benefit": "L’accord porte sur un texte identifiable plutôt que sur une permission supposée."
+            },
+            {
+              "heading": "Préparer une réponse aux questions des voisins",
+              "objective": "Savoir comment parler du projet si quelqu’un demande d’où il vient.",
+              "exercise": [
+                "Choisissez une phrase sur l’enseigne ou l’idée des deux chemins.",
+                "Convenez avec le proche qu’il pourra s’en tenir à cette réponse.",
+                "Gardez le choix d’en dire plus vous-même si vous le souhaitez plus tard."
+              ],
+              "benefit": "La curiosité peut trouver une réponse sans élargir la diffusion d’un renseignement personnel."
+            }
+          ]
         }
       ],
       "ending_title": "Le mot « autiste » reste dans la conversation",
@@ -232,7 +516,8 @@
         "next": "Elle veut parler à une professionnelle de la fatigue qu’elle ressent après certaines journées de travail et de préparation."
       },
       "clinical_focus": "Confidentialité du diagnostic d’autisme",
-      "clinical_intro": "Nour a parlé de son autisme à Fatou. En relisant l’annonce de la visite, elle souhaite que les voisins connaissent les options de trajet et de pause tout en gardant son diagnostic dans la relation qu’elle a choisie. L’épisode montre comment expliquer des aménagements utiles sans perdre la maîtrise de ses informations de santé."
+      "clinical_intro": "Nour a parlé de son autisme à Fatou. En relisant l’annonce de la visite, elle souhaite que les voisins connaissent les options de trajet et de pause tout en gardant son diagnostic dans la relation qu’elle a choisie. L’épisode montre comment expliquer des aménagements utiles sans perdre la maîtrise de ses informations de santé.",
+      "conclusion": "L’annonce dit aux voisins comment venir et repartir. Nour choisit d’y mettre son prénom près du plan et de parler de l’hirondelle. Elle a confié son diagnostic à Fatou dans une autre conversation et garde la décision d’en reparler."
     },
     {
       "number": 6,
@@ -249,18 +534,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Prendre la fatigue au sérieux",
-          "text": "La fatigue mérite d’être examinée dans son contexte, même quand la personne apprécie l’activité qui la précède. Nour peut expliquer ce qu’elle remarque le jour même et après être rentrée. Le bruit, les interruptions, les changements et le temps passé sur une traduction font partie de sa description. La professionnelle peut lui demander aussi si le sommeil, la santé ou d’autres circonstances ont changé. Attribuer toute fatigue à l’autisme ferait perdre des informations utiles.\n\nLe NICE recommande de tenir compte du cadre de l’entretien et du mode de communication de la personne."
+          "heading": "Une activité appréciée peut laisser de la fatigue",
+          "text": "Le bruit, les interruptions et l’effort de communication peuvent contribuer à la fatigue de certaines personnes autistes, même lorsqu’elles aiment leur travail. D’autres causes sont possibles et méritent aussi d’être examinées. Nour veut décrire ce qui se passe après sa journée, lorsque répondre à une question ordinaire lui coûte encore. Elle adapte aussi le rendez-vous pour avoir assez de disponibilité pour en parler."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La professionnelle peut lire la note, reformuler une question et demander à Nour si la salle lui convient assez pour continuer. Le choix de Nour sur la présence de Fatou reste valable pour ce rendez-vous. Si elle souhaite inviter quelqu’un une autre fois, elle pourra préciser le sujet et la durée."
+          "heading": "Comment la fatigue se remarque-t-elle après les échanges et les imprévus ?",
+          "points": [
+            {
+              "heading": "Le coût se voit parfois en rentrant",
+              "text": "Une personne peut rester concentrée sur ce qui l’intéresse puis avoir moins de disponibilité pour la suite.",
+              "examples": [
+                "Nour avance sur une traduction qui lui plaît le jeudi.",
+                "De retour chez elle, elle relit une question de Fatou plusieurs fois sans parvenir à choisir sa réponse."
+              ]
+            },
+            {
+              "heading": "Le rendez-vous ajoute parfois un effort",
+              "text": "L’accueil, la lumière ou le besoin de raconter de vive voix peuvent demander une partie de l’attention disponible.",
+              "examples": [
+                "Sur le banc près de la porte, Nour entend les noms appelés dans le couloir.",
+                "Elle choisit un bureau libre et demande d’éteindre le plafonnier qui bourdonne."
+              ]
+            },
+            {
+              "heading": "L’activité suivante doit parfois changer de taille",
+              "text": "Après un entretien, une tâche courte peut rester possible même si l’on doit déplacer une discussion plus longue.",
+              "examples": [
+                "Nour propose un autre banc au square et limite la préparation aux horaires et aux accès.",
+                "Elle veut conserver la traduction et la visite, avec du temps entre les activités quand elle peut le choisir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Identifier les conditions qui aident",
-          "text": "Nour et la professionnelle regardent ce qui diffère entre deux réunions. Celle où Nour avait le déroulé à l’avance lui a laissé plus de temps pour contribuer. Après une autre journée, elle a préféré différer les messages du quartier. Elle peut dire quels aménagements elle veut garder et où elle souhaite demander de l’aide. Elles notent qu’un format écrit lui est utile pour préparer certains échanges et qu’elle préfère décider sur place s’il est possible de parler.\n\nLa professionnelle lui demande à quel moment la fatigue lui paraît nouvelle ou plus gênante que d’habitude. Elles conviennent de revoir ce point si cela dure ou s’accentue, et d’en parler à son médecin pour examiner d’autres facteurs si nécessaire. Nour garde la possibilité d’écourter la visite test ou de choisir une seule partie. L’entretien lui donne un lieu pour décrire ce qui lui coûte et choisir des appuis qui lui laissent une place dans le projet."
+          "heading": "3 techniques pour parler d’une fatigue qui se prolonge",
+          "points": [
+            {
+              "heading": "Décrire ce qui se passe après l’activité",
+              "objective": "Donner au professionnel des éléments sur le retentissement, même quand l’activité se déroule bien.",
+              "exercise": [
+                "Choisissez une journée que vous pouvez situer précisément.",
+                "Notez l’activité, les conditions du lieu et ce qui devient difficile après.",
+                "Demandez au professionnel ce qu’il est utile d’examiner aussi, comme le sommeil ou un autre problème de santé."
+              ],
+              "benefit": "Le rendez-vous peut tenir compte du contexte et garder plusieurs explications ouvertes."
+            },
+            {
+              "heading": "Choisir un support pour l’entretien",
+              "objective": "Mettre davantage d’attention dans la question que dans l’effort de la raconter.",
+              "exercise": [
+                "Préparez quelques lignes avec les exemples que vous voulez aborder.",
+                "Donnez ou lisez la feuille selon ce qui vous convient.",
+                "Demandez une modification du lieu si un bruit ou une lumière gêne la discussion."
+              ],
+              "benefit": "Le professionnel a de quoi reprendre les situations sans que tout doive être raconté de mémoire."
+            },
+            {
+              "heading": "Alléger ce qui vient juste après",
+              "objective": "Garder un espace de récupération après un échange coûteux.",
+              "exercise": [
+                "Regardez l’activité prévue après le rendez-vous.",
+                "Choisissez un seul point à traiter ou proposez un autre moment.",
+                "Prévenez l’autre personne du lieu et de la durée qui vous conviennent."
+              ],
+              "benefit": "Une rencontre peut rester possible sans ajouter un second entretien complet."
+            }
+          ]
         }
       ],
       "ending_title": "Le banc choisi au square",
@@ -277,12 +618,13 @@
         "next": "La visite test permettra de vérifier la cour et la possibilité de faire une pause en route."
       },
       "clinical_focus": "Fatigue et retentissement au quotidien",
-      "clinical_intro": "Nour apporte une note au rendez-vous parce que décrire sa fatigue à l’oral lui demande déjà de l’énergie. Elle compare deux journées, dont une réunion dont elle connaissait le déroulé, pour aider la professionnelle à comprendre ce qui lui coûte. La fatigue mérite d’être examinée dans son contexte et d’autres causes peuvent aussi entrer dans la discussion."
+      "clinical_intro": "Nour apporte une note au rendez-vous parce que décrire sa fatigue à l’oral lui demande déjà de l’énergie. Elle raconte une journée de traduction qui lui a plu, puis la difficulté à répondre à un message en rentrant. Le bruit et les imprévus font partie de ce qu’elle veut décrire. La professionnelle peut aussi examiner d’autres causes de fatigue.",
+      "conclusion": "Nour utilise sa note, ajuste le bureau et réserve la suite de l’entretien à la professionnelle. Au square, elle peut parler de la cour avec Fatou en limitant ce qu’elles préparent. Le travail qui lui plaît et la fatigue qu’elle décrit ont tous deux leur place dans le suivi."
     },
     {
       "number": 7,
       "slug": "nour-visite-test-banc-cour",
-      "title": "Prévoir une pause pour doser une surcharge sensorielle",
+      "title": "Prévoir un lieu de pause avant la surcharge sensorielle",
       "description": "Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu de pause. Une grille fermée oblige le groupe à revoir le trajet.",
       "context": "Dans le passage des Verriers, lors de la visite test entre voisins",
       "topics": [
@@ -290,22 +632,78 @@
         "Surcharge sensorielle",
         "Accessibilité du lieu"
       ],
-      "opening": "Rita, une voisine, a rangé le plan dans la poche de son cabas à roulettes. Elle vient de faire ses courses et a proposé de vérifier le trajet avec elles sur le retour. Nour lui demande de s’orienter sans attendre ses indications. Au premier angle, Rita prend la rue qui porte le nom le plus visible sur la feuille. Elle avance jusqu’à un escalier que Nour n’avait pas dessiné. Elles repartent de l’autre côté. Nour entoure le nom de la rue et note l’endroit où ajouter les marches.\n\nLa cour est visible à travers la grille. Le banc que Fatou leur avait décrit est au soleil. Une feuille scotchée à hauteur de poignée annonce que la grille ferme à midi. Il est midi passé. Rita pourrait rester debout le temps de regarder la photographie. Nour avait surtout compté sur le banc pour s’arrêter avant le retour. Fatou propose de demander au commerce voisin si quelqu’un peut leur ouvrir. Nour lui montre le panneau et préfère repartir vers un siège dont l’accès ne dépend pas d’une clé.\n\nElles reviennent sur leurs pas et trouvent, près de la boulangerie, une banquette d’où l’on voit l’entrée du passage. Rita gare son cabas devant elle et Nour sort la photographie. De là, on ne voit plus les trous de fixation de l’enseigne. On peut encore comparer le sens de la rue avec celui de l’image. Nour se demande laquelle de ces deux choses elle veut raconter aux voisins.",
+      "opening": "Rita, une voisine, a rangé le plan dans la poche de son cabas à roulettes. Elle vient de faire ses courses et a proposé de vérifier le trajet avec elles sur le retour. Nour lui demande de s’orienter sans attendre ses indications. Au premier angle, Rita prend la rue qui porte le nom le plus visible sur la feuille. Elle avance jusqu’à un escalier que Nour n’avait pas dessiné. Elles repartent de l’autre côté. Nour entoure le nom de la rue et note l’endroit où ajouter les marches.\n\nLa cour est visible à travers la grille. Le banc que Fatou leur avait décrit est au soleil. Une feuille scotchée à hauteur de poignée annonce que la grille ferme à midi. Il est midi passé. Rita pourrait rester debout le temps de regarder la photographie. Nour avait surtout compté sur le banc pour s’arrêter avant le retour. Après le détour et les indications à suivre, elle voudrait quelques minutes avec moins de choses à écouter. Fatou propose de demander au commerce voisin si quelqu’un peut leur ouvrir. Nour lui montre le panneau et préfère repartir vers un siège dont l’accès ne dépend pas d’une clé.\n\nElles reviennent sur leurs pas et trouvent, près de la boulangerie, une banquette d’où l’on voit l’entrée du passage. Rita gare son cabas devant elle et Nour sort la photographie. De là, on ne voit plus les trous de fixation de l’enseigne. On peut encore comparer le sens de la rue avec celui de l’image. Nour se demande laquelle de ces deux choses elle veut raconter aux voisins.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Vérifier une pause avant de l’annoncer",
-          "text": "Un lieu de pause sert lorsqu’il est possible de le trouver, d’y entrer et d’y rester. Sur la carte, la cour remplissait cette fonction. La grille et les horaires changent ce que les voisins pourront y faire. Nour peut encore montrer l’image de l’hirondelle depuis un autre endroit. Rita, qui a essayé le passage avec son cabas, peut indiquer la direction dans laquelle le sol et les marches lui ont posé problème."
+          "heading": "Une pause utile se prépare dans un lieu réel",
+          "text": "Pour certaines personnes autistes, choisir quand et où diminuer les sollicitations sensorielles peut rendre une sortie plus accessible. Un banc sur le plan ne remplit ce rôle que si on peut l’atteindre et s’y arrêter. Nour s’est donné une pause avant le retour. La grille fermée l’oblige à vérifier ce dont elle a surtout besoin et ce qu’elle peut garder de l’itinéraire."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La sensibilité au bruit est une donnée de l’expérience de Nour. Les besoins des autres personnes peuvent tenir à la marche, au temps disponible, à la possibilité de lire debout ou à autre chose. Le NICE invite à examiner l’environnement avec la personne concernée. Pour cette sortie, une mise à l’essai donne aux participants l’occasion de décrire ce qu’ils ont trouvé. Nour pourra inscrire une caractéristique concrète sur le plan et chacun décidera si le trajet lui convient."
+          "heading": "Comment un lieu de pause aide-t-il à doser l’effort de la sortie ?",
+          "points": [
+            {
+              "heading": "La pause a une place dans le trajet",
+              "text": "Un arrêt peut être prévu avant que l’environnement demande trop d’attention.",
+              "examples": [
+                "Nour avait compté sur le banc de la cour avant le retour.",
+                "Sur une autre sortie, on peut vouloir s’asseoir avant un segment animé même si le début de la marche se passe bien."
+              ]
+            },
+            {
+              "heading": "L’accès au siège change l’utilité du repère",
+              "text": "Un lieu indiqué sur une carte peut se révéler inutilisable au moment où l’on en a besoin.",
+              "examples": [
+                "La grille ferme à midi et le banc reste de l’autre côté.",
+                "Rita a trouvé un escalier que la carte ne signalait pas en essayant de suivre la première rue."
+              ]
+            },
+            {
+              "heading": "Le repos peut rester possible ailleurs",
+              "text": "Une pause choisie n’a pas besoin de devenir une étape obligatoire ni d’offrir exactement la même vue.",
+              "examples": [
+                "La banquette près de la boulangerie permet de s’asseoir sans clé ni demande d’ouverture.",
+                "De là, Nour peut encore comparer la direction de la rue avec la photo, même si elle ne voit plus les fixations."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire en sorte que le détour reste possible",
-          "text": "Nour veut garder le kiosque comme lieu de retour. Pour la pause sur le chemin, elle préfère indiquer la banquette et le jour où elles l’ont trouvée accessible. Fatou peut vérifier les horaires de la cour auprès de la personne qui la gère. Si les portes sont fermées, la visite se poursuit en dehors de la cour. Sur la carte, les personnes pourront voir où quitter la rue et où retrouver le groupe.\n\nRita explique qu’elle a cherché le nom de la rue plutôt que la couleur du trajet. Nour lui propose de relire la modification, si elle veut. Elle pourra indiquer les marches par un mot et un signe, puis vérifier que les autres options sont également lisibles. Chacune peut s’arrêter au repérage qu’elle a accepté. Rita souhaite rentrer avec ses courses après la banquette. Son retour sur l’escalier reste utile à la suite."
+          "heading": "3 techniques pour prévoir une pause que l’on peut vraiment prendre",
+          "points": [
+            {
+              "heading": "Essayer le lieu au bon moment",
+              "objective": "Vérifier que l’arrêt prévu sera accessible le jour de la sortie.",
+              "exercise": [
+                "Regardez l’horaire, le chemin d’accès et la possibilité de s’asseoir.",
+                "Faites un essai dans les conditions qui comptent pour vous.",
+                "Notez sur le plan les marches, la fermeture ou l’endroit où le bruit revient."
+              ],
+              "benefit": "Le repère tient compte de ce que les visiteurs rencontrent sur place."
+            },
+            {
+              "heading": "Donner une autre possibilité d’arrêt",
+              "objective": "Garder un choix si le banc prévu ne sert pas.",
+              "exercise": [
+                "Choisissez un second endroit accessible sans attendre une ouverture.",
+                "Repérez ce que l’on peut encore y voir ou lire.",
+                "Placez-le sur la carte comme une option, avec le retour au point commun."
+              ],
+              "benefit": "La pause peut avoir lieu même si le premier itinéraire change."
+            },
+            {
+              "heading": "Convenir de la suite avant de se séparer",
+              "objective": "Permettre à chacun de s’arrêter ou de continuer à son rythme.",
+              "exercise": [
+                "Dites où vous souhaitez faire une pause.",
+                "Précisez si vous voulez de la compagnie, attendre seul ou rejoindre les autres plus tard.",
+                "Indiquez comment vous donnerez des nouvelles si le plan change."
+              ],
+              "benefit": "Le groupe peut poursuivre l’essai et vous gardez le choix de votre retour."
+            }
+          ]
         }
       ],
       "ending_title": "Les marches entrent sur le plan",
@@ -322,7 +720,8 @@
         "next": "Un avis de travaux oblige à préciser quelle partie du passage restera accessible."
       },
       "clinical_focus": "Autorégulation en environnement sensoriel",
-      "clinical_intro": "Quand Rita et Nour trouvent la grille fermée, le lieu de pause prévu devient inutilisable. Pour Nour, disposer d’un endroit calme, accessible et identifiable change la possibilité de poursuivre la visite. L’épisode montre comment une personne autiste peut anticiper un moment de surcharge et choisir un appui lié au lieu plutôt qu’à une règle imposée à tout le groupe."
+      "clinical_intro": "Quand Rita et Nour trouvent la grille fermée, le lieu de pause prévu devient inutilisable. Pour Nour, disposer d’un endroit calme, accessible et identifiable change la possibilité de poursuivre la visite. L’épisode montre comment une personne autiste peut anticiper un moment de surcharge et choisir un appui lié au lieu plutôt qu’à une règle imposée à tout le groupe.",
+      "conclusion": "La cour fermée fait changer la carte et l’endroit où Nour peut s’arrêter. Rita précise où les marches la gênent et Fatou rapporte l’horaire. Une pause anticipée reste utile quand le lieu de repli a lui aussi été vérifié."
     },
     {
       "number": 8,
@@ -339,18 +738,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’un changement demande de reprendre",
-          "text": "Un changement imprévu peut demander de réorganiser plusieurs actions à la fois. Nour avait préparé le trajet, les pauses et le document à distribuer. L’avis oblige à relire les trois ensemble. L’OMS décrit que certaines personnes autistes éprouvent des difficultés devant des changements inattendus. Leur importance dépend de la situation."
+          "heading": "Un imprévu déplace plusieurs repères à la fois",
+          "text": "Dans l’autisme, une transition imprévue peut demander beaucoup d’effort, surtout lorsqu’elle oblige à reconstruire un déroulé déjà préparé. Pour Nour, les travaux déplacent le chemin, la pause et les indications qu’elle s’apprêtait à distribuer. Elle comprend le nouvel itinéraire tout en retrouvant l’ancienne flèche à chaque lecture. Identifier ce qui change et conserver un point fixe lui donnent un moyen de reprendre la carte."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nour peut aussi être contrariée parce qu’un travail terminé doit être repris. Elle choisit de vérifier l’obstacle avant de décider de ce qu’elle veut garder.\n\nLe projet repose sur plusieurs choix de trajet. Passer tout le monde par le marché serait facile à écrire. Pour Nour, cela retirerait l’option qui lui permet d’éviter une partie du bruit. Elle peut chercher avec Fatou ce qui reste possible, sans s’engager à refaire tout le plan dans la matinée. Si la visite devait être réduite, elles pourraient conserver le temps au kiosque et laisser les personnes décider si elles souhaitent continuer."
+          "heading": "Comment le changement de trajet se répercute-t-il sur la préparation ?",
+          "points": [
+            {
+              "heading": "Une formule habituelle devient insuffisante",
+              "text": "Une consigne vague peut augmenter l’effort lorsque plusieurs options semblent correspondre.",
+              "examples": [
+                "Quelqu’un propose de passer par la venelle « comme d’habitude » alors que Nour en connaît deux.",
+                "Elle cherche l’adresse exacte de la zone de travaux sur le site de la ville."
+              ]
+            },
+            {
+              "heading": "L’ancien plan continue à orienter l’attention",
+              "text": "Une action préparée ne disparaît pas immédiatement quand de nouvelles consignes arrivent.",
+              "examples": [
+                "Fatou apporte des exemplaires où la flèche traverse encore la zone barrée.",
+                "Après avoir vu le quai, Nour relit malgré elle l’ancien tracé quand elle baisse les yeux."
+              ]
+            },
+            {
+              "heading": "Les tâches se télescopent",
+              "text": "Modifier un projet peut prendre la place de ce qui était déjà prévu, même si le nouveau plan est réalisable.",
+              "examples": [
+                "Nour voulait corriger la légende et part vérifier le passage avec Fatou.",
+                "Elle veut s’asseoir avant de décider quand annoncer le trajet et reporte la traduction au lendemain."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce qui change et ce qui reste possible",
-          "text": "Nour et Fatou gardent la même heure et le même rendez-vous. Elles envoient l’adresse précise du chemin par le quai et expliquent que le passage des Verriers est fermé en partie. Elles indiquent où se trouvent les traversées et préviennent que la marche peut prendre plus de temps. Le message précise aussi que chacun peut rester au kiosque pour voir la reproduction. Les informations qui peuvent encore changer sont nommées comme telles.\n\nElles choisissent une version du plan à distribuer et notent la date dessus. Fatou peut informer les personnes qui ont déjà reçu la première copie. Nour corrige la liste d’adresses. Le principe d’une information adaptée aux personnes, recommandé par le NICE dans les soins et les services d’accompagnement, leur donne une direction. Pour la visite, une feuille et un message donnent aux participants un moyen de revoir le trajet à leur rythme."
+          "heading": "3 techniques pour rendre une transition plus lisible",
+          "points": [
+            {
+              "heading": "Vérifier la partie qui a changé",
+              "objective": "Remplacer une consigne vague par un repère observable.",
+              "exercise": [
+                "Repérez le tronçon affecté sur l’avis ou demandez son adresse exacte.",
+                "Vérifiez ce qui reste ouvert et où le nouveau chemin rejoint le point commun.",
+                "Notez l’endroit précis où il faut changer de direction."
+              ],
+              "benefit": "Le détour devient une suite de lieux qu’on peut reconnaître."
+            },
+            {
+              "heading": "Retirer l’ancienne version de la circulation",
+              "objective": "Éviter de devoir choisir entre des plans contradictoires.",
+              "exercise": [
+                "Gardez les anciennes copies à part.",
+                "Dessinez le nouveau trajet et indiquez l’heure et le lieu de départ qui restent valables.",
+                "Envoyez une seule version datée au groupe."
+              ],
+              "benefit": "Les participants retrouvent la modification sans refaire l’enquête."
+            },
+            {
+              "heading": "Décider quand répondre au nouvel imprévu",
+              "objective": "Garder une marge pour reprendre ses repères et réorganiser la journée.",
+              "exercise": [
+                "Dites quand vous pourrez confirmer le changement.",
+                "Prévoyez une pause si vous en avez besoin avant de relire le document.",
+                "Déplacez la tâche qui peut attendre et prévenez si une personne compte dessus."
+              ],
+              "benefit": "La transition a un temps prévu au lieu de s’ajouter à toutes les tâches en cours."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait neuf vers le quai",
@@ -367,7 +822,8 @@
         "next": "La visite commence au kiosque avec la nouvelle carte et les choix de retour déjà annoncés."
       },
       "clinical_focus": "Transitions et changement de routine",
-      "clinical_intro": "L’avis de travaux oblige Nour à revoir le trajet, la pause et la carte qu’elle pensait terminés. Elle a la nouvelle flèche en tête et revient encore à l’ancienne lorsqu’elle relit le plan. Chez certaines personnes autistes, une transition de ce type demande un effort important. Conserver l’heure et le lieu du rendez-vous lui laisse des repères stables."
+      "clinical_intro": "L’avis de travaux oblige Nour à revoir le trajet, la pause et la carte qu’elle pensait terminés. Elle a la nouvelle flèche en tête et revient encore à l’ancienne lorsqu’elle relit le plan. Chez certaines personnes autistes, une transition de ce type demande un effort important. Conserver l’heure et le lieu du rendez-vous lui laisse des repères stables.",
+      "conclusion": "Le nouveau trait rejoint le kiosque par le quai et l’ancienne flèche reste sur les copies mises de côté. Nour garde le rendez-vous et les chemins au choix. Elle laisse la traduction pour demain, le temps que le nouveau trajet devienne plus facile à retrouver."
     },
     {
       "number": 9,
@@ -384,18 +840,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reconnaître la surcharge pendant une activité choisie",
-          "text": "Une pause choisie peut permettre de décider de la suite quand un environnement devient difficile à supporter. Les sensibilités sensorielles peuvent compter dans le quotidien d’une personne autiste. Nour avait repéré le marché et prévu un autre trajet. L’enceinte introduit un son qu’elle n’avait pas anticipé. Pour elle, les mots deviennent plus difficiles à suivre et parler lui demande plus d’effort. Elle peut utiliser l’écrit et s’éloigner, y compris après avoir préparé la visite avec soin.\n\nLe NICE recommande d’ajuster le cadre des soins et de l’accompagnement aux besoins sensoriels et de communication."
+          "heading": "Quand la surcharge interrompt l’échange",
+          "text": "Une surcharge sensorielle peut survenir lorsque des sons et d’autres sollicitations s’ajoutent au point de rendre difficile une action ordinaire. Chez Nour, qui est autiste, l’enceinte rend les questions plus difficiles à suivre alors qu’elle parle déjà avec plusieurs personnes. Elle utilise l’écrit pour confier le départ à Fatou et retrouver un lieu où elle pourra décider de la suite."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la sortie organisée par Nour, cette idée prend la forme d’un lieu de retrait et d’un moyen de rester en contact choisi. D’autres personnes peuvent préférer un soutien différent. Laisser Nour décider du moment où elle souhaite répondre lui donne une place réelle dans l’organisation."
+          "heading": "Comment la surcharge modifie-t-elle la participation au kiosque ?",
+          "points": [
+            {
+              "heading": "Les questions n’arrivent plus en entier",
+              "text": "La parole peut devenir difficile à isoler lorsqu’un son vient se superposer à plusieurs échanges.",
+              "examples": [
+                "Les premières notes couvrent la fin de la question posée à Nour.",
+                "Même quand la personne répète, Nour entend des mots par morceaux."
+              ]
+            },
+            {
+              "heading": "Parler demande davantage de repères",
+              "text": "On peut perdre le fil de ce que l’on vient de dire et préférer un autre moyen de communiquer.",
+              "examples": [
+                "Nour ne sait plus où elle en est dans l’explication des fixations.",
+                "Elle montre la chemise et écrit à Fatou qu’elle va sous l’auvent."
+              ]
+            },
+            {
+              "heading": "La décision peut attendre que l’on soit à l’écart",
+              "text": "Une pause peut rendre possible un nouveau choix, y compris celui de rentrer.",
+              "examples": [
+                "Fatou demande par message si elle doit interrompre les départs. Nour préfère que le groupe continue.",
+                "Sous l’auvent, Nour lit le message de départ et choisit de ne pas retraverser le square."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer un relais limité",
-          "text": "Nour demande que la reproduction reste accessible et que Fatou indique les deux départs. Fatou peut reprendre ces tâches sans raconter la raison de la pause. Si elle doit rejoindre un groupe, elle peut indiquer à Nour qui reste au kiosque et jusqu’à quelle heure. Elles ont besoin de quelques informations communes. La décision de Nour de parler, de revenir ou de repartir lui appartient.\n\nSur la feuille, Nour retrouve le chemin du quai et l’adresse du banc. Elle envisage de rejoindre la visite à mi-chemin, puis attend de savoir ce qu’elle a envie de faire. Elle peut aussi préférer rentrer après avoir envoyé le message prévu. Plus tard, elle pourra dire aux voisins si la musique a rendu difficile l’écoute au kiosque et ce qu’elle souhaiterait changer lors d’une autre visite. Elle pourra choisir de garder le reste pour elle."
+          "heading": "3 techniques pour adapter sa participation quand les sollicitations débordent",
+          "points": [
+            {
+              "heading": "Écrire ce dont on a besoin maintenant",
+              "objective": "Transmettre une demande simple si parler devient difficile.",
+              "exercise": [
+                "Utilisez le canal qui vous reste accessible, comme un message court ou un geste convenu.",
+                "Indiquez où vous allez et si vous voulez de la compagnie.",
+                "Dites quand vous pourrez décider de la suite, si vous le savez."
+              ],
+              "benefit": "La personne qui reçoit le message peut répondre à votre besoin immédiat."
+            },
+            {
+              "heading": "Confier une tâche précise",
+              "objective": "Faire passer la suite de l’activité à quelqu’un de disponible.",
+              "exercise": [
+                "Nommez ce qui doit continuer, comme orienter les premiers départs.",
+                "Montrez où laisser la photo ou les indications nécessaires.",
+                "Précisez ce que la personne peut dire sur votre absence."
+              ],
+              "benefit": "Le groupe garde ses repères sans que la raison de la pause doive circuler."
+            },
+            {
+              "heading": "Rechoisir sa participation après l’arrêt",
+              "objective": "Donner à la pause une suite que l’on peut encore modifier.",
+              "exercise": [
+                "Rejoignez l’endroit calme prévu ou demandez qu’on vous indique une autre possibilité.",
+                "Choisissez entre retrouver le groupe, rester un peu ou rentrer.",
+                "Prévenez la personne qui tient le rendez-vous lorsque vous avez décidé."
+              ],
+              "benefit": "La pause sert à retrouver un choix, même lorsque la suite se passe sans vous."
+            }
+          ]
         }
       ],
       "ending_title": "Un message depuis la banquette",
@@ -412,7 +924,8 @@
         "next": "Après la visite, elle décide quand répondre aux retours du quartier et quel rôle elle veut garder."
       },
       "clinical_focus": "Surcharge sensorielle en situation sociale",
-      "clinical_intro": "Lorsque l’enceinte s’allume, Nour éprouve plus de difficulté à entendre les participants et à répondre à leurs questions. Elle confie les deux départs à Fatou et choisit de s’écarter. Une pause laisse le temps de décider ce qui reste possible quand des sensations se cumulent. Le relais peut être organisé avec elle en respectant la confidentialité qu’elle souhaite."
+      "clinical_intro": "Lorsque l’enceinte s’allume, Nour éprouve plus de difficulté à entendre les participants et à répondre à leurs questions. Elle confie les deux départs à Fatou et choisit de s’écarter. Une pause laisse le temps de décider ce qui reste possible quand des sensations se cumulent. Le relais peut être organisé avec elle en respectant la confidentialité qu’elle souhaite.",
+      "conclusion": "Nour laisse l’image et les départs au kiosque, puis rentre. La visite continue grâce au relais et la pause garde le sens qu’elle lui a donné. La curiosité des voisins pour la porte demeure, même si Nour choisit d’en reparler un autre jour."
     },
     {
       "number": 10,
@@ -429,18 +942,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le temps que la sortie a pris ensuite",
-          "text": "Le coût d’une activité peut aussi se voir dans les heures ou les jours qui suivent. Nour aime la recherche autour de l’enseigne. Elle a dû reprendre la carte, gérer un changement puis quitter le kiosque quand l’enceinte s’est mise à jouer. À la maison, elle a reporté certaines tâches. Ce qu’elle retient de la visite inclut l’intérêt des voisins et le temps dont elle a eu besoin avant de s’occuper de la suite.\n\nL’OMS indique que certaines difficultés peuvent demander des efforts qui échappent à l’entourage."
+          "heading": "La récupération fait partie du coût d’une sortie",
+          "text": "Chez certaines personnes autistes, l’effort sensoriel et social peut continuer à se faire sentir après une activité appréciée. On peut retrouver l’envie de parler de la visite avant d’avoir assez de disponibilité pour recommencer. Après le kiosque, Nour remarque ce qu’elle a reporté chez elle et le lendemain. Ces effets comptent quand le groupe lui propose déjà plusieurs départs."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Nour, regarder ce qui s’est passé après la sortie donne une information de plus. Sa fatigue ne dit pas à elle seule ce qui l’a causée. Si elle persiste ou change, elle peut revenir sur les éléments qu’elle a apportés en consultation et en discuter avec un professionnel de santé. Avec les voisins, elle peut parler du temps qu’elle peut offrir au prochain projet."
+          "heading": "Comment la récupération se voit-elle dans les heures et les jours qui suivent ?",
+          "points": [
+            {
+              "heading": "Les tâches reportées donnent une mesure de l’effort",
+              "text": "Le coût d’une sortie peut se lire dans ce que la personne doit déplacer après être rentrée.",
+              "examples": [
+                "Nour avait prévu de reprendre une traduction et la laisse en attente après le kiosque.",
+                "Le lendemain, elle décale encore une conversation avec Fatou."
+              ]
+            },
+            {
+              "heading": "L’intérêt revient à un autre rythme",
+              "text": "L’envie de retrouver une information peut précéder celle de refaire tout le parcours.",
+              "examples": [
+                "Nour veut demander au voisin où il a vu l’ancienne entrée.",
+                "Elle prend plaisir à retrouver le nom de l’arrêt sur la carte et ne se voit pas tenir quatre départs."
+              ]
+            },
+            {
+              "heading": "La nouvelle demande arrive avant le bilan",
+              "text": "Une proposition enthousiaste peut pousser à répondre avant de savoir quelle part on veut reprendre.",
+              "examples": [
+                "Des voisins suggèrent un départ toutes les demi-heures.",
+                "Nour ouvre le calendrier, retrouve son créneau de relecture et commence à noter les tâches qu’elle préfère laisser au groupe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une part du travail qui reste possible",
-          "text": "Fatou peut envoyer à Nour quelques retours sur les trajets et les pauses, en conservant les remarques sur ce qui était difficile. Nour souhaite les lire avant une discussion. Elle propose de préparer une légende courte et de revoir l’adresse du départ. Elle laisse les messages d’inscription à celles et ceux qui veulent les traiter. Si les personnes disponibles ne peuvent assurer qu’un seul départ, le groupe peut choisir un rendez-vous unique.\n\nLe NICE recommande de partir des souhaits et des besoins de la personne dans l’accompagnement. Cette sortie lui donne un moyen d’exprimer des préférences concrètes. Nour veut pouvoir participer comme voisine, même si elle a écrit la carte. Elle garde le droit de relire une partie du projet, de proposer une idée ou d’arriver seulement pour écouter un récit. Les organisateurs peuvent convenir d’un relais qu’ils sont capables de prendre."
+          "heading": "3 techniques pour tenir compte de la récupération avant de recommencer",
+          "points": [
+            {
+              "heading": "Regarder ce qui a été décalé",
+              "objective": "Évaluer l’effort au-delà de la durée de la sortie.",
+              "exercise": [
+                "Relevez l’activité que vous aviez prévue en rentrant.",
+                "Notez ce que vous avez finalement reporté, y compris le lendemain.",
+                "Utilisez ces repères avant de proposer une nouvelle date."
+              ],
+              "benefit": "Le prochain rendez-vous peut tenir compte du temps nécessaire après l’activité."
+            },
+            {
+              "heading": "Laisser les retours arriver en une fois",
+              "objective": "Réduire la dispersion des messages pendant que l’on reprend ses autres tâches.",
+              "exercise": [
+                "Demandez à une personne volontaire de recueillir les retours.",
+                "Convenez d’un seul moment ou d’un document pour les lire.",
+                "Posez la question qui vous intéresse quand vous avez le temps d’y revenir."
+              ],
+              "benefit": "La curiosité pour le projet peut reprendre sans exiger une disponibilité continue."
+            },
+            {
+              "heading": "Choisir sa part du prochain rendez-vous",
+              "objective": "Prendre un engagement qui tient avec le travail et la récupération.",
+              "exercise": [
+                "Nommez la tâche que vous souhaitez garder.",
+                "Précisez l’horaire ou le nombre de départs que vous pouvez accepter.",
+                "Demandez qui souhaite prendre le reste avant d’annoncer la suite."
+              ],
+              "benefit": "La visite peut avoir lieu avec une répartition différente des efforts."
+            }
+          ]
         }
       ],
       "ending_title": "Une seule heure sur le calendrier",
@@ -457,7 +1026,8 @@
         "next": "Elle retrouve Joël pour rendre la légende disponible à l’écrit et à l’oral selon les choix de chacun."
       },
       "clinical_focus": "Récupération après une surcharge",
-      "clinical_intro": "Le lendemain, les voisins parlent déjà de recommencer. Nour mesure l’effort d’avoir repris la carte puis géré le bruit au kiosque, et elle repousse certaines tâches à la maison. Une activité appréciée peut avoir un coût qui n’apparaît qu’après. Nour regarde ce coût avant de choisir la légende comme part du prochain rendez-vous."
+      "clinical_intro": "Le lendemain, les voisins parlent déjà de recommencer. Nour mesure l’effort d’avoir repris la carte puis géré le bruit au kiosque, et elle repousse certaines tâches à la maison. Une activité appréciée peut avoir un coût qui n’apparaît qu’après. Nour regarde ce coût avant de choisir la légende comme part du prochain rendez-vous.",
+      "conclusion": "Nour peut demander où se trouve le banc et réserver du temps pour sa traduction. Elle propose un seul rendez-vous et garde la légende. Ce que la première sortie lui a demandé reste visible dans cette nouvelle répartition."
     },
     {
       "number": 11,
@@ -474,18 +1044,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Diversifier les modes d’accès à une information",
-          "text": "Un même renseignement peut se lire, s’écouter ou se retrouver dans une image. Joël veut écouter la légende et retrouver l’adresse sur son téléphone. Nour veut relire les noms sur une feuille qu’elle peut retourner et commenter. Leurs choix peuvent se combiner. Le texte reste disponible quand le bruit gêne l’écoute ou quand une personne n’a pas accès à l’enregistrement."
+          "heading": "Plusieurs formats peuvent rendre la même information accessible",
+          "text": "Une adresse peut être claire sur une feuille et se perdre dans un enregistrement où un bruit couvre la fin du mot. Le format utile dépend de la personne et du lieu. Joël souhaite proposer un texte à écouter. Nour, qui est autiste comme lui, veut pouvoir relire les noms et préfère participer par les annotations. Leur essai peut garder les deux formes sans faire circuler une voix qui ne souhaite pas être enregistrée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le NICE recommande de proposer les informations dans un format adapté aux besoins de la personne dans les services de soins et d’accompagnement. Nour et Joël en reprennent l’idée pour la visite. Ils vérifient que les adresses et le lieu de départ figurent dans les deux versions. La légende enregistrée peut comporter un silence que Nour marque au crayon. La feuille peut montrer où regarder sur la reproduction et donner le temps d’examiner le détail."
+          "heading": "Comment le format change-t-il l’accès à la légende ?",
+          "points": [
+            {
+              "heading": "Une information peut se perdre dans le son",
+              "text": "Une prise peut conserver l’ambiance du lieu et rendre une adresse difficile à distinguer.",
+              "examples": [
+                "Le choc de la presse arrive juste avant le nom de la rue.",
+                "Joël trouve que le bruit rend bien l’atelier. Nour entend surtout le nom masqué."
+              ]
+            },
+            {
+              "heading": "Le texte donne des repères qu’on peut retrouver",
+              "text": "Une feuille peut servir à revenir sur un nom, l’agrandir dans un autre format ou comparer le tracé.",
+              "examples": [
+                "Nour garde les deux adresses sur la version courte imprimée sur du papier mat.",
+                "Dans le couloir, elle vérifie sur le plan les adresses que Joël vient de lire."
+              ]
+            },
+            {
+              "heading": "Chaque personne peut choisir sa contribution",
+              "text": "La personne qui écrit, annote ou prête sa voix peut donner un accord différent sur l’usage de son travail.",
+              "examples": [
+                "Nour marque au crayon où elle ferait la pause et ne veut pas diffuser son propre enregistrement.",
+                "Joël garde la première prise pour lui et choisit avec Nour celle qu’il partagera."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Définir ensemble ce qui circule",
-          "text": "Nour souhaite contribuer avec le texte. Joël est d’accord pour que sa voix soit entendue par les participants dans le cadre qu’ils préparent. Avant d’envoyer le fichier, ils peuvent vérifier s’il contient la voix d’autres personnes à l’atelier ou des détails qui n’étaient pas destinés à circuler. Ils gardent le texte et les adresses pour les personnes qui préfèrent les consulter sur place ou qui arrivent sans téléphone.\n\nLe projet peut prévoir une écoute au point de départ et un exemplaire imprimé à garder. Nour confirme les conditions d’utilisation de la photographie. Elles ne changent pas avec l’ajout d’une version sonore de la légende. Joël peut choisir le fichier qu’il accepte de partager, puis préciser combien de temps il peut rester le jour de la visite. Nour peut conserver ses annotations et laisser l’organisation de l’écoute à quelqu’un d’autre."
+          "heading": "3 techniques pour rendre une légende accessible sous plusieurs formes",
+          "points": [
+            {
+              "heading": "Définir l’information commune",
+              "objective": "Garder les mêmes renseignements essentiels dans les deux supports.",
+              "exercise": [
+                "Choisissez les noms, adresses et horaires qu’il faut retrouver.",
+                "Mettez-les en évidence sur la feuille.",
+                "Vérifiez qu’on peut les entendre et les retrouver sur le plan à partir de la prise choisie."
+              ],
+              "benefit": "Les personnes peuvent passer de l’écrit à l’audio sans perdre le repère dont elles ont besoin."
+            },
+            {
+              "heading": "Essayer la prise dans deux lieux",
+              "objective": "Écouter ce qui arrive vraiment jusqu’à la personne qui cherche une adresse.",
+              "exercise": [
+                "Faites une prise dans le premier lieu avec l’accord de la personne enregistrée.",
+                "Repérez les mots qui deviennent difficiles à distinguer.",
+                "Refaites l’essai dans un endroit plus calme si les sons du premier couvrent une information."
+              ],
+              "benefit": "Il devient possible de choisir une version adaptée à l’usage prévu."
+            },
+            {
+              "heading": "Accorder la diffusion avec chaque contributeur",
+              "objective": "Savoir ce que l’on peut partager et à quel endroit.",
+              "exercise": [
+                "Demandez à chacun s’il préfère écrire, lire ou annoter.",
+                "Écoutez ou relisez la version qui doit être rendue publique.",
+                "Gardez les autres prises privées sauf nouvel accord."
+              ],
+              "benefit": "Chacun garde la main sur sa contribution et le public conserve plusieurs façons de suivre."
+            }
+          ]
         }
       ],
       "ending_title": "Le nom de la rue s’entend dans le couloir",
@@ -502,7 +1128,8 @@
         "next": "Le nouveau rendez-vous se tient au porche du quai et Nour choisit de faire un trajet comme participante."
       },
       "clinical_focus": "Accessibilité des modes de communication",
-      "clinical_intro": "Dans le premier enregistrement, les bruits de la presse couvrent un mot que Nour veut garder. Joël souhaite écouter sa légende et Nour a besoin de relire les noms sur une feuille. L’épisode montre comment diversifier les formats peut soutenir des personnes autistes dont les besoins diffèrent. Le choix du format va de pair avec le choix des enregistrements que chacun accepte de diffuser."
+      "clinical_intro": "Dans le premier enregistrement, les bruits de la presse couvrent un mot que Nour veut garder. Joël souhaite écouter sa légende et Nour a besoin de relire les noms sur une feuille. L’épisode montre comment diversifier les formats peut soutenir des personnes autistes dont les besoins diffèrent. Le choix du format va de pair avec le choix des enregistrements que chacun accepte de diffuser.",
+      "conclusion": "L’adresse s’entend dans le couloir et reste lisible dans la chemise. Joël choisit la prise qu’il souhaite partager et Nour garde ses annotations comme contribution. Le prochain rendez-vous aura deux formats pour retrouver le même porche."
     },
     {
       "number": 12,
@@ -519,18 +1146,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Participer en gardant la possibilité de changer de rôle",
-          "text": "Le rôle de chacun dans un projet collectif peut changer entre la préparation et le jour du rendez-vous. Nour a préparé la carte, suivi les travaux et choisi les mots de la légende. Au porche, elle souhaite surtout marcher avec Rita. Le groupe peut assurer les autres rôles parce qu’il a convenu des horaires, du lieu de retour et de la personne qui garde les documents."
+          "heading": "Participer en choisissant sa place dans le groupe",
+          "text": "Pour une personne autiste, une activité collective peut devenir plus accessible si les rôles, les trajets et les pauses restent modulables. L’autonomie peut consister à choisir l’appui que l’on veut et la tâche que l’on souhaite laisser. Après avoir préparé la carte, Nour veut suivre le quai avec Rita. L’accueil peut continuer au porche grâce aux personnes qui ont accepté d’y rester."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nour peut revenir au porche et choisir de parler de l’hirondelle si elle en a envie.\n\nLe NICE décrit un accompagnement qui respecte les préférences, les choix et la participation de la personne autiste. Dans ce projet de voisinage, Nour sait à qui demander un relais et peut décider de la part qu’elle veut garder. Ses préférences peuvent évoluer. Joël peut rester au porche cette fois et marcher un autre jour. Rita peut emprunter l’autre chemin si elle en a assez du quai."
+          "heading": "Comment le choix du rôle change-t-il la façon de participer ?",
+          "points": [
+            {
+              "heading": "La préparation ne détermine pas le rôle du jour",
+              "text": "Faire une carte ou une légende peut rester une contribution entière sans devoir guider les arrivées.",
+              "examples": [
+                "Nour dépose la chemise et montre l’heure du départ à Fatou.",
+                "Joël reste au porche pour faire écouter l’enregistrement aux personnes intéressées."
+              ]
+            },
+            {
+              "heading": "Le trajet peut être ajusté en chemin",
+              "text": "Pouvoir choisir où s’arrêter rend le parcours moins dépendant d’une seule solution.",
+              "examples": [
+                "Rita signale que le banc est occupé par deux personnes et leur chien.",
+                "Nour décide d’avancer et de regarder la cour depuis l’autre côté."
+              ]
+            },
+            {
+              "heading": "Le relais laisse une place pour revenir",
+              "text": "Une personne peut quitter l’accueil et retrouver ensuite ce qui se passe au point commun.",
+              "examples": [
+                "Nour peut voir les trous de fixation en marchant avec Rita.",
+                "Au retour, elle entend Joël dire le nom de la boutique et Fatou lui rend la chemise."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser des indications que d’autres peuvent reprendre",
-          "text": "À leur retour, Fatou et Nour peuvent noter à quel endroit la carte reste difficile à lire et ce qui a aidé les personnes à choisir une pause. Elles peuvent garder les adresses confirmées et ajouter la date de leur dernier repérage. Si un lieu change, la prochaine personne qui organise la visite saura quoi vérifier. Les retours peuvent concerner des détails simples, comme la hauteur à laquelle la chemise est posée ou la direction depuis laquelle on aperçoit la porte.\n\nNour peut garder pour son prochain rendez-vous ce qui lui sert dans d’autres situations. Elle a demandé un déroulé au travail et choisi la façon dont elle a parlé de sa fatigue. Elle souhaite maintenir les appuis qui lui sont utiles. La professionnelle qui l’accompagne pourra l’aider à revoir ces choix si le cadre de travail ou les besoins de Nour changent. Le projet continue selon les disponibilités et les envies des voisins."
+          "heading": "3 techniques pour choisir sa façon de participer à une activité collective",
+          "points": [
+            {
+              "heading": "Séparer le départ, le trajet et l’accueil",
+              "objective": "Rendre visibles les rôles que chacun peut prendre ou laisser.",
+              "exercise": [
+                "Nommez les tâches nécessaires avant et pendant le rendez-vous.",
+                "Demandez qui accepte de rester au point commun et jusqu’à quelle heure.",
+                "Choisissez le rôle que vous souhaitez tenir ce jour-là."
+              ],
+              "benefit": "Le groupe peut fonctionner même quand une personne passe de l’organisation à la visite."
+            },
+            {
+              "heading": "Garder plusieurs endroits où s’arrêter",
+              "objective": "Laisser une décision de parcours à la personne qui marche.",
+              "exercise": [
+                "Repérez un arrêt souhaité et une autre option à proximité.",
+                "Vérifiez sur place lequel est accessible.",
+                "Dites si vous préférez continuer, revenir ou vous arrêter un moment."
+              ],
+              "benefit": "Un banc occupé ne décide pas à lui seul de la sortie."
+            },
+            {
+              "heading": "Revenir pour l’échange que l’on veut",
+              "objective": "Conserver un lien choisi avec le point commun.",
+              "exercise": [
+                "Convenez de ce que vous retrouverez au retour, comme les documents ou une écoute.",
+                "Rejoignez l’échange qui vous intéresse si vous en avez envie.",
+                "Proposez un autre jour pour ce qui demande plus de temps."
+              ],
+              "benefit": "La participation peut se poursuivre sous une autre forme sans rendre la présence obligatoire."
+            }
+          ]
         }
       ],
       "ending_title": "Les trous de fixation au-dessus de la porte",
@@ -547,7 +1230,8 @@
         "next": "Le groupe garde les indications et chacun pourra choisir un trajet, une pause ou un rôle lors d’une prochaine visite."
       },
       "clinical_focus": "Participation sociale et autonomie",
-      "clinical_intro": "Au deuxième départ, Nour préfère emprunter un trajet avec Rita plutôt que tenir l’accueil. Le groupe sait où trouver la carte et peut reprendre les explications qu’elle a préparées. Ce partage rend la participation plus souple et lui permet d’ajuster l’effort social et sensoriel qu’elle veut fournir. Son intérêt pour la visite reste visible dans le rôle qu’elle choisit."
+      "clinical_intro": "Au deuxième départ, Nour préfère emprunter un trajet avec Rita plutôt que tenir l’accueil. Le groupe sait où trouver la carte et peut reprendre les explications qu’elle a préparées. Ce partage rend la participation plus souple et lui permet d’ajuster l’effort social et sensoriel qu’elle veut fournir. Son intérêt pour la visite reste visible dans le rôle qu’elle choisit.",
+      "conclusion": "Nour voit enfin les trous de fixation qu’elle cherchait et revient écouter Joël au porche. Son rôle a changé, et la carte permet aux autres de garder leurs choix. La prochaine visite de la cour peut rester un rendez-vous qu’elle et Fatou décideront ensemble."
     }
   ]
 }

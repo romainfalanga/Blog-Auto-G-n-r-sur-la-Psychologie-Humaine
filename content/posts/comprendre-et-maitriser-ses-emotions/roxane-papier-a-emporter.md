@@ -33,16 +33,79 @@ Salomé vient avec le rabat plié et les deux cartons. Mme Sorel a rangé les de
 
 Une présentation réussie renseigne sur ce que l’enfant et son entourage ont pu faire dans cette situation. Le lendemain ou dans un autre lieu, certains sons peuvent encore être difficiles à comprendre. Au comptoir, Roxane retrouve la situation qu’elle avait voulu travailler avec Mme Colin : demander un renseignement à quelqu’un qui connaît moins bien sa façon de parler. Elle a dû préciser sa question, et c’est l’objet devant elle qui lui a donné l’idée d’une autre phrase.
 
-## Comment cette difficulté se manifeste
+## Comment la parole change-t-elle entre une présentation préparée et une conversation spontanée ?
 
-Roxane pourra raconter ce moment à son prochain rendez-vous. Elle peut aussi dire que, devant le public, elle a aimé décider elle-même de passer la phrase à Zoé. Mme Colin continue de suivre avec elle ce qui lui demande de l’effort et les objectifs qui lui sont utiles. Un exemple de la vie ordinaire peut éclairer cette discussion. Il ne remplace pas l’évaluation de l’orthophoniste.
+### La préparation donne des repères partagés
 
-## Un autre jeu au fond de l’enveloppe
+Un public qui voit le carton et suit un ordre annoncé peut retrouver des mots qui seraient difficiles à saisir hors de ce cadre.
 
-Dans sa lettre, Roxane n’écrit pas le nom de l’oiseau en haut de la page. Elle décrit d’abord un bruit bref qui fait penser à un petit objet sur du bois. Elle recopie l’indice du tambour sur un premier pli. Au fond, elle met l’empreinte prise chez Joëlle, la plume de papier et un petit dessin qu’elle a demandé à Zoé. Le rabat original ira dans son cahier, avec la feuille à deux cases.
+**Exemples concrets**
 
-Le projet avait commencé par le désir de faire entendre une fausse piste. Pour la rencontre, Roxane a choisi un extrait, écrit, parlé et partagé une phrase avec Zoé. L’enveloppe lui permet d’essayer le même jeu avec une personne qui n’entendra aucun son. Pour son enquête sur les tuyaux, elle commence une page neuve. Il n’y a encore ni réponse, ni public, ni date pour la lire.
+- À la rencontre, le son, les jetons et le carton situent l’indice de Roxane.
+- Pour la version postale, les plis donnent à Joëlle un ordre à suivre pendant l’appel.
+
+### Une demande improvisée ajoute de l’inconnu
+
+Une nouvelle personne peut ignorer le sujet et ne reconnaître qu’une partie de la question. Il faut parfois chercher un autre point de départ sur le moment.
+
+**Exemples concrets**
+
+- Au comptoir, Roxane doit préciser ce qu’elle cherche avant d’obtenir un renseignement.
+- Dans une autre bibliothèque, un enfant peut désigner le rayon pour compléter un nom de livre que l’adulte ne reconnaît pas.
+
+### Un appui peut changer de forme en route
+
+Ce qui se retrouve d’une situation à l’autre est parfois une manière de vérifier ou de reprendre, même quand le support préparé n’est plus là.
+
+**Exemples concrets**
+
+- L’objet devant Roxane au comptoir lui donne une autre phrase.
+- Au téléphone, elle s’appuie sur l’empreinte que sa tante tient déjà pour suivre la devinette à distance.
+
+## 3 techniques pour adapter un appui à un nouvel échange
+
+### 1. Repérer ce qui était disponible
+
+Comprendre quel élément a aidé dans la situation préparée.
+
+**Exercice pratique**
+
+- Reprenez un échange qui a permis de poursuivre.
+- Repérez si le support, la personne ou l’ordre des étapes a compté.
+- Choisissez ce qui serait transportable dans un autre lieu.
+
+On peut garder la fonction utile d’un appui en changeant sa forme.
+
+### 2. Trouver un repère sur place
+
+Reformuler une demande imprévue à partir d’un élément commun.
+
+**Exercice pratique**
+
+- Écoutez ce que l’interlocuteur dit avoir compris.
+- Montrez un objet proche qui situe la demande.
+- Formulez de nouveau la partie manquante autour de cet objet.
+
+Le contexte devient commun même si aucun carton n’était prévu.
+
+### 3. Décrire deux échanges en orthophonie
+
+Aider le suivi à prendre en compte les situations ordinaires.
+
+**Exercice pratique**
+
+- Choisissez un exemple préparé et un échange imprévu.
+- Décrivez les personnes, le lieu et ce qui a permis de poursuivre.
+- Demandez avec l’enfant quel échange il aimerait travailler ensuite.
+
+Mme Colin peut s’appuyer sur ces différences pour ajuster les objectifs avec Roxane.
 
 ## Un bruit à garder pour la prochaine fois
 
 Joëlle appelle après avoir reçu l’enveloppe. Elle pense à un petit marteau qui a roulé d’une table. Roxane rit en imaginant l’objet et lui dit d’ouvrir le premier pli. Puis elle attend qu’elle se décide. Quand Joëlle retourne l’empreinte et trouve le dessin, elle demande si la plume vient du pic. « Du papier de Zoé », répond Roxane. Son père lui montre le livre resté ouvert près du téléphone. Elle le referme pour écouter sa tante. Tout à l’heure, elle ira noter ce qu’elle entend chez elle, quand les autres appartements commencent à s’allumer.
+
+---
+
+**Conclusion**
+
+La rencontre et la question au comptoir sollicitent Roxane différemment. Elle peut apporter cette différence à Mme Colin et garder pour elle le plaisir d’avoir fait jouer Joëlle. Les bruits qu’elle entend chez elle lui donnent déjà un nouveau point de départ.

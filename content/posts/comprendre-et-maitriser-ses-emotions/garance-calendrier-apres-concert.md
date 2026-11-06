@@ -28,20 +28,83 @@ Le lundi, un client demande à Garance si elle peut relire un catalogue qui part
 
 Elle revient au devis. Le client propose une date qu’elle pourrait tenir en prenant le lendemain de la répétition pour terminer. Garance voudrait garder un matin sans rendez-vous, comme elle l’a fait après le concert. Elle demande au client s’il est possible de déplacer la remise. Puis elle note un autre créneau sur le calendrier, avant de fermer les deux fichiers.
 
-## Un plan que l’on peut reprendre quand le quotidien change
+## Prévenir les rechutes avec des appuis qui restent possibles
 
-Un plan de suivi peut évoluer avec les besoins, les expériences et les ressources de la personne. Garance souhaite garder les contacts qui lui ont permis d’obtenir un rendez-vous plus tôt et un relais urgent. Elle peut reprendre avec son équipe ce qui a été difficile à utiliser et revoir les modalités prévues. Les décisions de traitement se discutent avec sa psychiatre. Sa psychologue peut l’aider à préparer ce qu’elle veut dire sur le travail ou les répétitions.
+Dans le trouble bipolaire, la prévention peut comprendre un suivi au long cours, des repères personnels et des accords que l’on révise avec l’équipe. Les engagements de travail et de loisir peuvent évoluer à mesure que la personne comprend ce qui lui convient. Garance retrouve dans son agenda le matin libre après le concert et dans la pochette le contact qui lui a servi. Elle examine ce qu’elle veut garder dans chacun de ces deux appuis.
 
-## Comment cette difficulté se manifeste
+## Comment la prévention se concrétise-t-elle après le concert ?
 
-Le NICE recommande de revoir la prise en charge avec la personne, y compris ses priorités et ses besoins dans la vie courante. Garance peut demander à Éva quelle part de soutien lui convient et partager la version du plan qu’elle veut lui transmettre. Elle conserve aussi des échanges privés avec les soignants. Si la sécurité est en jeu, le recours aux professionnels reste la priorité, même si Éva est disponible.
+### Le calendrier retrouve les tâches invisibles
 
-## Choisir un engagement qui tient sur le calendrier
+Prévoir une échéance revient aussi à tenir compte de ce qui doit arriver avant et de ce qu’on veut garder autour.
 
-Pour répondre au client, Garance peut vérifier ce qu’elle devra livrer, les temps de réponse des autres et la possibilité de garder le matin dont elle a besoin. Si le délai ne peut pas bouger, elle décidera si elle souhaite prendre un périmètre plus petit ou refuser. Elle peut avoir envie du catalogue et garder une place pour le reste. La décision professionnelle lui appartient.
+**Exemples concrets**
 
-Dans l’ensemble, Garance préfère choisir un morceau pour la prochaine séance. Lise peut annoncer ce qui est fixé et laisser les personnes revenir sur une tâche supplémentaire. Éva veut garder un moment pour les partitions et parler de ce qui l’a inquiétée un autre jour si nécessaire. Garance pourra lui dire quels contacts ont fonctionné pour elle et à quoi leur accord pourrait ressembler maintenant. Elles n’ont pas besoin de régler tout leur rôle dans une seule conversation.
+- Garance vérifie quand les textes du catalogue seront livrés et quand son client pourra répondre.
+- Elle hésite à utiliser le lendemain de la répétition et négocie un délai plus long.
+
+### Les contacts sont revus après usage
+
+Une expérience de soins peut éclairer ce qu’il faut confirmer ou changer avant la prochaine période difficile.
+
+**Exemples concrets**
+
+- Garance a un rendez-vous prévu pour revoir les appuis qui lui ont servi.
+- Éva lui dit qu’elle n’a pas toujours su quand rappeler au cours de la période dépressive.
+
+### L’accord conserve une place pour l’amitié
+
+Un proche peut connaître une partie du plan et garder des moments qui concernent d’autres choses.
+
+**Exemples concrets**
+
+- Garance choisit la page à montrer à Éva et apprend quels soirs elle termine tard.
+- Elles rangent les contacts pour poser leurs deux partitions sur le même pupitre.
+
+## 3 techniques pour faire durer les appuis de prévention
+
+### 1. Négocier une échéance avec une marge
+
+Tenir compte du travail réel avant de dire oui.
+
+**Exercice pratique**
+
+- Vérifiez l’arrivée des documents et les moments où le client pourra vous répondre.
+- Inscrivez les activités et les plages de repos que vous voulez préserver.
+- Proposez un autre délai ou une tâche plus courte si le calendrier ne tient pas.
+
+Vous choisissez votre engagement à partir de l’ensemble du travail.
+
+### 2. Revoir un recours qui a déjà servi
+
+Ajuster le plan aux difficultés rencontrées en pratique.
+
+**Exercice pratique**
+
+- Choisissez un moment où vous avez eu besoin d’un avis plus tôt.
+- Dites à l’équipe ce qui a marché et les consignes qui étaient difficiles à retrouver.
+- Faites confirmer les coordonnées, les horaires et la suite prévue.
+
+L’expérience de la période passée rend le prochain recours plus facile à comprendre.
+
+### 3. Renouveler l’accord avec l’amie
+
+Garder un soutien que chacune veut encore tenir.
+
+**Exercice pratique**
+
+- Demandez au proche quels moments et quels gestes lui conviennent.
+- Partagez la page de contacts que vous avez choisie et rappelez les autres relais.
+- Fixez un moment pour autre chose que le suivi, comme choisir le prochain morceau.
+
+L’aide reste possible dans des limites acceptées et l’amitié conserve ses autres occasions.
 
 ## Le matin reste sans trait
 
 Le client accepte un délai plus long. Garance inscrit la date de remise et vérifie une dernière fois le jour où les textes arriveront. Elle laisse le matin suivant la répétition sans trait. À la salle des Forges, Éva apporte une partition qu’elles ont peu jouée. Garance lui montre d’abord la page de contacts qu’elle peut garder. Éva lui dit quels soirs elle termine tard. Elles rangent la page et posent leurs deux partitions sur le même pupitre. Garance demande à Éva de jouer les premières notes pour qu’elle retrouve l’entrée. Cette fois, elles prennent le morceau depuis le début.
+
+---
+
+**Conclusion**
+
+Le prochain catalogue laisse un matin libre et le prochain morceau est choisi avec Éva. Garance garde le rendez-vous où elle reviendra sur l’épisode et ses appuis. Son calendrier et son plan peuvent tous deux être revus à mesure que ses besoins changent.

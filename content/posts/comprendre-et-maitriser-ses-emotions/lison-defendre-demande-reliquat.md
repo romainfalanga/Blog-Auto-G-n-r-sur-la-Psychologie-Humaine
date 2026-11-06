@@ -34,14 +34,81 @@ Lison demande à rappeler Farah. Elle s’attend à devoir expliquer pourquoi le
 
 Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits.
 
-## Dire oui à une somme et poser une autre question
+Le trouble des apprentissages en mathématiques peut rendre certaines étapes de calcul ou de raisonnement plus coûteuses. Le gabarit aide ici Lison à vérifier une autre dimension du problème, la possibilité d’obtenir quatre bandes dans le tissu réel. Son essai donne à l’équipe un argument vérifiable pour demander l’échange.
 
-L’assurance de Farah fait revenir le doute de Lison. Elle a peur de donner l’impression de contester une addition simple. L’OMS rappelle que le trouble des apprentissages avec déficit en mathématiques peut concerner diverses compétences et que les difficultés varient selon les exigences. Lison s’appuie ici sur un raisonnement lié à son métier. Elle sait pourquoi les bandes doivent tenir entières et trouve une façon de le montrer. Staller et ses collègues ont recueilli des récits d’appréhension dans des situations où des chiffres devaient être traités sur le moment. Lison peut éprouver cette gêne et reprendre sa place dans l’échange dès qu’elle retrouve sa question.
+## Comment un total juste peut-il cacher une quantité inutilisable ?
 
-## Donner une trace au désaccord
+### Additionner ne dit pas comment la matière se répartit
 
-Lison peut envoyer la référence du devis accepté et une photo centrée sur ce qui doit être compris. Elle peut aussi préciser que le coupon reçu est intact et proposer, avec l’accord de Nora, qu’il soit repris. Pour préparer la suite, l’atelier a besoin d’une réponse sur le lot, la largeur, la longueur d’un seul tenant et la date de l’échange. Nora peut vérifier ces conditions, puis décider de ce qui peut avancer entre-temps. Ilyès a aidé à garder le dessin visible ; il n’a pas à porter la négociation. Si le fournisseur ne peut pas assurer l’échange, ce sera à l’atelier de revoir le patron, l’échéance ou le choix de matière.
+Deux coupons peuvent totaliser la longueur commandée sans fournir une pièce de cette longueur.
+
+**Exemples concrets**
+
+- Les 150 cm et les 35 cm donnent bien 185 cm mais restent deux coupons.
+- Une réserve peut compléter le total sans prolonger le bord d’un autre morceau.
+
+### Le gabarit rend la contrainte perceptible
+
+Poser chaque forme montre combien de pièces complètes tiennent réellement dans chaque morceau.
+
+**Exemples concrets**
+
+- Deux bandes de 60 cm tiennent dans les 150 cm et une dans les 75 cm de réserve.
+- Les 35 cm proposés ne peuvent contenir aucune bande entière de 60 cm.
+
+### La marge ne répond pas à toutes les contraintes
+
+Une réserve pour ajuster une coupe n’assemble pas des chutes en une bande continue.
+
+**Exemples concrets**
+
+- Les vingt centimètres de marge sont utiles après placement des quatre bandes.
+- Une chute permet de regarder le rendu de la couleur sans fournir la matière des vrais revers.
+
+## 3 techniques pour vérifier ce qu’un total permet réellement de faire
+
+### 1. Écrire le besoin en pièces
+
+Séparer le total des éléments à obtenir.
+
+**Exercice pratique**
+
+- Comptez le nombre de pièces nécessaires.
+- Inscrivez la longueur et la largeur utiles de chaque pièce.
+- Distinguez les pièces entières de la marge d’ajustement.
+
+La vérification porte sur ce qui doit être produit.
+
+### 2. Essayer le placement avant toute coupe
+
+Comparer le calcul à la matière disponible.
+
+**Exercice pratique**
+
+- Disposez les gabarits sur chaque coupon sans couper.
+- Comptez les formes qui tiennent entièrement.
+- Montrez où une pièce manque malgré le total.
+
+Le partenaire peut vérifier la contrainte sur le support réel.
+
+### 3. Expliquer le besoin au fournisseur
+
+Faire une demande précise sans multiplier les chiffres isolés.
+
+**Exercice pratique**
+
+- Photographiez le placement et joignez la référence du devis.
+- Précisez la longueur qui doit être d’un seul tenant.
+- Faites valider l’échange par la personne responsable avant de reprendre la coupe.
+
+Le fournisseur peut répondre à la contrainte exacte.
 
 ## Une chute pour le premier essayage
 
 Lison photographie les gabarits et la règle, puis joint le numéro du devis. Avant l’essayage, Farah confirme par écrit un échange pour lundi : reprise du coupon intact et livraison de 185 cm d’un seul tenant, dans le lot et la largeur demandés. Nora approuve le retour. Elles pourront vérifier la coupe générale sur les toiles d’essai aujourd’hui ; les vrais revers attendront. Lison inscrit « échange lundi » sur la fiche et range la photo. Puis elle embarque une chute d’ocre à l’essayage. Une comédienne voudrait voir où apparaîtra la couleur quand elle lève le bras. Ça, elles peuvent déjà le regarder.
+
+---
+
+**Conclusion**
+
+La somme n’était pas l’obstacle. Les gabarits montrent qu’il manque une bande entière et permettent à Lison d’obtenir un échange. L’atelier garde le coupon intact et avance sur les toiles d’essai pendant que les vrais revers attendent.

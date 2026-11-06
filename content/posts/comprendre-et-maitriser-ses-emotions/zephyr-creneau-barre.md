@@ -31,22 +31,81 @@ Cette fois elle vient le chercher pour le dépôt à la banque. Il avait promis 
 
 ## D’où vient la certitude qu’on veut l’écarter ?
 
-Dans le trouble schizotypique, des soupçons et des difficultés relationnelles peuvent se prolonger au-delà d’un échange. L’effet se voit ici dans l’après-midi que Zéphyr passe à reprendre la scène et dans son envie de se retirer. Le musée a réellement modifié le planning. L’intention que Zéphyr y lit reste à éclaircir avec Maud.
+Une information incomplète peut donner à une interprétation la force d’un fait. Dans le trouble schizotypique, la méfiance peut rester présente d’un échange à l’autre et peser sur les relations. Un planning barré ne suffit pas à reconnaître le trouble. Il peut y avoir eu un vrai défaut d’information. Au musée, le changement de planning est réel, mais Zéphyr y lit déjà une décision sur sa place dans l’équipe. Cette lecture change sa façon de parler à Maud et lui fait manquer le dépôt promis.
 
-Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ.
+## Comment la méfiance transforme-t-elle un changement de planning ?
 
-## Comment cette difficulté se manifeste
+### Le changement paraît personnel
 
-Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.
+Quand on craint d’être écarté, une modification d’organisation peut prendre le sens d’un geste dirigé contre soi.
 
-Une méfiance persistante et le retrait des échanges font partie des difficultés qui peuvent être présentes dans le trouble schizotypique. Le guide de la CIM-11 les situe dans un ensemble durable et tient compte de leur retentissement. Une réaction devant un planning ne permet à elle seule aucune conclusion. Il arrive aussi qu’une équipe se parle mal ou oublie de transmettre une information. Dans le hall, ces deux questions restent ouvertes.
+**Exemples concrets**
 
-## Une question sur le prochain geste
+- Zéphyr voit une ligne verte et pense que le musée lui retire l’atelier.
+- Une personne découvre un changement de salle par un collègue et craint qu’on ait délibérément cessé de la prévenir.
 
-Zéphyr n’a pas besoin de savoir tout ce que Basile a pensé pour demander ce qui arrive à sa matinée. Il peut poser le doigt sur la ligne et demander : « Est-ce que l’essai est retiré ou est-ce que l’heure bouge ? » La réponse règle une question de travail précise. Si le musée a oublié de le prévenir, Maud et lui peuvent décider comment lui faire parvenir les modifications à l’avenir.
+### Une remarque antérieure devient un indice
 
-L’inquiétude peut rester après la réponse. Dans un suivi, reprendre la scène avec ses effets concrets — le matériel rentré, l’engagement oublié, l’envie de partir — peut donner de quoi travailler sur ce qui coûte le plus à la personne. C’est différent de lui demander de convaincre les autres qu’elle a eu raison, ou de lui faire répéter la vérification à chaque remontée du doute.
+Une phrase vague peut sembler expliquer après coup un événement qui lui ressemble.
+
+**Exemples concrets**
+
+- Zéphyr donne un nouveau sens à la remarque de Basile sur la place dans le musée.
+- Après la suppression d’une réunion, un bénévole entend autrement le « il faut simplifier » prononcé la semaine précédente.
+
+### La réponse se prépare avant l’échange
+
+La méfiance agit déjà sur la relation quand elle conduit à se retirer avant de connaître la décision.
+
+**Exemples concrets**
+
+- Zéphyr couvre les tabourets alors que Maud n’a pas fini son appel.
+- Un collègue commence à vider son casier avant d’avoir demandé ce que devient sa permanence.
+
+## 3 techniques pour clarifier un changement de planning
+
+### 1. Questionner la décision utile
+
+Savoir ce qui arrive au projet.
+
+**Exercice pratique**
+
+- Repérez la modification exacte.
+- Demandez si le créneau change ou si l’activité est retirée.
+- Convenez de la prochaine décision, même si tout n’est pas encore réglé.
+
+Une réponse ciblée peut permettre de poursuivre le travail sans débattre des intentions de chacun.
+
+### 2. Prévoir comment l’information circule
+
+Éviter de découvrir seul un changement important.
+
+**Exercice pratique**
+
+- Nommez l’information qui a manqué.
+- Choisissez ensemble qui transmet les modifications.
+- Convenez du moyen qui vous convient à tous les deux.
+
+Un accord précis donne un recours quand le tableau change de nouveau.
+
+### 3. Apporter les effets concrets en consultation
+
+Parler du coût de la méfiance lorsqu’elle pèse durablement.
+
+**Exercice pratique**
+
+- Retenez un échange qui revient en mémoire.
+- Notez ce que vous avez cru et ce que vous avez fait ensuite.
+- Expliquez à votre équipe ce que vous souhaiteriez pouvoir faire dans une situation semblable.
+
+Les effets sur les engagements et les relations aident à choisir un objectif de suivi.
 
 ## Remettre un tabouret debout
 
 « Est-ce qu’on a retiré mon essai ? » Maud lui montre la feuille posée à côté du téléphone. Le créneau du vendredi a sauté parce que la visite des écoles occupe la salle ; elle a barré la ligne avant de transmettre le changement. Le projet reste à présenter au bureau de l’association. « J’aurais dû venir te le dire. » Zéphyr attend un peu avant de lui rendre la feuille. Il est encore contrarié. Ils conviennent qu’elle lui laissera un mot quand une date bouge. Jeudi, l’atelier pourra recevoir un seul adulte pour voir si sa démonstration est compréhensible avant d’en parler au bureau. Zéphyr lui donne l’accord pour inviter Loïc, un habitué du musée, puis soulève la bâche d’un côté.
+
+---
+
+**Conclusion**
+
+Le musée a bien barré un créneau. Zéphyr obtient une réponse sur la suite sans avoir à décider ce que Basile pensait. Le tabouret qu’il découvre marque un nouvel essai. La crainte qu’il a ressentie devant le tableau reste un sujet possible de suivi.

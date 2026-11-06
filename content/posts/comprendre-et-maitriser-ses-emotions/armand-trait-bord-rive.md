@@ -29,22 +29,83 @@ Nadia voudrait essayer la légende à voix haute. Deux personnes du foyer sont v
 
 Une des personnes demande s’il veut que Nadia raconte à sa place. « Je veux qu’elle me montre là », répond Armand, en posant l’index sur le trait du pont. Il lui demande de ne rien ajouter pendant un instant. Nadia suit son geste. Le mot des anneaux ne revient pas. Armand décide d’expliquer le passage par le chemin qu’empruntait la tournée du facteur. Il reprend la carte et la tourne vers les deux visiteurs.
 
-## Une difficulté à trouver le mot dans une conversation
+## Le mot manque, le trajet reste
 
-La maladie d’Alzheimer peut gêner la recherche de mots et la conduite d’une conversation, en plus des difficultés de mémoire. Dans une discussion où plusieurs personnes parlent, suivre les suggestions et garder la phrase en tête peuvent devenir deux tâches à la fois.
+La recherche d’un mot peut devenir plus difficile avec la maladie d’Alzheimer. La personne peut savoir ce qu’elle veut désigner et avoir besoin de temps pour retrouver son nom. Des suggestions ou des questions simultanées ajoutent parfois une autre difficulté : garder en tête la phrase commencée. Armand retrouve une façon d’expliquer le passage en s’appuyant sur la carte et sur sa tournée.
 
-## Comment cette difficulté se manifeste
+## Comment le manque du mot s’entend-il dans un échange ?
 
-Il est possible qu’Armand profite d’une indication sur la carte tout en continuant à chercher le mot qu’il avait en tête. Il peut aussi contourner le mot pour donner son explication autrement.
+### Une pause au milieu d’une idée
 
-L’aider à reprendre est différent de lui faire réciter ce dont il se souvient. Le guide de la Haute Autorité de santé invite à maintenir le dialogue malgré les difficultés de langage, et le NICE propose, si nécessaire, des modes de communication adaptés. Dans ce cas, la carte peut porter une partie de l’explication et les autres peuvent attendre qu’Armand dise comment il veut continuer.
+Un arrêt peut survenir au moment de nommer un détail sans que tout le récit soit perdu.
 
-## Préparer un appui qui n’entre en jeu qu’au bon moment
+**Exemples concrets**
 
-Armand et Nadia peuvent mettre au point un signal discret : s’il pointe la rive ou demande où ils en étaient, elle lui montre le trait convenu. Il peut préférer qu’elle lise une courte légende si le récit devient trop fatigant. Avec deux visiteurs, Nadia peut aussi annoncer qu’ils poseront leurs questions après l’explication. Cela laisse à Armand un début de récit à mener à son rythme et donne aux auditeurs une place précise.
+- Armand garde son doigt sur le trait et cherche encore le nom des anneaux.
+- En décrivant une ancienne boutique, une personne hésite sur le mot « devanture » tout en situant très bien l’entrée.
 
-Si Armand accepte de participer à une présentation, il peut choisir d’en faire une démonstration autour de la carte et décider avec Nadia comment s’arrêter. Il n’a pas besoin d’attendre que chaque mot soit revenu pour dire quelque chose qu’il juge utile. Quand la difficulté se retrouve dans des échanges importants du quotidien, il peut en parler lors du suivi ; l’équipe peut l’aider à examiner les appuis qui lui conviennent.
+### Les réponses proposées font perdre le tour
+
+Plusieurs interventions peuvent rendre plus difficile le retour à la phrase initiale.
+
+**Exemples concrets**
+
+- Un visiteur demande si Nadia doit raconter ; Armand veut seulement qu’elle lui montre l’endroit.
+- À table, deux personnes proposent des mots en même temps et l’orateur demande où il s’était arrêté.
+
+### Une autre formulation garde le sens
+
+Une description ou un support peut transmettre l’idée quand le terme précis reste inaccessible.
+
+**Exemples concrets**
+
+- Armand montre le passage par le chemin de la tournée du facteur.
+- Quelqu’un dit « la petite pièce qui retient le volet » et montre la ferrure qu’il voulait nommer.
+
+## 3 techniques pour poursuivre quand un mot tarde
+
+### 1. Donner du temps à la phrase
+
+Laisser à la personne la possibilité de continuer à sa manière.
+
+**Exercice pratique**
+
+- Gardez l’attention sur ce qu’elle explique.
+- Attendez avant de proposer un mot.
+- Demandez si elle veut un indice ou du temps.
+
+Une pause peut suffire à préserver son tour de parole, même si le mot ne revient pas.
+
+### 2. Choisir un indice visible
+
+Relier le détail cherché à quelque chose qui reste accessible.
+
+**Exercice pratique**
+
+- Convenez d’un geste pour demander un appui.
+- Montrez le point de la carte indiqué par ce geste.
+- Laissez l’orateur reprendre à partir de ce qu’il voit.
+
+L’aide visuelle accompagne l’idée sans remplacer la voix de la personne.
+
+### 3. Décrire le détail autrement
+
+Transmettre ce qui compte malgré le manque d’un terme.
+
+**Exercice pratique**
+
+- Identifiez ce que le public doit comprendre.
+- Essayez une description, un trajet du doigt ou un dessin.
+- Faites redire le sens de la phrase si vous souhaitez le vérifier.
+
+Une formulation de rechange peut rendre l’explication utilisable tout de suite.
 
 ## Le carré au bout du trait
 
 Nadia promet de reprendre le cadrage. Armand lui dicte une phrase sur le chemin de la rive et la lui fait répéter pour l’entendre d’un bout à l’autre. Il accepte l’idée d’une brève rencontre autour des cartes le jour où il les donnera, s’ils peuvent décider du format ensemble. Quand les visiteurs sont partis, Nadia l’aide à remettre l’original dans sa chemise. Armand lui montre le carré une dernière fois. « Si vous gardez ça, vous gardez le chemin entier. » Les anneaux peuvent attendre.
+
+---
+
+**Conclusion**
+
+Au foyer, le nom des anneaux reste introuvable et les visiteurs peuvent pourtant suivre le chemin. Armand définit l’aide qui lui convient, puis choisit une phrase qui garde l’essentiel de son explication.

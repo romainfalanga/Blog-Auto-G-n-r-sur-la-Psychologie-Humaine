@@ -34,14 +34,81 @@ Lou demande si le crédit photo doit être placé sous chaque image ou une seule
 
 La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne.
 
-## Comment cette difficulté se manifeste
+Les phrases qui apparaissent vite dans un document peuvent prendre plus de place dans le regard de l’équipe que le travail moins visible qui les a préparées. Maïwenn a choisi des observations et rédigé des passages, même si les reprises lui ont pris du temps. Les deux autrices peuvent décrire ce qu’elles ont réellement fait avant de décider de la signature.
 
-Dans ce reportage, Maïwenn a aussi rédigé ; Lou n’a pas seulement recopié ce que Maïwenn a vu. Lou a mené des entretiens, construit des raccords et discuté l’ordre du récit. Elles peuvent regarder ces contributions avant de décider ce que la signature dit de leur travail.
+## Comment un rythme d’écriture différent peut-il masquer une contribution ?
 
-## S’accorder sur les crédits avant la dernière épreuve
+### La première version n’est qu’une partie du texte
 
-Sur le bord du papier, Lou et Maïwenn reprennent les étapes : l’idée, les questions, les photographies, les légendes et la mise en ordre. Toutes ne sont pas partagées de la même façon. Toutes ne doivent pas forcément apparaître sous le titre. Lou souhaite que son prénom reste attaché au reportage entier, qu’elle a écrit avec Maïwenn et construit sur place. Maïwenn propose une ligne commune pour le reportage et un crédit distinct pour les images qu’elle a prises. Elles demandent à Sofiane de laisser la nouvelle ligne sur l’épreuve jusqu’à ce qu’elles l’aient relue ensemble.
+Une phrase mise en ligne rapidement se voit tout de suite, tandis que les décisions et révisions qui la soutiennent restent parfois en marge.
+
+**Exemples concrets**
+
+- La maquette attribue le texte à Lou et les photos à Maïwenn.
+- L’idée de commencer avant l’arrivée des clients ne se lit pas dans le nombre de lignes tapées par chacune.
+
+### Réviser peut aussi être un travail d’autrice
+
+Choisir un détail, clarifier un mot et vérifier une citation modifient ce que le reportage fait comprendre.
+
+**Exemples concrets**
+
+- Maïwenn garde le bruit du plateau et précise qui glisse la cale.
+- Lou apporte ses questions et ses raccords pour rendre la scène lisible.
+
+### Un crédit explicite peut rendre ces apports visibles
+
+Relire les contributions aide à choisir une signature qui correspond au travail réalisé.
+
+**Exemples concrets**
+
+- Maïwenn écrit leurs deux prénoms pour le reportage.
+- Lou distingue la signature commune du crédit des photographies.
+
+## 3 techniques pour discuter des contributions à un texte commun
+
+### 1. Reprendre le travail dans son ordre
+
+Faire apparaître les contributions avant et après la rédaction.
+
+**Exercice pratique**
+
+- Listez les observations, les questions et les phrases révisées.
+- Indiquez qui a apporté chaque élément.
+- Laissez chacune compléter ce qu’elle reconnaît dans le résultat.
+
+L’équipe peut parler des apports plutôt que de la vitesse d’écriture.
+
+### 2. Séparer le texte et les autres crédits
+
+Indiquer clairement ce que chacun a signé ou fourni.
+
+**Exercice pratique**
+
+- Vérifiez à quoi correspond chaque ligne de la maquette.
+- Décidez ensemble d’une signature pour le reportage.
+- Ajoutez un crédit distinct si les images ont une autre attribution.
+
+Les lecteurs peuvent retrouver les contributions sans les confondre.
+
+### 3. Revoir les noms sur l’épreuve finale
+
+Éviter qu’une décision d’attribution se perde dans les corrections.
+
+**Exercice pratique**
+
+- Notez le libellé approuvé.
+- Comparez-le à l’épreuve avant transmission.
+- Demandez une correction si une version ancienne est revenue.
+
+Les crédits restent une décision éditoriale à vérifier comme le reste.
 
 ## Écrire deux prénoms au crayon
 
 Sur la marge, Maïwenn écrit « Reportage : Maïwenn et Lou ». Lou indique le crédit des photographies en dessous et rend la feuille à Sofiane. Les deux la gardent un instant par le même coin. Il reste à revoir les faits et à montrer le portrait à Rachid ; cette fois, elles n’attendront pas la fin de ces vérifications pour dire où leurs noms doivent figurer. Quand Maïwenn relâche le papier, elle a encore du mal à imaginer la ligne imprimée.
+
+---
+
+**Conclusion**
+
+Maïwenn et Lou choisissent de signer le reportage ensemble et de distinguer les photos. Elles peuvent revenir à cette ligne sur l’épreuve finale. Ce qui doit paraître sous le titre découle des décisions et des phrases qu’elles ont travaillées.

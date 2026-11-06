@@ -1,5 +1,5 @@
 ---
-title: Un quai au milieu du trajet
+title: Marche fluctuante au cours d’un même trajet
 description: Après avoir traversé le marché avec Maud, Gaëlle marche plus difficilement
   à la descente du tram. Toutes deux ont des envies pour la suite du trajet.
 slug: gaelle-quai-au-milieu-du-trajet
@@ -35,16 +35,81 @@ Le tram s’éloigne. Gaëlle voit un banc contre l’abri et mesure les mètres
 
 ## D’un bout du trajet à l’autre
 
-Un trouble neurologique fonctionnel moteur peut se manifester différemment d’un moment à l’autre. En descendant du tram, Gaëlle éprouve à nouveau la faiblesse connue de sa jambe. Le trajet du marché reste un souvenir juste, et l’arrêt sur le quai est tout aussi réel. Dans la vie courante, plusieurs éléments peuvent changer en même temps, comme la tâche, l’environnement, les efforts déjà fournis ou ce que la personne ressent. La scène ne permet pas de savoir ce qui explique la variation. Gaëlle peut agir sur les conditions du trajet même sans avoir cette réponse.
+Les difficultés motrices liées à un trouble neurologique fonctionnel peuvent varier au cours d’un même trajet. Cette variation ne remet pas en cause la réalité du symptôme et ne permet pas à elle seule d’en établir la cause. Gaëlle marche au marché puis retrouve sa faiblesse connue sur le quai. Elle peut modifier le parcours et demander à Maud une aide qui lui convient, même sans savoir pourquoi ce bout de trajet lui coûte davantage.
 
-## La gêne d’être surprise devant sa sœur
+## Comment une marche fluctuante change-t-elle un trajet en cours ?
 
-Gaëlle pense d’abord aux passants et à la remarque que Maud pourrait lui faire. Elle aimerait pouvoir rester la sœur qui a trouvé un film et choisi le bon marchand. Demander un banc lui donne la sensation de devoir annoncer un changement plus grand que les quelques mètres à parcourir. Maud, de son côté, a encore son projet de longer le canal. La difficulté de Gaëlle touche sa marche et la façon dont les deux femmes négocient leurs envies sur le moment. Ce sont deux choses dont elles peuvent parler.
+### La difficulté varie entre deux lieux
 
-## Refaire le plan du jour à deux
+Un déplacement déjà accompli ne dit pas ce que la personne pourra faire quelques minutes après.
 
-Maud propose de prendre le sac. Gaëlle lui demande d’en garder seulement la partie la plus lourde, qu’elle pourra venir chercher plus tard. Sur le banc, elles vérifient l’horaire du prochain tram et la possibilité de se retrouver directement au cinéma. Gaëlle choisit de rentrer par le chemin qu’elle connaît avec un arrêt possible. Maud fera son détour seule. Elles se laissent jusqu’à dix-sept heures pour décider de la séance. La sœur peut garder une marge sur sa soirée pendant que Gaëlle choisit la suite de son trajet.
+**Exemples concrets**
+
+- Au marché, Gaëlle passe d’un étal à l’autre, puis s’arrête après deux pas sur le quai.
+- Une personne traverse une salle et a besoin de s’asseoir en arrivant dans le hall suivant.
+
+### La gêne n’est pas toujours visible d’abord
+
+Un proche peut continuer à parler du trajet sans avoir vu que la personne s’est arrêtée à cause de sa jambe.
+
+**Exemples concrets**
+
+- Maud propose la rue du canal alors que Gaëlle tient son sac contre elle sur le quai.
+- Un ami avance vers la sortie et croit que l’autre s’est arrêté pour regarder son téléphone.
+
+### Le choix change sans effacer ce qui a été fait
+
+Adapter la suite n’enlève rien au plaisir ou à l’aisance du début.
+
+**Exemples concrets**
+
+- Gaëlle renonce au détour à pied et propose plus tard un film dans une salle plus proche.
+- Deux amis raccourcissent une promenade et gardent le rendez-vous au café.
+
+## 3 techniques pour adapter la suite d’un trajet quand la marche habituelle devient plus difficile
+
+### 1. Dire ce qui est devenu difficile
+
+Permettre au proche de comprendre la demande immédiate.
+
+**Exercice pratique**
+
+- Décrivez la difficulté que vous éprouvez maintenant.
+- Dites si vous souhaitez une pause ou une aide déjà convenue.
+- Demandez à l’autre de vous laisser choisir avant de déplacer vos affaires.
+
+La réponse peut tenir compte du moment présent sans être déduite de la marche au départ.
+
+### 2. Répartir ce qui reste à faire
+
+Garder une partie du projet sans insister sur le trajet prévu.
+
+**Exercice pratique**
+
+- Identifiez ce que l’autre peut porter s’il l’accepte.
+- Choisissez ensemble s’il faut raccourcir, reporter ou changer l’itinéraire.
+- Précisez le lieu où vous vous séparerez ou vous retrouverez.
+
+Chacun peut conserver un choix et limiter l’effort demandé par le trajet.
+
+### 3. Apporter la variation en séance
+
+Examiner le retentissement d’une difficulté familière avec le professionnel.
+
+**Exercice pratique**
+
+- Racontez deux moments différents du même trajet.
+- Dites ce qui a changé dans l’activité et l’aide utilisée.
+- Demandez comment signaler un changement inhabituel ou préoccupant.
+
+Le suivi peut discuter de ce qui vous aide et garder une réponse distincte pour les symptômes nouveaux.
 
 ## Le sachet dans la poche
 
 Maud récupère le bocal et laisse le cumin à Gaëlle pour que les deux sacs restent légers. Elles se séparent au coin du quai. Un peu avant dix-sept heures, Gaëlle propose le film du mardi, dans une salle plus proche de chez elle. Maud lui envoie une photo du dîner qu’elle a commencé à cuisiner. Sur le rebord de la fenêtre, le sachet de cumin attend déjà que Gaëlle lui trouve une recette.
+
+---
+
+**Conclusion**
+
+Gaëlle a bien marché au marché et s’est vraiment trouvée en difficulté sur le quai. Maud prend une partie des courses et elles modifient la suite. Le film reste un projet entre sœurs, avec un lieu que Gaëlle peut choisir.

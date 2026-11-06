@@ -34,14 +34,81 @@ La phrase suivante arrive d’un trait. C’est le moment qu’elle avait peur d
 
 La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre.
 
-## Comment cette difficulté se manifeste
+La dictée vocale aide Maïwenn à dérouler son idée sans revenir tout de suite aux corrections. Quand le logiciel écrit « case » à la place de « cale », le brouillon devient pourtant inexact. L’outil déplace une partie du travail vers la vérification du sens et ne remplace pas la relecture.
 
-Maïwenn apprécie de pouvoir enchaîner ses deux phrases tant qu’elle entend encore dans sa tête le choc du plateau. Le logiciel, lui, ne voit pas la cale sur la photo ; « case » est un mot possible et ne sera pas forcément signalé comme une erreur. Le brouillon lui rend une partie de son élan, mais il lui reste un vrai travail d’autrice : vérifier le sens, décider ce qu’elle garde et corriger la forme.
+## Comment la dictée vocale déplace-t-elle l’effort vers la relecture ?
 
-## Relire avec un seul objectif à la fois
+### L’idée peut s’enchaîner avant la correction
 
-Maïwenn se donne d’abord une question simple : est-ce bien ce qui s’est passé devant elle ? Elle rouvre la photo, rectifie « case » et retire une indication de temps qu’elle n’a pas notée. Il lui restera une vérification des accords, qu’elle préfère faire un peu plus tard. Une voix de synthèse peut faire entendre une substitution de mot ; elle ne fait pas entendre toutes les marques écrites et ne remplace pas la lecture du texte. Maïwenn en retient la possibilité d’un appui. Le jour où parler ou écouter n’est pas pratique, elle pourra revenir à des notes au clavier.
+Dicter permet de garder le fil d’un premier jet lorsque la saisie ou l’orthographe interrompt souvent la phrase.
+
+**Exemples concrets**
+
+- Maïwenn formule le geste en deux phrases avant de revenir à leur forme.
+- Une élève peut dicter l’ordre des actions observées avant de chercher où ponctuer.
+
+### Un mot plausible peut changer le fait
+
+La transcription peut choisir un autre mot qui ressemble au premier et qui reste grammaticalement possible.
+
+**Exemples concrets**
+
+- Le logiciel écrit « case » alors que Rachid a glissé une cale.
+- Un brouillon peut écrire « table » au lieu de « tablier » sans que le reste de la phrase rende l’erreur évidente.
+
+### La phrase doit encore fonctionner pour un lecteur
+
+Une dictée compréhensible pour son auteur peut demander des précisions sur la personne ou le geste.
+
+**Exemples concrets**
+
+- Maïwenn demande à Lou si elle arrive à voir le geste en lisant.
+- Un lecteur qui n’était pas à la halle peut avoir besoin de savoir quel plateau bouge.
+
+## 3 techniques pour dicter un brouillon et vérifier ce qu’il raconte
+
+### 1. Délimiter un premier jet
+
+Séparer le moment de formuler et celui de corriger.
+
+**Exercice pratique**
+
+- Choisissez un passage court à dicter.
+- Dites-le en gardant l’objet ou la photo à portée.
+- Laissez la transcription en brouillon jusqu’à la relecture.
+
+L’outil sert à garder l’idée avant de fixer le texte.
+
+### 2. Vérifier les mots qui changent le sens
+
+Repérer une substitution qui ferait raconter une autre scène.
+
+**Exercice pratique**
+
+- Relisez les noms, objets et actions du passage.
+- Comparez-les à vos notes ou à l’image.
+- Corrigez le mot avant de travailler les accords ou la ponctuation.
+
+La relecture commence par ce dont le lecteur a besoin pour comprendre le fait.
+
+### 3. Demander un retour sur un détail
+
+Savoir ce qu’un lecteur extérieur peut se représenter.
+
+**Exercice pratique**
+
+- Envoyez seulement le passage concerné.
+- Posez une question sur ce que le lecteur voit ou comprend.
+- Choisissez ensuite ce que vous souhaitez réviser vous-même.
+
+La demande de commentaire soutient la rédaction et laisse la décision à l’autrice.
 
 ## Deux phrases dans le document
 
 Elle copie les deux phrases dans le document commun. Dans le message à Lou, elle écrit : « Tu me dis si tu vois bien le geste ? » Elle laisse l’ordinateur s’éteindre sans attendre la réponse. Sur le chemin du retour, elle se demande encore si la cale mérite deux phrases. Elle a au moins un passage dont elles peuvent discuter. Hier, au même moment, elle avait seulement une ligne barrée et l’image très nette du plateau qui bouge.
+
+---
+
+**Conclusion**
+
+La dictée donne à Maïwenn deux phrases qu’elle peut relire et discuter avec Lou. Elle rétablit le mot qui change le geste. Elle décidera ensuite si la cale mérite cette place dans la légende.

@@ -1,0 +1,1251 @@
+{
+  "character_id": "rebecca",
+  "bio": "À 31 ans, Rébecca reprend des études dans les métiers des archives. Elle repère vite un nom qui change d’orthographe d’un registre à l’autre. Elle aimerait suivre la trace d’une ancienne fontaine le temps d’un stage. Elle vit avec sa tante Danièle et a un trouble d’anxiété de séparation. La crainte de s’éloigner de Danièle lui fait parfois écarter un projet avant même d’en connaître les conditions. Avec sa thérapeute, elle cherche comment examiner ces choix et s’organiser avec les personnes concernées.",
+  "profile_topics": [
+    "Trouble d’anxiété de séparation",
+    "Évitement avant un départ",
+    "Scénarios de malheur",
+    "Contacts et réassurance",
+    "Retentissement sur les études et le sommeil"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "rebecca-eviter-un-projet-avant-de-choisir",
+      "title": "Renoncer à un projet avant d’avoir regardé l’offre",
+      "description": "Une offre de stage passionne Rébecca. À la ligne sur les cinq jours loin de chez elle, elle commence déjà à préparer son refus.",
+      "context": "Une candidature aux archives pendant une reprise d’études",
+      "topics": [
+        "Évitement anticipé",
+        "Anxiété de séparation adulte",
+        "Candidature de stage"
+      ],
+      "clinical_focus": "Évitement anticipé d’une séparation",
+      "clinical_intro": "Le trouble d’anxiété de séparation peut conduire à écarter une occasion avant même d’en examiner les conditions. À la table de la cuisine, Rébecca lit une offre de stage aux archives intercommunales. L’enquête sur la Fontaine Basse l’intéresse, mais cinq jours loin de sa tante lui suffisent pour préparer une réponse négative. Il lui reste jusqu’à vendredi pour se renseigner.",
+      "opening": "Danièle a posé son cahier de chorale sur le coin de la table, ouvert à une page que tient une pince à linge. Rébecca a repoussé le beurrier pour déplier l’offre de stage. Aux archives intercommunales du Pays des Aulnes, il s’agit de retrouver la Fontaine Basse, un point d’eau dont le nom figure dans le registre d’un ancien garde champêtre. Il faudra comparer le registre à une carte. Le nom change d’un document à l’autre, précise l’annonce. Rébecca attrape le crayon dont Danièle se sert pour noter ses respirations et entoure cette phrase.\n\nUn peu plus bas, elle lit que le stage se déroule sur place pendant cinq jours, du lundi au vendredi. Elle arrive au mot « vendredi » et remonte à « lundi ». Elle pense au bruit que fait Danièle quand elle pose la cafetière sur son socle le soir pour le lendemain. Dans la cuisine d’un logement de passage, elle n’entendrait rien de la maison. Elle sait, depuis que le trouble d’anxiété de séparation a été identifié avec les professionnels qui la suivent, à quel point ce genre de pensée peut prendre de la place. Elle commence quand même à écrire « Je vous remercie, mais je ne serai pas disponible ».\n\nDanièle passe reprendre son crayon. Rébecca la voit regarder les deux feuilles, celle où la fontaine est entourée et celle où le refus prend forme. « Ah, tu as déjà regardé les dates avec ta formation ? » Rébecca retourne la seconde feuille. Elle avait vérifié le registre auquel l’annonce faisait allusion. Elle n’a regardé ni les dates de cours ni le trajet. Elle a même oublié l’autre annonce, celle qui lui aurait permis de rentrer tous les soirs.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la peur écourte le choix",
+          "text": "L’évitement anticipé consiste à écarter une situation pour se soustraire à une difficulté que l’on imagine déjà. Dans le trouble d’anxiété de séparation, la difficulté redoutée est d’être séparé d’une personne à laquelle on tient profondément. Rébecca lit l’offre avec intérêt jusqu’au moment où elle se représente une semaine loin de Danièle. Le soulagement qu’elle éprouve à rédiger un refus ne lui apprend rien sur la faisabilité du stage. Des trajets trop coûteux ou des dates incompatibles seraient de bonnes raisons de refuser. Elle n’a pas encore de réponse sur ces points."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’évitement prend-il de l’avance sur la décision ?",
+          "points": [
+            {
+              "heading": "Fermer le dossier au premier signe de distance",
+              "text": "Un mot ou une date peut suffire à faire interrompre la recherche avant de savoir ce que l’éloignement impliquerait.",
+              "examples": [
+                "Rébecca écrit son refus après avoir lu « cinq jours sur place », sans ouvrir la carte des transports.",
+                "Une salariée ferme l’annonce d’une formation en résidence dès qu’elle voit la ligne sur l’hébergement, sans lire si les nuits sur place sont obligatoires."
+              ]
+            },
+            {
+              "heading": "Ne regarder que ce qui permet de rester près",
+              "text": "La proximité peut être un critère parfaitement valable. Elle rétrécit les options lorsque la crainte d’être séparé fait disparaître tous les autres critères avant la comparaison.",
+              "examples": [
+                "Rébecca garde de côté une offre qu’elle connaît à peine pour la seule raison qu’elle pourrait retrouver Danièle chaque soir.",
+                "Un étudiant en reprise de formation trie les lieux de stage par distance à sa compagne et écarte toutes les missions qui lui permettraient de pratiquer le métier visé."
+              ]
+            },
+            {
+              "heading": "Laisser le délai décider",
+              "text": "Repousser une démarche peut apporter un répit. Si la date passe, il n’y a plus à choisir et la personne peut perdre un projet auquel elle tenait.",
+              "examples": [
+                "Rébecca se surprend à souhaiter que l’annonce soit retirée avant vendredi, même si le travail sur le registre lui plaît.",
+                "Une personne laisse une demande d’inscription dans ses brouillons jusqu’à la clôture pour éviter de se représenter deux jours loin de son frère."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour examiner un projet avant de répondre",
+          "points": [
+            {
+              "heading": "Retrouver l’information qui manque",
+              "objective": "Séparez les contraintes connues de celles que vous supposez déjà.",
+              "exercise": [
+                "Relisez l’offre jusqu’au premier détail qui vous fait penser à la séparation.",
+                "Relevez une donnée vérifiable qui vous manque, comme les heures de présence ou les dates.",
+                "Vérifiez-la sur un document ou posez la question à la personne qui organise l’activité."
+              ],
+              "benefit": "Vous pourrez écarter une option pour une contrainte réelle ou la conserver le temps de vous faire une idée."
+            },
+            {
+              "heading": "Comparer sur ce qui compte aussi",
+              "objective": "Rendez visibles les critères que la crainte fait passer au second plan.",
+              "exercise": [
+                "Notez ce qui vous intéresse dans la mission en une phrase concrète.",
+                "Inscrivez la distance et deux autres critères, comme la tâche proposée et la compatibilité avec les cours.",
+                "Appliquez ces critères à deux offres disponibles, sans envoyer de réponse pendant la comparaison."
+              ],
+              "benefit": "La proximité garde sa place dans le choix, et le contenu du stage redevient visible."
+            },
+            {
+              "heading": "Choisir une démarche qui n’engage pas encore",
+              "objective": "Avancez d’un pas que vous pourrez ensuite confirmer, modifier ou abandonner.",
+              "exercise": [
+                "Repérez la date limite de candidature.",
+                "Choisissez une action avant cette date, par exemple demander un bref échange au tuteur.",
+                "Fixez le moment où vous reprendrez la décision, avec votre thérapeute si la peur vous fait renoncer régulièrement."
+              ],
+              "benefit": "Une démarche limitée peut éviter que le délai tranche à votre place tout en préservant votre droit de refuser."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le mot entouré",
+      "ending": "Rébecca retourne la feuille du refus et en déchire le coin. Le mot « Fontaine » reste entouré sur l’offre. La semaine proposée figure bien parmi celles que sa formation réserve aux stages. Elle envoie un message à Antoine, le tuteur indiqué dans l’offre, pour demander quand il pourrait lui décrire le travail et les heures de présence. Il propose le lendemain en visio, à la pause de midi.\n\nDanièle récupère la pince à linge sur son cahier et la lui tend. Rébecca accroche ensemble l’offre et une copie de l’extrait du registre. Elle écrit « à regarder avant vendredi » sur un papier qu’elle pose dessus. L’idée des nuits hors de la maison lui serre encore le ventre. Elle a obtenu un rendez-vous pour poser des questions, et c’est le seul engagement qu’elle prend ce matin.",
+      "conclusion": "Le premier effet de la peur a été de raccourcir l’examen de l’offre. Rébecca rouvre ce choix en demandant des informations. Le rendez-vous avec Antoine lui permettra de préciser ce qui lui plaît dans le stage et ce qu’elle redoute en dehors des archives.",
+      "mirror": [
+        "Danièle voit une annonce annotée et un refus à peine commencé. Elle peut dire « Tu veux que je vérifie la date avec toi ou tu préfères la regarder seule ? » Si Rébecca répond qu’elle pense surtout à la distance, sa tante peut l’écouter sans rendre le départ obligatoire. La candidature appartient à Rébecca, et Danièle peut garder son temps de répétition."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-separation",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle vérifie les dates de formation et demande un échange à Antoine sans s’engager à candidater.",
+        "next": "Antoine lui propose une visio le lendemain à midi. Elle garde l’annonce et le registre avec la même pince."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "rebecca-peur-de-la-separation-ou-de-l-inconnu",
+      "title": "Un stage loin de chez soi, qu’est-ce qui fait peur ?",
+      "description": "Antoine présente la cartothèque à Rébecca. Le travail la rassure sur le stage, mais la perspective de passer les soirées loin de Danièle reste entière.",
+      "context": "Une visio de renseignements avec le tuteur de stage",
+      "topics": [
+        "Peur centrée sur la séparation",
+        "Attachement ordinaire",
+        "Distinguer les peurs"
+      ],
+      "clinical_focus": "Objet de la peur de séparation",
+      "clinical_intro": "Deux personnes peuvent hésiter devant le même départ et redouter des choses différentes. En visio avec le tuteur, Rébecca apprend comment se déroulera le stage. La tâche lui paraît abordable et l’échange la met en confiance. Quand Antoine parle des soirées libres, elle comprend mieux ce qui la préoccupe encore. Ce sont surtout les heures loin de Danièle.",
+      "opening": "À la pause de midi, Rébecca emprunte une salle du centre de formation. Elle pose l’offre et l’extrait du registre sous la webcam. La pince à linge les empêche de reposer à plat. Rébecca la glisse dans la poche de son gilet. Antoine apparaît devant un meuble à tiroirs plats. Il tire l’un d’eux et incline son ordinateur pour lui montrer comment les plans reposent les uns sur les autres. Rébecca voit le bout d’un doigt, un papier gris, et le tracé d’un chemin qui lui paraît familier.\n\nElle avait préparé plusieurs questions sur la première journée. Antoine précise qu’il ouvrira le tiroir avec elle. Elle pourra commencer par relever les différentes façons d’écrire le nom, puis comparer les dates. Il faudra discuter avec lui de ce qui peut figurer dans une notice à partir de deux documents qui ne concordent pas tout à fait. Rébecca lui demande s’il arrive qu’un même nom soit donné à deux endroits. Antoine répond que c’est exactement la question posée par la Fontaine Basse. Elle n’a pas besoin de consulter ses notes pour enchaîner.\n\n« Après dix-sept heures, vous avez vos soirées », dit-il en affichant les horaires. Rébecca cesse de regarder le plan. La semaine précédente, Danièle avait passé un dimanche entier au concours de la chorale. Rébecca avait eu plaisir à lui préparer une assiette pour son retour. Elle s’était même réjouie d’avoir la table pour ses dossiers. Cette fois, elle imagine sa tante de retour à la maison et elle-même incapable de la rejoindre avant plusieurs jours. « Je pensais que c’était votre réserve qui me faisait peur », dit-elle. Antoine attend la suite. Elle ne lui doit aucune explication, mais elle voudrait comprendre pourquoi ses questions n’ont changé que la moitié du problème.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La même hésitation peut avoir plusieurs raisons",
+          "text": "La séparation d’avec une personne chère peut susciter un manque ou une inquiétude passagère. Le trouble d’anxiété de séparation désigne une peur marquée et persistante, qui se concentre sur cette séparation et qui fait souffrir ou gêne des activités. Dans un départ en stage, elle peut s’ajouter à une appréhension banale de l’inconnu. Un même trajet peut être évité pour une autre raison. Dans l’agoraphobie, par exemple, la personne peut craindre de ne pas pouvoir sortir d’un lieu ou obtenir de l’aide si elle présente des symptômes très gênants. Dans l’anxiété généralisée, les inquiétudes concernent habituellement plusieurs domaines de vie, même si la sécurité des proches en fait partie. Des difficultés peuvent coexister, et le lieu que quelqu’un évite ne permet pas de conclure à un trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le centre de la peur devient-il plus visible ?",
+          "points": [
+            {
+              "heading": "Le doute pratique se précise et l’inquiétude demeure",
+              "text": "Quand les questions sur l’activité trouvent une réponse, l’appréhension de la séparation peut rester vive. Il est possible d’éprouver les deux en même temps.",
+              "examples": [
+                "Rébecca sait désormais avec qui elle ouvrira les tiroirs, mais l’idée du retour au logement sans Danièle la trouble toujours.",
+                "Un apprenti comprend enfin le trajet et la consigne de travail. Ce qu’il redoute encore, c’est de rester deux jours loin de la personne avec qui il vit."
+              ]
+            },
+            {
+              "heading": "L’activité garde son attrait si la distance change",
+              "text": "Imaginer la même tâche dans deux lieux permet de mettre des mots sur ce qui change. Cela n’établit aucun diagnostic.",
+              "examples": [
+                "Rébecca se voit écrire une notice pour le même fonds à sa table sans hésiter sur la mission. Dans la version où elle reste loin de Danièle, son attention passe du document à la soirée.",
+                "Une personne est à l’aise pour présenter un projet dans les locaux voisins de chez elle. En déplacement, elle pense surtout à ce qui pourrait la séparer durablement de son conjoint."
+              ]
+            },
+            {
+              "heading": "Un manque ordinaire et une peur qui bloque coexistent",
+              "text": "On peut apprécier ses habitudes avec quelqu’un, les regretter un soir et prendre quand même plaisir à sa journée. Une peur persistante peut aussi occuper le choix longtemps avant le départ.",
+              "examples": [
+                "Rébecca aime retrouver Danièle après la chorale. Lorsqu’elle s’imagine loin plusieurs soirs, elle en vient à envisager d’annuler un travail qui lui plaît.",
+                "Une personne s’ennuie de son frère pendant un week-end. Dans d’autres circonstances, elle repousse depuis des mois un déplacement souhaité de peur qu’il lui arrive quelque chose pendant son absence."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préciser ce qui rend un départ difficile",
+          "points": [
+            {
+              "heading": "Comparer une tâche dans deux contextes",
+              "objective": "Identifiez la part de la peur qui change avec l’éloignement.",
+              "exercise": [
+                "Choisissez une tâche précise dont vous connaissez le contenu.",
+                "Imaginez brièvement la même tâche près de la personne et dans le lieu prévu, sans organiser de mise à l’épreuve.",
+                "Relevez ce qui change dans votre crainte et ce qui reste difficile dans les deux cas."
+              ],
+              "benefit": "Cette comparaison donne des mots pour expliquer votre inquiétude, même quand plusieurs raisons se mêlent."
+            },
+            {
+              "heading": "Poser une question sur la part pratique",
+              "objective": "Traitez un doute de logistique avec l’interlocuteur qui peut y répondre.",
+              "exercise": [
+                "Choisissez une information sur le travail ou le trajet qui manque réellement.",
+                "Posez une question précise, par exemple sur l’accueil ou les possibilités de logement.",
+                "Une fois la réponse obtenue, repérez ce que vous redoutez encore et que cet interlocuteur ne peut pas régler."
+              ],
+              "benefit": "Vous pourrez éviter de demander au tuteur une garantie qui concerne votre vie privée et lui poser une question utile à son rôle."
+            },
+            {
+              "heading": "Décrire la crainte sans trancher seul",
+              "objective": "Apportez au professionnel qui vous suit deux situations à comparer.",
+              "exercise": [
+                "Notez ce que vous craigniez et ce que vous avez fait lors d’un départ récent.",
+                "Ajoutez une situation où le même lieu ou la même tâche vous a posé moins de difficulté.",
+                "Demandez au professionnel ce qui, dans ces situations, pourrait orienter le travail et quelles autres inquiétudes méritent d’être explorées."
+              ],
+              "benefit": "Des situations datées peuvent éclairer l’évaluation sans transformer une réaction en étiquette."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les soirées sur le planning",
+      "ending": "Rébecca dit simplement que l’hébergement pèse dans sa décision. Antoine lui indique que sa formation garde une liste de logements meublés et qu’il en existe un à pied des archives. Il ne lui demande pas pourquoi cette distance compte. Avant de fermer la fenêtre, il lui envoie les horaires et la photo du tiroir, où le numéro apparaît sur une étiquette décollée.\n\nRébecca met le numéro de côté. Sur un papier, elle écrit « j’ai envie de voir les plans » et, à la ligne, « le soir je serai loin de Danièle ». Sa formation lui transmet les coordonnées du logement. Une chambre est encore disponible et la gestionnaire peut la garder jusqu’au vendredi après-midi. Rébecca prend l’option. Elle a rendez-vous avec Claire vendredi matin et glisse les deux phrases dans la pochette qu’elle y apporte.",
+      "conclusion": "Les précisions d’Antoine ont répondu aux questions sur le métier. Elles ont aussi laissé apparaître une crainte qui portait sur les soirées loin de Danièle. Rébecca peut apporter cette différence à Claire avant de choisir de candidater.",
+      "mirror": [
+        "Danièle peut entendre que la réserve attire Rébecca et que la distance lui fait peur. « J’ai compris que c’est surtout de dormir loin qui te travaille. Tu as envie que je t’écoute un moment ? » Elle peut aussi préciser ce qu’elle aime de leurs habitudes. Ni la cohabitation ni le plaisir de se retrouver n’obligent l’une ou l’autre à renoncer à ses projets."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-separation",
+        "nhs-matrix-separation",
+        "silove-separation-age-adulte"
+      ],
+      "continuity": {
+        "choice": "Elle distingue le travail qu’elle veut apprendre de la peur des soirées loin de Danièle et fait mettre une chambre en option.",
+        "next": "Elle apportera ses deux phrases et les conditions de la chambre à Claire vendredi matin, avant l’échéance de candidature à midi."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "rebecca-imaginer-un-malheur-pendant-l-absence",
+      "title": "Imaginer qu’un malheur arrivera pendant l’absence",
+      "description": "Avant d’envoyer sa candidature, Rébecca parle à Claire d’une image qui revient chaque fois qu’elle imagine Danièle seule à la maison.",
+      "context": "Une séance avant la décision de candidater",
+      "topics": [
+        "Scénario de malheur",
+        "Pensées de séparation",
+        "Décision en présence de la peur"
+      ],
+      "clinical_focus": "Scénarios de malheur anticipés",
+      "clinical_intro": "Dans le trouble d’anxiété de séparation, la perspective d’un départ peut s’accompagner de pensées répétées sur un malheur qui séparerait deux personnes. Au cabinet de Claire, Rébecca arrive à décrire l’image qui revient quand elle pense à la semaine de stage. La thérapeute l’aide à distinguer ce qu’elle imagine, ce qu’elle sait et la décision concrète qui l’attend.",
+      "opening": "Vendredi matin, Rébecca pose sa pochette sur ses genoux et déplie les deux lignes qu’elle avait écrites après la visio. Elle commence par le numéro du tiroir et l’histoire du garde champêtre. Claire répète le nom de la fontaine pour vérifier qu’elle l’a bien entendu. Elle lui demande ce qui s’est passé après l’appel. Rébecca sort l’impression de la chambre que la gestionnaire a mise en option. Sur la photo, le logement a un lit étroit et une lampe que l’on allume d’un bouton sur le fil. Rébecca a entouré l’adresse d’un trait propre. Dans la marge, le crayon a fait un trou.\n\nLa veille, en regardant cette photo, elle a imaginé la même lampe allumée alors que son téléphone sonnait. Dans l’image, Danièle est tombée chez elle. C’est quelqu’un d’autre qui appelle. Rébecca connaît le bruit du parquet du couloir, elle a placé la chute exactement là. Depuis, elle a rouvert le plan de la ville pour calculer combien de temps il lui faudrait pour rentrer. Elle a fait le calcul deux fois, en changeant de gare. Danièle, elle, a passé la soirée à coudre le bouton de sa veste de chorale, puis a envoyé une photo du résultat au groupe.\n\nClaire lui demande si elle a appris quelque chose au sujet de Danièle ou si c’est une image qui revient. Rébecca pose le doigt sur l’adresse, comme si elle pouvait y retrouver la date de la chute qu’elle imagine. « C’est seulement dans ma tête, mais plus je calcule, plus je la vois. » Son dossier de candidature est presque prêt. Il reste deux heures pour l’envoyer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une éventualité prend les traits d’un événement",
+          "text": "La peur de séparation peut porter sur un accident ou un autre malheur susceptible de rendre la séparation définitive ou de l’allonger. La pensée peut revenir en mots ou en images et prendre assez de place pour modifier un projet. Le contenu d’un scénario, même détaillé, ne permet pas d’en déduire sa probabilité. Dans la séance, Rébecca dispose d’une adresse et d’horaires. La chute qu’elle imagine appartient à un autre ordre d’information. Une nouvelle concrète et inquiétante serait à traiter selon la situation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un malheur imaginé s’impose-t-il avant de partir ?",
+          "points": [
+            {
+              "heading": "L’image revient avec les détails du départ",
+              "text": "Un billet, une photo ou un sac ouvert peut rappeler l’éloignement et ramener une image redoutée, même lorsqu’aucun fait nouveau n’est apparu.",
+              "examples": [
+                "Chaque fois que Rébecca regarde la photo de la chambre, elle se voit apprendre que Danièle est tombée.",
+                "À l’heure de faire son sac, un père imagine que son fils adulte sera blessé pendant le déplacement et peine à terminer ses préparatifs."
+              ]
+            },
+            {
+              "heading": "L’hypothèse absorbe la préparation",
+              "text": "On peut consacrer beaucoup de temps à organiser une réponse au malheur imaginé alors que le projet concret demande d’autres démarches.",
+              "examples": [
+                "Rébecca recalcule le temps de retour au lieu de joindre le document qui manque à sa candidature.",
+                "Avant une conférence, une femme reprend plusieurs fois un itinéraire d’urgence fictif pour rentrer chez son partenaire et oublie de vérifier l’adresse de la salle."
+              ]
+            },
+            {
+              "heading": "Le départ paraît rendre le malheur certain ou inacceptable",
+              "text": "La pensée peut coller la décision de partir à l’événement redouté. La personne se sent alors tenue de rester pour répondre à un danger qui n’a pas été établi.",
+              "examples": [
+                "Rébecca se dit que, si elle quitte la maison, elle choisit de ne pas être là au moment précis où Danièle pourrait tomber.",
+                "Une étudiante retire son nom d’une sortie après avoir imaginé son frère hospitalisé loin d’elle, bien qu’il n’ait signalé aucun problème."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une décision à portée quand revient un scénario",
+          "points": [
+            {
+              "heading": "Nommer ce qui se présente",
+              "objective": "Reconnaissez une pensée qui revient sans la prendre pour une information nouvelle.",
+              "exercise": [
+                "Décrivez-la en quelques mots, sans chercher à enrichir la scène.",
+                "Commencez votre phrase par « J’ai de nouveau l’image de » ou « Je pense à la possibilité que ».",
+                "Repérez la démarche que vous étiez en train de faire avant cette pensée."
+              ],
+              "benefit": "Mettre le scénario en mots peut aider à revenir à la situation en cours même si l’image persiste."
+            },
+            {
+              "heading": "Faire la part du fait et du scénario",
+              "objective": "Repérez le type d’information dont vous disposez et l’action qui lui correspond.",
+              "exercise": [
+                "Notez une fois ce que vous avez réellement observé ou appris.",
+                "Écrivez à part ce que vous en déduisez ou imaginez.",
+                "Si un élément concret vous inquiète, choisissez l’aide adaptée. Si vous ne relevez qu’une image récurrente, gardez-la pour en parler dans le suivi."
+              ],
+              "benefit": "Cette distinction peut rendre les décisions plus proportionnées et préserver la possibilité de réagir si une situation réelle l’exige."
+            },
+            {
+              "heading": "Décider d’une seule étape avec le professionnel",
+              "objective": "Évitez de devoir résoudre mentalement toute la semaine avant d’agir.",
+              "exercise": [
+                "Apportez un exemple du scénario et dites à quel moment il vous arrête.",
+                "Convenez d’une étape qui compte aujourd’hui, par exemple déposer un dossier avant de discuter de l’organisation.",
+                "Précisez quand vous pourrez reparler de la suite et de ce qui rendrait le projet ajustable."
+              ],
+              "benefit": "Un choix limité laisse de la place à la peur et à l’envie tout en conservant le droit de revoir l’organisation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La pièce jointe",
+      "ending": "Claire demande à Rébecca quelle pièce manque. Rébecca ouvre le dossier sur son téléphone. Le document est déjà là, dans le mauvais dossier. Elle rit parce qu’elle a passé la veille à se renseigner sur deux gares alors qu’il lui fallait chercher un fichier. Elles écrivent en haut d’une feuille « une image revient » puis, en dessous, le fait sur lequel elle peut agir ce matin. Il lui reste à joindre l’attestation de formation.\n\nRébecca sort du cabinet, envoie sa candidature avant midi et attend la réponse avant de confirmer la chambre. L’image revient encore lorsqu’elle passe devant la gare. Le service des archives la rappelle dans l’après-midi pour lui proposer le stage et lui transmettre la convention. Elle confirme alors le logement. Avec Claire, elle a prévu un autre rendez-vous avant le départ pour parler des moments les plus difficiles. Avec Danièle, elle choisira des heures où elles auront toutes les deux envie de s’appeler.",
+      "conclusion": "Ce matin, une image occupait la place de la démarche à faire. Rébecca lui a trouvé des mots et a envoyé son dossier. La séparation reste à venir. Elle pourra préparer le départ à partir des difficultés qu’elle connaît et des possibilités qu’elle a réellement.",
+      "mirror": [
+        "Si Rébecca décrit la chute qu’elle imagine, Danièle peut demander « Tu viens d’apprendre quelque chose qui t’inquiète ou c’est l’image de l’autre jour qui revient ? » Elle peut entendre la crainte sans promettre qu’il ne lui arrivera jamais rien. Elle reste libre de parler de ses propres projets. En présence d’un élément inquiétant concret, la famille suit l’action adaptée à la situation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Elle distingue l’image de chute des informations disponibles, envoie sa candidature et confirme la chambre quand les archives acceptent le stage.",
+        "next": "La convention et un rendez-vous avant le voyage précèdent le départ. Rébecca et Danièle doivent choisir ensemble leurs moments de contact."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "rebecca-nausee-au-moment-de-partir",
+      "title": "Quand la nausée arrive au moment de partir",
+      "description": "Sur le quai, la nausée que Rébecca connaît revient juste avant le départ. Elle s’assied et regarde ce dont elle a besoin pour continuer.",
+      "context": "Le départ en train après la préparation du stage",
+      "topics": [
+        "Manifestations physiques de l’anxiété",
+        "Moment du départ",
+        "Appui concret"
+      ],
+      "clinical_focus": "Manifestations physiques au départ",
+      "clinical_intro": "Une séparation imminente peut s’accompagner de sensations physiques pénibles. Sur le quai, Rébecca reconnaît une nausée qui lui est déjà arrivée à d’autres départs. La convention, le logement et les horaires sont réglés. Son ventre se serre lorsqu’elle s’apprête à dire au revoir à Danièle. Les circonstances aident à décrire ce qui se passe, sans suffire à expliquer l’origine d’un symptôme.",
+      "opening": "Trois semaines après l’envoi du dossier, Danièle et Rébecca attendent le train du dimanche sur un banc de la gare. La convention est signée, le sac tient sous le banc et le livret d’accueil indique où se présenter le lundi. Rébecca a revu Claire. Elles ont parlé du trajet et de la nausée qui lui était montée un autre jour, au moment de partir. Elle a déjà évoqué ces épisodes avec son médecin. En quittant la maison, elle a même pensé à glisser le billet dans la poche extérieure du sac, pour ne pas avoir à le chercher.\n\nDanièle raconte qu’elle a enfin cousu les deux boutons de sa veste du même côté. Elle se lève pour lui montrer celui du bas. Au même moment, le panneau indique que le train entre en gare. Rébecca avale sa salive, une fois puis une deuxième. Elle se sent incapable de remonter la fermeture du sac sans se pencher. Son ventre se contracte d’une façon qu’elle connaît. Un groupe se dirige vers la partie du quai où elles sont assises. Danièle tend la main vers la poignée. Rébecca garde le sac près d’elle.\n\n« Attends, je voudrais rester assise encore un peu. » Elle sait que il y aura d’autres trains dans l’après-midi. Dans sa tête, pourtant, elle doit monter tout de suite ou rentrer avec Danièle, sans place entre les deux. Elle regarde l’heure d’arrivée sur son billet. À la maison, elle s’imaginait ouvrir la porte de la chambre. Sur le quai, elle ne parvient plus à imaginer le geste qui vient après s’être levée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le corps ajoute à la difficulté de partir",
+          "text": "Le trouble d’anxiété de séparation peut s’accompagner de nausées, de maux de ventre ou de maux de tête dans les situations qui impliquent de s’éloigner. Le moment d’apparition, les circonstances et le retentissement sont utiles à décrire. Ils ne prouvent pas que l’anxiété est la cause. Rébecca reconnaît une sensation dont elle a déjà parlé avec son médecin. Une sensation nouvelle, inhabituelle ou préoccupante mérite un avis adapté à la situation, indépendamment du diagnostic qu’on connaît déjà."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les sensations physiques changent-elles le départ ?",
+          "points": [
+            {
+              "heading": "Un signal concret rend le départ imminent",
+              "text": "Une sensation peut apparaître ou devenir plus gênante à mesure qu’approche le moment de se séparer, alors que les préparatifs s’étaient déroulés autrement.",
+              "examples": [
+                "Rébecca a fermé sa valise chez elle sans difficulté. Quand le panneau annonce le train, la nausée lui fait lâcher la fermeture qu’elle venait de rouvrir.",
+                "Une personne va bien pendant qu’elle prépare son sac et décrit un mal de ventre qui apparaît au moment de dire au revoir avant un déplacement."
+              ]
+            },
+            {
+              "heading": "Un geste ordinaire demande soudain plus d’effort",
+              "text": "Le malaise peut prendre l’attention qui servait à suivre une indication ou à enchaîner des gestes. Prendre un instant pour s’orienter peut devenir nécessaire.",
+              "examples": [
+                "Rébecca a mis son billet dans la bonne poche. Sur le banc, elle n’arrive plus à décider si elle doit le sortir ou fermer le sac d’abord.",
+                "À l’entrée d’un car, un voyageur pris de nausée au moment de quitter son conjoint demande à la personne derrière lui de passer pendant qu’il se met sur le côté."
+              ]
+            },
+            {
+              "heading": "L’envie de faire demi-tour devient pressante",
+              "text": "Quand la sensation arrive au départ, la personne peut vouloir annuler pour retrouver la proximité et échapper au malaise. Elle peut aussi avoir besoin d’un avis sur ce qu’elle éprouve.",
+              "examples": [
+                "Sur le quai, Rébecca envisage de ramener sa valise à la maison avant même d’avoir regardé les autres trains.",
+                "Une étudiante, qui a déjà évoqué avec son médecin des maux de tête lors de départs, demande à faire le point à l’écart avant de décider si elle prend le bus prévu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décider de la suite quand le corps gêne le départ",
+          "points": [
+            {
+              "heading": "Se mettre à l’écart du mouvement",
+              "objective": "Retrouvez une position où vous pouvez évaluer la situation sans subir la cadence du départ.",
+              "exercise": [
+                "Écartez-vous du passage vers un endroit où vous pouvez attendre en sécurité.",
+                "Si quelqu’un est avec vous, demandez un geste pratique et limité, comme tenir le sac pendant que vous vous asseyez.",
+                "Vérifiez les options de trajet à tête reposée, quitte à prendre un départ plus tard si c’est possible."
+              ],
+              "benefit": "Une courte pause peut rendre la situation plus lisible et rappeler qu’il existe parfois plusieurs options."
+            },
+            {
+              "heading": "Décrire la sensation dans son contexte",
+              "objective": "Donnez au professionnel de santé de quoi comprendre ce qui s’est passé.",
+              "exercise": [
+                "Quand vous le pouvez, notez la sensation, son heure d’apparition et ce que vous faisiez.",
+                "Précisez si vous la connaissez et ce qu’elle vous a empêché de faire.",
+                "Apportez ces observations au rendez-vous. Si la sensation est nouvelle ou préoccupante, demandez un avis adapté sans attendre ce rendez-vous."
+              ],
+              "benefit": "Cette description peut guider l’évaluation sans assimiler d’avance une sensation au trouble déjà connu."
+            },
+            {
+              "heading": "Prévoir des options avant le quai",
+              "objective": "Décidez à l’avance des aménagements que vous pouvez utiliser sans vous obliger à partir.",
+              "exercise": [
+                "Repérez les contraintes réelles du trajet, comme l’heure à laquelle le logement peut vous recevoir.",
+                "Choisissez un plan de rechange réaliste et dites à la personne concernée ce que vous pourriez lui demander.",
+                "Si ces épisodes compliquent régulièrement vos départs, convenez avec le professionnel qui vous suit de ce que vous ferez si l’appui prévu ne suffit pas."
+              ],
+              "benefit": "Une option préparée peut réduire les décisions à prendre quand la sensation mobilise déjà beaucoup d’attention."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le billet dans la poche extérieure",
+      "ending": "Danièle attend sur le banc. Rébecca lui demande de tenir le sac le temps qu’elle prenne son billet. Elle le déplie, lit le numéro de voiture et vérifie qu’il reste des trains. Son billet peut être échangé si besoin. Le groupe est passé. Elle choisit de se lever et de rejoindre la voiture affichée. Danièle l’accompagne jusqu’à la hauteur de la porte, lui fait signe et retourne s’asseoir pour appeler une amie.\n\nLa nausée est encore là lorsque Rébecca range son sac sous le siège. Elle note l’heure et écrit « au moment de se dire au revoir » pour son prochain rendez-vous. En arrivant au logement, elle envoie le message convenu pour signaler son arrivée. L’appel prévu avec Danièle est à dix-neuf heures. Elle a le temps de trouver comment fonctionne la lampe de la photo.",
+      "conclusion": "La sensation a rendu les gestes du départ plus difficiles. La pause a permis à Rébecca de reprendre sa décision et de noter ce qu’elle voudrait décrire en consultation. Dans la chambre, son attention se porte déjà sur un autre repère de la séparation, l’heure du premier appel.",
+      "mirror": [
+        "Danièle peut demander « Tu veux que je garde le sac ou que je te laisse de la place ? » Elle peut offrir une aide précise et attendre la réponse. Elle n’a pas à décider si la nausée est liée à l’anxiété. En cas de malaise inhabituel ou préoccupant, elle peut aider Rébecca à obtenir l’avis approprié."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-anxiete-symptomes-diagnostic",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle s’assied, demande une aide avec le sac, puis choisit de prendre le train et note les circonstances de la nausée.",
+        "next": "Elle arrive au logement et envoie le message prévu. Le premier appel avec Danièle est fixé à dix-neuf heures."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "rebecca-rappeler-pour-etre-sure",
+      "title": "Quand un appel rassure et que le doute revient",
+      "description": "Rébecca aime parler avec Danièle. Dans sa chambre de stage, elle remarque que l’envie de rappeler vient parfois d’une autre attente.",
+      "context": "Le premier appel depuis le logement du stage",
+      "topics": [
+        "Recherche de réassurance",
+        "Soulagement bref",
+        "Accord sur les contacts"
+      ],
+      "clinical_focus": "Réassurance répétée pendant l’éloignement",
+      "clinical_intro": "Les échanges avec un proche peuvent être des moments choisis et agréables. Quand on l’appelle de nouveau pour obtenir la même assurance, le soulagement peut ne durer qu’un instant. Rébecca entend Danièle rire à l’autre bout du fil et lui raconte le voyage. Quelques minutes après avoir raccroché, elle songe à rappeler pour être certaine qu’elle va toujours bien.",
+      "opening": "À dix-neuf heures, le téléphone s’allume à côté de la lampe. Rébecca avait posé la notice de la bouilloire sur le lit, sans parvenir à comprendre à quoi servait le voyant orange. Danièle lui demande d’abord si elle a trouvé une tasse. Rébecca répond qu’elle en a trouvé deux, dont une avec un manche trop petit. Elle lui raconte le quai et l’homme qui a voulu sortir du train avec le sac de quelqu’un d’autre. Danièle rit. Puis elle lui fait entendre les trois notes qu’elle n’arrive pas à enchaîner pour mercredi.\n\nAvant de se quitter, Rébecca demande si le couloir est bien éclairé chez elles. Danièle répond que oui et qu’elle va retourner à son dîner. Rébecca pose son téléphone près de la tasse. Pendant qu’elle verse l’eau, elle pense à une chose que sa tante n’a pas précisée, la petite marche entre le couloir et la cuisine. Danièle lui a répondu d’une voix enjouée, ce qui l’a apaisée sur le coup. Maintenant, elle aimerait lui demander de se lever et d’aller regarder la marche.\n\nElle prend de nouveau son téléphone. Sa première idée est d’appeler. La deuxième, si Danièle ne répond pas, est de demander à quelqu’un de la chorale de vérifier. Elle ne saurait même pas quelle raison donner à cette personne. Elle appelle quand même Danièle. Quand sa tante décroche, Rébecca l’entend poser des couverts. Elle comprend qu’elle s’est empressée de répondre et elle a tout de suite envie de lui raconter autre chose pour justifier l’appel.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les deux raisons d’un même appel",
+          "text": "La recherche répétée de réassurance peut procurer un apaisement bref, puis laisser revenir le doute et l’envie de demander encore. Ce mécanisme peut se rencontrer dans plusieurs difficultés anxieuses. Chez Rébecca, la question porte sur la sécurité de Danièle et sur ce qui pourrait les séparer. Leur appel a aussi une valeur propre. Elles rient d’un sac échangé et parlent de musique. Ce sont la fonction de la demande, sa répétition et sa place dans leurs activités qui éclairent ce qui est difficile, davantage que le nombre d’appels pris isolément."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le besoin d’assurance change-t-il la conversation ?",
+          "points": [
+            {
+              "heading": "La même inquiétude revient sous une autre question",
+              "text": "Après une réponse, le doute peut se déplacer vers un détail laissé de côté. La conversation reprend alors sur la même crainte.",
+              "examples": [
+                "Danièle a dit que le couloir était éclairé. Une fois l’appel terminé, Rébecca envisage de lui demander si elle a vérifié la marche.",
+                "Une personne sait que son conjoint est rentré. Elle lui demande ensuite s’il a fermé la porte, puis s’il a entendu le verrou, pour essayer d’être certaine qu’il ne lui arrivera rien."
+              ]
+            },
+            {
+              "heading": "Une preuve plus précise semble nécessaire",
+              "text": "La réponse du proche peut cesser de suffire. On peut chercher une confirmation auprès d’une autre personne ou demander une photo, ce qui étend le travail de vérification.",
+              "examples": [
+                "Rébecca envisage de demander à quelqu’un de la chorale d’appeler Danièle alors qu’elle vient de lui parler.",
+                "Après un message de son frère lui disant qu’il va bien, une personne voudrait entendre sa voix puis joindre sa colocataire pour s’assurer qu’il n’a rien caché."
+              ]
+            },
+            {
+              "heading": "L’échange affectueux est écourté ou recommencé",
+              "text": "À force d’occuper la fin des appels, la demande d’assurance peut prendre du temps aux deux personnes et donner au lien un rythme qu’elles n’ont pas choisi.",
+              "examples": [
+                "Le premier appel contient une histoire de train et trois notes chantées. Rébecca le recommence presque aussitôt, alors que Danièle vient de se remettre à table.",
+                "Une femme appelle sa mère pour partager une bonne nouvelle. L’échange dure surtout parce qu’elle lui demande plusieurs fois de confirmer que tout va bien chez elle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder des contacts qui conviennent à chacun",
+          "points": [
+            {
+              "heading": "Identifier ce que vous voudriez entendre",
+              "objective": "Distinguez l’envie de parler du besoin d’obtenir de nouveau une garantie.",
+              "exercise": [
+                "Avant de reprendre le téléphone, écrivez en quelques mots la raison de votre appel.",
+                "Demandez-vous si vous avez déjà reçu la réponse que vous cherchez ou si un fait nouveau appelle une action.",
+                "Si c’est la même question et qu’il n’y a rien de nouveau, essayez de revenir à une activité brève. Vous pourrez en reparler au moment convenu ou avec votre thérapeute."
+              ],
+              "benefit": "Le geste peut rendre visible le doute récurrent et vous aider à choisir l’usage de votre prochain appel."
+            },
+            {
+              "heading": "Accorder les disponibilités",
+              "objective": "Gardez des moments de contact dont les deux personnes peuvent disposer librement.",
+              "exercise": [
+                "Parlez-en à un moment où chacun est disponible.",
+                "Choisissez un créneau et dites ce que vous ferez si l’un de vous est occupé, par exemple reprendre la conversation plus tard.",
+                "Précisez comment vous vous contacteriez si un événement réel exigeait une réponse et ajustez l’accord s’il devient pesant."
+              ],
+              "benefit": "Un accord souple peut préserver le plaisir de s’appeler sans attendre une disponibilité permanente."
+            },
+            {
+              "heading": "Demander à être entendu",
+              "objective": "Formulez ce qui vous aiderait sans demander à l’autre de prouver qu’aucun malheur n’est possible.",
+              "exercise": [
+                "Nommez le moment difficile, par exemple la fin de l’appel.",
+                "Proposez une demande limitée, comme être écouté le temps de dire ce qui revient.",
+                "Vérifiez si l’autre est disponible et prévoyez de reprendre le sujet en consultation s’il revient souvent."
+              ],
+              "benefit": "La conversation peut accueillir la peur sans tourner autour d’une certitude que personne ne peut donner."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les couverts reposés",
+      "ending": "« En fait, je voulais encore te demander si tout allait bien », dit Rébecca. Danièle repose ses couverts. Elle dit que tout à l’heure, elle a aimé entendre l’histoire du train. Elle souhaite reprendre son dîner. Rébecca lui demande si elle veut qu’elles gardent l’appel du mercredi. Danièle finira sa répétition vers vingt heures trente. Elle écrira après, autour de vingt heures quarante-cinq si elle le peut, et elles verront alors si elles ont envie de se parler. Elles se retrouveront vendredi. Avant de ranger son téléphone, Danièle envoie un message pour redire l’heure approximative du mercredi.\n\nUne fois le téléphone posé, Rébecca a encore envie de savoir si Danièle est passée par le couloir. Elle l’écrit sur le dos du billet au lieu de demander à une autre personne de vérifier. Puis elle lit la notice de la bouilloire jusqu’à la phrase sur le voyant orange. Quand elle y arrive, l’eau est déjà froide. Elle réchauffe sa tasse et cherche l’heure à laquelle elle devra se présenter aux archives le lendemain.",
+      "conclusion": "Le deuxième appel montre combien la réponse de Danièle a rassuré Rébecca brièvement. Toutes deux gardent un contact qu’elles souhaitent et précisent comment elles veulent s’écrire. Le lendemain, Rébecca découvrira combien les repères de la journée peuvent à leur tour prendre de l’importance.",
+      "mirror": [
+        "Danièle peut dire « Je vois que tu as eu peur après avoir raccroché. J’ai quelques minutes pour t’écouter et ensuite je retourne dîner. » Elle peut tenir une limite qu’elle a choisie et en rediscuter avec Rébecca. Elles peuvent garder des conversations sur la musique, les archives ou leurs repas. Un fait concret et inquiétant se traite en fonction de ce qu’il indique."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-repondre-reassurance",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle reconnaît ce qu’elle demandait et convient avec Danièle d’un message possible mercredi après la chorale.",
+        "next": "Le premier matin de stage commence lundi. Le prochain contact prévu est un message, autour de vingt heures quarante-cinq mercredi si Danièle est disponible."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "rebecca-quand-la-duree-parait-sans-borne",
+      "title": "Quand un horaire change et que l’absence paraît s’allonger",
+      "description": "Antoine décale l’accès à la cartothèque. Rébecca imagine déjà rater son train du vendredi et cherche quel repère reste fiable.",
+      "context": "Un changement d’ordre pendant la première journée aux archives",
+      "topics": [
+        "Durée anticipée de la séparation",
+        "Horaires et incertitude",
+        "Ajustement du stage"
+      ],
+      "clinical_focus": "Durée redoutée de la séparation",
+      "clinical_intro": "Une modification d’horaire peut faire craindre qu’une séparation dure plus longtemps que prévu. Lundi matin, Antoine décale l’accès à la cartothèque. La fin de la semaine n’a pas changé, mais Rébecca se représente déjà une nuit de plus loin de Danièle. Elle cherche une façon de connaître les repères qui comptent et de travailler sans régler tous les imprévus à l’avance.",
+      "opening": "Le premier matin, Antoine remet à Rébecca un badge et un crayon de la réserve. Sur la table l’attend une pochette pour le registre du garde champêtre. Elle reconnaît le numéro du tiroir qu’il lui a montré en visio, écrit au dos de la pochette. Elle commence à tracer trois colonnes sur sa feuille. Dans la première, elle mettra le nom exact du lieu, dans la deuxième la date, dans la troisième le document qui donne l’information.\n\nAntoine revient de l’accueil. Une collègue doit travailler dans la cartothèque cet après-midi. Le tiroir qu’ils avaient prévu d’ouvrir à quatorze heures ne sera disponible qu’en fin de journée. « On peut commencer par le registre et faire le point à seize heures », propose-t-il. Rébecca a déjà écrit « tiroir » en face de quatorze heures. Elle tire un trait et attend l’heure exacte qu’elle pourra mettre à la place.\n\nAntoine n’en a pas. Il sait quand ils pourront se reparler et quand le bâtiment fermera. Rébecca pense au train de vendredi. Si chaque tâche prend du retard, Antoine voudra peut-être finir la notice après dix-sept heures. Si elle rate le train, elle dormira une nuit de plus sans voir Danièle. Le premier retard date d’il y a quelques secondes. Dans sa tête, l’éloignement a déjà gagné une nuit. Rébecca ouvre sa bouche pour demander les horaires de toute la semaine. Devant elle, le registre est accessible et la première ligne est encore blanche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir où finit un éloignement",
+          "text": "Quand la séparation est redoutée, l’incertitude sur sa durée peut peser jusque dans les activités qui se déroulent loin de la personne. Préférer un programme clair est courant. Chez Rébecca, ce qui lui rend le changement difficile est la perspective que les retrouvailles soient repoussées. Elle ne commence pas le relevé disponible parce qu’elle se représente déjà un départ manqué. Un horaire confirmé peut résoudre une question pratique. Il ne fixe ni le détail de chaque tâche ni tout ce que la personne peut imaginer d’ici le retour."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un imprévu déplace-t-il la fin que l’on se représente ?",
+          "points": [
+            {
+              "heading": "Un changement local paraît s’étendre à tout le séjour",
+              "text": "Quand le moment des retrouvailles compte beaucoup, une modification mineure peut être lue comme le début d’une suite qui prolongerait l’absence.",
+              "examples": [
+                "Le tiroir sera accessible plus tard le lundi. Rébecca se représente tout de suite le dernier train du vendredi parti sans elle.",
+                "Un stagiaire apprend que le point de milieu de journée sera décalé. Il imagine devoir finir le week-end sur place et ne plus rentrer à la date convenue avec son conjoint."
+              ]
+            },
+            {
+              "heading": "La date de retour est remplacée par une succession de conditions",
+              "text": "Au lieu de garder un horaire confirmé, la personne peut avoir l’impression que le retour dépend de la bonne marche de chaque étape.",
+              "examples": [
+                "Rébecca croit que son train dépendra de l’heure exacte à laquelle elle ouvre le registre et de la vitesse à laquelle Antoine relit la notice.",
+                "Lors d’une formation de deux jours, une personne réclame l’heure de chaque activité pour s’assurer de revoir sa sœur au moment prévu, alors que seul l’horaire de fin a été annoncé."
+              ]
+            },
+            {
+              "heading": "Une tâche disponible reste suspendue à une réponse",
+              "text": "Chercher à connaître d’abord la suite entière peut retarder un travail qui pourrait avancer indépendamment de l’imprévu.",
+              "examples": [
+                "Rébecca n’écrit aucun nom dans son tableau tant qu’elle ne sait pas quand le tiroir ouvrira.",
+                "Un participant arrivé sur un lieu de formation reste près de l’accueil pour vérifier l’heure de restitution du matériel et n’installe pas le poste qu’il peut déjà utiliser."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’appuyer sur les horaires utiles",
+          "points": [
+            {
+              "heading": "Séparer ce qui est fixé de ce qui peut bouger",
+              "objective": "Repérez les horaires fiables avant d’en conclure qu’un décalage change la durée du séjour.",
+              "exercise": [
+                "Inscrivez l’horaire confirmé qui compte, par exemple la fin du stage ou le départ réservé.",
+                "Notez à part l’heure qui peut varier, comme l’accès à un équipement.",
+                "Demandez si le changement affecte le premier horaire et à quel moment vous aurez besoin d’une nouvelle information."
+              ],
+              "benefit": "Vous pourrez poser une question vérifiable et garder de la place pour une modification ordinaire du travail."
+            },
+            {
+              "heading": "Choisir une tâche qui peut commencer maintenant",
+              "objective": "Trouvez ce qui reste faisable tant que l’autre information manque.",
+              "exercise": [
+                "Repérez le matériel ou la consigne déjà disponible.",
+                "Choisissez un résultat court, comme relever les trois premières lignes utiles.",
+                "Fixez avec le tuteur l’heure où vous reprendrez le point sur la suite."
+              ],
+              "benefit": "Ce résultat donne une prise concrète sur la journée même si le reste du programme doit être ajusté."
+            },
+            {
+              "heading": "Définir un ajustement dans le cadre du stage",
+              "objective": "Convenez d’un aménagement qui protège les contraintes réelles et respecte les objectifs prévus.",
+              "exercise": [
+                "Indiquez au tuteur la contrainte pratique que vous pouvez partager, comme votre heure de train.",
+                "Décidez ensemble ce qui peut être décalé, écourté ou réorganisé dans les horaires du stage.",
+                "Si chaque imprévu continue de vous faire redouter une séparation prolongée, apportez un exemple au professionnel qui vous suit."
+              ],
+              "benefit": "Le travail garde un cadre commun, et la difficulté liée à l’éloignement peut être discutée avec l’interlocuteur adapté."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une première ligne dans le registre",
+      "ending": "« Si le tiroir n’est pas libre, est-ce qu’on garde les heures de fin de la convention, y compris vendredi ? » demande Rébecca. Antoine confirme. S’ils manquent de temps, la comparaison avec une deuxième carte attendra. Ils gardent le point de seize heures pour vérifier si le tiroir s’est libéré. Rébecca gomme l’heure en face du mot « tiroir » et écrit l’heure du point dans la marge.\n\nElle trouve dans le registre trois façons d’écrire le nom du lieu et l’une d’elles comporte une lettre qu’elle ne sait pas lire. À seize heures, Antoine la lui fait comparer à la même lettre sur la page suivante. La cartothèque est libre et ils peuvent consulter le plan avant la fermeture. En quittant le bâtiment à l’heure convenue, Rébecca range son relevé. Elle se réjouit d’avoir trouvé la lettre. Au moment de prendre le chemin du logement, elle ressent à nouveau la distance de la maison.",
+      "conclusion": "Rébecca a pu préserver une heure de retour qui comptait pour elle et laisser Antoine adapter le travail. Cette marge suffit pour commencer le relevé. Le programme du stage explique ce qu’elle fera demain. Il ne lui dit pas comment elle vivra la fin de la journée loin de Danièle.",
+      "mirror": [
+        "Si Rébecca raconte le tiroir et le train dans la même phrase, Danièle peut répondre « Qu’est-ce qui a vraiment changé dans ton heure de retour ? » Elle peut écouter la réponse et laisser à Antoine les décisions de stage. Leur heure de retrouvailles peut compter pour toutes les deux sans que Danièle ait à confirmer chaque détail du programme."
+      ],
+      "sources": [
+        "oms-cddr",
+        "service-public-stage-administration",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle vérifie que l’horaire de fin reste valable, commence le registre et convient d’un point de suivi avec Antoine.",
+        "next": "Elle quitte les archives à l’heure prévue après avoir consulté le plan. Elle rejoint la chambre pour sa première soirée après le travail."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "rebecca-se-retirer-une-fois-loin",
+      "title": "Se retirer quand la séparation pèse sur la soirée",
+      "description": "Après une première journée qui lui a plu, Rébecca décline une invitation à dîner. Seule dans sa chambre, elle se demande ce qu’elle voulait éviter.",
+      "context": "Le retour au logement après le premier jour de stage",
+      "topics": [
+        "Retrait pendant la séparation",
+        "Détresse loin d’un proche",
+        "Participation choisie"
+      ],
+      "clinical_focus": "Retrait pendant la séparation",
+      "clinical_intro": "Être loin d’une personne à laquelle on tient peut rendre plus difficile de rester dans une conversation ou de participer à une activité. Après les archives, Rébecca a une trouvaille à raconter. Elle décline pourtant l’invitation à dîner d’une autre locataire et remonte dans sa chambre. Elle sait qu’elle peut aimer la solitude. Cette fois, le retrait lui laisse surtout la distance à laquelle elle pense.",
+      "opening": "La table de la cuisine commune est couverte de dessous-de-plat en liège. Lila, une autre locataire, en rassemble deux au milieu pour poser sa casserole. Elle demande à Rébecca si elle veut manger avec elle. La veille, elles se sont croisées en cherchant si la tasse au manche trop petit appartenait à la maison. Rébecca ouvre déjà la bouche pour lui raconter la lettre du registre qu’elle a reconnue grâce à la page suivante. Chez elle, elle aurait commencé l’histoire avant d’avoir ôté ses chaussures.\n\nPuis elle aperçoit, derrière le coude de Lila, une chaise peinte du même vert que celle de Danièle. Elle pense à l’heure où sa tante coupe son pain et s’assied à la cuisine. À la maison, elles mangent aussi chacune de leur côté quand elles ont du travail. Cette fois, même si Rébecca terminait plus tôt, elle ne pourrait pas traverser le couloir et la retrouver. Les paroles de Lila lui arrivent avec un peu de retard. Rébecca accepte un bol, dit qu’elle a encore des notes à reprendre et monte dans sa chambre.\n\nElle ne touche pas au relevé. Elle entend un tiroir se fermer à l’étage inférieur et tourne sa cuillère dans la soupe sans la goûter. Elle avait imaginé se sentir tranquille après une journée réussie. Elle se rend compte qu’elle ne veut ni descendre ni passer toute la soirée à écouter ce qui se passe derrière la porte. Il lui aurait plu de parler de la lettre du registre. Le bol est encore presque plein lorsqu’elle l’emporte vers l’évier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que la détresse laisse de côté",
+          "text": "La détresse liée à une séparation peut s’accompagner d’un retrait. Une personne peut quitter un échange ou se rendre moins disponible, y compris pour des activités qui l’intéressent. Choisir de rester seul pour se reposer peut être agréable et utile. Chez Rébecca, la soirée s’est rétrécie au moment où la chaise lui a rappelé Danièle. Elle ne manque ni d’intérêt pour la journée ni d’envie de parler à Lila. Elle a du mal à trouver comment rester présente alors qu’elle ressent fortement l’éloignement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retrait se manifeste-t-il une fois loin ?",
+          "points": [
+            {
+              "heading": "Une invitation souhaitée devient difficile à accepter",
+              "text": "La détresse peut rendre une activité moins accessible au moment où elle se présente, même quand l’idée plaisait peu avant.",
+              "examples": [
+                "Rébecca avait une anecdote à raconter à Lila. Elle invoque un travail à terminer et monte seule.",
+                "Lors d’un déplacement, un homme choisit d’emporter son repas alors qu’il avait envie de découvrir la ville avec ses collègues. Il vient de prendre conscience qu’il ne retrouvera pas son frère ce soir."
+              ]
+            },
+            {
+              "heading": "La personne reste là et perd le fil",
+              "text": "On peut se retirer d’un échange sans quitter la pièce. L’attention revient à la personne absente et il devient difficile de répondre ou de suivre.",
+              "examples": [
+                "Devant la chaise verte, Rébecca n’entend plus les derniers mots de l’invitation de Lila.",
+                "À une table de formation, une participante ne suit plus la conversation lorsqu’elle réalise qu’il reste plusieurs soirs avant de revoir sa conjointe. Elle répond ensuite sans savoir sur quel sujet le groupe parle."
+              ]
+            },
+            {
+              "heading": "Le refuge ne donne pas le repos espéré",
+              "text": "Partir peut retirer la pression de la conversation. La séparation reste parfois au premier plan une fois seul, et une activité attendue ne commence pas.",
+              "examples": [
+                "Rébecca remonte pour prétendument reprendre ses notes. Elle reste assise devant le bol sans relire son relevé.",
+                "Après avoir quitté un jeu collectif pour se reposer, une personne passe le reste de la pause à penser à la soirée qu’elle aurait passée avec sa mère et ne trouve pas le repos recherché."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une place aux activités quand on est loin",
+          "points": [
+            {
+              "heading": "Distinguer une pause d’une soirée subie",
+              "objective": "Faites le point sur ce que vous attendiez du moment passé seul.",
+              "exercise": [
+                "Repensez à ce que vous comptiez faire lorsque vous vous êtes retiré.",
+                "Observez si le temps seul vous repose ou si vous restez surtout absorbé par la séparation.",
+                "Décidez si vous souhaitez prolonger ce moment, choisir une autre activité ou revenir un peu parmi les autres."
+              ],
+              "benefit": "Cette distinction peut préserver les pauses qui font du bien et ouvrir une autre option lorsque le retrait vous laisse en difficulté."
+            },
+            {
+              "heading": "Revenir par un geste ordinaire",
+              "objective": "Gardez un contact ou une activité à votre portée sans devoir tenir toute la soirée.",
+              "exercise": [
+                "Choisissez un geste concret qui vous intéresse, comme retourner poser votre bol ou poser une question.",
+                "Si vous en avez envie, dites combien de temps vous souhaitez rester.",
+                "Réévaluez ce temps à la fin, sans obligation de prolonger l’échange."
+              ],
+              "benefit": "Une participation courte peut laisser place à un intérêt qui était passé au second plan."
+            },
+            {
+              "heading": "Donner à voir le retrait en consultation",
+              "objective": "Parlez du moment où vous cessez de participer, même après une journée qui semblait bien se passer.",
+              "exercise": [
+                "Relevez ce que vous veniez de faire et ce qui a ramené la séparation au premier plan.",
+                "Décrivez l’activité à laquelle vous avez renoncé et comment vous vous êtes senti ensuite.",
+                "Discutez avec le professionnel qui vous suit d’un appui possible pour le prochain moment où cela pourrait se reproduire."
+              ],
+              "benefit": "Un exemple précis peut montrer un retentissement que les autres ne voient pas quand ils vous rencontrent au travail."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le bol redescend",
+      "ending": "Lila a laissé la casserole sur un dessous-de-plat. Elle propose de réchauffer la soupe. Rébecca dit qu’elle veut bien rester le temps de manger. Elle lui raconte comment elle a lu la lettre dans le registre. Lila, qui a grandi près d’un hameau appelé la Basse Cour, lui demande si les habitants y plaçaient les mots dans le même ordre que le garde champêtre. Rébecca n’avait pas pensé à écouter la façon dont les gens prononcent le nom.\n\nElle reste pour le bol, puis remonte. Elle a apprécié la question de Lila et commence à y répondre sur un coin de son relevé. En rangeant la feuille, elle remarque la lampe au-dessus du lit. Elle n’a plus rien de prévu avant le lendemain. En bas, Lila finit la vaisselle et le bâtiment se fait plus calme. Rébecca n’a toujours pas envie d’éteindre.",
+      "conclusion": "Le retrait de Rébecca a pris place après une journée qui l’avait intéressée. En revenant pour son bol, elle a retrouvé un échange qu’elle voulait avoir. La chambre et la fin de la soirée lui posent une autre difficulté, celle d’aller se coucher loin de Danièle.",
+      "mirror": [
+        "Lila peut offrir une place pour le temps du repas et dire « Je garde une chaise si tu veux redescendre. » Elle peut poursuivre sa soirée quelle que soit la réponse. Danièle, si Rébecca lui en parle plus tard, peut lui demander ce qu’elle aurait aimé faire. Aucune des deux n’a à remplir chaque heure passée loin de l’autre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte",
+        "ameli-troubles-anxieux-traitement"
+      ],
+      "continuity": {
+        "choice": "Elle redescend pour manger un bol avec Lila et reprend la conversation qu’elle souhaitait avoir.",
+        "next": "Elle revient dans la chambre. Le repas est terminé, le bâtiment se calme et il reste le moment d’aller se coucher loin de Danièle."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "rebecca-repousser-le-coucher-loin-de-chez-soi",
+      "title": "Repousser le coucher quand on dort loin d’un proche",
+      "description": "Dans sa chambre, Rébecca trouve encore des choses à ranger avant d’éteindre. Elle hésite surtout devant l’idée de se coucher loin de Danièle.",
+      "context": "Le coucher dans le logement du stage",
+      "topics": [
+        "Réticence au coucher",
+        "Sommeil loin d’un proche",
+        "Rythme du soir"
+      ],
+      "clinical_focus": "Réticence à se coucher loin",
+      "clinical_intro": "Dans le trouble d’anxiété de séparation, le moment d’aller se coucher loin d’une personne à laquelle on tient peut être particulièrement difficile. Rébecca est fatiguée et connaît désormais sa chambre. Pourtant, elle garde la lampe allumée et repousse le moment de s’allonger. Les quelques tâches qu’elle se donne prolongent une soirée où elle peut encore s’occuper.",
+      "opening": "Rébecca a rapporté le bol à l’évier et parlé avec Lila du nom que les gens donnent à un lieu. Sur le relevé, elle a noté la question en marge. Au moment de glisser la feuille dans son sac, elle se rend compte qu’elle bâille. La veille, la fatigue du voyage l’avait surprise alors qu’elle lisait dans le lit, et elle avait fini par poser son livre. Cette fois, elle pense au moment d’éteindre avant même d’ouvrir le livre.\n\nChez elle, Danièle est souvent couchée la première. Rébecca la sait dans la pièce d’à côté et peut s’endormir sans lui parler. Ici, elle a vérifié que la fenêtre fermait, que la lampe fonctionnait et que le réveil était réglé. La chambre ne lui paraît plus inconnue. Elle reprend pourtant le chargeur pour l’enrouler dans l’autre sens. Elle cherche une nouvelle place à la clé, puis la repose où elle était. Tant que la lampe est allumée et qu’elle se tient debout, elle a quelque chose à faire. Une fois couchée, elle n’aura plus que le temps avant le matin.\n\nRébecca ouvre l’agenda sur son téléphone. Le prochain message convenu avec Danièle est mercredi après la répétition. Elle commence à écrire « Tu es encore debout ? » et laisse son pouce au-dessus de la touche d’envoi. Elle aimerait entendre le parquet sous les pas de sa tante, un bruit qu’un appel ne lui rendrait pas. Derrière la porte de la chambre, la tuyauterie fait un bruit sec. Rébecca pose le téléphone et retourne chercher le livre qu’elle a remis dans son sac.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le coucher rend l’absence plus sensible",
+          "text": "La réticence à se coucher loin d’un proche peut faire partie de l’anxiété de séparation. La difficulté peut apparaître avant même d’essayer de dormir. Certains ont aussi des cauchemars liés à la séparation. Un sommeil perturbé a de nombreuses autres explications possibles. Chez Rébecca, la chambre lui paraît familière et elle est fatiguée. Ce qu’elle repousse est le moment où les activités s’arrêtent alors que Danièle reste loin. Une soirée difficile ne permet pas de conclure à une insomnie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la réticence au coucher s’installe-t-elle ?",
+          "points": [
+            {
+              "heading": "Le rituel du soir se rallonge",
+              "text": "Des préparatifs ordinaires peuvent devenir une suite de petites tâches qui reportent l’heure de se mettre au lit.",
+              "examples": [
+                "Rébecca change plusieurs fois la place de sa clé alors qu’elle pourrait déjà se coucher.",
+                "Une personne qui dort loin de sa compagne replie plusieurs fois des affaires déjà rangées et relit un document qu’elle n’aura pas à rendre avant la semaine suivante."
+              ]
+            },
+            {
+              "heading": "La présence de l’autre semble nécessaire pour commencer la nuit",
+              "text": "Le souhait de rester en contact peut devenir une condition que la personne croit devoir remplir avant de s’allonger ou d’éteindre.",
+              "examples": [
+                "Rébecca est tentée d’attendre un signe que Danièle est encore éveillée avant de poser le téléphone.",
+                "En déplacement, un homme attend d’entendre la voix de son frère pour se mettre au lit, alors qu’ils ont prévu de se parler le lendemain."
+              ]
+            },
+            {
+              "heading": "Le coucher est remis à plus tard la veille d’une journée qui compte",
+              "text": "Prolonger l’éveil peut réduire le temps disponible pour dormir. Le lendemain, la fatigue éventuelle peut s’ajouter aux difficultés de la séparation.",
+              "examples": [
+                "Rébecca a mis son réveil pour l’ouverture des archives. Elle bâille et continue de ranger ses affaires, même si l’heure du réveil reste la même.",
+                "Une stagiaire veut finir sa nuit dans le train du matin. Elle repousse le coucher parce que l’idée de s’endormir loin de sa mère l’occupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer le coucher loin d’un proche",
+          "points": [
+            {
+              "heading": "Choisir un rituel bref et familier",
+              "objective": "Gardez un repère de coucher utilisable dans le lieu où vous dormez.",
+              "exercise": [
+                "Choisissez deux gestes familiers, comme poser les affaires du lendemain et lire quelques pages.",
+                "Préparez ce qu’il vous faut pour ces gestes avant la fin de la soirée.",
+                "Lorsque vous avez sommeil, passez au coucher après le rituel, avec la possibilité de l’ajuster si la situation est trop difficile."
+              ],
+              "benefit": "Une suite courte peut éviter que les préparatifs s’étendent pour repousser l’heure d’aller au lit."
+            },
+            {
+              "heading": "Parler du soir avant de se retrouver seul",
+              "objective": "Préparez un appui qui respecte le sommeil et la disponibilité de chacun.",
+              "exercise": [
+                "Dites à votre proche ce qui rend la fin de soirée difficile, si vous souhaitez le partager.",
+                "Choisissez ensemble un geste qui vous convient à tous deux, comme se souhaiter bonne nuit plus tôt, sans attendre une réponse immédiate.",
+                "Prévoyez ce que vous pourrez faire au coucher avec ou sans nouveau message, par exemple reprendre votre lecture."
+              ],
+              "benefit": "Vous pouvez garder un signe d’affection tout en laissant à chacun le choix de son heure de coucher."
+            },
+            {
+              "heading": "Noter ce qui se passe si les nuits deviennent difficiles",
+              "objective": "Donnez au médecin des éléments sur le coucher et le retentissement dans la journée.",
+              "exercise": [
+                "Relevez sur quelques nuits, sans surveiller l’heure en continu, à quel moment la difficulté survient.",
+                "Notez le lendemain ce qui vous a manqué dans la journée, comme de l’attention ou de l’énergie.",
+                "Si cela dure ou pèse sur vos journées, prenez conseil auprès de votre médecin et parlez du contexte de séparation dans votre suivi."
+              ],
+              "benefit": "Ces observations peuvent aider à distinguer ce qui se joue à l’heure du coucher de ce qui perturbe le sommeil ensuite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux pages à la lumière du lit",
+      "ending": "Rébecca efface la question laissée sur l’écran. Elle pose les vêtements de demain sur une chaise et lit deux pages. Le bruit des tuyaux revient pendant la deuxième. Elle a envie de laisser la lampe allumée, puis décide de l’éteindre et de s’allonger. Elle la rallume une fois parce qu’elle tourne encore dans le lit. Le livre est à portée de main. Quand elle s’endort, elle n’a pas regardé l’heure.\n\nAu matin, elle se sent plus lente qu’après le voyage. Elle note que la difficulté a commencé debout, avant le lit. Elle sait ce qu’elle voudrait reprendre avec Claire si cela continue. Le travail lui donne un point de départ pour la journée. Mercredi, Danièle pense lui écrire après sa répétition, si elle peut. Rébecca se rappelle que l’heure qu’elles ont donnée était approximative. Elle a tout de même déjà fait le calcul du nombre de soirs avant vendredi.",
+      "conclusion": "Ce soir-là, le coucher lui-même était difficile. Rébecca a commencé par retrouver des gestes qui la préparent à dormir et a gardé une information à discuter si les nuits continuent de peser sur ses journées. L’échange prévu après la chorale lui fera rencontrer une autre incertitude, celle de l’attente d’un message.",
+      "mirror": [
+        "Si Rébecca dit que le plus dur est d’éteindre, Danièle peut répondre « Je peux te souhaiter bonne nuit avant de ranger mon téléphone, si ça te convient. » Elles choisissent ensemble si ce geste a sa place. Danièle peut dormir à son heure et Rébecca peut parler du retentissement de ses nuits à un professionnel, sans avoir à négocier une présence continue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sommeil-adulte",
+        "ameli-sommeil-consultation"
+      ],
+      "continuity": {
+        "choice": "Elle choisit deux gestes de coucher et note le lendemain que la difficulté commence avant de se mettre au lit.",
+        "next": "Le travail reprend mardi. Mercredi, elle attend le message approximativement convenu avec Danièle à la sortie de la répétition."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "rebecca-un-silence-pris-pour-un-signe",
+      "title": "Quand un message tarde et que le silence paraît inquiétant",
+      "description": "Danièle a dit qu’elle écrirait après la chorale, si elle le pouvait. En regardant l’heure, Rébecca commence à lire son silence comme un signe.",
+      "context": "Un message attendu après la répétition de chorale",
+      "topics": [
+        "Silence et interprétation",
+        "Crainte de séparation",
+        "Réponse proportionnée"
+      ],
+      "clinical_focus": "Interprétation d’un délai de réponse",
+      "clinical_intro": "Un retard de réponse peut devenir difficile à supporter quand on redoute qu’un événement nous sépare d’un proche. Danièle pensait écrire après sa répétition si elle le pouvait. À l’heure approximative qu’elles avaient évoquée, Rébecca ne voit rien arriver. Elle a la même information qu’au début de la soirée, mais commence à interpréter l’absence de message comme la preuve que quelque chose s’est passé.",
+      "opening": "Mercredi soir, Rébecca sort du sac le plan de travail qu’Antoine lui a permis d’emporter, un brouillon sans document original. Elle a dessiné le chemin qui descend jusqu’à la Fontaine Basse et veut vérifier où écrire le mot « probablement » dans sa notice. En haut de la page, elle met l’heure à laquelle elle a commencé. Vingt heures trente-huit. Danièle devait sortir de répétition vers vingt heures trente et écrire autour de vingt heures quarante-cinq si elle pouvait.\n\nRébecca pose le téléphone debout contre la lampe. À vingt heures quarante-cinq, l’écran ne bouge pas. À vingt heures quarante-neuf, elle lit à nouveau le message du dimanche dans lequel Danièle avait dit qu’elles verraient si elles avaient envie de s’appeler. Ses yeux s’arrêtent sur l’heure et sautent l’expression « si je peux ». Il n’y a que quatre minutes d’écart, mais elle se dit que Danièle ne peut pas écrire et non plus qu’elle n’a pas écrit. Le trajet du local de chorale à la maison passe près d’une rue en pente. Rébecca connaît le début de la rue, puis la grille verte devant laquelle les lampadaires s’arrêtent.\n\nElle retourne son brouillon. La semaine dernière, les répétitions avaient débordé parce que deux personnes cherchaient la clé du placard. Elle le sait. Elle se surprend à penser que cette explication valait la semaine dernière seulement. Sur le coin blanc, elle écrit l’heure comme elle l’a fait au début du travail. Puis elle s’arrête. Ce qu’elle pourrait écrire juste en dessous, pour décrire ce qu’elle sait de Danièle, tient en peu de mots.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’information qui manque et le sens qu’on lui donne",
+          "text": "Quand on craint d’être séparé d’un proche, il peut être tentant de prendre une absence de nouvelles pour l’indice d’un malheur. Le silence ne dit pas à lui seul pourquoi un message manque. Chez Rébecca, la crainte change la lecture de la situation. Elle passe de « Danièle n’a pas encore écrit » à « Danièle ne peut pas écrire ». Un fait concret de nature inquiétante mériterait une réponse adaptée. Dans la chambre, pour l’instant, Rébecca n’a qu’un horaire approximatif et un écran qui reste éteint."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attente change-t-elle ce que l’on croit savoir ?",
+          "points": [
+            {
+              "heading": "Une heure indicative devient une échéance stricte",
+              "text": "L’heure évoquée pour un contact peut être retenue et la souplesse prévue disparaître quand la peur monte.",
+              "examples": [
+                "Rébecca garde vingt heures quarante-cinq en mémoire et oublie que Danièle avait dit « si je peux ».",
+                "Un père attend un message vers la pause de son fils adulte. Il interprète cinq minutes d’écart comme une absence anormale alors que la pause peut commencer plus tard."
+              ]
+            },
+            {
+              "heading": "Une absence est transformée en impossibilité",
+              "text": "La personne passe de ce qu’elle observe à ce qu’elle suppose sur les capacités de l’autre à répondre, sans avoir reçu d’information supplémentaire.",
+              "examples": [
+                "Rébecca lit l’écran vide comme si Danièle essayait de lui écrire et en était empêchée.",
+                "Une femme sait que sa sœur devait rentrer en covoiturage. Quand elle ne reçoit pas de réponse, elle passe de « je ne sais pas où elle en est » à « elle est bloquée et ne peut pas m’appeler »."
+              ]
+            },
+            {
+              "heading": "Les explications connues perdent du poids",
+              "text": "On peut connaître une raison ordinaire qui laisse le téléphone silencieux et ne plus lui accorder de place dès que la peur devient vive.",
+              "examples": [
+                "Rébecca se souvient d’une répétition qui a fini tard, mais elle écarte cette possibilité pour ce mercredi.",
+                "Une personne sait que son conjoint coupe la sonnerie pendant ses matchs. Lorsque le message attendu tarde, elle cesse de tenir compte du match et relit l’heure comme un indice de danger."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traverser l’attente sans conclure à partir du silence",
+          "points": [
+            {
+              "heading": "Écrire une observation complète",
+              "objective": "Gardez à la fois ce qui manque et les conditions dont vous aviez parlé.",
+              "exercise": [
+                "Notez une fois le fait, par exemple « Il est presque neuf heures et je n’ai pas reçu le message. »",
+                "Relisez l’accord initial si vous en avez besoin et ajoutez ce qui était souple dans l’horaire.",
+                "Placez l’explication qui vous fait peur à part, sous la forme d’une hypothèse."
+              ],
+              "benefit": "Une phrase complète peut empêcher que le silence prenne la place d’une nouvelle confirmée."
+            },
+            {
+              "heading": "Savoir ce qui demanderait une action",
+              "objective": "Préparez une réponse proportionnée aux informations qui peuvent réellement changer la situation.",
+              "exercise": [
+                "Reprenez ce que vous aviez prévu en cas de décalage ordinaire, comme reprendre contact plus tard.",
+                "Demandez-vous si un fait inquiétant est apparu depuis, et de quelle aide vous auriez besoin s’il y en avait un.",
+                "Agissez en fonction de ce fait s’il existe. Si vous n’avez que le silence et que l’accord laisse de la marge, choisissez la suite possible dans ce cadre."
+              ],
+              "benefit": "Vous gardez la possibilité de répondre à une difficulté réelle sans traiter chaque retard comme un signal d’alarme."
+            },
+            {
+              "heading": "Reprendre une action qui a sa propre fin",
+              "objective": "Donnez une autre activité à votre attention pendant que l’explication reste inconnue.",
+              "exercise": [
+                "Choisissez une action courte et définie, comme corriger une seule phrase.",
+                "Fixez un moment où refaire le point et gardez le téléphone disponible selon ce qui était convenu.",
+                "Faites cette action, puis reprenez votre décision au moment prévu ou plus tôt si une information réelle change la situation."
+              ],
+              "benefit": "La soirée peut avancer un peu même si vous n’avez pas obtenu d’explication."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le mot probablement",
+      "ending": "Rébecca écrit « Je n’ai pas encore reçu de message. Elle pensait écrire après. » Puis elle revient à sa phrase de travail. Le registre donne un nom et un chemin. Le plan montre un point d’eau dans la direction indiquée. Elle place « probablement » juste avant « la Fontaine Basse ». La correction lui prend plus longtemps qu’elle ne le pensait. Elle a encore envie de reprendre son téléphone, mais elle finit de lire la phrase.\n\nÀ vingt et une heures huit, Danièle écrit qu’elles ont recommencé deux fois la fin et que le chef de chœur a oublié son écharpe. Rébecca lui demande si elle a enfin passé ses trois notes. Elles échangent quelques mots, puis Danièle rentre. Rébecca note pour Claire qu’elle avait commencé à travailler de nouveau avant d’avoir reçu le message. Elle range le brouillon. Le lendemain, Antoine attend qu’elle mette les références de la notice au propre.",
+      "conclusion": "Le silence était difficile à supporter parce que Rébecca lui avait donné un sens alarmant. Elle a repris une phrase de travail sans connaître la raison du retard. Le lendemain, cette phrase sera visible pour Antoine. Une grande partie de l’effort qui lui a permis de l’écrire restera invisible.",
+      "mirror": [
+        "Si Rébecca reparle de l’attente, Danièle peut dire « J’avais laissé l’heure ouverte, mais je vois que le retard t’a fait peur. Tu veux qu’on formule autrement notre prochain rendez-vous ? » Elle peut garder le téléphone rangé pendant la chorale. Elles peuvent adapter leur accord sans demander au groupe de fournir des comptes rendus ou des preuves de présence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-repondre-reassurance",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle restitue la souplesse de l’accord et termine une phrase de travail avant de recevoir le message de Danièle.",
+        "next": "Elle a choisi où placer le mot « probablement ». Jeudi, Antoine attend la mise au propre des références de la notice."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "rebecca-effort-invisible-au-travail",
+      "title": "Le travail avance et l’effort reste invisible",
+      "description": "Antoine voit une notice qui prend forme. Rébecca commence à mesurer l’effort qu’il lui a fallu pour garder son attention au travail.",
+      "context": "Les dernières vérifications sur la notice de la Fontaine Basse",
+      "topics": [
+        "Retentissement au travail",
+        "Effort supplémentaire",
+        "Attention pendant la séparation"
+      ],
+      "clinical_focus": "Effort masqué pendant la séparation",
+      "clinical_intro": "Une personne peut continuer ses activités alors qu’elles lui demandent beaucoup plus d’effort à cause de l’anxiété de séparation. Jeudi, la notice de Rébecca ressemble à ce qu’Antoine attendait. Il ne voit pas le nombre de fois où elle a perdu le fil, ni le temps qu’elle a pris sur ses pauses pour rattraper le travail.",
+      "opening": "Jeudi, Antoine prend le brouillon par un coin et le pose sur un carton propre. Il lit la phrase qui comporte « probablement » et trace un trait sous le mot. « Ça, on le garde. Il nous faut juste les références au propre. » Rébecca a les deux cotes devant elle. Celle du registre est longue et comporte trois groupes de chiffres. Celle de la carte est écrite au dos de la reproduction. Elle retourne la reproduction pour la troisième fois depuis qu’Antoine est arrivé.\n\nPendant la semaine, il l’a vue arriver à l’heure et noter ses observations. Il n’a pas vu les fois où elle est revenue au début d’une ligne parce qu’elle pensait au temps qu’il restait avant de revoir Danièle. Mardi, elle a repris une partie de son relevé à l’heure où elle avait prévu de prendre l’air. La veille, elle a tenu à finir une phrase au logement et l’attente d’un message a pris une bonne part du temps. Jeudi, elle se demande comment relire tout le dossier avant le lendemain si elle passe autant de temps sur deux cotes.\n\n« On est dans les temps », dit Antoine en lui rendant la feuille. Elle sourit, puis aperçoit un chiffre écrit deux fois dans la marge. Elle l’efface. Elle pourrait dire que ça va et reprendre en cachette toutes ses références. Elle regarde la place que son pouce a faite dans la gomme. Ce n’est pas la première fois qu’elle arrive à produire ce qu’on lui demande. Cette fois, elle voudrait que le temps qu’il lui en coûte compte dans leur manière de terminer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le résultat ne montre pas toujours le coût",
+          "text": "Le retentissement d’un trouble d’anxiété de séparation peut tenir à l’effort important qu’il faut fournir pour maintenir une activité. Une personne peut respecter des horaires et produire un travail correct tout en passant du temps à retrouver son attention ou en sacrifiant des pauses. Cette fatigue peut aussi avoir d’autres causes. Chez Rébecca, les pensées sur l’éloignement s’intercalent dans la lecture et elle reprend la tâche plusieurs fois. La qualité de sa notice et le coût de sa réalisation sont deux informations utiles."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’effort se voit-il quand le résultat est bon ?",
+          "points": [
+            {
+              "heading": "Reprendre la même ligne pour retrouver le fil",
+              "text": "Une préoccupation liée à la séparation peut interrompre la lecture. Reconstituer où on en était demande alors du temps, même si la version finale est correcte.",
+              "examples": [
+                "Rébecca retourne la reproduction pour retrouver une cote qu’elle avait déjà lue, après avoir pensé à son train du vendredi.",
+                "Une personne en formation recopie une référence après avoir perdu le fil en pensant à la nuit qu’elle doit encore passer loin de son conjoint. Le tableau rendu est juste."
+              ]
+            },
+            {
+              "heading": "Prendre sur ses pauses pour rester dans les délais",
+              "text": "Le temps consacré à rattraper une tâche reste facilement invisible. Un horaire respecté peut masquer le renoncement au repos ou à une activité prévue.",
+              "examples": [
+                "Rébecca reprend le relevé mardi à la place de sa pause dehors. Antoine reçoit la feuille à l’heure.",
+                "Lors d’une mission loin de sa sœur, une personne utilise une partie du déjeuner pour reprendre un compte rendu qu’elle n’a pas pu suivre d’une traite."
+              ]
+            },
+            {
+              "heading": "Arriver au résultat et manquer d’énergie pour la suite",
+              "text": "L’effort peut devenir visible au moment d’enchaîner sur une autre demande ou de rentrer chez soi. Le travail rendu n’en donne qu’une partie.",
+              "examples": [
+                "Après avoir mis au point une seule phrase mercredi soir, Rébecca renonce à lire le livre qu’elle avait emporté.",
+                "Un étudiant rend son exercice pendant un déplacement. Il annule ensuite une course qu’il avait prévue parce qu’il se sent épuisé d’avoir repris plusieurs fois sa préparation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour tenir compte de l’effort dans une activité",
+          "points": [
+            {
+              "heading": "Relever une trace du coût",
+              "objective": "Décrivez ce qui a rendu la tâche plus longue même si le résultat a été livré.",
+              "exercise": [
+                "Prenez une tâche terminée et notez ce qu’elle a donné.",
+                "Ajoutez une conséquence observable, comme une pause écourtée, et ce qui a coupé le fil.",
+                "Apportez cet exemple au professionnel qui vous suit si l’effort se répète ou vous prive d’autres activités."
+              ],
+              "benefit": "Le suivi peut alors s’appuyer sur ce qu’il vous a fallu pour faire le travail, en plus de ce qui a été rendu."
+            },
+            {
+              "heading": "Convenir d’une vérification définie",
+              "objective": "Séparez la vérification utile au travail des reprises dues à la perte du fil.",
+              "exercise": [
+                "Demandez au tuteur quelles informations doivent être vérifiées avant la remise.",
+                "Notez l’endroit exact où vous vous arrêtez si votre attention est reprise par une pensée.",
+                "Utilisez ce repère pour reprendre et proposez une relecture ciblée avec le tuteur lorsque les références sont en place."
+              ],
+              "benefit": "Un point de reprise peut éviter de recommencer l’ensemble et rendre l’aide plus facile à demander."
+            },
+            {
+              "heading": "Remettre une pause dans la journée",
+              "objective": "Rendez visible le temps nécessaire pour récupérer avant de vous engager sur la dernière tâche.",
+              "exercise": [
+                "Repérez la pause que vous avez tendance à utiliser pour rattraper le travail.",
+                "Convenez avec le tuteur d’une priorité et de ce qui peut attendre, en respectant les horaires de stage.",
+                "Gardez la pause prévue. Si les journées continuent de vous épuiser, discutez des aménagements possibles avec les personnes concernées."
+              ],
+              "benefit": "Un rythme ajusté peut diminuer le prix payé pour tenir un délai, sans demander au tuteur de prendre en charge le trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux cotes et une pause",
+      "ending": "Rébecca dit à Antoine qu’elle reprend souvent les références du début lorsqu’elle perd le fil. Elle lui demande de relire seulement les deux cotes avec elle le lendemain. Antoine montre l’espace où placer chacune et lui propose de mettre en annexe les variantes du nom plutôt que de toutes les reprendre dans le texte. Il peut relire la notice à seize heures vendredi. Rébecca met un petit trait au niveau du groupe de chiffres qu’elle vient de vérifier et reprend à partir de là.\n\nÀ midi, elle laisse la feuille et sort. Il lui reste un chiffre à relire quand elle reprendra le travail. Elle note sur un papier séparé la pause qu’elle avait manquée mardi et le temps qu’elle a mis à reprendre la phrase mercredi. Ce papier est pour Claire. À la fermeture, elle laisse la notice à côté du registre. Elle rentre au logement avec le livre dans son sac et prévoit de revenir vendredi pour finir la relecture avec Antoine.",
+      "conclusion": "Le travail de Rébecca avançait et lui coûtait beaucoup. En séparant les exigences de la notice de l’effort qu’elle fournissait pour y répondre, elle a trouvé un ajustement avec Antoine et un exemple à reprendre avec Claire. La dernière relecture lui laissera un choix que personne n’avait inscrit sur son planning.",
+      "mirror": [
+        "Danièle peut entendre ce qui se cache derrière « tout va bien au stage ». Elle pourrait dire « Tu as l’air contente de ta notice et fatiguée. Qu’est-ce qui t’a demandé le plus d’effort ? » Elle peut écouter et proposer un repas simple au retour si elles le souhaitent. L’organisation de la tâche se discute avec Antoine, et l’anxiété a sa place dans le suivi de Rébecca."
+      ],
+      "sources": [
+        "oms-cddr",
+        "service-public-stage-administration",
+        "ameli-troubles-anxieux-traitement"
+      ],
+      "continuity": {
+        "choice": "Elle demande une relecture ciblée à Antoine, garde sa pause et note des exemples d’effort supplémentaire pour Claire.",
+        "next": "Antoine relira la notice avec elle vendredi à seize heures. Le train et l’heure de fin de stage sont inchangés."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "rebecca-quand-partir-ressemble-a-delaisser",
+      "title": "Quand être bien loin d’un proche donne mauvaise conscience",
+      "description": "Au dernier jour du stage, Antoine propose à Rébecca de revenir pour un atelier. Elle se surprend à croire que son envie risque de blesser Danièle.",
+      "context": "Une proposition après la dernière relecture de la notice",
+      "topics": [
+        "Culpabilité liée à l’éloignement",
+        "Attachement et projets",
+        "Parole du proche"
+      ],
+      "clinical_focus": "Culpabilité autour de la séparation",
+      "clinical_intro": "Rébecca redoute certaines séparations et se sent aussi coupable d’apprécier ce qu’elle fait loin de Danièle. Cette culpabilité appartient à son histoire et n’est pas un signe nécessaire du trouble. Antoine propose à Rébecca de revenir pour un atelier. Elle a aimé son travail sur la fontaine et, presque aussitôt, se demande ce que cette envie dirait de son attachement à Danièle.",
+      "opening": "Vendredi, à seize heures, Antoine rapproche la reproduction et le registre pour que Rébecca lise les deux cotes sans changer de place. Un chiffre est juste. L’autre, qu’elle avait presque corrigé par erreur, l’est aussi. Ils gardent le mot « probablement » et terminent la notice avec les références. Antoine la range dans une chemise du service, qu’il dépose sur une pile. Rébecca, qui avait imaginé un dernier geste plus solennel, passe le doigt sur le bord vide de la table.\n\nAntoine lui tend ensuite une feuille. Le mois suivant, un samedi, les archives proposeront un atelier ouvert au public pour comparer des noms de lieux sur des cartes. S’il reste des places, elle peut s’inscrire. Rébecca pense au hameau de Lila et à la place des mots dans la bouche de ses habitants. Elle voudrait voir ce que des gens du Pays des Aulnes diraient de la Fontaine Basse. Puis elle revoit Danièle dimanche dernier, seule sur le quai après le départ. Elle se demande si vouloir revenir signifie qu’elle a trouvé mieux à faire que d’être avec elle.\n\nDanièle lui a écrit le matin même qu’elle avait hâte qu’elle entende le morceau demain. Elle n’a jamais demandé à Rébecca de rester près d’elle le samedi suivant ni celui d’après. Rébecca commence quand même à chercher une manière de lui présenter la feuille qui la rendrait moins importante. En dessous du programme, il reste une ligne pour l’inscription. Elle replie le papier à cet endroit et vérifie l’heure du train.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’absence peut se charger d’une obligation",
+          "text": "On peut tenir à quelqu’un et se sentir coupable de prendre plaisir à une activité loin de lui. Chez Rébecca, cette culpabilité se mêle à la peur de séparation. Elle éprouve le sentiment de manquer à Danièle quand elle pense à une autre journée loin d’elle. Ce sentiment n’appartient pas à la définition du trouble. Son envie de retourner aux archives peut coexister avec son affection pour sa tante. Si un engagement commun doit être ajusté, il peut être discuté à partir de ce que chacune souhaite réellement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la culpabilité change-t-elle la façon de parler d’un projet ?",
+          "points": [
+            {
+              "heading": "L’envie est prise pour un manque d’attachement",
+              "text": "Un plaisir éprouvé ailleurs peut être interprété comme le signe que le lien compte moins, alors que l’expérience et le lien ont chacun leur place.",
+              "examples": [
+                "En pensant à l’atelier, Rébecca se demande si son envie de revenir revient à préférer les archives à Danièle.",
+                "Une personne rentre heureuse d’une journée de formation. Elle se reproche d’avoir ri avec le groupe alors qu’elle avait eu peur de partir loin de son frère."
+              ]
+            },
+            {
+              "heading": "Un souhait est attribué à l’autre sans l’avoir entendu",
+              "text": "La culpabilité peut donner l’impression de connaître la réaction du proche avant qu’il ait dit ce qu’il attend.",
+              "examples": [
+                "Rébecca imagine que Danièle voudrait qu’elle n’aille pas à l’atelier. Danièle lui a surtout parlé de sa répétition publique du lendemain.",
+                "Une femme décline une sortie car elle suppose que son conjoint souhaite qu’elle reste. Il avait prévu de recevoir un ami ce jour-là."
+              ]
+            },
+            {
+              "heading": "La personne réduit ce qui compte pour elle",
+              "text": "Pour éviter une blessure qu’elle imagine, la personne peut cacher sa joie ou présenter un projet comme négligeable.",
+              "examples": [
+                "Rébecca songe à dire qu’Antoine lui a donné un papier sans intérêt alors qu’elle veut en parler.",
+                "Un étudiant décrit comme une corvée la visite d’un atelier qu’il a aimé, parce qu’il pense que raconter son plaisir rendrait son absence plus difficile à accepter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un projet sans décider de ce que l’autre ressent",
+          "points": [
+            {
+              "heading": "Mettre côte à côte le lien et l’envie",
+              "objective": "Donnez une place aux deux sans en faire un verdict sur votre affection.",
+              "exercise": [
+                "Écrivez une chose précise que vous appréciez dans votre relation.",
+                "Ajoutez ce qui vous attire dans le projet, à partir d’un détail concret.",
+                "Lisez les deux phrases ensemble et nommez la difficulté qui reste, par exemple la crainte de regretter une journée partagée."
+              ],
+              "benefit": "Les deux raisons deviennent plus faciles à exprimer quand elles ne sont plus confondues avec un choix définitif entre un lien et une activité."
+            },
+            {
+              "heading": "Vérifier l’engagement réel",
+              "objective": "Distinguez les attentes discutées de celles que vous imaginez.",
+              "exercise": [
+                "Repérez le jour et la durée du projet.",
+                "Vérifiez si vous avez déjà un engagement commun à cette date.",
+                "Si c’est utile, demandez à votre proche ce qu’il avait prévu et discutez d’un éventuel aménagement sans exiger son accord pour ressentir l’envie."
+              ],
+              "benefit": "Un échange peut faire apparaître un besoin réel à prendre en compte et laisser une place aux projets de chacun."
+            },
+            {
+              "heading": "Raconter un détail dont on a été content",
+              "objective": "Partagez quelque chose du projet sans chercher aussitôt à vous en excuser.",
+              "exercise": [
+                "Choisissez un détail qui vous a plu dans la journée.",
+                "Demandez à votre proche s’il a envie de l’entendre, puis racontez-le en quelques mots.",
+                "Si la culpabilité persiste ou vous fait renoncer régulièrement, gardez un exemple à discuter avec le professionnel qui vous suit."
+              ],
+              "benefit": "Le récit laisse à l’autre sa propre réaction et peut rendre visible la difficulté que vous gardiez pour vous."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille pliée",
+      "ending": "Rébecca ouvre le papier. Elle demande à Antoine jusqu’à quand il faut donner une réponse. Les inscriptions ferment le lundi, et l’atelier tient sur une matinée. Antoine lui montre l’adresse sur la feuille. Rébecca lui dit qu’elle est contente d’avoir terminé la notice et qu’elle veut réfléchir à l’atelier pendant le week-end. Elle quitte les archives à l’heure convenue et prend le train qu’elle a réservé.\n\nDanièle l’attend à la maison. En vidant ses poches, Rébecca retrouve la pince à linge et la pose sur le cahier de chorale. Elle commence par la phrase avec « probablement » et le chiffre qu’elle a failli gommer. Danièle lui demande de quel côté du chemin se trouvait le point d’eau. Pendant le repas, Rébecca lui parle de l’atelier. « J’ai envie d’y aller, mais j’ai eu peur que ça te fasse de la peine. » Danièle reprend un morceau de pain. « J’ai envie de t’écouter, et pour demain, j’aimerais te voir au premier rang. Pour ton samedi, montre-moi quand c’est. » Rébecca laisse la feuille ouverte sur la table. Demain, elle ira l’écouter. Elle décidera de l’atelier dimanche.",
+      "conclusion": "L’envie de retourner aux archives a pris pour Rébecca la forme d’un reproche envers elle-même. Elle a pu en parler avant de répondre et entendre ce que Danièle souhaitait vraiment. Le week-end laisse à chacune son projet et à Rébecca le temps de choisir une autre matinée loin du foyer.",
+      "mirror": [
+        "Danièle peut répondre en son nom « J’aime que tu me racontes ce que tu as trouvé. Ce samedi-là, je n’avais rien prévu avec toi. » Si un engagement existe, elle peut le nommer. Elle peut dire ce qu’elle souhaite pour la chorale ou pour leur repas, sans devenir la personne qui autorise chaque sortie de Rébecca."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Elle remet la notice, rentre comme prévu et parle de l’atelier à Danièle au lieu de minimiser ce qui lui plaît.",
+        "next": "L’atelier du mois suivant dure une matinée et les inscriptions ferment lundi. La répétition publique de Danièle a lieu samedi avant la décision de Rébecca."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "rebecca-reprendre-un-choix-apres-le-retour",
+      "title": "Reprendre un projet après une séparation difficile",
+      "description": "Le stage est terminé. Rébecca peut choisir de revenir pour une matinée aux archives, en tenant compte de ce qu’elle a appris cette semaine.",
+      "context": "Une décision au retour du stage",
+      "topics": [
+        "Choix après une séparation",
+        "Ajustement des appuis",
+        "Autonomie choisie"
+      ],
+      "clinical_focus": "Évolution variable selon les séparations",
+      "clinical_intro": "Une séparation qui s’est passée avec des difficultés et des appuis ne dit pas à l’avance comment se passera la suivante. De retour chez elle, Rébecca envisage une matinée aux archives. Elle reprend ce qu’elle a aimé, ce qui lui a coûté et les appuis qu’elle souhaite garder. Sa décision porte sur cette matinée, à un autre moment et dans d’autres conditions.",
+      "opening": "Dimanche matin, Danièle a posé le programme de la chorale à côté de la feuille d’Antoine. Elle a chanté les trois notes qu’elle redoutait et oublié une parole au couplet suivant. Rébecca, au premier rang, ne s’en est pas aperçue. Elles rient de la façon dont la voisine de Danièle a tourné la page pour elle, un geste rapide que Rébecca avait pris pour une indication du chef de chœur.\n\nLe cahier de chorale est retenu par la même pince à linge qu’avant le départ. Rébecca la retire pour accrocher ensemble le programme et la feuille d’inscription à l’atelier. Le train du samedi lui permettrait d’y aller et de rentrer sans y dormir. Cette fois, elle connaîtrait le trajet et elle n’aurait pas de notice à rendre. Elle ne sait pas si la nausée reviendra sur le quai. Lorsqu’elle s’imagine quitter la maison, elle se surprend à remettre les yeux sur le bouton de la veste que Danièle a posée sur une chaise.\n\nRébecca reprend les papiers de la semaine. La phrase qu’elle a terminée avant le message est là, et le papier qui lui rappelle sa pause manquée aussi. Dans l’espace qui reste, elle pourrait faire deux colonnes, comme pour le registre. Elle cherche un titre à donner à la première. « Ça s’est bien passé » lui paraît trop large. Elle écrit « Ce que j’ai envie de refaire ». Elle demande à Danièle de lui laisser le crayon encore un moment.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les appuis se choisissent à partir de situations précises",
+          "text": "Le retentissement de la peur de séparation peut varier selon les moments, les circonstances et ce que demande l’activité. Un déplacement plus court peut éviter une nuit loin de la maison tout en laissant difficile le moment du départ. Chez Rébecca, la semaine a comporté du plaisir au travail, un sommeil moins facile et beaucoup d’effort pour certaines tâches. Ces observations aident à préparer un autre choix. Le fait de retourner aux archives ou de refuser une invitation ne permettrait pas, à lui seul, de juger de l’évolution du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté peut-elle changer d’un départ à l’autre ?",
+          "points": [
+            {
+              "heading": "Un repère déjà connu aide dans une situation nouvelle",
+              "text": "L’expérience précédente peut fournir des informations utiles, comme un itinéraire ou un interlocuteur. Elle laisse ouvertes les difficultés liées à la séparation elle-même.",
+              "examples": [
+                "Rébecca connaît maintenant la gare et le chemin jusqu’aux archives. Elle ignore si elle aura à nouveau besoin de s’asseoir sur le quai.",
+                "Une personne a déjà travaillé une journée dans un lieu de formation et connaît les horaires. Elle redoute davantage d’y passer la nuit lors d’une autre session."
+              ]
+            },
+            {
+              "heading": "La difficulté se déplace avec les conditions",
+              "text": "Changer la durée ou le moment modifie ce qui est demandé. Le point le plus difficile peut être différent.",
+              "examples": [
+                "Pour l’atelier, Rébecca rentre le jour même. Elle s’interroge surtout sur le départ, alors que le coucher avait compté pendant le stage.",
+                "Un homme peut passer une soirée loin de son frère quand il s’occupe avec des collègues, puis éprouver davantage de détresse lors d’une attente seul en gare."
+              ]
+            },
+            {
+              "heading": "Les gains et les coûts restent présents ensemble",
+              "text": "Un projet mené à terme peut donner envie d’une suite. Il est aussi possible d’avoir besoin de temps de récupération ou d’autres aménagements.",
+              "examples": [
+                "Rébecca a remis la notice et veut entendre les habitants parler du nom de la fontaine. Elle garde la trace des pauses perdues pour en discuter.",
+                "Une étudiante termine une formation à distance de sa famille, mais choisit de repousser un voyage facultatif pour récupérer et préparer d’autres conditions."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un choix après le retour",
+          "points": [
+            {
+              "heading": "Faire un bilan qui distingue plusieurs moments",
+              "objective": "Repérez ce que le déplacement vous a apporté et à quel moment la séparation a le plus pesé.",
+              "exercise": [
+                "Choisissez deux moments précis de l’expérience, comme le départ et la fin de la première journée.",
+                "Pour chacun, notez ce qui a demandé un effort et ce qui a permis d’agir.",
+                "Apportez ces exemples au professionnel qui vous suit pour déterminer ce qu’il serait utile de garder ou de modifier."
+              ],
+              "benefit": "Des repères situés peuvent guider le suivi même lorsque l’expérience ne tient pas dans un jugement global."
+            },
+            {
+              "heading": "Décider à l’échelle d’une seule invitation",
+              "objective": "Choisissez à partir de cette occasion et de ce qu’elle implique concrètement.",
+              "exercise": [
+                "Nommez ce que vous voudriez faire à cette occasion.",
+                "Vérifiez le temps sur place, le trajet et vos autres engagements.",
+                "Répondez selon les conditions qui vous conviennent, en gardant la possibilité d’ajuster ou de refuser une autre invitation."
+              ],
+              "benefit": "La décision peut rester personnelle et limitée, sans devenir un test à réussir pour prouver une amélioration."
+            },
+            {
+              "heading": "Choisir les appuis que l’on veut reprendre",
+              "objective": "Réutilisez seulement les repères qui correspondent au prochain projet et à la disponibilité des personnes concernées.",
+              "exercise": [
+                "Repérez un geste utile la dernière fois, comme garder le billet dans une poche accessible.",
+                "Décidez si un contact a sa place et convenez-en avec le proche qui y participerait.",
+                "Fixez avec le professionnel qui vous suit le moment où vous pourrez reparler de la décision et de ce que vous aurez vécu."
+              ],
+              "benefit": "Un appui choisi peut rendre la prochaine démarche plus praticable tout en laissant à chacun ses activités et ses limites."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une matinée sur le calendrier",
+      "ending": "Rébecca écrit qu’elle voudrait retourner à la cartothèque pour entendre les gens parler du Pays des Aulnes. Elle consulte les trains une fois, puis s’inscrit à l’atelier. Sur le calendrier, elle inscrit l’heure du retour. Danièle a prévu de déjeuner chez une amie ce jour-là. Elles conviennent de se raconter leurs matinées en rentrant, sans fixer d’appel pendant l’atelier. Pour son prochain rendez-vous, Rébecca glisse dans la pochette qu’elle apportera à Claire la note sur le départ et celle sur les pauses. Elle veut parler de ce qui l’aide, et aussi de ce qu’elle n’a pas envie de revivre au même prix.\n\nDanièle retrouve sur la table l’extrait du registre. Elle se souvient du jour où Rébecca a entouré le mot « Fontaine ». Rébecca lui montre l’endroit où le garde champêtre a écrit les deux mots dans l’ordre inverse de celui de la carte. Danièle l’essaie à voix haute dans les deux sens. Rébecca a encore le trac à l’idée du prochain quai. Elle reste à table pour entendre lequel des deux noms sa tante va garder.",
+      "conclusion": "Rébecca a achevé le stage et choisit une suite qui l’intéresse, à partir de conditions différentes. Elle garde ce qu’elle a appris sur le travail, sur la peur et sur le coût de certains moments. La décision lui appartient, et elle peut la reprendre en consultation tout en gardant le lien avec Danièle tel qu’elles le souhaitent.",
+      "mirror": [
+        "Danièle peut dire « J’aimerais savoir ce que les gens disent de ta fontaine. Tu me le raconteras au retour si tu en as envie. » Elle peut parler de son déjeuner et demander quel contact conviendrait à chacune. Si la peur est encore là, leur accord peut s’ajuster. Danièle reste sa tante. Le suivi et les décisions de soin se poursuivent avec Rébecca et les professionnels concernés."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-troubles-anxieux-traitement",
+        "has-decision-medicale-partagee",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Elle s’inscrit à un atelier public d’une matinée, garde un rendez-vous avec Claire et prévoit avec Danièle des retrouvailles à leur convenance.",
+        "next": "Le stage est terminé et la notice remise. L’atelier reste une activité choisie pour le mois suivant, avec un suivi qui se poursuit."
+      }
+    }
+  ]
+}

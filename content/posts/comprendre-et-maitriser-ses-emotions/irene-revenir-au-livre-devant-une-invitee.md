@@ -29,22 +29,83 @@ Aya ouvre un pli par le dessous. Les maisons se dressent d’un coup. Irène vou
 
 Quand elle parle, Aya a refermé le pli et attend. Irène dit « J’ai perdu ma place », trop bas pour qu’Ilyès entende. Elle pourrait le laisser raconter la fin et demander à essayer à nouveau une autre fois. Aya reprend son ticket à côté de la trousse : « J’en fais quoi, finalement ? » Irène regarde le ticket, puis le premier toit. Elle sait par quelle image elle voudrait revenir.
 
-## Un essai utile peut encore être difficile
+## Retrouver le bon moment dans un échange qui a avancé
 
-Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité. Le livre et les feutres d’Irène sont accessibles. Cette fois, la lectrice choisit une route qu’Irène n’attendait pas et fait avancer les pages à son rythme.
+Un mouvement stéréotypé peut retarder une prise de parole tandis que les autres continuent à parler ou à manipuler un support. L’interruption laisse alors à retrouver le sujet et le moment de poser sa question. À la médiathèque, l’espace est dégagé, mais Aya tourne déjà la page. Irène veut revoir la cheminée et demander elle-même ce que son amie y avait vu.
 
-## Comment cette difficulté se manifeste
+## Comment le fil d’une conversation peut-il se perdre après un mouvement ?
 
-Au moment de retrouver sa place dans l’échange, Irène a besoin d’un repère qui lui indique où Aya en est. Le résultat du montage de mardi reste valable : ils avaient alors comparé des versions sans avoir à guider une lectrice.
+### L’occasion de poser la question passe
 
-L’excitation, la fatigue ou le fait d’être très absorbé peuvent accompagner les mouvements stéréotypés. Un seul essai ne dit pas ce qui les fait revenir à tel instant. Irène peut dire ce qu’elle a perdu dans cette lecture et essayer une manière d’y retourner, sans avoir à expliquer pourquoi ses mains ont bougé.
+Une question peut rester présente alors que la situation qui lui donnait sens a changé.
 
-## Préciser la part d’aide qui manque
+**Exemples concrets**
 
-Ilyès lui propose de continuer. Irène veut plutôt qu’il lui montre le pli qu’Aya vient de refermer et qu’il attende. Ce sont deux façons d’aider, avec des suites différentes. Ils peuvent convenir d’une question courte à utiliser quand ils hésitent : « Tu veux la page ou tu veux que je prenne la suite ? » Si elle dit « la page », Ilyès peut la montrer sans donner la prochaine réplique.
+- Aya soulève le pli suivant avant qu’Irène puisse demander ce qu’elle voit.
+- Un enfant veut demander pourquoi une carte est drôle alors que le groupe est déjà passé à la suivante.
 
-Le ticket d’Aya leur fournit une autre idée. Un petit marque-page à la dernière image ouverte permettrait aussi de revenir à cette image après une interruption. On peut le proposer à tout lecteur. L’essai dira s’il est utile et si le livre reste assez ouvert pour que chacun y fasse sa propre visite.
+### Une aide proposée ne répond pas forcément au besoin
+
+Continuer l’histoire à la place de la personne ne lui rend pas le point d’où elle voulait parler.
+
+**Exemples concrets**
+
+- Ilyès propose de continuer, tandis qu’Irène veut savoir ce qu’Aya pense des cheminées.
+- Une collègue propose de répondre pour quelqu’un qui demandait seulement de rouvrir un document.
+
+### Un détail remet l’échange au bon endroit
+
+Une image ou un objet peut permettre de revenir au moment manqué.
+
+**Exemples concrets**
+
+- Irène montre la cheminée basse et demande qu’on rouvre ce pli.
+- Quelqu’un retrouve la photo à laquelle sa question se rapportait et peut la poser à son interlocuteur.
+
+## 3 techniques pour reprendre un échange qui a continué
+
+### 1. Nommer le dernier repère
+
+Faire comprendre où l’on a perdu le fil.
+
+**Exercice pratique**
+
+- Dites « J’ai perdu ma place » ou nommez la dernière image vue.
+- Demandez à revoir ce point précis.
+- Prenez le temps de retrouver la question que vous vouliez poser.
+
+Le groupe peut remonter d’une étape sans recommencer tout l’échange.
+
+### 2. Proposer l’aide qui laisse la parole
+
+Soutenir la reprise sans répondre à la place de la personne.
+
+**Exercice pratique**
+
+- Demandez si elle souhaite qu’on montre la page.
+- Rouvrez-la au bon endroit.
+- Attendez sa question ou sa réponse.
+
+L’aide porte sur le support et laisse la conduite de l’échange à la personne.
+
+### 3. Convenir d’un repère pour le prochain essai
+
+Retrouver plus vite une page qui risque d’avancer.
+
+**Exercice pratique**
+
+- Choisissez un emplacement pour un signet.
+- Précisez qui peut l’utiliser et à quel signal.
+- Vérifiez après la lecture si cette reprise vous a convenu.
+
+La solution peut être ajustée en fonction de ce que le groupe fait réellement.
 
 ## Le ticket sous les cheminées
 
 Irène montre la cheminée basse. « Tu peux rouvrir celle-là ? Après je demande. » Ilyès revient au pli qu’Aya vient de fermer. Irène lui demande ce qu’elle a vu ; Aya dit qu’elle aurait laissé le ticket près de la porte du boulanger. Elle le glisse là, comme un signet. Irène leur propose de garder l’idée et de fabriquer des marque-pages pour le samedi de lecture. Ilyès vérifie ce qu’elle voudra s’il faut lui passer une page. « Montre-la-moi », dit-elle. Elle veut encore poser la question elle-même. Avant de rentrer, Aya essaie enfin le canal. Elle trouve la fenêtre sans leur demander d’aide.
+
+---
+
+**Conclusion**
+
+Le ticket retrouve une place près des cheminées, et Irène peut enfin poser sa question. Elle a aussi trouvé avec Ilyès la forme d’aide qu’elle veut pour une prochaine lecture : revoir la page, puis parler elle-même.

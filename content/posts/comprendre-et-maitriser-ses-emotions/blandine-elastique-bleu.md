@@ -29,22 +29,83 @@ Depuis le milieu de l’après-midi, Blandine a ouvert quatre fois le fil de mes
 
 Yannis tient la feuille par les coins. Blandine lui demande de la mettre sur la table, sans ouvrir les autres. L’eau commence à déborder ; elle baisse le feu. Elle ne veut pas de la grande conversation qu’ils pourraient avoir au-dessus de la casserole. Elle lui demande de saler les pommes de terre pendant qu’elle rouvre le brouillon.
 
-## Quand le manque occupe la journée
+## Le manque se loge dans une question ordinaire
 
-Dans le trouble du deuil prolongé, l’absence d’une personne morte revient avec une douleur qui prend durablement beaucoup de place dans la vie quotidienne. L’OMS décrit dans la CIM-11 le manque persistant de la personne disparue ou des pensées envahissantes à son sujet, avec une douleur émotionnelle intense. La clinicienne qui a évalué Blandine a discuté avec elle de la place que cette douleur avait prise depuis le décès, de son contexte et de ce que lui demandaient ses journées de travail.
+Le trouble du deuil prolongé est centré sur un manque persistant de la personne décédée ou une préoccupation durable à son sujet, avec une douleur intense et un retentissement important. Un souvenir douloureux isolé peut faire partie d’un deuil ordinaire. Blandine voudrait encore poser une question à Jeanne en voyant son écriture. Ce qui compte dans son suivi, c’est aussi la fréquence et la place que prennent ces moments dans ses journées.
 
-## Comment cette difficulté se manifeste
+## Comment le manque s’invite-t-il dans des gestes ordinaires ?
 
-Blandine est déjà suivie ; le dîner montre seulement un moment de cette histoire.
+### Le réflexe de s’adresser à la personne
 
-Avoir envie de raconter une chose à quelqu’un qui est mort fait aussi partie du deuil ordinaire. Un objet chargé de souvenirs ou un après-midi difficile ne renseigne pas à lui seul sur l’ensemble d’une vie. Ce qui pèse ici, c’est que plusieurs heures ont passé à circuler entre le dossier, le texte du guide et un message que Blandine veut pourtant écrire. Elle pourrait raconter cette succession à sa thérapeute, jusqu’à la phrase qu’elle avait voulu corriger.
+La question peut surgir avant même qu’on mesure qu’elle restera sans réponse.
 
-## Envoyer une question à la fois
+**Exemples concrets**
 
-Blandine commence par demander à Léon ce dont le chœur aurait l’usage. Elle souhaite garder la décision sur les feuilles et ne sait toujours pas si elle a envie de chanter en groupe. Tant que ces questions restent nouées dans le même message, elle a l’impression qu’une réponse favorable à l’une l’engage sur toutes. Un premier échange peut porter sur la musique écrite, avec la liberté de reprendre les autres sujets plus tard.
+- Blandine voit une marque de crayon et voudrait demander à Jeanne ce qu’elle voulait dire.
+- En préparant un plat, quelqu’un prend son téléphone pour demander à son frère où acheter un ingrédient, avant de se rappeler sa mort.
 
-Yannis, lui, peut l’aider à tenir le repas en cours. Il sait où est le sel et peut lui demander de quelle taille elle veut les pommes de terre. Blandine choisit de lui lire son brouillon, une fois la casserole retirée du feu. Le message sera signé d’elle. Elle tient à cette manière de s’adresser à Léon : c’est elle qui a chanté sous sa direction, et elle a aussi son avis sur les morceaux que l’ensemble ferait bien de ressortir.
+### L’attention revient longuement à l’absence
+
+Un rappel bref peut prendre plus de place que ce qu’on avait prévu de faire à cet instant.
+
+**Exemples concrets**
+
+- Blandine revient à la partition alors que l’eau déborde.
+- En cherchant un numéro dans un carnet, une personne retombe sur un ancien message et laisse la démarche en attente jusqu’au soir.
+
+### Le manque change ce qu’on se sent prêt à promettre
+
+On peut tenir à un projet associé à la personne disparue tout en trouvant difficile de s’y engager comme auparavant.
+
+**Exemples concrets**
+
+- Blandine veut savoir ce que le chœur pourrait faire des partitions et hésite à annoncer son retour.
+- Une personne souhaite transmettre une recette familiale et demande à un ami de l’aider à choisir un moment, sans s’engager à animer le repas.
+
+## 3 techniques pour traverser un moment où le manque prend toute la place
+
+### 1. Nommer ce qui revient
+
+Faire une place au manque sans devoir raconter toute l’histoire.
+
+**Exercice pratique**
+
+- Repérez le détail qui a fait surgir le souvenir.
+- Dites ou notez ce que vous auriez aimé partager à cet instant.
+- Décidez si vous souhaitez garder cette phrase ou la dire à quelqu’un.
+
+Le souvenir peut être reconnu sans rendre obligatoire une conversation longue.
+
+### 2. Garder une seule prochaine action
+
+Retrouver un geste praticable après l’interruption.
+
+**Exercice pratique**
+
+- Regardez ce qui demande votre attention maintenant, par exemple la casserole.
+- Demandez une aide précise si quelqu’un est disponible.
+- Revenez au brouillon seulement si vous le souhaitez.
+
+Une action courte peut rendre la soirée à nouveau habitable, sans mesurer l’importance du manque.
+
+### 3. En parler dans la durée
+
+Aider un professionnel à comprendre ce qui se répète.
+
+**Exercice pratique**
+
+- Choisissez un ou deux moments qui donnent une idée de votre semaine.
+- Dites combien de temps l’activité est restée interrompue.
+- Parlez de cette gêne en suivi ou demandez un rendez-vous si elle prend durablement de la place.
+
+La discussion porte sur ce que le manque change réellement dans votre vie.
 
 ## Une demande qui tient sur deux lignes
 
 Blandine efface « quand je reviendrai ». Elle demande si Léon pourrait lui dire de quelles partitions annotées le chœur aurait l’usage et ajoute qu’elle souhaite d’abord en parler. Puis elle pose le téléphone sur le buffet et replace la feuille sous l’élastique bleu. À table, Yannis raconte l’histoire du plat en verre qu’il a apporté au mauvais étage la dernière fois. Blandine lui rappelle que le voisin l’a rendu avec des biscuits dedans.
+
+---
+
+**Conclusion**
+
+Le message de Blandine peut partir sans annoncer son retour. L’écriture de Jeanne garde son importance, mais Blandine trouve une demande à laquelle Léon peut répondre maintenant.

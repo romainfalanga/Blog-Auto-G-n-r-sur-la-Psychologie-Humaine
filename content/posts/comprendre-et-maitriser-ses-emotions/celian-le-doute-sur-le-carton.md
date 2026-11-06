@@ -32,14 +32,81 @@ Célian dépose le carton de l’autre côté de la caisse. Il remercie le comme
 
 Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété.
 
-## Comment cette difficulté se manifeste
+Une mention difficile à lire peut être comparée à l’emballage. Quand l’emballage ne permet pas de rattacher une composition au bon produit, relire ne donnera pas la réponse manquante. Célian écarte le carton et garde les emballages du menu retenu. Les renseignements qu’il présentera ne constituent pas une garantie pour une personne allergique.
 
-Dans cette scène, relire ou faire lire plus vite ne restituerait pas une information que personne n’a à disposition. Il y a donc deux questions : comment accéder à l’information qui existe, et que décider lorsqu’on ne l’a pas ? Célian peut demander à Léonie de regarder un endroit précis avec lui et choisir de renoncer au lot une fois la réponse du commerçant connue.
+## Comment distinguer une mention difficile à lire d’une information absente ?
 
-## Conserver les informations utiles au goûter
+### Il faut d’abord trouver la bonne étiquette
 
-Les étiquettes des produits alimentaires préemballés vendus donnent des informations sur les ingrédients et les allergènes déclarés. Célian garde les emballages des ingrédients achetés et prépare avec Léonie une liste correspondant à ce qu’il utilisera réellement. Ils pourront montrer les informations dont ils disposent sans garantir qu’un aliment convient à quelqu’un. Le club ne transforme pas son goûter en activité de restauration ; l’intérêt de ce choix est de pouvoir répondre précisément à une question sur ce qui est servi. Une note audio peut aider Célian à retrouver une étape de préparation. Pour vérifier la composition d’un produit, ils reviennent à l’emballage correspondant.
+Un texte dense ou peu contrasté peut demander plus de temps pour repérer la rubrique et la ligne utiles.
+
+**Exemples concrets**
+
+- Célian examine le premier sachet et lit les mentions qui y figurent.
+- Au magasin, quelqu’un peut demander une seconde lecture d’une liste imprimée sur un pli.
+
+### L’information doit correspondre au produit
+
+Une composition trouvée sur un sachet ne renseigne pas sur un autre produit dont l’emballage manque.
+
+**Exemples concrets**
+
+- L’étiquette du premier biscuit ne répond pas à la question sur la deuxième variété.
+- Une photo de la boîte d’une autre recette ne permet pas de vérifier les ingrédients du lot acheté.
+
+### Le doute change la décision à prendre
+
+Lorsqu’un renseignement important ne peut pas être confirmé, la solution peut être de garder une autre option ou de dire que l’on ne sait pas.
+
+**Exemples concrets**
+
+- Célian refuse le carton ajouté et garde le menu prévu.
+- Une pomme dessinée peut faire reconnaître le gâteau, mais ne permet pas de connaître sa composition.
+
+## 3 techniques pour vérifier une information sans combler les blancs
+
+### 1. Faire correspondre produit et emballage
+
+Appuyer la vérification sur la bonne source.
+
+**Exercice pratique**
+
+- Identifiez le produit effectivement retenu.
+- Gardez son emballage lisible avec les informations du menu.
+- Comparez chaque ligne de la liste avec la référence avant de la présenter.
+
+Une seconde lecture peut porter sur le bon produit et la bonne mention.
+
+### 2. Écarter ce que l’on ne peut pas documenter
+
+Éviter de transformer une supposition en réponse sur les ingrédients.
+
+**Exercice pratique**
+
+- Repérez l’information qui manque.
+- Demandez-la à la personne qui peut fournir la référence du produit.
+- Si elle reste incertaine, écartez le produit et n’avancez pas de garantie.
+
+L’organisation peut continuer avec des informations dont les limites sont visibles.
+
+### 3. Séparer affichage et documents de référence
+
+Rendre le menu lisible sans remplacer les renseignements détaillés.
+
+**Exercice pratique**
+
+- Préparez le dessin ou le titre pour orienter les joueurs.
+- Gardez la feuille et les emballages ensemble à la table.
+- Si une personne pose une question, montrez ce qui est disponible et signalez ce qui ne peut être confirmé.
+
+Les visiteurs peuvent consulter la source sans prendre le panneau pour une information complète.
 
 ## Le ticket sous la balance
 
 Dehors, Léonie propose un pictogramme de pomme sur le panneau. Célian lui dit qu’il veut bien un dessin pour attirer l’œil et une feuille à côté pour les ingrédients. Ils se donnent rendez-vous chez lui vendredi, avant que Léonie prenne son bus. Elle pourra faire le panneau et l’aider à comparer la liste aux emballages. Célian range le ticket de Nadia dans une poche fermée. Il avait cru, devant la caisse, qu’il faudrait justifier le carton refusé en détail. Léonie s’inquiète surtout de savoir si elle pourra dessiner les pommes avec des dents. Il lui demande d’en faire au moins une qui ait l’air de sourire.
+
+---
+
+**Conclusion**
+
+Célian arrête de chercher une réponse que le premier sachet ne peut pas donner. Il garde le menu prévu et prépare avec Léonie un panneau et une feuille séparée. Les dessins aideront à repérer la table et les emballages resteront disponibles pour les questions.

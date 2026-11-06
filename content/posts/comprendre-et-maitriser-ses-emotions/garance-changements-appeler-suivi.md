@@ -28,20 +28,83 @@ Le matin lui paraît tout de même trop court. Depuis plusieurs nuits, elle dort
 
 Maintenant, Éva lui écrit qu’elle a reçu plusieurs messages avant l’aube et lui demande si elle veut en parler. Garance se souvient du plaisir qu’elle avait pris à jouer la valse au début. Ce matin, son envie de corriger déborde sur le travail, les partitions et ce qu’elle propose aux autres. Elle retire du brouillon le nouveau délai qu’elle allait annoncer. Puis elle rouvre la pochette bleue et cherche le contact de la psychiatre.
 
-## Revenir au changement qui dure
+## Quand moins de sommeil accompagne plus d’activité
 
-Un changement qui persiste et se manifeste dans plusieurs activités mérite d’être décrit à un professionnel. Garance a repéré des nuits plus courtes, une activité inhabituelle et des engagements qui s’accumulent. Elle se rappelle aussi des soirées où elle parlait beaucoup après une bonne répétition et retrouvait ensuite son rythme. La comparaison l’aide à dire ce qui lui paraît nouveau dans ces derniers jours.
+Au cours d’une hypomanie, une personne peut se sentir très énergique malgré un besoin de sommeil réduit et se lancer dans plus d’activités qu’à l’ordinaire. L’équipe apprécie l’ensemble des changements, leur durée et leurs conséquences. Garance remarque que ses nuits écourtées vont de pair avec des propositions de travail et de musique plus nombreuses. Elle a de quoi expliquer au cabinet pourquoi cette période lui pose question.
 
-## Comment cette difficulté se manifeste
+## Comment l’activité et le sommeil changent-ils en même temps ?
 
-Une nuit brève ou un devis trop vite accepté ne suffit pas à établir un épisode. Le manque de sommeil peut avoir plusieurs causes. Une évaluation examine notamment l’évolution de l’humeur, de l’énergie, du besoin de sommeil et des comportements par rapport aux habitudes de la personne. Garance peut transmettre des faits même si elle ignore leur sens. Elle dispose d’un plan convenu pour joindre son équipe lorsque plusieurs changements préoccupants se prolongent.
+### Le matin semble commencer sans fatigue
 
-## Écrire au cabinet et suspendre un engagement
+La personne peut se lever avec l’impression d’avoir de l’énergie alors qu’elle a peu dormi.
 
-Garance peut dire à la personne qui reçoit son appel ce qu’elle a constaté, depuis quand cela dure et pourquoi elle voudrait un rendez-vous plus tôt. Elle lui transmet aussi les questions sur les textes et les décisions qu’elle commence à prendre. Si le cabinet n’est pas joignable, elle utilise le contact convenu pour la suite. En cas de danger immédiat, le recours est celui des services d’urgence.
+**Exemples concrets**
 
-Dans l’intervalle, elle peut prévenir un client qu’elle confirmera la date après avoir revu le travail à faire. Elle peut demander à Lise de garder le programme actuel et revenir sur les morceaux déjà prévus. Éva peut l’écouter et l’aider à retrouver l’heure d’un message, si Garance le souhaite. La prise en charge et toute décision concernant le traitement reviennent à l’équipe de soins. Garance peut expliquer au cabinet ce qui l’aide à attendre le rendez-vous prévu.
+- Garance se lève plusieurs jours sans la fatigue qu’elle ressent d’habitude après une nuit courte.
+- Elle répond à des messages avant l’aube après avoir passé une partie de la nuit sur les titres.
+
+### L’élan déborde sur plusieurs activités
+
+Un changement peut se retrouver au travail, dans les loisirs et dans les échanges avec les autres.
+
+**Exemples concrets**
+
+- Un client demande un devis et Garance ajoute des textes à ses échéances.
+- Les autres replient les pupitres quand elle parle encore de morceaux absents du programme.
+
+### Les promesses vont plus vite que le travail
+
+L’augmentation des engagements peut être visible avant que les nouvelles tâches avancent.
+
+**Exemples concrets**
+
+- Garance a ajouté trois échéances et retrouve une fenêtre qui contient toujours une page blanche.
+- Elle s’apprête à annoncer un nouveau délai puis le retire du brouillon.
+
+## 3 techniques pour décrire l’élan inhabituel et garder les décisions ouvertes
+
+### 1. Reconstituer une matinée et une soirée
+
+Montrer comment le sommeil et l’activité ont varié ensemble.
+
+**Exercice pratique**
+
+- Choisissez une nuit récente et l’activité qui l’a précédée.
+- Décrivez votre état au lever et ce que vous avez commencé ensuite.
+- Ajoutez un changement qui revient sur plusieurs jours.
+
+Ces exemples permettent à l’équipe d’examiner la période au-delà du seul nombre d’heures dormies.
+
+### 2. Laisser le prochain délai dans le brouillon
+
+Éviter qu’une proposition devienne un engagement avant vérification.
+
+**Exercice pratique**
+
+- Relevez le dernier délai que vous étiez sur le point d’annoncer.
+- Mettez-le en regard des dossiers déjà ouverts et des heures de réponse des clients.
+- Prévenez les personnes concernées que vous reviendrez vers elles après cette vérification.
+
+Il reste une marge pour ajuster ce qui devra réellement être livré.
+
+### 3. Utiliser le contact préparé
+
+Demander un avis à partir des faits qui inquiètent.
+
+**Exercice pratique**
+
+- Prenez les coordonnées notées dans votre plan de suivi.
+- Décrivez les changements au cabinet, y compris les tâches et le sommeil.
+- Demandez comment joindre l’équipe si la situation s’aggrave avant le créneau proposé.
+
+L’équipe peut préciser le délai de l’évaluation et le relais si le risque change.
 
 ## Le brouillon reste ouvert
 
 Garance téléphone au cabinet. Elle donne des exemples avant de dire le mot qu’elle a hésité à employer. La personne qui répond lui propose un créneau rapproché avec la psychiatre et lui rappelle comment joindre le service si la situation se dégrade avant ce rendez-vous. Garance note ces deux informations près du téléphone. Elle écrit à Lise qu’elle doit revoir ce qu’elle pourra faire sur les notices. Puis elle ouvre le catalogue à la page où elle s’était arrêtée. Dans la marge, elle retrouve un commentaire qu’elle a déjà traité et choisit de le laisser pour l’instant.
+
+---
+
+**Conclusion**
+
+Garance laisse une promesse dans son brouillon et appelle avec plusieurs exemples. Le sommeil réduit n’est qu’une partie de ce qu’elle décrit. L’évaluation à venir donnera un sens à l’ensemble, pendant que la notice peut encore changer de mains.

@@ -32,14 +32,81 @@ Quand vient le tour des questions, Nassim soutient qu’un seul récit pourrait 
 
 Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler.
 
-## Comment cette difficulté se manifeste
+Le blocage arrive sur « poignée », au moment où Owen doit expliquer ce que voit le troisième personnage. Ses camarades ont les trois dessins devant eux et peuvent garder la question ouverte pendant qu’il reprend. Les bandes complètent une parole qui continue. Elles servent aussi à discuter des versions du film et du temps que demandera l’essai.
 
-Pour Owen, les bandes maintiennent ensemble les trois points de vue pendant qu’il explique le ruban. Elles restent lisibles pendant son blocage. Il peut les montrer, ajouter une précision à voix haute et décider quand il a terminé. L’ASHA invite à regarder la participation et les conditions de communication, en plus de ce qui arrive à la parole elle-même. Un support aide parfois à préserver une place dans la conversation sans changer la fluence. Owen bute encore sur « poignée » et transmet quand même la différence qui l’intéresse. Demain, il pourra préférer s’en passer pour une autre discussion.
+## Comment un support laisse-t-il la discussion avancer pendant un blocage ?
 
-## Comparer ce que chacun voit
+### Le support garde un repère commun
 
-La proposition doit encore répondre à la question de Nassim. M. Vasseur peut tenir l’ordre de discussion sans trancher le montage à la place du groupe. Owen propose un test qui tient dans le créneau : un plan fixe, deux versions très courtes à écouter sur les mêmes images. La première confie le récit à une seule voix ; l’autre le partage. Chacun peut ensuite dire à quel moment il a reconnu le sac ou perdu le fil. Ce retour porte sur l’histoire et le travail du groupe. Owen ne demande pas qu’on protège son idée des objections. Il a besoin de pouvoir les entendre après avoir terminé, et d’y répondre avec les mots ou les dessins qu’il aura choisis.
+Un dessin consultable pendant une interruption permet de retrouver de quoi parle la personne.
+
+**Exemples concrets**
+
+- Les trois bandes d’Owen montrent que les personnages regardent la même minute depuis des endroits différents.
+- Dans un atelier, une photo de la poignée peut permettre de suivre le sujet pendant que quelqu’un reprend une phrase.
+
+### L’ordre convenu préserve la parole
+
+Le groupe peut regarder le support tout en attendant la suite. Une règle simple évite qu’un regard sur la feuille soit pris pour une fin de tour.
+
+**Exemples concrets**
+
+- M. Vasseur a noté que les questions attendraient la troisième bande.
+- Un élève peut pointer le deuxième dessin et poursuivre son explication sans qu’un camarade commence la sienne.
+
+### L’idée reçoit un retour sur le fond
+
+Quand la proposition est accessible, les participants peuvent la discuter, y compris exprimer un désaccord ordinaire.
+
+**Exemples concrets**
+
+- Nassim veut comparer les versions avant de s’engager sur le tournage.
+- Lucile peut prendre le sac et proposer un essai pendant qu’Owen choisit le plan à garder.
+
+## 3 techniques pour compléter la parole par un support choisi
+
+### 1. Préparer ce que l’on veut montrer
+
+Partager les éléments qu’un auditeur doit relier.
+
+**Exercice pratique**
+
+- Choisissez une image ou un mot par étape de l’idée.
+- Disposez les éléments dans l’ordre qui vous convient.
+- Décidez ce que vous voulez dire à partir de chacun.
+
+Le groupe garde une carte de l’explication si la parole s’interrompt.
+
+### 2. Laisser la personne ouvrir les questions
+
+Donner un signal lisible à tous.
+
+**Exercice pratique**
+
+- Choisissez avec elle le moment où les questions seront bienvenues.
+- Annoncez-le avant la présentation.
+- Pendant une pause, attendez ce signal en gardant le document visible.
+
+Le support soutient le tour de parole au lieu de le terminer.
+
+### 3. Mettre la proposition à l’essai
+
+Poursuivre la discussion sur ce que le projet demande.
+
+**Exercice pratique**
+
+- Formulez l’objection en termes de temps, de matériel ou de résultat.
+- Demandez ce qu’un essai court permettrait de comparer.
+- Convenez du prochain pas avec les personnes qui auront ce rôle.
+
+La qualité de l’idée se discute à partir du projet.
 
 ## Un plan pour deux versions
 
 Nassim mesure la largeur des trois bandes avec son téléphone, puis retire l’appareil : « Fixe, vraiment fixe. » Lucile se charge du sac et Owen accepte de réduire l’essai au seul banc. M. Vasseur confirme le mercredi et leur montre où l’établissement garde les documents pour le tournage et l’enregistrement. Ils régleront les autorisations avant les essais, même si les versions sont destinées au seul travail du club. Owen glisse les trois bandes dans une chemise que Lucile lui prête. Il lui dit qu’il aimerait aussi donner de la voix au film, mais qu’il ne sait pas encore quelle partie il voudrait faire.
+
+---
+
+**Conclusion**
+
+Avec les bandes, Owen garde son tour et entend l’objection de Nassim. Le groupe réduit l’essai à un banc et garde deux versions à comparer, après les accords nécessaires. Owen peut encore réfléchir à la voix qu’il aimerait prêter au film.

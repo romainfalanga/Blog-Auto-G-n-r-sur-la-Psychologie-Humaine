@@ -29,22 +29,83 @@ Ils parlent d’un court échange joué ensemble au cabinet, la semaine précéd
 
 À la boutique, Gaspard a fait un plateau de secours avec une pelle et un pot vide. Les six inscriptions sont arrivées. L’un des habitués a demandé s’il pourrait filmer pour sa fille. Sacha dit qu’il préférerait qu’on puisse repartir avec la fiche. Puis il tend à Gaspard le plateau principal. « Si je fais une pause, attends que je te le tende comme ça. Sinon je risque de penser que tu as cru que je n’allais pas y arriver. » Gaspard prend le plateau, le pèse entre ses mains et lui demande ce qu’il devra dire à ce moment-là.
 
-## Ce qui se travaille au cabinet
+## D’où l’on écoute quand on se sent observé
 
-Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer. Dans l’échange avec la docteure Rigal, Sacha a pu comparer ce qu’il croyait faire entendre à ce qu’elle avait entendu.
+Dans l’anxiété sociale, l’attention peut se tourner vers sa propre voix, ses gestes ou l’image qu’on suppose donner, au point de moins bien suivre l’échange. Certaines TCC adaptées travaillent cette répartition de l’attention avec le praticien. Sacha veut retrouver le moment où il écoutait vraiment la question d’Omar. C’est ce point qu’il propose de reprendre au cabinet.
 
-## Comment cette difficulté se manifeste
+## Comment l’attention peut-elle quitter l’échange puis y revenir ?
 
-Dans leur suivi, ils pourront discuter ensemble du café, de la question d’Omar et de ce que Sacha souhaite encore travailler. L’étape suivante dépend de cette discussion.
+### La surveillance occupe la place de l’écoute
 
-Le samedi a été choisi pour des raisons qui tiennent à la boutique. Le rendez-vous de soin se poursuit ensuite quelle que soit la façon dont l’atelier se passe. Le nombre de personnes qui viendront et l’état de Sacha ce matin-là ne constituent pas une évaluation clinique. Il pourra raconter une difficulté, une bonne surprise ou simplement l’envie de changer quelque chose à la démonstration.
+Vérifier la façon dont on parle peut rendre plus difficile de suivre la phrase de l’autre.
 
-## Organiser un passage de relais ordinaire
+**Exemples concrets**
 
-Dans le cadre de l’atelier, prévoir qui fait quoi si le déroulé change est une décision de travail. Gaspard et Sacha ont des parties différentes, et le plateau doit de toute façon passer d’une personne à l’autre. Ils peuvent distinguer une pause pendant laquelle Sacha veut garder la parole et le moment où il souhaite que son collègue la reprenne. Gaspard peut vérifier qu’il a compris ce geste et dire s’il saura tenir le relais avec les autres tâches qu’il a ce jour-là.
+- Sacha se demande s’il a répondu trop lentement et manque le renseignement sur la fenêtre d’Omar.
+- Une personne se concentre sur le volume de sa voix et ne retient plus la fin d’une consigne.
 
-La question du film relève du même accord de préparation : demander aux visiteurs de garder leur téléphone rangé laisse chacun participer sans se retrouver enregistré. La fiche permet de transmettre ce qui intéressait l’habitué. Nora peut annoncer cette règle de la boutique sans raconter la consultation ou justifier le choix au nom de Sacha.
+### Le contenu de l’échange donne un point de retour
+
+Une question réelle ou un objet montré peut aider à retrouver ce qui se passe autour de soi.
+
+**Exemples concrets**
+
+- Sacha repère qu’il voulait savoir quel côté de la cour recevait le soleil.
+- À une table de travail, quelqu’un reprend l’échange en demandant quel dessin le collègue lui montre.
+
+### Un relais prévisible évite une nouvelle interprétation
+
+Une intervention inattendue peut elle-même être lue comme un jugement ; un signe convenu garde un choix à la personne.
+
+**Exemples concrets**
+
+- Sacha demande à Gaspard d’attendre qu’il lui tende le plateau.
+- Une collègue attend qu’on lui passe la feuille convenue avant de reprendre une présentation.
+
+## 3 techniques pour mieux repérer où va l’attention
+
+### 1. Revenir à une question précise
+
+Identifier ce que la surveillance de soi a fait perdre.
+
+**Exercice pratique**
+
+- Racontez au praticien la question que vous vouliez entendre.
+- Situez l’instant où votre attention est passée à votre propre façon de parler.
+- Dites ce qui est resté en suspens.
+
+Le point à travailler devient plus précis qu’une impression générale de ne pas savoir parler.
+
+### 2. Discuter d’un essai au cabinet
+
+Explorer la différence entre se surveiller et porter attention à l’échange.
+
+**Exercice pratique**
+
+- Demandez au praticien comment il propose de travailler ce point.
+- Convenez du cadre et de ce qui peut être ajusté.
+- Comparez ensemble ce que vous avez remarqué dans l’essai.
+
+Un exercice guidé peut éclairer ce qui aide à entendre ou à répondre.
+
+### 3. Convenir d’un signe de relais
+
+Donner un cadre clair au partage des rôles à la boutique.
+
+**Exercice pratique**
+
+- Choisissez un geste identifiable par les deux personnes.
+- Dites ce que le collègue prendra en charge lorsqu’il le verra.
+- Répétez le passage du matériel sans public si vous voulez vérifier qu’il est clair.
+
+Le relais peut être déclenché au moment choisi sans interpréter chaque pause.
 
 ## Un signal et six fiches
 
 Gaspard essaie de poser le plateau en gardant la motte devant le dessin. « Si tu me le tends, je fais les pots ou je prends les questions ? » Sacha lui dit de commencer par les pots. Nora tiendra la caisse et redira, à l’arrivée des inscrits, qu’il n’y aura pas de film. Elle proposera la fiche aux gens de passage. Sacha en dispose six exemplaires sur la table. Il garde le dessin original dans le chevalet. Avant de rentrer, Gaspard et lui vérifient l’heure à laquelle ils pourront ouvrir ensemble le volet côté vitrine.
+
+---
+
+**Conclusion**
+
+Sacha garde le dessin et décide à quel geste Gaspard prendra les pots. La question de l’attention reste un travail de suivi ; samedi, le signal dira seulement qui poursuit la démonstration.

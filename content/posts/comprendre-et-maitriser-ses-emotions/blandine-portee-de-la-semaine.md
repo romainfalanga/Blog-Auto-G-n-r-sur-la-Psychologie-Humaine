@@ -28,20 +28,83 @@ Le samedi, elle avait acheté un livre pour son cousin. Le dimanche, elle l’a 
 
 Au cabinet le lendemain, Blandine raconte d’abord Le Pont. Elle décrit la fin du vers et ce qu’elle aimerait que Léon écoute. Puis elle raconte le dimanche où elle a laissé le livre dans son sac et les pages qui ont suivi. Sa thérapeute lui demande comment se passent les journées où elle rencontre peu de choses qui lui rappellent sa sœur. Blandine doit y réfléchir. Elle pose sur la table l’accord d’Esther et demande si elles peuvent parler des deux projets, celui qu’elle a accepté et celui qu’elle a refusé.
 
-## Examiner le deuil prolongé et les signes dépressifs
+## Ce qu’une évaluation distingue et peut retrouver ensemble
 
-Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie. Les deux troubles peuvent aussi coexister. La distinction relève d’une évaluation : un moment de plaisir ou plusieurs journées difficiles ne permettent pas, à eux seuls, d’en juger.
+Le deuil prolongé se rapporte principalement à la perte et au manque de la personne décédée. Dans une dépression, la tristesse ou la perte d’intérêt peuvent toucher plus largement les activités et les domaines de la vie. Les expériences se recoupent parfois et les deux troubles peuvent coexister. En consultation, Blandine parle de la musique, de son dimanche et du travail, pour examiner l’ensemble avec sa thérapeute.
 
-## Comment cette difficulté se manifeste
+## Comment une consultation explore-t-elle l’étendue de la souffrance ?
 
-Blandine a déjà été évaluée pour son deuil prolongé. Elle apporte à sa thérapeute une semaine qu’il est difficile de résumer en une phrase. Il y a le jeudi, dont elle est contente, le livre qu’elle voulait offrir et les pages dont elle n’a pas pu s’occuper. La consultation lui permet de parler des effets qui persistent et de questions nouvelles, sans donner au seul jeudi la charge de dire comment elle va.
+### Le contenu des pensées donne un contexte
 
-## Un accord pour le travail, un autre pour le suivi
+Dire à quoi revient l’attention aide à comprendre ce qui a interrompu une tâche.
 
-Blandine s’engage sur les légendes et la liste de termes. Esther s’occupe de répartir l’autre volume ; si une visite soulève un problème de vocabulaire commun, elles savent où noter la question. Blandine a choisi une part du projet dont elle peut évaluer la taille. Elle garde la possibilité de faire un autre choix pour une autre commande.
+**Exemples concrets**
 
-Avec sa thérapeute, elle prévoit un nouveau point. Elles conviennent qu’elle pourra reprendre contact plus tôt si les difficultés s’accumulent ou si elle se sent moins capable de faire face. La réponse à une psychothérapie ciblée, étudiée sur plusieurs semaines dans l’essai de Shear et de ses collègues, concerne les changements d’ensemble dans le cadre d’un suivi. La capacité à assister une fois à la répétition ne décide donc pas, à elle seule, de la suite des soins de Blandine.
+- Blandine raconte le texte qui lui a rappelé Jeanne et le temps qu’elle y a passé.
+- Un lecteur laisse une lettre de côté parce qu’elle le ramène à la personne disparue, et décrit ce moment au cabinet.
+
+### Les journées sans rappel méritent aussi d’être racontées
+
+Le professionnel examine ce qui se passe dans plusieurs situations, y compris quand aucun souvenir précis n’a précédé la difficulté.
+
+**Exemples concrets**
+
+- La thérapeute demande à Blandine de penser aux journées où elle croise peu de rappels de sa sœur.
+- Une personne décrit des sorties, du travail et des gestes quotidiens devenus difficiles sans savoir exactement pourquoi.
+
+### Des moments d’intérêt peuvent coexister avec des difficultés
+
+Un plaisir retrouvé n’efface pas ce qui reste douloureux ; l’évolution se regarde à plusieurs moments.
+
+**Exemples concrets**
+
+- Blandine a aimé Le Pont et souhaite aussi parler du dimanche où elle a laissé son livre dans son sac.
+- Une personne se réjouit d’une visite et rapporte qu’elle peine encore à faire ses courses la plupart des jours.
+
+## 3 techniques pour décrire une souffrance qui touche plusieurs domaines
+
+### 1. Apporter deux journées contrastées
+
+Aider le professionnel à voir comment la difficulté varie.
+
+**Exercice pratique**
+
+- Choisissez une journée avec un rappel marquant.
+- Décrivez-en une autre où vous avez moins rencontré de rappels.
+- Précisez ce que vous avez pu faire et ce qui est resté en attente.
+
+La comparaison donne un contexte sans servir de test à faire soi-même.
+
+### 2. Préciser la portée de la gêne
+
+Donner des exemples au-delà d’un seul moment.
+
+**Exercice pratique**
+
+- Nommez les activités ou relations concernées.
+- Dites depuis quand elles sont touchées et ce qui reste important pour vous.
+- Laissez au professionnel les questions d’évaluation et posez celles qui vous restent.
+
+Le suivi peut examiner des difficultés qui se recoupent sans les réduire à une seule explication.
+
+### 3. Distinguer une décision du bilan
+
+Pouvoir discuter d’un engagement sans en faire un signe clinique.
+
+**Exercice pratique**
+
+- Nommez le projet accepté et celui que vous avez décliné.
+- Expliquez les raisons pratiques ou affectives que vous connaissez.
+- Convenez d’un nouveau point si la gêne reste importante.
+
+Un choix professionnel apporte un exemple, et l’évaluation garde sa portée plus large.
 
 ## Les légendes et le prochain rendez-vous
 
 Blandine met le rendez-vous dans son agenda et réserve le jeudi matin pour le premier retour à Esther. En sortant du cabinet, elle retrouve le reçu du livre dans sa poche. Elle écrit à son cousin pour savoir où elle peut le lui laisser. Puis elle répond à Alice : elle veut donner les deux feuilles discutées à l’annexe. Elle propose de la retrouver avec Léon vendredi après la fermeture du prêt, pour relire une dernière fois la fiche et déposer les originaux.
+
+---
+
+**Conclusion**
+
+Blandine peut parler du vers qui lui plaît et du travail qu’elle ne se sent pas de prendre. Sa thérapeute pourra continuer à éclairer ces situations ; vendredi, Blandine a un autre rendez-vous pour les partitions.

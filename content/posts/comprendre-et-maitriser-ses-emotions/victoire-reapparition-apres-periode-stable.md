@@ -32,14 +32,79 @@ Lila ouvre un plan sur la table et cherche dans quel sens faire apparaître la g
 
 La boulimie nerveuse peut évoluer de façon variable, avec des symptômes persistants chez certaines personnes et des périodes d’apaisement puis de réapparition chez d’autres. Un épisode peut être source de détresse et justifier d’en reparler en consultation, même si des changements utiles ont déjà eu lieu. L’équipe peut regarder ce qui a changé, la répétition éventuelle des crises ou des compensations, leurs conséquences et l’état physique de la personne. Elle peut reprendre les ressources qu’elle utilise et les difficultés auxquelles elle se heurte encore.
 
-## Le découragement qui revient jusque dans le pliage
+## Comment le retour d’une crise modifie-t-il la lecture des semaines écoulées ?
 
-Victoire avait retrouvé des soirées plus libres. Après la nouvelle crise, elle se demande si elle a parlé trop vite de cette amélioration à Nora. Le lendemain, elle montre à Lila comment plier le plan et refait le même pli deux fois. Elle finit par lui dire qu’elle souhaite s’arrêter après la pile en cours. Les soirées plus libres et la difficulté présente font partie de la même évolution.
+### Le souvenir des semaines stables peut s’effacer
 
-## Répartir ce qui peut être fait aujourd’hui
+Le découragement immédiat peut faire lire un épisode comme un retour au point de départ.
 
-Victoire peut demander à Lila de l’aider sur une tâche dont les contours sont visibles, comme finir le pliage ou emporter ce qui reste. Lila peut dire ce qu’elle a le temps de faire. Elle n’a pas à déterminer la gravité de la reprise des symptômes. Pour cette question, Victoire utilise le contact convenu avec l’équipe. Elle peut dire à Nora ce qui est revenu et comment cela a pesé sur le pliage, pour préciser ce dont elle a besoin maintenant. Elle veut garder la possibilité de venir dimanche et revoir sa part du travail selon ce qu’elles décideront. La date du rallye donne une échéance au groupe. Elle laisse aussi des choix que Victoire peut ajuster indépendamment du rendez-vous de soins, comme présenter le plan au départ ou rester à l’accueil.
+**Exemples concrets**
+
+- Victoire pense à écrire « ça recommence » dès qu’elle ouvre le message du service.
+- Quelqu’un peut ne plus se rappeler les démarches qui l’ont aidé auparavant lorsqu’une soirée difficile revient.
+
+### Le retour a un coût concret
+
+La souffrance d’un épisode compte même si la personne garde des activités et des appuis.
+
+**Exemples concrets**
+
+- Victoire a envie de voir Lila et se demande ce qu’elle va remarquer en entrant.
+- Elle décide de finir la pile devant elles et de lui confier le reste.
+
+### Un appui ancien peut resservir
+
+Une période plus calme peut avoir laissé des ressources utiles lors d’une difficulté nouvelle.
+
+**Exemples concrets**
+
+- Victoire retrouve le contact que la docteure Benali lui a indiqué après le malaise.
+- Elle précise son inquiétude dans son message et reçoit le lendemain une proposition de rendez-vous avec Nora.
+
+## 3 techniques pour reprendre contact avec l’équipe après un épisode
+
+### 1. Donner des nouvelles assez précises
+
+Faire connaître à l’équipe ce qui justifie de reprendre contact.
+
+**Exercice pratique**
+
+- Utilisez le moyen de contact dont vous avez convenu avec le service.
+- Décrivez l’épisode récent et la conséquence qui vous préoccupe aujourd’hui.
+- Demandez quand en parler et suivez les consignes de l’équipe pour la suite.
+
+Le professionnel peut apprécier ce qui demande d’être repris, y compris la santé physique.
+
+### 2. Garder deux repères de la période
+
+Préparer un bilan qui inclut les changements et la difficulté revenue.
+
+**Exercice pratique**
+
+- Choisissez une chose qui avait trouvé une place pendant les semaines plus stables.
+- Décrivez ce qui a changé depuis l’épisode.
+- Présentez les deux faits au même entretien.
+
+Les décisions du suivi peuvent partir d’une évolution plus large qu’une seule soirée.
+
+### 3. Réduire une tâche précise
+
+Préserver l’engagement que vous souhaitez garder en demandant un relais faisable.
+
+**Exercice pratique**
+
+- Distinguez ce qui doit être fait aujourd’hui de ce qui peut attendre.
+- Proposez à la personne disponible une part concrète à reprendre.
+- Fixez avec elle le prochain point, si vous souhaitez poursuivre le projet.
+
+L’activité peut continuer avec une répartition explicite pendant que vous reprenez les soins.
 
 ## Le sac des plans à moitié plein
 
 Lila termine la pile et prend le reste du sac avec elle. Avant de partir, elle demande si Victoire veut qu’elle repasse samedi. Victoire lui propose de la retrouver à la salle pour installer l’accueil. Elle met de côté le plan sur lequel on voit le portail avant la flèche. Le lendemain, le service lui propose un créneau pour parler avec Nora.
+
+---
+
+**Conclusion**
+
+Victoire réduit le pliage, retrouve le message de la docteure Benali et obtient un échange avec Nora. La crise mérite une réponse, même si les semaines plus stables et le travail sur le rallye ont compté. Le rendez-vous ouvre un espace pour reprendre ces deux aspects.

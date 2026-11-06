@@ -1,0 +1,1261 @@
+{
+  "character_id": "esmee",
+  "bio": "Esmée, 21 ans, étudie la reliure. Elle cherche des papiers qui rendent les couvertures agréables à ouvrir et tient un stand de carnets avec son école. Elle vit avec une trichotillomanie. Les épisodes d’arrachage peuvent lui échapper pendant une tâche ou être précédés d’une envie qu’elle remarque. Leur retentissement se voit aussi dans les moments d’atelier et de rencontre qu’elle hésite à garder. Avec son amie Inès et sa clinicienne, Esmée cherche des appuis à sa mesure tout en préparant les carnets qu’elle veut montrer au marché des écoles.",
+  "profile_topics": [
+    "Trichotillomanie",
+    "Arrachage peu remarqué",
+    "Envie d’arracher",
+    "Peur du regard",
+    "Soutien choisi"
+  ],
+  "episodes": [
+    {
+      "title": "Quand l’arrachage passe inaperçu pendant une longue tâche",
+      "description": "En triant les couvertures du marché, Esmée découvre qu’elle a perdu le fil de ce qu’elle faisait et remarque après coup que le geste est revenu.",
+      "context": "En fin de cours, pendant le tri des couvertures de carnet",
+      "clinical_focus": "Arrachage peu remarqué pendant une tâche",
+      "clinical_intro": "Esmée a reconnu six couvertures grises au toucher. Au moment où Inès lui demande où mettre la septième, elle remarque après coup qu’elle s’est arraché des cheveux. La trichotillomanie peut comporter des moments dont on ne s’aperçoit que tard. L’épisode montre comment Esmée peut parler de ces moments à sa clinicienne sans reconstituer un geste dont elle se souvient mal.",
+      "opening": "Il y a deux gris dans la boîte. Sur la feuille du fournisseur, ils portent presque le même nom. Esmée reconnaît l’un au grain quand elle le prend par un coin et garde l’autre pour les carnets à ouverture souple. Inès est allée demander à la professeure si elles pourront laisser la boîte au sec jusqu’au lendemain. Le cours est terminé depuis un moment. Il ne reste à Esmée qu’à répartir le dernier paquet.\n\nQuand Inès revient, elle pose deux étiquettes près de la boîte. « Celui-là va avec ceux de gauche ? » Esmée regarde la pile et ne sait plus combien elle a compté. C’est alors qu’elle remarque, après coup, qu’elle s’est de nouveau arraché des cheveux. Elle n’avait pas décidé de faire une pause et n’a pas vu le moment où elle a cessé de trier. Dans sa tête, elle est encore en train de chercher le gris au toucher. Inès attend sa réponse et tient l’étiquette à l’envers.\n\nEsmée connaît le nom de ce qui lui arrive. Elle voit déjà Camille Renard pour sa trichotillomanie et voudrait pouvoir raconter ce qui se passe pendant ces longues tâches. Elle ne sait pas à quelle couverture commencer. Dehors, l’agent qui ferme l’étage fait rouler son chariot le long de l’atelier. Elle demande à Inès de poser l’étiquette à côté de la boîte, pour pouvoir la relire demain.",
+      "conclusion": "L’interruption a rendu visible un moment qu’Esmée n’avait pas suivi en détail. L’activité, la fin du cours et ce dont elle s’est aperçue suffisent pour commencer à en parler en consultation.",
+      "number": 1,
+      "slug": "esmee-la-pile-grise-a-change-de-cote",
+      "topics": [
+        "Arrachage peu remarqué",
+        "Attention absorbée",
+        "Trichotillomanie"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un moment dont on s’aperçoit après coup",
+          "text": "Dans la trichotillomanie, l’arrachage peut être remarqué sur le moment ou passer en partie inaperçu. Une activité prolongée peut occuper l’attention pendant que le comportement survient. Esmée remarque ce qui s’est passé quand Inès l’interrompt, et le début lui échappe. La clinicienne peut travailler à partir de cette observation et du contexte. Le souvenir approximatif a sa place dans l’entretien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un arrachage peu remarqué devient-il perceptible ?",
+          "points": [
+            {
+              "heading": "L’attention reste absorbée ailleurs",
+              "text": "Une tâche répétitive peut occuper le premier plan pendant un long moment.",
+              "examples": [
+                "Esmée distingue les cartons au grain sans regarder l’heure.",
+                "Une personne peut rester concentrée sur une lecture avant de remarquer qu’un comportement familier est revenu."
+              ]
+            },
+            {
+              "heading": "Une interruption fait revenir au présent",
+              "text": "Une question ou un bruit peut rendre perceptible ce qui échappait.",
+              "examples": [
+                "La question d’Inès ramène Esmée à la pile et elle s’aperçoit de l’arrachage.",
+                "Un changement de page ou une sonnerie peut aider quelqu’un à situer approximativement le moment."
+              ]
+            },
+            {
+              "heading": "Le début reste difficile à décrire",
+              "text": "La personne peut connaître le contexte sans pouvoir dater le geste.",
+              "examples": [
+                "Esmée sait qu’elle triait les couvertures grises et ignore depuis quand.",
+                "En rendez-vous, quelqu’un peut dire qu’une difficulté est apparue pendant une longue tâche et garder le reste ouvert."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un moment remarqué après coup",
+          "points": [
+            {
+              "heading": "Décrire le contexte disponible",
+              "objective": "Apporter à la clinicienne une information sans chercher à tout reconstruire.",
+              "exercise": [
+                "Nommez l’activité et le lieu.",
+                "Indiquez à quel moment vous avez pris conscience de la difficulté.",
+                "Gardez ouverte la question du début si elle vous échappe."
+              ],
+              "benefit": "Le récit reste exploitable même avec une date approximative."
+            },
+            {
+              "heading": "Garder un repère pour reprendre l’activité",
+              "objective": "Faciliter la reprise d’une tâche que l’on a quittée un moment.",
+              "exercise": [
+                "Placez l’étiquette du lot près du paquet en cours.",
+                "Notez une seule opération qui reste.",
+                "Reprenez au moment prévu avec les autres."
+              ],
+              "benefit": "Le carton peut retrouver sa place sans devoir refaire tout le tri de mémoire."
+            },
+            {
+              "heading": "Préciser le rôle de l’amie",
+              "objective": "Choisir un appui lié au travail plutôt qu’aux gestes du corps.",
+              "exercise": [
+                "Dites à Inès ce que vous voulez lui demander sur les lots.",
+                "Convenez d’un moment pour fermer l’atelier ensemble.",
+                "Gardez la description du trouble pour l’entretien si vous le souhaitez."
+              ],
+              "benefit": "L’aide peut porter sur une tâche partagée et respecter votre intimité."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux étiquettes pour le lendemain",
+      "ending": "Esmée retourne les étiquettes et écrit « gauche » sur la première. Elle indique sur la seconde que trois couvertures doivent encore être vérifiées. Inès emporte la boîte vers l’étagère haute. En rentrant, Esmée note « atelier, fin de cours, tri » sur une feuille qu’elle peut retrouver avant son rendez-vous. Elle laisse la date du début vide. Le lendemain, elle saura où reprendre les cartons.",
+      "mirror": [
+        "Inès peut demander « On garde l’étiquette sur la boîte pour demain ? » et attendre la réponse d’Esmée. Si Esmée lui parle de sa difficulté, elle peut demander si elle veut être écoutée ou reprendre le tri ensemble. Son rôle au marché reste une collaboration, avec le droit de parler de leurs horaires à toutes les deux."
+      ],
+      "continuity": {
+        "choice": "Esmée situe un moment peu remarqué et reprend le tri des couvertures avec deux étiquettes.",
+        "next": "Lors du choix des carnets, elle reconnaît cette fois une envie avant que le comportement revienne."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Reconnaître l’envie avant que le comportement revienne",
+      "description": "Pendant qu’elle attend un avis sur les carnets, Esmée remarque une envie pressante. Elle cherche comment la décrire avec son contexte.",
+      "context": "Pendant l’attente du premier retour sur la série",
+      "clinical_focus": "Envie consciente avant l’arrachage",
+      "clinical_intro": "Esmée connaît des moments qu’elle comprend après coup. Devant la salle où les carnets sont examinés, elle remarque cette fois une envie d’arracher ses cheveux qui grandit pendant l’attente. Les deux formes peuvent coexister dans la trichotillomanie. Esmée s’intéresse à ce qui précède l’envie et à ce qu’elle peut demander, avec la clinicienne, quand elle la remarque.",
+      "opening": "Les trois carnets attendent derrière la porte. Dans la salle, la professeure parle avec la personne qui organisera les stands. Esmée a laissé un gris, un vert et un cuivre sur la table. Elle aurait aimé les poser debout pour qu’on voie le pli du vert. On lui a demandé de laisser les carnets fermés pour que la personne puisse les prendre dans l’ordre. Elle écoute les pas qui s’arrêtent puis reprennent dans le couloir.\n\nInès s’est assise sur la marche du bas. Elle lit à voix haute deux noms possibles pour le stand. Esmée ne répond pas. Elle vient de remarquer une envie pressante qu’elle connaît. Le bruit qui vient de la salle et l’attente occupent la même minute. Elle voudrait être à l’autre bout du couloir et entendre quand même l’appel de la professeure. Cette fois, contrairement au tri, elle sait qu’elle a remarqué l’envie avant de découvrir ce qui s’était passé.\n\nElle pense à la question de Camille Renard lors du dernier rendez-vous. À quel moment avait-elle su qu’elle voulait quitter la table ? Elle avait répondu qu’elle ne s’en souvenait pas. Dans ce couloir, elle pourrait décrire le retour sur les carnets qu’elle attend et les deux propositions d’Inès qu’elle n’a pas écoutées. « Est-ce que tu peux me redire le premier nom ? » demande-t-elle.",
+      "conclusion": "Cette fois, Esmée peut dire quand elle a remarqué l’envie, même si elle ne sait pas ce qui l’explique. Le retour sur le carnet et le choix du nom continuent d’avoir une place dans cette journée.",
+      "number": 2,
+      "slug": "esmee-attendre-le-retour-sur-les-carnets",
+      "topics": [
+        "Envie d’arracher",
+        "Tension",
+        "Observation du contexte"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie qui se remarque en cours de situation",
+          "text": "Dans la trichotillomanie, l’envie d’arracher peut devenir consciente avant le comportement. Certaines personnes décrivent une tension qui augmente, une sensation ou un besoin pressant. D’autres moments sont perçus autrement. Pour Esmée, l’attente et l’envie sont simultanées. Le contexte aide à raconter la séquence, sans établir à lui seul ce qui l’a causée ni ce qui va arriver."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une envie consciente peut-elle occuper l’attention ?",
+          "points": [
+            {
+              "heading": "L’envie prend une place identifiable",
+              "text": "La personne peut parfois dire à quel moment elle l’a remarquée.",
+              "examples": [
+                "Esmée sait qu’elle l’a perçue devant la salle pendant l’attente.",
+                "Quelqu’un peut la remarquer lors d’une pause au milieu d’une tâche qu’il reprend ensuite."
+              ]
+            },
+            {
+              "heading": "Un autre échange passe au second plan",
+              "text": "Une envie pressante peut concurrencer ce que l’on essaie d’écouter.",
+              "examples": [
+                "Esmée demande à Inès de lui redire le nom du stand.",
+                "Une personne peut regarder le plan d’un événement et réaliser qu’elle n’a pas entendu l’heure de début."
+              ]
+            },
+            {
+              "heading": "Le contexte reste ouvert à plusieurs lectures",
+              "text": "Le fait qu’une attente ou une émotion précède l’envie ne suffit pas à expliquer tous les moments.",
+              "examples": [
+                "Esmée attendait un avis dans le couloir et elle ne sait pas si le même besoin reviendra à l’atelier.",
+                "Une envie peut être remarquée dans une activité calme même si d’autres fois elle accompagne une contrariété."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire une envie que l’on a remarquée",
+          "points": [
+            {
+              "heading": "Dire ce que l’on sait du moment",
+              "objective": "Raconter l’envie sans inventer la suite.",
+              "exercise": [
+                "Indiquez ce que vous faisiez avant de la remarquer.",
+                "Décrivez avec vos mots ce qui est devenu pressant.",
+                "Dites ce dont vous vous souvenez après."
+              ],
+              "benefit": "La clinicienne peut comparer cette situation à d’autres moments du parcours."
+            },
+            {
+              "heading": "Revenir à une information attendue",
+              "objective": "Garder un lien avec ce qui se joue dans la situation.",
+              "exercise": [
+                "Demandez à Inès de redire la proposition.",
+                "Choisissez celle que vous voudriez discuter après l’avis.",
+                "Convenez d’un lieu où attendre l’appel."
+              ],
+              "benefit": "Une partie de l’attention peut revenir au projet pendant que l’envie est encore présente."
+            },
+            {
+              "heading": "Poser une question au rendez-vous",
+              "objective": "Préparer un échange sur les appuis possibles.",
+              "exercise": [
+                "Apportez l’exemple où vous avez remarqué l’envie.",
+                "Dites ce que vous voudriez être capable de faire dans ce contexte.",
+                "Demandez quelles options la clinicienne propose et comment elles s’essaient."
+              ],
+              "benefit": "Vous pouvez discuter d’un soutien adapté à votre situation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un mot pour le stand",
+      "ending": "Inès répète le premier nom. Esmée trouve qu’il ressemble au titre d’un livre, et cela lui plaît. Elles s’éloignent de deux pas pour laisser sortir la personne qui devait voir les carnets. La professeure propose qu’elles gardent les trois couleurs, avec un vert que les gens pourront ouvrir sur le stand. Esmée inscrit l’idée sur la feuille. À côté, elle note qu’elle a senti l’envie monter dans le couloir.",
+      "mirror": [
+        "Inès peut dire « On peut attendre près de la fenêtre si tu préfères. Tu veux que je te redise les deux noms ? » Elle peut laisser à Esmée le choix de parler ou de se concentrer sur le stand. Elle peut aussi demander à la professeure comment elles sauront quand la salle sera libre."
+      ],
+      "continuity": {
+        "choice": "Esmée remarque l’envie, choisit un mot pour le stand et conserve un exemple à apporter en consultation.",
+        "next": "Au prochain temps de reliure, elle compare les circonstances où l’envie revient, y compris quand la journée est calme."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Comprendre dans quels contextes l’envie peut revenir",
+      "description": "L’envie revient aussi pendant une matinée tranquille. Esmée compare l’attente du couloir et une longue séance de reliure sans chercher une cause unique.",
+      "context": "Pendant un temps de travail calme et au rendez-vous avec la clinicienne",
+      "clinical_focus": "Contextes sensoriels et attentionnels de l’envie",
+      "clinical_intro": "Esmée est seule devant des papiers qu’elle aime manipuler quand elle remarque une envie déjà rencontrée dans le couloir. La trichotillomanie peut se manifester dans plusieurs contextes. Comparer une attente bruyante et une tâche calme aide à retrouver ce qui précède certains moments, avec des indices qui peuvent varier. La comparaison ne désigne pas un matériau ou une émotion comme cause unique.",
+      "opening": "La lumière de dix heures rend le papier cuivre presque beige. Esmée sort deux échantillons sur la table et écoute le bruit qu’ils font quand elle les plie. Elle a l’atelier pour elle jusqu’à ce qu’Inès revienne de l’imprimerie. Aucun retour n’est prévu aujourd’hui. Le stand a un nom qu’elles aiment et elles peuvent choisir l’ordre des couvertures sans attendre le passage de la professeure.\n\nAu bout d’un moment, le silence du bâtiment devient très net. Esmée se surprend à attendre un bruit dans le couloir et remarque une envie familière. Elle est étonnée qu’elle soit venue maintenant. Elle n’est pas inquiète pour l’avis sur le marché et il n’y a personne à qui répondre. Elle pose les papiers et repense à l’étiquette laissée sur la pile grise. Dans ce premier souvenir aussi, elle travaillait longtemps à la même table. Au rendez-vous de l’après-midi, elle veut demander s’il est utile de comparer des moments qui ont peu de choses en commun.\n\nCamille Renard lui propose de dire d’abord ce qu’elle faisait, avant de chercher comment elle se sentait. Esmée décrit le bruit du cuivre et l’heure où Inès devait rentrer. Elle précise qu’elle n’a pas encore décidé si le papier s’ouvre assez bien pour le carnet du milieu. La clinicienne lui demande ce qui distingue cette matinée du couloir.",
+      "conclusion": "L’envie est revenue dans des moments qui ne se ressemblaient pas tous. Esmée garde quelques éléments à comparer en consultation et continue de choisir les matières pour ce qu’elles apportent au carnet.",
+      "number": 3,
+      "slug": "esmee-entre-le-grain-et-le-silence",
+      "topics": [
+        "Contextes sensoriels",
+        "Comparaison de situations",
+        "Observation en consultation"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les circonstances peuvent varier d’un moment à l’autre",
+          "text": "Des facteurs sensoriels, des habitudes d’attention et des situations émotionnelles peuvent accompagner le comportement ou l’envie dans la trichotillomanie. Ils ne sont pas identiques à chaque occurrence et ne suffisent pas à expliquer le trouble. Camille invite Esmée à distinguer ce qu’elle faisait, ce qu’elle percevait et ce qui se passait autour. Cela permet de dégager des observations utiles sans conclure sur le seul papier cuivre ou sur l’absence d’Inès."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les circonstances peuvent-elles différer autour de la même envie ?",
+          "points": [
+            {
+              "heading": "Une activité calme peut être concernée",
+              "text": "Le comportement ou l’envie peuvent survenir sans stress nettement perçu.",
+              "examples": [
+                "Esmée choisit les couvertures après que l’avis sur le stand a été donné.",
+                "Quelqu’un peut remarquer une envie au cours d’une activité calme qu’il apprécie."
+              ]
+            },
+            {
+              "heading": "Un repère sensoriel donne du contexte",
+              "text": "Le bruit ou la texture appartiennent à la situation sans la résumer.",
+              "examples": [
+                "Esmée se rappelle le son des deux papiers quand elle les plie.",
+                "Une personne peut se souvenir de la lumière de son bureau au moment où son attention a changé."
+              ]
+            },
+            {
+              "heading": "L’organisation de la tâche compte aussi",
+              "text": "La durée, le niveau d’attention ou une attente peuvent différer selon le lieu.",
+              "examples": [
+                "Esmée travaille seule longtemps à sa table, tandis que l’attente du couloir était partagée avec Inès.",
+                "Un même projet peut comporter une séance de lecture prolongée et une rencontre courte avec des impressions différentes."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour comparer deux moments sans conclure trop vite",
+          "points": [
+            {
+              "heading": "Choisir deux situations contrastées",
+              "objective": "Montrer que l’envie s’inscrit dans des journées différentes.",
+              "exercise": [
+                "Retrouvez un moment calme.",
+                "Ajoutez une attente ou un échange dont vous vous souvenez.",
+                "Décrivez chacun en une phrase avant de chercher une ressemblance."
+              ],
+              "benefit": "Le contraste peut orienter les questions de l’entretien."
+            },
+            {
+              "heading": "Garder les détails utiles",
+              "objective": "Raconter la situation avec des éléments faciles à identifier.",
+              "exercise": [
+                "Notez la tâche en cours et la durée approximative.",
+                "Ajoutez le bruit, la lumière ou une autre sensation qui vous revient.",
+                "Gardez ouvert le lien entre ce détail et l’envie."
+              ],
+              "benefit": "Le professionnel peut demander ce qui se répète sans partir d’une cause supposée."
+            },
+            {
+              "heading": "Choisir avec la clinicienne une observation limitée",
+              "objective": "Éviter qu’une recherche de contexte prenne toute la place.",
+              "exercise": [
+                "Dites ce que vous accepteriez de noter.",
+                "Convenez d’un nombre de moments à apporter au prochain entretien.",
+                "Fixez quand vous arrêterez d’y revenir."
+              ],
+              "benefit": "L’observation peut rester un appui pour le soin et laisser du temps aux carnets."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet du milieu reste ouvert",
+      "ending": "Esmée écrit « matin calme » puis « attendre l’avis » sur deux lignes distinctes. Elle demande à Camille si elles pourront revenir sur leur différence au prochain rendez-vous. En rentrant, elle trouve Inès en train de poser les étiquettes imprimées. Elle ouvre le carnet du milieu sur la table. Le papier cuivre garde un bruit sec qu’elle aime. Elle propose de le montrer comme l’un des trois choix du stand.",
+      "mirror": [
+        "Inès peut dire « J’arrive de l’imprimerie. Tu veux me montrer ce que tu as choisi ou finir ton essai d’abord ? » Si Esmée parle des circonstances qu’elle essaie de comprendre, Inès peut écouter ce qu’elle veut raconter. Elle peut lui laisser la responsabilité des observations qu’elle emporte en consultation."
+      ],
+      "continuity": {
+        "choice": "Esmée compare deux contextes en consultation et conserve les trois matières pour le stand.",
+        "next": "Après un nouvel épisode, elle remarque que la détente qui suit peut durer bien moins longtemps qu’elle ne l’attendait."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Quand le soulagement après l’arrachage dure peu",
+      "description": "Esmée se sent un instant soulagée après un épisode. Le sentiment revient vite et elle remarque le temps qu’il prend sur ses préparatifs.",
+      "context": "À l’atelier de reliure, après un accroc sur la couverture cuivre",
+      "clinical_focus": "Soulagement bref après un épisode d’arrachage",
+      "clinical_intro": "La couverture cuivre se froisse au dernier pli. Après un épisode d’arrachage, Esmée remarque un bref relâchement, puis retrouve la tension alors qu’elle doit encore finir sa couverture. Dans la trichotillomanie, un soulagement peut suivre certains épisodes et rester de courte durée. La scène distingue ce qui se passe juste après et l’effet que la répétition peut avoir sur le reste de l’après-midi.",
+      "opening": "Le pli du cuivre est trop blanc sur les deux derniers centimètres. Esmée tourne le carnet vers la fenêtre pour vérifier si c’est la lumière. De l’autre côté, la même trace est visible. Elle a gardé deux feuilles pour refaire la couverture si nécessaire. Inès doit passer chercher une pile de programmes et pourra regarder la tranche au moment de partir. D’ici là, Esmée voudrait savoir si le carnet peut encore aller au milieu du stand.\n\nElle s’absente de la table quelques minutes. En revenant, elle sait qu’elle a de nouveau arraché des cheveux. Elle se souvient surtout d’un instant de relâchement, quand la décision sur la couverture a cessé de lui revenir. Elle avait cru pouvoir se remettre à la table sur ce répit. À présent, elle sent de nouveau cette tension et ne sait pas si elle veut mettre le carnet de côté ou retourner dans le couloir. La boîte des feuilles neuves est restée fermée.\n\nInès arrive avec les programmes contre le bras. « Tu veux que je regarde le cuivre avant de filer ? » Esmée lui montre le pli à distance. Elle avait envie de refaire l’essai avec elle. Elle n’a plus le temps avant que l’atelier ferme. Elle demande si elles peuvent garder l’échantillon froissé dans la boîte pour que la professeure leur dise ce qu’elle en pense demain.",
+      "conclusion": "Le soulagement a eu lieu et il a été bref. Esmée pourra parler de son retour au travail et du temps perdu, deux éléments qui aident à comprendre ce que cet épisode lui a coûté.",
+      "number": 4,
+      "slug": "esmee-une-pause-trop-courte",
+      "topics": [
+        "Soulagement de courte durée",
+        "Retour de l’envie",
+        "Retentissement quotidien"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le répit et ce qui suit",
+          "text": "Un épisode d’arrachage peut être suivi d’un soulagement, en particulier quand une tension a été ressentie auparavant. Ce répit varie et peut s’estomper rapidement. Esmée peut le raconter sans supposer qu’il explique chacun de ses épisodes. En consultation, situer ce qui revient ensuite et ce qui a changé dans son activité aide à décrire le cycle qu’elle voudrait comprendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un soulagement bref se distingue-t-il de son effet sur la journée ?",
+          "points": [
+            {
+              "heading": "La tension s’allège dans l’instant",
+              "text": "La personne peut reconnaître un relâchement après un épisode.",
+              "examples": [
+                "Esmée pense moins à la couverture juste après ce moment.",
+                "Quelqu’un peut se sentir brièvement disponible pour ce qu’il faisait avant."
+              ]
+            },
+            {
+              "heading": "L’envie ou la tension revient",
+              "text": "Le répit peut être suivi d’une nouvelle difficulté dans la même situation.",
+              "examples": [
+                "Une fois à table, Esmée hésite encore entre reprendre et quitter l’atelier.",
+                "Une personne peut constater qu’une envie revient alors que la première tâche est toujours ouverte."
+              ]
+            },
+            {
+              "heading": "Le temps passé compte dans le retentissement",
+              "text": "Un bref effet et une conséquence plus longue peuvent coexister.",
+              "examples": [
+                "La boîte reste fermée et Inès arrive quand il n’y a plus le temps de refaire le pli.",
+                "Un travail que l’on voulait essayer avec quelqu’un peut être déplacé alors que le répit avait semblé suffisant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire ce qui arrive après le répit",
+          "points": [
+            {
+              "heading": "Séparer deux moments",
+              "objective": "Garder en mémoire la différence entre l’effet immédiat et la suite.",
+              "exercise": [
+                "Décrivez le premier changement que vous avez remarqué.",
+                "Indiquez ce qui est revenu ensuite.",
+                "Ajoutez la tâche qui est restée ouverte."
+              ],
+              "benefit": "La clinicienne peut mieux comprendre le déroulé qui vous gêne."
+            },
+            {
+              "heading": "Mettre un objet en attente",
+              "objective": "Choisir comment reprendre un travail avec le temps réellement disponible.",
+              "exercise": [
+                "Placez le carnet de côté avec son étiquette.",
+                "Notez le point précis à demander à la professeure.",
+                "Convenez d’un créneau pour regarder sa réponse."
+              ],
+              "benefit": "Le retour au travail peut s’appuyer sur une question définie."
+            },
+            {
+              "heading": "Examiner le répit au suivi",
+              "objective": "Discuter de ce que l’on cherche à changer en priorité.",
+              "exercise": [
+                "Apportez un moment où le soulagement a été bref.",
+                "Dites le coût que vous avez remarqué pour la suite.",
+                "Demandez quelles pistes se discutent avec votre clinicienne."
+              ],
+              "benefit": "Un objectif commun peut porter sur la situation et sur l’expérience vécue."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille froissée sous le couvercle",
+      "ending": "Inès incline le carnet et voit à son tour la ligne blanche. Esmée la lui montre à l’endroit qu’elle voulait garder visible sur le stand. Elles le mettent de côté avec un bout de papier où Inès écrit « ouvrir une fois devant la prof ». Esmée garde en mémoire le moment où la tension était retombée et celui où elle est revenue. Le lendemain, la question sur le cuivre les attendra au même endroit.",
+      "mirror": [
+        "Inès peut dire « On peut garder la feuille et montrer le pli demain. Tu veux que je l’étiquette ? » Si Esmée parle de la tension ou du répit, Inès peut l’écouter sans lui demander de raconter les détails du geste. Elle peut aussi annoncer à quelle heure elle doit reprendre les programmes."
+      ],
+      "continuity": {
+        "choice": "Esmée repère le répit et son terme et garde la couverture pour en discuter avec la professeure.",
+        "next": "L’école propose un essai devant d’autres élèves. Esmée hésite à montrer le carnet elle-même par crainte des regards."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Éviter une présentation par crainte du regard des autres",
+      "description": "Esmée aimerait expliquer l’ouverture du carnet vert. L’idée d’être observée la pousse à se placer derrière la table et à envisager de céder son rôle.",
+      "context": "Pendant la répétition du stand devant quelques élèves",
+      "clinical_focus": "Évitement d’une activité par peur du regard",
+      "clinical_intro": "Esmée s’était préparée à montrer l’ouverture du carnet vert. Quand elle voit les autres élèves s’installer, elle envisage de demander à Inès de parler seule. La gêne associée à la trichotillomanie peut peser sur la participation, y compris quand une activité plaît. Le récit suit la décision qu’Esmée peut prendre avec Inès, à partir du rôle qu’elle aimerait garder.",
+      "opening": "La professeure a réparé le pli du cuivre assez tôt pour qu’il rejoigne la table. Esmée aligne les trois couleurs et laisse le vert entrouvert. Elle voulait montrer que le papier se rabat sans qu’on ait besoin de retenir la couverture. Elle a même demandé à Inès de faire semblant de chercher un stylo au milieu de la présentation, pour que le geste ait une raison. Du couloir, elle entend des chaises que l’on traîne pour leur essai.\n\nDeux étudiantes arrivent en parlant de l’ordre des stands. Esmée pense au moment où l’une d’elles se penchera pour mieux voir le carnet. Elle commence à préparer une réponse à une question que personne n’a posée. Elle ne se rappelle plus si elle avait prévu de parler debout ou de s’asseoir au bout de la table. Dans sa tête, les élèves ont déjà posé les yeux ailleurs que sur le papier. Elle se surprend à envisager de rester derrière les boîtes avec les programmes.\n\nInès prend le carnet vert et demande quel côté doit faire face au public. Esmée lui dit qu’elle pourrait faire la présentation seule. Inès pose le carnet. « On peut en parler avant de commencer ? » De l’autre côté de la cloison, la professeure demande de combien de chaises elles ont besoin. Esmée regarde le bord ouvert du carnet et essaie de retrouver ce qu’elle avait voulu montrer.",
+      "conclusion": "Esmée garde le geste qu’elle voulait montrer et Inès prend la suite convenue. La crainte d’être observée reste présente par moments. Elle peut en parler sans laisser cette crainte décider seule de sa place au stand.",
+      "number": 5,
+      "slug": "esmee-la-table-vue-du-couloir",
+      "topics": [
+        "Peur du regard",
+        "Évitement social",
+        "Rôle choisi"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand se protéger réduit aussi la place que l’on prend",
+          "text": "La peur du regard ou d’une question personnelle peut conduire une personne avec une trichotillomanie à éviter une activité. S’écarter peut faire baisser l’inquiétude dans l’instant et coûter une partie du projet qui compte. Esmée prévoit ce que les élèves pourraient regarder avant qu’ils aient pris place. Elle peut décider d’un rôle qui lui convient, avec le droit de poser une limite si quelqu’un lui demande quelque chose de personnel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur du regard peut-elle modifier une participation ?",
+          "points": [
+            {
+              "heading": "L’attention va vers une réaction imaginée",
+              "text": "La personne peut anticiper une question alors que le public n’a encore rien dit.",
+              "examples": [
+                "Esmée prépare une réponse à l’idée qu’une élève se penche sur la table.",
+                "Quelqu’un peut repenser à un commentaire redouté avant même d’entrer dans une salle."
+              ]
+            },
+            {
+              "heading": "Le rôle devient plus petit par défaut",
+              "text": "Un geste de retrait peut faire disparaître une partie souhaitée de l’activité.",
+              "examples": [
+                "Esmée propose qu’Inès présente seule le carnet vert.",
+                "Une personne peut choisir d’installer des objets à l’écart alors qu’elle voulait recevoir les visiteurs."
+              ]
+            },
+            {
+              "heading": "Un format choisi peut garder une part du projet",
+              "text": "Participer peut prendre une forme plus délimitée que ce qui était imaginé.",
+              "examples": [
+                "Esmée peut montrer le pli pendant qu’Inès ouvre la présentation.",
+                "Deux personnes peuvent répartir un échange pour laisser à chacune le geste qu’elle souhaite faire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir sa place dans une présentation",
+          "points": [
+            {
+              "heading": "Retrouver l’objet que l’on veut montrer",
+              "objective": "Revenir au motif qui donnait envie de prendre part.",
+              "exercise": [
+                "Nommez la partie du carnet qui compte pour vous.",
+                "Choisissez une seule phrase pour la présenter.",
+                "Indiquez à votre binôme à quel moment vous aimeriez intervenir."
+              ],
+              "benefit": "La place choisie peut rester liée à ce que vous voulez transmettre."
+            },
+            {
+              "heading": "Prévoir un partage clair",
+              "objective": "Donner aux deux personnes des rôles qu’elles acceptent.",
+              "exercise": [
+                "Demandez qui souhaite commencer.",
+                "Convenez d’un signe pour passer la parole.",
+                "Vérifiez ce qui est possible si l’une de vous veut faire une pause."
+              ],
+              "benefit": "Chacune sait ce qu’elle peut reprendre sans parler à la place de l’autre."
+            },
+            {
+              "heading": "Poser une limite personnelle",
+              "objective": "Préparer une réponse courte si l’échange sort du sujet.",
+              "exercise": [
+                "Choisissez ce que vous préférez garder pour vous.",
+                "Trouvez une phrase qui ramène au carnet.",
+                "Dites à Inès quel appui vous accepteriez si la question insiste."
+              ],
+              "benefit": "Vous pouvez rester présente sans devoir expliquer votre santé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La première ouverture du vert",
+      "ending": "Inès commence par dire le nom du stand. Esmée place le carnet vert devant elle et montre comment la couverture tient ouverte. Une des étudiantes demande si le papier est disponible dans l’autre couleur. Esmée lui tend le cuivre réparé et lui propose de comparer les deux. Elle sent encore l’envie de reculer derrière les boîtes quand les chaises bougent. Inès lui fait signe que la suite lui revient et présente le prix du carnet.",
+      "mirror": [
+        "Inès peut dire « Je peux ouvrir la présentation. Tu veux encore montrer le pli vert ou on choisit un autre partage ? » Elle peut accepter la réponse et préciser ce qu’elle est prête à faire. Les questions personnelles peuvent être ramenées au stand sans qu’Inès explique ce qu’Esmée vit."
+      ],
+      "continuity": {
+        "choice": "Esmée garde la démonstration du carnet vert avec un partage clair de la présentation.",
+        "next": "Une conversation plus tard lui donne l’occasion de décider ce qu’elle accepte de confier à Inès."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Choisir ce que l’on confie quand on craint d’être jugé",
+      "description": "Après la répétition, Inès demande à Esmée comment elle a vécu l’attente. Esmée cherche des mots qui lui laissent le choix du détail.",
+      "context": "À deux, au moment de ranger le matériel de répétition",
+      "clinical_focus": "Honte et choix du niveau de confidence",
+      "clinical_intro": "Inès a vu qu’Esmée envisageait de quitter la répétition. En rangeant les carnets, elle lui demande comment elle l’a vécue. La honte associée à la trichotillomanie peut rendre une confidence difficile. Choisir de parler, de garder un détail pour soi ou d’en parler à un autre moment relève aussi de l’intimité. Esmée cherche ce qu’elle veut dire à son amie.",
+      "opening": "Il reste une chaise près du stand. Esmée la retourne pour la porter à l’autre bout de la pièce. Inès est en train de rayer une ancienne heure sur le programme. L’essai de présentation a duré dix minutes et la professeure a demandé qu’elles gardent les carnets à portée du public. Esmée avait surtout envie de savoir si les gens avaient compris la différence du pli. Inès lui dit qu’elle l’a vue hésiter en entendant les chaises.\n\nEsmée demande ce qu’elle a remarqué exactement. Inès répond qu’elle l’a entendue proposer de lui laisser tout le stand. Esmée avait préparé dans sa tête deux explications possibles. Dans la première elle dit que la fatigue lui a coupé l’envie de parler. Dans l’autre, elle donne le nom de la trichotillomanie et voudrait passer directement à un autre sujet. Elle craint que le mot reste entre elles comme une question qu’Inès pourrait rouvrir devant n’importe qui.\n\nInès replie le programme sans ajouter de question. Esmée remet la chaise avec les autres. Elle voudrait lui dire pourquoi elle a eu si peur de se retrouver devant le public. Elle a aussi besoin de savoir ce qu’Inès fera si une autre personne lui demande pourquoi elles ont changé l’ordre de la présentation. Les deux carnets sont encore sur la table. Esmée revient les chercher ensemble.",
+      "conclusion": "Esmée confie à Inès ce qui l’a gênée pendant l’essai et délimite le partage. Elle peut garder une partie de son expérience privée tout en organisant le stand avec son amie.",
+      "number": 6,
+      "slug": "esmee-ce-qui-reste-derriere-la-table",
+      "topics": [
+        "Honte",
+        "Confidence choisie",
+        "Confidentialité"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La confidence a plusieurs tailles",
+          "text": "La honte peut amener une personne avec une trichotillomanie à anticiper un jugement ou à cacher une partie de son vécu. Garder une information pour soi peut aussi correspondre à un choix légitime de confidentialité. Esmée voudrait parler à Inès d’une difficulté au stand et ne souhaite pas discuter de ses soins avec le groupe. Ces deux besoins peuvent être exprimés dans le même échange."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte et le besoin de discrétion peuvent-ils se mêler ?",
+          "points": [
+            {
+              "heading": "Chercher une explication à donner tout de suite",
+              "text": "La crainte de la réaction peut faire préparer une réponse avant de savoir ce que l’autre demande.",
+              "examples": [
+                "Esmée envisage de parler seulement de fatigue.",
+                "Quelqu’un peut répéter dans sa tête une raison pratique avant d’entendre une question de soutien."
+              ]
+            },
+            {
+              "heading": "Redouter la circulation de l’information",
+              "text": "Le souhait de parler à une personne peut coexister avec un refus d’en parler au groupe.",
+              "examples": [
+                "Esmée veut savoir ce qu’Inès dira au sujet de l’ordre de la présentation.",
+                "Une étudiante peut vouloir confier une difficulté à une amie et demander qu’elle reste entre elles."
+              ]
+            },
+            {
+              "heading": "Trouver un niveau de détail qui convient",
+              "text": "La personne peut dire ce qui lui est utile aujourd’hui et réserver la suite.",
+              "examples": [
+                "Esmée peut parler de la peur éprouvée au stand avant de donner le nom du trouble.",
+                "Quelqu’un peut demander une aide pour entrer dans une salle sans raconter tout son suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’une difficulté au niveau de détail choisi",
+          "points": [
+            {
+              "heading": "Commencer par le besoin présent",
+              "objective": "Dire ce que vous attendez de l’échange.",
+              "exercise": [
+                "Choisissez entre être écoutée et demander une action précise.",
+                "Nommez la situation qui a compté.",
+                "Vérifiez si la personne a le temps de vous entendre."
+              ],
+              "benefit": "Le début de la confidence peut rester centré sur votre demande."
+            },
+            {
+              "heading": "Dire à qui l’information est destinée",
+              "objective": "Rendre la limite de partage explicite.",
+              "exercise": [
+                "Dites quels mots peuvent rester entre vous.",
+                "Convenez d’une réponse si le groupe demande le motif du changement.",
+                "Vérifiez que votre amie a compris votre souhait."
+              ],
+              "benefit": "Chacune peut savoir ce qu’elle a le droit de raconter."
+            },
+            {
+              "heading": "Choisir une phrase de sortie",
+              "objective": "Garder la possibilité de finir l’échange avant de répondre à tout.",
+              "exercise": [
+                "Trouvez une phrase qui indique que vous en avez assez dit aujourd’hui.",
+                "Dites quand vous accepteriez de reprendre si vous le souhaitez.",
+                "Revenez à un sujet que vous avez en commun."
+              ],
+              "benefit": "La conversation peut respecter votre limite et continuer autrement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le programme pour les autres",
+      "ending": "Esmée dit qu’elle a une trichotillomanie, qu’elle est déjà accompagnée et que la question du regard l’a arrêtée un moment avant l’essai. « Je te le dis à toi. Pour la classe, on garde juste l’ordre qu’on a choisi. » Inès dit qu’elle a compris. Elle demande si Esmée veut encore en parler. Esmée répond qu’elle a dit ce dont elle avait besoin et qu’elle voudrait regarder le programme avant de partir.",
+      "mirror": [
+        "Inès peut dire « Je garde ce que tu viens de me dire pour moi. Pour le groupe je parle de l’ordre des carnets. Tu veux que je t’écoute encore ou on regarde le programme ? » Elle peut accueillir le choix d’Esmée de donner quelques informations et respecter une demande d’arrêt sans en déduire un rejet."
+      ],
+      "continuity": {
+        "choice": "Esmée confie le trouble à Inès et garde la raison médicale hors des échanges de classe.",
+        "next": "Un inconfort nouveau amène Esmée à demander un avis distinct de son suivi psychologique."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Demander un avis pour un inconfort qui apparaît",
+      "description": "Une gêne nouvelle inquiète Esmée pendant les préparatifs. Elle demande un avis médical et garde séparées les questions de son suivi habituel.",
+      "context": "Avant une séance de reliure, puis au cabinet médical",
+      "clinical_focus": "Évaluation d’un inconfort nouveau malgré le diagnostic",
+      "clinical_intro": "Esmée ressent une gêne persistante qu’elle n’avait pas décrite à sa clinicienne. Elle connaît son diagnostic de trichotillomanie et se demande si la sensation s’explique par lui. Une difficulté nouvelle peut avoir plusieurs causes. L’épisode montre comment elle demande un avis médical à partir de ce qu’elle ressent, tout en gardant le travail sur le comportement dans son suivi habituel.",
+      "opening": "La professeure a posé un bac de feuilles près de la fenêtre. Esmée en retire les exemplaires où la marge dépasse et garde une pile pour montrer l’intérieur des carnets. Aujourd’hui, elle aurait dû apporter une boîte supplémentaire. Elle la voit dans sa tête sur la chaise de l’entrée. Elle propose à Inès de l’appeler plus tard pour vérifier les dimensions avant de faire le trajet.\n\nDepuis quelques jours, Esmée ressent un inconfort qu’elle ne se rappelle pas avoir éprouvé ainsi. Il est encore là ce matin. Au dernier rendez-vous avec Camille, elles ont parlé des situations où elle remarque ou non l’envie d’arracher. Esmée n’avait pas évoqué cette sensation. Elle hésite à envoyer un message à la clinicienne pour lui demander si c’est forcément lié. Au bout de la table, la professeure lui demande de confirmer si les programmes pourront entrer dans la boîte oubliée.\n\nEsmée répond qu’elle mesurera chez elle. Pendant la pause elle appelle le cabinet médical. Elle explique depuis quand l’inconfort est présent, comment il a changé et ce qu’elle sait déjà de son suivi. La personne qui lui répond lui trouve un rendez-vous. Esmée demande ce qu’il faut signaler si la gêne change en attendant. Elle peut terminer le tri des programmes et laisser la question de santé à l’entretien prévu.",
+      "conclusion": "Esmée peut faire examiner un changement précis sans décider elle-même de sa cause. La question physique et les observations du suivi trouvent chacune un interlocuteur, tandis que le travail du stand avance.",
+      "number": 7,
+      "slug": "esmee-un-avis-pour-une-sensation-nouvelle",
+      "topics": [
+        "Évaluation médicale",
+        "Inconfort nouveau",
+        "Causes possibles"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une gêne nouvelle mérite sa propre description",
+          "text": "Les effets physiques et le contexte d’un arrachage peuvent faire partie d’une évaluation médicale. Un inconfort récent peut également avoir une cause différente. Le médecin examine la situation et peut poser des questions sur son apparition et son évolution. Esmée garde le diagnostic déjà connu comme information de contexte. Le travail sur ce qui accompagne le comportement continue avec Camille, qui pourra entendre ce que le médecin aura jugé utile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer un symptôme nouveau d’une difficulté déjà suivie ?",
+          "points": [
+            {
+              "heading": "La sensation a sa propre chronologie",
+              "text": "Un changement récent peut être décrit à partir des moments où il est présent.",
+              "examples": [
+                "Esmée sait que l’inconfort persiste depuis quelques jours.",
+                "Quelqu’un peut se souvenir qu’une sensation a commencé après une journée particulière sans en connaître la cause."
+              ]
+            },
+            {
+              "heading": "Le diagnostic donne un contexte",
+              "text": "Nommer le suivi peut aider le médecin à orienter ses questions.",
+              "examples": [
+                "Esmée indique qu’elle est déjà accompagnée pour sa trichotillomanie.",
+                "Une personne peut indiquer ce qui était déjà connu et préciser quel changement la conduit au cabinet."
+              ]
+            },
+            {
+              "heading": "Deux échanges peuvent avoir des objets différents",
+              "text": "L’évaluation physique et le travail sur le comportement peuvent avancer en parallèle.",
+              "examples": [
+                "Esmée appelle le cabinet pour le symptôme et garde ses notes de contexte pour Camille.",
+                "Après un rendez-vous médical, quelqu’un peut choisir de reprendre en thérapie ce que l’attente lui a coûté."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un avis sur un inconfort nouveau",
+          "points": [
+            {
+              "heading": "Décrire le changement",
+              "objective": "Donner au médecin des informations observables.",
+              "exercise": [
+                "Indiquez quand l’inconfort a commencé.",
+                "Dites s’il persiste ou évolue.",
+                "Précisez ce qu’il vous gêne pour faire."
+              ],
+              "benefit": "Le professionnel peut déterminer quelles questions examiner."
+            },
+            {
+              "heading": "Distinguer les contacts",
+              "objective": "Trouver l’interlocuteur adapté à chaque besoin.",
+              "exercise": [
+                "Contactez le professionnel qui peut évaluer la gêne.",
+                "Informez-le de votre suivi si cela aide à comprendre la situation.",
+                "Demandez quand et comment reprendre contact si quelque chose change."
+              ],
+              "benefit": "La suite peut être définie avec un professionnel au lieu de rester une question ouverte."
+            },
+            {
+              "heading": "Reprendre un engagement simple",
+              "objective": "Séparer le rendez-vous médical d’une décision de l’atelier.",
+              "exercise": [
+                "Dites à Inès ce que vous pourrez vérifier après.",
+                "Convenez du moment où vous donnerez les dimensions.",
+                "Laissez-lui la possibilité d’utiliser une autre boîte si besoin."
+              ],
+              "benefit": "L’organisation peut avancer même si l’avis médical reste à venir."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La boîte attend sur la chaise",
+      "ending": "Au cabinet, Esmée décrit l’inconfort et écoute la suite proposée par le médecin après l’examen. Elle repart avec une consigne claire pour reprendre contact si la gêne change. Chez elle, la boîte attend à côté de son manteau. Elle mesure l’intérieur, écrit la largeur à Inès et pose les programmes en travers pour essayer. Elle garde pour Camille les questions qui portent sur les envies et les situations où elles reviennent.",
+      "mirror": [
+        "Inès peut répondre « Je garde la boîte de l’école jusqu’à demain si ça t’arrange. Tu me diras quand tu sais pour les programmes. » Si Esmée dit qu’elle veut un avis médical, Inès peut lui demander quelle aide pratique elle souhaite. Elle n’a pas besoin de regarder ou de commenter le symptôme."
+      ],
+      "continuity": {
+        "choice": "Esmée obtient un avis pour l’inconfort et remet la question des comportements dans son suivi habituel.",
+        "next": "Avec Camille, elle discute des appuis comportementaux qu’elle aimerait essayer dans un contexte précis."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Choisir en consultation un appui adapté à une situation",
+      "description": "Esmée veut trouver une façon de traverser les attentes sans perdre la place qu’elle souhaite garder au stand. Elle en parle avec Camille.",
+      "context": "En consultation, puis pendant une attente avant un essai du stand",
+      "clinical_focus": "Adaptation d’un appui comportemental à son contexte",
+      "clinical_intro": "Esmée a rapporté une attente bruyante, une matinée calme et une difficulté remarquée après coup. Camille propose de choisir une seule situation pour commencer. Des prises en charge comportementales peuvent être discutées dans la trichotillomanie et ajustées avec la personne. Esmée veut comprendre ce qu’elle essaiera, à quel moment et comment elle pourra dire si cela l’aide ou la gêne.",
+      "opening": "Camille a laissé devant Esmée la feuille sur laquelle elles ont écrit « matin calme » et « attendre l’avis ». Esmée pose l’ongle sur le second mot sans le barrer. Au marché, elle devra attendre que les visiteurs arrivent ou qu’Inès retrouve le ticket d’installation. Elle ne sait pas ce qui lui coûtera le plus entre l’attente et la peur qu’une personne lui pose une question. Elle voudrait avoir une idée de ce qu’elle peut faire si elle perd le fil.\n\nCamille lui présente la possibilité de travailler sur une situation limitée. Elle explique qu’elles regarderont ensemble les circonstances et les réponses qui peuvent convenir à Esmée. Esmée lui demande s’il faudra parler de chaque minute passée à l’atelier. Elle dit qu’elle s’est retrouvée à rouvrir ses notes plusieurs fois après leur dernier rendez-vous et qu’elle ne veut pas finir par examiner tous les moments de sa journée.\n\nElles regardent le plan du stand. Esmée sait qu’elle peut garder une courte pause si Inès en est avertie. Elle aimerait rester disponible pour les carnets et avoir une façon de dire qu’elle a besoin d’un moment. Camille lui demande comment elle pourrait reconnaître une aide qui lui convient. Esmée pense au moment où elle saurait revenir à la table sans avoir à recommencer la présentation depuis le début.",
+      "conclusion": "Le repère choisi aide Esmée à reprendre une présentation précise. Elle pourra dire avec Camille comment elle a vécu cet essai et demander que l’appui évolue avec ce dont elle a besoin.",
+      "number": 8,
+      "slug": "esmee-un-essai-choisi-avec-camille",
+      "topics": [
+        "Thérapie comportementale",
+        "Appui individualisé",
+        "Choix partagé"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un appui se choisit et se réévalue",
+          "text": "Certaines thérapies comportementales de la trichotillomanie travaillent sur la prise de conscience, les contextes du comportement et les réponses que la personne peut essayer avec le professionnel. Les démarches et leurs effets varient. Camille aide Esmée à choisir un objectif limité, à convenir d’une façon d’essayer et à décrire ensuite ce qui a été possible. Le récit du stand donne un but concret au choix, sans remplacer le travail clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment voir si un appui convient à une situation ?",
+          "points": [
+            {
+              "heading": "L’objectif concerne un moment précis",
+              "text": "Une situation limitée permet de discuter de ce que l’on veut retrouver.",
+              "examples": [
+                "Esmée choisit l’attente avant la visite du stand.",
+                "Quelqu’un peut vouloir reprendre la page en cours après une interruption dans son travail."
+              ]
+            },
+            {
+              "heading": "L’observation reste proportionnée",
+              "text": "Un appui peut demander trop d’attention et gagner à être ajusté.",
+              "examples": [
+                "Esmée dit qu’elle a rouvert ses notes plusieurs fois et demande une consigne limitée.",
+                "Une personne peut vouloir rendre compte d’un exemple sans devoir consigner chaque occurrence."
+              ]
+            },
+            {
+              "heading": "Le résultat se raconte dans l’activité",
+              "text": "L’échange peut porter sur l’utilité pratique et sur l’expérience vécue.",
+              "examples": [
+                "Esmée veut savoir si elle peut revenir à la table sans recommencer depuis le début.",
+                "Quelqu’un peut dire au rendez-vous que l’appui a aidé au travail et était moins accessible ailleurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer avec un soignant un essai qui vous convient",
+          "points": [
+            {
+              "heading": "Nommer ce qui doit rester possible",
+              "objective": "Choisir un objectif lié à une activité souhaitée.",
+              "exercise": [
+                "Indiquez la situation à travailler.",
+                "Dites ce que vous aimeriez pouvoir faire dans ce moment.",
+                "Convenez avec le soignant d’un essai limité."
+              ],
+              "benefit": "Le but peut rester lié à votre quotidien et à vos choix."
+            },
+            {
+              "heading": "Poser une question sur les consignes",
+              "objective": "Clarifier ce qui vous sera demandé.",
+              "exercise": [
+                "Reformulez la proposition avec vos mots.",
+                "Dites si une partie vous demande trop d’attention ou de temps.",
+                "Demandez comment l’adapter ou quand arrêter l’essai."
+              ],
+              "benefit": "Vous pouvez décider du cadre en comprenant ce que vous acceptez."
+            },
+            {
+              "heading": "Revoir l’expérience ensemble",
+              "objective": "Donner des informations utiles sur l’essai.",
+              "exercise": [
+                "Racontez une fois où l’appui était accessible.",
+                "Ajoutez un point difficile et ce qui se passait autour.",
+                "Demandez ce qui peut être gardé ou changé."
+              ],
+              "benefit": "Le suivi peut s’ajuster à partir de l’expérience réelle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le pli qui indique où reprendre",
+      "ending": "À l’essai suivant, Esmée garde le carnet vert ouvert à l’endroit où elle veut reprendre. Elle dit à Inès qu’elle revient dans quelques minutes. Quand elle revient, Inès a retrouvé le ticket et l’attend avec les programmes. Esmée termine sa démonstration en montrant le pli. Plus tard, elle note un seul exemple pour Camille. Elle aimerait expliquer ce qui l’a aidée à retrouver sa place et ce qui lui a demandé encore de l’effort.",
+      "mirror": [
+        "Inès peut dire « Je peux attendre avec les programmes jusqu’à ton retour. Tu veux que je garde le carnet ouvert à cette page ? » Elle peut demander combien de temps elle doit couvrir le stand. Les décisions sur les appuis de soin restent entre Esmée et Camille."
+      ],
+      "continuity": {
+        "choice": "Esmée convient d’un essai limité avec Camille et garde un exemple de reprise à la table.",
+        "next": "Inès demande ensuite si elle doit lui signaler les moments où elle croit remarquer la difficulté, et Esmée précise le soutien qu’elle souhaite."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Accepter du soutien sans demander à un proche de surveiller",
+      "description": "Inès voudrait savoir comment réagir si Esmée a besoin d’une pause. Elles distinguent un appui choisi d’une surveillance qui ajouterait de la gêne.",
+      "context": "En vérifiant les rôles du stand avec Inès",
+      "clinical_focus": "Différence entre soutien choisi et surveillance",
+      "clinical_intro": "Inès sait qu’Esmée est accompagnée pour sa trichotillomanie et lui demande si elle doit la prévenir lorsqu’elle pense remarquer une difficulté. Esmée redoute de se sentir observée au stand. Certaines formes de soutien peuvent aider lorsqu’elles sont choisies ensemble. Le récit montre comment les deux amies s’accordent sur une pause annoncée par Esmée et sur ce qu’Inès peut réellement prendre en charge.",
+      "opening": "Inès a imprimé les deux cartes de pause en plus des programmes. Sur l’une, elle a oublié la dernière lettre du nom du stand. Elle la tend à Esmée pour savoir si elles peuvent la recouper. Esmée pose les deux cartes à l’envers et propose de les garder sous le carnet vert. Elles n’en auront besoin que si la personne qui assure l’accueil change en cours de séance.\n\n« Et si je te vois hésiter, tu veux que je te le dise ? » demande Inès. Elle parle plus bas parce que deux élèves travaillent au fond de la salle. Esmée ne sait pas d’abord si son amie parle de la présentation. Elle l’entend préciser « si tu as besoin d’une pause et que tu ne le vois pas ». Elle se représente la table du marché avec Inès qui regarde ses gestes au lieu de regarder les gens. L’idée lui fait regretter un instant d’avoir donné le nom du trouble.\n\nElle se rappelle pourtant que la dernière fois, Inès avait gardé le carnet ouvert et qu’elle s’était sentie libre de revenir au moment convenu. Elle ne voudrait pas perdre cette aide. « Si j’ai besoin de la pause, j’aimerais te le dire moi-même », répond-elle. Inès regarde l’heure du stand. Elle doit s’occuper d’une caisse voisine pendant une partie de l’après-midi. Il leur reste à décider ce qui se passe quand elle n’est pas là.",
+      "conclusion": "Esmée garde l’initiative de la pause et Inès dit quand elle peut prendre le relais. Leur accord porte sur une action précise, tout en leur laissant leur place dans le projet.",
+      "number": 9,
+      "slug": "esmee-quand-ines-demande-quoi-faire",
+      "topics": [
+        "Soutien des proches",
+        "Consentement",
+        "Limites de l’aide"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Soutenir la personne et respecter son initiative",
+          "text": "La gêne liée à la trichotillomanie peut augmenter si la personne se sent scrutée. Le soutien d’un proche peut prendre une forme convenue, comme écouter, tenir brièvement un rôle ou accompagner une démarche demandée. La personne choisit ce qu’elle accepte et le proche indique ce qu’il peut faire. Esmée et Inès travaillent ici sur l’organisation du stand. Elles peuvent parler de l’effet de leur accord après l’avoir essayé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer un appui accepté d’une surveillance ?",
+          "points": [
+            {
+              "heading": "Le regard peut devenir une préoccupation de plus",
+              "text": "Une intervention bien intentionnée peut avoir un effet différent de celui recherché.",
+              "examples": [
+                "Esmée s’imagine devoir suivre ce qu’Inès remarque à chacun de ses gestes.",
+                "Quelqu’un peut se sentir moins libre de parler si chaque hésitation donne lieu à un commentaire."
+              ]
+            },
+            {
+              "heading": "Le signal peut venir de la personne",
+              "text": "Un accord donne la main à celle qui éprouve le besoin.",
+              "examples": [
+                "Esmée propose de dire elle-même quand elle veut s’éloigner de la table.",
+                "Une étudiante peut demander un relais après avoir constaté qu’elle veut reprendre l’échange plus tard."
+              ]
+            },
+            {
+              "heading": "L’aide dépend aussi de la disponibilité du proche",
+              "text": "Un rôle précis permet de tenir compte des engagements des deux personnes.",
+              "examples": [
+                "Inès tient une autre caisse une partie de l’après-midi.",
+                "Une amie peut être disponible pour dix minutes et avoir besoin d’un autre relais ensuite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour convenir d’un appui avec une personne de confiance",
+          "points": [
+            {
+              "heading": "Dire le geste souhaité",
+              "objective": "Remplacer une aide supposée par une demande explicite.",
+              "exercise": [
+                "Nommez la situation où vous aimeriez un appui.",
+                "Dites qui prendra l’initiative et avec quels mots.",
+                "Demandez ce que la personne peut faire."
+              ],
+              "benefit": "Chacune peut reconnaître le moment et la réponse qu’elle a acceptés."
+            },
+            {
+              "heading": "Prévoir un autre relais",
+              "objective": "Respecter les heures où votre proche n’est pas disponible.",
+              "exercise": [
+                "Repérez le moment où Inès tient l’autre caisse.",
+                "Demandez à l’organisatrice quel relais est possible à cette heure.",
+                "Confirmez ce que vous préférez partager avec elle."
+              ],
+              "benefit": "L’accord de travail peut continuer même si l’amie est occupée."
+            },
+            {
+              "heading": "Échanger après l’essai",
+              "objective": "Vérifier que l’aide a convenu aux deux personnes.",
+              "exercise": [
+                "Racontez un moment où elle a été utile.",
+                "Dites ce que vous voudriez modifier la prochaine fois.",
+                "Laissez votre proche décrire son expérience."
+              ],
+              "benefit": "Le soutien peut évoluer sans que l’une décide de tout pour l’autre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La carte reste sous le vert",
+      "ending": "Esmée montre à Inès comment elles peuvent laisser la carte sous le carnet vert. « Je te demanderai de tenir la table si j’en ai besoin. Si tu es à la caisse, je pourrai voir avec la prof. » Inès précise le créneau où elle ne sera pas disponible. Elles recoupent la carte avec le nom incomplet et l’utilisent pour caler le paquet de programmes. Esmée demande ensuite à son amie de vérifier quel prix elles ont affiché pour le cuivre.",
+      "mirror": [
+        "Inès peut dire « D’accord, je te laisse m’appeler. Je serai à l’autre caisse de quinze à seize heures. On peut demander qui serait là pendant ce créneau. » Elle peut vérifier le besoin pratique avant d’agir et continuer à parler des carnets, des prix et de la présentation qu’elles préparent."
+      ],
+      "continuity": {
+        "choice": "Esmée choisit comment demander une pause et elles prévoient un relais aux heures où Inès est occupée.",
+        "next": "Un changement du programme et une soirée plus longue remettent certains automatismes au premier plan."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Quand un imprévu remet un automatisme au premier plan",
+      "description": "Le programme change au dernier moment. Une soirée plus longue rappelle à Esmée un mode d’arrachage qu’elle remarquait moins depuis plusieurs jours.",
+      "context": "Après un changement d’horaire annoncé pour le marché",
+      "clinical_focus": "Retour d’un automatisme dans un contexte modifié",
+      "clinical_intro": "Esmée avait trouvé plus facile de reprendre son travail après une pause. Quand le programme du marché change et qu’elle reste tard à l’atelier, elle remarque de nouveau après coup qu’elle s’est arraché des cheveux. La trichotillomanie peut fluctuer. La scène montre ce qu’Esmée peut retenir de ce retour, en regard de l’aide qui avait été accessible dans des conditions différentes.",
+      "opening": "Le programme du marché porte deux heures de début. Esmée trouve l’ancienne en haut de la page et la nouvelle dans le message imprimé par la professeure. L’ouverture est avancée parce que la salle doit être rendue plus tôt. La caisse voisine changera de place et Inès ne pourra plus garder la table pendant l’installation. Elles ont besoin de deux nouveaux cartons et d’une affiche qui ne renvoie pas les gens vers la mauvaise entrée.\n\nLe soir, Esmée reste seule un peu plus longtemps pour couper les anciens horaires sur les programmes. Elle avait pris l’habitude de retrouver le carnet vert quand elle revenait à la table. Le carnet est déjà dans la caisse fermée qu’Inès a emportée. Au bout d’un moment, Esmée remarque qu’elle a de nouveau arraché des cheveux sans avoir vu le moment venir. Elle ouvre le téléphone pour écrire à Camille, puis se demande ce qu’elle pourrait dire à part « ça recommence ».\n\nElle retrouve le message de la professeure et le relit une fois. L’arrivée plus tôt, la nouvelle entrée et le temps de travail prolongé apparaissent sur la même page. Elle laisse deux programmes sans les couper. Elle aimerait demander à Inès si elles peuvent confier la mise à jour restante à l’organisatrice. Le transport des carnets occupe déjà tout le début de la matinée.",
+      "conclusion": "Le comportement est revenu dans des conditions différentes de l’essai précédent. Esmée peut en parler avec Camille et garder les appuis qui lui ont donné une place au stand.",
+      "number": 10,
+      "slug": "esmee-le-programme-a-lenvers",
+      "topics": [
+        "Variations dans le temps",
+        "Retour d’un automatisme",
+        "Ajustement du suivi"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contexte de l’essai a changé",
+          "text": "Le cours de la trichotillomanie peut comporter des fluctuations. Un retour du comportement peut survenir alors qu’un appui a été utile dans d’autres moments. Il peut être pertinent de décrire ce qui a changé autour de l’épisode, l’accès aux repères et l’effet sur les activités. Esmée a passé plus de temps à la table et le carnet n’était plus là. Camille pourra reprendre avec elle ces différences sans supposer qu’elles expliquent tout."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un changement de contexte peut-il rendre un appui moins accessible ?",
+          "points": [
+            {
+              "heading": "Plusieurs contraintes se déplacent ensemble",
+              "text": "Une modification d’horaire peut toucher la durée du travail et les personnes disponibles.",
+              "examples": [
+                "Le marché avance et Inès perd son ancien créneau à la table.",
+                "Une préparation qui devait se faire à deux peut être poursuivie seule un soir différent."
+              ]
+            },
+            {
+              "heading": "Le repère habituel manque",
+              "text": "Un appui lié au lieu ou à un objet peut être moins facile à retrouver ailleurs.",
+              "examples": [
+                "Le carnet vert est déjà dans la caisse emportée par Inès.",
+                "Une personne qui utilise un repère en classe peut le retrouver moins facilement sur un lieu de stage."
+              ]
+            },
+            {
+              "heading": "Le retour peut faire douter de tout l’essai",
+              "text": "La déception d’un épisode peut rendre moins visibles les situations où un appui a aidé.",
+              "examples": [
+                "Esmée pense d’abord écrire seulement que ça recommence.",
+                "Quelqu’un peut oublier qu’il a récemment repris une activité avec de l’aide quand une difficulté survient ailleurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un appui après un imprévu",
+          "points": [
+            {
+              "heading": "Situer ce qui a changé",
+              "objective": "Donner une image précise de la situation nouvelle.",
+              "exercise": [
+                "Notez le déplacement d’horaire.",
+                "Identifiez un repère ou une personne qui n’était plus disponible.",
+                "Décrivez l’effet sur la tâche."
+              ],
+              "benefit": "Le retour devient un exemple que vous pouvez discuter en consultation."
+            },
+            {
+              "heading": "Retrouver un relais pour le travail restant",
+              "objective": "Décider qui fait ce qui doit être prêt avant l’ouverture.",
+              "exercise": [
+                "Comptez les programmes qui doivent encore être corrigés.",
+                "Demandez à l’organisatrice qui peut s’en charger.",
+                "Confirmez votre rôle pour le transport des carnets."
+              ],
+              "benefit": "L’imprévu peut se régler à plusieurs, avec les disponibilités réelles."
+            },
+            {
+              "heading": "Comparer les essais avec la clinicienne",
+              "objective": "Comprendre dans quels contextes garder ou adapter l’appui.",
+              "exercise": [
+                "Décrivez une reprise qui vous avait convenu.",
+                "Apportez le nouvel exemple où le repère manquait.",
+                "Discutez de ce que vous aimeriez changer dans le prochain essai."
+              ],
+              "benefit": "Le suivi peut partir des différences entre les deux situations."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux programmes laissés entiers",
+      "ending": "Esmée envoie à Inès une photo des deux versions du programme et lui propose de prévenir l’organisatrice. Le lendemain, l’équipe décide de réimprimer l’horaire sur un seul carton près de l’entrée. Esmée garde les programmes qui restent pour expliquer le changement au rendez-vous. Elle demande aussi où elles pourront laisser le carnet vert pendant l’installation. Son rôle reste de préparer la présentation, avec la possibilité d’appeler la professeure si Inès est prise ailleurs.",
+      "mirror": [
+        "Inès peut dire « Je peux transmettre le nouvel horaire. Je ne pourrai pas tenir la table pendant l’installation. Voyons qui peut nous relayer. » Si Esmée lui raconte ce qui s’est passé le soir, elle peut écouter le besoin exprimé sans demander de détail sur l’arrachage."
+      ],
+      "continuity": {
+        "choice": "Esmée décrit le contexte du retour et l’équipe réorganise l’installation et la correction de l’horaire.",
+        "next": "Au marché, une visiteuse interrompt la présentation et Esmée cherche une réponse qui protège sa participation et son intimité."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Garder sa place au marché quand la conversation devient personnelle",
+      "description": "Esmée montre le pli vert au marché. Une question sort du sujet et elle utilise une phrase convenue pour revenir au carnet.",
+      "context": "Au marché des écoles, pendant la démonstration du carnet vert",
+      "clinical_focus": "Participation malgré une question personnelle",
+      "clinical_intro": "Une visiteuse s’intéresse au carnet vert, puis demande à Esmée pourquoi elle préfère parfois laisser Inès à l’accueil. La question fait revenir sa crainte d’être observée. La gêne associée à la trichotillomanie peut accompagner une activité que l’on décide de garder. Esmée essaie une limite simple et choisit ensuite de montrer ce qu’elle avait préparé.",
+      "opening": "Le marché s’entend d’abord depuis la rue. À l’entrée, l’affiche corrigée tient sur un seul carton et la professeure a entouré la bonne heure. Esmée arrive avec le carnet vert sous le bras. L’organisatrice lui montre l’emplacement réservé aux chaises. Inès l’aide à tirer la table vers la lumière, puis rejoint la caisse voisine comme elles en avaient parlé. La carte de pause est déjà sous le carnet.\n\nUne visiteuse ouvre le gris et demande si le vert s’ouvre de la même façon. Esmée lui montre le pli qui laisse la main libre. Une deuxième personne s’approche et la visiteuse demande si elle fait toujours les présentations seule. Esmée explique qu’elles se partagent l’accueil. La visiteuse ajoute qu’elle l’a vue en retrait lors de la répétition et se demande pourquoi. Elle avait sans doute participé à un autre stand ce jour-là. Esmée se souvient de la place derrière les boîtes et craint que la réponse prenne toute la conversation.\n\nLa professeure regarde vers la porte sans faire de signe. Le carnet vert reste ouvert. Esmée avait préparé une phrase avec Inès, et il lui faut un instant pour la retrouver. Elle pourrait aussi confier la table pour quelques minutes. La première visiteuse garde un doigt sur la page et attend de savoir de quel papier elle est faite.",
+      "conclusion": "Esmée a gardé la partie de la présentation qui lui tenait à cœur. La limite et la pause lui ont donné deux façons de participer avec l’appui qu’elle avait choisi.",
+      "number": 11,
+      "slug": "esmee-ouvrir-le-carnet-devant-la-visiteuse",
+      "topics": [
+        "Limite dans une conversation",
+        "Participation choisie",
+        "Peur du jugement"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une limite peut permettre de poursuivre un échange",
+          "text": "Lorsqu’une personne redoute le jugement lié à sa trichotillomanie, une question personnelle peut lui demander un effort supplémentaire. Elle peut choisir de répondre, de poser une limite ou de passer le relais. Dans le récit, Esmée veut continuer à parler du carnet et garder son suivi privé. La présence d’une difficulté et la décision de poursuivre peuvent coexister. Le choix lui appartient, comme celui de demander une pause si elle en a besoin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une question personnelle peut-elle peser sur la participation ?",
+          "points": [
+            {
+              "heading": "Le fil se déplace vers ce que l’on craint",
+              "text": "Une question inattendue peut ramener l’attention à la façon dont on se sent observé.",
+              "examples": [
+                "Esmée se rappelle la place derrière les boîtes pendant que la visiteuse attend.",
+                "Quelqu’un peut perdre le fil d’une explication quand on lui demande une raison privée."
+              ]
+            },
+            {
+              "heading": "Une limite prépare la reprise",
+              "text": "Une réponse courte peut donner une direction commune à la conversation.",
+              "examples": [
+                "Esmée retrouve la phrase qu’elle avait envisagée avec Inès.",
+                "Une personne peut dire qu’elle préfère parler du projet et demander ce que le visiteur veut voir."
+              ]
+            },
+            {
+              "heading": "Un relais reste possible",
+              "text": "La personne peut poursuivre ou demander du temps sans livrer d’informations de santé.",
+              "examples": [
+                "La carte reste sous le carnet et la professeure peut prendre la table.",
+                "Lors d’une réunion, un collègue peut reprendre une démonstration pendant une pause convenue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rester dans l’échange en gardant son intimité",
+          "points": [
+            {
+              "heading": "Choisir une limite brève",
+              "objective": "Dire où l’on souhaite que la conversation continue.",
+              "exercise": [
+                "Décidez si vous voulez répondre à la question.",
+                "Dites en une phrase ce que vous préférez garder privé.",
+                "Ramenez l’échange à un détail que vous souhaitez montrer."
+              ],
+              "benefit": "La personne en face peut comprendre votre limite et revenir au projet."
+            },
+            {
+              "heading": "Retrouver le geste préparé",
+              "objective": "S’appuyer sur un détail concret quand on a perdu le fil.",
+              "exercise": [
+                "Repérez la page qui est restée ouverte.",
+                "Nommez le détail du pli.",
+                "Laissez à la visiteuse le temps de comparer les deux carnets."
+              ],
+              "benefit": "La démonstration peut repartir d’un point visible pour les deux personnes."
+            },
+            {
+              "heading": "Utiliser le relais si nécessaire",
+              "objective": "Garder une façon acceptée de faire une pause.",
+              "exercise": [
+                "Faites la demande convenue à la personne disponible.",
+                "Indiquez ce qu’elle peut reprendre maintenant.",
+                "Choisissez quand vous pourrez revenir ou refaire le point."
+              ],
+              "benefit": "L’accueil peut continuer avec une limite claire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le papier sous le doigt de la visiteuse",
+      "ending": "Esmée dit qu’elle préfère parler des carnets et lui montre le papier resté sous son doigt. La visiteuse demande s’il résiste quand on écrit près du bord. Esmée lui tend une chute à essayer et lui laisse le temps de comparer les deux grains. Quand Inès revient, Esmée lui raconte qu’elle a donné leur phrase et qu’elle a pu poursuivre. Plus tard, elle lui demande de tenir la table quelques minutes pendant qu’elle sort chercher de l’eau.",
+      "mirror": [
+        "Inès peut demander « Tu veux que je reprenne la table ou que je reste près de toi ? » Elle peut accueillir une confidence après la présentation si Esmée souhaite en parler. Devant le public, elle peut revenir au prix, à l’ouverture ou au papier du carnet sans expliquer la raison de la pause."
+      ],
+      "continuity": {
+        "choice": "Esmée pose sa limite, présente le carnet puis demande la pause prévue.",
+        "next": "Après le marché, elle revient en consultation sur le comportement, sur la participation et sur ce qu’elle veut essayer ensuite."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    },
+    {
+      "title": "Faire le point sur le trouble et les activités que l’on retrouve",
+      "description": "Le marché est terminé et certains moments d’arrachage restent difficiles. Esmée apporte au suivi les appuis qui l’ont aidée à reprendre sa place.",
+      "context": "Après le marché, en consultation puis à l’atelier",
+      "clinical_focus": "Bilan des symptômes et du retentissement dans la durée",
+      "clinical_intro": "Esmée peut raconter une présentation qu’elle a gardée et une soirée où l’arrachage est revenu. Dans la trichotillomanie, un bilan peut tenir compte du comportement, de la détresse et de ce qui redevient possible au quotidien. L’épisode suit son choix de garder un appui à la table et de parler avec Camille des longues tâches qui restent difficiles.",
+      "opening": "Le dernier programme du marché était resté dans le carnet gris. Esmée le retrouve en ouvrant la couverture pour montrer à Camille la feuille sur laquelle elle avait noté la question de la visiteuse. Au dos, il y a la petite marque laissée par la pince qui tenait les prix. Esmée se rappelle le bruit de la salle et la première personne qui a acheté le cuivre après l’avoir fait passer de main en main.\n\nElle a envie de commencer par cette histoire. Elle voudrait aussi dire que la veille, en classant les commandes prises au marché, elle s’est aperçue après coup qu’elle s’était arraché des cheveux. L’atelier s’était vidé vite et le carnet vert avait été rangé dans une autre boîte. Elle l’a retrouvé plus tard avec la carte qui lui avait servi pour la pause. Elle ne sait pas comment mettre sur la même page la vente du cuivre, la difficulté de la veille et l’envie de faire d’autres carnets.\n\nCamille lui demande ce qu’elle aimerait que le prochain rendez-vous les aide à comprendre. Esmée touche le bord de la feuille. Elle voudrait préparer plus facilement le moment où elle se retrouve seule à trier. Elle veut aussi raconter à Inès que les visiteurs ont trouvé une autre façon d’ouvrir le vert. Elle a gardé une feuille de cette couleur pour essayer.",
+      "conclusion": "Le marché et les difficultés du tri ont chacun une place dans le bilan d’Esmée. Elle repart avec un appui qu’elle garde, une situation à retravailler et une nouvelle idée de reliure.",
+      "number": 12,
+      "slug": "esmee-la-derniere-feuille-pour-un-autre-carnet",
+      "topics": [
+        "Bilan du retentissement",
+        "Variations du comportement",
+        "Activité investie"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Plusieurs repères peuvent compter dans le bilan",
+          "text": "Dans le suivi de la trichotillomanie, les épisodes d’arrachage, l’envie, la gêne et les effets sur les activités peuvent évoluer à des rythmes différents. Esmée a retrouvé une place pendant la présentation et rencontre encore des difficultés au cours de tâches longues. Parler des deux permet de choisir ce qu’elle voudrait travailler ensuite. L’appréciation de la suite se fait avec la clinicienne et à partir de plusieurs situations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment décrire les progrès et les difficultés qui restent ?",
+          "points": [
+            {
+              "heading": "Une activité a repris une place",
+              "text": "Un changement peut se voir dans ce que la personne peut de nouveau faire.",
+              "examples": [
+                "Esmée montre le carnet vert et répond à une question sur le papier.",
+                "Une personne peut reprendre une partie d’une activité collective qui lui avait manqué."
+              ]
+            },
+            {
+              "heading": "Le comportement peut revenir dans d’autres moments",
+              "text": "L’amélioration dans un contexte peut coexister avec une difficulté ailleurs.",
+              "examples": [
+                "En triant les commandes, Esmée remarque après coup que l’arrachage est revenu.",
+                "Quelqu’un peut mieux se sentir pendant une rencontre et rester en difficulté lors d’un travail prolongé en solitaire."
+              ]
+            },
+            {
+              "heading": "La personne choisit la priorité suivante",
+              "text": "Le bilan peut déboucher sur une question que la personne souhaite traiter.",
+              "examples": [
+                "Esmée veut examiner le moment où elle reste seule à trier.",
+                "Une personne peut demander à garder un appui qui lui convient et à modifier celui qui lui coûte trop."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer le prochain point de suivi",
+          "points": [
+            {
+              "heading": "Garder un exemple de participation",
+              "objective": "Décrire une activité qui a de nouveau trouvé sa place.",
+              "exercise": [
+                "Nommez ce que vous vouliez faire au marché.",
+                "Expliquez quel appui vous a permis d’y prendre part.",
+                "Dites ce qui a encore demandé de l’effort."
+              ],
+              "benefit": "Le bilan peut rendre visible ce que l’expérience vous a apporté."
+            },
+            {
+              "heading": "Apporter une difficulté récente",
+              "objective": "Choisir un exemple que la clinicienne pourra reprendre avec vous.",
+              "exercise": [
+                "Situez la tâche pendant laquelle l’arrachage est revenu.",
+                "Dites ce que vous avez remarqué avant ou après.",
+                "Demandez si l’appui choisi peut être adapté à ce contexte."
+              ],
+              "benefit": "Le suivi peut avancer même si certains détails du moment vous échappent."
+            },
+            {
+              "heading": "Prévoir un prochain essai de travail",
+              "objective": "Garder une activité qui vous importe dans les conditions actuelles.",
+              "exercise": [
+                "Choisissez le carnet que vous voulez essayer.",
+                "Convenez avec Inès du temps de travail à deux.",
+                "Préparez un repère pour ce que vous ferez ensuite seule."
+              ],
+              "benefit": "Le projet peut continuer pendant que les appuis évoluent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une feuille verte reste dehors",
+      "ending": "Esmée conserve la carte de pause pour l’atelier et demande à Camille de revoir avec elle les moments où elle trie seule. De retour à l’école, elle retrouve Inès devant les commandes. Elles choisissent un lot à préparer ensemble avant la fermeture. Esmée sort la feuille verte et ouvre un carnet vierge à côté. Elle veut essayer le pli que la visiteuse avait fait d’un seul doigt. Elle laisse la feuille sur la table pour la montrer à la professeure demain.",
+      "mirror": [
+        "Inès peut dire « J’aimerais voir le pli de la visiteuse. Je peux trier un lot avec toi avant de partir. » Elle peut demander ce qu’Esmée souhaite garder de leur accord. La clinicienne s’occupe du suivi et les deux amies peuvent continuer à parler de ce qu’elles fabriquent ensemble."
+      ],
+      "continuity": {
+        "choice": "Esmée garde un appui et choisit le tri en solitaire comme prochain sujet à aborder au suivi.",
+        "next": "Les carnets continuent avec Inès, et Esmée retrouve Camille pour ajuster l’aide dans le contexte qu’elle a choisi."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-trichotillomanie",
+        "woods-trichotillomanie",
+        "carlson-trichotillomanie"
+      ]
+    }
+  ]
+}

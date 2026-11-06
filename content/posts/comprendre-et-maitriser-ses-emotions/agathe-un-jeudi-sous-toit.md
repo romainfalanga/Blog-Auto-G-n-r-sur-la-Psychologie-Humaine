@@ -34,14 +34,81 @@ Agathe barra son trajet sur le coin du plan. « Je peux dire où on part. Après
 
 Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront.
 
-## Comment cette difficulté se manifeste
+Agathe retient « tous » et « Camille » mais perd la relation entre les deux. L’annonce change à la fois le lieu, le nombre de visiteurs et le rôle des adultes. Un programme lisible distingue ce que la pluie reporte et ce que le groupe peut faire ailleurs.
 
-Elle retient deux mots et ne parvient pas à les relier tout de suite. Le changement de lieu explique une partie de l’effort : elle ne peut plus regarder le banc pour imaginer l’arrivée. Les appuis essayés au cabinet ou au jardin restent des possibilités. C’est à l’école de les adapter à cette nouvelle annonce avec Agathe et les autres élèves.
+## Comment un changement de programme peut-il brouiller un rôle pourtant préparé ?
 
-## Remettre les décisions dans l’ordre
+### Des mots restent sans lien clair
 
-On peut d’abord rendre la décision de Camille explicite : le jardin est fermé pour cette visite. Puis indiquer ce qui aura lieu et ce qui attendra, sur deux lignes que tout le groupe pourra relire. Agathe peut demander quel matériel sera présent et quel rôle elle peut encore avoir. Inès peut proposer de distribuer les feuilles ou de reprendre une partie de la présentation, en laissant Agathe dire ce qu’elle préfère garder. Mme Roussel et Camille choisissent et annoncent un lieu praticable ; les élèves n’ont pas à rattraper le programme en entrant dans le jardin fermé. L’objectif peut rester de laisser aux CM1 une carte et une décision à prendre.
+Retenir les personnes et les lieux n’indique pas nécessairement qui fait quelle action.
+
+**Exemples concrets**
+
+- Agathe a noté « tous » et « Camille » sans comprendre le nouveau rôle de Camille.
+- Une élève peut entendre « salle de lecture » et « boîte » sans savoir si elle doit apporter la boîte ou si elle y sera déjà.
+
+### L’ancien déroulement reste en tête
+
+La personne peut continuer à se représenter le lieu et les rôles préparés alors que l’annonce en modifie une partie.
+
+**Exemples concrets**
+
+- Agathe avait prévu de montrer le chemin depuis le vrai portillon.
+- Les élèves peuvent encore attendre deux visites alors que toute la classe viendra ensemble.
+
+### Les rôles peuvent être reconstruits à partir du nouveau lieu
+
+Quand les informations sont séparées, chacun peut décider ce qu’il garde et ce qu’il adapte.
+
+**Exemples concrets**
+
+- Agathe place un portillon en carton sur la table et conserve le début du trajet.
+- Camille montre la boîte dans la salle pendant qu’Inès distribue les copies.
+
+## 3 techniques pour retrouver ses repères dans un programme modifié
+
+### 1. Séparer ce qui se fait et ce qui attend
+
+Donner une place distincte à la fermeture et au nouveau rendez-vous.
+
+**Exercice pratique**
+
+- Annoncez d’abord ce qui a changé et pourquoi.
+- Écrivez sur une ligne ce qui est maintenu et sur l’autre ce qui est reporté.
+- Lisez les deux lignes à ceux qui doivent adapter leur rôle.
+
+L’ancien et le nouveau programme cessent de se superposer.
+
+### 2. Redonner une action à chaque nom
+
+Clarifier les responsabilités dans le nouveau cadre.
+
+**Exercice pratique**
+
+- Nommez la personne qui apporte chaque objet.
+- Vérifiez qui ouvre la présentation et qui distribue.
+- Faites confirmer les rôles avant d’annoncer le changement au groupe.
+
+Chacun peut savoir ce qu’il doit préparer.
+
+### 3. Remplacer un repère absent
+
+Garder la possibilité de montrer le début du trajet hors du jardin.
+
+**Exercice pratique**
+
+- Choisissez le détail sans lequel on ne sait pas d’où partir.
+- Représentez-le sur la table.
+- Faites essayer le départ à quelqu’un qui découvre le dispositif.
+
+Le groupe peut travailler dans le lieu prévu sans rouvrir le jardin.
 
 ## Le portillon sur la table
 
 À la salle de lecture, Mme Roussel déplaça une pile de revues pour libérer une table. Agathe choisit une place pour le grand plan et marqua le départ d’un petit morceau de carton debout. « Le portillon », dit-elle à Inès, qui le regarda de travers. Agathe inclina le carton : maintenant on pouvait voir les barreaux. Elles convinrent qu’Inès distribuerait les copies, que Camille montrerait la boîte et qu’Agathe commencerait le trajet. Quand les questions viendraient, elles poseraient la question des fleurs à côté du plan. Avant de fermer son sac, Agathe glissa son petit papier « laquelle d’abord ? » dans la poche de devant.
+
+---
+
+**Conclusion**
+
+Agathe peut retrouver son rôle dès que les nouvelles tâches sont visibles. Son petit portillon rend le départ possible dans la salle de lecture. La visite du jardin reste reportée et la question sur les fleurs garde sa place pour les CM1.

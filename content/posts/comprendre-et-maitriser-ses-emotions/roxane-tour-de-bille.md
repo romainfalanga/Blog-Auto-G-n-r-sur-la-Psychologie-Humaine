@@ -29,22 +29,85 @@ Deux élèves qu’elle connaît peu viennent jouer. Roxane explique ce que l’
 
 Il reste assez de temps avant la sonnerie pour discuter ou pour jouer. Roxane trace un petit trait là où sa bille se trouvait avant le choc. Puis elle la fait rouler contre le bouchon et la remet au trait. La fille voit enfin la différence. Elle demande pourquoi on peut rejouer autant de fois qu’on veut. Roxane n’avait pas pensé à ce cas. Elle veut bien changer la règle si tout le monde doit en suivre une qui a été choisie ensemble.
 
-## Se comprendre et être d’accord sont deux choses
+## Ce qu’on perd quand le tour avance
 
-Les situations où un enfant se fait bien comprendre peuvent coexister avec des échanges qui restent difficiles. Dans une conversation qui avance vite, la personne qui écoute n’a parfois que quelques mots pour retrouver l’intention du locuteur. Une phrase enregistrée à l’école, avec un sujet connu de Zoé, et une règle donnée à la récréation à deux élèves peu familiers demandent des choses différentes.
+Une difficulté à se faire comprendre peut avoir un coût social quand le groupe agit avant que la personne ait pu préciser sa phrase. Chez Roxane, le trouble des sons de la parole rend certains mots moins faciles à reconnaître. À la récréation, les nouveaux joueurs disposent de peu de contexte et les billes avancent. L’erreur de compréhension prend alors la forme d’un tour perdu.
 
-## Comment cette difficulté se manifeste
+Une démonstration rend sa règle discutable. Une camarade peut objecter, un autre joueur améliorer le tracé et Roxane peut garder sa place dans la décision. Réparer le malentendu signifie ici retrouver le droit ordinaire de jouer avec les autres.
 
-Le tour de bille perdu ne permet pas de conclure que la parole de Roxane s’est dégradée.
+## Comment un malentendu peut-il coûter une place dans un jeu ?
 
-La démonstration rend sa proposition claire. La fille qui joue la comprend et y voit un inconvénient. Cette objection a de la valeur pour Roxane : son idée vient d’être entendue, et elle peut maintenant discuter de la règle avec une autre joueuse. Une aide à la communication doit laisser de la place à ce genre de désaccord.
+### L’action avance sur une hypothèse
 
-## Changer le jeu à plusieurs
+Un groupe peut agir aussitôt sur la partie de phrase qu’il a comprise. Le reste devient difficile à ajouter après coup.
 
-Roxane propose un seul nouvel essai avant de passer la main. Le garçon ajoute que le trait doit être visible de chaque côté du bouchon. Nassim trouve un morceau de craie qui tient encore entre deux doigts. On trace les marques pendant que Roxane montre à la fille la différence entre revenir au trait et sortir du parcours.
+**Exemples concrets**
 
-Nassim peut aider en suivant la règle, comme tous les joueurs. S’il a encore un doute, il peut montrer l’endroit qu’il imagine et attendre sa réponse avant de prendre une bille qui ne lui appartient pas. Roxane n’a pas besoin d’une personne désignée pour tous ses échanges. Dans la cour, elle veut jouer sa bille et garde la possibilité de demander à quelqu’un de l’aider au moment où cela lui sert.
+- Une élève entend la fin de la règle et croit que Roxane doit passer sa main.
+- Dans un jeu de ballon, des enfants commencent une nouvelle manche avant qu’un joueur ait pu expliquer pourquoi le point reste à jouer.
+
+### Il faut interrompre la partie pour se faire entendre
+
+Quand les autres sont déjà passés à l’action, reprendre sa proposition demande davantage que préciser un mot.
+
+**Exemples concrets**
+
+- Roxane montre le trait avec sa bille pour revenir à la règle qu’elle essayait de proposer.
+- Un joueur peut montrer sa carte encore retournée pour signaler que son tour n’a pas commencé.
+
+### L’accord sur le message ouvre la discussion
+
+Être compris permet à l’autre de répondre à l’idée, y compris de s’y opposer. L’enfant retrouve alors une place active dans le groupe.
+
+**Exemples concrets**
+
+- La fille voit la différence entre revenir au trait et sortir du parcours, puis propose sa modification.
+- Deux enfants peuvent convenir d’un trait de chaque côté du bouchon une fois qu’ils parlent de la même règle.
+
+## 3 techniques pour garder sa place après un malentendu
+
+### 1. Retenir le jeu à l’endroit précis
+
+Éviter que le tour avance avant la vérification.
+
+**Exercice pratique**
+
+- Posez la bille là où la discussion s’est arrêtée.
+- Dites : « Je crois que tu proposes de partir d’ici ; c’est ça ? »
+- Attendez la confirmation de la personne qui parlait.
+
+Une pause courte laisse le temps de réparer le malentendu sans rejouer toute la manche.
+
+### 2. Montrer la différence entre deux règles
+
+Donner au groupe un moyen commun de comparer les idées.
+
+**Exercice pratique**
+
+- Montrez les deux départs possibles du doigt ou avec un objet.
+- Demandez à l’auteur de la proposition lequel il veut essayer.
+- Faites un tour d’essai avant de choisir ensemble.
+
+La discussion porte sur les effets de la règle et chacun peut y contribuer.
+
+### 3. Laisser une marque pour la reprise
+
+Éviter de devoir redonner tout le contexte au retour.
+
+**Exercice pratique**
+
+- Repérez le point où l’accord a été trouvé.
+- Tracez-le ou notez-le avec le groupe.
+- Au prochain tour, montrez la marque avant que quelqu’un ne joue.
+
+Le repère reste disponible même si des joueurs changent.
 
 ## À elle d’essayer la pente
 
 Roxane récupère son tour. La bille part du trait, longe le bouchon et s’arrête un peu trop tôt dans la terre. Elle renonce à la pousser du bout du doigt : tout le monde a vu où elle s’est arrêtée. La fille tente de passer du côté du mur. Quand la sonnerie retentit, Roxane et Nassim dessinent le bouchon à la craie pour retrouver sa place le lendemain. Au moment de ranger la bille, Roxane garde un peu de craie au pouce. Elle voudrait que les joueurs de la médiathèque aient, eux aussi, un endroit pour déposer une première idée avant d’entendre la suite.
+
+---
+
+**Conclusion**
+
+Quand Roxane retrouve son tour, elle peut aussi entendre l’objection de l’autre joueuse. Leur craie garde une trace de la décision commune. À la médiathèque, elle veut offrir le même genre de repère aux personnes qui voudront proposer une première réponse.

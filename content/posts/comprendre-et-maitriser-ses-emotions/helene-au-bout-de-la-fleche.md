@@ -29,24 +29,85 @@ La cliente suit la flèche. Elle prend une tasse, revient jusqu’au montant et 
 
 Maud arrive avec la photo pour la lettre et le planning du mardi. Hélène fait d’abord glisser l’étiquette des bols de quelques centimètres. Puis elle regarde la photo : une silhouette se reflète dans la pochette. Elle demande à Maud de reprendre la photo un pas sur le côté. Pour le planning, elle veut savoir si les travaux sont toujours en cours.
 
-## Garder le choix du soutien après l’essai
+## Garder la main sur les appuis au fil des situations
 
-Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie.
+Le trouble du développement intellectuel s’inscrit dans la durée. Les apprentissages continuent et l’appui utile peut changer selon la tâche et l’environnement. Hélène ajuste ses panneaux à partir de ce que les clients voient ; pour le prochain trajet dévié, elle choisit un contact joignable sur une seule partie du parcours. Les deux décisions relèvent de ce qu’elle veut faire et de l’aide qu’elle souhaite à ce moment.
 
-## Comment cette difficulté se manifeste
+## Comment l’autonomie se voit-elle quand les appuis restent ajustables ?
 
-Hélène a désormais deux plans pour rejoindre le dépôt. Elle a fait le détour depuis Tannerie et peut choisir l’aide qu’elle souhaite si la déviation continue. Cela n’empêche pas de revenir au trajet de Verrerie quand l’arrêt rouvrira.
+### La personne continue de corriger ce qu’elle a conçu
 
-La HAS conseille d’ajuster les appuis avec la personne et de vérifier les renseignements qui lui permettent de se projeter. Le planning ne lui dit rien sur les travaux. Maud peut lui confirmer quelle ligne du plan correspond au mardi et lui demander si le contact prévu est encore disponible. Hélène peut choisir d’appeler avant de monter ou de convenir d’un rendez-vous à la boîte à livres.
+Une réalisation aboutie peut encore demander une correction de métier, décidée par la personne.
 
-## Faire le point sur le rayon sans transformer le bilan en examen
+**Exemples concrets**
 
-Hélène a tenu son projet : elle a conçu des panneaux, demandé aux clients comment ils s’en servaient, modifié leur emplacement et fait installer les deux indications. Le rayon changera de nouveau quand les objets se vendront ou quand un meuble bougera. Les petites corrections appartiennent à la vie du magasin. Elles ne disent rien à elles seules de la valeur du travail ni de ce que la personne qui l’a fait peut réussir ailleurs.
+- Hélène rapproche l’étiquette des bols d’un endroit où la vis ne gêne plus la lecture.
+- Une personne déplace une indication après qu’un collègue lui a montré ce qu’on voit depuis le comptoir.
 
-Maud peut garder une trace des emplacements choisis et du moment où l’équipe regardera si les panneaux conviennent encore. Hélène pourra dire si elle veut participer à une prochaine modification, comme elle a pu arrêter le premier essai. Le projet lui donne une place dans les décisions sur son rayon, avec les collègues qui travaillent autour.
+### La forme d’un soutien suit l’imprévu
+
+Une aide ponctuelle peut être utile sur une seule partie du trajet.
+
+**Exemples concrets**
+
+- Hélène veut un message d’Ilyes avant de partir, pour savoir s’il sera joignable sur le bout à pied.
+- Une personne prend le bus qu’elle connaît et demande un contact pour vérifier la sortie provisoire.
+
+### Le choix garde sa place dans plusieurs domaines
+
+Une demande d’appui au travail ne résume pas les autres décisions de la journée.
+
+**Exemples concrets**
+
+- Dans la cour, Hélène choisit sa part de tarte et laisse Léa choisir la sienne.
+- Une personne demande de l’aide pour une nouvelle consigne au travail et décide elle-même comment recevoir ses amis le soir.
+
+## 3 techniques pour garder des appuis que la personne peut ajuster
+
+### 1. Vérifier l’utilité après l’installation
+
+Savoir quelle correction un usage réel demande.
+
+**Exercice pratique**
+
+- Demandez à une personne de montrer d’où elle a lu l’indication.
+- Examinez un détail qui gêne depuis ce point de vue.
+- Modifiez-le et regardez de nouveau le résultat.
+
+L’amélioration du travail se poursuit à partir d’observations concrètes.
+
+### 2. Caler un appui sur un moment précis
+
+Pouvoir choisir le soutien selon le trajet réel.
+
+**Exercice pratique**
+
+- Vérifiez quelle partie du parcours a changé.
+- Demandez au contact s’il sera disponible sur cette partie.
+- Convenez d’un autre relais avec l’équipe si nécessaire.
+
+L’aide reste prévisible et s’ajuste à la circonstance.
+
+### 3. Revoir ce qui relève de chaque personne
+
+Éviter qu’un appui temporaire devienne automatiquement permanent.
+
+**Exercice pratique**
+
+- Dites ce que vous voulez continuer à faire vous-même.
+- Nommez ce que l’équipe doit organiser ou confirmer.
+- Prévoyez de reparler de l’aide si les conditions changent.
+
+Les responsabilités sont partagées sans retirer à la personne la décision sur l’appui qu’elle souhaite.
 
 ## La chaise en rotin trouve preneuse
 
 Maud reprend la photo de biais. Hélène la regarde : on y voit les panneaux et le rayon. Elle valide ce cadrage. Pour mardi, les travaux sont confirmés. Elle demande qu’Ilyes lui envoie, avant son départ, un message qui dit s’il sera joignable pendant le bout à pied. S’il ne peut pas, elle et Maud fixeront un autre appui avant le rendez-vous.
 
 Le soir, dans la cour, une amie choisit la chaise en rotin parce que c’est la seule où elle peut étendre les jambes sous la table. Hélène a laissé le carton de la tarte fermé jusqu’à ce que tout le monde soit assis. Quand elle l’ouvre, le dessus est fendu au milieu. Léa lui tend le couteau. Hélène lui passe d’abord la pelle à tarte : elle s’est gardé la part avec le plus de croûte, Léa peut choisir la sienne.
+
+---
+
+**Conclusion**
+
+Les flèches restent à la recyclerie et Hélène a choisi comment préparer le prochain détour. Le soir, la chaise en rotin trouve sa place autour d’un autre projet, le dîner qu’elle a organisé avec Léa.

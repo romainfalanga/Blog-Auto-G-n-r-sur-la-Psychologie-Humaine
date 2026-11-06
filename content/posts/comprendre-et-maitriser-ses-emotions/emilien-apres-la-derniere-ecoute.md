@@ -29,22 +29,83 @@ Ils ont apporté deux extraits et la petite enceinte. Émilien a expliqué en en
 
 Après le message qu’il avait laissé sous l’auvent, Émilien a reparlé avec l’équipe des changements de sommeil et de ce qu’il voulait savoir lorsqu’un signe reste ambigu. Ils ont vérifié le contact en dehors des heures habituelles. Il retrouve le papier dans sa poche en sortant de quoi noter l’heure de la prochaine écoute. Sur le même coin de table, il y a la version à faire entendre et une question qu’il garde pour son prochain rendez-vous. Il sait mieux maintenant à quel moment il veut sortir l’une ou l’autre.
 
-## Comprendre pourquoi le suivi peut évoluer avec la personne
+## Un plan de suivi qui reste utile dans la durée
 
-Le NICE recommande de reparler de la prise en charge dans la durée, notamment après un épisode, avec les objectifs et les préférences de la personne. Un plan peut être revu quand un contact change, qu’un signe a été difficile à interpréter ou que le rôle d’un proche ne lui convient plus.
+La prévention des rechutes dans le trouble bipolaire peut comprendre un plan revu avec l’équipe, y compris après des périodes où les activités reprennent. Un signe difficile à interpréter, un contact devenu inaccessible ou le rôle d’un proche peuvent demander un ajustement. Émilien vérifie ce qu’il pourra faire en dehors des heures habituelles après l’incertitude de l’auvent. Dans le même temps, il continue de monter les extraits avec Dorian.
 
-## Des signes de sommeil encore difficiles à interpréter
+## Comment un plan de prévention évolue-t-il au fil du projet ?
 
-À l’écoute du marché, Émilien se concentre sur deux retouches et entend les propositions des commerçants. Il retrouve en même temps le papier qu’il a gardé après son appel sous l’auvent. À ce moment-là, des changements de sommeil lui rappelaient son épisode, mais il avait envie de dormir davantage. La rencontre lui montre ce qu’il peut de nouveau faire au travail. La question de ses nuits reste à examiner avec l’équipe.
+### L’expérience révèle les détails qui manquent
 
-## Garder au projet sa propre mesure
+Une situation vécue peut préciser ce qui rend le plan utilisable quand les signes sont ambigus.
 
-À la fin de cette écoute, les commerçants n’ont pas tous voulu la même chose. L’accord sur un extrait n’emporte pas l’accord sur tout le dossier. Dorian et Émilien peuvent fixer ce qu’ils vont modifier, à qui ils feront entendre la version suivante et quand ils veulent s’arrêter. Émilien peut garder du temps pour autre chose, sans que chaque nouvelle idée oblige le groupe à ouvrir un deuxième chantier.
+**Exemples concrets**
 
-Lucie n’a pas participé à la restauration et ne tient pas le calendrier des rendez-vous. Émilien peut choisir de lui faire écouter le passage dont la vendeuse a parlé. C’est aussi une manière de lui raconter sa journée, au même titre qu’elle lui raconte son détour à vélo.
+- Émilien revient en entretien sur la nuit courte et la vitesse des idées sous l’auvent.
+- Il vérifie avec l’équipe le contact à utiliser en dehors des heures habituelles.
 
-Au prochain rendez-vous, Émilien peut reprendre le moment où il a utilisé le contact et poser sa question sur les soirs où il travaille. Il peut discuter des difficultés qui restent et des activités qu’il souhaite retrouver.
+### Les activités ont leurs propres repères
+
+Les buts personnels peuvent avancer avec le suivi. Ils ont aussi des exigences qui leur appartiennent.
+
+**Exemples concrets**
+
+- Au marché, la vendeuse demande de garder l’annonce entière. Ce choix revient à ceux qui écoutent et montent l’extrait.
+- Le fleuriste demande une coupe pour respecter une personne absente avant toute diffusion.
+
+### Le rôle du proche garde une mesure
+
+Un accord peut rester simple et être repris si les habitudes ou la disponibilité changent.
+
+**Exemples concrets**
+
+- Le feuillet de contact reste sous l’aimant, à un endroit qu’Émilien et Lucie connaissent.
+- À table, Lucie peut raconter son détour à vélo avant de choisir si elle veut entendre le montage.
+
+## 3 techniques pour entretenir un plan de suivi dans la durée
+
+### 1. Tester le plan sur une situation réelle
+
+Retrouver ce qui a servi et ce qui a manqué quand une question est arrivée.
+
+**Exercice pratique**
+
+- Racontez à l’équipe le dernier moment où vous avez hésité à demander un avis.
+- Vérifiez avec elle les contacts et les horaires qui vous auraient été utiles.
+- Remplacez la page de contact par la version dont vous avez convenu.
+
+Un plan revu à partir d’une expérience est plus facile à utiliser dans des circonstances proches.
+
+### 2. Réviser la part du proche
+
+Ajuster l’accord sans lui demander de suivre tout le dossier.
+
+**Exercice pratique**
+
+- Rappelez le geste concret que vous aviez convenu.
+- Demandez si ce geste est toujours acceptable et faisable.
+- Notez avec lui la solution de rechange si l’accord change.
+
+L’appui peut durer parce que chacun connaît ses limites et les relais.
+
+### 3. Faire place au prochain projet
+
+Conserver des objectifs personnels précis en même temps que le suivi.
+
+**Exercice pratique**
+
+- Choisissez la prochaine décision qui appartient au projet.
+- Notez séparément la question de santé que vous souhaitez poser.
+- Convenez avec les personnes concernées du moment où chacune de ces questions sera reprise.
+
+Le suivi garde une place sans décider du contenu du travail ni des moments à partager.
 
 ## Deux retouches avant de diffuser
 
 Avant de ranger l’enceinte, Émilien écoute une dernière fois l’annonce du prix. Cette fois, il remarque que le chariot repart avant le rire. Il note la coupe, remercie la vendeuse et tend à Dorian la liste des deux changements qu’ils ont acceptés. À la maison, Lucie a remis le feuillet de contact sous l’aimant. Émilien pose le casque à côté de leurs assiettes. Il lui demande si elle voudra écouter après dîner. Elle finit d’abord de lui raconter comment son amie a raté le chemin du pont.
+
+---
+
+**Conclusion**
+
+Émilien et Dorian repartent avec deux retouches validées par les commerçants. Le projet a retrouvé un rythme, et l’équipe a précisé le recours qui manquait à Émilien. Ces accords lui permettent de continuer le montage et de revenir vers les soignants si un doute se présente.

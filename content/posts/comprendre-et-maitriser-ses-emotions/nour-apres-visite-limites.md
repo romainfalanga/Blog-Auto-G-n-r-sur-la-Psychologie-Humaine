@@ -28,22 +28,83 @@ Dans la conversation du quartier, plusieurs personnes proposent déjà de recomm
 
 Fatou lui écrit qu’elle peut rassembler les retours avant qu’elles en parlent et préparer un rendez-vous si Nour le souhaite. Nour pose son téléphone contre la chemise. Elle voudrait savoir ce qui a marché pour les gens et garder du temps pour relire la légende. Elle ne se voit pas recommencer avec quatre départs. Avant de répondre, elle ouvre un document où elle note ce qu’elle accepte de préparer et ce qu’elle laisserait volontiers aux autres.
 
-## Le temps que la sortie a pris ensuite
+## La récupération fait partie du coût d’une sortie
 
-Le coût d’une activité peut aussi se voir dans les heures ou les jours qui suivent. Nour aime la recherche autour de l’enseigne. Elle a dû reprendre la carte, gérer un changement puis quitter le kiosque quand l’enceinte s’est mise à jouer. À la maison, elle a reporté certaines tâches. Ce qu’elle retient de la visite inclut l’intérêt des voisins et le temps dont elle a eu besoin avant de s’occuper de la suite.
+Chez certaines personnes autistes, l’effort sensoriel et social peut continuer à se faire sentir après une activité appréciée. On peut retrouver l’envie de parler de la visite avant d’avoir assez de disponibilité pour recommencer. Après le kiosque, Nour remarque ce qu’elle a reporté chez elle et le lendemain. Ces effets comptent quand le groupe lui propose déjà plusieurs départs.
 
-L’OMS indique que certaines difficultés peuvent demander des efforts qui échappent à l’entourage.
+## Comment la récupération se voit-elle dans les heures et les jours qui suivent ?
 
-## Comment cette difficulté se manifeste
+### Les tâches reportées donnent une mesure de l’effort
 
-Pour Nour, regarder ce qui s’est passé après la sortie donne une information de plus. Sa fatigue ne dit pas à elle seule ce qui l’a causée. Si elle persiste ou change, elle peut revenir sur les éléments qu’elle a apportés en consultation et en discuter avec un professionnel de santé. Avec les voisins, elle peut parler du temps qu’elle peut offrir au prochain projet.
+Le coût d’une sortie peut se lire dans ce que la personne doit déplacer après être rentrée.
 
-## Choisir une part du travail qui reste possible
+**Exemples concrets**
 
-Fatou peut envoyer à Nour quelques retours sur les trajets et les pauses, en conservant les remarques sur ce qui était difficile. Nour souhaite les lire avant une discussion. Elle propose de préparer une légende courte et de revoir l’adresse du départ. Elle laisse les messages d’inscription à celles et ceux qui veulent les traiter. Si les personnes disponibles ne peuvent assurer qu’un seul départ, le groupe peut choisir un rendez-vous unique.
+- Nour avait prévu de reprendre une traduction et la laisse en attente après le kiosque.
+- Le lendemain, elle décale encore une conversation avec Fatou.
 
-Le NICE recommande de partir des souhaits et des besoins de la personne dans l’accompagnement. Cette sortie lui donne un moyen d’exprimer des préférences concrètes. Nour veut pouvoir participer comme voisine, même si elle a écrit la carte. Elle garde le droit de relire une partie du projet, de proposer une idée ou d’arriver seulement pour écouter un récit. Les organisateurs peuvent convenir d’un relais qu’ils sont capables de prendre.
+### L’intérêt revient à un autre rythme
+
+L’envie de retrouver une information peut précéder celle de refaire tout le parcours.
+
+**Exemples concrets**
+
+- Nour veut demander au voisin où il a vu l’ancienne entrée.
+- Elle prend plaisir à retrouver le nom de l’arrêt sur la carte et ne se voit pas tenir quatre départs.
+
+### La nouvelle demande arrive avant le bilan
+
+Une proposition enthousiaste peut pousser à répondre avant de savoir quelle part on veut reprendre.
+
+**Exemples concrets**
+
+- Des voisins suggèrent un départ toutes les demi-heures.
+- Nour ouvre le calendrier, retrouve son créneau de relecture et commence à noter les tâches qu’elle préfère laisser au groupe.
+
+## 3 techniques pour tenir compte de la récupération avant de recommencer
+
+### 1. Regarder ce qui a été décalé
+
+Évaluer l’effort au-delà de la durée de la sortie.
+
+**Exercice pratique**
+
+- Relevez l’activité que vous aviez prévue en rentrant.
+- Notez ce que vous avez finalement reporté, y compris le lendemain.
+- Utilisez ces repères avant de proposer une nouvelle date.
+
+Le prochain rendez-vous peut tenir compte du temps nécessaire après l’activité.
+
+### 2. Laisser les retours arriver en une fois
+
+Réduire la dispersion des messages pendant que l’on reprend ses autres tâches.
+
+**Exercice pratique**
+
+- Demandez à une personne volontaire de recueillir les retours.
+- Convenez d’un seul moment ou d’un document pour les lire.
+- Posez la question qui vous intéresse quand vous avez le temps d’y revenir.
+
+La curiosité pour le projet peut reprendre sans exiger une disponibilité continue.
+
+### 3. Choisir sa part du prochain rendez-vous
+
+Prendre un engagement qui tient avec le travail et la récupération.
+
+**Exercice pratique**
+
+- Nommez la tâche que vous souhaitez garder.
+- Précisez l’horaire ou le nombre de départs que vous pouvez accepter.
+- Demandez qui souhaite prendre le reste avant d’annoncer la suite.
+
+La visite peut avoir lieu avec une répartition différente des efforts.
 
 ## Une seule heure sur le calendrier
 
 Nour relit le nom ajouté au crayon sur la carte et répond au voisin qui avait emprunté le quai. Elle lui demande s’il a vu un banc près de l’ancien porche. Elle écrit ensuite au groupe qu’elle peut préparer la légende pour une deuxième visite, à partir d’un seul rendez-vous. Fatou accepte de chercher qui pourra orienter les personnes ce jour-là. Nour demande à Joël s’il veut revenir sur son idée d’enregistrement. Elle précise qu’elle peut le retrouver à l’atelier de gravure, après son travail, et qu’elle aimerait d’abord comparer deux versions écrites.
+
+---
+
+**Conclusion**
+
+Nour peut demander où se trouve le banc et réserver du temps pour sa traduction. Elle propose un seul rendez-vous et garde la légende. Ce que la première sortie lui a demandé reste visible dans cette nouvelle répartition.

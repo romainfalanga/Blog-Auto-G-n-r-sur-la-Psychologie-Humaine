@@ -28,22 +28,83 @@ Inès retourne la feuille. Adèle retrouve la ligne sur les repas, juste au-dess
 
 Depuis que l’équipe qui la suit lui a expliqué le trouble évitant ou restrictif de la prise alimentaire, Adèle utilise parfois les initiales ARFID avec sa mère. Ici, Inès a déjà repris la feuille pour chercher le nom du centre. Adèle la laisse finir. L’an dernier, elle a manqué une sortie d’une journée quand les repas étaient restés un point sans réponse. Cette fois, avant que Mme Roussel empile les fiches, elle se lève avec la sienne.
 
-## Comment la restriction alimentaire déborde du repas
+## Quand la difficulté à manger change le programme
 
-Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile. Pour d’autres, le manque d’intérêt pour l’alimentation ou la crainte de conséquences pénibles joue davantage.
+Dans le trouble évitant ou restrictif de la prise alimentaire, appelé ARFID, la restriction ou l’évitement ont des conséquences importantes sur la santé physique, la vie quotidienne ou les deux. Les difficultés peuvent être liées aux sensations, à une crainte ou au peu d’intérêt pour l’alimentation. Chez Adèle, c’est la consistance de certains aliments qui soulève le cœur. Le problème se retrouve jusque sur une fiche de sortie scolaire.
 
-## Comment cette difficulté se manifeste
+## Comment une difficulté alimentaire peut-elle peser sur la vie sociale ?
 
-Ce qui met Adèle en difficulté à midi est la consistance de ce qu’on lui propose. Le problème revient au moment de l’inscription : une activité scolaire qui lui plaît reste difficile à envisager tant qu’elle ne sait pas dans quelles conditions se passeront les repas.
+### La question du repas arrive avant l’activité
 
-Les professionnels évaluent le retentissement dans le temps et dans les différents lieux de vie. Refuser un aliment par préférence, ou s’être trouvé mal à l’aise à un repas, ne permet pas de conclure. Une scène de cantine ne résume pas le suivi d’Adèle. Elle aide à comprendre pourquoi la question des repas mérite une discussion, même lorsque l’activité prévue lui plaît beaucoup.
+On peut avoir envie de partir et hésiter parce que les conditions pour manger restent inconnues.
 
-## Poser une question avant de rendre la fiche
+**Exemples concrets**
 
-Adèle veut connaître la marge de discussion avant de donner une réponse définitive. Elle peut s’adresser à Mme Roussel au sujet de ce que l’école organise : les conditions du séjour, les personnes présentes et ce qu’elles peuvent faire. L’équipe spécialisée reste son interlocutrice pour les besoins liés à l’alimentation et à la santé. Le premier échange avec la professeure peut rester bref. Une demande de rendez-vous permet de sortir la question des repas du passage des fiches de main en main.
+- Adèle coche la visite du tissage et s’arrête quand elle lit que les repas seront pris en groupe.
+- Une adolescente veut jouer avec son équipe en déplacement et hésite au moment de l’inscription faute de savoir à qui parler du repas.
 
-Le premier choix d’activité a aussi sa place sur le papier. Le garder visible donne à Mme Roussel une information utile : Adèle veut visiter l’atelier et cherche un moyen d’y aller dans des conditions envisageables. La professeure pourra retenir ce souhait pendant que les adultes vérifient la suite.
+### Un départ peut être écarté sans que l’intérêt disparaisse
+
+Renoncer à une activité donne parfois une idée du retentissement qu’un repas observé ne montre pas.
+
+**Exemples concrets**
+
+- Adèle a déjà manqué une sortie quand la question des repas était restée sans réponse.
+- Une invitation à un anniversaire plaît à quelqu’un qui préfère finalement ne pas y aller parce qu’il ne sait pas comment s’y passera le déjeuner.
+
+### Le besoin peut rester difficile à dire
+
+Dans un groupe, il faut parfois trouver une façon d’aborder une question de repas sans exposer son vécu.
+
+**Exemples concrets**
+
+- Adèle attend la fin de la classe pour parler à Mme Roussel.
+- Un élève garde le formulaire dans son sac jusqu’à ce qu’il puisse demander qui organise les repas.
+
+## 3 techniques pour préparer une activité qui comporte des repas
+
+### 1. Garder l’activité souhaitée visible
+
+Faire comprendre ce que vous aimeriez pouvoir faire.
+
+**Exercice pratique**
+
+- Notez votre premier choix sur la fiche ou le programme.
+- Repérez la question de repas qui empêche encore de confirmer.
+- Demandez un moment privé à l’adulte qui organise l’activité.
+
+L’école connaît votre souhait pendant que les conditions restent à vérifier.
+
+### 2. Vérifier qui peut répondre
+
+Distinguer les modalités scolaires des besoins de santé.
+
+**Exercice pratique**
+
+- Demandez qui décide des lieux et des horaires.
+- Avec votre parent ou un adulte de confiance, transmettez ces informations à l’équipe qui vous suit.
+- Discutez avec elle de ce qui serait adapté avant de modifier quoi que ce soit.
+
+Chacun répond dans son rôle et les arrangements restent compatibles avec le suivi.
+
+### 3. Décrire une activité manquée
+
+Signaler un retentissement qui dépasse la table.
+
+**Exercice pratique**
+
+- Choisissez une sortie ou une rencontre que vous auriez voulu faire.
+- Expliquez la question de repas qui est restée sans réponse.
+- Dites à l’équipe de soins ce qui vous aiderait à préparer une prochaine occasion.
+
+Le suivi peut tenir compte de l’accès aux activités qui vous plaisent.
 
 ## La croix reste
 
 « Je peux vous parler quand les autres seront partis ? C’est pour le voyage. » Mme Roussel a encore une pile à trier. Elle indique deux chaises près de son bureau et lui dit qu’elle a quelques minutes. Adèle pose sa feuille à plat entre elles, d’abord du côté de la photo. « Celui-là, c’est mon premier choix. Pour confirmer le voyage, j’ai besoin de savoir avec qui je peux parler des repas. » Mme Roussel prend un crayon à son tour. « Tu peux demander à ta mère de m’écrire, pour qu’on trouve un moment toutes les trois. » Elle laisse la croix où elle est.
+
+---
+
+**Conclusion**
+
+La croix du tissage reste sur la fiche. Adèle peut dire qu’elle veut partir tout en demandant comment les repas seront préparés avec elle. La réponse attend encore un échange avec Eva et l’école.

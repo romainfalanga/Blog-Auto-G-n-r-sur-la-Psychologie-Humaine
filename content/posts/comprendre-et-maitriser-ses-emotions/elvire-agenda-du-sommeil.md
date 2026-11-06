@@ -35,14 +35,79 @@ En consultation, Élvire montre les cases où elle a barré plusieurs durées. C
 
 Un agenda du sommeil peut aider une personne et le professionnel à regarder les horaires, les difficultés de la nuit et la façon dont elle se sent ensuite. Il repose sur ce dont la personne se souvient et sur ses estimations. Il peut inclure des circonstances comme un bruit ou un horaire inhabituel. Le professionnel choisit avec elle ce qui a du sens pour le bilan ou le suivi. L’utilité vient du lien entre les observations, le contexte et les décisions à prendre, ainsi que de la possibilité d’y revenir ensemble.
 
-## S’apercevoir que la mesure occupe plus de place que l’observation
+## Comment un agenda du sommeil peut-il aider sans devenir une vérification permanente ?
 
-Élvire voudrait un résultat assez précis pour interpréter sa journée dès le réveil. Quand deux jours se contredisent, elle ajoute des calculs au lieu de regarder ce qui s’est passé dans chaque situation. Le cahier commence alors à retenir une partie du temps qu’elle voulait passer avec Lou. En séance, elle peut distinguer ce qu’elle sait, par exemple qu’elle est restée éveillée un moment, de ce qu’elle estime moins bien. Elle peut aussi décrire les répercussions qui lui semblent importantes, comme avoir du mal à suivre une conversation.
+### Une durée approximative peut devenir une recherche sans fin
 
-## Revoir l’usage du cahier avec la professionnelle
+Chercher un chiffre précis peut prendre du temps alors que les souvenirs ne permettent qu’une estimation.
 
-Claire et Élvire s’entendent sur ce qu’elles souhaitent revoir au prochain rendez-vous. Elles peuvent laisser une durée inconnue, préciser les circonstances et noter un exemple de disponibilité ou de difficulté pendant la journée. Le suivi médical de la vigilance reste à part et Élvire sait à qui signaler un assoupissement s’il revient. Au travail, elle peut confirmer la date de l’essai à partir de l’avis de l’équipe et de l’accès au lieu. Le chiffre qu’elle cherchait le matin ne peut pas décider à lui seul si la coopérative est prête.
+**Exemples concrets**
+
+- Élvire essaie de retrouver l’ordre de la moto, du passage à la salle de bains et de la pensée sur le dépôt.
+- Elle recommence à calculer et doute ensuite des choses dont elle se souvenait.
+
+### Le chiffre ne résume pas la journée
+
+Le ressenti de la nuit et ce que la personne peut faire ensuite peuvent donner des informations différentes.
+
+**Exemples concrets**
+
+- Après une nuit vécue comme très mauvaise, Élvire a pu suivre la réunion en reprenant les décisions une par une.
+- Un autre jour, le réveil lui semble meilleur et elle perd le fil de la conversation en salle de pause.
+
+### La note peut rester utile avec une case vide
+
+L’agenda peut retenir un fait et laisser une durée incertaine lorsque le cadre a été discuté.
+
+**Exemples concrets**
+
+- Élvire écrit le bruit de la moto et ne remplit pas la durée.
+- Elle veut garder de quoi signaler une nouvelle baisse de vigilance si elle apparaît.
+
+## 3 techniques pour noter des observations que l’on peut reprendre en consultation
+
+### 1. Définir ce que l’agenda doit aider à observer
+
+Choisir avec le professionnel les informations utiles.
+
+**Exercice pratique**
+
+- Demandez quelle question le cahier doit aider à examiner.
+- Choisissez les éléments à noter sur la nuit et la journée.
+- Convenez de la façon d’indiquer un souvenir incertain.
+
+Le relevé peut rester exploitable sans donner à chaque case la même importance.
+
+### 2. Garder un fait avant le chiffre
+
+Noter ce dont vous vous souvenez sans prolonger une estimation.
+
+**Exercice pratique**
+
+- Écrivez un élément observable ou un souvenir situé.
+- Ajoutez une durée approximative seulement si elle vous paraît utile et si elle fait partie de l’accord.
+- Montrez au professionnel les cases qui vous demandent trop d’effort.
+
+Le cahier conserve ce que vous savez réellement et peut être ajusté.
+
+### 3. Signaler les changements qui comptent
+
+Faire circuler une information importante au-delà de l’agenda.
+
+**Exercice pratique**
+
+- Notez quel effet sur la journée a changé et dans quelles circonstances.
+- Utilisez le contact et les consignes convenus si la vigilance pose de nouveau problème.
+- Reprenez au rendez-vous ce qui s’est passé et les questions restantes.
+
+La notation peut soutenir une décision de soin et ne retarde pas un avis nécessaire.
 
 ## La case qu’elle laisse ouverte
 
 Élvire écrit « réveil avec le bruit de la moto » et garde la durée vide. Elle se souvient qu’elle voulait demander à Lou de prendre son café ensemble. Au bureau, Sonia lui confirme qu’elles peuvent préparer une matinée d’essai si l’accueil et la manutention sont assurés séparément. Élvire inscrit les deux rôles sur le tableau. Elle laisse le cahier dans son sac et appelle Lou sur le chemin du retour pour lui demander si elle a envie d’un café demain. Elle peut convenir d’une heure sans commencer par vérifier la nuit qui précédera.
+
+---
+
+**Conclusion**
+
+Élvire note le bruit de la moto, laisse la durée vide et propose un café à Lou. Le cahier a retrouvé une question précise pour Claire. Les effets sur la journée et un éventuel changement de vigilance restent observables sans devoir attribuer un verdict à chaque nuit.

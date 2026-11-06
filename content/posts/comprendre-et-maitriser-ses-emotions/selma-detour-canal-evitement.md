@@ -29,22 +29,83 @@ Le détour lui plaît jusqu’au pont. Sur cette partie du chemin, elle peut voi
 
 Devant l’atelier, elle plie le dessin pour le faire entrer dans la boîte où le vitrier lui a laissé un nuancier. L’adresse était la seule information à transmettre. Elle aurait pu la donner au téléphone. Elle était venue parce qu’elle voulait voir si les nouveaux panneaux laisseraient passer assez de lumière. Maintenant, elle calcule le trajet de retour. Si elle passe encore par le canal, elle arrivera quand André aura rangé sa caisse. Elle lui écrit de la laisser devant la serre, puis entre demander à voir les échantillons.
 
-## Ce que l’évitement peut changer dans une journée
+## Le détour peut devenir la seule option envisagée
 
-Après un traumatisme, une personne peut chercher à éviter certains lieux, situations ou pensées qui lui rappellent l’événement. Les descriptions de la CIM-11 parlent d’évitement lorsque l’effort pour tenir ces rappels à distance prend une place importante dans le trouble. Au quotidien, cela peut changer un trajet, les personnes qu’on voit ou les endroits où l’on accepte de passer. Le choix d’un chemin a aussi des raisons ordinaires.
+Dans le TSPT, éviter un lieu qui rappelle un traumatisme peut diminuer la crainte sur le moment. Si l’évitement devient systématique, il peut aussi prendre du temps et réduire les trajets ou les activités possibles. Selma préfère la route du canal au parvis de la gare. Lorsque le pont est fermé, elle repart presque aussitôt vers une autre passerelle. Le détour pèse alors sur le rendez-vous avec André.
 
-## Comment cette difficulté se manifeste
+## Comment l’évitement des rappels finit-il par organiser les trajets ?
 
-Selma aime longer le canal et doit composer avec une fermeture réelle.
+### Un trajet est préparé pour rester loin du rappel
 
-Ce qui l’intéresse, c’est le moment où le détour est devenu la seule possibilité qu’elle envisage, même quand il lui fait perdre une rencontre. Elle peut en parler à sa thérapeute en décrivant la distance, ce qui rend le parvis pénible et le temps qu’elle aimerait récupérer. Elle peut aussi expliquer ce qu’elle tient à garder dans le détour, comme la promenade à vélo les jours où elle a envie de la faire.
+La décision peut être prise avant le départ, alors qu’un autre chemin serait plus court.
 
-## Une demande pour le suivi et une autre pour le vitrier
+**Exemples concrets**
 
-Le NICE situe le travail sur l’évitement dans des approches spécialisées, avec une professionnelle formée et un cadre adapté. Selma peut y dire quels déplacements comptent pour elle et ce qu’elle serait prête à discuter. Le passage sur le parvis ne devient pas une épreuve à organiser avec André. Pour aujourd’hui, il peut s’agir simplement de rentrer par un itinéraire accessible et de convenir d’une autre heure pour essayer la caisse.
+- Selma trace une flèche vers le canal sur le plan qu’elle emporte.
+- Elle ne passe plus devant l’atelier par le parvis comme elle le faisait en revenant du travail.
 
-Au vitrier, la demande tient à la livraison. Selma peut lui montrer le plan de l’accès, vérifier où les panneaux seront déposés et demander de réunir les décisions restantes par téléphone. Elle garde le choix de se déplacer pour voir une couleur ou de confier le retrait d’un échantillon à quelqu’un.
+### Un imprévu réduit encore les choix
+
+Une alternative peut perdre son avantage sans que le trajet évité redevienne envisageable sur le moment.
+
+**Exemples concrets**
+
+- Le pont est fermé et Selma cherche la passerelle en aval avant d’avoir fini de lire le panneau.
+- Pour rentrer, elle recalcule la durée du canal alors que le rendez-vous avec André devient difficile à tenir.
+
+### Le coût se voit dans les autres engagements
+
+Ce que l’évitement change peut apparaître dans une activité ou une rencontre qui doit attendre.
+
+**Exemples concrets**
+
+- André doit partir avant que Selma puisse essayer la caisse avec lui.
+- Selma lui demande de la laisser sous l’auvent et propose le lendemain matin.
+
+## 3 techniques pour examiner ce que coûte un détour
+
+### 1. Nommer le besoin réel du déplacement
+
+Chercher ce que l’on souhaite obtenir sans s’imposer un itinéraire.
+
+**Exercice pratique**
+
+- Distinguez le renseignement à transmettre de ce que vous voulez voir sur place.
+- Vérifiez si une partie peut se faire à distance ou à une autre heure.
+- Choisissez le trajet qui vous convient aujourd’hui pour ce qui reste à faire.
+
+Le rendez-vous ou le projet peut avancer à partir de ce qui est possible dans l’immédiat.
+
+### 2. Rendre le retard gérable
+
+Limiter les effets d’un détour sur la personne qui attend.
+
+**Exercice pratique**
+
+- Annoncez le retard quand vous pouvez vous arrêter pour le faire en sécurité.
+- Demandez si l’objet ou l’information peut être laissé à un endroit convenu.
+- Proposez un autre créneau sans supposer que l’autre peut vous attendre.
+
+Le rendez-vous peut être déplacé sans exiger que Selma change de route sous pression.
+
+### 3. Apporter le trajet au suivi
+
+Parler de ce que l’évitement protège et de ce qu’il finit par coûter.
+
+**Exercice pratique**
+
+- Décrivez un lieu ou un trajet que vous contournez régulièrement.
+- Donnez un exemple de ce que vous avez dû déplacer ou abandonner à cause du détour.
+- Demandez à un professionnel formé au trauma comment examiner cette difficulté avec lui.
+
+L’échange peut ouvrir des possibilités sans organiser soi-même une confrontation au rappel.
 
 ## La caisse attend sous l’auvent
 
 Le vitrier lui prête un échantillon assez petit pour entrer dans sa sacoche. Selma reprend le canal et trouve la caisse sous l’auvent. André a écrit dessus son nom, parce qu’il veut la récupérer après l’essai. Elle envoie un message pour proposer le lendemain matin, puis rapproche l’échantillon d’un sachet de graines. Elle voudrait savoir si on verra les pousses depuis l’allée. Au prochain rendez-vous, elle parlera aussi du pont fermé et de l’itinéraire qu’elle a pris sans avoir réellement regardé les autres.
+
+---
+
+**Conclusion**
+
+Selma rapporte l’échantillon et remet l’essai de la caisse au lendemain. Elle garde le canal pour cette fois et choisit de parler du détour en séance. Le pont fermé lui a montré combien ce choix pesait désormais sur des rendez-vous qui comptent.

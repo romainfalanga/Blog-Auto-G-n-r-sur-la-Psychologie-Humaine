@@ -28,20 +28,83 @@ Maud arrive avec le planning de la semaine prochaine. Le dépôt change d’adre
 
 Dario lui demande s’il doit ranger la tasse. « Attends, celle-là travaille. » Hélène lui montre le rayon depuis l’entrée. Si elle pouvait prendre un bout de son temps de travail pour faire des panneaux, elle voudrait voir si les clients les suivent sans qu’on leur montre le chemin. Puis elle retourne près de Maud : elle veut savoir quelle ligne du planning elle doit garder, avant d’enlever l’ancienne version de son casier.
 
-## Comment le trouble du développement intellectuel retentit au travail
+## Les habiletés mobilisées changent selon la tâche
 
-Quand Maud parle du rendez-vous « habituel », Hélène doit rapprocher une expression orale, une nouvelle adresse et un planning qui porte encore l’ancien lieu. C’est une difficulté concrète d’adaptation dans le contexte de son trouble du développement intellectuel, diagnostiqué avant ce récit. Une consigne écrite qui sépare le jour, l’heure et l’adresse lui permet de décider ce qu’elle doit faire ensuite. À l’autre bout du rayon, elle sait déjà expliquer à une cliente où se trouvent les tasses.
+Le trouble du développement intellectuel concerne aussi les habiletés d’adaptation qui servent dans la vie quotidienne : comprendre des informations, communiquer et organiser une action. Les besoins peuvent différer d’une tâche à l’autre. Hélène sait observer comment les clients s’orientent dans le rayon. Pour préparer la tournée, elle a besoin que Maud distingue le lieu et l’heure au lieu de les laisser sous le même mot.
 
-## Comment cette difficulté se manifeste
+## Comment des besoins différents se voient-ils dans une même journée de travail ?
 
-Hélène sait par ailleurs pourquoi la tasse bleue revient dans le mauvais panier. Elle compare les gestes des clients à la disposition du rayon. Cette compétence et sa difficulté avec une annonce de dernière minute peuvent coexister. Les deux apportent des informations sur des situations distinctes de son travail.
+### Une compétence se voit dans une tâche concrète
 
-## Séparer ce qui change de ce qui reste à décider
+Une personne peut connaître les lieux et les usages d’un rayon où elle travaille régulièrement.
 
-Les recommandations de la HAS sur le travail invitent à expliciter l’organisation et à ajuster les supports avec la personne. Maud peut écrire deux renseignements séparés, l’heure de mardi et le lieu du rendez-vous, puis préciser quand le reste sera confirmé. Si une partie n’est pas fixée, il vaut mieux écrire « à confirmer jeudi » que demander à Hélène de retrouver une réponse qui n’existe pas encore. L’équipe a aussi intérêt à retirer du tableau la version qu’elle ne doit plus utiliser.
+**Exemples concrets**
 
-Pour le rayon, Hélène a une demande de métier : du temps pour fabriquer, puis l’occasion de regarder ce qui se passe. Maud peut discuter de ce temps et du matériel disponible sans mélanger le sujet avec les appuis du déplacement. Deux sujets distincts donnent deux décisions dont on peut retrouver la trace.
+- Hélène regarde la tasse depuis l’entrée et comprend pourquoi les clients la remettent avec les bols.
+- Un employé connaît les habitudes du comptoir et repère qu’une pile de cartons cache le point de retour des paniers.
+
+### Un mot suppose plusieurs informations
+
+Quand une consigne s’appuie sur une habitude qui change, il peut être difficile de retrouver ce qu’il faut conserver de l’ancienne version.
+
+**Exemples concrets**
+
+- Hélène ne sait pas si « départ habituel » désigne l’heure ou le lieu.
+- Une personne lit « même tournée » et demande si le dépôt de départ a changé avec l’adresse de livraison.
+
+### Une aide ciblée permet de reprendre
+
+Une précision utile porte sur l’étape à faire, sans effacer les compétences déjà mobilisées.
+
+**Exemples concrets**
+
+- Maud écrit l’heure et le lieu sur une nouvelle feuille et raye l’ancienne ligne.
+- Une collègue ajoute le quai sur une fiche ; la personne peut ensuite préparer la caisse qu’elle connaît.
+
+## 3 techniques pour rendre une consigne de travail utilisable
+
+### 1. Séparer les repères qui changent
+
+Rendre chaque renseignement facile à vérifier.
+
+**Exercice pratique**
+
+- Écrivez le jour, l’heure et le lieu sur des lignes séparées.
+- Marquez ce qui reste à confirmer et quand.
+- Retirez avec l’équipe la version qui ne s’applique plus.
+
+La personne peut trouver le renseignement dont elle a besoin au moment d’agir.
+
+### 2. Demander ce que couvre un mot vague
+
+Éviter de déduire seul le sens d’une consigne incomplète.
+
+**Exercice pratique**
+
+- Montrez le mot ou la ligne qui pose question.
+- Dites les deux sens possibles, comme l’heure ou le lieu.
+- Demandez à la personne responsable de préciser lequel s’applique.
+
+La réponse porte sur une ambiguïté réelle du planning.
+
+### 3. Donner une place à l’observation de métier
+
+Faire entendre une proposition de travail sans la mélanger avec les appuis.
+
+**Exercice pratique**
+
+- Choisissez une observation que vous pouvez montrer à un collègue.
+- Convenez d’un temps et d’un résultat à vérifier.
+- Demandez les aménagements utiles pour cette tâche si vous en avez besoin.
+
+L’équipe peut répondre distinctement à l’idée et aux conditions pour l’essayer.
 
 ## La tasse sert encore
 
 Maud entoure « 9 h » sur une nouvelle feuille et écrit à côté : « mardi, rendez-vous à la boutique ; date de visite du dépôt à fixer jeudi ». Elle raye l’ancienne ligne devant Hélène. Pour les panneaux, elle peut lui dégager un créneau à l’établi, à condition que l’installation puisse être retirée si elle gêne le passage. Hélène demande deux essais, pour avoir le droit de corriger le premier. Maud regarde l’allée et dit oui. Hélène pose alors la tasse rayée devant Dario. « Maintenant elle a fini. Tu peux la remettre avec les siennes. »
+
+---
+
+**Conclusion**
+
+La tasse a servi à montrer ce que les clients voyaient depuis l’entrée. La nouvelle feuille répond à une autre question, celle de mardi. Hélène dispose des deux informations pour faire avancer deux tâches différentes.

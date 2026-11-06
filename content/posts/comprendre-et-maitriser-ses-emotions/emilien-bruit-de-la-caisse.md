@@ -29,20 +29,83 @@ Ils ont reçu les copies de plusieurs enregistrements du marché, avec la missio
 
 Dans le métro, Émilien réécoute sa note. Il avait parlé vite, et la dernière fois qu’il s’est entendu parler ainsi, c’était dans un message enregistré pendant une période que sa psychiatre a ensuite reconnue comme un épisode maniaque. Le diagnostic de trouble bipolaire de type I est posé depuis plusieurs mois. Aujourd’hui, il sait pourquoi il est content. Il a faim, il veut rentrer et Dorian et lui ont convenu de ne travailler que sur un extrait cette semaine. Il se demande néanmoins depuis quand il doit fournir toutes ces preuves pour avoir le droit d’être heureux.
 
-## Comprendre ce que désigne un épisode maniaque
+## La joie n’est pas un épisode maniaque
 
-Dans la CIM-11 de l’OMS, le trouble bipolaire de type I (6A60) implique au moins un épisode maniaque ou mixte, actuel ou passé, établi cliniquement. Des épisodes dépressifs peuvent également survenir. Les épisodes ne se déduisent ni du caractère d’une personne ni d’un changement d’humeur pris isolément.
+Un enthousiasme peut accompagner une bonne nouvelle, y compris quand on vit avec un trouble bipolaire. Dans le type I, l’histoire clinique comprend au moins un épisode maniaque ou mixte. Lors d’une manie, l’humeur et l’activité changent ensemble et le retentissement peut être important. L’équipe examine l’évolution au-delà d’un instant. Émilien parle vite de sa trouvaille, ce qui lui rappelle un ancien épisode. Ce qu’il fait avant et après l’envoi du message donne plus d’informations que son débit de parole.
 
-## Comment cette difficulté se manifeste
+## Comment distinguer un élan ordinaire d’un changement plus large ?
 
-Pour la manie, l’évaluation tient compte d’un changement net par rapport au fonctionnement habituel, de sa persistance, de l’activité ou de l’énergie, des autres symptômes et de leurs conséquences. L’humeur peut être très élevée ou irritable. Une diminution du besoin de sommeil, des paroles plus difficiles à interrompre et des décisions inhabituelles peuvent entrer dans le tableau. Une conversation animée ou la joie qui suit une trouvaille n’en donnent pas à elles seules la mesure.
+### Un plaisir qui a son objet
 
-## Repartir de ce qui change pour Émilien
+Le rire retrouvé a une histoire. Il compte pour Émilien parce qu’il rend à l’annonce de la vendeuse son ton et sa place dans le marché.
 
-Lors de l’évaluation, Émilien a raconté qu’il avait autrefois prolongé ses journées sans se sentir fatigué et proposé des dates de travail qu’il ne pouvait plus honorer. Ces exemples ont aidé l’équipe à comprendre l’ensemble de la période ; ce ne sont pas des critères que Dorian doit appliquer chaque fois que le casque reste branché.
+**Exemples concrets**
 
-Le NICE recommande de construire le plan de soins avec la personne et de discuter avec elle des signes qui, dans son cas, méritent un avis. Émilien peut en parler à Lucie sans lui demander de rendre un verdict sur sa note vocale. Si les signes qu’il connaît se regroupent ou que leur évolution l’inquiète, leur plan lui indique qui appeler. Le plan sert à trouver du soutien ; il n’a pas à devenir l’arbitre de tout ce qui lui fait plaisir.
+- Il revient sur le prix des poires avant de découvrir le rire à la fin de la phrase.
+- Il envoie à Lucie un message pour lui faire entendre ce détail qu’ils ont mis du temps à retrouver.
+
+### Un souvenir qui rend attentif
+
+Un point commun avec une période passée peut réveiller une inquiétude sans renseigner à lui seul sur l’état actuel.
+
+**Exemples concrets**
+
+- Émilien réécoute sa note dans le métro et reconnaît le débit d’un ancien message.
+- Quelqu’un peut hésiter à raconter une bonne nouvelle en rentrant, parce que son entourage s’était déjà inquiété d’un enthousiasme dans un autre contexte.
+
+### Un projet qui garde ses limites
+
+La suite de la journée aide à voir si l’élan prend une place inhabituelle dans plusieurs activités.
+
+**Exemples concrets**
+
+- Émilien conserve l’accord d’un seul extrait dans la semaine, même quand le montage lui donne des idées.
+- À la maison, il ferme le fichier pour passer à table avec Lucie.
+
+## 3 techniques pour garder des repères sans surveiller chaque joie
+
+### 1. Retrouver ce qui a fait plaisir
+
+Décrire le moment qui a déclenché l’enthousiasme.
+
+**Exercice pratique**
+
+- Nommez la trouvaille, la rencontre ou la bonne nouvelle.
+- Dites à quelqu’un ce qui vous a plu, si vous voulez le partager.
+- Revenez à ce que vous aviez prévu de faire ensuite.
+
+Le plaisir retrouve sa place dans la journée et peut se partager sans examen permanent.
+
+### 2. Regarder la suite de la journée
+
+Replacer un changement de ton dans le quotidien.
+
+**Exercice pratique**
+
+- Prenez un fait que vous avez remarqué, comme un message envoyé très vite.
+- Demandez-vous ce qui a changé ou continué pour les repas, le repos et les engagements.
+- Si la question persiste ou que plusieurs changements se prolongent, reprenez-la avec l’équipe.
+
+L’évolution du quotidien donne des éléments qu’un message vocal ne contient pas.
+
+### 3. Accueillir la trouvaille et préciser quand en parler
+
+Distinguer ce que l’on partage avec un proche de ce que l’on voudrait signaler aux soignants.
+
+**Exercice pratique**
+
+- Choisissez un détail du projet que vous souhaitez montrer.
+- Si une inquiétude revient, dites au proche ce que vous accepteriez qu’il vous signale.
+- Avec l’équipe, précisez les changements personnels qui justifient de reprendre contact.
+
+Le proche peut continuer à s’intéresser au projet et savoir où trouver un relais si la situation change.
 
 ## Le premier extrait reste au montage
 
 En arrivant, Émilien trouve Lucie en train de réchauffer le plat. Il lui fait écouter cinq secondes, jusqu’au rire. Elle lui demande de remettre le début parce qu’elle entend d’abord une roue. Il rit lui aussi : Dorian et lui viennent de passer une partie de l’après-midi à se poser cette question. Il ferme le fichier avant de s’asseoir. Pour la séance suivante, il garde dans sa poche le papier où Dorian a écrit : « Laisser le chariot ? »
+
+---
+
+**Conclusion**
+
+Le message rapide rappelle une période sérieuse à Émilien. Il peut écouter ce rappel et profiter du rire trouvé avec Dorian. Pour comprendre un épisode, l’équipe reprend un ensemble de changements dans le temps. Ce soir, Émilien a surtout une découverte à partager.

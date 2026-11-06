@@ -27,17 +27,73 @@
         {
           "role": "explanation",
           "heading": "Ce qui échappe pendant une crise",
-          "text": "La perte de contrôle décrit une expérience précise. Une personne peut avoir le sentiment de ne plus pouvoir interrompre ce qu’elle fait alors même qu’elle a envie de retrouver un choix. Dans la boulimie nerveuse, les crises reviennent et la façon de manger pendant ces moments diffère sensiblement de l’habitude. L’évaluation regarde leur répétition, les compensations et les préoccupations corporelles qui les accompagnent, ainsi que leurs conséquences.\n\nLa quantité observée par quelqu’un d’autre dit peu du sentiment vécu sur le moment. Un dîner de fête ou le plaisir d’un repas copieux ont une place ordinaire dans la vie. Les professionnels rassemblent des informations bien plus larges pour comprendre un trouble."
+          "text": "La perte de contrôle pendant une crise désigne le sentiment de ne plus pouvoir décider de la suite ou interrompre sa façon de manger. Dans la boulimie nerveuse, ces moments reviennent et la façon de manger diffère nettement de l’habitude. L’évaluation tient compte aussi des compensations, des préoccupations corporelles et du retentissement. Victoire voulait tracer une rue le soir même ; le mot qu’elle cherche le lendemain concerne ce qu’elle a éprouvé quand elle a voulu s’arrêter."
         },
         {
           "role": "manifestations",
-          "heading": "Ce que la crise prend au lendemain",
-          "text": "La veille, Victoire a laissé son plan sans le trait qu’elle comptait ajouter. L’effet d’une crise peut continuer après le retour au calme. Le trouble occupe parfois le temps disponible, le sommeil ou l’attention. À la boutique, Victoire vient de montrer avec assurance un réglage dont elle connaît l’importance. À côté, un message amical lui semble demander une énergie qu’elle a du mal à trouver. Elle commence à écrire qu’elle est prise, alors qu’elle voudrait encore aller au marché. Les deux expériences peuvent coexister."
+          "heading": "Comment la perte de contrôle se fait-elle sentir pendant et après la crise ?",
+          "points": [
+            {
+              "heading": "Une décision qui ne répond plus",
+              "text": "La difficulté porte sur le sentiment de garder la main pendant l’épisode, même si l’on sait ce que l’on voulait faire ensuite.",
+              "examples": [
+                "Victoire avait prévu d’ajouter une rue et se souvient du moment où elle a voulu interrompre ce qu’elle faisait.",
+                "Une personne qui attend un appel peut le laisser sonner alors qu’elle voulait décrocher et qu’elle n’arrive pas à passer à autre chose."
+              ]
+            },
+            {
+              "heading": "Une expérience qu’on ne voit pas de dehors",
+              "text": "Le volume d’un repas ou le fait d’avoir encore faim renseigne peu sur ce qui a été vécu comme incontrôlable.",
+              "examples": [
+                "Lors d’un repas de fête, quelqu’un peut reprendre d’un plat par plaisir et se sentir libre de s’arrêter.",
+                "Victoire garde le souvenir d’un geste qu’elle ne parvenait plus à interrompre, un détail qu’Idriss ne peut pas lire sur son visage."
+              ]
+            },
+            {
+              "heading": "Une suite qui occupe encore le lendemain",
+              "text": "La crise peut prendre du temps et laisser des pensées qui compliquent un choix ordinaire, même si d’autres gestes restent possibles.",
+              "examples": [
+                "À la boutique, Victoire explique un réglage à un client pendant que la rue manque toujours sur le plan.",
+                "Quand Lila propose de garder samedi, Victoire commence par écrire qu’elle est prise avant de retrouver son envie d’y aller."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répondre à Lila et garder le rendez-vous",
-          "text": "Une réponse concernant le rallye peut rester simple. Elle est libre de dire quel point du parcours l’intéresse, quelle durée elle peut envisager ou si elle préfère attendre. Au rendez-vous spécialisé, Victoire peut décrire le moment où elle voulait reprendre son plan et où elle a senti qu’elle ne décidait déjà plus de la suite. Victoire a le droit d’y parler de ce qu’elle vit même si elle a tenu son poste et mené une conversation ordinaire dans la journée."
+          "heading": "3 techniques pour mettre en mots ce qui a échappé",
+          "points": [
+            {
+              "heading": "Trouver les mots du moment",
+              "objective": "Décrire à l’équipe ce qui a été vécu comme une perte de contrôle.",
+              "exercise": [
+                "Repensez à une situation dont vous souhaitez parler en consultation.",
+                "Choisissez un verbe pour décrire ce qui vous a échappé, par exemple « interrompre ».",
+                "Apportez le mot au rendez-vous et précisez ce qui reste difficile à décrire."
+              ],
+              "benefit": "L’équipe peut partir du vécu de l’épisode plutôt que d’une estimation de ce qui a été mangé."
+            },
+            {
+              "heading": "Noter ce qui a dû attendre",
+              "objective": "Rendre visible le retentissement immédiat d’une crise.",
+              "exercise": [
+                "Relevez une chose prévue avant l’épisode.",
+                "Décrivez ce que vous avez pu en faire ensuite ou ce qui est resté en plan.",
+                "Racontez les deux faits au professionnel qui vous suit."
+              ],
+              "benefit": "Un détail ordinaire peut aider à comprendre le coût de la crise même lorsque d’autres activités ont été maintenues."
+            },
+            {
+              "heading": "Répondre à l’invitation qui vous intéresse",
+              "objective": "Garder le choix d’un engagement et de ce que l’on explique.",
+              "exercise": [
+                "Relisez la proposition de l’autre personne en distinguant le lieu, la durée et le but.",
+                "Dites si une partie de la proposition vous convient.",
+                "Confirmez cette partie ou demandez un délai de réponse, selon ce que vous préférez."
+              ],
+              "benefit": "La décision sur la sortie peut tenir en quelques mots, tandis que le vécu de la crise garde sa place en consultation."
+            }
+          ]
         }
       ],
       "ending_title": "Une rue à revoir ensemble",
@@ -52,7 +108,8 @@
       "continuity": {
         "choice": "Victoire confirme le repérage du samedi et choisit de parler à l’équipe du moment où elle a perdu le contrôle.",
         "next": "Lila vient au marché avec Manu, qui redécouvre la circulation à vélo. Le rendez-vous spécialisé a lieu le mardi suivant."
-      }
+      },
+      "conclusion": "À la caisse, Victoire trouve deux réponses : elle veut garder le samedi, et elle veut parler du moment où interrompre lui a paru impossible. Le trait resté en suspens situe la crise dans sa soirée sans avoir à mesurer ce qu’elle a mangé."
     },
     {
       "number": 2,
@@ -72,17 +129,73 @@
         {
           "role": "explanation",
           "heading": "Quand l’apparence absorbe le jugement sur soi",
-          "text": "Beaucoup de personnes ont des préférences sur la façon dont elles apparaissent en photo. Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue."
+          "text": "Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue. Avoir une préférence de cadrage est courant ; dans le suivi, c’est la place de ces pensées et leur retentissement que l’on explore. Quand Lila propose une photo, Victoire se souvient du manteau qu’elle porte et perd momentanément de vue la réponse qu’elle vient de trouver avec Manu."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Victoire se souvient encore de ce qu’elle a fait pour aider Manu. Il lui devient difficile de sentir que cette contribution compte, car l’image qu’elle anticipe semble décider de tout. Ce glissement peut s’accompagner d’évitements ou d’un retour répété à la question de l’apparence. Les réactions sont variables. L’équipe qui accompagne Victoire peut explorer la place de ces préoccupations dans plusieurs situations et leurs liens avec les crises et les compensations. Elle s’intéresse aussi à la souffrance et au temps que ces pensées prennent, indépendamment de ce que le corps donne à voir."
+          "heading": "Comment une photo peut-elle prendre le dessus sur ce qu’on vient de faire ?",
+          "points": [
+            {
+              "heading": "Le travail passe à l’arrière-plan",
+              "text": "Une inquiétude sur l’apparence peut éclipser l’évaluation que l’on faisait de son travail un instant auparavant.",
+              "examples": [
+                "Manu montre à Victoire qu’il regarde la vitrine avant de tourner ; la proposition de photo détourne son attention de cette découverte.",
+                "Une personne satisfaite d’avoir terminé un bricolage peut ne plus parler que de son apparence lorsqu’on l’invite à poser devant."
+              ]
+            },
+            {
+              "heading": "Le jugement est anticipé",
+              "text": "Une image que personne n’a encore vue peut déjà prendre beaucoup de place dans les pensées.",
+              "examples": [
+                "Victoire s’imagine revenir à la photo toute la soirée avant que Lila ait appuyé sur le bouton.",
+                "À l’annonce d’une photo d’équipe, quelqu’un peut s’inquiéter surtout de ce que les destinataires regarderont."
+              ]
+            },
+            {
+              "heading": "Le choix de diffusion reste possible",
+              "text": "La question de ce qu’on montre se décide concrètement, même quand l’inquiétude continue.",
+              "examples": [
+                "Victoire demande à poser la carte sur le banc pour photographier le portail dessiné.",
+                "Après la photo, Lila demande si elle peut l’envoyer avec le prénom de Victoire : c’est une décision à part entière."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la main sur ce qui devient public",
-          "text": "Le groupe peut avoir besoin d’un aperçu du trajet pour s’organiser. Victoire a une proposition précise qui répond à ce besoin et lui permet de choisir comment elle apparaît. Elle décide séparément si son prénom accompagne la carte. Lila peut lui demander ce qu’elle souhaite et accepter la réponse sans ouvrir une discussion sur son corps. Une photo refusée peut avoir des raisons très diverses. Dans le suivi, Victoire pourra revenir sur ce que ce moment a suscité chez elle, y compris si le groupe a respecté son choix. Ce qui l’inquiète à propos de l’apparence mérite d’être discuté pour le poids que cela prend dans sa vie. L’accord sur la photo règle une question concrète à laquelle Lila peut réellement répondre."
+          "heading": "3 techniques pour séparer l’image qu’on partage de la valeur qu’on s’accorde",
+          "points": [
+            {
+              "heading": "Dire ce que la photo doit montrer",
+              "objective": "Trouver un cadrage compatible avec l’usage de l’image et votre accord.",
+              "exercise": [
+                "Identifiez le détail dont les destinataires ont besoin.",
+                "Proposez un cadrage qui fasse apparaître ce détail.",
+                "Convenez séparément du crédit et de la diffusion."
+              ],
+              "benefit": "Un groupe peut partager une information utile en respectant le choix de la personne photographiée ou citée."
+            },
+            {
+              "heading": "Retrouver sa contribution précise",
+              "objective": "Replacer une action concrète à côté de la pensée sur l’apparence.",
+              "exercise": [
+                "Repensez à la demande formulée avant la photo.",
+                "Notez la réponse ou le geste que vous avez apporté.",
+                "Gardez cette note pour la prochaine décision du groupe."
+              ],
+              "benefit": "L’activité que vous avez menée reste accessible même si une image retient encore votre attention."
+            },
+            {
+              "heading": "Décrire le temps que prend la pensée",
+              "objective": "Parler au professionnel de l’effet de la préoccupation corporelle sur la vie ordinaire.",
+              "exercise": [
+                "Choisissez un moment où cette préoccupation a pris de la place.",
+                "Dites ce qu’elle a interrompu ou ce qui y a ramené votre attention après coup.",
+                "Apportez cet exemple à l’équipe sans avoir à montrer la photo."
+              ],
+              "benefit": "Le suivi peut aborder la gêne et son coût sans débattre de l’apparence."
+            }
+          ]
         }
       ],
       "ending_title": "La carte porte son prénom",
@@ -97,7 +210,8 @@
       "continuity": {
         "choice": "Victoire choisit une photo du plan seul avec son prénom et note le repère donné par Manu.",
         "next": "Mardi, elle apporte en consultation la crise de la veille du lundi et ce qui se passe ensuite, avant d’envoyer le plan."
-      }
+      },
+      "conclusion": "Le plan porte le prénom de Victoire et montre ce que Manu a repéré. L’accord sur l’image règle la question de sa diffusion. La soirée lui montre une autre question à reprendre en consultation : la place que la pensée du manteau prend encore après le repérage."
     },
     {
       "number": 3,
@@ -117,17 +231,73 @@
         {
           "role": "explanation",
           "heading": "Ce que la compensation change dans l’évaluation",
-          "text": "Après une crise, certaines personnes ressentent une pression forte pour contrebalancer ce qu’elles redoutent pour leur poids. Dans la boulimie nerveuse, les comportements compensatoires inappropriés se répètent et font partie de ce que l’équipe évalue, avec la perte de contrôle, les préoccupations liées au corps et la souffrance ou le retentissement. L’hyperphagie boulimique comprend aussi des crises récurrentes avec perte de contrôle. L’évaluation y retrouve un autre tableau, sans la répétition des compensations qui caractérise la boulimie nerveuse. Les soignants examinent aussi la possibilité d’autres troubles, dont certaines formes d’anorexie mentale qui comportent des crises et des compensations."
+          "text": "Dans la boulimie nerveuse, les crises s’accompagnent de conduites compensatoires inappropriées et répétées, destinées à éviter une prise de poids redoutée. Leurs effets physiques et psychiques méritent une évaluation. L’hyperphagie boulimique présente elle aussi des crises avec perte de contrôle, sans ce recours régulier à la compensation ; certaines formes d’anorexie mentale peuvent aussi associer crises et compensations. L’évaluation de l’ensemble du tableau appartient aux soignants. Victoire essaie de leur parler de la partie de la soirée qu’elle avait prévu de passer sous silence."
         },
         {
           "role": "manifestations",
-          "heading": "Du soulagement bref à la peur d’en parler",
-          "text": "L’impression de reprendre la main peut compter dans la répétition du comportement. Pour Victoire, la pression baisse brièvement et une autre inquiétude apparaît, celle de devoir dissimuler ce qui vient de se passer. En consultation, elle est tentée de dire seulement qu’elle a travaillé le lendemain. Cette réponse laisserait de côté la peur de prendre du poids et les compensations répétées, qui lui demandent encore un effort pour les raconter."
+          "heading": "Comment les compensations prolongent-elles ce qui se passe après la crise ?",
+          "points": [
+            {
+              "heading": "La peur continue après l’épisode",
+              "text": "Le retour du sentiment de pouvoir décider ne met pas forcément fin à la peur de prendre du poids.",
+              "examples": [
+                "Victoire a préparé le récit de sa crise ; il lui faut une seconde phrase pour dire la pression venue après.",
+                "Une personne peut retrouver une conversation ordinaire et rester préoccupée par ce qu’elle croit devoir contrebalancer."
+              ]
+            },
+            {
+              "heading": "Un apaisement bref peut côtoyer d’autres coûts",
+              "text": "La compensation peut sembler apporter un répit et être suivie d’inquiétudes physiques ou d’un effort pour la cacher.",
+              "examples": [
+                "En reprenant la soirée, Victoire distingue l’accalmie immédiate et le secret qui l’occupe ensuite.",
+                "Le fait d’avoir assuré son service le lendemain ne dit rien des questions physiques qu’elle garde pour elle."
+              ]
+            },
+            {
+              "heading": "La répétition a sa place dans le bilan",
+              "text": "L’équipe s’intéresse à ce qui revient au fil du temps et au retentissement, en plus du déroulement d’un épisode.",
+              "examples": [
+                "La docteure Benali demande ce que Victoire remarque dans son état physique.",
+                "Victoire convient que Nora apprendra qu’elle a enfin parlé de l’après-crise, pour pouvoir le reprendre au rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser une place à ce qui était difficile à dire",
-          "text": "Dire ce qui suit l’épisode aide Victoire à parler de conséquences que le seul récit du repas aurait laissées de côté. La consultation peut suivre cet enchaînement avec elle. Son équipe peut évaluer son état physique, reprendre le calendrier du suivi et explorer avec elle les moments où elle souhaiterait un soutien. Selon la HAS, la prise en charge articule les dimensions médicale, psychologique, nutritionnelle et sociale. La docteure Benali lui demande quel point elle aimerait transmettre à Nora et quel sujet elle préfère aborder elle-même. Victoire propose que la médecin leur rappelle qu’elle a enfin parlé de l’après-crise."
+          "heading": "3 techniques pour faire une place à l’après-crise en consultation",
+          "points": [
+            {
+              "heading": "Préparer une phrase d’entrée",
+              "objective": "Ouvrir le sujet des compensations avec un professionnel.",
+              "exercise": [
+                "Choisissez un rendez-vous où parler de la suite des épisodes.",
+                "Écrivez une phrase courte comme « Il se passe aussi quelque chose après ».",
+                "Lisez-la ou remettez-la au professionnel et précisez la question qui vous préoccupe."
+              ],
+              "benefit": "Une première phrase peut permettre d’aborder un sujet difficile sans devoir tout formuler d’un coup."
+            },
+            {
+              "heading": "Mettre en regard l’effet attendu et ce qui reste",
+              "objective": "Aider l’équipe à comprendre la répétition des conduites.",
+              "exercise": [
+                "Dites ce que vous espériez apaiser après l’épisode.",
+                "Décrivez l’inquiétude ou l’effet qui était encore là plus tard.",
+                "Demandez au professionnel quelles conséquences méritent d’être évaluées."
+              ],
+              "benefit": "Le bilan peut inclure ce que la compensation coûte et la pression à laquelle elle répond."
+            },
+            {
+              "heading": "Clarifier la suite entre les rendez-vous",
+              "objective": "Comprendre qui reprendra chaque question du suivi.",
+              "exercise": [
+                "Avec l’équipe, repérez à qui adresser vos questions physiques et psychologiques.",
+                "Demandez quelles informations sont utiles à transmettre entre les professionnels et discutez de cet échange.",
+                "Notez le prochain contact prévu et les consignes reçues."
+              ],
+              "benefit": "La coordination donne un endroit où reprendre une question sans dépendre d’un seul entretien."
+            }
+          ]
         }
       ],
       "ending_title": "Le portail dessiné à côté des questions",
@@ -143,7 +313,8 @@
       "continuity": {
         "choice": "Victoire décrit à la médecin les compensations répétées, convient de la transmission à Nora et invite Lila à parler le lendemain.",
         "next": "À la pause du mercredi, elle choisira ce qu’elle veut dire à Lila et ce qu’elle lui demande concrètement."
-      }
+      },
+      "conclusion": "Victoire peut envoyer son plan après avoir dit à la docteure Benali ce qui revenait après les crises. L’accord avec Nora donne une suite à cette parole. Le fait de réussir à travailler entre deux épisodes ne rendait pas les compensations moins importantes à aborder."
     },
     {
       "number": 4,
@@ -163,17 +334,73 @@
         {
           "role": "explanation",
           "heading": "L’anticipation du regard peut entretenir le secret",
-          "text": "La honte peut conduire à taire un épisode ou à organiser sa journée pour que personne ne voie sa détresse. Une personne peut tenir ses engagements avec un effort considérable et s’attendre à être jugée si elle raconte ce que cela lui coûte. Dire le nom du trouble peut alors représenter un risque relationnel."
+          "text": "Dans la boulimie nerveuse, la honte et la crainte d’être jugé peuvent prolonger le secret autour des crises. Une personne peut aussi s’inquiéter de ce que la confidence changera dans une relation importante. Sur le banc, Victoire redoute surtout que parler de son trouble invite désormais Lila à commenter ses repas. Elle cherche une façon de confier la difficulté et de dire ce qu’elle souhaite garder de leur amitié."
         },
         {
           "role": "manifestations",
-          "heading": "La peur de voir les rencontres changer",
-          "text": "Victoire craint que Lila examine chaque geste au repas et change de sujet lorsqu’elles auraient parlé du rallye. Elle a écrit le nom du trouble sur un papier pour arriver à le dire. Quand Lila s’apprête à répondre, Victoire s’attend à entendre qu’on ne l’aurait jamais deviné. Sa silhouette et le fait qu’elle arrive à travailler donnent peu d’accès à la honte qu’elle éprouve après une crise."
+          "heading": "Comment la peur d’être jugée retarde-t-elle une confidence ?",
+          "points": [
+            {
+              "heading": "Le risque est imaginé à l’avance",
+              "text": "La réponse que l’on redoute peut retarder la conversation avant même que l’autre ait parlé.",
+              "examples": [
+                "Victoire imagine qu’on lui dira que son trouble ne se voit pas.",
+                "Une personne peut renoncer à parler à un ami parce qu’elle s’attend à être questionnée à chaque sortie."
+              ]
+            },
+            {
+              "heading": "Trouver une entrée demande un effort",
+              "text": "La préparation peut servir à lancer quelques mots et à laisser le reste pour une autre occasion.",
+              "examples": [
+                "Victoire écrit le nom du trouble sur un papier qu’elle glisse dans sa poche.",
+                "Au moment où Lila lui demande ce qu’elle veut qu’elle sache, Victoire choisit de parler de la honte qu’elle peut ressentir après une crise."
+              ]
+            },
+            {
+              "heading": "La peur concerne la relation d’après",
+              "text": "Une confidence peut faire craindre d’être désormais considéré seulement à travers sa difficulté.",
+              "examples": [
+                "Victoire redoute que leur prochaine conversation porte sur son repas alors qu’elles sont venues parler du rallye.",
+                "Lila peut entendre qu’il y a un trouble et demander ce qui aiderait dans le groupe, sans chercher à reconnaître elle-même les crises."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Trouver un accord que les deux personnes peuvent tenir",
-          "text": "Une confidence peut servir à obtenir un changement très concret dans la relation. Victoire veut retrouver des conversations où sa présence compte pour des raisons ordinaires. Elle peut préciser que la confidence lui appartient et indiquer ce qu’elle voudrait si le groupe commence à commenter les corps. Lila répond qu’elle pourra changer de sujet quand elle est là et qu’elle ne saura pas toujours reconnaître un moment difficile. Cette réponse lui donne une limite et un point d’appui. Les questions sur les soins restent disponibles auprès de l’équipe de Victoire. Si celle-ci souhaite y inviter son amie plus tard, elle pourra en discuter d’abord avec elle et préciser ce qu’elle voudrait partager dans ce cadre.\n\nLes recommandations de la HAS invitent à écouter la souffrance, à accorder de l’attention à la façon d’en parler et à tenir compte du rôle choisi pour l’entourage. Lila peut partir des mots que son amie décide de lui confier."
+          "heading": "3 techniques pour choisir ce qu’on confie et l’aide qu’on demande",
+          "points": [
+            {
+              "heading": "Décider du niveau de détail",
+              "objective": "Parler à une personne choisie sans se sentir tenu de tout raconter.",
+              "exercise": [
+                "Identifiez ce que vous voulez que cette personne comprenne aujourd’hui.",
+                "Préparez une phrase pour commencer et une autre pour dire où vous voulez vous arrêter.",
+                "Proposez un moment où vous pouvez finir ou remettre la conversation selon votre préférence."
+              ],
+              "benefit": "Une limite annoncée donne de la place à une première confidence."
+            },
+            {
+              "heading": "Choisir une réponse que l’autre peut donner",
+              "objective": "Passer d’une inquiétude diffuse à un appui accepté.",
+              "exercise": [
+                "Décrivez une situation ordinaire où vous voudriez un soutien.",
+                "Proposez des mots simples que l’autre pourrait utiliser et demandez-lui si cela lui convient.",
+                "Convenez de reparler de cet accord si le besoin change."
+              ],
+              "benefit": "Une phrase choisie ensemble est plus facile à reprendre au bon moment."
+            },
+            {
+              "heading": "Définir ce qui peut circuler",
+              "objective": "Garder la main sur la confidence et réserver les soins à leur cadre.",
+              "exercise": [
+                "Dites à qui l’information peut être répétée, si vous souhaitez qu’elle le soit.",
+                "Convenez de ce que l’ami peut répondre aux questions du groupe.",
+                "Discutez avec votre équipe si vous envisagez d’associer ce proche à une partie du suivi."
+              ],
+              "benefit": "L’ami sait quel rôle il a accepté et la personne garde son espace pour les soins."
+            }
+          ]
         }
       ],
       "ending_title": "Une phrase qui peut tenir sur un banc",
@@ -189,7 +416,8 @@
       "continuity": {
         "choice": "Victoire annonce à Lila sa boulimie nerveuse et demande un soutien relationnel précis, avec confidentialité.",
         "next": "Elle retrouve son frère Simon le dimanche pour une soirée de disques et doit décider quoi lui dire après une journée difficile."
-      }
+      },
+      "conclusion": "Sur le banc, Victoire dit le nom du trouble et choisit avec Lila une phrase qu’elles pourront reprendre devant le groupe. Elles repartent en parlant de la côte. La confiance se vérifiera dans la façon dont cet accord sera respecté au fil de leurs rencontres."
     },
     {
       "number": 5,
@@ -209,17 +437,73 @@
         {
           "role": "explanation",
           "heading": "La honte peut changer la façon de lire un message",
-          "text": "Les crises de boulimie sont souvent vécues avec une détresse qui persiste ensuite. La honte peut colorer l’idée que l’on se fait de soi et de ce que les autres vont remarquer."
+          "text": "La honte après une crise de boulimie peut peser sur les liens bien après l’épisode. Elle change parfois la façon de comprendre une invitation, en faisant craindre que l’autre voie ou juge ce que l’on voudrait garder privé. Victoire a encore envie d’écouter les deux versions du morceau, mais elle lit d’abord l’offre de Simon comme le risque d’être vue au mauvais moment. Le suivi peut prendre en compte cet effet des crises sur des relations auxquelles elle tient."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Victoire imagine un jugement à partir d’une offre de trajet. Elle voudrait pouvoir écouter Simon sans repasser son dimanche dans sa tête. Dans les difficultés alimentaires, le retentissement social peut commencer par ces choix discrets de se cacher, d’annuler ou de se montrer disponible malgré l’effort demandé. Une personne peut aussi préférer du calme après une journée éprouvante. Ce qui intéresse le suivi, c’est la manière dont l’isolement ou les justifications prennent de la place au fil du temps et ce que la personne aimerait retrouver."
+          "heading": "Comment la honte peut-elle éloigner d’un rendez-vous attendu ?",
+          "points": [
+            {
+              "heading": "Une offre devient menaçante",
+              "text": "Une proposition ordinaire peut être entendue comme l’annonce d’un jugement alors que rien n’a encore été dit.",
+              "examples": [
+                "Victoire imagine que Simon reconnaîtrait sa journée en la voyant sur le pas de la porte.",
+                "Quelqu’un qui reçoit « Tu veux que je passe ? » après une crise peut avoir envie de se rendre indisponible malgré l’envie de compagnie."
+              ]
+            },
+            {
+              "heading": "Le retrait prend la forme d’un message",
+              "text": "Le besoin de se cacher peut faire écrire un refus avant qu’on ait réfléchi à ce que l’on veut faire.",
+              "examples": [
+                "Victoire prépare un message qui demande à son frère de la laisser tranquille.",
+                "Une personne peut inventer une obligation pour annuler une visite qu’elle préparait avec plaisir."
+              ]
+            },
+            {
+              "heading": "Le lien peut rester souhaité",
+              "text": "La honte et l’envie de retrouver quelqu’un peuvent rester présentes au même moment.",
+              "examples": [
+                "Victoire remet le disque dans son sac alors qu’elle veut encore écourter la soirée.",
+                "En arrivant, elle montre la déchirure de la pochette à Simon et retrouve une question qu’elle avait envie de lui poser."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire l’effet du jour avant de décider de tout raconter",
-          "text": "Victoire a plusieurs questions distinctes. Elle cherche ce qu’elle a envie de faire ce soir, ce que Simon a besoin de savoir pour s’organiser et ce qu’elle souhaiterait reprendre avec son équipe. Dire que sa journée a été difficile lui permet de corriger le message sans révéler plus qu’elle ne veut. Simon a aussi le choix de garder la soirée ou de proposer une autre date. Le lendemain, Victoire pourra dire à Nora que l’envie d’annuler revient parfois avant même d’avoir lu la réponse de quelqu’un. En consultation, ce détail aide à parler du coût de la honte et des choix qu’elle réduit. L’équipe pourra examiner avec elle ce qui se passe dans d’autres situations et déterminer les appuis adaptés."
+          "heading": "3 techniques pour retrouver un choix quand on s’apprête à se retirer",
+          "points": [
+            {
+              "heading": "Relire l’offre telle qu’elle est formulée",
+              "objective": "Faire une pause avant de répondre sous l’effet de la honte.",
+              "exercise": [
+                "Repérez les mots exacts de la proposition.",
+                "Distinguez ce qui est demandé de ce que vous craignez que l’autre devine.",
+                "Décidez si vous souhaitez répondre maintenant ou demander du temps."
+              ],
+              "benefit": "Les deux lectures deviennent plus faciles à distinguer sans devoir résoudre ce que l’autre pourrait penser."
+            },
+            {
+              "heading": "Proposer une version qui vous convient",
+              "objective": "Garder la possibilité d’un contact choisi ou d’un report clair.",
+              "exercise": [
+                "Repérez ce qui vous ferait encore plaisir dans le rendez-vous.",
+                "Dites quel format vous convient aujourd’hui, y compris si vous préférez reporter.",
+                "Laissez à l’autre personne la possibilité d’accepter ou de proposer un autre moment."
+              ],
+              "benefit": "Un lien peut continuer même si le projet de départ change."
+            },
+            {
+              "heading": "Apporter une annulation envisagée en consultation",
+              "objective": "Parler du retrait à partir d’une scène précise.",
+              "exercise": [
+                "Choisissez un rendez-vous que vous avez failli annuler ou que vous avez annulé.",
+                "Décrivez le moment où l’idée de vous cacher est arrivée et ce qui comptait pour vous ce jour-là.",
+                "Demandez au professionnel comment travailler sur ce coût dans le suivi."
+              ],
+              "benefit": "Le rendez-vous peut aborder la honte à partir de ce qu’elle change dans votre vie."
+            }
+          ]
         }
       ],
       "ending_title": "Écouter le premier morceau",
@@ -234,7 +518,8 @@
       "continuity": {
         "choice": "Victoire corrige son prétexte et propose une soirée plus courte. Elle garde le diagnostic privé et choisit d’aborder l’isolement en consultation.",
         "next": "Au rendez-vous suivant, elle apporte les messages et cherche avec Nora ce qui précédait la crise ainsi que ce qui suivait."
-      }
+      },
+      "conclusion": "L’écoute du premier morceau redonne à Victoire un rendez-vous qu’elle était sur le point d’annuler. Simon peut recevoir une réponse sincère sur la durée sans connaître le diagnostic. Le message effacé garde son intérêt pour Nora : il montre à quel moment la honte a commencé à décider pour Victoire."
     },
     {
       "number": 6,
@@ -258,13 +543,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que la honte fait passer au premier plan",
-          "text": "Victoire raconte d’abord la honte ressentie après la crise, parce qu’elle la retrouve plus facilement dans son souvenir. En revenant sur les heures précédentes, elle reconnaît l’irritation à propos d’une remarque, la fatigue et la crainte du regard de son frère. L’ordre est plus difficile à retrouver à l’approche de la crise. Elle se rappelle avoir voulu que quelque chose s’arrête, et hésite sur ce qu’elle ressentait à ce moment-là."
+          "heading": "Comment les émotions se distinguent-elles avant et après la crise ?",
+          "points": [
+            {
+              "heading": "Ce qui précède peut être mêlé",
+              "text": "Plusieurs circonstances et émotions peuvent précéder un épisode ; leur présence ne permet pas d’établir une cause unique.",
+              "examples": [
+                "En rentrant de la boutique, Victoire reste sur ses messages professionnels alors qu’elle voulait appeler Simon.",
+                "Dans la même soirée, elle retrouve le souvenir de sa fatigue et d’une remarque qui l’a irritée."
+              ]
+            },
+            {
+              "heading": "Un moment reste flou",
+              "text": "Le souvenir peut être incomplet près de l’épisode, même lorsqu’on retrouve bien le décor ou l’ordre des activités.",
+              "examples": [
+                "Victoire se rappelle qu’elle voulait que quelque chose s’arrête, sans retrouver ce qu’elle ressentait.",
+                "Une personne peut se souvenir d’avoir posé son sac dans l’entrée et hésiter entre inquiétude et irritation pour décrire ce moment."
+              ]
+            },
+            {
+              "heading": "L’émotion d’après revient en premier",
+              "text": "Ce qui marque le souvenir peut appartenir à l’après-crise et aider à comprendre ses effets sur la suite.",
+              "examples": [
+                "Victoire retrouve d’abord la honte en voyant la conversation sur son téléphone.",
+                "Le premier message qu’elle envisage pour Simon témoigne de son envie de se cacher après l’épisode."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une question utile pour la prochaine fois",
-          "text": "Victoire aimerait mieux reconnaître les moments où un engagement important commence à ressembler à une chose qu’elle devra cacher. Nora peut lui demander de distinguer ce dont elle se souvient et ce qu’elle reconstitue. Les incertitudes aident à choisir ce qu’il reste à explorer. Elle lui propose de retenir une situation dont elles pourront reparler, comme le passage entre la fermeture de la boutique et le retour chez elle. Elle lui demande aussi si la partie physique du suivi lui semble claire et si elle sait à qui poser une question qui l’inquiète. La docteure Benali garde le fil des soins avec elle. Victoire convient qu’elle préfère savoir à qui parler plutôt que d’essayer de retrouver chaque détail de sa semaine. Elle peut aussi reprendre avec Idriss la phrase qui l’a heurtée, si elle souhaite simplement réfléchir à la façon dont la boutique présente le rallye."
+          "heading": "3 techniques pour retrouver l’ordre d’une situation avec son équipe",
+          "points": [
+            {
+              "heading": "Choisir trois moments repérables",
+              "objective": "Situer des circonstances sans tout reconstituer.",
+              "exercise": [
+                "Nommez une situation dont vous voulez parler avec l’équipe.",
+                "Repérez un fait antérieur, un souvenir proche de l’épisode et un effet ultérieur.",
+                "Présentez-les dans l’ordre, en laissant vide ce qui reste flou."
+              ],
+              "benefit": "La discussion peut suivre la chronologie sans attribuer la crise à une seule émotion."
+            },
+            {
+              "heading": "Marquer une hypothèse comme telle",
+              "objective": "Faire de l’incertitude une information utile pour le suivi.",
+              "exercise": [
+                "Choisissez un mot dont vous êtes sûr, même s’il décrit seulement un fait.",
+                "Si un mot d’émotion vous vient sans certitude, présentez-le comme une possibilité.",
+                "Demandez au professionnel quel moment il serait utile de reprendre avec vous."
+              ],
+              "benefit": "La personne et son équipe peuvent examiner les liens possibles sans forcer une interprétation."
+            },
+            {
+              "heading": "Garder une question pour un seul passage",
+              "objective": "Limiter l’effort demandé entre deux entretiens.",
+              "exercise": [
+                "Choisissez une transition ordinaire qui vous intrigue, comme le retour du travail.",
+                "Formulez une question sur ce que vous y avez vécu.",
+                "Convenez avec l’équipe de la façon de reprendre cette question et du contact à utiliser en cas d’inquiétude."
+              ],
+              "benefit": "Un point précis peut suffire pour continuer le travail sans examiner toute la semaine."
+            }
+          ]
         }
       ],
       "ending_title": "Le mot débutant sur le prospectus",
@@ -280,7 +621,8 @@
       "continuity": {
         "choice": "Victoire et Nora choisissent un moment de vie à explorer sans attribuer la crise à une seule émotion. Victoire propose un essai de prospectus à Idriss.",
         "next": "Jeudi après le travail, Idriss est présent lorsque Victoire éprouve des symptômes physiques soudains."
-      }
+      },
+      "conclusion": "Nora et Victoire retiennent le retour de la boutique comme point de départ. La honte du dimanche reste plus facile à nommer que ce qui précède la crise, et l’entretien peut garder cette différence ouverte. Victoire reprend le prospectus avec Idriss sans avoir à résoudre cette question d’abord."
     },
     {
       "number": 7,
@@ -304,13 +646,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Les signes apparus devant le prospectus",
-          "text": "Victoire sent son cœur battre soudain très vite. Elle a du mal à fixer le bord de l’affiche, s’appuie au comptoir et dit à Idriss qu’elle se sent mal. Dans la scène, l’appel se déclenche dès le malaise, alors qu’Idriss ignore le diagnostic et que Victoire n’a encore rien expliqué de ses crises. La suite du bilan pourra chercher ce qui explique les symptômes."
+          "heading": "Comment le besoin d’un relais urgent devient-il visible ?",
+          "points": [
+            {
+              "heading": "Les sensations coupent une action en cours",
+              "text": "Un changement physique soudain peut être signalé dans les mots de la personne, même sans explication.",
+              "examples": [
+                "En cherchant où déplacer le titre, Victoire sent brusquement son cœur battre très vite.",
+                "Elle s’appuie au comptoir et dit à Idriss qu’elle se sent mal, alors qu’elle voulait finir le prospectus."
+              ]
+            },
+            {
+              "heading": "Le collègue dispose de faits immédiats",
+              "text": "L’appel peut partir de ce que l’on voit et entend. Les secours évaluent ce qu’il faut faire ensuite.",
+              "examples": [
+                "Idriss peut dire à quel moment Victoire lui a demandé de l’aide.",
+                "Il peut signaler qu’elle s’est appuyée au comptoir et rapporter ses mots sur le malaise."
+              ]
+            },
+            {
+              "heading": "Le bilan peut reprendre des éléments privés",
+              "text": "Un trouble alimentaire connu donne un contexte aux soignants parmi les autres informations qu’ils examinent.",
+              "examples": [
+                "Victoire demande à parler à part pour signaler son suivi.",
+                "Avant de partir, elle indique aux intervenants où trouver le contact de sa médecin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner les faits et suivre les indications reçues",
-          "text": "Idriss peut signaler ce qu’il voit, dire quand les symptômes ont commencé et permettre à Victoire de décrire ce qu’elle ressent si elle peut parler. Les secours lui indiquent quoi faire pendant l’attente. Le rôle du collègue tient à la situation immédiate et à l’aide qu’il peut réellement apporter. Une fois le relais pris, Victoire garde la possibilité de parler aux professionnels de ses informations de santé dans des conditions qui lui conviennent autant que la situation le permet. Victoire peut notamment signaler aux soignants qu’elle est suivie pour un trouble alimentaire. Ils en tiennent compte avec les symptômes du moment et les autres éléments utiles du dossier. La suite du bilan et les éventuels liens avec la boulimie se décideront à partir de l’examen. Le prospectus peut attendre et Idriss peut demander plus tard à Victoire ce qu’elle souhaite transmettre concernant le travail."
+          "heading": "3 techniques pour obtenir un relais médical devant des palpitations avec malaise",
+          "points": [
+            {
+              "heading": "Appeler immédiatement les secours médicaux",
+              "objective": "Obtenir une évaluation urgente lorsque des palpitations s’accompagnent d’un malaise.",
+              "exercise": [
+                "Appelez le 15 ou le 112 en France dès que ce tableau se présente.",
+                "Donnez le lieu et décrivez les symptômes tels qu’ils sont perçus ou observés.",
+                "Suivez les consignes des secours pendant l’attente."
+              ],
+              "benefit": "Les secours peuvent décider de la réponse adaptée sans attendre que la cause soit connue."
+            },
+            {
+              "heading": "Transmettre les observations utiles",
+              "objective": "Donner aux intervenants des faits sur lesquels s’appuyer, une fois l’appel lancé.",
+              "exercise": [
+                "Indiquez quand les symptômes ont commencé, si vous le savez.",
+                "Rapportez ce que la personne vous a dit et ce qui a changé depuis.",
+                "Précisez comment l’équipe peut accéder au lieu et laissez-la prendre le relais à son arrivée."
+              ],
+              "benefit": "Les secours disposent d’un déroulé utile tandis que la prise en charge se poursuit."
+            },
+            {
+              "heading": "Faire connaître le suivi aux soignants",
+              "objective": "Permettre à l’équipe de tenir compte des informations de santé pertinentes.",
+              "exercise": [
+                "Après le relais urgent, dites aux soignants quels suivis sont en cours si vous pouvez le faire.",
+                "Indiquez le contact du professionnel référent ou où le trouver.",
+                "Demandez à l’équipe comment les informations utiles pourront être reprises pour la suite."
+              ],
+              "benefit": "L’évaluation peut s’appuyer sur les symptômes actuels et sur le suivi déjà engagé."
+            }
+          ]
         }
       ],
       "ending_title": "Le prospectus reste contre la caisse",
@@ -326,7 +724,8 @@
       "continuity": {
         "choice": "Idriss appelle les secours, Victoire décrit le malaise et transmet son suivi en privé à l’équipe qui la conduit pour une évaluation.",
         "next": "Après le passage aux urgences, la médecin coordinatrice reprend le bilan et le suivi. Idriss ne connaît toujours pas le diagnostic."
-      }
+      },
+      "conclusion": "Le prospectus reste contre la caisse et Idriss prend la fermeture en charge. Il a appelé à partir du malaise observé. La boulimie fait partie des éléments que Victoire transmet aux soignants ; l’origine des palpitations reste une question pour le bilan."
     },
     {
       "number": 8,
@@ -350,13 +749,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "L’appréhension qui persiste après le malaise",
-          "text": "Les sensations se sont apaisées, mais Victoire se demande encore comment elle réagirait si elles revenaient. La question pèse sur le retour à la boutique. En parlant des horaires avec sa médecin, elle se rend compte qu’elle appréhende surtout les fermetures où elle serait seule. Le trouble connu donne aux professionnels un contexte. Leurs conclusions sur le malaise reposent sur l’évaluation, sur l’évolution et sur ce que Victoire leur décrit."
+          "heading": "Comment le besoin de suivi persiste-t-il après le retour à la maison ?",
+          "points": [
+            {
+              "heading": "Une inquiétude survit au symptôme",
+              "text": "Quand les sensations se calment, la personne peut encore appréhender leur retour ou se demander quoi faire.",
+              "examples": [
+                "Victoire se sent mieux lorsqu’elle déplie le compte rendu de sortie, mais le malaise l’inquiète encore.",
+                "En parlant du retour à la boutique, elle découvre qu’elle redoute particulièrement les fermetures seule."
+              ]
+            },
+            {
+              "heading": "Les deux consultations ont des fonctions différentes",
+              "text": "L’urgence apprécie la situation immédiate ; le suivi reprend l’évolution et les questions qui restent.",
+              "examples": [
+                "Les urgences la laissent rentrer et lui indiquent de reprendre contact avec son équipe spécialisée.",
+                "La docteure Benali vérifie comment Victoire se sent maintenant et convient avec elle de ce qu’il faudra revoir."
+              ]
+            },
+            {
+              "heading": "Le travail appelle sa propre organisation",
+              "text": "Un aménagement de reprise peut répondre à une contrainte précise en parallèle du bilan médical.",
+              "examples": [
+                "Victoire veut demander elle-même à Idriss de partager les premières fermetures.",
+                "Elle décide avec Lila de venir à la réunion et de laisser la démonstration du départ à Manu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce que chaque personne a besoin de savoir",
-          "text": "La coordination permet à l’équipe de se transmettre des éléments utiles à la prise en charge. Victoire peut demander ce que le bilan permet de comprendre, quels points restent à suivre et à qui poser une question si les sensations reviennent. La docteure Benali lui explique ce qu’elle propose de reprendre avec Nora et confirme le prochain contact médical. Pour la boutique, Victoire a une demande d’organisation et souhaite discuter avec Idriss de ce qui est possible. Elle peut lui dire qu’elle reprend un suivi après le malaise, et décider du niveau de détail qu’elle souhaite partager. Elle demande aussi à la médecin quelles activités et quels engagements sont adaptés pendant cette période. Lila saura seulement ce que Victoire lui dira pour organiser la prochaine réunion. Chacun peut ainsi répondre à une question à sa portée."
+          "heading": "3 techniques pour reprendre le fil des soins après une évaluation urgente",
+          "points": [
+            {
+              "heading": "Apporter les suites de la sortie",
+              "objective": "Aider le professionnel habituel à reprendre l’évaluation après l’urgence.",
+              "exercise": [
+                "Apportez le compte rendu et les consignes reçues, si vous les avez.",
+                "Expliquez ce qui s’est amélioré et ce qui vous inquiète encore.",
+                "Demandez quelles questions ou quels examens doivent être revus dans votre situation."
+              ],
+              "benefit": "Le rendez-vous peut repartir des faits et préciser ce qui reste à évaluer."
+            },
+            {
+              "heading": "Repérer les contacts selon la situation",
+              "objective": "Savoir à qui s’adresser après la consultation.",
+              "exercise": [
+                "Demandez qui joindre pour une question ordinaire entre deux rendez-vous.",
+                "Faites préciser les consignes en cas de nouveaux symptômes ou d’urgence.",
+                "Gardez ce contact et ces indications à un endroit accessible."
+              ],
+              "benefit": "La prochaine décision peut suivre un repère médical convenu à l’avance."
+            },
+            {
+              "heading": "Préparer une reprise praticable",
+              "objective": "Formuler une demande de travail compatible avec ce dont vous avez besoin.",
+              "exercise": [
+                "Choisissez la tâche ou l’horaire qui pose le plus de difficulté.",
+                "Définissez la durée de l’ajustement que vous souhaitez discuter et les renseignements que vous voulez partager.",
+                "Convenez avec le responsable du moment où vous ferez le point."
+              ],
+              "benefit": "L’équipe de travail peut organiser un relais précis tandis que les questions médicales restent suivies."
+            }
+          ]
         }
       ],
       "ending_title": "Ce que Victoire écrit à Idriss",
@@ -372,7 +827,8 @@
       "continuity": {
         "choice": "Victoire convient d’une suite médicale, choisit de demander un aménagement temporaire à Idriss et confie la démonstration à Manu.",
         "next": "À la réunion des bénévoles qui suit, elle veut présenter le plan et s’appuyer sur l’accord passé avec Lila si les commentaires deviennent difficiles."
-      }
+      },
+      "conclusion": "Le compte rendu rejoint la poche intérieure du sac, puis Victoire écrit à Idriss au sujet des fermetures. La disparition du malaise permet de parler de la reprise. Elle garde avec la docteure Benali des questions et un contact pour la suite du suivi."
     },
     {
       "number": 9,
@@ -396,13 +852,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "La conversation qu’elle cesse d’entendre",
-          "text": "Victoire anticipe les questions sur ce qu’elle mange et perd le fil de ce que Manu lui demande. Elle lui répond oui et s’aperçoit qu’elle n’a pas entendu la question sur le passage derrière la gare. Sur le moment, elle voudrait que Lila parle pour elle. Son expérience varie selon les situations. Elle pourrait aussi être contrariée par la plaisanterie pour elle-même, comme n’importe quel membre du groupe."
+          "heading": "Comment les commentaires du groupe détournent-ils l’attention ?",
+          "points": [
+            {
+              "heading": "Une remarque peut atteindre ceux qu’elle ne vise pas",
+              "text": "Une conversation sur les silhouettes peut réveiller la crainte d’être évalué chez une personne déjà préoccupée par son corps.",
+              "examples": [
+                "À table, Victoire entend un commentaire qui suffit à l’éloigner de la question de Manu.",
+                "Une remarque sur le repas d’un autre bénévole peut faire anticiper ce que le groupe dira du sien."
+              ]
+            },
+            {
+              "heading": "La discussion devient difficile à suivre",
+              "text": "Quand l’attention se déplace vers ce que le groupe regarde ou pourrait dire, la contribution préparée devient plus difficile à reprendre.",
+              "examples": [
+                "Victoire envisage de laisser Lila finir la conversation à sa place.",
+                "Manu tient encore le plan ouvert et Victoire doit retrouver le passage sur lequel il lui demande son avis."
+              ]
+            },
+            {
+              "heading": "Un retour au sujet peut se faire à plusieurs",
+              "text": "Une phrase convenue peut ouvrir une réponse ; la personne choisit si elle souhaite prendre la suite.",
+              "examples": [
+                "Lila propose de revenir au trajet, comme elles en ont parlé sur le banc.",
+                "Victoire ajoute sa propre demande et montre où le groupe pourra s’arrêter sans gêner le parking."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à une conversation à laquelle chacun peut prendre part",
-          "text": "Lila reprend la phrase convenue et laisse à Victoire le choix de dire davantage. La remarque de Victoire porte sur le sujet de la conversation. Elle peut être entendue par le groupe sans expliquer le diagnostic. Les bénévoles peuvent poser des questions sur le rallye, se répartir la démonstration ou parler d’un autre sujet qu’ils choisissent ensemble. Un proche qui connaît le trouble peut aussi demander après coup comment la personne a vécu le moment. Une présence prévisible ou une conversation qui laisse de la place à autre chose peut compter pour Victoire. Les décisions sur l’alimentation et les soins restent à discuter avec l’équipe. Celle-ci peut reprendre ce qu’un repas partagé lui coûte aujourd’hui, les liens éventuels avec les crises ou les compensations et les appuis qu’elle souhaite."
+          "heading": "3 techniques pour retrouver sa place dans un échange où les corps sont commentés",
+          "points": [
+            {
+              "heading": "Avoir une phrase utilisable à table",
+              "objective": "Exprimer une limite sans devoir expliquer sa santé au groupe.",
+              "exercise": [
+                "Choisissez des mots que vous pourriez dire tels quels.",
+                "Associez-les, si vous le souhaitez, à une question sur le sujet que vous voulez reprendre.",
+                "Gardez la possibilité de demander une pause ou de quitter l’échange."
+              ],
+              "benefit": "La réponse peut rester brève tout en donnant un autre sujet au groupe."
+            },
+            {
+              "heading": "Convenir du rôle d’une personne de confiance",
+              "objective": "Obtenir l’appui choisi sans perdre sa place dans la conversation.",
+              "exercise": [
+                "Dites en privé quelle situation peut vous gêner.",
+                "Convenez d’une phrase ou d’un relais qui respecte la confidentialité.",
+                "Après la rencontre, dites si cet appui vous a convenu et ce que vous voudriez ajuster."
+              ],
+              "benefit": "Un soutien vérifié laisse à chacun une façon claire d’agir lors d’une autre rencontre."
+            },
+            {
+              "heading": "Retrouver une question précise",
+              "objective": "Revenir à la contribution que vous souhaitez apporter.",
+              "exercise": [
+                "Repérez qui attendait une réponse ou quel objet était au centre de l’échange.",
+                "Reprenez un détail observable, comme la rue où le groupe s’arrêtera.",
+                "Choisissez ensuite de poursuivre ou de laisser quelqu’un prendre le relais."
+              ],
+              "benefit": "Une question délimitée donne un point où reprendre la conversation malgré la gêne."
+            }
+          ]
         }
       ],
       "ending_title": "La rue derrière la gare",
@@ -418,7 +930,8 @@
       "continuity": {
         "choice": "Lila revient au trajet selon leur accord et Victoire demande au groupe de laisser les silhouettes de côté. Manu garde la démonstration du départ.",
         "next": "Après des semaines plus stables, le pliage des plans approche. Victoire connaît un nouvel épisode de crise et décide comment en parler."
-      }
+      },
+      "conclusion": "La phrase de Lila rouvre une discussion que Victoire choisit de poursuivre. Elle peut dire sa limite et répondre à Manu sur le trajet. Le groupe a une information utile pour son essai ; Victoire et Lila savent désormais ce qui lui a convenu dans leur accord."
     },
     {
       "number": 10,
@@ -442,13 +955,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le découragement qui revient jusque dans le pliage",
-          "text": "Victoire avait retrouvé des soirées plus libres. Après la nouvelle crise, elle se demande si elle a parlé trop vite de cette amélioration à Nora. Le lendemain, elle montre à Lila comment plier le plan et refait le même pli deux fois. Elle finit par lui dire qu’elle souhaite s’arrêter après la pile en cours. Les soirées plus libres et la difficulté présente font partie de la même évolution."
+          "heading": "Comment le retour d’une crise modifie-t-il la lecture des semaines écoulées ?",
+          "points": [
+            {
+              "heading": "Le souvenir des semaines stables peut s’effacer",
+              "text": "Le découragement immédiat peut faire lire un épisode comme un retour au point de départ.",
+              "examples": [
+                "Victoire pense à écrire « ça recommence » dès qu’elle ouvre le message du service.",
+                "Quelqu’un peut ne plus se rappeler les démarches qui l’ont aidé auparavant lorsqu’une soirée difficile revient."
+              ]
+            },
+            {
+              "heading": "Le retour a un coût concret",
+              "text": "La souffrance d’un épisode compte même si la personne garde des activités et des appuis.",
+              "examples": [
+                "Victoire a envie de voir Lila et se demande ce qu’elle va remarquer en entrant.",
+                "Elle décide de finir la pile devant elles et de lui confier le reste."
+              ]
+            },
+            {
+              "heading": "Un appui ancien peut resservir",
+              "text": "Une période plus calme peut avoir laissé des ressources utiles lors d’une difficulté nouvelle.",
+              "examples": [
+                "Victoire retrouve le contact que la docteure Benali lui a indiqué après le malaise.",
+                "Elle précise son inquiétude dans son message et reçoit le lendemain une proposition de rendez-vous avec Nora."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répartir ce qui peut être fait aujourd’hui",
-          "text": "Victoire peut demander à Lila de l’aider sur une tâche dont les contours sont visibles, comme finir le pliage ou emporter ce qui reste. Lila peut dire ce qu’elle a le temps de faire. Elle n’a pas à déterminer la gravité de la reprise des symptômes. Pour cette question, Victoire utilise le contact convenu avec l’équipe. Elle peut dire à Nora ce qui est revenu et comment cela a pesé sur le pliage, pour préciser ce dont elle a besoin maintenant. Elle veut garder la possibilité de venir dimanche et revoir sa part du travail selon ce qu’elles décideront. La date du rallye donne une échéance au groupe. Elle laisse aussi des choix que Victoire peut ajuster indépendamment du rendez-vous de soins, comme présenter le plan au départ ou rester à l’accueil."
+          "heading": "3 techniques pour reprendre contact avec l’équipe après un épisode",
+          "points": [
+            {
+              "heading": "Donner des nouvelles assez précises",
+              "objective": "Faire connaître à l’équipe ce qui justifie de reprendre contact.",
+              "exercise": [
+                "Utilisez le moyen de contact dont vous avez convenu avec le service.",
+                "Décrivez l’épisode récent et la conséquence qui vous préoccupe aujourd’hui.",
+                "Demandez quand en parler et suivez les consignes de l’équipe pour la suite."
+              ],
+              "benefit": "Le professionnel peut apprécier ce qui demande d’être repris, y compris la santé physique."
+            },
+            {
+              "heading": "Garder deux repères de la période",
+              "objective": "Préparer un bilan qui inclut les changements et la difficulté revenue.",
+              "exercise": [
+                "Choisissez une chose qui avait trouvé une place pendant les semaines plus stables.",
+                "Décrivez ce qui a changé depuis l’épisode.",
+                "Présentez les deux faits au même entretien."
+              ],
+              "benefit": "Les décisions du suivi peuvent partir d’une évolution plus large qu’une seule soirée."
+            },
+            {
+              "heading": "Réduire une tâche précise",
+              "objective": "Préserver l’engagement que vous souhaitez garder en demandant un relais faisable.",
+              "exercise": [
+                "Distinguez ce qui doit être fait aujourd’hui de ce qui peut attendre.",
+                "Proposez à la personne disponible une part concrète à reprendre.",
+                "Fixez avec elle le prochain point, si vous souhaitez poursuivre le projet."
+              ],
+              "benefit": "L’activité peut continuer avec une répartition explicite pendant que vous reprenez les soins."
+            }
+          ]
         }
       ],
       "ending_title": "Le sac des plans à moitié plein",
@@ -464,7 +1033,8 @@
       "continuity": {
         "choice": "Victoire dit à Lila qu’une crise est revenue, réduit le pliage et écrit au service avec le contact prévu. Un échange avec Nora est fixé.",
         "next": "Après cet échange, elle prépare l’accueil du samedi et décide ce qu’elle veut expliquer à Simon avant le rallye."
-      }
+      },
+      "conclusion": "Victoire réduit le pliage, retrouve le message de la docteure Benali et obtient un échange avec Nora. La crise mérite une réponse, même si les semaines plus stables et le travail sur le rallye ont compté. Le rendez-vous ouvre un espace pour reprendre ces deux aspects."
     },
     {
       "number": 11,
@@ -488,13 +1058,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que Simon remarque et ce que Victoire lui confie",
-          "text": "Simon a entendu au téléphone que Victoire paraissait fatiguée. Il lui propose de tenir l’accueil seul. Victoire pense à la soirée qu’elle avait voulu annuler et lui explique pourquoi certains rendez-vous lui demandent tant d’effort. Elle le prend à part et lui confie le nom du trouble. Elle tient aussi à sa place à l’accueil et souhaite décider elle-même quand elle aura besoin d’une pause."
+          "heading": "Comment un proche peut-il aider tout en laissant la décision à la personne ?",
+          "points": [
+            {
+              "heading": "La confidence peut entraîner une offre large",
+              "text": "Un proche qui apprend le diagnostic peut proposer de prendre une tâche entière avant de savoir ce qui est demandé.",
+              "examples": [
+                "Simon commence par demander ce qu’il doit faire après la confidence de Victoire.",
+                "Une personne informée d’une difficulté peut proposer de tenir tout un accueil alors qu’on souhaitait seulement pouvoir s’absenter quelques minutes."
+              ]
+            },
+            {
+              "heading": "Un relais peut laisser le rôle principal à la personne",
+              "text": "Préciser le moment et la tâche donne une forme à l’aide tout en gardant l’activité à celui qui l’a choisie.",
+              "examples": [
+                "Victoire veut accueillir elle-même les participants et demande une disponibilité si elle doit quitter la table.",
+                "Elle montre à Simon où ranger la pince pour qu’il puisse reprendre les plans au besoin."
+              ]
+            },
+            {
+              "heading": "La confiance inclut les limites de la confidence",
+              "text": "L’accord sur le soutien ne décide pas de ce que d’autres personnes sauront du diagnostic.",
+              "examples": [
+                "Simon demande ce qu’il pourra dire si on lui demande des nouvelles.",
+                "Victoire lui demande de garder le nom du trouble entre eux et ils peuvent ensuite parler du disque."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un appui précis plutôt que s’engager à tout prendre en charge",
-          "text": "Une proposition peut préciser à quel moment et sur quoi le proche est disponible. Simon peut tenir l’accueil pendant une pause et annoncer à Victoire s’il doit partir. Victoire peut dire quand elle voudrait lui transmettre une question sur sa santé ou lui demander une présence à un rendez-vous, si cette idée lui convient plus tard. Victoire peut aussi parler avec Nora de ce que le partage change pour elle. Le service reste le bon interlocuteur pour évaluer les symptômes et décider de la suite. Sur le moment, Simon veut savoir ce qu’il peut dire au groupe. Il pourra dire que Victoire tient l’accueil et qu’il la relaye pendant les pauses. L’échange laisse aussi de la place à leur relation de frère et sœur. Ils peuvent décider de reparler du disque qu’ils n’ont pas encore écouté ensemble."
+          "heading": "3 techniques pour définir un relais que chacun choisit",
+          "points": [
+            {
+              "heading": "Séparer la confidence de la demande",
+              "objective": "Dire à un proche ce que vous attendez de lui dans une situation précise.",
+              "exercise": [
+                "Choisissez l’information que vous souhaitez lui confier.",
+                "Indiquez la part de l’activité que vous voulez garder.",
+                "Proposez une action qu’il peut accepter, refuser ou modifier."
+              ],
+              "benefit": "Les deux personnes peuvent décider de l’aide à partir d’une demande concrète."
+            },
+            {
+              "heading": "Préparer un relais ponctuel",
+              "objective": "Permettre un passage de main sans devoir tout organiser au moment de partir.",
+              "exercise": [
+                "Convenez du créneau où le proche peut se rendre disponible.",
+                "Montrez-lui une tâche à reprendre et les objets utiles.",
+                "Choisissez comment demander le relais et reprendre votre place ensuite, si vous le souhaitez."
+              ],
+              "benefit": "L’accord est utilisable sur place et chacun connaît sa marge de choix."
+            },
+            {
+              "heading": "Convenir d’une réponse aux questions extérieures",
+              "objective": "Protéger ce qui a été confié en préparant une situation courante.",
+              "exercise": [
+                "Dites ce qui doit rester entre vous.",
+                "Choisissez une réponse pratique que le proche peut donner si quelqu’un l’interroge.",
+                "Reparlez ensemble de cet accord si vous souhaitez modifier la place du proche."
+              ],
+              "benefit": "Une limite claire aide le proche à répondre sans divulguer une information de santé."
+            }
+          ]
         }
       ],
       "ending_title": "La pince reste à droite du porte-cartes",
@@ -510,7 +1136,8 @@
       "continuity": {
         "choice": "Victoire nomme sa boulimie à Simon en privé, garde son rôle à l’accueil et choisit avec lui un relais ponctuel et un accord de confidentialité.",
         "next": "Dimanche, Manu montre le départ et Victoire accueille le premier groupe. Simon peut la relayer si elle le lui demande."
-      }
+      },
+      "conclusion": "Simon sait où sont les pinces et quand Victoire pourra l’appeler. Elle garde l’accueil et le choix de ce que son frère peut transmettre. En préparant ce relais, ils trouvent une place pour l’aide qui laisse aussi vivre leur lien autour du disque."
     },
     {
       "number": 12,
@@ -530,17 +1157,73 @@
         {
           "role": "explanation",
           "heading": "Tenir compte de ce qui compte pour la personne",
-          "text": "Les objectifs d’une prise en charge de la boulimie nerveuse peuvent inclure la réduction des crises et des compensations, l’état physique et psychique, et ce qui redevient possible dans les relations ou les activités."
+          "text": "Le suivi de la boulimie nerveuse peut porter à la fois sur les crises et les compensations, l’état physique et psychique et ce qui redevient possible dans la vie quotidienne. Ces éléments peuvent évoluer différemment. Le rallye donne à Victoire l’occasion de retrouver ce qu’elle aime dans un plan : la remarque précise d’une personne qui essaie de se repérer. Une photo peut encore la préoccuper et rester un sujet de consultation."
         },
         {
           "role": "manifestations",
-          "heading": "La place que la photo reprend après l’accueil",
-          "text": "Victoire apprécie d’entendre qu’un participant a trouvé le passage derrière la gare grâce à la vitrine. Quand le groupe propose une photo, elle se surprend à se demander de nouveau comment elle se tient. Elle demande alors à Simon de prendre l’accueil un moment. La satisfaction et l’effort que lui demande la photo se succèdent dans la même matinée. Une activité reprise peut donner à la consultation des exemples concrets de ce qui l’aide ou de ce qui lui coûte de l’effort. Les soignants poursuivent l’évaluation du trouble et de son évolution avec elle. Une journée qui se passe bien fait partie de ce récit, au même titre que les difficultés qui restent à aborder."
+          "heading": "Comment une activité retrouve-t-elle de la place pendant le suivi ?",
+          "points": [
+            {
+              "heading": "Un intérêt redevient perceptible",
+              "text": "On peut voir le retour d’une activité dans un geste ou une question qui compte pour la personne.",
+              "examples": [
+                "Victoire demande à une participante par où elle est arrivée et découvre comment le plan l’a aidée.",
+                "Elle retient la remarque sur la vitrine pour la prochaine réunion."
+              ]
+            },
+            {
+              "heading": "Participer peut inclure un relais",
+              "text": "La reprise peut demander une aide déjà convenue, même lors d’une activité qui se déroule bien.",
+              "examples": [
+                "Victoire s’assoit un moment avec Lila pendant que Simon reprend la table.",
+                "En revenant, elle voit que son frère a laissé les plans orientés comme elle le souhaitait."
+              ]
+            },
+            {
+              "heading": "La suite du projet reste à choisir",
+              "text": "Une réussite collective et des difficultés persistantes peuvent conduire à des décisions séparées.",
+              "examples": [
+                "Victoire veut présenter les remarques du rallye avant de choisir son rôle dans le suivant.",
+                "Elle pense encore à la photo et garde la question pour Nora plutôt que de tirer une conclusion de la journée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder des choix pour les prochaines semaines",
-          "text": "Victoire se donne du temps avant d’accepter une nouvelle responsabilité. Elle sait qu’elle peut demander à Lila de reparler de la photo, de la réunion et du relais dont elle a eu besoin. Elle a également un prochain rendez-vous, où elle voudrait reprendre ses préoccupations autour du corps, l’évolution des crises et les questions de suivi physique convenues après le malaise. Ces sujets peuvent être discutés avec des personnes différentes. Simon peut lui dire ce qu’il a aimé en tenant l’accueil et garder ses propres projets. Victoire peut choisir ce qu’elle apporte au groupe et ce qu’elle garde pour sa consultation. Le premier trajet est terminé. La suite de ses soins se construit avec l’équipe."
+          "heading": "3 techniques pour garder une activité choisie sans se fixer une preuve de guérison",
+          "points": [
+            {
+              "heading": "Repérer ce qui a retrouvé une place",
+              "objective": "Nommer un gain dans la vie ordinaire à côté des objectifs de santé.",
+              "exercise": [
+                "Choisissez un moment où vous avez retrouvé un intérêt ou un lien.",
+                "Décrivez ce qui a rendu ce moment possible.",
+                "Si vous le souhaitez, présentez-le au prochain entretien avec une difficulté encore présente."
+              ],
+              "benefit": "Un bilan peut inclure les différentes évolutions d’une même période."
+            },
+            {
+              "heading": "Revoir un relais après l’avoir essayé",
+              "objective": "Ajuster le soutien à partir d’une situation vécue.",
+              "exercise": [
+                "Demandez au proche comment s’est passé le passage de main.",
+                "Dites quel geste vous a permis de reprendre votre place.",
+                "Convenez de ce que vous voudrez garder ou changer si le projet revient."
+              ],
+              "benefit": "Un appui peut rester disponible sous une forme qui convient aux deux personnes."
+            },
+            {
+              "heading": "Proposer une contribution limitée pour la suite",
+              "objective": "Faire une nouvelle place au projet selon ce que vous voulez y apporter.",
+              "exercise": [
+                "Repérez une tâche qui a un intérêt propre pour vous.",
+                "Proposez cette contribution avec un moment pour la remettre ou en discuter.",
+                "Fixez un autre temps pour décider de l’engagement plus large."
+              ],
+              "benefit": "Le projet avance et votre accord reste proportionné à ce que vous pouvez décider aujourd’hui."
+            }
+          ]
         }
       ],
       "ending_title": "La vitrine reste sur la carte",
@@ -556,7 +1239,8 @@
       "continuity": {
         "choice": "Victoire termine le premier rallye, demande un relais ponctuel et propose de transmettre ses observations sans accepter d’avance un nouveau rôle.",
         "next": "La réunion de retour et les rendez-vous de soins sont prévus séparément. Victoire retrouve Simon pour écouter leur disque."
-      }
+      },
+      "conclusion": "Le premier rallye a trouvé son chemin entre la gare et le marché. Victoire en rapporte une remarque à l’équipe et garde la question de la photo pour Nora. Elle peut revenir à ce qu’elle aime dans le projet avant de décider de la place qu’elle voudra prendre ensuite."
     }
   ]
 }

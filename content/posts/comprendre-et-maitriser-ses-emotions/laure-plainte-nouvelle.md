@@ -29,16 +29,81 @@ C’est en demandant si le capuchon a été remis qu’elle sent la poitrine se 
 
 ## La nouveauté compte dans l’évaluation
 
-Les douleurs et la fatigue qui durent ont déjà fait l’objet d’une évaluation. Laure vit à présent quelque chose de différent, avec une apparition brusque, une oppression thoracique et une difficulté à respirer. Ces signes demandent une évaluation urgente. Le trouble de détresse physique peut coexister avec d’autres affections. L’équipe de soins s’appuie sur les caractéristiques de l’épisode qui vient d’arriver et tient compte de l’histoire médicale dans son ensemble. Elle décidera des examens indiqués après avoir écouté et évalué Laure.
+Une douleur thoracique brutale qui serre la poitrine et s’accompagne d’un manque d’air ou de sueurs peut relever d’une urgence. En France, il faut appeler immédiatement le 15 ou le 112 et suivre les consignes. Un trouble de détresse physique déjà établi n’explique pas d’emblée une plainte nouvelle et peut coexister avec une autre affection. Yasmina transmet ce que Laure ressent et ce qu’elle observe. Le service d’urgence décide de la réponse à apporter.
 
-## Les mots utiles au moment d’appeler
+## Comment une douleur nouvelle apparaît-elle au milieu de symptômes habituels ?
 
-Yasmina peut rapporter ce qu’elle a observé et ce que Laure est en mesure de lui dire. Le début est soudain, la poitrine serre, le souffle manque et les sueurs sont apparues. Elle donne aussi l’adresse et l’accès. Ces renseignements permettent au médecin régulateur de préciser la situation et de guider les personnes sur place. Laure n’a besoin ni de raconter tous les examens passés ni de formuler elle-même une explication. Quand un détail manque, Yasmina dit ce qu’elle sait, puis laisse la place aux questions.
+### Un signe nouveau interrompt une activité
 
-## Partager les tâches pendant les secours
+Un changement brutal peut survenir dans une journée qui ressemblait jusque-là aux autres.
 
-En France, une douleur thoracique accompagnée de signes de ce type conduit à appeler immédiatement le 15 ou le 112 et à suivre les consignes données. Dans la bibliothèque, Yasmina reste disponible au téléphone, tandis qu’une collègue assure l’accès et s’occupe des personnes venues échanger des graines. Quand les secours prennent le relais, Laure leur décrit l’épisode comme elle l’a vécu. Elle peut aussi préciser ses antécédents s’ils lui sont demandés. Le planning de la grainothèque sera revu une autre fois.
+**Exemples concrets**
+
+- Laure connaît la fatigue de fin de permanence, puis sent sa poitrine se serrer d’un coup.
+- À la maison, une personne qui connaît ses douleurs articulaires s’arrête parce qu’une oppression thoracique vient d’apparaître.
+
+### Plusieurs signes peuvent survenir ensemble
+
+Le manque d’air et les sueurs ajoutent des informations utiles lorsque la poitrine serre.
+
+**Exemples concrets**
+
+- Laure peine à finir sa phrase et sent la sueur sur son front.
+- Dans une salle d’attente, une personne dit que sa poitrine serre et son voisin voit qu’elle respire difficilement.
+
+### La personne peut avoir du mal à raconter
+
+Quelques mots et l’heure approximative du début peuvent être utiles au téléphone.
+
+**Exemples concrets**
+
+- Laure montre sa poitrine et arrive à dire que cela vient de commencer.
+- Une personne parle par courtes phrases et un témoin précise qu’elle a interrompu son activité soudainement.
+
+## 3 techniques pour agir sans attendre devant une douleur thoracique inquiétante
+
+### 1. Appeler immédiatement
+
+Obtenir la réponse des secours sans attendre que la douleur passe.
+
+**Exercice pratique**
+
+- Composez le 15 ou le 112 en France, ou demandez à quelqu’un de le faire tout de suite.
+- Donnez votre numéro et l’adresse exacte.
+- Restez en ligne et suivez les consignes reçues.
+
+Le service peut évaluer la situation et envoyer l’aide adaptée.
+
+### 2. Décrire les signes pendant l’appel
+
+Transmettre ce qui aide le médecin régulateur à décider.
+
+**Exercice pratique**
+
+- Dites ce que la personne ressent ou ce que vous voyez.
+- Indiquez quand les signes ont commencé et comment ils évoluent.
+- Répondez aux questions du service sur les antécédents si on vous les pose.
+
+Le médecin dispose d’informations sur l’épisode présent et peut le considérer pour lui-même.
+
+### 3. Organiser l’accès des secours
+
+Laisser la personne qui appelle disponible pour le service.
+
+**Exercice pratique**
+
+- Si d’autres personnes sont présentes, demandez à l’une d’indiquer l’entrée aux secours.
+- Dites où se trouve exactement la personne concernée.
+- Laissez le médecin régulateur guider la conduite à tenir en attendant l’équipe.
+
+Les secours peuvent rejoindre le lieu indiqué pendant que l’appelant transmet les informations utiles.
 
 ## La feuille reste sous le registre
 
 Les secours conduisent Laure pour l’évaluation indiquée. Au moment où l’équipe lui remet les consignes et le compte rendu, Laure demande à Benoît de l’aider pour le trajet de retour. Depuis la bibliothèque, Yasmina propose par message de repousser leur point sur les horaires. Laure lui répond chez elle, le soir, qu’elle le souhaite aussi. Elle envoie le compte rendu à la Dre Valette par le canal convenu au cabinet, puis demande un rendez-vous pour reprendre ensemble ce qui s’est passé.
+
+---
+
+**Conclusion**
+
+Laure a pu dire ce qui venait de changer et Yasmina a appelé le 15 tout de suite. L’évaluation porte sur cette douleur et le manque d’air. La permanence attendra, tandis que Laure peut reprendre le compte rendu et les suites avec la Dre Valette.

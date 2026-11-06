@@ -1,5 +1,5 @@
 ---
-title: Une chaise à l’endroit où le travail commence
+title: Faiblesse involontaire de la jambe à l’atelier
 description: Gaëlle veut reprendre l’accueil à l’atelier. Au bout de l’allée, sa jambe
   cède et la seule chaise libre se trouve derrière les manteaux.
 slug: gaelle-chaise-pres-du-bac
@@ -35,16 +35,81 @@ Rachid lui dit qu’il l’a vue marcher sans s’arrêter en arrivant. Sa remar
 
 ## Quand la jambe soutient moins bien le poids
 
-Chez Gaëlle, le trouble neurologique fonctionnel se manifeste notamment par une faiblesse involontaire de la jambe gauche. Elle veut continuer son déplacement et son mouvement répond moins bien. L’équipe de soins a examiné ces difficultés avant de retenir le diagnostic. Elles ont des conséquences concrètes à l’atelier, où il faut parfois rester debout, parcourir une allée et porter des objets fragiles. À la table, Gaëlle se sert du bord pour se stabiliser. Elle garde assez de disponibilité pour suivre la discussion et sait exactement où elle voudrait poser ses tasses.
+Une faiblesse motrice involontaire peut rendre un déplacement difficile alors que la personne sait où elle veut aller et essaie d’y parvenir. C’est une manifestation possible du trouble neurologique fonctionnel. Dans le cas de Gaëlle, les difficultés de la jambe gauche ont déjà été examinées par son neurologue. À l’atelier, la jambe soutient moins bien son poids en cours de trajet. L’emplacement du siège détermine alors si elle peut s’asseoir près du travail qu’elle veut reprendre.
 
-## Deux moments d’un même déplacement
+## Comment la faiblesse involontaire change-t-elle un déplacement à l’atelier ?
 
-Rachid a effectivement vu Gaëlle entrer en marchant. Lina l’a vue poser la boîte lorsque sa jambe la soutenait moins. Ces observations décrivent deux moments. L’intensité d’un symptôme fonctionnel peut varier, et cette variation n’exige aucune explication improvisée à l’atelier. Gaëlle ressent surtout de l’agacement quand une observation familière efface la suivante. Elle se retient de reprendre la boîte pour prouver qu’elle en est capable. Ce geste ajouterait du risque pour les tasses et l’éloignerait de sa vraie question, celle de la place qu’elle peut tenir à l’accueil.
+### Un trajet commence et devient plus difficile
 
-## Décider où s’asseoir avant l’ouverture
+La personne peut avoir marché quelques instants avant d’avoir besoin d’un appui prévu.
 
-Gaëlle demande une assise stable à proximité et un passage sans caisse entre la porte et la table. Elle veut discuter du placement avec Lina parce qu’une chaise tournée vers les étagères la couperait de ceux qui entrent. Rachid connaît les contraintes de circulation et peut proposer une disposition. Gaëlle garde la main sur la décision de se lever et sur la durée de sa présence. Le choix d’un poste lui permet d’utiliser ce qu’elle sait faire. Elle entend les gens hésiter devant un objet et trouve généralement une manière de les faire parler.
+**Exemples concrets**
+
+- Gaëlle atteint le grand bac, puis sa jambe gauche porte moins bien.
+- Une personne dont les difficultés sont déjà suivies peut traverser une première salle et devoir s’arrêter avant la suivante.
+
+### La tâche se complique quand on tient un objet
+
+Transporter quelque chose peut laisser moins de possibilités pour s’arrêter ou demander une aide.
+
+**Exemples concrets**
+
+- Gaëlle pose la boîte sur un rayonnage pour se stabiliser à la table.
+- Une bénévole dépose un carton qu’elle portait pour pouvoir attendre qu’on lui rapproche le siège convenu.
+
+### L’environnement rend une aide plus ou moins accessible
+
+Un siège peut être présent sans être facile à utiliser au moment voulu.
+
+**Exemples concrets**
+
+- La chaise du fond est derrière des manteaux alors qu’un autre siège peut venir près de la table.
+- Dans un atelier, un tabouret placé dans le passage gêne à la fois celui qui en a besoin et ceux qui circulent.
+
+## 3 techniques pour adapter un poste de travail à une faiblesse déjà suivie
+
+### 1. Choisir l’emplacement d’un siège
+
+Pouvoir s’asseoir près de l’activité en cas de besoin.
+
+**Exercice pratique**
+
+- Repérez avec l’équipe le poste où vous voulez travailler.
+- Choisissez une place accessible où le siège ne gêne pas le passage.
+- Demandez au collègue de le déplacer avant la prochaine ouverture.
+
+Une assise prévue donne une option sans avoir à justifier le besoin au moment où il apparaît.
+
+### 2. Prévoir l’aide pour un objet encombrant
+
+Éviter de cumuler un déplacement difficile et une charge.
+
+**Exercice pratique**
+
+- Nommez l’objet que vous pourriez vouloir confier.
+- Convenez de l’endroit où le poser ou de la personne qui peut le prendre.
+- Dites comment vous signalerez que l’aide est utile.
+
+Le collègue peut répondre à une demande précise et la personne garde le choix du moment.
+
+### 3. Raconter le mouvement qui a changé
+
+Donner à l’équipe de soins un exemple du retentissement moteur.
+
+**Exercice pratique**
+
+- Décrivez où vous alliez et ce que vous portiez.
+- Expliquez à quel moment le déplacement est devenu plus difficile.
+- Demandez avec le professionnel quels ajustements conviennent à vos difficultés.
+
+Une situation réelle permet de discuter des besoins sans transformer l’atelier en lieu d’examen.
 
 ## L’anse trop courte
 
 Rachid soulève le siège par le dossier et le rapproche du bout de la table. Gaëlle s’assoit et demande encore un quart de tour pour voir la porte. Puis elle sort la tasse à l’anse trop courte. Lina essaie de la prendre et se met à rire. Sur le plan que Rachid a posé à plat, Gaëlle inscrit au crayon « accueil et motifs ». Elle garde un cercle vide à côté pour le siège.
+
+---
+
+**Conclusion**
+
+Le siège rejoint la table et Gaëlle peut suivre la discussion depuis l’endroit où elle veut accueillir. La difficulté de sa jambe a changé le trajet, pas son envie de présenter les tasses. Le cercle sur le plan donne une place à cette adaptation.

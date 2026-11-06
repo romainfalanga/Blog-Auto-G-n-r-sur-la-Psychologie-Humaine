@@ -29,20 +29,85 @@ Le garçon veut savoir ce qu’un moteur pourrait faire avec des racines. Roxane
 
 Une fois le bruit retombé, Roxane dit au garçon que son jeton peut rester où il est. Il répond qu’il a compris. D’autres personnes attendent le deuxième indice. Roxane pose deux doigts sur le galet. Elle avait prévu de commencer la phrase, mais cette fois elle a envie d’écouter la salle avec ceux qui cherchent. Elle retourne le rond orange vers Zoé et lui laisse le micro.
 
-## Le relais fait partie du jeu
+## Garder la conduite du jeu devant le public
 
-Les ajustements d’un lieu et les aides entre personnes peuvent faciliter un échange au moment où il se déroule. Quand les chaises grincent et que Roxane se détourne du micro, une partie du message échappe au garçon. Le groupe change ce qu’il peut changer : la place du micro, la distance avec les derniers arrivés et le moment où la parole reprend. La possibilité d’utiliser un support écrit ou de passer une phrase à Zoé reste utile, que le malentendu vienne du bruit ou d’une difficulté à distinguer des sons.
+Participer à l’oral en public peut demander de gérer à la fois sa phrase et la réaction de gens qui découvrent le sujet. Avec un trouble des sons de la parole, certains mots peuvent rester difficiles à reconnaître. Quand les chaises grincent et que Roxane se détourne du micro, le public perd une partie du message et son jeu s’interrompt un instant.
 
-## Comment cette difficulté se manifeste
+Roxane peut reprendre en modifiant sa place, en montrant le carton ou en passant une phrase à Zoé au signal convenu. La décision qui compte est celle qui lui permet de mener le jeu : laisser le public proposer, puis montrer ce qui était caché.
 
-Le passage de relais appartient à Roxane. Cette fois, elle le déclenche avant de commencer son indice. Zoé a attendu le signe convenu. Elle dit « Je frappe le bois avec mon bec », retourne le second carton et écarte sa chaise. Roxane entend un enfant demander : « Alors c’est un oiseau qui tape ? » Elle découvre ce que ça fait d’attendre une réponse de ce côté de la table, sans avoir à préparer sa phrase.
+## Comment une difficulté à se faire comprendre change-t-elle une présentation publique ?
 
-## La réponse et ce qu’ils en font
+### Le public bouge pendant une phrase
 
-Roxane accepte « un oiseau qui tape » comme première réponse qui explique le bruit. Quelqu’un propose un pic. Elle soulève le rabat de Zoé ; le nom « pic épeiche » apparaît avec le dessin. Le son retenu dans la collection est bien un tambourinage de cet oiseau. Elle montre aussi l’étiquette de Salomé : elle veut que les visiteurs sachent que ce n’était pas le son du banc vert, resté sans nom.
+Le bruit ou un changement de place peut faire perdre un détail dont les auditeurs ont besoin pour suivre.
 
-Au deuxième passage, Zoé part à l’atelier dessin. Deux visiteurs parlent encore entre eux quand la deuxième phrase devrait arriver. Roxane leur indique le carton et laisse les gens le lire. Puis elle reprend à voix haute la question du début : « On garde les mêmes idées ? » Cette manière de jouer permet au deuxième groupe de poursuivre. Roxane choisit où sa voix lui sert le plus : elle peut interroger les gens à partir des mots qu’ils ont posés sur la table.
+**Exemples concrets**
+
+- Un garçon ne reconnaît pas le mot qui lui manque quand des chaises grincent.
+- Des personnes arrivées après le premier indice peuvent entendre la suite sans savoir ce que désigne « ce bruit ».
+
+### La personne doit décider quoi reprendre
+
+Une présentation en direct laisse peu de temps pour savoir s’il faut répéter, montrer ou revenir au déroulement prévu.
+
+**Exemples concrets**
+
+- Roxane peut remettre son visage face au micro pour la partie qu’elle veut reprendre.
+- Un enfant qui voit encore des mains levées peut poser l’indice écrit et attendre que les joueurs l’aient lu.
+
+### Le public peut amener une question nouvelle
+
+Une réponse imprévue change le travail à faire, même quand le déroulement de départ a été réussi.
+
+**Exemples concrets**
+
+- Une petite fille passe de « marteau » à « oiseau », puis demande pourquoi le pic tambourine.
+- Roxane peut montrer le livre et proposer de vérifier après l’atelier une réponse qu’elle n’a pas encore.
+
+## 3 techniques pour continuer à mener un jeu quand des mots se perdent
+
+### 1. Poser une question sur le mot manquant
+
+Reprendre l’information utile au lieu de rejouer la présentation entière.
+
+**Exercice pratique**
+
+- Demandez à l’auditeur quel morceau il veut entendre.
+- Placez-vous à nouveau face au groupe avant de le reprendre.
+- Vérifiez s’il peut maintenant proposer une idée.
+
+Le public retrouve le fil à partir du passage dont il avait besoin.
+
+### 2. Utiliser le relais prévu à la demande
+
+Confier une phrase sans perdre le fil de l’activité.
+
+**Exercice pratique**
+
+- Vérifiez avant le passage que le signal sera visible du partenaire.
+- Si l’enfant fait le signe, laissez le partenaire lire seulement l’indice convenu.
+- Rendez aussitôt l’initiative à l’enfant pour l’action suivante.
+
+Roxane peut recevoir l’aide et continuer à décider quand dévoiler le dessin.
+
+### 3. Accueillir la question qui dépasse la préparation
+
+Conserver l’échange après la réponse au jeu.
+
+**Exercice pratique**
+
+- Dites ce que vous savez sur l’oiseau ou le son.
+- Indiquez le livre ou la personne qui pourra compléter l’information.
+- Proposez un moment après le jeu pour regarder ensemble.
+
+La conversation peut se poursuivre avec le public sans exiger une réponse immédiate.
 
 ## Le galet reste dans sa poche
 
 Une petite fille déplace son jeton du mot « marteau » vers « oiseau ». Roxane soulève le rabat devant elle. Cette fois, la fille veut savoir pourquoi le pic fait ce bruit. Roxane ne connaît pas encore la réponse à lui donner. Elle lui montre où Salomé a posé un livre d’oiseaux et lui propose d’aller chercher avec elle quand l’atelier sera fini. Elle remet le galet dans sa poche. De l’autre côté de la salle, Zoé montre à des enfants trois façons de tracer un bec. Roxane compte deux jetons sur « moteur » et laisse le papier là où ils l’ont posé.
+
+---
+
+**Conclusion**
+
+Roxane a pu reprendre son indice et soulever le rabat au bon moment. La question de la petite fille l’emmène plus loin que son texte préparé. Elle garde la main sur cette nouvelle piste, avec un livre à chercher et une réponse encore ouverte.

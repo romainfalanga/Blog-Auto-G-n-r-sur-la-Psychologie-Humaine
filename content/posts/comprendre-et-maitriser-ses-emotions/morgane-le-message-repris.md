@@ -33,18 +33,81 @@ Morgane écrit qu’elle est désolée et qu’il vaut mieux que la répétition
 
 ## Un retour de difficulté à examiner
 
-Un épisode survenu après une période plus calme apporte une information sur la situation actuelle. La répétition, le contexte, la souffrance et ce qui s’est passé ensuite aident l’équipe à comprendre l’évolution.
+Le retour d’un épisode d’hyperphagie boulimique après une période plus calme peut faire douter de changements réels. L’équipe apprécie l’évolution à partir de plusieurs situations et de la détresse, du contexte et des effets des épisodes. Morgane avait dit à Anna que certaines choses devenaient plus faciles. En lisant le message de Yassine, elle découvre que le découragement du lendemain modifie une décision sans rapport direct avec ce qu’elle a mangé.
 
-## Le lendemain, la tentation d’annuler la répétition
+## Comment le découragement après une nouvelle crise modifie-t-il les décisions du lendemain ?
 
-Morgane est tentée de résumer la semaine à cette soirée. Après l’épisode, elle a repoussé une réponse à Sonia au sujet de la rallonge. Le lendemain, elle écrit presque à Yassine qu’il fera sa répétition sans elle, alors qu’elle tenait à l’écouter. Ce découragement survient après plusieurs jours où elle s’était sentie plus libre. Les deux périodes ont leur place dans le récit de ce qui lui arrive.
+### Un épisode change la lecture du passé
 
-## Faire deux demandes de nature différente
+Le découragement peut rendre difficile de reconnaître les améliorations dont on se souvenait la veille.
 
-Au travail, Morgane sait qu’elle peut venir pour écouter Yassine et demander un relais pour l’installation. Elle n’a pas besoin de déclarer la soirée à toute l’équipe. Au suivi, la question porte sur ce qu’elle a éprouvé et sur le découragement qui a duré le lendemain. Elle décide d’utiliser le canal qu’Anna lui a indiqué pour signaler un changement et demander si elles peuvent en parler au prochain rendez-vous. Cette possibilité dépend de l’organisation de son service. L’aide de Sonia peut porter sur la tâche dont elles sont responsables ensemble.
+**Exemples concrets**
 
-Le NICE inclut le travail autour des difficultés futures et des rechutes dans certaines formes de prise en charge. Morgane peut décrire cet épisode et les jours qui l’ont précédé pour discuter avec Anna de ce qui l’aiderait si la difficulté revient.
+- Morgane pense qu’elle a parlé trop tôt de ce qui allait mieux.
+- La conversation avec Anna sur le dernier dimanche lui revient avec un autre sens après le nouvel épisode.
+
+### Une demande simple devient plus lourde
+
+Les effets du découragement peuvent se lire dans un délai ou un désengagement envisagé.
+
+**Exemples concrets**
+
+- Morgane repousse la réponse sur la rallonge alors que Sonia posait une question d’installation.
+- Elle prépare un message pour laisser Yassine répéter sans elle malgré sa propre demande d’y assister.
+
+### Un appui préparé peut redevenir utile
+
+Un épisode revenu peut être repris avec les mots ou le contact déjà trouvés au cours des soins.
+
+**Exemples concrets**
+
+- Morgane écrit à l’équipe après avoir répondu à Yassine.
+- Elle précise à Sonia quelle part de l’installation lui serait utile plutôt que de laisser toute la répétition en suspens.
+
+## 3 techniques pour reprendre appui quand un épisode revient
+
+### 1. Dire ce que le retour a changé
+
+Donner à l’équipe une information sur l’épisode et son lendemain.
+
+**Exercice pratique**
+
+- Reprenez le contact convenu avec les professionnels.
+- Décrivez ce que vous avez éprouvé et une décision devenue difficile ensuite.
+- Demandez à quel moment ces éléments pourront être repris en rendez-vous.
+
+L’équipe peut apprécier la situation actuelle à partir d’un exemple concret.
+
+### 2. Préparer deux souvenirs pour le même bilan
+
+Garder une trace des semaines précédentes même quand le découragement revient.
+
+**Exercice pratique**
+
+- Retenez une situation devenue plus facile avant le nouvel épisode.
+- Notez ce qui vous a surpris dans la situation récente.
+- Présentez les deux sans chercher seul à conclure sur l’évolution.
+
+Le suivi peut tenir compte de ce qui a changé et de ce qui demande encore un appui.
+
+### 3. Distinguer présence et préparation
+
+Conserver la part d’un rendez-vous que vous voulez vraiment garder.
+
+**Exercice pratique**
+
+- Relisez la demande précise qui vous a été faite.
+- Choisissez si vous voulez y être et quelle tâche vous pouvez tenir.
+- Demandez un relais pour un élément distinct ou convenez d’un autre moment.
+
+Il devient possible de répondre au rendez-vous sans devoir prendre tout le reste en charge.
 
 ## Le message qu’elle garde
 
 Yassine répond qu’il lui réserve une chaise au premier rang. Il a envie de lui montrer un geste qu’il n’avait pas encore essayé devant elle. Morgane dit qu’elle le verra tout à l’heure. Elle écrit ensuite à l’équipe avec les mots qu’elle a trouvés en consultation. Elle relit le dernier mot de l’annonce, « essayer », et le laisse tel quel. Sonia lui demande si elle veut qu’elles se retrouvent avant la répétition.
+
+---
+
+**Conclusion**
+
+Yassine garde une chaise et Morgane trouve les mots pour écrire à l’équipe. La crise lui a fait douter de ses progrès et de sa place à la répétition. Le retour au suivi permet de reprendre ce découragement sans réduire les dernières semaines à cet épisode.

@@ -28,22 +28,83 @@ Dans sa boîte de réception, le cabinet lui a rappelé le prochain point. Elle 
 
 Éva lui envoie la mesure de la valse où l’archet accroche, parce qu’elle n’arrive pas à lire l’indication de Lise. Garance agrandit la photographie et distingue le signe. Elle avait imaginé passer lui montrer à la répétition. Elle prépare une réponse avec ce qu’elle voit et garde la question de sa présence ouverte. Elle préfère terminer le message au cabinet avant de choisir si elle sort ce soir.
 
-## Décrire ce qui a changé sans en décider la cause
+## La somnolence devient une question de suivi
 
-Un effet ressenti pendant un traitement mérite une discussion avec le professionnel qui le prescrit. Garance remarque une somnolence au moment de se mettre au travail. Elle peut préciser quand elle l’a repérée, ce que cela change et les autres éléments qui lui semblent pertinents. Le lien avec l’adaptation du traitement doit être examiné. L’épisode dépressif, le sommeil et d’autres causes possibles ont aussi leur place dans la discussion.
+Une somnolence nouvelle pendant un traitement peut être un effet indésirable. Le sommeil, l’épisode dépressif ou d’autres causes peuvent aussi contribuer à ce que la personne éprouve. Le prescripteur examine le contexte et ce que la gêne change au quotidien. Garance veut faire décrire ses matins difficiles avant de décider avec sa psychiatre de la suite du traitement.
 
-Le NICE recommande d’examiner avec la personne les effets et les difficultés d’un traitement lors du suivi.
+## Comment la somnolence devient-elle visible dans une journée de travail ?
 
-## Comment cette difficulté se manifeste
+### La précision baisse sur une tâche familière
 
-Garance peut demander ce qu’elle doit signaler, à quel moment et à qui. Elle poursuit les soins selon les modalités convenues. Toute adaptation de la prise du traitement se décide avec sa psychiatre. Si les symptômes s’aggravent rapidement ou si elle se trouve en danger, le plan de soins indique quel relais urgent solliciter.
+Une gêne peut se remarquer dans des erreurs inhabituelles plutôt que dans une sensation facile à nommer.
 
-## Alléger une journée en attendant la réponse
+**Exemples concrets**
 
-Garance peut prévenir le client qu’elle décalera la relecture de ce matin. Elle peut aussi distinguer la question envoyée par Éva de sa présence à la répétition. Lire le signe sur une photo lui demande quelques minutes. Se rendre dans la salle et y rester lui demande davantage. Elle peut donner à son amie l’information qu’elle a trouvée et dire qu’elle décidera plus tard pour jeudi.
+- Garance barre le même mot sur deux versions de l’épreuve.
+- Elle laisse le crayon de côté alors qu’elle devait reprendre la correction.
 
-Éva n’a pas besoin de savoir ce qui a changé dans le traitement. Si Garance en parle, elle peut lui demander si elle veut une présence pendant l’appel ou préfère envoyer seule son message. Garance garde sa conversation médicale avec le cabinet. Elle choisit ce qu’elle peut faire ensuite, en tenant compte de la réponse reçue et de l’état qu’elle constate.
+### L’horaire de la gêne devient un indice utile
+
+Le moment où la somnolence commence ou persiste renseigne le prescripteur.
+
+**Exemples concrets**
+
+- Ce matin-là, Garance s’assoit avec son café et n’ouvre pas le dossier.
+- Elle remarque des jours où l’impression d’être mal réveillée continue après le déjeuner.
+
+### Toutes les tâches ne demandent pas le même effort
+
+On peut encore répondre à une question courte et ne pas être en mesure d’assurer une séance ou une longue relecture.
+
+**Exemples concrets**
+
+- Garance distingue le signe de Lise en agrandissant la photo de la partition.
+- Elle garde la question du déplacement et de la répétition entière ouverte.
+
+## 3 techniques pour signaler une somnolence qui gêne le quotidien
+
+### 1. Décrire une heure et un geste
+
+Montrer quand la difficulté arrive et ce qu’elle empêche.
+
+**Exercice pratique**
+
+- Relevez le moment de la journée où elle est la plus visible.
+- Choisissez une tâche retardée ou une erreur inhabituelle à raconter.
+- Dites depuis quand elle se produit et ce qui a changé autour du sommeil ou des soins.
+
+Le prescripteur peut examiner plusieurs explications à partir de faits situés.
+
+### 2. Avancer la question au cabinet
+
+Obtenir un avis sans changer seul le traitement.
+
+**Exercice pratique**
+
+- Envoyez vos observations par le canal convenu.
+- Demandez si elles justifient un échange plus tôt et quand signaler une aggravation.
+- Gardez le traitement tel que prescrit jusqu’à une décision avec la psychiatre.
+
+La gêne peut être examinée même avant le rendez-vous initialement prévu.
+
+### 3. Limiter une réponse à ce qui est possible
+
+Séparer une aide ponctuelle d’une nouvelle charge.
+
+**Exercice pratique**
+
+- Repérez la question à laquelle vous pouvez répondre aujourd’hui.
+- Donnez l’information sans promettre une présence ni un autre texte.
+- Prévenez si une tâche déjà engagée doit être déplacée.
+
+La somnolence peut peser sur une partie de la journée sans que toute contribution doive s’arrêter.
 
 ## Une réponse pour la partition, une autre au cabinet
 
 Garance envoie son message. Le cabinet lui propose un échange plus tôt avec la psychiatre. Elle retrouve le numéro dans la pochette bleue et note la nouvelle heure. Elle répond ensuite à Éva sur le signe photographié. Les deux messages restent ouverts quelques secondes sur son écran. Garance ferme d’abord la conversation de l’ensemble, puis l’épreuve qu’elle corrigera plus tard. Quand Lise demande qui veut relire la dernière page du programme, Garance laisse passer le message. Elle a pris le temps de répondre à la question sur la valse. Pour le reste, elle laisse quelqu’un d’autre se proposer.
+
+---
+
+**Conclusion**
+
+Garance obtient un échange plus tôt et répond à Éva sur le signe photographié. Une réponse utile à l’amie ne résout pas la question de la somnolence. Celle-ci reste au cabinet, où Garance pourra décrire ce que les matins lui coûtent.

@@ -1,5 +1,5 @@
 ---
-title: Le travail qui reste après avoir rangé
+title: Faiblesse fluctuante et effort d’un jour à l’autre
 description: Gaëlle tient à finir les plaques pour l’accueil. Le lendemain, la faiblesse
   habituelle prend plus de place et Aïcha l’aide à revoir son programme.
 slug: gaelle-lendemain-des-plaques
@@ -35,16 +35,81 @@ Le lendemain, elle commence sa séance avec Aïcha en racontant que tout lui a c
 
 ## Une journée difficile apporte des renseignements partiels
 
-Le retentissement des symptômes moteurs fonctionnels peut changer au fil du temps. Gaëlle décrit un soir où son activité a duré plus longtemps, puis un matin où marcher lui a demandé davantage d’effort. La proximité de ces moments leur donne une raison d’en parler. Elle ne permet pas d’attribuer la faiblesse à un événement précis. Aïcha peut tenir compte de plusieurs dimensions, dont les tâches effectuées, la fatigue rapportée, les conditions du trajet et les signes suivis avec le neurologue. L’équipe garde une appréciation clinique de ce qui change et de ce qui demande un nouvel avis.
+Les capacités peuvent varier d’un jour à l’autre lorsque les symptômes moteurs fonctionnels persistent. Une activité plus longue et une journée ensuite plus difficile peuvent être décrites ensemble sans que leur succession établisse une cause. Gaëlle remarque davantage de fatigue et de faiblesse le lendemain d’une soirée prolongée à l’atelier. Aïcha peut l’aider à reprendre les tâches, les conditions et ce que Gaëlle veut changer sans considérer la journée difficile comme la preuve d’une erreur.
 
-## La part du travail que les autres voient
+## Comment les capacités varient-elles d’une journée à l’autre ?
 
-Rachid a vu trois ébauches sur la table. Gaëlle se souvient du manteau qu’elle a enlevé pour s’asseoir et du temps consacré le lendemain à traverser l’immeuble. À la fin de la soirée, elle avait surtout envie de tenir parole. La gêne à demander de l’aide et le plaisir de terminer une pièce ont pesé dans sa décision. En reprenant la scène, elle peut parler de ces émotions sans leur demander d’expliquer le trouble. Elle aimerait garder le plaisir des plaques et partager ce qui lui a demandé davantage d’effort.
+### Un travail plaisant se prolonge au-delà du prévu
 
-## Limiter la promesse et revoir le reste ensemble
+La personne peut tenir à finir un geste même quand la durée ou le nombre d’allers-retours augmente.
 
-Aïcha lui propose de choisir une information concrète à garder pour la prochaine séance. Gaëlle note qu’elle a pu demander à Rachid de laisser le rouleau à l’atelier et que le siège près du crochet lui a servi. Elle décide de se charger de la version définitive d’une seule plaque et de confier les deux autres aux bénévoles. L’évolution de sa marche reste un sujet du suivi. Les objectifs et les bénéfices possibles de la rééducation varient, et l’organisation de la répétition peut changer dès maintenant.
+**Exemples concrets**
+
+- Gaëlle termine la troisième plaque parce que son motif lui plaît et hésite à emporter le rouleau.
+- Une personne termine un accueil puis reste pour ranger du matériel alors qu’un collègue pourrait prendre ce geste.
+
+### Le lendemain apporte une autre information
+
+Les difficultés peuvent être différentes de celles observées la veille et méritent d’être décrites séparément.
+
+**Exemples concrets**
+
+- Gaëlle explique qu’au matin, même l’entrée de l’immeuble lui a demandé davantage d’effort.
+- Quelqu’un peut rentrer d’une activité un soir et trouver le trajet d’un rendez-vous plus difficile le lendemain.
+
+### La variation est vite interprétée comme un échec
+
+Une journée moins facile peut pousser à se reprocher une décision avant que les conditions aient été examinées.
+
+**Exemples concrets**
+
+- Dans la note enregistrée, Gaëlle dit qu’elle a « forcément fait une erreur ».
+- Une personne croit avoir compromis sa reprise parce qu’elle a dû prendre le relais plus tôt un autre jour.
+
+## 3 techniques pour ajuster une activité quand les capacités varient selon les jours
+
+### 1. Reprendre les deux journées avec le professionnel
+
+Décrire ce qui a changé sans imposer une cause.
+
+**Exercice pratique**
+
+- Nommez les tâches et leur durée.
+- Indiquez le moment où la difficulté a varié.
+- Demandez à l’équipe de suivi quels changements méritent une évaluation différente.
+
+La discussion peut tenir compte de plusieurs éléments et de votre expérience.
+
+### 2. Partager un geste de fin de séance
+
+Réduire le travail ajouté après la tâche que vous vouliez faire.
+
+**Exercice pratique**
+
+- Choisissez une partie de l’activité que vous souhaitez terminer.
+- Repérez un objet à ranger ou nettoyer que quelqu’un peut prendre.
+- Convenez de l’heure où ce relais devient possible.
+
+L’organisation laisse à la personne une part choisie et une façon de s’arrêter.
+
+### 3. Préparer plusieurs façons de contribuer
+
+Conserver l’objectif sans faire dépendre toute la préparation d’une seule capacité.
+
+**Exercice pratique**
+
+- Choisissez la variante que vous voulez préparer vous-même.
+- Demandez qui souhaite essayer les autres.
+- Précisez ce que vous réévaluerez à la prochaine rencontre.
+
+Le projet peut continuer lorsque la disponibilité ou la facilité de déplacement change.
 
 ## Une plaque à la fois
 
 Avant de sortir, Gaëlle envoie la photo de sa petite plaque au groupe. Elle écrit qu’elle préparera la version rayée et cherche deux personnes pour les surfaces lisse et granuleuse. Rachid répond avec l’image d’un bout de tissu qui fera peut-être l’affaire. Gaëlle reconnaît le torchon qu’il a toujours dans sa poche. Elle lui demande de l’essayer et de garder la surprise jusqu’à la répétition.
+
+---
+
+**Conclusion**
+
+Gaëlle garde la plaque rayée et invite les autres à préparer les surfaces restantes. Aïcha dispose de deux journées à examiner avec elle. La marque qu’elle cherchait a bien été réussie et le lendemain difficile peut éclairer un autre partage du travail.

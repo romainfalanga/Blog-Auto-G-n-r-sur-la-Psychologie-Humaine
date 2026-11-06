@@ -33,18 +33,79 @@ Mme Sorel attend de savoir où placer le deuxième carton. Roxane pense à la pa
 
 Un appui à la prise de parole peut être prévu pour un moment donné et changé quand le groupe ou le lieu change. Dans un trouble des sons de la parole, une difficulté à se faire comprendre peut rester présente alors même qu’on ajuste la situation. Une personne qui connaît déjà la voix de Roxane ou le sujet de la devinette dispose de repères que d’autres auditeurs découvrent sur le moment.
 
-## Ce qu’un auditeur parvient à entendre
+## Comment garder le choix de sa parole quand un appui change ?
 
-Lors d’une répétition, Salomé avait distingué le début de l’indice depuis le fond de la salle et demandé à Roxane de redire la fin. Sur un enregistrement, le bruit du ruban adhésif avait couvert une partie de la phrase. Le père de Roxane, habitué à sa façon de parler et déjà au courant de la devinette, avait compris plus vite ce qu’elle demandait dans un autre échange. Roxane se demande ce que le deuxième groupe entendra si plusieurs personnes répondent en même temps. En regardant la case qui se libère, elle craint d’avoir de nouveau à reprendre sa phrase alors que le jeu avance.
+### L’appui appartient à un moment précis
 
-## Faire de la place aux premières idées
+Une personne disponible au premier passage ne le sera pas forcément au suivant. Le besoin de préciser une phrase peut se présenter dans les deux créneaux.
 
-Au premier passage, Zoé peut dire l’indice au signal de Roxane. Au deuxième, Roxane pourra le dire elle-même ou tendre le carton pour que le public lise sa phrase. Mme Sorel garde les cartes accessibles et laisse Roxane choisir sur place, pendant que Zoé mène son atelier.
+**Exemples concrets**
 
-Nassim apporte la boîte à jetons. Roxane se souvient que, dans la cour, revenir à une marque aidait les joueurs à voir ce qui comptait. Elle propose un coin de table où poser un jeton à la première hypothèse. Elle pourra attendre quelques propositions sans prendre la parole dans le bruit des réponses. Après le second indice, les visiteurs pourront déplacer leur jeton s’ils ont changé d’idée. Le dessin reste caché jusque-là.
+- Zoé peut relayer l’indice une seule fois parce qu’elle mène aussi l’atelier de dessin.
+- Un camarade qui connaît une consigne peut être appelé à sa propre table au moment où un nouveau groupe arrive.
 
-Zoé inscrit son nom près du rabat et sur le plan de l’atelier dessin. Roxane ajoute le sien au titre de la devinette. Nassim garde le lancement du son, dont il a noté l’ordre avec Mme Sorel. Ils peuvent se faire signe si quelque chose manque sans devoir raconter au public pourquoi l’un prend une phrase plutôt qu’un autre.
+### Un support peut rester accessible quand l’équipe bouge
+
+Un objet ou un texte préparé peut prendre le relais d’un appui humain sans imposer le même choix à chaque fois.
+
+**Exemples concrets**
+
+- Roxane place le second carton dans la poche du panneau, assez près pour l’attraper.
+- Dans un atelier, un duplicata confié à l’enseignante permet de retrouver une phrase si le premier carton est déplacé.
+
+### Un choix se fait aussi au moment de parler
+
+Le support disponible donne à la personne la possibilité de décider d’après ce qu’elle observe de l’écoute.
+
+**Exemples concrets**
+
+- Roxane pourra dire son deuxième indice ou tendre le carton si le groupe n’a pas compris.
+- Un élève peut faire attendre les réponses le temps que le bruit baisse et reprendre lui-même sa phrase.
+
+## 3 techniques pour prévoir des appuis qui laissent un choix
+
+### 1. Vérifier qui sera là à chaque passage
+
+Identifier les moments où un relais est réellement disponible.
+
+**Exercice pratique**
+
+- Dessinez deux colonnes pour les deux créneaux.
+- Inscrivez les rôles avec les personnes concernées.
+- Repérez où il faut préparer une autre option.
+
+Les engagements de Zoé et la prise de parole de Roxane peuvent coexister.
+
+### 2. Mettre l’option de rechange à portée
+
+Préparer un moyen de poursuivre sans attendre quelqu’un.
+
+**Exercice pratique**
+
+- Choisissez une phrase qui peut aussi être montrée.
+- Placez-la là où l’enfant peut la prendre lui-même.
+- Faites un essai où il décide de la sortir ou de la laisser en place.
+
+L’enfant garde la maîtrise du passage même lorsque les personnes changent.
+
+### 3. Organiser le temps des premières réponses
+
+Réserver à l’indice un moment où on peut l’entendre.
+
+**Exercice pratique**
+
+- Indiquez aux visiteurs où poser leur première hypothèse.
+- Prévoyez un signe pour annoncer l’indice suivant.
+- Laissez la personne qui mène le jeu choisir quand reprendre.
+
+Le temps entre les deux indices reste disponible pour parler ou montrer la phrase.
 
 ## Une place pour les plumes
 
 Roxane barre le prénom de Zoé dans la deuxième colonne, puis le récrit plus loin, du côté du dessin. Elle dessine un petit carton à la place qui se libère. Mme Sorel leur demande si elle doit garder un double des indices. Roxane lui confie le premier. Elle glisse le second dans la poche du panneau, avec le galet pour le premier passage. Zoé dégage le bord du plan pour y sécher ses plumes de papier. Roxane en trouve une dont l’extrémité est pliée. Elle demande si elle peut la garder pour mettre dans son enveloppe.
+
+---
+
+**Conclusion**
+
+Zoé garde son atelier et Roxane dispose d’un deuxième moyen de faire circuler l’indice. Les deux créneaux n’auront pas besoin de se ressembler pour que Roxane mène sa devinette. Les cartes, les jetons et le galet lui laissent des décisions à prendre sur place.

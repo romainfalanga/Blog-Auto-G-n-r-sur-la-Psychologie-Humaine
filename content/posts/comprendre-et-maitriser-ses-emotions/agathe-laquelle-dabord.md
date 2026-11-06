@@ -29,18 +29,85 @@ L’orthophoniste lui demanda par quel papier elle voulait commencer. Agathe ali
 
 Elles imaginèrent la même scène en laissant les questions sur la table. Quand l’orthophoniste en tendit deux, Agathe en repoussa une du bout de l’ongle : « Une d’abord. » Puis elle posa le doigt sur le portillon et fit le chemin jusqu’à la boîte. « Si je peux voir, après je peux te dire ou te montrer. » L’orthophoniste lui demanda si elle voulait noter ces mots pour les retrouver à l’école. Agathe prit un papier vierge et écrivit « laquelle d’abord ? » ; le reste, elle voulait l’essayer à voix haute.
 
-## Décrire ce qui a demandé du travail
+## Comprendre une demande et formuler une réponse
 
-Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile. Agathe décrit deux difficultés à sa manière. Une question lui parvient sans qu’elle puisse identifier ce que « après » désigne : pour répondre, il faut d’abord savoir ce que l’autre demande. Pour une autre question, elle se représente l’endroit et peine à en dire le nom. On distingue ainsi le versant réceptif, qui concerne notamment la compréhension, du versant expressif, qui concerne la production d’un message. Cette distinction aide à chercher un appui approprié.
+Le langage réceptif permet notamment de comprendre ce qu’on entend ; le langage expressif permet de trouver les mots et de construire sa réponse. Dans le trouble développemental du langage, ces deux dimensions peuvent demander des efforts différents. Quand Agathe ne sait pas à quoi renvoie « après », il lui faut d’abord une précision sur la question. Quand elle se représente l’étagère mais cherche son nom, du temps ou la possibilité de la montrer peuvent lui servir.
 
-## Comment cette difficulté se manifeste
+L’orthophoniste peut partir de cette distinction pour discuter avec Agathe de ce qui l’aide. Les papiers de la séance fournissent des exemples pour le suivi ; ils ne déterminent pas le profil clinique à eux seuls.
 
-Le profil d’Agathe s’apprécie dans la durée en orthophonie et dans son parcours de soins ; le jeu des trois papiers ne détermine pas un sous-type du trouble.
+## Comment distinguer une question mal comprise d’une réponse difficile à formuler ?
 
-## Revenir à ce qu’on peut essayer
+### Il manque le sens de la demande
 
-L’objectif de cette séance se construit avec Agathe à partir de ce qui lui est utile au quotidien. Elle veut pouvoir signaler qu’elle a perdu la question, puis répondre par une phrase ou en montrant un trajet. À son prochain rendez-vous, elle pourra dire si elle a utilisé sa demande, si quelqu’un l’a entendue ou si elle a choisi autre chose. L’orthophoniste peut reprendre ce retour pour ajuster le travail avec elle. À l’école, l’adulte peut annoncer « une question d’abord », laisser le support à portée et faire une pause. Le dessin du jardin appartient toujours à Agathe et à sa classe. Il a sa propre fonction : aider d’autres élèves à retrouver des graines.
+Avant de répondre, il faut parfois savoir à quoi se rapporte un mot ou dans quel ordre suivre les éléments.
+
+**Exemples concrets**
+
+- Agathe entend « après » et doit savoir après quelle étape.
+- Un élève à qui l’on demande « Et l’autre ? » peut avoir besoin que l’adulte nomme l’objet visé.
+
+### La réponse est connue avant d’être dite
+
+Une personne peut savoir ce qu’elle veut montrer et chercher encore les mots qui l’expriment.
+
+**Exemples concrets**
+
+- Agathe se représente l’endroit où se trouve l’étagère mais tarde à le nommer.
+- Un enfant peut pointer la bonne porte sans retrouver tout de suite « cabanon ».
+
+### Les deux difficultés peuvent se suivre
+
+Clarifier la question laisse parfois encore le travail de formuler la réponse.
+
+**Exemples concrets**
+
+- Au cabinet, Agathe veut sélectionner une question puis dire sa réponse ou montrer le trajet.
+- En classe, un enfant peut d’abord faire préciser quel jeudi est prévu, puis chercher une phrase pour dire s’il viendra.
+
+## 3 techniques pour choisir un appui selon le point qui bloque
+
+### 1. Préciser le mot qui relie les étapes
+
+Rendre la question assez claire pour y répondre.
+
+**Exercice pratique**
+
+- Repérez le mot qui peut désigner plusieurs moments.
+- Remplacez-le par le lieu ou l’action précise.
+- Demandez si c’est bien ce dont l’enfant avait besoin avant d’attendre sa réponse.
+
+La clarification agit sur le message à comprendre.
+
+### 2. Donner une autre façon de formuler
+
+Laisser la personne exprimer ce qu’elle sait.
+
+**Exercice pratique**
+
+- Laissez un temps après la question.
+- Proposez, si elle le souhaite, de montrer, dessiner ou dire.
+- Vérifiez le sens de ce qu’elle a choisi de transmettre.
+
+La personne peut répondre même si un nom reste difficile à trouver.
+
+### 3. Apporter un exemple au suivi
+
+Aider à discuter de ce qui se passe hors du cabinet.
+
+**Exercice pratique**
+
+- Choisissez avec l’enfant un échange dont il veut parler.
+- Décrivez la question et ce qui a aidé à y répondre.
+- Demandez à l’orthophoniste comment reprendre cette situation avec lui.
+
+Les choix de suivi tiennent compte d’un usage précis du langage.
 
 ## Le papier dans la poche de devant
 
 La mère d’Agathe attendait près du porte-manteau. L’orthophoniste demanda à Agathe ce qu’elle voulait lui dire de la séance. Agathe lui donna le papier « laquelle d’abord ? » et garda les trois autres dans le carton. Sa mère le lut et demanda si elle devait l’apporter à la réunion de l’école. « Je le garde. Je leur montrerai si j’en ai besoin. » Elle rangea le papier dans la poche de devant. Dans l’escalier, elle sortit la copie pour lui montrer le chemin de la porte à la réserve. La boîte bleue y ressemblait à une tache grise. Quand sa mère lui demanda quel rectangle c’était, Agathe hésita elle aussi.
+
+---
+
+**Conclusion**
+
+Agathe garde « laquelle d’abord ? » dans sa poche et choisira de le montrer si elle en a besoin. Le trajet qu’elle montre ensuite à sa mère lui pose une autre question : que vaut le plan quand deux repères se confondent sur la copie ?

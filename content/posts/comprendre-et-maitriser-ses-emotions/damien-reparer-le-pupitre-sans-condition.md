@@ -33,14 +33,79 @@ La trésorière lui dit qu’elle peut attester le paiement au nom du bureau. Le
 
 Une personne peut ressentir de la honte, de la fatigue ou du regret après un accès du trouble explosif intermittent. Ces réactions sont variables et n’indiquent pas à elles seules qu’un danger a cessé. La honte de Damien le pousse à éviter la rencontre avec le bureau et lui donne envie d’une réponse rassurante. La réparation porte sur un fait précis, le pupitre qu’il a endommagé. Elle avance si la dépense et la remise de l’objet sont prises en charge dans le cadre choisi par la personne touchée.
 
-## Chercher une réponse au-delà du reçu
+## Comment le regret et la responsabilité peuvent-ils prendre des voies différentes après un accès ?
 
-Damien relit le papier plusieurs fois et cherche sur le visage de Judith un indice sur Mireille. Il découvre qu’il avait mêlé trois décisions. La trésorière peut organiser le remplacement, Mireille décide ce qu’elle veut communiquer et le bureau traite à part sa participation musicale. Quand Judith s’en tient au devis, Damien peut entendre la consigne sans la transformer en signe de pardon ou de rejet. L’envie d’être rassuré reste une difficulté à travailler avec son équipe.
+### Le regret peut coexister avec un besoin de rassurance
 
-## Prendre en charge le coût sans négocier un retour
+Une émotion après l’accès ne change ni le dommage ni les décisions de la personne agressée.
 
-Damien peut régler la dépense convenue, obtenir un reçu et laisser la mairie remettre le pupitre au moment choisi par Mireille. Le groupe peut conserver les dispositions de sécurité après ce paiement. Le regret peut être repris en consultation pour examiner ce qui se passe entre le souhait de réparer et la tentation de chercher une réponse. La personne lésée peut laisser l’objet transiter par le guichet ou demander une autre solution au bureau. Elle conserve le choix de parler ou de garder le silence.
+**Exemples concrets**
+
+- Damien hésite à venir au bureau et voudrait savoir comment Mireille prend la démarche.
+- Le devis décrit le pupitre à remplacer indépendamment de ce qu’elle répondrait.
+
+### La réparation peut être précise et vérifiable
+
+Un geste matériel peut être réalisé par le canal convenu sans faire revenir la personne touchée sur les faits.
+
+**Exemples concrets**
+
+- La mairie confirme les modalités de remise du pupitre.
+- La trésorière établit un reçu après le paiement de Damien.
+
+### La reprise d’un rôle suit une décision distincte
+
+La réparation d’un objet ne décide pas de la confiance ni des conditions de participation.
+
+**Exemples concrets**
+
+- Judith dit que le bureau discutera séparément de la place de Damien au concert.
+- Damien demande de ne pas connaître la date où Mireille pourrait retirer le matériel.
+
+## 3 techniques pour prendre en charge un dommage en respectant la distance choisie
+
+### 1. Suivre la procédure de réparation convenue
+
+Assumer un dommage sans imposer un échange personnel.
+
+**Exercice pratique**
+
+- Demandez au responsable quelles étapes matérielles sont prévues.
+- Fournissez les éléments attendus par ce canal.
+- Gardez la trace de ce qui a été fait sans contacter la personne touchée.
+
+Le remplacement peut aboutir sans exposer la personne à un contact qu’elle refuse.
+
+### 2. Réserver le regret à un espace choisi
+
+Parler de l’après-coup sans demander une réponse rassurante.
+
+**Exercice pratique**
+
+- Nommez l’émotion que vous éprouvez depuis l’accès.
+- Identifiez la réaction que vous espériez obtenir de l’autre.
+- Reprenez ces éléments avec le professionnel qui vous suit.
+
+Le soin peut travailler sur le regret et la responsabilité sans les faire porter à la personne agressée.
+
+### 3. Attendre la décision sur votre rôle
+
+Respecter le calendrier et la liberté de la structure qui vous accueille.
+
+**Exercice pratique**
+
+- Vérifiez qui décide de votre éventuelle participation.
+- Respectez les conditions en vigueur jusque-là.
+- Demandez à quel moment la réponse sera communiquée par le canal prévu.
+
+L’organisation peut traiter la reprise selon ses propres critères de sécurité et de disponibilité.
 
 ## Le reçu de la trésorière
 
 La trésorière imprime le reçu après le paiement. Damien le range dans son carnet derrière la référence de réservation. Il demande à Judith de ne pas lui communiquer la date de retrait. Elle lui donne le jour de la prochaine réunion du bureau. Les conditions pour jouer seront discutées sans que le remplacement serve de preuve sur sa conduite à venir. Damien reprend sa veste. Avant de partir, il montre à Judith, sur sa propre partition, la mesure où il aimerait laisser un temps aux cuivres. Elle accepte de la regarder quand le bureau aura traité la question de sa place.
+
+---
+
+**Conclusion**
+
+Le reçu est dans le carnet et Damien laisse la date de retrait au guichet. Il a pris en charge le remplacement. Le bureau doit encore décider de sa place dans la fanfare, et Mireille peut conserver exactement la distance qu’elle a demandée.

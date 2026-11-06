@@ -29,20 +29,83 @@ Deux sons brefs précèdent une annonce au haut-parleur. Selma entend le premier
 
 André l’attend au café en face, avec le dessin de sa propre étagère dans la poche. Ils devaient comparer la hauteur de leurs semis. Selma regarde la porte vitrée, puis la vendeuse, qui est restée du côté de sa caisse. Elle retrouve peu à peu le mot qu’elle cherchait avant l’annonce. Elle aimerait revoir la charnière. Elle veut surtout pouvoir choisir où elle sera pendant les prochaines minutes.
 
-## Un souvenir qui semble se produire de nouveau
+## Quand un élément du passé paraît revenir au présent
 
-Une reviviscence donne à la personne l’impression qu’un événement traumatique se passe à nouveau dans le présent. Elle peut comporter des sensations, des images ou des sons. Cette impression peut occuper plus ou moins de place selon le moment. L’OMS distingue ce vécu du fait de penser à un événement passé en gardant son attention dans la situation présente. Le professionnel peut examiner avec la personne ce qu’elle a éprouvé et ce dont elle s’est rendu compte ensuite.
+Une reviviscence dans le TSPT peut donner le sentiment qu’un aspect du traumatisme se produit à nouveau. L’expérience peut surtout passer par une sensation ou une peur, sans image complète. Penser à un souvenir pénible est une autre expérience. À la quincaillerie, Selma n’entend pas seulement un son qui lui rappelle l’accident. Il lui semble de nouveau proche alors que la vendeuse lui tend une pièce.
 
-## Comment cette difficulté se manifeste
+## Comment la reviviscence modifie-t-elle un échange au comptoir ?
 
-Le mot peut aider Selma à raconter pourquoi elle a perdu le fil au comptoir. Elle peut décrire l’impression que le son était revenu, le temps dont elle a eu besoin et la charnière dont elle n’arrivait plus à parler. Sa thérapeute pourra l’aider à mettre des mots sur ce moment en tenant compte des autres situations qu’elle connaît. Pour la vendeuse, il suffit de comprendre qu’une cliente a besoin d’interrompre son achat.
+### Le son d’aujourd’hui et celui de l’accident se confondent un moment
 
-## Laisser du temps et proposer une aide simple
+Le sentiment de revivre peut se concentrer sur un détail sensoriel plutôt que sur une scène entière.
 
-Quand une personne se sent dépassée, un interlocuteur peut parler de ce qui se passe autour d’elle avec des mots ordinaires. Il peut lui laisser un passage, demander si elle souhaite s’asseoir ou si elle veut joindre quelqu’un. Dans la scène, Selma peut dire qu’elle préfère sortir et demander qu’on mette la charnière de côté. L’accord tient au besoin qu’elle vient d’exprimer.
+**Exemples concrets**
 
-Dans un suivi spécialisé, des moyens pour faire face aux reviviscences peuvent se discuter avec la personne. Le NICE les situe dans la prise en charge. Selma pourra demander lesquels lui correspondent, en distinguant ses situations de vie et les lieux où elle doit pouvoir signaler rapidement une difficulté. Dehors, son choix peut se limiter à retrouver André ou à rentrer chez elle.
+- Les deux sons précèdent une annonce, puis celui que Selma associe à l’accident lui paraît à nouveau près d’elle.
+- Le magasin cesse pendant quelques secondes de retenir son attention alors qu’elle se tient toujours devant la caisse.
+
+### La tâche en cours devient difficile à comprendre
+
+Une personne peut voir ou entendre un élément du présent sans retrouver tout de suite le sens de la situation.
+
+**Exemples concrets**
+
+- La vendeuse parle du diamètre d’une vis et Selma perd le début de l’annonce et la suite de l’échange.
+- Elle voit l’étiquette orange et ne sait plus pourquoi on la lui tend.
+
+### Le retour au présent peut prendre du temps
+
+Reprendre des repères et reprendre une tâche ne se font pas nécessairement au même moment.
+
+**Exemples concrets**
+
+- Selma demande d’attendre et retrouve peu à peu le mot qu’elle cherchait.
+- Au café, elle attend d’avoir commandé et bu avant de comparer les dessins.
+
+## 3 techniques pour traverser un échange interrompu par une reviviscence
+
+### 1. Suspendre la décision en cours
+
+Laisser la possibilité de revenir lorsque l’on pourra choisir.
+
+**Exercice pratique**
+
+- Utilisez une phrase courte comme « Un instant, s’il vous plaît. »
+- Demandez qu’on pose l’objet ou qu’on laisse la question pour plus tard.
+- Choisissez de rester, de vous asseoir ou de rejoindre un endroit sûr si vous le souhaitez.
+
+L’achat peut attendre pendant que la personne retrouve ses repères.
+
+### 2. Choisir un repère dans le lieu présent
+
+Se donner une information simple sur la situation en cours si cela aide.
+
+**Exercice pratique**
+
+- Regardez un détail actuel que vous reconnaissez, comme la porte du magasin.
+- Si vous le souhaitez, demandez à quelqu’un de vous dire où vous êtes ou ce que vous faisiez.
+- Gardez le choix de reprendre ou de quitter l’échange.
+
+Un repère concret peut aider à retrouver le lieu sans obliger à décrire l’événement.
+
+### 3. Préparer une question pour le suivi
+
+Discuter du sentiment de revivre et de son retentissement avec un professionnel formé.
+
+**Exercice pratique**
+
+- Notez ce qui a précédé la perte du fil si vous voulez y revenir.
+- Décrivez la différence entre le son actuel et ce qui vous a semblé revenir.
+- Demandez au professionnel comment parler de ces moments et quels appuis examiner avec lui.
+
+L’entretien permet de distinguer ces expériences et de chercher une réponse adaptée.
 
 ## Une charnière réservée jusqu’à demain
 
 La vendeuse écrit le prénom de Selma sur un petit ticket. Elle gardera la pièce jusqu’au lendemain, derrière la caisse. Depuis le trottoir, Selma voit André souffler sur son café. Elle lui fait signe de rester à sa table et le rejoint quand le feu passe au vert. Il sort son dessin. Elle lui demande d’attendre qu’elle ait commandé. Quand elle prend la première gorgée, elle sait à nouveau combien de trous elle avait dessinés. Elle demande à André de lui montrer comment il a compté les siens.
+
+---
+
+**Conclusion**
+
+Selma laisse la charnière au magasin et rejoint André quand elle le décide. La reviviscence a changé ce qu’elle pouvait comprendre au comptoir pendant quelques instants. Elle retrouve la question des vis au café, à un moment où elle peut choisir de la poser.

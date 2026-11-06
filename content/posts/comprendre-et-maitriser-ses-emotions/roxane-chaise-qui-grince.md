@@ -33,16 +33,79 @@ Roxane descend de sa petite marche et vient s’asseoir près d’elle. La place
 
 Une parole peut être audible sans être comprise en entier. Salomé entend une voix qui lui parvient de l’autre bout de la salle. Entre l’écho, la distance, l’absence d’indices visuels et les mots qu’elle n’a pas distingués, elle ne peut pas deviner à quoi tient chaque partie manquante. Le trouble de Roxane peut rendre certains sons difficiles à reconnaître. Le micro et la disposition des chaises jouent sur ce que Salomé peut entendre et voir ; ils ne changent pas à eux seuls la production des sons.
 
-## Comment cette difficulté se manifeste
+## Comment une voix peut-elle être audible au micro sans que les mots soient clairs ?
 
-Mme Sorel et Salomé déplacent le panneau et essaient une place où Roxane n’a pas besoin de se dresser. Elles règlent le micro et vérifient avec elle le résultat depuis les chaises rapprochées. Après l’essai, Roxane veut que l’on garde aussi le carton du deuxième indice. Ce que Salomé comprend dans une salle vide pourra lui échapper quand la salle sera occupée.
+### Le volume ne sépare pas tous les sons
 
-## Se donner un signal qu’on peut voir
+Amplifier une voix la rend plus présente. L’écho et les bruits proches peuvent encore masquer des détails dont l’auditeur a besoin.
 
-Zoé a voulu aider dès la première demande ; elle n’a pas pu voir si Roxane avait fini. Roxane voudrait d’abord avoir le choix de reprendre la phrase. Si elle préfère passer la main, elle veut que Zoé puisse dire l’indice, puis lui rendre la suite du jeu. Elles prennent un galet plat qui sert de poids au panneau et dessinent un rond orange sur une face. Le rond visible voudra dire : « À toi pour l’indice. »
+**Exemples concrets**
 
-L’accord permet à chacune de savoir quoi attendre sans ajouter une explication pour les visiteurs. Elles testent le passage de relais à deux. Zoé lit la phrase puis se tait. Roxane sait que le silence suivant lui appartient : c’est celui où elle donne le carton et attend les réponses.
+- Au fond de la salle, Salomé entend le début de l’indice et demande à Roxane d’en redire la fin.
+- Dans une salle qui résonne, un groupe entend qu’on lui parle mais hésite sur le mot qui indique la sortie.
+
+### La place des personnes compte
+
+La distance et l’orientation changent ce que l’auditeur peut entendre et voir. Le visage, un geste ou un carton peuvent donner un repère supplémentaire.
+
+**Exemples concrets**
+
+- Mme Sorel libère l’espace devant le panneau pour que Roxane puisse s’y placer face à la salle.
+- Des auditeurs en arc peuvent suivre le geste de l’enfant alors qu’un dernier rang derrière une colonne ne le voit pas.
+
+### L’appui doit fonctionner pendant l’échange
+
+Un mot peut rester incertain même dans une salle réorganisée. Savoir comment le rendre accessible compte autant que le réglage de départ.
+
+**Exemples concrets**
+
+- Roxane essaie le signal du galet si elle souhaite que Zoé reprenne l’indice.
+- Un carton tenu à hauteur du public peut rendre une phrase consultable sans couper le déroulement du jeu.
+
+## 3 techniques pour rendre un indice plus clair dans une salle
+
+### 1. Écouter depuis les places éloignées
+
+Repérer ce qui se perd dans les conditions réelles.
+
+**Exercice pratique**
+
+- Placez un auditeur au fond de la salle.
+- Demandez-lui de dire quels mots il a compris après un essai au micro.
+- Changez une seule chose, la place ou l’orientation, et comparez.
+
+L’équipe peut choisir un aménagement d’après ce que le public perçoit.
+
+### 2. Réserver une place au repère visuel
+
+Faire en sorte que plusieurs personnes voient la même information.
+
+**Exercice pratique**
+
+- Dégagez l’espace entre l’enfant et les derniers sièges.
+- Vérifiez que le carton se lit depuis les places prévues.
+- Mettez-le à portée de l’enfant pour l’instant où il en aura envie.
+
+Le texte peut compléter la parole sans devoir être cherché au milieu de la présentation.
+
+### 3. Répéter le relais comme un élément de scène
+
+Laisser à l’enfant le choix du moment où la phrase change de voix.
+
+**Exercice pratique**
+
+- Convenez du signal et de la personne qui le regardera.
+- Essayez une fois avec le signal et une fois sans.
+- Prévoyez qui poursuit le jeu après la phrase relayée.
+
+L’aide se limite à la demande convenue et Roxane garde la révélation.
 
 ## Face orange contre la table
 
 Pour le dernier essai, Roxane se place devant le panneau, dans l’espace que Mme Sorel a dégagé. Elle dit le début du deuxième indice, regarde si Salomé attend encore, puis retourne le galet pour essayer le relais jusqu’au bout. Zoé prend la phrase. Une fois le carton posé, Roxane révèle elle-même le dessin. Elles remettent les chaises à leur place pour le club de lecture. Salomé dessine leur arc sur son plan du samedi. Roxane garde le galet dans la poche du panneau, côté orange contre le carton.
+
+---
+
+**Conclusion**
+
+L’arc de chaises et le galet répondent à deux questions : ce que la salle permet d’entendre, puis ce que Roxane veut faire si un mot échappe encore. Elle a testé le relais jusqu’au dessin. Le jour de la rencontre, elle pourra décider de l’utiliser ou de garder la phrase.

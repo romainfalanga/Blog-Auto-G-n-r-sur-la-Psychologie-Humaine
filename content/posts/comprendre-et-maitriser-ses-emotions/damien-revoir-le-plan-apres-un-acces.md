@@ -33,14 +33,79 @@ Dans la salle de pause, Damien voit sa veste accrochée sous une affiche de l’
 
 Savoir interrompre une montée de tension peut devenir un appui dans le trouble explosif intermittent. Un nouvel accès reste possible, notamment lorsque le changement survient avant que la personne remarque un signal. Damien a pu partir assez tôt de chez Leïla. À l’atelier, ses paroles agressives sont déjà sorties quand il se rend compte de ce qui s’est passé. Ce contraste donne une raison de revoir le plan en consultation. Il ne permet ni de prévoir la prochaine scène ni de conclure que l’expérience de la cour a perdu toute valeur.
 
-## Le signal qu’il cherche et l’insulte entendue
+## Comment un nouvel accès peut-il survenir sans le signe qu’on attendait ?
 
-Damien cherche dans son souvenir la tension qu’il attendait dans les bras. Maud a entendu une insulte et a dû s’écarter pour solliciter Denis. Ces deux observations répondent à des questions différentes. Le souvenir de Damien peut aider l’équipe à ajuster le suivi. Les faits et leurs conséquences au travail appellent des mesures indépendantes de sa capacité à expliquer ce qui s’est passé. Denis peut également veiller à ce que l’ancienne consigne concernant Noé ne soit pas modifiée par le changement du jour.
+### Le repère attendu peut manquer
 
-## Prévoir aussi la réponse à un accès déjà survenu
+Une expérience de retrait réussie ne garantit pas que les mêmes signes seront perceptibles avant un autre accès.
 
-La priorité est d’interrompre l’exposition des collègues et de passer par l’encadrement. Damien peut s’écarter, suivre les consignes de sécurité du lieu et signaler l’épisode à son équipe de soins. Avec elle, il pourra prévoir une réponse qui ne dépend pas seulement de repérer une sensation dans son corps. Le relais professionnel reste organisé par l’atelier. Maud peut choisir de faire un signalement ou de demander un appui séparé. Elle n’a aucune obligation d’être présente quand le responsable reçoit Damien.
+**Exemples concrets**
+
+- Chez Leïla, Damien avait reconnu la tension dans ses bras.
+- À l’atelier, il crie et insulte Maud avant de retrouver un souvenir comparable.
+
+### Le relais permet d’interrompre la situation
+
+Une organisation doit pouvoir répondre à l’agression sans attendre que son auteur identifie sa montée de tension.
+
+**Exemples concrets**
+
+- Maud quitte le local et appelle Denis depuis le bureau voisin.
+- Denis prend les transmissions et oriente Damien vers un autre espace.
+
+### Le nouvel incident appelle plusieurs suites
+
+Les faits de travail et la réévaluation du plan de soins peuvent avancer séparément.
+
+**Exemples concrets**
+
+- Damien écrit ce qu’il a fait et appelle l’équipe qui le suit.
+- Maud choisit d’être entendue à un autre moment que lui.
+
+## 3 techniques pour réagir à un incident et réviser le plan avec les professionnels
+
+### 1. Appliquer la mise à distance prévue
+
+Protéger les personnes et interrompre l’échange agressif.
+
+**Exercice pratique**
+
+- Écartez-vous et utilisez le relais prévu si cela peut se faire en sécurité.
+- En cas de danger immédiat, appelez les secours depuis un lieu sûr.
+- Laissez le responsable organiser la suite et respectez les espaces séparés.
+
+La sécurité ne dépend pas du repérage des signes par la personne qui vient d’agresser.
+
+### 2. Rapporter les actes au responsable
+
+Donner une base précise à l’organisation du travail.
+
+**Exercice pratique**
+
+- Notez ce qui a été dit ou fait et qui a pris le relais.
+- Utilisez le circuit de signalement prévu.
+- Laissez la personne touchée choisir son interlocuteur et le moment où elle souhaite parler.
+
+Le responsable peut prendre des décisions à partir des faits sans imposer un face-à-face.
+
+### 3. Revoir avec l’équipe le point où le plan a manqué
+
+Adapter le suivi après un accès survenu malgré un progrès antérieur.
+
+**Exercice pratique**
+
+- Contactez l’équipe de soins et signalez le nouvel accès.
+- Décrivez le repère que vous attendiez et le moment où vous avez remarqué votre comportement.
+- Demandez comment revoir le plan et quels relais restent nécessaires.
+
+Le soin peut s’ajuster à des signes variables sans présenter l’ancien plan comme une garantie.
 
 ## Deux entretiens séparés
 
 Denis reçoit Damien avec le responsable avant la fin du service. Il lui confirme qu’il assurera les transmissions les jours où Damien et Maud se croisent, le temps que l’encadrement fixe la suite. Maud choisit de voir le responsable à un autre moment. Damien accepte l’organisation et reçoit un rendez-vous plus rapproché du service de soins. En sortant, il écrit à Judith qu’il préfère que le bureau n’envisage pas de reprise pour lui cette semaine. Il lui demande de laisser quelqu’un d’autre assurer la basse si le groupe travaille le morceau. Il n’envoie aucun détail sur Maud.
+
+---
+
+**Conclusion**
+
+Denis reprend les transmissions, Maud est entendue à part et Damien obtient un rendez-vous rapproché. Son expérience chez Leïla et le nouvel accès éclairent deux moments différents. La protection des collègues passe d’abord par l’organisation de l’atelier.

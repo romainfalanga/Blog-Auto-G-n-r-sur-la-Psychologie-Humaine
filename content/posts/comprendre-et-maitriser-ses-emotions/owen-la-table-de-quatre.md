@@ -33,14 +33,81 @@ Au deuxième passage, même Owen trouve le détail difficile à voir. Il pourrai
 
 La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas. L’ASHA distingue aussi ce qu’on entend du retentissement que la personne décrit.
 
-## Comment cette difficulté se manifeste
+Owen a expliqué le raccord à Nassim sans y penser longtemps. Devant le groupe, le premier mot lui demande du temps et il pointe l’image. Le contexte a changé : certains spectateurs découvrent le film et le retour se fait à plusieurs. Une écoute unique ne résume pas l’effort qu’il éprouve selon les interlocuteurs.
 
-Pour Owen, avoir pu parler du raccord à Nassim ne lui donne pas le pouvoir de répondre sur commande. Dans la salle, il tient encore à répondre. Pointer l’image garde le sujet en vue pendant qu’il attend son mot. Le professeur peut ensuite faire une remarque sur le détail qui lui manque, sans supposer qu’il doit simplifier le projet ou parler pour Owen.
+## Comment le même propos change-t-il d’un interlocuteur à l’autre ?
 
-## Choisir la scène que l’on a envie d’introduire
+### Les personnes familières partagent du contexte
 
-Le groupe peut corriger un problème d’image sans rallonger la narration : tenir plus longtemps le plan déjà tourné où la poignée se retourne, puis vérifier le rendu sur un mur. Si la soirée a lieu, Owen envisage d’introduire cette scène, parce qu’elle fait basculer ce qu’on croit savoir du sac. Lucile peut prendre l’accueil et la fin de la présentation, selon ce qu’ils voudront chacun porter. Donner à Owen la possibilité de choisir un passage lui laisse une vraie décision de réalisateur. Il peut décider plus tard s’il veut utiliser une carte, parler sans notes ou montrer d’abord une image. L’accord sur la projection et celui sur sa prise de parole restent à régler séparément.
+Un partenaire déjà au courant reconnaît plus vite ce qu’on cherche à lui montrer. Il connaît aussi les habitudes de l’échange.
+
+**Exemples concrets**
+
+- Nassim sait quel raccord Owen vient de modifier avant de regarder avec lui.
+- Dans un atelier, parler à la personne qui tenait la caméra peut demander moins d’explications qu’à quelqu’un qui découvre la scène.
+
+### Un nouveau groupe change la situation
+
+Le nombre d’interlocuteurs, leurs questions et ce qu’ils connaissent peuvent modifier l’effort de parler. La variation ne dit pas si la personne s’est préparée.
+
+**Exemples concrets**
+
+- Devant plusieurs personnes, Owen bloque au début de la même explication.
+- Une personne peut raconter aisément une scène à un ami et avoir besoin de temps quand trois auditeurs lui demandent quel plan regarder.
+
+### Un repère partagé rend la question disponible
+
+Montrer un détail commun peut laisser la discussion ouverte pendant une interruption.
+
+**Exemples concrets**
+
+- Owen pointe l’image pour que M. Vasseur voie où chercher le ruban.
+- Une animatrice peut poser la photo au milieu de la table et attendre la réponse avant de formuler la prochaine question.
+
+## 3 techniques pour adapter une explication à de nouveaux interlocuteurs
+
+### 1. Vérifier ce que le public connaît
+
+Éviter de compter sur un contexte que tout le monde n’a pas.
+
+**Exercice pratique**
+
+- Demandez si les personnes ont vu le passage.
+- Indiquez le plan ou le moment dont vous parlez.
+- Laissez quelques secondes à chacun pour le retrouver.
+
+Les auditeurs peuvent poser une question sur le même détail.
+
+### 2. Réserver un objet ou une image à montrer
+
+Donner un point d’appui si l’explication s’interrompt.
+
+**Exercice pratique**
+
+- Choisissez l’image qui porte l’information.
+- Mettez-la à portée avant l’échange.
+- Si vous le souhaitez, montrez-la avant de reprendre votre phrase.
+
+Le support garde le sujet ouvert sans imposer une façon de reprendre.
+
+### 3. Proposer une répartition révisable
+
+Ajuster le rôle à ce que la personne souhaite faire dans ce groupe.
+
+**Exercice pratique**
+
+- Demandez quelle partie elle aimerait présenter.
+- Décidez qui prend l’accueil ou les autres questions.
+- Revoyez l’accord avant le passage public.
+
+Une expérience à deux donne des idées d’appui sans déterminer le prochain rôle.
 
 ## Le trait jaune sur le mur
 
 Owen propose de tenir le plan de la poignée une seconde de plus et de prendre cette seconde sur le noir juste avant le générique. Nassim vérifie qu’ils n’auront pas à réenregistrer le bus. Lucile dessine deux traits sur une feuille, un pour l’accueil et un pour la scène. Owen écrit son prénom près du deuxième. « Si on le passe, j’aimerais présenter celle-là. » Tous les quatre acceptent de montrer le montage terminé aux responsables légaux qui voudront le voir avant de décider pour la soirée, sans leur laisser de copie. En fermant la salle, Owen reprend la feuille. Sous son prénom, il note deux choses que le public pourra regarder : le sac et le nœud.
+
+---
+
+**Conclusion**
+
+Le professeur attend le détail sur le ruban et Owen peut proposer de prolonger le plan. Il se réserve une scène à introduire si le film est montré. L’échange avec Nassim et celui devant le groupe lui donnent deux expériences différentes à partir desquelles décider.

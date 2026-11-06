@@ -34,14 +34,81 @@ Agathe mit la main à plat au milieu du banc. « C’est peut-être ça. Mais pa
 
 Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes.
 
-## Comment cette difficulté se manifeste
+Agathe a compris ce qu’Inès propose et a déjà une objection. Le mot « vérifier » arrive quand le nom est écrit. Sur leur carton, laisser une ligne libre lui donnerait le temps de faire entendre sa décision et de demander à Camille de vérifier le sachet.
 
-Agathe comprend la proposition d’Inès. Ce qui lui prend du temps, c’est d’indiquer comment traiter un sachet au nom incertain et pourquoi il faut attendre. Le point d’interrogation donne à Inès un indice ; Agathe complète elle-même. On ne peut pas déduire de cet échange le profil complet de son langage ni ses compétences en jardinage.
+## Comment une recherche de mot peut-elle retarder une décision déjà claire ?
 
-## Laisser la décision en suspens
+### L’idée est là avant la formulation
 
-Sur ce banc, une pause a une conséquence très simple : tant que les deux n’ont pas choisi, le nom peut rester au crayon ou la ligne rester vide. Inès peut reprendre « Tu veux qu’on attende Camille pour le nom ? », en laissant de la place pour un oui, un non ou une précision. Demander l’avis d’Agathe a peu d’effet si l’on écrit la réponse dans le même mouvement. On peut lui offrir le feutre, déplacer le sachet sur sa demande ou attendre qu’elle ait fini sa phrase. C’est le contenu de sa proposition qui compte : ne pas présenter aux suivants une supposition comme un fait. Camille peut répondre de l’usage d’un sachet abîmé sans prendre en charge le dessin de l’inventaire.
+Une personne peut savoir ce qu’elle souhaite faire et chercher encore le mot qui résume sa proposition.
+
+**Exemples concrets**
+
+- Agathe veut laisser une ligne vide avant de trouver « vérifier ».
+- Un élève peut savoir qu’il veut garder un objet pour une autre séance et chercher comment le dire.
+
+### Le groupe peut avancer avant la réponse
+
+Si l’autre écrit ou décide aussitôt, la recherche d’un mot risque d’être prise pour un accord.
+
+**Exemples concrets**
+
+- Inès a déjà inscrit le nom quand Agathe trouve sa phrase.
+- Dans un travail à deux, un camarade peut coller une étiquette pendant que son partenaire essaie encore de proposer une autre place.
+
+### Un signe peut porter l’idée
+
+Un geste ou un symbole donne une façon d’intervenir quand le mot demande du temps.
+
+**Exemples concrets**
+
+- Le point d’interrogation conserve le doute sur le sachet.
+- Un doigt posé sur une ligne vide peut signifier qu’il reste une décision à prendre.
+
+## 3 techniques pour laisser une idée arriver jusqu’au groupe
+
+### 1. Garder la décision ouverte
+
+Laisser le temps de répondre avant une action difficile à défaire.
+
+**Exercice pratique**
+
+- Demandez l’avis de l’autre.
+- Attendez une réponse avant d’écrire ou de coller.
+- Si la réponse doit attendre, laissez la case libre.
+
+Le silence ne devient pas une décision prise pour deux.
+
+### 2. Proposer une reformulation à vérifier
+
+S’assurer qu’on a compris l’intention sans imposer un mot.
+
+**Exercice pratique**
+
+- Reprenez la partie que vous avez saisie.
+- Proposez une question courte : « On attend Camille pour le nom ? »
+- Laissez l’autre confirmer, refuser ou préciser.
+
+Le mot suggéré sert à vérifier, et l’auteur garde sa proposition.
+
+### 3. Créer un signe provisoire
+
+Donner un moyen de marquer un doute utile.
+
+**Exercice pratique**
+
+- Choisissez un symbole avec la personne.
+- Mettez-le là où une information reste à vérifier.
+- Décidez qui peut confirmer la réponse et à quel moment.
+
+Le projet avance sans inscrire une supposition comme un fait.
 
 ## Une ligne qui reste libre
 
 Camille retrouva les capucines dans un sachet sec, avec un nom intact, parmi le matériel à utiliser avant les vacances. Elle prit le sachet abîmé pour s’en occuper ; il ne rejoindrait pas la boîte de réserve. Sur leur carton, Inès barra « capucines » d’un trait qui laissait encore deviner les lettres. Agathe déchira un coin d’enveloppe et le colla dessous. Elle y dessina son point d’interrogation en petit. Elles garderaient le signe pour les prochains sachets à vérifier, et pour ce qu’elles auraient envie de demander aux CM1. Avant la récréation, Inès proposa qu’Agathe présente le carton le lendemain devant toute la classe. Agathe dit « je vais voir ». Ce n’était pas un oui.
+
+---
+
+**Conclusion**
+
+Agathe arrive à garder une trace du doute avant de décider avec Inès. Elles disposent désormais d’un signe pour les prochains sachets à vérifier. Quand Inès propose la présentation, Agathe peut encore choisir le rôle qu’elle souhaite.

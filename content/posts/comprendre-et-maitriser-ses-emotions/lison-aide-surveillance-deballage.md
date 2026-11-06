@@ -33,14 +33,79 @@ Le sergé se déroule. Lison rapproche l’échantillon de la réserve ; la lumi
 
 Le besoin d’aide peut varier d’une opération à l’autre au sein d’une même tâche. Les difficultés du trouble développemental des apprentissages dépendent entre autres des exigences de la situation et des soutiens disponibles. Lison a déjà appris où retrouver le lot, la largeur et la trace du retour. Pour ces éléments, la présence continue de Nora la gênerait dans cette scène. La longueur d’un seul tenant mérite, elle, le contrôle prévu : elle détermine si les trois bandes supplémentaires pourront être coupées. Lison propose de faire le premier relevé, puis de le comparer avec une mesure prise à part. Elle garde aussi son support écrit et la possibilité d’appeler Nora avant si un doute apparaît.
 
-## Travailler sous un regard ou comparer deux mesures
+## Comment choisir la vérification qui soutient l’autonomie ?
 
-Ce que Lison redoute est une présence qui transforme chaque geste en démonstration. Un contrôle indépendant répond à une autre question : retrouve-t-on la même longueur quand quelqu’un reprend le coupon et le devis ? Elle peut expliquer à Nora qu’elle préfère terminer la ligne avant d’en parler. Cela donne à Nora un moment où elle peut revenir et entendre ce que Lison a déjà vérifié. Lison peut également choisir de demander plus tôt une deuxième paire de mains si le coupon glisse. Aucun de ces choix n’est un jugement sur ses capacités ; ils organisent une vérification dont les conséquences touchent les quatre vestes.
+### Les opérations déjà connues ne demandent pas toutes un relais
 
-## Choisir quand tester plus d’autonomie
+Une personne peut choisir de faire seule les étapes qu’elle sait retrouver et garder un contrôle sur un point précis.
 
-Au lieu de retirer toutes les aides après un devis réussi, l’équipe peut essayer de réduire la présence d’un collègue sur les étapes stables. Lison peut relever seule les références et les dates, garder l’écrit et prévoir le contrôle à deux avant une commande ou une coupe qui engage le projet. Si une unité, une largeur ou un conditionnement change, elle pourra redemander un appui. Mon Parcours Handicap présente des aménagements d’organisation et des appuis humains en situation de formation. Dans cet atelier, les conditions précises sont convenues entre les personnes qui y travaillent. Elles peuvent en reparler si les tâches ou les besoins changent.
+**Exemples concrets**
+
+- Lison peut lire le lot, la largeur et la trace du retour sur ses supports.
+- La présence continue de Nora lui demanderait de travailler sous un regard dont elle n’a pas besoin à ce moment.
+
+### Un second relevé répond à une contrainte concrète
+
+Deux mesures réalisées séparément permettent de comparer un résultat important avant une décision d’atelier.
+
+**Exemples concrets**
+
+- Ilyès mesure le coupon sans regarder la valeur de Lison.
+- Leurs deux relevés donnent 185 cm d’un seul tenant, condition nécessaire pour placer les trois bandes.
+
+### La responsabilité reste lisible
+
+Le contrôle partagé et la validation finale peuvent relever de personnes différentes.
+
+**Exemples concrets**
+
+- Lison tient la fiche et montre le plan de coupe.
+- Nora valide la réception après avoir vérifié les relevés.
+
+## 3 techniques pour définir un contrôle qui laisse conduire la tâche
+
+### 1. Choisir ce qui peut être fait en premier
+
+Définir la part que la personne veut mener seule.
+
+**Exercice pratique**
+
+- Listez les repères déjà disponibles.
+- Choisissez les relevés que vous pouvez faire avant le passage du partenaire.
+- Convenez de la manière de le joindre plus tôt si le doute apparaît.
+
+Le relais reste disponible sans occuper toute l’activité.
+
+### 2. Comparer deux résultats sur la même contrainte
+
+Vérifier le point qui détermine la décision.
+
+**Exercice pratique**
+
+- Convenez du périmètre à mesurer.
+- Faites deux relevés sans copier le premier chiffre.
+- Comparez les valeurs et présentez-les à la personne qui valide.
+
+Le contrôle soutient la décision prévue par l’atelier.
+
+### 3. Inscrire la conséquence sur la fiche
+
+Faire apparaître ce que le contrôle permet maintenant.
+
+**Exercice pratique**
+
+- Notez la quantité et la continuité confirmées.
+- Ajoutez la décision de la responsable.
+- Reportez l’étape autorisée sur le plan de travail.
+
+La personne peut poursuivre à partir d’un état clair.
 
 ## Disponible pour la coupe
 
 Ilyès arrive après la pause. Sans regarder le chiffre inscrit par Lison, il mesure à son tour 185 cm continus. Avec Lison, il relit 140 cm de large et la référence B17 sur le devis et l’étiquette. Nora vérifie leurs relevés, valide la réception de l’ocre et classe le bordereau de retour que Lison lui tend. Lison remet le coupon de réserve à côté du nouveau. Sur le plan de coupe, elle montre où iront les trois bandes sur le coupon neuf et la quatrième sur celui de la réserve. Il restera vingt centimètres au total pour les petits ajustements. Elle écrit « contrôlé, disponible pour la coupe ». Ilyès lui demande s’ils gardent la petite chute de l’essai. « Oui, j’ai encore une idée pour elle. »
+
+---
+
+**Conclusion**
+
+Lison choisit de faire le premier relevé et Ilyès contrôle la longueur avant la validation de Nora. Elle montre où iront les quatre bandes et garde la petite chute. La vérification lui permet de poursuivre la commande avec le rôle qu’elle a choisi.

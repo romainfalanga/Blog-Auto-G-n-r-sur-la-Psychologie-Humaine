@@ -34,14 +34,79 @@ Quand l’équipe envoyée arrive, Victoire demande à parler de son suivi à l�
 
 La boulimie nerveuse peut avoir des répercussions somatiques qui justifient un suivi médical, y compris quand l’entourage voit surtout une personne qui continue à travailler et à tenir ses rendez-vous. Un malaise accompagné de palpitations demande une évaluation urgente. L’Assurance Maladie indique de contacter les secours médicaux lorsque les palpitations s’accompagnent d’un malaise. L’équipe pourra examiner la situation et rechercher différentes causes.
 
-## Les signes apparus devant le prospectus
+## Comment le besoin d’un relais urgent devient-il visible ?
 
-Victoire sent son cœur battre soudain très vite. Elle a du mal à fixer le bord de l’affiche, s’appuie au comptoir et dit à Idriss qu’elle se sent mal. Dans la scène, l’appel se déclenche dès le malaise, alors qu’Idriss ignore le diagnostic et que Victoire n’a encore rien expliqué de ses crises. La suite du bilan pourra chercher ce qui explique les symptômes.
+### Les sensations coupent une action en cours
 
-## Donner les faits et suivre les indications reçues
+Un changement physique soudain peut être signalé dans les mots de la personne, même sans explication.
 
-Idriss peut signaler ce qu’il voit, dire quand les symptômes ont commencé et permettre à Victoire de décrire ce qu’elle ressent si elle peut parler. Les secours lui indiquent quoi faire pendant l’attente. Le rôle du collègue tient à la situation immédiate et à l’aide qu’il peut réellement apporter. Une fois le relais pris, Victoire garde la possibilité de parler aux professionnels de ses informations de santé dans des conditions qui lui conviennent autant que la situation le permet. Victoire peut notamment signaler aux soignants qu’elle est suivie pour un trouble alimentaire. Ils en tiennent compte avec les symptômes du moment et les autres éléments utiles du dossier. La suite du bilan et les éventuels liens avec la boulimie se décideront à partir de l’examen. Le prospectus peut attendre et Idriss peut demander plus tard à Victoire ce qu’elle souhaite transmettre concernant le travail.
+**Exemples concrets**
+
+- En cherchant où déplacer le titre, Victoire sent brusquement son cœur battre très vite.
+- Elle s’appuie au comptoir et dit à Idriss qu’elle se sent mal, alors qu’elle voulait finir le prospectus.
+
+### Le collègue dispose de faits immédiats
+
+L’appel peut partir de ce que l’on voit et entend. Les secours évaluent ce qu’il faut faire ensuite.
+
+**Exemples concrets**
+
+- Idriss peut dire à quel moment Victoire lui a demandé de l’aide.
+- Il peut signaler qu’elle s’est appuyée au comptoir et rapporter ses mots sur le malaise.
+
+### Le bilan peut reprendre des éléments privés
+
+Un trouble alimentaire connu donne un contexte aux soignants parmi les autres informations qu’ils examinent.
+
+**Exemples concrets**
+
+- Victoire demande à parler à part pour signaler son suivi.
+- Avant de partir, elle indique aux intervenants où trouver le contact de sa médecin.
+
+## 3 techniques pour obtenir un relais médical devant des palpitations avec malaise
+
+### 1. Appeler immédiatement les secours médicaux
+
+Obtenir une évaluation urgente lorsque des palpitations s’accompagnent d’un malaise.
+
+**Exercice pratique**
+
+- Appelez le 15 ou le 112 en France dès que ce tableau se présente.
+- Donnez le lieu et décrivez les symptômes tels qu’ils sont perçus ou observés.
+- Suivez les consignes des secours pendant l’attente.
+
+Les secours peuvent décider de la réponse adaptée sans attendre que la cause soit connue.
+
+### 2. Transmettre les observations utiles
+
+Donner aux intervenants des faits sur lesquels s’appuyer, une fois l’appel lancé.
+
+**Exercice pratique**
+
+- Indiquez quand les symptômes ont commencé, si vous le savez.
+- Rapportez ce que la personne vous a dit et ce qui a changé depuis.
+- Précisez comment l’équipe peut accéder au lieu et laissez-la prendre le relais à son arrivée.
+
+Les secours disposent d’un déroulé utile tandis que la prise en charge se poursuit.
+
+### 3. Faire connaître le suivi aux soignants
+
+Permettre à l’équipe de tenir compte des informations de santé pertinentes.
+
+**Exercice pratique**
+
+- Après le relais urgent, dites aux soignants quels suivis sont en cours si vous pouvez le faire.
+- Indiquez le contact du professionnel référent ou où le trouver.
+- Demandez à l’équipe comment les informations utiles pourront être reprises pour la suite.
+
+L’évaluation peut s’appuyer sur les symptômes actuels et sur le suivi déjà engagé.
 
 ## Le prospectus reste contre la caisse
 
 Victoire confie sa clé à Idriss avant de partir avec les intervenants. Elle lui dit qu’elle lui écrira quand elle saura si elle revient travailler comme prévu. Idriss laisse le prospectus contre la caisse et reste disponible pour ouvrir le passage. Victoire indique à l’équipe où se trouve le contact de la docteure Benali. Elle veut que son suivi spécialisé fasse partie de ce que les soignants pourront reprendre après le bilan.
+
+---
+
+**Conclusion**
+
+Le prospectus reste contre la caisse et Idriss prend la fermeture en charge. Il a appelé à partir du malaise observé. La boulimie fait partie des éléments que Victoire transmet aux soignants ; l’origine des palpitations reste une question pour le bilan.

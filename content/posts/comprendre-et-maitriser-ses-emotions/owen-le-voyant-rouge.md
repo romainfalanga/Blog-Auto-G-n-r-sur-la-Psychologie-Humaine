@@ -33,14 +33,81 @@ Owen a les deux phrases sur un papier : « J’ai retourné la poignée. Le ruba
 
 Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.
 
-## Comment cette difficulté se manifeste
+Owen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage ; leur comparaison ne fixe pas ce que sera sa parole au prochain essai.
 
-Quand il dit à Owen de respirer, il lui donne pourtant une consigne sur sa façon de parler, alors qu’Owen demande une information sur l’horaire. La Stuttering Foundation recommande d’éviter ces consignes adressées à quelqu’un qui bégaie en conversation. Le groupe peut annoncer le temps disponible avant les prises, dire quand le micro tourne et demander ce que chacun veut refaire. Il laisse ainsi aux interprètes la possibilité de répondre pour leur jeu.
+## Comment deux prises d’un même texte peuvent-elles différer ?
 
-## Une prise retenue pour un usage précis
+### Le déroulement de la parole varie
 
-La deuxième prise plaît à Owen à cause de l’intention de la dernière phrase. Il peut choisir de l’écouter, de la travailler au montage avec Nassim et de revoir sa décision une fois le raccord terminé. Un blocage dans la prise ne la rend ni plus intéressante ni moins exploitable par principe. Il peut aussi choisir la première dans une autre version s’il y entend quelque chose qui sert le personnage. Ce choix artistique reste distinct de l’accord pour utiliser l’enregistrement dans un lieu donné. Autoriser l’écoute au sein du club ne donne pas son accord pour un extrait de communication. Owen n’a pas à livrer une explication de son bégaiement pour dire à quel usage il est prêt à consentir.
+Un mot qui passe facilement à un essai peut demander du temps au suivant.
+
+**Exemples concrets**
+
+- Owen prononce sa première prise sans blocage marqué, puis reprend le début de « poignée » dans la seconde.
+- Une comédienne peut dire sa réplique sans accrocher à la répétition et bloquer sur un mot au moment de l’enregistrement.
+
+### Le ton et la fluence évoluent séparément
+
+Une prise peut sembler plus convaincante pour le personnage même si elle contient un blocage.
+
+**Exemples concrets**
+
+- Owen s’entend presque s’excuser dans la première prise.
+- La seconde lui donne le ton voulu alors qu’il a repris un mot.
+
+### La durée disponible change les décisions
+
+Quand il reste peu de temps, l’équipe peut choisir d’écouter, de refaire un essai ou de garder les deux options pour plus tard.
+
+**Exemples concrets**
+
+- Nassim doit compter le temps de salle et demande à Owen quelle prise conserver.
+- Un groupe peut renoncer à une nouvelle prise pour laisser le temps d’enregistrer la voix suivante.
+
+## 3 techniques pour comparer des prises quand la fluence varie
+
+### 1. Nommer l’effet recherché
+
+Donner un critère qui vaut pour les deux essais.
+
+**Exercice pratique**
+
+- Choisissez l’intention de la réplique avant d’écouter.
+- Repérez dans chaque fichier le moment où vous l’entendez.
+- Indiquez votre préférence et ce qui vous la fait choisir.
+
+La personne peut décider à partir du jeu plutôt que du seul nombre d’interruptions.
+
+### 2. Présenter les options dans le temps restant
+
+Garder la décision praticable pour toute l’équipe.
+
+**Exercice pratique**
+
+- Annoncez les minutes disponibles.
+- Présentez les choix possibles à la personne enregistrée.
+- Convenez d’un moment pour revoir la décision si vous arrêtez là.
+
+Le temps du studio ne devient pas une demande implicite de parler plus vite.
+
+### 3. Distinguer l’essai du fichier retenu
+
+Respecter la décision sur ce qui peut rester accessible.
+
+**Exercice pratique**
+
+- Étiquetez chaque fichier avec son usage prévu.
+- Confirmez avec les personnes enregistrées ce qui reste au dossier de travail.
+- Écartez les essais qui n’ont plus leur place selon l’accord du groupe.
+
+Les deux prises peuvent servir au montage sans être destinées à circuler.
 
 ## Le numéro deux au crayon
 
 Owen inscrit « prise 2 à essayer » et passe la fiche à Lucile pour qu’elle ajoute son numéro. Nassim lui demande si la première doit rester dans le dossier de travail. Owen préfère qu’ils la gardent jusqu’au montage, au cas où le rythme des images lui ferait changer d’avis. Il demande qu’ils effacent l’essai de micro où ils s’étaient mis à parler de la cantine. Nassim le retire en leur présence. Avant de rendre la salle, Lucile leur montre le message d’Alma, qui prépare la soirée du lycée : elle a entendu qu’un film avançait et demande s’ils ont un extrait pour l’annonce. Owen tapote du doigt la mention en haut de la fiche.
+
+---
+
+**Conclusion**
+
+Owen note « prise 2 à essayer » pour le ton qu’il y trouve. La première reste disponible au montage, et l’essai de micro sans rapport avec le film est retiré. La demande d’Alma ouvrira une autre décision, celle de l’usage de la voix.

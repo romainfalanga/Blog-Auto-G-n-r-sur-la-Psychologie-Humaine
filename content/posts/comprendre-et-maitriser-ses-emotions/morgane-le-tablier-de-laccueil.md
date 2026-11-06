@@ -34,14 +34,79 @@ Morgane serre la branche au lieu de la poser. Elle pense à ce que Sonia lui ava
 
 Certaines personnes avec une hyperphagie boulimique connaissent des préoccupations corporelles qui pèsent sur leur manière de se juger. La scène montre une réaction à une remarque, dans le contexte propre de Morgane. Pendant un instant, une partie de son attention part dans ce que l’autre personne a voulu dire et dans l’idée de quitter la table.
 
-## Le commentaire qui coupe le fil de la démonstration
+## Comment une remarque sur le corps interrompt-elle un geste familier ?
 
-Morgane a la branche à la main quand la visiteuse parle de son ventre. Elle oublie où elle voulait la poser et envisage de demander à Yassine de reprendre la démonstration. L’impact de la remarque est visible même si la visiteuse croyait être aimable. Quand Morgane pose enfin la branche, elle reste troublée. Ce moment décrit ce qu’elle éprouve à cette table, dans cet échange.
+### L’attention quitte le geste
 
-## Donner une limite puis choisir la suite
+Une remarque peut retenir l’attention au point d’interrompre une tâche pourtant familière.
 
-Morgane peut choisir une réponse courte à la visiteuse. Elle peut aussi demander une pause ou laisser Sonia reprendre un geste si elle le préfère. Le fait qu’elle ait posé une limite ne l’oblige pas à poursuivre la démonstration. Elle peut essayer de retrouver sa place et remarquer si elle a besoin d’un instant. Sonia peut se rendre disponible sans donner d’explication personnelle aux visiteurs. L’entourage et les collègues peuvent contribuer à un échange plus respectueux en ramenant l’attention sur ce que la personne souhaite partager. Morgane peut reprendre cette situation avec les professionnels comme un exemple du coût social de ces remarques.
+**Exemples concrets**
+
+- Morgane serre la branche au lieu de la déposer sur son support.
+- Une personne qui montre un outil peut oublier l’étape suivante en essayant de comprendre pourquoi on vient de commenter son apparence.
+
+### L’intention prêtée à l’autre n’efface pas l’effet
+
+Une parole qui se voulait aimable peut tout de même amener la personne à envisager de se retirer.
+
+**Exemples concrets**
+
+- La visiteuse avance la main vers le tablier alors que Morgane pense à demander un relais.
+- Morgane doit chercher ses mots avant de poser la branche et de décider si elle poursuit.
+
+### Reprendre le geste peut laisser de la gêne
+
+Exprimer une limite et continuer une activité peuvent demander un temps d’ajustement.
+
+**Exemples concrets**
+
+- Morgane dit qu’elle préfère qu’on ne commente pas son corps, puis propose l’essai à la visiteuse.
+- Après avoir montré où appuyer la tige, elle demande à Sonia une minute entre deux personnes.
+
+## 3 techniques pour poser une limite pendant une activité qu’on veut reprendre
+
+### 1. Formuler une limite utilisable sur place
+
+Dire quel échange vous acceptez pendant une démonstration.
+
+**Exercice pratique**
+
+- Choisissez une phrase courte qui indique votre préférence.
+- Si vous souhaitez continuer, proposez une action liée au geste que vous montriez.
+- Gardez le choix de faire une pause ou de mettre fin à l’échange.
+
+Une phrase précise permet de répondre sans avoir à justifier son corps ni son histoire.
+
+### 2. Convenir d’un relais avant l’activité
+
+Garder la possibilité d’interrompre un geste sans tout abandonner.
+
+**Exercice pratique**
+
+- Demandez à une personne disponible quel geste elle pourrait reprendre.
+- Convenez de la manière dont elle proposera son aide.
+- Décidez sur place si vous voulez une pause, un relais ou la poursuite de l’activité.
+
+L’appui reste disponible tout en laissant la décision à la personne concernée.
+
+### 3. Revenir à un détail du geste
+
+Reprendre une tâche à partir d’un point concret si l’on en a envie.
+
+**Exercice pratique**
+
+- Repérez l’objet ou le mouvement en cours avant la remarque.
+- Choisissez une indication simple que vous pouvez donner à l’autre personne.
+- Vérifiez ensuite si vous voulez continuer ou prendre un moment.
+
+Une étape familière peut rendre la reprise plus accessible même si la gêne reste.
 
 ## Laisser la branche faire son poids
 
 La visiteuse accepte d’essayer. Elle pousse d’abord sur la tige, puis desserre les doigts quand Morgane lui montre où elle peut l’appuyer. Morgane demande à Sonia de lui garder une minute entre deux visiteurs. De l’autre côté, Yassine lève son support pour montrer qu’il peut tenir sans la main. Un peu plus tard, quelqu’un propose d’envoyer une photo à la lettre du quartier. Morgane répond qu’elle veut revoir avec le groupe le cadrage et le texte avant leur envoi.
+
+---
+
+**Conclusion**
+
+La branche tient et Morgane demande une minute avant de reprendre. Elle a pu poser sa limite et revenir au geste qu’elle voulait partager. Le trouble et la remarque ont encore un effet sur la journée, alors même que la visiteuse a pu terminer son essai.

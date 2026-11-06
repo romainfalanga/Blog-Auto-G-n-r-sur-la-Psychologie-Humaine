@@ -29,22 +29,83 @@ Gaspard présente la table et lui passe le premier plant. La motte sort plus vit
 
 Sur le côté de la motte qui a gardé sa forme, Sacha voit de petites racines. Il tourne le plateau vers le radiateur, et madame Baudry se penche, exactement comme Nora l’autre soir. « Approchez un peu la fiche, si vous voulez. Là, ce qu’on voit contre la paroi, ce sont les racines. » Il prononce « paroi » avant de penser au mot de secours. Un homme prend le dessin et le rapproche de la motte. La terre n’a pas cessé de s’étaler sur le bois. Il y a assez de place pour que chacun voie.
 
-## Ce que Sacha décide au milieu de la peur
+## Agir alors que la peur est encore là
 
-Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres.
+Une personne peut choisir de participer à un échange pendant que l’anxiété sociale reste présente. L’expérience ne demande pas une disparition préalable de la peur et ne dit pas à elle seule comment se passeront les suivantes. Sacha voit sa motte s’effriter et redoute d’être jugé. Il entend aussi une question qui lui donne envie de montrer les racines.
 
-## Comment cette difficulté se manifeste
+## Comment une action choisie devient-elle possible malgré la peur ?
 
-Dans la scène, Sacha a un instant où il se demande comment son silence est perçu. Il entend aussi une question à laquelle il aimerait répondre. Sa prise de parole est courte et sert à montrer les racines. La peur et l’envie d’expliquer ont toutes deux leur place dans ce moment.
+### Un imprévu fait monter la crainte
 
-Le contexte lui laisse des possibilités : Gaspard n’interprète pas le blanc comme une demande de relais, et les visiteurs savent qu’ils peuvent consulter une fiche. Sacha peut diriger le regard vers la motte et répondre à madame Baudry. Un autre jour, le même choix pourrait lui demander plus d’effort, ou il pourrait choisir de passer la main. La forme que prend sa participation aujourd’hui lui appartient.
+L’anxiété peut surgir au milieu d’une tâche préparée et déplacer brièvement l’attention vers l’impression donnée.
 
-## Une démonstration qui s’ajuste en cours de route
+**Exemples concrets**
 
-Le guide NICE décrit un travail possible au cabinet sur l’attention portée à soi et sur ce que la personne remarque autour d’elle. À la graineterie, la question de madame Baudry a une utilité ordinaire : elle montre ce dont les visiteurs sont venus parler. Sacha pourra raconter au cabinet comment il l’a entendue malgré son inquiétude.
+- La motte s’effrite alors que les visiteurs regardent la démonstration.
+- Quelqu’un perd le passage qu’il voulait lire et imagine que le groupe le trouve mal préparé.
 
-Leur rôle peut rester simple : faire circuler le dessin, attendre une réponse ou demander de mieux voir. Gaspard a ses pots à présenter et un signal convenu pour les prendre au bon moment. Sacha peut lui tendre le plateau quand il a dit ce qu’il souhaitait. Les quinze minutes prévues laissent ensuite place aux achats, au rangement et à des conversations plus courtes avec les gens qui en ont envie.
+### Une question donne un but immédiat
+
+Répondre à une demande réelle peut avoir de l’intérêt même lorsque la peur est encore vive.
+
+**Exemples concrets**
+
+- Sacha tourne le plateau pour montrer les racines qu’un visiteur cherche à voir.
+- Une personne reprend une carte pour situer l’endroit demandé pendant qu’elle sent encore sa voix trembler.
+
+### Le relais garde la participation possible
+
+Passer une étape à un collègue peut faire partie de la décision de participer.
+
+**Exemples concrets**
+
+- Sacha donne le plateau à Gaspard après avoir calé la motte.
+- Un animateur choisit de montrer le premier geste et laisse le collègue répondre aux dernières questions.
+
+## 3 techniques pour garder une marge de décision dans une activité choisie
+
+### 1. Prévoir une contribution précise
+
+Savoir ce que vous voulez apporter avant d’arriver.
+
+**Exercice pratique**
+
+- Nommez le geste ou l’explication qui vous intéresse.
+- Fixez avec l’équipe le matériel et le temps dont vous aurez besoin.
+- Indiquez quelle partie peut être confiée à quelqu’un d’autre.
+
+Le projet reste lié à votre intention et laisse une place à l’ajustement.
+
+### 2. Repartir de la demande présente
+
+Trouver une action utile quand le plan change.
+
+**Exercice pratique**
+
+- Repérez la question posée ou le détail que le groupe cherche.
+- Montrez-le ou répondez en une phrase si vous le souhaitez.
+- Passez ensuite à l’étape suivante ou au relais prévu.
+
+Une décision concrète peut coexister avec la peur qui reste.
+
+### 3. Reprendre l’expérience à tête reposée
+
+Savoir ce qu’elle a permis et demandé.
+
+**Exercice pratique**
+
+- Décrivez le moment où le déroulé a changé.
+- Notez ce que vous avez choisi de faire et ce que cela vous a coûté.
+- Rapportez l’expérience au suivi si elle éclaire un objectif de soin.
+
+Une réussite de travail apporte des informations sans devenir un test de guérison.
 
 ## Le plateau passe à gauche
 
 Sacha cale la motte dans le pot de récupération et ajoute du terreau et lève les yeux vers madame Baudry. Elle a encore une question sur la taille du contenant, qu’elle garde pour plus tard. Il tend alors le plateau vers la gauche. Gaspard pose dessus les pots qu’il a préparés et explique d’où ils viennent. L’homme qui voulait filmer prend une fiche pour sa fille. À la fin, Nora rouvre le cahier pour vérifier les inscriptions et l’heure réelle de fin. Sacha met la terre tombée sur la table dans un pot vide. Madame Baudry attend qu’il relève la tête pour lui montrer sa boîte.
+
+---
+
+**Conclusion**
+
+La terre reste sur la table, et les visiteurs ont vu les racines. Sacha a fait la part qu’il voulait et a passé le plateau à Gaspard. Il pourra encore choisir ce qui lui convient à la prochaine occasion.

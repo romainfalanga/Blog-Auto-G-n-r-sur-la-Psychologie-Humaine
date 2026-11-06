@@ -1,12 +1,12 @@
 ---
 title: Quand la lenteur d’un geste passe pour du désintérêt
-description: Augustin travaille depuis un moment à poser du papier doré. Nora juge
-  son implication au nombre de bandes visibles.
+description: Le papier doré colle aux doigts d’Augustin. Nora voit deux bandes sur
+  le disque et ignore le temps qu’il a fallu pour les poser.
 slug: augustin-le-bord-du-soleil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Lenteur et effort de coordination
+sujet: Lenteur des gestes fins
 contexte: à l’atelier scénographie, pendant la fabrication des premiers accessoires
 tags:
 - Trouble développemental de la coordination motrice
@@ -14,8 +14,8 @@ tags:
 - TDC
 - Dyspraxie
 - Coordination motrice fine
+- Reprises du geste
 - Effort invisible
-- Sentiment de compétence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -30,18 +30,83 @@ Le papier doré colle à l’index d’Augustin dès qu’il lâche le bout qu�
 
 Samira, l’éducatrice, passe chercher les cartons secs. Augustin se tourne vers elle, puis revient à Nora. « J’ai fait le rond et essayé le bord. Ça colle mieux au doigt qu’au soleil. » Il lui montre les deux premières bandes. La jointure accroche la lumière comme il voulait. Il demande à garder le disque sur sa table et à décider du bord avant qu’ils se répartissent la suite.
 
-## Ce qui se voit quand on compte les pièces
+## Pourquoi le résultat tarde à se voir
 
-Un geste qui prend du temps peut demander beaucoup d’effort, même si le résultat est encore peu visible. Le trouble développemental de la coordination motrice, dont Augustin connaît le diagnostic depuis avant le début de l’atelier, peut rendre certaines actions plus lentes ou moins précises. Les gestes concernés ne sont pas les mêmes chez tout le monde. Tenir ensemble deux matières qui glissent et ajuster leur bord lui demande ici plusieurs reprises.
+Le trouble développemental de la coordination motrice peut rendre les gestes précis des mains plus lents ou moins réguliers. Chez certaines personnes, la difficulté touche surtout ces gestes, chez d’autres elle concerne des mouvements plus amples, ou les deux. Augustin connaît déjà son diagnostic. À sa table, maintenir le carton et aligner une bande qui colle lui demande plusieurs reprises. Les deux bandes ne montrent ni le travail nécessaire pour les poser ni le plaisir qu’il prend à fabriquer le soleil.
 
-## Comment cette difficulté se manifeste
+## Comment la lenteur des gestes fins peut-elle passer inaperçue ?
 
-Nora voit surtout le nombre d’objets posés sur la table ; Augustin, lui, sait combien de fois il a dû recommencer. Cette différence de point de vue suffit à faire passer un choix auquel il tient pour quelque chose qu’il délaisse. Son diagnostic ne dit ni quelles idées il aura ni le plaisir qu’il prend à les réaliser.
+### Les reprises disparaissent du résultat
 
-## Choisir ce qu’on veut voir depuis la salle
+Il faut parfois revenir sur quelques millimètres. Quand l’objet est terminé, les essais qui ont précédé ne sont plus visibles.
 
-Le groupe a besoin d’accessoires finis. Avant d’attribuer le travail selon la vitesse de chacun, Samira peut demander quel effet ils veulent obtenir et combien il reste de temps pour cet effet. Augustin tient au reflet sur le pourtour, pas à produire une quantité fixée de bandes. Ils peuvent regarder son échantillon depuis le fond de la salle, puis décider ensemble s’il faut en préparer d’autres ou chercher un papier plus large. Les recommandations internationales sur le TDC invitent, quand un accompagnement est indiqué, à partir des activités qui comptent pour la personne et du contexte réel. Ici, la discussion est celle d’un atelier : on ajuste le projet et l’organisation pour permettre à Augustin d’y tenir sa place.
+**Exemples concrets**
+
+- Augustin décolle la bande prise à son index, retrouve le trait au crayon et remet le papier dans l’axe. Sur le disque, on ne voit qu’une bande.
+- Pour un autre ado qui monte une maquette, plusieurs essais pour aligner deux pièces peuvent ne laisser qu’une jointure bien droite.
+
+### De petits gestes occupent une grande partie du temps
+
+Une tâche courte sur le papier peut exiger beaucoup d’ajustements successifs, surtout quand une main doit stabiliser ce que l’autre place.
+
+**Exemples concrets**
+
+- Pour faire briller le bord du soleil, Augustin doit maintenir le carton pendant qu’il ajuste le bout du papier sur le trait.
+- En préparant des invitations, une personne peut avoir écrit tous les noms et passer encore du temps à ajuster chaque étiquette dans un cadre étroit.
+
+### Le nombre de pièces devient un jugement sur l’envie
+
+Dans un travail partagé, le résultat se compare facilement. Le travail qui ne se voit pas risque alors de passer pour du désintérêt.
+
+**Exemples concrets**
+
+- Nora a empilé les enseignes de la boulangère. Devant les deux bandes d’Augustin, elle lui propose de quitter la table pour lire le texte.
+- Dans un autre atelier, une équipe peut donner le montage à quelqu’un d’autre en voyant qu’un camarade n’a posé qu’une pièce, alors qu’il est encore en train d’en ajuster les bords.
+
+## 3 techniques pour rendre l’effort du geste plus visible
+
+### 1. Montrer une reprise concrète
+
+Décrire ce qui prend du temps sans avoir à justifier toute sa façon de travailler.
+
+**Exercice pratique**
+
+- Choisissez un détail en cours, par exemple le bout de bande qui colle à l’index.
+- Montrez le trait ou la jointure que vous cherchez à aligner.
+- Dites quelle partie vous voulez continuer à faire et à qui vous pouvez le dire.
+
+Le groupe peut comprendre pourquoi la pièce avance par reprises et demander votre avis avant de répartir le travail.
+
+### 2. Juger l’effet sur un échantillon
+
+Vérifier que le résultat recherché se voit avant de s’engager à reproduire le geste tout autour du disque.
+
+**Exercice pratique**
+
+- Choisissez l’effet à observer, comme le reflet du papier doré.
+- Placez les deux premières bandes dans les conditions de vue prévues, avec l’accord de l’encadrante.
+- Demandez à une personne de regarder avec vous et convenez de ce qui mérite d’être conservé.
+
+L’échantillon peut donner un repère commun et éviter une série de gestes dont l’effet resterait invisible depuis la salle.
+
+### 3. Comparer deux façons de poser le papier
+
+Chercher un montage qui demande moins de reprises tout en gardant la main sur le bord.
+
+**Exercice pratique**
+
+- Demandez une chute plus large et une place dégagée sur la table.
+- Essayez-la sur une petite portion du disque posé à plat, si vous le souhaitez.
+- Comparez la facilité à suivre le bord et le reflet, puis indiquez la version que vous aimeriez poursuivre.
+
+Une bande plus large pourrait couvrir plusieurs jointures et laisser du temps pour d’autres détails. L’essai dira si elle vous convient.
 
 ## Deux bandes contre le mur
 
-Augustin pose le disque contre le mur et recule jusqu’à la porte. De là, il ne voit pas sa trace de pouce. Il voit les deux bandes. Nora vient se placer à côté de lui et penche la tête : elles brillent surtout quand il bouge. Il propose d’essayer le papier le plus large mercredi, avec le disque posé à plat. Nora lui réserve une chute. Avant de partir, Augustin prend aussi le texte que Maya a laissé sur une chaise. Il plie le coin de la page où le concierge parle tout seul à ses clés.
+Augustin pose le disque contre le mur et recule jusqu’à la porte. De là, il ne voit pas sa trace de pouce. Il voit les deux bandes. Nora vient se placer à côté de lui et penche la tête. Les bandes brillent surtout quand il bouge. Il propose d’essayer le papier le plus large mercredi, avec le disque posé à plat. Nora lui réserve une chute. Avant de partir, Augustin prend aussi le texte que Maya a laissé sur une chaise. Il plie le coin de la page où le concierge parle tout seul à ses clés.
+
+---
+
+**Conclusion**
+
+Les deux bandes d’Augustin valent aussi pour tout ce qu’elles lui apprennent sur le reflet. Nora les voit mieux quand elle quitte sa table pour regarder depuis la porte. Mercredi, il pourra essayer le papier plus large. D’ici là, il emporte la page du concierge, qu’il a envie de lire à voix haute.

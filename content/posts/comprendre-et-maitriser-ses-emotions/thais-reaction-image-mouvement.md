@@ -34,16 +34,79 @@ Inès arrête la lecture et lui demande si elle veut reprendre après la pause. 
 
 Une peur liée à une situation précise peut s’éveiller à son contact ou dès qu’on se la représente. Les circonstances modifient ce que la personne perçoit. Dans la photo fixe, Thaïs regarde le numéro de la borne. Le mouvement vers l’eau lui donne une impression soudaine de chute. L’exemple décrit sa réaction à cet instant. D’autres personnes peuvent réagir différemment à la même image, ou ressentir une gêne semblable pour d’autres raisons.
 
-## Le mouvement de la caméra change la réaction
+## Comment le mouvement d’une image peut-il changer ce que la hauteur évoque ?
 
-Devant la photo fixe, Thaïs montre la borne et propose même d’agrandir l’eau. Quand la caméra descend vers le bord de la passerelle, elle recule sa chaise, attrape la table et a l’impression que son corps part vers l’avant. Elle reste silencieuse alors qu’Inès lui demande si un nom se lit bien. Les deux réactions surviennent devant des images du même endroit.
+### L’image fixe dirige le regard vers un détail
 
-## Garder le pouvoir de demander une pause
+La réaction peut dépendre de ce à quoi la personne prête attention à cet instant.
 
-Dans un travail en commun, la possibilité de mettre une séquence en pause permet de continuer à discuter de sa fonction. Inès peut préciser à quoi sert la vidéo et demander à Thaïs si elle souhaite revoir une partie. Elle peut aussi préparer un aperçu stable lorsqu’une photo suffit. Thaïs n’est pas tenue de raconter ce que lui a dit sa psychologue pour faire une proposition de montage.
+**Exemples concrets**
 
-Thaïs peut décrire à sa psychologue l’instant où le mouvement a changé son expérience et ce qu’elle arrivait à faire devant la photo fixe. Cet exemple donne des détails sur les deux réactions et laisse ouverte la question de ce qu’elle éprouverait dans le lieu réel. Avec Mme Verdier, elle a commencé à discuter des options qui lui permettraient de garder des activités importantes. L’ordinateur du bureau reste un outil de présentation. Chacune garde la possibilité de dire qu’elle a besoin de connaître le contenu à venir ou de continuer la séance de travail autrement.
+- Thaïs utilise l’arrêt sur image pour entourer la borne.
+- Elle trouve le numéro plus lisible à l’écran et peut vérifier sa référence.
+
+### Un mouvement transforme la perception
+
+Une vue de même hauteur peut faire naître une autre impression lorsque le cadrage se déplace.
+
+**Exemples concrets**
+
+- La caméra se dirige vers l’eau et Thaïs éprouve une impression soudaine de chute.
+- Une personne peut lire tranquillement une image fixe et se sentir saisie quand une vidéo fait apparaître la profondeur.
+
+### Le support peut être choisi selon sa fonction
+
+Adapter la présentation répond à l’usage prévu et ne dit pas tout des réactions futures.
+
+**Exemples concrets**
+
+- Inès arrête la lecture et demande si Thaïs veut reprendre.
+- Thaïs choisit la photo fixe pour situer la borne et laisse une autre décision sur les vidéos pour plus tard.
+
+## 3 techniques pour décrire la différence entre deux présentations du même lieu
+
+### 1. Nommer le détail qui a changé
+
+Donner au suivi deux observations sur un même lieu.
+
+**Exercice pratique**
+
+- Notez ce que vous regardiez dans la première image.
+- Décrivez ce qui a changé dans la seconde et ce que vous avez ressenti.
+- Reprenez la comparaison avec le professionnel sans devoir revoir les images.
+
+Le contexte de la réaction devient plus précis sans chercher à provoquer de nouveau la peur.
+
+### 2. Choisir le support utile au public
+
+Garder une présentation qui répond à l’objectif du projet.
+
+**Exercice pratique**
+
+- Identifiez l’information à montrer.
+- Proposez un support qui permet de la lire ou de la comprendre.
+- Décidez avec l’équipe des autres images dont la présentation a vraiment besoin.
+
+La décision peut partir de ce que le document doit faire.
+
+### 3. Préparer l’annonce des vidéos
+
+Permettre de choisir comment participer à une répétition.
+
+**Exercice pratique**
+
+- Demandez à l’équipe d’annoncer les extraits avant de les lancer.
+- Précisez ce que vous voudriez pouvoir faire si un extrait vous gêne.
+- Vérifiez avec elle comment poursuivre la présentation le cas échéant.
+
+Les participants disposent d’un cadre prévisible et peuvent maintenir leurs contributions.
 
 ## La borne reste à l’écran
 
 Inès remplace le plan par la photo qui montre la borne. Thaïs choisit un fond assez clair pour faire ressortir le numéro et relit le nom du canal à voix haute. Elle demande qu’on annonce les vidéos avant de les lancer lors de la prochaine répétition. Puis elle note ce qui l’a surprise pour en parler à Mme Verdier. Elle garde une autre photo du canal pour expliquer comment ils ont vérifié le tracé.
+
+---
+
+**Conclusion**
+
+La borne reste lisible sur la photo choisie avec Inès. Thaïs garde pour Mme Verdier la surprise ressentie quand l’image s’est déplacée vers l’eau. À quelques secondes d’intervalle, deux façons de montrer le même lieu ont changé ce qu’elle percevait.

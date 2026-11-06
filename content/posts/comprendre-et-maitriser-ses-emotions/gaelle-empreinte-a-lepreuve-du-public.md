@@ -1,5 +1,5 @@
 ---
-title: La première empreinte d’un visiteur
+title: Participer à un accueil avec une faiblesse fluctuante
 description: Une personne raconte l’histoire d’un bol en choisissant un motif. Gaëlle
   veut finir de l’écouter et demande ensuite à Rachid de prendre la table.
 slug: gaelle-empreinte-a-lepreuve-du-public
@@ -35,16 +35,81 @@ Quand elle revient vers son siège, sa jambe gauche porte moins bien. Elle parvi
 
 ## Ce que la participation rend visible
 
-Gaëlle a une faiblesse fonctionnelle qui continue à gêner certains déplacements. Elle peut aussi accueillir une personne, lui poser des questions et l’aider à choisir une empreinte. Ces capacités ne se déduisent pas les unes des autres. En rééducation, Gaëlle avait choisi un objectif lié à sa présence à l’atelier. Elle peut en reparler avec Aïcha en précisant ce qu’elle a pu faire, le moment où elle a pris une pause et l’effort qui a accompagné les déplacements. L’issue de la journée donne plusieurs renseignements à la fois.
+La participation à une activité peut rester possible avec une faiblesse fonctionnelle qui varie. Elle dépend en partie des gestes demandés, du lieu et de la possibilité de prendre une pause ou de transmettre le travail. Accueillir un visiteur et aller chercher un carton font appel à des capacités différentes. Gaëlle veut entendre l’histoire du bol et remarque ensuite que sa jambe la gêne davantage. Elle peut choisir le moment où Rachid prendra la suite.
 
-## Le moment où Gaëlle sait ce qu’elle veut finir
+## Comment la participation reste-t-elle possible avec une faiblesse fluctuante ?
 
-Quand le visiteur commence à fermer sa boîte, Gaëlle a encore envie de regarder le bord du bol. En même temps, elle sait qu’elle veut s’éloigner du passage dès qu’elle aura terminé. La reprise de faiblesse modifie la durée qu’elle souhaite passer à l’accueil et le moment où elle demande le relais. Elle ressent de la déception de s’arrêter si tôt et du plaisir à entendre l’histoire du bol. Elle s’accorde le temps de regarder le détail et la possibilité de passer la suite du travail à quelqu’un.
+### Une compétence reste disponible quand un mouvement est difficile
 
-## Transmettre la conversation et pouvoir se retirer
+La gêne motrice ne résume pas ce que la personne peut apporter à l’échange.
 
-Gaëlle dit à Rachid ce que le visiteur cherche et rapproche du visiteur le tissu et le morceau de terre où il pourra l’imprimer. Elle demande à rester assise quelques minutes le temps que le passage se libère. Une fois dans le coin plus calme, elle décide qu’elle a assez travaillé pour ce matin. Rachid lui demande s’il peut écrire au visiteur plus tard avec une date d’initiation. Gaëlle lui donne le carnet où ils notent les demandes. Elle peut ensuite choisir de quitter l’atelier en sachant à qui revient la suite de cette conversation.
+**Exemples concrets**
+
+- Gaëlle aide le visiteur à choisir une empreinte liée à la serviette de son bol.
+- Une personne qui se déplace avec difficulté aide assise un lecteur à identifier une édition.
+
+### Le besoin de relais peut apparaître plus tôt que prévu
+
+L’horaire prévu peut changer selon ce qui se passe pendant la tâche.
+
+**Exemples concrets**
+
+- En revenant vers son siège, Gaëlle sent que sa jambe porte moins bien et fait signe à Rachid.
+- Une bénévole demande à un collègue de reprendre l’accueil avant l’heure parce qu’elle a besoin d’une pause.
+
+### La participation a une suite même si la personne part
+
+Le collègue peut conserver l’information et la personne peut choisir une autre manière de contribuer.
+
+**Exemples concrets**
+
+- Rachid note l’histoire du bol et Gaëlle propose plus tard de regarder le tampon de la soucoupe.
+- Une personne passe une question au collègue et propose d’y revenir sur photo après sa pause.
+
+## 3 techniques pour continuer une activité avec un relais qui peut s’avancer
+
+### 1. Prévoir ce qui peut être transmis
+
+Savoir ce que le collègue doit reprendre si une pause devient utile.
+
+**Exercice pratique**
+
+- Identifiez l’échange ou le geste en cours.
+- Dites quelle information reste à noter.
+- Passez le matériel ou le document nécessaire.
+
+Le visiteur peut être accompagné et la personne qui demande la pause peut s’arrêter.
+
+### 2. Convenir d’un signal utilisable sur place
+
+Pouvoir demander un relais avant l’horaire prévu.
+
+**Exercice pratique**
+
+- Choisissez avec le collègue un signal simple.
+- Précisez s’il doit attendre ou venir tout de suite quand vous le faites.
+- Vérifiez qu’il peut vous voir ou vous entendre pendant le créneau.
+
+L’aide peut arriver au moment où elle devient utile plutôt que seulement à l’heure inscrite.
+
+### 3. Parler de l’expérience en rééducation
+
+Décrire la participation et le coût des déplacements.
+
+**Exercice pratique**
+
+- Nommez le moment que vous avez voulu finir.
+- Indiquez où la marche a changé et quand vous avez pris le relais.
+- Demandez au professionnel ce qui pourrait être ajusté pour la prochaine fois.
+
+Le suivi tient compte du travail accompli autant que de l’effort qu’il a demandé.
 
 ## Un carnet près des tasses
 
 Rachid inscrit l’histoire du bol en deux lignes. Le visiteur indique comment le joindre et pose son empreinte de tissu près du premier carton avant de repartir. Gaëlle range son tablier au crochet bleu. Sur le chemin de la sortie, Lina lui montre une soucoupe que quelqu’un a apportée pour en demander l’âge. Gaëlle prend le temps d’en regarder le revers. Elle dit qu’elle pourrait dater le tampon après déjeuner, si Lina a envie de le photographier.
+
+---
+
+**Conclusion**
+
+Gaëlle regarde encore le bord du bol pendant que Rachid prend la suite. Le visiteur repart en ayant choisi son empreinte. Pour le prochain rendez-vous avec Aïcha, Gaëlle a un exemple de ce qu’elle a pu faire et du moment où l’aide a compté.

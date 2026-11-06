@@ -34,14 +34,81 @@ Quand Alma rallume, un élève demande pourquoi ils montrent le banc trois fois 
 
 Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne.
 
-## Comment cette difficulté se manifeste
+La répétition au début de « ruban » n’empêche pas Owen d’aller au bout de l’indice qu’il a choisi de donner. La salle peut ensuite parler de l’histoire et du son du bus. Ce que cette expérience montre concerne sa place dans cette séance, ce qu’il a transmis et l’effort qu’il pourra décrire lui-même.
 
-À l’estrade, Owen prend le temps du mot et l’introduction garde sa fonction : donner au public un détail à regarder. Sa prise enregistrée et sa voix dans la salle ne sont pas deux mesures de son progrès. Il peut choisir de continuer à parler dans une situation qui l’intéresse, avec ou sans bégaiement. Il pourrait aussi passer une question et garder la possibilité d’en prendre une autre plus tard.
+## Comment apprécier la participation quand le bégaiement reste audible ?
 
-## Parler d’abord de ce qui est à l’écran
+### La phrase peut livrer son détail
 
-La question sur le banc porte sur la forme du film. Owen peut dire ce qu’il voulait que les spectateurs découvrent à chaque passage et leur demander ce qu’ils ont vu. Ceux qui n’ont pas compris le même détail pourront répondre sans qu’il ait à défendre sa façon de le dire. Le fait que la séance ait eu lieu ne change pas les accords de diffusion : le film reste autorisé pour cette projection et les prises de travail ne servent pas d’extraits. Si l’équipe veut le montrer ailleurs, elle devra discuter de ce nouvel usage. Pour le prochain film, Owen pourra prendre une autre place, demander plus de temps ou recommencer à défendre une idée avec une feuille et un feutre.
+Une répétition ou un blocage n’empêche pas nécessairement l’auditeur d’accéder au sens une fois que la personne a fini.
+
+**Exemples concrets**
+
+- Owen prend le temps du mot « ruban » et termine l’indication sur le nœud.
+- Un élève peut répéter le début d’un nom et transmettre quand même le titre qu’il voulait recommander.
+
+### Le rôle choisi peut se prolonger après la présentation
+
+La participation se lit aussi dans les questions auxquelles la personne a envie de répondre et les tours qu’elle choisit de partager.
+
+**Exemples concrets**
+
+- Owen explique les trois significations du banc après le film.
+- Lucile prend la question suivante pendant qu’il a déjà livré le détail qui lui importait.
+
+### L’effort et l’envie restent à écouter
+
+Une séance réussie peut avoir demandé du temps ou de l’attention. La personne peut vouloir refaire une partie et changer le reste.
+
+**Exemples concrets**
+
+- Owen note une nouvelle idée de bruit sans arrêter sa place dans le prochain projet.
+- Quelqu’un peut être satisfait de son intervention et demander un format différent pour la réunion suivante.
+
+## 3 techniques pour faire un retour qui tient compte de la participation
+
+### 1. Revenir à l’effet du propos
+
+Donner un retour utilisable à partir de ce que le public a compris.
+
+**Exercice pratique**
+
+- Citez une scène ou un détail que la présentation vous a fait remarquer.
+- Posez une question sur ce choix.
+- Laissez la personne décider combien elle veut en dire.
+
+Le retour reconnaît son travail et peut nourrir la suite du projet.
+
+### 2. Reprendre l’expérience à partir de ses propres objectifs
+
+Tenir compte de l’effort qui ne s’entend pas toujours.
+
+**Exercice pratique**
+
+- Notez ce que vous vouliez dire ou faire.
+- Ajoutez une chose qui vous a aidé et une qui a coûté.
+- Si cela compte pour votre suivi, apportez ces exemples à l’orthophoniste.
+
+Le bilan peut porter sur des objectifs de vie et de communication choisis.
+
+### 3. Choisir le premier pas du prochain projet
+
+Donner une suite sans fixer à l’avance le même rôle.
+
+**Exercice pratique**
+
+- Notez une idée concrète que vous avez envie d’essayer.
+- Dites au groupe ce que vous voulez prendre en charge d’abord.
+- Laissez le reste des rôles à la discussion de mercredi.
+
+La séance ouvre une occasion de créer dont la forme reste à choisir.
 
 ## Un bruit pour mercredi
 
 Owen répond que le banc, la première fois, n’appartient à personne ; la deuxième, c’est une place qu’on cherche ; la troisième, c’est quelque chose dont quelqu’un s’occupe. Il prend le temps de la dernière phrase. L’élève lui dit que c’est surtout le bus qu’il a attendu. Owen rit : ils ont passé plus de temps avec une grille qu’avec le banc. Lucile prend la question suivante. En remettant le matériel dans la salle du club, Owen entend la porte se refermer en deux temps. Il attend qu’elle se rouvre pour écouter encore. Sur la carte qu’il rapporte chez lui, sous « le sac / le nœud », il note : « Mercredi : une porte qu’on entend avant de la voir. »
+
+---
+
+**Conclusion**
+
+Owen finit son indication sur le ruban et reçoit une question sur le banc. Cette séance montre qu’il a pu transmettre le détail auquel il tenait et partager la discussion. Il quitte le club avec le bruit d’une porte en tête et décidera de la place qu’il veut prendre mercredi.

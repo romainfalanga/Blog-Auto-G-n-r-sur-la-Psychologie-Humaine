@@ -36,16 +36,79 @@ Les recommandations sur l’hyperphagie boulimique décrivent des accompagnement
 
 Le choix se discute avec les professionnels, en tenant compte de la situation et de ce que la personne peut suivre. Le poids peut avoir sa place dans une discussion médicale distincte, selon les besoins. La perte de poids ne constitue pas en elle-même l’objectif du traitement psychologique de ce trouble.
 
-## Ce que Morgane voudrait voir compter dans le suivi
+## Comment un objectif de soin se précise-t-il au-delà de la question du poids ?
 
-Morgane redoute que son effort se résume à ce qu’affiche une balance. Elle trouve plus facile d’imaginer parler d’une taille de vêtements que du découragement qui a suivi l’épisode. Elle avait pourtant failli renoncer à la répétition de Yassine, à laquelle elle tenait. En reprenant le message avec Anna, elle arrive à décrire un effet concret de l’épisode qui lui avait été difficile à raconter.
+### La balance peut occuper l’entretien à l’avance
 
-## S’accorder sur une manière de reparler de la difficulté
+S’attendre à parler seulement de poids peut rendre difficile d’annoncer ce que l’on veut comprendre des épisodes.
 
-Morgane et Anna ont désormais une scène précise pour discuter du découragement. Elles peuvent s’interroger sur le moment où la gêne prend assez de place pour qu’elle retire une réponse qu’elle avait envie de donner. Les épisodes récurrents et la santé physique continuent à être suivis. Pouvoir parler plus tôt d’une difficulté ou retrouver un contact choisi peut aussi compter pour Morgane. Ces repères viennent de ce qu’elle souhaite et de l’évaluation clinique. Ils peuvent être ajustés si ses besoins changent. Anna peut lui présenter des possibilités en précisant ce qu’elle sait de leur déroulement et les questions qui restent à discuter.
+**Exemples concrets**
 
-Morgane peut demander quel professionnel répondra à quelle question et comment ils travailleront ensemble.
+- Dans la salle d’attente, Morgane écrit « Qu’est-ce qu’on suit ? » en pensant à ce qu’on va lui demander.
+- Elle imagine plus facilement parler d’une taille de vêtements que du découragement du lendemain.
+
+### Le retentissement donne une direction au travail
+
+Ce que l’épisode change dans la vie peut aider à définir des objectifs avec les professionnels.
+
+**Exemples concrets**
+
+- Morgane raconte à Anna qu’elle a failli annuler une répétition qu’elle voulait voir.
+- Anna note son souhait de comprendre ce qui précède les épisodes et ce qu’elle abandonne ensuite.
+
+### Le format du soin mérite lui aussi une discussion
+
+Comprendre les options et la place de chacun peut compter dans une décision de traitement.
+
+**Exemples concrets**
+
+- Morgane demande comment se déroule une thérapie qui traite ces difficultés.
+- Elle veut revoir la confidentialité du format et garder une question médicale pour le professionnel concerné.
+
+## 3 techniques pour préparer le choix d’un suivi spécialisé
+
+### 1. Nommer un effet que vous souhaitez voir changer
+
+Relier un objectif de soin à la vie que vous menez.
+
+**Exercice pratique**
+
+- Choisissez un épisode dont la suite a compté pour vous.
+- Décrivez une activité, une relation ou une décision qu’il a affectée.
+- Dites à l’équipe ce que vous voudriez pouvoir retrouver ou faire différemment.
+
+Le suivi psychologique peut partir de la détresse et du retentissement vécus.
+
+### 2. Demander une présentation des options
+
+Comprendre ce que chaque format de soin demanderait.
+
+**Exercice pratique**
+
+- Demandez quelles options correspondent à votre situation.
+- Faites préciser le déroulement, l’accompagnement et la confidentialité.
+- Convenez du moment où vous pourrez poser d’autres questions ou donner votre réponse.
+
+La décision peut prendre en compte les besoins et les contraintes de la personne.
+
+### 3. Attribuer une question à chaque rendez-vous
+
+Distinguer les objectifs du travail psychologique et ceux du suivi physique.
+
+**Exercice pratique**
+
+- Formulez une question de santé et une question sur ce qui se passe autour des épisodes.
+- Demandez qui peut répondre à chacune et comment les professionnels se coordonnent.
+- Notez le prochain rendez-vous ou le contact convenu pour chaque question.
+
+Vous pouvez aborder les deux dimensions du suivi sans les confondre.
 
 ## La page qui reste ouverte
 
 Morgane demande à recevoir une présentation des possibilités avant de donner une réponse. Elle reprend le carnet et marque la page avec le ticket de la librairie. En sortant, elle vérifie avec Sonia qu’elles se retrouvent samedi un peu avant l’ouverture pour placer les panneaux. Au travail, le cadre d’accueil est décidé. En consultation, elle sait quelle question poser ensuite au médecin et ce qu’elle veut reprendre avec Anna.
+
+---
+
+**Conclusion**
+
+Le ticket de la librairie marque une page où figurent les circonstances des crises, la répétition que Morgane a failli manquer et une question pour le médecin. La prochaine décision portera sur une forme de soin dont elle veut connaître le déroulement. La balance ne résume pas ce qu’elle souhaite voir changer.

@@ -33,18 +33,79 @@ Son père arrive pour les dernières minutes. Mme Colin demande si Roxane veut q
 
 L’accompagnement orthophonique d’un trouble des sons de la parole s’ajuste aux difficultés de l’enfant et aux situations dans lesquelles il a envie de mieux se faire comprendre. L’orthophoniste peut examiner la parole en conversation et la production de sons dans des mots, car ces situations ne demandent pas la même chose.
 
-## Comment cette difficulté se manifeste
+## Comment une difficulté du quotidien devient-elle un objectif en orthophonie ?
 
-Pour Roxane, la demande de renseignement fournit un but concret à discuter. Mme Colin reste responsable de choisir avec elle ce qu’elles travailleront et de suivre ce que cela change au fil des rendez-vous.
+### Un échange important peut s’arrêter trop tôt
 
-Leur travail a commencé bien avant la rencontre à la médiathèque. Roxane décide de garder ses indices dans la pochette pour le moment. Elle peut parler au cabinet d’une situation difficile sans devoir y répéter la présentation qu’elle prépare pour les visiteurs.
+Le retentissement inclut les questions qu’on n’ose plus poser lorsqu’on craint que l’autre ne comprenne pas. L’orthophoniste peut tenir compte de ce que l’enfant veut pouvoir faire.
 
-## Une phrase utile à Mme Sorel
+**Exemples concrets**
 
-Dans le parcours de soins, l’enseignante et l’orthophoniste peuvent échanger sur les appuis utiles à l’enfant avec l’accord de ses parents. Ici, elles n’ont pas besoin des mêmes informations. Mme Colin suit la parole de Roxane dans le cadre du soin. Mme Sorel peut agir tout de suite sur un échange en classe : décrire ce qu’elle a compris, préciser sa question et attendre la réponse. Le père de Roxane et l’orthophoniste lui demandent ce qu’elle souhaite transmettre à l’enseignante.
+- Roxane voudrait finir une demande de renseignement malgré un premier mot mal compris.
+- Un enfant peut vouloir demander un jeu à la ludothèque, alors qu’il laisse habituellement son parent parler dès le premier malentendu.
 
-Roxane a une formulation à proposer. Elle voudrait que Mme Sorel puisse lui dire « J’ai compris jusque-là » quand elle perd le fil. Ensuite, elle veut quelques secondes pour choisir une autre façon de dire la suite. Ils peuvent essayer cela en classe et en reparler si l’aide convient mal à certaines situations.
+### Le cabinet et la vie quotidienne apportent des informations différentes
+
+Produire un mot lors d’un rendez-vous et l’utiliser dans un échange imprévu ne sollicitent pas l’enfant de la même manière.
+
+**Exemples concrets**
+
+- Mme Colin peut écouter la parole de Roxane dans plusieurs situations et lui demander ce qui s’est passé lors d’une demande réelle.
+- Un mot travaillé à partir d’une image peut rester difficile à reconnaître dans une phrase donnée sans préparation.
+
+### Une aide précise peut être essayée hors du cabinet
+
+L’enfant et son entourage peuvent convenir d’un geste ou d’une phrase qui aide à continuer. Le choix du travail clinique revient au professionnel avec l’enfant.
+
+**Exemples concrets**
+
+- Roxane veut entendre « J’ai compris jusque-là » avant de reprendre sa phrase.
+- En classe, une enseignante peut demander si elle a bien entendu le lieu d’un rendez-vous, puis attendre que l’élève confirme.
+
+## 3 techniques pour relier le suivi à un échange important
+
+### 1. Apporter une situation au rendez-vous
+
+Formuler un but que l’enfant reconnaît comme le sien.
+
+**Exercice pratique**
+
+- Choisissez avec lui un échange où il aimerait garder la parole.
+- Notez l’endroit précis où il a eu envie d’arrêter.
+- Demandez à l’orthophoniste ce qui pourrait être travaillé ou adapté autour de cet échange.
+
+Une situation vécue donne un sens aux objectifs discutés au cabinet.
+
+### 2. Préparer un message utile à l’école
+
+Partager une préférence avec la personne qui peut l’appliquer.
+
+**Exercice pratique**
+
+- Écrivez en deux lignes ce que l’adulte peut dire puis faire.
+- Vérifiez avec l’enfant et son parent qui recevra le billet.
+- Remettez-le en tête à tête à l’adulte concerné.
+
+L’enseignante dispose d’un geste concret à essayer dans le cadre prévu.
+
+### 3. Rapporter l’essai en gardant sa nuance
+
+Observer l’effet de l’appui sur la possibilité de poursuivre.
+
+**Exercice pratique**
+
+- Après un échange, relevez la partie que l’enfant a pu reprendre.
+- Demandez-lui si l’aide lui a convenu et à quel moment.
+- Rapportez un exemple au rendez-vous si l’enfant est d’accord.
+
+Mme Colin peut discuter avec Roxane de l’aide à garder ou à ajuster, sans faire d’un seul essai une mesure des progrès.
 
 ## La feuille qui sort du cabinet
 
 Mme Colin écrit la demande en deux lignes sur un papier neuf. Roxane retire le trombone de son énigme pour le mettre sur le papier qu’ils viennent de lire ensemble. Son père est d’accord pour remettre celui-là à Mme Sorel, en tête à tête. Roxane lui demande de dire que c’est une préférence pour les échanges, pas une règle pour toute la classe. Puis elle replie sa devinette dans l’autre sens. À Zoé, elle veut la donner bien à plat, avec la place pour son dessin.
+
+---
+
+**Conclusion**
+
+Au cabinet, Roxane nomme ce qu’elle aimerait réussir : finir une question même si elle doit en préciser un mot. Elle choisit ce que Mme Sorel pourra essayer avec elle. Elle réserve à Zoé l’autre papier, celui de la devinette qu’elles préparent ensemble.

@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Ce qui reste de la peur après l’épisode",
-          "text": "Diane a vécu des moments où des paroles ordinaires semblaient la désigner personnellement. Maintenant, elle comprend le message qu’elle reçoit et redoute les questions qui suivraient une réponse. Le vécu de la crise et la peur des réactions d’autrui ont ici des effets distincts. Son suivi lui donne un lieu où en parler, tandis qu’elle décide de ce qu’elle veut confier à Maud.\n\nAprès un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour."
+          "text": "Après un épisode psychotique, le retour dans un lieu familier peut faire craindre les réactions de personnes qu’on a envie de revoir. Cette appréhension peut coexister avec une bonne compréhension d’un échange et ne signifie pas, à elle seule, que l’épisode reprend. Diane comprend la demande de Maud. Ce qui arrête sa réponse, c’est l’idée des questions que son retour pourrait déclencher. Son suivi lui donne aussi un endroit où parler de cette crainte."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir."
+          "heading": "Comment l’appréhension du retour se voit-elle dans les premiers contacts ?",
+          "points": [
+            {
+              "heading": "Une invitation fait apparaître deux envies",
+              "text": "Le plaisir de retrouver une activité peut coexister avec la crainte de la réaction des autres.",
+              "examples": [
+                "Diane veut revoir le bol et la carafe mais tarde à répondre au message de Maud.",
+                "Quelqu’un a envie de reprendre une répétition et laisse l’invitation de l’ensemble sans réponse toute la journée."
+              ]
+            },
+            {
+              "heading": "On imagine devoir rendre des comptes",
+              "text": "Le premier contact peut sembler exiger une explication plus longue que la question posée.",
+              "examples": [
+                "Diane écrit des excuses générales avant de dire ce qu’elle souhaite faire.",
+                "Une personne prépare le récit complet de son absence avant de demander si son casier est toujours libre."
+              ]
+            },
+            {
+              "heading": "La présence d’un proche peut être dosée",
+              "text": "Vouloir quelqu’un à côté de soi n’oblige pas à lui montrer ce qu’on écrit.",
+              "examples": [
+                "Diane demande à Rémi de rester et lui dit de ne pas lire le message.",
+                "Avant un appel à une association, quelqu’un propose à une amie d’attendre avec lui dans la cuisine sans écouter la conversation."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répondre à la question que Maud a posée",
-          "text": "Diane pose sa tasse sur le dessous en liège pour libérer ses deux mains. Elle aimerait demander à Maud si le bol a gardé son bord légèrement incliné. C’était voulu, du moins quand elle l’a laissé sécher. Elle veut aussi que la carafe reste près du bol pour voir les deux ensemble. Elle peut donc donner une réponse utile : demander que les pièces restent sur la planche et convenir plus tard d’un passage. Elle décide de demander un moment calme à l’atelier. Si Maud a déjà besoin d’une date ferme, elle pourra le lui dire. Pour ce soir, répondre à une seule question lui paraît possible."
+          "heading": "3 techniques pour renouer un premier contact à son rythme",
+          "points": [
+            {
+              "heading": "Répondre à la demande présente",
+              "objective": "Se donner une première réponse que l’on peut envoyer.",
+              "exercise": [
+                "Relisez la question reçue.",
+                "Dites le geste que vous aimeriez faire, par exemple revoir les pièces.",
+                "Laissez les questions auxquelles vous n’êtes pas prêt à répondre pour un autre moment."
+              ],
+              "benefit": "Une réponse courte peut rouvrir le contact sans engager un récit de santé."
+            },
+            {
+              "heading": "Choisir le cadre de la première visite",
+              "objective": "Éviter de décider tout le retour d’un seul coup.",
+              "exercise": [
+                "Choisissez une durée que vous voulez essayer.",
+                "Demandez si le lieu peut vous accueillir avant l’arrivée du groupe.",
+                "Précisez que vous confirmerez la date après avoir regardé vos disponibilités."
+              ],
+              "benefit": "Le premier passage peut être décidé à part de la reprise régulière."
+            },
+            {
+              "heading": "Dire ce que l’on attend d’une présence",
+              "objective": "Recevoir un soutien qui laisse l’échange privé.",
+              "exercise": [
+                "Identifiez si vous voulez de l’aide pour écrire ou simplement de la compagnie.",
+                "Dites au proche ce que vous acceptez qu’il lise ou entende.",
+                "Convenez d’un signe ou d’un moment où il pourra repartir."
+              ],
+              "benefit": "L’appui répond au besoin du moment et laisse chacun libre de ses choix."
+            }
+          ]
         }
       ],
       "ending_title": "Deux pièces sur la planche du haut",
@@ -52,7 +108,8 @@
         "next": "Maud lui proposera un moment avant un cours ; Diane garde son rendez-vous de suivi deux jours après sa sortie."
       },
       "clinical_focus": "Appréhension du retour",
-      "clinical_intro": "Avant l’hôpital, Diane était convaincue que des paroles entendues près d’elle la concernaient. Cette impression s’est apaisée. La peur de ce que Maud sait de son absence reste vive et rend une réponse ordinaire difficile. L’épisode montre comment les conséquences émotionnelles d’une crise psychotique peuvent continuer à peser quand les perceptions et les interprétations ont déjà changé."
+      "clinical_intro": "Avant l’hôpital, Diane était convaincue que des paroles entendues près d’elle la concernaient. Cette impression s’est apaisée. La peur de ce que Maud sait de son absence reste vive et rend une réponse ordinaire difficile. L’épisode montre comment les conséquences émotionnelles d’une crise psychotique peuvent continuer à peser quand les perceptions et les interprétations ont déjà changé.",
+      "conclusion": "Le message de Diane donne une suite aux deux pièces sans raconter l’hospitalisation. Maud pourra les garder et Diane choisira quand les revoir. Rémi reste avec elle pendant l’envoi, puis ils retrouvent une chose aussi simple que leurs biscuits."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comment l’équipe a évalué le trouble psychotique aigu et transitoire",
-          "text": "Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre explique que l’examen médical, les échanges sur les médicaments et les substances et les entretiens avec l’équipe ont aussi servi à chercher d’autres explications. Dans la CIM-11, le terme « transitoire » renvoie à la durée limitée de l’épisode évalué. La durée du suivi et les questions à reprendre se discutent avec Diane au fil des rendez-vous."
+          "heading": "L’évaluation après un premier épisode psychotique",
+          "text": "Après un premier épisode psychotique, le diagnostic repose sur l’ensemble de ce que l’équipe a évalué et sur l’évolution observée. La CIM-11 emploie « aigu » pour un début rapide et « transitoire » pour la durée limitée de l’épisode étudié. L’équipe considère notamment d’autres causes médicales et les effets possibles de substances ou de traitements. La docteure Lenoir explique cette conclusion après l’hospitalisation de Diane. Le nom de l’épisode ne donne pas à lui seul la durée du suivi."
         },
         {
           "role": "manifestations",
-          "heading": "Des changements rapides dont Diane se souvient",
-          "text": "Dans les premiers jours, Diane était par moments certaine que les conversations autour d’elle parlaient d’elle. En quelques jours, ce qui dominait a changé. Elle avait surtout du mal à mettre ses propres phrases en ordre. Ces difficultés se sont apaisées pendant le séjour. Depuis sa sortie, elle a pu écrire à Maud et relire le message en suivant le sens de ce qu’elle avait écrit. Quand la psychiatre lui demande comment se sont passées les deux dernières soirées, Diane remarque que la certitude qui lui faisait peur n’est pas revenue."
+          "heading": "Comment l’évaluation d’un premier épisode rassemble-t-elle des informations différentes ?",
+          "points": [
+            {
+              "heading": "La chronologie situe ce qui s’est passé",
+              "text": "L’équipe demande quand les difficultés ont commencé et comment elles ont changé.",
+              "examples": [
+                "La psychiatre reprend avec Diane les premiers jours et les jours qui ont précédé sa sortie.",
+                "Une personne raconte le moment où une expérience inquiétante s’est imposée et les changements survenus ensuite."
+              ]
+            },
+            {
+              "heading": "Plusieurs pistes sont examinées",
+              "text": "Un entretien, un examen physique et l’histoire des traitements apportent des informations complémentaires.",
+              "examples": [
+                "La docteure Lenoir explique le rôle des entretiens et de l’examen médical à l’hôpital.",
+                "Une équipe demande quels produits ou médicaments ont été pris et replace cette réponse dans l’ensemble du bilan."
+              ]
+            },
+            {
+              "heading": "Une question reste ouverte après l’explication",
+              "text": "Un diagnostic peut nommer un épisode sans fixer toutes les décisions futures.",
+              "examples": [
+                "Diane demande si « transitoire » dit combien de temps elle verra la psychiatre.",
+                "Quelqu’un comprend ce qui a été évalué à l’hôpital et demande ce que l’équipe voudra reprendre au prochain rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se mettre d’accord sur qui appeler",
-          "text": "Diane veut savoir qui joindre si elle a de nouveau une expérience qui la trouble, même si elle peine à l’expliquer. La psychiatre lui indique le numéro de l’équipe et note avec elle la marche à suivre si la situation ne peut pas attendre. Elles fixent un nouveau rendez-vous pour parler aussi du sommeil et de la reprise du travail. La docteure Lenoir propose de discuter de la place de Rémi dans le suivi. Diane veut lui donner le numéro utile et lui dire qu’elle peut appeler elle-même. Elle décide de choisir plus tard si elle veut lui transmettre le nom du trouble. Elles inscrivent cette préférence sur la feuille de suivi."
+          "heading": "3 techniques pour comprendre un diagnostic expliqué en consultation",
+          "points": [
+            {
+              "heading": "Demander ce que le nom décrit",
+              "objective": "Distinguer l’épisode évalué des décisions de suivi.",
+              "exercise": [
+                "Notez le mot qui vous pose question.",
+                "Demandez à quelle partie de votre histoire il correspond.",
+                "Demandez ce que l’équipe ne peut pas encore prévoir."
+              ],
+              "benefit": "Une explication concrète peut donner des repères sans promettre une évolution."
+            },
+            {
+              "heading": "Apporter une question à la fois",
+              "objective": "Garder une place aux préoccupations qui dépassent le diagnostic.",
+              "exercise": [
+                "Écrivez la question avec vos mots.",
+                "Dites si elle porte sur la santé, le travail ou la vie à la maison.",
+                "Convenez de celles qui pourront être reprises une autre fois."
+              ],
+              "benefit": "Le rendez-vous peut avancer même quand une seule réponse ne suffit pas."
+            },
+            {
+              "heading": "Repartir avec les coordonnées utiles",
+              "objective": "Savoir à qui s’adresser entre deux rendez-vous.",
+              "exercise": [
+                "Vérifiez la date du prochain échange.",
+                "Demandez quel numéro utiliser si quelque chose vous préoccupe d’ici là.",
+                "Décidez si vous voulez le transmettre à un proche et pour quelle situation."
+              ],
+              "benefit": "La personne dispose d’un contact sans avoir à divulguer tout le contenu du rendez-vous."
+            }
+          ]
         }
       ],
       "ending_title": "Le ticket dans la pochette",
@@ -97,7 +210,8 @@
         "next": "Au canal, Diane veut donner ce numéro à Rémi puis revenir sur les mots qu’elle se souvient de lui avoir dits."
       },
       "clinical_focus": "Évaluation du premier épisode",
-      "clinical_intro": "Diane redoute qu’un diagnostic dise déjà ce que sera sa vie. La psychiatre lui explique comment l’équipe a évalué l’apparition rapide de la psychose, les variations des manifestations et leur apaisement. Dans la CIM-11, le mot transitoire décrit la durée limitée de l’épisode évalué. Le suivi reste un espace pour examiner la suite et réévaluer le tableau si nécessaire."
+      "clinical_intro": "Diane redoute qu’un diagnostic dise déjà ce que sera sa vie. La psychiatre lui explique comment l’équipe a évalué l’apparition rapide de la psychose, les variations des manifestations et leur apaisement. Dans la CIM-11, le mot transitoire décrit la durée limitée de l’épisode évalué. Le suivi reste un espace pour examiner la suite et réévaluer le tableau si nécessaire.",
+      "conclusion": "Diane range ensemble le rendez-vous, le numéro et sa question. La docteure Lenoir a nommé l’épisode que l’équipe a évalué. Les prochaines décisions se discuteront avec Diane, qui peut choisir de transmettre un repère à Rémi sans lui confier tout le bilan."
     },
     {
       "number": 3,
@@ -115,17 +229,73 @@
         {
           "role": "explanation",
           "heading": "S’excuser de la phrase dont on se souvient",
-          "text": "Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal. Diane se souvient de ses propres mots. Rémi se souvient aussi des décisions qu’il a dû prendre."
+          "text": "Après un épisode psychotique, la honte peut s’attacher à des paroles dont on se souvient sans que les deux personnes gardent la même scène en mémoire. Elle peut conduire à éviter la conversation ou à vouloir tout réparer d’un seul coup. Diane se souvient d’une phrase adressée à Rémi. Lui se souvient aussi de la peur et du moment où il a dû appeler le Samu. Ils peuvent parler d’un tort sans reprendre toute la situation d’urgence."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle peut reconnaître l’effet de la phrase qu’elle regrette et entendre ce qu’il lui répond. Elle lui a demandé son accord pour en parler. Il peut dire jusqu’où il souhaite aller aujourd’hui. Le diagnostic expliqué au rendez-vous donne un cadre pour comprendre une période de détresse. Il ne règle pas à lui seul la conversation que Diane et Rémi sont en train d’avoir."
+          "heading": "Comment la honte après une crise pèse-t-elle sur une conversation ?",
+          "points": [
+            {
+              "heading": "Une phrase occupe le souvenir",
+              "text": "Une parole regrettée peut revenir plus facilement que ce qui l’entourait.",
+              "examples": [
+                "Diane se rappelle ce qu’elle a dit à Rémi mais pas sa réponse.",
+                "Après une hospitalisation, une personne revient sur une accusation adressée à une amie et se souvient mal de la fin de l’échange."
+              ]
+            },
+            {
+              "heading": "On prépare une excuse qui porte trop loin",
+              "text": "La gêne peut pousser à vouloir prouver qu’on est redevenu digne de confiance plutôt qu’à écouter ce qui a blessé.",
+              "examples": [
+                "Diane renonce à dire qu’elle n’est plus la même et demande ce que Rémi aimerait qu’elle sache.",
+                "Quelqu’un commence une longue justification et s’arrête pour entendre ce que son frère a vécu."
+              ]
+            },
+            {
+              "heading": "Les deux personnes peuvent demander une limite",
+              "text": "Un proche peut accepter une excuse et ne pas vouloir revisiter toute la crise.",
+              "examples": [
+                "Rémi peut dire que la phrase lui a fait mal et refuser d’y consacrer l’après-midi.",
+                "Une amie accepte d’en parler quelques minutes et préfère reprendre l’échange un autre jour."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "L’urgence de ce soir-là et l’aide possible aujourd’hui",
-          "text": "Rémi n’avait pas besoin de déterminer la cause de cette peur pour demander une aide médicale urgente. Il a nommé la détresse de Diane et décrit la difficulté qu’elle avait à rester en sécurité. Face à une personne très effrayée, parler calmement et reconnaître ce qu’elle ressent permet de l’écouter sans confirmer l’explication qui lui paraît certaine. En France, le 15 joint le Samu et le 112 est aussi utilisable en cas d’urgence. Au canal, la discussion porte sur ce que Rémi peut faire aujourd’hui. Il accepte de garder le numéro de suivi que Diane lui donne. Ils conviennent qu’elle peut joindre l’équipe elle-même et qu’il peut l’aider s’il est disponible."
+          "heading": "3 techniques pour revenir sur une parole blessante après une crise",
+          "points": [
+            {
+              "heading": "Demander l’accord avant de commencer",
+              "objective": "Choisir un moment où chacun peut parler et s’arrêter.",
+              "exercise": [
+                "Indiquez brièvement le sujet.",
+                "Demandez si la personne est disponible pour l’entendre.",
+                "Acceptez de fixer un autre moment ou de remettre la discussion à plus tard."
+              ],
+              "benefit": "La conversation commence avec une limite claire pour les deux personnes."
+            },
+            {
+              "heading": "S’excuser pour le geste ou la phrase",
+              "objective": "Reconnaître une blessure à partir d’un souvenir précis.",
+              "exercise": [
+                "Nommez la parole ou le geste dont vous vous souvenez.",
+                "Dites ce que vous en regrettez.",
+                "Écoutez la réponse sans demander au proche de vous pardonner tout de suite."
+              ],
+              "benefit": "L’excuse peut reconnaître l’effet de la phrase sans faire porter à l’autre le soin de vous rassurer."
+            },
+            {
+              "heading": "Prévoir à part le contact de soins",
+              "objective": "Laisser les questions de sécurité à ceux qui peuvent y répondre.",
+              "exercise": [
+                "Reprenez avec l’équipe le moyen de la joindre en cas de changement.",
+                "Demandez au proche ce qu’il accepte de faire et à quel moment.",
+                "En cas de danger immédiat ou d’urgence médicale en France, appelez le 15 ou le 112 et suivez les consignes."
+              ],
+              "benefit": "Le proche garde son rôle et la réponse à l’urgence appartient aux professionnels."
+            }
+          ]
         }
       ],
       "ending_title": "Les deux sachets restés fermés",
@@ -144,7 +314,8 @@
         "next": "La marche au marché reste un rendez-vous entre cousins. Diane doit encore choisir comment revenir à l’atelier sans raconter à tous ce qui s’est passé."
       },
       "clinical_focus": "Honte après une crise",
-      "clinical_intro": "Diane se souvient d’une phrase blessante et Rémi se rappelle surtout la peur qu’ils ont éprouvée. Après un trouble psychotique aigu et transitoire, le regard que chacun porte sur la crise peut différer. Diane peut reconnaître ce qui a fait mal. Rémi peut raconter ce qu’il a observé, dire quand il a eu besoin des secours et choisir où s’arrête leur conversation."
+      "clinical_intro": "Diane se souvient d’une phrase blessante et Rémi se rappelle surtout la peur qu’ils ont éprouvée. Après un trouble psychotique aigu et transitoire, le regard que chacun porte sur la crise peut différer. Diane peut reconnaître ce qui a fait mal. Rémi peut raconter ce qu’il a observé, dire quand il a eu besoin des secours et choisir où s’arrête leur conversation.",
+      "conclusion": "Diane a dit ce qu’elle regrettait et Rémi a pu nommer ce qui lui avait fait peur. Leur conversation a une limite qu’ils peuvent tous deux entendre. La prochaine sortie au marché garde sa place entre cousins, à côté du numéro qu’il a accepté de prendre."
     },
     {
       "number": 4,
@@ -162,17 +333,73 @@
         {
           "role": "explanation",
           "heading": "Une place à table sans récit à fournir",
-          "text": "On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour. Diane connaît Anaïs et apprécie de travailler avec elle. Entendre la question à l’improviste lui fait quand même imaginer toutes celles qui pourraient suivre."
+          "text": "La honte anticipée naît de l’idée que d’autres pourraient voir sous un jour défavorable quelque chose qu’on ne souhaite pas exposer. Après un épisode psychotique et une absence, elle peut compliquer le retour même avec des personnes familières. Diane avait préparé un passage auprès de Maud. L’arrivée d’Anaïs lui fait imaginer qu’elle devra raconter davantage avant de pouvoir reprendre son travail sur les pièces."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La réponse qu’elle a trouvée suffit à revenir à une conversation dont elle a envie. Elle peut en choisir une autre un autre jour, si elle le souhaite. Avec son équipe, elle a déjà pu réfléchir à ce qu’elle voulait dire à Rémi. À l’atelier, le choix porte aussi sur le moment : avec qui elle veut parler et à quel endroit."
+          "heading": "Comment la honte anticipée change-t-elle la façon de revenir dans un groupe ?",
+          "points": [
+            {
+              "heading": "On prévoit les questions avant la visite",
+              "text": "La peur d’être exposé peut prendre du temps avant même de franchir la porte.",
+              "examples": [
+                "Diane hésite derrière la vitre malgré l’accord pris avec Maud.",
+                "Une personne qui revient à un cours pense à toutes les questions possibles avant de sortir de chez elle."
+              ]
+            },
+            {
+              "heading": "Une question simple paraît en annoncer d’autres",
+              "text": "La gêne peut donner à une demande ordinaire le poids d’une conversation entière.",
+              "examples": [
+                "Diane baisse les yeux quand Anaïs lui demande où elle était passée.",
+                "À l’accueil d’une association, quelqu’un entend « Tu reviens aujourd’hui ? » et se prépare déjà à défendre le motif de son absence."
+              ]
+            },
+            {
+              "heading": "On peut vouloir l’activité sans vouloir raconter",
+              "text": "Le besoin d’intimité ne dit pas que la personne a perdu tout intérêt pour le groupe.",
+              "examples": [
+                "Diane préfère parler des pièces et demande à garder le grand pinceau.",
+                "Une personne demande la partition du prochain morceau tout en disant qu’elle préfère ne pas parler de son arrêt."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Inscrire les deux pièces et laisser les permanences",
-          "text": "Maud sépare la fiche des pièces du tableau des permanences pour la préparation de l’exposition. Diane remarque qu’une case est vide le vendredi. Elle a l’habitude de se proposer quand elle voit un blanc dans un tableau. Ce soir, elle voudrait avoir assez de temps pour essayer deux couleurs, et c’est déjà un engagement qu’elle a envie de tenir. Elle demande à Maud si les pièces peuvent être inscrites avant la cuisson de l’émail. Oui, dit Maud, tant qu’elles savent qu’elles confirmeront le choix avant l’impression des cartels. Diane peut inscrire les deux formes et attendre le résultat pour leur donner un nom."
+          "heading": "3 techniques pour retrouver un groupe en gardant ses limites",
+          "points": [
+            {
+              "heading": "Préparer une réponse courte",
+              "objective": "Garder la possibilité de décliner les questions personnelles.",
+              "exercise": [
+                "Choisissez ce que vous voulez dire de l’absence.",
+                "Préparez une phrase pour indiquer ce qui reste privé.",
+                "Ajoutez, si vous le souhaitez, le sujet dont vous préférez parler."
+              ],
+              "benefit": "La personne a des mots disponibles si la question arrive plus tôt que prévu."
+            },
+            {
+              "heading": "Fixer le but d’un premier passage",
+              "objective": "Donner à la visite un objectif qui ne dépend pas de la conversation.",
+              "exercise": [
+                "Choisissez le geste utile pour aujourd’hui.",
+                "Convenez d’un horaire avec la personne qui vous accueille.",
+                "Décidez sur place si vous voulez rester ou reporter le reste."
+              ],
+              "benefit": "Le retour avance même si la présence dans le groupe attend encore."
+            },
+            {
+              "heading": "Parler de ce que la gêne empêche",
+              "objective": "Demander un appui si l’appréhension écarte durablement des activités qui comptent.",
+              "exercise": [
+                "Repérez une situation que vous remettez.",
+                "Dites ce que vous craignez de devoir expliquer.",
+                "Choisissez avec un professionnel ou une personne de confiance un premier contact qui vous convient."
+              ],
+              "benefit": "Le soutien peut porter sur une difficulté précise sans exiger que le groupe connaisse son origine."
+            }
+          ]
         }
       ],
       "ending_title": "Deux lignes à l’encre bleue",
@@ -189,7 +416,8 @@
         "next": "Le grand pinceau attend avec le bol et la carafe ; Diane essaiera les couleurs avant de confirmer les cartels. Elle n’a pas pris de permanence."
       },
       "clinical_focus": "Honte anticipée",
-      "clinical_intro": "À l’atelier, Anaïs demande où Diane était passée. Diane baisse les yeux et s’attend à devoir expliquer le séjour à l’hôpital. Après un épisode psychotique aigu, cette crainte peut rendre le retour à une activité plus coûteux. En disant ce qu’elle souhaite aborder aujourd’hui, Diane retrouve une conversation qu’elle a choisie avec une personne dont elle apprécie la présence."
+      "clinical_intro": "À l’atelier, Anaïs demande où Diane était passée. Diane baisse les yeux et s’attend à devoir expliquer le séjour à l’hôpital. Après un épisode psychotique aigu, cette crainte peut rendre le retour à une activité plus coûteux. En disant ce qu’elle souhaite aborder aujourd’hui, Diane retrouve une conversation qu’elle a choisie avec une personne dont elle apprécie la présence.",
+      "conclusion": "Diane retrouve son pinceau et revoit ses pièces. Elle n’a pas à rester au cours pour que ce passage ait compté. Anaïs voulait aussi une réponse sur le matériel et Diane a pu la lui donner sans expliquer son absence à toute la table."
     },
     {
       "number": 5,
@@ -207,17 +435,73 @@
         {
           "role": "explanation",
           "heading": "Retrouver une compétence à la fois",
-          "text": "Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement. Le suivi de Diane prend en compte la place que son travail occupe pour elle, ainsi que les difficultés qu’elle peut encore rencontrer en revenant. Mireille et elle ont fixé une première tâche et un horaire."
+          "text": "Après un arrêt lié à un épisode psychotique, la pression de prouver qu’on peut tout reprendre peut pousser à dépasser ce qui a été prévu. Cette pression n’indique pas à elle seule un changement clinique. Elle peut compliquer la reprise en faisant de chaque tâche une épreuve. Diane veut revoir une lectrice qu’elle apprécie et redoute de paraître moins capable si Malik s’en occupe. Le créneau en réserve lui permet de retrouver une tâche qu’elle connaît."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la réserve, Diane se souvient de la cote et de l’emplacement du rayon. À l’accueil, il lui faudrait aussi suivre une conversation, répondre à une demande inattendue et peut-être enchaîner avec les personnes suivantes. Elle veut garder le créneau prévu avec Malik pour retrouver cela."
+          "heading": "Comment la pression de faire ses preuves agit-elle à la reprise du travail ?",
+          "points": [
+            {
+              "heading": "Une occasion prend valeur de test",
+              "text": "Une tâche ordinaire peut sembler devoir prouver qu’on tient encore son poste.",
+              "examples": [
+                "Diane se sent tenue de répondre elle-même à l’habituée dès qu’elle reconnaît sa demande.",
+                "Une personne reprend une matinée de travail et se sent obligée de prendre aussi le premier rendez-vous imprévu."
+              ]
+            },
+            {
+              "heading": "Un relais ressemble à un échec",
+              "text": "Demander un appui peut paraître incompatible avec l’image qu’on voudrait donner.",
+              "examples": [
+                "Diane a la main sur la poignée alors que Mireille propose de passer la cote à Malik.",
+                "Une collègue hésite à confier un appel qui n’était pas prévu dans son créneau de reprise."
+              ]
+            },
+            {
+              "heading": "On oublie la tâche qu’on s’était donnée",
+              "text": "Vouloir en faire davantage peut détourner l’attention de ce qu’on était revenu essayer.",
+              "examples": [
+                "Diane retrouve le livre au ruban rouge après avoir pensé à rejoindre l’accueil.",
+                "Quelqu’un ouvre un deuxième dossier pour rassurer son équipe alors que le premier n’est pas terminé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un renseignement depuis la réserve",
-          "text": "Diane peut aider l’habituée avec la précision dont Malik a besoin. Le livre sera trouvé même si elle reste du côté de la réserve. Avec Mireille, elle peut ensuite reparler du créneau d’accueil : qui prend les demandes longues, et comment se dire qu’il est temps de changer de place. Elle a envie de revoir les lecteurs. Elle remarque aussi qu’elle perd parfois le fil quand plusieurs personnes parlent en même temps. En parler dans le suivi permettra de remettre la difficulté dans son contexte. Avec Mireille, elle peut décider d’un signal pratique pour l’accueil et choisir les détails qu’elle veut garder pour la consultation."
+          "heading": "3 techniques pour reprendre une tâche sans devoir tout prouver",
+          "points": [
+            {
+              "heading": "Se donner un résultat mesurable",
+              "objective": "Évaluer une reprise à partir de l’accord prévu.",
+              "exercise": [
+                "Choisissez une tâche et un horaire avec la personne responsable.",
+                "Notez ce que vous souhaitez avoir fait avant de partir.",
+                "Indiquez ce qui reste en cours au lieu de prolonger automatiquement le créneau."
+              ],
+              "benefit": "Un résultat défini permet de voir ce qui fonctionne dans les conditions réelles."
+            },
+            {
+              "heading": "Contribuer par une information ciblée",
+              "objective": "Mettre à profit ce que l’on sait sans reprendre tout le poste.",
+              "exercise": [
+                "Repérez l’information qui fera avancer le collègue.",
+                "Donnez-la brièvement, par exemple la cote et le rayon.",
+                "Laissez-le poursuivre l’échange pendant que vous revenez à votre tâche."
+              ],
+              "benefit": "La compétence reste utile alors que le relais tient."
+            },
+            {
+              "heading": "Préparer un relais pour la prochaine fois",
+              "objective": "Anticiper une difficulté à enchaîner les sollicitations.",
+              "exercise": [
+                "Repérez le moment où vous auriez aimé pouvoir demander de l’aide.",
+                "Convenez du signal et de la personne disponible.",
+                "Discutez du retentissement avec l’équipe de soins si cette difficulté revient."
+              ],
+              "benefit": "L’ajustement de travail et le suivi peuvent chacun répondre à leur part du problème."
+            }
+          ]
         }
       ],
       "ending_title": "Le bac que Mireille reprendra",
@@ -234,7 +518,8 @@
         "next": "Malik doit pouvoir reprendre la file si Diane demande à sortir quelques minutes. Diane parlera en suivi de la difficulté à tenir le fil en cas de sollicitations multiples."
       },
       "clinical_focus": "Pression de faire ses preuves",
-      "clinical_intro": "Diane retrouve sans hésiter la cote d’un livre et veut aussitôt retourner à l’accueil pour montrer qu’elle peut tout reprendre. Après un trouble psychotique aigu et transitoire, des compétences familières peuvent revenir dans des conditions différentes. Le récit compare le travail en réserve et l’effort demandé par des sollicitations simultanées, puis montre pourquoi une reprise graduée lui laisse le temps d’observer ces écarts."
+      "clinical_intro": "Diane retrouve sans hésiter la cote d’un livre et veut aussitôt retourner à l’accueil pour montrer qu’elle peut tout reprendre. Après un trouble psychotique aigu et transitoire, des compétences familières peuvent revenir dans des conditions différentes. Le récit compare le travail en réserve et l’effort demandé par des sollicitations simultanées, puis montre pourquoi une reprise graduée lui laisse le temps d’observer ces écarts.",
+      "conclusion": "Diane fait avancer la recherche de la lectrice sans quitter la réserve. Elle finit ce qu’elle peut dans l’horaire prévu et signale les livres qui restent. La prochaine reprise peut s’appuyer sur ce résultat et sur un relais qu’elle a contribué à définir."
     },
     {
       "number": 6,
@@ -252,17 +537,73 @@
         {
           "role": "explanation",
           "heading": "Quand un résultat décevant semble dire ce qu’on vaut",
-          "text": "Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire."
+          "text": "Un résultat qui déçoit peut être pris pour un jugement sur l’ensemble de ses capacités. Cette généralisation peut peser quand la confiance est encore fragile après un épisode psychotique, sans constituer en elle-même un signe de rechute. Diane voit un bord trop haut et pense à renoncer au bol. Le bleu lui plaît toujours et la pièce peut être regardée de plusieurs endroits. L’essai permet de juger ce résultat précis."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Diane voit une forme qu’elle aurait voulu autrement et pense aussitôt à sa place dans l’exposition. Elle a le droit de trouver le bol raté à certains endroits. Elle peut aussi se donner le temps de regarder comment il se présente à côté de la carafe. Dans le suivi, elle parle de ce qu’elle retrouve et de ce qui lui coûte encore. Ici, elle veut examiner la pièce avec les mêmes yeux qu’elle vient de poser sur la tasse d’Anaïs."
+          "heading": "Comment une déception devient-elle un verdict sur ses capacités ?",
+          "points": [
+            {
+              "heading": "Un détail prend toute la place",
+              "text": "Ce qui s’écarte du projet peut masquer ce qui plaît encore dans le résultat.",
+              "examples": [
+                "Diane voit d’abord la pente et a du mal à regarder le bleu.",
+                "Une personne qui vient de reprendre le dessin ne voit plus que la ligne qu’elle a déplacée."
+              ]
+            },
+            {
+              "heading": "On compare avec une compétence entière",
+              "text": "La difficulté d’un seul essai peut sembler prouver qu’on ne saura plus faire.",
+              "examples": [
+                "Le bol décevant fait hésiter Diane sur la place qu’elle voulait reprendre à l’exposition.",
+                "Quelqu’un manque une entrée pendant une répétition et songe à abandonner le concert."
+              ]
+            },
+            {
+              "heading": "On sait mieux regarder chez les autres",
+              "text": "Les nuances restent parfois plus accessibles quand l’objet n’engage pas directement sa propre confiance.",
+              "examples": [
+                "Diane prend le temps de voir un trait clair sous la lèvre d’une tasse d’Anaïs.",
+                "Une personne peut proposer deux cadrages pour la photo d’une amie alors qu’elle a déjà rejeté la sienne."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Regarder les pièces à la hauteur des visiteurs",
-          "text": "Diane demande à Maud de vérifier que le pied du bol repose bien à plat sur le support d’exposition. Maud regarde le dessous et confirme qu’il est stable. Elles essayent deux hauteurs, parce qu’on ne voit pas le bleu de la même manière au-dessus ou au-dessous du rebord. De plus bas, Diane voit la pente ; d’un peu plus haut, elle voit le pinceau qui a laissé une bande plus sombre au fond. Elle voudrait qu’on puisse voir les deux. Maud lui rappelle que le choix du cartel arrive ensuite. Aujourd’hui, la décision est de garder ou de libérer la place qu’elle a réservée."
+          "heading": "3 techniques pour examiner une déception avant de décider",
+          "points": [
+            {
+              "heading": "Nommer l’écart précis",
+              "objective": "Décrire ce qui déçoit sans en tirer une conclusion générale.",
+              "exercise": [
+                "Dites ce que vous aviez prévu.",
+                "Regardez où le résultat diffère.",
+                "Nommez aussi un détail qui correspond à votre goût."
+              ],
+              "benefit": "La décision peut porter sur la pièce entière et ses usages."
+            },
+            {
+              "heading": "Essayer une présentation différente",
+              "objective": "Tester une condition concrète avant de retirer un objet.",
+              "exercise": [
+                "Choisissez une place ou une hauteur à essayer.",
+                "Regardez ce qui change en vous plaçant comme un visiteur.",
+                "Décidez ensuite si l’objet répond encore à votre intention."
+              ],
+              "benefit": "Un nouvel angle peut faire apparaître des qualités sans effacer l’imprévu."
+            },
+            {
+              "heading": "Repérer le coût d’une décision trop rapide",
+              "objective": "Éviter qu’un résultat ferme une activité encore désirée.",
+              "exercise": [
+                "Formulez le choix que vous envisagez.",
+                "Demandez-vous à quelle autre chose vous devriez renoncer avec lui.",
+                "Si ces décisions se multiplient, parlez-en au suivi à partir d’un exemple."
+              ],
+              "benefit": "L’équipe peut aider à aborder ce qui fragilise la reprise dans la durée."
+            }
+          ]
         }
       ],
       "ending_title": "Le bol reste près de la carafe",
@@ -279,7 +620,8 @@
         "next": "Les deux places sont confirmées. Il faudra proposer les cartels et vérifier la tablette au moment de l’installation."
       },
       "clinical_focus": "Généralisation de l’échec",
-      "clinical_intro": "Un bord de bol ressort de travers et Diane envisage de retirer sa pièce. Elle y voit le signe qu’elle a perdu la main depuis l’hôpital. Après un épisode psychotique aigu, reprendre confiance peut impliquer de regarder ce qu’un essai a réellement donné. Diane apprend à examiner sa pièce avec l’attention qu’elle accorde spontanément au travail d’Anaïs."
+      "clinical_intro": "Un bord de bol ressort de travers et Diane envisage de retirer sa pièce. Elle y voit le signe qu’elle a perdu la main depuis l’hôpital. Après un épisode psychotique aigu, reprendre confiance peut impliquer de regarder ce qu’un essai a réellement donné. Diane apprend à examiner sa pièce avec l’attention qu’elle accorde spontanément au travail d’Anaïs.",
+      "conclusion": "La pente reste visible et Diane choisit d’exposer les deux pièces. En les regardant ensemble, elle retrouve une décision qui porte sur la couleur, l’écart et la hauteur. Le bol n’a pas eu à retrouver sa forme prévue pour prendre sa place."
     },
     {
       "number": 7,
@@ -297,17 +639,73 @@
         {
           "role": "explanation",
           "heading": "Une demande d’aide qui garde une place pour ce qu’on sait faire",
-          "text": "Quand deux sollicitations arrivent en même temps, une aide ciblée peut laisser la place de terminer ce qu’on a commencé. Le relais que Diane et Malik ont préparé prévoit qu’elle quitte l’accueil quelques minutes."
+          "text": "Une surcharge attentionnelle survient lorsque plusieurs demandes arrivent plus vite qu’on ne peut les traiter. Elle peut gêner une reprise après un épisode psychotique et se discuter avec l’équipe si elle persiste. Elle ne permet pas à elle seule d’en déduire la cause. Diane comprend les demandes de l’habituée et de l’homme près de l’imprimante, mais elle ne retrouve plus celle qu’elle était en train de traiter quand les deux se mêlent."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ce matin, elle aurait surtout besoin que quelqu’un prenne l’autre demande. Elle sait où chercher l’île et voudrait mener cet échange à son terme. Elle peut essayer une demande plus précise tout en gardant la possibilité de sortir si elle en a besoin. Pour Malik, savoir s’il reprend la file ou seulement l’imprimante change le geste qu’il doit faire."
+          "heading": "Comment la surcharge attentionnelle se voit-elle à l’accueil ?",
+          "points": [
+            {
+              "heading": "Une interruption efface la question en cours",
+              "text": "Passer à une deuxième demande avant d’avoir fini la première peut faire perdre une information simple.",
+              "examples": [
+                "Diane ne retrouve plus la question de l’habituée après avoir tourné la tête.",
+                "Une personne répond au téléphone au milieu d’une inscription et ne sait plus quel nom elle devait saisir."
+              ]
+            },
+            {
+              "heading": "Les objets restent en attente",
+              "text": "Le changement d’attention peut laisser un geste commencé sans qu’on le remarque.",
+              "examples": [
+                "La liste de l’habituée est encore dans le sac que Diane referme.",
+                "Dans un atelier, un bénévole garde en main un reçu alors qu’un visiteur lui demande déjà un autre renseignement."
+              ]
+            },
+            {
+              "heading": "Une tâche redevient possible quand les demandes se séparent",
+              "text": "Une personne peut être gênée par la simultanéité et savoir poursuivre l’échange si la seconde demande est prise en charge.",
+              "examples": [
+                "Diane retrouve le nom de l’île quand Malik s’occupe de l’imprimante.",
+                "Une collègue termine la réservation commencée quand quelqu’un reprend la file à l’autre guichet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Parler au travail et parler en consultation",
-          "text": "Après un premier épisode psychotique, le suivi peut tenir compte du travail et de ce que la reprise demande concrètement. Diane aimerait expliquer à sa psychiatre le moment où elle n’a plus retrouvé la question qu’on venait de lui poser. Le bruit de l’imprimante, la deuxième voix et la liste froissée lui donnent des détails à reprendre. La scène ne permet pas de déterminer une cause. Avec Mireille et Malik, elle peut discuter de la répartition des demandes pendant l’accueil. Ce qu’elle partage avec eux peut rester distinct de ce qu’elle aborde avec l’équipe de soins."
+          "heading": "3 techniques pour réduire les demandes simultanées à l’accueil",
+          "points": [
+            {
+              "heading": "Séparer les deux tâches",
+              "objective": "Retrouver une demande qu’on peut mener à son terme.",
+              "exercise": [
+                "Identifiez celle que vous avez déjà commencée.",
+                "Dites au deuxième interlocuteur quand ou par qui il pourra être aidé.",
+                "Revenez à la dernière information comprise avec la première personne."
+              ],
+              "benefit": "Le passage d’une tâche à l’autre devient plus explicite."
+            },
+            {
+              "heading": "Demander un renfort précis",
+              "objective": "Obtenir de l’aide sans quitter une tâche qu’on peut finir.",
+              "exercise": [
+                "Repérez l’action distincte que le collègue peut reprendre.",
+                "Demandez-la par son nom.",
+                "Vérifiez que le collègue a entendu et qu’il peut la prendre."
+              ],
+              "benefit": "Le relais peut s’adapter à la difficulté réelle, même si l’accord initial prévoyait autre chose."
+            },
+            {
+              "heading": "Faire le point sur le lieu et le moment",
+              "objective": "Éviter qu’un relais dépende d’une personne hors de vue.",
+              "exercise": [
+                "Repérez les créneaux où les demandes se superposent.",
+                "Choisissez ensemble où se placer pendant ce temps.",
+                "Portez en consultation un exemple si la perte du fil continue de gêner votre travail."
+              ],
+              "benefit": "Les collègues peuvent ajuster le service et l’équipe de soins peut examiner la difficulté."
+            }
+          ]
         }
       ],
       "ending_title": "L’île sur le bout de papier",
@@ -324,7 +722,8 @@
         "next": "Elle parlera au suivi du moment où elle a perdu le fil. La bibliothèque garde les créneaux courts et l’atelier attend le texte des cartels."
       },
       "clinical_focus": "Surcharge attentionnelle",
-      "clinical_intro": "Deux demandes se croisent et Diane perd le fil de la première. Elle redoute qu’en demandant un relais, elle doive rendre toute la place à Malik. Dans sa reprise après un trouble psychotique aigu et transitoire, l’attention et la confiance peuvent être sollicitées différemment d’une tâche à l’autre. Une demande précise lui permet de terminer l’échange qu’elle avait commencé."
+      "clinical_intro": "Deux demandes se croisent et Diane perd le fil de la première. Elle redoute qu’en demandant un relais, elle doive rendre toute la place à Malik. Dans sa reprise après un trouble psychotique aigu et transitoire, l’attention et la confiance peuvent être sollicitées différemment d’une tâche à l’autre. Une demande précise lui permet de terminer l’échange qu’elle avait commencé.",
+      "conclusion": "Diane ne quitte pas l’accueil comme elle l’avait prévu en cas de gêne. Cette fois, c’est l’imprimante qui change de main. Elle termine la recherche avec la lectrice et obtient un relais mieux situé pour les prochains jours de livraison."
     },
     {
       "number": 8,
@@ -342,17 +741,73 @@
         {
           "role": "explanation",
           "heading": "Garder la maîtrise du récit de soi",
-          "text": "Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît."
+          "text": "La crainte d’être étiqueté peut pousser à se taire même quand on a quelque chose à raconter. Après une crise psychotique, une personne peut redouter que ses choix soient ramenés à son histoire de santé. Diane veut que les visiteurs regardent les formes et les couleurs des pièces. La question inscrite sur le cartel lui donne d’abord l’impression qu’on lui demande un récit personnel, avant qu’elle trouve ce qu’elle souhaite partager."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre."
+          "heading": "Comment la crainte d’être étiquetée change-t-elle ce qu’on ose présenter ?",
+          "points": [
+            {
+              "heading": "Une question ouverte semble porter sur la santé",
+              "text": "On peut entendre une invitation à parler de son travail comme une demande de parler de son absence.",
+              "examples": [
+                "Diane retourne aussitôt le carton où Maud lui demande ce qu’elle aimerait qu’on sache.",
+                "Une personne à qui on demande un mot sur son projet craint qu’on attende le récit de sa convalescence."
+              ]
+            },
+            {
+              "heading": "On anticipe une lecture réductrice",
+              "text": "La peur peut porter sur l’interprétation que d’autres feront de chaque choix.",
+              "examples": [
+                "Diane redoute que le bol soit regardé à travers ce qui l’a tenue loin de l’atelier.",
+                "Quelqu’un hésite à montrer une photographie parce qu’il craint qu’on la lise uniquement comme un témoignage de crise."
+              ]
+            },
+            {
+              "heading": "Les mots du métier redonnent une direction",
+              "text": "Décrire un choix de forme ou d’usage permet de décider ce que le public apprendra.",
+              "examples": [
+                "Diane parle du bleu au fond et de la façon dont le col laisse verser.",
+                "Une personne présente un texte par son rythme plutôt que par les événements qui entouraient son écriture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner à chacun les informations dont il a besoin",
-          "text": "Diane a communiqué un numéro de suivi à Rémi parce qu’elle voulait pouvoir lui demander une aide précise. Pour son équipe de soins, elle choisit ce qui peut éclairer son retour au travail et ce qu’elle ressent. Les recommandations après un premier épisode psychotique invitent à discuter des informations partagées avec les proches et à revoir ces choix quand les besoins changent. Pour l’exposition, Rémi peut relire un texte sur la carafe sans être invité à parler de la santé de Diane. Elle a encore la possibilité de reparler du diagnostic avec lui, en privé, quand elle le voudra."
+          "heading": "3 techniques pour présenter son travail avec les informations que l’on choisit",
+          "points": [
+            {
+              "heading": "Partir de ce que le visiteur peut voir",
+              "objective": "Trouver une phrase qui invite à regarder la pièce.",
+              "exercise": [
+                "Choisissez un détail visible ou un usage.",
+                "Dites ce que vous avez voulu essayer à cet endroit.",
+                "Gardez une phrase que vous accepteriez de lire devant le public."
+              ],
+              "benefit": "La présentation exprime un choix concret, même quand l’histoire personnelle reste privée."
+            },
+            {
+              "heading": "Relire avec la bonne personne",
+              "objective": "Vérifier ce que le support communique avant son impression.",
+              "exercise": [
+                "Montrez votre texte à une personne que vous choisissez.",
+                "Demandez ce qu’elle a compris de la pièce.",
+                "Modifiez le passage qui invite à une lecture que vous ne souhaitez pas."
+              ],
+              "benefit": "Le retour porte sur ce qui est écrit sans transférer la décision à celui qui relit."
+            },
+            {
+              "heading": "Préparer la réponse à une question personnelle",
+              "objective": "Pouvoir garder une limite si la conversation quitte le travail.",
+              "exercise": [
+                "Choisissez ce que vous souhaitez dire ou garder pour vous.",
+                "Préparez une phrase pour revenir à la pièce.",
+                "Convenez avec l’organisateur de l’aide que vous voulez si la question insiste."
+              ],
+              "benefit": "La personne peut rester dans l’échange ou s’en retirer sans être obligée d’en raconter davantage."
+            }
+          ]
         }
       ],
       "ending_title": "Deux titres au crayon",
@@ -369,7 +824,8 @@
         "next": "Maud doit imprimer les cartels. Rémi pense venir en fin de journée au vernissage et Diane lui indiquera la tablette."
       },
       "clinical_focus": "Crainte d’être étiquetée",
-      "clinical_intro": "Devant ses cartels, Diane se demande si les visiteurs chercheront dans les objets la trace de sa période à l’hôpital. L’anticipation du regard des autres peut rendre la parole sur soi difficile après une psychose aiguë. Regarder les pièces avec Rémi lui permet de décider ce qu’elle veut rendre visible et de reprendre la main sur le récit de son travail."
+      "clinical_intro": "Devant ses cartels, Diane se demande si les visiteurs chercheront dans les objets la trace de sa période à l’hôpital. L’anticipation du regard des autres peut rendre la parole sur soi difficile après une psychose aiguë. Regarder les pièces avec Rémi lui permet de décider ce qu’elle veut rendre visible et de reprendre la main sur le récit de son travail.",
+      "conclusion": "Les deux cartels invitent à regarder le bleu et à imaginer le geste de verser. Diane a choisi ce qu’elle confie aux visiteurs. Rémi l’aide avec les cartons et peut venir voir les pièces sans porter le récit qu’elle a préféré garder."
     },
     {
       "number": 9,
@@ -387,17 +843,73 @@
         {
           "role": "explanation",
           "heading": "Parler de ce qui a changé depuis le dernier rendez-vous",
-          "text": "Un changement préoccupant après un épisode psychotique mérite d’être discuté avec l’équipe qui assure le suivi. Diane décrit sa nuit, ce qu’elle a perçu au marché et l’impression qui lui reste chez elle."
+          "text": "Une impression de référence survient quand des propos ou des événements semblent concerner personnellement quelqu’un sans élément qui l’établisse. Elle peut être plus ou moins envahissante. Après un premier épisode psychotique, le retour d’une expérience qui inquiète, associé à d’autres changements, mérite un avis rapide de l’équipe de suivi. Diane se souvient de la peur de la première fois. L’impression du marché et les nuits difficiles donnent des éléments à évaluer, sans suffire à conclure à une rechute."
         },
         {
           "role": "manifestations",
-          "heading": "L’impression persiste jusque dans la cuisine",
-          "text": "Diane se rappelle les voix basses et peine à retrouver une phrase entière. L’impression que les deux clients répétaient ses paroles l’a suivie dans le bus. Elle y pense encore devant les poires, alors que la scène du marché est terminée. Elle a aussi mal dormi plusieurs nuits et a retrouvé au réveil le tiroir qu’elle avait commencé à vider dans la nuit. L’impression persiste malgré le changement de lieu et lui rappelle la peur qu’elle avait éprouvée avant l’hôpital. Ces changements lui donnent des faits précis à raconter quand elle appelle."
+          "heading": "Comment une impression de référence continue-t-elle d’agir après la scène ?",
+          "points": [
+            {
+              "heading": "Des paroles indistinctes prennent un sens personnel",
+              "text": "L’impression peut naître alors que le contenu de l’échange n’est pas clair.",
+              "examples": [
+                "Diane croit reconnaître dans les voix du marché des mots qu’elle avait dits à sa sortie.",
+                "Une personne entend une bribe dans le bus et se demande si les passagers parlent d’elle."
+              ]
+            },
+            {
+              "heading": "La gêne persiste ailleurs",
+              "text": "Changer de lieu ne suffit pas toujours à faire passer l’inquiétude.",
+              "examples": [
+                "L’idée accompagne Diane jusque dans la cuisine, où elle n’arrive pas à retrouver une phrase entière.",
+                "Quelqu’un quitte une salle mais peine à suivre l’activité suivante parce que l’échange lui revient."
+              ]
+            },
+            {
+              "heading": "D’autres changements comptent pour l’évaluation",
+              "text": "Le sommeil ou les tâches ordinaires peuvent aussi avoir changé, sans donner seuls un verdict.",
+              "examples": [
+                "Diane signale plusieurs nuits difficiles et le tiroir à moitié vidé.",
+                "Une personne raconte qu’elle s’inquiète d’une impression nouvelle et qu’elle n’a plus réussi à tenir ses rendez-vous habituels."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "La suite se décide avec le service joint",
-          "text": "Diane suit les indications qu’elle a reçues lors du rendez-vous de sortie. La soignante lui demande comment elle se sent au moment de l’appel et si elle peut rester en sécurité jusqu’à leur rencontre. Elle lui propose une évaluation l’après-midi même et vérifie comment elle pourra venir. L’équipe examinera ce que Diane rapporte, comment la situation évolue et les autres explications possibles. Diane peut dire ce dont elle se souvient et ce qui lui échappe.\n\nElles reprennent ensemble les consignes si la situation change avant le rendez-vous. En France, si un danger immédiat ou une urgence médicale apparaît, le 15 ou le 112 permet de joindre les secours. Diane peut écrire à Rémi pour lui dire où elle va et lui demander une chose qui tient compte de son horaire. Le service reste le relais pour l’évaluation, y compris si Rémi ne peut pas se libérer."
+          "heading": "3 techniques pour demander de l’aide devant un changement préoccupant",
+          "points": [
+            {
+              "heading": "Appeler l’équipe avec le doute",
+              "objective": "Obtenir un avis sans attendre d’être certain de ce qui se passe.",
+              "exercise": [
+                "Utilisez le numéro prévu par votre équipe.",
+                "Dites ce que vous avez vécu et ce qui vous inquiète encore.",
+                "Suivez la proposition du service pour être évalué."
+              ],
+              "benefit": "Le doute peut être transmis comme tel et l’équipe décide de la suite."
+            },
+            {
+              "heading": "Décrire ce qui entoure l’impression",
+              "objective": "Donner à l’équipe une vue plus complète du changement.",
+              "exercise": [
+                "Distinguez ce dont vous vous souvenez et le sens que cela a pris.",
+                "Signalez les changements de sommeil ou d’activités dont vous avez parlé ou que vous avez remarqués.",
+                "Emportez les notes déjà disponibles si elles vous aident, sans retarder l’appel pour les compléter."
+              ],
+              "benefit": "L’évaluation peut prendre en compte davantage qu’une seule expérience."
+            },
+            {
+              "heading": "Choisir un appui et savoir quand passer le relais",
+              "objective": "Garder un contact possible sans confier au proche l’évaluation.",
+              "exercise": [
+                "Demandez à une personne disponible une aide précise, comme rappeler après le rendez-vous.",
+                "Rappelez quel professionnel suit la situation.",
+                "En France, appelez le 15 ou le 112 en cas de danger immédiat ou d’urgence médicale."
+              ],
+              "benefit": "Le proche peut offrir une présence et les professionnels évaluent la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Une heure écrite sur le carton des poires",
@@ -416,7 +928,8 @@
         "next": "L’équipe doit évaluer ce qu’elle a rapporté. Maud sait seulement que Diane ne peut pas venir mesurer la tablette cet après-midi."
       },
       "clinical_focus": "Impression de référence",
-      "clinical_intro": "Au marché, des mots que Diane distingue mal lui semblent rappeler ce qu’elle a dit en quittant l’hôpital. L’impression s’accroche à elle et réveille la peur de revivre une crise. Après plusieurs nuits difficiles, elle utilise le contact prévu avec son équipe. Le suivi permet d’évaluer ensemble ce changement à partir des faits, du sommeil et de son retentissement."
+      "clinical_intro": "Au marché, des mots que Diane distingue mal lui semblent rappeler ce qu’elle a dit en quittant l’hôpital. L’impression s’accroche à elle et réveille la peur de revivre une crise. Après plusieurs nuits difficiles, elle utilise le contact prévu avec son équipe. Le suivi permet d’évaluer ensemble ce changement à partir des faits, du sommeil et de son retentissement.",
+      "conclusion": "Diane appelle avec l’impression et le doute qui l’accompagne. L’équipe avance le rendez-vous sans qu’elle ait à décider elle-même s’il s’agit d’une rechute. Rémi peut l’écouter à la sortie et Maud reçoit seulement l’information utile pour l’installation."
     },
     {
       "number": 10,
@@ -434,17 +947,73 @@
         {
           "role": "explanation",
           "heading": "Faire préciser l’aide prévue avant de rentrer",
-          "text": "Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin. La docteure Lenoir reprend avec Diane le contexte de cette expérience, le sommeil et les autres changements récents. Elle tient compte du premier épisode et examine comment la situation actuelle évolue."
+          "text": "La peur d’une rechute peut rester forte même lorsqu’on envisage plusieurs explications à une impression inquiétante. Après un épisode psychotique, une évaluation de suivi peut aboutir à une réponse intermédiaire entre attendre sans contact et être hospitalisé. La docteure Lenoir reprend avec Diane l’expérience, le sommeil et la façon dont elle se sent pour le soir. Un rappel est convenu et aucune conclusion de rechute n’est tirée de ce seul récit."
         },
         {
           "role": "manifestations",
-          "heading": "La peur persiste alors que la certitude varie",
-          "text": "Au rendez-vous, Diane dit que par moments elle peut envisager d’avoir mal entendu les clients du marché. Avant l’hôpital, elle ne parvenait plus à envisager une autre interprétation. Cette fois, le doute lui laisse un peu de place et la peur reste assez vive pour qu’elle redoute de passer la soirée seule. Pendant qu’elle attend de connaître l’heure du prochain appel, elle se surprend à imaginer plusieurs fois la même demande à Rémi. Elle voudrait qu’il reste près de son téléphone. Elle peut ainsi raconter comment l’impression a changé et ce qui continue à l’inquiéter."
+          "heading": "Comment l’anxiété de rechute pèse-t-elle sur les demandes d’aide ?",
+          "points": [
+            {
+              "heading": "Le doute ne suffit pas à calmer la peur",
+              "text": "Admettre une autre explication peut coexister avec une détresse réelle.",
+              "examples": [
+                "Diane peut penser qu’elle a mal entendu et reste effrayée par ce que l’impression lui rappelle.",
+                "Une personne sait qu’une mauvaise nuit peut avoir plusieurs raisons et redoute tout de même le retour de difficultés anciennes."
+              ]
+            },
+            {
+              "heading": "On imagine deux seules issues",
+              "text": "La peur peut réduire ce qu’on imagine possible avant d’en parler avec l’équipe.",
+              "examples": [
+                "Diane s’attend à rentrer sans rendez-vous ou à rester à l’hôpital.",
+                "Quelqu’un pense devoir attendre le prochain entretien ou appeler les urgences, sans connaître le contact prévu pour un avis de suivi."
+              ]
+            },
+            {
+              "heading": "La présence familiale peut sembler devoir être continue",
+              "text": "Quand l’attente inquiète, on peut être tenté de demander à un proche une disponibilité qu’il ne peut pas garantir.",
+              "examples": [
+                "Diane songe à demander à Rémi de rester près de son téléphone toute la soirée.",
+                "Une personne voudrait que son frère la rappelle à toute heure alors qu’ils n’ont convenu que d’un appel."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire combien de temps on peut rester",
-          "text": "Avant que Diane reparte, la docteure Lenoir précise qui joindre si la situation change avant le prochain appel et vérifie avec elle qu’elle sait comment le faire. Diane garde ce relais médical et réfléchit à ce qu’elle aimerait partager avec Rémi ce soir.\n\nQuand Rémi rappelle après son travail, Diane lui demande « Ça me fait un peu peur, ce soir. Est-ce que tu pourrais passer ? » Il doit aller chercher un meuble avec un ami et n’est pas sûr de l’heure à laquelle ils auront fini. Il peut lui parler un quart d’heure maintenant et reprendre le téléphone plus tard, à une heure qu’il connaît. Diane se rend compte qu’elle avait surtout envie de dire le nom qu’elle avait choisi de garder pour elle au premier rendez-vous. Elle lui demande s’il veut l’entendre, puis lui dit le nom donné par la psychiatre à l’épisode de l’hôpital. Elle lui précise qu’elle a choisi de lui en parler à lui. Il lui demande ce que l’équipe prévoit pour le lendemain et garde ces informations pour eux."
+          "heading": "3 techniques pour répartir l’aide quand on redoute une rechute",
+          "points": [
+            {
+              "heading": "Demander ce qui est prévu entre les rendez-vous",
+              "objective": "Savoir quel contact utiliser si la situation change.",
+              "exercise": [
+                "Demandez l’heure du rappel et ce qu’il permettra de reprendre.",
+                "Vérifiez à qui parler si vous vous sentez moins en sécurité avant.",
+                "Notez les consignes avec vos propres mots."
+              ],
+              "benefit": "Il devient possible de demander un avis sans dépendre du seul rendez-vous ordinaire."
+            },
+            {
+              "heading": "Donner une place définie au proche",
+              "objective": "Garder un appui compatible avec sa disponibilité.",
+              "exercise": [
+                "Choisissez ce que vous voulez lui dire.",
+                "Proposez une aide limitée, par exemple un appel à une heure donnée.",
+                "Demandez-lui ce qu’il peut accepter ou refuser."
+              ],
+              "benefit": "Le proche sait ce qui lui est demandé et peut rester présent sans prendre la place de l’équipe."
+            },
+            {
+              "heading": "Distinguer les deux échanges",
+              "objective": "Conserver la relation avec le proche à côté du suivi.",
+              "exercise": [
+                "Inscrivez le rappel de l’équipe séparément.",
+                "Convenez avec le proche d’un sujet ordinaire que vous avez aussi envie d’aborder.",
+                "Si une question de santé reste ouverte, gardez-la pour l’interlocuteur prévu."
+              ],
+              "benefit": "Les deux contacts peuvent compter sans avoir le même rôle."
+            }
+          ]
         }
       ],
       "ending_title": "Deux lignes dans l’agenda",
@@ -461,7 +1030,8 @@
         "next": "Le rappel de l’équipe a lieu le lendemain. Rémi connaît désormais le diagnostic initial et les modalités du rappel. Maud attend Diane pour l’installation, sans avoir reçu d’information clinique."
       },
       "clinical_focus": "Anxiété de rechute",
-      "clinical_intro": "Pendant sa consultation avancée, Diane hésite à demander à Rémi de surveiller son téléphone toute la soirée. La peur d’un nouvel épisode psychotique peut rendre difficile de savoir quelle présence demander. Le rendez-vous clarifie les relais médicaux et l’échange avec Rémi distingue le soutien qu’il peut apporter, le temps dont il dispose et la suite à convenir avec l’équipe."
+      "clinical_intro": "Pendant sa consultation avancée, Diane hésite à demander à Rémi de surveiller son téléphone toute la soirée. La peur d’un nouvel épisode psychotique peut rendre difficile de savoir quelle présence demander. Le rendez-vous clarifie les relais médicaux et l’échange avec Rémi distingue le soutien qu’il peut apporter, le temps dont il dispose et la suite à convenir avec l’équipe.",
+      "conclusion": "Diane écrit deux rendez-vous sur deux lignes. Le rappel de l’équipe concerne l’évolution de la gêne et l’appel de Rémi garde aussi une place pour le meuble. Cette distinction rend possible un appui familial sans en faire une veille permanente."
     },
     {
       "number": 11,
@@ -479,17 +1049,73 @@
         {
           "role": "explanation",
           "heading": "La peur de déranger peut effacer une demande légitime",
-          "text": "Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi. Diane s’est entendue penser qu’elle ferait perdre du temps aux autres. En montrant la photo, elle peut expliquer ce qu’elle voulait obtenir et entendre ce qu’Anaïs attend de sa propre présentation."
+          "text": "La peur de déranger peut faire abandonner une demande avant de savoir si elle gênerait réellement les autres. Après une crise et une reprise progressive, se croire de trop peut rendre plus coûteuse une négociation ordinaire. Dans l’atelier, Diane craint de ralentir l’installation en demandant la tablette basse. La photo lui permet d’expliquer l’effet recherché et de vérifier avec Anaïs ce que chacune essaie de faire voir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elles ont deux raisons différentes de demander une certaine hauteur. Les comparer avec Maud permet de chercher un arrangement concret. Diane garde aussi la possibilité d’accepter un emplacement qui lui convient moins si les autres possibilités créent un problème de circulation ou de stabilité."
+          "heading": "Comment la peur de déranger peut-elle faire taire une demande ?",
+          "points": [
+            {
+              "heading": "On suppose le coût pour les autres",
+              "text": "Avant d’en parler, on peut imaginer que la demande forcera tout le monde à recommencer.",
+              "examples": [
+                "Diane craint de faire perdre du temps en demandant la tablette déjà occupée.",
+                "Une personne renonce à demander une place mieux éclairée parce qu’elle croit que toute la salle devra bouger."
+              ]
+            },
+            {
+              "heading": "On accepte une solution qui change le résultat",
+              "text": "Éviter la discussion peut avoir un effet concret sur ce que l’on voulait faire.",
+              "examples": [
+                "Le meuble haut ferait perdre le point de vue où Diane veut montrer le fond du bol.",
+                "Une personne accepte une table plus étroite et découvre qu’elle ne pourra pas ouvrir son album à plat."
+              ]
+            },
+            {
+              "heading": "L’autre a aussi une préférence à exprimer",
+              "text": "Dire ce que l’on veut peut faire apparaître une possibilité qu’on n’avait pas imaginée seul.",
+              "examples": [
+                "Anaïs veut que la marque de ses tasses soit visible sans se pencher.",
+                "Deux exposants découvrent qu’ils ne recherchent pas la même lumière et peuvent échanger leurs places."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Finir sa part et décider quand partir",
-          "text": "Diane s’était donné une heure pour installer ses pièces. Depuis le rendez-vous avancé, elle parle encore avec l’équipe de sa reprise et des changements qu’elle observe. Ce suivi peut tenir compte des activités qu’elle souhaite retrouver et des conditions dans lesquelles elles restent possibles. Dans la salle, sa décision porte sur une tâche précise. Elle veut vérifier la place des deux pièces et fixer les cartels. Maud peut l’aider à déterminer ce qui doit être fait ce jour-là, puis les autres membres de l’atelier peuvent prendre le relais sur ce qui leur revient."
+          "heading": "3 techniques pour formuler une demande sans devancer la réponse",
+          "points": [
+            {
+              "heading": "Montrer l’effet recherché",
+              "objective": "Faire comprendre pourquoi un choix compte.",
+              "exercise": [
+                "Apportez une photo ou un objet qui l’illustre.",
+                "Dites ce que vous voulez que l’autre puisse voir ou faire.",
+                "Demandez si la solution prévue le permet."
+              ],
+              "benefit": "L’échange porte sur un résultat observable et les autres peuvent y répondre."
+            },
+            {
+              "heading": "Écouter la préférence de l’autre",
+              "objective": "Chercher une option compatible avec les deux projets.",
+              "exercise": [
+                "Demandez ce que l’autre personne veut faire ressortir.",
+                "Comparez un ou deux emplacements.",
+                "Demandez si un essai bref est possible avant de décider."
+              ],
+              "benefit": "Chacun peut juger l’arrangement au lieu de supposer ce qu’il coûte à l’autre."
+            },
+            {
+              "heading": "Respecter les contraintes communes",
+              "objective": "Garder une demande négociable quand l’espace est partagé.",
+              "exercise": [
+                "Faites vérifier l’emplacement par la personne responsable.",
+                "Ajustez si le passage ou la stabilité pose un problème.",
+                "Confirmez l’arrangement avant de fixer les étiquettes."
+              ],
+              "benefit": "Une solution peut répondre au besoin tout en restant faisable pour l’équipe."
+            }
+          ]
         }
       ],
       "ending_title": "Le bleu à hauteur de regard",
@@ -506,7 +1132,8 @@
         "next": "Pente bleue et Gris de pluie sont exposés près de la fenêtre. Rémi a reçu la photo et doit passer en fin de journée."
       },
       "clinical_focus": "Peur de déranger",
-      "clinical_intro": "Quand la tablette de l’exposition devient indisponible, Diane pense qu’elle devrait s’accommoder de ce qui reste. Depuis son retour, elle a peur de compliquer la vie des autres et hésite à défendre une préférence. Le rétablissement après un épisode psychotique aigu touche aussi la possibilité de reprendre part aux décisions. Ici, expliquer ce qu’elle souhaite permet de tenir compte de son besoin et de celui d’Anaïs."
+      "clinical_intro": "Quand la tablette de l’exposition devient indisponible, Diane pense qu’elle devrait s’accommoder de ce qui reste. Depuis son retour, elle a peur de compliquer la vie des autres et hésite à défendre une préférence. Le rétablissement après un épisode psychotique aigu touche aussi la possibilité de reprendre part aux décisions. Ici, expliquer ce qu’elle souhaite permet de tenir compte de son besoin et de celui d’Anaïs.",
+      "conclusion": "La photo donne un point de départ à la demande de Diane. Anaïs peut montrer le trait de ses tasses et Maud vérifie la circulation. Les pièces retrouvent la hauteur recherchée parce que les trois ont eu une décision précise à discuter."
     },
     {
       "number": 12,
@@ -524,17 +1151,73 @@
         {
           "role": "explanation",
           "heading": "Recevoir un avis et garder confiance dans son choix",
-          "text": "Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail. Diane savait que le bord du bol aurait pu lui faire renoncer à l’exposition. La remarque sur la profondeur lui rappelle ce doute. La visiteuse lui montre aussi un effet qu’elle n’avait pas remarqué de cet endroit."
+          "text": "Retrouver confiance après un épisode psychotique peut se voir dans la liberté de soutenir un choix, d’écouter un avis et de poursuivre une activité. Ce mouvement n’indique pas à lui seul où en est le suivi clinique. Diane entend une visiteuse remarquer la profondeur du bol et pense d’abord à justifier son bord. Elle peut aussi se placer à côté d’elle et regarder le bleu que cette profondeur rend visible."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Diane peut entendre ce regard, dire comment elle a fait la carafe et garder sa propre idée du bol. Elle a choisi de présenter les deux pièces parce qu’elle aimait les voir ensemble. La remarque lui donne un autre point de vue sur ce choix."
+          "heading": "Comment la confiance retrouvée se voit-elle face au regard du public ?",
+          "points": [
+            {
+              "heading": "Une remarque réveille un ancien doute",
+              "text": "Même une observation neutre peut ramener à la déception des premiers essais.",
+              "examples": [
+                "Diane entend « profond » et pense au bord qu’elle avait voulu plus bas.",
+                "Lors d’une présentation, quelqu’un entend qu’un texte est bref et se rappelle les pages qu’il avait supprimées à regret."
+              ]
+            },
+            {
+              "heading": "On peut prendre le point de vue du visiteur",
+              "text": "Regarder ce que l’autre a réellement vu donne une autre manière d’entendre sa remarque.",
+              "examples": [
+                "Diane se place là où la visiteuse regardait le bleu.",
+                "Un auteur écoute le passage que la lectrice cite avant d’expliquer comment il l’a écrit."
+              ]
+            },
+            {
+              "heading": "Le choix peut rester à soi après l’échange",
+              "text": "La confiance se lit dans la possibilité de décider de la suite sans attendre l’approbation générale.",
+              "examples": [
+                "Diane montre à Rémi d’où voir le bleu et envisage de mettre le bol chez elle.",
+                "Une personne garde une pièce qui lui plaît même si tous les visiteurs n’ont pas relevé le même détail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder des rendez-vous pour des choses différentes",
-          "text": "Un suivi peut rester utile après un épisode psychotique alors même que des activités redeviennent possibles. Diane a un rendez-vous avec la docteure Lenoir et compte lui reparler de son sommeil, de l’appel après le marché et de son prochain créneau avec Malik. Le vernissage lui donne aussi quelque chose à raconter qu’elle a simplement envie de partager. L’équipe suit l’évolution de sa santé et les conditions de sa reprise. Avec Rémi, elle pourra passer au marché. Avec Maud, il reste à décider où iront les pièces quand la salle fermera."
+          "heading": "3 techniques pour accueillir un avis en gardant ses choix",
+          "points": [
+            {
+              "heading": "Écouter l’observation avant de l’expliquer",
+              "objective": "Donner une chance à la remarque d’avoir son sens propre.",
+              "exercise": [
+                "Repérez ce que l’autre a dit exactement.",
+                "Demandez-lui ou regardez d’où vient son observation.",
+                "Décidez ensuite si vous avez envie d’expliquer votre choix."
+              ],
+              "benefit": "Un avis peut devenir une information sur l’objet et moins une appréciation de la personne."
+            },
+            {
+              "heading": "Dire ce que l’on tient à montrer",
+              "objective": "Partager une préférence sans demander à l’autre de l’approuver.",
+              "exercise": [
+                "Choisissez un détail que vous aimez.",
+                "Montrez l’endroit ou le geste qui le rend visible.",
+                "Laissez la personne en dire ce qu’elle veut."
+              ],
+              "benefit": "Le partage peut rester une conversation entre deux regards."
+            },
+            {
+              "heading": "Organiser l’après sans faire un bilan global",
+              "objective": "Clore une activité et préserver les autres repères de reprise.",
+              "exercise": [
+                "Décidez comment et quand récupérer ce que vous avez montré.",
+                "Gardez un prochain projet ou rendez-vous qui vous importe.",
+                "Abordez au suivi les difficultés qui demandent encore un appui."
+              ],
+              "benefit": "La satisfaction d’un projet abouti peut coexister avec les ajustements qui restent nécessaires."
+            }
+          ]
         }
       ],
       "ending_title": "Dimanche, après le marché",
@@ -551,7 +1234,8 @@
         "next": "Le vernissage clôt le projet d’exposition. Le prochain créneau à la bibliothèque et le suivi avec la docteure Lenoir restent prévus."
       },
       "clinical_focus": "Confiance retrouvée",
-      "clinical_intro": "Diane entend une visiteuse décrire son bol d’une manière inattendue et se prépare à justifier chaque détail. Depuis la crise, elle a souvent cherché dans le regard des autres un verdict sur ce qu’elle pouvait encore faire. Au vernissage, elle peut écouter cet avis et garder le sien. Le récit montre ce gain de confiance dans une activité qui compte pour elle."
+      "clinical_intro": "Diane entend une visiteuse décrire son bol d’une manière inattendue et se prépare à justifier chaque détail. Depuis la crise, elle a souvent cherché dans le regard des autres un verdict sur ce qu’elle pouvait encore faire. Au vernissage, elle peut écouter cet avis et garder le sien. Le récit montre ce gain de confiance dans une activité qui compte pour elle.",
+      "conclusion": "Diane finit par penser à la place du bol chez elle et à des poires qui laisseraient voir le bleu. L’exposition a eu lieu, avec le bord imprévu et les deux pièces. Son travail à la bibliothèque et son suivi continuent à leur propre rythme."
     }
   ]
 }

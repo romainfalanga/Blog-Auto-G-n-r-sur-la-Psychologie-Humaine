@@ -1,7 +1,7 @@
 ---
-title: Rester disponible aux autres quand on se sent distant
-description: En préparant le foyer, Joris craint de paraître indifférent. Les auteurs
-  l’aident à imaginer un accueil qui leur laisse aussi le choix.
+title: Tenir à une rencontre quand l’enthousiasme paraît lointain
+description: Joris tient à recevoir Dounia et Luc, mais redoute de paraître indifférent.
+  Il leur dit ce qu’il aimerait partager après la lecture.
 slug: joris-laccueil-quil-peut-choisir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
@@ -30,18 +30,83 @@ Pendant qu’il les écoute, Joris se sent à distance de ce moment qu’il atte
 
 Joris lui dit qu’il veut être là au début et qu’il aimerait lui poser une question sur la dernière page. Il propose de les présenter aux lecteurs qui resteront, puis de partir quand il en aura besoin. La bibliothécaire a prévu de rester au foyer jusqu’à la fermeture. Elle passera voir si Dounia et Luc souhaitent encore recevoir du monde. Luc désigne la place libre à côté de sa chaise. Joris pourrait s’y mettre le temps qu’il veut.
 
-## Quand l’intérêt et le ressenti divergent
+## Quand l’émotion paraît lointaine malgré l’intérêt
 
-Le trouble dépersonnalisation-déréalisation peut s’accompagner d’une impression de distance par rapport à ses propres émotions. Une personne peut savoir qu’une rencontre lui importe et éprouver peu de proximité avec ce qu’elle attendait d’y ressentir. Dans cette scène, Joris reconnaît ce qui l’a amené au foyer. L’intérêt pour les textes de Dounia et de Luc se retrouve dans ses questions et ses décisions. Il a du mal à sentir l’enthousiasme qui accompagnait l’idée à l’exposition et s’inquiète de ce que les auteurs pourraient comprendre de son attitude.
+La dépersonnalisation peut s’accompagner d’un sentiment de distance par rapport à ses propres émotions. Une rencontre peut avoir de l’importance alors que l’élan qu’on s’attendait à éprouver paraît faible ou lointain. Au foyer, Joris sait pourquoi il veut recevoir les auteurs. L’enthousiasme qu’il avait en préparant l’idée lui est moins accessible. Il craint que les auteurs comprennent autrement sa réponse.
 
-## Une question reste en suspens derrière les chaises
+## Comment la distance émotionnelle peut-elle se remarquer quand une rencontre compte ?
 
-En parlant de mobilier, Joris donne une réponse qu’il sait mettre en pratique tout de suite. Il laisse de côté une question plus personnelle qui demande de se projeter dans la soirée. Dounia peut entendre cette première réponse comme le signe qu’il a déjà prévu de repartir, ou simplement comme une préoccupation pour la disposition du foyer. Sa patience permet à Joris d’entendre le reste de la question. Il trouve une façon de dire qu’il souhaite la retrouver même s’il ignore comment il se sentira à ce moment-là.
+### L’élan attendu se fait moins sentir
 
-## Convenir d’une présence que chacun peut ajuster
+La personne peut se souvenir de ce qui lui faisait envie et trouver difficile de retrouver cette émotion sur le moment.
 
-Joris propose de commencer l’accueil, puis de décider de la durée de sa présence sur place. Les auteurs choisissent eux aussi comment répondre au public. Ils peuvent en parler directement et savoir qui fera vivre le foyer après son départ. L’organisation lui laisse la possibilité de rester en lien même quand la distance intérieure le surprend. Il pourra discuter en consultation du poids que prend cette gêne, surtout si elle revient dans des moments qui lui tiennent à cœur. Les auteurs peuvent garder la conversation sur ce qu’ils souhaitent partager ce soir-là.
+**Exemples concrets**
+
+- Joris se rappelle l’élan qu’il avait en présentant son idée à Ava alors qu’il se sent distant devant les auteurs.
+- Une personne prépare depuis longtemps la visite d’un ami et peine à retrouver l’élan du début au moment de l’accueillir.
+
+### Les mots pratiques viennent avant les mots personnels
+
+Lorsque l’émotion paraît lointaine, dire ce que l’on peut faire peut sembler plus accessible que parler de ce qui compte.
+
+**Exemples concrets**
+
+- Joris dit qu’il peut arranger les chaises avant de dire à Dounia qu’il aimerait venir.
+- Une personne indique où poser un sac à son invité puis revient sur le fait qu’elle tenait à sa visite.
+
+### L’intérêt peut se reconnaître autrement
+
+Quand l’élan se fait moins sentir, les choix de la personne peuvent encore exprimer ce qui compte pour elle.
+
+**Exemples concrets**
+
+- Joris dit qu’il veut entendre comment Dounia a choisi le dernier mot.
+- À la fin d’un dîner, une personne dit à son frère qu’elle aimerait entendre la suite de son histoire, même si elle se sent peu expressive.
+
+## 3 techniques pour dire ce qui compte quand l’émotion paraît lointaine
+
+### 1. Nommer ce que l’on souhaite partager
+
+Faire connaître son intérêt avec un détail que l’on a choisi.
+
+**Exercice pratique**
+
+- Pensez à une chose qui vous a donné envie de venir.
+- Formulez une question ou une invitation précise.
+- Proposez-la à l’autre s’il a le temps d’y répondre.
+
+La conversation peut partir d’un intérêt commun sans exiger une émotion particulière.
+
+### 2. Répondre à la part personnelle de la question
+
+Clarifier ce que l’autre voulait savoir derrière l’organisation.
+
+**Exercice pratique**
+
+- Demandez si l’autre souhaite aussi savoir si vous comptez être là.
+- Dites quelle présence vous voulez proposer.
+- Laissez ouverte la durée si vous ne la connaissez pas encore.
+
+Chacun peut comprendre la proposition et dire ce qui lui convient.
+
+### 3. Décrire l’écart au professionnel s’il pèse
+
+Parler de ce que la distance change dans une relation importante.
+
+**Exercice pratique**
+
+- Retenez une rencontre dont vous vous souvenez.
+- Dites à la fois ce qui comptait et ce que vous avez eu du mal à éprouver.
+- Expliquez si cela vous a gêné pour répondre ou pour rester en lien.
+
+Le professionnel peut entendre ce décalage et discuter de son retentissement avec vous.
 
 ## Une chaise pour le début de la rencontre
 
 Joris place une chaise de biais à côté de Dounia, pose quelques feuilles sur la table et fait de la place pour les livres de Luc. Il prévient Samir qu’il viendra l’accueillir s’il est déjà au foyer, et qu’ils peuvent rentrer chacun à leur heure. Dounia lui propose de garder sa question pour le début de la rencontre. En quittant la table, il se rappelle qu’il comptait surtout entendre comment elle avait choisi son dernier mot.
+
+---
+
+**Conclusion**
+
+La chaise de biais garde une place pour Joris et Dounia sait quelle question il veut lui poser. Il a pu dire qu’il tenait à la rencontre alors que l’enthousiasme lui paraissait lointain. Après la lecture, les auteurs et lui pourront décider du temps qu’ils souhaitent passer au foyer.

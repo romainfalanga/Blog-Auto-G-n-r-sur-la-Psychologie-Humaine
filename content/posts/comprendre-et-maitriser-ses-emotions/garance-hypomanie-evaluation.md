@@ -28,22 +28,83 @@ Garance parle aussi du trajet jusqu’à l’atelier d’une cliente. Elle y est
 
 La spécialiste revient sur l’évolution qu’elle connaît et lui pose d’autres questions sur son état, les conséquences et les autres causes possibles. Elle lui dit que ce qu’elle a examiné correspond à un épisode hypomaniaque. Garance pense aux quatre mesures de la valse. Elle demande si elle pourra continuer à jouer le jeudi. Elle voudrait choisir ce qu’elle peut garder pendant que son emploi du temps est repris.
 
-## Un épisode s’évalue sur son évolution
+## L’hypomanie se comprend dans une histoire clinique
 
-Une évaluation de l’humeur relie les changements dans le temps à ce que la personne vit et fait. Dans le cas de Garance, la psychiatre a repris plusieurs jours de sommeil inhabituel, d’activité accrue et de projets qui se multiplient.
+Une hypomanie se distingue d’une manie notamment par le degré de perturbation de la vie quotidienne. Les soignants reprennent l’évolution de l’humeur, de l’activité et du fonctionnement, ainsi que les autres causes possibles et les risques. Garance apporte un calendrier où se croisent le manque de sommeil, les dossiers et les répétitions. Sa psychiatre s’appuie sur l’entretien et sur ce qu’elle connaît de son histoire pour nommer l’épisode.
 
-## Comment cette difficulté se manifeste
+## Comment la psychiatre examine-t-elle le changement décrit par Garance ?
 
-Elle a aussi demandé ce que Garance pouvait encore assurer et comment elle réagissait quand quelqu’un lui signalait une difficulté. L’épisode est établi à partir de ce tableau et de l’évaluation, après l’appel qui a permis d’avancer le rendez-vous.
+### Les habitudes donnent un point de comparaison
 
-L’OMS distingue l’hypomanie de la manie par plusieurs éléments cliniques, dont le degré de perturbation du fonctionnement. La psychiatre reste attentive à cette différence dans l’histoire de Garance. Elle reprend aussi les risques présents et les circonstances qui pourraient demander une aide plus rapide. Garance peut entendre qu’elle a vécu un épisode hypomaniaque et garder le plaisir très ordinaire qu’elle a éprouvé lors de la première valse.
+L’évaluation commence par ce qui a changé chez cette personne dans le temps.
 
-## Revoir les engagements et convenir d’un prochain point
+**Exemples concrets**
 
-La psychiatre et Garance parlent de la conduite à tenir et fixent un nouveau point rapproché. Elles reprennent les contacts à utiliser si Garance se sent moins capable de freiner ses décisions ou si la situation s’aggrave. Les questions sur les soins et le traitement restent dans ce cadre. Garance demande ce qu’elle doit signaler d’ici le prochain échange et comment prendre contact en dehors des heures habituelles.
+- Garance montre à quel moment ses réponses de travail se sont déplacées vers le milieu de la nuit.
+- Sa psychiatre lui demande si l’énergie au lever s’est maintenue les jours suivants.
 
-Pour le travail, elle choisit de finir le catalogue selon le délai qu’elle peut encore tenir et d’annuler la relecture des notices supplémentaires. Elle prévient les personnes concernées sans leur expliquer sa situation médicale. Pour la répétition, elle veut conserver sa place d’altiste et renoncer aux textes du programme pendant quelque temps. Sa psychologue pourra l’aider à préparer cette demande. La décision de jouer à la prochaine séance dépend aussi de la façon dont elle se sentira et de ce qui est convenu dans son suivi.
+### Les décisions ont des conséquences observables
+
+La façon dont les engagements sont pris et leurs effets sur le travail et les relations donnent du contexte.
+
+**Exemples concrets**
+
+- Garance a proposé trois textes pour la même semaine alors que le catalogue était encore en cours.
+- Elle est passée chez une cliente sans rendez-vous pour proposer un travail qui n’était pas prévu.
+
+### Le soignant cherche ce qui est resté possible
+
+La capacité à reprendre un accord fait partie des éléments examinés avec le reste du tableau.
+
+**Exemples concrets**
+
+- Garance a pu entendre que la cliente souhaitait maintenir le programme d’origine.
+- Une fois rentrée, elle s’est pourtant remise à proposer des titres malgré ce retour à l’accord initial.
+
+## 3 techniques pour préparer un entretien sur un changement d’humeur
+
+### 1. Raconter une journée du début à la fin
+
+Donner des repères concrets sur la durée et l’activité.
+
+**Exercice pratique**
+
+- Choisissez une journée que vous pouvez décrire assez précisément.
+- Situez le sommeil, les échanges et les engagements qui ont changé.
+- Ajoutez ce qui s’est poursuivi ou modifié les jours suivants.
+
+L’entretien peut examiner une évolution plutôt qu’une liste de souvenirs sans ordre.
+
+### 2. Donner un exemple de retentissement
+
+Montrer ce que les décisions ont demandé à vous et aux autres.
+
+**Exercice pratique**
+
+- Apportez un calendrier, un message ou un souvenir concret.
+- Expliquez ce que vous aviez promis et ce qui a été possible ensuite.
+- Indiquez les moments où vous avez réussi ou peiné à modifier le plan.
+
+Le professionnel peut relier le changement ressenti à ses effets dans la vie quotidienne.
+
+### 3. Sortir avec une question de suite résolue
+
+Comprendre ce qui est convenu après l’évaluation.
+
+**Exercice pratique**
+
+- Demandez ce que le professionnel retient et ce qui reste à surveiller avec lui.
+- Vérifiez le prochain rendez-vous et le contact si la situation change plus tôt.
+- Séparez les décisions de soins des engagements que vous allez revoir avec les personnes concernées.
+
+Les réponses sur l’épisode et les tâches à reprendre ont chacune un interlocuteur.
 
 ## Le catalogue reste dans la colonne du milieu
 
 Garance s’assoit au café près du cabinet. Elle retire deux lignes de son calendrier et barre un rendez-vous qu’elle avait pris sans vérifier l’heure de répétition. Le catalogue reste dans la colonne du milieu. Elle écrit à sa cliente pour revenir à l’accord initial. Puis elle ouvre la conversation de l’ensemble. Elle préfère expliquer à Lise séparément ce dont elle a besoin. Elle demande si elles peuvent se voir avant la répétition pour parler des notices et du temps qu’elle pourra prendre au pupitre. Elle range le contact du cabinet à part du message.
+
+---
+
+**Conclusion**
+
+L’évaluation permet à Garance de nommer une période d’hypomanie et d’examiner ses engagements. Elle garde le catalogue, revient à l’accord initial avec sa cliente et demande à voir Lise. Le plaisir de jouer la valse lui avait apporté autre chose et garde sa place.

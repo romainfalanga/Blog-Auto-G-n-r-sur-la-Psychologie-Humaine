@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "D’où vient la certitude qu’on veut l’écarter ?",
-          "text": "Dans le trouble schizotypique, des soupçons et des difficultés relationnelles peuvent se prolonger au-delà d’un échange. L’effet se voit ici dans l’après-midi que Zéphyr passe à reprendre la scène et dans son envie de se retirer. Le musée a réellement modifié le planning. L’intention que Zéphyr y lit reste à éclaircir avec Maud.\n\nUne information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ."
+          "text": "Une information incomplète peut donner à une interprétation la force d’un fait. Dans le trouble schizotypique, la méfiance peut rester présente d’un échange à l’autre et peser sur les relations. Un planning barré ne suffit pas à reconnaître le trouble. Il peut y avoir eu un vrai défaut d’information. Au musée, le changement de planning est réel, mais Zéphyr y lit déjà une décision sur sa place dans l’équipe. Cette lecture change sa façon de parler à Maud et lui fait manquer le dépôt promis."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.\n\nUne méfiance persistante et le retrait des échanges font partie des difficultés qui peuvent être présentes dans le trouble schizotypique. Le guide de la CIM-11 les situe dans un ensemble durable et tient compte de leur retentissement. Une réaction devant un planning ne permet à elle seule aucune conclusion. Il arrive aussi qu’une équipe se parle mal ou oublie de transmettre une information. Dans le hall, ces deux questions restent ouvertes."
+          "heading": "Comment la méfiance transforme-t-elle un changement de planning ?",
+          "points": [
+            {
+              "heading": "Le changement paraît personnel",
+              "text": "Quand on craint d’être écarté, une modification d’organisation peut prendre le sens d’un geste dirigé contre soi.",
+              "examples": [
+                "Zéphyr voit une ligne verte et pense que le musée lui retire l’atelier.",
+                "Une personne découvre un changement de salle par un collègue et craint qu’on ait délibérément cessé de la prévenir."
+              ]
+            },
+            {
+              "heading": "Une remarque antérieure devient un indice",
+              "text": "Une phrase vague peut sembler expliquer après coup un événement qui lui ressemble.",
+              "examples": [
+                "Zéphyr donne un nouveau sens à la remarque de Basile sur la place dans le musée.",
+                "Après la suppression d’une réunion, un bénévole entend autrement le « il faut simplifier » prononcé la semaine précédente."
+              ]
+            },
+            {
+              "heading": "La réponse se prépare avant l’échange",
+              "text": "La méfiance agit déjà sur la relation quand elle conduit à se retirer avant de connaître la décision.",
+              "examples": [
+                "Zéphyr couvre les tabourets alors que Maud n’a pas fini son appel.",
+                "Un collègue commence à vider son casier avant d’avoir demandé ce que devient sa permanence."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une question sur le prochain geste",
-          "text": "Zéphyr n’a pas besoin de savoir tout ce que Basile a pensé pour demander ce qui arrive à sa matinée. Il peut poser le doigt sur la ligne et demander : « Est-ce que l’essai est retiré ou est-ce que l’heure bouge ? » La réponse règle une question de travail précise. Si le musée a oublié de le prévenir, Maud et lui peuvent décider comment lui faire parvenir les modifications à l’avenir.\n\nL’inquiétude peut rester après la réponse. Dans un suivi, reprendre la scène avec ses effets concrets — le matériel rentré, l’engagement oublié, l’envie de partir — peut donner de quoi travailler sur ce qui coûte le plus à la personne. C’est différent de lui demander de convaincre les autres qu’elle a eu raison, ou de lui faire répéter la vérification à chaque remontée du doute."
+          "heading": "3 techniques pour clarifier un changement de planning",
+          "points": [
+            {
+              "heading": "Questionner la décision utile",
+              "objective": "Savoir ce qui arrive au projet.",
+              "exercise": [
+                "Repérez la modification exacte.",
+                "Demandez si le créneau change ou si l’activité est retirée.",
+                "Convenez de la prochaine décision, même si tout n’est pas encore réglé."
+              ],
+              "benefit": "Une réponse ciblée peut permettre de poursuivre le travail sans débattre des intentions de chacun."
+            },
+            {
+              "heading": "Prévoir comment l’information circule",
+              "objective": "Éviter de découvrir seul un changement important.",
+              "exercise": [
+                "Nommez l’information qui a manqué.",
+                "Choisissez ensemble qui transmet les modifications.",
+                "Convenez du moyen qui vous convient à tous les deux."
+              ],
+              "benefit": "Un accord précis donne un recours quand le tableau change de nouveau."
+            },
+            {
+              "heading": "Apporter les effets concrets en consultation",
+              "objective": "Parler du coût de la méfiance lorsqu’elle pèse durablement.",
+              "exercise": [
+                "Retenez un échange qui revient en mémoire.",
+                "Notez ce que vous avez cru et ce que vous avez fait ensuite.",
+                "Expliquez à votre équipe ce que vous souhaiteriez pouvoir faire dans une situation semblable."
+              ],
+              "benefit": "Les effets sur les engagements et les relations aident à choisir un objectif de suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Remettre un tabouret debout",
@@ -52,7 +108,8 @@
         "next": "La date de vendredi disparaît, les changements seront signalés à Zéphyr, le bureau n’a encore rien accepté et le premier essai est prévu jeudi."
       },
       "clinical_focus": "Méfiance dans les échanges",
-      "clinical_intro": "En voyant son créneau barré, Zéphyr en vient à penser qu’on cherche à l’écarter. Il se prépare à quitter la discussion avant de savoir ce qui a été décidé. Dans le trouble schizotypique, une méfiance durable peut rendre les intentions des autres difficiles à interpréter. Distinguer le fait, la crainte et ses effets aide à comprendre le poids de ce moment."
+      "clinical_intro": "En voyant son créneau barré, Zéphyr en vient à penser qu’on cherche à l’écarter. Il se prépare à quitter la discussion avant de savoir ce qui a été décidé. Dans le trouble schizotypique, une méfiance durable peut rendre les intentions des autres difficiles à interpréter. Distinguer le fait, la crainte et ses effets aide à comprendre le poids de ce moment.",
+      "conclusion": "Le musée a bien barré un créneau. Zéphyr obtient une réponse sur la suite sans avoir à décider ce que Basile pensait. Le tabouret qu’il découvre marque un nouvel essai. La crainte qu’il a ressentie devant le tableau reste un sujet possible de suivi."
     },
     {
       "number": 2,
@@ -70,17 +127,73 @@
         {
           "role": "explanation",
           "heading": "Quand le détour imagé fait perdre le premier geste",
-          "text": "Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi."
+          "text": "Une explication très imagée peut aider quelqu’un à retenir une idée et, si les détours se multiplient, rendre la première consigne difficile à repérer. Dans le trouble schizotypique, un discours circonstancié peut compliquer certains échanges. Une comparaison originale ne suffit pas à indiquer une difficulté clinique. Chez Zéphyr, la maison a un sens précis. Loïc ne sait pas encore à quelle pièce ni à quel geste la rattacher."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.\n\nDans le trouble schizotypique, une parole qui multiplie les détours, devient difficile à suivre ou se charge d’images peut compter parmi des difficultés durables. Ce n’est pas le fait d’employer une métaphore qui a une valeur clinique. Le retentissement sur les échanges et le contexte plus large comptent. L’image de la maison peut même devenir utile si Loïc sait où regarder et ce qu’il cherche à faire."
+          "heading": "Comment les détours dans un discours compliquent-ils une démonstration ?",
+          "points": [
+            {
+              "heading": "Une image arrive avant son repère",
+              "text": "L’image devient difficile à suivre quand l’auditeur ignore encore ce qu’elle désigne.",
+              "examples": [
+                "Zéphyr parle de l’adresse de la roue avant que Loïc ait repéré son emplacement.",
+                "Une personne évoque le « cœur » d’un outil avant de dire quelle pièce elle a dans la main."
+              ]
+            },
+            {
+              "heading": "Les précisions déplacent l’attention",
+              "text": "Plusieurs détails exacts peuvent se concurrencer au moment où l’autre cherche une consigne.",
+              "examples": [
+                "L’évocation de l’horloge ouverte détourne Loïc de la petite platine.",
+                "En expliquant un trajet, quelqu’un décrit deux anciens arrêts alors qu’un visiteur veut savoir où descendre."
+              ]
+            },
+            {
+              "heading": "L’incertitude se voit dans le geste",
+              "text": "Celui qui écoute peut agir au hasard pour éviter d’interrompre encore.",
+              "examples": [
+                "Loïc prend une boîte sans être sûr qu’elle contient la pièce demandée.",
+                "Une bénévole ouvre le classeur de gauche alors que l’instruction concernait la pochette posée dessus."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre la pièce avant son surnom",
-          "text": "Pour reprendre cet essai, Zéphyr peut indiquer la pièce sur la platine, annoncer une seule action et attendre de voir où va la main de Loïc. Après, il pourra raconter pourquoi il l’appelle ainsi. Il n’a pas à reprendre tout son cours ni à demander à son visiteur s’il a « compris », une question à laquelle on peut dire oui pour être poli. Demander « Qu’est-ce que tu ferais ensuite ? » lui apprend quelque chose sur sa consigne.\n\nDans un accompagnement psychologique, on peut partir de scènes où l’on voudrait se faire comprendre avec moins d’effort de part et d’autre. Le but se choisit avec la personne. Ici, Zéphyr veut continuer à parler à sa manière et apprendre à repérer le moment où l’autre cherche encore le premier pas. Le support de laiton lui sert pour enseigner ; personne ne lui demande de s’en servir pour mesurer son état de santé."
+          "heading": "3 techniques pour garder le premier geste compréhensible",
+          "points": [
+            {
+              "heading": "Commencer par montrer",
+              "objective": "Donner un repère à partir duquel l’autre pourra écouter.",
+              "exercise": [
+                "Choisissez le premier geste indispensable.",
+                "Nommez l’objet en le désignant.",
+                "Laissez à l’autre le temps de le regarder avant d’ajouter une image."
+              ],
+              "benefit": "Le mot et le geste se rapportent alors à la même chose."
+            },
+            {
+              "heading": "Faire préciser le point d’arrêt",
+              "objective": "Comprendre à quel moment l’explication a cessé d’aider.",
+              "exercise": [
+                "Demandez quelle action la personne s’apprêtait à faire.",
+                "Reprenez à l’endroit qu’elle indique.",
+                "Proposez-lui de poursuivre ou de s’arrêter là."
+              ],
+              "benefit": "La réponse donne une indication sur la consigne sans juger la façon de parler."
+            },
+            {
+              "heading": "Préparer une fiche en deux temps",
+              "objective": "Conserver une comparaison utile en évitant de la superposer à la consigne.",
+              "exercise": [
+                "Écrivez l’action seule sur une face.",
+                "Placez l’image et ses détails sur l’autre.",
+                "Essayez les deux faces avec une personne d’accord pour vous dire où elle hésite."
+              ],
+              "benefit": "La fiche permet de retrouver le geste sans appauvrir le vocabulaire de la démonstration."
+            }
+          ]
         }
       ],
       "ending_title": "Retourner la fiche",
@@ -97,7 +210,8 @@
         "next": "Loïc a réussi à repérer l’emplacement sur la platine, mais pas encore à faire tourner les deux roues. Zéphyr présentera la fiche à deux faces au bureau."
       },
       "clinical_focus": "Discours circonstancié",
-      "clinical_intro": "Pour montrer une seule vis, Zéphyr passe par l’image d’une maison puis par la tournée d’un facteur. Loïc ne sait plus quoi prendre. Dans le trouble schizotypique, une parole très imagée ou chargée de détours peut compliquer l’échange. La difficulté se voit dans ce que chacun comprend, dans la gêne qui suit et dans la possibilité de retrouver un premier geste commun."
+      "clinical_intro": "Pour montrer une seule vis, Zéphyr passe par l’image d’une maison puis par la tournée d’un facteur. Loïc ne sait plus quoi prendre. Dans le trouble schizotypique, une parole très imagée ou chargée de détours peut compliquer l’échange. La difficulté se voit dans ce que chacun comprend, dans la gêne qui suit et dans la possibilité de retrouver un premier geste commun.",
+      "conclusion": "La difficulté se voit quand Loïc prend la mauvaise boîte. Dès qu’il a l’emplacement sous les yeux, l’idée d’adresse lui parle. Zéphyr emporte au bureau une fiche qui conserve cette image et distingue le moment où elle aide."
     },
     {
       "number": 3,
@@ -115,17 +229,73 @@
         {
           "role": "explanation",
           "heading": "L’histoire derrière le geste",
-          "text": "Le sens d’un geste ou d’une conviction se comprend dans l’histoire et le milieu de la personne qui le partage. Le guide de la CIM-11 invite à en tenir compte : ce qui surprend quelqu’un d’extérieur peut être ordinaire dans un groupe culturel ou religieux. Une habitude de famille peut aussi avoir plusieurs sens pour ceux qui la gardent. Agnès sonne la cloche pour faire une place à sa mère et à Jeannette dans l’année. Elle peut raconter leurs mots sans demander à son frère ni aux visiteurs de croire la même chose."
+          "text": "Le sens d’un geste familial ou d’une conviction se comprend dans l’histoire et le milieu où on les partage. Dans l’évaluation du trouble schizotypique, le contexte culturel compte avec les autres difficultés éventuelles et leur effet dans la vie de la personne. Le fait qu’un rituel surprenne un visiteur ne lui donne pas une signification clinique. Agnès et Zéphyr peuvent parler de la cloche sans lui attribuer exactement le même sens."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette cuisine, le problème immédiat est la moquerie de Zéphyr et son effet sur Agnès. Les difficultés plus anciennes de Zéphyr à se sentir à l’aise dans les échanges font partie de son histoire ; elles ne changent pas la signification de chaque souvenir. L’originalité de sa façon de parler et la croyance d’un proche s’éclairent ici par leur histoire commune."
+          "heading": "Comment la crainte du jugement change-t-elle la façon de raconter un rituel ?",
+          "points": [
+            {
+              "heading": "On surveille les mots qu’on prononce",
+              "text": "La peur de la moquerie peut pousser à s’interrompre avant de dire ce que le geste signifie.",
+              "examples": [
+                "Zéphyr hésite devant les mots de leur mère à propos de Jeannette.",
+                "À un repas, quelqu’un commence à expliquer un chant de deuil puis passe directement à la recette."
+              ]
+            },
+            {
+              "heading": "On se protège au prix d’un malentendu",
+              "text": "Une plaisanterie peut protéger de l’embarras et être entendue comme une moquerie par un proche.",
+              "examples": [
+                "Le rire de Zéphyr blesse Agnès, pour qui la cloche garde une place.",
+                "Une personne plaisante sur une photo commémorative et sa sœur croit qu’elle méprise le souvenir."
+              ]
+            },
+            {
+              "heading": "Les limites du partage se précisent",
+              "text": "Une famille peut accepter que l’on raconte une tradition tout en gardant le geste ou l’objet chez elle.",
+              "examples": [
+                "Agnès est prête à écrire une légende mais garde la cloche sur son buffet.",
+                "Deux proches autorisent le récit d’une recette de fête et préfèrent conserver l’enregistrement du repas."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une part à la maison",
-          "text": "Pour faire place à ce qu’Agnès veut transmettre, son frère peut lui demander ce qu’elle tient à garder dans la légende et ce qu’elle préfère réserver à la famille. Ils peuvent choisir une phrase au lieu de prêter l’objet. Le visiteur entendra alors un récit situé, sans avoir à dire ce qu’il croit. Il pourra, s’il le souhaite, parler à son tour d’un objet qu’il aurait reconnu au bruit.\n\nLa gêne de Zéphyr mérite aussi une place. Il peut dire « j’ai cru qu’on allait se moquer de nous » et écouter la réponse, même si elle est désagréable. Quand la peur du jugement pèse souvent sur des échanges qui comptent, une scène comme celle-ci peut servir de point de départ en consultation. La relation avec sa sœur a son propre enjeu : réparer le tort qu’elle vient de nommer."
+          "heading": "3 techniques pour parler d’une tradition à son rythme",
+          "points": [
+            {
+              "heading": "Recueillir les mots de chacun",
+              "objective": "Laisser plusieurs sens coexister dans le récit.",
+              "exercise": [
+                "Demandez à un proche ce que le geste lui rappelle.",
+                "Dites ce qu’il évoque pour vous.",
+                "Gardez les mots propres à chacun si vos réponses divergent."
+              ],
+              "benefit": "Le contexte devient plus facile à raconter sans exiger une croyance commune."
+            },
+            {
+              "heading": "Définir ce qui peut être montré",
+              "objective": "Respecter le droit des personnes concernées à garder une part privée.",
+              "exercise": [
+                "Distinguez un texte, un objet et un enregistrement.",
+                "Demandez un accord pour ce que vous envisagez de rendre public.",
+                "Relisez la version retenue et renoncez aux éléments que l’autre souhaite garder."
+              ],
+              "benefit": "Un accord précis permet de raconter une histoire sans engager le proche au-delà de ce qu’il a choisi."
+            },
+            {
+              "heading": "Revenir sur une plaisanterie qui a blessé",
+              "objective": "Rétablir l’échange quand la gêne a masqué l’intention.",
+              "exercise": [
+                "Nommez la parole ou le rire qui a fait réagir l’autre.",
+                "Écoutez ce qu’il ou elle y a entendu.",
+                "Dites ce que vous regrettez et laissez le temps d’y répondre."
+              ],
+              "benefit": "Cette conversation donne sa place à la blessure sans transformer la tradition en débat."
+            }
+          ]
         }
       ],
       "ending_title": "Une phrase, la cloche reste",
@@ -142,7 +312,8 @@
         "next": "La légende sera disponible pour la démonstration, avec l’accord d’Agnès ; aucun objet ou enregistrement familial n’a été promis."
       },
       "clinical_focus": "Crainte du jugement et contexte culturel",
-      "clinical_intro": "Zéphyr hésite à parler d’une cloche qui compte pour sa famille. Il s’attend à la moquerie et sous-estime ce que le geste signifie pour Agnès. Dans l’évaluation du trouble schizotypique, une conviction s’apprécie au regard de son contexte culturel, de sa place dans la vie et des autres difficultés éventuelles. Le rituel partagé prend son sens dans leur histoire familiale."
+      "clinical_intro": "Zéphyr hésite à parler d’une cloche qui compte pour sa famille. Il s’attend à la moquerie et sous-estime ce que le geste signifie pour Agnès. Dans l’évaluation du trouble schizotypique, une conviction s’apprécie au regard de son contexte culturel, de sa place dans la vie et des autres difficultés éventuelles. Le rituel partagé prend son sens dans leur histoire familiale.",
+      "conclusion": "La cloche reste chez Agnès. Ce qui ira au musée tient dans la phrase qu’elle a choisie, avec son présent et ses limites. La peur de Zéphyr d’être jugé a pesé sur l’échange. Le sens de la tradition appartient à leur histoire."
     },
     {
       "number": 4,
@@ -160,17 +331,73 @@
         {
           "role": "explanation",
           "heading": "Le détail qu’on aurait pu taire",
-          "text": "Une consultation peut commencer par une scène ordinaire où l’on voit ce qu’une difficulté change dans la vie. Le fromage manque au marché à la fin de la matinée. Ce qui compte pour Zéphyr, c’est d’y être allé trop tard à force de déplacer son départ. Il peut dire ce qu’il craignait et ce qu’il a fait, même s’il hésite encore sur les intentions des personnes qu’il évitait."
+          "text": "La rumination consiste à revenir de façon répétée sur une scène ou une question qui reste ouverte. Lorsque la méfiance et les difficultés relationnelles se prolongent, comme cela peut arriver dans le trouble schizotypique, ce retour peut finir par déplacer des activités ordinaires. Zéphyr peut en parler à Sonia en prenant pour exemple l’heure du marché. Il n’a pas besoin de trancher ce que les autres ont pensé pour décrire les sorties qu’il a retardées."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Son trouble schizotypique est connu depuis plusieurs années. La CIM-11 décrit un ensemble durable de difficultés qui peuvent toucher la manière de parler, d’interpréter ou de percevoir les choses, et les relations. Le professionnel tient compte de la souffrance, du retentissement et des autres explications possibles. Un diagnostic connu peut donner des mots à une partie de ce que Zéphyr traverse. Il laisse ouverte la question de savoir pourquoi un collègue a réagi de telle manière à une réunion."
+          "heading": "Comment la rumination après un échange prend-elle du temps sur la journée ?",
+          "points": [
+            {
+              "heading": "Les mêmes mots reviennent",
+              "text": "Un détail paraît promettre une explication et ramène sans cesse au même échange.",
+              "examples": [
+                "Zéphyr reprend les phrases de Basile le dimanche.",
+                "Une remarque entendue en fin de réunion occupe de nouveau une personne au moment de préparer le dîner."
+              ]
+            },
+            {
+              "heading": "La suite se joue dans la tête",
+              "text": "Imaginer ce que d’autres vont raconter prolonge une conversation qui est déjà terminée.",
+              "examples": [
+                "Zéphyr se demande plusieurs soirs si Loïc parlera de sa démonstration au café.",
+                "Après une présentation écourtée, quelqu’un consacre son trajet à imaginer ce que ses collègues se disent."
+              ]
+            },
+            {
+              "heading": "Une activité attend de pouvoir commencer",
+              "text": "Lorsque la réflexion se prolonge, elle peut prendre la place de quelque chose qui compte.",
+              "examples": [
+                "Zéphyr repousse sa sortie et arrive trop tard pour le fromage.",
+                "Une personne réécrit mentalement sa réponse jusqu’à manquer le début d’une répétition."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer ce qu’on voudrait pouvoir faire",
-          "text": "Zéphyr souhaite retrouver le marché à son heure habituelle ; au musée, il veut pouvoir terminer une présentation avant que le bureau discute de son projet. Ce sont deux objectifs distincts. Avec Sonia, il peut choisir lequel aborder d’abord et lui dire quand une suggestion lui paraît trop coûteuse ou mal adaptée. Un accompagnement psychologique peut s’appuyer sur des exemples concrets et travailler des façons de faire qui comptent dans les échanges. Il ne donne pas de réponse certaine sur ce que les autres pensent.\n\nPour la réunion, Zéphyr choisit de demander à recevoir les questions à l’avance quand c’est possible. Il peut le demander pour des raisons de travail, sans raconter le samedi du marché. Avec son service de soins, il peut aussi décider comment reprendre contact si ce qu’il vit change ou lui prend beaucoup plus de place dans la journée. Une décision ne tient pas lieu de l’autre."
+          "heading": "3 techniques pour retrouver une activité malgré une question ouverte",
+          "points": [
+            {
+              "heading": "Nommer le moment perdu",
+              "objective": "Rendre visible ce que les pensées répétées changent concrètement.",
+              "exercise": [
+                "Repérez quand vous êtes revenu sur le même échange.",
+                "Rappelez-vous ce que vous aviez prévu à ce moment.",
+                "Notez si l’activité a commencé, attendu ou été annulée."
+              ],
+              "benefit": "Un exemple délimité donne un sujet à examiner sans reprendre toute la conversation."
+            },
+            {
+              "heading": "Préserver le prochain départ",
+              "objective": "Garder une activité choisie quand la réponse ne dépend pas de vous.",
+              "exercise": [
+                "Choisissez une sortie que vous aimeriez faire.",
+                "Fixez un repère pour partir, par exemple l’heure du bus.",
+                "Si la question reste présente, gardez-la pour un moment défini où vous pourrez en parler."
+              ],
+              "benefit": "Le départ peut redevenir possible avant que toute incertitude soit levée."
+            },
+            {
+              "heading": "Apporter une scène au rendez-vous",
+              "objective": "Parler de la répétition sans devoir expliquer toutes les intentions.",
+              "exercise": [
+                "Choisissez un jour dont vous vous souvenez.",
+                "Dites ce qui revenait et ce que vous avez manqué.",
+                "Convenez avec le professionnel du moyen de le joindre si la difficulté change."
+              ],
+              "benefit": "L’équipe dispose d’un exemple et vous savez où demander un avis si le retentissement augmente."
+            }
+          ]
         }
       ],
       "ending_title": "Deux lignes sur deux papiers",
@@ -187,7 +414,8 @@
         "next": "Sonia reste sa psychologue référente ; Zéphyr garde le contact du secrétariat pour une difficulté qui change. Maud connaît la demande de commencer par la démonstration."
       },
       "clinical_focus": "Rumination après un échange",
-      "clinical_intro": "Zéphyr retarde son départ au marché à force d’examiner ce que les autres pourraient penser de lui. L’épisode fait apparaître le coût de la rumination dans le trouble schizotypique. À force de revenir sur une intention incertaine, il perd le moment où il peut sortir. Cette conséquence concrète donne à sa psychologue un point de départ pour parler de la difficulté."
+      "clinical_intro": "Zéphyr retarde son départ au marché à force d’examiner ce que les autres pourraient penser de lui. L’épisode fait apparaître le coût de la rumination dans le trouble schizotypique. À force de revenir sur une intention incertaine, il perd le moment où il peut sortir. Cette conséquence concrète donne à sa psychologue un point de départ pour parler de la difficulté.",
+      "conclusion": "Zéphyr peut commencer avec une matinée de marché manquée. Sonia entend ainsi ce que prennent ces retours sur les échanges, au-delà de la question de savoir qui pensait quoi. Dans le bus, il trouve aussi une demande concrète à adresser à Maud."
     },
     {
       "number": 5,
@@ -205,17 +433,73 @@
         {
           "role": "explanation",
           "heading": "Une voix égale et beaucoup à dire",
-          "text": "La façon dont une émotion se voit ou s’entend donne parfois peu d’indications sur ce que la personne éprouve. Zéphyr pensait signifier qu’il avait entendu la limite de budget. Basile croit entendre que le projet ne l’intéresse guère. La différence est concrète : si les tasses repartent en cuisine, les dates ne seront pas discutées et l’atelier perdra du temps."
+          "text": "Une voix égale ou un visage peu expressif peuvent donner peu d’indications sur ce que la personne éprouve. Une expression émotionnelle discrète peut faire partie des manifestations du trouble schizotypique, mais une expression seule ne dit ni l’intensité du ressenti ni l’intérêt pour une activité. Basile croit que la décision laisse Zéphyr indifférent alors que celui-ci cherche comment garder une date pour l’atelier."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’expression peu visible des émotions fait partie des manifestations possibles du trouble schizotypique. Le guide de la CIM-11 l’inscrit dans un ensemble plus large. On ne peut pas partir du ton d’une réponse pour savoir si une personne tient à ce qu’elle propose, ni pour attribuer sa réserve à un trouble. Basile peut avoir besoin de savoir s’il y a un accord sur le budget. Zéphyr peut vouloir que cette question lui soit posée au lieu d’être réglée d’après sa voix."
+          "heading": "Comment une expression discrète peut-elle masquer l’intérêt ?",
+          "points": [
+            {
+              "heading": "Une réponse calme paraît tiède",
+              "text": "On peut accueillir une nouvelle importante sans que le ton en change beaucoup.",
+              "examples": [
+                "Basile entend dans la réponse de Zéphyr peu d’envie de poursuivre.",
+                "Lors d’un entretien, une réponse brève à une proposition de mission est prise pour un refus de s’y intéresser."
+              ]
+            },
+            {
+              "heading": "L’engagement se voit ailleurs",
+              "text": "Le soin mis dans un geste ou une préparation peut témoigner d’un intérêt peu audible.",
+              "examples": [
+                "Zéphyr a préparé le mouvement des roues et serre encore sa fiche.",
+                "Une bénévole réunit tout le matériel avant d’annoncer d’une voix égale qu’elle tient à faire l’accueil."
+              ]
+            },
+            {
+              "heading": "Le malentendu pèse sur la décision",
+              "text": "Quand on croit le désaccord ou le désintérêt réglé, on peut interrompre la discussion trop tôt.",
+              "examples": [
+                "Basile s’apprête à passer à la suite avant que Zéphyr ait parlé des dates.",
+                "Une collègue commence à ranger les chaises alors qu’un participant voulait encore discuter d’un créneau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre le point avant les tasses",
-          "text": "Une précision sur le désaccord suffit ici pour continuer. « J’accepte qu’on n’achète rien pour l’instant. Je veux quand même choisir les deux dates. » Avec ces mots, les membres du bureau peuvent discuter de ce qu’ils ont à décider. Zéphyr n’a pas à afficher de l’enthousiasme à chaque intervention pour rendre son projet crédible. En retour, il doit écouter ce que les deux dates demandent à l’accueil et à la salle.\n\nDans un accompagnement psychologique, on peut revoir des malentendus fréquents et travailler les réponses que la personne trouve à la fois utiles et supportables. Au travail, les collègues ont aussi une marge : faire préciser un « d’accord », dire ce qui leur manque pour décider, et permettre à quelqu’un de reprendre la parole s’ils l’ont compris trop vite."
+          "heading": "3 techniques pour vérifier l’intérêt avant de clore un échange",
+          "points": [
+            {
+              "heading": "Dire ce qui compte dans la décision",
+              "objective": "Rendre son intérêt audible par une demande précise.",
+              "exercise": [
+                "Choisissez le point qui vous importe.",
+                "Précisez que vous voulez garder les deux essais.",
+                "Ajoutez la question qu’il reste à résoudre pour y arriver."
+              ],
+              "benefit": "L’interlocuteur peut répondre au projet sans devoir interpréter votre ton."
+            },
+            {
+              "heading": "Demander ce que l’autre souhaite",
+              "objective": "Vérifier une impression de désintérêt auprès de la personne.",
+              "exercise": [
+                "Repérez la conclusion que vous êtes sur le point de tirer.",
+                "Posez une question sur la décision à prendre.",
+                "Laissez la personne répondre à son rythme."
+              ],
+              "benefit": "La réponse peut faire apparaître une préférence que le visage ou la voix laissaient peu voir."
+            },
+            {
+              "heading": "Garder une trace de l’accord",
+              "objective": "Donner à chacun la possibilité de corriger ce qui a été compris.",
+              "exercise": [
+                "Notez le nombre de séances ou l’engagement discuté.",
+                "Relisez-le ensemble avant de ranger.",
+                "Demandez s’il manque une décision importante."
+              ],
+              "benefit": "La trace commune protège la suite d’un malentendu sur l’implication de quelqu’un."
+            }
+          ]
         }
       ],
       "ending_title": "Deux dates au procès-verbal",
@@ -232,7 +516,8 @@
         "next": "Les deux séances du samedi auront trois adultes sur inscription. Maud assure l’accueil pour ces deux dates, sans promettre la suite."
       },
       "clinical_focus": "Expression émotionnelle discrète",
-      "clinical_intro": "Basile croit que Zéphyr se désintéresse de l’atelier parce que sa voix change à peine. Sous la table, Zéphyr serre sa fiche et cherche comment défendre la date. Une expression peu visible peut faire partie du vécu du trouble schizotypique. Ce décalage importe quand les autres déduisent la motivation d’une personne de son visage ou de son ton."
+      "clinical_intro": "Basile croit que Zéphyr se désintéresse de l’atelier parce que sa voix change à peine. Sous la table, Zéphyr serre sa fiche et cherche comment défendre la date. Une expression peu visible peut faire partie du vécu du trouble schizotypique. Ce décalage importe quand les autres déduisent la motivation d’une personne de son visage ou de son ton.",
+      "conclusion": "La voix de Zéphyr n’a pas besoin de changer pour que sa préférence soit entendue. Il précise qu’il tient aux essais, et le bureau peut alors discuter de leur nombre et de leurs limites. Sa fiche reprend sa place dans la pochette de la platine."
     },
     {
       "number": 6,
@@ -250,17 +535,73 @@
         {
           "role": "explanation",
           "heading": "Le retrait soulage sur le moment et laisse la reprise ouverte",
-          "text": "Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions. Zéphyr perd le moment où il en était et quitte la pièce. Pour lui, c’est une façon de se dégager du brouhaha. Les personnes assises n’ont reçu aucune indication sur ce qui arrive ensuite."
+          "text": "Une conversation qui change soudain de taille ou de rythme peut devenir difficile à suivre, même quand la tâche était familière. Dans le trouble schizotypique, les difficultés à prendre ou à garder sa place dans les échanges peuvent contribuer au retrait. Sortir réduit ici le bruit pour Zéphyr et laisse le groupe dans l’incertitude. La consigne prévue pour trois personnes ne suffisait plus lorsque d’autres visiteurs sont entrés."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Les difficultés relationnelles et le retrait peuvent faire partie du trouble schizotypique, avec des variations au fil du temps. La scène montre ce qui arrive à Zéphyr dans cette configuration, sans faire du bruit ou de l’imprévu des signes du trouble. La flèche trompeuse est un problème réel d’organisation. Revoir la situation demande de s’occuper à la fois de l’accueil, de l’effet sur les visiteurs et de ce que Zéphyr peut reprendre ce matin-là."
+          "heading": "Comment le retrait se produit-il quand plusieurs personnes parlent ?",
+          "points": [
+            {
+              "heading": "Le cadre bouge en cours de tâche",
+              "text": "Des interlocuteurs imprévus peuvent modifier la difficulté avant que l’on trouve comment leur répondre.",
+              "examples": [
+                "Des visiteurs suivent la flèche pendant que les inscrits regardent les roues.",
+                "Une table de travail à deux devient une discussion de groupe quand d’autres personnes s’y arrêtent."
+              ]
+            },
+            {
+              "heading": "Le fil de la consigne s’efface",
+              "text": "Les questions concurrentes peuvent prendre la place du geste qu’on allait montrer.",
+              "examples": [
+                "Zéphyr ne retrouve plus l’étape où les trois inscrits en étaient.",
+                "En présentant une affiche, une personne répond à une question depuis le couloir et ne sait plus où reprendre."
+              ]
+            },
+            {
+              "heading": "Le départ laisse deux besoins différents",
+              "text": "La personne cherche un répit. Ceux qui restent ont besoin de savoir ce qu’ils doivent faire.",
+              "examples": [
+                "Zéphyr quitte l’atelier et Loïc ne sait pas si la séance va reprendre.",
+                "Dans une réunion, un participant sort et les autres continuent à attendre sa réponse à la proposition."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qu’il est possible de poursuivre",
-          "text": "Maud peut donner une information courte : le groupe a rejoint la visite et les trois personnes sont encore assises. Avec Zéphyr, elle peut décider s’il reprend une seule démonstration ou si elle annonce la fin de la séance. Continuer par politesse peut laisser tout le monde dans le flou. Arrêter a aussi un coût : les inscrits ont donné de leur temps et risquent de ne pas revenir. Une annonce claire leur permet au moins de décider ce qu’ils font de la fin de leur matinée.\n\nPour un autre essai, ils pourront convenir d’un relais avant d’ouvrir. Ce travail d’équipe laisse à Zéphyr la possibilité de reparler, en consultation s’il le souhaite, de l’effort que lui a demandé la scène. La décision immédiate sur la séance appartient aux personnes qui l’assurent."
+          "heading": "3 techniques pour organiser une pause quand l’échange déborde",
+          "points": [
+            {
+              "heading": "Protéger l’accès prévu",
+              "objective": "Garder le cadre dans lequel une activité a été préparée.",
+              "exercise": [
+                "Indiquez où les inscrits doivent se présenter.",
+                "Désignez qui accueille les personnes qui arrivent par erreur.",
+                "Vérifiez le trajet depuis le hall avant l’ouverture."
+              ],
+              "benefit": "La consigne de travail a plus de chances de rester adaptée au nombre de participants."
+            },
+            {
+              "heading": "Donner un signal de pause",
+              "objective": "Permettre un arrêt sans laisser le groupe deviner la suite.",
+              "exercise": [
+                "Choisissez une phrase que vous pourrez dire même brièvement.",
+                "Convenez de qui annonce la suite si vous devez sortir.",
+                "Précisez au groupe s’il attend une reprise ou si la séance s’arrête."
+              ],
+              "benefit": "La personne peut quitter la pièce et le public sait à quoi s’en tenir."
+            },
+            {
+              "heading": "Préparer la reprise avec les personnes concernées",
+              "objective": "Tenir compte à la fois de la gêne et du temps engagé par le groupe.",
+              "exercise": [
+                "Recueillez ce qui est arrivé à l’entrée.",
+                "Demandez quelles informations manquent aux participants.",
+                "Annoncez une nouvelle date seulement quand l’équipe peut l’assurer."
+              ],
+              "benefit": "Ce retour aide à corriger une condition de l’accueil sans promettre une séance impossible à tenir."
+            }
+          ]
         }
       ],
       "ending_title": "L’annonce dans l’embrasure",
@@ -277,7 +618,8 @@
         "next": "Loïc, Farah et Gil n’ont pas terminé la démonstration. La deuxième date n’est pas encore modifiée ; l’accès des seuls inscrits et le passage de relais restent à régler."
       },
       "clinical_focus": "Retrait dans l’échange",
-      "clinical_intro": "Des visiteurs s’ajoutent au groupe et Zéphyr quitte la pièce quand il perd le fil de sa démonstration. Le retrait peut réduire la pression sur le moment et laisser une conversation en suspens. Dans le trouble schizotypique, les difficultés à trouver sa place dans les échanges peuvent peser durablement sur les relations. L’atelier montre ce que laisse en suspens un départ brusque et pourquoi Zéphyr et Maud ont besoin d’en reparler."
+      "clinical_intro": "Des visiteurs s’ajoutent au groupe et Zéphyr quitte la pièce quand il perd le fil de sa démonstration. Le retrait peut réduire la pression sur le moment et laisser une conversation en suspens. Dans le trouble schizotypique, les difficultés à trouver sa place dans les échanges peuvent peser durablement sur les relations. L’atelier montre ce que laisse en suspens un départ brusque et pourquoi Zéphyr et Maud ont besoin d’en reparler.",
+      "conclusion": "La sortie de Zéphyr réduit le brouhaha pour lui, mais ne règle pas l’attente de Loïc. Annoncer l’arrêt donne une réponse pour cette matinée. La flèche et la façon d’accueillir les inscrits restent à revoir avant de recommencer."
     },
     {
       "number": 7,
@@ -295,17 +637,73 @@
         {
           "role": "explanation",
           "heading": "Distinguer la maladresse réelle et la peur de ce qu’elle annonce",
-          "text": "On peut avoir une raison précise de se sentir exposé sans savoir ce que les autres feront de l’information. Dans ce bureau, Maud a parlé de Zéphyr au lieu de raconter ce qui est arrivé à l’entrée. Cette maladresse mérite une réponse. La crainte qu’on décide désormais de tout sans lui ne se vérifie pas dans la phrase de Maud. Les deux choses peuvent être abordées séparément."
+          "text": "Un compte rendu peut exposer une personne en attribuant à ses caractéristiques ce qui s’est passé dans une activité. Dans le trouble schizotypique, la crainte de ce que les autres feront de cette information peut prendre une grande place. La phrase de Maud pose un problème concret de confidentialité. Elle ne montre pas qu’une décision a déjà été prise contre Zéphyr. Ces deux préoccupations peuvent recevoir des réponses différentes."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une méfiance persistante peut faire partie du trouble schizotypique. L’évaluation clinique s’appuie sur la situation de la personne et sur ce qui se répète dans sa vie. Le diagnostic de Zéphyr ne retire rien à sa possibilité de critiquer un compte rendu. Ce jour-là, il demande un changement précis : décrire l’incident et les besoins d’organisation sans lui coller une définition."
+          "heading": "Comment le sentiment d’exposition change-t-il la lecture d’un compte rendu ?",
+          "points": [
+            {
+              "heading": "Le texte décrit la personne plutôt que l’incident",
+              "text": "Une formulation personnelle peut prendre la place de faits que plusieurs personnes ont vus.",
+              "examples": [
+                "Le compte rendu parle de ce que Zéphyr supporterait et ne dit rien de la flèche.",
+                "Une note d’équipe dit qu’un bénévole « se braque » au lieu d’indiquer que les horaires ont été changés sans le prévenir."
+              ]
+            },
+            {
+              "heading": "Le document semble annoncer d’autres décisions",
+              "text": "Une phrase que l’on n’a pas choisie peut faire craindre de perdre la main sur la suite.",
+              "examples": [
+                "Zéphyr redoute que le bureau organise désormais l’atelier sans lui.",
+                "Une personne lit une remarque sur sa réserve et se demande si on lui retirera ses entretiens avec le public."
+              ]
+            },
+            {
+              "heading": "Corriger une phrase ne suffit pas toujours à apaiser",
+              "text": "On peut vérifier une correction sans retrouver aussitôt confiance dans la circulation de l’information.",
+              "examples": [
+                "Zéphyr surveille la ligne jusqu’à la fermeture du document.",
+                "Une bénévole valide une nouvelle version puis demande encore qui reçoit le compte rendu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire l’incident et l’accord",
-          "text": "L’équipe a besoin de savoir que des visiteurs non inscrits ont suivi la flèche, que la séance s’est arrêtée et que le prochain accueil demande une personne à la porte. Elle peut le dire ainsi. Les inscrits ont surtout besoin de savoir quand ils auront une nouvelle et comment confirmer leur place. Les deux messages peuvent être exacts avec des contenus différents. Pour réparer l’échange, Maud peut reconnaître ce qu’elle a déjà dit et proposer un correctif, sans garantir que personne n’en reparlera.\n\nSi Zéphyr veut qu’un proche participe un jour à un entretien de soin, il pourra décider avec son équipe de ce qu’il souhaite partager. Au musée, il peut convenir d’un relais concret et garder ses consultations privées. Dans les deux cadres, il est utile de savoir qui recevra quel renseignement et à quoi il servira."
+          "heading": "3 techniques pour reprendre la main sur les informations partagées",
+          "points": [
+            {
+              "heading": "Décrire l’incident par des faits",
+              "objective": "Conserver l’information nécessaire à l’organisation.",
+              "exercise": [
+                "Repérez la phrase qui parle de vous.",
+                "Proposez un fait que l’équipe peut vérifier.",
+                "Relisez le résultat avec la personne qui rédige."
+              ],
+              "benefit": "Le rapport peut expliquer ce qui doit changer sans exposer davantage la personne."
+            },
+            {
+              "heading": "Nommer le destinataire et le besoin",
+              "objective": "Définir ce qui peut être transmis et à qui.",
+              "exercise": [
+                "Demandez qui recevra le texte.",
+                "Distinguez les informations utiles à chaque destinataire.",
+                "Donnez ou refusez votre accord pour ce qui vous concerne."
+              ],
+              "benefit": "Le public, le bureau et les collègues peuvent recevoir des réponses différentes selon leur rôle."
+            },
+            {
+              "heading": "Demander une place dans la décision",
+              "objective": "Préserver le choix que la personne veut encore exercer.",
+              "exercise": [
+                "Nommez la décision qui reste ouverte.",
+                "Dites à quel moment vous voulez y participer.",
+                "Convenez de la personne qui vous avertira avant de la prendre."
+              ],
+              "benefit": "L’accord répond à une inquiétude concrète sans prétendre connaître les intentions de toute l’équipe."
+            }
+          ]
         }
       ],
       "ending_title": "La flèche revient dans la phrase",
@@ -322,7 +720,8 @@
         "next": "Le bureau reçoit les faits et la proposition d’accueillir les inscrits dans le hall. Les visiteurs attendent une confirmation pour le deuxième samedi ; Maud garde les échanges de santé hors du projet."
       },
       "clinical_focus": "Sentiment d’exposition",
-      "clinical_intro": "Maud écrit que Zéphyr supporte mal les groupes. Il lit une information personnelle qu’il n’a pas choisi de partager et redoute qu’on lui retire des décisions. Avec un trouble schizotypique, les intentions prêtées aux autres peuvent devenir très préoccupantes. La scène distingue ce que Maud a réellement écrit, la peur que cette phrase réveille et la limite que Zéphyr peut poser."
+      "clinical_intro": "Maud écrit que Zéphyr supporte mal les groupes. Il lit une information personnelle qu’il n’a pas choisi de partager et redoute qu’on lui retire des décisions. Avec un trouble schizotypique, les intentions prêtées aux autres peuvent devenir très préoccupantes. La scène distingue ce que Maud a réellement écrit, la peur que cette phrase réveille et la limite que Zéphyr peut poser.",
+      "conclusion": "Maud reconnaît qu’elle a mal décrit l’incident. Ils corrigent le texte et précisent ce qu’ils diront aux inscrits. Zéphyr reprend une place dans la préparation du second atelier, même si la première phrase continue de lui peser."
     },
     {
       "number": 8,
@@ -340,17 +739,73 @@
         {
           "role": "explanation",
           "heading": "Un changement qu’il est possible de décrire",
-          "text": "Des perceptions inhabituelles qui se répètent et gênent nettement la vie méritent un avis professionnel rapide, même si la personne ne sait pas les nommer. Zéphyr peut parler de ce qu’il a cru entendre, du moment où cela a commencé à revenir plus souvent et des effets sur ses repas et ses sorties. Il n’a pas à trouver seul l’origine du son pour que cette description soit utile."
+          "text": "Des perceptions auditives inhabituelles qui se répètent, suscitent de la détresse et gênent nettement la vie méritent un avis professionnel rapide. De telles expériences peuvent survenir dans le trouble schizotypique. Elles ne permettent pas, à elles seules, d’en connaître la cause ni de conclure à un épisode psychotique. Le fait que Zéphyr croie entendre son prénom compte pour l’équipe, tout comme la fréquence qui change et les repas ou sorties qu’il laisse passer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la CIM-11, le trouble schizotypique se distingue de la schizophrénie et d’autres troubles psychotiques. Certaines expériences d’allure psychotique peuvent être transitoires ; la distinction se fait lors d’une évaluation qui tient compte de l’intensité, de la durée, du retentissement et d’autres explications possibles. L’expérience de Zéphyr ne suffit pas à conclure qu’il traverse un épisode psychotique ou que son diagnostic a changé."
+          "heading": "Comment les perceptions inhabituelles prennent-elles de la place ?",
+          "points": [
+            {
+              "heading": "L’impression change de contexte",
+              "text": "Une expérience familière peut devenir préoccupante quand elle revient plus souvent ou dans d’autres circonstances.",
+              "examples": [
+                "Zéphyr croyait reconnaître des mots dans les bruits de l’immeuble. Il rapporte maintenant la même impression dans le calme.",
+                "Une personne signale que ce qu’elle croyait entendre dans une rue animée lui arrive aussi au moment de s’endormir."
+              ]
+            },
+            {
+              "heading": "L’attention reste fixée sur le bruit",
+              "text": "Chercher sans cesse à comprendre ce qui s’est passé peut accaparer l’attention.",
+              "examples": [
+                "Zéphyr laisse son repas refroidir en attendant de savoir ce qu’il a entendu.",
+                "Quelqu’un cesse de suivre une conversation parce qu’il surveille les bruits du couloir."
+              ]
+            },
+            {
+              "heading": "Les activités se réduisent",
+              "text": "Le retentissement se voit aussi dans ce qu’une personne ne fait plus.",
+              "examples": [
+                "Zéphyr renonce à des sorties et laisse passer deux dîners.",
+                "Une personne cesse d’aller à son rendez-vous hebdomadaire parce qu’elle a peur que l’impression se répète."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire appel à deux personnes pour deux besoins",
-          "text": "Le numéro gardé par Zéphyr lui permet de signaler au centre qu’une difficulté change et qu’attendre la séance habituelle ne lui convient plus. Le professionnel qui le reçoit peut reprendre les circonstances, l’état général et les difficultés récentes, puis décider avec lui de la suite du suivi. Agnès peut venir un moment s’il le souhaite. Elle n’a pas à établir la cause du bruit pour prendre sa peur au sérieux.\n\nPour l’atelier, une seule décision est nécessaire dans l’immédiat : maintenir la date ou prévenir les inscrits qu’elle est reportée. Zéphyr peut donner cette information à Maud sans lui envoyer le récit qu’il réserve au centre. Reporter l’essai ne tranche ni la question de sa santé ni l’avenir de son projet."
+          "heading": "3 techniques pour demander un avis quand une perception inhabituelle se répète",
+          "points": [
+            {
+              "heading": "Joindre rapidement l’équipe de soins",
+              "objective": "Obtenir une évaluation lorsque l’expérience change et gêne la vie.",
+              "exercise": [
+                "Appelez l’équipe ou le service indiqué sans attendre de trouver une explication.",
+                "Dites brièvement ce qui a changé et quelle activité vous n’arrivez plus à faire.",
+                "Suivez l’orientation donnée par le service."
+              ],
+              "benefit": "L’équipe peut évaluer la situation et décider du délai de la prochaine rencontre."
+            },
+            {
+              "heading": "Décrire l’expérience avec ses propres mots",
+              "objective": "Donner des éléments utiles sans chercher à nommer un symptôme.",
+              "exercise": [
+                "Dites « j’ai cru entendre » si cela décrit votre expérience.",
+                "Indiquez ce dont vous vous souvenez sur la répétition et les circonstances.",
+                "Précisez la conséquence qui vous inquiète le plus."
+              ],
+              "benefit": "La distinction entre vécu, contexte et retentissement aide à comprendre ce que la personne traverse."
+            },
+            {
+              "heading": "Confier l’organisation à un collègue",
+              "objective": "Dégager le temps nécessaire au rendez-vous et prévenir les visiteurs.",
+              "exercise": [
+                "Nommez la séance à reporter.",
+                "Convenez de ce que le collègue annonce et à qui.",
+                "Laissez la date suivante ouverte tant que l’équipe ne peut pas la confirmer."
+              ],
+              "benefit": "Le travail est pris en charge sans faire des collègues les enquêteurs de l’expérience ni leur transmettre de détails médicaux."
+            }
+          ]
         }
       ],
       "ending_title": "Un rendez-vous et une date à libérer",
@@ -368,7 +823,8 @@
         "next": "Le centre prévoit un suivi rapproché sans nouveau diagnostic annoncé. Les inscrits ont été informés du report, aucune autre date n’est fixée, et Agnès offre une présence ponctuelle."
       },
       "clinical_focus": "Perceptions auditives inhabituelles",
-      "clinical_intro": "Zéphyr croit entendre son prénom dans une pièce calme. Quand les impressions se répètent, il passe plus de temps à surveiller les bruits et renonce à certaines sorties. Des perceptions inhabituelles peuvent survenir dans le trouble schizotypique. Leur évolution, la détresse et la gêne qu’elles entraînent sont des raisons de demander un avis à l’équipe de soins, quelle que soit leur origine."
+      "clinical_intro": "Zéphyr croit entendre son prénom dans une pièce calme. Quand les impressions se répètent, il passe plus de temps à surveiller les bruits et renonce à certaines sorties. Des perceptions inhabituelles peuvent survenir dans le trouble schizotypique. Leur évolution, la détresse et la gêne qu’elles entraînent sont des raisons de demander un avis à l’équipe de soins, quelle que soit leur origine.",
+      "conclusion": "Zéphyr parle à l’équipe avant de savoir à quoi attribuer le son. Le rendez-vous du jour et le prochain contact répondent au changement qui le gêne. La séance est reportée. Le trajet à l’épicerie avec Agnès redevient une possibilité pour ce soir."
     },
     {
       "number": 9,
@@ -386,17 +842,73 @@
         {
           "role": "explanation",
           "heading": "Deux personnes, deux raisons de s’en vouloir",
-          "text": "Un échange interrompu laisse parfois à chacun une explication qu’il n’a jamais pu vérifier auprès de l’autre. Loïc savait déjà qu’il s’était trompé de boîte lors du premier essai à deux. Il croit avoir recommencé. Zéphyr, lui, a entendu une plainte sur le temps d’attente et l’a prise pour un avis sur sa capacité à enseigner. La plainte existe : Loïc a déplacé un cours et a attendu. Elle peut être entendue sans qu’on lui prête le reste."
+          "text": "Après un échange interrompu, chacun peut garder une explication qu’il n’a pas pu vérifier. Les difficultés relationnelles durables du trouble schizotypique peuvent donner beaucoup de poids à l’idée d’un rejet. L’attente de Loïc est réelle et Zéphyr peut la reconnaître. Il ne sait pas pour autant ce que Loïc pense de sa capacité à transmettre, ni s’il a envie de revenir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand la méfiance ou le retrait pèsent durablement dans les relations, le coût se voit aussi dans ces petits rendez-vous qu’on ne reprend plus. Le trouble schizotypique peut éclairer une partie de la difficulté de Zéphyr, dont le suivi continue. Les raisons de Loïc lui appartiennent et méritent d’être entendues comme celles de n’importe quel participant."
+          "heading": "Comment l’anticipation du rejet se prolonge-t-elle après une séance interrompue ?",
+          "points": [
+            {
+              "heading": "Une plainte devient un jugement d’ensemble",
+              "text": "Une remarque sur un fait précis peut être entendue comme une appréciation de toute la personne.",
+              "examples": [
+                "Zéphyr entend la protestation sur la matinée perdue comme un jugement sur sa façon d’enseigner.",
+                "Une personne apprend qu’un participant a trouvé l’attente longue et croit qu’il rejettera toute nouvelle proposition."
+              ]
+            },
+            {
+              "heading": "On prête un motif au silence",
+              "text": "Sans nouvelle conversation, une explication peut prendre toute la place et masquer le point de vue de l’autre.",
+              "examples": [
+                "Zéphyr pense que Loïc évitera le musée. Loïc craignait surtout d’avoir repris la mauvaise boîte.",
+                "Deux collègues ne se reparlent pas après un exercice interrompu, chacun supposant que l’autre lui en veut."
+              ]
+            },
+            {
+              "heading": "La crainte change l’invitation",
+              "text": "Anticiper un refus peut conduire à écarter l’autre de la décision avant même de la lui proposer.",
+              "examples": [
+                "Zéphyr imagine la séance suivante sans savoir si Loïc souhaite y être convié.",
+                "Un bénévole cesse d’envoyer une annonce à quelqu’un qui était parti déçu, sans lui demander s’il souhaite encore la recevoir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une réponse qu’on pourra tenir",
-          "text": "Zéphyr peut commencer par le geste : Loïc n’avait pris aucune mauvaise pièce ce matin-là. Puis il peut reconnaître le temps passé à attendre et dire ce qu’il sait du prochain essai. Tant que le musée n’a pas fixé de date, promettre un samedi risque de faire porter une nouvelle contrainte à Loïc. Lui demander s’il veut qu’on le prévienne quand une date sera sûre lui permet de répondre pour lui-même.\n\nUn suivi psychologique peut aider à retravailler des échanges qui restent pénibles à reprendre. Dans cette cour, le travail se limite à parler du temps perdu et de la démonstration. Zéphyr peut aussi demander ce que Loïc venait réellement chercher à l’atelier. Cette réponse peut changer la façon d’organiser la séance, indépendamment de la suite du suivi."
+          "heading": "3 techniques pour reprendre contact après un échange interrompu",
+          "points": [
+            {
+              "heading": "Reconnaître ce que l’autre a vécu",
+              "objective": "Ouvrir la discussion sur une conséquence concrète.",
+              "exercise": [
+                "Rappelez le moment qui a pris fin trop tôt.",
+                "Reconnaissez le temps ou l’effort que l’autre avait engagé.",
+                "Laissez-le dire ce qui lui a manqué."
+              ],
+              "benefit": "L’autre peut être entendu sans qu’on lui demande de rassurer sur la relation entière."
+            },
+            {
+              "heading": "Rectifier un malentendu précis",
+              "objective": "Revenir sur ce que chacun attribuait à l’autre.",
+              "exercise": [
+                "Demandez à l’autre ce qu’il avait compris du départ.",
+                "Dites quelle partie vous pouvez clarifier.",
+                "Écoutez s’il reste une demande pratique."
+              ],
+              "benefit": "L’échange peut déboucher sur un changement concret, comme donner un tour de manipulation à chacun."
+            },
+            {
+              "heading": "Proposer une invitation sans engagement",
+              "objective": "Laisser l’autre choisir s’il souhaite reprendre contact.",
+              "exercise": [
+                "Demandez s’il veut recevoir l’information.",
+                "Précisez que rien ne l’engage pour l’instant.",
+                "Envoyez une date seulement quand elle est fixée."
+              ],
+              "benefit": "La suite n’est décidée ni par la crainte du refus ni par une pression pour que l’autre revienne."
+            }
+          ]
         }
       ],
       "ending_title": "Laisser le vélo contre la grille",
@@ -413,7 +925,8 @@
         "next": "Loïc accepte qu’on le prévienne d’une date ferme sans réserver d’avance. Zéphyr veut donner un tour de manipulation à chaque participant, et aucun nouvel horaire n’est encore promis."
       },
       "clinical_focus": "Anticipation du rejet",
-      "clinical_intro": "Zéphyr redoute de revoir Loïc parce qu’il a pris son départ pour un jugement sur sa capacité à enseigner. Loïc avait surtout cru qu’il s’était encore trompé de boîte. Dans le trouble schizotypique, des doutes relationnels persistants peuvent donner beaucoup de poids à une interprétation. La rencontre permet de parler du temps d’attente réel et d’entendre ce que chacun avait compris."
+      "clinical_intro": "Zéphyr redoute de revoir Loïc parce qu’il a pris son départ pour un jugement sur sa capacité à enseigner. Loïc avait surtout cru qu’il s’était encore trompé de boîte. Dans le trouble schizotypique, des doutes relationnels persistants peuvent donner beaucoup de poids à une interprétation. La rencontre permet de parler du temps d’attente réel et d’entendre ce que chacun avait compris.",
+      "conclusion": "Loïc a bien attendu, et Zéphyr peut lui en parler. La protestation n’avait pas réglé leur relation ni le sort de la séance suivante. Ils repartent avec une idée de geste à montrer et une invitation que Loïc pourra accepter ou refuser."
     },
     {
       "number": 10,
@@ -431,17 +944,73 @@
         {
           "role": "explanation",
           "heading": "La méfiance monte quand l’aide reste implicite",
-          "text": "L’aide devient difficile à accepter quand le rôle de chacun reste implicite. Pour Mounir, prendre le début veut dire économiser quelques minutes de rangement et donner à voir deux roues. Zéphyr s’était imaginé montrer lui-même le premier geste, puis demander du renfort s’il en avait besoin. Il tient à ce moment où le visiteur comprend ce qu’il regarde. Sans s’être mis d’accord, chacun a attribué à l’autre un rôle différent."
+          "text": "Une aide mal définie peut être comprise comme une décision déjà prise à la place de la personne. Dans le trouble schizotypique, une méfiance durable peut rendre ce moment particulièrement difficile. Le désaccord se précise quand Zéphyr et Mounir disent ce que chacun entend par « faire le début ». Ils peuvent convenir d’un geste à passer sans céder toute la conduite de l’atelier."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Zéphyr, la pensée qu’on pourrait le remplacer arrive vite et l’incite à ranger ses affaires avant de parler. Une méfiance durable peut peser sur les relations dans le trouble schizotypique. Le désaccord sur la séance reste une question que les deux hommes peuvent régler entre eux. En parlant de la fiche, Mounir peut dire ce qu’il avait compris et Zéphyr peut défendre la partie qu’il veut assurer."
+          "heading": "Comment la méfiance s’installe-t-elle quand une aide est mal définie ?",
+          "points": [
+            {
+              "heading": "Les préparatifs semblent valoir décision",
+              "text": "Un objet déjà déplacé peut donner l’impression que le choix est fait.",
+              "examples": [
+                "Mounir installe les chaises et la platine. Zéphyr se demande qui dirigera la séance.",
+                "À une répétition, une collègue ouvre le conducteur de scène et la personne chargée du début croit qu’elle va être remplacée."
+              ]
+            },
+            {
+              "heading": "Un même verbe désigne deux rôles",
+              "text": "Une proposition floue peut paraître plus vaste qu’elle ne l’est pour celui qui la fait.",
+              "examples": [
+                "Pour Mounir, « faire le début » tient en quelques minutes. Zéphyr entend qu’on lui retire l’introduction.",
+                "Quelqu’un propose de « prendre l’accueil » et sa collègue ne sait pas s’il veut orienter deux visiteurs ou tenir tout le créneau."
+              ]
+            },
+            {
+              "heading": "Refuser l’ensemble paraît plus simple",
+              "text": "Quand la limite est inconnue, on peut préférer reprendre tout le matériel plutôt que négocier l’aide.",
+              "examples": [
+                "Zéphyr remet la pochette dans sa caisse au début de l’échange.",
+                "Une bénévole range seule toutes les fournitures parce qu’elle craint que l’offre d’aide concerne aussi la préparation suivante."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir une façon de passer la fiche",
-          "text": "Le relais peut prendre une forme assez précise pour être essayé avant le retour du public. Si Zéphyr pose la fiche devant Mounir, celui-ci reprend le geste indiqué au dos et invite la personne qui le souhaite à s’approcher. Zéphyr peut reprendre la parole ensuite. Si l’atelier doit s’arrêter, Maud annonce la suite aux inscrits. Les trois personnes peuvent aussi fixer une durée compatible avec leurs propres engagements.\n\nUn accompagnement psychologique peut aider à reprendre les situations où accepter de l’aide paraît risquer quelque chose d’important. Le travail au musée suit une autre échéance. Maud doit savoir à quelle heure tenir la liste au comptoir, et Mounir doit savoir à quelle heure il repart. Une fois les rôles et le créneau confirmés, les inscrits pourront choisir de revenir en connaissant la durée de l’essai."
+          "heading": "3 techniques pour définir une aide que chacun peut choisir",
+          "points": [
+            {
+              "heading": "Nommer la part que l’on garde",
+              "objective": "Rendre visible le rôle que la personne veut continuer d’assurer.",
+              "exercise": [
+                "Choisissez le geste ou la décision que vous voulez conserver.",
+                "Dites pourquoi il importe au travail.",
+                "Demandez quelle autre partie le collègue serait prêt à prendre."
+              ],
+              "benefit": "Le partage se discute autour de tâches identifiables."
+            },
+            {
+              "heading": "Répéter le passage de relais",
+              "objective": "Vérifier ensemble le début et la fin de l’aide.",
+              "exercise": [
+                "Placez le support à l’endroit convenu.",
+                "Essayez un seul passage avec un signal de retour.",
+                "Ajustez la reprise selon ce que vous avez observé."
+              ],
+              "benefit": "Le relais peut être compris sans devoir tout renégocier devant le public."
+            },
+            {
+              "heading": "Vérifier la disponibilité avant d’annoncer",
+              "objective": "Éviter qu’une offre ponctuelle devienne une obligation implicite.",
+              "exercise": [
+                "Demandez au collègue jusqu’à quand il peut rester.",
+                "Choisissez un horaire compatible avec la présence de l’équipe.",
+                "Indiquez au public seulement ce que vous pouvez assurer."
+              ],
+              "benefit": "Chacun garde la possibilité de poser ses limites sans fragiliser l’engagement pris."
+            }
+          ]
         }
       ],
       "ending_title": "La fiche au milieu de la table",
@@ -458,7 +1027,8 @@
         "next": "Maud confirmera les places au hall. Le prochain essai dure quarante minutes et les trois anciens inscrits reçoivent la date en premier. Mounir peut rester jusqu’à onze heures."
       },
       "clinical_focus": "Méfiance face à l’aide",
-      "clinical_intro": "Mounir propose de prendre le début de l’atelier et Zéphyr entend déjà qu’il faudrait lui céder sa place. Quand on vit des difficultés relationnelles durables liées au trouble schizotypique, une aide mal définie peut accroître la méfiance. Zéphyr demande jusqu’où Mounir souhaite intervenir. Il découvre les limites que son collègue pose lui-même et garde la possibilité de choisir sa part."
+      "clinical_intro": "Mounir propose de prendre le début de l’atelier et Zéphyr entend déjà qu’il faudrait lui céder sa place. Quand on vit des difficultés relationnelles durables liées au trouble schizotypique, une aide mal définie peut accroître la méfiance. Zéphyr demande jusqu’où Mounir souhaite intervenir. Il découvre les limites que son collègue pose lui-même et garde la possibilité de choisir sa part.",
+      "conclusion": "Mounir voulait montrer une roue, pas prendre la place de Zéphyr. L’essai montre à quel endroit il peut s’arrêter et laisser Zéphyr reprendre. Le musée peut annoncer la nouvelle séance à partir de cet accord, que chacun a pu vérifier."
     },
     {
       "number": 11,
@@ -476,17 +1046,73 @@
         {
           "role": "explanation",
           "heading": "Retrouver ce que l’autre regarde",
-          "text": "Une conversation peut se brouiller parce que les personnes répondent à partir d’objets différents. Pour Gil, la question part de la pendule qui l’attend chez lui. Pour Zéphyr, tout ce qui vient d’être dit s’applique à la platine posée devant le groupe. Il faut quelques secondes pour voir que les deux ne sont plus au même endroit dans l’explication. Ensuite, la gêne d’avoir perdu le fil peut peser plus lourd que la question elle-même."
+          "text": "Un échange peut se brouiller quand les deux personnes parlent à partir de choses différentes. Dans le trouble schizotypique, les difficultés qui touchent parfois la parole et les relations peuvent rendre coûteux le fait de retrouver ce repère commun. Gil pense à sa pendule. Zéphyr répond encore à partir de la platine. La gêne qui suit devient alors une difficulté à part entière."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La CIM-11 décrit chez certaines personnes ayant un trouble schizotypique des difficultés durables à se faire suivre dans les échanges. Dans cet atelier, une indication claire est utile à tout le monde. Gil peut laisser sa question en suspens, Mounir redonner la consigne du tour et Zéphyr retrouver le point auquel il peut répondre. Chacun agit sur une partie de l’échange."
+          "heading": "Comment un décalage fait-il perdre le fil d’une conversation ?",
+          "points": [
+            {
+              "heading": "Le sujet change sans être nommé",
+              "text": "Celui qui pose la question peut penser que le lien entre les deux objets est évident.",
+              "examples": [
+                "Gil passe de la petite platine à la pendule qu’il a chez lui.",
+                "Une lectrice passe du livre sur la table à une autre édition sans préciser laquelle."
+              ]
+            },
+            {
+              "heading": "La réponse suit l’ancien point de départ",
+              "text": "La conversation peut continuer quelques secondes sans que les interlocuteurs parlent de la même chose.",
+              "examples": [
+                "Zéphyr cherche la réponse sur la platine alors que Gil imagine sa pendule.",
+                "Deux collègues décrivent le début d’un trajet, l’une depuis le hall et l’autre depuis la cour."
+              ]
+            },
+            {
+              "heading": "La gêne retarde la reprise",
+              "text": "Retrouver ce dont il est question demande parfois une interruption, même quand on connaît son métier.",
+              "examples": [
+                "Mounir fait refaire la rotation à Clara pendant que Zéphyr se prépare à revenir.",
+                "Pendant une visite, une collègue laisse son partenaire montrer le plan avant de préciser le nom de la salle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir par un geste qu’on avait promis",
-          "text": "Le relais rend à Zéphyr quelques secondes pour écouter et regarder où se trouve la main de Clara. Il peut reprendre en lui demandant si elle veut essayer encore une fois. La promesse d’un tour par personne lui donne une suite compréhensible même quand l’explication a pris du retard. Il peut annoncer qu’il reste peu de temps pour les questions et convenir d’un dernier tour avec les visiteurs.\n\nUn échange dont on retrouve le fil peut donner matière à un retour sur ce qui a aidé. Zéphyr pourra écouter Mounir sur ce qu’il a vu, et revenir avec son équipe de soins sur les moments qui lui coûtent davantage. Le résultat de cette matinée dit ce que le musée a réussi à faire dans cette salle avec ce groupe. La vie de Zéphyr se poursuit dans d’autres conditions, y compris les jours où une explication ou un rendez-vous reste difficile."
+          "heading": "3 techniques pour retrouver le sujet d’un échange sans perdre sa place",
+          "points": [
+            {
+              "heading": "Demander ce que désigne la question",
+              "objective": "Vérifier le point de départ commun.",
+              "exercise": [
+                "Reformulez le nom de l’objet entendu.",
+                "Demandez si la personne parle de cet objet ou d’un autre.",
+                "Revenez au geste en cours si la nouvelle question demande plus de temps."
+              ],
+              "benefit": "Cette précision évite d’accumuler des réponses à une question que l’on n’a pas comprise."
+            },
+            {
+              "heading": "Utiliser le relais préparé",
+              "objective": "Disposer de quelques secondes pour reprendre son fil.",
+              "exercise": [
+                "Convenez d’un geste bref que le collègue peut montrer.",
+                "Passez-lui le support au moment convenu.",
+                "Reprenez avec une question sur ce que le groupe vient de voir."
+              ],
+              "benefit": "Le groupe continue à travailler et la personne garde sa place dans la démonstration."
+            },
+            {
+              "heading": "Garder la question pour un autre moment",
+              "objective": "Accueillir la curiosité sans sacrifier le temps prévu pour l’activité.",
+              "exercise": [
+                "Notez l’objet que la personne veut évoquer.",
+                "Demandez le détail qui permettrait d’en reparler.",
+                "Indiquez jusqu’où la séance peut aller aujourd’hui."
+              ],
+              "benefit": "Il reste un espace pour la question tout en respectant le déroulement promis aux autres."
+            }
+          ]
         }
       ],
       "ending_title": "Le tour de Loïc",
@@ -503,7 +1129,8 @@
         "next": "La date reportée a été remplacée par un essai terminé. L’équipe dispose d’un format qui tient en quarante minutes. La cadence, la disponibilité de chacun et les prochaines dates restent à décider."
       },
       "clinical_focus": "Décalage dans l’échange",
-      "clinical_intro": "Une question sur une pendule de maison fait perdre à Zéphyr le fil de ce qu’il montrait sur la platine. La gêne arrive avant qu’il comprenne d’où vient le décalage. Les difficultés de parole et de lien du trouble schizotypique peuvent rendre ce moment coûteux. Le relais préparé lui donne du temps pour retrouver l’objet de la question et reprendre lui-même."
+      "clinical_intro": "Une question sur une pendule de maison fait perdre à Zéphyr le fil de ce qu’il montrait sur la platine. La gêne arrive avant qu’il comprenne d’où vient le décalage. Les difficultés de parole et de lien du trouble schizotypique peuvent rendre ce moment coûteux. Le relais préparé lui donne du temps pour retrouver l’objet de la question et reprendre lui-même.",
+      "conclusion": "Le détour par la pendule n’empêche pas Loïc d’essayer la deuxième roue. Le relais laisse à Zéphyr le temps de reprendre et Gil sait ce qui manque pour reparler de son objet. La séance leur apprend quelle durée garder pour ces échanges."
     },
     {
       "number": 12,
@@ -521,17 +1148,73 @@
         {
           "role": "explanation",
           "heading": "Reconnaître la part choisie et la part subie du retrait",
-          "text": "Zéphyr se repose avec plaisir à l’établi. Après les sons qui l’ont effrayé, il a aussi renoncé à des sorties qu’il aurait aimé faire. Le trouble schizotypique peut s’accompagner de retrait. Pour parler de son retentissement, Zéphyr et son équipe ont besoin de savoir à quel moment la solitude correspond à un choix et à quel moment elle lui coûte quelque chose.\n\nLe temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après."
+          "text": "La solitude choisie et le retrait subi peuvent se ressembler de l’extérieur. Le trouble schizotypique peut s’accompagner de retrait social, mais le plaisir de travailler seul ou de retrouver le calme conserve sa valeur. La différence se précise en regardant ce que la personne souhaitait pouvoir faire. Zéphyr aime revenir à son établi et se souvient aussi de sorties qu’il a laissées passer parce que certaines perceptions l’inquiétaient."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.\n\nLes difficultés liées au trouble schizotypique peuvent varier dans leur intensité. Zéphyr garde avec son équipe la possibilité de parler des perceptions qui l’inquiètent et de leurs effets sur ses journées. Le goût qu’il a pour le calme de l’atelier mérite aussi d’être entendu comme une préférence. Il peut en tenir compte quand il choisit ce qu’il veut proposer."
+          "heading": "Comment la solitude choisie se distingue-t-elle d’un retrait qui coûte ?",
+          "points": [
+            {
+              "heading": "Le calme rend une activité possible",
+              "text": "On peut chercher à être seul pour travailler ou se reposer avec plaisir.",
+              "examples": [
+                "Zéphyr veut retrouver son établi après la démonstration.",
+                "Une personne garde une matinée tranquille pour restaurer un objet avant de rejoindre ses amis."
+              ]
+            },
+            {
+              "heading": "La peur fait renoncer à une envie",
+              "text": "Rester seul peut avoir un autre sens quand on aurait voulu sortir.",
+              "examples": [
+                "Les sons qui inquiètent Zéphyr lui ont fait laisser passer des sorties.",
+                "Quelqu’un renonce au café qu’il attendait parce que les échanges de la veille continuent de l’angoisser."
+              ]
+            },
+            {
+              "heading": "Un rythme choisi permet d’alterner",
+              "text": "La personne peut vouloir garder du temps pour elle et continuer une activité avec d’autres.",
+              "examples": [
+                "Zéphyr propose une matinée par mois plutôt que d’ouvrir l’atelier chaque samedi.",
+                "Une bénévole accepte un accueil sur deux afin de conserver son temps de travail en réserve."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prendre deux dates avec les gens qui les assurent",
-          "text": "Zéphyr peut proposer une matinée par mois, au départ sur deux mois. Maud et Mounir peuvent répondre pour les dates qu’ils tiennent réellement. Le musée pourra ouvrir les inscriptions quand ils auront confirmé qui assure l’accueil et qui reprend le geste si nécessaire. Après les deux matinées, le musée pourra garder ce format, le modifier ou suspendre la prochaine date. Chacun saura quand en reparler.\n\nChez Agnès, les décisions sont plus petites. Elle peut proposer une sortie, et Zéphyr peut répondre selon ce qui lui convient. S’il souhaite lui demander de venir un jour à un entretien, il pourra préciser avec elle et avec Sonia ce qu’il voudrait partager. Cette semaine, il a surtout envie qu’elle lui indique l’étal où elle a trouvé ses poires."
+          "heading": "3 techniques pour choisir un rythme entre calme et rencontres",
+          "points": [
+            {
+              "heading": "Comparer deux moments de solitude",
+              "objective": "Reconnaître ce qui repose et ce qui prive d’une activité.",
+              "exercise": [
+                "Pensez à un moment seul que vous aviez voulu.",
+                "Comparez-le à une sortie que vous auriez aimé faire.",
+                "Notez ce qui a changé votre décision dans chaque cas."
+              ],
+              "benefit": "La comparaison donne des mots pour décrire une préférence ou une difficulté au suivi."
+            },
+            {
+              "heading": "Espacer les engagements",
+              "objective": "Garder une place aux rencontres sans perdre son temps de travail au calme.",
+              "exercise": [
+                "Choisissez la durée et la fréquence que vous voulez essayer.",
+                "Vérifiez la disponibilité des personnes qui participent.",
+                "Fixez dès maintenant un point pour revoir cet accord."
+              ],
+              "benefit": "Un rythme convenu peut être ajusté selon l’effet qu’il a sur chacun."
+            },
+            {
+              "heading": "Préparer le prochain contact de suivi",
+              "objective": "Donner une place distincte aux difficultés qui réduisent les sorties.",
+              "exercise": [
+                "Gardez le rendez-vous convenu avec l’équipe.",
+                "Apportez un exemple de sortie qui vous a manqué.",
+                "Demandez qui joindre plus tôt si une perception ou sa gêne change."
+              ],
+              "benefit": "Les choix d’emploi du temps restent les vôtres, et l’équipe peut évaluer ce qui devient préoccupant."
+            }
+          ]
         }
       ],
       "ending_title": "Deux dates, une place au comptoir",
@@ -548,7 +1231,8 @@
         "next": "Les deux prochains ateliers sont espacés d’un mois, avec un point d’équipe ensuite. Zéphyr garde le prochain rendez-vous avec Sonia et la possibilité de joindre le centre si ses difficultés changent. Il a prévu une sortie avec Agnès."
       },
       "clinical_focus": "Solitude choisie",
-      "clinical_intro": "Après avoir accueilli les visiteurs, Zéphyr a envie de recommencer et de retrouver le calme de son établi. Le trouble schizotypique peut s’accompagner de retrait social. Le temps qu’il choisit de passer seul a aussi une valeur pour lui. L’épisode montre comment il distingue le plaisir du calme, les sorties qu’une perception inquiétante lui fait éviter et le rythme d’accueil qu’il souhaite essayer."
+      "clinical_intro": "Après avoir accueilli les visiteurs, Zéphyr a envie de recommencer et de retrouver le calme de son établi. Le trouble schizotypique peut s’accompagner de retrait social. Le temps qu’il choisit de passer seul a aussi une valeur pour lui. L’épisode montre comment il distingue le plaisir du calme, les sorties qu’une perception inquiétante lui fait éviter et le rythme d’accueil qu’il souhaite essayer.",
+      "conclusion": "Zéphyr garde son établi, deux dates au musée et un samedi pour les poires. Ces choix laissent de la place au calme autant qu’aux rencontres. La gêne qui lui a fait manquer d’autres sorties reste distincte et pourra être discutée avec Sonia."
     }
   ]
 }

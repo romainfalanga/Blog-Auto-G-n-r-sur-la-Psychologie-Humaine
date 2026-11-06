@@ -34,14 +34,81 @@ Mme Lenoir annonce qu’il reste le temps pour une proposition. Maïwenn récup�
 
 Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée.
 
-## Comment cette difficulté se manifeste
+Les corrections peuvent prendre assez de place pour que le lien entre deux idées se perde. Maïwenn a en tête les gens qui installent le marché, mais en reprenant sa phrase elle ne sait plus à qui renvoie « ils ». La photo lui rend un point de départ. Elle peut d’abord noter ce qu’elle veut raconter, puis chercher comment l’écrire.
 
-Chez Maïwenn, le diagnostic a déjà été posé. Dans cette réunion, personne n’a vu le temps consacré à ce brouillon. Elle sait en revanche quel détail l’a fait s’arrêter devant la halle et quelles questions ce détail lui donne envie de poser.
+## Comment les corrections peuvent-elles faire perdre le fil d’une idée ?
 
-## Écouter d’abord la proposition
+### Une correction prend la place de la suite
 
-Un tirage posé sur une table permet ici de commencer par le sujet. La photo indique un lieu et Maïwenn précise à l’oral ce qu’elle veut y chercher ; le groupe peut déjà lui répondre sur le fond. Cela ne règle pas la rédaction à venir. Ça évite que l’idée soit écartée avant d’avoir été discutée. Lou demande si elles suivraient une seule personne ou plusieurs. La question plaît à Maïwenn : elle sait qu’elle aurait sauté directement aux images. Elle dit qu’elle veut d’abord voir comment les gens se croisent dans la halle. Elles vont écrire au gardien pour savoir si une visite est possible.
+Chercher l’orthographe ou une terminaison pendant qu’on formule peut détourner l’attention de ce qui devait venir ensuite.
+
+**Exemples concrets**
+
+- Maïwenn revient sur sa première ligne et perd le lien entre le pronom et les personnes de la scène.
+- Une élève peut oublier l’exemple qu’elle voulait donner pendant qu’elle corrige le début d’une phrase.
+
+### L’ordre du texte reste à construire
+
+Une idée claire à l’oral doit encore devenir une suite que le lecteur peut suivre sans voir la scène.
+
+**Exemples concrets**
+
+- Maïwenn peut montrer la table du marché sur le tirage et dire ce qu’elle veut raconter.
+- Dans un article sur un atelier, il faut nommer la personne qui pose l’objet avant d’écrire ce qu’elle en fait.
+
+### Une trace courte peut garder le sujet
+
+Un mot ou une image peut aider à conserver l’intention quand la phrase demande encore du travail.
+
+**Exemples concrets**
+
+- Maïwenn écrit « avant les clients » au dos de sa photo.
+- Un brouillon peut conserver deux mots sous un dessin avant de chercher la liaison qui manque.
+
+## 3 techniques pour garder une idée pendant qu’on cherche sa phrase
+
+### 1. Noter ce qu’on veut faire voir
+
+Garder le sujet avant la première correction.
+
+**Exercice pratique**
+
+- Choisissez une image ou un détail de la scène.
+- Écrivez à côté deux ou trois mots qui le situent.
+- Relisez cette trace avant de revenir à la phrase.
+
+Le texte peut repartir de l’intention initiale si les corrections interrompent la rédaction.
+
+### 2. Donner un ordre aux détails
+
+Construire le fil avant de régler la forme.
+
+**Exercice pratique**
+
+- Notez qui est là et ce qui arrive d’abord.
+- Placez le détail important après ce premier repère.
+- Dites à voix haute ce que le lecteur doit comprendre du lien.
+
+L’enchaînement peut être discuté sans arrêter le travail sur chaque mot.
+
+### 3. Garder une marque là où l’on hésite
+
+Éviter de reprendre tout le paragraphe pour une difficulté précise.
+
+**Exercice pratique**
+
+- Soulignez le mot ou la terminaison incertaine.
+- Continuez jusqu’à la fin de l’idée.
+- Revenez ensuite à la marque pour la vérifier ou demander de l’aide.
+
+Le temps de formulation et celui de la correction deviennent plus faciles à distinguer.
 
 ## Retourner le tirage
 
 Avant de partir, Maïwenn prend le crayon que Lou lui tend. Au dos de la photo, elle écrit seulement « avant les clients ». C’est ce qui restera sur le tableau des sujets. Elles ouvrent le message de demande de visite sur l’ordinateur du journal et le relisent ensemble. Lou se charge de l’envoyer après l’accord de Mme Lenoir. Maïwenn emporte la feuille raturée ; personne n’a besoin de la recopier pour que le sujet existe.
+
+---
+
+**Conclusion**
+
+Le tirage donne à Maïwenn un point de départ que sa ligne raturée avait perdu. Elle propose le sujet et dit à Lou qu’elle veut aussi écrire. Le reportage peut commencer avec quelques mots choisis, avant que la première phrase soit arrêtée.

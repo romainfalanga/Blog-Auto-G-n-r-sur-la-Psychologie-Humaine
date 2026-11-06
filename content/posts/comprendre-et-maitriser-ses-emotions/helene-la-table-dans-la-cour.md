@@ -29,22 +29,83 @@ En rentrant chercher les couverts pour vérifier qu’il y en a assez, Hélène 
 
 « On n’a pas fini avec le dîner », dit Hélène. Elle veut d’abord choisir qui apporte quoi. Pour le travail, elle demandera lundi à Maud l’heure et le lieu qui la concernent. Léa récupère le verre dans la cour et lance le vrai problème du dimanche : elle veut faire un gâteau, mais Hélène avait prévu une tarte.
 
-## Le coût de décoder une consigne en dehors du travail
+## Une aide utile dépend aussi du moment où on la demande
 
-Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement.
+Des consignes de travail peu explicites peuvent demander un effort supplémentaire à une personne qui vit avec un trouble du développement intellectuel. Adapter la consigne peut être utile ; la personne garde le choix du moment et de l’interlocuteur avec qui la reprendre. Hélène veut savoir si l’horaire du dépôt change pour elle. Ce dimanche, elle préfère finir d’organiser le dîner avec Léa et poser la question à Maud le lendemain.
 
-## Comment cette difficulté se manifeste
+## Comment une consigne de travail vient-elle prendre de la place chez soi ?
 
-Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.
+### Un document concerne plusieurs personnes à la fois
 
-La HAS propose de partir des préférences, du rythme et des habitudes de vie de la personne. Hélène veut le renseignement de l’équipe pendant son temps de travail. Elle sait quelle question poser, et le fait que Léa pourrait interpréter la photo plus vite ne lui donne pas la réponse officielle du dépôt. Le dimanche, ce qui compte à cette table est de décider du dîner.
+Une information générale peut laisser à chacun le soin de déduire ce qui change pour lui.
 
-## Recevoir une demande précise sans prendre tout le reste
+**Exemples concrets**
 
-Léa peut être une alliée quand Hélène souhaite relire quelque chose ensemble. Elle peut aussi laisser le téléphone où Hélène l’a posé. Un proche gagne à demander si l’aide est souhaitée et sur quelle partie. Si Hélène voulait seulement isoler la ligne qui parle d’elle, reprendre tout le planning ou téléphoner en son nom ajouterait des étapes dont elle n’a pas besoin.
+- Hélène ne sait pas si les flèches du planning déplacent le camion ou son rendez-vous.
+- Une personne reçoit une photo avec deux tournées et ne sait pas sur laquelle elle doit se rendre.
 
-Au travail, le responsable du planning reste le mieux placé pour confirmer l’heure et le lieu. Une phrase suivie d’une question peut suffire : « Je passe chercher le bordereau. Je dois être au dépôt à quelle heure ? » L’important est que la réponse désigne le rendez-vous d’Hélène. La forme du message est à décider avec elle.
+### Une aide offerte peut ajouter une étape
+
+Si quelqu’un donne la réponse avec tout son raisonnement, il reste parfois deux choses à retenir au lieu d’une.
+
+**Exemples concrets**
+
+- Léa tend la main vers l’écran ; Hélène connaît la façon dont elles finissent d’habitude par relire le planning.
+- Un proche propose trois interprétations d’un message alors que seule l’équipe peut confirmer le lieu.
+
+### Reporter laisse une place au moment présent
+
+Reprendre la consigne avec la personne responsable peut préserver l’activité qu’on avait choisie.
+
+**Exemples concrets**
+
+- Hélène décide d’en parler lundi et revient à la tarte et aux boissons.
+- Quelqu’un garde une question pour la réunion du lendemain et continue à préparer une visite d’amis.
+
+## 3 techniques pour choisir quand et avec qui reprendre une consigne
+
+### 1. Poser une limite à l’aide immédiate
+
+Faire comprendre ce dont vous avez besoin sur le moment.
+
+**Exercice pratique**
+
+- Dites si vous voulez une aide maintenant ou plus tard.
+- Nommez l’activité que vous souhaitez continuer.
+- Gardez la question de travail à un endroit où vous pourrez la retrouver.
+
+Le proche comprend ce qui est attendu et le projet du moment garde sa place.
+
+### 2. Revenir à la personne qui peut confirmer
+
+Obtenir l’information qui concerne votre propre tâche.
+
+**Exercice pratique**
+
+- Montrez quelle ligne vous ne comprenez pas.
+- Demandez précisément ce qui change pour vous.
+- Notez seulement l’heure et le lieu confirmés, ou l’autre renseignement utile.
+
+La consigne devient utilisable sans retenir plusieurs interprétations.
+
+### 3. Proposer un format plus direct
+
+Préparer les prochaines consignes quand le même problème revient.
+
+**Exercice pratique**
+
+- Apportez un exemple de message difficile à suivre.
+- Demandez une présentation qui distingue votre trajet du reste du planning.
+- Vérifiez avec l’équipe si ce format fonctionne la fois suivante.
+
+Le problème peut être traité à la source et moins déborder sur le temps personnel.
 
 ## La tarte reste au programme
 
 Léa décide qu’elle apportera les boissons ; Hélène garde la tarte et en commande une à la boulangerie du quartier pour le samedi suivant. Elle ne veut pas avoir le four à surveiller pendant que les amis sont là. Le lundi, Maud lui confirme que le rendez-vous du jeudi reste à neuf heures à l’accueil du dépôt. C’est le camion qui est avancé. Hélène inscrit l’heure en haut de son plan plié. Sur le groupe de discussion, elle confirme le dîner de samedi à quatre. La chaise en rotin reste libre, faute de volontaire.
+
+---
+
+**Conclusion**
+
+La tarte reste prévue et l’heure du dépôt rejoint le plan le lundi. Hélène a réglé chacune des deux questions avec la personne qui pouvait y répondre, au moment qu’elle avait choisi.

@@ -29,22 +29,83 @@ Sur la veste qu’Adèle défait, quelques points retiennent encore l’épaule 
 
 Adèle tire le vêtement de l’autre côté de la chaise pour que la manche n’accroche pas l’ordinateur. Ça lui arrive de refuser une couleur même après avoir vérifié qu’elle allait bien avec le reste. À table, il lui arrive de vouloir que quelque chose soit possible et de sentir pourtant un recul immédiat. Elle n’a pas besoin de convaincre sa mère de cette différence. Elle voudrait que le premier message ouvre une discussion au lieu d’en régler d’avance le contenu. Elle demande à Eva de lui rendre le clavier.
 
-## Une difficulté sensorielle qui a des conséquences
+## Faire comprendre le besoin sans coller une étiquette
 
-Les difficultés sensorielles de l’ARFID concernent les caractéristiques des aliments et la façon dont la personne les éprouve au moment de manger. On peut aimer manipuler certaines matières pour un travail manuel et rencontrer des difficultés avec des textures en bouche.
+Une difficulté liée à l’ARFID peut être prise pour un caprice si l’on voit seulement un refus. À l’inverse, diffuser un diagnostic sans en discuter peut faire craindre d’être désigné par lui devant les autres. Adèle distingue son goût pour une étoffe de ce qui se passe avec une texture en bouche. Elle veut que l’école comprenne le besoin sans annoncer d’emblée son dossier au centre.
 
-## Comment cette difficulté se manifeste
+## Comment les jugements redoutés peuvent-ils peser sur une demande d’aide ?
 
-Le plaisir qu’Adèle prend à retourner sa veste ne renseigne donc pas sur ce qu’elle pourrait manger. Sa préférence pour une nuance est un choix de dessin. Ce qui a conduit à son suivi tient au retentissement de sa restriction, évalué par l’équipe qui la connaît.
+### Le refus peut être mal interprété
 
-Le poids et la silhouette ne motivent pas la restriction dans l’ARFID. Cette distinction concerne la raison de la restriction ; l’apparence d’une personne ne permet pas de la deviner. Un professionnel examine l’ensemble de la situation et tient aussi compte d’autres explications possibles lorsqu’il évalue un trouble alimentaire. Adèle peut choisir de ne pas détailler ces distinctions dans un premier échange au sujet de la sortie.
+Observer un geste de recul ne donne pas accès à l’expérience sensorielle de la personne.
 
-## Décider du contenu avec la personne concernée
+**Exemples concrets**
 
-Un premier message à la professeure peut servir à fixer un entretien, et la discussion qui suit à préciser ce qui doit être organisé. Eva peut expliquer pourquoi elle veut que l’école prenne la demande au sérieux. Adèle peut préciser ce qui lui fait craindre un message trop détaillé. Avant de parler au centre, elles veulent savoir qui y est réellement chargé des repas et de l’encadrement. L’école pourra alors discuter avec elles des informations nécessaires pour agir.
+- Eva craint qu’on réduise de nouveau la difficulté d’Adèle à un caprice.
+- Une personne veut participer à un repas et entend qu’elle fait des histoires quand une consistance la met en difficulté.
 
-Ce choix laisse du temps pour formuler les besoins avec les soignants, sans demander à Adèle de gérer seule tous les contacts. Si les adultes ont besoin de transmettre une information pour organiser l’accompagnement, ils peuvent lui expliquer à qui elle est destinée et pourquoi. Pour ce soir, Adèle n’attend qu’une réponse de Mme Roussel : le moment où elles pourront s’asseoir ensemble.
+### La peur d’être désigné peut retarder la demande
+
+S’attendre à des questions publiques peut décourager une personne de demander un appui pourtant utile.
+
+**Exemples concrets**
+
+- Adèle imagine son nom circuler avec la liste des chambres.
+- Une élève renonce à demander où trouver un adulte parce qu’elle redoute qu’on explique sa demande devant le groupe.
+
+### Une information pratique peut ouvrir la discussion
+
+On peut faire comprendre qu’un soutien est nécessaire sans raconter d’emblée tout ce qui concerne la santé.
+
+**Exemples concrets**
+
+- Adèle propose d’indiquer qu’elle est suivie et veut préparer les repas avec Mme Roussel.
+- Quelqu’un demande un échange confidentiel sur une organisation au travail et convient ensuite de ce qui doit être transmis.
+
+## 3 techniques pour demander un appui avec les mots que vous choisissez
+
+### 1. Définir l’objet du premier message
+
+Ouvrir une discussion sans avoir à régler tous les détails d’emblée.
+
+**Exercice pratique**
+
+- Nommez la décision encore à préparer.
+- Demandez un rendez-vous avec l’interlocuteur concerné.
+- Gardez les informations de santé à discuter dans un cadre adapté.
+
+Le message peut être utile sans répondre à des questions que personne n’a encore posées.
+
+### 2. Relire le texte à deux
+
+Vérifier que les mots transmis correspondent à ce que le jeune veut expliquer.
+
+**Exercice pratique**
+
+- Lisez le brouillon avec lui et laissez-lui le temps de corriger.
+- Vérifiez le destinataire avant l’envoi.
+- Confirmez ensemble ce qui doit être indiqué pour organiser le rendez-vous.
+
+Le jeune peut préciser sa demande sans que le proche parle seul à sa place.
+
+### 3. Préparer la suite des échanges
+
+Séparer l’aide nécessaire et les informations utiles à sa mise en œuvre.
+
+**Exercice pratique**
+
+- Demandez qui aura un rôle concret dans l’organisation.
+- Déterminez avec le jeune et les adultes responsables ce que chacun doit savoir.
+- Demandez conseil à l’équipe de soins sur les informations nécessaires à la sécurité.
+
+Le partage peut rester limité au besoin réel tout en permettant aux adultes d’agir.
 
 ## Le curseur sur la dernière phrase
 
 Adèle remplace le passage sur le centre par une phrase : « J’aimerais qu’on voie ensemble ce qu’il faut prévoir pour les repas avant de confirmer ma place. » Elle demande d’ajouter qu’elle est déjà suivie. Eva relit et envoie le message après qu’Adèle a hoché la tête. Sur l’écran, il reste une copie dans les éléments envoyés. Adèle remet l’ordinateur devant sa mère et glisse un morceau de papier sous la couture bleue pour en tracer le contour. Elle s’occupera des derniers points de couture demain.
+
+---
+
+**Conclusion**
+
+Adèle rend l’ordinateur après avoir choisi la phrase qui partira. Le message dit qu’elle est suivie et demande un échange. Il lui laisse encore la possibilité de décider avec qui parler des repas.

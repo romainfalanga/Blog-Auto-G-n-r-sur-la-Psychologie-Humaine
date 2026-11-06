@@ -1,0 +1,25 @@
+{
+  "references": {
+    "nhs-cyclothymie": {
+      "title": "NHS, Cyclothymia, présentation et prise en charge",
+      "url": "https://www.nhs.uk/mental-health/conditions/cyclothymia/"
+    },
+    "has-decision-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    }
+  },
+  "dossier": {
+    "name": "Trouble cyclothymique",
+    "aliases": ["Cyclothymie"],
+    "references": ["oms-cddr", "nhs-cyclothymie", "has-decision-partagee"],
+    "points": [
+      "OMS, CDDR 2024, 6A62, p. 240 : le trouble cyclothymique associe des périodes répétées de manifestations hypomaniaques et dépressives sur une durée prolongée. Les manifestations hypomaniaques peuvent ou non avoir atteint les exigences d’un épisode hypomaniaque. Les seuils et les causes possibles sont appréciés cliniquement. Aucun relevé isolé ne permet de conclure.",
+      "OMS, CDDR, pp. 240–241, limites avec la variation ordinaire : l’évaluation tient compte du retentissement, de la souffrance et de l’effort nécessaire pour maintenir les activités. Des intervalles plus stables peuvent survenir. Une réussite, une mauvaise nouvelle ou une nuit courte ne décident pas à elles seules de la nature d’un changement.",
+      "OMS, CDDR, pp. 240–242, évolution et diagnostic différentiel : il n’y a pas d’antécédent maniaque ou mixte dans la cyclothymie. Le seuil d’un épisode dépressif et sa temporalité, les épisodes antérieurs et les autres explications possibles sont examinés par les professionnels. Un changement qui dure ou modifie nettement le fonctionnement mérite d’être rapporté au suivi. Le diagnostic d’Alix est déjà établi et l’histoire n’en pose pas un nouveau.",
+      "NHS, Cyclothymia, parties sur les manifestations et les soins : des variations d’énergie, de sommeil, de sociabilité et d’initiative peuvent accompagner celles de l’humeur. Le soutien psychologique et l’organisation de la vie quotidienne se discutent avec les professionnels. Les exemples de cet article anglais ne fixent aucun seuil ni procédure en France. Aucun médicament ni changement de traitement proposé dans les épisodes.",
+      "HAS, décision partagée : les professionnels et la personne échangent sur les difficultés, les préférences et les options de suivi. Alix choisit ce qu’il note et partage. L’accord de travail sert à distribuer les tâches, jamais à donner à Laurent la responsabilité d’un suivi clinique ou le droit de juger l’humeur d’Alix."
+    ]
+  },
+  "direction": "Alix, 33 ans, fabrique des savons en coopérative. Il écoute les matières au sens concret, touche le papier d’emballage et laisse un silence avant de décrire une odeur. Laurent veut que les samedis fonctionnent avec le temps et les personnes disponibles. Son ami Robin connaît le contact que lui a confié Alix, avec son accord. La Dre Benali assure un suivi déjà établi. Le fil se déroule de l’hiver à la fin de l’automne. Un carton orange sépare les propositions des créneaux annoncés. Le premier essai devient une table de matières avec des échantillons prêts à manipuler. Les difficultés peuvent varier alors que son goût du métier persiste. La coopérative arrive à un calendrier qui résiste aux absences grâce à un accord révisable et une relève explicite. Le suivi continue."
+}

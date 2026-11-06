@@ -29,16 +29,81 @@ Lucie tient le carton avec les fiches qu’il reste à installer. Laure voudrait
 
 ## Le coût des gestes se voit en les répétant
 
-Laure pensait que passer en revue toute la liste lui donnerait une idée de ce qu’elle pourrait faire demain. La douleur et la fatigue familières attirent déjà l’attention et ralentissent la lecture des fiches. La répétition peut lui apprendre autre chose. Elle et Lucie peuvent découvrir un obstacle qui tient à la place du matériel ou au partage des gestes. Leur essai ne prédit pas l’état de Laure le lendemain. Il leur permet de décider avec quoi elles veulent travailler et quelle solution utiliser si l’accueil doit être raccourci.
+Un essai de travail peut montrer quels gestes demandent de l’effort et lesquels pourraient être simplifiés. Avec des symptômes persistants et l’attention qu’ils mobilisent, vouloir tout répéter peut finir par prendre la place des préparatifs nécessaires. Laure relit ses fiches et aimerait prévoir comment elle se sentira le lendemain. La répétition avec Lucie permet surtout de voir où un visiteur déposera ses graines et comment le cahier passera d’une personne à l’autre.
 
-## Relire des noms ou regarder depuis la porte
+## Comment des symptômes persistants orientent-ils les ajustements avant l’ouverture ?
 
-Laure revient plusieurs fois aux étiquettes parce qu’elle craint qu’une erreur complique la matinée au moment où elle se sentira fatiguée. En suivant la visite imaginée par Lucie, elle trouve une difficulté que les étiquettes ne pouvaient pas régler. Une personne doit savoir où laisser ses graines avant même d’arriver au bureau. Placer une boîte à l’entrée simplifie l’accueil et évite de soulever le carton à chaque dépôt. La participation de Lucie transforme une préparation qui prenait beaucoup d’attention en deux choix qu’elles peuvent vérifier.
+### La préparation demande déjà un effort
 
-## Préparer une relève possible dès le départ
+Relire des informations familières peut devenir lent lorsqu’une douleur occupe l’attention.
 
-Laure garde l’accueil assis, les réponses aux visiteurs et la remise du registre à dix heures trente. Lucie peut préparer la boîte de dépôts et reprendre les demandes en cours à son arrivée. Si Laure doit quitter plus tôt et que Lucie ne peut pas venir immédiatement, la responsable de la bibliothèque peut afficher une interruption. Elles inscrivent cette décision au dos du planning et préviennent la responsable. La conduite à tenir pour la santé de Laure reste celle qu’elle a revue avec sa médecin, avec une voie de contact si les symptômes changent.
+**Exemples concrets**
+
+- Laure relit deux fiches en gardant la main sur la troisième.
+- Une personne qui prépare un accueil revient plusieurs fois sur les mêmes étiquettes et n’a plus le temps de tester l’entrée.
+
+### Certains obstacles appartiennent au lieu
+
+Regarder depuis le point de vue du public peut révéler un problème qu’aucune relecture ne résoudra.
+
+**Exemples concrets**
+
+- Lucie constate depuis la porte qu’on ne voit pas où poser un sachet.
+- Un collègue qui joue le premier visiteur ne trouve pas la feuille d’inscription depuis le couloir.
+
+### Un relais réduit le nombre de gestes à assurer
+
+La personne peut garder un rôle même si elle doit transmettre une partie du travail.
+
+**Exemples concrets**
+
+- Laure et Lucie répètent le passage du cahier une fois.
+- Deux personnes prévoient une boîte où laisser les fiches qu’elles n’auront pas le temps de classer.
+
+## 3 techniques pour alléger les gestes à préparer avant une ouverture
+
+### 1. Choisir ce qui doit fonctionner le premier jour
+
+Réserver le temps d’essai aux gestes utiles.
+
+**Exercice pratique**
+
+- Repérez le premier accueil et le passage de relais.
+- Testez-les dans la durée disponible.
+- Reportez les vérifications secondaires à un moment défini.
+
+L’essai renseigne sur le travail réel sans demander de répéter toute la matinée.
+
+### 2. Regarder le lieu comme un visiteur
+
+Repérer un obstacle qui ne tient pas à la capacité de la personne.
+
+**Exercice pratique**
+
+- Placez-vous à l’entrée ou demandez à un collègue de le faire.
+- Identifiez ce qui doit être visible sans explication.
+- Déplacez le support ou ajoutez un panneau simple.
+
+Un aménagement du lieu peut réduire l’effort d’accueil pour l’équipe et les visiteurs.
+
+### 3. Prévoir une transmission courte
+
+Garder une option si les symptômes ou l’affluence changent.
+
+**Exercice pratique**
+
+- Indiquez ce qui peut rester dans une boîte pour plus tard.
+- Convenez du message de départ et de la personne qui prend la suite.
+- Vérifiez une fois comment le matériel passe de main en main.
+
+La personne peut commencer l’activité avec un relais utilisable, même si elle ne sait pas encore comment elle se sentira.
 
 ## La boîte à l’entrée
 
 Lucie sort une boîte vide d’un placard et la place sous le panneau. Laure écrit « Graines à déposer » sur un carton, puis marche jusqu’à la porte pour regarder avec elle. On voit le panneau en entrant. Elles reprennent une fois le passage du cahier et arrêtent la répétition à l’heure convenue. Laure garde une seule fiche à vérifier chez elle et laisse les autres dans la boîte de préparation. Elle retrouve dans le cahier la disponibilité que Yasmina vient de confirmer pour la deuxième date. En refermant la porte, elle annonce à Lucie qu’elle lui enverra un message au départ de chez elle, comme elles viennent d’en convenir.
+
+---
+
+**Conclusion**
+
+La boîte et son panneau répondent à un besoin que la liste ne montrait pas. Laure et Lucie savent comment reprendre le cahier. Elles s’arrêtent à l’heure prévue et gardent un moyen de se joindre le lendemain si les conditions changent.

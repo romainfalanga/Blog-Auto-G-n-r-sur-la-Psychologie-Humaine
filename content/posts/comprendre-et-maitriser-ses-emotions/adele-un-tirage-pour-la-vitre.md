@@ -29,22 +29,83 @@ Eva arrive avec le carton qui protégera le tirage qu’Adèle emportera chez el
 
 Inès traverse le hall avec son cahier à spirale. La vitrine doit accueillir les travaux du voyage. Inès a préparé le carton qui accompagnera leur projet. La professeure demande un titre commun et Inès voudrait écrire leurs deux prénoms juste en dessous. Adèle lui demande le crayon. Elle veut signer son dessin et laisser une ligne à Inès pour son enregistrement. Pour le titre, elle a gardé les mots écrits au bout de sa première bande.
 
-## Évaluer ce qui a changé et ce qui gêne encore les repas
+## Ce qu’un voyage permet d’apprendre pour la suite
 
-Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Un séjour possible avec des appuis donne un point de départ pour examiner les difficultés qui persistent. L’ARFID peut continuer à l’âge adulte et peut aussi se manifester pour la première fois à cet âge. Le suivi s’adapte à ce que la personne vit et aux effets de la restriction sur sa santé et son quotidien.
+Le suivi de l’ARFID tient compte de la santé et des conséquences dans plusieurs situations au fil du temps. Une activité menée à bien ne résume pas l’évolution des difficultés alimentaires. Adèle et Eva ont retenu des faits différents du même séjour : la nuit passée au centre, les conditions du déjeuner et le temps consacré à appréhender les autres repas. Leur équipe peut les examiner ensemble.
 
-## La nuit au centre et le temps passé à redouter les repas
+## Comment le suivi replace-t-il une réussite dans le temps ?
 
-Eva se souvient d’abord qu’Adèle a dormi au centre. Adèle repense au déjeuner qu’elle a pu prendre au réfectoire, puis aux tables déplacées le soir. Elle se rappelle le temps passé à se demander si elle devrait réussir à manger comme à midi. Elle a aussi pu demander l’aide plus tôt au petit déjeuner. Le récit du séjour fait apparaître l’effort que le simple fait d’être restée ne rend pas visible.
+### Des observations différentes éclairent une même journée
 
-## Laisser au dessin l’espace qui lui revient
+Le jeune peut décrire l’effort que l’entourage n’a pas vu tandis qu’un adulte se rappelle ce qui a pu être fait.
 
-Pour choisir son tirage, Adèle peut regarder de l’endroit d’où les élèves le verront. Elle peut demander à Inès de placer le carton un peu plus bas, où le reflet gêne moins la lecture. Leur travail associe deux observations : le début du bruit et l’ombre qui coupe les fils. Il peut être présenté avec les noms et les détails qu’elles souhaitent partager.
+**Exemples concrets**
 
-Eva peut venir voir la vitrine et demander à Adèle de lui montrer cette différence. À un autre moment, elle peut lui proposer de reprendre le prochain rendez-vous et la question des repas au collège. Adèle a choisi de faire place à ces deux conversations. Elle n’a pas besoin de les tenir devant les mêmes personnes.
+- Eva retient qu’Adèle est restée dormir ; Adèle repense à la difficulté de refaire comme à midi.
+- Un parent dit que la sortie a eu lieu et le jeune raconte combien de temps il a cherché l’aide convenue.
 
-La diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé. Avant une autre sortie, les adultes et Adèle pourront discuter des besoins et des appuis selon le lieu. Adèle peut en reparler au moment de préparer une prochaine sortie.
+### Deux repas du même séjour peuvent apporter des réponses différentes
+
+Reprendre les situations dans l’ordre permet de voir ce qui a changé autour de chacune.
+
+**Exemples concrets**
+
+- Adèle raconte le déjeuner en groupe, la disposition du dîner et la petite salle utilisée ensuite.
+- Une personne distingue le repas rendu possible par un appui et celui qui est resté difficile malgré une organisation proche.
+
+### Le prochain point peut porter sur un autre lieu
+
+Le retentissement se compare aussi dans des activités ordinaires, après le retour.
+
+**Exemples concrets**
+
+- La diététicienne demande si les mêmes difficultés se répètent au collège.
+- Un jeune et son équipe prévoient de revoir les repas de la semaine après avoir parlé d’un déplacement.
+
+## 3 techniques pour faire un bilan utile après une sortie
+
+### 1. Reprendre les faits dans l’ordre
+
+Donner une chronologie que l’équipe peut utiliser.
+
+**Exercice pratique**
+
+- Identifiez les repas et les conditions de chacun.
+- Dites quel appui était prévu et lequel a réellement servi.
+- Signalez les difficultés à suivre le plan ou les questions qui restent.
+
+La discussion peut se fonder sur plusieurs moments plutôt que sur le souvenir global du voyage.
+
+### 2. Recueillir aussi le vécu du jeune
+
+Faire entendre ce qui n’a pas été visible aux autres.
+
+**Exercice pratique**
+
+- Demandez au jeune par quoi il veut commencer.
+- Écoutez ce qui l’a aidé et ce qu’il a appréhendé.
+- Ajoutez les observations de l’adulte sans parler à sa place.
+
+Les professionnels disposent de deux points de vue sur les conditions réelles.
+
+### 3. Préparer le prochain suivi
+
+Vérifier si les mêmes besoins reviennent dans la semaine habituelle.
+
+**Exercice pratique**
+
+- Convenez avec l’équipe de la situation à revoir.
+- Identifiez à qui signaler une aggravation ou un écart au plan.
+- Fixez le prochain point avec le service.
+
+Le soutien peut être ajusté dans la durée, même après une sortie qui a eu lieu.
 
 ## À hauteur de la barre courte
 
 Adèle rend le tirage régulier à Mme Roussel. Elle garde celui qui laisse des vides et l’abaisse jusqu’à ce que la barre courte sorte du reflet. Inès écrit « Vu du bout de la ligne » en haut du carton et lui rend le crayon. Adèle signe à côté du mot « dessin ». Inès écrit son prénom sur la ligne « son ». Eva lui demande d’où vient le bleu. Adèle déplie dans son carnet le morceau d’épaule de la vieille veste. Elle lui montre l’envers, que le soleil n’a pas décoloré, puis demande à Mme Roussel s’il restera assez de papier pour essayer une autre couleur la semaine prochaine.
+
+---
+
+**Conclusion**
+
+Adèle expose le dessin qu’elle voulait faire et raconte au suivi ce qui s’est passé à table. La nuit au centre est un fait parmi d’autres. Au collège, elle pense déjà à la prochaine couleur, tandis que la diététicienne reverra avec elle les repas ordinaires.

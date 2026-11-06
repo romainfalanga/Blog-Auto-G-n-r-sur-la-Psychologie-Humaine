@@ -29,20 +29,83 @@ Sacha finit sa partie. Gaspard prend la suite, présente ses deux pots de récup
 
 Chez lui, il retrouve un bout de terre séchée dans le pli de sa manche. Il se demande s’il devrait envoyer à Nora un message pour dire qu’il s’occupera du matériel et laissera parler Gaspard. Il ouvre leur conversation et voit le dernier message de la responsable : une photo des sacs de terreau rangés dans le mauvais rayon. Elle avait ajouté une flèche jaune pour qu’il voie lesquels déplacer. Il revient à cette flèche. Au lieu de lui écrire tout de suite, il ferme le téléphone et pose la terre du bout de son doigt sur le rebord d’un pot.
 
-## Un souvenir peut se resserrer autour d’un détail
+## Quand un instant prend toute la place après coup
 
-Dans l’anxiété sociale, une situation peut continuer d’occuper l’esprit après qu’elle est terminée. La personne repasse des mots, des gestes ou un signe de réaction dont le sens lui paraît incertain. La recommandation NICE invite à explorer ce qui se passe après l’échange, et certaines thérapies comportementales et cognitives adaptées au trouble travaillent ces pensées quand elles deviennent problématiques.
+Dans l’anxiété sociale, la rumination après un échange peut remettre sans cesse en avant un détail jugé embarrassant. La personne peut en venir à prendre une interprétation pour le souvenir de ce qui s’est passé. Sacha se rappelle avoir buté sur un mot et le sourire de Nora, dont il ignore le sens. Il peut vérifier un aspect de l’essai sans devoir trancher ce que Nora a pensé.
 
-## Comment cette difficulté se manifeste
+## Comment la rumination remanie-t-elle le souvenir d’un échange ?
 
-Sacha se souvient du sourire de Nora et du mot qu’il a repris. Il rapproche les deux sans savoir ce qui a fait sourire Nora. Pendant ce temps, d’autres informations lui échappent : le dessin est visible de loin, mais la motte est trop basse ; Nora a proposé de changer la place de la table. L’inquiétude est réelle. La certitude qu’il croit avoir sur ce que Nora a pensé reste à distinguer de ce qu’il a entendu et observé.
+### Un détail revient plus que le reste
 
-## Demander un retour qui serve au travail
+La mémoire de la scène peut se rétrécir autour d’une hésitation.
 
-Sacha et Gaspard avaient demandé à Nora de vérifier la démonstration. Ils peuvent reprendre cette demande avec une question précise : de quelle place voit-on la motte, et à quel moment faut-il rapprocher le plateau ? Un retour de cette sorte donne de quoi préparer l’atelier. Il reste possible que Nora ait trouvé une phrase difficile à entendre ; elle peut le dire et les aider à savoir quelle partie revoir. Sacha a le droit de faire une pause avant de décider de changer de rôle.
+**Exemples concrets**
 
-Au cabinet, le sourire qu’il repasse est un exemple utile, même si Sacha n’apprend jamais ce qu’il signifiait. Il peut dire à la docteure ce que cette incertitude lui donne envie de faire. Ils pourront travailler sur la façon dont elle pèse sur ses décisions, sans attendre que Gaspard ou Nora puissent garantir l’avis de chaque personne dans la pièce.
+- Sacha revient au mot sur lequel il a buté, même s’il a terminé sa phrase.
+- Quelqu’un a répondu à plusieurs questions et repasse surtout celle où il a demandé qu’on répète.
+
+### Une réaction ambiguë devient un jugement supposé
+
+Un sourire ou un silence peut être interprété sans que son sens soit connu.
+
+**Exemples concrets**
+
+- Nora sourit et se penche vers sa chaussure ; Sacha s’interroge sur ce qu’elle a voulu dire.
+- Après un appel, une personne relit un message bref comme un signe d’agacement sans autre indication.
+
+### Le souvenir oriente déjà la prochaine décision
+
+Une crainte reconstruite après l’échange peut pousser à abandonner un rôle qu’on voulait garder.
+
+**Exemples concrets**
+
+- Sacha pense proposer que Gaspard prenne toute la parole.
+- Quelqu’un envisage de ne plus animer une réunion parce qu’il repasse une pause survenue la veille.
+
+## 3 techniques pour reprendre une situation sans rejouer chaque seconde
+
+### 1. Séparer les faits et le sens supposé
+
+Garder de la place pour ce qu’on ne sait pas.
+
+**Exercice pratique**
+
+- Écrivez le détail observable en une phrase.
+- Notez séparément l’interprétation qui revient.
+- Ajoutez un élément de la scène que cette interprétation laissait de côté.
+
+Vous gardez un souvenir plus complet sans devoir deviner les pensées de l’autre.
+
+### 2. Demander un retour qui aide le travail
+
+Vérifier un point modifiable au lieu de chercher un verdict personnel.
+
+**Exercice pratique**
+
+- Choisissez une question concrète, comme l’emplacement de la fiche.
+- Demandez à un collègue de montrer ce qu’il voit depuis sa place.
+- Essayez un ajustement et arrêtez-vous à ce que vous avez vérifié.
+
+Le retour apporte une information utilisable pour l’atelier.
+
+### 3. Différer un changement de rôle
+
+Éviter de trancher à partir du seul moment qui revient en boucle.
+
+**Exercice pratique**
+
+- Gardez le message en brouillon si la décision peut attendre.
+- Relisez l’objectif initial et les faits connus.
+- Parlez de la rumination au praticien si elle vous fait régulièrement renoncer.
+
+La décision peut se reprendre avec davantage d’informations sur ce que vous voulez faire.
 
 ## Déplacer le plateau
 
 Le lendemain, Sacha demande à Nora où elle poserait la fiche. Elle prend un petit support qui servait aux prix des bulbes, le tourne vers la sixième place et attend que Sacha revienne se mettre derrière la table. Lui avance le plateau. La motte est visible sans que Nora ait à se pencher. Il ne lui parle pas du sourire. Avec Gaspard, ils gardent les deux rôles, choisissent le samedi dans deux semaines à dix heures et impriment l’affiche pour six personnes. Nora y ajoute l’endroit où s’inscrire.
+
+---
+
+**Conclusion**
+
+Depuis la sixième place, la motte devient visible. Sacha ne sait toujours pas ce que voulait dire le sourire. Avec Gaspard, il peut pourtant garder les rôles prévus et fixer la date.

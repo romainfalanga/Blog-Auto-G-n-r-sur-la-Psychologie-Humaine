@@ -29,22 +29,83 @@ Nora apporte un chiffon. L’homme qui voulait filmer est revenu acheter du terr
 
 « Je ne sais pas encore si je veux reprendre un samedi », dit-il. Gaspard lève le tournevis. Il avait prévu de demander aussi s’ils pourraient laisser le chevalet sur le comptoir, où les gens verraient le dessin en achetant les plants. Sacha lui tend la fiche annotée. Ça, il sait qu’il en a envie.
 
-## Une tâche peut être faite au prix d’un effort invisible
+## Le résultat ne montre pas tout l’effort
 
-Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement.
+Dans le trouble d’anxiété sociale, une personne peut maintenir une participation visible au prix d’un effort important. Ce coût peut se remarquer après, dans le besoin de récupérer ou dans une autre activité reportée. Sacha est satisfait d’avoir répondu sur les racines et repousse pourtant l’appel de son frère le lendemain. Les deux moments méritent d’être décrits.
 
-## Comment cette difficulté se manifeste
+## Comment le coût de la participation se voit-il après coup ?
 
-Le fait que Sacha ait transmis une information utile aux visiteurs et la fatigue qu’il décrit après l’atelier peuvent être vrais en même temps. Le temps d’attente avant d’appeler son frère lui donne une façon précise de parler de ce que l’atelier lui a demandé. La fatigue d’une journée ne s’explique toutefois pas à elle seule par un diagnostic.
+### Le public connaît surtout le résultat
 
-Il y a eu aussi un échange qui lui a plu avec madame Baudry, une fois les autres visiteurs partis. En parler au cabinet donne une image plus complète de la matinée. Sacha peut garder de cet atelier le plaisir d’une conversation et demander de revoir la préparation avant d’en prendre un autre en charge.
+Les personnes présentes ne voient pas toujours la surveillance ni les décisions prises pour rester dans l’échange.
 
-## Deux retours avec des questions différentes
+**Exemples concrets**
 
-NICE recommande de faire participer la personne à l’examen des effets du soin. Sacha peut dire à la docteure Rigal comment il a vécu le samedi, de la veille au lendemain, et ce qu’il voudrait encore pouvoir faire. Elle peut l’aider à reprendre les difficultés qui comptent pour lui, même quand le travail qu’il voulait faire a été accompli. La conversation avec son frère appartient aussi à la vie qu’il cherche à préserver.
+- La fille d’un visiteur peut utiliser la fiche ; cela ne dit pas ce que montrer le plant a demandé à Sacha.
+- Une équipe voit une présentation se terminer et ignore combien d’énergie a pris le fait de répondre aux questions.
 
-À la graineterie, Nora et Gaspard peuvent reprendre des questions propres à leur activité. Qu’est-ce que les visiteurs ont trouvé utile ? Peuvent-ils laisser des fiches au comptoir, et qui en remettra quand il n’y en aura plus ? Une deuxième date pourra être discutée si chacun en a envie et si le planning le permet. Sacha peut préférer contribuer autrement pour le moment.
+### Un autre engagement devient plus coûteux
+
+L’effort peut peser sur une activité que la personne souhaitait pourtant faire.
+
+**Exemples concrets**
+
+- Sacha tarde à rappeler son frère et préfère une courte marche au repas prévu.
+- Quelqu’un rentre d’une réunion et reporte un échange qu’il avait envie d’avoir avec un ami.
+
+### On peut vouloir garder un résultat sans répéter l’effort
+
+Il est possible de prolonger un projet en modifiant la forme de la contribution.
+
+**Exemples concrets**
+
+- Sacha choisit de laisser le dessin sur le comptoir et attend avant de proposer un autre samedi.
+- Une personne laisse un guide à disposition tout en prenant le temps de décider si elle veut animer une nouvelle séance.
+
+## 3 techniques pour tenir compte d’un effort qui ne se voit pas
+
+### 1. Décrire l’avant, le pendant et l’après
+
+Donner une image plus complète d’une activité accomplie.
+
+**Exercice pratique**
+
+- Racontez ce que les autres ont vu.
+- Précisez ce que vous surveilliez ou ce qui vous a demandé du temps.
+- Décrivez ce que vous avez pu faire le lendemain.
+
+Le suivi peut tenir compte du coût et du résultat à la fois.
+
+### 2. Reporter une décision répétée
+
+Évaluer un nouvel engagement quand l’effort du premier est mieux connu.
+
+**Exercice pratique**
+
+- Dites si vous souhaitez prendre le temps avant de fixer une date.
+- Proposez une contribution possible dans l’intervalle.
+- Convenez du moment où l’équipe reparlera d’une nouvelle séance.
+
+Le projet continue sans présumer d’une disponibilité immédiate.
+
+### 3. Préserver une relation dans un cadre choisi
+
+Retrouver ce qui comptait dans un autre engagement.
+
+**Exercice pratique**
+
+- Demandez-vous si vous voulez voir la personne, changer le cadre ou reporter.
+- Proposez un moment compatible avec l’énergie dont vous disposez.
+- Parlez au praticien des répercussions qui se répètent sur vos relations.
+
+Le cadre peut s’adapter, et le coût dans la durée devient visible au suivi.
 
 ## Le chevalet reste au comptoir
 
 Gaspard libère le ressort. Sacha replie la table avec lui, puis pose le chevalet à côté du cahier des commandes. Ils s’accordent sur une dizaine de fiches en libre-service. En fin de journée, au cabinet, Sacha parle de la réponse sur les racines et du dimanche avec son frère. Il veut continuer à travailler sur les moments où il surveille chaque mot, même quand la conversation lui plaît. En sortant, il envoie un message à son frère pour lui proposer un tour au marché, tous les deux. Il a oublié ce qu’il voulait lui raconter la dernière fois. Il se rappelle juste qu’il a envie de le voir.
+
+---
+
+**Conclusion**
+
+Le chevalet peut servir un autre matin sans que Sacha fixe une nouvelle démonstration. Au cabinet, il parle de son dimanche ; à son frère, il propose un moment à deux qu’il a envie de partager.

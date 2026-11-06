@@ -32,14 +32,81 @@ Elle connaît cette hâte de s’en sortir avant que quelqu’un attende. Son tr
 
 Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique. Elles ne touchent pas toutes ces dimensions chez tout le monde. Pour Lison, préparer la quantité d’un tissu et choisir comment deux matières accrochent la lumière sollicitent des compétences différentes. Elle peut être précise dans les deux situations, avec des conditions de travail et un effort différents. Son diagnostic a été posé par des professionnels bien avant cette scène. Une erreur de devis, à elle seule, n’aurait rien permis d’établir.
 
-## Le oui qui engage trop vite
+Une personne qui redoute de devoir calculer devant quelqu’un peut donner une réponse avant d’avoir vérifié ce qu’elle peut confirmer. Lison dit oui à deux questions d’un coup alors qu’elle a décidé seulement des matières. Revenir à la quantité lui permet de garder sa responsabilité sans s’engager sur un chiffre incertain.
 
-Lison craint que sa façon de calculer devienne ce que les autres retiennent de sa matinée. Répondre vite lui épargne un silence embarrassant, puis la laisse avec une quantité qu’elle n’a pas préparée et une promesse difficile à tenir. Dans une étude auprès de dix-huit adultes reçus dans une consultation universitaire, des participants ont décrit cette appréhension et des façons d’éviter des situations chiffrées. Leurs récits éclairent un vécu possible, sans résumer celui de toutes les personnes dyscalculiques. Ici, Lison veut rester au centre du travail : c’est elle qui sait pourquoi le sergé doit apparaître par instants et pas éclairer toute la veste.
+## Comment l’appréhension du calcul peut-elle pousser à répondre trop vite ?
 
-## Rendre la question assez précise pour y répondre
+### La réponse met fin à un moment inconfortable
 
-Lison peut reprendre son premier oui en séparant la décision sur les matières de celle sur la quantité. Avec Nora, elle peut se donner un moment pour lire le patron, identifier ce qui manque et décider quand une vérification sera utile. Elles peuvent aussi préciser qui transmettra la commande : Lison veut préparer les chiffres et suivre les réponses ; Nora reste responsable de valider l’achat. Cet accord évite que chaque question sur une longueur devienne une épreuve surprise. Si le temps pris pour reprendre les chiffres déborde régulièrement sur ses pauses ou ses soirées, Lison peut apporter ces situations à son équipe de suivi. Au travail, elle peut demander de revoir le moment et la forme des demandes.
+Dire oui rapidement peut éviter un calcul sous le regard de l’autre, mais laisse la décision en suspens.
+
+**Exemples concrets**
+
+- Lison acquiesce alors que la quantité reste à reprendre.
+- Un apprenti peut dire qu’il a assez de matériel sans avoir encore comparé le stock au patron.
+
+### Deux questions peuvent demander des réponses différentes
+
+Quand l’une touche un domaine familier et l’autre exige un calcul, répondre aux deux en même temps cache le point à vérifier.
+
+**Exemples concrets**
+
+- Lison sait quelles matières elle veut superposer et hésite sur le métrage.
+- Une personne peut choisir un format d’impression tout en ayant besoin de temps pour confirmer combien elle peut en tirer.
+
+### On peut revenir sur une réponse donnée trop tôt
+
+Indiquer ce qui est acquis et ce qui reste à examiner permet de reprendre sa place dans la décision.
+
+**Exemples concrets**
+
+- Lison écrit « revoir quantité » et laisse la case vide.
+- Dans un atelier, on peut garder la référence du tissu et réserver un créneau pour contrôler le stock.
+
+## 3 techniques pour répondre quand le calcul demande plus de temps
+
+### 1. Séparer les deux questions
+
+Conserver la décision déjà prise et garder le calcul ouvert.
+
+**Exercice pratique**
+
+- Dites ce que vous pouvez confirmer maintenant.
+- Nommez la quantité à vérifier.
+- Laissez-la en attente jusqu’au moment où vous aurez la référence.
+
+Le oui à une matière ne devient pas un accord sur un nombre.
+
+### 2. Demander le délai réel
+
+Savoir quand et dans quelles conditions la réponse est attendue.
+
+**Exercice pratique**
+
+- Demandez jusqu’à quand le choix peut attendre.
+- Réservez un temps avec le patron et le mètre.
+- Vérifiez qui validera le chiffre après le relevé.
+
+La réponse peut se préparer dans un cadre convenu.
+
+### 3. Revenir sur un accord précipité
+
+Clarifier la prochaine étape sans devoir expliquer son trouble.
+
+**Exercice pratique**
+
+- Dites que vous souhaitez reprendre la ligne chiffrée.
+- Proposez un moment précis pour le faire.
+- Confirmez la tâche que vous voulez garder.
+
+Le rôle reste choisi pendant que la quantité se vérifie.
 
 ## La case reste vide
 
 Nora ouvre son agenda. Mardi avant la pause, la petite table du fond est libre. Elle propose qu’elles y apportent le patron et un mètre, puis qu’elles aillent vérifier le stock un autre jour. Lison écrit « revoir quantité » sur le formulaire et laisse la case vide. Elle revient aux deux chutes pour agrafer un coin de l’ocre par-dessus l’ardoise, de sorte qu’on puisse le soulever. Nora essaie du pouce. « Ça ne se voit que si on bouge », dit-elle. Lison acquiesce. Pour cette question-là, elle sait exactement à quoi elle répond.
+
+---
+
+**Conclusion**
+
+Lison confirme les tissus et rouvre la question de la quantité. La case vide garde la place du calcul qu’elle veut reprendre à la table du fond. Elle peut suivre la commande tout en laissant à Nora la validation de l’achat.

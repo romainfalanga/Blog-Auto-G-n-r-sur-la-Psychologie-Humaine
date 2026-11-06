@@ -31,73 +31,73 @@ reading_topics:
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-bord-du-soleil/">Quand la lenteur d’un geste passe pour du désintérêt</a></h3>
-    <p class="parcours-resume">En collant du papier doré, Augustin doit tenir deux matières qui glissent et recommencer quand la bande accroche à son doigt. Nora ne voit que le peu de pièces terminées et pense qu’il préférerait faire autre chose. Un trouble développemental de la coordination motrice peut rendre des gestes lents ou imprécis. La scène montre combien une lecture trop rapide de l’effort peut atteindre le sentiment de compétence.</p>
+    <p class="parcours-resume">En collant du papier doré, Augustin doit tenir deux matières à la fois et recommencer quand la bande accroche à son doigt. Nora voit deux bandes posées et pense qu’il préférerait faire autre chose. Le trouble développemental de la coordination motrice peut rendre certains gestes lents ou imprécis. Ici, compter les pièces terminées laisse de côté tout le travail du bord.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-bord-du-soleil/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles/">Pourquoi un enchaînement de gestes change l’effort demandé</a></h3>
-    <p class="parcours-resume">Augustin aime le monologue du concierge et l’entrée du voisin. Les rôles ont des exigences motrices différentes. L’un demande de changer de trousseau en parlant, l’autre de lever un objet au bon moment. Avec un trouble de la coordination, des gestes déjà acquis peuvent coûter davantage quand il faut les enchaîner. L’essai en mouvement aide Augustin à choisir selon le plaisir de jouer et l’effort réel.</p>
+    <p class="parcours-resume">Augustin aime le monologue du concierge et l’entrée du voisin. L’un doit changer de trousseau avant de reprendre le dialogue, l’autre lever le soleil au bon moment. Avec un trouble de la coordination, réussir chaque geste à part ne donne pas toujours une idée de l’effort nécessaire quand il faut passer de l’un au suivant. Augustin demande à essayer les deux passages en mouvement.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-deux-roles/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-legende-de-la-carte/">Quand tracer une carte prend toute l’attention</a></h3>
-    <p class="parcours-resume">Augustin surveille l’encre du fleuve et découvre que le cours a avancé pendant qu’il traçait la carte. Les gestes manuscrits peuvent prendre beaucoup d’attention quand la coordination est difficile. La question qu’il manque porte pourtant sur un sujet qui l’intéresse. Avec un fond imprimé, il peut écouter, puis annoter lui-même les éléments importants. Ce partage entre geste et contenu peut aussi compter dans une formation ou au travail.</p>
+    <p class="parcours-resume">Augustin surveille l’encre du fleuve et découvre que le cours a avancé pendant qu’il traçait la carte. Quand la coordination des mains est difficile, suivre un trait peut mobiliser l’attention au moment où il faudrait aussi écouter. Augustin propose de partir d’un fond imprimé. Il veut garder les annotations utiles au raisonnement sans refaire le tracé en même temps que l’explication.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-legende-de-la-carte/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe/">Évaluer la fatigue quand un geste a pourtant réussi</a></h3>
-    <p class="parcours-resume">Augustin a réussi à faire tenir le bord doré. Il a aussi gardé les épaules levées et repris plusieurs fois la bande, au point de se sentir déjà fatigué avant de sortir. Dans un trouble de la coordination, un résultat réussi peut masquer le coût du geste. Décider de garder le bord sans ajouter les rayons lui laisse de l’énergie pour le reste de sa journée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe/">Quand un geste réussi laisse peu d’énergie pour la suite</a></h3>
+    <p class="parcours-resume">Augustin a réussi à faire tenir le bord doré. Il a aussi gardé les épaules levées et repris plusieurs fois la bande. Quand il pense aux rayons qu’il reste à coller, il se sent déjà fatigué avant sa sortie. Avec un trouble de la coordination, la lenteur et les reprises peuvent rendre une tâche exigeante même si elle aboutit. Cette fois, Augustin garde le bord et s’arrête.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-soleil-sur-la-nappe/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat/">Modifier la tâche pour pouvoir faire soi-même le geste</a></h3>
-    <p class="parcours-resume">Augustin essaie de tenir une boîte et d’en sortir un disque assez vite pour entrer en scène. Les deux actions se gênent. En ergothérapie, il montre l’activité qu’il veut pouvoir réaliser et essaie une disposition qui rend les bords plus accessibles. Pour un trouble de la coordination, observer la personne, le geste et l’environnement aide à comprendre quelles contraintes une adaptation peut alléger.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat/">Quand le rangement complique la prise d’un objet</a></h3>
+    <p class="parcours-resume">Augustin veut lever le soleil lui-même, mais la boîte bouge quand il tire le disque. Son coude retient le rangement au moment où ses mains lui serviraient à saisir le carton. Les difficultés de coordination peuvent varier selon ce que le matériel demande. Avec Mme Rivière, son ergothérapeute, Augustin cherche quelle disposition lui laisserait les deux bords à portée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-boite-a-plat/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque/">Quand le temps de préparer un geste est pris pour une demande d’aide</a></h3>
-    <p class="parcours-resume">Augustin cherche comment saisir le disque depuis le bac. Maxence voit la scène en attente, prend l’objet et le lui tend. Avec un trouble de la coordination, un temps sans mouvement visible peut correspondre à une action encore en cours. Augustin se sent contrarié parce qu’il voulait vérifier ce qu’il pouvait faire. Convenir d’un signe ou d’une demande permet de proposer une aide quand elle lui sert.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque/">Quand le temps de préparer un geste est pris pour un appel à l’aide</a></h3>
+    <p class="parcours-resume">Augustin a déjà trouvé le bord du disque, mais cherche encore comment le saisir. Maxence voit la scène en attente et lui tend l’objet. Quand la coordination est difficile, un instant sans mouvement visible peut servir à préparer une prise. Augustin veut garder ce temps pour essayer. Avec Maxence, il cherche comment demander une aide s’il en a besoin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-laisser-le-disque/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle/">Pourquoi un geste appris se complique dans un autre lieu</a></h3>
-    <p class="parcours-resume">La prise du disque marchait à la table de l’atelier. Dans la grande salle, la hauteur du meuble change, Augustin doit se déplacer et le signal de Maya arrive avant qu’il soit prêt. Les difficultés de coordination peuvent réapparaître quand plusieurs contraintes changent à la fois. Poser le disque à l’avance et séparer le geste de la réplique lui permet de refaire un essai utile.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle/">Pourquoi un geste répété peut se compliquer dans un autre lieu</a></h3>
+    <p class="parcours-resume">Augustin pouvait soulever le disque à la table de l’atelier. Dans la grande salle, la hauteur du meuble et la place autour changent sa prise. Le signal de Maya arrive avant qu’il soit prêt. Les difficultés de coordination peuvent redevenir visibles quand on déplace un geste dans un autre lieu. Augustin propose de placer le soleil sur le plateau avant son entrée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-grande-salle/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme/">Demander un appui sans devoir raconter son trouble en public</a></h3>
-    <p class="parcours-resume">Augustin a parlé à son ergothérapeute de la façon de prendre le disque et à l’enseignante du coût de la copie. Quand Nora lui propose d’en parler dans le programme, il craint que les spectateurs retiennent surtout sa difficulté. Le retentissement social du trouble de la coordination dépend aussi de ces regards. Il peut partager une décision de mise en scène et garder d’autres informations pour les personnes qui l’accompagnent.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme/">Craindre que les autres ne retiennent que la difficulté du geste</a></h3>
+    <p class="parcours-resume">Nora veut raconter pourquoi l’entrée du voisin a changé. Augustin tient à voir son prénom dans le programme et craint que les spectateurs retiennent surtout sa difficulté à soulever le disque. Les réactions du groupe peuvent peser sur la place qu’on se sent capable de prendre quand on a un trouble de la coordination. Augustin choisit de montrer ce qu’il a inventé pour la scène.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-programme/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin/">Choisir un rôle sans se juger sur sa difficulté</a></h3>
-    <p class="parcours-resume">Augustin trouve une place pour poser ses clés et arrive à essayer le monologue. Une part de lui voudrait choisir ce rôle pour prouver qu’il peut le faire, alors qu’il a aimé la scène où il lève le soleil. Le trouble de la coordination compte dans les exigences des rôles. Essayer les deux permet aussi de décider selon le plaisir et l’intention de jouer.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin/">Quand le doute sur ses gestes pèse sur le choix d’un rôle</a></h3>
+    <p class="parcours-resume">Augustin trouve une place pour les clés et peut essayer le monologue. Il hésite à prendre le rôle pour prouver qu’il sait le jouer, alors qu’il a aimé le silence obtenu en levant le soleil. Les difficultés de coordination peuvent peser sur la confiance qu’on a dans ses gestes. L’essai donne à Augustin de quoi distinguer ce qu’il veut montrer de ce qu’il a envie de jouer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-voisin/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale/">Pourquoi un autre objet demande de réapprendre la prise</a></h3>
-    <p class="parcours-resume">Le soleil doré est plié et Augustin doit choisir un disque plus souple. Un objet de même taille change sous son pouce quand il le prend comme d’habitude. Avec des difficultés de coordination, ce genre de différence peut modifier l’effort et faire revenir le doute. Augustin vérifie deux choses séparément, l’effet vu de la salle et la façon de soulever le disque.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale/">Quand un nouvel objet demande une autre prise</a></h3>
+    <p class="parcours-resume">Le soleil doré est plié et Augustin retrouve le disque pâle. Il a la même forme, mais fléchit sous son pouce quand il le prend par un bord. Dans un trouble de la coordination, les caractéristiques d’un objet peuvent changer la façon de le saisir. Augustin essaie une prise à deux mains et demande à Nora de vérifier l’effet du disque depuis le dernier rang.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-un-soleil-plus-pale/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-temps-du-silence/">Prendre le temps du geste sous le regard du public</a></h3>
-    <p class="parcours-resume">Au moment d’entrer, la manche recouvre les doigts d’Augustin et le disque glisse. Il sent l’attente de la salle, écarte le tissu et rapproche ses deux mains. Un geste préparé peut demander du temps quand un détail change, surtout sous le regard d’autrui. Le relais convenu reste possible, ce qui lui laisse la liberté de prendre quelques secondes pour terminer lui-même.</p>
+    <p class="parcours-resume">Sur scène, la manche couvre les doigts d’Augustin et le carton glisse un peu. Il entend la salle et voudrait parler pour combler le silence. Avec un trouble de la coordination, un geste préparé peut encore demander un ajustement. L’attente qu’Augustin prête au public lui donne envie de faire vite. Maya garde le relais disponible pendant qu’il retrouve sa prise.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-le-temps-du-silence/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece/">Ce qui peut changer d’un projet à l’autre avec un trouble de la coordination</a></h3>
-    <p class="parcours-resume">Augustin a tenu le rôle qu’il voulait et aimerait encore essayer une scène plus longue. Avec un trouble développemental de la coordination motrice, les gestes qui demandent un effort peuvent changer selon l’activité, au collège comme plus tard. Garder le souvenir d’un appui utile lui donne une option pour une autre pièce. Le rôle, les gestes et l’aide se rediscuteront selon ce qu’il aura envie de faire.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece/">Les difficultés de coordination d’un projet à l’autre</a></h3>
+    <p class="parcours-resume">Augustin a joué le voisin et aimerait encore essayer une scène plus longue. Un trouble développemental de la coordination motrice peut persister à l’adolescence et à l’âge adulte. Les gestes qui demandent un effort et les aides utiles peuvent changer avec les activités. Pour son prochain projet, Augustin garde en tête ce qui l’a aidé et demande à Samira de laisser la case de son rôle vide.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/augustin-la-prochaine-piece/" class="parcours-link">Lire</a>
   </div>
 </div>

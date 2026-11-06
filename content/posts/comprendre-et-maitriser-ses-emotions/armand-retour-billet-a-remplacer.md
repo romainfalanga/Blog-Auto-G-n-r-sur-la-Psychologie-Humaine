@@ -29,22 +29,83 @@ Quand le médecin rappelle, Jeanne ouvre le résumé donné à la sortie. Armand
 
 Jeanne lui demande si elle doit dire à Nadia que le don est annulé. Armand lui montre le billet retourné. « Ce rendez-vous est passé, dit-il. Ça n’enlève rien aux cartes. » Il demande à Jeanne de rapprocher le carton gris de la fenêtre, où il voit mieux les titres. Dans la première sélection, il y a un plan vert sur lequel il avait dessiné sa tournée. Il veut revoir ce qu’il ressent en le sortant. Il demande à Jeanne de garder un coin de table libre et ouvre le carton lui-même.
 
-## Revoir le soutien après l’hôpital
+## Reprendre le quotidien après le retour
 
-Un retour à domicile est un moment pour vérifier avec la personne ce qu’elle peut reprendre, ce qui lui coûte davantage et les aides dont elle a besoin. Une évaluation urgente a répondu à la confusion de dimanche ; le suivi peut maintenant reprendre les difficultés présentes à la maison et les comparer au fonctionnement antérieur. L’évolution de la maladie et les suites d’un autre problème de santé sont des questions que les professionnels examinent dans leur contexte. La famille peut décrire les changements sans conclure seule à un nouveau stade.
+Après une confusion aiguë, le suivi à domicile sert à revoir le fonctionnement quotidien et les aides nécessaires. Le retour d’une façon familière de parler peut coexister avec une fatigue ou des difficultés encore présentes. Leur origine et leur évolution s’évaluent avec les professionnels. Armand décrit ce qui a changé depuis l’hôpital et sépare ce point de suivi de son rendez-vous au foyer.
 
-## La confusion inhabituelle et ce qui reste difficile au retour
+## Comment les besoins se précisent-ils après le retour à domicile ?
 
-Dimanche, Jeanne avait trouvé Armand très différent de la veille. Il avait du mal à rester attentif à sa voix et perdait le fil au milieu de phrases courtes. Au retour de l’hôpital, il retrouve sa manière habituelle de parler avec elle. Il se fatigue encore vite devant plusieurs papiers. Par deux fois, il a cru que l’ancien billet indiquait un rendez-vous pour le jour même. Ces observations précisent ce qui a changé à la maison depuis la sortie.
+### Les activités reprennent à des rythmes différents
 
-## Garder deux rendez-vous distincts
+Une amélioration dans un échange ne renseigne pas à elle seule sur les autres tâches.
 
-La Haute Autorité de santé invite à préparer le retour, à adapter les aides si nécessaire et à coordonner les intervenants. Armand peut demander au médecin ce qu’il propose de revoir et à quel moment. Si une nouvelle confusion brutale apparaît, il faut à nouveau solliciter sans attendre une évaluation médicale urgente.
+**Exemples concrets**
 
-Armand peut faire de la fatigue et de la reprise des papiers des sujets de suivi. Il peut garder le contact du cabinet à un endroit qu’il repère et noter, avec l’équipe, à qui demander de l’aide entre les visites. Jeanne peut convenir du temps qu’elle a pour lire le document de sortie avec lui. Le médecin, le service à domicile et la consultation mémoire peuvent préciser qui reprend chaque question.
+- Armand retrouve sa manière habituelle de parler avec Jeanne et perd plus vite le fil devant plusieurs papiers.
+- Une personne peut reprendre un appel familier et avoir encore besoin d’aide pour relire des rendez-vous de sortie.
 
-Armand peut aussi recontacter Nadia, en lui disant seulement ce qui est utile pour organiser la rencontre. S’il veut revoir le lot à une heure calme, ils peuvent fixer une date qui laisse le temps de relire la liste et de retirer une carte. Un billet portant une date passée peut quitter le miroir dès que son report est certain. La prochaine date y viendra lorsqu’elle sera effectivement convenue.
+### Un ancien repère n’est plus à jour
+
+Une indication restée en place peut correspondre à un engagement interrompu pendant l’hospitalisation.
+
+**Exemples concrets**
+
+- Le billet au miroir fait croire à Armand que Nadia l’attend encore.
+- Un calendrier peut afficher une visite déjà annulée et laisser à confirmer le nouveau rendez-vous.
+
+### Les aides sont à revoir dans la maison
+
+Un besoin se précise en observant une tâche réelle plutôt qu’en résumant la situation à un niveau d’autonomie.
+
+**Exemples concrets**
+
+- Armand demande un passage supplémentaire d’Irène pour réexaminer ses repères.
+- Une personne peut demander que l’équipe regarde comment elle retrouve le document de suivi au moment où elle en a besoin.
+
+## 3 techniques pour préparer la réévaluation à domicile
+
+### 1. Apporter deux moments de comparaison
+
+Décrire ce qui a changé sans supposer pourquoi.
+
+**Exercice pratique**
+
+- Choisissez une activité connue avant l’hospitalisation.
+- Décrivez ce qui se passe aujourd’hui dans une situation comparable.
+- Partagez l’exemple au suivi et signalez sans attendre au 15 toute nouvelle rupture brutale.
+
+Le professionnel peut situer le changement et décider de l’évaluation utile.
+
+### 2. Clarifier les contacts de retour
+
+Savoir qui rappeler et pour quel besoin.
+
+**Exercice pratique**
+
+- Reprenez avec la personne les consignes de sortie.
+- Confirmez le rendez-vous et le service à appeler entre deux visites.
+- Demandez avec son accord comment les équipes se transmettent les informations.
+
+Les demandes de suivi arrivent au bon interlocuteur sans reposer uniquement sur la famille.
+
+### 3. Actualiser un engagement interrompu
+
+Éviter qu’un repère ancien ajoute de la confusion.
+
+**Exercice pratique**
+
+- Vérifiez si la date affichée est toujours valable.
+- Retirez l’ancien billet s’il ne l’est plus.
+- Replacez un seul renseignement lorsque le nouveau rendez-vous est confirmé.
+
+La reprise du projet peut se préparer séparément des démarches de santé.
 
 ## Le plan vert dans la chemise personnelle
 
 L’équipe confirme un passage supplémentaire d’Irène pour revoir les repères à la maison, après le rendez-vous du médecin. Armand tire le plan vert du carton. Il aime encore suivre du doigt la dernière rue de la tournée. Sur la liste provisoire, il demande à Jeanne de barrer ce plan et d’écrire « reste chez moi ». Il le met près du fauteuil, avec l’original du pont bas. Il appelle Nadia pour revoir les trois autres cartes à la grande table, à dix heures le jeudi suivant. Ils conviennent que l’affiche attendra. Le nouveau billet remplace l’ancien au miroir.
+
+---
+
+**Conclusion**
+
+Le passage supplémentaire donnera à Armand l’occasion de revoir les aides chez lui. Pendant ce temps, il peut fixer avec Nadia une nouvelle date et décider que le plan vert restera près du fauteuil.

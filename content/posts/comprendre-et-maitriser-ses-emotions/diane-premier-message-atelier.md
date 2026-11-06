@@ -30,18 +30,81 @@ Diane écrit « Désolée pour tout », puis laisse le curseur clignoter. Maud s
 
 ## Ce qui reste de la peur après l’épisode
 
-Diane a vécu des moments où des paroles ordinaires semblaient la désigner personnellement. Maintenant, elle comprend le message qu’elle reçoit et redoute les questions qui suivraient une réponse. Le vécu de la crise et la peur des réactions d’autrui ont ici des effets distincts. Son suivi lui donne un lieu où en parler, tandis qu’elle décide de ce qu’elle veut confier à Maud.
+Après un épisode psychotique, le retour dans un lieu familier peut faire craindre les réactions de personnes qu’on a envie de revoir. Cette appréhension peut coexister avec une bonne compréhension d’un échange et ne signifie pas, à elle seule, que l’épisode reprend. Diane comprend la demande de Maud. Ce qui arrête sa réponse, c’est l’idée des questions que son retour pourrait déclencher. Son suivi lui donne aussi un endroit où parler de cette crainte.
 
-Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour.
+## Comment l’appréhension du retour se voit-elle dans les premiers contacts ?
 
-## Comment cette difficulté se manifeste
+### Une invitation fait apparaître deux envies
 
-Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir.
+Le plaisir de retrouver une activité peut coexister avec la crainte de la réaction des autres.
 
-## Répondre à la question que Maud a posée
+**Exemples concrets**
 
-Diane pose sa tasse sur le dessous en liège pour libérer ses deux mains. Elle aimerait demander à Maud si le bol a gardé son bord légèrement incliné. C’était voulu, du moins quand elle l’a laissé sécher. Elle veut aussi que la carafe reste près du bol pour voir les deux ensemble. Elle peut donc donner une réponse utile : demander que les pièces restent sur la planche et convenir plus tard d’un passage. Elle décide de demander un moment calme à l’atelier. Si Maud a déjà besoin d’une date ferme, elle pourra le lui dire. Pour ce soir, répondre à une seule question lui paraît possible.
+- Diane veut revoir le bol et la carafe mais tarde à répondre au message de Maud.
+- Quelqu’un a envie de reprendre une répétition et laisse l’invitation de l’ensemble sans réponse toute la journée.
+
+### On imagine devoir rendre des comptes
+
+Le premier contact peut sembler exiger une explication plus longue que la question posée.
+
+**Exemples concrets**
+
+- Diane écrit des excuses générales avant de dire ce qu’elle souhaite faire.
+- Une personne prépare le récit complet de son absence avant de demander si son casier est toujours libre.
+
+### La présence d’un proche peut être dosée
+
+Vouloir quelqu’un à côté de soi n’oblige pas à lui montrer ce qu’on écrit.
+
+**Exemples concrets**
+
+- Diane demande à Rémi de rester et lui dit de ne pas lire le message.
+- Avant un appel à une association, quelqu’un propose à une amie d’attendre avec lui dans la cuisine sans écouter la conversation.
+
+## 3 techniques pour renouer un premier contact à son rythme
+
+### 1. Répondre à la demande présente
+
+Se donner une première réponse que l’on peut envoyer.
+
+**Exercice pratique**
+
+- Relisez la question reçue.
+- Dites le geste que vous aimeriez faire, par exemple revoir les pièces.
+- Laissez les questions auxquelles vous n’êtes pas prêt à répondre pour un autre moment.
+
+Une réponse courte peut rouvrir le contact sans engager un récit de santé.
+
+### 2. Choisir le cadre de la première visite
+
+Éviter de décider tout le retour d’un seul coup.
+
+**Exercice pratique**
+
+- Choisissez une durée que vous voulez essayer.
+- Demandez si le lieu peut vous accueillir avant l’arrivée du groupe.
+- Précisez que vous confirmerez la date après avoir regardé vos disponibilités.
+
+Le premier passage peut être décidé à part de la reprise régulière.
+
+### 3. Dire ce que l’on attend d’une présence
+
+Recevoir un soutien qui laisse l’échange privé.
+
+**Exercice pratique**
+
+- Identifiez si vous voulez de l’aide pour écrire ou simplement de la compagnie.
+- Dites au proche ce que vous acceptez qu’il lise ou entende.
+- Convenez d’un signe ou d’un moment où il pourra repartir.
+
+L’appui répond au besoin du moment et laisse chacun libre de ses choix.
 
 ## Deux pièces sur la planche du haut
 
 Diane efface « Désolée pour tout ». Elle écrit : « J’aimerais revoir les deux. Tu peux les garder ensemble quelques jours ? Je te dirai quand je peux passer. » Elle attend que le petit signe confirme l’envoi avant de poser le téléphone. Maud lui répond pendant que Rémi cherche la boîte à biscuits : « Oui. On trouvera un moment avant un cours. » Diane coupe le son et montre à son cousin le placard du milieu. Il a acheté les biscuits dont elle enlève le sucre du bout du doigt. Elle en prend deux et lui demande s’il a envie d’en garder pour le trajet.
+
+---
+
+**Conclusion**
+
+Le message de Diane donne une suite aux deux pièces sans raconter l’hospitalisation. Maud pourra les garder et Diane choisira quand les revoir. Rémi reste avec elle pendant l’envoi, puis ils retrouvent une chose aussi simple que leurs biscuits.

@@ -29,20 +29,83 @@ episode: 2
 
 Dans son téléphone, au-dessus de leur conversation, il retrouve une ancienne note sur le sommeil. Il y a écrit « je me réveillais en pensant que c’était dommage de perdre autant de temps au lit ». Il se rappelle même être sorti acheter des piles avant l’ouverture du magasin. Ce matin, il ne sait pas s’il doit signaler la nuit à son équipe, ou si poser la question ferait encore de la gouttière une affaire médicale. Avant de partir, il écrit le bruit, le nombre d’heures dont il se souvient et sa fatigue. Il laisse le reste de la ligne vide.
 
-## Comprendre deux façons de dormir moins
+## Dormir peu et vouloir encore dormir
 
-Une mauvaise nuit peut laisser quelqu’un épuisé, par exemple après un bruit répété ou une inquiétude. La diminution du besoin de sommeil décrite dans la manie peut prendre une autre forme : la personne dort peu et continue à se sentir reposée ou pleine d’énergie.
+La durée d’une nuit renseigne sur le temps passé à dormir. Le besoin de sommeil se lit aussi dans ce que la personne ressent ensuite. Au cours d’une manie, une personne peut dormir nettement moins tout en se sentant reposée ou pleine d’énergie. Un réveil imposé par le bruit peut au contraire laisser le besoin de récupérer intact. Émilien a connu les deux expériences. La gouttière lui fournit des éléments à décrire, mais c’est l’évolution avec le reste de son quotidien que les soignants peuvent examiner.
 
-## Comment cette difficulté se manifeste
+## Comment la différence entre manquer de sommeil et en ressentir moins le besoin apparaît-elle ?
 
-Ce signe fait partie d’un ensemble et ne permet pas, même lorsqu’il est présent, de conclure à lui seul. À l’inverse, avoir une explication plausible pour une mauvaise nuit ne suffit pas à écarter une évolution si d’autres changements apparaissent. Dans le cas d’Émilien, le bruit est certain et la fatigue aussi ; la suite de la semaine, elle, reste à vivre.
+### L’envie de se rendormir
 
-## Garder la question assez courte pour la poser
+Ce que l’on voudrait faire une fois réveillé donne un premier renseignement que l’heure ne fournit pas.
 
-Émilien ne sait plus si la mention du sommeil sur son plan lui demande de surveiller chaque réveil ou de joindre l’équipe dans des circonstances plus précises. Les recommandations du NICE prévoient que la personne discute avec les professionnels de ses signaux, de la conduite convenue et du contact à utiliser si l’inquiétude augmente. Au rendez-vous déjà fixé, il peut apporter sa question et l’exemple de cette nuit. Si les signes s’accentuent avant, il utilise le contact prévu sans attendre ce rendez-vous.
+**Exemples concrets**
 
-Au travail, il peut prendre une décision pour l’après-midi avec les informations dont il dispose déjà. Fatigué, il ne se fie pas à son oreille pour une longue séance de restauration. Dorian n’a pas besoin de recevoir ses notes de santé pour comprendre qu’il faut déplacer cette écoute.
+- Émilien dit à Lucie qu’il voudrait se recoucher après les coups sur le pot.
+- Dans son ancienne note, il retrouve l’idée que rester au lit lui faisait perdre du temps, alors qu’il avait peu dormi.
+
+### L’état au lever
+
+Deux nuits de même durée peuvent laisser des impressions très différentes le lendemain.
+
+**Exemples concrets**
+
+- Après la gouttière, Émilien s’aperçoit qu’il n’a pas mis son pain à griller et ne se voit pas travailler longtemps au casque.
+- Dans son souvenir d’avant l’épisode, il est déjà parti chercher des piles avant l’ouverture du magasin.
+
+### La place du contexte
+
+Le bruit, la suite des nuits et les changements d’activité donnent des précisions qui se complètent.
+
+**Exemples concrets**
+
+- Émilien peut associer son réveil de trois heures dix au pot déplacé sous la fenêtre.
+- Si plusieurs nuits courtes s’accompagnent d’engagements inhabituels pris à l’aube, ces engagements font aussi partie de ce qu’il peut rapporter.
+
+## 3 techniques pour décrire un changement de sommeil
+
+### 1. Noter le réveil sans remplir les blancs
+
+Garder une trace de la nuit telle qu’on s’en souvient.
+
+**Exercice pratique**
+
+- Notez l’heure approximative et, si vous le connaissez, ce qui vous a réveillé.
+- Indiquez si vous aviez envie de continuer à dormir.
+- Laissez une mention « je ne sais pas » pour les moments dont vous n’avez pas le souvenir.
+
+La note sépare l’observation d’une reconstitution incertaine et peut servir lors d’un échange clinique.
+
+### 2. Ajuster une tâche à son état du matin
+
+Tenir compte d’une fatigue constatée dans l’activité prévue.
+
+**Exercice pratique**
+
+- Choisissez la tâche qui demande le plus de concentration.
+- Prévenez la personne concernée de ce que vous pouvez maintenir aujourd’hui.
+- Proposez un autre moment pour la partie à déplacer.
+
+Émilien peut aller parler à la vendeuse et garder le montage exigeant pour un autre jour.
+
+### 3. Demander quand transmettre l’information
+
+Savoir quelle évolution justifie un avis avant le prochain rendez-vous.
+
+**Exercice pratique**
+
+- Apportez un exemple récent et, si vous en avez un, un exemple d’une période très différente.
+- Demandez quels changements d’énergie ou d’activité le plan invite à signaler avec le sommeil.
+- Notez le contact et la façon de le joindre si ces changements surviennent.
+
+La décision de demander conseil repose sur des repères discutés avec l’équipe.
 
 ## Une question de sommeil pour l’équipe
 
 Ils se retrouvent au marché après l’ouverture. Émilien demande à la vendeuse s’il a bien entendu le prix ; elle lui dit qu’à l’époque elle annonçait souvent les deux montants, au kilo et à la cagette. Dorian voudrait lui faire entendre l’enregistrement plus tard, quand le stand sera moins occupé. Émilien garde ce rendez-vous possible et décale le montage. Sur le trajet du retour, il ouvre sa note et remplace le point d’interrogation qu’il avait laissé seul par une phrase : « Dans quel cas je vous appelle avant notre prochain rendez-vous ? »
+
+---
+
+**Conclusion**
+
+Émilien conserve le rendez-vous au marché et reporte la séance au casque. Sa fatigue après la gouttière et son ancien élan au petit matin éclairent des vécus différents. La question qu’il garde pour l’équipe porte sur la conduite à tenir si le sommeil change de nouveau.

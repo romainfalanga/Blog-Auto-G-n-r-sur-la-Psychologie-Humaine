@@ -34,14 +34,81 @@ Camille leur annonça qu’on pouvait mettre la feuille dans le classeur du caba
 
 Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas.
 
-## Comment cette difficulté se manifeste
+Agathe doit encore faire préciser une phrase sur les copies pendant que Lila et Nora trouvent la réserve. Avec un trouble développemental du langage, les besoins peuvent varier selon l’échange et les appuis. L’activité réussie apporte une information sur le plan et les nouvelles jardinières ; les efforts d’Agathe restent à écouter à part.
 
-Agathe reprend une question quand Camille parle du classeur et de la copie dans la même phrase. Dans le trouble développemental du langage, les points d’appui et les difficultés peuvent évoluer, et ce qui demande un effort varie selon les situations. Le résultat de cet atelier concerne le projet : les nouvelles jardinières savent où commencer et peuvent modifier la carte. Il ne mesure ni le langage d’Agathe ni la suite dont elle aura besoin en orthophonie.
+## Comment une passation réussie peut-elle coexister avec un échange encore difficile ?
 
-## Laisser les suivants se servir du plan
+### Les outils changent ce que le groupe peut faire
 
-Garder une version au jardin et une autre en classe permet aux nouveaux élèves de vérifier un choix dans les deux lieux. Le détail « passage » est utile parce qu’il explique une décision que quelqu’un d’autre pourra revoir. Agathe peut convenir avec Nora de ce qui restera dans le classeur, puis la laisser expliquer sa proposition sans lui demander de suivre exactement sa présentation. De la même manière, les appuis utiles à Agathe pourront être revus dans les situations nouvelles. L’équipe éducative peut écouter ce qu’elle veut conserver, et l’orthophoniste discuter avec elle des besoins de communication qui se présentent. Agathe n’a pas à emporter toutes les tâches du jardin avec ces préférences.
+Un plan lisible et des repères que l’on peut vérifier dans le lieu rendent l’activité moins dépendante d’une longue explication.
+
+**Exemples concrets**
+
+- Nora et Lila retrouvent la réserve sans qu’Agathe donne chaque étape.
+- Le mot « passage » aide les suivantes à discuter des fleurs à partir d’une contrainte visible.
+
+### Un autre message peut encore demander une précision
+
+Une phrase qui contient plusieurs décisions peut demander plus d’effort, même à la fin d’une activité connue.
+
+**Exemples concrets**
+
+- Agathe fait reprendre la demande de Camille sur l’original et la copie.
+- Un élève qui connaît le trajet peut encore faire préciser quel exemplaire doit rester au jardin.
+
+### L’appui et le rôle peuvent évoluer séparément
+
+On peut transmettre la tâche aux autres et garder une préférence pour les échanges à venir.
+
+**Exemples concrets**
+
+- Agathe laisse le plan aux CM1 et garde « laquelle d’abord ? » dans sa poche.
+- Les nouvelles jardinières peuvent modifier le plan sans lui demander de diriger chaque visite.
+
+## 3 techniques pour garder les appuis utiles après un passage de relais
+
+### 1. Faire un retour sur l’activité précise
+
+Distinguer ce que les nouveaux peuvent faire de ce qui reste à expliquer.
+
+**Exercice pratique**
+
+- Demandez-leur de montrer leur premier trajet.
+- Notez ce qu’ils ont trouvé et ce qu’ils veulent modifier.
+- Décidez où ils retrouveront ces repères.
+
+Le bilan porte sur l’usage réel du plan.
+
+### 2. Retenir une préférence pour le prochain échange
+
+Garder un moyen de demander de l’aide qui appartient à la personne.
+
+**Exercice pratique**
+
+- Repérez une phrase ou un geste qui vous a servi.
+- Choisissez dans quelle situation l’essayer à nouveau.
+- Dites à la personne concernée ce que vous attendez d’elle.
+
+L’appui reste révisable selon les lieux et les interlocuteurs.
+
+### 3. Discuter des différences en suivi
+
+Aider les professionnels à situer les besoins qui demeurent.
+
+**Exercice pratique**
+
+- Choisissez un échange devenu plus facile.
+- Ajoutez un autre échange qui vous a encore demandé une reprise.
+- Apportez les deux au prochain rendez-vous si vous le souhaitez.
+
+L’équipe peut entendre ce que le projet a permis sans en déduire que toutes les situations se ressemblent.
 
 ## Un dernier tour de banc
 
 Agathe glissa le carton original et la page aux deux dessins dans le classeur. Elle vérifia que son papier « laquelle d’abord ? » était encore dans sa poche. Lila écrivait « passage » sur sa copie sans demander où mettre les lettres. Inès attendait Agathe près de la cour. Agathe fit un dernier tour de banc, juste pour voir l’étoile depuis l’entrée, puis la rejoignit. Elle sortit sa bille blanche avec la virgule rouge : il leur restait le temps d’une partie. En rentrant, elle déplacerait son propre pot vers la rambarde. Pour ses capucines, le plan tenait dans deux chaussures et demie et la place d’ouvrir une chaise.
+
+---
+
+**Conclusion**
+
+Lila et Nora savent où trouver la boîte et peuvent décider des fleurs. Agathe garde son papier pour d’autres échanges et laisse le jardin dans leurs mains. Son dernier tour de banc lui suffit avant de rejoindre Inès et de penser à ses propres capucines.

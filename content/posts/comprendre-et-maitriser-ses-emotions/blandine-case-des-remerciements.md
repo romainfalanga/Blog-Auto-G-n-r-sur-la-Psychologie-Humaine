@@ -29,20 +29,83 @@ Elle remonte le fil, retrouve la photo du brouillon d’Alice et regarde les deu
 
 Elle commence à corriger la phrase comme s’il s’agissait d’une traduction et finit par supprimer tout le passage. L’idée du programme la ramène à la porte qu’elle n’a pas pu franchir jeudi. Elle connaît le poids que ce souvenir peut prendre avant même de partir de chez elle. Elle voudrait encore pouvoir y aller pour la musique, avec la possibilité de repartir si le manque devient trop fort. Puis elle téléphone à Alice. Elle lui dit qu’il y a deux endroits différents, le meuble d’archives et le programme du concert. Blandine l’entend remuer des papiers. Elle lui demande de commencer par laisser la case vide.
 
-## La place qu’une personne souhaite prendre
+## Quand une invitation devient un retour annoncé
 
-Une invitation peut être bienvenue sans que la personne ait envie d’en faire un événement public. Blandine tient au groupe et aux traces du travail de Jeanne. Elle connaît sa propre hésitation à entrer dans la salle. L’idée de revenir un soir lui appartient ; la rédaction d’un programme donne à cette idée un autre poids. Elle pourrait se sentir tenue d’être présente ou de répondre à des questions auxquelles elle n’a encore rien décidé de dire.
+Un deuil prolongé peut rendre la reprise de certaines activités difficile longtemps, même lorsque l’intérêt pour elles demeure. L’entourage peut ajouter une pression s’il transforme une possibilité en engagement visible de tous. En lisant le programme, Blandine retrouve le souvenir du jeudi où le manque l’a arrêtée. Elle souhaite décider de sa venue en sachant qu’elle pourra aussi ne pas venir.
 
-## Comment cette difficulté se manifeste
+## Comment l’attente de l’entourage peut-elle peser sur une reprise ?
 
-Le chœur a vu ses absences et la retrouve autour de deux documents. Cette partie de sa vie ne suffit pas à rendre compte de son deuil ou de son suivi. Dans un échange avec un proche ou une professionnelle, Blandine peut dire ce qu’elle voudrait rendre possible dans cette salle. Dans l’échange sur le programme, elle peut se limiter à dire où elle consent à voir les deux noms et où elle ne le souhaite pas.
+### Une présence possible est annoncée comme certaine
 
-## Reprendre le texte avant son impression
+La formulation peut engager publiquement une personne qui réfléchissait encore.
 
-Alice voulait expliquer d’où viendraient les feuilles, et elle a demandé à Blandine de lire la proposition avant de l’imprimer. Les deux femmes peuvent examiner les besoins séparément. Si le don a lieu, la fiche interne indiquera la provenance, avec les noms de Jeanne et de Blandine, et restera avec les partitions. Pour le programme du concert, Blandine propose de retirer l’annonce. Le public pourra entendre Le Pont sans histoire ajoutée ; Alice a de la place pour une information sur les répétitions ouvertes.
+**Exemples concrets**
 
-La même distinction vaut pour l’essai de jeudi. Léon peut dire quand le groupe prévoit de reprendre le passage et où quelqu’un peut s’asseoir s’il veut écouter. L’invitation ne demande pas à Blandine de parler, de chanter ou de confirmer sa participation aux prochaines dates. Si l’horaire glisse, Léon peut lui écrire avant qu’elle parte. Elle choisira encore le trajet.
+- Le programme parle d’un retour alors que Blandine n’a confirmé ni sa venue ni son rôle.
+- Un message collectif annonce qu’une personne reprendra le groupe après qu’elle a seulement demandé l’heure de la prochaine séance.
+
+### Le cadre annoncé ravive une difficulté connue
+
+Une attente précise peut rappeler la dernière fois où la personne n’a pas pu poursuivre l’activité.
+
+**Exemples concrets**
+
+- Blandine revoit la porte du chœur devant laquelle elle s’est arrêtée.
+- Une personne hésite à s’inscrire à un repas lorsqu’on la présente déjà comme celle qui parlera du défunt.
+
+### Deux engagements sont confondus
+
+Accepter une contribution limitée n’engage pas à revenir devant un public.
+
+**Exemples concrets**
+
+- Blandine sépare l’entrée de deux feuilles aux archives d’un mot dans le programme du concert.
+- Quelqu’un accepte de prêter une image et demande que son nom ne figure pas dans l’annonce.
+
+## 3 techniques pour rendre une invitation à nouveau ouverte
+
+### 1. Corriger l’annonce à sa source
+
+Rétablir la différence entre une option et un accord.
+
+**Exercice pratique**
+
+- Indiquez quelle phrase dépasse ce que vous avez dit.
+- Demandez à la personne qui prépare le texte de la retirer ou de la modifier.
+- Confirmez ensemble la version qui sera diffusée.
+
+Le public ne compte pas sur une présence qui n’a pas été décidée.
+
+### 2. Séparer les décisions
+
+Pouvoir avancer sur un projet sans devoir tout accepter ensemble.
+
+**Exercice pratique**
+
+- Nommez le geste dont vous discutez déjà.
+- Mettez la présence, la prise de parole ou la communication sur des lignes à part.
+- Répondez seulement aux questions que vous voulez trancher.
+
+Un accord partiel laisse encore de la place aux autres choix.
+
+### 3. Prévoir le déroulement si la chaise reste vide
+
+Faire d’une proposition un rendez-vous qui peut avoir lieu sans vous.
+
+**Exercice pratique**
+
+- Demandez à quelle heure l’activité commencera.
+- Dites quel rôle vous pourriez prendre si vous venez.
+- Convenez que le groupe commence même sans vous.
+
+L’invitation garde son sens et n’exige pas que la personne promette plus qu’elle ne souhaite.
 
 ## Une ligne retirée avant impression
 
 Alice retire la phrase pendant leur appel. Sur son exemplaire, Blandine garde la fiche intérieure avec les deux noms, en attente de sa décision sur le don. Plus tard, Léon lui propose la fin de répétition jeudi, vers vingt heures, et indique qu’une chaise est disponible à côté de la porte, dans la salle. Blandine répond qu’elle verra sur place. Elle ne confirme rien de plus. Elle lui demande de commencer le morceau à l’heure prévue même si la chaise est vide.
+
+---
+
+**Conclusion**
+
+Alice laisse la case vide. Le morceau commencera à vingt heures, que Blandine occupe la chaise ou non. Elle connaît une possibilité qu’elle pourra choisir sur place.

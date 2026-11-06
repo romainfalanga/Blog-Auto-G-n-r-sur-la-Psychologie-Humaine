@@ -35,14 +35,79 @@ Quand Lou revient chercher son sac, Élvire lui demande si elle peut lui dire un
 
 Les difficultés de sommeil peuvent avoir des effets sur l’énergie, la concentration et l’humeur. Une personne peut se sentir plus vite débordée par une demande ou avoir besoin d’un temps supplémentaire pour répondre. Les effets dépendent aussi de la situation et des relations. Chez Élvire, la nuit difficile se combine à l’importance du projet du samedi et à la peur de devoir tout justifier. Lou, de son côté, a besoin de savoir comment prévoir un moment partagé. Leur question reste utile même un jour où Élvire a mieux dormi.
 
-## Distinguer ce qu’on a entendu et ce qui a été demandé
+## Comment une nuit difficile peut-elle peser sur la façon de répondre à un proche ?
 
-Élvire a entendu que Lou voulait qu’elle arrête. La demande portait sur le rythme des permanences. L’écart apparaît quand Élvire se rappelle leurs mots et ce qui reste à décider à la coopérative. Elle a déjà vécu un décalage semblable quand Sonia lui a montré la photo de la cour et qu’elle a répondu comme si la date était imposée. Elle peut décrire ces situations en séance et entendre les limites posées par les personnes concernées. Le retentissement de ses nuits peut éclairer la conversation et laisser une place aux questions de chacune.
+### Une question ordinaire peut sembler urgente
 
-## Revenir sur le ton puis répondre à la question
+Une disponibilité réduite peut faire entendre une demande comme si une décision complète était attendue tout de suite.
 
-Élvire peut reconnaître sa réponse, demander à Lou si elle souhaite reprendre l’échange et choisir un moment où elles ont toutes les deux le temps. Pour les samedis, elle peut distinguer une date d’essai et un engagement régulier qui n’existe pas encore. Lou peut préciser ce qu’elle espère préserver. Si Élvire souhaite parler de l’irritabilité à Claire ou à la docteure Vidal, elle dispose d’un exemple où la fatigue et le désaccord se mêlent. La conversation de couple et le suivi peuvent avancer à des moments différents.
+**Exemples concrets**
+
+- Lou veut savoir comment prévoir leurs samedis.
+- Élvire lui répond comme s’il fallait déjà organiser tous les samedis de l’année.
+
+### Le ton devient un problème distinct
+
+La fatigue peut contribuer à l’irritabilité et la réponse garde un effet sur l’autre personne.
+
+**Exemples concrets**
+
+- Élvire entend qu’elle a répondu trop durement quand Lou revient prendre son sac.
+- Lou préfère ne pas reprendre la conversation avant la fin du déjeuner.
+
+### Le besoin de chacun reste valable
+
+Une fois la discussion reprise, la question pratique peut être traitée sans lui donner tout le poids de la mauvaise nuit.
+
+**Exemples concrets**
+
+- Élvire explique qu’elles ne préparent qu’un premier samedi.
+- Lou dit quels déjeuners elle souhaite garder et quand elle décidera de venir au dépôt.
+
+## 3 techniques pour reprendre un échange après une réponse trop dure
+
+### 1. Reconnaître la façon dont on a répondu
+
+Rouvrir un échange sans faire de la nuit une excuse.
+
+**Exercice pratique**
+
+- Nommez le ton ou la phrase qui a rendu l’échange difficile.
+- Dites quelle question vous voulez pouvoir reprendre.
+- Demandez à l’autre quand il souhaite en reparler.
+
+Le proche peut entendre la reconnaissance de l’effet et garder le choix du moment.
+
+### 2. Limiter la décision à ce qui est connu
+
+Éviter de résoudre tout le calendrier à partir d’une seule question.
+
+**Exercice pratique**
+
+- Dites ce qui est déjà décidé.
+- Précisez ce qui reste à discuter et avec qui.
+- Fixez le moment où vous aurez assez d’informations pour reprendre la suite.
+
+La conversation peut avancer sur un engagement réel plutôt que sur une série de suppositions.
+
+### 3. Parler du retentissement au suivi
+
+Décrire les effets des nuits difficiles sur les échanges ordinaires.
+
+**Exercice pratique**
+
+- Choisissez une situation où répondre vous a demandé plus d’effort.
+- Notez la difficulté de sommeil et ce qui préoccupait les deux personnes.
+- Reprenez cet exemple avec le professionnel si ces moments se répètent ou vous gênent.
+
+Le suivi peut tenir compte de l’humeur, de l’attention et du contexte relationnel.
 
 ## Un samedi en question, les autres en réserve
 
 Après le déjeuner, Lou lui propose de passer par la place. Élvire lui explique qu’elles préparent un samedi et qu’elle voudrait que l’accueil puisse être repris par quelqu’un d’autre. Elle aimerait parler avec Lou des moments qu’elles ont envie de garder ensemble. Lou dit qu’elle souhaite conserver leurs déjeuners quand sa mère en organise, et qu’elle veut décider de venir au dépôt selon ses disponibilités. Élvire accepte d’en reparler lorsque l’équipe aura une date. Elles s’arrêtent pour choisir un pain pour le soir. Élvire laisse le reste de la discussion au jour où elles sauront ce qui sera effectivement proposé.
+
+---
+
+**Conclusion**
+
+Sur le chemin du retour, Élvire et Lou séparent le premier samedi et les déjeuners qu’elles veulent garder. La nuit difficile a pesé sur le ton de départ. Le besoin de prévoir ensemble demeure et elles peuvent le reprendre au moment où l’équipe aura une date.

@@ -28,22 +28,83 @@ Le concert commence dans moins d’une heure. Garance a laissé l’étui sous l
 
 Garance choisit de vérifier une fois la mesure avec elle. Ensuite, elle aimerait écouter le morceau qui ouvre le concert depuis le fond de la salle. Elle n’a pas promis de jouer le reste du programme. Lise lui écrit l’heure de retour sur le programme imprimé. Garance relit le chiffre, ferme la partition et descend vers le fond. Elle se rappelle la première répétition. Ce soir, il y a du monde de l’autre côté du rideau.
 
-## Reconnaître le moment et ce qu’il demande
+## Le trac a un contexte et une durée
 
-L’attente d’un concert peut s’accompagner de trac, d’excitation ou d’un mélange des deux. Garance remarque ses mains froides et l’envie de revoir sa mesure. Ces sensations ont un contexte immédiat. Son histoire clinique garde une place si elle remarque une évolution plus durable qui lui pose question. Elle peut alors décrire les changements au cabinet, en s’appuyant sur le plan établi avec l’équipe.
+Le trac peut associer tension, excitation et envie de vérifier un geste avant un rendez-vous important. Une émotion liée à un concert ne permet pas à elle seule de reconnaître un épisode du trouble bipolaire. Garance a les mains froides après un changement d’horaire et connaît pourtant son entrée. Elle peut répondre à ce que le moment demande et reparler avec son équipe d’un changement plus durable si elle en remarque un.
 
-Le trouble bipolaire de type II se comprend à partir de l’histoire des épisodes évalués.
+## Comment le trac se distingue-t-il dans l’heure qui précède le concert ?
 
-## Comment cette difficulté se manifeste
+### Une modification donne un objet à l’inquiétude
 
-La soirée du concert donne surtout à Garance des décisions concrètes. Elle veut savoir quand jouer, où retrouver l’ensemble et ce qu’elle peut faire en attendant. L’heure écrite par Lise répond à ces questions. Elle peut garder le choix d’écouter un morceau ou de rester dans un endroit plus calme avant de rejoindre les autres.
+Un changement d’heure peut relancer des questions très concrètes à l’approche du passage.
 
-## Tenir la partie convenue et pouvoir la modifier
+**Exemples concrets**
 
-Garance sait que Lise a prévu une solution si elle doit renoncer à jouer. Elle souhaite garder sa place ce soir et peut le confirmer sans promettre de rester jusqu’au dernier morceau. Si elle veut changer quelque chose, elle sait à qui le dire. Éva peut faire la vérification de la mesure avec elle, puis aller s’accorder de son côté. Chacune garde une part claire dans ce qu’elles préparent.
+- Lise annonce que la valse passera plus tard que prévu.
+- Garance demande à quelle heure elle doit revenir derrière le rideau.
 
-Après le concert, Garance peut choisir de saluer ses voisins ou de rentrer. Elle a laissé de la place dans son calendrier du lendemain, car elle souhaite voir comment elle se sent après la soirée. Si elle veut en parler avec sa psychologue, elle pourra raconter le moment où elle a choisi de garder un seul passage. Le suivi a aussi de la place pour ces décisions de vie quotidienne.
+### Le corps et le geste anticipent la scène
+
+Une sensation ou une vérification peut tenir à l’attente du public et de la prochaine entrée.
+
+**Exemples concrets**
+
+- Garance sent ses mains froides et retourne chercher son crayon.
+- Elle connaît le passage mais souhaite le parcourir une fois avec Éva.
+
+### L’attente peut s’organiser autour d’un choix
+
+Un repère concret peut aider à faire ce que l’on souhaite avant le passage.
+
+**Exemples concrets**
+
+- Garance lit l’heure écrite sur le programme et ferme sa partition.
+- Elle choisit d’écouter le début depuis le fond de la salle.
+
+## 3 techniques pour répondre au trac sans interpréter chaque sensation
+
+### 1. Trouver le renseignement qui manque
+
+Réduire l’incertitude sur le déroulé du moment.
+
+**Exercice pratique**
+
+- Repérez la consigne ou l’heure qui a changé.
+- Demandez-la à la personne qui organise la soirée.
+- Notez-la là où vous pourrez la retrouver sans rouvrir toutes vos affaires.
+
+L’attente repose sur une information précise.
+
+### 2. Faire une vérification choisie
+
+Confirmer un repère musical sans recommencer toute la préparation.
+
+**Exercice pratique**
+
+- Choisissez la seule mesure que vous voulez reprendre.
+- Demandez à quelqu’un de la jouer avec vous ou vérifiez-la seul si cela vous convient.
+- Décidez de ce que vous ferez une fois la partition fermée.
+
+La vérification a une fin et laisse de la place pour la musique des autres.
+
+### 3. Situer un changement qui durerait après l’événement
+
+Garder une façon de discuter d’un doute avec l’équipe.
+
+**Exercice pratique**
+
+- Remarquez ce que vous ressentez quand l’attente est terminée.
+- Si un changement se prolonge, décrivez le sommeil et les activités au-delà du soir du concert.
+- Reprenez les repères du suivi avec l’équipe si l’évolution vous inquiète.
+
+Le trac du moment peut être distingué d’un changement qui s’étend à plusieurs jours.
 
 ## L’entrée qu’elle attendait
 
 Au fond de la salle, Garance écoute le dernier accord du premier ensemble. Elle revient derrière le rideau à l’heure écrite. L’autre altiste la rejoint et tourne la partition vers elles deux. Garance entend Éva jouer les notes qu’elle attendait. Son archet descend au moment où elle lève les yeux. Plus tard, elle remercie Lise et redescend retrouver les voisins après leur passage. Elle reste le temps que quelqu’un lui demande le nom du morceau. Puis elle va chercher son étui. À la sortie, Éva lui demande si elle veut marcher un bout de rue ensemble. Garance dit oui pour la rue, puis elle rentrera.
+
+---
+
+**Conclusion**
+
+Garance retrouve son entrée malgré le décalage d’horaire et rentre après la rue qu’elle a choisi de marcher avec Éva. Le trac lui indiquait qu’elle attendait quelque chose d’important. Elle garde son plan pour les changements qui demanderaient un autre regard.

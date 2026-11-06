@@ -31,18 +31,81 @@ Idriss pousse un vélo jusqu’au comptoir. Le propriétaire demande si sa fille
 
 ## Ce qui échappe pendant une crise
 
-La perte de contrôle décrit une expérience précise. Une personne peut avoir le sentiment de ne plus pouvoir interrompre ce qu’elle fait alors même qu’elle a envie de retrouver un choix. Dans la boulimie nerveuse, les crises reviennent et la façon de manger pendant ces moments diffère sensiblement de l’habitude. L’évaluation regarde leur répétition, les compensations et les préoccupations corporelles qui les accompagnent, ainsi que leurs conséquences.
+La perte de contrôle pendant une crise désigne le sentiment de ne plus pouvoir décider de la suite ou interrompre sa façon de manger. Dans la boulimie nerveuse, ces moments reviennent et la façon de manger diffère nettement de l’habitude. L’évaluation tient compte aussi des compensations, des préoccupations corporelles et du retentissement. Victoire voulait tracer une rue le soir même ; le mot qu’elle cherche le lendemain concerne ce qu’elle a éprouvé quand elle a voulu s’arrêter.
 
-La quantité observée par quelqu’un d’autre dit peu du sentiment vécu sur le moment. Un dîner de fête ou le plaisir d’un repas copieux ont une place ordinaire dans la vie. Les professionnels rassemblent des informations bien plus larges pour comprendre un trouble.
+## Comment la perte de contrôle se fait-elle sentir pendant et après la crise ?
 
-## Ce que la crise prend au lendemain
+### Une décision qui ne répond plus
 
-La veille, Victoire a laissé son plan sans le trait qu’elle comptait ajouter. L’effet d’une crise peut continuer après le retour au calme. Le trouble occupe parfois le temps disponible, le sommeil ou l’attention. À la boutique, Victoire vient de montrer avec assurance un réglage dont elle connaît l’importance. À côté, un message amical lui semble demander une énergie qu’elle a du mal à trouver. Elle commence à écrire qu’elle est prise, alors qu’elle voudrait encore aller au marché. Les deux expériences peuvent coexister.
+La difficulté porte sur le sentiment de garder la main pendant l’épisode, même si l’on sait ce que l’on voulait faire ensuite.
 
-## Répondre à Lila et garder le rendez-vous
+**Exemples concrets**
 
-Une réponse concernant le rallye peut rester simple. Elle est libre de dire quel point du parcours l’intéresse, quelle durée elle peut envisager ou si elle préfère attendre. Au rendez-vous spécialisé, Victoire peut décrire le moment où elle voulait reprendre son plan et où elle a senti qu’elle ne décidait déjà plus de la suite. Victoire a le droit d’y parler de ce qu’elle vit même si elle a tenu son poste et mené une conversation ordinaire dans la journée.
+- Victoire avait prévu d’ajouter une rue et se souvient du moment où elle a voulu interrompre ce qu’elle faisait.
+- Une personne qui attend un appel peut le laisser sonner alors qu’elle voulait décrocher et qu’elle n’arrive pas à passer à autre chose.
+
+### Une expérience qu’on ne voit pas de dehors
+
+Le volume d’un repas ou le fait d’avoir encore faim renseigne peu sur ce qui a été vécu comme incontrôlable.
+
+**Exemples concrets**
+
+- Lors d’un repas de fête, quelqu’un peut reprendre d’un plat par plaisir et se sentir libre de s’arrêter.
+- Victoire garde le souvenir d’un geste qu’elle ne parvenait plus à interrompre, un détail qu’Idriss ne peut pas lire sur son visage.
+
+### Une suite qui occupe encore le lendemain
+
+La crise peut prendre du temps et laisser des pensées qui compliquent un choix ordinaire, même si d’autres gestes restent possibles.
+
+**Exemples concrets**
+
+- À la boutique, Victoire explique un réglage à un client pendant que la rue manque toujours sur le plan.
+- Quand Lila propose de garder samedi, Victoire commence par écrire qu’elle est prise avant de retrouver son envie d’y aller.
+
+## 3 techniques pour mettre en mots ce qui a échappé
+
+### 1. Trouver les mots du moment
+
+Décrire à l’équipe ce qui a été vécu comme une perte de contrôle.
+
+**Exercice pratique**
+
+- Repensez à une situation dont vous souhaitez parler en consultation.
+- Choisissez un verbe pour décrire ce qui vous a échappé, par exemple « interrompre ».
+- Apportez le mot au rendez-vous et précisez ce qui reste difficile à décrire.
+
+L’équipe peut partir du vécu de l’épisode plutôt que d’une estimation de ce qui a été mangé.
+
+### 2. Noter ce qui a dû attendre
+
+Rendre visible le retentissement immédiat d’une crise.
+
+**Exercice pratique**
+
+- Relevez une chose prévue avant l’épisode.
+- Décrivez ce que vous avez pu en faire ensuite ou ce qui est resté en plan.
+- Racontez les deux faits au professionnel qui vous suit.
+
+Un détail ordinaire peut aider à comprendre le coût de la crise même lorsque d’autres activités ont été maintenues.
+
+### 3. Répondre à l’invitation qui vous intéresse
+
+Garder le choix d’un engagement et de ce que l’on explique.
+
+**Exercice pratique**
+
+- Relisez la proposition de l’autre personne en distinguant le lieu, la durée et le but.
+- Dites si une partie de la proposition vous convient.
+- Confirmez cette partie ou demandez un délai de réponse, selon ce que vous préférez.
+
+La décision sur la sortie peut tenir en quelques mots, tandis que le vécu de la crise garde sa place en consultation.
 
 ## Une rue à revoir ensemble
 
 Victoire écrit qu’elle souhaite garder le samedi. Elle propose à Lila de se retrouver à l’entrée du marché et d’essayer d’abord le passage qui rejoint la gare. Lila connaît une personne qui n’a pas roulé en ville depuis longtemps et voudrait l’inviter. Victoire garde l’idée. Avant de refermer le tiroir, elle note sur un coin du plan le mot « interrompre », celui qu’elle veut apporter au prochain rendez-vous.
+
+---
+
+**Conclusion**
+
+À la caisse, Victoire trouve deux réponses : elle veut garder le samedi, et elle veut parler du moment où interrompre lui a paru impossible. Le trait resté en suspens situe la crise dans sa soirée sans avoir à mesurer ce qu’elle a mangé.

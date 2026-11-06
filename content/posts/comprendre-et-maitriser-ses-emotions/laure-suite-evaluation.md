@@ -29,16 +29,81 @@ Depuis le samedi, elle a envisagé de ranger le compte rendu avec ses anciens r�
 
 ## Une réponse médicale située dans le temps
 
-Les explications portent sur ce que l’équipe a pu évaluer le samedi et sur les suites indiquées. La Dre Valette vérifie ce qui a changé depuis, reprend l’examen si nécessaire et traite les questions encore ouvertes. Ce rendez-vous permet aussi de tenir compte du trouble de détresse physique dans le suivi. Une fois chez elle, Laure a consacré beaucoup de temps à relire un document sans obtenir l’assurance qu’elle cherchait. Parler de ce temps et de la plainte nouvelle aide à répondre à deux besoins différents au cours d’une même consultation.
+Une réévaluation après un épisode aigu sert à préciser ce qui a été examiné, ce qui a changé et quelles suites sont utiles. Un trouble de détresse physique connu ne retire rien à la nécessité de cette démarche. Le rendez-vous de Laure permet aussi de parler du temps passé à relire le compte rendu sans obtenir la certitude qu’elle cherchait. La Dre Valette peut répondre séparément à la question de la plainte nouvelle et à celle de son retentissement depuis le retour.
 
-## Un papier que Laure rouvre sans cesse
+## Comment la réévaluation reprend-elle ce qui s’est passé et ce qui reste à suivre ?
 
-Relire le compte rendu peut être utile lorsque Laure veut comprendre la prochaine étape. Elle remarque que certaines relectures servaient surtout à essayer de garantir qu’elle pourrait entrer dans la bibliothèque sans retrouver l’oppression. Chaque passage sur la même ligne ramenait la décision à un futur impossible à connaître en entier. Laure a besoin d’une information applicable si une situation apparaît, et d’un cadre pour parler de cette attention répétée. Elle peut garder le compte rendu pour ses soins et mettre les consignes utiles sur une page plus facile à retrouver.
+### Une partie des explications n’a pas été retenue
 
-## Savoir à qui s’adresser et pour quoi
+À la sortie d’un service, une personne peut se souvenir d’un détail et avoir besoin de reprendre les consignes.
 
-La Dre Valette note les suites convenues avec Laure, le prochain rendez-vous et les consignes adaptées à l’épisode. Laure les reformule pour vérifier ce qu’elle a compris. Elle autorise un bref échange avec Nina sur le retentissement et les objectifs de leur travail. Yasmina recevra ce qui concerne le prochain créneau et le relais. Cette répartition permet à Laure de se faire aider dans plusieurs domaines tout en maîtrisant la circulation des informations. Elle laisse aussi une place claire aux symptômes qui changeraient de nouveau.
+**Exemples concrets**
+
+- Laure se rappelle surtout l’heure de l’examen et montre le compte rendu à la Dre Valette.
+- Une personne sait que l’équipe lui a parlé d’un contrôle et demande quel professionnel doit le faire.
+
+### Ce qui est ressenti ensuite apporte une information
+
+Le suivi peut reprendre la différence entre le symptôme nouveau et les difficultés familières, sans écarter d’autres changements.
+
+**Exemples concrets**
+
+- Laure montre où sa poitrine avait serré et dit que, depuis, elle retrouve surtout la douleur du bras connue.
+- Quelqu’un décrit ce qui s’est arrêté à la sortie et ce qui est revenu le lendemain.
+
+### La recherche de certitude occupe d’autres décisions
+
+Relire un document peut prendre du temps sans répondre à une question qui dépend du suivi.
+
+**Exemples concrets**
+
+- Laure laisse le document sur la table et hésite à accepter un nouveau créneau.
+- Une personne revient sur la même ligne d’un compte rendu avant chaque sortie parce qu’elle redoute de se sentir mal.
+
+## 3 techniques pour organiser les suites après une évaluation urgente
+
+### 1. Reprendre le compte rendu avec le médecin
+
+Comprendre ce que l’évaluation a pu examiner.
+
+**Exercice pratique**
+
+- Apportez le document qui vous a été remis.
+- Signalez ce que vous avez ressenti depuis la sortie.
+- Demandez quelles questions nécessitent encore un contrôle.
+
+Les résultats sont replacés dans la situation pour laquelle ils ont été obtenus.
+
+### 2. Faire préciser la conduite à tenir
+
+Savoir à qui s’adresser si un symptôme change ou revient.
+
+**Exercice pratique**
+
+- Demandez quels signes nécessitent d’agir vite.
+- Faites préciser le contact et le délai prévus pour les autres changements.
+- Gardez ces consignes et le prochain rendez-vous au même endroit.
+
+Les décisions peuvent s’appuyer sur un repère établi avec le médecin.
+
+### 3. Séparer le suivi du prochain choix de travail
+
+Retrouver une décision pratique sans attendre de tout prévoir.
+
+**Exercice pratique**
+
+- Identifiez ce qui appartient au rendez-vous médical.
+- Choisissez ce que vous voulez dire à l’équipe de travail.
+- Proposez seulement l’heure et le sujet de la prochaine réunion.
+
+Vous pouvez organiser un échange sans transmettre le dossier ni vous engager sur toute la suite.
 
 ## Le planning peut attendre jeudi
 
 Laure range ensemble le compte rendu et la feuille de suivi. Elle note le prochain rendez-vous dans son agenda de poche. À l’arrêt du bus, elle écrit à Yasmina qu’elle peut discuter des horaires jeudi après la fermeture, à condition de réserver une demi-heure. Elle garde pour elle les détails de la consultation. Yasmina lui répond que la bibliothèque doit aussi présenter le projet à la mairie et qu’elle viendra avec leur tableau. Laure choisit de relire les horaires d’essai avant de proposer celui qu’elle pourrait garder.
+
+---
+
+**Conclusion**
+
+Laure repart avec le compte rendu et des consignes qu’elle peut retrouver. Elle sait ce qu’elle peut discuter avec la Dre Valette et propose à Yasmina une demi-heure pour le planning. Le rendez-vous de la bibliothèque n’a pas besoin de reprendre toute la consultation.

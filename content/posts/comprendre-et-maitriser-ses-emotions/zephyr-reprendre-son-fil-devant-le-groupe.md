@@ -31,18 +31,81 @@ Il voit Mounir retirer ses coudes de la table pour lui faire de la place. La fic
 
 ## Retrouver ce que l’autre regarde
 
-Une conversation peut se brouiller parce que les personnes répondent à partir d’objets différents. Pour Gil, la question part de la pendule qui l’attend chez lui. Pour Zéphyr, tout ce qui vient d’être dit s’applique à la platine posée devant le groupe. Il faut quelques secondes pour voir que les deux ne sont plus au même endroit dans l’explication. Ensuite, la gêne d’avoir perdu le fil peut peser plus lourd que la question elle-même.
+Un échange peut se brouiller quand les deux personnes parlent à partir de choses différentes. Dans le trouble schizotypique, les difficultés qui touchent parfois la parole et les relations peuvent rendre coûteux le fait de retrouver ce repère commun. Gil pense à sa pendule. Zéphyr répond encore à partir de la platine. La gêne qui suit devient alors une difficulté à part entière.
 
-## Comment cette difficulté se manifeste
+## Comment un décalage fait-il perdre le fil d’une conversation ?
 
-La CIM-11 décrit chez certaines personnes ayant un trouble schizotypique des difficultés durables à se faire suivre dans les échanges. Dans cet atelier, une indication claire est utile à tout le monde. Gil peut laisser sa question en suspens, Mounir redonner la consigne du tour et Zéphyr retrouver le point auquel il peut répondre. Chacun agit sur une partie de l’échange.
+### Le sujet change sans être nommé
 
-## Revenir par un geste qu’on avait promis
+Celui qui pose la question peut penser que le lien entre les deux objets est évident.
 
-Le relais rend à Zéphyr quelques secondes pour écouter et regarder où se trouve la main de Clara. Il peut reprendre en lui demandant si elle veut essayer encore une fois. La promesse d’un tour par personne lui donne une suite compréhensible même quand l’explication a pris du retard. Il peut annoncer qu’il reste peu de temps pour les questions et convenir d’un dernier tour avec les visiteurs.
+**Exemples concrets**
 
-Un échange dont on retrouve le fil peut donner matière à un retour sur ce qui a aidé. Zéphyr pourra écouter Mounir sur ce qu’il a vu, et revenir avec son équipe de soins sur les moments qui lui coûtent davantage. Le résultat de cette matinée dit ce que le musée a réussi à faire dans cette salle avec ce groupe. La vie de Zéphyr se poursuit dans d’autres conditions, y compris les jours où une explication ou un rendez-vous reste difficile.
+- Gil passe de la petite platine à la pendule qu’il a chez lui.
+- Une lectrice passe du livre sur la table à une autre édition sans préciser laquelle.
+
+### La réponse suit l’ancien point de départ
+
+La conversation peut continuer quelques secondes sans que les interlocuteurs parlent de la même chose.
+
+**Exemples concrets**
+
+- Zéphyr cherche la réponse sur la platine alors que Gil imagine sa pendule.
+- Deux collègues décrivent le début d’un trajet, l’une depuis le hall et l’autre depuis la cour.
+
+### La gêne retarde la reprise
+
+Retrouver ce dont il est question demande parfois une interruption, même quand on connaît son métier.
+
+**Exemples concrets**
+
+- Mounir fait refaire la rotation à Clara pendant que Zéphyr se prépare à revenir.
+- Pendant une visite, une collègue laisse son partenaire montrer le plan avant de préciser le nom de la salle.
+
+## 3 techniques pour retrouver le sujet d’un échange sans perdre sa place
+
+### 1. Demander ce que désigne la question
+
+Vérifier le point de départ commun.
+
+**Exercice pratique**
+
+- Reformulez le nom de l’objet entendu.
+- Demandez si la personne parle de cet objet ou d’un autre.
+- Revenez au geste en cours si la nouvelle question demande plus de temps.
+
+Cette précision évite d’accumuler des réponses à une question que l’on n’a pas comprise.
+
+### 2. Utiliser le relais préparé
+
+Disposer de quelques secondes pour reprendre son fil.
+
+**Exercice pratique**
+
+- Convenez d’un geste bref que le collègue peut montrer.
+- Passez-lui le support au moment convenu.
+- Reprenez avec une question sur ce que le groupe vient de voir.
+
+Le groupe continue à travailler et la personne garde sa place dans la démonstration.
+
+### 3. Garder la question pour un autre moment
+
+Accueillir la curiosité sans sacrifier le temps prévu pour l’activité.
+
+**Exercice pratique**
+
+- Notez l’objet que la personne veut évoquer.
+- Demandez le détail qui permettrait d’en reparler.
+- Indiquez jusqu’où la séance peut aller aujourd’hui.
+
+Il reste un espace pour la question tout en respectant le déroulement promis aux autres.
 
 ## Le tour de Loïc
 
 Mounir invite Clara à refaire la rotation et Zéphyr retrouve assez de voix pour lui demander ce qu’elle a vu bouger. Gil essaie à son tour, puis pousse la platine vers Loïc. Quand Loïc parvient à entraîner la seconde roue, il rappelle à Zéphyr le mot « adresse ». Zéphyr lui montre la petite maison de l’autre côté de la fiche et lit la phrase qu’Agnès a choisie sur la cloche. Clara dit qu’enfant, elle reconnaissait le retour de sa mère au bruit du portail. Zéphyr avait imaginé raconter le reste. Il voit l’heure et ferme la pochette. Gil sort en disant qu’il cherchera le nom de sa pendule avant de poser sa question. Zéphyr inscrit dans la marge quarante minutes pour trois personnes. Il veut garder le temps de la manipulation dans la prochaine séance.
+
+---
+
+**Conclusion**
+
+Le détour par la pendule n’empêche pas Loïc d’essayer la deuxième roue. Le relais laisse à Zéphyr le temps de reprendre et Gil sait ce qui manque pour reparler de son objet. La séance leur apprend quelle durée garder pour ces échanges.

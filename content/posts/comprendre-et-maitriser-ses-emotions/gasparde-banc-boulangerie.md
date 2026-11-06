@@ -30,18 +30,81 @@ Brigitte lui demande si le double de samedi tient toujours. Gasparde dit oui tro
 
 ## Faire entendre ce que l’inquiétude coûte
 
-Parler du retentissement d’une inquiétude peut ouvrir une conversation avant même qu’on puisse en raconter le contenu. Gasparde explique comment elle dort et ce que les relectures occupent dans sa soirée. Brigitte peut comprendre qu’elle a passé une nuit pénible sans être chargée de trancher le sens des messages. Elle peut aussi entendre une demande sur le tennis. La présence qu’elle offre tient à leur relation, avec une place pour leurs envies à toutes les deux.
+Une préoccupation persistante peut occuper le temps où l’on voudrait dormir ou récupérer. Dans le trouble délirant, la force d’une conviction et la place qu’elle prend dans la vie peuvent varier. Gasparde revient au message du club pendant la nuit et arrive au café déjà fatiguée. Elle peut parler de cette conséquence avec Brigitte sans lui demander d’établir le sens caché qu’elle a cru lire.
 
-## Comment cette difficulté se manifeste
+## Comment une préoccupation persistante empiète-t-elle sur le repos ?
 
-Le diagnostic de Gasparde vient éclairer ce qu’elle rapporte à son équipe de soins. Dans le trouble délirant, la préoccupation et la souffrance ont une intensité variable. Pour le suivi, l’équipe a besoin de savoir ce qui change dans la vie de Gasparde, comment elle le vit et à quels moments elle souhaite de l’aide. Une proche peut l’écouter et soutenir l’accès à cette conversation.
+### La relecture revient la nuit
 
-## Choisir une confidence et un rendez-vous
+Un mot peut occuper l’attention longtemps après le moment où il a été lu.
 
-Brigitte peut lui demander ce qu’elle aimerait recevoir aujourd’hui. Un tour de place, un café sans parler du club ou un rappel pour le double sont des propositions différentes. Gasparde choisit jusqu’où elle veut aller. La question du suivi pourra revenir avec Farah, l’infirmière qu’elle connaît, notamment si ses nuits restent courtes et qu’elle continue à renoncer à des choses qu’elle aime.
+**Exemples concrets**
 
-Les deux amies peuvent protéger une heure qu’elles partagent. Elles ont besoin d’un horaire et d’un moyen de se prévenir si l’une change d’avis. Pour les réservations, Gasparde et Basile peuvent décider à part qui vérifie le téléphone quand elle joue. L’accord avec Brigitte gagne à rester simple. Elle peut demander à son amie si elle a envie de venir jouer, y compris les jours où les affaires du club lui prennent encore de la place.
+- Vers trois heures, Gasparde rouvre le message et revient sur le mot « ensemble ».
+- Une personne rallume son téléphone après s’être couchée et relit une phrase qui l’a inquiétée.
+
+### Le lendemain commence avec le coût de la veille
+
+La fatigue peut rendre moins disponible à une conversation qui faisait envie.
+
+**Exemples concrets**
+
+- Gasparde regarde le café refroidir pendant que Brigitte lui parle de sa raquette.
+- Après une nuit passée à relire un échange, quelqu’un arrive à une promenade avec peu d’énergie pour en profiter.
+
+### La personne choisit ce qu’elle peut raconter
+
+Dire ce que la préoccupation coûte peut être plus abordable que raconter tout ce qu’on a pensé.
+
+**Exemples concrets**
+
+- Gasparde dit que le club lui prend ses nuits et garde pour elle le contenu de sa crainte.
+- Une personne dit à son frère qu’elle se lève épuisée et lui demande de rester un moment sans revenir sur le message.
+
+## 3 techniques pour protéger le repos et une activité quand la préoccupation insiste
+
+### 1. Raconter une nuit sans reprendre toute la scène
+
+Faire comprendre ce qui a changé dans le sommeil.
+
+**Exercice pratique**
+
+- Choisissez une nuit dont vous vous souvenez.
+- Dites à quel moment la préoccupation a repris.
+- Décrivez un effet sur le lendemain.
+
+Un proche peut entendre la fatigue sans devenir responsable de vérifier le contenu de la crainte.
+
+### 2. Réserver un temps sans permanence
+
+Donner sa place à une activité appréciée.
+
+**Exercice pratique**
+
+- Choisissez un créneau de jeu ou de sortie.
+- Faites confirmer par le club la personne qui répondra aux demandes.
+- Indiquez à partir de quand vous serez de nouveau disponible.
+
+Un accord de travail peut protéger ce temps, même si les pensées reviennent.
+
+### 3. Évoquer les nuits au suivi
+
+Obtenir un appui lorsque le manque de repos se répète.
+
+**Exercice pratique**
+
+- Relevez un exemple que vous souhaitez apporter.
+- Indiquez la place prise par les relectures et la fatigue.
+- Demandez à l’équipe comment la joindre plus tôt si cela devient difficile à supporter.
+
+Le professionnel peut examiner le retentissement et convenir d’une suite avec vous.
 
 ## Samedi, le temps de deux sets
 
 Brigitte lui propose seize heures samedi, avant que le vent baisse. Gasparde dit qu’elle aimerait venir même si le tableau lui trotte encore dans la tête. Elle lui demande de garder la conversation du banc pour elles. Brigitte acquiesce, sort son agenda et lui montre le créneau avec un rond autour. Gasparde sort aussi son téléphone. Elle attend de rentrer pour écrire à Basile qu’elle ne prendra aucun appel pendant le double. Sur le banc, elle ouvre seulement le couvercle du café. Brigitte lui tend le dernier bout de croûte. Elles mettent quelques secondes à décider laquelle le veut le plus.
+
+---
+
+**Conclusion**
+
+Brigitte entend ce que la nuit a coûté sans recevoir toute l’histoire que Gasparde a lue dans le message. Elles gardent leur conversation et leur projet de double. La question des nuits pourra être reprise avec Farah, à qui elle peut en parler autrement.

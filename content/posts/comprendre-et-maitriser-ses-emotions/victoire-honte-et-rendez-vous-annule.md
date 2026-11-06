@@ -30,16 +30,81 @@ Elle écrit à Simon qu’elle a un problème à la boutique. Il demande s’il 
 
 ## La honte peut changer la façon de lire un message
 
-Les crises de boulimie sont souvent vécues avec une détresse qui persiste ensuite. La honte peut colorer l’idée que l’on se fait de soi et de ce que les autres vont remarquer.
+La honte après une crise de boulimie peut peser sur les liens bien après l’épisode. Elle change parfois la façon de comprendre une invitation, en faisant craindre que l’autre voie ou juge ce que l’on voudrait garder privé. Victoire a encore envie d’écouter les deux versions du morceau, mais elle lit d’abord l’offre de Simon comme le risque d’être vue au mauvais moment. Le suivi peut prendre en compte cet effet des crises sur des relations auxquelles elle tient.
 
-## Comment cette difficulté se manifeste
+## Comment la honte peut-elle éloigner d’un rendez-vous attendu ?
 
-Victoire imagine un jugement à partir d’une offre de trajet. Elle voudrait pouvoir écouter Simon sans repasser son dimanche dans sa tête. Dans les difficultés alimentaires, le retentissement social peut commencer par ces choix discrets de se cacher, d’annuler ou de se montrer disponible malgré l’effort demandé. Une personne peut aussi préférer du calme après une journée éprouvante. Ce qui intéresse le suivi, c’est la manière dont l’isolement ou les justifications prennent de la place au fil du temps et ce que la personne aimerait retrouver.
+### Une offre devient menaçante
 
-## Dire l’effet du jour avant de décider de tout raconter
+Une proposition ordinaire peut être entendue comme l’annonce d’un jugement alors que rien n’a encore été dit.
 
-Victoire a plusieurs questions distinctes. Elle cherche ce qu’elle a envie de faire ce soir, ce que Simon a besoin de savoir pour s’organiser et ce qu’elle souhaiterait reprendre avec son équipe. Dire que sa journée a été difficile lui permet de corriger le message sans révéler plus qu’elle ne veut. Simon a aussi le choix de garder la soirée ou de proposer une autre date. Le lendemain, Victoire pourra dire à Nora que l’envie d’annuler revient parfois avant même d’avoir lu la réponse de quelqu’un. En consultation, ce détail aide à parler du coût de la honte et des choix qu’elle réduit. L’équipe pourra examiner avec elle ce qui se passe dans d’autres situations et déterminer les appuis adaptés.
+**Exemples concrets**
+
+- Victoire imagine que Simon reconnaîtrait sa journée en la voyant sur le pas de la porte.
+- Quelqu’un qui reçoit « Tu veux que je passe ? » après une crise peut avoir envie de se rendre indisponible malgré l’envie de compagnie.
+
+### Le retrait prend la forme d’un message
+
+Le besoin de se cacher peut faire écrire un refus avant qu’on ait réfléchi à ce que l’on veut faire.
+
+**Exemples concrets**
+
+- Victoire prépare un message qui demande à son frère de la laisser tranquille.
+- Une personne peut inventer une obligation pour annuler une visite qu’elle préparait avec plaisir.
+
+### Le lien peut rester souhaité
+
+La honte et l’envie de retrouver quelqu’un peuvent rester présentes au même moment.
+
+**Exemples concrets**
+
+- Victoire remet le disque dans son sac alors qu’elle veut encore écourter la soirée.
+- En arrivant, elle montre la déchirure de la pochette à Simon et retrouve une question qu’elle avait envie de lui poser.
+
+## 3 techniques pour retrouver un choix quand on s’apprête à se retirer
+
+### 1. Relire l’offre telle qu’elle est formulée
+
+Faire une pause avant de répondre sous l’effet de la honte.
+
+**Exercice pratique**
+
+- Repérez les mots exacts de la proposition.
+- Distinguez ce qui est demandé de ce que vous craignez que l’autre devine.
+- Décidez si vous souhaitez répondre maintenant ou demander du temps.
+
+Les deux lectures deviennent plus faciles à distinguer sans devoir résoudre ce que l’autre pourrait penser.
+
+### 2. Proposer une version qui vous convient
+
+Garder la possibilité d’un contact choisi ou d’un report clair.
+
+**Exercice pratique**
+
+- Repérez ce qui vous ferait encore plaisir dans le rendez-vous.
+- Dites quel format vous convient aujourd’hui, y compris si vous préférez reporter.
+- Laissez à l’autre personne la possibilité d’accepter ou de proposer un autre moment.
+
+Un lien peut continuer même si le projet de départ change.
+
+### 3. Apporter une annulation envisagée en consultation
+
+Parler du retrait à partir d’une scène précise.
+
+**Exercice pratique**
+
+- Choisissez un rendez-vous que vous avez failli annuler ou que vous avez annulé.
+- Décrivez le moment où l’idée de vous cacher est arrivée et ce qui comptait pour vous ce jour-là.
+- Demandez au professionnel comment travailler sur ce coût dans le suivi.
+
+Le rendez-vous peut aborder la honte à partir de ce qu’elle change dans votre vie.
 
 ## Écouter le premier morceau
 
 Simon répond qu’elle peut venir pour écouter le premier morceau et repartir quand elle veut. Il a encore envie de retrouver les deux versions. Victoire marche jusqu’à chez lui avec le disque sous le bras. Quand il lui ouvre, elle lui montre la déchirure de sa pochette et lui demande s’il se souvient du jour où ils l’ont achetée. Elle gardera la question du premier message pour Nora.
+
+---
+
+**Conclusion**
+
+L’écoute du premier morceau redonne à Victoire un rendez-vous qu’elle était sur le point d’annuler. Simon peut recevoir une réponse sincère sur la durée sans connaître le diagnostic. Le message effacé garde son intérêt pour Nora : il montre à quel moment la honte a commencé à décider pour Victoire.

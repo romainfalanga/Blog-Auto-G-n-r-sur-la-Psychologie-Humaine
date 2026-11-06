@@ -29,20 +29,83 @@ André a apporté des sachets de graines. Il voudrait semer deux rangs de radis 
 
 André se rapproche de l’entrée. Elle lève une main pour qu’il reste où il est. Son médecin a posé le diagnostic de trouble de stress post-traumatique il y a déjà plusieurs semaines, après l’accident. Elle en a aussi parlé avec une thérapeute formée au trauma. André sait qu’elle est en arrêt et qu’elle conduisait des trains avant cet arrêt. Elle ne lui a pas raconté l’accident. Il est sur le point de demander ce qui est tombé lorsque Selma lui dit qu’elle aimerait laisser le mètre au sol et rentrer.
 
-## Quand un rappel provoque une réaction forte
+## Le corps en alerte après un bruit familier
 
-Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils recherchent aussi des reviviscences, où l’événement semble se reproduire dans le présent, et un évitement des rappels du traumatisme. Ils examinent les effets de ces réactions sur le travail, les relations ou d’autres activités. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.
+Dans le trouble de stress post-traumatique, un bruit associé à l’événement peut déclencher un sursaut et une alerte qui mobilisent le corps très vite. Un sursaut seul ne renseigne pas sur un diagnostic. Dans la serre, Selma lâche le mètre au choc du couvercle et cherche la sortie. Il faut à la fois tenir compte de la vitre fendue, un problème réel à confier au vitrier, et de ce que le bruit provoque chez elle.
 
-## Comment cette difficulté se manifeste
+## Comment un rappel sonore met-il le corps en alerte ?
 
-Selma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment.
+### Le geste s’arrête avant que le son soit identifié
 
-## Finir une matinée comme elle le souhaite
+Une réaction de sursaut peut interrompre une tâche en cours avant que la personne sache d’où vient le bruit.
 
-Sur place, la première question est de savoir si quelque chose demande une attention immédiate. André peut vérifier de loin où le couvercle est tombé. La vitre fendue, déjà signalée au vitrier, reste une question de sécurité matérielle. Selma peut ensuite choisir de poser le mètre, de sortir ou de rester près de la porte avec un peu d’espace. Elle peut dire quel geste lui conviendrait maintenant.
+**Exemples concrets**
 
-La serre a aussi ses propres décisions. André peut garder ses graines et revenir discuter des radis. Selma peut retrouver le vert du montant un autre jour et décider si elle souhaite le conserver. Ces choix autour de la serre peuvent continuer pendant qu’elle poursuit son suivi.
+- Le couvercle tombe dehors et le mètre échappe à Selma pendant qu’elle parle des semis.
+- Dans un autre jardin, une personne pourrait reculer au claquement d’une tôle avant de remarquer le vent.
+
+### L’attention se tourne vers la sortie
+
+L’envie de s’éloigner peut prendre le dessus alors que la personne connaît les lieux.
+
+**Exemples concrets**
+
+- Selma repère la porte et peine un instant à regarder ailleurs.
+- Elle demande à André de rester à l’entrée pour lui laisser choisir son chemin.
+
+### La tâche peut attendre après le choc
+
+Identifier la source du bruit ou quitter l’endroit ne rend pas toujours possible une reprise immédiate.
+
+**Exemples concrets**
+
+- Dehors, André montre de loin le couvercle posé sur la dalle.
+- Selma ramasse les sachets de graines et reporte la mesure du montant.
+
+## 3 techniques pour retrouver un choix après un sursaut
+
+### 1. Laisser de l’espace pour sortir
+
+Retrouver une distance qui convient à la personne.
+
+**Exercice pratique**
+
+- Interrompez le geste en cours si vous pouvez le laisser en sécurité.
+- Indiquez à l’autre, par un mot ou un signe, si vous voulez qu’il attende.
+- Choisissez où vous souhaitez vous mettre avant de reprendre la discussion.
+
+La personne peut décider d’un appui sans devoir raconter ce qui a déclenché le sursaut.
+
+### 2. Faire traiter le problème matériel
+
+Donner la bonne réponse au danger présent dans le lieu.
+
+**Exercice pratique**
+
+- Identifiez le risque visible, comme une vitre fendue.
+- Gardez-vous à distance de la zone dangereuse et adressez-vous à la personne compétente.
+- Convenez de ce qui peut attendre son intervention.
+
+Le danger concret peut être traité sans demander à Selma de rester dans la serre pour vérifier si l’alerte baisse.
+
+### 3. Décrire la réaction à un professionnel
+
+Donner un exemple de ce que les rappels changent dans la vie quotidienne.
+
+**Exercice pratique**
+
+- Choisissez une situation que vous voulez aborder.
+- Dites ce qui s’est passé dans le présent et ce que la réaction vous a fait interrompre.
+- Discutez avec le professionnel des appuis qui vous conviendraient si cela recommence.
+
+L’échange peut porter sur les effets du rappel, avec le niveau de détail que vous choisissez.
 
 ## Le montant vert restera dans le dessin
 
 Ils sortent par l’allée. André lui montre de loin le couvercle posé à plat sur la dalle. Selma ramasse les deux sachets qui ont glissé sur le seuil et lui rend celui des radis. Sur son papier, elle entoure le montant vert pour le retrouver quand elle parlera au vitrier. La mesure attendra. Au portail, André lui demande où elle achète son fromage. Elle lui indique la boutique au coin de la place et passe un doigt sur les dents de la clé avant de l’enfoncer dans la serrure.
+
+---
+
+**Conclusion**
+
+Selma peut garder le montant vert sur son dessin et laisser la mesure pour une autre fois. Le couvercle et la vitre demandent des réponses différentes. Son sursaut aide aussi à comprendre pourquoi elle veut quitter la serre avant de décider du reste.

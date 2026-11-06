@@ -29,22 +29,83 @@ Il commence à écrire, puis dit doucement : « Là, tes mains. » Irène regard
 
 À la cuisine, Irène lui demande ce qu’il attend qu’elle fasse quand il lui dit ça. Il pose le pain qu’il coupait. « Tu m’as dit que tu avais perdu des pages mardi. Je voulais t’aider à t’en apercevoir. » Elle lui dit que sur le canapé elle n’a rien raté. Elle était même revenue exprès à la page de l’escalier. Son père rapproche la corbeille et lui demande ce qui lui serait utile à la place.
 
-## Distinguer la gêne vécue du geste remarqué
+## Un mouvement visible ne dit pas si la personne est gênée
 
-Un mouvement répété peut entraver une activité à un moment et accompagner une autre activité sans la gêner. Sur le canapé, Irène peut reprendre sa page au moment voulu. Au premier essai de l’atelier, les pages circulaient et elle perdait le raccord avant de pouvoir reprendre. Ces deux observations sont utiles ensemble. Une remarque sur ses mains attire son attention sur un événement qui, à ce moment-là, n’est pas son problème.
+Les mouvements stéréotypés peuvent accompagner une activité sans l’interrompre ou gêner une action précise selon la situation. Leur visibilité ne suffit pas à connaître la gêne vécue, et un risque physique éventuel se regarde séparément. Irène peut reprendre son livre au rythme qu’elle choisit sur le canapé. Quand son père commente ses mains, la remarque lui fait perdre le fil qu’elle avait gardé.
 
-Certaines personnes trouvent des mouvements familiers agréables ou apaisants ; d’autres les trouvent gênants à certains moments.
+## Comment distinguer le mouvement visible de la gêne vécue ?
 
-## Comment cette difficulté se manifeste
+### Le mouvement peut accompagner une activité
 
-Irène dit ce qui vaut pour elle sur ce canapé. Son père peut aussi dire ce qui l’a inquiété dans ce qu’Irène lui a raconté de l’atelier. Ils pourront comparer leurs observations et garder la possibilité d’en parler avec l’équipe pédiatrique si la difficulté change.
+L’enfant peut continuer à écouter ou savoir où reprendre malgré le mouvement.
 
-## Revenir à ce que la personne essaie de faire
+**Exemples concrets**
 
-Au lieu de rappeler chaque mouvement, le père d’Irène peut attendre qu’elle dise ce qu’elle veut reprendre. Si elle lui demande la page, il peut la montrer. Si elle a perdu un bout de phrase, il peut reprendre ce bout-là. Quand elle lit pour elle-même et que tout se passe bien, il peut continuer à inventer sa définition ou s’occuper du repas.
+- Irène avait retrouvé exprès la page de l’escalier sur le canapé.
+- Un enfant écoute une histoire et sait encore ce qui se passe lorsque ses mains bougent.
 
-Irène voudrait garder en mémoire les fois où elle a besoin de quelque chose. Un mot près d’un croquis suffit si elle souhaite en reparler. Elle peut y mettre ce qui lui a manqué, par exemple « deuxième page introuvable », et ce qui a été utile. Ils conviennent que ce papier lui appartient ; il n’a pas à servir à compter ses gestes.
+### L’observation du proche peut devenir une interruption
+
+Un commentaire bien intentionné peut détourner l’attention de ce que la personne faisait.
+
+**Exemples concrets**
+
+- Irène pense aux remarques répétées de son père au lieu de regarder l’escalier.
+- Un adulte signale un geste pendant un dessin ; l’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place.
+
+### Le besoin peut être décrit sans viser le geste lui-même
+
+Une personne peut vouloir un appui à un endroit et aucun commentaire ailleurs.
+
+**Exemples concrets**
+
+- Irène note qu’à la petite table il faut garder le raccord visible.
+- Un enfant demande qu’on lui montre la dernière pièce utilisée si elle a été déplacée, et poursuit autrement sans aide.
+
+## 3 techniques pour vérifier si une aide est souhaitée
+
+### 1. Poser une question sur l’activité
+
+Comprendre ce que la personne cherche à faire.
+
+**Exercice pratique**
+
+- Attendez un moment où la question ne coupe pas son geste en cours.
+- Demandez si elle a perdu sa place ou veut un indice.
+- Laissez-la répondre qu’elle n’a pas besoin d’aide.
+
+La réponse renseigne sur l’activité et sur l’appui qui lui serait utile.
+
+### 2. S’accorder sur une reprise demandée
+
+Pouvoir aider sans commenter chaque mouvement.
+
+**Exercice pratique**
+
+- Identifiez un mot ou un geste par lequel l’enfant peut demander de reprendre.
+- Convenez de ce que l’adulte fera dans ce cas.
+- Laissez passer les mouvements sans gêne ni danger lorsque rien n’est demandé.
+
+Le proche peut intervenir quand il est utile plutôt que détourner l’attention à chaque fois.
+
+### 3. Garder des exemples de contextes différents
+
+Décrire les besoins sans se fier à la seule fréquence des mouvements.
+
+**Exercice pratique**
+
+- Repérez une activité qui se poursuit et une autre où la reprise est difficile.
+- Dites ce qui diffère entre les deux cadres.
+- Parlez-en à l’équipe si la gêne devient importante ou si un risque apparaît.
+
+Le suivi peut distinguer le geste, son effet et l’aide souhaitée.
 
 ## Une définition au verso
 
 Irène demande à son père de reprendre sa définition. Il avait écrit « endroit qui… ». Elle lui propose de finir par « … fait croire qu’on a déjà choisi ». Il reprend le feutre. Sur un bout de papier à elle, Irène note « petite table : garder le raccord visible ». Elle ne note rien sur le canapé. Au dîner, son père hésite au milieu d’une histoire et Irène lui dit : « Tu en étais à la sortie du rond-point. » Il reprend à cet endroit. Ça leur donne une façon très ordinaire de parler de ce qu’ils se demandent.
+
+---
+
+**Conclusion**
+
+Irène note le raccord à garder visible et n’ajoute rien sur le canapé. Quand elle rappelle à son père la sortie du rond-point, ils trouvent une manière ordinaire de reprendre le fil à la demande.

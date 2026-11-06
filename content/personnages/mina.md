@@ -31,74 +31,74 @@ reading_topics:
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-rendez-vous-papier-carnet/">Sensibilité au rejet quand Mina lit un refus dans un retard</a></h3>
-    <p class="parcours-resume">Un message de retard suffit à Mina pour imaginer qu’Alice regrette de la voir. L’émotion monte et elle s’apprête à annuler le rendez-vous. Une forte sensibilité au rejet peut faire partie d’un profil borderline. Dans la CIM-11, ce profil précise un trouble de la personnalité évalué dans la durée et dans plusieurs situations. La scène éclaire une réaction parmi celles que Mina décrit en suivi.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-rendez-vous-papier-carnet/">Sensibilité au rejet quand un retard blesse comme un refus</a></h3>
+    <p class="parcours-resume">Quand Alice annonce son retard, Mina éprouve déjà la peine d’un rendez-vous refusé. Elle est sur le point d’y renoncer alors qu’elle voudrait encore voir sa cousine. Une sensibilité marquée au rejet peut accompagner le profil borderline. Elle se voit ici dans ce que l’attente fait à Mina et dans sa première envie de se retirer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-rendez-vous-papier-carnet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-livraison-dix-neuf-heures/">Se croire mise à l’écart quand un collègue reprend une tâche</a></h3>
-    <p class="parcours-resume">Quand Rachid dit qu’il s’occupe de la livraison, Mina entend que sa place dans l’équipe est menacée. Elle envisage d’annuler son cours pour montrer qu’elle reste utile. La sensibilité au rejet peut donner ce poids à une information incomplète. Revenir à la tâche permet à Mina de découvrir ce que Rachid lui demande et de garder une décision pour elle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-livraison-dix-neuf-heures/">Prêter une intention à un collègue quand une tâche change de main</a></h3>
+    <p class="parcours-resume">Mina lit le message de Rachid et croit comprendre qu’il lui reproche d’avoir mal préparé la livraison. Elle envisage aussitôt de changer son emploi du temps. Dans un profil borderline, il peut être difficile d’interpréter les signaux sociaux sous tension. Une question sur la tâche lui permet ici de savoir ce que Rachid attend pour la livraison.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-livraison-dix-neuf-heures/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pli-papier-reliure/">Image de soi instable quand un défaut de reliure devient un verdict</a></h3>
-    <p class="parcours-resume">Le défaut de la couverture fait passer Mina d’une difficulté précise à un jugement sur sa capacité à fabriquer un carnet qui mérite d’être offert. Les variations marquées de l’image de soi peuvent faire partie d’un profil borderline. Le récit montre le coût de ce basculement et comment un retour sur le pli lui redonne un problème qu’elle peut examiner.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pli-papier-reliure/">Image de soi instable quand un pli imparfait devient un verdict</a></h3>
+    <p class="parcours-resume">Un défaut apparaît sur le papier vert. En regardant les carnets des autres, Mina passe de la satisfaction d’avoir choisi sa couverture à l’idée qu’elle n’est pas capable d’apprendre la reliure. Des variations marquées de l’image de soi peuvent faire partie d’un profil borderline. L’enjeu à l’atelier est de pouvoir poursuivre un apprentissage malgré ce changement de regard.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pli-papier-reliure/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pause-loges-festival/">Réactivité émotionnelle quand un reproche public fait partir la réponse</a></h3>
-    <p class="parcours-resume">Rachid met en cause Mina devant les bénévoles et sa réponse sort avant qu’elle ait examiné la fiche. Dans un profil borderline, une montée émotionnelle vive peut rendre une réaction immédiate plus difficile à différer. Ici, il y a aussi une livraison à organiser et un reproche public à discuter. Confier la tâche un instant laisse du temps pour les deux.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pause-loges-festival/">Réactivité émotionnelle quand la colère monte devant les bénévoles</a></h3>
+    <p class="parcours-resume">Devant deux bénévoles, Rachid dit que Mina s’est trompée d’entrée. La colère monte si vite qu’elle entend sa propre réplique avec surprise. Une forte réactivité émotionnelle peut faire partie du profil borderline. Sur le moment, Mina peine à réfléchir à la livraison et à l’échange en même temps. Sa collègue l’aide à séparer la décision sur le dépôt du désaccord.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-pause-loges-festival/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-excuse-et-desaccord/">Réparer une parole impulsive quand le désaccord reste ouvert</a></h3>
-    <p class="parcours-resume">Sur les marches, Mina peut revenir sur sa réponse rapide et reconnaître ce qu’elle a dit. Rachid maintient son avis sur la livraison. Quand des réactions intenses affectent plusieurs relations, examiner leur suite aide à comprendre le retentissement d’un trouble de la personnalité. Cet échange illustre une réparation possible alors que la question de travail reste à décider.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-excuse-et-desaccord/">Les effets d’une parole impulsive quand le désaccord continue</a></h3>
+    <p class="parcours-resume">Sur les marches du festival, Mina revient sur une phrase qui accusait Rachid de ne jamais lire ses messages. Elle voit que cette parole a laissé une trace dans leur manière de se parler. Des réactions impulsives sous une forte émotion peuvent faire partie d’un profil borderline. Le dépôt est réglé et les collègues doivent encore retrouver une façon de travailler ensemble.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-excuse-et-desaccord/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-horaire-alice-limites/">Peur de l’abandon quand Alice ne peut pas confirmer le rendez-vous</a></h3>
-    <p class="parcours-resume">Alice ne sait pas encore si elle pourra venir. Mina ressent l’envie de demander une nouvelle confirmation même après avoir entendu quand elle en saura davantage. Dans le profil borderline, la peur de perdre un lien peut rendre l’attente très coûteuse. Garder son cours de reliure permet à Mina de décider de son dimanche pendant que la question du prochain rendez-vous reste ouverte.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-horaire-alice-limites/">Peur de l’abandon quand un dimanche incertain semble menacer le lien</a></h3>
+    <p class="parcours-resume">Un dimanche difficile à fixer fait craindre à Mina que les rendez-vous avec Alice disparaissent peu à peu. Elle se voit prête à demander une promesse dont elle ne voudrait pas elle-même. La peur d’être abandonnée peut être une difficulté importante dans un profil borderline. Elle pèse ici sur la place que Mina laisse à ses propres projets.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-horaire-alice-limites/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-plan-de-suivi-et-choix/">Un suivi structuré pour comprendre la peur du rejet et préparer les crises</a></h3>
-    <p class="parcours-resume">Mina retrouve en séance plusieurs moments où l’incertitude a pris toute la place, au travail et avec Alice. Un suivi psychologique structuré peut partir de ces situations pour convenir d’objectifs précis. Mina veut pouvoir demander quand elle aura une réponse et garder ses activités pendant l’attente. Elle choisit aussi avec son équipe quel relais contacter si la détresse devient difficile à traverser.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-plan-de-suivi-et-choix/">Quand la tension d’un échange continue de peser sur la journée</a></h3>
+    <p class="parcours-resume">Au suivi, Mina reprend une livraison et une discussion avec Alice. Elle remarque ce qu’elles ont eu en commun. Une fois l’échange terminé, elle avait encore du mal à penser à ses autres projets. Dans un trouble de la personnalité avec profil borderline, le retentissement de ces tensions peut se voir dans plusieurs contextes. Mina et sa thérapeute cherchent ce qu’il serait utile de travailler en premier.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-plan-de-suivi-et-choix/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu/">Détresse aiguë quand Mina a besoin d’un relais professionnel</a></h3>
-    <p class="parcours-resume">Plusieurs messages se mêlent et Mina se surprend à écrire qu’elle veut tout quitter. Elle pleure et sent qu’elle a besoin de parler à quelqu’un maintenant. Dans un trouble de la personnalité avec profil borderline, une crise peut rendre les choix ordinaires très difficiles. Le plan préparé lui donne un point de contact professionnel pendant qu’Alice l’aide à le retrouver.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu/">Détresse aiguë quand répondre et chercher de l’aide deviennent difficiles</a></h3>
+    <p class="parcours-resume">Un soir, Mina n’arrive plus à trier les demandes du festival ni à retrouver tout de suite le numéro qu’elle a préparé. Dans un profil borderline, la détresse peut devenir intense et rendre les décisions ordinaires difficiles. Une crise demande une réponse adaptée à ce qui se passe sur le moment. Mina appelle le service indiqué dans son plan et lui explique ce qui a changé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-revoir-le-relais-avec-alice/">Après une crise, évaluer ce qui a aidé et ajuster le relais</a></h3>
-    <p class="parcours-resume">Mina a finalement joint le service et explique en suivi le temps qu’il lui a fallu pour retrouver le numéro. Revenir sur ce qui a aidé pendant une crise permet de mettre à jour le plan avec son équipe. Alice souhaite aussi savoir quand elle peut soutenir sa cousine. Mina choisit l’aide à partager et le moment où elle veut donner des nouvelles.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-revoir-le-relais-avec-alice/">Après une crise, repérer ce qui a rendu les appuis difficiles à utiliser</a></h3>
+    <p class="parcours-resume">Après l’appel du soir, Mina revient avec sa thérapeute sur le temps qu’il lui a fallu pour retrouver le numéro. Elle souhaite garder le geste utile d’Alice et préciser ce qui dépend de la disponibilité de sa cousine. Dans le suivi d’un profil borderline, revenir sur les obstacles rencontrés pendant une crise peut aider à préparer des appuis plus faciles à utiliser.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-revoir-le-relais-avec-alice/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-ouverture-festival-repartir/">Réguler une réaction vive quand un collègue se dit indisponible</a></h3>
-    <p class="parcours-resume">Le jour de l’ouverture, Rachid dit qu’il ne peut pas aider tout de suite. Mina entend presque la réponse vive de leur dispute précédente dans sa propre bouche. Repérer l’élan permet ici de demander une information et de passer le reste de la tâche à l’équipe. Ces moments donnent des exemples concrets à discuter dans le suivi de son trouble de la personnalité.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-ouverture-festival-repartir/">Faire un autre choix quand une réponse impulsive revient au travail</a></h3>
+    <p class="parcours-resume">À l’ouverture du festival, Rachid ne peut pas s’arrêter. Mina a la même réplique au bord des lèvres que le jour des tables. Elle trouve pourtant une autre réponse et garde son horaire. Dans un profil borderline, une forte émotion peut donner envie d’agir très vite. La scène montre comment une autre décision peut devenir possible alors que l’agacement est encore présent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-ouverture-festival-repartir/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-carnet-offert-alice/">La réponse différée d’Alice réveille la crainte du rejet au moment du cadeau</a></h3>
-    <p class="parcours-resume">Au moment d’offrir le carnet, Mina entend un « Attends » et se demande tout de suite si Alice aurait préféré un autre cadeau. Une forte sensibilité au rejet peut colorer une réponse très brève dans un lien important. En laissant Alice chercher où poser ses affaires, Mina se donne la possibilité d’entendre ce qu’elle souhaite réellement faire du cadeau.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-carnet-offert-alice/">Quand une contrariété change soudain le regard sur une relation proche</a></h3>
+    <p class="parcours-resume">Mina a préparé le carnet avec Alice. Au moment de l’offrir, un simple « Attends » lui fait pourtant voir leur relation comme si elle seule y tenait. Des variations marquées du regard porté sur les liens proches peuvent faire partie d’un profil borderline. Ici, Mina laisse coexister la contrariété du moment et ce qu’elle sait déjà de leur relation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-carnet-offert-alice/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-table-apres-festival/">Mesurer les progrès du suivi dans les relations et l’autonomie quotidienne</a></h3>
-    <p class="parcours-resume">Mina et Rachid gardent deux avis sur les livraisons. Mina peut entendre le sien, tenir sa propre limite et chercher un créneau de reliure pour elle. Le suivi d’un trouble de la personnalité regarde le fonctionnement dans plusieurs domaines. La scène montre ce qu’elle retrouve dans son quotidien, tandis que les moments de forte détresse restent des situations dont elle peut parler.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mina-table-apres-festival/">Évaluer des progrès inégaux dans les relations et les projets du quotidien</a></h3>
+    <p class="parcours-resume">Le festival est terminé et Mina peut parler à Rachid d’une consigne contestée sans s’engager à rester joignable après son service. Elle a encore du mal à lâcher le feutre, puis réserve un cours pour un carnet à elle. Dans le suivi d’un trouble de la personnalité avec profil borderline, les progrès peuvent se voir dans les choix du quotidien même quand certaines situations restent pénibles.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mina-table-apres-festival/" class="parcours-link">Lire</a>
   </div>
 </div>

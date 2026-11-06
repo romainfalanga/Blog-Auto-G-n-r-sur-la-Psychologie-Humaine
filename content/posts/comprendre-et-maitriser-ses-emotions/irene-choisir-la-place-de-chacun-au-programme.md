@@ -29,20 +29,83 @@ Irène prend la feuille. Elle avait dessiné la première rue ; il avait trouvé
 
 Mylène les rejoint. On lui a demandé une phrase courte et elle a résumé ce qu’elle voyait à l’atelier : Irène dessinait souvent, et Ilyès avait proposé de continuer l’histoire vendredi. Il s’agit d’un brouillon. Elle peut encore modifier la ligne, à condition qu’ils lui donnent une phrase avant de partir. Irène laisse le tas de signets sur le comptoir et sort un crayon.
 
-## Un coup de main ne donne pas un rôle pour toujours
+## Une aide ponctuelle peut être prise pour un rôle permanent
 
-Une aide utile dans un moment précis peut devenir gênante si l’entourage en fait un rôle permanent. Ilyès a proposé de prendre la suite quand Irène avait perdu sa place vendredi. Elle lui a demandé de retrouver une image, puis a continué à parler avec Aya. La prochaine fois, elle pourra choisir autrement. Rien, dans cet accord, ne demande à Ilyès de raconter le livre à chaque visite ou à Irène de se tenir à l’écart de la lecture.
+Les effets d’un trouble des mouvements stéréotypés sur une activité varient selon le contexte et le soutien disponible. Une aide utile pendant une interruption ne permet pas de décider ce que la personne veut ou peut faire à chaque rencontre. Mylène se souvient d’un relais proposé par Ilyès et en tire un rôle fixe dans le programme. Irène et Ilyès reprennent la phrase ensemble.
 
-## Comment cette difficulté se manifeste
+## Comment une difficulté momentanée peut-elle devenir une étiquette ?
 
-Les gestes répétés d’Irène peuvent compliquer une partie du travail sans dire ce qu’elle sait faire ni ce qu’elle a envie d’essayer. Dessiner lui convient souvent et c’est un plaisir qu’elle veut garder. Elle peut aussi poser une question à un visiteur. La ligne du programme peut rendre ces choix plus faciles en annonçant ce qui se passera pour le public plutôt qu’en répartissant les deux personnes.
+### Une scène reste plus visible que les autres
 
-## Réécrire ce que le visiteur va venir faire
+L’entourage peut retenir le moment où quelqu’un a proposé d’aider et oublier les autres contributions.
 
-Mylène a besoin d’une phrase assez courte pour le programme et d’un nom pour retrouver la table. Irène et Ilyès ont besoin que leur livre soit signé par les deux et que la suite reste ouverte. Ils peuvent regarder les mots « dessins » et « lecture » séparément : on peut garder l’idée d’un livre dessiné et lu ensemble sans assigner une seule activité à chacun.
+**Exemples concrets**
 
-La phrase pourrait inviter le visiteur à choisir une entrée et à chercher une place dans la rue. Chacun des deux auteurs peut dire si c’est bien ce qu’il voudrait proposer. Mylène peut attendre la nouvelle version avant d’imprimer. Leur accord sur la page à retrouver reste entre eux et les adultes qui organisent la séance.
+- Mylène se rappelle qu’Ilyès a proposé de continuer pendant qu’Irène cherchait sa page.
+- Un adulte se souvient qu’un enfant a demandé une reprise de consigne et lui retire d’emblée le premier rôle au prochain essai.
+
+### Le rôle écrit ferme des possibilités
+
+Une description publique peut être comprise comme une consigne alors qu’elle reposait sur une observation limitée.
+
+**Exemples concrets**
+
+- En lisant « lecture par Ilyès », Ilyès se demande s’il devra tout lire.
+- Un programme indique « illustrations » sous un seul prénom et laisse croire que la personne ne présentera jamais le travail.
+
+### Le groupe peut décrire le projet et laisser les rôles ouverts
+
+Une annonce peut donner au public ce dont il a besoin sans figer la manière de participer.
+
+**Exemples concrets**
+
+- Irène et Ilyès proposent leurs deux prénoms et les deux entrées du livre.
+- Deux élèves présentent leur maquette comme un travail commun et se passent la parole selon les questions.
+
+## 3 techniques pour éviter qu’un appui décide du rôle
+
+### 1. Demander ce que la personne veut faire
+
+Partir des préférences plutôt que d’un moment observé.
+
+**Exercice pratique**
+
+- Citez la tâche qui sera proposée.
+- Demandez quelle part la personne veut prendre et quel appui pourrait l’aider.
+- Laissez-la modifier sa réponse en fonction du déroulement.
+
+Les rôles s’organisent à partir du projet et des besoins exprimés.
+
+### 2. Relire les mots de l’annonce
+
+Repérer ce que le public risque de comprendre comme un rôle fixe.
+
+**Exercice pratique**
+
+- Montrez le brouillon aux personnes nommées.
+- Demandez si leurs contributions sont bien représentées.
+- Remplacez la répartition figée par une formulation approuvée ensemble.
+
+Le public reçoit une indication exacte sans confondre une aide ponctuelle et une responsabilité permanente.
+
+### 3. Garder un relais souple
+
+Prévoir une réponse sans retirer d’emblée la parole à quelqu’un.
+
+**Exercice pratique**
+
+- Convenez de la façon dont vous voulez commencer ensemble.
+- Décidez comment demander un appui pendant la rencontre.
+- Laissez chacun reprendre son rôle dès qu’il le souhaite.
+
+L’aide reste disponible pour le moment où elle sert.
 
 ## Deux prénoms sur la même ligne
 
 Irène écrit « Irène et Ilyès » sous le titre. Ilyès ajoute : « Entrez par le canal ou par les toits. » Ils se disputent une minute sur le point final, parce qu’Irène veut dessiner une goutte à cet endroit. Mylène peut garder le point dans le programme et la goutte sur les signets. Ilyès lui demande de leur laisser ouvrir le livre ensemble, quitte à ce qu’il pose la première question au visiteur qui choisit le canal. Irène trouve l’idée juste et lui tend un signet sec. Ils gardent le dessin de la goutte pour le samedi.
+
+---
+
+**Conclusion**
+
+Le programme pourra nommer les deux personnes qui ont fait le livre. Le samedi, elles l’ouvriront ensemble et décideront selon le chemin choisi qui pose la première question.

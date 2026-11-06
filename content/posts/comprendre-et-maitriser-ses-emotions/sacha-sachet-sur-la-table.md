@@ -29,24 +29,83 @@ La docteure a noté plusieurs situations, depuis leur premier appel jusqu’au r
 
 La docteure Rigal reprend avec lui l’ancienneté de la peur et l’effort qu’il fait certains jours pour rester au comptoir. Elle a aussi posé des questions sur son humeur, sa santé et les situations où l’inquiétude se manifeste. Puis elle lui dit que l’évaluation conduit à un diagnostic de trouble d’anxiété sociale. Sacha replie le rabat du sachet et s’aperçoit qu’il ne pense plus à la tasse. « Je vais devoir apprendre à aimer les repas de commerçants ? » Il le dit sérieusement. Il voudrait savoir ce qui, dans leurs échanges, a compté pour elle.
 
-## Ce que l’évaluation a mis en relation
+## Ce qu’un entretien cherche à comprendre
 
-Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent. La docteure Rigal explique à Sacha le lien qu’elle fait entre la peur, le départ du café et les changements dans ses journées de travail. Elle a aussi entendu parler des moments où il reste malgré l’anxiété et doit fournir un effort qui passe inaperçu. L’évaluation a pris plusieurs échanges : une scène peut éclairer une difficulté, tandis que la conclusion appartient au professionnel qui examine l’ensemble et les autres explications possibles.
+L’évaluation d’un possible trouble d’anxiété sociale porte sur la peur d’être jugé, sa persistance, les situations évitées ou vécues avec effort et les conséquences dans la vie. Elle tient aussi compte du contexte, des préférences et d’autres explications possibles. La docteure Rigal a repris plusieurs exemples avec Sacha avant de lui annoncer son diagnostic. Il peut maintenant lui demander ce que ce mot change pour lui.
 
-La peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables.
+## Comment l’évaluation va-t-elle au-delà d’une scène ?
 
-## Comment cette difficulté se manifeste
+### Elle compare plusieurs situations
 
-Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder.
+Le professionnel cherche dans quels échanges la peur apparaît et ce qu’elle empêche ou rend plus coûteux.
 
-La peur est présente depuis plusieurs mois. Sacha décrit son effort pour continuer à parler lorsque d’autres clients s’approchent, et les rencontres auxquelles il renonce alors qu’il aurait envie d’y aller. Ce retentissement renseigne l’évaluation au même titre que ce qu’il fait effectivement devant les autres.
+**Exemples concrets**
 
-## Préciser ce qu’on voudrait retrouver
+- Sacha parle du café et des explications qu’il a écourtées au magasin.
+- Une personne décrit à la fois un appel repoussé et une conversation qu’elle a poursuivie avec difficulté.
 
-NICE recommande de définir les objectifs du soin avec l’adulte après le diagnostic et de lui expliquer les options. Sacha peut commencer par une différence qu’il connaît bien. Les repas de commerçants l’intéressent peu, même quand il s’imagine y être détendu. Il aimerait en revanche pouvoir parler à une table de graines ou montrer un geste dans la boutique. Ce sont deux idées qu’il peut apporter à la prochaine consultation. La docteure peut l’aider à préciser ce qu’il attend du suivi avant qu’il choisisse comment s’y engager.
+### Elle tient compte de ce que la personne préfère
 
-Sacha garde la main sur ce qu’il raconte à Gaspard. Les deux collègues peuvent fixer un moment pour leur essai et prévoir comment se répartir le matériel sans que l’intitulé du diagnostic entre dans leur conversation. Si Sacha souhaite un jour lui en parler, il peut aussi lui dire à quoi il aimerait que cette confidence serve.
+Une relation à deux peut convenir pleinement ; l’entretien cherche aussi les moments où la peur restreint un choix voulu.
+
+**Exemples concrets**
+
+- Sacha apprécie certaines conversations à deux et aimerait finir ses explications à la boutique.
+- Une personne préfère éviter les grands repas et demande une évaluation parce qu’elle renonce aussi à voir des amis qu’elle souhaite retrouver.
+
+### Elle examine l’évolution et les autres difficultés
+
+Le diagnostic s’appuie sur un ensemble d’informations que le professionnel met en contexte.
+
+**Exemples concrets**
+
+- La docteure Rigal interroge Sacha sur l’ancienneté, son humeur et sa santé.
+- Un professionnel peut demander si la peur survient uniquement après une remarque hostile ou dans d’autres cadres aussi.
+
+## 3 techniques pour préparer et reprendre un entretien d’évaluation
+
+### 1. Décrire ce qu’on a fait ou laissé tomber
+
+Donner au professionnel des situations concrètes à comparer.
+
+**Exercice pratique**
+
+- Choisissez un échange souhaité.
+- Notez ce que vous redoutiez et comment vous avez réagi.
+- Apportez un autre échange dont le déroulement était différent.
+
+Le bilan peut tenir compte des variations plutôt que d’une seule impression.
+
+### 2. Formuler ce que vous voulez préserver
+
+Faire entendre vos préférences au moment où un soin est discuté.
+
+**Exercice pratique**
+
+- Dites quel type d’échange vous convient déjà.
+- Nommez une situation que vous voudriez retrouver.
+- Demandez comment le professionnel distingue ces deux aspects.
+
+Les buts éventuels du soin peuvent partir de votre vie plutôt que d’un idéal de sociabilité.
+
+### 3. Reprendre le diagnostic avec vos questions
+
+Comprendre comment il a été établi et ce qui est proposé ensuite.
+
+**Exercice pratique**
+
+- Demandez quels éléments ont compté dans l’évaluation.
+- Reformulez ce que vous avez compris.
+- Notez une question à reprendre au rendez-vous suivant.
+
+Vous disposez de temps pour comprendre et décider de la suite du suivi.
 
 ## Deux choses à retenir
 
 La docteure Rigal lui dit qu’il peut continuer à préférer les conversations à deux. Elle note avec lui deux choses pour leur prochain rendez-vous : les questions qu’il se pose sur les soins, et ce qu’il voudrait pouvoir faire à la graineterie. En partant, Sacha colle le rabat du sachet avec un bout d’adhésif prêté par le secrétariat. Dans la rue, il écrit à Gaspard : « On reprend le plan de table mardi ? Je peux apporter deux plants. » Puis il met le sachet dans la poche où il range d’habitude ses clefs.
+
+---
+
+**Conclusion**
+
+La docteure Rigal peut expliquer le diagnostic et laisser ouverte la discussion sur les soins. Sacha repart avec ses questions et un projet qu’il veut remettre sur la table avec Gaspard.

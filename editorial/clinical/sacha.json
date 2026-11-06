@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand le regard change la situation",
-          "text": "La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe. Ce qui change pour Sacha est perceptible au milieu d’une tâche qu’il connaît bien. Il tenait son pot tout en parlant à madame Baudry ; à l’arrivée de deux personnes, il se demande surtout ce que son pouce leur laisse voir. Le tremblement n’indique pas à lui seul ce qui se passe."
+          "heading": "La crainte porte sur ce que les autres vont penser",
+          "text": "Dans l’anxiété sociale, la difficulté peut venir de la peur d’être jugé négativement pendant un échange ou une tâche observée. Un geste familier devient alors coûteux, même quand la personne sait le faire. La peur ou le retrait à un moment donné ne suffisent pas à poser un diagnostic. Pour Sacha, la question commence à se poser parce qu’il renonce plusieurs fois à des échanges qu’il aimerait avoir."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le sens que Sacha lui prête, et la place que prend cette inquiétude, éclairent sa sortie précipitée.\n\nÊtre intimidé dans une situation inhabituelle est courant. Aimer les échanges à deux peut aussi être un choix qui convient parfaitement. Ici, la différence se voit dans le carnet : Sacha souhaite partager un geste qui lui plaît et reporte le projet à cause de la peur qu’il éprouve. La scène laisse ouverte la question de la nature et de l’étendue de ses difficultés."
+          "heading": "Comment la peur du jugement modifie-t-elle un geste qu’on connaît ?",
+          "points": [
+            {
+              "heading": "Un regard semble changer la tâche",
+              "text": "Expliquer à une personne et être regardé par plusieurs peuvent donner une impression très différente de la même situation.",
+              "examples": [
+                "Sacha parlait du rempotage à madame Baudry quand d’autres clients se sont approchés.",
+                "Une personne sait montrer un appareil à un collègue et redoute de s’embrouiller lorsque le reste de l’équipe se met autour."
+              ]
+            },
+            {
+              "heading": "Un détail devient une preuve possible",
+              "text": "La personne peut craindre qu’un geste ou une hésitation révèle aux autres une maladresse.",
+              "examples": [
+                "Sacha pense à ce que son pouce laisse voir et écoute moins la question du client.",
+                "Quelqu’un qui tient un stylo se demande si le mouvement de sa main sera interprété comme un manque d’assurance."
+              ]
+            },
+            {
+              "heading": "La personne abandonne un échange qu’elle voulait",
+              "text": "Se retirer peut réduire l’exposition au regard sur le moment et éloigner un projet désiré.",
+              "examples": [
+                "Sacha cède la place à Gaspard et repousse encore l’idée d’un atelier.",
+                "Une personne prépare une question qu’elle veut poser en réunion et sort avant le tour de table."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Regarder aussi ce qui a été laissé derrière",
-          "text": "Passer la main soulage Sacha sur le moment : il retrouve le bruit familier de la réserve et personne ne regarde son pouce. Il perd aussi la fin d’une conversation qu’il avait envie d’avoir. Quand ce genre de renoncement se répète, il peut modifier les rôles au travail. Gaspard se retrouve avec une tâche qu’il n’avait pas prévue ; les clients pourraient se tourner directement vers lui la prochaine fois. Sacha peut en parler avec lui comme d’une question de travail et préciser ce qu’il aimerait garder comme rôle.\n\nPour décrire une difficulté qui revient à un professionnel, un exemple comme celui-ci permet de dire ce qu’on voulait faire, ce qu’on redoutait et comment la journée a changé ensuite. Le pot et le dessin valent mieux, pour Sacha, que de devoir se présenter comme quelqu’un de « trop timide ». Il pourra également raconter les échanges dans lesquels il se sent libre de parler."
+          "heading": "3 techniques pour clarifier ce que la peur du jugement change",
+          "points": [
+            {
+              "heading": "Décrire le point de bascule",
+              "objective": "Distinguer la tâche de ce qui la rend difficile.",
+              "exercise": [
+                "Nommez l’action que vous vouliez mener.",
+                "Situez le moment où vous avez craint d’être jugé.",
+                "Décrivez ce que vous avez fait juste après."
+              ],
+              "benefit": "L’exemple peut aider à identifier ce qui interrompt un geste pourtant connu."
+            },
+            {
+              "heading": "Parler d’un projet à une personne choisie",
+              "objective": "Garder une possibilité de préparer ce qui vous intéresse.",
+              "exercise": [
+                "Montrez un détail concret du projet à un collègue disponible.",
+                "Demandez-lui s’il a envie d’en parler à deux.",
+                "Fixez ensemble un prochain moment s’il est d’accord."
+              ],
+              "benefit": "La discussion avance sans présumer du format final ni du rôle de l’autre."
+            },
+            {
+              "heading": "Décrire la répétition à un professionnel",
+              "objective": "Savoir si une évaluation serait utile lorsque les renoncements s’accumulent.",
+              "exercise": [
+                "Relevez une situation où vous êtes parti et une où vous êtes resté avec effort.",
+                "Dites ce que vous craigniez que les autres pensent.",
+                "Prenez contact avec un professionnel si ces difficultés pèsent durablement."
+              ],
+              "benefit": "L’évaluation peut tenir compte du contexte, de vos préférences et du retentissement."
+            }
+          ]
         }
       ],
       "ending_title": "Un croquis à montrer",
@@ -52,7 +108,8 @@
         "next": "Le coût de l’évitement apparaît aussi hors du travail, où Sacha cherche à reprendre un contact de soin."
       },
       "clinical_focus": "Peur d’être jugé négativement",
-      "clinical_intro": "Sacha sait comment rempoter le plant. Quand deux clients s’approchent, son attention se fixe sur ce que son pouce laisse voir et il cède la place à son collègue. La crainte d’être mal jugé peut ainsi interrompre un geste familier. Observer le coût de cette peur dans plusieurs situations aide à comprendre pourquoi un professionnel pourrait proposer une évaluation de l’anxiété sociale."
+      "clinical_intro": "Sacha sait comment rempoter le plant. Quand deux clients s’approchent, son attention se fixe sur ce que son pouce laisse voir et il cède la place à son collègue. La crainte d’être mal jugé peut ainsi interrompre un geste familier. Observer le coût de cette peur dans plusieurs situations aide à comprendre pourquoi un professionnel pourrait proposer une évaluation de l’anxiété sociale.",
+      "conclusion": "Le rempotage intéresse toujours Sacha, même après son départ vers la réserve. En tendant son carnet à Gaspard, il parle à la fois du geste qu’il connaît et du regard qui l’a interrompu."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le rendez-vous commence parfois bien avant la porte",
-          "text": "L’anxiété liée au regard des autres peut prendre du temps avant même qu’une situation ait lieu. Sacha prépare des façons d’entrer et se représente le ton qu’il aura. L’énergie dépensée sur le trottoir n’apparaîtra pas dans la liste des personnes présentes au café. Les sachets qui reviennent, la question qu’il ne posera pas et le détour qu’il fait pour éviter le comité donnent des indices sur ce que cette peur change pour lui. Un professionnel peut s’appuyer sur ces détails pour comprendre son quotidien et examiner la difficulté dans la durée."
+          "heading": "La rencontre peut peser avant d’avoir lieu",
+          "text": "L’anticipation anxieuse dans les situations sociales peut occuper beaucoup de temps avant le contact lui-même. La personne se représente une erreur possible et la façon dont les autres pourraient la juger. Sacha prépare ses premières phrases sur le trottoir avant même d’entrer. Le même effort revient quand il imagine ce qu’on lui demandera en prenant un rendez-vous."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La même décision extérieure peut avoir des raisons très différentes. Préférer un café tranquille à huit personnes autour d’une table est compréhensible. Sacha s’était déplacé exprès parce qu’il avait envie d’échanger avec quelqu’un. Il explique son départ par ce qu’il s’attendait à susciter chez les autres. C’est cette expérience, dans son contexte, qui peut être discutée au cabinet."
+          "heading": "Comment la peur anticipée se voit-elle avant un échange ?",
+          "points": [
+            {
+              "heading": "La première phrase est répétée en boucle",
+              "text": "La préparation peut devenir difficile à arrêter quand l’objectif est d’éviter une mauvaise impression.",
+              "examples": [
+                "Sacha imagine ce qu’il va dire en regardant les enveloppes depuis le trottoir.",
+                "Une personne répète sa présentation dans l’ascenseur et hésite encore à ouvrir la porte de la réunion."
+              ]
+            },
+            {
+              "heading": "Une prédiction tient lieu d’information",
+              "text": "Imaginer une réaction ne permet pas de savoir comment la rencontre se passerait.",
+              "examples": [
+                "Sacha se demande comment le groupe entendrait ses mots sans avoir parlé à la table.",
+                "Quelqu’un renonce à rappeler un collègue parce qu’il imagine déjà un silence gêné à l’autre bout du fil."
+              ]
+            },
+            {
+              "heading": "La prise de rendez-vous est elle-même un échange",
+              "text": "La crainte du premier contact peut devenir un obstacle à l’évaluation.",
+              "examples": [
+                "Le numéro reste sous l’aimant pendant que Sacha imagine les questions du secrétariat.",
+                "Une personne ouvre plusieurs fois la page d’un cabinet avant d’oser demander ses modalités de rendez-vous."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Trouver une première porte d’entrée",
-          "text": "Le guide britannique NICE indique que si un premier rendez-vous en personne est difficile à envisager, le professionnel peut proposer un premier échange par téléphone ou en ligne, en prévoyant de rencontrer la personne pour la suite. Les modalités possibles varient d’un service à l’autre. Sacha peut demander une information concrète sur la façon de prendre contact et signaler que l’appel au secrétariat est déjà une difficulté. Le premier message a pour fonction d’ouvrir un échange, et peut rester bref.\n\nIl peut également garder sous la main une situation à raconter si la conversation lui coûte : ce qu’il voulait demander au café, le moment où il est parti et depuis quand ces détours se répètent. Ces exemples aident à conduire l’évaluation. Le cabinet a encore à entendre son histoire et à voir avec lui ce qui lui serait utile."
+          "heading": "3 techniques pour rendre le premier contact plus abordable",
+          "points": [
+            {
+              "heading": "Limiter le but du premier échange",
+              "objective": "Définir une demande à laquelle quelqu’un peut répondre.",
+              "exercise": [
+                "Écrivez ce que vous voulez savoir maintenant.",
+                "Gardez une seule question pour commencer.",
+                "Choisissez à qui elle s’adresse."
+              ],
+              "benefit": "Une demande courte évite de devoir prévoir la conversation entière à l’avance."
+            },
+            {
+              "heading": "Utiliser un mode de contact convenu",
+              "objective": "Accéder à un premier échange avec un service lorsque le face-à-face est difficile.",
+              "exercise": [
+                "Regardez quels modes de contact le cabinet propose.",
+                "Demandez si un premier échange à distance est possible.",
+                "Convenez de la suite avec l’équipe si elle propose ensuite un rendez-vous sur place."
+              ],
+              "benefit": "Un premier contact ajusté peut faciliter l’accès à l’évaluation."
+            },
+            {
+              "heading": "Apporter l’anticipation elle-même",
+              "objective": "Rendre visible le temps passé avant une rencontre évitée.",
+              "exercise": [
+                "Notez la situation telle qu’elle était prévue.",
+                "Dites ce que vous imaginiez et combien de temps cela vous a pris.",
+                "Expliquez au professionnel quelle activité est finalement restée de côté."
+              ],
+              "benefit": "Le rendez-vous ne porte pas seulement sur ce qui s’est passé en présence des autres."
+            }
+          ]
         }
       ],
       "ending_title": "Une question au cabinet",
@@ -97,7 +210,8 @@
         "next": "La docteure Rigal reprend avec lui plusieurs exemples lors d’un nouvel entretien."
       },
       "clinical_focus": "Anxiété d’anticipation dans les échanges",
-      "clinical_intro": "Sur le trottoir, Sacha répète intérieurement ses premières phrases. Il aimerait échanger ses graines et se demande déjà comment le groupe l’entendra. La peur d’être évalué peut peser bien avant le contact et conduire à renoncer à un moment qui compte. Sacha peut raconter ce qu’il a préparé et le détour qu’il a choisi lors de son premier échange avec le cabinet."
+      "clinical_intro": "Sur le trottoir, Sacha répète intérieurement ses premières phrases. Il aimerait échanger ses graines et se demande déjà comment le groupe l’entendra. La peur d’être évalué peut peser bien avant le contact et conduire à renoncer à un moment qui compte. Sacha peut raconter ce qu’il a préparé et le détour qu’il a choisi lors de son premier échange avec le cabinet.",
+      "conclusion": "Le sachet que Sacha apporte n’a pas été échangé au café. Il devient un point de départ pour raconter l’avant de cette rencontre, et la démarche écrite a ouvert la porte du cabinet."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que l’évaluation a mis en relation",
-          "text": "Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent. La docteure Rigal explique à Sacha le lien qu’elle fait entre la peur, le départ du café et les changements dans ses journées de travail. Elle a aussi entendu parler des moments où il reste malgré l’anxiété et doit fournir un effort qui passe inaperçu. L’évaluation a pris plusieurs échanges : une scène peut éclairer une difficulté, tandis que la conclusion appartient au professionnel qui examine l’ensemble et les autres explications possibles.\n\nLa peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables."
+          "heading": "Ce qu’un entretien cherche à comprendre",
+          "text": "L’évaluation d’un possible trouble d’anxiété sociale porte sur la peur d’être jugé, sa persistance, les situations évitées ou vécues avec effort et les conséquences dans la vie. Elle tient aussi compte du contexte, des préférences et d’autres explications possibles. La docteure Rigal a repris plusieurs exemples avec Sacha avant de lui annoncer son diagnostic. Il peut maintenant lui demander ce que ce mot change pour lui."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder.\n\nLa peur est présente depuis plusieurs mois. Sacha décrit son effort pour continuer à parler lorsque d’autres clients s’approchent, et les rencontres auxquelles il renonce alors qu’il aurait envie d’y aller. Ce retentissement renseigne l’évaluation au même titre que ce qu’il fait effectivement devant les autres."
+          "heading": "Comment l’évaluation va-t-elle au-delà d’une scène ?",
+          "points": [
+            {
+              "heading": "Elle compare plusieurs situations",
+              "text": "Le professionnel cherche dans quels échanges la peur apparaît et ce qu’elle empêche ou rend plus coûteux.",
+              "examples": [
+                "Sacha parle du café et des explications qu’il a écourtées au magasin.",
+                "Une personne décrit à la fois un appel repoussé et une conversation qu’elle a poursuivie avec difficulté."
+              ]
+            },
+            {
+              "heading": "Elle tient compte de ce que la personne préfère",
+              "text": "Une relation à deux peut convenir pleinement ; l’entretien cherche aussi les moments où la peur restreint un choix voulu.",
+              "examples": [
+                "Sacha apprécie certaines conversations à deux et aimerait finir ses explications à la boutique.",
+                "Une personne préfère éviter les grands repas et demande une évaluation parce qu’elle renonce aussi à voir des amis qu’elle souhaite retrouver."
+              ]
+            },
+            {
+              "heading": "Elle examine l’évolution et les autres difficultés",
+              "text": "Le diagnostic s’appuie sur un ensemble d’informations que le professionnel met en contexte.",
+              "examples": [
+                "La docteure Rigal interroge Sacha sur l’ancienneté, son humeur et sa santé.",
+                "Un professionnel peut demander si la peur survient uniquement après une remarque hostile ou dans d’autres cadres aussi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préciser ce qu’on voudrait retrouver",
-          "text": "NICE recommande de définir les objectifs du soin avec l’adulte après le diagnostic et de lui expliquer les options. Sacha peut commencer par une différence qu’il connaît bien. Les repas de commerçants l’intéressent peu, même quand il s’imagine y être détendu. Il aimerait en revanche pouvoir parler à une table de graines ou montrer un geste dans la boutique. Ce sont deux idées qu’il peut apporter à la prochaine consultation. La docteure peut l’aider à préciser ce qu’il attend du suivi avant qu’il choisisse comment s’y engager.\n\nSacha garde la main sur ce qu’il raconte à Gaspard. Les deux collègues peuvent fixer un moment pour leur essai et prévoir comment se répartir le matériel sans que l’intitulé du diagnostic entre dans leur conversation. Si Sacha souhaite un jour lui en parler, il peut aussi lui dire à quoi il aimerait que cette confidence serve."
+          "heading": "3 techniques pour préparer et reprendre un entretien d’évaluation",
+          "points": [
+            {
+              "heading": "Décrire ce qu’on a fait ou laissé tomber",
+              "objective": "Donner au professionnel des situations concrètes à comparer.",
+              "exercise": [
+                "Choisissez un échange souhaité.",
+                "Notez ce que vous redoutiez et comment vous avez réagi.",
+                "Apportez un autre échange dont le déroulement était différent."
+              ],
+              "benefit": "Le bilan peut tenir compte des variations plutôt que d’une seule impression."
+            },
+            {
+              "heading": "Formuler ce que vous voulez préserver",
+              "objective": "Faire entendre vos préférences au moment où un soin est discuté.",
+              "exercise": [
+                "Dites quel type d’échange vous convient déjà.",
+                "Nommez une situation que vous voudriez retrouver.",
+                "Demandez comment le professionnel distingue ces deux aspects."
+              ],
+              "benefit": "Les buts éventuels du soin peuvent partir de votre vie plutôt que d’un idéal de sociabilité."
+            },
+            {
+              "heading": "Reprendre le diagnostic avec vos questions",
+              "objective": "Comprendre comment il a été établi et ce qui est proposé ensuite.",
+              "exercise": [
+                "Demandez quels éléments ont compté dans l’évaluation.",
+                "Reformulez ce que vous avez compris.",
+                "Notez une question à reprendre au rendez-vous suivant."
+              ],
+              "benefit": "Vous disposez de temps pour comprendre et décider de la suite du suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Deux choses à retenir",
@@ -142,7 +312,8 @@
         "next": "Sacha discute d’une TCC et négocie les premières conditions de l’atelier, sans annoncer de date publique."
       },
       "clinical_focus": "Évaluation du trouble d’anxiété sociale",
-      "clinical_intro": "La docteure Rigal revient sur le café, les explications écourtées au travail et les échanges que Sacha apprécie à deux. Pour poser un diagnostic de trouble d’anxiété sociale, elle examine la peur durable d’être mal jugé, l’évitement et l’effort lorsque Sacha reste. Ses préférences relationnelles font partie de l’entretien, avec les situations qu’il aimerait retrouver et celles où il se sent déjà libre de participer."
+      "clinical_intro": "La docteure Rigal revient sur le café, les explications écourtées au travail et les échanges que Sacha apprécie à deux. Pour poser un diagnostic de trouble d’anxiété sociale, elle examine la peur durable d’être mal jugé, l’évitement et l’effort lorsque Sacha reste. Ses préférences relationnelles font partie de l’entretien, avec les situations qu’il aimerait retrouver et celles où il se sent déjà libre de participer.",
+      "conclusion": "La docteure Rigal peut expliquer le diagnostic et laisser ouverte la discussion sur les soins. Sacha repart avec ses questions et un projet qu’il veut remettre sur la table avec Gaspard."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’un soin peut travailler",
-          "text": "Une thérapie comportementale et cognitive (TCC) adaptée à l’anxiété sociale peut aider à comprendre ce qui entretient la peur dans les situations qui comptent pour la personne. Le guide britannique NICE recommande de proposer d’abord aux adultes une forme individuelle spécifique au trouble, conduite par un professionnel formé. La personne peut poser des questions sur le déroulement, préciser ce qu’elle souhaite travailler et discuter d’autres options."
+          "heading": "Un soin adapté aux mécanismes de l’anxiété sociale",
+          "text": "Une thérapie comportementale et cognitive conçue pour l’anxiété sociale peut examiner ce qui se passe avant, pendant et après un échange. Chez l’adulte, les recommandations du NICE proposent notamment une prise en charge individuelle avec un professionnel formé. Les objectifs et les essais éventuels se discutent avec lui. Sacha aimerait pouvoir aller au bout d’une explication qu’il connaît."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans son rendez-vous, Sacha dit qu’il aimerait pouvoir finir une explication au lieu de céder la place dès qu’un regard s’ajoute.\n\nLa démonstration lui donne un exemple concret à raconter. Elle n’est pas la mesure de l’efficacité du soin. Au cabinet, il peut parler aussi de ce que cela lui coûte de rester au café. Si une expérience de soin lui paraît trop difficile ou manque de sens pour lui, il peut expliquer ce qui le gêne et la discuter avec la docteure."
+          "heading": "Comment une TCC pour l’anxiété sociale peut-elle se construire ?",
+          "points": [
+            {
+              "heading": "Une difficulté vécue devient un objectif concret",
+              "text": "Le soin peut partir de ce que la personne voudrait retrouver, plutôt que de viser une aisance générale.",
+              "examples": [
+                "Sacha veut terminer une explication au comptoir sans céder aussitôt la place.",
+                "Une personne aimerait entendre la réponse à sa question dans une réunion à laquelle elle souhaite participer."
+              ]
+            },
+            {
+              "heading": "On examine la suite des événements",
+              "text": "Une séance peut relier les prédictions, les efforts pour cacher la peur et les pensées qui reviennent après.",
+              "examples": [
+                "La docteure Rigal propose à Sacha de revenir sur ce qu’il anticipe et sur ce qu’il fait quand des gens s’approchent.",
+                "Un praticien peut reprendre avec une personne une pause au téléphone et le jugement qu’elle imagine ensuite."
+              ]
+            },
+            {
+              "heading": "Les essais se discutent et s’ajustent",
+              "text": "La personne peut demander le but d’un exercice, dire ce qui lui paraît trop difficile et discuter d’une autre option.",
+              "examples": [
+                "Sacha vérifie d’abord si le travail se déroulera en groupe et choisit un suivi individuel.",
+                "Une personne demande à son thérapeute d’expliquer la progression prévue avant de convenir d’un essai."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un format que chacun a envie de tenir",
-          "text": "La table, l’horaire et le rôle de chacun relèvent d’un autre accord, à la graineterie. Sacha voudrait montrer le passage de la motte au nouveau pot. Gaspard tient à expliquer où trouver les pots de récupération et comment les choisir. Leur projet est plus clair quand chacun a quelque chose à y faire. La taille du groupe tient à la place disponible et à la possibilité, pour les visiteurs, de voir ce qu’ils font.\n\nSacha peut demander qu’on vérifie le format avant de l’annoncer. Une proposition utile donne des détails que les collègues peuvent réellement promettre : qui tiendra la caisse, à quel moment commencer, combien de personnes peuvent rester sans bloquer le passage. Nora peut approuver cette organisation sans avoir à connaître l’entretien qui a eu lieu le matin."
+          "heading": "3 techniques pour participer aux décisions sur le soin",
+          "points": [
+            {
+              "heading": "Dire ce qu’on aimerait retrouver",
+              "objective": "Définir un objectif qui compte dans la vie ordinaire.",
+              "exercise": [
+                "Choisissez un échange que vous voudriez pouvoir mener.",
+                "Dites quelle partie vous est aujourd’hui difficile.",
+                "Demandez au professionnel comment ce point pourrait être travaillé."
+              ],
+              "benefit": "Le soin s’organise autour d’un objectif auquel vous pouvez revenir."
+            },
+            {
+              "heading": "Clarifier le cadre proposé",
+              "objective": "Comprendre les options avant de choisir un suivi.",
+              "exercise": [
+                "Demandez si les séances sont individuelles et à quoi elles servent.",
+                "Indiquez ce qui vous inquiète dans la proposition.",
+                "Revenez sur les options possibles avec le praticien avant de décider."
+              ],
+              "benefit": "Les questions pratiques trouvent une réponse et la décision peut être discutée."
+            },
+            {
+              "heading": "Donner un but de métier à une répétition",
+              "objective": "Préparer un projet collectif en tenant compte des disponibilités de chacun.",
+              "exercise": [
+                "Convenez de ce que vous voulez vérifier à l’essai, comme la place pour les questions.",
+                "Répartissez les rôles selon ce que chacun veut montrer.",
+                "Fixez un créneau à revoir avant d’annoncer l’atelier."
+              ],
+              "benefit": "L’équipe teste son organisation ; le soin suit de son côté les objectifs discutés au cabinet."
+            }
+          ]
         }
       ],
       "ending_title": "Six soucoupes à côté de la vitrine",
@@ -187,7 +414,8 @@
         "next": "La préparation du mardi révèle ce qui aide Sacha à expliquer et ce qu’il fait pour cacher sa peur."
       },
       "clinical_focus": "Thérapie cognitivo-comportementale de l’anxiété sociale",
-      "clinical_intro": "Sacha demande à sa docteure s’il devra parler en groupe. Elle lui présente un travail individuel où ils pourront regarder ce qu’il anticipe, ce qu’il fait pour cacher sa peur et ce qui lui revient après. Une thérapie cognitivo-comportementale adaptée à l’anxiété sociale peut explorer ces mécanismes. Sacha choisit un objectif qui a du sens pour lui, terminer une explication sans céder aussitôt la place."
+      "clinical_intro": "Sacha demande à sa docteure s’il devra parler en groupe. Elle lui présente un travail individuel où ils pourront regarder ce qu’il anticipe, ce qu’il fait pour cacher sa peur et ce qui lui revient après. Une thérapie cognitivo-comportementale adaptée à l’anxiété sociale peut explorer ces mécanismes. Sacha choisit un objectif qui a du sens pour lui, terminer une explication sans céder aussitôt la place.",
+      "conclusion": "Sacha choisit de commencer la TCC et propose six places à la graineterie. Le papier du cabinet retourne dans le sac ; le plan de table reste à la disposition de Nora."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "À quoi sert la préparation ?",
-          "text": "Dans l’anxiété sociale, une partie de l’attention peut rester fixée sur ce que les autres risquent de remarquer chez soi. Des moyens de se protéger du jugement peuvent prendre beaucoup de place : penser à tenir ses mains hors de vue, vouloir réciter chaque mot ou éviter un échange de regards par crainte d’avoir l’air maladroit. Le bilan professionnel peut explorer ce que ces gestes font pour la personne dans la situation, et le prix qu’elle paie quand ils occupent une part de son attention."
+          "heading": "Quand une préparation sert à se protéger du jugement",
+          "text": "Dans l’anxiété sociale, une personne peut préparer des gestes ou des phrases destinés à empêcher une mauvaise impression. Ces conduites peuvent la rassurer sur le moment et prendre de l’attention pendant l’échange. Leur rôle dépend de l’usage, pas de l’objet lui-même. Sur la fiche de Sacha, le dessin aide le public à comprendre et le verso sert surtout à éviter une hésitation visible."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une fiche peut aussi être utile pour transmettre une information. La racine qu’il a dessinée doit être visible depuis le bout de la table. Il lui sert d’appui quand le rideau fait du bruit. Le texte du verso a une autre fonction, pour lui : s’il suit tout dans l’ordre, il espère que personne ne verra son hésitation. Quand Gaspard lui parle, cet effort prend le dessus sur ce qu’il voulait lui montrer."
+          "heading": "Comment distinguer un support utile d’une conduite de protection ?",
+          "points": [
+            {
+              "heading": "La préparation vise ce qu’on veut cacher",
+              "text": "La conduite de protection cherche à empêcher les autres de remarquer ce qu’on redoute.",
+              "examples": [
+                "Sacha prépare un mot de secours et réfléchit à la manière de cacher un tremblement.",
+                "Quelqu’un serre son cahier contre lui pour que ses mains soient moins visibles pendant qu’il explique un dessin."
+              ]
+            },
+            {
+              "heading": "La surveillance mobilise de l’attention",
+              "text": "Suivre un plan mot à mot peut laisser moins de place à une question imprévue.",
+              "examples": [
+                "Au verso, Sacha a prévu ses pauses sans laisser de place aux questions.",
+                "Une personne écoute peu la réponse parce qu’elle vérifie si la prochaine phrase correspond à celle répétée la veille."
+              ]
+            },
+            {
+              "heading": "Un même support peut répondre à deux besoins",
+              "text": "Ce qui rend une tâche lisible pour les autres mérite d’être distingué de ce qui sert à prévenir un jugement redouté.",
+              "examples": [
+                "Gaspard peut mieux voir la racine grâce au dessin au recto.",
+                "Une fiche avec trois dates aide un groupe à suivre ; réciter chaque ligne en surveillant son ton peut avoir une autre fonction."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le dessin, discuter du reste",
-          "text": "NICE décrit des thérapies comportementales et cognitives qui aident la personne à examiner où va son attention et ce qu’elle fait pour se protéger du jugement. Sacha pourra apporter les deux faces de sa fiche en consultation. La docteure Rigal pourra lui demander ce qu’il craignait et ce qui s’est passé lorsque Gaspard a posé sa question. Le soin peut faire une place à des essais discutés avec elle, avec une intention claire. Retirer un appui à quelqu’un au dernier moment ne lui laisse ni ce choix ni le temps d’en comprendre l’intérêt.\n\nPour leur travail, Sacha et Gaspard peuvent décider que la fiche restera sur la table, visible de tous, et prévoir une pause pour les questions. Ils disposent ainsi d’une manière de transmettre qui accepte les interruptions. Sacha peut demander à Gaspard ce qu’il a compris du geste, plutôt que de lui demander s’il l’a trouvé convaincant."
+          "heading": "3 techniques pour examiner le rôle d’une préparation",
+          "points": [
+            {
+              "heading": "Décrire le geste et son intention",
+              "objective": "Comprendre à quoi sert ce qu’on prépare.",
+              "exercise": [
+                "Choisissez un geste, une phrase ou un objet.",
+                "Dites ce que vous espérez éviter ou rendre plus simple.",
+                "Comparez ce but à ce dont l’interlocuteur a réellement besoin."
+              ],
+              "benefit": "La discussion distingue des aides qui se ressemblent mais n’ont pas le même usage."
+            },
+            {
+              "heading": "Garder un support pour l’explication",
+              "objective": "Faciliter la compréhension du public pendant l’essai de travail.",
+              "exercise": [
+                "Identifiez le détail qu’on doit pouvoir voir.",
+                "Testez sa lisibilité depuis l’autre côté de la table.",
+                "Corrigez le dessin selon ce que l’observateur voit."
+              ],
+              "benefit": "Le support se juge sur une question de métier plutôt que sur l’impression donnée."
+            },
+            {
+              "heading": "Apporter l’exemple au cabinet",
+              "objective": "Examiner sans précipitation une conduite qui coûte de l’attention.",
+              "exercise": [
+                "Décrivez la situation et le jugement que vous redoutiez.",
+                "Racontez ce que vous surveilliez et ce qui vous a échappé.",
+                "Discutez avec le praticien de ce que vous aimeriez essayer dans le cadre du soin."
+              ],
+              "benefit": "L’exemple aide à comprendre la fonction de la préparation avant d’en modifier l’usage."
+            }
+          ]
         }
       ],
       "ending_title": "Le dessin tourné vers la table",
@@ -232,7 +516,8 @@
         "next": "Nora assiste à un essai convenu ; une réaction ambiguë reste dans la tête de Sacha après leur séparation."
       },
       "clinical_focus": "Comportements de sécurité et attention à soi",
-      "clinical_intro": "Sacha note chaque pause et prépare un mot de secours au dos de sa fiche. Dans l’anxiété sociale, certains comportements servent à se protéger d’un jugement redouté. Cette préparation peut le rassurer et prendre une part de son attention pendant l’échange. Le dessin au recto a pour lui une autre utilité, montrer la motte aux visiteurs. Comparer les deux aides précise ce qu’il pourra raconter au cabinet."
+      "clinical_intro": "Sacha note chaque pause et prépare un mot de secours au dos de sa fiche. Dans l’anxiété sociale, certains comportements servent à se protéger d’un jugement redouté. Cette préparation peut le rassurer et prendre une part de son attention pendant l’échange. Le dessin au recto a pour lui une autre utilité, montrer la motte aux visiteurs. Comparer les deux aides précise ce qu’il pourra raconter au cabinet.",
+      "conclusion": "Sacha épaissit le trait de la racine parce qu’il veut qu’elle se voie. Il garde aussi les phrases préparées pour pouvoir expliquer au cabinet le rôle différent qu’elles ont pris dans l’essai."
     },
     {
       "number": 6,
@@ -249,18 +534,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un souvenir peut se resserrer autour d’un détail",
-          "text": "Dans l’anxiété sociale, une situation peut continuer d’occuper l’esprit après qu’elle est terminée. La personne repasse des mots, des gestes ou un signe de réaction dont le sens lui paraît incertain. La recommandation NICE invite à explorer ce qui se passe après l’échange, et certaines thérapies comportementales et cognitives adaptées au trouble travaillent ces pensées quand elles deviennent problématiques."
+          "heading": "Quand un instant prend toute la place après coup",
+          "text": "Dans l’anxiété sociale, la rumination après un échange peut remettre sans cesse en avant un détail jugé embarrassant. La personne peut en venir à prendre une interprétation pour le souvenir de ce qui s’est passé. Sacha se rappelle avoir buté sur un mot et le sourire de Nora, dont il ignore le sens. Il peut vérifier un aspect de l’essai sans devoir trancher ce que Nora a pensé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Sacha se souvient du sourire de Nora et du mot qu’il a repris. Il rapproche les deux sans savoir ce qui a fait sourire Nora. Pendant ce temps, d’autres informations lui échappent : le dessin est visible de loin, mais la motte est trop basse ; Nora a proposé de changer la place de la table. L’inquiétude est réelle. La certitude qu’il croit avoir sur ce que Nora a pensé reste à distinguer de ce qu’il a entendu et observé."
+          "heading": "Comment la rumination remanie-t-elle le souvenir d’un échange ?",
+          "points": [
+            {
+              "heading": "Un détail revient plus que le reste",
+              "text": "La mémoire de la scène peut se rétrécir autour d’une hésitation.",
+              "examples": [
+                "Sacha revient au mot sur lequel il a buté, même s’il a terminé sa phrase.",
+                "Quelqu’un a répondu à plusieurs questions et repasse surtout celle où il a demandé qu’on répète."
+              ]
+            },
+            {
+              "heading": "Une réaction ambiguë devient un jugement supposé",
+              "text": "Un sourire ou un silence peut être interprété sans que son sens soit connu.",
+              "examples": [
+                "Nora sourit et se penche vers sa chaussure ; Sacha s’interroge sur ce qu’elle a voulu dire.",
+                "Après un appel, une personne relit un message bref comme un signe d’agacement sans autre indication."
+              ]
+            },
+            {
+              "heading": "Le souvenir oriente déjà la prochaine décision",
+              "text": "Une crainte reconstruite après l’échange peut pousser à abandonner un rôle qu’on voulait garder.",
+              "examples": [
+                "Sacha pense proposer que Gaspard prenne toute la parole.",
+                "Quelqu’un envisage de ne plus animer une réunion parce qu’il repasse une pause survenue la veille."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander un retour qui serve au travail",
-          "text": "Sacha et Gaspard avaient demandé à Nora de vérifier la démonstration. Ils peuvent reprendre cette demande avec une question précise : de quelle place voit-on la motte, et à quel moment faut-il rapprocher le plateau ? Un retour de cette sorte donne de quoi préparer l’atelier. Il reste possible que Nora ait trouvé une phrase difficile à entendre ; elle peut le dire et les aider à savoir quelle partie revoir. Sacha a le droit de faire une pause avant de décider de changer de rôle.\n\nAu cabinet, le sourire qu’il repasse est un exemple utile, même si Sacha n’apprend jamais ce qu’il signifiait. Il peut dire à la docteure ce que cette incertitude lui donne envie de faire. Ils pourront travailler sur la façon dont elle pèse sur ses décisions, sans attendre que Gaspard ou Nora puissent garantir l’avis de chaque personne dans la pièce."
+          "heading": "3 techniques pour reprendre une situation sans rejouer chaque seconde",
+          "points": [
+            {
+              "heading": "Séparer les faits et le sens supposé",
+              "objective": "Garder de la place pour ce qu’on ne sait pas.",
+              "exercise": [
+                "Écrivez le détail observable en une phrase.",
+                "Notez séparément l’interprétation qui revient.",
+                "Ajoutez un élément de la scène que cette interprétation laissait de côté."
+              ],
+              "benefit": "Vous gardez un souvenir plus complet sans devoir deviner les pensées de l’autre."
+            },
+            {
+              "heading": "Demander un retour qui aide le travail",
+              "objective": "Vérifier un point modifiable au lieu de chercher un verdict personnel.",
+              "exercise": [
+                "Choisissez une question concrète, comme l’emplacement de la fiche.",
+                "Demandez à un collègue de montrer ce qu’il voit depuis sa place.",
+                "Essayez un ajustement et arrêtez-vous à ce que vous avez vérifié."
+              ],
+              "benefit": "Le retour apporte une information utilisable pour l’atelier."
+            },
+            {
+              "heading": "Différer un changement de rôle",
+              "objective": "Éviter de trancher à partir du seul moment qui revient en boucle.",
+              "exercise": [
+                "Gardez le message en brouillon si la décision peut attendre.",
+                "Relisez l’objectif initial et les faits connus.",
+                "Parlez de la rumination au praticien si elle vous fait régulièrement renoncer."
+              ],
+              "benefit": "La décision peut se reprendre avec davantage d’informations sur ce que vous voulez faire."
+            }
+          ]
         }
       ],
       "ending_title": "Déplacer le plateau",
@@ -277,7 +618,8 @@
         "next": "Un autre cadre lui est proposé. Une remarque sur son accent impose de distinguer son refus de la peur présente ailleurs."
       },
       "clinical_focus": "Rumination après une interaction sociale",
-      "clinical_intro": "Après l’essai, Sacha revient mentalement au sourire de Nora et au mot sur lequel il a buté. Le sens du sourire lui échappe, mais il occupe peu à peu tout son souvenir de l’échange. Dans l’anxiété sociale, ce retour sur la scène peut entretenir la crainte d’être mal jugé. Demander un retour précis sur la démonstration lui apporte des informations qu’il peut vérifier."
+      "clinical_intro": "Après l’essai, Sacha revient mentalement au sourire de Nora et au mot sur lequel il a buté. Le sens du sourire lui échappe, mais il occupe peu à peu tout son souvenir de l’échange. Dans l’anxiété sociale, ce retour sur la scène peut entretenir la crainte d’être mal jugé. Demander un retour précis sur la démonstration lui apporte des informations qu’il peut vérifier.",
+      "conclusion": "Depuis la sixième place, la motte devient visible. Sacha ne sait toujours pas ce que voulait dire le sourire. Avec Gaspard, il peut pourtant garder les rôles prévus et fixer la date."
     },
     {
       "number": 7,
@@ -294,18 +636,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "L’appréhension peut répondre à ce qui s’est passé",
-          "text": "Une réaction de retrait s’interprète en tenant compte des conditions dans lesquelles elle survient. L’OMS rappelle que, pour évaluer une anxiété sociale, le professionnel tient compte des usages et des risques réels, par exemple quand une personne est confrontée à du harcèlement. Quelqu’un qui vit avec un trouble d’anxiété sociale peut aussi réagir à une remarque dévalorisante ou à une proposition où son origine supposée sert à l’écarter d’un rôle. Le diagnostic ne dit pas à lui seul pourquoi une personne refuse une situation donnée."
+          "heading": "Le contexte compte quand quelqu’un dévalorise la personne",
+          "text": "L’évaluation de l’anxiété sociale tient compte des conditions réelles d’un échange, notamment de l’hostilité ou du harcèlement. Un refus après une remarque dévalorisante ne doit pas être traité d’office comme un évitement anxieux. L’organisateur imite l’accent de Sacha et propose de lui retirer la parole. Sacha refuse ce cadre et maintient l’atelier qu’il a préparé à la graineterie."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’autre jour, Sacha imaginait le jugement de Nora à partir d’un sourire dont il ignorait la cause. Ici, l’organisateur a imité sa voix et dit devant lui pourquoi il voulait lui retirer la parole. Sacha peut raconter les deux scènes à la docteure Rigal. Elle peut l’écouter décrire ces circonstances différentes, sans traiter le retour sous cet auvent comme un objectif de soin."
+          "heading": "Comment distinguer une crainte de jugement d’une remarque hostile ?",
+          "points": [
+            {
+              "heading": "Les paroles peuvent être rapportées",
+              "text": "Une personne peut décrire des propos entendus sans avoir à établir seule leur qualification juridique.",
+              "examples": [
+                "L’organisateur imite l’accent de Sacha et dit qu’il prendra quelqu’un « du coin » pour parler.",
+                "Un employé entend une remarque sur son origine au moment où on lui retire la présentation prévue."
+              ]
+            },
+            {
+              "heading": "Le cadre professionnel peut être protégé",
+              "text": "L’équipe peut interrompre un échange et prendre le relais pour une démarche qui concerne le travail.",
+              "examples": [
+                "Nora demande à l’homme de ne pas parler ainsi de Sacha et arrête la discussion.",
+                "Une responsable prend en charge les échanges avec un prestataire après une remarque visant un collègue."
+              ]
+            },
+            {
+              "heading": "Le refus peut porter sur cette seule proposition",
+              "text": "Une limite posée dans un cadre hostile laisse ouvertes d’autres formes de participation.",
+              "examples": [
+                "Sacha refuse l’auvent et garde l’affiche au comptoir.",
+                "Une personne décline une intervention avec un organisateur et accepte de présenter le même projet dans son équipe."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répondre à la remarque dans le cadre où elle a lieu",
-          "text": "Nora peut prendre la suite des échanges avec l’organisateur pour la graineterie, après avoir entendu ce que Sacha souhaite. Elle peut préciser à son équipe que le projet reste à la boutique et que les rôles convenus restent les mêmes. Sacha peut choisir de raconter à Gaspard ce qui s’est passé et garder le reste pour lui. Il a le droit de demander du temps avant de décider s’il veut faire une démarche personnelle.\n\nSi une personne en France pense avoir subi une discrimination ou en avoir été témoin, le Défenseur des droits propose un service d’information et d’orientation. Demander conseil lui permet d’exposer les faits et de se renseigner sur ses possibilités. Dans la scène, l’action immédiate de Nora consiste à interrompre les propos et à régler la relation de travail avec l’organisateur. Sacha peut réfléchir séparément à la suite qu’il souhaite donner à la remarque."
+          "heading": "3 techniques pour poser une limite après une remarque hostile",
+          "points": [
+            {
+              "heading": "Interrompre l’échange et demander un relais",
+              "objective": "Pouvoir sortir d’une discussion qui ne convient plus.",
+              "exercise": [
+                "Dites que vous ne souhaitez pas poursuivre ou quittez l’échange si c’est plus sûr.",
+                "Choisissez une personne ou un service de confiance pour prendre la suite.",
+                "Précisez ce que vous souhaitez qu’on fasse maintenant."
+              ],
+              "benefit": "La personne n’a pas à continuer la négociation avec l’auteur des propos."
+            },
+            {
+              "heading": "Transmettre les faits au bon interlocuteur",
+              "objective": "Permettre une réponse sans ajouter un jugement sur le vécu de la personne.",
+              "exercise": [
+                "Notez si vous le souhaitez le lieu, les mots et les personnes présentes.",
+                "Convenez de ce qui peut être transmis et par qui.",
+                "Demandez, en France, l’orientation du Défenseur des droits si vous souhaitez être conseillé sur une discrimination possible."
+              ],
+              "benefit": "Les démarches peuvent partir de faits vérifiables et d’une aide adaptée."
+            },
+            {
+              "heading": "Garder la décision sur le projet",
+              "objective": "Distinguer le refus d’un cadre et la suite de l’activité elle-même.",
+              "exercise": [
+                "Nommez ce que vous refusez dans cette proposition.",
+                "Vérifiez avec votre équipe ce que vous voulez maintenir ailleurs.",
+                "Confirmez seulement les modalités sur lesquelles vous êtes d’accord."
+              ],
+              "benefit": "Vous pouvez poursuivre un projet dans les conditions que vous avez choisies."
+            }
+          ]
         }
       ],
       "ending_title": "Une affiche reste en place",
@@ -323,7 +721,8 @@
         "next": "Une situation sans remarque hostile réveille quand même sa crainte d’être observé, malgré l’essai avec Nora."
       },
       "clinical_focus": "Peur du jugement et hostilité réelle",
-      "clinical_intro": "Une remarque sur son accent fait changer le ton de la proposition sous l’auvent. Sacha refuse l’invitation et confie le relais à Nora. Dans l’évaluation de l’anxiété sociale, le contexte compte aussi, y compris les remarques hostiles et le risque réel d’être dévalorisé. La décision de Sacha lui permet de poser une limite à cette proposition et de poursuivre celle qui lui convient au magasin."
+      "clinical_intro": "Une remarque sur son accent fait changer le ton de la proposition sous l’auvent. Sacha refuse l’invitation et confie le relais à Nora. Dans l’évaluation de l’anxiété sociale, le contexte compte aussi, y compris les remarques hostiles et le risque réel d’être dévalorisé. La décision de Sacha lui permet de poser une limite à cette proposition et de poursuivre celle qui lui convient au magasin.",
+      "conclusion": "Nora prend le relais pour la boutique. Sacha choisit les faits qu’il souhaite voir rapportés, puis complète l’affiche de son atelier. Il peut refuser l’auvent et continuer à présenter les pots au magasin."
     },
     {
       "number": 8,
@@ -340,18 +739,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un essai qui se passe bien laisse d’autres situations ouvertes",
-          "text": "L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile."
+          "heading": "La même personne peut vivre deux échanges très différemment",
+          "text": "L’anxiété sociale peut varier selon le lieu, les interlocuteurs et le sentiment d’être observé. Une situation menée avec plus d’aisance ne prédit pas la suivante. Sacha discutait avec plaisir avec Jeanne ; l’arrivée d’Omar change le poids qu’il donne à sa propre façon de parler. Au suivi, cette différence peut être examinée sans effacer ce qu’il a déjà réussi ailleurs."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Sacha, l’entrée au café est différente cette fois : il parle avec Jeanne et échange ses graines. C’est quand Omar attend une réponse que Sacha commence à se demander quelle impression il donne. Le départ arrive au milieu d’un moment dont il profitait jusque-là.\n\nLes conditions étaient différentes au café et à la graineterie. Avec Nora, il savait qui serait là et ce qu’il voulait montrer. Au café, il a dû changer de conversation d’un coup. Raconter ces différences au cabinet peut aider à comprendre le retour de la peur et à choisir ce qui mérite d’être travaillé, sans prendre cette matinée comme un verdict sur son projet."
+          "heading": "Comment le contexte change-t-il l’effort pendant un échange ?",
+          "points": [
+            {
+              "heading": "Un nouvel interlocuteur change la scène",
+              "text": "Le sujet peut rester intéressant et la personne se mettre à surveiller davantage l’impression qu’elle donne.",
+              "examples": [
+                "Sacha veut répondre sur les courges lorsque Omar se met à attendre sa réponse.",
+                "Une personne explique volontiers un outil à une collègue et perd sa phrase quand une nouvelle personne s’arrête pour écouter."
+              ]
+            },
+            {
+              "heading": "Le sentiment d’être observé détourne de la question",
+              "text": "La bascule peut se situer à un moment précis plutôt que concerner toute la rencontre.",
+              "examples": [
+                "Sacha avait une réponse et ne retrouve plus le fil de ce qu’Omar vient de demander.",
+                "Un participant écoute avec intérêt jusqu’au moment où il se rend compte que la table attend qu’il parle."
+              ]
+            },
+            {
+              "heading": "Une expérience ailleurs reste valable",
+              "text": "Avoir plus de difficulté dans un lieu ne retire pas l’information utile d’un autre essai.",
+              "examples": [
+                "Sacha avait pu reprendre une phrase devant Nora et quitte cette fois le café.",
+                "Une personne s’exprime dans un groupe connu et se retire d’un échange imprévu dans un lieu bruyant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Que veut-il reprendre de cet échange ?",
-          "text": "NICE recommande que les objectifs et les effets du soin soient revus avec la personne. Sacha pourra dire à la docteure Rigal ce qu’il a aimé au café, puis à quel moment il a cessé d’écouter la question d’Omar pour compter les secondes. Il peut aussi lui parler de l’envie de renoncer à sa partie de l’atelier qui lui vient après. Le soin peut s’intéresser au poids de cette pensée même si la décision au magasin se prend séparément avec ses collègues.\n\nSacha n’a pas à reconstituer le même groupe pour se donner une deuxième chance. Il tient toujours à poser à Jeanne sa question sur les courges. Il peut reprendre cette conversation un jour où ils se croisent et choisir ce qu’il souhaite faire pour la démonstration en considérant les conditions déjà convenues. Ce sont deux envies qui méritent d’exister chacune à leur rythme."
+          "heading": "3 techniques pour comprendre ce qui change d’un contexte à l’autre",
+          "points": [
+            {
+              "heading": "Mettre deux scènes en regard",
+              "objective": "Repérer les différences qui comptent pour vous.",
+              "exercise": [
+                "Choisissez deux échanges autour d’une tâche ou d’un sujet proche.",
+                "Relevez qui était présent et ce qui était prévu ou imprévu.",
+                "Dites à quel moment l’effort a changé dans chacun."
+              ],
+              "benefit": "La comparaison peut rendre la variation plus compréhensible qu’un jugement général sur votre capacité à parler."
+            },
+            {
+              "heading": "Préserver ce que vous vouliez dire",
+              "objective": "Pouvoir reprendre une question interrompue si l’occasion revient.",
+              "exercise": [
+                "Notez le sujet ou le dernier mot dont vous vous souvenez.",
+                "Demandez, si vous le souhaitez, quand l’autre personne sera disponible.",
+                "Acceptez que la reprise attende un autre cadre."
+              ],
+              "benefit": "L’échange garde un fil même si la scène a dû s’arrêter."
+            },
+            {
+              "heading": "Présenter le contraste en suivi",
+              "objective": "Travailler sur une difficulté précise au lieu d’effacer l’essai précédent.",
+              "exercise": [
+                "Apportez un exemple qui a été possible et un autre qui a coûté davantage.",
+                "Racontez ce que vous auriez voulu continuer à faire.",
+                "Discutez avec le praticien du contexte qui mérite d’être exploré."
+              ],
+              "benefit": "Le suivi peut tenir compte des conditions qui font varier l’anxiété."
+            }
+          ]
         }
       ],
       "ending_title": "Le carnet revient avec Jeanne",
@@ -368,7 +823,8 @@
         "next": "Avant l’atelier, le cabinet et l’équipe prennent chacun une décision différente sur la suite."
       },
       "clinical_focus": "Anxiété sociale selon la situation",
-      "clinical_intro": "Sacha parle de graines avec Jeanne. Lorsqu’Omar attend sa réponse, Sacha se demande quelle impression il donne et perd le fil de la question. Dans l’anxiété sociale, l’arrivée d’un nouveau regard peut rendre un échange familier plus difficile. Décrire le moment exact où son attention a basculé lui permet de comprendre à la fois ce qu’il appréciait et ce qui l’a poussé à se retirer."
+      "clinical_intro": "Sacha parle de graines avec Jeanne. Lorsqu’Omar attend sa réponse, Sacha se demande quelle impression il donne et perd le fil de la question. Dans l’anxiété sociale, l’arrivée d’un nouveau regard peut rendre un échange familier plus difficile. Décrire le moment exact où son attention a basculé lui permet de comprendre à la fois ce qu’il appréciait et ce qui l’a poussé à se retirer.",
+      "conclusion": "Le carnet revient avec Sacha, même si la conversation reste en plan. En notant la question d’Omar, il garde à la fois le sujet qui l’intéressait et le moment où le contexte a changé pour lui."
     },
     {
       "number": 9,
@@ -385,18 +841,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qui se travaille au cabinet",
-          "text": "Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer. Dans l’échange avec la docteure Rigal, Sacha a pu comparer ce qu’il croyait faire entendre à ce qu’elle avait entendu."
+          "heading": "D’où l’on écoute quand on se sent observé",
+          "text": "Dans l’anxiété sociale, l’attention peut se tourner vers sa propre voix, ses gestes ou l’image qu’on suppose donner, au point de moins bien suivre l’échange. Certaines TCC adaptées travaillent cette répartition de l’attention avec le praticien. Sacha veut retrouver le moment où il écoutait vraiment la question d’Omar. C’est ce point qu’il propose de reprendre au cabinet."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans leur suivi, ils pourront discuter ensemble du café, de la question d’Omar et de ce que Sacha souhaite encore travailler. L’étape suivante dépend de cette discussion.\n\nLe samedi a été choisi pour des raisons qui tiennent à la boutique. Le rendez-vous de soin se poursuit ensuite quelle que soit la façon dont l’atelier se passe. Le nombre de personnes qui viendront et l’état de Sacha ce matin-là ne constituent pas une évaluation clinique. Il pourra raconter une difficulté, une bonne surprise ou simplement l’envie de changer quelque chose à la démonstration."
+          "heading": "Comment l’attention peut-elle quitter l’échange puis y revenir ?",
+          "points": [
+            {
+              "heading": "La surveillance occupe la place de l’écoute",
+              "text": "Vérifier la façon dont on parle peut rendre plus difficile de suivre la phrase de l’autre.",
+              "examples": [
+                "Sacha se demande s’il a répondu trop lentement et manque le renseignement sur la fenêtre d’Omar.",
+                "Une personne se concentre sur le volume de sa voix et ne retient plus la fin d’une consigne."
+              ]
+            },
+            {
+              "heading": "Le contenu de l’échange donne un point de retour",
+              "text": "Une question réelle ou un objet montré peut aider à retrouver ce qui se passe autour de soi.",
+              "examples": [
+                "Sacha repère qu’il voulait savoir quel côté de la cour recevait le soleil.",
+                "À une table de travail, quelqu’un reprend l’échange en demandant quel dessin le collègue lui montre."
+              ]
+            },
+            {
+              "heading": "Un relais prévisible évite une nouvelle interprétation",
+              "text": "Une intervention inattendue peut elle-même être lue comme un jugement ; un signe convenu garde un choix à la personne.",
+              "examples": [
+                "Sacha demande à Gaspard d’attendre qu’il lui tende le plateau.",
+                "Une collègue attend qu’on lui passe la feuille convenue avant de reprendre une présentation."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Organiser un passage de relais ordinaire",
-          "text": "Dans le cadre de l’atelier, prévoir qui fait quoi si le déroulé change est une décision de travail. Gaspard et Sacha ont des parties différentes, et le plateau doit de toute façon passer d’une personne à l’autre. Ils peuvent distinguer une pause pendant laquelle Sacha veut garder la parole et le moment où il souhaite que son collègue la reprenne. Gaspard peut vérifier qu’il a compris ce geste et dire s’il saura tenir le relais avec les autres tâches qu’il a ce jour-là.\n\nLa question du film relève du même accord de préparation : demander aux visiteurs de garder leur téléphone rangé laisse chacun participer sans se retrouver enregistré. La fiche permet de transmettre ce qui intéressait l’habitué. Nora peut annoncer cette règle de la boutique sans raconter la consultation ou justifier le choix au nom de Sacha."
+          "heading": "3 techniques pour mieux repérer où va l’attention",
+          "points": [
+            {
+              "heading": "Revenir à une question précise",
+              "objective": "Identifier ce que la surveillance de soi a fait perdre.",
+              "exercise": [
+                "Racontez au praticien la question que vous vouliez entendre.",
+                "Situez l’instant où votre attention est passée à votre propre façon de parler.",
+                "Dites ce qui est resté en suspens."
+              ],
+              "benefit": "Le point à travailler devient plus précis qu’une impression générale de ne pas savoir parler."
+            },
+            {
+              "heading": "Discuter d’un essai au cabinet",
+              "objective": "Explorer la différence entre se surveiller et porter attention à l’échange.",
+              "exercise": [
+                "Demandez au praticien comment il propose de travailler ce point.",
+                "Convenez du cadre et de ce qui peut être ajusté.",
+                "Comparez ensemble ce que vous avez remarqué dans l’essai."
+              ],
+              "benefit": "Un exercice guidé peut éclairer ce qui aide à entendre ou à répondre."
+            },
+            {
+              "heading": "Convenir d’un signe de relais",
+              "objective": "Donner un cadre clair au partage des rôles à la boutique.",
+              "exercise": [
+                "Choisissez un geste identifiable par les deux personnes.",
+                "Dites ce que le collègue prendra en charge lorsqu’il le verra.",
+                "Répétez le passage du matériel sans public si vous voulez vérifier qu’il est clair."
+              ],
+              "benefit": "Le relais peut être déclenché au moment choisi sans interpréter chaque pause."
+            }
+          ]
         }
       ],
       "ending_title": "Un signal et six fiches",
@@ -413,7 +925,8 @@
         "next": "Le samedi, Sacha choisit une prise de parole utile quand le déroulé prévu change."
       },
       "clinical_focus": "Déplacement du foyer de l’attention",
-      "clinical_intro": "Au cabinet, Sacha revient sur l’instant où il a cessé d’écouter Omar pour se demander s’il parlait trop lentement. Certaines thérapies de l’anxiété sociale explorent cet effort de surveillance et proposent des essais pour réorienter l’attention vers l’échange. Sacha a envie d’entendre la suite d’une question, et il peut préciser à Gaspard à quel moment un relais lui serait utile."
+      "clinical_intro": "Au cabinet, Sacha revient sur l’instant où il a cessé d’écouter Omar pour se demander s’il parlait trop lentement. Certaines thérapies de l’anxiété sociale explorent cet effort de surveillance et proposent des essais pour réorienter l’attention vers l’échange. Sacha a envie d’entendre la suite d’une question, et il peut préciser à Gaspard à quel moment un relais lui serait utile.",
+      "conclusion": "Sacha garde le dessin et décide à quel geste Gaspard prendra les pots. La question de l’attention reste un travail de suivi ; samedi, le signal dira seulement qui poursuit la démonstration."
     },
     {
       "number": 10,
@@ -430,18 +943,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que Sacha décide au milieu de la peur",
-          "text": "Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres."
+          "heading": "Agir alors que la peur est encore là",
+          "text": "Une personne peut choisir de participer à un échange pendant que l’anxiété sociale reste présente. L’expérience ne demande pas une disparition préalable de la peur et ne dit pas à elle seule comment se passeront les suivantes. Sacha voit sa motte s’effriter et redoute d’être jugé. Il entend aussi une question qui lui donne envie de montrer les racines."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans la scène, Sacha a un instant où il se demande comment son silence est perçu. Il entend aussi une question à laquelle il aimerait répondre. Sa prise de parole est courte et sert à montrer les racines. La peur et l’envie d’expliquer ont toutes deux leur place dans ce moment.\n\nLe contexte lui laisse des possibilités : Gaspard n’interprète pas le blanc comme une demande de relais, et les visiteurs savent qu’ils peuvent consulter une fiche. Sacha peut diriger le regard vers la motte et répondre à madame Baudry. Un autre jour, le même choix pourrait lui demander plus d’effort, ou il pourrait choisir de passer la main. La forme que prend sa participation aujourd’hui lui appartient."
+          "heading": "Comment une action choisie devient-elle possible malgré la peur ?",
+          "points": [
+            {
+              "heading": "Un imprévu fait monter la crainte",
+              "text": "L’anxiété peut surgir au milieu d’une tâche préparée et déplacer brièvement l’attention vers l’impression donnée.",
+              "examples": [
+                "La motte s’effrite alors que les visiteurs regardent la démonstration.",
+                "Quelqu’un perd le passage qu’il voulait lire et imagine que le groupe le trouve mal préparé."
+              ]
+            },
+            {
+              "heading": "Une question donne un but immédiat",
+              "text": "Répondre à une demande réelle peut avoir de l’intérêt même lorsque la peur est encore vive.",
+              "examples": [
+                "Sacha tourne le plateau pour montrer les racines qu’un visiteur cherche à voir.",
+                "Une personne reprend une carte pour situer l’endroit demandé pendant qu’elle sent encore sa voix trembler."
+              ]
+            },
+            {
+              "heading": "Le relais garde la participation possible",
+              "text": "Passer une étape à un collègue peut faire partie de la décision de participer.",
+              "examples": [
+                "Sacha donne le plateau à Gaspard après avoir calé la motte.",
+                "Un animateur choisit de montrer le premier geste et laisse le collègue répondre aux dernières questions."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une démonstration qui s’ajuste en cours de route",
-          "text": "Le guide NICE décrit un travail possible au cabinet sur l’attention portée à soi et sur ce que la personne remarque autour d’elle. À la graineterie, la question de madame Baudry a une utilité ordinaire : elle montre ce dont les visiteurs sont venus parler. Sacha pourra raconter au cabinet comment il l’a entendue malgré son inquiétude.\n\nLeur rôle peut rester simple : faire circuler le dessin, attendre une réponse ou demander de mieux voir. Gaspard a ses pots à présenter et un signal convenu pour les prendre au bon moment. Sacha peut lui tendre le plateau quand il a dit ce qu’il souhaitait. Les quinze minutes prévues laissent ensuite place aux achats, au rangement et à des conversations plus courtes avec les gens qui en ont envie."
+          "heading": "3 techniques pour garder une marge de décision dans une activité choisie",
+          "points": [
+            {
+              "heading": "Prévoir une contribution précise",
+              "objective": "Savoir ce que vous voulez apporter avant d’arriver.",
+              "exercise": [
+                "Nommez le geste ou l’explication qui vous intéresse.",
+                "Fixez avec l’équipe le matériel et le temps dont vous aurez besoin.",
+                "Indiquez quelle partie peut être confiée à quelqu’un d’autre."
+              ],
+              "benefit": "Le projet reste lié à votre intention et laisse une place à l’ajustement."
+            },
+            {
+              "heading": "Repartir de la demande présente",
+              "objective": "Trouver une action utile quand le plan change.",
+              "exercise": [
+                "Repérez la question posée ou le détail que le groupe cherche.",
+                "Montrez-le ou répondez en une phrase si vous le souhaitez.",
+                "Passez ensuite à l’étape suivante ou au relais prévu."
+              ],
+              "benefit": "Une décision concrète peut coexister avec la peur qui reste."
+            },
+            {
+              "heading": "Reprendre l’expérience à tête reposée",
+              "objective": "Savoir ce qu’elle a permis et demandé.",
+              "exercise": [
+                "Décrivez le moment où le déroulé a changé.",
+                "Notez ce que vous avez choisi de faire et ce que cela vous a coûté.",
+                "Rapportez l’expérience au suivi si elle éclaire un objectif de soin."
+              ],
+              "benefit": "Une réussite de travail apporte des informations sans devenir un test de guérison."
+            }
+          ]
         }
       ],
       "ending_title": "Le plateau passe à gauche",
@@ -458,7 +1027,8 @@
         "next": "La démonstration a eu lieu ; le retour au travail et au cabinet permet de parler aussi de l’effort qui n’était pas visible."
       },
       "clinical_focus": "Action choisie malgré l’anxiété",
-      "clinical_intro": "La motte s’effrite et Sacha imagine que les visiteurs remarquent son hésitation. Il entend aussi une question sur les racines et décide d’y répondre. L’anxiété sociale peut rester présente au moment où la personne choisit de participer. En regardant la motte et en parlant du geste qu’il connaît, Sacha donne une place à son envie d’expliquer dans une situation qui lui demande encore un effort."
+      "clinical_intro": "La motte s’effrite et Sacha imagine que les visiteurs remarquent son hésitation. Il entend aussi une question sur les racines et décide d’y répondre. L’anxiété sociale peut rester présente au moment où la personne choisit de participer. En regardant la motte et en parlant du geste qu’il connaît, Sacha donne une place à son envie d’expliquer dans une situation qui lui demande encore un effort.",
+      "conclusion": "La terre reste sur la table, et les visiteurs ont vu les racines. Sacha a fait la part qu’il voulait et a passé le plateau à Gaspard. Il pourra encore choisir ce qui lui convient à la prochaine occasion."
     },
     {
       "number": 11,
@@ -475,18 +1045,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une tâche peut être faite au prix d’un effort invisible",
-          "text": "Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement."
+          "heading": "Le résultat ne montre pas tout l’effort",
+          "text": "Dans le trouble d’anxiété sociale, une personne peut maintenir une participation visible au prix d’un effort important. Ce coût peut se remarquer après, dans le besoin de récupérer ou dans une autre activité reportée. Sacha est satisfait d’avoir répondu sur les racines et repousse pourtant l’appel de son frère le lendemain. Les deux moments méritent d’être décrits."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le fait que Sacha ait transmis une information utile aux visiteurs et la fatigue qu’il décrit après l’atelier peuvent être vrais en même temps. Le temps d’attente avant d’appeler son frère lui donne une façon précise de parler de ce que l’atelier lui a demandé. La fatigue d’une journée ne s’explique toutefois pas à elle seule par un diagnostic.\n\nIl y a eu aussi un échange qui lui a plu avec madame Baudry, une fois les autres visiteurs partis. En parler au cabinet donne une image plus complète de la matinée. Sacha peut garder de cet atelier le plaisir d’une conversation et demander de revoir la préparation avant d’en prendre un autre en charge."
+          "heading": "Comment le coût de la participation se voit-il après coup ?",
+          "points": [
+            {
+              "heading": "Le public connaît surtout le résultat",
+              "text": "Les personnes présentes ne voient pas toujours la surveillance ni les décisions prises pour rester dans l’échange.",
+              "examples": [
+                "La fille d’un visiteur peut utiliser la fiche ; cela ne dit pas ce que montrer le plant a demandé à Sacha.",
+                "Une équipe voit une présentation se terminer et ignore combien d’énergie a pris le fait de répondre aux questions."
+              ]
+            },
+            {
+              "heading": "Un autre engagement devient plus coûteux",
+              "text": "L’effort peut peser sur une activité que la personne souhaitait pourtant faire.",
+              "examples": [
+                "Sacha tarde à rappeler son frère et préfère une courte marche au repas prévu.",
+                "Quelqu’un rentre d’une réunion et reporte un échange qu’il avait envie d’avoir avec un ami."
+              ]
+            },
+            {
+              "heading": "On peut vouloir garder un résultat sans répéter l’effort",
+              "text": "Il est possible de prolonger un projet en modifiant la forme de la contribution.",
+              "examples": [
+                "Sacha choisit de laisser le dessin sur le comptoir et attend avant de proposer un autre samedi.",
+                "Une personne laisse un guide à disposition tout en prenant le temps de décider si elle veut animer une nouvelle séance."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux retours avec des questions différentes",
-          "text": "NICE recommande de faire participer la personne à l’examen des effets du soin. Sacha peut dire à la docteure Rigal comment il a vécu le samedi, de la veille au lendemain, et ce qu’il voudrait encore pouvoir faire. Elle peut l’aider à reprendre les difficultés qui comptent pour lui, même quand le travail qu’il voulait faire a été accompli. La conversation avec son frère appartient aussi à la vie qu’il cherche à préserver.\n\nÀ la graineterie, Nora et Gaspard peuvent reprendre des questions propres à leur activité. Qu’est-ce que les visiteurs ont trouvé utile ? Peuvent-ils laisser des fiches au comptoir, et qui en remettra quand il n’y en aura plus ? Une deuxième date pourra être discutée si chacun en a envie et si le planning le permet. Sacha peut préférer contribuer autrement pour le moment."
+          "heading": "3 techniques pour tenir compte d’un effort qui ne se voit pas",
+          "points": [
+            {
+              "heading": "Décrire l’avant, le pendant et l’après",
+              "objective": "Donner une image plus complète d’une activité accomplie.",
+              "exercise": [
+                "Racontez ce que les autres ont vu.",
+                "Précisez ce que vous surveilliez ou ce qui vous a demandé du temps.",
+                "Décrivez ce que vous avez pu faire le lendemain."
+              ],
+              "benefit": "Le suivi peut tenir compte du coût et du résultat à la fois."
+            },
+            {
+              "heading": "Reporter une décision répétée",
+              "objective": "Évaluer un nouvel engagement quand l’effort du premier est mieux connu.",
+              "exercise": [
+                "Dites si vous souhaitez prendre le temps avant de fixer une date.",
+                "Proposez une contribution possible dans l’intervalle.",
+                "Convenez du moment où l’équipe reparlera d’une nouvelle séance."
+              ],
+              "benefit": "Le projet continue sans présumer d’une disponibilité immédiate."
+            },
+            {
+              "heading": "Préserver une relation dans un cadre choisi",
+              "objective": "Retrouver ce qui comptait dans un autre engagement.",
+              "exercise": [
+                "Demandez-vous si vous voulez voir la personne, changer le cadre ou reporter.",
+                "Proposez un moment compatible avec l’énergie dont vous disposez.",
+                "Parlez au praticien des répercussions qui se répètent sur vos relations."
+              ],
+              "benefit": "Le cadre peut s’adapter, et le coût dans la durée devient visible au suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Le chevalet reste au comptoir",
@@ -503,7 +1129,8 @@
         "next": "Jeanne revient chercher de la ficelle et Sacha reprend la conversation restée en suspens au café."
       },
       "clinical_focus": "Retentissement malgré une participation visible",
-      "clinical_intro": "L’atelier s’est bien passé et Sacha a du mal à trouver l’énergie d’appeler son frère le dimanche. Dans le trouble d’anxiété sociale, la participation visible peut demander un effort important qui se remarque après coup. Le résultat de l’atelier et la fatigue éclairent deux aspects de la même expérience. Sacha peut aussi décrire les moments où surveiller ses mots lui coûte dans d’autres échanges."
+      "clinical_intro": "L’atelier s’est bien passé et Sacha a du mal à trouver l’énergie d’appeler son frère le dimanche. Dans le trouble d’anxiété sociale, la participation visible peut demander un effort important qui se remarque après coup. Le résultat de l’atelier et la fatigue éclairent deux aspects de la même expérience. Sacha peut aussi décrire les moments où surveiller ses mots lui coûte dans d’autres échanges.",
+      "conclusion": "Le chevalet peut servir un autre matin sans que Sacha fixe une nouvelle démonstration. Au cabinet, il parle de son dimanche ; à son frère, il propose un moment à deux qu’il a envie de partager."
     },
     {
       "number": 12,
@@ -520,18 +1147,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une possibilité retrouvée peut prendre plusieurs formes",
-          "text": "Vivre avec de l’anxiété sociale laisse une place aux préférences et aux décisions qui n’ont pas besoin d’être expliquées par la santé. Sacha a pu parler devant les visiteurs du magasin, avec Gaspard, de quelque chose qu’il souhaitait montrer. Il peut maintenant préférer dessiner une feuille à deux. Son choix a un contenu : relier les dates de semis à l’orientation des rues, pour que les gens du café puissent comparer leurs expériences. Reprendre de la liberté dans sa participation peut compter autant, pour lui, que prendre la parole dans un autre groupe.\n\nIl garde aussi des difficultés qu’il veut continuer à travailler."
+          "heading": "Choisir comment prendre part",
+          "text": "Le suivi de l’anxiété sociale peut aider une personne à retrouver des choix dans les situations que la peur restreint. Elle peut aussi continuer à préférer certains cadres, interlocuteurs ou rôles. Sacha a aimé expliquer le rempotage au magasin et souhaite préparer la carte des graines à deux. Il peut préciser ce qui l’intéresse cette fois et ce qu’il laisse à quelqu’un d’autre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand une cliente entre, Sacha perd une partie de sa question et attend avant de la reprendre. Au cabinet, il peut raconter comment il reprend le fil aujourd’hui et comment les choses se sont passées quand il s’est retrouvé à la table du café."
+          "heading": "Comment reconnaître une participation qui correspond au choix de la personne ?",
+          "points": [
+            {
+              "heading": "Un sujet retrouve un fil dans un nouveau lieu",
+              "text": "La personne peut reprendre un échange qui avait été interrompu dans un autre contexte.",
+              "examples": [
+                "Jeanne vient chercher de la ficelle et Sacha peut revenir à leur discussion sur les courges.",
+                "Une personne reprend à deux la question qu’elle n’avait pas pu finir autour d’une table nombreuse."
+              ]
+            },
+            {
+              "heading": "Le projet admet plusieurs contributions",
+              "text": "Préparer un document, présenter le projet ou accueillir les participants sont des choix distincts.",
+              "examples": [
+                "Sacha veut dessiner les rues et laisser la présentation collective à quelqu’un d’autre.",
+                "Une personne prépare les photos d’une exposition et demande qu’un collègue ouvre la rencontre."
+              ]
+            },
+            {
+              "heading": "La préférence et la peur se décrivent dans le temps",
+              "text": "Une décision peut associer envie, limites et anxiété encore présente ; le suivi peut distinguer ces dimensions sur plusieurs exemples.",
+              "examples": [
+                "Sacha propose jeudi à l’ouverture, un moment et un format qu’il a choisis.",
+                "Quelqu’un aime expliquer en duo et parle encore au praticien des occasions où il ne réussit pas à poser une question souhaitée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une façon de reparler des difficultés",
-          "text": "NICE décrit un travail de préparation à d’éventuelles difficultés futures dans les thérapies adaptées à l’anxiété sociale. Avec la docteure Rigal, Sacha peut revoir les situations où il commence à renoncer à des activités qu’il voudrait garder, et convenir de la façon dont il pourrait en parler si elles prennent de nouveau beaucoup de place. Il peut garder dans son carnet un exemple qui l’aide à expliquer ce qui se passe. Ce repère est pour lui et pour le suivi s’il le souhaite.\n\nAvec Jeanne, il suffit de préciser une envie et une disponibilité. Elle peut proposer un jeudi où le café est calme ; Sacha peut dire ce qu’il compte dessiner et la laisser choisir le format avec lui. Ils peuvent prendre plaisir à préparer l’échange sans avoir à décider qui parlera devant tout le monde."
+          "heading": "3 techniques pour choisir sa contribution sans la faire mesurer par le regard des autres",
+          "points": [
+            {
+              "heading": "Décrire l’activité qui vous attire",
+              "objective": "Partir de votre intérêt dans un projet collectif.",
+              "exercise": [
+                "Nommez la partie qui vous donne envie de participer.",
+                "Demandez ce que les autres ont déjà préparé.",
+                "Proposez une étape concrète que vous aimeriez prendre en charge."
+              ],
+              "benefit": "Le projet commun peut s’organiser autour de contributions différentes."
+            },
+            {
+              "heading": "Refuser une partie précise",
+              "objective": "Rendre une limite lisible sans renoncer au reste.",
+              "exercise": [
+                "Dites clairement quelle tâche vous ne prenez pas cette fois.",
+                "Confirmez ce que vous proposez de faire.",
+                "Laissez l’équipe organiser l’autre rôle avec une personne disponible."
+              ],
+              "benefit": "Les attentes deviennent claires pour tout le monde et votre accord reste limité à ce que vous avez choisi."
+            },
+            {
+              "heading": "Revenir aux choix retrouvés en suivi",
+              "objective": "Examiner ce qui s’ouvre et ce qui reste difficile.",
+              "exercise": [
+                "Décrivez une situation où vous avez pu choisir un rôle.",
+                "Donnez un exemple où la peur continue à réduire votre liberté.",
+                "Ajustez avec le praticien l’objectif qui compte maintenant."
+              ],
+              "benefit": "Le suivi garde sa place sans confondre préférence personnelle et obstacle à travailler."
+            }
+          ]
         }
       ],
       "ending_title": "Deux places le jeudi",
@@ -548,7 +1231,8 @@
         "next": "Le rempotage a eu lieu ; la fiche reste en usage, le suivi se poursuit et Sacha a un engagement qu’il a choisi avec Jeanne."
       },
       "clinical_focus": "Participation choisie et anxiété sociale",
-      "clinical_intro": "Jeanne revient au magasin et Sacha reprend leur échange sur les courges. Il lui propose de préparer la carte à deux et lui laisse le choix d’une autre personne pour la présenter au groupe. Le suivi de l’anxiété sociale peut regarder les échanges que Sacha retrouve et les peurs qui persistent. Il garde aussi des préférences qu’il peut exercer lorsqu’il décide de sa place."
+      "clinical_intro": "Jeanne revient au magasin et Sacha reprend leur échange sur les courges. Il lui propose de préparer la carte à deux et lui laisse le choix d’une autre personne pour la présenter au groupe. Le suivi de l’anxiété sociale peut regarder les échanges que Sacha retrouve et les peurs qui persistent. Il garde aussi des préférences qu’il peut exercer lorsqu’il décide de sa place.",
+      "conclusion": "Le croquis retourne au café avec une date et une place pour deux. La fiche de rempotage reste au comptoir. Sacha a choisi ces deux façons de transmettre et pourra décider autrement quand une autre question se présentera."
     }
   ]
 }

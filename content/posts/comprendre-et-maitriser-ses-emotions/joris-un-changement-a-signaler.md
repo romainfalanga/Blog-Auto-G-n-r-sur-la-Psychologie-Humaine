@@ -32,16 +32,81 @@ Elle reprend avec lui ce qui ressemble à son vécu habituel et ce qui lui sembl
 
 ## Tenir compte de plusieurs explications possibles
 
-Des manifestations de dépersonnalisation ou de déréalisation peuvent apparaître dans plusieurs situations cliniques. Des problèmes médicaux et les effets de substances ou de certains traitements peuvent également entrer dans l’évaluation. Le professionnel prend en compte ce que la personne décrit et décide quelles vérifications sont utiles. Un trouble déjà diagnostiqué donne à Joris un repère pour raconter une partie de son expérience. Une évolution du vécu et d’autres gênes peuvent mériter d’être examinées pour elles-mêmes.
+Un changement dans des manifestations déjà connues peut justifier une nouvelle évaluation. Des expériences de dépersonnalisation ou de déréalisation peuvent avoir plusieurs explications, notamment médicales ou liées à certains traitements ou produits. Le professionnel décide ce qu’il faut examiner selon le contexte. Joris constate que la gêne matinale dure plus longtemps et signale aussi des maux de tête. Sa psychiatre garde ces questions distinctes avant de convenir avec lui d’un avis du médecin traitant.
 
-## Décrire une différence observable dans la journée
+## Comment un changement de gêne se décrit-il à partir de la vie quotidienne ?
 
-Joris rapporte un déplacement du moment où la gêne se produit et un effet sur le départ au travail. Il mentionne des maux de tête. La relation entre les événements demande encore à être éclaircie. Le fait qu’il ait dormi moins certains jours fait partie du contexte, sans expliquer à lui seul la gêne. Les exemples qu’il donne aident sa psychiatre à voir ce qui l’a préoccupé et comment il souhaite être accompagné.
+### La durée change dans une situation familière
 
-## Repartir avec un relais convenu
+Une impression connue peut devenir plus gênante quand elle se prolonge.
 
-Joris sait quelle question il veut poser à son médecin et à quel rendez-vous il pourra en reparler. Il peut décider avec sa psychiatre ce qu’elle lui conseille de transmettre. Au travail, il peut se limiter aux questions pratiques qui demandent une réponse aujourd’hui. Ava a besoin de savoir à quelle heure Luc pourra revenir et si Joris est disponible pour la répétition. Les renseignements médicaux peuvent rester dans les échanges de soin.
+**Exemples concrets**
+
+- Le matin, Joris met plus de temps à sortir du studio.
+- Une personne explique qu’une gêne habituelle occupe maintenant une plus grande partie de son trajet.
+
+### Une autre plainte mérite d’être signalée
+
+Le professionnel peut examiner un symptôme qui accompagne le changement sans lui attribuer d’emblée la même cause.
+
+**Exemples concrets**
+
+- Joris dit qu’il a eu mal à la tête deux fois.
+- Une personne suivie apporte une plainte apparue récemment au rendez-vous au lieu de la ranger d’emblée sous son diagnostic.
+
+### Les circonstances ne donnent pas toujours une explication
+
+Une différence de sommeil ou de rythme peut être utile à raconter sans établir un lien certain.
+
+**Exemples concrets**
+
+- Joris décrit des nuits plus courtes et un jour où la gêne est revenue alors qu’il avait bien dormi.
+- Une personne note qu’elle a ressenti la gêne au travail et un jour où elle ne travaillait pas.
+
+## 3 techniques pour préparer un avis quand une gêne change
+
+### 1. Décrire ce qui est différent
+
+Aider le professionnel à distinguer le vécu habituel du changement récent.
+
+**Exercice pratique**
+
+- Dites depuis quand vous l’avez remarqué.
+- Décrivez un matin ou une activité qui a été modifiée.
+- Mentionnez les autres symptômes ou changements de santé.
+
+Un récit situé peut orienter les questions du professionnel sans attribuer soi-même une cause.
+
+### 2. Organiser le rendez-vous indiqué
+
+Donner une place aux vérifications décidées avec le soignant.
+
+**Exercice pratique**
+
+- Confirmez qui doit reprendre la nouvelle plainte.
+- Prenez le rendez-vous convenu.
+- Demandez comment transmettre les informations utiles entre professionnels.
+
+La gêne et les symptômes associés peuvent être examinés dans le cadre approprié.
+
+### 3. Limiter le message de travail à ce qui est utile
+
+Préserver une tâche ou un rendez-vous sans annoncer une cause encore inconnue.
+
+**Exercice pratique**
+
+- Nommez l’information que l’équipe attend.
+- Dites quand vous pensez pouvoir la confirmer.
+- Choisissez séparément ce que vous voulez partager sur votre santé.
+
+Le projet garde une suite précise et l’évaluation reste avec les soignants.
 
 ## Une heure confirmée et un rendez-vous pris
 
 En sortant, Joris prend le rendez-vous convenu avec son médecin. Il écrit à Ava que Luc a confirmé l’essai du jeudi et lui propose de reprendre les décisions de la feuille jaune dans l’après-midi. Il lui demande de réserver cinq minutes pour parler de leur façon de se passer la main. Dans son sac, il garde une note sur les changements du matin pour le rendez-vous médical.
+
+---
+
+**Conclusion**
+
+Joris ne sait pas encore ce qui explique la durée plus longue ni les maux de tête. Il sait quel médecin les reprendra et quels détails il veut lui apporter. Pour la répétition, il peut confirmer un essai et demander quelques minutes pour parler du relais.

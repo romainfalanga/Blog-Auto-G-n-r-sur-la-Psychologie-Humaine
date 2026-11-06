@@ -1,5 +1,5 @@
 ---
-title: Un tablier à portée de main
+title: Rééducation et choix d’un déplacement qui compte
 description: En séance, Gaëlle veut travailler un déplacement qu’elle fait à l’atelier.
   Avec Aïcha, elle précise ce qu’elle voudrait pouvoir décider elle-même.
 slug: gaelle-un-tablier-a-portee
@@ -35,16 +35,81 @@ Gaëlle commence à dire qu’elle aimerait marcher normalement. Elle s’interr
 
 ## Le déplacement que Gaëlle a envie de travailler
 
-Une prise en charge des symptômes moteurs fonctionnels peut inclure de la kinésithérapie. L’approche se discute selon la présentation, les capacités du moment, les risques et les objectifs de la personne. Aïcha et Gaëlle choisissent un déplacement qui a un sens dans son quotidien. Elles abordent aussi les manières de réduire les allers-retours imposés par l’aménagement. Ce choix permet de travailler sur la marche et sur l’activité que Gaëlle veut reprendre. Les deux objectifs peuvent évoluer à des vitesses différentes.
+Une rééducation de symptômes moteurs fonctionnels peut partir d’une activité que la personne souhaite retrouver ou faciliter. Les objectifs et les exercices se discutent avec le professionnel, en fonction du mouvement, des besoins et de la sécurité. Les bénéfices et le rythme varient. Gaëlle veut garder la possibilité de choisir si elle va vers la réserve. Aïcha l’aide à distinguer le trajet qu’elles peuvent travailler en séance des allers-retours que l’atelier pourrait lui épargner.
 
-## Ce que l’attention peut changer dans une tâche
+## Comment un objectif choisi donne-t-il une direction à la rééducation ?
 
-Quand Gaëlle se concentre sur la sensation de sa jambe, le déplacement lui demande beaucoup d’effort. Dans une tâche préparée par Aïcha, une partie du mouvement est parfois plus aisée lorsque le but de l’action occupe davantage son attention. La kinésithérapeute observe comment cela se passe dans cette séance et choisit la suite avec elle. Un changement pendant l’activité ne garantit pas le même effet ailleurs. Gaëlle lui dit qu’elle commence à avoir besoin de s’asseoir. Aïcha raccourcit la séance et lui demande ce qu’elle retient de ce qu’elles ont observé.
+### Une difficulté générale se précise dans une activité
 
-## Garder deux décisions ouvertes
+Décrire un trajet donne des renseignements qu’une formule comme « mieux marcher » ne contient pas.
 
-Gaëlle retient qu’elle peut travailler sur un trajet et déplacer le tablier. Aïcha lui demande quelle option la rendrait plus libre si sa jambe portait moins bien au moment d’arriver. Elles conviennent de revoir l’objectif après le prochain passage à l’atelier et de parler aussi de la fatigue qui accompagne ses déplacements certains jours. L’essai se déroule dans le cadre de son suivi. La qualité de la séance tient à ce qu’elles apprennent sur ses possibilités et à ce que Gaëlle souhaite encore faire en sortant.
+**Exemples concrets**
+
+- Gaëlle situe le déplacement entre la porte, la boîte et le portant du fond.
+- Une personne explique qu’elle veut pouvoir rejoindre la table où elle reçoit des visiteurs.
+
+### Le lieu demande parfois des trajets évitables
+
+Un aménagement peut préserver du temps ou de l’énergie pour ce que la personne veut encore décider.
+
+**Exemples concrets**
+
+- Le tablier au fond impose à Gaëlle de repartir après avoir posé sa boîte.
+- Quelqu’un va deux fois vers une réserve parce que les outils dont il a besoin ne sont pas rangés ensemble.
+
+### L’aide peut répondre au geste plutôt qu’à l’objectif
+
+Faire la tâche à la place de la personne ne donne pas toujours le résultat qu’elle souhaite.
+
+**Exemples concrets**
+
+- On rapporte parfois à Gaëlle le tablier de Lina alors qu’elle voudrait pouvoir choisir le sien.
+- Une collègue apporte tous les accessoires, mais la personne voulait surtout avoir le choix de prendre elle-même le bon.
+
+## 3 techniques pour relier la rééducation à une activité qui compte
+
+### 1. Décrire le trajet utile au professionnel
+
+Travailler à partir d’un objectif situé.
+
+**Exercice pratique**
+
+- Montrez le point de départ et l’arrivée sur un plan si cela vous aide.
+- Indiquez les gestes qui se combinent sur le trajet.
+- Choisissez avec le professionnel ce qu’il est pertinent et sûr d’aborder en séance.
+
+L’objectif peut être discuté à partir de la tâche réelle et des conditions où elle se déroule.
+
+### 2. Réduire un aller-retour imposé
+
+Modifier le lieu sans attendre un résultat de la rééducation.
+
+**Exercice pratique**
+
+- Repérez l’objet que vous devez souvent aller chercher.
+- Demandez à l’équipe où il pourrait rester accessible.
+- Essayez l’emplacement choisi et donnez votre avis.
+
+L’aménagement peut simplifier la journée et laisser davantage de choix sur les déplacements.
+
+### 3. Prévoir comment juger l’essai
+
+Voir si l’ajustement sert bien le projet.
+
+**Exercice pratique**
+
+- Dites ce que vous voulez pouvoir décider seule.
+- Relevez ce que la nouvelle organisation a changé.
+- Apportez ce retour à la séance pour ajuster l’objectif avec le professionnel.
+
+Le suivi peut s’adapter à ce que la personne observe sans promettre une récupération particulière.
 
 ## Le crochet bleu
 
 Gaëlle envoie à Lina une photo du plan en entourant le premier portant. Elle lui demande si un crochet bleu peut y rester libre. Elle descend ensuite vers la cour, où quelqu’un a laissé des plants de basilic à partager. Elle en choisit un pour sa cuisine. Avant de repartir, elle écrit au dos de l’enveloppe le nom du marchand qui fournit l’argile blanche qu’elle aime.
+
+---
+
+**Conclusion**
+
+Le crochet bleu peut épargner à Gaëlle un détour avant l’accueil. Elle décide avec Aïcha de la partie du trajet qui a un sens à travailler en séance. Ce sont deux façons d’avancer vers l’atelier, avec des effets qui pourront être examinés séparément.

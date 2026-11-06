@@ -31,18 +31,81 @@ Il y reste assez longtemps pour voir Maud reconduire le groupe vers la visite et
 
 ## Le retrait soulage sur le moment et laisse la reprise ouverte
 
-Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions. Zéphyr perd le moment où il en était et quitte la pièce. Pour lui, c’est une façon de se dégager du brouhaha. Les personnes assises n’ont reçu aucune indication sur ce qui arrive ensuite.
+Une conversation qui change soudain de taille ou de rythme peut devenir difficile à suivre, même quand la tâche était familière. Dans le trouble schizotypique, les difficultés à prendre ou à garder sa place dans les échanges peuvent contribuer au retrait. Sortir réduit ici le bruit pour Zéphyr et laisse le groupe dans l’incertitude. La consigne prévue pour trois personnes ne suffisait plus lorsque d’autres visiteurs sont entrés.
 
-## Comment cette difficulté se manifeste
+## Comment le retrait se produit-il quand plusieurs personnes parlent ?
 
-Les difficultés relationnelles et le retrait peuvent faire partie du trouble schizotypique, avec des variations au fil du temps. La scène montre ce qui arrive à Zéphyr dans cette configuration, sans faire du bruit ou de l’imprévu des signes du trouble. La flèche trompeuse est un problème réel d’organisation. Revoir la situation demande de s’occuper à la fois de l’accueil, de l’effet sur les visiteurs et de ce que Zéphyr peut reprendre ce matin-là.
+### Le cadre bouge en cours de tâche
 
-## Choisir ce qu’il est possible de poursuivre
+Des interlocuteurs imprévus peuvent modifier la difficulté avant que l’on trouve comment leur répondre.
 
-Maud peut donner une information courte : le groupe a rejoint la visite et les trois personnes sont encore assises. Avec Zéphyr, elle peut décider s’il reprend une seule démonstration ou si elle annonce la fin de la séance. Continuer par politesse peut laisser tout le monde dans le flou. Arrêter a aussi un coût : les inscrits ont donné de leur temps et risquent de ne pas revenir. Une annonce claire leur permet au moins de décider ce qu’ils font de la fin de leur matinée.
+**Exemples concrets**
 
-Pour un autre essai, ils pourront convenir d’un relais avant d’ouvrir. Ce travail d’équipe laisse à Zéphyr la possibilité de reparler, en consultation s’il le souhaite, de l’effort que lui a demandé la scène. La décision immédiate sur la séance appartient aux personnes qui l’assurent.
+- Des visiteurs suivent la flèche pendant que les inscrits regardent les roues.
+- Une table de travail à deux devient une discussion de groupe quand d’autres personnes s’y arrêtent.
+
+### Le fil de la consigne s’efface
+
+Les questions concurrentes peuvent prendre la place du geste qu’on allait montrer.
+
+**Exemples concrets**
+
+- Zéphyr ne retrouve plus l’étape où les trois inscrits en étaient.
+- En présentant une affiche, une personne répond à une question depuis le couloir et ne sait plus où reprendre.
+
+### Le départ laisse deux besoins différents
+
+La personne cherche un répit. Ceux qui restent ont besoin de savoir ce qu’ils doivent faire.
+
+**Exemples concrets**
+
+- Zéphyr quitte l’atelier et Loïc ne sait pas si la séance va reprendre.
+- Dans une réunion, un participant sort et les autres continuent à attendre sa réponse à la proposition.
+
+## 3 techniques pour organiser une pause quand l’échange déborde
+
+### 1. Protéger l’accès prévu
+
+Garder le cadre dans lequel une activité a été préparée.
+
+**Exercice pratique**
+
+- Indiquez où les inscrits doivent se présenter.
+- Désignez qui accueille les personnes qui arrivent par erreur.
+- Vérifiez le trajet depuis le hall avant l’ouverture.
+
+La consigne de travail a plus de chances de rester adaptée au nombre de participants.
+
+### 2. Donner un signal de pause
+
+Permettre un arrêt sans laisser le groupe deviner la suite.
+
+**Exercice pratique**
+
+- Choisissez une phrase que vous pourrez dire même brièvement.
+- Convenez de qui annonce la suite si vous devez sortir.
+- Précisez au groupe s’il attend une reprise ou si la séance s’arrête.
+
+La personne peut quitter la pièce et le public sait à quoi s’en tenir.
+
+### 3. Préparer la reprise avec les personnes concernées
+
+Tenir compte à la fois de la gêne et du temps engagé par le groupe.
+
+**Exercice pratique**
+
+- Recueillez ce qui est arrivé à l’entrée.
+- Demandez quelles informations manquent aux participants.
+- Annoncez une nouvelle date seulement quand l’équipe peut l’assurer.
+
+Ce retour aide à corriger une condition de l’accueil sans promettre une séance impossible à tenir.
 
 ## L’annonce dans l’embrasure
 
 Zéphyr retourne jusqu’au cadre de la porte, pas plus loin. Il dit qu’ils vont s’arrêter et qu’il ne reprendra pas la démonstration ce matin. Maud propose de prévenir les trois inscrits dès qu’ils sauront ce qui peut leur être offert. Gil range ses lunettes sans répondre. Farah choisit de poursuivre la visite du musée. Loïc donne un coup de pouce à la fiche, qui glissait du bord. « J’avais gardé la matinée. » Il s’en va avant que Zéphyr trouve quoi répondre. Le lendemain de l’ouverture, la flèche restera dans le tiroir de Maud ; le deuxième samedi est encore prévu, mais il faudra décider comment faire entrer les inscrits.
+
+---
+
+**Conclusion**
+
+La sortie de Zéphyr réduit le brouhaha pour lui, mais ne règle pas l’attente de Loïc. Annoncer l’arrêt donne une réponse pour cette matinée. La flèche et la façon d’accueillir les inscrits restent à revoir avant de recommencer.

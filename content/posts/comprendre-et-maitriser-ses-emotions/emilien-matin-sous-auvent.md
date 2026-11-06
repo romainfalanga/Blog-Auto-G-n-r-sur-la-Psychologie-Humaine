@@ -29,18 +29,83 @@ La veille, Émilien a eu du mal à finir de préparer les câbles. Il a dormi mo
 
 Il s’assoit sur la marche pour laisser passer un commerçant. Lucie lui envoie une photo du vieux pont qu’elle a traversé à vélo. Émilien voulait lui écrire que tout allait bien avant de lui raconter l’écoute. Il décide de ne pas envoyer cette phrase tout de suite. Il n’a pas envie de recommencer à demander un avis après chaque matin compliqué. Il ne veut pas non plus s’empêcher de le demander parce qu’il avait commencé à reprendre le travail.
 
-## Comprendre ce qui mérite encore un avis
+## Un signe peut mériter un avis sans annoncer une rechute
 
-Reprendre une activité et avoir besoin d’un avis plus tard peuvent faire partie du même parcours. Le NICE recommande de discuter du cours variable du trouble et de la façon de reconnaître des changements qui comptent pour la personne. La fatigue, la contrariété ou plusieurs idées dans une discussion n’établissent pas à elles seules un épisode.
+Une fatigue, une nuit courte ou plusieurs idées soudaines peuvent avoir des explications ordinaires. Dans le suivi du trouble bipolaire, on peut aussi demander comment interpréter un changement qui rappelle les signes personnels d’un épisode. Sous l’auvent, Émilien reconnaît une vitesse de décision familière. Il est cependant fatigué et la pluie pose un problème réel. Il n’a pas à trancher sur place pour demander un avis et mettre l’écoute à l’abri.
 
-## Comment cette difficulté se manifeste
+## Comment l’incertitude apparaît-elle quand plusieurs explications restent possibles ?
 
-Émilien remarque des ressemblances avec un moment difficile, mais aussi des différences, notamment le fait qu’il voulait dormir davantage. Il ne cherche pas à résoudre cette incertitude par un calcul. Il décrit à l’équipe ce qui se répète, ce qui a changé et ce qu’il était en train de faire. Si un signe s’accentue ou si un risque apparaît, le plan prévoit comment recontacter l’équipe.
+### Une difficulté immédiate explique une partie de l’élan
 
-## Revenir à une décision de travail qui peut attendre
+Un imprévu concret peut provoquer des réactions rapides qu’il faut d’abord comprendre dans la situation.
 
-Le changement de lieu est réel : il y a de l’eau près de l’installation et le programme dépend encore des commerçants. Dorian et Émilien peuvent décider de ne rien brancher ici et de garder pour une autre date ce qui ne tient pas dans la salle disponible. Cette décision appartient au projet, même si Émilien souhaite aussi parler de sa matinée à l’équipe de soins. Il peut annoncer la partie qu’il est prêt à faire, laisser Dorian proposer une autre disposition et revenir sur le plan clinique avec des professionnels. Demander un avis ne signifie pas qu’il a perdu le droit de choisir l’extrait ou d’aider à déplacer les chaises.
+**Exemples concrets**
+
+- La pluie tombe près de la prise et il faut choisir un autre endroit pour écouter.
+- Émilien propose de déplacer les chaises, puis d’ajouter des invités et un morceau alors que seuls deux extraits sont attendus.
+
+### Le signe rappelle une période sans lui ressembler tout à fait
+
+Une ressemblance et une différence peuvent coexister et méritent toutes deux d’être dites.
+
+**Exemples concrets**
+
+- La vitesse des propositions rappelle le devis du loueur.
+- Cette fois, la nuit courte lui laisse de la fatigue et le souhait d’avoir davantage dormi.
+
+### La reprise complique la décision d’appeler
+
+Après un retour au travail, on peut hésiter à dire qu’un doute persiste de peur de remettre ce retour en question.
+
+**Exemples concrets**
+
+- Émilien est sur le point d’écrire à Lucie que tout va bien avant de lui raconter la scène.
+- Sur la marche, il décide finalement de décrire la matinée à l’équipe sans prétendre en connaître la cause.
+
+## 3 techniques pour agir quand un signe reste ambigu
+
+### 1. Traiter le problème visible à deux
+
+Prendre une décision pratique pendant que la question clinique reste ouverte.
+
+**Exercice pratique**
+
+- Nommez le problème que chacun peut observer.
+- Mettez à l’arrêt l’activité qui présente un risque, comme un branchement près de l’eau.
+- Vérifiez quel choix minimal permet de maintenir ou reporter la tâche.
+
+Le projet peut être protégé pendant que vous choisissez de demander un avis.
+
+### 2. Donner les ressemblances et les écarts
+
+Éviter de résumer la situation au seul élément inquiétant.
+
+**Exercice pratique**
+
+- Notez un fait qui rappelle un signe déjà discuté dans votre suivi.
+- Ajoutez ce qui est différent, par exemple votre fatigue ou l’imprévu du jour.
+- Décrivez les deux éléments au contact prévu si vous avez un doute.
+
+L’équipe reçoit de quoi préciser l’observation plutôt qu’un verdict déjà formulé.
+
+### 3. Attendre la réponse avec un accord réversible
+
+Garder une suite possible sans multiplier les engagements.
+
+**Exercice pratique**
+
+- Convenez du périmètre à garder aujourd’hui avec les autres.
+- Laissez les décisions supplémentaires en suspens, avec un moment pour les reprendre.
+- Demandez au contact de soins ce qui justifierait une nouvelle demande plus rapide si la situation évolue.
+
+Le doute peut être suivi pendant que le projet reste à une taille choisie.
 
 ## L’écoute peut attendre
 
 Émilien laisse un message au contact du plan, avec les changements qu’il a remarqués. Il retrouve ensuite Dorian dans la petite salle. Ils décident que les chaises resteront contre le mur jusqu’à l’accord des commerçants. Émilien lui tend la rallonge enroulée ; elle n’est plus nécessaire. Ils ont une enceinte, deux extraits et un autre jour possible. En rentrant, Émilien répond à la photo du pont. Il demande à Lucie par quel côté on y arrive.
+
+---
+
+**Conclusion**
+
+Émilien signale la matinée à l’équipe et laisse les chaises contre le mur avec Dorian. Le message n’annule pas le travail déjà repris. Il ouvre une question de suivi, pendant que les commerçants gardent la main sur la prochaine écoute.

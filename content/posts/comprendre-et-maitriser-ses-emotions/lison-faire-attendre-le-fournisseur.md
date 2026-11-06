@@ -33,14 +33,79 @@ Nora a besoin d’un devis validé demain avant midi pour espérer une livraison
 
 Une longueur de tissu peut rester identique alors que le changement de largeur modifie les pièces qu’on peut y placer. Lison vient de préparer un métrage pour un patron disposé d’une certaine façon sur du sergé de 140 cm de large. Une proposition à 90 cm impose au minimum de vérifier de nouveau la disposition ; le lot différent pose aussi une question de teinte. Le trouble des apprentissages en mathématiques peut augmenter le temps nécessaire pour traiter plusieurs informations chiffrées. Ici, l’exigence du patron aurait de toute façon besoin d’être vérifiée. Lison reconnaît assez tôt que la réponse qu’elle a préparée concerne une autre largeur.
 
-## Un délai n’oblige pas à répondre au téléphone
+## Comment une réponse attendue peut-elle compliquer le suivi de plusieurs dimensions ?
 
-Lison entend l’offre comme une invitation à décider avant que Farah ne raccroche. Elle peut craindre de gêner en demandant une autre recherche, d’autant qu’une réponse rapide est valorisée dans l’atelier. Des adultes interrogés dans l’étude de Staller et de ses collègues décrivent des situations où il leur est difficile de traiter des chiffres sur le moment, avec de l’appréhension à la clé. Pour Lison, l’écart entre « on doit avancer » et « il faut accepter maintenant » se referme vite. Quand elle demande l’écrit, elle le rouvre : Nora peut faire un choix sur une proposition précise, avec le patron devant elle.
+### Les valeurs arrivent dans le même échange
 
-## Donner au fournisseur une demande qu’il peut reprendre
+Suivre une largeur, une longueur et une échéance oblige à garder le rôle de chaque nombre pendant qu’une autre information arrive.
 
-Lison peut faire reformuler les données qui ont changé, puis demander qu’elles figurent sur un devis. Ici, elle veut lire séparément la référence, le lot, la largeur et la longueur continue. Elle peut aussi demander combien de temps l’offre ou la réservation tient. Cela permet à Nora de dire si le délai reste possible et, le cas échéant, de faire revoir le patron avant d’envisager un autre tissu. Si le fournisseur est pressé, Lison peut annoncer à quel moment l’atelier rappellera. Elle n’a pas à expliquer son diagnostic pour obtenir la confirmation d’une caractéristique du tissu ou préciser qu’une commande n’est pas encore validée.
+**Exemples concrets**
+
+- Au téléphone, Lison entend une proposition à 90 cm de large alors qu’elle avait préparé le métrage pour du 140 cm.
+- Dans un autre appel, un prix, une quantité et une heure de retrait peuvent se mélanger dans les notes.
+
+### Une valeur peut changer les conditions du calcul
+
+Un chiffre différent ne se remplace pas toujours seul. Il peut modifier le patron, la matière ou le délai.
+
+**Exemples concrets**
+
+- Le tissu plus étroit imposerait de revoir la disposition des pièces.
+- Un lot différent peut aussi déplacer la question vers la teinte avant même de commander.
+
+### L’écrit permet de reprendre après l’appel
+
+Une confirmation précise libère du temps pour vérifier chaque donnée avec la référence.
+
+**Exemples concrets**
+
+- Lison dessine une flèche en travers du patron pour garder le sens de la largeur.
+- Le fournisseur peut confirmer jusqu’à quelle heure le lot prévu restera réservé.
+
+## 3 techniques pour garder les dimensions distinctes sous pression
+
+### 1. Préparer une place pour chaque valeur
+
+Éviter qu’un nombre reçu masque le rôle du précédent.
+
+**Exercice pratique**
+
+- Écrivez les rubriques longueur, largeur, lot et délai avant l’appel.
+- Ajoutez chaque valeur à côté de sa rubrique.
+- Relisez celles qui déterminent la suite avant de raccrocher.
+
+L’information peut être vérifiée sans la reconstruire de mémoire.
+
+### 2. Demander une pause avant de s’engager
+
+Éviter de répondre sur une proposition dont les conséquences restent incertaines.
+
+**Exercice pratique**
+
+- Nommez le paramètre qui vient de changer.
+- Demandez un écrit et la durée de réservation.
+- Revenez au patron ou à la personne qui valide avant de confirmer.
+
+La pression de l’appel ne décide pas du choix de tissu.
+
+### 3. Distinguer offre et achat
+
+Donner à l’équipe le bon état d’avancement.
+
+**Exercice pratique**
+
+- Récapitulez ce que le fournisseur doit chiffrer.
+- Transmettez la confirmation à la personne qui valide.
+- Gardez la mention « devis attendu » jusqu’à réception et décision.
+
+Le statut visible indique ce qui reste à faire.
 
 ## Devis attendu
 
 Farah demande de patienter. Lison dessine une flèche en travers du patron et écrit « largeur » dessus. Quand Farah reprend, un rouleau du lot B17 est bien disponible dans un autre dépôt, en 140 cm de large. Le métrage demandé peut être coupé en une pièce. Farah propose de le réserver jusqu’au lendemain midi ; le devis arrivera le matin. Lison confirme par écrit les deux lignes à chiffrer : six mètres de toile ardoise et 1,85 m de sergé ocre dans les conditions convenues. Elle envoie une copie à Nora. Sur sa fiche, elle laisse la commande au statut « devis attendu ».
+
+---
+
+**Conclusion**
+
+Lison obtient une offre sur le bon lot et la bonne largeur, sans engager l’achat pendant l’appel. Elle peut transmettre les deux lignes à Nora. La mention « devis attendu » sépare ce qui a été réservé de la commande qui reste à valider.

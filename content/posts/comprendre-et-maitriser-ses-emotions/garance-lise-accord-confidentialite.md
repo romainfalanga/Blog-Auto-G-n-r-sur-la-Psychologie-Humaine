@@ -28,22 +28,83 @@ Elle dit qu’elle veut jouer sa partie et pouvoir prévenir si elle doit écour
 
 Lise tourne le pupitre vers elle. Elle voudrait savoir si elle doit demander à une autre altiste de prendre l’entrée au début de la valse. Garance lit les quatre mesures qu’elle a notées. Elle souhaite les jouer. Elles peuvent prévoir que la personne assise à côté ait la partition si Garance doit manquer une séance. Dans le couloir, Éva s’approche avec son violon et attend que leur conversation se termine. Garance décide qu’elle lui parlera plus tard du retour au cabinet. Pour le moment, elle veut savoir où poser la notice.
 
-## Parler d’une tâche avec les personnes concernées
+## Après l’hypomanie, les engagements restent à reprendre
 
-Une personne peut demander un changement pratique et choisir les informations de santé qu’elle partage. Garance explique à Lise les dates, les textes et sa place au pupitre. Éva a reçu avec son accord une partie du plan de suivi. Lise a besoin de savoir qui prépare la notice et comment organiser une répétition si une personne manque. Chacune peut participer à sa manière avec les renseignements dont elle a besoin.
+Les engagements pris pendant une hypomanie peuvent dépasser ce que la personne juge possible une fois l’épisode passé. Les revoir peut faire partie de la reprise. Garance veut rendre la notice qu’elle a entamée tout en gardant sa partie d’alto. Elle doit pouvoir faire ces deux choix avec Lise et décider séparément si elle veut parler de sa santé.
 
-Le NICE recommande de discuter des informations partagées avec les proches et des limites de cet échange.
+## Comment les engagements de l’hypomanie continuent-ils de peser après l’épisode ?
 
-## Comment cette difficulté se manifeste
+### Le travail promis se retrouve sur la table
 
-Dans l’ensemble amateur, Garance choisit ce qu’elle veut dire et à qui. Si elle souhaite demander un autre arrangement plus tard, elle pourra le faire à partir d’un besoin précis. Elle garde le droit de parler de son diagnostic avec Lise si elle en a envie. L’accord sur les pupitres et les dates peut se prendre dès aujourd’hui.
+Le retour au rythme habituel laisse des tâches déjà annoncées à d’autres personnes.
 
-## Prévoir comment transmettre une partition
+**Exemples concrets**
 
-Lise et Garance peuvent choisir un moyen simple de signaler une absence. Lise garde le calendrier et les partitions à jour. Garance lui écrit si elle compte quitter une répétition plus tôt. La personne qui tient l’autre alto pourra lire les indications utiles au pupitre. Ces gestes facilitent le travail de l’ensemble. La suite du suivi de Garance continue auprès de sa psychiatre et de sa psychologue.
+- Garance arrive avec une notice inachevée qu’elle avait accepté de préparer.
+- La date de livraison du catalogue compte encore quand Lise lui demande ce qui change.
 
-Lise a aussi ses limites. Elle a besoin de connaître assez tôt les personnes qui seront présentes et peut expliquer quelle partie doit être répétée avec chacune. Elles conviennent de reprendre l’accord si les besoins du concert changent. Garance peut proposer de venir pour la valse et décider plus tard du reste. Une autre personne prendra la notice. Si Éva souhaite lui donner un appui dans une situation difficile, elles peuvent revenir séparément sur ce qu’elles avaient convenu.
+### La honte risque d’emporter une activité choisie
+
+On peut craindre qu’en rendant une tâche, on perde aussi une place à laquelle on tient.
+
+**Exemples concrets**
+
+- Garance prépare des explications pour dire qu’elle arrête les textes.
+- Quand Lise demande qui doit jouer l’entrée, Garance regarde ses quatre mesures et dit qu’elle les veut.
+
+### L’accord se construit autour de la prochaine séance
+
+Un aménagement précis permet de revoir les engagements sans devoir exposer toute l’histoire de l’épisode.
+
+**Exemples concrets**
+
+- Garance demande le calendrier dans le même fil que les partitions.
+- L’autre alto peut avoir les indications de reprise si Garance doit quitter une répétition.
+
+## 3 techniques pour revoir des engagements après une hypomanie
+
+### 1. Trier les tâches que l’on veut garder
+
+Choisir ce qui est tenable et ce qui peut être rendu.
+
+**Exercice pratique**
+
+- Écrivez les tâches déjà promises avec leurs dates.
+- Entourez celle que vous avez encore envie et la possibilité de tenir.
+- Pour une autre, demandez un relais en montrant ce qui a déjà été fait.
+
+Un travail commencé peut être repris par quelqu’un sans faire disparaître votre autre contribution.
+
+### 2. Dire ce dont le groupe a besoin
+
+Organiser la suite sans être obligé de parler de son diagnostic.
+
+**Exercice pratique**
+
+- Choisissez le besoin pratique à annoncer, comme un calendrier au même endroit que la partition.
+- Dites ce que vous pouvez assurer et quand vous préviendrez si cela change.
+- Gardez les éléments personnels pour les interlocuteurs de votre choix.
+
+Les autres peuvent organiser la répétition avec les renseignements utiles.
+
+### 3. Mettre le relais au pupitre
+
+Rendre possible une présence qui peut varier d’une séance à l’autre.
+
+**Exercice pratique**
+
+- Identifiez le passage qu’une autre personne devra connaître.
+- Montrez-lui vos repères et vérifiez qu’elle accepte de prendre la suite.
+- Convenez avec la cheffe d’ensemble de la façon de signaler une absence.
+
+Le groupe dispose d’une solution concrète et Garance garde une façon d’être au pupitre.
 
 ## Lise emporte la notice
 
 Lise glisse la notice dans son dossier et laisse la partition ouverte au pupitre. Garance prend le temps d’accorder son alto. Elle avait préparé plusieurs phrases pour expliquer son retrait. Finalement, elle dit à la personne assise à côté d’elle où elle a marqué la reprise. Lise envoie le calendrier révisé après la séance. Garance le retrouve au même endroit que la partition. Quelques semaines passent. Un jeudi, elle ouvre ce fil pour confirmer qu’elle viendra. Elle laisse son message sans l’envoyer et reste devant le calendrier où la répétition est pourtant toujours à la même heure.
+
+---
+
+**Conclusion**
+
+La notice part avec Lise et la partition reste ouverte devant Garance. Revoir une promesse après l’hypomanie lui permet de garder une part du projet qu’elle choisit. Le calendrier partagé sera aussi là si sa capacité à venir change de nouveau.

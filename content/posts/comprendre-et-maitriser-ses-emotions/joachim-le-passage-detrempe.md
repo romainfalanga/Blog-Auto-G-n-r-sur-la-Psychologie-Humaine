@@ -33,16 +33,79 @@ Au lavoir, ils comparent leurs notes. Diego avait écrit « praticable » avant 
 
 Une personne peut éviter un trajet pour des raisons de terrain, d’accessibilité ou de santé. Ces éléments ont leur place dans l’évaluation d’une peur. La boue et la pente du verger sont observables. Samia explique pourquoi elle préfère changer de trajet avec sa canne. Sur la carte, écrire « terre en pente après la grille » donne une information dont chacun peut faire usage. L’indication peut préciser que le terrain a été vu après la pluie, puisque l’état du chemin peut changer.
 
-## Comment cette difficulté se manifeste
+## Comment distinguer un obstacle de terrain de la peur qui l’accompagne ?
 
-Joachim entend cette difficulté et décrit aussi une autre crainte. Il pense à l’aide qui manquerait derrière la grille. Il retrouve cette pensée sur des surfaces qu’il sait praticables, dans le bus ou au cinéma. Dans son suivi, les deux éléments peuvent être décrits ensemble. La peur qu’il éprouve dans plusieurs contextes ne retire rien aux difficultés matérielles du sentier ni à l’expérience de Samia.
+### Un obstacle se décrit avec ses conditions
 
-## Apporter des détails qui servent à la décision
+Un détail matériel peut limiter un trajet indépendamment de la peur que l’on éprouve.
 
-Louise pourra demander à Joachim ce qu’il a observé sur place, ce qu’il a imaginé et ce que chacun a décidé. Il pourra lui montrer la photo du sillon, puis raconter une situation récente où il s’attendait à manquer d’aide sans avoir rencontré le même obstacle. Les deux récits permettent de parler de sa peur avec davantage de précision. La consultation peut s’intéresser aux effets de cette crainte tout en tenant compte des précautions utiles à un moment donné.
+**Exemples concrets**
 
-Pour le projet de carte, les trois promeneurs peuvent convenir d’un nouvel essai et choisir de ne pas publier une indication dont ils ne sont pas sûrs. Samia souhaite une description du sol et des places où s’arrêter. Elle propose de noter la position du banc depuis la rue avant de décider quel chemin emprunter. Cela aide Joachim à préciser ce qu’il voudrait prendre en photo lors de leur prochain passage.
+- La roue a creusé un sillon dans la terre après la pluie.
+- La pente après la grille change la façon dont Samia envisage le retour avec sa canne.
+
+### Les raisons d’un demi-tour peuvent différer
+
+Deux personnes qui prennent la même décision peuvent réagir à des contraintes différentes.
+
+**Exemples concrets**
+
+- Samia veut pouvoir choisir un appui stable et décide ce qui lui convient.
+- Joachim s’interroge aussi sur la façon dont il pourrait s’éloigner ou demander de l’aide.
+
+### Une indication gagne à rester précise
+
+Un relevé décrit un état observé et laisse chaque personne décider selon ses besoins.
+
+**Exemples concrets**
+
+- Joachim barre « praticable » et note la pente.
+- Les deux traits vers la rue restent au crayon jusqu’à ce que Diego puisse vérifier le raccord.
+
+## 3 techniques pour décrire les accès et les inquiétudes dans leur contexte
+
+### 1. Décrire ce qui a été observé
+
+Donner une information utilisable sans certifier un accès.
+
+**Exercice pratique**
+
+- Nommez le détail du terrain et son emplacement.
+- Ajoutez les conditions dans lesquelles vous l’avez vu.
+- Indiquez quelles variantes restent à vérifier.
+
+Les personnes peuvent faire un choix à partir de faits situés.
+
+### 2. Demander à chacun ce qui compte pour lui
+
+Prendre en compte des besoins de déplacement différents.
+
+**Exercice pratique**
+
+- Laissez chaque personne préciser la difficulté qu’elle observe.
+- Présentez les possibilités qui sont vérifiées et dites ce qui reste inconnu.
+- Respectez sa décision de s’arrêter, de changer de trajet ou de reprendre plus tard.
+
+Le groupe n’a pas besoin d’une seule raison pour adapter sa sortie.
+
+### 3. Apporter les deux plans du problème
+
+Permettre au suivi de tenir compte de la situation réelle.
+
+**Exercice pratique**
+
+- Notez le détail du lieu qui posait problème.
+- Décrivez séparément ce que vous imaginiez s’il vous fallait partir ou demander de l’aide.
+- Montrez les deux observations au professionnel.
+
+L’évaluation peut distinguer l’obstacle et le rôle éventuel de la peur.
 
 ## Les deux indications au crayon
 
 Joachim barre le mot « praticable » sur son épreuve et écrit le détail de la pente. Il laisse deux traits de crayon en direction de la rue. Diego viendra avec lui vérifier où l’un d’eux aboutit. De son côté, Samia préfère les rejoindre plus tard avec la version des images qu’elle pourra lire de près. En rentrant, Joachim retrouve la note pour Louise qu’il avait laissée près de l’entrée. Il ajoute un mot sur la grille, un autre sur le bus.
+
+---
+
+**Conclusion**
+
+La pente remplace le mot « praticable » sur la carte et Samia garde la décision sur la variante. Joachim peut parler à Louise de la grille et du bus. Le demi-tour peut avoir plusieurs raisons, et la carte comme la consultation gagnent à savoir lesquelles.

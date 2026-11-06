@@ -29,22 +29,83 @@ Armand suit le texte avec le doigt. Il arrive au bout de la phrase, recommence, 
 
 La bénévole voudrait aussi mettre sa photo sur le panneau de l’entrée. Armand se lève pour regarder où elle la placerait. La reproduction du pont tient dans l’espace prévu, à côté du plan des canaux. Il propose de mettre l’image de la rive à la place du portrait. Nadia lui demande ce qu’il écrirait sous son nom. Il pense aux lettres qui arrivaient avec deux noms de rues pour la même adresse. « Des cartes pour retrouver le passage. »
 
-## Comprendre ce que la personne souhaite rendre public
+## Un accord dont on peut voir les limites
 
-Accepter de participer à une activité publique peut laisser ouvertes plusieurs décisions sur les informations qu’on veut y partager. Armand accepte que son nom apparaisse avec le don. La photographie et le fait d’évoquer sa santé sont deux autres propositions. Il veut comprendre chacune et choisir sa réponse. Une formulation lisible, un exemple concret de l’affiche ou la possibilité de relire plus tard peuvent aider la personne à dire ce qu’elle souhaite.
+La compréhension d’une proposition de partage est souvent plus facile quand chaque information et chaque usage sont présentés séparément. Pour une personne qui vit avec Alzheimer, une affiche lisible et le temps de la revoir peuvent alléger l’effort de comparaison. Armand veut être nommé pour ses cartes. Il peut choisir autrement pour son portrait et pour les informations qui concernent sa santé.
 
-## Des choix distincts difficiles à suivre en même temps
+## Comment distinguer les accords derrière une même annonce ?
 
-Armand suit du doigt le texte de l’affiche, recommence sa lecture et demande à Nadia de redire la proposition de la bénévole. Une mention sur la mémoire lui donnerait l’impression qu’on attend de lui des dates. Il reconnaît son nom et dit qu’il peut rester. Il choisit ensuite la reproduction du pont à la place du portrait. L’effort pour reprendre les propositions laisse place à des choix différents pour chaque élément.
+### Le principe et le contenu
 
-## Relire le document qui sera affiché
+Une personne peut vouloir participer et avoir des réserves sur le texte ou les images qui seront associés à sa participation.
 
-Armand et Nadia peuvent vérifier la version finale ensemble, à côté de la reproduction qu’il a approuvée. Il voit la taille du texte, la place du nom et l’image que les passants verront. Nadia peut lui présenter les éléments l’un après l’autre et reprendre une question s’il le demande. Une fois l’accord obtenu sur cette version, elle sait quoi transmettre à la personne qui imprime l’affiche.
+**Exemples concrets**
 
-L’annonce peut aussi dire comment la rencontre se déroulera, de façon à laisser plusieurs manières de participer. On peut venir voir le plan pendant les heures d’ouverture et lire la légende même si Armand écourte sa présence. Le don reste un projet entre lui et la bibliothèque. Si une nouvelle proposition de photo ou de récit arrive après l’impression, ils pourront la traiter séparément. Le personnel du foyer peut tenir cette limite sans demander à Jeanne de surveiller ce qui se dit.
+- Armand accepte que son nom figure avec le don et souhaite retirer d’autres informations.
+- Une lectrice accepte de venir présenter un livre et préfère que l’annonce ne mentionne pas son adresse.
 
-Dans le cadre des soins, le NICE recommande de demander à la personne quelles informations elle autorise à partager et avec qui. Au foyer, Nadia peut appliquer la même attention au choix d’Armand. L’accord sur son nom porte sur cette affiche. Elle peut répondre aux questions en s’en tenant à ce qui a été convenu pour la rencontre.
+### La visibilité du support
+
+Voir la taille et l’emplacement d’un élément donne une idée plus concrète de ce qu’en saura le public.
+
+**Exemples concrets**
+
+- Devant le panneau d’entrée, Armand voit la place proposée pour son portrait.
+- Une personne accepte de montrer une image au groupe et demande à revoir sa réponse lorsqu’elle découvre qu’elle est prévue en vitrine.
+
+### La réponse dépend de la version relue
+
+Un changement de texte ou de destinataire peut justifier une nouvelle vérification.
+
+**Exemples concrets**
+
+- Nadia réimprime une affiche avec la carte du pont à la place du portrait.
+- Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication ; l’équipe vérifie à nouveau l’accord.
+
+## 3 techniques pour rendre un accord de partage compréhensible
+
+### 1. Détailler ce qui sera montré
+
+Faire apparaître les choix derrière une demande globale.
+
+**Exercice pratique**
+
+- Nommez les éléments prévus, un par un.
+- Pour chacun, précisez où et à qui il sera visible.
+- Laissez à la personne le temps de demander une modification.
+
+Elle peut se prononcer sur chaque usage sans avoir à accepter l’ensemble.
+
+### 2. Comparer des versions concrètes
+
+Relier une préférence à l’annonce qu’on verra réellement.
+
+**Exercice pratique**
+
+- Montrez le projet à l’endroit où il sera affiché si c’est possible.
+- Proposez de remplacer ou d’enlever l’élément qui pose question.
+- Relisez le nouveau résultat ensemble.
+
+La discussion porte sur des mots et des images visibles, plus faciles à reprendre.
+
+### 3. Garder la trace de la version choisie
+
+Éviter que l’ancien projet circule par erreur.
+
+**Exercice pratique**
+
+- Identifiez la feuille que la personne a approuvée.
+- Rangez ou retirez les brouillons inutilisés.
+- Revenez vers elle si l’équipe veut élargir la diffusion.
+
+La trace écrite aide chacun à respecter le périmètre convenu.
 
 ## À la place du portrait
 
 Nadia réimprime la feuille avec le titre proposé et la reproduction du pont bas en vignette. En dessous du nom, il reste « cartes anciennes du quartier ». Armand la relit avec elle et lui donne son accord pour cette version. La date du don sera ajoutée quand le rendez-vous sera fixé. Il reprend la première feuille pour que les deux versions ne circulent pas. Dans la cour, il croise la bénévole qui lui demande si le trait visible sur la vignette suit le chemin de halage. Il lui répond que le chemin passait un peu plus bas.
+
+---
+
+**Conclusion**
+
+Sur l’affiche retenue, le pont a la place qu’Armand lui a choisie. Un accord peut être précis et partiel : cette version montre les cartes et indique son nom. Le rendez-vous pourra se fixer à part.

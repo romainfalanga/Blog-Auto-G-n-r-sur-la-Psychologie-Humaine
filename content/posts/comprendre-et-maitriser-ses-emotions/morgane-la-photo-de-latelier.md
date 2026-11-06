@@ -35,16 +35,79 @@ Morgane est la première à tendre le dessin vers elle. Elle remarque que Yassin
 
 Les préoccupations liées au corps et la peur d’être jugé peuvent compter dans le vécu de l’hyperphagie boulimique. Leur place varie selon les personnes. Pour Morgane, la photo réveille un souvenir et l’amène à prévoir une scène de commentaire.
 
-## Une crainte liée à la photo qui déborde sur la matinée
+## Comment la peur du regard peut-elle agir avant que la photo soit prise ?
 
-En imaginant la photo affichée, Morgane pense à quelqu’un qui la reconnaîtrait et commenterait son corps. Elle propose alors que Sonia présente seule l’atelier. La question de Yassine lui fait remarquer que ce retrait lui coûterait un rôle qu’elle désirait. Ce qu’elle redoute dans l’image a déjà changé sa réponse sur la matinée.
+### Un souvenir oriente ce que l’on prévoit
 
-## Choisir une information qui sert à la conversation
+Une remarque ancienne peut revenir au moment où une nouvelle image est envisagée.
 
-Distinguer le cadrage de la photo et la participation à la matinée donne à Morgane deux choix précis. Sonia a besoin de savoir ce qu’elle veut faire de la photo pour préparer l’affiche. Elle peut entendre cette réponse sans exiger de connaître tout le contexte. Morgane peut choisir d’ajouter que les commentaires sur le corps la touchent, de nommer le trouble ou de garder cette partie pour l’équipe. L’accord sur le cadrage doit aussi valoir pour Yassine et les autres personnes visibles. Sonia peut vérifier qui veut participer et à quelles conditions. Elle aide ainsi sur une décision de travail, et l’écoute qu’elle peut offrir à sa collègue se négocie à un autre moment.
+**Exemples concrets**
 
-Morgane peut parler en consultation du souvenir et de l’effort que lui demande cette anticipation.
+- L’annonce de la photo rappelle à Morgane une image de famille où son corps avait été commenté.
+- Avant qu’une affiche soit faite, elle imagine une personne du quartier qui la reconnaît et s’approche pour lui parler de son apparence.
+
+### L’appréhension déborde sur le projet
+
+Éviter l’image redoutée peut sembler exiger de renoncer aussi à une partie de l’activité.
+
+**Exemples concrets**
+
+- Morgane propose que Sonia présente seule l’atelier avant de vérifier ce qu’elle veut encore faire.
+- La question de Yassine lui fait distinguer l’affiche et sa présence à la matinée.
+
+### Une autre proposition rend la décision plus précise
+
+La crainte peut rester là alors qu’une partie concrète de la situation devient négociable.
+
+**Exemples concrets**
+
+- Morgane repère les mains que Yassine a dessinées sans visage et propose de s’en inspirer.
+- Elle choisit ensuite de dire à Sonia en privé pourquoi les commentaires sur le corps lui coûtent.
+
+## 3 techniques pour distinguer un cadrage redouté d’un projet que l’on veut garder
+
+### 1. Nommer ce qui est redouté
+
+Comprendre à quel moment l’inquiétude commence à guider la décision.
+
+**Exercice pratique**
+
+- Identifiez l’image ou le moment dont il est question.
+- Formulez ce que vous redoutez de la part des autres.
+- Précisez quelle partie de l’activité vous souhaitez encore garder.
+
+Ces repères peuvent éviter qu’une décision sur la photo emporte tout le projet.
+
+### 2. Proposer un cadrage lié au travail
+
+Montrer ce qui compte pour le public tout en gardant votre accord.
+
+**Exercice pratique**
+
+- Choisissez le geste que l’affiche doit rendre compréhensible.
+- Demandez un aperçu d’une image centrée sur ce geste.
+- Décidez avec les personnes concernées si elle peut être utilisée.
+
+L’équipe dispose d’un support utile et chacun peut se prononcer sur sa diffusion.
+
+### 3. Choisir à qui parler de la gêne
+
+Partager l’information voulue dans un cadre choisi.
+
+**Exercice pratique**
+
+- Décidez si vous souhaitez dire la difficulté à quelqu’un et dans quel lieu.
+- Exprimez ce que vous voulez garder confidentiel et où vous voulez arrêter l’échange.
+- Reprenez avec votre professionnel l’appréhension qui continue à vous coûter.
+
+Une conversation peut aider au travail et la question clinique peut être reprise ailleurs.
 
 ## Ce que Morgane dit en marchant
 
 Dehors, Morgane explique qu’elle est suivie pour une hyperphagie boulimique et qu’elle a du mal quand elle s’attend à une remarque sur son corps. Elle précise qu’elle voudrait garder cela entre elles. Sonia lui demande si elle veut parler davantage. Morgane lui dit qu’elle aimerait surtout finir la marche et remettre le dessin de Yassine à plat en rentrant. Le rendez-vous avec Anna a lieu lundi. Morgane voudrait y reprendre la question des mots qu’elle vient d’employer.
+
+---
+
+**Conclusion**
+
+Le dessin de Yassine permet de proposer une affiche centrée sur le geste. Morgane reste dans la préparation et choisit ce qu’elle dit à Sonia pendant la marche. La peur d’une remarque existe avant la prise de vue et reste une question pour son rendez-vous avec Anna.

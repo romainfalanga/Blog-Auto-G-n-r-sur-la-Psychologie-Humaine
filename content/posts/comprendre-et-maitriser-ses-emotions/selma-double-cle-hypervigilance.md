@@ -29,20 +29,83 @@ Le vitrier a fermé cette partie en attendant de revenir avec les panneaux. Il l
 
 Une fois le portail fermé, ils restent sous l’auvent. Selma demande si André a entendu quelque chose du côté de la serre. Il dit qu’il a entendu le plastique chez le voisin. Elle l’a entendu aussi. Pourtant, une partie de son attention continue de chercher un autre son, celui qui lui permettrait de savoir avec certitude qu’elle peut tourner le dos au jardin. André regarde son téléphone pour savoir s’il a encore le temps d’aller chercher du pain. Selma regarde l’enveloppe. Elle a assez de temps pour lui dire ce dont ils ont besoin jeudi.
 
-## Quand l’attention reste tournée vers une menace
+## Quand l’attention cherche encore un signe de danger
 
-L’hypervigilance peut se manifester par une attention soutenue à ce qui pourrait signaler un danger. Dans le trouble de stress post-traumatique, ce sentiment d’alerte peut rester marqué alors même que la personne a vérifié les éléments disponibles dans la situation. Il peut lui coûter du temps ou lui rendre difficile de suivre une conversation. Une personne peut par ailleurs devoir vérifier un risque concret. La protection de l’espace où le vitrier travaille garde son importance.
+L’hypervigilance dans le TSPT peut maintenir l’attention tournée vers une menace possible même quand les renseignements disponibles indiquent que le danger immédiat a été traité. Selma a vérifié avec André la limite d’accès donnée par le vitrier. Quand le plastique claque chez un voisin, elle attend le son suivant et perd la question sur les radis. Cette veille continue lui coûte de l’attention et retarde un accord qu’elle veut prendre.
 
-## Comment cette difficulté se manifeste
+## Comment l’hypervigilance prend-elle de la place après une vérification ?
 
-Selma a deux renseignements différents à considérer. Elle connaît les limites indiquées par le vitrier. Elle remarque aussi que son attention retourne aux bruits quand André lui parle. Elle peut apporter cette différence à sa thérapeute. L’une des questions à examiner concerne les situations où l’alerte prend plus de place qu’elle ne le souhaiterait.
+### L’écoute continue après avoir identifié le bruit
 
-## Un accord qui dit ce que chacun prend en charge
+Un premier renseignement peut expliquer ce que l’on a entendu sans faire cesser immédiatement l’alerte.
 
-L’accès à la serre peut faire l’objet d’un accord qui tient en quelques phrases. Selma peut indiquer à André le trajet prévu avec le vitrier, l’heure qui leur convient et la tâche qu’il prend. Si un problème matériel apparaît, ils s’adressent à la personne compétente. André peut donner un renseignement sur ce qu’il a lui-même entendu. Il garde la liberté de rentrer ou d’aller chercher son pain quand il le souhaite.
+**Exemples concrets**
 
-Si Selma trouve difficile de cesser de guetter le bruit après leur échange, elle peut choisir de terminer sa journée ailleurs et revoir cette situation au suivi. La possibilité de garder la serre ouverte à un voisin repose sur un accord pratique qu’elle pourra ajuster avec lui.
+- Selma reconnaît le plastique du voisin quand André le nomme.
+- Sous l’auvent, elle cherche encore un son qui lui permettrait de tourner le dos au jardin.
+
+### La conversation se retrouve au second plan
+
+Surveiller ce qui pourrait arriver laisse moins de disponibilité pour suivre quelqu’un.
+
+**Exemples concrets**
+
+- Selma s’interrompt au claquement de la feuille.
+- Elle manque la question d’André sur la hauteur des radis en attendant la rafale suivante.
+
+### Une décision préparée reste en suspens
+
+La recherche d’une certitude peut compliquer un geste ordinaire même quand les conditions ont été précisées.
+
+**Exemples concrets**
+
+- Le double attend dans l’enveloppe depuis trois jours et Selma revient chaque fois à un nouveau détail.
+- André a vu l’allée autorisée par le vitrier. Selma hésite encore avant de lui donner la clé.
+
+## 3 techniques pour s’appuyer sur une vérification sans prolonger la veille
+
+### 1. Délimiter ce que le professionnel a vérifié
+
+Garder une règle concrète pour la sécurité matérielle.
+
+**Exercice pratique**
+
+- Demandez au professionnel où l’accès est possible pendant les travaux.
+- Montrez ce repère à la personne avec qui vous partagez le lieu.
+- Renvoyez au professionnel les questions de réparation qui restent ouvertes.
+
+Le danger réel garde une réponse précise et le voisin n’a pas à réexaminer la vitre.
+
+### 2. Reprendre la dernière question
+
+Rendre une place à la conversation quand un bruit a pris l’attention.
+
+**Exercice pratique**
+
+- Dites que vous avez manqué la fin ou le début de la phrase.
+- Demandez à l’autre de reprendre la question qui compte maintenant.
+- Choisissez un seul point pratique à régler avant de vous séparer.
+
+L’échange peut reprendre même si l’alerte n’est pas entièrement retombée.
+
+### 3. Noter ce qui reste difficile après la vérification
+
+Décrire l’hypervigilance à partir de ce qu’elle interrompt.
+
+**Exercice pratique**
+
+- Repérez une situation où l’origine d’un bruit était connue mais où vous êtes resté en alerte.
+- Notez ce que cette écoute vous a fait manquer ou reporter.
+- Apportez cet exemple au professionnel qui vous accompagne.
+
+Le suivi peut examiner le coût de l’alerte au-delà du premier sursaut.
 
 ## L’enveloppe au prénom d’André
 
 Selma sort le double de l’enveloppe. Elle montre à André le repère de l’allée et lui dit quand elle prévoit de revenir jeudi. « L’arrosoir est au bout, tu le verras. » Il lui demande s’il peut apporter un deuxième sachet de radis. Elle lui répond qu’elle attend de voir combien de place prennent les premiers. Lorsqu’ils arrivent au coin de la rue, la feuille de plastique claque encore. André prend le chemin de la boulangerie. Selma cherche dans sa poche le reçu du vitrier qu’elle voulait mettre à l’abri et garde l’enveloppe vide pour le ranger.
+
+---
+
+**Conclusion**
+
+Selma confie le double avec l’horaire et la limite qu’ils ont vus ensemble. Le plastique claque encore quand ils arrivent au coin de la rue. Le geste ne demande pas que l’alerte ait disparu pour que l’accord sur l’arrosage puisse tenir.

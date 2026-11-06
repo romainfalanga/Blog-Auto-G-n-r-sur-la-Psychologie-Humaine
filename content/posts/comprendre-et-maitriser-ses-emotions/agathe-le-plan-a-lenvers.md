@@ -34,14 +34,81 @@ Près du cabanon, Lila retourna la page pour retrouver le fermoir dans la légen
 
 Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes.
 
-## Comment cette difficulté se manifeste
+Au portillon, la gauche change selon la position de Sami. Agathe préfère aligner la carte sur le banc et montrer la première étape. Puis elle demande au lecteur de montrer son trajet. La reformulation et son retour lui apprennent autant sur son explication que sur les informations du plan.
 
-Agathe préfère montrer l’endroit qu’elle a compris et dire ensuite ce qu’elle ferait. Cette fois, elle utilise cette manière de faire pour donner un départ à Sami. Son trajet n’a pas besoin d’être décrit d’un seul souffle : il devient possible de comparer un lieu réel, un dessin et un geste. Le premier essai des deux CM1 ne renseigne pas sur leur langage. Le plan ne disait pas comment se placer ; ce manque suffit à expliquer qu’on parte ailleurs.
+## Comment reformuler une direction quand le point de vue change ?
 
-## Voir ce que fait l’autre du message
+### Le mot dépend de la position de chacun
 
-Au lieu de répéter le trajet plus fort, on peut convenir d’un point de départ et demander à l’autre ce qu’il voit ou ce qu’il ferait ensuite. S’il part dans une autre direction, on apprend quelque chose sur le message qu’il a reçu. Le retour peut se faire par un déplacement, une indication du doigt ou une phrase. Camille peut s’occuper de l’accès au cabanon pendant que les enfants examinent la carte. En laissant Lila placer son repère, Agathe découvre aussi ce que le lecteur doit retrouver sans retourner la page. C’est un essai de terrain qui fait évoluer leur outil commun. Il ne demande à personne de réciter la consigne devant le groupe.
+« À gauche » suppose que l’on sache de quel côté on regarde. Deux personnes qui se font face peuvent comprendre des directions opposées.
+
+**Exemples concrets**
+
+- Sami se retourne vers Agathe au moment où elle s’apprête à lui indiquer la gauche.
+- Un lecteur placé de l’autre côté d’une table peut suivre « derrière la boîte » vers le bord opposé.
+
+### Un repère fixe stabilise le départ
+
+Comparer un dessin au lieu permet de partager un point de départ avant de nommer le chemin.
+
+**Exemples concrets**
+
+- Agathe oriente le plan en comparant le dessin du banc au vrai banc.
+- Dans une école, montrer la porte au panneau vert peut être plus précis que dire « la suivante ».
+
+### Le retour du lecteur permet de corriger le support
+
+Voir comment l’autre suit la consigne révèle une ambiguïté que le premier exemple peut laisser passer.
+
+**Exemples concrets**
+
+- Sami montre son prochain pas du bout de sa botte.
+- Lila perd le sens du plan en retournant la page et propose une légende devant.
+
+## 3 techniques pour reformuler un trajet à partir d’un repère commun
+
+### 1. Aligner le plan et le lieu
+
+Stabiliser la perspective avant de donner la direction.
+
+**Exercice pratique**
+
+- Placez-vous ensemble au départ.
+- Repérez un élément fixe sur le plan et dans le lieu.
+- Orientez la feuille avant de parler du trajet.
+
+Les deux personnes se réfèrent au même côté.
+
+### 2. Montrer une étape puis demander la suite
+
+Vérifier ce que le lecteur peut faire avec l’explication.
+
+**Exercice pratique**
+
+- Montrez un premier geste.
+- Demandez à l’autre de montrer ou dire son prochain repère.
+- Reprenez seulement l’endroit où vos parcours divergent.
+
+Le retour guide la reformulation sans faire réciter le trajet entier.
+
+### 3. Placer l’information là où elle sert
+
+Éviter que le lecteur perde un repère en cherchant l’autre.
+
+**Exercice pratique**
+
+- Repérez où la lecture s’interrompt.
+- Demandez au lecteur d’indiquer où il cherchait la légende.
+- Ajoutez-la à cet endroit et essayez de nouveau.
+
+Le plan reste utilisable pendant le déplacement.
 
 ## La légende au bord du banc
 
 Lila dessina un fermoir et écrivit « réserve » dans la marge, à la hauteur du cabanon. Camille ouvrit la porte et Sami montra la boîte à côté de la ficelle. Agathe pouvait maintenant sortir la question des fleurs. Sami voulait les voir depuis le banc ; Lila préférait un coin qui laisserait le passage libre. Elle dessina une étoile au pied de la clôture et Sami en mit une près du banc. Agathe ne gomma aucune des deux. De retour en classe, Inès voulait savoir si le plan avait marché. Agathe lui montra les traits de Lila et les deux étoiles. Il faudrait expliquer à leurs camarades comment ils en étaient arrivés là, avant de recopier tout cela.
+
+---
+
+**Conclusion**
+
+Agathe trouve un départ commun avec Sami, puis Lila montre ce qui manque au plan. Toutes deux gardent les deux étoiles des fleurs sans trancher. De retour en classe, il reste à raconter pourquoi la légende doit changer de côté.

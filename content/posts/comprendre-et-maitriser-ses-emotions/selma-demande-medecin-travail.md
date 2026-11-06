@@ -29,22 +29,83 @@ Le médecin du travail lui demande ce qu’elle voudrait examiner avec lui. Selm
 
 Le médecin reprend avec elle les conditions dans lesquelles une activité hors conduite pourrait être examinée. Il lui demande ce qui l’aiderait si l’organisation change en cours de journée. Selma pense d’abord aux annonces qu’elle voudrait entendre plus tôt. Puis elle demande le nom de la personne à qui elle pourrait s’adresser sur place. Elle s’apprête à remettre sa feuille. Elle s’arrête pour savoir quelles informations serviraient au médecin et lesquelles pourraient être transmises au travail.
 
-## Décrire un effet concret au travail
+## Le retentissement professionnel se décrit par les tâches
 
-Le stress post-traumatique peut retentir sur le travail, notamment quand des rappels imprévus prennent l’attention ou que le sommeil est difficile. La nature du poste et de ses responsabilités compte pour comprendre ce retentissement. Une information précise est souvent plus utile dans un échange sur les conditions de travail qu’une description générale de la journée.
+Dans le TSPT, les rappels inattendus et un sommeil perturbé peuvent peser sur l’attention au travail. Leur effet dépend du poste, des conditions et des responsabilités. Selma veut retrouver des collègues et un travail de documentation. Elle parle à son médecin du travail de ce qui l’aide à suivre une consigne et de ce qui pose question pour ses fonctions de conduite. Une mission hors conduite ne vaut pas autorisation à reprendre des fonctions de sécurité.
 
-## Des annonces qui interrompent le fil des échanges
+## Comment le TSPT peut-il peser sur une reprise professionnelle ?
 
-Selma a noté trois difficultés à apporter au rendez-vous. Elle perd parfois le fil après une annonce imprévue. Ses nuits se coupent et il arrive qu’elle ait besoin de se faire répéter le début d’une phrase. Elle voudrait retrouver des tâches et des collègues qu’elle connaît. Ce qu’elle rapporte permet de comprendre l’effort demandé par certaines conditions, même quand le travail lui-même l’intéresse.
+### Le lieu modifie l’effort nécessaire
 
-## Séparer ce qu’elle dit en consultation de ce qui organise la mission
+Le niveau de bruit et la prévisibilité des annonces peuvent changer la possibilité de suivre une tâche.
 
-Les informations de santé confiées au médecin du travail relèvent du secret médical. Dans le cadre de la mission envisagée, les autres interlocuteurs ont surtout besoin de connaître le périmètre de l’activité, les conditions convenues et la personne à joindre si elles changent. Selma peut demander au médecin ce qu’il compte communiquer, à qui et pour quel besoin. Elle peut ensuite choisir ce qu’elle veut dire à ses collègues en son nom.
+**Exemples concrets**
 
-Une activité hors conduite peut être une possibilité à discuter. Selma peut préciser ce qui l’intéresse, demander un point de revue et décider si elle souhaite poursuivre cette piste. Les conditions de sécurité et les démarches restent à examiner avec les interlocuteurs concernés.
+- Selma dit qu’une annonce imprévue peut lui faire perdre le début d’une phrase.
+- Elle cherche une salle de documentation éloignée des espaces de circulation des trains.
 
-Le médecin du travail examine avec elle les conditions d’activité et les adaptations à discuter. Les décisions concernant l’exercice de fonctions de sécurité suivent les procédures prévues et relèvent des personnes habilitées. En cas de doute de Selma sur son aptitude à conduire, elle avertit immédiatement l’entreprise selon la procédure du métier. Selma peut demander à comprendre chaque étape et ce qui est envisageable maintenant. Sa thérapeute garde son propre rôle dans les soins.
+### Les responsabilités ne demandent pas le même niveau de vigilance
+
+Les effets de la fatigue ou d’un rappel doivent être appréciés en regard des exigences propres au poste.
+
+**Exemples concrets**
+
+- Selma rapporte ses nuits entrecoupées et la nécessité de se faire parfois répéter une consigne.
+- Elle voudrait revoir l’équipe et prendre des dossiers sans être attendue en cabine.
+
+### La continuité de l’activité dépend aussi des consignes
+
+Un aménagement gagne à indiquer quoi faire si l’organisation change après l’arrivée.
+
+**Exemples concrets**
+
+- Selma demande à connaître la salle et l’horaire avant de se déplacer.
+- Elle veut savoir à quelle personne s’adresser si ces conditions ne peuvent pas être maintenues.
+
+## 3 techniques pour préparer une reprise dans un métier de sécurité
+
+### 1. Décrire les effets sur une tâche précise
+
+Donner au médecin du travail des éléments liés aux conditions réelles.
+
+**Exercice pratique**
+
+- Choisissez une situation qui vous a fait perdre une information ou demander une répétition.
+- Expliquez quelle tâche était en cours et ce qui rendait la gêne importante.
+- Demandez quelles conditions ou quelles activités peuvent être examinées à partir de ces faits.
+
+La discussion peut préciser un aménagement compatible avec les exigences du poste.
+
+### 2. Définir le cadre avant d’accepter une mission
+
+Connaître les limites et les interlocuteurs de l’activité envisagée.
+
+**Exercice pratique**
+
+- Vérifiez avec les personnes compétentes le périmètre de la mission, les horaires et le lieu.
+- Demandez quelle information sera transmise pour organiser la mission et qui la recevra.
+- Convenez d’un contact et d’un point de revue si l’organisation change.
+
+Les collègues disposent de consignes utiles sans avoir besoin du récit du traumatisme.
+
+### 3. Préserver la procédure d’aptitude
+
+S’assurer qu’un risque pour la conduite passe par le circuit prévu.
+
+**Exercice pratique**
+
+- Si vous estimez que votre santé remet en cause votre aptitude à conduire, informez immédiatement l’entreprise ferroviaire ou le gestionnaire concerné.
+- Respectez les consignes de sécurité et faites examiner l’aptitude par les personnes habilitées.
+- Gardez la discussion sur les soins et les options de reprise avec les professionnels concernés.
+
+La possibilité d’une mission hors conduite et l’aptitude aux fonctions de sécurité sont examinées séparément.
 
 ## La feuille repart dans la poche
 
 Avant de sortir, Selma reformule les questions qui restent ouvertes. Le médecin lui explique avec qui le cadre de la mission devra être défini et ce qui peut être transmis sur l’organisation. Elle garde la feuille avec ses notes personnelles et prend le document qui indique la suite. Sur le chemin du retour, elle envoie à André un message pour lui dire qu’elle passera à la serre plus tard. Il lui demande si elle pourrait regarder son rang de radis. Elle répond qu’elle regardera d’abord si les panneaux ont enfin été livrés.
+
+---
+
+**Conclusion**
+
+Selma repart avec une suite à examiner pour une activité de documentation. Elle garde ses notes personnelles et sait avec qui discuter des conditions. Retrouver une tâche qu’elle aime peut être un objectif à part entière pendant que les démarches de sécurité suivent leur cours.

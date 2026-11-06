@@ -33,14 +33,79 @@ Le samedi, à la boutique, un client lui avait parlé de l’itinéraire comme d
 
 La psychothérapie peut examiner les liens entre pensées, émotions et comportements alimentaires, avec une attention aux situations dans lesquelles ils se produisent. Un épisode peut suivre une journée chargée, et d’autres survenir dans des circonstances différentes. La honte qui vient après peut être l’émotion la plus facile à retrouver dans le souvenir.
 
-## Ce que la honte fait passer au premier plan
+## Comment les émotions se distinguent-elles avant et après la crise ?
 
-Victoire raconte d’abord la honte ressentie après la crise, parce qu’elle la retrouve plus facilement dans son souvenir. En revenant sur les heures précédentes, elle reconnaît l’irritation à propos d’une remarque, la fatigue et la crainte du regard de son frère. L’ordre est plus difficile à retrouver à l’approche de la crise. Elle se rappelle avoir voulu que quelque chose s’arrête, et hésite sur ce qu’elle ressentait à ce moment-là.
+### Ce qui précède peut être mêlé
 
-## Choisir une question utile pour la prochaine fois
+Plusieurs circonstances et émotions peuvent précéder un épisode ; leur présence ne permet pas d’établir une cause unique.
 
-Victoire aimerait mieux reconnaître les moments où un engagement important commence à ressembler à une chose qu’elle devra cacher. Nora peut lui demander de distinguer ce dont elle se souvient et ce qu’elle reconstitue. Les incertitudes aident à choisir ce qu’il reste à explorer. Elle lui propose de retenir une situation dont elles pourront reparler, comme le passage entre la fermeture de la boutique et le retour chez elle. Elle lui demande aussi si la partie physique du suivi lui semble claire et si elle sait à qui poser une question qui l’inquiète. La docteure Benali garde le fil des soins avec elle. Victoire convient qu’elle préfère savoir à qui parler plutôt que d’essayer de retrouver chaque détail de sa semaine. Elle peut aussi reprendre avec Idriss la phrase qui l’a heurtée, si elle souhaite simplement réfléchir à la façon dont la boutique présente le rallye.
+**Exemples concrets**
+
+- En rentrant de la boutique, Victoire reste sur ses messages professionnels alors qu’elle voulait appeler Simon.
+- Dans la même soirée, elle retrouve le souvenir de sa fatigue et d’une remarque qui l’a irritée.
+
+### Un moment reste flou
+
+Le souvenir peut être incomplet près de l’épisode, même lorsqu’on retrouve bien le décor ou l’ordre des activités.
+
+**Exemples concrets**
+
+- Victoire se rappelle qu’elle voulait que quelque chose s’arrête, sans retrouver ce qu’elle ressentait.
+- Une personne peut se souvenir d’avoir posé son sac dans l’entrée et hésiter entre inquiétude et irritation pour décrire ce moment.
+
+### L’émotion d’après revient en premier
+
+Ce qui marque le souvenir peut appartenir à l’après-crise et aider à comprendre ses effets sur la suite.
+
+**Exemples concrets**
+
+- Victoire retrouve d’abord la honte en voyant la conversation sur son téléphone.
+- Le premier message qu’elle envisage pour Simon témoigne de son envie de se cacher après l’épisode.
+
+## 3 techniques pour retrouver l’ordre d’une situation avec son équipe
+
+### 1. Choisir trois moments repérables
+
+Situer des circonstances sans tout reconstituer.
+
+**Exercice pratique**
+
+- Nommez une situation dont vous voulez parler avec l’équipe.
+- Repérez un fait antérieur, un souvenir proche de l’épisode et un effet ultérieur.
+- Présentez-les dans l’ordre, en laissant vide ce qui reste flou.
+
+La discussion peut suivre la chronologie sans attribuer la crise à une seule émotion.
+
+### 2. Marquer une hypothèse comme telle
+
+Faire de l’incertitude une information utile pour le suivi.
+
+**Exercice pratique**
+
+- Choisissez un mot dont vous êtes sûr, même s’il décrit seulement un fait.
+- Si un mot d’émotion vous vient sans certitude, présentez-le comme une possibilité.
+- Demandez au professionnel quel moment il serait utile de reprendre avec vous.
+
+La personne et son équipe peuvent examiner les liens possibles sans forcer une interprétation.
+
+### 3. Garder une question pour un seul passage
+
+Limiter l’effort demandé entre deux entretiens.
+
+**Exercice pratique**
+
+- Choisissez une transition ordinaire qui vous intrigue, comme le retour du travail.
+- Formulez une question sur ce que vous y avez vécu.
+- Convenez avec l’équipe de la façon de reprendre cette question et du contact à utiliser en cas d’inquiétude.
+
+Un point précis peut suffire pour continuer le travail sans examiner toute la semaine.
 
 ## Le mot débutant sur le prospectus
 
 Victoire garde une question pour le prochain rendez-vous sur le moment où elle rentre de la boutique. En repartant, elle relit le prospectus qu’Idriss veut lui montrer le jeudi après le travail. Elle voudrait garder le mot « débutant » et rendre sa promesse visible. On peut venir apprendre à s’orienter à son rythme. Elle lui envoie cette phrase et lui propose de la regarder ensemble quand ils fermeront.
+
+---
+
+**Conclusion**
+
+Nora et Victoire retiennent le retour de la boutique comme point de départ. La honte du dimanche reste plus facile à nommer que ce qui précède la crise, et l’entretien peut garder cette différence ouverte. Victoire reprend le prospectus avec Idriss sans avoir à résoudre cette question d’abord.

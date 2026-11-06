@@ -32,18 +32,81 @@ Lila ouvre la bouche. Victoire se prépare à entendre qu’on ne l’aurait jam
 
 ## L’anticipation du regard peut entretenir le secret
 
-La honte peut conduire à taire un épisode ou à organiser sa journée pour que personne ne voie sa détresse. Une personne peut tenir ses engagements avec un effort considérable et s’attendre à être jugée si elle raconte ce que cela lui coûte. Dire le nom du trouble peut alors représenter un risque relationnel.
+Dans la boulimie nerveuse, la honte et la crainte d’être jugé peuvent prolonger le secret autour des crises. Une personne peut aussi s’inquiéter de ce que la confidence changera dans une relation importante. Sur le banc, Victoire redoute surtout que parler de son trouble invite désormais Lila à commenter ses repas. Elle cherche une façon de confier la difficulté et de dire ce qu’elle souhaite garder de leur amitié.
 
-## La peur de voir les rencontres changer
+## Comment la peur d’être jugée retarde-t-elle une confidence ?
 
-Victoire craint que Lila examine chaque geste au repas et change de sujet lorsqu’elles auraient parlé du rallye. Elle a écrit le nom du trouble sur un papier pour arriver à le dire. Quand Lila s’apprête à répondre, Victoire s’attend à entendre qu’on ne l’aurait jamais deviné. Sa silhouette et le fait qu’elle arrive à travailler donnent peu d’accès à la honte qu’elle éprouve après une crise.
+### Le risque est imaginé à l’avance
 
-## Trouver un accord que les deux personnes peuvent tenir
+La réponse que l’on redoute peut retarder la conversation avant même que l’autre ait parlé.
 
-Une confidence peut servir à obtenir un changement très concret dans la relation. Victoire veut retrouver des conversations où sa présence compte pour des raisons ordinaires. Elle peut préciser que la confidence lui appartient et indiquer ce qu’elle voudrait si le groupe commence à commenter les corps. Lila répond qu’elle pourra changer de sujet quand elle est là et qu’elle ne saura pas toujours reconnaître un moment difficile. Cette réponse lui donne une limite et un point d’appui. Les questions sur les soins restent disponibles auprès de l’équipe de Victoire. Si celle-ci souhaite y inviter son amie plus tard, elle pourra en discuter d’abord avec elle et préciser ce qu’elle voudrait partager dans ce cadre.
+**Exemples concrets**
 
-Les recommandations de la HAS invitent à écouter la souffrance, à accorder de l’attention à la façon d’en parler et à tenir compte du rôle choisi pour l’entourage. Lila peut partir des mots que son amie décide de lui confier.
+- Victoire imagine qu’on lui dira que son trouble ne se voit pas.
+- Une personne peut renoncer à parler à un ami parce qu’elle s’attend à être questionnée à chaque sortie.
+
+### Trouver une entrée demande un effort
+
+La préparation peut servir à lancer quelques mots et à laisser le reste pour une autre occasion.
+
+**Exemples concrets**
+
+- Victoire écrit le nom du trouble sur un papier qu’elle glisse dans sa poche.
+- Au moment où Lila lui demande ce qu’elle veut qu’elle sache, Victoire choisit de parler de la honte qu’elle peut ressentir après une crise.
+
+### La peur concerne la relation d’après
+
+Une confidence peut faire craindre d’être désormais considéré seulement à travers sa difficulté.
+
+**Exemples concrets**
+
+- Victoire redoute que leur prochaine conversation porte sur son repas alors qu’elles sont venues parler du rallye.
+- Lila peut entendre qu’il y a un trouble et demander ce qui aiderait dans le groupe, sans chercher à reconnaître elle-même les crises.
+
+## 3 techniques pour choisir ce qu’on confie et l’aide qu’on demande
+
+### 1. Décider du niveau de détail
+
+Parler à une personne choisie sans se sentir tenu de tout raconter.
+
+**Exercice pratique**
+
+- Identifiez ce que vous voulez que cette personne comprenne aujourd’hui.
+- Préparez une phrase pour commencer et une autre pour dire où vous voulez vous arrêter.
+- Proposez un moment où vous pouvez finir ou remettre la conversation selon votre préférence.
+
+Une limite annoncée donne de la place à une première confidence.
+
+### 2. Choisir une réponse que l’autre peut donner
+
+Passer d’une inquiétude diffuse à un appui accepté.
+
+**Exercice pratique**
+
+- Décrivez une situation ordinaire où vous voudriez un soutien.
+- Proposez des mots simples que l’autre pourrait utiliser et demandez-lui si cela lui convient.
+- Convenez de reparler de cet accord si le besoin change.
+
+Une phrase choisie ensemble est plus facile à reprendre au bon moment.
+
+### 3. Définir ce qui peut circuler
+
+Garder la main sur la confidence et réserver les soins à leur cadre.
+
+**Exercice pratique**
+
+- Dites à qui l’information peut être répétée, si vous souhaitez qu’elle le soit.
+- Convenez de ce que l’ami peut répondre aux questions du groupe.
+- Discutez avec votre équipe si vous envisagez d’associer ce proche à une partie du suivi.
+
+L’ami sait quel rôle il a accepté et la personne garde son espace pour les soins.
 
 ## Une phrase qui peut tenir sur un banc
 
 Lila dit qu’elle gardera la conversation entre elles. Elle demande si « on revient au trajet ? » conviendrait quand le groupe parle des silhouettes. Victoire préfère cette phrase à un signe dont il faudrait se rappeler le sens. Elles reviennent à la côte. Sur le plan, Victoire indique l’alternative qui permet de la contourner, puis regarde s’il lui reste assez de temps pour rapporter les clés à Idriss.
+
+---
+
+**Conclusion**
+
+Sur le banc, Victoire dit le nom du trouble et choisit avec Lila une phrase qu’elles pourront reprendre devant le groupe. Elles repartent en parlant de la côte. La confiance se vérifiera dans la façon dont cet accord sera respecté au fil de leurs rencontres.

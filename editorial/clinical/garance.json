@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "La joie d’une répétition a son contexte",
-          "text": "Une joie vive ou une soirée productive peut faire partie du cours ordinaire de l’humeur. Garance est heureuse d’avoir retrouvé son entrée après plusieurs essais. Ce plaisir s’inscrit dans la répétition et dans une relation avec les autres musiciennes. Elle peut en profiter. Si un changement lui semble durer et toucher plusieurs domaines de sa vie, elle dispose d’un cadre de suivi pour en parler."
+          "heading": "Ce que raconte la joie d’une répétition",
+          "text": "Une émotion heureuse peut naître d’un moment précis chez une personne qui vit avec un trouble bipolaire. Le type II se définit par une histoire d’épisodes hypomaniaques et dépressifs, sans épisode maniaque ou mixte. On apprécie un changement d’humeur dans le temps et avec le reste de la vie quotidienne. Ce soir, Garance peut dire ce qui l’a réjouie et retrouver le calendrier qui encadre sa décision pour le concert."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Garance vit avec un trouble bipolaire de type II déjà diagnostiqué. Dans la CIM-11, il correspond à une histoire où des épisodes hypomaniaques et dépressifs ont été établis, sans antécédent d’épisode maniaque ni mixte. Dans le type I, le parcours comporte au moins un épisode maniaque ou mixte selon cette classification. Le type II peut entraîner des difficultés importantes, notamment pendant les épisodes dépressifs. Le nom du trouble vient d’une évaluation de l’évolution de l’humeur, de l’énergie et du fonctionnement. Il ne donne pas le sens de chaque sourire."
+          "heading": "Comment la joie ordinaire trouve-t-elle sa place dans la vie de Garance ?",
+          "points": [
+            {
+              "heading": "Un moment qui a un sens",
+              "text": "Une réussite peut faire monter l’émotion très vite parce qu’elle compte pour la personne.",
+              "examples": [
+                "Garance entend les violons et retrouve l’entrée de l’alto.",
+                "Elle sourit quand les quatre mesures tiennent ensemble sans que Lise ait à les arrêter."
+              ]
+            },
+            {
+              "heading": "Les autres rythmes continuent",
+              "text": "Pour comprendre ce que représente un élan, les soignants peuvent tenir compte de ce qui reste habituel autour de lui.",
+              "examples": [
+                "Garance s’est couchée à son heure ordinaire et se souvient d’avoir peiné à se lever.",
+                "Elle prend plaisir à la valse et reporte sa réponse sur les textes au lendemain."
+              ]
+            },
+            {
+              "heading": "Une amie peut partager le plaisir",
+              "text": "L’attention d’un proche peut porter sur ce qui est vécu dans l’instant. Une inquiétude persistante se discute à un autre moment.",
+              "examples": [
+                "Éva lui demande si elle est contente après le passage.",
+                "Dans un autre contexte, quelqu’un peut proposer de rejouer un passage plutôt que d’interroger le musicien sur son humeur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la question du programme pour plus tard",
-          "text": "Avant de prendre un texte, Garance veut vérifier l’échéance du catalogue qu’elle corrige déjà. Elle peut choisir de relire une présentation écrite par quelqu’un d’autre, de s’occuper d’un morceau ou de garder seulement sa partie d’alto. Le délai donné par Lise permet de répondre sur les engagements réels. Garance pourra aussi lui dire de prévoir une autre personne si elle ne peut pas s’en charger.\n\nÉva connaît les repères que Garance a décidé de lui communiquer avec l’accord discuté en suivi. Ils servent si des changements préoccupants apparaissent. Entre deux répétitions, Éva reste une amie avec laquelle Garance peut parler du tempo, d’une bonne soirée ou d’un travail à rendre. Le NICE recommande une participation de l’entourage discutée avec la personne. Le rôle qu’elles ont prévu pour les périodes difficiles n’a pas à prendre toute la place dans leur relation."
+          "heading": "3 techniques pour faire place au plaisir et garder des repères",
+          "points": [
+            {
+              "heading": "Dire quel détail a compté",
+              "objective": "Retrouver l’objet du plaisir dans une activité choisie.",
+              "exercise": [
+                "Repérez le moment que vous auriez envie de revivre.",
+                "Dites ce qui s’est passé, par exemple le départ commun des deux pupitres.",
+                "Proposez de rejouer ou de raconter le passage à une personne qui en a envie."
+              ],
+              "benefit": "Le bon moment peut se prolonger par un échange sur l’activité."
+            },
+            {
+              "heading": "Relire un engagement à froid",
+              "objective": "Donner au calendrier sa place avant de répondre à une proposition.",
+              "exercise": [
+                "Demandez pour quand une réponse est attendue.",
+                "Vérifiez ce qui est déjà promis et quand le nouveau texte sera prêt.",
+                "Donnez votre réponse après avoir mis les deux tâches en regard."
+              ],
+              "benefit": "Il reste possible d’aimer l’idée et de choisir ensuite si l’on veut s’engager."
+            },
+            {
+              "heading": "Savoir quand la question devient clinique",
+              "objective": "Distinguer la joie d’un changement qui mérite d’être discuté.",
+              "exercise": [
+                "Si quelque chose vous interroge, décrivez la situation dans laquelle l’élan est apparu.",
+                "Repérez s’il y a aussi des changements durables dans le sommeil ou les activités.",
+                "Si le doute persiste, utilisez les repères convenus avec votre équipe pour en parler."
+              ],
+              "benefit": "Le suivi peut tenir compte d’un ensemble d’éléments sans interpréter chaque sourire."
+            }
+          ]
         }
       ],
       "ending_title": "Le chiffre au-dessus de la portée",
@@ -52,7 +108,8 @@
         "next": "Elle revient sur la charge réelle entre le catalogue, les répétitions et les repères du suivi."
       },
       "clinical_focus": "Joie ordinaire et variations de l’humeur",
-      "clinical_intro": "Garance retrouve son entrée dans la valse et se réjouit avec Éva. Dans le trouble bipolaire de type II, la dépression et l’hypomanie désignent des épisodes établis à partir de changements durables de l’humeur, de l’énergie et des activités. Le plaisir de ces quelques mesures répond à ce qui vient de se passer entre les musiciennes. Garance peut s’y attarder et décider du programme plus tard."
+      "clinical_intro": "Garance retrouve son entrée dans la valse et se réjouit avec Éva. Dans le trouble bipolaire de type II, la dépression et l’hypomanie désignent des épisodes établis à partir de changements durables de l’humeur, de l’énergie et des activités. Le plaisir de ces quelques mesures répond à ce qui vient de se passer entre les musiciennes. Garance peut s’y attarder et décider du programme plus tard.",
+      "conclusion": "Garance inscrit le numéro de la mesure et garde sa réponse à Lise pour le lendemain. Le plaisir d’entendre l’ensemble fait partie de son histoire, tout comme les épisodes dont elle parle avec ses soignants. Ce soir, l’une et l’autre questions ont leur place."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Des repères convenus à un moment calme",
-          "text": "Un plan partagé peut préciser ce que la personne veut faire et qui contacter si une inquiétude apparaît. Le NICE recommande de construire ces repères avec la personne suivie et, lorsque c’est approprié, avec les proches qu’elle choisit. Les changements qui retiennent l’attention, les modalités de contact et la réponse en cas de risque sont discutés dans le cadre des soins. Pour Garance, la pochette contient des informations de travail. Elle peut les reprendre au rendez-vous si ses besoins ou les disponibilités d’Éva changent."
+          "heading": "À quoi sert un plan de soutien ?",
+          "text": "Un plan de suivi du trouble bipolaire peut indiquer comment demander un avis lorsque des changements inquiètent et quelle place un proche accepte de tenir. Il se prépare avec l’équipe et la personne peut choisir ce qu’elle partage. Garance ouvre la pochette bleue pour comparer les coordonnées avec Éva. Les deux amies doivent aussi trouver un moment pour se parler qui convienne à leurs journées."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Garance partage la manière dont elle souhaite qu’Éva lui parle. Elle peut préciser quels faits lui semblent utiles, comme une succession de nuits très différentes ou des engagements inhabituels. Éva peut lui dire ce qu’elle observe, demander comment Garance se sent et lui rappeler le contact prévu. La lecture clinique revient aux soignants. Si la situation paraît urgente ou présente un danger immédiat, le plan indique de joindre un service d’urgence. Éva peut demander de l’aide sans attendre d’avoir compris quel épisode se dessine."
+          "heading": "Comment un plan de soutien devient-il utilisable à deux ?",
+          "points": [
+            {
+              "heading": "Les repères se précisent avant la difficulté",
+              "text": "Un plan prévoit ce qui peut amener à parler d’un changement sans interpréter chaque journée.",
+              "examples": [
+                "Garance veut qu’Éva lui pose une question si plusieurs jours lui paraissent inhabituels.",
+                "Elle préfère échanger à la sortie de la répétition qu’être appelée au milieu du morceau."
+              ]
+            },
+            {
+              "heading": "Le partage se fait page par page",
+              "text": "L’aide peut s’organiser autour d’informations choisies et limitées à ce qui est utile.",
+              "examples": [
+                "Garance montre la page des contacts et garde les autres feuilles dans la pochette.",
+                "Éva prend une photo de la page avec son accord avant de partir."
+              ]
+            },
+            {
+              "heading": "La disponibilité a des bornes",
+              "text": "Un appui concret est plus facile à utiliser si l’on sait quand il peut être proposé et quel relais est prévu le reste du temps.",
+              "examples": [
+                "Éva annonce deux soirs où elle terminera tard.",
+                "Garance garde le contact du cabinet pour les moments où elle souhaite demander un avis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer les engagements et le soutien",
-          "text": "Le texte du programme dépend du temps qu’il reste autour des corrections et des répétitions. Garance prévoit de dire à Lise qu’elle peut relire une seule notice si elle la reçoit à la date convenue. Une autre personne peut préparer le premier jet. Lise saura à qui transmettre la suite si les épreuves du catalogue arrivent plus tard. Le plan de soin peut rester dans le tiroir pendant cet échange.\n\nGarance souhaite aussi pouvoir écrire à sa psychiatre avant le prochain rendez-vous s’il y a un changement qui l’inquiète. Éva a deux soirées où elle sera difficile à joindre et peut les annoncer. Garance repère le numéro du cabinet et le contact qui figure sur le plan en dehors des horaires habituels. Elle peut examiner ces informations avec sa psychologue et les garder à portée de main. Le soutien d’Éva s’ajoute à ce cadre, avec les limites dont elles ont parlé."
+          "heading": "3 techniques pour préparer un soutien à la mesure de chacun",
+          "points": [
+            {
+              "heading": "Choisir ce qu’un proche peut vous dire",
+              "objective": "Préparer une remarque facile à recevoir et ancrée dans un fait.",
+              "exercise": [
+                "Nommez un changement dont vous aimeriez entendre parler s’il se répète.",
+                "Dites où et quand vous préféreriez avoir la conversation.",
+                "Demandez au proche si cette façon de faire lui convient."
+              ],
+              "benefit": "Le proche sait comment ouvrir la discussion sans prétendre savoir ce que le changement signifie."
+            },
+            {
+              "heading": "Mettre à part les coordonnées utiles",
+              "objective": "Permettre à chacun de retrouver l’information qu’il a accepté de garder.",
+              "exercise": [
+                "Vérifiez les coordonnées avec l’équipe.",
+                "Choisissez ensemble quelles lignes peuvent être partagées.",
+                "Convenez de la façon de transmettre la prochaine mise à jour."
+              ],
+              "benefit": "Une page courte peut suffire pour orienter un appel en gardant le reste confidentiel."
+            },
+            {
+              "heading": "Prévoir le soir où l’amie travaille",
+              "objective": "Savoir vers qui se tourner quand un appui informel n’est pas disponible.",
+              "exercise": [
+                "Demandez quand le proche est généralement joignable.",
+                "Notez avec les soignants le contact à utiliser en son absence et hors horaires habituels.",
+                "En cas de danger immédiat, utilisez le relais urgent sans attendre le retour du proche."
+              ],
+              "benefit": "L’accès aux soins ne dépend pas d’un seul horaire ni de la réponse d’Éva."
+            }
+          ]
         }
       ],
       "ending_title": "Une seule notice dans le message",
@@ -97,7 +210,8 @@
         "next": "Une succession de journées inhabituelles va lui faire utiliser le contact du cabinet avant le rendez-vous."
       },
       "clinical_focus": "Plan de soutien personnalisé",
-      "clinical_intro": "En relisant la date du catalogue, Garance mesure l’effort de ses engagements et précise ce qu’elle pourrait demander à Éva si un changement dure. Son plan de suivi relie ses signes personnels, les contacts et des aides concrètes. Elle choisit la part qu’elle confie à son amie. Les décisions cliniques gardent leur place auprès des professionnels qui l’accompagnent."
+      "clinical_intro": "En relisant la date du catalogue, Garance mesure l’effort de ses engagements et précise ce qu’elle pourrait demander à Éva si un changement dure. Son plan de suivi relie ses signes personnels, les contacts et des aides concrètes. Elle choisit la part qu’elle confie à son amie. Les décisions cliniques gardent leur place auprès des professionnels qui l’accompagnent.",
+      "conclusion": "Éva repart avec une partition et la page que Garance lui a confiée. Elles savent mieux dans quelles conditions se parler et où trouver les coordonnées. La notice proposée à Lise reste une décision de calendrier que Garance prend séparément."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revenir au changement qui dure",
-          "text": "Un changement qui persiste et se manifeste dans plusieurs activités mérite d’être décrit à un professionnel. Garance a repéré des nuits plus courtes, une activité inhabituelle et des engagements qui s’accumulent. Elle se rappelle aussi des soirées où elle parlait beaucoup après une bonne répétition et retrouvait ensuite son rythme. La comparaison l’aide à dire ce qui lui paraît nouveau dans ces derniers jours."
+          "heading": "Quand moins de sommeil accompagne plus d’activité",
+          "text": "Au cours d’une hypomanie, une personne peut se sentir très énergique malgré un besoin de sommeil réduit et se lancer dans plus d’activités qu’à l’ordinaire. L’équipe apprécie l’ensemble des changements, leur durée et leurs conséquences. Garance remarque que ses nuits écourtées vont de pair avec des propositions de travail et de musique plus nombreuses. Elle a de quoi expliquer au cabinet pourquoi cette période lui pose question."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Une nuit brève ou un devis trop vite accepté ne suffit pas à établir un épisode. Le manque de sommeil peut avoir plusieurs causes. Une évaluation examine notamment l’évolution de l’humeur, de l’énergie, du besoin de sommeil et des comportements par rapport aux habitudes de la personne. Garance peut transmettre des faits même si elle ignore leur sens. Elle dispose d’un plan convenu pour joindre son équipe lorsque plusieurs changements préoccupants se prolongent."
+          "heading": "Comment l’activité et le sommeil changent-ils en même temps ?",
+          "points": [
+            {
+              "heading": "Le matin semble commencer sans fatigue",
+              "text": "La personne peut se lever avec l’impression d’avoir de l’énergie alors qu’elle a peu dormi.",
+              "examples": [
+                "Garance se lève plusieurs jours sans la fatigue qu’elle ressent d’habitude après une nuit courte.",
+                "Elle répond à des messages avant l’aube après avoir passé une partie de la nuit sur les titres."
+              ]
+            },
+            {
+              "heading": "L’élan déborde sur plusieurs activités",
+              "text": "Un changement peut se retrouver au travail, dans les loisirs et dans les échanges avec les autres.",
+              "examples": [
+                "Un client demande un devis et Garance ajoute des textes à ses échéances.",
+                "Les autres replient les pupitres quand elle parle encore de morceaux absents du programme."
+              ]
+            },
+            {
+              "heading": "Les promesses vont plus vite que le travail",
+              "text": "L’augmentation des engagements peut être visible avant que les nouvelles tâches avancent.",
+              "examples": [
+                "Garance a ajouté trois échéances et retrouve une fenêtre qui contient toujours une page blanche.",
+                "Elle s’apprête à annoncer un nouveau délai puis le retire du brouillon."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire au cabinet et suspendre un engagement",
-          "text": "Garance peut dire à la personne qui reçoit son appel ce qu’elle a constaté, depuis quand cela dure et pourquoi elle voudrait un rendez-vous plus tôt. Elle lui transmet aussi les questions sur les textes et les décisions qu’elle commence à prendre. Si le cabinet n’est pas joignable, elle utilise le contact convenu pour la suite. En cas de danger immédiat, le recours est celui des services d’urgence.\n\nDans l’intervalle, elle peut prévenir un client qu’elle confirmera la date après avoir revu le travail à faire. Elle peut demander à Lise de garder le programme actuel et revenir sur les morceaux déjà prévus. Éva peut l’écouter et l’aider à retrouver l’heure d’un message, si Garance le souhaite. La prise en charge et toute décision concernant le traitement reviennent à l’équipe de soins. Garance peut expliquer au cabinet ce qui l’aide à attendre le rendez-vous prévu."
+          "heading": "3 techniques pour décrire l’élan inhabituel et garder les décisions ouvertes",
+          "points": [
+            {
+              "heading": "Reconstituer une matinée et une soirée",
+              "objective": "Montrer comment le sommeil et l’activité ont varié ensemble.",
+              "exercise": [
+                "Choisissez une nuit récente et l’activité qui l’a précédée.",
+                "Décrivez votre état au lever et ce que vous avez commencé ensuite.",
+                "Ajoutez un changement qui revient sur plusieurs jours."
+              ],
+              "benefit": "Ces exemples permettent à l’équipe d’examiner la période au-delà du seul nombre d’heures dormies."
+            },
+            {
+              "heading": "Laisser le prochain délai dans le brouillon",
+              "objective": "Éviter qu’une proposition devienne un engagement avant vérification.",
+              "exercise": [
+                "Relevez le dernier délai que vous étiez sur le point d’annoncer.",
+                "Mettez-le en regard des dossiers déjà ouverts et des heures de réponse des clients.",
+                "Prévenez les personnes concernées que vous reviendrez vers elles après cette vérification."
+              ],
+              "benefit": "Il reste une marge pour ajuster ce qui devra réellement être livré."
+            },
+            {
+              "heading": "Utiliser le contact préparé",
+              "objective": "Demander un avis à partir des faits qui inquiètent.",
+              "exercise": [
+                "Prenez les coordonnées notées dans votre plan de suivi.",
+                "Décrivez les changements au cabinet, y compris les tâches et le sommeil.",
+                "Demandez comment joindre l’équipe si la situation s’aggrave avant le créneau proposé."
+              ],
+              "benefit": "L’équipe peut préciser le délai de l’évaluation et le relais si le risque change."
+            }
+          ]
         }
       ],
       "ending_title": "Le brouillon reste ouvert",
@@ -142,7 +312,8 @@
         "next": "La psychiatre reprend avec elle la durée, les conséquences et ce que ces changements permettent d’établir."
       },
       "clinical_focus": "Activité accrue et sommeil réduit",
-      "clinical_intro": "Garance répond à des commandes au milieu de la nuit puis se sent en forme au lever. En quelques jours, elle accepte plusieurs délais qui se chevauchent. Pendant une hypomanie, l’augmentation de l’activité et le besoin réduit de sommeil peuvent être vécus comme un élan. La durée de ces changements et leurs conséquences lui donnent des éléments à décrire lorsqu’elle avance son rendez-vous."
+      "clinical_intro": "Garance répond à des commandes au milieu de la nuit puis se sent en forme au lever. En quelques jours, elle accepte plusieurs délais qui se chevauchent. Pendant une hypomanie, l’augmentation de l’activité et le besoin réduit de sommeil peuvent être vécus comme un élan. La durée de ces changements et leurs conséquences lui donnent des éléments à décrire lorsqu’elle avance son rendez-vous.",
+      "conclusion": "Garance laisse une promesse dans son brouillon et appelle avec plusieurs exemples. Le sommeil réduit n’est qu’une partie de ce qu’elle décrit. L’évaluation à venir donnera un sens à l’ensemble, pendant que la notice peut encore changer de mains."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un épisode s’évalue sur son évolution",
-          "text": "Une évaluation de l’humeur relie les changements dans le temps à ce que la personne vit et fait. Dans le cas de Garance, la psychiatre a repris plusieurs jours de sommeil inhabituel, d’activité accrue et de projets qui se multiplient."
+          "heading": "L’hypomanie se comprend dans une histoire clinique",
+          "text": "Une hypomanie se distingue d’une manie notamment par le degré de perturbation de la vie quotidienne. Les soignants reprennent l’évolution de l’humeur, de l’activité et du fonctionnement, ainsi que les autres causes possibles et les risques. Garance apporte un calendrier où se croisent le manque de sommeil, les dossiers et les répétitions. Sa psychiatre s’appuie sur l’entretien et sur ce qu’elle connaît de son histoire pour nommer l’épisode."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle a aussi demandé ce que Garance pouvait encore assurer et comment elle réagissait quand quelqu’un lui signalait une difficulté. L’épisode est établi à partir de ce tableau et de l’évaluation, après l’appel qui a permis d’avancer le rendez-vous.\n\nL’OMS distingue l’hypomanie de la manie par plusieurs éléments cliniques, dont le degré de perturbation du fonctionnement. La psychiatre reste attentive à cette différence dans l’histoire de Garance. Elle reprend aussi les risques présents et les circonstances qui pourraient demander une aide plus rapide. Garance peut entendre qu’elle a vécu un épisode hypomaniaque et garder le plaisir très ordinaire qu’elle a éprouvé lors de la première valse."
+          "heading": "Comment la psychiatre examine-t-elle le changement décrit par Garance ?",
+          "points": [
+            {
+              "heading": "Les habitudes donnent un point de comparaison",
+              "text": "L’évaluation commence par ce qui a changé chez cette personne dans le temps.",
+              "examples": [
+                "Garance montre à quel moment ses réponses de travail se sont déplacées vers le milieu de la nuit.",
+                "Sa psychiatre lui demande si l’énergie au lever s’est maintenue les jours suivants."
+              ]
+            },
+            {
+              "heading": "Les décisions ont des conséquences observables",
+              "text": "La façon dont les engagements sont pris et leurs effets sur le travail et les relations donnent du contexte.",
+              "examples": [
+                "Garance a proposé trois textes pour la même semaine alors que le catalogue était encore en cours.",
+                "Elle est passée chez une cliente sans rendez-vous pour proposer un travail qui n’était pas prévu."
+              ]
+            },
+            {
+              "heading": "Le soignant cherche ce qui est resté possible",
+              "text": "La capacité à reprendre un accord fait partie des éléments examinés avec le reste du tableau.",
+              "examples": [
+                "Garance a pu entendre que la cliente souhaitait maintenir le programme d’origine.",
+                "Une fois rentrée, elle s’est pourtant remise à proposer des titres malgré ce retour à l’accord initial."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revoir les engagements et convenir d’un prochain point",
-          "text": "La psychiatre et Garance parlent de la conduite à tenir et fixent un nouveau point rapproché. Elles reprennent les contacts à utiliser si Garance se sent moins capable de freiner ses décisions ou si la situation s’aggrave. Les questions sur les soins et le traitement restent dans ce cadre. Garance demande ce qu’elle doit signaler d’ici le prochain échange et comment prendre contact en dehors des heures habituelles.\n\nPour le travail, elle choisit de finir le catalogue selon le délai qu’elle peut encore tenir et d’annuler la relecture des notices supplémentaires. Elle prévient les personnes concernées sans leur expliquer sa situation médicale. Pour la répétition, elle veut conserver sa place d’altiste et renoncer aux textes du programme pendant quelque temps. Sa psychologue pourra l’aider à préparer cette demande. La décision de jouer à la prochaine séance dépend aussi de la façon dont elle se sentira et de ce qui est convenu dans son suivi."
+          "heading": "3 techniques pour préparer un entretien sur un changement d’humeur",
+          "points": [
+            {
+              "heading": "Raconter une journée du début à la fin",
+              "objective": "Donner des repères concrets sur la durée et l’activité.",
+              "exercise": [
+                "Choisissez une journée que vous pouvez décrire assez précisément.",
+                "Situez le sommeil, les échanges et les engagements qui ont changé.",
+                "Ajoutez ce qui s’est poursuivi ou modifié les jours suivants."
+              ],
+              "benefit": "L’entretien peut examiner une évolution plutôt qu’une liste de souvenirs sans ordre."
+            },
+            {
+              "heading": "Donner un exemple de retentissement",
+              "objective": "Montrer ce que les décisions ont demandé à vous et aux autres.",
+              "exercise": [
+                "Apportez un calendrier, un message ou un souvenir concret.",
+                "Expliquez ce que vous aviez promis et ce qui a été possible ensuite.",
+                "Indiquez les moments où vous avez réussi ou peiné à modifier le plan."
+              ],
+              "benefit": "Le professionnel peut relier le changement ressenti à ses effets dans la vie quotidienne."
+            },
+            {
+              "heading": "Sortir avec une question de suite résolue",
+              "objective": "Comprendre ce qui est convenu après l’évaluation.",
+              "exercise": [
+                "Demandez ce que le professionnel retient et ce qui reste à surveiller avec lui.",
+                "Vérifiez le prochain rendez-vous et le contact si la situation change plus tôt.",
+                "Séparez les décisions de soins des engagements que vous allez revoir avec les personnes concernées."
+              ],
+              "benefit": "Les réponses sur l’épisode et les tâches à reprendre ont chacune un interlocuteur."
+            }
+          ]
         }
       ],
       "ending_title": "Le catalogue reste dans la colonne du milieu",
@@ -187,7 +414,8 @@
         "next": "Elle choisit ce qu’elle veut dire à Lise pour rester dans l’ensemble sans porter les textes du programme."
       },
       "clinical_focus": "Évaluation clinique de l’hypomanie",
-      "clinical_intro": "Au cabinet, Garance reprend plusieurs jours de nuits courtes et de travail accéléré. Sa psychiatre examine ce que Garance pouvait encore assurer et les conséquences de ses engagements. Dans la CIM-11, l’hypomanie et la manie se distinguent notamment par la gravité et le retentissement du tableau. Replacer les décisions dans le déroulement de ses journées aide à comprendre ce que la psychiatre appelle un épisode hypomaniaque."
+      "clinical_intro": "Au cabinet, Garance reprend plusieurs jours de nuits courtes et de travail accéléré. Sa psychiatre examine ce que Garance pouvait encore assurer et les conséquences de ses engagements. Dans la CIM-11, l’hypomanie et la manie se distinguent notamment par la gravité et le retentissement du tableau. Replacer les décisions dans le déroulement de ses journées aide à comprendre ce que la psychiatre appelle un épisode hypomaniaque.",
+      "conclusion": "L’évaluation permet à Garance de nommer une période d’hypomanie et d’examiner ses engagements. Elle garde le catalogue, revient à l’accord initial avec sa cliente et demande à voir Lise. Le plaisir de jouer la valse lui avait apporté autre chose et garde sa place."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Parler d’une tâche avec les personnes concernées",
-          "text": "Une personne peut demander un changement pratique et choisir les informations de santé qu’elle partage. Garance explique à Lise les dates, les textes et sa place au pupitre. Éva a reçu avec son accord une partie du plan de suivi. Lise a besoin de savoir qui prépare la notice et comment organiser une répétition si une personne manque. Chacune peut participer à sa manière avec les renseignements dont elle a besoin.\n\nLe NICE recommande de discuter des informations partagées avec les proches et des limites de cet échange."
+          "heading": "Après l’hypomanie, les engagements restent à reprendre",
+          "text": "Les engagements pris pendant une hypomanie peuvent dépasser ce que la personne juge possible une fois l’épisode passé. Les revoir peut faire partie de la reprise. Garance veut rendre la notice qu’elle a entamée tout en gardant sa partie d’alto. Elle doit pouvoir faire ces deux choix avec Lise et décider séparément si elle veut parler de sa santé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans l’ensemble amateur, Garance choisit ce qu’elle veut dire et à qui. Si elle souhaite demander un autre arrangement plus tard, elle pourra le faire à partir d’un besoin précis. Elle garde le droit de parler de son diagnostic avec Lise si elle en a envie. L’accord sur les pupitres et les dates peut se prendre dès aujourd’hui."
+          "heading": "Comment les engagements de l’hypomanie continuent-ils de peser après l’épisode ?",
+          "points": [
+            {
+              "heading": "Le travail promis se retrouve sur la table",
+              "text": "Le retour au rythme habituel laisse des tâches déjà annoncées à d’autres personnes.",
+              "examples": [
+                "Garance arrive avec une notice inachevée qu’elle avait accepté de préparer.",
+                "La date de livraison du catalogue compte encore quand Lise lui demande ce qui change."
+              ]
+            },
+            {
+              "heading": "La honte risque d’emporter une activité choisie",
+              "text": "On peut craindre qu’en rendant une tâche, on perde aussi une place à laquelle on tient.",
+              "examples": [
+                "Garance prépare des explications pour dire qu’elle arrête les textes.",
+                "Quand Lise demande qui doit jouer l’entrée, Garance regarde ses quatre mesures et dit qu’elle les veut."
+              ]
+            },
+            {
+              "heading": "L’accord se construit autour de la prochaine séance",
+              "text": "Un aménagement précis permet de revoir les engagements sans devoir exposer toute l’histoire de l’épisode.",
+              "examples": [
+                "Garance demande le calendrier dans le même fil que les partitions.",
+                "L’autre alto peut avoir les indications de reprise si Garance doit quitter une répétition."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir comment transmettre une partition",
-          "text": "Lise et Garance peuvent choisir un moyen simple de signaler une absence. Lise garde le calendrier et les partitions à jour. Garance lui écrit si elle compte quitter une répétition plus tôt. La personne qui tient l’autre alto pourra lire les indications utiles au pupitre. Ces gestes facilitent le travail de l’ensemble. La suite du suivi de Garance continue auprès de sa psychiatre et de sa psychologue.\n\nLise a aussi ses limites. Elle a besoin de connaître assez tôt les personnes qui seront présentes et peut expliquer quelle partie doit être répétée avec chacune. Elles conviennent de reprendre l’accord si les besoins du concert changent. Garance peut proposer de venir pour la valse et décider plus tard du reste. Une autre personne prendra la notice. Si Éva souhaite lui donner un appui dans une situation difficile, elles peuvent revenir séparément sur ce qu’elles avaient convenu."
+          "heading": "3 techniques pour revoir des engagements après une hypomanie",
+          "points": [
+            {
+              "heading": "Trier les tâches que l’on veut garder",
+              "objective": "Choisir ce qui est tenable et ce qui peut être rendu.",
+              "exercise": [
+                "Écrivez les tâches déjà promises avec leurs dates.",
+                "Entourez celle que vous avez encore envie et la possibilité de tenir.",
+                "Pour une autre, demandez un relais en montrant ce qui a déjà été fait."
+              ],
+              "benefit": "Un travail commencé peut être repris par quelqu’un sans faire disparaître votre autre contribution."
+            },
+            {
+              "heading": "Dire ce dont le groupe a besoin",
+              "objective": "Organiser la suite sans être obligé de parler de son diagnostic.",
+              "exercise": [
+                "Choisissez le besoin pratique à annoncer, comme un calendrier au même endroit que la partition.",
+                "Dites ce que vous pouvez assurer et quand vous préviendrez si cela change.",
+                "Gardez les éléments personnels pour les interlocuteurs de votre choix."
+              ],
+              "benefit": "Les autres peuvent organiser la répétition avec les renseignements utiles."
+            },
+            {
+              "heading": "Mettre le relais au pupitre",
+              "objective": "Rendre possible une présence qui peut varier d’une séance à l’autre.",
+              "exercise": [
+                "Identifiez le passage qu’une autre personne devra connaître.",
+                "Montrez-lui vos repères et vérifiez qu’elle accepte de prendre la suite.",
+                "Convenez avec la cheffe d’ensemble de la façon de signaler une absence."
+              ],
+              "benefit": "Le groupe dispose d’une solution concrète et Garance garde une façon d’être au pupitre."
+            }
+          ]
         }
       ],
       "ending_title": "Lise emporte la notice",
@@ -232,7 +516,8 @@
         "next": "Après quelques semaines, l’accès à une répétition qu’elle aime devient difficile pour d’autres raisons."
       },
       "clinical_focus": "Ajustement des engagements après l’hypomanie",
-      "clinical_intro": "Garance a promis une notice et veut encore jouer de l’alto. Après l’épisode hypomaniaque, elle revoit avec Lise ce qu’elle peut tenir et ce qu’elle souhaite déléguer. Les engagements pris pendant une période d’activité inhabituelle peuvent avoir des conséquences après celle-ci. Distinguer sa place de musicienne du travail de préparation lui permet de préserver une activité qui compte et de choisir ce qu’elle dit de sa santé."
+      "clinical_intro": "Garance a promis une notice et veut encore jouer de l’alto. Après l’épisode hypomaniaque, elle revoit avec Lise ce qu’elle peut tenir et ce qu’elle souhaite déléguer. Les engagements pris pendant une période d’activité inhabituelle peuvent avoir des conséquences après celle-ci. Distinguer sa place de musicienne du travail de préparation lui permet de préserver une activité qui compte et de choisir ce qu’elle dit de sa santé.",
+      "conclusion": "La notice part avec Lise et la partition reste ouverte devant Garance. Revoir une promesse après l’hypomanie lui permet de garder une part du projet qu’elle choisit. Le calendrier partagé sera aussi là si sa capacité à venir change de nouveau."
     },
     {
       "number": 6,
@@ -249,18 +534,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un moment agréable au milieu de jours difficiles",
-          "text": "Un moment de plaisir peut subsister au cours d’une période où les activités ordinaires deviennent difficiles. Garance a aimé une partie de la valse. Depuis plusieurs jours, elle constate aussi une baisse d’élan, des tâches reportées et des difficultés à terminer son travail. Elle peut décrire les deux expériences dans le même entretien. L’évaluation d’un éventuel épisode dépressif tient compte de l’évolution, du retentissement et de l’ensemble des difficultés."
+          "heading": "La baisse d’élan peut laisser des moments de plaisir",
+          "text": "La dépression peut rendre difficile le démarrage d’activités ordinaires ou attendues, alors même que certains moments font encore plaisir. Un professionnel examine comment ces difficultés s’installent et ce qu’elles changent au fil des jours. Garance retarde des courses et des réponses de travail. Elle rit pourtant à la répétition. Les deux expériences ont leur place lorsqu’elle demande un échange plus tôt."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Garance a traversé une période où elle a été très active. La baisse actuelle ne peut pas être déduite automatiquement de cette période. Un professionnel peut reprendre avec elle ce qu’elle vit et les autres éléments qui peuvent y contribuer. Le NICE recommande de demander une réévaluation si des symptômes dépressifs s’aggravent ou si la personne se sent en difficulté. Garance peut expliquer qu’elle hésite à attendre le prochain rendez-vous. Le cabinet pourra préciser la suite."
+          "heading": "Comment une perte d’élan se voit-elle avant et après la répétition ?",
+          "points": [
+            {
+              "heading": "Commencer demande davantage",
+              "text": "Une tâche familière peut rester devant soi alors que les étapes pour s’y mettre sont connues.",
+              "examples": [
+                "Garance laisse le dossier à joindre en attente.",
+                "Elle reporte aussi les courses les jours où le courrier des clients est calme."
+              ]
+            },
+            {
+              "heading": "Aller vers les autres prend une préparation",
+              "text": "L’envie de retrouver une activité peut être présente sans suffire à sortir de chez soi.",
+              "examples": [
+                "Garance ne retrouve pas au réveil l’envie de jouer qu’elle avait la veille.",
+                "Avant d’envoyer sa réponse à Lise, elle demande à Éva de l’attendre à l’entrée."
+              ]
+            },
+            {
+              "heading": "Le plaisir d’un passage ne donne pas l’énergie du reste",
+              "text": "Une expérience agréable peut rester brève au milieu d’une journée coûteuse.",
+              "examples": [
+                "Garance rit quand Éva décale une note et retrouve avec elle l’entrée.",
+                "Elle referme sa partition à la pause, avec trop peu d’attention pour jouer la suite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce qui est devenu plus difficile",
-          "text": "Garance peut noter une situation au travail, une tâche à la maison et ce qui s’est passé pendant la répétition. Une phrase peut suffire pour chacun de ces exemples. Elle choisit de signaler au cabinet que son quotidien devient plus difficile. Si elle souhaite aussi en parler à sa psychologue, elle peut revenir sur le moment où elle a pu demander à Éva de l’attendre. Le plaisir du passage musical a sa place dans ce récit.\n\nLise peut garder l’accord sur le départ anticipé et préciser quand la valse sera rejouée. Éva peut proposer à Garance de l’attendre à l’entrée si l’horaire lui convient. Garance peut venir, choisir une partie ou rentrer. Si sa situation s’aggrave avant le rendez-vous, elle peut utiliser les contacts convenus. En cas de danger immédiat, l’aide urgente prend la priorité sur le travail et la répétition."
+          "heading": "3 techniques pour traverser une baisse d’élan qui dure",
+          "points": [
+            {
+              "heading": "Raccourcir la démarche sans effacer la difficulté",
+              "objective": "Choisir une première action à portée pour le travail du jour.",
+              "exercise": [
+                "Repérez la personne qui attend une réponse.",
+                "Dites en une phrase ce que vous pouvez encore tenir.",
+                "Gardez une note sur ce qui vous empêche de faire la suite afin d’en parler au soignant."
+              ],
+              "benefit": "Le client reçoit une information et l’effort du jour reste visible dans le suivi."
+            },
+            {
+              "heading": "Préparer un début et un point d’arrêt",
+              "objective": "Essayer une partie de l’activité que l’on tient à retrouver.",
+              "exercise": [
+                "Choisissez le passage auquel vous aimeriez assister ou jouer.",
+                "Demandez un appui précis, comme quelqu’un à l’entrée, et convenez du moment du départ.",
+                "Laissez la prochaine séance ouverte si vous ne savez pas encore comment vous vous sentirez."
+              ],
+              "benefit": "La répétition peut contenir un bon moment sans devenir un engagement pour toutes les semaines."
+            },
+            {
+              "heading": "Demander un entretien plus tôt",
+              "objective": "Faire connaître un retentissement qui s’installe.",
+              "exercise": [
+                "Notez une tâche devenue difficile et une rencontre qui vous a encore fait du bien.",
+                "Indiquez depuis quand vos journées ont changé.",
+                "Transmettez ces éléments au cabinet et demandez quel contact utiliser si la situation s’aggrave."
+              ],
+              "benefit": "Le professionnel dispose d’exemples pour apprécier l’évolution avec vous."
+            }
+          ]
         }
       ],
       "ending_title": "Le fichier et le message au cabinet",
@@ -277,7 +618,8 @@
         "next": "Elle apporte le moment de la valse et le retentissement de ces jours difficiles à l’évaluation."
       },
       "clinical_focus": "Perte d’élan dépressive",
-      "clinical_intro": "Garance reste longtemps devant son bureau et hésite à sortir l’alto. À la répétition, une partie de la valse lui plaît encore. Dans un épisode dépressif, la motivation et l’énergie peuvent diminuer dans plusieurs domaines, avec des moments agréables qui subsistent. Le contraste aide Garance à décrire ce qu’il lui faut pour venir jouer et ce qu’elle éprouve lorsqu’elle y arrive."
+      "clinical_intro": "Garance reste longtemps devant son bureau et hésite à sortir l’alto. À la répétition, une partie de la valse lui plaît encore. Dans un épisode dépressif, la motivation et l’énergie peuvent diminuer dans plusieurs domaines, avec des moments agréables qui subsistent. Le contraste aide Garance à décrire ce qu’il lui faut pour venir jouer et ce qu’elle éprouve lorsqu’elle y arrive.",
+      "conclusion": "La valse fait encore rire Garance et le fichier reste difficile à envoyer. Elle raconte ces deux choses sans attendre de décider ce qu’elles signifient. Son message au cabinet ouvre un échange sur la durée et le retentissement de la baisse d’élan."
     },
     {
       "number": 7,
@@ -294,18 +636,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une évaluation qui tient ensemble des expériences différentes",
-          "text": "Un épisode dépressif s’apprécie dans le temps et au regard de ses conséquences sur la vie de la personne. La psychiatre de Garance a repris ce qui s’est installé, son retentissement et les questions de sécurité. Un instant de plaisir peut avoir sa place dans ce tableau."
+          "heading": "Évaluer une dépression dans la durée",
+          "text": "Un épisode dépressif s’apprécie à partir de l’évolution des difficultés, de leurs conséquences et de la sécurité de la personne. Dans le trouble bipolaire de type II, la souffrance dépressive peut être importante. Un bon moment ne suffit pas à contredire ce qui se passe les autres jours. La psychiatre reprend avec Garance le rire à la répétition, le travail et ce qui devient difficile pour prendre soin d’elle."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Garance peut aussi parler de ce qui l’aide encore à garder un contact avec les autres, même si les tâches du jour restent difficiles.\n\nDans le trouble bipolaire de type II, les épisodes dépressifs peuvent être sévères. La distinction avec le type I porte sur l’histoire des épisodes, selon la CIM-11. Elle ne mesure pas à elle seule la souffrance ou le risque pendant une période dépressive. Le NICE recommande de revoir les soins si les difficultés s’aggravent et de prévoir un relais adapté au niveau de risque. La psychiatre peut actualiser le plan avec Garance au fil de leur échange."
+          "heading": "Comment l’évaluation réunit-elle les bons moments et les jours difficiles ?",
+          "points": [
+            {
+              "heading": "La consultation explore l’intervalle entre deux activités",
+              "text": "Une période ne se résume pas à ce qui se passe quand la personne arrive à une répétition.",
+              "examples": [
+                "La psychiatre demande ce qui est arrivé depuis que les tâches ont commencé à s’accumuler.",
+                "Garance explique qu’elle cuisine rarement les jours où elle doit travailler."
+              ]
+            },
+            {
+              "heading": "Le plaisir donne une information utile",
+              "text": "La possibilité de rire ou d’aimer une musique éclaire aussi ce que la personne veut garder.",
+              "examples": [
+                "Garance montre la ligne où elle a noté le rire avec Éva.",
+                "Elle décrit le plaisir du passage et le départ qu’elle savait déjà nécessaire à la pause."
+              ]
+            },
+            {
+              "heading": "La sécurité se discute directement",
+              "text": "Des questions claires permettent de préparer la suite si la situation devient plus difficile.",
+              "examples": [
+                "La psychiatre aborde avec Garance la façon dont elle prend soin d’elle et les questions de sécurité.",
+                "Garance vérifie qui contacter un soir où sa situation s’aggrave."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir le prochain contact et la part du projet qui reste ouverte",
-          "text": "Garance parle avec la psychiatre des options de prise en charge et de ce qu’elle attend d’elles. Après cette discussion, la psychiatre adapte le traitement prescrit, précise les effets à signaler et fixe un point rapproché. Garance pourra aussi parler avec sa psychologue de la difficulté à répondre aux demandes et de ce qu’elle souhaite garder de ses relations. L’équipe indique quels contacts utiliser si elle se sent moins en sécurité avant le rendez-vous.\n\nPour l’ensemble, Garance souhaite recevoir le calendrier et décider de sa présence à mesure que les dates approchent. Elle peut dire à Lise qu’elle ne donnera pas de réponse pour toutes les répétitions ce jour-là. Si elle veut demander à Éva de l’accompagner à l’entrée, elles préciseront ce que l’une peut proposer et ce que l’autre souhaite accepter. Garance garde la possibilité d’écouter une répétition sans jouer. Le choix se fera selon ses envies et ce qu’elle traverse."
+          "heading": "3 techniques pour prendre part à une évaluation de la dépression",
+          "points": [
+            {
+              "heading": "Apporter la page entière",
+              "objective": "Donner au professionnel une image nuancée de la période.",
+              "exercise": [
+                "Notez une difficulté qui se répète et le moment où elle est apparue.",
+                "Ajoutez un instant agréable si vous en avez vécu un.",
+                "Dites ce qui s’est passé avant et après chacun des deux moments."
+              ],
+              "benefit": "L’évaluation dispose du contexte et du retentissement plutôt que d’une impression isolée."
+            },
+            {
+              "heading": "Faire préciser les soins et le prochain échange",
+              "objective": "Comprendre les décisions qui se prennent avec le prescripteur.",
+              "exercise": [
+                "Demandez ce qui a été retenu et les options discutées.",
+                "Vérifiez la date du point suivant et les changements qu’il faut signaler.",
+                "Notez la marche à suivre avec l’équipe si la sécurité se dégrade avant ce point."
+              ],
+              "benefit": "Le plan de soins et son recours urgent restent accessibles en dehors du cabinet."
+            },
+            {
+              "heading": "Choisir une façon de rester en lien",
+              "objective": "Garder un échange compatible avec l’énergie disponible aujourd’hui.",
+              "exercise": [
+                "Choisissez une personne et un moment qui vous feraient plaisir.",
+                "Proposez un format limité, comme entendre une mesure au téléphone.",
+                "Laissez ouverte votre réponse sur la prochaine rencontre de groupe."
+              ],
+              "benefit": "Un lien peut rester possible pendant que les soins s’organisent."
+            }
+          ]
         }
       ],
       "ending_title": "Le contact près de la date",
@@ -322,7 +720,8 @@
         "next": "Un changement ressenti après l’adaptation du traitement lui donne une question à poser au cabinet."
       },
       "clinical_focus": "Évaluation d’un épisode dépressif",
-      "clinical_intro": "La psychiatre écoute Garance raconter les tâches qu’elle reporte et les quelques mesures qu’elle a aimées. Dans le trouble bipolaire de type II, les épisodes dépressifs peuvent peser fortement sur la vie quotidienne. L’évaluation tient compte de ce qui a changé dans la durée, de la sécurité et des activités encore possibles. Le plaisir à la répétition est un renseignement qui s’ajoute aux autres."
+      "clinical_intro": "La psychiatre écoute Garance raconter les tâches qu’elle reporte et les quelques mesures qu’elle a aimées. Dans le trouble bipolaire de type II, les épisodes dépressifs peuvent peser fortement sur la vie quotidienne. L’évaluation tient compte de ce qui a changé dans la durée, de la sécurité et des activités encore possibles. Le plaisir à la répétition est un renseignement qui s’ajoute aux autres.",
+      "conclusion": "La psychiatre retient un épisode dépressif et précise avec Garance le prochain contact. La ligne sur le rire reste dans le récit de cette période. Garance peut demander à entendre la valse une autre fois et laisser jeudi sans engagement."
     },
     {
       "number": 8,
@@ -339,18 +738,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Décrire ce qui a changé sans en décider la cause",
-          "text": "Un effet ressenti pendant un traitement mérite une discussion avec le professionnel qui le prescrit. Garance remarque une somnolence au moment de se mettre au travail. Elle peut préciser quand elle l’a repérée, ce que cela change et les autres éléments qui lui semblent pertinents. Le lien avec l’adaptation du traitement doit être examiné. L’épisode dépressif, le sommeil et d’autres causes possibles ont aussi leur place dans la discussion.\n\nLe NICE recommande d’examiner avec la personne les effets et les difficultés d’un traitement lors du suivi."
+          "heading": "La somnolence devient une question de suivi",
+          "text": "Une somnolence nouvelle pendant un traitement peut être un effet indésirable. Le sommeil, l’épisode dépressif ou d’autres causes peuvent aussi contribuer à ce que la personne éprouve. Le prescripteur examine le contexte et ce que la gêne change au quotidien. Garance veut faire décrire ses matins difficiles avant de décider avec sa psychiatre de la suite du traitement."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Garance peut demander ce qu’elle doit signaler, à quel moment et à qui. Elle poursuit les soins selon les modalités convenues. Toute adaptation de la prise du traitement se décide avec sa psychiatre. Si les symptômes s’aggravent rapidement ou si elle se trouve en danger, le plan de soins indique quel relais urgent solliciter."
+          "heading": "Comment la somnolence devient-elle visible dans une journée de travail ?",
+          "points": [
+            {
+              "heading": "La précision baisse sur une tâche familière",
+              "text": "Une gêne peut se remarquer dans des erreurs inhabituelles plutôt que dans une sensation facile à nommer.",
+              "examples": [
+                "Garance barre le même mot sur deux versions de l’épreuve.",
+                "Elle laisse le crayon de côté alors qu’elle devait reprendre la correction."
+              ]
+            },
+            {
+              "heading": "L’horaire de la gêne devient un indice utile",
+              "text": "Le moment où la somnolence commence ou persiste renseigne le prescripteur.",
+              "examples": [
+                "Ce matin-là, Garance s’assoit avec son café et n’ouvre pas le dossier.",
+                "Elle remarque des jours où l’impression d’être mal réveillée continue après le déjeuner."
+              ]
+            },
+            {
+              "heading": "Toutes les tâches ne demandent pas le même effort",
+              "text": "On peut encore répondre à une question courte et ne pas être en mesure d’assurer une séance ou une longue relecture.",
+              "examples": [
+                "Garance distingue le signe de Lise en agrandissant la photo de la partition.",
+                "Elle garde la question du déplacement et de la répétition entière ouverte."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Alléger une journée en attendant la réponse",
-          "text": "Garance peut prévenir le client qu’elle décalera la relecture de ce matin. Elle peut aussi distinguer la question envoyée par Éva de sa présence à la répétition. Lire le signe sur une photo lui demande quelques minutes. Se rendre dans la salle et y rester lui demande davantage. Elle peut donner à son amie l’information qu’elle a trouvée et dire qu’elle décidera plus tard pour jeudi.\n\nÉva n’a pas besoin de savoir ce qui a changé dans le traitement. Si Garance en parle, elle peut lui demander si elle veut une présence pendant l’appel ou préfère envoyer seule son message. Garance garde sa conversation médicale avec le cabinet. Elle choisit ce qu’elle peut faire ensuite, en tenant compte de la réponse reçue et de l’état qu’elle constate."
+          "heading": "3 techniques pour signaler une somnolence qui gêne le quotidien",
+          "points": [
+            {
+              "heading": "Décrire une heure et un geste",
+              "objective": "Montrer quand la difficulté arrive et ce qu’elle empêche.",
+              "exercise": [
+                "Relevez le moment de la journée où elle est la plus visible.",
+                "Choisissez une tâche retardée ou une erreur inhabituelle à raconter.",
+                "Dites depuis quand elle se produit et ce qui a changé autour du sommeil ou des soins."
+              ],
+              "benefit": "Le prescripteur peut examiner plusieurs explications à partir de faits situés."
+            },
+            {
+              "heading": "Avancer la question au cabinet",
+              "objective": "Obtenir un avis sans changer seul le traitement.",
+              "exercise": [
+                "Envoyez vos observations par le canal convenu.",
+                "Demandez si elles justifient un échange plus tôt et quand signaler une aggravation.",
+                "Gardez le traitement tel que prescrit jusqu’à une décision avec la psychiatre."
+              ],
+              "benefit": "La gêne peut être examinée même avant le rendez-vous initialement prévu."
+            },
+            {
+              "heading": "Limiter une réponse à ce qui est possible",
+              "objective": "Séparer une aide ponctuelle d’une nouvelle charge.",
+              "exercise": [
+                "Repérez la question à laquelle vous pouvez répondre aujourd’hui.",
+                "Donnez l’information sans promettre une présence ni un autre texte.",
+                "Prévenez si une tâche déjà engagée doit être déplacée."
+              ],
+              "benefit": "La somnolence peut peser sur une partie de la journée sans que toute contribution doive s’arrêter."
+            }
+          ]
         }
       ],
       "ending_title": "Une réponse pour la partition, une autre au cabinet",
@@ -367,7 +822,8 @@
         "next": "Un soir où sa sécurité l’inquiète, elle utilise le relais prévu sans attendre le prochain point."
       },
       "clinical_focus": "Somnolence et suivi du traitement",
-      "clinical_intro": "Après une adaptation de son traitement, Garance remarque qu’elle a du mal à garder les yeux ouverts au moment de relire son catalogue. Le moment où la somnolence apparaît et son effet concret sur le travail aident l’équipe à examiner ses causes possibles. Garance peut aussi raconter son sommeil et son humeur. Elle sait ainsi quoi décrire au cabinet pour revoir la suite avec la prescriptrice."
+      "clinical_intro": "Après une adaptation de son traitement, Garance remarque qu’elle a du mal à garder les yeux ouverts au moment de relire son catalogue. Le moment où la somnolence apparaît et son effet concret sur le travail aident l’équipe à examiner ses causes possibles. Garance peut aussi raconter son sommeil et son humeur. Elle sait ainsi quoi décrire au cabinet pour revoir la suite avec la prescriptrice.",
+      "conclusion": "Garance obtient un échange plus tôt et répond à Éva sur le signe photographié. Une réponse utile à l’amie ne résout pas la question de la somnolence. Celle-ci reste au cabinet, où Garance pourra décrire ce que les matins lui coûtent."
     },
     {
       "number": 9,
@@ -384,18 +840,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une inquiétude de sécurité appelle une réponse immédiate",
-          "text": "Quand une personne craint de se faire du mal ou de ne plus rester en sécurité, une aide urgente prend le relais. Garance dit clairement ce qui l’inquiète. Elle peut joindre les services d’urgence et expliquer où elle se trouve. Le prochain rendez-vous et les décisions concernant la répétition attendront. L’évaluation du risque et la réponse immédiate reviennent aux professionnels qui prennent l’appel.\n\nLe NICE recommande d’avoir prévu avec la personne les contacts utiles lorsque le risque augmente."
+          "heading": "Des idées suicidaires qui imposent un relais",
+          "text": "Des idées de suicide qui deviennent envahissantes ou la crainte de ne plus rester en sécurité justifient une aide urgente. Elles peuvent survenir pendant un épisode dépressif, notamment dans le trouble bipolaire. Le plan de Garance l’aide à retrouver une marche à suivre. Son appel aux services d’urgence permet à des professionnels d’évaluer la situation et d’organiser la réponse sans attendre le prochain rendez-vous."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le plan de Garance lui donne un point de départ. Elle peut aussi demander de l’aide urgente si elle ne retrouve pas le plan. Son amie n’a pas à établir la gravité de l’épisode. Elle peut prendre au sérieux les mots de Garance, aider à établir le contact et solliciter elle-même les secours si l’appel n’aboutit pas ou si Garance ne peut plus le faire."
+          "heading": "Comment l’urgence devient-elle perceptible dans cette soirée ?",
+          "points": [
+            {
+              "heading": "La détresse prend plus de place que ce qui était prévu",
+              "text": "Une préoccupation immédiate de sécurité change la priorité de la soirée.",
+              "examples": [
+                "Garance essaie de relire la date de répétition pendant que les pensées de mort deviennent envahissantes.",
+                "Elle a du mal à imaginer rester seule jusqu’au lendemain et ferme la conversation de l’ensemble."
+              ]
+            },
+            {
+              "heading": "La personne peut dire qu’elle ne se sent plus en sécurité",
+              "text": "Des mots directs permettent au proche de comprendre qu’une aide urgente est nécessaire.",
+              "examples": [
+                "Garance dit à Éva qu’elle a des idées de suicide.",
+                "Elle précise qu’elle craint de ne pas rester en sécurité ce soir et indique où elle se trouve."
+              ]
+            },
+            {
+              "heading": "Le contact professionnel remplace l’attente",
+              "text": "Le plan aide à retrouver le bon relais. Même sans lui sous la main, on peut appeler les services d’urgence.",
+              "examples": [
+                "Garance retrouve la page des contacts et appelle aussitôt après l’échange avec Éva.",
+                "La personne qui répond vérifie son adresse pendant qu’une intervention est organisée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser l’équipe prendre la suite",
-          "text": "Éva peut parler à Garance pendant le temps nécessaire pour enclencher le relais, dans la mesure de ce qu’elle peut faire. Si les professionnels lui posent des questions utiles, elle peut transmettre ce qu’elle connaît de la situation et les coordonnées nécessaires. Elle a aussi le droit de dire où s’arrête son aide et de demander ce qu’elle peut faire ensuite. Les informations données pour obtenir de l’aide n’ont aucune raison de circuler dans le groupe de musique.\n\nAprès la réponse urgente, Garance pourra examiner avec son équipe ce qu’elle souhaite garder ou ajouter au plan. Elle pourra aussi choisir qui elle veut informer et à quel moment. Lise a seulement besoin de savoir si Garance peut prendre sa place à la prochaine répétition. Une autre personne pourra lui répondre avec son accord. Le concert reste un projet auquel Garance pourra revenir selon son état et ses choix."
+          "heading": "3 techniques pour passer rapidement le relais en cas de danger",
+          "points": [
+            {
+              "heading": "Appeler les services d’urgence",
+              "objective": "Obtenir une aide immédiate quand votre sécurité est en jeu.",
+              "exercise": [
+                "Appelez les services d’urgence sans attendre le prochain rendez-vous.",
+                "Dites où vous êtes et nommez les idées suicidaires et votre inquiétude pour votre sécurité.",
+                "Suivez les consignes du service joint."
+              ],
+              "benefit": "Les professionnels peuvent organiser une réponse adaptée à la situation du moment."
+            },
+            {
+              "heading": "Aider une personne à établir le contact",
+              "objective": "Passer la main rapidement quand un proche dit ne plus se sentir en sécurité.",
+              "exercise": [
+                "Prenez ses mots au sérieux et demandez où elle se trouve.",
+                "Aidez-la à appeler les secours ou appelez vous-même si elle ne peut pas le faire.",
+                "Donnez aux secours les renseignements utiles et suivez leurs indications."
+              ],
+              "benefit": "Le proche contribue au relais sans devoir évaluer ou gérer la crise seul."
+            },
+            {
+              "heading": "Revenir sur le relais après la réponse urgente",
+              "objective": "Préparer la suite des soins quand les professionnels ont repris la situation.",
+              "exercise": [
+                "Redemandez à l’équipe quel contact utiliser si la crainte revient.",
+                "Dites ce qui a été accessible ou difficile au moment d’appeler.",
+                "Si une absence doit être signalée, choisissez qui peut le faire et ce qui peut être dit."
+              ],
+              "benefit": "Le plan se précise à partir de ce qui s’est passé, et le groupe reçoit seulement l’information nécessaire."
+            }
+          ]
         }
       ],
       "ending_title": "Une voix reprend l’adresse avec elle",
@@ -412,7 +924,8 @@
         "next": "Après la réponse urgente et la poursuite du suivi, Garance réexamine sa place dans le concert à son rythme."
       },
       "clinical_focus": "Idées suicidaires et recours urgent",
-      "clinical_intro": "Garance craint pour sa sécurité et le dit à Éva. Elle contacte les secours prévus dans son plan. Une aggravation dépressive peut s’accompagner d’idées suicidaires qui demandent une réponse urgente. Les professionnels évaluent la situation et prennent en charge la suite. Éva peut être présente, puis transmettre l’absence au groupe de musique avec l’accord de Garance."
+      "clinical_intro": "Garance craint pour sa sécurité et le dit à Éva. Elle contacte les secours prévus dans son plan. Une aggravation dépressive peut s’accompagner d’idées suicidaires qui demandent une réponse urgente. Les professionnels évaluent la situation et prennent en charge la suite. Éva peut être présente, puis transmettre l’absence au groupe de musique avec l’accord de Garance.",
+      "conclusion": "Garance parle de sa crainte, appelle et laisse les professionnels prendre la suite. Le calendrier du concert peut attendre. Lorsqu’elle demande plus tard à Éva de prévenir Lise, elle décide elle-même de ce que l’ensemble a besoin de savoir."
     },
     {
       "number": 10,
@@ -429,18 +942,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revenir à une activité par une part choisie",
-          "text": "La reprise d’une activité peut se préparer à partir de ce que la personne souhaite y retrouver. Garance a envie de jouer un passage et d’entendre les autres. Elle peut aussi écouter, partir à la pause ou décider le jour même que cela lui coûte trop. L’ensemble peut organiser la répétition avec cette possibilité."
+          "heading": "Revenir à une activité après la crise",
+          "text": "Après une crise dépressive, le retour à une activité peut se préparer par une contribution choisie, en parallèle du suivi. L’envie de retrouver la musique peut revenir avant que toute une soirée soit à portée. Garance veut entendre l’ensemble et jouer huit mesures. Lise peut préparer cette possibilité avec une autre altiste, tandis que les questions de sécurité et de soins gardent leur place auprès de l’équipe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’objectif de Garance est une place qu’elle juge tenable à ce moment de son suivi.\n\nLe NICE invite à discuter des objectifs personnels et des appuis qui aident à les poursuivre. Garance continue de voir sa psychiatre et sa psychologue. Elles peuvent revenir sur la période de risque, les questions de traitement et la façon dont Garance reprend ses activités. La répétition ne donne pas une mesure de sa sécurité pour les jours suivants. Si des inquiétudes reviennent, Garance sait vers quels contacts professionnels se tourner."
+          "heading": "Comment se dessine une reprise qui tient compte de l’après-crise ?",
+          "points": [
+            {
+              "heading": "Une envie précise revient avant le reste",
+              "text": "Une activité familière peut redevenir attirante par une partie précise.",
+              "examples": [
+                "Garance repère que son entrée est encore au même endroit malgré les deux pages modifiées.",
+                "Elle veut entendre la valse dans la salle et jouer les mesures qui répondent aux violons."
+              ]
+            },
+            {
+              "heading": "La possibilité de s’arrêter fait partie de l’accord",
+              "text": "Un essai peut être préparé sans promettre toute la répétition.",
+              "examples": [
+                "Garance demande quand le passage sera joué et prévoit d’arriver avant la pause.",
+                "Lise peut garder la place à côté de l’autre alto et continuer avec elle après le départ."
+              ]
+            },
+            {
+              "heading": "Le lien avec les autres peut reprendre sans récit de la crise",
+              "text": "La personne décide à qui elle veut parler de son absence. Elle peut revenir par un geste familier.",
+              "examples": [
+                "Garance accepte le trajet avec Éva et choisit d’installer seule son pupitre.",
+                "Elle décide de saluer l’ensemble et de demander où commence la valse."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une place au pupitre et une solution pour le groupe",
-          "text": "Garance dit à Lise qu’elle veut essayer une partie précise et qu’elle préfère garder les détails de son absence pour elle. Lise peut tenir compte du moment où Garance arrive et confier à l’autre altiste les indications qui permettront de continuer si elle part. Elles conviennent de reprendre cette question pour le concert après l’essai. Garance peut écouter le reste du programme depuis la salle si elle en a envie.\n\nAvec Éva, elle souhaite marcher jusqu’à l’entrée. Elle pourra lui dire ensuite si elle veut parler de la soirée ou rentrer. Éva a aussi sa propre répétition. Elle peut préciser quand elle doit rejoindre les violons et lui proposer un autre moment si elles veulent se parler. Les contacts de soins restent disponibles selon le plan convenu. Leur accord sur le trajet ne charge pas Éva de vérifier le reste de la soirée."
+          "heading": "3 techniques pour reprendre une activité par une part choisie",
+          "points": [
+            {
+              "heading": "Délimiter le passage à essayer",
+              "objective": "Rendre visible ce que l’on veut retrouver dans l’activité.",
+              "exercise": [
+                "Choisissez un passage ou une tâche qui vous donne envie de venir.",
+                "Demandez à quel moment elle aura lieu.",
+                "Convenez d’un point d’arrêt avec la personne qui assure la suite."
+              ],
+              "benefit": "La participation peut être adaptée sans interrompre le travail collectif."
+            },
+            {
+              "heading": "Préparer l’arrivée et la sortie",
+              "objective": "Choisir le soutien qui aide sans empiéter sur le reste de la soirée.",
+              "exercise": [
+                "Dites à la personne qui vous accompagne jusqu’où vous souhaitez faire le trajet ensemble.",
+                "Choisissez une première phrase simple pour vous orienter sur place.",
+                "Indiquez comment vous signalerez votre départ si vous écourtez l’essai."
+              ],
+              "benefit": "Le groupe connaît les modalités pratiques et vous choisissez ce que vous souhaitez dire de plus."
+            },
+            {
+              "heading": "Garder le suivi en dehors du bilan musical",
+              "objective": "Distinguer l’essai au pupitre de l’évolution clinique.",
+              "exercise": [
+                "Notez ce que la répétition a rendu possible et ce qui vous a coûté.",
+                "Parlez-en au prochain point avec votre équipe et vérifiez le recours si une inquiétude revient.",
+                "Revenez avec Lise sur le concert lorsque vous savez ce que vous voulez essayer."
+              ],
+              "benefit": "Le plaisir de quelques mesures peut compter sans devenir une mesure de la sécurité."
+            }
+          ]
         }
       ],
       "ending_title": "L’archet s’arrête après les huit mesures",
@@ -457,7 +1026,8 @@
         "next": "Le concert arrive et Garance doit décider comment employer l’heure qui précède sa partie."
       },
       "clinical_focus": "Reprise progressive après une crise",
-      "clinical_intro": "Quelques semaines après les soins urgents, Garance veut rejouer huit mesures de la valse. Elle prépare avec Lise une forme de participation qu’elle peut raccourcir selon son état. Après une aggravation dépressive, le rétablissement se juge sur des changements plus larges que cette répétition. Ce premier essai lui permet de retrouver un plaisir et d’observer l’effort qui lui reste à fournir."
+      "clinical_intro": "Quelques semaines après les soins urgents, Garance veut rejouer huit mesures de la valse. Elle prépare avec Lise une forme de participation qu’elle peut raccourcir selon son état. Après une aggravation dépressive, le rétablissement se juge sur des changements plus larges que cette répétition. Ce premier essai lui permet de retrouver un plaisir et d’observer l’effort qui lui reste à fournir.",
+      "conclusion": "Garance joue son passage et s’arrête à la pause. L’accord avec Lise lui donne une manière de préparer le concert, sans faire de cette soirée un engagement sur tout le programme. Le suivi reprend, lui aussi, à partir de ce qu’elle traverse."
     },
     {
       "number": 11,
@@ -474,18 +1044,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reconnaître le moment et ce qu’il demande",
-          "text": "L’attente d’un concert peut s’accompagner de trac, d’excitation ou d’un mélange des deux. Garance remarque ses mains froides et l’envie de revoir sa mesure. Ces sensations ont un contexte immédiat. Son histoire clinique garde une place si elle remarque une évolution plus durable qui lui pose question. Elle peut alors décrire les changements au cabinet, en s’appuyant sur le plan établi avec l’équipe.\n\nLe trouble bipolaire de type II se comprend à partir de l’histoire des épisodes évalués."
+          "heading": "Le trac a un contexte et une durée",
+          "text": "Le trac peut associer tension, excitation et envie de vérifier un geste avant un rendez-vous important. Une émotion liée à un concert ne permet pas à elle seule de reconnaître un épisode du trouble bipolaire. Garance a les mains froides après un changement d’horaire et connaît pourtant son entrée. Elle peut répondre à ce que le moment demande et reparler avec son équipe d’un changement plus durable si elle en remarque un."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La soirée du concert donne surtout à Garance des décisions concrètes. Elle veut savoir quand jouer, où retrouver l’ensemble et ce qu’elle peut faire en attendant. L’heure écrite par Lise répond à ces questions. Elle peut garder le choix d’écouter un morceau ou de rester dans un endroit plus calme avant de rejoindre les autres."
+          "heading": "Comment le trac se distingue-t-il dans l’heure qui précède le concert ?",
+          "points": [
+            {
+              "heading": "Une modification donne un objet à l’inquiétude",
+              "text": "Un changement d’heure peut relancer des questions très concrètes à l’approche du passage.",
+              "examples": [
+                "Lise annonce que la valse passera plus tard que prévu.",
+                "Garance demande à quelle heure elle doit revenir derrière le rideau."
+              ]
+            },
+            {
+              "heading": "Le corps et le geste anticipent la scène",
+              "text": "Une sensation ou une vérification peut tenir à l’attente du public et de la prochaine entrée.",
+              "examples": [
+                "Garance sent ses mains froides et retourne chercher son crayon.",
+                "Elle connaît le passage mais souhaite le parcourir une fois avec Éva."
+              ]
+            },
+            {
+              "heading": "L’attente peut s’organiser autour d’un choix",
+              "text": "Un repère concret peut aider à faire ce que l’on souhaite avant le passage.",
+              "examples": [
+                "Garance lit l’heure écrite sur le programme et ferme sa partition.",
+                "Elle choisit d’écouter le début depuis le fond de la salle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Tenir la partie convenue et pouvoir la modifier",
-          "text": "Garance sait que Lise a prévu une solution si elle doit renoncer à jouer. Elle souhaite garder sa place ce soir et peut le confirmer sans promettre de rester jusqu’au dernier morceau. Si elle veut changer quelque chose, elle sait à qui le dire. Éva peut faire la vérification de la mesure avec elle, puis aller s’accorder de son côté. Chacune garde une part claire dans ce qu’elles préparent.\n\nAprès le concert, Garance peut choisir de saluer ses voisins ou de rentrer. Elle a laissé de la place dans son calendrier du lendemain, car elle souhaite voir comment elle se sent après la soirée. Si elle veut en parler avec sa psychologue, elle pourra raconter le moment où elle a choisi de garder un seul passage. Le suivi a aussi de la place pour ces décisions de vie quotidienne."
+          "heading": "3 techniques pour répondre au trac sans interpréter chaque sensation",
+          "points": [
+            {
+              "heading": "Trouver le renseignement qui manque",
+              "objective": "Réduire l’incertitude sur le déroulé du moment.",
+              "exercise": [
+                "Repérez la consigne ou l’heure qui a changé.",
+                "Demandez-la à la personne qui organise la soirée.",
+                "Notez-la là où vous pourrez la retrouver sans rouvrir toutes vos affaires."
+              ],
+              "benefit": "L’attente repose sur une information précise."
+            },
+            {
+              "heading": "Faire une vérification choisie",
+              "objective": "Confirmer un repère musical sans recommencer toute la préparation.",
+              "exercise": [
+                "Choisissez la seule mesure que vous voulez reprendre.",
+                "Demandez à quelqu’un de la jouer avec vous ou vérifiez-la seul si cela vous convient.",
+                "Décidez de ce que vous ferez une fois la partition fermée."
+              ],
+              "benefit": "La vérification a une fin et laisse de la place pour la musique des autres."
+            },
+            {
+              "heading": "Situer un changement qui durerait après l’événement",
+              "objective": "Garder une façon de discuter d’un doute avec l’équipe.",
+              "exercise": [
+                "Remarquez ce que vous ressentez quand l’attente est terminée.",
+                "Si un changement se prolonge, décrivez le sommeil et les activités au-delà du soir du concert.",
+                "Reprenez les repères du suivi avec l’équipe si l’évolution vous inquiète."
+              ],
+              "benefit": "Le trac du moment peut être distingué d’un changement qui s’étend à plusieurs jours."
+            }
+          ]
         }
       ],
       "ending_title": "L’entrée qu’elle attendait",
@@ -502,7 +1128,8 @@
         "next": "Elle utilise le calendrier du concert et ses observations pour discuter de ses prochains engagements."
       },
       "clinical_focus": "Trac et contexte émotionnel",
-      "clinical_intro": "Le programme change avant le concert et Garance sent ses mains refroidir. Son trac arrive avec un enjeu précis, le moment où elle devra entrer dans la valse. Dans le suivi du trouble bipolaire, la durée, le contexte et les changements dans le reste de la vie éclairent la signification de ces sensations. Garance peut se préparer au concert en tenant compte de ce qu’elle ressent ce soir."
+      "clinical_intro": "Le programme change avant le concert et Garance sent ses mains refroidir. Son trac arrive avec un enjeu précis, le moment où elle devra entrer dans la valse. Dans le suivi du trouble bipolaire, la durée, le contexte et les changements dans le reste de la vie éclairent la signification de ces sensations. Garance peut se préparer au concert en tenant compte de ce qu’elle ressent ce soir.",
+      "conclusion": "Garance retrouve son entrée malgré le décalage d’horaire et rentre après la rue qu’elle a choisi de marcher avec Éva. Le trac lui indiquait qu’elle attendait quelque chose d’important. Elle garde son plan pour les changements qui demanderaient un autre regard."
     },
     {
       "number": 12,
@@ -519,18 +1146,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un plan que l’on peut reprendre quand le quotidien change",
-          "text": "Un plan de suivi peut évoluer avec les besoins, les expériences et les ressources de la personne. Garance souhaite garder les contacts qui lui ont permis d’obtenir un rendez-vous plus tôt et un relais urgent. Elle peut reprendre avec son équipe ce qui a été difficile à utiliser et revoir les modalités prévues. Les décisions de traitement se discutent avec sa psychiatre. Sa psychologue peut l’aider à préparer ce qu’elle veut dire sur le travail ou les répétitions."
+          "heading": "Prévenir les rechutes avec des appuis qui restent possibles",
+          "text": "Dans le trouble bipolaire, la prévention peut comprendre un suivi au long cours, des repères personnels et des accords que l’on révise avec l’équipe. Les engagements de travail et de loisir peuvent évoluer à mesure que la personne comprend ce qui lui convient. Garance retrouve dans son agenda le matin libre après le concert et dans la pochette le contact qui lui a servi. Elle examine ce qu’elle veut garder dans chacun de ces deux appuis."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le NICE recommande de revoir la prise en charge avec la personne, y compris ses priorités et ses besoins dans la vie courante. Garance peut demander à Éva quelle part de soutien lui convient et partager la version du plan qu’elle veut lui transmettre. Elle conserve aussi des échanges privés avec les soignants. Si la sécurité est en jeu, le recours aux professionnels reste la priorité, même si Éva est disponible."
+          "heading": "Comment la prévention se concrétise-t-elle après le concert ?",
+          "points": [
+            {
+              "heading": "Le calendrier retrouve les tâches invisibles",
+              "text": "Prévoir une échéance revient aussi à tenir compte de ce qui doit arriver avant et de ce qu’on veut garder autour.",
+              "examples": [
+                "Garance vérifie quand les textes du catalogue seront livrés et quand son client pourra répondre.",
+                "Elle hésite à utiliser le lendemain de la répétition et négocie un délai plus long."
+              ]
+            },
+            {
+              "heading": "Les contacts sont revus après usage",
+              "text": "Une expérience de soins peut éclairer ce qu’il faut confirmer ou changer avant la prochaine période difficile.",
+              "examples": [
+                "Garance a un rendez-vous prévu pour revoir les appuis qui lui ont servi.",
+                "Éva lui dit qu’elle n’a pas toujours su quand rappeler au cours de la période dépressive."
+              ]
+            },
+            {
+              "heading": "L’accord conserve une place pour l’amitié",
+              "text": "Un proche peut connaître une partie du plan et garder des moments qui concernent d’autres choses.",
+              "examples": [
+                "Garance choisit la page à montrer à Éva et apprend quels soirs elle termine tard.",
+                "Elles rangent les contacts pour poser leurs deux partitions sur le même pupitre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir un engagement qui tient sur le calendrier",
-          "text": "Pour répondre au client, Garance peut vérifier ce qu’elle devra livrer, les temps de réponse des autres et la possibilité de garder le matin dont elle a besoin. Si le délai ne peut pas bouger, elle décidera si elle souhaite prendre un périmètre plus petit ou refuser. Elle peut avoir envie du catalogue et garder une place pour le reste. La décision professionnelle lui appartient.\n\nDans l’ensemble, Garance préfère choisir un morceau pour la prochaine séance. Lise peut annoncer ce qui est fixé et laisser les personnes revenir sur une tâche supplémentaire. Éva veut garder un moment pour les partitions et parler de ce qui l’a inquiétée un autre jour si nécessaire. Garance pourra lui dire quels contacts ont fonctionné pour elle et à quoi leur accord pourrait ressembler maintenant. Elles n’ont pas besoin de régler tout leur rôle dans une seule conversation."
+          "heading": "3 techniques pour faire durer les appuis de prévention",
+          "points": [
+            {
+              "heading": "Négocier une échéance avec une marge",
+              "objective": "Tenir compte du travail réel avant de dire oui.",
+              "exercise": [
+                "Vérifiez l’arrivée des documents et les moments où le client pourra vous répondre.",
+                "Inscrivez les activités et les plages de repos que vous voulez préserver.",
+                "Proposez un autre délai ou une tâche plus courte si le calendrier ne tient pas."
+              ],
+              "benefit": "Vous choisissez votre engagement à partir de l’ensemble du travail."
+            },
+            {
+              "heading": "Revoir un recours qui a déjà servi",
+              "objective": "Ajuster le plan aux difficultés rencontrées en pratique.",
+              "exercise": [
+                "Choisissez un moment où vous avez eu besoin d’un avis plus tôt.",
+                "Dites à l’équipe ce qui a marché et les consignes qui étaient difficiles à retrouver.",
+                "Faites confirmer les coordonnées, les horaires et la suite prévue."
+              ],
+              "benefit": "L’expérience de la période passée rend le prochain recours plus facile à comprendre."
+            },
+            {
+              "heading": "Renouveler l’accord avec l’amie",
+              "objective": "Garder un soutien que chacune veut encore tenir.",
+              "exercise": [
+                "Demandez au proche quels moments et quels gestes lui conviennent.",
+                "Partagez la page de contacts que vous avez choisie et rappelez les autres relais.",
+                "Fixez un moment pour autre chose que le suivi, comme choisir le prochain morceau."
+              ],
+              "benefit": "L’aide reste possible dans des limites acceptées et l’amitié conserve ses autres occasions."
+            }
+          ]
         }
       ],
       "ending_title": "Le matin reste sans trait",
@@ -547,7 +1230,8 @@
         "next": "Le suivi, le calendrier et l’ensemble continuent avec des engagements que Garance pourra revoir."
       },
       "clinical_focus": "Prévention des rechutes bipolaires",
-      "clinical_intro": "Un client propose un nouveau catalogue après le concert. Garance négocie un délai et garde un matin libre. Son trouble bipolaire de type II fait l’objet d’un suivi qui peut évoluer avec ses horaires, ses expériences et l’aide disponible. Elle sait désormais quelles parties du plan ont été utiles et peut préciser avec Éva et sa psychiatre celles qu’elle aimerait revoir."
+      "clinical_intro": "Un client propose un nouveau catalogue après le concert. Garance négocie un délai et garde un matin libre. Son trouble bipolaire de type II fait l’objet d’un suivi qui peut évoluer avec ses horaires, ses expériences et l’aide disponible. Elle sait désormais quelles parties du plan ont été utiles et peut préciser avec Éva et sa psychiatre celles qu’elle aimerait revoir.",
+      "conclusion": "Le prochain catalogue laisse un matin libre et le prochain morceau est choisi avec Éva. Garance garde le rendez-vous où elle reviendra sur l’épisode et ses appuis. Son calendrier et son plan peuvent tous deux être revus à mesure que ses besoins changent."
     }
   ]
 }

@@ -35,14 +35,79 @@ Sonia repart vers l’évier. Morgane la rejoint là où les visiteurs ne les en
 
 Une personne de confiance peut rendre un soutien plus accessible dans les troubles des conduites alimentaires. La HAS et la FFAB situent la place de l’entourage dans une prise en charge adaptée et discutée. Sonia a entendu une confidence et en a déduit qu’elle devrait vérifier le déjeuner de Morgane.
 
-## Le repas qui devient une preuve à donner
+## Comment une présence proposée devient-elle une surveillance ressentie ?
 
-Morgane accepte d’abord de dire comment le déjeuner s’est passé. Elle vient de recevoir l’aide de Sonia pour la répétition et entend son inquiétude. Le message lui donne pourtant l’impression qu’elle va devoir rendre des comptes pendant un repas où elle voudrait penser à autre chose. Quand elle revient vers Sonia, elle arrive à distinguer le café qu’elles pourraient prendre ensemble de la vérification qu’elle a comprise dans le message.
+### La demande s’élargit
 
-## Trouver une proposition que chacune peut tenir
+Un appui précis peut prendre un autre sens quand quelqu’un ajoute une vérification que la personne n’a pas demandée.
 
-Elles peuvent s’accorder sur un café lorsqu’elles en ont envie et sur une disponibilité précise avant la matinée. Morgane peut garder la question des épisodes pour Anna. Si elle veut associer quelqu’un à une partie du suivi, elle peut en parler avec l’équipe et choisir ce qu’elle souhaite partager. La responsabilité clinique reste à la place où elle peut être assumée. Sonia peut dire ce qu’elle sait faire au travail et exprimer sa propre inquiétude. Morgane est libre d’accepter, de refuser ou de préciser sa demande, y compris après un premier oui. L’accord peut évoluer avec la situation.
+**Exemples concrets**
+
+- Sonia avait accepté de s’occuper de la rallonge et de se voir avant l’essai.
+- À la pause, elle demande à Morgane de lui dire comment s’est passé le déjeuner pour être rassurée.
+
+### Un premier oui peut coûter
+
+Par reconnaissance ou par surprise, on peut accepter une demande dont on découvre ensuite l’effet.
+
+**Exemples concrets**
+
+- Morgane répond oui en pensant au temps que Sonia vient de consacrer à la répétition.
+- Elle imagine aussitôt le repas avec le sentiment d’avoir à fournir une preuve.
+
+### Nommer les deux intentions permet de les séparer
+
+La conversation peut distinguer une envie de compagnie et une inquiétude de santé qui appartient au suivi.
+
+**Exemples concrets**
+
+- Près de l’évier, Morgane demande à Sonia si elle voulait un café ou des nouvelles de son repas.
+- Sonia peut redire ce qui l’inquiète et garder le rendez-vous de travail convenu.
+
+## 3 techniques pour redéfinir une aide après une confidence
+
+### 1. Décrire l’effet d’une demande
+
+Revenir sur un accord donné trop vite.
+
+**Exercice pratique**
+
+- Citez la question à laquelle vous avez répondu.
+- Dites comment elle a modifié ce que vous imaginiez du moment.
+- Exprimez la limite que vous voulez poser maintenant.
+
+Votre interlocuteur peut comprendre ce que vous souhaitez changer sans avoir à deviner votre réaction.
+
+### 2. Proposer une présence sans compte rendu
+
+Garder l’aide qui correspond à votre besoin.
+
+**Exercice pratique**
+
+- Choisissez une activité que vous aimeriez partager avec la personne.
+- Précisez ce dont vous ne voulez pas parler à ce moment-là.
+- Vérifiez que la proposition lui convient aussi.
+
+Les deux personnes peuvent se retrouver pour une raison commune clairement choisie.
+
+### 3. Prévoir où adresser les questions de soin
+
+Clarifier le rôle d’une personne de confiance et celui de l’équipe.
+
+**Exercice pratique**
+
+- Demandez-vous quelle aide relève de votre relation ordinaire.
+- Adressez au professionnel les questions cliniques qui restent.
+- Si vous souhaitez associer un proche à un échange, discutez d’abord du cadre et des informations à partager.
+
+Le proche peut aider dans les limites convenues et le suivi garde son propre espace.
 
 ## Une demande à leur mesure
 
 Sonia range son téléphone. Elle demande si Morgane veut encore qu’elles se voient avant la matinée pour faire le point sur les visiteurs. Morgane répond que oui. Elles conviennent aussi que Sonia attendra que Morgane ouvre elle-même une conversation sur le suivi. Un peu plus tard, Morgane lui propose un café et lui demande ce qu’elle a remarqué dans la pause de Yassine. L’équipe a répondu à son message. Anna reprendra avec elle jeudi le retour de l’épisode.
+
+---
+
+**Conclusion**
+
+Le café redevient un café et Sonia garde le point de travail avant l’ouverture. Morgane a pu revenir sur un oui qui lui pesait, sans renoncer à la présence de sa collègue. Le retour de l’épisode sera repris jeudi avec Anna.

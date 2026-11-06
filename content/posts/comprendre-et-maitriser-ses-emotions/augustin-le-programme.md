@@ -1,20 +1,20 @@
 ---
-title: Demander un appui sans devoir raconter son trouble en public
-description: Nora veut raconter les ajustements de la scène dans le programme. Augustin
-  choisit de présenter sa contribution sans exposer son suivi.
+title: Craindre que les autres ne retiennent que la difficulté du geste
+description: Nora propose de raconter l’entrée modifiée dans le programme. Augustin
+  veut y signer sa contribution aux accessoires sans raconter son suivi.
 slug: augustin-le-programme
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Confidentialité des difficultés motrices
+sujet: Crainte d’être réduit aux difficultés motrices
 contexte: à l’accueil du centre social, devant l’épreuve du programme
 tags:
 - Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Peur d’être réduit au trouble
-- Légitimité dans le groupe
+- Regard sur les difficultés motrices
+- Place dans le groupe
 - Partage choisi
 categories:
 - Comprendre et maîtriser ses émotions
@@ -30,18 +30,83 @@ Nora a laissé en dessous un encadré intitulé « Ce qu’on n’avait jamais f
 
 Il a envie de voir son prénom dans le programme. Il a aussi envie que les spectateurs attendent un soleil, pas le récit d’un garçon à qui il a été difficile de le soulever. Nora lui laisse un crayon et va demander si elle peut encore retarder les copies. Augustin écrit « Augustin, accessoires », puis trouve le titre de l’encadré trop grand pour une ligne si petite. Il tourne la feuille et cherche de quoi il voudrait parler.
 
-## Savoir à qui l’on parle
+## La place que le regard des autres peut laisser
 
-Une personne peut vouloir expliquer un besoin à quelqu’un qui l’aide et garder cette information pour elle ailleurs. Augustin a montré un détail de son travail à son ergothérapeute, un croquis à Samira et une difficulté de copie à Mme Besson. Ces échanges avaient des buts différents. Un programme se lit par des gens que la troupe ne connaît pas et peut être gardé après le spectacle. Le CDDR et les recommandations de l’EACD décrivent le retentissement que les difficultés de coordination peuvent avoir sur le sentiment de compétence et la participation.
+Une difficulté de coordination peut peser sur le sentiment d’avoir sa place si l’entourage en fait le principal récit de ce qu’une personne accomplit. Le trouble développemental de la coordination motrice peut avoir des effets sur la participation et le sentiment de compétence. La crainte d’Augustin dans cette scène lui appartient. Il a expliqué le coût de la copie à Mme Besson pour pouvoir suivre le cours. Dans un programme distribué aux spectateurs, il aimerait que son nom annonce une idée de scénographie.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte d’être réduit à une difficulté peut-elle peser sur sa place ?
 
-Dans cet encadré, le sujet est ce qu’Augustin souhaite rendre public de sa contribution. Sa crainte d’être ramené à l’effort qu’un geste lui demande n’est pas un signe clinique.
+### Hésiter à montrer une contribution
 
-## Parler de ce qu’on a inventé
+Une personne peut tenir à ce qu’elle a apporté et se demander si elle sera surtout présentée par le geste difficile.
 
-Nora peut demander à Augustin de relire sa ligne avant de la mettre en page. S’il veut parler des essais, il peut choisir une décision artistique et garder pour lui le détail qui l’a amené à la proposer. Il peut aussi ne laisser que son nom aux accessoires. Une discussion à propos de l’aide sur scène peut continuer avec Samira en privé. Elle a surtout besoin de savoir où le soleil doit être et qui le place. Rien n’empêche Augustin de nommer son trouble un jour s’il y trouve un intérêt. Pour ce programme, il choisit une phrase qu’il aurait plaisir à retrouver dans la poche de son manteau.
+**Exemples concrets**
+
+- Augustin veut signer le programme. Il hésite quand l’encadré risque de raconter l’effort pour lever le disque avant de parler du soleil.
+- Un élève peut vouloir signer la maquette de groupe et hésiter si la légende prévue explique surtout qui l’a aidé à assembler ses pièces.
+
+### Choisir ses mots selon la personne à qui l’on parle
+
+Un détail précis peut aider dans un échange de travail et prendre un autre sens devant un public qui ne connaît pas la situation.
+
+**Exemples concrets**
+
+- Augustin a expliqué à Mme Besson ce qu’il perdait en traçant le fleuve. Il ignore qui lira la feuille que prépare Nora et ce que cette personne retiendra.
+- Un ado peut dire à l’animatrice qu’il lui faut plus de temps pour placer une pièce, tout en souhaitant que l’affiche de l’atelier présente simplement ce qu’il a conçu.
+
+### Mettre en avant l’idée que l’ajustement a rendue possible
+
+Une contribution peut s’expliquer par l’effet obtenu sur le projet collectif. La personne garde la main sur le détail de ce qui lui a demandé de l’effort.
+
+**Exemples concrets**
+
+- Augustin choisit une question sur la manière de faire du jour avec du carton. Il invite à regarder la scène.
+- Pour une exposition, une collégienne pourrait décrire le motif qu’elle a choisi et expliquer en privé à son enseignante comment les pièces ont été préparées.
+
+## 3 techniques pour choisir ce qu’on raconte d’un geste difficile
+
+### 1. Définir ce que les lecteurs doivent comprendre
+
+Écrire une contribution que vous avez envie de signer.
+
+**Exercice pratique**
+
+- Demandez qui verra le texte et ce qu’on attend de votre ligne.
+- Choisissez un geste, un objet ou une idée artistique dont vous êtes à l’origine.
+- Essayez une phrase qui donne envie de voir le résultat, puis décidez si vous souhaitez qu’elle soit signée.
+
+Une phrase choisie peut rendre visible votre rôle dans le projet sans que le public ait à connaître le détail de vos difficultés.
+
+### 2. Garder la demande d’appui au bon endroit
+
+Continuer à parler des besoins pratiques avec la personne qui peut agir.
+
+**Exercice pratique**
+
+- Identifiez l’ajustement encore utile, comme placer le soleil près de la fenêtre.
+- Expliquez en privé à l’encadrante ce que vous lui demandez de prévoir.
+- Convenez de la consigne qui doit être transmise à la troupe et des détails que vous souhaitez garder pour vous.
+
+La consigne peut circuler auprès des personnes qui en ont besoin pendant que la décision de raconter l’expérience reste la vôtre.
+
+### 3. Relire la version qui sera distribuée
+
+Voir la contribution telle que d’autres la liront, avec son titre et le reste de la page.
+
+**Exercice pratique**
+
+- Demandez à voir l’épreuve avant les copies.
+- Lisez ensemble la ligne, sa signature et ce qui l’entoure.
+- Dites si vous validez cette version, si vous voulez changer un mot ou retirer la ligne.
+
+Relire la page peut faire apparaître un sous-entendu et laisser le temps de le corriger avant l’impression.
 
 ## Une ligne sous la fenêtre
 
-Quand Nora revient, Augustin lui montre le dos de la feuille : « Comment fait-on du jour avec du carton ? » Il veut bien mettre son prénom après la phrase, dans l’encadré des accessoires. Nora dit qu’on pourrait répondre à sa question dans le programme. Augustin préfère qu’on voie la réponse dans la salle. Elle ajoute le point d’interrogation au propre. Avant de ranger le fichier jusqu’à la distribution, elle lui montre l’épreuve entière. Ils la replient et la fenêtre apparaît exactement entre leurs deux pouces.
+Quand Nora revient, Augustin lui montre le dos de la feuille. Il y a écrit « Comment fait-on du jour avec du carton ? » Il veut bien mettre son prénom après la phrase, dans l’encadré des accessoires. Nora dit qu’on pourrait répondre à sa question dans le programme. Augustin préfère qu’on voie la réponse dans la salle. Elle ajoute le point d’interrogation au propre. Avant de ranger le fichier jusqu’à la distribution, elle lui montre l’épreuve entière. Ils la replient et la fenêtre apparaît exactement entre leurs deux pouces.
+
+---
+
+**Conclusion**
+
+Augustin a une place dans le programme avec sa question et son prénom. Les détails des essais restent entre les personnes qui y ont participé. Nora vérifie la page avec lui avant impression. Il pourra garder cette feuille quel que soit le rôle qu’il choisira au filage.

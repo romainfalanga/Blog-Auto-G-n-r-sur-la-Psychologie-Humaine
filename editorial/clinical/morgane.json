@@ -27,17 +27,73 @@
         {
           "role": "explanation",
           "heading": "Ce qui se passe quand la décision échappe",
-          "text": "La perte de contrôle est un élément central de l’expérience d’un épisode. Morgane peut penser à s’arrêter et sentir malgré cela qu’elle n’arrive plus à diriger la manière dont elle mange. Pour comprendre l’hyperphagie boulimique, les professionnels regardent la répétition de ces moments, la souffrance et les effets dans la vie de la personne. Ils tiennent aussi compte de son état de santé et des autres explications possibles."
+          "text": "Pendant un épisode d’hyperphagie boulimique, une personne peut avoir le sentiment de ne plus pouvoir diriger sa manière de manger alors même qu’elle voudrait s’arrêter. Les professionnels examinent cette expérience avec la répétition des épisodes, la souffrance et le retentissement, ainsi que les autres explications possibles. À l’atelier, Morgane se souvient surtout du moment où elle a voulu interrompre ce qu’elle faisait. Elle avait aussi laissé le message de Sonia sans réponse."
         },
         {
           "role": "manifestations",
-          "heading": "Le message laissé sans réponse après la crise",
-          "text": "Morgane se souvient de s’être dit qu’elle voulait s’arrêter, sans retrouver le sentiment de décider comment elle mangeait. La difficulté a continué à peser après la soirée. Elle a laissé sans réponse la photo que Sonia lui a envoyée et douté du projet qu’elle avait proposé. Le lendemain, à l’atelier, elle hésite encore à sortir sa feuille de sa poche."
+          "heading": "Comment le sentiment de perdre la main se fait-il sentir pendant et après un épisode ?",
+          "points": [
+            {
+              "heading": "L’arrêt souhaité ne vient pas",
+              "text": "Perdre la main décrit un vécu pendant l’épisode, même si une autre activité restait prévue.",
+              "examples": [
+                "Morgane se souvient qu’elle voulait passer à autre chose sans y parvenir.",
+                "Une personne peut avoir préparé un appel à un proche et le laisser passer alors qu’elle souhaitait s’arrêter pour répondre."
+              ]
+            },
+            {
+              "heading": "Le vécu reste difficile à transmettre",
+              "text": "Le sentiment de contrôle n’est pas directement visible pour un collègue qui ne connaît que l’après.",
+              "examples": [
+                "Sonia voit Morgane venir prendre son tablier, sans savoir ce qui l’a occupée la veille.",
+                "Quelqu’un peut raconter qu’il a laissé passer l’heure d’un appel et avoir besoin d’aide pour dire pourquoi."
+              ]
+            },
+            {
+              "heading": "L’épisode laisse une tâche en suspens",
+              "text": "Ce qui n’a pas été fait aide à situer l’effet de l’épisode dans une journée.",
+              "examples": [
+                "Le message de Sonia reste sans réponse alors que Morgane avait préparé son idée.",
+                "En montrant à Sonia comment soutenir la branche, Morgane retrouve le geste qu’elle voulait partager."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décrire aussi ce que l’épisode laisse derrière lui",
-          "text": "Morgane peut raconter à l’équipe qui la suit le moment de la crise et celui où elle a laissé le message de Sonia sans réponse. La scène du lendemain donne une information différente de celle de l’épisode lui-même. Elle montre le temps pendant lequel la honte a continué à peser sur ses décisions. À l’atelier, Morgane peut reprendre la conversation en donnant simplement le papier. Le projet appelle un avis de fleuriste. La question de santé a une autre place, au rendez-vous qu’elle a déjà pris."
+          "heading": "3 techniques pour décrire ce qu’un épisode a changé",
+          "points": [
+            {
+              "heading": "Retenir les mots du moment",
+              "objective": "Décrire la perte de contrôle en consultation.",
+              "exercise": [
+                "Choisissez un épisode dont vous souhaitez parler.",
+                "Dites ce que vous vouliez pouvoir faire et ce qui vous semblait vous échapper.",
+                "Demandez au professionnel de vous aider à situer ce vécu dans le suivi."
+              ],
+              "benefit": "L’entretien peut partir de la difficulté ressentie sans débat sur la quantité mangée."
+            },
+            {
+              "heading": "Relever un effet qui se voit après",
+              "objective": "Montrer ce qui a été modifié dans la vie ordinaire.",
+              "exercise": [
+                "Repérez une action attendue qui est restée en suspens.",
+                "Notez ce qu’elle représentait pour vous avant l’épisode.",
+                "Apportez cette observation au rendez-vous."
+              ],
+              "benefit": "Un exemple précis peut aider à comprendre le retentissement en dehors de la crise."
+            },
+            {
+              "heading": "Reprendre une demande laissée en attente",
+              "objective": "Répondre au projet sans devoir expliquer l’épisode au travail.",
+              "exercise": [
+                "Retrouvez le message ou la demande initiale.",
+                "Dites ce que vous souhaitez encore proposer.",
+                "Choisissez avec l’autre un moment pour le reprendre."
+              ],
+              "benefit": "Le projet peut retrouver un point de départ qui ne dépend pas d’une confidence."
+            }
+          ]
         }
       ],
       "ending_title": "Le papier à côté des seaux",
@@ -52,7 +108,8 @@
       "continuity": {
         "choice": "Morgane montre sa note et garde l’épisode pour le rendez-vous de suivi.",
         "next": "Le déjeuner de départ de Marie précède la discussion du jeudi sur les essais courts."
-      }
+      },
+      "conclusion": "Morgane sort sa feuille et propose un geste assez court pour une personne de passage. Elle garde pour l’équipe de soins la question du message qu’elle n’a pas réussi à reprendre la veille. Ce délai donne un exemple du coût de l’épisode dans sa journée."
     },
     {
       "number": 2,
@@ -72,17 +129,73 @@
         {
           "role": "explanation",
           "heading": "Entendre la différence que Morgane éprouve",
-          "text": "Un repas plaisant peut comporter un appétit marqué et une décision de se resservir. La CIM-11 décrit l’épisode d’hyperphagie en tenant compte d’une manière de manger nettement différente de l’habitude dans un temps délimité, avec une perte de contrôle ressentie."
+          "text": "L’appétit peut être marqué et laisser intacte la possibilité de choisir de reprendre ou de s’arrêter. Dans l’hyperphagie boulimique, le sentiment de ne plus diriger sa façon de manger pendant un épisode aide les professionnels à comprendre un tableau plus large. Un repas isolé ne permet pas de conclure. Au déjeuner de Marie, Morgane apprécie ce qu’elle mange, se ressert et continue d’écouter. Elle reconnaît une expérience différente de celle qu’elle a décrite à son équipe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Morgane, qui a déjà reçu un diagnostic, la distinction se reconnaît dans ce qu’elle pouvait décider au déjeuner. Son attention a pu rester disponible pour Marie, puis pour le projet. Un regard posé sur la table ou sur son assiette donnerait très peu d’accès à cette différence. Même si quelqu’un éprouve de la gêne après avoir beaucoup mangé, l’évaluation porte sur le vécu, la répétition et le retentissement."
+          "heading": "Comment distinguer l’appétit du sentiment de perdre le choix ?",
+          "points": [
+            {
+              "heading": "L’envie de reprendre a un sens ordinaire",
+              "text": "Avoir faim ou apprécier un plat peut accompagner une décision que la personne sent pouvoir modifier.",
+              "examples": [
+                "Morgane avait faim avant de s’asseoir et reprend de ce que Marie a apporté.",
+                "À un dîner, une personne peut demander un peu plus du plat qu’elle apprécie puis passer à autre chose quand elle le souhaite."
+              ]
+            },
+            {
+              "heading": "L’attention reste disponible pour d’autres gestes",
+              "text": "L’appétit peut coexister avec la possibilité de faire une pause et de reprendre une activité choisie.",
+              "examples": [
+                "Morgane se décale pour laisser quelqu’un atteindre le placard et revient au récit de Marie.",
+                "Elle peut décider pendant le repas ce qu’elle aimerait faire du vieux tablier."
+              ]
+            },
+            {
+              "heading": "Le contraste se décrit dans les mots de la personne",
+              "text": "Le sentiment d’avoir la main dépend du vécu et ne se déduit pas de ce que voit un convive.",
+              "examples": [
+                "Morgane se souvient d’autres moments où elle voulait s’arrêter et n’y parvenait pas.",
+                "Une personne peut se souvenir de deux repas appréciés par son entourage et vouloir parler de ce qu’elle a pu décider dans chacun."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser un repas partagé reprendre sa place",
-          "text": "La possibilité de parler d’autre chose peut faire partie de ce qui rend un repas agréable pour Morgane. Elle sait qu’elle pourrait se sentir autrement une autre fois. Elle peut apporter au suivi aussi bien un moment où elle s’est sentie libre de décider qu’un épisode difficile. La comparaison renseigne sur son expérience, selon ce qu’elle souhaite examiner. Son entourage a aussi le droit de profiter de la conversation. Marie souhaite raconter son arrivée et repartir avec un souvenir de ses collègues. La discussion sur les portes ouvertes commence quand le repas est terminé et garde son propre sujet."
+          "heading": "3 techniques pour parler de ce qu’on pouvait décider pendant un repas",
+          "points": [
+            {
+              "heading": "Comparer ce que l’on pouvait choisir",
+              "objective": "Parler de deux expériences sans les ramener à une quantité.",
+              "exercise": [
+                "Retenez deux moments que vous souhaitez décrire au professionnel.",
+                "Dites ce que vous sentiez pouvoir décider dans l’un et dans l’autre.",
+                "Demandez à l’équipe comment comprendre ce contraste dans votre situation."
+              ],
+              "benefit": "La conversation peut distinguer un appétit ordinaire du sentiment de perdre la main."
+            },
+            {
+              "heading": "Garder un exemple qui vous ressemble",
+              "objective": "Trouver des mots utilisables quand la différence est difficile à expliquer.",
+              "exercise": [
+                "Repérez un détail concret d’un repas où vous vous êtes senti libre de choisir.",
+                "Formulez en une phrase ce que ce détail vous apprend sur le moment vécu.",
+                "Gardez-la pour une conversation choisie ou pour le suivi."
+              ],
+              "benefit": "Une expérience familière peut aider à exprimer ce que « pouvoir décider » veut dire pour vous."
+            },
+            {
+              "heading": "Répondre aux comparaisons hâtives",
+              "objective": "Éviter qu’une remarque extérieure décide du sens donné à un repas.",
+              "exercise": [
+                "Choisissez si vous voulez répondre à la remarque.",
+                "Si vous répondez, dites que vous préférez décrire ce que vous avez éprouvé.",
+                "Réservez les questions sur votre trouble au professionnel qui peut faire le bilan."
+              ],
+              "benefit": "Cette limite peut éviter de devoir justifier un repas ou de tirer une conclusion trop vite."
+            }
+          ]
         }
       ],
       "ending_title": "Essayer, puis choisir",
@@ -97,7 +210,8 @@
       "continuity": {
         "choice": "Morgane écoute la proposition de Yassine après un déjeuner où elle a gardé le sentiment de choisir.",
         "next": "Vendredi, Yassine apporte son dessin et la proposition de photo donne lieu à une décision."
-      }
+      },
+      "conclusion": "En gardant le tablier pour les visiteurs, Morgane revient au repas de départ comme à un moment partagé. Le fait de s’être resservie n’en dit pas le même vécu que les épisodes dont elle parle en consultation. Sa possibilité de choisir fait partie de la différence."
     },
     {
       "number": 3,
@@ -121,13 +235,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une crainte liée à la photo qui déborde sur la matinée",
-          "text": "En imaginant la photo affichée, Morgane pense à quelqu’un qui la reconnaîtrait et commenterait son corps. Elle propose alors que Sonia présente seule l’atelier. La question de Yassine lui fait remarquer que ce retrait lui coûterait un rôle qu’elle désirait. Ce qu’elle redoute dans l’image a déjà changé sa réponse sur la matinée."
+          "heading": "Comment la peur du regard peut-elle agir avant que la photo soit prise ?",
+          "points": [
+            {
+              "heading": "Un souvenir oriente ce que l’on prévoit",
+              "text": "Une remarque ancienne peut revenir au moment où une nouvelle image est envisagée.",
+              "examples": [
+                "L’annonce de la photo rappelle à Morgane une image de famille où son corps avait été commenté.",
+                "Avant qu’une affiche soit faite, elle imagine une personne du quartier qui la reconnaît et s’approche pour lui parler de son apparence."
+              ]
+            },
+            {
+              "heading": "L’appréhension déborde sur le projet",
+              "text": "Éviter l’image redoutée peut sembler exiger de renoncer aussi à une partie de l’activité.",
+              "examples": [
+                "Morgane propose que Sonia présente seule l’atelier avant de vérifier ce qu’elle veut encore faire.",
+                "La question de Yassine lui fait distinguer l’affiche et sa présence à la matinée."
+              ]
+            },
+            {
+              "heading": "Une autre proposition rend la décision plus précise",
+              "text": "La crainte peut rester là alors qu’une partie concrète de la situation devient négociable.",
+              "examples": [
+                "Morgane repère les mains que Yassine a dessinées sans visage et propose de s’en inspirer.",
+                "Elle choisit ensuite de dire à Sonia en privé pourquoi les commentaires sur le corps lui coûtent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une information qui sert à la conversation",
-          "text": "Distinguer le cadrage de la photo et la participation à la matinée donne à Morgane deux choix précis. Sonia a besoin de savoir ce qu’elle veut faire de la photo pour préparer l’affiche. Elle peut entendre cette réponse sans exiger de connaître tout le contexte. Morgane peut choisir d’ajouter que les commentaires sur le corps la touchent, de nommer le trouble ou de garder cette partie pour l’équipe. L’accord sur le cadrage doit aussi valoir pour Yassine et les autres personnes visibles. Sonia peut vérifier qui veut participer et à quelles conditions. Elle aide ainsi sur une décision de travail, et l’écoute qu’elle peut offrir à sa collègue se négocie à un autre moment.\n\nMorgane peut parler en consultation du souvenir et de l’effort que lui demande cette anticipation."
+          "heading": "3 techniques pour distinguer un cadrage redouté d’un projet que l’on veut garder",
+          "points": [
+            {
+              "heading": "Nommer ce qui est redouté",
+              "objective": "Comprendre à quel moment l’inquiétude commence à guider la décision.",
+              "exercise": [
+                "Identifiez l’image ou le moment dont il est question.",
+                "Formulez ce que vous redoutez de la part des autres.",
+                "Précisez quelle partie de l’activité vous souhaitez encore garder."
+              ],
+              "benefit": "Ces repères peuvent éviter qu’une décision sur la photo emporte tout le projet."
+            },
+            {
+              "heading": "Proposer un cadrage lié au travail",
+              "objective": "Montrer ce qui compte pour le public tout en gardant votre accord.",
+              "exercise": [
+                "Choisissez le geste que l’affiche doit rendre compréhensible.",
+                "Demandez un aperçu d’une image centrée sur ce geste.",
+                "Décidez avec les personnes concernées si elle peut être utilisée."
+              ],
+              "benefit": "L’équipe dispose d’un support utile et chacun peut se prononcer sur sa diffusion."
+            },
+            {
+              "heading": "Choisir à qui parler de la gêne",
+              "objective": "Partager l’information voulue dans un cadre choisi.",
+              "exercise": [
+                "Décidez si vous souhaitez dire la difficulté à quelqu’un et dans quel lieu.",
+                "Exprimez ce que vous voulez garder confidentiel et où vous voulez arrêter l’échange.",
+                "Reprenez avec votre professionnel l’appréhension qui continue à vous coûter."
+              ],
+              "benefit": "Une conversation peut aider au travail et la question clinique peut être reprise ailleurs."
+            }
+          ]
         }
       ],
       "ending_title": "Ce que Morgane dit en marchant",
@@ -142,7 +312,8 @@
       "continuity": {
         "choice": "Morgane conserve son rôle, propose un cadrage sur les gestes et confie le nom du trouble à Sonia seulement.",
         "next": "Lundi, elle apporte à Anna les questions que cette première confidence a soulevées."
-      }
+      },
+      "conclusion": "Le dessin de Yassine permet de proposer une affiche centrée sur le geste. Morgane reste dans la préparation et choisit ce qu’elle dit à Sonia pendant la marche. La peur d’une remarque existe avant la prise de vue et reste une question pour son rendez-vous avec Anna."
     },
     {
       "number": 4,
@@ -166,13 +337,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce qui arrive pendant la crise et après",
-          "text": "Morgane se souvient du moment où elle voulait s’arrêter et du mal qu’elle avait ensuite à reprendre sa journée. Elle décrit à Anna des épisodes après lesquels elle a envie de quitter la conversation ou annule un rendez-vous. La consultation reprend ces épisodes et le fait que Morgane n’a pas régulièrement de conduites compensatoires. Ces informations éclairent le diagnostic et ce que les crises changent pour elle."
+          "heading": "Comment les professionnels distinguent-ils deux troubles qui comportent des crises ?",
+          "points": [
+            {
+              "heading": "Le mot crise ne tranche pas",
+              "text": "Une expérience de perte de contrôle peut être présente dans les deux tableaux et mérite d’être décrite en détail avec l’équipe.",
+              "examples": [
+                "Morgane écrit « hyperphagie boulimique » à côté de « crise de boulimie » parce que ces mots lui paraissent proches.",
+                "Une personne peut dire qu’elle n’arrivait plus à s’arrêter sans que cette seule phrase permette de nommer le trouble."
+              ]
+            },
+            {
+              "heading": "L’après-épisode apporte une information distincte",
+              "text": "L’équipe s’intéresse à la présence ou à l’absence de compensations inappropriées répétées visant à prévenir une prise de poids.",
+              "examples": [
+                "Morgane décrit surtout la détresse et des rendez-vous qu’elle annule, et indique qu’elle n’a pas de conduites compensatoires régulières.",
+                "Un autre entretien peut examiner des compensations qui reviennent en plus des crises, quelles que soient les impressions de l’entourage sur le corps."
+              ]
+            },
+            {
+              "heading": "Le retentissement donne du contexte",
+              "text": "Les soignants reprennent ce qui a motivé l’évaluation, en tenant compte de la vie quotidienne et des autres explications possibles.",
+              "examples": [
+                "Anna revient sur les crises qui ont conduit Morgane à être suivie.",
+                "Morgane explique à Anna qu’elle a parfois envie de disparaître de la conversation après un épisode."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire entrer la vie quotidienne dans le suivi",
-          "text": "L’équipe peut tenir compte de ce retentissement social, de la détresse et de sa santé physique dans le projet de soins. La HAS et la FFAB recommandent une prise en charge adaptée et discutée avec la personne. Dans la scène, la clarification du diagnostic donne surtout à Morgane un langage pour poser des questions. Elle peut choisir de parler à Lucie de ce qu’elle vit sans avoir à lui expliquer les catégories en détail. Le rendez-vous lui laisse aussi une place pour parler du projet qui l’occupe en ce moment."
+          "heading": "3 techniques pour préparer ses questions sur le diagnostic en consultation",
+          "points": [
+            {
+              "heading": "Apporter les termes qui se ressemblent",
+              "objective": "Comprendre les mots utilisés par son équipe.",
+              "exercise": [
+                "Écrivez les termes que vous avez entendus ou lus.",
+                "Soulignez ce qui vous paraît désigner la même chose.",
+                "Demandez au professionnel de vous expliquer la différence dans le cadre de votre bilan."
+              ],
+              "benefit": "Vous pouvez repartir avec des mots plus clairs pour parler du suivi."
+            },
+            {
+              "heading": "Distinguer pendant, après et au fil du temps",
+              "objective": "Donner à l’équipe des éléments qui dépassent le récit d’une crise.",
+              "exercise": [
+                "Décrivez ce que vous ressentez pendant un épisode.",
+                "Dites ce qui se passe ensuite et quelles conséquences vous préoccupent.",
+                "Indiquez au professionnel ce qui revient et ce sur quoi vous avez un doute."
+              ],
+              "benefit": "L’équipe peut rapprocher les épisodes, leur suite et leur retentissement."
+            },
+            {
+              "heading": "Choisir une phrase pour un proche",
+              "objective": "Partager un vécu sans avoir à faire un exposé sur le diagnostic.",
+              "exercise": [
+                "Choisissez ce que vous voulez faire comprendre à cette personne.",
+                "Préparez une phrase avec vos propres mots.",
+                "Gardez les questions médicales qui restent pour le prochain échange avec l’équipe."
+              ],
+              "benefit": "La confidence peut rester à la mesure de ce que vous souhaitez transmettre."
+            }
+          ]
         }
       ],
       "ending_title": "Une phrase plutôt qu’un cours",
@@ -188,7 +415,8 @@
       "continuity": {
         "choice": "Morgane clarifie son diagnostic avec Anna et choisit une manière d’expliquer son vécu à Lucie.",
         "next": "La rencontre près de la librairie met à l’épreuve ce qu’elle veut partager et ce qu’elle préfère garder en consultation."
-      }
+      },
+      "conclusion": "Morgane repart avec une phrase sur ce qu’elle éprouve et des questions pour son équipe. L’entretien a clarifié la différence entre le vécu d’une crise et le tableau dont elle fait partie. Elle pourra choisir ses mots avec Lucie sans se fonder sur l’apparence ou sur la ressemblance des noms."
     },
     {
       "number": 5,
@@ -212,13 +440,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle avait envie de retrouver Lucie et redoutait ce qu’elle pourrait deviner. Les deux sentiments peuvent coexister. La souffrance et le retentissement social ont une place dans l’évaluation et dans le suivi. Morgane peut expliquer à Anna qu’une partie difficile se joue quand elle voit une invitation apparaître sur son téléphone le lendemain."
+          "heading": "Comment la honte après une crise prolonge-t-elle la détresse ?",
+          "points": [
+            {
+              "heading": "Un rendez-vous attendu devient difficile",
+              "text": "La honte peut pousser à retarder une rencontre même si la personne en garde l’envie.",
+              "examples": [
+                "Morgane propose à Lucie de remettre leur marche deux mercredis de suite.",
+                "À force d’imaginer qu’elle devra s’expliquer, elle en vient presque à souhaiter ne plus recevoir d’invitation."
+              ]
+            },
+            {
+              "heading": "La réponse de l’autre peut manquer le besoin",
+              "text": "Une tentative de rassurer peut laisser de côté ce qui rend le vécu pénible.",
+              "examples": [
+                "Lucie parle d’un gros appétit alors que Morgane essaie de décrire pourquoi elle se cache après l’épisode.",
+                "Morgane replie le ticket du livre et perd le fil de la phrase qu’elle avait répétée."
+              ]
+            },
+            {
+              "heading": "Le coût devient audible dans un détail",
+              "text": "Raconter une conséquence ordinaire peut aider l’autre à comprendre ce que la honte a changé.",
+              "examples": [
+                "Morgane demande à finir sa phrase avant de s’asseoir au café.",
+                "Elle finit par dire qu’elle aurait voulu voir Lucie les deux autres mercredis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer de la rassurance à l’écoute",
-          "text": "Lucie cherchait à rendre la situation moins menaçante et a ramené ce qu’elle entendait à un appétit qu’elle connaît. La réponse laisse de côté la perte de contrôle et le coût qui suit. Elle peut reprendre en demandant ce que Morgane essayait de lui dire sur leurs rendez-vous. Morgane garde la possibilité de s’arrêter là ou d’évoquer le suivi. Leur marche peut rester une occasion de se voir, sans obligation de discuter de santé chaque fois. Un appui utile se construit sur une demande possible pour la proche. La présence de Lucie ce mercredi et l’accompagnement des soignants ont des fonctions différentes."
+          "heading": "3 techniques pour faire entendre ce que la honte a changé dans un lien",
+          "points": [
+            {
+              "heading": "Partir du rendez-vous manqué",
+              "objective": "Mettre des mots sur l’effet de la honte sans détailler la crise.",
+              "exercise": [
+                "Choisissez un moment où vous auriez souhaité voir le proche.",
+                "Dites quel choix est devenu difficile ensuite.",
+                "Précisez si vous voulez être écouté ou faire une nouvelle proposition."
+              ],
+              "benefit": "La conversation peut partir d’un effet concret et d’un besoin audible."
+            },
+            {
+              "heading": "Demander quelques mots de plus",
+              "objective": "Reprendre la parole quand une réponse rapide a interrompu la confidence.",
+              "exercise": [
+                "Dites que vous souhaitez finir une phrase.",
+                "Revenez au détail qui montre ce qui vous a coûté.",
+                "Décidez ensuite si vous voulez continuer la conversation ou la remettre."
+              ],
+              "benefit": "Vous pouvez garder la mesure de la confidence quand l’autre cherche à vous rassurer."
+            },
+            {
+              "heading": "Choisir une invitation modulable",
+              "objective": "Garder le lien en faisant une place aux jours difficiles.",
+              "exercise": [
+                "Proposez un format bref que vous pourriez apprécier.",
+                "Convenez de la façon de le demander le jour venu.",
+                "Vérifiez ce que le proche peut offrir et parlez à l’équipe si le retrait prend beaucoup de place."
+              ],
+              "benefit": "La rencontre peut rester possible et les professionnels peuvent reprendre la détresse si elle persiste."
+            }
+          ]
         }
       ],
       "ending_title": "Une raison de reprendre la marche",
@@ -233,7 +517,8 @@
       "continuity": {
         "choice": "Morgane demande à Lucie de l’écouter au sujet des mercredis annulés et convient d’un soutien simple.",
         "next": "Lundi, le groupe essaie l’accueil des visiteurs. Le tour court reste une option personnelle avec Lucie."
-      }
+      },
+      "conclusion": "Les deux sœurs se mettent à parler des mercredis manqués puis conviennent d’un tour court quand Morgane en a besoin. Lucie peut comprendre que le problème a débordé sur leur lien. La cour dans le livre leur donne ensuite une raison de poursuivre la rencontre."
     },
     {
       "number": 6,
@@ -253,17 +538,73 @@
         {
           "role": "explanation",
           "heading": "Une comparaison plutôt qu’une règle",
-          "text": "Les recommandations du NICE décrivent des formes d’accompagnement qui aident à examiner des situations où les épisodes surviennent. Les aspects émotionnels et les habitudes alimentaires peuvent faire partie du travail selon les besoins."
+          "text": "Dans le suivi de l’hyperphagie boulimique, examiner les situations autour des épisodes peut éclairer le rôle possible des circonstances, des émotions ou des habitudes. La présence d’un événement avant une crise ne suffit pas à expliquer celle-ci. Deux journées chargées peuvent se dérouler différemment. Morgane retrouve plusieurs éléments du premier lundi et choisit d’en parler à Anna sans ramener la soirée à la seule livraison."
         },
         {
           "role": "manifestations",
-          "heading": "Deux journées qui se ressemblent en partie",
-          "text": "Aujourd’hui, la tension monte quand le téléphone sonne et que quelqu’un lui pose une question au même moment. Morgane repense à la livraison décalée de l’autre lundi et à l’épisode qui a suivi. En revenant sur cette journée, elle retrouve aussi le souvenir d’un appel qu’elle redoutait et d’une gêne déjà présente le matin. Ce lundi, elle éloigne le téléphone et réussit à faire de la place à l’essai de Yassine."
+          "heading": "Comment les circonstances d’un épisode se dessinent-elles quand on les reprend ?",
+          "points": [
+            {
+              "heading": "Un événement visible revient en premier",
+              "text": "Un imprévu qu’on se rappelle facilement peut sembler résumer toute la journée.",
+              "examples": [
+                "Le changement de salle renvoie Morgane à une livraison décalée l’autre lundi.",
+                "Elle se souvient d’avoir repassé l’échange avec le livreur avant la crise du soir."
+              ]
+            },
+            {
+              "heading": "D’autres circonstances apparaissent ensuite",
+              "text": "Reprendre la journée peut faire émerger des éléments dont on ignore encore le rôle.",
+              "examples": [
+                "Morgane se rappelle aussi un appel qu’elle appréhendait en rentrant.",
+                "Elle retrouve le souvenir d’une gêne déjà présente le matin, avant la livraison."
+              ]
+            },
+            {
+              "heading": "Une ressemblance n’annonce pas forcément la suite",
+              "text": "Comparer deux moments peut faire apparaître ce qui diffère à côté de ce qui se ressemble.",
+              "examples": [
+                "Le lundi de la répétition, le téléphone et la question de l’évier arrivent au même moment.",
+                "À la fin, Morgane se rappelle surtout que Yassine a pu résoudre le problème de la table."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder à la situation de travail ses propres solutions",
-          "text": "Sonia, Yassine et Morgane ont à trouver une place et un horaire. Morgane peut poser la question de la répétition sans avoir à raconter un épisode alimentaire. Prévenir d’un changement et répartir les appels sont des tâches que le groupe peut décider. Ce soutien sur le travail a sa valeur même si le suivi doit aussi explorer ce que Morgane traverse en rentrant chez elle. Elle peut être tendue et garder assez de place pour entendre Yassine, comme elle peut être gênée un autre soir dans des circonstances différentes. La comparaison aide à respecter cette variabilité.\n\nLors de sa prochaine séance, elle peut raconter à Anna les éléments dont elle se souvient et dire ce qui lui échappe. Elles pourront comparer ces journées à partir des questions que Morgane souhaite approfondir."
+          "heading": "3 techniques pour observer un contexte sans décider d’une cause",
+          "points": [
+            {
+              "heading": "Noter des circonstances avant d’interpréter",
+              "objective": "Donner une place à plusieurs éléments du contexte.",
+              "exercise": [
+                "Relevez deux faits repérables dans une journée que vous souhaitez reprendre.",
+                "Ajoutez l’émotion ou la pensée dont vous vous souvenez, si elle vous revient.",
+                "Montrez vos notes au professionnel en précisant ce qui reste incertain."
+              ],
+              "benefit": "L’entretien peut explorer des liens possibles sans donner une cause unique à l’épisode."
+            },
+            {
+              "heading": "Comparer deux journées sur un point",
+              "objective": "Observer ce qui change quand un contexte semble se répéter.",
+              "exercise": [
+                "Choisissez un imprévu présent dans deux journées.",
+                "Décrivez un détail différent avant ou après cet imprévu.",
+                "Demandez à votre équipe comment utiliser ce contraste en consultation."
+              ],
+              "benefit": "Une comparaison peut élargir ce que vous pensiez savoir d’un seul épisode."
+            },
+            {
+              "heading": "Régler l’imprévu qui est devant vous",
+              "objective": "Préserver une décision de travail lorsque la journée rappelle un épisode.",
+              "exercise": [
+                "Identifiez ce que l’équipe doit organiser maintenant.",
+                "Annoncez le temps et l’espace réellement disponibles.",
+                "Choisissez ensemble ce qui peut être essayé ou déplacé."
+              ],
+              "benefit": "Le travail peut avancer pendant que la question du contexte garde sa place dans le suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Ce que les deux lundis ont en commun",
@@ -279,7 +620,8 @@
       "continuity": {
         "choice": "Morgane prévient Yassine et garde des éléments de contexte à discuter dans le suivi.",
         "next": "Le début de la répétition suivante est confié à Yassine, et le groupe choisit comment annoncer la matinée."
-      }
+      },
+      "conclusion": "Morgane emporte pour Anna deux lundis qui se ressemblent par leurs imprévus et se distinguent par ce qu’elle en retient. L’essai de Yassine trouve un créneau. Le souvenir de la livraison reste une piste à explorer avec d’autres éléments de cette journée."
     },
     {
       "number": 7,
@@ -299,17 +641,73 @@
         {
           "role": "explanation",
           "heading": "Un retour de difficulté à examiner",
-          "text": "Un épisode survenu après une période plus calme apporte une information sur la situation actuelle. La répétition, le contexte, la souffrance et ce qui s’est passé ensuite aident l’équipe à comprendre l’évolution."
+          "text": "Le retour d’un épisode d’hyperphagie boulimique après une période plus calme peut faire douter de changements réels. L’équipe apprécie l’évolution à partir de plusieurs situations et de la détresse, du contexte et des effets des épisodes. Morgane avait dit à Anna que certaines choses devenaient plus faciles. En lisant le message de Yassine, elle découvre que le découragement du lendemain modifie une décision sans rapport direct avec ce qu’elle a mangé."
         },
         {
           "role": "manifestations",
-          "heading": "Le lendemain, la tentation d’annuler la répétition",
-          "text": "Morgane est tentée de résumer la semaine à cette soirée. Après l’épisode, elle a repoussé une réponse à Sonia au sujet de la rallonge. Le lendemain, elle écrit presque à Yassine qu’il fera sa répétition sans elle, alors qu’elle tenait à l’écouter. Ce découragement survient après plusieurs jours où elle s’était sentie plus libre. Les deux périodes ont leur place dans le récit de ce qui lui arrive."
+          "heading": "Comment le découragement après une nouvelle crise modifie-t-il les décisions du lendemain ?",
+          "points": [
+            {
+              "heading": "Un épisode change la lecture du passé",
+              "text": "Le découragement peut rendre difficile de reconnaître les améliorations dont on se souvenait la veille.",
+              "examples": [
+                "Morgane pense qu’elle a parlé trop tôt de ce qui allait mieux.",
+                "La conversation avec Anna sur le dernier dimanche lui revient avec un autre sens après le nouvel épisode."
+              ]
+            },
+            {
+              "heading": "Une demande simple devient plus lourde",
+              "text": "Les effets du découragement peuvent se lire dans un délai ou un désengagement envisagé.",
+              "examples": [
+                "Morgane repousse la réponse sur la rallonge alors que Sonia posait une question d’installation.",
+                "Elle prépare un message pour laisser Yassine répéter sans elle malgré sa propre demande d’y assister."
+              ]
+            },
+            {
+              "heading": "Un appui préparé peut redevenir utile",
+              "text": "Un épisode revenu peut être repris avec les mots ou le contact déjà trouvés au cours des soins.",
+              "examples": [
+                "Morgane écrit à l’équipe après avoir répondu à Yassine.",
+                "Elle précise à Sonia quelle part de l’installation lui serait utile plutôt que de laisser toute la répétition en suspens."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire deux demandes de nature différente",
-          "text": "Au travail, Morgane sait qu’elle peut venir pour écouter Yassine et demander un relais pour l’installation. Elle n’a pas besoin de déclarer la soirée à toute l’équipe. Au suivi, la question porte sur ce qu’elle a éprouvé et sur le découragement qui a duré le lendemain. Elle décide d’utiliser le canal qu’Anna lui a indiqué pour signaler un changement et demander si elles peuvent en parler au prochain rendez-vous. Cette possibilité dépend de l’organisation de son service. L’aide de Sonia peut porter sur la tâche dont elles sont responsables ensemble.\n\nLe NICE inclut le travail autour des difficultés futures et des rechutes dans certaines formes de prise en charge. Morgane peut décrire cet épisode et les jours qui l’ont précédé pour discuter avec Anna de ce qui l’aiderait si la difficulté revient."
+          "heading": "3 techniques pour reprendre appui quand un épisode revient",
+          "points": [
+            {
+              "heading": "Dire ce que le retour a changé",
+              "objective": "Donner à l’équipe une information sur l’épisode et son lendemain.",
+              "exercise": [
+                "Reprenez le contact convenu avec les professionnels.",
+                "Décrivez ce que vous avez éprouvé et une décision devenue difficile ensuite.",
+                "Demandez à quel moment ces éléments pourront être repris en rendez-vous."
+              ],
+              "benefit": "L’équipe peut apprécier la situation actuelle à partir d’un exemple concret."
+            },
+            {
+              "heading": "Préparer deux souvenirs pour le même bilan",
+              "objective": "Garder une trace des semaines précédentes même quand le découragement revient.",
+              "exercise": [
+                "Retenez une situation devenue plus facile avant le nouvel épisode.",
+                "Notez ce qui vous a surpris dans la situation récente.",
+                "Présentez les deux sans chercher seul à conclure sur l’évolution."
+              ],
+              "benefit": "Le suivi peut tenir compte de ce qui a changé et de ce qui demande encore un appui."
+            },
+            {
+              "heading": "Distinguer présence et préparation",
+              "objective": "Conserver la part d’un rendez-vous que vous voulez vraiment garder.",
+              "exercise": [
+                "Relisez la demande précise qui vous a été faite.",
+                "Choisissez si vous voulez y être et quelle tâche vous pouvez tenir.",
+                "Demandez un relais pour un élément distinct ou convenez d’un autre moment."
+              ],
+              "benefit": "Il devient possible de répondre au rendez-vous sans devoir prendre tout le reste en charge."
+            }
+          ]
         }
       ],
       "ending_title": "Le message qu’elle garde",
@@ -325,7 +723,8 @@
       "continuity": {
         "choice": "Morgane conserve l’écoute du premier essai, partage l’installation et signale le retour d’un épisode à l’équipe.",
         "next": "Sonia propose un rendez-vous avant l’essai. Les deux doivent préciser ce que veut dire aider au travail."
-      }
+      },
+      "conclusion": "Yassine garde une chaise et Morgane trouve les mots pour écrire à l’équipe. La crise lui a fait douter de ses progrès et de sa place à la répétition. Le retour au suivi permet de reprendre ce découragement sans réduire les dernières semaines à cet épisode."
     },
     {
       "number": 8,
@@ -349,13 +748,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le repas qui devient une preuve à donner",
-          "text": "Morgane accepte d’abord de dire comment le déjeuner s’est passé. Elle vient de recevoir l’aide de Sonia pour la répétition et entend son inquiétude. Le message lui donne pourtant l’impression qu’elle va devoir rendre des comptes pendant un repas où elle voudrait penser à autre chose. Quand elle revient vers Sonia, elle arrive à distinguer le café qu’elles pourraient prendre ensemble de la vérification qu’elle a comprise dans le message."
+          "heading": "Comment une présence proposée devient-elle une surveillance ressentie ?",
+          "points": [
+            {
+              "heading": "La demande s’élargit",
+              "text": "Un appui précis peut prendre un autre sens quand quelqu’un ajoute une vérification que la personne n’a pas demandée.",
+              "examples": [
+                "Sonia avait accepté de s’occuper de la rallonge et de se voir avant l’essai.",
+                "À la pause, elle demande à Morgane de lui dire comment s’est passé le déjeuner pour être rassurée."
+              ]
+            },
+            {
+              "heading": "Un premier oui peut coûter",
+              "text": "Par reconnaissance ou par surprise, on peut accepter une demande dont on découvre ensuite l’effet.",
+              "examples": [
+                "Morgane répond oui en pensant au temps que Sonia vient de consacrer à la répétition.",
+                "Elle imagine aussitôt le repas avec le sentiment d’avoir à fournir une preuve."
+              ]
+            },
+            {
+              "heading": "Nommer les deux intentions permet de les séparer",
+              "text": "La conversation peut distinguer une envie de compagnie et une inquiétude de santé qui appartient au suivi.",
+              "examples": [
+                "Près de l’évier, Morgane demande à Sonia si elle voulait un café ou des nouvelles de son repas.",
+                "Sonia peut redire ce qui l’inquiète et garder le rendez-vous de travail convenu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Trouver une proposition que chacune peut tenir",
-          "text": "Elles peuvent s’accorder sur un café lorsqu’elles en ont envie et sur une disponibilité précise avant la matinée. Morgane peut garder la question des épisodes pour Anna. Si elle veut associer quelqu’un à une partie du suivi, elle peut en parler avec l’équipe et choisir ce qu’elle souhaite partager. La responsabilité clinique reste à la place où elle peut être assumée. Sonia peut dire ce qu’elle sait faire au travail et exprimer sa propre inquiétude. Morgane est libre d’accepter, de refuser ou de préciser sa demande, y compris après un premier oui. L’accord peut évoluer avec la situation."
+          "heading": "3 techniques pour redéfinir une aide après une confidence",
+          "points": [
+            {
+              "heading": "Décrire l’effet d’une demande",
+              "objective": "Revenir sur un accord donné trop vite.",
+              "exercise": [
+                "Citez la question à laquelle vous avez répondu.",
+                "Dites comment elle a modifié ce que vous imaginiez du moment.",
+                "Exprimez la limite que vous voulez poser maintenant."
+              ],
+              "benefit": "Votre interlocuteur peut comprendre ce que vous souhaitez changer sans avoir à deviner votre réaction."
+            },
+            {
+              "heading": "Proposer une présence sans compte rendu",
+              "objective": "Garder l’aide qui correspond à votre besoin.",
+              "exercise": [
+                "Choisissez une activité que vous aimeriez partager avec la personne.",
+                "Précisez ce dont vous ne voulez pas parler à ce moment-là.",
+                "Vérifiez que la proposition lui convient aussi."
+              ],
+              "benefit": "Les deux personnes peuvent se retrouver pour une raison commune clairement choisie."
+            },
+            {
+              "heading": "Prévoir où adresser les questions de soin",
+              "objective": "Clarifier le rôle d’une personne de confiance et celui de l’équipe.",
+              "exercise": [
+                "Demandez-vous quelle aide relève de votre relation ordinaire.",
+                "Adressez au professionnel les questions cliniques qui restent.",
+                "Si vous souhaitez associer un proche à un échange, discutez d’abord du cadre et des informations à partager."
+              ],
+              "benefit": "Le proche peut aider dans les limites convenues et le suivi garde son propre espace."
+            }
+          ]
         }
       ],
       "ending_title": "Une demande à leur mesure",
@@ -370,7 +825,8 @@
       "continuity": {
         "choice": "Morgane refuse le compte rendu des repas et choisit une présence ordinaire et un accord de travail avec Sonia.",
         "next": "Jeudi, Anna et Morgane font le point. La répartition avant la matinée est confirmée."
-      }
+      },
+      "conclusion": "Le café redevient un café et Sonia garde le point de travail avant l’ouverture. Morgane a pu revenir sur un oui qui lui pesait, sans renoncer à la présence de sa collègue. Le retour de l’épisode sera repris jeudi avec Anna."
     },
     {
       "number": 9,
@@ -394,13 +850,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que Morgane voudrait voir compter dans le suivi",
-          "text": "Morgane redoute que son effort se résume à ce qu’affiche une balance. Elle trouve plus facile d’imaginer parler d’une taille de vêtements que du découragement qui a suivi l’épisode. Elle avait pourtant failli renoncer à la répétition de Yassine, à laquelle elle tenait. En reprenant le message avec Anna, elle arrive à décrire un effet concret de l’épisode qui lui avait été difficile à raconter."
+          "heading": "Comment un objectif de soin se précise-t-il au-delà de la question du poids ?",
+          "points": [
+            {
+              "heading": "La balance peut occuper l’entretien à l’avance",
+              "text": "S’attendre à parler seulement de poids peut rendre difficile d’annoncer ce que l’on veut comprendre des épisodes.",
+              "examples": [
+                "Dans la salle d’attente, Morgane écrit « Qu’est-ce qu’on suit ? » en pensant à ce qu’on va lui demander.",
+                "Elle imagine plus facilement parler d’une taille de vêtements que du découragement du lendemain."
+              ]
+            },
+            {
+              "heading": "Le retentissement donne une direction au travail",
+              "text": "Ce que l’épisode change dans la vie peut aider à définir des objectifs avec les professionnels.",
+              "examples": [
+                "Morgane raconte à Anna qu’elle a failli annuler une répétition qu’elle voulait voir.",
+                "Anna note son souhait de comprendre ce qui précède les épisodes et ce qu’elle abandonne ensuite."
+              ]
+            },
+            {
+              "heading": "Le format du soin mérite lui aussi une discussion",
+              "text": "Comprendre les options et la place de chacun peut compter dans une décision de traitement.",
+              "examples": [
+                "Morgane demande comment se déroule une thérapie qui traite ces difficultés.",
+                "Elle veut revoir la confidentialité du format et garder une question médicale pour le professionnel concerné."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’accorder sur une manière de reparler de la difficulté",
-          "text": "Morgane et Anna ont désormais une scène précise pour discuter du découragement. Elles peuvent s’interroger sur le moment où la gêne prend assez de place pour qu’elle retire une réponse qu’elle avait envie de donner. Les épisodes récurrents et la santé physique continuent à être suivis. Pouvoir parler plus tôt d’une difficulté ou retrouver un contact choisi peut aussi compter pour Morgane. Ces repères viennent de ce qu’elle souhaite et de l’évaluation clinique. Ils peuvent être ajustés si ses besoins changent. Anna peut lui présenter des possibilités en précisant ce qu’elle sait de leur déroulement et les questions qui restent à discuter.\n\nMorgane peut demander quel professionnel répondra à quelle question et comment ils travailleront ensemble."
+          "heading": "3 techniques pour préparer le choix d’un suivi spécialisé",
+          "points": [
+            {
+              "heading": "Nommer un effet que vous souhaitez voir changer",
+              "objective": "Relier un objectif de soin à la vie que vous menez.",
+              "exercise": [
+                "Choisissez un épisode dont la suite a compté pour vous.",
+                "Décrivez une activité, une relation ou une décision qu’il a affectée.",
+                "Dites à l’équipe ce que vous voudriez pouvoir retrouver ou faire différemment."
+              ],
+              "benefit": "Le suivi psychologique peut partir de la détresse et du retentissement vécus."
+            },
+            {
+              "heading": "Demander une présentation des options",
+              "objective": "Comprendre ce que chaque format de soin demanderait.",
+              "exercise": [
+                "Demandez quelles options correspondent à votre situation.",
+                "Faites préciser le déroulement, l’accompagnement et la confidentialité.",
+                "Convenez du moment où vous pourrez poser d’autres questions ou donner votre réponse."
+              ],
+              "benefit": "La décision peut prendre en compte les besoins et les contraintes de la personne."
+            },
+            {
+              "heading": "Attribuer une question à chaque rendez-vous",
+              "objective": "Distinguer les objectifs du travail psychologique et ceux du suivi physique.",
+              "exercise": [
+                "Formulez une question de santé et une question sur ce qui se passe autour des épisodes.",
+                "Demandez qui peut répondre à chacune et comment les professionnels se coordonnent.",
+                "Notez le prochain rendez-vous ou le contact convenu pour chaque question."
+              ],
+              "benefit": "Vous pouvez aborder les deux dimensions du suivi sans les confondre."
+            }
+          ]
         }
       ],
       "ending_title": "La page qui reste ouverte",
@@ -416,7 +928,8 @@
       "continuity": {
         "choice": "Morgane fixe avec Anna des objectifs liés aux épisodes et à leur retentissement et demande à connaître les options de suivi.",
         "next": "Samedi, elle retrouve Sonia avant l’ouverture et conserve la consultation comme un espace à part."
-      }
+      },
+      "conclusion": "Le ticket de la librairie marque une page où figurent les circonstances des crises, la répétition que Morgane a failli manquer et une question pour le médecin. La prochaine décision portera sur une forme de soin dont elle veut connaître le déroulement. La balance ne résume pas ce qu’elle souhaite voir changer."
     },
     {
       "number": 10,
@@ -440,13 +953,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le commentaire qui coupe le fil de la démonstration",
-          "text": "Morgane a la branche à la main quand la visiteuse parle de son ventre. Elle oublie où elle voulait la poser et envisage de demander à Yassine de reprendre la démonstration. L’impact de la remarque est visible même si la visiteuse croyait être aimable. Quand Morgane pose enfin la branche, elle reste troublée. Ce moment décrit ce qu’elle éprouve à cette table, dans cet échange."
+          "heading": "Comment une remarque sur le corps interrompt-elle un geste familier ?",
+          "points": [
+            {
+              "heading": "L’attention quitte le geste",
+              "text": "Une remarque peut retenir l’attention au point d’interrompre une tâche pourtant familière.",
+              "examples": [
+                "Morgane serre la branche au lieu de la déposer sur son support.",
+                "Une personne qui montre un outil peut oublier l’étape suivante en essayant de comprendre pourquoi on vient de commenter son apparence."
+              ]
+            },
+            {
+              "heading": "L’intention prêtée à l’autre n’efface pas l’effet",
+              "text": "Une parole qui se voulait aimable peut tout de même amener la personne à envisager de se retirer.",
+              "examples": [
+                "La visiteuse avance la main vers le tablier alors que Morgane pense à demander un relais.",
+                "Morgane doit chercher ses mots avant de poser la branche et de décider si elle poursuit."
+              ]
+            },
+            {
+              "heading": "Reprendre le geste peut laisser de la gêne",
+              "text": "Exprimer une limite et continuer une activité peuvent demander un temps d’ajustement.",
+              "examples": [
+                "Morgane dit qu’elle préfère qu’on ne commente pas son corps, puis propose l’essai à la visiteuse.",
+                "Après avoir montré où appuyer la tige, elle demande à Sonia une minute entre deux personnes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner une limite puis choisir la suite",
-          "text": "Morgane peut choisir une réponse courte à la visiteuse. Elle peut aussi demander une pause ou laisser Sonia reprendre un geste si elle le préfère. Le fait qu’elle ait posé une limite ne l’oblige pas à poursuivre la démonstration. Elle peut essayer de retrouver sa place et remarquer si elle a besoin d’un instant. Sonia peut se rendre disponible sans donner d’explication personnelle aux visiteurs. L’entourage et les collègues peuvent contribuer à un échange plus respectueux en ramenant l’attention sur ce que la personne souhaite partager. Morgane peut reprendre cette situation avec les professionnels comme un exemple du coût social de ces remarques."
+          "heading": "3 techniques pour poser une limite pendant une activité qu’on veut reprendre",
+          "points": [
+            {
+              "heading": "Formuler une limite utilisable sur place",
+              "objective": "Dire quel échange vous acceptez pendant une démonstration.",
+              "exercise": [
+                "Choisissez une phrase courte qui indique votre préférence.",
+                "Si vous souhaitez continuer, proposez une action liée au geste que vous montriez.",
+                "Gardez le choix de faire une pause ou de mettre fin à l’échange."
+              ],
+              "benefit": "Une phrase précise permet de répondre sans avoir à justifier son corps ni son histoire."
+            },
+            {
+              "heading": "Convenir d’un relais avant l’activité",
+              "objective": "Garder la possibilité d’interrompre un geste sans tout abandonner.",
+              "exercise": [
+                "Demandez à une personne disponible quel geste elle pourrait reprendre.",
+                "Convenez de la manière dont elle proposera son aide.",
+                "Décidez sur place si vous voulez une pause, un relais ou la poursuite de l’activité."
+              ],
+              "benefit": "L’appui reste disponible tout en laissant la décision à la personne concernée."
+            },
+            {
+              "heading": "Revenir à un détail du geste",
+              "objective": "Reprendre une tâche à partir d’un point concret si l’on en a envie.",
+              "exercise": [
+                "Repérez l’objet ou le mouvement en cours avant la remarque.",
+                "Choisissez une indication simple que vous pouvez donner à l’autre personne.",
+                "Vérifiez ensuite si vous voulez continuer ou prendre un moment."
+              ],
+              "benefit": "Une étape familière peut rendre la reprise plus accessible même si la gêne reste."
+            }
+          ]
         }
       ],
       "ending_title": "Laisser la branche faire son poids",
@@ -461,7 +1030,8 @@
       "continuity": {
         "choice": "Morgane pose une limite puis choisit de poursuivre le geste avec une courte pause ensuite.",
         "next": "Le groupe doit relire la photo et la légende avant de les envoyer à la lettre du quartier."
-      }
+      },
+      "conclusion": "La branche tient et Morgane demande une minute avant de reprendre. Elle a pu poser sa limite et revenir au geste qu’elle voulait partager. Le trouble et la remarque ont encore un effet sur la journée, alors même que la visiteuse a pu terminer son essai."
     },
     {
       "number": 11,
@@ -485,13 +1055,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "La légende qui change ce qu’elle retient de la matinée",
-          "text": "En relisant la légende, Morgane imagine les questions des lecteurs et le regard qu’ils pourraient poser sur son corps. En parlant avec Yassine, elle retrouve le souvenir du geste qu’elle a montré à la première visiteuse. Les deux font partie de ce qui lui reste de la matinée. Elle avait éprouvé de la gêne et trouvé une façon d’aider quelqu’un à faire tenir la branche."
+          "heading": "Comment la peur d’être jugée peut-elle infléchir le récit d’une réussite ?",
+          "points": [
+            {
+              "heading": "Une légende peut faire craindre des questions privées",
+              "text": "Des mots qui interprètent l’expérience des personnes peuvent annoncer des questions auxquelles elles ne souhaitent pas répondre.",
+              "examples": [
+                "La légende parle d’appréhensions surmontées et Morgane se demande de quoi on lui demandera d’avoir eu peur.",
+                "Elle craint aussi que cette formulation dirige l’attention des lecteurs vers son corps."
+              ]
+            },
+            {
+              "heading": "Un geste observé apporte une autre description",
+              "text": "Les contributions peuvent se raconter par des actions et des détails partagés.",
+              "examples": [
+                "Yassine veut expliquer le rôle de la pause qu’il a prévue pendant son essai.",
+                "Morgane se rappelle comment la visiteuse a déplacé les doigts après son indication sur la tige."
+              ]
+            },
+            {
+              "heading": "Le texte et l’image appellent des accords propres",
+              "text": "On peut vouloir participer à la publication tout en fixant le contenu et les personnes visibles.",
+              "examples": [
+                "Morgane propose de vérifier le cadrage où quelqu’un apparaît sur le bord.",
+                "Elle souhaite que Yassine soit nommé pour son essai et que la légende indique comment on entrait dans l’atelier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ensemble de la trace qu’on laisse",
-          "text": "Morgane peut discuter de la légende comme d’une décision de travail. Yassine peut choisir les mots qui décrivent sa démonstration. Une personne visible dans le cadre doit pouvoir se prononcer sur la diffusion de son image. Sonia peut tenir compte de la confidence de Morgane en respectant le choix déjà exprimé sur les informations personnelles. Elle peut également poser des questions simples aux autres personnes concernées. Un récit d’équipe peut parler des gestes montrés et de la manière dont les visiteurs les ont essayés. Le suivi spécialisé donne à Morgane un autre endroit pour revenir sur les appréhensions que ces décisions ont ravivées."
+          "heading": "3 techniques pour choisir ce qu’une présentation publique raconte",
+          "points": [
+            {
+              "heading": "Relire du point de vue du lecteur",
+              "objective": "Voir ce que le texte lui apprend et ce qu’il risque de suggérer.",
+              "exercise": [
+                "Repérez une phrase qui interprète ce que les personnes ont ressenti.",
+                "Remplacez-la par une action qu’elles peuvent reconnaître.",
+                "Demandez à chacune de relire la partie qui la concerne."
+              ],
+              "benefit": "Une présentation peut expliquer le travail sans exposer le vécu privé."
+            },
+            {
+              "heading": "Vérifier l’accord sur l’image",
+              "objective": "Choisir un document partageable avec les personnes concernées.",
+              "exercise": [
+                "Repérez qui apparaît sur la photo et quel cadrage est prévu.",
+                "Demandez un accord pour l’usage proposé.",
+                "Choisissez un autre cadrage si l’accord manque ou change."
+              ],
+              "benefit": "La diffusion repose sur un choix explicite de ceux qui sont concernés."
+            },
+            {
+              "heading": "Préparer l’espace où reprendre la gêne",
+              "objective": "Donner à l’inquiétude une place qui ne dépend pas de la publication.",
+              "exercise": [
+                "Nommez le moment où vous avez commencé à vous demander ce que les autres verraient.",
+                "Notez un effet de cette inquiétude sur vos choix.",
+                "Reprenez cet exemple avec le professionnel si vous souhaitez l’examiner."
+              ],
+              "benefit": "Le suivi peut parler de ce que l’image a suscité sans que le public y ait accès."
+            }
+          ]
         }
       ],
       "ending_title": "La légende qu’ils choisissent",
@@ -507,7 +1133,8 @@
       "continuity": {
         "choice": "Morgane choisit avec le groupe une photo et une légende centrées sur le travail de chacun.",
         "next": "Des visiteurs demandent une suite. L’équipe doit décider d’un rythme que ses membres peuvent tenir."
-      }
+      },
+      "conclusion": "La nouvelle légende raconte qui a montré les gestes et comment les visiteurs les ont essayés. Morgane a pu choisir ces mots avec l’équipe, même si elle s’interroge encore sur le regard des lecteurs. Cette dernière question peut rester à la place qu’elle choisit de lui donner."
     },
     {
       "number": 12,
@@ -531,13 +1158,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Morgane a pu faire aboutir un projet et connaître ensuite de nouvelles soirées difficiles. En consultation, la souffrance, le contexte et la santé physique continuent à être examinés. Elle peut apporter le récit de ce qui s’est passé et reparler des moyens de soutien qui lui conviennent. La fierté qu’elle éprouve au travail peut garder sa propre valeur, même lorsque le suivi doit revenir sur une difficulté."
+          "heading": "Comment les épisodes et les projets évoluent-ils parfois à des rythmes différents ?",
+          "points": [
+            {
+              "heading": "Une réussite reste un fait du quotidien",
+              "text": "Une activité qui aboutit peut donner du plaisir et ouvrir des choix même si des épisodes reviennent.",
+              "examples": [
+                "Le quartier demande un nouvel essai après la matinée.",
+                "Morgane retrouve l’envie d’accueillir les visiteurs au début de l’atelier."
+              ]
+            },
+            {
+              "heading": "Les soirées difficiles gardent leur place au bilan",
+              "text": "Une amélioration dans un domaine ne résume pas la souffrance ou les besoins de suivi.",
+              "examples": [
+                "Morgane veut reparler jeudi de soirées où elle a perdu le sentiment de décider.",
+                "Elle peut avoir apprécié la première matinée et se demander encore quels appuis lui conviendront."
+              ]
+            },
+            {
+              "heading": "Les liens reprennent selon leurs propres accords",
+              "text": "Une relation peut avancer avec un rendez-vous choisi, indépendamment du travail et des soins.",
+              "examples": [
+                "Morgane propose à Lucie de marcher avant la fermeture de la librairie.",
+                "Elles cherchent l’ancien nom de la cour et suivent la rue au-delà de la porte bleue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder le choix de la prochaine chose à faire",
-          "text": "La nouvelle matinée comporte des décisions concrètes. Yassine veut plus de place pour préparer sa démonstration. Sonia veut une répartition praticable. Morgane peut dire ce qu’elle aime dans l’accueil et proposer le temps qu’elle souhaite y passer. Avec Lucie, elle peut choisir une marche courte, comme elles en avaient parlé. Ce rendez-vous a un sens en lui-même. Les deux sœurs peuvent s’écouter et aussi s’intéresser à une cour dont elles avaient oublié le nom. Morgane garde la possibilité de dire un autre jour qu’elle a besoin de parler, de poser une limite ou de reprendre contact avec son équipe."
+          "heading": "3 techniques pour poursuivre le suivi quand des activités reprennent",
+          "points": [
+            {
+              "heading": "Faire un bilan à plusieurs entrées",
+              "objective": "Situer une difficulté récente à côté de ce qui a repris.",
+              "exercise": [
+                "Choisissez un fait qui vous a donné de la satisfaction.",
+                "Décrivez un épisode ou un effet qui vous préoccupe encore.",
+                "Apportez les deux au rendez-vous pour discuter de la suite avec l’équipe."
+              ],
+              "benefit": "Le suivi peut s’ajuster à des évolutions qui ne se produisent pas au même rythme."
+            },
+            {
+              "heading": "Décider d’une contribution pour le prochain essai",
+              "objective": "Définir une place à partir de ce que chacun veut faire.",
+              "exercise": [
+                "Proposez une tâche et une durée que vous souhaitez prendre.",
+                "Vérifiez qui peut prendre la suite et ce que les autres veulent préparer.",
+                "Convenez du moment où l’équipe répondra à la demande extérieure."
+              ],
+              "benefit": "Le projet peut avancer sur une répartition choisie et praticable."
+            },
+            {
+              "heading": "Garder un rendez-vous pour son intérêt propre",
+              "objective": "Retrouver un lien qui ne dépend pas d’un compte rendu de santé.",
+              "exercise": [
+                "Proposez un lieu ou une activité que vous aimez partager.",
+                "Dites quelle durée vous convient aujourd’hui.",
+                "Convenez d’un autre moment si vous voulez parler du suivi ou d’un besoin d’aide."
+              ],
+              "benefit": "La rencontre garde de la place pour ce qui rapproche les personnes."
+            }
+          ]
         }
       ],
       "ending_title": "Au bout de la rue",
@@ -553,7 +1236,8 @@
       "continuity": {
         "choice": "Morgane choisit une place précise dans le projet, retrouve sa sœur selon leur accord et garde un rendez-vous de suivi.",
         "next": "Le projet continue sur un format choisi par l’équipe. Morgane garde le temps et l’espace de reparler de ses difficultés."
-      }
+      },
+      "conclusion": "Morgane choisit la suite de l’atelier avec Sonia et Yassine et retrouve Lucie au coin de la rue. Les épisodes dont elle veut parler gardent leur place au rendez-vous de jeudi. Ce qui avance dans le travail ou dans ses relations compte aussi dans sa semaine."
     }
   ]
 }

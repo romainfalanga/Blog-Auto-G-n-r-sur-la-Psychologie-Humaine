@@ -30,20 +30,81 @@ Gasparde pose un biscuit sur le bord de sa soucoupe. Elle demande qui a proposé
 
 ## La peur d’être écartée pousse à en faire davantage
 
-Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place. Gasparde pourrait accepter une longue permanence pour montrer qu’elle reste utile. Quand elle pose sa question, elle découvre que la proposition a déjà une volontaire pour une partie du travail. Elles peuvent parler du reste. Son envie de garder sa place au club et sa peur d’en être écartée sont deux éléments qu’elle éprouve ensemble.
+La peur d’être écarté peut pousser à accepter davantage de responsabilités pour montrer qu’on reste utile. Dans le trouble délirant, l’effet d’une conviction peut se concentrer sur le sujet qu’elle touche, ici la place de Gasparde au club. Elle souhaite vraiment s’occuper de l’accueil et se sent aussi poussée à prendre les deux heures du dimanche. Ces deux raisons peuvent être présentes sans conduire à la même décision.
 
-La CIM-11 décrit un retentissement qui peut se concentrer autour du sujet des convictions.
+## Comment la peur d’être écartée pousse-t-elle à se rendre indispensable ?
 
-## Comment cette difficulté se manifeste
+### Une proposition semble retirer une place
 
-Une réunion sur le partage des réservations concerne directement les inquiétudes de Gasparde. Son équipe est la mieux placée pour reprendre ce qu’elle ressent dans la durée. Au club, Gasparde peut discuter du temps et des moyens requis comme le ferait une autre bénévole.
+Une idée soumise au groupe peut être comprise comme un partage déjà décidé.
 
-## Donner un nom à chaque tâche
+**Exemples concrets**
 
-Il faut distinguer la personne qui accueille, celle qui prépare l’affiche et celle qui décide d’une fermeture s’il pleut. Une heure d’essai avec des rôles nommés donne un point de départ à réexaminer. Gasparde tient à garder l’accueil du samedi. La nouvelle proposition peut s’ajouter à celui-ci si les autres personnes peuvent la tenir et si le fonctionnement reste lisible pour les adhérents.
+- Gasparde voit la membre du comité regarder Basile et craint qu’on distribue son travail.
+- Une bénévole entend parler d’un renfort et imagine qu’elle ne sera plus consultée sur son créneau.
 
-Basile peut vérifier avec Gasparde qu’il a compris sa limite, puis la répéter dans le compte rendu. Il peut aussi lui demander comment elle préfère recevoir les demandes de dernière minute. Dire qui traite les messages permet de laisser du temps libre aux autres bénévoles. Les raisons personnelles pour lesquelles Gasparde protège sa journée peuvent rester dans les conversations qu’elle choisit.
+### Le réflexe est de se proposer pour tout
+
+Dire oui peut sembler protéger sa place, même quand le travail est trop large.
+
+**Exemples concrets**
+
+- Gasparde songe à tenir les deux heures sans savoir qui répondrait aux appels.
+- Quelqu’un accepte d’ouvrir et de fermer le local de peur que refuser l’un de ces gestes remette son rôle en cause.
+
+### Une préférence devient plus claire en détaillant les tâches
+
+Nommer ce qu’on souhaite garder permet de distinguer l’intérêt pour le projet de la crainte de le perdre.
+
+**Exemples concrets**
+
+- Gasparde tient à son samedi et veut préparer l’affiche du dimanche.
+- Une personne préfère continuer les inscriptions et laisser à un collègue la mise en place des chaises.
+
+## 3 techniques pour choisir sa part d’un projet quand on craint d’être écarté
+
+### 1. Demander ce qui reste à décider
+
+Distinguer une proposition d’un engagement déjà pris.
+
+**Exercice pratique**
+
+- Repérez le créneau ou le rôle dont on parle.
+- Demandez qui peut participer et pour combien de temps.
+- Dites quelle partie vous souhaitez discuter avant la décision.
+
+La répartition peut avancer à partir des disponibilités réelles.
+
+### 2. Définir sa part et sa limite
+
+Garder une tâche qui compte sans prendre toutes les autres.
+
+**Exercice pratique**
+
+- Nommez celle que vous voulez conserver.
+- Indiquez celle que vous pouvez offrir pour l’essai.
+- Précisez ce que quelqu’un d’autre devra prendre.
+
+L’accord rend visible la contribution de chacun sans mesurer sa valeur au nombre d’heures.
+
+### 3. Fixer le moment du bilan
+
+Éviter qu’un essai limité ne devienne un engagement continu.
+
+**Exercice pratique**
+
+- Écrivez le jour et la durée de l’essai.
+- Décidez qui rapportera ce qui a été fait.
+- Fixez la date à laquelle les choix seront revus.
+
+La personne peut évaluer sa place à partir d’un accord qu’elle a contribué à définir.
 
 ## Un prénom par tâche
 
 Sur la feuille du comité, Gasparde écrit « dimanche, dix à onze, essai unique ». Nathalie met son prénom devant l’accueil. Basile propose de prendre le téléphone et de prévenir Nathalie si le terrain doit rester fermé. Gasparde garde l’affiche et propose qu’ils reviennent sur l’essai mardi. Elle reprend sa ligne du samedi. Son prénom y est encore, juste devant dix heures trente. En récupérant le registre, Basile lui demande s’il peut installer le croquis de Levent le lendemain. Elle lui tend la version mise au propre par Dounia et lui demande de la placer assez bas pour qu’on la lise depuis la rue.
+
+---
+
+**Conclusion**
+
+Le samedi reste à Gasparde et le dimanche a une volontaire, une durée et un relais pour le téléphone. Préparer l’affiche lui donne la part qu’elle a choisie. Elle n’a pas eu à prendre toute la permanence pour rester dans le projet.

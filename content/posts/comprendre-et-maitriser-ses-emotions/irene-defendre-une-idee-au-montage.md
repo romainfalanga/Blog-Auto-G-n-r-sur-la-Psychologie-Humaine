@@ -29,20 +29,83 @@ Ilyès sort ensuite une bande avec une flèche qui part vers le canal. Il voudra
 
 Ilyès attend sa réponse pendant que ses mains bougent. La trousse est à sa droite et la flèche est encore sur la table quand elle reprend le feutre. Elle entend Mylène ouvrir la porte du local voisin pour chercher du papier. Personne n’a avancé à sa place. Elle avait hésité à revenir après l’histoire du chariot. Cette fois, quand elle reprend son feutre, elle retrouve aussi l’objection qu’elle voulait expliquer. Irène trace au brouillon deux dessins presque pareils et les pousse vers Ilyès : il pourra essayer chacun de son côté, à la vitesse qu’il voudra.
 
-## Le temps de répondre à la question posée
+## Le tour de parole peut rester ouvert
 
-Un aménagement peut aider à poursuivre un échange même quand des mouvements répétés sont présents. Sur cette table, Irène a de l’espace et la flèche et son papier restent à portée de main. Ilyès lui laisse le temps de reprendre le feutre. Son avis sur les flèches peut entrer dans la discussion. Le mouvement lui-même ne renseigne pas sur la solidité de cet avis, ni sur la quantité d’aide qu’elle souhaite.
+Un mouvement stéréotypé peut retarder une réponse alors que la personne a déjà un avis. Laisser du temps et garder le support en place peut lui permettre de reprendre le même échange. À la table du conte, Ilyès attend devant la flèche plutôt que de passer à la décision suivante. Irène retrouve son feutre et l’objection qu’elle voulait expliquer.
 
-## Comment cette difficulté se manifeste
+## Comment une discussion peut-elle rester ouverte pendant une interruption ?
 
-Il y a une semaine, l’espace autour de la table posait une question de sécurité. Cette fois, la pièce permet surtout de travailler et de revenir à ce qu’on regardait. Les conditions favorables se jugent par ce qu’elles rendent possible pour les deux lecteurs. Il restera à voir comment ils s’en sortent lorsque d’autres personnes attendent de tourner les pages.
+### La pause ne signifie pas que la personne est d’accord
 
-## Séparer l’entrée du chemin à découvrir
+Un délai avant de répondre ne renseigne pas sur l’avis qui sera donné.
 
-Ilyès veut qu’un visiteur puisse trouver la première page. Irène veut lui laisser la possibilité d’aller regarder derrière une marche. Ils peuvent tester une version où l’entrée est indiquée et où les passages suivants se découvrent en ouvrant les plis. Pour l’essai, chacun observe un détail : à quel moment on sait comment commencer, et à quel moment on a envie de chercher.
+**Exemples concrets**
 
-Mylène peut tenir les exemplaires et demander ce qu’ils essaient. Elle n’a pas besoin de choisir qui a raison à partir de celui qui répond le plus vite. Si le choix s’avère difficile pour un lecteur invité, les deux auteurs auront quelque chose à retravailler ensemble. La deuxième version n’a pas à effacer d’avance tout ce qui étonne.
+- Irène veut encore discuter du nombre de flèches pendant que ses mains bougent.
+- Un enfant met du temps à reprendre le crayon et tient toujours à montrer pourquoi il veut déplacer une image.
+
+### Le support conserve la question posée
+
+Garder l’objet du désaccord visible aide à revenir au sujet sans en ouvrir un autre.
+
+**Exemples concrets**
+
+- Ilyès laisse la flèche sur la table, près de la trousse.
+- Une personne laisse deux variantes visibles pendant que son binôme attend de pouvoir reprendre.
+
+### L’avis peut mener à un essai plutôt qu’à un verdict
+
+Donner le temps de répondre peut faire apparaître une manière de comparer les propositions.
+
+**Exemples concrets**
+
+- Irène dessine deux versions et demande à Ilyès de les essayer.
+- Deux participants testent chacun un pli avant de décider lequel convient à la lecture.
+
+## 3 techniques pour préserver un tour de parole
+
+### 1. Laisser la question en suspens
+
+Donner le temps de reprendre sans interpréter le silence.
+
+**Exercice pratique**
+
+- Gardez le matériel à la même place.
+- Attendez que la personne vous fasse signe ou reprenne son geste.
+- Redites la question brièvement si elle le souhaite.
+
+Le temps laissé évite de transformer une interruption en accord supposé.
+
+### 2. Proposer un moyen de montrer son idée
+
+Donner une autre forme à un avis qui demande du temps à formuler.
+
+**Exercice pratique**
+
+- Demandez si la personne veut expliquer, dessiner ou montrer.
+- Laissez-lui le support qu’elle choisit.
+- Faites-lui préciser ce qu’elle aimerait comparer.
+
+L’avis peut entrer dans le travail commun sous une forme qui lui convient.
+
+### 3. Décider après avoir essayé les deux options
+
+Donner une suite concrète au désaccord.
+
+**Exercice pratique**
+
+- Identifiez les variantes que chacun veut défendre.
+- Essayez-les dans les mêmes conditions.
+- Dites ensemble ce que vous retenez et ce qui reste ouvert.
+
+La décision repose sur les essais plutôt que sur la rapidité avec laquelle chacun a répondu.
 
 ## Deux entrées et une fenêtre à trouver
 
 Ilyès essaie d’abord le dessin qui indique toutes les étapes. Puis il passe à l’autre. Il trouve sa propre fenêtre une fois qu’il a renoncé à suivre la bordure du canal. « D’accord pour deux flèches au départ », dit-il. Irène ajoute une petite ombre sous la marche pour donner envie de soulever le pli. Elle demande à Mylène s’ils peuvent inviter Aya à l’essai de vendredi. Avant de refermer le livre, Ilyès dessine un toit sur une flèche et une ligne d’eau sur l’autre. Irène garde les deux bandes dans la pochette du livre.
+
+---
+
+**Conclusion**
+
+Le temps laissé par Ilyès permet à Irène de remettre son idée sur la table. Ils gardent deux flèches et une fenêtre à trouver. Le prochain essai leur dira ce qu’Aya en comprend.

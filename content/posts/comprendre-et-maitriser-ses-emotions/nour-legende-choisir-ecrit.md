@@ -27,20 +27,83 @@ La réunion devait se tenir dans la petite salle près de son bureau. Un collèg
 
 Elle tape sa question dans le document commun, puis ajoute « L’hirondelle traverse les murs. Le livreur de parapluies, moins sûrement. » Une collègue rit en regardant son écran et demande de quelle rue elles parlent. Nour lui montre les deux adresses. Elle suit mieux la conversation depuis que les noms sont devant elles. Si l’enseigne est entrée par une rue et vue depuis l’autre, elle aimerait comprendre où le photographe s’est placé.
 
-## Surcharge sensorielle et effort pour suivre la parole
+## Suivre une conversation qui n’attend pas
 
-Le mode de communication qui convient à une personne peut varier selon le lieu et le moment. Nour utilise la parole et l’écrit. Dans la salle des retours, elle choisit le document partagé pour faire apparaître une question qui lui échappe entre deux changements de sujet. Le texte garde sa précision et son humour. Ses collègues peuvent relire le nom des rues avant de lui répondre.
+Une conversation de groupe peut être plus ou moins accessible selon le rythme des tours de parole, le bruit et le format de réponse. Chez Nour, qui est autiste, un choc dans le couloir suffit à lui faire perdre le nom de la rue dont on parle. Le groupe avance pendant qu’elle essaie de retrouver ce repère. En écrivant dans le document commun, elle rend sa question et son humour accessibles aux collègues.
 
-## Comment cette difficulté se manifeste
+## Comment une discussion de groupe devient-elle difficile à suivre ?
 
-Nour se dit autiste. Son diagnostic est connu depuis plusieurs années. L’autisme, classé parmi les troubles du neurodéveloppement dans la CIM-11 sous le code 6A02, peut concerner la communication et les interactions, la manière de composer avec les changements et les expériences sensorielles. Les profils et les besoins diffèrent largement. La façon dont Nour contribue à cette réunion raconte ce qu’elle fait de l’écrit dans une situation précise. D’autres personnes préfèrent d’autres formats, parfois au sein d’une même journée.
+### Des bruits et des voix se disputent l’attention
 
-## Faire une place à la question écrite
+Quand plusieurs sons arrivent en même temps, isoler une information et la garder en mémoire peut demander plus d’effort.
 
-Nour demande à sa collègue si elles peuvent laisser le commentaire ouvert jusqu’à ce que quelqu’un ait revu l’adresse. Elle propose de reporter la réponse dans le même document. Si elle manque la fin de l’échange dans le bruit, elle saura où retrouver la décision. Sa collègue peut indiquer le point qui lui manque et laisser à Nour le choix d’y répondre de vive voix ou par écrit.
+**Exemples concrets**
 
-Le NICE, dans ses recommandations britanniques pour l’accompagnement des adultes autistes, demande de rendre la communication accessible selon les besoins de la personne. Les collègues de Nour peuvent s’inspirer de ce principe pour la réunion. Ils peuvent lire les questions écrites avec la même attention que les questions posées à voix haute. Si la salle change encore, la personne qui organise peut préciser où et quand ils reprennent. Nour pourra dire ce qui lui sert sans avoir à expliquer son diagnostic.
+- Près du monte-charge, le chariot heurte le seuil pendant que la collègue donne un nom de rue.
+- Nour essaie de retrouver lequel des deux noms elle vient d’entendre alors que la conversation continue.
+
+### Le bon moment pour intervenir se referme
+
+Une question peut rester sans place quand chacun enchaîne avant que la personne ait retrouvé ce qu’elle veut dire.
+
+**Exemples concrets**
+
+- Nour attend un instant plus calme pour reprendre son adresse.
+- Quand elle ouvre la bouche, quelqu’un est déjà en train de passer à la légende suivante.
+
+### Le format change ce que les autres peuvent entendre
+
+La contribution peut être précise à l’écrit alors que la réponse spontanée en groupe est difficile à préparer.
+
+**Exemples concrets**
+
+- Nour pose sa question dans le document et fait rire une collègue avec le livreur de parapluies.
+- Les deux adresses visibles côte à côte lui permettent de reprendre la conversation sur la photo.
+
+## 3 techniques pour ouvrir une place dans un échange de groupe
+
+### 1. Garder les noms devant soi
+
+Rendre visible le renseignement qui se perd entre deux prises de parole.
+
+**Exercice pratique**
+
+- Écrivez les noms ou les options examinées dans un support lisible par les participants.
+- Demandez que l’on montre celui dont il est question.
+- Vérifiez votre interprétation en posant la question à partir du texte.
+
+Le groupe retrouve le même sujet sans demander à chacun de retenir chaque mot entendu.
+
+### 2. Ouvrir un tour avant de changer de sujet
+
+Donner une place à une intervention qui prend un peu de temps.
+
+**Exercice pratique**
+
+- Demandez à la personne qui anime de marquer une pause avant le point suivant.
+- Indiquez votre question à l’oral ou dans le document, selon ce qui vous convient.
+- Faites préciser quand elle recevra une réponse si elle doit être reprise plus tard.
+
+Une contribution peut entrer dans la discussion même si elle n’arrive pas au premier tour.
+
+### 3. Rendre le document utilisable pendant la réunion
+
+Faire de l’écrit un mode de participation reconnu.
+
+**Exercice pratique**
+
+- Choisissez où les participants peuvent écrire leurs questions.
+- Convenez que quelqu’un les regardera avant la décision.
+- Répondez directement à la personne qui écrit plutôt que de faire parler quelqu’un pour elle.
+
+Le support peut donner accès à l’échange sans effacer la voix de la personne.
 
 ## Deux adresses au dos d’une photo
 
 En sortant, Nour garde les deux noms de rue sur une feuille séparée. Dans l’entrée de son immeuble, Fatou, sa voisine, remonte avec un sac de courses et lui demande ce qu’elle relit. Nour lui parle de l’hirondelle. Fatou travaille comme médiatrice culturelle et connaît une cour qui communique avec ces deux rues. Elle lève la main pour montrer par quel côté elle y passe. Nour lui demande si elles peuvent aller voir avec les voisins intéressés. Elle voudrait que chacun puisse choisir le chemin qui lui plaît et rejoindre les autres à un endroit simple à trouver.
+
+---
+
+**Conclusion**
+
+Les deux adresses sorties de la réunion donnent à Nour une nouvelle question sur le trajet de l’enseigne. Elle a pu contribuer quand les mots sont devenus visibles. Le problème tenait à la façon dont la discussion se déroulait autant qu’au bruit du couloir.

@@ -31,20 +31,81 @@ Les portes du premier bus s’ouvrent. Joachim remet son appareil dans sa housse
 
 ## Ce que plusieurs lieux peuvent avoir en commun
 
-L’agoraphobie concerne la peur marquée de plusieurs situations où s’éloigner ou obtenir de l’aide semblerait difficile en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma et un trajet loin de chez soi peuvent ainsi susciter une peur semblable malgré leurs différences. Le scénario redouté et les conditions du lieu comptent autant que son nom.
+Dans l’agoraphobie, plusieurs situations peuvent susciter une peur marquée parce qu’il semblerait difficile de s’en éloigner ou d’obtenir de l’aide en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma ou un trajet loin de chez soi peuvent alors poser une question semblable malgré leurs différences. À l’arrêt, Joachim imagine moins le trajet vers le panneau que ce qui lui arriverait s’il se sentait mal au retour.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte de rester coincé apparaît-elle dans des lieux différents ?
 
-Dans le cas de Joachim, le bus qu’il s’apprête à prendre est presque vide. Le retour lui paraît déjà difficile parce qu’il imagine qu’au moment où il aurait besoin de sortir, l’allée serait occupée.
+### L’aller et le retour ne posent pas la même question
 
-Un professionnel regarde la durée, la répétition et les effets de la difficulté dans la vie de la personne. Rater un bus un matin peut avoir bien des explications. Chez Joachim, la crainte qu’il décrit a aussi affecté ses rendez-vous, ses courses et les moments passés avec sa fille. C’est au cours de son suivi, bien avant ce samedi, que le diagnostic a pris place.
+La personne peut avoir envie de se rendre quelque part et craindre de ne plus savoir comment en revenir.
 
-## Reprendre les mots de la situation
+**Exemples concrets**
 
-« Tu veux rester sur le banc ? » est une question à laquelle Joachim peut répondre sans expliquer toute son histoire. Il sait qu’il préfère regarder le départ suivant depuis l’arrêt. En consultation, il pourra détailler la crainte qui est revenue. Il a imaginé devoir descendre et ne pas réussir à se faire entendre. Une formule générale comme « j’ai peur du bus » risquerait de faire disparaître ce détail. Il pourra également dire ce à quoi il tenait dans la sortie. Le panneau, sa visibilité et le plaisir de cadrer l’image expliquent pourquoi cette annulation lui coûte quelque chose.
+- Joachim a choisi son objectif pour photographier le panneau, puis renonce à monter en pensant au retour.
+- Quelqu’un peut apprécier la destination d’une visite et hésiter surtout à l’idée de rentrer à une heure où il y a moins de passages.
 
-Diego peut décider s’il a encore envie d’aller aux Aulnes aujourd’hui. La carte comporte des tâches que chacun peut choisir. Leur projet commun permet de se revoir autour d’une décision concrète, sans que l’un ait à convaincre l’autre que le trajet est facile.
+### Des lieux différents évoquent la même difficulté
+
+L’agencement du lieu compte parce qu’il change la façon dont on s’imagine pouvoir partir ou être aidé.
+
+**Exemples concrets**
+
+- Au cinéma, une personne peut redouter de demander à plusieurs spectateurs de se lever si elle se sent mal.
+- Dans une file, elle peut craindre de devoir traverser le groupe pour s’éloigner.
+
+### Une activité proche peut rester accessible
+
+La difficulté varie avec ce que la personne anticipe, même pour des activités qu’elle apprécie toutes les deux.
+
+**Exemples concrets**
+
+- Joachim ne monte pas dans le bus mais s’arrête photographier la plaque près de chez lui.
+- Il peut retrouver Diego au café familier à deux rues de chez eux alors que le panneau des Aulnes reste en suspens.
+
+## 3 techniques pour décrire ce qui rend la sortie difficile à envisager
+
+### 1. Mettre des mots sur le scénario redouté
+
+Préciser le point commun de plusieurs situations pour en parler au professionnel.
+
+**Exercice pratique**
+
+- Choisissez un trajet ou un lieu qui vous a occupé récemment.
+- Décrivez ce que vous redoutiez et ce qui vous semblait difficile si cela arrivait.
+- Apportez cet exemple au suivi avec un autre contexte où la même question s’est posée.
+
+L’équipe peut entendre ce qui vous inquiète au-delà du nom du lieu.
+
+### 2. Dire sa décision avant de se séparer
+
+Laisser au partenaire de sortie la possibilité de poursuivre ou de changer son projet.
+
+**Exercice pratique**
+
+- Dites quelle partie du trajet vous ne souhaitez pas faire aujourd’hui.
+- Précisez si vous voulez rester un moment ou repartir.
+- Laissez l’autre décider de sa propre sortie.
+
+L’accord peut rester simple même lorsque les deux personnes prennent des directions différentes.
+
+### 3. Choisir une tâche de proximité
+
+Garder une part utile d’un projet sans transformer la sortie en épreuve.
+
+**Exercice pratique**
+
+- Repérez ce qui peut avancer depuis un lieu familier.
+- Choisissez un détail à relever ou à transmettre.
+- Laissez la décision sur le trajet redouté pour le moment prévu avec le professionnel.
+
+Le projet peut avancer à sa façon et le travail sur la peur garder un cadre choisi.
 
 ## La photo qui attend
 
 Joachim demande à Diego de prendre le bus suivant s’il veut faire la promenade. Il lui propose de laisser le panneau pour un autre jour. En rentrant à pied, il s’arrête devant l’angle de la place où commencera la carte. Une plaque indique le nom de la rue en lettres presque effacées. Il photographie ce que les passants verront en arrivant de l’atelier, puis envoie l’image à Diego avec une phrase sur le point de départ.
+
+---
+
+**Conclusion**
+
+Le bus part sans Joachim et il rentre par le début de la future carte. La photo de la plaque donne une suite au projet. Le panneau des Aulnes reste à revoir, et la crainte du retour explique pourquoi cette partie demandait un autre choix.

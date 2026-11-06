@@ -36,14 +36,79 @@ La réunion a lieu le lendemain. Élvire perd le début d’une réponse et dema
 
 Une personne qui a souvent mal dormi peut appréhender les effets de la prochaine nuit. Au réveil, surveiller l’heure ou chercher à prévoir chaque difficulté du lendemain peut accroître la tension et maintenir l’attention sur ce qu’elle craint. Ce mécanisme peut entretenir une partie des difficultés. Les causes et les circonstances d’une insomnie restent multiples. En TCC-I, le professionnel peut examiner la place des pensées et des comportements avec la personne, en tenant compte de son histoire et de la vigilance nécessaire dans la journée.
 
-## Séparer la scène redoutée de ce qui s’est produit
+## Comment l’inquiétude pour le lendemain peut-elle occuper un réveil nocturne ?
 
-Élvire pensait perdre son fil et que toute la discussion s’arrêterait. Le premier événement est arrivé. Elle a demandé qu’on reprenne une phrase et l’équipe a pu avancer. La difficulté était réelle, avec une conséquence différente de celle qu’elle anticipait. Lors d’un réveil, elle peut aussi se surprendre à préparer une conversation familiale ou à calculer combien de temps il reste avant le lever. Les sujets changent et la recherche de certitude peut prendre la même forme. Ce sont des éléments dont elle peut parler en séance.
+### L’heure devient une mesure de ce qu’on redoute
 
-## Amener une prédiction précise à la séance
+Lorsqu’on appréhende la nuit, regarder l’heure peut remettre l’attention sur ce que l’on craint pour le lendemain.
 
-Avec Claire, Élvire peut comparer la scène qu’elle imaginait et la réponse qu’elle a finalement trouvée. Claire lui demande ce qu’elle savait déjà, ce qui lui manquait et ce qui l’a aidée à reprendre la discussion. Elles conviennent de prendre un exemple à la fois, en restant attentives à la façon dont Élvire réagit lorsqu’elle surveille son sommeil. Les décisions qui relèvent du soin sont ajustées avec Claire et la docteure Vidal. Dans l’équipe, Élvire peut garder l’accord de faire répéter un point dont elle a perdu le début.
+**Exemples concrets**
+
+- Élvire cherche immédiatement l’heure à son premier réveil.
+- Elle regarde de nouveau et se sent plus éveillée qu’au début.
+
+### Une conséquence en appelle une autre
+
+L’anticipation peut dérouler toute une scène avant d’avoir rencontré la première difficulté.
+
+**Exemples concrets**
+
+- Élvire imagine que Sonia devra répondre à sa place à propos de la grille.
+- Elle voit déjà le moment où personne ne parlera plus du samedi.
+
+### La journée réelle mêle difficulté et réponses
+
+Ce qui arrive peut inclure une gêne réelle et des possibilités laissées de côté dans le scénario nocturne.
+
+**Exemples concrets**
+
+- Élvire perd le début d’une réponse et demande à Sonia de la répéter.
+- Le groupe donne son accord pour un essai sous réserve de préciser l’accueil.
+
+## 3 techniques pour mettre en regard la journée imaginée et celle qui a eu lieu
+
+### 1. Noter une prédiction et un fait
+
+Donner à l’entretien deux repères que l’inquiétude avait réunis.
+
+**Exercice pratique**
+
+- Relevez de mémoire une chose que vous pensiez inévitable pendant l’éveil.
+- Ajoutez ce qui s’est effectivement passé dans la journée.
+- Apportez les deux à la personne qui vous accompagne en TCC-I.
+
+La discussion peut préciser ce que la peur avait anticipé et les difficultés réelles.
+
+### 2. Préparer un repère de réunion avant le soir
+
+Garder les décisions de travail dans un support que l’équipe peut reprendre.
+
+**Exercice pratique**
+
+- Identifiez la question qui demande une réponse collective.
+- Placez-la sur l’ordre du jour ou dans une note partagée.
+- Convenez de la personne qui peut la reformuler pendant la réunion.
+
+Le travail dispose d’un repère sans dépendre du souvenir que vous en gardez la nuit.
+
+### 3. Parler du moment où l’éveil a changé
+
+Aider le professionnel à situer l’anxiété autour du sommeil.
+
+**Exercice pratique**
+
+- Décrivez un réveil dont vous vous souvenez.
+- Dites ce que vous avez fait pour essayer d’assurer le lendemain et comment vous vous sentiez ensuite.
+- Demandez avec votre professionnel quelle observation serait utile pour la prochaine séance.
+
+Le travail peut porter sur le déroulement de la nuit et s’adapter à votre situation.
 
 ## L’accueil reste une question de l’équipe
 
 Claire pose devant elle une feuille où Élvire peut séparer ce qu’elle pensait à trois heures du matin et ce que Sonia a dit en réunion. Élvire écrit qu’elle a perdu une phrase et qu’elle a réussi à poser sa question. En rentrant, elle ouvre le message de Sonia et lui propose qu’elles visitent ensemble l’endroit où un habitant arriverait avec une chaise. Il leur restera à demander qui veut accueillir au premier essai. Elle se rappelle la réunion de la nuit, celle qu’elle avait imaginée sans aucune réponse. Elle attend d’entendre les personnes qui travailleront avec elle.
+
+---
+
+**Conclusion**
+
+Élvire avait imaginé une réunion sans réponse. Elle a perdu une phrase, l’a fait répéter et a posé sa question. La feuille préparée avec Claire garde les deux aspects de la journée réelle et donne un moyen de reparler de l’inquiétude qui l’a tenue éveillée.

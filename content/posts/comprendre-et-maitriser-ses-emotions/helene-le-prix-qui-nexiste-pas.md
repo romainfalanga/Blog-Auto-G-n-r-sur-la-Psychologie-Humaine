@@ -29,22 +29,83 @@ Une femme se présente comme Hélène et lui demande si elle veut bien dire ce q
 
 Véra se demande si elle a dit quelque chose de vexant. « J’ai cru qu’on vendait celle de la photo », précise-t-elle. Hélène se place alors à côté d’elle, là où la vue s’ouvre entre les manteaux et la table de plats. Elle dit : « Ah oui. Toutes les offres commencent ici aussi. » Elle demande à Véra si elle veut les bols empilables ou ceux qu’on peut tenir par les bords sans se réchauffer les mains. Véra n’avait pas pensé à cette différence. Elle choisit les empilables.
 
-## Trier les informations quand les demandes s’accumulent
+## Quand plusieurs informations arrivent ensemble
 
-Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan.
+Le trouble du développement intellectuel peut rendre plus coûteux le tri de plusieurs informations au même moment. La difficulté dépend aussi du rythme et du cadre de travail. Hélène comprend ce que Véra a vu dans le rayon. Quand les questions se multiplient à la caisse en même temps, elle choisit de suspendre l’essai pour pouvoir retrouver ce qu’elle a observé.
 
-## Comment cette difficulté se manifeste
+## Comment la surcharge se voit-elle pendant un essai au travail ?
 
-Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.
+### Deux sources réclament l’attention en même temps
 
-Les recommandations de la HAS invitent à examiner les conditions d’un essai plutôt qu’à attribuer d’emblée une difficulté à la personne. Les questions des clients et les interruptions de la caisse compliquent le recueil des observations. Hélène a déjà remarqué qu’elle a besoin de temps pour rapprocher plusieurs informations, et elle demande parfois à les reprendre une par une. L’OMS décrit des besoins de soutien sensibles au contexte. Une personne peut repérer un problème avec précision et avoir besoin d’une pause pour trier les renseignements recueillis.
+Une question au premier plan peut se mêler à des informations qui arrivent d’ailleurs.
 
-## Arrêter un essai quand il ne permet plus d’observer
+**Exemples concrets**
 
-Dario ne peut plus noter les questions sans retarder les clients. Hélène retire le panneau ; l’essai était prévu pour pouvoir s’arrêter dans ces conditions. Après l’affluence, elle peut lui demander de reprendre ce qu’il a entendu avant d’avoir écarté sa feuille. Ce bilan court évite de reconstituer toute la matinée en même temps qu’on encaisse les achats.
+- Hélène parle à Véra pendant que Dario reçoit des demandes de retour et de monnaie.
+- Une personne essaie de lire les remarques d’un collègue tout en répondant aux clients qui entrent.
 
-Pour la prochaine version, elle envisage de dissocier l’orientation et l’étiquette de l’étagère. À l’endroit du virage, il y aurait une flèche ; sur l’étagère, le nom des objets. La HAS encourage à prendre en compte les propositions de la personne sur son environnement de travail. Ici, Maud peut lui dire quels supports restent disponibles et la laisser conduire la correction.
+### L’arrêt protège ce qu’on cherche à comprendre
+
+Quand il devient difficile de suivre la tâche, faire une pause peut éviter d’accumuler des remarques impossibles à reprendre.
+
+**Exemples concrets**
+
+- Hélène tire le panneau de son support et arrête l’essai.
+- Un employé pose les deux documents et demande de reprendre d’abord celui qui concerne le client présent.
+
+### Une observation reste utile après l’interruption
+
+La surcharge ne dit pas que tout ce qui a été vu a perdu sa valeur.
+
+**Exemples concrets**
+
+- Hélène comprend depuis la place de Véra pourquoi la photo ressemble à une promotion.
+- Une collègue interrompt le relevé et garde la remarque d’un client qui n’a pas vu le prix sur l’étagère.
+
+## 3 techniques pour reprendre après un afflux d’informations
+
+### 1. Définir un signal d’arrêt
+
+Pouvoir suspendre l’essai quand les conditions changent.
+
+**Exercice pratique**
+
+- Convenez avec le collègue de ce qui indiquera que la caisse ou le rayon est trop occupé.
+- Dites clairement quand l’essai s’arrête.
+- Rangez le matériel de façon à pouvoir le reprendre plus tard.
+
+La pause devient une décision de travail prévue, et les autres tâches restent possibles.
+
+### 2. Conserver quelques observations vérifiables
+
+Garder les informations recueillies sans en tirer trop vite une règle générale.
+
+**Exercice pratique**
+
+- Écrivez une observation par ligne.
+- Indiquez d’où elle vient, par exemple une question entendue à la caisse.
+- Relisez-les quand le rayon est plus calme.
+
+L’équipe peut revenir aux faits observés après que le rythme a baissé.
+
+### 3. Choisir une condition à modifier
+
+Repartir avec une question plus facile à suivre.
+
+**Exercice pratique**
+
+- Identifiez ce qui a gêné le relevé.
+- Changez un élément du cadre ou du panneau.
+- Convenez de ce que chacun pourra observer au prochain essai.
+
+Un essai plus ciblé peut rendre les retours plus faciles à comparer.
 
 ## La photo attend dans le tiroir
 
 Après le départ de Véra, Hélène plie la feuille de relevé de Dario en deux. Du côté encore blanc, elle écrit « on demande le prix » et « on tourne avant les plats ». Elle ne sait pas si tous les clients ont vu l’image comme Véra. Elle sait déjà qu’elle ne veut pas remettre le panneau tel quel. Elle glisse la photo au fond du tiroir, mais conserve la tasse au trait sur l’établi. Dario vient lui dire qu’il a entendu deux fois demander les bols depuis la caisse. Hélène ajoute une troisième ligne à la feuille.
+
+---
+
+**Conclusion**
+
+La photo va dans le tiroir, les trois observations restent sur la feuille. Hélène sait déjà ce qu’elle ne veut pas reproduire. Elle gardera le dessin pour vérifier une autre manière de guider les clients.

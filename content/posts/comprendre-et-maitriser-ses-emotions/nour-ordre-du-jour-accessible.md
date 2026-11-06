@@ -28,22 +28,83 @@ Sa collègue envoie le déroulé le lendemain. Il tient sur une page. Trois déc
 
 Le jour venu, Nour trouve la porte fermée. Sur l’invitation, le changement a été annoncé avec le nom de l’autre salle. Elle y arrive avant la fin du premier point et ouvre le commentaire qu’elle avait préparé. Elle laisse les autres terminer. Quand son tour vient, elle montre la photographie et demande si elle peut apporter une reproduction à la visite, avec la légende et le crédit que le service veut voir figurer. Elle remarque que son dossier n’a pas quitté ses genoux depuis qu’elle est entrée.
 
-## Ce que la prévisibilité rend disponible pour la discussion
+## Se préparer à ce qu’une réunion demande
 
-Connaître le déroulement d’une réunion à l’avance peut donner le temps de préparer une contribution. Pour Nour, les informations les plus utiles sont le but de l’échange, les documents qui seront examinés et la manière dont les réponses seront recueillies. Un ordre du jour très détaillé peut laisser ces points flous. Elle a pu demander ce que signifiait la rubrique « Divers » et retrouver ensuite sa question dans le bon échange.
+Un ordre du jour peut réduire une partie de l’effort de communication lorsqu’il indique ce que chacun doit préparer, à quel moment intervenir et comment les changements seront annoncés. Pour Nour, qui est autiste, deviner ces règles pendant que les autres parlent mobilise une attention qu’elle voudrait consacrer à la photographie. La préparation lui permet de formuler sa demande avant de chercher sa place dans l’échange.
 
-L’OMS décrit des difficultés possibles face aux changements imprévus dans l’autisme. Elles varient selon les personnes et les situations.
+## Comment l’anticipation change-t-elle la façon de prendre part à la réunion ?
 
-## Comment cette difficulté se manifeste
+### Le but de chaque point devient lisible
 
-Dans le cas de Nour, l’autre salle demande un déplacement et une installation différente. L’adresse envoyée en amont lui laisse du temps pour s’y rendre. Un changement annoncé peut encore l’affecter. Elle peut relire le point sur lequel le groupe travaille et utiliser l’écrit si cela lui demande moins d’effort à ce moment.
+Un thème affiché ne dit pas toujours si l’on attend une décision, une information ou un exemple.
 
-## Indiquer ce qui est fixé et ce qui peut bouger
+**Exemples concrets**
 
-La collègue qui tient le document peut mettre l’heure et la salle en haut, puis préciser où elle affichera un changement. Si une décision nouvelle doit être prise au milieu de la réunion, elle peut laisser un court temps pour consulter l’information et demander si les personnes ont besoin de revenir sur leur réponse plus tard. Les choix urgents et ceux qui peuvent attendre seront plus faciles à distinguer pour toute l’équipe.
+- Nour voit trois décisions cachées sous « Divers » et demande lesquelles seront prises ce jour-là.
+- Sa collègue remonte les points concernés et indique où apporter des exemples.
 
-Nour veut reprendre ce principe avec Fatou. Elles peuvent annoncer un rendez-vous au kiosque, indiquer les trajets connus et signaler ce qu’elles doivent encore vérifier. Si l’une des entrées est fermée, les participants auront une information précise sur ce qui reste accessible. Nour souhaite qu’ils puissent se prononcer avant le jour de la visite et écrire leur réponse s’ils le préfèrent. Les recommandations du NICE sur l’information dans un format adapté donnent un cadre à cette discussion. La forme utile se décide avec les personnes qui vont s’en servir.
+### La contribution peut exister avant l’entrée dans la salle
+
+Le temps de préparer un texte ou une question libère une partie de l’attention nécessaire pour suivre les autres.
+
+**Exemples concrets**
+
+- Nour peut lire les demandes de reproduction à l’avance.
+- En arrivant, elle ouvre le commentaire qu’elle a déjà préparé sur la photographie.
+
+### L’imprévu laisse un repère stable
+
+Une modification annoncée clairement aide à retrouver la discussion, même si l’arrivée reste coûteuse.
+
+**Exemples concrets**
+
+- La porte est fermée, mais l’invitation donne le nom de la salle de remplacement.
+- Nour rejoint le premier point et garde le dossier sur ses genoux jusqu’à ce que son tour arrive.
+
+## 3 techniques pour préparer une contribution avant la réunion
+
+### 1. Poser trois questions utiles
+
+Obtenir les renseignements qui changent réellement ce que l’on doit préparer.
+
+**Exercice pratique**
+
+- Demandez le lieu et l’heure, ainsi que le canal prévu si l’un change.
+- Repérez la décision à laquelle vous souhaitez contribuer.
+- Demandez quel document sera examiné et quand vous pourrez intervenir.
+
+La préparation porte sur des attentes précises plutôt que sur tous les sujets possibles.
+
+### 2. Préparer l’intervention dans le format choisi
+
+Retrouver sa demande même si l’arrivée est agitée.
+
+**Exercice pratique**
+
+- Écrivez la question avec le document auquel elle se réfère.
+- Choisissez si vous souhaitez l’envoyer avant, la lire ou la présenter sur place.
+- Gardez-la à un endroit où elle sera accessible pendant la réunion.
+
+L’essentiel peut être transmis même si la conversation a déjà commencé.
+
+### 3. Prévoir l’annonce d’un changement
+
+Savoir où retrouver l’information utile au moment de se déplacer.
+
+**Exercice pratique**
+
+- Convenez d’un seul endroit pour les modifications de salle ou d’horaire.
+- Demandez que l’annonce indique clairement ce qui change et ce qui reste prévu.
+- Si un point est manqué, demandez quelle décision a été prise et si votre contribution peut encore être lue.
+
+Un imprévu demande moins de recherches et le groupe conserve la possibilité d’entendre la question.
 
 ## Le crédit sous l’hirondelle
 
 La demande de Nour est acceptée pour une reproduction à montrer pendant la visite. Sa collègue lui note le crédit à faire figurer au bas de la feuille et lui demande de revenir la voir si elle souhaite utiliser l’image ailleurs. Nour ajoute cette précision près de sa traduction. À la pause, elle ouvre la carte avec les deux chemins tracés depuis le kiosque. Un des noms se confond avec un pli. Elle envoie à Joël, un pair autiste rencontré dans un atelier de gravure, une invitation à regarder la carte avec elle. Elle lui demande s’il préfère la recevoir avant ou en parler sur place.
+
+---
+
+**Conclusion**
+
+Nour présente la reproduction avec sa légende et note le crédit convenu. L’ordre du jour n’a pas empêché le changement de salle. Il lui a donné un point où reprendre la discussion, assez précis pour préparer la demande qui l’amenait.

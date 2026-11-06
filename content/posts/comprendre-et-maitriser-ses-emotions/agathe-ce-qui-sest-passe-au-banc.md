@@ -34,14 +34,81 @@ Elle posa le plan sur le cahier et prit deux papiers. Sur le premier, elle dessi
 
 Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux.
 
-## Comment cette difficulté se manifeste
+Agathe revoit les gestes de Lila et utilise des pronoms dont Inès ne connaît pas encore les référents. Deux dessins peuvent poser l’ordre des gestes ; les légendes disent ensuite ce qui a conduit à déplacer le signe. Ce travail porte sur l’histoire à transmettre et peut s’appuyer sur les images que l’enfant a déjà en tête.
 
-Agathe a des images assez nettes pour reprendre les gestes de Lila. Ce qui lui demande plus de travail est de les transformer en un récit qui donne ces images au lecteur. Les besoins varient selon les tâches ; être à l’aise pour décrire un repère avec le plan devant soi ne dit pas comment on racontera l’essai le lendemain. Les professionnels peuvent examiner ces différences quand elles gênent les apprentissages. Le texte de classe est une occasion d’essayer une autre forme de récit, sans en tirer de bilan.
+## Comment raconter une scène à quelqu’un qui ne l’a pas vue ?
 
-## Écrire autour des moments utiles
+### Le pronom suppose un nom connu
 
-Mme Roussel peut rappeler ce que la page doit faire comprendre : d’abord le moment où Lila perd le sens de la carte en la retournant, puis la modification qu’elle propose. Deux petites scènes mises dans l’ordre et accompagnées d’une légende peuvent garder ce lien. Agathe choisit ce qu’elle veut dire dans la légende. Inès peut tenir le crayon ou demander qui a tourné la feuille si c’est encore ambigu. Agathe peut lire, dicter, montrer ou demander un exemple de légende. Ces options portent sur la façon d’écrire une page commune. Le travail plus spécifique sur l’organisation du langage, s’il est utile pour elle, se discute avec son orthophoniste.
+L’auditeur ne peut pas toujours retrouver à qui renvoie « elle » ou quel objet désigne « ça ».
+
+**Exemples concrets**
+
+- Agathe pense à Lila et à la feuille, mais Inès doit demander de qui et de quoi elle parle.
+- Dans un compte rendu, « il l’a déplacée » reste ambigu quand deux élèves et deux boîtes ont été mentionnés.
+
+### L’ordre vécu n’est pas toujours dans les phrases
+
+Un récit utilisable aide l’auditeur à relier le premier geste et ce qui a suivi.
+
+**Exemples concrets**
+
+- Le lecteur doit voir Lila retourner la feuille avant de comprendre l’ajout du signe sur le devant.
+- Un dessin du plan déjà corrigé n’expliquerait pas à lui seul pourquoi quelqu’un avait hésité.
+
+### La cause donne un sens à la correction
+
+Raconter qu’une chose a changé ne suffit pas toujours à dire pourquoi elle a changé.
+
+**Exemples concrets**
+
+- La légende explique qu’on garde la feuille dans le même sens lorsque le signe est devant.
+- Une proposition de fleurs mérite une autre case puisqu’elle ne découle pas de l’erreur de lecture.
+
+## 3 techniques pour rendre le fil d’un récit visible
+
+### 1. Donner un nom avant le pronom
+
+Permettre au lecteur d’identifier qui fait le premier geste.
+
+**Exercice pratique**
+
+- Choisissez la personne et l’objet dont vous parlez.
+- Nommez-les dans la première phrase.
+- Demandez à un lecteur de signaler le prochain endroit où il hésite.
+
+Le lecteur suit les actions sans inventer les personnes.
+
+### 2. Organiser deux moments sur la page
+
+Montrer ce qui s’est passé avant et après.
+
+**Exercice pratique**
+
+- Dessinez ou notez le moment où le problème apparaît.
+- Placez à côté le geste qui le résout.
+- Ajoutez une phrase qui explique ce que le second change.
+
+L’ordre et la cause deviennent consultables ensemble.
+
+### 3. Séparer le constat et l’idée à discuter
+
+Éviter que les propositions soient prises pour des décisions prises.
+
+**Exercice pratique**
+
+- Relisez ce qui décrit l’essai.
+- Placez les nouvelles idées dans un autre cadre.
+- Ajoutez la question que les lecteurs pourront encore trancher.
+
+Le récit explique la correction et laisse sa place à la suite.
 
 ## Deux dessins et une cause
 
 Agathe écrivit sous le premier dessin : « Lila retourne la feuille pour voir le signe. » Inès nota sous le second, après lui avoir relu la phrase : « Le signe est devant : on garde la feuille dans le même sens. » Le cadre était trop petit pour les deux étoiles. Agathe les mit dans une autre case, avec une question pour la classe qui reprendrait le jardin. La page pouvait désormais rejoindre les copies du plan. Mme Roussel leur confirma que les CM1 devaient venir le jeudi suivant, en deux groupes. Agathe rentra avec les deux dessins dans son sac pour les recopier au propre. La pluie commençait à piquer le papier qu’elle avait laissé dépasser.
+
+---
+
+**Conclusion**
+
+Deux dessins permettent de comprendre le changement de légende sans avoir assisté à l’essai. Agathe laisse les fleurs en dehors de ce récit, dans la case des décisions à venir. Le groupe a une page prête alors que la pluie met le trajet du jeudi en question.

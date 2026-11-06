@@ -30,16 +30,81 @@ Diane retrouve le cliché où l’on voit les deux pièces à la bonne hauteur. 
 
 ## Garder la maîtrise du récit de soi
 
-Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît.
+La crainte d’être étiqueté peut pousser à se taire même quand on a quelque chose à raconter. Après une crise psychotique, une personne peut redouter que ses choix soient ramenés à son histoire de santé. Diane veut que les visiteurs regardent les formes et les couleurs des pièces. La question inscrite sur le cartel lui donne d’abord l’impression qu’on lui demande un récit personnel, avant qu’elle trouve ce qu’elle souhaite partager.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte d’être étiquetée change-t-elle ce qu’on ose présenter ?
 
-Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre.
+### Une question ouverte semble porter sur la santé
 
-## Donner à chacun les informations dont il a besoin
+On peut entendre une invitation à parler de son travail comme une demande de parler de son absence.
 
-Diane a communiqué un numéro de suivi à Rémi parce qu’elle voulait pouvoir lui demander une aide précise. Pour son équipe de soins, elle choisit ce qui peut éclairer son retour au travail et ce qu’elle ressent. Les recommandations après un premier épisode psychotique invitent à discuter des informations partagées avec les proches et à revoir ces choix quand les besoins changent. Pour l’exposition, Rémi peut relire un texte sur la carafe sans être invité à parler de la santé de Diane. Elle a encore la possibilité de reparler du diagnostic avec lui, en privé, quand elle le voudra.
+**Exemples concrets**
+
+- Diane retourne aussitôt le carton où Maud lui demande ce qu’elle aimerait qu’on sache.
+- Une personne à qui on demande un mot sur son projet craint qu’on attende le récit de sa convalescence.
+
+### On anticipe une lecture réductrice
+
+La peur peut porter sur l’interprétation que d’autres feront de chaque choix.
+
+**Exemples concrets**
+
+- Diane redoute que le bol soit regardé à travers ce qui l’a tenue loin de l’atelier.
+- Quelqu’un hésite à montrer une photographie parce qu’il craint qu’on la lise uniquement comme un témoignage de crise.
+
+### Les mots du métier redonnent une direction
+
+Décrire un choix de forme ou d’usage permet de décider ce que le public apprendra.
+
+**Exemples concrets**
+
+- Diane parle du bleu au fond et de la façon dont le col laisse verser.
+- Une personne présente un texte par son rythme plutôt que par les événements qui entouraient son écriture.
+
+## 3 techniques pour présenter son travail avec les informations que l’on choisit
+
+### 1. Partir de ce que le visiteur peut voir
+
+Trouver une phrase qui invite à regarder la pièce.
+
+**Exercice pratique**
+
+- Choisissez un détail visible ou un usage.
+- Dites ce que vous avez voulu essayer à cet endroit.
+- Gardez une phrase que vous accepteriez de lire devant le public.
+
+La présentation exprime un choix concret, même quand l’histoire personnelle reste privée.
+
+### 2. Relire avec la bonne personne
+
+Vérifier ce que le support communique avant son impression.
+
+**Exercice pratique**
+
+- Montrez votre texte à une personne que vous choisissez.
+- Demandez ce qu’elle a compris de la pièce.
+- Modifiez le passage qui invite à une lecture que vous ne souhaitez pas.
+
+Le retour porte sur ce qui est écrit sans transférer la décision à celui qui relit.
+
+### 3. Préparer la réponse à une question personnelle
+
+Pouvoir garder une limite si la conversation quitte le travail.
+
+**Exercice pratique**
+
+- Choisissez ce que vous souhaitez dire ou garder pour vous.
+- Préparez une phrase pour revenir à la pièce.
+- Convenez avec l’organisateur de l’aide que vous voulez si la question insiste.
+
+La personne peut rester dans l’échange ou s’en retirer sans être obligée d’en raconter davantage.
 
 ## Deux titres au crayon
 
 Sur le carton du bol, Diane écrit « Pente bleue », puis une phrase sur le bleu plus foncé au fond. Pour la carafe, elle choisit « Gris de pluie » et indique qu’elle a modelé le col pour qu’on verse lentement. Rémi lui montre qu’il a mesuré les deux cartes trop grandes et qu’il faudra les recouper pour la photo. Diane les envoie telles quelles à Maud, qui prépare de toute façon la mise en page. Elle demande à son cousin s’il sera là au vernissage. Il pense passer en fin de journée. Elle lui promet de lui indiquer la tablette qu’elle a demandée.
+
+---
+
+**Conclusion**
+
+Les deux cartels invitent à regarder le bleu et à imaginer le geste de verser. Diane a choisi ce qu’elle confie aux visiteurs. Rémi l’aide avec les cartons et peut venir voir les pièces sans porter le récit qu’elle a préféré garder.

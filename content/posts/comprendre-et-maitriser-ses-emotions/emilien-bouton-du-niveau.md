@@ -29,20 +29,83 @@ Il pose la main sur le bureau. Il remarque un léger tremblement quand il veut r
 
 Son rendez-vous est dans l’après-midi. Il avait prévu de parler surtout de son énergie et du sommeil. Il hésite à apporter un problème qui, sur le papier, ressemble à une difficulté de quelques millimètres. Dorian l’appelle à ce moment-là. Il entend la seconde tourner derrière lui et lui demande s’il cherche toujours le claquement. Émilien répond que cette fois, c’est sa main qu’il ne comprend pas. Après l’appel, il écrit à côté de l’heure du rendez-vous : « Console et couvercle. »
 
-## Comprendre ce qu’il est utile de signaler
+## Une gêne nouvelle mérite une question au prescripteur
 
-Une gêne nouvelle mérite d’être décrite aux professionnels qui suivent le traitement, même si la personne n’en connaît pas la cause. Émilien peut préciser quand elle est apparue, à quel geste il la remarque, si elle survient aussi ailleurs et ce qu’elle change pour lui. Le récit qu’il a trouvé en ligne ne permet pas d’attribuer la gêne à son traitement. Le NICE recommande de discuter avec la personne des bénéfices et des risques et de suivre notamment les effets indésirables possibles.
+Une difficulté qui apparaît pendant un traitement peut être un effet indésirable, mais sa cause doit être examinée avec le prescripteur. Son retentissement sur des gestes du quotidien fait partie de ce qu’il est utile de décrire. Pour Émilien, le tremblement compte parce qu’il gêne la précision sur la console et apparaît aussi avec un couvercle. Les récits lus en ligne ne renseignent pas sur sa situation et ne justifient pas de modifier seul son traitement.
 
-## Un tremblement au moment d’un réglage fin
+## Comment un effet possible devient-il perceptible au quotidien ?
 
-Émilien dépasse plusieurs fois le point qu’il cherche sur la bande. En reprenant le bouton, il remarque un léger tremblement. Il a senti une gêne semblable en fermant un bocal. Quelques millimètres suffisent à déplacer la coupe dans son travail. Ce qu’il observe dans ces deux gestes donne une mesure de la difficulté, sans lui permettre d’en établir la cause.
+### Le geste perd en précision
 
-## Faire une place aux préférences dans l’avis clinique
+Une gêne discrète peut compter beaucoup dans une tâche où quelques millimètres font la différence.
 
-Émilien peut demander quelles causes l’équipe envisage et ce qu’il faut observer ou vérifier. Il peut aussi dire quels gestes il aimerait pouvoir retrouver dans sa semaine. Si une décision sur le traitement se pose, elle se discute avec les professionnels qui le prescrivent et le suivent. Un témoignage ou l’avis d’un proche n’est pas une raison pour déplacer, réduire ou arrêter une prise par soi-même. Émilien veut repartir avec le nom de la personne à contacter si la gêne persiste ou s’accentue, et savoir à quel moment faire le point. Il garde la possibilité d’exprimer un désaccord ou de poser une autre question avant que l’échange se termine.
+**Exemples concrets**
 
-Il peut expliquer ce que le réglage demande à sa main et en parler avant que la gêne ne l’empêche de travailler.
+- Émilien ramène le bouton au-delà de la seconde cherchée.
+- Il recommence à écouter le claquement de la caisse sans retrouver le début du bruit.
+
+### Le phénomène revient hors du studio
+
+Une autre situation permet de préciser la gêne et les circonstances où elle revient.
+
+**Exemples concrets**
+
+- Émilien ressent aussi le tremblement en fermant un bocal.
+- À la consultation, il peut montrer le geste du bouton et décrire ce qui se passe avec le couvercle.
+
+### La cause semble plus urgente à connaître que le fait à décrire
+
+L’incertitude peut détourner l’attention vers des explications trouvées ailleurs, alors que le prescripteur a besoin du vécu de la personne.
+
+**Exemples concrets**
+
+- Émilien rouvre la page où un inconnu raconte avoir changé sa façon de prendre un traitement.
+- Il hésite à parler du tremblement dans un rendez-vous où il comptait évoquer le sommeil et l’énergie.
+
+## 3 techniques pour faire examiner une gêne pendant le traitement
+
+### 1. Préparer deux gestes à raconter
+
+Décrire les effets de la gêne plutôt que supposer sa cause.
+
+**Exercice pratique**
+
+- Choisissez un geste de travail et, si vous en avez un, un geste de la vie courante.
+- Précisez depuis quand vous remarquez la difficulté et ce qu’elle change.
+- Montrez le geste ou lisez votre note au professionnel qui prescrit le traitement.
+
+Le prescripteur peut mieux apprécier la gêne et décider des vérifications utiles.
+
+### 2. Demander à quel moment reprendre contact
+
+Sortir de la consultation avec une conduite à tenir claire.
+
+**Exercice pratique**
+
+- Demandez ce que le professionnel souhaite vérifier et ce que vous pouvez lui signaler.
+- Notez le contact et les circonstances dans lesquelles il faut le joindre plus tôt.
+- Gardez le traitement tel que prescrit jusqu’à une décision avec lui.
+
+Vous disposez d’un interlocuteur pour les changements sans avoir à suivre les conseils d’un inconnu.
+
+### 3. Partager le réglage sans partager le dossier
+
+Maintenir une tâche de montage le temps que la question soit évaluée.
+
+**Exercice pratique**
+
+- Dites au collègue quelle manipulation demande un appui.
+- Proposez de prendre ensemble la décision pendant qu’il tient la commande, s’il est disponible.
+- Précisez ce que vous souhaitez garder pour la consultation.
+
+Le travail peut avancer et les renseignements médicaux restent sous votre contrôle.
 
 ## Un fait à décrire à la psychiatre
 
 À la consultation, Émilien montre du bout des doigts le mouvement du bouton. Il raconte aussi le couvercle du bocal. La psychiatre lui demande depuis quand il le remarque et discute avec lui des éléments à vérifier. En sortant, Émilien note le contact convenu. Il envoie à Dorian la réponse qu’il voulait écrire le matin : « On garde la phrase entière pour l’essai. Si tu as vingt minutes, on fera la coupe ensemble. » Il peut leur proposer une nouvelle écoute sans avoir déjà une réponse sur sa main.
+
+---
+
+**Conclusion**
+
+La console et le bocal donnent à la psychiatre des éléments à examiner. Émilien repart avec un contact et choisit de faire la coupe avec Dorian. La gêne a sa place dans le suivi, même si elle ne se voit pas dans le résultat du montage.

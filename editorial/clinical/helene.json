@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comment le trouble du développement intellectuel retentit au travail",
-          "text": "Quand Maud parle du rendez-vous « habituel », Hélène doit rapprocher une expression orale, une nouvelle adresse et un planning qui porte encore l’ancien lieu. C’est une difficulté concrète d’adaptation dans le contexte de son trouble du développement intellectuel, diagnostiqué avant ce récit. Une consigne écrite qui sépare le jour, l’heure et l’adresse lui permet de décider ce qu’elle doit faire ensuite. À l’autre bout du rayon, elle sait déjà expliquer à une cliente où se trouvent les tasses."
+          "heading": "Les habiletés mobilisées changent selon la tâche",
+          "text": "Le trouble du développement intellectuel concerne aussi les habiletés d’adaptation qui servent dans la vie quotidienne : comprendre des informations, communiquer et organiser une action. Les besoins peuvent différer d’une tâche à l’autre. Hélène sait observer comment les clients s’orientent dans le rayon. Pour préparer la tournée, elle a besoin que Maud distingue le lieu et l’heure au lieu de les laisser sous le même mot."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Hélène sait par ailleurs pourquoi la tasse bleue revient dans le mauvais panier. Elle compare les gestes des clients à la disposition du rayon. Cette compétence et sa difficulté avec une annonce de dernière minute peuvent coexister. Les deux apportent des informations sur des situations distinctes de son travail."
+          "heading": "Comment des besoins différents se voient-ils dans une même journée de travail ?",
+          "points": [
+            {
+              "heading": "Une compétence se voit dans une tâche concrète",
+              "text": "Une personne peut connaître les lieux et les usages d’un rayon où elle travaille régulièrement.",
+              "examples": [
+                "Hélène regarde la tasse depuis l’entrée et comprend pourquoi les clients la remettent avec les bols.",
+                "Un employé connaît les habitudes du comptoir et repère qu’une pile de cartons cache le point de retour des paniers."
+              ]
+            },
+            {
+              "heading": "Un mot suppose plusieurs informations",
+              "text": "Quand une consigne s’appuie sur une habitude qui change, il peut être difficile de retrouver ce qu’il faut conserver de l’ancienne version.",
+              "examples": [
+                "Hélène ne sait pas si « départ habituel » désigne l’heure ou le lieu.",
+                "Une personne lit « même tournée » et demande si le dépôt de départ a changé avec l’adresse de livraison."
+              ]
+            },
+            {
+              "heading": "Une aide ciblée permet de reprendre",
+              "text": "Une précision utile porte sur l’étape à faire, sans effacer les compétences déjà mobilisées.",
+              "examples": [
+                "Maud écrit l’heure et le lieu sur une nouvelle feuille et raye l’ancienne ligne.",
+                "Une collègue ajoute le quai sur une fiche ; la personne peut ensuite préparer la caisse qu’elle connaît."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer ce qui change de ce qui reste à décider",
-          "text": "Les recommandations de la HAS sur le travail invitent à expliciter l’organisation et à ajuster les supports avec la personne. Maud peut écrire deux renseignements séparés, l’heure de mardi et le lieu du rendez-vous, puis préciser quand le reste sera confirmé. Si une partie n’est pas fixée, il vaut mieux écrire « à confirmer jeudi » que demander à Hélène de retrouver une réponse qui n’existe pas encore. L’équipe a aussi intérêt à retirer du tableau la version qu’elle ne doit plus utiliser.\n\nPour le rayon, Hélène a une demande de métier : du temps pour fabriquer, puis l’occasion de regarder ce qui se passe. Maud peut discuter de ce temps et du matériel disponible sans mélanger le sujet avec les appuis du déplacement. Deux sujets distincts donnent deux décisions dont on peut retrouver la trace."
+          "heading": "3 techniques pour rendre une consigne de travail utilisable",
+          "points": [
+            {
+              "heading": "Séparer les repères qui changent",
+              "objective": "Rendre chaque renseignement facile à vérifier.",
+              "exercise": [
+                "Écrivez le jour, l’heure et le lieu sur des lignes séparées.",
+                "Marquez ce qui reste à confirmer et quand.",
+                "Retirez avec l’équipe la version qui ne s’applique plus."
+              ],
+              "benefit": "La personne peut trouver le renseignement dont elle a besoin au moment d’agir."
+            },
+            {
+              "heading": "Demander ce que couvre un mot vague",
+              "objective": "Éviter de déduire seul le sens d’une consigne incomplète.",
+              "exercise": [
+                "Montrez le mot ou la ligne qui pose question.",
+                "Dites les deux sens possibles, comme l’heure ou le lieu.",
+                "Demandez à la personne responsable de préciser lequel s’applique."
+              ],
+              "benefit": "La réponse porte sur une ambiguïté réelle du planning."
+            },
+            {
+              "heading": "Donner une place à l’observation de métier",
+              "objective": "Faire entendre une proposition de travail sans la mélanger avec les appuis.",
+              "exercise": [
+                "Choisissez une observation que vous pouvez montrer à un collègue.",
+                "Convenez d’un temps et d’un résultat à vérifier.",
+                "Demandez les aménagements utiles pour cette tâche si vous en avez besoin."
+              ],
+              "benefit": "L’équipe peut répondre distinctement à l’idée et aux conditions pour l’essayer."
+            }
+          ]
         }
       ],
       "ending_title": "La tasse sert encore",
@@ -52,7 +108,8 @@
         "next": "Le rendez-vous de mardi reste à la boutique. Jeudi, l’équipe doit organiser une visite du nouveau dépôt ; Hélène veut prendre part à la décision."
       },
       "clinical_focus": "Habiletés adaptatives au travail",
-      "clinical_intro": "Hélène sait montrer le chemin du rayon à une cliente. Lorsque Maud parle du rendez-vous habituel et du nouveau dépôt dans la même consigne, elle a besoin de vérifier quelle ligne du planning suivre. Le trouble du développement intellectuel peut concerner les habiletés nécessaires pour s’adapter aux demandes du quotidien. Le contraste entre ces deux tâches aide à comprendre le profil particulier d’Hélène."
+      "clinical_intro": "Hélène sait montrer le chemin du rayon à une cliente. Lorsque Maud parle du rendez-vous habituel et du nouveau dépôt dans la même consigne, elle a besoin de vérifier quelle ligne du planning suivre. Le trouble du développement intellectuel peut concerner les habiletés nécessaires pour s’adapter aux demandes du quotidien. Le contraste entre ces deux tâches aide à comprendre le profil particulier d’Hélène.",
+      "conclusion": "La tasse a servi à montrer ce que les clients voyaient depuis l’entrée. La nouvelle feuille répond à une autre question, celle de mardi. Hélène dispose des deux informations pour faire avancer deux tâches différentes."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Laisser ouverte une décision qu’on est pressé de clore",
-          "text": "Présenter deux options ne suffit pas toujours pour qu’une personne puisse choisir entre elles. Pour Hélène, le camion est une proposition qu’elle peut se représenter. Le bus demeure une suite d’informations à compléter : où descendre, combien de temps marcher, qui sera là. Sans ces renseignements, la case que Maud s’apprête à cocher risque de recueillir l’effet de la précipitation plutôt qu’une préférence."
+          "heading": "Avoir les moyens de choisir",
+          "text": "L’autodétermination consiste à pouvoir faire des choix qui correspondent à ses préférences. Une personne ayant un trouble du développement intellectuel peut avoir besoin de temps, d’informations accessibles ou d’un appui qu’elle choisit pour les examiner. Hélène ne veut pas cocher une case avant de connaître les deux trajets. Elle précise ce que Sofia peut faire pendant la réunion."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le TDI, traiter ou rapprocher plusieurs informations peut demander un soutien adapté. La HAS propose de prendre en compte ce que la personne souhaite, comment elle comprend la situation et comment elle exprime aussi un refus. Hélène a dit qu’elle ne choisissait pas dans le vestiaire. Elle n’a pas refusé le déplacement. Accepter ce délai permet de lui poser de nouveau la question dans de meilleures conditions."
+          "heading": "Comment une décision peut-elle rester ouverte le temps de la préparer ?",
+          "points": [
+            {
+              "heading": "Une réponse rapide peut clore trop tôt la question",
+              "text": "Une case prête à être cochée peut pousser à choisir avant d’avoir comparé les options.",
+              "examples": [
+                "Hélène est tentée de dire « camion » pour que Maud pose son crayon.",
+                "Un collègue propose de noter le premier créneau et la personne demande d’abord quand elle pourrait rentrer."
+              ]
+            },
+            {
+              "heading": "Un renseignement concret permet de comparer",
+              "text": "Un nom d’arrêt ou une heure donne un contenu à une option encore vague.",
+              "examples": [
+                "Hélène demande le nom de l’arrêt et l’heure sur des lignes distinctes.",
+                "Une personne veut voir l’adresse des deux lieux avant de choisir où assister à une réunion."
+              ]
+            },
+            {
+              "heading": "Le soutien peut avoir un mandat précis",
+              "text": "L’accompagnant peut rappeler la question ou aider à organiser l’échange selon ce que la personne lui demande.",
+              "examples": [
+                "Sofia ramène la discussion au trajet et peut attendre pendant qu’Hélène réfléchit.",
+                "Une collègue relit les deux créneaux sur demande et laisse la personne annoncer celui qu’elle préfère."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer le rôle de la personne invitée",
-          "text": "Hélène veut que Sofia veille à ce qu’on parle du déplacement avant les tournées. Son mandat ne comprend pas de choisir le bus, d’interpréter son silence ou de raconter son histoire à l’équipe. Ensemble, elles peuvent convenir d’un signe si Hélène veut que Sofia rappelle la question. Sofia peut aussi annoncer son heure de départ. Ce renseignement aide à organiser la réunion au lieu de laisser Hélène compter sur une présence que Sofia ne peut pas assurer.\n\nLe temps de réflexion a lui aussi des conditions concrètes. Maud doit réserver les places du camion avant jeudi midi. Elle peut poser les deux propositions en début de réunion et dire quand une réponse est nécessaire. Hélène peut demander une autre possibilité, par exemple un premier trajet accompagné suivi d’un nouveau choix."
+          "heading": "3 techniques pour soutenir un choix sans le précipiter",
+          "points": [
+            {
+              "heading": "Dire ce qu’il faut savoir avant de répondre",
+              "objective": "Repérer les informations nécessaires à la décision.",
+              "exercise": [
+                "Nommez la question qu’on vous demande de trancher.",
+                "Dites ce qu’il vous manque pour comparer les réponses.",
+                "Convenez du moment où vous aurez ces renseignements."
+              ],
+              "benefit": "Une réponse peut attendre une information qui en change le sens."
+            },
+            {
+              "heading": "Fixer le rôle de la personne qui accompagne",
+              "objective": "Garder la main pendant une réunion qui va vite.",
+              "exercise": [
+                "Dites ce que vous voulez faire vous-même.",
+                "Demandez un appui précis et indiquez quand il serait utile.",
+                "Vérifiez le temps dont dispose l’accompagnant et ajustez l’ordre de réunion."
+              ],
+              "benefit": "L’aide répond à une demande claire et la personne garde sa place dans la discussion."
+            },
+            {
+              "heading": "Transformer un engagement en essai",
+              "objective": "Pouvoir se prononcer à partir d’une expérience concrète.",
+              "exercise": [
+                "Choisissez une étape réversible du trajet.",
+                "Convenez avec les personnes concernées du retour et de leurs disponibilités.",
+                "Décidez après l’essai de ce que vous souhaitez garder ou changer."
+              ],
+              "benefit": "Le choix s’appuie sur ce qui a été observé plutôt que sur une préférence supposée."
+            }
+          ]
         }
       ],
       "ending_title": "Le point trajet passe en premier",
@@ -98,7 +211,8 @@
         "next": "Maud confirme les solutions de retour avant l’essai. Hélène et Dario pourront repérer le trajet à l’aller, puis Hélène décidera de l’appui au retour."
       },
       "clinical_focus": "Autodétermination et aide à la décision",
-      "clinical_intro": "Deux trajets sont proposés à Hélène. Elle veut pouvoir les imaginer avant d’en choisir un et demande à Sofia de venir au début de la réunion. L’autodétermination passe ici par un temps de préparation, une occasion d’essayer et un appui dont Hélène définit le rôle. Elle remet sa décision à plus tard pour se prononcer à partir de quelque chose de concret."
+      "clinical_intro": "Deux trajets sont proposés à Hélène. Elle veut pouvoir les imaginer avant d’en choisir un et demande à Sofia de venir au début de la réunion. L’autodétermination passe ici par un temps de préparation, une occasion d’essayer et un appui dont Hélène définit le rôle. Elle remet sa décision à plus tard pour se prononcer à partir de quelque chose de concret.",
+      "conclusion": "Le point trajet passe en premier, comme Hélène l’avait demandé. Elle peut choisir d’essayer l’aller avec Dario. Les deux mots entourés fixent l’essai ; le choix du trajet à long terme reste ouvert."
     },
     {
       "number": 3,
@@ -115,18 +229,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Garder les repères qui correspondent au trajet",
-          "text": "L’utilité d’un repère dépend de ce que la personne pourra retrouver au moment où elle en aura besoin. Une photo du parking renseigne les personnes qui arrivent en voiture. Hélène a besoin de distinguer deux entrées depuis le trottoir. Elle a aussi besoin que la direction du bus et le nom de l’arrêt restent visibles ensemble. Son plan tient ces renseignements sur une page ; la carte de son téléphone répond à d’autres questions."
+          "heading": "Un repère s’apprend à l’endroit où on l’utilisera",
+          "text": "Les apprentissages pratiques peuvent se poursuivre avec un trouble du développement intellectuel. Essayer un trajet dans les conditions où il servira et utiliser des repères choisis avec la personne peuvent faciliter l’apprentissage. Dario dessine le parcours, mais Hélène cherche ce qu’elle verra depuis le bus et le trottoir. Son propre plan retient des signes reconnaissables depuis ces endroits."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’OMS rappelle que les habiletés de la vie quotidienne, dont les déplacements, se regardent dans leur contexte. Un trajet peut devenir familier avec l’expérience et rester difficile si ses repères changent. La HAS suggère de discuter avec la personne de la façon de préparer un déplacement et d’envisager les imprévus. Le dessin d’Hélène répond à ses besoins à elle. Il ne permet pas de prédire le trajet qu’une autre personne saurait faire."
+          "heading": "Comment apprend-on un trajet en construisant ses propres repères ?",
+          "points": [
+            {
+              "heading": "Le point de vue change la valeur d’un signe",
+              "text": "Un détail aide s’il est visible au moment où il faut prendre une décision.",
+              "examples": [
+                "Hélène regarde par la vitre pour reconnaître la marquise rayée avant l’arrêt Verrerie.",
+                "Une personne vérifie que le nom d’une rue se lit depuis le bon côté du passage piéton."
+              ]
+            },
+            {
+              "heading": "L’arrivée demande plus qu’une adresse",
+              "text": "Plusieurs portes peuvent correspondre à la même adresse et avoir des usages différents.",
+              "examples": [
+                "Hélène laisse de côté le portail de livraison et retient la porte bleue marquée « accueil ».",
+                "Quelqu’un apprend à distinguer la porte des rendez-vous de celle qu’empruntent les fournisseurs."
+              ]
+            },
+            {
+              "heading": "La personne peut préciser l’étape où elle souhaite de l’aide",
+              "text": "Les besoins ne sont pas nécessairement les mêmes à l’aller et au retour.",
+              "examples": [
+                "Hélène demande à Ilyes de lui montrer l’abri du retour.",
+                "Une personne connaît le quai de départ et demande à vérifier seulement la sortie de la station."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’entendre sur l’aide avant le départ",
-          "text": "Pendant un essai, un collègue peut demander à quel moment intervenir : « Tu veux lire le nom toi-même, ou je te le dis quand on approche ? » Dario connaissait l’arrêt. Il n’avait pas encore demandé à Hélène ce qu’elle voulait essayer. Une fois leur accord trouvé, sa présence lui laisse le temps de chercher et la possibilité de poser une question.\n\nLe chemin de retour mérite son propre regard. Le même arrêt n’est pas forcément du même côté de la rue et la direction sur le bus change. Maud a confirmé qu’Ilyes peut accompagner Hélène jusqu’à l’arrêt du retour si elle le souhaite. Elle a aussi laissé le numéro de la boutique. Hélène peut décider d’utiliser ces appuis et vérifier le sens du bus en restant responsable de ce qu’elle souhaite faire."
+          "heading": "3 techniques pour apprendre un trajet dans les conditions où il servira",
+          "points": [
+            {
+              "heading": "Observer depuis sa place",
+              "objective": "Choisir des repères qu’on retrouvera pendant le déplacement.",
+              "exercise": [
+                "Faites le trajet d’essai avec l’appui que vous souhaitez.",
+                "Repérez un signe à chaque point où il faut agir.",
+                "Demandez à l’autre personne de vous laisser le temps de reconnaître ces signes."
+              ],
+              "benefit": "Les repères correspondent à ce que vous verrez et pourrez utiliser."
+            },
+            {
+              "heading": "Faire un plan qu’on comprend soi-même",
+              "objective": "Garder les informations nécessaires sans accumuler les détails.",
+              "exercise": [
+                "Notez les arrêts et l’entrée à atteindre.",
+                "Dessinez le détail que vous voulez reconnaître en arrivant.",
+                "Rangez le plan à l’endroit où vous en aurez besoin."
+              ],
+              "benefit": "Le support peut être retrouvé et lu au moment utile."
+            },
+            {
+              "heading": "Définir un appui pour la partie nouvelle",
+              "objective": "Demander un relais à l’étape qui n’est pas encore claire.",
+              "exercise": [
+                "Dites quelle partie vous voulez essayer seul et laquelle vous voulez revoir.",
+                "Demandez à un contact de montrer l’étape incertaine.",
+                "Convenez d’un autre numéro si le premier contact n’est pas disponible."
+              ],
+              "benefit": "L’aide complète l’apprentissage sans imposer le même accompagnement partout."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait bleu pour l’accueil",
@@ -144,7 +314,8 @@
         "next": "Le plan concerne le trajet ordinaire. La semaine suivante, Hélène devra revenir chercher le bordereau de la tournée vaisselle."
       },
       "clinical_focus": "Apprentissage pratique en situation",
-      "clinical_intro": "Dario dessine le trajet pendant qu’Hélène cherche les façades qu’elle pourra reconnaître depuis le bus. Elle préfère garder sur son plan les repères qu’elle a elle-même observés. Avec un trouble du développement intellectuel, des appuis choisis dans la situation peuvent faciliter l’apprentissage d’une habileté pratique. Hélène peut ensuite préciser la partie du trajet pour laquelle elle veut être accompagnée."
+      "clinical_intro": "Dario dessine le trajet pendant qu’Hélène cherche les façades qu’elle pourra reconnaître depuis le bus. Elle préfère garder sur son plan les repères qu’elle a elle-même observés. Avec un trouble du développement intellectuel, des appuis choisis dans la situation peuvent faciliter l’apprentissage d’une habileté pratique. Hélène peut ensuite préciser la partie du trajet pour laquelle elle veut être accompagnée.",
+      "conclusion": "Sur le plan plié, le nom de l’arrêt se lit d’un coup d’œil. À l’intérieur, Hélène a dessiné la porte qu’elle peut reconnaître. Elle repart avec un trajet précis et sait quelle partie elle veut encore se faire montrer."
     },
     {
       "number": 4,
@@ -161,18 +332,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Faire apparaître le lien entre l’écran et le carton",
-          "text": "Un support sert quand il donne accès à l’information dont la personne a besoin pour agir. L’étiquette du papier et le nom affiché par l’imprimante ne se correspondent pas à première vue. Pour Hélène, découvrir ce lien alors qu’il ne reste qu’une demi-heure rend la tâche plus difficile. Son besoin d’aide concerne cette étape : retrouver la ligne et pouvoir s’en servir ensuite.\n\nLa HAS invite à examiner, lorsqu’une difficulté apparaît, le matériel, la consigne et les conditions de réalisation."
+          "heading": "Un appui peut viser une seule étape",
+          "text": "Dans le trouble du développement intellectuel, un apprentissage peut être facilité par une aide ajustée à l’étape qui pose problème. Une personne peut maîtriser le but d’une tâche et avoir besoin d’un lien plus explicite entre deux supports. Hélène sait ce qu’elle veut imprimer. Il lui manque la correspondance entre le nom du papier dans le menu et celui du paquet."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Montrer la bonne ligne donne ici une information vérifiable que Hélène peut réutiliser. Elle sait déjà comment disposer le texte et le dessin sur la page. L’OMS décrit des profils et des besoins de soutien variables dans le TDI ; une étape qui demande un appui ne renseigne pas, à elle seule, sur l’ensemble du travail de la personne."
+          "heading": "Comment une aide ciblée se distingue-t-elle d’une prise en charge de toute la tâche ?",
+          "points": [
+            {
+              "heading": "La difficulté est située",
+              "text": "Observer la première étape qui bloque permet de proposer une réponse plus précise.",
+              "examples": [
+                "Hélène a choisi la flèche et l’image ; le premier tirage sort trop petit.",
+                "Une personne sait préparer les étiquettes et demande seulement de retrouver le réglage correspondant à leur format."
+              ]
+            },
+            {
+              "heading": "Une démonstration peut laisser les commandes à la personne",
+              "text": "Montrer le lien utile permet de reprendre l’action sans déplacer toute la responsabilité.",
+              "examples": [
+                "Dario montre à Hélène la ligne du menu qui correspond à son paquet.",
+                "Une collègue montre où lire le numéro de la pièce puis laisse la personne entrer la référence."
+              ]
+            },
+            {
+              "heading": "La trace peut servir à l’essai suivant",
+              "text": "Ajouter un repère là où la difficulté s’est présentée rend l’information plus facile à retrouver.",
+              "examples": [
+                "Hélène inscrit sur le carton le nom qu’elle verra dans le menu.",
+                "Quelqu’un place une étiquette près d’un bac pour retrouver le nom employé dans la liste de commandes."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ce que le test peut apprendre",
-          "text": "La signalétique est le projet d’Hélène. Le premier essai lui permettra de voir si une photo avec un mot et une flèche aide des clients à s’orienter dans ce rayon. Elle peut décrire ce qu’elle voit à Dario : une personne a tourné trop tôt, quelqu’un a cherché le prix, un client a demandé les bols. Ce sont des observations sur les panneaux et le magasin. Une matinée ne permet pas de départager toutes les raisons qui conduisent les gens à s’arrêter.\n\nPour respecter la disponibilité annoncée par Dario, Hélène propose deux petites périodes d’observation et une seule question pour les clients qui ont le temps. Elle gardera le dessin de côté jusqu’au deuxième essai. Si elle change aussi l’emplacement ou la flèche, elle notera ces changements : elle saura alors ce qu’elle a modifié sans attribuer tout le résultat à l’image."
+          "heading": "3 techniques pour construire une aide limitée à ce qui bloque",
+          "points": [
+            {
+              "heading": "Préciser l’étape utile",
+              "objective": "Savoir ce que le collègue peut montrer sans faire le reste.",
+              "exercise": [
+                "Dites ce que vous voulez obtenir.",
+                "Montrez l’endroit où vous ne savez plus quel choix faire.",
+                "Demandez une explication limitée à ce point."
+              ],
+              "benefit": "Le collègue peut apporter une information précise et vous laisser poursuivre."
+            },
+            {
+              "heading": "Relier les deux supports",
+              "objective": "Retrouver une correspondance entre un objet et son nom de travail.",
+              "exercise": [
+                "Placez le paquet ou la pièce à côté du menu ou de la fiche.",
+                "Identifiez ensemble les deux termes.",
+                "Notez celui qui sera utile la prochaine fois."
+              ],
+              "benefit": "La correspondance reste visible une fois l’aide terminée."
+            },
+            {
+              "heading": "Reprendre et vérifier sur un résultat",
+              "objective": "Voir si l’aide permet de continuer la tâche choisie.",
+              "exercise": [
+                "Réalisez l’étape suivante vous-même si vous le souhaitez.",
+                "Vérifiez si le résultat correspond à ce que vous cherchiez.",
+                "Dites à l’équipe ce qui doit rester disponible ou être adapté."
+              ],
+              "benefit": "La vérification porte sur le résultat du travail et sur l’utilité de l’appui."
+            }
+          ]
         }
       ],
       "ending_title": "Le rouleau reste près du dessin",
@@ -190,7 +417,8 @@
         "next": "Samedi, elle testera la photo avec le mot et la flèche ; Dario observera depuis la caisse dans la limite de son travail."
       },
       "clinical_focus": "Apprentissage avec aide ciblée",
-      "clinical_intro": "Hélène sait où placer la flèche et l’image du panneau. L’impression bloque sur le lien entre un nom dans le menu et le papier devant elle. Un appui ciblé rend cette relation compréhensible puis lui permet de reprendre le travail. Le récit montre ce que des besoins variables selon les étapes peuvent vouloir dire avec un trouble du développement intellectuel."
+      "clinical_intro": "Hélène sait où placer la flèche et l’image du panneau. L’impression bloque sur le lien entre un nom dans le menu et le papier devant elle. Un appui ciblé rend cette relation compréhensible puis lui permet de reprendre le travail. Le récit montre ce que des besoins variables selon les étapes peuvent vouloir dire avec un trouble du développement intellectuel.",
+      "conclusion": "Hélène prépare ses deux versions après avoir résolu une question de papier. Le nom sur le carton pourra resservir ; le samedi, elle observera ce que les clients comprennent du panneau lui-même."
     },
     {
       "number": 5,
@@ -207,18 +435,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Trier les informations quand les demandes s’accumulent",
-          "text": "Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan."
+          "heading": "Quand plusieurs informations arrivent ensemble",
+          "text": "Le trouble du développement intellectuel peut rendre plus coûteux le tri de plusieurs informations au même moment. La difficulté dépend aussi du rythme et du cadre de travail. Hélène comprend ce que Véra a vu dans le rayon. Quand les questions se multiplient à la caisse en même temps, elle choisit de suspendre l’essai pour pouvoir retrouver ce qu’elle a observé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.\n\nLes recommandations de la HAS invitent à examiner les conditions d’un essai plutôt qu’à attribuer d’emblée une difficulté à la personne. Les questions des clients et les interruptions de la caisse compliquent le recueil des observations. Hélène a déjà remarqué qu’elle a besoin de temps pour rapprocher plusieurs informations, et elle demande parfois à les reprendre une par une. L’OMS décrit des besoins de soutien sensibles au contexte. Une personne peut repérer un problème avec précision et avoir besoin d’une pause pour trier les renseignements recueillis."
+          "heading": "Comment la surcharge se voit-elle pendant un essai au travail ?",
+          "points": [
+            {
+              "heading": "Deux sources réclament l’attention en même temps",
+              "text": "Une question au premier plan peut se mêler à des informations qui arrivent d’ailleurs.",
+              "examples": [
+                "Hélène parle à Véra pendant que Dario reçoit des demandes de retour et de monnaie.",
+                "Une personne essaie de lire les remarques d’un collègue tout en répondant aux clients qui entrent."
+              ]
+            },
+            {
+              "heading": "L’arrêt protège ce qu’on cherche à comprendre",
+              "text": "Quand il devient difficile de suivre la tâche, faire une pause peut éviter d’accumuler des remarques impossibles à reprendre.",
+              "examples": [
+                "Hélène tire le panneau de son support et arrête l’essai.",
+                "Un employé pose les deux documents et demande de reprendre d’abord celui qui concerne le client présent."
+              ]
+            },
+            {
+              "heading": "Une observation reste utile après l’interruption",
+              "text": "La surcharge ne dit pas que tout ce qui a été vu a perdu sa valeur.",
+              "examples": [
+                "Hélène comprend depuis la place de Véra pourquoi la photo ressemble à une promotion.",
+                "Une collègue interrompt le relevé et garde la remarque d’un client qui n’a pas vu le prix sur l’étagère."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Arrêter un essai quand il ne permet plus d’observer",
-          "text": "Dario ne peut plus noter les questions sans retarder les clients. Hélène retire le panneau ; l’essai était prévu pour pouvoir s’arrêter dans ces conditions. Après l’affluence, elle peut lui demander de reprendre ce qu’il a entendu avant d’avoir écarté sa feuille. Ce bilan court évite de reconstituer toute la matinée en même temps qu’on encaisse les achats.\n\nPour la prochaine version, elle envisage de dissocier l’orientation et l’étiquette de l’étagère. À l’endroit du virage, il y aurait une flèche ; sur l’étagère, le nom des objets. La HAS encourage à prendre en compte les propositions de la personne sur son environnement de travail. Ici, Maud peut lui dire quels supports restent disponibles et la laisser conduire la correction."
+          "heading": "3 techniques pour reprendre après un afflux d’informations",
+          "points": [
+            {
+              "heading": "Définir un signal d’arrêt",
+              "objective": "Pouvoir suspendre l’essai quand les conditions changent.",
+              "exercise": [
+                "Convenez avec le collègue de ce qui indiquera que la caisse ou le rayon est trop occupé.",
+                "Dites clairement quand l’essai s’arrête.",
+                "Rangez le matériel de façon à pouvoir le reprendre plus tard."
+              ],
+              "benefit": "La pause devient une décision de travail prévue, et les autres tâches restent possibles."
+            },
+            {
+              "heading": "Conserver quelques observations vérifiables",
+              "objective": "Garder les informations recueillies sans en tirer trop vite une règle générale.",
+              "exercise": [
+                "Écrivez une observation par ligne.",
+                "Indiquez d’où elle vient, par exemple une question entendue à la caisse.",
+                "Relisez-les quand le rayon est plus calme."
+              ],
+              "benefit": "L’équipe peut revenir aux faits observés après que le rythme a baissé."
+            },
+            {
+              "heading": "Choisir une condition à modifier",
+              "objective": "Repartir avec une question plus facile à suivre.",
+              "exercise": [
+                "Identifiez ce qui a gêné le relevé.",
+                "Changez un élément du cadre ou du panneau.",
+                "Convenez de ce que chacun pourra observer au prochain essai."
+              ],
+              "benefit": "Un essai plus ciblé peut rendre les retours plus faciles à comparer."
+            }
+          ]
         }
       ],
       "ending_title": "La photo attend dans le tiroir",
@@ -236,7 +520,8 @@
         "next": "Elle garde le dessin pour le second essai et veut séparer le guidage à l’entrée du rayon et le nom sur les étagères."
       },
       "clinical_focus": "Surcharge d’informations au travail",
-      "clinical_intro": "Hélène comprend pourquoi Véra a cru que la photo indiquait une promotion. À mesure que les questions s’accumulent à la caisse, elle peine à rapprocher les observations et choisit d’arrêter l’essai. Chez Hélène, trier plusieurs informations à la fois demande du temps. La pause lui permet de conserver ce qu’elle a compris et de reprendre la suite dans des conditions plus simples."
+      "clinical_intro": "Hélène comprend pourquoi Véra a cru que la photo indiquait une promotion. À mesure que les questions s’accumulent à la caisse, elle peine à rapprocher les observations et choisit d’arrêter l’essai. Chez Hélène, trier plusieurs informations à la fois demande du temps. La pause lui permet de conserver ce qu’elle a compris et de reprendre la suite dans des conditions plus simples.",
+      "conclusion": "La photo va dans le tiroir, les trois observations restent sur la feuille. Hélène sait déjà ce qu’elle ne veut pas reproduire. Elle gardera le dessin pour vérifier une autre manière de guider les clients."
     },
     {
       "number": 6,
@@ -253,18 +538,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le coût de décoder une consigne en dehors du travail",
-          "text": "Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement."
+          "heading": "Une aide utile dépend aussi du moment où on la demande",
+          "text": "Des consignes de travail peu explicites peuvent demander un effort supplémentaire à une personne qui vit avec un trouble du développement intellectuel. Adapter la consigne peut être utile ; la personne garde le choix du moment et de l’interlocuteur avec qui la reprendre. Hélène veut savoir si l’horaire du dépôt change pour elle. Ce dimanche, elle préfère finir d’organiser le dîner avec Léa et poser la question à Maud le lendemain."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.\n\nLa HAS propose de partir des préférences, du rythme et des habitudes de vie de la personne. Hélène veut le renseignement de l’équipe pendant son temps de travail. Elle sait quelle question poser, et le fait que Léa pourrait interpréter la photo plus vite ne lui donne pas la réponse officielle du dépôt. Le dimanche, ce qui compte à cette table est de décider du dîner."
+          "heading": "Comment une consigne de travail vient-elle prendre de la place chez soi ?",
+          "points": [
+            {
+              "heading": "Un document concerne plusieurs personnes à la fois",
+              "text": "Une information générale peut laisser à chacun le soin de déduire ce qui change pour lui.",
+              "examples": [
+                "Hélène ne sait pas si les flèches du planning déplacent le camion ou son rendez-vous.",
+                "Une personne reçoit une photo avec deux tournées et ne sait pas sur laquelle elle doit se rendre."
+              ]
+            },
+            {
+              "heading": "Une aide offerte peut ajouter une étape",
+              "text": "Si quelqu’un donne la réponse avec tout son raisonnement, il reste parfois deux choses à retenir au lieu d’une.",
+              "examples": [
+                "Léa tend la main vers l’écran ; Hélène connaît la façon dont elles finissent d’habitude par relire le planning.",
+                "Un proche propose trois interprétations d’un message alors que seule l’équipe peut confirmer le lieu."
+              ]
+            },
+            {
+              "heading": "Reporter laisse une place au moment présent",
+              "text": "Reprendre la consigne avec la personne responsable peut préserver l’activité qu’on avait choisie.",
+              "examples": [
+                "Hélène décide d’en parler lundi et revient à la tarte et aux boissons.",
+                "Quelqu’un garde une question pour la réunion du lendemain et continue à préparer une visite d’amis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Recevoir une demande précise sans prendre tout le reste",
-          "text": "Léa peut être une alliée quand Hélène souhaite relire quelque chose ensemble. Elle peut aussi laisser le téléphone où Hélène l’a posé. Un proche gagne à demander si l’aide est souhaitée et sur quelle partie. Si Hélène voulait seulement isoler la ligne qui parle d’elle, reprendre tout le planning ou téléphoner en son nom ajouterait des étapes dont elle n’a pas besoin.\n\nAu travail, le responsable du planning reste le mieux placé pour confirmer l’heure et le lieu. Une phrase suivie d’une question peut suffire : « Je passe chercher le bordereau. Je dois être au dépôt à quelle heure ? » L’important est que la réponse désigne le rendez-vous d’Hélène. La forme du message est à décider avec elle."
+          "heading": "3 techniques pour choisir quand et avec qui reprendre une consigne",
+          "points": [
+            {
+              "heading": "Poser une limite à l’aide immédiate",
+              "objective": "Faire comprendre ce dont vous avez besoin sur le moment.",
+              "exercise": [
+                "Dites si vous voulez une aide maintenant ou plus tard.",
+                "Nommez l’activité que vous souhaitez continuer.",
+                "Gardez la question de travail à un endroit où vous pourrez la retrouver."
+              ],
+              "benefit": "Le proche comprend ce qui est attendu et le projet du moment garde sa place."
+            },
+            {
+              "heading": "Revenir à la personne qui peut confirmer",
+              "objective": "Obtenir l’information qui concerne votre propre tâche.",
+              "exercise": [
+                "Montrez quelle ligne vous ne comprenez pas.",
+                "Demandez précisément ce qui change pour vous.",
+                "Notez seulement l’heure et le lieu confirmés, ou l’autre renseignement utile."
+              ],
+              "benefit": "La consigne devient utilisable sans retenir plusieurs interprétations."
+            },
+            {
+              "heading": "Proposer un format plus direct",
+              "objective": "Préparer les prochaines consignes quand le même problème revient.",
+              "exercise": [
+                "Apportez un exemple de message difficile à suivre.",
+                "Demandez une présentation qui distingue votre trajet du reste du planning.",
+                "Vérifiez avec l’équipe si ce format fonctionne la fois suivante."
+              ],
+              "benefit": "Le problème peut être traité à la source et moins déborder sur le temps personnel."
+            }
+          ]
         }
       ],
       "ending_title": "La tarte reste au programme",
@@ -282,7 +623,8 @@
         "next": "Maud confirme neuf heures jeudi à l’accueil du dépôt. Le plan est prêt pour le trajet habituel ; l’état de la ligne de bus reste à vérifier."
       },
       "clinical_focus": "Adaptation des consignes et limites",
-      "clinical_intro": "Une image envoyée le dimanche mélange la tournée du camion et le trajet d’Hélène. Sa cousine Léa propose de regarder avec elle pendant qu’elles préparent leur dîner. Hélène préfère demander elle-même l’heure et le lieu à son équipe. Sa difficulté à décoder le planning existe en même temps que son droit à choisir quand et avec qui elle veut reprendre la consigne."
+      "clinical_intro": "Une image envoyée le dimanche mélange la tournée du camion et le trajet d’Hélène. Sa cousine Léa propose de regarder avec elle pendant qu’elles préparent leur dîner. Hélène préfère demander elle-même l’heure et le lieu à son équipe. Sa difficulté à décoder le planning existe en même temps que son droit à choisir quand et avec qui elle veut reprendre la consigne.",
+      "conclusion": "La tarte reste prévue et l’heure du dépôt rejoint le plan le lundi. Hélène a réglé chacune des deux questions avec la personne qui pouvait y répondre, au moment qu’elle avait choisi."
     },
     {
       "number": 7,
@@ -299,18 +641,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Distinguer le trajet connu de la déviation",
-          "text": "Une déviation change la tâche, même lorsqu’on connaît le trajet habituel. Hélène sait dans quel bus monter et où reconnaître l’entrée du dépôt depuis Verrerie. Rien de cela ne lui dit comment rejoindre le même endroit à pied depuis Tannerie. En plus, le nom des deux arrêts se ressemble et la feuille est difficile à lire. La question est de retrouver des informations et des repères qui correspondent au trajet du jour."
+          "heading": "Un détour demande d’autres repères que le trajet appris",
+          "text": "Un changement de routine peut accroître les besoins d’appui liés à un trouble du développement intellectuel. Connaître un parcours ne suffit pas forcément quand son arrêt disparaît ou quand on ignore comment rejoindre l’arrivée. Hélène a appris le trajet jusqu’à Verrerie. La déviation lui pose une autre question : où descendre maintenant, et le déplacement est-il encore nécessaire ?"
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "L’OMS décrit des besoins de soutien qui peuvent varier lors d’un changement de routine. La HAS propose de préparer avec la personne des situations d’imprévu dans les transports : quel contact joindre, comment expliquer où l’on se trouve et de quels repères on a besoin. Le plan d’Hélène ne contenait pas la déviation. Le numéro de repli de la boutique, qu’elle avait choisi d’y mettre, lui permet de faire passer sa question à la bonne personne."
+          "heading": "Comment une déviation change-t-elle ce qu’il faut savoir pour avancer ?",
+          "points": [
+            {
+              "heading": "Le repère appris ne correspond plus au service",
+              "text": "Un trajet habituel peut être bien connu et rester inutilisable ce jour-là.",
+              "examples": [
+                "Le 4 passe à Marché mais ne dessert plus Verrerie.",
+                "Une personne sait descendre devant le dépôt et découvre que le bus termine temporairement sa course avant cet arrêt."
+              ]
+            },
+            {
+              "heading": "Le premier contact peut être indisponible",
+              "text": "Un appel sans réponse laisse la décision ouverte et donne sa place à un relais prévu.",
+              "examples": [
+                "Ilyes ne décroche pas ; Hélène reprend le numéro de la boutique.",
+                "Une personne a le numéro du collègue qui devait l’attendre et appelle l’accueil lorsqu’il est occupé."
+              ]
+            },
+            {
+              "heading": "Le but du déplacement peut être atteint autrement",
+              "text": "Avant de chercher un détour, vérifier le maintien du rendez-vous peut changer la tâche à résoudre.",
+              "examples": [
+                "Maud annule la visite et demande une copie du bordereau à utiliser en boutique.",
+                "Une équipe décale un passage et fait parvenir par un autre moyen la fiche que la personne devait venir chercher."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Confirmer le rendez-vous avant de proposer un détour",
-          "text": "La recyclerie doit aussi décider comment recevoir le bordereau. Maud peut dire si la présence d’Hélène reste nécessaire, qui transmettra la feuille et quand le trajet pourra être repris. Demander à Hélène de choisir un nouvel arrêt sans lui donner le chemin ne résout pas le rendez-vous. Lui dire simplement de renoncer à aller au dépôt les prochains jours ne prépare pas davantage la suite.\n\nPour ce matin, Hélène souhaite une réponse qui lui permette d’agir à partir de l’arrêt où elle se trouve. Si la déviation doit durer, elle veut essayer le détour avec un repère choisi et quelqu’un disponible au bout. L’équipe peut vérifier la durée des travaux et convenir du premier essai avec elle, après avoir réglé le départ de la tournée."
+          "heading": "3 techniques pour faire face à un trajet qui ne se déroule pas comme prévu",
+          "points": [
+            {
+              "heading": "Rester à un point qu’on sait décrire",
+              "objective": "Demander les informations avant de s’engager sur un parcours inconnu.",
+              "exercise": [
+                "Repérez l’arrêt ou le lieu où vous êtes.",
+                "Indiquez ce que le transporteur annonce.",
+                "Attendez une confirmation sur la suite depuis un endroit sûr."
+              ],
+              "benefit": "Le contact peut vous situer et vous répondre sur le déplacement réel."
+            },
+            {
+              "heading": "Prévoir un relais que l’équipe connaît",
+              "objective": "Pouvoir obtenir une décision si le premier contact manque.",
+              "exercise": [
+                "Convenez de deux contacts pour un trajet qui change.",
+                "Demandez à chacun ce qu’il pourra confirmer.",
+                "Vérifiez avec l’équipe qui décide si le rendez-vous doit être déplacé."
+              ],
+              "benefit": "Le plan ne dépend pas d’une seule personne ni d’une supposition sur le trajet."
+            },
+            {
+              "heading": "Garder les deux versions lisibles",
+              "objective": "Éviter de perdre le parcours habituel lorsqu’un détour est temporaire.",
+              "exercise": [
+                "Notez séparément ce qui est fermé ou modifié.",
+                "Demandez à vérifier la déviation avant la prochaine visite.",
+                "Choisissez le plan à utiliser une fois le trajet confirmé."
+              ],
+              "benefit": "Le repère temporaire ne remplace pas définitivement celui que vous connaissez déjà."
+            }
+          ]
         }
       ],
       "ending_title": "Rendez-vous annulé, bordereau maintenu",
@@ -327,7 +725,8 @@
         "next": "Le bordereau sera utilisé à la boutique. Avant la prochaine visite, l’équipe doit vérifier la déviation et proposer un repérage à Hélène."
       },
       "clinical_focus": "Adaptation à un trajet imprévu",
-      "clinical_intro": "Le trajet qu’Hélène a appris lui permet de reconnaître l’arrêt du dépôt. Une déviation retire ce repère et demande de résoudre une nouvelle situation. Le trouble du développement intellectuel peut rendre ce changement plus coûteux pour elle, même quand elle connaît bien le parcours habituel. Hélène utilise le contact convenu et demande d’abord si le rendez-vous est maintenu."
+      "clinical_intro": "Le trajet qu’Hélène a appris lui permet de reconnaître l’arrêt du dépôt. Une déviation retire ce repère et demande de résoudre une nouvelle situation. Le trouble du développement intellectuel peut rendre ce changement plus coûteux pour elle, même quand elle connaît bien le parcours habituel. Hélène utilise le contact convenu et demande d’abord si le rendez-vous est maintenu.",
+      "conclusion": "Hélène ne monte pas sans savoir où descendre. Le rendez-vous est annulé, le bordereau viendra à la boutique, et le petit feuillet signale ce qui manque encore au plan."
     },
     {
       "number": 8,
@@ -344,18 +743,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre et distinguer les options d’un consentement",
-          "text": "Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie. Hélène veut être reconnue pour ses panneaux. Elle peut préférer qu’une lettre montre le résultat et explique les essais, sans publier sa photo ni évoquer l’accompagnement. Elle peut aussi attendre de voir ce qu’elle installe pour savoir si elle accepte la photo des panneaux. Son refus est une information suffisante pour ne pas préparer le portrait comme prévu."
+          "heading": "Dire oui à un usage et non à un autre",
+          "text": "L’autodétermination au travail comprend la possibilité d’accepter, de refuser ou de reporter séparément des propositions. Un support accessible et un délai peuvent aider une personne ayant un trouble du développement intellectuel à examiner ce qui est demandé. Hélène souhaite que son travail soit reconnu. Elle refuse le portrait et la mention de son accompagnement ; la photo des panneaux reste à discuter."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La HAS recommande de reconnaître les demandes et les refus de la personne et de lui laisser une prise réelle sur la décision. Lorsque plusieurs propositions arrivent à la fois, on peut les reprendre séparément. L’OMS décrit des profils très variables dans le TDI : demander un délai ou l’appui de quelqu’un à une réunion ne donne pas d’indication générale sur les choix que la personne peut faire."
+          "heading": "Comment un accord devient-il plus clair quand on sépare les demandes ?",
+          "points": [
+            {
+              "heading": "Le crédit du travail et l’image de la personne sont distincts",
+              "text": "Valoriser une contribution ne suppose pas d’accepter tous les éléments proposés pour l’illustrer.",
+              "examples": [
+                "Hélène veut que le dessin lui soit attribué et refuse la photo où elle tient une tasse près du visage.",
+                "Une personne accepte que son nom figure sous une création et préfère qu’on ne publie que l’image de l’objet."
+              ]
+            },
+            {
+              "heading": "L’accompagnant n’a pas la réponse à la place de la personne",
+              "text": "Sa présence peut faciliter l’échange si son rôle est défini selon la demande.",
+              "examples": [
+                "Sofia est venue pour le trajet et demande de poser le formulaire après la réponse d’Hélène.",
+                "Un collègue lit deux propositions à voix haute, puis attend que la personne dise ce qu’elle accepte."
+              ]
+            },
+            {
+              "heading": "Une réponse peut rester en attente",
+              "text": "Un refus clair peut coexister avec une décision reportée sur un autre point.",
+              "examples": [
+                "Hélène refuse le portrait et demande de reparler de la légende après le test.",
+                "Une personne décline un entretien et souhaite voir la photo du rayon avant de décider de sa diffusion."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir au sujet pour lequel l’appui est demandé",
-          "text": "Sofia était venue à la demande d’Hélène pour l’aider à garder le point trajet à l’ordre du jour. Même si Maud lui demande un avis, elle peut d’abord regarder Hélène et lui laisser la parole. Puis elle peut rappeler le sujet convenu. Ce rôle est différent de celui d’une personne chargée de répondre à sa place. La HAS propose de préparer avec la personne la part qu’elle veut prendre aux échanges et le soutien qu’elle y souhaite.\n\nIl faut ensuite obtenir les faits utiles : Tannerie est bien desservi, le chemin à pied part du côté de la médiathèque et la déviation dure encore plusieurs jours. Maud peut demander à Ilyes de confirmer à quelle heure il pourrait retrouver Hélène. Une fois les détails connus, Hélène peut décider si elle veut faire l’essai et avec qui."
+          "heading": "3 techniques pour préciser un accord au travail",
+          "points": [
+            {
+              "heading": "Montrer chaque usage séparément",
+              "objective": "Rendre visibles les choix contenus dans un même formulaire.",
+              "exercise": [
+                "Présentez la photo, la légende et le support de diffusion sur des lignes distinctes.",
+                "Expliquez qui verra chaque élément.",
+                "Demandez à la personne sa réponse sur un seul point à la fois."
+              ],
+              "benefit": "Chacun sait à quoi correspond l’accord et ce qui reste ouvert."
+            },
+            {
+              "heading": "Donner une suite au refus",
+              "objective": "Éviter qu’un élément refusé revienne dans le prochain brouillon.",
+              "exercise": [
+                "Notez les propositions que la personne écarte.",
+                "Retirez-les de la version en cours.",
+                "Montrez la nouvelle version si elle contient encore des éléments à valider."
+              ],
+              "benefit": "Le refus a une conséquence concrète sur ce qui sera préparé."
+            },
+            {
+              "heading": "Réserver du temps pour ce qui reste à choisir",
+              "objective": "Laisser la personne examiner une proposition sans la mêler au reste de la réunion.",
+              "exercise": [
+                "Demandez quand le support doit partir.",
+                "Fixez un moment pour revoir les éléments en attente.",
+                "Revenez à l’autre sujet si la décision n’est pas nécessaire aujourd’hui."
+              ],
+              "benefit": "La personne dispose d’un délai réel et garde la possibilité de dire oui ou non ensuite."
+            }
+          ]
         }
       ],
       "ending_title": "La case photo reste vide",
@@ -373,7 +828,8 @@
         "next": "Vendredi matin, elle rencontrera Ilyes à l’arrêt de la déviation. Le second test des panneaux doit avoir lieu l’après-midi."
       },
       "clinical_focus": "Consentement et autodétermination au travail",
-      "clinical_intro": "La lettre de la recyclerie pourrait montrer Hélène, ses panneaux et parler de son accompagnement. Elle a un avis différent sur ces trois propositions. Prendre le temps de les séparer permet de comprendre ce à quoi elle souhaite consentir. Son besoin d’un appui dans certaines décisions coexiste avec des préférences claires sur son travail et sa vie privée."
+      "clinical_intro": "La lettre de la recyclerie pourrait montrer Hélène, ses panneaux et parler de son accompagnement. Elle a un avis différent sur ces trois propositions. Prendre le temps de les séparer permet de comprendre ce à quoi elle souhaite consentir. Son besoin d’un appui dans certaines décisions coexiste avec des préférences claires sur son travail et sa vie privée.",
+      "conclusion": "La case du portrait peut rester vide. Hélène pourra regarder la légende plus tard et décider maintenant du trajet avec Ilyes. Les deux réponses n’ont pas besoin de tomber au même moment."
     },
     {
       "number": 9,
@@ -390,18 +846,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Décrire un lieu à partir de ce qu’on voit",
-          "text": "Un rendez-vous devient plus facile à retrouver quand le repère correspond à ce que les deux personnes peuvent voir et nommer. Ilyes pensait avoir donné un côté du bâtiment."
+          "heading": "Deux personnes peuvent donner des sens différents au même repère",
+          "text": "Pour certaines personnes vivant avec un trouble du développement intellectuel, une consigne devient plus utilisable quand elle renvoie à un élément qu’elles peuvent voir ou décrire. La communication dépend aussi de ce que chacun suppose connu. « Côté médiathèque » suffit à Ilyes, pas à Hélène parmi plusieurs façades. La boîte à livres devient un point commun à partir duquel ils peuvent reprendre le trajet."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Hélène découvre deux façades. En nommant la boîte de retour des livres, elle transforme un repère large en un endroit où Ilyes peut effectivement la rejoindre. Le problème vient en partie de l’information donnée avant le départ ; il ne disparaît pas parce que le trajet en bus s’est bien passé.\n\nL’OMS rappelle que les personnes avec un TDI peuvent continuer à acquérir des compétences et que leurs besoins varient selon le cadre. La HAS propose de travailler, selon les besoins de la personne, sur la manière de décrire où elle se trouve. Dans cette scène, Hélène utilise un repère qu’Ilyes n’avait pas prévu. Ils peuvent le garder pour un autre rendez-vous."
+          "heading": "Comment un malentendu sur un lieu peut-il être résolu ?",
+          "points": [
+            {
+              "heading": "Le nom commun ne donne pas le même point de départ",
+              "text": "Un bâtiment est un repère général ; les façades ou les accès peuvent laisser plusieurs réponses possibles.",
+              "examples": [
+                "Hélène reconnaît la médiathèque mais ne sait pas de quel côté Ilyes l’attend.",
+                "Deux collègues se disent « devant l’accueil » et pensent chacun à une porte différente."
+              ]
+            },
+            {
+              "heading": "Décrire ce qu’on voit permet de se rejoindre",
+              "text": "Une description concrète donne à l’autre personne un détail qu’elle peut retrouver.",
+              "examples": [
+                "Hélène choisit de se situer près de la boîte à livres.",
+                "Une personne indique le nom lisible sur un abri plutôt que de dire seulement « je suis à côté de la gare »."
+              ]
+            },
+            {
+              "heading": "Montrer le chemin depuis le bon point change le support",
+              "text": "Pour être utile, le plan doit partir du lieu où la personne se trouvera effectivement.",
+              "examples": [
+                "Hélène demande à Ilyes de repartir de la boîte et dessine un plan à part.",
+                "Une personne demande à reprendre l’itinéraire depuis l’arrêt provisoire au lieu du parking déjà connu du collègue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Vérifier que l’appui a bien le périmètre convenu",
-          "text": "Hélène avait demandé une présence à partir de Tannerie. Ilyes peut marcher avec elle jusqu’au dépôt et lui laisser choisir ce qu’elle inscrit sur le plan. Il peut donner le nom exact d’une rue qu’elle veut relire et attendre qu’elle retrouve la porte. Si un trajet est en travaux ou qu’une traversée a changé, ils peuvent vérifier l’information avant d’essayer une autre fois. Un repère vu sur place vaut surtout pour les conditions dans lesquelles il a été reconnu.\n\nAu retour, Hélène peut choisir de refaire à pied la partie repérée, de demander à Ilyes de revenir jusqu’à la boîte ou de reprendre un autre appui prévu avec Maud. Les choix peuvent différer d’un sens du trajet à l’autre. L’objectif est que chacun sache où commence et où finit l’aide prévue."
+          "heading": "3 techniques pour construire un repère partagé",
+          "points": [
+            {
+              "heading": "Demander un objet visible des deux côtés",
+              "objective": "Réduire l’ambiguïté d’un nom de lieu.",
+              "exercise": [
+                "Dites où vous pensez être.",
+                "Décrivez une plaque, un panneau ou un objet qui vous distingue des autres entrées.",
+                "Demandez à l’autre personne si elle reconnaît le même point."
+              ],
+              "benefit": "Vous pouvez vérifier que vous parlez du même endroit avant de repartir."
+            },
+            {
+              "heading": "Faire recommencer le trajet au bon endroit",
+              "objective": "Voir les étapes telles qu’elles se présenteront au prochain passage.",
+              "exercise": [
+                "Revenez au point de rendez-vous choisi.",
+                "Repérez les directions et les noms de rue depuis ce départ.",
+                "Dessinez ce qui vous permet de reconnaître l’entrée."
+              ],
+              "benefit": "Le plan correspond au parcours que la personne aura à faire."
+            },
+            {
+              "heading": "Conserver une feuille par itinéraire",
+              "objective": "Pouvoir utiliser un trajet sans lire les indications de l’autre.",
+              "exercise": [
+                "Séparez le trajet ordinaire du détour.",
+                "Indiquez en haut le repère qui permet de choisir la bonne feuille.",
+                "Convenez d’un contact disponible pour l’étape à vérifier."
+              ],
+              "benefit": "Chaque support contient les informations utiles pour son propre parcours."
+            }
+          ]
         }
       ],
       "ending_title": "La boîte a sa propre page",
@@ -419,7 +931,8 @@
         "next": "Elle revient à la boutique pour l’essai du vendredi. Pour une prochaine tournée, l’équipe pourra confirmer quel plan utiliser."
       },
       "clinical_focus": "Communication et habiletés pratiques",
-      "clinical_intro": "À Tannerie, Hélène et Ilyes pensent au même lieu de rendez-vous et se placent pourtant de deux côtés différents. Hélène décrit ce qu’elle voit pour trouver avec lui un repère commun. Un échange ancré dans un élément reconnaissable l’aide à réorganiser le trajet. La précision vient ici du dialogue et du nouveau plan qu’elle choisit de dessiner."
+      "clinical_intro": "À Tannerie, Hélène et Ilyes pensent au même lieu de rendez-vous et se placent pourtant de deux côtés différents. Hélène décrit ce qu’elle voit pour trouver avec lui un repère commun. Un échange ancré dans un élément reconnaissable l’aide à réorganiser le trajet. La précision vient ici du dialogue et du nouveau plan qu’elle choisit de dessiner.",
+      "conclusion": "La boîte à livres ouvre une nouvelle page dans le plan d’Hélène. Au dépôt, elle demande aussi de tourner l’étiquette des bols vers l’allée. Dans les deux cas, le repère doit pouvoir se lire d’où l’on arrive."
     },
     {
       "number": 10,
@@ -436,18 +949,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Planifier un essai quand plusieurs questions arrivent ensemble",
-          "text": "Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre. Hélène a changé à la fois le dessin, les mots et l’emplacement. Le client qui lit « Tasses » donne une indication sur ce qui lui a servi. La cliente qui voit le dos du carton indique une limite de l’installation. Ces retours aident à choisir la prochaine modification. Ils ne permettent pas d’attribuer à l’image, à elle seule, les progrès observés.\n\nLa HAS recommande de tenir compte des propositions de la personne et de l’environnement réel de travail. L’OMS distingue différents domaines de fonctionnement dans le TDI."
+          "heading": "Remettre les décisions dans un ordre utile",
+          "text": "Avec un trouble du développement intellectuel, planifier une tâche peut être plus facile quand les questions sont présentées selon l’ordre où elles se résolvent. L’observation, le choix d’une modification et la commande de matériel demandent des informations différentes. Hélène veut d’abord voir ce que la cliente voyait depuis l’entrée latérale. Elle peut ensuite décider quoi changer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette situation, suivre plusieurs questions qui arrivent en même temps demande à Hélène un effort qu’elle peut limiter en remettant les étapes dans l’ordre. En revanche, comparer ce que les clients voient depuis deux entrées relève d’un savoir qu’elle construit sur le rayon."
+          "heading": "Comment organiser un essai quand plusieurs décisions arrivent ensemble ?",
+          "points": [
+            {
+              "heading": "Les observations ne s’annulent pas entre elles",
+              "text": "Deux retours différents peuvent correspondre à deux accès différents au même rayon.",
+              "examples": [
+                "Un homme voit le mot en entrant par l’allée centrale, tandis qu’une cliente voit le dos du panneau depuis la porte latérale.",
+                "Une indication aide les personnes qui arrivent du parking et reste invisible depuis l’arrêt du bus."
+              ]
+            },
+            {
+              "heading": "Une décision dépend parfois d’une vérification précédente",
+              "text": "Commander ou fabriquer demande de savoir d’abord ce que le nouveau support doit résoudre.",
+              "examples": [
+                "Hélène fait suspendre la commande pendant qu’elles regardent depuis la porte.",
+                "Une équipe attend d’avoir vérifié la place disponible avant de choisir la taille d’une affiche."
+              ]
+            },
+            {
+              "heading": "Un essai limité prépare le choix suivant",
+              "text": "Un support provisoire permet d’observer un effet avant de fixer l’installation.",
+              "examples": [
+                "Hélène pose un carton sur le montant pour vérifier la visibilité de la flèche.",
+                "Un collègue place une étiquette amovible et regarde si on la voit quand la file se forme."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une modification qu’on pourra encore déplacer",
-          "text": "Pour essayer l’autre sens, Hélène peut mettre une indication provisoire à l’entrée latérale, puis regarder depuis le seuil. Si elle la colle au dos du premier panneau, la flèche doit avoir un sens depuis cet endroit aussi. Un support séparé pourra être déplacé si la table d’entrée change. Maud peut préciser ce que le magasin a en stock, sans décider de la forme avant que les deux emplacements aient été regardés.\n\nLes observations de Dario ont un rôle précis : ce qu’il voit et ce qu’on lui demande depuis sa caisse. C’est à Hélène de les croiser avec ses notes. Elle peut remettre la question du dessin à plus tard si, pour l’instant, le point qui compte est l’accès par la porte latérale."
+          "heading": "3 techniques pour mettre les décisions d’un essai dans l’ordre",
+          "points": [
+            {
+              "heading": "Retrouver d’où vient chaque retour",
+              "objective": "Comprendre pourquoi les observations diffèrent.",
+              "exercise": [
+                "Demandez par où la personne est arrivée.",
+                "Placez-vous à son point de départ.",
+                "Notez ce qu’on peut lire ou voir depuis cet endroit."
+              ],
+              "benefit": "La modification peut viser le problème exact plutôt qu’un défaut supposé de tout le panneau."
+            },
+            {
+              "heading": "Mettre les décisions en file",
+              "objective": "Faire apparaître ce qui doit être vérifié avant de commander ou d’installer.",
+              "exercise": [
+                "Distinguez l’observation, l’essai et la décision finale.",
+                "Choisissez la première action faisable.",
+                "Fixez qui doit confirmer l’information suivante et quand."
+              ],
+              "benefit": "Chacun sait quelle tâche peut avancer et laquelle attend encore un résultat."
+            },
+            {
+              "heading": "Essayer sans effacer ce qui fonctionne",
+              "objective": "Modifier une partie du dispositif et garder les repères utiles.",
+              "exercise": [
+                "Identifiez ce que vous souhaitez conserver.",
+                "Placez un prototype là où le problème a été observé.",
+                "Vérifiez le résultat avant d’engager le matériel définitif."
+              ],
+              "benefit": "L’essai réduit le nombre de changements à comparer."
+            }
+          ]
         }
       ],
       "ending_title": "Une seconde entrée sur le croquis",
@@ -465,7 +1034,8 @@
         "next": "Maud vérifiera les supports disponibles. Samedi, Hélène viendra avec son croquis pour décider de l’installation et du crédit de la lettre."
       },
       "clinical_focus": "Planification pratique et séquençage",
-      "clinical_intro": "Hélène apprend qu’un panneau fonctionne pour un client et reste invisible depuis l’autre entrée. Plusieurs décisions lui sont demandées alors qu’elle veut d’abord comprendre ce que chacun a vu. Avec son trouble du développement intellectuel, elle avance plus facilement quand elle peut remettre les questions dans l’ordre. Le temps gagné pour réfléchir lui permet de formuler une modification précise."
+      "clinical_intro": "Hélène apprend qu’un panneau fonctionne pour un client et reste invisible depuis l’autre entrée. Plusieurs décisions lui sont demandées alors qu’elle veut d’abord comprendre ce que chacun a vu. Avec son trouble du développement intellectuel, elle avance plus facilement quand elle peut remettre les questions dans l’ordre. Le temps gagné pour réfléchir lui permet de formuler une modification précise.",
+      "conclusion": "Hélène garde les étiquettes et trouve une place pour une deuxième flèche. La commande peut attendre le retour de Maud sur les supports. Son croquis dit désormais ce qui se décide ensuite."
     },
     {
       "number": 11,
@@ -482,18 +1052,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Attribuer une tâche à partir de ce qu’elle demande",
-          "text": "Un aménagement au travail dure mieux quand son entretien est prévu dès le départ. Les panneaux d’Hélène peuvent aider des clients aussi longtemps qu’ils restent visibles et que la flèche correspond au rayon. Leur efficacité dépend des décisions de l’équipe sur les tables et les présentoirs. Si Maud et Dario déplacent les meubles, ils peuvent vérifier en même temps les indications."
+          "heading": "Comprendre le travail derrière un « oui »",
+          "text": "Un engagement de travail peut être difficile à examiner si ses tâches, sa durée ou les personnes responsables restent implicites. Une description concrète aide la personne vivant avec un trouble du développement intellectuel et ses collègues à vérifier ce qu’ils acceptent. Hélène peut préparer les panneaux d’aujourd’hui. Avant de répondre pour Noël, elle veut savoir ce que « tout refaire » demanderait."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Hélène pourra donner un avis sur un dessin ou sur un nouvel emplacement si un temps de travail est prévu.\n\nLa HAS propose de réfléchir à l’environnement de travail avec la personne et le collectif. Cela permet d’identifier ce qui relève de l’organisation et les appuis que la personne souhaite. L’OMS rappelle que les habiletés pratiques s’exercent dans des cadres précis. Une demande vague de refaire l’ensemble n’est pas équivalente à une question sur le sens d’une flèche. Hélène peut répondre à l’une sans avoir accepté l’autre."
+          "heading": "Comment une demande imprécise peut-elle devenir un engagement clair ?",
+          "points": [
+            {
+              "heading": "Le même verbe peut désigner plusieurs tâches",
+              "text": "Une phrase courte peut laisser ouvertes des actions qui ne demandent ni le même temps ni le même matériel.",
+              "examples": [
+                "« Tout refaire » peut vouloir dire déplacer les flèches ou redessiner les panneaux.",
+                "« Reprendre le rayon » peut vouloir dire changer les prix ou réorganiser toutes les étagères."
+              ]
+            },
+            {
+              "heading": "Un exemple futur aide à répartir la responsabilité",
+              "text": "Savoir qui sera là au moment du changement permet de préciser qui fera la vérification.",
+              "examples": [
+                "Maud et Dario déplaceront la table de Noël ; Hélène propose qu’ils vérifient aussi les deux entrées.",
+                "Une équipe décide que les personnes qui déplacent la caisse regardent aussi si le panneau reste visible."
+              ]
+            },
+            {
+              "heading": "L’accord peut porter sur une version déterminée",
+              "text": "Une légende et une photo n’engagent pas toutes les versions futures du support.",
+              "examples": [
+                "Hélène accepte le texte et demande à voir le cadrage avant l’envoi.",
+                "Une personne valide une phrase de crédit et souhaite relire la page une fois la maquette terminée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Nommer la contribution et convenir de sa diffusion",
-          "text": "Maud peut reprendre la proposition pour la lettre une fois la question des supports résolue. Hélène avait refusé le portrait et la mention de son accompagnement ; elle peut encore choisir d’accepter ou non la photo des panneaux. Lui montrer une légende concrète évite de lui faire approuver une intention qu’elle ne peut pas vérifier. La HAS invite à partir des préférences exprimées et à laisser de la place à leur révision.\n\nSi Hélène accepte une photo des panneaux et son prénom pour cette lettre, l’accord porte sur cette proposition. L’équipe peut aussi rappeler ce que Dario et les clients ont apporté au test sans brouiller l’origine du projet. La reconnaissance est une décision de travail ; elle ne demande pas qu’Hélène raconte ce qui relève de son suivi."
+          "heading": "3 techniques pour rendre un engagement de travail compréhensible",
+          "points": [
+            {
+              "heading": "Demander ce que le verbe signifie en pratique",
+              "objective": "Savoir quelles actions sont réellement attendues.",
+              "exercise": [
+                "Reprenez le mot qui laisse plusieurs interprétations.",
+                "Proposez deux exemples concrets de ce qu’il pourrait vouloir dire.",
+                "Faites préciser les limites avant de répondre."
+              ],
+              "benefit": "Chacun peut s’accorder sur une tâche repérable dans le temps et l’espace."
+            },
+            {
+              "heading": "Attribuer le suivi à l’équipe qui pourra agir",
+              "objective": "Organiser ce qui se passera lorsqu’un changement aura lieu.",
+              "exercise": [
+                "Identifiez les personnes responsables du déplacement.",
+                "Ajoutez la vérification des repères à cette tâche.",
+                "Inscrivez la règle sur le support que l’équipe consultera."
+              ],
+              "benefit": "La maintenance ne repose pas sur une promesse vague de la personne qui a créé les panneaux."
+            },
+            {
+              "heading": "Distinguer l’accord de principe et la dernière vérification",
+              "objective": "Garder la main jusqu’à ce que le support soit complet.",
+              "exercise": [
+                "Lisez la légende telle qu’elle sera publiée.",
+                "Dites ce que vous acceptez déjà.",
+                "Convenez du moment où vous verrez le cadrage final."
+              ],
+              "benefit": "Les conditions d’accord restent claires pour les personnes qui préparent la publication."
+            }
+          ]
         }
       ],
       "ending_title": "La pochette sort de la réserve",
@@ -511,7 +1137,8 @@
         "next": "L’installation est prévue l’après-midi. Maud doit lui montrer le cadrage avant l’envoi de la lettre."
       },
       "clinical_focus": "Compréhension concrète d’un engagement",
-      "clinical_intro": "Installer les panneaux règle une partie du problème, mais Hélène veut savoir qui les déplacera quand les meubles changeront de place. Examiner l’engagement à partir de cette situation rend les responsabilités compréhensibles pour toute l’équipe. Les choix d’Hélène se voient aussi dans la légende qu’elle accepte et le cadrage qu’elle veut contrôler avant la diffusion."
+      "clinical_intro": "Installer les panneaux règle une partie du problème, mais Hélène veut savoir qui les déplacera quand les meubles changeront de place. Examiner l’engagement à partir de cette situation rend les responsabilités compréhensibles pour toute l’équipe. Les choix d’Hélène se voient aussi dans la légende qu’elle accepte et le cadrage qu’elle veut contrôler avant la diffusion.",
+      "conclusion": "La vieille pochette pourra protéger le panneau de l’allée centrale. La règle pour Noël est inscrite sur le croquis, et le cadrage sera montré avant l’envoi. Hélène sait maintenant à quoi elle a répondu."
     },
     {
       "number": 12,
@@ -528,18 +1155,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Garder le choix du soutien après l’essai",
-          "text": "Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie."
+          "heading": "Garder la main sur les appuis au fil des situations",
+          "text": "Le trouble du développement intellectuel s’inscrit dans la durée. Les apprentissages continuent et l’appui utile peut changer selon la tâche et l’environnement. Hélène ajuste ses panneaux à partir de ce que les clients voient ; pour le prochain trajet dévié, elle choisit un contact joignable sur une seule partie du parcours. Les deux décisions relèvent de ce qu’elle veut faire et de l’aide qu’elle souhaite à ce moment."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Hélène a désormais deux plans pour rejoindre le dépôt. Elle a fait le détour depuis Tannerie et peut choisir l’aide qu’elle souhaite si la déviation continue. Cela n’empêche pas de revenir au trajet de Verrerie quand l’arrêt rouvrira.\n\nLa HAS conseille d’ajuster les appuis avec la personne et de vérifier les renseignements qui lui permettent de se projeter. Le planning ne lui dit rien sur les travaux. Maud peut lui confirmer quelle ligne du plan correspond au mardi et lui demander si le contact prévu est encore disponible. Hélène peut choisir d’appeler avant de monter ou de convenir d’un rendez-vous à la boîte à livres."
+          "heading": "Comment l’autonomie se voit-elle quand les appuis restent ajustables ?",
+          "points": [
+            {
+              "heading": "La personne continue de corriger ce qu’elle a conçu",
+              "text": "Une réalisation aboutie peut encore demander une correction de métier, décidée par la personne.",
+              "examples": [
+                "Hélène rapproche l’étiquette des bols d’un endroit où la vis ne gêne plus la lecture.",
+                "Une personne déplace une indication après qu’un collègue lui a montré ce qu’on voit depuis le comptoir."
+              ]
+            },
+            {
+              "heading": "La forme d’un soutien suit l’imprévu",
+              "text": "Une aide ponctuelle peut être utile sur une seule partie du trajet.",
+              "examples": [
+                "Hélène veut un message d’Ilyes avant de partir, pour savoir s’il sera joignable sur le bout à pied.",
+                "Une personne prend le bus qu’elle connaît et demande un contact pour vérifier la sortie provisoire."
+              ]
+            },
+            {
+              "heading": "Le choix garde sa place dans plusieurs domaines",
+              "text": "Une demande d’appui au travail ne résume pas les autres décisions de la journée.",
+              "examples": [
+                "Dans la cour, Hélène choisit sa part de tarte et laisse Léa choisir la sienne.",
+                "Une personne demande de l’aide pour une nouvelle consigne au travail et décide elle-même comment recevoir ses amis le soir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire le point sur le rayon sans transformer le bilan en examen",
-          "text": "Hélène a tenu son projet : elle a conçu des panneaux, demandé aux clients comment ils s’en servaient, modifié leur emplacement et fait installer les deux indications. Le rayon changera de nouveau quand les objets se vendront ou quand un meuble bougera. Les petites corrections appartiennent à la vie du magasin. Elles ne disent rien à elles seules de la valeur du travail ni de ce que la personne qui l’a fait peut réussir ailleurs.\n\nMaud peut garder une trace des emplacements choisis et du moment où l’équipe regardera si les panneaux conviennent encore. Hélène pourra dire si elle veut participer à une prochaine modification, comme elle a pu arrêter le premier essai. Le projet lui donne une place dans les décisions sur son rayon, avec les collègues qui travaillent autour."
+          "heading": "3 techniques pour garder des appuis que la personne peut ajuster",
+          "points": [
+            {
+              "heading": "Vérifier l’utilité après l’installation",
+              "objective": "Savoir quelle correction un usage réel demande.",
+              "exercise": [
+                "Demandez à une personne de montrer d’où elle a lu l’indication.",
+                "Examinez un détail qui gêne depuis ce point de vue.",
+                "Modifiez-le et regardez de nouveau le résultat."
+              ],
+              "benefit": "L’amélioration du travail se poursuit à partir d’observations concrètes."
+            },
+            {
+              "heading": "Caler un appui sur un moment précis",
+              "objective": "Pouvoir choisir le soutien selon le trajet réel.",
+              "exercise": [
+                "Vérifiez quelle partie du parcours a changé.",
+                "Demandez au contact s’il sera disponible sur cette partie.",
+                "Convenez d’un autre relais avec l’équipe si nécessaire."
+              ],
+              "benefit": "L’aide reste prévisible et s’ajuste à la circonstance."
+            },
+            {
+              "heading": "Revoir ce qui relève de chaque personne",
+              "objective": "Éviter qu’un appui temporaire devienne automatiquement permanent.",
+              "exercise": [
+                "Dites ce que vous voulez continuer à faire vous-même.",
+                "Nommez ce que l’équipe doit organiser ou confirmer.",
+                "Prévoyez de reparler de l’aide si les conditions changent."
+              ],
+              "benefit": "Les responsabilités sont partagées sans retirer à la personne la décision sur l’appui qu’elle souhaite."
+            }
+          ]
         }
       ],
       "ending_title": "La chaise en rotin trouve preneuse",
@@ -557,7 +1240,8 @@
         "next": "Les panneaux restent au rayon et l’équipe a une règle pour les mettre à jour. Hélène gardera la possibilité de choisir un autre appui si la tournée ou le trajet change."
       },
       "clinical_focus": "Autonomie avec des appuis ajustables",
-      "clinical_intro": "Les panneaux sont installés et Hélène demande un appui ponctuel pour la prochaine déviation du bus. Elle sait déjà ce qu’elle voudrait vérifier dans le rayon. Le trouble du développement intellectuel s’inscrit dans la durée et les besoins de soutien peuvent varier selon les tâches. Hélène garde la maîtrise des aides qu’elle choisit et des décisions qu’elle prend seule."
+      "clinical_intro": "Les panneaux sont installés et Hélène demande un appui ponctuel pour la prochaine déviation du bus. Elle sait déjà ce qu’elle voudrait vérifier dans le rayon. Le trouble du développement intellectuel s’inscrit dans la durée et les besoins de soutien peuvent varier selon les tâches. Hélène garde la maîtrise des aides qu’elle choisit et des décisions qu’elle prend seule.",
+      "conclusion": "Les flèches restent à la recyclerie et Hélène a choisi comment préparer le prochain détour. Le soir, la chaise en rotin trouve sa place autour d’un autre projet, le dîner qu’elle a organisé avec Léa."
     }
   ]
 }

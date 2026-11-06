@@ -35,14 +35,79 @@ Le dimanche d’après lui revient avec plus de détails. Lou avait fermé la po
 
 Lors d’une évaluation, les soignants examinent à la fois les difficultés ressenties et le temps dont la personne dispose pour dormir. Un retour de voyage tardif ou un horaire serré peut écourter le sommeil. Une autre situation se présente lorsque la personne rencontre régulièrement des difficultés alors qu’elle dispose de conditions et d’une possibilité suffisantes pour dormir. Les deux peuvent coexister dans une même semaine. Pour comprendre ce qui persiste chez Élvire, le médecin peut lui demander de revenir sur les circonstances, les horaires et les répercussions.
 
-## Comparer deux matins qui se ressemblent en apparence
+## Comment deux nuits courtes peuvent-elles correspondre à des situations différentes ?
 
-Après le trajet, Élvire sait à quel moment l’occasion de dormir s’est réduite. Le dimanche, elle était libre de rester au lit et a vécu une longue période d’éveil. Elle était aussi moins disponible pour les autres pendant la journée. Ces deux matins lui paraissaient identiques quand elle se souvenait seulement de la fatigue. Au cours de la discussion, elle retrouve aussi des exemples antérieurs au projet du samedi. Ils permettent de prendre en compte l’inquiétude actuelle au travail tout en décrivant une histoire plus longue.
+### L’emploi du temps peut écourter la nuit
 
-## Apporter des exemples et laisser une place à l’incertitude
+Une contrainte de trajet ou de travail peut réduire la possibilité de dormir.
 
-Élvire peut indiquer depuis quand elle a remarqué le problème, ce dont elle est assez sûre et les détails qu’elle ne sait plus. La feuille peut réunir quelques nuits, leurs circonstances et un effet sur sa journée. Si le médecin lui propose ensuite un agenda du sommeil, ils pourront convenir de ce qui sera utile à noter. Lou peut aider Élvire à dater le retour de voyage ou un dimanche particulier. Elle ne peut pas estimer les moments où Élvire dormait en restant immobile.
+**Exemples concrets**
+
+- Élvire rentre tard après une correspondance et doit ouvrir le bureau le lendemain.
+- Elle a peu dormi cette nuit-là puis s’endort facilement la suivante.
+
+### Le temps peut être là et le sommeil manquer
+
+Certaines difficultés reviennent malgré un temps et des conditions qui permettraient de dormir.
+
+**Exemples concrets**
+
+- Le dimanche, Élvire aurait pu rester couchée après le départ de Lou et n’arrive pas à se rendormir.
+- Elle retrouve des matins de congé où elle s’était aussi réveillée bien avant le moment voulu.
+
+### Le retentissement ajoute un renseignement
+
+L’effet sur la journée complète l’histoire des circonstances de la nuit.
+
+**Exemples concrets**
+
+- La fatigue après le trajet tardif se voit le jour de l’ouverture du bureau.
+- Élvire note une conversation avec sa mère où elle s’est sentie moins disponible après une nuit difficile.
+
+## 3 techniques pour préparer deux exemples qui situent le temps disponible pour dormir
+
+### 1. Comparer les circonstances de deux nuits
+
+Aider le professionnel à voir la différence entre temps disponible et sommeil obtenu.
+
+**Exercice pratique**
+
+- Choisissez une nuit raccourcie par une contrainte identifiable.
+- Choisissez une nuit où vous auriez pu dormir plus longtemps.
+- Notez les circonstances et les difficultés dont vous vous souvenez pour l’entretien.
+
+Le bilan peut distinguer deux situations qui ont donné la même impression de nuit courte.
+
+### 2. Décrire l’effet le lendemain
+
+Donner une place à ce que la personne a pu faire ou suivre.
+
+**Exercice pratique**
+
+- Retenez une tâche ou une conversation du lendemain.
+- Dites ce qui vous a demandé un effort inhabituel.
+- Ajoutez cet exemple à vos notes pour le rendez-vous.
+
+Le médecin peut relier les observations à leur retentissement dans la journée.
+
+### 3. Préparer une question sur la vigilance
+
+Savoir quoi signaler si la situation change.
+
+**Exercice pratique**
+
+- Décrivez comment la fatigue se présente actuellement.
+- Demandez au médecin quoi faire si vous commencez à vous assoupir en journée.
+- Gardez les consignes et le contact à utiliser en cas de changement.
+
+Vous disposez d’un repère professionnel plutôt que de devoir interpréter seul un nouveau signe.
 
 ## Deux exemples pliés dans la poche
 
 Élvire trouve un rendez-vous pour la semaine suivante avec la docteure Vidal. Elle recopie l’heure sur la feuille et la plie avec ses deux exemples. Lou lui demande si elle veut garder la nappe sortie ou la ranger. Élvire la garde, elles mangent dessus. Elle voudrait raconter aussi pourquoi la cour du futur dépôt lui plaît, mais elle a encore le regard sur la feuille. Lou lui dit qu’elles peuvent en parler demain. Au moment de débarrasser, Élvire ajoute une question sur ce qu’elle devrait signaler si elle commençait à s’assoupir en journée.
+
+---
+
+**Conclusion**
+
+La feuille pliée garde le retour de voyage et le dimanche où Élvire aurait pu dormir. Les deux souvenirs montrent pourquoi le nombre d’heures ne suffit pas à raconter ses nuits. Avec la question de la vigilance, ils donnent un point de départ au rendez-vous.

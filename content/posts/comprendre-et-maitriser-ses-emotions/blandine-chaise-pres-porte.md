@@ -29,20 +29,83 @@ Dans la salle, elle repère la chaise laissée près de la porte. Elle s’y ass
 
 Léon vient lui dire bonsoir pendant la pause et lui tend un exemplaire. « Tu veux essayer le deuxième couplet avec nous ? » Blandine a envie de connaître la phrase entière. Elle sent aussi qu’elle ne saurait pas où mettre sa voix maintenant. Elle demande à voir la feuille et précise qu’elle préfère écouter. Léon lui indique le numéro de la page, puis retourne devant le groupe.
 
-## Reprendre une place à sa façon
+## Revenir par l’activité qu’on a choisie
 
-Une activité liée à un proche disparu peut retrouver de l’intérêt alors que le manque reste douloureux. Blandine a pu traverser la place ce soir et s’asseoir dans la salle. La semaine précédente, les chaises l’avaient arrêtée dehors. Aujourd’hui elle perçoit à la fois le geste du nouveau chanteur et un problème musical qu’elle a envie de discuter. Ces deux choses font partie de la même soirée. L’une ne retire pas sa force à l’autre.
+Reprendre une activité sociale après un deuil prolongé peut vouloir dire y prendre une part différente de celle d’avant. Le plaisir de retrouver un intérêt et la douleur du manque peuvent être présents au même moment. Blandine écoute les basses et s’intéresse à une fin de vers. L’expérience donne un repère au suivi sans dire comment se passeront ses autres journées.
 
-## Comment cette difficulté se manifeste
+## Comment la reprise d’une activité peut-elle prendre une forme nouvelle ?
 
-L’écoute constitue la forme de participation qu’elle choisit à ce moment. Les possibilités de s’engager à nouveau dans des activités peuvent être discutées dans le suivi quand elles comptent pour la personne. La thérapeute peut aussi lui demander ce qui se passe dans les autres lieux et les jours où elle travaille. Une séance de chœur ne permet pas d’évaluer à elle seule les effets du deuil sur sa vie.
+### Le rôle se redéfinit sur place
 
-## Faire une proposition qui peut rester sans suite
+Une personne peut vouloir revenir dans un lieu sans reprendre la même tâche.
 
-Léon peut prêter une partition à quelqu’un qui écoute et continuer la répétition. Si Blandine tient à signaler la fin du vers, il peut lui demander ce qu’elle a entendu ou reprendre la question par écrit après avoir rangé. La discussion peut porter sur la musique. Il n’a pas besoin de donner à son arrivée un sens que les autres partageraient ni de lui demander devant eux quand elle chantera.
+**Exemples concrets**
 
-De son côté, Blandine peut décider qu’un morceau lui suffit. Elle aimerait que la chaise reste possible certains soirs, sans inscription dans l’effectif. Léon doit pour sa part savoir sur quelles voix il peut compter à l’approche du concert. Ils peuvent fixer un accord simple : sa présence d’auditrice est facultative, et une reprise comme choriste ferait l’objet d’une autre discussion. Aucun des deux n’a à deviner l’engagement de l’autre.
+- Blandine demande à lire la feuille et préfère écouter plutôt que chanter le couplet.
+- Quelqu’un revient à un atelier pour regarder les ouvrages et diffère la reprise de son propre projet.
+
+### L’intérêt se montre par un geste précis
+
+Une contribution limitée peut garder un lien avec l’activité et ses participants.
+
+**Exemples concrets**
+
+- Blandine rend la partition avec un mot sur la fin du vers.
+- Une personne reste le temps d’un morceau et dit au groupe quel passage lui a plu.
+
+### Le manque reste possible après la rencontre
+
+Une activité qui a plu peut réveiller le désir de la partager avec le proche disparu.
+
+**Exemples concrets**
+
+- Sur la place, Blandine voudrait encore dire à Jeanne que les basses ont trouvé leur entrée.
+- Une personne sort d’une projection contente du film et regrette aussitôt de ne pas pouvoir en discuter avec son compagnon décédé.
+
+## 3 techniques pour retrouver une place dans une activité choisie
+
+### 1. Préciser son rôle à l’arrivée
+
+Garder une participation qui correspond à ce qu’on veut ce jour-là.
+
+**Exercice pratique**
+
+- Demandez ce qui se passe maintenant.
+- Dites la part que vous voulez prendre, par exemple écouter.
+- Répondez de nouveau si une autre tâche vous est proposée.
+
+Il devient possible de rester présent sans reprendre d’emblée toutes les attentes d’avant.
+
+### 2. Contribuer sur un détail
+
+Faire une place à l’intérêt qui revient.
+
+**Exercice pratique**
+
+- Choisissez ce que vous avez remarqué dans l’activité.
+- Partagez-le si vous le souhaitez.
+- Demandez comment vous pourrez suivre la suite sans obligation régulière.
+
+Un échange concret peut compter à lui seul.
+
+### 3. Garder du temps après
+
+Pouvoir accueillir ce qui revient une fois la rencontre terminée.
+
+**Exercice pratique**
+
+- Prévoyez un retour que vous pouvez ralentir ou modifier.
+- Repérez un moment qui vous a plu et ce qui vous a pesé.
+- Reparlez-en en suivi si la reprise ou le retour vous demande beaucoup.
+
+La suite se construit sur l’expérience complète, y compris l’effort moins visible.
 
 ## La fin du vers en marge
 
 Blandine attend la fin du Pont, puis rend la feuille à Léon avec un mot sur la fin du vers. Elle lui demande de ne pas la compter parmi les chanteurs, mais de lui dire quels soirs elle peut venir écouter. Il range son mot avec les remarques du pupitre et dit qu’il vérifiera le passage jeudi prochain. Sur la place, le cordonnier a éteint sa vitrine. Blandine a encore envie de dire à Jeanne que les basses ont trouvé leur entrée. Elle se donne le temps d’attendre le bus suivant. En rentrant, elle trouve dans sa messagerie une proposition d’Esther pour une nouvelle commande.
+
+---
+
+**Conclusion**
+
+Le Pont redevient une musique que Blandine peut écouter et commenter. Elle souhaite encore en parler à Jeanne. En quittant la salle, elle a choisi le rôle qu’elle veut garder pour le moment.

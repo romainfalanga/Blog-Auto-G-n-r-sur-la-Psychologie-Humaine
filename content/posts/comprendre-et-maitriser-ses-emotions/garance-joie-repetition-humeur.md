@@ -29,20 +29,83 @@ Lise annonce qu’elles vont devoir fixer le programme du concert de quartier. I
 
 Sur le chemin de la sortie, Éva lui demande si elle est aussi contente qu’elle en a l’air. Garance dit que oui. Elle s’est couchée à son heure habituelle la veille et se rappelle le mal qu’elle a eu à sortir du lit ce matin. À présent, elle voudrait recommencer les quatre mesures parce qu’elle a aimé les jouer. Elle demande à Lise jusqu’à quand elles peuvent répondre pour les textes. Elle relira d’abord son calendrier de travail à la maison.
 
-## La joie d’une répétition a son contexte
+## Ce que raconte la joie d’une répétition
 
-Une joie vive ou une soirée productive peut faire partie du cours ordinaire de l’humeur. Garance est heureuse d’avoir retrouvé son entrée après plusieurs essais. Ce plaisir s’inscrit dans la répétition et dans une relation avec les autres musiciennes. Elle peut en profiter. Si un changement lui semble durer et toucher plusieurs domaines de sa vie, elle dispose d’un cadre de suivi pour en parler.
+Une émotion heureuse peut naître d’un moment précis chez une personne qui vit avec un trouble bipolaire. Le type II se définit par une histoire d’épisodes hypomaniaques et dépressifs, sans épisode maniaque ou mixte. On apprécie un changement d’humeur dans le temps et avec le reste de la vie quotidienne. Ce soir, Garance peut dire ce qui l’a réjouie et retrouver le calendrier qui encadre sa décision pour le concert.
 
-## Comment cette difficulté se manifeste
+## Comment la joie ordinaire trouve-t-elle sa place dans la vie de Garance ?
 
-Garance vit avec un trouble bipolaire de type II déjà diagnostiqué. Dans la CIM-11, il correspond à une histoire où des épisodes hypomaniaques et dépressifs ont été établis, sans antécédent d’épisode maniaque ni mixte. Dans le type I, le parcours comporte au moins un épisode maniaque ou mixte selon cette classification. Le type II peut entraîner des difficultés importantes, notamment pendant les épisodes dépressifs. Le nom du trouble vient d’une évaluation de l’évolution de l’humeur, de l’énergie et du fonctionnement. Il ne donne pas le sens de chaque sourire.
+### Un moment qui a un sens
 
-## Garder la question du programme pour plus tard
+Une réussite peut faire monter l’émotion très vite parce qu’elle compte pour la personne.
 
-Avant de prendre un texte, Garance veut vérifier l’échéance du catalogue qu’elle corrige déjà. Elle peut choisir de relire une présentation écrite par quelqu’un d’autre, de s’occuper d’un morceau ou de garder seulement sa partie d’alto. Le délai donné par Lise permet de répondre sur les engagements réels. Garance pourra aussi lui dire de prévoir une autre personne si elle ne peut pas s’en charger.
+**Exemples concrets**
 
-Éva connaît les repères que Garance a décidé de lui communiquer avec l’accord discuté en suivi. Ils servent si des changements préoccupants apparaissent. Entre deux répétitions, Éva reste une amie avec laquelle Garance peut parler du tempo, d’une bonne soirée ou d’un travail à rendre. Le NICE recommande une participation de l’entourage discutée avec la personne. Le rôle qu’elles ont prévu pour les périodes difficiles n’a pas à prendre toute la place dans leur relation.
+- Garance entend les violons et retrouve l’entrée de l’alto.
+- Elle sourit quand les quatre mesures tiennent ensemble sans que Lise ait à les arrêter.
+
+### Les autres rythmes continuent
+
+Pour comprendre ce que représente un élan, les soignants peuvent tenir compte de ce qui reste habituel autour de lui.
+
+**Exemples concrets**
+
+- Garance s’est couchée à son heure ordinaire et se souvient d’avoir peiné à se lever.
+- Elle prend plaisir à la valse et reporte sa réponse sur les textes au lendemain.
+
+### Une amie peut partager le plaisir
+
+L’attention d’un proche peut porter sur ce qui est vécu dans l’instant. Une inquiétude persistante se discute à un autre moment.
+
+**Exemples concrets**
+
+- Éva lui demande si elle est contente après le passage.
+- Dans un autre contexte, quelqu’un peut proposer de rejouer un passage plutôt que d’interroger le musicien sur son humeur.
+
+## 3 techniques pour faire place au plaisir et garder des repères
+
+### 1. Dire quel détail a compté
+
+Retrouver l’objet du plaisir dans une activité choisie.
+
+**Exercice pratique**
+
+- Repérez le moment que vous auriez envie de revivre.
+- Dites ce qui s’est passé, par exemple le départ commun des deux pupitres.
+- Proposez de rejouer ou de raconter le passage à une personne qui en a envie.
+
+Le bon moment peut se prolonger par un échange sur l’activité.
+
+### 2. Relire un engagement à froid
+
+Donner au calendrier sa place avant de répondre à une proposition.
+
+**Exercice pratique**
+
+- Demandez pour quand une réponse est attendue.
+- Vérifiez ce qui est déjà promis et quand le nouveau texte sera prêt.
+- Donnez votre réponse après avoir mis les deux tâches en regard.
+
+Il reste possible d’aimer l’idée et de choisir ensuite si l’on veut s’engager.
+
+### 3. Savoir quand la question devient clinique
+
+Distinguer la joie d’un changement qui mérite d’être discuté.
+
+**Exercice pratique**
+
+- Si quelque chose vous interroge, décrivez la situation dans laquelle l’élan est apparu.
+- Repérez s’il y a aussi des changements durables dans le sommeil ou les activités.
+- Si le doute persiste, utilisez les repères convenus avec votre équipe pour en parler.
+
+Le suivi peut tenir compte d’un ensemble d’éléments sans interpréter chaque sourire.
 
 ## Le chiffre au-dessus de la portée
 
 À la maison, Garance ouvre la partition avant son calendrier. Elle a noté le numéro un peu trop près des notes. Elle le réécrit au-dessus de la portée, où elle le retrouvera au prochain essai. Dans sa boîte professionnelle, le client du catalogue a confirmé la date de livraison. Garance ferme le message après avoir inscrit l’échéance. Elle décide de répondre à Lise le lendemain. Elle envoie à Éva un mot sur le plaisir qu’elle a eu à entendre les quatre mesures tenir ensemble. Éva lui répond qu’elle a cru entendre Garance sourire avant leur dernière entrée.
+
+---
+
+**Conclusion**
+
+Garance inscrit le numéro de la mesure et garde sa réponse à Lise pour le lendemain. Le plaisir d’entendre l’ensemble fait partie de son histoire, tout comme les épisodes dont elle parle avec ses soignants. Ce soir, l’une et l’autre questions ont leur place.

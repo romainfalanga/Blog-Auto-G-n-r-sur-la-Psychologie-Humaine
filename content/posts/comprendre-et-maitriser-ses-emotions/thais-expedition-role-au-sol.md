@@ -36,16 +36,79 @@ Une phobie spécifique peut rendre certaines tâches difficiles même quand la p
 
 Dans ce cas, l’aménagement prévoit la place et les moyens de travailler. Il ne supprime pas toute réaction de peur.
 
-## La tension qui revient au moment de l’appel
+## Comment une mission peut-elle rester possible quand une tâche en hauteur est difficile ?
 
-Quand Inès appelle, Thaïs voit la plateforme par la vitre. Elle retrouve la tension et envisage de prétexter un rendez-vous. Elle ressent encore cette gêne en demandant les deux vues et en disant qu’elle reste à la station. Le partage prévu des tâches lui permet de reprendre la conversation avec l’habitant et d’utiliser ensuite les photos envoyées.
+### Les accès sont vérifiés pour l’ensemble du groupe
 
-## Vérifier que l’accord répond aux besoins de chacun
+La participation s’appuie sur les consignes et la répartition prévues.
 
-Le rôle de Samir est de maintenir les conditions de sécurité et de regarder avec l’équipe ce qui peut se faire depuis chaque emplacement. Inès peut dire si l’envoi des vues lui demande trop de temps ou si elle a besoin d’un moyen de comparer deux photos. Thaïs peut proposer un autre outil ou un autre créneau. Ces décisions relèvent de la mission et peuvent être évaluées sur le résultat du travail.
+**Exemples concrets**
 
-La question de savoir ce que Thaïs veut travailler dans son suivi a un autre cadre. Elle peut expliquer à Mme Verdier ce qu’elle a ressenti en répondant à l’appel et ce que cet accord a rendu possible. Une journée de terrain utile apporte des exemples de participation. Elle n’impose aucune conclusion sur la disparition de la peur ni sur les rôles des prochaines missions.
+- Samir confirme la réouverture avec le gestionnaire et reprend les consignes du jour.
+- Thaïs installe les cartes sur une table à l’abri pour recevoir les photos.
+
+### Une invitation imprévue peut remettre le choix en jeu
+
+La peur peut revenir lorsqu’une demande menace de modifier la place déjà convenue.
+
+**Exemples concrets**
+
+- Thaïs se demande comment répondre quand le relevé pourrait l’amener à monter.
+- Elle demande à Inès de lui envoyer les deux vues et indique qu’elle reste à la station.
+
+### L’aménagement se vérifie dans le résultat du travail
+
+Un échange utile permet de repérer ce qui fonctionne et ce qui gagnerait à être précisé.
+
+**Exemples concrets**
+
+- Depuis sa table, Thaïs rapproche la photographie du mur et ce qu’un habitant en sait.
+- À la fin, elle propose d’identifier les photos dès leur envoi.
+
+## 3 techniques pour faire fonctionner un ajustement sur le terrain
+
+### 1. Confirmer le rôle au début de la mission
+
+Savoir comment obtenir les informations nécessaires sans changer de poste.
+
+**Exercice pratique**
+
+- Vérifiez les conditions d’accès avec le responsable.
+- Rappelez qui relève, qui photographie et qui vérifie les données.
+- Fixez le moyen d’envoyer les éléments entre les postes.
+
+L’équipe peut réaliser la mission en suivant une organisation commune.
+
+### 2. Répondre à une demande qui change le plan
+
+Garder le choix de sa contribution lors d’un imprévu.
+
+**Exercice pratique**
+
+- Demandez quelle information motive la nouvelle demande.
+- Dites ce que vous pouvez vérifier depuis votre poste.
+- Convenez d’un relais ou d’un report si l’information manque encore.
+
+La question peut être résolue sans modifier sous pression l’accord de terrain.
+
+### 3. Ajuster le passage des informations après l’essai
+
+Rendre le prochain relevé plus simple pour chacun.
+
+**Exercice pratique**
+
+- Notez où une donnée est devenue difficile à identifier.
+- Proposez une façon de l’indiquer dès l’envoi.
+- Vérifiez avec les collègues si ce changement leur convient.
+
+Le retour sur la mission améliore l’appui concret sur lequel repose le poste.
 
 ## Le trait qui traverse le mur
 
 En fin de matinée, Thaïs inscrit le nom que les habitants emploient encore à côté de celui des archives. Sur la photographie reçue, le mur s’arrête avant la borne. Elle montre pourquoi le vieux tracé traverse l’emplacement de la station. Inès revient avec assez de vues pour une première version. Samir lui demande si elles veulent noter un ajustement pour la prochaine mission. Thaïs propose que les photos soient identifiées dès l’envoi pour éviter de relancer le groupe.
+
+---
+
+**Conclusion**
+
+Thaïs identifie le tracé à partir des photos et des indications des habitants. Son poste au sol lui permet de tenir le rôle qu’elle a choisi, même lorsque la question de monter revient. Le prochain ajustement portera sur l’identification des images.

@@ -1,5 +1,5 @@
 ---
-title: Quand les relais trouvent leur place
+title: Soutien choisi quand un geste devient difficile
 description: À la répétition, Lina doit s’occuper du four. Gaëlle essaie le poste
   d’accueil avec Rachid et lui apprend à présenter les empreintes au toucher.
 slug: gaelle-chacun-son-etabli
@@ -35,16 +35,81 @@ Lina a pris le premier relais prévu sur le papier, mais la personne chargée du
 
 ## Un aménagement se vérifie dans l’usage
 
-Une partie du retentissement de la faiblesse motrice de Gaëlle dépend de la tâche et de la manière dont le lieu est organisé. Le siège proche permet de poursuivre une conversation et la plaque peut rester à portée de main. Déplacer un objet ou prévoir un relais change ce que Gaëlle peut faire avec les capacités du moment. Son suivi aborde aussi ce qui se passe lorsqu’elle se déplace. L’atelier est l’endroit où elle a besoin de voir si les décisions prises rendent effectivement possible le travail qu’elle aime.
+Un soutien peut modifier l’effet d’une faiblesse motrice sur le travail tout en laissant à la personne le choix de ce qu’elle veut faire. Dans le trouble neurologique fonctionnel de Gaëlle, rapprocher un siège ou une plaque rend certains gestes plus accessibles sans faire disparaître les difficultés de déplacement. À la répétition, Lina est retenue au four. Gaëlle peut demander à Rachid de reprendre une action précise et lui montrer comment elle souhaite accueillir une personne.
 
-## Le moment où quelqu’un essaie de prendre le relais
+## Comment un soutien peut-il laisser des choix à la personne aidée ?
 
-Rachid sait expliquer les températures du four. Il découvre que le premier échange à l’accueil passe parfois par une question sur une surface. Gaëlle lui fait remarquer que Nadège a reculé ses mains au début de son explication. Elle éprouve un mélange d’irritation et de fierté en parlant de ce détail. Quand sa jambe porte moins bien, l’intervention de Rachid lui permet de retrouver la plaque. Elle garde le fil avec Nadège et montre à Rachid comment proposer le choix suivant. L’aide matérielle et la responsabilité de l’accueil peuvent être partagées.
+### Le rôle du collègue change selon la tâche
 
-## Préparer un relais qui fonctionne aussi pour Lina
+Reprendre l’accueil ne veut pas forcément dire expliquer la même chose ou décider du parcours.
 
-Gaëlle propose de noter en deux phrases la question qu’elle pose aux visiteurs et le choix qui vient ensuite. Rachid veut bien être la première personne qui la remplace. Il préfère connaître à l’avance le quart d’heure pendant lequel il doit rester près de la table. Lina revient et confirme qu’elle souhaite passer la première partie de l’ouverture du côté du four. Ils attribuent les rôles et laissent une plage de remplacement. Gaëlle garde la possibilité de demander un autre arrangement en fonction de ce qu’elle ressent sur place.
+**Exemples concrets**
+
+- Rachid parle de cuisson alors que Nadège attend de choisir une empreinte.
+- Une personne remplace au guichet et commence à classer des feuilles alors que le premier besoin est d’orienter un visiteur.
+
+### Une aide ciblée peut suffire
+
+Le besoin peut concerner un objet et laisser le reste de la tâche possible.
+
+**Exemples concrets**
+
+- Gaëlle veut que Rachid rapproche la plaque et poursuit l’échange depuis son siège.
+- Une bénévole demande qu’on lui apporte le registre et tient elle-même la conversation.
+
+### La personne peut transmettre son savoir en recevant de l’aide
+
+L’appui pratique n’enlève pas l’expertise sur le travail.
+
+**Exemples concrets**
+
+- Gaëlle montre à Rachid comment inviter Nadège à parler du motif.
+- Une personne demande un relais pour porter les livres et enseigne à son collègue comment les présenter.
+
+## 3 techniques pour essayer un soutien qui laisse la personne décider
+
+### 1. Nommer le geste précis
+
+Obtenir l’aide nécessaire sans perdre son rôle dans l’activité.
+
+**Exercice pratique**
+
+- Indiquez ce qui vous manque pour poursuivre.
+- Dites quel geste le collègue pourrait faire.
+- Précisez la partie que vous voulez garder.
+
+Le collègue peut intervenir à l’endroit utile et laisser la personne continuer.
+
+### 2. Essayer une arrivée avec le nouveau relais
+
+Vérifier les consignes de travail quand une personne est indisponible.
+
+**Exercice pratique**
+
+- Demandez à un collègue de jouer le visiteur.
+- Répartissez la présentation et la manipulation du matériel.
+- Reprenez une seule entrée pour vérifier ce que chacun fait.
+
+L’équipe repère les écarts entre ce qui était écrit et la façon dont l’aide fonctionne.
+
+### 3. Garder un rappel discret
+
+Pouvoir reprendre l’échange sans longues consignes devant le public.
+
+**Exercice pratique**
+
+- Choisissez une question ou un geste de référence.
+- Notez-le à un endroit que l’équipe peut voir.
+- Convenez d’un signal si vous souhaitez transmettre ou reprendre la parole.
+
+Le soutien peut s’ajuster au moment où la faiblesse se fait sentir ou à l’arrivée d’un visiteur.
 
 ## Une nouvelle entrée
 
 Nadège ressort et referme la porte avec soin. Cette fois, Rachid lui demande ce que le motif lui rappelle. Elle répond que son père mettait une toile à carreaux sur le bureau quand il réparait un réveil. Gaëlle découvre qu’elle aurait été incapable de prévoir cette réponse. Elle écrit la question sur le carton, assez petit pour que les bénévoles soient les seuls à la voir. Puis elle échange un regard avec Rachid avant que Nadège choisisse son motif.
+
+---
+
+**Conclusion**
+
+Rachid rapproche la plaque et apprend à poser une question qui ouvre la discussion. Gaëlle reste à la table et précise ce qu’elle veut montrer. L’essai vérifie ce que chacun peut faire si Lina est occupée et si la jambe de Gaëlle porte moins bien.

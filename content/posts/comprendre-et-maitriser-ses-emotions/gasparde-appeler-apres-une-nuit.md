@@ -30,18 +30,81 @@ Brigitte lui envoie une photo du grip qu’elle a promis de lui prêter. Gaspard
 
 ## Les bonnes journées comptent aussi au suivi
 
-Une période plus agréable et le retour d’une préoccupation peuvent faire partie de la même évolution. Gasparde a aimé jouer, a passé du temps avec sa sœur et a ensuite vécu une nuit difficile. L’équipe peut entendre ces moments ensemble. Elle peut lui demander ce que la phrase a réveillé, combien de temps elle a été occupée à la relire et ce qu’elle souhaite retrouver dans ses journées.
+Une préoccupation peut revenir après plusieurs journées plus agréables. Dans le trouble délirant, l’équipe apprécie l’évolution avec la personne, en regardant plusieurs moments et leurs conséquences plutôt qu’une seule mauvaise nuit. Gasparde a joué et marché avec sa sœur, puis revient longtemps sur une phrase du comité. Ces expériences peuvent être racontées ensemble lorsque Farah demande ce qui a changé.
 
-## Comment cette difficulté se manifeste
+## Comment la préoccupation peut-elle revenir après des jours plus calmes ?
 
-Dans la CIM-11, l’appréciation de l’évolution du trouble délirant demande de regarder la durée et l’ensemble des signes avec la personne. Gasparde choisit d’appeler à partir d’une difficulté qu’elle avait nommée avec Farah. Le contenu d’un message du club peut rester un sujet à part. Le besoin qu’elle exprime concerne le temps que l’inquiétude reprend et la possibilité d’en parler avec quelqu’un qui connaît son suivi.
+### Une phrase déjà lue change de poids
 
-## Utiliser le contact qu’on a préparé ensemble
+Le même message peut occuper plus de place à un autre moment.
 
-Le guide de l’OMS pour le suivi des psychoses invite les soignants à tenir compte des changements et du fonctionnement rapportés par la personne. La phrase gardée avec Farah aide Gasparde à entrer dans la conversation. Elle peut raconter le reste à son rythme, à partir de la question qui la fait appeler. Si elle souhaite prendre un rendez-vous plus tôt, elle peut en discuter avec la personne qui lui répond.
+**Exemples concrets**
 
-Brigitte peut choisir une heure pour passer et demander à Gasparde si elle veut qu’on parle de la nuit ou qu’on prenne le petit déjeuner. Elle peut lui laisser le temps de joindre l’équipe. Un appui amical et un rendez-vous de suivi répondent à des besoins différents. Gasparde décide ce qu’elle aimerait recevoir de chacune et ce qu’elle préfère garder pour elle.
+- Gasparde trouve d’abord la phrase du comité ordinaire, puis la relit au milieu de la nuit.
+- Une personne laisse un message de côté en journée et y revient quand elle se réveille la nuit.
+
+### Un bon moment n’efface pas la nuit difficile
+
+Le plaisir passé et la fatigue présente peuvent être décrits sans que l’un contredise l’autre.
+
+**Exemples concrets**
+
+- Gasparde se souvient du canal et se sent épuisée devant le lait débordé.
+- Quelqu’un raconte une visite appréciée et, deux jours plus tard, le temps passé à relire une conversation.
+
+### On hésite à redemander un avis
+
+Un mieux récent peut faire croire que demander de l’aide serait prématuré.
+
+**Exemples concrets**
+
+- Gasparde explique à Farah qu’elle a hésité parce que plusieurs jours lui avaient fait du bien.
+- Une personne repousse un appel prévu parce qu’elle a pu sortir la veille, même si la gêne a repris.
+
+## 3 techniques pour faire le point quand une préoccupation revient
+
+### 1. Décrire les variations
+
+Donner une vue plus juste que le souvenir de la dernière nuit.
+
+**Exercice pratique**
+
+- Choisissez un moment plus calme et un autre plus difficile.
+- Dites ce que la préoccupation vous a laissé faire à chaque fois.
+- Apportez ces deux exemples au suivi.
+
+L’équipe peut examiner l’évolution en tenant compte du contexte et du retentissement.
+
+### 2. Utiliser le contact convenu
+
+Demander un avis avant que la question prenne davantage de place.
+
+**Exercice pratique**
+
+- Reprenez le numéro et la plage notés avec le service.
+- Dites ce qui s’est remis à gêner votre sommeil ou vos activités.
+- Demandez si un échange plus proche est possible.
+
+Le service peut proposer le délai qui convient à la situation.
+
+### 3. Choisir quand voir un proche
+
+Garder un appui compatible avec la façon dont on souhaite parler.
+
+**Exercice pratique**
+
+- Décidez si vous voulez appeler seul ou accompagné.
+- Proposez au proche un autre moment si vous souhaitez le voir ensuite.
+- Dites quelle aide vous est utile ce jour-là.
+
+Le proche peut être disponible sans devoir intervenir dans le contact de soins.
 
 ## La feuille à portée de main
 
 À l’heure notée sur la feuille, Gasparde appelle le centre. L’accueil lui propose un rappel de Farah dans la matinée et vérifie à quel numéro elle sera joignable. Quand Farah rappelle, Gasparde lui décrit la phrase et lui dit qu’elle a hésité à appeler parce que les autres jours lui avaient fait du bien. Elles conviennent d’avancer leur prochain rendez-vous. Gasparde replie la feuille avant de nettoyer la plaque. Lorsque Brigitte arrive, elle montre le rond qui reste encore. Elle lui demande si elle prend du café. Le grip promis est déjà dans la poche du manteau de Brigitte.
+
+---
+
+**Conclusion**
+
+Farah entend à la fois les jours agréables et la nuit qui a poussé Gasparde à appeler. Elles avancent le rendez-vous sans faire d’une seule nuit un verdict. Brigitte peut arriver ensuite avec le grip promis et partager un café.

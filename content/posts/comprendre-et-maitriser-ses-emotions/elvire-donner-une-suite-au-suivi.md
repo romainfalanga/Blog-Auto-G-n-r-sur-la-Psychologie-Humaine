@@ -35,14 +35,79 @@ Elles discutent de ce qui mérite encore un rendez-vous et de ce qu’Élvire vo
 
 Le suivi de l’insomnie peut prendre en compte la fréquence et la gêne des difficultés, la perception du sommeil et les effets pendant la journée. Ces dimensions évoluent parfois à des rythmes différents. Élvire décrit des nuits où elle se rendort mieux et d’autres où l’éveil persiste. Elle peut également préciser ce qu’elle arrive à faire avec un appui et les moments où cela lui demande encore beaucoup d’effort. La professionnelle peut reprendre ces informations avec elle pour discuter de la suite de la TCC-I, en lien avec le suivi médical.
 
-## Donner une place à plusieurs expériences du même mois
+## Comment des nuits encore difficiles peuvent-elles coexister avec des progrès ?
 
-Élvire revient sur le premier accueil, l’éveil après le chantier et un repas pendant lequel elle a réussi à écouter Lou. Chacun de ces souvenirs dit quelque chose de précis. Le chantier a modifié ses conditions de sommeil. La relève au dépôt lui a permis de répondre aux visiteurs. Les réveils précoces qu’elle éprouve encore lui donnent une raison de continuer à en parler. Elle peut s’intéresser à ce qui facilite certains moments et garder un suivi des signes nouveaux, dont l’assoupissement inhabituel qu’elle sait signaler à son médecin.
+### Les nuits ne changent pas toutes de la même façon
 
-## Prévoir des suites qui répondent à des besoins différents
+Le suivi peut inclure des éveils plus courts et d’autres qui restent éprouvants.
 
-Avec Claire, Élvire peut convenir du prochain point et de la façon de reprendre contact si la gêne s’installe de nouveau. Elle peut parler à la docteure Vidal de tout changement de vigilance et continuer à adapter les trajets selon l’avis reçu. Avec Sonia, elle peut reprendre ce que l’équipe a appris de l’essai et lui demander si elle souhaite assurer le début du prochain accueil. Elle peut garder un rôle de préparation et choisir ensuite si elle veut venir. Les rendez-vous de santé, de travail et de couple ont chacun une place dans son agenda.
+**Exemples concrets**
+
+- Élvire retrouve des réveils après lesquels elle s’est rendormie.
+- Elle a encore des matins où elle se réveille trop tôt et pense au plan avant l’heure.
+
+### Le retentissement peut changer selon les appuis
+
+Une tâche reprise donne une information quand on sait dans quelles conditions elle s’est déroulée.
+
+**Exemples concrets**
+
+- Élvire se souvient d’avoir pu revenir pour écouter la femme à la lampe.
+- Elle décrit le rôle de Sonia et les matinées où l’effort reste important.
+
+### La suite comporte plusieurs décisions distinctes
+
+Les soins, la vigilance et les activités peuvent chacun demander leur propre rendez-vous.
+
+**Exemples concrets**
+
+- Élvire note le prochain entretien avec Claire et le suivi de la vigilance avec la docteure Vidal sur deux lignes.
+- Au travail, elle souhaite laisser Sonia commencer à l’accueil pour pouvoir déjeuner avec Lou et sa mère.
+
+## 3 techniques pour faire un bilan qui sépare l’évolution du sommeil et les décisions du projet
+
+### 1. Décrire ce qui varie sur plusieurs semaines
+
+Présenter une évolution qui garde les difficultés encore présentes.
+
+**Exercice pratique**
+
+- Choisissez une nuit où la suite du réveil a changé.
+- Ajoutez une nuit qui vous coûte toujours et un effet dans la journée.
+- Reprenez les exemples avec la personne qui vous suit.
+
+Le bilan peut orienter la suite de l’accompagnement à partir de situations différentes.
+
+### 2. Clarifier les consignes pour la suite
+
+Savoir ce que chaque rendez-vous doit reprendre et quand recontacter l’équipe.
+
+**Exercice pratique**
+
+- Demandez quel point sera abordé avec chaque professionnel.
+- Faites préciser les changements qui mériteraient de les joindre plus tôt.
+- Notez le contact et les consignes convenues.
+
+Vous disposez d’un repère si les réveils ou la vigilance changent.
+
+### 3. Organiser une rotation sur une tâche choisie
+
+Laisser le projet continuer avec une répartition adaptée aux engagements de chacun.
+
+**Exercice pratique**
+
+- Choisissez la tâche que vous êtes prêt à transmettre.
+- Montrez les repères dont l’autre personne a besoin pour la reprendre.
+- Fixez ensemble le moment où vous ferez le point sur la rotation.
+
+Le projet peut continuer et laisser aux personnes du temps pour d’autres choix.
 
 ## Le vert indique aussi le nom de Sonia
 
 Au bureau, Sonia accepte de commencer le prochain samedi et demande à Élvire de lui montrer où elle range le registre. Salim propose de revoir avec elles le passage de la porte. Sur le tableau, Élvire écrit l’heure, l’adresse et le prénom de Sonia en vert. Elle lui explique pourquoi le dernier objet reste encore un moment en attente de l’autre côté du panneau. Puis elle écrit à Lou qu’elle est libre pour le déjeuner chez sa mère. Elle garde la réponse pour quand Lou aura le temps. À côté du tableau, une chaise du premier samedi attend qu’un habitant lui trouve une place.
+
+---
+
+**Conclusion**
+
+Le prénom de Sonia apparaît sur le tableau pour le prochain samedi. Élvire garde son déjeuner et ses deux rendez-vous. Elle a retrouvé certaines nuits et certains moments d’attention, et les réveils qui persistent pourront encore être discutés avec les professionnels qui la suivent.

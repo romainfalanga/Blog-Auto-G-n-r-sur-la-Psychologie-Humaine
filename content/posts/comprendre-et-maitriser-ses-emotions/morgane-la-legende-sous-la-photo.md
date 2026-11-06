@@ -34,14 +34,79 @@ Morgane rejoint Sonia et lui demande si elles peuvent écrire ce que l’on voit
 
 Les inquiétudes liées au poids ou à la silhouette peuvent peser sur l’évaluation que certaines personnes font d’elles-mêmes. Dans cette scène, Morgane s’attend à être interrogée sur ce qui lui coûte. Elle repère aussi ce qu’elle a choisi, ce qu’elle sait faire et la contribution de Yassine.
 
-## La légende qui change ce qu’elle retient de la matinée
+## Comment la peur d’être jugée peut-elle infléchir le récit d’une réussite ?
 
-En relisant la légende, Morgane imagine les questions des lecteurs et le regard qu’ils pourraient poser sur son corps. En parlant avec Yassine, elle retrouve le souvenir du geste qu’elle a montré à la première visiteuse. Les deux font partie de ce qui lui reste de la matinée. Elle avait éprouvé de la gêne et trouvé une façon d’aider quelqu’un à faire tenir la branche.
+### Une légende peut faire craindre des questions privées
 
-## Décider ensemble de la trace qu’on laisse
+Des mots qui interprètent l’expérience des personnes peuvent annoncer des questions auxquelles elles ne souhaitent pas répondre.
 
-Morgane peut discuter de la légende comme d’une décision de travail. Yassine peut choisir les mots qui décrivent sa démonstration. Une personne visible dans le cadre doit pouvoir se prononcer sur la diffusion de son image. Sonia peut tenir compte de la confidence de Morgane en respectant le choix déjà exprimé sur les informations personnelles. Elle peut également poser des questions simples aux autres personnes concernées. Un récit d’équipe peut parler des gestes montrés et de la manière dont les visiteurs les ont essayés. Le suivi spécialisé donne à Morgane un autre endroit pour revenir sur les appréhensions que ces décisions ont ravivées.
+**Exemples concrets**
+
+- La légende parle d’appréhensions surmontées et Morgane se demande de quoi on lui demandera d’avoir eu peur.
+- Elle craint aussi que cette formulation dirige l’attention des lecteurs vers son corps.
+
+### Un geste observé apporte une autre description
+
+Les contributions peuvent se raconter par des actions et des détails partagés.
+
+**Exemples concrets**
+
+- Yassine veut expliquer le rôle de la pause qu’il a prévue pendant son essai.
+- Morgane se rappelle comment la visiteuse a déplacé les doigts après son indication sur la tige.
+
+### Le texte et l’image appellent des accords propres
+
+On peut vouloir participer à la publication tout en fixant le contenu et les personnes visibles.
+
+**Exemples concrets**
+
+- Morgane propose de vérifier le cadrage où quelqu’un apparaît sur le bord.
+- Elle souhaite que Yassine soit nommé pour son essai et que la légende indique comment on entrait dans l’atelier.
+
+## 3 techniques pour choisir ce qu’une présentation publique raconte
+
+### 1. Relire du point de vue du lecteur
+
+Voir ce que le texte lui apprend et ce qu’il risque de suggérer.
+
+**Exercice pratique**
+
+- Repérez une phrase qui interprète ce que les personnes ont ressenti.
+- Remplacez-la par une action qu’elles peuvent reconnaître.
+- Demandez à chacune de relire la partie qui la concerne.
+
+Une présentation peut expliquer le travail sans exposer le vécu privé.
+
+### 2. Vérifier l’accord sur l’image
+
+Choisir un document partageable avec les personnes concernées.
+
+**Exercice pratique**
+
+- Repérez qui apparaît sur la photo et quel cadrage est prévu.
+- Demandez un accord pour l’usage proposé.
+- Choisissez un autre cadrage si l’accord manque ou change.
+
+La diffusion repose sur un choix explicite de ceux qui sont concernés.
+
+### 3. Préparer l’espace où reprendre la gêne
+
+Donner à l’inquiétude une place qui ne dépend pas de la publication.
+
+**Exercice pratique**
+
+- Nommez le moment où vous avez commencé à vous demander ce que les autres verraient.
+- Notez un effet de cette inquiétude sur vos choix.
+- Reprenez cet exemple avec le professionnel si vous souhaitez l’examiner.
+
+Le suivi peut parler de ce que l’image a suscité sans que le public y ait accès.
 
 ## La légende qu’ils choisissent
 
 La nouvelle légende indique le nom de Yassine près de son essai et celui de Morgane près de la table d’accueil. Elle explique que les personnes pouvaient venir à n’importe quel moment essayer un geste. La photo retenue montre seulement les personnes qui ont accepté ce cadrage. La lettre est partie, et Sonia apporte une demande de l’accueil. Des visiteurs aimeraient retrouver un essai dans quelques semaines. Morgane demande s’ils peuvent réserver un temps d’équipe pour décider de la suite.
+
+---
+
+**Conclusion**
+
+La nouvelle légende raconte qui a montré les gestes et comment les visiteurs les ont essayés. Morgane a pu choisir ces mots avec l’équipe, même si elle s’interroge encore sur le regard des lecteurs. Cette dernière question peut rester à la place qu’elle choisit de lui donner.

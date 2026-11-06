@@ -29,18 +29,83 @@ Au dernier rendez-vous, Clémence a discuté avec les professionnels de ce qu’
 
 Baya dit qu’elle veut présenter le court métrage avec la question qu’elle a écrite. Elle aimerait aussi entendre l’introduction de Clémence avant de passer à la sienne. La référente propose de tenir la table avec une autre bénévole. Clémence pourrait leur remettre les fiches et garder sa feuille sur la porte. Elle ouvre le programme et indique à Baya l’endroit où elle veut s’arrêter quand elle présentera son film.
 
-## Préparer la participation avec les personnes concernées
+## Reprendre une tâche après un malaise
 
-Une reprise d’activité peut être discutée avec les professionnels qui suivent la personne et avec celles qui organisent cette activité. Dans le suivi de l’anorexie mentale, le NICE recommande de prendre en compte les besoins éducatifs et sociaux avec l’état de santé.
+Après une urgence médicale, la reprise d’une activité se prépare en tenant compte de l’évaluation et des indications de l’équipe. Le désir de retrouver une place ou de montrer qu’on peut de nouveau aider peut pousser à en faire plus que ce qui a été convenu. Clémence veut présenter le film d’ouverture et se surprend à préparer aussi l’accueil et la partie de Baya. La répartition lui permet de retrouver la tâche qu’elle choisit.
 
-## Comment cette difficulté se manifeste
+## Comment l’envie de tout reprendre se glisse-t-elle dans la préparation ?
 
-Clémence peut expliquer aux soignants quelle place elle souhaite prendre et leur demander ce qu’ils pensent de la suite. Au club, elle peut parler de son horaire, de la fiche qu’elle a préparée et du rôle qu’elle accepte. Les décisions de santé restent à examiner avec l’équipe. La référente organise la soirée avec les informations nécessaires au fonctionnement de la salle.
+### La culpabilité donne envie de compenser son absence
 
-## Prévoir qui prend la parole et qui tient l’accueil
+On peut vouloir refaire plusieurs tâches d’un coup après en avoir laissé une à d’autres lors d’une urgence.
 
-Elles peuvent vérifier l’ordre des interventions, où seront les fiches et qui peut reprendre une tâche si une personne manque. Clémence peut confier l’accueil à la référente et lui dire comment utiliser le programme plié. Baya peut présenter son film avec la question qu’elle a choisie. Elle peut accepter de relire l’introduction de Clémence si celle-ci le lui demande. Le travail de la soirée se partage de manière plus précise quand chacune sait ce qu’elle a accepté. Si une inquiétude clinique revient, Clémence garde le contact prévu avec les professionnels et peut mettre à jour son rôle au club.
+**Exemples concrets**
+
+- Clémence se sent coupable d’avoir laissé l’essai de projection aux bénévoles.
+- Elle s’imagine déjà répondre aux questions du foyer alors qu’elle voudrait que quelqu’un d’autre tienne l’accueil.
+
+### Préparer en trop peut empiéter sur le rôle d’une amie
+
+Un geste destiné à rassurer peut reprendre une tâche que quelqu’un d’autre souhaite tenir.
+
+**Exemples concrets**
+
+- Clémence écrit une phrase au cas où Baya oublierait le rideau.
+- Baya lui montre la feuille et lui demande si elles ont réellement décidé de présenter les deux films ensemble.
+
+### Une répartition donne une limite visible
+
+Une décision préparée avec l’équipe du club peut se retrouver dans un objet, une consigne ou un ordre de passage.
+
+**Exemples concrets**
+
+- La référente prend les fiches et organise la table avec une autre bénévole.
+- Clémence indique où elle s’arrête et Baya précise quand elle veut prendre la parole.
+
+## 3 techniques pour reprendre une activité sans reprendre toutes les tâches
+
+### 1. Choisir la tâche à discuter avec les soignants
+
+Préparer une reprise compatible avec ce qui a été convenu après le malaise.
+
+**Exercice pratique**
+
+- Nommez l’activité que vous aimeriez reprendre et ce qu’elle demande sur place.
+- Vérifiez avec les professionnels ce qui est possible et quand en reparler.
+- Annoncez au groupe seulement la part que vous pouvez confirmer.
+
+La reprise repose sur un choix qui tient compte de la santé, avec une suite que l’on peut revoir.
+
+### 2. Transmettre une tâche avec son matériel
+
+Permettre à la personne qui prend la suite de la tenir sans vous.
+
+**Exercice pratique**
+
+- Choisissez ce que vous allez laisser à quelqu’un d’autre, comme l’accueil.
+- Demandez son accord et donnez-lui les fiches nécessaires.
+- Vérifiez où elle les retrouvera le soir venu.
+
+Le relais devient concret et ne dépend plus de votre présence au comptoir.
+
+### 3. Marquer le passage d’une voix à l’autre
+
+Préserver la contribution de chacun dans le programme.
+
+**Exercice pratique**
+
+- Montrez où vous voulez terminer votre introduction.
+- Demandez à l’autre personne à quel moment elle souhaite commencer.
+- Gardez sur votre feuille uniquement ce que vous avez accepté de présenter.
+
+La séance peut se poursuivre avec deux interventions réellement choisies.
 
 ## Les fiches changent de main
 
 Clémence remet les fiches d’accueil à la référente. Elle fait relire à Baya le passage sur la porte et retire de la feuille la phrase qu’elle avait préparée sur le rideau. Baya lui dit où elle voudrait prendre la parole. Elles gardent le programme dans l’ordre prévu. La référente les accompagne jusqu’au comptoir pour leur montrer où elle posera les fiches. En repartant, Clémence reprend seulement la chemise avec l’introduction de son film.
+
+---
+
+**Conclusion**
+
+Clémence repart avec la chemise de son film et laisse l’accueil à la référente. Baya garde la parole pour le rideau. Chacune sait maintenant ce qu’elle présentera, et Clémence peut prendre sa place sans devoir rattraper toutes les tâches laissées le jour du malaise.

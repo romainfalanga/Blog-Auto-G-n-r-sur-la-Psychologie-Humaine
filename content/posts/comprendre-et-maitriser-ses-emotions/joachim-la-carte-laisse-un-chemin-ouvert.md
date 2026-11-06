@@ -31,20 +31,81 @@ Au rendez-vous suivant, Louise ouvre la carte à l’endroit où Joachim avait n
 
 ## Regarder la vie quotidienne sur plusieurs moments
 
-L’agoraphobie peut avoir des effets durables et variables. Un déplacement rendu possible et une situation qui reste très difficile peuvent exister à quelques jours d’intervalle. La comparaison gagne à porter sur des faits.
+L’agoraphobie peut évoluer différemment selon les situations et les moments. Un déplacement devenu possible et une sortie qui reste très difficile peuvent coexister. Un bilan peut partir de ce que la personne a fait, de l’effort que cela lui a demandé et de ce qu’elle souhaite aborder ensuite. Joachim explique à Louise la question à laquelle il a répondu près du lavoir et lui montre aussi la page consacrée au détour du bus.
 
-## Comment cette difficulté se manifeste
+## Comment un progrès et une difficulté peuvent-ils compter dans le même bilan ?
 
-Joachim a rejoint le lavoir avec Diego, repris un retour court dans le cadre de son suivi et choisi comment présenter une photo. Il a aussi quitté une file et reporté une visite après un changement de trajet. Avec Louise, il peut regarder ce que cela change pour ses sorties, son travail et ses relations.
+### Une contribution devient plus facile à reconnaître
 
-Le suivi peut s’intéresser à la peur et à la place que la personne retrouve pour des activités qui lui importent. Joachim a aimé expliquer l’ombre du banc. Ce détail a du sens même s’il ne dit rien du prochain voyage. Sa façon de choisir un rendez-vous, d’en parler et de tenir compte du temps des autres fait également partie du parcours qu’il peut raconter.
+La personne peut retenir ce qu’elle a pu faire au-delà du temps passé dans le lieu.
 
-## Laisser une décision ouverte
+**Exemples concrets**
 
-Le prochain projet de Joachim peut commencer par une photographie au lavoir. Il peut également reprendre en consultation le moment où l’arrêt du bus a changé. La durée et les priorités du suivi se discutent avec Louise selon ce dont il a besoin et ce qu’ils observent. Elle peut lui demander ce qu’il voudrait retrouver dans ses sorties et ce qui lui demande encore beaucoup d’effort.
+- Joachim raconte la réponse qu’il a donnée sur le banc au lieu de compter seulement les minutes passées dans le hall.
+- La carte imprimée garde la photo de la plaque prise le matin où il n’a pas pris le bus.
 
-Diego peut garder son envie de marcher jusqu’au verger. Les deux hommes peuvent choisir de se retrouver pour la lumière du matin ou commencer chacun de leur côté. Le belvédère reste une idée que Joachim voudrait peut-être essayer. Il a déjà de quoi parler avec Diego quand ils se voient. La question de la prochaine photo leur rend un espace où chacun peut encore proposer quelque chose.
+### Une difficulté reste liée à certaines conditions
+
+Ce qui a été possible dans un cadre n’efface pas ce qu’un imprévu peut rendre difficile ailleurs.
+
+**Exemples concrets**
+
+- Joachim reprend le rond-point et le changement de correspondance avec Louise.
+- Le belvédère reste en suspens après le détour du bus.
+
+### La suite peut partir d’un désir ordinaire
+
+Une prochaine activité peut avoir un intérêt propre alors que le suivi se poursuit.
+
+**Exemples concrets**
+
+- Joachim propose à Ana de choisir ensemble un autre film.
+- Il sait aussi quelle question sur les changements de trajet il voudrait aborder au prochain rendez-vous.
+
+## 3 techniques pour faire le point à partir de sorties différentes
+
+### 1. Donner une place à deux faits
+
+Faire un bilan qui inclut la possibilité retrouvée et la gêne qui persiste.
+
+**Exercice pratique**
+
+- Choisissez un déplacement où vous avez pu faire quelque chose qui comptait.
+- Décrivez une situation qui reste difficile et son contexte.
+- Discutez de l’effort et de l’intérêt des deux avec le professionnel.
+
+Le suivi peut s’ajuster sans réduire l’évolution à une seule sortie.
+
+### 2. Choisir la prochaine question à travailler
+
+Utiliser un détail marquant pour orienter le rendez-vous.
+
+**Exercice pratique**
+
+- Retenez le moment où vous avez été le plus surpris.
+- Notez ce que vous saviez et ce que vous auriez voulu savoir sur place.
+- Demandez à la personne qui vous suit comment reprendre cette question.
+
+Le rendez-vous peut partir d’une situation réelle et garder un objectif précis.
+
+### 3. Proposer une sortie qui fait envie
+
+Retrouver un rendez-vous partagé pour son intérêt propre.
+
+**Exercice pratique**
+
+- Choisissez une activité que vous voulez faire avec quelqu’un.
+- Convenez ensemble du moment et de ce qui reste à décider.
+- Gardez la possibilité de la modifier selon les conditions réelles et votre accord.
+
+Une sortie peut rester un choix commun sans devenir une mesure du suivi.
 
 ## Une carte à montrer et un retour à discuter
 
 Ana retrouve la carte dans sa boîte aux lettres. Joachim lui a entouré la plaque de rue qu’il a photographiée le premier matin. Quand elle vient dîner, elle lui demande de lui montrer le reflet qu’on voit au-dessus du lavoir. Joachim va chercher les autres images. Il lui propose de choisir une séance pour le prochain film, un jour où ils en auront envie tous les deux. Sur le buffet, il a laissé son carnet ouvert à la page du rond-point. Il sait ce qu’il voudra aborder avec Louise.
+
+---
+
+**Conclusion**
+
+La carte imprimée garde le lavoir, la pente et la plaque du premier matin. Le rond-point a toujours sa place dans le carnet. Joachim peut parler à Louise de ce qui l’a arrêté et proposer un film à Ana pour le plaisir de choisir une séance ensemble.

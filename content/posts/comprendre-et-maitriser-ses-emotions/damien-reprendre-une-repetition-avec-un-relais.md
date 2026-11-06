@@ -33,14 +33,79 @@ Le premier essai dure deux minutes. Un des saxophones entre une mesure avant lui
 
 Des thérapies cognitivo-comportementales ont été étudiées dans le trouble explosif intermittent. De petits essais chez des adultes suivis pour ce trouble ont observé une diminution de comportements agressifs avec des interventions à plusieurs composantes. Ces résultats soutiennent une option de soin à discuter et laissent ouverte la réponse de chaque personne. Dans le suivi de Damien, repérer une montée de tension, revoir les interprétations et répéter un retrait font partie du travail. Les conditions d’une répétition restent du ressort de l’association et de ses membres.
 
-## Un changement dans l’échange avant un signe physique
+## Comment une reprise limitée peut-elle s’appuyer sur un plan révisé ?
 
-Damien s’entend couvrir la voix de Judith. Dans ce contexte, c’est un indice qui lui permet d’interrompre son intervention. Couper une parole peut aussi arriver dans un échange ordinaire et ne permet pas de reconnaître à lui seul un accès. La situation diffère de l’insulte adressée à Maud. Damien a ici l’occasion de faire une pause, tandis que Judith conserve sa place dans la discussion et explique ce qui manque sur la partition. Leur problème musical peut être repris si les personnes présentes le souhaitent.
+### Le groupe fixe des conditions qui lui appartiennent
 
-## Garder une sortie et décider à chaque reprise
+Une reprise choisie peut préciser le lieu, la durée et les motifs d’arrêt avant l’activité.
 
-Baptiste peut s’en tenir au morceau et à la durée annoncée. Les participants peuvent interrompre leur présence sans fournir d’explication. Damien a préparé une manière de se retirer qui dépend de lui. Si une personne se sent menacée, elle peut partir ou demander de l’aide sans attendre qu’il applique ce qu’il a travaillé. Après la répétition, Damien peut rapporter à l’équipe l’indice qu’il a perçu et les difficultés restantes. Une séance utile ne décide pas à elle seule de la suite.
+**Exemples concrets**
+
+- Baptiste prévoit un seul morceau dans un autre local que les Tilleuls.
+- Les volontaires peuvent partir sans explication et Baptiste peut arrêter l’essai.
+
+### Un autre repère peut permettre de s’écarter
+
+Le plan peut inclure une réponse à un signe remarqué plus tôt ou plus tard que la tension physique.
+
+**Exemples concrets**
+
+- Damien s’entend couper la parole de Judith avant de retrouver un signe dans ses bras.
+- Il annonce un arrêt, pose la basse et s’écarte comme il en a parlé en séance.
+
+### La reprise reste une décision collective
+
+Le retrait et le retour ne supposent pas que les autres veuillent poursuivre.
+
+**Exemples concrets**
+
+- Baptiste vérifie séparément le choix des musiciens avant de relancer l’essai.
+- Il clôt la séance à l’heure prévue et propose un point avant le concert.
+
+## 3 techniques pour organiser une répétition qui respecte la décision de chacun
+
+### 1. Préciser les conditions de participation
+
+Donner aux volontaires une décision éclairée et révisable.
+
+**Exercice pratique**
+
+- Annoncez le lieu, la durée et la tâche prévues.
+- Dites qui peut arrêter l’activité et comment chacun peut partir.
+- Vérifiez l’accord de chaque participant sans demander d’explication à ceux qui déclinent.
+
+Le collectif dispose de limites pratiques sans confier aux volontaires une évaluation du risque clinique.
+
+### 2. Préparer le retrait avec l’équipe de soins
+
+Disposer d’une réponse à un changement dans sa façon d’agir.
+
+**Exercice pratique**
+
+- Reprenez avec le professionnel le signe qui peut vous faire interrompre votre participation.
+- Vérifiez avec le responsable comment vous écarter sans gêner les passages.
+- Appliquez le retrait dès que nécessaire et laissez le responsable décider de la suite de la séance.
+
+Le plan peut guider un geste de mise à distance sans garantir que toutes les situations seront prévisibles.
+
+### 3. Faire le point par des canaux distincts
+
+Reprendre l’essai sans imposer de conclusion commune.
+
+**Exercice pratique**
+
+- Notez pour votre suivi ce que vous avez remarqué et fait.
+- Laissez le responsable recueillir séparément les retours des volontaires.
+- Attendez les conditions qu’il communiquera pour une éventuelle suite.
+
+L’équipe de soins et l’association peuvent tenir compte de faits différents dans leurs décisions.
 
 ## Le repère dessiné pour tous
 
 Les trois musiciens veulent faire un dernier essai. Judith propose de dessiner un trait avant l’entrée du saxophone. Cette fois, ils jouent jusqu’à la fin. Damien tient le dernier temps assez longtemps pour que les autres puissent respirer avant de jouer leur note. Baptiste clôt la séance à l’heure prévue et leur propose de faire le point chacun de son côté avant le concert. Dans son carnet, Damien écrit « j’ai coupé la parole, j’ai posé la basse, j’ai attendu ». Il garde cette ligne pour son prochain rendez-vous. Baptiste écrira de son côté aux volontaires.
+
+---
+
+**Conclusion**
+
+Les musiciens choisissent un dernier essai et Baptiste arrête à l’heure prévue. Damien garde pour la consultation la phrase interrompue et le geste de retrait. Chacun reste libre de dire ensuite ce qu’il souhaite faire, indépendamment de l’accord donné pour cette répétition.

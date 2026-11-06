@@ -29,20 +29,83 @@ Le 4 s’approche. Hélène pourrait monter et demander en route, mais elle a be
 
 « Je suis encore au Marché, devant l’abri. Le 4 passe. Il ne va pas à Verrerie. Je dois savoir si je viens quand même et où je descends. » Dario ne connaît pas le nouvel arrêt. Il fait signe à Maud, qui remonte l’allée, et lui passe le combiné. Hélène voit le bus tourner au bout de la rue. Elle n’a plus envie qu’on lui dise qu’elle peut essayer au hasard, quitte à revenir. Elle demande qu’on lui confirme une chose avant de raccrocher : est-ce qu’on l’attend toujours au dépôt ce matin ?
 
-## Distinguer le trajet connu de la déviation
+## Un détour demande d’autres repères que le trajet appris
 
-Une déviation change la tâche, même lorsqu’on connaît le trajet habituel. Hélène sait dans quel bus monter et où reconnaître l’entrée du dépôt depuis Verrerie. Rien de cela ne lui dit comment rejoindre le même endroit à pied depuis Tannerie. En plus, le nom des deux arrêts se ressemble et la feuille est difficile à lire. La question est de retrouver des informations et des repères qui correspondent au trajet du jour.
+Un changement de routine peut accroître les besoins d’appui liés à un trouble du développement intellectuel. Connaître un parcours ne suffit pas forcément quand son arrêt disparaît ou quand on ignore comment rejoindre l’arrivée. Hélène a appris le trajet jusqu’à Verrerie. La déviation lui pose une autre question : où descendre maintenant, et le déplacement est-il encore nécessaire ?
 
-## Comment cette difficulté se manifeste
+## Comment une déviation change-t-elle ce qu’il faut savoir pour avancer ?
 
-L’OMS décrit des besoins de soutien qui peuvent varier lors d’un changement de routine. La HAS propose de préparer avec la personne des situations d’imprévu dans les transports : quel contact joindre, comment expliquer où l’on se trouve et de quels repères on a besoin. Le plan d’Hélène ne contenait pas la déviation. Le numéro de repli de la boutique, qu’elle avait choisi d’y mettre, lui permet de faire passer sa question à la bonne personne.
+### Le repère appris ne correspond plus au service
 
-## Confirmer le rendez-vous avant de proposer un détour
+Un trajet habituel peut être bien connu et rester inutilisable ce jour-là.
 
-La recyclerie doit aussi décider comment recevoir le bordereau. Maud peut dire si la présence d’Hélène reste nécessaire, qui transmettra la feuille et quand le trajet pourra être repris. Demander à Hélène de choisir un nouvel arrêt sans lui donner le chemin ne résout pas le rendez-vous. Lui dire simplement de renoncer à aller au dépôt les prochains jours ne prépare pas davantage la suite.
+**Exemples concrets**
 
-Pour ce matin, Hélène souhaite une réponse qui lui permette d’agir à partir de l’arrêt où elle se trouve. Si la déviation doit durer, elle veut essayer le détour avec un repère choisi et quelqu’un disponible au bout. L’équipe peut vérifier la durée des travaux et convenir du premier essai avec elle, après avoir réglé le départ de la tournée.
+- Le 4 passe à Marché mais ne dessert plus Verrerie.
+- Une personne sait descendre devant le dépôt et découvre que le bus termine temporairement sa course avant cet arrêt.
+
+### Le premier contact peut être indisponible
+
+Un appel sans réponse laisse la décision ouverte et donne sa place à un relais prévu.
+
+**Exemples concrets**
+
+- Ilyes ne décroche pas ; Hélène reprend le numéro de la boutique.
+- Une personne a le numéro du collègue qui devait l’attendre et appelle l’accueil lorsqu’il est occupé.
+
+### Le but du déplacement peut être atteint autrement
+
+Avant de chercher un détour, vérifier le maintien du rendez-vous peut changer la tâche à résoudre.
+
+**Exemples concrets**
+
+- Maud annule la visite et demande une copie du bordereau à utiliser en boutique.
+- Une équipe décale un passage et fait parvenir par un autre moyen la fiche que la personne devait venir chercher.
+
+## 3 techniques pour faire face à un trajet qui ne se déroule pas comme prévu
+
+### 1. Rester à un point qu’on sait décrire
+
+Demander les informations avant de s’engager sur un parcours inconnu.
+
+**Exercice pratique**
+
+- Repérez l’arrêt ou le lieu où vous êtes.
+- Indiquez ce que le transporteur annonce.
+- Attendez une confirmation sur la suite depuis un endroit sûr.
+
+Le contact peut vous situer et vous répondre sur le déplacement réel.
+
+### 2. Prévoir un relais que l’équipe connaît
+
+Pouvoir obtenir une décision si le premier contact manque.
+
+**Exercice pratique**
+
+- Convenez de deux contacts pour un trajet qui change.
+- Demandez à chacun ce qu’il pourra confirmer.
+- Vérifiez avec l’équipe qui décide si le rendez-vous doit être déplacé.
+
+Le plan ne dépend pas d’une seule personne ni d’une supposition sur le trajet.
+
+### 3. Garder les deux versions lisibles
+
+Éviter de perdre le parcours habituel lorsqu’un détour est temporaire.
+
+**Exercice pratique**
+
+- Notez séparément ce qui est fermé ou modifié.
+- Demandez à vérifier la déviation avant la prochaine visite.
+- Choisissez le plan à utiliser une fois le trajet confirmé.
+
+Le repère temporaire ne remplace pas définitivement celui que vous connaissez déjà.
 
 ## Rendez-vous annulé, bordereau maintenu
 
 Maud confirme que le rendez-vous est annulé pour ce matin. Elle joindra Ilyes pour lui demander d’envoyer une copie à la boutique ; Hélène l’utilisera là-bas pour préparer les étiquettes de rayon. Hélène rentre à pied à la recyclerie par le chemin qu’elle connaît depuis l’arrêt Marché. Elle demande que l’équipe regarde avec elle le détour avant le prochain rendez-vous. À côté de « Verrerie », elle glisse un feuillet qui dépasse quand le plan est plié : « arrêt fermé ». Elle laisse le nom d’origine lisible. La fermeture annoncée est temporaire.
+
+---
+
+**Conclusion**
+
+Hélène ne monte pas sans savoir où descendre. Le rendez-vous est annulé, le bordereau viendra à la boutique, et le petit feuillet signale ce qui manque encore au plan.

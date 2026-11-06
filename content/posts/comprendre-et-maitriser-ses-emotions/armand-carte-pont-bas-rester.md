@@ -29,22 +29,83 @@ En passant au plan suivant, il ne sait plus lesquelles il a apportées pour les 
 
 Nadia lui rend la carte. Elle a besoin d’une pièce qui explique comment on passait d’une rive à l’autre, et le plan des canaux n’indique pas les chemins de halage. Armand regarde les deux feuilles côte à côte. Il lui propose une reproduction du recto du pont bas, à vérifier ensemble avant qu’elle soit montrée. Il gardera l’original, et les mots au verso avec. Nadia recule son inventaire pour leur rendre la place nécessaire.
 
-## Soutenir la mémoire de travail pendant une décision
+## Garder les options sous les yeux
 
-Suivre plusieurs options peut demander davantage d’effort à une personne qui vit avec la maladie d’Alzheimer, surtout si les objets et les décisions se mélangent. Sur la table, Armand doit savoir de quelle carte ils parlent, distinguer présentation et don, puis envisager ce qui arrivera au papier. Le diagnostic ne donne pas la réponse à ces questions à sa place. Il peut dire ce qui lui importe quand il a la carte et les possibilités devant lui.
+La maladie d’Alzheimer peut fragiliser la mémoire de travail, qui aide à garder des informations à l’esprit le temps de s’en servir. Dans une décision, une nouvelle précision peut faire perdre l’option dont on parlait jusque-là. En comparant la reproduction et l’original, Armand a besoin de voir à quelle face et à quel usage correspond chaque proposition. Ses préférences restent le point de départ.
 
-## Les cartes à montrer se confondent avec celles à laisser
+## Comment une décision devient-elle difficile à suivre ?
 
-Quand les cartes se chevauchent sur la table, Armand ne sait plus lesquelles il a apportées pour les montrer et lesquelles il voulait laisser. Il se souvient pourtant très bien de ce qu’il veut faire de l’original du pont bas. Quand Nadia ramène la carte vers elle en parlant du premier lot, il pose deux doigts sur le papier et demande à le garder. L’incertitude porte sur le tri en cours et coexiste avec un choix précis pour cette carte.
+### L’objet de la discussion change
 
-## Faire une place au provisoire
+Quand plusieurs pièces se ressemblent, il faut retenir laquelle est concernée pendant qu’on en parle.
 
-Nadia a besoin de savoir sur quoi elle peut commencer à travailler. Elle peut inscrire les quatre cartes à examiner sur une feuille et écrire ailleurs « pont bas : original repris par Armand, reproduction à vérifier ». Il pourra relire ces deux lignes avec elle avant de remettre quoi que ce soit. L’inventaire provisoire indique leur point d’arrêt ; il laisse une place pour revenir sur une question encore ouverte.
+**Exemples concrets**
 
-Dans cet échange, Nadia peut expliquer ce qu’un visiteur gagnerait à voir le pont bas et entendre qu’Armand tient à feuilleter son original. Lui présenter seulement la place que l’image prendrait dans la vitrine laisse une décision trop large à déduire. En ouvrant les deux cartes et en précisant que le verso resterait privé, ils trouvent une proposition qui répond à leurs deux préoccupations. La possibilité de conserver simplement l’original reste ouverte si l’essai ne lui plaît pas.
+- Au milieu des cinq cartes, la proposition de Nadia concerne les annotations du pont bas.
+- Devant trois photos retournées, une personne peut perdre le fil de celle dont on vient de discuter le cadrage.
 
-Le NICE recommande de favoriser l’expression de la personne dans les décisions sur ses soins et, lorsque c’est utile, d’adapter la façon de présenter les informations. Dans l’échange avec Nadia, le partage de l’image, le sort de l’original et le texte d’accompagnement peuvent aussi être traités séparément.
+### Une seule question cache plusieurs conséquences
+
+Un mot comme « montrer » peut laisser en suspens le support, la durée et le public.
+
+**Exemples concrets**
+
+- Armand distingue le don du papier et la présentation d’une reproduction.
+- Dans une association, accepter de prêter un carnet pour une réunion laisse encore à décider si quelqu’un pourra en garder une copie.
+
+### Un intérêt clair coexiste avec une hésitation
+
+La difficulté à tenir ensemble plusieurs options ne fait pas disparaître la raison de préférer l’une d’elles.
+
+**Exemples concrets**
+
+- Armand veut garder la date écrite au verso, même s’il réfléchit encore à l’image à montrer.
+- Une personne tient à récupérer son album familial et demande à voir quelle page l’équipe souhaite exposer.
+
+## 3 techniques pour examiner une option à la fois
+
+### 1. Rapprocher l’objet et la question
+
+Savoir immédiatement de quelle pièce on parle.
+
+**Exercice pratique**
+
+- Posez la carte concernée devant vous.
+- Écartez provisoirement les autres.
+- Dites en une phrase ce qui reste à décider pour celle-ci.
+
+La question reste rattachée à un objet visible pendant qu’on examine la réponse.
+
+### 2. Donner une place à chaque possibilité
+
+Distinguer l’original, la copie et leur destination.
+
+**Exercice pratique**
+
+- Placez les deux supports côte à côte.
+- Indiquez sous chacun ce qui en serait fait.
+- Laissez le temps de comparer ou de remettre la décision à plus tard.
+
+Ce dispositif permet de revenir sur une option sans reconstruire toute la discussion de mémoire.
+
+### 3. Emporter une trace de l’accord provisoire
+
+Retrouver plus tard ce qui est retenu et ce qui reste ouvert.
+
+**Exercice pratique**
+
+- Notez les conditions telles que la personne les formule.
+- Relisez ensemble le résultat devant les pièces.
+- Gardez une copie jusqu’à ce que la version définitive soit vérifiée.
+
+Les interlocuteurs repartent avec la même information et peuvent reprendre à l’étape utile.
 
 ## Les annotations du verso
 
 Armand rapporte les cinq cartes. Nadia lui confie deux exemplaires de la feuille provisoire, un pour la table et un à montrer s’il souhaite de l’aide au tri. Près du fauteuil, il sort la carte du pont bas de sa chemise et relit la date à laquelle Jeanne a fait le trajet à vélo. Il ne veut pas raconter cette sortie au foyer. Il la racontera peut-être à sa fille. Pour le public, il a envie de montrer l’endroit où la rampe commençait, parce qu’on en voit encore l’amorce depuis la rive.
+
+---
+
+**Conclusion**
+
+Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction ; la sortie de Jeanne reste une histoire qu’il racontera s’il en a envie.

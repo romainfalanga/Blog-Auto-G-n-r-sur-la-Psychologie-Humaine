@@ -29,22 +29,83 @@ Le téléphone vibre contre le sous-main. Léon a répondu qu’il connaît les 
 
 Blandine regarde l’heure. Sur le dernier projet elle avait gardé le silence et livré à temps, au prix de deux nuits de travail. Esther lui demande si elle peut prévenir la maquettiste. Blandine répond qu’elle doit d’abord compter les pages dont elle est sûre. Elle ferme le fil avec Léon, relève les numéros des chapitres terminés et propose de rappeler dans cinq minutes.
 
-## Ce que cache parfois un travail livré
+## Une livraison à l’heure peut coûter beaucoup
 
-Les difficultés liées à un deuil peuvent rester invisibles à des collègues qui voient surtout le résultat. Dans le cadre de l’évaluation d’un deuil prolongé, l’OMS invite les professionnels à examiner les effets importants sur la vie de la personne, y compris l’effort considérable qui peut être nécessaire pour maintenir ses activités.
+Le retentissement professionnel d’un deuil prolongé peut se voir dans l’effort nécessaire pour maintenir une activité. Un travail rendu à temps ne renseigne pas à lui seul sur les heures supplémentaires ni sur ce qui a dû être reporté pour y parvenir. Blandine le sait après deux nuits consacrées à rattraper une commande. Avec Esther, elle peut partir des chapitres réellement prêts.
 
-## Comment cette difficulté se manifeste
+## Comment le retentissement sur le travail peut-il rester invisible ?
 
-Pour Blandine, la question de l’effort s’éclaire en regardant les deux commandes ensemble. La précédente a été rendue, mais ses soirées et son sommeil ont été absorbés par le rattrapage. Cette fois, un retard menace une autre étape du travail.
+### Le fil se perd, le délai reste
 
-Sa compétence de relectrice est intacte dans la phrase qu’elle vient de reprendre. Sa thérapeute peut entendre à la fois ce plaisir de travail et le coût des derniers délais. Ces éléments servent à comprendre la situation dans son ensemble. La scène ne permet aucune conclusion sur une autre personne qui manque un délai ou qui pense à un proche pendant son travail.
+Reprendre une page après une longue interruption peut demander de retrouver ce qu’on vérifiait avant de continuer.
 
-## Proposer une remise dont on connaît les limites
+**Exemples concrets**
 
-La maquettiste a besoin d’un ordre de livraison sur lequel s’appuyer. Blandine vérifie avec Esther que le début peut partir seul. Elle annonce les deux chapitres relus et propose le lendemain matin pour le dernier, à condition que les questions sur les noms des serres soient réglées ensemble cet après-midi. Esther doit revoir son organisation ; elle peut dire que tel encadré lui est nécessaire avant le reste. Leur accord porte sur le document. Blandine choisit ce qu’elle explique de sa situation personnelle.
+- Blandine doit revenir aux mêmes noms après que son attention est repartie vers Jeanne.
+- Une personne relit un paragraphe plusieurs fois sans parvenir à reprendre la comparaison commencée.
 
-Il reste deux réponses à donner à des personnes qui n’attendent pas la même chose. Pour Léon, un rendez-vous peut être bref, après le repas familial prévu samedi, et avoir lieu ailleurs que dans la salle du chœur. Pour la thérapeute, Blandine met de côté deux faits à raconter : le temps passé à revenir au souvenir du banc et la fatigue accumulée autour du guide. Un collègue peut régler un horaire ; le suivi offre un autre lieu pour examiner ce qui se répète.
+### Le rattrapage déborde sur le reste
+
+Compenser les interruptions peut déplacer le coût sur le sommeil ou sur les engagements hors du travail.
+
+**Exemples concrets**
+
+- Blandine a terminé la commande précédente en travaillant deux nuits.
+- Quelqu’un décale une course et annule un dîner pour finir le dossier qui semblait avancer normalement.
+
+### L’incertitude concerne parfois une partie du travail
+
+Distinguer le travail prêt de ce qui réclame encore un contrôle permet de négocier un délai plus précis.
+
+**Exemples concrets**
+
+- Blandine peut envoyer le début du guide et fixer une heure pour refaire le point sur les noms.
+- Une collègue remet les tableaux vérifiés et prévient qu’elle ne promet pas encore l’annexe.
+
+## 3 techniques pour rendre le coût du travail plus visible
+
+### 1. Compter ce qui peut partir
+
+Donner une réponse fondée sur l’avancement réel.
+
+**Exercice pratique**
+
+- Écartez un instant les autres fils de conversation.
+- Relevez les parties dont vous êtes sûr.
+- Rappelez avec une proposition de remise partielle et une heure de point.
+
+Le travail peut avancer sans que tout le volume repose sur une promesse incertaine.
+
+### 2. Prévoir une reprise identifiable
+
+Retrouver le fil sans recommencer toute la relecture.
+
+**Exercice pratique**
+
+- Laissez un repère à l’endroit exact où vous vous arrêtez.
+- Notez le dernier contrôle terminé.
+- Reprenez par ce seul contrôle avant de rouvrir les autres demandes.
+
+Le repère peut limiter le temps passé à reconstruire la tâche.
+
+### 3. Apporter le coût réel au suivi
+
+Faire compter l’effort qui ne se voit pas dans le résultat final.
+
+**Exercice pratique**
+
+- Reprenez une livraison récente.
+- Précisez les heures de rattrapage et ce qu’elles ont déplacé.
+- Voyez avec votre professionnel quels ajustements seraient réalistes si le coût se répète.
+
+Le suivi peut s’appuyer sur la semaine vécue en plus du travail remis.
 
 ## Le début du guide part à midi
 
 Esther accepte de commencer avec le début du guide et fixe le point sur les noms pour quinze heures. Blandine lance l’envoi promis. Elle boit ensuite son café à la fenêtre, où les pots en terre du voisin ressemblent à de petits chapeaux renversés. À Léon, elle demande vingt minutes lundi à l’annexe de la bibliothèque, à distance de la salle du chœur. Il confirme. Le téléphone affiche aussi un message de Mireille pour samedi : « Tu apportes la tarte ou je la fais ? »
+
+---
+
+**Conclusion**
+
+Le début du guide part et le reste a désormais une heure de discussion. Blandine a communiqué assez pour que la maquettiste s’organise. Les nuits perdues gardent leur place dans ce qu’elle pourra aborder en suivi.

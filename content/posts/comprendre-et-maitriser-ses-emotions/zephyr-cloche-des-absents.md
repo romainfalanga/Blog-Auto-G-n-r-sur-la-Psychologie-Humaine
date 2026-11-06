@@ -31,18 +31,81 @@ Zéphyr pensait défendre sa sœur contre une moquerie qu’il entendait déjà 
 
 ## L’histoire derrière le geste
 
-Le sens d’un geste ou d’une conviction se comprend dans l’histoire et le milieu de la personne qui le partage. Le guide de la CIM-11 invite à en tenir compte : ce qui surprend quelqu’un d’extérieur peut être ordinaire dans un groupe culturel ou religieux. Une habitude de famille peut aussi avoir plusieurs sens pour ceux qui la gardent. Agnès sonne la cloche pour faire une place à sa mère et à Jeannette dans l’année. Elle peut raconter leurs mots sans demander à son frère ni aux visiteurs de croire la même chose.
+Le sens d’un geste familial ou d’une conviction se comprend dans l’histoire et le milieu où on les partage. Dans l’évaluation du trouble schizotypique, le contexte culturel compte avec les autres difficultés éventuelles et leur effet dans la vie de la personne. Le fait qu’un rituel surprenne un visiteur ne lui donne pas une signification clinique. Agnès et Zéphyr peuvent parler de la cloche sans lui attribuer exactement le même sens.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte du jugement change-t-elle la façon de raconter un rituel ?
 
-Dans cette cuisine, le problème immédiat est la moquerie de Zéphyr et son effet sur Agnès. Les difficultés plus anciennes de Zéphyr à se sentir à l’aise dans les échanges font partie de son histoire ; elles ne changent pas la signification de chaque souvenir. L’originalité de sa façon de parler et la croyance d’un proche s’éclairent ici par leur histoire commune.
+### On surveille les mots qu’on prononce
 
-## Garder une part à la maison
+La peur de la moquerie peut pousser à s’interrompre avant de dire ce que le geste signifie.
 
-Pour faire place à ce qu’Agnès veut transmettre, son frère peut lui demander ce qu’elle tient à garder dans la légende et ce qu’elle préfère réserver à la famille. Ils peuvent choisir une phrase au lieu de prêter l’objet. Le visiteur entendra alors un récit situé, sans avoir à dire ce qu’il croit. Il pourra, s’il le souhaite, parler à son tour d’un objet qu’il aurait reconnu au bruit.
+**Exemples concrets**
 
-La gêne de Zéphyr mérite aussi une place. Il peut dire « j’ai cru qu’on allait se moquer de nous » et écouter la réponse, même si elle est désagréable. Quand la peur du jugement pèse souvent sur des échanges qui comptent, une scène comme celle-ci peut servir de point de départ en consultation. La relation avec sa sœur a son propre enjeu : réparer le tort qu’elle vient de nommer.
+- Zéphyr hésite devant les mots de leur mère à propos de Jeannette.
+- À un repas, quelqu’un commence à expliquer un chant de deuil puis passe directement à la recette.
+
+### On se protège au prix d’un malentendu
+
+Une plaisanterie peut protéger de l’embarras et être entendue comme une moquerie par un proche.
+
+**Exemples concrets**
+
+- Le rire de Zéphyr blesse Agnès, pour qui la cloche garde une place.
+- Une personne plaisante sur une photo commémorative et sa sœur croit qu’elle méprise le souvenir.
+
+### Les limites du partage se précisent
+
+Une famille peut accepter que l’on raconte une tradition tout en gardant le geste ou l’objet chez elle.
+
+**Exemples concrets**
+
+- Agnès est prête à écrire une légende mais garde la cloche sur son buffet.
+- Deux proches autorisent le récit d’une recette de fête et préfèrent conserver l’enregistrement du repas.
+
+## 3 techniques pour parler d’une tradition à son rythme
+
+### 1. Recueillir les mots de chacun
+
+Laisser plusieurs sens coexister dans le récit.
+
+**Exercice pratique**
+
+- Demandez à un proche ce que le geste lui rappelle.
+- Dites ce qu’il évoque pour vous.
+- Gardez les mots propres à chacun si vos réponses divergent.
+
+Le contexte devient plus facile à raconter sans exiger une croyance commune.
+
+### 2. Définir ce qui peut être montré
+
+Respecter le droit des personnes concernées à garder une part privée.
+
+**Exercice pratique**
+
+- Distinguez un texte, un objet et un enregistrement.
+- Demandez un accord pour ce que vous envisagez de rendre public.
+- Relisez la version retenue et renoncez aux éléments que l’autre souhaite garder.
+
+Un accord précis permet de raconter une histoire sans engager le proche au-delà de ce qu’il a choisi.
+
+### 3. Revenir sur une plaisanterie qui a blessé
+
+Rétablir l’échange quand la gêne a masqué l’intention.
+
+**Exercice pratique**
+
+- Nommez la parole ou le rire qui a fait réagir l’autre.
+- Écoutez ce qu’il ou elle y a entendu.
+- Dites ce que vous regrettez et laissez le temps d’y répondre.
+
+Cette conversation donne sa place à la blessure sans transformer la tradition en débat.
 
 ## Une phrase, la cloche reste
 
 Agnès retourne une photo pour écrire sur le dos d’une enveloppe : « Chez nous, on sonne encore la cloche le jour de Jeannette. » Elle avait d’abord écrit « on sonnait ». Zéphyr l’attend pendant qu’elle rature le mot, puis lit sa nouvelle phrase sans imiter leur mère. Il s’excuse pour le rire. Agnès lui laisse recopier la légende pour la démonstration et remet la cloche sur son buffet. Elle ne veut plus qu’on la prête ; le son leur appartient encore un peu. Avant de partir, Zéphyr lui propose de revenir un autre jour pour l’aider à fixer la poignée du placard, comme il le lui doit depuis l’été.
+
+---
+
+**Conclusion**
+
+La cloche reste chez Agnès. Ce qui ira au musée tient dans la phrase qu’elle a choisie, avec son présent et ses limites. La peur de Zéphyr d’être jugé a pesé sur l’échange. Le sens de la tradition appartient à leur histoire.

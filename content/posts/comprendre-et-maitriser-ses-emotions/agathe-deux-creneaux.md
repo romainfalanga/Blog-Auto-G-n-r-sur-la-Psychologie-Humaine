@@ -34,14 +34,81 @@ Mme Roussel montra deux cases dans l’agenda : un petit essai jeudi et une pré
 
 Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre.
 
-## Comment cette difficulté se manifeste
+Une réunion d’aménagement peut demander à l’enfant de se prononcer sur des mots qu’il entend rarement. « Élargir les aménagements » ne dit pas à Agathe quelle consigne changera, dans quel lieu ni avec qui. La discussion devient plus accessible lorsque les adultes décrivent une action et laissent l’enfant dire si elle lui conviendrait.
 
-Agathe sait expliquer ce qui s’est passé devant le bureau, mais le vocabulaire de la réunion lui échappe par moments. Demander à l’enseignante ce qu’elle entend par « aménagements » change la suite de la discussion. Sa mère peut apporter ce qu’elle observe et Mme Roussel parler de ce qu’elle peut organiser à l’école. Le suivi du langage continue avec l’orthophoniste, sans que la réunion décide à sa place de la suite des soins.
+## Comment des mots de réunion peuvent-ils empêcher de donner son avis ?
 
-## Faire circuler ce qui permet d’agir
+### Un terme abstrait laisse la situation dans le flou
 
-Dans ce jardin, Camille a besoin de savoir comment rendre une consigne plus facile à reprendre et comment annoncer un changement. Les notes d’une séance d’orthophonie n’ont pas à circuler pour qu’elle fasse ces deux choses. Avant de transmettre une préférence, les adultes peuvent nommer le destinataire et expliquer ce qu’ils veulent lui dire. Agathe peut indiquer les mots qu’elle accepte ou en choisir d’autres. Pour distinguer l’essai du passage de relais, Mme Roussel et Agathe peuvent garder deux lignes dans l’agenda, avec pour chacune une date et une action. Il sera alors possible de déplacer l’une sans faire croire que l’autre a été annulée. Ce support aide à parler du programme commun ; il ne sert pas à mesurer le langage d’Agathe.
+Comprendre un mot ou une formule générale ne suffit pas toujours à imaginer ce qui sera fait.
+
+**Exemples concrets**
+
+- Agathe hésite sur ce que signifie « élargir les aménagements ».
+- Un enfant peut entendre « organiser un relais » sans savoir si cela change la personne, l’heure ou le lieu.
+
+### Deux rendez-vous peuvent se confondre
+
+Quand plusieurs actions sont évoquées ensemble, il faut pouvoir retrouver le but de chacune.
+
+**Exemples concrets**
+
+- Mme Roussel distingue l’essai de deux élèves et l’accueil de la classe entière.
+- Une famille peut avoir besoin de deux dates écrites quand un entretien et une visite sont annoncés dans la même phrase.
+
+### Donner son avis suppose de connaître le destinataire
+
+Pour choisir ce qu’il veut partager, l’enfant doit savoir qui recevra l’information et à quoi elle servira.
+
+**Exemples concrets**
+
+- Camille a besoin de la préférence d’Agathe pour les consignes, et pas des notes de séance.
+- À l’école, un élève peut accepter qu’un adulte connaisse son repère écrit et garder le reste du suivi privé.
+
+## 3 techniques pour rendre une réunion d’aménagement compréhensible
+
+### 1. Traduire la formule en une scène ordinaire
+
+Permettre à l’enfant de juger ce que la proposition changerait.
+
+**Exercice pratique**
+
+- Choisissez la formule qui reste abstraite.
+- Expliquez qui ferait quoi dans une situation familière.
+- Demandez si l’appui semble utile ou appelle un changement.
+
+L’enfant peut répondre à une proposition qu’il peut se représenter.
+
+### 2. Écrire une action par créneau
+
+Séparer les décisions qui ont des calendriers différents.
+
+**Exercice pratique**
+
+- Tracez une case pour chaque rendez-vous.
+- Inscrivez le groupe, le lieu et l’action.
+- Montrez à l’enfant la case qui le concerne avant de confirmer.
+
+Un changement de date peut ensuite se lire sans refaire toute la réunion.
+
+### 3. Valider le message destiné à un tiers
+
+Partager les seuls repères utiles à la personne qui agit.
+
+**Exercice pratique**
+
+- Nommez le destinataire et ce dont il a besoin.
+- Relisez la phrase avec l’enfant et son parent.
+- Modifiez ou retirez ce qu’ils ne souhaitent pas communiquer, puis convenez de la transmission.
+
+L’équipe peut mettre en place l’appui tout en préservant le cadre du suivi.
 
 ## Un jeudi, puis un autre
 
 Mme Roussel écrivit dans la première case « deux CM1 essayent la carte », puis dans la seconde « accueil de la classe au jardin ». Elle s’occuperait de demander à l’autre enseignante quels élèves pouvaient venir au premier essai et confirmerait le second créneau. Agathe demanda à voir la première ligne avant de partir ; elle la copia au dos de son plan. Sa mère rangea le dossier dans son sac. Sur le pas de la porte, elle demanda à Agathe si elle voulait rester cinq minutes pour reparler du collège. Agathe vérifia l’heure à l’horloge de la classe. « Pas aujourd’hui. On va au marché demain. Là, j’ai encore le temps de passer voir les pots sur le balcon. »
+
+---
+
+**Conclusion**
+
+Agathe repart avec la ligne du premier essai et laisse la discussion sur le collège pour un autre moment. Les adultes ont maintenant deux actions précises à organiser. Elle a pu prendre part à celles qui la concernent en sachant de quel jeudi ils parlaient.

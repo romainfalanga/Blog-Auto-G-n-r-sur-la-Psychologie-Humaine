@@ -29,22 +29,83 @@ Mme Roussel frappe au chambranle. Elle a parlé à Eva de ce qui s’est passé 
 
 Adèle essaie de retrouver de mémoire le bruit juste avant le démarrage du métier. Elle voudrait entendre où Inès mettra le frottement. Elle voudrait aussi s’endormir dans son lit à elle. La petite salle a servi une fois. Elle repense au moment où elle n’a plus pu entrer dans le réfectoire. Ce qui lui importe, maintenant, c’est de savoir si elle devra tout recommencer au petit déjeuner. Elle demande à Mme Roussel si elle sera encore accessible demain matin. Puis elle demande à sa mère de rester au téléphone le temps d’entendre la réponse. Le volet ne claque plus ; Eva a dû le fermer.
 
-## Distinguer les craintes autour du repas et l’envie de rentrer
+## Quand le prochain repas pèse sur la nuit
 
-Un repas difficile dans l’ARFID peut peser sur la décision de rester pour une activité sans résumer ce que la personne veut faire. Adèle a pu utiliser l’alternative préparée avec les adultes. Il reste à savoir comment le séjour peut continuer dans des conditions qui lui conviennent et qui respectent son suivi. Elle est aussi loin de sa chambre pour la première fois avec sa classe. Avoir envie de retrouver son lit ne dit pas, à lui seul, comment sa santé évolue ou ce dont elle aura besoin au prochain repas.
+Une difficulté autour d’un repas peut avoir des effets au-delà de ce qui s’est passé à table. Après un repas difficile, la crainte de revivre la même situation peut peser sur une autre décision, comme dormir sur place. Adèle aimerait rester avec Inès et retrouver aussi le confort de son lit. Il lui manque une information précise : l’appui du petit déjeuner sera-t-il encore accessible ?
 
-## L’inquiétude qui revient à la pensée du petit déjeuner
+## Comment le repas suivant entre-t-il dans une décision qui semble porter sur autre chose ?
 
-De retour dans la chambre, Adèle rit avec Inès en regardant leur dessin. Au moment de décider où dormir, elle repense à la porte du réfectoire, où elle n’est pas parvenue à entrer pour dîner. La petite salle a été accessible une fois. Elle se demande encore si elle pourra s’en servir le matin et demande à sa mère de rester au téléphone pour entendre la réponse. Elle a aussi envie de retrouver son lit chez elle.
+### Le souvenir du dîner revient dans la chambre
 
-## Conserver une possibilité de retour
+La personne peut anticiper une répétition alors que le repas précédent est déjà terminé.
 
-Eva et Mme Roussel peuvent vérifier que l’appui disponible au dîner le sera aussi au petit déjeuner et dire à Adèle qui pourra la recevoir. Pour les questions liées au plan de soins, elles s’en tiennent aux consignes de l’équipe. Eva peut parler avec Adèle de ce qu’elle a aimé à l’atelier, quelle que soit sa décision sur la nuit.
+**Exemples concrets**
 
-Le trajet du retour a été discuté avant le départ. Mme Roussel et Eva peuvent redire qui appelle si une difficulté apparaît pendant la nuit ou au réveil et où trouver un adulte. Adèle n’a pas à promettre qu’elle restera jusqu’à l’heure du car pour choisir de remonter dans la chambre maintenant. Elle sait aussi où se trouve Mme Roussel pendant la nuit et comment lui demander de l’aide.
+- Adèle repense au moment où elle n’a plus pu entrer au réfectoire.
+- Un jeune se prépare à dormir et se demande s’il retrouvera le même bruit au petit déjeuner.
 
-Si elle souhaite rester, une tâche l’attend avec Inès : choisir comment présenter leur travail. Elles peuvent avancer un peu ce soir et remettre la décision au matin. Le téléphone, la clé de la petite salle et le carnet ont chacun leur place dans cette soirée. Adèle n’est pas chargée de les tenir tous en même temps.
+### Plusieurs inquiétudes coexistent
+
+Une décision peut dépendre à la fois d’un besoin de confort, d’un projet qui plaît et d’une question alimentaire.
+
+**Exemples concrets**
+
+- Adèle a envie d’entendre le montage avec Inès et aimerait être dans son lit.
+- Une personne voudrait rester pour une activité du lendemain et hésite aussi à cause de la nuit hors de chez elle.
+
+### Un renseignement peut rouvrir la décision
+
+Confirmer le soutien du lendemain peut permettre de choisir, sans garantir comment le repas se passera.
+
+**Exemples concrets**
+
+- Mme Roussel confirme le relais de M. Benhamou et l’accès à la petite salle.
+- Un adulte vérifie qui sera joignable le matin avant que le jeune et son parent décident ensemble de la suite.
+
+## 3 techniques pour décider après un repas difficile
+
+### 1. Séparer les raisons d’hésiter
+
+Repérer la question qui peut recevoir une réponse maintenant.
+
+**Exercice pratique**
+
+- Dites ce qui vous donne envie de rester.
+- Nommez ce qui vous ferait préférer rentrer.
+- Choisissez le renseignement qui vous manque encore pour décider.
+
+Il devient possible de répondre à une incertitude précise plutôt qu’à la soirée entière.
+
+### 2. Demander une confirmation pour le prochain repas
+
+Savoir quel soutien du plan sera disponible.
+
+**Exercice pratique**
+
+- Demandez au responsable qui prendra le relais le matin.
+- Faites confirmer le lieu et la façon de demander l’appui.
+- Demandez que votre parent ou adulte de confiance entende la réponse si cela vous aide.
+
+Les personnes concernées savent à quoi se référer au prochain repas.
+
+### 3. Prévoir ce qui reste révisable
+
+Garder un recours après avoir choisi pour la nuit.
+
+**Exercice pratique**
+
+- Vérifiez qui est joignable et où frapper.
+- Dites votre décision avec les informations dont vous disposez.
+- Demandez aux adultes de revoir la suite selon le plan si une difficulté survient.
+
+Une décision de rester n’engage pas à surmonter seul une situation imprévue.
 
 ## Le volet est fermé
 
 Mme Roussel confirme le relais de M. Benhamou au petit déjeuner et l’accès à la petite salle. Adèle dit qu’elle veut rester. Eva lui souhaite bonne nuit et confirme qu’elle demeure joignable. Mme Roussel lui montre où frapper si elle a besoin d’elle pendant la nuit. De retour au lit, Adèle demande à Inès de lui faire entendre le frottement, puis éteint la lampe. Elle se réveille plus tard sans savoir combien de temps elle a dormi. Sa main trouve le coin du carnet dans le noir. Elle finit par se rendormir.
+
+---
+
+**Conclusion**
+
+Adèle reste après avoir entendu qui sera là le matin et comment joindre sa mère. Elle retrouve le son enregistré avec Inès. La réponse sur le petit déjeuner lui donne un appui, sans lui promettre une nuit ni un repas faciles.

@@ -29,16 +29,81 @@ Elle raconte la dame au balcon, puis le bocal posé trop près de son départ. E
 
 ## Reconnaître ce autour de quoi la crainte s’organise
 
-La distinction porte sur l’ensemble de l’histoire. Dans le trouble de détresse physique, les symptômes pénibles et leurs effets prennent une place durable. Une personne peut également se demander s’ils indiquent une maladie. Dans l’hypocondrie telle que la CIM-11 la décrit, c’est la peur durable d’avoir une maladie grave qui organise la préoccupation. Des sensations corporelles peuvent être présentes dans cette autre situation. La question posée par Nina aide à préciser ce qui compte pour Laure dans une scène, puis à le replacer dans le suivi déjà en cours.
+Les symptômes pénibles et la crainte d’une maladie peuvent coexister. Dans le trouble de détresse physique, l’attention porte surtout sur les symptômes ressentis, leur gravité ou leurs effets. Dans l’hypocondrie au sens de la CIM-11, la préoccupation durable d’avoir une maladie grave occupe le premier plan. L’équipe situe cette distinction dans l’histoire entière. Laure explique à Nina qu’auprès du bocal elle pensait surtout à ce qu’elle pourrait faire ensuite, même si d’autres jours elle s’inquiète d’une maladie qui aurait échappé au bilan.
 
-## Suivre la question jusqu’à ce qu’elle change
+## Comment la crainte d’une maladie se mêle-t-elle au poids des symptômes ?
 
-À la bibliothèque, Laure se demande comment elle terminera la journée avec la fatigue qu’elle connaît. L’estimation devient longue et vient au milieu d’un échange. Un autre jour, elle s’était inquiétée d’une maladie en lisant le résultat d’un examen et voulait que la Dre Valette lui en explique un terme. Dans les deux cas, elle a quelque chose à dire sur son corps. Pour les comprendre, il faut demander ce qu’elle cherchait à obtenir, le temps que cela lui a pris et ce qui s’est passé ensuite. Un énoncé isolé donne peu d’éléments.
+### Une activité paraît plus coûteuse à cause de ce que l’on ressent
 
-## Se rappeler un exemple entier
+L’inquiétude peut porter surtout sur ce que la douleur ou la fatigue rendra possible dans la journée.
 
-Nina lui propose de retenir une seule situation entre deux consultations, avec ce qu’elle faisait avant que l’attention se fixe et ce qu’elle a pu choisir ensuite. Laure préfère la raconter après coup, quand elle peut se souvenir de la tâche et de la personne présente. Elles conviennent que les nouvelles plaintes seront abordées dans le cadre médical prévu. La psychologue aidera Laure à travailler sur les conséquences pour sa vie et sur ses décisions. Elles gardent assez de souplesse pour renoncer à la note si la chercher prend toute la place.
+**Exemples concrets**
+
+- Laure pense au déjeuner et à la fatigue du soir avant de laisser le bocal à Yasmina.
+- Une personne se demande si son bras douloureux lui permettra encore de porter ses courses après son créneau.
+
+### La question peut aussi porter sur une cause grave
+
+Redouter une maladie est une expérience qui peut accompagner plusieurs situations cliniques.
+
+**Exemples concrets**
+
+- Laure se souvient de jours où elle s’est demandé si une maladie lui échappait.
+- Une personne relit une ancienne note parce qu’elle se demande si une affection grave a pu rester inaperçue.
+
+### Les deux questions peuvent appeler des réponses différentes
+
+Dire ce qui inquiète à un moment précis aide le professionnel à comprendre ce qui a besoin d’être examiné.
+
+**Exemples concrets**
+
+- Au rendez-vous, Laure veut reparler du moment où elle a hésité entre faire à manger et relire les notes.
+- Quelqu’un demande au médecin ce qu’il faut signaler et discute aussi de la fatigue qui gêne son activité.
+
+## 3 techniques pour préciser ce qui inquiète dans une situation de santé
+
+### 1. Partir d’une décision ordinaire
+
+Décrire l’effet concret du symptôme et de l’inquiétude.
+
+**Exercice pratique**
+
+- Choisissez un moment où vous avez hésité.
+- Racontez ce que vous ressentiez et ce que vous redoutiez à cet instant.
+- Dites quelle décision vous avez prise ensuite.
+
+Le professionnel peut entendre ce qui a pesé le plus dans cette situation sans en tirer de conclusion sur un seul exemple.
+
+### 2. Formuler la question médicale
+
+Obtenir un repère sur ce qui a été examiné et ce qui resterait à signaler.
+
+**Exercice pratique**
+
+- Choisissez la question qui reste ouverte pour vous.
+- Demandez ce que l’évaluation permet de dire aujourd’hui.
+- Faites préciser comment joindre le service en cas de changement.
+
+Une réponse située peut éviter de demander à un ancien résultat de répondre à toutes les questions nouvelles.
+
+### 3. Relier les objectifs des soignants
+
+Garder un suivi compréhensible quand plusieurs personnes interviennent.
+
+**Exercice pratique**
+
+- Identifiez ce que vous voulez travailler avec chaque professionnel.
+- Décidez de ce qu’ils peuvent se transmettre avec votre accord.
+- Demandez comment chacun reprendra ce qui vous gêne dans les activités.
+
+Les soins peuvent tenir compte de la douleur, des craintes et de la vie quotidienne sans confondre leurs rôles.
 
 ## La visiteuse au balcon
 
 Laure choisit de parler au prochain rendez-vous d’une minute pendant laquelle elle a hésité entre préparer le déjeuner et relire ses notes médicales. Elle reprend le papier de la Dre Valette et confirme à Nina qu’un échange bref sur leurs objectifs lui convient. Dehors, son téléphone indique un message de Yasmina. La dame au balcon a demandé à quelle heure revenir pour montrer une photo de ses pots. Laure a envie de l’accueillir. Elle répond qu’elle peut se libérer pour un deuxième essai si le planning inclut le même relais.
+
+---
+
+**Conclusion**
+
+Le bocal donne à Laure et Nina un exemple de la place prise par les conséquences de la fatigue. La crainte d’une maladie pourra être discutée aussi. Laure choisit ce qu’elle veut transmettre et répond à Yasmina à partir du relais dont elle sait avoir besoin.

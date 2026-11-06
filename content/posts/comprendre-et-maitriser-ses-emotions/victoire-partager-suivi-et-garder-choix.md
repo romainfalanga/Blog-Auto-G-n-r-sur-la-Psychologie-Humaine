@@ -35,14 +35,79 @@ Simon commence par demander ce qu’il doit faire. Victoire lui dit qu’elle so
 
 La HAS recommande de tenir compte de l’entourage dans l’accompagnement quand sa participation peut se discuter avec la personne. Un adulte peut choisir la part qu’il souhaite lui faire connaître et revenir sur cet accord. Les proches peuvent avoir envie de faire tout de suite quelque chose, surtout s’ils découvrent une difficulté qui dure. Simon propose de remplacer sa sœur parce qu’il voit une tâche concrète qu’il pourrait prendre.
 
-## Ce que Simon remarque et ce que Victoire lui confie
+## Comment un proche peut-il aider tout en laissant la décision à la personne ?
 
-Simon a entendu au téléphone que Victoire paraissait fatiguée. Il lui propose de tenir l’accueil seul. Victoire pense à la soirée qu’elle avait voulu annuler et lui explique pourquoi certains rendez-vous lui demandent tant d’effort. Elle le prend à part et lui confie le nom du trouble. Elle tient aussi à sa place à l’accueil et souhaite décider elle-même quand elle aura besoin d’une pause.
+### La confidence peut entraîner une offre large
 
-## Donner un appui précis plutôt que s’engager à tout prendre en charge
+Un proche qui apprend le diagnostic peut proposer de prendre une tâche entière avant de savoir ce qui est demandé.
 
-Une proposition peut préciser à quel moment et sur quoi le proche est disponible. Simon peut tenir l’accueil pendant une pause et annoncer à Victoire s’il doit partir. Victoire peut dire quand elle voudrait lui transmettre une question sur sa santé ou lui demander une présence à un rendez-vous, si cette idée lui convient plus tard. Victoire peut aussi parler avec Nora de ce que le partage change pour elle. Le service reste le bon interlocuteur pour évaluer les symptômes et décider de la suite. Sur le moment, Simon veut savoir ce qu’il peut dire au groupe. Il pourra dire que Victoire tient l’accueil et qu’il la relaye pendant les pauses. L’échange laisse aussi de la place à leur relation de frère et sœur. Ils peuvent décider de reparler du disque qu’ils n’ont pas encore écouté ensemble.
+**Exemples concrets**
+
+- Simon commence par demander ce qu’il doit faire après la confidence de Victoire.
+- Une personne informée d’une difficulté peut proposer de tenir tout un accueil alors qu’on souhaitait seulement pouvoir s’absenter quelques minutes.
+
+### Un relais peut laisser le rôle principal à la personne
+
+Préciser le moment et la tâche donne une forme à l’aide tout en gardant l’activité à celui qui l’a choisie.
+
+**Exemples concrets**
+
+- Victoire veut accueillir elle-même les participants et demande une disponibilité si elle doit quitter la table.
+- Elle montre à Simon où ranger la pince pour qu’il puisse reprendre les plans au besoin.
+
+### La confiance inclut les limites de la confidence
+
+L’accord sur le soutien ne décide pas de ce que d’autres personnes sauront du diagnostic.
+
+**Exemples concrets**
+
+- Simon demande ce qu’il pourra dire si on lui demande des nouvelles.
+- Victoire lui demande de garder le nom du trouble entre eux et ils peuvent ensuite parler du disque.
+
+## 3 techniques pour définir un relais que chacun choisit
+
+### 1. Séparer la confidence de la demande
+
+Dire à un proche ce que vous attendez de lui dans une situation précise.
+
+**Exercice pratique**
+
+- Choisissez l’information que vous souhaitez lui confier.
+- Indiquez la part de l’activité que vous voulez garder.
+- Proposez une action qu’il peut accepter, refuser ou modifier.
+
+Les deux personnes peuvent décider de l’aide à partir d’une demande concrète.
+
+### 2. Préparer un relais ponctuel
+
+Permettre un passage de main sans devoir tout organiser au moment de partir.
+
+**Exercice pratique**
+
+- Convenez du créneau où le proche peut se rendre disponible.
+- Montrez-lui une tâche à reprendre et les objets utiles.
+- Choisissez comment demander le relais et reprendre votre place ensuite, si vous le souhaitez.
+
+L’accord est utilisable sur place et chacun connaît sa marge de choix.
+
+### 3. Convenir d’une réponse aux questions extérieures
+
+Protéger ce qui a été confié en préparant une situation courante.
+
+**Exercice pratique**
+
+- Dites ce qui doit rester entre vous.
+- Choisissez une réponse pratique que le proche peut donner si quelqu’un l’interroge.
+- Reparlez ensemble de cet accord si vous souhaitez modifier la place du proche.
+
+Une limite claire aide le proche à répondre sans divulguer une information de santé.
 
 ## La pince reste à droite du porte-cartes
 
 Simon dit qu’il sera disponible au départ et qu’il pourra tenir l’accueil un moment si elle en a envie. Victoire lui montre où ranger la pince dont elle se sert d’une seule main. Elle rejoint Lila pour fixer au mur le plan que Manu présentera. Avant de partir, Simon lui demande si elle a encore sa version du morceau de dimanche. Elle répond qu’elle la lui apportera une autre fois.
+
+---
+
+**Conclusion**
+
+Simon sait où sont les pinces et quand Victoire pourra l’appeler. Elle garde l’accueil et le choix de ce que son frère peut transmettre. En préparant ce relais, ils trouvent une place pour l’aide qui laisse aussi vivre leur lien autour du disque.

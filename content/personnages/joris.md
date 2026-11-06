@@ -42,7 +42,7 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-feuille-quil-peut-examiner/">Une impression d’étrangeté et ce qu’on peut constater ensemble</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-feuille-quil-peut-examiner/">Distinguer l’étrangeté ressentie de ce qui se passe autour de soi</a></h3>
     <p class="parcours-resume">Joris reconnaît la bibliothèque alors qu’elle lui semble étrange. Dounia lui parle au même moment d’un reflet qui la gêne pour lire. Joris peut entendre sa demande et s’en occuper tout en reconnaissant sa propre impression. C’est un exemple de ce que les cliniciens appellent l’épreuve du réel préservée dans le trouble dépersonnalisation-déréalisation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-feuille-quil-peut-examiner/" class="parcours-link">Lire</a>
   </div>
@@ -66,38 +66,38 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-loin-de-la-regie/">Retrouver la même impression dans une sortie choisie</a></h3>
-    <p class="parcours-resume">Joris s’attendait à se sentir plus disponible en dehors de la bibliothèque. Lors d’une exposition avec Samir, une impression de distance revient pourtant. Il sait où il est et aimerait voir les œuvres. Les manifestations du trouble peuvent varier d’un moment à l’autre. La scène permet de regarder ce que Joris fait de cette sortie alors qu’il n’en connaît pas précisément la cause.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-loin-de-la-regie/">Quand l’impression de distance revient loin du travail</a></h3>
+    <p class="parcours-resume">Joris pensait que la sortie avec Samir lui demanderait moins d’effort que les essais de lumière. Il retrouve une impression de distance au milieu de l’exposition, bien qu’il ait envie de voir les estampes. Les manifestations du trouble dépersonnalisation-déréalisation peuvent revenir dans des contextes différents. Joris choisit la suite de sa visite avec Samir sans attendre d’en connaître la cause.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-loin-de-la-regie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-quand-la-question-prend-la-place/">Quand chercher une explication prend toute la conversation</a></h3>
-    <p class="parcours-resume">Joris raconte qu’à l’exposition, il revenait à la même question au lieu de parler des estampes avec Samir. Il voudrait comprendre pourquoi l’impression revient et retrouver plus de place pour l’échange. Le rendez-vous permet de prendre sa question au sérieux et de choisir un objectif de suivi lié à ce qu’il souhaite faire de ses journées.</p>
+    <p class="parcours-resume">Joris voulait dire à Samir quelle estampe lui plaisait. Il a surtout passé du temps à chercher pourquoi la gêne revenait. Dans le trouble dépersonnalisation-déréalisation, une inquiétude sur ce que signifie l’impression peut s’ajouter à la gêne elle-même. Avec sa psychiatre, Joris reprend la conversation qu’il aurait voulu avoir et choisit ce qu’il veut aborder au suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-quand-la-question-prend-la-place/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-demande-qui-change-lessai/">Demander du temps quand une nouvelle consigne arrive</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-demande-qui-change-lessai/">Suivre une consigne qui change en pleine répétition</a></h3>
     <p class="parcours-resume">Luc demande un changement au dernier essai. Joris comprend l’enjeu, mais la gêne rend difficile le passage d’une consigne à l’autre. Il pense d’abord qu’Ava ferait mieux de tout reprendre. Le trouble peut compliquer des activités que la personne sait mener. La scène montre comment Joris demande de la place pour réfléchir et choisit le rôle qu’il veut garder.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-la-demande-qui-change-lessai/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-laccueil-quil-peut-choisir/">Rester disponible aux autres quand on se sent distant</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-laccueil-quil-peut-choisir/">Tenir à une rencontre quand l’enthousiasme paraît lointain</a></h3>
     <p class="parcours-resume">Joris tient à recevoir Dounia et Luc après la lecture. Quand il se sent distant, il craint pourtant de paraître indifférent à ce qu’ils lui disent. Le trouble dépersonnalisation-déréalisation peut modifier la façon dont une personne éprouve une émotion alors même que la rencontre compte pour elle. Joris demande aux auteurs comment ils aimeraient être reçus et définit la place qu’il veut tenir.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-laccueil-quil-peut-choisir/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-une-question-apres-la-lecture/">Prendre part à une soirée qui demande de l’effort</a></h3>
-    <p class="parcours-resume">Le soir de la lecture, Joris mène les réglages prévus et rejoint les auteurs au foyer. Une impression de distance revient au milieu d’un échange. Il parvient à poser sa question, puis décide de la durée de sa présence. Une activité menée à bien peut compter pour la personne tout en lui demandant un effort que les autres aperçoivent peu.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-une-question-apres-la-lecture/">Quand la disponibilité change au cours d’une soirée</a></h3>
+    <p class="parcours-resume">Joris mène les réglages de la lecture et rejoint les auteurs au foyer. La gêne revient pendant un échange avec Dounia. Il pose la question qu’il avait préparée, puis décide de garder la suivante pour plus tard. Le trouble dépersonnalisation-déréalisation peut demander plus d’effort à certains moments d’une même soirée, même quand on tient le rôle prévu au départ.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-une-question-apres-la-lecture/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-ce-quil-veut-faire-ensuite/">Faire le bilan et choisir la suite</a></h3>
-    <p class="parcours-resume">La lecture a eu lieu, et Joris a accueilli Dounia et Luc. Les moments de détachement reviennent encore et sa psychiatre lui demande ce qu’il aimerait changer dans son quotidien. En reprenant ce qui a demandé de l’effort et ce qui lui a donné envie de poursuivre, Joris fait une place à son suivi et à un autre projet de lumière.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/joris-ce-quil-veut-faire-ensuite/">Un projet abouti et une gêne qui persiste au quotidien</a></h3>
+    <p class="parcours-resume">La lecture a eu lieu et Joris a accueilli Dounia et Luc. Un autre soir au studio, il perd pourtant une partie du récit de Samir. Dans le trouble dépersonnalisation-déréalisation, les difficultés du quotidien peuvent durer au-delà d’un projet mené à bien. Le bilan avec sa psychiatre permet à Joris de préciser ce qu’il aimerait changer dans ses échanges ordinaires.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/joris-ce-quil-veut-faire-ensuite/" class="parcours-link">Lire</a>
   </div>
 </div>

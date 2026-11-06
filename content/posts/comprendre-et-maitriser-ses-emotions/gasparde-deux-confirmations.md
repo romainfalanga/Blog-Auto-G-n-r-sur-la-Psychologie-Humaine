@@ -30,20 +30,81 @@ Basile revient avec un registre à grands carreaux. Il l’ouvre au milieu, là 
 
 ## Deux problèmes sur la même table
 
-Un incident réel mérite une réponse concrète, même lorsqu’il s’accompagne d’une inquiétude plus difficile à départager. Gasparde et Basile ont bien envoyé deux confirmations incompatibles. Ils peuvent reprendre les heures d’envoi et corriger les réservations. Le sentiment d’être visée demande une autre conversation, si Gasparde souhaite l’avoir. L’un de ces sujets peut avancer alors que l’autre reste douloureux.
+Un incident réel mérite une réponse précise, même quand il est vécu comme la preuve d’une intention hostile. Dans le trouble délirant, un problème vérifiable peut coexister avec un sentiment persistant d’être visé. Basile a effectivement retiré le prénom sans prévenir Gasparde. Les confirmations incompatibles sont également réelles. Le motif que Gasparde attribue à ces faits et la détresse qu’elle éprouve peuvent faire l’objet d’un autre échange.
 
-L’OMS décrit, dans le trouble délirant, des degrés variables de détresse, de préoccupation et de conviction.
+## Comment le sentiment d’être visée se mêle-t-il à une erreur de réservation ?
 
-## Comment cette difficulté se manifeste
+### L’oubli réel rend la crainte plus difficile à départager
 
-Chez Gasparde, le geste de Basile vers le casier et le choc de la chaise deviennent très saillants à un moment où elle redoute une mise en cause. Sa compétence sur les réservations se voit aussi. Elle retrouve l’ordre des confirmations et se rappelle une contrainte qui compte pour Dounia.
+Un défaut de communication demande à être reconnu, quelle que soit la lecture que chacun en fait.
 
-## Rendre la correction possible pour les deux
+**Exemples concrets**
 
-Un registre commun peut servir à décider sur quelle information s’appuyer. Gasparde demande que le club note une réservation avant d’en confirmer l’heure. Il faut aussi décider qui regarde les messages et à quels moments. Si chacun pense que l’autre s’en occupe, la même erreur pourra revenir avec un support plus propre.
+- Basile confirme qu’il a changé la feuille sans le dire à Gasparde.
+- Une personne apprend que la salle a bien été déplacée avant d’être prévenue et se demande si l’oubli était délibéré.
 
-Basile peut reconnaître le changement qu’il a affiché sans prévenir et prendre une part de la correction. Dounia et Agnès ont chacune reçu une promesse. Dire clairement ce qui s’est passé leur permet de décider avec des informations fiables. Pour la suite, le club peut prévoir une règle de priorité qui s’applique à toutes les personnes, y compris aux adhérents connus de longue date. Les deux bénévoles pourront alors s’y référer au lieu d’avoir à défendre leur décision de mémoire.
+### Une erreur partagée devient un reproche anticipé
+
+Quand la peur d’être visé est présente, on peut s’attendre à porter seul la faute.
+
+**Exemples concrets**
+
+- Les confirmations sont parties de deux relevés, mais Gasparde imagine que le doublon lui sera reproché.
+- Deux collègues écrivent sur des plannings séparés et l’un craint que son erreur soit la seule retenue.
+
+### Un fait se corrige même si la gêne demeure
+
+Une décision d’organisation n’efface pas nécessairement la peur qui s’y est attachée.
+
+**Exemples concrets**
+
+- Gasparde veut appeler Dounia et demande à Basile de joindre Agnès.
+- Une personne remet une date correcte au tableau et souhaite reparler plus tard de la façon dont elle a appris le changement.
+
+## 3 techniques pour traiter un incident réel quand on se sent visé
+
+### 1. Comparer les confirmations
+
+Reconstituer ce que les adhérents ont reçu.
+
+**Exercice pratique**
+
+- Placez les deux confirmations côte à côte.
+- Relevez les heures d’envoi et les créneaux promis.
+- Appliquez la règle commune pour proposer un nouvel horaire.
+
+Les personnes concernées peuvent obtenir une réponse sans attendre une discussion sur les intentions.
+
+### 2. Répartir les appels
+
+Garder à chacun sa part du travail et de la décision.
+
+**Exercice pratique**
+
+- Identifiez qui a déjà parlé à chaque personne.
+- Convenez ensemble des appels à passer.
+- Consignez les réponses dans le même registre.
+
+La réparation est visible et ne repose pas sur une seule personne.
+
+### 3. Choisir où parler du sentiment d’être visé
+
+Faire entendre la détresse en dehors de la correction administrative.
+
+**Exercice pratique**
+
+- Nommez la partie qui reste douloureuse après les appels.
+- Décidez si vous voulez en parler à un proche ou à l’équipe qui vous suit.
+- Si la gêne persiste, décrivez ce qui prend encore du temps ou de l’énergie.
+
+L’échange peut porter sur ce que vous vivez sans effacer le problème réel ni chercher à établir une intention.
 
 ## La première page du registre
 
 Dounia confirme qu’elle compte venir mardi à dix-huit heures. Agnès accepte dix-neuf heures, après avoir demandé à sa sœur si elle peut décaler le dîner. Basile inscrit les deux heures. Gasparde trace un trait en haut de la page et écrit « essai, trois semaines ». Elle tient à ce qu’une heure d’accueil figure aussi dans la prochaine version. Dounia, encore au téléphone, lui demande si on pourrait y venir pour essayer, même sans connaître les autres. Gasparde lui propose d’en parler mardi sur place. Elle range le vieux carnet dans son sac et laisse le registre ouvert sous la lampe.
+
+---
+
+**Conclusion**
+
+Le registre tient désormais les deux réponses sur la même page. Gasparde peut vérifier l’accord de Dounia et Basile assume son appel. L’incident a une solution précise, même si le sentiment d’avoir été visée ne se règle pas au bout du fil.

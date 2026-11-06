@@ -29,20 +29,83 @@ Depuis son appel à l’équipe, il a eu un premier échange et ils ont convenu 
 
 Lucie pose le casque sur la table et lui dit que sur une partie du trajet elle ne pourra pas lire de messages. Elle lui demande ce qui l’inquiète pour les prochaines heures. Émilien pense d’abord qu’il aurait préféré qu’elle reste. Il finit par dire qu’il ne veut pas manger seul. Lucie peut rester déjeuner avant de partir. Elle ne veut pas passer la randonnée à vérifier qu’il a bien terminé son repas. Dans l’entrée, les deux vélos ne sont pas encore sortis.
 
-## Comprendre la différence entre présence et disponibilité permanente
+## Un appui relationnel qui a un début et une fin
 
-Dans une période difficile, il est possible de vouloir davantage de présence tout en rencontrant les limites de ceux qui la proposent. Le NICE prévoit que les proches puissent aussi avoir accès à un soutien pour eux. Quand Lucie précise les heures où elle sera joignable, elle parle de ce qu’elle peut offrir aujourd’hui.
+Une période de retrait peut laisser intact le désir de présence, même quand prendre une initiative coûte davantage. Un proche peut proposer un appui précis, en fonction de ce qu’il accepte et peut faire. Émilien voudrait savoir si Lucie lira ses messages pendant la randonnée. Ce qu’il arrive finalement à nommer, c’est le déjeuner qu’il ne veut pas prendre seul. L’accord pratique et le suivi clinique peuvent répondre à des besoins différents.
 
-## La crainte de rester seul prend de la place
+## Comment le besoin de présence se dit-il pendant une période de retrait ?
 
-Émilien laisse de côté le message de Dorian alors que l’écoute au marché l’intéressait. Il a apprécié de parler avec Lucie. Quand elle boucle son casque, il lui demande de garder le téléphone à portée de main et n’arrive d’abord à penser qu’au moment où elle partira. En précisant ce qui lui pèse, il trouve un exemple concret. Il redoute le repas seul et souhaite un moment de compagnie.
+### La demande arrive au moment de se quitter
 
-## Prévoir un autre point d’appui lorsque le proche s’absente
+Il peut être difficile d’anticiper un besoin jusqu’à ce que le départ devienne concret.
 
-Émilien vérifie l’heure du prochain appel et où trouver le contact à utiliser si la situation se dégrade avant. Il peut aussi écrire à Dorian s’il a envie d’entendre comment s’est passée l’écoute, ou demander un appel sans parler du marché. Dorian reste libre d’accepter et Émilien n’a pas à lui confier son dossier de santé pour lui demander dix minutes. Si une inquiétude clinique augmente, c’est le recours convenu avec l’équipe qui prend le relais. Plusieurs personnes peuvent compter dans la journée sans que leur présence forme un dispositif de surveillance. Le couple peut ensuite parler de la randonnée ou du marché pour le plaisir de se raconter quelque chose.
+**Exemples concrets**
 
-Émilien peut dire à Lucie qu’il trouve son départ difficile et lui proposer de déjeuner ensemble. Elle peut écouter sa demande, choisir ce qu’elle souhaite partager et maintenir sa randonnée.
+- Émilien parle du téléphone lorsque Lucie boucle la sangle du casque.
+- Après avoir parlé avec elle le matin, il peine à imaginer la suite de l’après-midi.
+
+### Une demande large cache un moment précis
+
+Un souhait de disponibilité peut devenir plus facile à discuter quand on nomme la situation qu’on redoute.
+
+**Exemples concrets**
+
+- Émilien demande d’abord à Lucie de regarder ses messages, puis parle du repas.
+- Pour Dorian, il finit par demander un récit écrit et précise qu’il ne souhaite pas d’appel ce jour-là.
+
+### Le lien continue malgré une limite annoncée
+
+Dire quand on ne sera pas joignable permet à chacun d’organiser son temps et de prévoir le bon contact si la situation change.
+
+**Exemples concrets**
+
+- Lucie annonce qu’elle ne pourra pas lire de messages sur une partie du parcours.
+- Émilien laisse le feuillet des soignants sur la table et garde la photo du pont comme un échange sans heure imposée.
+
+## 3 techniques pour demander une présence qui convienne aux deux
+
+### 1. Nommer le moment difficile
+
+Faire une demande que le proche peut entendre et à laquelle il peut répondre.
+
+**Exercice pratique**
+
+- Repérez l’heure ou l’activité qui vous inquiète.
+- Dites ce que vous aimeriez partager, par exemple le déjeuner.
+- Demandez si ce moment convient, puis écoutez la réponse avant de chercher une autre option.
+
+Un besoin assez précis ouvre une discussion sur ce que chacun peut offrir.
+
+### 2. Garder un lien au format choisi
+
+Retrouver un échange quand une conversation entière paraît trop coûteuse.
+
+**Exercice pratique**
+
+- Choisissez une personne et le sujet dont vous aimeriez avoir des nouvelles.
+- Proposez un message, une photo ou un appel, en disant ce qui vous convient aujourd’hui.
+- Laissez à l’autre le temps d’accepter ou de proposer un autre moment.
+
+Un échange léger peut rester possible sans exiger une réponse immédiate.
+
+### 3. Distinguer la présence et le recours aux soins
+
+Savoir qui appeler si le besoin dépasse l’appui convenu.
+
+**Exercice pratique**
+
+- Relisez le contact et les modalités du plan pendant qu’ils sont accessibles.
+- Dites au proche quand vous passerez par ce relais plutôt que d’attendre son retour.
+- Si votre sécurité est en jeu, sollicitez une aide urgente sans attendre sa réponse.
+
+Le proche garde une place choisie et l’évaluation revient aux professionnels.
 
 ## La sortie de Lucie tient toujours
 
 Ils mangent des tartines avant que l’amie de Lucie arrive. Émilien lui dit qu’il lui demandera peut-être une photo du vieux pont, si elles passent devant. Il garde sur la table le feuillet avec le contact et ne demande pas une heure pour la photo. Quand la porte se ferme, il hésite encore à ouvrir le message de Dorian. Finalement il lui écrit : « Ça me ferait plaisir que tu me racontes comment elle a réagi au chariot. Pas besoin de m’appeler aujourd’hui. »
+
+---
+
+**Conclusion**
+
+Le déjeuner répond à un besoin qu’Émilien arrive à dire. Lucie peut partir à vélo et Dorian recevoir un message adapté à ce qu’Émilien peut partager. Le prochain échange avec l’équipe reste prévu, que ces moments aient été faciles ou non.

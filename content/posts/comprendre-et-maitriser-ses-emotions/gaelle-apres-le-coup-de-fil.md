@@ -1,5 +1,5 @@
 ---
-title: Le premier passage après l’hôpital
+title: Suivre un symptôme nouveau à part d’une faiblesse connue
 description: Après l’évaluation urgente, Gaëlle retourne brièvement à l’atelier. Elle
   veut récupérer son travail et choisir ce qu’elle raconte aux bénévoles.
 slug: gaelle-apres-le-coup-de-fil
@@ -35,16 +35,81 @@ Quand Lina ouvre le portail, Gaëlle remarque qu’elle tient déjà le feutre �
 
 ## Ce qui relève encore d’un suivi médical
 
-Les difficultés de parole ont été évaluées en urgence et Gaëlle a des indications propres à cet épisode. Son trouble neurologique fonctionnel fait déjà l’objet d’un suivi pour sa faiblesse de la jambe et ses difficultés de marche. Le fait que ces difficultés soient déjà suivies ne renseigne pas à lui seul sur la cause de ce qui s’est passé à la table. Un trouble fonctionnel peut coexister avec d’autres problèmes de santé. Les observations et le compte rendu de l’hôpital sont utiles aux soignants qui doivent décider de la suite. Gaëlle peut reprendre des questions avec eux après être rentrée.
+Après une évaluation urgente, les consignes propres au symptôme nouveau restent distinctes du suivi d’un trouble déjà connu. Un trouble neurologique fonctionnel peut coexister avec d’autres problèmes de santé, et les difficultés de marche de Gaëlle ne disent pas ce qui a causé le changement soudain de sa parole. Elle prend le rendez-vous indiqué par l’hôpital et retourne à l’atelier pour un objectif choisi. Le travail sur les motifs peut reprendre sans rouvrir le dossier devant les bénévoles.
 
-## Revoir un lieu où l’on a eu peur
+## Comment deux questions de santé restent-elles distinctes après l’hôpital ?
 
-Le carton rappelle à Gaëlle le moment où Lina a pris le téléphone. La peur revient en regardant le ruban. En même temps, elle se souvient du choix des motifs et veut reprendre le travail entamé. Cette réaction fait partie de son retour dans le lieu. Elle peut en parler à Lina, ou garder une partie de l’expérience pour un autre moment. Sa façon d’évoquer la scène n’indique rien à elle seule sur l’origine de la difficulté de parole. Lina aussi a eu peur et peut prendre un temps pour le dire.
+### Un compte rendu fixe des suites propres à l’épisode
 
-## Choisir une visite courte et décider à qui parler
+L’équipe peut indiquer quels points reprendre et comment demander de l’aide si un signe revient.
 
-Gaëlle précise qu’elle aimerait rester jusqu’à ce que les deux empreintes soient placées, puis rentrer. Elle demande à Lina de garder le compte rendu médical hors de la conversation avec les bénévoles. Ce que le groupe peut savoir, c’est qu’elle a reçu des soins et qu’elle reviendra pour un essai court si elle le souhaite après son prochain point médical. Lina lui demande si elle peut lui parler de l’appel, car elle l’a encore en tête. Gaëlle accepte d’en parler quelques minutes et lui dit qu’elle a entendu sa voix tout le temps.
+**Exemples concrets**
+
+- Gaëlle suit l’indication de l’hôpital et appelle le cabinet.
+- Une personne garde les consignes reçues pour un événement aigu avec la date du contrôle indiqué.
+
+### Le suivi habituel garde son objet
+
+Une difficulté déjà évaluée peut continuer à demander ses propres ajustements.
+
+**Exemples concrets**
+
+- La faiblesse de la jambe et la marche de Gaëlle restent suivies en neurologie et en rééducation.
+- Une personne reprend avec sa kinésithérapeute les appuis discutés avant une évaluation urgente pour un autre symptôme.
+
+### Le retour sur les lieux peut réveiller la peur
+
+Revoir l’endroit où le signe est apparu peut rappeler le vécu sans expliquer la cause.
+
+**Exemples concrets**
+
+- Gaëlle voit le ruban sur la table et se souvient du moment où sa phrase s’est défaite.
+- Quelqu’un retrouve une tâche laissée inachevée et choisit d’en parler quelques minutes avant de la reprendre.
+
+## 3 techniques pour organiser la suite d’un symptôme aigu et d’un suivi habituel
+
+### 1. Mettre les consignes à portée de main
+
+Savoir quels contacts répondent à la question nouvelle.
+
+**Exercice pratique**
+
+- Relisez le compte rendu avec le professionnel concerné si un point est flou.
+- Notez le rendez-vous de contrôle et le moyen de demander de l’aide.
+- En cas de nouveau trouble brutal de la parole en France, appelez immédiatement le 15 ou le 112.
+
+La réponse au signe nouveau ne dépend pas du seul rendez-vous habituel.
+
+### 2. Reprendre les objectifs habituels séparément
+
+Continuer à travailler sur la difficulté motrice déjà évaluée.
+
+**Exercice pratique**
+
+- Identifiez le professionnel qui suit la marche ou la faiblesse.
+- Dites ce que vous souhaitez encore aborder à ce sujet.
+- Indiquez qu’un autre épisode a été évalué et transmettez le compte rendu aux soignants concernés selon les indications reçues.
+
+Les professionnels peuvent coordonner les soins sans confondre les questions.
+
+### 3. Choisir ce que l’on retrouve dans le lieu
+
+Revenir avec une tâche et une durée qui vous conviennent.
+
+**Exercice pratique**
+
+- Proposez un moment où le lieu est calme.
+- Dites si vous voulez parler de l’épisode ou poursuivre le travail commencé.
+- Indiquez aux collègues seulement les informations nécessaires à la reprise.
+
+Le retour peut garder une place pour le métier et la confidentialité.
 
 ## Une empreinte au bord du carton
 
 Elles essaient les deux empreintes sous le titre. La plus petite a besoin d’être rapprochée du bord pour rester visible. Lina coupe le ruban en deux et Gaëlle note la position au crayon. Elle reprend le tablier et laisse le carton posé à plat. En sortant, Lina lui demande si elle pourrait emprunter un livre dont elles ont parlé en préparant les cartons. Gaëlle l’a déjà mis dans son sac.
+
+---
+
+**Conclusion**
+
+Le compte rendu reste disponible pour les soignants. À l’atelier, Gaëlle et Lina déplacent une empreinte pour qu’on la voie mieux. Ce retour leur permet de reprendre une discussion interrompue, pendant que Gaëlle conserve les rendez-vous et les consignes propres à sa santé.

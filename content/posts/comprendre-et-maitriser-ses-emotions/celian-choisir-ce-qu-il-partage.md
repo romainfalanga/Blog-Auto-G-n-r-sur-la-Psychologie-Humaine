@@ -34,14 +34,81 @@ Il demande d’abord si, en disant non, il pourra quand même recevoir la fiche 
 
 Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce.
 
-## Comment cette difficulté se manifeste
+Les consignes disponibles à l’avance répondent à la difficulté de retrouver une ligne et de la lire devant le groupe. L’information utile aux autres apprentis concerne le format de l’exercice. Célian peut discuter séparément de son diagnostic, de ses appuis et de ce qu’Aïcha dira en classe.
 
-La discussion avec le référent handicap du centre, si Célian souhaite faire le point sur d’autres besoins de formation, se prépare à part. Il peut demander quelles informations seraient utiles, à qui et pour quelle raison.
+## Comment parler d’un aménagement sans rendre son diagnostic public ?
 
-## Choisir le moment de lire et celui de prendre la parole
+### Le besoin se voit dans une tâche précise
 
-Préparer un passage à l’avance peut réduire la pression du moment, sans supprimer toute difficulté de lecture. Dans cet atelier, Aïcha laisse aussi le binôme faire une démonstration. Cela ouvre une façon de participer qui correspond au but de l’exercice. Célian garde la possibilité de lire un passage s’il le souhaite. Pour d’autres tâches, les deux pourront regarder ensemble ce qu’il faut conserver à l’écrit et ce qui peut être montré ou expliqué oralement. Ce petit essai porte sur le déroulement du cours. Il ne décide ni des objectifs éventuels d’une rééducation, ni des conditions d’une évaluation officielle.
+Expliquer ce qui a coincé et ce qui a aidé donne un point de départ pour adapter l’exercice.
+
+**Exemples concrets**
+
+- Célian retrouve l’étape plus facilement quand il a pu ouvrir la fiche chez lui.
+- Une apprentie peut demander à repérer son passage avant l’atelier après avoir perdu sa place lors d’une lecture improvisée.
+
+### Une consigne commune peut suffire au groupe
+
+La formatrice peut expliquer le fonctionnement choisi sans raconter ce qui l’a amenée à l’essayer.
+
+**Exemples concrets**
+
+- Aïcha peut annoncer que chacun aura la fiche et pourra choisir l’étape qu’il souhaite expliquer.
+- Un enseignant peut proposer un temps pour relire les consignes à tous sans dire quel élève en a fait la demande.
+
+### L’essai peut être revu en privé
+
+Un appui n’a pas besoin d’être fixé pour toute l’année avant d’avoir été utilisé.
+
+**Exemples concrets**
+
+- Célian et Aïcha prévoient de refaire le point après deux exercices.
+- Si la fiche en amont ne suffit pas à retrouver la ligne, ils pourront discuter d’un repère supplémentaire.
+
+## 3 techniques pour formuler et essayer un aménagement de lecture
+
+### 1. Partir d’une situation vécue
+
+Faire comprendre à la formatrice où l’accès se complique.
+
+**Exercice pratique**
+
+- Choisissez un exemple de consigne difficile à retrouver.
+- Décrivez ce qui s’est passé et ce qui a aidé un autre jour.
+- Proposez un changement précis pour le prochain exercice.
+
+L’essai répond à une difficulté concrète.
+
+### 2. Préparer les mots destinés au groupe
+
+Garder le périmètre choisi pour les informations personnelles.
+
+**Exercice pratique**
+
+- Demandez ce que la formatrice prévoit d’annoncer.
+- Relisez ou écoutez la phrase avec elle.
+- Validez le fonctionnement à présenter et les détails à garder en privé.
+
+Le groupe peut suivre le nouveau déroulement sans connaître le parcours de santé de Célian.
+
+### 3. Choisir un moment pour réévaluer
+
+Vérifier ce que l’aménagement change pendant le travail.
+
+**Exercice pratique**
+
+- Fixez le nombre d’exercices avant le retour.
+- Notez une situation aidée et une difficulté restante.
+- Revenez avec la formatrice ou le référent du CFA sur le format à garder.
+
+L’aménagement peut évoluer à partir de ce qu’il permet réellement.
 
 ## La phrase qu’Aïcha pourra dire
 
 Aïcha relit la phrase à voix haute, puis Célian lui demande de s’arrêter après « l’étape qu’on voudra expliquer ». Ils s’accordent pour refaire le point après deux exercices. Il glisse la fiche pliée dans son sac, où traîne encore le ticket froissé du premier essai. Plus tard, il termine les lignes mises de côté au restaurant et rapporte sa feuille à Farah. À sa pause, il appelle le cabinet de Mme Vidal, l’orthophoniste qui l’avait reçu plus jeune. Elle a un créneau le lundi suivant. Il accepte et garde dans ses notes une question qu’il aimerait lui poser : que peut-il attendre d’un retour au cabinet, maintenant qu’il travaille ?
+
+---
+
+**Conclusion**
+
+Célian donne son accord pour une phrase sur l’exercice et garde le diagnostic dans leur échange privé. Il reverra l’essai avec Aïcha après deux fiches. Son rendez-vous avec Mme Vidal servira à discuter de ce qui lui coûte aujourd’hui en lecture.

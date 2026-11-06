@@ -29,20 +29,83 @@ Sur le parking de la gare, il a du mal à retrouver le fil des deux derniers app
 
 Au moment de passer devant la vitre du kiosque, il voit qu’il tient dans la même main la clé, son téléphone et son permis. Il ne sait plus où il a mis la pochette avec l’adresse. Il a presque cessé de dormir et n’a pas l’impression de devoir se reposer. L’équipe lui a donné un rendez-vous après son premier appel et un recours si les choses changeaient avant. Dans le bruit des voyageurs, il voudrait que Lucie lui répète lequel. Elle répond au second appel.
 
-## Comprendre quand un nouveau risque change la réponse
+## La décision de conduire change le niveau de risque
 
-Émilien n’est plus seulement devant un devis qu’il peut laisser de côté. Il s’apprête à conduire alors qu’il perd le fil de ses échanges, après plusieurs nuits très courtes et alors que le déplacement n’a plus d’objet ce soir. Un rendez-vous est déjà prévu. De nouveaux éléments peuvent pourtant rendre nécessaire de reprendre contact plus vite.
+Pendant un épisode maniaque, une personne peut sous-estimer le danger d’une décision et se sentir capable d’en faire davantage qu’à l’ordinaire. À la gare, Émilien est sur le point de prendre la route malgré plusieurs nuits très courtes, des échanges qu’il peine à suivre et un dépôt fermé. Le risque concret motive une réponse rapide avant toute conclusion sur l’épisode. Un rendez-vous déjà prévu ne dispense pas de demander un avis urgent si la situation s’aggrave.
 
-## La conduite devient urgente à ses yeux
+## Comment la prise de risque se construit-elle avant le départ ?
 
-Émilien a avancé la réservation du fourgon et veut partir alors que le dépôt est fermé. Il peine à retrouver le fil de ses derniers appels et ne retrouve plus la pochette avec l’adresse. Il a presque cessé de dormir et ne ressent pas le besoin de se reposer. Dorian voit qu’il veut prendre le volant malgré ces difficultés. Cette prise de risque ajoute une urgence aux changements qu’Émilien avait déjà signalés.
+### Un déplacement qui perd sa raison d’être
 
-## Donner la priorité à la sécurité et passer le relais
+Le sentiment d’urgence peut rester vif alors que les faits ne justifient plus de partir.
 
-Lucie peut retrouver le contact urgent prévu dans le plan. Dorian peut proposer à Émilien de s’asseoir à côté de lui près du kiosque, s’il le souhaite. Le but immédiat est de ne pas partir au volant et de joindre un professionnel qui pourra évaluer la situation. Si le danger est immédiat, les services d’urgence prennent le relais. Un proche ne se met pas en danger pour retenir la personne, ne se lance pas dans un débat sur le dépôt et ne tente pas de régler lui-même la question du traitement. Émilien peut prendre part à l’appel et dire ce qu’il veut expliquer en premier.
+**Exemples concrets**
 
-Le NICE recommande une évaluation spécialisée urgente lorsqu’une manie est suspectée ou qu’il existe un danger pour la personne ou pour d’autres. Il n’est pas nécessaire que les proches sachent nommer l’épisode ni qu’ils attendent de voir si la situation se résout d’elle-même. Ils peuvent décrire la conduite prévue, le changement du sommeil et ce qu’ils observent sur le moment.
+- Le dépôt confirme sa fermeture. Émilien propose quand même d’attendre devant la grille.
+- La location était prévue la semaine suivante et se retrouve avancée à ce soir sans nécessité pour l’essai.
+
+### Une tâche qui demande une attention indisponible
+
+La conduite demande de pouvoir se concentrer. Les signes observables sur place peuvent justifier de renoncer au trajet avant d’en chercher la cause.
+
+**Exemples concrets**
+
+- Émilien n’arrive plus à retrouver le fil de ses deux derniers appels.
+- Il tient son permis et la clé, mais ne sait plus où il a rangé l’adresse du dépôt.
+
+### Un rendez-vous devenu trop lointain
+
+Un risque nouveau peut justifier de mobiliser le recours urgent du plan.
+
+**Exemples concrets**
+
+- L’équipe a fixé un point après le devis. Depuis, Émilien a encore moins dormi et s’apprête à conduire.
+- Il sait qu’un autre contact existe si les choses changent et demande à Lucie de le lui redonner.
+
+## 3 techniques pour mettre la sécurité avant le départ
+
+### 1. Renoncer au trajet dès que la conduite inquiète
+
+Écarter le risque immédiat sans débat sur le diagnostic.
+
+**Exercice pratique**
+
+- Ne prenez pas le volant si votre état ne vous permet pas de conduire en sécurité.
+- Laissez la location sur place ou faites annuler le départ auprès du comptoir.
+- Si une personne est en danger immédiat, appelez les services d’urgence.
+
+La décision protège les personnes pendant que la suite est organisée.
+
+### 2. Passer du rendez-vous prévu au recours urgent
+
+Faire évaluer un changement qui ne peut plus attendre.
+
+**Exercice pratique**
+
+- Appelez le service urgent indiqué par l’équipe, ou les secours s’il y a un danger immédiat.
+- Donnez votre localisation et dites ce qui vient de changer, dont le projet de trajet et le manque de sommeil.
+- Suivez les indications du service pour être évalué et rejoindre le lieu indiqué en sécurité.
+
+Les professionnels peuvent adapter la réponse au risque actuel.
+
+### 3. Demander une présence précise
+
+Obtenir un appui pratique sans charger un proche d’évaluer la situation.
+
+**Exercice pratique**
+
+- Demandez à une personne disponible d’attendre à un endroit sûr le temps de l’appel.
+- Dites-lui ce que vous voulez qu’elle fasse, par exemple retrouver un contact ou aider à organiser le trajet indiqué.
+- Laissez le service joint préciser la suite et dites au proche quand il peut repartir.
+
+L’appui facilite le relais et garde l’évaluation du côté des soignants.
 
 ## Les clés restent sur la table
 
 Émilien remet la clé sur le comptoir et demande à laisser le véhicule là. Il n’est pas convaincu que la sortie était une mauvaise idée ; il sait au moins qu’il n’arrive plus à retrouver l’adresse. Au kiosque, Dorian s’écarte pour qu’il puisse parler. Émilien dit au service joint : « J’ai encore raccourci mes nuits. Je pensais prendre la route alors que tout est fermé. » On lui indique où il va pouvoir être évalué rapidement. Il demande à Dorian s’il peut attendre le temps d’organiser le trajet.
+
+---
+
+**Conclusion**
+
+Émilien rend la clé avant d’être convaincu que son projet posait problème. Il décrit au service ce qui s’est passé et suit l’orientation proposée. Un danger concret peut demander une décision de sécurité alors que la situation clinique reste à évaluer.

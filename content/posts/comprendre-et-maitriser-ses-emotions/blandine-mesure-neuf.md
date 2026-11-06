@@ -30,22 +30,83 @@ Ils s’arrêtent à la mesure neuf du Pont. Jeanne a écrit « écouter basses 
 
 En retournant Les Fenêtres, il trouve une date qui lui manque pour identifier une ancienne reprise du morceau. Il aimerait que les deux partitions rejoignent un jour la petite armoire des archives du chœur. Ce mot, « rejoignent », arrête Blandine : elle imagine déjà un autre nom sur le tiroir. Elle rapproche la chemise d’elle. Léon lui demande ce qu’elle est venue chercher aujourd’hui. Elle répond qu’elle aimerait comprendre ce qu’il ferait des feuilles s’il les avait.
 
-## Comprendre l’ambivalence des souvenirs
+## Une envie et une réticence peuvent coexister
 
-Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier.
+Dans un deuil, un même souvenir peut donner du plaisir et rappeler vivement une absence. Cette ambivalence ne renseigne pas à elle seule sur la présence d’un trouble. Chez Blandine, qui est suivie pour un deuil prolongé, retrouver un détail musical avec Léon lui plaît alors que l’idée de laisser les feuilles ailleurs la saisit. Les deux réactions éclairent des décisions distinctes.
 
-## Comment cette difficulté se manifeste
+## Comment deux réactions opposées se présentent-elles dans une même rencontre ?
 
-Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.
+### Le souvenir remet quelque chose en commun
 
-Un échange heureux ou une discussion précise sur la musique ne fait pas disparaître les autres moments où le manque prend toute la place. Blandine conserve son intérêt pour le morceau et peut encore trouver très difficile de remettre la feuille qu’elle tient. La perspective d’un don réveille quelque chose de différent de leur discussion sur l’interprétation. Léon entend sa question et peut y répondre sans s’autoriser à en déduire où elle en est de son deuil.
+Une discussion peut redonner de la place à une expérience appréciée.
 
-## Demander comment les feuilles serviront
+**Exemples concrets**
 
-Léon explique que les chanteurs ont les éditions dont ils ont besoin. Ce qu’il aimerait conserver, ce sont les traces de leur propre travail : les dates et les indications de pupitre. L’armoire est ouverte au chef et à la personne qui tient les archives. Une feuille qui en sort pour une répétition y revient ensuite. Blandine lui demande si les notes peuvent être lues par deux chanteurs à la table de l’annexe avant de décider de leur place. Léon peut organiser cette lecture avec elle un autre jour.
+- Blandine aime chercher qui chantait à la mesure neuf.
+- Deux amis retrouvent l’ordre des chansons d’un ancien concert et rient d’un faux départ.
 
-L’échange prend plus de temps que prévu sur Le Pont. Blandine préfère arrêter au bout des vingt minutes et reprendre Les Fenêtres plus tard. Ils peuvent prendre une décision sur l’usage des deux feuilles sans engager le reste du dossier. Léon continuera de préparer les répétitions avec ses exemplaires habituels. Rien ne dépend d’un don rapide, et elle sait à présent où se trouveraient les originaux si elle choisissait de les remettre.
+### Le projet rend une séparation concrète
+
+Le moment où un objet pourrait changer de place peut réveiller une douleur que l’échange musical n’occupait pas jusque-là.
+
+**Exemples concrets**
+
+- Blandine rapproche la chemise quand Léon parle du tiroir des archives.
+- Quelqu’un prend plaisir à décrire une photo puis hésite au moment où on lui propose de laisser l’original.
+
+### L’hésitation peut informer le choix
+
+Sentir à la fois l’attrait et le coût d’une proposition peut conduire à choisir une étape intermédiaire.
+
+**Exemples concrets**
+
+- Blandine demande à entendre une lecture avant de décider du don.
+- Une personne accepte de montrer un carnet à deux proches et reprend la question du prêt un autre jour.
+
+## 3 techniques pour faire une place à deux réactions
+
+### 1. Mettre deux phrases côte à côte
+
+Décrire l’intérêt et la difficulté sans devoir les départager.
+
+**Exercice pratique**
+
+- Dites ce que vous aimeriez dans la proposition.
+- Nommez ce qui vous retient si vous voulez le partager.
+- Demandez qu’on écoute les deux avant de proposer la suite.
+
+La personne en face peut ajuster sa demande sans effacer le plaisir ni la réserve.
+
+### 2. Définir une étape réversible
+
+Continuer un échange sans trancher le sort d’un souvenir.
+
+**Exercice pratique**
+
+- Choisissez une chose possible aujourd’hui, par exemple lire ensemble.
+- Décidez à l’avance ce qui repart avec vous.
+- Laissez la décision de transmettre pour un autre moment.
+
+Une étape limitée donne des informations utiles sans engager tout le projet.
+
+### 3. Vérifier l’usage envisagé
+
+Transformer l’image vague d’une séparation en une question précise.
+
+**Exercice pratique**
+
+- Demandez où l’objet irait et qui pourrait le consulter.
+- Notez la réponse dans des mots que vous pouvez reprendre.
+- Discutez en suivi si ce type de décision vous occupe longtemps après la rencontre.
+
+Vous pouvez réfléchir à des conditions réelles et chercher de l’aide pour ce qui reste très douloureux.
 
 ## La chemise jaune repart avec elle
 
 Léon écrit sur un bout de papier l’emplacement du meuble et les deux titres. Blandine ajoute : « Lecture avec deux personnes, avant de décider. » Il évoque aussi un créneau jeudi de la semaine suivante près de la salle du chœur. Elle demande à garder l’option ouverte. En récupérant la chemise jaune, elle lui dit qu’il se trompe peut-être sur la voix qu’il entendait à la mesure neuf. Lui trouve possible que ce soit la sienne. Elle prend le papier avant de remettre son manteau.
+
+---
+
+**Conclusion**
+
+La mesure neuf redevient une discussion possible, et la chemise rentre avec Blandine. Elle repart avec une étape à examiner. Elle peut encore aimer l’idée de la lecture tout en hésitant sur le tiroir.

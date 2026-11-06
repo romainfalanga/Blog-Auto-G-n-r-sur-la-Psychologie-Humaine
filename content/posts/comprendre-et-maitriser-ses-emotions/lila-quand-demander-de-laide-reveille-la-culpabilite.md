@@ -1,12 +1,12 @@
 ---
 title: Quand demander de l’aide réveille la culpabilité
-description: Lila hésite devant un service proposé par Naïma. Elle cherche une façon
-  d’accepter de l’aide et de choisir ce qu’elle raconte.
+description: Devant la soupe apportée par Naïma, Lila se reproche d’avoir besoin d’aide.
+  Elle cherche ce qu’elle peut accepter sans se justifier.
 slug: lila-quand-demander-de-laide-reveille-la-culpabilite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lila
-sujet: Culpabilité et demande d’aide
+sujet: Culpabilité excessive face à l’aide
 contexte: le samedi, chez Lila, quand Naïma vient déposer le déjeuner
 tags:
 - Dépression du post-partum
@@ -29,18 +29,83 @@ Elles déposent les pots sur la table. Thomas est parti chercher un colis avec l
 
 Lila s’était préparée à un commentaire sur son appartement ou sur sa façon de s’organiser. La question lui laisse une décision plus petite. Elle se demande quand même si elle doit expliquer le rendez-vous d’hier pour justifier qu’on lui apporte un repas. Elle pense à sa médecin, aux deux lignes sur le compte rendu, à la place que le récit prendrait sur la table. Ce qu’elle voudrait surtout, aujourd’hui, c’est pouvoir parler du vide qu’elle ressent certains matins, à quelqu’un qui l’a connue bien avant. Elle sort deux bols et demande à Naïma si elle a le temps de rester une demi-heure.
 
-## Le jugement sévère qui s’attache à un besoin ordinaire
+## Quand un service se transforme en reproche
 
-La culpabilité peut prendre une place importante pendant une dépression. Une difficulté limitée, comme préparer un repas un jour d’épuisement, peut conduire à un jugement général sur sa valeur ou sa capacité à s’occuper des siens. Le même événement prend alors plus de poids que sa conséquence réelle. Chez Lila, le repas offert lui rappelle tous les services qu’elle estime ne plus rendre. Elle imagine un solde à régler avant de pouvoir répondre. La scène permet de regarder les faits qui ont déclenché la pensée et ce que Lila y ajoute. Elle pourra en parler avec la professionnelle qui la suit si ces jugements reviennent et l’empêchent de solliciter du soutien.
+Une dépression peut s’accompagner d’une culpabilité qui dépasse de beaucoup ce qui s’est passé. Un repas préparé par une amie peut ramener à l’esprit d’autres occasions où l’on estime avoir échoué, jusqu’à juger sa capacité à s’occuper de soi ou des siens. Lila se souvient du service rendu à Naïma un hiver et cherche presque à en faire le compte. Si cette façon de se juger revient et freine ses demandes d’aide, elle peut en parler avec la professionnelle qui la suit.
 
-## Le coût des efforts pour avoir l’air de se débrouiller
+## Comment la culpabilité change-t-elle la façon d’accepter de l’aide ?
 
-Lila se met à nettoyer alors que la table est disponible pour manger. La culpabilité l’amène aussi à chercher une explication qu’elle pourrait donner à son amie. Ces gestes mobilisent de l’énergie et éloignent la conversation qu’elle voudrait avoir. Elle entend assez clairement ce que propose Naïma pour répondre sur le repas, puis choisir à part ce qu’elle dira de sa dépression. Une personne peut aussi accueillir une aide avec ambivalence, soulagée de la recevoir et inquiète d’en avoir besoin. Une question précise laisse à cette ambivalence une place dans la conversation et aide à repérer l’aide qui correspond vraiment au moment.
+### Une difficulté ponctuelle devient un jugement général
 
-## Dire quel service aiderait et combien de temps
+Le reproche s’étend à la personne entière à partir d’une tâche qui aurait pu être répartie autrement.
 
-Lila peut demander un repas aujourd’hui, ou une présence dont elles fixent ensemble la durée. Elle peut aussi différer les questions qui lui demandent davantage d’effort. Au lieu d’anticiper le jugement de Naïma, elle peut partir des mots que celle-ci emploie et vérifier ce qu’elle est disposée à faire. Elle aimerait la prévenir de la visite à la médiathèque et lui demander un court appel ensuite. Cet accord donne à chacune une part simple à tenir. Il libère une place pour la conversation, tandis que la culpabilité et la façon dont elle se répète restent des sujets possibles dans les soins.
+**Exemples concrets**
+
+- Devant deux pots de soupe, Lila dit qu’elle aurait dû se débrouiller, comme si préparer ce déjeuner disait quelque chose de tout le reste.
+- Un parent qui demande à quelqu’un de faire une course en conclut qu’il n’est plus capable de s’occuper de sa famille.
+
+### Le service reçu ressemble à une dette
+
+La personne peut vouloir rendre aussitôt l’aide qu’on lui offre, même quand l’autre ne réclame rien.
+
+**Exemples concrets**
+
+- En voyant les pots, Lila calcule combien de mois ont passé depuis la dernière fois où elle a rendu service à Naïma.
+- Une personne qui accepte un trajet en voiture promet dans la foulée un long service pour le week-end, alors qu’elle aurait besoin de le laisser libre.
+
+### Le besoin d’aide paraît devoir se justifier
+
+Par crainte d’être jugée, la personne peut se croire obligée d’exposer des éléments qu’elle aurait préféré garder pour elle, ou renoncer à demander.
+
+**Exemples concrets**
+
+- Lila se demande si elle doit expliquer son compte rendu médical pour que le repas apporté paraisse légitime.
+- Une personne efface un message qui demandait du pain à un ami, faute de trouver une explication qu’elle estime suffisante.
+
+## 3 techniques pour répondre à une offre quand la culpabilité monte
+
+### 1. Décrire le service avant de juger sa journée
+
+Faire la différence entre la situation précise et le reproche qu’elle déclenche.
+
+**Exercice pratique**
+
+- Nommez ce que l’autre offre en quelques mots.
+- Repérez la conclusion que vous tirez sur vous à partir de cette offre.
+- Revenez à ce qui est nécessaire maintenant, par exemple décider où et avec qui vous déjeunez.
+
+La décision à prendre redevient assez petite pour être discutée.
+
+### 2. Accepter une aide à votre mesure
+
+Garder la main sur le contenu et la durée du soutien.
+
+**Exercice pratique**
+
+- Choisissez une seule partie de l’offre qui vous aiderait aujourd’hui.
+- Dites jusqu’à quand ou sous quelle forme elle vous conviendrait.
+- Laissez l’autre confirmer ce qui lui est possible et convenez de ce que chacun fera.
+
+Un accord précis peut rendre le soutien plus simple à recevoir et à proposer.
+
+### 3. Dire la part que l’on souhaite confier
+
+Mettre des mots sur la culpabilité tout en choisissant ce qu’on partage.
+
+**Exercice pratique**
+
+- Choisissez une personne à qui vous aimeriez parler, proche ou professionnelle.
+- Préparez une phrase sur le reproche qui revient, sans y ajouter les détails que vous souhaitez garder.
+- Dites si vous voulez surtout être écouté ou demander un soutien. Si la culpabilité vous empêche souvent de demander de l’aide, abordez-la avec votre soignant.
+
+Cette conversation peut préciser ce qui vous pèse et le type d’appui qui vous serait utile.
 
 ## Deux bols et une demi-heure
 
 Elles mangent près de la fenêtre. Lila dit qu’elle traverse une dépression depuis la naissance et qu’elle voit une médecin. Elle parle du matin où elle était restée longtemps devant le dossier du pressing. Elle garde pour elle le compte rendu. Naïma aimerait voir le pressing et Lila lui envoie une photo de la feuille imprimée. Quand Naïma reprend son sac, Lila lui demande si elle sera disponible pour un appel après la visite du mardi. Naïma est libre à midi. Lila note l’heure à côté du rendez-vous que Farid vient de confirmer.
+
+---
+
+**Conclusion**
+
+Lila sort deux bols et choisit la part de son histoire qu’elle veut mettre sur la table. Le repas accepté lui permet aussi de fixer un appel avec Naïma après la visite de la médiathèque. Une aide devient plus praticable quand on peut en décider la forme, même si le reproche intérieur reste présent.

@@ -33,14 +33,79 @@ La psychologue lui avait demandé le matin même de nommer le résultat qu’il 
 
 Le trouble explosif intermittent décrit des accès agressifs impulsifs ou réactifs. Une agression employée comme moyen d’obtenir un résultat relève d’une autre lecture. Dans une relation, l’emprise peut s’installer par des menaces, la surveillance ou des restrictions répétées qui réduisent les choix de l’autre. Une explosion soudaine peut aussi s’inscrire dans un ensemble de conduites coercitives. La rapidité d’un acte, un regret exprimé ensuite ou un diagnostic connu ne permettent pas de conclure qu’une personne est en sécurité. La protection répond aux actes et à leur contexte.
 
-## La limite porte aussi sur les intermédiaires
+## Comment distinguer un accès impulsif de comportements qui limitent les choix d’autrui ?
 
-Mireille précise qu’elle ne veut pas recevoir de paroles de Damien par l’intermédiaire d’une connaissance. Il envisageait pourtant de faire lire une phrase qui réduisait la gravité de son geste. Son brouillon ne démontre pas une conduite d’emprise. À présent que le refus est connu, transmettre ce texte par Judith reviendrait à contourner une limite claire. Le besoin de reprendre le contrôle de sa propre image appartient à Damien. Mireille a déjà donné le cadre qui lui convient pour le prêt et le matériel.
+### Un acte peut être soudain sans éclairer toute la relation
 
-## Traiter le dommage dans le cadre qui a été accepté
+L’impulsivité d’un accès ne permet pas de conclure à l’absence de pressions répétées ni de décider du niveau de protection nécessaire.
 
-Damien peut laisser le bureau et la mairie régler les questions matérielles, sans faire joindre des paroles personnelles au dossier. Judith peut refuser le rôle de messagère. Dans une relation où une personne craint des violences ou se sait surveillée, elle peut chercher un appui spécialisé par un moyen sûr pour elle. Une rencontre destinée à obtenir une explication ou une réconciliation ne conditionne jamais cette aide. Si le danger est immédiat, elle peut appeler les secours dès que possible en sécurité.
+**Exemples concrets**
+
+- Au sujet du pupitre, Damien voudrait expliquer la direction de son geste.
+- Mireille a choisi un canal écrit pour les réservations et refuse qu’on lui transmette des messages personnels.
+
+### Un détour peut franchir une limite claire
+
+Faire passer des mots par un tiers peut imposer un contact que la personne a déjà refusé.
+
+**Exemples concrets**
+
+- Damien avait préparé une phrase qu’il comptait faire lire par Judith.
+- La demande de Mireille exclut aussi les messages transmis par une connaissance.
+
+### La logistique peut continuer sans contact personnel
+
+Les besoins matériels peuvent être traités par le circuit choisi et laisser la personne touchée décider de sa distance.
+
+**Exemples concrets**
+
+- Le dossier du pupitre passe par Armelle.
+- Judith demande la référence de l’objet et ne propose aucun message à Mireille.
+
+## 3 techniques pour respecter une demande de distance après une agression
+
+### 1. Respecter le canal et les destinataires
+
+Éviter de contourner le refus de contact.
+
+**Exercice pratique**
+
+- Relisez la limite communiquée.
+- Renoncez aux messages directs et aux intermédiaires pour toute parole personnelle.
+- Adressez uniquement l’information matérielle demandée au canal autorisé.
+
+La personne touchée peut garder sa distance pendant que le dossier suit son cours.
+
+### 2. Chercher un appui depuis un endroit sûr
+
+Permettre à une personne touchée ou témoin d’obtenir un soutien sans avoir à juger la cause des actes.
+
+**Exercice pratique**
+
+- Mettez-vous à l’abri et appelez le 17 ou le 112 en France si le danger est immédiat.
+- Dans un cadre sûr, choisissez une personne ou un service spécialisé à qui parler si vous le souhaitez.
+- Faites préciser les moyens de garder la distance ou de signaler de nouveaux faits.
+
+La protection peut partir des actes et des limites, indépendamment du diagnostic invoqué.
+
+### 3. Reprendre en soin le résultat attendu du message
+
+Examiner une envie d’explication sans demander de réponse à la personne agressée.
+
+**Exercice pratique**
+
+- Notez le résultat que vous vouliez obtenir en lui parlant.
+- Distinguez ce que vous pouvez assumer de ce qu’elle seule peut décider.
+- Travaillez cette question avec votre professionnel sans faire parvenir le brouillon.
+
+Le regret ou l’envie d’expliquer peuvent être abordés dans un espace qui respecte la limite posée.
 
 ## Un appel qui se termine sans message à porter
 
 Judith lui demande seulement de lui envoyer la référence du modèle, qu’il a retrouvée dans l’inventaire dont il s’occupait au printemps, afin que le bureau puisse traiter le dommage. Damien prend son pain et rentre chez lui. Il adresse la référence à Judith avec la date de l’incident. Il laisse les destinataires tels qu’ils sont. Puis il note dans son carnet la demande de Mireille, avec les mots « pas par quelqu’un d’autre ». Il pourra travailler avec sa psychologue sur son envie d’expliquer. Du côté de la salle, il attend les indications du bureau.
+
+---
+
+**Conclusion**
+
+La référence du pupitre parvient au bureau et la phrase personnelle est effacée. Mireille n’a rien à répondre. Sa demande de distance s’applique quels que soient le diagnostic de Damien et son désir de modifier l’image qu’elle garde de l’agression.

@@ -35,14 +35,79 @@ La docteure Benali reprend avec elle les éléments transmis et vérifie comment
 
 Une évaluation aux urgences répond d’abord aux symptômes présents et à la sécurité immédiate. Un suivi spécialisé peut continuer à aborder les risques physiques, l’état psychique et les effets du trouble dans la vie quotidienne. Selon la situation, les soignants vérifient notamment l’équilibre de certains sels minéraux ou le fonctionnement cardiaque, et proposent des examens adaptés.
 
-## L’appréhension qui persiste après le malaise
+## Comment le besoin de suivi persiste-t-il après le retour à la maison ?
 
-Les sensations se sont apaisées, mais Victoire se demande encore comment elle réagirait si elles revenaient. La question pèse sur le retour à la boutique. En parlant des horaires avec sa médecin, elle se rend compte qu’elle appréhende surtout les fermetures où elle serait seule. Le trouble connu donne aux professionnels un contexte. Leurs conclusions sur le malaise reposent sur l’évaluation, sur l’évolution et sur ce que Victoire leur décrit.
+### Une inquiétude survit au symptôme
 
-## Choisir ce que chaque personne a besoin de savoir
+Quand les sensations se calment, la personne peut encore appréhender leur retour ou se demander quoi faire.
 
-La coordination permet à l’équipe de se transmettre des éléments utiles à la prise en charge. Victoire peut demander ce que le bilan permet de comprendre, quels points restent à suivre et à qui poser une question si les sensations reviennent. La docteure Benali lui explique ce qu’elle propose de reprendre avec Nora et confirme le prochain contact médical. Pour la boutique, Victoire a une demande d’organisation et souhaite discuter avec Idriss de ce qui est possible. Elle peut lui dire qu’elle reprend un suivi après le malaise, et décider du niveau de détail qu’elle souhaite partager. Elle demande aussi à la médecin quelles activités et quels engagements sont adaptés pendant cette période. Lila saura seulement ce que Victoire lui dira pour organiser la prochaine réunion. Chacun peut ainsi répondre à une question à sa portée.
+**Exemples concrets**
+
+- Victoire se sent mieux lorsqu’elle déplie le compte rendu de sortie, mais le malaise l’inquiète encore.
+- En parlant du retour à la boutique, elle découvre qu’elle redoute particulièrement les fermetures seule.
+
+### Les deux consultations ont des fonctions différentes
+
+L’urgence apprécie la situation immédiate ; le suivi reprend l’évolution et les questions qui restent.
+
+**Exemples concrets**
+
+- Les urgences la laissent rentrer et lui indiquent de reprendre contact avec son équipe spécialisée.
+- La docteure Benali vérifie comment Victoire se sent maintenant et convient avec elle de ce qu’il faudra revoir.
+
+### Le travail appelle sa propre organisation
+
+Un aménagement de reprise peut répondre à une contrainte précise en parallèle du bilan médical.
+
+**Exemples concrets**
+
+- Victoire veut demander elle-même à Idriss de partager les premières fermetures.
+- Elle décide avec Lila de venir à la réunion et de laisser la démonstration du départ à Manu.
+
+## 3 techniques pour reprendre le fil des soins après une évaluation urgente
+
+### 1. Apporter les suites de la sortie
+
+Aider le professionnel habituel à reprendre l’évaluation après l’urgence.
+
+**Exercice pratique**
+
+- Apportez le compte rendu et les consignes reçues, si vous les avez.
+- Expliquez ce qui s’est amélioré et ce qui vous inquiète encore.
+- Demandez quelles questions ou quels examens doivent être revus dans votre situation.
+
+Le rendez-vous peut repartir des faits et préciser ce qui reste à évaluer.
+
+### 2. Repérer les contacts selon la situation
+
+Savoir à qui s’adresser après la consultation.
+
+**Exercice pratique**
+
+- Demandez qui joindre pour une question ordinaire entre deux rendez-vous.
+- Faites préciser les consignes en cas de nouveaux symptômes ou d’urgence.
+- Gardez ce contact et ces indications à un endroit accessible.
+
+La prochaine décision peut suivre un repère médical convenu à l’avance.
+
+### 3. Préparer une reprise praticable
+
+Formuler une demande de travail compatible avec ce dont vous avez besoin.
+
+**Exercice pratique**
+
+- Choisissez la tâche ou l’horaire qui pose le plus de difficulté.
+- Définissez la durée de l’ajustement que vous souhaitez discuter et les renseignements que vous voulez partager.
+- Convenez avec le responsable du moment où vous ferez le point.
+
+L’équipe de travail peut organiser un relais précis tandis que les questions médicales restent suivies.
 
 ## Ce que Victoire écrit à Idriss
 
 Dans le couloir, Victoire écrit à Idriss qu’elle reprend son suivi et voudrait faire les prochaines fermetures avec quelqu’un. Elle propose d’en parler au début de leur prochain service. Puis elle répond à Lila, qui a proposé de réunir les bénévoles avant le rallye. Elle peut venir à la réunion et préfère confier à Manu la démonstration du départ. Elle glisse le compte rendu dans la poche intérieure de son sac.
+
+---
+
+**Conclusion**
+
+Le compte rendu rejoint la poche intérieure du sac, puis Victoire écrit à Idriss au sujet des fermetures. La disparition du malaise permet de parler de la reprise. Elle garde avec la docteure Benali des questions et un contact pour la suite du suivi.

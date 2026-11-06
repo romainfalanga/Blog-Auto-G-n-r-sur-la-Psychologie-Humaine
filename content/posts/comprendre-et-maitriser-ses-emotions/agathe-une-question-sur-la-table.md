@@ -34,14 +34,81 @@ Quand vint la question des fleurs, elle poussa le feutre vers les CM1. Une élè
 
 Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.
 
-## Comment cette difficulté se manifeste
+Les questions sur les sachets et sur le banc ne demandent pas la même réponse. Agathe choisit de reprendre d’abord celle sur les graines. En redonnant une place aux autres questions, Camille l’aide à finir cet échange sans obliger le groupe à renoncer au suivant.
 
-Elle perd le début de la discussion et l’autre question prend la place de celle qu’elle voulait traiter. Elle choisit de revenir aux sachets, fait redire la question et s’appuie sur la boîte. Le langage réceptif et le langage expressif sont tous deux sollicités par cet échange. Ce qui a fonctionné dans cette salle dépend aussi de Camille, qui laisse le temps nécessaire, et de l’élève, qui accepte de reprendre.
+## Comment faire préciser la question avant de chercher une réponse ?
 
-## Donner la parole et laisser le résultat ouvert
+### Une partie de la question peut manquer
 
-On peut se mettre d’accord sur une question à la fois et donner aux autres un endroit où garder la leur. S’ils sont plusieurs à vouloir parler, l’adulte peut organiser l’ordre sans répondre pour l’enfant qui présente. Sur le plan, Agathe peut ensuite montrer les étoiles comme des propositions. Le groupe peut marquer un point qu’il veut vérifier plutôt que de trancher tout de suite. Le but de cette transmission est que la classe suivante dispose d’assez d’informations pour agir et puisse dire ce qui ne lui convient pas. Agathe gardera la possibilité de répondre autrement lors d’un prochain échange, y compris de montrer sans parler si c’est ce qu’elle préfère.
+Il est difficile de savoir quoi dire si l’on a perdu le début ou le sujet de la demande.
+
+**Exemples concrets**
+
+- Agathe reconnaît qu’il était question de sachets mais perd la question entière.
+- Un élève peut entendre « le banc » sans savoir si l’autre demande sa place ou s’il peut le déplacer.
+
+### Une reprise ciblée rend le sujet disponible
+
+Faire redire la question qui importe évite d’avoir à retrouver tous les échanges en même temps.
+
+**Exemples concrets**
+
+- Agathe demande de revenir aux sachets avant de regarder le banc.
+- Un enfant peut demander « La question sur les pois, tu peux la redire ? » pendant qu’il garde le plan ouvert.
+
+### Les autres demandes ont besoin d’une place
+
+Mettre une question de côté permet de l’accueillir ensuite sans la laisser occuper la même place que la première.
+
+**Exemples concrets**
+
+- Sami pose le sachet de pois sur la réserve avant qu’Agathe revienne au banc.
+- La proposition sur les fleurs peut rester près des deux étoiles jusqu’à ce que le groupe en parle.
+
+## 3 techniques pour retrouver une demande au milieu de plusieurs questions
+
+### 1. Nommer le bout que l’on a retenu
+
+Inviter l’autre à redonner le bon message.
+
+**Exercice pratique**
+
+- Dites le mot ou l’objet dont vous vous souvenez.
+- Demandez à la personne de reprendre cette seule question.
+- Vérifiez que vous savez maintenant ce qu’elle veut savoir.
+
+Vous pouvez préparer une réponse à la demande exacte.
+
+### 2. Mettre les autres questions en attente
+
+Garder un tour praticable sans fermer la discussion.
+
+**Exercice pratique**
+
+- Désignez un endroit où laisser les questions suivantes.
+- Invitez le groupe à déposer un repère ou une phrase courte.
+- Revenez à l’une d’elles après la réponse en cours.
+
+Une demande peut être terminée et les autres restent visibles.
+
+### 3. Choisir comment répondre après la reprise
+
+Donner une réponse adaptée à ce que l’autre demande.
+
+**Exercice pratique**
+
+- Repérez si la question concerne un lieu, un objet ou une décision.
+- Choisissez de dire, montrer ou renvoyer au moment où le groupe pourra vérifier.
+- Demandez à l’autre si ce qu’il a compris lui suffit.
+
+La réponse peut être utile sans prendre toujours la forme d’une longue phrase.
 
 ## Le banc reste libre
 
 Sami posa le sachet de pois au bord du carré qui représentait la réserve. Agathe revint à la question du banc et le montra du doigt. « On le laisse ici. » Lila approcha la question sur les fleurs du dessin de la clôture. Sami ajouta un petit trait près du banc pour le passage, puis dit qu’on pouvait laisser cette étoile sans planter là. Agathe écrivit « à décider dehors » sous les deux propositions. La classe garda une copie et les deux sachets retournèrent dans la boîte que Camille emportait. Si l’allée séchait, deux volontaires pourraient aller chercher la boîte avec elle au dernier atelier. Lila se proposa. Nora, qui n’avait encore rien dit, leva la main. Agathe replia la carte originale.
+
+---
+
+**Conclusion**
+
+Agathe a fait redire la question sur les sachets avant de revenir au banc. Elle peut ensuite laisser les fleurs en discussion jusqu’à l’essai dehors. Les CM1 repartent avec un plan et une décision qu’ils pourront examiner sur place.

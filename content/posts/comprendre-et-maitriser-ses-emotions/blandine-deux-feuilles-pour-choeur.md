@@ -29,20 +29,83 @@ Alice relit les deux titres. Blandine corrige une lettre du nom de famille de Je
 
 Blandine sort les deux originaux de la chemise et les pose près de la fiche. Elle demande encore sur quel document figureront leurs noms. Alice lui montre la pochette qui restera dans le tiroir, puis le programme de concert, qui n’en dit rien. Blandine lui confirme que ces deux feuilles entrent aux archives du chœur. Elle referme elle-même la chemise vide.
 
-## Suivre l’évolution du retentissement dans la durée
+## Suivre ce qui change et ce qui demande encore du temps
 
-Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision. Blandine a choisi deux feuilles parce qu’elle comprend leur utilité pour le chœur et sait où elles seront. Elle garde Les Saules et le reste du dossier parce qu’elle veut pouvoir les lire à sa façon. Dans la vie d’une autre personne, conserver toutes les partitions ou s’en séparer peut avoir un autre sens. Le geste ne permet pas de qualifier son deuil.
+L’évolution d’un deuil prolongé se juge au fil du temps, dans plusieurs activités et à partir du vécu de la personne. Des choix peuvent redevenir possibles tandis que le manque garde des moments intenses. Blandine remet deux partitions aux archives et souhaite encore que Jeanne soit là pour en parler. Elle peut rapporter au suivi ce qui a changé et ce qui continue de lui coûter.
 
-## Comment cette difficulté se manifeste
+## Comment une évolution se lit-elle au-delà d’une décision ?
 
-Blandine sait qu’elle aura encore des jours où elle cherchera la voix de Jeanne longtemps après avoir fermé le dossier. Les effets de ces journées restent une question à discuter en consultation. Aujourd’hui, ce qui s’est réglé autour de la table est concret : deux originaux ont rejoint l’archive et les autres ont une place chez elle. Le chœur sait comment les retrouver. Blandine n’a pas à transformer ce choix en programme pour ses prochains jeudis.
+### Une marge de choix reparaît
 
-## Laisser de la place aux prochains choix
+Retrouver une décision voulue apporte une information sur cette activité précise.
 
-Léon peut continuer à lui signaler les répétitions ouvertes qu’elle lui a demandé de connaître. Blandine souhaite pouvoir en écouter une de temps en temps, si l’horaire et sa journée le permettent. Elle peut donner un avis sur une mesure et partir ensuite. Pour un concert, Léon continuera de compter sur les personnes inscrites. Alice pourra lui dire, plus tard, si les feuilles leur ont permis de retrouver d’autres indications.
+**Exemples concrets**
 
-Blandine garde son rendez-vous avec sa thérapeute et le moyen de la joindre plus tôt si les journées deviennent trop difficiles. Yannis, de son côté, l’invite à la pépinière samedi : il veut choisir de la menthe et repartir avant que les files s’allongent. Elle peut lui dire si elle a envie de venir. Sa réponse décidera de l’heure à laquelle ils se retrouvent, avec la possibilité d’un autre samedi.
+- Blandine dépose deux originaux après avoir relu la fiche et vérifié le programme.
+- Une personne se remet à accepter certaines visites en choisissant leur durée.
+
+### Le lien garde une forme propre
+
+Une décision nouvelle peut aller de pair avec le désir de retrouver un détail associé au proche.
+
+**Exemples concrets**
+
+- Blandine garde Les Saules et regarde encore le mot caché dans le pli.
+- Quelqu’un reprend la marche avec une amie et conserve l’habitude de s’arrêter à l’endroit préféré du proche.
+
+### Le coût peut varier d’un jour à l’autre
+
+Un projet mené à son terme ne rend pas toutes les prochaines activités également disponibles.
+
+**Exemples concrets**
+
+- Blandine prévoit la pépinière selon l’avancement des légendes attendues par Esther.
+- Une personne peut assurer une permanence cette semaine et souhaiter parler du prix qu’elle paie en fatigue après d’autres engagements.
+
+## 3 techniques pour faire le point sur un deuil qui évolue
+
+### 1. Choisir des repères qui vous appartiennent
+
+Comparer ce qui compte pour vous à deux moments différents.
+
+**Exercice pratique**
+
+- Nommez une activité importante.
+- Rappelez comment elle se passait auparavant.
+- Notez ce que vous pouvez choisir aujourd’hui.
+
+Le repère donne une mesure concrète sans résumer toute l’évolution à un résultat.
+
+### 2. Garder une option révisable
+
+Préparer un engagement compatible avec le reste de la journée.
+
+**Exercice pratique**
+
+- Regardez ce qui doit déjà être fait.
+- Proposez une activité avec une condition claire.
+- Confirmez-la quand vous savez ce que la journée vous permet.
+
+L’invitation reste possible sans exiger de promettre une énergie qu’on ne connaît pas encore.
+
+### 3. Continuer à parler de ce qui coûte
+
+Maintenir une place pour les difficultés encore présentes.
+
+**Exercice pratique**
+
+- Choisissez un moment qui reste pénible.
+- Dites ce qu’il change dans vos décisions ou vos activités.
+- Demandez en suivi quand refaire le point et à qui vous adresser si cela s’aggrave.
+
+L’accompagnement peut tenir compte à la fois des possibilités retrouvées et de la souffrance persistante.
 
 ## L’élastique reprend sa place
 
 Au téléphone, Yannis raconte que les galettes sont toutes parties et que son fils a retourné la dernière avec la spatule. Blandine a envoyé les premières légendes à Esther jeudi. Elle accompagnera Yannis à la pépinière si elle finit les suivantes à temps. Chez elle, elle ouvre le dossier noir sur Les Saules. Elle ne parvient toujours pas à lire le dernier mot, caché par le pli. Elle laisse la feuille comme elle est et remet l’élastique. Dans l’entrée, elle sort de son sac la chemise jaune vide et y glisse les plans dont Esther attend les légendes.
+
+---
+
+**Conclusion**
+
+Deux feuilles restent aux archives, Les Saules rentre dans son dossier et la chemise jaune sert à un autre travail. Blandine a choisi ce que le chœur recevrait. Elle continue de décider comment ses semaines se remplissent, avec un suivi pour les journées plus difficiles.

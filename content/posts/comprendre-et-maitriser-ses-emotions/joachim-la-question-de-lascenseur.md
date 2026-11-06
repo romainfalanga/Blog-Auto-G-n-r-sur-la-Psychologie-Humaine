@@ -33,16 +33,79 @@ Au rendez-vous du soir, Louise lui demande de reprendre un exemple où il s’es
 
 Une phobie spécifique porte sur un objet ou une situation circonscrite, par exemple certains animaux, la hauteur ou un espace clos. Pour comprendre une agoraphobie, l’évaluation cherche un autre lien entre les situations. La personne craint de se sentir mal ou de vivre un événement embarrassant ou difficile à maîtriser dans un endroit où partir ou être aidée lui semblerait compliqué. Un ascenseur peut ainsi apparaître dans des récits très différents. La question utile porte sur ce qui fait peur dans cet ascenseur et sur ce qui revient ailleurs.
 
-## Comment cette difficulté se manifeste
+## Comment le sens de la peur varie-t-il devant un même ascenseur ?
 
-Joachim parle à Louise de sa propre manière d’imaginer un malaise dans la cabine. La même inquiétude se retrouve à l’extérieur, dans la file ou quand il pense au bus du retour. L’escalier lui permet ce jour-là d’accéder aux archives. Le diagnostic a été posé en tenant compte de plusieurs situations et de leurs conséquences dans sa vie. Cette scène aide surtout à préciser le suivi.
+### Le même lieu peut évoquer plusieurs peurs
 
-## Décrire les choix qui ont vraiment eu lieu
+Le nom d’un endroit renseigne peu sans ce que la personne craint d’y vivre.
 
-Louise demande ce que Joachim a trouvé en montant. Un registre récent nomme correctement la rue, et la photographie ancienne situe le premier panneau à quelques mètres de l’endroit qu’ils avaient retenu. L’agent lui a donné la cote pour que Martine puisse vérifier l’information. Le rendez-vous de Joachim avait donc deux objets. Il est venu comprendre la difficulté rencontrée dans le hall et il a mené une recherche dont il est satisfait.
+**Exemples concrets**
 
-Pour une consultation, il peut être utile de raconter ce qu’on a continué à faire, ce qu’on a changé et ce à quoi on a renoncé. Joachim avait surtout préparé le récit de la montée d’anxiété. Dire qu’il est resté assez longtemps pour trouver le nom de la rue rend visible un aspect différent de sa journée. Louise peut ainsi lui demander à quels déplacements il voudrait consacrer son travail plutôt que de supposer que l’ascenseur des archives doit passer en premier.
+- Devant l’ascenseur, Joachim se demande comment il partirait s’il se sentait mal.
+- Une personne peut redouter surtout l’espace clos de la cabine, même si elle ne craint pas de se sentir mal dans d’autres endroits.
+
+### Une question peut revenir hors de cet endroit
+
+L’agoraphobie peut relier des situations différentes lorsque le départ ou l’aide y semblent difficiles.
+
+**Exemples concrets**
+
+- Joachim retrouve la question du passage au cinéma quand il raconte l’ascenseur.
+- Il se souvient aussi d’avoir cherché comment sortir de la file au marché.
+
+### Les façons de répondre à la peur varient
+
+Changer de chemin peut permettre d’atteindre le but et, ailleurs, partir peut amener à y renoncer.
+
+**Exemples concrets**
+
+- Joachim accède aux plans de la bibliothèque par une autre voie.
+- Au marché, il est reparti sans les sardines qu’il venait acheter.
+
+## 3 techniques pour décrire la difficulté qui revient d’un lieu à l’autre
+
+### 1. Formuler ce qui est redouté
+
+Faire comprendre la peur au-delà du nom de l’endroit.
+
+**Exercice pratique**
+
+- Choisissez une situation précise et nommez ce que vous craigniez qu’il arrive.
+- Ajoutez ce que vous pensiez pouvoir faire si cela se produisait.
+- Présentez ces mots au professionnel plutôt que de choisir vous-même une étiquette.
+
+Le bilan peut partir de l’objet de la peur et de la difficulté qui revient.
+
+### 2. Comparer deux réactions concrètes
+
+Décrire les effets différents d’une crainte qui se ressemble.
+
+**Exercice pratique**
+
+- Relevez un moment où vous avez trouvé un autre chemin.
+- Choisissez un moment où vous avez renoncé à ce que vous vouliez faire.
+- Dites au professionnel ce que chacun a changé dans votre journée.
+
+Les exemples éclairent les décisions prises et leur retentissement.
+
+### 3. Garder l’information obtenue
+
+Retenir ce que vous êtes venu faire en laissant la question clinique ouverte.
+
+**Exercice pratique**
+
+- Notez le résultat de la démarche que vous avez pu mener.
+- Fixez la prochaine tâche utile au projet.
+- Laissez pour le suivi les questions sur le trajet ou le lieu redouté.
+
+Le travail réalisé garde sa valeur sans décider du sens de la peur.
 
 ## La rue sur le plan
 
 De retour chez lui, Joachim écrit le nom exact de la rue sur l’épreuve. Il joint la cote de la photo au dossier de la carte. Il envoie à Diego une proposition pour samedi. Il voudrait reprendre le passage du lavoir avec lui et convenir de la façon dont il peut l’accompagner. Il ne décide rien ce soir au sujet de l’ascenseur. En pliant l’épreuve, il laisse le nom du carrefour dépasser du rabat.
+
+---
+
+**Conclusion**
+
+Joachim écrit le nom de la rue sur l’épreuve et laisse l’ascenseur en suspens. En rapprochant la bibliothèque, le cinéma et le marché avec Louise, il a pu dire quelle question revenait. C’est cette crainte d’avoir du mal à partir ou à être aidé qui relie ses exemples.

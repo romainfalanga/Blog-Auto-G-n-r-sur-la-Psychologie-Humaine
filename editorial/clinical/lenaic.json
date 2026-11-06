@@ -1,0 +1,1276 @@
+{
+  "character_id": "lenaic",
+  "bio": "À 47 ans, Lénaïc est agent de voirie. Avec son beau-frère Maël, il remet en état La Virgule, le vieux kayak orange de son père. Il aimerait le remettre à l’eau à la rencontre des Deux Rives. Lénaïc vit avec une hypocondrie. Quand il craint qu’une sensation ou qu’un doute annonce une maladie grave, ses recherches et ses vérifications lui prennent du temps, même après avoir consulté. Son médecin habituel et sa psychologue l’aident à garder un suivi médical tout en retrouvant une place pour le kayak.",
+  "profile_topics": [
+    "Hypocondrie",
+    "Recherches répétées sur la santé",
+    "Interprétation des sensations",
+    "Demandes de réassurance",
+    "Suivi médical et reprise d’activité"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "lenaic-recherches-en-ligne-atelier",
+      "title": "Les recherches de santé qui prennent la place de l’atelier",
+      "description": "En restaurant un kayak avec Maël, Lénaïc lit un article de santé. Quand il relève la tête, il a perdu le fil de leur travail.",
+      "context": "Un samedi, dans le garage de Maël",
+      "topics": [
+        "Recherches de santé",
+        "Attention accaparée",
+        "Projet de loisir"
+      ],
+      "clinical_focus": "Recherches en ligne envahissantes",
+      "clinical_intro": "Une recherche de santé peut perdre sa fonction d’information quand chaque réponse appelle une autre vérification. Lénaïc et Maël avaient prévu de faire l’inventaire des pièces d’un vieux kayak. Quelques lignes lues sur son téléphone éloignent Lénaïc de l’établi. La durée de ce détour et ce qu’il laisse en plan racontent une part de son hypocondrie.",
+      "opening": "Le kayak tient sur deux tréteaux, ventre en l’air. Avant même d’avoir ôté sa veste, Lénaïc cherche le petit coup de pinceau noir près de la pointe. De loin, ça ressemble à une virgule. Quand il était gamin, son père disait que le bateau avait une signature, ce qui évitait de demander pourquoi il avait peint par-dessus une rayure. Maël, son beau-frère, soulève un bord de la bâche. Il a récupéré deux poignées d’occasion. Ils veulent savoir si l’une va sur la coque avant d’envoyer à Inès, du club, une réponse pour la rencontre des Deux Rives.\n\nLe téléphone de Lénaïc vibre. C’est Inès qui demande une photo et une réponse avant jeudi. Sous le message, une notification annonce un article sur les maladies que l’on découvre tard. Lénaïc le touche, se dit qu’il lira les premières lignes. Un passage lui rappelle le petit battement qu’il a parfois dans un mollet, un sujet déjà vu avec son médecin. Rien n’a changé depuis leur échange. Il cherche quand même si une maladie peut d’abord passer inaperçue. Un premier site l’envoie vers un autre. Dans un témoignage, quelqu’un raconte qu’on lui avait conseillé de ne pas s’alarmer. Lénaïc laisse la page ouverte et repart vers le moteur de recherche.\n\n« Tu les avais rangées où, les rondelles ? » Maël pose une poignée à côté d’une boîte vide. Lénaïc tend la main vers le pot où traînent les crayons, puis se rend compte qu’il n’a pas entendu la moitié de la phrase. Le jour baisse sous la porte du garage. Maël part bientôt chercher sa fille. Ils ont encore deux poignées au choix et aucune photo à envoyer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une réponse en réclame une autre",
+          "text": "Une recherche de santé peut devenir une façon de tenter d’écarter une maladie redoutée. Dans l’hypocondrie, une information rassurante peut laisser une question ouverte, et un récit inquiétant relancer la recherche. Les mots saisis orientent déjà les résultats. Des témoignages, même sincères, ne permettent pas d’évaluer sa propre situation. La difficulté de Lénaïc se voit à ce qu’il ne parvient plus à faire en même temps. Le message d’Inès a disparu de son attention alors que c’est lui qui l’avait fait prendre le téléphone. Pour un symptôme nouveau ou qui change, la bonne source d’évaluation reste un professionnel de santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une recherche de santé finit-elle par prendre toute la place ?",
+          "points": [
+            {
+              "heading": "Une question en ouvre plusieurs",
+              "text": "À mesure qu’on cherche une certitude, la question de départ peut se transformer et rester sans réponse précise.",
+              "examples": [
+                "Dans le garage, Lénaïc passe d’un article général à la question des maladies qui passent d’abord inaperçues.",
+                "En préparant le dîner, une personne part vérifier le sens d’un mot et ouvre ensuite plusieurs pages sur des complications qui ne figuraient pas dans son compte rendu."
+              ]
+            },
+            {
+              "heading": "Un récit prend valeur d’indice",
+              "text": "Le rapprochement avec un vécu personnel peut donner à un témoignage plus de poids qu’à des informations applicables à sa situation.",
+              "examples": [
+                "Lénaïc s’arrête sur le témoignage d’un inconnu parce qu’il y reconnaît la phrase qu’on lui a déjà dite.",
+                "Une personne lit un commentaire sous une vidéo et le transmet à son entourage alors qu’elle ne sait pas à quel diagnostic ni à quel contexte il se rapporte."
+              ]
+            },
+            {
+              "heading": "La tâche d’origine sort du cadre",
+              "text": "Le temps passé à lire et à enchaîner les requêtes laisse des traces dans ce qu’on devait faire avec quelqu’un.",
+              "examples": [
+                "Maël doit reposer la question des rondelles alors que les deux hommes s’étaient partagé l’inventaire.",
+                "Un dimanche, une personne ouvre son téléphone pour noter une heure de départ et découvre ensuite qu’elle n’a toujours pas envoyé l’heure au groupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour repérer quand une recherche s’étend",
+          "points": [
+            {
+              "heading": "Donner une fonction à la question",
+              "objective": "Distinguer une information utile d’une recherche qui vise à faire disparaître le doute.",
+              "exercise": [
+                "Écrivez ce que vous espérez apprendre en une phrase.",
+                "Si une question porte sur un symptôme nouveau ou modifié, demandez un avis adapté plutôt que de vous fier à des résultats en ligne.",
+                "Pour une information générale, choisissez une ressource de santé institutionnelle et gardez les questions personnelles pour votre professionnel."
+              ],
+              "benefit": "Définir à quoi servira la réponse aide à reconnaître qu’une nouvelle page ne résoudra pas certaines questions."
+            },
+            {
+              "heading": "Garder une trace de l’interruption",
+              "objective": "Voir ce que la recherche répétée change dans une activité que vous vouliez faire.",
+              "exercise": [
+                "Repensez à une recherche qui a pris plus de place que prévu.",
+                "Notez la tâche interrompue et la décision qui n’a pas été prise.",
+                "Apportez un exemple à votre médecin ou à votre psychologue si ce type d’interruption revient souvent."
+              ],
+              "benefit": "Le coût se décrit par une conséquence visible et donne un point de départ à la discussion."
+            },
+            {
+              "heading": "Revenir à une question en attente",
+              "objective": "Retrouver le fil d’une tâche après avoir repéré une recherche familière et répétitive.",
+              "exercise": [
+                "Repérez à quel message, geste ou échange vous deviez revenir.",
+                "Fermez les pages de cette recherche répétée, sans modifier les démarches de soins convenues.",
+                "Choisissez une action courte qui répond au besoin initial, comme retrouver l’heure d’un rendez-vous ou prendre une photo."
+              ],
+              "benefit": "Une action précise peut rendre la reprise possible même si l’envie de chercher persiste."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux poignées sur l’établi",
+      "ending": "« Repose-moi la question », dit Lénaïc. Maël lui montre la boîte vide et repart chercher son manteau. Lénaïc ferme la page du témoignage. Il récupère les rondelles au fond du bac de pièces, les place près des deux poignées, puis photographie l’ensemble avec le coin noir de la coque dans le cadre. À Inès, il envoie la photo et demande ce qu’elle veut voir au prochain passage au club. Maël s’arrête dans l’encadrement de la porte pour choisir la poignée qu’ils vérifieront en premier. Lénaïc attend qu’il soit parti avant de rayer « photo » sur le carton. Le mot qu’il avait saisi sur son téléphone lui revient pendant qu’il écrit « rondelles larges » en dessous.",
+      "conclusion": "Le soir, Lénaïc peut envoyer la photo alors que la question de santé reste présente. La recherche avait pris la place d’une décision à deux. Le premier progrès dans le garage se mesure au travail qu’ils ont pu retrouver.",
+      "mirror": [
+        "Maël peut dire ce qui lui a manqué sans commenter l’article. « J’ai encore le temps de faire une photo avec toi. Tu veux qu’on sorte la boîte ensemble ? » S’il doit partir, il peut le dire et convenir du prochain créneau. Il n’a pas à lire les pages à son tour pour répondre sur la santé de Lénaïc. Si Lénaïc parle d’un changement physique qui l’inquiète, il peut l’aider à joindre un professionnel s’il le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-hypocondrie",
+        "cci-anxiete-sante",
+        "cci-information-sante",
+        "nhs-anxiete-sante"
+      ],
+      "continuity": {
+        "choice": "Il retrouve les rondelles, envoie la photo à Inès et prépare la liste des pièces à acheter.",
+        "next": "Inès attend une réponse avant jeudi. La liste de quincaillerie reste dans la poche de Lénaïc pour son prochain jour de travail."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "lenaic-sensation-scenario-grave",
+      "title": "Quand une sensation devient un signe de maladie grave",
+      "description": "Au dépôt de voirie, un battement familier dans le mollet fait envisager le pire à Lénaïc. La liste du kayak reste dans sa poche.",
+      "context": "Mardi midi, pendant une pause au dépôt",
+      "topics": [
+        "Interprétation des sensations",
+        "Scénario de maladie grave",
+        "Avis médical"
+      ],
+      "clinical_focus": "Interprétation catastrophique d’une sensation",
+      "clinical_intro": "Dans l’hypocondrie, une sensation réelle peut prendre immédiatement le sens d’une maladie grave. Au dépôt, Lénaïc reconnaît le battement dont il a déjà parlé à son médecin. La peur lui fait pourtant envisager une issue qui dépasse ce qu’il a observé. Distinguer les deux aide à expliquer son inquiétude sans prétendre expliquer la sensation.",
+      "opening": "À midi, dans la salle de pause, Lénaïc sort de sa poche le carton où il a écrit « rondelles larges ». Mina, qui connaît la quincaillerie près du dépôt, lui dessine le passage entre la caisse et les vis en vrac. Il faut y aller avant la fermeture du soir. Sur le carton, elle dessine aussi une flèche pour qu’il se rappelle de tourner au bon endroit. Lénaïc lui parle de La Virgule. Il essaie de lui faire comprendre pourquoi ils gardent un bateau aussi vieux quand le club en prête des plus légers.\n\nAssis devant son verre d’eau, il sent le petit battement dans le mollet gauche. Son médecin connaît cette sensation qui lui arrive de temps à autre. Cette fois, le battement a la même allure que les autres fois. La pensée qui le suit n’a rien de mesuré. Si c’était le premier signe d’une maladie qui allait l’empêcher de marcher ? L’image arrive déjà formée. Il voit ses bottes de voirie posées dans le fond du vestiaire et quelqu’un d’autre qui ouvre son casier. La phrase sur les kayaks plus légers s’arrête au milieu.\n\nMina lui demande s’il veut garder le carton ou si elle peut le jeter avec les gobelets. Il a du mal à revenir à cette question. Le rendez-vous de suivi chez le docteur Le Gall est prévu jeudi. Il a déjà parlé au médecin de la sensation. Il n’a jamais raconté à quel point l’histoire qui vient derrière lui semble plausible au moment où elle arrive. Mina attend encore, le carton à la main. Une petite tache d’eau mange la pointe de la flèche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le sens que la peur donne à la sensation",
+          "text": "Une interprétation catastrophique transforme un signe ambigu en annonce du pire. Dans l’hypocondrie, le scénario peut sembler immédiat et avoir plus de poids que le peu d’informations dont on dispose. La sensation existe. L’idée qu’elle annonce telle maladie est une interprétation dont la force ne dit rien, à elle seule, sur la cause médicale. Chez Lénaïc, la pensée passe d’un battement familier à la perspective de perdre l’usage de sa jambe. Il peut raconter ce passage en consultation. Une inquiétude liée à un symptôme nouveau, modifié ou aggravé mérite une évaluation selon la situation, indépendamment de ce qui traverse l’esprit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le scénario du pire se forme-t-il autour d’une sensation ?",
+          "points": [
+            {
+              "heading": "La conclusion arrive avant le reste",
+              "text": "L’interprétation peut surgir si vite que la personne ne distingue plus l’observation de ce qu’elle redoute.",
+              "examples": [
+                "Pendant sa pause, Lénaïc passe du battement dans le mollet à l’idée qu’il ne pourrait bientôt plus marcher.",
+                "Chez elle, une personne ressent une gêne familière, déjà évaluée. Avant d’avoir dit à son conjoint ce qu’elle ressent, elle imagine devoir annuler un voyage pour subir des examens."
+              ]
+            },
+            {
+              "heading": "La pensée s’étend à la vie quotidienne",
+              "text": "À partir d’une sensation, le scénario peut avancer jusqu’à des conséquences que rien ne permet encore d’établir.",
+              "examples": [
+                "Lénaïc voit déjà son casier occupé par un collègue alors qu’il est toujours assis à la table du dépôt.",
+                "En rangeant des courses, quelqu’un se met à envisager qui irait chercher son enfant à l’école si la maladie qu’il redoute se confirmait."
+              ]
+            },
+            {
+              "heading": "Les mots font de la crainte un fait",
+              "text": "Quand la peur est forte, le récit de ce que la personne observe peut laisser place à une affirmation sur la cause.",
+              "examples": [
+                "Le carton reste dans la main de Mina pendant que Lénaïc cherche comment parler d’une maladie plutôt que d’un battement.",
+                "Au début d’un rendez-vous, une personne explique le diagnostic qu’elle craint, puis s’aperçoit qu’elle n’a pas encore dit au médecin ce qu’elle a ressenti."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour séparer ce qui est ressenti de ce qui est redouté",
+          "points": [
+            {
+              "heading": "Écrire les deux phrases",
+              "objective": "Nommer l’observation et le scénario sans leur donner le même statut.",
+              "exercise": [
+                "Décrivez brièvement ce que vous avez remarqué, sans multiplier les contrôles.",
+                "Ajoutez la pensée qui est venue en commençant par « J’ai eu peur que ».",
+                "Si le symptôme change ou nécessite un avis, présentez l’observation au professionnel pour qu’il l’évalue."
+              ],
+              "benefit": "Le médecin peut entendre la question physique et comprendre ce que la peur en fait."
+            },
+            {
+              "heading": "Ouvrir une autre possibilité",
+              "objective": "Relâcher la pression de devoir identifier immédiatement la cause d’un doute familier.",
+              "exercise": [
+                "Choisissez un exemple déjà évalué dont vous discutez avec votre soignant.",
+                "Repérez la conclusion qui vous est venue d’emblée.",
+                "Essayez une phrase comme « J’ai une idée sur la cause et je peux la discuter » au lieu de chercher une certitude opposée."
+              ],
+              "benefit": "L’espace entre une sensation et une conclusion peut rendre l’échange plus précis."
+            },
+            {
+              "heading": "Raconter la conséquence concrète",
+              "objective": "Montrer au soignant comment la pensée modifie ce que vous faites.",
+              "exercise": [
+                "Choisissez une scène courte où le scénario a interrompu une tâche.",
+                "Reprenez la suite des faits jusqu’à l’action perdue de vue.",
+                "Demandez au prochain suivi comment aborder ensemble cette forme d’interprétation."
+              ],
+              "benefit": "Un exemple vécu aide à trouver une réponse ajustée au contexte et aux besoins de soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La flèche encore lisible",
+      "ending": "« Garde-le-moi, j’y vais ce soir. » Lénaïc replie le carton de façon à épargner la flèche. Dans son agenda, à la ligne du jeudi, il ajoute deux phrases. « Battement familier dans le mollet. J’ai eu peur de ne plus pouvoir marcher. » Il lui coûte de laisser les deux phrases l’une sous l’autre sans ajouter de résultat ni de nom de maladie. À la quincaillerie, il fait deux fois le tour du rayon avant de demander à la caissière où sont les rondelles. Il passe quand même chez Maël déposer le sachet. Ils conviennent de le trier le lendemain, la veille du rendez-vous.",
+      "conclusion": "Le battement et l’image du casier ont la même force pendant quelques instants, mais ne portent pas la même information. Lénaïc garde les deux phrases pour jeudi. Le médecin pourra entendre à la fois ce qu’il ressent et ce que cette sensation déclenche.",
+      "mirror": [
+        "Mina connaît le nom de la quincaillerie et voit Lénaïc s’interrompre. Elle peut dire « Tu veux que je te garde le carton ? » et le laisser choisir ce qu’il raconte. Si Lénaïc lui confie sa peur, elle peut l’écouter et lui demander s’il veut noter ce qu’il vient de dire pour son rendez-vous. Elle n’a pas à confirmer ni à démentir le scénario à partir de sa propre expérience."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "nhs-anxiete-sante",
+        "has-parler-avec-son-medecin"
+      ],
+      "continuity": {
+        "choice": "Il conserve deux phrases distinctes pour le rendez-vous de jeudi et achète les rondelles.",
+        "next": "Le sachet est au garage et les deux hommes le trient mercredi. Le rendez-vous de suivi est maintenu."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "lenaic-attention-au-corps-garage",
+      "title": "Quand l’attention au corps fait perdre le fil d’un geste",
+      "description": "En triant des pièces au garage, Lénaïc attend le retour d’une sensation familière. Il ne suit plus ce que Maël lui montre.",
+      "context": "Mercredi soir, devant les pièces du kayak",
+      "topics": [
+        "Attention au corps",
+        "Sensations familières",
+        "Retour à la tâche"
+      ],
+      "clinical_focus": "Surveillance attentive du corps",
+      "clinical_intro": "Quand l’attention reste fixée sur le corps, une sensation peut prendre le premier plan alors que d’autres informations passent inaperçues. Lénaïc et Maël doivent identifier les bonnes rondelles pour la poignée du kayak. Lénaïc suit surtout ce qui se passe dans son mollet et doit reprendre l’inventaire. Il fait l’expérience d’un changement d’attention sans en déduire la cause de ce qu’il sent.",
+      "opening": "Maël a réparti les rondelles en trois tas sur le carton de la quincaillerie. Pour que Lénaïc ne les mélange pas, il a dessiné sous chacun un cercle de la bonne taille. Le dernier déborde du carton, faute de place. Ça donne à Lénaïc envie de lui demander comment il faisait, à l’école, quand on lui confiait le compas. Ils se connaissent depuis assez longtemps pour ressortir de vieilles blagues comme des outils. Dans le fond du garage, la lampe éclaire la rayure noire du kayak. Le bateau sera plus facile à porter avec une poignée qui tient.\n\nMaël pose l’ancienne poignée sur l’établi. Lénaïc tire son tabouret et attend que le petit battement du mollet se reproduise. Il a déjà préparé sa note pour le docteur Le Gall. Là, aucune question précise ne lui vient. Il veut simplement savoir s’il va le sentir de nouveau. Le bruit des rondelles sur le bois lui parvient, puis il lui semble que tout est revenu à l’arrière-plan. Il se rend compte qu’il a répondu « oui » à Maël sans savoir ce qu’il lui demandait. Il ramasse deux pièces que l’autre avait déjà écartées et les remet avec les bonnes.\n\nMaël vide la main de Lénaïc dans une soucoupe. « Celles-là, je les ai retirées parce qu’elles ne vont pas avec la poignée. » Il le dit sans lever la voix. Lénaïc se penche sur l’établi, puis se surprend à attendre de nouveau. Il regarde la petite pile que Maël vient de refaire. Il voudrait pouvoir lui dire qu’il est là depuis dix minutes sans vraiment avoir commencé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’attention fait passer au premier plan",
+          "text": "Une attention soutenue à une partie du corps peut rendre les sensations à cet endroit plus présentes à l’esprit. Dans l’hypocondrie, la peur peut inciter à surveiller ce qui se passe dans le corps même lorsque la personne voudrait être attentive à une autre tâche. Cette attention ne dit pas si la sensation est due à l’anxiété ou à une autre cause. On peut demander un avis quand c’est nécessaire et, dans les situations familières déjà discutées, s’exercer à revenir vers ce que l’on fait. Lénaïc n’a pas besoin d’oublier son mollet pour entendre la question de Maël."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’attention au corps prend-elle le dessus ?",
+          "points": [
+            {
+              "heading": "Attendre un signe",
+              "text": "L’attention peut rester tournée vers l’apparition d’une sensation, même quand la personne n’est pas en train de vérifier activement son corps.",
+              "examples": [
+                "Lénaïc regarde le carton, tout en attendant de sentir si le battement revient.",
+                "Une personne relit la première page d’un livre car elle a passé plusieurs lignes à guetter un léger sifflement déjà évoqué lors d’une consultation."
+              ]
+            },
+            {
+              "heading": "Perdre une information autour de soi",
+              "text": "L’échange et les gestes extérieurs laissent moins de traces quand la surveillance mobilise déjà l’attention.",
+              "examples": [
+                "Lénaïc dit « oui » à Maël sans pouvoir redire la question posée devant l’établi.",
+                "Lors d’une partie de cartes, quelqu’un demande quel jeu vient d’être annoncé alors qu’il était assis à côté de la personne qui l’expliquait."
+              ]
+            },
+            {
+              "heading": "Repartir automatiquement vers le corps",
+              "text": "Le déplacement de l’attention peut tenir peu de temps. Il suffit parfois d’un moment d’attente dans la tâche pour que le corps redevienne le point principal.",
+              "examples": [
+                "Pendant que Maël refait sa pile, Lénaïc recommence à attendre le retour du battement.",
+                "Dans la cuisine, une personne s’applique à couper le pain et reprend sa surveillance à l’instant où elle pose le couteau."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver un fil quand le corps accapare l’attention",
+          "points": [
+            {
+              "heading": "Écouter une consigne entière",
+              "objective": "Donner un point d’appui extérieur à l’attention dans une tâche familière.",
+              "exercise": [
+                "Choisissez une activité ordinaire et sûre que vous pouvez faire avec une autre personne.",
+                "Demandez-lui de vous donner une consigne courte et écoutez-la jusqu’au bout.",
+                "Redites le geste à faire ou montrez-le, et revenez à cette consigne si votre attention repart."
+              ],
+              "benefit": "Une consigne partagée rend la reprise observable sans demander de chasser une sensation."
+            },
+            {
+              "heading": "Suivre un détail de la tâche",
+              "objective": "Pratiquer un déplacement de l’attention à partir d’une action que vous avez choisie.",
+              "exercise": [
+                "Pour un doute familier déjà évalué, sélectionnez un geste simple et sans risque dans la tâche en cours.",
+                "Portez votre attention sur une caractéristique utile au geste, comme l’ordre des pièces ou le son de la voix.",
+                "Si l’attention repart vers le corps, revenez à la caractéristique choisie et poursuivez le geste."
+              ],
+              "benefit": "L’exercice peut montrer que l’attention change de point d’appui même quand le doute ne disparaît pas."
+            },
+            {
+              "heading": "Faire du retentissement un sujet de suivi",
+              "objective": "Discuter de l’attention sans transformer l’exercice en surveillance de santé.",
+              "exercise": [
+                "Choisissez un moment récent où vous avez perdu le fil.",
+                "Décrivez l’information manquée au lieu de reconstituer chaque sensation.",
+                "Parlez au soignant de cette gêne et demandez dans quelles situations un essai de déplacement de l’attention est adapté."
+              ],
+              "benefit": "L’exemple permet d’ajuster l’exercice et de préserver les indications médicales."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les trois cercles",
+      "ending": "Lénaïc ramène la soucoupe vers lui et demande une seule consigne. « Mets les larges dans le cercle qui déborde. » Il le fait. Pendant que Maël explique comment il avait mesuré les deux poignées, Lénaïc perd à nouveau quelques mots. Il lui demande de reprendre à partir de la mesure. Après deux essais à blanc, la poignée choisie et les rondelles sont dans le même sachet. Maël le suspend à côté de la coque. Ils iront montrer le montage à Inès quand ils auront fini les pièces du siège. En rentrant, Lénaïc retrouve le message du club. Il a maintenant une réponse à donner.",
+      "conclusion": "Le tri avance au moment où Lénaïc retrouve une consigne précise, pas parce qu’il aurait appris ce que signifie la sensation. Elle peut rester présente. À la veille du suivi, il sait mieux dire ce que la surveillance lui fait manquer dans une soirée ordinaire.",
+      "mirror": [
+        "Maël a vu deux rondelles retourner dans le mauvais tas. Il peut dire « Je te redis le tri, ou on met le sachet de côté pour ce soir ? » et laisser Lénaïc répondre. Une consigne à la fois peut l’aider à reprendre leur activité commune. Si Maël manque de temps ou s’agace, il peut suspendre le travail. Il n’a pas à vérifier où Lénaïc porte son attention."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "nhs-anxiete-sante",
+        "ohspic-anxiete-sante"
+      ],
+      "continuity": {
+        "choice": "Il revient au tri à l’aide d’une consigne, puis choisit une poignée avec Maël.",
+        "next": "Le sachet reste au garage pour le remontage. Lénaïc rentre et ouvre le message d’Inès avant le rendez-vous du lendemain."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "lenaic-demande-assurance-qui-revient",
+      "title": "Pourquoi l’assurance d’un proche ne tient pas toujours",
+      "description": "Le soir, Lénaïc demande à Maël de lui dire qu’il va bien. Quand la conversation s’arrête, il retrouve son doute et veut rappeler.",
+      "context": "Mercredi soir, à la table de la cuisine",
+      "topics": [
+        "Réassurance répétée",
+        "Soulagement bref",
+        "Limites des proches"
+      ],
+      "clinical_focus": "Soulagement bref par réassurance",
+      "clinical_intro": "Une réponse rassurante peut faire baisser la peur sur le moment sans répondre durablement au besoin de certitude. Au téléphone, Lénaïc repose à Maël une question sur une sensation déjà évaluée. Son beau-frère sent que les mêmes mots sont attendus de lui. Leur échange montre comment accueillir la détresse sans promettre une certitude médicale.",
+      "opening": "Le message pour Inès tient sur deux lignes. Ils souhaitent présenter La Virgule à la rencontre. Ils lui montreront les réparations au club quand les pièces du siège seront prêtes. Lénaïc relit la réponse sur l’écran de la cuisine et l’envoie, satisfait d’avoir répondu la veille de l’échéance. Il prend ensuite la photo des trois cercles que Maël avait dessinés et la recadre pour laisser le plus grand dépasser du bord. Il veut la montrer à sa sœur. Au moment de fermer l’appareil photo, il repense au mollet. Le souvenir de l’après-midi suffit. Il n’a rien observé de différent.\n\nMaël décroche avec le robinet ouvert derrière lui. Lénaïc demande si, à sa place, il aurait peur. Maël répond que le docteur Le Gall connaît déjà le sujet. Lénaïc le remercie. Pendant une minute il entend le bruit de l’eau dans la cuisine de son beau-frère et lui demande s’il a finalement récupéré la poignée de porte de son placard. C’est un problème qu’ils repoussent depuis février. Maël s’est trompé de couleur à la commande. Il ouvre le placard pour lui faire entendre le grincement.\n\nJuste avant de raccrocher, Lénaïc demande si Maël a déjà senti un battement comparable. Il voudrait l’entendre dire que ça lui arrive. Maël ferme le robinet. « Je t’ai déjà répondu tout à l’heure. Je dois finir ici. » Après qu’ils ont raccroché, Lénaïc cherche encore à lui expliquer pourquoi ce n’est pas tout à fait la même question. Il a le doigt sur l’icône qui permet de rappeler. Le placard dont ils parlaient quelques secondes plus tôt a complètement disparu de la conversation.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un soulagement qui demande à être renouvelé",
+          "text": "Une demande de réassurance répétée vise souvent à retrouver un soulagement déjà éprouvé. Dans l’hypocondrie, le proche peut donner une réponse qui aide un instant. Lorsque le doute reprend, la personne cherche parfois la même garantie dans des mots différents. Elle peut écouter le ton de la voix, repenser à la réponse ou solliciter quelqu’un d’autre. Le fait de chercher une précision en consultation ou de demander un nouvel avis pour un changement physique relève d’une autre démarche. Ici, Maël ne possède pas l’information que Lénaïc voudrait lui faire garantir. Il peut accueillir la peur et préserver le temps qu’il souhaite consacrer à l’appel."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la demande d’assurance repart-elle ?",
+          "points": [
+            {
+              "heading": "Un instant de répit",
+              "text": "La réponse du proche peut détendre l’échange. C’est parfois ce changement qui donne envie de retrouver la même réponse plus tard.",
+              "examples": [
+                "Après la première réponse de Maël, Lénaïc parle de la poignée du placard et plaisante sur son bruit.",
+                "Une personne lit le message rassurant d’un ami, reprend son repas, puis rouvre la conversation dès qu’elle est seule."
+              ]
+            },
+            {
+              "heading": "Une question reformulée",
+              "text": "Le doute peut se présenter comme une précision nécessaire alors que le but reste d’obtenir la même garantie.",
+              "examples": [
+                "Lénaïc demande d’abord ce que Maël ferait à sa place, puis s’il a lui-même déjà éprouvé une sensation semblable.",
+                "Un soir, quelqu’un demande à son conjoint s’il semble fatigué, puis lui demande si une personne malade pourrait avoir l’air en forme."
+              ]
+            },
+            {
+              "heading": "Le proche se sent chargé de répondre",
+              "text": "À force de devoir prendre position sur des questions qu’il ne peut pas trancher, le proche peut écourter les échanges ou éviter d’autres sujets.",
+              "examples": [
+                "Maël ferme le robinet et ne revient plus à la discussion sur son placard.",
+                "Une sœur hésite à rappeler pour confirmer un repas de famille parce que les derniers appels sont revenus sans cesse à la même demande d’assurance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour recevoir du soutien sans réclamer une garantie",
+          "points": [
+            {
+              "heading": "Demander une présence précise",
+              "objective": "Chercher un appui que le proche est en mesure d’offrir.",
+              "exercise": [
+                "Repérez si vous demandez une garantie sur un doute familier ou une aide pour joindre un soignant en cas de changement.",
+                "Dans le premier cas, proposez un appui défini comme quelques minutes de présence ou une conversation sur une activité commune.",
+                "Laissez l’autre préciser ce qu’il peut faire et à quel moment."
+              ],
+              "benefit": "Une demande claire laisse une place au lien sans transformer le proche en source d’avis médical."
+            },
+            {
+              "heading": "Convenir d’une réponse ensemble",
+              "objective": "Éviter d’inventer la règle pendant que la peur monte.",
+              "exercise": [
+                "Choisissez ensemble un moment calme pour reparler d’un échange répétitif.",
+                "Cherchez des mots que chacun peut dire sans s’engager à résoudre la peur.",
+                "Distinguez ces moments du cas où l’un des deux a besoin d’aide pour accéder aux soins."
+              ],
+              "benefit": "Un accord choisi peut limiter les malentendus et laisse à chacun le droit de passer le relais."
+            },
+            {
+              "heading": "Apporter la séquence au suivi",
+              "objective": "Montrer comment un répit bref se transforme en nouvelle demande.",
+              "exercise": [
+                "Racontez ce que vous demandiez la première fois.",
+                "Ajoutez ce que la réponse a rendu possible puis ce qui vous a donné envie de rappeler.",
+                "Choisissez avec votre soignant une réponse différente à essayer dans une situation déjà discutée."
+              ],
+              "benefit": "La discussion porte sur un enchaînement vécu et permet de choisir un changement réalisable."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le placard au bout du fil",
+      "ending": "Lénaïc pose le téléphone et envoie un message après quelques minutes. « Ça me reprend. Je vais en parler demain. Si tu as le temps, dis-moi plutôt si c’est la couleur ou la taille qui ne va pas. » Maël répond par une photo de la poignée, d’un doré éclatant au milieu des boutons noirs. Lénaïc lui propose d’en reparler le lendemain pour voir ce que chacun peut faire au téléphone. Maël lui écrit que ça lui va. Pour l’instant il doit finir sa vaisselle. Lénaïc ajoute au rendez-vous de jeudi la question qu’il voulait poser en rappelant. Il a encore envie d’une réponse, et il regarde la photo du placard une deuxième fois avant d’éteindre l’écran.",
+      "conclusion": "Lénaïc et Maël peuvent retrouver un sujet qu’ils partagent alors que l’envie d’être rassuré revient. Le répit bref explique la force de la seconde demande. Leur prochain échange pourra préciser quelle présence chacun souhaite offrir ou recevoir.",
+      "mirror": [
+        "Maël s’arrête de faire la vaisselle quand la question revient. Il peut dire ce qu’il a entendu et ce pour quoi il reste disponible. « Je vois que tu cherches encore une réponse. Je peux parler du placard cinq minutes, puis je dois finir ici. » S’ils choisissent un autre fonctionnement, mieux vaut le décider ensemble hors de l’appel qui tourne en rond. En cas de symptôme changé ou préoccupant, il peut offrir de faciliter l’accès à un avis au lieu d’appliquer leur accord sur les doutes familiers."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "cci-repondre-reassurance",
+        "nhs-anxiete-sante",
+        "has-parler-avec-son-medecin"
+      ],
+      "continuity": {
+        "choice": "Il renonce à reposer la question le soir même et l’apporte au suivi. Il propose à Maël de discuter de leur disponibilité hors de l’appel.",
+        "next": "Jeudi, Lénaïc dispose des notes sur le mollet et l’appel pour préciser le suivi avec le docteur Le Gall."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "lenaic-portee-avis-medical",
+      "title": "Quand un avis médical laisse encore du doute",
+      "description": "Lénaïc sort son ancien compte rendu chez le docteur Le Gall. Il veut savoir ce qui a été évalué et quand il pourrait avoir besoin d’un nouvel avis.",
+      "context": "Jeudi, au rendez-vous de suivi",
+      "topics": [
+        "Portée d’une évaluation",
+        "Consignes de suivi",
+        "Questions en consultation"
+      ],
+      "clinical_focus": "Doute persistant après un avis médical",
+      "clinical_intro": "Dans l’hypocondrie, le doute peut se fixer sur ce qu’un examen aurait pu manquer. Lénaïc apporte un compte rendu et les notes de sa semaine. Le docteur Le Gall l’aide à distinguer ce que l’évaluation a couvert, ce qui justifierait de reprendre contact et les questions qu’il pourra discuter avec sa psychologue.",
+      "opening": "La photocopie est devenue molle aux plis. Lénaïc la tire de son agenda et l’aplatit du revers de la main sur le bureau du docteur Le Gall. Il connaît la dernière phrase presque par cœur. Il l’a déjà lue dans le bus et sur le rebord de l’évier. C’est le compte rendu de l’évaluation précédente. À son dernier rendez-vous, le médecin lui en avait expliqué la conclusion. Ce matin, Lénaïc cherche surtout à savoir si la phrase vaut encore aujourd’hui. Il a préparé sa question comme si une réponse assez précise pouvait régler la question pour de bon.\n\nLe docteur lui demande ce qui s’est passé depuis leur dernier échange. Lénaïc revient au mardi du dépôt. Il lit les deux phrases sur le battement familier et la peur de ne plus marcher. Il raconte aussi l’appel à Maël. Pendant quelques minutes, il avait réussi à parler d’une poignée de placard. Le médecin s’informe de la sensation et de son évolution depuis l’examen précédent. Puis il demande à Lénaïc ce qu’il fait du résultat dans les jours qui suivent. « Je regarde les mots qui laisseraient une exception. » Il se trouve soulagé et un peu embarrassé de l’avoir dit aussi simplement.\n\nIl sort une autre feuille où il a noté le nom d’un examen dont il a entendu parler. Le papier est couvert de petits traits, ceux qu’il fait quand il décide dans quel ordre poser ses questions. « Si je le fais, est-ce que je saurai enfin quand il faut que je revienne vous voir ? » Le docteur pousse la photocopie de côté, juste assez pour dégager une place où écrire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que peut dire une évaluation",
+          "text": "Un avis médical a une portée définie par la question, la situation et le moment auxquels il répond. Dans l’hypocondrie, la recherche de certitude peut pousser à demander à un résultat de couvrir aussi des situations futures ou différentes. Lénaïc en vient à lire l’ancien compte rendu pour savoir ce qui pourrait lui arriver. En consultation, il peut demander ce que le médecin a évalué, si un autre examen est indiqué et à quelles conditions le suivi doit changer. Comprendre ces limites permet de tenir ensemble deux besoins. La personne doit pouvoir suivre les soins qui lui sont indiqués et rester libre de signaler une évolution. Elle peut aussi travailler sur le besoin de relire ou d’obtenir plusieurs fois la même assurance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le doute se fixe-t-il sur la portée d’un avis ?",
+          "points": [
+            {
+              "heading": "Un mot devient une réserve",
+              "text": "La personne peut lire une formule précise comme si elle cachait un doute que le professionnel n’a pas exprimé.",
+              "examples": [
+                "Lénaïc cherche dans la dernière phrase du compte rendu les mots qui laisseraient une exception.",
+                "Une personne s’arrête sur la date d’un résultat et relit seule le document en espérant y trouver combien de temps l’avis restera valable."
+              ]
+            },
+            {
+              "heading": "Une réponse devient une promesse attendue",
+              "text": "Un résultat peut être appelé à écarter plusieurs maladies ou à dire ce qui arrivera à l’avenir, au-delà de la question posée.",
+              "examples": [
+                "Au cabinet, Lénaïc demande si un examen de plus lui dira quand il devra revenir voir son médecin.",
+                "Quelqu’un espère qu’une analyse demandée pour une question précise garantira aussi que les sensations de l’année suivante ne seront jamais inquiétantes."
+              ]
+            },
+            {
+              "heading": "Le suivi prévu se brouille",
+              "text": "L’incertitude sur les suites peut rendre difficile de savoir ce qu’il reste à faire ou à demander. Une clarification sur ce point est légitime.",
+              "examples": [
+                "Lénaïc tient à la fois la photocopie et le nom d’un autre examen. Il n’a pas encore formulé son besoin d’un repère pour la suite.",
+                "Au retour d’une consultation, une personne rouvre le dossier parce qu’elle ne se souvient pas si elle doit recevoir un résultat ou prendre un rendez-vous de suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier ce qu’un avis permet de décider",
+          "points": [
+            {
+              "heading": "Poser la question qui manque",
+              "objective": "Distinguer la portée de l’évaluation de la garantie que vous aimeriez obtenir.",
+              "exercise": [
+                "Apportez le document concerné ou notez la question que l’examen devait éclairer.",
+                "Demandez au professionnel ce qu’il a évalué, ce que l’avis permet de conclure dans votre situation et ce qui reste à suivre.",
+                "Vérifiez si un examen, un résultat à recevoir ou un rendez-vous reste prévu."
+              ],
+              "benefit": "Vous pouvez quitter l’entretien avec des suites précises, même si certaines questions restent ouvertes."
+            },
+            {
+              "heading": "Mettre le prochain contact au clair",
+              "objective": "Disposer d’un repère personnel pour le suivi et l’accès aux soins.",
+              "exercise": [
+                "Demandez quand le suivi ordinaire est prévu et par quel moyen joindre le cabinet si quelque chose change.",
+                "Reformulez la conduite discutée pour un changement préoccupant et gardez les indications d’urgence. En France, une urgence médicale relève du 15 ou du 112.",
+                "Demandez une note courte si elle vous aide, puis conservez-la avec votre date de suivi."
+              ],
+              "benefit": "Le repère peut éviter de devoir déduire la suite d’un compte rendu ancien."
+            },
+            {
+              "heading": "Apporter un exemple de relecture",
+              "objective": "Aider le soignant à entendre la part du doute qui revient après les explications.",
+              "exercise": [
+                "Choisissez une relecture ou une demande répétée qui vous a occupé longtemps.",
+                "Notez la question à laquelle vous tentiez de répondre à ce moment précis.",
+                "Parlez-en à votre médecin ou à votre psychologue pour distinguer un besoin d’information d’un besoin de réassurance."
+              ],
+              "benefit": "Vous pouvez décider ensemble si l’appui utile relève du suivi médical ou du travail sur les vérifications."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une feuille pour la suite",
+      "ending": "Le médecin reprend le compte rendu avec lui. D’après l’évaluation, le médecin ne juge pas utile de répéter un examen pour la sensation restée inchangée. Le Gall lui explique ce qui a été vérifié et inscrit la date du prochain point. Pour la sensation familière déjà discutée, ils gardent le suivi prévu. Si Lénaïc remarque un symptôme nouveau, différent ou qui s’aggrave, il peut appeler le cabinet et expliquer ce qui change pour obtenir un avis adapté. Ils abordent aussi les situations urgentes, pour lesquelles il faut passer par le 15 ou le 112 sans attendre un rendez-vous. Lénaïc redit le plan avec ses mots. Mardi, il reparlera avec Lise, sa psychologue, des moments où il relit un document pour y chercher une certitude.\n\nLe soir, il explique à Maël qu’un changement physique mérite un avis, et que pour la question de la veille il préférerait une proposition concrète, comme parler du kayak. Il ne lui envoie pas le compte rendu. Inès propose de les voir samedi au club pour leur montrer le parcours envisagé et prendre les premières inscriptions. Lénaïc transmet l’heure à Maël.",
+      "conclusion": "Un résultat ne répond pas à toutes les questions que le doute peut lui faire porter. Le docteur Le Gall précise ce qui reste à faire et les conditions d’un nouvel avis. Lénaïc dispose d’un plan qu’il peut suivre et d’un autre espace pour parler de la peur qui revient.",
+      "mirror": [
+        "Maël n’a pas besoin de lire le compte rendu pour entendre ce que Lénaïc retient du rendez-vous. Il peut répondre « Pour les appels où ça recommence comme hier, je peux rester un moment avec toi ou parler du kayak. Tu me diras ce qui t’aide. » Il peut refuser de commenter le résultat et, si un fait nouveau demande un avis, aider à trouver le numéro du cabinet sans se charger de l’évaluation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-hypocondrie",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "has-parler-avec-son-medecin",
+        "has-decision-medicale-partagee",
+        "service-public-samu-sas",
+        "cci-repondre-reassurance"
+      ],
+      "continuity": {
+        "choice": "Lénaïc et son médecin conviennent d’un suivi explicite et différencient routine, changement à signaler et urgence. Lénaïc fixe les limites de ce qu’il partage avec Maël.",
+        "next": "Le rendez-vous avec Lise est mardi. Samedi, les deux hommes sont attendus au club pour les inscriptions et la présentation du parcours."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "lenaic-eviter-club-par-peur",
+      "title": "Quand la peur de tomber malade éloigne du club",
+      "description": "Lénaïc attend devant le club où Maël le rejoint. Même une inscription pour une future sortie lui paraît trop engageante.",
+      "context": "Le samedi suivant, au club des Deux Rives",
+      "topics": [
+        "Évitement d’activité",
+        "Anticipation de la maladie",
+        "Retour progressif"
+      ],
+      "clinical_focus": "Évitement par peur pour sa santé",
+      "clinical_intro": "Éviter une situation où l’on craint de tomber malade peut soulager sur le moment, puis réduire les activités auxquelles on tient. Au club, Lénaïc envisage de repartir avant même de voir le parcours. Il tient au projet du kayak et redoute de s’engager pour une journée où il se sentirait loin des soins.",
+      "opening": "Lénaïc reconnaît l’odeur de la cabane du club avant d’en voir la porte. Du café qu’on réchauffe et le bois mouillé des bancs. Il est arrivé avec dix minutes d’avance. Des enfants ont aligné des bottes au pied du grillage, semelles vers le haut. Inès l’a aperçu par la vitre et lui fait signe de la rejoindre autour de la grande carte. Aujourd’hui, personne ne navigue. Elle présente le tracé de la rencontre et veut savoir quels bateaux anciens les membres ont envie de faire revoir au club. Il suffirait de pousser la porte.\n\nIl recule pour ne pas gêner ceux qui entrent. Il s’imagine déjà inscrit, au milieu du parcours, atteint d’une maladie grave qu’il faudrait traiter sur place. Au moment de partir de chez lui il voulait présenter la photo de la coque, avec la marque qu’il se souvient d’avoir vue son père peindre. Maintenant, il se dit qu’il pourrait écrire à Maël qu’il a oublié quelque chose au garage. Il a déjà écourté deux visites au club dans les semaines précédentes. Le soulagement lui était venu sur le parking, avant même d’avoir remis la clé dans le contact.\n\nMaël arrive à pied avec une enveloppe en kraft sous le bras. Il a imprimé la photo. « Tu veux qu’on aille la poser là, ou tu m’attends ? » demande-t-il. Lénaïc prend l’enveloppe, la retourne et remarque que son beau-frère a écrit « La Virgule » au feutre. Il n’a rien d’inquiétant à signaler sur sa santé ce matin. La peur d’être engagé pour plus tard suffit à lui faire regarder du côté des voitures.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évitement avant même l’activité",
+          "text": "La peur pour sa santé peut conduire à s’écarter d’un lieu, d’une démarche de soins ou d’une activité avant que la situation redoutée se présente. Dans l’hypocondrie, le soulagement après avoir renoncé peut rendre ce choix plus tentant la fois suivante. Lénaïc s’écarte de la porte alors que l’inscription ne comporte aucune mise à l’eau. Il peut reprendre contact par une étape qu’il choisit, en distinguant la peur anticipée des restrictions éventuelles d’un soignant et des décisions réelles de sécurité. Éviter une consultation nécessaire par peur du résultat mérite un relais vers le professionnel. Reprendre une activité de loisir peut, elle, se discuter progressivement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur conduit-elle à éviter certaines situations ?",
+          "points": [
+            {
+              "heading": "Renoncer avant de savoir ce qui est proposé",
+              "text": "Dans l’anticipation, une petite démarche peut prendre le poids de l’activité entière.",
+              "examples": [
+                "Devant le club, Lénaïc imagine qu’entrer le placerait déjà sur l’eau, même si le rendez-vous est consacré à la carte et aux inscriptions.",
+                "Une personne décline une invitation à venir parler de l’organisation d’une randonnée parce qu’elle se voit déjà au point le plus éloigné du parcours."
+              ]
+            },
+            {
+              "heading": "Soulagement immédiat, activité plus lointaine",
+              "text": "S’écarter peut apporter un répit et rendre plus difficile une nouvelle tentative, même quand l’activité compte pour soi.",
+              "examples": [
+                "Lors de précédentes visites, Lénaïc est reparti du parking soulagé sans avoir vu les autres membres.",
+                "Quelqu’un quitte le groupe de marche pour ne pas avoir à imaginer être malade loin de chez lui, puis regrette de perdre les sorties du dimanche."
+              ]
+            },
+            {
+              "heading": "Mettre une démarche de soins de côté",
+              "text": "La même peur peut pousser à éviter une information ou un rendez-vous dont la personne a pourtant besoin.",
+              "examples": [
+                "Une personne laisse de côté le courrier d’un examen dont le médecin lui a demandé de discuter, par crainte de ce qu’elle pourrait y apprendre.",
+                "Quelqu’un hésite à confirmer un contrôle déjà indiqué parce que la salle d’attente lui fait imaginer un résultat grave."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre contact avec une situation évitée",
+          "points": [
+            {
+              "heading": "Décomposer la participation",
+              "objective": "Choisir une étape proportionnée à ce qui est possible aujourd’hui.",
+              "exercise": [
+                "Distinguez la première rencontre de l’activité complète que vous imaginez.",
+                "Vérifiez avec l’organisateur ce qui est proposé, ce qui vous engage et les règles réelles de sécurité.",
+                "Choisissez une étape consentie, par exemple venir à la présentation, en respectant les indications de vos soignants."
+              ],
+              "benefit": "Un premier contact peut rendre l’activité moins abstraite sans vous engager au-delà de ce que vous décidez."
+            },
+            {
+              "heading": "Rétablir un contact de soin évité",
+              "objective": "Protéger une démarche médicale dont vous avez besoin, même si elle suscite de la peur.",
+              "exercise": [
+                "Repérez le rendez-vous, le résultat ou le symptôme que vous hésitez à évoquer.",
+                "Prenez contact avec le professionnel concerné et dites aussi que la peur rend la démarche difficile.",
+                "Si vous le souhaitez, demandez à une personne de confiance de vous accompagner selon les modalités utiles."
+              ],
+              "benefit": "Le soin peut avancer avec l’appui que vous choisissez, sans attendre que la peur disparaisse."
+            },
+            {
+              "heading": "Préparer un essai avec la psychologue",
+              "objective": "Travailler sur l’évitement quand il prend durablement la place d’activités importantes.",
+              "exercise": [
+                "Décrivez une situation évitée et ce qui vous manque depuis.",
+                "Vérifiez ensemble les limites de santé ou de sécurité à respecter.",
+                "Convenez d’une première étape adaptée et parlez ensuite de ce que vous avez réellement fait."
+              ],
+              "benefit": "L’essai peut redonner une option sans imposer une exposition ni ignorer les précautions."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe en kraft",
+      "ending": "« J’entre pour lui donner ça. Après je décide. » Maël ouvre la porte et laisse Lénaïc passer devant. Inès regarde la photo, puis lui demande s’il voudrait la voir au mur le jour de la rencontre. Lénaïc dit oui. Elle lui montre sur la carte la partie qui peut être parcourue avec le groupe et explique qu’une inscription ne vaut pas autorisation de naviguer. Le club examinera le bateau restauré et décidera en fonction des conditions. Inès leur réserve un premier créneau de vérification pour la fin de la semaine suivante. Lénaïc lui demande de noter La Virgule comme participante au projet, avec une vérification à programmer. Il ne reste pas au café qui suit. En sortant, il s’aperçoit qu’il tient toujours l’enveloppe vide. Sur le verso, il note la question qu’il veut poser à Lise mardi.",
+      "conclusion": "Lénaïc est entré sans pouvoir trancher d’avance ce qu’il fera sur l’eau. La perspective de la sortie l’avait déjà éloigné du club. En donnant la photo, il reprend sa place dans le projet et garde le droit de choisir la suite.",
+      "mirror": [
+        "À la porte, Maël peut garder sa proposition simple. « Je veux montrer la photo à Inès. Tu veux lui donner la photo ? Sinon je peux y aller de mon côté. » Cela permet à Lénaïc de choisir sa part. Maël n’a pas à promettre une sortie sans risque ni à pousser Lénaïc à s’inscrire. Pour les conditions de navigation, ils s’en remettent ensemble à la personne qui encadre l’activité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-anxiete-sante",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "mer-loisirs-eau-douce"
+      ],
+      "continuity": {
+        "choice": "Il entre, accepte l’affichage de la photo et inscrit le projet du kayak, sous réserve des vérifications et de sa décision pour la navigation.",
+        "next": "Le club attend les réparations et a proposé un premier créneau de vérification. Lénaïc apporte à Lise l’enveloppe et la question de l’engagement."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "lenaic-conviction-qui-varie",
+      "title": "Pourquoi une même crainte paraît certaine un jour et discutable le lendemain",
+      "description": "Après un message sur la maladie d’un ancien collègue, Lénaïc se croit lui aussi malade. Avec Lise, il compare deux moments de la même crainte.",
+      "context": "Mardi, chez Lise, la psychologue de Lénaïc",
+      "topics": [
+        "Conviction qui fluctue",
+        "Variations de la détresse",
+        "Thérapie cognitive et comportementale"
+      ],
+      "clinical_focus": "Variations du recul sur la crainte",
+      "clinical_intro": "La conviction qu’une maladie est présente peut varier au fil de la détresse, sans que la personne dispose de faits médicaux nouveaux. En apprenant qu’un ancien collègue est malade, Lénaïc se croit lui aussi gravement atteint. Le lendemain, le même doute lui paraît plus discutable. Avec sa psychologue, il retrouve ce qui a changé entre les deux moments.",
+      "opening": "Lise pose deux feuilles au milieu de la table, à la même distance de Lénaïc. Sur la première, il recopie une phrase qu’il a envoyée la veille à Maël. « Je suis sûr qu’il m’arrive quelque chose de grave. » La seconde feuille est encore blanche. Il a apporté l’enveloppe du club, comme prévu. Au dos, il avait noté une question sur le parcours. Mais il veut d’abord parler du message qui lui est arrivé lundi, pendant qu’il rangeait les vis du siège dans une boîte à biscuits. Un ancien collègue prévenait l’équipe qu’il était soigné pour une maladie sérieuse. Il n’avait pas demandé qu’on lui réponde tout de suite.\n\nLénaïc avait relu le message après le dîner. Aucun fait nouveau n’était survenu dans sa propre santé. Il s’était tout de même dit qu’il était, lui aussi, déjà atteint. Il n’arrivait plus à croire que cette idée avait pu lui paraître discutable le matin. Maël lui avait écrit qu’il était désolé pour son collègue et avait proposé de passer le lendemain, s’il le souhaitait. Ils avaient fait ce choix ensemble la semaine précédente pour les appels qui tournent en rond. Lénaïc avait trouvé la réponse très loin de ce qu’il voulait entendre. Ce matin, avant de venir, il avait répondu à son ancien collègue en pensant à lui plutôt qu’au récit de sa propre maladie.\n\n« La phrase, tu l’écrirais encore comme ça aujourd’hui ? » demande Lise. Il regarde la feuille blanche. Il ne voudrait pas dire qu’il s’était trompé la veille, comme s’il l’avait fait exprès. Mais « je suis sûr » ne lui paraît plus être le début exact de sa phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le recul varie avec la détresse",
+          "text": "Dans l’hypocondrie, la possibilité d’envisager une autre explication peut varier selon les moments et le degré de détresse. Se sentir presque certain d’une maladie un soir et pouvoir remettre cette idée en question le lendemain ne renseigne pas à lui seul sur l’état de santé. Cela ne signifie pas que la peur était feinte. Les professionnels apprécient ce recul dans le temps. Avec Lise, Lénaïc compare la force d’une conviction dans deux contextes, sans ajouter une preuve de bonne ou de mauvaise santé. Lise lui propose cette comparaison dans le cadre d’une thérapie cognitive et comportementale. Ils cherchent ensemble à comprendre ce qui rend la préoccupation si convaincante et ce que Lénaïc peut faire quand elle s’impose."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le recul sur une même crainte peut-il varier ?",
+          "points": [
+            {
+              "heading": "Un fait extérieur change la conviction",
+              "text": "Une nouvelle de santé peut renforcer une crainte ancienne sans apporter d’information sur la situation médicale de la personne.",
+              "examples": [
+                "Lénaïc reçoit le message de son ancien collègue et sa propre maladie redoutée lui paraît tout à coup certaine.",
+                "Après une annonce entendue à la radio, une personne cesse un moment de pouvoir envisager plusieurs explications pour une sensation déjà évaluée."
+              ]
+            },
+            {
+              "heading": "La phrase intérieure change de ton",
+              "text": "Une hypothèse qui paraissait être un fait peut retrouver une part d’incertitude quand la détresse est différente.",
+              "examples": [
+                "Le mardi, la formule « je suis sûr » ne correspond plus tout à fait à ce que Lénaïc éprouve.",
+                "Dans un échange avec son thérapeute, quelqu’un dit « j’ai eu peur que ce soit ça » après avoir été incapable d’utiliser ces mots la veille."
+              ]
+            },
+            {
+              "heading": "Le recul est difficile à retrouver sur demande",
+              "text": "Un argument entendu à un moment calme peut devenir difficile à garder à l’esprit quand la peur monte.",
+              "examples": [
+                "La proposition de Maël paraît étrangère à Lénaïc le soir même, alors qu’ils avaient choisi ensemble cette manière de répondre.",
+                "Une personne prépare une phrase en consultation et s’aperçoit qu’elle n’arrive plus à y croire lorsqu’elle reçoit un message inquiétant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour observer les moments où une crainte paraît plus certaine",
+          "points": [
+            {
+              "heading": "Comparer deux instants",
+              "objective": "Repérer ce qui a changé dans la conviction sans se soumettre à des contrôles physiques.",
+              "exercise": [
+                "Choisissez avec votre soignant une inquiétude familière et déjà discutée.",
+                "Décrivez deux moments où la phrase qui l’exprime n’aurait pas été la même.",
+                "Relevez ce qui s’est passé entre les deux sans trancher vous-même une question médicale."
+              ],
+              "benefit": "La comparaison peut montrer des variations utiles à l’accompagnement."
+            },
+            {
+              "heading": "Mettre la peur en mots au présent",
+              "objective": "Décrire le degré de certitude sans se forcer à adopter une explication.",
+              "exercise": [
+                "Commencez par une phrase qui correspond au moment, comme « cette idée me paraît très convaincante ce soir ».",
+                "Si cela vous semble possible, ajoutez ce dont vous auriez besoin pour avancer, comme en parler au suivi.",
+                "Si un symptôme a changé, contactez le professionnel adapté selon le plan de soins plutôt que de prendre l’exercice pour une évaluation."
+              ],
+              "benefit": "Cette formulation laisse une place à l’expérience vécue tout en gardant ouvertes les questions qui relèvent du soin."
+            },
+            {
+              "heading": "Préparer un appui utilisable dans les deux moments",
+              "objective": "Trouver une réponse qui reste possible même quand le recul diminue.",
+              "exercise": [
+                "Dites à votre psychologue ce qui devient difficile au plus fort de l’inquiétude.",
+                "Choisissez ensemble un appui bref qui ne dépend pas d’une certitude immédiate.",
+                "Convenez de la façon de le reprendre ou de le modifier si vous n’arrivez pas à l’utiliser."
+              ],
+              "benefit": "Un appui modeste peut réduire la pression de devoir se convaincre d’emblée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La deuxième feuille",
+      "ending": "Lénaïc écrit « Hier, je n’arrivais pas à imaginer autre chose. Aujourd’hui, je crains encore que ce soit possible. » Il demande à garder les deux feuilles. Avec Lise, il décide d’utiliser cette comparaison lors d’une prochaine montée de peur, si elle lui est accessible, plutôt que de se reprocher la première phrase. Ils parlent ensuite du rendez-vous au club. Ce qui l’a aidé à entrer, c’est de pouvoir dire qu’il venait donner une photo. Maël et lui ont encore le siège à remonter. Lénaïc lui demande de sortir la boîte à biscuits et propose de retrouver, dans le vieux carton du garage, une photo de son père avec le bateau.",
+      "conclusion": "La peur de Lénaïc a été réelle lundi soir et le recul du mardi ne l’efface pas. La comparaison lui donne un langage pour raconter la différence. Lise et lui pourront s’en servir même si la certitude reprend une autre fois.",
+      "mirror": [
+        "Maël peut rester auprès de Lénaïc quand sa certitude monte sans lui rappeler durement qu’il tenait un autre discours le matin. « Je vois à quel point ça te paraît vrai ce soir. Je peux passer demain si tu en as envie. » S’il préfère s’en tenir à un échange bref, il peut le dire. Il laisse à Lénaïc le choix de parler de la comparaison faite avec Lise. En cas de changement physique, leur accord sur les appels ne remplace pas un avis."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-hypocondrie",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "tyrer-champ-cinq-ans",
+        "cci-repondre-reassurance"
+      ],
+      "continuity": {
+        "choice": "Il distingue la peur de la veille de celle du matin et garde les deux formulations. Il reprend avec Maël la préparation du siège et des photos.",
+        "next": "La boîte du siège et le vieux carton seront au garage. Le suivi avec Lise continue, sans sous-code attribué dans le récit."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "lenaic-signaler-changement-physique",
+      "title": "Signaler un symptôme nouveau quand on vit avec l’hypocondrie",
+      "description": "Au garage, Lénaïc remarque une rougeur et un gonflement nouveaux près d’une petite coupure. Il hésite à appeler avant de décrire le changement au cabinet.",
+      "context": "Deux jours plus tard, au garage puis au cabinet médical",
+      "topics": [
+        "Symptôme physique nouveau",
+        "Peur d’être pris moins au sérieux",
+        "Évaluation médicale"
+      ],
+      "clinical_focus": "Risque de minimiser un changement physique",
+      "clinical_intro": "Vivre avec l’hypocondrie ne retire rien à la nécessité d’évaluer un changement physique qui appelle un avis. Lénaïc observe une modification près d’une petite coupure et craint d’être pris moins au sérieux à cause du suivi pour son anxiété de santé. Il contacte le cabinet et laisse le médecin évaluer ce qui a changé.",
+      "opening": "Le vieux carton a gardé l’odeur du papier qui a pris l’humidité. Lénaïc l’avait ouvert mardi et s’était fait une petite coupure près de l’ongle en enlevant une agrafe. Ce jeudi matin, le doigt le gênait déjà en boutonnant sa chemise. Maintenant, en sortant une photo de son père, il voit que la peau près de l’ongle est rouge et gonflée. Le coin du papier appuie sur la zone. Il repose la photo parce que le doigt est devenu plus douloureux. Il se tourne vers Maël, qui vient de sortir la boîte à biscuits où ils rangent les pièces du siège.\n\n« J’ai quelque chose de différent au doigt. » Aussitôt, Lénaïc se demande comment le cabinet va entendre sa voix. Il revoit la feuille sortie une semaine plus tôt et la place qu’il avait faite à ses propres recherches. Il redoute de passer pour quelqu’un qui téléphone encore avec la même question. Il envisage de terminer le siège d’abord. Maël lui demande s’il veut qu’il continue seul. Lénaïc regarde le bord de l’ongle puis le carton. Il se rappelle que le médecin lui a précisément demandé de dire ce qui avait changé quand il appellerait.\n\nIl compose le numéro du cabinet depuis le garage. Il explique la coupure de mardi, le gonflement apparu depuis le matin et la douleur plus marquée. La secrétaire transmet au docteur Le Gall. Quand elle le rappelle, elle lui donne un créneau le jour même. Lénaïc accepte, puis glisse la photo de son père dans l’enveloppe du club. Maël lui demande s’il veut qu’il vienne ou s’il préfère y aller seul.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question de santé qui mérite son propre examen",
+          "text": "Un diagnostic d’hypocondrie ne donne pas la cause d’un symptôme physique. Dans une vie suivie pour des inquiétudes de santé, une maladie ou une blessure peut survenir comme chez toute autre personne. La peur d’être ramené à son anxiété peut compliquer la démarche. Lénaïc sépare le doute familier discuté au dernier rendez-vous de la rougeur, du gonflement et de la douleur apparus près de la plaie. Il rapporte ces éléments au cabinet et reçoit une réponse adaptée. Réduire des recherches ou des demandes d’assurance répétées ne doit jamais servir à reporter des soins nécessaires. Si une situation est urgente, il faut solliciter immédiatement les services compétents."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur d’être pris moins au sérieux peut-elle gêner le signalement ?",
+          "points": [
+            {
+              "heading": "Hésiter avant le premier appel",
+              "text": "Une personne déjà suivie peut craindre que son nouveau motif soit assimilé à un doute précédent.",
+              "examples": [
+                "Lénaïc entend d’avance la manière dont le cabinet pourrait recevoir son appel alors qu’il n’a pas encore parlé du doigt.",
+                "Quelqu’un remet à plus tard un appel pour une douleur qui change parce que son rendez-vous précédent avait porté sur l’anxiété."
+              ]
+            },
+            {
+              "heading": "Raccourcir ce qu’on aurait besoin de dire",
+              "text": "L’envie de ne pas inquiéter ou de ne pas déranger peut faire perdre des informations utiles à l’évaluation.",
+              "examples": [
+                "Lénaïc commence par dire à Maël que son doigt est différent. Au téléphone, il ajoute la date de la coupure et ce qu’il a observé le matin.",
+                "Une personne commence par s’excuser de rappeler et doit ensuite retrouver les mots pour expliquer qu’un symptôme déjà vu a changé."
+              ]
+            },
+            {
+              "heading": "Confondre un conseil sur les habitudes avec une règle d’attente",
+              "text": "Une limite choisie pour les recherches répétées ne s’étend pas aux démarches de soins nécessaires.",
+              "examples": [
+                "Au garage, Lénaïc pense finir le siège avant d’appeler, puis se rappelle le point distinct du plan sur les changements physiques.",
+                "Quelqu’un qui apprend à moins vérifier son corps croit devoir aussi ignorer une modification visible. Il peut demander un avis au professionnel qui le suit."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour signaler un changement physique et suivre l’avis reçu",
+          "points": [
+            {
+              "heading": "Décrire le fait et son évolution",
+              "objective": "Donner les informations utiles sans devoir déterminer la cause soi-même.",
+              "exercise": [
+                "Dites ce que vous avez remarqué, à quel moment et ce qui a changé.",
+                "Mentionnez le contexte utile, par exemple une petite blessure, sans retarder le contact pour rassembler plus de détails.",
+                "Dites si votre suivi pour l’anxiété de santé vous fait hésiter à demander cet avis."
+              ],
+              "benefit": "Le professionnel peut évaluer le symptôme et comprendre ce qui a compliqué la demande."
+            },
+            {
+              "heading": "Joindre le professionnel adapté",
+              "objective": "Éviter que la peur du jugement ou les habitudes de vérification retardent des soins.",
+              "exercise": [
+                "Si une situation est urgente en France, appelez immédiatement le 15 ou le 112 et suivez les consignes reçues.",
+                "Pour un changement qui nécessite un avis, prenez contact avec le cabinet ou, s’il est indisponible et qu’il faut une orientation rapide, avec le service d’accès aux soins via le 15.",
+                "Demandez l’aide pratique d’un proche si vous en avez envie et qu’elle facilite la démarche."
+              ],
+              "benefit": "Le bon interlocuteur peut apprécier le délai nécessaire, sans demander au proche de décider de la gravité."
+            },
+            {
+              "heading": "Repartir avec une suite comprise",
+              "objective": "Maintenir les soins de ce nouvel épisode indépendamment du travail sur l’anxiété.",
+              "exercise": [
+                "Demandez les suites à suivre et les conditions d’un nouvel appel.",
+                "Reformulez le prochain rendez-vous ou les restrictions indiquées.",
+                "Adaptez votre activité avec le professionnel et transmettez aux proches uniquement les informations utiles que vous souhaitez partager."
+              ],
+              "benefit": "Une suite claire protège le soin et permet de réorganiser une activité en attendant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La photo dans l’enveloppe",
+      "ending": "Lénaïc va seul au cabinet. Après avoir examiné le doigt, le docteur Le Gall lui explique qu’il s’agit d’une infection locale près de l’ongle et lui indique les soins et les modalités de contrôle. Ils conviennent qu’il ne reprendra pas le kayak sur l’eau avant qu’ils aient revu la situation. Sur le chemin du retour, il écrit à Maël qu’il a fait examiner sa main et qu’ils devront décaler le créneau proposé pour la vérification du bateau. Il lui demande de ranger la photo à plat. Le siège peut attendre. Inès reçoit de Lénaïc un bref message sur le report du rendez-vous du bateau. Il lui dit qu’il reprendra contact quand il saura ce qu’il peut faire. Il reste inquiet pour le doigt, et cette fois une consultation a donné une suite à cette inquiétude.",
+      "conclusion": "Lénaïc a demandé un avis pour un fait nouveau et son médecin l’a examiné. Ce geste fait partie du même parcours que le travail sur les vérifications répétées. Il lui permet de suivre des soins indiqués et de modifier le calendrier du kayak.",
+      "mirror": [
+        "Maël voit Lénaïc reposer la photo avant d’appeler le cabinet. « Je peux garder la photo et t’accompagner si tu veux. Tu préfères qu’on fasse comment ? » Il peut se charger du rangement, sans poser de diagnostic ni répondre à la place de Lénaïc. S’il l’aide ensuite à revoir la date du club, il s’en tient aux informations que Lénaïc veut partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "has-parler-avec-son-medecin",
+        "service-public-samu-sas",
+        "ameli-plaie-qui-saggrave",
+        "ameli-panaris-symptomes",
+        "ameli-panaris-consulter"
+      ],
+      "continuity": {
+        "choice": "Il signale un changement, est examiné dans la journée, puis suit les consignes et reporte son passage au club jusqu’au point médical.",
+        "next": "Le docteur Le Gall doit revoir le doigt. Maël conserve la photo. Inès attend que Lénaïc reprenne contact pour le kayak."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "lenaic-precautions-en-plus-kayak",
+      "title": "Quand les précautions s’ajoutent pour calmer la peur",
+      "description": "De retour au club, Lénaïc prépare plusieurs garanties pour sa santé. Inès et Maël l’aident à distinguer les rôles utiles le jour de la sortie.",
+      "context": "Après le contrôle médical, à la vérification du kayak",
+      "topics": [
+        "Précautions supplémentaires",
+        "Comportements de sécurité",
+        "Encadrement réel"
+      ],
+      "clinical_focus": "Précautions ajoutées pour apaiser la peur",
+      "clinical_intro": "Prendre les précautions adaptées à une activité et essayer de se prémunir contre toute crainte de maladie répondent à deux besoins différents. De retour au club après le contrôle de son doigt, Lénaïc s’appuie sur l’organisation d’Inès. Il remarque aussi ce qu’il était sur le point d’ajouter pour se sentir sûr de sa propre santé.",
+      "opening": "La poignée tient. Lénaïc laisse Inès la saisir à son tour sans lui raconter le nombre de rondelles qu’ils ont écartées. Le docteur Le Gall a revu son doigt. Ils ont terminé le suivi de l’infection et Lénaïc a repris le remontage avec Maël après en avoir parlé au cabinet. Le médecin lui a dit qu’il pouvait reprendre le kayak. Côté club, la coque, le siège et l’équipement doivent encore être vérifiés avant de naviguer. Inès a fait de la place dans le local, sous la fenêtre où elle a épinglé le premier tracé. Elle propose de réserver un essai encadré la semaine qui précède la rencontre si les conditions s’y prêtent.\n\nLénaïc s’était promis de demander qui serait présent. Il avait ensuite ajouté une idée sur son carton. Même si l’essai se déroule avec les encadrants, Maël pourrait rester au bord avec son téléphone. Puis, au cas où Maël devrait quitter la berge, il faudrait que quelqu’un d’autre prenne sa place. Le matin, il avait copié le même itinéraire d’accès au club sur deux papiers pour que chacun l’ait. Il tend le premier à Maël, qui tient encore le kayak pendant qu’Inès se penche pour regarder les fixations du siège.\n\n« Tu voulais que je m’occupe des photos à l’entrée », dit Maël. Il a déjà promis à Inès de monter les panneaux. Lénaïc le sait. Il n’a pas de changement de santé à lui signaler. Il s’imagine simplement que si Maël perdait le bateau de vue, il lui manquerait la seule précaution qui compte. Inès se redresse pour leur expliquer comment le club organise vraiment l’essai.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des précautions qui n’ont pas la même fonction",
+          "text": "Une précaution peut répondre à un risque établi ou servir surtout à apaiser la crainte qu’une maladie survienne. Dans l’hypocondrie, certaines précautions ajoutées paraissent indispensables sur le moment. Si chaque activité semble avoir été possible seulement grâce à ces garanties, il devient difficile d’envisager de la faire autrement. Une mesure supplémentaire peut être indiquée selon l’état de santé ou le contexte. La personne peut en discuter avec le professionnel ou l’encadrant compétent. Pour Lénaïc, les consignes du club s’appliquent dans tous les cas. Son envie de faire surveiller son bateau en permanence par Maël répond surtout à la peur d’une maladie redoutée, alors qu’il est déjà prévu qu’Inès encadre l’essai."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des précautions prises pour calmer la peur s’accumulent-elles ?",
+          "points": [
+            {
+              "heading": "Doubler ce qui est déjà organisé",
+              "text": "La personne peut ajouter des dispositions à celles qui existent sans qu’une indication de santé ou de sécurité ait changé.",
+              "examples": [
+                "Lénaïc veut créer une seconde veille sur la berge alors que l’essai doit être encadré par le club.",
+                "Pour un déplacement ordinaire et déjà organisé, une personne demande qu’un autre proche reste disponible toute la journée pour la crainte qu’elle lui a déjà décrite."
+              ]
+            },
+            {
+              "heading": "Confier un rôle de guet",
+              "text": "Quand la présence d’un proche sert surtout de garantie contre un scénario redouté, le rôle peut prendre le dessus sur ce qu’ils avaient décidé ensemble.",
+              "examples": [
+                "Maël ne pourrait pas monter les panneaux s’il restait à la berge jusqu’au retour de La Virgule.",
+                "Une personne invite une amie au marché puis lui demande de ne pas s’éloigner un instant, alors qu’elle souhaitait d’abord faire ses achats avec elle."
+              ]
+            },
+            {
+              "heading": "Conditionner la participation à un ajout",
+              "text": "Une activité paraît inaccessible dès que la précaution supplémentaire ne peut pas être assurée.",
+              "examples": [
+                "Lénaïc se voit renoncer si Maël doit quitter la berge, même après avoir entendu qu’une encadrante sera avec le groupe.",
+                "Quelqu’un envisage d’annuler un repas dès que la personne qu’il voulait spécialement garder joignable lui dit qu’elle ne peut pas répondre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour distinguer un ajout de peur d’une précaution nécessaire",
+          "points": [
+            {
+              "heading": "Identifier qui définit la précaution",
+              "objective": "Distinguer les règles, les indications de soin et les dispositions que la peur appelle.",
+              "exercise": [
+                "Demandez à l’encadrant quelles précautions sont prévues pour l’activité et suivez-les.",
+                "Si une question de santé personnelle se pose, demandez à votre soignant ce qui est indiqué dans votre cas.",
+                "Repérez séparément un ajout que vous faisiez surtout pour obtenir une garantie contre un doute familier."
+              ],
+              "benefit": "Savoir d’où vient chaque disposition préserve les protections utiles et rend un ajout discutable."
+            },
+            {
+              "heading": "Revoir un seul ajout avec un professionnel",
+              "objective": "Ne pas laisser le travail sur l’anxiété supprimer une mesure de sécurité réelle.",
+              "exercise": [
+                "Décrivez à votre psychologue la situation et l’ajout que vous imaginez.",
+                "Vérifiez ce que cet ajout apporte réellement et maintenez les consignes médicales et celles de l’activité.",
+                "Si cela s’y prête, choisissez avec elle un essai limité, dans un contexte où les conditions de sécurité sont déjà réunies."
+              ],
+              "benefit": "La personne peut vérifier si l’ajout doit rester une condition pour participer, dans un cadre convenu."
+            },
+            {
+              "heading": "Redonner au proche le choix de son rôle",
+              "objective": "Conserver une présence qui ait un sens pour vous deux.",
+              "exercise": [
+                "Dites pourquoi vous avez demandé au proche d’être disponible.",
+                "Écoutez ce qu’il souhaite faire et ce qu’il peut assumer le jour prévu.",
+                "Décidez d’une tâche commune ou séparée, en laissant l’encadrement et les besoins de santé aux interlocuteurs prévus."
+              ],
+              "benefit": "Vous pouvez partager le projet sans faire porter au proche une surveillance qu’il n’a pas choisie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Maël tiendra le panneau",
+      "ending": "Inès termine la vérification du kayak et leur explique qui encadre l’essai, où se retrouve le groupe et à quel moment le club décide si les conditions permettent la sortie. Lénaïc garde ces informations. Il reprend son carton et dit à Maël qu’il a pensé à lui faire tenir le guet. « Tu peux monter les photos. On pourra en reparler avec Lise avant le jour de l’essai. » Ils n’auront pas besoin de changer l’organisation du club. Maël propose de laisser une place près du panneau pour l’histoire du bateau. Inès leur prête une fiche pour y inscrire l’année et le nom de l’ancien propriétaire. Sur la fiche, Lénaïc remarque qu’il ne connaît plus l’année. Pour cette recherche-là, il sait à qui il va téléphoner.",
+      "conclusion": "La préparation continue quand Lénaïc laisse Maël reprendre son rôle au panneau. Le suivi médical a autorisé la reprise et le club garde la main sur la navigation. La précaution qu’il voulait ajouter pour calmer son doute peut se discuter à part.",
+      "mirror": [
+        "Maël peut rappeler ce qu’il a proposé pour la rencontre. « Je peux monter les panneaux et te retrouver au retour. Je ne serai pas sur la berge pour te surveiller. » Il peut aussi écouter pourquoi Lénaïc y tient et lui laisser le choix d’en parler à Lise. Pour tout besoin médical ou toute consigne du club, ils gardent le relais prévu. Le rôle de Maël au panneau n’engage pas la décision de mise à l’eau."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "mer-loisirs-eau-douce",
+        "cci-repondre-reassurance"
+      ],
+      "continuity": {
+        "choice": "Le bateau passe la vérification. Lénaïc conserve l’encadrement prévu et renonce au rôle supplémentaire qu’il voulait attribuer à Maël.",
+        "next": "Inès prévoit un essai encadré si les conditions le permettent. Maël s’occupe des photos et Lénaïc doit compléter la fiche du bateau."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "lenaic-s-inquieter-pour-rester-prudent",
+      "title": "Quand s’inquiéter paraît nécessaire pour rester prudent",
+      "description": "En préparant la fiche du kayak avec sa sœur, Lénaïc trouve difficile de cesser de penser à ce qui pourrait lui arriver.",
+      "context": "Quelques jours avant l’essai, à la table de sa sœur",
+      "topics": [
+        "Croyances sur l’inquiétude",
+        "Sentiment de responsabilité",
+        "Prudence et rumination"
+      ],
+      "clinical_focus": "Croyance que s’inquiéter protège",
+      "clinical_intro": "Dans l’hypocondrie, une personne peut croire que continuer de s’inquiéter l’empêche de manquer un problème. Lénaïc prépare une fiche sur le vieux kayak avec sa sœur. Il a déjà fait ce qu’il fallait pour le club, mais il se sent négligent dès qu’il cesse de revenir aux scénarios de maladie.",
+      "opening": "La sœur de Lénaïc sort un album de dessous les sets de table. Il y a rangé la photo retrouvée au garage, le temps qu’ils puissent regarder les dates ensemble. Ils doivent trouver l’année où leur père a ramené le kayak. Maël a promis de faire de la place au pied du panneau pour une photo et un petit texte. À peine l’album ouvert, Lénaïc reconnaît les toiles rayées qu’on étendait au bord de l’eau. Il se souvient de la façon dont son père pliait les nappes, les miettes ramenées vers l’intérieur. Il a envie de laisser dans la fiche quelque chose de ce souvenir, même si Inès n’a demandé qu’un nom et une année.\n\nSa sœur lui montre un indice, la date qui figure au dos d’une autre photo. Lénaïc lui demande de garder la page ouverte. Il repense au jour de l’essai. Le club a expliqué qui encadrera et comment la sortie sera décidée. Il n’a aucun fait de santé nouveau à signaler. Il s’est déjà passé les mêmes scénarios en boucle dans le bus. Malgré cela, il lui semble imprudent de consacrer tout son temps à l’album. S’il arrivait quelque chose alors qu’il avait cessé d’y penser, il aurait du mal à se le pardonner.\n\n« Écoute ce qu’il a écrit au dos », dit sa sœur. Leur père avait choisi la virgule pour cacher une rayure et l’avait ensuite présentée comme sa signature. Elle lit la phrase en riant. Lénaïc sourit aussi, puis se sent presque coupable de s’être laissé prendre à la blague. Il met les deux mains à plat sur la table, comme s’il devait choisir entre écouter le reste de l’histoire et continuer à prévoir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’idée que penser au risque fait partie de la prudence",
+          "text": "La conviction que s’inquiéter protège peut faire durer les préoccupations de santé. Une action de prudence répond à une situation identifiable, comme suivre les indications d’un médecin ou s’informer des règles du club. Une inquiétude répétée peut continuer alors qu’elle ne mène à aucune autre décision utile. Dans l’hypocondrie, renoncer à reprendre le scénario peut sembler irresponsable. Lénaïc ne débat pas seulement de la probabilité de tomber malade. Il se demande s’il a le droit de prêter attention à autre chose. Avec sa psychologue, il peut interroger cette règle sans renoncer à une surveillance médicale indiquée ni à un geste de sécurité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment s’inquiéter finit-il par ressembler à un devoir ?",
+          "points": [
+            {
+              "heading": "Une activité agréable semble être une faute",
+              "text": "Le plaisir ou le repos peut donner l’impression qu’on a cessé d’être suffisamment vigilant.",
+              "examples": [
+                "Lénaïc rit à la lecture de la légende, puis se reproche le temps pendant lequel la peur est passée au second plan.",
+                "Après avoir suivi l’indication de son médecin, une personne quitte un jeu de société parce qu’elle juge qu’elle devrait encore penser à ce qui l’inquiète."
+              ]
+            },
+            {
+              "heading": "Revenir au scénario même sans action à prendre",
+              "text": "Repasser une suite d’événements peut sembler utile alors qu’aucune information ou décision nouvelle n’en découle.",
+              "examples": [
+                "Dans le bus, Lénaïc a rejoué les situations qu’il reprend maintenant devant l’album.",
+                "En attendant un ami, quelqu’un repasse plusieurs fois les conséquences d’une maladie redoutée alors que son plan de suivi est déjà fixé."
+              ]
+            },
+            {
+              "heading": "Se tenir responsable d’avoir cessé d’y penser",
+              "text": "La personne peut juger sa prudence au temps consacré à s’inquiéter au lieu de regarder les démarches effectivement nécessaires.",
+              "examples": [
+                "Lénaïc se dit qu’il s’en voudrait s’il arrivait quelque chose après avoir arrêté d’y penser.",
+                "Après avoir pris le rendez-vous demandé, une personne croit encore devoir passer la soirée à envisager le résultat pour avoir fait tout ce qu’elle pouvait."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour remettre en question le devoir de s’inquiéter",
+          "points": [
+            {
+              "heading": "Nommer la règle qui s’impose",
+              "objective": "Rendre discutable une idée qui fonctionne comme une obligation.",
+              "exercise": [
+                "Repérez le moment où reprendre une activité vous fait vous sentir imprudent.",
+                "Notez en une phrase ce que votre inquiétude est censée vous éviter.",
+                "Relisez cette règle avec votre psychologue pour décider où elle vous gêne et comment l’aborder."
+              ],
+              "benefit": "Mettre la règle en mots permet d’en parler comme d’une croyance plutôt que d’une exigence."
+            },
+            {
+              "heading": "Retrouver la décision utile",
+              "objective": "Distinguer la réflexion qui mène à un geste concret de celle qui repart sans fin.",
+              "exercise": [
+                "Choisissez une situation familière pour laquelle un plan de suivi ou des précautions réelles existent.",
+                "Notez les gestes qui ont une fonction et accomplissez ceux qui restent indiqués.",
+                "Relevez ce que la prochaine répétition du scénario permettrait de décider. Si une question de santé change, demandez l’avis prévu."
+              ],
+              "benefit": "Cette distinction peut vous aider à garder des conduites prudentes sans mesurer la prudence au temps passé à avoir peur."
+            },
+            {
+              "heading": "Faire une place à un autre sujet",
+              "objective": "Essayer de revenir à une activité qui vous importe une fois les actions nécessaires accomplies.",
+              "exercise": [
+                "Choisissez un geste court, comme finir une légende ou répondre à un message.",
+                "Faites-le pendant que la question reste ouverte, dans une situation déjà discutée avec votre soignant.",
+                "Parlez ensuite de ce que vous avez pu faire et de ce que l’interruption de l’inquiétude vous a coûté."
+              ],
+              "benefit": "L’essai peut élargir ce que vous vous autorisez à faire sans demander de prouver que tout risque a disparu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’année au dos de la photo",
+      "ending": "Lénaïc demande à sa sœur de lui relire le verso. C’est l’été 1992. Il note l’année et écrit que la marque noire devait cacher une rayure. Il a envie d’ajouter « selon mon père », puis laisse « mon père disait » dans la fiche. Le scénario de l’essai revient avant la fin de la phrase. Il vérifie qu’il n’a pas de consigne du club à laquelle répondre aujourd’hui et termine sa légende. Plus tard, il envoie à Inès les deux lignes et une copie de la photo avec l’accord de sa sœur. Pour son prochain entretien avec Lise, il note une autre phrase. « Si je ne m’inquiète pas, c’est comme si je négligeais quelque chose. » Il sait maintenant à quel moment il pourrait la lui raconter.",
+      "conclusion": "En terminant la légende, Lénaïc découvre le coût de cette règle. Il avait déjà préparé ce qui relevait de la sortie et pourtant s’accusait de manquer de prudence. Le travail qu’il fera avec Lise portera sur cette obligation qu’il se donne, en gardant les consignes qui ont une fonction.",
+      "mirror": [
+        "La sœur de Lénaïc peut voir que la légende reste en suspens et reprendre la photo. « Je peux te relire le verso. Ça m’amuse de mettre ça au panneau avec toi. » S’il parle de son devoir d’y penser, elle peut écouter puis demander s’il veut en discuter avec Lise. Elle peut aussi choisir de finir la légende un autre jour. Elle ne peut pas mesurer pour lui le risque de maladie ni décréter que sa crainte est inutile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "nhs-anxiete-sante"
+      ],
+      "continuity": {
+        "choice": "Il termine la légende avec sa sœur et note la règle qui lui fait croire qu’il doit rester inquiet.",
+        "next": "Inès a la photo et le texte pour le panneau. L’essai reste fixé sous réserve de la décision du club et Lénaïc dispose d’un exemple à discuter avec Lise."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "lenaic-retour-automatismes-essai-reporte",
+      "title": "Quand les anciennes vérifications reprennent après un imprévu",
+      "description": "Le club reporte un essai sur l’eau à cause du vent. Lénaïc se surprend à rouvrir plusieurs pages de santé alors que la préparation continue à terre.",
+      "context": "Le samedi de l’essai, au local du club",
+      "topics": [
+        "Retour des habitudes",
+        "Variations dans le temps",
+        "Ajustement du suivi"
+      ],
+      "clinical_focus": "Retour des automatismes après un imprévu",
+      "clinical_intro": "Les vérifications peuvent revenir après une période où elles prenaient moins de place. Quand le club reporte l’essai du kayak à cause du vent, Lénaïc se surprend à retrouver ses habitudes de recherche. Il doit refaire une place au projet et parler de cette reprise des automatismes à sa psychologue.",
+      "opening": "Inès avait mis le mot sur le groupe avant huit heures. Le vent ne permet pas l’essai sur l’eau. Ceux qui le souhaitent peuvent venir aider à préparer les panneaux pour la rencontre, qui reste prévue le samedi suivant. Lénaïc lit le message dans le local du club, après avoir aidé Maël à décharger le kayak et une pile de chemises cartonnées. Il comprend la décision en voyant la branche du saule qui frappe contre le grillage. Il aurait trouvé bizarre qu’on parte dans ces conditions. Il avait pourtant réuni son matériel la veille et préparé la phrase qu’il dirait à Maël au retour du premier essai.\n\nPendant qu’Inès cherche des pinces, Lénaïc rouvre une page de santé enregistrée des semaines plus tôt. Il n’a pas remarqué de changement physique. Il ne sait pas très bien pourquoi il est revenu sur ce sujet. La contrariété, la matinée vide à venir, la peur dont il avait prévu de parler plus tard, tout se présente d’un coup. Au garage, il était parvenu à reprendre l’inventaire sans finir la recherche. Maintenant, une page en entraîne plusieurs et il ne retrouve pas l’endroit où il avait enregistré la photo de son père.\n\nMaël passe derrière lui avec les panneaux, un sous chaque bras. « Tu veux m’indiquer le côté de la salle ? » Lénaïc ouvre encore une page avant de relever la tête. La photo n’est pas loin. Elle est aussi imprimée dans l’enveloppe qu’il a posée sur la table. Pour l’instant, il se dit que tout ce qu’il a essayé avec Lise n’a peut-être tenu que parce qu’il n’était pas assez inquiet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retour d’une habitude et la suite du parcours",
+          "text": "Une habitude de vérification peut redevenir envahissante après un changement, même si la personne avait commencé à trouver d’autres réponses. Le cours de l’hypocondrie peut comporter des reprises de la préoccupation. Un retour des recherches ne dit pas ce que la personne pourra faire la fois suivante. Chez Lénaïc, le report de l’essai modifie une matinée qu’il avait longuement préparée. Il retrouve une vieille page et l’envie de résoudre la crainte avant de faire autre chose. Le club garde sa décision liée au vent. Lénaïc peut, sur une autre question, reprendre les appuis qu’il avait choisis et les ajuster avec sa psychologue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retour des habitudes se voit-il après un imprévu ?",
+          "points": [
+            {
+              "heading": "Le déclencheur change",
+              "text": "La préoccupation peut reprendre dans une situation nouvelle, même sans sensation physique différente.",
+              "examples": [
+                "Lénaïc ouvre une ancienne page de santé après le report de l’essai, sans changement dans son corps.",
+                "Une personne qui cherchait moins en ligne retrouve une ancienne requête après l’annulation d’une visite qu’elle attendait."
+              ]
+            },
+            {
+              "heading": "La durée du retour passe inaperçue",
+              "text": "Une réponse automatique peut s’installer avant que l’on reconnaisse qu’elle ressemble à ce que l’on travaillait déjà.",
+              "examples": [
+                "Pendant qu’Inès cherche des pinces, Lénaïc ouvre plusieurs pages alors qu’il voulait retrouver une photo.",
+                "Au milieu d’une soirée dérangée par un changement d’horaire, quelqu’un revient plusieurs fois à une ancienne conversation avant de voir le temps qu’il y passe."
+              ]
+            },
+            {
+              "heading": "La reprise devient un verdict sur les progrès",
+              "text": "La gêne du moment peut faire oublier les autres situations où un appui avait fonctionné.",
+              "examples": [
+                "Lénaïc en conclut que ses essais n’ont tenu que lorsqu’il était peu inquiet.",
+                "Une personne qui évitait moins les sorties en conclut qu’elle a tout perdu après avoir renoncé une fois."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un appui quand l’ancienne habitude revient",
+          "points": [
+            {
+              "heading": "Nommer ce qui est revenu",
+              "objective": "Situer un retour d’habitude dans son contexte plutôt que juger tout le parcours.",
+              "exercise": [
+                "Décrivez le changement de situation et le geste qui est revenu.",
+                "Repérez un exemple récent où le même automatisme vous avait laissé plus de place.",
+                "Dites au prochain suivi ce qui était différent cette fois."
+              ],
+              "benefit": "Deux situations comparables peuvent aider à choisir un appui plus adapté."
+            },
+            {
+              "heading": "Réduire la taille de la reprise",
+              "objective": "Retrouver un geste possible lorsque l’exercice prévu semble trop exigeant.",
+              "exercise": [
+                "Pour une vérification familière, choisissez une seule action que vous pouvez reprendre sans risque.",
+                "Faites cette action, même si le doute reste. Pour un changement de santé, utilisez le contact de soins indiqué.",
+                "Notez ensuite ce que vous avez pu reprendre, sans refaire toute l’analyse de la matinée."
+              ],
+              "benefit": "Une reprise limitée permet d’avancer sans attendre un retour complet au calme."
+            },
+            {
+              "heading": "Actualiser le plan de suivi",
+              "objective": "Prévoir les moments qui dérangent le plan ordinaire.",
+              "exercise": [
+                "Apportez à votre psychologue un exemple où un imprévu a ravivé l’habitude.",
+                "Choisissez ensemble un appui plus facile à retrouver dans cette situation.",
+                "Convenez de quand reprendre contact si la préoccupation ou la gêne reprend une place importante."
+              ],
+              "benefit": "Le suivi peut tenir compte des retours et s’ajuster avec vous."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les pinces au pied du panneau",
+      "ending": "Lénaïc demande à Maël de poser les panneaux contre le mur du fond. Il reprend l’enveloppe et en sort la photo imprimée. Sa main revient une fois vers le téléphone. En le glissant dans sa poche, il y retrouve les pinces qu’il avait rangées avec son matériel. Avec Maël, il décide de préparer le panneau aujourd’hui et de laisser l’essai reporté. Inès propose, pour la rencontre, un court passage encadré avec les autres anciens bateaux si la météo le permet et si le matériel est de nouveau vérifié. Elle enverra l’horaire après confirmation. Lénaïc lui demande de l’inscrire avec La Virgule. Avant de quitter le club, il ajoute à la note pour Lise ce qu’il a pu reprendre avec les pinces et le temps qu’il a de nouveau passé à lire.",
+      "conclusion": "Les recherches sont revenues pendant une matinée qui devait se passer autrement. Lénaïc peut dire ce que ce retour lui a coûté et ce qu’il a pu reprendre avec Maël. L’essai sur l’eau reste reporté par le club et le projet continue à terre.",
+      "mirror": [
+        "Maël peut reprendre la question qu’il a posée avec les panneaux dans les mains. « Je peux les placer et préparer les pinces. Tu veux choisir la photo ou tu préfères me la confier ? » Il peut constater ce qui a pu être fait dans la matinée, sans commenter les recherches de Lénaïc comme une faute. Il garde la décision d’Inès sur le vent et peut remettre la suite de leur travail à l’heure qui lui convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "mer-loisirs-eau-douce"
+      ],
+      "continuity": {
+        "choice": "Il repère les recherches revenues et finit le panneau à terre. Il prévoit d’en parler en suivi et réserve un passage encadré à la rencontre.",
+        "next": "Inès doit confirmer l’horaire et les conditions de navigation. La fiche et la photo sont prêtes à être présentées, que le passage sur l’eau ait lieu ou non."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "lenaic-activite-retrouvee-premiere-sortie",
+      "title": "Retrouver une activité qui compte quand le doute reste présent",
+      "description": "La Virgule revient à l’eau avec le club. Lénaïc mesure ce qu’il a retrouvé à la place qu’il peut prendre dans la rencontre.",
+      "context": "Le samedi de la rencontre des Deux Rives",
+      "topics": [
+        "Reprise d’activité choisie",
+        "Retentissement et progrès",
+        "Suivi poursuivi"
+      ],
+      "clinical_focus": "Reprise d’une activité malgré le doute",
+      "clinical_intro": "Dans un parcours d’hypocondrie, reprendre une activité importante peut être un progrès même si la peur n’a pas disparu. À la rencontre des Deux Rives, Lénaïc raconte l’histoire du kayak puis décide s’il veut participer au court passage prévu par le club. Il regarde ce qu’il peut de nouveau faire, avec les appuis et les limites qui restent utiles.",
+      "opening": "Une femme lit la légende à voix haute devant la photo. « Mon père disait que c’était sa signature. » Lénaïc entend la phrase comme si quelqu’un venait de la retrouver dans l’album. Il lui montre le petit trait noir sur le kayak, posé près de l’entrée, et elle s’étonne qu’on ait conservé la rayure sous la peinture. Maël distribue le programme. Il s’est gardé le coin de la table qui permet de voir les gens arriver avant qu’ils le voient. Lénaïc lui demande de tenir le panneau pendant qu’il en redresse un angle.\n\nInès vient leur dire qu’après les vérifications du jour et la confirmation des conditions, le court parcours du club est ouvert. Elle explique où le groupe attendra, puis répète que chacun peut choisir de rester à terre. Le matériel prévu, dont le gilet adapté, a été vérifié avec les encadrants. Lénaïc a discuté avec Lise de la matinée où ses recherches avaient repris. Il a gardé une réponse qui lui paraît tenable aujourd’hui. S’il retrouve la même peur sans changement de santé, il peut revenir à un geste du projet. S’il observe un changement qui demande un avis, il garde le contact convenu avec son médecin.\n\nAu bord de l’eau, Maël lui demande où il veut être sur la photo. Lénaïc lui dit de prendre plutôt le trait noir. Il sent revenir la question de ce qui arriverait si un jour son corps lui jouait un tour. Il ne peut pas promettre qu’il n’y pensera plus après la rencontre. Inès rassemble le groupe. Lénaïc s’intéresse à la place qu’elle lui indique et lève la main pour qu’elle sache qu’il est prêt.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Reprendre quelque chose qui avait perdu sa place",
+          "text": "Une reprise dans la vie quotidienne peut coexister avec des préoccupations encore présentes. Dans l’hypocondrie, le suivi peut tenir compte de la place que la peur occupe, des comportements qu’elle entraîne et des activités auxquelles la personne peut participer de nouveau. Lénaïc remarque le plaisir de montrer la coque et de retrouver Maël dans le projet. Ce sont des changements qu’il peut raconter en suivi, même s’il ressent encore le besoin de vérifier à d’autres moments. Il garde les soins qui lui sont indiqués et participe dans le cadre proposé par le club. Sa sortie ne constitue ni un examen de santé ni une promesse sur la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une activité retrouve-t-elle sa place malgré le doute ?",
+          "points": [
+            {
+              "heading": "Un engagement redevient possible",
+              "text": "La personne retrouve le choix de participer à une étape définie alors que la peur aurait auparavant décidé seule.",
+              "examples": [
+                "Lénaïc demande sa place dans le court parcours après avoir entendu ce qu’Inès propose.",
+                "Une personne qui avait cessé de chanter au club retrouve une répétition courte après avoir discuté avec le responsable et son soignant des conditions qui lui conviennent."
+              ]
+            },
+            {
+              "heading": "Une raison personnelle reprend de l’importance",
+              "text": "L’activité peut être choisie pour ce qu’elle permet de retrouver ou de partager.",
+              "examples": [
+                "Lénaïc veut transmettre l’histoire de la rayure et demande à Maël de photographier la marque.",
+                "Quelqu’un rejoint une réunion de quartier parce qu’il a envie d’y revoir une voisine, même s’il éprouve encore une inquiétude sur sa santé."
+              ]
+            },
+            {
+              "heading": "Le retour se raconte dans la durée",
+              "text": "Les progrès et les difficultés peuvent être décrits ensemble au fil du suivi.",
+              "examples": [
+                "Lénaïc peut raconter à Lise la reprise des recherches et sa participation à la même rencontre.",
+                "Une personne dit à son soignant qu’elle est revenue deux fois à un loisir et qu’elle a dû écourter une autre séance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire durer une reprise qui a du sens",
+          "points": [
+            {
+              "heading": "Définir ce que vous souhaitez retrouver",
+              "objective": "Choisir une activité pour une raison qui vous appartient.",
+              "exercise": [
+                "Nommez ce que vous aimeriez refaire ou partager.",
+                "Convenez d’une participation adaptée en suivant les indications de santé et les règles de sécurité qui s’appliquent.",
+                "Choisissez un signe concret de participation, comme retrouver une personne ou tenir un rôle précis."
+              ],
+              "benefit": "La reprise peut se mesurer à un engagement réel, sans exiger que la peur ait disparu."
+            },
+            {
+              "heading": "Prévoir un engagement que vous pouvez ajuster",
+              "objective": "Garder le choix quand le rythme ou les circonstances changent.",
+              "exercise": [
+                "Demandez à la personne qui organise l’activité quelles formes de participation sont possibles.",
+                "Choisissez une première durée ou un rôle qui vous convient, avec la possibilité de passer le relais.",
+                "Revoyez la suite selon ce que vous avez vécu et les avis nécessaires."
+              ],
+              "benefit": "Une possibilité de s’ajuster peut aider à rester lié à une activité sans en faire une épreuve à réussir."
+            },
+            {
+              "heading": "Apporter deux faits au prochain suivi",
+              "objective": "Donner une image plus complète de ce que vous vivez depuis la reprise.",
+              "exercise": [
+                "Notez une chose que vous avez pu reprendre.",
+                "Ajoutez une difficulté encore présente ou revenue à un autre moment.",
+                "Discutez des deux avec le professionnel pour garder les appuis utiles et modifier ce qui doit l’être."
+              ],
+              "benefit": "Le suivi peut prendre appui sur ce qui va mieux tout en faisant une place à ce qui demande encore de l’aide."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le trait noir sur l’eau",
+      "ending": "La Virgule se met à l’eau avec le groupe, sous la conduite d’Inès. Lénaïc reconnaît le bruit que fait la coque quand elle quitte le bord. Il suit le trajet bref annoncé. Au retour, Maël lui montre la photo prise du quai. On devine une latte du quai au premier plan. On voit le trait noir juste au-dessus de l’eau. Lénaïc demande à garder celle-là. Il a de nouveau pensé à sa santé pendant le passage et il pourra en parler à son prochain rendez-vous. À côté de la date du suivi dans son agenda, il inscrit le jour où Maël et lui rapporteront le kayak au garage pour le ranger. Il demande à Inès si, une autre fois, le club voudrait que les anciens viennent raconter comment ils choisissaient les noms de leurs bateaux.",
+      "conclusion": "La Virgule a été remise à l’eau à la rencontre et Lénaïc retrouve une place auprès du club. Le doute a traversé la sortie. Il peut en parler au suivi et conserver un autre souvenir de la journée, celui de la marque noire photographiée à la hauteur de l’eau.",
+      "mirror": [
+        "Maël peut suivre le choix de Lénaïc et lui montrer la photo. « J’ai le trait noir. Tu veux qu’on l’ajoute à celle de ton père ? » S’il lui demande comment c’était, il peut écouter aussi bien le plaisir que la peur restée présente. Il n’a pas besoin d’interpréter le passage comme une preuve de bonne santé. Il peut s’engager à ranger le bateau avec lui et laisser à Lénaïc les décisions de suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cci-anxiete-sante",
+        "ohspic-anxiete-sante",
+        "nhs-anxiete-sante",
+        "tyrer-champ-cinq-ans",
+        "mer-loisirs-eau-douce"
+      ],
+      "continuity": {
+        "choice": "Il présente La Virgule, participe à la remise à l’eau encadrée et choisit la photo qui gardera la trace de la rencontre.",
+        "next": "Le kayak repartira au garage avec Maël, et Lénaïc propose une suite au projet. Le suivi médical et psychologique se poursuit avec les appuis déjà choisis."
+      }
+    }
+  ]
+}

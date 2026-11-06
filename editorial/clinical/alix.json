@@ -1,0 +1,1249 @@
+{
+  "character_id": "alix",
+  "bio": "Alix, 33 ans, fabrique du savon dans une coopérative qu’il ouvre le samedi avec Laurent. Il préfère les essais qu’on peut sentir et toucher aux discours sur les matières. Il vit avec un trouble cyclothymique, ou cyclothymie. Quand son énergie monte, il lui arrive de promettre plus qu’il pourra tenir. Lors des périodes basses, même une réponse attendue peut lui prendre la matinée. Avec son ami Robin et son équipe de soins, il cherche des repères sur la durée. À la coopérative, son projet est de construire des ateliers qui peuvent continuer à plusieurs.",
+  "profile_topics": [
+    "Trouble cyclothymique",
+    "Variations d’humeur et d’énergie",
+    "Engagements révisables",
+    "Retentissement au travail",
+    "Suivi dans la durée"
+  ],
+  "episodes": [
+    {
+      "title": "Quand un regain d’énergie pousse à promettre trop de dates",
+      "description": "L’idée d’un atelier plaît à Alix. En quelques soirs, il prépare plusieurs rendez-vous alors que la coopérative doit encore en essayer un.",
+      "context": "À la coopérative, avant le premier essai d’atelier de matières",
+      "clinical_focus": "Augmentation de l’élan et multiplication des engagements",
+      "clinical_intro": "Alix voudrait montrer comment le papier change l’odeur d’un savon. Après plusieurs soirées où les idées arrivent vite, il parle déjà de trois samedis. Lors de périodes de plus grande activation dans la cyclothymie, des projets qui comptent vraiment peuvent prendre de l’ampleur plus vite que les disponibilités. La scène montre où l’envie de faire devient une promesse pour d’autres personnes.",
+      "opening": "Laurent écarte la caisse du pied pour que la porte ouvre en grand. Les gens de la première heure savent où trouver le savon sans parfum. Alix pose à côté du panier une chute de papier kraft qui sent encore l’orange amère. C’est la différence avec le papier blanc qu’il voudrait faire découvrir pendant un atelier. Il a préparé deux morceaux pris dans la même barre et marqué le dos du papier pour pouvoir les reconnaître sans le montrer.\n\nDepuis quelques soirs, chaque fois qu’il range un échantillon, une autre idée lui vient. Après les papiers, il pourrait faire toucher trois poudres. Il a trouvé une boîte basse qui tiendrait sur le comptoir. Hier, il a écrit à la médiathèque pour proposer une visite et a rouvert la messagerie au retour du dîner. Ce matin, quand une habituée lui demande si elle peut venir avec sa sœur, il lui dit que ce sera sans doute un samedi sur deux. Laurent relève la tête de la caisse. Ils avaient parlé d’une première heure pour voir si les gens pouvaient circuler.\n\n« Tu veux qu’on bloque lequel ? » demande Laurent. Alix déroule le calendrier et découvre que sur le premier samedi, il a écrit son nom dans les deux colonnes. Une visite de la médiathèque est déjà notée au crayon l’après-midi. Laurent, lui, a prévu de partir à midi. Alix a toujours envie de montrer les deux papiers. Il cherche encore où mettre le troisième rendez-vous.",
+      "conclusion": "L’idée des deux papiers tient dans un premier essai. En séparant les propositions des dates promises, Alix peut garder la suite ouverte et mesurer avec Laurent ce qu’un atelier leur demandera.",
+      "number": 1,
+      "slug": "alix-plus-de-dates-que-de-samedis",
+      "topics": [
+        "Augmentation de l’élan",
+        "Engagements successifs",
+        "Fonctionnement au travail"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’élan et le poids d’une promesse",
+          "text": "L’énergie et l’initiative peuvent augmenter par périodes dans un trouble cyclothymique. Chez Alix, qui connaît déjà son diagnostic, une idée mène alors plus vite à la suivante. Le plaisir qu’il prend à fabriquer un atelier lui appartient. Pour comprendre la difficulté, il regarde ce qui a changé plusieurs soirs de suite et ce que ses décisions demandent au reste de l’équipe. Une proposition enthousiaste au comptoir ne suffit pas à caractériser une période clinique."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un regain d’élan peut-il agrandir un engagement ?",
+          "points": [
+            {
+              "heading": "Une proposition en entraîne une autre",
+              "text": "L’attention passe vite du premier essai aux possibilités qu’il ouvre.",
+              "examples": [
+                "Alix a deux papiers prêts quand il commence à prévoir une visite séparée.",
+                "Pour un seul atelier de quartier, quelqu’un peut solliciter deux salles avant d’avoir confirmé les animateurs."
+              ]
+            },
+            {
+              "heading": "Le délai avant de promettre raccourcit",
+              "text": "Une intention peut être annoncée alors que des éléments restent à vérifier.",
+              "examples": [
+                "L’habituée entend parler d’un samedi sur deux sans que Laurent ait donné ses disponibilités.",
+                "Une invitation peut être envoyée après avoir vérifié la salle mais avant d’avoir demandé qui l’ouvrira."
+              ]
+            },
+            {
+              "heading": "Le temps nécessaire reste hors du calendrier",
+              "text": "L’activité imaginée est parfois plus visible que ce qu’il faudra préparer ou ranger.",
+              "examples": [
+                "Le nom d’Alix occupe deux colonnes à la même heure.",
+                "Une deuxième séance peut paraître facile tant que le temps entre les deux groupes reste vide sur la feuille."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour donner une taille praticable à une idée",
+          "points": [
+            {
+              "heading": "Garder les propositions à part",
+              "objective": "Laisser une idée ouverte jusqu’à ce que l’équipe puisse la décider.",
+              "exercise": [
+                "Prenez une carte distincte du calendrier affiché.",
+                "Notez l’essai que vous aimeriez faire et qui doit donner son accord.",
+                "Déplacez la carte après confirmation de l’équipe."
+              ],
+              "benefit": "Les visiteurs peuvent distinguer une idée en préparation d’un rendez-vous fixé."
+            },
+            {
+              "heading": "Bloquer le temps autour de l’essai",
+              "objective": "Estimer le travail complet d’un seul créneau.",
+              "exercise": [
+                "Ajoutez la préparation avant l’arrivée du groupe.",
+                "Prévoyez qui tient la caisse pendant l’essai.",
+                "Vérifiez ensemble le temps du rangement."
+              ],
+              "benefit": "Le calendrier donne une image plus juste de ce que chaque personne peut assurer."
+            },
+            {
+              "heading": "Apporter une période entière au suivi",
+              "objective": "Montrer comment les idées se sont traduites en décisions.",
+              "exercise": [
+                "Situez le début approximatif de la période.",
+                "Retrouvez une proposition et une promesse faite à quelqu’un.",
+                "Décrivez à votre soignant leurs effets sur le travail et le reste de la journée."
+              ],
+              "benefit": "Une chronologie peut aider à comprendre ce qui change avec l’élan."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le premier carton orange",
+      "ending": "Alix reprend le carton orange qu’ils utilisent pour signaler les cartons à défaire. Il le pose dans le creux entre la caisse et le calendrier. Au recto, il écrit « papiers, un essai ». Il rappelle l’habituée pour lui dire qu’il la préviendra après le premier test. Laurent peut rester le samedi suivant, une heure à partir de dix heures. La médiathèque attendra le résultat. En fermant le calendrier, Alix a encore une idée pour les poudres. Il l’écrit au dos du carton.",
+      "mirror": [
+        "Laurent peut demander « Quelle partie tu veux vraiment essayer samedi ? Je peux tenir la caisse jusqu’à onze heures. » Il parle de ses propres disponibilités et de ce qui a été promis au public. Si Alix lui confie que les propositions se succèdent aussi en dehors du travail, il peut lui demander s’il veut en parler à son équipe de soins."
+      ],
+      "continuity": {
+        "choice": "Alix rappelle l’habituée et réserve seulement l’essai des papiers de dix à onze heures.",
+        "next": "Avant l’essai, une baisse d’élan complique les préparatifs et le message attendu par Laurent."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Commencer une tâche choisie quand l’élan retombe",
+      "description": "Alix tient à l’atelier prévu samedi. Depuis quelques jours, il se remet devant les préparatifs sans arriver à les commencer.",
+      "context": "À la veille de l’essai des papiers",
+      "clinical_focus": "Difficulté d’initiation pendant une période basse",
+      "clinical_intro": "Alix ouvre trois fois le message de Laurent sur l’essai de samedi. Le projet lui importe encore et les deux papiers sont prêts, mais la première réponse tarde. Dans les périodes basses de la cyclothymie, l’élan pour commencer peut diminuer. La scène donne à voir l’écart entre ce qu’Alix a choisi et l’effort qu’il lui faut pour engager le premier geste.",
+      "opening": "Alix retourne la table pliante pour remettre le verrou sous le plateau. Il arrive à pousser la pièce avec le pouce, puis garde la main posée sur le bois. La table peut tenir debout. Il se la représente demain près de la porte avec les deux papiers à gauche. Il voudrait encore savoir lequel les gens choisiront. Il a pourtant ouvert le message de Laurent trois fois depuis le matin sans répondre à sa question sur la préparation.\n\nEn début de semaine, il avait ramené les échantillons chez lui. Un soir il a sorti un morceau de kraft du sac, puis a rangé le tout pour avoir la place de dîner. La même chose s’est produite le lendemain. Depuis mercredi, son premier café refroidit souvent à côté d’une liste qu’il a seulement datée. Il arrive à peser les commandes quand elles sont imprimées et alignées devant la balance. Une tâche dont il doit choisir lui-même le premier geste lui demande plus longtemps.\n\nDans le magasin, Laurent vérifie la monnaie. « Est-ce que je sors aussi les poudres ? » Alix regarde le carton orange. Il avait écrit l’idée au dos et craint que Laurent se soit déjà organisé autour. La voisine du dessus demande à passer avec son cabas. Il tient la porte pendant qu’elle repart et remarque qu’il aimerait la voir sentir les deux papiers. Il remet la main sur le verrou de la table.",
+      "conclusion": "L’atelier compte encore pour Alix, même lorsque préparer sa table lui demande du temps. Le premier geste et l’aide de Laurent rendent possible le rendez-vous limité qu’ils avaient choisi.",
+      "number": 2,
+      "slug": "alix-deux-papiers-sur-la-table",
+      "topics": [
+        "Diminution de l’initiative",
+        "Fluctuations d’énergie",
+        "Appui consenti"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’envie d’un résultat et le démarrage",
+          "text": "Au cours d’une période basse, une personne peut rester attachée à un projet et éprouver peu d’initiative pour le mettre en route. Alix décrit un changement présent depuis plusieurs jours, à l’atelier et chez lui. La tâche imprimée lui donne déjà un début. Les préparatifs de samedi exigent qu’il décide où commencer. Ce contraste aide à décrire ce que la baisse d’énergie change, sans conclure à la nature d’un épisode à partir d’une tâche remise."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque d’initiative se remarque-t-il ?",
+          "points": [
+            {
+              "heading": "Revenir plusieurs fois au même début",
+              "text": "Lire une consigne et engager la réponse sont deux efforts différents.",
+              "examples": [
+                "Alix rouvre le message et attend encore pour répondre à Laurent.",
+                "Un devis peut rester affiché sur l’écran toute la matinée sans que la première ligne soit remplie."
+              ]
+            },
+            {
+              "heading": "Trouver plus facilement une tâche déjà délimitée",
+              "text": "Une séquence dont le début est visible peut rester accessible.",
+              "examples": [
+                "Les commandes imprimées attendent à côté de la balance et Alix les prépare.",
+                "Une personne peut vider une boîte de courrier désignée avant de réussir à organiser les autres dossiers."
+              ]
+            },
+            {
+              "heading": "Garder de l’intérêt quand le démarrage peine",
+              "text": "La baisse d’initiative peut gêner une activité dont on attend toujours quelque chose.",
+              "examples": [
+                "Alix imagine encore la voisine en train de sentir les papiers.",
+                "Quelqu’un peut vouloir retrouver un ami et prendre du temps à écrire la première phrase de l’invitation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour amorcer une tâche quand elle demande plus d’effort",
+          "points": [
+            {
+              "heading": "Rendre le premier geste visible",
+              "objective": "Donner un début que l’on peut accomplir sans décider de tout le reste.",
+              "exercise": [
+                "Choisissez une chose à mettre sur la table.",
+                "Placez-la là où elle sera utilisée.",
+                "Regardez ensuite quelle petite décision manque."
+              ],
+              "benefit": "Un début concret peut rendre la suite plus facile à situer."
+            },
+            {
+              "heading": "Demander un appui bien délimité",
+              "objective": "Rendre possible l’essai sans céder tout le projet.",
+              "exercise": [
+                "Nommez le morceau de préparation qui bloque.",
+                "Demandez un geste précis à la personne disponible.",
+                "Convenez de ce que vous gardez et de ce qui peut attendre."
+              ],
+              "benefit": "L’aide porte sur la difficulté actuelle et laisse une place au rôle choisi."
+            },
+            {
+              "heading": "Comparer deux situations au rendez-vous",
+              "objective": "Décrire une différence de fonctionnement au soignant.",
+              "exercise": [
+                "Choisissez une tâche accomplie avec une consigne visible.",
+                "Notez ce que le démarrage vous a coûté ailleurs.",
+                "Dites depuis quand ce contraste est présent."
+              ],
+              "benefit": "Cette comparaison donne un repère plus précis que « je fais moins de choses »."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les papiers à gauche",
+      "ending": "« Tu peux tenir le plateau pendant que je pose les deux papiers ? » Laurent ferme le tiroir de caisse et vient bloquer le pied de la table. Alix apporte le kraft et le papier blanc. Il glisse les poudres dans le meuble. Il montre le carton orange à Laurent et confirme qu’ils feront seulement les papiers. À la maison, les préparatifs lui semblent encore lourds. Le message à l’habituée, lui, peut maintenant tenir en deux phrases.",
+      "mirror": [
+        "Laurent peut demander « Tu veux que je monte la table avec toi ou que je t’apporte les papiers ? » Puis il peut garder le rôle qu’ils avaient prévu à la caisse. Si Alix prend du temps à répondre, Laurent peut lui dire avant quelle heure il a besoin de savoir. Ce délai concerne leur samedi à deux."
+      ],
+      "continuity": {
+        "choice": "Alix demande une aide pour la table et confirme l’essai des papiers sans ajouter les poudres.",
+        "next": "Après l’essai, il rouvre plusieurs calendriers avec son équipe de soins pour comparer des périodes différentes."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Relire plusieurs périodes pour comprendre les variations d’humeur",
+      "description": "Après l’atelier, Alix retrouve trois samedis très différents dans son calendrier et prépare avec sa psychiatre un aperçu de leur retentissement.",
+      "context": "En consultation, après le premier atelier de matières",
+      "clinical_focus": "Répétition des variations sur une longue durée",
+      "clinical_intro": "Un atelier réussi occupe la dernière page du carnet d’Alix. Les précédentes gardent la trace d’un élan qui a duré plusieurs soirs et d’une baisse d’initiative qui a compliqué ses préparatifs. Dans le trouble cyclothymique, ce sont la répétition des périodes, leur durée et leurs effets qui aident l’équipe à comprendre l’évolution. Une date peut servir de repère sans résumer tout le parcours.",
+      "opening": "Alix avait prévu de montrer les deux papiers et de demander aux gens ce qu’ils sentaient. Il n’avait pas prévu que la voisine se tromperait de mots en riant et demanderait à repartir avec le papier, en laissant le savon sur la table. Il a raconté la scène à Robin en rentrant. Il l’a notée dans son carnet avec le mot « orange » au milieu de la phrase. Le papier dont il était question portait en réalité l’odeur du bois.\n\nÀ la consultation, il pose le carnet devant la Dre Benali et sort une feuille plus ancienne, pliée en quatre. On y lit les heures d’ouverture du mois dernier. Sur un samedi, il avait proposé de prendre aussi la fermeture alors que Robin l’attendait au cinéma. Sur un autre, il avait demandé à Laurent de faire l’ouverture parce qu’il avait du mal à se lever. Entre les deux, il se rappelle avoir travaillé plusieurs jours au rythme habituel. Il n’arrive pas à dire exactement à quel moment cela avait changé.\n\n« Vous voulez une ligne pour chaque jour ? » demande-t-il. La Dre Benali lui demande ce qu’il serait en mesure de garder sans passer ses soirées à vérifier le carnet. Alix tourne la feuille. Deux lignes restent visibles même quand le pli revient sur lui-même. Il se rappelle le premier entretien où ils avaient repris plusieurs années à partir des dates dont il disposait, dont certaines dataient d’avant la coopérative.",
+      "conclusion": "Le carnet aide Alix à raconter plusieurs périodes avec leurs différences. Le plaisir de l’atelier garde sa place dans cette histoire, de même que l’effort des jours où le projet avançait plus lentement.",
+      "number": 3,
+      "slug": "alix-trois-samedis-dans-le-carnet",
+      "topics": [
+        "Évolution dans le temps",
+        "Observation de l’humeur",
+        "Retentissement fonctionnel"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que plusieurs dates rendent visible",
+          "text": "Le trouble cyclothymique s’évalue sur une histoire prolongée. L’équipe examine comment se répètent des périodes de manifestations hautes et basses, comment elles se distinguent du fonctionnement habituel et quelles conséquences elles ont. Chez Alix, le travail tenu peut parfois demander un effort supplémentaire. Le succès du premier atelier apporte une information sur sa journée. Pour comprendre ce qui s’est répété, la Dre Benali a besoin d’une période plus large et peut laisser des dates ouvertes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment plusieurs périodes racontent-elles plus qu’une seule journée ?",
+          "points": [
+            {
+              "heading": "Les engagements changent avant l’atelier",
+              "text": "Un projet concret peut garder une trace du moment où le rythme s’est modifié.",
+              "examples": [
+                "Alix a ajouté une fermeture alors qu’il devait rejoindre Robin.",
+                "Une proposition écrite un jeudi peut aider à situer une semaine où les horaires se sont étendus."
+              ]
+            },
+            {
+              "heading": "L’effort n’apparaît pas toujours dans le résultat",
+              "text": "Deux journées de travail terminées peuvent avoir été très différentes à tenir.",
+              "examples": [
+                "Alix a dû demander l’aide de Laurent pour une ouverture antérieure.",
+                "Une préparation peut prendre toute une matinée pendant une période basse alors que le même résultat est obtenu à la fin."
+              ]
+            },
+            {
+              "heading": "Des passages plus ordinaires existent entre deux variations",
+              "text": "Les jours plus stables aident à comparer les changements.",
+              "examples": [
+                "Alix se souvient de plusieurs journées à un rythme habituel.",
+                "Une date incertaine peut encadrer la reprise d’un trajet régulier sans que le jour exact soit connu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter une période de façon utile",
+          "points": [
+            {
+              "heading": "Choisir quelques dates fiables",
+              "objective": "Appuyer son récit sur des souvenirs que l’on peut retrouver.",
+              "exercise": [
+                "Relevez un engagement daté.",
+                "Ajoutez une situation où le rythme vous paraissait plus habituel.",
+                "Laissez ouverte une date dont vous doutez."
+              ],
+              "benefit": "Des points espacés peuvent suffire pour lancer l’échange clinique."
+            },
+            {
+              "heading": "Dire ce que la journée a demandé",
+              "objective": "Rendre l’effort visible même quand une tâche a abouti.",
+              "exercise": [
+                "Nommez la tâche qui a été tenue.",
+                "Dites le temps ou le relais dont vous avez eu besoin.",
+                "Ajoutez ce que cet effort a laissé de côté."
+              ],
+              "benefit": "Le soignant dispose d’un exemple de retentissement concret."
+            },
+            {
+              "heading": "Convenir d’une observation légère",
+              "objective": "Garder un repère que l’on peut reprendre au suivi.",
+              "exercise": [
+                "Expliquez ce que vous acceptez de noter.",
+                "Choisissez avec votre soignant une fréquence praticable.",
+                "Décidez quand vous en parlerez et comment joindre l’équipe si les besoins changent."
+              ],
+              "benefit": "Le carnet peut accompagner le suivi sans occuper toute la journée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne quand il y a quelque chose à dire",
+      "ending": "Alix replie le calendrier en laissant les trois samedis visibles. Il convient avec la Dre Benali de noter à quelques moments ce qui change dans son sommeil, ses activités ou ses engagements. Il pourra porter les jours incertains à l’oral. Sur le chemin du retour, il voit une photo du premier atelier envoyée par Laurent. Il garde celle où l’on distingue les deux papiers et répond que le format vaut la peine d’être repris.",
+      "mirror": [
+        "Robin peut situer le cinéma s’il lui est demandé « C’était le samedi où je t’ai gardé un billet. Tu m’as écrit au moment de la séance. » Il peut préciser s’il hésite sur la date. Alix décide ensuite s’il souhaite reprendre ce détail en consultation."
+      ],
+      "continuity": {
+        "choice": "Alix retient quelques repères avec la Dre Benali et propose de reprendre le premier format d’atelier.",
+        "next": "Plus tard, plusieurs nuits plus courtes accompagnent un nouvel élan et Alix regarde leur effet sur ses horaires."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Quand des nuits plus courtes accompagnent un nouvel élan",
+      "description": "Alix se réveille avant le jour et commence déjà à organiser les ateliers. Il remarque que plusieurs nuits de suite lui paraissent étonnamment courtes.",
+      "context": "Chez Alix avant l’ouverture et à la coopérative",
+      "clinical_focus": "Changements du sommeil pendant une période d’activation",
+      "clinical_intro": "Le téléphone d’Alix reste sur le buffet et il se lève avant l’alarme. Depuis plusieurs matins, il a envie de rejoindre l’atelier sans ressentir la fatigue qu’il attendrait. Le sommeil peut changer en même temps que l’énergie pendant les variations de la cyclothymie. Le récit compare ces nuits à celles où Alix reste éveillé pour une autre raison et se sent épuisé le lendemain.",
+      "opening": "À quatre heures et demie, Alix voit une lueur bleue derrière la fenêtre du voisin. Son téléphone est sur le buffet depuis qu’il le laissait tomber entre le lit et le mur. Il traverse le salon pour lire l’heure et s’attend à avoir besoin de se rallonger. Il a déjà envie d’ouvrir la boîte basse de la coopérative. Il voudrait préparer les trois matières pour la prochaine séance, même si Laurent attend encore le résultat du sondage auprès des visiteurs.\n\nAlix commence par écrire la liste des échantillons. Au bout de dix minutes, la liste contient aussi deux noms qu’il pourrait inviter et un trajet pour aller chercher des feuilles chez l’imprimeur. Cela fait plusieurs matins qu’il se lève tôt sans se sentir fatigué comme lorsqu’un camion le réveille dans la rue. L’hiver dernier, après une livraison devant la fenêtre, il avait posé son front sur la table en arrivant à la coopérative. Ce matin, il remarque qu’il parle au contraire plus vite que la veille lorsqu’il appelle Laurent.\n\n« Tu me demandais quoi, pour les feuilles ? » dit Laurent. Il vient de répondre deux fois à la même question sur la date du sondage. Alix remet le téléphone sur le buffet. Dans le carnet, l’heure du réveil reste encore seule. Il pourrait noter ce qu’il a fait de ces heures avant que le reste de la journée commence.",
+      "conclusion": "Les nuits courtes intéressent le suivi pour leur répétition et pour ce qui les accompagne. Alix peut garder son idée d’atelier tout en demandant un avis sur le changement de rythme.",
+      "number": 4,
+      "slug": "alix-veille-bleue-et-deux-reveils",
+      "topics": [
+        "Sommeil raccourci",
+        "Augmentation de l’activité",
+        "Comparaison au rythme habituel"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire ce qui change le matin",
+          "text": "Lors d’une période d’activation, le sommeil peut se raccourcir en même temps que l’élan ou l’activité augmente. Se sentir reposé après moins de sommeil diffère d’une nuit où l’on voulait dormir davantage et où la fatigue se fait sentir ensuite. Les deux expériences peuvent être rapportées à l’équipe. La Dre Benali examine leur durée, les autres changements et leurs effets. Chez Alix, plusieurs matins et les projets qui se bousculent apportent plus de contexte qu’une heure prise seule."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le changement de sommeil s’accompagne-t-il d’autres signes ?",
+          "points": [
+            {
+              "heading": "Se lever plus tôt que d’habitude",
+              "text": "L’heure du réveil donne un repère quand elle revient plusieurs jours.",
+              "examples": [
+                "Alix voit la même lueur avant l’alarme plusieurs matins.",
+                "Quelqu’un peut se retrouver debout avant le début de son trajet habituel et constater que cela se répète."
+              ]
+            },
+            {
+              "heading": "Se sentir disponible après une nuit courte",
+              "text": "La fatigue ressentie au réveil peut être différente selon la raison du sommeil raccourci.",
+              "examples": [
+                "Après le camion, Alix peinait à garder les yeux ouverts à la table.",
+                "Ce matin, il se met à préparer des échantillons dès qu’il a regardé l’heure."
+              ]
+            },
+            {
+              "heading": "Prendre des décisions très tôt",
+              "text": "La nouvelle amplitude de la journée peut changer la place donnée aux engagements.",
+              "examples": [
+                "La liste de matières contient déjà deux invitations possibles.",
+                "Un projet annoncé au lever peut engager un collègue qui n’a pas encore donné sa réponse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire un sommeil qui change",
+          "points": [
+            {
+              "heading": "Donner un ordre approximatif",
+              "objective": "Situer le changement sans chercher à reconstituer chaque heure.",
+              "exercise": [
+                "Choisissez le premier matin dont vous vous souvenez.",
+                "Notez comment vous vous sentiez au lever.",
+                "Ajoutez une activité que vous avez commencée plus tôt que d’habitude."
+              ],
+              "benefit": "L’équipe peut relier le sommeil à l’évolution du reste de la journée."
+            },
+            {
+              "heading": "Séparer l’idée de la date",
+              "objective": "Laisser du temps entre la proposition et l’engagement.",
+              "exercise": [
+                "Reprenez la liste faite au réveil.",
+                "Mettez les invitations possibles sur le carton réservé aux idées.",
+                "Demandez à Laurent à quel moment ils pourront décider ensemble."
+              ],
+              "benefit": "Une nuit courte ne fixe pas le calendrier de plusieurs personnes."
+            },
+            {
+              "heading": "S’appuyer sur le contact convenu",
+              "objective": "Savoir où parler d’un changement qui persiste.",
+              "exercise": [
+                "Relisez la consigne discutée avec votre équipe.",
+                "Dites depuis quand le sommeil et l’activité ont changé.",
+                "Demandez si le rendez-vous prévu suffit ou si un échange plus tôt serait indiqué."
+              ],
+              "benefit": "La suite se décide avec le soignant à partir de la période décrite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet reste ouvert sur deux lignes",
+      "ending": "Alix ajoute « listes et invitations » au-dessous de l’heure. Il écrit qu’il ne sait pas s’il a dormi plus longtemps la nuit précédente. Il envoie à la Dre Benali un message par le canal prévu pour signaler un changement avant la consultation. Quand Laurent rappelle, il demande le jour où ils auront les réponses au sondage. Il garde la boîte sur sa table pour choisir les matières, sans réserver l’imprimeur.",
+      "mirror": [
+        "Robin peut demander « Tu dis que tu te lèves tôt depuis plusieurs jours. Tu as l’impression de récupérer, ou c’est différent ? » Si Alix préfère en parler au cabinet, Robin peut respecter ce choix et lui proposer de retrouver ensemble le contact convenu. Il peut aussi dire à quelle heure il pourra lui répondre."
+      ],
+      "continuity": {
+        "choice": "Alix garde deux observations simples et signale à son équipe le changement de sommeil.",
+        "next": "Lors d’une réunion suivante, il faut entendre une objection de Laurent alors qu’une irritation plus vive traverse plusieurs échanges."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Quand l’irritabilité déborde la question qui l’a déclenchée",
+      "description": "Laurent propose de réduire la taille de la table. Alix a une raison de défendre son choix et remarque que sa réponse part bien avant son explication.",
+      "context": "Lors d’un essai de circulation dans le magasin",
+      "clinical_focus": "Irritabilité accrue au cours d’une variation d’humeur",
+      "clinical_intro": "La grande boîte qu’Alix a choisie gêne le passage. Laurent soulève une objection qu’Alix pourrait discuter, mais la colère prend de la place avant qu’il entende la suite. Pendant certaines variations d’humeur, l’irritabilité peut se répéter et déborder des contrariétés ordinaires. Alix retrouve d’autres échanges récents pour décrire ce changement et revient avec Laurent au problème concret de la boîte.",
+      "opening": "Laurent prend la boîte basse à deux mains et la pose au sol. Une femme vient de frôler le carton avec son manteau en cherchant la sortie. Alix avait choisi cette boîte pour que les trois échantillons restent côte à côte. De l’endroit où il se tient, il voit que le bord dépasse dans le passage. Il voudrait montrer qu’il peut le rabattre. Laurent demande s’ils pourraient prendre la petite table, celle qui a servi la première fois.\n\n« Tant qu’on y est, enlève tout », répond Alix. La phrase lui échappe alors que Laurent n’a pas encore reposé la boîte. Ce matin, Alix a déjà répondu sèchement à Robin quand il lui a demandé à quelle heure il finirait. La veille il a interrompu l’imprimeur au téléphone pour un détail qu’il aurait pu rappeler plus tard. Il sait pourquoi cette boîte compte pour lui. Il entend aussi que Laurent voulait parler de la largeur du passage et pas du choix des échantillons.\n\nIl demande une minute et va tirer la porte de la réserve. Derrière le rideau en plastique, les bruits du magasin passent presque aussi bien. Il entend Laurent indiquer à une cliente où sont les petits savons. En rentrant, Alix pourrait dire qu’il a encore envie d’essayer les trois matières. Il ne sait pas encore comment demander qu’on rouvre la discussion sans lancer une deuxième pique.",
+      "conclusion": "Le passage était réellement trop étroit. Alix peut en parler après avoir reconnu sa réponse rapide. Le retour d’une irritation comparable dans plusieurs échanges reste une information à reprendre en consultation.",
+      "number": 5,
+      "slug": "alix-la-boite-qui-prend-la-place",
+      "topics": [
+        "Irritabilité",
+        "Variation de la réactivité",
+        "Réparation d’un échange"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une irritation qui revient à plusieurs endroits",
+          "text": "L’irritabilité peut accompagner des variations d’humeur dans la cyclothymie. Une réaction vive garde aussi son contexte. Alix défend une façon de présenter ses matières et Laurent soulève un problème de passage. Pour éclairer le suivi, Alix regarde le changement qu’il remarque dans plusieurs échanges, la rapidité de ses réponses et le temps que la tension met à retomber. Cela lui permet aussi de reprendre un désaccord pour ce qu’il était."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une irritation accrue se remarque-t-elle dans les échanges ?",
+          "points": [
+            {
+              "heading": "Une réponse arrive avant la fin de la phrase",
+              "text": "L’envie de défendre sa décision peut interrompre l’écoute.",
+              "examples": [
+                "Alix propose d’enlever tout l’atelier avant d’avoir entendu l’idée de Laurent.",
+                "Une question sur l’heure peut recevoir un reproche avant qu’on comprenne pourquoi l’autre la pose."
+              ]
+            },
+            {
+              "heading": "La tension revient dans différents contextes",
+              "text": "Le même changement de ton peut dépasser le conflit précis qui l’a fait remarquer.",
+              "examples": [
+                "Alix se rappelle avoir coupé l’imprimeur pour un détail.",
+                "Robin lui a demandé une heure et a entendu une réponse sèche bien avant la réunion."
+              ]
+            },
+            {
+              "heading": "La discussion reprend à deux vitesses",
+              "text": "La question pratique peut rester présente alors que la charge émotionnelle met du temps à retomber.",
+              "examples": [
+                "Depuis la réserve, Alix entend Laurent poursuivre son travail et hésite encore à revenir.",
+                "Après un échange tendu, un collègue peut avoir besoin d’un délai même si la mesure à vérifier est simple."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un désaccord quand l’irritation monte",
+          "points": [
+            {
+              "heading": "Annoncer une pause limitée",
+              "objective": "Garder une chance de poursuivre la discussion dans de meilleures conditions.",
+              "exercise": [
+                "Dites qu’il vous faut quelques minutes.",
+                "Proposez un moment où vous pourrez reprendre.",
+                "Laissez l’autre reprendre son activité entre-temps."
+              ],
+              "benefit": "La pause évite de transformer l’attente en nouvelle question."
+            },
+            {
+              "heading": "Revenir à la demande entendue",
+              "objective": "Réparer la réponse et retrouver l’objet du désaccord.",
+              "exercise": [
+                "Nommez la phrase que vous regrettez.",
+                "Demandez à l’autre ce qu’il voulait mesurer.",
+                "Proposez de vérifier ensemble la place disponible."
+              ],
+              "benefit": "Vous pourrez discuter du passage sans imposer à l’autre d’oublier l’échange."
+            },
+            {
+              "heading": "Repérer ce qui s’est répété",
+              "objective": "Présenter à l’équipe un changement qui dépasse un seul conflit.",
+              "exercise": [
+                "Choisissez deux échanges différents.",
+                "Situez quand cette réactivité vous a paru nouvelle.",
+                "Dites ce qui a changé ensuite dans la relation ou dans la journée."
+              ],
+              "benefit": "Ces éléments peuvent éclairer la discussion sur l’évolution de l’humeur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La largeur des manteaux",
+      "ending": "Alix revient avec un mètre qu’il a pris dans la réserve. Il dit à Laurent qu’il a répondu trop vite et lui demande où la cliente a accroché la boîte. Ils poussent la table jusqu’au mur. La grande boîte dépasse encore et ils essaient la petite avec deux échantillons visibles à la fois. Alix garde le troisième sous la table, prêt à sortir. Il écrit plus tard à Robin qu’il avait entendu sa question comme un reproche et lui donne l’heure qu’il attendait.",
+      "mirror": [
+        "Laurent peut dire « Je veux regarder la largeur de la table. Je peux reprendre dans dix minutes si on en parle sans s’envoyer de piques. » Il peut garder cette limite s’il a encore besoin d’air. Son rôle est de faire circuler les gens et de travailler avec Alix dans des conditions qu’il peut tenir."
+      ],
+      "continuity": {
+        "choice": "Alix revient au désaccord sur le passage et répare deux échanges sans renoncer à son rôle.",
+        "next": "Dans une période plus basse, l’ouverture se déroule normalement pour les visiteurs alors qu’elle lui coûte presque tout le reste du samedi."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Le coût invisible d’une journée de travail pendant une période basse",
+      "description": "La caisse est juste et les visiteurs sont contents. Après l’ouverture, Alix n’a presque plus d’énergie pour ce qu’il avait prévu avec Robin.",
+      "context": "Après une ouverture du samedi tenue au prix d’un effort inhabituel",
+      "clinical_focus": "Effort accru pour maintenir les activités habituelles",
+      "clinical_intro": "Au magasin, Alix rend la monnaie et présente les matières comme d’habitude. Après la fermeture, il s’assied au lieu de rejoindre Robin comme prévu. Dans une période basse du trouble cyclothymique, certaines activités continuent au prix d’un effort qui se remarque ailleurs. L’épisode s’intéresse à ce coût et à la façon dont Alix peut l’expliquer sans effacer le travail accompli.",
+      "opening": "Le tiroir de caisse s’ouvre au deuxième essai. Alix suit les colonnes du doigt parce qu’il ne veut pas chercher de tête le montant des pièces. Une cliente demande s’il reste du savon au bois. Il le retrouve à l’endroit qu’il avait préparé, répond à la question sur le papier et lui donne l’échantillon à sentir. Il réussit à parler assez fort pour que la personne derrière entende aussi. De l’autre côté du magasin, Laurent continue de remplir des sacs.\n\nAu moment de fermer, Alix pousse les deux tables dans la réserve. Il sait les porter seul, il l’a fait la semaine précédente, mais il doit s’arrêter en laissant la seconde sur le seuil. Laurent lui demande s’il a besoin d’un coup de main. Il dit oui. Sur son téléphone, il a un message de Robin qui lui demande de confirmer le café de treize heures. C’est Alix qui l’avait proposé. Ils ont déjà commandé ce qu’ils boivent d’habitude assez souvent pour que Robin ait proposé de venir le chercher.\n\nAlix essaie de se rappeler à quel moment il est passé de « je suis fatigué » à « je ne pourrai pas être là ». Ces jours-ci, il rentre après le magasin et reste longtemps debout à côté de la chaise sans avoir commencé à se préparer à manger. Ce samedi, les comptes sont faits et les clients ont eu leurs réponses. Il se demande comment le dire à Robin sans lui laisser croire qu’il suffisait de venir l’attendre dehors.",
+      "conclusion": "L’ouverture a réussi et elle a demandé plus d’énergie qu’à l’ordinaire. Parler du café déplacé et de l’aide pour ranger donne à Alix des faits que les comptes de la caisse ne portent pas.",
+      "number": 6,
+      "slug": "alix-samedi-qui-prend-toute-la-journee",
+      "topics": [
+        "Fatigue",
+        "Effort de compensation",
+        "Retentissement hors travail"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le résultat et ce qu’il a fallu pour l’obtenir",
+          "text": "Une période basse peut augmenter l’effort nécessaire pour continuer une activité. Dans le trouble cyclothymique, l’évaluation du retentissement tient compte aussi de ce qui est maintenu grâce à un effort supplémentaire. Alix a assuré l’ouverture. La précision des gestes, les pauses et l’aide pour déplacer la table donnent une autre image de la matinée. Le café qu’il ne peut plus tenir montre à quel point le coût peut se déplacer vers une autre partie de la vie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un effort important peut-il passer inaperçu ?",
+          "points": [
+            {
+              "heading": "Les gestes habituels demandent plus d’attention",
+              "text": "Le résultat visible peut rester fiable malgré un travail intérieur accru.",
+              "examples": [
+                "Alix relit les colonnes du tiroir avant de compter les pièces.",
+                "Un artisan peut préparer chaque étiquette à l’avance pour tenir une conversation d’accueil."
+              ]
+            },
+            {
+              "heading": "Une pause apparaît à la fin",
+              "text": "La fatigue peut devenir visible quand l’activité principale s’arrête.",
+              "examples": [
+                "La seconde table reste sur le seuil alors qu’Alix porte les deux d’habitude.",
+                "Après avoir servi une réunion, une personne peut rester assise longtemps avant de rassembler ses affaires."
+              ]
+            },
+            {
+              "heading": "Une activité suivante perd sa place",
+              "text": "La capacité dépensée pour tenir le travail peut manquer dans la vie sociale ou domestique.",
+              "examples": [
+                "Alix voulait voir Robin et peine à se lever pour le retrouver.",
+                "Une matinée assurée au bureau peut laisser très peu de disponibilité pour faire les courses prévues après."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour tenir compte de l’effort caché",
+          "points": [
+            {
+              "heading": "Nommer la part du travail que l’on peut déléguer",
+              "objective": "Partager l’effort à un moment où un appui est disponible.",
+              "exercise": [
+                "Identifiez une tâche qui reste avant de fermer.",
+                "Demandez qui peut la prendre ou la faire avec vous.",
+                "Confirmez le partage pour le prochain essai."
+              ],
+              "benefit": "Les deux personnes peuvent voir ce qui tient dans le temps prévu."
+            },
+            {
+              "heading": "Donner une réponse claire à un proche",
+              "objective": "Préserver la relation quand la rencontre doit changer.",
+              "exercise": [
+                "Dites assez tôt si vous pouvez venir.",
+                "Proposez une autre forme de contact seulement si elle vous convient.",
+                "Laissez le proche décider de ce qu’il fera de son créneau."
+              ],
+              "benefit": "Chacun peut s’organiser sans devoir deviner ce qui s’est passé."
+            },
+            {
+              "heading": "Décrire la journée entière au suivi",
+              "objective": "Faire apparaître ce que l’ouverture seule ne montre pas.",
+              "exercise": [
+                "Nommez une tâche professionnelle terminée.",
+                "Dites ce qu’elle vous a demandé et l’aide reçue.",
+                "Ajoutez l’activité que vous avez dû déplacer après."
+              ],
+              "benefit": "Le soignant peut tenir compte de plusieurs domaines et de l’effort nécessaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le café du mardi",
+      "ending": "Alix écrit à Robin avant que celui-ci prenne sa veste. Il dit qu’il est resté à l’atelier et qu’il voudrait rentrer. Il propose le café du mardi quand il ne travaille pas le matin, si Robin en a envie. Laurent prend le côté de la table resté dans l’ouverture. À eux deux, ils la rentrent sans pousser la porte contre le mur. En partant, Alix demande s’ils pourront laisser le déplacement des tables au roulement de fermeture.",
+      "mirror": [
+        "Robin peut répondre « Je peux mardi après quinze heures. Si tu veux, on s’écrit demain pour confirmer. » Il peut être déçu de ne pas voir Alix et organiser son après-midi autrement. Laurent peut reprendre le roulement des tables avec Alix comme une question de charge de travail."
+      ],
+      "continuity": {
+        "choice": "Alix prévient Robin à temps et demande un roulement pour la fermeture.",
+        "next": "Au début de l’été, des journées plus stables lui permettent de distinguer un plaisir ordinaire d’une variation qui s’étend."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Reconnaître un plaisir ordinaire entre deux périodes de variation",
+      "description": "Alix se réjouit d’un résultat après plusieurs journées plus stables. Avec Robin, il s’interroge sur la place à laisser à ce plaisir.",
+      "context": "Au début de l’été, après quelques journées au rythme habituel",
+      "clinical_focus": "Intervalles plus stables et joie ordinaire",
+      "clinical_intro": "Un savon garde le bleu qu’Alix cherchait après plusieurs essais. Il est heureux de le montrer à Robin et termine sa journée à l’heure prévue. Entre des périodes où son humeur varie davantage, il peut y avoir des passages plus stables. Alix compare ce plaisir situé à ce qui changeait autour de ses nuits courtes et de ses engagements, sans devoir interpréter chaque bonne nouvelle.",
+      "opening": "Le bleu est resté. Alix sort la petite barre du carton et regarde surtout le coin qui avait blanchi lors du précédent essai. Il le frotte à sec avec le pouce. Rien ne s’efface. Il tient le savon à la lumière de la porte puis le remet dans la boîte. Il avait promis de le montrer à Robin avant que les gens de l’atelier le voient. Il prend une photo et ne l’envoie pas, parce que sur l’écran le coin paraît gris.\n\nÀ midi, Laurent fait tourner la clé et demande s’il faut préparer l’annonce du mois suivant. Alix a envie de prendre la barre pour l’apporter à la médiathèque. La responsable n’y travaille pas le samedi et il avait prévu de rejoindre Robin au bord de l’eau. « On en reparle mercredi ? » dit-il. Il prend la boîte et ferme son casier. Depuis plusieurs jours, il a dormi jusqu’à une heure qui lui permet de prendre son café à la table. Il a aussi ouvert le carnet deux fois sans avoir grand-chose à y ajouter.\n\nSur le banc, Robin regarde le savon et lui dit qu’il voit plutôt du vert. Alix lui demande de le tenir dans l’autre sens. Ils restent à chercher un nom pour la couleur, puis Robin lui tend le gobelet qu’il avait apporté. Alix réalise qu’il n’a pas demandé à Robin d’attendre pour prolonger le travail. Il a encore envie d’en parler. La boîte reste sur le banc entre eux.",
+      "conclusion": "Alix est content d’un résultat qui compte pour lui. Le sommeil plus habituel et le samedi tenu comme prévu font partie du contexte qu’il pourra raconter, avec ce plaisir.",
+      "number": 7,
+      "slug": "alix-un-bleu-dans-la-petite-boite",
+      "topics": [
+        "Plaisir ordinaire",
+        "Intervalle plus stable",
+        "Comparaison dans le temps"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le plaisir a son contexte",
+          "text": "La cyclothymie peut comporter des périodes où l’humeur et le rythme se rapprochent du fonctionnement habituel. Une joie vive après un résultat attendu peut trouver son sens dans ce qui vient de se passer. Pour situer les variations qui comptent au suivi, l’équipe tient compte de leur durée, des changements qui les accompagnent et de leurs effets. Alix peut raconter sa satisfaction et remarquer que cette fois, le reste de sa journée tient comme prévu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un plaisir situé se distingue-t-il d’un changement plus large ?",
+          "points": [
+            {
+              "heading": "Une raison de se réjouir est présente",
+              "text": "Un résultat ou une rencontre peut rendre une émotion compréhensible dans l’instant.",
+              "examples": [
+                "Le coin du savon garde le bleu après plusieurs essais.",
+                "Une personne peut rire longtemps avec un ami après un projet qu’ils viennent de terminer."
+              ]
+            },
+            {
+              "heading": "Les horaires habituels tiennent",
+              "text": "L’émotion peut être vive alors que le rythme du reste de la journée reste familier.",
+              "examples": [
+                "Alix quitte la coopérative à midi et retrouve Robin comme prévu.",
+                "Quelqu’un peut parler avec joie d’une réussite puis garder le moment prévu pour se reposer."
+              ]
+            },
+            {
+              "heading": "La suite peut attendre un autre jour",
+              "text": "Avoir envie d’une suite laisse parfois intacte la possibilité de différer.",
+              "examples": [
+                "Alix garde l’annonce pour mercredi.",
+                "Une équipe peut apprécier une séance réussie et en discuter quand les autres personnes sont disponibles."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser une place aux moments plus stables",
+          "points": [
+            {
+              "heading": "Décrire la raison du plaisir",
+              "objective": "Garder un fait précis pour raconter l’émotion.",
+              "exercise": [
+                "Nommez ce qui vient de réussir.",
+                "Dites ce que vous avez aimé dans ce moment.",
+                "Choisissez à qui vous voulez le raconter."
+              ],
+              "benefit": "Vous pouvez profiter de ce qui s’est passé sans devoir lui donner tout de suite une signification clinique."
+            },
+            {
+              "heading": "Regarder la suite réellement vécue",
+              "objective": "Disposer d’un contraste si vous souhaitez en parler au suivi.",
+              "exercise": [
+                "Repérez un engagement ordinaire qui a été tenu.",
+                "Comparez l’effort demandé avec une autre période.",
+                "Ajoutez une différence de sommeil si elle vous paraît importante."
+              ],
+              "benefit": "La comparaison peut aider à situer la journée dans un ensemble plus large."
+            },
+            {
+              "heading": "Reporter une décision de travail",
+              "objective": "Garder le rendez-vous que vous avez choisi aujourd’hui.",
+              "exercise": [
+                "Posez la proposition sur le carton prévu.",
+                "Convenez d’une date pour l’examiner.",
+                "Confirmez votre départ à l’heure convenue."
+              ],
+              "benefit": "Le résultat peut compter aujourd’hui et la décision rester disponible pour plus tard."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le vert de Robin",
+      "ending": "Alix referme la boîte après avoir noté « bleu qui devient vert » sur le revers. Il aimerait reprendre la question avec les visiteurs. Il met la boîte dans son sac et demande à Robin s’il voudrait marcher jusqu’à la passerelle. Ils ont encore le temps avant le bus. Mercredi, Alix apporte la barre à Laurent et ils la gardent pour une table de démonstration.",
+      "mirror": [
+        "Robin peut demander « Tu as envie de me montrer comment tu as obtenu ce coin-là ? » Il peut s’intéresser au savon et à la balade qu’ils ont prévue. Si Alix l’interroge sur son rythme, Robin peut répondre à partir de ce qu’ils ont vécu ensemble et lui laisser le choix d’en parler au suivi."
+      ],
+      "continuity": {
+        "choice": "Alix partage sa joie avec Robin et remet la décision sur la démonstration au mercredi.",
+        "next": "Au rendez-vous suivant, il demande ce que le terme cyclothymie désigne par rapport aux autres troubles de l’humeur."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Cyclothymie et bipolarité, ce que l’histoire des périodes permet de distinguer",
+      "description": "Alix relit la lettre de sa psychiatre. Il veut savoir ce que son diagnostic dit de ses périodes d’humeur et ce qu’il faudra revoir si elles changent.",
+      "context": "En consultation, quand Alix revient sur le nom du trouble",
+      "clinical_focus": "Distinction entre cyclothymie et autres troubles bipolaires",
+      "clinical_intro": "Le terme « cyclothymique » figure sur la lettre d’Alix, mais il ne sait pas ce que la psychiatre cherche quand il raconte ses périodes hautes et basses. Le diagnostic s’appuie sur leur histoire, leur durée, leur intensité et leurs effets. La Dre Benali lui explique comment ces éléments distinguent différents troubles de l’humeur et pourquoi un changement durable peut conduire l’équipe à revoir son évaluation.",
+      "opening": "La lettre a gardé le pli que l’enveloppe lui avait donné. Alix l’a portée au cabinet dans la poche de son pantalon, avec le papier d’un savon qu’il avait promis de remettre à Laurent. Il doit sortir les deux pour trouver la bonne feuille. Dans la dernière ligne avant la signature, la Dre Benali a écrit « trouble cyclothymique ». Alix a cherché la traduction du mot pendant l’attente et a trouvé une discussion qui lui attribuait tour à tour tous les noms qu’il avait lus ailleurs.\n\n« Si les nuits recommencent à raccourcir, le nom change ? » La Dre Benali lui demande ce qu’il a compris de leur premier bilan. Il se souvient d’avoir parlé de ses promesses de dates et de la difficulté à garder certains rendez-vous pendant ses périodes basses. Il a oublié pourquoi elle lui demandait ce qui s’était passé avant le magasin. Il avait rapporté deux histoires de son premier emploi dont il aurait volontiers laissé une de côté.\n\nSur le bord du bureau, Alix aligne la lettre avec le papier qui sent encore le savon. Il veut savoir si la Dre Benali peut lui dire ce que le nom du trouble rassemble dans son cas. La réponse qu’il redoute serait une règle qui lui demande de juger chaque samedi. Ce qu’il attend pour l’instant tient à une question plus courte. « À quel moment vous avez eu assez de recul ? »",
+      "conclusion": "Alix repart avec des repères sur la façon dont son diagnostic a été établi et sur les changements à rapporter. Il peut laisser à l’équipe l’évaluation d’une période nouvelle.",
+      "number": 8,
+      "slug": "alix-le-mot-sur-la-lettre",
+      "topics": [
+        "Trouble cyclothymique",
+        "Évaluation différentielle",
+        "Chronologie clinique"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic se lit dans une histoire",
+          "text": "Dans la CIM-11, le trouble cyclothymique implique une succession prolongée de périodes avec des manifestations dépressives et hypomaniaques. La durée et l’intensité, l’existence éventuelle d’épisodes caractérisés et leur place dans l’histoire orientent l’évaluation. Un antécédent d’épisode maniaque ou mixte change le cadre clinique. Selon le parcours, l’apparition d’un épisode dépressif peut aussi modifier l’évaluation. L’équipe recherche d’autres explications possibles. Une comparaison faite seul à partir de quelques signes laisse de côté ce travail."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les périodes aident-elles à éclairer des diagnostics proches ?",
+          "points": [
+            {
+              "heading": "L’histoire déborde les dernières semaines",
+              "text": "Le professionnel cherche le rythme des variations sur une période suffisamment longue.",
+              "examples": [
+                "La Dre Benali avait repris avec Alix des moments antérieurs à l’ouverture de la coopérative.",
+                "Une ancienne date de changement de poste peut aider à situer une période basse dont le début reste incertain."
+              ]
+            },
+            {
+              "heading": "L’intensité et le retentissement se décrivent ensemble",
+              "text": "Des effets sur le fonctionnement aident à expliquer ce que les mots « haut » et « bas » ne disent pas seuls.",
+              "examples": [
+                "Alix se rappelle avoir promis des dates au-delà des disponibilités réelles.",
+                "Une personne peut expliquer combien de temps une difficulté a gêné ses déplacements ou son travail."
+              ]
+            },
+            {
+              "heading": "Une nouvelle période mérite sa propre lecture",
+              "text": "Un diagnostic établi aide au suivi. L’équipe peut en réexaminer les éléments si l’évolution change.",
+              "examples": [
+                "Alix demande si plusieurs nuits plus courtes suffiraient à modifier son diagnostic.",
+                "Un soignant peut demander ce qui se passe en même temps que le sommeil change et depuis combien de temps."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler du diagnostic avec l’équipe de soins",
+          "points": [
+            {
+              "heading": "Poser la question dans ses propres mots",
+              "objective": "Comprendre le terme à partir de son histoire.",
+              "exercise": [
+                "Nommez le mot qui vous pose question.",
+                "Demandez quels moments de votre parcours ont compté.",
+                "Reformulez ce que vous comprenez pour pouvoir le vérifier avec votre soignant."
+              ],
+              "benefit": "Le diagnostic peut devenir plus intelligible qu’un terme dans un courrier."
+            },
+            {
+              "heading": "Garder un détail oublié disponible",
+              "objective": "Compléter l’histoire sans chercher à tout reconstruire.",
+              "exercise": [
+                "Notez l’événement dont vous vous souvenez.",
+                "Séparez ce que vous savez de la date que vous supposez.",
+                "Demandez si cette information est utile au prochain échange."
+              ],
+              "benefit": "Vous pouvez apporter un détail pertinent en gardant une incertitude honnête."
+            },
+            {
+              "heading": "Préparer la question sur un changement",
+              "objective": "Savoir quand le rendez-vous prévu peut être avancé.",
+              "exercise": [
+                "Dites quels changements récents vous interrogent.",
+                "Demandez à l’équipe dans quelles situations la joindre plus tôt.",
+                "Gardez le contact ou le rendez-vous convenu."
+              ],
+              "benefit": "Le suivi peut s’ajuster selon ce qui se passe réellement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La lettre revient dans sa poche",
+      "ending": "La Dre Benali reprend quelques périodes avec Alix et lui indique comment elles avaient été rapprochées lors de l’évaluation. Il lui demande ce qu’il pourrait dire si son sommeil et son fonctionnement changeaient ensemble plus longtemps. Ils reprennent le canal qu’il a utilisé au printemps et conviennent de la prochaine date. Alix range la lettre. Au moment de sortir, il voit le papier de Laurent sur le bureau et revient le chercher.",
+      "mirror": [
+        "Robin peut demander « Tu veux m’expliquer ce que tu as compris ou tu préfères garder ça pour toi ? » Si Alix souhaite un appui pratique, ils peuvent revoir comment le joindre ou l’accompagner sur demande. Alix décide du détail du diagnostic qu’il partage et de la place que Robin prend dans ce suivi."
+      ],
+      "continuity": {
+        "choice": "Alix clarifie le diagnostic avec la Dre Benali et reprend les conditions dans lesquelles joindre l’équipe.",
+        "next": "Un rendez-vous déplacé trop tard avec Robin met en jeu la façon de réparer un engagement."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Réparer un rendez-vous manqué quand l’énergie a changé",
+      "description": "Alix a promis à Robin une balade et prévient trop tard qu’il ne viendra pas. Il doit entendre ce que son ami a vécu pendant qu’il attendait.",
+      "context": "Un samedi où Alix n’a pas confirmé le trajet avec Robin",
+      "clinical_focus": "Retentissement relationnel des engagements difficiles à tenir",
+      "clinical_intro": "Robin attend à l’arrêt où Alix lui avait proposé de le retrouver. Alix avait envie de marcher en prenant le rendez-vous. La veille, répondre lui a semblé trop difficile et il a laissé le message en suspens. Les variations d’énergie de la cyclothymie peuvent peser sur un engagement entre deux personnes. L’épisode regarde la déception de Robin et ce qu’Alix peut réparer.",
+      "opening": "Quand Alix ouvre la photo envoyée par Robin, il reconnaît le banc à ses pieds de ciment. Le dernier bus devait y passer à onze heures douze. Robin a photographié le ticket qu’il avait acheté avant de quitter l’arrêt. En bas de l’image, sa chaussure est tournée vers la rue. « Je suis parti », a-t-il écrit. Alix sait qu’il avait proposé la marche deux soirs plus tôt en dessinant le trajet au verso d’un reçu.\n\nVendredi, en rentrant, Alix avait mis son sac près de la porte pour ne pas oublier. Il avait regardé la question de Robin sur le bus et l’avait refermée. Il ne se sentait plus capable de dire s’il irait, ni d’expliquer pourquoi il hésitait pour un trajet qu’il connaissait. Il a mis longtemps à s’endormir, puis a attendu d’être sûr de pouvoir partir avant de prendre son téléphone. En ouvrant la photo, il comprend que Robin était déjà au banc pendant ce temps-là.\n\nIl écrit « désolé j’étais vidé », puis s’arrête avant d’envoyer. Robin avait déjà entendu cette phrase au début de l’été. Cette fois il s’est déplacé et a acheté un ticket. Alix appelle. Robin décroche après plusieurs sonneries et demande s’ils peuvent parler plus tard. Alix demande quelle heure lui irait. Il n’ajoute pas tout de suite une nouvelle date de balade.",
+      "conclusion": "Alix peut parler de sa période basse et reconnaître le déplacement que Robin a fait pour lui. Leur accord sur l’heure de confirmation laisse à chacun davantage de prise sur le prochain rendez-vous.",
+      "number": 9,
+      "slug": "alix-le-banc-que-robin-a-quitte",
+      "topics": [
+        "Retentissement relationnel",
+        "Déception",
+        "Réparation"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’effet d’une promesse après le changement de rythme",
+          "text": "Un engagement prend une place dans la journée de la personne à qui on l’a proposé. Quand l’élan varie au fil de plusieurs jours, la possibilité de tenir une promesse peut changer. Dans le trouble cyclothymique, la répétition de ces écarts peut retentir sur les relations. Alix peut expliquer l’effort qui l’a retenu, entendre ce que Robin a perdu et traiter la suite dans un échange où chacun garde ses choix."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les variations d’énergie peuvent-elles peser sur un rendez-vous ?",
+          "points": [
+            {
+              "heading": "Un engagement commence dans un autre état",
+              "text": "Le projet était sincère quand la personne s’y engageait.",
+              "examples": [
+                "Alix a dessiné lui-même le trajet de la marche.",
+                "Une sortie peut être proposée avec entrain plusieurs jours avant un départ qui demandera davantage d’effort."
+              ]
+            },
+            {
+              "heading": "L’incertitude retarde la réponse",
+              "text": "Attendre d’être sûr peut laisser l’autre organiser seul sa matinée.",
+              "examples": [
+                "Alix lit le message sur le bus vendredi sans répondre.",
+                "Une amie peut faire le trajet jusqu’au lieu prévu alors qu’une confirmation manque encore."
+              ]
+            },
+            {
+              "heading": "Le proche garde sa propre réaction",
+              "text": "Un effet pratique et une déception peuvent rester après l’explication.",
+              "examples": [
+                "Robin a acheté un ticket puis a quitté le banc.",
+                "Une personne qui a déjà attendu peut avoir besoin de temps avant d’accepter un nouveau rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réparer un engagement et mieux préparer le suivant",
+          "points": [
+            {
+              "heading": "Nommer ce qui s’est passé pour l’autre",
+              "objective": "Reconnaître un effet précis avant de refaire un projet.",
+              "exercise": [
+                "Dites quel message vous avez laissé en attente.",
+                "Écoutez la conséquence que l’autre veut décrire.",
+                "Demandez quand il souhaite reprendre cet échange."
+              ],
+              "benefit": "L’explication peut se faire dans un moment accepté par les deux personnes."
+            },
+            {
+              "heading": "Prévoir un délai de confirmation",
+              "objective": "Donner à l’autre un repère lorsqu’un départ reste incertain.",
+              "exercise": [
+                "Choisissez une heure de réponse avant qu’il se déplace.",
+                "Convenez que le plan reste ouvert jusque-là.",
+                "Dites clairement si vous devez renoncer."
+              ],
+              "benefit": "Le proche peut garder son temps et ses autres projets."
+            },
+            {
+              "heading": "Faire la part de ce que vous voulez partager",
+              "objective": "Raconter une difficulté au niveau de détail qui vous convient.",
+              "exercise": [
+                "Dites ce qui a changé dans votre énergie ou vos possibilités.",
+                "Nommez l’aide éventuelle que vous souhaitez.",
+                "Laissez le proche dire s’il peut la donner."
+              ],
+              "benefit": "L’échange peut rester réciproque, avec un appui choisi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un appel à dix-sept heures",
+      "ending": "Robin propose dix-sept heures. À l’appel, Alix dit qu’il savait que le bus comptait et qu’il a laissé la question sans réponse. Robin explique qu’il avait pris ses affaires et refusé un autre trajet pour être là. Ils reparlent du ticket. Robin préfère choisir une promenade qui parte de chez lui une autre fois. Alix propose de confirmer avant le petit déjeuner. Ils raccrochent avec ce seul accord, sans fixer de date.",
+      "mirror": [
+        "Robin peut dire « Quand tu hésites la veille, je préfère le savoir avant de partir. Si je n’ai pas de réponse au petit déjeuner, je ferai mon trajet de mon côté. » Il peut garder sa déception et choisir un autre jour. Une explication sur le vécu d’Alix peut entrer dans cet échange s’il souhaite la donner."
+      ],
+      "continuity": {
+        "choice": "Alix entend le coût du rendez-vous manqué et convient d’une heure de confirmation avec Robin.",
+        "next": "À la fin de l’été, une période basse lui paraît plus durable que celles décrites au dernier rendez-vous."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Reconnaître une période basse qui dure plus que d’habitude",
+      "description": "Les préparatifs et la vie quotidienne deviennent plus difficiles plusieurs jours de suite. Alix décide de reprendre contact avant son rendez-vous.",
+      "context": "À la fin de l’été, après plusieurs journées de difficulté inhabituelle",
+      "clinical_focus": "Prolongation inhabituelle d’une période basse",
+      "clinical_intro": "Le message sur la date de l’atelier et celui sur ses courses restent ouverts sur le téléphone d’Alix. Cette fois, la baisse d’énergie se prolonge et les difficultés concernent plusieurs parties de sa vie. Le suivi du trouble cyclothymique peut être réévalué quand une période s’écarte du rythme connu. Alix cherche à décrire ce qui a changé et à joindre son équipe plus tôt.",
+      "opening": "Le robinet de la cuisine goutte dans un verre qu’Alix a posé la veille pour éviter le bruit sur l’évier. Il le vide au réveil et reste avec le verre à la main, sans savoir pourquoi il a ouvert le placard du bas. Il devait répondre à Laurent au sujet de la table de septembre. Plus bas sur l’écran, Robin demande s’il lui faut quelque chose du marché. Alix écrit la première lettre d’un mot et l’efface. Il n’a presque plus de quoi préparer le dîner.\n\nIl avait déjà eu des lendemains de travail où les choses semblaient loin. Cette fois il cherche dans sa mémoire une matinée de la semaine où il aurait eu envie de partir. Il en trouve une où il s’est rendu au magasin parce que Laurent l’attendait pour signer une livraison. Il est rentré après la signature sans passer chercher le pain. Il regarde le carnet à l’endroit où il avait écrit de contacter le cabinet si le changement s’étendait.\n\nRobin appelle pour dire qu’il passe près de chez lui. Alix lui demande s’il peut lui apporter du pain et s’il a cinq minutes pour rester pendant l’appel. Il sait quelle phrase il voudrait commencer à dire au cabinet. Ce qu’il ne sait pas, c’est si les derniers jours entrent encore dans la même période que celle dont ils avaient parlé. Il s’assied à la table et laisse le téléphone devant lui.",
+      "conclusion": "Alix a donné une durée et deux effets concrets. Le rendez-vous avancé permet à l’équipe d’examiner cette période pendant qu’elle se déroule, et la coopérative peut attendre avant d’annoncer sa date.",
+      "number": 10,
+      "slug": "alix-deux-messages-restes-ouverts",
+      "topics": [
+        "Évolution d’une période basse",
+        "Changement du fonctionnement",
+        "Reprise de contact"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement de durée a du poids",
+          "text": "Dans le suivi du trouble cyclothymique, une période qui se prolonge ou rend plus difficiles plusieurs activités mérite d’être décrite à l’équipe. Le diagnostic connu fournit un contexte, et une période nouvelle peut avoir besoin d’une autre évaluation. Alix rapporte la durée approximative, ce qu’il fait avec effort et les tâches qui n’avancent plus. Le rôle de Robin consiste à lui donner l’appui demandé. La suite clinique revient à l’équipe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une période basse peut-elle s’écarter du rythme habituel ?",
+          "points": [
+            {
+              "heading": "La baisse ne se limite plus à la fin d’une journée",
+              "text": "La répétition permet de voir qu’un effort de récupération ordinaire ne suffit plus à décrire la semaine.",
+              "examples": [
+                "Alix cherche sans la retrouver une matinée où il a eu envie de partir.",
+                "Une personne peut constater que plusieurs jours libres ont passé et que les tâches restent aussi difficiles."
+              ]
+            },
+            {
+              "heading": "Le changement touche aussi ce qui était préservé",
+              "text": "Le retentissement peut s’étendre des engagements au travail à des besoins courants.",
+              "examples": [
+                "La date de l’atelier reste en suspens pendant que les courses n’avancent plus.",
+                "Quelqu’un peut continuer à venir pour une signature et rencontrer des difficultés nouvelles pour se nourrir correctement."
+              ]
+            },
+            {
+              "heading": "Une incertitude devient un motif de contact",
+              "text": "Le doute sur la signification du changement peut être dit tel quel à un professionnel.",
+              "examples": [
+                "Alix retrouve la consigne du cabinet dans le carnet.",
+                "Une personne peut demander si un entretien plus tôt serait utile en décrivant ce qui ne s’améliore pas."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un avis quand la période se prolonge",
+          "points": [
+            {
+              "heading": "Choisir deux effets concrets",
+              "objective": "Donner une image de ce qui est différent cette fois.",
+              "exercise": [
+                "Notez depuis quand le changement vous paraît durer.",
+                "Indiquez un effet au travail et un autre dans votre vie quotidienne.",
+                "Dites ce qui est encore possible et l’effort que cela demande."
+              ],
+              "benefit": "L’équipe dispose d’informations pour situer le retentissement."
+            },
+            {
+              "heading": "Joindre l’équipe par le contact convenu",
+              "objective": "Faire connaître le changement avant la date habituelle si cela se justifie.",
+              "exercise": [
+                "Retrouvez le canal choisi avec le soignant.",
+                "Dites que la difficulté se prolonge et décrivez votre situation actuelle.",
+                "Demandez comment obtenir le retour dont vous avez besoin."
+              ],
+              "benefit": "Un professionnel peut apprécier le délai et proposer la suite."
+            },
+            {
+              "heading": "Demander une présence précise",
+              "objective": "Rendre l’appel plus accessible en gardant votre rôle.",
+              "exercise": [
+                "Demandez à un proche s’il peut rester pendant l’appel.",
+                "Dites s’il peut écouter ou intervenir à votre demande.",
+                "Convenez de ce qu’il fera après."
+              ],
+              "benefit": "L’aide peut rendre possible le contact tout en préservant la place de chacun."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux phrases entendues au cabinet",
+      "ending": "Alix dit qu’il a du mal à préparer ses repas et que le changement lui paraît plus long que d’habitude. La personne qui lui répond lui propose un échange le lendemain et lui indique comment reprendre contact si son état change avant. Robin reste à table jusqu’à la fin de l’appel. Alix lui demande ensuite de lui laisser le pain près du verre. Il écrit à Laurent qu’ils devront reporter l’annonce jusqu’à leur point de la semaine.",
+      "mirror": [
+        "Robin peut dire « Je peux rester cinq minutes pendant que tu appelles. Tu me dis si tu veux que je t’aide à formuler quelque chose. » Il peut apporter ce qui a été demandé et garder l’heure à laquelle il doit repartir. L’équipe de soins reste le contact pour évaluer l’évolution."
+      ],
+      "continuity": {
+        "choice": "Alix obtient un échange avancé et reporte l’annonce sans fixer une date qu’il ne peut pas confirmer.",
+        "next": "Après le contact avec l’équipe, il reprend avec Laurent l’organisation des samedis et choisit ce qu’il veut partager."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Parler du retentissement au travail en choisissant ce que l’on partage",
+      "description": "Alix retrouve Laurent autour du calendrier. Ils cherchent une façon de répartir les samedis en gardant la vie de chacun à sa place.",
+      "context": "Quand Alix revient préparer les prochains samedis avec Laurent",
+      "clinical_focus": "Confidentialité autour du retentissement professionnel",
+      "clinical_intro": "À la coopérative, Laurent a besoin de savoir qui peut ouvrir et animer. Alix sait que ses périodes de variation compliquent certains horaires et veut en parler assez pour revoir le roulement. Le retentissement d’un trouble cyclothymique peut faire l’objet d’un accord de travail sans obliger la personne à raconter ses soins. La scène montre comment Alix décide du détail utile.",
+      "opening": "Laurent a mis deux magnets gris sur les samedis du mois prochain. Il veut garder le premier pour la caisse et le dernier pour les commandes groupées. Entre les deux, Alix voit un blanc à l’endroit où il avait envie de poser l’atelier. Après l’entretien avec la Dre Benali, il a écrit un message pour proposer un rendez-vous avec Laurent. Il en a retiré la phrase où il racontait la consultation. Ce détail lui appartient encore quand il arrive au magasin.\n\nLaurent sort une feuille où figurent les noms des personnes qui savent ouvrir. Deux d’entre elles ont proposé de montrer les matières si on leur préparait les échantillons. Il dit qu’il peut remplacer Alix un matin à condition de le savoir avant vendredi. Alix fait tourner le magnet d’un quart de tour. Il s’attendait à expliquer pourquoi il ne répondait pas à certains messages. Il peut commencer par dire qu’il lui arrive de se rendre compte tardivement que l’ouverture lui coûtera tout le reste de la journée.\n\n« Est-ce qu’on peut laisser un nom de relève et une heure pour décider ? » demande Alix. Laurent acquiesce et veut savoir ce qu’ils diront sur l’affiche. Alix lui montre le mot « équipe » qu’ils utilisent déjà pour les séances partagées. Il se demande s’il veut aussi lui parler du nom du trouble. Laurent attend une réponse sur les samedis. Il peut lui donner celle-là maintenant.",
+      "conclusion": "Laurent sait à quelle heure il a besoin d’une réponse. Alix conserve la décision sur les détails qu’il partage. La relève et l’affiche donnent une suite concrète à ce qu’ils ont convenu.",
+      "number": 11,
+      "slug": "alix-ce-qui-entre-dans-le-roulement",
+      "topics": [
+        "Confidentialité",
+        "Retentissement professionnel",
+        "Accord de travail"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’équipe a besoin de savoir",
+          "text": "Les variations d’énergie et de fonctionnement peuvent modifier la possibilité d’assurer une tâche à l’heure prévue. Parler de leurs effets concrets aide parfois à s’organiser avec des collègues. Alix choisit de dire quels horaires sont plus difficiles et quel relais il souhaite demander. Le diagnostic, les rendez-vous et les détails de sa vie privée restent à sa discrétion. Un accord de travail est d’autant plus utile que chacun peut s’engager sur une action réalisable."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment partager un besoin de travail en gardant la main sur ses informations ?",
+          "points": [
+            {
+              "heading": "Distinguer la tâche et sa difficulté",
+              "text": "Une demande peut décrire le fonctionnement dont l’équipe doit tenir compte.",
+              "examples": [
+                "Laurent a besoin du nom de la personne qui tiendra la caisse samedi.",
+                "Un collègue peut avoir besoin d’un délai de réponse pour organiser une ouverture et ne pas avoir besoin du détail d’une consultation."
+              ]
+            },
+            {
+              "heading": "Voir ce qui se joue dans les questions",
+              "text": "Les personnes autour du travail peuvent parler de choses différentes avec les mêmes mots.",
+              "examples": [
+                "Alix pense à son suivi quand Laurent demande ce qu’ils afficheront.",
+                "Une question sur l’absence peut parfois vouloir dire qu’un horaire reste à couvrir."
+              ]
+            },
+            {
+              "heading": "Choisir où une information ira",
+              "text": "La personne peut décider d’un contenu différent pour l’associé et pour les visiteurs.",
+              "examples": [
+                "Alix envisage de garder les soins pour lui et d’annoncer un atelier assuré en équipe.",
+                "Une personne peut convenir d’un relais avec une collègue et publier seulement le nom de l’atelier."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poser un accord de travail et une limite de confidentialité",
+          "points": [
+            {
+              "heading": "Formuler le besoin utile à l’équipe",
+              "objective": "Séparer le fait à organiser et l’explication personnelle.",
+              "exercise": [
+                "Indiquez quelle tâche demande un relais.",
+                "Précisez le moment où vous pourrez confirmer.",
+                "Demandez ce que votre collègue peut effectivement prendre."
+              ],
+              "benefit": "Le changement peut s’inscrire dans le fonctionnement de l’équipe."
+            },
+            {
+              "heading": "Choisir la phrase destinée au public",
+              "objective": "Prévoir ensemble une information compatible avec votre souhait de discrétion.",
+              "exercise": [
+                "Relisez ce qui est déjà annoncé sur l’atelier.",
+                "Convenez d’une formulation en cas de changement.",
+                "Demandez que la raison personnelle reste entre les personnes concernées."
+              ],
+              "benefit": "Les visiteurs sauront où aller et qui trouver sans information intime."
+            },
+            {
+              "heading": "Revoir le premier essai",
+              "objective": "Vérifier si l’accord correspond à la charge réelle.",
+              "exercise": [
+                "Choisissez un samedi pour l’essayer.",
+                "Notez à quel moment la relève a pu se préparer.",
+                "Dites au point suivant ce que vous voulez modifier."
+              ],
+              "benefit": "Un accord révisable peut s’ajuster quand les besoins changent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le nom de l’équipe sur l’affiche",
+      "ending": "Alix propose de préparer deux boîtes et de rester le premier animateur si le samedi lui convient. Laurent gardera une heure de décision le vendredi matin. Il vérifiera les disponibilités de Chloé avant de mettre son nom sur la feuille. L’affiche annonce une table de matières tenue par l’équipe. Alix dit qu’il veut en rester là aujourd’hui. Il retourne le carton orange et dessine au verso l’emplacement des deux boîtes.",
+      "mirror": [
+        "Laurent peut répondre « J’ai besoin de savoir avant vendredi midi qui tient l’atelier. On peut décider ensemble ce qu’on écrit sur l’affiche. » S’il reçoit une confidence, il peut demander explicitement ce qui doit rester entre eux. L’accord concerne le travail. Le choix de parler du suivi reste à Alix."
+      ],
+      "continuity": {
+        "choice": "Alix et Laurent conviennent d’une heure de décision et d’une annonce au nom de l’équipe.",
+        "next": "À la fin de l’automne, ils évaluent un atelier qui a pu se tenir avec un animateur de relève."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    },
+    {
+      "title": "Mesurer une progression même quand l’humeur varie encore",
+      "description": "Un samedi, l’atelier se tient sans Alix à l’accueil. Il regarde avec son équipe ce qui a pu continuer et ce qui reste difficile.",
+      "context": "À la fin de l’automne, après plusieurs samedis avec la relève",
+      "clinical_focus": "Progression fonctionnelle malgré des variations persistantes",
+      "clinical_intro": "Chloé a montré les matières et Alix retrouve les échantillons rangés dans l’autre ordre. Il aurait voulu assurer cette séance, mais il a pu demander la relève avant le vendredi. Dans le suivi du trouble cyclothymique, le fonctionnement peut évoluer alors que des variations persistent. Alix compare les engagements qui tiennent mieux et les périodes qu’il veut encore décrire à sa psychiatre.",
+      "opening": "Le lundi, le kraft est dans la boîte de gauche. Alix l’avait toujours placé à droite avec les savons au bois. Chloé lui a laissé un message sur le carton orange. « On a sorti le bleu à la fin. Quelqu’un a demandé si on pouvait le voir dehors. » Au-dessous, elle a dessiné un soleil sans lever le crayon. Alix sort une barre et comprend pourquoi elle a changé l’ordre. Sur la table, le papier blanc prend toute la lumière près de la porte.\n\nIl aurait préféré être là pour entendre la question. Vendredi matin, il a dit à Laurent qu’il ne pourrait pas assurer l’ouverture. Il y avait d’abord eu une matinée où il avait trouvé le trajet trop long, puis une autre où il a attendu longtemps avant de mettre sa veste. Il ne s’est pas senti mieux en écrivant. Chloé a pu lui demander à temps dans quel tiroir trouver les morceaux déjà emballés. Laurent a laissé l’heure telle qu’elle figurait sur l’affiche.\n\nRobin vient le chercher en fin d’après-midi. Ils ont confirmé la balade au petit déjeuner et laissé la possibilité de partir de chez Robin. Alix lui montre le dessin du soleil. Il hésite encore à reprendre le même horaire pour le mois prochain. Il voudrait présenter le bleu dehors, si la lumière permet de voir la différence. Dans son carnet, il laisse une page pour le prochain rendez-vous avec la Dre Benali.",
+      "conclusion": "L’atelier continue à plusieurs et Alix peut y reprendre une idée qui lui appartient. Le bilan garde la trace du relais, des rendez-vous qui tiennent mieux et des périodes à revoir avec son équipe de soins.",
+      "number": 12,
+      "slug": "alix-table-passee-de-main-en-main",
+      "topics": [
+        "Progression fonctionnelle",
+        "Suivi à long terme",
+        "Relais choisi"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une amélioration peut se voir dans la vie quotidienne",
+          "text": "Le suivi d’un trouble cyclothymique tient compte des périodes d’humeur et de leurs effets sur les activités et les relations. Un progrès peut se voir dans un engagement mieux préparé, un appui demandé assez tôt ou une activité retrouvée. Cela peut coexister avec des journées où la baisse d’énergie reste difficile. Le fonctionnement donne à l’équipe une partie du tableau. La manière dont les symptômes évoluent compte aussi dans l’évaluation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une progression peut-elle se voir quand des difficultés persistent ?",
+          "points": [
+            {
+              "heading": "Un relais devient possible plus tôt",
+              "text": "Une décision prise à temps peut réduire les effets d’une période difficile sur les autres.",
+              "examples": [
+                "Alix prévient Laurent le vendredi matin et Chloé peut préparer l’atelier.",
+                "Une amie peut organiser un autre trajet si un message arrive avant son départ."
+              ]
+            },
+            {
+              "heading": "L’activité reste investie sans dépendre d’une seule présence",
+              "text": "Une personne peut retrouver une place dans un projet qu’elle n’assure pas seule.",
+              "examples": [
+                "Alix examine avec intérêt l’ordre proposé par Chloé.",
+                "Après avoir cédé une séance, un artisan peut préparer les échantillons pour le rendez-vous suivant."
+              ]
+            },
+            {
+              "heading": "Un effet positif coexiste avec un besoin de suivi",
+              "text": "Les appuis et le vécu de la période donnent des informations différentes.",
+              "examples": [
+                "L’atelier a eu lieu et Alix a encore mis du temps à partir de chez lui.",
+                "Une rencontre tenue grâce à un accord peut être suivie d’un rendez-vous pour parler des difficultés qui restent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire un bilan qui tient compte des variations",
+          "points": [
+            {
+              "heading": "Comparer deux samedis",
+              "objective": "Voir ce que le roulement a changé pour chacun.",
+              "exercise": [
+                "Choisissez une ouverture où le relais était difficile.",
+                "Reprenez le dernier message et le délai obtenu.",
+                "Demandez à Chloé et Laurent ce qui leur a permis de prendre la suite."
+              ],
+              "benefit": "Le groupe peut décider quels éléments garder au prochain calendrier."
+            },
+            {
+              "heading": "Raconter un effet utile et une difficulté",
+              "objective": "Apporter au suivi deux informations qui ont chacune leur place.",
+              "exercise": [
+                "Décrivez un engagement mieux tenu grâce à un appui.",
+                "Situez une difficulté qui persiste dans la même période.",
+                "Demandez au soignant ce que cela change dans la suite du suivi."
+              ],
+              "benefit": "Le bilan peut tenir compte de ce qui avance et de ce qui a encore un coût."
+            },
+            {
+              "heading": "Garder un projet choisi à la bonne taille",
+              "objective": "Préserver la part du travail qui donne envie de revenir.",
+              "exercise": [
+                "Choisissez la question que vous voulez essayer avec le public.",
+                "Convenez du temps et de la relève possibles.",
+                "Fixez un moment pour décider de la date avec l’équipe."
+              ],
+              "benefit": "Le projet reste accessible même si les disponibilités changent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un morceau à regarder dehors",
+      "ending": "Alix remercie Chloé pour le dessin et lui demande si elle veut lui montrer où la visiteuse s’était mise. Ils passent devant la porte au moment où Robin arrive. Dehors, le coin de la barre paraît presque vert. Alix garde l’idée d’un essai en plein air et propose d’en décider mercredi avec Laurent. Dans son carnet, il note aussi les deux matins où il est resté chez lui. En fermant le magasin, il laisse le carton orange à l’endroit où Chloé l’a posé.",
+      "mirror": [
+        "Chloé peut demander « Tu veux que je te raconte le moment où elle a voulu voir le bleu dehors ? » Elle peut aussi préciser les samedis qu’elle peut assurer. Robin garde leur accord sur la confirmation. Leurs choix donnent à Alix des relations et des engagements qu’il peut retrouver au-delà du suivi."
+      ],
+      "continuity": {
+        "choice": "Alix retient le roulement et propose d’essayer la couleur dehors avec le temps et la relève disponibles.",
+        "next": "Le calendrier reste révisable, l’équipe peut partager les ateliers et Alix garde son rendez-vous de suivi."
+      },
+      "sources": [
+        "oms-cddr",
+        "nhs-cyclothymie",
+        "has-decision-partagee"
+      ]
+    }
+  ]
+}

@@ -31,20 +31,81 @@ Sa phobie spécifique des hauteurs est connue de la psychologue qu’elle consul
 
 ## Comment une image peut déclencher l’alarme
 
-Dans une phobie spécifique, la peur se concentre sur une situation ou un objet. Elle peut se déclencher lors d’une rencontre avec ce qui est redouté et aussi à l’idée de cette rencontre. Le lieu représenté sur l’écran reste loin du bureau.
+Dans une phobie spécifique, une peur marquée se concentre sur un objet ou une situation, comme les hauteurs. Elle peut apparaître au contact de ce qui est redouté ou dès qu’on se le représente. Pour Thaïs, l’image du point d’observation suffit à faire venir la peur alors qu’elle est encore au bureau. La proposition de détour prend la place de la question de cartographie qu’elle préparait.
 
-## Comment cette difficulté se manifeste
+## Comment la peur de la hauteur s’invite-t-elle avant d’arriver sur place ?
 
-En revanche, Thaïs imagine déjà le sol sous ses chaussures et le moment où elle devra répondre à Inès. Les sensations qu’elle éprouve à sa place sont bien présentes. La scène rend visible l’effort qu’il lui faut pour suivre une discussion alors qu’elle s’attend à avoir très peur.
+### Une image suffit à lancer l’anticipation
 
-Une photo inquiétante peut aussi susciter un malaise passager chez quelqu’un. Pour comprendre une phobie, un professionnel replace les réactions dans la durée et regarde leurs effets sur les déplacements, le travail ou d’autres activités. Le temps passé à préparer un trajet peut faire partie de ce retentissement, y compris quand personne ne remarque de sortie annulée.
+Un indice peut faire imaginer une situation redoutée alors qu’on en est encore loin.
 
-## Séparer la question de la mission et celle de la peur
+**Exemples concrets**
 
-Samir peut expliquer ce que l’expédition doit réellement produire et quels accès seront examinés. L’intérêt scientifique du point d’observation a sa place dans la réunion. Thaïs peut apporter une question de cartographie tout en réservant à sa psychologue les images précises qui lui viennent quand la passerelle apparaît. Rien ne l’oblige à décider ce matin quel rôle elle prendra sur chaque portion du trajet.
+- Thaïs regarde le point d’observation sur l’écran et pense déjà à la hauteur.
+- Une personne peut appréhender un escalier ajouré lorsqu’elle le découvre sur la photo d’un lieu qu’elle doit visiter.
 
-Il peut être utile de pouvoir différer une décision quand plusieurs informations arrivent en même temps. Pour Thaïs, demander l’ordre du jour et la liste des points à documenter lui permet de revenir à des choix concrets. Avec sa psychologue, elle pourra ensuite expliquer que la peur a déjà pesé sur sa proposition et qu’elle cherche à comprendre cette habitude, dans cette réunion et dans d’autres situations.
+### L’attention abandonne une tâche en cours
+
+La peur anticipée peut empêcher d’entendre la question que l’on venait pourtant de préparer.
+
+**Exemples concrets**
+
+- Thaïs perd la liste des photos à faire alors qu’Inès parle des bornes.
+- Le nom du canal lui paraît lointain après avoir occupé le début de la discussion.
+
+### Le projet change avant la vérification des accès
+
+L’envie d’éviter la hauteur peut pousser à modifier un itinéraire avant de connaître ses conditions.
+
+**Exemples concrets**
+
+- Thaïs propose un parcours qui écarte tout le point d’observation.
+- Inès lui demande comment elles obtiendraient alors les photographies nécessaires.
+
+## 3 techniques pour répondre à l’anticipation sans décider seul du trajet
+
+### 1. Nommer le détail qui a déclenché la peur
+
+Préparer un exemple pour le suivi.
+
+**Exercice pratique**
+
+- Repérez le mot, l’image ou le détail qui a retenu votre attention.
+- Notez ce que vous imaginiez au sujet de la hauteur et ce que vous avez cessé de suivre.
+- Présentez ces deux éléments au professionnel.
+
+La discussion peut distinguer la situation anticipée de celle qui se déroulait à ce moment-là.
+
+### 2. Reprendre une question de travail
+
+Récupérer une information perdue pendant la discussion.
+
+**Exercice pratique**
+
+- Dites quel point vous n’avez plus suivi.
+- Demandez à la personne qui en parlait de reprendre ce passage.
+- Revenez à la décision que le groupe doit prendre à présent.
+
+La discussion peut repartir de ce qui manque plutôt que d’un détour proposé dans l’urgence.
+
+### 3. Faire vérifier les conditions du trajet
+
+Séparer l’évaluation du terrain de la peur anticipée.
+
+**Exercice pratique**
+
+- Identifiez l’information de terrain qui manque.
+- Demandez au responsable de vérifier les accès autorisés et les postes possibles.
+- Décidez ensuite du rôle que vous souhaitez tenir dans les limites de sécurité fixées.
+
+La répartition peut partir de faits vérifiés et rester compatible avec les choix de chacun.
 
 ## Revenir au nom du canal
 
 Thaïs ferme la carte du détour. Elle dit à Inès qu’elle a perdu la liste des photos et demande de reprendre depuis la première borne. Samir lui propose de venir au repérage du lendemain pour examiner les accès avant de répartir les postes. Elle accepte le repérage et garde la liste des postes à discuter. Quand l’écran revient au village, elle pose enfin son calque sur le nom du canal. Inès a entendu un quatrième nom chez sa voisine.
+
+---
+
+**Conclusion**
+
+Thaïs retrouve le nom du canal après avoir demandé de reprendre la liste des bornes. Elle accepte d’examiner les accès avant de répartir les postes. L’image du point d’observation a déjà eu un effet sur son travail, sans qu’elle ait quitté le bureau.

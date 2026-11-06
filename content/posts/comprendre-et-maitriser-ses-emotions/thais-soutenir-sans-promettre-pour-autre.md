@@ -34,16 +34,79 @@ Elle ouvre son sac et sort la maquette. Elle lui explique qu’elle aimerait avo
 
 Un proche peut vouloir aider et ne pas savoir ce que l’autre attend de lui. Thaïs peut avoir besoin de quelqu’un qui l’écoute, reste un moment avec elle ou partage une tâche. Ces gestes ont des effets différents. Au cinéma, elle a trouvé une autre place après avoir parlé avec Milo. Pour la rencontre, elle souhaite surtout qu’il soit là au début. Son choix de rester en bas sera partagé avec les organisateurs qui peuvent l’aider à répondre aux questions.
 
-## Une demande qui commence avant l’ouverture des portes
+## Comment le soutien d’un proche peut-il laisser chacun libre de sa décision ?
 
-Dans la phobie spécifique, le besoin de se préparer peut concerner des moments bien avant le passage redouté. Thaïs anticipe déjà une invitation vers la galerie. Elle voudrait que Milo reste toute la matinée, puis se rappelle qu’au cinéma elle avait déjà craint qu’il se lasse. Elle arrive à préciser qu’elle souhaite surtout une présence pendant les premières questions et qu’elle préfère répondre elle-même aux invitations à monter.
+### Être présent peut avoir une fonction précise
 
-## Conserver une réponse quand le proche n’est plus là
+La présence d’un proche peut rassurer pendant une partie de l’activité sans déterminer toutes les décisions.
 
-Milo peut dire à quel moment il peut aider et ce qu’il est prêt à faire. Thaïs peut convenir avec lui d’une heure d’arrivée et lui dire qu’elle souhaite garder la réponse si on l’invite à monter. Elle peut s’assurer avec Samir et Inès que la présence de Milo ne sera pas la seule manière de garder son rôle au sol. Leur accord sur la répartition permet de prévoir à qui transmettre une question. Le fonctionnement de la présentation peut être expliqué à tous sans dévoiler son diagnostic.
+**Exemples concrets**
 
-L’organisation de la rencontre répond aux besoins du projet et permet aux visiteurs d’accéder aux informations. Thaïs peut, de son côté, choisir ce qu’elle veut discuter dans son suivi sur cette crainte et sur ses choix. Un soutien familial et une décision professionnelle peuvent coexister sans demander à Milo de prendre la place de ses collègues ou de sa psychologue.
+- Thaïs souhaite que Milo soit là pour les premières questions.
+- Elle lui demande aussi un geste précis, celui de l’aider à poser les affiches.
+
+### L’aide pratique et la réponse personnelle se distinguent
+
+Le proche peut tenir une tâche et laisser la personne parler de ce qu’elle accepte.
+
+**Exemples concrets**
+
+- Milo demande s’il doit intervenir si on propose la galerie.
+- Thaïs lui dit qu’elle veut répondre elle-même à cette invitation.
+
+### L’organisation continue après le départ du proche
+
+Une présence limitée peut être complétée par des rôles convenus avec les organisateurs.
+
+**Exemples concrets**
+
+- Milo peut partir après les premières questions.
+- Thaïs écrit à Inès pour vérifier qui reprendra celles sur la galerie.
+
+## 3 techniques pour préparer une présence qui aide sans prendre la parole à votre place
+
+### 1. Proposer une présence délimitée
+
+Clarifier l’appui que vous souhaitez et celui que l’autre peut offrir.
+
+**Exercice pratique**
+
+- Choisissez le moment où sa présence vous aiderait.
+- Nommez la tâche ou le geste que vous voulez lui demander.
+- Convenez de son heure de départ ou du moment où vous ferez le point.
+
+Le proche peut s’engager sur une aide qu’il est libre d’accepter.
+
+### 2. Distinguer les paroles que chacun peut prendre
+
+Garder la réponse aux invitations qui vous concernent.
+
+**Exercice pratique**
+
+- Identifiez une question à laquelle vous souhaitez répondre vous-même.
+- Dites au proche comment vous voulez qu’il vous laisse cet espace.
+- Précisez comment vous lui demanderez de l’aide si vous en voulez.
+
+L’accompagnement laisse à la personne le choix de parler et de demander un relais.
+
+### 3. Vérifier la suite avec les organisateurs
+
+Éviter qu’une question de lieu dépende de la disponibilité du proche.
+
+**Exercice pratique**
+
+- Repérez le sujet qui doit être pris par l’équipe.
+- Demandez qui connaît la réponse et peut la donner.
+- Convenez à quel moment vous dirigerez les participants vers cette personne.
+
+Le fonctionnement de la présentation repose sur des rôles dont chacun est informé.
 
 ## La première heure ensemble
 
 Thaïs et Milo choisissent une heure d’arrivée. Il viendra l’aider à poser les affiches et partira après les premières questions. Elle lui demande d’apporter la carte postale du moulin pour expliquer d’où vient une des orthographes. Puis elle écrit à Inès pour vérifier qui prendra les questions sur la galerie. Elle ajoute à Milo que, s’il entend quelqu’un lui proposer la visite, elle préfère pouvoir répondre elle-même.
+
+---
+
+**Conclusion**
+
+Milo apporte la carte postale, aide à poser les affiches et sait quand il partira. Thaïs décide de sa réponse si quelqu’un lui propose la galerie. La présence de son frère a une fonction précise au milieu d’une organisation que l’équipe tient avec elle.

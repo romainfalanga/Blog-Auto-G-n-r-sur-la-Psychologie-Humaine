@@ -33,18 +33,79 @@ Salomé se rappelle un garçon qui avait pensé à sa sonnette. Elle retourne la
 
 Une personne comprend une parole à partir des sons qu’elle distingue et de ce qu’elle s’attend à entendre. L’ASHA, une association professionnelle d’orthophonie, souligne que la familiarité avec la parole de l’enfant et le contexte de l’échange comptent. Le père de Roxane suit son raisonnement parce qu’ils ont parlé de la fausse piste avant d’arriver.
 
-## Comment cette difficulté se manifeste
+## Comment l’habitude d’écouter quelqu’un change-t-elle la compréhension ?
 
-Salomé, elle, pensait que Roxane allait nommer la source du bruit. Son père pourrait lever ce malentendu, mais Roxane tient à poser la question elle-même.
+### Un proche possède déjà des indices
 
-Le geste qu’elle adresse à son père lui donne le temps de reformuler. L’issue compte pour elle : Salomé répond à la question qu’elle voulait poser, et son souvenir apporte une piste au projet. Le geste n’a pas modifié la production des sons.
+Les échanges passés aident à reconnaître les sons et à prévoir ce que la personne veut préciser. Il est alors plus facile de retrouver un mot incomplet.
 
-## Mettre le silence dans le jeu
+**Exemples concrets**
 
-Le bruit choisi est un tambourinage de pic épeiche. Il vient des coups de bec sur le bois. Ce son peut prendre place à côté des chants collectés par la classe : son origine, différente, fait justement le jeu. Salomé propose d’en mettre une copie de côté pour la rencontre et de joindre l’étiquette de la collection. Le groupe de Roxane aura ainsi une source à citer, même si le bruit du square reste sans nom.
+- Le père de Roxane connaît la fausse piste discutée avant leur arrivée à la médiathèque.
+- À la maison, un parent comprend plus vite le nom du livre dont l’enfant parle depuis plusieurs soirs.
 
-Roxane a besoin de deux moments : celui où le visiteur se trompe de famille de bruits, puis celui où une phrase le remet sur une piste. Son père lui tend une feuille pour les noter. Quand elle lui demande de la plier, il lui montre d’abord les deux sens possibles. Elle choisit celui qui permet de soulever la réponse sans que le visiteur la voie avant d’avoir proposé la sienne.
+### Un nouveau partenaire part d’une autre attente
+
+Ce que l’autre croit qu’on va lui demander oriente les mots qu’il croit avoir entendus.
+
+**Exemples concrets**
+
+- Salomé attend le nom de l’oiseau alors que Roxane cherche un bruit susceptible de tromper des joueurs.
+- Lors d’une inscription, une bénévole croit qu’un enfant nomme l’activité, alors qu’il demande si le matériel est fourni.
+
+### La familiarité peut servir d’appui à la réponse
+
+Le proche peut aider à poser le contexte ou rester disponible le temps d’une reprise, selon ce que souhaite la personne.
+
+**Exemples concrets**
+
+- Roxane adresse un geste à son père avant de reformuler sa demande à Salomé.
+- Un frère rappelle à un nouvel interlocuteur qu’il s’agit du trajet du samedi, puis laisse l’enfant indiquer l’arrêt.
+
+## 3 techniques pour donner un repère à un interlocuteur nouveau
+
+### 1. Annoncer le sujet
+
+Fournir un contexte sans raconter la réponse à la place de la personne.
+
+**Exercice pratique**
+
+- Choisissez le mot qui situe l’échange, comme « la devinette ».
+- Dites-le ou écrivez-le avant la question.
+- Demandez si c’est bien sur ce sujet que l’autre vous a suivi.
+
+Les deux personnes ont moins de possibilités à départager pour comprendre la suite.
+
+### 2. Laisser le temps d’une autre phrase
+
+Éviter que le proche familier devienne systématiquement l’interprète.
+
+**Exercice pratique**
+
+- Convenez d’un geste qui signifie « je continue ».
+- Lorsqu’il apparaît, laissez la personne reprendre la demande.
+- Proposez une aide sur le seul détail manquant si elle la demande.
+
+La personne peut corriger elle-même ce que son nouvel interlocuteur avait compris.
+
+### 3. Donner un objet commun à regarder
+
+Partager une information que le proche avait déjà.
+
+**Exercice pratique**
+
+- Montrez les deux cases ou les deux choix dont vous parlez.
+- Indiquez lequel concerne la question actuelle.
+- Laissez l’autre répondre à cette question avant de passer au choix suivant.
+
+Le support apporte du contexte au nouvel interlocuteur et garde la décision ouverte.
 
 ## La réponse tournée vers la table
 
 Roxane essaie une phrase dans le silence qui suit le son : « Mon tambour a des racines. » Sur un bout de papier séparé, elle écrit une autre ligne, à utiliser si personne ne voit où chercher : « Je frappe le bois avec mon bec. » Salomé met les deux étiquettes de côté, le temps que Zoé entende les sons en classe. Roxane décide lequel elle lui proposera de garder. Elle remet l’étiquette du pic face contre table ; elle veut faire à Zoé le même coup qu’à elle.
+
+---
+
+**Conclusion**
+
+Salomé finit par entendre la question de Roxane et peut lui proposer le tambourinage identifié. Son père a laissé passer le temps nécessaire pour qu’elle précise son idée. Roxane repart avec de quoi faire écouter à Zoé un bruit qui les mènera ailleurs qu’au square.

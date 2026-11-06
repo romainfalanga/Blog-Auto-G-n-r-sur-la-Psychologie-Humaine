@@ -29,22 +29,83 @@ La diététicienne lui demande ce qui avait été utile à la cantine lundi, pui
 
 Adèle fait glisser la pochette vers elle. La soirée est encore vide sur son programme, sauf un point noir qui doit être une poussière prise dans le plastique. Elle pose le doigt dessus. « Si je dis que j’aimerais partir, vous allez tous entendre que je dois dormir là-bas ? » Eva commence à répondre, puis attend. Adèle voudrait pouvoir participer à l’atelier sans que ce oui emporte automatiquement le dîner, la chambre et le lendemain matin. Elle demande si la décision peut être revue sur place.
 
-## Ce que le suivi peut éclairer avant un séjour
+## Un repas possible ici ne prédit pas un repas ailleurs
 
-Dans l’ARFID, une équipe spécialisée peut examiner les besoins nutritionnels, la santé et ce qui facilite ou complique les repas dans différents cadres. Selon la situation, le suivi associe des professionnels de plusieurs métiers. Le médecin et la diététicienne peuvent notamment examiner l’évolution de la croissance et les apports. Aucun repas raconté dans ce bureau ne suffit à déterminer l’ensemble de ces éléments. Ce que rapporte Adèle sur la cantine et sur la maison permet de comprendre pourquoi les mêmes arrangements ne fonctionneraient pas forcément dans les deux lieux.
+Les difficultés liées à l’ARFID peuvent varier selon les aliments, les lieux et les conditions du repas. Une expérience à la maison renseigne sur ce contexte sans suffire à prévoir le séjour ni à évaluer les besoins nutritionnels. La diététicienne recueille ce qui s’est passé à la cantine et chez Adèle. Avec l’équipe, elle pourra revoir les possibilités au centre.
 
-## Un repas possible à la maison ne répond pas à la question du séjour
+## Comment la difficulté varie-t-elle d’un repas à l’autre ?
 
-Adèle se souvient surtout du bruit des chaises à la cantine. Le même jour, elle a pu prendre chez elle le repas dont elle avait parlé avec la diététicienne. Dans le bureau, elle retrouve son envie de tisser et son inquiétude à l’idée du dîner au centre. Elle a peur qu’un oui à l’atelier l’engage déjà pour toute la soirée. Les repas et les conditions dans lesquelles ils se déroulent pèsent différemment dans sa décision.
+### Le lieu change les conditions
 
-## Prévoir qui peut aider à changer de plan
+Les bruits, le passage et la disponibilité d’un adulte ne sont pas les mêmes à chaque repas.
 
-Le point qu’Adèle met sur la table est très concret : que pourra-t-elle demander si, le soir, la première option ne fonctionne pas ? Elle aimerait pouvoir essayer la place prévue avec les autres et savoir où aller, avec quel adulte, si elle a besoin d’un cadre plus calme. Eva peut rester joignable et envisager de venir la chercher. Les modalités alimentaires qui iraient avec ces options se discutent avec les soignants ; un départ en cours de séjour est une décision à organiser avec les adultes, pas quelque chose qu’Adèle doit gérer sur le moment.
+**Exemples concrets**
 
-Prévoir un retour donne une réponse à une inquiétude présente. Cela laisse aussi la place à une autre question : si elle souhaite rester, quels appuis peuvent rendre ce choix possible ? La diététicienne propose de noter les deux questions pour le collège.
+- Adèle se souvient du bruit des chaises à la cantine.
+- Un élève peut manger dans le calme à la maison et rencontrer plus de difficultés quand plusieurs classes déjeunent ensemble.
 
-La diététicienne peut partir du suivi déjà en place pour proposer avec Adèle et Eva des modalités de repas compatibles avec le séjour. Elle reprend ces propositions avec le reste de l’équipe, notamment si le séjour modifie l’organisation des appuis habituels. Le centre et les adultes qui encadreront le groupe doivent dire ce qu’ils peuvent assurer. Il faut les deux réponses avant de confirmer la nuit.
+### Le soutien utilisé compte dans la comparaison
+
+Un repas possible peut tenir à des conditions déjà ajustées avec l’équipe.
+
+**Exemples concrets**
+
+- Chez elle, Adèle a pu prendre le repas discuté avec la diététicienne.
+- Une personne décrit un repas possible avec un appui prévu et vérifie si cet appui existera au lieu suivant.
+
+### Le projet s’étend sur plusieurs moments
+
+Une journée avec plusieurs repas et une nuit demande de vérifier plus d’une situation.
+
+**Exemples concrets**
+
+- Pour Adèle, vouloir l’atelier ne répond pas à la question du petit déjeuner au centre.
+- Un jeune peut être prêt pour une visite d’après-midi et avoir encore besoin de préparer le dîner avant de confirmer le séjour entier.
+
+## 3 techniques pour préparer des possibilités avec l’équipe de soins
+
+### 1. Comparer deux expériences
+
+Faire connaître ce qui aide ou gêne selon le lieu.
+
+**Exercice pratique**
+
+- Choisissez un repas à la maison et un autre à l’extérieur.
+- Décrivez le cadre et l’appui qui était disponible.
+- Demandez à l’équipe ce que ces observations permettent de préparer.
+
+Le plan peut partir de conditions vécues au lieu d’extrapoler à partir d’un seul repas.
+
+### 2. Découper le programme du séjour
+
+Repérer quels moments demandent une décision ou un relais.
+
+**Exercice pratique**
+
+- Regardez la journée et la nuit séparément.
+- Identifiez les lieux, les repas et les adultes qui restent à confirmer.
+- Demandez comment revoir la décision si les conditions changent.
+
+L’atelier et la nuit peuvent faire l’objet de vérifications distinctes.
+
+### 3. Préparer un changement avec les professionnels
+
+Éviter de devoir improviser l’alimentation ou la suite du séjour sur place.
+
+**Exercice pratique**
+
+- Demandez à l’équipe quelles options sont compatibles avec le suivi.
+- Convenez avec les adultes de la personne à contacter si le plan devient difficile à suivre.
+- Notez les réponses lorsque le médecin et la diététicienne ont confirmé les modalités.
+
+Le cadre devient plus prévisible et les décisions de santé restent du ressort de l’équipe.
 
 ## Deux questions au verso
 
 Adèle prend la feuille de la pochette. Elle écrit au verso « où demander de l’aide ? » et « qui appelle maman ? ». Eva lui dit qu’elle pourra se libérer le soir et rester joignable le lendemain. La diététicienne convient de transmettre à la famille les éléments utiles après échange avec le médecin. Adèle remet la feuille dans la pochette, côté questions en haut. Elle laisse la case de la soirée telle quelle.
+
+---
+
+**Conclusion**
+
+La pochette d’Adèle repart avec deux questions précises et une soirée encore ouverte. Ce qu’elle a pu faire à la maison aide à préparer la discussion. Le centre aura ses propres conditions à vérifier.

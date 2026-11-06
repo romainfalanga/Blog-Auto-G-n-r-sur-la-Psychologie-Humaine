@@ -29,20 +29,83 @@ Il recule sous l’auvent pour laisser passer un livreur. Son carton gris est re
 
 La table de prêt donne sur l’accueil. Une classe y dépose des livres au moment où Armand sort sa chemise. Il sait quelle partie du canal il veut montrer, mais à chaque « bonjour » du comptoir il repart du début. Nadia lui propose le bout de la grande table, derrière le rayon des romans. Il la suit et s’assoit du côté d’où il voit la porte verte. Il se met à rire en découvrant une tache de café sur le plan. « On pourra la dater, celle-là », dit-il.
 
-## Ce que la désorientation change dans un lieu familier
+## Quand le bâtiment familier change d’entrée
 
-Une activité familière peut devenir plus difficile quand les repères du lieu changent ou que plusieurs informations arrivent en même temps. Le parcours habituel d’Armand et le nom qu’il a en tête lui servent encore. Devant une entrée déplacée, le panneau lui demande d’associer une flèche, un service et un trajet dont il ne voit pas encore la fin. Au comptoir, les interruptions s’ajoutent à ce qu’il essaie de raconter. Ces difficultés sont concrètes même si, quelques minutes plus tard, la conversation se déroule mieux à une autre table.
+La maladie d’Alzheimer peut compliquer l’orientation dans un lieu connu quand un repère habituel disparaît ou change de place. Reconnaître le bâtiment ne suffit pas toujours à déduire comment atteindre la bonne porte. Au foyer, Armand a besoin d’une indication reconnaissable depuis la rue, puis d’une place qui lui laisse voir comment il est entré.
 
-## Comment cette difficulté se manifeste
+## Comment la perte d’un repère familier se voit-elle sur un trajet ?
 
-La maladie d’Alzheimer évolue avec le temps, et ses effets diffèrent d’une personne à l’autre. Les aides peuvent donc se discuter à partir d’une activité et d’un lieu précis. L’aisance d’Armand dans la salle calme n’établit ni un retour durable de capacités perdues ni ce qu’il pourra faire dans un environnement différent. Elle montre qu’il peut présenter sa carte dans les conditions de cette rencontre.
+### L’habitude mène à une porte qui ne convient plus
 
-## Rendre l’arrivée plus simple
+Un parcours appris peut rester disponible alors qu’une modification du lieu le rend moins utile.
 
-Nadia peut donner à Armand un lieu qui se voit : « la porte verte dans la cour ». Ils peuvent décider qui vient à sa rencontre si cette entrée change encore. Une invitation qui nomme la bonne porte et la personne attendue a un usage plus clair qu’un plan général donné à l’avance. Armand peut choisir si un mot, une photo de la porte ou la présence de quelqu’un lui sert le mieux.
+**Exemples concrets**
 
-Pour le projet lui-même, Nadia peut proposer une table disponible à une heure calme. Elle peut demander à Armand s’il veut parler en ouvrant la carte ou commencer par convenir du prochain rendez-vous. Les recommandations du NICE demandent d’adapter la communication si nécessaire et de tenir compte des activités qui ont du sens pour la personne. Ici, l’enjeu est que l’ancien bibliothécaire puisse faire voir un quartier disparu. Nadia peut s’occuper des accès du foyer sans se charger de ses décisions de santé.
+- Armand rejoint le côté du foyer qu’il connaît et doit chercher un autre accès.
+- Une personne prend le couloir familier pour aller au guichet et s’arrête devant l’ancien bureau fermé.
+
+### Un panneau laisse une étape à deviner
+
+Une flèche demande parfois de relier un nom, une direction et un détail qu’on ne voit pas encore.
+
+**Exemples concrets**
+
+- Devant le foyer, il manque à Armand un signe qu’il puisse retrouver en arrivant de la rue.
+- Un panneau indique « accueil provisoire » ; au tournant suivant, deux portes identiques n’ont plus d’indication.
+
+### La position change ce qu’on peut retrouver
+
+Voir une entrée depuis sa place permet parfois de conserver un repère pour la suite de la visite.
+
+**Exemples concrets**
+
+- Armand s’assied du côté de la grande table d’où il voit la porte verte.
+- Dans un hall aux couloirs semblables, une personne préfère attendre face au vestibule par lequel elle ressortira.
+
+## 3 techniques pour se repérer quand un accès change
+
+### 1. Repérer la porte depuis dehors
+
+Reconnaître l’accès au moment d’arriver.
+
+**Exercice pratique**
+
+- Demandez quelle entrée est effectivement ouverte.
+- Choisissez un signe visible depuis votre direction d’arrivée.
+- Regardez avec la personne où il apparaît depuis la rue.
+
+Le signe écrit ou mémorisé correspond alors à quelque chose qu’on peut retrouver sur place.
+
+### 2. Rendre un détour lisible
+
+Réduire le nombre de directions à déduire.
+
+**Exercice pratique**
+
+- Situez d’abord l’endroit où vous vous trouvez.
+- Demandez l’étape suivante à l’accueil ou à quelqu’un qui connaît les lieux.
+- Faites-vous montrer le tournant si une phrase seule ne suffit pas.
+
+Une indication donnée au bon endroit évite d’avoir à garder tout le plan en tête.
+
+### 3. Garder un point de retour
+
+Pouvoir retrouver l’accès après s’être installé.
+
+**Exercice pratique**
+
+- Repérez depuis la salle la porte utilisée.
+- Choisissez une place qui permet de la voir si c’est possible.
+- Convenez d’un point d’accueil si un nouvel accès doit être utilisé.
+
+L’aménagement répond au lieu et peut être repris si le trajet change encore.
 
 ## Côté cour
 
 Nadia suit du doigt le bord du canal sous la tache. Elle aimerait garder plusieurs cartes qui permettent de comparer le même endroit à différentes époques. Armand propose d’apporter un premier ensemble ; le plan qu’il vient d’ouvrir en fera partie. Ils conviennent d’un rendez-vous le jeudi suivant, à dix heures. Nadia lui écrit « porte verte, côté cour » sur le billet, puis lui montre où se trouve la sonnette extérieure. En repartant, Armand regarde l’emplacement depuis la rue. La peinture tire sur le bleu ; pour lui, elle restera verte.
+
+---
+
+**Conclusion**
+
+La porte verte prend son sens parce qu’Armand l’a regardée depuis la rue. Il conserve sa connaissance du foyer tout en ajoutant un nouveau repère. Lors d’un autre changement, il faudra peut-être demander une autre indication.

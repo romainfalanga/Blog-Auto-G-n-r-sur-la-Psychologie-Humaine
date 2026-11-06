@@ -28,16 +28,81 @@ Yasmina revient du bureau avec une ébauche de planning. « Tu te verrais à l�
 
 ## Deux charges dans la même tâche
 
-Le bras de Laure lui fait mal. Elle doit aussi consacrer de l’attention à la douleur, à sa durée et à ce qu’elle pourrait changer dans la suite de la journée. On voit la différence au moment où elle perd le fil d’une phrase. Elle est toujours à la table, les sachets sont à portée de main, mais une partie du travail se fait désormais dans sa tête. Dans son trouble, cette attention soutenue revient dans plusieurs situations depuis des mois et continue à peser après les explications apportées au cours du suivi.
+Une douleur persistante peut gêner directement un geste et continuer à occuper l’attention pendant le reste de l’activité. Dans le trouble de détresse physique, la place prise par les symptômes et leurs conséquences se prolonge et peut peser sur plusieurs domaines de la vie. Cela ne remet pas en cause la réalité de la douleur ni la possibilité d’une affection physique associée. Laure a mal au bras, puis se met à comparer la sensation à celle de la veille au point de perdre une partie de la question de Yasmina.
 
-## Ce qui disparaît du planning
+## Comment la douleur et l’attention qu’elle mobilise se mêlent-elles à une tâche ?
 
-Si Laure regarde seulement combien de tiroirs sont remplis, elle manque une autre partie de la matinée. Des courses sont reportées, des conversations doivent être reprises et l’horaire proposé se transforme vite en question sur la soirée entière. Le retentissement se voit en suivant ce que Laure voulait faire avant et après sa venue. La Dre Valette connaît cette histoire à travers plusieurs rendez-vous. Une seule matinée de douleur ou un besoin de repos courant apporteraient à eux seuls peu d’informations sur la situation clinique.
+### Un geste devient pénible
 
-## Donner une durée à un essai
+La sensation elle-même peut modifier ce que la personne est en train de faire.
 
-L’équipe peut fixer l’heure de début et celle du passage de relais avant de mettre un nom sur le planning. Pour Laure, une heure assise, avec les sachets dans un plateau à portée de main, rend la tâche assez précise pour qu’elle puisse décider. Elle pourra ensuite dire ce qui l’a aidée à accueillir quelqu’un et ce qui lui a coûté trop d’énergie. Yasmina saura de son côté quand reprendre la table et pourra prévoir ses propres tâches. Le premier essai sert à obtenir ces informations.
+**Exemples concrets**
+
+- Laure a encore mal au bras en manipulant les sachets.
+- Une personne interrompt le classement de livres pour trouver une position moins inconfortable.
+
+### La comparaison prend la place de l’échange
+
+L’attention peut rester fixée sur la durée ou la variation d’une plainte familière pendant qu’autre chose demande une réponse.
+
+**Exemples concrets**
+
+- Laure compare son bras à celui de la veille et demande à Yasmina de répéter.
+- Quelqu’un revient plusieurs fois sur l’heure où la fatigue a commencé et ne retient pas la consigne qu’on vient de lui donner.
+
+### L’effort se répercute après la tâche
+
+Une activité accomplie peut prendre assez d’énergie pour que d’autres restent en attente.
+
+**Exemples concrets**
+
+- Après avoir trié des livres jusqu’à midi, Laure a laissé ses courses dans le sac jusqu’au soir.
+- Une personne termine une permanence et ne prépare plus le repas qu’elle avait prévu en rentrant.
+
+## 3 techniques pour préserver une tâche quand la douleur prend de la place
+
+### 1. Choisir une première durée d’essai
+
+Éviter de promettre une présence plus longue que celle que l’on veut tester.
+
+**Exercice pratique**
+
+- Repérez la partie de l’activité à laquelle vous tenez.
+- Proposez une durée à la personne qui organise.
+- Fixez l’heure et le nom du relais avant d’annoncer le créneau.
+
+Le cadre permet de juger ce que l’essai vous coûte dans des conditions définies.
+
+### 2. Rendre le prochain geste visible
+
+Retrouver le fil d’un travail qui a été interrompu.
+
+**Exercice pratique**
+
+- Choisissez le sachet, le document ou l’outil qui marque la reprise.
+- Placez-le à un endroit distinct.
+- Revenez à une seule action avant de décider de la suivante.
+
+Un repère de travail peut aider quand l’attention revient vers une sensation familière.
+
+### 3. Apporter un exemple de retentissement
+
+Aider l’équipe à distinguer la douleur et ce qui a occupé l’attention.
+
+**Exercice pratique**
+
+- Décrivez la tâche et la sensation que vous ressentiez.
+- Indiquez la pensée qui est revenue et ce que vous avez laissé en suspens.
+- Discutez avec le professionnel des suites utiles, en signalant les symptômes nouveaux.
+
+Le suivi peut tenir compte des symptômes, de l’attention et des conséquences dans la vie réelle.
 
 ## Un trait à dix heures trente
 
 Elles trouvent un samedi où Yasmina est disponible. Laure inscrit son nom entre neuf heures trente et dix heures trente, puis tire un trait vertical et laisse Yasmina remplir la case suivante. La partie « déplacer les tiroirs » reste sur une liste à part. En partant, Laure glisse un sachet de pois sur le dessus du plateau pour montrer où elle aimerait commencer. Dans le bus, elle note deux situations à raconter à la Dre Valette mardi. Elle a encore mal au bras. Pour le samedi, elle a maintenant une durée et une personne à qui remettre la table.
+
+---
+
+**Conclusion**
+
+Laure fixe l’heure où Yasmina reprendra la table. Elle a encore mal au bras et sait quel sachet elle veut présenter en premier. Les deux exemples notés dans le bus lui donneront des mots pour parler de cette matinée à la Dre Valette.

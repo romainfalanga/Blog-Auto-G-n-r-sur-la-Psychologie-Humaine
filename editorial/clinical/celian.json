@@ -25,17 +25,73 @@
         {
           "role": "explanation",
           "heading": "Fluence de lecture et compréhension dans la dyslexie",
-          "text": "Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte."
+          "text": "Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte.\n\nAu centre de formation, Célian comprend le geste et sait le montrer. Lire la ligne devant le groupe lui demande en plus de retrouver sa place et d’enchaîner les mots à voix haute. Une démonstration renseigne sur ce qu’il a compris du geste. Elle ne fait pas disparaître l’effort de lecture."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ces dimensions se rencontrent quand on lit et peuvent se révéler inégalement difficiles. S’arrêter longtemps sur une phrase ne suffit pas pour savoir ce que la personne en a compris. La lecture à voix haute d’une fiche découverte au dernier moment ne mesure pas non plus son intelligence ni l’ensemble de ses compétences. Célian sait ici expliquer comment sa formatrice manie la spatule : il l’a observée faire. Il lui faut encore retrouver dans l’écrit ce qui correspond au geste."
+          "heading": "Comment la lecture à voix haute peut-elle masquer ce qu’on a compris ?",
+          "points": [
+            {
+              "heading": "Retrouver la ligne fait partie du travail",
+              "text": "Après avoir regardé une démonstration, reprendre le texte au bon endroit peut demander du temps.",
+              "examples": [
+                "Célian sait où passe la spatule, mais cherche la phrase correspondante pendant que le groupe attend.",
+                "Une apprentie peut repérer le bon geste sur son poste et devoir reprendre le paragraphe pour trouver le mot qui le désigne."
+              ]
+            },
+            {
+              "heading": "Le rythme devient visible devant le groupe",
+              "text": "La personne peut ressentir le temps de ses pauses alors même qu’elle suit le contenu.",
+              "examples": [
+                "Célian perd sa place en essayant de lire devant les autres.",
+                "Un élève peut relire plusieurs mots pour les dire correctement lors d’un passage improvisé."
+              ]
+            },
+            {
+              "heading": "Une autre réponse rend la compréhension visible",
+              "text": "Montrer ou expliquer une étape donne une information différente de sa lecture à voix haute.",
+              "examples": [
+                "Célian montre le geste à Maxime avant de reprendre la fiche.",
+                "Un apprenti peut dire pourquoi on tient le saladier à cet endroit après avoir vu l’étape, même si la ligne lui demande plusieurs essais."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Savoir ce qui est attendu du binôme",
-          "text": "Dans l’exercice d’Aïcha, le binôme doit montrer et expliquer une étape de cuisine. Si un autre exercice porte sur l’usage précis d’une fiche technique, elle pourra dire quelle partie du texte chacun doit consulter. Expliciter le but aide à chercher un appui qui convient. Célian aimerait d’abord voir la fiche avant l’exercice, pour pouvoir repérer les passages qu’il devra retrouver. Aïcha peut en parler avec lui et convenir d’un essai. Si l’organisation de la formation demande d’autres changements, le référent handicap du centre est un interlocuteur possible. Le choix du support se discute à partir des tâches et des besoins qui se présentent."
+          "heading": "3 techniques pour séparer compréhension et lecture devant le groupe",
+          "points": [
+            {
+              "heading": "Préciser ce qu’on demande de montrer",
+              "objective": "Aligner le support sur le but de la consigne.",
+              "exercise": [
+                "Demandez si l’exercice porte sur le geste, le texte ou les deux.",
+                "Choisissez avec la formatrice l’ordre dans lequel les présenter.",
+                "Faites une réponse sur le geste avant la lecture si le cadre le permet."
+              ],
+              "benefit": "La lecture orale ne prend pas toute la place dans le retour sur l’exercice."
+            },
+            {
+              "heading": "Préparer le passage en amont",
+              "objective": "Donner du temps pour retrouver l’étape avant le cours.",
+              "exercise": [
+                "Demandez la fiche avant l’atelier.",
+                "Marquez le début et la fin du passage à expliquer.",
+                "Notez une question sur le contenu à reprendre sur place."
+              ],
+              "benefit": "Les premiers efforts de repérage peuvent se faire hors du regard du groupe."
+            },
+            {
+              "heading": "Indiquer le point de reprise",
+              "objective": "Faciliter l’accès au texte après la démonstration.",
+              "exercise": [
+                "Gardez un repère sous la ligne utile.",
+                "Après le geste, revenez à ce seul passage.",
+                "Vérifiez avec le groupe si c’est l’étape attendue."
+              ],
+              "benefit": "La personne peut passer du geste à l’écrit sans refaire toute la recherche."
+            }
+          ]
         }
       ],
       "ending_title": "L’autre fiche à préparer",
@@ -53,7 +109,8 @@
         "next": "Aïcha peut essayer l’envoi en amont à partir de la semaine suivante. Jade doit répondre à Célian et ils devront choisir un mode d’organisation pour la rencontre."
       },
       "clinical_focus": "Fluence de lecture et pression sociale",
-      "clinical_intro": "En formation de cuisine, Célian sait reproduire le geste montré par Aïcha. Il perd sa place lorsqu’il doit retrouver la phrase devant les autres. La dyslexie peut toucher l’exactitude ou la fluidité de la lecture, avec des effets différents sur l’accès au sens. Célian propose de montrer l’étape d’abord pour laisser voir ce qu’il a compris."
+      "clinical_intro": "En formation de cuisine, Célian sait reproduire le geste montré par Aïcha. Il perd sa place lorsqu’il doit retrouver la phrase devant les autres. La dyslexie peut toucher l’exactitude ou la fluidité de la lecture, avec des effets différents sur l’accès au sens. Célian propose de montrer l’étape d’abord pour laisser voir ce qu’il a compris.",
+      "conclusion": "Célian montre à Maxime le mouvement qu’il avait compris et demande à Aïcha de recevoir la prochaine fiche plus tôt. Cette marge concerne l’accès au texte. En sortant, il choisit de proposer un projet à lui, le goûter du volley."
     },
     {
       "number": 2,
@@ -75,13 +132,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Célian, elle s’ajoute à des difficultés durables dont les répercussions ont été évaluées. Une liste mal organisée ou une tâche à laquelle on manque d’habitude ne permet pas de conclure à un trouble."
+          "heading": "Comment une lecture exacte peut-elle demander plusieurs vérifications ?",
+          "points": [
+            {
+              "heading": "La réponse exacte n’arrive pas toujours en une lecture",
+              "text": "Il faut parfois revenir aux mots pour saisir la nuance qui change le résultat.",
+              "examples": [
+                "Célian lit finalement qu’une joueuse partira avant le goûter.",
+                "Dans un message de groupe, « je viens au match, je repars après » peut demander de relire la fin avant de compter."
+              ]
+            },
+            {
+              "heading": "Retrouver le lien ajoute une lecture",
+              "text": "Même après avoir compris une phrase, il peut rester à identifier son auteur ou savoir si elle remplace un message précédent.",
+              "examples": [
+                "Célian vérifie à quel prénom rattacher la réponse qu’il vient de lire.",
+                "Dans un fil où deux personnes répondent sous une même citation, il faut parfois revenir à l’en-tête pour savoir qui confirme."
+              ]
+            },
+            {
+              "heading": "Le résultat ne montre pas les allers-retours",
+              "text": "Un compte correct renseigne sur ce qui a été vérifié. Le temps qu’il a fallu peut rester invisible au reste de l’équipe.",
+              "examples": [
+                "Jade peut utiliser le total sans avoir vu les relectures nécessaires.",
+                "Une ligne encore vide permet de distinguer une réponse en attente d’une réponse négative."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire la réponse là où on la cherchera",
-          "text": "Jade et Célian ont besoin de la même information : une présence au goûter confirmée ou non. Ils peuvent laisser les plaisanteries dans la conversation et mettre les confirmations sur une feuille commune. Une ligne par personne leur évite de recompter ceux qui ont répondu deux fois. Une réponse incertaine reste indiquée comme telle jusqu’à ce qu’elle soit confirmée. Célian gagne un endroit où vérifier son compte et Jade sait quoi demander à l’autre capitaine. Cette répartition concerne la manière de faire un goûter. Il peut la proposer en parlant du travail à faire et décider lui-même si une information sur son diagnostic serait utile à partager."
+          "heading": "3 techniques pour réduire les allers-retours sans perdre d’information",
+          "points": [
+            {
+              "heading": "Donner un endroit unique aux réponses",
+              "objective": "Rassembler les renseignements qui servent au même compte.",
+              "exercise": [
+                "Choisissez une feuille accessible aux responsables.",
+                "Inscrivez un prénom par ligne et la question exacte.",
+                "Demandez d’y reporter toute modification confirmée."
+              ],
+              "benefit": "Le total peut être vérifié sans rouvrir chaque message."
+            },
+            {
+              "heading": "Laisser visible ce qui reste en suspens",
+              "objective": "Éviter de compter une réponse incertaine.",
+              "exercise": [
+                "Marquez les réponses dont l’auteur ou la date reste à vérifier.",
+                "Confiez leur confirmation à la personne qui peut la demander.",
+                "Calculez à partir des lignes confirmées et indiquez ce qui manque."
+              ],
+              "benefit": "Le doute ne disparaît pas dans un total qui paraît définitif."
+            },
+            {
+              "heading": "Vérifier un libellé avec son destinataire",
+              "objective": "Faire en sorte que la réponse corresponde à la bonne question.",
+              "exercise": [
+                "Lisez ensemble le titre de la colonne.",
+                "Remplacez-le par une action précise comme « reste au goûter ».",
+                "Testez-le avec le cas d’un joueur qui part après le match."
+              ],
+              "benefit": "Le même mot désigne la même chose pour les personnes qui répondent et comptent."
+            }
+          ]
         }
       ],
       "ending_title": "Laisser un blanc",
@@ -98,7 +211,8 @@
         "next": "Le nombre et la disponibilité du foyer restent à confirmer. Léonie attend le menu pour préparer le panneau ; Célian veut d’abord essayer son gâteau."
       },
       "clinical_focus": "Lecture exacte mais coûteuse",
-      "clinical_intro": "Pour compter les joueurs qui resteront au goûter, Célian retrouve des confirmations dans plusieurs messages. Il peut lire juste en prenant le temps de revoir chaque réponse. Dans un trouble de la lecture, une difficulté de fluidité peut rester invisible derrière un résultat exact. Réunir les réponses sur une liste diminue le nombre d’allers-retours nécessaires pour obtenir le bon compte."
+      "clinical_intro": "Pour compter les joueurs qui resteront au goûter, Célian retrouve des confirmations dans plusieurs messages. Il peut lire juste en prenant le temps de revoir chaque réponse. Dans un trouble de la lecture, une difficulté de fluidité peut rester invisible derrière un résultat exact. Réunir les réponses sur une liste diminue le nombre d’allers-retours nécessaires pour obtenir le bon compte.",
+      "conclusion": "Le compte exact ne dit pas combien de messages Célian a dû reprendre. La nouvelle colonne rassemble les réponses à la même question. Il laisse le lieu vide tant que Jade ne l’a pas confirmé et peut passer à l’essai du gâteau."
     },
     {
       "number": 3,
@@ -116,17 +230,73 @@
         {
           "role": "explanation",
           "heading": "Comparer l’effort de lecture et l’accès par l’oral",
-          "text": "Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension."
+          "text": "Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension.\n\nCélian entend plus facilement l’ordre de la recette quand Maxime la reprend avec lui. Il garde pourtant le carnet ouvert pour vérifier ce qui a été dit. Dans cet essai, la voix donne accès au déroulement et l’écrit reste la référence pour les détails."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée."
+          "heading": "Comment un accès oral change-t-il le travail demandé par une recette ?",
+          "points": [
+            {
+              "heading": "Les mots arrivent sans le même effort de lecture",
+              "text": "Écouter une consigne peut laisser plus d’attention à son sens chez certaines personnes qui peinent à lire le texte avec fluidité.",
+              "examples": [
+                "Célian suit plus facilement la suite des étapes lorsque Maxime les lui dit.",
+                "Un apprenti peut comprendre le rôle d’un ustensile après avoir entendu la consigne qu’il peinait à parcourir seul."
+              ]
+            },
+            {
+              "heading": "Un détail entendu mérite parfois un retour à l’écrit",
+              "text": "La parole passe dans le temps. Une fiche reste disponible quand il faut vérifier un mot ou l’ordre de deux actions.",
+              "examples": [
+                "Célian garde la recette sous les yeux pour comparer l’enregistrement au texte.",
+                "Une quantité entendue pendant qu’on tourne le saladier peut devoir être vérifiée sur la page."
+              ]
+            },
+            {
+              "heading": "Comprendre donne la possibilité d’adapter",
+              "text": "Quand le contenu est accessible, la personne peut décider comment l’utiliser à partir de son projet.",
+              "examples": [
+                "Célian choisit le gâteau aux pommes après avoir goûté le milieu et les bords.",
+                "Un cuisinier peut comparer deux présentations après avoir compris la même étape dans les deux formats."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder à portée ce qui fait foi",
-          "text": "Un enregistrement permet de réécouter. S’il omet une phrase, la réécoute répète cette omission. Célian conserve la recette d’origine à côté de sa carte et compare avec Maxime le passage qui les fait hésiter. Il peut ensuite repérer d’où vient un détail au lieu de multiplier les rappels sur son téléphone. Dans cette situation, l’audio l’aide à se repérer entre les étapes, et la fiche sert à vérifier les informations précises. Il pourra choisir un autre format si le lieu, le bruit ou le type de recette changent. L’essai porte sur l’accès à une tâche réelle, et la question d’un travail orthophonique se discute séparément avec un professionnel."
+          "heading": "3 techniques pour combiner l’oral et l’écrit autour d’une consigne",
+          "points": [
+            {
+              "heading": "Écouter une étape à la fois",
+              "objective": "Retrouver le déroulement sans devoir retenir tout le message.",
+              "exercise": [
+                "Choisissez un passage court.",
+                "Écoutez-le au moment où il devient utile.",
+                "Marquez sur la fiche l’étape que vous venez de situer."
+              ],
+              "benefit": "Les deux formats restent reliés au même endroit de la tâche."
+            },
+            {
+              "heading": "Comparer le message à la référence",
+              "objective": "Vérifier qu’un appui oral a gardé les détails utiles.",
+              "exercise": [
+                "Gardez la fiche d’origine ouverte.",
+                "Comparez l’ordre et les données qui comptent.",
+                "Si quelque chose diverge, revenez au document ou à la personne responsable."
+              ],
+              "benefit": "L’audio aide à accéder au contenu sans devenir une référence incertaine."
+            },
+            {
+              "heading": "Dire ou montrer ce qu’on fera ensuite",
+              "objective": "Vérifier que la consigne est utilisable dans le geste.",
+              "exercise": [
+                "Choisissez l’action qui vient maintenant.",
+                "Décrivez-la ou montrez-la avant de poursuivre.",
+                "Cherchez une précision ciblée s’il reste un doute."
+              ],
+              "benefit": "La personne peut revenir au sens plutôt que relire toute la recette."
+            }
+          ]
         }
       ],
       "ending_title": "Un coin pour chacun",
@@ -143,7 +313,8 @@
         "next": "Il conserve la recette du carnet et les messages d’essai. Léonie connaît le nom du gâteau ; Maxime a annoncé qu’il travaille le samedi de la rencontre."
       },
       "clinical_focus": "Compréhension orale et écrite",
-      "clinical_intro": "Célian suit plus facilement des étapes entendues lorsqu’il essaie son gâteau avec Maxime. Il garde la fiche sous les yeux pour vérifier que l’enregistrement correspond bien à la recette. Avec la dyslexie, comprendre un contenu et parvenir à le lire avec fluidité peuvent demander des efforts différents. Célian essaie un autre accès au texte tout en conservant la référence."
+      "clinical_intro": "Célian suit plus facilement des étapes entendues lorsqu’il essaie son gâteau avec Maxime. Il garde la fiche sous les yeux pour vérifier que l’enregistrement correspond bien à la recette. Avec la dyslexie, comprendre un contenu et parvenir à le lire avec fluidité peuvent demander des efforts différents. Célian essaie un autre accès au texte tout en conservant la référence.",
+      "conclusion": "Le message de Maxime aide Célian à suivre la recette, et le carnet reste ouvert pour vérifier l’étape. Le choix du gâteau vient ensuite de ce qu’ils ont goûté. Célian garde ces deux supports pour son prochain essai."
     },
     {
       "number": 4,
@@ -161,17 +332,73 @@
         {
           "role": "explanation",
           "heading": "L’effet de la fatigue sur une lecture déjà coûteuse",
-          "text": "Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas."
+          "text": "Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas.\n\nCélian revient plusieurs fois au même endroit sur deux feuilles de stock en fin de service. Le document ne lui demande pas davantage de contrôles qu’au début, mais il éprouve plus de mal à les soutenir. Avec Farah, il distingue la vérification nécessaire à l’ouverture de ce qui peut attendre le prochain service."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Célian ne lit pas huit lignes dans le vide : il revient du service, tient deux documents en parallèle et vérifie les objets du placard. Sa fatigue ce soir ne suffit pas à expliquer, à elle seule, l’ensemble de ses difficultés de lecture. La fatigue après le travail peut toucher n’importe qui. Ici, elle s’ajoute à la charge d’une tâche écrite qui lui demande déjà un effort."
+          "heading": "Comment la fatigue modifie-t-elle une lecture qui demande déjà un effort ?",
+          "points": [
+            {
+              "heading": "Le regard revient au même point",
+              "text": "Quand une tâche est coûteuse à soutenir, une personne peut perdre plus facilement l’endroit où elle en était.",
+              "examples": [
+                "Célian reprend les dernières lignes alors qu’il les a déjà regardées.",
+                "En fin d’atelier, un apprenti peut devoir retrouver le même chiffre après chaque interruption."
+              ]
+            },
+            {
+              "heading": "Le texte s’ajoute au reste de la journée",
+              "text": "Comparer des feuilles, répondre autour de soi et retenir une suite d’actions peuvent rendre la reprise plus laborieuse.",
+              "examples": [
+                "Célian compare deux feuilles après son service et pense aussi aux réponses du volley.",
+                "Une personne peut bien lire un document seule le matin et hésiter davantage entre deux lignes quand on la sollicite en même temps."
+              ]
+            },
+            {
+              "heading": "Tout n’a pas la même échéance",
+              "text": "Mettre une tâche de côté avec un repère permet de reprendre la vérification au bon endroit, si l’information peut attendre.",
+              "examples": [
+                "Farah confirme ce qui doit être vérifié pour l’ouverture.",
+                "Célian marque sur sa copie la dernière ligne terminée pour retrouver le reste au prochain service."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire à quel endroit reprendre",
-          "text": "Avec Farah, Célian peut séparer ce qui est nécessaire pour le lendemain de ce qui peut attendre. Il indique les lignes qu’il a réellement comparées et celles qui restent à vérifier. Il serait difficile de reprendre à partir d’un vague « presque fini ». Ce choix préserve l’information dont l’équipe a besoin et lui laisse une tâche claire pour la reprise. Si la comparaison de feuilles revient souvent, il peut aussi demander s’il existe un ordre commun pour les deux listes. Un ajustement vaut d’abord par ce qu’il rend faisable dans le travail réel ; celui qui a aidé en cours peut ne pas suffire à la fermeture du restaurant."
+          "heading": "3 techniques pour organiser les vérifications quand la fatigue augmente",
+          "points": [
+            {
+              "heading": "Identifier l’information nécessaire maintenant",
+              "objective": "Éviter de reporter un contrôle dont quelqu’un a besoin tout de suite.",
+              "exercise": [
+                "Demandez à la personne responsable ce qui doit être confirmé avant l’ouverture.",
+                "Vérifiez cette information sur le document de référence.",
+                "Convenez de l’heure et de la personne qui reprendront les autres lignes."
+              ],
+              "benefit": "La décision de différer s’appuie sur les besoins réels du service."
+            },
+            {
+              "heading": "Mettre les deux documents au même point",
+              "objective": "Réduire la recherche quand il faut comparer des lignes.",
+              "exercise": [
+                "Placez les feuilles côte à côte.",
+                "Utilisez un repère mobile pour la ligne en cours.",
+                "Déplacez-le après chaque comparaison terminée."
+              ],
+              "benefit": "La lecture reprend au bon endroit après une interruption."
+            },
+            {
+              "heading": "Noter l’écart entre deux moments",
+              "objective": "Apporter une observation utile si la fatigue revient souvent.",
+              "exercise": [
+                "Choisissez une tâche comparable faite à deux moments différents.",
+                "Notez ce qui a changé dans l’effort ou le temps de lecture.",
+                "Discutez des ajustements possibles avec la tutrice ou le professionnel qui vous suit."
+              ],
+              "benefit": "Un exemple précis peut aider à revoir le moment ou le format de la tâche."
+            }
+          ]
         }
       ],
       "ending_title": "Un trait sous la dernière ligne lue",
@@ -188,7 +415,8 @@
         "next": "Le restaurant a l’information requise pour ouvrir. Le reste du stock est prévu au début du service suivant ; Célian veut reparler à Aïcha de l’accès à ses fiches."
       },
       "clinical_focus": "Fatigabilité en situation de lecture",
-      "clinical_intro": "À la fin de son service, Célian doit encore comparer deux feuilles de stock. Il revient sur les dernières lignes et sent que le même contrôle lui coûte davantage qu’en début de journée. Une lecture déjà exigeante peut devenir plus laborieuse avec la fatigue. Célian vérifie avec Farah ce dont l’équipe a besoin dès l’ouverture et marque l’endroit où reprendre le reste."
+      "clinical_intro": "À la fin de son service, Célian doit encore comparer deux feuilles de stock. Il revient sur les dernières lignes et sent que le même contrôle lui coûte davantage qu’en début de journée. Une lecture déjà exigeante peut devenir plus laborieuse avec la fatigue. Célian vérifie avec Farah ce dont l’équipe a besoin dès l’ouverture et marque l’endroit où reprendre le reste.",
+      "conclusion": "Le restaurant dispose de la ligne nécessaire à l’ouverture. Célian marque le reste pour le prochain service et choisit de reparler des fiches avec Aïcha. La lecture a été menée assez loin pour cette soirée, avec un point de reprise convenu."
     },
     {
       "number": 5,
@@ -206,17 +434,73 @@
         {
           "role": "explanation",
           "heading": "Un besoin de formation peut se dire en peu de mots",
-          "text": "Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce."
+          "text": "Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce.\n\nLes consignes disponibles à l’avance répondent à la difficulté de retrouver une ligne et de la lire devant le groupe. L’information utile aux autres apprentis concerne le format de l’exercice. Célian peut discuter séparément de son diagnostic, de ses appuis et de ce qu’Aïcha dira en classe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La discussion avec le référent handicap du centre, si Célian souhaite faire le point sur d’autres besoins de formation, se prépare à part. Il peut demander quelles informations seraient utiles, à qui et pour quelle raison."
+          "heading": "Comment parler d’un aménagement sans rendre son diagnostic public ?",
+          "points": [
+            {
+              "heading": "Le besoin se voit dans une tâche précise",
+              "text": "Expliquer ce qui a coincé et ce qui a aidé donne un point de départ pour adapter l’exercice.",
+              "examples": [
+                "Célian retrouve l’étape plus facilement quand il a pu ouvrir la fiche chez lui.",
+                "Une apprentie peut demander à repérer son passage avant l’atelier après avoir perdu sa place lors d’une lecture improvisée."
+              ]
+            },
+            {
+              "heading": "Une consigne commune peut suffire au groupe",
+              "text": "La formatrice peut expliquer le fonctionnement choisi sans raconter ce qui l’a amenée à l’essayer.",
+              "examples": [
+                "Aïcha peut annoncer que chacun aura la fiche et pourra choisir l’étape qu’il souhaite expliquer.",
+                "Un enseignant peut proposer un temps pour relire les consignes à tous sans dire quel élève en a fait la demande."
+              ]
+            },
+            {
+              "heading": "L’essai peut être revu en privé",
+              "text": "Un appui n’a pas besoin d’être fixé pour toute l’année avant d’avoir été utilisé.",
+              "examples": [
+                "Célian et Aïcha prévoient de refaire le point après deux exercices.",
+                "Si la fiche en amont ne suffit pas à retrouver la ligne, ils pourront discuter d’un repère supplémentaire."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir le moment de lire et celui de prendre la parole",
-          "text": "Préparer un passage à l’avance peut réduire la pression du moment, sans supprimer toute difficulté de lecture. Dans cet atelier, Aïcha laisse aussi le binôme faire une démonstration. Cela ouvre une façon de participer qui correspond au but de l’exercice. Célian garde la possibilité de lire un passage s’il le souhaite. Pour d’autres tâches, les deux pourront regarder ensemble ce qu’il faut conserver à l’écrit et ce qui peut être montré ou expliqué oralement. Ce petit essai porte sur le déroulement du cours. Il ne décide ni des objectifs éventuels d’une rééducation, ni des conditions d’une évaluation officielle."
+          "heading": "3 techniques pour formuler et essayer un aménagement de lecture",
+          "points": [
+            {
+              "heading": "Partir d’une situation vécue",
+              "objective": "Faire comprendre à la formatrice où l’accès se complique.",
+              "exercise": [
+                "Choisissez un exemple de consigne difficile à retrouver.",
+                "Décrivez ce qui s’est passé et ce qui a aidé un autre jour.",
+                "Proposez un changement précis pour le prochain exercice."
+              ],
+              "benefit": "L’essai répond à une difficulté concrète."
+            },
+            {
+              "heading": "Préparer les mots destinés au groupe",
+              "objective": "Garder le périmètre choisi pour les informations personnelles.",
+              "exercise": [
+                "Demandez ce que la formatrice prévoit d’annoncer.",
+                "Relisez ou écoutez la phrase avec elle.",
+                "Validez le fonctionnement à présenter et les détails à garder en privé."
+              ],
+              "benefit": "Le groupe peut suivre le nouveau déroulement sans connaître le parcours de santé de Célian."
+            },
+            {
+              "heading": "Choisir un moment pour réévaluer",
+              "objective": "Vérifier ce que l’aménagement change pendant le travail.",
+              "exercise": [
+                "Fixez le nombre d’exercices avant le retour.",
+                "Notez une situation aidée et une difficulté restante.",
+                "Revenez avec la formatrice ou le référent du CFA sur le format à garder."
+              ],
+              "benefit": "L’aménagement peut évoluer à partir de ce qu’il permet réellement."
+            }
+          ]
         }
       ],
       "ending_title": "La phrase qu’Aïcha pourra dire",
@@ -234,7 +518,8 @@
         "next": "Ils feront le point après deux exercices. Le stock du restaurant est terminé ; le rendez-vous d’orthophonie est fixé au lundi suivant."
       },
       "clinical_focus": "Aménagement et confidentialité en formation",
-      "clinical_intro": "Aïcha propose d’expliquer à la classe le nouveau format de travail. Célian veut recevoir la fiche à l’avance et choisir l’étape qu’il présentera, tout en gardant son diagnostic privé. L’épisode distingue le besoin lié à la dyslexie, la façon de l’aménager pendant la formation et les informations de santé que Célian souhaite confier à sa formatrice."
+      "clinical_intro": "Aïcha propose d’expliquer à la classe le nouveau format de travail. Célian veut recevoir la fiche à l’avance et choisir l’étape qu’il présentera, tout en gardant son diagnostic privé. L’épisode distingue le besoin lié à la dyslexie, la façon de l’aménager pendant la formation et les informations de santé que Célian souhaite confier à sa formatrice.",
+      "conclusion": "Célian donne son accord pour une phrase sur l’exercice et garde le diagnostic dans leur échange privé. Il reverra l’essai avec Aïcha après deux fiches. Son rendez-vous avec Mme Vidal servira à discuter de ce qui lui coûte aujourd’hui en lecture."
     },
     {
       "number": 6,
@@ -251,18 +536,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Lire les mots et saisir ce que dit le passage",
-          "text": "La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes. Cela ne rend pas l’oral suffisant dans toutes les situations."
+          "heading": "Ce qu’un bilan ancien dit du travail d’aujourd’hui",
+          "text": "Un trouble développemental de la lecture peut persister alors que les documents, les tâches et les appuis changent. Un bilan ancien renseigne sur les difficultés relevées à l’époque. Pour comprendre ce qui coûte aujourd’hui, le professionnel peut reprendre avec la personne ses habitudes, les documents qu’elle utilise et le retentissement de la lecture.\n\nCélian apporte une fiche de cuisine et décrit le temps qu’il passe à retrouver une étape. Il peut comparer cette situation à une consigne entendue ou montrée. Mme Vidal décidera avec lui des éléments à examiner et de l’intérêt d’un éventuel travail ciblé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Célian demande aussi une démonstration lorsqu’il découvre une technique dont il ne connaît pas encore les termes. Le trouble avec déficit en lecture peut toucher la précision, la fluidité ou la compréhension écrite, et ces difficultés peuvent persister à l’âge adulte. Un exemple permet de décrire une gêne au professionnel ; le bilan s’interprète avec l’histoire et le contexte, pas à partir d’un seul exercice."
+          "heading": "Comment les tâches actuelles donnent-elles de nouvelles questions au suivi ?",
+          "points": [
+            {
+              "heading": "Les documents changent avec la formation",
+              "text": "Une fiche technique ne demande pas les mêmes repères qu’un texte de classe ou un exercice du bilan ancien.",
+              "examples": [
+                "Célian retrouve dans son ancien compte rendu une description qui précède le travail en cuisine.",
+                "Au restaurant, il doit passer d’une ligne de stock à une autre et revenir au bon endroit après avoir regardé le poste."
+              ]
+            },
+            {
+              "heading": "L’effort se décrit en contexte",
+              "text": "Le professionnel peut examiner ce que la personne lit, les interruptions de la tâche et les aides disponibles.",
+              "examples": [
+                "Célian peut raconter qu’il comprend un geste montré avant de pouvoir retrouver la même étape sur la fiche.",
+                "Il peut décrire le retour à la ligne qui devient plus coûteux à la fin du service."
+              ]
+            },
+            {
+              "heading": "Le choix des documents appartient aussi à la personne",
+              "text": "On peut apporter un exemple utile tout en préservant les informations sur d’autres personnes.",
+              "examples": [
+                "Célian laisse une copie sans nom d’élève et reprend la liste des joueurs.",
+                "Une personne peut recopier la structure d’un document de travail si elle ne peut pas en partager le contenu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre un besoin d’aujourd’hui sur le bureau",
-          "text": "Le travail orthophonique et l’adaptation des supports ont des buts distincts et peuvent se compléter. L’adaptation donne accès à une activité ici et maintenant. Une éventuelle reprise du suivi et ses objectifs se discutent avec le professionnel, selon le bilan, les difficultés qui gênent la personne et ce qu’elle veut travailler. Célian apporte un exemple de texte à retrouver au milieu d’une activité. Mme Vidal pourra regarder avec lui ce qui se passe dans ce type de lecture et lui expliquer les étapes qu’elle juge utiles. Le fait qu’une autre personne lise plus vite dans son groupe ne fixe pas l’objectif de ce rendez-vous."
+          "heading": "3 techniques pour préparer un rendez-vous sur des difficultés de lecture actuelles",
+          "points": [
+            {
+              "heading": "Choisir un exemple que l’on peut partager",
+              "objective": "Donner au professionnel un document représentatif.",
+              "exercise": [
+                "Prenez une fiche qui revient dans votre semaine.",
+                "Retirez les renseignements qui concernent des tiers.",
+                "Marquez le passage où vous perdez du temps."
+              ],
+              "benefit": "L’entretien peut partir d’une tâche concrète et respecter la confidentialité."
+            },
+            {
+              "heading": "Comparer deux façons de recevoir l’information",
+              "objective": "Décrire ce que chaque format facilite ou complique.",
+              "exercise": [
+                "Choisissez une consigne lue puis entendue ou montrée.",
+                "Notez ce qui reste à vérifier dans chaque cas.",
+                "Demandez à l’orthophoniste comment ces différences peuvent éclairer vos besoins."
+              ],
+              "benefit": "L’évaluation peut tenir compte de plusieurs accès au même contenu."
+            },
+            {
+              "heading": "Préparer une question pour la suite",
+              "objective": "Donner une direction au prochain échange.",
+              "exercise": [
+                "Dites quelle activité vous aimeriez rendre plus praticable.",
+                "Demandez ce qu’il serait utile d’évaluer de nouveau.",
+                "Convenez de ce qui sera partagé avec la formation, si vous le souhaitez."
+              ],
+              "benefit": "Le rendez-vous débouche sur une prochaine étape comprise et choisie."
+            }
+          ]
         }
       ],
       "ending_title": "La fiche qu’il laisse sur le bureau",
@@ -279,7 +620,8 @@
         "next": "Un rendez-vous ultérieur servira à préciser le besoin ; aucun suivi nouveau ni progrès rapide n’est annoncé. La liste du goûter attend les deux dernières réponses avant le budget."
       },
       "clinical_focus": "Évaluation actuelle de la lecture",
-      "clinical_intro": "Au cabinet de Mme Vidal, Célian compare son ancien compte rendu avec les fiches techniques qu’il utilise en cuisine. Il veut parler du temps qu’il passe à lire aujourd’hui. Dans un trouble développemental de la lecture, les difficultés peuvent persister alors que les tâches changent. Reprendre des situations précises aide Célian à discuter d’un suivi adapté à ses objectifs actuels."
+      "clinical_intro": "Au cabinet de Mme Vidal, Célian compare son ancien compte rendu avec les fiches techniques qu’il utilise en cuisine. Il veut parler du temps qu’il passe à lire aujourd’hui. Dans un trouble développemental de la lecture, les difficultés peuvent persister alors que les tâches changent. Reprendre des situations précises aide Célian à discuter d’un suivi adapté à ses objectifs actuels.",
+      "conclusion": "Célian laisse une fiche représentative à Mme Vidal et garde les réponses du volley pour lui. Le bilan ancien reste un point de départ. Le prochain rendez-vous servira à préciser ce qui gêne sa lecture dans les situations de travail d’aujourd’hui."
     },
     {
       "number": 7,
@@ -297,17 +639,73 @@
         {
           "role": "explanation",
           "heading": "Répartir la charge de lecture et de vérification",
-          "text": "Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps."
+          "text": "Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps.\n\nPasser d’une liste de joueurs à un budget puis à un plan de transport oblige à retrouver plusieurs fois des renseignements dispersés. Célian peut distinguer les choix qu’il tient à faire et les vérifications que d’autres acceptent de prendre. Il organise la feuille pour retrouver la personne et l’action au même endroit."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable."
+          "heading": "Comment des vérifications dispersées alourdissent-elles l’organisation d’un projet ?",
+          "points": [
+            {
+              "heading": "Le même renseignement peut servir à plusieurs décisions",
+              "text": "Retrouver les confirmations coûte du temps si elles ne sont pas accessibles là où l’on calcule le budget.",
+              "examples": [
+                "Célian doit relier le nombre de joueurs au montant prévu pour le goûter.",
+                "Une liste d’achats peut sembler complète avant qu’on distingue ce que le club possède déjà et ce qu’il doit payer."
+              ]
+            },
+            {
+              "heading": "Un objet vérifié peut éviter une lecture répétée",
+              "text": "Pour une question matérielle, regarder l’objet ou demander à son responsable peut donner une réponse directe.",
+              "examples": [
+                "Ils ouvrent le placard et retrouvent les gobelets.",
+                "Nadia retrouve une deuxième boîte plate et peut confirmer qu’elle est disponible."
+              ]
+            },
+            {
+              "heading": "Le partage des tâches rend les responsabilités plus claires",
+              "text": "Savoir qui vérifiera chaque point diminue les allers-retours tout en laissant la décision principale à celui qui organise.",
+              "examples": [
+                "Yanis prend les gobelets et les caisses, tandis que Célian choisit les deux fournées.",
+                "Léonie garde le panneau et une place à la distribution sans devoir trancher le menu."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un nom et une action sur chaque ligne",
-          "text": "Le groupe peut repartir de ce qu’il sait maintenant, au lieu de suivre toute la liste de l’année précédente. Yanis compte les gobelets dans la caisse et peut la transporter. Léonie prépare le panneau. Célian garde la liste des ingrédients et les achats ; il se met d’accord avec Nadia sur les justificatifs à remettre. Une personne qui propose de l’aide peut choisir une tâche précise qu’elle pourra tenir. Célian peut accepter cette tâche, en confier une autre ou préférer la faire lui-même. Le plan de travail peut être accessible à tous sans mentionner les besoins de lecture de quelqu’un."
+          "heading": "3 techniques pour répartir les vérifications d’un projet",
+          "points": [
+            {
+              "heading": "Rassembler les décisions qui dépendent du même renseignement",
+              "objective": "Éviter de chercher le total à plusieurs endroits.",
+              "exercise": [
+                "Inscrivez le nombre confirmé de participants.",
+                "Placez le budget et le menu juste à côté.",
+                "Notez séparément les questions qui peuvent encore changer le compte."
+              ],
+              "benefit": "Le choix du menu s’appuie sur une information visible et à jour."
+            },
+            {
+              "heading": "Attribuer une tâche avec un point de retour",
+              "objective": "Savoir à qui demander le résultat d’une vérification.",
+              "exercise": [
+                "Identifiez l’action dont vous voulez confier le suivi.",
+                "Inscrivez qui l’accepte et à quel moment il vous répondra.",
+                "Convenez de ce qu’il fera si un objet ou un chiffre manque."
+              ],
+              "benefit": "La délégation diminue les recherches sans laisser la question sans réponse."
+            },
+            {
+              "heading": "Garder la décision qui vous tient à cœur",
+              "objective": "Faire la différence entre l’appui et la responsabilité de l’ensemble.",
+              "exercise": [
+                "Choisissez ce que vous voulez décider vous-même.",
+                "Vérifiez quelles tâches les autres peuvent prendre.",
+                "Relisez la répartition avec eux avant de lancer les achats."
+              ],
+              "benefit": "Chacun peut contribuer sans prendre le projet des mains de Célian."
+            }
+          ]
         }
       ],
       "ending_title": "Le premier prénom à côté du sien",
@@ -324,7 +722,8 @@
         "next": "Les achats sont à faire, les tickets à remettre le mardi suivant, et le goûter est prévu au foyer après la rencontre. Les rôles sont distribués et Célian jouera le match."
       },
       "clinical_focus": "Charge de lecture et partage des tâches",
-      "clinical_intro": "Célian doit rapprocher les confirmations, le budget et les tâches de transport. Lire plusieurs documents tout en prenant des décisions mobilise un effort supplémentaire chez lui. Une feuille qui associe une personne à une action réduit les vérifications dispersées. Célian garde les fournées et choisit les responsabilités qu’il partage, ce qui lui permet de continuer à organiser le goûter."
+      "clinical_intro": "Célian doit rapprocher les confirmations, le budget et les tâches de transport. Lire plusieurs documents tout en prenant des décisions mobilise un effort supplémentaire chez lui. Une feuille qui associe une personne à une action réduit les vérifications dispersées. Célian garde les fournées et choisit les responsabilités qu’il partage, ce qui lui permet de continuer à organiser le goûter.",
+      "conclusion": "Célian arrête le menu et retrouve les gobelets avec l’équipe. À côté de son prénom, celui de Yanis indique un relais précis pour le transport. La feuille lui permet de poursuivre la préparation sans devoir tout vérifier lui-même."
     },
     {
       "number": 8,
@@ -342,17 +741,73 @@
         {
           "role": "explanation",
           "heading": "Distinguer la lecture difficile de l’information absente",
-          "text": "Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété."
+          "text": "Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété.\n\nUne mention difficile à lire peut être comparée à l’emballage. Quand l’emballage ne permet pas de rattacher une composition au bon produit, relire ne donnera pas la réponse manquante. Célian écarte le carton et garde les emballages du menu retenu. Les renseignements qu’il présentera ne constituent pas une garantie pour une personne allergique."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans cette scène, relire ou faire lire plus vite ne restituerait pas une information que personne n’a à disposition. Il y a donc deux questions : comment accéder à l’information qui existe, et que décider lorsqu’on ne l’a pas ? Célian peut demander à Léonie de regarder un endroit précis avec lui et choisir de renoncer au lot une fois la réponse du commerçant connue."
+          "heading": "Comment distinguer une mention difficile à lire d’une information absente ?",
+          "points": [
+            {
+              "heading": "Il faut d’abord trouver la bonne étiquette",
+              "text": "Un texte dense ou peu contrasté peut demander plus de temps pour repérer la rubrique et la ligne utiles.",
+              "examples": [
+                "Célian examine le premier sachet et lit les mentions qui y figurent.",
+                "Au magasin, quelqu’un peut demander une seconde lecture d’une liste imprimée sur un pli."
+              ]
+            },
+            {
+              "heading": "L’information doit correspondre au produit",
+              "text": "Une composition trouvée sur un sachet ne renseigne pas sur un autre produit dont l’emballage manque.",
+              "examples": [
+                "L’étiquette du premier biscuit ne répond pas à la question sur la deuxième variété.",
+                "Une photo de la boîte d’une autre recette ne permet pas de vérifier les ingrédients du lot acheté."
+              ]
+            },
+            {
+              "heading": "Le doute change la décision à prendre",
+              "text": "Lorsqu’un renseignement important ne peut pas être confirmé, la solution peut être de garder une autre option ou de dire que l’on ne sait pas.",
+              "examples": [
+                "Célian refuse le carton ajouté et garde le menu prévu.",
+                "Une pomme dessinée peut faire reconnaître le gâteau, mais ne permet pas de connaître sa composition."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Conserver les informations utiles au goûter",
-          "text": "Les étiquettes des produits alimentaires préemballés vendus donnent des informations sur les ingrédients et les allergènes déclarés. Célian garde les emballages des ingrédients achetés et prépare avec Léonie une liste correspondant à ce qu’il utilisera réellement. Ils pourront montrer les informations dont ils disposent sans garantir qu’un aliment convient à quelqu’un. Le club ne transforme pas son goûter en activité de restauration ; l’intérêt de ce choix est de pouvoir répondre précisément à une question sur ce qui est servi. Une note audio peut aider Célian à retrouver une étape de préparation. Pour vérifier la composition d’un produit, ils reviennent à l’emballage correspondant."
+          "heading": "3 techniques pour vérifier une information sans combler les blancs",
+          "points": [
+            {
+              "heading": "Faire correspondre produit et emballage",
+              "objective": "Appuyer la vérification sur la bonne source.",
+              "exercise": [
+                "Identifiez le produit effectivement retenu.",
+                "Gardez son emballage lisible avec les informations du menu.",
+                "Comparez chaque ligne de la liste avec la référence avant de la présenter."
+              ],
+              "benefit": "Une seconde lecture peut porter sur le bon produit et la bonne mention."
+            },
+            {
+              "heading": "Écarter ce que l’on ne peut pas documenter",
+              "objective": "Éviter de transformer une supposition en réponse sur les ingrédients.",
+              "exercise": [
+                "Repérez l’information qui manque.",
+                "Demandez-la à la personne qui peut fournir la référence du produit.",
+                "Si elle reste incertaine, écartez le produit et n’avancez pas de garantie."
+              ],
+              "benefit": "L’organisation peut continuer avec des informations dont les limites sont visibles."
+            },
+            {
+              "heading": "Séparer affichage et documents de référence",
+              "objective": "Rendre le menu lisible sans remplacer les renseignements détaillés.",
+              "exercise": [
+                "Préparez le dessin ou le titre pour orienter les joueurs.",
+                "Gardez la feuille et les emballages ensemble à la table.",
+                "Si une personne pose une question, montrez ce qui est disponible et signalez ce qui ne peut être confirmé."
+              ],
+              "benefit": "Les visiteurs peuvent consulter la source sans prendre le panneau pour une information complète."
+            }
+          ]
         }
       ],
       "ending_title": "Le ticket sous la balance",
@@ -370,7 +825,8 @@
         "next": "Léonie vient vendredi pour préparer le panneau et la feuille d’ingrédients avec lui, dans le temps dont elle dispose avant son bus."
       },
       "clinical_focus": "Lecture des étiquettes et incertitude",
-      "clinical_intro": "Un carton de biscuits supplémentaire arrive alors que Célian prépare les informations sur les ingrédients. Certaines compositions restent impossibles à vérifier. Cette incertitude tient aux renseignements disponibles et peut concerner tout lecteur. Pour Célian, qui connaît le coût d’une lecture attentive, distinguer une ligne difficile d’une information absente permet de choisir une réponse précise au lieu de multiplier les relectures."
+      "clinical_intro": "Un carton de biscuits supplémentaire arrive alors que Célian prépare les informations sur les ingrédients. Certaines compositions restent impossibles à vérifier. Cette incertitude tient aux renseignements disponibles et peut concerner tout lecteur. Pour Célian, qui connaît le coût d’une lecture attentive, distinguer une ligne difficile d’une information absente permet de choisir une réponse précise au lieu de multiplier les relectures.",
+      "conclusion": "Célian arrête de chercher une réponse que le premier sachet ne peut pas donner. Il garde le menu prévu et prépare avec Léonie un panneau et une feuille séparée. Les dessins aideront à repérer la table et les emballages resteront disponibles pour les questions."
     },
     {
       "number": 9,
@@ -388,17 +844,73 @@
         {
           "role": "explanation",
           "heading": "Un format utile dans une pièce peut l’être moins dans une autre",
-          "text": "Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture. Célian s’appuie souvent sur une consigne entendue. Dans ce couloir, le bruit couvre une partie des mots de Jade. Sur le plan écrit, il lui faut retrouver quel accès concerne les joueurs qui sortent du terrain."
+          "text": "Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture. Célian s’appuie souvent sur une consigne entendue. Dans ce couloir, le bruit couvre une partie des mots de Jade. Sur le plan écrit, il lui faut retrouver quel accès concerne les joueurs qui sortent du terrain.\n\nAu milieu des ballons, ni la phrase de Jade ni le plan ne donnent immédiatement le trajet à Célian. Marcher depuis la sortie des joueurs lui permet de rattacher l’indication à une porte qu’il reconnaîtra. Jade pourra ensuite écrire ce repère dans le récapitulatif confirmé par le gardien."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il connaît le bâtiment et peut s’appuyer sur ce qu’il voit en parcourant le trajet. Un changement tardif ou une annonce dans le bruit peut aussi compliquer la tâche pour quelqu’un qui n’a pas de trouble de lecture. Le groupe peut tenir compte de ces conditions sans expliquer toutes les hésitations par le diagnostic de Célian."
+          "heading": "Comment le lieu change-t-il l’appui qui rend une indication utilisable ?",
+          "points": [
+            {
+              "heading": "Un format utile peut perdre son avantage",
+              "text": "Une consigne orale disponible au calme peut devenir difficile à entendre quand le lieu est bruyant.",
+              "examples": [
+                "Le rebond des ballons couvre une partie de ce que Jade dit dans le couloir.",
+                "Une note audio dans un gymnase peut demander plusieurs écoutes pour retrouver un nom de porte."
+              ]
+            },
+            {
+              "heading": "Le document peut partir du mauvais point de vue",
+              "text": "Un plan clair pour le gardien peut être difficile à relier au trajet des joueurs.",
+              "examples": [
+                "Célian cherche l’accès qui part de la sortie du terrain.",
+                "Yanis a besoin du chemin par lequel les caisses passeront, qui n’est pas forcément celui des visiteurs."
+              ]
+            },
+            {
+              "heading": "Le lieu peut fournir le repère manquant",
+              "text": "Voir la porte ou faire le trajet permet de relier des mots à ce qu’on rencontrera sur place.",
+              "examples": [
+                "Jade et Célian refont le chemin depuis les vestiaires.",
+                "Une porte bleue nommée dans le message est plus facile à reconnaître quand on vient de la voir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner le même point de départ à l’équipe",
-          "text": "Une fois le trajet essayé et confirmé avec Rachid, Jade peut modifier la ligne du lieu dans le récapitulatif du goûter. Célian propose un message bref : indiquer d’abord par où sortir du terrain, puis ce qui permet de reconnaître la salle. Il veut que la consigne corresponde à ce que les joueurs verront en arrivant. Yanis, qui transporte les caisses, peut vérifier séparément par quel accès les apporter. L’équipe n’a pas besoin de transformer le plan d’origine ; elle a besoin que chacun puisse retrouver le bon lieu et sache auprès de qui vérifier en cas de doute."
+          "heading": "3 techniques pour adapter une indication au lieu où elle servira",
+          "points": [
+            {
+              "heading": "Partir du trajet réel de son destinataire",
+              "objective": "Vérifier que la consigne correspond au bon accès.",
+              "exercise": [
+                "Choisissez le point de départ des personnes concernées.",
+                "Faites le trajet avec quelqu’un qui connaît le lieu.",
+                "Identifiez un repère visible au premier endroit où l’on peut hésiter."
+              ],
+              "benefit": "Le message peut commencer par ce que les participants verront."
+            },
+            {
+              "heading": "Mettre à jour la référence commune",
+              "objective": "Éviter que l’ancien lieu reste dans les messages.",
+              "exercise": [
+                "Faites confirmer la salle, l’accès et l’heure par le responsable.",
+                "Corrigez le récapitulatif partagé.",
+                "Prévenez les personnes qui détenaient l’ancienne indication."
+              ],
+              "benefit": "Le groupe peut renvoyer à la même version au moment d’orienter les joueurs."
+            },
+            {
+              "heading": "Vérifier qui utilisera quel accès",
+              "objective": "Préparer l’accueil et le transport sans mélanger les itinéraires.",
+              "exercise": [
+                "Indiquez l’accès des caisses à la personne qui les apporte.",
+                "Choisissez qui oriente les premiers visiteurs.",
+                "Testez la phrase courte qui décrit le trajet des joueurs."
+              ],
+              "benefit": "L’indication sert dans la situation précise pour laquelle elle a été prévue."
+            }
+          ]
         }
       ],
       "ending_title": "Le panneau derrière la porte bleue",
@@ -415,7 +927,8 @@
         "next": "Le goûter aura lieu derrière la porte bleue ; Jade oriente les premiers arrivants, Yanis connaît son accès et le panneau de Léonie est maintenu."
       },
       "clinical_focus": "Accessibilité et exigences de la situation",
-      "clinical_intro": "Le foyer réservé ferme et Célian essaie de retrouver le nouveau chemin au milieu des bruits de ballon. Il préfère faire le trajet avec Jade puis retenir un repère qu’il reconnaîtra sur place. Ce qui aide à lire ou à retenir une indication dépend aussi de l’environnement. L’équipe peut ensuite reprendre un seul lieu confirmé pour renseigner les participants."
+      "clinical_intro": "Le foyer réservé ferme et Célian essaie de retrouver le nouveau chemin au milieu des bruits de ballon. Il préfère faire le trajet avec Jade puis retenir un repère qu’il reconnaîtra sur place. Ce qui aide à lire ou à retenir une indication dépend aussi de l’environnement. L’équipe peut ensuite reprendre un seul lieu confirmé pour renseigner les participants.",
+      "conclusion": "La porte bleue donne à Célian un repère qu’il peut montrer à Yanis et que Jade pourra expliquer aux joueurs. Le goûter change de salle mais garde son panneau. L’appui choisi vient du trajet qui sera réellement emprunté."
     },
     {
       "number": 10,
@@ -433,17 +946,73 @@
         {
           "role": "explanation",
           "heading": "Quand chercher un appui ajoute à la charge cognitive",
-          "text": "Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps."
+          "text": "Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps.\n\nLes deux audios avaient été utiles pour les premiers essais. Lorsqu’il doit retrouver une étape pendant les fournées, Célian doit d’abord identifier le bon fichier, puis chercher le bon passage. Revenir à la fiche d’origine lui évite ce tri et lui donne un endroit précis à retrouver."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Célian, les messages courts avaient fonctionné lors de l’essai avec Maxime. Avant le goûter, la comparaison entre les enregistrements lui prend du temps au moment où il faut préparer deux fournées et vérifier ce qui sera affiché. La fatigue et les exigences de la tâche peuvent accentuer une gêne déjà présente. Cela n’efface pas l’utilité de l’essai précédent. Célian peut changer d’appui pour cette soirée, sans renoncer à demander des supports audio dans d’autres situations."
+          "heading": "Comment un appui peut-il ajouter une recherche à la tâche qu’il devait faciliter ?",
+          "points": [
+            {
+              "heading": "Les versions peuvent devenir difficiles à départager",
+              "text": "Plusieurs fichiers semblables demandent une décision avant d’accéder au contenu.",
+              "examples": [
+                "Célian ouvre deux enregistrements pour savoir lequel contient l’étape cherchée.",
+                "Des noms comme « essai » et « essai final » peuvent laisser un lecteur hésiter sur la version en usage."
+              ]
+            },
+            {
+              "heading": "La recherche se mêle au geste en cours",
+              "text": "Lorsqu’il faut agir et chercher en même temps, l’effort de navigation peut annuler l’avantage du format.",
+              "examples": [
+                "Célian doit retrouver une étape pendant qu’il prépare deux fournées.",
+                "Une personne qui utilise déjà ses mains peut perdre du temps à faire avancer puis reculer un enregistrement."
+              ]
+            },
+            {
+              "heading": "Revenir à la source peut simplifier le choix",
+              "text": "Un repère stable permet de reprendre le même passage sans comparer toutes les versions.",
+              "examples": [
+                "Célian retrouve l’étape sur la fiche d’origine et la garde pour chaque fournée.",
+                "Avec Léonie, il garde la liste d’ingrédients à côté des emballages utilisés."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Retrouver une seule référence",
-          "text": "Célian utilise la recette du carnet pour les détails et garde sa petite carte pour s’orienter. Il peut s’arrêter sur un passage à la fois et prendre le temps de vérifier ce qu’il utilise réellement. Léonie, elle, compare la liste qui sera montrée aux joueurs avec les emballages avant de la laisser sur la table. Si une donnée indispensable leur manquait, ils ne la remplaceraient pas par le souvenir de l’essai. Cette fois, ce qui rend le plan faisable, c’est de n’avoir qu’une référence pour chaque décision et de savoir à quel moment chacun intervient."
+          "heading": "3 techniques pour éviter que la recherche d’un appui prenne toute la place",
+          "points": [
+            {
+              "heading": "Désigner une version en usage",
+              "objective": "Reconnaître la bonne source avant de commencer.",
+              "exercise": [
+                "Choisissez le document de référence.",
+                "Marquez sa date ou son usage.",
+                "Rangez les essais ailleurs sans supprimer ce qui doit être conservé."
+              ],
+              "benefit": "La personne accède à la bonne version sans la déduire du nom d’un fichier."
+            },
+            {
+              "heading": "Prévoir un repère par reprise",
+              "objective": "Retrouver un passage au moment où le geste en a besoin.",
+              "exercise": [
+                "Choisissez l’endroit où vous revenez le plus souvent.",
+                "Marquez-le dans le format que vous utiliserez sur place.",
+                "Essayez une reprise après une interruption ordinaire."
+              ],
+              "benefit": "Le repère peut épargner une recherche entière pendant l’activité."
+            },
+            {
+              "heading": "Comparer le coût de deux formats",
+              "objective": "Choisir l’appui d’après l’ensemble de la tâche.",
+              "exercise": [
+                "Relevez ce qu’il faut faire pour ouvrir, trouver et vérifier l’information.",
+                "Comparez la fiche et l’audio au moment où l’information doit servir.",
+                "Gardez le format le plus praticable pour cet usage."
+              ],
+              "benefit": "Le choix tient compte du temps de recherche autant que de la facilité à lire."
+            }
+          ]
         }
       ],
       "ending_title": "Le carnet reste ouvert",
@@ -461,7 +1030,8 @@
         "next": "Le panneau, la caisse d’informations et les deux gâteaux sont prêts. Yanis passera charger les boîtes ; Léonie et Jade prendront leur place à la fin du match."
       },
       "clinical_focus": "Charge cognitive et choix de l’appui",
-      "clinical_intro": "Deux fichiers audio ressemblants obligent Célian à comparer les enregistrements avant même de retrouver l’étape de la recette. Un appui à la lecture peut devenir coûteux lorsqu’il faut d’abord trier ses différentes versions. Célian reprend la fiche d’origine et choisit d’en faire un repère pour chaque fournée. Avec Léonie, il revient à la même référence pour vérifier les ingrédients."
+      "clinical_intro": "Deux fichiers audio ressemblants obligent Célian à comparer les enregistrements avant même de retrouver l’étape de la recette. Un appui à la lecture peut devenir coûteux lorsqu’il faut d’abord trier ses différentes versions. Célian reprend la fiche d’origine et choisit d’en faire un repère pour chaque fournée. Avec Léonie, il revient à la même référence pour vérifier les ingrédients.",
+      "conclusion": "Le carnet reste ouvert et Célian retrouve la même étape pour ses deux fournées. Il finit plus tard que prévu mais peut préparer les boîtes pour Yanis. Les anciens audios ont servi à l’essai et la fiche convient mieux à cette préparation."
     },
     {
       "number": 11,
@@ -479,17 +1049,73 @@
         {
           "role": "explanation",
           "heading": "Avoir un appui et rester responsable de ses choix",
-          "text": "Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif. Célian a choisi les quantités, le menu, le lieu de la table et la façon de retrouver les informations. Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses. Ils ont trouvé des appuis pour cette activité."
+          "text": "Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif. Célian a choisi les quantités, le menu, le lieu de la table et la façon de retrouver les informations. Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses. Ils ont trouvé des appuis pour cette activité.\n\nLe relais devient possible lorsque Léonie peut retrouver directement les informations qu’ils ont vérifiées. Célian précise où sont la feuille et les emballages et à qui renvoyer une question qui reste ouverte. Il peut rejoindre les joueurs pour un moment parce que la vérification a une place et un cadre convenus."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le résultat ne renseigne pas à lui seul sur la facilité qu’aura Célian à lire une autre fiche demain. Les difficultés de lecture peuvent persister et devenir plus ou moins gênantes selon le travail demandé et les appuis disponibles."
+          "heading": "Comment un relais garde-t-il une information vérifiée accessible ?",
+          "points": [
+            {
+              "heading": "Un support commun donne le point de départ",
+              "text": "La personne qui prend la table doit pouvoir trouver les mêmes documents sans relire les échanges de préparation.",
+              "examples": [
+                "Célian laisse la feuille et les emballages à portée de Léonie.",
+                "Un organisateur peut réunir le panneau et la boîte de références au même coin de table."
+              ]
+            },
+            {
+              "heading": "Il faut aussi transmettre la limite de la réponse",
+              "text": "La personne qui relaie peut montrer ce qui est disponible et signaler qu’elle ne peut pas garantir ce que les documents ne disent pas.",
+              "examples": [
+                "Célian indique où le trouver si une demande manque de réponse.",
+                "Si un visiteur demande si un aliment lui convient, Léonie peut montrer les informations disponibles et dire ce qu’elle ne peut pas confirmer."
+              ]
+            },
+            {
+              "heading": "La durée du relais permet à chacun de choisir son rôle",
+              "text": "Un temps convenu aide à se retirer momentanément et à revenir sans réorganiser la table.",
+              "examples": [
+                "Célian rejoint les joueurs pour quelques minutes.",
+                "Léonie peut garder la table pendant ce créneau puis lui transmettre une question ouverte."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce que le relais comprend",
-          "text": "Pour s’éloigner quelques minutes, Célian et Léonie se mettent d’accord sur ce qu’elle peut faire. La feuille et les emballages restent à la table, et elle sait où retrouver Célian si une information lui manque. Ce relais prolonge les tâches déjà réparties. Il ne lui donne pas à décider à la place d’un joueur ce qu’il peut manger. Dans une autre situation, Célian pourrait vouloir rester à la table ou revenir plus tôt. Ici, il choisit de rejoindre les personnes pour qui il a organisé le goûter. Léonie garde la possibilité de l’appeler."
+          "heading": "3 techniques pour passer le relais sans perdre les références",
+          "points": [
+            {
+              "heading": "Faire un tour rapide du support",
+              "objective": "S’assurer que la personne qui prend la suite trouve les mêmes renseignements.",
+              "exercise": [
+                "Montrez où se trouvent la liste et les emballages.",
+                "Indiquez ce qui a déjà été comparé.",
+                "Demandez au relais de montrer où il vérifierait une question courante."
+              ],
+              "benefit": "Les informations restent accessibles à ceux qui en ont besoin."
+            },
+            {
+              "heading": "Convenir d’une réponse à l’incertitude",
+              "objective": "Éviter qu’une personne improvise une garantie.",
+              "exercise": [
+                "Dites quelles informations sont disponibles et lesquelles ne le sont pas.",
+                "Choisissez comment signaler clairement un doute.",
+                "Indiquez qui peut être joint sans promettre qu’il aura la réponse."
+              ],
+              "benefit": "Le relais a une limite connue de tous."
+            },
+            {
+              "heading": "Fixer le retour",
+              "objective": "Partager la responsabilité pour une durée que chacun accepte.",
+              "exercise": [
+                "Demandez combien de temps l’autre peut tenir la table.",
+                "Dites où vous serez pendant ce créneau.",
+                "Reprenez ensemble les questions et le matériel à votre retour."
+              ],
+              "benefit": "La personne peut rejoindre l’activité puis revenir à son rôle."
+            }
+          ]
         }
       ],
       "ending_title": "Une place du côté des joueurs",
@@ -507,7 +1133,8 @@
         "next": "Le goûter a lieu dans la salle du club. Célian doit encore rendre les tickets à Nadia et revoir avec Aïcha les deux essais de fiche disponible à l’avance."
       },
       "clinical_focus": "Autonomie et relais de vérification",
-      "clinical_intro": "Au goûter, Célian veut rejoindre les joueurs et laisser la table quelques minutes à Léonie. Il laisse à portée de main les informations qu’ils ont vérifiées et précise où le trouver si une réponse manque. Des supports lisibles et partagés peuvent rendre le relais praticable quand une lecture demande du temps. Célian choisit ce qu’il transmet et le moment où il souhaite revenir."
+      "clinical_intro": "Au goûter, Célian veut rejoindre les joueurs et laisser la table quelques minutes à Léonie. Il laisse à portée de main les informations qu’ils ont vérifiées et précise où le trouver si une réponse manque. Des supports lisibles et partagés peuvent rendre le relais praticable quand une lecture demande du temps. Célian choisit ce qu’il transmet et le moment où il souhaite revenir.",
+      "conclusion": "Léonie sait où trouver les références et Célian peut aller revoir l’échange avec les joueurs. Il revient prendre une part et aider à replier les tables. Le relais tient parce que les renseignements, leurs limites et son retour ont été précisés."
     },
     {
       "number": 12,
@@ -525,17 +1152,73 @@
         {
           "role": "explanation",
           "heading": "Ce qu’une réussite révèle sur les appuis qui ont servi",
-          "text": "Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides. Célian a organisé le goûter et peut décrire les décisions qui l’ont rendu possible. Quelques jours après, il lui faut toujours de l’effort pour distinguer deux consignes dans un message."
+          "text": "Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides. Célian a organisé le goûter et peut décrire les décisions qui l’ont rendu possible. Quelques jours après, il lui faut toujours de l’effort pour distinguer deux consignes dans un message.\n\nEn formation, recevoir la fiche à l’avance ne suffit pas toujours à retrouver le bon passage. Célian souhaite essayer un repère de page. Il peut examiner cet appui avec Aïcha tout en reconnaissant les choix qui lui ont permis d’organiser le goûter."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ces faits peuvent coexister. Ils permettent de parler des aides dans des termes précis : ce qu’il a pu faire avec la fiche à l’avance, ce qu’il a dû chercher en cours et le temps qu’il y a passé. Une réussite ne suffit ni à conclure que le trouble a disparu, ni à décider de la suite d’un suivi."
+          "heading": "Comment une réussite peut-elle coexister avec un besoin de lecture durable ?",
+          "points": [
+            {
+              "heading": "La réussite a des conditions concrètes",
+              "text": "Le résultat renseigne sur l’activité menée avec ses appuis et sa répartition.",
+              "examples": [
+                "Célian a organisé le goûter avec un seul récapitulatif, un menu vérifié et une équipe aux rôles définis.",
+                "Une liste commune peut rester utile à d’autres organisateurs après qu’on en a retiré les noms."
+              ]
+            },
+            {
+              "heading": "Un autre texte fait revenir une difficulté",
+              "text": "Le format ou le contenu d’une nouvelle tâche peut encore demander du temps de lecture.",
+              "examples": [
+                "Célian doit distinguer deux consignes dans un message après le goûter.",
+                "Une fiche reçue la veille laisse du temps pour lire, mais n’indique pas forcément où reprendre pendant l’atelier."
+              ]
+            },
+            {
+              "heading": "Les besoins se précisent avec l’usage",
+              "text": "Un appui testé peut donner l’idée d’un complément pour une autre étape.",
+              "examples": [
+                "Célian souhaite demander un repère de page en plus de la fiche en amont.",
+                "Il peut apporter à Mme Vidal une difficulté rencontrée au centre sans faire du goûter un bilan de lecture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire évoluer ce qui aide, au centre et au club",
-          "text": "Aïcha et Célian peuvent garder la fiche en avance et essayer de mieux séparer les étapes qui se poursuivent sur une autre page. Ils pourront regarder sur une tâche réelle si le repérage devient plus facile. Le rendez-vous suivant avec Mme Vidal permettra, à part, de discuter de ses objectifs de suivi s’il le souhaite. Au volley, transmettre la feuille donne aux autres un point de départ. Célian peut continuer à cuisiner pour eux quand il en a envie et choisir un autre rôle selon la semaine. L’usage de ces appuis reste lié à ce qu’il souhaite faire."
+          "heading": "3 techniques pour réviser ses appuis après un projet réussi",
+          "points": [
+            {
+              "heading": "Repérer ce qui a changé la tâche",
+              "objective": "Identifier les éléments qui ont été utiles en pratique.",
+              "exercise": [
+                "Choisissez un moment où le projet a pu avancer.",
+                "Repérez le document, le rôle ou le délai qui y a contribué.",
+                "Décidez si cet élément est réutilisable dans une autre situation."
+              ],
+              "benefit": "Le retour donne des informations pour préparer un nouveau projet."
+            },
+            {
+              "heading": "Demander un complément ciblé",
+              "objective": "Répondre à une difficulté précise encore présente.",
+              "exercise": [
+                "Montrez à la formatrice l’endroit où vous perdez du temps.",
+                "Proposez un repère de page ou de ligne pour le prochain essai.",
+                "Choisissez quand vous reviendrez sur son utilité."
+              ],
+              "benefit": "L’appui peut s’ajuster sans repartir de zéro."
+            },
+            {
+              "heading": "Distinguer le bilan d’activité et le suivi",
+              "objective": "Donner à chacun les éléments qui le concernent.",
+              "exercise": [
+                "Clôturez les dépenses et les rôles avec l’équipe.",
+                "Gardez un exemple de lecture difficile pour le rendez-vous clinique.",
+                "Choisissez une nouvelle activité que vous voulez essayer pour elle-même."
+              ],
+              "benefit": "Le projet peut se terminer tandis que les besoins en lecture continuent d’être discutés."
+            }
+          ]
         }
       ],
       "ending_title": "Laisser le prochain prénom vide",
@@ -553,7 +1236,8 @@
         "next": "Le goûter est mené à son terme. Les prochains rôles pourront tourner. Le rendez-vous avec Mme Vidal est encore prévu, et Célian veut essayer un service plus court au volley."
       },
       "clinical_focus": "Persistance des difficultés de lecture",
-      "clinical_intro": "Le goûter est réussi et Célian sait quels repères l’ont aidé à tenir son rôle. En formation, il veut encore demander une marque de page en plus de la fiche disponible à l’avance. Dans la dyslexie, réussir une tâche grâce à des appuis peut coexister avec un effort durable. L’épisode montre comment réviser ces appuis à partir de ce qui a fonctionné."
+      "clinical_intro": "Le goûter est réussi et Célian sait quels repères l’ont aidé à tenir son rôle. En formation, il veut encore demander une marque de page en plus de la fiche disponible à l’avance. Dans la dyslexie, réussir une tâche grâce à des appuis peut coexister avec un effort durable. L’épisode montre comment réviser ces appuis à partir de ce qui a fonctionné.",
+      "conclusion": "Le goûter est terminé et les rôles pourront tourner. Célian sait ce qu’il voudrait ajouter à ses fiches et reverra Mme Vidal. Au gymnase, il a aussi une question qui ne tient pas sur une feuille, celle du prochain service plus court."
     }
   ]
 }

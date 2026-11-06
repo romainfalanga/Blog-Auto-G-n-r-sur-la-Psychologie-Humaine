@@ -31,22 +31,81 @@ Inès redescend avec une photo du canal prise depuis le bout de la plateforme. E
 
 ## Apprécier la peur dans son contexte
 
-Devant un chemin fermé après la chute d’un arbre, respecter la barrière est une décision de sécurité. Sur une plateforme en service, Thaïs éprouve une peur très forte à la vue de la hauteur. Ce contraste donne des éléments pour comprendre ce qu’elle vit, parce qu’elle connaît depuis longtemps cette réaction dans plusieurs lieux présentant la même caractéristique.
+L’intensité d’une peur ne mesure pas à elle seule le risque d’un lieu. Dans l’évaluation d’une phobie spécifique, un professionnel regarde les conditions concrètes et ce qui se répète dans les réactions de la personne. Le groupe respecte la fermeture après la chute d’un arbre. Plus loin, la plateforme est en service et ses consignes restent applicables. Thaïs ressent une peur intense à la vue de la hauteur et choisit de travailler en bas.
 
-Une situation autorisée peut encore comporter des règles à suivre. L’intensité de la peur ne donne à elle seule ni une estimation du risque, ni l’explication de cette peur.
+## Comment distinguer l’intensité de la peur et le risque de terrain ?
 
-Dans une évaluation clinique, le professionnel tient compte des conditions concrètes et de la façon dont la peur, l’évitement ou l’effort se répètent. Des signes physiques comme les tremblements ou les palpitations peuvent accompagner la peur. Leur présence, à elle seule, ne suffit pas à définir une phobie spécifique.
+### Une fermeture donne une information indépendante
 
-## La peur sur la première marche de la plateforme
+Une consigne de sécurité vaut aussi pour quelqu’un qui ne ressent pas de peur particulière.
 
-Thaïs suit le chemin balisé avec Inès et parle des noms recueillis. Sur la première marche de la plateforme ouverte, elle aperçoit l’eau à travers le garde-corps. Son ventre se serre et sa voix porte moins. Son pied est immobile, et elle l’imagine déjà glisser. Elle attend en bas et remarque ensuite un reflet qui gêne la lecture de la borne sur la photo d’Inès.
+**Exemples concrets**
 
-## Garder la sécurité et le travail dans leur rôle
+- Le panneau interdit le chemin après la chute d’un arbre.
+- Samir prévoit de transmettre la fermeture à la personne qui accueille le public.
 
-Samir doit vérifier les accès pour toute l’équipe. Il peut proposer à Thaïs de lui transmettre les informations qui permettront de décider à distance quelle photographie reprendre. En restant à un emplacement autorisé au sol, elle peut encore contrôler la référence de la borne et vérifier la précision d’une donnée. Si le site venait à fermer, le plan de toute l’équipe changerait.
+### Une protection peut laisser une peur vive
 
-Thaïs peut également garder pour une consultation la question de savoir ce qui s’est passé sur la marche et ce qui se répète ailleurs. Le travail de terrain suit les besoins de la mission et les règles du lieu. La prise en charge de sa peur suit des objectifs dont elle discute avec la psychologue. Ce jour-là, rester en bas est une décision qu’elle peut prendre sans devoir en tirer immédiatement une conclusion sur ses progrès.
+Dans une phobie des hauteurs, un aménagement autorisé peut encore évoquer une chute pour la personne.
+
+**Exemples concrets**
+
+- Thaïs s’arrête en bas alors que la plateforme est accessible et équipée d’un garde-corps.
+- Quelqu’un peut ressentir des tremblements devant une vue plongeante alors même qu’il reste sur l’espace aménagé.
+
+### Le rôle sur place se discute séparément
+
+Les besoins du travail permettent de chercher une autre manière d’obtenir une information.
+
+**Exemples concrets**
+
+- Thaïs repère depuis le sol le reflet qui masque le numéro de la borne.
+- Samir lui demande ce qu’il peut vérifier depuis la plateforme pendant qu’elle reste au panneau.
+
+## 3 techniques pour faire la part de la sécurité, de la peur et du travail à réaliser
+
+### 1. Vérifier auprès du responsable du site
+
+S’appuyer sur les conditions observables pour les décisions de sécurité.
+
+**Exercice pratique**
+
+- Relevez les indications officielles et les fermetures signalées.
+- Faites préciser les accès autorisés par la personne qui en a la responsabilité.
+- Adaptez la tâche aux consignes et reportez-la si l’accès requis est fermé.
+
+La sécurité du groupe repose sur l’état du lieu et les consignes applicables.
+
+### 2. Décrire la peur dans le bon cadre
+
+Situer une réaction sans en faire une mesure du danger.
+
+**Exercice pratique**
+
+- Retenez un exemple dont le contexte est connu.
+- Notez ce que vous redoutiez et ce que vous avez fait ensuite.
+- Reprenez cet exemple avec le professionnel qui vous accompagne.
+
+Le suivi peut examiner le vécu de la hauteur et les conditions concrètes de ce moment.
+
+### 3. Demander une observation depuis un poste différent
+
+Contribuer à un relevé selon une répartition autorisée.
+
+**Exercice pratique**
+
+- Précisez l’information dont vous avez besoin.
+- Demandez à la personne qui tient l’autre poste si elle peut la transmettre.
+- Vérifiez ensemble si le résultat répond à la question de départ.
+
+Le travail peut avancer sans imposer à chacun le même accès.
 
 ## La borne sur deux photos
 
 Thaïs demande à Samir de vérifier de quel côté se trouve le numéro. Inès prend une deuxième photo. En rapprochant les deux images, Thaïs se rend compte que les chiffres correspondent à une ancienne feuille du cadastre. Elle note le lien avec le plan et envoie le renseignement au groupe. Avant de partir, elle demande à Samir de discuter des rôles au calme, au bureau, avec le tracé du repérage sous les yeux.
+
+---
+
+**Conclusion**
+
+Les deux photos permettent à Thaïs de rattacher la borne au cadastre. Elle a respecté avec le groupe la fermeture du chemin et choisi de rester en bas de la plateforme. Le risque du lieu et l’intensité de sa peur ont appelé des décisions différentes.

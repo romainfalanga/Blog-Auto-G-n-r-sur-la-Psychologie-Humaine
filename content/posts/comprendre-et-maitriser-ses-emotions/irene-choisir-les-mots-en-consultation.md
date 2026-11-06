@@ -29,22 +29,83 @@ Irène sort le plan du livre. Ce n’est pas le même dessin que celui de la tab
 
 La Dre Rivière demande si Mylène connaît la différence. Son père dit qu’ils pourront lui envoyer un compte rendu. Irène rapproche sa trousse du plan. « Tout ? » Elle songe à la petite note qu’elle a écrite chez elle après leur conversation. Elle veut bien en lire une ligne ici. Elle n’a pas envie que la feuille quitte son cahier.
 
-## Parler de la sécurité et de la lecture
+## Le suivi examine la sécurité et les activités séparément
 
-Les besoins de sécurité et les difficultés à poursuivre une activité s’évaluent à partir de situations concrètes. Avec Irène, la pédiatre reprend ce qui s’est passé près du chariot et ce qui l’aide à travailler dans un espace dégagé. Elle demande aussi ce que les mouvements interrompent quand aucun obstacle n’est proche. La douleur et les raccords perdus ne réclament pas la même réponse.
+L’évaluation du trouble des mouvements stéréotypés tient compte des blessures ou du risque de blessure, et de ce que les mouvements changent dans les activités quotidiennes. Ces éléments peuvent varier selon le lieu. Irène montre à sa pédiatre où elle s’est cognée et raconte aussi comment elle suit une lecture. La consultation peut distinguer les aménagements utiles et les informations à transmettre à l’atelier.
 
-## Comment cette difficulté se manifeste
+## Comment le retentissement se décrit-il en consultation ?
 
-Sur le canapé, Irène décrit même une lecture qu’elle a pu continuer sans demander d’aide.
+### La configuration du lieu éclaire le heurt
 
-Si certains mouvements deviennent douloureux, la mettent en danger ou entravent durablement une activité importante pour elle, l’équipe pourra réévaluer le soutien avec elle et ses responsables. Certaines approches comportementales peuvent être discutées avec un professionnel selon le besoin. Le projet de lecture, lui, n’a pas à attendre une décision de traitement pour retrouver une place praticable.
+Situer le risque aide à discuter d’un changement de l’environnement.
 
-## Une information utile à la bonne personne
+**Exemples concrets**
 
-Pour réinstaller l’atelier, Mylène a surtout besoin de savoir qu’il faut garder une place dégagée autour du poste et laisser un repère à l’endroit où Irène reprend. Elle peut aussi savoir à qui parler si une douleur ou un risque réapparaît. Le père et Irène peuvent formuler cela ensemble avec la pédiatre. Ils peuvent distinguer ce qu’ils décident de dire pour organiser l’activité et ce qui reste dans le cabinet.
+- Irène dessine la table, le chariot et la faible largeur du passage.
+- Un enfant montre quel meuble a été rapproché du poste de travail avant le choc.
 
-La question d’Irène, « Tout ? », leur permet de relire ce qu’ils s’apprêtaient à partager. La note qu’elle a écrite à la maison peut servir à la conversation clinique sans devenir une pièce jointe. Elle peut dire les mots qu’elle préfère employer, même si c’est son père qui transmet l’accord pratique à Mylène.
+### La participation a d’autres points de comparaison
+
+Certaines activités continuent sans gêne, tandis qu’une autre demande une reprise au bon endroit.
+
+**Exemples concrets**
+
+- Irène peut écouter pendant le mouvement et perd parfois sa place lorsque la page avance.
+- Un jeune suit une vidéo à son rythme chez lui et manque une étape quand tout le groupe change de support.
+
+### Les personnes sur place ont besoin d’indications pratiques
+
+La consultation peut aider à définir quoi faire à l’atelier sans transmettre tout le récit personnel.
+
+**Exemples concrets**
+
+- Irène souhaite une table dégagée et veut garder sa note dans son cahier.
+- Un enfant autorise le partage d’un repère pour reprendre une consigne et garde pour le cabinet ce qu’il ressent.
+
+## 3 techniques pour préparer un point de suivi sur les mouvements
+
+### 1. Apporter un plan ou une description du lieu
+
+Donner un contexte à un risque que les soignants n’ont pas observé.
+
+**Exercice pratique**
+
+- Montrez où se trouvaient les meubles et le matériel.
+- Décrivez quand le heurt ou la douleur est apparu.
+- Demandez à l’équipe quelles conditions vérifier pour reprendre.
+
+L’aménagement se discute sur une scène précise plutôt que sur le seul geste.
+
+### 2. Comparer deux activités
+
+Montrer à quel moment un mouvement a un effet sur la participation.
+
+**Exercice pratique**
+
+- Choisissez une activité où vous avez pu continuer.
+- Décrivez une autre où vous avez perdu le fil ou eu besoin d’aide.
+- Expliquez ce qui s’est passé autour de vous pendant l’interruption.
+
+L’équipe peut distinguer une gêne à prendre en compte d’un mouvement sans effet important dans ce cadre.
+
+### 3. Décider qui doit savoir quoi
+
+Donner aux adultes ce qu’il leur faut pour aider et agir en cas de difficulté.
+
+**Exercice pratique**
+
+- Choisissez avec l’enfant et l’équipe les consignes pratiques à transmettre.
+- Convenez de qui prévenir si une douleur ou un heurt survient.
+- Gardez les éléments personnels dans le cadre où l’enfant souhaite les partager.
+
+La médiathèque connaît son rôle et l’enfant garde une place dans ce qui est transmis.
 
 ## La note reste dans le cahier
 
 Irène lit « garder le raccord visible ». Elle demande à son père de dire à Mylène qu’elle veut reprendre sur une table dégagée, hors du passage, avec sa trousse du côté où elle travaille. Pour une reprise de page, on lui montrera le feuillet si elle le demande. En cas de nouveau heurt ou de douleur, Mylène préviendra son père comme prévu. Irène glisse la note dans son cahier et la Dre Rivière convient avec eux d’un point après le projet. Dehors, Irène déplie encore une fois le plan pour montrer à son père ce que la lumière de la fenêtre change dans la rue.
+
+---
+
+**Conclusion**
+
+Irène montre la ligne qu’elle veut partager, puis remet la note dans son cahier. Mylène pourra préparer une table dégagée et saura quand prévenir son père. La pédiatre fera le point après le projet.

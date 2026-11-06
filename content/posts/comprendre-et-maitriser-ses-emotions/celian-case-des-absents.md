@@ -32,14 +32,79 @@ Les réponses sont dans la conversation de la rencontre, entre les remarques sur
 
 Une lecture exacte peut demander des relectures et beaucoup de temps dans un trouble développemental des apprentissages avec déficit en lecture. Ce coût se voit peu quand on ne regarde que le résultat final. Célian finit par lire la réponse en entier : la joueuse quitte le gymnase avant le goûter. Ce qui lui demande encore du travail, c’est de la relier au bon prénom et de vérifier si elle corrige une réponse précédente. Le fil est confus en lui-même. Cette difficulté isolée pourrait arriver à d’autres personnes.
 
-## Comment cette difficulté se manifeste
+## Comment une lecture exacte peut-elle demander plusieurs vérifications ?
 
-Chez Célian, elle s’ajoute à des difficultés durables dont les répercussions ont été évaluées. Une liste mal organisée ou une tâche à laquelle on manque d’habitude ne permet pas de conclure à un trouble.
+### La réponse exacte n’arrive pas toujours en une lecture
 
-## Écrire la réponse là où on la cherchera
+Il faut parfois revenir aux mots pour saisir la nuance qui change le résultat.
 
-Jade et Célian ont besoin de la même information : une présence au goûter confirmée ou non. Ils peuvent laisser les plaisanteries dans la conversation et mettre les confirmations sur une feuille commune. Une ligne par personne leur évite de recompter ceux qui ont répondu deux fois. Une réponse incertaine reste indiquée comme telle jusqu’à ce qu’elle soit confirmée. Célian gagne un endroit où vérifier son compte et Jade sait quoi demander à l’autre capitaine. Cette répartition concerne la manière de faire un goûter. Il peut la proposer en parlant du travail à faire et décider lui-même si une information sur son diagnostic serait utile à partager.
+**Exemples concrets**
+
+- Célian lit finalement qu’une joueuse partira avant le goûter.
+- Dans un message de groupe, « je viens au match, je repars après » peut demander de relire la fin avant de compter.
+
+### Retrouver le lien ajoute une lecture
+
+Même après avoir compris une phrase, il peut rester à identifier son auteur ou savoir si elle remplace un message précédent.
+
+**Exemples concrets**
+
+- Célian vérifie à quel prénom rattacher la réponse qu’il vient de lire.
+- Dans un fil où deux personnes répondent sous une même citation, il faut parfois revenir à l’en-tête pour savoir qui confirme.
+
+### Le résultat ne montre pas les allers-retours
+
+Un compte correct renseigne sur ce qui a été vérifié. Le temps qu’il a fallu peut rester invisible au reste de l’équipe.
+
+**Exemples concrets**
+
+- Jade peut utiliser le total sans avoir vu les relectures nécessaires.
+- Une ligne encore vide permet de distinguer une réponse en attente d’une réponse négative.
+
+## 3 techniques pour réduire les allers-retours sans perdre d’information
+
+### 1. Donner un endroit unique aux réponses
+
+Rassembler les renseignements qui servent au même compte.
+
+**Exercice pratique**
+
+- Choisissez une feuille accessible aux responsables.
+- Inscrivez un prénom par ligne et la question exacte.
+- Demandez d’y reporter toute modification confirmée.
+
+Le total peut être vérifié sans rouvrir chaque message.
+
+### 2. Laisser visible ce qui reste en suspens
+
+Éviter de compter une réponse incertaine.
+
+**Exercice pratique**
+
+- Marquez les réponses dont l’auteur ou la date reste à vérifier.
+- Confiez leur confirmation à la personne qui peut la demander.
+- Calculez à partir des lignes confirmées et indiquez ce qui manque.
+
+Le doute ne disparaît pas dans un total qui paraît définitif.
+
+### 3. Vérifier un libellé avec son destinataire
+
+Faire en sorte que la réponse corresponde à la bonne question.
+
+**Exercice pratique**
+
+- Lisez ensemble le titre de la colonne.
+- Remplacez-le par une action précise comme « reste au goûter ».
+- Testez-le avec le cas d’un joueur qui part après le match.
+
+Le même mot désigne la même chose pour les personnes qui répondent et comptent.
 
 ## Laisser un blanc
 
 Célian montre à Jade comment il verrait la feuille, avec les confirmations à gauche et une petite colonne « à revoir » à droite. Elle lui demande de remplacer son titre « absents » : ceux qui doivent attraper un train après le match seront bien sur le terrain. Il écrit « goûter seulement » au-dessus de la colonne des réponses, puis rectifie encore : « reste au goûter ». Jade s’engage à faire compléter la liste au plus tard le mardi qui précède la rencontre. Léonie regarde leurs colonnes et propose de fabriquer le panneau du menu quand celui-ci sera décidé. Célian laisse la case du lieu vide. À elle, il promet au moins de savoir bientôt comment s’appellera le gâteau.
+
+---
+
+**Conclusion**
+
+Le compte exact ne dit pas combien de messages Célian a dû reprendre. La nouvelle colonne rassemble les réponses à la même question. Il laisse le lieu vide tant que Jade ne l’a pas confirmé et peut passer à l’essai du gâteau.

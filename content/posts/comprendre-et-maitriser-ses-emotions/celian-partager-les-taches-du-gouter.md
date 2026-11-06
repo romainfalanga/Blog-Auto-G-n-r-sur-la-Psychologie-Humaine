@@ -33,14 +33,81 @@ Il pousse le reçu vers Léonie. Le deuxième gâteau devait être au chocolat ;
 
 Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps.
 
-## Comment cette difficulté se manifeste
+Passer d’une liste de joueurs à un budget puis à un plan de transport oblige à retrouver plusieurs fois des renseignements dispersés. Célian peut distinguer les choix qu’il tient à faire et les vérifications que d’autres acceptent de prendre. Il organise la feuille pour retrouver la personne et l’action au même endroit.
 
-Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable.
+## Comment des vérifications dispersées alourdissent-elles l’organisation d’un projet ?
 
-## Un nom et une action sur chaque ligne
+### Le même renseignement peut servir à plusieurs décisions
 
-Le groupe peut repartir de ce qu’il sait maintenant, au lieu de suivre toute la liste de l’année précédente. Yanis compte les gobelets dans la caisse et peut la transporter. Léonie prépare le panneau. Célian garde la liste des ingrédients et les achats ; il se met d’accord avec Nadia sur les justificatifs à remettre. Une personne qui propose de l’aide peut choisir une tâche précise qu’elle pourra tenir. Célian peut accepter cette tâche, en confier une autre ou préférer la faire lui-même. Le plan de travail peut être accessible à tous sans mentionner les besoins de lecture de quelqu’un.
+Retrouver les confirmations coûte du temps si elles ne sont pas accessibles là où l’on calcule le budget.
+
+**Exemples concrets**
+
+- Célian doit relier le nombre de joueurs au montant prévu pour le goûter.
+- Une liste d’achats peut sembler complète avant qu’on distingue ce que le club possède déjà et ce qu’il doit payer.
+
+### Un objet vérifié peut éviter une lecture répétée
+
+Pour une question matérielle, regarder l’objet ou demander à son responsable peut donner une réponse directe.
+
+**Exemples concrets**
+
+- Ils ouvrent le placard et retrouvent les gobelets.
+- Nadia retrouve une deuxième boîte plate et peut confirmer qu’elle est disponible.
+
+### Le partage des tâches rend les responsabilités plus claires
+
+Savoir qui vérifiera chaque point diminue les allers-retours tout en laissant la décision principale à celui qui organise.
+
+**Exemples concrets**
+
+- Yanis prend les gobelets et les caisses, tandis que Célian choisit les deux fournées.
+- Léonie garde le panneau et une place à la distribution sans devoir trancher le menu.
+
+## 3 techniques pour répartir les vérifications d’un projet
+
+### 1. Rassembler les décisions qui dépendent du même renseignement
+
+Éviter de chercher le total à plusieurs endroits.
+
+**Exercice pratique**
+
+- Inscrivez le nombre confirmé de participants.
+- Placez le budget et le menu juste à côté.
+- Notez séparément les questions qui peuvent encore changer le compte.
+
+Le choix du menu s’appuie sur une information visible et à jour.
+
+### 2. Attribuer une tâche avec un point de retour
+
+Savoir à qui demander le résultat d’une vérification.
+
+**Exercice pratique**
+
+- Identifiez l’action dont vous voulez confier le suivi.
+- Inscrivez qui l’accepte et à quel moment il vous répondra.
+- Convenez de ce qu’il fera si un objet ou un chiffre manque.
+
+La délégation diminue les recherches sans laisser la question sans réponse.
+
+### 3. Garder la décision qui vous tient à cœur
+
+Faire la différence entre l’appui et la responsabilité de l’ensemble.
+
+**Exercice pratique**
+
+- Choisissez ce que vous voulez décider vous-même.
+- Vérifiez quelles tâches les autres peuvent prendre.
+- Relisez la répartition avec eux avant de lancer les achats.
+
+Chacun peut contribuer sans prendre le projet des mains de Célian.
 
 ## Le premier prénom à côté du sien
 
 Ils ouvrent le placard du club. Les gobelets sont bien là et Nadia retrouve une seconde boîte plate pour le gâteau. Yanis prend en charge les gobelets et les caisses. Léonie demande à Célian de lui garder une place à la table pour le panneau et la distribution. Célian raye le gâteau au chocolat. Il fait tenir le nouveau menu sur trois lignes et annonce vingt personnes, de l’eau, des fruits et du gâteau aux pommes. Il peut remettre les tickets à Nadia mardi prochain, après l’entraînement. Quand il arrive à la ligne du transport, il écrit Yanis à côté de son propre prénom. Puis il lui demande s’il a encore la sangle qui empêchait les caisses de glisser dans son coffre.
+
+---
+
+**Conclusion**
+
+Célian arrête le menu et retrouve les gobelets avec l’équipe. À côté de son prénom, celui de Yanis indique un relais précis pour le transport. La feuille lui permet de poursuivre la préparation sans devoir tout vérifier lui-même.

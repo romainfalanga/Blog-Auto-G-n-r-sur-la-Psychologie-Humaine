@@ -30,18 +30,81 @@ Elle coupe l’eau. Elle pense attendre le rendez-vous puis se souvient d’une 
 
 ## Parler de ce qui a changé depuis le dernier rendez-vous
 
-Un changement préoccupant après un épisode psychotique mérite d’être discuté avec l’équipe qui assure le suivi. Diane décrit sa nuit, ce qu’elle a perçu au marché et l’impression qui lui reste chez elle.
+Une impression de référence survient quand des propos ou des événements semblent concerner personnellement quelqu’un sans élément qui l’établisse. Elle peut être plus ou moins envahissante. Après un premier épisode psychotique, le retour d’une expérience qui inquiète, associé à d’autres changements, mérite un avis rapide de l’équipe de suivi. Diane se souvient de la peur de la première fois. L’impression du marché et les nuits difficiles donnent des éléments à évaluer, sans suffire à conclure à une rechute.
 
-## L’impression persiste jusque dans la cuisine
+## Comment une impression de référence continue-t-elle d’agir après la scène ?
 
-Diane se rappelle les voix basses et peine à retrouver une phrase entière. L’impression que les deux clients répétaient ses paroles l’a suivie dans le bus. Elle y pense encore devant les poires, alors que la scène du marché est terminée. Elle a aussi mal dormi plusieurs nuits et a retrouvé au réveil le tiroir qu’elle avait commencé à vider dans la nuit. L’impression persiste malgré le changement de lieu et lui rappelle la peur qu’elle avait éprouvée avant l’hôpital. Ces changements lui donnent des faits précis à raconter quand elle appelle.
+### Des paroles indistinctes prennent un sens personnel
 
-## La suite se décide avec le service joint
+L’impression peut naître alors que le contenu de l’échange n’est pas clair.
 
-Diane suit les indications qu’elle a reçues lors du rendez-vous de sortie. La soignante lui demande comment elle se sent au moment de l’appel et si elle peut rester en sécurité jusqu’à leur rencontre. Elle lui propose une évaluation l’après-midi même et vérifie comment elle pourra venir. L’équipe examinera ce que Diane rapporte, comment la situation évolue et les autres explications possibles. Diane peut dire ce dont elle se souvient et ce qui lui échappe.
+**Exemples concrets**
 
-Elles reprennent ensemble les consignes si la situation change avant le rendez-vous. En France, si un danger immédiat ou une urgence médicale apparaît, le 15 ou le 112 permet de joindre les secours. Diane peut écrire à Rémi pour lui dire où elle va et lui demander une chose qui tient compte de son horaire. Le service reste le relais pour l’évaluation, y compris si Rémi ne peut pas se libérer.
+- Diane croit reconnaître dans les voix du marché des mots qu’elle avait dits à sa sortie.
+- Une personne entend une bribe dans le bus et se demande si les passagers parlent d’elle.
+
+### La gêne persiste ailleurs
+
+Changer de lieu ne suffit pas toujours à faire passer l’inquiétude.
+
+**Exemples concrets**
+
+- L’idée accompagne Diane jusque dans la cuisine, où elle n’arrive pas à retrouver une phrase entière.
+- Quelqu’un quitte une salle mais peine à suivre l’activité suivante parce que l’échange lui revient.
+
+### D’autres changements comptent pour l’évaluation
+
+Le sommeil ou les tâches ordinaires peuvent aussi avoir changé, sans donner seuls un verdict.
+
+**Exemples concrets**
+
+- Diane signale plusieurs nuits difficiles et le tiroir à moitié vidé.
+- Une personne raconte qu’elle s’inquiète d’une impression nouvelle et qu’elle n’a plus réussi à tenir ses rendez-vous habituels.
+
+## 3 techniques pour demander de l’aide devant un changement préoccupant
+
+### 1. Appeler l’équipe avec le doute
+
+Obtenir un avis sans attendre d’être certain de ce qui se passe.
+
+**Exercice pratique**
+
+- Utilisez le numéro prévu par votre équipe.
+- Dites ce que vous avez vécu et ce qui vous inquiète encore.
+- Suivez la proposition du service pour être évalué.
+
+Le doute peut être transmis comme tel et l’équipe décide de la suite.
+
+### 2. Décrire ce qui entoure l’impression
+
+Donner à l’équipe une vue plus complète du changement.
+
+**Exercice pratique**
+
+- Distinguez ce dont vous vous souvenez et le sens que cela a pris.
+- Signalez les changements de sommeil ou d’activités dont vous avez parlé ou que vous avez remarqués.
+- Emportez les notes déjà disponibles si elles vous aident, sans retarder l’appel pour les compléter.
+
+L’évaluation peut prendre en compte davantage qu’une seule expérience.
+
+### 3. Choisir un appui et savoir quand passer le relais
+
+Garder un contact possible sans confier au proche l’évaluation.
+
+**Exercice pratique**
+
+- Demandez à une personne disponible une aide précise, comme rappeler après le rendez-vous.
+- Rappelez quel professionnel suit la situation.
+- En France, appelez le 15 ou le 112 en cas de danger immédiat ou d’urgence médicale.
+
+Le proche peut offrir une présence et les professionnels évaluent la situation.
 
 ## Une heure écrite sur le carton des poires
 
 Diane note l’heure et le nom du bâtiment sur le revers d’un emballage qu’elle trouve près de l’évier. Elle écrit à Rémi que l’équipe a avancé son rendez-vous et qu’elle aimerait lui parler un peu à sa sortie. Il lui répond qu’il peut rappeler à la pause, puis à la fin de son service si elle préfère. Diane choisit la fin de son service. Elle sort la pochette de la pile, y range le carton et prévient Maud qu’elle ne pourra pas venir prendre les mesures de la tablette cet après-midi. Elle part avec le papier et une poire qui n’a pas éclaté.
+
+---
+
+**Conclusion**
+
+Diane appelle avec l’impression et le doute qui l’accompagne. L’équipe avance le rendez-vous sans qu’elle ait à décider elle-même s’il s’agit d’une rechute. Rémi peut l’écouter à la sortie et Maud reçoit seulement l’information utile pour l’installation.

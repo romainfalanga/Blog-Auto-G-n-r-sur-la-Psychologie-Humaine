@@ -32,73 +32,73 @@ reading_topics:
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-les-choses-aimees-perdent-leur-attrait/">Quand les choses aimées perdent leur attrait</a></h3>
-    <p class="parcours-resume">Une exposition de photographies arrive dans la boîte de réception de Lila. Elle reconnaît le genre de travail qu’elle aimait et ressent à peine l’envie d’ouvrir le dossier. Dans la dépression du post-partum, la baisse du plaisir peut toucher des intérêts très éloignés de la maternité. L’écart entre ce qui compte pour Lila et ce qu’elle éprouve aide à comprendre son retrait.</p>
+    <p class="parcours-resume">Lila connaît par cœur le genre de vitrine que Farid lui propose d’éclairer. D’ordinaire, elle aurait passé un long moment à en suivre les reflets. Ce matin, elle referme l’image presque aussitôt. La dépression du post-partum peut émousser l’intérêt et le plaisir dans des activités qui comptent depuis longtemps, y compris loin des soins au bébé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-les-choses-aimees-perdent-leur-attrait/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-sommeil-et-fatigue-quand-le-relais-est-la/">Le sommeil qui tarde même quand le relais est là</a></h3>
-    <p class="parcours-resume">Thomas s’occupe de leur fils pendant que Lila se repose. Elle reste longtemps éveillée et se relève avec le même poids qu’avant. Après une naissance, les nuits entrecoupées et les symptômes d’une dépression peuvent coexister. Raconter ce qui arrive quand une occasion de dormir se présente aide Lila à préciser sa fatigue et à décrire ses difficultés en consultation.</p>
+    <p class="parcours-resume">Thomas s’occupe de leur fils. Dans la chambre calme, Lila compte le temps qu’il lui reste et le sommeil tarde à venir. Les réveils du bébé peuvent raccourcir la nuit, tandis qu’une dépression du post-partum peut aussi perturber le sommeil quand le bébé dort ou qu’un relais est prévu. Lila veut décrire les deux situations à sa médecin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-sommeil-et-fatigue-quand-le-relais-est-la/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-baby-blues-depression-dater-les-changements/">Du baby blues à l’évaluation d’une dépression</a></h3>
-    <p class="parcours-resume">Lila se rappelle de premiers jours émotifs qui se sont apaisés, puis d’une tristesse et d’un désintérêt qui ont pris de la place à partir de la troisième semaine. Avec sa médecin, elle distingue le passage transitoire du début et la période qui a conduit au diagnostic. Le moment où le tableau dépressif a commencé renseigne aussi le contexte retenu par la CIM-11.</p>
+    <p class="parcours-resume">Les premiers jours après la naissance, Lila passait facilement des larmes au rire. Ce passage s’est apaisé. À partir de la troisième semaine, la tristesse et la perte d’intérêt se sont installées et ont pesé sur ses journées. Avec sa médecin, elle revient sur cette différence et sur ce qu’indiquent les deux mentions de son dossier.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-baby-blues-depression-dater-les-changements/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-demander-de-laide-reveille-la-culpabilite/">Quand demander de l’aide réveille la culpabilité</a></h3>
-    <p class="parcours-resume">Naïma propose de passer et Lila se demande aussitôt ce qu’elle aurait dû réussir seule. La culpabilité de la dépression du post-partum peut donner à un besoin concret le sens d’une faute personnelle. En regardant ce que son amie lui propose et ce qu’elle souhaite recevoir, Lila peut répondre à l’invitation sans avoir à défendre sa valeur.</p>
+    <p class="parcours-resume">Naïma apporte une soupe et demande si Lila préfère manger avec elle ou se reposer seule. Lila pense d’abord à ce qu’elle aurait dû faire pour se débrouiller. Dans une dépression du post-partum, la culpabilité peut donner à un besoin ponctuel d’aide le poids d’un jugement sur soi. Lila essaie de distinguer l’offre qui lui est faite de ce qu’elle se reproche.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-demander-de-laide-reveille-la-culpabilite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-garder-le-fil-quand-les-informations-se-bousculent/">Garder le fil quand les informations se bousculent</a></h3>
-    <p class="parcours-resume">Lila peut décrire la lumière qu’elle veut pour la salle. Quand plusieurs horaires et contraintes arrivent à la fois, elle perd le fil. La difficulté à se concentrer pendant une dépression peut coexister avec des connaissances et des gestes précis. Une information reprise à l’écrit lui rend la possibilité de choisir ce qu’elle souhaite essayer.</p>
+    <p class="parcours-resume">Lila voit où la lumière efface la chaise sur la photographie. Quelques instants plus tard, elle ne sait plus à quel jour correspond l’heure que Farid vient de donner. Une dépression peut rendre l’attention plus difficile à soutenir, surtout quand plusieurs informations s’ajoutent vite. À la médiathèque, séparer le choix d’éclairage et l’horaire permet à Lila de reprendre la discussion.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-garder-le-fil-quand-les-informations-se-bousculent/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-choisir-un-soin-quand-plusieurs-aides-sont-possibles/">Choisir un soin quand plusieurs aides sont possibles</a></h3>
-    <p class="parcours-resume">Lila a envie d’être aidée et hésite sur la façon d’organiser les rendez-vous. Dans la dépression du post-partum, le suivi peut associer des appuis médicaux, psychologiques et périnataux. Parler des symptômes, du quotidien et de ses préférences lui permet de comprendre la proposition de sa médecin et de savoir quand elles la réexamineront ensemble.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-choisir-un-soin-quand-plusieurs-aides-sont-possibles/">Quand il devient difficile d’imaginer que ça ira mieux</a></h3>
+    <p class="parcours-resume">Lila a préparé des questions pour sa médecin. Pourtant, dès qu’on lui parle de la semaine suivante, elle imagine les mêmes journées lourdes. Une dépression peut rendre une amélioration difficile à envisager. La consultation lui permet de parler de ce découragement et de choisir une prochaine étape même si la suite lui paraît encore difficile à se représenter.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-choisir-un-soin-quand-plusieurs-aides-sont-possibles/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-aggravation-savoir-quand-passer-le-relais/">Quand l’état s’aggrave, savoir à qui passer le relais</a></h3>
-    <p class="parcours-resume">Le lundi, Lila mesure que son état a changé depuis son dernier rendez-vous. Des choses qu’elle arrivait encore à faire lui demandent soudain trop d’effort. Elle appelle son cabinet plus tôt que prévu. Une aggravation mérite une évaluation rapide. D’autres signes, comme une confusion soudaine importante, demandent un relais d’urgence, avec une réponse adaptée à ce qu’on observe.</p>
+    <p class="parcours-resume">Depuis samedi, Lila peine à manger, à sortir et à répondre à un message familier. Elle appelle le cabinet et sa médecin la reçoit le jour même. Une aggravation marquée pendant une dépression du post-partum mérite un contact médical rapide. D’autres signes, comme une confusion soudaine ou des symptômes psychotiques nouveaux, exigent une évaluation urgente.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-aggravation-savoir-quand-passer-le-relais/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-ralentissement-et-possibilite-de-reporter/">Reporter une tâche quand l’effort de commencer augmente</a></h3>
-    <p class="parcours-resume">Après la consultation, Lila souhaite toujours essayer son éclairage mais peine à commencer les tâches ordinaires. Dans une dépression, l’initiative et le rythme des gestes peuvent devenir plus coûteux. Reporter l’essai tout en transmettant une observation concrète lui permet de conserver un choix sur le projet et du temps pour le suivi rapproché.</p>
+    <p class="parcours-resume">Lila veut montrer à Élise un détail du tirage. Chercher un stylo et tracer une flèche lui demandent plus de temps que prévu. Une dépression peut s’accompagner d’un ralentissement des gestes ou de la parole. Lila a toujours envie de faire l’essai. Elle cherche une façon de contribuer qui tienne compte du rythme de cette matinée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-ralentissement-et-possibilite-de-reporter/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-le-plaisir-revient-par-moments/">Quand le plaisir revient par moments</a></h3>
-    <p class="parcours-resume">Pendant l’essai, Lila retrouve du plaisir à regarder la lumière changer sur une photographie. Cet instant compte alors même que sa matinée a été difficile. Dans le suivi d’une dépression, les moments d’intérêt retrouvé apportent une information parmi d’autres. Lila peut les apprécier et continuer de parler en soin des symptômes qui pèsent sur son quotidien.</p>
+    <p class="parcours-resume">Pendant l’essai à la médiathèque, Lila se laisse absorber par le néon et rit avec Élise. Le matin lui a pourtant demandé beaucoup d’effort, et la fatigue revient en sortant. Au cours d’un épisode dépressif, des moments de plaisir peuvent réapparaître alors que d’autres difficultés continuent. Lila découvre ce qu’elle peut raconter de ce bref changement.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-quand-le-plaisir-revient-par-moments/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-se-sentir-loin-tout-en-etant-presente/">Se sentir loin tout en étant présente</a></h3>
-    <p class="parcours-resume">Lila retrouve l’envie de raconter son travail à Thomas. Elle hésite davantage à lui dire que, près de leur fils, elle éprouve parfois une distance qui la déroute. Une dépression du post-partum peut modifier le sentiment de proximité. Mettre des mots sur ce décalage permet de chercher une aide adaptée, en laissant du temps à la relation.</p>
+    <p class="parcours-resume">Lila raconte avec plaisir l’histoire du pressing. Elle se rappelle ensuite un moment passé près de la fenêtre avec son fils. Elle lui parlait et se sentait loin de lui, alors qu’elle avait envie de se sentir proche. Une dépression du post-partum peut rendre cet élan affectif moins accessible. Lila choisit d’en parler à Thomas puis d’y revenir avec sa psychologue.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-se-sentir-loin-tout-en-etant-presente/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-passer-la-main-quand-la-tache-se-prolonge/">Passer la main quand la tâche se prolonge</a></h3>
-    <p class="parcours-resume">À la fin du montage, une nouvelle demande arrive alors que Lila a presque atteint l’heure convenue. Le retentissement d’une dépression peut se lire dans l’effort nécessaire pour prolonger une tâche et récupérer ensuite. Lila s’appuie sur l’accord avec Élise pour finir sa part, transmettre ce qui reste et tenir la limite qu’elles ont fixée.</p>
+    <p class="parcours-resume">Lila et Élise ont presque fini le mur du pressing quand Farid apporte un tirage de plus. La dernière heure a coûté à Lila davantage d’effort que la première. Une dépression peut peser sur la durée pendant laquelle on soutient une activité, même si le travail avance. Lila arrive à préciser ce qu’elle voit et à transmettre ce qui reste.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-passer-la-main-quand-la-tache-se-prolonge/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-faire-le-point-apres-une-reprise-choisie/">Faire le point après une reprise choisie</a></h3>
-    <p class="parcours-resume">Lila voit le résultat de sa reprise à horaires choisis. Elle garde aussi en tête les matins lourds dont elle veut parler au prochain rendez-vous. Le suivi d’un premier épisode dépressif tient compte des améliorations et des difficultés qui se poursuivent. Faire le point sur les deux l’aide à décider du prochain pas dans les soins et de ce qu’elle souhaite au travail.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/lila-faire-le-point-apres-une-reprise-choisie/">Quand certaines difficultés persistent après une reprise</a></h3>
+    <p class="parcours-resume">Lila se réjouit de voir l’exposition terminée et écoute avec curiosité la proposition de Farid. Elle repense aussi à une matinée récente où préparer ses affaires lui a pris presque une heure. Au cours d’une dépression, les capacités peuvent revenir à des rythmes différents selon les activités. Lila veut parler au rendez-vous de ce qui avance et des difficultés qui restent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/lila-faire-le-point-apres-une-reprise-choisie/" class="parcours-link">Lire</a>
   </div>
 </div>

@@ -30,20 +30,81 @@ Après l’accueil, Nathalie et Basile s’installent devant le registre avec Ga
 
 ## Reprendre des activités qui ont de la valeur pour soi
 
-Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu. Gasparde veut s’occuper des réservations sur des plages connues, accueillir le samedi matin et garder du temps pour jouer. Elle a encore des moments où une modification ordinaire du planning ravive la peur d’être mise de côté. Elle continue à en parler en suivi quand cela lui coûte. Son expérience du club comprend aussi une organisation qu’elle a contribué à construire.
+Dans le rétablissement, l’autonomie se voit aussi dans la possibilité de choisir des activités et la façon d’y prendre part. Avec un trouble délirant, une préoccupation peut rester vive par moments alors que la personne retrouve du temps pour ce qui lui importe. Gasparde garde le samedi matin, prévoit les plages de téléphone avec le club et inscrit enfin son propre double. La pensée qui revient devant le calendrier reste un sujet à aborder avec Farah.
 
-Le trouble délirant peut avoir des effets qui se concentrent autour de certaines préoccupations.
+## Comment l’autonomie se voit-elle dans les activités retrouvées ?
 
-## Comment cette difficulté se manifeste
+### La personne choisit sa contribution
 
-Le suivi regarde comment elles évoluent et ce que Gasparde souhaite faire dans sa vie. Le rendez-vous convenu avec Farah reste utile au-delà de la dernière scène. Le registre répond à des questions de fonctionnement du club. Le tennis et le choix de passer un dimanche au canal ont une valeur pour elle dans la vie qu’elle organise.
+Participer peut vouloir dire garder une tâche définie plutôt que prendre toutes les responsabilités.
 
-## Se mettre d’accord sur des rôles qui durent
+**Exemples concrets**
 
-Le club garde le numéro commun, le registre et le plan qu’on peut lire en arrivant du bus ou du parc. Deux bénévoles se répartissent les plages téléphoniques et indiquent qui donne la décision si le terrain doit fermer. L’accueil du samedi est ouvert à une première visite, avec le droit de rester au banc. Le dimanche reste un essai tenu par Nathalie. Ils peuvent réexaminer l’accord quand la saison change ou si les bénévoles en ont besoin.
+- Gasparde entoure le créneau d’accueil et accepte que Nathalie reprenne un dimanche.
+- Une bénévole garde les inscriptions d’une séance et partage la permanence du mois avec deux autres.
 
-Gasparde a aussi décidé de réserver son double. La même procédure vaut pour elle, pour Agnès et pour une personne qui vient d’arriver. Basile peut respecter cette réservation et appeler un autre bénévole si une question surgit pendant la partie. Le téléphone et le registre sont au service d’une activité que les gens veulent pratiquer. Gasparde en fait partie aussi quand elle sert, perd un point et demande une balle de plus.
+### Le plaisir obtient un horaire propre
+
+Une activité choisie devient plus accessible quand elle n’attend plus la fin des obligations.
+
+**Exemples concrets**
+
+- Le double de seize heures est inscrit sur la même ligne que les réservations des autres.
+- Une personne bloque une heure pour jouer avant de regarder si le club a besoin d’elle pour une tâche supplémentaire.
+
+### Les préoccupations et les choix suivent des chemins distincts
+
+Une pensée peut revenir pendant qu’une décision ordinaire reste possible.
+
+**Exemples concrets**
+
+- Gasparde pense au changement des lignes et garde son doigt sur l’heure qu’elle veut réserver.
+- Quelqu’un note une inquiétude à reprendre en consultation et confirme en parallèle le rendez-vous qu’il souhaite maintenir.
+
+## 3 techniques pour faire une place durable à des activités choisies
+
+### 1. Nommer ce que l’on veut continuer
+
+Donner la priorité aux tâches et aux moments qui ont de la valeur pour soi.
+
+**Exercice pratique**
+
+- Choisissez une contribution et un plaisir que vous voulez garder.
+- Inscrivez leur durée sur le planning commun.
+- Vérifiez que les engagements de l’équipe laissent les deux possibles.
+
+Le temps de jeu devient aussi visible que le travail d’accueil.
+
+### 2. Prévoir comment modifier l’accord
+
+Garder des responsabilités choisies quand la saison ou l’équipe change.
+
+**Exercice pratique**
+
+- Confirmez qui répond et sur quelles plages.
+- Fixez un moment où chacun pourra proposer un ajustement.
+- Indiquez au public où signaler une difficulté.
+
+L’organisation peut évoluer sans dépendre d’une seule personne.
+
+### 3. Garder un espace pour le suivi
+
+Continuer à parler de ce qui coûte, même après un projet réussi.
+
+**Exercice pratique**
+
+- Notez le moment où la préoccupation a repris si vous souhaitez en parler.
+- Dites à l’équipe ce que vous avez pu faire malgré elle.
+- Convenez de la suite selon ce qui vous aide encore.
+
+Le suivi garde une place à côté des décisions du club et des moments de plaisir.
 
 ## Une balle au-dessus de Brigitte
 
 À seize heures, Agnès attend en faisant rouler une balle sous sa semelle. Sa sœur demande de quel côté elles commencent. Gasparde pose le registre dans le local, sur la page où sont écrites les plages du téléphone. Puis elle ferme la porte et retrouve Brigitte près du filet. Elles perdent le premier point. Gasparde avait cru que le vent porterait la balle plus loin et l’a laissée passer. Au suivant, elle voit Brigitte faire un pas de côté et lève la raquette. « Je la prends. » La balle passe par-dessus sa partenaire. Quand elle touche la ligne du fond, Brigitte se retourne, les deux mains ouvertes. Gasparde demande si elles rejouent le point pour en être sûres.
+
+---
+
+**Conclusion**
+
+Le registre indique qui répond et qui accueille. Gasparde s’en sert aussi pour réserver son temps de jeu, puis rejoint Brigitte sur le terrain. Elle garde ce qu’elle a construit au club et sait à qui parler quand l’inquiétude reprend de la place.

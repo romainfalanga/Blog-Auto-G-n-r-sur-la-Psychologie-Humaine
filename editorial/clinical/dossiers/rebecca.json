@@ -1,0 +1,84 @@
+{
+  "references": {
+    "oms-cim11-separation": {
+      "title": "Organisation mondiale de la Santé, CIM-11 MMS, 6B05, édition 2026-01",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#830200631"
+    },
+    "silove-separation-age-adulte": {
+      "title": "Silove et al., Pediatric-Onset and Adult-Onset Separation Anxiety Disorder Across Countries in the World Mental Health Survey, American Journal of Psychiatry, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26046337/"
+    },
+    "nhs-matrix-separation": {
+      "title": "NHS Education for Scotland et Scottish Government, The Matrix, Separation Anxiety, mise à jour novembre 2024",
+      "url": "https://www.matrix.nhs.scot/evidence-summaries/mental-health-difficulties-across-the-lifespan/separation-anxiety/"
+    },
+    "milrod-pilote-separation": {
+      "title": "Milrod et al., Adult separation anxiety in treatment nonresponders with anxiety disorders: delineation of the syndrome and exploration of attachment-based psychotherapy and biomarkers, Comprehensive Psychiatry, 2016",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363051/"
+    },
+    "ameli-troubles-anxieux-traitement": {
+      "title": "Assurance Maladie, Traitement des troubles anxieux de l’adulte",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-anxieux-anxiete/traitement"
+    },
+    "ameli-anxiete-symptomes-diagnostic": {
+      "title": "Assurance Maladie, Symptômes et diagnostic des troubles anxieux",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-anxieux-anxiete/symptomes-diagnostic"
+    },
+    "ameli-sommeil-adulte": {
+      "title": "Assurance Maladie, Comment mieux dormir à l’âge adulte ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/vivre-insomnie"
+    },
+    "ameli-sommeil-consultation": {
+      "title": "Assurance Maladie, Insomnie de l’adulte : consultation et bilan médical",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/diagnostic-evolution"
+    },
+    "oms-faire-ce-qui-compte": {
+      "title": "Organisation mondiale de la Santé, Faire ce qui compte en période de stress : un guide illustré, 2020",
+      "url": "https://www.who.int/europe/fr/publications/i/item/9789240003910"
+    },
+    "has-decision-medicale-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    },
+    "cci-repondre-reassurance": {
+      "title": "Centre for Clinical Interventions, Responding to Reassurance-Seeking, fiche pour les proches",
+      "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Anxiety/Anxiety---Information-Sheets/Anxiety-Information-Sheet---19---Reassurance-Seeking-Carers.pdf"
+    },
+    "service-public-stage-administration": {
+      "title": "Service Public, Un étudiant peut-il faire un stage dans la fonction publique ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F637"
+    }
+  },
+  "dossier": {
+    "name": "Trouble d’anxiété de séparation",
+    "aliases": [
+      "Anxiété de séparation à l’âge adulte",
+      "6B05"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim11-separation",
+      "silove-separation-age-adulte",
+      "nhs-matrix-separation",
+      "milrod-pilote-separation",
+      "ameli-troubles-anxieux-traitement",
+      "ameli-anxiete-symptomes-diagnostic",
+      "ameli-sommeil-adulte",
+      "ameli-sommeil-consultation",
+      "oms-faire-ce-qui-compte",
+      "has-decision-medicale-partagee",
+      "cci-repondre-reassurance",
+      "service-public-stage-administration"
+    ],
+    "points": [
+      "Le CDDR de l’OMS (2024, pages imprimées 289 à 293, 6B05) décrit une peur ou une anxiété marquée et excessive au sujet d’une séparation réelle ou anticipée d’avec une personne à laquelle on est profondément lié. Le tableau persiste, avec une détresse ou un retentissement significatif. Une personne peut maintenir ses activités au prix d’efforts supplémentaires importants. Le CDDR cite le partenaire et les enfants parmi les liens les plus fréquemment concernés à l’âge adulte, sans limiter la description à ces liens. Le lien de Rébecca avec sa tante Danièle est une présentation possible. Le diagnostic est déjà établi au début du récit. Une enfance particulière, un style d’attachement et une responsabilité de la famille ne sont pas présumés. L’enquête rétrospective de Silove et al. comprend 38 993 adultes de 18 pays, utilise une définition élargie du DSM-IV et soutient la possibilité de formes à début adulte sans trancher l’âge de début de Rébecca ni fournir une estimation applicable à la CIM-11.",
+      "La proximité affective, la cohabitation choisie et le manque temporaire font partie de la vie. Le CDDR examine le contexte socioculturel et les inquiétudes proportionnées à une situation concrète. Il distingue la peur centrée sur la séparation des difficultés d’adaptation à un endroit ou une activité nouvelle. En agoraphobie, les situations redoutées le sont notamment parce qu’il pourrait y être difficile de partir ou d’obtenir de l’aide si certains symptômes incapacitants ou embarrassants survenaient. Dans l’anxiété généralisée, les inquiétudes persistantes concernent habituellement plusieurs domaines de vie, même si la sécurité de proches peut en faire partie. Ces distinctions éclairent le contenu de la peur et ne permettent pas d’identifier un trouble à partir d’un trajet, d’une préférence, d’un appel ou d’une inquiétude isolés. Le CDDR évoque aussi la possibilité de comorbidités et distingue le 6B05 des tableaux où la dépendance ou la crainte d’être abandonné participent à des difficultés plus étendues.",
+      "Le CDDR décrit les pensées persistantes qu’un malheur pourrait entraîner la séparation, le refus ou la réticence à s’éloigner pour des activités comme les études et le travail, et la détresse lors de la séparation, qui peut se traduire par du retrait. Une appréhension anticipée peut conduire à renoncer avant d’avoir examiné un projet. La peur peut augmenter au moment d’un départ, et se manifester par des symptômes physiques tels que des nausées, une douleur abdominale ou un mal de tête. Le contexte aide à raconter les symptômes, et leur cause ne peut être déduite du diagnostic. Un symptôme nouveau, inhabituel ou préoccupant se discute avec le professionnel adapté. L’Assurance Maladie décrit l’évaluation clinique des troubles anxieux de l’adulte et le rôle du bilan médical. La scène du départ n’étiquette aucun symptôme nouveau.",
+      "La réticence à se coucher loin d’une personne à laquelle on tient et les cauchemars de séparation figurent parmi les manifestations possibles du CDDR. Le récit montre une soirée difficile loin de Danièle, sans conclure à un trouble du sommeil à partir d’une seule nuit. Les sources générales de l’Assurance Maladie aident à situer les routines et le recours à un médecin quand les difficultés durent ou retentissent sur la journée. Le texte ne conseille ni privation de sommeil, ni isolement imposé, ni modification de traitement.",
+      "Le guide OMS Faire ce qui compte en période de stress présente le repérage de pensées prenantes, le retour à l’activité et des actions modestes guidées par ce qui compte. C’est un guide général, sans validation de ces exercices comme traitement du 6B05 à l’âge adulte. Les repères HAS et Assurance Maladie sur les troubles anxieux de l’adulte soutiennent des décisions partagées, des objectifs réalistes et l’ajustement du suivi. La fiche écossaise The Matrix présente les recommandations détaillées pour les enfants et adolescents et n’établit pas de protocole pour l’adulte. L’étude de Milrod et al. décrit une psychothérapie ouverte chez cinq adultes ayant achevé le protocole, dans un contexte de non-réponse à d’autres traitements, sans groupe comparateur. Cette étude exploratoire ne permet pas d’établir la supériorité d’une approche. Aucun protocole pédiatrique ou traitement spécifique n’est transposé. Claire et Rébecca discutent d’appuis personnels compatibles avec le suivi et les exigences de la formation.",
+      "La fiche du Centre for Clinical Interventions sur la réassurance est transversale aux difficultés d’anxiété. Elle décrit la possibilité qu’une garantie répétée apporte un apaisement bref, propose d’écouter et de reconnaître la détresse, et recommande de choisir ensemble des réponses qui restent acceptables pour les proches. Dans cette fiction, les appels de Rébecca sont aussi des moments affectueux et désirés par Danièle. Le problème apparaît quand Rébecca les multiplie pour obtenir une assurance. La fréquence et le format des contacts restent choisis par les deux adultes. Ni coupure punitive, ni surveillance de la tante, ni preuve d’affection par la disponibilité constante. Le retard d’un message est distingué d’un fait inquiétant qui appellerait une action appropriée. La sœur d’une proche, un autre membre de la famille ou le tuteur ne sont pas chargés de vérifier à répétition.",
+      "Service Public décrit la convention et le tuteur pour un stage étudiant en administration. La convention du récit est signée avant le début de la semaine. Les ajustements portent sur l’accueil, l’ordre de travail, des échanges de suivi et le retour sur une notice. Ils respectent les objectifs de stage et les interlocuteurs de la formation. Antoine encadre la mission, tandis que la thérapeute s’occupe du suivi psychologique. Rébecca décide ce qu’elle souhaite dire. Le plaisir de travailler à la cartothèque, les conversations et les retrouvailles donnent des exemples de reprise dans la vie de Rébecca. Ils ne servent ni de mesure isolée du trouble ni de preuve d’amélioration durable."
+    ]
+  },
+  "direction": "Rébecca a 31 ans et reprend des études dans les métiers des archives. Elle vit avec sa tante Danièle. Leur cuisine est pleine de papiers qu’elles se prêtent. Rébecca repère vite une date ou un nom qui change d’orthographe. Quand elle hésite, elle prépare ses réponses sur de petits papiers et gomme ce qui dit trop de sa vie. Danièle chante dans une chorale, prépare une répétition publique et choisit quand elle est joignable. Antoine accueille les stagiaires aux archives intercommunales du Pays des Aulnes. Il propose à Rébecca de relier la mention d’un ancien point d’eau, la Fontaine Basse, à une carte et à un registre. Claire, sa thérapeute, connaît déjà son diagnostic. La candidature est examinée avant le départ. La semaine de stage est organisée avec un logement choisi, un déroulé compatible avec la convention et des contacts en famille consentis. Les difficultés changent avec les moments. Évitement avant d’examiner un projet, peur propre à la séparation, images de malheur, manifestations physiques au départ, recherche d’assurance au téléphone, besoin de connaître le cadre, retrait une fois seule, réticence à dormir loin, interprétation d’un silence, effort masqué, conflit de loyauté vécu et reprise d’une décision choisie. Danièle et Rébecca gardent une relation qui comporte des intérêts, des désaccords et des rendez-vous communs. Le stage aboutit à une notice et à une décision distincte sur le projet suivant. Le récit laisse Rébecca libre de préserver ses liens et de poursuivre ses soins."
+}

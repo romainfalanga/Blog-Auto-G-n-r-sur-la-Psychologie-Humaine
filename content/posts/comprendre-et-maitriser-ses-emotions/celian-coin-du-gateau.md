@@ -33,14 +33,81 @@ Le gâteau n’est pas commencé. Célian propose de garder le téléphone à po
 
 Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension.
 
-## Comment cette difficulté se manifeste
+Célian entend plus facilement l’ordre de la recette quand Maxime la reprend avec lui. Il garde pourtant le carnet ouvert pour vérifier ce qui a été dit. Dans cet essai, la voix donne accès au déroulement et l’écrit reste la référence pour les détails.
 
-Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée.
+## Comment un accès oral change-t-il le travail demandé par une recette ?
 
-## Garder à portée ce qui fait foi
+### Les mots arrivent sans le même effort de lecture
 
-Un enregistrement permet de réécouter. S’il omet une phrase, la réécoute répète cette omission. Célian conserve la recette d’origine à côté de sa carte et compare avec Maxime le passage qui les fait hésiter. Il peut ensuite repérer d’où vient un détail au lieu de multiplier les rappels sur son téléphone. Dans cette situation, l’audio l’aide à se repérer entre les étapes, et la fiche sert à vérifier les informations précises. Il pourra choisir un autre format si le lieu, le bruit ou le type de recette changent. L’essai porte sur l’accès à une tâche réelle, et la question d’un travail orthophonique se discute séparément avec un professionnel.
+Écouter une consigne peut laisser plus d’attention à son sens chez certaines personnes qui peinent à lire le texte avec fluidité.
+
+**Exemples concrets**
+
+- Célian suit plus facilement la suite des étapes lorsque Maxime les lui dit.
+- Un apprenti peut comprendre le rôle d’un ustensile après avoir entendu la consigne qu’il peinait à parcourir seul.
+
+### Un détail entendu mérite parfois un retour à l’écrit
+
+La parole passe dans le temps. Une fiche reste disponible quand il faut vérifier un mot ou l’ordre de deux actions.
+
+**Exemples concrets**
+
+- Célian garde la recette sous les yeux pour comparer l’enregistrement au texte.
+- Une quantité entendue pendant qu’on tourne le saladier peut devoir être vérifiée sur la page.
+
+### Comprendre donne la possibilité d’adapter
+
+Quand le contenu est accessible, la personne peut décider comment l’utiliser à partir de son projet.
+
+**Exemples concrets**
+
+- Célian choisit le gâteau aux pommes après avoir goûté le milieu et les bords.
+- Un cuisinier peut comparer deux présentations après avoir compris la même étape dans les deux formats.
+
+## 3 techniques pour combiner l’oral et l’écrit autour d’une consigne
+
+### 1. Écouter une étape à la fois
+
+Retrouver le déroulement sans devoir retenir tout le message.
+
+**Exercice pratique**
+
+- Choisissez un passage court.
+- Écoutez-le au moment où il devient utile.
+- Marquez sur la fiche l’étape que vous venez de situer.
+
+Les deux formats restent reliés au même endroit de la tâche.
+
+### 2. Comparer le message à la référence
+
+Vérifier qu’un appui oral a gardé les détails utiles.
+
+**Exercice pratique**
+
+- Gardez la fiche d’origine ouverte.
+- Comparez l’ordre et les données qui comptent.
+- Si quelque chose diverge, revenez au document ou à la personne responsable.
+
+L’audio aide à accéder au contenu sans devenir une référence incertaine.
+
+### 3. Dire ou montrer ce qu’on fera ensuite
+
+Vérifier que la consigne est utilisable dans le geste.
+
+**Exercice pratique**
+
+- Choisissez l’action qui vient maintenant.
+- Décrivez-la ou montrez-la avant de poursuivre.
+- Cherchez une précision ciblée s’il reste un doute.
+
+La personne peut revenir au sens plutôt que relire toute la recette.
 
 ## Un coin pour chacun
 
 Quand ils goûtent le gâteau, Maxime veut garder une part du milieu pour la comparer à son coin. Célian trouve le milieu un peu fade et les bords à son goût. Il envisage deux recettes, puis regarde la boîte et décide de commencer par celle aux pommes, qu’il sait maintenant bien présenter. Il photographie la recette et garde la fiche dans le carnet pour son prochain essai. À Léonie, il envoie le nom du gâteau et la prévient que le reste du menu attendra le budget. Maxime repart avec son moule rond et une part carrée glissée dans du papier.
+
+---
+
+**Conclusion**
+
+Le message de Maxime aide Célian à suivre la recette, et le carnet reste ouvert pour vérifier l’étape. Le choix du gâteau vient ensuite de ce qu’ils ont goûté. Célian garde ces deux supports pour son prochain essai.

@@ -30,20 +30,81 @@ Dounia ramasse sa housse. Elle répond que Basile lui a prêté les clés pour r
 
 ## Comprendre ce que la peur a ajouté à la question
 
-Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée. Gasparde reste préoccupée par le partage des rôles au club. Elle entend aussi Dounia dire qu’elle cherchait à rendre des clés. Sa remarque a prêté une intention à Dounia et a coupé l’échange. Elle peut en répondre directement, en laissant à Dounia une place pour dire comment elle l’a reçue.
+Une intention prêtée à quelqu’un peut orienter le ton de la réponse avant que sa question ait été comprise. Dans le trouble délirant, une conviction déjà préoccupante peut rendre très plausible un lien qui n’a pas été établi. Gasparde répond à l’idée que Dounia souhaite la remplacer. Dounia voulait rendre une clé. La première peut reconnaître l’effet de sa réponse sans attendre que toute inquiétude au club se dissipe.
 
-Dans le trouble délirant, une conviction peut rester forte malgré un changement dans la situation qui l’a ravivée.
+## Comment une intention prêtée à autrui change-t-elle la réponse ?
 
-## Comment cette difficulté se manifeste
+### La question est entendue au-delà de ses mots
 
-Le récit montre une inquiétude propre à Gasparde, avec un moment où elle influence sa réponse. Gasparde pourra en parler dans son suivi. Elle choisit ici un geste relationnel précis. Elle veut que Dounia puisse poser une question au club et obtenir une réponse qui la concerne.
+La crainte peut ajouter un projet à une demande ordinaire.
 
-## Faire des excuses qui laissent de la place
+**Exemples concrets**
 
-Gasparde peut rappeler brièvement ce qu’elle a dit, reconnaître le ton et répondre à la question des clés. Dounia pourra décider si elle souhaite parler du désaccord sur le moment ou revenir vers le terrain. Les excuses ne fixent pas la durée nécessaire pour que la relation se rétablisse. Elles ouvrent la possibilité d’un nouvel échange sans l’exiger.
+- Dounia demande si Basile viendra et Gasparde croit entendre qu’elle préfère qu’il dirige.
+- Une personne demande qui fermera le local et reçoit une réponse sur la confiance qu’on lui accorde.
 
-Si Gasparde se sent encore mise à l’écart, elle peut attendre le moment où elle aura plus de temps pour parler de ce que cela lui fait. Dounia a aussi des raisons de venir au terrain qui lui appartiennent. Elle peut continuer à jouer, regarder avec Clara ou demander à Basile où rendre la clé. L’accord sur le lieu où déposer le trousseau peut tenir en une phrase, quelle que soit la suite de leur conversation.
+### La parole coupe l’échange
+
+Une réponse à l’intention supposée peut laisser le besoin réel sans réponse.
+
+**Exemples concrets**
+
+- Gasparde dit à Dounia de s’adresser directement à Basile et le trousseau reste à rendre.
+- Un collègue réagit vivement à une demande de rendez-vous et l’autre repart sans savoir à quelle heure revenir.
+
+### La réparation a sa propre limite
+
+Une excuse peut compter même si l’autre ne souhaite pas reprendre toute la discussion.
+
+**Exemples concrets**
+
+- Dounia accorde une minute et veut en rester là après l’excuse.
+- Une personne accepte qu’on reconnaisse une parole blessante et demande de revenir au travail.
+
+## 3 techniques pour réparer un échange après une réponse brusque
+
+### 1. Reprendre la demande concrète
+
+Rétablir ce que l’autre cherchait à faire.
+
+**Exercice pratique**
+
+- Demandez si vous pouvez reprendre un instant.
+- Redites avec vos mots la demande que vous avez comprise après coup.
+- Donnez l’information ou l’aide qui restait à fournir.
+
+Le problème immédiat peut être résolu même si l’échange a laissé une gêne.
+
+### 2. Nommer ce que l’on a ajouté
+
+Reconnaître le lien entre l’intention prêtée et sa réponse.
+
+**Exercice pratique**
+
+- Rappelez la phrase que vous avez prononcée.
+- Dites ce que vous avez supposé sans que l’autre l’ait exprimé.
+- Excusez-vous pour la façon dont vous lui avez parlé.
+
+La personne entend une réponse au tort précis et peut choisir ce qu’elle souhaite dire.
+
+### 3. Accepter la durée proposée
+
+Respecter le choix de l’autre sur la réparation.
+
+**Exercice pratique**
+
+- Demandez combien de temps la personne souhaite consacrer à l’échange.
+- Laissez-la dire si elle veut s’arrêter.
+- Reprenez une activité ordinaire si vous êtes tous deux prêts.
+
+La discussion n’a pas besoin de régler toute la relation pour être utile.
 
 ## Le crochet près de la porte
 
 « Je t’ai parlé comme si tu avais demandé qu’on me remplace. Excuse-moi pour ça. Pour la clé, le crochet est à gauche quand tu entres. » Dounia dit qu’elle veut bien en rester là aujourd’hui. Elle pose le trousseau sur le crochet et revient montrer à Clara comment ouvrir le portail depuis l’intérieur. Gasparde regagne le terrain. Levent s’est placé du mauvais côté de la ligne de service. Elle s’en aperçoit seulement quand il lui demande s’il peut taper plus loin. Elle lui montre la marque effacée dans le béton. Une fois le point fini, elle lui demande s’il veut recommencer.
+
+---
+
+**Conclusion**
+
+La clé retrouve son crochet et Dounia choisit de s’arrêter après l’excuse. Gasparde peut revenir vers les joueurs sans exiger que Dounia apaise la peur à sa place. Le geste suivant est de montrer une ligne qui s’efface sur le terrain.

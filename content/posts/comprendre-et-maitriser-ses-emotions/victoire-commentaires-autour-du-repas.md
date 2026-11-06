@@ -34,14 +34,79 @@ Victoire a envie de laisser Lila finir toute la conversation à sa place. Elle v
 
 Dans la boulimie nerveuse, le poids ou la silhouette peuvent déjà prendre une place importante dans les pensées. Un commentaire, même adressé à une autre personne, peut rappeler à quel point on redoute les jugements sur le corps ou les repas.
 
-## La conversation qu’elle cesse d’entendre
+## Comment les commentaires du groupe détournent-ils l’attention ?
 
-Victoire anticipe les questions sur ce qu’elle mange et perd le fil de ce que Manu lui demande. Elle lui répond oui et s’aperçoit qu’elle n’a pas entendu la question sur le passage derrière la gare. Sur le moment, elle voudrait que Lila parle pour elle. Son expérience varie selon les situations. Elle pourrait aussi être contrariée par la plaisanterie pour elle-même, comme n’importe quel membre du groupe.
+### Une remarque peut atteindre ceux qu’elle ne vise pas
 
-## Revenir à une conversation à laquelle chacun peut prendre part
+Une conversation sur les silhouettes peut réveiller la crainte d’être évalué chez une personne déjà préoccupée par son corps.
 
-Lila reprend la phrase convenue et laisse à Victoire le choix de dire davantage. La remarque de Victoire porte sur le sujet de la conversation. Elle peut être entendue par le groupe sans expliquer le diagnostic. Les bénévoles peuvent poser des questions sur le rallye, se répartir la démonstration ou parler d’un autre sujet qu’ils choisissent ensemble. Un proche qui connaît le trouble peut aussi demander après coup comment la personne a vécu le moment. Une présence prévisible ou une conversation qui laisse de la place à autre chose peut compter pour Victoire. Les décisions sur l’alimentation et les soins restent à discuter avec l’équipe. Celle-ci peut reprendre ce qu’un repas partagé lui coûte aujourd’hui, les liens éventuels avec les crises ou les compensations et les appuis qu’elle souhaite.
+**Exemples concrets**
+
+- À table, Victoire entend un commentaire qui suffit à l’éloigner de la question de Manu.
+- Une remarque sur le repas d’un autre bénévole peut faire anticiper ce que le groupe dira du sien.
+
+### La discussion devient difficile à suivre
+
+Quand l’attention se déplace vers ce que le groupe regarde ou pourrait dire, la contribution préparée devient plus difficile à reprendre.
+
+**Exemples concrets**
+
+- Victoire envisage de laisser Lila finir la conversation à sa place.
+- Manu tient encore le plan ouvert et Victoire doit retrouver le passage sur lequel il lui demande son avis.
+
+### Un retour au sujet peut se faire à plusieurs
+
+Une phrase convenue peut ouvrir une réponse ; la personne choisit si elle souhaite prendre la suite.
+
+**Exemples concrets**
+
+- Lila propose de revenir au trajet, comme elles en ont parlé sur le banc.
+- Victoire ajoute sa propre demande et montre où le groupe pourra s’arrêter sans gêner le parking.
+
+## 3 techniques pour retrouver sa place dans un échange où les corps sont commentés
+
+### 1. Avoir une phrase utilisable à table
+
+Exprimer une limite sans devoir expliquer sa santé au groupe.
+
+**Exercice pratique**
+
+- Choisissez des mots que vous pourriez dire tels quels.
+- Associez-les, si vous le souhaitez, à une question sur le sujet que vous voulez reprendre.
+- Gardez la possibilité de demander une pause ou de quitter l’échange.
+
+La réponse peut rester brève tout en donnant un autre sujet au groupe.
+
+### 2. Convenir du rôle d’une personne de confiance
+
+Obtenir l’appui choisi sans perdre sa place dans la conversation.
+
+**Exercice pratique**
+
+- Dites en privé quelle situation peut vous gêner.
+- Convenez d’une phrase ou d’un relais qui respecte la confidentialité.
+- Après la rencontre, dites si cet appui vous a convenu et ce que vous voudriez ajuster.
+
+Un soutien vérifié laisse à chacun une façon claire d’agir lors d’une autre rencontre.
+
+### 3. Retrouver une question précise
+
+Revenir à la contribution que vous souhaitez apporter.
+
+**Exercice pratique**
+
+- Repérez qui attendait une réponse ou quel objet était au centre de l’échange.
+- Reprenez un détail observable, comme la rue où le groupe s’arrêtera.
+- Choisissez ensuite de poursuivre ou de laisser quelqu’un prendre le relais.
+
+Une question délimitée donne un point où reprendre la conversation malgré la gêne.
 
 ## La rue derrière la gare
 
 Victoire se penche pour montrer l’endroit où le groupe pourra s’arrêter tout entier sans bloquer l’entrée du parking. Manu propose de faire un essai avec elle quand les organisateurs auront vérifié les autorisations. Lila lui demande en partant si la phrase qu’elles avaient choisie lui a convenu. Victoire dit oui et ajoute qu’elle était contente de pouvoir dire la suite elle-même. Elles se donnent rendez-vous pour plier les plans avant le rallye.
+
+---
+
+**Conclusion**
+
+La phrase de Lila rouvre une discussion que Victoire choisit de poursuivre. Elle peut dire sa limite et répondre à Manu sur le trajet. Le groupe a une information utile pour son essai ; Victoire et Lila savent désormais ce qui lui a convenu dans leur accord.

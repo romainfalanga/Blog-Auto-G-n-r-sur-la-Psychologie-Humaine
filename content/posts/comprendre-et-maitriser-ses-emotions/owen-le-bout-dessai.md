@@ -33,14 +33,81 @@ Owen connaît Alma de vue. Elle ne sait rien de ses rendez-vous avec Mme Roussel
 
 Une personne qui bégaie peut choisir à qui elle souhaite parler de son bégaiement et garder cette information privée dans d’autres situations. L’ASHA présente le fait d’en parler comme une option dans l’accompagnement, selon les personnes et leurs objectifs. Une parole entendue ou un besoin de temps n’oblige pas à fournir des informations de santé. Ici, Alma veut savoir si elle peut utiliser un extrait.
 
-## Comment cette difficulté se manifeste
+Pour Owen, une annonce et une projection ne donnent pas le même contexte à sa voix. Il imagine sa phrase seule entre deux annonces et choisit un visuel. Il peut parler de ce qui motive sa décision s’il le souhaite. Alma a seulement besoin de savoir ce que le club lui permet d’utiliser.
 
-Owen peut répondre en donnant le périmètre de son accord. Il n’a pas à dire si son refus tient au montage, à son bégaiement, au public ou à autre chose. Lucile peut aider à préciser ce que le groupe a déjà décidé sans raconter à sa place ce qu’elle sait de lui.
+## Comment choisir quand parler de son bégaiement ?
 
-## Une annonce peut attendre une autre image
+### Un besoin se formule sans raconter son suivi
 
-La fiche du club prévoit un usage pour le travail sur le film. Une annonce en ligne et une projection dans une salle sont deux demandes distinctes ; elles touchent des publics différents. Éduscol fournit aux établissements des modèles pour encadrer l’enregistrement et l’utilisation de l’image et de la voix des élèves. M. Vasseur peut vérifier avec le lycée ce qui a été autorisé et ce qui doit faire l’objet d’un nouvel accord. Pour l’annonce, Owen peut proposer un visuel qui ne montre personne et n’utilise pas les voix : le titre sur une image du sac, une fois que le groupe l’aura approuvée. Cela laisse à Alma une affiche à terminer et aux interprètes une décision à prendre lorsqu’ils auront vu le film.
+On peut demander du temps, une réponse différée ou un autre format en ne partageant que ce qui est utile à la situation.
+
+**Exemples concrets**
+
+- Owen propose une image du sac pour l’annonce.
+- Un élève peut demander de finir son idée avant les questions sans donner d’information de santé.
+
+### Le choix dépend du destinataire et du contexte
+
+Dire quelque chose à une amie ne vaut pas accord pour qu’elle le répète à d’autres personnes.
+
+**Exemples concrets**
+
+- Lucile connaît déjà le bégaiement d’Owen ; Alma n’a pas à lui demander de l’expliquer.
+- Un jeune peut en parler à un partenaire d’atelier et préférer garder la question privée devant le public.
+
+### La réponse peut venir plus tard
+
+La personne peut avoir besoin de connaître la version et le contexte avant de décider ce qu’elle souhaite rendre visible.
+
+**Exemples concrets**
+
+- Owen veut voir le film en entier avant de répondre sur la soirée.
+- Une voix choisie pour travailler en équipe peut amener une autre décision quand on propose de l’entendre hors de l’atelier.
+
+## 3 techniques pour dire ce que l’on souhaite partager
+
+### 1. Formuler la limite utile à l’échange
+
+Donner une réponse sans devoir justifier une décision personnelle.
+
+**Exercice pratique**
+
+- Nommez l’usage dont il est question.
+- Dites ce que vous acceptez ou préférez différer.
+- Proposez une option si vous en avez une.
+
+La personne qui organise peut avancer avec l’information nécessaire.
+
+### 2. Choisir à qui se confier
+
+Garder la maîtrise du destinataire et du contenu.
+
+**Exercice pratique**
+
+- Choisissez une personne et un lieu où vous avez envie d’en parler.
+- Dites si vous cherchez un conseil ou simplement à être entendu.
+- Précisez si vous souhaitez que cela reste entre vous.
+
+Le proche sait comment accueillir la parole et ce qu’il peut en faire.
+
+### 3. Faire suivre la décision au bon moment
+
+Permettre une réponse informée sur un autre usage.
+
+**Exercice pratique**
+
+- Demandez à voir le film ou l’extrait concerné.
+- Convenez du moment où la question sera reposée.
+- Passez par l’adulte responsable pour recueillir les accords requis.
+
+La demande provisoire et l’accord effectif restent distincts.
 
 ## La case du lien
 
 Owen laisse l’ordinateur muet. « La soirée, j’y réfléchis quand on aura vu le film entier. Pour l’annonce, on peut te préparer une image du sac. » Alma barre la case du lien et lui donne la largeur dont elle a besoin. Owen envoie au groupe un brouillon où le titre tient enfin entre le banc et le bord de l’image. Lucile suggère de laisser moins d’espace au titre. Nassim répond qu’il n’a pas encore d’avis sur la projection et préfère lui aussi voir le montage. Avant de sortir du foyer, Owen demande à Alma de leur garder un créneau provisoire. Elle inscrit « club cinéma, à confirmer » sur son programme.
+
+---
+
+**Conclusion**
+
+Owen offre un visuel et garde le lien vide. Il laisse une place au film dans la soirée sans avoir à expliquer pourquoi sa phrase lui paraît différente isolée. Le groupe reverra la question après avoir vu le montage entier.

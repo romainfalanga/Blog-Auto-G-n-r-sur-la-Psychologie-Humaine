@@ -28,22 +28,83 @@ Fatou passe avec des exemplaires du plan qu’elles avaient préparés. Nour ne 
 
 Elles trouvent la barrière avant l’escalier. Le chemin qui longe le quai rejoint le kiosque par l’extérieur de la place. Il est plus long et reste ouvert. Un panneau précise à quel endroit on doit traverser. Nour photographie ce panneau pour vérifier l’itinéraire en revenant. Fatou lui demande si elles peuvent annoncer cette version aujourd’hui. Nour voudrait s’asseoir quelques minutes avant de lui répondre. Elle a déjà la nouvelle flèche en tête et sent qu’elle relit l’ancienne chaque fois qu’elle baisse les yeux.
 
-## Ce qu’un changement demande de reprendre
+## Un imprévu déplace plusieurs repères à la fois
 
-Un changement imprévu peut demander de réorganiser plusieurs actions à la fois. Nour avait préparé le trajet, les pauses et le document à distribuer. L’avis oblige à relire les trois ensemble. L’OMS décrit que certaines personnes autistes éprouvent des difficultés devant des changements inattendus. Leur importance dépend de la situation.
+Dans l’autisme, une transition imprévue peut demander beaucoup d’effort, surtout lorsqu’elle oblige à reconstruire un déroulé déjà préparé. Pour Nour, les travaux déplacent le chemin, la pause et les indications qu’elle s’apprêtait à distribuer. Elle comprend le nouvel itinéraire tout en retrouvant l’ancienne flèche à chaque lecture. Identifier ce qui change et conserver un point fixe lui donnent un moyen de reprendre la carte.
 
-## Comment cette difficulté se manifeste
+## Comment le changement de trajet se répercute-t-il sur la préparation ?
 
-Nour peut aussi être contrariée parce qu’un travail terminé doit être repris. Elle choisit de vérifier l’obstacle avant de décider de ce qu’elle veut garder.
+### Une formule habituelle devient insuffisante
 
-Le projet repose sur plusieurs choix de trajet. Passer tout le monde par le marché serait facile à écrire. Pour Nour, cela retirerait l’option qui lui permet d’éviter une partie du bruit. Elle peut chercher avec Fatou ce qui reste possible, sans s’engager à refaire tout le plan dans la matinée. Si la visite devait être réduite, elles pourraient conserver le temps au kiosque et laisser les personnes décider si elles souhaitent continuer.
+Une consigne vague peut augmenter l’effort lorsque plusieurs options semblent correspondre.
 
-## Dire ce qui change et ce qui reste possible
+**Exemples concrets**
 
-Nour et Fatou gardent la même heure et le même rendez-vous. Elles envoient l’adresse précise du chemin par le quai et expliquent que le passage des Verriers est fermé en partie. Elles indiquent où se trouvent les traversées et préviennent que la marche peut prendre plus de temps. Le message précise aussi que chacun peut rester au kiosque pour voir la reproduction. Les informations qui peuvent encore changer sont nommées comme telles.
+- Quelqu’un propose de passer par la venelle « comme d’habitude » alors que Nour en connaît deux.
+- Elle cherche l’adresse exacte de la zone de travaux sur le site de la ville.
 
-Elles choisissent une version du plan à distribuer et notent la date dessus. Fatou peut informer les personnes qui ont déjà reçu la première copie. Nour corrige la liste d’adresses. Le principe d’une information adaptée aux personnes, recommandé par le NICE dans les soins et les services d’accompagnement, leur donne une direction. Pour la visite, une feuille et un message donnent aux participants un moyen de revoir le trajet à leur rythme.
+### L’ancien plan continue à orienter l’attention
+
+Une action préparée ne disparaît pas immédiatement quand de nouvelles consignes arrivent.
+
+**Exemples concrets**
+
+- Fatou apporte des exemplaires où la flèche traverse encore la zone barrée.
+- Après avoir vu le quai, Nour relit malgré elle l’ancien tracé quand elle baisse les yeux.
+
+### Les tâches se télescopent
+
+Modifier un projet peut prendre la place de ce qui était déjà prévu, même si le nouveau plan est réalisable.
+
+**Exemples concrets**
+
+- Nour voulait corriger la légende et part vérifier le passage avec Fatou.
+- Elle veut s’asseoir avant de décider quand annoncer le trajet et reporte la traduction au lendemain.
+
+## 3 techniques pour rendre une transition plus lisible
+
+### 1. Vérifier la partie qui a changé
+
+Remplacer une consigne vague par un repère observable.
+
+**Exercice pratique**
+
+- Repérez le tronçon affecté sur l’avis ou demandez son adresse exacte.
+- Vérifiez ce qui reste ouvert et où le nouveau chemin rejoint le point commun.
+- Notez l’endroit précis où il faut changer de direction.
+
+Le détour devient une suite de lieux qu’on peut reconnaître.
+
+### 2. Retirer l’ancienne version de la circulation
+
+Éviter de devoir choisir entre des plans contradictoires.
+
+**Exercice pratique**
+
+- Gardez les anciennes copies à part.
+- Dessinez le nouveau trajet et indiquez l’heure et le lieu de départ qui restent valables.
+- Envoyez une seule version datée au groupe.
+
+Les participants retrouvent la modification sans refaire l’enquête.
+
+### 3. Décider quand répondre au nouvel imprévu
+
+Garder une marge pour reprendre ses repères et réorganiser la journée.
+
+**Exercice pratique**
+
+- Dites quand vous pourrez confirmer le changement.
+- Prévoyez une pause si vous en avez besoin avant de relire le document.
+- Déplacez la tâche qui peut attendre et prévenez si une personne compte dessus.
+
+La transition a un temps prévu au lieu de s’ajouter à toutes les tâches en cours.
 
 ## Un trait neuf vers le quai
 
 De retour chez Nour, Fatou pose les anciennes copies sur le bord de la table pour les garder à part. Nour trace le chemin du quai et inscrit l’heure du kiosque au-dessus. Elle écrit « Pour voir l’hirondelle, vous pouvez aussi ne pas la poursuivre. Elle sera au kiosque. » Fatou propose de garder cette phrase dans le message, juste après les horaires. Nour donne son accord et programme une heure pour envoyer la carte. Elle laisse la traduction dans son dossier. Elle préfère la reprendre demain, quand les deux plans auront cessé de se superposer à chaque lecture.
+
+---
+
+**Conclusion**
+
+Le nouveau trait rejoint le kiosque par le quai et l’ancienne flèche reste sur les copies mises de côté. Nour garde le rendez-vous et les chemins au choix. Elle laisse la traduction pour demain, le temps que le nouveau trajet devienne plus facile à retrouver.

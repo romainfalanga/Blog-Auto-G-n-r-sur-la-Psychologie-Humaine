@@ -44,3 +44,23 @@ Les histoires d’origine servent de référence. Chaque fiche clinique indique 
 Mathis, Jules et Sacha reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. À l’épisode 2, Diane revient sur le diagnostic posé pendant son hospitalisation. Ces 384 épisodes portent le nombre de rubriques pour les proches à 771. Le [registre des relectures](../editorial/clinical/releases.json) conserve la vérification de chaque parcours.
 
 La suite se décide à partir des [priorités de couverture](cartographie-clinique-v17.md#priorités-de-couverture) et de l’apport de chaque sujet. Les canons du registre restent des pistes de travail.
+
+## Reprise de la trame de Youssef
+
+L’[article sur l’alexithymie en couple](https://decodetonesprit.fr/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/) sert de modèle. Une scène ouvre chaque épisode sur un aspect précis du trouble. Une explication précède trois manifestations avec leurs exemples. Trois techniques adaptées au contexte préparent le retour à l’histoire. La conclusion et « Du côté des proches » restent liées à la scène. Les titres commencent par le sujet et les références restent dans les dossiers éditoriaux.
+
+Les 48 parcours déjà publiés à l’ouverture de cette reprise, soit 576 épisodes, suivent la trame. Le registre conserve les dates, les empreintes des manuscrits et les notes de relecture. Les épisodes reprennent leurs adresses et leur place dans les parcours.
+
+Le catalogue clinique compte 52 parcours et 624 épisodes à cette trame. La file de rédaction conserve 7 sujets dans cet ordre.
+
+| Code CIM-11 | Personnage | Sujet |
+| --- | --- | --- |
+| 6B25.1 | Cyril | Trouble d'excoriation compulsive |
+| 6C41.2 | Nawel | Dépendance au cannabis |
+| 6C4A.2 | Martin | Dépendance à la nicotine |
+| 6C43.2 | Séraphine | Dépendance aux opioïdes |
+| 6B61 | Ismaël | Amnésie dissociative |
+| 6B64 | Céleste | Trouble dissociatif de l'identité |
+| 6C72 | Olivier | Trouble compulsif du comportement sexuel |
+
+`python3 scripts/clinical_editorial.py progress` indique les priorités, les dossiers, les manuscrits et les parcours déjà relus. Pour une reprise, partir de ces états et du registre avant de rédiger ou d’intégrer une série.

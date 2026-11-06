@@ -29,16 +29,81 @@ Benoît soulève le couvercle et cherche le dessous-de-plat avec la marmite enco
 
 ## Une sensation peut relancer une comparaison
 
-Pour répondre honnêtement, Laure essaie de retrouver la sensation précédente et de décider si celle du moment a changé. Une douleur persistante peut revenir au premier plan de cette façon. Chez elle, la comparaison se poursuit parfois longtemps et repousse la conversation, le repas ou le choix d’une activité. Observer un changement peut aider dans un suivi médical. Le travail consiste ici à reconnaître quand l’attention est déjà accaparée par une comparaison répétée autour d’une plainte familière. Laure connaît cette difficulté dans bien d’autres situations que ce dîner.
+Une question sur une douleur connue peut relancer une comparaison qui prend plus de temps que la réponse elle-même. Dans le trouble de détresse physique, l’attention peut rester prise par les symptômes et leurs conséquences. Observer un changement pour en parler à un soignant garde une utilité. Au dîner, Laure cherche surtout une façon de dire que la douleur est pénible sans que chaque question lui fasse recommencer le même examen de son bras.
 
-## Les deux personnes attendent une réponse
+## Comment les questions sur la douleur changent-elles la demande de soutien ?
 
-Benoît espère repérer à quel moment sa sœur a besoin de lui. Laure essaie de lui fournir une réponse assez précise pour être comprise. Il entend une hésitation et pose la question suivante. Elle prend cette question comme un signal pour vérifier à nouveau. Ils peuvent ainsi recommencer plusieurs fois dans le même repas. Le projet du samedi devient difficile à aborder parce qu’il semble d’abord leur falloir connaître la sensation exacte du vendredi. Dans les faits, Benoît pourrait aider pour un détail du trajet même si le lendemain reste incertain.
+### La réponse déclenche une nouvelle comparaison
 
-## Choisir ce qui peut être demandé
+Chercher à être précis peut ramener à la sensation que l’on essayait de décrire la fois précédente.
 
-Laure peut convenir avec son frère qu’elle ouvrira elle-même la discussion sur ses symptômes quand elle en aura besoin. Pour demain, elle aimerait un retour en voiture après le relais, s’il est disponible. Benoît peut dire à quelle heure et où il pourra venir. Ils se donnent alors un accord qui peut être tenu par chacun. Les questions qui touchent à une modification de symptômes ont leur place dans le plan discuté avec la Dre Valette. Pour ce soir, ils ont encore le temps de finir le repas ensemble.
+**Exemples concrets**
+
+- Laure essaie de retrouver comment elle ressentait son bras avant de répondre à Benoît.
+- Une personne se demande, à chaque question au téléphone, si sa douleur familière est exactement celle du matin.
+
+### Les bonnes intentions ne répondent pas toujours au besoin du moment
+
+Un proche peut vouloir se rendre utile et poser des questions qui prennent la place de l’activité partagée.
+
+**Exemples concrets**
+
+- Benoît demande une troisième fois comment vont les douleurs et Laure pose son couteau.
+- Au dîner, une amie reprend les détails d’une plainte connue alors que la personne voulait surtout passer un moment ensemble.
+
+### Une aide précise se distingue d’une surveillance
+
+On peut avoir besoin d’un geste pratique sans vouloir rendre compte de ses symptômes toute la journée.
+
+**Exemples concrets**
+
+- Laure préfère convenir d’un retour en voiture après la permanence.
+- Une personne demande qu’on l’attende à l’arrêt de bus et garde les questions de santé pour son rendez-vous.
+
+## 3 techniques pour demander une aide sans centrer tout l’échange sur la douleur
+
+### 1. Nommer le besoin de la conversation
+
+Faire entendre à la fois la douleur et le choix du moment pour en parler.
+
+**Exercice pratique**
+
+- Dites brièvement ce qui vous pèse.
+- Précisez si vous voulez en parler maintenant ou plus tard.
+- Proposez un autre sujet si vous souhaitez continuer le repas ensemble.
+
+Le proche peut prendre la douleur au sérieux sans demander davantage de détails.
+
+### 2. Choisir une aide délimitée
+
+Donner au proche une demande à laquelle il peut répondre librement.
+
+**Exercice pratique**
+
+- Repérez le trajet ou le geste qui vous aiderait.
+- Proposez une heure et un lieu.
+- Vérifiez que cela lui convient et convenez de la façon de signaler un changement.
+
+Chacun sait quelle aide est prévue et ce qui reste à décider.
+
+### 3. Garder les questions de santé pour le suivi
+
+Éviter qu’une conversation familiale remplace l’évaluation.
+
+**Exercice pratique**
+
+- Reprenez avec le soignant ce qu’il est utile de noter sur une plainte familière.
+- Demandez comment signaler une évolution nouvelle.
+- Dites au proche quelle partie de l’accord vous voulez partager.
+
+Un repère médical peut coexister avec des échanges qui ne tournent pas tous autour de la douleur.
 
 ## Le rendez-vous sous l’horloge
 
 Benoît pourra passer à dix heures quarante devant la bibliothèque. Laure lui donne le nom de la place pour qu’il évite de tourner dans la rue barrée. Elle lui dit qu’elle l’appellera si l’heure change. Puis elle attrape le bord de la boîte de croûtons. « Tu l’as retrouvée où, celle-là ? » Benoît lui parle d’un placard qui n’a pas été vidé depuis le déménagement. Le matin, en préparant son sac, elle pose le résumé pour Nina à côté du planning et choisit de prendre la fiche où elle a dessiné le parcours des graines.
+
+---
+
+**Conclusion**
+
+Benoît sait où attendre Laure et à quelle heure. La douleur n’a pas quitté le dîner, mais elle n’en fixe plus toutes les questions. Ils peuvent parler des croûtons, et Laure choisit la fiche qu’elle veut emporter pour son premier accueil.

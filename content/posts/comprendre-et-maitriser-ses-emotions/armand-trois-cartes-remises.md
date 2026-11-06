@@ -29,22 +29,83 @@ Nadia va chercher la reproduction et la pose seule au milieu de la table. Armand
 
 Il y a une place sur le calendrier du samedi suivant, à l’ouverture. Nadia sort le projet d’affiche. Armand demande s’il peut arriver après l’installation et parler assis. Il préfère ouvrir un plan devant quelques personnes et laisser Nadia prendre les questions. S’il en a assez, il lui passera la légende. Il pose un doigt sur le plan des canaux. C’est celui par lequel il veut commencer.
 
-## Un choix tient aussi à la manière de l’examiner
+## Pouvoir décider avec les pièces devant soi
 
-Une décision est plus facile à examiner quand ses différentes conséquences peuvent être présentées l’une après l’autre. Armand a besoin de distinguer trois originaux qu’il souhaite remettre, la reproduction qu’il autorise à montrer et les deux originaux qui resteront chez lui. Il peut voir chaque catégorie sur la table, entendre ce que Nadia entend faire des cartes et poser des questions. Sa demande de précision sur le pont bas aide la conversation à repartir sur une base commune.
+Une aide à la décision peut rendre les choix et leurs conséquences plus faciles à examiner quand la mémoire ou l’attention sont fragilisées. Elle permet à la personne de demander une précision, de revenir sur une option et de formuler sa préférence. Nadia présente les cartes et les usages séparément. Armand peut décider du don et prévoir à sa façon la rencontre du samedi.
 
-## Une hésitation entre l’original et sa reproduction
+## Comment voit-on qu’une décision reste celle de la personne ?
 
-Armand sait qu’il est venu laisser trois cartes. Quand Nadia parle du pont bas en cherchant la fiche de la reproduction, il revient à la liste et demande de quel papier elle parle. Dès qu’il voit la copie seule au milieu de la table, il reconnaît le bord recadré. Il peut alors distinguer ce qu’il accepte de montrer et ce qu’il souhaite laisser à la bibliothèque.
+### La question peut être reprise
 
-## Donner les cartes et choisir sa place
+Rendre un choix accessible donne la possibilité d’interrompre l’échange pour faire préciser un point.
 
-Les conditions du don se discutent avec la bibliothèque. Nadia peut dire quels documents elle peut rendre consultables et de quelle manière. Armand peut choisir de ne donner que les cartes pour lesquelles cette proposition lui convient. La feuille qu’ils relisent garde une trace de leurs décisions et évite de confondre ce que la bibliothèque conserve et ce qu’elle a l’accord de montrer.
+**Exemples concrets**
 
-La présentation publique est une autre décision. Armand choisit la carte qu’il veut ouvrir et la personne à qui passer la parole. Nadia peut préparer la salle pour ce format et annoncer la suite si Armand préfère rester simple visiteur. Jeanne peut, si elle est libre et s’il le souhaite, venir écouter. Le projet peut continuer à avoir une place dans la vie d’Armand même quand les conditions de sa participation changent.
+- Armand demande de clarifier ce que la bibliothèque fera de la reproduction du pont.
+- Avant de prêter un objet, une personne peut demander à revoir la date et l’endroit où elle le récupérera.
 
-Le NICE encourage à soutenir la parole de la personne et à présenter les informations sous une forme adaptée quand c’est utile. Ces recommandations concernent les soins et l’accompagnement. Au rendez-vous avec la bibliothèque, Nadia peut montrer les cartes une à une et relire la liste avec Armand. Si une décision reste incertaine, ils peuvent laisser la remise en attente.
+### Les conséquences se distinguent
+
+Voir les pièces séparées aide à relier chaque décision à son résultat concret.
+
+**Exemples concrets**
+
+- Armand remet trois originaux, mais l’original du pont restera avec le plan vert chez lui.
+- Sur une table, une boîte « à rendre » et une boîte « à prêter » permettent de vérifier où chaque objet ira.
+
+### Un accord peut prévoir une possibilité de relais
+
+La personne peut choisir une façon de participer qui s’ajustera sur le moment.
+
+**Exemples concrets**
+
+- Armand veut commencer avec le plan des canaux et donner ensuite la légende à Nadia s’il le souhaite.
+- Quelqu’un peut choisir de présenter une photo assis et convenir que le collègue répondra aux questions si nécessaire.
+
+## 3 techniques pour accompagner une décision sur des objets et leur usage
+
+### 1. Décrire le devenir de chaque pièce
+
+Savoir ce qu’implique chaque réponse.
+
+**Exercice pratique**
+
+- Présentez un objet à la fois.
+- Dites ce qu’il deviendra selon les options proposées.
+- Laissez la personne demander de revoir une pièce déjà examinée.
+
+La décision se rattache à des conséquences visibles plutôt qu’à une formule générale.
+
+### 2. Confirmer avec une trace commune
+
+Donner à la personne un support pour retrouver son choix.
+
+**Exercice pratique**
+
+- Relisez la liste devant les objets.
+- Corrigez la ligne si la personne précise sa réponse.
+- Remettez-lui son exemplaire.
+
+Chacun peut vérifier par la suite ce qui a été remis et à quelles conditions.
+
+### 3. Prévoir une participation modulable
+
+Permettre de changer de rôle sans renoncer à la rencontre.
+
+**Exercice pratique**
+
+- Demandez par quoi la personne souhaite commencer.
+- Convenez du signe ou de l’objet qui indiquera un relais.
+- Prévoyez une place où elle pourra rester si elle passe la parole.
+
+La possibilité de s’arrêter fait partie du plan dès le départ.
 
 ## Un exemplaire dans le carton vide
 
 Armand confirme le don des trois originaux. Nadia reprend avec lui la liste, une carte après l’autre, puis lui remet son exemplaire. Ils ajoutent à l’affiche le samedi à dix heures. Nadia gardera près d’elle la légende et une chaise restera libre au bord de la table pour qu’Armand puisse s’y asseoir quand il arrive. Il repart avec le carton gris vide, sauf la feuille. Dans la cour, il se rend compte qu’il le tient encore à deux mains. Il le passe sous son bras et se retourne pour regarder où l’affiche sera posée.
+
+---
+
+**Conclusion**
+
+Le carton est vide et contient encore la liste, preuve pratique de ce qu’Armand a choisi. Le samedi, une chaise et la légende à portée de Nadia lui permettront de décider quand parler.

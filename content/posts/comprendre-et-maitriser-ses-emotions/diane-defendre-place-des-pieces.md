@@ -30,16 +30,81 @@ Une fois Anaïs revenue, Diane lui montre la photo et explique ce qu’elle essa
 
 ## La peur de déranger peut effacer une demande légitime
 
-Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi. Diane s’est entendue penser qu’elle ferait perdre du temps aux autres. En montrant la photo, elle peut expliquer ce qu’elle voulait obtenir et entendre ce qu’Anaïs attend de sa propre présentation.
+La peur de déranger peut faire abandonner une demande avant de savoir si elle gênerait réellement les autres. Après une crise et une reprise progressive, se croire de trop peut rendre plus coûteuse une négociation ordinaire. Dans l’atelier, Diane craint de ralentir l’installation en demandant la tablette basse. La photo lui permet d’expliquer l’effet recherché et de vérifier avec Anaïs ce que chacune essaie de faire voir.
 
-## Comment cette difficulté se manifeste
+## Comment la peur de déranger peut-elle faire taire une demande ?
 
-Elles ont deux raisons différentes de demander une certaine hauteur. Les comparer avec Maud permet de chercher un arrangement concret. Diane garde aussi la possibilité d’accepter un emplacement qui lui convient moins si les autres possibilités créent un problème de circulation ou de stabilité.
+### On suppose le coût pour les autres
 
-## Finir sa part et décider quand partir
+Avant d’en parler, on peut imaginer que la demande forcera tout le monde à recommencer.
 
-Diane s’était donné une heure pour installer ses pièces. Depuis le rendez-vous avancé, elle parle encore avec l’équipe de sa reprise et des changements qu’elle observe. Ce suivi peut tenir compte des activités qu’elle souhaite retrouver et des conditions dans lesquelles elles restent possibles. Dans la salle, sa décision porte sur une tâche précise. Elle veut vérifier la place des deux pièces et fixer les cartels. Maud peut l’aider à déterminer ce qui doit être fait ce jour-là, puis les autres membres de l’atelier peuvent prendre le relais sur ce qui leur revient.
+**Exemples concrets**
+
+- Diane craint de faire perdre du temps en demandant la tablette déjà occupée.
+- Une personne renonce à demander une place mieux éclairée parce qu’elle croit que toute la salle devra bouger.
+
+### On accepte une solution qui change le résultat
+
+Éviter la discussion peut avoir un effet concret sur ce que l’on voulait faire.
+
+**Exemples concrets**
+
+- Le meuble haut ferait perdre le point de vue où Diane veut montrer le fond du bol.
+- Une personne accepte une table plus étroite et découvre qu’elle ne pourra pas ouvrir son album à plat.
+
+### L’autre a aussi une préférence à exprimer
+
+Dire ce que l’on veut peut faire apparaître une possibilité qu’on n’avait pas imaginée seul.
+
+**Exemples concrets**
+
+- Anaïs veut que la marque de ses tasses soit visible sans se pencher.
+- Deux exposants découvrent qu’ils ne recherchent pas la même lumière et peuvent échanger leurs places.
+
+## 3 techniques pour formuler une demande sans devancer la réponse
+
+### 1. Montrer l’effet recherché
+
+Faire comprendre pourquoi un choix compte.
+
+**Exercice pratique**
+
+- Apportez une photo ou un objet qui l’illustre.
+- Dites ce que vous voulez que l’autre puisse voir ou faire.
+- Demandez si la solution prévue le permet.
+
+L’échange porte sur un résultat observable et les autres peuvent y répondre.
+
+### 2. Écouter la préférence de l’autre
+
+Chercher une option compatible avec les deux projets.
+
+**Exercice pratique**
+
+- Demandez ce que l’autre personne veut faire ressortir.
+- Comparez un ou deux emplacements.
+- Demandez si un essai bref est possible avant de décider.
+
+Chacun peut juger l’arrangement au lieu de supposer ce qu’il coûte à l’autre.
+
+### 3. Respecter les contraintes communes
+
+Garder une demande négociable quand l’espace est partagé.
+
+**Exercice pratique**
+
+- Faites vérifier l’emplacement par la personne responsable.
+- Ajustez si le passage ou la stabilité pose un problème.
+- Confirmez l’arrangement avant de fixer les étiquettes.
+
+Une solution peut répondre au besoin tout en restant faisable pour l’équipe.
 
 ## Le bleu à hauteur de regard
 
 Anaïs place ses tasses sur le meuble haut et fait tourner la première. Depuis la porte, on voit son trait clair. Maud vérifie que le meuble est stable et que la circulation reste possible. Diane récupère la tablette basse et pose le bol près de la carafe, avec l’écart qu’elle avait photographié. Elle colle les deux cartels et envoie à Rémi une image de la tablette au pied de la fenêtre. Puis elle remet les pinces à Maud. Elle a terminé ce qu’elle était venue faire, même si Anaïs n’a pas encore trouvé où fixer l’étiquette de sa dernière assiette.
+
+---
+
+**Conclusion**
+
+La photo donne un point de départ à la demande de Diane. Anaïs peut montrer le trait de ses tasses et Maud vérifie la circulation. Les pièces retrouvent la hauteur recherchée parce que les trois ont eu une décision précise à discuter.

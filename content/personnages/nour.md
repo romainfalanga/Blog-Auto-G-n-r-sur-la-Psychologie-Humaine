@@ -50,7 +50,7 @@ reading_topics:
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences/">Deux manières d’être autiste devant la même carte</a></h3>
-    <p class="parcours-resume">Nour retrouve une adresse sur la carte imprimée. Joël préfère l’entendre et retrouver le lieu sur son téléphone. Tous deux sont autistes et leurs façons de s’orienter appellent des aides différentes. Les comparer aide à comprendre pourquoi les appuis se discutent avec la personne et selon la situation, jusque dans un même projet de quartier.</p>
+    <p class="parcours-resume">Nour regarde l’itinéraire sur la carte imprimée. Joël retrouve le kiosque en cherchant son nom sur le téléphone et aimerait passer sous la halle. Tous deux sont autistes, mais le bruit du marché et les formats du plan n’ont pas les mêmes effets pour eux. Leurs essais permettent de choisir des appuis adaptés à chacun.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-joel-carte-preferences/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -62,12 +62,12 @@ reading_topics:
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue/">Comprendre la fatigue après des échanges et des imprévus</a></h3>
-    <p class="parcours-resume">Nour apporte une note au rendez-vous parce que décrire sa fatigue à l’oral lui demande déjà de l’énergie. Elle compare deux journées, dont une réunion dont elle connaissait le déroulé, pour aider la professionnelle à comprendre ce qui lui coûte. La fatigue mérite d’être examinée dans son contexte et d’autres causes peuvent aussi entrer dans la discussion.</p>
+    <p class="parcours-resume">Nour apporte une note au rendez-vous parce que décrire sa fatigue à l’oral lui demande déjà de l’énergie. Elle raconte une journée de traduction qui lui a plu, puis la difficulté à répondre à un message en rentrant. Le bruit et les imprévus font partie de ce qu’elle veut décrire. La professionnelle peut aussi examiner d’autres causes de fatigue.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-consultation-format-fatigue/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/">Prévoir une pause pour doser une surcharge sensorielle</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/">Prévoir un lieu de pause avant la surcharge sensorielle</a></h3>
     <p class="parcours-resume">Quand Rita et Nour trouvent la grille fermée, le lieu de pause prévu devient inutilisable. Pour Nour, disposer d’un endroit calme, accessible et identifiable change la possibilité de poursuivre la visite. L’épisode montre comment une personne autiste peut anticiper un moment de surcharge et choisir un appui lié au lieu plutôt qu’à une règle imposée à tout le groupe.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nour-visite-test-banc-cour/" class="parcours-link">Lire</a>
   </div>

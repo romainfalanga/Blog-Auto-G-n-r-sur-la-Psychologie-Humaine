@@ -31,16 +31,81 @@ Samir se lève pour reprendre le pain. Joris lui demande de revenir à la person
 
 ## Le détachement peut concerner ce qui entoure la personne
 
-La déréalisation désigne un vécu d’étrangeté ou de distance à l’égard de l’environnement. La dépersonnalisation concerne le rapport à soi. Joris peut parler de deux moments différents, le geste de travail qui lui paraît lointain et le studio familier qui perd sa proximité habituelle. Le trouble peut associer les deux manifestations. Dans la scène du dîner, Joris reconnaît les lieux et les personnes. Il comprend que c’est son expérience de la pièce qui a changé.
+La déréalisation désigne une impression de distance ou d’étrangeté à l’égard de son environnement. La dépersonnalisation concerne le rapport à soi. Les deux peuvent se présenter dans le même trouble, mais Joris les décrit à partir de moments différents. Au studio, il reconnaît la table et Samir. La pièce lui paraît pourtant moins familière dans son vécu, et suivre le récit de son ami lui demande davantage d’effort.
 
-## Ce que l’ami remarque depuis sa chaise
+## Comment la déréalisation peut-elle gêner un échange dans un lieu familier ?
 
-Samir peut entendre une réponse brève et croire que son histoire arrive à un mauvais moment. Joris aurait voulu savoir ce que son amie est devenue. Il peine à rester disponible et risque de perdre aussi le plaisir de lui lire le texte. Selon la situation, une personne peut conserver les repères habituels et éprouver une gêne suffisante pour que la discussion lui coûte beaucoup. Cette différence compte quand le professionnel s’intéresse au retentissement à la maison.
+### Un lieu reconnu paraît moins proche
 
-## Choisir ensemble ce qu’on reprend ce soir
+La personne peut savoir où elle est tout en éprouvant une distance inhabituelle par rapport à l’endroit.
 
-Joris demande de revenir à un passage précis du récit. Il peut dire ce qu’il a envie d’écouter maintenant et reporter la lecture à plus tard. Samir peut reprendre son histoire ou lui dire qu’il préfère finir de manger. Cette organisation leur appartient. Au suivi, Joris pourra expliquer comment l’échange s’est interrompu et ce qu’il a souhaité retrouver, sans devoir décrire chaque sensation de la soirée. Le caractère familier de la pièce et les effets sur la discussion donnent déjà des repères utiles.
+**Exemples concrets**
+
+- Joris reconnaît les affaires posées sur la table alors que le studio lui paraît lointain.
+- Une personne connaît bien la salle où elle travaille et décrit tout de même une impression d’étrangeté pendant une pause.
+
+### La conversation se poursuit sans que tout soit entendu
+
+L’entourage peut recevoir une réponse brève sans savoir que la personne a perdu le fil.
+
+**Exemples concrets**
+
+- Joris dit « oui » sans savoir si Samir vient de poser une question.
+- Pendant un repas, une personne répond à son ami puis demande de reprendre la dernière phrase.
+
+### On peut vouloir garder un échange plus simple
+
+La gêne peut changer le temps ou le nombre de choses que l’on souhaite faire dans la même soirée.
+
+**Exemples concrets**
+
+- Joris propose de finir de manger avant de décider s’ils liront le texte.
+- Une personne choisit de terminer une conversation et remet l’écoute d’un enregistrement à plus tard.
+
+## 3 techniques pour reprendre un échange quand un lieu familier paraît étrange
+
+### 1. Demander de revenir à une phrase
+
+Retrouver la conversation sans devoir expliquer toute l’impression.
+
+**Exercice pratique**
+
+- Dites à quel passage vous avez perdu le fil.
+- Demandez à l’autre de le reprendre s’il le veut bien.
+- Précisez si vous voulez continuer maintenant ou plus tard.
+
+Le proche peut aider à retrouver le récit sans avoir à interpréter la gêne.
+
+### 2. Séparer les deux projets du moment
+
+Garder une part de la soirée qui fait envie.
+
+**Exercice pratique**
+
+- Nommez ce que vous êtes en train de faire ensemble.
+- Décidez avec l’autre si la deuxième activité peut attendre.
+- Reprenez cette décision au moment convenu.
+
+Le repas peut continuer sans obliger à choisir tout de suite le reste de la soirée.
+
+### 3. Décrire ce qui semblait différent au suivi
+
+Donner des mots à ce vécu sans devoir l’analyser seul.
+
+**Exercice pratique**
+
+- Dites si la distance concernait ce que vous faisiez ou l’endroit où vous étiez.
+- Ajoutez la difficulté que cela a créée dans la conversation.
+- Parlez au professionnel de ce qui revient ou gêne durablement.
+
+Des exemples de vie ordinaire aident à comprendre les effets du trouble et leur variation.
 
 ## Garder le texte pour après le repas
 
 Samir leur verse de l’eau et reprend le moment où il a reconnu le manteau de leur amie. Joris le laisse terminer. Plus tard, il lit les deux dernières lignes de Dounia sans chercher à retrouver l’impression qu’il avait eue dans le bus. Samir lui demande s’il peut aussi lire le début. Ils s’arrêtent sur une question que Joris veut poser à Dounia demain. De combien de temps a-t-elle besoin avant la première phrase ?
+
+---
+
+**Conclusion**
+
+Samir reprend son histoire là où Joris a cessé de la suivre. Le studio est le même et l’impression a demandé un effort réel. Après le repas, les deux amis peuvent aussi retrouver la phrase de Dounia et préparer une question pour elle.

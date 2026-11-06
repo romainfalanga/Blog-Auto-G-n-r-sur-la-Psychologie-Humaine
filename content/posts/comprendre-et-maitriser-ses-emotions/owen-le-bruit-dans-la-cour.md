@@ -33,14 +33,81 @@ Lina regarde les deux essais sur l’ordinateur. Après le premier, elle sait po
 
 On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.
 
-## Comment cette difficulté se manifeste
+Lina a entendu Owen s’arrêter puis terminer sa réplique. Sa question sur la peur du personnage lui montre ce qui est passé dans le jeu. Un retour de spectateur peut ainsi porter sur le sens, le ton ou le récit, que la parole ait été fluide ou qu’un mot ait bloqué.
 
-Ici, il s’agit d’un essai de cinéma. Les deux écoutes donnent à Lina une place pour dire ce qui l’a intéressée et ce qui lui manque. Sa question sur la peur de se tromper concerne le personnage du film. Owen peut lui répondre comme auteur, et même découvrir qu’elle a entendu quelque chose qu’il n’avait pas prévu.
+## Comment écouter ce qu’une parole qui bégaie transmet ?
 
-## Garder la contrainte qui a permis l’essai
+### Attendre ce que fait la phrase entière
 
-Nassim s’attendait à préférer la voix unique parce qu’elle explique vite la succession des gestes. Le second essai n’exige finalement ni plus de décors ni un bus à l’image. Il utilise les mêmes plans, mais il faut du temps pour enregistrer et monter trois interprétations. Owen propose de garder le plan fixe et de refaire le bruit du bus au club. Lina peut vérifier la cohérence du ruban dans le cadre ; Lucile a envie de pousser sa voyageuse à regarder autour du banc. Le groupe peut donc décider en sachant ce que coûte la version choisie. Les prises d’essai servent à comparer des formes. L’équipe peut décider ensuite qui veut rejouer et ce que chacun autorise à conserver ou à montrer.
+Une pause avant un mot ne dit pas comment la phrase va sonner une fois terminée.
+
+**Exemples concrets**
+
+- Owen s’arrête sur « retourné », puis finit sa réplique dans la pièce calme.
+- Un auditeur peut attendre la fin d’une histoire au lieu de réagir à la première répétition.
+
+### Revenir à une intention entendue
+
+Une question sur le récit montre ce qui a été reçu et ce que le spectateur veut encore comprendre.
+
+**Exemples concrets**
+
+- Lina demande pourquoi le personnage semble avoir peur de reprendre son sac.
+- Un camarade peut dire qu’il a compris le lieu mais qu’il ignore encore ce que le personnage cherche.
+
+### Comparer les essais sur des critères communs
+
+La pertinence d’un jeu d’acteur ou d’un montage s’apprécie en regardant ce que chaque version rend possible.
+
+**Exemples concrets**
+
+- Nassim préfère trois voix parce que le personnage qui cherche ressort davantage.
+- Deux prises peuvent être discutées à partir du raccord avec le bruit du bus, quelle que soit la durée d’une hésitation.
+
+## 3 techniques pour donner un retour sur le contenu d’une parole
+
+### 1. Dire ce que vous avez compris
+
+Aider l’auteur à savoir ce qui passe dans la scène.
+
+**Exercice pratique**
+
+- Attendez que la personne ait fini.
+- Citez un détail du récit que vous avez retenu.
+- Posez une question sur l’intention ou l’action du personnage.
+
+Le retour peut guider le jeu ou le montage.
+
+### 2. Réécouter pour répondre à une question précise
+
+Trouver l’endroit où une information de l’histoire reste incertaine.
+
+**Exercice pratique**
+
+- Nommez le détail que vous cherchez.
+- Demandez l’accord pour réécouter le passage utile.
+- Dites ce que cette écoute vous a apporté.
+
+La reprise a un but compréhensible pour tout le monde.
+
+### 3. Convenir d’un critère de choix
+
+Comparer les versions à partir de l’effet souhaité.
+
+**Exercice pratique**
+
+- Formulez le choix artistique avant d’écouter.
+- Relevez ce que chaque version fait entendre du personnage.
+- Décidez ensemble laquelle vous voulez essayer au montage.
+
+Les prises sont jugées sur le travail demandé à toutes les voix.
 
 ## Le vote au dos des bandes
 
 Owen retourne les trois bandes et écrit « une » et « trois » sur deux coins. Ils choisissent à main levée. Nassim prend un moment, puis lève la main pour trois : à une voix, dit-il, le personnage qui cherche ne lui manquait pas. Il demande en échange qu’ils ne repartent pas filmer trois bancs. Owen entoure « trois » et remet les bandes dans la chemise de Lucile. Il lui demande si le sac peut rester au club jusqu’à la prochaine séance. Sur le chemin de la sortie, ils s’arrêtent tous les deux pour écouter le bac rouler derrière la porte. Le bruit est beaucoup moins fort que le leur.
+
+---
+
+**Conclusion**
+
+Lina a parlé du personnage, puis Nassim a choisi la version qui lui faisait mieux suivre sa recherche. Le club garde trois voix. Owen peut reprendre ses répliques en sachant ce que leur jeu a déjà transmis.

@@ -33,14 +33,79 @@ Damien pose le panneau contre l’établi, à sa place habituelle. « Je vais m�
 
 Certains accès du trouble explosif intermittent sont précédés par une sensation de tension ou d’activation. Chez Damien, la raideur qu’il ressent et l’envie de parler plus fort prennent leur sens parce qu’il les a déjà remarquées dans des moments comparables. Ces signes peuvent varier ou passer inaperçus. Une tension des bras pendant un travail manuel, à elle seule, renseigne peu sur ce qui va se passer. L’équipe aide Damien à examiner l’ensemble de la situation et à reconnaître le moment où il lui devient difficile d’envisager une autre réponse.
 
-## Le panneau dépasse et la voix change
+## Comment les premiers signes d’une montée de tension peuvent-ils se faire remarquer ?
 
-Leïla voit un trait mal placé et demande une nouvelle mesure. Damien sent surtout qu’il voudrait imposer la première mesure avant de regarder ce qu’elle lui montre. Il reconnaît à la fois un changement physique et une envie d’insister. Cet écart entre le problème à résoudre et la réponse qui lui vient est le repère qu’il peut reprendre. Pour Leïla, les informations utiles sont ce qu’elle entend, la place qu’elle garde dans la cour et la possibilité de finir son projet comme elle le souhaite.
+### Un signe physique prend sens dans la situation
 
-## Préparer un retrait qui ne fait pas obstacle à l’autre
+Une tension isolée peut avoir de nombreuses explications. Le suivi regarde ce qui l’accompagne et à quel moment elle apparaît.
 
-Avec l’équipe, Damien peut prévoir un geste d’interruption qui dépend de lui. Ici, il cesse de tenir le panneau, annonce qu’il se retire et emporte ses affaires en libérant la cour. Il peut ensuite décrire le moment précis à sa psychologue et examiner ce qui l’a rendu possible. Leïla n’a pas à reconnaître un signal, à annoncer le retrait pour lui ou à attendre qu’il revienne. Si elle se sent en danger, elle peut chercher de l’aide et s’éloigner sans expliquer son choix.
+**Exemples concrets**
+
+- Les avant-bras de Damien se durcissent après que le panneau a glissé.
+- Il remarque ce changement avec l’envie de répéter sa phrase plus fort.
+
+### Les paroles donnent parfois un autre repère
+
+Les signes peuvent varier, et une modification de la voix ou des échanges peut être plus visible qu’une sensation.
+
+**Exemples concrets**
+
+- Damien se rappelle le ton qu’il a pris quand Leïla lui a demandé de refaire la mesure.
+- Dans d’autres situations, une personne peut remarquer qu’elle coupe la parole avant de sentir la tension physique.
+
+### S’écarter change la suite immédiate
+
+Interrompre sa participation laisse de la place aux autres pour décider ce qu’ils feront.
+
+**Exemples concrets**
+
+- Damien pose le panneau à sa place et annonce qu’il rentre.
+- Leïla peut terminer avec sa voisine et décide de garder son prochain dimanche libre.
+
+## 3 techniques pour préparer un retrait avant qu’une tension devienne dangereuse
+
+### 1. Décrire deux repères avec le professionnel
+
+Préparer un plan qui ne dépend pas d’une seule sensation.
+
+**Exercice pratique**
+
+- Notez ce qui a changé dans votre corps et dans votre façon de parler.
+- Situez le moment où vous l’avez remarqué.
+- Examinez avec votre équipe les autres repères et les limites de ce que vous pouvez anticiper.
+
+Un plan peut tenir compte de signes variables sans supposer qu’ils seront toujours perceptibles.
+
+### 2. Préparer des mots et un retrait sûr
+
+Cesser sa participation dès que la tension menace la sécurité.
+
+**Exercice pratique**
+
+- Convenez avec votre équipe d’une phrase courte et d’une façon de vous éloigner.
+- Utilisez-la pour annoncer l’arrêt si la situation permet de le faire sans confrontation.
+- Gardez vos distances et laissez les autres choisir la suite, avec appel aux secours en cas de danger immédiat.
+
+Un retrait peut laisser un espace de sécurité et n’exige aucune participation de la personne exposée.
+
+### 3. Reprendre le déroulé après coup
+
+Faire évoluer le plan à partir d’une situation réelle.
+
+**Exercice pratique**
+
+- Notez quand vous avez commencé à sentir ou entendre un changement.
+- Décrivez ce que vous avez fait et ce qui a dû être laissé aux autres.
+- Reprenez ce déroulé avec votre équipe sans demander aux proches de le valider.
+
+Le soin peut utiliser votre observation et les proches gardent leur liberté de réponse.
 
 ## Le sac emporté du premier coup
 
 Une fois chez lui, Damien inscrit l’heure et le moment où il a senti ses bras changer. Il avait d’abord écrit « l’étagère n’est pas finie ». Il ajoute « je suis parti dès que j’ai eu envie de hausser le ton ». Leïla lui envoie le soir une photo des pots de graines sur les tablettes. Elle a terminé avec sa voisine et lui demande de laisser le prochain dimanche libre pour elle. Damien répond qu’il a compris. Il garde la photo dans le fil, à la date où elle l’a envoyée, sans chercher une nouvelle date pour bricoler ensemble.
+
+---
+
+**Conclusion**
+
+Damien laisse le panneau et repart. Leïla termine l’étagère selon son propre programme. La tension a été perceptible cette fois et le retrait a eu lieu avant une agression. Le détail des avant-bras donne un repère à reprendre avec l’équipe parmi d’autres.

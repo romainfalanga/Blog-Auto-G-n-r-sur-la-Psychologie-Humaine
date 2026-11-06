@@ -33,14 +33,79 @@ Quand il parle de nouveau, sa voix a déjà baissé. Il dit à Judith qu’il ne
 
 Dans le trouble explosif intermittent, des actes agressifs impulsifs surviennent par accès brefs et répétés, d’une intensité sans commune mesure avec la situation qui les précède. La question du créneau existe bel et bien. La force avec laquelle Damien s’en prend à Mireille et au matériel déborde ce qu’il était venu discuter. Son diagnostic a été établi à partir d’un ensemble de situations et de leurs conséquences sur la durée. Pour comprendre une autre personne, une scène comme celle-ci renseignerait d’abord sur l’agression et le besoin de protection.
 
-## Ce qui reste quand la voix redescend
+## Comment un désaccord peut-il être suivi d’un accès agressif disproportionné ?
 
-Damien retrouve vite un ton bas et cherche à expliquer son geste. Mireille a déjà quitté la pièce. Sa sortie, le recul de Judith et le pupitre endommagé donnent à voir des effets qui se prolongent au-delà de l’accès. Damien peut avoir été surpris par la rapidité du débordement et Mireille peut avoir peur de le revoir. Son sentiment à lui ne donne aucune mesure de ce qu’elle a éprouvé. Le fait qu’aucune personne n’ait été touchée ne retire rien au danger de la scène.
+### La réponse dépasse la question posée
 
-## Rendre la clé et laisser les sorties libres
+Un désaccord peut être réel et être suivi de paroles ou de gestes dont l’intensité déborde la situation.
 
-La discussion sur la salle s’arrête. Damien peut s’écarter et laisser Judith décider, pour elle-même, si elle accepte de récupérer la clé une fois les lieux dégagés. Mireille peut partir, demander un appui ou choisir à qui signaler les faits. Une personne menacée ou témoin d’un danger immédiat peut appeler les secours. En France, le 17 ou le 112 sont des recours. Plus tard, Damien pourra signaler lui-même les faits au bureau et en parler à l’équipe qui le suit. La remise de la clé sert d’abord à éviter une nouvelle rencontre imposée samedi.
+**Exemples concrets**
+
+- Mireille montre le créneau sur la feuille et propose de vérifier avec la mairie.
+- Damien l’interrompt, l’insulte et projette son pupitre sur les dalles.
+
+### Le danger concerne aussi les témoins
+
+Le comportement peut modifier ce que font les personnes présentes sans qu’elles aient besoin de connaître sa cause.
+
+**Exemples concrets**
+
+- Mireille recule et une femme prend son sac pour sortir avec elle.
+- Judith gagne le hall et dit à Damien de rester à distance.
+
+### La baisse de la voix ne règle pas les conséquences
+
+Un accès peut être bref et laisser un besoin de protection ou de changement d’organisation.
+
+**Exemples concrets**
+
+- Damien parle moins fort et le pied du pupitre reste tordu.
+- Judith informe le bureau et le créneau est suspendu alors que l’échange est terminé.
+
+## 3 techniques pour protéger les personnes et transmettre les faits après une agression
+
+### 1. S’éloigner et appeler si le danger est présent
+
+Permettre aux personnes menacées de se mettre à l’abri.
+
+**Exercice pratique**
+
+- Quittez les lieux ou gagnez un endroit sûr dès que vous le pouvez.
+- Appelez le 17 ou le 112 en France s’il y a un danger immédiat.
+- Suivez les indications des secours et restez à distance de la personne agressive.
+
+La sécurité peut être prise en charge sans attendre de comprendre pourquoi l’agression a eu lieu.
+
+### 2. Transmettre des faits après la mise en sécurité
+
+Donner au responsable de la salle de quoi agir sur l’organisation.
+
+**Exercice pratique**
+
+- Décrivez ce que vous avez vu ou entendu, en précisant le lieu et le moment.
+- Dites quels accès ou tâches demandent un relais, si vous le savez.
+- Laissez les personnes touchées choisir si elles souhaitent être entendues et par qui.
+
+Le responsable peut traiter les faits sans imposer une rencontre aux personnes concernées.
+
+### 3. Assumer les actes et solliciter l’équipe de soins
+
+Engager une suite sans demander de réponse à la personne agressée.
+
+**Exercice pratique**
+
+- Respectez la distance et les consignes données.
+- Rapportez les paroles et les gestes au responsable concerné sans les réduire au désaccord.
+- Contactez votre équipe de soins pour reprendre l’accès et ses conséquences.
+
+La protection et l’évaluation clinique peuvent avancer chacune dans son cadre.
 
 ## L’étiquette rouge sur la table
 
 Il laisse la clé sur la table et sort par la porte opposée au hall. Dans sa voiture, il attend que ses mains cessent de trembler avant de repartir. Il vient de taper « Dis à Mireille que » sur son téléphone. Il efface la ligne. Judith lui envoie un message quand elle a repris la clé. Après s’être assurée que les deux femmes sont parties ensemble, elle informe le bureau et suspend l’usage du créneau. Damien confirme au bureau qu’il a insulté Mireille et endommagé le pupitre. Il appelle ensuite le secrétariat de son équipe de soins pour demander un échange plus tôt que prévu. Il inscrit lui-même dans son agenda que samedi, il n’ouvrira pas.
+
+---
+
+**Conclusion**
+
+La clé revient au bureau, le créneau est suspendu et Damien demande un rendez-vous plus tôt. L’accès a duré moins longtemps que ses conséquences. Mireille peut garder la distance qu’elle choisit pendant que l’association et l’équipe de soins assument chacune leur rôle.

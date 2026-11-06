@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand un geste familier interrompt la suite",
-          "text": "Des mouvements répétés peuvent coexister avec l’attention portée à une activité et interrompre une partie de ce qu’on essaie de faire. Irène suit l’idée des pages en relief ; pendant quelques instants, il lui est difficile de prendre le feutre et de suivre l’ordre des consignes. Son équipe pédiatrique connaît depuis plusieurs années son trouble des mouvements stéréotypés. Les gestes reviennent sous une forme familière et, dans certaines situations, interrompent assez souvent ce qu’elle fait pour compliquer sa journée."
+          "heading": "Ce qu’un mouvement peut interrompre",
+          "text": "Des mouvements stéréotypés peuvent revenir sous une forme familière, souvent depuis l’enfance, et gêner certaines activités. Le trouble des mouvements stéréotypés se distingue des gestes répétés sans conséquence notable par son retentissement ou par un risque de blessure que les professionnels évaluent. Irène s’intéresse au livre en relief. Le mouvement retarde sa prise du feutre et, pendant ce temps, une partie de la consigne lui échappe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il existe aussi des mouvements répétés qui ne posent pas de problème. Pour comprendre les difficultés d’une personne, les professionnels regardent l’histoire de ces mouvements et leurs effets dans la vie ordinaire. Le mouvement que voit Mylène ne lui apprend pas ce qu’Irène a entendu ni ce qu’elle veut fabriquer."
+          "heading": "Comment un mouvement répété peut-il interrompre une action ordinaire ?",
+          "points": [
+            {
+              "heading": "La main n’est pas disponible au moment attendu",
+              "text": "Le geste peut retarder une manipulation, même quand la personne sait ce qu’elle veut faire.",
+              "examples": [
+                "Irène ne prend pas tout de suite le feutre tendu à la table d’inscription.",
+                "Un enfant attend de pouvoir prendre une pièce avant de la poser sur une maquette qu’il est en train de monter."
+              ]
+            },
+            {
+              "heading": "La situation avance pendant l’interruption",
+              "text": "Quand une consigne est donnée une seule fois, il peut manquer une information au moment de reprendre.",
+              "examples": [
+                "Quand Irène tient enfin le feutre, la file a avancé et deux colonnes se ressemblent.",
+                "Un participant reprend son crayon et découvre que les autres ont déjà noté l’étape suivante."
+              ]
+            },
+            {
+              "heading": "Le projet reste présent",
+              "text": "Le mouvement ne dit pas ce qui intéresse la personne ni quelle aide lui serait utile.",
+              "examples": [
+                "Irène a encore son idée des toits et veut seulement savoir où s’inscrire pour fabriquer les pages.",
+                "Un enfant suit un jeu malgré une pause dans ses gestes et demande à revoir la carte qui vient d’être retournée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Retrouver l’information qui manque",
-          "text": "L’aide proposée par Mylène peut rendre service à quelqu’un qui veut dicter son prénom. Ici, elle ferait gagner un peu de temps à la file et laisserait la question d’Irène sans réponse. Il suffit de revenir à ce que les colonnes demandent : quand aura lieu le premier essai, et avec qui souhaite-t-elle le faire ? Mylène peut montrer les deux horaires sur la feuille tout en les répétant. Irène pourra y revenir au moment de décider.\n\nLe croquis, lui, dit autre chose : il montre que l’histoire pourrait offrir deux chemins. Ilyès peut lui demander ce qu’elle veut qu’ils en fassent. Une personne reprend l’inscription, une autre parle du livre ; Irène peut répondre à chacune dans l’ordre qui lui convient."
+          "heading": "3 techniques pour reprendre une action interrompue par un mouvement",
+          "points": [
+            {
+              "heading": "Retrouver l’information manquante",
+              "objective": "Savoir quoi faire au moment où l’action redevient possible.",
+              "exercise": [
+                "Demandez quelle étape est à reprendre.",
+                "Faites montrer l’horaire ou l’objet concerné.",
+                "Laissez la personne choisir sa réponse."
+              ],
+              "benefit": "L’aide répond au point qui manque sans prendre en charge toute l’action."
+            },
+            {
+              "heading": "Laisser le matériel à portée",
+              "objective": "Éviter qu’une interruption fasse aussi perdre l’outil.",
+              "exercise": [
+                "Identifiez où poser le feutre ou la fiche.",
+                "Laissez cet emplacement libre pendant que la personne attend.",
+                "Demandez si elle souhaite reprendre elle-même."
+              ],
+              "benefit": "Elle peut retrouver le geste là où elle l’avait laissé."
+            },
+            {
+              "heading": "Décrire ce que le mouvement a changé",
+              "objective": "Donner un exemple utile si les interruptions gênent le quotidien.",
+              "exercise": [
+                "Notez l’activité et ce qui a continué pendant la pause.",
+                "Demandez à l’enfant ce qu’il veut pouvoir reprendre.",
+                "Parlez-en à son pédiatre si la gêne se répète ou si un risque apparaît."
+              ],
+              "benefit": "Le soutien peut viser la tâche et les conditions où l’interruption a un effet."
+            }
+          ]
         }
       ],
       "ending_title": "Un mardi écrit de sa main",
@@ -52,7 +108,8 @@
         "next": "Au premier essai, ils partiront de deux chemins, par les toits et par le canal ; la trousse verte reste à Irène."
       },
       "clinical_focus": "Retentissement des mouvements stéréotypés",
-      "clinical_intro": "Quand ses mains reprennent leur mouvement familier, Irène perd l’ordre des consignes en essayant de prendre le feutre. Dans le trouble des mouvements stéréotypés, les mouvements sont durables et gênent sensiblement le quotidien ou causent des blessures qui nécessitent une attention clinique. L’évaluation tient aussi compte des blessures qui surviendraient sans protection. L’épisode montre comment Irène retrouve l’information qui lui manque pour choisir son créneau."
+      "clinical_intro": "Quand ses mains reprennent leur mouvement familier, Irène perd l’ordre des consignes en essayant de prendre le feutre. Dans le trouble des mouvements stéréotypés, les mouvements sont durables et gênent sensiblement le quotidien ou causent des blessures qui nécessitent une attention clinique. L’évaluation tient aussi compte des blessures qui surviendraient sans protection. L’épisode montre comment Irène retrouve l’information qui lui manque pour choisir son créneau.",
+      "conclusion": "Irène repart avec un horaire choisi et son dessin dans la trousse. Le feutre n’était pas le seul enjeu : elle avait besoin de retrouver la consigne pour pouvoir s’en servir."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qui se perd entre deux pages",
-          "text": "La gêne liée à un mouvement répété dépend en partie de la tâche et des conditions dans lesquelles on la fait. Les mains d’Irène reprennent leur mouvement au cours de l’essai ; elle attend un instant pour saisir le papier."
+          "heading": "Quand les repères ont bougé pendant la pause",
+          "text": "Les effets d’un mouvement stéréotypé sur une activité dépendent aussi de ce qui change pendant l’interruption. Reprendre peut demander de retrouver à la fois l’objet et l’étape où l’on s’était arrêté. À la première table, les feuillets d’Irène circulent et l’ordre de la lecture se défait. Elle veut vérifier le raccord dans un espace où les brouillons pourront rester en place."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Quand elle peut le prendre, les pages ont changé de place et il lui manque une transition. Elle avait envie d’essayer le canal autant que les toits. Perdre deux fois le raccord ne lui donne aucune information fiable sur la valeur de l’idée.\n\nDe tels gestes peuvent apparaître dans des moments où l’on est très pris par ce qu’on fait. Leur présence ne dit pas que la tâche ennuie ou énerve. Ici, la frustration vient de la difficulté à retrouver l’endroit où le récit a changé de main. Elle augmente lorsque Ilyès propose de retirer une partie du livre."
+          "heading": "Comment l’organisation de la table change-t-elle la reprise ?",
+          "points": [
+            {
+              "heading": "Les pièces ne sont plus dans l’ordre attendu",
+              "text": "Un support déplacé pendant une pause peut rendre la transition difficile à retrouver.",
+              "examples": [
+                "Irène attrape le papier qui dépasse et commence par la place alors qu’Ilyès parlait des marches.",
+                "Un enfant reprend un jeu de cartes après que la pile a été tournée et ne reconnaît plus la carte suivante."
+              ]
+            },
+            {
+              "heading": "L’erreur peut être attribuée au mauvais élément",
+              "text": "Un essai confus peut faire croire que l’activité doit être simplifiée alors que le rangement des pièces y contribue.",
+              "examples": [
+                "Ilyès propose une seule route ; Irène veut garder les deux et vérifier la table d’abord.",
+                "Deux enfants envisagent d’abandonner une scène avant de constater que les pages de brouillon ont été mélangées."
+              ]
+            },
+            {
+              "heading": "Un repère stable peut suffire pour reprendre",
+              "text": "Retrouver le point de passage donne parfois le temps d’achever la manipulation prévue.",
+              "examples": [
+                "À la table du fond, Irène garde un doigt au pied des marches jusqu’à pouvoir tourner le feuillet.",
+                "Un enfant reprend un assemblage en retrouvant le numéro qu’il a laissé visible à côté de la pièce."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire un essai qui renseigne",
-          "text": "Pour décider s’il faut simplifier l’histoire, le duo peut d’abord comparer deux façons de disposer les mêmes pages. Mylène connaît une table disponible au fond ; ils peuvent y laisser le plan à plat, fixer une place pour les brouillons et dégager un coin pour la trousse. Il n’est pas nécessaire qu’Irène prête ses feutres ni que le plan passe de main en main à chaque phrase.\n\nEnsuite, ils relisent un seul raccord. S’ils se perdent encore, ils sauront quel passage revoir. S’ils le retrouvent, il restera à essayer l’autre chemin. Cette façon de faire laisse ouverte la question du livre. Pour Irène, elle rend aussi possible une demande précise : qu’un feuillet reste là où elle s’apprête à le prendre."
+          "heading": "3 techniques pour garder un raccord facile à retrouver",
+          "points": [
+            {
+              "heading": "Réserver une place aux pièces en cours",
+              "objective": "Empêcher que le matériel change d’ordre au milieu de l’action.",
+              "exercise": [
+                "Repérez les pages qui doivent rester côte à côte.",
+                "Dégagez une zone où chacun peut les laisser.",
+                "Convenez de ne les déplacer qu’après avoir prévenu."
+              ],
+              "benefit": "Le feuillet à reprendre reste à l’endroit prévu."
+            },
+            {
+              "heading": "Marquer la transition",
+              "objective": "Savoir de quelle image à quelle image on passait.",
+              "exercise": [
+                "Montrez le dernier détail lu.",
+                "Laissez un doigt, un signet ou une note à cet endroit si la personne le souhaite.",
+                "Reprenez au même point après la pause."
+              ],
+              "benefit": "Un indice visible peut éviter de reconstruire toute la suite."
+            },
+            {
+              "heading": "Tester la disposition avant de changer le projet",
+              "objective": "Vérifier si l’obstacle vient de la présentation ou de l’idée.",
+              "exercise": [
+                "Changez l’emplacement ou l’ordre des supports.",
+                "Refaites le même passage.",
+                "Décidez ensuite ensemble si l’histoire ou la consigne doit changer."
+              ],
+              "benefit": "L’essai permet de juger le raccord dans des conditions plus stables."
+            }
+          ]
         }
       ],
       "ending_title": "Le plan à portée des deux",
@@ -97,7 +210,8 @@
         "next": "Le raccord du canal est lisible à la table du fond ; Irène emporte le plan au collège pour en faire une copie."
       },
       "clinical_focus": "Reprise d’une activité interrompue",
-      "clinical_intro": "Les mains d’Irène bougent au moment de reprendre un feuillet. Quand elle peut le saisir, les deux pages ont changé de place et elle perd la transition. Les effets d’un mouvement répété dépendent aussi de ce qui se passe pendant l’interruption. Irène s’agace à l’idée qu’on retire le canal de l’histoire alors qu’une disposition plus stable lui permettrait de vérifier le raccord."
+      "clinical_intro": "Les mains d’Irène bougent au moment de reprendre un feuillet. Quand elle peut le saisir, les deux pages ont changé de place et elle perd la transition. Les effets d’un mouvement répété dépendent aussi de ce qui se passe pendant l’interruption. Irène s’agace à l’idée qu’on retire le canal de l’histoire alors qu’une disposition plus stable lui permettrait de vérifier le raccord.",
+      "conclusion": "À la table du fond, les marches ramènent bien à la place. Irène et Ilyès gardent les deux routes et peuvent poursuivre le dessin. Ils demanderont le même emplacement pour le prochain essai."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une scène dont les autres changent le sens",
-          "text": "Les mouvements stéréotypés peuvent survenir au milieu d’un échange qui se passe bien. Ils accompagnent ici le moment où Irène montre à Aya ce qu’on peut découvrir sous les maisons. C’est après l’imitation de Quentin qu’elle s’inquiète d’être observée et envisage de partir. Deux difficultés se succèdent : un geste détourne Irène un moment de son feutre, puis la réaction des autres rend la conversation pénible. On peut répondre à la seconde en agissant sur ce qui s’est passé entre les élèves."
+          "heading": "Le regard change quand quelqu’un se moque",
+          "text": "Les conséquences sociales de mouvements stéréotypés peuvent tenir à la réaction des autres autant qu’à l’interruption du geste. Une imitation moqueuse peut interrompre un échange qui aurait pu reprendre. Quentin attire les regards sur les mains d’Irène. L’adulte peut faire cesser cette réaction et demander à Irène ce qu’elle veut encore faire de sa copie."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le trouble d’Irène n’explique pas ce que ses camarades font. Le règlement de la situation ne demande pas non plus qu’elle prenne la parole pour expliquer ses gestes. Mme Hamadi a vu l’imitation et peut y mettre fin. Si cela recommence, elle peut reprendre la situation avec l’équipe du collège, en tenant Irène au courant."
+          "heading": "Comment la moquerie peut-elle changer la suite d’un échange ?",
+          "points": [
+            {
+              "heading": "Le mouvement et la moquerie ont des effets distincts",
+              "text": "La manipulation peut attendre quelques secondes ; une remarque peut donner une autre raison de vouloir partir.",
+              "examples": [
+                "Irène peut reprendre son feutre quand Quentin a déjà imité ses mains.",
+                "Un élève s’arrête un instant pendant un jeu puis se retire lorsque d’autres rient de son geste."
+              ]
+            },
+            {
+              "heading": "L’attention passe du projet aux regards",
+              "text": "Quand d’autres se retournent, l’enfant peut chercher à éviter une nouvelle remarque plutôt qu’à poursuivre sa question.",
+              "examples": [
+                "Irène pense à la sortie au lieu de demander à Aya de suivre le canal.",
+                "Une personne range un dessin qu’elle voulait montrer après qu’un camarade a attiré tout le groupe autour d’elle."
+              ]
+            },
+            {
+              "heading": "Une intervention laisse encore un choix",
+              "text": "Faire cesser la moquerie rend à la personne la possibilité de continuer, de rester à l’écart ou de partir.",
+              "examples": [
+                "Mme Hamadi arrête Quentin et demande à Irène ce qu’elle veut faire de la copie.",
+                "Un adulte intervient et propose à l’élève de finir à deux ou de revenir à un autre moment."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir à qui montrer le chemin",
-          "text": "Après l’intervention de Mme Hamadi, Irène peut ranger son dessin, en parler avec elle ou reprendre sa question à Aya. La possibilité de partir compte même si elle décide de rester. Aya peut poser sa question là où elle l’avait laissée et attendre la réponse. Il n’y a aucune raison qu’elle promette de faire comme si rien ne s’était passé ; elle peut simplement demander si Irène veut encore son avis sur la page.\n\nLa copie sert à tester le tracé. Si quelqu’un hésite devant les deux départs, Irène et Ilyès sauront peut-être où épaissir les traits. Un seul essai, avec une lectrice qu’Irène choisit, peut suffire pour aujourd’hui. Les autres élèves n’ont besoin ni de l’original ni d’une explication personnelle."
+          "heading": "3 techniques pour soutenir quelqu’un après une moquerie",
+          "points": [
+            {
+              "heading": "Faire cesser le comportement",
+              "objective": "Redonner un cadre dans lequel l’enfant peut décider de la suite.",
+              "exercise": [
+                "Interrompez la remarque ou l’imitation clairement.",
+                "Demandez à l’adulte responsable de prendre le relais s’il n’est pas déjà présent.",
+                "Évitez de demander à l’enfant d’expliquer ses mouvements devant le groupe."
+              ],
+              "benefit": "L’intervention vise ce qui s’est passé sans ajouter une exposition."
+            },
+            {
+              "heading": "Proposer une suite choisie",
+              "objective": "Laisser l’activité possible même si le groupe ne convient plus.",
+              "exercise": [
+                "Demandez ce que la personne voulait faire avant la remarque.",
+                "Proposez de reprendre avec une personne, plus tard, ou de s’arrêter.",
+                "Respectez sa réponse et confirmez ce qui reste possible."
+              ],
+              "benefit": "La personne garde une décision sur le projet et sur le moment du départ."
+            },
+            {
+              "heading": "Nommer un adulte à qui reparler",
+              "objective": "Prévoir un appui si l’inquiétude persiste ou si la scène se répète.",
+              "exercise": [
+                "Choisissez avec l’enfant un adulte de confiance au collège ou ailleurs.",
+                "Décrivez où et comment il peut le trouver.",
+                "Si le problème se répète, reprenez avec l’adulte les faits et l’aide souhaitée."
+              ],
+              "benefit": "L’enfant sait où s’adresser sans avoir à régler seul la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Aya suit la marche bleue",
@@ -142,7 +312,8 @@
         "next": "Elle rapporte à Ilyès l’endroit où Aya a pris le passage pour une impasse. Aya attend une invitation quand le livre tiendra debout."
       },
       "clinical_focus": "Appréhension du regard après une moquerie",
-      "clinical_intro": "Irène montre son plan à Aya quand Quentin imite ses mouvements. Elle regarde la sortie et ne pense plus à la question qu’elle voulait poser. Le mouvement avait momentanément interrompu son geste, tandis que la moquerie lui donne envie de se retirer. Comprendre ces deux formes de retentissement aide l’adulte à faire cesser l’imitation et à laisser Irène décider si elle souhaite poursuivre l’échange."
+      "clinical_intro": "Irène montre son plan à Aya quand Quentin imite ses mouvements. Elle regarde la sortie et ne pense plus à la question qu’elle voulait poser. Le mouvement avait momentanément interrompu son geste, tandis que la moquerie lui donne envie de se retirer. Comprendre ces deux formes de retentissement aide l’adulte à faire cesser l’imitation et à laisser Irène décider si elle souhaite poursuivre l’échange.",
+      "conclusion": "Aya suit la marche bleue à deux avec Irène, et Mme Hamadi prépare la copie demandée. La reprise est possible, puis Irène choisit de partir. Le livre pourra être montré à Aya une autre fois."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Distinguer la gêne vécue du geste remarqué",
-          "text": "Un mouvement répété peut entraver une activité à un moment et accompagner une autre activité sans la gêner. Sur le canapé, Irène peut reprendre sa page au moment voulu. Au premier essai de l’atelier, les pages circulaient et elle perdait le raccord avant de pouvoir reprendre. Ces deux observations sont utiles ensemble. Une remarque sur ses mains attire son attention sur un événement qui, à ce moment-là, n’est pas son problème.\n\nCertaines personnes trouvent des mouvements familiers agréables ou apaisants ; d’autres les trouvent gênants à certains moments."
+          "heading": "Un mouvement visible ne dit pas si la personne est gênée",
+          "text": "Les mouvements stéréotypés peuvent accompagner une activité sans l’interrompre ou gêner une action précise selon la situation. Leur visibilité ne suffit pas à connaître la gêne vécue, et un risque physique éventuel se regarde séparément. Irène peut reprendre son livre au rythme qu’elle choisit sur le canapé. Quand son père commente ses mains, la remarque lui fait perdre le fil qu’elle avait gardé."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Irène dit ce qui vaut pour elle sur ce canapé. Son père peut aussi dire ce qui l’a inquiété dans ce qu’Irène lui a raconté de l’atelier. Ils pourront comparer leurs observations et garder la possibilité d’en parler avec l’équipe pédiatrique si la difficulté change."
+          "heading": "Comment distinguer le mouvement visible de la gêne vécue ?",
+          "points": [
+            {
+              "heading": "Le mouvement peut accompagner une activité",
+              "text": "L’enfant peut continuer à écouter ou savoir où reprendre malgré le mouvement.",
+              "examples": [
+                "Irène avait retrouvé exprès la page de l’escalier sur le canapé.",
+                "Un enfant écoute une histoire et sait encore ce qui se passe lorsque ses mains bougent."
+              ]
+            },
+            {
+              "heading": "L’observation du proche peut devenir une interruption",
+              "text": "Un commentaire bien intentionné peut détourner l’attention de ce que la personne faisait.",
+              "examples": [
+                "Irène pense aux remarques répétées de son père au lieu de regarder l’escalier.",
+                "Un adulte signale un geste pendant un dessin ; l’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place."
+              ]
+            },
+            {
+              "heading": "Le besoin peut être décrit sans viser le geste lui-même",
+              "text": "Une personne peut vouloir un appui à un endroit et aucun commentaire ailleurs.",
+              "examples": [
+                "Irène note qu’à la petite table il faut garder le raccord visible.",
+                "Un enfant demande qu’on lui montre la dernière pièce utilisée si elle a été déplacée, et poursuit autrement sans aide."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à ce que la personne essaie de faire",
-          "text": "Au lieu de rappeler chaque mouvement, le père d’Irène peut attendre qu’elle dise ce qu’elle veut reprendre. Si elle lui demande la page, il peut la montrer. Si elle a perdu un bout de phrase, il peut reprendre ce bout-là. Quand elle lit pour elle-même et que tout se passe bien, il peut continuer à inventer sa définition ou s’occuper du repas.\n\nIrène voudrait garder en mémoire les fois où elle a besoin de quelque chose. Un mot près d’un croquis suffit si elle souhaite en reparler. Elle peut y mettre ce qui lui a manqué, par exemple « deuxième page introuvable », et ce qui a été utile. Ils conviennent que ce papier lui appartient ; il n’a pas à servir à compter ses gestes."
+          "heading": "3 techniques pour vérifier si une aide est souhaitée",
+          "points": [
+            {
+              "heading": "Poser une question sur l’activité",
+              "objective": "Comprendre ce que la personne cherche à faire.",
+              "exercise": [
+                "Attendez un moment où la question ne coupe pas son geste en cours.",
+                "Demandez si elle a perdu sa place ou veut un indice.",
+                "Laissez-la répondre qu’elle n’a pas besoin d’aide."
+              ],
+              "benefit": "La réponse renseigne sur l’activité et sur l’appui qui lui serait utile."
+            },
+            {
+              "heading": "S’accorder sur une reprise demandée",
+              "objective": "Pouvoir aider sans commenter chaque mouvement.",
+              "exercise": [
+                "Identifiez un mot ou un geste par lequel l’enfant peut demander de reprendre.",
+                "Convenez de ce que l’adulte fera dans ce cas.",
+                "Laissez passer les mouvements sans gêne ni danger lorsque rien n’est demandé."
+              ],
+              "benefit": "Le proche peut intervenir quand il est utile plutôt que détourner l’attention à chaque fois."
+            },
+            {
+              "heading": "Garder des exemples de contextes différents",
+              "objective": "Décrire les besoins sans se fier à la seule fréquence des mouvements.",
+              "exercise": [
+                "Repérez une activité qui se poursuit et une autre où la reprise est difficile.",
+                "Dites ce qui diffère entre les deux cadres.",
+                "Parlez-en à l’équipe si la gêne devient importante ou si un risque apparaît."
+              ],
+              "benefit": "Le suivi peut distinguer le geste, son effet et l’aide souhaitée."
+            }
+          ]
         }
       ],
       "ending_title": "Une définition au verso",
@@ -187,7 +414,8 @@
         "next": "Irène garde sa note sur la table et les raccords ; son père connaît sa préférence et reste son relais pour une difficulté nouvelle."
       },
       "clinical_focus": "Gêne vécue et mouvement visible",
-      "clinical_intro": "Le père d’Irène signale un mouvement de ses mains alors qu’elle feuillette un livre qu’elle peut reprendre à son rythme. Irène se sent surveillée et pense davantage aux remarques qu’à l’escalier qu’elle regardait. Des mouvements stéréotypés peuvent gêner une activité dans un contexte et accompagner une autre activité sans l’entraver. Demander à Irène ce qu’elle souhaite reprendre aide à situer le besoin réel."
+      "clinical_intro": "Le père d’Irène signale un mouvement de ses mains alors qu’elle feuillette un livre qu’elle peut reprendre à son rythme. Irène se sent surveillée et pense davantage aux remarques qu’à l’escalier qu’elle regardait. Des mouvements stéréotypés peuvent gêner une activité dans un contexte et accompagner une autre activité sans l’entraver. Demander à Irène ce qu’elle souhaite reprendre aide à situer le besoin réel.",
+      "conclusion": "Irène note le raccord à garder visible et n’ajoute rien sur le canapé. Quand elle rappelle à son père la sortie du rond-point, ils trouvent une manière ordinaire de reprendre le fil à la demande."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une douleur mérite d’être entendue",
-          "text": "Quand un mouvement répété s’accompagne d’un heurt ou d’une douleur, les adultes doivent prendre au sérieux ce qui vient de se passer. Le geste familier d’Irène ne permet pas de juger de la douleur ni de l’éventuelle blessure. Ici, une situation de travail s’est resserrée sans que les deux collégiens en parlent."
+          "heading": "La douleur change ce qui doit être fait d’abord",
+          "text": "Lorsqu’un mouvement répété entraîne un heurt, il faut prendre en compte la douleur et le contexte matériel. Un heurt isolé ne suffit pas à classer un trouble des mouvements stéréotypés ni à expliquer la cause d’un geste. À la médiathèque, un chariot a réduit l’espace autour de la table. Irène dit qu’elle s’est fait mal et les adultes suspendent l’activité pour organiser le relais."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Irène a le droit de signaler ce qui lui fait mal et de demander une pause, même si elle aimerait finir sa page.\n\nLa CIM-11 distingue notamment les présentations où les mouvements causent des blessures qui nécessitent une attention clinique propre. Un heurt dans un passage encombré ne permet pas d’attribuer cette catégorie. L’équipe pédiatrique pourra évaluer l’événement et décider de ce qui demande un suivi. Le rôle de Mylène est de s’occuper du lieu, d’écouter Irène et de passer le relais."
+          "heading": "Comment le risque de blessure devient-il visible dans une situation ?",
+          "points": [
+            {
+              "heading": "L’espace a changé pendant l’activité",
+              "text": "Un objet laissé près du poste peut réduire la place disponible pour bouger ou reprendre un outil.",
+              "examples": [
+                "Un chariot s’ajoute dans le passage où Irène travaille.",
+                "Une chaise déplacée rapproche la main d’un angle de meuble au milieu d’une activité jusque-là dégagée."
+              ]
+            },
+            {
+              "heading": "La douleur peut rester difficile à signaler",
+              "text": "Un enfant peut craindre de perdre sa place dans le groupe s’il dit qu’il s’est fait mal.",
+              "examples": [
+                "Irène hésite à prévenir Mylène parce qu’elle ne veut pas que le livre soit arrêté.",
+                "Une personne dit qu’elle veut finir son dessin et hésite encore à montrer où elle s’est cognée."
+              ]
+            },
+            {
+              "heading": "Un adulte peut prendre le relais sans décider du projet",
+              "text": "Écarter le risque immédiat et demander un avis de soins peut se faire pendant que le travail est mis de côté.",
+              "examples": [
+                "Mylène interrompt l’atelier à la table et le père d’Irène appelle l’équipe pédiatrique.",
+                "Un responsable dégage le poste, informe l’adulte référent et conserve le travail pour plus tard."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Interrompre cette séance et garder le projet en vue",
-          "text": "Aujourd’hui, personne n’a besoin de vérifier ce qui se passerait en remettant le chariot au même endroit. La médiathèque peut ranger les feuillets et réserver pour la suite un emplacement dégagé des allées de service. Irène doit pouvoir dire si elle s’y sent assez à l’aise pour travailler, sans avoir à tester ses mouvements devant les autres. Son père peut contacter l’équipe pédiatrique pour savoir ce qu’il convient de faire après le heurt.\n\nIlyès peut aussi s’occuper d’une chose précise qu’Irène lui confie : laisser sécher l’encre de la fenêtre et préserver le pli qu’ils viennent de décider. C’est une façon de rester partenaire pendant une interruption. Leur travail d’aujourd’hui peut s’arrêter avec une décision de lecture encore intacte."
+          "heading": "3 techniques pour passer le relais en cas de heurt ou de douleur",
+          "points": [
+            {
+              "heading": "Mettre l’activité en pause et prévenir",
+              "objective": "Permettre une réponse immédiate à la douleur et à la situation.",
+              "exercise": [
+                "Prévenez l’adulte présent dès le heurt ou la douleur.",
+                "Dites où vous vous êtes cogné et montrez ce qui encombre le passage.",
+                "Laissez l’adulte sécuriser le lieu et organiser le relais adapté."
+              ],
+              "benefit": "La douleur et le risque sont pris en compte avant de reprendre le projet."
+            },
+            {
+              "heading": "Décrire les faits au professionnel",
+              "objective": "Donner les éléments utiles pour demander un avis de santé.",
+              "exercise": [
+                "Précisez ce qui s’est passé et où la douleur se situe.",
+                "Demandez immédiatement une aide médicale urgente si la situation paraît grave ; suivez les indications du professionnel.",
+                "Revenez avec l’équipe sur les conditions de l’activité avant de reprendre si le risque persiste."
+              ],
+              "benefit": "L’évaluation et la réponse médicale restent du ressort des soignants."
+            },
+            {
+              "heading": "Mettre le travail en suspens",
+              "objective": "Laisser ouverte la suite du projet sans retarder la prise en charge.",
+              "exercise": [
+                "Si la situation le permet, dites quel élément doit rester en place ou être rangé.",
+                "Confiez le matériel à la personne disponible.",
+                "Revenez sur les conditions de reprise après le relais de sécurité."
+              ],
+              "benefit": "Le travail peut attendre et l’enfant peut signaler une douleur sans devoir régler le reste."
+            }
+          ]
         }
       ],
       "ending_title": "La fenêtre reste allumée",
@@ -233,7 +517,8 @@
         "next": "Le père appelle l’équipe pédiatrique ; un rendez-vous est fixé. Mylène cherche un autre emplacement et garde les deux chemins."
       },
       "clinical_focus": "Risque de blessure en contexte",
-      "clinical_intro": "Au moment où ses mains reprennent leur mouvement, Irène se cogne l’avant-bras contre un chariot. Elle hésite à parler de la douleur par crainte de devoir abandonner l’atelier. Le risque de blessure fait partie de ce qu’évalue l’équipe soignante dans un trouble des mouvements stéréotypés. Ici, l’adulte peut interrompre la tâche et passer le relais pendant que le groupe garde le projet en suspens."
+      "clinical_intro": "Au moment où ses mains reprennent leur mouvement, Irène se cogne l’avant-bras contre un chariot. Elle hésite à parler de la douleur par crainte de devoir abandonner l’atelier. Le risque de blessure fait partie de ce qu’évalue l’équipe soignante dans un trouble des mouvements stéréotypés. Ici, l’adulte peut interrompre la tâche et passer le relais pendant que le groupe garde le projet en suspens.",
+      "conclusion": "La page du canal reste ouverte et le père d’Irène appelle l’équipe. La réponse pour son bras vient des soignants. La suite du livre pourra se discuter quand la sécurité de la table aura été revue."
     },
     {
       "number": 6,
@@ -250,18 +535,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Parler de la sécurité et de la lecture",
-          "text": "Les besoins de sécurité et les difficultés à poursuivre une activité s’évaluent à partir de situations concrètes. Avec Irène, la pédiatre reprend ce qui s’est passé près du chariot et ce qui l’aide à travailler dans un espace dégagé. Elle demande aussi ce que les mouvements interrompent quand aucun obstacle n’est proche. La douleur et les raccords perdus ne réclament pas la même réponse."
+          "heading": "Le suivi examine la sécurité et les activités séparément",
+          "text": "L’évaluation du trouble des mouvements stéréotypés tient compte des blessures ou du risque de blessure, et de ce que les mouvements changent dans les activités quotidiennes. Ces éléments peuvent varier selon le lieu. Irène montre à sa pédiatre où elle s’est cognée et raconte aussi comment elle suit une lecture. La consultation peut distinguer les aménagements utiles et les informations à transmettre à l’atelier."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Sur le canapé, Irène décrit même une lecture qu’elle a pu continuer sans demander d’aide.\n\nSi certains mouvements deviennent douloureux, la mettent en danger ou entravent durablement une activité importante pour elle, l’équipe pourra réévaluer le soutien avec elle et ses responsables. Certaines approches comportementales peuvent être discutées avec un professionnel selon le besoin. Le projet de lecture, lui, n’a pas à attendre une décision de traitement pour retrouver une place praticable."
+          "heading": "Comment le retentissement se décrit-il en consultation ?",
+          "points": [
+            {
+              "heading": "La configuration du lieu éclaire le heurt",
+              "text": "Situer le risque aide à discuter d’un changement de l’environnement.",
+              "examples": [
+                "Irène dessine la table, le chariot et la faible largeur du passage.",
+                "Un enfant montre quel meuble a été rapproché du poste de travail avant le choc."
+              ]
+            },
+            {
+              "heading": "La participation a d’autres points de comparaison",
+              "text": "Certaines activités continuent sans gêne, tandis qu’une autre demande une reprise au bon endroit.",
+              "examples": [
+                "Irène peut écouter pendant le mouvement et perd parfois sa place lorsque la page avance.",
+                "Un jeune suit une vidéo à son rythme chez lui et manque une étape quand tout le groupe change de support."
+              ]
+            },
+            {
+              "heading": "Les personnes sur place ont besoin d’indications pratiques",
+              "text": "La consultation peut aider à définir quoi faire à l’atelier sans transmettre tout le récit personnel.",
+              "examples": [
+                "Irène souhaite une table dégagée et veut garder sa note dans son cahier.",
+                "Un enfant autorise le partage d’un repère pour reprendre une consigne et garde pour le cabinet ce qu’il ressent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une information utile à la bonne personne",
-          "text": "Pour réinstaller l’atelier, Mylène a surtout besoin de savoir qu’il faut garder une place dégagée autour du poste et laisser un repère à l’endroit où Irène reprend. Elle peut aussi savoir à qui parler si une douleur ou un risque réapparaît. Le père et Irène peuvent formuler cela ensemble avec la pédiatre. Ils peuvent distinguer ce qu’ils décident de dire pour organiser l’activité et ce qui reste dans le cabinet.\n\nLa question d’Irène, « Tout ? », leur permet de relire ce qu’ils s’apprêtaient à partager. La note qu’elle a écrite à la maison peut servir à la conversation clinique sans devenir une pièce jointe. Elle peut dire les mots qu’elle préfère employer, même si c’est son père qui transmet l’accord pratique à Mylène."
+          "heading": "3 techniques pour préparer un point de suivi sur les mouvements",
+          "points": [
+            {
+              "heading": "Apporter un plan ou une description du lieu",
+              "objective": "Donner un contexte à un risque que les soignants n’ont pas observé.",
+              "exercise": [
+                "Montrez où se trouvaient les meubles et le matériel.",
+                "Décrivez quand le heurt ou la douleur est apparu.",
+                "Demandez à l’équipe quelles conditions vérifier pour reprendre."
+              ],
+              "benefit": "L’aménagement se discute sur une scène précise plutôt que sur le seul geste."
+            },
+            {
+              "heading": "Comparer deux activités",
+              "objective": "Montrer à quel moment un mouvement a un effet sur la participation.",
+              "exercise": [
+                "Choisissez une activité où vous avez pu continuer.",
+                "Décrivez une autre où vous avez perdu le fil ou eu besoin d’aide.",
+                "Expliquez ce qui s’est passé autour de vous pendant l’interruption."
+              ],
+              "benefit": "L’équipe peut distinguer une gêne à prendre en compte d’un mouvement sans effet important dans ce cadre."
+            },
+            {
+              "heading": "Décider qui doit savoir quoi",
+              "objective": "Donner aux adultes ce qu’il leur faut pour aider et agir en cas de difficulté.",
+              "exercise": [
+                "Choisissez avec l’enfant et l’équipe les consignes pratiques à transmettre.",
+                "Convenez de qui prévenir si une douleur ou un heurt survient.",
+                "Gardez les éléments personnels dans le cadre où l’enfant souhaite les partager."
+              ],
+              "benefit": "La médiathèque connaît son rôle et l’enfant garde une place dans ce qui est transmis."
+            }
+          ]
         }
       ],
       "ending_title": "La note reste dans le cahier",
@@ -279,7 +620,8 @@
         "next": "Mylène reçoit les besoins d’espace et de reprise par le père. Les deux lecteurs peuvent tester un poste stable hors du passage."
       },
       "clinical_focus": "Évaluation du retentissement quotidien",
-      "clinical_intro": "Irène dessine le passage étroit où elle s’est cognée. Elle raconte aussi les moments où elle peut écouter malgré le mouvement, et ceux où la page change avant qu’elle ait repris. Ces observations distinguent les conditions de sécurité et les difficultés de participation. Avec sa pédiatre et son père, elle décide des indications pratiques à transmettre pour l’atelier et garde sa note personnelle."
+      "clinical_intro": "Irène dessine le passage étroit où elle s’est cognée. Elle raconte aussi les moments où elle peut écouter malgré le mouvement, et ceux où la page change avant qu’elle ait repris. Ces observations distinguent les conditions de sécurité et les difficultés de participation. Avec sa pédiatre et son père, elle décide des indications pratiques à transmettre pour l’atelier et garde sa note personnelle.",
+      "conclusion": "Irène montre la ligne qu’elle veut partager, puis remet la note dans son cahier. Mylène pourra préparer une table dégagée et saura quand prévenir son père. La pédiatre fera le point après le projet."
     },
     {
       "number": 7,
@@ -296,18 +638,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Le temps de répondre à la question posée",
-          "text": "Un aménagement peut aider à poursuivre un échange même quand des mouvements répétés sont présents. Sur cette table, Irène a de l’espace et la flèche et son papier restent à portée de main. Ilyès lui laisse le temps de reprendre le feutre. Son avis sur les flèches peut entrer dans la discussion. Le mouvement lui-même ne renseigne pas sur la solidité de cet avis, ni sur la quantité d’aide qu’elle souhaite."
+          "heading": "Le tour de parole peut rester ouvert",
+          "text": "Un mouvement stéréotypé peut retarder une réponse alors que la personne a déjà un avis. Laisser du temps et garder le support en place peut lui permettre de reprendre le même échange. À la table du conte, Ilyès attend devant la flèche plutôt que de passer à la décision suivante. Irène retrouve son feutre et l’objection qu’elle voulait expliquer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Il y a une semaine, l’espace autour de la table posait une question de sécurité. Cette fois, la pièce permet surtout de travailler et de revenir à ce qu’on regardait. Les conditions favorables se jugent par ce qu’elles rendent possible pour les deux lecteurs. Il restera à voir comment ils s’en sortent lorsque d’autres personnes attendent de tourner les pages."
+          "heading": "Comment une discussion peut-elle rester ouverte pendant une interruption ?",
+          "points": [
+            {
+              "heading": "La pause ne signifie pas que la personne est d’accord",
+              "text": "Un délai avant de répondre ne renseigne pas sur l’avis qui sera donné.",
+              "examples": [
+                "Irène veut encore discuter du nombre de flèches pendant que ses mains bougent.",
+                "Un enfant met du temps à reprendre le crayon et tient toujours à montrer pourquoi il veut déplacer une image."
+              ]
+            },
+            {
+              "heading": "Le support conserve la question posée",
+              "text": "Garder l’objet du désaccord visible aide à revenir au sujet sans en ouvrir un autre.",
+              "examples": [
+                "Ilyès laisse la flèche sur la table, près de la trousse.",
+                "Une personne laisse deux variantes visibles pendant que son binôme attend de pouvoir reprendre."
+              ]
+            },
+            {
+              "heading": "L’avis peut mener à un essai plutôt qu’à un verdict",
+              "text": "Donner le temps de répondre peut faire apparaître une manière de comparer les propositions.",
+              "examples": [
+                "Irène dessine deux versions et demande à Ilyès de les essayer.",
+                "Deux participants testent chacun un pli avant de décider lequel convient à la lecture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer l’entrée du chemin à découvrir",
-          "text": "Ilyès veut qu’un visiteur puisse trouver la première page. Irène veut lui laisser la possibilité d’aller regarder derrière une marche. Ils peuvent tester une version où l’entrée est indiquée et où les passages suivants se découvrent en ouvrant les plis. Pour l’essai, chacun observe un détail : à quel moment on sait comment commencer, et à quel moment on a envie de chercher.\n\nMylène peut tenir les exemplaires et demander ce qu’ils essaient. Elle n’a pas besoin de choisir qui a raison à partir de celui qui répond le plus vite. Si le choix s’avère difficile pour un lecteur invité, les deux auteurs auront quelque chose à retravailler ensemble. La deuxième version n’a pas à effacer d’avance tout ce qui étonne."
+          "heading": "3 techniques pour préserver un tour de parole",
+          "points": [
+            {
+              "heading": "Laisser la question en suspens",
+              "objective": "Donner le temps de reprendre sans interpréter le silence.",
+              "exercise": [
+                "Gardez le matériel à la même place.",
+                "Attendez que la personne vous fasse signe ou reprenne son geste.",
+                "Redites la question brièvement si elle le souhaite."
+              ],
+              "benefit": "Le temps laissé évite de transformer une interruption en accord supposé."
+            },
+            {
+              "heading": "Proposer un moyen de montrer son idée",
+              "objective": "Donner une autre forme à un avis qui demande du temps à formuler.",
+              "exercise": [
+                "Demandez si la personne veut expliquer, dessiner ou montrer.",
+                "Laissez-lui le support qu’elle choisit.",
+                "Faites-lui préciser ce qu’elle aimerait comparer."
+              ],
+              "benefit": "L’avis peut entrer dans le travail commun sous une forme qui lui convient."
+            },
+            {
+              "heading": "Décider après avoir essayé les deux options",
+              "objective": "Donner une suite concrète au désaccord.",
+              "exercise": [
+                "Identifiez les variantes que chacun veut défendre.",
+                "Essayez-les dans les mêmes conditions.",
+                "Dites ensemble ce que vous retenez et ce qui reste ouvert."
+              ],
+              "benefit": "La décision repose sur les essais plutôt que sur la rapidité avec laquelle chacun a répondu."
+            }
+          ]
         }
       ],
       "ending_title": "Deux entrées et une fenêtre à trouver",
@@ -324,7 +722,8 @@
         "next": "Le livre a deux entrées lisibles ; Aya est invitée à le tester vendredi dans la salle du conte."
       },
       "clinical_focus": "Prise de parole après une interruption",
-      "clinical_intro": "Pendant que les mains d’Irène bougent, Ilyès laisse la flèche à la même place et attend sa réponse. Elle retrouve le feutre et peut expliquer pourquoi elle veut laisser un passage à découvrir. Quand un mouvement répété retarde une réponse, l’effet sur la discussion dépend aussi du temps laissé par les autres. Irène a une possibilité de défendre son idée dans le désaccord."
+      "clinical_intro": "Pendant que les mains d’Irène bougent, Ilyès laisse la flèche à la même place et attend sa réponse. Elle retrouve le feutre et peut expliquer pourquoi elle veut laisser un passage à découvrir. Quand un mouvement répété retarde une réponse, l’effet sur la discussion dépend aussi du temps laissé par les autres. Irène a une possibilité de défendre son idée dans le désaccord.",
+      "conclusion": "Le temps laissé par Ilyès permet à Irène de remettre son idée sur la table. Ils gardent deux flèches et une fenêtre à trouver. Le prochain essai leur dira ce qu’Aya en comprend."
     },
     {
       "number": 8,
@@ -341,18 +740,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un essai utile peut encore être difficile",
-          "text": "Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité. Le livre et les feutres d’Irène sont accessibles. Cette fois, la lectrice choisit une route qu’Irène n’attendait pas et fait avancer les pages à son rythme."
+          "heading": "Retrouver le bon moment dans un échange qui a avancé",
+          "text": "Un mouvement stéréotypé peut retarder une prise de parole tandis que les autres continuent à parler ou à manipuler un support. L’interruption laisse alors à retrouver le sujet et le moment de poser sa question. À la médiathèque, l’espace est dégagé, mais Aya tourne déjà la page. Irène veut revoir la cheminée et demander elle-même ce que son amie y avait vu."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Au moment de retrouver sa place dans l’échange, Irène a besoin d’un repère qui lui indique où Aya en est. Le résultat du montage de mardi reste valable : ils avaient alors comparé des versions sans avoir à guider une lectrice.\n\nL’excitation, la fatigue ou le fait d’être très absorbé peuvent accompagner les mouvements stéréotypés. Un seul essai ne dit pas ce qui les fait revenir à tel instant. Irène peut dire ce qu’elle a perdu dans cette lecture et essayer une manière d’y retourner, sans avoir à expliquer pourquoi ses mains ont bougé."
+          "heading": "Comment le fil d’une conversation peut-il se perdre après un mouvement ?",
+          "points": [
+            {
+              "heading": "L’occasion de poser la question passe",
+              "text": "Une question peut rester présente alors que la situation qui lui donnait sens a changé.",
+              "examples": [
+                "Aya soulève le pli suivant avant qu’Irène puisse demander ce qu’elle voit.",
+                "Un enfant veut demander pourquoi une carte est drôle alors que le groupe est déjà passé à la suivante."
+              ]
+            },
+            {
+              "heading": "Une aide proposée ne répond pas forcément au besoin",
+              "text": "Continuer l’histoire à la place de la personne ne lui rend pas le point d’où elle voulait parler.",
+              "examples": [
+                "Ilyès propose de continuer, tandis qu’Irène veut savoir ce qu’Aya pense des cheminées.",
+                "Une collègue propose de répondre pour quelqu’un qui demandait seulement de rouvrir un document."
+              ]
+            },
+            {
+              "heading": "Un détail remet l’échange au bon endroit",
+              "text": "Une image ou un objet peut permettre de revenir au moment manqué.",
+              "examples": [
+                "Irène montre la cheminée basse et demande qu’on rouvre ce pli.",
+                "Quelqu’un retrouve la photo à laquelle sa question se rapportait et peut la poser à son interlocuteur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préciser la part d’aide qui manque",
-          "text": "Ilyès lui propose de continuer. Irène veut plutôt qu’il lui montre le pli qu’Aya vient de refermer et qu’il attende. Ce sont deux façons d’aider, avec des suites différentes. Ils peuvent convenir d’une question courte à utiliser quand ils hésitent : « Tu veux la page ou tu veux que je prenne la suite ? » Si elle dit « la page », Ilyès peut la montrer sans donner la prochaine réplique.\n\nLe ticket d’Aya leur fournit une autre idée. Un petit marque-page à la dernière image ouverte permettrait aussi de revenir à cette image après une interruption. On peut le proposer à tout lecteur. L’essai dira s’il est utile et si le livre reste assez ouvert pour que chacun y fasse sa propre visite."
+          "heading": "3 techniques pour reprendre un échange qui a continué",
+          "points": [
+            {
+              "heading": "Nommer le dernier repère",
+              "objective": "Faire comprendre où l’on a perdu le fil.",
+              "exercise": [
+                "Dites « J’ai perdu ma place » ou nommez la dernière image vue.",
+                "Demandez à revoir ce point précis.",
+                "Prenez le temps de retrouver la question que vous vouliez poser."
+              ],
+              "benefit": "Le groupe peut remonter d’une étape sans recommencer tout l’échange."
+            },
+            {
+              "heading": "Proposer l’aide qui laisse la parole",
+              "objective": "Soutenir la reprise sans répondre à la place de la personne.",
+              "exercise": [
+                "Demandez si elle souhaite qu’on montre la page.",
+                "Rouvrez-la au bon endroit.",
+                "Attendez sa question ou sa réponse."
+              ],
+              "benefit": "L’aide porte sur le support et laisse la conduite de l’échange à la personne."
+            },
+            {
+              "heading": "Convenir d’un repère pour le prochain essai",
+              "objective": "Retrouver plus vite une page qui risque d’avancer.",
+              "exercise": [
+                "Choisissez un emplacement pour un signet.",
+                "Précisez qui peut l’utiliser et à quel signal.",
+                "Vérifiez après la lecture si cette reprise vous a convenu."
+              ],
+              "benefit": "La solution peut être ajustée en fonction de ce que le groupe fait réellement."
+            }
+          ]
         }
       ],
       "ending_title": "Le ticket sous les cheminées",
@@ -369,7 +824,8 @@
         "next": "Le binôme a un accord de reprise et des signets à préparer pour le samedi. Aya a essayé les deux routes avant l’ouverture publique."
       },
       "clinical_focus": "Perte du fil après un mouvement",
-      "clinical_intro": "Aya ouvre un pli pendant que les mains d’Irène bougent, puis avance à la page suivante. Irène perd l’occasion de poser sa question et hésite à demander de reprendre. Un espace dégagé aide à travailler et une interaction qui avance peut encore être interrompue. Montrer la page au bon moment rend la parole à Irène et lui permet de savoir ce qu’Aya a vu."
+      "clinical_intro": "Aya ouvre un pli pendant que les mains d’Irène bougent, puis avance à la page suivante. Irène perd l’occasion de poser sa question et hésite à demander de reprendre. Un espace dégagé aide à travailler et une interaction qui avance peut encore être interrompue. Montrer la page au bon moment rend la parole à Irène et lui permet de savoir ce qu’Aya a vu.",
+      "conclusion": "Le ticket retrouve une place près des cheminées, et Irène peut enfin poser sa question. Elle a aussi trouvé avec Ilyès la forme d’aide qu’elle veut pour une prochaine lecture : revoir la page, puis parler elle-même."
     },
     {
       "number": 9,
@@ -386,18 +842,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un coup de main ne donne pas un rôle pour toujours",
-          "text": "Une aide utile dans un moment précis peut devenir gênante si l’entourage en fait un rôle permanent. Ilyès a proposé de prendre la suite quand Irène avait perdu sa place vendredi. Elle lui a demandé de retrouver une image, puis a continué à parler avec Aya. La prochaine fois, elle pourra choisir autrement. Rien, dans cet accord, ne demande à Ilyès de raconter le livre à chaque visite ou à Irène de se tenir à l’écart de la lecture."
+          "heading": "Une aide ponctuelle peut être prise pour un rôle permanent",
+          "text": "Les effets d’un trouble des mouvements stéréotypés sur une activité varient selon le contexte et le soutien disponible. Une aide utile pendant une interruption ne permet pas de décider ce que la personne veut ou peut faire à chaque rencontre. Mylène se souvient d’un relais proposé par Ilyès et en tire un rôle fixe dans le programme. Irène et Ilyès reprennent la phrase ensemble."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Les gestes répétés d’Irène peuvent compliquer une partie du travail sans dire ce qu’elle sait faire ni ce qu’elle a envie d’essayer. Dessiner lui convient souvent et c’est un plaisir qu’elle veut garder. Elle peut aussi poser une question à un visiteur. La ligne du programme peut rendre ces choix plus faciles en annonçant ce qui se passera pour le public plutôt qu’en répartissant les deux personnes."
+          "heading": "Comment une difficulté momentanée peut-elle devenir une étiquette ?",
+          "points": [
+            {
+              "heading": "Une scène reste plus visible que les autres",
+              "text": "L’entourage peut retenir le moment où quelqu’un a proposé d’aider et oublier les autres contributions.",
+              "examples": [
+                "Mylène se rappelle qu’Ilyès a proposé de continuer pendant qu’Irène cherchait sa page.",
+                "Un adulte se souvient qu’un enfant a demandé une reprise de consigne et lui retire d’emblée le premier rôle au prochain essai."
+              ]
+            },
+            {
+              "heading": "Le rôle écrit ferme des possibilités",
+              "text": "Une description publique peut être comprise comme une consigne alors qu’elle reposait sur une observation limitée.",
+              "examples": [
+                "En lisant « lecture par Ilyès », Ilyès se demande s’il devra tout lire.",
+                "Un programme indique « illustrations » sous un seul prénom et laisse croire que la personne ne présentera jamais le travail."
+              ]
+            },
+            {
+              "heading": "Le groupe peut décrire le projet et laisser les rôles ouverts",
+              "text": "Une annonce peut donner au public ce dont il a besoin sans figer la manière de participer.",
+              "examples": [
+                "Irène et Ilyès proposent leurs deux prénoms et les deux entrées du livre.",
+                "Deux élèves présentent leur maquette comme un travail commun et se passent la parole selon les questions."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Réécrire ce que le visiteur va venir faire",
-          "text": "Mylène a besoin d’une phrase assez courte pour le programme et d’un nom pour retrouver la table. Irène et Ilyès ont besoin que leur livre soit signé par les deux et que la suite reste ouverte. Ils peuvent regarder les mots « dessins » et « lecture » séparément : on peut garder l’idée d’un livre dessiné et lu ensemble sans assigner une seule activité à chacun.\n\nLa phrase pourrait inviter le visiteur à choisir une entrée et à chercher une place dans la rue. Chacun des deux auteurs peut dire si c’est bien ce qu’il voudrait proposer. Mylène peut attendre la nouvelle version avant d’imprimer. Leur accord sur la page à retrouver reste entre eux et les adultes qui organisent la séance."
+          "heading": "3 techniques pour éviter qu’un appui décide du rôle",
+          "points": [
+            {
+              "heading": "Demander ce que la personne veut faire",
+              "objective": "Partir des préférences plutôt que d’un moment observé.",
+              "exercise": [
+                "Citez la tâche qui sera proposée.",
+                "Demandez quelle part la personne veut prendre et quel appui pourrait l’aider.",
+                "Laissez-la modifier sa réponse en fonction du déroulement."
+              ],
+              "benefit": "Les rôles s’organisent à partir du projet et des besoins exprimés."
+            },
+            {
+              "heading": "Relire les mots de l’annonce",
+              "objective": "Repérer ce que le public risque de comprendre comme un rôle fixe.",
+              "exercise": [
+                "Montrez le brouillon aux personnes nommées.",
+                "Demandez si leurs contributions sont bien représentées.",
+                "Remplacez la répartition figée par une formulation approuvée ensemble."
+              ],
+              "benefit": "Le public reçoit une indication exacte sans confondre une aide ponctuelle et une responsabilité permanente."
+            },
+            {
+              "heading": "Garder un relais souple",
+              "objective": "Prévoir une réponse sans retirer d’emblée la parole à quelqu’un.",
+              "exercise": [
+                "Convenez de la façon dont vous voulez commencer ensemble.",
+                "Décidez comment demander un appui pendant la rencontre.",
+                "Laissez chacun reprendre son rôle dès qu’il le souhaite."
+              ],
+              "benefit": "L’aide reste disponible pour le moment où elle sert."
+            }
+          ]
         }
       ],
       "ending_title": "Deux prénoms sur la même ligne",
@@ -414,7 +926,8 @@
         "next": "Le programme imprimé créditera le duo. Ils prévoient d’ouvrir ensemble, avec une première question possible d’Ilyès pour le canal."
       },
       "clinical_focus": "Attribution d’un rôle à partir d’une difficulté",
-      "clinical_intro": "Le programme attribue le dessin à Irène et la lecture à Ilyès. Mylène se souvient qu’il avait proposé de reprendre pendant qu’Irène cherchait sa place. Une aide après l’interruption d’un mouvement peut être utile à un instant précis. En la transformant en rôle permanent, l’entourage risque de priver la personne d’occasions qu’elle veut garder. Le duo choisit une présentation qui laisse la place aux deux."
+      "clinical_intro": "Le programme attribue le dessin à Irène et la lecture à Ilyès. Mylène se souvient qu’il avait proposé de reprendre pendant qu’Irène cherchait sa place. Une aide après l’interruption d’un mouvement peut être utile à un instant précis. En la transformant en rôle permanent, l’entourage risque de priver la personne d’occasions qu’elle veut garder. Le duo choisit une présentation qui laisse la place aux deux.",
+      "conclusion": "Le programme pourra nommer les deux personnes qui ont fait le livre. Le samedi, elles l’ouvriront ensemble et décideront selon le chemin choisi qui pose la première question."
     },
     {
       "number": 10,
@@ -431,18 +944,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un espace grand peut laisser peu de place",
-          "text": "Pour évaluer un aménagement, il faut regarder ce que la personne pourra y faire quand le lieu sera réellement utilisé. Une grande table laisse de la place aux pages, mais les passages autour comptent aussi pour Irène. Le déplacement vers le hall rapprocherait son poste d’une file qui se déplace. Après le heurt, le duo avait retrouvé une table où les allées de service restaient à distance et où chacun savait où poser ses affaires. Le changement mérite une nouvelle discussion."
+          "heading": "Un espace sûr se vérifie quand les gens l’utilisent",
+          "text": "Lorsqu’un mouvement répété présente un risque de heurt, l’organisation du lieu fait partie de la prévention. Un espace qui paraît dégagé à vide peut devenir étroit avec des visiteurs, une file ou du matériel en déplacement. Irène voit que l’emplacement de sa trousse est aussi le passage des personnes qui dépassent la file. Elle propose un cadre où le livre peut rester accessible et la table dégagée."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Irène n’a pas besoin de reproduire ce qui s’est passé près du comptoir pour faire prendre sa demande au sérieux. Mylène peut examiner avec elle les conditions d’accueil, garder le relais convenu en cas de douleur et choisir un endroit qui permette au duo de travailler. Cette décision d’organisation ne répond pas à la place de l’équipe pédiatrique à une question clinique."
+          "heading": "Comment l’arrivée du public peut-elle changer les conditions de sécurité ?",
+          "points": [
+            {
+              "heading": "La circulation réelle diffère du plan",
+              "text": "Une place libre sur la table ne dit pas combien de personnes passeront juste à côté.",
+              "examples": [
+                "Les visiteurs doublent la file du côté où Irène devrait poser sa trousse.",
+                "Un atelier installé près d’un comptoir devient encombré lorsque les visiteurs commencent à rendre du matériel."
+              ]
+            },
+            {
+              "heading": "Les questions du public peuvent occuper l’adulte disponible",
+              "text": "Répondre dans un hall fréquenté peut faire perdre de vue les mouvements autour d’un poste de travail.",
+              "examples": [
+                "Mylène est déjà sollicitée par plusieurs personnes qui s’approchent de la grande table.",
+                "Une responsable reçoit les inscriptions pendant qu’une file se forme près des sièges où les participants travaillent."
+              ]
+            },
+            {
+              "heading": "Un autre accueil peut préserver l’activité",
+              "text": "Un changement d’organisation peut éloigner le passage du poste tout en laissant le public découvrir le projet.",
+              "examples": [
+                "Les signets donnent deux horaires pour entrer dans la salle du conte.",
+                "Un atelier laisse un plan à l’accueil et invite de petits groupes dans une pièce qui garde une allée libre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Régler l’attente avec les visiteurs",
-          "text": "La salle du conte permet moins d’entrées à la fois. Cette limite a un coût : certains visiteurs ne pourront pas attendre le groupe suivant. Mylène peut l’expliquer à l’entrée, écrire les heures sur les signets et prévoir assez de temps pour qu’un groupe parte avant l’arrivée du suivant. Le binôme pourra garder les deux chemins sans se charger de la file en même temps.\n\nPour ceux qui ne peuvent pas rester, Irène et Ilyès peuvent laisser au comptoir un dessin où figurent les deux départs. Ils gardent le relief pour la salle, où les visiteurs auront le temps de le découvrir. La proposition donne un moyen de voir le projet et laisse aux deux auteurs le choix de la page qu’ils rendent disponible."
+          "heading": "3 techniques pour organiser un espace partagé en tenant compte du risque de heurt",
+          "points": [
+            {
+              "heading": "Observer le passage aux heures utiles",
+              "objective": "Choisir un poste à partir de la circulation réelle.",
+              "exercise": [
+                "Regardez où arrivent et repartent les personnes.",
+                "Vérifiez où se trouvent chaises, outils et chariots pendant l’activité.",
+                "Signalez à l’adulte responsable l’endroit qui devient trop serré."
+              ],
+              "benefit": "Le risque est examiné dans la situation où le poste sera utilisé."
+            },
+            {
+              "heading": "Modifier l’accueil plutôt que l’espace de travail seul",
+              "objective": "Garder une activité ouverte avec moins de passage immédiat.",
+              "exercise": [
+                "Choisissez avec les participants et l’adulte un poste hors de la file.",
+                "Fixez comment le public sera accueilli ou orienté.",
+                "Confirmez qui gardera le passage dégagé pendant la rencontre."
+              ],
+              "benefit": "L’organisation du public soutient la sécurité autour de la table."
+            },
+            {
+              "heading": "Vérifier le relais avant d’ouvrir",
+              "objective": "Savoir qui agirait si les conditions changeaient.",
+              "exercise": [
+                "Demandez à l’adulte où signaler un encombrement ou une douleur.",
+                "Convenez du moment où l’activité doit être interrompue ou déplacée.",
+                "Reprenez avec l’équipe qui suit l’enfant si le risque persiste ou si une blessure survient."
+              ],
+              "benefit": "Le relais est connu et l’enfant n’a pas à gérer seul un problème de sécurité."
+            }
+          ]
         }
       ],
       "ending_title": "Le ticket donne une heure",
@@ -460,7 +1029,8 @@
         "next": "Mylène tient la file en deux petits groupes. Le livre et la trousse sont installés dans la salle du conte ; l’un des groupes est à la porte."
       },
       "clinical_focus": "Sécurité de l’environnement en situation",
-      "clinical_intro": "Irène regarde où elle poserait sa trousse et voit que les visiteurs dépassent la file à cet endroit. Elle se souvient du heurt contre le chariot. Quand des mouvements répétés présentent un risque dans un espace encombré, il faut regarder l’usage réel du lieu. Garder l’accueil en petits groupes dans la salle lui permet de signaler un besoin de sécurité et de poursuivre le projet."
+      "clinical_intro": "Irène regarde où elle poserait sa trousse et voit que les visiteurs dépassent la file à cet endroit. Elle se souvient du heurt contre le chariot. Quand des mouvements répétés présentent un risque dans un espace encombré, il faut regarder l’usage réel du lieu. Garder l’accueil en petits groupes dans la salle lui permet de signaler un besoin de sécurité et de poursuivre le projet.",
+      "conclusion": "Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour ; la visibilité change, mais le poste d’Irène reste à l’écart du passage."
     },
     {
       "number": 11,
@@ -477,18 +1047,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reprendre peut faire partie de la lecture",
-          "text": "Participer à une activité reste possible quand un mouvement répété en interrompt un moment. Ce qui compte ici, c’est qu’Irène puisse retrouver l’image et décider ce qu’elle veut faire de la remarque du garçon. Après l’expérience du CDI, le rire lui fait lever la tête. Dans cette salle, le garçon montre un détail du livre."
+          "heading": "Un rire peut réveiller le souvenir d’une moquerie",
+          "text": "Après une moquerie liée à un mouvement, un nouveau rire peut faire craindre d’être de nouveau visé. Ce retentissement social mérite d’être pris au sérieux, même quand le rire a une autre cause. Irène repense au CDI et cherche aussitôt ce que le garçon regarde. En retrouvant l’image de la miche, elle peut entendre son idée et décider de reprendre la question."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Irène a le temps d’écouter sa proposition avant de revenir au pli. Elle n’a pas à deviner ce qu’un autre visiteur penserait de ses gestes.\n\nLa possibilité de reprendre vient de plusieurs choses qui fonctionnent ensemble : l’espace disponible, le signet et l’accord avec Ilyès. Elle se voit dans la question qu’Irène peut poser ensuite. On pourrait avoir la même reprise un jour où les mouvements sont plus présents, ou perdre le fil un jour où ils le sont moins. L’essai renseigne sur l’aide apportée dans cette lecture."
+          "heading": "Comment une ancienne moquerie peut-elle peser sur un nouvel échange ?",
+          "points": [
+            {
+              "heading": "L’attention se tourne vers ce que les autres regardent",
+              "text": "Le souvenir d’une remarque peut revenir dès qu’un geste et une réaction semblent coïncider.",
+              "examples": [
+                "Irène regarde le garçon qui rit au moment où ses mains bougent.",
+                "Un enfant entend rire derrière lui et se demande si les autres parlent encore de ses gestes."
+              ]
+            },
+            {
+              "heading": "La réaction présente peut avoir un autre objet",
+              "text": "Regarder le détail désigné ou écouter ce que la personne dit peut aider à comprendre ce qui se passe, si l’on veut rester dans l’échange.",
+              "examples": [
+                "Le garçon pointe la miche et la prend pour une sonnette.",
+                "Une lectrice s’aperçoit que le rire vient d’un détail du dessin qu’un camarade montre aux autres."
+              ]
+            },
+            {
+              "heading": "La personne peut reprendre ou demander un relais",
+              "text": "Une fois le contexte retrouvé, il reste possible de poser la question ou de laisser quelqu’un d’autre accueillir le groupe.",
+              "examples": [
+                "Irène demande à revoir le pli, pose sa question, puis confie l’accueil suivant à Ilyès le temps de ranger le dessin.",
+                "Un enfant choisit de terminer une réponse avec son binôme et de faire une pause avant le prochain visiteur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Suivre la proposition d’un lecteur",
-          "text": "Ilyès peut retrouver le pli et laisser Irène décider si elle veut parler. Il peut aussi continuer lui-même si elle le lui demande. Elle peut s’appuyer sur le dessin de la miche pour accueillir une idée qu’elle n’avait pas prévue. Le rôle de chacun se règle au cours de la lecture, comme ils en avaient décidé devant le programme.\n\nLa femme a posé une question à laquelle le livre ne donne pas de réponse. Les deux auteurs peuvent la laisser essayer de relier deux voies. Pour garder un point de retour, on peut déplacer le signet à l’image que les lecteurs veulent revoir. Les visiteurs trouveront peut-être un troisième chemin. Les auteurs resteront libres de le dessiner plus tard ou de le laisser dans l’histoire racontée ce matin-là."
+          "heading": "3 techniques pour retrouver ce qui se passe dans l’échange présent",
+          "points": [
+            {
+              "heading": "Demander à revoir le détail",
+              "objective": "Reprendre une scène quand un regard ou un rire a fait perdre le fil.",
+              "exercise": [
+                "Identifiez la page ou l’objet dont les autres parlent.",
+                "Demandez qu’on vous le montre si nécessaire.",
+                "Choisissez si vous voulez entendre la suite ou faire une pause."
+              ],
+              "benefit": "Le contexte redevient accessible sans vous obliger à rester dans l’échange."
+            },
+            {
+              "heading": "Confier une reprise courte au binôme",
+              "objective": "Garder une place pour revenir au moment choisi.",
+              "exercise": [
+                "Dites ce que vous voulez qu’il reprenne, par exemple l’accueil.",
+                "Indiquez si vous souhaitez retrouver la page ou un peu de temps.",
+                "Reprenez lorsque vous êtes prêt et que le contexte vous convient."
+              ],
+              "benefit": "Le relais protège la continuité de l’activité sans fixer un rôle pour le reste de la rencontre."
+            },
+            {
+              "heading": "Reparler d’une inquiétude qui revient",
+              "objective": "Pouvoir demander une aide si la peur d’être moqué pèse sur les activités.",
+              "exercise": [
+                "Dites à un adulte de confiance ce qui vous a inquiété.",
+                "Décrivez la réaction observée et le souvenir qu’elle a réveillé.",
+                "Demandez à l’adulte d’intervenir si une moquerie vise la personne, ou d’aider à préparer une reprise si elle le souhaite."
+              ],
+              "benefit": "L’entourage peut reconnaître l’inquiétude et répondre à la situation présente."
+            }
+          ]
         }
       ],
       "ending_title": "La miche devient une sonnette",
@@ -505,7 +1131,8 @@
         "next": "Le premier groupe a trouvé un troisième chemin possible ; Ilyès accueillera le second pendant qu’Irène range le croquis et garde sa place."
       },
       "clinical_focus": "Anticipation du regard et reprise",
-      "clinical_intro": "Quand un garçon rit pendant un mouvement, Irène cherche aussitôt d’où vient le rire. Au CDI, un élève avait imité ses mains. Ici, le garçon montre la miche suspendue dans le livre et propose une interprétation. Un souvenir de moquerie peut rendre un nouveau regard difficile à situer. Retrouver la page permet à Irène d’entendre ce qui se passe maintenant et de reprendre sa question."
+      "clinical_intro": "Quand un garçon rit pendant un mouvement, Irène cherche aussitôt d’où vient le rire. Au CDI, un élève avait imité ses mains. Ici, le garçon montre la miche suspendue dans le livre et propose une interprétation. Un souvenir de moquerie peut rendre un nouveau regard difficile à situer. Retrouver la page permet à Irène d’entendre ce qui se passe maintenant et de reprendre sa question.",
+      "conclusion": "Le garçon propose un chemin par les marches jusqu’à la miche. Irène retrouve sa question, puis garde le croquis à part. Ilyès peut accueillir le groupe suivant pendant qu’elle range cette idée."
     },
     {
       "number": 12,
@@ -522,18 +1149,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Regarder ce que le soutien a permis",
-          "text": "Un suivi peut porter sur les activités que la personne veut retrouver ou poursuivre et sur les conditions qui l’y aident. La Dre Rivière demande à Irène de raconter ce que ses mouvements ont changé pendant la lecture et comment elle a retrouvé le fil. Ce récit permet d’apprécier le retentissement du trouble dans une activité précise. La pédiatre leur a demandé de reprendre contact si une douleur ou un risque réapparaît, ou si les difficultés la gênent davantage dans ce qu’elle tient à faire."
+          "heading": "Évaluer ce que l’appui a permis",
+          "text": "Le suivi d’un trouble des mouvements stéréotypés regarde les effets des mouvements sur la sécurité et la participation dans plusieurs contextes. Un appui se juge aussi par les gestes et les échanges qu’il rend possibles. Irène peut raconter comment elle a retrouvé un pli pendant la lecture publique. Ce repère renseigne davantage sur l’activité qui compte pour elle qu’un simple compte des mouvements."
         },
         {
           "role": "manifestations",
-          "heading": "Le pli retrouvé pendant la lecture",
-          "text": "Irène raconte à la pédiatre qu’il y avait assez de place autour de la table pour qu’elle garde son côté du livre quand ses mains ont repris leur mouvement. Elle a regardé vers le garçon qui riait et a perdu de vue la miche qu’il montrait. Un pli venait de la cacher. Ilyès a retrouvé la page grâce au signet et Irène a repris l’échange en demandant qui viendrait sonner. Elle a pu écouter la réponse et dessiner le trajet proposé. La place, le pli et cette question donnent à la pédiatre des repères sur ce qu’Irène a pu poursuivre malgré l’interruption."
+          "heading": "Comment savoir si un appui a été utile dans la durée ?",
+          "points": [
+            {
+              "heading": "Une activité a pu reprendre à un endroit précis",
+              "text": "Une reprise située permet de dire ce que l’aide a changé.",
+              "examples": [
+                "Grâce au signet, Irène revoit la miche et pose sa question au garçon.",
+                "Un enfant indique que l’image laissée ouverte lui a permis de terminer son explication au groupe."
+              ]
+            },
+            {
+              "heading": "L’appui a des conditions et des limites",
+              "text": "Une solution peut fonctionner lorsque le matériel, le lieu et le relais sont disponibles.",
+              "examples": [
+                "La salle du conte permet un poste dégagé, et Ilyès connaît la reprise demandée.",
+                "Un repère posé sur une table aide pendant un atelier, mais doit être déplacé lorsque les participants changent de salle."
+              ]
+            },
+            {
+              "heading": "La personne peut décider de la suite du projet",
+              "text": "Une participation qui lui a convenu peut se prolonger sous une autre forme.",
+              "examples": [
+                "Irène et Ilyès laissent le livre à la médiathèque et gardent leurs outils et croquis.",
+                "Un enfant prête une maquette pour qu’un adulte la présente et conserve chez lui le brouillon de son prochain projet."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ce qui reste dans la salle",
-          "text": "Irène pourra reprendre les appuis qui lui ont servi si elle décide de commencer un autre livre. Pour celui-ci, Irène et Ilyès peuvent montrer à Mylène comment l’ouvrir et convenir d’une date pour venir le reprendre. Il y a plusieurs objets à répartir : le livre, les flèches qui y mènent, les signets pour les lecteurs et les croquis auxquels ils tiennent. Les feutres sont à Irène. Elle peut les garder même si les personnes de la médiathèque ont envie d’annoter un plan de la rue.\n\nPour les autres chemins, le duo peut laisser des feuilles à part et décider plus tard s’il veut en lire certaines. La fenêtre, la fausse impasse et le banc restent là où ils les ont dessinés. Le projet a une forme assez complète pour continuer sans qu’ils viennent résoudre chaque hésitation du prochain lecteur."
+          "heading": "3 techniques pour réexaminer un appui après une activité",
+          "points": [
+            {
+              "heading": "Décrire le moment où l’aide a servi",
+              "objective": "Donner au suivi un exemple concret de participation.",
+              "exercise": [
+                "Nommez l’activité que vous vouliez mener.",
+                "Dites ce qui l’a interrompue et ce que l’appui a changé.",
+                "Expliquez quelle action vous avez pu reprendre."
+              ],
+              "benefit": "Le suivi peut examiner ce qui a été rendu possible, même si les mouvements étaient toujours présents."
+            },
+            {
+              "heading": "Revoir séparément la sécurité et l’aide pratique",
+              "objective": "Savoir ce qui doit rester disponible dans un autre cadre.",
+              "exercise": [
+                "Vérifiez si le lieu a changé et si un risque demeure.",
+                "Dites à l’adulte quel repère a aidé et lequel vous souhaitez conserver.",
+                "Reparlez-en avec le pédiatre si la gêne ou le risque revient."
+              ],
+              "benefit": "Le prochain aménagement peut tenir compte de la sécurité et de la manière dont l’enfant veut participer."
+            },
+            {
+              "heading": "Choisir les conditions de la suite",
+              "objective": "Garder la main sur le projet une fois la rencontre terminée.",
+              "exercise": [
+                "Indiquez ce que vous souhaitez laisser à disposition et pour combien de temps.",
+                "Convenez de qui pourra s’en servir et avec quel matériel.",
+                "Gardez ce qui vous appartient pour un prochain projet si vous le souhaitez."
+              ],
+              "benefit": "La suite reste possible sans rendre votre présence ou votre matériel obligatoires."
+            }
+          ]
         }
       ],
       "ending_title": "Le livre dans la salle, la trousse sous le bras",
@@ -550,7 +1233,8 @@
         "next": "La médiathèque peut faire lire le livre avec les deux chemins. Le relais pédiatrique reste possible, et l’idée d’une gare appartient encore à Irène."
       },
       "clinical_focus": "Participation et suivi du retentissement",
-      "clinical_intro": "Après la lecture publique, Irène raconte à sa pédiatre comment elle a retrouvé une page et posé la question qu’elle voulait poser. Ces détails éclairent le retentissement du trouble des mouvements stéréotypés et ce qui facilite sa participation. Ils donnent d’autres repères que le seul nombre de mouvements. Irène décide ensuite ce qu’elle souhaite transmettre et garde le choix de revenir pour un autre projet."
+      "clinical_intro": "Après la lecture publique, Irène raconte à sa pédiatre comment elle a retrouvé une page et posé la question qu’elle voulait poser. Ces détails éclairent le retentissement du trouble des mouvements stéréotypés et ce qui facilite sa participation. Ils donnent d’autres repères que le seul nombre de mouvements. Irène décide ensuite ce qu’elle souhaite transmettre et garde le choix de revenir pour un autre projet.",
+      "conclusion": "Le livre reste accessible jusqu’à la fin du mois. Irène emporte ses feutres et le croquis du garçon. La pédiatre dispose d’exemples pour le suivi, et la gare sous le banc est encore une idée qu’Irène peut développer à son rythme."
     }
   ]
 }

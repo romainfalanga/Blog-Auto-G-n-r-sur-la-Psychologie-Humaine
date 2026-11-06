@@ -28,22 +28,83 @@ Sur la première page, il y a l’heure du prochain rendez-vous. Sur la page des
 
 Éva lui propose d’appeler les services d’urgence tout de suite. Garance dit qu’elle veut leur parler et qu’elle peut les joindre elle-même. Elle s’assure d’avoir l’adresse sous les yeux avant de raccrocher. Elle laisse le programme du concert sur la table et appelle aussitôt. Elle lit son adresse sur l’enveloppe qui dépasse de la pochette, puis explique ce qui se passe.
 
-## Une inquiétude de sécurité appelle une réponse immédiate
+## Des idées suicidaires qui imposent un relais
 
-Quand une personne craint de se faire du mal ou de ne plus rester en sécurité, une aide urgente prend le relais. Garance dit clairement ce qui l’inquiète. Elle peut joindre les services d’urgence et expliquer où elle se trouve. Le prochain rendez-vous et les décisions concernant la répétition attendront. L’évaluation du risque et la réponse immédiate reviennent aux professionnels qui prennent l’appel.
+Des idées de suicide qui deviennent envahissantes ou la crainte de ne plus rester en sécurité justifient une aide urgente. Elles peuvent survenir pendant un épisode dépressif, notamment dans le trouble bipolaire. Le plan de Garance l’aide à retrouver une marche à suivre. Son appel aux services d’urgence permet à des professionnels d’évaluer la situation et d’organiser la réponse sans attendre le prochain rendez-vous.
 
-Le NICE recommande d’avoir prévu avec la personne les contacts utiles lorsque le risque augmente.
+## Comment l’urgence devient-elle perceptible dans cette soirée ?
 
-## Comment cette difficulté se manifeste
+### La détresse prend plus de place que ce qui était prévu
 
-Le plan de Garance lui donne un point de départ. Elle peut aussi demander de l’aide urgente si elle ne retrouve pas le plan. Son amie n’a pas à établir la gravité de l’épisode. Elle peut prendre au sérieux les mots de Garance, aider à établir le contact et solliciter elle-même les secours si l’appel n’aboutit pas ou si Garance ne peut plus le faire.
+Une préoccupation immédiate de sécurité change la priorité de la soirée.
 
-## Laisser l’équipe prendre la suite
+**Exemples concrets**
 
-Éva peut parler à Garance pendant le temps nécessaire pour enclencher le relais, dans la mesure de ce qu’elle peut faire. Si les professionnels lui posent des questions utiles, elle peut transmettre ce qu’elle connaît de la situation et les coordonnées nécessaires. Elle a aussi le droit de dire où s’arrête son aide et de demander ce qu’elle peut faire ensuite. Les informations données pour obtenir de l’aide n’ont aucune raison de circuler dans le groupe de musique.
+- Garance essaie de relire la date de répétition pendant que les pensées de mort deviennent envahissantes.
+- Elle a du mal à imaginer rester seule jusqu’au lendemain et ferme la conversation de l’ensemble.
 
-Après la réponse urgente, Garance pourra examiner avec son équipe ce qu’elle souhaite garder ou ajouter au plan. Elle pourra aussi choisir qui elle veut informer et à quel moment. Lise a seulement besoin de savoir si Garance peut prendre sa place à la prochaine répétition. Une autre personne pourra lui répondre avec son accord. Le concert reste un projet auquel Garance pourra revenir selon son état et ses choix.
+### La personne peut dire qu’elle ne se sent plus en sécurité
+
+Des mots directs permettent au proche de comprendre qu’une aide urgente est nécessaire.
+
+**Exemples concrets**
+
+- Garance dit à Éva qu’elle a des idées de suicide.
+- Elle précise qu’elle craint de ne pas rester en sécurité ce soir et indique où elle se trouve.
+
+### Le contact professionnel remplace l’attente
+
+Le plan aide à retrouver le bon relais. Même sans lui sous la main, on peut appeler les services d’urgence.
+
+**Exemples concrets**
+
+- Garance retrouve la page des contacts et appelle aussitôt après l’échange avec Éva.
+- La personne qui répond vérifie son adresse pendant qu’une intervention est organisée.
+
+## 3 techniques pour passer rapidement le relais en cas de danger
+
+### 1. Appeler les services d’urgence
+
+Obtenir une aide immédiate quand votre sécurité est en jeu.
+
+**Exercice pratique**
+
+- Appelez les services d’urgence sans attendre le prochain rendez-vous.
+- Dites où vous êtes et nommez les idées suicidaires et votre inquiétude pour votre sécurité.
+- Suivez les consignes du service joint.
+
+Les professionnels peuvent organiser une réponse adaptée à la situation du moment.
+
+### 2. Aider une personne à établir le contact
+
+Passer la main rapidement quand un proche dit ne plus se sentir en sécurité.
+
+**Exercice pratique**
+
+- Prenez ses mots au sérieux et demandez où elle se trouve.
+- Aidez-la à appeler les secours ou appelez vous-même si elle ne peut pas le faire.
+- Donnez aux secours les renseignements utiles et suivez leurs indications.
+
+Le proche contribue au relais sans devoir évaluer ou gérer la crise seul.
+
+### 3. Revenir sur le relais après la réponse urgente
+
+Préparer la suite des soins quand les professionnels ont repris la situation.
+
+**Exercice pratique**
+
+- Redemandez à l’équipe quel contact utiliser si la crainte revient.
+- Dites ce qui a été accessible ou difficile au moment d’appeler.
+- Si une absence doit être signalée, choisissez qui peut le faire et ce qui peut être dit.
+
+Le plan se précise à partir de ce qui s’est passé, et le groupe reçoit seulement l’information nécessaire.
 
 ## Une voix reprend l’adresse avec elle
 
 La personne qui prend l’appel répète l’adresse et explique ce que les services d’urgence vont faire. Garance garde la ligne pendant qu’une intervention est organisée. Elle répond aux questions qu’on lui pose et laisse la partition où elle est. Plus tard, quand les professionnels prennent la suite, Éva lui envoie un mot bref. Garance le lit quand elle en a la possibilité. L’équipe qui la reçoit fixe la prochaine étape des soins. Le lendemain, Garance demande à Éva de prévenir Lise qu’elle sera absente à la prochaine répétition. Elle lui indique la phrase qu’elle souhaite transmettre.
+
+---
+
+**Conclusion**
+
+Garance parle de sa crainte, appelle et laisse les professionnels prendre la suite. Le calendrier du concert peut attendre. Lorsqu’elle demande plus tard à Éva de prévenir Lise, elle décide elle-même de ce que l’ensemble a besoin de savoir.

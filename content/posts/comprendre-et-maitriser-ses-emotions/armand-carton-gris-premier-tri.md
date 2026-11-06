@@ -30,20 +30,83 @@ Jeanne pose le pain sur le buffet et lui demande à quelle heure il veut aller v
 
 Il écarte les deux billets du plan. Jeanne lui demande si elle peut chercher le numéro et lui passer le téléphone. Il accepte, puis remet le plan des canaux bien à plat. À sa droite, il pose la carte du pont bas. On y voit encore le petit trait qu’il avait fait pour montrer le chemin de la rive à Jeanne quand elle apprenait à rouler à vélo. Cette carte, il la veut à portée de la main.
 
-## La mémoire des informations récentes dans la maladie d’Alzheimer
+## L’heure qu’on ne sait plus d’où l’on tient
 
-La maladie d’Alzheimer peut rendre plus difficile le fait de retenir une information récente ou de retrouver dans quelles circonstances on l’a apprise. Le changement s’installe en général progressivement et peut peser sur des activités aussi ordinaires qu’organiser un rendez-vous. Armand a reçu son diagnostic lors d’une évaluation antérieure. Les deux billets éclairent une difficulté qui se présente à lui ce matin. Ils ne permettent pas, à eux seuls, de dire ce qui cause les oublis de quelqu’un.
+La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu ; ce matin, l’enjeu est de vérifier l’heure qu’il utilisera.
 
-## Comment cette difficulté se manifeste
+## Comment un renseignement récent peut-il échapper à Armand ?
 
-Armand a encore des raisons très précises de vouloir donner le plan des canaux et garder la carte du pont. Son hésitation sur l’heure de jeudi ne tranche aucune de ces questions. Le guide de la Haute Autorité de santé invite à tenir compte du vécu de la personne, de ce qu’elle peut faire et de l’aide qui lui est utile dans la vie quotidienne. Pour Armand, aujourd’hui, le besoin porte sur l’heure du rendez-vous.
+### L’information a été entendue, puis se perd
 
-## Un seul endroit pour retrouver l’heure
+Avoir compris un renseignement sur le moment n’assure pas qu’il sera encore disponible quand on en aura besoin.
 
-Chercher le numéro, appeler et retenir la réponse sont trois choses distinctes. Armand souhaite parler lui-même à Nadia. Il peut demander à Jeanne de lui trouver le contact, puis garder près du téléphone une feuille où écrire l’heure qu’il entend. Une fois le rendez-vous confirmé, il choisit quel billet garder et ce qu’il fait de l’autre. Les billets peuvent servir de repères si l’information encore valable est facile à reconnaître.
+**Exemples concrets**
 
-Le tri du don peut avancer séparément. Armand pense à trois destinations : garder, donner, revoir. Le dernier tas laisse aux cartes incertaines une place à part. Il peut examiner un petit ensemble et retrouver ses décisions la prochaine fois. Si l’écrit ne lui suffit plus ou si les rendez-vous manqués se multiplient, il pourra parler de ce besoin précis à son équipe de suivi et revoir l’appui avec elle.
+- Une heure convenue le matin ne revient plus au moment de préparer la sortie.
+- Après avoir salué un visiteur qu’on vient de lui présenter, une personne peut chercher son prénom en voulant lui rendre son écharpe.
+
+### Le papier reste, la provenance manque
+
+Deux traces lisibles peuvent rester impossibles à départager si on ne se rappelle pas laquelle est arrivée en dernier.
+
+**Exemples concrets**
+
+- Devant les billets de dix et onze heures, Armand reconnaît son écriture sans pouvoir dater la correction.
+- Deux notes affichées à la cuisine donnent des jours différents pour une livraison ; le souvenir de l’appel ne suffit plus à trancher.
+
+### Un souvenir ancien revient avec précision
+
+Les difficultés touchant le récent peuvent coexister avec un accès assez détaillé à des expériences plus anciennes.
+
+**Exemples concrets**
+
+- Armand suit sur la carte le trait dessiné pour Jeanne quand elle apprenait à rouler à vélo.
+- Quelqu’un peut retrouver l’ancien nom d’une rue en lisant un plan et redemander à quelle heure commence la visite d’aujourd’hui.
+
+## 3 techniques pour garder une information récente à portée
+
+### 1. Vérifier à la source
+
+S’assurer que le renseignement utilisé est bien le dernier.
+
+**Exercice pratique**
+
+- Relevez les deux indications qui se contredisent.
+- Contactez la personne qui fixe le rendez-vous.
+- Faites confirmer le jour, l’heure et le lieu ensemble.
+
+Un nouvel échange règle la question sans faire dépendre le départ du souvenir du premier appel.
+
+### 2. Choisir l’endroit de la prochaine action
+
+Retrouver la bonne note au moment où elle sert.
+
+**Exercice pratique**
+
+- Choisissez un endroit où vous passez avant de sortir.
+- Placez-y le billet confirmé.
+- Retirez les versions périmées avec l’accord de la personne.
+
+Le repère soutient une action précise et évite de relancer la comparaison entre deux papiers.
+
+### 3. Distinguer l’aide et l’action
+
+Garder la main sur une démarche même quand une étape coûte davantage.
+
+**Exercice pratique**
+
+- Repérez ce que vous voulez faire vous-même.
+- Demandez une aide limitée, comme trouver le numéro.
+- Dites à l’équipe de suivi si ces vérifications deviennent trop difficiles au quotidien.
+
+Il devient possible d’ajuster le soutien autour de ce qui pose problème, ici retrouver la bonne heure.
 
 ## Jeudi, dix heures
 
 Nadia confirme dix heures. Elle lui dit qu’ils commenceront à deux à la table de prêt. Armand barre onze heures, jette le billet barré et glisse l’autre au bord du miroir de l’entrée, là où il le verra en prenant ses clés. Il met le plan des canaux dans le carton gris, sous une feuille « à donner ». La carte du pont bas attend à côté de son fauteuil. Jeanne lui demande si elle peut la regarder. Armand la déplie pour lui montrer un virage qu’il ne lui avait jamais signalé.
+
+---
+
+**Conclusion**
+
+Les deux billets mettent en jeu le souvenir d’une information récente et de son ordre d’arrivée. Avec une seule heure au miroir, Armand sait quand partir et peut encore choisir quelle histoire racontera sa carte.

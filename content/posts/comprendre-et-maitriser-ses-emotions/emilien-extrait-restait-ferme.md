@@ -29,18 +29,83 @@ Après sa séance au studio, il avait été fatigué et content de son choix de 
 
 Lucie rentre pour chercher les clés de son vélo. Elle voit la pochette à terre et demande si Dorian doit passer. Émilien dit qu’il ne sait pas comment lui expliquer. Il pense que Dorian pourrait simplement présenter l’extrait sans lui. Il voudrait surtout dire à quelqu’un que même le bruit du chariot, qu’il avait défendu trois fois, ne lui fait plus rien. En disant cela à Lucie, il entend que sa phrase ne concerne pas seulement le studio.
 
-## Comprendre une baisse qui dépasse la fatigue d’une journée
+## Quand ce qu’on aime ne fait plus envie
 
-Le trouble bipolaire de type I peut comporter des épisodes dépressifs. L’évaluation tient compte notamment d’une humeur dépressive ou d’une perte d’intérêt durable, d’autres changements comme le sommeil, l’énergie ou l’appétit, et de leur retentissement. La fatigue après une séance de restauration ne permettrait pas à elle seule de conclure.
+La diminution de l’intérêt ou du plaisir peut faire partie d’un épisode dépressif dans le trouble bipolaire. Elle se repère parfois dans le contraste avec des activités que la personne attendait, et peut coexister avec d’autres difficultés du quotidien. L’équipe examine la durée et le retentissement d’ensemble. Quand Émilien entend le chariot et ne retrouve plus l’intérêt qu’il portait à ce bruit, il a un exemple pour parler d’un changement qui dépasse le studio.
 
-## Comment cette difficulté se manifeste
+## Comment la perte d’intérêt se remarque-t-elle dans plusieurs moments de la journée ?
 
-Ce qui change chez Émilien est aussi ce qui ne lui fait plus envie en dehors du travail, et la difficulté croissante à faire des choses ordinaires depuis plusieurs jours. Il ne doit pas attendre d’avoir la certitude d’être en dépression pour parler de ces changements à son équipe. La consultation sert aussi à examiner d’autres explications possibles.
+### Le plaisir familier s’aplatit
 
-## Dire ce qui devient difficile et demander un avis
+Ce qui avait une saveur ou un détail distinctif peut sembler uniforme, même quand l’activité est toujours importante.
 
-Émilien peut se servir du même feuillet que lors de ses nuits courtes. Il peut dire depuis quand il remarque une différence et donner un exemple précis du matin. Le NICE recommande d’inclure dans le suivi des repères pour les signes de rechute dépressive comme maniaque. Une dépression qui paraît sévère justifie une évaluation spécialisée urgente. En cas de danger immédiat, il faut joindre les services d’urgence. À ce stade, Lucie n’a pas besoin d’évaluer la gravité à elle seule ; elle peut l’aider à transmettre ce qu’il arrive à dire. Ils laissent à l’équipe le choix des suites à proposer et ne modifient pas le traitement de leur côté.
+**Exemples concrets**
+
+- Émilien défendait la place du chariot dans l’extrait. Aujourd’hui, les fichiers lui paraissent tous semblables.
+- Il regarde une émission jusqu’au bout sans retrouver de scène qu’il ait eu envie de suivre.
+
+### L’envie ne suffit plus à lancer un geste
+
+La perte d’intérêt peut aller avec un manque d’élan et une difficulté à passer d’une intention à l’action.
+
+**Exemples concrets**
+
+- Il connaît la réponse à envoyer à Dorian et reste assis sans la taper.
+- Il décale sa douche jusqu’à une heure qui n’arrive jamais dans sa journée.
+
+### Les occasions de voir du monde se raréfient
+
+Quand plusieurs activités cessent d’attirer, maintenir un rendez-vous peut demander une démarche supplémentaire.
+
+**Exemples concrets**
+
+- La pochette est prête, mais Émilien ne l’emporte pas au marché.
+- Il répond moins aux invitations au cours des mêmes journées où les repas refroidissent.
+
+## 3 techniques pour décrire et traverser une perte d’intérêt
+
+### 1. Comparer deux moments du même projet
+
+Trouver une manière concrète de dire ce qui a changé.
+
+**Exercice pratique**
+
+- Choisissez une activité que vous attendiez auparavant.
+- Racontez ce qui vous plaisait alors et ce que vous constatez aujourd’hui.
+- Ajoutez depuis quand ce changement se répète et parlez-en au contact de soins.
+
+Le contraste aide l’équipe à comprendre votre vécu même si le mot « dépression » est difficile à employer.
+
+### 2. Donner un exemple hors du projet
+
+Faire apparaître le retentissement dans la vie ordinaire.
+
+**Exercice pratique**
+
+- Pensez à une tâche ou à un rendez-vous que vous reportez souvent ces jours-ci.
+- Décrivez ce qui se passe réellement, comme un repas laissé à refroidir.
+- Mentionnez aussi ce qui reste possible lors de l’échange avec le soignant.
+
+La conversation clinique peut porter sur plusieurs domaines sans réduire la période à une seule mauvaise journée.
+
+### 3. Confier une démarche à la bonne personne
+
+Laisser avancer une tâche que l’on ne peut pas assurer aujourd’hui.
+
+**Exercice pratique**
+
+- Dites quelle partie vous souhaitez déléguer et demandez l’accord du collègue.
+- Indiquez où se trouve le document ou la consigne dont il a besoin.
+- Laissez votre disponibilité de demain ouverte si vous ne la connaissez pas.
+
+Le rendez-vous peut avoir lieu sans ajouter une promesse difficile à tenir.
 
 ## Une écoute que Dorian peut assurer
 
 Émilien appelle et, quand on lui demande ce qui l’amène, lit l’heure sur le papier qu’il tient. Puis il trouve sa phrase : « Depuis deux semaines, je laisse beaucoup de choses en plan, même celles que j’attendais. » Ils conviennent d’un échange clinique. Il écrit ensuite à Dorian que l’écoute peut se faire sans lui et que l’accord se trouve dans la pochette bleue. Il ne promet pas de reprendre demain. Il laisse la pochette bien visible pour que Dorian puisse la récupérer.
+
+---
+
+**Conclusion**
+
+Le bruit du chariot donne à Émilien des mots pour un changement qu’il éprouve depuis plusieurs jours. Dorian peut maintenir l’écoute avec la pochette. Émilien a demandé à l’équipe un échange sur les activités et les liens qui perdent leur place, au-delà de cette absence.

@@ -30,20 +30,81 @@ Basile cherche une feuille pour prendre des notes. Gasparde l’arrête. « Il f
 
 ## Réparer un fait à la bonne échelle
 
-Une erreur concrète peut être corrigée pendant qu’on s’inquiète encore de ce qu’elle donnera à penser. Gasparde sait d’où vient l’heure qu’elle a écrite. Dounia et son amie ont besoin de connaître la bonne. Basile peut consigner le décalage pour examiner le fonctionnement du club.
+Une erreur concrète peut faire craindre des conséquences bien plus larges que la correction nécessaire. Dans le trouble délirant, une inquiétude persistante sur une intention hostile peut donner à une faute ordinaire le poids d’une menace sur sa place. Gasparde sait comment l’heure erronée a été recopiée. L’amie de Dounia a besoin de l’heure exacte et le club peut décider comment éviter la même erreur.
 
-## Comment cette difficulté se manifeste
+## Comment la peur des conséquences grandit-elle après une erreur précise ?
 
-Gasparde peut demander comment l’incident figurera au bilan et quel usage sera fait de l’information.
+### Un chiffre devient le début d’une histoire
 
-La conviction que le document servira à l’écarter est une expérience dont elle peut parler à Farah si elle persiste. Le trouble délirant peut donner beaucoup de poids à certains événements autour d’une préoccupation. Les éléments qui entrent dans l’évaluation dépassent cette conversation. Sur le moment, Gasparde choisit d’expliquer sa correction avec des mots qu’elle emploierait aussi pour un autre membre du club.
+L’erreur réelle peut faire imaginer une suite que les faits n’établissent pas.
 
-## Faire servir le bilan à la prochaine réservation
+**Exemples concrets**
 
-Le comité a déjà un moyen de noter l’horaire avant d’en envoyer la confirmation. Il peut appliquer la même règle aux affiches et décider comment prévenir les personnes qui ont reçu une première version. Basile peut demander à Gasparde si elle veut inscrire la correction elle-même. En séance, ils peuvent prendre cinq minutes pour vérifier ce que l’essai a réellement changé dans les tâches de chacun.
+- Gasparde voit « dix heures » et imagine qu’on utilisera son erreur pour reprendre le club sans elle.
+- Une personne se trompe de salle sur un message et croit déjà qu’on lui retirera ses permanences.
 
-Les autres questions ont chacune leur place. Nathalie peut préciser quel dimanche elle serait disponible pour refaire l’essai. Dounia peut relire une indication d’accès si elle en a envie. Elle peut aussi se contenter de relayer la correction à l’amie à qui elle avait donné rendez-vous. Le bilan se construit sur ces informations. Une situation qui demande encore une réponse peut y figurer avec un nom et une date de reprise.
+### On voudrait effacer avant d’avertir
+
+Quand la conséquence redoutée prend toute la place, cacher l’erreur peut paraître plus urgent que la corriger.
+
+**Exemples concrets**
+
+- Gasparde aimerait que Dounia efface la photo, puis choisit de l’appeler.
+- Quelqu’un pense à supprimer une annonce erronée sans avoir encore prévenu les lecteurs qui l’ont vue.
+
+### Le bilan peut porter sur la méthode
+
+L’équipe peut avoir besoin de comprendre comment l’erreur a circulé sans prononcer un jugement sur la personne.
+
+**Exemples concrets**
+
+- Basile propose de relire l’heure dans le registre avant tout affichage.
+- Une équipe ajoute une vérification de l’adresse au moment où elle envoie les invitations.
+
+## 3 techniques pour réparer une erreur à la mesure de ses effets
+
+### 1. Prévenir les personnes concernées
+
+Corriger ce qu’une autre personne s’apprête à faire sur la foi de l’erreur.
+
+**Exercice pratique**
+
+- Vérifiez le renseignement au bon endroit.
+- Contactez les personnes qui ont reçu la première version.
+- Confirmez l’heure ou le lieu corrigé sans diffuser les autres données du registre.
+
+La réparation répond au besoin immédiat et protège les informations qui n’y sont pas liées.
+
+### 2. Inscrire une règle de travail
+
+Réduire le risque de reproduire la même erreur.
+
+**Exercice pratique**
+
+- Repérez à quel passage le renseignement a changé.
+- Choisissez le support qui fera référence.
+- Convenez de qui le vérifiera avant diffusion.
+
+L’équipe peut améliorer la méthode au lieu de faire porter toute la suite sur une seule personne.
+
+### 3. Reprendre le scénario redouté avec le bon interlocuteur
+
+Parler de ce qui continue à inquiéter une fois l’erreur réparée.
+
+**Exercice pratique**
+
+- Distinguez ce qui a été corrigé et ce que vous craignez encore.
+- Demandez au collègue ce qui figure réellement au bilan.
+- Si le scénario continue de prendre beaucoup de place, apportez son effet au suivi.
+
+La question de travail et la détresse peuvent recevoir des réponses différentes.
 
 ## Dix heures trente, en toutes lettres
 
 Dounia accepte de prévenir son amie. Gasparde lui demande si elle souhaite encore relire le plan. « Les entrées, oui. Les horaires, vous vous débrouillez », répond Dounia. Basile ajoute au bilan qu’on doit vérifier l’heure dans le registre avant d’afficher. Il propose de garder l’accueil du samedi et de retenter un dimanche le mois prochain avec Nathalie. Il rappelle que les adhérents appellent le numéro du club. Gasparde veut encore revoir l’accord avec le comité samedi, après l’accueil. Elle écrit dix heures trente sur le brouillon, puis passe le crayon à Basile pour qu’il note le temps réservé aux questions téléphoniques.
+
+---
+
+**Conclusion**
+
+L’heure correcte repart vers Dounia et son amie. Le bilan garde une consigne sur le registre, tandis que Gasparde reprend avec Basile la question du téléphone. L’erreur a demandé une réponse, sans décider de la place qu’elle gardera le samedi.

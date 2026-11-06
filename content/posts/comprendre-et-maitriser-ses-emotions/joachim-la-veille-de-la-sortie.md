@@ -31,20 +31,81 @@ Ana regarde le téléphone qui vibre. Joachim s’attend à trouver un nouveau m
 
 ## Une peur qui commence avant la situation
 
-L’anxiété d’anticipation peut accompagner l’agoraphobie. La personne pense à une situation future et imagine ce qui arriverait si elle devait sortir ou trouver de l’aide. Une vérification peut donner une information utile, par exemple l’heure de fermeture d’un service.
+Dans l’agoraphobie, l’anxiété peut commencer avant d’arriver dans le lieu redouté. La personne imagine ce qui se passerait si elle devait s’éloigner ou demander de l’aide. Vérifier un horaire peut donner une information utile, puis la même question peut continuer à revenir sans information nouvelle. En écoutant Ana, Joachim se rend compte que la sortie du lendemain prend déjà une partie de leur dîner.
 
-## Comment cette difficulté se manifeste
+## Comment une sortie du lendemain peut-elle occuper la soirée ?
 
-Joachim a déjà cette information quand il reprend son téléphone. Il repasse surtout des variantes de ce qui pourrait le coincer le lendemain. Pendant ces minutes, sa fille lui parle d’un événement important pour elle. La conversation perd en disponibilité alors qu’il est chez lui et que le déplacement reste incertain.
+### Préparer apporte une réponse concrète
 
-Cet effet aide à comprendre le retentissement de l’agoraphobie. Il y a les sorties que quelqu’un annule. Il y a aussi celles qu’il fait avec beaucoup d’effort et celles qui mobilisent du temps pendant les jours qui précèdent. Un proche peut voir un agenda à peu près rempli et ignorer la place que ces préparatifs ont prise.
+Une information horaire ou un point de rendez-vous peut répondre à une vraie question pratique.
 
-## Choisir ce qui doit être décidé ce soir
+**Exemples concrets**
 
-Ana demande à Joachim s’il lui reste une décision pratique à prendre. Il voudrait avertir Diego de l’endroit où il pense le rejoindre et savoir s’ils parleront de la carte après le repérage. Il peut envoyer ce message une fois le dîner terminé. La suite des horaires a une autre fonction pour lui. Il essaie d’obtenir l’assurance qu’une sortie ne sera jamais difficile. Cette assurance dépasse ce que le tableau du bus peut lui dire. Il décide de reparler de cette soirée avec Louise, sa psychologue. Il veut lui décrire le moment où il a perdu le fil du récit d’Ana.
+- Joachim veut savoir comment rejoindre Diego après ses courses.
+- Deux personnes peuvent décider d’un lieu où se retrouver si l’une vient à pied.
 
-La décision de ce soir appartient à Joachim. Il choisit d’inviter Ana à reprendre sa phrase. Elle peut lui dire si elle a envie de la raconter à nouveau. Le lendemain, ils pourront chacun poursuivre les projets qui les occupent, y compris si le repérage change encore de forme.
+### La vérification revient malgré la réponse
+
+La préoccupation peut se prolonger après qu’une information utile a été trouvée.
+
+**Exemples concrets**
+
+- Joachim ouvre de nouveau l’image de l’horaire quand un avis de colis fait vibrer son téléphone.
+- Une personne peut rouvrir le même plan plusieurs fois après avoir déjà trouvé l’heure et l’arrêt.
+
+### La soirée présente perd un détail
+
+L’attention retenue par la sortie du lendemain peut laisser échapper ce que quelqu’un dit aujourd’hui.
+
+**Exemples concrets**
+
+- Ana se met à parler plus vite pendant que Joachim regarde son écran.
+- Quand elle reprend l’histoire de la clé, Joachim découvre qu’il avait compris l’inverse.
+
+## 3 techniques pour retrouver le fil d’une soirée prise par l’anticipation
+
+### 1. Distinguer la question résolue de celle qui revient
+
+Clarifier ce qui reste à organiser avant une sortie.
+
+**Exercice pratique**
+
+- Notez l’information pratique qui vous manque.
+- Relevez la réponse et le moment où elle pourrait réellement changer.
+- Si l’inquiétude revient avec la même question, gardez cet exemple pour le suivi.
+
+Vous disposez d’un repère pratique et d’un exemple de ce que l’anticipation vous coûte.
+
+### 2. Demander de reprendre une phrase
+
+Revenir à une conversation qui vous intéresse.
+
+**Exercice pratique**
+
+- Dites à la personne que votre attention est partie vers autre chose.
+- Demandez-lui à quel point elle peut reprendre son récit.
+- Choisissez ensemble de continuer maintenant ou de reprendre à un autre moment.
+
+L’échange peut retrouver son fil sans que le proche doive résoudre le trajet.
+
+### 3. Donner un rendez-vous révisable
+
+Laisser une place au projet sans passer toute la soirée à le régler.
+
+**Exercice pratique**
+
+- Choisissez un lieu ou une heure que vous pouvez proposer.
+- Dites quel détail demande encore confirmation.
+- Indiquez quand vous ferez le point.
+
+La prochaine décision est datée et vous pouvez revenir à ce que vous faisiez.
 
 ## Un message après le dîner
 
 Ana reprend depuis le moment où elle a trouvé une clé sur son bureau. Joachim découvre qu’il avait compris l’inverse. Sa collègue lui a confié la permanence qu’elle réclamait depuis des mois. Quand Ana part, il écrit à Diego qu’il passera par le marché et qu’ils pourront se voir du côté du lavoir. Il s’engage à lui confirmer le rendez-vous après ses courses. Il ajoute l’image de la boîte aux lettres au dossier qu’ils partagent.
+
+---
+
+**Conclusion**
+
+Joachim repose le téléphone et entend enfin pourquoi Ana a trouvé la clé sur son bureau. Il peut proposer le lavoir à Diego avec un moment pour confirmer. Le trajet occupe encore ses pensées, et le dîner montre à quel point cette inquiétude peut commencer tôt.

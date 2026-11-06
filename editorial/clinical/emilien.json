@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce que désigne un épisode maniaque",
-          "text": "Dans la CIM-11 de l’OMS, le trouble bipolaire de type I (6A60) implique au moins un épisode maniaque ou mixte, actuel ou passé, établi cliniquement. Des épisodes dépressifs peuvent également survenir. Les épisodes ne se déduisent ni du caractère d’une personne ni d’un changement d’humeur pris isolément."
+          "heading": "La joie n’est pas un épisode maniaque",
+          "text": "Un enthousiasme peut accompagner une bonne nouvelle, y compris quand on vit avec un trouble bipolaire. Dans le type I, l’histoire clinique comprend au moins un épisode maniaque ou mixte. Lors d’une manie, l’humeur et l’activité changent ensemble et le retentissement peut être important. L’équipe examine l’évolution au-delà d’un instant. Émilien parle vite de sa trouvaille, ce qui lui rappelle un ancien épisode. Ce qu’il fait avant et après l’envoi du message donne plus d’informations que son débit de parole."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour la manie, l’évaluation tient compte d’un changement net par rapport au fonctionnement habituel, de sa persistance, de l’activité ou de l’énergie, des autres symptômes et de leurs conséquences. L’humeur peut être très élevée ou irritable. Une diminution du besoin de sommeil, des paroles plus difficiles à interrompre et des décisions inhabituelles peuvent entrer dans le tableau. Une conversation animée ou la joie qui suit une trouvaille n’en donnent pas à elles seules la mesure."
+          "heading": "Comment distinguer un élan ordinaire d’un changement plus large ?",
+          "points": [
+            {
+              "heading": "Un plaisir qui a son objet",
+              "text": "Le rire retrouvé a une histoire. Il compte pour Émilien parce qu’il rend à l’annonce de la vendeuse son ton et sa place dans le marché.",
+              "examples": [
+                "Il revient sur le prix des poires avant de découvrir le rire à la fin de la phrase.",
+                "Il envoie à Lucie un message pour lui faire entendre ce détail qu’ils ont mis du temps à retrouver."
+              ]
+            },
+            {
+              "heading": "Un souvenir qui rend attentif",
+              "text": "Un point commun avec une période passée peut réveiller une inquiétude sans renseigner à lui seul sur l’état actuel.",
+              "examples": [
+                "Émilien réécoute sa note dans le métro et reconnaît le débit d’un ancien message.",
+                "Quelqu’un peut hésiter à raconter une bonne nouvelle en rentrant, parce que son entourage s’était déjà inquiété d’un enthousiasme dans un autre contexte."
+              ]
+            },
+            {
+              "heading": "Un projet qui garde ses limites",
+              "text": "La suite de la journée aide à voir si l’élan prend une place inhabituelle dans plusieurs activités.",
+              "examples": [
+                "Émilien conserve l’accord d’un seul extrait dans la semaine, même quand le montage lui donne des idées.",
+                "À la maison, il ferme le fichier pour passer à table avec Lucie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Repartir de ce qui change pour Émilien",
-          "text": "Lors de l’évaluation, Émilien a raconté qu’il avait autrefois prolongé ses journées sans se sentir fatigué et proposé des dates de travail qu’il ne pouvait plus honorer. Ces exemples ont aidé l’équipe à comprendre l’ensemble de la période ; ce ne sont pas des critères que Dorian doit appliquer chaque fois que le casque reste branché.\n\nLe NICE recommande de construire le plan de soins avec la personne et de discuter avec elle des signes qui, dans son cas, méritent un avis. Émilien peut en parler à Lucie sans lui demander de rendre un verdict sur sa note vocale. Si les signes qu’il connaît se regroupent ou que leur évolution l’inquiète, leur plan lui indique qui appeler. Le plan sert à trouver du soutien ; il n’a pas à devenir l’arbitre de tout ce qui lui fait plaisir."
+          "heading": "3 techniques pour garder des repères sans surveiller chaque joie",
+          "points": [
+            {
+              "heading": "Retrouver ce qui a fait plaisir",
+              "objective": "Décrire le moment qui a déclenché l’enthousiasme.",
+              "exercise": [
+                "Nommez la trouvaille, la rencontre ou la bonne nouvelle.",
+                "Dites à quelqu’un ce qui vous a plu, si vous voulez le partager.",
+                "Revenez à ce que vous aviez prévu de faire ensuite."
+              ],
+              "benefit": "Le plaisir retrouve sa place dans la journée et peut se partager sans examen permanent."
+            },
+            {
+              "heading": "Regarder la suite de la journée",
+              "objective": "Replacer un changement de ton dans le quotidien.",
+              "exercise": [
+                "Prenez un fait que vous avez remarqué, comme un message envoyé très vite.",
+                "Demandez-vous ce qui a changé ou continué pour les repas, le repos et les engagements.",
+                "Si la question persiste ou que plusieurs changements se prolongent, reprenez-la avec l’équipe."
+              ],
+              "benefit": "L’évolution du quotidien donne des éléments qu’un message vocal ne contient pas."
+            },
+            {
+              "heading": "Accueillir la trouvaille et préciser quand en parler",
+              "objective": "Distinguer ce que l’on partage avec un proche de ce que l’on voudrait signaler aux soignants.",
+              "exercise": [
+                "Choisissez un détail du projet que vous souhaitez montrer.",
+                "Si une inquiétude revient, dites au proche ce que vous accepteriez qu’il vous signale.",
+                "Avec l’équipe, précisez les changements personnels qui justifient de reprendre contact."
+              ],
+              "benefit": "Le proche peut continuer à s’intéresser au projet et savoir où trouver un relais si la situation change."
+            }
+          ]
         }
       ],
       "ending": "En arrivant, Émilien trouve Lucie en train de réchauffer le plat. Il lui fait écouter cinq secondes, jusqu’au rire. Elle lui demande de remettre le début parce qu’elle entend d’abord une roue. Il rit lui aussi : Dorian et lui viennent de passer une partie de l’après-midi à se poser cette question. Il ferme le fichier avant de s’asseoir. Pour la séance suivante, il garde dans sa poche le papier où Dorian a écrit : « Laisser le chariot ? »",
@@ -52,7 +108,8 @@
       },
       "ending_title": "Le premier extrait reste au montage",
       "clinical_focus": "Variations ordinaires de l’humeur",
-      "clinical_intro": "Émilien se réjouit d’avoir retrouvé une voix dans un enregistrement du marché. Avec son trouble bipolaire de type I, il lui arrive de se demander comment interpréter une telle énergie. Pour évaluer une manie, l’équipe regarde l’évolution de l’humeur, du sommeil, de l’activité et de leurs conséquences ensemble. Le plaisir précis qu’il éprouve dans le studio a aussi sa propre histoire."
+      "clinical_intro": "Émilien se réjouit d’avoir retrouvé une voix dans un enregistrement du marché. Avec son trouble bipolaire de type I, il lui arrive de se demander comment interpréter une telle énergie. Pour évaluer une manie, l’équipe regarde l’évolution de l’humeur, du sommeil, de l’activité et de leurs conséquences ensemble. Le plaisir précis qu’il éprouve dans le studio a aussi sa propre histoire.",
+      "conclusion": "Le message rapide rappelle une période sérieuse à Émilien. Il peut écouter ce rappel et profiter du rire trouvé avec Dorian. Pour comprendre un épisode, l’équipe reprend un ensemble de changements dans le temps. Ce soir, Émilien a surtout une découverte à partager."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre deux façons de dormir moins",
-          "text": "Une mauvaise nuit peut laisser quelqu’un épuisé, par exemple après un bruit répété ou une inquiétude. La diminution du besoin de sommeil décrite dans la manie peut prendre une autre forme : la personne dort peu et continue à se sentir reposée ou pleine d’énergie."
+          "heading": "Dormir peu et vouloir encore dormir",
+          "text": "La durée d’une nuit renseigne sur le temps passé à dormir. Le besoin de sommeil se lit aussi dans ce que la personne ressent ensuite. Au cours d’une manie, une personne peut dormir nettement moins tout en se sentant reposée ou pleine d’énergie. Un réveil imposé par le bruit peut au contraire laisser le besoin de récupérer intact. Émilien a connu les deux expériences. La gouttière lui fournit des éléments à décrire, mais c’est l’évolution avec le reste de son quotidien que les soignants peuvent examiner."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ce signe fait partie d’un ensemble et ne permet pas, même lorsqu’il est présent, de conclure à lui seul. À l’inverse, avoir une explication plausible pour une mauvaise nuit ne suffit pas à écarter une évolution si d’autres changements apparaissent. Dans le cas d’Émilien, le bruit est certain et la fatigue aussi ; la suite de la semaine, elle, reste à vivre."
+          "heading": "Comment la différence entre manquer de sommeil et en ressentir moins le besoin apparaît-elle ?",
+          "points": [
+            {
+              "heading": "L’envie de se rendormir",
+              "text": "Ce que l’on voudrait faire une fois réveillé donne un premier renseignement que l’heure ne fournit pas.",
+              "examples": [
+                "Émilien dit à Lucie qu’il voudrait se recoucher après les coups sur le pot.",
+                "Dans son ancienne note, il retrouve l’idée que rester au lit lui faisait perdre du temps, alors qu’il avait peu dormi."
+              ]
+            },
+            {
+              "heading": "L’état au lever",
+              "text": "Deux nuits de même durée peuvent laisser des impressions très différentes le lendemain.",
+              "examples": [
+                "Après la gouttière, Émilien s’aperçoit qu’il n’a pas mis son pain à griller et ne se voit pas travailler longtemps au casque.",
+                "Dans son souvenir d’avant l’épisode, il est déjà parti chercher des piles avant l’ouverture du magasin."
+              ]
+            },
+            {
+              "heading": "La place du contexte",
+              "text": "Le bruit, la suite des nuits et les changements d’activité donnent des précisions qui se complètent.",
+              "examples": [
+                "Émilien peut associer son réveil de trois heures dix au pot déplacé sous la fenêtre.",
+                "Si plusieurs nuits courtes s’accompagnent d’engagements inhabituels pris à l’aube, ces engagements font aussi partie de ce qu’il peut rapporter."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la question assez courte pour la poser",
-          "text": "Émilien ne sait plus si la mention du sommeil sur son plan lui demande de surveiller chaque réveil ou de joindre l’équipe dans des circonstances plus précises. Les recommandations du NICE prévoient que la personne discute avec les professionnels de ses signaux, de la conduite convenue et du contact à utiliser si l’inquiétude augmente. Au rendez-vous déjà fixé, il peut apporter sa question et l’exemple de cette nuit. Si les signes s’accentuent avant, il utilise le contact prévu sans attendre ce rendez-vous.\n\nAu travail, il peut prendre une décision pour l’après-midi avec les informations dont il dispose déjà. Fatigué, il ne se fie pas à son oreille pour une longue séance de restauration. Dorian n’a pas besoin de recevoir ses notes de santé pour comprendre qu’il faut déplacer cette écoute."
+          "heading": "3 techniques pour décrire un changement de sommeil",
+          "points": [
+            {
+              "heading": "Noter le réveil sans remplir les blancs",
+              "objective": "Garder une trace de la nuit telle qu’on s’en souvient.",
+              "exercise": [
+                "Notez l’heure approximative et, si vous le connaissez, ce qui vous a réveillé.",
+                "Indiquez si vous aviez envie de continuer à dormir.",
+                "Laissez une mention « je ne sais pas » pour les moments dont vous n’avez pas le souvenir."
+              ],
+              "benefit": "La note sépare l’observation d’une reconstitution incertaine et peut servir lors d’un échange clinique."
+            },
+            {
+              "heading": "Ajuster une tâche à son état du matin",
+              "objective": "Tenir compte d’une fatigue constatée dans l’activité prévue.",
+              "exercise": [
+                "Choisissez la tâche qui demande le plus de concentration.",
+                "Prévenez la personne concernée de ce que vous pouvez maintenir aujourd’hui.",
+                "Proposez un autre moment pour la partie à déplacer."
+              ],
+              "benefit": "Émilien peut aller parler à la vendeuse et garder le montage exigeant pour un autre jour."
+            },
+            {
+              "heading": "Demander quand transmettre l’information",
+              "objective": "Savoir quelle évolution justifie un avis avant le prochain rendez-vous.",
+              "exercise": [
+                "Apportez un exemple récent et, si vous en avez un, un exemple d’une période très différente.",
+                "Demandez quels changements d’énergie ou d’activité le plan invite à signaler avec le sommeil.",
+                "Notez le contact et la façon de le joindre si ces changements surviennent."
+              ],
+              "benefit": "La décision de demander conseil repose sur des repères discutés avec l’équipe."
+            }
+          ]
         }
       ],
       "ending": "Ils se retrouvent au marché après l’ouverture. Émilien demande à la vendeuse s’il a bien entendu le prix ; elle lui dit qu’à l’époque elle annonçait souvent les deux montants, au kilo et à la cagette. Dorian voudrait lui faire entendre l’enregistrement plus tard, quand le stand sera moins occupé. Émilien garde ce rendez-vous possible et décale le montage. Sur le trajet du retour, il ouvre sa note et remplace le point d’interrogation qu’il avait laissé seul par une phrase : « Dans quel cas je vous appelle avant notre prochain rendez-vous ? »",
@@ -97,7 +210,8 @@
       },
       "ending_title": "Une question de sommeil pour l’équipe",
       "clinical_focus": "Besoin de sommeil réduit",
-      "clinical_intro": "Le bruit de la gouttière réveille Émilien et il manque d’énergie le lendemain. Dans un épisode maniaque, la diminution du besoin de sommeil peut prendre une autre forme, avec peu de sommeil et le sentiment d’être encore plein d’énergie. Cette différence l’aide à formuler sa question. L’équipe l’apprécie parmi d’autres changements et en tenant compte du contexte."
+      "clinical_intro": "Le bruit de la gouttière réveille Émilien et il manque d’énergie le lendemain. Dans un épisode maniaque, la diminution du besoin de sommeil peut prendre une autre forme, avec peu de sommeil et le sentiment d’être encore plein d’énergie. Cette différence l’aide à formuler sa question. L’équipe l’apprécie parmi d’autres changements et en tenant compte du contexte.",
+      "conclusion": "Émilien conserve le rendez-vous au marché et reporte la séance au casque. Sa fatigue après la gouttière et son ancien élan au petit matin éclairent des vécus différents. La question qu’il garde pour l’équipe porte sur la conduite à tenir si le sommeil change de nouveau."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce qu’un plan partagé doit rendre possible",
-          "text": "Un plan de soins peut rassembler plusieurs choses : les objectifs de la personne, les changements qui l’incitent à demander un avis, les coordonnées utiles et la réponse convenue si une inquiétude augmente. Le NICE recommande de l’élaborer avec la personne et de discuter, avec son accord et quand c’est possible, de la place des proches. Le plan n’est ni un test à réussir ni une liste de symptômes à interpréter en famille. Il doit aider à trouver le bon interlocuteur quand l’attention, le temps ou les informations manquent."
+          "heading": "Des repères personnels à partager par choix",
+          "text": "Un plan de soins pour le trouble bipolaire peut décrire les changements qui ont précédé un épisode, préciser les contacts utiles et convenir d’une réponse adaptée. Les repères sont propres à la personne et se discutent avec elle. La note sur la gouttière explique pourquoi Émilien tient à la nuance. L’infirmière l’aide à faire une place à ses souvenirs et, avec son accord, à ce que Lucie a observé et accepte de faire."
         },
         {
           "role": "manifestations",
-          "heading": "Les changements qu’Émilien et Lucie ont remarqués",
-          "text": "Émilien se rappelle plusieurs nuits courtes sans fatigue et des engagements pris très vite. Il avait annoncé une date à Dorian sans vérifier si le lieu était libre. Le lendemain, il s’est rappelé qu’il lui en avait déjà donné une autre. Lucie se souvient qu’il lançait une autre idée avant qu’elle ait pu répondre à la première. Chacun rapporte ce qu’il avait remarqué avant l’épisode. Plusieurs personnes s’en étaient inquiétées avant Émilien."
+          "heading": "Comment rendre des signes d’alerte personnels utilisables au quotidien ?",
+          "points": [
+            {
+              "heading": "Une suite d’événements reconnaissable",
+              "text": "Un repère devient plus précis quand il décrit ce qui a changé par rapport aux habitudes et ce qui a suivi.",
+              "examples": [
+                "Émilien associe plusieurs nuits sans fatigue aux dates annoncées sans avoir consulté les disponibilités.",
+                "Il se souvient avoir donné deux dates différentes à Dorian avant de s’en rendre compte."
+              ]
+            },
+            {
+              "heading": "Deux points de vue sur le même moment",
+              "text": "Le témoignage d’un proche peut compléter le vécu de la personne et se limiter à ce qu’il a vu ou entendu.",
+              "examples": [
+                "Lucie se rappelle les idées qui arrivaient avant qu’elle puisse répondre à la précédente.",
+                "Émilien, lui, se rappelle surtout le temps qu’il pensait pouvoir gagner en se levant tôt."
+              ]
+            },
+            {
+              "heading": "Une marche à suivre qu’on retrouve",
+              "text": "Un signe repéré sert surtout si le plan indique ensuite qui contacter, même quand le proche n’est pas sur place.",
+              "examples": [
+                "Au cabinet, Lucie demande ce qu’elle peut faire un jour où elle n’est pas à la maison.",
+                "Ils fixent la page des contacts au réfrigérateur et gardent les autres pages dans les papiers d’Émilien."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider ensemble de ce que Lucie peut prendre en charge",
-          "text": "Émilien veut que Lucie puisse nommer un changement, l’aider à retrouver le numéro et, s’il le demande, rester à côté de lui pendant l’appel. Lucie accepte ces gestes quand elle est disponible. Elle ne veut pas compter ses heures de sommeil ni recevoir toute sa correspondance médicale. Émilien demande que la conduite à tenir figure à côté du contact, avec un repère pour les heures où le contact habituel ne répond pas. Ils relisent avec l’infirmière la partie sur le recours urgent. En cas de danger immédiat, les services d’urgence sont le recours prévu ; Lucie n’a pas à régler seule la situation. Les décisions de traitement restent à discuter avec les professionnels.\n\nDorian, lui, n’a pas besoin d’une copie. Émilien peut simplement convenir avec lui de la manière de reporter une séance ou de laisser un dossier de travail accessible s’il doit s’absenter."
+          "heading": "3 techniques pour préparer un plan d’alerte qui sert",
+          "points": [
+            {
+              "heading": "Revenir sur une période passée avec l’équipe",
+              "objective": "Retrouver des changements personnels assez précis pour être décrits.",
+              "exercise": [
+                "Choisissez une période déjà évaluée par les soignants.",
+                "Racontez un changement que vous avez ressenti et une conséquence concrète.",
+                "Demandez quels éléments l’équipe vous propose de lui signaler s’ils reviennent."
+              ],
+              "benefit": "Les repères partent de l’histoire de la personne plutôt que d’un inventaire général."
+            },
+            {
+              "heading": "Mettre le rôle du proche en une phrase",
+              "objective": "Fixer un appui que chacun accepte.",
+              "exercise": [
+                "Dites quel type de remarque pourrait vous être utile.",
+                "Demandez au proche ce qu’il peut faire, par exemple donner le numéro ou rester pendant l’appel.",
+                "Indiquez avec l’équipe vers qui vous tourner quand il n’est pas disponible."
+              ],
+              "benefit": "L’appui est clair et le recours ne dépend pas de la présence d’une seule personne."
+            },
+            {
+              "heading": "Garder la bonne page à portée",
+              "objective": "Retrouver la marche à suivre quand l’attention manque.",
+              "exercise": [
+                "Repérez avec l’équipe les coordonnées et les consignes à retrouver vite.",
+                "Choisissez un endroit connu pour cette page et gardez les informations privées séparément.",
+                "Vérifiez ensemble qui peut en conserver une copie et à quelles conditions."
+              ],
+              "benefit": "Le contact peut être retrouvé rapidement sans faire circuler le reste du dossier."
+            }
+          ]
         }
       ],
       "ending": "À la maison, Lucie retire de la porte du réfrigérateur un prospectus sur la collecte de verre. Ils fixent à la place le feuillet avec les contacts et gardent le reste dans les papiers d’Émilien. Lucie propose de prendre une photo de cette seule page, avec son accord. Quand Dorian appelle au sujet d’une proposition de diffusion, Émilien lui dit qu’il pourra la regarder demain. Pour l’instant, ils ont tous les deux envie de finir leur repas.",
@@ -142,7 +312,8 @@
       },
       "ending_title": "Ce que Lucie accepte de faire",
       "clinical_focus": "Repérage des signes d’alerte",
-      "clinical_intro": "Émilien décide quel feuillet il veut partager avec Lucie. Ils précisent les changements auxquels prêter attention, la manière d’en parler et qui joindre en cas d’inquiétude. Dans le trouble bipolaire, ce plan s’appuie sur l’histoire de la personne et se prépare avec les soignants. Il donne un appui à Lucie tout en laissant à Émilien la possibilité de choisir ce qu’elle sait."
+      "clinical_intro": "Émilien décide quel feuillet il veut partager avec Lucie. Ils précisent les changements auxquels prêter attention, la manière d’en parler et qui joindre en cas d’inquiétude. Dans le trouble bipolaire, ce plan s’appuie sur l’histoire de la personne et se prépare avec les soignants. Il donne un appui à Lucie tout en laissant à Émilien la possibilité de choisir ce qu’elle sait.",
+      "conclusion": "Le feuillet sur le réfrigérateur contient de quoi appeler. Les souvenirs d’Émilien et de Lucie ont servi à préciser des changements à signaler et la place que Lucie veut tenir. C’est l’équipe qui peut examiner ce que ces changements signifient s’ils reviennent."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre pourquoi plusieurs changements comptent ensemble",
-          "text": "Dormir moins sans ressentir le besoin de récupérer, multiplier des projets et engager de l’argent plus vite qu’à l’ordinaire peuvent faire partie d’un changement que l’équipe cherchera à comprendre."
+          "heading": "Quand une idée devient un engagement trop vite",
+          "text": "Au cours d’une manie, l’augmentation de l’activité peut s’accompagner de décisions plus rapides ou plus risquées que d’habitude. Un projet ambitieux ne suffit pas à l’établir. Émilien voulait demander un prix. Il cherche maintenant à confirmer quatre séances, avec un acompte, avant que son collègue ne réponde. L’écart avec leur accord devient plus préoccupant quand il s’accompagne de plusieurs nuits très courtes sans besoin ressenti de repos."
         },
         {
           "role": "manifestations",
-          "heading": "Des nuits plus courtes et des décisions qui s’accélèrent",
-          "text": "Depuis trois nuits, Émilien dort peu sans avoir envie de se rendormir. Au lieu de demander le prix pour un essai, il décrit aussitôt une installation pour toute la place. Il a déjà envoyé à Dorian une liste de morceaux à l’aube et remanié le plan trois fois, sans attendre de réponse. Le projet lui plaît réellement. C’est la succession des décisions et des changements de sommeil, par rapport à ses habitudes, qui attire l’attention."
+          "heading": "Comment l’accélération des décisions se voit-elle devant un devis ?",
+          "points": [
+            {
+              "heading": "Le projet s’agrandit pendant la conversation",
+              "text": "Des idées successives peuvent devenir des tâches à promettre alors que le besoin de départ est toujours le même.",
+              "examples": [
+                "Émilien entre pour une petite installation et commence à prévoir les quatre coins de la place.",
+                "Avant que Dorian ait répondu, il a déjà envoyé sa liste de morceaux et corrigé son plan trois fois."
+              ]
+            },
+            {
+              "heading": "L’étape de vérification se raccourcit",
+              "text": "La disponibilité, l’accord des autres et les coûts peuvent passer derrière l’envie d’avancer.",
+              "examples": [
+                "Il cherche la signature avant de demander aux commerçants quels passages ils souhaitent faire entendre.",
+                "Il découvre sur la dernière ligne que le vendeur parle de séances confirmées et non d’une option."
+              ]
+            },
+            {
+              "heading": "La décision arrive après des nuits inhabituelles",
+              "text": "Un changement de rythme et une prise d’engagement inhabituelle peuvent donner ensemble une raison de solliciter l’équipe.",
+              "examples": [
+                "Lucie a vu la lampe allumée plusieurs nuits et Émilien lui dit qu’il ne voudrait pas se rendormir.",
+                "Il envoie des éléments du projet à cinq heures vingt et se prépare à verser un acompte avant midi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre l’engagement en attente et demander un avis",
-          "text": "Émilien dispose de deux interlocuteurs différents. Dorian est celui avec qui il s’était engagé à choisir le matériel et l’extrait. L’équipe de soins est celle à qui il peut décrire ses nuits, ses messages à l’aube et sa précipitation autour du devis. Le NICE recommande d’aborder les décisions importantes dans la prise en charge de la manie ou de l’hypomanie et de préciser qui joindre si la situation suscite de l’inquiétude. Ici, Émilien reporte l’acompte et utilise le contact convenu dès maintenant. Il n’essaie ni de s’attribuer un diagnostic ni de modifier un traitement. Si la situation s’aggrave, il suit le recours prévu avec l’équipe."
+          "heading": "3 techniques pour ralentir une décision qui engage",
+          "points": [
+            {
+              "heading": "Revenir à la demande de départ",
+              "objective": "Identifier ce que l’on était venu obtenir avant de donner un accord.",
+              "exercise": [
+                "Rouvrez le message ou la note qui fixe l’objectif initial.",
+                "Relevez ce que la proposition ajoute en dates, en tâches ou en argent.",
+                "Demandez une copie indiquant que vous n’avez encore rien réservé."
+              ],
+              "benefit": "Un devis peut redevenir un document à examiner plutôt qu’une décision déjà prise."
+            },
+            {
+              "heading": "Remettre les décisions communes à deux",
+              "objective": "Rendre sa place à la personne qui devra tenir l’engagement avec vous.",
+              "exercise": [
+                "Dites où vous en êtes et ce que vous n’avez pas confirmé.",
+                "Demandez quelles vérifications votre collègue juge encore nécessaires.",
+                "Revenez à la plus petite étape qu’il accepte lui aussi, même si elle reste en attente."
+              ],
+              "benefit": "Le projet retrouve une taille et des délais que les participants peuvent discuter."
+            },
+            {
+              "heading": "Signaler ce qui a changé en même temps",
+              "objective": "Donner au soignant assez de contexte pour apprécier le besoin d’un avis.",
+              "exercise": [
+                "Appelez le contact convenu si la situation correspond à votre plan ou vous préoccupe.",
+                "Décrivez les nuits, le niveau de fatigue et la décision inhabituelle.",
+                "Demandez comment reprendre contact si le changement s’accentue avant le rendez-vous."
+              ],
+              "benefit": "Le soignant dispose d’éléments pour préciser la suite indépendamment de ce que décide le vendeur."
+            }
+          ]
         }
       ],
       "ending": "Émilien retourne au comptoir. Il demande une copie du devis et précise que les quatre séances ne sont pas confirmées. Dehors, il appelle le contact indiqué et décrit les trois nuits, puis convient d’un point avec l’équipe. Dorian reçoit une seule phrase : « Je n’ai rien réservé ; on garde l’essai d’une matinée en attente. » Émilien se voit encore expliquer son installation à qui voudrait l’entendre. Il plie le devis et le range. Pour aujourd’hui, les enceintes restent chez le vendeur.",
@@ -187,7 +414,8 @@
       },
       "ending_title": "L’acompte reste en attente",
       "clinical_focus": "Accélération des prises de décision",
-      "clinical_intro": "Après plusieurs nuits très courtes, Émilien envisage de signer un devis sans attendre Dorian. Il compare cette envie à sa façon habituelle de décider et aux changements qui avaient précédé son dernier épisode. Dans le trouble bipolaire, l’association de plusieurs changements d’énergie et de comportement éclaire l’intérêt d’un avis précoce. Le devis peut rester en attente pendant que l’équipe examine la situation."
+      "clinical_intro": "Après plusieurs nuits très courtes, Émilien envisage de signer un devis sans attendre Dorian. Il compare cette envie à sa façon habituelle de décider et aux changements qui avaient précédé son dernier épisode. Dans le trouble bipolaire, l’association de plusieurs changements d’énergie et de comportement éclaire l’intérêt d’un avis précoce. Le devis peut rester en attente pendant que l’équipe examine la situation.",
+      "conclusion": "Émilien renonce à verser l’acompte et appelle l’équipe alors que l’installation l’enthousiasme toujours. Il peut mettre le projet en attente avant de savoir ce que signifie ce changement de rythme. Les décisions pratiques et l’évaluation des signes avancent chacune avec le bon interlocuteur."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre quand un nouveau risque change la réponse",
-          "text": "Émilien n’est plus seulement devant un devis qu’il peut laisser de côté. Il s’apprête à conduire alors qu’il perd le fil de ses échanges, après plusieurs nuits très courtes et alors que le déplacement n’a plus d’objet ce soir. Un rendez-vous est déjà prévu. De nouveaux éléments peuvent pourtant rendre nécessaire de reprendre contact plus vite."
+          "heading": "La décision de conduire change le niveau de risque",
+          "text": "Pendant un épisode maniaque, une personne peut sous-estimer le danger d’une décision et se sentir capable d’en faire davantage qu’à l’ordinaire. À la gare, Émilien est sur le point de prendre la route malgré plusieurs nuits très courtes, des échanges qu’il peine à suivre et un dépôt fermé. Le risque concret motive une réponse rapide avant toute conclusion sur l’épisode. Un rendez-vous déjà prévu ne dispense pas de demander un avis urgent si la situation s’aggrave."
         },
         {
           "role": "manifestations",
-          "heading": "La conduite devient urgente à ses yeux",
-          "text": "Émilien a avancé la réservation du fourgon et veut partir alors que le dépôt est fermé. Il peine à retrouver le fil de ses derniers appels et ne retrouve plus la pochette avec l’adresse. Il a presque cessé de dormir et ne ressent pas le besoin de se reposer. Dorian voit qu’il veut prendre le volant malgré ces difficultés. Cette prise de risque ajoute une urgence aux changements qu’Émilien avait déjà signalés."
+          "heading": "Comment la prise de risque se construit-elle avant le départ ?",
+          "points": [
+            {
+              "heading": "Un déplacement qui perd sa raison d’être",
+              "text": "Le sentiment d’urgence peut rester vif alors que les faits ne justifient plus de partir.",
+              "examples": [
+                "Le dépôt confirme sa fermeture. Émilien propose quand même d’attendre devant la grille.",
+                "La location était prévue la semaine suivante et se retrouve avancée à ce soir sans nécessité pour l’essai."
+              ]
+            },
+            {
+              "heading": "Une tâche qui demande une attention indisponible",
+              "text": "La conduite demande de pouvoir se concentrer. Les signes observables sur place peuvent justifier de renoncer au trajet avant d’en chercher la cause.",
+              "examples": [
+                "Émilien n’arrive plus à retrouver le fil de ses deux derniers appels.",
+                "Il tient son permis et la clé, mais ne sait plus où il a rangé l’adresse du dépôt."
+              ]
+            },
+            {
+              "heading": "Un rendez-vous devenu trop lointain",
+              "text": "Un risque nouveau peut justifier de mobiliser le recours urgent du plan.",
+              "examples": [
+                "L’équipe a fixé un point après le devis. Depuis, Émilien a encore moins dormi et s’apprête à conduire.",
+                "Il sait qu’un autre contact existe si les choses changent et demande à Lucie de le lui redonner."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner la priorité à la sécurité et passer le relais",
-          "text": "Lucie peut retrouver le contact urgent prévu dans le plan. Dorian peut proposer à Émilien de s’asseoir à côté de lui près du kiosque, s’il le souhaite. Le but immédiat est de ne pas partir au volant et de joindre un professionnel qui pourra évaluer la situation. Si le danger est immédiat, les services d’urgence prennent le relais. Un proche ne se met pas en danger pour retenir la personne, ne se lance pas dans un débat sur le dépôt et ne tente pas de régler lui-même la question du traitement. Émilien peut prendre part à l’appel et dire ce qu’il veut expliquer en premier.\n\nLe NICE recommande une évaluation spécialisée urgente lorsqu’une manie est suspectée ou qu’il existe un danger pour la personne ou pour d’autres. Il n’est pas nécessaire que les proches sachent nommer l’épisode ni qu’ils attendent de voir si la situation se résout d’elle-même. Ils peuvent décrire la conduite prévue, le changement du sommeil et ce qu’ils observent sur le moment."
+          "heading": "3 techniques pour mettre la sécurité avant le départ",
+          "points": [
+            {
+              "heading": "Renoncer au trajet dès que la conduite inquiète",
+              "objective": "Écarter le risque immédiat sans débat sur le diagnostic.",
+              "exercise": [
+                "Ne prenez pas le volant si votre état ne vous permet pas de conduire en sécurité.",
+                "Laissez la location sur place ou faites annuler le départ auprès du comptoir.",
+                "Si une personne est en danger immédiat, appelez les services d’urgence."
+              ],
+              "benefit": "La décision protège les personnes pendant que la suite est organisée."
+            },
+            {
+              "heading": "Passer du rendez-vous prévu au recours urgent",
+              "objective": "Faire évaluer un changement qui ne peut plus attendre.",
+              "exercise": [
+                "Appelez le service urgent indiqué par l’équipe, ou les secours s’il y a un danger immédiat.",
+                "Donnez votre localisation et dites ce qui vient de changer, dont le projet de trajet et le manque de sommeil.",
+                "Suivez les indications du service pour être évalué et rejoindre le lieu indiqué en sécurité."
+              ],
+              "benefit": "Les professionnels peuvent adapter la réponse au risque actuel."
+            },
+            {
+              "heading": "Demander une présence précise",
+              "objective": "Obtenir un appui pratique sans charger un proche d’évaluer la situation.",
+              "exercise": [
+                "Demandez à une personne disponible d’attendre à un endroit sûr le temps de l’appel.",
+                "Dites-lui ce que vous voulez qu’elle fasse, par exemple retrouver un contact ou aider à organiser le trajet indiqué.",
+                "Laissez le service joint préciser la suite et dites au proche quand il peut repartir."
+              ],
+              "benefit": "L’appui facilite le relais et garde l’évaluation du côté des soignants."
+            }
+          ]
         }
       ],
       "ending": "Émilien remet la clé sur le comptoir et demande à laisser le véhicule là. Il n’est pas convaincu que la sortie était une mauvaise idée ; il sait au moins qu’il n’arrive plus à retrouver l’adresse. Au kiosque, Dorian s’écarte pour qu’il puisse parler. Émilien dit au service joint : « J’ai encore raccourci mes nuits. Je pensais prendre la route alors que tout est fermé. » On lui indique où il va pouvoir être évalué rapidement. Il demande à Dorian s’il peut attendre le temps d’organiser le trajet.",
@@ -232,7 +516,8 @@
       },
       "ending_title": "Les clés restent sur la table",
       "clinical_focus": "Prise de risque en période maniaque",
-      "clinical_intro": "Émilien cherche les clés du fourgon alors que le déplacement peut attendre et qu’il perd le fil de ses échanges. Le manque de sommeil et cette prise de risque changent l’urgence de la situation. Lorsqu’une manie est possible, les professionnels peuvent évaluer rapidement les changements et la sécurité. Lucie s’appuie sur ce qu’elle observe et Émilien peut accepter de laisser le véhicule."
+      "clinical_intro": "Émilien cherche les clés du fourgon alors que le déplacement peut attendre et qu’il perd le fil de ses échanges. Le manque de sommeil et cette prise de risque changent l’urgence de la situation. Lorsqu’une manie est possible, les professionnels peuvent évaluer rapidement les changements et la sécurité. Lucie s’appuie sur ce qu’elle observe et Émilien peut accepter de laisser le véhicule.",
+      "conclusion": "Émilien rend la clé avant d’être convaincu que son projet posait problème. Il décrit au service ce qui s’est passé et suit l’orientation proposée. Un danger concret peut demander une décision de sécurité alors que la situation clinique reste à évaluer."
     },
     {
       "number": 6,
@@ -249,18 +534,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre le retour après un épisode",
-          "text": "Après un épisode, la reprise d’une activité peut être un objectif de rétablissement convenu avec la personne. Le NICE recommande de discuter avec elle des suites des soins, de ses propres objectifs et des aides adaptées si elle souhaite reprendre un emploi. Le moment d’une reprise et sa forme dépendent de sa situation et de l’évaluation avec son équipe."
+          "heading": "Reprendre un geste après la manie",
+          "text": "Après un épisode maniaque, le rétablissement peut passer par une reprise graduelle des activités, discutée avec la personne et son équipe. Retrouver un geste familier et redéfinir ce que chacun prend en charge sont deux tâches différentes. Émilien peut choisir où couper la phrase de la vendeuse. Il doit encore trouver avec Dorian comment ils présenteront les enregistrements. Le créneau convenu lui donne une première place au studio."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Aller mieux ne se mesure pas à la quantité de travail qu’Émilien réussit à reprendre en une seule fois. Il peut participer à une décision qui lui tient à cœur, constater qu’il a besoin d’une pause et conserver sa prochaine consultation. Une séance réussie ne décide pas à elle seule de toute la semaine."
+          "heading": "Comment se présente le retour au studio après un épisode maniaque ?",
+          "points": [
+            {
+              "heading": "Un détail familier dans un projet qui a bougé",
+              "text": "Pendant une absence, les objets, les tâches et les rôles continuent à évoluer. On peut retrouver un point d’entrée sans avoir suivi chaque décision.",
+              "examples": [
+                "Dorian a changé de chaise pour laisser à Émilien la bonne prise de casque.",
+                "Le fichier « Avec le chariot » lui rend un son qu’il connaît dans un dossier réorganisé."
+              ]
+            },
+            {
+              "heading": "L’envie de reprendre plusieurs décisions à la fois",
+              "text": "Une première séance peut donner envie de rattraper tout ce qui s’est passé. Un objectif modeste permet de choisir ce qui est à portée ce jour-là.",
+              "examples": [
+                "Émilien voudrait parler tout de suite de la présentation, alors qu’ils ont prévu de choisir une coupe.",
+                "Il commence à ouvrir un deuxième réglage puis le laisse fermé pour finir le premier essai."
+              ]
+            },
+            {
+              "heading": "Une place retrouvée sans rôle définitif",
+              "text": "Une contribution concrète peut avoir de la valeur avant que la répartition de tout le projet soit arrêtée.",
+              "examples": [
+                "Émilien propose une coupe juste avant le claquement de la caisse et Dorian garde les deux versions.",
+                "Ils gardent la question de la présentation pour après la prochaine écoute."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Remettre le travail en commun sans effacer ce qui s’est passé",
-          "text": "Dorian a tenu deux engagements pendant l’absence d’Émilien et a besoin que son travail soit reconnu. Émilien veut garder la possibilité de proposer et de contester des choix techniques. Ils peuvent discuter du dossier comme deux collègues : convenir de l’extrait à finir, du temps disponible et de qui parlera aux commerçants. Si la présentation change de forme, il est utile de dire à qui revient la décision et quel travail cela ajoute.\n\nÉmilien peut garder la discussion sur sa santé pour les personnes qu’il choisit et préciser à Dorian une limite de séance. Si la fatigue devient un obstacle persistant, il pourra en parler dans le cadre du suivi plutôt que déduire seul qu’il doit arrêter le projet ou y revenir à plein temps."
+          "heading": "3 techniques pour reprendre une tâche à son rythme",
+          "points": [
+            {
+              "heading": "Choisir un résultat à laisser sur la table",
+              "objective": "Définir un premier créneau qui peut se terminer même si le projet reste ouvert.",
+              "exercise": [
+                "Choisissez un passage, un dossier ou une manipulation à reprendre.",
+                "Convenez avec votre collègue du temps dont vous disposez.",
+                "Gardez une trace du choix ou des options encore ouvertes avant de ranger."
+              ],
+              "benefit": "Le travail fait reste utilisable sans demander une séance plus longue."
+            },
+            {
+              "heading": "Faire un état des lieux avec le collègue",
+              "objective": "Comprendre ce qui a avancé en votre absence et ce qu’il reste à décider.",
+              "exercise": [
+                "Demandez quelles démarches ont déjà été faites.",
+                "Choisissez une question qui compte encore pour vous.",
+                "Fixez un autre moment pour en parler si la séance d’aujourd’hui sert à autre chose."
+              ],
+              "benefit": "Les décisions prises pendant l’absence peuvent être reconnues et les rôles encore ouverts, rediscutés."
+            },
+            {
+              "heading": "Parler du coût réel de la reprise",
+              "objective": "Apporter au suivi ce que cette première séance a demandé.",
+              "exercise": [
+                "Notez le geste qui vous a paru familier et celui qui vous a demandé un effort.",
+                "Indiquez comment vous vous êtes senti après la séance.",
+                "Discutez avec l’équipe du rythme qui vous convient pour la suite."
+              ],
+              "benefit": "L’ajustement s’appuie aussi sur le retentissement après la tâche, moins visible pour le collègue."
+            }
+          ]
         }
       ],
       "ending": "Le minuteur vibre alors qu’ils écoutent la dernière syllabe. Émilien préfère une coupe un peu plus loin, juste avant le claquement de la caisse. Dorian essaie et garde les deux versions. Ils notent chacun ce qu’ils ont fait, puis Émilien range son casque. Sur le chemin de la sortie, il remercie Dorian d’avoir appelé les commerçants. Ils n’ont pas encore réparti la présentation ; il lui propose d’en parler après la prochaine écoute.",
@@ -277,7 +618,8 @@
       },
       "ending_title": "Deux avis sur le même passage",
       "clinical_focus": "Rétablissement après un épisode maniaque",
-      "clinical_intro": "Après l’épisode maniaque, Émilien reprend une courte séance au studio avec Dorian. Il peut de nouveau prendre une décision technique qui lui importe et sentir qu’il a besoin de s’arrêter. Dans le rétablissement, une reprise progressive permet de repérer l’effort et les appuis qui comptent, puis de revoir la suite avec l’équipe de soins et les personnes avec qui il travaille."
+      "clinical_intro": "Après l’épisode maniaque, Émilien reprend une courte séance au studio avec Dorian. Il peut de nouveau prendre une décision technique qui lui importe et sentir qu’il a besoin de s’arrêter. Dans le rétablissement, une reprise progressive permet de repérer l’effort et les appuis qui comptent, puis de revoir la suite avec l’équipe de soins et les personnes avec qui il travaille.",
+      "conclusion": "Émilien contribue de nouveau à un montage, en gardant le temps qu’il s’était donné. Dorian peut conserver les deux versions pendant qu’ils apprennent à se répartir la suite. Reprendre la coupe et reprendre toute la présentation n’exigent pas la même chose."
     },
     {
       "number": 7,
@@ -294,18 +636,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre une baisse qui dépasse la fatigue d’une journée",
-          "text": "Le trouble bipolaire de type I peut comporter des épisodes dépressifs. L’évaluation tient compte notamment d’une humeur dépressive ou d’une perte d’intérêt durable, d’autres changements comme le sommeil, l’énergie ou l’appétit, et de leur retentissement. La fatigue après une séance de restauration ne permettrait pas à elle seule de conclure."
+          "heading": "Quand ce qu’on aime ne fait plus envie",
+          "text": "La diminution de l’intérêt ou du plaisir peut faire partie d’un épisode dépressif dans le trouble bipolaire. Elle se repère parfois dans le contraste avec des activités que la personne attendait, et peut coexister avec d’autres difficultés du quotidien. L’équipe examine la durée et le retentissement d’ensemble. Quand Émilien entend le chariot et ne retrouve plus l’intérêt qu’il portait à ce bruit, il a un exemple pour parler d’un changement qui dépasse le studio."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ce qui change chez Émilien est aussi ce qui ne lui fait plus envie en dehors du travail, et la difficulté croissante à faire des choses ordinaires depuis plusieurs jours. Il ne doit pas attendre d’avoir la certitude d’être en dépression pour parler de ces changements à son équipe. La consultation sert aussi à examiner d’autres explications possibles."
+          "heading": "Comment la perte d’intérêt se remarque-t-elle dans plusieurs moments de la journée ?",
+          "points": [
+            {
+              "heading": "Le plaisir familier s’aplatit",
+              "text": "Ce qui avait une saveur ou un détail distinctif peut sembler uniforme, même quand l’activité est toujours importante.",
+              "examples": [
+                "Émilien défendait la place du chariot dans l’extrait. Aujourd’hui, les fichiers lui paraissent tous semblables.",
+                "Il regarde une émission jusqu’au bout sans retrouver de scène qu’il ait eu envie de suivre."
+              ]
+            },
+            {
+              "heading": "L’envie ne suffit plus à lancer un geste",
+              "text": "La perte d’intérêt peut aller avec un manque d’élan et une difficulté à passer d’une intention à l’action.",
+              "examples": [
+                "Il connaît la réponse à envoyer à Dorian et reste assis sans la taper.",
+                "Il décale sa douche jusqu’à une heure qui n’arrive jamais dans sa journée."
+              ]
+            },
+            {
+              "heading": "Les occasions de voir du monde se raréfient",
+              "text": "Quand plusieurs activités cessent d’attirer, maintenir un rendez-vous peut demander une démarche supplémentaire.",
+              "examples": [
+                "La pochette est prête, mais Émilien ne l’emporte pas au marché.",
+                "Il répond moins aux invitations au cours des mêmes journées où les repas refroidissent."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire ce qui devient difficile et demander un avis",
-          "text": "Émilien peut se servir du même feuillet que lors de ses nuits courtes. Il peut dire depuis quand il remarque une différence et donner un exemple précis du matin. Le NICE recommande d’inclure dans le suivi des repères pour les signes de rechute dépressive comme maniaque. Une dépression qui paraît sévère justifie une évaluation spécialisée urgente. En cas de danger immédiat, il faut joindre les services d’urgence. À ce stade, Lucie n’a pas besoin d’évaluer la gravité à elle seule ; elle peut l’aider à transmettre ce qu’il arrive à dire. Ils laissent à l’équipe le choix des suites à proposer et ne modifient pas le traitement de leur côté."
+          "heading": "3 techniques pour décrire et traverser une perte d’intérêt",
+          "points": [
+            {
+              "heading": "Comparer deux moments du même projet",
+              "objective": "Trouver une manière concrète de dire ce qui a changé.",
+              "exercise": [
+                "Choisissez une activité que vous attendiez auparavant.",
+                "Racontez ce qui vous plaisait alors et ce que vous constatez aujourd’hui.",
+                "Ajoutez depuis quand ce changement se répète et parlez-en au contact de soins."
+              ],
+              "benefit": "Le contraste aide l’équipe à comprendre votre vécu même si le mot « dépression » est difficile à employer."
+            },
+            {
+              "heading": "Donner un exemple hors du projet",
+              "objective": "Faire apparaître le retentissement dans la vie ordinaire.",
+              "exercise": [
+                "Pensez à une tâche ou à un rendez-vous que vous reportez souvent ces jours-ci.",
+                "Décrivez ce qui se passe réellement, comme un repas laissé à refroidir.",
+                "Mentionnez aussi ce qui reste possible lors de l’échange avec le soignant."
+              ],
+              "benefit": "La conversation clinique peut porter sur plusieurs domaines sans réduire la période à une seule mauvaise journée."
+            },
+            {
+              "heading": "Confier une démarche à la bonne personne",
+              "objective": "Laisser avancer une tâche que l’on ne peut pas assurer aujourd’hui.",
+              "exercise": [
+                "Dites quelle partie vous souhaitez déléguer et demandez l’accord du collègue.",
+                "Indiquez où se trouve le document ou la consigne dont il a besoin.",
+                "Laissez votre disponibilité de demain ouverte si vous ne la connaissez pas."
+              ],
+              "benefit": "Le rendez-vous peut avoir lieu sans ajouter une promesse difficile à tenir."
+            }
+          ]
         }
       ],
       "ending": "Émilien appelle et, quand on lui demande ce qui l’amène, lit l’heure sur le papier qu’il tient. Puis il trouve sa phrase : « Depuis deux semaines, je laisse beaucoup de choses en plan, même celles que j’attendais. » Ils conviennent d’un échange clinique. Il écrit ensuite à Dorian que l’écoute peut se faire sans lui et que l’accord se trouve dans la pochette bleue. Il ne promet pas de reprendre demain. Il laisse la pochette bien visible pour que Dorian puisse la récupérer.",
@@ -322,7 +720,8 @@
       },
       "ending_title": "Une écoute que Dorian peut assurer",
       "clinical_focus": "Perte d’intérêt dans la dépression bipolaire",
-      "clinical_intro": "Depuis plusieurs jours, les voix enregistrées qu’Émilien attendait d’écouter restent dans leur dossier. Le retrait touche aussi des activités qu’il aimait en dehors du travail. Un trouble bipolaire de type I peut comprendre des épisodes dépressifs. L’équipe regarde la durée de cette perte d’intérêt, les autres changements et l’effet sur la vie d’Émilien pour comprendre ce qu’il traverse."
+      "clinical_intro": "Depuis plusieurs jours, les voix enregistrées qu’Émilien attendait d’écouter restent dans leur dossier. Le retrait touche aussi des activités qu’il aimait en dehors du travail. Un trouble bipolaire de type I peut comprendre des épisodes dépressifs. L’équipe regarde la durée de cette perte d’intérêt, les autres changements et l’effet sur la vie d’Émilien pour comprendre ce qu’il traverse.",
+      "conclusion": "Le bruit du chariot donne à Émilien des mots pour un changement qu’il éprouve depuis plusieurs jours. Dorian peut maintenir l’écoute avec la pochette. Émilien a demandé à l’équipe un échange sur les activités et les liens qui perdent leur place, au-delà de cette absence."
     },
     {
       "number": 8,
@@ -339,18 +738,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre la différence entre présence et disponibilité permanente",
-          "text": "Dans une période difficile, il est possible de vouloir davantage de présence tout en rencontrant les limites de ceux qui la proposent. Le NICE prévoit que les proches puissent aussi avoir accès à un soutien pour eux. Quand Lucie précise les heures où elle sera joignable, elle parle de ce qu’elle peut offrir aujourd’hui."
+          "heading": "Un appui relationnel qui a un début et une fin",
+          "text": "Une période de retrait peut laisser intact le désir de présence, même quand prendre une initiative coûte davantage. Un proche peut proposer un appui précis, en fonction de ce qu’il accepte et peut faire. Émilien voudrait savoir si Lucie lira ses messages pendant la randonnée. Ce qu’il arrive finalement à nommer, c’est le déjeuner qu’il ne veut pas prendre seul. L’accord pratique et le suivi clinique peuvent répondre à des besoins différents."
         },
         {
           "role": "manifestations",
-          "heading": "La crainte de rester seul prend de la place",
-          "text": "Émilien laisse de côté le message de Dorian alors que l’écoute au marché l’intéressait. Il a apprécié de parler avec Lucie. Quand elle boucle son casque, il lui demande de garder le téléphone à portée de main et n’arrive d’abord à penser qu’au moment où elle partira. En précisant ce qui lui pèse, il trouve un exemple concret. Il redoute le repas seul et souhaite un moment de compagnie."
+          "heading": "Comment le besoin de présence se dit-il pendant une période de retrait ?",
+          "points": [
+            {
+              "heading": "La demande arrive au moment de se quitter",
+              "text": "Il peut être difficile d’anticiper un besoin jusqu’à ce que le départ devienne concret.",
+              "examples": [
+                "Émilien parle du téléphone lorsque Lucie boucle la sangle du casque.",
+                "Après avoir parlé avec elle le matin, il peine à imaginer la suite de l’après-midi."
+              ]
+            },
+            {
+              "heading": "Une demande large cache un moment précis",
+              "text": "Un souhait de disponibilité peut devenir plus facile à discuter quand on nomme la situation qu’on redoute.",
+              "examples": [
+                "Émilien demande d’abord à Lucie de regarder ses messages, puis parle du repas.",
+                "Pour Dorian, il finit par demander un récit écrit et précise qu’il ne souhaite pas d’appel ce jour-là."
+              ]
+            },
+            {
+              "heading": "Le lien continue malgré une limite annoncée",
+              "text": "Dire quand on ne sera pas joignable permet à chacun d’organiser son temps et de prévoir le bon contact si la situation change.",
+              "examples": [
+                "Lucie annonce qu’elle ne pourra pas lire de messages sur une partie du parcours.",
+                "Émilien laisse le feuillet des soignants sur la table et garde la photo du pont comme un échange sans heure imposée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévoir un autre point d’appui lorsque le proche s’absente",
-          "text": "Émilien vérifie l’heure du prochain appel et où trouver le contact à utiliser si la situation se dégrade avant. Il peut aussi écrire à Dorian s’il a envie d’entendre comment s’est passée l’écoute, ou demander un appel sans parler du marché. Dorian reste libre d’accepter et Émilien n’a pas à lui confier son dossier de santé pour lui demander dix minutes. Si une inquiétude clinique augmente, c’est le recours convenu avec l’équipe qui prend le relais. Plusieurs personnes peuvent compter dans la journée sans que leur présence forme un dispositif de surveillance. Le couple peut ensuite parler de la randonnée ou du marché pour le plaisir de se raconter quelque chose.\n\nÉmilien peut dire à Lucie qu’il trouve son départ difficile et lui proposer de déjeuner ensemble. Elle peut écouter sa demande, choisir ce qu’elle souhaite partager et maintenir sa randonnée."
+          "heading": "3 techniques pour demander une présence qui convienne aux deux",
+          "points": [
+            {
+              "heading": "Nommer le moment difficile",
+              "objective": "Faire une demande que le proche peut entendre et à laquelle il peut répondre.",
+              "exercise": [
+                "Repérez l’heure ou l’activité qui vous inquiète.",
+                "Dites ce que vous aimeriez partager, par exemple le déjeuner.",
+                "Demandez si ce moment convient, puis écoutez la réponse avant de chercher une autre option."
+              ],
+              "benefit": "Un besoin assez précis ouvre une discussion sur ce que chacun peut offrir."
+            },
+            {
+              "heading": "Garder un lien au format choisi",
+              "objective": "Retrouver un échange quand une conversation entière paraît trop coûteuse.",
+              "exercise": [
+                "Choisissez une personne et le sujet dont vous aimeriez avoir des nouvelles.",
+                "Proposez un message, une photo ou un appel, en disant ce qui vous convient aujourd’hui.",
+                "Laissez à l’autre le temps d’accepter ou de proposer un autre moment."
+              ],
+              "benefit": "Un échange léger peut rester possible sans exiger une réponse immédiate."
+            },
+            {
+              "heading": "Distinguer la présence et le recours aux soins",
+              "objective": "Savoir qui appeler si le besoin dépasse l’appui convenu.",
+              "exercise": [
+                "Relisez le contact et les modalités du plan pendant qu’ils sont accessibles.",
+                "Dites au proche quand vous passerez par ce relais plutôt que d’attendre son retour.",
+                "Si votre sécurité est en jeu, sollicitez une aide urgente sans attendre sa réponse."
+              ],
+              "benefit": "Le proche garde une place choisie et l’évaluation revient aux professionnels."
+            }
+          ]
         }
       ],
       "ending": "Ils mangent des tartines avant que l’amie de Lucie arrive. Émilien lui dit qu’il lui demandera peut-être une photo du vieux pont, si elles passent devant. Il garde sur la table le feuillet avec le contact et ne demande pas une heure pour la photo. Quand la porte se ferme, il hésite encore à ouvrir le message de Dorian. Finalement il lui écrit : « Ça me ferait plaisir que tu me racontes comment elle a réagi au chariot. Pas besoin de m’appeler aujourd’hui. »",
@@ -367,7 +822,8 @@
       },
       "ending_title": "La sortie de Lucie tient toujours",
       "clinical_focus": "Soutien relationnel pendant le retrait",
-      "clinical_intro": "Quand Lucie prépare sa sortie à vélo, Émilien lui demande de garder le téléphone à portée de main. Les activités qui l’aidaient à se sentir relié lui demandent davantage d’effort depuis quelques jours. Le besoin de présence dans cette période prend une forme qu’ils peuvent discuter. Ils trouvent un moment partagé et définissent à qui Émilien peut s’adresser le reste de la journée."
+      "clinical_intro": "Quand Lucie prépare sa sortie à vélo, Émilien lui demande de garder le téléphone à portée de main. Les activités qui l’aidaient à se sentir relié lui demandent davantage d’effort depuis quelques jours. Le besoin de présence dans cette période prend une forme qu’ils peuvent discuter. Ils trouvent un moment partagé et définissent à qui Émilien peut s’adresser le reste de la journée.",
+      "conclusion": "Le déjeuner répond à un besoin qu’Émilien arrive à dire. Lucie peut partir à vélo et Dorian recevoir un message adapté à ce qu’Émilien peut partager. Le prochain échange avec l’équipe reste prévu, que ces moments aient été faciles ou non."
     },
     {
       "number": 9,
@@ -384,18 +840,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce qu’il est utile de signaler",
-          "text": "Une gêne nouvelle mérite d’être décrite aux professionnels qui suivent le traitement, même si la personne n’en connaît pas la cause. Émilien peut préciser quand elle est apparue, à quel geste il la remarque, si elle survient aussi ailleurs et ce qu’elle change pour lui. Le récit qu’il a trouvé en ligne ne permet pas d’attribuer la gêne à son traitement. Le NICE recommande de discuter avec la personne des bénéfices et des risques et de suivre notamment les effets indésirables possibles."
+          "heading": "Une gêne nouvelle mérite une question au prescripteur",
+          "text": "Une difficulté qui apparaît pendant un traitement peut être un effet indésirable, mais sa cause doit être examinée avec le prescripteur. Son retentissement sur des gestes du quotidien fait partie de ce qu’il est utile de décrire. Pour Émilien, le tremblement compte parce qu’il gêne la précision sur la console et apparaît aussi avec un couvercle. Les récits lus en ligne ne renseignent pas sur sa situation et ne justifient pas de modifier seul son traitement."
         },
         {
           "role": "manifestations",
-          "heading": "Un tremblement au moment d’un réglage fin",
-          "text": "Émilien dépasse plusieurs fois le point qu’il cherche sur la bande. En reprenant le bouton, il remarque un léger tremblement. Il a senti une gêne semblable en fermant un bocal. Quelques millimètres suffisent à déplacer la coupe dans son travail. Ce qu’il observe dans ces deux gestes donne une mesure de la difficulté, sans lui permettre d’en établir la cause."
+          "heading": "Comment un effet possible devient-il perceptible au quotidien ?",
+          "points": [
+            {
+              "heading": "Le geste perd en précision",
+              "text": "Une gêne discrète peut compter beaucoup dans une tâche où quelques millimètres font la différence.",
+              "examples": [
+                "Émilien ramène le bouton au-delà de la seconde cherchée.",
+                "Il recommence à écouter le claquement de la caisse sans retrouver le début du bruit."
+              ]
+            },
+            {
+              "heading": "Le phénomène revient hors du studio",
+              "text": "Une autre situation permet de préciser la gêne et les circonstances où elle revient.",
+              "examples": [
+                "Émilien ressent aussi le tremblement en fermant un bocal.",
+                "À la consultation, il peut montrer le geste du bouton et décrire ce qui se passe avec le couvercle."
+              ]
+            },
+            {
+              "heading": "La cause semble plus urgente à connaître que le fait à décrire",
+              "text": "L’incertitude peut détourner l’attention vers des explications trouvées ailleurs, alors que le prescripteur a besoin du vécu de la personne.",
+              "examples": [
+                "Émilien rouvre la page où un inconnu raconte avoir changé sa façon de prendre un traitement.",
+                "Il hésite à parler du tremblement dans un rendez-vous où il comptait évoquer le sommeil et l’énergie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une place aux préférences dans l’avis clinique",
-          "text": "Émilien peut demander quelles causes l’équipe envisage et ce qu’il faut observer ou vérifier. Il peut aussi dire quels gestes il aimerait pouvoir retrouver dans sa semaine. Si une décision sur le traitement se pose, elle se discute avec les professionnels qui le prescrivent et le suivent. Un témoignage ou l’avis d’un proche n’est pas une raison pour déplacer, réduire ou arrêter une prise par soi-même. Émilien veut repartir avec le nom de la personne à contacter si la gêne persiste ou s’accentue, et savoir à quel moment faire le point. Il garde la possibilité d’exprimer un désaccord ou de poser une autre question avant que l’échange se termine.\n\nIl peut expliquer ce que le réglage demande à sa main et en parler avant que la gêne ne l’empêche de travailler."
+          "heading": "3 techniques pour faire examiner une gêne pendant le traitement",
+          "points": [
+            {
+              "heading": "Préparer deux gestes à raconter",
+              "objective": "Décrire les effets de la gêne plutôt que supposer sa cause.",
+              "exercise": [
+                "Choisissez un geste de travail et, si vous en avez un, un geste de la vie courante.",
+                "Précisez depuis quand vous remarquez la difficulté et ce qu’elle change.",
+                "Montrez le geste ou lisez votre note au professionnel qui prescrit le traitement."
+              ],
+              "benefit": "Le prescripteur peut mieux apprécier la gêne et décider des vérifications utiles."
+            },
+            {
+              "heading": "Demander à quel moment reprendre contact",
+              "objective": "Sortir de la consultation avec une conduite à tenir claire.",
+              "exercise": [
+                "Demandez ce que le professionnel souhaite vérifier et ce que vous pouvez lui signaler.",
+                "Notez le contact et les circonstances dans lesquelles il faut le joindre plus tôt.",
+                "Gardez le traitement tel que prescrit jusqu’à une décision avec lui."
+              ],
+              "benefit": "Vous disposez d’un interlocuteur pour les changements sans avoir à suivre les conseils d’un inconnu."
+            },
+            {
+              "heading": "Partager le réglage sans partager le dossier",
+              "objective": "Maintenir une tâche de montage le temps que la question soit évaluée.",
+              "exercise": [
+                "Dites au collègue quelle manipulation demande un appui.",
+                "Proposez de prendre ensemble la décision pendant qu’il tient la commande, s’il est disponible.",
+                "Précisez ce que vous souhaitez garder pour la consultation."
+              ],
+              "benefit": "Le travail peut avancer et les renseignements médicaux restent sous votre contrôle."
+            }
+          ]
         }
       ],
       "ending": "À la consultation, Émilien montre du bout des doigts le mouvement du bouton. Il raconte aussi le couvercle du bocal. La psychiatre lui demande depuis quand il le remarque et discute avec lui des éléments à vérifier. En sortant, Émilien note le contact convenu. Il envoie à Dorian la réponse qu’il voulait écrire le matin : « On garde la phrase entière pour l’essai. Si tu as vingt minutes, on fera la coupe ensemble. » Il peut leur proposer une nouvelle écoute sans avoir déjà une réponse sur sa main.",
@@ -412,7 +924,8 @@
       },
       "ending_title": "Un fait à décrire à la psychiatre",
       "clinical_focus": "Retentissement des effets indésirables possibles",
-      "clinical_intro": "Un réglage fin lui demande plusieurs essais et Émilien se demande si le traitement y joue un rôle. Le moment où la gêne a commencé et son effet sur le travail sont des renseignements utiles. La psychiatre peut examiner plusieurs causes, puis discuter avec lui des bénéfices et des difficultés du traitement. Son métier donne un sens précis à ce qu’il souhaite préserver."
+      "clinical_intro": "Un réglage fin lui demande plusieurs essais et Émilien se demande si le traitement y joue un rôle. Le moment où la gêne a commencé et son effet sur le travail sont des renseignements utiles. La psychiatre peut examiner plusieurs causes, puis discuter avec lui des bénéfices et des difficultés du traitement. Son métier donne un sens précis à ce qu’il souhaite préserver.",
+      "conclusion": "La console et le bocal donnent à la psychiatre des éléments à examiner. Émilien repart avec un contact et choisit de faire la coupe avec Dorian. La gêne a sa place dans le suivi, même si elle ne se voit pas dans le résultat du montage."
     },
     {
       "number": 10,
@@ -429,18 +942,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Protéger son rythme au moment de reprendre",
-          "text": "Un objectif de rétablissement peut être de reprendre une tâche précise, comme préparer une balance, dans des conditions que la personne juge tenables et peut discuter avec ses professionnels. Le NICE recommande d’offrir un soutien professionnel aux personnes qui souhaitent retrouver ou reprendre un emploi. L’aide peut prendre différentes formes. Les échanges avec l’employeur sur la santé, lorsqu’ils sont envisagés avec l’équipe de soins, supposent l’accord de la personne. Émilien peut d’abord dire ce qu’il est prêt à assurer et de quoi le travail a besoin pour continuer après son départ. Il n’a pas à faire circuler son feuillet de soins dans la régie pour établir un horaire."
+          "heading": "Reprendre une tâche en protégeant son rythme",
+          "text": "Après un épisode du trouble bipolaire, le retour au travail peut être préparé autour des activités que la personne souhaite reprendre et des horaires qu’elle juge tenables. Émilien se sent prêt à faire une balance. La ligne sans heure de fin change pourtant ce qu’il s’engagerait à faire. Une répartition précise avec Dorian rend possible une discussion de travail, et Émilien garde la maîtrise des informations de santé qu’il souhaite communiquer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Émilien, le sommeil est un repère discuté avec son équipe parce que son besoin de dormir avait changé avant son épisode. Il peut demander un horaire de fin pour des raisons pratiques et choisir avec qui il souhaite parler de ce repère de santé. Une balance sur un créneau précis lui donne un moyen d’apprécier le coût réel de la reprise."
+          "heading": "Comment un horaire de travail peut-il peser sur la reprise ?",
+          "points": [
+            {
+              "heading": "Une fin de service difficile à prévoir",
+              "text": "Un intitulé de mission peut masquer la durée réelle d’une soirée et ses effets sur le repos.",
+              "examples": [
+                "La balance commence à dix-huit heures mais le démontage n’a pas d’heure de fin.",
+                "Émilien se rappelle avoir cherché une clé après le dernier rappel avant de descendre le matériel."
+              ]
+            },
+            {
+              "heading": "Le relais dépend aussi du collègue",
+              "text": "Un aménagement tient lorsque les tâches et les limites des deux personnes sont connues.",
+              "examples": [
+                "Dorian peut rester jusqu’à la fermeture s’il n’a pas à arriver pour la balance.",
+                "Le collègue qui reprend la fin a besoin des réglages et d’une heure de passage."
+              ]
+            },
+            {
+              "heading": "La demande pratique se confond avec le récit de santé",
+              "text": "Une question d’organisation peut être entendue comme une demande d’explication personnelle.",
+              "examples": [
+                "Émilien croit d’abord devoir raconter l’épisode pour que la responsable annonce la répartition.",
+                "Dans son ancien courriel, il retrouve « indisponible », qui avait suffi à Dorian pour relayer son absence."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire l’accord de travail et choisir ce qui sera partagé",
-          "text": "Dorian a besoin d’un relais clair, avec l’heure où il entre et l’endroit où il trouve les réglages. La responsable a besoin de savoir qui appeler si le concert change d’heure. Aucun de ces points ne les oblige à commenter le diagnostic devant l’équipe. Émilien peut demander à la responsable de présenter leur organisation comme une répartition des tâches et garder la possibilité de solliciter, s’il le souhaite, un conseil professionnel au sujet de sa reprise.\n\nSi le concert s’allonge ou si Dorian n’est plus disponible, ils auront une décision à reprendre ensemble. Une limite annoncée ne dispense pas de prévoir ce qui se passe quand le planning change."
+          "heading": "3 techniques pour préparer une reprise aux horaires définis",
+          "points": [
+            {
+              "heading": "Écrire la tâche avec ses bornes",
+              "objective": "Évaluer un créneau complet plutôt que son seul début.",
+              "exercise": [
+                "Indiquez ce que vous pouvez préparer et à quelle heure.",
+                "Repérez le travail qui continue après ce créneau.",
+                "Proposez une heure précise de remise de la tâche."
+              ],
+              "benefit": "Les personnes qui organisent la soirée peuvent répondre sur un horaire concret."
+            },
+            {
+              "heading": "Préparer le passage des réglages",
+              "objective": "S’assurer que le collègue pourra poursuivre ce qu’il accepte de reprendre.",
+              "exercise": [
+                "Demandez-lui quand il peut arriver et ce qu’il peut assurer.",
+                "Préparez les notes ou le réglage qu’il devra récupérer.",
+                "Convenez avec la responsable de la solution prévue en cas d’imprévu."
+              ],
+              "benefit": "Le départ d’Émilien devient une étape de travail que l’équipe peut anticiper."
+            },
+            {
+              "heading": "Choisir le périmètre du message",
+              "objective": "Exprimer un besoin d’organisation sans divulgation automatique.",
+              "exercise": [
+                "Écrivez ce que les collègues ont besoin de savoir pour la soirée.",
+                "Relisez la phrase qui annonce qui est de service à quel moment.",
+                "Si vous souhaitez un appui pour la reprise, discutez avec vos professionnels des informations que vous voulez partager et à qui."
+              ],
+              "benefit": "La reprise peut être préparée avec des appuis choisis et des consignes utiles à la régie."
+            }
+          ]
         }
       ],
       "ending": "Émilien répond qu’il peut préparer la balance et remettre les réglages à Dorian avant le début du concert. Il demande une heure de passage et une réponse sur la personne de réserve. Dorian relit la dernière ligne avec lui : « À l’équipe, il suffit d’annoncer qui est de service à quel moment. » Le courriel part après qu’ils se sont mis d’accord sur leur part de travail. Émilien garde le dossier du marché ouvert ; la prochaine écoute doit se tenir sous l’auvent.",
@@ -457,7 +1026,8 @@
       },
       "ending_title": "Une balance aux horaires définis",
       "clinical_focus": "Aménagement du travail après un épisode",
-      "clinical_intro": "Une régie propose une prestation à Émilien et le nouvel horaire déborde sur la soirée. Il veut retrouver cette partie de son métier en gardant un rythme qu’il estime tenable. Après un épisode bipolaire, reprendre un rôle choisi peut passer par une demande concrète sur les horaires et les relais. Émilien choisit séparément les informations de santé qu’il souhaite partager."
+      "clinical_intro": "Une régie propose une prestation à Émilien et le nouvel horaire déborde sur la soirée. Il veut retrouver cette partie de son métier en gardant un rythme qu’il estime tenable. Après un épisode bipolaire, reprendre un rôle choisi peut passer par une demande concrète sur les horaires et les relais. Émilien choisit séparément les informations de santé qu’il souhaite partager.",
+      "conclusion": "Émilien propose d’assurer la balance et de passer les réglages avant le concert. Dorian dit jusqu’où il peut prendre la suite. Leur courriel donne à la régie un horaire à confirmer. Le suivi d’Émilien garde une autre place."
     },
     {
       "number": 11,
@@ -474,18 +1044,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre ce qui mérite encore un avis",
-          "text": "Reprendre une activité et avoir besoin d’un avis plus tard peuvent faire partie du même parcours. Le NICE recommande de discuter du cours variable du trouble et de la façon de reconnaître des changements qui comptent pour la personne. La fatigue, la contrariété ou plusieurs idées dans une discussion n’établissent pas à elles seules un épisode."
+          "heading": "Un signe peut mériter un avis sans annoncer une rechute",
+          "text": "Une fatigue, une nuit courte ou plusieurs idées soudaines peuvent avoir des explications ordinaires. Dans le suivi du trouble bipolaire, on peut aussi demander comment interpréter un changement qui rappelle les signes personnels d’un épisode. Sous l’auvent, Émilien reconnaît une vitesse de décision familière. Il est cependant fatigué et la pluie pose un problème réel. Il n’a pas à trancher sur place pour demander un avis et mettre l’écoute à l’abri."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Émilien remarque des ressemblances avec un moment difficile, mais aussi des différences, notamment le fait qu’il voulait dormir davantage. Il ne cherche pas à résoudre cette incertitude par un calcul. Il décrit à l’équipe ce qui se répète, ce qui a changé et ce qu’il était en train de faire. Si un signe s’accentue ou si un risque apparaît, le plan prévoit comment recontacter l’équipe."
+          "heading": "Comment l’incertitude apparaît-elle quand plusieurs explications restent possibles ?",
+          "points": [
+            {
+              "heading": "Une difficulté immédiate explique une partie de l’élan",
+              "text": "Un imprévu concret peut provoquer des réactions rapides qu’il faut d’abord comprendre dans la situation.",
+              "examples": [
+                "La pluie tombe près de la prise et il faut choisir un autre endroit pour écouter.",
+                "Émilien propose de déplacer les chaises, puis d’ajouter des invités et un morceau alors que seuls deux extraits sont attendus."
+              ]
+            },
+            {
+              "heading": "Le signe rappelle une période sans lui ressembler tout à fait",
+              "text": "Une ressemblance et une différence peuvent coexister et méritent toutes deux d’être dites.",
+              "examples": [
+                "La vitesse des propositions rappelle le devis du loueur.",
+                "Cette fois, la nuit courte lui laisse de la fatigue et le souhait d’avoir davantage dormi."
+              ]
+            },
+            {
+              "heading": "La reprise complique la décision d’appeler",
+              "text": "Après un retour au travail, on peut hésiter à dire qu’un doute persiste de peur de remettre ce retour en question.",
+              "examples": [
+                "Émilien est sur le point d’écrire à Lucie que tout va bien avant de lui raconter la scène.",
+                "Sur la marche, il décide finalement de décrire la matinée à l’équipe sans prétendre en connaître la cause."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Revenir à une décision de travail qui peut attendre",
-          "text": "Le changement de lieu est réel : il y a de l’eau près de l’installation et le programme dépend encore des commerçants. Dorian et Émilien peuvent décider de ne rien brancher ici et de garder pour une autre date ce qui ne tient pas dans la salle disponible. Cette décision appartient au projet, même si Émilien souhaite aussi parler de sa matinée à l’équipe de soins. Il peut annoncer la partie qu’il est prêt à faire, laisser Dorian proposer une autre disposition et revenir sur le plan clinique avec des professionnels. Demander un avis ne signifie pas qu’il a perdu le droit de choisir l’extrait ou d’aider à déplacer les chaises."
+          "heading": "3 techniques pour agir quand un signe reste ambigu",
+          "points": [
+            {
+              "heading": "Traiter le problème visible à deux",
+              "objective": "Prendre une décision pratique pendant que la question clinique reste ouverte.",
+              "exercise": [
+                "Nommez le problème que chacun peut observer.",
+                "Mettez à l’arrêt l’activité qui présente un risque, comme un branchement près de l’eau.",
+                "Vérifiez quel choix minimal permet de maintenir ou reporter la tâche."
+              ],
+              "benefit": "Le projet peut être protégé pendant que vous choisissez de demander un avis."
+            },
+            {
+              "heading": "Donner les ressemblances et les écarts",
+              "objective": "Éviter de résumer la situation au seul élément inquiétant.",
+              "exercise": [
+                "Notez un fait qui rappelle un signe déjà discuté dans votre suivi.",
+                "Ajoutez ce qui est différent, par exemple votre fatigue ou l’imprévu du jour.",
+                "Décrivez les deux éléments au contact prévu si vous avez un doute."
+              ],
+              "benefit": "L’équipe reçoit de quoi préciser l’observation plutôt qu’un verdict déjà formulé."
+            },
+            {
+              "heading": "Attendre la réponse avec un accord réversible",
+              "objective": "Garder une suite possible sans multiplier les engagements.",
+              "exercise": [
+                "Convenez du périmètre à garder aujourd’hui avec les autres.",
+                "Laissez les décisions supplémentaires en suspens, avec un moment pour les reprendre.",
+                "Demandez au contact de soins ce qui justifierait une nouvelle demande plus rapide si la situation évolue."
+              ],
+              "benefit": "Le doute peut être suivi pendant que le projet reste à une taille choisie."
+            }
+          ]
         }
       ],
       "ending": "Émilien laisse un message au contact du plan, avec les changements qu’il a remarqués. Il retrouve ensuite Dorian dans la petite salle. Ils décident que les chaises resteront contre le mur jusqu’à l’accord des commerçants. Émilien lui tend la rallonge enroulée ; elle n’est plus nécessaire. Ils ont une enceinte, deux extraits et un autre jour possible. En rentrant, Émilien répond à la photo du pont. Il demande à Lucie par quel côté on y arrive.",
@@ -502,7 +1128,8 @@
       },
       "ending_title": "L’écoute peut attendre",
       "clinical_focus": "Incertitude face aux signes d’alerte",
-      "clinical_intro": "Un changement de programme réveille chez Émilien le souvenir de décisions prises trop vite. Cette fois, il est fatigué et voudrait dormir davantage. Lorsqu’un signe paraît familier, sa durée et les autres changements aident à le situer. Émilien utilise le contact de son plan pour décrire ces ressemblances et ces différences, puis revoit avec Dorian ce qui peut attendre."
+      "clinical_intro": "Un changement de programme réveille chez Émilien le souvenir de décisions prises trop vite. Cette fois, il est fatigué et voudrait dormir davantage. Lorsqu’un signe paraît familier, sa durée et les autres changements aident à le situer. Émilien utilise le contact de son plan pour décrire ces ressemblances et ces différences, puis revoit avec Dorian ce qui peut attendre.",
+      "conclusion": "Émilien signale la matinée à l’équipe et laisse les chaises contre le mur avec Dorian. Le message n’annule pas le travail déjà repris. Il ouvre une question de suivi, pendant que les commerçants gardent la main sur la prochaine écoute."
     },
     {
       "number": 12,
@@ -519,18 +1146,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comprendre pourquoi le suivi peut évoluer avec la personne",
-          "text": "Le NICE recommande de reparler de la prise en charge dans la durée, notamment après un épisode, avec les objectifs et les préférences de la personne. Un plan peut être revu quand un contact change, qu’un signe a été difficile à interpréter ou que le rôle d’un proche ne lui convient plus."
+          "heading": "Un plan de suivi qui reste utile dans la durée",
+          "text": "La prévention des rechutes dans le trouble bipolaire peut comprendre un plan revu avec l’équipe, y compris après des périodes où les activités reprennent. Un signe difficile à interpréter, un contact devenu inaccessible ou le rôle d’un proche peuvent demander un ajustement. Émilien vérifie ce qu’il pourra faire en dehors des heures habituelles après l’incertitude de l’auvent. Dans le même temps, il continue de monter les extraits avec Dorian."
         },
         {
           "role": "manifestations",
-          "heading": "Des signes de sommeil encore difficiles à interpréter",
-          "text": "À l’écoute du marché, Émilien se concentre sur deux retouches et entend les propositions des commerçants. Il retrouve en même temps le papier qu’il a gardé après son appel sous l’auvent. À ce moment-là, des changements de sommeil lui rappelaient son épisode, mais il avait envie de dormir davantage. La rencontre lui montre ce qu’il peut de nouveau faire au travail. La question de ses nuits reste à examiner avec l’équipe."
+          "heading": "Comment un plan de prévention évolue-t-il au fil du projet ?",
+          "points": [
+            {
+              "heading": "L’expérience révèle les détails qui manquent",
+              "text": "Une situation vécue peut préciser ce qui rend le plan utilisable quand les signes sont ambigus.",
+              "examples": [
+                "Émilien revient en entretien sur la nuit courte et la vitesse des idées sous l’auvent.",
+                "Il vérifie avec l’équipe le contact à utiliser en dehors des heures habituelles."
+              ]
+            },
+            {
+              "heading": "Les activités ont leurs propres repères",
+              "text": "Les buts personnels peuvent avancer avec le suivi. Ils ont aussi des exigences qui leur appartiennent.",
+              "examples": [
+                "Au marché, la vendeuse demande de garder l’annonce entière. Ce choix revient à ceux qui écoutent et montent l’extrait.",
+                "Le fleuriste demande une coupe pour respecter une personne absente avant toute diffusion."
+              ]
+            },
+            {
+              "heading": "Le rôle du proche garde une mesure",
+              "text": "Un accord peut rester simple et être repris si les habitudes ou la disponibilité changent.",
+              "examples": [
+                "Le feuillet de contact reste sous l’aimant, à un endroit qu’Émilien et Lucie connaissent.",
+                "À table, Lucie peut raconter son détour à vélo avant de choisir si elle veut entendre le montage."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder au projet sa propre mesure",
-          "text": "À la fin de cette écoute, les commerçants n’ont pas tous voulu la même chose. L’accord sur un extrait n’emporte pas l’accord sur tout le dossier. Dorian et Émilien peuvent fixer ce qu’ils vont modifier, à qui ils feront entendre la version suivante et quand ils veulent s’arrêter. Émilien peut garder du temps pour autre chose, sans que chaque nouvelle idée oblige le groupe à ouvrir un deuxième chantier.\n\nLucie n’a pas participé à la restauration et ne tient pas le calendrier des rendez-vous. Émilien peut choisir de lui faire écouter le passage dont la vendeuse a parlé. C’est aussi une manière de lui raconter sa journée, au même titre qu’elle lui raconte son détour à vélo.\n\nAu prochain rendez-vous, Émilien peut reprendre le moment où il a utilisé le contact et poser sa question sur les soirs où il travaille. Il peut discuter des difficultés qui restent et des activités qu’il souhaite retrouver."
+          "heading": "3 techniques pour entretenir un plan de suivi dans la durée",
+          "points": [
+            {
+              "heading": "Tester le plan sur une situation réelle",
+              "objective": "Retrouver ce qui a servi et ce qui a manqué quand une question est arrivée.",
+              "exercise": [
+                "Racontez à l’équipe le dernier moment où vous avez hésité à demander un avis.",
+                "Vérifiez avec elle les contacts et les horaires qui vous auraient été utiles.",
+                "Remplacez la page de contact par la version dont vous avez convenu."
+              ],
+              "benefit": "Un plan revu à partir d’une expérience est plus facile à utiliser dans des circonstances proches."
+            },
+            {
+              "heading": "Réviser la part du proche",
+              "objective": "Ajuster l’accord sans lui demander de suivre tout le dossier.",
+              "exercise": [
+                "Rappelez le geste concret que vous aviez convenu.",
+                "Demandez si ce geste est toujours acceptable et faisable.",
+                "Notez avec lui la solution de rechange si l’accord change."
+              ],
+              "benefit": "L’appui peut durer parce que chacun connaît ses limites et les relais."
+            },
+            {
+              "heading": "Faire place au prochain projet",
+              "objective": "Conserver des objectifs personnels précis en même temps que le suivi.",
+              "exercise": [
+                "Choisissez la prochaine décision qui appartient au projet.",
+                "Notez séparément la question de santé que vous souhaitez poser.",
+                "Convenez avec les personnes concernées du moment où chacune de ces questions sera reprise."
+              ],
+              "benefit": "Le suivi garde une place sans décider du contenu du travail ni des moments à partager."
+            }
+          ]
         }
       ],
       "ending": "Avant de ranger l’enceinte, Émilien écoute une dernière fois l’annonce du prix. Cette fois, il remarque que le chariot repart avant le rire. Il note la coupe, remercie la vendeuse et tend à Dorian la liste des deux changements qu’ils ont acceptés. À la maison, Lucie a remis le feuillet de contact sous l’aimant. Émilien pose le casque à côté de leurs assiettes. Il lui demande si elle voudra écouter après dîner. Elle finit d’abord de lui raconter comment son amie a raté le chemin du pont.",
@@ -547,7 +1230,8 @@
       },
       "ending_title": "Deux retouches avant de diffuser",
       "clinical_focus": "Prévention à long terme",
-      "clinical_intro": "Les commerçants lui donnent de nouvelles idées de montage et Émilien convient avec Dorian de deux retouches. Dans le suivi du trouble bipolaire, ses objectifs créatifs et ses repères de santé peuvent être discutés ensemble. Il peut reprendre les moments où le plan lui a servi, les contacts et les horaires qui restent à préciser, et continuer à faire des projets choisis."
+      "clinical_intro": "Les commerçants lui donnent de nouvelles idées de montage et Émilien convient avec Dorian de deux retouches. Dans le suivi du trouble bipolaire, ses objectifs créatifs et ses repères de santé peuvent être discutés ensemble. Il peut reprendre les moments où le plan lui a servi, les contacts et les horaires qui restent à préciser, et continuer à faire des projets choisis.",
+      "conclusion": "Émilien et Dorian repartent avec deux retouches validées par les commerçants. Le projet a retrouvé un rythme, et l’équipe a précisé le recours qui manquait à Émilien. Ces accords lui permettent de continuer le montage et de revenir vers les soignants si un doute se présente."
     }
   ]
 }

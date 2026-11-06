@@ -33,18 +33,79 @@ Zoé, revenue pour son cahier, voit la feuille où Roxane a tracé deux cases, �
 
 Un trouble développemental des sons de la parole peut faire qu’un interlocuteur ne saisit qu’une partie d’une phrase, même lorsque la pièce est calme. Le trouble de Roxane est connu depuis avant ce projet. Certaines difficultés persistent dans la production de sons ou dans leur enchaînement, avec un effet sur la possibilité de se faire comprendre.
 
-## Comment cette difficulté se manifeste
+## Comment une parole difficile à comprendre gêne-t-elle l’échange même au calme ?
 
-Dans cette scène, elle sait déjà quel genre de jeu elle veut construire. Mme Sorel a besoin d’un autre point de départ pour saisir le détail de sa proposition.
+### Une phrase arrive par morceaux
 
-Un échange comme celui du bureau ne suffit jamais à identifier un trouble chez quelqu’un. Les professionnels considèrent l’histoire de l’enfant, sa façon de parler dans plusieurs situations et les effets durables dans sa vie. Dans l’instant, Mme Sorel a une tâche plus simple : retrouver avec Roxane le bout d’idée qui s’est perdu.
+L’intelligibilité désigne la part d’un message que l’autre arrive à reconnaître. Même quand aucun bruit ne couvre la voix, quelques sons difficiles à distinguer peuvent laisser un détail essentiel en suspens.
 
-## Chercher quelqu’un qui laisse la question ouverte
+**Exemples concrets**
 
-Il y a une différence entre attendre la fin d’une réponse et la donner à la place de quelqu’un. Roxane a déjà essayé de travailler avec un camarade qui annonçait le résultat dès qu’il croyait l’avoir trouvé. La question de Zoé lui plaît parce qu’elle laisse plusieurs suites possibles. Elle peut lui proposer un essai précis : choisir ensemble deux bruits, sans s’engager à parler à sa place le jour de la rencontre.
+- Mme Sorel saisit que Roxane propose un jeu de bruit, mais doit vérifier de quel oiseau il est question.
+- Dans une cuisine silencieuse, un parent entend la demande d’aller chercher un objet, mais hésite entre deux noms possibles.
 
-Mme Sorel peut aider les deux élèves à convenir de ce premier essai. Elle tient la liste, donne le temps nécessaire et pourra revenir avec elles sur la répartition des rôles. La façon de jouer avec la fausse piste reste entre les mains des deux inventrices.
+### L’idée est prête avant que l’autre la saisisse
+
+Un écart entre ce que l’enfant veut dire et ce que l’autre entend ne renseigne ni sur son imagination ni sur sa compréhension.
+
+**Exemples concrets**
+
+- Roxane a déjà pensé à une fausse piste ; il lui manque un moyen de la faire entendre à Mme Sorel.
+- Dans un jeu de cartes, un enfant sait expliquer une règle et doit reprendre le mot qui précise quand passer son tour.
+
+### La reprise coûte quelque chose
+
+Lorsque tout le reste est compris, devoir redonner l’intégralité de sa réponse peut décourager une nouvelle tentative.
+
+**Exemples concrets**
+
+- Roxane hésite à recommencer sa proposition pour un détail que l’enseignante n’a pas reconnu.
+- Au moment de choisir un livre, un enfant montre la couverture quand l’adulte lui redemande plusieurs fois le titre entier.
+
+## 3 techniques pour retrouver la partie d’une phrase qui manque
+
+### 1. Redire ce qui est arrivé
+
+Donner à l’enfant un point précis à reprendre.
+
+**Exercice pratique**
+
+- Attendez qu’il termine.
+- Dites ce que vous avez entendu : « J’ai compris que tu veux faire deviner un bruit. »
+- Posez une seule question sur le détail manquant.
+
+Le début de l’idée est reconnu et l’enfant peut concentrer sa réponse sur un mot ou un détail.
+
+### 2. Offrir un autre point de départ
+
+Garder la proposition à la main de l’enfant.
+
+**Exercice pratique**
+
+- Posez un papier entre vous.
+- Demandez : « Tu veux redire le mot ou faire un dessin ? »
+- Laissez l’enfant choisir puis vérifiez avec lui ce qu’il voulait dire.
+
+Un deuxième canal permet de poursuivre le projet sans demander une prononciation différente.
+
+### 3. Décrire un malentendu utile au suivi
+
+Relier l’observation à un besoin de communication.
+
+**Exercice pratique**
+
+- Repérez un échange récurrent qui se termine trop tôt.
+- Notez le lieu, la partie comprise et ce qui a aidé.
+- Si la gêne se répète, demandez à l’enfant ce qu’il veut en dire avec son parent et l’orthophoniste.
+
+Le professionnel peut replacer l’exemple dans l’histoire de l’enfant et décider avec lui des suites utiles.
 
 ## Deux noms sous la pince
 
 Roxane dessine une gouttière sous « Je crois » et laisse l’autre case vide. « Si on trouve un oiseau qui fait un bruit de gouttière, on le met là », dit-elle. Elle demande à Zoé de venir écouter au square le lendemain. Zoé répond qu’elle veut bien, à condition de pouvoir essayer un dessin qui cache quelque chose. Elles écrivent chacune leur prénom. Sous la pince, Roxane glisse aussi la feuille à deux cases : elle veut retrouver l’idée exacte vendredi, même si aucun oiseau du square ne la lui donne.
+
+---
+
+**Conclusion**
+
+Mme Sorel a saisi une partie de la proposition ; le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner.

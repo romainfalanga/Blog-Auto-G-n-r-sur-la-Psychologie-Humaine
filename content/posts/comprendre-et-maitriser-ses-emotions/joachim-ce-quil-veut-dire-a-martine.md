@@ -31,20 +31,81 @@ Diego demande à Martine si elle doit reprendre toutes les images. Joachim a env
 
 ## Deux questions peuvent se poser dans la même salle
 
-Une personne peut avoir peur de se sentir mal et de devoir traverser une salle occupée. Une autre peut redouter d’être évaluée devant un public, même dans un lieu d’où elle pourrait sortir facilement. Les cliniciens s’intéressent à la crainte qui organise les décisions.
+Dans l’agoraphobie, la crainte de se sentir mal et de devoir traverser une salle occupée peut peser sur la décision de participer à une réunion. D’autres craintes, comme être évalué en parlant devant le public, peuvent se manifester dans le même lieu et demandent à être comprises séparément. Joachim veut montrer une photo. Sa demande à Martine porte sur le passage qu’il pourrait emprunter s’il souhaitait s’éloigner.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte de devoir traverser une salle change-t-elle la façon de participer ?
 
-Pour Joachim, une question sur le banc ou le cadrage est la bienvenue. La perspective de se retrouver au bout de plusieurs rangées lorsqu’il voudrait demander à sortir suffit toutefois à le faire hésiter.
+### Le choix de place répond à une crainte précise
 
-Il peut avoir peur de ce que les gens penseront s’il quitte la salle et aussi vouloir protéger des informations personnelles. Les deux réactions peuvent exister à côté de son agoraphobie. Le rendez-vous avec Louise lui permet de revenir sur ce qu’il redoute et de distinguer cette crainte de la façon dont il souhaite être connu des personnes du quartier.
+La personne peut s’intéresser à la réunion et devoir réfléchir à sa possibilité de sortir.
 
-## Formuler une demande qui permet de s’organiser
+**Exemples concrets**
 
-Joachim choisit le détail que Martine peut utiliser. Il souhaite intervenir près du passage et partir quelques minutes si nécessaire. Martine peut examiner ce que cela implique pour la disposition de la salle, avec les besoins de circulation de tous. Joachim n’a pas besoin de s’engager à parler pendant toute la présentation pour participer au projet. Ils discutent d’une photo et d’une personne qui peut reprendre la parole si le programme change.
+- Joachim veut montrer la photo du lavoir près du passage latéral.
+- Quelqu’un peut aimer expliquer son travail et hésiter surtout si des chaises rendent la sortie difficile.
 
-Ce qu’il en dit à Martine et ce qu’il en dit à Louise répondent à des buts différents. À Martine, il demande une organisation compatible avec sa présence. Avec Louise, il pourra examiner l’anticipation qui l’a occupé et les options qu’il voudrait travailler en suivi. Au moment de se séparer, il prévoit de dire à Diego seulement ce dont il a besoin de convenir avec lui pour la présentation.
+### L’aide demandée ne suppose pas un récit médical
+
+Un responsable peut examiner l’organisation de la salle à partir d’une demande pratique.
+
+**Exemples concrets**
+
+- Joachim propose de regarder avec Martine où mettre la table.
+- Elle veut vérifier l’installation avant de lui répondre.
+
+### Une transmission de parole se prépare
+
+Répartir les contributions permet de savoir comment la discussion continuera en cas de pause.
+
+**Exemples concrets**
+
+- Joachim choisit la photo qu’il veut commenter.
+- Diego connaît le signe qui lui indiquera qu’il peut prendre la suite.
+
+## 3 techniques pour préparer une place sans devoir raconter son suivi
+
+### 1. Décrire la disposition qui vous aiderait
+
+Poser une demande claire à la personne responsable du lieu.
+
+**Exercice pratique**
+
+- Repérez le passage ou la place dont vous avez besoin.
+- Expliquez quel geste vous voulez pouvoir faire pendant la réunion.
+- Demandez au responsable de vérifier les possibilités avec vous.
+
+L’organisation peut prendre en compte la demande sans exiger d’explication de santé.
+
+### 2. Choisir ce que vous souhaitez dire
+
+Garder la maîtrise de l’information personnelle.
+
+**Exercice pratique**
+
+- Préparez une phrase qui se limite au besoin pratique si cela vous convient.
+- Choisissez à qui parler et à quel moment.
+- Précisez ce que vous souhaitez garder entre vous.
+
+Vous pouvez demander un ajustement avec le niveau de détail que vous préférez.
+
+### 3. Répartir la prise de parole
+
+Garder une contribution possible même si vous faites une pause.
+
+**Exercice pratique**
+
+- Choisissez votre partie de la présentation.
+- Convenez avec une personne de ce qu’elle peut reprendre.
+- Fixez un signe ou une phrase pour lui passer la parole.
+
+L’échange peut continuer et votre rôle reste défini.
 
 ## Une photo qu’il choisit lui-même
 
 Joachim choisit la photo du lavoir où l’on voit à la fois la rue et la pierre au bord de l’eau. Il sait par où la personne qui regarde pourra se repérer. Il propose à Martine de la montrer quand ils parleront de la bifurcation, et à Diego de commenter la suite. Il lui montre le signe qu’il fera s’il a besoin de lui passer la parole. Il garde dans sa poche la version avec les deux lignes au crayon. À l’association, il peut expliquer le relevé avec ses mots de photographe.
+
+---
+
+**Conclusion**
+
+Joachim garde la photo du lavoir et prépare avec Diego un passage de parole. À Martine, il a dit ce qui rendrait la présentation possible dans cette salle. La demande protège la place qu’il veut prendre et les informations qu’il veut garder pour lui.

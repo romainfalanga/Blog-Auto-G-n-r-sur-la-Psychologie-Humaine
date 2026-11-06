@@ -34,14 +34,81 @@ Sofiane arrive pour demander si le bas de page peut être fixé. Maïwenn avait 
 
 Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi.
 
-## Comment cette difficulté se manifeste
+En relisant plusieurs fois la même ligne, Maïwenn sent que le temps restant ne permettra pas de vérifier chaque partie de la page. Un indice l’aide à reprendre un accord et une proposition lui convient ailleurs. Retirer l’encadré est une décision sur ce qu’elles peuvent livrer, prise avant de donner leur accord sur l’épreuve.
 
-Sur le second, Maïwenn a demandé la formulation ; Lou la lui a donnée et Maïwenn a vérifié ce qu’elle mettait dans la phrase. Elle connaît mieux ce qu’elle veut demander dans l’instant. Il reste d’autres lignes à relire. Lou a réservé un quart d’heure pour toute l’épreuve. L’encadré devait justement pouvoir sortir dans ces conditions. Le retirer permet de tenir un choix fait en amont, plutôt que de faire semblant d’avoir relu.
+## Comment la fatigue de relecture change-t-elle ce qu’on peut vérifier ?
 
-## Valider une page à la taille du temps disponible
+### Une vérification peut reprendre plusieurs fois
 
-Maïwenn et Lou reprennent ce qu’elles pourront vérifier avant le départ de Lou : les deux légendes, le raccord après la coupe et les crédits. Sofiane peut recaler les blocs et aérer le bas de page. Si un mot doit changer pour que ça rentre, elles veulent le voir avant la validation. Ce partage respecte le travail de mise en page et l’accord des deux autrices sur le texte. L’épreuve leur sert de référence. Elles ne sauront pas si une autre tournure aurait été plus légère ; elles peuvent décider que la version lue ensemble raconte ce qu’elles étaient venues chercher.
+Un texte presque terminé peut encore demander de retrouver le lien entre les mots avant de décider d’un accord.
+
+**Exemples concrets**
+
+- Maïwenn relit une ligne pour la troisième fois.
+- Un lecteur peut revenir à un sujet éloigné du verbe avant d’être sûr de la terminaison.
+
+### Le même appui ne suffit pas partout
+
+Une indication peut relancer une vérification et un autre passage demander une proposition plus directe.
+
+**Exemples concrets**
+
+- Un indice suffit à Maïwenn pour le premier accord.
+- Elle demande une formulation à examiner pour un autre passage.
+
+### Une échéance oblige à protéger l’essentiel
+
+Quand il reste peu de temps, retirer une partie indépendante peut préserver les vérifications les plus utiles.
+
+**Exemples concrets**
+
+- Maïwenn raye l’encadré et garde les deux images.
+- Lou et elle vérifient leurs prénoms et la légende avant le départ de Lou.
+
+## 3 techniques pour choisir les vérifications à faire avant de livrer
+
+### 1. Établir un ordre de lecture
+
+Réserver l’attention aux passages qui changent le sens ou l’attribution.
+
+**Exercice pratique**
+
+- Repérez les légendes, noms et citations essentiels.
+- Relisez ces éléments en premier.
+- Cochez chaque passage quand la version est vérifiée.
+
+Le temps restant est consacré aux éléments dont la page a besoin.
+
+### 2. Demander un retour à la bonne taille
+
+Ajuster l’effort au passage sans retirer la décision à l’autrice.
+
+**Exercice pratique**
+
+- Dites quel mot ou lien vous voulez vérifier.
+- Demandez un indice ou une proposition selon ce dont vous avez besoin.
+- Relisez le résultat avant de le valider.
+
+L’aide sert au choix du moment et reste discutable.
+
+### 3. Utiliser le plan de repli prévu
+
+Finir une version que l’équipe peut vraiment contrôler.
+
+**Exercice pratique**
+
+- Fixez l’heure où vous tranchez sur la partie facultative.
+- Retirez-la si elle ne peut plus être relue avec le reste.
+- Vérifiez que la page tient et faites valider l’épreuve.
+
+Le retrait laisse une page cohérente et un brouillon réutilisable.
 
 ## Donner son accord sur l’épreuve
 
 À quinze heures quarante-quatre, Lou tient encore son sac ouvert quand Sofiane leur montre le bas de page recalé. Maïwenn lit la légende de la table. Elle retrouve le bruit du plateau, puis le silence. Lou lui montre leurs deux prénoms sous le titre. Elles donnent leur accord à Sofiane. Il transmet le numéro avant seize heures. Maïwenn replie la feuille où le rectangle est rayé et la glisse dans sa poche. Elle regrette encore le tablier, mais ne veut plus remettre l’encadré.
+
+---
+
+**Conclusion**
+
+Maïwenn regrette le tablier de l’encadré et choisit de ne pas le remettre. Elle retrouve le bruit du plateau dans la légende et vérifie les crédits avec Lou. Elles peuvent donner leur accord à partir d’une page qu’elles ont eu le temps de relire.

@@ -1,0 +1,96 @@
+{
+  "references": {
+    "oms-cim11-hypocondrie": {
+      "title": "Organisation mondiale de la Santé, CIM-11 MMS, 6B23 Hypocondrie, édition 2026-01",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#675329566"
+    },
+    "nhs-anxiete-sante": {
+      "title": "National Health Service, Health anxiety",
+      "url": "https://www.nhs.uk/mental-health/conditions/health-anxiety/"
+    },
+    "ohspic-anxiete-sante": {
+      "title": "Oxford Health NHS Foundation Trust, Health anxiety, Oxford Health Specialist Psychological Intervention Centre",
+      "url": "https://oxfordhealth.nhs.uk/ohspic/problems/health-anxiety/"
+    },
+    "cci-anxiete-sante": {
+      "title": "Centre for Clinical Interventions, Western Australia Department of Health, Helping Health Anxiety, modules 1 et 3 à 9",
+      "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Health-Anxiety"
+    },
+    "cci-information-sante": {
+      "title": "Centre for Clinical Interventions, Dealing with Health Information, révision janvier 2026",
+      "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Health-Anxiety/Health-Anxiety-Information-Sheet---03--Dealing-with-health-information.pdf"
+    },
+    "cci-repondre-reassurance": {
+      "title": "Centre for Clinical Interventions, Responding to Reassurance-Seeking, fiche pour les proches",
+      "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Anxiety/Anxiety---Information-Sheets/Anxiety-Information-Sheet---19---Reassurance-Seeking-Carers.pdf"
+    },
+    "has-parler-avec-son-medecin": {
+      "title": "Haute Autorité de santé, Parler avec son médecin",
+      "url": "https://www.has-sante.fr/jcms/c_1695997/fr/parler-avec-son-medecin"
+    },
+    "has-decision-medicale-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    },
+    "service-public-samu-sas": {
+      "title": "Service Public, Quels sont les numéros en cas d’urgence ? Le Samu et le service d’accès aux soins",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    },
+    "ameli-plaie-qui-saggrave": {
+      "title": "Assurance Maladie, Comment bien soigner une plaie ? Quand consulter dans la journée",
+      "url": "https://www.ameli.fr/node/1262"
+    },
+    "ameli-panaris-symptomes": {
+      "title": "Assurance Maladie, Panaris : définition, causes et symptômes",
+      "url": "https://www.ameli.fr/assure/sante/themes/panaris/panaris-causes-symptomes"
+    },
+    "ameli-panaris-consulter": {
+      "title": "Assurance Maladie, Panaris : consulter et adopter les bons gestes pour guérir plus vite",
+      "url": "https://www.ameli.fr/assure/sante/themes/panaris/que-faire-quand-consulter"
+    },
+    "tyrer-champ-cinq-ans": {
+      "title": "Tyrer et al., Cognitive–behaviour therapy for health anxiety in medical patients (CHAMP): a randomised controlled trial with outcomes to 5 years, NIHR Health Technology Assessment, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28877841/"
+    },
+    "mer-loisirs-eau-douce": {
+      "title": "Ministère de la Transition écologique, Gestes et conseils pour les loisirs nautiques en eau douce",
+      "url": "https://www.mer.gouv.fr/gestes-et-conseils-pour-les-loisirs-nautiques-en-eau-douce"
+    }
+  },
+  "dossier": {
+    "name": "Hypocondrie",
+    "aliases": [
+      "Trouble d’anxiété liée à la santé",
+      "6B23"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim11-hypocondrie",
+      "nhs-anxiete-sante",
+      "ohspic-anxiete-sante",
+      "cci-anxiete-sante",
+      "cci-information-sante",
+      "cci-repondre-reassurance",
+      "has-parler-avec-son-medecin",
+      "has-decision-medicale-partagee",
+      "service-public-samu-sas",
+      "ameli-plaie-qui-saggrave",
+      "ameli-panaris-symptomes",
+      "ameli-panaris-consulter",
+      "tyrer-champ-cinq-ans",
+      "mer-loisirs-eau-douce"
+    ],
+    "points": [
+      "Le CDDR de l’OMS, 2024, section 6B23, pages imprimées 317 à 321, décrit l’hypocondrie, aussi nommée trouble d’anxiété liée à la santé, parmi les troubles obsessionnels-compulsifs ou apparentés, également rattachée au groupe des troubles anxieux ou liés à la peur. Le centre du tableau est la préoccupation ou la peur persistante d’avoir une affection grave, évolutive ou potentiellement mortelle. Elle peut s’accompagner de démarches de santé répétées et excessives ou d’évitement inadapté. La détresse ou le retentissement comptent, y compris le coût des efforts nécessaires pour poursuivre les activités. Une inquiétude circonstanciée, notamment lors de l’attente légitime d’un résultat, ne permet pas de conclure à un trouble. Une affection réelle ou un risque médical élevé justifie une appréciation particulièrement prudente et proportionnée au contexte. Aucun seuil clinique n’est présenté au lecteur comme outil d’autodiagnostic.",
+      "La CIM-11 distingue la possibilité d’envisager habituellement une autre explication (6B23.0) et la conviction persistante qui laisse peu ou pas de place à une autre explication (6B23.1). Le CDDR précise que le recul peut changer avec l’intensité de la détresse, parfois en peu de temps, et s’apprécie sur une période suffisante. Un moment de forte conviction ne permet pas d’attribuer un sous-code. Lénaïc a déjà un diagnostic établi avant le récit et aucun sous-code ne lui est attribué. L’épisode 7 compare deux moments de conviction sans données médicales nouvelles.",
+      "Pour le diagnostic différentiel, le CDDR distingue l’objet dominant de la préoccupation. Dans le 6C20, la détresse porte typiquement sur les symptômes physiques et leur effet sur la vie, avec recherche de soulagement. Dans le 6B23, la crainte porte principalement sur la maladie grave supposée. Cela ne permet pas à un lecteur d’assigner un diagnostic sur un seul motif de consultation. Des attaques de panique peuvent accompagner l’hypocondrie, mais une inquiétude limitée aux sensations de crises n’établit pas un 6B23. Dans le trouble panique, les crises récurrentes et inattendues structurent l’évaluation. L’anxiété généralisée concerne habituellement plusieurs domaines de vie. Les recoupements avec le TOC ne rendent pas les tableaux interchangeables. Le récit ne présente pas l’hypocondrie comme une invention volontaire de symptômes ni comme une explication pour toute sensation.",
+      "Les modules 3 à 6 du Centre for Clinical Interventions, le NHS et le CDDR décrivent des mécanismes distincts. Un message ou une sensation peut déclencher des recherches en ligne absorbantes. Une sensation réelle peut être interprétée comme le signe de la pire maladie imaginable sans que l’interprétation établisse sa cause. L’attention étroite portée au corps peut rendre certaines sensations plus saillantes. Les vérifications et demandes d’assurance excessives peuvent procurer un répit bref puis laisser la peur et le besoin de vérifier reprendre. La fiche CCI sur l’information explique l’effet des termes cherchés et les limites des récits en ligne. Une question précise sur les suites d’un examen relève du soin et une recherche d’informations crédibles peut avoir une fonction utile. Aucun exercice ne demande de provoquer des symptômes, de multiplier les mesures ou de réduire une surveillance indiquée.",
+      "Le module 7 du CCI et le NHS décrivent l’évitement de situations par crainte pour la santé, dont l’évitement de rendez-vous et la restriction d’activités. Les précautions supplémentaires prises pour se sentir entièrement à l’abri peuvent maintenir la peur, selon leur fonction et le risque réel. L’accompagnement peut aider à distinguer ces gestes des protections utiles et à reprendre une activité de façon graduée. Dans le récit, la référente du club décide du parcours, des vérifications du kayak et de l’autorisation nautique selon les conditions. Le guide ministériel étaye la préparation et la sécurité en eau douce. Le travail psychologique ne concerne ni le port du gilet, ni la météo, ni l’encadrement, ni les restrictions de soin.",
+      "Le module 8 du CCI examine des règles personnelles telles que devoir réagir à toute sensation ou considérer l’inquiétude comme nécessaire pour rester prudent. Le module 9 et le CDDR aident à situer les retours de difficultés et la poursuite d’un plan. Le NHS spécialisé décrit la TCC adaptée, menée en collaboration, et les buts personnels. L’essai CHAMP (444 patients en consultation spécialisée, dont certains avec une affection médicale concomitante, essai publié en 2017) a comparé une TCC adaptée pour l’anxiété de santé aux soins usuels. Le groupe TCC a obtenu une amélioration supérieure des scores d’anxiété liée à la santé, observée jusqu’à cinq ans. L’étude ne valide ni les trois exercices d’un article comme traitement indépendant, ni une durée individuelle, ni une évolution uniforme. Reprendre une activité qui compte ne mesure pas à lui seul l’évolution clinique.",
+      "Les deux guides HAS étayent la préparation d’une consultation, le droit de poser des questions et les décisions partagées. Clarifier ce qui a été évalué, ce qui reste ouvert, le canal d’accès et quand reprendre contact peut aider à suivre un plan. Les choix pris avec le docteur Le Gall sont individuels. Ils distinguent le suivi prévu et les sensations familières déjà évaluées, un changement à signaler et les situations urgentes. Un symptôme physique nouveau, modifié ou qui s’aggrave reste un motif à prendre au sérieux. En cas de besoin médical urgent en France, le 15 ou le 112 permettent d’obtenir une réponse sans attendre une séance de psychologie. Le SAS, joignable par le 15, peut orienter un besoin de soins non programmés si le professionnel habituel est indisponible. Les techniques s’appliquent aux habitudes de vérification identifiées avec les professionnels, sans retarder une évaluation nécessaire.",
+      "L’Assurance Maladie situe une rougeur, un gonflement ou une augmentation de la douleur autour d’une plaie parmi les raisons de consulter sans tarder. Une petite lésion près d’un ongle peut précéder une infection locale. Dans l’épisode 8, Lénaïc rapporte un changement observé depuis le matin et le cabinet propose une consultation le jour même. Seul le médecin, après examen, identifie l’infection et indique les suites et l’interruption temporaire de la pratique sur l’eau. La reprise, après contrôle, est déjà discutée au début de l’épisode 9. Le récit ne donne ni traitement, ni gestes à appliquer soi-même, ni durée générale de reprise.",
+      "La fiche CCI destinée aux proches propose de reconnaître l’émotion, convenir du rôle de chacun hors de la montée d’anxiété et soutenir la stratégie choisie par la personne en conservant sa propre disponibilité. Le rôle de Maël s’en tient aux gestes qu’il accepte, comme écouter, accompagner si Lénaïc le souhaite, ou assurer les tâches du club. Il ne commente pas la cause d’un symptôme, ne tient pas le téléphone ou la montre de Lénaïc sous contrôle et ne diffuse aucune information médicale. La limite aux assurances répétées concerne un doute familier, sans exclure une aide immédiate pour un changement préoccupant."
+    ]
+  },
+  "direction": "À 47 ans, Lénaïc est agent de voirie et fait des listes sur des chutes de carton. Il se souvient de la façon dont un lieu était utilisé avant un changement et de la provenance des petites pièces. Avec Maël, son beau-frère, il restaure La Virgule, le vieux kayak orange qui appartenait à son père. Maël travaille les samedis où il le peut et tient à retrouver leur plaisir de bricoler. Inès organise la rencontre des Deux Rives et décide de ce qui peut être mis à l’eau. Les interruptions et le retour au travail se voient dans les gestes de Lénaïc, les objets laissés en plan et les réponses qu’il oublie de donner. Son médecin habituel, le docteur Le Gall, le suit déjà pour l’hypocondrie. Lise, la psychologue, l’aide à observer ses habitudes et à essayer des réponses à son rythme. Le récit suit les recherches en ligne, l’interprétation d’une sensation, l’attention au corps, le soulagement bref des assurances, la portée d’un avis, l’évitement, les variations de conviction, le signalement d’un changement physique, les précautions en plus, la croyance que s’inquiéter protège, le retour des automatismes et la reprise d’une activité choisie. Deux questions avancent en parallèle. Lénaïc trouve un cadre pour parler de sa santé. Les deux hommes restaurent, présentent et remettent à l’eau le bateau avec le club. Au terme de la série Lénaïc a une première histoire à raconter sur La Virgule et un prochain rendez-vous pour faire le point, sans avoir à rendre publiques ses informations de santé."
+}

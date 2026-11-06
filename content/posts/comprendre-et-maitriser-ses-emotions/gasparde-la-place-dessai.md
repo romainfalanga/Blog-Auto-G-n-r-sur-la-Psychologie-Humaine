@@ -30,20 +30,81 @@ Elles sortent par la grande porte. Du trottoir, Dounia montre l’arrêt du bus 
 
 ## Une remarque entendue comme une mise en cause
 
-Gasparde s’attend à être désignée quand elle entend parler des inscriptions. La conviction qui la préoccupe porte sur sa place au club. La phrase de Dounia renseigne d’abord sur une nouvelle venue qui aurait aimé regarder le terrain. Lui demander ce qu’elle cherchait permet de répondre à une question d’accueil tout en laissant la préoccupation être discutée avec l’équipe de soins.
+Un retour sur le fonctionnement d’un lieu peut être entendu comme un reproche personnel. Dans le trouble délirant, une préoccupation persistante autour de sa place peut donner beaucoup de poids à une intention prêtée à l’autre. Dounia décrit la première visite de sa voisine. Gasparde se prépare à défendre son travail, puis apprend ce qui avait manqué à cette visiteuse. L’information reste utile même si la crainte de Gasparde ne disparaît pas.
 
-Pouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir. Regarder, jouer un moment et repartir sont trois possibilités qu’elle souhaite pouvoir choisir sur place.
+## Comment une remarque sur l’accueil peut-elle être entendue comme une attaque ?
 
-## Comment cette difficulté se manifeste
+### Une expérience racontée paraît désigner un responsable
 
-Gasparde entend d’abord la remarque comme un jugement sur sa façon d’accueillir. Puis elle écoute la suite et retrouve une question qui lui importe depuis longtemps. Les compétences de Gasparde et les effets du trouble délirant s’inscrivent dans des aspects différents de sa vie. Son attention à une personne derrière un portail n’a pas à passer au second plan dans le récit de ses inquiétudes.
+La personne qui écoute peut se sentir directement mise en cause alors que le retour porte sur une situation.
 
-## Essayer une invitation à petite échelle
+**Exemples concrets**
 
-Le samedi suivant, Gasparde peut recevoir deux personnes et leur dire ce qui est disponible. Une balle, un banc et quelqu’un pour indiquer l’entrée suffisent pour ce premier essai. Pour que la proposition tienne, le club a besoin d’une heure que les bénévoles peuvent réellement assurer. Il peut aussi demander à chaque personne ce qu’elle attend une fois arrivée.
+- La table des inscriptions rappelle à Gasparde qu’elle tenait l’accueil ce jour-là.
+- Une bénévole entend qu’un visiteur n’a pas trouvé la salle et croit qu’on lui reproche personnellement la signalétique.
 
-Dounia donne un avis parce qu’elle a rencontré le problème de l’entrée. Elle peut continuer à jouer comme adhérente et revenir sur cet avis après avoir essayé. Le suivi de Gasparde tient compte de ses objectifs et de ce qu’elle souhaite garder dans sa vie ordinaire. Ici, elle ajuste sa manière d’accueillir en parlant avec les gens concernés, avec la possibilité de conserver une autre partie de sa journée pour le double.
+### On attend une accusation qui n’a pas été formulée
+
+L’intention redoutée peut occuper l’écoute avant la fin de la phrase.
+
+**Exemples concrets**
+
+- Gasparde s’attend à entendre son prénom et ferme le registre un instant.
+- Dans une réunion, quelqu’un prépare sa défense dès qu’on évoque une visite qui s’est mal passée.
+
+### Une question d’usage déplace la discussion
+
+Le besoin de la personne peut être compris séparément de l’intention qu’on avait imaginée.
+
+**Exemples concrets**
+
+- Dounia précise que sa voisine voulait d’abord voir le terrain.
+- Une visiteuse indique qu’elle cherchait où s’asseoir avant de choisir un créneau.
+
+## 3 techniques pour recueillir un retour sans devoir régler toutes ses inquiétudes
+
+### 1. Demander ce qui a manqué à la personne
+
+Situer la remarque dans l’expérience de la visite.
+
+**Exercice pratique**
+
+- Repérez le moment précis évoqué.
+- Demandez ce que la personne voulait faire à ce moment-là.
+- Reformulez le besoin que vous avez compris.
+
+La conversation peut révéler un problème d’accueil qu’une réponse défensive aurait laissé de côté.
+
+### 2. Proposer un choix visible
+
+Modifier une condition vérifiable dans le lieu.
+
+**Exercice pratique**
+
+- Repérez ce qu’une personne voit en arrivant.
+- Indiquez une possibilité d’observer et une possibilité d’essayer.
+- Demandez aux nouveaux comment ils souhaitent participer.
+
+Les visiteurs peuvent se faire une idée de l’activité avant de s’y engager.
+
+### 3. Donner un autre espace à la crainte
+
+Parler du poids de l’intention prêtée si elle continue d’occuper l’échange.
+
+**Exercice pratique**
+
+- Retenez la phrase qui vous est revenue ensuite.
+- Décrivez ce que vous avez cru devoir défendre.
+- Apportez l’exemple au suivi si cette préoccupation gêne les rencontres.
+
+Le travail sur la peur peut se faire sans demander aux visiteurs de rassurer ou de se justifier.
 
 ## Une heure et un portail
 
 Sur une feuille qu’elle fixe au registre, Gasparde écrit « Premier accueil samedi, 10 h 30 ». Elle ajoute « Venez voir ou échanger quelques balles » et indique le portail côté rue. Dounia demande une photo de la feuille pour la montrer à un collègue, Levent. Gasparde reprend le téléphone du club pour vérifier le message envoyé à Basile après le café du dimanche. Il a accepté de consulter les appels pendant le double de seize heures. Elle montre à Dounia où son invitation apparaîtra dehors, avant de lui demander ce qu’elle a pensé de son premier service. Dounia se met à rire. La balle a touché le seul poteau qu’elle voulait éviter.
+
+---
+
+**Conclusion**
+
+La remarque de Dounia devient une proposition d’accueil qu’on peut essayer. Gasparde laisse aux nouveaux la possibilité de regarder avant de jouer. Ce choix ne règle pas son inquiétude sur sa place, mais il lui permet de reprendre la conversation sur ce que les visiteurs viennent chercher.

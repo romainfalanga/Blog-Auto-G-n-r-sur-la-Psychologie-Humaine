@@ -28,22 +28,83 @@ Nour a prévu de partir par le quai. Rita lui signale qu’un banc est occupé p
 
 Au premier tournant, elle entend Joël discuter avec une voisine des noms qu’on voit sur l’image. Il reste au porche pour le moment. Nour marche avec Rita jusqu’à la vieille porte. La dernière fois, elle avait regardé cette adresse sur la carte. Aujourd’hui, elle peut choisir où s’arrêter pour voir la forme de la ferrure.
 
-## Participer en gardant la possibilité de changer de rôle
+## Participer en choisissant sa place dans le groupe
 
-Le rôle de chacun dans un projet collectif peut changer entre la préparation et le jour du rendez-vous. Nour a préparé la carte, suivi les travaux et choisi les mots de la légende. Au porche, elle souhaite surtout marcher avec Rita. Le groupe peut assurer les autres rôles parce qu’il a convenu des horaires, du lieu de retour et de la personne qui garde les documents.
+Pour une personne autiste, une activité collective peut devenir plus accessible si les rôles, les trajets et les pauses restent modulables. L’autonomie peut consister à choisir l’appui que l’on veut et la tâche que l’on souhaite laisser. Après avoir préparé la carte, Nour veut suivre le quai avec Rita. L’accueil peut continuer au porche grâce aux personnes qui ont accepté d’y rester.
 
-## Comment cette difficulté se manifeste
+## Comment le choix du rôle change-t-il la façon de participer ?
 
-Nour peut revenir au porche et choisir de parler de l’hirondelle si elle en a envie.
+### La préparation ne détermine pas le rôle du jour
 
-Le NICE décrit un accompagnement qui respecte les préférences, les choix et la participation de la personne autiste. Dans ce projet de voisinage, Nour sait à qui demander un relais et peut décider de la part qu’elle veut garder. Ses préférences peuvent évoluer. Joël peut rester au porche cette fois et marcher un autre jour. Rita peut emprunter l’autre chemin si elle en a assez du quai.
+Faire une carte ou une légende peut rester une contribution entière sans devoir guider les arrivées.
 
-## Laisser des indications que d’autres peuvent reprendre
+**Exemples concrets**
 
-À leur retour, Fatou et Nour peuvent noter à quel endroit la carte reste difficile à lire et ce qui a aidé les personnes à choisir une pause. Elles peuvent garder les adresses confirmées et ajouter la date de leur dernier repérage. Si un lieu change, la prochaine personne qui organise la visite saura quoi vérifier. Les retours peuvent concerner des détails simples, comme la hauteur à laquelle la chemise est posée ou la direction depuis laquelle on aperçoit la porte.
+- Nour dépose la chemise et montre l’heure du départ à Fatou.
+- Joël reste au porche pour faire écouter l’enregistrement aux personnes intéressées.
 
-Nour peut garder pour son prochain rendez-vous ce qui lui sert dans d’autres situations. Elle a demandé un déroulé au travail et choisi la façon dont elle a parlé de sa fatigue. Elle souhaite maintenir les appuis qui lui sont utiles. La professionnelle qui l’accompagne pourra l’aider à revoir ces choix si le cadre de travail ou les besoins de Nour changent. Le projet continue selon les disponibilités et les envies des voisins.
+### Le trajet peut être ajusté en chemin
+
+Pouvoir choisir où s’arrêter rend le parcours moins dépendant d’une seule solution.
+
+**Exemples concrets**
+
+- Rita signale que le banc est occupé par deux personnes et leur chien.
+- Nour décide d’avancer et de regarder la cour depuis l’autre côté.
+
+### Le relais laisse une place pour revenir
+
+Une personne peut quitter l’accueil et retrouver ensuite ce qui se passe au point commun.
+
+**Exemples concrets**
+
+- Nour peut voir les trous de fixation en marchant avec Rita.
+- Au retour, elle entend Joël dire le nom de la boutique et Fatou lui rend la chemise.
+
+## 3 techniques pour choisir sa façon de participer à une activité collective
+
+### 1. Séparer le départ, le trajet et l’accueil
+
+Rendre visibles les rôles que chacun peut prendre ou laisser.
+
+**Exercice pratique**
+
+- Nommez les tâches nécessaires avant et pendant le rendez-vous.
+- Demandez qui accepte de rester au point commun et jusqu’à quelle heure.
+- Choisissez le rôle que vous souhaitez tenir ce jour-là.
+
+Le groupe peut fonctionner même quand une personne passe de l’organisation à la visite.
+
+### 2. Garder plusieurs endroits où s’arrêter
+
+Laisser une décision de parcours à la personne qui marche.
+
+**Exercice pratique**
+
+- Repérez un arrêt souhaité et une autre option à proximité.
+- Vérifiez sur place lequel est accessible.
+- Dites si vous préférez continuer, revenir ou vous arrêter un moment.
+
+Un banc occupé ne décide pas à lui seul de la sortie.
+
+### 3. Revenir pour l’échange que l’on veut
+
+Conserver un lien choisi avec le point commun.
+
+**Exercice pratique**
+
+- Convenez de ce que vous retrouverez au retour, comme les documents ou une écoute.
+- Rejoignez l’échange qui vous intéresse si vous en avez envie.
+- Proposez un autre jour pour ce qui demande plus de temps.
+
+La participation peut se poursuivre sous une autre forme sans rendre la présence obligatoire.
 
 ## Les trous de fixation au-dessus de la porte
 
 Rita s’arrête pour laisser passer les deux personnes et leur chien, qu’elles ont vus près du banc. Nour lève les yeux et reconnaît les deux trous au-dessus de la porte. Ils sont plus écartés qu’elle ne l’imaginait en regardant la photographie. Elle note la différence sur sa feuille avant de reprendre le chemin du porche. Une personne arrivée tard écoute encore Joël. Nour reste assez longtemps pour entendre le nom de la boutique dans sa voix. Fatou lui rend la chemise. Nour lui dit qu’elle a envie de revoir la porte avec elle quand la cour sera ouverte. Elles choisiront un jour où elles ont toutes les deux le temps.
+
+---
+
+**Conclusion**
+
+Nour voit enfin les trous de fixation qu’elle cherchait et revient écouter Joël au porche. Son rôle a changé, et la carte permet aux autres de garder leurs choix. La prochaine visite de la cour peut rester un rendez-vous qu’elle et Fatou décideront ensemble.

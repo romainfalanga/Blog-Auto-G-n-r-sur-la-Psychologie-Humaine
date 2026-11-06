@@ -29,20 +29,83 @@ Il y a quelques semaines, au terme de l’évaluation, l’équipe a conclu qu�
 
 Émilien voudrait demander à quel moment Dorian a décidé cela. Il voudrait aussi dire merci pour les deux accords. Pendant qu’il cherche dans quel ordre le faire, il lance le fichier. Le chariot rebondit sur les pavés comme avant, mais la voix est maintenant plus nette sur la fin. Dorian lui montre un réglage qu’il a ajouté. Émilien commence à en ouvrir un deuxième, puis se rappelle ce qu’il était venu faire : choisir avec Dorian où couper le passage, en vingt minutes. Il laisse le deuxième panneau fermé.
 
-## Comprendre le retour après un épisode
+## Reprendre un geste après la manie
 
-Après un épisode, la reprise d’une activité peut être un objectif de rétablissement convenu avec la personne. Le NICE recommande de discuter avec elle des suites des soins, de ses propres objectifs et des aides adaptées si elle souhaite reprendre un emploi. Le moment d’une reprise et sa forme dépendent de sa situation et de l’évaluation avec son équipe.
+Après un épisode maniaque, le rétablissement peut passer par une reprise graduelle des activités, discutée avec la personne et son équipe. Retrouver un geste familier et redéfinir ce que chacun prend en charge sont deux tâches différentes. Émilien peut choisir où couper la phrase de la vendeuse. Il doit encore trouver avec Dorian comment ils présenteront les enregistrements. Le créneau convenu lui donne une première place au studio.
 
-## Comment cette difficulté se manifeste
+## Comment se présente le retour au studio après un épisode maniaque ?
 
-Aller mieux ne se mesure pas à la quantité de travail qu’Émilien réussit à reprendre en une seule fois. Il peut participer à une décision qui lui tient à cœur, constater qu’il a besoin d’une pause et conserver sa prochaine consultation. Une séance réussie ne décide pas à elle seule de toute la semaine.
+### Un détail familier dans un projet qui a bougé
 
-## Remettre le travail en commun sans effacer ce qui s’est passé
+Pendant une absence, les objets, les tâches et les rôles continuent à évoluer. On peut retrouver un point d’entrée sans avoir suivi chaque décision.
 
-Dorian a tenu deux engagements pendant l’absence d’Émilien et a besoin que son travail soit reconnu. Émilien veut garder la possibilité de proposer et de contester des choix techniques. Ils peuvent discuter du dossier comme deux collègues : convenir de l’extrait à finir, du temps disponible et de qui parlera aux commerçants. Si la présentation change de forme, il est utile de dire à qui revient la décision et quel travail cela ajoute.
+**Exemples concrets**
 
-Émilien peut garder la discussion sur sa santé pour les personnes qu’il choisit et préciser à Dorian une limite de séance. Si la fatigue devient un obstacle persistant, il pourra en parler dans le cadre du suivi plutôt que déduire seul qu’il doit arrêter le projet ou y revenir à plein temps.
+- Dorian a changé de chaise pour laisser à Émilien la bonne prise de casque.
+- Le fichier « Avec le chariot » lui rend un son qu’il connaît dans un dossier réorganisé.
+
+### L’envie de reprendre plusieurs décisions à la fois
+
+Une première séance peut donner envie de rattraper tout ce qui s’est passé. Un objectif modeste permet de choisir ce qui est à portée ce jour-là.
+
+**Exemples concrets**
+
+- Émilien voudrait parler tout de suite de la présentation, alors qu’ils ont prévu de choisir une coupe.
+- Il commence à ouvrir un deuxième réglage puis le laisse fermé pour finir le premier essai.
+
+### Une place retrouvée sans rôle définitif
+
+Une contribution concrète peut avoir de la valeur avant que la répartition de tout le projet soit arrêtée.
+
+**Exemples concrets**
+
+- Émilien propose une coupe juste avant le claquement de la caisse et Dorian garde les deux versions.
+- Ils gardent la question de la présentation pour après la prochaine écoute.
+
+## 3 techniques pour reprendre une tâche à son rythme
+
+### 1. Choisir un résultat à laisser sur la table
+
+Définir un premier créneau qui peut se terminer même si le projet reste ouvert.
+
+**Exercice pratique**
+
+- Choisissez un passage, un dossier ou une manipulation à reprendre.
+- Convenez avec votre collègue du temps dont vous disposez.
+- Gardez une trace du choix ou des options encore ouvertes avant de ranger.
+
+Le travail fait reste utilisable sans demander une séance plus longue.
+
+### 2. Faire un état des lieux avec le collègue
+
+Comprendre ce qui a avancé en votre absence et ce qu’il reste à décider.
+
+**Exercice pratique**
+
+- Demandez quelles démarches ont déjà été faites.
+- Choisissez une question qui compte encore pour vous.
+- Fixez un autre moment pour en parler si la séance d’aujourd’hui sert à autre chose.
+
+Les décisions prises pendant l’absence peuvent être reconnues et les rôles encore ouverts, rediscutés.
+
+### 3. Parler du coût réel de la reprise
+
+Apporter au suivi ce que cette première séance a demandé.
+
+**Exercice pratique**
+
+- Notez le geste qui vous a paru familier et celui qui vous a demandé un effort.
+- Indiquez comment vous vous êtes senti après la séance.
+- Discutez avec l’équipe du rythme qui vous convient pour la suite.
+
+L’ajustement s’appuie aussi sur le retentissement après la tâche, moins visible pour le collègue.
 
 ## Deux avis sur le même passage
 
 Le minuteur vibre alors qu’ils écoutent la dernière syllabe. Émilien préfère une coupe un peu plus loin, juste avant le claquement de la caisse. Dorian essaie et garde les deux versions. Ils notent chacun ce qu’ils ont fait, puis Émilien range son casque. Sur le chemin de la sortie, il remercie Dorian d’avoir appelé les commerçants. Ils n’ont pas encore réparti la présentation ; il lui propose d’en parler après la prochaine écoute.
+
+---
+
+**Conclusion**
+
+Émilien contribue de nouveau à un montage, en gardant le temps qu’il s’était donné. Dorian peut conserver les deux versions pendant qu’ils apprennent à se répartir la suite. Reprendre la coupe et reprendre toute la présentation n’exigent pas la même chose.

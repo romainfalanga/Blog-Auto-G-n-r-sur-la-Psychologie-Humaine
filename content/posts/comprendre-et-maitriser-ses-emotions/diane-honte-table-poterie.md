@@ -30,16 +30,81 @@ La porte s’ouvre derrière elles. Anaïs, qui partage habituellement le seau d
 
 ## Une place à table sans récit à fournir
 
-On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour. Diane connaît Anaïs et apprécie de travailler avec elle. Entendre la question à l’improviste lui fait quand même imaginer toutes celles qui pourraient suivre.
+La honte anticipée naît de l’idée que d’autres pourraient voir sous un jour défavorable quelque chose qu’on ne souhaite pas exposer. Après un épisode psychotique et une absence, elle peut compliquer le retour même avec des personnes familières. Diane avait préparé un passage auprès de Maud. L’arrivée d’Anaïs lui fait imaginer qu’elle devra raconter davantage avant de pouvoir reprendre son travail sur les pièces.
 
-## Comment cette difficulté se manifeste
+## Comment la honte anticipée change-t-elle la façon de revenir dans un groupe ?
 
-La réponse qu’elle a trouvée suffit à revenir à une conversation dont elle a envie. Elle peut en choisir une autre un autre jour, si elle le souhaite. Avec son équipe, elle a déjà pu réfléchir à ce qu’elle voulait dire à Rémi. À l’atelier, le choix porte aussi sur le moment : avec qui elle veut parler et à quel endroit.
+### On prévoit les questions avant la visite
 
-## Inscrire les deux pièces et laisser les permanences
+La peur d’être exposé peut prendre du temps avant même de franchir la porte.
 
-Maud sépare la fiche des pièces du tableau des permanences pour la préparation de l’exposition. Diane remarque qu’une case est vide le vendredi. Elle a l’habitude de se proposer quand elle voit un blanc dans un tableau. Ce soir, elle voudrait avoir assez de temps pour essayer deux couleurs, et c’est déjà un engagement qu’elle a envie de tenir. Elle demande à Maud si les pièces peuvent être inscrites avant la cuisson de l’émail. Oui, dit Maud, tant qu’elles savent qu’elles confirmeront le choix avant l’impression des cartels. Diane peut inscrire les deux formes et attendre le résultat pour leur donner un nom.
+**Exemples concrets**
+
+- Diane hésite derrière la vitre malgré l’accord pris avec Maud.
+- Une personne qui revient à un cours pense à toutes les questions possibles avant de sortir de chez elle.
+
+### Une question simple paraît en annoncer d’autres
+
+La gêne peut donner à une demande ordinaire le poids d’une conversation entière.
+
+**Exemples concrets**
+
+- Diane baisse les yeux quand Anaïs lui demande où elle était passée.
+- À l’accueil d’une association, quelqu’un entend « Tu reviens aujourd’hui ? » et se prépare déjà à défendre le motif de son absence.
+
+### On peut vouloir l’activité sans vouloir raconter
+
+Le besoin d’intimité ne dit pas que la personne a perdu tout intérêt pour le groupe.
+
+**Exemples concrets**
+
+- Diane préfère parler des pièces et demande à garder le grand pinceau.
+- Une personne demande la partition du prochain morceau tout en disant qu’elle préfère ne pas parler de son arrêt.
+
+## 3 techniques pour retrouver un groupe en gardant ses limites
+
+### 1. Préparer une réponse courte
+
+Garder la possibilité de décliner les questions personnelles.
+
+**Exercice pratique**
+
+- Choisissez ce que vous voulez dire de l’absence.
+- Préparez une phrase pour indiquer ce qui reste privé.
+- Ajoutez, si vous le souhaitez, le sujet dont vous préférez parler.
+
+La personne a des mots disponibles si la question arrive plus tôt que prévu.
+
+### 2. Fixer le but d’un premier passage
+
+Donner à la visite un objectif qui ne dépend pas de la conversation.
+
+**Exercice pratique**
+
+- Choisissez le geste utile pour aujourd’hui.
+- Convenez d’un horaire avec la personne qui vous accueille.
+- Décidez sur place si vous voulez rester ou reporter le reste.
+
+Le retour avance même si la présence dans le groupe attend encore.
+
+### 3. Parler de ce que la gêne empêche
+
+Demander un appui si l’appréhension écarte durablement des activités qui comptent.
+
+**Exercice pratique**
+
+- Repérez une situation que vous remettez.
+- Dites ce que vous craignez de devoir expliquer.
+- Choisissez avec un professionnel ou une personne de confiance un premier contact qui vous convient.
+
+Le soutien peut porter sur une difficulté précise sans exiger que le groupe connaisse son origine.
 
 ## Deux lignes à l’encre bleue
 
 Sur la première ligne, Diane écrit « bol bas ». La deuxième est assez longue pour « carafe sans anse », en laissant un blanc pour le titre. Maud lui demande si elle veut rester pour le cours. Elle jette un œil au tabouret puis dit qu’elle reviendra au prochain : elle voulait faire seulement ce passage aujourd’hui. Anaïs pose le pinceau sur la planche du haut. Diane va le chercher et le remet avec les deux pièces pour être sûre de le retrouver. En partant, elle voit les noms dans le tableau des permanences. La case du vendredi est encore vide.
+
+---
+
+**Conclusion**
+
+Diane retrouve son pinceau et revoit ses pièces. Elle n’a pas à rester au cours pour que ce passage ait compté. Anaïs voulait aussi une réponse sur le matériel et Diane a pu la lui donner sans expliquer son absence à toute la table.

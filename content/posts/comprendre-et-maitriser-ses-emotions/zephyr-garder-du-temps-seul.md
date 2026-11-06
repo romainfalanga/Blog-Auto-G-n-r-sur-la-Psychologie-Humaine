@@ -31,22 +31,81 @@ Mercredi, il reverra Sonia. Depuis le point médical, il a repris quelques sorti
 
 ## Reconnaître la part choisie et la part subie du retrait
 
-Zéphyr se repose avec plaisir à l’établi. Après les sons qui l’ont effrayé, il a aussi renoncé à des sorties qu’il aurait aimé faire. Le trouble schizotypique peut s’accompagner de retrait. Pour parler de son retentissement, Zéphyr et son équipe ont besoin de savoir à quel moment la solitude correspond à un choix et à quel moment elle lui coûte quelque chose.
+La solitude choisie et le retrait subi peuvent se ressembler de l’extérieur. Le trouble schizotypique peut s’accompagner de retrait social, mais le plaisir de travailler seul ou de retrouver le calme conserve sa valeur. La différence se précise en regardant ce que la personne souhaitait pouvoir faire. Zéphyr aime revenir à son établi et se souvient aussi de sorties qu’il a laissées passer parce que certaines perceptions l’inquiétaient.
 
-Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après.
+## Comment la solitude choisie se distingue-t-elle d’un retrait qui coûte ?
 
-## Comment cette difficulté se manifeste
+### Le calme rend une activité possible
 
-Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.
+On peut chercher à être seul pour travailler ou se reposer avec plaisir.
 
-Les difficultés liées au trouble schizotypique peuvent varier dans leur intensité. Zéphyr garde avec son équipe la possibilité de parler des perceptions qui l’inquiètent et de leurs effets sur ses journées. Le goût qu’il a pour le calme de l’atelier mérite aussi d’être entendu comme une préférence. Il peut en tenir compte quand il choisit ce qu’il veut proposer.
+**Exemples concrets**
 
-## Prendre deux dates avec les gens qui les assurent
+- Zéphyr veut retrouver son établi après la démonstration.
+- Une personne garde une matinée tranquille pour restaurer un objet avant de rejoindre ses amis.
 
-Zéphyr peut proposer une matinée par mois, au départ sur deux mois. Maud et Mounir peuvent répondre pour les dates qu’ils tiennent réellement. Le musée pourra ouvrir les inscriptions quand ils auront confirmé qui assure l’accueil et qui reprend le geste si nécessaire. Après les deux matinées, le musée pourra garder ce format, le modifier ou suspendre la prochaine date. Chacun saura quand en reparler.
+### La peur fait renoncer à une envie
 
-Chez Agnès, les décisions sont plus petites. Elle peut proposer une sortie, et Zéphyr peut répondre selon ce qui lui convient. S’il souhaite lui demander de venir un jour à un entretien, il pourra préciser avec elle et avec Sonia ce qu’il voudrait partager. Cette semaine, il a surtout envie qu’elle lui indique l’étal où elle a trouvé ses poires.
+Rester seul peut avoir un autre sens quand on aurait voulu sortir.
+
+**Exemples concrets**
+
+- Les sons qui inquiètent Zéphyr lui ont fait laisser passer des sorties.
+- Quelqu’un renonce au café qu’il attendait parce que les échanges de la veille continuent de l’angoisser.
+
+### Un rythme choisi permet d’alterner
+
+La personne peut vouloir garder du temps pour elle et continuer une activité avec d’autres.
+
+**Exemples concrets**
+
+- Zéphyr propose une matinée par mois plutôt que d’ouvrir l’atelier chaque samedi.
+- Une bénévole accepte un accueil sur deux afin de conserver son temps de travail en réserve.
+
+## 3 techniques pour choisir un rythme entre calme et rencontres
+
+### 1. Comparer deux moments de solitude
+
+Reconnaître ce qui repose et ce qui prive d’une activité.
+
+**Exercice pratique**
+
+- Pensez à un moment seul que vous aviez voulu.
+- Comparez-le à une sortie que vous auriez aimé faire.
+- Notez ce qui a changé votre décision dans chaque cas.
+
+La comparaison donne des mots pour décrire une préférence ou une difficulté au suivi.
+
+### 2. Espacer les engagements
+
+Garder une place aux rencontres sans perdre son temps de travail au calme.
+
+**Exercice pratique**
+
+- Choisissez la durée et la fréquence que vous voulez essayer.
+- Vérifiez la disponibilité des personnes qui participent.
+- Fixez dès maintenant un point pour revoir cet accord.
+
+Un rythme convenu peut être ajusté selon l’effet qu’il a sur chacun.
+
+### 3. Préparer le prochain contact de suivi
+
+Donner une place distincte aux difficultés qui réduisent les sorties.
+
+**Exercice pratique**
+
+- Gardez le rendez-vous convenu avec l’équipe.
+- Apportez un exemple de sortie qui vous a manqué.
+- Demandez qui joindre plus tôt si une perception ou sa gêne change.
+
+Les choix d’emploi du temps restent les vôtres, et l’équipe peut évaluer ce qui devient préoccupant.
 
 ## Deux dates, une place au comptoir
 
 Zéphyr écrit à Basile qu’il propose une matinée par mois, dans la petite salle, avec le temps d’essai qu’ils viennent de trouver. Après vérification des permanences, Maud et Mounir confirment les deux dates espacées. Basile remplit les deux cases du programme et leur donne rendez-vous après la seconde pour voir la suite. Zéphyr se charge de remettre la fiche au comptoir. Il laisse une place pour que Maud ajoute le nom de la personne à prévenir si l’horaire change. La veille de son rendez-vous avec Sonia, il retrouve le papier du centre et le range avec les heures qu’il a notées. Agnès lui envoie un message. Le vendeur de poires sera là samedi. Il lui répond qu’il viendra avec son sac.
+
+---
+
+**Conclusion**
+
+Zéphyr garde son établi, deux dates au musée et un samedi pour les poires. Ces choix laissent de la place au calme autant qu’aux rencontres. La gêne qui lui a fait manquer d’autres sorties reste distincte et pourra être discutée avec Sonia.

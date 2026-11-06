@@ -29,22 +29,83 @@ Un homme passe les plats et prend une tasse sans demander. Hélène attend qu’
 
 Maud passe et demande si le dessin a gagné. Les questions repartent aussitôt : est-ce que le mot était trop petit, qui a vu la flèche, est-ce qu’il faut commander le support ? Hélène lève la main. Elle propose d’abord d’aller voir ce que la cliente a vu. Puis elle veut choisir entre une inscription au dos et un panneau sur l’autre montant. Elle demande à Maud de garder la commande en attente.
 
-## Planifier un essai quand plusieurs questions arrivent ensemble
+## Remettre les décisions dans un ordre utile
 
-Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre. Hélène a changé à la fois le dessin, les mots et l’emplacement. Le client qui lit « Tasses » donne une indication sur ce qui lui a servi. La cliente qui voit le dos du carton indique une limite de l’installation. Ces retours aident à choisir la prochaine modification. Ils ne permettent pas d’attribuer à l’image, à elle seule, les progrès observés.
+Avec un trouble du développement intellectuel, planifier une tâche peut être plus facile quand les questions sont présentées selon l’ordre où elles se résolvent. L’observation, le choix d’une modification et la commande de matériel demandent des informations différentes. Hélène veut d’abord voir ce que la cliente voyait depuis l’entrée latérale. Elle peut ensuite décider quoi changer.
 
-La HAS recommande de tenir compte des propositions de la personne et de l’environnement réel de travail. L’OMS distingue différents domaines de fonctionnement dans le TDI.
+## Comment organiser un essai quand plusieurs décisions arrivent ensemble ?
 
-## Comment cette difficulté se manifeste
+### Les observations ne s’annulent pas entre elles
 
-Dans cette situation, suivre plusieurs questions qui arrivent en même temps demande à Hélène un effort qu’elle peut limiter en remettant les étapes dans l’ordre. En revanche, comparer ce que les clients voient depuis deux entrées relève d’un savoir qu’elle construit sur le rayon.
+Deux retours différents peuvent correspondre à deux accès différents au même rayon.
 
-## Faire une modification qu’on pourra encore déplacer
+**Exemples concrets**
 
-Pour essayer l’autre sens, Hélène peut mettre une indication provisoire à l’entrée latérale, puis regarder depuis le seuil. Si elle la colle au dos du premier panneau, la flèche doit avoir un sens depuis cet endroit aussi. Un support séparé pourra être déplacé si la table d’entrée change. Maud peut préciser ce que le magasin a en stock, sans décider de la forme avant que les deux emplacements aient été regardés.
+- Un homme voit le mot en entrant par l’allée centrale, tandis qu’une cliente voit le dos du panneau depuis la porte latérale.
+- Une indication aide les personnes qui arrivent du parking et reste invisible depuis l’arrêt du bus.
 
-Les observations de Dario ont un rôle précis : ce qu’il voit et ce qu’on lui demande depuis sa caisse. C’est à Hélène de les croiser avec ses notes. Elle peut remettre la question du dessin à plus tard si, pour l’instant, le point qui compte est l’accès par la porte latérale.
+### Une décision dépend parfois d’une vérification précédente
+
+Commander ou fabriquer demande de savoir d’abord ce que le nouveau support doit résoudre.
+
+**Exemples concrets**
+
+- Hélène fait suspendre la commande pendant qu’elles regardent depuis la porte.
+- Une équipe attend d’avoir vérifié la place disponible avant de choisir la taille d’une affiche.
+
+### Un essai limité prépare le choix suivant
+
+Un support provisoire permet d’observer un effet avant de fixer l’installation.
+
+**Exemples concrets**
+
+- Hélène pose un carton sur le montant pour vérifier la visibilité de la flèche.
+- Un collègue place une étiquette amovible et regarde si on la voit quand la file se forme.
+
+## 3 techniques pour mettre les décisions d’un essai dans l’ordre
+
+### 1. Retrouver d’où vient chaque retour
+
+Comprendre pourquoi les observations diffèrent.
+
+**Exercice pratique**
+
+- Demandez par où la personne est arrivée.
+- Placez-vous à son point de départ.
+- Notez ce qu’on peut lire ou voir depuis cet endroit.
+
+La modification peut viser le problème exact plutôt qu’un défaut supposé de tout le panneau.
+
+### 2. Mettre les décisions en file
+
+Faire apparaître ce qui doit être vérifié avant de commander ou d’installer.
+
+**Exercice pratique**
+
+- Distinguez l’observation, l’essai et la décision finale.
+- Choisissez la première action faisable.
+- Fixez qui doit confirmer l’information suivante et quand.
+
+Chacun sait quelle tâche peut avancer et laquelle attend encore un résultat.
+
+### 3. Essayer sans effacer ce qui fonctionne
+
+Modifier une partie du dispositif et garder les repères utiles.
+
+**Exercice pratique**
+
+- Identifiez ce que vous souhaitez conserver.
+- Placez un prototype là où le problème a été observé.
+- Vérifiez le résultat avant d’engager le matériel définitif.
+
+L’essai réduit le nombre de changements à comparer.
 
 ## Une seconde entrée sur le croquis
 
 Hélène et Maud repartent de la porte latérale. Le panneau est trop loin pour lire un texte au dos. Hélène place un carton de réserve sur le montant le plus proche, le temps de vérifier que la flèche reste visible quand une personne s’arrête devant. Elle veut garder les deux mots sur les étagères et mettre un deuxième panneau à cet endroit. Maud croit qu’il ne reste qu’un seul support neuf. Hélène lui demande de vérifier avant samedi midi ; elle apportera son croquis et verra ce qu’elles peuvent faire avec le matériel disponible. Elles conviennent de reprendre aussi la légende de la lettre à ce moment-là.
+
+---
+
+**Conclusion**
+
+Hélène garde les étiquettes et trouve une place pour une deuxième flèche. La commande peut attendre le retour de Maud sur les supports. Son croquis dit désormais ce qui se décide ensuite.

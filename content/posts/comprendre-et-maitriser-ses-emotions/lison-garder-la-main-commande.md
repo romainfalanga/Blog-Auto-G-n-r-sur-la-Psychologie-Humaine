@@ -34,14 +34,79 @@ La lumière revient. Lison voit des carreaux avant de voir les lignes du patron.
 
 Être autonome dans une tâche peut vouloir dire choisir les outils et les vérifications nécessaires pour la conduire. Un trouble développemental des apprentissages peut persister à l’âge adulte et ses effets varient avec les tâches et les aides disponibles. La réussite de la commande de Lison montre ce qu’elle a pu faire dans un cadre précis. Elle a choisi les matières, tenu la fiche, retrouvé un écart sur le devis et suivi l’échange. Elle s’est servie d’un dessin, d’informations écrites et de contrôles avec d’autres personnes. Rien dans ce résultat ne permet de prévoir combien de temps prendra le calcul d’un autre métrage. La photo de carreaux pose une question nouvelle à l’ensemble de l’atelier.
 
-## Faire le bilan sans se donner une note
+## Comment garder des appuis pour le calcul après une commande réussie ?
 
-Lison et Nora peuvent revenir sur ce qui a réellement aidé. La mesure datée a évité de traiter une ancienne étiquette comme un stock confirmé. Le courriel a permis de retrouver le nombre transmis. Les gabarits ont montré ce que le total du fournisseur ne garantissait pas. Une aide est utile aussi quand elle évite de recommencer un travail le soir ou quand elle donne à une autre personne de quoi prendre un relais. Lison a en outre trouvé l’ocre qu’elle voulait pour le mouvement des vestes. Si le bilan ne porte que sur les chiffres, ce choix de costumière disparaît. Elle a besoin de pouvoir nommer les deux parts du travail.
+### Un résultat reflète les conditions dans lesquelles il a été obtenu
 
-## Emporter les appuis qui ont servi
+La personne peut avoir réussi une tâche avec du temps, des documents et des relais qui ont compté.
 
-L’équipe peut conserver la fiche commune et le moment de vérification, puis décider sur la prochaine commande des étapes qui méritent un regard à deux. Lison peut être celle qui propose cette répartition et fixe quand la revoir. Si le temps passé à vérifier déborde encore sur ses soirées ou si une nouvelle tâche révèle un besoin différent, elle pourra l’aborder au suivi. Le référent handicap de son organisme de formation est aussi un interlocuteur possible si des appuis doivent être coordonnés entre la formation et l’atelier. Le bilan du jour peut rester concret : où la fiche sera rangée, qui peut y écrire et quand appeler quelqu’un avant qu’un engagement soit pris.
+**Exemples concrets**
+
+- Lison a utilisé le dessin des mesures et les confirmations écrites pour suivre la commande.
+- Elle a pu vérifier le coupon avec Ilyès puis faire valider la réception par Nora.
+
+### Une nouvelle matière peut poser un autre problème
+
+Le métrage précédent ne se transpose pas automatiquement quand le patron, la largeur ou le motif change.
+
+**Exemples concrets**
+
+- Les carreaux obligent l’atelier à revoir la disposition des pièces.
+- Lison demande encore un contrôle de la quantité avant le prochain devis.
+
+### Le métier ne se résume pas au calcul
+
+Le rendu du tissu et les choix de scène apportent d’autres informations que le métrage.
+
+**Exemples concrets**
+
+- Lison vérifie le temps où l’ocre apparaît lorsque les comédiens tournent.
+- Elle garde une chute sur la planche d’échantillons pour une idée de costume future.
+
+## 3 techniques pour reconduire les appuis utiles dans un nouveau projet
+
+### 1. Identifier ce qui a servi
+
+Retenir les outils et accords qui ont réellement facilité la tâche.
+
+**Exercice pratique**
+
+- Reprenez une difficulté du dernier dossier.
+- Nommez le support ou le relais qui a permis de poursuivre.
+- Décidez ce que vous voulez rendre disponible pour le prochain devis.
+
+L’expérience devient un point de départ réutilisable.
+
+### 2. Rouvrir les calculs propres au nouveau patron
+
+Vérifier les paramètres avant de reprendre un ancien chiffre.
+
+**Exercice pratique**
+
+- Repérez ce qui change dans le tissu ou la disposition.
+- Réservez un moment pour reprendre le patron avec les mesures du nouveau projet.
+- Faites contrôler la quantité avant la validation du devis.
+
+La décision tient compte de la commande réelle.
+
+### 3. Faire un bilan à partir de deux résultats
+
+Reconnaître à la fois le travail numérique et le rendu souhaité.
+
+**Exercice pratique**
+
+- Notez un point de vérification utile pour la prochaine commande.
+- Conservez un repère du résultat en scène.
+- Choisissez la décision que vous souhaitez préparer vous-même ensuite.
+
+Le bilan aide à poursuivre son métier en gardant les appuis nécessaires.
 
 ## Le temps d’un retournement
 
 Nora inscrit un rendez-vous à la table de coupe pour le nouveau patron. Lison ferme le dossier du Quai de nuit et le range dans la caisse qui retourne à l’atelier. Avant de quitter la salle, elle prend dans la poche de son tablier la chute mise de côté et l’épingle près du projecteur de travail sur leur planche d’échantillons. Elle veut s’en souvenir pour un autre costume. La régisseuse propose un dernier passage. Lison retourne au dernier rang et fait signe qu’elle est prête. Les quatre comédiens se tournent ; à cette distance, l’ocre dure exactement le temps qu’elle espérait.
+
+---
+
+**Conclusion**
+
+Les vestes montrent l’ocre pendant le temps que Lison avait imaginé. Elle clôt la commande avec une fiche et des relais qu’elle pourra reprendre. Le nouveau métrage aura son contrôle, et la chute restera sur la planche pour une autre idée.

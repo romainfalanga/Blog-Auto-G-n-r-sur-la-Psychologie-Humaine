@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand un rappel provoque une réaction forte",
-          "text": "Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils recherchent aussi des reviviscences, où l’événement semble se reproduire dans le présent, et un évitement des rappels du traumatisme. Ils examinent les effets de ces réactions sur le travail, les relations ou d’autres activités. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution."
+          "heading": "Le corps en alerte après un bruit familier",
+          "text": "Dans le trouble de stress post-traumatique, un bruit associé à l’événement peut déclencher un sursaut et une alerte qui mobilisent le corps très vite. Un sursaut seul ne renseigne pas sur un diagnostic. Dans la serre, Selma lâche le mètre au choc du couvercle et cherche la sortie. Il faut à la fois tenir compte de la vitre fendue, un problème réel à confier au vitrier, et de ce que le bruit provoque chez elle."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment."
+          "heading": "Comment un rappel sonore met-il le corps en alerte ?",
+          "points": [
+            {
+              "heading": "Le geste s’arrête avant que le son soit identifié",
+              "text": "Une réaction de sursaut peut interrompre une tâche en cours avant que la personne sache d’où vient le bruit.",
+              "examples": [
+                "Le couvercle tombe dehors et le mètre échappe à Selma pendant qu’elle parle des semis.",
+                "Dans un autre jardin, une personne pourrait reculer au claquement d’une tôle avant de remarquer le vent."
+              ]
+            },
+            {
+              "heading": "L’attention se tourne vers la sortie",
+              "text": "L’envie de s’éloigner peut prendre le dessus alors que la personne connaît les lieux.",
+              "examples": [
+                "Selma repère la porte et peine un instant à regarder ailleurs.",
+                "Elle demande à André de rester à l’entrée pour lui laisser choisir son chemin."
+              ]
+            },
+            {
+              "heading": "La tâche peut attendre après le choc",
+              "text": "Identifier la source du bruit ou quitter l’endroit ne rend pas toujours possible une reprise immédiate.",
+              "examples": [
+                "Dehors, André montre de loin le couvercle posé sur la dalle.",
+                "Selma ramasse les sachets de graines et reporte la mesure du montant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Finir une matinée comme elle le souhaite",
-          "text": "Sur place, la première question est de savoir si quelque chose demande une attention immédiate. André peut vérifier de loin où le couvercle est tombé. La vitre fendue, déjà signalée au vitrier, reste une question de sécurité matérielle. Selma peut ensuite choisir de poser le mètre, de sortir ou de rester près de la porte avec un peu d’espace. Elle peut dire quel geste lui conviendrait maintenant.\n\nLa serre a aussi ses propres décisions. André peut garder ses graines et revenir discuter des radis. Selma peut retrouver le vert du montant un autre jour et décider si elle souhaite le conserver. Ces choix autour de la serre peuvent continuer pendant qu’elle poursuit son suivi."
+          "heading": "3 techniques pour retrouver un choix après un sursaut",
+          "points": [
+            {
+              "heading": "Laisser de l’espace pour sortir",
+              "objective": "Retrouver une distance qui convient à la personne.",
+              "exercise": [
+                "Interrompez le geste en cours si vous pouvez le laisser en sécurité.",
+                "Indiquez à l’autre, par un mot ou un signe, si vous voulez qu’il attende.",
+                "Choisissez où vous souhaitez vous mettre avant de reprendre la discussion."
+              ],
+              "benefit": "La personne peut décider d’un appui sans devoir raconter ce qui a déclenché le sursaut."
+            },
+            {
+              "heading": "Faire traiter le problème matériel",
+              "objective": "Donner la bonne réponse au danger présent dans le lieu.",
+              "exercise": [
+                "Identifiez le risque visible, comme une vitre fendue.",
+                "Gardez-vous à distance de la zone dangereuse et adressez-vous à la personne compétente.",
+                "Convenez de ce qui peut attendre son intervention."
+              ],
+              "benefit": "Le danger concret peut être traité sans demander à Selma de rester dans la serre pour vérifier si l’alerte baisse."
+            },
+            {
+              "heading": "Décrire la réaction à un professionnel",
+              "objective": "Donner un exemple de ce que les rappels changent dans la vie quotidienne.",
+              "exercise": [
+                "Choisissez une situation que vous voulez aborder.",
+                "Dites ce qui s’est passé dans le présent et ce que la réaction vous a fait interrompre.",
+                "Discutez avec le professionnel des appuis qui vous conviendraient si cela recommence."
+              ],
+              "benefit": "L’échange peut porter sur les effets du rappel, avec le niveau de détail que vous choisissez."
+            }
+          ]
         }
       ],
       "ending_title": "Le montant vert restera dans le dessin",
@@ -52,7 +108,8 @@
         "next": "À la quincaillerie, elle distingue une reviviscence d’un simple sursaut et demande à interrompre un achat."
       },
       "clinical_focus": "Sursaut face à un rappel",
-      "clinical_intro": "Un bruit sec fait sursauter Selma dans sa serre et lui donne envie de rentrer. Dans le trouble de stress post-traumatique, un rappel peut déclencher une forte alerte corporelle. Le vitrier doit aussi examiner une vitre fendue. Le récit distingue la réponse à ce danger concret de l’alerte qui peut rester présente chez Selma après avoir changé de lieu."
+      "clinical_intro": "Un bruit sec fait sursauter Selma dans sa serre et lui donne envie de rentrer. Dans le trouble de stress post-traumatique, un rappel peut déclencher une forte alerte corporelle. Le vitrier doit aussi examiner une vitre fendue. Le récit distingue la réponse à ce danger concret de l’alerte qui peut rester présente chez Selma après avoir changé de lieu.",
+      "conclusion": "Selma peut garder le montant vert sur son dessin et laisser la mesure pour une autre fois. Le couvercle et la vitre demandent des réponses différentes. Son sursaut aide aussi à comprendre pourquoi elle veut quitter la serre avant de décider du reste."
     },
     {
       "number": 2,
@@ -69,18 +126,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un souvenir qui semble se produire de nouveau",
-          "text": "Une reviviscence donne à la personne l’impression qu’un événement traumatique se passe à nouveau dans le présent. Elle peut comporter des sensations, des images ou des sons. Cette impression peut occuper plus ou moins de place selon le moment. L’OMS distingue ce vécu du fait de penser à un événement passé en gardant son attention dans la situation présente. Le professionnel peut examiner avec la personne ce qu’elle a éprouvé et ce dont elle s’est rendu compte ensuite."
+          "heading": "Quand un élément du passé paraît revenir au présent",
+          "text": "Une reviviscence dans le TSPT peut donner le sentiment qu’un aspect du traumatisme se produit à nouveau. L’expérience peut surtout passer par une sensation ou une peur, sans image complète. Penser à un souvenir pénible est une autre expérience. À la quincaillerie, Selma n’entend pas seulement un son qui lui rappelle l’accident. Il lui semble de nouveau proche alors que la vendeuse lui tend une pièce."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le mot peut aider Selma à raconter pourquoi elle a perdu le fil au comptoir. Elle peut décrire l’impression que le son était revenu, le temps dont elle a eu besoin et la charnière dont elle n’arrivait plus à parler. Sa thérapeute pourra l’aider à mettre des mots sur ce moment en tenant compte des autres situations qu’elle connaît. Pour la vendeuse, il suffit de comprendre qu’une cliente a besoin d’interrompre son achat."
+          "heading": "Comment la reviviscence modifie-t-elle un échange au comptoir ?",
+          "points": [
+            {
+              "heading": "Le son d’aujourd’hui et celui de l’accident se confondent un moment",
+              "text": "Le sentiment de revivre peut se concentrer sur un détail sensoriel plutôt que sur une scène entière.",
+              "examples": [
+                "Les deux sons précèdent une annonce, puis celui que Selma associe à l’accident lui paraît à nouveau près d’elle.",
+                "Le magasin cesse pendant quelques secondes de retenir son attention alors qu’elle se tient toujours devant la caisse."
+              ]
+            },
+            {
+              "heading": "La tâche en cours devient difficile à comprendre",
+              "text": "Une personne peut voir ou entendre un élément du présent sans retrouver tout de suite le sens de la situation.",
+              "examples": [
+                "La vendeuse parle du diamètre d’une vis et Selma perd le début de l’annonce et la suite de l’échange.",
+                "Elle voit l’étiquette orange et ne sait plus pourquoi on la lui tend."
+              ]
+            },
+            {
+              "heading": "Le retour au présent peut prendre du temps",
+              "text": "Reprendre des repères et reprendre une tâche ne se font pas nécessairement au même moment.",
+              "examples": [
+                "Selma demande d’attendre et retrouve peu à peu le mot qu’elle cherchait.",
+                "Au café, elle attend d’avoir commandé et bu avant de comparer les dessins."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Laisser du temps et proposer une aide simple",
-          "text": "Quand une personne se sent dépassée, un interlocuteur peut parler de ce qui se passe autour d’elle avec des mots ordinaires. Il peut lui laisser un passage, demander si elle souhaite s’asseoir ou si elle veut joindre quelqu’un. Dans la scène, Selma peut dire qu’elle préfère sortir et demander qu’on mette la charnière de côté. L’accord tient au besoin qu’elle vient d’exprimer.\n\nDans un suivi spécialisé, des moyens pour faire face aux reviviscences peuvent se discuter avec la personne. Le NICE les situe dans la prise en charge. Selma pourra demander lesquels lui correspondent, en distinguant ses situations de vie et les lieux où elle doit pouvoir signaler rapidement une difficulté. Dehors, son choix peut se limiter à retrouver André ou à rentrer chez elle."
+          "heading": "3 techniques pour traverser un échange interrompu par une reviviscence",
+          "points": [
+            {
+              "heading": "Suspendre la décision en cours",
+              "objective": "Laisser la possibilité de revenir lorsque l’on pourra choisir.",
+              "exercise": [
+                "Utilisez une phrase courte comme « Un instant, s’il vous plaît. »",
+                "Demandez qu’on pose l’objet ou qu’on laisse la question pour plus tard.",
+                "Choisissez de rester, de vous asseoir ou de rejoindre un endroit sûr si vous le souhaitez."
+              ],
+              "benefit": "L’achat peut attendre pendant que la personne retrouve ses repères."
+            },
+            {
+              "heading": "Choisir un repère dans le lieu présent",
+              "objective": "Se donner une information simple sur la situation en cours si cela aide.",
+              "exercise": [
+                "Regardez un détail actuel que vous reconnaissez, comme la porte du magasin.",
+                "Si vous le souhaitez, demandez à quelqu’un de vous dire où vous êtes ou ce que vous faisiez.",
+                "Gardez le choix de reprendre ou de quitter l’échange."
+              ],
+              "benefit": "Un repère concret peut aider à retrouver le lieu sans obliger à décrire l’événement."
+            },
+            {
+              "heading": "Préparer une question pour le suivi",
+              "objective": "Discuter du sentiment de revivre et de son retentissement avec un professionnel formé.",
+              "exercise": [
+                "Notez ce qui a précédé la perte du fil si vous voulez y revenir.",
+                "Décrivez la différence entre le son actuel et ce qui vous a semblé revenir.",
+                "Demandez au professionnel comment parler de ces moments et quels appuis examiner avec lui."
+              ],
+              "benefit": "L’entretien permet de distinguer ces expériences et de chercher une réponse adaptée."
+            }
+          ]
         }
       ],
       "ending_title": "Une charnière réservée jusqu’à demain",
@@ -97,7 +210,8 @@
         "next": "En allant organiser la livraison des panneaux, elle remarque ce que lui coûte un détour devenu habituel."
       },
       "clinical_focus": "Reviviscence dans le présent",
-      "clinical_intro": "À la quincaillerie, une annonce s’impose à Selma et le comptoir cesse un instant de retenir son attention. Une reviviscence se reconnaît au sentiment que l’événement revient dans le présent, parfois surtout dans les sensations ou la peur. La scène montre ce que cette expérience du TSPT peut faire à un échange ordinaire et pourquoi Selma demande que l’achat attende."
+      "clinical_intro": "À la quincaillerie, une annonce s’impose à Selma et le comptoir cesse un instant de retenir son attention. Une reviviscence se reconnaît au sentiment que l’événement revient dans le présent, parfois surtout dans les sensations ou la peur. La scène montre ce que cette expérience du TSPT peut faire à un échange ordinaire et pourquoi Selma demande que l’achat attende.",
+      "conclusion": "Selma laisse la charnière au magasin et rejoint André quand elle le décide. La reviviscence a changé ce qu’elle pouvait comprendre au comptoir pendant quelques instants. Elle retrouve la question des vis au café, à un moment où elle peut choisir de la poser."
     },
     {
       "number": 3,
@@ -114,18 +228,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que l’évitement peut changer dans une journée",
-          "text": "Après un traumatisme, une personne peut chercher à éviter certains lieux, situations ou pensées qui lui rappellent l’événement. Les descriptions de la CIM-11 parlent d’évitement lorsque l’effort pour tenir ces rappels à distance prend une place importante dans le trouble. Au quotidien, cela peut changer un trajet, les personnes qu’on voit ou les endroits où l’on accepte de passer. Le choix d’un chemin a aussi des raisons ordinaires."
+          "heading": "Le détour peut devenir la seule option envisagée",
+          "text": "Dans le TSPT, éviter un lieu qui rappelle un traumatisme peut diminuer la crainte sur le moment. Si l’évitement devient systématique, il peut aussi prendre du temps et réduire les trajets ou les activités possibles. Selma préfère la route du canal au parvis de la gare. Lorsque le pont est fermé, elle repart presque aussitôt vers une autre passerelle. Le détour pèse alors sur le rendez-vous avec André."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selma aime longer le canal et doit composer avec une fermeture réelle.\n\nCe qui l’intéresse, c’est le moment où le détour est devenu la seule possibilité qu’elle envisage, même quand il lui fait perdre une rencontre. Elle peut en parler à sa thérapeute en décrivant la distance, ce qui rend le parvis pénible et le temps qu’elle aimerait récupérer. Elle peut aussi expliquer ce qu’elle tient à garder dans le détour, comme la promenade à vélo les jours où elle a envie de la faire."
+          "heading": "Comment l’évitement des rappels finit-il par organiser les trajets ?",
+          "points": [
+            {
+              "heading": "Un trajet est préparé pour rester loin du rappel",
+              "text": "La décision peut être prise avant le départ, alors qu’un autre chemin serait plus court.",
+              "examples": [
+                "Selma trace une flèche vers le canal sur le plan qu’elle emporte.",
+                "Elle ne passe plus devant l’atelier par le parvis comme elle le faisait en revenant du travail."
+              ]
+            },
+            {
+              "heading": "Un imprévu réduit encore les choix",
+              "text": "Une alternative peut perdre son avantage sans que le trajet évité redevienne envisageable sur le moment.",
+              "examples": [
+                "Le pont est fermé et Selma cherche la passerelle en aval avant d’avoir fini de lire le panneau.",
+                "Pour rentrer, elle recalcule la durée du canal alors que le rendez-vous avec André devient difficile à tenir."
+              ]
+            },
+            {
+              "heading": "Le coût se voit dans les autres engagements",
+              "text": "Ce que l’évitement change peut apparaître dans une activité ou une rencontre qui doit attendre.",
+              "examples": [
+                "André doit partir avant que Selma puisse essayer la caisse avec lui.",
+                "Selma lui demande de la laisser sous l’auvent et propose le lendemain matin."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Une demande pour le suivi et une autre pour le vitrier",
-          "text": "Le NICE situe le travail sur l’évitement dans des approches spécialisées, avec une professionnelle formée et un cadre adapté. Selma peut y dire quels déplacements comptent pour elle et ce qu’elle serait prête à discuter. Le passage sur le parvis ne devient pas une épreuve à organiser avec André. Pour aujourd’hui, il peut s’agir simplement de rentrer par un itinéraire accessible et de convenir d’une autre heure pour essayer la caisse.\n\nAu vitrier, la demande tient à la livraison. Selma peut lui montrer le plan de l’accès, vérifier où les panneaux seront déposés et demander de réunir les décisions restantes par téléphone. Elle garde le choix de se déplacer pour voir une couleur ou de confier le retrait d’un échantillon à quelqu’un."
+          "heading": "3 techniques pour examiner ce que coûte un détour",
+          "points": [
+            {
+              "heading": "Nommer le besoin réel du déplacement",
+              "objective": "Chercher ce que l’on souhaite obtenir sans s’imposer un itinéraire.",
+              "exercise": [
+                "Distinguez le renseignement à transmettre de ce que vous voulez voir sur place.",
+                "Vérifiez si une partie peut se faire à distance ou à une autre heure.",
+                "Choisissez le trajet qui vous convient aujourd’hui pour ce qui reste à faire."
+              ],
+              "benefit": "Le rendez-vous ou le projet peut avancer à partir de ce qui est possible dans l’immédiat."
+            },
+            {
+              "heading": "Rendre le retard gérable",
+              "objective": "Limiter les effets d’un détour sur la personne qui attend.",
+              "exercise": [
+                "Annoncez le retard quand vous pouvez vous arrêter pour le faire en sécurité.",
+                "Demandez si l’objet ou l’information peut être laissé à un endroit convenu.",
+                "Proposez un autre créneau sans supposer que l’autre peut vous attendre."
+              ],
+              "benefit": "Le rendez-vous peut être déplacé sans exiger que Selma change de route sous pression."
+            },
+            {
+              "heading": "Apporter le trajet au suivi",
+              "objective": "Parler de ce que l’évitement protège et de ce qu’il finit par coûter.",
+              "exercise": [
+                "Décrivez un lieu ou un trajet que vous contournez régulièrement.",
+                "Donnez un exemple de ce que vous avez dû déplacer ou abandonner à cause du détour.",
+                "Demandez à un professionnel formé au trauma comment examiner cette difficulté avec lui."
+              ],
+              "benefit": "L’échange peut ouvrir des possibilités sans organiser soi-même une confrontation au rappel."
+            }
+          ]
         }
       ],
       "ending_title": "La caisse attend sous l’auvent",
@@ -142,7 +312,8 @@
         "next": "Une fois la vitre abîmée retirée, elle distingue la sécurité de la serre et le besoin de continuer à écouter chaque bruit."
       },
       "clinical_focus": "Évitement des rappels traumatiques",
-      "clinical_intro": "Selma contourne la gare pour éviter les rappels de l’accident. Dans le TSPT, cet évitement peut répondre à une peur immédiate tout en prenant peu à peu du temps et de la liberté dans les déplacements. Même quand le pont du canal est fermé, Selma cherche un autre passage. Elle trouve la caisse qu’André lui a laissée après avoir manqué le rendez-vous."
+      "clinical_intro": "Selma contourne la gare pour éviter les rappels de l’accident. Dans le TSPT, cet évitement peut répondre à une peur immédiate tout en prenant peu à peu du temps et de la liberté dans les déplacements. Même quand le pont du canal est fermé, Selma cherche un autre passage. Elle trouve la caisse qu’André lui a laissée après avoir manqué le rendez-vous.",
+      "conclusion": "Selma rapporte l’échantillon et remet l’essai de la caisse au lendemain. Elle garde le canal pour cette fois et choisit de parler du détour en séance. Le pont fermé lui a montré combien ce choix pesait désormais sur des rendez-vous qui comptent."
     },
     {
       "number": 4,
@@ -159,18 +330,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand l’attention reste tournée vers une menace",
-          "text": "L’hypervigilance peut se manifester par une attention soutenue à ce qui pourrait signaler un danger. Dans le trouble de stress post-traumatique, ce sentiment d’alerte peut rester marqué alors même que la personne a vérifié les éléments disponibles dans la situation. Il peut lui coûter du temps ou lui rendre difficile de suivre une conversation. Une personne peut par ailleurs devoir vérifier un risque concret. La protection de l’espace où le vitrier travaille garde son importance."
+          "heading": "Quand l’attention cherche encore un signe de danger",
+          "text": "L’hypervigilance dans le TSPT peut maintenir l’attention tournée vers une menace possible même quand les renseignements disponibles indiquent que le danger immédiat a été traité. Selma a vérifié avec André la limite d’accès donnée par le vitrier. Quand le plastique claque chez un voisin, elle attend le son suivant et perd la question sur les radis. Cette veille continue lui coûte de l’attention et retarde un accord qu’elle veut prendre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selma a deux renseignements différents à considérer. Elle connaît les limites indiquées par le vitrier. Elle remarque aussi que son attention retourne aux bruits quand André lui parle. Elle peut apporter cette différence à sa thérapeute. L’une des questions à examiner concerne les situations où l’alerte prend plus de place qu’elle ne le souhaiterait."
+          "heading": "Comment l’hypervigilance prend-elle de la place après une vérification ?",
+          "points": [
+            {
+              "heading": "L’écoute continue après avoir identifié le bruit",
+              "text": "Un premier renseignement peut expliquer ce que l’on a entendu sans faire cesser immédiatement l’alerte.",
+              "examples": [
+                "Selma reconnaît le plastique du voisin quand André le nomme.",
+                "Sous l’auvent, elle cherche encore un son qui lui permettrait de tourner le dos au jardin."
+              ]
+            },
+            {
+              "heading": "La conversation se retrouve au second plan",
+              "text": "Surveiller ce qui pourrait arriver laisse moins de disponibilité pour suivre quelqu’un.",
+              "examples": [
+                "Selma s’interrompt au claquement de la feuille.",
+                "Elle manque la question d’André sur la hauteur des radis en attendant la rafale suivante."
+              ]
+            },
+            {
+              "heading": "Une décision préparée reste en suspens",
+              "text": "La recherche d’une certitude peut compliquer un geste ordinaire même quand les conditions ont été précisées.",
+              "examples": [
+                "Le double attend dans l’enveloppe depuis trois jours et Selma revient chaque fois à un nouveau détail.",
+                "André a vu l’allée autorisée par le vitrier. Selma hésite encore avant de lui donner la clé."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un accord qui dit ce que chacun prend en charge",
-          "text": "L’accès à la serre peut faire l’objet d’un accord qui tient en quelques phrases. Selma peut indiquer à André le trajet prévu avec le vitrier, l’heure qui leur convient et la tâche qu’il prend. Si un problème matériel apparaît, ils s’adressent à la personne compétente. André peut donner un renseignement sur ce qu’il a lui-même entendu. Il garde la liberté de rentrer ou d’aller chercher son pain quand il le souhaite.\n\nSi Selma trouve difficile de cesser de guetter le bruit après leur échange, elle peut choisir de terminer sa journée ailleurs et revoir cette situation au suivi. La possibilité de garder la serre ouverte à un voisin repose sur un accord pratique qu’elle pourra ajuster avec lui."
+          "heading": "3 techniques pour s’appuyer sur une vérification sans prolonger la veille",
+          "points": [
+            {
+              "heading": "Délimiter ce que le professionnel a vérifié",
+              "objective": "Garder une règle concrète pour la sécurité matérielle.",
+              "exercise": [
+                "Demandez au professionnel où l’accès est possible pendant les travaux.",
+                "Montrez ce repère à la personne avec qui vous partagez le lieu.",
+                "Renvoyez au professionnel les questions de réparation qui restent ouvertes."
+              ],
+              "benefit": "Le danger réel garde une réponse précise et le voisin n’a pas à réexaminer la vitre."
+            },
+            {
+              "heading": "Reprendre la dernière question",
+              "objective": "Rendre une place à la conversation quand un bruit a pris l’attention.",
+              "exercise": [
+                "Dites que vous avez manqué la fin ou le début de la phrase.",
+                "Demandez à l’autre de reprendre la question qui compte maintenant.",
+                "Choisissez un seul point pratique à régler avant de vous séparer."
+              ],
+              "benefit": "L’échange peut reprendre même si l’alerte n’est pas entièrement retombée."
+            },
+            {
+              "heading": "Noter ce qui reste difficile après la vérification",
+              "objective": "Décrire l’hypervigilance à partir de ce qu’elle interrompt.",
+              "exercise": [
+                "Repérez une situation où l’origine d’un bruit était connue mais où vous êtes resté en alerte.",
+                "Notez ce que cette écoute vous a fait manquer ou reporter.",
+                "Apportez cet exemple au professionnel qui vous accompagne."
+              ],
+              "benefit": "Le suivi peut examiner le coût de l’alerte au-delà du premier sursaut."
+            }
+          ]
         }
       ],
       "ending_title": "L’enveloppe au prénom d’André",
@@ -187,7 +414,8 @@
         "next": "Des nuits difficiles l’amènent à parler de la fatigue qu’elle ressent jusque dans ses activités du matin."
       },
       "clinical_focus": "Hypervigilance après un trauma",
-      "clinical_intro": "André identifie le claquement du plastique chez un voisin. Selma l’a entendu elle aussi, et une partie de son attention reste tournée vers le bruit suivant. Dans le TSPT, l’hypervigilance peut continuer à mobiliser la personne après une vérification raisonnable. L’effort se voit ici quand une question d’André lui échappe alors qu’elle aimerait continuer la conversation."
+      "clinical_intro": "André identifie le claquement du plastique chez un voisin. Selma l’a entendu elle aussi, et une partie de son attention reste tournée vers le bruit suivant. Dans le TSPT, l’hypervigilance peut continuer à mobiliser la personne après une vérification raisonnable. L’effort se voit ici quand une question d’André lui échappe alors qu’elle aimerait continuer la conversation.",
+      "conclusion": "Selma confie le double avec l’horaire et la limite qu’ils ont vus ensemble. Le plastique claque encore quand ils arrivent au coin de la rue. Le geste ne demande pas que l’alerte ait disparu pour que l’accord sur l’arrosage puisse tenir."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qui arrive la nuit et ce qui reste le matin",
-          "text": "Les cauchemars peuvent faire partie des manifestations du trouble de stress post-traumatique. Ils peuvent faire revenir certains aspects du traumatisme ou des émotions qui lui sont associées. Le sommeil peut aussi être interrompu pour des raisons diverses. Pour comprendre ce qui se passe, un professionnel peut demander ce que la personne remarque au réveil, à quelle fréquence cela arrive et comment elle se sent le jour. L’effet sur les activités compte autant dans la discussion que le souvenir du rêve."
+          "heading": "Des nuits marquées par le trauma qui pèsent le matin",
+          "text": "Les cauchemars dans le TSPT peuvent reprendre des aspects ou des émotions du traumatisme sans en restituer toute la scène. Les réveils répétés peuvent avoir des effets le lendemain. Selma garde une impression de danger et deux sons du rêve. Ce qu’elle souhaite surtout dire en séance, c’est que le sommeil se coupe depuis plusieurs jours et qu’elle ne retient plus une consigne simple le matin."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selma n’a pas retenu tous les détails. Elle peut parler du moment où elle se réveille, de la difficulté à retrouver le sommeil et de sa fatigue au petit déjeuner. Elle peut indiquer si elle est moins attentive le matin ou si une tâche prend plus de temps. Sa thérapeute pourra examiner avec elle ce qui appartient au suivi du traumatisme et ce qui pourrait justifier un autre avis."
+          "heading": "Comment un cauchemar et les réveils qui suivent se répercutent-ils dans la journée ?",
+          "points": [
+            {
+              "heading": "Le réveil laisse des fragments",
+              "text": "L’impression de danger ou une sensation peuvent rester vives, même lorsque le récit du rêve est incomplet.",
+              "examples": [
+                "Selma prend un instant le bord du rideau pour celui d’une vitre.",
+                "Elle se rappelle deux sons et une impression de danger quand elle reconnaît le bruit du radiateur."
+              ]
+            },
+            {
+              "heading": "La fatigue atteint des gestes ordinaires",
+              "text": "Après plusieurs nuits hachées, l’attention ou la mémoire immédiate peuvent devenir moins disponibles.",
+              "examples": [
+                "Selma lit la longueur sur la boîte sans retenir le chiffre.",
+                "Elle croit entendre le téléphone quand le grille-pain saute et retrouve l’écran éteint."
+              ]
+            },
+            {
+              "heading": "La journée doit parfois être réorganisée",
+              "text": "Le retentissement du sommeil compte aussi pour les tâches qui exigent de la vigilance.",
+              "examples": [
+                "Selma reporte le montage de l’étagère avant d’avoir commencé l’assemblage.",
+                "Pour une personne chargée de conduire un train, une fatigue qui remet en cause l’aptitude exige un signalement immédiat selon la procédure du métier."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préserver le rendez-vous et déplacer une tâche",
-          "text": "Le NICE reconnaît que les troubles du sommeil peuvent demander une attention dans la prise en charge du stress post-traumatique. Selma peut apporter la question au rendez-vous qu’elle a déjà pris, avec le niveau de détail qu’elle choisit. Les décisions qui touchent à son métier, en particulier à des fonctions de sécurité, demandent de passer par les interlocuteurs compétents. Elle peut leur décrire le retentissement de la fatigue pour discuter d’un aménagement. Si un conducteur estime que son état compromet son aptitude à conduire, le signalement à son entreprise ou au gestionnaire concerné est immédiat. Cette démarche de sécurité est distincte de ce que Selma choisit de raconter de son cauchemar.\n\nLe montage de l’étagère relève d’un autre accord. André peut arroser comme prévu, et les deux voisins peuvent décider ensemble de reprendre les vis un autre jour. Ce report libère la matinée pour ce dont Selma a besoin avant de partir."
+          "heading": "3 techniques pour faire connaître l’effet des nuits hachées",
+          "points": [
+            {
+              "heading": "Décrire le réveil sans reconstruire le rêve",
+              "objective": "Apporter au suivi ce que l’on a retenu et ce qui pose problème.",
+              "exercise": [
+                "Notez depuis quand les réveils se répètent.",
+                "Choisissez ce que vous voulez dire de la sensation au réveil.",
+                "Ajoutez un exemple de fatigue ou de perte d’attention dans la journée pour en parler au professionnel."
+              ],
+              "benefit": "Le suivi peut tenir compte du sommeil et de son retentissement sans exiger le récit du cauchemar."
+            },
+            {
+              "heading": "Reporter une tâche qui demande de l’attention",
+              "objective": "Préserver une décision sûre lorsque la fatigue se fait sentir.",
+              "exercise": [
+                "Repérez la tâche qui devient difficile à suivre.",
+                "Dites à l’autre ce que vous remettez et ce qui peut rester prévu.",
+                "Choisissez un moment pour en reparler sans promettre de reprendre aujourd’hui."
+              ],
+              "benefit": "Le projet de l’étagère reste possible sans commencer un montage quand on peine à lire les consignes."
+            },
+            {
+              "heading": "Utiliser le relais de sécurité si l’aptitude est en cause",
+              "objective": "Faire traiter un risque professionnel sans attendre le prochain rendez-vous de soins.",
+              "exercise": [
+                "Si vous estimez que votre santé remet en cause votre aptitude à conduire un train, signalez-le immédiatement à l’entreprise ferroviaire ou au gestionnaire concerné.",
+                "Suivez la procédure du métier et les consignes de l’interlocuteur habilité.",
+                "Parlez séparément avec vos soignants de ce que vous souhaitez travailler sur le sommeil."
+              ],
+              "benefit": "Le signalement traite le risque de conduite. La discussion du cauchemar conserve son cadre de soins."
+            }
+          ]
         }
       ],
       "ending_title": "Le mug devant la fenêtre",
@@ -233,7 +517,8 @@
         "next": "Elle demande à la thérapeute comment elles pourront parler de ses réactions en choisissant ensemble le rythme."
       },
       "clinical_focus": "Cauchemars liés au trauma",
-      "clinical_intro": "Un cauchemar réveille Selma et le lendemain elle relit la boîte de vis sans retenir le chiffre. Des rêves qui reprennent des aspects ou des émotions du trauma peuvent faire partie du TSPT. Au rendez-vous, décrire les réveils et la fatigue aide aussi à comprendre pourquoi des tâches familières demandent davantage d’effort."
+      "clinical_intro": "Un cauchemar réveille Selma et le lendemain elle relit la boîte de vis sans retenir le chiffre. Des rêves qui reprennent des aspects ou des émotions du trauma peuvent faire partie du TSPT. Au rendez-vous, décrire les réveils et la fatigue aide aussi à comprendre pourquoi des tâches familières demandent davantage d’effort.",
+      "conclusion": "Selma apporte deux faits à sa thérapeute et laisse les vis à André. Elle peut expliquer comment les réveils lui coûtent le matin sans restituer le rêve. La fatigue et le récit du trauma ont chacun leur place dans les échanges qu’elle choisit."
     },
     {
       "number": 6,
@@ -250,18 +535,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’apporte un cadre de soins spécialisé",
-          "text": "Les soins du trouble de stress post-traumatique peuvent comprendre des psychothérapies qui portent sur les effets du traumatisme. Le NICE décrit notamment des thérapies cognitives et comportementales centrées sur le traumatisme et l’EMDR, une approche de travail sur les souvenirs traumatiques. Les indications et le choix se discutent avec des professionnels formés selon la situation, les besoins et les préférences de la personne. Une séance peut aussi servir à comprendre les réactions, à parler de la sécurité et à trouver des appuis pour les moments difficiles."
+          "heading": "Les effets du trauma donnent un point de départ au soin",
+          "text": "Les soins centrés sur le traumatisme se discutent avec des professionnels formés, en tenant compte des besoins et des préférences de la personne. On peut commencer à parler d’un effet actuel, comme les moments où un bruit coupe la conversation. Selma part de la charnière et veut comprendre la suite du travail. Elle demande aussi comment signaler qu’elle a besoin d’une pause pendant la séance."
         },
         {
           "role": "manifestations",
-          "heading": "Des nuits coupées et un achat interrompu",
-          "text": "Les notes que Selma a apportées concernent les nuits interrompues et la fatigue qu’elle retrouve le matin. Au magasin, le bruit l’a ramenée à l’accident et elle a perdu le fil de l’échange au comptoir. Elle est sortie en laissant la charnière qu’elle était venue acheter. En séance, elle arrive à parler de la charnière et de ce qu’elle entendait, puis hésite quand le mot accident lui vient."
+          "heading": "Comment Selma prend-elle part aux choix en séance ?",
+          "points": [
+            {
+              "heading": "Un objet aide à situer ce qui s’est passé",
+              "text": "Parler d’un effet dans le présent peut rendre une difficulté précise abordable avant un récit plus large.",
+              "examples": [
+                "Selma commence par la charnière laissée au comptoir.",
+                "Elle raconte le bruit et l’endroit qu’elle a regardé en sortant du magasin."
+              ]
+            },
+            {
+              "heading": "Une hésitation devient une question de travail",
+              "text": "Quand la personne craint de perdre le fil ou de se sentir débordée, elle peut en parler avec le professionnel.",
+              "examples": [
+                "Selma hésite au mot « accident » et sa thérapeute attend.",
+                "Elle demande si elles pourront travailler les moments où le bruit lui fait perdre le fil et s’arrêter au besoin."
+              ]
+            },
+            {
+              "heading": "La méthode peut être expliquée et discutée",
+              "text": "Un cadre de soin permet de poser des questions sur la façon d’avancer et de dire ce qui ne convient pas.",
+              "examples": [
+                "Selma demande comment la thérapeute lui expliquera les prochaines étapes.",
+                "Elle écrit qu’elles reprendront les bruits et qu’elle pourra demander une pause."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Des mots qu’elle peut choisir pour cette séance",
-          "text": "Selma peut demander de partir du retentissement des nuits interrompues et de l’achat au magasin. Elle peut poser des questions sur la méthode proposée, la place des souvenirs et les objectifs de ce travail. Elle peut dire ce qui lui paraît possible aujourd’hui et convenir d’un signal si elle souhaite faire une pause. Si elle souhaite parler de l’accident dans le cadre des soins, elle peut revenir sur cette question avec sa thérapeute. Le NICE recommande de s’abstenir de proposer un débriefing psychologique visant à prévenir ou traiter le trouble. Une conversation ordinaire avec un proche peut rester une écoute ou une aide concrète, selon ce que Selma demande.\n\nEn sortant, elle peut garder pour elle les sujets abordés et partager seulement un besoin pratique. La prochaine discussion, avec le médecin du travail, aura un autre objet. Elle portera sur ce qui l’aide ou la gêne dans le cadre professionnel."
+          "heading": "3 techniques pour préparer un échange sur des soins centrés sur le trauma",
+          "points": [
+            {
+              "heading": "Choisir une difficulté actuelle à aborder",
+              "objective": "Définir un objectif à partir du vécu plutôt que préparer tout le récit.",
+              "exercise": [
+                "Choisissez une situation récente que vous souhaitez reprendre.",
+                "Décrivez ce qu’elle vous a empêché de faire sur le moment.",
+                "Demandez au professionnel quelles approches permettent de travailler cette difficulté."
+              ],
+              "benefit": "L’entretien peut partir d’un objectif que vous comprenez et que vous souhaitez examiner."
+            },
+            {
+              "heading": "Mettre des mots sur le besoin d’une pause",
+              "objective": "Pouvoir signaler ce que la séance demande pendant qu’elle a lieu.",
+              "exercise": [
+                "Dites ce que vous craignez de ne plus pouvoir exprimer au cours de l’échange.",
+                "Convenez avec le professionnel d’une phrase ou d’un signal pour demander une pause.",
+                "Demandez comment vous déciderez ensemble de reprendre ou de revenir plus tard au sujet."
+              ],
+              "benefit": "Le professionnel dispose d’un repère choisi avec vous pour ajuster le travail."
+            },
+            {
+              "heading": "Demander le déroulé de la prochaine étape",
+              "objective": "Comprendre la méthode proposée avant de commencer.",
+              "exercise": [
+                "Demandez ce qui est prévu et quel en est le but.",
+                "Indiquez ce que vous aimeriez éclaircir ou modifier.",
+                "Notez la question que vous voulez reprendre au prochain rendez-vous."
+              ],
+              "benefit": "Les choix de soin restent discutables et les démarches de travail peuvent suivre un autre échange."
+            }
+          ]
         }
       ],
       "ending_title": "Le plan de la serre et deux lignes au dos",
@@ -278,7 +619,8 @@
         "next": "Elle prépare une demande d’adaptation en distinguant ses observations de toute décision de sécurité."
       },
       "clinical_focus": "Soins centrés sur le traumatisme",
-      "clinical_intro": "En séance, Selma peut parler de la charnière restée au comptoir avant de pouvoir dire le mot accident. Le TSPT se travaille dans un cadre spécialisé où les objectifs, les méthodes et les moyens de signaler une pause peuvent être discutés. Ce rendez-vous lui permet de partir de l’effet que les bruits ont sur sa vie."
+      "clinical_intro": "En séance, Selma peut parler de la charnière restée au comptoir avant de pouvoir dire le mot accident. Le TSPT se travaille dans un cadre spécialisé où les objectifs, les méthodes et les moyens de signaler une pause peuvent être discutés. Ce rendez-vous lui permet de partir de l’effet que les bruits ont sur sa vie.",
+      "conclusion": "Selma quitte la séance avec deux lignes sur les bruits et la possibilité d’une pause. Elle décide ensuite d’appeler la santé au travail. La thérapeute et le médecin du travail répondent à des questions distinctes qui partent toutes deux de ce que Selma vit."
     },
     {
       "number": 7,
@@ -295,18 +637,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Décrire un effet concret au travail",
-          "text": "Le stress post-traumatique peut retentir sur le travail, notamment quand des rappels imprévus prennent l’attention ou que le sommeil est difficile. La nature du poste et de ses responsabilités compte pour comprendre ce retentissement. Une information précise est souvent plus utile dans un échange sur les conditions de travail qu’une description générale de la journée."
+          "heading": "Le retentissement professionnel se décrit par les tâches",
+          "text": "Dans le TSPT, les rappels inattendus et un sommeil perturbé peuvent peser sur l’attention au travail. Leur effet dépend du poste, des conditions et des responsabilités. Selma veut retrouver des collègues et un travail de documentation. Elle parle à son médecin du travail de ce qui l’aide à suivre une consigne et de ce qui pose question pour ses fonctions de conduite. Une mission hors conduite ne vaut pas autorisation à reprendre des fonctions de sécurité."
         },
         {
           "role": "manifestations",
-          "heading": "Des annonces qui interrompent le fil des échanges",
-          "text": "Selma a noté trois difficultés à apporter au rendez-vous. Elle perd parfois le fil après une annonce imprévue. Ses nuits se coupent et il arrive qu’elle ait besoin de se faire répéter le début d’une phrase. Elle voudrait retrouver des tâches et des collègues qu’elle connaît. Ce qu’elle rapporte permet de comprendre l’effort demandé par certaines conditions, même quand le travail lui-même l’intéresse."
+          "heading": "Comment le TSPT peut-il peser sur une reprise professionnelle ?",
+          "points": [
+            {
+              "heading": "Le lieu modifie l’effort nécessaire",
+              "text": "Le niveau de bruit et la prévisibilité des annonces peuvent changer la possibilité de suivre une tâche.",
+              "examples": [
+                "Selma dit qu’une annonce imprévue peut lui faire perdre le début d’une phrase.",
+                "Elle cherche une salle de documentation éloignée des espaces de circulation des trains."
+              ]
+            },
+            {
+              "heading": "Les responsabilités ne demandent pas le même niveau de vigilance",
+              "text": "Les effets de la fatigue ou d’un rappel doivent être appréciés en regard des exigences propres au poste.",
+              "examples": [
+                "Selma rapporte ses nuits entrecoupées et la nécessité de se faire parfois répéter une consigne.",
+                "Elle voudrait revoir l’équipe et prendre des dossiers sans être attendue en cabine."
+              ]
+            },
+            {
+              "heading": "La continuité de l’activité dépend aussi des consignes",
+              "text": "Un aménagement gagne à indiquer quoi faire si l’organisation change après l’arrivée.",
+              "examples": [
+                "Selma demande à connaître la salle et l’horaire avant de se déplacer.",
+                "Elle veut savoir à quelle personne s’adresser si ces conditions ne peuvent pas être maintenues."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Séparer ce qu’elle dit en consultation de ce qui organise la mission",
-          "text": "Les informations de santé confiées au médecin du travail relèvent du secret médical. Dans le cadre de la mission envisagée, les autres interlocuteurs ont surtout besoin de connaître le périmètre de l’activité, les conditions convenues et la personne à joindre si elles changent. Selma peut demander au médecin ce qu’il compte communiquer, à qui et pour quel besoin. Elle peut ensuite choisir ce qu’elle veut dire à ses collègues en son nom.\n\nUne activité hors conduite peut être une possibilité à discuter. Selma peut préciser ce qui l’intéresse, demander un point de revue et décider si elle souhaite poursuivre cette piste. Les conditions de sécurité et les démarches restent à examiner avec les interlocuteurs concernés.\n\nLe médecin du travail examine avec elle les conditions d’activité et les adaptations à discuter. Les décisions concernant l’exercice de fonctions de sécurité suivent les procédures prévues et relèvent des personnes habilitées. En cas de doute de Selma sur son aptitude à conduire, elle avertit immédiatement l’entreprise selon la procédure du métier. Selma peut demander à comprendre chaque étape et ce qui est envisageable maintenant. Sa thérapeute garde son propre rôle dans les soins."
+          "heading": "3 techniques pour préparer une reprise dans un métier de sécurité",
+          "points": [
+            {
+              "heading": "Décrire les effets sur une tâche précise",
+              "objective": "Donner au médecin du travail des éléments liés aux conditions réelles.",
+              "exercise": [
+                "Choisissez une situation qui vous a fait perdre une information ou demander une répétition.",
+                "Expliquez quelle tâche était en cours et ce qui rendait la gêne importante.",
+                "Demandez quelles conditions ou quelles activités peuvent être examinées à partir de ces faits."
+              ],
+              "benefit": "La discussion peut préciser un aménagement compatible avec les exigences du poste."
+            },
+            {
+              "heading": "Définir le cadre avant d’accepter une mission",
+              "objective": "Connaître les limites et les interlocuteurs de l’activité envisagée.",
+              "exercise": [
+                "Vérifiez avec les personnes compétentes le périmètre de la mission, les horaires et le lieu.",
+                "Demandez quelle information sera transmise pour organiser la mission et qui la recevra.",
+                "Convenez d’un contact et d’un point de revue si l’organisation change."
+              ],
+              "benefit": "Les collègues disposent de consignes utiles sans avoir besoin du récit du traumatisme."
+            },
+            {
+              "heading": "Préserver la procédure d’aptitude",
+              "objective": "S’assurer qu’un risque pour la conduite passe par le circuit prévu.",
+              "exercise": [
+                "Si vous estimez que votre santé remet en cause votre aptitude à conduire, informez immédiatement l’entreprise ferroviaire ou le gestionnaire concerné.",
+                "Respectez les consignes de sécurité et faites examiner l’aptitude par les personnes habilitées.",
+                "Gardez la discussion sur les soins et les options de reprise avec les professionnels concernés."
+              ],
+              "benefit": "La possibilité d’une mission hors conduite et l’aptitude aux fonctions de sécurité sont examinées séparément."
+            }
+          ]
         }
       ],
       "ending_title": "La feuille repart dans la poche",
@@ -324,7 +722,8 @@
         "next": "Après les démarches nécessaires, elle découvre un espace de travail autorisé et choisit comment répondre à une collègue."
       },
       "clinical_focus": "Retentissement professionnel du TSPT",
-      "clinical_intro": "Selma tient à son métier de conductrice et décrit à son médecin du travail ce que le bruit, les annonces et la fatigue changent dans sa capacité à suivre. Le retentissement d’un TSPT s’apprécie à partir des tâches et du cadre où elles se déroulent. Le rendez-vous distingue les besoins de santé, les obligations de sécurité et l’organisation d’une activité hors conduite."
+      "clinical_intro": "Selma tient à son métier de conductrice et décrit à son médecin du travail ce que le bruit, les annonces et la fatigue changent dans sa capacité à suivre. Le retentissement d’un TSPT s’apprécie à partir des tâches et du cadre où elles se déroulent. Le rendez-vous distingue les besoins de santé, les obligations de sécurité et l’organisation d’une activité hors conduite.",
+      "conclusion": "Selma repart avec une suite à examiner pour une activité de documentation. Elle garde ses notes personnelles et sait avec qui discuter des conditions. Retrouver une tâche qu’elle aime peut être un objectif à part entière pendant que les démarches de sécurité suivent leur cours."
     },
     {
       "number": 8,
@@ -341,18 +740,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Plusieurs façons de parler après un traumatisme",
-          "text": "Une personne qui vit avec un trouble de stress post-traumatique peut choisir des interlocuteurs et des moments différents selon ce qu’elle souhaite partager. Parler d’une réaction, dire ce qui aide et raconter l’événement sont des démarches distinctes. Dans un suivi spécialisé, le cadre et l’objectif de la discussion peuvent être expliqués. Au travail, une conversation avec une collègue peut simplement porter sur les besoins de la journée et les relations dans l’équipe."
+          "heading": "L’aménagement n’exige pas de raconter l’accident à ses collègues",
+          "text": "Après un traumatisme, une personne peut décrire les conditions qui facilitent son travail sans choisir de raconter l’événement à ses collègues. Dans le TSPT, des changements imprévus ou une question personnelle peuvent coûter de l’attention au moment d’une tâche. Selma veut recevoir le lieu par écrit. La curiosité de Livia et l’organisation de la mission appellent deux réponses qu’elle peut donner séparément."
         },
         {
           "role": "manifestations",
-          "heading": "Le fil du travail se perd après la question sur l’accident",
-          "text": "Selma tenait une fiche et voulait parler du prochain changement de bureau. Quand Livia lui demande si elle souhaite raconter l’accident, elle ne sait plus si le renseignement sur la salle lui a déjà été donné. La question arrive alors qu’elles sont seules, mais Selma ne souhaite toujours pas revenir sur l’événement. Elle retrouve une demande qui lui importe pour la mission et demande combien de temps la salle est réservée."
+          "heading": "Comment la confidentialité se joue-t-elle pendant la première matinée ?",
+          "points": [
+            {
+              "heading": "Une question intime change le cours de la tâche",
+              "text": "Même posée en privé, une question sur l’accident peut détourner l’attention d’un renseignement que la personne voulait demander.",
+              "examples": [
+                "Livia lui demande si elle veut raconter ce qui s’est passé alors qu’elles classent les fiches.",
+                "Selma ne sait plus si la date du changement de bureau lui a déjà été donnée."
+              ]
+            },
+            {
+              "heading": "Un besoin peut être nommé sans exposer son origine",
+              "text": "Un aménagement peut se décrire par l’information attendue et le moment où elle est utile.",
+              "examples": [
+                "Selma demande si la salle est réservée pour la semaine.",
+                "Elle dit qu’elle veut recevoir par écrit le lieu de la prochaine séance."
+              ]
+            },
+            {
+              "heading": "Le lien de travail continue après une limite",
+              "text": "La personne peut refuser le récit et garder la possibilité d’autres échanges avec sa collègue.",
+              "examples": [
+                "Livia lui transfère la réservation et elles reprennent le tri des fiches.",
+                "Quand Livia l’invite à déjeuner, Selma répond qu’elle doit vérifier l’heure de livraison des panneaux."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire passer une information utile",
-          "text": "Selma a reçu le cadre de sa mission. Si Livia connaît un changement, elle peut lui indiquer ce qui est confirmé et lui dire à qui poser les questions restantes. Elle peut garder pour elle la réponse personnelle de Selma. L’organisation du travail se discute avec les personnes chargées de la mission, qui peuvent vérifier les conditions nécessaires. Les échanges informels entre collègues gardent leur place pour déjeuner ensemble ou retrouver l’histoire d’un tiroir déplacé.\n\nSi une situation affecte la sécurité ou l’activité, Selma peut se tourner vers le contact désigné. Cette démarche a son propre cadre. Elle peut choisir en parallèle de reprendre un point personnel avec sa thérapeute.\n\nSelma peut demander à recevoir les changements de salle par écrit et préciser qu’elle garde le récit de l’accident pour elle. Livia peut accueillir sa réponse du jour. Selma pourra revenir sur ce choix si elle le souhaite."
+          "heading": "3 techniques pour demander un aménagement avec le niveau de détail choisi",
+          "points": [
+            {
+              "heading": "Préparer une phrase qui ferme une question personnelle",
+              "objective": "Dire où s’arrête ce que l’on veut partager.",
+              "exercise": [
+                "Choisissez une formule que vous pouvez dire, comme « Je préfère garder l’accident pour moi. »",
+                "Indiquez si vous souhaitez revenir à la tâche en cours.",
+                "Demandez un temps à part si vous voulez reparler d’un autre sujet ensuite."
+              ],
+              "benefit": "La limite peut être claire même si la personne qui pose la question voulait bien faire."
+            },
+            {
+              "heading": "Formuler la demande par son effet pratique",
+              "objective": "Donner à la collègue un renseignement qu’elle peut transmettre ou vérifier.",
+              "exercise": [
+                "Repérez l’information qui vous permettrait de préparer la prochaine séance.",
+                "Dites sous quelle forme et à quel moment vous voulez la recevoir.",
+                "Demandez qui peut vous prévenir si ce renseignement change."
+              ],
+              "benefit": "La demande donne une marche à suivre sans rendre le diagnostic public."
+            },
+            {
+              "heading": "Revenir à un échange de travail ordinaire",
+              "objective": "Retrouver un point commun après avoir posé la limite.",
+              "exercise": [
+                "Proposez de reprendre une fiche ou un dossier précis.",
+                "Répondez aux invitations qui vous intéressent quand vous avez les renseignements utiles.",
+                "Gardez pour les professionnels les questions de soin ou d’aptitude qui les concernent."
+              ],
+              "benefit": "La relation peut continuer autour de la tâche et des échanges que chacun accepte."
+            }
+          ]
         }
       ],
       "ending_title": "L’étiquette au fond du tiroir",
@@ -369,7 +824,8 @@
         "next": "Un changement de salle imprévu lui fait revoir les appuis convenus pour la mission."
       },
       "clinical_focus": "Confidentialité après un traumatisme",
-      "clinical_intro": "En mission hors conduite, la question de Livia sur l’accident fait hésiter Selma. L’aide qu’elle souhaite ce jour-là porte sur les lieux et les changements d’organisation. Avec un TSPT, parler de ce qui facilite une tâche peut être utile même lorsque la personne préfère garder l’événement pour un autre moment ou un autre interlocuteur."
+      "clinical_intro": "En mission hors conduite, la question de Livia sur l’accident fait hésiter Selma. L’aide qu’elle souhaite ce jour-là porte sur les lieux et les changements d’organisation. Avec un TSPT, parler de ce qui facilite une tâche peut être utile même lorsque la personne préfère garder l’événement pour un autre moment ou un autre interlocuteur.",
+      "conclusion": "Selma ne raconte pas l’accident et reçoit la réservation dont elle avait besoin. La discussion revient aux fiches et au stylo qu’elles retrouvent dans le tiroir. Sa limite protège une information personnelle tout en laissant la mission se poursuivre."
     },
     {
       "number": 9,
@@ -386,18 +842,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "L’alerte peut revenir dans un environnement qui change",
-          "text": "Le retentissement d’un stress post-traumatique peut varier selon les circonstances. Un cadre prévisible peut aider une personne à participer à une activité, et un changement de lieu ou d’interlocuteur peut lui demander plus d’effort. Le NICE inclut le retour à des activités de la vie quotidienne, notamment professionnelles et sociales, parmi les objectifs possibles d’une prise en charge spécialisée. Les effets de ces changements se discutent à partir de l’expérience de la personne."
+          "heading": "Un imprévu peut réactiver le sentiment de menace",
+          "text": "Dans le TSPT, une situation inattendue peut raviver l’impression d’un danger actuel, y compris après une reprise qui s’est bien passée. Il faut aussi comprendre l’imprévu réel et suivre les consignes qui s’appliquent. La salle de Selma est inaccessible et une porte se referme alors qu’on lui annonce une solution incertaine. Elle perd une partie de la phrase et utilise le contact prévu pour décider de la matinée."
         },
         {
           "role": "manifestations",
-          "heading": "Un bruit et une indication qu’elle n’entend qu’en partie",
-          "text": "Selma découvre à l’accueil que la salle a changé. Quand une porte se referme, elle perd une partie de la phrase qu’on lui adresse et ne retient que « on va voir ». Elle voudrait sortir de la file. La première matinée lui avait laissé le plaisir de reprendre les dossiers. Aujourd’hui, l’arrivée lui demande déjà assez d’effort pour qu’elle s’asseye avant de décider ce qu’elle pourra faire."
+          "heading": "Comment l’alerte revient-elle lors d’un changement de salle ?",
+          "points": [
+            {
+              "heading": "Un repère connu n’est plus disponible",
+              "text": "Perdre plusieurs informations à l’arrivée peut augmenter l’incertitude avant même le début d’une tâche.",
+              "examples": [
+                "Le badge n’est plus dans la coupelle bleue où Selma le trouve d’habitude.",
+                "Le message reçu la veille confirme une salle que l’intervention sur le bâtiment rend maintenant inaccessible."
+              ]
+            },
+            {
+              "heading": "Le bruit interrompt la recherche d’une solution",
+              "text": "Un rappel sonore peut prendre l’attention alors que la personne essaie de comprendre une consigne nouvelle.",
+              "examples": [
+                "Une porte se ferme pendant que la personne de l’accueil parle et Selma perd une partie de la suite.",
+                "Elle retient « on va voir » et souhaite quitter la file plutôt que d’attendre quelqu’un qu’elle ne connaît pas."
+              ]
+            },
+            {
+              "heading": "Le retour d’une difficulté coexiste avec ce qui a fonctionné",
+              "text": "Une adaptation utile une première fois peut être insuffisante si le lieu et les conditions changent.",
+              "examples": [
+                "Selma se rappelle le plaisir de retrouver les dossiers lors de la première matinée.",
+                "Devant la coupelle vide, elle choisit le siège prévu pour attendre et écrit à la responsable."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "S’appuyer sur le contact désigné",
-          "text": "À l’accueil, la responsable de la mission peut vérifier où le travail prévu est possible et si les conditions convenues peuvent être maintenues. Selma peut demander à reporter la matinée. Si la difficulté se répète ou si son état change, elle peut revoir les aménagements avec le médecin du travail et parler de ses réactions à sa thérapeute. Le périmètre de la mission et la sécurité se traitent avec les personnes chargées de ces décisions.\n\nPour Livia, un message suffit. Selma lui dit qu’elle a joint la responsable et qu’elle la préviendra de la suite du classement. Elle garde le choix de lui raconter un autre jour comment elle a vécu le changement.\n\nSelma peut signaler que le nom de la personne à joindre était disponible, mais que la nouvelle salle lui a été annoncée au dernier moment. Elle peut demander comment les prochains changements seront communiqués."
+          "heading": "3 techniques pour faire face à un imprévu qui ravive l’alerte",
+          "points": [
+            {
+              "heading": "Trouver la consigne qui s’applique maintenant",
+              "objective": "Distinguer ce qui est confirmé de ce qui reste incertain.",
+              "exercise": [
+                "Demandez quel passage est fermé et où vous pouvez attendre en sécurité.",
+                "Utilisez la personne de référence plutôt que plusieurs informations contradictoires.",
+                "Faites préciser si le nouveau lieu est réellement disponible avant de vous déplacer."
+              ],
+              "benefit": "Le problème d’organisation reçoit une réponse même si l’alerte continue à se faire sentir."
+            },
+            {
+              "heading": "Utiliser l’appui préparé à l’avance",
+              "objective": "Faire une demande courte quand suivre la conversation devient difficile.",
+              "exercise": [
+                "Rejoignez l’endroit d’attente convenu si vous le pouvez.",
+                "Indiquez par écrit où vous êtes et ce que vous n’avez pas compris.",
+                "Décidez avec la responsable de poursuivre ou de reporter selon les conditions."
+              ],
+              "benefit": "La personne conserve un moyen de participer à la décision même si la consigne orale s’est perdue."
+            },
+            {
+              "heading": "Revoir l’aménagement à partir de l’imprévu",
+              "objective": "Préciser ce dont vous avez besoin pour le prochain déplacement.",
+              "exercise": [
+                "Décrivez le moment où vous avez perdu le fil et ce qui a permis de reprendre contact.",
+                "Demandez un message de confirmation avant de revenir.",
+                "Si ces réactions continuent de peser sur la reprise, parlez-en aussi aux professionnels qui vous accompagnent."
+              ],
+              "benefit": "L’essai suivant tient compte de ce qui a manqué plutôt que du seul déroulé de la première matinée."
+            }
+          ]
         }
       ],
       "ending_title": "La coupelle reste vide",
@@ -414,7 +926,8 @@
         "next": "De retour à la serre restaurée, elle participe à une discussion de quartier sur les récoltes qu’elle veut partager."
       },
       "clinical_focus": "Réactivation du sentiment de menace",
-      "clinical_intro": "Selma apprend que la salle a changé. Une porte se referme, elle perd une partie de la phrase suivante et voudrait sortir de la file. Le TSPT peut rendre une reprise plus coûteuse selon les rappels et les conditions du jour. Le relais convenu lui permet de demander ce qui a changé et d’examiner ce qui l’aidera au prochain déplacement."
+      "clinical_intro": "Selma apprend que la salle a changé. Une porte se referme, elle perd une partie de la phrase suivante et voudrait sortir de la file. Le TSPT peut rendre une reprise plus coûteuse selon les rappels et les conditions du jour. Le relais convenu lui permet de demander ce qui a changé et d’examiner ce qui l’aidera au prochain déplacement.",
+      "conclusion": "La coupelle reste vide et Selma reporte le classement après avoir parlé à la responsable. Elle sait désormais quel message demander avant de revenir. Ce changement de plan n’efface pas le plaisir qu’elle a éprouvé en retrouvant les dossiers."
     },
     {
       "number": 10,
@@ -431,18 +944,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Faire place à une conversation quand l’alerte capte l’attention",
-          "text": "Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre."
+          "heading": "L’alerte peut peser au milieu d’un moment agréable",
+          "text": "Dans le TSPT, rester attentif à ce qui se passe autour de soi peut prendre de la place jusque dans une rencontre qui plaît. L’effet n’est pas toujours visible dans la façon de parler ou de rester à table. Selma veut discuter de ses salades et garde l’allée dans son champ de vision. Quand la discussion devient une proposition de visite, elle sent sa main se crisper et choisit de préciser ce qu’elle veut organiser."
         },
         {
           "role": "manifestations",
-          "heading": "L’attention partagée entre le repas et le portail",
-          "text": "Selma écoute ses voisins parler des limaces et réfléchit à la place qui manque à Maud. Depuis le bout de la table, elle garde aussi l’allée du portail en vue. Quand les regards se tournent vers elle, sa main se resserre sur le torchon. Elle se représente les passages à la serre dont l’heure resterait incertaine. Sa réaction se mêle à son envie réelle de partager les récoltes et de garder une partie du lieu privée."
+          "heading": "Comment l’alerte influe-t-elle sur un repas entre voisins ?",
+          "points": [
+            {
+              "heading": "Le choix d’une place a plusieurs raisons",
+              "text": "Une place peut servir au geste prévu et permettre de garder un repère utile.",
+              "examples": [
+                "Selma s’assoit au bout de la table pour ouvrir son torchon.",
+                "De là, elle garde aussi dans son champ de vision l’allée qui ramène au portail."
+              ]
+            },
+            {
+              "heading": "Une question imprévue prend toute la place",
+              "text": "Quand plusieurs personnes attendent une réponse, l’effort de rester dans l’échange peut monter vite.",
+              "examples": [
+                "Les voisins se tournent vers Selma quand André évoque le partage et elle serre le torchon.",
+                "La demande de passer dimanche lui fait imaginer des gens devant la serre sans horaire prévu."
+              ]
+            },
+            {
+              "heading": "Certains échanges reviennent dans un autre cadre",
+              "text": "Une idée qui se perd dans le groupe peut rester possible en marchant à deux ou à un autre moment.",
+              "examples": [
+                "Pendant le repas, Selma pense à la place qui manque à Maud et n’en parle pas.",
+                "En rentrant, elle lui décrit le carré de terre ensoleillé au pied du mur."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner à chacun une façon de participer",
-          "text": "Selma peut proposer que les récoltes soient déposées à une heure donnée près du portail. André peut dire s’il veut être présent et à quel moment il pourra repartir. Les voisins peuvent demander comment prévenir s’ils arrivent plus tard. Chacun dispose alors d’une proposition qu’il peut accepter ou ajuster.\n\nSi Selma préfère écouter une partie du repas, les autres peuvent continuer la discussion et lui laisser le temps de revenir à son idée. Elle garde la liberté de faire une autre proposition un autre jour. Si elle prend la parole aujourd’hui, le contenu de ce qu’elle dit peut recevoir la même attention que les autres idées de jardin.\n\nLe NICE inclut les relations et les activités quotidiennes dans ce que peut prendre en compte une prise en charge. Selma peut parler en consultation des moments qu’elle souhaite conserver et des obstacles qu’elle y retrouve."
+          "heading": "3 techniques pour garder une place choisie dans un échange de groupe",
+          "points": [
+            {
+              "heading": "Préparer un point d’entrée",
+              "objective": "Choisir comment prendre part à une rencontre qui compte.",
+              "exercise": [
+                "Repérez la place où vous souhaitez vous asseoir.",
+                "Apportez, si cela vous aide, un objet ou une idée pour commencer la conversation.",
+                "Convenez d’un moyen de reprendre à deux ce que vous n’aurez pas dit à table."
+              ],
+              "benefit": "La rencontre peut garder plusieurs formes de participation."
+            },
+            {
+              "heading": "Prendre le temps de préciser l’offre",
+              "objective": "Répondre à une demande sans accepter par défaut ce qu’elle implique.",
+              "exercise": [
+                "Dites que vous souhaitez d’abord fixer l’heure ou le lieu.",
+                "Proposez une forme précise, comme le partage au portail.",
+                "Demandez qui peut prendre une tâche et pendant combien de temps."
+              ],
+              "benefit": "Le groupe sait ce qui est possible et la personne garde la décision sur son espace."
+            },
+            {
+              "heading": "Reprendre la conversation qui vous intéressait",
+              "objective": "Retrouver un échange que l’alerte ou le groupe a relégué au second plan.",
+              "exercise": [
+                "Repérez l’idée que vous vouliez partager.",
+                "Proposez d’en parler en chemin ou à un autre moment.",
+                "Si cette attention divisée revient souvent, décrivez au suivi ce qu’elle vous empêche de faire."
+              ],
+              "benefit": "Un lien peut reprendre dans un cadre plus favorable et le retentissement reste dicible en consultation."
+            }
+          ]
         }
       ],
       "ending_title": "Dimanche près du portail",
@@ -459,7 +1028,8 @@
         "next": "Au moment de partager les récoltes, quelqu’un souhaite entrer dans la serre et Selma reprend leur accord."
       },
       "clinical_focus": "Retentissement social du TSPT",
-      "clinical_intro": "Au repas des voisins, Selma suit la conversation tout en gardant le portail dans son champ de vision. Quand les regards se tournent vers elle, sa main se crispe sur le torchon. Cette attention divisée montre comment l’alerte qui accompagne son TSPT peut peser sur un moment agréable. Elle retrouve une marge de choix en proposant l’heure et le lieu du partage."
+      "clinical_intro": "Au repas des voisins, Selma suit la conversation tout en gardant le portail dans son champ de vision. Quand les regards se tournent vers elle, sa main se crispe sur le torchon. Cette attention divisée montre comment l’alerte qui accompagne son TSPT peut peser sur un moment agréable. Elle retrouve une marge de choix en proposant l’heure et le lieu du partage.",
+      "conclusion": "Selma propose un lieu et une heure plutôt que d’ouvrir la serre aux visites. Elle retrouve ensuite l’occasion de parler à Maud du coin ensoleillé. Le repas montre qu’elle peut aimer l’échange tout en choisissant le cadre qui lui convient."
     },
     {
       "number": 11,
@@ -476,18 +1046,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revenir à l’échange après un rappel sonore",
-          "text": "Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile."
+          "heading": "Un rappel peut faire perdre le fil d’une réponse",
+          "text": "Dans le TSPT, un rappel peut détourner l’attention d’une conversation pendant quelques instants. Une interruption de ce type ne signifie pas à elle seule qu’il y a reviviscence. Au portail, le choc de la bouteille fait perdre à Selma le fil de sa réponse. Elle demande de reprendre la question et retrouve le choix qu’elle voulait faire sur l’accès à la serre."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.\n\nDans un suivi, elle peut parler d’un moment qui lui a coûté tout en racontant ce qu’elle a apprécié. La prise en charge peut prendre en compte les activités et les relations qu’elle souhaite retrouver ou préserver. Ici, Selma a voulu cultiver, discuter avec des voisins et conserver l’accès à un lieu de famille selon ses propres règles."
+          "heading": "Comment un rappel sonore se répercute-t-il sur la conversation ?",
+          "points": [
+            {
+              "heading": "Le fil se rompt au milieu d’une réponse",
+              "text": "La personne peut rester dans la situation présente et avoir besoin de retrouver où elle en était.",
+              "examples": [
+                "La bouteille tape contre le banc quand Selma réfléchit à la demande de visite.",
+                "Elle demande de reprendre au lieu de répondre à la partie de la question dont elle se souvient."
+              ]
+            },
+            {
+              "heading": "La question répétée permet de distinguer plusieurs demandes",
+              "text": "Entendre de nouveau la demande peut permettre de répondre à un point précis.",
+              "examples": [
+                "La visite avait d’abord été formulée comme un tour à l’intérieur.",
+                "À la reprise, Selma entend que l’amie de Maud s’intéresse surtout aux panneaux translucides."
+              ]
+            },
+            {
+              "heading": "Le choix reste possible après l’interruption",
+              "text": "Perdre le fil un instant ne retire pas le droit de décider de la suite.",
+              "examples": [
+                "Selma donne le nom du vitrier et déplace le banc vers l’extérieur.",
+                "Elle propose de voir le montant depuis l’allée et poursuit le partage des salades."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préciser l’accord sans retirer l’invitation",
-          "text": "Maud et son amie ont besoin de savoir où elles peuvent se placer et ce qu’elles peuvent prendre. Selma peut dire qu’elle souhaite garder l’intérieur pour elle et que les cagettes sont pour le partage. Elle peut proposer de montrer le montant depuis l’allée, ou se contenter de donner le nom du vitrier. André peut confirmer l’accord du repas et préciser l’heure à laquelle il quitte le portail.\n\nSi quelqu’un souhaite revenir pour regarder un détail, Selma peut lui demander de convenir d’un autre moment. Elle peut aussi décider que cette visite ne l’intéresse pas. La possibilité de partager les prochaines récoltes dépend de ce qu’elle et André auront envie d’organiser, avec leurs disponibilités respectives."
+          "heading": "3 techniques pour retrouver le fil après un rappel",
+          "points": [
+            {
+              "heading": "Demander la dernière question",
+              "objective": "Récupérer ce que l’on a manqué sans devoir expliquer la réaction.",
+              "exercise": [
+                "Dites « Tu peux reprendre la question ? » ou demandez une courte pause.",
+                "Écoutez un point à la fois ou demandez qu’on vous le montre.",
+                "Reformulez ce que vous avez compris avant de répondre."
+              ],
+              "benefit": "La discussion peut repartir de la demande réelle plutôt que de ce que l’on a deviné."
+            },
+            {
+              "heading": "Choisir la limite que l’on voulait poser",
+              "objective": "Reprendre une décision pratique après l’interruption.",
+              "exercise": [
+                "Repérez ce qui est demandé et ce que vous êtes prêt à proposer.",
+                "Dites la limite en une phrase, comme rester dans l’allée.",
+                "Montrez ce qui reste accessible, ici le montant ou le nom du vitrier."
+              ],
+              "benefit": "La demande reçoit une réponse sans vous obliger à ouvrir un lieu que vous voulez garder privé."
+            },
+            {
+              "heading": "Préparer un appui discret avec le proche",
+              "objective": "Laisser à la personne le temps de répondre elle-même.",
+              "exercise": [
+                "Convenez d’un geste ou d’une phrase si elle veut qu’on reprenne la question.",
+                "Demandez au proche de tenir la tâche qu’il a acceptée, comme déplacer la cagette.",
+                "Si ces interruptions se répètent, notez un exemple à aborder avec le professionnel qui vous accompagne."
+              ],
+              "benefit": "L’aide soutient l’échange sans prendre la décision à la place de la personne."
+            }
+          ]
         }
       ],
       "ending_title": "Une botte mise de côté",
@@ -504,7 +1130,8 @@
         "next": "Elle revient au suivi sur ce qui l’aide aujourd’hui et sur les questions de travail encore ouvertes."
       },
       "clinical_focus": "Retentissement attentionnel d’un rappel",
-      "clinical_intro": "Au portail, le choc d’une bouteille contre le banc suffit à faire perdre le fil à Selma. L’alerte liée au TSPT peut interrompre une conversation pendant un moment auquel la personne tient. Selma demande que la question soit répétée. Une fois revenue à l’échange, elle peut décider comment montrer la serre et quel espace elle souhaite garder pour elle."
+      "clinical_intro": "Au portail, le choc d’une bouteille contre le banc suffit à faire perdre le fil à Selma. L’alerte liée au TSPT peut interrompre une conversation pendant un moment auquel la personne tient. Selma demande que la question soit répétée. Une fois revenue à l’échange, elle peut décider comment montrer la serre et quel espace elle souhaite garder pour elle.",
+      "conclusion": "Selma retrouve la question et garde la serre fermée aux visites, tout en montrant le montant et en partageant les légumes. Le bruit a interrompu sa réponse, mais elle peut la reprendre avec ses propres mots et rester à l’échange."
     },
     {
       "number": 12,
@@ -521,18 +1148,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Revenir sur ce qui a aidé et ce qui coûte encore",
-          "text": "Le suivi d’un trouble de stress post-traumatique peut faire place à l’évolution des réactions, aux activités importantes pour la personne et aux besoins qui demeurent. Le NICE prévoit que les professionnels puissent préparer la suite du soutien avec elle, y compris lorsque des difficultés persistent."
+          "heading": "Une évolution qui se voit dans plusieurs domaines",
+          "text": "Le retentissement du TSPT peut changer au fil du suivi et des activités. Retrouver l’envie de faire une tâche ne fait pas disparaître les difficultés rencontrées ailleurs. Selma a aimé rendre les dossiers utiles et elle a perdu une matinée quand la salle a changé. Elle peut apporter ces deux faits aux professionnels, avec les nuits difficiles et les conversations qu’elle a pu reprendre autour de la serre."
         },
         {
           "role": "manifestations",
-          "heading": "Les tâches qu’elle retrouve et celles qui lui coûtent encore",
-          "text": "Selma a retrouvé le plaisir de rendre un dossier utilisable pour la personne suivante. Elle se rappelle aussi la matinée où le changement de salle l’a arrêtée à l’accueil. Sur la page qu’elle apporte en consultation, les nuits difficiles et le détour du canal côtoient le souvenir d’une conversation avec les voisins. Son travail et sa vie sociale lui donnent des exemples de ce qu’elle reprend et des situations qui restent éprouvantes."
+          "heading": "Comment faire un bilan quand certaines choses reprennent et que d’autres coûtent encore ?",
+          "points": [
+            {
+              "heading": "Le plaisir d’une tâche revient",
+              "text": "Une activité retrouvée peut préciser ce que la personne souhaite garder ou reprendre.",
+              "examples": [
+                "Selma se rappelle le plaisir de préparer un dossier pour la personne suivante.",
+                "Sous le tilleul, elle a proposé un lieu et une heure pour partager les récoltes."
+              ]
+            },
+            {
+              "heading": "Un rappel continue à modifier la journée",
+              "text": "Le retentissement persistant peut se lire dans les déplacements, le repos ou l’organisation du travail.",
+              "examples": [
+                "Selma garde en mémoire l’attente dans le siège de l’accueil après le changement de salle.",
+                "Elle note aussi le détour par le canal et les nuits difficiles pour sa thérapeute."
+              ]
+            },
+            {
+              "heading": "L’avenir professionnel reste une question ouverte",
+              "text": "Un essai et un avis permettent de discuter des options sans dater la fin des difficultés.",
+              "examples": [
+                "La santé au travail propose de revoir les aménagements après la mission.",
+                "Selma souhaite comprendre ce qu’elle peut examiner sans devoir décider tout de suite si elle reprendra son poste."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder la suite professionnelle ouverte",
-          "text": "Au rendez-vous de santé au travail, Selma peut demander quelles options restent possibles, quels aménagements ont aidé et ce qu’il faudrait examiner si elle souhaite évoluer vers d’autres fonctions. Les décisions touchant à la conduite et à la sécurité suivent leur cadre professionnel. Selma participe à la discussion en disant ce qui compte pour elle. Les dates prévues pour ces échanges lui donnent le temps de poser ses questions.\n\nD’ici là, le projet de la serre garde sa place. Elle peut convenir d’un prochain partage, revoir la quantité de graines qu’elle veut garder ou laisser un rang libre. Ce sont des décisions à prendre avec les personnes concernées, au moment qui lui convient.\n\nAvec sa thérapeute, Selma peut préciser les questions à reprendre et savoir à qui s’adresser si une difficulté survient avant le prochain rendez-vous. Elle peut dire à André quel appui pratique l’intéresse, comme garder un horaire convenu pour l’arrosage. André choisit la part qu’il souhaite prendre."
+          "heading": "3 techniques pour faire le point sur un rétablissement qui se poursuit",
+          "points": [
+            {
+              "heading": "Apporter deux situations différentes",
+              "objective": "Rendre compte à la fois de ce qui reprend et de ce qui reste coûteux.",
+              "exercise": [
+                "Choisissez un geste qui a retrouvé sa place.",
+                "Ajoutez un moment où un rappel ou la fatigue a encore changé vos plans.",
+                "Décrivez les deux au professionnel qui vous accompagne."
+              ],
+              "benefit": "Le bilan peut reconnaître un progrès sans écarter les difficultés persistantes."
+            },
+            {
+              "heading": "Garder une question pour chaque rendez-vous",
+              "objective": "Adresser les questions de soins et de travail à la personne qui peut y répondre.",
+              "exercise": [
+                "Notez ce que vous souhaitez reprendre avec le thérapeute.",
+                "Écrivez séparément la question sur les horaires, la mission ou l’aptitude.",
+                "Vérifiez avec la santé au travail les options et la prochaine décision possible."
+              ],
+              "benefit": "Les échanges peuvent avancer sans exiger une réponse unique sur l’ensemble de la vie."
+            },
+            {
+              "heading": "Laisser un projet ouvert quand le choix n’est pas mûr",
+              "objective": "Conserver une activité ou une relation sans décider de tout maintenant.",
+              "exercise": [
+                "Choisissez ce qui est déjà convenu, comme le prochain arrosage.",
+                "Nommez le choix que vous voulez encore examiner.",
+                "Fixez un moment pour en reparler si quelqu’un a besoin d’une réponse."
+              ],
+              "benefit": "Il reste une place pour les décisions qui demandent du temps, au jardin comme dans la reprise."
+            }
+          ]
         }
       ],
       "ending_title": "Le rang reste libre",
@@ -549,7 +1232,8 @@
         "next": "Les choix de travail, de soins et de jardin restent à discuter avec les interlocuteurs concernés au fil des besoins."
       },
       "clinical_focus": "Évolution du retentissement du TSPT",
-      "clinical_intro": "Selma a retrouvé le plaisir de préparer un dossier utile, et le changement de salle lui a coûté une matinée de travail. Le suivi du TSPT peut tenir compte de ces deux expériences, des nuits difficiles et des échanges qu’elle a repris. Ces repères permettent de discuter des appuis et de l’avenir professionnel avec les personnes concernées."
+      "clinical_intro": "Selma a retrouvé le plaisir de préparer un dossier utile, et le changement de salle lui a coûté une matinée de travail. Le suivi du TSPT peut tenir compte de ces deux expériences, des nuits difficiles et des échanges qu’elle a repris. Ces repères permettent de discuter des appuis et de l’avenir professionnel avec les personnes concernées.",
+      "conclusion": "Selma confirme le rendez-vous de santé au travail et laisse le rang libre pour le moment. Les récoltes partagées, les dossiers repris et la matinée reportée ont tous leur place dans le bilan. Le suivi lui permet de continuer à examiner ce qu’elle veut faire de ces expériences."
     }
   ]
 }

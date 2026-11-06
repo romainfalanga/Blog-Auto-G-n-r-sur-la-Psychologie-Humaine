@@ -33,14 +33,81 @@ Célian termine d’abord avec Nadia. Elle lui confirme qu’elle a ce qu’il f
 
 Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides. Célian a organisé le goûter et peut décrire les décisions qui l’ont rendu possible. Quelques jours après, il lui faut toujours de l’effort pour distinguer deux consignes dans un message.
 
-## Comment cette difficulté se manifeste
+En formation, recevoir la fiche à l’avance ne suffit pas toujours à retrouver le bon passage. Célian souhaite essayer un repère de page. Il peut examiner cet appui avec Aïcha tout en reconnaissant les choix qui lui ont permis d’organiser le goûter.
 
-Ces faits peuvent coexister. Ils permettent de parler des aides dans des termes précis : ce qu’il a pu faire avec la fiche à l’avance, ce qu’il a dû chercher en cours et le temps qu’il y a passé. Une réussite ne suffit ni à conclure que le trouble a disparu, ni à décider de la suite d’un suivi.
+## Comment une réussite peut-elle coexister avec un besoin de lecture durable ?
 
-## Faire évoluer ce qui aide, au centre et au club
+### La réussite a des conditions concrètes
 
-Aïcha et Célian peuvent garder la fiche en avance et essayer de mieux séparer les étapes qui se poursuivent sur une autre page. Ils pourront regarder sur une tâche réelle si le repérage devient plus facile. Le rendez-vous suivant avec Mme Vidal permettra, à part, de discuter de ses objectifs de suivi s’il le souhaite. Au volley, transmettre la feuille donne aux autres un point de départ. Célian peut continuer à cuisiner pour eux quand il en a envie et choisir un autre rôle selon la semaine. L’usage de ces appuis reste lié à ce qu’il souhaite faire.
+Le résultat renseigne sur l’activité menée avec ses appuis et sa répartition.
+
+**Exemples concrets**
+
+- Célian a organisé le goûter avec un seul récapitulatif, un menu vérifié et une équipe aux rôles définis.
+- Une liste commune peut rester utile à d’autres organisateurs après qu’on en a retiré les noms.
+
+### Un autre texte fait revenir une difficulté
+
+Le format ou le contenu d’une nouvelle tâche peut encore demander du temps de lecture.
+
+**Exemples concrets**
+
+- Célian doit distinguer deux consignes dans un message après le goûter.
+- Une fiche reçue la veille laisse du temps pour lire, mais n’indique pas forcément où reprendre pendant l’atelier.
+
+### Les besoins se précisent avec l’usage
+
+Un appui testé peut donner l’idée d’un complément pour une autre étape.
+
+**Exemples concrets**
+
+- Célian souhaite demander un repère de page en plus de la fiche en amont.
+- Il peut apporter à Mme Vidal une difficulté rencontrée au centre sans faire du goûter un bilan de lecture.
+
+## 3 techniques pour réviser ses appuis après un projet réussi
+
+### 1. Repérer ce qui a changé la tâche
+
+Identifier les éléments qui ont été utiles en pratique.
+
+**Exercice pratique**
+
+- Choisissez un moment où le projet a pu avancer.
+- Repérez le document, le rôle ou le délai qui y a contribué.
+- Décidez si cet élément est réutilisable dans une autre situation.
+
+Le retour donne des informations pour préparer un nouveau projet.
+
+### 2. Demander un complément ciblé
+
+Répondre à une difficulté précise encore présente.
+
+**Exercice pratique**
+
+- Montrez à la formatrice l’endroit où vous perdez du temps.
+- Proposez un repère de page ou de ligne pour le prochain essai.
+- Choisissez quand vous reviendrez sur son utilité.
+
+L’appui peut s’ajuster sans repartir de zéro.
+
+### 3. Distinguer le bilan d’activité et le suivi
+
+Donner à chacun les éléments qui le concernent.
+
+**Exercice pratique**
+
+- Clôturez les dépenses et les rôles avec l’équipe.
+- Gardez un exemple de lecture difficile pour le rendez-vous clinique.
+- Choisissez une nouvelle activité que vous voulez essayer pour elle-même.
+
+Le projet peut se terminer tandis que les besoins en lecture continuent d’être discutés.
 
 ## Laisser le prochain prénom vide
 
 Jade propose d’essayer la feuille la prochaine fois avec Yanis. Célian leur montre où il avait laissé la case du lieu vide en attendant la réponse du gardien. Ils gardent cette case et enlèvent les anciens prénoms de la copie. Célian récupère son sac et demande à Léonie de lui lancer trois ballons avant qu’on ferme. Pendant le match, le joueur d’en face avait reculé d’un pas chaque fois que Célian prenait son élan. Il a envie d’essayer un service plus court. Léonie lui demande où il veut le poser. Il pose son téléphone sur le banc pour lui montrer.
+
+---
+
+**Conclusion**
+
+Le goûter est terminé et les rôles pourront tourner. Célian sait ce qu’il voudrait ajouter à ses fiches et reverra Mme Vidal. Au gymnase, il a aussi une question qui ne tient pas sur une feuille, celle du prochain service plus court.

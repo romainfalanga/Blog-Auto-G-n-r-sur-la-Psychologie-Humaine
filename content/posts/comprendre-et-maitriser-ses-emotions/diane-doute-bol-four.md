@@ -30,16 +30,81 @@ Anaïs pose trois tasses devant elle et lui demande laquelle devrait aller sur l
 
 ## Quand un résultat décevant semble dire ce qu’on vaut
 
-Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire.
+Un résultat qui déçoit peut être pris pour un jugement sur l’ensemble de ses capacités. Cette généralisation peut peser quand la confiance est encore fragile après un épisode psychotique, sans constituer en elle-même un signe de rechute. Diane voit un bord trop haut et pense à renoncer au bol. Le bleu lui plaît toujours et la pièce peut être regardée de plusieurs endroits. L’essai permet de juger ce résultat précis.
 
-## Comment cette difficulté se manifeste
+## Comment une déception devient-elle un verdict sur ses capacités ?
 
-Diane voit une forme qu’elle aurait voulu autrement et pense aussitôt à sa place dans l’exposition. Elle a le droit de trouver le bol raté à certains endroits. Elle peut aussi se donner le temps de regarder comment il se présente à côté de la carafe. Dans le suivi, elle parle de ce qu’elle retrouve et de ce qui lui coûte encore. Ici, elle veut examiner la pièce avec les mêmes yeux qu’elle vient de poser sur la tasse d’Anaïs.
+### Un détail prend toute la place
 
-## Regarder les pièces à la hauteur des visiteurs
+Ce qui s’écarte du projet peut masquer ce qui plaît encore dans le résultat.
 
-Diane demande à Maud de vérifier que le pied du bol repose bien à plat sur le support d’exposition. Maud regarde le dessous et confirme qu’il est stable. Elles essayent deux hauteurs, parce qu’on ne voit pas le bleu de la même manière au-dessus ou au-dessous du rebord. De plus bas, Diane voit la pente ; d’un peu plus haut, elle voit le pinceau qui a laissé une bande plus sombre au fond. Elle voudrait qu’on puisse voir les deux. Maud lui rappelle que le choix du cartel arrive ensuite. Aujourd’hui, la décision est de garder ou de libérer la place qu’elle a réservée.
+**Exemples concrets**
+
+- Diane voit d’abord la pente et a du mal à regarder le bleu.
+- Une personne qui vient de reprendre le dessin ne voit plus que la ligne qu’elle a déplacée.
+
+### On compare avec une compétence entière
+
+La difficulté d’un seul essai peut sembler prouver qu’on ne saura plus faire.
+
+**Exemples concrets**
+
+- Le bol décevant fait hésiter Diane sur la place qu’elle voulait reprendre à l’exposition.
+- Quelqu’un manque une entrée pendant une répétition et songe à abandonner le concert.
+
+### On sait mieux regarder chez les autres
+
+Les nuances restent parfois plus accessibles quand l’objet n’engage pas directement sa propre confiance.
+
+**Exemples concrets**
+
+- Diane prend le temps de voir un trait clair sous la lèvre d’une tasse d’Anaïs.
+- Une personne peut proposer deux cadrages pour la photo d’une amie alors qu’elle a déjà rejeté la sienne.
+
+## 3 techniques pour examiner une déception avant de décider
+
+### 1. Nommer l’écart précis
+
+Décrire ce qui déçoit sans en tirer une conclusion générale.
+
+**Exercice pratique**
+
+- Dites ce que vous aviez prévu.
+- Regardez où le résultat diffère.
+- Nommez aussi un détail qui correspond à votre goût.
+
+La décision peut porter sur la pièce entière et ses usages.
+
+### 2. Essayer une présentation différente
+
+Tester une condition concrète avant de retirer un objet.
+
+**Exercice pratique**
+
+- Choisissez une place ou une hauteur à essayer.
+- Regardez ce qui change en vous plaçant comme un visiteur.
+- Décidez ensuite si l’objet répond encore à votre intention.
+
+Un nouvel angle peut faire apparaître des qualités sans effacer l’imprévu.
+
+### 3. Repérer le coût d’une décision trop rapide
+
+Éviter qu’un résultat ferme une activité encore désirée.
+
+**Exercice pratique**
+
+- Formulez le choix que vous envisagez.
+- Demandez-vous à quelle autre chose vous devriez renoncer avec lui.
+- Si ces décisions se multiplient, parlez-en au suivi à partir d’un exemple.
+
+L’équipe peut aider à aborder ce qui fragilise la reprise dans la durée.
 
 ## Le bol reste près de la carafe
 
 Diane rapproche le bol de la carafe sans les laisser se toucher. Avec cet écart, les deux nuances lui plaisent ensemble. « Je garde les deux. Il faudra juste que la tablette soit assez basse. » Maud le note sur la fiche. Diane prend une photo à la hauteur où elle aimerait qu’on puisse les regarder. Dans le bus, elle trouve dans son sac une poire achetée le dimanche avec Rémi. Elle l’avait oubliée à côté de son tablier. Elle lui écrit que les poires sont mûres et que la carafe a une couleur qu’elle n’avait pas prévue. Puis elle mange la poire par petites bouchées pour ne pas se mettre de jus sur la manche.
+
+---
+
+**Conclusion**
+
+La pente reste visible et Diane choisit d’exposer les deux pièces. En les regardant ensemble, elle retrouve une décision qui porte sur la couleur, l’écart et la hauteur. Le bol n’a pas eu à retrouver sa forme prévue pour prendre sa place.

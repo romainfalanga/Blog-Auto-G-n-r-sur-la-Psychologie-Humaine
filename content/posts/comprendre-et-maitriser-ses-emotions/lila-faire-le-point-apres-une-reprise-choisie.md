@@ -1,21 +1,21 @@
 ---
-title: Faire le point après une reprise choisie
-description: Lila visite l’exposition terminée. Elle sépare ce qu’elle a accompli,
-  ce que le suivi doit encore aborder et ce qu’elle veut ensuite.
+title: Quand certaines difficultés persistent après une reprise
+description: Lila voit l’exposition terminée. Ses matins restent difficiles, et elle
+  prévoit d’en parler au suivi avant d’accepter un autre projet.
 slug: lila-faire-le-point-apres-une-reprise-choisie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lila
-sujet: Évolution et continuité du suivi
+sujet: Difficultés persistantes après une reprise
 contexte: le samedi après le montage, pendant une visite de l’exposition ouverte au
   public
 tags:
 - Dépression du post-partum
 - Dépression postnatale
 - Dépression post-partum
-- Évolution des symptômes
+- Difficultés persistantes
+- Reprise d’activité choisie
 - Continuité du suivi
-- Projet à horaires choisis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -30,18 +30,83 @@ Elles s’arrêtent au milieu de la salle. Farid passe leur dire bonjour. Il rem
 
 Après le départ de Farid, Naïma lui demande ce qu’elle a envie de faire. Lila regarde une dernière fois la chaise. Elle avait accepté de s’occuper de cette exposition avec une fin à midi et quelqu’un pour prendre la suite. Ce sont des détails dont elle éprouve de la fierté au même titre que le reflet. Elle dit qu’elle aime être là aujourd’hui, debout devant un travail fini, et qu’elle voudrait en profiter avant de choisir une autre salle.
 
-## Suivre plusieurs changements au-delà d’un projet terminé
+## L’évolution se lit aussi dans ce qui reste difficile
 
-Au cours du suivi d’un premier épisode dépressif, les soignants examinent l’évolution de l’humeur, de l’intérêt, du sommeil et du fonctionnement au fil du temps. Les soignants peuvent ajuster avec la personne la fréquence des rendez-vous et les soins dont elle a besoin. Une reprise souhaitée peut apporter un renseignement sur les ressources retrouvées. Les difficultés qui persistent ou réapparaissent méritent aussi d’être abordées. Lila peut parler de la satisfaction de voir l’exposition et de la durée que lui demandent encore certains gestes. Le tableau d’ensemble aide à préciser ce qui évolue et ce qui a besoin d’attention.
+Pendant le suivi d’un épisode dépressif, l’évolution peut différer selon les domaines de la vie. Une activité souhaitée peut redevenir possible alors que le sommeil, le rythme ou l’énergie restent perturbés. La médecin de Lila peut prendre en compte la façon dont elle s’est organisée pour l’exposition, la satisfaction qu’elle en tire et le temps que lui demandent encore certains gestes le matin. Reprendre ces éléments sur plusieurs jours ou semaines aide à décider avec la personne des soins et des rendez-vous dont elle a besoin.
 
-## Reconnaître ce qui a été possible dans des conditions précises
+## Comment une difficulté peut-elle persister après une reprise ?
 
-Lila a repris une tâche de lumière, sur un seul projet, après avoir reporté l’essai et fait reprendre une partie du montage. Ces conditions ont une place dans l’histoire de cette reprise. Elle peut être fière du résultat et préférer laisser passer l’invitation pour un vernissage en soirée. Elle a retrouvé des moments de curiosité, alors que son rythme du matin et la sensation de distance restent parfois difficiles. Son état, ce qu’elle souhaite faire et les conditions concrètes du travail apportent des informations différentes. Elle peut les mettre en relation sans les résumer à une seule réponse sur sa santé.
+### Une activité redevient possible dans des conditions précises
 
-## Garder le rendez-vous et répondre au projet proposé
+Une reprise peut tenir à un temps limité ou à des appuis disponibles. Ces conditions expliquent en partie ce qui est devenu faisable.
 
-Pour mardi, Lila peut préparer deux ou trois exemples de ce qui a bougé et de ce qui la préoccupe encore. Elle peut vérifier avec sa médecin qui joindre si son état se dégrade de nouveau, et poursuivre les séances selon l’accord pris avec sa psychologue. Du côté du travail, elle peut donner une réponse à Farid sur le vernissage et lui préciser le genre de créneau qu’elle envisagera plus tard. Les appuis trouvés au fil de l’exposition donnent des questions pratiques à poser la prochaine fois. Lila garde ainsi une décision qui concerne ses intérêts et un rendez-vous où parler de son état.
+**Exemples concrets**
+
+- Lila a contribué au montage sur une matinée, avec Thomas à la maison et Élise pour reprendre la salle à midi.
+- Une personne retrouve un atelier le samedi en s’y rendant avec un ami et en rentrant avant le repas, alors que les sorties plus longues restent difficiles.
+
+### Une activité familière reste plus exigeante ailleurs
+
+Le retentissement peut persister dans des tâches qui n’ont rien à voir avec celle que la personne a reprise.
+
+**Exemples concrets**
+
+- Alors que le montage est terminé, Lila a encore mis presque une heure à préparer ses affaires un matin.
+- Une personne a repris les déjeuners avec des collègues, mais peine plusieurs soirs de suite à trouver le sommeil quand la maison est calme.
+
+### Une nouvelle proposition change les conditions de la reprise
+
+Un projet semblable en apparence peut demander d’autres efforts s’il se déroule plus tard, plus longtemps ou avec moins de soutien.
+
+**Exemples concrets**
+
+- Farid parle d’un vernissage en soirée, sans horaire de fin défini, alors que Lila avait limité sa participation précédente à la journée.
+- Une personne à l’aise dans un atelier proche hésite à accepter une deuxième rencontre qui ajouterait un long trajet dans la même semaine.
+
+## 3 techniques pour faire le point sur les difficultés qui restent
+
+### 1. Comparer deux aspects de la semaine
+
+Donner au soignant un aperçu plus large que le dernier projet achevé.
+
+**Exercice pratique**
+
+- Choisissez une activité qui est redevenue possible et précisez dans quelles conditions.
+- Choisissez une difficulté qui continue et dites ce qu’elle change plusieurs jours de suite.
+- Présentez les deux exemples au prochain rendez-vous.
+
+La discussion peut faire apparaître ce qui a bougé et ce qui demande encore un appui.
+
+### 2. Vérifier les conditions d’une nouvelle demande
+
+Décider si la prochaine proposition correspond à ce qui est possible aujourd’hui.
+
+**Exercice pratique**
+
+- Demandez l’horaire, le lieu et qui peut prendre le relais en cas de besoin.
+- Comparez ces conditions avec celles qui vous ont permis de faire l’activité précédente.
+- Acceptez, demandez un autre créneau ou déclinez selon ce qui vous convient.
+
+Vous pouvez décider à partir d’éléments concrets plutôt que vous appuyer sur le seul fait d’avoir déjà repris.
+
+### 3. Fixer la suite du suivi avec le professionnel
+
+Garder un endroit où parler de l’évolution après la fin d’un projet.
+
+**Exercice pratique**
+
+- Vérifiez quand aura lieu le prochain échange.
+- Préparez une question sur ce qui reste difficile ou a changé de nouveau.
+- Convenez avec le soignant de la suite et de la façon de le joindre si votre état s’aggrave avant le prochain point.
+
+Le suivi peut ainsi s’ajuster à l’évolution d’ensemble.
 
 ## Le premier mur avant de partir
 
 Lila dit à Farid qu’elle décline le vernissage et qu’elle aimerait reparler de créneaux en journée plus tard. Elle met l’heure du rendez-vous médical dans son téléphone et ajoute deux mots, « les matins ». Avant de quitter la médiathèque, elle emmène Naïma devant le premier mur. Elle lui montre où se placer pour voir à la fois la chaise et la ligne du néon. Puis elle reste à côté d’elle pour regarder ce qu’une autre personne va y trouver.
+
+---
+
+**Conclusion**
+
+La chaise est visible dès l’entrée. Lila a mené le projet qu’elle avait choisi aux conditions qu’elle avait posées. Elle garde le rendez-vous de mardi pour parler de ses matins et laisse la proposition de vernissage. D’autres projets pourront se discuter quand leurs conditions lui conviendront.

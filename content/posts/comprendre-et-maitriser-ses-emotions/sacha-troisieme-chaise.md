@@ -29,22 +29,83 @@ Sacha lui parle des courges. Jeanne cherche ses mots pour décrire la variété 
 
 Dehors, il regarde l’heure. Il a encore quarante minutes avant sa prise de poste. Avec Nora, il avait pourtant réussi à reprendre une phrase devant quelqu’un. Ici, il avait une réponse et le désir de la donner. Il entend Jeanne derrière lui : il a oublié son carnet sous les serviettes. Elle le lui tend ouvert au croquis de la graineterie. Sacha cherche une phrase pour excuser son départ, puis voit que Jeanne maintient du pouce le coin mouillé pour que la page ne se replie pas sur le dessin.
 
-## Un essai qui se passe bien laisse d’autres situations ouvertes
+## La même personne peut vivre deux échanges très différemment
 
-L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile.
+L’anxiété sociale peut varier selon le lieu, les interlocuteurs et le sentiment d’être observé. Une situation menée avec plus d’aisance ne prédit pas la suivante. Sacha discutait avec plaisir avec Jeanne ; l’arrivée d’Omar change le poids qu’il donne à sa propre façon de parler. Au suivi, cette différence peut être examinée sans effacer ce qu’il a déjà réussi ailleurs.
 
-## Comment cette difficulté se manifeste
+## Comment le contexte change-t-il l’effort pendant un échange ?
 
-Chez Sacha, l’entrée au café est différente cette fois : il parle avec Jeanne et échange ses graines. C’est quand Omar attend une réponse que Sacha commence à se demander quelle impression il donne. Le départ arrive au milieu d’un moment dont il profitait jusque-là.
+### Un nouvel interlocuteur change la scène
 
-Les conditions étaient différentes au café et à la graineterie. Avec Nora, il savait qui serait là et ce qu’il voulait montrer. Au café, il a dû changer de conversation d’un coup. Raconter ces différences au cabinet peut aider à comprendre le retour de la peur et à choisir ce qui mérite d’être travaillé, sans prendre cette matinée comme un verdict sur son projet.
+Le sujet peut rester intéressant et la personne se mettre à surveiller davantage l’impression qu’elle donne.
 
-## Que veut-il reprendre de cet échange ?
+**Exemples concrets**
 
-NICE recommande que les objectifs et les effets du soin soient revus avec la personne. Sacha pourra dire à la docteure Rigal ce qu’il a aimé au café, puis à quel moment il a cessé d’écouter la question d’Omar pour compter les secondes. Il peut aussi lui parler de l’envie de renoncer à sa partie de l’atelier qui lui vient après. Le soin peut s’intéresser au poids de cette pensée même si la décision au magasin se prend séparément avec ses collègues.
+- Sacha veut répondre sur les courges lorsque Omar se met à attendre sa réponse.
+- Une personne explique volontiers un outil à une collègue et perd sa phrase quand une nouvelle personne s’arrête pour écouter.
 
-Sacha n’a pas à reconstituer le même groupe pour se donner une deuxième chance. Il tient toujours à poser à Jeanne sa question sur les courges. Il peut reprendre cette conversation un jour où ils se croisent et choisir ce qu’il souhaite faire pour la démonstration en considérant les conditions déjà convenues. Ce sont deux envies qui méritent d’exister chacune à leur rythme.
+### Le sentiment d’être observé détourne de la question
+
+La bascule peut se situer à un moment précis plutôt que concerner toute la rencontre.
+
+**Exemples concrets**
+
+- Sacha avait une réponse et ne retrouve plus le fil de ce qu’Omar vient de demander.
+- Un participant écoute avec intérêt jusqu’au moment où il se rend compte que la table attend qu’il parle.
+
+### Une expérience ailleurs reste valable
+
+Avoir plus de difficulté dans un lieu ne retire pas l’information utile d’un autre essai.
+
+**Exemples concrets**
+
+- Sacha avait pu reprendre une phrase devant Nora et quitte cette fois le café.
+- Une personne s’exprime dans un groupe connu et se retire d’un échange imprévu dans un lieu bruyant.
+
+## 3 techniques pour comprendre ce qui change d’un contexte à l’autre
+
+### 1. Mettre deux scènes en regard
+
+Repérer les différences qui comptent pour vous.
+
+**Exercice pratique**
+
+- Choisissez deux échanges autour d’une tâche ou d’un sujet proche.
+- Relevez qui était présent et ce qui était prévu ou imprévu.
+- Dites à quel moment l’effort a changé dans chacun.
+
+La comparaison peut rendre la variation plus compréhensible qu’un jugement général sur votre capacité à parler.
+
+### 2. Préserver ce que vous vouliez dire
+
+Pouvoir reprendre une question interrompue si l’occasion revient.
+
+**Exercice pratique**
+
+- Notez le sujet ou le dernier mot dont vous vous souvenez.
+- Demandez, si vous le souhaitez, quand l’autre personne sera disponible.
+- Acceptez que la reprise attende un autre cadre.
+
+L’échange garde un fil même si la scène a dû s’arrêter.
+
+### 3. Présenter le contraste en suivi
+
+Travailler sur une difficulté précise au lieu d’effacer l’essai précédent.
+
+**Exercice pratique**
+
+- Apportez un exemple qui a été possible et un autre qui a coûté davantage.
+- Racontez ce que vous auriez voulu continuer à faire.
+- Discutez avec le praticien du contexte qui mérite d’être exploré.
+
+Le suivi peut tenir compte des conditions qui font varier l’anxiété.
 
 ## Le carnet revient avec Jeanne
 
 Sacha prend le carnet par le coin sec et dit : « J’ai laissé ma question en plan. Pour les courges. » Jeanne lui répond qu’elle doit filer elle aussi et qu’elle passe à la graineterie la semaine suivante pour acheter de la ficelle. Ils reprendront la conversation s’ils se croisent. L’enveloppe reste avec elle. Sur le chemin du magasin, Sacha songe à écrire à Gaspard pour lui dire qu’il ne se sent plus capable de tenir sa partie à l’atelier. Avant sa prise de poste, il note la question d’Omar sur la cour peu ensoleillée, puis le moment où il a perdu le fil. Il voudrait pouvoir en parler au prochain rendez-vous.
+
+---
+
+**Conclusion**
+
+Le carnet revient avec Sacha, même si la conversation reste en plan. En notant la question d’Omar, il garde à la fois le sujet qui l’intéressait et le moment où le contexte a changé pour lui.

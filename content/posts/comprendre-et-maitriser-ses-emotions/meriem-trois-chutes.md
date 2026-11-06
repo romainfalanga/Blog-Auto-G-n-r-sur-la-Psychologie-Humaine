@@ -1,5 +1,5 @@
 ---
-title: Reviviscence traumatique quand une voix d’autrefois couvre la conversation
+title: Reviviscence traumatique quand une voix ancienne couvre la conversation
 description: Une demande à l’atelier donne à Meriem l’impression qu’une scène ancienne
   recommence. Elle perd le fil de la conversation.
 slug: meriem-trois-chutes
@@ -23,26 +23,91 @@ clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 1
 ---
 
-Meriem retourne une pochette sur la table et en fait ressortir les coins avec le bout d’une règle. Le fond vient d’un vieux pantalon, le devant d’un rideau à carreaux. La troisième chute, jaune, fait juste la largeur d’un mètre ruban. Elle a taillé dedans une poche qui dépasse un peu. Ève dit que ça se voit. Meriem répond que c’est l’idée : on trouve le mètre tout de suite.
+Meriem retourne une pochette sur la table et en fait ressortir les coins avec le bout d’une règle. Le fond vient d’un vieux pantalon, le devant d’un rideau à carreaux. La troisième chute, jaune, fait juste la largeur d’un mètre ruban. Elle a taillé dedans une poche qui dépasse un peu. Ève dit que ça se voit. « C’est l’idée. On trouve le mètre tout de suite », répond Meriem.
 
 Les machines sont rangées. Sur le tableau des jeudis, entre le cours de français et le créneau de réparation des vélos, Ève a obtenu de la place pour une annonce. Meriem voudrait que les gens viennent avec les patrons qu’ils ont dessinés eux-mêmes et qu’ils sont d’accord pour transmettre. Elle a l’habitude de montrer comment retourner un coin. Elle ne sait pas encore expliquer, en trois lignes, ce qu’on aura le droit d’emporter.
 
-Une chaise racle le sol derrière elle. Une habituée lui demande si elle doit donner son numéro de téléphone. Meriem entend la question de loin. Pendant quelques secondes, elle attend les mots d’une voix d’autrefois, avec la certitude qu’il faut répondre maintenant et qu’il n’existe aucune bonne réponse. Sa main reste immobile dans la pochette. Quand la salle lui redevient familière, la chaise est vide et l’habituée a reculé pour laisser passer Ève. Personne ne la presse. Meriem pose la règle et indique du doigt la feuille sur la table. Elle se rappelle la phrase qu’elle avait prévue : c’est un échange de patrons, les numéros ne servent à rien.
+Une chaise racle le sol derrière elle. Une habituée lui demande si elle doit donner son numéro de téléphone. Meriem entend la question de loin. Pendant quelques secondes, elle attend les mots d’une voix d’autrefois, avec la certitude qu’il faut répondre maintenant et qu’il n’existe aucune bonne réponse. Sa main reste immobile dans la pochette. Quand la salle lui redevient familière, la chaise est vide et l’habituée a reculé pour laisser passer Ève. Personne ne la presse. Meriem pose la règle et indique du doigt la feuille sur la table. La phrase qu’elle avait prévue lui revient. « C’est un échange de patrons. Les numéros ne servent à rien. »
 
-## Quand le passé revient dans le présent
+## Quand le passé semble recommencer
 
-Une reviviscence peut donner l’impression que ce qui s’est passé autrefois se produit à nouveau. Elle peut s’accompagner de sensations ou d’émotions très fortes, même en l’absence d’images nettes de ce qui est arrivé. Dans la scène, Meriem a brièvement la certitude qu’elle doit répondre à quelqu’un qui n’est pas dans la pièce. Se rappeler une situation en sachant qu’elle est passée, ou sursauter au bruit d’une chaise, peut être très désagréable sans correspondre à ce vécu.
+Une reviviscence donne l’impression que quelque chose du traumatisme se produit de nouveau, ici et maintenant. Elle peut s’accompagner d’images, mais aussi passer surtout par les émotions et les sensations de l’époque. Se rappeler un événement, même avec beaucoup de peine, est une autre expérience quand on continue à le situer dans le passé.
 
-## Comment cette difficulté se manifeste
+Meriem connaît déjà son diagnostic de trouble de stress post-traumatique complexe. La CIM-11 décrit la reviviscence, l’évitement des rappels et le sentiment persistant de menace dans le TSPT et le TSPT complexe. Dans le second, s’y ajoutent des difficultés durables à réguler ses émotions, une dévalorisation liée au traumatisme et des difficultés à se sentir proche ou à maintenir des liens. Un moment de reviviscence ne suffit pas à poser un diagnostic.
 
-Meriem connaît déjà le nom de son trouble de stress post-traumatique complexe. La CIM-11 y décrit le noyau du stress post-traumatique. Il associe reviviscences dans le présent, évitement des rappels et sentiment persistant de menace. S’y ajoutent des difficultés graves et durables à réguler ses émotions, un regard durablement dévalorisé sur soi et des difficultés à se sentir proche des autres. Le mot « complexe » désigne cet ensemble. Une réaction aussi vive que celle de Meriem ne permettrait, à elle seule, de conclure à aucun des deux diagnostics. À l’atelier, personne n’a besoin de trancher ce qui lui est arrivé pour reprendre la conversation.
+## Comment la reviviscence prend-elle la place du présent ?
 
-## Mettre sur le tableau ce qui concerne l’atelier
+### Une impression d’urgence qui revient
 
-Ève peut dire où elles en sont et laisser Meriem décider qui répond. La question pratique est simple : faut-il un numéro ? Meriem choisit de mettre sur le tableau les heures, le lieu et le type de patrons attendus. L’information sera lisible à l’accueil et identique sur les papiers qu’on remettra aux personnes intéressées. C’est aussi utile à quelqu’un qui quitte son travail à une heure fixe ou qui vient à pied depuis l’autre bout du quartier.
+Pendant un instant, la personne peut éprouver la situation comme si elle exigeait la même réponse qu’autrefois.
 
-Meriem garde pour son suivi ce qu’elle veut dire du retour de cette impression de menace. Les recommandations du NICE invitent à tenir compte du contexte et des préférences quand on parle du traitement. Elle peut commencer par expliquer ce qui a changé dans la pièce pour elle, puis dire ce qu’elle attend d’une séance. L’annonce, elle, peut tenir en quatre lignes.
+**Exemples concrets**
+
+- À l’atelier, Meriem se sent obligée de répondre sur-le-champ à une voix ancienne alors que l’habituée attend tranquillement près de la table.
+- Dans un bus, une porte qui claque peut donner à quelqu’un l’impression de devoir se mettre à couvert comme à l’époque, le temps de retrouver les repères du trajet.
+
+### Des sensations sans image précise
+
+La peur ou des sensations liées à ce qui s’est passé peuvent occuper le premier plan. Ce qui compte ici est l’impression de revivre la scène, même sans la voir nettement.
+
+**Exemples concrets**
+
+- Meriem ne voit pas une autre pièce. Sa main s’immobilise dans la pochette et elle retrouve la même peur de répondre qu’autrefois.
+- Dans un couloir, une odeur familière peut s’accompagner d’une gorge serrée et donner à quelqu’un l’impression d’être de nouveau dans un lieu du passé, sans en revoir les détails.
+
+### Un fil de conversation à retrouver
+
+Quand cette expérience prend le dessus, ce que disent les personnes présentes peut devenir difficile à suivre.
+
+**Exemples concrets**
+
+- Lorsque l’atelier redevient familier à Meriem, l’habituée a changé de place et Ève est passée devant la chaise.
+- Après un tel moment au téléphone, une personne peut entendre que son interlocutrice attend une réponse et avoir besoin qu’elle lui redise la dernière question.
+
+## 3 techniques pour reprendre le fil après une reviviscence
+
+### 1. Retrouver un repère disponible
+
+Se donner un point de départ quand le lieu redevient familier.
+
+**Exercice pratique**
+
+- Si la situation le permet, posez l’outil que vous tenez.
+- Regardez un repère familier du lieu, comme le tableau de l’atelier.
+- Prenez le temps de voir ce qui se passe autour de vous avant de décider si vous voulez reprendre.
+
+Le repère peut aider à retrouver la situation en cours. Il ne demande pas de retrouver une image du passé.
+
+### 2. Faire redire la question
+
+Récupérer l’information perdue pendant le moment de confusion.
+
+**Exercice pratique**
+
+- Faites signe à une personne avec qui vous êtes à l’aise.
+- Demandez-lui de redire la dernière question, en une phrase.
+- Choisissez d’y répondre maintenant ou de lui demander de prendre le relais.
+
+Une question reformulée peut suffire à reprendre la conversation à l’endroit où elle s’est interrompue.
+
+### 3. Parler de l’interruption en séance
+
+Aborder avec un professionnel ce que ces moments changent dans la vie courante.
+
+**Exercice pratique**
+
+- À un moment où vous vous sentez disponible, choisissez un épisode récent.
+- Notez ce que vous n’avez pas pu suivre ou faire à ce moment-là, si vous souhaitez vous en souvenir pour la séance.
+- Demandez à votre thérapeute quel appui préparer avec vous si cela revient.
+
+Partir de l’effet sur la journée permet d’aborder un besoin précis en gardant la main sur ce que vous souhaitez raconter.
 
 ## Le jeudi reste le jeudi
 
-L’habituée revient chercher son sac. Meriem lui dit qu’elle pourra déposer un patron sans laisser de numéro. Puis elle relit à voix haute ce qu’Ève a écrit : « Dépôt le jeudi, de 17 h 30 à 19 h. Échange un samedi matin, date affichée ici. » Elles impriment deux exemplaires. Meriem en prend un pour préparer sa pochette modèle ; elle a envie de savoir si quelqu’un peut la refaire en suivant seulement ses dessins. Quand Ève lui demande où coller l’autre, Meriem lui montre le coin du tableau qu’on voit depuis le banc, sans avoir à entrer dans la salle.
+L’habituée revient chercher son sac. Meriem lui dit qu’elle pourra déposer un patron sans laisser de numéro. Puis elle relit à voix haute ce qu’Ève a écrit : « Dépôt le jeudi, de 17 h 30 à 19 h. Échange un samedi matin, date affichée ici. » Elles impriment deux exemplaires. Meriem en prend un pour préparer sa pochette modèle. Elle a envie de savoir si quelqu’un peut la refaire en suivant seulement ses dessins. Quand Ève lui demande où coller l’autre, Meriem lui montre le coin du tableau qu’on voit depuis le banc, sans avoir à entrer dans la salle.
+
+---
+
+**Conclusion**
+
+Le passé a pris pendant quelques secondes la place de la question sur les numéros. Meriem peut retrouver cette question avec Ève et afficher une règle claire pour les dépôts. Au prochain jeudi, ce sera à une autre personne de mettre son patron à l’épreuve.

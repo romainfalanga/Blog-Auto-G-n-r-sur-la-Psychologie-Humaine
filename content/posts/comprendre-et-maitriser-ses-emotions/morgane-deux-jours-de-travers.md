@@ -33,18 +33,81 @@ Quand Yassine revient, il demande si elles veulent encore voir sa proposition. �
 
 ## Une comparaison plutôt qu’une règle
 
-Les recommandations du NICE décrivent des formes d’accompagnement qui aident à examiner des situations où les épisodes surviennent. Les aspects émotionnels et les habitudes alimentaires peuvent faire partie du travail selon les besoins.
+Dans le suivi de l’hyperphagie boulimique, examiner les situations autour des épisodes peut éclairer le rôle possible des circonstances, des émotions ou des habitudes. La présence d’un événement avant une crise ne suffit pas à expliquer celle-ci. Deux journées chargées peuvent se dérouler différemment. Morgane retrouve plusieurs éléments du premier lundi et choisit d’en parler à Anna sans ramener la soirée à la seule livraison.
 
-## Deux journées qui se ressemblent en partie
+## Comment les circonstances d’un épisode se dessinent-elles quand on les reprend ?
 
-Aujourd’hui, la tension monte quand le téléphone sonne et que quelqu’un lui pose une question au même moment. Morgane repense à la livraison décalée de l’autre lundi et à l’épisode qui a suivi. En revenant sur cette journée, elle retrouve aussi le souvenir d’un appel qu’elle redoutait et d’une gêne déjà présente le matin. Ce lundi, elle éloigne le téléphone et réussit à faire de la place à l’essai de Yassine.
+### Un événement visible revient en premier
 
-## Garder à la situation de travail ses propres solutions
+Un imprévu qu’on se rappelle facilement peut sembler résumer toute la journée.
 
-Sonia, Yassine et Morgane ont à trouver une place et un horaire. Morgane peut poser la question de la répétition sans avoir à raconter un épisode alimentaire. Prévenir d’un changement et répartir les appels sont des tâches que le groupe peut décider. Ce soutien sur le travail a sa valeur même si le suivi doit aussi explorer ce que Morgane traverse en rentrant chez elle. Elle peut être tendue et garder assez de place pour entendre Yassine, comme elle peut être gênée un autre soir dans des circonstances différentes. La comparaison aide à respecter cette variabilité.
+**Exemples concrets**
 
-Lors de sa prochaine séance, elle peut raconter à Anna les éléments dont elle se souvient et dire ce qui lui échappe. Elles pourront comparer ces journées à partir des questions que Morgane souhaite approfondir.
+- Le changement de salle renvoie Morgane à une livraison décalée l’autre lundi.
+- Elle se souvient d’avoir repassé l’échange avec le livreur avant la crise du soir.
+
+### D’autres circonstances apparaissent ensuite
+
+Reprendre la journée peut faire émerger des éléments dont on ignore encore le rôle.
+
+**Exemples concrets**
+
+- Morgane se rappelle aussi un appel qu’elle appréhendait en rentrant.
+- Elle retrouve le souvenir d’une gêne déjà présente le matin, avant la livraison.
+
+### Une ressemblance n’annonce pas forcément la suite
+
+Comparer deux moments peut faire apparaître ce qui diffère à côté de ce qui se ressemble.
+
+**Exemples concrets**
+
+- Le lundi de la répétition, le téléphone et la question de l’évier arrivent au même moment.
+- À la fin, Morgane se rappelle surtout que Yassine a pu résoudre le problème de la table.
+
+## 3 techniques pour observer un contexte sans décider d’une cause
+
+### 1. Noter des circonstances avant d’interpréter
+
+Donner une place à plusieurs éléments du contexte.
+
+**Exercice pratique**
+
+- Relevez deux faits repérables dans une journée que vous souhaitez reprendre.
+- Ajoutez l’émotion ou la pensée dont vous vous souvenez, si elle vous revient.
+- Montrez vos notes au professionnel en précisant ce qui reste incertain.
+
+L’entretien peut explorer des liens possibles sans donner une cause unique à l’épisode.
+
+### 2. Comparer deux journées sur un point
+
+Observer ce qui change quand un contexte semble se répéter.
+
+**Exercice pratique**
+
+- Choisissez un imprévu présent dans deux journées.
+- Décrivez un détail différent avant ou après cet imprévu.
+- Demandez à votre équipe comment utiliser ce contraste en consultation.
+
+Une comparaison peut élargir ce que vous pensiez savoir d’un seul épisode.
+
+### 3. Régler l’imprévu qui est devant vous
+
+Préserver une décision de travail lorsque la journée rappelle un épisode.
+
+**Exercice pratique**
+
+- Identifiez ce que l’équipe doit organiser maintenant.
+- Annoncez le temps et l’espace réellement disponibles.
+- Choisissez ensemble ce qui peut être essayé ou déplacé.
+
+Le travail peut avancer pendant que la question du contexte garde sa place dans le suivi.
 
 ## Ce que les deux lundis ont en commun
 
 Après la répétition, Morgane écrit quelques lignes pour Anna. Le premier lundi, elle se souvient d’être rentrée en rejouant l’échange avec le livreur. Ce soir, elle est surtout contente d’avoir vu Yassine résoudre le problème de la table. Elle ne veut pas donner le même sens à toute journée qui la fatigue. Sonia et elle ont obtenu un autre créneau pour la semaine suivante. Morgane demande que le début soit confié à Yassine.
+
+---
+
+**Conclusion**
+
+Morgane emporte pour Anna deux lundis qui se ressemblent par leurs imprévus et se distinguent par ce qu’elle en retient. L’essai de Yassine trouve un créneau. Le souvenir de la livraison reste une piste à explorer avec d’autres éléments de cette journée.

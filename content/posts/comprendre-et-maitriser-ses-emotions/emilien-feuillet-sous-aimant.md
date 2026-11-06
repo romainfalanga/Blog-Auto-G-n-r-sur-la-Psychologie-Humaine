@@ -29,20 +29,83 @@ L’infirmière lui demande ce qu’il reconnaîtrait de la période qui a préc
 
 Lucie, qui l’accompagne à sa demande, écoute jusqu’au bout. Elle lui dit qu’elle se rappelle aussi qu’il finissait rarement une conversation : il revenait avec une autre idée au moment où elle allait répondre. Émilien n’aime pas beaucoup ce souvenir. Il voudrait pourtant que Lucie puisse le lui dire si elle retrouve quelque chose de semblable. Elle demande ce qu’elle doit faire si elle le remarque un jour où elle n’est pas à la maison. Émilien regardait jusque-là le plan comme une feuille à lui donner. Il comprend qu’ils ont aussi besoin de savoir ce qu’elle accepte de faire.
 
-## Comprendre ce qu’un plan partagé doit rendre possible
+## Des repères personnels à partager par choix
 
-Un plan de soins peut rassembler plusieurs choses : les objectifs de la personne, les changements qui l’incitent à demander un avis, les coordonnées utiles et la réponse convenue si une inquiétude augmente. Le NICE recommande de l’élaborer avec la personne et de discuter, avec son accord et quand c’est possible, de la place des proches. Le plan n’est ni un test à réussir ni une liste de symptômes à interpréter en famille. Il doit aider à trouver le bon interlocuteur quand l’attention, le temps ou les informations manquent.
+Un plan de soins pour le trouble bipolaire peut décrire les changements qui ont précédé un épisode, préciser les contacts utiles et convenir d’une réponse adaptée. Les repères sont propres à la personne et se discutent avec elle. La note sur la gouttière explique pourquoi Émilien tient à la nuance. L’infirmière l’aide à faire une place à ses souvenirs et, avec son accord, à ce que Lucie a observé et accepte de faire.
 
-## Les changements qu’Émilien et Lucie ont remarqués
+## Comment rendre des signes d’alerte personnels utilisables au quotidien ?
 
-Émilien se rappelle plusieurs nuits courtes sans fatigue et des engagements pris très vite. Il avait annoncé une date à Dorian sans vérifier si le lieu était libre. Le lendemain, il s’est rappelé qu’il lui en avait déjà donné une autre. Lucie se souvient qu’il lançait une autre idée avant qu’elle ait pu répondre à la première. Chacun rapporte ce qu’il avait remarqué avant l’épisode. Plusieurs personnes s’en étaient inquiétées avant Émilien.
+### Une suite d’événements reconnaissable
 
-## Décider ensemble de ce que Lucie peut prendre en charge
+Un repère devient plus précis quand il décrit ce qui a changé par rapport aux habitudes et ce qui a suivi.
 
-Émilien veut que Lucie puisse nommer un changement, l’aider à retrouver le numéro et, s’il le demande, rester à côté de lui pendant l’appel. Lucie accepte ces gestes quand elle est disponible. Elle ne veut pas compter ses heures de sommeil ni recevoir toute sa correspondance médicale. Émilien demande que la conduite à tenir figure à côté du contact, avec un repère pour les heures où le contact habituel ne répond pas. Ils relisent avec l’infirmière la partie sur le recours urgent. En cas de danger immédiat, les services d’urgence sont le recours prévu ; Lucie n’a pas à régler seule la situation. Les décisions de traitement restent à discuter avec les professionnels.
+**Exemples concrets**
 
-Dorian, lui, n’a pas besoin d’une copie. Émilien peut simplement convenir avec lui de la manière de reporter une séance ou de laisser un dossier de travail accessible s’il doit s’absenter.
+- Émilien associe plusieurs nuits sans fatigue aux dates annoncées sans avoir consulté les disponibilités.
+- Il se souvient avoir donné deux dates différentes à Dorian avant de s’en rendre compte.
+
+### Deux points de vue sur le même moment
+
+Le témoignage d’un proche peut compléter le vécu de la personne et se limiter à ce qu’il a vu ou entendu.
+
+**Exemples concrets**
+
+- Lucie se rappelle les idées qui arrivaient avant qu’elle puisse répondre à la précédente.
+- Émilien, lui, se rappelle surtout le temps qu’il pensait pouvoir gagner en se levant tôt.
+
+### Une marche à suivre qu’on retrouve
+
+Un signe repéré sert surtout si le plan indique ensuite qui contacter, même quand le proche n’est pas sur place.
+
+**Exemples concrets**
+
+- Au cabinet, Lucie demande ce qu’elle peut faire un jour où elle n’est pas à la maison.
+- Ils fixent la page des contacts au réfrigérateur et gardent les autres pages dans les papiers d’Émilien.
+
+## 3 techniques pour préparer un plan d’alerte qui sert
+
+### 1. Revenir sur une période passée avec l’équipe
+
+Retrouver des changements personnels assez précis pour être décrits.
+
+**Exercice pratique**
+
+- Choisissez une période déjà évaluée par les soignants.
+- Racontez un changement que vous avez ressenti et une conséquence concrète.
+- Demandez quels éléments l’équipe vous propose de lui signaler s’ils reviennent.
+
+Les repères partent de l’histoire de la personne plutôt que d’un inventaire général.
+
+### 2. Mettre le rôle du proche en une phrase
+
+Fixer un appui que chacun accepte.
+
+**Exercice pratique**
+
+- Dites quel type de remarque pourrait vous être utile.
+- Demandez au proche ce qu’il peut faire, par exemple donner le numéro ou rester pendant l’appel.
+- Indiquez avec l’équipe vers qui vous tourner quand il n’est pas disponible.
+
+L’appui est clair et le recours ne dépend pas de la présence d’une seule personne.
+
+### 3. Garder la bonne page à portée
+
+Retrouver la marche à suivre quand l’attention manque.
+
+**Exercice pratique**
+
+- Repérez avec l’équipe les coordonnées et les consignes à retrouver vite.
+- Choisissez un endroit connu pour cette page et gardez les informations privées séparément.
+- Vérifiez ensemble qui peut en conserver une copie et à quelles conditions.
+
+Le contact peut être retrouvé rapidement sans faire circuler le reste du dossier.
 
 ## Ce que Lucie accepte de faire
 
 À la maison, Lucie retire de la porte du réfrigérateur un prospectus sur la collecte de verre. Ils fixent à la place le feuillet avec les contacts et gardent le reste dans les papiers d’Émilien. Lucie propose de prendre une photo de cette seule page, avec son accord. Quand Dorian appelle au sujet d’une proposition de diffusion, Émilien lui dit qu’il pourra la regarder demain. Pour l’instant, ils ont tous les deux envie de finir leur repas.
+
+---
+
+**Conclusion**
+
+Le feuillet sur le réfrigérateur contient de quoi appeler. Les souvenirs d’Émilien et de Lucie ont servi à préciser des changements à signaler et la place que Lucie veut tenir. C’est l’équipe qui peut examiner ce que ces changements signifient s’ils reviennent.

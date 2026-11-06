@@ -34,14 +34,81 @@ Sofiane a apporté la maquette : une page pour le marché, à côté des résult
 
 Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante.
 
-## Comment cette difficulté se manifeste
+Maïwenn voit encore des faits à vérifier et des accords à relire. Ces deux tâches n’occupent pas nécessairement le même temps, surtout quand revenir sur une phrase lui demande plusieurs passages. Prévoir une place pour chaque vérification lui permet de discuter de la page à livrer.
 
-Maïwenn, elle, sait ce qui se passe quand elle essaie de vérifier le sens et la forme en même temps : elle revient au début et finit parfois par ne plus savoir ce qu’elle cherchait. En disant ce qu’il reste à faire, elle donne au groupe un élément de travail dont il peut se servir.
+## Comment une échéance courte rend-elle le temps de relecture difficile à prévoir ?
 
-## Décider avec le groupe de ce qui peut bouger
+### La mise en page peut donner une impression trompeuse
 
-La date de remise ne change pas. Mme Lenoir demande ce qui peut sortir de la page si le temps manque. Lou tient à montrer l’ordre dans lequel le marché prend forme ; Maïwenn tient à ce que chaque photo raconte quelque chose de différent. Deux images peuvent suffire à leur idée. Elles gardent l’encadré comme élément que l’on peut retirer sans refaire toute la page. Quand des difficultés semblables pèsent sur le travail de classe, les adaptations se discutent dans le cadre scolaire et peuvent s’articuler avec le suivi, selon les besoins. Ici, Mme Lenoir règle d’abord avec le groupe un délai et un volume de travail.
+Une page presque remplie semble parfois prête alors que son sens et sa forme restent à vérifier.
+
+**Exemples concrets**
+
+- Sofiane regarde les rectangles de la maquette et pense que la page tient.
+- Maïwenn sait qu’il reste à confirmer ce que les légendes racontent des gestes.
+
+### Les vérifications s’ajoutent sans se remplacer
+
+Vérifier qu’une parole a été bien rapportée et relire un accord demandent une attention différente.
+
+**Exemples concrets**
+
+- Une légende peut décrire correctement la table et demander encore une reprise grammaticale.
+- Une image peut rentrer dans la page tout en attendant l’accord de la personne photographiée.
+
+### Une marge permet de faire un choix
+
+Distinguer ce qui doit paraître et ce qui reste facultatif rend la charge plus lisible avant le bouclage.
+
+**Exemples concrets**
+
+- Maïwenn garde deux places et laisse un encadré facultatif.
+- La pince orange offre une autre image à travailler si le portrait n’est pas retenu.
+
+## 3 techniques pour rendre le temps de relecture visible avant une échéance
+
+### 1. Réserver deux moments différents
+
+Donner un créneau à chaque type de vérification.
+
+**Exercice pratique**
+
+- Listez les faits et légendes dont il faut vérifier le sens.
+- Choisissez un moment distinct pour les accords et la ponctuation.
+- Inscrivez ces deux temps au calendrier de l’équipe.
+
+La maquette peut avancer sans cacher le travail encore à faire.
+
+### 2. Définir le périmètre de la page
+
+Adapter le contenu au temps qui reste réellement.
+
+**Exercice pratique**
+
+- Choisissez les éléments indispensables au reportage.
+- Marquez ce qui peut être retiré sans créer de trou dans le récit.
+- Vérifiez que le plan de page peut accueillir les deux versions.
+
+Un retard ou une incertitude peut être traité sans tout remanier.
+
+### 3. Séparer l’atelier et la discussion scolaire
+
+Garder le temps du projet et un lieu pour parler des besoins durables.
+
+**Exercice pratique**
+
+- Nommez ce qui doit être réglé avant le bouclage.
+- Demandez un autre moment privé si la difficulté dépasse le reportage.
+- Préparez un exemple concret à discuter avec l’enseignante ou le professionnel concerné.
+
+Chaque échange peut aboutir à une décision qui relève de son cadre.
 
 ## Deux rectangles et une marge
 
 Maïwenn conserve deux places : la table et, si Rachid valide l’image, le portrait. Elle range la pince orange parmi les solutions de remplacement. À la fin de la réunion, Mme Lenoir lui demande à part si elle souhaite reprendre aussi ce qui lui coûte du temps dans ses travaux de classe. Elles en ont déjà parlé ensemble. Maïwenn lui répond qu’elle veut finir de préparer le journal aujourd’hui ; elles reprendront cette autre question en privé la semaine suivante.
+
+---
+
+**Conclusion**
+
+Deux images et un encadré facultatif laissent à Maïwenn un temps pour le sens et un autre pour la forme. Le portrait attend toujours la réponse de Rachid. La prochaine échéance est plus claire parce que le travail restant a été nommé.

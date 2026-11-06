@@ -29,22 +29,83 @@ Maud arrive avec une amie qui s’intéresse à la réparation de la serre. Elle
 
 Une bouteille roule dans le panier de l’amie de Maud et vient taper contre le banc. Selma sent qu’elle perd un instant le fil de sa réponse. Elle demande de reprendre la question. Cette fois, l’amie parle surtout des panneaux translucides. Selma connaît le nom du vitrier. Elle peut le lui donner. Elle tire le banc de quelques centimètres vers l’extérieur et propose qu’elles regardent le montant depuis l’allée.
 
-## Revenir à l’échange après un rappel sonore
+## Un rappel peut faire perdre le fil d’une réponse
 
-Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile.
+Dans le TSPT, un rappel peut détourner l’attention d’une conversation pendant quelques instants. Une interruption de ce type ne signifie pas à elle seule qu’il y a reviviscence. Au portail, le choc de la bouteille fait perdre à Selma le fil de sa réponse. Elle demande de reprendre la question et retrouve le choix qu’elle voulait faire sur l’accès à la serre.
 
-## Comment cette difficulté se manifeste
+## Comment un rappel sonore se répercute-t-il sur la conversation ?
 
-Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.
+### Le fil se rompt au milieu d’une réponse
 
-Dans un suivi, elle peut parler d’un moment qui lui a coûté tout en racontant ce qu’elle a apprécié. La prise en charge peut prendre en compte les activités et les relations qu’elle souhaite retrouver ou préserver. Ici, Selma a voulu cultiver, discuter avec des voisins et conserver l’accès à un lieu de famille selon ses propres règles.
+La personne peut rester dans la situation présente et avoir besoin de retrouver où elle en était.
 
-## Préciser l’accord sans retirer l’invitation
+**Exemples concrets**
 
-Maud et son amie ont besoin de savoir où elles peuvent se placer et ce qu’elles peuvent prendre. Selma peut dire qu’elle souhaite garder l’intérieur pour elle et que les cagettes sont pour le partage. Elle peut proposer de montrer le montant depuis l’allée, ou se contenter de donner le nom du vitrier. André peut confirmer l’accord du repas et préciser l’heure à laquelle il quitte le portail.
+- La bouteille tape contre le banc quand Selma réfléchit à la demande de visite.
+- Elle demande de reprendre au lieu de répondre à la partie de la question dont elle se souvient.
 
-Si quelqu’un souhaite revenir pour regarder un détail, Selma peut lui demander de convenir d’un autre moment. Elle peut aussi décider que cette visite ne l’intéresse pas. La possibilité de partager les prochaines récoltes dépend de ce qu’elle et André auront envie d’organiser, avec leurs disponibilités respectives.
+### La question répétée permet de distinguer plusieurs demandes
+
+Entendre de nouveau la demande peut permettre de répondre à un point précis.
+
+**Exemples concrets**
+
+- La visite avait d’abord été formulée comme un tour à l’intérieur.
+- À la reprise, Selma entend que l’amie de Maud s’intéresse surtout aux panneaux translucides.
+
+### Le choix reste possible après l’interruption
+
+Perdre le fil un instant ne retire pas le droit de décider de la suite.
+
+**Exemples concrets**
+
+- Selma donne le nom du vitrier et déplace le banc vers l’extérieur.
+- Elle propose de voir le montant depuis l’allée et poursuit le partage des salades.
+
+## 3 techniques pour retrouver le fil après un rappel
+
+### 1. Demander la dernière question
+
+Récupérer ce que l’on a manqué sans devoir expliquer la réaction.
+
+**Exercice pratique**
+
+- Dites « Tu peux reprendre la question ? » ou demandez une courte pause.
+- Écoutez un point à la fois ou demandez qu’on vous le montre.
+- Reformulez ce que vous avez compris avant de répondre.
+
+La discussion peut repartir de la demande réelle plutôt que de ce que l’on a deviné.
+
+### 2. Choisir la limite que l’on voulait poser
+
+Reprendre une décision pratique après l’interruption.
+
+**Exercice pratique**
+
+- Repérez ce qui est demandé et ce que vous êtes prêt à proposer.
+- Dites la limite en une phrase, comme rester dans l’allée.
+- Montrez ce qui reste accessible, ici le montant ou le nom du vitrier.
+
+La demande reçoit une réponse sans vous obliger à ouvrir un lieu que vous voulez garder privé.
+
+### 3. Préparer un appui discret avec le proche
+
+Laisser à la personne le temps de répondre elle-même.
+
+**Exercice pratique**
+
+- Convenez d’un geste ou d’une phrase si elle veut qu’on reprenne la question.
+- Demandez au proche de tenir la tâche qu’il a acceptée, comme déplacer la cagette.
+- Si ces interruptions se répètent, notez un exemple à aborder avec le professionnel qui vous accompagne.
+
+L’aide soutient l’échange sans prendre la décision à la place de la personne.
 
 ## Une botte mise de côté
 
 Maud et son amie regardent le montant depuis l’allée. Selma indique la partie qu’elle a fait conserver. L’amie de Maud note le nom du vitrier et choisit une salade dans la cagette. À midi, André récupère sa boîte de vis et se prépare à partir. Selma lui met de côté une botte de radis de toutes tailles. Il lui dit qu’il avait fait le tri pour elle. Elle rit, garde les plus petits, puis remet le banc près de la porte. La deuxième cagette attend que Maud revienne la chercher.
+
+---
+
+**Conclusion**
+
+Selma retrouve la question et garde la serre fermée aux visites, tout en montrant le montant et en partageant les légumes. Le bruit a interrompu sa réponse, mais elle peut la reprendre avec ses propres mots et rester à l’échange.

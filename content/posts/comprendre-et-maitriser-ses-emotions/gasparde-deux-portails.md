@@ -30,22 +30,83 @@ Elle longe le grillage avec Dounia. De l’autre côté, un homme regarde son t�
 
 ## Traiter ce que le trajet permet de comprendre
 
-Quand un rendez-vous se passe mal, une explication peut s’imposer avant qu’on ait vu tous les détails. Gasparde a d’abord l’impression que quelqu’un a rendu son invitation introuvable. Le trajet de Levent apporte une information utile au club.
+Quand il manque une information, une explication peut s’imposer avant que le déroulement des faits soit connu. Dans le trouble délirant, la force d’une conviction peut donner à cette explication une place durable. Au portail, Gasparde croit que son invitation a été déplacée. Levent peut montrer le chemin qu’il a pris et ce qu’il a vu. Ce trajet donne au club une modification utile à faire sans devenir une enquête sur l’intention supposée.
 
-## Comment cette difficulté se manifeste
+## Comment une certitude s’installe-t-elle lorsqu’il manque une information ?
 
-Selon le point par lequel on arrive, la plaque du parc est plus visible que l’indication de Gasparde. Elle peut corriger le chemin affiché même si son inquiétude revient ensuite.
+### Une explication précède les détails
 
-Le trouble délirant peut s’accompagner de convictions persistantes sur les intentions d’autrui. Dans cette scène, le fait de voir le panneau oriente la discussion vers un problème que les trois personnes peuvent décrire. Il reste possible pour Gasparde de trouver l’incident troublant et de prendre une décision utile. La situation peut aussi être rapportée en suivi si la question continue à occuper ses soirées.
+L’urgence de répondre peut faire paraître immédiate la cause d’un problème.
 
-## Partir de ce qui reste possible maintenant
+**Exemples concrets**
 
-Levent est venu pour voir le terrain et le temps qu’il avait réservé a diminué. Gasparde peut lui donner l’heure de fin et lui demander ce qu’il aimerait faire dans le temps qui reste. Il peut suivre les autres, regarder jouer ou choisir une nouvelle visite. Le choix de Levent appartient à l’accueil, au même titre que l’accès au terrain.
+- Avant de voir le parcours de Levent, Gasparde se dit qu’on a déplacé l’invitation.
+- Quelqu’un apprend qu’un adhérent attend et croit aussitôt que le panneau a été retiré.
 
-Dounia peut aider en décrivant ce qu’elle a vu sur le trajet. Elle peut demander à Gasparde si elle veut que la feuille indique l’arrêt du bus et les deux portails. Ce geste fait avancer le projet qu’elles ont commencé mardi. Si Gasparde lui parle de l’idée qu’on a déplacé la feuille, Dounia peut écouter son inquiétude et s’en tenir à ce qu’elle a effectivement observé. Elle a ensuite le droit de rejoindre le terrain pour jouer.
+### Le point de vue de l’autre apporte un fait
+
+La personne qui a fait le trajet a vu des choses auxquelles l’organisateur n’avait pas pensé.
+
+**Exemples concrets**
+
+- Levent a suivi la plaque « Tennis » jusqu’au portail verrouillé.
+- Une nouvelle adhérente montre qu’elle a lu le nom de la salle sans voir l’indication de l’étage.
+
+### Une solution pratique laisse la question ouverte
+
+Corriger le chemin peut être utile même si l’inquiétude remonte plus tard.
+
+**Exemples concrets**
+
+- Gasparde demande d’ajouter le croquis, puis entend son téléphone vibrer pendant le double.
+- Quelqu’un ajoute une flèche à l’entrée et continue de se demander pourquoi le premier panneau a manqué son effet.
+
+## 3 techniques pour agir sur le renseignement qui manque
+
+### 1. Demander le trajet réellement suivi
+
+Trouver l’obstacle que l’on peut corriger.
+
+**Exercice pratique**
+
+- Demandez à la personne par où elle est arrivée.
+- Regardez quel panneau l’a orientée.
+- Proposez l’accès utilisable aujourd’hui.
+
+L’accueil peut reprendre sans chercher à prouver ce qui s’est passé hors de ce trajet.
+
+### 2. Rendre le point d’entrée lisible
+
+Éviter que le même renseignement manque au prochain visiteur.
+
+**Exercice pratique**
+
+- Repérez le détail peu visible sur la photo ou l’affiche.
+- Ajoutez un dessin ou une indication concrète.
+- Demandez à une personne qui découvre le lieu où elle irait en le lisant.
+
+Un regard neuf peut repérer un écart entre l’indication et le chemin réel.
+
+### 3. Rester dans un autre rendez-vous choisi
+
+Donner une place à une activité qui compte après avoir passé le relais.
+
+**Exercice pratique**
+
+- Transmettez le changement à la personne chargée de l’affichage.
+- Rappelez qui répond au téléphone pendant votre absence.
+- Revenez à l’activité prévue lorsque l’appel ne vous revient pas.
+
+L’organisation peut continuer pendant que vous retrouvez un temps de jeu.
 
 ## La flèche après l’arrêt du bus
 
 Levent les suit jusque dans la rue. Il choisit de regarder quelques balles, debout près du banc, puis il leur demande s’il peut revenir. Gasparde lui tend le papier de l’essai. Il y dessine l’arrêt, le portail fermé et le chemin qu’il a pris. Dounia reporte la flèche au propre sur une deuxième feuille. Gasparde demande à Basile d’ajouter le croquis au prochain affichage.
 
 À seize heures, son téléphone vibre dans le sac juste avant le premier service. Gasparde reste sur la ligne. Brigitte lui montre avec son pied le côté où le vent s’est remis à souffler. Elle choisit de servir sur le revers.
+
+---
+
+**Conclusion**
+
+Levent dessine le portail où il a attendu. Le club a ainsi quelque chose à modifier, et Gasparde rejoint Brigitte à l’heure prévue. Le téléphone vibre encore, mais le service suivant et le renseignement aux visiteurs ne dépendent pas tous les deux d’elle.

@@ -34,14 +34,81 @@ Lou a seulement vu le message du groupe. Sofiane demande à quelle heure il pour
 
 Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal.
 
-## Comment cette difficulté se manifeste
+La relecture demande à Maïwenn une marge et des retours distincts sur le sens et la forme. Elle peut présenter ces besoins au journal sans demander à Lou d’expliquer le trouble. Le message précise les heures, la disponibilité de Lou et ce que l’équipe pourra retirer si le temps manque.
 
-Le rendez-vous avec Mme Lenoir avait un objet précis, convenu avec Maïwenn, et ne lui donne pas à justifier ensuite son besoin devant la table entière.
+## Comment rendre un besoin d’écriture compréhensible sans raconter son suivi ?
 
-## Faire une demande qui engage les deux autrices
+### Un temps de travail peut s’expliquer par la tâche
 
-Lou et Maïwenn peuvent dire ce qu’elles feront elles-mêmes : vérifier ensemble le récit mercredi et faire la dernière relecture de forme vendredi à quinze heures trente. Lou peut annoncer l’heure à laquelle elle doit quitter la relecture. Maïwenn peut annoncer que si l’encadré les retarde, elles livreront la page sans lui. Leur demande porte sur une décision que Sofiane peut prendre : garder la place amovible jusque-là. La répartition devra leur laisser assez de temps à toutes les deux ; elle ne peut pas tenir au prix d’un engagement que l’une ne pourra pas respecter.
+Dire ce qui reste à relire aide à comprendre pourquoi une échéance intermédiaire est utile.
+
+**Exemples concrets**
+
+- Maïwenn distingue le passage sur le récit et la dernière vérification de la forme.
+- Un élève peut demander à recevoir les commentaires la veille pour revoir ses phrases avant la réunion.
+
+### Une proposition d’aide peut dépasser le cadre voulu
+
+Le partenaire peut vouloir justifier le délai en disant des choses que l’autre préférait garder privées.
+
+**Exemples concrets**
+
+- Maïwenn hésite quand Lou propose d’expliquer pourquoi la relecture prend du temps.
+- Une amie peut vérifier « Tu veux que je dise seulement à quelle heure on livre ? » avant d’écrire au groupe.
+
+### Les contraintes des autres peuvent être nommées séparément
+
+Un message de travail peut donner les horaires et les options sans présenter une personne comme la cause du délai.
+
+**Exemples concrets**
+
+- Lou précise qu’elle doit partir à quinze heures quarante-cinq.
+- Sofiane peut organiser une page avec un encadré détachable en connaissant l’heure du bouclage.
+
+## 3 techniques pour formuler des besoins de travail dans un message commun
+
+### 1. Traduire le besoin en action
+
+Dire au groupe ce qu’il peut préparer ou changer.
+
+**Exercice pratique**
+
+- Nommez le passage ou le moment qui demande du temps.
+- Proposez une heure et un type de retour précis.
+- Vérifiez si l’équipe peut s’organiser avec cette proposition.
+
+La demande porte sur un geste praticable.
+
+### 2. Relire qui dira quoi
+
+Garder la maîtrise de l’information personnelle.
+
+**Exercice pratique**
+
+- Demandez au partenaire ce qu’il comptait partager.
+- Gardez les seules informations utiles au destinataire.
+- Envoyez vous-même le message si vous le préférez.
+
+L’aide à communiquer peut respecter le périmètre choisi.
+
+### 3. Prévoir une version plus courte
+
+Rendre le délai réaliste pour les personnes disponibles.
+
+**Exercice pratique**
+
+- Repérez la partie facultative.
+- Dites à quel moment vous déciderez de la garder.
+- Vérifiez que le reste du texte se lit sans elle.
+
+Le groupe a une option de travail si la marge prévue ne suffit pas.
 
 ## Envoyer l’horaire depuis son propre téléphone
 
 Maïwenn lit à Lou le message qu’elle a préparé. Lou lui demande d’y préciser l’heure de son départ, puis Maïwenn l’envoie. Sofiane répond qu’il laissera l’encadré détachable et garde seize heures comme limite. Elles apporteront une version où l’encadré peut être retiré d’un bloc. Maïwenn ne sait pas encore si l’équipe trouvera le rythme raisonnable au moment du bouclage. Pour l’instant, aucune question sur sa santé ne s’est glissée dans le fil du journal.
+
+---
+
+**Conclusion**
+
+Maïwenn envoie elle-même les horaires et l’équipe garde l’encadré détachable. Lou a pu ajouter l’heure de son départ. Les autres disposent d’une organisation à suivre et Maïwenn choisira avec qui parler de ses besoins au-delà du journal.

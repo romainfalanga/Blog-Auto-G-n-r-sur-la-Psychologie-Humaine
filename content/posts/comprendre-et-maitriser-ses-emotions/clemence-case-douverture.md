@@ -29,18 +29,83 @@ La référente du club a réservé une soirée. Elle voudrait que le programme s
 
 Dans son carnet, le rendez-vous avec l’équipe spécialisée est déjà inscrit à côté du créneau du club. Clémence est suivie pour une anorexie mentale diagnostiquée avant cette préparation. La semaine dernière, elle a parlé au service d’un moment collectif qui l’avait occupée longtemps après être rentrée. Elle aimerait reprendre la question au rendez-vous. Elle aimerait également pouvoir inviter Baya à parler d’autre chose. Elle remet la fiche devant la fenêtre et essaie de lire à quoi elle tient dans ce premier film.
 
-## Comment la peur de prendre du poids occupe le quotidien
+## La peur du poids peut prendre la place d’autre chose
 
-L’anorexie mentale est un trouble des conduites alimentaires dont l’évaluation tient compte du vécu de la personne, de ce qui change dans sa vie et de son état physique. Une restriction alimentaire durable peut s’accompagner d’une peur intense de prendre du poids et d’une place excessive accordée au poids ou à la silhouette dans la manière de se juger.
+Dans l’anorexie mentale, la peur de prendre du poids et les préoccupations autour du corps ou de l’alimentation peuvent occuper l’attention longtemps et contribuer à la restriction. L’évaluation spécialisée tient compte du vécu et de la santé physique. Chez Clémence, un rappel du repas suffit pour que l’histoire du film lui échappe à nouveau. Le temps qu’elle aurait voulu donner à une conversation ou à une image reste pris par la même inquiétude.
 
-## Comment cette difficulté se manifeste
+## Comment la peur de prendre du poids déborde-t-elle sur une activité appréciée ?
 
-Chez Clémence, la peur revient avant le repas et les pensées continuent parfois longtemps après. Elle voudrait parler du film et s’aperçoit que son attention est encore prise ailleurs. Le trouble peut affecter la santé physique autant que le moral. L’OMS le décrit dans sa Classification internationale des maladies. Une impression à partir de l’apparence ou d’un seul signe ne permet pas de comprendre la situation. Le NICE recommande un suivi coordonné qui inclut la santé physique, la santé psychique et les risques éventuels. Les professionnels peuvent aussi parler avec la personne des répercussions dans les études, la vie sociale et les relations. Dans le cas de Clémence, le rendez-vous laisse de la place aux difficultés qu’elle vit et à ses questions sur le ciné-club.
+### La conversation devient difficile à suivre
 
-## Proposer une place qui comporte un choix
+Une inquiétude peut être présente pendant qu’une personne fait ce qu’elle avait pourtant envie de faire.
 
-Clémence peut demander à Baya si l’idée de choisir un film lui plaît. Elle peut lui dire de quelle image elle veut partir et écouter la réponse, même si elle s’attendait à une autre proposition. Le programme leur appartient selon l’accord qu’elles trouveront avec la référente. Clémence garde le choix des informations de santé qu’elle transmet. Elle peut parler à l’équipe des moments collectifs qui lui sont difficiles et apporter une question précise sur l’organisation du soir. Le club peut l’aider sur les tâches et les horaires qu’il maîtrise. Le suivi médical et les décisions de soins se poursuivent avec les professionnels.
+**Exemples concrets**
+
+- Clémence a peur pendant un repas du club alors que les autres parlent d’un film qu’elle aime.
+- Après la soirée, il ne lui reste que des fragments de cette conversation.
+
+### Le souvenir se réactive bien après le repas
+
+Un horaire, un lieu ou un message peut raviver une préoccupation au moment de faire autre chose.
+
+**Exemples concrets**
+
+- Le créneau affiché sur le téléphone ramène Clémence au dernier repas du groupe.
+- Elle essaie de relire la fiche du film devant la fenêtre pendant que cette peur lui revient.
+
+### L’activité garde un intérêt même quand l’attention se divise
+
+Une préoccupation qui prend beaucoup de place ne résume pas ce à quoi la personne tient.
+
+**Exemples concrets**
+
+- Clémence voudrait discuter du personnage qu’on voit s’arrêter dans l’embrasure.
+- Elle pense à demander à Baya de choisir le film de la fin et garde une place pour son nom.
+
+## 3 techniques pour parler de la peur et retrouver un moment choisi
+
+### 1. Décrire où la peur a pris la place
+
+Donner un exemple précis de ce que la préoccupation change.
+
+**Exercice pratique**
+
+- Notez le moment où la peur est revenue.
+- Indiquez ce que vous aviez envie de faire ou d’écouter à cet instant.
+- Apportez cet exemple à l’équipe qui vous suit.
+
+Le suivi peut examiner le retentissement de la peur sans faire de commentaire sur votre apparence.
+
+### 2. Reprendre une question qui vous intéresse
+
+Retrouver un échange précis lorsque le souvenir prend toute l’attention.
+
+**Exercice pratique**
+
+- Choisissez une scène, un passage ou une question que vous avez envie de montrer.
+- Proposez un moment à une personne qui partage cet intérêt.
+- Laissez-la vous dire ce qu’elle y voit avant de préparer la suite.
+
+La conversation peut retrouver un sujet qui compte pour vous et que vous pouvez partager.
+
+### 3. Distinguer deux demandes dans le même carnet
+
+Garder une place pour les soins et une autre pour le projet.
+
+**Exercice pratique**
+
+- Notez ce que vous voulez reprendre au prochain rendez-vous spécialisé.
+- Écrivez séparément la proposition concrète que vous voulez faire à votre amie.
+- Laissez chaque personne répondre à la question qui la concerne.
+
+Le film peut avancer pendant que la peur trouve un espace où être examinée.
 
 ## Le nom au bas de la fiche
 
 Clémence écrit à Baya et lui propose de voir le passage de la porte après le cours. Elle ajoute qu’elle aimerait lui laisser choisir ce qui sera projeté à la fin. Baya lui répond qu’elle a déjà une idée et qu’elle veut voir le film avant de s’engager. Clémence remet la fiche dans sa chemise. En fermant le carnet, elle inscrit près du rendez-vous le nom de la soirée dont elle voudrait reparler au service.
+
+---
+
+**Conclusion**
+
+Clémence propose à Baya de regarder l’embrasure et de choisir la fin de la séance. Elle garde la date du repas pour en reparler au service. Une même journée peut faire place au film qu’elle aime et à la peur qui l’a empêchée de suivre.

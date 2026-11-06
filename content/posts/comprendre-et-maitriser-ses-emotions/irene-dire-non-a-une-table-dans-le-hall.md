@@ -29,20 +29,83 @@ Ilyès s’approche de la grande table. C’est vrai qu’on verrait de loin les
 
 « On peut rester dans la salle ? » Ilyès n’a pas encore décidé. Il a envie que le livre soit vu. Irène pose la trousse sur la grande table juste le temps d’en sortir un signet. Si les gens découvrent deux chemins sur le programme, ils peuvent aussi découvrir deux horaires sur un ticket. Elle se demande si Mylène voudrait les distribuer.
 
-## Un espace grand peut laisser peu de place
+## Un espace sûr se vérifie quand les gens l’utilisent
 
-Pour évaluer un aménagement, il faut regarder ce que la personne pourra y faire quand le lieu sera réellement utilisé. Une grande table laisse de la place aux pages, mais les passages autour comptent aussi pour Irène. Le déplacement vers le hall rapprocherait son poste d’une file qui se déplace. Après le heurt, le duo avait retrouvé une table où les allées de service restaient à distance et où chacun savait où poser ses affaires. Le changement mérite une nouvelle discussion.
+Lorsqu’un mouvement répété présente un risque de heurt, l’organisation du lieu fait partie de la prévention. Un espace qui paraît dégagé à vide peut devenir étroit avec des visiteurs, une file ou du matériel en déplacement. Irène voit que l’emplacement de sa trousse est aussi le passage des personnes qui dépassent la file. Elle propose un cadre où le livre peut rester accessible et la table dégagée.
 
-## Comment cette difficulté se manifeste
+## Comment l’arrivée du public peut-elle changer les conditions de sécurité ?
 
-Irène n’a pas besoin de reproduire ce qui s’est passé près du comptoir pour faire prendre sa demande au sérieux. Mylène peut examiner avec elle les conditions d’accueil, garder le relais convenu en cas de douleur et choisir un endroit qui permette au duo de travailler. Cette décision d’organisation ne répond pas à la place de l’équipe pédiatrique à une question clinique.
+### La circulation réelle diffère du plan
 
-## Régler l’attente avec les visiteurs
+Une place libre sur la table ne dit pas combien de personnes passeront juste à côté.
 
-La salle du conte permet moins d’entrées à la fois. Cette limite a un coût : certains visiteurs ne pourront pas attendre le groupe suivant. Mylène peut l’expliquer à l’entrée, écrire les heures sur les signets et prévoir assez de temps pour qu’un groupe parte avant l’arrivée du suivant. Le binôme pourra garder les deux chemins sans se charger de la file en même temps.
+**Exemples concrets**
 
-Pour ceux qui ne peuvent pas rester, Irène et Ilyès peuvent laisser au comptoir un dessin où figurent les deux départs. Ils gardent le relief pour la salle, où les visiteurs auront le temps de le découvrir. La proposition donne un moyen de voir le projet et laisse aux deux auteurs le choix de la page qu’ils rendent disponible.
+- Les visiteurs doublent la file du côté où Irène devrait poser sa trousse.
+- Un atelier installé près d’un comptoir devient encombré lorsque les visiteurs commencent à rendre du matériel.
+
+### Les questions du public peuvent occuper l’adulte disponible
+
+Répondre dans un hall fréquenté peut faire perdre de vue les mouvements autour d’un poste de travail.
+
+**Exemples concrets**
+
+- Mylène est déjà sollicitée par plusieurs personnes qui s’approchent de la grande table.
+- Une responsable reçoit les inscriptions pendant qu’une file se forme près des sièges où les participants travaillent.
+
+### Un autre accueil peut préserver l’activité
+
+Un changement d’organisation peut éloigner le passage du poste tout en laissant le public découvrir le projet.
+
+**Exemples concrets**
+
+- Les signets donnent deux horaires pour entrer dans la salle du conte.
+- Un atelier laisse un plan à l’accueil et invite de petits groupes dans une pièce qui garde une allée libre.
+
+## 3 techniques pour organiser un espace partagé en tenant compte du risque de heurt
+
+### 1. Observer le passage aux heures utiles
+
+Choisir un poste à partir de la circulation réelle.
+
+**Exercice pratique**
+
+- Regardez où arrivent et repartent les personnes.
+- Vérifiez où se trouvent chaises, outils et chariots pendant l’activité.
+- Signalez à l’adulte responsable l’endroit qui devient trop serré.
+
+Le risque est examiné dans la situation où le poste sera utilisé.
+
+### 2. Modifier l’accueil plutôt que l’espace de travail seul
+
+Garder une activité ouverte avec moins de passage immédiat.
+
+**Exercice pratique**
+
+- Choisissez avec les participants et l’adulte un poste hors de la file.
+- Fixez comment le public sera accueilli ou orienté.
+- Confirmez qui gardera le passage dégagé pendant la rencontre.
+
+L’organisation du public soutient la sécurité autour de la table.
+
+### 3. Vérifier le relais avant d’ouvrir
+
+Savoir qui agirait si les conditions changeaient.
+
+**Exercice pratique**
+
+- Demandez à l’adulte où signaler un encombrement ou une douleur.
+- Convenez du moment où l’activité doit être interrompue ou déplacée.
+- Reprenez avec l’équipe qui suit l’enfant si le risque persiste ou si une blessure survient.
+
+Le relais est connu et l’enfant n’a pas à gérer seul un problème de sécurité.
 
 ## Le ticket donne une heure
 
 Irène propose deux horaires à Mylène. Ilyès lui demande s’ils peuvent montrer les deux flèches au comptoir, comme pour annoncer une ligne de métro. Il sort la copie sombre de la pochette du livre. Irène accepte qu’on en fasse quelques exemplaires pour l’accueil. Mylène organise deux petits groupes dans la salle du conte et écrit les heures sur les signets. Une famille ne peut pas rester pour le second horaire ; elle prend un plan et repart. Irène aurait aimé lui montrer la fenêtre. Elle reprend sa trousse et s’installe dans la salle avec Ilyès. On frappe : le premier groupe attend derrière la porte.
+
+---
+
+**Conclusion**
+
+Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour ; la visibilité change, mais le poste d’Irène reste à l’écart du passage.

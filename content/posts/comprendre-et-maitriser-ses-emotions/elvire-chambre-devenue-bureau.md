@@ -35,14 +35,79 @@ En séance, Claire lui demande à quels moments elle reprend les plans. Élvire 
 
 Une partie du travail en TCC-I peut porter sur les associations entre les conditions du coucher et l’état d’éveil. Si une personne passe régulièrement ce moment à résoudre des problèmes, à surveiller son sommeil ou à attendre en tension, certains éléments du cadre peuvent rappeler ces efforts. Le mécanisme se construit dans le temps et peut varier. Élvire associe désormais le bord de sa feuille, le passage de la porte et la nuit à des décisions qu’elle voulait finir. Claire examine ce phénomène avec elle parmi les autres facteurs déjà discutés.
 
-## Retrouver le fil d’un échange quand le travail revient
+## Comment la chambre peut-elle finir par rappeler le travail en suspens ?
 
-Élvire reprend le plan quand elle touche la feuille, puis continue de parcourir le trajet alors qu’elle ne la regarde plus. Lou lui parle de quelque chose qu’Élvire voudrait entendre. Elle remarque le changement quand elle se rappelle bien la grille et beaucoup moins l’amie. Le même effort de préparation peut se produire au dîner ou à une heure où Élvire voudrait seulement se rendormir. L’effet sur la relation et sur le sommeil lui donne des exemples distincts à examiner en séance.
+### Un objet ramène à un problème à résoudre
 
-## Mettre une décision à l’endroit où elle peut être traitée
+Un détail associé aux préparatifs peut retenir l’attention à l’approche du coucher.
 
-Élvire peut choisir où conserver le plan et convenir avec Sonia du moment où elles reprendront les dernières questions de l’accueil. Claire l’aide à observer ce qui change et lui demande de lui signaler toute nouvelle somnolence. Les composantes de la TCC-I s’ajustent avec la professionnelle, notamment quand la personne exerce des activités qui demandent de la vigilance. Le choix d’une place pour le plan répond surtout à la façon dont le travail envahit cette soirée. Élvire peut s’en servir pour revenir sur une activité qu’elle aimerait retrouver avec Lou.
+**Exemples concrets**
+
+- Élvire touche le bord du plan pendant que Lou lui parle de son amie.
+- Elle recommence à examiner la place des objets lourds près de la grille.
+
+### Le lieu peut rappeler la tâche même sans l’objet
+
+Une association répétée peut se manifester quand le moment ou le lieu suffit à évoquer une décision.
+
+**Exemples concrets**
+
+- Élvire remplace le plan par un livre et se surprend encore à préparer le samedi.
+- En séance, elle dit qu’il lui arrive de commencer en passant devant la porte de la chambre.
+
+### Une autre activité peut reprendre de la place progressivement
+
+Ranger le travail ailleurs peut faciliter un moment choisi alors que des pensées reviennent encore.
+
+**Exemples concrets**
+
+- Élvire range le plan avec le badge et retrouve le prénom de l’amie dont Lou parlait.
+- Elle peut écouter Lou et retrouver quand même la question de la grille au moment de se coucher.
+
+## 3 techniques pour changer la place d’une tâche du soir avec l’aide du suivi
+
+### 1. Repérer ce qui ramène au travail
+
+Décrire à la personne qui vous accompagne un lien possible avec le moment du coucher.
+
+**Exercice pratique**
+
+- Choisissez une soirée dont vous vous souvenez.
+- Notez quel objet ou quel moment a relancé la tâche.
+- Parlez-en au professionnel avant de modifier les règles de votre sommeil.
+
+Le suivi peut examiner cette association parmi les autres facteurs.
+
+### 2. Donner une place à la question pour demain
+
+Rendre un point de travail retrouvable sans le laisser ouvert toute la soirée.
+
+**Exercice pratique**
+
+- Notez la prochaine décision à prendre en une phrase.
+- Placez la note avec les affaires que vous reprendrez au travail.
+- Convenez d’un moment approprié pour rouvrir la question.
+
+La tâche peut être retrouvée sans occuper autant le moment que vous vouliez garder.
+
+### 3. Reprendre un échange choisi
+
+Donner de l’attention à un moment partagé sans en faire un exercice de sommeil.
+
+**Exercice pratique**
+
+- Demandez à l’autre personne si elle veut reprendre le sujet laissé en suspens.
+- Choisissez ensemble jusqu’à quand vous souhaitez en parler.
+- Racontez en suivi ce qui a changé et ce qui revient encore, si cela vous est utile.
+
+L’échange garde son intérêt et le suivi dispose d’observations situées.
 
 ## Le plan repart dans son enveloppe
 
 Ce soir, Élvire range le plan dans l’enveloppe avec le badge du bureau. Elle écrit à Sonia qu’elle veut reprendre demain la question des objets lourds. Puis elle demande à Lou si elle a encore envie de lui raconter la rencontre avec son amie. Lou lui dit qu’elle a envie d’en parler maintenant et qu’elle s’arrêtera au moment de servir le dîner. Élvire se rappelle le prénom de l’amie et trouve la question qu’elle voulait lui poser hier. Plus tard, elle signalera à Claire qu’il lui est encore arrivé de penser à la grille en se couchant. Elle a aussi pu écouter Lou jusqu’au bout.
+
+---
+
+**Conclusion**
+
+Le plan rejoint le badge et Élvire retrouve la conversation de Lou. La grille lui revient encore en se couchant. La séance avec Claire pourra distinguer la place que les préparatifs ont prise et ce qui a commencé à changer dans ses soirées.

@@ -30,20 +30,83 @@ Dans le couloir, Jeanne lui demande s’il compte aussi parler de l’enveloppe 
 
 La médecin connaît déjà le diagnostic de maladie d’Alzheimer d’Armand et les grandes lignes du suivi. Elle lui demande ce qu’il aimerait rendre plus facile chez lui. Il pousse son papier vers le bord du bureau pour le lire lui-même. Sa question arrive avant qu’il ait fini de lisser la feuille : il veut trouver ses affaires sans ouvrir trois placards et sans que quelqu’un ait déplacé le tout pendant qu’il était dehors. La médecin lui demande de raconter un rangement récent.
 
-## Décrire une difficulté dans la vie qu’on mène
+## Ce que les oublis changent dans une tâche
 
-Le suivi d’un trouble neurocognitif porte aussi sur les activités auxquelles la personne tient et sur ce qui a changé pour elle. Ranger une carte et reprendre un courrier administratif le lendemain sont deux tâches différentes. La médecin peut demander ce qui se passe à chaque étape, ce qu’Armand fait encore aisément et dans quelle situation il a demandé de l’aide. Cette conversation peut guider le choix d’un soutien plus concret qu’une remarque générale sur les oublis.
+Le suivi d’un trouble neurocognitif s’intéresse à ses conséquences concrètes dans les activités de tous les jours. Une tâche peut prendre davantage de temps, nécessiter un appui ou ne plus aboutir dans les conditions habituelles. Armand veut décrire ses recherches dans les placards. La médecin peut rapprocher ce récit du courrier évoqué par Jeanne et examiner où une aide aurait une utilité.
 
-## Comment cette difficulté se manifeste
+## Comment décrire le retentissement d’une difficulté de mémoire ?
 
-La Haute Autorité de santé recommande de recueillir le vécu de la personne et, avec son accord dans le cadre du suivi, le point de vue de l’entourage. Jeanne a remarqué un délai et Armand a passé une soirée à chercher le plan. Chacun dispose d’une information que l’autre n’a pas. Ils peuvent les apporter au rendez-vous sans devoir s’accorder d’avance sur leur interprétation. C’est l’équipe de soins qui examine ce qu’elles changent au suivi.
+### Une tâche prend un détour
 
-## Deux sujets, deux réponses possibles
+Le temps et les étapes supplémentaires comptent même si on finit par retrouver l’objet.
 
-Armand peut demander que la médecin reprenne d’abord la difficulté qu’il a notée. Elle peut vérifier avec lui s’il lui serait utile d’avoir un endroit visible pour ce qui est en cours, avec un repère qu’il puisse lire depuis sa place à table. Une ergothérapeute peut, si l’équipe le propose, examiner avec lui comment les objets sont utilisés dans le logement et quelles adaptations il souhaite essayer. L’intérêt de l’essai se juge sur ce qu’il lui permet de faire au quotidien.
+**Exemples concrets**
 
-Le courrier a sa propre échéance. Armand peut préciser ce qu’il accepte que Jeanne lise avec lui. Si un rendez-vous pour revoir l’organisation est proposé, la médecin peut lui en donner un résumé et le contact à utiliser si l’aide ne suffit pas. Jeanne peut dire ce qu’elle a déjà fait et jusqu’où elle peut s’engager. Une échéance urgente et un appui régulier ne demandent pas forcément les mêmes personnes.
+- Armand ouvre plusieurs placards pour retrouver une carte rangée chez lui.
+- Une personne retrouve un document après avoir vidé deux tiroirs et n’a plus le temps de le déposer au guichet.
+
+### Les étapes ne demandent pas le même soutien
+
+Lire un courrier, retenir une échéance et reprendre la réponse le lendemain peuvent poser des difficultés différentes.
+
+**Exemples concrets**
+
+- Jeanne a repéré la date de l’enveloppe ; Armand veut garder sa place dans la réponse.
+- Une personne peut écrire sa lettre une fois assise et avoir besoin qu’on l’aide à repérer le dossier où la ranger.
+
+### Deux récits éclairent deux conséquences
+
+La personne et le proche n’observent pas toujours les mêmes moments d’une activité.
+
+**Exemples concrets**
+
+- Armand décrit ses recherches dans ses propres affaires ; Jeanne peut préciser quand une démarche est restée en attente.
+- Au suivi, quelqu’un dit combien d’efforts prend la préparation d’un rendez-vous tandis que son proche décrit les appels nécessaires pour le confirmer.
+
+## 3 techniques pour préparer un suivi à partir du quotidien
+
+### 1. Reconstituer une seule tâche
+
+Situer la difficulté dans une action concrète.
+
+**Exercice pratique**
+
+- Choisissez une recherche ou une démarche récente.
+- Dites ce que vous vouliez faire et à quelle étape il a fallu de l’aide.
+- Précisez ce qui a pu être fait malgré la difficulté.
+
+Le professionnel peut discuter d’un appui adapté à cette étape plutôt que d’une aide globale.
+
+### 2. Organiser les prises de parole
+
+Faire entendre l’expérience de la personne et, si elle le souhaite, un complément du proche.
+
+**Exercice pratique**
+
+- Demandez quels exemples elle veut aborder.
+- Laissez-la commencer dans l’ordre qu’elle choisit.
+- Ajoutez avec son accord le fait concret qui manquait.
+
+La consultation recueille plusieurs informations sans que l’une efface l’autre.
+
+### 3. Choisir un essai à réexaminer
+
+Vérifier l’utilité d’un soutien entre deux rendez-vous.
+
+**Exercice pratique**
+
+- Convenez d’une modification limitée pour les papiers en cours.
+- Identifiez avec l’équipe qui peut aider si le problème persiste.
+- Rapportez à la prochaine visite ce qui est plus simple et ce qui reste difficile.
+
+L’équipe peut réviser sa proposition à partir d’un essai vécu chez soi.
 
 ## Le coin gauche du buffet
 
 Armand fait entrer le courrier dans la conversation en demandant à Jeanne de rappeler la date figurant sur l’enveloppe. Ils la reprendront ensemble le lendemain. La médecin propose de transmettre au médecin traitant, avec son accord, sa demande d’un appui à domicile pour mieux organiser ses papiers. D’ici là, Armand veut essayer de poser les affaires en cours au coin gauche du buffet ; à droite il y a la boîte à pain et son couvercle remue trop. Au moment de quitter le cabinet, il replie sa feuille en deux. Jeanne a attendu qu’il la ramasse.
+
+---
+
+**Conclusion**
+
+Le coin gauche du buffet donne à Armand une façon d’essayer l’aide dont il vient de parler. La date sur l’enveloppe et la carte égarée restent deux informations différentes, utiles à une même consultation.

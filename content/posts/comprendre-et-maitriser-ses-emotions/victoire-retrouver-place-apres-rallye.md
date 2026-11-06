@@ -32,16 +32,81 @@ Victoire revient vers l’entrée. Le groupe l’invite à préparer un autre pa
 
 ## Tenir compte de ce qui compte pour la personne
 
-Les objectifs d’une prise en charge de la boulimie nerveuse peuvent inclure la réduction des crises et des compensations, l’état physique et psychique, et ce qui redevient possible dans les relations ou les activités.
+Le suivi de la boulimie nerveuse peut porter à la fois sur les crises et les compensations, l’état physique et psychique et ce qui redevient possible dans la vie quotidienne. Ces éléments peuvent évoluer différemment. Le rallye donne à Victoire l’occasion de retrouver ce qu’elle aime dans un plan : la remarque précise d’une personne qui essaie de se repérer. Une photo peut encore la préoccuper et rester un sujet de consultation.
 
-## La place que la photo reprend après l’accueil
+## Comment une activité retrouve-t-elle de la place pendant le suivi ?
 
-Victoire apprécie d’entendre qu’un participant a trouvé le passage derrière la gare grâce à la vitrine. Quand le groupe propose une photo, elle se surprend à se demander de nouveau comment elle se tient. Elle demande alors à Simon de prendre l’accueil un moment. La satisfaction et l’effort que lui demande la photo se succèdent dans la même matinée. Une activité reprise peut donner à la consultation des exemples concrets de ce qui l’aide ou de ce qui lui coûte de l’effort. Les soignants poursuivent l’évaluation du trouble et de son évolution avec elle. Une journée qui se passe bien fait partie de ce récit, au même titre que les difficultés qui restent à aborder.
+### Un intérêt redevient perceptible
 
-## Garder des choix pour les prochaines semaines
+On peut voir le retour d’une activité dans un geste ou une question qui compte pour la personne.
 
-Victoire se donne du temps avant d’accepter une nouvelle responsabilité. Elle sait qu’elle peut demander à Lila de reparler de la photo, de la réunion et du relais dont elle a eu besoin. Elle a également un prochain rendez-vous, où elle voudrait reprendre ses préoccupations autour du corps, l’évolution des crises et les questions de suivi physique convenues après le malaise. Ces sujets peuvent être discutés avec des personnes différentes. Simon peut lui dire ce qu’il a aimé en tenant l’accueil et garder ses propres projets. Victoire peut choisir ce qu’elle apporte au groupe et ce qu’elle garde pour sa consultation. Le premier trajet est terminé. La suite de ses soins se construit avec l’équipe.
+**Exemples concrets**
+
+- Victoire demande à une participante par où elle est arrivée et découvre comment le plan l’a aidée.
+- Elle retient la remarque sur la vitrine pour la prochaine réunion.
+
+### Participer peut inclure un relais
+
+La reprise peut demander une aide déjà convenue, même lors d’une activité qui se déroule bien.
+
+**Exemples concrets**
+
+- Victoire s’assoit un moment avec Lila pendant que Simon reprend la table.
+- En revenant, elle voit que son frère a laissé les plans orientés comme elle le souhaitait.
+
+### La suite du projet reste à choisir
+
+Une réussite collective et des difficultés persistantes peuvent conduire à des décisions séparées.
+
+**Exemples concrets**
+
+- Victoire veut présenter les remarques du rallye avant de choisir son rôle dans le suivant.
+- Elle pense encore à la photo et garde la question pour Nora plutôt que de tirer une conclusion de la journée.
+
+## 3 techniques pour garder une activité choisie sans se fixer une preuve de guérison
+
+### 1. Repérer ce qui a retrouvé une place
+
+Nommer un gain dans la vie ordinaire à côté des objectifs de santé.
+
+**Exercice pratique**
+
+- Choisissez un moment où vous avez retrouvé un intérêt ou un lien.
+- Décrivez ce qui a rendu ce moment possible.
+- Si vous le souhaitez, présentez-le au prochain entretien avec une difficulté encore présente.
+
+Un bilan peut inclure les différentes évolutions d’une même période.
+
+### 2. Revoir un relais après l’avoir essayé
+
+Ajuster le soutien à partir d’une situation vécue.
+
+**Exercice pratique**
+
+- Demandez au proche comment s’est passé le passage de main.
+- Dites quel geste vous a permis de reprendre votre place.
+- Convenez de ce que vous voudrez garder ou changer si le projet revient.
+
+Un appui peut rester disponible sous une forme qui convient aux deux personnes.
+
+### 3. Proposer une contribution limitée pour la suite
+
+Faire une nouvelle place au projet selon ce que vous voulez y apporter.
+
+**Exercice pratique**
+
+- Repérez une tâche qui a un intérêt propre pour vous.
+- Proposez cette contribution avec un moment pour la remettre ou en discuter.
+- Fixez un autre temps pour décider de l’engagement plus large.
+
+Le projet avance et votre accord reste proportionné à ce que vous pouvez décider aujourd’hui.
 
 ## La vitrine reste sur la carte
 
 Victoire range le porte-cartes et glisse son plan dans son sac avec le disque qu’elle voulait faire écouter à Simon. Elle note le repère de la vitrine pour la réunion et envoie à Lila le moment où elle pourra venir présenter leurs observations. Elle repense à la photo et garde cette question pour Nora. Simon lui demande s’ils ont le temps d’écouter le morceau en rentrant. Elle aimerait surtout entendre comment il se termine.
+
+---
+
+**Conclusion**
+
+Le premier rallye a trouvé son chemin entre la gare et le marché. Victoire en rapporte une remarque à l’équipe et garde la question de la photo pour Nora. Elle peut revenir à ce qu’elle aime dans le projet avant de décider de la place qu’elle voudra prendre ensuite.
