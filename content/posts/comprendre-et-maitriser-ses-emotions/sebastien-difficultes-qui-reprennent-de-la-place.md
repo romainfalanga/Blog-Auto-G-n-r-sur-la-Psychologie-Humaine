@@ -34,14 +34,79 @@ Quand Anaïs vient le chercher, Sébastien lui dit que la photo du groupe a ét�
 
 Dans la dysmorphophobie, la force des préoccupations et de la conviction peut varier, et la gêne peut redevenir importante après des moments plus faciles. Un incident d’image et ses conséquences peuvent être décrits sans en faire l’unique cause de ce qui survient ensuite. Anaïs entend que le problème de partage a reçu une réponse et que l’inquiétude s’est aussi imposée à la boulangerie. Le suivi permet de situer ce qui a changé, ce qui se répète et la manière dont cela retentit sur les activités. Une seule semaine ne dit pas comment évoluera le soin.
 
-## Un montage réussi et une course abandonnée
+## Comment la gêne peut-elle revenir dans un autre lieu ?
 
-En voyant les panneaux assemblés, Malik peut savoir que Sébastien a fait une partie du travail prévu. Camille, au téléphone le dimanche soir, a entendu que son frère avait déjà mangé. Ni l’un ni l’autre ne sait ce qui s’est passé devant la boulangerie. Sébastien se souvient du bruit de la porte à chaque arrivée et du soulagement de s’en être éloigné. Il remarque aussi que ce soulagement n’a pas duré jusqu’au dîner. Ce contraste l’aide à parler de ce qu’il souhaite retrouver en dehors du théâtre.
+### Une journée de travail qui se termine
 
-## Donner une suite au rendez-vous
+Une activité accomplie peut coexister avec un trouble encore présent.
 
-L’équipe peut reprendre avec Sébastien les situations où l’inquiétude a augmenté et discuter avec lui du suivi qui convient. Il peut demander ce qu’il fera s’il a besoin d’en parler avant la prochaine séance et retenir un objectif de quotidien qui compte pour lui. Au collectif, il lui reste à choisir s’il prend une tâche supplémentaire ou s’il garde la retouche déjà prévue. Il peut choisir en fonction du temps dont il dispose et de sa disponibilité, sans promettre qu’il se sentira mieux d’ici mercredi. Le choix de l’album peut encore attendre.
+**Exemples concrets**
+
+- Les panneaux sont montés à la fin du samedi.
+- Une réunion peut se terminer comme prévu sans que le reste de la journée soit aussi accessible.
+
+### Une difficulté hors du contexte attendu
+
+La crainte du regard peut s’imposer dans un lieu sans lien avec l’événement précédent.
+
+**Exemples concrets**
+
+- Le lendemain, Sébastien passe devant la boulangerie sans entrer.
+- Quelqu’un peut redouter l’attente dans un commerce alors qu’aucune image n’y est prévue.
+
+### Une trace différente selon l’interlocuteur
+
+Les personnes présentes voient chacune une partie du quotidien.
+
+**Exemples concrets**
+
+- Malik a vu le travail fini et Camille entend seulement que son frère a déjà mangé.
+- Un professionnel peut découvrir au rendez-vous que les sorties se sont réduites en dehors du travail.
+
+## 3 techniques pour parler d’un retour de la gêne
+
+### 1. Mettre côte à côte deux moments
+
+Décrire une fluctuation que le seul résultat ne montre pas.
+
+**Exercice pratique**
+
+- Retenir une activité accomplie.
+- Nommer la course à laquelle on a renoncé.
+- Raconter ce qui a pesé dans chaque lieu.
+
+L’équipe peut apprécier le changement dans plusieurs domaines.
+
+### 2. Préciser la suite avec l’équipe
+
+Convenir d’un moyen de revenir sur une aggravation.
+
+**Exercice pratique**
+
+- Demander quand aura lieu le prochain point.
+- Vérifier comment joindre le centre si la gêne augmente.
+- Garder l’information accessible.
+
+Le relais peut être plus simple à demander si le quotidien se réduit.
+
+### 3. Répondre à l’engagement en cours
+
+Choisir une charge de travail réaliste pour mercredi.
+
+**Exercice pratique**
+
+- Repérer la tâche déjà prévue.
+- Dire si l’accueil peut être pris en plus.
+- Confirmer à Malik ce qu’on assurera.
+
+Le collectif peut répartir la répétition avec une réponse claire.
 
 ## Garder la retouche du mercredi
 
 Anaïs et Sébastien reprennent leur objectif. Il veut retrouver du temps dans les journées où l’inquiétude prend toute la place. Ils conviennent d’un entretien le jeudi de la semaine suivante et elle lui rappelle comment joindre le centre si la gêne augmente avant. Dans l’escalier, il répond à Malik qu’il gardera la retouche de mercredi à dix-sept heures et laissera l’accueil à quelqu’un d’autre. Il note la date du suivi dans son agenda. En repartant, il achète un chausson aux pommes au kiosque du tram, surtout parce qu’il n’en avait pas mangé depuis longtemps.
+
+---
+
+**Conclusion**
+
+Le montage réussi et la course abandonnée apportent deux informations différentes au suivi. Sébastien garde sa place sur la retouche de mercredi et laisse l’accueil à quelqu’un d’autre. Inès a, elle aussi, des limites de disponibilité.

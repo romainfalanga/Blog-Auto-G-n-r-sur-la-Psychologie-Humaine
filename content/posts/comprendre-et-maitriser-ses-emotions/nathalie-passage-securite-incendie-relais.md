@@ -1,5 +1,5 @@
 ---
-title: Quand un danger dans l’immeuble demande un relais immédiat
+title: Quand l’accès au logement compte dans une urgence
 description: Une voisine signale de la fumée dans l’escalier. Nathalie appelle les
   pompiers et leur décrit l’accès à son logement.
 slug: nathalie-passage-securite-incendie-relais
@@ -34,14 +34,79 @@ Quand les pompiers l’informent que la situation est maîtrisée, ils lui disen
 
 Quand des affaires rétrécissent les passages ou bloquent une porte, elles peuvent gêner la sortie et l’arrivée des secours. Cela ne dit rien de la cause d’un incident donné. Dans la scène, la fumée vient d’une partie commune et Nathalie a besoin de consignes immédiates. En France, pour un incendie ou un danger immédiat de cette nature, on appelle le 18 ou le 112 et on suit les indications des secours. Un escalier enfumé ne doit pas être emprunté. L’alerte passe avant le tri ou la tentative de récupérer des objets.
 
-## Deux faits distincts à raconter
+## Comment l’encombrement peut-il gêner les secours et la circulation ?
 
-Nathalie sait où la fumée a été signalée et peut expliquer l’accès à sa porte. Elle ne sait pas ce qui s’est passé en bas tant que les pompiers ne le lui ont pas précisé. En attendant, elle voit le passage dégagé que Nora a examiné avec elle. Il lui reste des affaires à décider dans le séjour, et la table n’a retrouvé qu’une partie de son usage. Ce matin, la situation exige des secours et l’entrée est un fait utile à leur communiquer. Plus tard, l’inquiétude que l’incident laisse à Nathalie pourra être discutée avec son équipe sans tirer de conclusion sur la cause du danger.
+### Un passage ralenti depuis la pièce de vie
 
-## Prévenir tout de suite, reprendre le plan après l’alerte
+Même quand une porte s’ouvre, le trajet qui y conduit peut demander un détour. Cette gêne compte lorsque le temps ou les mouvements sont limités.
 
-Un danger immédiat demande un appel aux secours, même si la personne est déjà suivie pour une difficulté liée à son logement. Une fois la situation sécurisée, Nathalie peut reprendre avec Nora le plan prévu pour l’accès et demander une réévaluation si quelque chose a changé. Agnès peut rester disponible après l’alerte ou reporter leur rendez-vous. Elle n’a pas à pénétrer dans l’immeuble pour vérifier un passage ou prendre des affaires. En dehors d’une urgence, si une porte ou un trajet devient difficile à utiliser, la personne peut le signaler rapidement à l’équipe ou aux services compétents.
+**Exemples concrets**
+
+- Avant la visite de Nora, Nathalie devait faire un écart pour rejoindre le séjour depuis l’entrée.
+- Dans un autre logement, des affaires rangées près d’un fauteuil obligent à dégager le passage avant qu’une personne puisse s’en lever avec de l’aide.
+
+### Une porte dont l’ouverture est réduite
+
+L’encombrement peut gêner l’ouverture ou l’entrée des secours. La situation de la porte constitue donc un fait utile à connaître et à signaler.
+
+**Exemples concrets**
+
+- Nathalie peut dire au téléphone que sa porte d’entrée s’ouvre complètement.
+- Un carton posé derrière une porte peut l’empêcher de s’ouvrir autant que d’habitude.
+
+### Un accès intérieur à examiner après un incident extérieur
+
+Un événement dans une partie commune peut rendre la question de l’accès importante sans que les objets en soient la cause. Les secours donnent les consignes selon la situation.
+
+**Exemples concrets**
+
+- La fumée est dans l’escalier. Nathalie reste chez elle sur instruction des pompiers.
+- Après la levée de l’alerte, Nora et Nathalie peuvent vérifier si l’accès au séjour est toujours resté libre.
+
+## 3 techniques pour donner l’alerte et reprendre la prévention
+
+### 1. Appeler dès le danger
+
+Passer immédiatement le relais aux secours en cas d’incendie ou de danger immédiat de cette nature.
+
+**Exercice pratique**
+
+- En France, appelez le 18 ou le 112 dès l’alerte.
+- Donnez l’adresse et dites où la fumée ou le danger a été signalé.
+- Suivez les consignes des secours. N’empruntez pas un escalier enfumé.
+
+Les secours peuvent décider de la conduite adaptée à ce qui se passe.
+
+### 2. Décrire l’accès depuis un endroit sûr
+
+Fournir les informations utiles pendant l’appel aux secours.
+
+**Exercice pratique**
+
+- Précisez où vous vous trouvez.
+- Dites si la porte ou le passage présente un obstacle dont vous avez connaissance.
+- Restez disponible pour les questions des secours et suivez leurs indications.
+
+Les intervenants disposent de faits pour situer l’accès au logement.
+
+### 3. Revoir le trajet après l’alerte
+
+Vérifier avec l’équipe que l’accord sur le passage reste applicable.
+
+**Exercice pratique**
+
+- Attendez que les secours aient déclaré la situation maîtrisée.
+- Dites à votre équipe ce qui a été observé au sujet de l’accès.
+- Convenez d’une nouvelle vérification et de qui appeler si le passage se rétrécit.
+
+L’incident peut aider à préciser le plan de prévention à partir de faits.
 
 ## L’appel d’après
 
 Nathalie retrouve Agnès dehors quand les pompiers ont dit qu’elle pouvait sortir. Elles reportent la lecture du texte à l’enregistrement prévu à la médiathèque. Nathalie appelle ensuite Nora. Elle lui dit que l’entrée est toujours dégagée et lui raconte la question posée par les secours. Elles conviennent de revoir ensemble les accès lors de la prochaine visite, qui était déjà prévue cette semaine. Elle souhaite toujours parler à Maud des livres du jeudi et de ce qu’elle ressent à l’idée de se séparer d’un objet. Elle garde leur rendez-vous. En rentrant, elle retrouve le lexique ouvert à la page du cordonnier.
+
+---
+
+**Conclusion**
+
+Nathalie a pu décrire sa porte et suivre les consignes parce qu’elle a passé le relais dès le signalement de fumée. Elle reprendra le trajet avec Nora une fois l’alerte levée. Pour Agnès, le premier appui consiste à respecter les consignes et le moment où les secours lui disent qu’elle peut rejoindre sa tante.

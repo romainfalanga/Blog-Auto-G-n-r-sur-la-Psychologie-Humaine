@@ -6,15 +6,15 @@ slug: timothee-faire-le-point-au-dela-bonne-seance
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Timothée
-sujet: Repères personnels pour le suivi
+sujet: Évolution inégale des difficultés
 contexte: Le dimanche matin, à la table de la cuisine, puis devant le garage
 tags:
 - Dysthymie
 - Trouble dysthymique
 - 6A72
-- Évolution du quotidien
+- Évolution des symptômes
+- Retentissement quotidien
 - Suivi dans la durée
-- Projet révisable
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -33,14 +33,79 @@ Il aimerait pouvoir dire que le violon lui a donné de l’énergie pour toute l
 
 Avec des symptômes dépressifs durables, les changements de fonctionnement et les changements d’humeur ne vont pas toujours au même rythme. Le suivi peut porter sur l’énergie, la gêne dans la vie courante, la possibilité de demander de l’aide et ce que la personne souhaite faire. Un atelier réussi apporte une information sur ce qu’elle a pu faire dans ces conditions. Un lendemain difficile en apporte une autre. Il est utile de parler des deux avec l’équipe, ainsi que de ce que la personne attend encore de ses soins. Timothée n’a pas besoin de réduire son expérience au mot « mieux ».
 
-## Ce qui a changé et ce qui demande encore de l’aide
+## Comment faire le point quand les changements avancent à des rythmes différents ?
 
-Timothée peut décrire la gêne du dimanche sans avoir à effacer le plaisir bref de la veille. Dans le cabinet de Maud, il a réussi à poser une question qu’il ramenait souvent chez lui sans la dire. À la résidence, il a toujours besoin de reprendre son souffle avant certains passages de consignes. Il remarque aussi que les repas ne lui demandent pas chaque jour le même effort. Le nouvel horaire lui permet de parler plus facilement en séance. Au prochain point, il veut encore discuter du coût des journées de travail. Il a aussi une question d’atelier à poser à Sacha.
+### Une capacité retrouvée dans un cadre précis
 
-## Fixer la suite en tenant compte de chaque accord
+Un changement peut se voir dans les conditions où la personne a pu agir, sans se retrouver partout le lendemain.
 
-Timothée peut apporter les quelques lignes à son prochain rendez-vous et demander avec ses soignantes si le suivi répond à ce qui lui importe. Le contact convenu reste disponible si le retrait ou le coût des gestes courants l’inquiètent de nouveau. Pour Sacha, la réponse peut porter sur le sujet qu’ils veulent reprendre et sur la date qui leur convient à tous deux. Ils peuvent s’accorder sur un deuxième essai sans s’engager pour d’autres. Timothée peut garder des moments de garage où il ne montre rien à personne.
+**Exemples concrets**
+
+- Timothée tient une demi-heure avec Sacha et trouve de l’intérêt à son dessin.
+- Il parle plus facilement chez Maud quand le rendez-vous a lieu avant sa tournée.
+
+### Une gêne qui reste dans d’autres moments
+
+Certains gestes gardent un coût même lorsqu’une activité ou un contact de soin se passe mieux.
+
+**Exemples concrets**
+
+- Le dimanche, il reste longtemps devant sa tasse sans savoir par quoi commencer.
+- À la résidence, certains passages de consignes lui demandent encore de s’arrêter pour reprendre le fil.
+
+### Une possibilité de demander de l’aide plus claire
+
+Savoir qui contacter peut constituer un changement du quotidien même quand l’humeur reste basse.
+
+**Exemples concrets**
+
+- Timothée connaît le relais convenu s’il s’inquiète de nouveau.
+- Il peut expliquer à la docteure ce que l’horaire a changé sans résumer toute sa semaine par un seul mot.
+
+## 3 techniques pour suivre plusieurs aspects du quotidien dans la durée
+
+### 1. Trois observations distinctes
+
+Préparer un bilan qui rende visibles les progrès et la gêne restante.
+
+**Exercice pratique**
+
+- Nommez ce qui est devenu plus accessible.
+- Ajoutez ce qui demande toujours beaucoup d’effort.
+- Dites ce que vous souhaitez rediscuter.
+
+Le suivi peut porter sur plusieurs évolutions à la fois.
+
+### 2. Un relais que l’on retrouve
+
+Préserver le contact quand l’effort quotidien recommence à monter.
+
+**Exercice pratique**
+
+- Vérifiez où sont les coordonnées convenues.
+- Repensez au changement qui vous avait fait appeler.
+- Utilisez le relais si une nouvelle aggravation vous inquiète.
+
+Un contact préparé peut faciliter la demande d’aide au moment utile.
+
+### 3. Un projet choisi pour lui-même
+
+Donner une suite à une activité selon ce qu’elle apporte aux personnes concernées.
+
+**Exercice pratique**
+
+- Choisissez le sujet que vous aimeriez reprendre.
+- Vérifiez la disponibilité de l’autre.
+- Fixez seulement l’engagement que vous souhaitez tenir.
+
+L’atelier peut continuer pour l’apprentissage de Sacha et de Timothée.
 
 ## Un samedi de plus sur le calendrier
 
 Timothée écrit à Sacha qu’il veut bien le revoir une fois. Le violon d’étude sera retourné à Nora d’ici là. Ils pourront comparer l’ancien de Timothée avec les notes que Sacha aura prises en cours. Sacha répond qu’il viendra avec son dessin et qu’il est libre le samedi proposé, deux semaines plus tard. Timothée inscrit l’heure et garde son rendez-vous au cabinet sur une autre ligne. Nora passe devant le garage au moment où il remet le feutre sous le pied de la chaise. Il lui raconte le dessin de Sacha et lui dit que ce matin lui paraît lourd. Elle lui laisse la chaise jusqu’à la prochaine rencontre. Au fond du garage, il a laissé un vieil étui qu’il aimerait finir de recoller pour lui. Il l’ouvre pour voir où il en était et le laisse ouvert. Pour ce matin, il ira d’abord refaire du café.
+
+---
+
+**Conclusion**
+
+Timothée accepte un deuxième essai et garde le prochain point de soin. La fatigue du dimanche, le plaisir de la veille et les mots retrouvés chez Maud comptent chacun. Nora peut entendre le moment qu’il choisit de raconter.

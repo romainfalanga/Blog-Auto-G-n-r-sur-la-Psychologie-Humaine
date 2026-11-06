@@ -34,14 +34,79 @@ Le bénévole rassemble des sacs en papier. Nathalie a déjà tendu la main vers
 
 Le trouble d’accumulation compulsive peut s’accompagner d’envies répétées de rapporter des objets, achetés ou reçus gratuitement. L’amassement peut aussi se faire plus passivement, par exemple quand le courrier ou les brochures s’accumulent. Le désir d’acquérir quelque chose peut procurer du plaisir ou sembler répondre à un usage pressant. La question clinique porte sur un fonctionnement qui se répète et sur ses conséquences, en lien avec la difficulté à se séparer des objets. S’arrêter devant des livres donnés est courant. Pour Nathalie, cette envie prend son sens parmi d’autres arrivées et en regard de la place devenue difficile à utiliser.
 
-## Le lecteur qu’elle imagine, l’étagère qu’elle oublie
+## Comment l’envie de rapporter des objets gratuits prend-elle de l’ampleur ?
 
-Nathalie sait ce qu’elle ferait aujourd’hui avec le lexique. Les autres titres lui font penser à un lecteur qu’elle pourrait recontacter ou à un cadeau qu’elle ferait un jour. À la librairie, penser à quelqu’un devant un titre faisait partie de son métier. Chez elle, certains livres récupérés ainsi sont restés fermés, parce qu’une nouvelle lecture ou un autre projet a pris leur place. Le bénévole voit les volumes rapprochés. Il ne sait rien du bord de la table retrouvé lundi. Nathalie sent les deux réalités se rejoindre seulement quand elle lève la tête et regarde l’heure.
+### Une occasion qui s’élargit en chemin
 
-## Prendre le temps de retrouver l’usage envisagé
+Un objet peut susciter une envie précise. Les suivants peuvent sembler faire partie de la même occasion avant que la personne ait pensé à chacun.
 
-Nathalie peut reprendre la raison qui l’a fait s’arrêter et décider de ce qui a réellement une place chez elle aujourd’hui. Elle peut aussi en parler avec Maud, la psychologue de l’équipe, en racontant le moment où les cinq autres livres ont rejoint le premier. Ce genre d’observation peut aider à ajuster le soin, que le choix ait été facile ou qu’elle soit repartie avec tout. Il n’y a pas lieu de demander à Agnès de contrôler ses achats. Sa nièce peut lui rappeler la répétition ou lui dire à quelle heure elle devra partir, puis la laisser décider.
+**Exemples concrets**
+
+- Nathalie s’arrête pour le lexique puis rapproche cinq livres du même éditeur.
+- Quelqu’un prend une revue sur un sujet qu’il suit puis envisage la caisse entière pour garder la série.
+
+### Des usages possibles qui apparaissent très vite
+
+L’objet peut rappeler une personne ou faire surgir un projet. Une utilité imaginée et l’usage réel au retour ne coïncident pas toujours.
+
+**Exemples concrets**
+
+- Le lexique a une place dans la préparation du texte de Nathalie. Les photos de ferronneries lui rappellent un client qu’elle ne voit plus.
+- Un lot de boîtes semble parfait pour des fournitures dont la personne ne se sert guère.
+
+### L’espace qui sort du champ de la décision
+
+Sur le moment, la perspective de disposer d’un objet peut prendre plus de place que la question de son rangement. Le retentissement se voit à force de retours semblables.
+
+**Exemples concrets**
+
+- En voyant les sacs du bénévole, Nathalie tend la main avant de repenser au bord de table retrouvé lundi.
+- Un livre prévu pour une lecture reste près de l’entrée parce que les précédents occupent déjà l’étagère.
+
+## 3 techniques pour examiner une envie d’acquérir
+
+### 1. Revenir à l’usage du jour
+
+Distinguer le projet immédiat de ce qui est apparu en regardant les objets.
+
+**Exercice pratique**
+
+- Rappelez-vous la raison de votre arrêt.
+- Demandez-vous lequel des objets servirait à un projet déjà prévu.
+- Voyez où il pourrait rester sans gêner l’usage d’un espace.
+
+Ce détour peut aider à choisir de façon plus délibérée.
+
+### 2. Repérer le moment où l’envie s’étend
+
+Trouver un exemple pour le suivi plutôt qu’un bilan des objets rapportés.
+
+**Exercice pratique**
+
+- Après la sortie, notez le premier objet remarqué.
+- Décrivez quand d’autres affaires ont commencé à vous attirer.
+- Racontez ce passage au rendez-vous si vous souhaitez le travailler.
+
+Un moment précis peut aider la psychologue à comprendre ce qui rend la décision difficile.
+
+### 3. Retrouver l’activité déjà convenue
+
+Préserver un autre projet pendant que l’envie d’acquérir reste présente.
+
+**Exercice pratique**
+
+- Relisez l’heure du rendez-vous ou l’activité prévue.
+- Dites à la personne quand vous pensez la rejoindre.
+- Laissez-lui la possibilité de commencer seule si vous êtes en retard.
+
+L’acquisition peut rester une décision personnelle sans transformer le proche en surveillant.
 
 ## Le lexique ouvert à la bonne page
 
 Nathalie prend le lexique qu’elle va utiliser et remet les cinq autres livres à leur place. En sortant, elle éprouve encore le désir d’y retourner. Elle arrive avec dix minutes de retard. Agnès lance le chronomètre et Nathalie dit « chausse-pied » à la place de « tablier » et ne s’en aperçoit qu’en voyant Agnès relever la tête. Elles rient, recommencent et barrent une phrase qui faisait double emploi. En rentrant, Nathalie range le lexique à l’endroit qu’elle avait en tête sur le buffet. Dans son carnet de rendez-vous, elle écrit « D’abord un, puis six. » Elle veut pouvoir raconter à Maud le moment entre les deux.
+
+---
+
+**Conclusion**
+
+Nathalie repart avec le lexique, puis retrouve Agnès pour la lecture. L’envie des cinq autres titres persiste assez pour qu’elle souhaite en parler avec Maud. Sa nièce peut tenir leur rendez-vous tout en laissant Nathalie décider de ce qu’elle rapporte.

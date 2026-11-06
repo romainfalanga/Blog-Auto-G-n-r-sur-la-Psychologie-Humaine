@@ -34,14 +34,79 @@ Nora annonce qu’elle propose la photo dont ils ont parlé, pour le seul album 
 
 Une activité choisie peut garder son intérêt pour une personne qui éprouve une inquiétude liée à la dysmorphophobie. Sébastien pense encore à ce que d’autres pourraient remarquer de lui et il a envie de participer à cette image d’équipe. Les deux éléments peuvent exister au même moment. Il n’a pas à attendre une certitude sur son apparence pour exprimer sa préférence, et son choix peut aussi être de partir. Dans le suivi, l’équipe s’intéresse à ce que deviennent sa détresse, son quotidien et les activités qui comptent pour lui, bien au-delà de cette photographie.
 
-## L’hésitation et le souvenir qu’il voudrait garder
+## Comment l’inquiétude coexiste-t-elle avec l’envie de participer ?
 
-Nora voit que Sébastien n’a pas répondu tout de suite et qu’il lui pose une question sur la place de la fenêtre. Elle peut lui répondre à propos du cadre. Elle ignore le temps qu’il a passé à imaginer le moment et les jours où il ne serait pas resté. Lui reconnaît l’envie de quitter la salle qu’il connaît déjà. Il se rappelle aussi le rire au passage de la lettre et les morceaux de carton qu’Inès ramenait pour protéger le sol. Ce qu’il voudrait retrouver de la soirée est lié au travail fait avec ces gens.
+### Une envie qui reste malgré la crainte
 
-## Préparer la réponse et pouvoir changer d’avis
+L’importance d’un souvenir peut subsister pendant que revient la préoccupation.
 
-Nora peut préciser l’usage convenu et attendre les réponses avant de faire la photo. Sébastien peut demander un temps, accepter pour l’album ou décliner. Les personnes qui partent continuent à figurer dans les crédits du spectacle et peuvent souhaiter d’autres souvenirs. Si l’expérience soulève une difficulté, il peut en reparler dans le cadre du suivi, en décrivant autant ce qu’il voulait que ce qui l’a préoccupé. L’accord trouvé à l’atelier règle la question de l’image. La thérapie se poursuit avec l’équipe spécialisée.
+**Exemples concrets**
+
+- Sébastien veut une trace du travail et s’inquiète de ce qu’on remarquera de lui.
+- Quelqu’un peut avoir envie d’un moment d’équipe tout en hésitant à en être photographié.
+
+### Des raisons de rester et de partir
+
+L’hésitation peut mêler ce qui compte pour la personne et l’envie de s’éloigner.
+
+**Exemples concrets**
+
+- Sébastien envisage de rentrer à l’atelier et demande si la fenêtre entrera dans le cadre.
+- Une personne peut tenir à dire au revoir et vouloir quitter une salle devenue pénible.
+
+### Une participation qui garde ses limites
+
+Choisir une image peut dépendre de l’usage auquel on consent.
+
+**Exemples concrets**
+
+- Sébastien accepte pour l’album du collectif.
+- Une personne peut participer à un souvenir privé et laisser l’usage public pour une autre discussion.
+
+## 3 techniques pour choisir dans un moment qui compte
+
+### 1. Dire ce qu’on veut garder
+
+Identifier l’intérêt personnel du moment.
+
+**Exercice pratique**
+
+- Nommer le souvenir qu’on aimerait retrouver.
+- Demander si le décor fera partie du cadre.
+- Garder du temps pour écouter sa préférence.
+
+La réponse peut tenir compte de ce qui compte au-delà de l’inquiétude.
+
+### 2. Donner un accord précis
+
+Rendre la décision compréhensible à la personne qui photographie.
+
+**Exercice pratique**
+
+- Écouter l’usage proposé.
+- Dire oui, non ou demander un instant.
+- Préciser à quel usage vaut la réponse.
+
+Nora peut respecter les accords de chacun.
+
+### 3. Reprendre l’expérience avec le suivi
+
+Décrire une participation qui a encore demandé un effort.
+
+**Exercice pratique**
+
+- Dire ce qui a donné envie de rester.
+- Indiquer la gêne encore présente.
+- Raconter comment le choix a été fait.
+
+L’équipe peut situer ce moment dans un ensemble plus large.
 
 ## Un groupe devant les volets ouverts
 
 « Pour l’album, d’accord », dit Sébastien. Nora attend aussi les réponses des autres. Il propose de laisser la fenêtre dégagée et rejoint Malik près de la caisse. Le groupe se décale pour laisser visible l’homme à l’enveloppe. Quand Nora déclenche, l’inquiétude est toujours là. À la table des programmes, il écrit à Inès que le rire est parti au bon moment. Malik lui rappelle qu’ils viendront récupérer le panneau mardi. Sébastien laisse son exemplaire du plan à la salle et emporte un programme.
+
+---
+
+**Conclusion**
+
+Le décor a joué et Sébastien participe à l’image qu’il a choisie. La crainte est encore là lorsque Nora déclenche. La suite du suivi regardera aussi les moments qui ne figurent dans aucun album.

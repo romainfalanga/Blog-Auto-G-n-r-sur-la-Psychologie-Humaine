@@ -67,7 +67,7 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-vingt-minutes-chez-elsa/">Peur de la rechute et limites du soutien d’un proche</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-vingt-minutes-chez-elsa/">Peur d’une rechute de schizophrénie entre deux rendez-vous</a></h3>
     <p class="parcours-resume">En apprenant que Nils a pris un rendez-vous, Elsa se demande si elle doit surveiller son téléphone toute la nuit. La peur d’une rechute de schizophrénie peut rendre la moindre information urgente aux yeux d’un proche. Leur échange clarifie ce que Nils lui demande ce soir et comment l’équipe reste joignable selon le plan convenu.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nils-vingt-minutes-chez-elsa/" class="parcours-link">Lire</a>
   </div>
@@ -79,13 +79,13 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-permanence-du-vendredi/">Peur d’être jugé au travail quand une demande est refusée</a></h3>
-    <p class="parcours-resume">Nils craint qu’un changement de planning fasse douter Matthieu de sa fiabilité. Lorsqu’on vit avec un trouble stigmatisé comme la schizophrénie, cette crainte peut peser sur des demandes professionnelles ordinaires. En revenant à l’heure de la livraison et au nombre de personnes présentes, Nils et Matthieu identifient la contrainte réelle et la possibilité de préparer la chronique autrement.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-permanence-du-vendredi/">Quand un imprévu bloque la recherche d’une autre solution</a></h3>
+    <p class="parcours-resume">Nils ne peut pas quitter la pépinière au moment où Renée tient sa permanence. Il revient plusieurs fois à la même idée de reportage avant de distinguer le but et le moyen. Certaines personnes qui vivent avec une schizophrénie rencontrent des difficultés pour réorganiser une tâche face à un imprévu. La question écrite donne à Nils une autre voie vers sa chronique.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-permanence-du-vendredi/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-question-sur-le-ticket/">Peur de perdre le fil et retour à la question essentielle</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-question-sur-le-ticket/">Quand les explications s’accumulent et font perdre la question</a></h3>
     <p class="parcours-resume">Quand Renée pose une autre question que prévu, Nils parle plus longtemps pour couvrir toutes les réponses possibles. La crainte d’un blanc peut pousser à charger une prise déjà exigeante. Les difficultés d’attention font partie de son vécu de la schizophrénie. Repartir d’une question précise et prévoir une autre forme de diffusion lui donnent une marge pour répondre.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nils-la-question-sur-le-ticket/" class="parcours-link">Lire</a>
   </div>
@@ -97,7 +97,7 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-une-date-au-crayon/">Se mettre la pression après une réussite et choisir son rythme</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nils-une-date-au-crayon/">Choisir le rythme d’un projet quand les besoins peuvent varier</a></h3>
     <p class="parcours-resume">Après sa première chronique, Nils voit son prénom à côté de quatre dates et se sent tenu de prouver qu’il peut revenir chaque semaine. Le rétablissement avec une schizophrénie peut inclure des projets qui ont du sens et des besoins variables selon les périodes. Choisir une cadence mensuelle lui permet d’expérimenter un engagement compatible avec son travail et son suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nils-une-date-au-crayon/" class="parcours-link">Lire</a>
   </div>

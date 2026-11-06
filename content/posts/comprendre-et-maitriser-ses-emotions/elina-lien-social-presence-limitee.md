@@ -6,15 +6,15 @@ slug: elina-lien-social-presence-limitee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Élina
-sujet: Reprise du lien sans présence imposée
+sujet: Retentissement social au moment de reprendre contact
 contexte: Le samedi du tirage, près de l’entrée de la halle
 tags:
 - Trouble de l’adaptation
 - Trouble de l’adaptation au stress
 - 6B43
-- Participation sociale
+- Retentissement social
+- Envie de lien
 - Présence choisie
-- Relais explicite
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -33,14 +33,79 @@ De retour près du banc, elle voit Lucien prendre un exemplaire dans la pile. Il
 
 Un lien peut reprendre avec un moment de présence qui a un début et une fin. Dans une période où les activités coûtent davantage, savoir qui prend la suite peut faciliter le choix de venir. Le contact avec les lecteurs permet à Élina d’entendre ce que les gens ont retenu de la page qu’elle a écrite. Elle peut aussi avoir besoin de quitter la table alors que la conversation lui plaît. Les difficultés peuvent varier selon les moments et les situations. Une présence plus courte peut garder sa valeur, même quand d’autres personnes préféreraient prolonger l’échange.
 
-## Le plaisir, les questions et l’heure
+## Comment la gêne et l’envie de lien se côtoient-elles à la table ?
 
-Élina a attendu longtemps ce moment. Elle voit maintenant la dame montrer les horaires à quelqu’un qui vient de la rejoindre. Elle entend aussi une question qui lui rappelle l’habitude de son ancien bureau, quand elle annonçait déjà le prochain numéro pour montrer qu’elle était prête. Le journal est en circulation. Le prochain ne fait pas encore l’objet d’un accord. Lucien peut voir qu’elle suit la discussion et regarde l’heure. Il ne sait pas qu’elle repense en même temps aux samedis où elle est rentrée sans avoir pu garder un peu de temps pour elle.
+### Un accueil qui compte
 
-## Passer une question à la bonne personne
+Le lien social peut reprendre par des moments précis au milieu d’une période où sortir demande encore de l’attention.
 
-Élina peut remercier la dame et confier la question du prochain numéro à Mireille, qui recueille les retours et connaît l’accord de l’équipe. Elles peuvent convenir d’un signe avant qu’Élina parte, ou elle peut simplement dire l’heure qu’il est. Si elle veut rester un peu, elle peut se demander à quoi elle souhaite consacrer ces minutes et si elle peut encore y prendre part de la façon qui lui convient. Lucien peut lui proposer un café un autre jour sans joindre cette invitation à la fin de la permanence. Laisser des exemplaires chez un commerçant peut être proposé et accepté séparément.
+**Exemples concrets**
+
+- Farida ouvre l’épreuve près du pot et reconnaît la couleur qu’Élina a décrite.
+- Lucien feuillette le journal et lui parle du crochet qu’ils connaissent tous les deux.
+
+### Plusieurs demandes arrivent à la fois
+
+Une activité plaisante peut demander plus de disponibilité quand les interlocuteurs ou les questions se multiplient.
+
+**Exemples concrets**
+
+- Une lectrice parle des horaires, puis revient accompagnée d’une personne qui demande le prochain numéro.
+- Quelqu’un qui vient aider un moment peut se retrouver à répondre sur place à une demande qui concerne toute l’équipe.
+
+### Partir au milieu d’un échange agréable
+
+Le temps choisi peut permettre de venir alors que rester sans limite serait plus difficile.
+
+**Exemples concrets**
+
+- Élina regarde l’heure tandis que la discussion l’intéresse encore.
+- Une personne peut écourter un repas qui lui plaît pour garder assez de temps avant une autre rencontre.
+
+## 3 techniques pour reprendre contact à son rythme
+
+### 1. Choisir un moment et une personne
+
+Définir ce qui donne envie de venir.
+
+**Exercice pratique**
+
+- Identifiez un échange auquel vous tenez.
+- Proposez une heure de passage.
+- Prévenez la personne qui tient le reste du créneau.
+
+La visite peut rester possible même si la matinée entière paraît trop chargée.
+
+### 2. Passer la question à la personne disponible
+
+Garder une place dans la conversation sans porter toutes les réponses.
+
+**Exercice pratique**
+
+- Écoutez la question jusqu’au bout.
+- Dites qui dispose de l’information ou recueille les retours.
+- Présentez cette personne avant de reprendre votre propre activité.
+
+La conversation peut se poursuivre avec l’interlocuteur qui a accepté ce rôle.
+
+### 3. Prévoir un autre rendez-vous
+
+Garder le lien en dehors de l’activité collective.
+
+**Exercice pratique**
+
+- Choisissez un moment où vous aimeriez revoir la personne.
+- Proposez un rendez-vous distinct de la permanence.
+- Convenez de vous prévenir en cas d’empêchement.
+
+Un échange choisi peut donner une autre occasion de se retrouver.
 
 ## La table reste occupée
 
 « Pour le prochain, demandez à Mireille, on commence avec celui-ci. » Élina dit au revoir à dix heures et demie. Mireille lui fait un signe et continue d’écouter la dame. Farida lui propose de garder les exemplaires qui resteront après la permanence, jusqu’au samedi suivant, avec quelques mots de lecteurs glissés sous le pot. Lucien invite Élina à reprendre leur café le lendemain. Elle lui propose onze heures et achète une part de tarte avant de rentrer. En passant devant le panneau, elle voit le coin qui bouge toujours. La pile, elle, est plus basse.
+
+---
+
+**Conclusion**
+
+Élina profite de la lecture et part à l’heure qu’elle avait choisie. Le journal continue de circuler, et Lucien la retrouvera le lendemain dans un autre cadre. La durée de la permanence dit peu de la qualité de ces rencontres.

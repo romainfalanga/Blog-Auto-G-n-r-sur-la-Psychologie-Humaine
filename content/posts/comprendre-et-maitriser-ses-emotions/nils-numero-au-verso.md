@@ -27,20 +27,83 @@ Il veut une réponse pour la prochaine fois qu’il remarquera un changement san
 
 Elsa s’installe sans enlever son sac. « Quand tu m’écris que tu dors mal, est-ce que je dois t’appeler ? » Nils pense au train très matinal qu’elle prend certains vendredis. Elle aussi dort parfois mal et lui envoie des photos de ses tartines à cinq heures. Il lui répond qu’il lui dira s’il veut parler. Il aimerait lui laisser de quoi l’aider s’il le demande, et elle peut lui dire à quelles heures c’est possible.
 
-## Préparer un plan pendant que les choses tiennent
+## Reconnaître des changements propres à sa trajectoire
 
-Un plan discuté à l’avance peut préciser ce que la personne souhaite faire si son état change, les appuis qu’elle veut solliciter et la façon de joindre les professionnels. Nils a repéré des moments où plusieurs choses changeaient à la fois. L’équipe l’aide à distinguer ce qui mérite une conversation de suivi de ce qui demande un contact plus rapide. Son expérience de mardi peut entrer dans cette conversation sans devenir une rechute annoncée. Une mauvaise nuit, à elle seule, ne raconte pas la même chose que le retour de plusieurs difficultés qui s’accentuent.
+Dans la schizophrénie, l’équipe peut aider à reconnaître les changements qui ont accompagné des périodes difficiles chez une personne. Ils prennent sens dans son histoire et dans leur évolution, sans valeur de seuil universel. Nils compare le son isolé du studio avec une période où son sommeil et la place des voix changeaient ensemble. Ce contraste sert à préparer le prochain contact.
 
-## Comment cette difficulté se manifeste
+## Comment repérer un changement qui mérite d’être discuté ?
 
-Ils se mettent d’accord pour que Nils puisse appeler sans attendre son prochain rendez-vous s’il remarque que les expériences qui l’inquiètent reviennent davantage ou qu’il a plus de mal à mener sa journée. Ils vérifient aussi la marche à suivre si le service est fermé et qu’une aide ne peut pas attendre. Ces repères répondent à sa situation ; l’équipe peut les revoir avec lui.
+### L’écart avec l’habitude
 
-## Donner à Elsa sa partie du plan
+Le point de comparaison est la vie ordinaire de la personne. La même nuit courte peut avoir un poids différent selon ce qu’il se passe autour.
 
-Le NICE recommande d’aborder tôt la circulation des informations et de reprendre la discussion lorsque les besoins évoluent. L’infirmière demande à Nils ce qu’il veut faire figurer sur la copie qu’Elsa emportera. Il propose le numéro, la marche à suivre en dehors des horaires du service et la possibilité qu’elle soit présente à côté de lui s’il le demande. Il garde le récit du studio dans son entretien. Elsa sait donc à quoi elle peut répondre, et à qui poser une question générale si elle hésite.
+**Exemples concrets**
 
-Le rôle qu’elle accepte laisse place à ses autres engagements. À la radio, un autre accord porte sur le déroulement des prises. Nils choisit où il parle de sa santé et peut retourner au studio avec une minute de jardinage en tête.
+- Nils est remué au studio mais rentre, mange et dort comme d’habitude.
+- Lors d’une autre semaine, les réveils pourraient s’installer sans l’explication habituelle d’un trajet tôt le matin.
+
+### Plusieurs changements qui se rapprochent
+
+Le retour conjoint de difficultés connues mérite d’être décrit au soignant même si leur sens reste ouvert.
+
+**Exemples concrets**
+
+- Nils se rappelle les réveils avant le jour et les voix qui prenaient davantage de place.
+- Une personne pourrait remarquer que des perceptions plus insistantes s’accompagnent de rendez-vous qu’elle commence à manquer.
+
+### Un effet sur les gestes quotidiens
+
+Ce qu’une expérience empêche ou modifie aide à préciser sa portée.
+
+**Exemples concrets**
+
+- Le soir du studio, Nils a pu préparer son repas et rentrer avec l’enregistrement.
+- Si l’inquiétude obligeait une personne à quitter plusieurs activités d’affilée, elle pourrait le signaler avec les circonstances.
+
+## 3 techniques pour préparer un contact avec l’équipe
+
+### 1. Décrire deux moments différents
+
+Donner au soignant des éléments de comparaison qui viennent de votre expérience.
+
+**Exercice pratique**
+
+- Choisissez une journée récente qui vous interroge.
+- Notez ce qui se passait lors d’une période plus difficile.
+- Apportez ce contraste au rendez-vous.
+
+Ces exemples peuvent rendre plus précise la discussion sur ce qui mérite un appel.
+
+### 2. Relire le plan avec un professionnel
+
+Avoir une marche à suivre accessible quand il faut décider.
+
+**Exercice pratique**
+
+- Repérez ensemble les situations déjà prévues.
+- Vérifiez le premier numéro et le relais hors horaires.
+- Gardez la version convenue sur un support facile à retrouver.
+
+La décision de joindre quelqu’un peut demander moins de recherche sur le moment.
+
+### 3. Prévoir la part du proche
+
+Choisir à l’avance quelle aide demander et à qui.
+
+**Exercice pratique**
+
+- Nommez le geste qui vous serait utile.
+- Vérifiez avec le proche quand il peut le faire.
+- Partagez le passage du plan que vous acceptez de lui laisser.
+
+Chacun peut savoir quoi faire sans disposer de tout le dossier.
 
 ## Deux copies différentes
 
-L’imprimante recrache une page de travers. Nils et Elsa rient de la bande blanche qui mange le bas du papier. Ils vérifient que les deux numéros se lisent et que la copie d’Elsa ne contient que le passage dont ils viennent de convenir. Elle la plie dans la poche intérieure de son sac. Nils photographie le verso de sa page pour pouvoir l’ouvrir depuis son téléphone. Sur la route, Aïcha lui envoie une photo des lots arrivés plus tôt que prévu : les étiquettes se sont décollées d’un bac. Il lui répond qu’il regardera lundi, au début de sa matinée.
+L’imprimante recrache une page de travers. Nils et Elsa rient de la bande blanche qui mange le bas du papier. Ils vérifient que les deux numéros se lisent et que la copie d’Elsa ne contient que le passage dont ils viennent de convenir. Elle la plie dans la poche intérieure de son sac. Nils photographie le verso de sa page pour pouvoir l’ouvrir depuis son téléphone. Sur la route, Aïcha lui envoie une photo des lots arrivés plus tôt que prévu. Les étiquettes se sont décollées d’un bac. Il lui répond qu’il regardera lundi, au début de sa matinée.
+
+---
+
+**Conclusion**
+
+Nils repart avec un numéro et des situations à discuter plutôt qu’avec une règle tirée d’une seule nuit. Au prochain épisode, son souci immédiat sera de remettre des lots en ordre. Elsa, elle, dispose de la partie du plan qui correspond à son rôle.

@@ -1,20 +1,19 @@
 ---
-title: Transmettre un savoir quand l’élan et la fatigue varient
-description: Le jour du premier essai, Timothée prête attention à ce que Sacha entend.
-  Il découvre qu’il peut lui apprendre quelque chose et s’arrêter à l’heure dite.
+title: Quand l’attention décroche au milieu d’une activité choisie
+description: Timothée écoute avec intérêt ce que Sacha entend sur son violon. Vers
+  la fin de l’essai, il perd le début d’une question.
 slug: timothee-transmettre-meme-si-elan-varie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Timothée
-sujet: Engagement malgré un élan variable
+sujet: Attention fragile pendant un échange
 contexte: Le samedi convenu, pour la première rencontre au garage
 tags:
 - Dysthymie
 - Trouble dysthymique
 - 6A72
-- Participation
-- Plaisir variable
-- Limites dans une activité
+- Attention
+- Durée de l’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -29,18 +28,83 @@ Sacha arrive avec l’étui serré sous un bras et un bout de papier dans la mai
 
 Sacha regarde l’ombre sous le chevalet et demande s’ils vont régler ça maintenant. Timothée ne saurait pas dire si l’ombre a le moindre rapport avec le bruit. Il sort de la fente de l’établi la photo qu’il avait donnée à Nora. Avant d’envisager un réglage sur le violon d’étude, il propose à Sacha de vérifier si le bruit se répète quand il joue deux fois la même note. Quand Sacha lui pose une autre question, Timothée a besoin de l’entendre deux fois. Il voit les aiguilles et se rappelle qu’ils ont encore cinq minutes.
 
-## Une activité peut mobiliser des ressources et rester coûteuse
+## L’attention peut se fragiliser en cours d’activité
 
-Un trouble dépressif durable peut peser sur l’énergie et le plaisir sans rendre toutes les activités également difficiles. Une personne peut s’intéresser à un échange et avoir besoin de s’arrêter peu après. Cela ne renseigne pas, à lui seul, sur la progression du trouble. Dans la vie quotidienne, une limite convenue à l’avance peut donner à la personne une façon de participer en tenant compte de ses ressources du moment. Pendant cette rencontre, Sacha apprend à regarder et à écouter autrement son instrument. L’évolution de la santé de Timothée se discute ailleurs, sur d’autres observations.
+La dysthymie peut s’accompagner d’une difficulté à rester attentif. Une personne peut se concentrer sur un détail intéressant et perdre le fil plus tard dans le même échange. La fatigue, le bruit ou les exigences de la situation peuvent également compter. Timothée suit la comparaison que propose Sacha et lui demande ensuite de répéter une question. L’exemple montre où la difficulté apparaît et ce qu’elle change. Pour apprécier son retentissement, l’équipe peut rechercher avec Timothée si elle se répète dans d’autres moments de sa vie.
 
-## Sacha écoute et Timothée sent la fin approcher
+## Comment l’attention peut-elle s’effriter au cours d’une activité choisie ?
 
-Sacha voit Timothée comparer deux points de vue et lui faire de la place pour essayer. Timothée éprouve un intérêt précis quand son élève indique lui-même l’endroit où il cherche le bruit. Vers la fin, ses réponses ralentissent et il perd le début d’une question. Il ne sait pas quelle part tient à la fatigue, au silence qu’il voulait laisser ou à la concentration que lui a demandée la séance. Il sait qu’il ne souhaite pas entamer un autre sujet. Ce qui l’a intéressé et ce qui a fini par lui coûter font partie de ce même rendez-vous.
+### Une attention disponible pour un détail
 
-## Donner à la rencontre sa propre mesure
+Même quand suivre longtemps coûte, un élément précis peut retenir l’attention au cours d’un échange.
 
-Les deux hommes peuvent terminer sur une comparaison dont Sacha pourra se souvenir. Timothée peut demander à l’élève ce qu’il a repéré, puis tenir la durée qu’ils s’étaient donnée. Une question encore ouverte peut être mise de côté ou confiée à un luthier s’il faut examiner l’instrument. Timothée n’a pas à évaluer tout son projet sur les cinq dernières minutes de l’essai. Il peut prendre le temps de reparler de l’atelier avec Sacha et, s’il choisit d’en parler à ses soignantes, raconter aussi ce que la rencontre lui a demandé.
+**Exemples concrets**
+
+- Timothée écoute le bruit que Sacha entend près de la corde de ré.
+- Il regarde l’élève montrer d’où le son semble venir après avoir changé de place.
+
+### Un début de phrase qui échappe
+
+Les difficultés d’attention peuvent apparaître quand l’échange avance et demande de suivre plusieurs choses.
+
+**Exemples concrets**
+
+- À cinq minutes de la fin, Timothée doit entendre la nouvelle question deux fois.
+- Il se rappelle la limite de temps en regardant l’horloge après avoir suivi le geste de Sacha.
+
+### Plusieurs demandes difficiles à tenir ensemble
+
+La personne peut rester intéressée par le sujet tout en ayant besoin d’écarter une demande supplémentaire.
+
+**Exemples concrets**
+
+- Timothée a envie de savoir ce que Sacha a entendu et ne veut pas commencer un autre réglage.
+- Dans un autre atelier, quelqu’un peut bien suivre la démonstration et préférer lire les consignes plus tard.
+
+## 3 techniques pour garder le fil et terminer un échange à l’heure
+
+### 1. Une seule question à la fois
+
+Rendre l’échange plus facile à suivre dans la durée prévue.
+
+**Exercice pratique**
+
+- Commencez par une question précise.
+- Reprenez les mots qui vous ont échappé.
+- Mettez le sujet suivant de côté si nécessaire.
+
+Chacun peut repartir avec une observation claire.
+
+### 2. Un repère de fin choisi ensemble
+
+Prévoir un arrêt utilisable même si l’échange intéresse encore.
+
+**Exercice pratique**
+
+- Convenez d’une durée avant de commencer.
+- Gardez un moyen discret de voir l’heure.
+- Réservez les dernières minutes à ce qui a été compris.
+
+Le repère peut éviter d’ouvrir une nouvelle tâche au moment où l’attention faiblit.
+
+### 3. Un retour au soignant sur ce qui a coûté
+
+Situer le retentissement au-delà des résultats obtenus.
+
+**Exercice pratique**
+
+- Dites ce que vous avez réussi à suivre.
+- Décrivez le moment où la question est devenue plus difficile.
+- Ajoutez si cela arrive dans d’autres situations.
+
+Le soignant peut mieux comprendre l’effet des difficultés d’attention dans la vie courante.
 
 ## Un point d’interrogation à côté de la corde
 
 À l’heure dite, Timothée demande à Sacha ce qu’il a remarqué. Sacha répond que le bruit ne lui paraît plus venir du même endroit quand il écoute à côté de l’instrument. Il dessine deux chaises et un point d’interrogation sur son papier. « Je vais refaire écouter ça à Nora en cours avant de demander au luthier. On pourrait se revoir après ? » Timothée dit qu’il lui répondra le lendemain. Quand Sacha referme l’étui, Timothée attend un instant avant de replier la chaise. Il a aimé regarder le crayon de Sacha s’arrêter entre les deux chaises. Le garage lui paraît soudain très silencieux.
+
+---
+
+**Conclusion**
+
+Timothée guide Sacha puis perd le début d’une question. Ils s’arrêtent à l’heure avec le dessin de Sacha. L’élève peut raconter ce qu’il a appris sans tirer de conclusion sur la santé de Timothée.

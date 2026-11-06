@@ -20,8 +20,9 @@ EDITORIAL = ROOT / 'editorial/clinical'
 CATEGORY_KEY = 'cat2_emotions'
 CATEGORY, FOLDER = CATEGORIES[CATEGORY_KEY]
 PACK = 'clinical-v17'
+ARTICLE_FORMAT = 2
 ARTICLE_KEYS = ('number', 'slug', 'title', 'description', 'context', 'topics', 'clinical_focus', 'clinical_intro',
-                'opening', 'sections', 'ending', 'mirror', 'sources', 'continuity')
+                'opening', 'sections', 'ending_title', 'ending', 'mirror', 'sources', 'continuity')
 SECTION_ROLES = ('explanation', 'manifestations', 'strategies')
 
 
@@ -46,7 +47,50 @@ def words(value):
     return len(WORD.findall(plain_text(value)))
 
 
-def validate_episode(episode, character, number, dossier):
+def paragraph(value):
+    return prose(value) and value == value.strip() and '\n' not in value and '\r' not in value
+
+
+def validate_sections(sections, label, article_format):
+    require(isinstance(sections, list) and len(sections) == len(SECTION_ROLES)
+            and all(isinstance(section, dict) and section.get('role') == role
+                    and paragraph(section.get('heading')) for section, role in zip(sections, SECTION_ROLES)),
+            f'Expliquer, montrer les manifestations, puis proposer des appuis : {label}')
+    explanation, manifestations, strategies = sections
+    require(prose(explanation.get('text')) and words(explanation['text']) >= 25,
+            f'Explication à développer : {label}')
+    if article_format == 1:
+        require(all(prose(s.get('text')) and words(s['text']) >= 25 and 'points' not in s for s in sections),
+                f'Ancienne trame incompatible avec le format enregistré : {label}')
+        return [s['text'] for s in sections]
+
+    require(manifestations['heading'].startswith('Comment ') and manifestations['heading'].endswith('?')
+            and strategies['heading'].startswith('3 techniques pour '),
+            f'Intertitres des manifestations et des techniques à revoir : {label}')
+    passages = [explanation['text']]
+    for section, prose_fields, list_field, list_count in (
+        (manifestations, ('text',), 'examples', 2),
+        (strategies, ('objective', 'benefit'), 'exercise', 3),
+    ):
+        points = section.get('points')
+        require('text' not in section and isinstance(points, list) and len(points) == 3,
+                f'Trois points détaillés dans {section["role"]} : {label}')
+        for point in points:
+            require(isinstance(point, dict) and paragraph(point.get('heading'))
+                    and not re.match(r'^\d+[.)]\s', point['heading'])
+                    and all(paragraph(point.get(field)) for field in prose_fields),
+                    f'Intertitre et explication pour chaque point de {section["role"]} : {label}')
+            items = point.get(list_field)
+            require(isinstance(items, list) and len(items) == list_count and all(paragraph(item) for item in items)
+                    and len({normalized(item) for item in items}) == list_count,
+                    f'{list_count} éléments distincts pour {list_field} : {label}')
+            passages.extend([point['heading'], *(point[field] for field in prose_fields), *items])
+        require(len({normalized(point['heading']) for point in points}) == 3,
+                f'Intertitres distincts pour {section["role"]} : {label}')
+    return passages
+
+
+def validate_episode(episode, character, number, dossier, article_format):
     label = f'{character["id"]}, épisode {number}'
     require(isinstance(episode, dict) and all(key in episode for key in ARTICLE_KEYS), f'Champs incomplets : {label}')
     require(episode['number'] == number, f'Numéro inattendu : {label}')
@@ -66,18 +110,18 @@ def validate_episode(episode, character, number, dossier):
     topics = episode['topics']
     require(isinstance(topics, list) and len(topics) == 3 and all(prose(v) and '\n' not in v and v == v.strip() for v in topics) and len({normalized(v) for v in topics}) == 3, f'Trois repères distincts requis : {label}')
     sections = episode['sections']
-    require(isinstance(sections, list) and len(sections) == len(SECTION_ROLES)
-            and all(isinstance(section, dict) and section.get('role') == role
-                    and prose(section.get('heading')) and '\n' not in section['heading']
-                    and prose(section.get('text')) and words(section['text']) >= 25
-                    for section, role in zip(sections, SECTION_ROLES)),
-            f'Expliquer, montrer les manifestations, puis proposer des appuis : {label}')
+    section_passages = validate_sections(sections, label, article_format)
     mirror = episode['mirror']
     require(isinstance(mirror, list) and 1 <= len(mirror) <= 2 and all(prose(p) and '\n' not in p for p in mirror) and 40 <= words(' '.join(mirror)) <= 160, f'Rubrique des proches à revoir : {label}')
-    passages = [episode['opening'], episode['ending'], *[section['text'] for section in sections], *mirror]
+    passages = [episode['opening'], episode['ending'], *section_passages, *mirror]
+    if article_format == ARTICLE_FORMAT:
+        conclusion = episode.get('conclusion')
+        require(prose(conclusion) and words(conclusion) >= 25, f'Conclusion à développer : {label}')
+        passages.append(conclusion)
     require(words(' '.join(passages)) >= 550, f'Épisode trop court : {label}')
-    require(not any(HEADING.search(p) or p.lstrip().startswith('#') or SOURCE_BLOCK.search(p) for p in passages)
-            and not any(SOURCE_BLOCK.search(h) for h in [episode['ending_title'], *[s['heading'] for s in sections]]),
+    headings = [episode['ending_title'], *[s['heading'] for s in sections]]
+    require(not any(HEADING.search(p) or p.lstrip().startswith('#') or SOURCE_BLOCK.search(p)
+                    for p in [*passages, *headings]),
             f'Intertitres imbriqués ou références dans le récit : {label}')
     refs = episode['sources']
     primary = character.get('primary_reference', 'oms-cddr')
@@ -130,7 +174,28 @@ def character_evidence(character, shared):
     }
 
 
-def arc_outputs(character, manifest, publication, order, evidence):
+def article_body(episode, article_format):
+    explanation, manifestations, strategies = episode['sections']
+    body = [episode['opening'].strip(), '## '+explanation['heading'], explanation['text'].strip()]
+    for section in (manifestations, strategies):
+        body.append('## '+section['heading'])
+        if article_format == 1:
+            body.append(section['text'].strip())
+        elif section['role'] == 'manifestations':
+            for point in section['points']:
+                body.extend(['### '+point['heading'], point['text'], '**Exemples concrets**',
+                             '\n'.join('- '+example for example in point['examples'])])
+        else:
+            for number, point in enumerate(section['points'], 1):
+                body.extend([f'### {number}. '+point['heading'], point['objective'], '**Exercice pratique**',
+                             '\n'.join('- '+step for step in point['exercise']), point['benefit']])
+    body.extend(['## '+episode['ending_title'], episode['ending'].strip()])
+    if article_format == ARTICLE_FORMAT:
+        body.extend(['---', '**Conclusion**', episode['conclusion'].strip()])
+    return '\n\n'.join(body)+'\n'
+
+
+def arc_outputs(character, manifest, publication, order, evidence, article_format=ARTICLE_FORMAT):
     ident, code = character['id'], character['code']
     dossier = evidence['dossiers'][code]
     bio = manifest.get('bio')
@@ -145,13 +210,19 @@ def arc_outputs(character, manifest, publication, order, evidence):
     episodes = manifest.get('episodes')
     require(isinstance(episodes, list) and len(episodes) == 12, f'Douze épisodes requis : {ident}')
     outputs, topics, mirrors, rows = {}, {}, {}, []
-    titles, passages = set(), set()
+    titles, focuses, passages = set(), set(), set()
     for number, episode in enumerate(episodes, 1):
-        validate_episode(episode, character, number, dossier)
+        validate_episode(episode, character, number, dossier, article_format)
         title = normalized(episode['title'])
         require(title not in titles, f'Titre répété : {ident}, épisode {number}')
         titles.add(title)
-        for passage in (episode['clinical_intro'], episode['opening'], episode['ending'], ' '.join(episode['mirror'])):
+        original_passages = [episode['clinical_intro'], episode['opening'], episode['ending'], ' '.join(episode['mirror'])]
+        if article_format == ARTICLE_FORMAT:
+            focus = normalized(episode['clinical_focus'])
+            require(focus not in focuses, f'Aspect clinique répété : {ident}, épisode {number}')
+            focuses.add(focus)
+            original_passages.append(episode['conclusion'])
+        for passage in original_passages:
             key = normalized(passage)
             require(key not in passages, f'Passage répété : {ident}, épisode {number}')
             passages.add(key)
@@ -167,10 +238,7 @@ def arc_outputs(character, manifest, publication, order, evidence):
             'categories':[CATEGORY], 'editorial_pack':PACK,
             'clinical_code':code, 'clinical_diagnosis':dossier['name'], 'episode':number,
         }
-        body = [episode['opening'].strip()]
-        body.extend('## '+s['heading']+'\n\n'+s['text'].strip() for s in episode['sections'])
-        body.append('## '+episode['ending_title']+'\n\n'+episode['ending'].strip())
-        outputs[ROOT / 'content' / (identifier+'.md')] = '---\n'+yaml.safe_dump(front,allow_unicode=True,sort_keys=False)+'---\n\n'+'\n\n'.join(body)+'\n'
+        outputs[ROOT / 'content' / (identifier+'.md')] = '---\n'+yaml.safe_dump(front,allow_unicode=True,sort_keys=False)+'---\n\n'+article_body(episode, article_format)
         rows.append({'episode':number,'category_key':CATEGORY_KEY,'slug':slug,'title':episode['title'],
                      'resume_narratif':episode['clinical_intro']})
     canon = character['canon']
@@ -191,6 +259,7 @@ def integrate(check):
     characters, shared = sources_and_characters()
     reviewed = read(EDITORIAL / 'releases.json')['arcs']
     outputs, new_topics, published_codes = {}, {}, set()
+    revised = 0
     for order, (ident, release) in enumerate(reviewed.items()):
         require(ident in characters, f'Personnage inconnu : {ident}')
         character = characters[ident]
@@ -203,7 +272,11 @@ def integrate(check):
         digest = dossier_review['sha256'] if dossier_review else None
         require(digest == release.get('dossier_sha256'), f'Dossier modifié depuis la relecture : {ident}')
         publication = date.fromisoformat(release['date']).isoformat()
-        arc, topics = arc_outputs(character, json.loads(manuscript), publication, order, evidence)
+        # The old format is available only through already registered reviews.
+        article_format = release.get('article_format', 1)
+        require(article_format in (1, ARTICLE_FORMAT), f'Format de publication inconnu : {ident}')
+        revised += article_format == ARTICLE_FORMAT
+        arc, topics = arc_outputs(character, json.loads(manuscript), publication, order, evidence, article_format)
         require(not (outputs.keys() & arc.keys()), f'Collision de chemins : {ident}')
         outputs.update(arc)
         new_topics.update(topics)
@@ -225,7 +298,8 @@ def integrate(check):
         for path in stale:
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text(outputs[path])
-    print(f'{len(reviewed)} parcours relus, {len(new_topics)} épisodes contrôlés.')
+    print(f'{len(reviewed)} parcours relus, {len(new_topics)} épisodes contrôlés. '
+          f'{revised} parcours au format de référence.')
 
 
 def brief(ident):
@@ -244,8 +318,14 @@ def brief(ident):
         'files':{'manuscript':str(path.relative_to(ROOT)), 'dossier':str(dossier_path(ident).relative_to(ROOT))},
         'manifest_fields':['character_id', 'bio', 'profile_topics', 'episodes'],
         'profile_topics_count':5,
-        'episode_fields':[*ARTICLE_KEYS, 'ending_title'],
-        'section_roles':SECTION_ROLES,
+        'episode_fields':[*ARTICLE_KEYS, 'conclusion'],
+        'sections':{
+            'explanation':{'fields':['heading', 'text']},
+            'manifestations':{'fields':['heading', 'points'], 'count':3,
+                              'point_fields':['heading', 'text', 'examples'], 'examples_count':2},
+            'strategies':{'fields':['heading', 'points'], 'count':3,
+                          'point_fields':['heading', 'objective', 'exercise', 'benefit'], 'exercise_count':3},
+        },
         'total_episodes':12,
         'continuity':[{'number':e['number'], 'title':e['title'], **e['continuity']} for e in episodes],
         'ready_to_draft':bool(dossier),
@@ -274,7 +354,7 @@ def record_review(ident, publication, note):
     path = EDITORIAL / 'releases.json'
     registry = read(path)
     hashes = validate_manuscript(ident, publication)
-    release = {'date':publication, 'status':'editorially_reviewed', **hashes, 'review':note}
+    release = {'date':publication, 'status':'editorially_reviewed', 'article_format':ARTICLE_FORMAT, **hashes, 'review':note}
     registry['arcs'][ident] = release
     path.write_text(dump(registry))
 
@@ -301,6 +381,7 @@ def progress():
     return {'reference_cases':len(characters), 'priority_candidates':len(pending),
             'other_unpublished_cases':len(drafts)-len(pending),
             'reviewed':len(reviewed), 'reviewed_episodes':len(reviewed)*12,
+            'reference_format_arcs':sum(r.get('article_format') == ARTICLE_FORMAT for r in reviewed.values()),
             **counts, 'pending':pending}
 
 

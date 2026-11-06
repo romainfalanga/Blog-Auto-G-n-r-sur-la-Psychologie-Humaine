@@ -34,16 +34,79 @@ Il reste une échéance à reprendre avec la conseillère. Nora et lui ont conve
 
 Un suivi du trouble lié aux jeux d’argent peut évoluer avec les besoins et les préférences de la personne. Le NICE recommande de maintenir l’accès à un accompagnement selon la situation et de discuter du soutien pour les difficultés qui persistent.
 
-## Comment cette difficulté se manifeste
+## Comment le quotidien peut-il s’améliorer alors que l’envie reste possible ?
 
-Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine.
+### Le quotidien retrouve une place
 
-## Protéger les liens et répartir les responsabilités
+Une activité peut redevenir agréable avant que tous les dommages aient été réglés.
 
-Gabin et Nora ont un accord sur les informations utiles à leurs dépenses communes. Chacun peut demander qu’il soit revu si les conditions changent. Nora peut continuer à séparer certains achats, garder son propre appui et choisir de venir au repas pour les personnes qu’elle souhaite y retrouver.
+**Exemples concrets**
 
-Dans l’association, Gabin peut proposer un entretien des chaises qui tienne dans les ressources du groupe et ses disponibilités. Il peut aussi choisir de venir une autre fois sans prendre le mobilier en charge. Il sait déjà ce qu’il aime dans cette fête. Les plats arrivent au fur et à mesure et chacun peut dire avec qui il a envie de s’asseoir.
+- Gabin s’assoit au repas de rue après avoir installé ses chaises.
+- Une personne reprend un rendez-vous amical alors qu’un dossier de dette reste ouvert.
+
+### Certaines circonstances restent sensibles
+
+Une amélioration n’efface pas les situations dans lesquelles l’envie est revenue.
+
+**Exemples concrets**
+
+- Gabin garde une question sur les fermetures accompagnées d’un rappel de paiement.
+- Quelqu’un remarque que les messages commerciaux le préoccupent encore les soirs de fatigue.
+
+### Les besoins n’avancent pas ensemble
+
+Le suivi de l’envie et le traitement de ses conséquences peuvent demander des points distincts.
+
+**Exemples concrets**
+
+- Gabin a une date pour le loyer et une question différente pour le service.
+- Une personne choisit de revoir ses protections même après avoir organisé ses versements.
+
+## 3 techniques pour ajuster ses appuis dans la durée
+
+### 1. Garder une question pour l’équipe
+
+Suivre ce qui reste vulnérable sans interrompre une activité appréciée.
+
+**Exercice pratique**
+
+- Notez une situation précise à reprendre.
+- Indiquez ce qui vous aiderait à la traverser.
+- Apportez la note au rendez-vous.
+
+L’équipe peut ajuster l’appui sur un besoin actuel.
+
+### 2. Distinguer les calendriers
+
+Donner un moment propre à chaque question.
+
+**Exercice pratique**
+
+- Fixez un point pour la dépense commune.
+- Confirmez l’échange de suivi avec le service.
+- Gardez des activités ordinaires hors de ces créneaux.
+
+Les problèmes ouverts peuvent être traités sans prendre tout le temps disponible.
+
+### 3. Vérifier ce qui est encore utile
+
+Faire évoluer les protections à partir de ce qui se passe réellement.
+
+**Exercice pratique**
+
+- Repérez un appui que vous utilisez.
+- Notez une circonstance qu’il couvre mal.
+- Discutez de l’ajustement avec l’intervenant.
+
+Le soutien peut suivre l’évolution des besoins.
 
 ## Gabin tire une chaise
 
 Ils conviennent que les meubles prêtés repartiront ce soir et que l’association décidera du rangement des quatre autres. Gabin note le nom de la personne qui a la clé du local. Il voit ensuite Nora couper deux parts de tarte. Elle lui demande s’il préfère le bord. Il répond oui et tire la chaise qu’il avait avancée en arrivant. À l’autre bout de la table, quelqu’un vient de poser un plat. Gabin fait circuler le sien.
+
+---
+
+**Conclusion**
+
+Gabin peut profiter du repas avec Nora et les voisins tout en gardant les rendez-vous qu’il a choisis. Les chaises ont servi et le suivi reste disponible pour les difficultés qui persistent. Nora et les bénévoles peuvent profiter du repas avec lui.

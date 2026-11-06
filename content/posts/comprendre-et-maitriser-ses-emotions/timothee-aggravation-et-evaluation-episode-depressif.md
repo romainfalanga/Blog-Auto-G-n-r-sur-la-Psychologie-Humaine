@@ -33,14 +33,79 @@ Ils reparlent de ce qui se passe après le service. Timothée raconte qu’il se
 
 Un épisode dépressif peut survenir après l’installation d’une dysthymie. La CIM-11 distingue le fond dépressif durable du tableau clinique qui constitue un épisode. Le professionnel examine la nature des changements, leur intensité, leur durée et leurs conséquences, en les replaçant dans l’histoire de la personne et en recherchant d’autres explications. Un épisode établi peut modifier ce que l’équipe propose. Un changement préoccupant mérite aussi d’être entendu et suivi avant qu’une conclusion soit possible. Dans le cas de Timothée, le bilan du vendredi permet de fixer un nouveau point rapproché, même si la question de l’épisode reste ouverte.
 
-## Ce qui est établi et ce qui reste à examiner
+## Comment une aggravation fait-elle poser la question d’un épisode dépressif ?
 
-Timothée sait qu’il a changé sa façon de manger et qu’il a de plus en plus de mal à reprendre ses habitudes après le travail. Il situe ce changement autour de la semaine qui vient de passer sans pouvoir préciser le premier jour. La docteure dispose aussi des échanges précédents pour comparer ce qu’il décrit avec son état habituel. Le fait qu’il aille travailler ne suffit pas à apprécier la gravité de ce qu’il traverse. Elle n’identifie pas d’urgence immédiate dans l’évaluation de ce jour et ne conclut pas à un épisode distinct à ce stade. Elle prend le changement au sérieux.
+### Un écart avec l’état habituel
 
-## Convenir d’une suite même quand le bilan reste ouvert
+La dysthymie peut s’aggraver. Pour examiner un éventuel épisode surajouté, le professionnel compare l’état actuel avec le vécu antérieur.
 
-Timothée peut demander ce que l’équipe a compris, ce qu’elle compte réexaminer et à qui s’adresser en cas de nouvelle aggravation. Une date pour le prochain point lui donne un repère utilisable. En cas de danger immédiat, on fait appel aux secours sans attendre la réponse du cabinet. Timothée peut décider séparément de ce qu’il fait pour samedi. Il peut dire à Sacha qu’il doit reporter l’essai et convenir d’un moment pour se redonner des nouvelles. Il choisit lui-même les informations qu’il partage. Un report décidé pour la journée qui vient n’oblige pas à renoncer au projet.
+**Exemples concrets**
+
+- Timothée allait d’ordinaire à la boulangerie même après une journée lourde.
+- La docteure apprend que son sommeil est plus haché et que manger lui coûte davantage.
+
+### Plusieurs conséquences qui se recoupent
+
+L’évaluation considère l’évolution et ce qui change dans différents domaines, en examinant d’autres explications possibles.
+
+**Exemples concrets**
+
+- Il tient sa tournée du matin, puis se replie chez lui et laisse des repas de côté.
+- La docteure vérifie si un autre problème de santé ou un changement de traitement a précédé cette période.
+
+### Une question de sécurité à part entière
+
+Les mots de désespoir justifient une question directe sur les idées suicidaires et le besoin d’aide immédiate.
+
+**Exemples concrets**
+
+- Quand Timothée dit que tout semble sans issue, la docteure lui demande s’il a pensé à mourir ou à se faire du mal.
+- La réponse permet de distinguer ce qu’il voulait dire du risque que la docteure cherche à évaluer.
+
+## 3 techniques pour parler du changement et organiser le relais
+
+### 1. Le changement dans ses propres mots
+
+Donner une base à l’évaluation, même sans date précise.
+
+**Exercice pratique**
+
+- Décrivez ce qui se passait avant.
+- Dites ce qui s’est aggravé et où cela vous gêne.
+- Signalez tout autre changement de santé dont vous avez connaissance.
+
+L’équipe peut remettre la période en contexte et préciser ce qui doit être revu.
+
+### 2. Un relais adapté à l’urgence
+
+Convenir d’une réponse utilisable si la situation change.
+
+**Exercice pratique**
+
+- Demandez comment joindre l’équipe avant le prochain point.
+- Gardez les coordonnées à portée de main.
+- En cas de danger immédiat, appelez les secours.
+
+Le recours peut être adapté à la situation sans attendre d’avoir un nom pour elle.
+
+### 3. Un report annoncé en une phrase
+
+Traiter l’engagement du lendemain pendant que l’évaluation continue.
+
+**Exercice pratique**
+
+- Prévenez la personne concernée du report.
+- Indiquez quand vous pouvez reprendre contact.
+- Choisissez les détails que vous souhaitez partager.
+
+Le rendez-vous peut être déplacé et la décision clinique garde son propre calendrier.
 
 ## Deux dates qui n’ont pas la même fonction
 
 La docteure fixe un point la semaine suivante, vérifie que Timothée a gardé les contacts convenus et lui propose de revoir alors ce qui l’aide ou lui pose problème dans son suivi. Dans la cour, il écrit à Sacha qu’il doit déplacer l’essai de demain. Il propose de reprendre contact en début de semaine, sans promettre une nouvelle date tout de suite. Sacha répond qu’il gardera ses questions et qu’il a besoin d’être prévenu un peu à l’avance pour les samedis où il travaille. Timothée enregistre cette information avec celle qui concerne le prêt du violon.
+
+---
+
+**Conclusion**
+
+La docteure évalue le changement et la sécurité, puis rapproche le suivi. Elle laisse ouverte la question d’un épisode distinct. Timothée peut prévenir Sacha du report avec les informations qui lui appartiennent.

@@ -33,14 +33,79 @@ Nora demande si elle peut entrer déposer le plat sur la table le temps de remet
 
 Un retrait plus marqué peut mériter un contact de soin quand il touche plusieurs habitudes ou rend difficiles des activités que la personne arrivait encore à faire. Dans un vécu dépressif durable, comparer avec une période antérieure peut aider à décrire l’aggravation sans attendre d’être certain de sa cause. La difficulté à manger, à répondre à quelqu’un ou à se remettre en mouvement n’a pas un sens unique. C’est à l’équipe de soins d’examiner le changement, son évolution et le besoin d’aide. Le rendez-vous prévu plus tard n’empêche pas de signaler ce qui inquiète aujourd’hui.
 
-## Ce que la visite permet de voir et d’entendre
+## Comment un retrait plus marqué gagne-t-il le quotidien ?
 
-Nora voit que Timothée lui rend le plat propre et qu’il parle avec de longues pauses. Elle l’a déjà vu fatigué après une tournée. Elle apprend de lui que les repas sont devenus plus difficiles et que ses échanges avec Yacine se sont interrompus. Timothée sait aussi qu’il a tenu sa tournée du matin en s’appuyant sur la feuille partagée avec Rémi. Cet appui a continué à fonctionner dans son domaine. Il n’a pas empêché les difficultés de s’étendre à la maison. Le rendez-vous de samedi fait partie de la situation sans expliquer à lui seul le retrait.
+### Un soin courant repoussé
 
-## Prendre appui pour joindre le bon interlocuteur
+Le retrait se remarque parfois dans des gestes qu’on arrivait encore à faire malgré la lourdeur habituelle.
 
-Si Timothée veut une présence le temps d’appeler, il peut le demander à Nora et préciser où il préfère qu’elle attende. Il peut commencer par les repas sautés, l’effort devenu inhabituel au travail et les invitations auxquelles il ne répond plus. Il peut dire aussi ce qui s’est aggravé depuis le rendez-vous de lundi. Le cabinet pourra préciser la suite à partir de ce qu’il décrit. Nora et Timothée peuvent ensuite décider ensemble d’un geste utile pour ce soir, qui reste séparé de la réponse de soin.
+**Exemples concrets**
+
+- Timothée laisse le plat vide et retourne se coucher avant le dîner.
+- Il lui semble difficile de se servir un verre alors qu’il le voudrait.
+
+### Des échanges qui s’interrompent
+
+Quand plusieurs contacts deviennent difficiles, la personne ou un proche peut remarquer un changement par rapport à la période précédente.
+
+**Exemples concrets**
+
+- Le message vocal de Yacine reste en attente alors que Timothée voulait savoir si le disque était de côté.
+- Nora le trouve dans le couloir sombre et entend ses réponses espacées.
+
+### Un contraste entre travail et retour chez soi
+
+Un appui dans un domaine peut rester utile pendant que d’autres activités deviennent plus difficiles.
+
+**Exemples concrets**
+
+- La feuille sert bien à la transmission avec Rémi ce matin.
+- La pause de Timothée est consacrée à trouver assez d’élan pour se remettre debout.
+
+## 3 techniques pour signaler une aggravation et demander un appui
+
+### 1. Un fait récent à comparer
+
+Décrire un changement sans devoir l’expliquer d’avance.
+
+**Exercice pratique**
+
+- Choisissez un geste qui était encore possible la semaine passée.
+- Dites ce qui a changé cette semaine.
+- Ajoutez une autre conséquence si elle vous inquiète.
+
+Cette comparaison peut donner un point de départ au contact de soin.
+
+### 2. Le cabinet avant le prochain rendez-vous
+
+Joindre le professionnel quand la dégradation inquiète.
+
+**Exercice pratique**
+
+- Utilisez le contact convenu.
+- Décrivez ce qui s’aggrave et depuis quand vous le remarquez.
+- Demandez ce qu’il faut faire si l’état se dégrade de nouveau.
+
+L’équipe peut évaluer le degré d’urgence et organiser le relais approprié.
+
+### 3. Une présence choisie
+
+Trouver un appui concret qui respecte ce que chacun veut faire.
+
+**Exercice pratique**
+
+- Demandez à un proche s’il peut rester le temps de l’appel.
+- Indiquez où vous préférez qu’il attende.
+- Convenez ensuite d’un geste utile pour le soir.
+
+Le proche peut aider à traverser ce moment pendant que les soignants organisent la suite.
 
 ## Le cabinet avant le prochain rendez-vous
 
 Timothée appelle alors que Nora attend dans l’entrée. L’assistante du cabinet lui demande ce qui a changé, fait le point avec la docteure et le rappelle. La docteure lui parle brièvement, vérifie comment il va passer la soirée et lui propose de venir dès le lendemain matin. Timothée note l’heure et la marche à suivre convenue si son état s’aggrave d’ici là. Nora propose de mettre une part de soupe dans le plat et de la lui rapporter. Il accepte et promet de lui rendre le plat en passant devant l’école de musique. Lorsqu’elle revient, Timothée a dégagé une place à table.
+
+---
+
+**Conclusion**
+
+Timothée appelle parce que le retrait déborde sur les repas, les messages et le travail. Le cabinet le reçoit le lendemain. La soupe apportée par Nora répond à une autre difficulté, celle de manger ce soir.

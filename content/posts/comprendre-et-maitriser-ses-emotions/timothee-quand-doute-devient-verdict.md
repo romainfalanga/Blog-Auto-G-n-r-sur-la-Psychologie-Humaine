@@ -33,14 +33,79 @@ Un silence passe. Il voit qu’il sait quoi répondre à la demande pratique. Il
 
 La dévalorisation peut accompagner une humeur dépressive durable. Une incertitude limitée devient parfois une conclusion sur l’ensemble de ce qu’on sait faire. Quand la même conclusion revient en boucle, elle peut prendre du temps et rendre plus difficile une décision qui avait un objet simple. Dans une approche cognitivo-comportementale, un professionnel peut explorer ces liens entre pensées, émotions et gestes. Le travail part de situations que la personne reconnaît. Maud ne demande pas à Timothée de se déclarer bon pédagogue. Elle s’intéresse à ce qui se passe entre le message reçu et l’arrêt de la conversation.
 
-## La question écrite et la question que Timothée entend
+## Comment la dévalorisation prend-elle de la place dans une décision ?
 
-Sur l’écran, Sacha parle du matériel et dit qu’il ne connaît pas le déroulé. Timothée entend surtout : « Tu n’as pas été clair. » Il relit sa réponse ancienne à la recherche de l’endroit où il aurait échoué. Il voit alors un délai s’ajouter à la difficulté initiale. Ce jour-là, il ne parle pas du même ton de ses compétences quand il aide Maud à imaginer les besoins de Sacha et quand il évalue son message. Son doute sur l’accueil d’un premier élève est compréhensible. Le jugement plus général revient aussi dans des situations où personne n’a demandé d’explication.
+### Un message lu comme un reproche
 
-## Revenir à ce qui reste à dire
+Un doute sur une tâche peut se transformer en jugement beaucoup plus large sur soi.
 
-Dans la séance, Timothée peut examiner avec Maud le moment où sa pensée change de portée et ce que cela lui fait faire. Ils peuvent reprendre la question réelle de Sacha et chercher une réponse suffisamment claire. Ce n’est pas un exercice à réussir sur commande. Si les mêmes jugements reviennent plus tard, leur fréquence, les circonstances et les décisions qu’ils bloquent peuvent devenir des sujets du suivi. À l’échelle du rendez-vous, Timothée sait déjà ce qu’il souhaite demander à Sacha et ce qu’il prendra en charge lui-même.
+**Exemples concrets**
+
+- Timothée comprend « Je ne sais pas trop » comme une preuve qu’il a mal expliqué le rendez-vous.
+- Une personne peut prendre une demande de précision au travail pour un doute général sur sa compétence.
+
+### Une relecture à la recherche de la faute
+
+La pensée peut revenir au même point alors que les informations restent identiques.
+
+**Exemples concrets**
+
+- Il relit son premier message pour y trouver une formulation qu’il aurait ratée.
+- Sur le banc, le téléphone finit retourné avant qu’il ait formulé une réponse.
+
+### Un délai qui alimente le jugement
+
+Quand la réponse est bloquée, le temps qui passe peut devenir un motif supplémentaire de se déprécier.
+
+**Exemples concrets**
+
+- Timothée se reproche ensuite d’avoir tardé, en plus de la formulation du premier message.
+- Il sait dresser la liste du matériel chez Maud et continue à douter de sa valeur comme pédagogue.
+
+## 3 techniques pour reprendre une décision prise dans les pensées qui tournent en boucle
+
+### 1. Les mots reçus et les mots pensés
+
+Distinguer la demande de la conclusion sur soi.
+
+**Exercice pratique**
+
+- Relisez une fois la demande écrite.
+- Nommez le jugement qui vous est venu.
+- Repérez l’information qui reste à donner.
+
+Cela peut ramener une décision à la question que l’autre a réellement posée.
+
+### 2. Un exemple à examiner en séance
+
+Parler du lien entre pensée répétitive et retrait avec le professionnel.
+
+**Exercice pratique**
+
+- Apportez un message ou racontez-le.
+- Dites quand la pensée revient.
+- Décrivez ce que vous cessez de faire à ce moment.
+
+Le soignant peut travailler à partir d’une situation précise si la personne souhaite la reprendre.
+
+### 3. La réponse dont l’autre a besoin
+
+Répondre au contenu pratique même si le doute est encore là.
+
+**Exercice pratique**
+
+- Choisissez le détail à confirmer.
+- Rédigez une réponse à cette seule demande.
+- Vérifiez le fait puis envoyez-la quand vous êtes prêt.
+
+Une réponse courte peut débloquer l’organisation sans exiger une certitude sur sa propre valeur.
 
 ## Une réponse avant de repartir
 
 Sur le perron du cabinet, Timothée écrit : « Apporte le violon dans son étui et la question que tu veux regarder en premier. J’ai le reste. On garde samedi à l’heure dite. » Il relit une fois pour vérifier que l’accord sur le samedi est clair. En se mettant en marche, il pense encore qu’il aurait pu tourner la réponse autrement. Sacha renvoie un pouce levé, puis le nom de la corde sur laquelle il a entendu la différence. Timothée retrouve le croquis de sa table de travail et écrit ce nom près de la place que Sacha occupera.
+
+---
+
+**Conclusion**
+
+Le doute de Timothée ne disparaît pas sur le perron. La réponse sur le violon part quand même. Sacha peut préciser sa demande et laisser au suivi ce qui concerne le jugement que Timothée porte sur lui.

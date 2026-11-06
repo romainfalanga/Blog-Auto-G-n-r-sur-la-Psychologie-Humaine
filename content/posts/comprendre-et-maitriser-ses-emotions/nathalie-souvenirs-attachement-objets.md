@@ -34,14 +34,79 @@ Samira a demandé un prêt. Nathalie envisage de lui proposer un don pour que le
 
 Des objets ordinaires peuvent avoir une valeur affective forte parce qu’ils évoquent une personne, une époque ou un lieu. Dans le trouble d’accumulation compulsive, le besoin de garder peut rendre la séparation éprouvante, même lorsque l’objet ne sert plus. L’attachement à un objet précis ne suffit pas à expliquer un trouble. Pour Nathalie, les deux objets réveillent des souvenirs. L’idée que le tampon puisse quitter le tiroir ajoute la crainte de chercher quelque chose qui ne sera plus à sa place. Cette réaction s’inscrit dans des difficultés plus larges déjà connues de son équipe.
 
-## Deux histoires, deux choix possibles
+## Comment un souvenir peut-il rendre la séparation difficile ?
 
-Nathalie dit d’emblée qu’elle souhaite garder le taquet. Agnès peut entendre cette décision et l’histoire des encoches. Elle entend Nathalie hésiter sur le tampon. Sa tante aime qu’il puisse servir à l’atelier de Samira et se représente déjà le regret qui pourrait suivre. L’ancienne libraire a déjà donné des objets dont elle ne se rappelle plus la forme. Elle ne sait pas ce qu’il en sera de celui-ci. Son incertitude reste là après le récit, même si le fait de le raconter lui a fait plaisir.
+### Un détail matériel qui rappelle une personne
 
-## Décider de garder, de transmettre ou d’en reparler
+La forme, une trace ou la texture d’un objet peuvent rappeler une scène avec précision. L’attachement à ce détail prend un sens personnel.
 
-Nathalie peut garder le taquet sans avoir à défendre l’ensemble du tiroir. Pour le tampon, elle peut demander à Samira si elle en ferait un usage durable et distinguer un prêt d’un don. Si elle préfère attendre, elles peuvent décider quand en reparler. Raconter un objet peut être agréable ou utile à la personne. Elle peut choisir quand elle a envie de le faire. La séparation peut rester éprouvante. Nathalie peut en parler avec Maud si la peur du regret la bloque souvent. Agnès peut écouter le récit sans le traiter comme une invitation à vider le tiroir.
+**Exemples concrets**
+
+- Les deux encoches du taquet rappellent à Nathalie le bricolage de Lucette.
+- Un ticket annoté peut rappeler l’écriture d’un ami et l’endroit où il a donné rendez-vous.
+
+### Un objet associé à un rôle familier
+
+Un objet peut faire revivre une tâche, une place dans un groupe ou une façon de recevoir quelqu’un. L’utilité actuelle ne rend pas compte de toute son importance.
+
+**Exemples concrets**
+
+- Le tampon rappelle à Nathalie les atlas qu’elle mettait de côté pour monsieur Septier.
+- Une vieille sacoche peut évoquer les trajets d’un ancien travail même si la personne ne la porte plus.
+
+### Un vide qu’on anticipe et qu’on peut encore ressentir
+
+La perspective de ne plus retrouver un objet à sa place peut peser sur un don. Le ressenti peut persister quand le choix a été voulu.
+
+**Exemples concrets**
+
+- Nathalie s’imagine devant le tiroir vide de son tampon avant de répondre à Samira.
+- Après le don, elle ouvre encore le tiroir et éprouve un manque.
+
+## 3 techniques pour aborder une décision chargée de souvenirs
+
+### 1. Nommer ce que l’on veut garder
+
+Reconnaître une décision déjà claire sans ouvrir l’ensemble des affaires.
+
+**Exercice pratique**
+
+- Choisissez l’objet auquel vous pensez.
+- Dites, si vous le souhaitez, ce qui lui donne de l’importance.
+- Indiquez que la décision concerne cet objet précis.
+
+Le choix peut être entendu sans s’étendre à tout le rangement.
+
+### 2. Préciser le sens d’une transmission
+
+Vérifier ce qu’un prêt ou un don voudrait dire pour vous.
+
+**Exercice pratique**
+
+- Demandez à la personne comment elle utiliserait l’objet.
+- Distinguez un prêt avec retour et un don qu’elle garderait.
+- Répondez quand vous êtes prêt ou convenez d’en reparler.
+
+Les deux personnes peuvent donner le même sens à la décision.
+
+### 3. Parler du manque après le choix
+
+Décrire l’effet réel d’une séparation au lieu de devoir l’évaluer sur le moment.
+
+**Exercice pratique**
+
+- Repérez quand vous cherchez de nouveau l’objet.
+- Dites ce qui vous revient du souvenir ou de la décision.
+- Si cette gêne vous bloque souvent, reprenez cet exemple avec votre équipe.
+
+Ce retour peut aider à préparer les prochaines décisions sensibles.
 
 ## Le taquet rentre dans le tiroir
 
 Nathalie remet le taquet dans le tiroir et appelle Samira. Elle lui demande si le tampon lui serait utile au-delà de l’atelier de la semaine. Samira pourrait l’utiliser pour les démonstrations avec des enfants et serait heureuse de le recevoir. Dans l’après-midi, Nathalie lui remet le tampon à la médiathèque et précise qu’il s’agit d’un don. En rentrant, elle ouvre quand même le tiroir du buffet et sent le manque. Elle y voit le taquet. Elle appelle Lucette pour lui demander si, dans son souvenir, elles avaient vendu le dernier exemplaire avant ou après cinq heures.
+
+---
+
+**Conclusion**
+
+Le taquet reste et le tampon trouve un usage auprès de Samira. Nathalie ressent encore le manque et retrouve Lucette au téléphone. Agnès peut accueillir l’histoire des encoches en laissant à Nathalie le choix de chaque objet.

@@ -33,14 +33,79 @@ Son téléphone affiche un message de Sacha. Le jeune homme dit qu’il emprunte
 
 Une personne peut maintenir son travail avec un effort accru quand elle vit avec des symptômes dépressifs durables. Une fatigue, une difficulté à garder le fil ou à choisir entre plusieurs informations peuvent peser davantage que ce que montrent les tâches terminées. Lors d’un point clinique, le fait d’être au travail renseigne sur une partie de la situation. Le temps nécessaire pour y parvenir et la place qui reste pour manger, se reposer ou répondre à quelqu’un en disent une autre. Les conditions de travail comptent aussi. Des messages dispersés compliquent la tâche quel que soit l’état de santé.
 
-## Le prix payé avant et après une transmission
+## Comment le travail accompli peut-il cacher l’effort fourni ?
 
-Rémi voit un local prêt et un collègue qui reste assis avec son sandwich fermé. Timothée sait combien de fois il a repris les consignes avant de déplacer les tables. Une fois le service fini, il lui reste une question qui l’intéresse. Il a du mal à se rassembler pour y répondre. Les mêmes messages auraient pu être fatigants une autre semaine pour une autre raison. La comparaison qui lui parle est celle avec ses propres habitudes, quand il mangeait dehors sans avoir besoin de reprendre d’abord sa respiration et le fil de sa journée.
+### Plusieurs reprises avant le même résultat
 
-## Mettre la dernière information au même endroit
+Une consigne peut demander plus de vérifications ou de temps alors que le résultat satisfait les autres.
 
-Rémi et Timothée peuvent convenir d’un endroit unique pour reporter les changements dont ils ont tous deux besoin. L’accord concerne la transmission, que Timothée choisisse ou non de parler de santé à son collègue. Il peut attendre la fin du service pour répondre à Sacha, en repartant de la question que celui-ci a écrite. Au prochain rendez-vous de soin, Timothée peut dire ce qu’il a pu faire dans cette journée et combien de temps ou d’énergie cela lui a demandé. L’ajustement du travail et le suivi peuvent avancer séparément.
+**Exemples concrets**
+
+- Timothée reprend trois fois le bâtiment où préparer la salle commune.
+- Il relit le dernier message après avoir fini les poignées pour retrouver la disposition des tables.
+
+### Une pause utilisée pour récupérer
+
+Le coût du travail peut se voir dans ce que la personne arrive à faire pendant le temps censé lui permettre de souffler.
+
+**Exemples concrets**
+
+- Timothée reste au local avec son sandwich emballé.
+- Le muret où il mange d’ordinaire avec Rémi lui paraît trop loin ce midi.
+
+### Peu de disponibilité pour la tâche suivante
+
+Après avoir tenu une tournée, une décision simple et désirée peut encore demander un effort.
+
+**Exemples concrets**
+
+- Il retourne son téléphone quand la question de Sacha se mêle à la consigne de l’après-midi.
+- Le soir, il se pose avant de pouvoir formuler son invitation, même si l’adresse lui est connue.
+
+## 3 techniques pour rendre l’effort plus visible au travail
+
+### 1. La dernière consigne au même endroit
+
+Limiter les reprises inutiles quand une information change.
+
+**Exercice pratique**
+
+- Repérez l’endroit où les versions se contredisent.
+- Choisissez avec le collègue un support commun.
+- Vérifiez que la dernière consigne y figure avant de repartir.
+
+La feuille peut alléger la transmission sans demander de parler de santé au travail.
+
+### 2. Une pause qui peut changer de forme
+
+Garder une marge quand la pause habituelle coûte elle aussi.
+
+**Exercice pratique**
+
+- Dites au collègue si vous préférez rester au calme.
+- Vérifiez ce que vous avez à portée de main.
+- Reportez une réponse personnelle à un moment disponible.
+
+Ce choix peut laisser un peu de temps entre deux demandes.
+
+### 3. Le résultat et son prix
+
+Faire comprendre au soignant ce qu’une tâche terminée a demandé.
+
+**Exercice pratique**
+
+- Citez le résultat obtenu.
+- Décrivez les reprises qu’il a fallu faire.
+- Ajoutez ce qui était difficile juste après.
+
+Le suivi peut tenir compte d’une gêne invisible sur le lieu de travail.
 
 ## Deux cases sur la feuille
 
 Rémi prend une feuille. Dans une première case, il écrit « Salle ». Dans l’autre, « Changement confirmé ». Ils la fixent sous le plan pour leur tournée commune, à l’endroit où ils la retrouveront. Timothée finit la journée en vérifiant la dernière consigne sur la feuille. Il mange la moitié du sandwich sur le muret, seul cette fois. En rentrant, il répond à Sacha qu’il serait disponible un samedi dans un peu moins de deux semaines pour un premier essai d’une demi-heure. Sacha confirme l’heure et demande s’il peut venir avec le violon d’étude. Timothée lui envoie l’adresse et dit oui.
+
+---
+
+**Conclusion**
+
+La salle était prête et Timothée a eu besoin de toute sa pause. La feuille sous le plan simplifie un passage précis. Rémi peut prendre part à cet accord sur le travail.

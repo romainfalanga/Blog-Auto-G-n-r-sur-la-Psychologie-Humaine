@@ -33,14 +33,79 @@ Le lundi matin, le journal, le justificatif d’adresse et le téléphone sont e
 
 Une préoccupation peut aider à repérer ce qui demande une décision. Elle devient envahissante quand elle reprend la place malgré les efforts pour revenir à autre chose. Chercher le nom qui signe le texte est utile à Élina. Elle n’obtient aucune information nouvelle à force de réexaminer la dernière réponse du bureau et, pourtant, elle la relit. Une rumination peut se concentrer sur ce qui s’est passé ou sur ce que cela veut dire pour la suite. Se reconnaître dans un moment de ce genre ne suffit pas à dire de quel trouble il s’agit. La fréquence et les conséquences dans la vie d’une personne méritent d’être décrites.
 
-## Le café qui a refroidi
+## Comment une préoccupation envahissante reprend-elle la place ?
 
-Lucien était prêt à sortir quand il a constaté qu’Élina ne venait pas. De sa porte, il ne pouvait pas voir qu’elle avait eu trois fois l’intention de se lever de table. Elle se rappelle aussi avoir regardé l’heure à deux reprises en croyant qu’elle avait encore le temps. La même impression la suit jusque dans son lit. Les nuits où elle tarde à s’endormir, elle a beau éteindre l’écran, elle continue à reprendre la conversation. Le café manqué touche un lien qu’elle tenait à nouer. Le formulaire repassé sous le journal montre que cette gêne touche aussi des tâches dont personne ne lui demande des nouvelles.
+### Relire pour élucider une phrase
 
-## Écrire deux exemples avant d’appeler
+Le souci a un objet précis. Les informations disponibles peuvent rester les mêmes à chaque retour.
 
-Élina peut noter d’un côté ce qui demande une action réelle aujourd’hui, de l’autre la question qui revient au sujet du départ. Le but est de retrouver ce qu’elle était en train de faire, même si la question est toujours là. Pour un rendez-vous médical, elle peut partir de ce qu’elle n’arrive plus à faire comme avant et préciser depuis quand elle s’en aperçoit. Elle n’a besoin ni d’une explication achevée ni d’un relevé détaillé de ses nuits. Si elle souhaite un renseignement de Lucien sur les cabinets du quartier, elle peut lui dire uniquement qu’elle cherche un généraliste.
+**Exemples concrets**
+
+- Élina remonte la conversation pour entendre autrement « On fera comme on pourra ».
+- Une personne peut relire un message de départ pour vérifier le ton d’une réponse qui lui a déjà paru ambiguë.
+
+### Refaire le départ dans sa tête
+
+La pensée peut revenir sous la forme de scénarios où l’on imagine ce qui se serait passé en agissant autrement.
+
+**Exemples concrets**
+
+- Élina se demande si l’équipe l’aurait saluée autrement en apprenant plus tôt son départ.
+- Une personne peut repasser plusieurs fois la remise des clés en imaginant la phrase qu’elle aurait pu dire.
+
+### Quitter la tâche sans s’en apercevoir
+
+Le coût du retour se voit parfois seulement lorsqu’une autre action n’a pas eu lieu.
+
+**Exemples concrets**
+
+- Le téléphone annonce que Lucien est sorti avant qu’Élina remarque le temps écoulé.
+- Un autre soir, elle ferme l’écran puis reprend l’échange dans sa tête au moment de s’endormir.
+
+## 3 techniques pour reprendre le fil d’une tâche
+
+### 1. Séparer le souci de l’action
+
+Identifier ce qui peut avancer dans l’immédiat.
+
+**Exercice pratique**
+
+- Nommez en quelques mots la question qui revient.
+- Cherchez s’il y a une information nouvelle à demander.
+- Revenez à la démarche du moment si rien n’est à décider maintenant.
+
+La distinction peut éviter de traiter chaque retour de pensée comme une obligation.
+
+### 2. Répondre à la demande écrite
+
+Délimiter la réponse que le message appelle réellement.
+
+**Exercice pratique**
+
+- Relisez la dernière question de l’association.
+- Repérez le jour et le geste proposés.
+- Répondez sur ce seul engagement ou demandez du temps.
+
+Une réponse limitée laisse la cadence pour un échange ultérieur.
+
+### 3. Préparer un premier contact
+
+Décrire le débordement sur des moments ordinaires.
+
+**Exercice pratique**
+
+- Choisissez un rendez-vous ou une tâche interrompue.
+- Ajoutez un exemple lié au sommeil si cela vous concerne.
+- Contactez le cabinet et dites en quelques mots ce que vous souhaitez aborder.
+
+Les exemples donnent au médecin un point de départ pour l’entretien.
 
 ## La question qui tient sur une ligne
 
 Sur un coin de l’ancien journal, Élina note « café manqué » et « adresse toujours pas changée ». À Lucien, qu’elle croise dans l’escalier, elle dit qu’elle dort mal et qu’elle aimerait parler à un médecin. Il lui donne le nom de la docteure Roussel et précise que le cabinet est derrière la pharmacie. Elle appelle elle-même et obtient une place le mercredi. Puis elle reprend le message de Mireille. Elle propose de venir regarder une page samedi et de confirmer jeudi. Avant de poser son téléphone, elle envoie un mot à Lucien pour lui demander s’ils pourront reprendre ce café un autre jour.
+
+---
+
+**Conclusion**
+
+Élina reprend la proposition écrite de Mireille et note ce qui est resté en plan. Elle peut porter ces observations à sa médecin. Lucien peut contribuer par un renseignement ou une nouvelle invitation selon sa disponibilité.

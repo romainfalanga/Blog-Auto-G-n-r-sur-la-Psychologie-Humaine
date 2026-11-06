@@ -34,16 +34,79 @@ Il pose son téléphone face contre table. Ce qu’il voudrait savoir, c’est �
 
 Les circonstances dans lesquelles l’envie de jouer augmente varient selon les personnes et les périodes. Le NICE recommande d’explorer avec la personne les situations, les émotions et les sollicitations qui contribuent à la poursuite du jeu.
 
-## Comment cette difficulté se manifeste
+## Comment le contexte peut-il rendre l’envie de jouer plus pressante ?
 
-Le trajet après la fermeture est un exemple pour Gabin. L’inquiétude pour une dépense l’est aussi. Il peut raconter ce qu’il cherchait alors et ce qui l’a aidé à demander un contact. Il n’a pas besoin de raconter une soirée entière pour apporter des éléments utiles. Il peut aussi signaler quand son expérience change et quand un exemple ne ressemble pas aux précédents.
+### Le passage d’une tâche au vide
 
-## Se donner des options que l’on peut vraiment utiliser
+La fin d’une activité structurée peut laisser place à une envie jusque-là en arrière-plan.
 
-Gabin et l’intervenante choisissent un repère personnel. Quand l’idée de récupérer une somme revient et qu’il commence à préparer une nouvelle mise, il peut reprendre le contact indiqué avec l’équipe. Ils regardent ce qui existe aux heures où le service habituel est fermé et la manière de demander une aide urgente si sa sécurité est en jeu. Il peut également demander à Nora si elle est d’accord pour un échange bref à son retour. Le plan reste utilisable quand elle travaille ou qu’elle n’est pas joignable.
+**Exemples concrets**
 
-L’intervenante lui demande si la discussion des prochains rendez-vous est plus facile tôt dans la journée. Ils choisissent un créneau compatible avec la cuisine et gardent une autre possibilité à revoir.
+- Gabin se retrouve seul après le départ des collègues.
+- Une personne y repense en attendant longtemps un trajet après une journée chargée.
+
+### L’émotion arrive avant l’idée
+
+Une inquiétude peut précéder l’envie et aider à en situer le début.
+
+**Exemples concrets**
+
+- Le rappel de paiement arrête Gabin en pleine journée.
+- Une dispute sur une dépense fait remonter l’idée en rentrant.
+
+### Un détail rappelle l’épisode
+
+Un objet ordinaire peut aider à retrouver la chronologie après coup.
+
+**Exemples concrets**
+
+- L’assiette froide rappelle à Gabin quand il a perdu le fil de sa pause.
+- Une note laissée dans le vestiaire rappelle le moment où l’on a voulu s’isoler.
+
+## 3 techniques pour repérer les circonstances de l’envie de jouer
+
+### 1. Reconstituer un court passage
+
+Chercher ce qui change juste avant l’envie.
+
+**Exercice pratique**
+
+- Choisissez une situation récente.
+- Remontez d’un ou deux événements.
+- Notez ce que vous faisiez et ce qui a changé.
+
+La consultation peut partir de faits faciles à retrouver.
+
+### 2. Comparer deux moments
+
+Éviter de construire le plan autour d’un seul horaire.
+
+**Exercice pratique**
+
+- Prenez un exemple de journée et un exemple de soirée.
+- Soulignez ce qu’ils ont en commun.
+- Apportez aussi leur différence à l’entretien.
+
+Le service peut proposer des appuis pour plusieurs circonstances.
+
+### 3. Choisir quand appeler
+
+Rendre le recours accessible avant que l’envie occupe tout.
+
+**Exercice pratique**
+
+- Repérez le moment où vous commencez à hésiter.
+- Demandez quel contact utiliser à cette heure.
+- Gardez le renseignement à un endroit facile à ouvrir.
+
+Vous pourriez solliciter un soutien plus tôt.
 
 ## La note à retrouver dans le bus
 
 En sortant, Gabin ouvre la note sur l’assiette froide et la remplace par deux phrases. La première lui rappelle le moment où il veut appeler. La seconde lui indique où trouver le contact. Il a prévu une autre rencontre avec le service pour parler des sollicitations qu’il reçoit. Au bout du quai, une personne referme un sac qui ressemble au sien. Gabin vérifie l’arrêt du bus, puis écrit à l’atelier pour dire quel soir il pourra venir, cette semaine.
+
+---
+
+**Conclusion**
+
+L’arrêt de bus donne un premier repère à Gabin, et le rappel de paiement en donne un autre. Au dîner, une notification ajoutera un déclencheur qu’il n’avait pas cité. Nora n’aura pas à être disponible à chaque retour du travail.

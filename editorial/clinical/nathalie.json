@@ -31,13 +31,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une place assise qui cesse d’être disponible",
-          "text": "Agnès voit la chaise, le carton et la pochette qui glisse. Elle ne peut pas savoir que sa tante a déjà cherché seule une place la semaine précédente, ni que reconnaître l’écriture sur un papier rend la décision plus longue. Pour Nathalie, poser la pochette provisoirement ressemble vite à une demande de trancher son sort. Le trouble lui a été expliqué lors d’une évaluation antérieure. Elle peut reconnaître ce qui se passe et rester indécise devant cette feuille violette. Elle ressent cette gêne même seule. La visite la rend plus difficile à passer sous silence."
+          "heading": "Comment l’encombrement fait-il perdre un usage du logement ?",
+          "points": [
+            {
+              "heading": "Une surface occupée",
+              "text": "Le meuble est toujours là. Les affaires laissées dessus rendent sa fonction difficile à retrouver au moment où elle est nécessaire.",
+              "examples": [
+                "Chez Nathalie, il reste un angle pour les tasses et aucune place pour l’ordinateur d’Agnès.",
+                "Dans un autre logement, une table de cuisine sert de dépôt et les repas se prennent sur un tabouret."
+              ]
+            },
+            {
+              "heading": "Un siège difficile à atteindre",
+              "text": "L’usage dépend aussi de ce qui entoure le meuble. Une chaise vide peut rester inutilisable si on ne peut ni y accéder facilement ni la reculer.",
+              "examples": [
+                "Agnès doit contourner le carton avant de pouvoir approcher la chaise du séjour.",
+                "Un fauteuil peut être libre alors qu’un sac gêne chaque fois le passage entre le fauteuil et sa lampe."
+              ]
+            },
+            {
+              "heading": "Une activité écourtée ou déplacée",
+              "text": "Le changement finit parfois par se voir dans ce que la personne renonce à faire chez elle. Les objets restent alors associés à un coût qui dépasse la place qu’ils occupent.",
+              "examples": [
+                "Nathalie lit trois pages debout puis ferme son roman.",
+                "Le travail à deux se poursuit à la médiathèque, après une matinée prévue chez Nathalie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Trouver où s’asseoir aujourd’hui",
-          "text": "Agnès et Nathalie peuvent chercher un lieu où faire les légendes maintenant, puis laisser à Nathalie le choix du prochain rendez-vous chez elle. Nathalie peut expliquer à l’équipe spécialisée qu’elle n’utilise plus sa table et que l’accès au séjour s’est rétréci. Ce changement de circulation mérite d’être signalé dès maintenant. Une description précise est utile même quand Nathalie ne sait pas encore ce qu’elle voudrait déplacer. Si le passage devient dangereux, l’équipe peut orienter vers une évaluation adaptée. En cas de danger immédiat, il faut solliciter les secours."
+          "heading": "3 techniques pour retrouver un usage précis",
+          "points": [
+            {
+              "heading": "Nommer ce qui manque",
+              "objective": "Décrire l’activité devenue difficile pour que l’équipe sache d’où partir.",
+              "exercise": [
+                "Choisissez un moment récent où vous vouliez utiliser la pièce.",
+                "Décrivez le geste qui a bloqué, comme reculer la chaise.",
+                "Ajoutez ce que vous avez fait à la place."
+              ],
+              "benefit": "Un exemple concret peut orienter la discussion vers un objectif utile."
+            },
+            {
+              "heading": "Garder le rendez-vous possible",
+              "objective": "Préserver l’activité prévue lorsque le lieu habituel ne convient plus.",
+              "exercise": [
+                "Demandez à l’autre personne de quelle installation elle a besoin.",
+                "Proposez un endroit que vous pouvez utiliser aujourd’hui.",
+                "Voyez quand vous souhaitez reparler d’un rendez-vous à la maison."
+              ],
+              "benefit": "La relation peut continuer pendant que l’usage du logement est repris."
+            },
+            {
+              "heading": "Signaler un changement de circulation",
+              "objective": "Faire examiner séparément une gêne sur un trajet utile.",
+              "exercise": [
+                "Dites à l’équipe où le passage s’est rétréci.",
+                "Précisez ce que vous pouvez encore faire, comme ouvrir la porte.",
+                "Demandez quel relais solliciter si la situation se dégrade. En cas de danger immédiat, appelez les secours."
+              ],
+              "benefit": "Ce contact peut aider à décider de l’intervention adaptée."
+            }
+          ]
         }
       ],
       "ending_title": "La table près des revues",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Nathalie et Agnès s’installent à la médiathèque. Nathalie signale le rétrécissement du passage et accepte une visite de Nora vendredi.",
         "next": "Jeudi, Nathalie retrouve Samira au marché. Vendredi, la visite partira des difficultés d’accès et d’usage observées mardi."
-      }
+      },
+      "conclusion": "Mardi, la table empêche une lecture et une séance de travail. La médiathèque permet de garder le rendez-vous, puis la visite de Nora précisera ce que Nathalie souhaite retrouver chez elle. Agnès peut contribuer en disant de quelle place elle a besoin."
     },
     {
       "number": 2,
@@ -77,13 +134,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Savoir de quel papier on parle",
-          "text": "Devant l’épreuve de Samira, Nathalie sait ce qui lui plaît, où se trouve l’exemplaire qu’elle possède et ce qu’elle veut en faire. Elle a déjà refusé d’autres marque-pages de la même période faute de lien avec les ateliers qu’elle suit. À propos des brochures du carton, elle craint de regretter la perte de renseignements dont elle pourrait un jour avoir besoin. Cette perspective la retient chaque fois qu’elle veut ouvrir le carton. Pour son équipe, l’incidence de ces décisions sur le passage renseigne autrement que le nombre d’objets dans son album."
+          "heading": "Comment distinguer une collection choisie des difficultés qui encombrent le quotidien ?",
+          "points": [
+            {
+              "heading": "Un objet qu’on sait pourquoi chercher",
+              "text": "Une collection peut répondre à un intérêt précis. L’attachement existe dans les deux situations et ne suffit pas à décider de ce qu’il signifie.",
+              "examples": [
+                "Nathalie reconnaît l’épreuve de l’anguille et se rappelle de quelle imprimerie elle vient.",
+                "Une personne peut attendre un timbre d’une série tout en passant devant les autres offres."
+              ]
+            },
+            {
+              "heading": "Une place où les objets restent accessibles",
+              "text": "Des objets nombreux peuvent rester repérables et compatibles avec les autres usages. La façon dont les possessions s’inscrivent dans la pièce compte davantage que leur nombre seul.",
+              "examples": [
+                "Nathalie peut indiquer la page de l’album où elle a glissé le marque-page.",
+                "Le contenu du carton de brochures est devenu difficile à retrouver et oblige à faire un écart pour passer."
+              ]
+            },
+            {
+              "heading": "Des décisions qui ont un coût différent",
+              "text": "On peut hésiter à prêter une pièce précieuse sans éprouver la même difficulté devant chaque papier ordinaire. L’évaluation tient compte de l’effet répété de ces décisions.",
+              "examples": [
+                "Nathalie sait qu’elle veut montrer l’album puis le rapporter chez elle.",
+                "Elle interrompt la recherche d’un courrier quand elle ne peut atteindre la bonne chemise."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner un nom au projet que l’on choisit",
-          "text": "Nathalie peut s’engager pour une lecture et décider plus tard si elle prête un objet à la médiathèque. Elle peut aussi indiquer à Nora, pendant la visite, qu’elle souhaite laisser son album en dehors de la discussion du moment. Faire la différence entre ce projet et l’usage des pièces aide à préciser l’appui recherché. Elle peut vouloir retrouver un courrier ou rendre une chaise disponible tout en gardant l’album. Si l’on s’interroge sur une accumulation et ses effets, une discussion avec un professionnel permet de décrire les situations qui posent problème, sans demander à un proche d’interpréter la collection."
+          "heading": "3 techniques pour préciser ce qui compte dans une collection",
+          "points": [
+            {
+              "heading": "Décrire le plaisir choisi",
+              "objective": "Donner une place à un intérêt qui fait partie de la vie de la personne.",
+              "exercise": [
+                "Choisissez une pièce que vous prenez plaisir à retrouver.",
+                "Racontez ce qui vous intéresse dans cette pièce, si vous en avez envie.",
+                "Dites quel usage vous souhaitez en garder."
+              ],
+              "benefit": "Ce repère peut aider à préserver le projet qui compte."
+            },
+            {
+              "heading": "Comparer deux situations concrètes",
+              "objective": "Préparer une discussion sur les effets du logement au quotidien.",
+              "exercise": [
+                "Pensez à un objet dont la place et l’usage sont clairs.",
+                "Repensez à un moment où chercher ou déplacer d’autres affaires a bloqué une activité.",
+                "Apportez les deux exemples à la personne qui vous accompagne."
+              ],
+              "benefit": "La différence aide à décrire les difficultés sans réduire la discussion au volume d’objets."
+            },
+            {
+              "heading": "Séparer une invitation d’un prêt",
+              "objective": "Répondre au projet tout en gardant la décision sur l’objet.",
+              "exercise": [
+                "Demandez ce qui est nécessaire pour participer.",
+                "Dites ce que vous souhaitez montrer ou garder avec vous.",
+                "Convenez du retour de l’objet si vous le prêtez."
+              ],
+              "benefit": "Le projet peut être accepté dans des limites comprises par chacun."
+            }
+          ]
         }
       ],
       "ending_title": "Deux minutes pour une anguille",
@@ -99,7 +212,8 @@
       "continuity": {
         "choice": "Nathalie accepte une lecture de deux minutes et décide que son marque-page rentrera avec elle. Elle distingue l’album des difficultés qu’elle veut aborder vendredi.",
         "next": "Nora viendra pour la circulation et l’usage des pièces. Nathalie commence à écrire son texte sur l’imprimerie."
-      }
+      },
+      "conclusion": "Nathalie veut raconter l’histoire de l’anguille et rapporter son album chez elle. Pour la visite de vendredi, elle a deux autres faits à examiner avec Nora, sa table et son courrier. Samira peut rester du côté de la lecture qu’elles ont choisie."
     },
     {
       "number": 3,
@@ -123,13 +237,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que montrent le trajet et la chaise",
-          "text": "La porte d’entrée s’ouvre, mais la circulation se complique à l’approche du séjour. Ces observations portent sur deux endroits précis. Nathalie parle aussi des repas dans le fauteuil et de la place qu’elle n’a plus pour recevoir Agnès. Le trajet et la table n’ont pas changé au même moment. Une pochette contenant des papiers de librairie attire son regard. Certaines décisions sont suspendues depuis des années. Quand Nora lui demande ce qui aurait rendu le trajet plus simple mardi, elle peut répondre sans savoir combien d’objets elle serait prête à transmettre."
+          "heading": "Comment les difficultés apparaissent-elles dans une évaluation à domicile ?",
+          "points": [
+            {
+              "heading": "Le même espace à deux moments",
+              "text": "Une pièce peut paraître aussi pleine lors de deux rendez-vous et avoir perdu un usage entre-temps. Situer le changement aide à comprendre son retentissement.",
+              "examples": [
+                "Nathalie mangeait encore à table lors du rendez-vous précédent. Elle mange maintenant parfois au fauteuil.",
+                "Quelqu’un peut avoir longtemps ouvert une armoire sans difficulté, puis cesser de l’utiliser quand son accès se resserre."
+              ]
+            },
+            {
+              "heading": "Ce que montre le trajet",
+              "text": "Une visite convenue renseigne sur des gestes précis et permet de distinguer des obstacles différents. La porte peut fonctionner alors qu’un trajet intérieur reste gêné.",
+              "examples": [
+                "Nora voit la porte d’entrée s’ouvrir complètement.",
+                "À l’entrée du séjour, Nathalie doit faire un écart autour d’un carton."
+              ]
+            },
+            {
+              "heading": "Ce que seule la personne peut expliquer",
+              "text": "Les observations gagnent à être replacées dans l’histoire et dans le vécu de la personne. Un regard extérieur ne donne pas accès au sens des affaires ou au moment où la gêne a commencé.",
+              "examples": [
+                "Nora voit la pochette. Nathalie sait que certaines décisions sur ces papiers remontent à la librairie.",
+                "Agnès a vu la chaise encombrée le mardi. Nathalie décrit aussi les repas qu’elle ne prend plus à table."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider d’abord ce qui doit rester accessible",
-          "text": "Lorsqu’un passage se resserre, il est utile de le dire à l’équipe sans attendre d’avoir réglé toutes les décisions. Nora examine avec Nathalie le trajet vers la porte et ce qu’un tiers peut faire avec son accord. Selon le danger constaté, une intervention adaptée peut nécessiter l’appui de services compétents. Ni la nièce ni une amie n’ont à improviser une manutention. Dans le cas de Nathalie, Nora propose une action limitée aujourd’hui, un rendez-vous pour vérifier l’évolution et un contact si l’accès se réduit de nouveau. Pour la table, elles peuvent convenir d’un autre objectif."
+          "heading": "3 techniques pour préparer une évaluation des usages chez soi",
+          "points": [
+            {
+              "heading": "Arriver avec un avant et un après",
+              "objective": "Rendre perceptible un changement à l’équipe.",
+              "exercise": [
+                "Choisissez un usage que vous connaissiez bien dans cette pièce.",
+                "Rappelez-vous la dernière période où il restait possible.",
+                "Décrivez à quoi ressemble le même geste aujourd’hui."
+              ],
+              "benefit": "La comparaison peut préciser ce que vous souhaitez retrouver."
+            },
+            {
+              "heading": "Choisir ce qui sera montré",
+              "objective": "Convenir du périmètre d’une visite à domicile.",
+              "exercise": [
+                "Demandez à l’avance le but de la visite.",
+                "Dites quelles pièces ou quels trajets vous êtes d’accord pour regarder ensemble.",
+                "Précisez quelles informations d’un proche vous souhaitez partager."
+              ],
+              "benefit": "L’équipe peut recueillir les éléments utiles dans un cadre que chacun comprend."
+            },
+            {
+              "heading": "Fixer une priorité avec l’équipe",
+              "objective": "Traiter une difficulté de circulation selon le risque constaté.",
+              "exercise": [
+                "Montrez le passage qui vous préoccupe.",
+                "Demandez au professionnel quelle aide est adaptée aujourd’hui.",
+                "Notez qui contacter si l’accès change et quand refaire le point."
+              ],
+              "benefit": "Les prochaines décisions deviennent plus faciles à situer."
+            }
+          ]
         }
       ],
       "ending_title": "L’accès, puis la table",
@@ -146,21 +316,22 @@
       "continuity": {
         "choice": "Nathalie montre les deux zones à Nora et autorise un déplacement limité pour l’accès. Elles s’accordent sur le passage libre, un contact et une nouvelle visite annoncée.",
         "next": "Nathalie a choisi ce que l’équipe peut faire. Elle veut préciser avec Agnès ce qu’une aide familiale peut recouvrir."
-      }
+      },
+      "conclusion": "L’observation de l’entrée change la priorité de Nora et Nathalie. Elles traitent le passage, puis réservent à la table un autre rendez-vous. Les proches peuvent partager ce qu’ils ont vu si Nathalie souhaite les associer."
     },
     {
       "number": 4,
       "slug": "nathalie-aide-accord-pas-de-debarras-surprise",
-      "title": "Accepter de l’aide sans confier le sort de ses objets",
+      "title": "Quand une offre d’aide fait craindre un débarras",
       "description": "Agnès pense à une camionnette pour aider sa tante. Nathalie cherche comment lui dire ce qu’elle voudrait vraiment lui demander.",
       "context": "Le samedi matin au café, après la visite de Nora",
       "topics": [
-        "Aide consentie",
-        "Désaccord en famille",
-        "Limites du soutien"
+        "Séparation anticipée",
+        "Crainte d’un débarras imposé",
+        "Périmètre de l’aide"
       ],
-      "clinical_focus": "Périmètre de l’aide et consentement",
-      "clinical_intro": "Agnès imagine une matinée de transport et Nathalie entend déjà qu’il faudra se séparer de ses affaires. Dans le trouble d’accumulation compulsive, une aide envisagée par un proche peut toucher des décisions vécues comme très difficiles. Dire qui intervient, sur quoi et avec quel accord permet de proposer un appui que chacun comprend.",
+      "clinical_focus": "Détresse anticipée face à un débarras",
+      "clinical_intro": "Agnès évoque une camionnette et Nathalie imagine devoir choisir le sort de ses affaires devant plusieurs personnes. Dans le trouble d’accumulation compulsive, la perspective d’une séparation rapide peut rendre une proposition d’aide éprouvante. Nathalie précise ce qu’elle souhaite accepter et dans quelles conditions elle peut continuer à décider.",
       "opening": "Agnès dessine deux fenêtres sur une serviette en papier. Elle dessine une chaise devant la première et un carré pour la table devant la seconde. Elle veut savoir de quel côté Nathalie préfère lire. Nathalie lui explique que l’ombre de l’immeuble d’en face gagne le séjour après trois heures et qu’elle aimerait garder la lampe près du fauteuil. Elles en sont à tourner la serviette pour se représenter la pièce quand Agnès dit qu’elle pourrait emprunter la camionnette d’Étienne. Le samedi suivant, il n’en a pas besoin.\n\nNathalie prend le crayon à son tour et le repose aussitôt. Pour qu’une camionnette soit utile, il faudrait qu’elle sache déjà ce qui doit quitter l’appartement. Elle imagine son frère dans le couloir, demandant à chaque passage où mettre ce qu’il a dans les bras. Mardi, elle avait réussi à sortir pour aller travailler avec Agnès. Vendredi, elle a autorisé Nora à déplacer un carton et a vu où il allait. Elle ne peut pas passer de cette décision-là à une matinée de transport en hochant simplement la tête.\n\nAgnès précise qu’elle n’a encore rien proposé à Étienne. Elle voulait éviter de prendre un rendez-vous sans en parler. Dans son sac, elle a toujours le double des clés que Nathalie lui avait confié quand elle attendait une livraison. Elle demande si sa tante préfère le reprendre. Nathalie a envie de lui dire qu’elle peut le garder. Elle veut aussi trouver les mots pour que les clés et la camionnette ne deviennent pas une seule offre à accepter ou à refuser.",
       "sections": [
         {
@@ -170,13 +341,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Un déplacement accepté, une autre idée encore ouverte",
-          "text": "Agnès n’a organisé aucun enlèvement. Elle pense à du temps gagné sur un samedi et propose un moyen de transport. Nathalie se représente plusieurs personnes en mouvement pendant qu’elle essaie de suivre des choix qu’elle n’a pas préparés. Elle avait supporté la décision de vendredi parce qu’elle connaissait l’objet, la destination et la personne qui l’aidait. Elle tient à garder Agnès près d’elle et a peur qu’un refus soit compris comme le contraire. Ce matin, même le double des clés, donné pour une autre raison, prend dans la conversation un sens que les deux femmes n’avaient jamais discuté."
+          "heading": "Comment la crainte d’un débarras change-t-elle la façon d’entendre une offre ?",
+          "points": [
+            {
+              "heading": "Imaginer plusieurs pertes à la fois",
+              "text": "Le mot transport peut évoquer tout ce qui risque de partir. Une offre matérielle pose alors des décisions auxquelles la personne ne se sent pas prête à répondre.",
+              "examples": [
+                "Quand Agnès parle de camionnette, Nathalie voit son frère attendre devant elle avec des affaires à enlever.",
+                "Un proche propose un véhicule pour un meuble et la personne se demande déjà ce qui sera emporté avec lui."
+              ]
+            },
+            {
+              "heading": "S’inquiéter de ce qui se fera en son absence",
+              "text": "Une crainte porte parfois sur le déroulement concret de l’intervention. Savoir qui entre et ce qui sera touché peut compter autant que la proposition elle-même.",
+              "examples": [
+                "Agnès évoque le double de la clé donné pour une livraison. Nathalie souhaite préciser à quoi il servira désormais.",
+                "Avant une visite, une personne veut savoir si quelqu’un ouvrira des tiroirs pendant qu’elle se trouve dans une autre pièce."
+              ]
+            },
+            {
+              "heading": "Hésiter à accepter une aide pourtant souhaitée",
+              "text": "La perspective d’une séparation difficile peut brouiller la différence entre accepter une présence et déléguer des décisions. Un périmètre clair aide à exprimer ces besoins séparément.",
+              "examples": [
+                "Nathalie a accepté que Nora déplace un carton vers un endroit convenu.",
+                "Elle a envie qu’Agnès écoute sa lecture et préfère réserver la table à une intervention déjà annoncée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire le geste qu’on accepte et qui pourra le faire",
-          "text": "Nathalie peut laisser sa nièce garder une clé pour l’usage convenu et refuser la camionnette. Elle peut aussi lui demander un appui qu’elle désire, comme écouter son texte. Agnès peut accepter cette tâche et dire si elle manque de temps. Pour la visite professionnelle annoncée, Nathalie peut demander qui sera présent et convenir d’un périmètre avec Nora. Il peut aussi être utile de dire explicitement que les proches ne photographient ni ne déplacent les affaires de leur propre initiative. Un accord sur un rendez-vous ne vaut que pour l’aide qui a été discutée."
+          "heading": "3 techniques pour demander une aide au périmètre clair",
+          "points": [
+            {
+              "heading": "Préciser ce que l’offre comprend",
+              "objective": "Savoir à quoi l’on répond avant de donner un accord.",
+              "exercise": [
+                "Demandez qui viendrait et pour quelle tâche.",
+                "Dites ce que vous voulez choisir vous-même.",
+                "Confirmez seulement la partie qui vous convient."
+              ],
+              "benefit": "La proposition devient une décision définie à laquelle chacun peut répondre."
+            },
+            {
+              "heading": "Nommer une autre aide possible",
+              "objective": "Rester en lien lorsque la première offre est trop lourde.",
+              "exercise": [
+                "Choisissez un geste dont vous avez envie ou besoin.",
+                "Demandez à la personne si elle est disponible pour ce geste.",
+                "Fixez ensemble un moment et une durée."
+              ],
+              "benefit": "Le refus d’une offre peut laisser la place à une autre activité choisie."
+            },
+            {
+              "heading": "Organiser l’intervention avec l’équipe",
+              "objective": "Préparer une aide matérielle qui respecte les décisions de la personne.",
+              "exercise": [
+                "Choisissez une zone avec la personne qui vous accompagne.",
+                "Convenez de ce qui peut être déplacé et qui demandera l’accord.",
+                "Précisez comment faire une pause ou reprendre plus tard."
+              ],
+              "benefit": "Le cadre partagé peut rendre l’aide moins incertaine."
+            }
+          ]
         }
       ],
       "ending_title": "La clé reste dans le sac",
@@ -192,7 +419,8 @@
       "continuity": {
         "choice": "Nathalie refuse la camionnette, précise le rôle de la clé et confirme une aide professionnelle limitée le lundi. Agnès propose une répétition à la médiathèque.",
         "next": "Lundi, l’équipe intervient sur un côté de la table avec l’accord de Nathalie. Jeudi, elle retrouve Agnès à la médiathèque pour essayer la lecture."
-      }
+      },
+      "conclusion": "La camionnette représente pour Agnès un trajet facile et, pour Nathalie, plusieurs séparations à décider d’un coup. Leur conversation permet de choisir une répétition ensemble et une intervention précise avec Nora. Le rôle du double de la clé devient clair pour toutes les deux."
     },
     {
       "number": 5,
@@ -216,13 +444,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le lecteur qu’elle imagine, l’étagère qu’elle oublie",
-          "text": "Nathalie sait ce qu’elle ferait aujourd’hui avec le lexique. Les autres titres lui font penser à un lecteur qu’elle pourrait recontacter ou à un cadeau qu’elle ferait un jour. À la librairie, penser à quelqu’un devant un titre faisait partie de son métier. Chez elle, certains livres récupérés ainsi sont restés fermés, parce qu’une nouvelle lecture ou un autre projet a pris leur place. Le bénévole voit les volumes rapprochés. Il ne sait rien du bord de la table retrouvé lundi. Nathalie sent les deux réalités se rejoindre seulement quand elle lève la tête et regarde l’heure."
+          "heading": "Comment l’envie de rapporter des objets gratuits prend-elle de l’ampleur ?",
+          "points": [
+            {
+              "heading": "Une occasion qui s’élargit en chemin",
+              "text": "Un objet peut susciter une envie précise. Les suivants peuvent sembler faire partie de la même occasion avant que la personne ait pensé à chacun.",
+              "examples": [
+                "Nathalie s’arrête pour le lexique puis rapproche cinq livres du même éditeur.",
+                "Quelqu’un prend une revue sur un sujet qu’il suit puis envisage la caisse entière pour garder la série."
+              ]
+            },
+            {
+              "heading": "Des usages possibles qui apparaissent très vite",
+              "text": "L’objet peut rappeler une personne ou faire surgir un projet. Une utilité imaginée et l’usage réel au retour ne coïncident pas toujours.",
+              "examples": [
+                "Le lexique a une place dans la préparation du texte de Nathalie. Les photos de ferronneries lui rappellent un client qu’elle ne voit plus.",
+                "Un lot de boîtes semble parfait pour des fournitures dont la personne ne se sert guère."
+              ]
+            },
+            {
+              "heading": "L’espace qui sort du champ de la décision",
+              "text": "Sur le moment, la perspective de disposer d’un objet peut prendre plus de place que la question de son rangement. Le retentissement se voit à force de retours semblables.",
+              "examples": [
+                "En voyant les sacs du bénévole, Nathalie tend la main avant de repenser au bord de table retrouvé lundi.",
+                "Un livre prévu pour une lecture reste près de l’entrée parce que les précédents occupent déjà l’étagère."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prendre le temps de retrouver l’usage envisagé",
-          "text": "Nathalie peut reprendre la raison qui l’a fait s’arrêter et décider de ce qui a réellement une place chez elle aujourd’hui. Elle peut aussi en parler avec Maud, la psychologue de l’équipe, en racontant le moment où les cinq autres livres ont rejoint le premier. Ce genre d’observation peut aider à ajuster le soin, que le choix ait été facile ou qu’elle soit repartie avec tout. Il n’y a pas lieu de demander à Agnès de contrôler ses achats. Sa nièce peut lui rappeler la répétition ou lui dire à quelle heure elle devra partir, puis la laisser décider."
+          "heading": "3 techniques pour examiner une envie d’acquérir",
+          "points": [
+            {
+              "heading": "Revenir à l’usage du jour",
+              "objective": "Distinguer le projet immédiat de ce qui est apparu en regardant les objets.",
+              "exercise": [
+                "Rappelez-vous la raison de votre arrêt.",
+                "Demandez-vous lequel des objets servirait à un projet déjà prévu.",
+                "Voyez où il pourrait rester sans gêner l’usage d’un espace."
+              ],
+              "benefit": "Ce détour peut aider à choisir de façon plus délibérée."
+            },
+            {
+              "heading": "Repérer le moment où l’envie s’étend",
+              "objective": "Trouver un exemple pour le suivi plutôt qu’un bilan des objets rapportés.",
+              "exercise": [
+                "Après la sortie, notez le premier objet remarqué.",
+                "Décrivez quand d’autres affaires ont commencé à vous attirer.",
+                "Racontez ce passage au rendez-vous si vous souhaitez le travailler."
+              ],
+              "benefit": "Un moment précis peut aider la psychologue à comprendre ce qui rend la décision difficile."
+            },
+            {
+              "heading": "Retrouver l’activité déjà convenue",
+              "objective": "Préserver un autre projet pendant que l’envie d’acquérir reste présente.",
+              "exercise": [
+                "Relisez l’heure du rendez-vous ou l’activité prévue.",
+                "Dites à la personne quand vous pensez la rejoindre.",
+                "Laissez-lui la possibilité de commencer seule si vous êtes en retard."
+              ],
+              "benefit": "L’acquisition peut rester une décision personnelle sans transformer le proche en surveillant."
+            }
+          ]
         }
       ],
       "ending_title": "Le lexique ouvert à la bonne page",
@@ -238,12 +522,13 @@
       "continuity": {
         "choice": "Nathalie repart avec le seul livre dont elle a un usage immédiat, répète son texte avec Agnès et note le moment où l’envie s’est étendue aux autres titres.",
         "next": "Nathalie souhaite apporter cet exemple à Maud. Le lexique et le texte sont prêts pour l’enregistrement à la médiathèque."
-      }
+      },
+      "conclusion": "Nathalie repart avec le lexique, puis retrouve Agnès pour la lecture. L’envie des cinq autres titres persiste assez pour qu’elle souhaite en parler avec Maud. Sa nièce peut tenir leur rendez-vous tout en laissant Nathalie décider de ce qu’elle rapporte."
     },
     {
       "number": 6,
       "slug": "nathalie-passage-securite-incendie-relais",
-      "title": "Quand un danger dans l’immeuble demande un relais immédiat",
+      "title": "Quand l’accès au logement compte dans une urgence",
       "description": "Une voisine signale de la fumée dans l’escalier. Nathalie appelle les pompiers et leur décrit l’accès à son logement.",
       "context": "Un lundi matin chez Nathalie, lors d’un incident dans l’immeuble",
       "topics": [
@@ -262,13 +547,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Deux faits distincts à raconter",
-          "text": "Nathalie sait où la fumée a été signalée et peut expliquer l’accès à sa porte. Elle ne sait pas ce qui s’est passé en bas tant que les pompiers ne le lui ont pas précisé. En attendant, elle voit le passage dégagé que Nora a examiné avec elle. Il lui reste des affaires à décider dans le séjour, et la table n’a retrouvé qu’une partie de son usage. Ce matin, la situation exige des secours et l’entrée est un fait utile à leur communiquer. Plus tard, l’inquiétude que l’incident laisse à Nathalie pourra être discutée avec son équipe sans tirer de conclusion sur la cause du danger."
+          "heading": "Comment l’encombrement peut-il gêner les secours et la circulation ?",
+          "points": [
+            {
+              "heading": "Un passage ralenti depuis la pièce de vie",
+              "text": "Même quand une porte s’ouvre, le trajet qui y conduit peut demander un détour. Cette gêne compte lorsque le temps ou les mouvements sont limités.",
+              "examples": [
+                "Avant la visite de Nora, Nathalie devait faire un écart pour rejoindre le séjour depuis l’entrée.",
+                "Dans un autre logement, des affaires rangées près d’un fauteuil obligent à dégager le passage avant qu’une personne puisse s’en lever avec de l’aide."
+              ]
+            },
+            {
+              "heading": "Une porte dont l’ouverture est réduite",
+              "text": "L’encombrement peut gêner l’ouverture ou l’entrée des secours. La situation de la porte constitue donc un fait utile à connaître et à signaler.",
+              "examples": [
+                "Nathalie peut dire au téléphone que sa porte d’entrée s’ouvre complètement.",
+                "Un carton posé derrière une porte peut l’empêcher de s’ouvrir autant que d’habitude."
+              ]
+            },
+            {
+              "heading": "Un accès intérieur à examiner après un incident extérieur",
+              "text": "Un événement dans une partie commune peut rendre la question de l’accès importante sans que les objets en soient la cause. Les secours donnent les consignes selon la situation.",
+              "examples": [
+                "La fumée est dans l’escalier. Nathalie reste chez elle sur instruction des pompiers.",
+                "Après la levée de l’alerte, Nora et Nathalie peuvent vérifier si l’accès au séjour est toujours resté libre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prévenir tout de suite, reprendre le plan après l’alerte",
-          "text": "Un danger immédiat demande un appel aux secours, même si la personne est déjà suivie pour une difficulté liée à son logement. Une fois la situation sécurisée, Nathalie peut reprendre avec Nora le plan prévu pour l’accès et demander une réévaluation si quelque chose a changé. Agnès peut rester disponible après l’alerte ou reporter leur rendez-vous. Elle n’a pas à pénétrer dans l’immeuble pour vérifier un passage ou prendre des affaires. En dehors d’une urgence, si une porte ou un trajet devient difficile à utiliser, la personne peut le signaler rapidement à l’équipe ou aux services compétents."
+          "heading": "3 techniques pour donner l’alerte et reprendre la prévention",
+          "points": [
+            {
+              "heading": "Appeler dès le danger",
+              "objective": "Passer immédiatement le relais aux secours en cas d’incendie ou de danger immédiat de cette nature.",
+              "exercise": [
+                "En France, appelez le 18 ou le 112 dès l’alerte.",
+                "Donnez l’adresse et dites où la fumée ou le danger a été signalé.",
+                "Suivez les consignes des secours. N’empruntez pas un escalier enfumé."
+              ],
+              "benefit": "Les secours peuvent décider de la conduite adaptée à ce qui se passe."
+            },
+            {
+              "heading": "Décrire l’accès depuis un endroit sûr",
+              "objective": "Fournir les informations utiles pendant l’appel aux secours.",
+              "exercise": [
+                "Précisez où vous vous trouvez.",
+                "Dites si la porte ou le passage présente un obstacle dont vous avez connaissance.",
+                "Restez disponible pour les questions des secours et suivez leurs indications."
+              ],
+              "benefit": "Les intervenants disposent de faits pour situer l’accès au logement."
+            },
+            {
+              "heading": "Revoir le trajet après l’alerte",
+              "objective": "Vérifier avec l’équipe que l’accord sur le passage reste applicable.",
+              "exercise": [
+                "Attendez que les secours aient déclaré la situation maîtrisée.",
+                "Dites à votre équipe ce qui a été observé au sujet de l’accès.",
+                "Convenez d’une nouvelle vérification et de qui appeler si le passage se rétrécit."
+              ],
+              "benefit": "L’incident peut aider à préciser le plan de prévention à partir de faits."
+            }
+          ]
         }
       ],
       "ending_title": "L’appel d’après",
@@ -285,37 +626,94 @@
       "continuity": {
         "choice": "Nathalie appelle les pompiers dès le signalement de fumée et suit leurs consignes. Une fois l’alerte levée, elle garde les rendez-vous avec Nora et Maud.",
         "next": "Nora revoit les accès lors de la visite prévue. Nathalie retrouve Maud au centre pour parler de l’acquisition et du coût d’une séparation."
-      }
+      },
+      "conclusion": "Nathalie a pu décrire sa porte et suivre les consignes parce qu’elle a passé le relais dès le signalement de fumée. Elle reprendra le trajet avec Nora une fois l’alerte levée. Pour Agnès, le premier appui consiste à respecter les consignes et le moment où les secours lui disent qu’elle peut rejoindre sa tante."
     },
     {
       "number": 7,
       "slug": "nathalie-tcc-decision-separation-accompagnee",
-      "title": "Travailler la difficulté à se séparer d’un objet en thérapie",
+      "title": "Quand la peur de manquer rend difficile une séparation",
       "description": "Nathalie montre à Maud deux intercalaires identiques. Ensemble, elles regardent ce qui rend le choix difficile.",
       "context": "Au centre, en rendez-vous avec Maud, psychologue de l’équipe spécialisée",
       "topics": [
-        "Thérapie cognitive et comportementale",
-        "Décision de séparation",
-        "Détresse anticipée"
+        "Peur de manquer",
+        "Besoin de réserve",
+        "Décision de séparation en thérapie"
       ],
-      "clinical_focus": "Apprentissage accompagné des décisions de séparation",
-      "clinical_intro": "Nathalie veut comprendre pourquoi deux intercalaires identiques lui paraissent indispensables. Une thérapie cognitive et comportementale adaptée au trouble d’accumulation compulsive peut aborder les pensées, l’inconfort et les décisions autour des possessions. Nathalie choisit avec la psychologue ce qu’elle accepte d’essayer, puis décrit ce que l’expérience lui a coûté.",
+      "clinical_focus": "Crainte de manquer et besoin de garder",
+      "clinical_intro": "Deux intercalaires identiques semblent nécessaires à Nathalie alors qu’elle en possède d’autres. Dans le trouble d’accumulation compulsive, une possibilité de manque peut devenir très convaincante au moment de se séparer d’un objet. Avec sa psychologue, Nathalie examine l’usage prévu, la peur qu’elle ressent et ce qui se passe après une décision choisie.",
       "opening": "Les deux intercalaires bleus se superposent exactement. Nathalie les a choisis chez elle parce qu’aucune écriture ne permet de les distinguer. Ils viennent d’un paquet qu’elle utilisait pour les commandes de la librairie. Elle les a gardés depuis sa fermeture, avec l’idée qu’elle les mettrait un jour dans ses dossiers personnels. Mardi, Nora est repassée. Avec Nathalie, elle a vérifié que le trajet entre l’entrée et le séjour était resté libre et que la porte s’ouvrait toujours complètement. Nathalie a maintenu l’accord. Elle laisse le passage libre et appelle l’équipe s’il se rétrécit. Ce matin, au centre, Nathalie a laissé le carnet ouvert à la page « D’abord un, puis six ». Elle raconte les livres du jeudi à Maud avant de sortir les deux cartons bleus de son sac.\n\nÀ la librairie, l’un d’eux aurait suffi à séparer les commandes de la semaine. Chez elle, Nathalie pense qu’il faudrait en avoir un en réserve. Elle a déjà les deux mains posées sur les intercalaires quand elle explique qu’elle en a d’autres, exactement pareils, dans le tiroir du buffet. La psychologue lui demande ce qu’elle prévoit de faire avec ceux du tiroir. Nathalie a une réponse pour trois dossiers. Quand elles arrivent au quatrième, elle se met à chercher un dossier dont elle n’aurait pas encore eu l’idée.\n\nMaud lui demande si elle veut seulement décrire cette pensée ou si elle aimerait regarder ce qui se passerait en prenant une décision sur l’un des deux. Nathalie se redresse. Elle croyait qu’il faudrait commencer par une affaire à laquelle elle tient davantage pour que le rendez-vous compte. Elle a laissé la pochette violette chez elle. Elle regarde la main droite, celle qui serre le plus fort le carton bleu, et s’entend demander où il irait.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que la thérapie peut travailler",
-          "text": "Une thérapie cognitive et comportementale, ou TCC, adaptée à l’accumulation peut aider à examiner la façon dont on décide de rapporter, de garder ou de laisser partir des objets. Le soin peut inclure des exercices choisis avec le thérapeute, un travail sur les attentes liées aux possessions et des façons de faire face à la détresse. Des essais ont observé une amélioration des symptômes chez des adultes par rapport à des personnes en attente de soin. Les bénéfices varient et ces comparaisons ne prédisent pas le résultat de Nathalie. S’accorder sur un objectif et pouvoir dire ce qui demeure difficile font partie du travail."
+          "heading": "La peur de manquer peut peser sur le choix",
+          "text": "Dans le trouble d’accumulation compulsive, la conviction qu’un objet sera nécessaire peut rendre difficile l’idée de s’en séparer, même quand il existe des doubles. Une thérapie cognitive et comportementale adaptée peut aborder avec la personne ce qu’elle attend de ses affaires, les décisions qui lui coûtent et la détresse qu’elles font naître. Des essais chez des adultes ont observé une amélioration des symptômes comparativement à l’attente d’un soin. Les bénéfices varient selon les personnes. Le rendez-vous de Nathalie montre une décision convenue avec sa psychologue."
         },
         {
           "role": "manifestations",
-          "heading": "Un besoin de réserve qui dépasse les dossiers nommés",
-          "text": "Maud voit deux intercalaires et Nathalie lui parle de ceux du buffet. L’objet a une utilité réelle. La difficulté apparaît quand Nathalie imagine un nombre de dossiers qui augmente au fur et à mesure de la conversation. Elle dit qu’elle redoute d’avoir à recommencer toutes ses recherches le jour où il lui en manquera un. Pour elle, ne plus posséder l’intercalaire est déjà une perspective pénible. Elle avait préparé le rendez-vous avec un objet peu chargé d’histoire. Le choix lui demande de l’effort même dans cette situation."
+          "heading": "Comment le besoin de réserve se manifeste-t-il au moment de choisir ?",
+          "points": [
+            {
+              "heading": "Une utilité réelle qui s’étend à des usages possibles",
+              "text": "Un objet peut servir. Le besoin de réserve devient difficile à délimiter quand chaque futur usage imaginé paraît devoir être couvert dès aujourd’hui.",
+              "examples": [
+                "Nathalie connaît trois dossiers qui lui demanderaient un intercalaire puis cherche un quatrième dossier encore indéfini.",
+                "Une personne garde plusieurs fournitures identiques par crainte d’un projet qu’elle n’a pas encore commencé."
+              ]
+            },
+            {
+              "heading": "Une décision qui devient pénible avant d’être prise",
+              "text": "Penser à un manque futur peut provoquer une gêne présente. Le choix s’alourdit même lorsque l’objet a peu de valeur affective.",
+              "examples": [
+                "Nathalie serre le carton bleu avant de décider où il pourrait aller.",
+                "Quelqu’un peut garder longtemps en main une enveloppe de rechange parce qu’il pense déjà au jour où elle manquerait."
+              ]
+            },
+            {
+              "heading": "Une inquiétude qui dure au-delà du geste",
+              "text": "Le ressenti après une séparation peut évoluer sans que la crainte disparaisse tout de suite. Ces deux informations peuvent être discutées dans le suivi.",
+              "examples": [
+                "Les doigts de Nathalie se détendent après qu’elle a confié l’intercalaire.",
+                "Elle pense encore au dossier pour lequel il pourrait lui manquer."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une question à examiner avec la psychologue",
-          "text": "Nathalie et Maud peuvent rester sur l’exemple, sans passer à des papiers plus importants. Si Nathalie souhaite prendre une décision, elles peuvent préciser à quoi elle s’attend, ce qu’elle accepte et ce qui sera revu ensuite. La psychologue peut tenir compte de son inconfort et de sa situation pour ajuster les prochaines séances. Les proches n’ont pas à recréer l’exercice chez elle ou à choisir pour elle une affaire à donner. Si la détresse reste forte ou rend un essai trop coûteux, cela donne une information à rapporter au suivi."
+          "heading": "3 techniques pour parler du besoin de réserve en thérapie",
+          "points": [
+            {
+              "heading": "Apporter un choix récent",
+              "objective": "Donner au thérapeute un exemple qu’il pourra examiner avec vous.",
+              "exercise": [
+                "Repensez à un objet qui vous semblait nécessaire en double.",
+                "Décrivez ce qu’il aurait pu vous manquer et dans quelles circonstances.",
+                "Dites où vous en étiez quand vous avez laissé la décision en attente."
+              ],
+              "benefit": "Cet exemple peut préciser ce que la peur de manquer recouvre."
+            },
+            {
+              "heading": "S’accorder sur ce qui est possible en séance",
+              "objective": "Laisser la personne choisir la forme du travail et sa difficulté.",
+              "exercise": [
+                "Dites au thérapeute si vous préférez parler du choix ou si vous souhaitez examiner un essai.",
+                "Convenez ensemble de la décision que vous vous sentez en mesure d’aborder.",
+                "Dites comment vous pourrez signaler que c’est trop coûteux."
+              ],
+              "benefit": "Le professionnel peut ajuster le soin à partir de votre accord et de votre vécu."
+            },
+            {
+              "heading": "Raconter ce qui reste après une décision",
+              "objective": "Aider le suivi à tenir compte du ressenti, même quand un choix a été fait.",
+              "exercise": [
+                "Rappelez ce que vous redoutiez avant le geste.",
+                "Décrivez ce que vous avez ressenti juste après et plus tard, si cela a changé.",
+                "Demandez au thérapeute de reprendre ce point avec vous."
+              ],
+              "benefit": "La suite peut tenir compte de l’effort et de l’inquiétude qui persistent."
+            }
+          ]
         }
       ],
       "ending_title": "Un intercalaire au centre",
@@ -332,7 +730,8 @@
       "continuity": {
         "choice": "Nathalie choisit de confier un intercalaire à l’accueil et de garder l’autre. Elle convient avec Maud de revenir sur l’inconfort et le besoin de réserve.",
         "next": "Nathalie va à l’enregistrement de la médiathèque avec Agnès. Le suivi des décisions se poursuit avec Maud."
-      }
+      },
+      "conclusion": "Un seul intercalaire quitte le sac. L’idée de manquer en reste présente et Maud convient de la reprendre avec Nathalie. Si celle-ci raconte le rendez-vous à Agnès, elle peut choisir de partager le coût du geste autant que la décision elle-même."
     },
     {
       "number": 8,
@@ -356,13 +755,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une invitation qui paraît demander davantage",
-          "text": "Tarek donne trois options, dont celle de publier le son seul. Agnès voit Nathalie retirer sa feuille. Elle ne peut pas en déduire ce que sa tante ressent. Nathalie, elle, connaît déjà la gêne de refuser des visites ou d’inventer une autre raison de se retrouver à l’extérieur. Elle est tentée de partir au moment où elle allait lire une histoire qu’elle aime. Elle a envie d’enregistrer le récit et veut garder son appartement en dehors du projet. Avant de revenir près du micro, elle souhaite entendre que les deux peuvent aller ensemble."
+          "heading": "Comment la honte du logement peut-elle réduire la participation ?",
+          "points": [
+            {
+              "heading": "Anticiper un jugement avant qu’il soit exprimé",
+              "text": "Une question ordinaire peut évoquer tout ce que la personne redoute de montrer. La scène anticipée peut prendre plus de place que la demande réelle.",
+              "examples": [
+                "Tarek propose trois options pour l’image. Nathalie imagine des gens du quartier reconnaître son buffet.",
+                "Une personne pense aux commentaires qu’elle pourrait entendre dès qu’un invité demande s’il peut passer."
+              ]
+            },
+            {
+              "heading": "Donner une autre raison pour préserver sa vie privée",
+              "text": "Quand parler du logement paraît coûteux, il peut sembler plus facile d’évoquer un détail qui évite d’ouvrir la conversation.",
+              "examples": [
+                "Nathalie dit que la lumière chez elle serait mauvaise pour une photo.",
+                "Elle a déjà proposé de se voir dehors sans dire pourquoi recevoir lui posait problème."
+              ]
+            },
+            {
+              "heading": "Hésiter à participer à une activité désirée",
+              "text": "La gêne peut s’étendre à des projets qui ont lieu ailleurs. Rester libre du contenu partagé permet parfois de garder une activité à laquelle on tient.",
+              "examples": [
+                "Nathalie envisage de ranger son carnet et de partir avant sa lecture.",
+                "Elle souhaite pourtant faire entendre le récit de l’anguille et garde son album près d’elle."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qui accompagne la lecture",
-          "text": "Nathalie peut demander à Tarek ce qui sera affiché avec le son, puis donner son accord pour les seuls éléments qui lui conviennent. Elle peut parler à Agnès de la gêne de la photo sans lui déléguer le soin d’expliquer sa situation. S’il est devenu fréquent d’abandonner des activités de peur du regard, ce vécu peut être abordé avec la psychologue. Il est possible de réfléchir à ce qu’on souhaite reprendre, à ses conditions et à l’aide demandée, sans faire d’une confidence publique un passage obligé."
+          "heading": "3 techniques pour participer en gardant la maîtrise de ce qu’on partage",
+          "points": [
+            {
+              "heading": "Vérifier ce qui est proposé",
+              "objective": "Clarifier une demande qui semble ouvrir trop largement la conversation.",
+              "exercise": [
+                "Demandez ce qui est nécessaire pour participer.",
+                "Vérifiez quelles informations seraient accessibles et à qui.",
+                "Répondez sur les seuls éléments que vous souhaitez partager."
+              ],
+              "benefit": "La réponse peut porter sur l’activité réelle et ses conditions."
+            },
+            {
+              "heading": "Préparer une réponse qui suffit",
+              "objective": "Pouvoir rester dans le projet avec une formulation que l’on choisit.",
+              "exercise": [
+                "Décidez de ce que vous acceptez, comme le son seul.",
+                "Dites-le en une phrase à la personne qui organise.",
+                "Choisissez si vous voulez en parler séparément à un proche."
+              ],
+              "benefit": "La personne peut participer à ses conditions et réserver son récit personnel."
+            },
+            {
+              "heading": "Revenir sur une activité évitée en suivi",
+              "objective": "Mettre des mots sur ce que la crainte du jugement change au quotidien.",
+              "exercise": [
+                "Repensez à une invitation qui vous intéressait.",
+                "Dites ce que vous craigniez qu’il arrive en l’acceptant.",
+                "Discutez avec votre équipe d’une façon de reprendre l’activité qui vous conviendrait."
+              ],
+              "benefit": "Le suivi peut prendre en compte le retentissement sur les relations et les projets."
+            }
+          ]
         }
       ],
       "ending_title": "Le bruit de l’atelier dans le texte",
@@ -377,7 +832,8 @@
       "continuity": {
         "choice": "Nathalie enregistre sa lecture et autorise la diffusion du son avec son prénom. Elle n’envoie pas d’image de chez elle et ramène l’album.",
         "next": "Samira cherche un tampon pour son atelier. Nathalie décide de revoir les anciens objets de la librairie qui se trouvent au buffet."
-      }
+      },
+      "conclusion": "La gêne a presque coûté la lecture à Nathalie. Elle accepte que sa voix et son prénom accompagnent le récit et décide de garder le reste privé. Agnès a un rôle précis qu’elle peut tenir derrière la vitre, écouter la lecture."
     },
     {
       "number": 9,
@@ -401,13 +857,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Deux histoires, deux choix possibles",
-          "text": "Nathalie dit d’emblée qu’elle souhaite garder le taquet. Agnès peut entendre cette décision et l’histoire des encoches. Elle entend Nathalie hésiter sur le tampon. Sa tante aime qu’il puisse servir à l’atelier de Samira et se représente déjà le regret qui pourrait suivre. L’ancienne libraire a déjà donné des objets dont elle ne se rappelle plus la forme. Elle ne sait pas ce qu’il en sera de celui-ci. Son incertitude reste là après le récit, même si le fait de le raconter lui a fait plaisir."
+          "heading": "Comment un souvenir peut-il rendre la séparation difficile ?",
+          "points": [
+            {
+              "heading": "Un détail matériel qui rappelle une personne",
+              "text": "La forme, une trace ou la texture d’un objet peuvent rappeler une scène avec précision. L’attachement à ce détail prend un sens personnel.",
+              "examples": [
+                "Les deux encoches du taquet rappellent à Nathalie le bricolage de Lucette.",
+                "Un ticket annoté peut rappeler l’écriture d’un ami et l’endroit où il a donné rendez-vous."
+              ]
+            },
+            {
+              "heading": "Un objet associé à un rôle familier",
+              "text": "Un objet peut faire revivre une tâche, une place dans un groupe ou une façon de recevoir quelqu’un. L’utilité actuelle ne rend pas compte de toute son importance.",
+              "examples": [
+                "Le tampon rappelle à Nathalie les atlas qu’elle mettait de côté pour monsieur Septier.",
+                "Une vieille sacoche peut évoquer les trajets d’un ancien travail même si la personne ne la porte plus."
+              ]
+            },
+            {
+              "heading": "Un vide qu’on anticipe et qu’on peut encore ressentir",
+              "text": "La perspective de ne plus retrouver un objet à sa place peut peser sur un don. Le ressenti peut persister quand le choix a été voulu.",
+              "examples": [
+                "Nathalie s’imagine devant le tiroir vide de son tampon avant de répondre à Samira.",
+                "Après le don, elle ouvre encore le tiroir et éprouve un manque."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décider de garder, de transmettre ou d’en reparler",
-          "text": "Nathalie peut garder le taquet sans avoir à défendre l’ensemble du tiroir. Pour le tampon, elle peut demander à Samira si elle en ferait un usage durable et distinguer un prêt d’un don. Si elle préfère attendre, elles peuvent décider quand en reparler. Raconter un objet peut être agréable ou utile à la personne. Elle peut choisir quand elle a envie de le faire. La séparation peut rester éprouvante. Nathalie peut en parler avec Maud si la peur du regret la bloque souvent. Agnès peut écouter le récit sans le traiter comme une invitation à vider le tiroir."
+          "heading": "3 techniques pour aborder une décision chargée de souvenirs",
+          "points": [
+            {
+              "heading": "Nommer ce que l’on veut garder",
+              "objective": "Reconnaître une décision déjà claire sans ouvrir l’ensemble des affaires.",
+              "exercise": [
+                "Choisissez l’objet auquel vous pensez.",
+                "Dites, si vous le souhaitez, ce qui lui donne de l’importance.",
+                "Indiquez que la décision concerne cet objet précis."
+              ],
+              "benefit": "Le choix peut être entendu sans s’étendre à tout le rangement."
+            },
+            {
+              "heading": "Préciser le sens d’une transmission",
+              "objective": "Vérifier ce qu’un prêt ou un don voudrait dire pour vous.",
+              "exercise": [
+                "Demandez à la personne comment elle utiliserait l’objet.",
+                "Distinguez un prêt avec retour et un don qu’elle garderait.",
+                "Répondez quand vous êtes prêt ou convenez d’en reparler."
+              ],
+              "benefit": "Les deux personnes peuvent donner le même sens à la décision."
+            },
+            {
+              "heading": "Parler du manque après le choix",
+              "objective": "Décrire l’effet réel d’une séparation au lieu de devoir l’évaluer sur le moment.",
+              "exercise": [
+                "Repérez quand vous cherchez de nouveau l’objet.",
+                "Dites ce qui vous revient du souvenir ou de la décision.",
+                "Si cette gêne vous bloque souvent, reprenez cet exemple avec votre équipe."
+              ],
+              "benefit": "Ce retour peut aider à préparer les prochaines décisions sensibles."
+            }
+          ]
         }
       ],
       "ending_title": "Le taquet rentre dans le tiroir",
@@ -423,7 +935,8 @@
       "continuity": {
         "choice": "Nathalie garde le taquet de Lucette et donne le tampon à Samira pour un usage convenu. Le regret persiste et elle reprend contact avec Lucette.",
         "next": "Les décisions sur le buffet sont terminées pour le moment. Nathalie veut proposer à Agnès une heure de travail à la table quand son usage aura été vérifié."
-      }
+      },
+      "conclusion": "Le taquet reste et le tampon trouve un usage auprès de Samira. Nathalie ressent encore le manque et retrouve Lucette au téléphone. Agnès peut accueillir l’histoire des encoches en laissant à Nathalie le choix de chaque objet."
     },
     {
       "number": 10,
@@ -447,13 +960,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Des décisions remises à un moment plus calme",
-          "text": "Nathalie n’a pas ramené de sac de livres cette semaine. Elle a posé plusieurs fois le courrier à l’endroit qui venait d’être dégagé. En retrouvant la lettre à laquelle elle doit répondre, elle voit que les papiers n’ont pas tous le même rôle. Pour le prospectus comme pour le programme, elle a peur de perdre un renseignement qu’elle pourrait chercher un jour. Agnès n’a encore vu que le message pour mardi. Nathalie ressent la tentation de faire disparaître la pile avant son arrivée, alors que le passage est resté libre et que le travail sur la table peut être revu."
+          "heading": "Comment les arrivées ordinaires reprennent-elles une surface ?",
+          "points": [
+            {
+              "heading": "De petites arrivées répétées",
+              "text": "Quelques objets reçus séparément peuvent s’installer au même endroit. Le changement devient visible quand la personne tente de reprendre l’activité qu’elle y faisait.",
+              "examples": [
+                "À chaque passage du facteur, Nathalie ajoute un courrier sur la table.",
+                "Un ticket ou un prospectus posé au retour des courses peut rejoindre d’autres papiers sur une desserte."
+              ]
+            },
+            {
+              "heading": "Des papiers qui posent des questions différentes",
+              "text": "Une obligation réelle et la crainte de perdre un renseignement futur peuvent coexister dans une pile. Elles appellent des décisions différentes.",
+              "examples": [
+                "Nathalie retrouve une lettre à laquelle elle doit répondre.",
+                "L’invitation de l’éditeur et le prospectus lui posent la question de l’information qu’elle regretterait de perdre."
+              ]
+            },
+            {
+              "heading": "Une amélioration locale qui reste fragile",
+              "text": "Un usage retrouvé peut se perdre de nouveau pendant que d’autres accords tiennent. Le changement précis aide à situer ce qui doit être repris.",
+              "examples": [
+                "Nathalie avait lu plusieurs soirs à la table et doit maintenant soulever des enveloppes pour retrouver son roman.",
+                "Le trajet jusqu’à la porte reste libre pendant que les papiers reprennent le coin de lecture."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Adapter l’accord au moment où la difficulté revient",
-          "text": "Nathalie peut apporter à Maud le récit de plusieurs arrivées et de la place qu’elles ont prise. Avec l’équipe, elle peut examiner où traiter le courrier dont elle a besoin et ce qui rend les autres décisions difficiles. L’objectif peut rester une table utilisable plutôt qu’une série d’objets à retirer pour mardi. Elle peut proposer à Agnès de confirmer le lieu le matin du rendez-vous. Si l’accès à la porte se réduit, ce changement demande un avis à part, rapidement. Déplacer les papiers vers le passage compromettrait l’accord qui tient encore."
+          "heading": "3 techniques pour répondre au retour des papiers",
+          "points": [
+            {
+              "heading": "Suivre une arrivée jusqu’à la table",
+              "objective": "Repérer le moment où un papier a pris une place prévue pour autre chose.",
+              "exercise": [
+                "Choisissez un courrier récent.",
+                "Rappelez le geste qui vous a amené à le poser là.",
+                "Dites quel usage est devenu plus difficile depuis."
+              ],
+              "benefit": "Ce récit peut aider l’équipe à repérer une difficulté concrète."
+            },
+            {
+              "heading": "Repérer un courrier qui demande une action",
+              "objective": "Donner une place distincte à une tâche réelle dans la pile.",
+              "exercise": [
+                "Repérez une lettre qui appelle une réponse.",
+                "Notez l’action à faire ou le moment où vous souhaitez la traiter.",
+                "Voyez avec l’équipe où garder ce courrier en cours sans reprendre le passage."
+              ],
+              "benefit": "Vous pouvez retrouver la tâche à faire et reprendre séparément les décisions plus difficiles."
+            },
+            {
+              "heading": "Garder deux lieux possibles pour la visite",
+              "objective": "Préserver le travail prévu pendant que l’accord sur la table s’ajuste.",
+              "exercise": [
+                "Convenez d’un lieu possible en dehors de chez vous.",
+                "Fixez le moment où vous confirmerez l’endroit choisi.",
+                "Gardez le retour des papiers comme sujet à discuter avec le professionnel."
+              ],
+              "benefit": "Le lieu du rendez-vous peut changer sans créer une urgence de rangement."
+            }
+          ]
         }
       ],
       "ending_title": "L’enveloppe à laquelle elle doit répondre",
@@ -469,37 +1038,94 @@
       "continuity": {
         "choice": "Nathalie rapporte le retour des papiers à Maud, convient d’un endroit pour le courrier en cours et réexamine les deux places avec Nora.",
         "next": "La table est disponible pour mardi. Agnès et Nathalie gardent la médiathèque comme possibilité et la visite reste consacrée au travail d’Agnès."
-      }
+      },
+      "conclusion": "Cette fois, les papiers reviennent par la boîte aux lettres. Nathalie et l’équipe revoient la place du courrier et retrouvent la table sans compromettre le passage. Agnès peut s’en tenir au lieu et au moment de leur rendez-vous."
     },
     {
       "number": 11,
       "slug": "nathalie-visite-place-proche-accueil",
-      "title": "Recevoir un proche en gardant un accord qui lui convient aussi",
-      "description": "Agnès s’installe près de la fenêtre pour travailler. Nathalie veut retrouver une visite où chacune peut faire ce qu’elle était venue faire.",
+      "title": "Quand les décisions de tri empiètent sur une visite",
+      "description": "Agnès s’installe pour écrire. Un programme qui dépasse du buffet donne à Nathalie envie de consacrer une partie de la visite à ses papiers.",
       "context": "Le mardi suivant, à la table du séjour, pour le premier temps de travail d’Agnès",
       "topics": [
-        "Rôle du proche",
-        "Usage retrouvé de la table",
-        "Limites de disponibilité"
+        "Temps pris par le tri",
+        "Difficultés de décision",
+        "Retentissement sur la visite"
       ],
-      "clinical_focus": "Place du proche dans un usage retrouvé",
-      "clinical_intro": "Agnès vient écrire deux légendes et Nathalie a prévu de lire près d’elle. Le trouble d’accumulation compulsive peut rendre les visites difficiles ou leur donner peu à peu la forme d’une séance de tri. Un accord précis permet ici de retrouver un moment partagé et de laisser les questions de soin à l’équipe qui suit Nathalie.",
-      "opening": "Agnès pose son ordinateur à l’endroit où Nathalie avait retrouvé les enveloppes. Elle regarde autour d’elle pour savoir où mettre son sac. Nathalie lui montre la place au pied du fauteuil, à l’écart du trajet vers l’entrée. Agnès s’assoit, recule la chaise et met ses écouteurs. Elle est venue avec deux sons à légender, les coups de la grille du cordonnier et un signal qui pourrait être une sonnette de vélo. Elle a une heure avant son atelier. Nathalie pose son roman sur le côté où tombe la lumière, puis apporte le café.\n\nAvant de s’asseoir, Nathalie remarque un programme qui dépasse d’un dossier du buffet. Elle pense qu’Agnès pourrait lui dire tout de suite si elle se souvient du nom qui manque. Elles trouveraient peut-être d’autres décisions à régler avec les papiers voisins. Elle a déjà pris le programme du bout des doigts quand sa nièce enlève un écouteur et lui demande en quelle année la fille du cordonnier a repris l’atelier. Nathalie le sait à un été près. Elle laisse le papier où il est et va écouter le son avec elle.\n\nAgnès dit qu’elle aimerait ensuite terminer la seconde légende seule. Nathalie avait préparé plusieurs choses à lui faire entendre depuis le mardi où elles étaient parties vers la médiathèque. Elle choisit la lecture de l’anguille et lui demande si elles peuvent s’en repasser un bout à la fin. Agnès regarde l’heure. Elles ont le temps. Elle veut d’abord trancher sur la sonnette.",
+      "clinical_focus": "Temps pris par les décisions de tri",
+      "clinical_intro": "Agnès a une heure pour terminer ses légendes. Un programme qui dépasse du buffet amène Nathalie à envisager plusieurs décisions de tri pendant ce temps. Dans le trouble d’accumulation compulsive, le temps pris par ces choix peut empiéter sur les échanges, même quand le logement permet de nouveau de s’asseoir ensemble.",
+      "opening": "Agnès pose son ordinateur à l’endroit où Nathalie avait retrouvé les enveloppes. Elle regarde autour d’elle pour savoir où mettre son sac. Nathalie lui montre la place au pied du fauteuil, à l’écart du trajet vers l’entrée. Agnès s’assoit, recule la chaise et met ses écouteurs. Elle est venue avec deux sons à légender, les coups de la grille du cordonnier et un signal qui pourrait être une sonnette de vélo. Elle a une heure avant son atelier. Nathalie pose son roman sur le côté où tombe la lumière, puis apporte le café.\n\nAvant de s’asseoir, Nathalie remarque un programme qui dépasse d’un dossier du buffet. Elle avait ouvert trois programmes semblables la veille pour retrouver un nom et y avait passé un quart d’heure. Elle pense qu’Agnès pourrait lui dire tout de suite si elle se souvient du nom qui manque. Puis elles trouveraient peut-être d’autres décisions à régler avec les papiers voisins. Une partie de l’heure qu’elles viennent de se donner y passerait. Elle a déjà pris le programme du bout des doigts quand sa nièce enlève un écouteur et lui demande en quelle année la fille du cordonnier a repris l’atelier. Nathalie le sait à un été près. Elle laisse le papier où il est et va écouter le son avec elle.\n\nAgnès dit qu’elle aimerait ensuite terminer la seconde légende seule. Nathalie avait préparé plusieurs choses à lui faire entendre depuis le mardi où elles étaient parties vers la médiathèque. Elle choisit la lecture de l’anguille et lui demande si elles peuvent s’en repasser un bout à la fin. Agnès regarde l’heure. Elles ont le temps. Elle veut d’abord trancher sur la sonnette.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "La visite comme activité choisie à deux",
-          "text": "L’accumulation peut modifier ce qu’un proche et la personne font lorsqu’ils se retrouvent. Certaines visites deviennent difficiles à organiser, d’autres se concentrent sur les affaires ou les inquiétudes du logement. Retrouver un usage précis, comme s’asseoir à deux à une table, peut rendre de nouveau possible un moment désiré. La personne et le proche peuvent convenir du but de cette visite, de ce qu’ils veulent faire ensemble et de leur disponibilité. Le soutien lié au logement et le travail clinique peuvent suivre leur propre calendrier. Cela laisse une place à la relation que Nathalie et Agnès souhaitent entretenir."
+          "heading": "Le temps que prennent les décisions peut changer une visite",
+          "text": "Quand décider du sort de plusieurs affaires reste difficile, les choix peuvent se prolonger au point d’empiéter sur d’autres activités. La personne peut aussi chercher l’appui d’un proche au moment où il passe. Nathalie a retrouvé la possibilité de s’asseoir à table. Elle se voit pourtant consacrer une partie de la visite d’Agnès à des papiers qui continuent de lui poser question. Elle tient à la place que chacune voulait avoir pendant cette heure."
         },
         {
           "role": "manifestations",
-          "heading": "Une chaise qui recule et un dossier qui reste au buffet",
-          "text": "Agnès peut poser son ordinateur et déplacer sa chaise. Le chemin vers la porte reste libre. Ce sont des faits que les deux femmes peuvent constater sans examiner le reste du séjour. Nathalie voit encore le programme au bord du dossier et pense à demander de l’aide pour le contenu. Elle a déjà ce sujet à reprendre avec l’équipe. De son côté, Agnès enlève un écouteur pour une question précise, puis demande du temps pour travailler. Chacune dispose de la table et elles peuvent s’accorder sur un moment pour se parler. La visite prend la forme qu’elles avaient imaginée."
+          "heading": "Comment les choix de tri prennent-ils du temps pendant une visite ?",
+          "points": [
+            {
+              "heading": "Une question qui en entraîne une autre",
+              "text": "Une décision qui paraît rapide peut en réveiller plusieurs, surtout si l’on repense aux renseignements qu’on risque de perdre.",
+              "examples": [
+                "Nathalie a passé un quart d’heure à chercher un nom dans trois programmes.",
+                "Au moment de demander le nom à Agnès, elle pense déjà aux papiers rangés à côté."
+              ]
+            },
+            {
+              "heading": "Un appui espéré sur le moment",
+              "text": "Le passage d’un proche peut sembler offrir une occasion rare d’aborder une affaire difficile. L’aide envisagée peut dépasser le but convenu de la visite.",
+              "examples": [
+                "Nathalie pense que sa nièce pourra l’aider à décider à propos du programme.",
+                "Agnès vient avec ses deux légendes et une heure disponible avant l’atelier."
+              ]
+            },
+            {
+              "heading": "Un temps de relation qui risque d’être reporté",
+              "text": "Le temps passé à discuter des objets compte dans le retentissement quand il réduit celui consacré à des activités souhaitées.",
+              "examples": [
+                "Nathalie veut lire et partager un extrait, deux moments qui seraient plus courts si elles ouvraient les dossiers.",
+                "Dans une autre famille, un café peut s’achever sans avoir laissé le temps de discuter du projet pour lequel on se voyait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Protéger la durée et la raison du rendez-vous",
-          "text": "Nathalie et Agnès peuvent distinguer une heure de lecture et de travail d’une éventuelle demande matérielle. Si un appui de sa nièce est souhaité plus tard, elles pourront le discuter à part et voir si Agnès en a la possibilité. Le retour d’une difficulté d’accès relève du plan convenu avec Nora, et elles peuvent reprendre un rendez-vous ailleurs si l’usage du séjour change. Une question qui ne peut être réglée ce jour-là peut rester pour le suivi. Agnès conserve le droit de partir à l’heure dont elle a besoin."
+          "heading": "3 techniques pour préserver le temps de la visite",
+          "points": [
+            {
+              "heading": "S’accorder sur l’heure et l’activité",
+              "objective": "Donner un cadre précis à un rendez-vous qui compte pour chacun.",
+              "exercise": [
+                "Dites ce que vous aimeriez faire ensemble.",
+                "Demandez à l’autre personne jusqu’à quelle heure elle peut rester.",
+                "Choisissez à quel moment vous ferez ce qui demande la présence des deux."
+              ],
+              "benefit": "L’accord rend visible le temps disponible pour chaque activité."
+            },
+            {
+              "heading": "Réserver la question des objets à un autre moment",
+              "objective": "Éviter qu’une décision coûteuse prenne le temps prévu pour autre chose.",
+              "exercise": [
+                "Identifiez la question qui vous vient pendant la visite.",
+                "Gardez un mot pour la reprendre plus tard si cela vous aide.",
+                "Convenez d’un autre moment ou apportez la question au suivi."
+              ],
+              "benefit": "La décision peut être reprise sans être réglée dans l’urgence d’une rencontre."
+            },
+            {
+              "heading": "Demander un appui distinct",
+              "objective": "Vérifier ce que le proche peut réellement apporter en dehors de la visite.",
+              "exercise": [
+                "Formulez une demande limitée, comme regarder un programme précis.",
+                "Demandez si la personne souhaite y consacrer un autre créneau.",
+                "Si elle ne peut pas, voyez avec l’équipe comment reprendre la question."
+              ],
+              "benefit": "Chacun peut prendre part aux décisions selon sa disponibilité."
+            }
+          ]
         }
       ],
       "ending_title": "La sonnette qu’on entend après le bus",
@@ -515,7 +1141,8 @@
       "continuity": {
         "choice": "Agnès termine ses légendes, Nathalie lit et toutes deux respectent l’heure prévue. Le dossier attend un rendez-vous distinct.",
         "next": "Agnès viendra écouter un extrait de la carte terminée. Nathalie fera le point avec Maud et Nora sur les usages retrouvés et les décisions qui restent coûteuses."
-      }
+      },
+      "conclusion": "En laissant le programme au buffet, Nathalie garde une heure pour lire et écouter avec Agnès. La question du nom reste ouverte et pourra être reprise en suivi. La prochaine visite pourra garder le même accord sur le temps disponible."
     },
     {
       "number": 12,
@@ -539,13 +1166,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le retour d’une habitude, avec des questions ouvertes",
-          "text": "Nathalie s’installe pour écouter la carte et retrouve sa place le soir pour lire. Sa nièce peut venir pour son propre projet. Le passage vers la porte n’a pas retrouvé les obstacles qui le rétrécissaient au départ de l’histoire. Certaines affaires restent dans le buffet ou dans des dossiers. Nathalie se souvient de la cliente à l’écriture violette et ne sait toujours pas ce qu’elle souhaite faire de ses papiers. Le choix de donner le tampon n’a pas rendu celui-là plus facile. Elle a de quoi décrire des progrès et un effort persistant, chacun avec son exemple."
+          "heading": "Comment les améliorations et les difficultés se côtoient-elles dans le suivi ?",
+          "points": [
+            {
+              "heading": "Un usage qui revient à plusieurs reprises",
+              "text": "Un progrès fonctionnel devient plus parlant quand la personne peut l’observer dans des situations qui comptent pour elle.",
+              "examples": [
+                "Nathalie et Agnès écoutent la carte à la table où elles n’avaient pas pu s’installer au départ.",
+                "Nathalie y lit aussi plusieurs soirs quand sa nièce ne vient pas."
+              ]
+            },
+            {
+              "heading": "Des choix qui demeurent coûteux",
+              "text": "Une décision aboutie peut coexister avec d’autres choix laissés en suspens. La facilité acquise dans une situation ne se retrouve pas forcément dans toutes les autres.",
+              "examples": [
+                "Nathalie a donné le tampon et ouvre encore le tiroir certains matins.",
+                "Les commandes sur papier violet lui demandent toujours beaucoup de temps."
+              ]
+            },
+            {
+              "heading": "Des objectifs qui changent de priorité",
+              "text": "Le suivi peut distinguer ce qu’il convient de maintenir et ce qui mérite un nouvel appui. Ces choix se discutent à partir des usages et du vécu.",
+              "examples": [
+                "Nathalie veut garder une table où lire même seule.",
+                "Elle préfère reprendre une décision précise avec Maud avant de passer à une autre pièce."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qu’on veut maintenir et ce qu’on reprend ensuite",
-          "text": "Nathalie peut convenir avec l’équipe de garder l’accès libre, de réserver l’usage de la table et de préciser quand reprendre la question des papiers. Si la circulation change, elle garde un contact professionnel plutôt que d’en faire la responsabilité d’Agnès. Le suivi peut s’adapter si un accord ne tient plus ou si une décision lui coûte trop. Pour leur prochain rendez-vous, les deux femmes peuvent garder une heure à la maison et la possibilité de se retrouver ailleurs. Nathalie peut répondre à Samira à partir de son envie de lire et de ses disponibilités."
+          "heading": "3 techniques pour ajuster le suivi après un progrès d’usage",
+          "points": [
+            {
+              "heading": "Choisir un usage que l’on veut maintenir",
+              "objective": "Garder un objectif lié à une activité qui compte pour la personne.",
+              "exercise": [
+                "Pensez à une activité redevenue possible.",
+                "Dites dans quelles circonstances elle vous sert maintenant.",
+                "Convenez avec l’équipe du prochain moment pour en parler."
+              ],
+              "benefit": "Le suivi peut s’appuyer sur un changement observable."
+            },
+            {
+              "heading": "Apporter un choix qui coûte encore",
+              "objective": "Donner une place aux difficultés qui persistent à côté d’un progrès.",
+              "exercise": [
+                "Repérez une décision qui continue de prendre du temps ou de revenir à l’esprit.",
+                "Dites ce qui la rend difficile aujourd’hui.",
+                "Choisissez avec le professionnel ce que vous souhaitez reprendre en priorité."
+              ],
+              "benefit": "Le projet de soin peut tenir compte du vécu, même si la pièce a retrouvé un usage."
+            },
+            {
+              "heading": "Prévoir comment faire si l’accord change",
+              "objective": "Garder un relais clair et une solution pour le rendez-vous de lecture.",
+              "exercise": [
+                "Rappelez qui contacter si la circulation devient difficile.",
+                "Gardez un autre lieu possible avec la personne qui vient lire.",
+                "Fixez séparément le prochain rendez-vous de suivi."
+              ],
+              "benefit": "Les décisions sur la sécurité, les activités et les soins restent situées."
+            }
+          ]
         }
       ],
       "ending_title": "La première phrase du prochain texte",
@@ -562,7 +1245,8 @@
       "continuity": {
         "choice": "Nathalie et Agnès utilisent le coin de lecture, fixent un prochain moment ensemble et gardent le soin à part. Nathalie propose une nouvelle lecture à Samira.",
         "next": "Le projet de coin de lecture est réalisé. Nathalie poursuit son suivi, le maintien de l’accès et les décisions qu’elle souhaite reprendre, tout en préparant un nouveau texte."
-      }
+      },
+      "conclusion": "La table sert à lire et à écouter la carte, tandis que certaines séparations demandent encore du temps. Nathalie choisit une prochaine lecture et un rendez-vous de suivi distinct. Agnès peut revenir pour lire à côté d’elle."
     }
   ]
 }

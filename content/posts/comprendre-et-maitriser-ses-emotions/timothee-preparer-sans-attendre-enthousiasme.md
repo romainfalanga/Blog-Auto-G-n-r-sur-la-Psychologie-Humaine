@@ -33,14 +33,79 @@ Nora propose de lui prêter une chaise pliante pour l’essai. Elle regarde son 
 
 Des symptômes dépressifs durables peuvent réduire l’intérêt ou le plaisir. Ce qu’une personne imagine ressentir avant une activité et ce qu’elle éprouve en la faisant sont deux expériences distinctes. On peut décrire les deux en consultation, en se rappelant ce qui s’est passé avant et ce qui a retenu l’attention, même brièvement, une fois sur place. Pour Timothée, l’incertitude concerne surtout la perspective de se remettre à préparer des séances chaque semaine. Le détail aperçu sous la lampe est, lui, une chose à laquelle il a eu envie de s’arrêter aujourd’hui.
 
-## L’engagement se brouille quand il devient une série
+## Comment la difficulté à anticiper le plaisir se manifeste-t-elle ?
 
-Dans le garage, Timothée corrige vite l’angle de la lampe et pose à Nora une question précise. Le planning de plusieurs semaines lui donne une impression tout autre. Il se met à imaginer la répétition, le rangement et les réponses qu’il devra trouver avant même d’avoir rencontré Sacha. Nora peut voir le temps qu’il a consacré à son déroulé. Elle ne sait pas que la perspective d’en préparer d’autres lui paraît déjà vide. Ce malaise ne dit rien, pour l’instant, sur le plaisir de Sacha ou sur la qualité de l’essai qu’ils ont fixé.
+### Un projet important dont on attend peu
 
-## Formuler un premier but accessible et révisable
+Une activité peut encore compter alors que l’idée de la faire n’éveille guère de plaisir.
 
-Timothée voudrait transmettre une seule chose pour commencer. En changeant de place autour du violon, chacun pourra comparer ce qu’il remarque et le dire à l’autre. Il peut demander à Sacha si cela rejoint sa question. La durée déjà convenue lui donne le droit de laisser un autre sujet pour plus tard ou de s’en tenir là. S’il apporte cette scène en consultation, il peut parler de la préparation, du petit intérêt éprouvé et de ce qui se ferme quand il essaie d’imaginer la suite. Le rendez-vous avec Sacha reste un moment d’apprentissage. Timothée discute de la gêne qui dure avec ses soignantes.
+**Exemples concrets**
+
+- Timothée tient à transmettre un geste, mais ne se réjouit pas à l’idée de samedi.
+- Un instrument attend dans sa boîte alors qu’il aimerait connaître le résultat de la réparation.
+
+### Un intérêt découvert dans l’activité
+
+L’expérience du moment peut différer de ce que la personne imaginait avant de commencer.
+
+**Exemples concrets**
+
+- Sous la lampe, Timothée s’intéresse à l’ombre que Nora voit de sa place.
+- Il reste quelques minutes à comparer les deux angles alors qu’il avait surtout prévu de dérouler ses notes.
+
+### Une suite difficile à imaginer
+
+Quand on se représente plusieurs rendez-vous, le coût de les préparer peut occuper tout le premier plan.
+
+**Exemples concrets**
+
+- Nora évoque plusieurs samedis et Timothée pense immédiatement au rangement de chaque séance.
+- Il a déjà écrit de quoi occuper une heure alors que le premier essai en dure une demi.
+
+## 3 techniques pour préparer un essai quand l’élan manque
+
+### 1. Un objectif que l’élève peut vérifier
+
+Préparer une tâche qui a un sens pour les deux personnes.
+
+**Exercice pratique**
+
+- Gardez une seule question sur la feuille.
+- Vérifiez avec l’élève qu’elle rejoint sa demande.
+- Réservez un temps pour sa propre observation.
+
+Le projet peut commencer sur un but clair, même avec peu d’enthousiasme d’avance.
+
+### 2. Deux moments à raconter
+
+Distinguer la projection de ce qui a effectivement été éprouvé.
+
+**Exercice pratique**
+
+- Dites ce que vous imaginiez avant de commencer.
+- Relevez un détail qui vous a intéressé, s’il y en a eu un.
+- Ajoutez ce qui vous a coûté.
+
+Cette différence peut préciser le vécu sans évaluer chaque activité comme un test.
+
+### 3. La décision sur la suite attend
+
+Limiter l’engagement à la durée que chacun a choisie.
+
+**Exercice pratique**
+
+- Confirmez la durée du premier essai.
+- Laissez les autres dates libres.
+- Décidez ensemble si vous souhaitez en parler ensuite.
+
+L’accord reste utilisable même si personne ne sait encore ce que donnera l’essai.
 
 ## La question écrite au dos du déroulé
 
 Timothée écrit à Sacha : « On regardera d’abord d’où vient la différence que tu entends. Si on ne sait pas l’expliquer, on pourra au moins préciser la question. » Sacha répond que c’est bien ce qu’il cherche. Nora remet son écharpe et indique qu’elle a cours juste après leur créneau. Timothée dit que c’est entendu. « On garde un samedi. Je te dirai si on en cherche un autre. » Il laisse le déroulé sur l’établi, face retournée, et rentre déjeuner.
+
+---
+
+**Conclusion**
+
+Timothée sait quelle question il veut proposer à Sacha, même s’il ne sait pas à quel point la rencontre lui plaira. Le premier essai suffit pour l’instant. Nora peut l’aider à préparer ce seul créneau.

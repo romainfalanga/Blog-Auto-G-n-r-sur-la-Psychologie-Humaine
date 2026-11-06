@@ -33,14 +33,79 @@ Elle ne répond pas tout de suite. Elle regarde le message dans son lit, puis va
 
 L’intensité des difficultés d’adaptation peut varier avec les rappels du changement et les événements qui s’ajoutent. Un contretemps réel demande parfois une décision, même quand l’esprit revient à ce qui s’est passé ailleurs. Le déplacement de la réunion oblige l’association à trouver un nouveau lieu. Pour Élina, il évoque aussi l’attente d’une date dans son ancien bureau. Quelques journées où elle a réussi à écrire et à rencontrer Farida restent des expériences qui ont eu lieu. La nuit et l’appel manqué renseignent sur son état actuel. Aucun de ces moments ne suffit à déterminer seul comment les prochaines semaines se passeront.
 
-## La ligne changée et le reste de la matinée
+## Comment un nouvel imprévu ravive-t-il une difficulté ?
 
-Élina apprend simplement que le local n’est plus libre. Ce qu’elle imagine ensuite va plus loin. Dans sa tête, Jo reprend son papier, Mireille retire les prénoms et la rubrique du pot n’aura servi qu’à occuper une semaine. Aucun de ces gestes n’a eu lieu. Pendant qu’elle attend, elle revient à un autre planning et dort peu. L’appel manqué de la banque l’ennuie aussi. Il lui faudra convenir d’une autre heure. La contrariété du marché et la difficulté à tenir sa matinée ne se confondent pas.
+### Un obstacle concret à résoudre
 
-## Traiter le changement de lieu et reprendre contact
+Un nouvel événement peut exiger une action réelle et faire écho à une difficulté encore présente.
 
-Mireille peut se renseigner sur l’entrée de la halle, avec une heure à laquelle informer Jo. Élina peut garder le texte en l’état pendant cette vérification. En parallèle, elle peut expliquer à sa médecin que les nuits et les démarches sont de nouveau plus difficiles, même si elle avait fait des choses agréables les jours précédents. La façon dont le problème déborde sur la journée fournit un point de départ pour le suivi. Appeler le cabinet ne l’oblige pas à attendre la réponse pour convenir d’un prochain rappel de la banque. Elle peut choisir l’ordre qui lui permettra de ne pas porter les trois questions en même temps.
+**Exemples concrets**
+
+- La réunion de la mairie prend la place du journal au local.
+- Une personne qui vient de quitter un poste peut recevoir un vrai refus de location et devoir chercher un autre logement.
+
+### L’écho d’une situation antérieure
+
+La pensée peut revenir au changement initial alors que les circonstances et les personnes ont changé.
+
+**Exemples concrets**
+
+- Élina attend que le document de l’association retrouve la ligne du local, comme elle attendait une date au bureau.
+- Un déménagement reporté peut rappeler l’attente d’une réponse lors d’un précédent départ, même si la nouvelle équipe cherche déjà une solution.
+
+### L’effet qui atteint le lendemain
+
+La gêne peut augmenter après plusieurs journées où certaines activités avaient repris.
+
+**Exemples concrets**
+
+- Élina rouvre le message tard dans la nuit et manque le rappel de sa banque.
+- Une personne qui avait renoué avec des amis peut manquer un rendez-vous après une soirée passée à repenser à l’annonce d’un changement.
+
+## 3 techniques pour répartir les suites d’un imprévu
+
+### 1. Vérifier ce qui a réellement changé
+
+Dégager la décision pratique que l’événement demande.
+
+**Exercice pratique**
+
+- Reprenez le dernier message reçu.
+- Écrivez la conséquence certaine en une phrase.
+- Demandez qui peut vérifier la solution suivante et à quel moment.
+
+La décision peut avancer sans attendre que toutes les préoccupations s’apaisent.
+
+### 2. Rétablir un rendez-vous interrompu
+
+Traiter une conséquence précise de la nuit ou de la matinée.
+
+**Exercice pratique**
+
+- Repérez l’appel ou la tâche qui a été manqué.
+- Recontactez l’interlocuteur pour convenir d’une autre heure.
+- Placez le nouveau créneau dans un endroit que vous consultez.
+
+Vous pouvez retrouver un point d’appui concret au milieu d’une journée perturbée.
+
+### 3. Signaler le retour de la gêne
+
+Faire le point quand plusieurs moments du quotidien sont à nouveau touchés.
+
+**Exercice pratique**
+
+- Décrivez le changement récent.
+- Donnez un exemple lié au sommeil et un exemple du lendemain s’ils sont présents.
+- Demandez au cabinet si le rendez-vous peut être rapproché.
+
+Le professionnel peut décider de la suite avec vous à partir de ces faits.
 
 ## Deux appels, deux demandes
 
 Élina demande à Mireille de vérifier si la table peut aller près de l’entrée. Elles conviennent de ne pas lancer l’impression avant l’accord et de prévenir Jo, même si elles n’ont qu’une réponse provisoire. Élina appelle le cabinet et dit qu’elle voudrait parler plus tôt de ses nuits et de la difficulté à tenir ses matinées. On lui propose un créneau le mardi en fin de journée, à la place du mercredi. Après avoir raccroché, elle choisit une autre heure de rappel auprès de sa banque et la note au dos du carton du cabinet.
+
+---
+
+**Conclusion**
+
+L’association vérifie un autre emplacement pendant qu’Élina reprend le rendez-vous qu’elle avait manqué et appelle sa médecin. Les trois démarches répondent à des conséquences différentes de la nuit. Mireille peut s’occuper de la décision qui leur est commune.

@@ -1,21 +1,21 @@
 ---
-title: Choisir un soin pour une préoccupation qui envahit le quotidien
-description: Sébastien veut comprendre ce que l’équipe lui propose. Il apporte des
-  exemples de son quotidien et discute de ce qu’il aimerait pouvoir reprendre.
+title: L’effort caché derrière une tâche qu’on arrive à finir
+description: Au centre, Sébastien décrit les heures et les activités que sa préoccupation
+  lui prend, y compris les jours où le travail avance.
 slug: sebastien-choisir-un-soin-pour-une-preoccupation-envahissante
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sébastien
-sujet: Choix de soin et objectifs partagés
+sujet: Effort caché dans les activités maintenues
 contexte: Le mardi suivant, dans le bureau de la psychologue du centre
 tags:
 - Dysmorphophobie
 - Trouble de la perception du corps
 - Body dysmorphic disorder
 - 6B21
-- Soin consenti
-- Thérapie adaptée à la dysmorphophobie
-- Objectifs du suivi
+- Effort supplémentaire
+- Retentissement sur plusieurs activités
+- Objectifs de soin partagés
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -30,18 +30,83 @@ Anaïs Vidal, la psychologue de l’équipe qui le suit, lui demande ce qu’il 
 
 Plus tard, elle revient sur la thérapie dont ils avaient parlé lors d’un précédent entretien. Elle lui explique qu’ils travailleraient sur ces difficultés précises. Sébastien hoche la tête et reste sur le bord de la chaise. Il s’est demandé depuis s’il allait devoir montrer ses photos et laisser quelqu’un décider ce qui devrait ou non le gêner. Le billet de tram a bougé sous sa main. Il le remet droit et pose la question.
 
-## Discuter le soin à partir du quotidien
+## Comprendre le coût d’une activité maintenue
 
-Une thérapie cognitivo-comportementale adaptée à la dysmorphophobie fait partie des possibilités de soin chez l’adulte. Le choix se discute avec des professionnels formés, en tenant compte du retentissement, des préférences et de la situation de la personne. L’équipe peut expliquer ce qu’elle propose, les autres options pertinentes et les conditions du suivi. Sébastien souhaite récupérer du temps et se sentir moins pris dans les vérifications. Savoir ce qu’il veut retrouver aide à parler d’un objectif qui a du sens pour lui. Aucune photo du collectif n’a à servir de verdict sur son état.
+La dysmorphophobie peut demander un effort important même quand la personne termine une tâche ou respecte un rendez-vous. Le retentissement se voit aussi dans le temps, l’attention et les autres activités que la préoccupation écarte. Pour Sébastien, le calque remis raconte le résultat et le déjeuner manqué montre une autre issue du même envahissement. Une thérapie cognitivo-comportementale adaptée fait partie des soins possibles chez l’adulte. Il peut discuter des options avec son équipe à partir des difficultés qu’il souhaite aborder et des possibilités qu’il veut retrouver.
 
-## Ce que dit le billet et ce qu’il garde encore
+## Comment l’effort reste-t-il caché derrière le résultat ?
 
-Anaïs voit deux mots sur un papier. Dans le récit qu’il en fait, elle entend un retard qui a gêné le travail d’Inès, puis une absence qui l’a séparé d’un repas familial. Il lui dit aussi qu’à certains moments la question semble si urgente qu’il est difficile d’entendre celle de quelqu’un d’autre. Il a pu choisir le calque à temps pour qu’Inès fasse le report. Le travail a avancé et le coût reste pertinent pour le suivi. Son hésitation à poser une question sur les photos fait partie de ce qu’il veut éclaircir avant de s’engager.
+### Un résultat obtenu au prix du reste
 
-## Demander comment une proposition se décide
+Une tâche peut être livrée alors que le temps disponible pour la journée s’est réduit.
 
-Un entretien peut servir à comprendre ce que l’équipe propose et comment ils en reparleront si une étape soulève une difficulté. Sébastien peut demander sur quoi ils travailleraient, quelles adaptations seraient possibles et à qui s’adresser s’il veut en reparler. Il peut décider de commencer, demander du temps ou revenir sur une question. Une aide de Camille pour se rendre au centre reste une chose distincte. Si Sébastien souhaite qu’elle participe un jour à un échange, il peut préciser pour quoi et quelles informations il accepte de partager.
+**Exemples concrets**
+
+- Inès a son calque, mais Sébastien a passé une partie de l’après-midi à revenir à une photo.
+- Un rendez-vous honoré peut avoir demandé de laisser une course de côté.
+
+### Une attention moins disponible pour les autres
+
+Quand le souci paraît urgent, une demande ordinaire peut demander un effort supplémentaire.
+
+**Exemples concrets**
+
+- Sébastien raconte qu’il entend parfois difficilement la question d’une autre personne.
+- Au travail, quelqu’un peut avoir besoin qu’on redise une consigne déjà entendue.
+
+### Des conséquences qui diffèrent selon le lieu
+
+La même préoccupation peut laisser un travail terminé et empêcher une sortie.
+
+**Exemples concrets**
+
+- Le calque arrive chez Inès et le dimanche chez la tante se passe sans lui.
+- Une personne peut tenir une réunion familière puis renoncer à un moment de détente prévu après.
+
+## 3 techniques pour rendre cet effort visible au rendez-vous
+
+### 1. Apporter deux faits de vie
+
+Décrire des conséquences dans des contextes différents.
+
+**Exercice pratique**
+
+- Choisir une tâche qui a abouti.
+- Choisir une activité manquée.
+- Dire ce que chacune a demandé.
+
+La discussion peut porter sur le résultat et sur son coût.
+
+### 2. Poser la question qui retient
+
+Clarifier une inquiétude avant d’accepter le soin.
+
+**Exercice pratique**
+
+- Dire ce qu’on imagine devoir faire.
+- Demander comment une étape serait discutée.
+- Prendre le temps de répondre à la proposition.
+
+Sébastien peut choisir en connaissant le cadre.
+
+### 3. Formuler une priorité de soin
+
+Situer un changement utile dans le quotidien.
+
+**Exercice pratique**
+
+- Nommer ce qu’on aimerait retrouver.
+- Demander comment on en reparlera.
+- Fixer le prochain point avec l’équipe.
+
+Une priorité partagée peut orienter le suivi.
 
 ## Un rendez-vous qui lui appartient
 
 Anaïs lui explique qu’ils peuvent commencer par comprendre ensemble ce qui occupe ses journées. Il peut lui raconter ce qu’il vit sans lui montrer la photo aujourd’hui. Si une autre étape est proposée, ils en parleront d’abord. Sébastien lui dit qu’il veut essayer cette thérapie et qu’il souhaite revenir sur son inquiétude autour des images lors de leur prochain rendez-vous, lundi. Il glisse le billet dans sa poche avec la date de la séance. Sur le parvis, il écrit à Camille pour lui dire merci. Au groupe de théâtre, il répond qu’il sera au rendez-vous de Nora mercredi pour le dossier d’impression. Il se note d’emporter l’épreuve avec les crédits du spectacle.
+
+---
+
+**Conclusion**
+
+En partant du calque et du repas, Sébastien explique ce que lui coûte une journée que les autres peuvent croire ordinaire. Il choisit d’essayer le soin en gardant ses questions. À l’imprimerie, l’accord à donner portera cette fois sur les images du collectif.

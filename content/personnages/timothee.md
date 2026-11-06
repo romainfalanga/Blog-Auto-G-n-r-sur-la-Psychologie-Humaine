@@ -79,20 +79,20 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-aide-choisie-garder-place/">Demander un coup de main et garder sa place dans le projet</a></h3>
-    <p class="parcours-resume">Nora aimerait faciliter la rencontre avec Sacha après le report. Timothée sait que le travail et la dysthymie lui laissent moins d’énergie certains jours, mais il tient à accueillir lui-même son premier élève. Une aide utile peut porter sur la préparation et rester distincte de ce que la personne choisit de faire ou de dire sur sa santé.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-aide-choisie-garder-place/">Quand les décisions simples se brouillent avec une humeur basse</a></h3>
+    <p class="parcours-resume">Timothée vient poser une question sur le prêt du violon. Quand Nora lui propose aussi de commencer la rencontre à sa place, il hésite et perd le fil de ce qu’il voulait lui demander. L’indécision peut accompagner la dysthymie jusque dans des choix simples. Il reprend une question à la fois et finit par préciser l’aide qui lui conviendrait.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-aide-choisie-garder-place/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-ajuster-suivi-a-sa-vie/">Ajuster le suivi quand les soins aussi demandent de l’énergie</a></h3>
-    <p class="parcours-resume">Timothée vient au rendez-vous même quand ses journées le laissent à court de mots. Dans un suivi de la dysthymie, les effets des soins, la gêne qui reste et les contraintes pour venir comptent dans les décisions. Il demande à reparler du rythme des consultations et de ce que l’équipe pourrait lui proposer si les difficultés continuent à peser.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-ajuster-suivi-a-sa-vie/">Quand les nuits hachées et la fatigue pèsent jusque dans les soins</a></h3>
+    <p class="parcours-resume">Timothée se rappelle deux réveils dans la nuit et le silence qui s’est installé chez Maud après une longue journée. La dysthymie peut s’accompagner à la fois d’un sommeil perturbé et d’une fatigue qui gêne la vie courante. Il parle des deux à la docteure Rivière et cherche un moment où il pourra mieux profiter de la consultation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-ajuster-suivi-a-sa-vie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-transmettre-meme-si-elan-varie/">Transmettre un savoir quand l’élan et la fatigue varient</a></h3>
-    <p class="parcours-resume">Timothée entend la question de Sacha et s’y intéresse, puis sent son attention baisser vers la fin de la séance. Dans la dysthymie, les ressources et les difficultés peuvent apparaître au cours de la même activité. La première leçon trouve son sens dans ce que les deux hommes apprennent et dans la durée qu’ils ont choisie ensemble.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-transmettre-meme-si-elan-varie/">Quand l’attention décroche au milieu d’une activité choisie</a></h3>
+    <p class="parcours-resume">Timothée est attentif au bruit que Sacha entend sur le violon. Plus tard, il perd le début d’une nouvelle question et lui demande de la redire. Les difficultés d’attention peuvent accompagner la dysthymie jusque dans les activités qui intéressent encore. La demi-heure convenue les aide à terminer sur ce qu’ils ont appris ensemble.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/timothee-transmettre-meme-si-elan-varie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

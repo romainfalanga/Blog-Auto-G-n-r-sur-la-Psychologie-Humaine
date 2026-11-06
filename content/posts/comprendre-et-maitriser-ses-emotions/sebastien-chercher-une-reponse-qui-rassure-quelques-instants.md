@@ -34,14 +34,79 @@ Il avait autre chose en tête. Dans la photo reçue avant le rendez-vous des cal
 
 Dans la dysmorphophobie, la recherche d’avis sur l’apparence peut se répéter quand la réponse ne suffit plus à calmer l’inquiétude. Le soulagement lui permet de reprendre son repas un bref moment. L’insistance vient ensuite avec une nouvelle raison de douter. Cette répétition compte pour le suivi et peut peser sur la relation. Une question sur ce qu’une photo montre ou sur les personnes qui peuvent y accéder relève d’un autre échange. La personne responsable de l’image peut donner cette information.
 
-## Le sandwich coupé à moitié
+## Comment une réponse rassurante devient-elle insuffisante ?
 
-Au début du repas, Inès entend une demande à laquelle elle croit pouvoir répondre gentiment. Quand la question revient, elle a commencé à choisir ses mots de plus en plus soigneusement. Sébastien remarque qu’il l’écoute pour en tirer une certitude qui tienne. Il aimerait aussi parler des heures où ce souci le fatigue, et du déjeuner qu’il a pris l’habitude de décaler quand il pense qu’il doit d’abord obtenir un avis. Pour l’instant, Inès voit le repas qui s’arrête. Sébastien est le seul à pouvoir lui dire ce que ce silence contient pour lui.
+### Un répit après un premier avis
 
-## Chercher une forme d’appui qui puisse durer
+Le soulagement peut être sensible et de courte durée.
 
-Sébastien et Inès peuvent se dire ce qui leur permet de rester en relation sans reprendre un avis sur l’apparence. Ils peuvent garder un moment pour écouter la difficulté ou reprendre ensemble ce qu’ils avaient prévu de faire. Si les demandes reviennent et que leurs réponses les épuisent, Sébastien peut en parler avec les professionnels qui le suivent. Leur rôle comprend l’aide à trouver une manière sensible d’impliquer un proche, quand la personne le souhaite et que ce proche l’accepte. Inès peut rester collègue et ne prendre aucun engagement de soin.
+**Exemples concrets**
+
+- Sébastien reprend son sandwich après la réponse d’Inès.
+- À la maison, un avis peut permettre de reprendre une conversation pendant quelques instants.
+
+### Un doute qui change de forme
+
+La personne peut ensuite s’interroger sur la sincérité ou la précision de la réponse.
+
+**Exemples concrets**
+
+- Sébastien se demande si Inès voulait lui éviter de la peine.
+- Une réponse écrite peut sembler trop brève et laisser la même question ouverte.
+
+### Un échange qui perd son but
+
+Les nouvelles demandes peuvent prendre la place du moment partagé.
+
+**Exemples concrets**
+
+- Le repas s’arrête alors qu’Inès tient encore le couteau.
+- Un appel entre proches peut se prolonger autour du même avis alors qu’ils voulaient parler du week-end.
+
+## 3 techniques pour accueillir le doute dans la relation
+
+### 1. Dire ce qu’on veut partager
+
+Rendre la demande de présence compréhensible.
+
+**Exercice pratique**
+
+- Nommer que la question continue à revenir.
+- Dire si on veut être écouté un moment.
+- Revenir au repas quand chacun est prêt.
+
+Un proche peut soutenir la personne sans rendre un avis de plus.
+
+### 2. Distinguer information et évaluation
+
+Répondre à une question qui porte sur l’usage d’une image.
+
+**Exercice pratique**
+
+- Préciser de quelle photo il s’agit.
+- Demander qui y a accès.
+- S’adresser à Nora pour cette information.
+
+L’échange peut rester centré sur un fait qu’on peut vérifier.
+
+### 3. Décrire l’échange à l’équipe
+
+Chercher une réponse soutenable si le même doute revient.
+
+**Exercice pratique**
+
+- Choisir un moment où l’avis a apaisé Sébastien.
+- Dire quand la question a repris.
+- Discuter des formes d’appui que chacun accepterait.
+
+L’équipe peut aider à ajuster l’implication des proches avec leur accord.
 
 ## De la place pour deux cafés
 
 Sébastien lui dit le nom de son trouble et lui demande de garder cette information pour elle. Ce qu’il aimerait entendre si la même question revient, ils en parlent un instant. Inès propose qu’elle puisse lui dire qu’elle voit combien ça l’occupe, puis lui demander s’il veut continuer à parler de la difficulté ou finir de manger. Elle précise qu’elle ne saura pas toujours quoi dire. Il répond qu’il ne le sait pas non plus. Inès remet le couteau dans son sac. Sébastien rapproche les deux gobelets et envoie à sa sœur Camille la confirmation d’un déjeuner samedi, chez elle.
+
+---
+
+**Conclusion**
+
+Le premier avis d’Inès a calmé le doute assez longtemps pour une bouchée. Sébastien retrouve un autre sujet de conversation lorsqu’il lui parle de ce que ces questions lui coûtent. Il choisira de nouveau ses mots chez Camille.

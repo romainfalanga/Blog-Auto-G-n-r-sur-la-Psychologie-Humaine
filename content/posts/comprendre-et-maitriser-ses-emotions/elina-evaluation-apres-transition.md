@@ -33,14 +33,79 @@ La docteure l’interroge aussi sur son sommeil avant le déménagement, sa sant
 
 Après un changement important, une évaluation clinique met en relation le contexte, le vécu et ce qui a changé dans le quotidien. Le médecin s’intéresse au moment où les difficultés sont apparues, aux sujets qui occupent la pensée et à l’effort nécessaire pour poursuivre les activités. Une réaction douloureuse peut être attendue, et un événement stressant peut aussi accompagner une dépression, un trouble anxieux ou une autre difficulté. L’entretien sert à examiner ces possibilités à partir de l’ensemble de la situation. Une envie de lire retrouvée, un jour difficile ou un déménagement récent ne tranche pas une question clinique à lui seul.
 
-## Les faits que personne n’avait ensemble
+## Comment le médecin relie-t-il les difficultés au changement ?
 
-Chaque personne qui a croisé Élina jusque-là n’a vu qu’une partie de son quotidien. La boulangère sait qu’elle est revenue tard chercher le pain. Lucien sait qu’elle a raté un café et qu’elle dort mal. Au cabinet, Élina peut dire que ces moments se répètent et expliquer ce qui occupe alors son attention. Elle reconnaît qu’il lui arrive encore de faire des choses qui l’intéressent, puis de devoir consacrer beaucoup d’efforts à une démarche banale ou à un message. Ce contraste fait partie de ce que la docteure cherche à comprendre. Il dit ce que le changement lui coûte même quand la matinée a l’air de s’être bien passée.
+### Situer le début des difficultés
 
-## Savoir ce que la consultation ouvre
+L’ordre des événements aide le médecin à comprendre la situation dans laquelle les difficultés sont apparues.
 
-La personne peut demander comment le médecin comprend la situation et ce qui pourrait amener à revoir cette compréhension. Elle peut aussi dire ce qu’elle a les moyens d’essayer et ce qu’elle préférerait remettre à une prochaine discussion. Élina et la docteure peuvent convenir de reprendre des exemples de journées, examiner les options d’accompagnement et préciser quand reprendre contact si les difficultés s’accentuent. L’activité à la halle est une décision séparée. Élina peut en parler au cabinet pour décrire ce qu’elle souhaite faire, puis choisir avec l’association une présence qui lui convient.
+**Exemples concrets**
+
+- Élina situe son déménagement dix jours après avoir rendu la clé du bureau.
+- Lorsqu’elle parle de ses soirées à reprendre les échanges, la docteure lui demande comment elle dormait auparavant.
+
+### Regarder plusieurs conséquences
+
+Les faits prennent leur sens dans les habitudes et les domaines qu’ils touchent.
+
+**Exemples concrets**
+
+- Le café manqué concerne un contact qu’Élina souhaitait nouer.
+- Le formulaire toujours en attente lui fait décrire l’effort que demande une démarche courante depuis le départ.
+
+### Explorer d’autres explications
+
+Une expérience stressante peut accompagner plusieurs types de difficultés. La médecin écoute aussi ce qui se passe en dehors des rappels du bureau.
+
+**Exemples concrets**
+
+- Élina décrit les moments où elle retrouve son intérêt pour le journal et les interruptions qui persistent.
+- La docteure lui demande si des inquiétudes surviennent ailleurs et s’informe sur sa santé et d’éventuelles périodes semblables.
+
+## 3 techniques pour préparer une évaluation
+
+### 1. Construire une courte chronologie
+
+Retrouver l’ordre des changements et des premiers effets.
+
+**Exercice pratique**
+
+- Notez le premier changement dont vous vous souvenez.
+- Situez un exemple de gêne apparu ensuite.
+- Indiquez ce que vous faisiez ou ressentiez auparavant dans la même situation.
+
+Cette comparaison peut aider le médecin à situer ce qui a changé.
+
+### 2. Apporter un moment ordinaire
+
+Expliquer un effet concret à partir de son propre point de vue.
+
+**Exercice pratique**
+
+- Choisissez une tâche qui a pris plus de place que prévu.
+- Dites ce qui occupait votre attention à ce moment.
+- Précisez ce qui a été interrompu ou remis à plus tard.
+
+Le détail peut montrer une gêne peu visible de l’extérieur.
+
+### 3. Noter la suite convenue
+
+Pouvoir reprendre la discussion si les difficultés évoluent.
+
+**Exercice pratique**
+
+- Demandez comment la médecin comprend la situation actuelle.
+- Convenez du prochain échange.
+- Notez comment joindre le cabinet si vous avez besoin de reprendre contact avant.
+
+Un point de contact clair peut faciliter la suite du suivi.
 
 ## Deux dates dans le carnet
 
 La docteure Roussel lui explique qu’elle retient un trouble de l’adaptation après leur entretien. Dans la situation d’Élina, les pensées qui reviennent restent liées au départ et à ses suites, et la gêne se retrouve dans plusieurs moments de sa semaine. Elle propose de se revoir dans trois semaines pour faire le point et de discuter d’un accompagnement psychologique, plus tôt si Élina en éprouve le besoin. Élina prend la date et demande comment joindre le cabinet si elle dort de moins en moins ou si les journées deviennent plus difficiles. La docteure note le numéro sur un carton. À Lucien, elle envoie un merci pour l’adresse et demande s’il passe par la halle samedi. Le lendemain, elle confirme à Mireille qu’elle viendra lire une page. Elle ne lui parle pas de la consultation.
+
+---
+
+**Conclusion**
+
+La docteure Roussel relie plusieurs changements vécus par Élina et pose le diagnostic pendant la consultation. Elles conviennent d’un suivi. Pour marcher avec elle samedi, Lucien a seulement besoin de connaître le lieu et l’heure qui leur conviennent.

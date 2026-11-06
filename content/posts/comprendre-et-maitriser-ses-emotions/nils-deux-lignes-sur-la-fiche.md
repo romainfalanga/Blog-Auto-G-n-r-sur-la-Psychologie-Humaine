@@ -25,24 +25,85 @@ La cliente a pris le basilic qui penche le plus. Elle le redresse du bout du doi
 
 Maud arrive avec un enregistreur enveloppé dans une chaussette de sport. Elle veut capter le bruit de l’arrosoir pour annoncer la nouvelle émission de jardinage de la radio du quartier. Depuis six mois, Nils y lit des horaires de collecte et des annonces de tournois. Cette fois, elle lui demande aussi s’il aurait quelque chose à raconter sur les plantes. Elle a une minute à lui faire essayer, sans promesse de diffusion.
 
-Nils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait raconter ce qui l’intéresse dans la question de la cliente : le temps qu’il faut pour regarder un pot avant de répondre. Mais Maud parle déjà du bruit de l’arrosoir, et Aïcha lui demande si le comptage est fini. Il recouvre la fiche de sa main. « Une chose à la fois. Je donne le chiffre à Aïcha et on s’assoit deux minutes dehors ? »
+Nils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait raconter qu’une question sur l’arrosage lui donne d’abord envie de prendre le temps de regarder le pot. Mais Maud parle déjà du bruit de l’arrosoir, et Aïcha lui demande si le comptage est fini. Il recouvre la fiche de sa main. « Une chose à la fois. Je donne le chiffre à Aïcha et on s’assoit deux minutes dehors ? »
 
-## Perdre le fil au milieu du bruit
+## Pourquoi le bruit coupe le fil
 
-Les difficultés d’attention peuvent faire partie du vécu d’une personne qui a une schizophrénie. Elles n’ont ni la même place ni la même intensité chez tout le monde. Dans la pépinière, un chariot couvre des mots que n’importe qui pourrait manquer.
+Des difficultés d’attention peuvent accompagner la schizophrénie et compliquer le tri entre une voix utile et ce qui se passe autour. Tout le monde peut manquer des mots couverts par un chariot. Ce qui compte pour Nils, c’est l’effort qu’il lui faut ensuite pour revenir à sa tâche alors que deux personnes attendent une réponse.
 
-## Comment cette difficulté se manifeste
+## Comment l’attention se disperse-t-elle quand plusieurs voix se croisent ?
 
-Nils remarque aussi l’effort qu’il lui faut pour retrouver une phrase dès que plusieurs voix arrivent ensemble. Il connaît cet effort et sait qu’une consigne brève ou un mot écrit peut lui donner un point de reprise.
+### Une phrase devient difficile à suivre
 
-Son diagnostic a été posé avant cette histoire. Il éclaire certains aspects de son expérience, dont il peut parler en suivi, sans expliquer tout ce qui se passe ce matin. Il sait poser une question de jardinage, choisir un exemple et remarquer une réponse trop rapide. Ce qui manque à cet instant, c’est la fin de la phrase de la cliente. Elle peut la lui redire.
+Un bruit peut faire perdre davantage que le mot qu’il couvre. On peut encore entendre la suite sans savoir à quelle question elle répond.
 
-## Choisir ce qu’il veut essayer au micro
+**Exemples concrets**
 
-Dans les soins, le NICE recommande de tenir compte de la situation de travail et des objectifs de la personne. La place que Nils cherche à la radio relève de ses goûts : il y vient déjà pour sa voix et voudrait y apporter ce qu’il observe à la pépinière. Il n’a pas besoin de faire de cet essai un rendez-vous consacré à sa santé.
+- Le passage du chariot fait perdre à Nils le début de la réponse sur le balcon.
+- À un comptoir, on pourrait entendre « jeudi » sans savoir s’il s’agit du retrait ou de la livraison.
 
-Sur le banc, Maud peut lui donner deux informations concrètes : le temps disponible et la date d’un essai. Nils choisit le studio plutôt que le rayon pour la première prise. Il sait ce que coûte une matinée de travail interrompue et préfère finir le comptage avant de revenir à la radio. Si la minute ne suffit pas, ils pourront voir quel détail garder. La cliente et son balcon lui ont déjà donné un bon point de départ.
+### Deux demandes se disputent la priorité
+
+Quand les voix arrivent ensemble, choisir laquelle écouter peut prendre assez de temps pour manquer les deux débuts.
+
+**Exemples concrets**
+
+- Maud parle de l’arrosoir pendant qu’Aïcha attend le total des bacs.
+- Dans une réunion, une remarque lancée à côté peut faire perdre la question de la personne qui anime.
+
+### Revenir à l’échange coûte un effort
+
+Après l’interruption, l’attention peut rester prise par le bruit ou la seconde demande.
+
+**Exemples concrets**
+
+- Nils écrit « balcon » avant de demander à la cliente de reprendre.
+- Dans une cuisine, on pourrait faire répéter la question même après l’arrêt de la hotte.
+
+## 3 techniques pour retrouver une seule conversation
+
+### 1. Faire passer une demande d’abord
+
+Se donner le temps de recevoir une information complète.
+
+**Exercice pratique**
+
+- Nommez les deux demandes qui arrivent.
+- Dites à laquelle vous répondez d’abord.
+- Donnez à l’autre personne un moment pour vous retrouver.
+
+Cet ordre peut laisser moins de choses à suivre en même temps.
+
+### 2. Garder un mot de la question
+
+Conserver le dernier point compris quand la phrase s’interrompt.
+
+**Exercice pratique**
+
+- Notez le mot que vous avez saisi.
+- Dites à l’autre où vous en étiez.
+- Demandez de reprendre à partir de ce mot.
+
+Le mot écrit peut servir de point de retour sans faire recommencer tout l’échange.
+
+### 3. Changer le cadre de l’écoute
+
+Réduire un bruit évitable au moment où il gêne le plus.
+
+**Exercice pratique**
+
+- Repérez ce qui couvre la voix.
+- Proposez d’attendre ou de changer de place.
+- Reprenez avec une seule question.
+
+Un cadre plus calme peut rendre la conversation moins coûteuse.
 
 ## La fiche dans la poche
 
 Aïcha vient chercher le total. Nils déchire la fiche en deux le long du pli et lui tend le haut. Sur le bas, à côté de « balcon », il écrit « quand arroser ? ». Dehors, Maud l’attend avec la chaussette qui dépasse de son sac. Il lui demande si elle peut garder son idée d’arrosoir pour une autre fois. Il voudrait commencer par la question, sans rien dessous. Maud lui propose le mardi, quand le studio est libre après les annonces. Il accepte l’essai, replie le papier une deuxième fois et le glisse derrière sa carte de bus.
+
+---
+
+**Conclusion**
+
+Au rayon, Nils sait ce qu’il veut transmettre. L’attention lui demande surtout de trouver dans quel ordre écouter. La fiche l’accompagne au studio, où un autre genre de son va interrompre sa prise. Maud peut agir sur les conditions de l’échange dès qu’il le demande.

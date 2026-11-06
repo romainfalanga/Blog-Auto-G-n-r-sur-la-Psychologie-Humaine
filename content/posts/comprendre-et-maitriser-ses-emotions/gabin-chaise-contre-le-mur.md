@@ -30,20 +30,83 @@ Nora demande par message si le virement du loyer est parti. Gabin sait qu’une 
 
 Gabin a reçu un diagnostic de trouble lié aux jeux d’argent au service d’addictologie. À son dernier rendez-vous, il a parlé d’une perte, sans dire qu’elle avait pris une partie de l’argent réservé au loyer. À Nora, il a seulement dit que le virement serait en retard. Dans la pièce voisine, une bénévole demande si elle doit compter sur six chaises ou sur huit. Il regarde celle qui se ferme enfin. Il ne sait toujours pas combien il pourra en promettre.
 
-## Comment les dommages du jeu s’étendent au foyer
+## Quand le jeu atteint une dépense essentielle
 
-Le trouble lié aux jeux d’argent se manifeste par un comportement de jeu qui se répète, devient difficile à maîtriser et prend une place croissante malgré ses conséquences. La CIM-11 de l’OMS le classe sous le code 6C50. Il concerne les jeux dans lesquels de l’argent est engagé sur un résultat incertain. La CIM-11 décrit séparément le trouble lié à l’usage des jeux vidéo. L’évaluation professionnelle considère ce qui se passe dans la durée et ce que cela change dans la vie de la personne.
+La poursuite du jeu malgré des dommages est l’une des dimensions du trouble lié aux jeux d’argent décrites dans la CIM-11. Ici, Gabin a engagé de l’argent déjà destiné au loyer. La perte modifie donc aussi les comptes de Nora. Un montant isolé ne suffit pas à établir un trouble. L’équipe examine la répétition du comportement, sa maîtrise et ses conséquences.
 
-## Comment cette difficulté se manifeste
+## Comment le jeu peut-il peser sur le loyer ?
 
-Pour Gabin, l’exemple du loyer rend visible un effet qui dépasse la somme perdue. Nora comptait sur un versement pour une dépense commune. Il avait aussi promis à l’association de confirmer ce qu’il pourrait fabriquer. Nora et la bénévole ont chacune besoin d’informations pour prendre leurs décisions.
+### Une somme n’est plus disponible
 
-## Dire la part qui concerne chacun
+L’argent était déjà réservé à un besoin. Sa disparition crée un manque réel dès ce mois-ci.
 
-Le NICE souligne que la honte et la crainte d’en parler peuvent compliquer l’accès au soutien. Gabin peut reprendre au prochain contact avec l’équipe ce qu’il n’a pas osé dire sur le loyer. Avec Nora, il peut commencer par l’information qui lui manque pour organiser ses comptes. Sa part n’est pas intégralement disponible à la date convenue. Il peut préciser ce qu’il sait et demander un moment pour parler du reste. Nora pourra dire ce que ce retard change pour elle.
+**Exemples concrets**
 
-À l’atelier, une réponse plus courte suffit. Gabin peut annoncer le nombre de chaises déjà utilisables et convenir d’une date pour revoir le reste. Il garde le choix de ce qu’il souhaite partager sur sa santé.
+- Le montant mis de côté pour le loyer ne suffit plus au virement.
+- Une facture d’électricité reste en attente alors que le délai approche.
+
+### Le budget de l’autre bouge aussi
+
+Une charge commune oblige chacun à ajuster ses propres comptes.
+
+**Exemples concrets**
+
+- Nora ne sait pas combien laisser sur le compte pour le loyer.
+- Un colocataire reporte un achat nécessaire en attendant de connaître sa part.
+
+### Le flou retarde la réponse
+
+Dire que le virement tarde peut sembler plus facile que d’annoncer un manque. Le proche ignore alors s’il doit agir.
+
+**Exemples concrets**
+
+- Gabin a annoncé un retard sans préciser que le montant serait incomplet.
+- Une personne promet de « voir demain » sans connaître la somme disponible.
+
+## 3 techniques pour faire le point sur une charge essentielle
+
+### 1. Photographier la situation du jour
+
+Distinguer ce qui est confirmé de ce qui reste à calculer.
+
+**Exercice pratique**
+
+- Prenez l’avis de paiement.
+- Comparez-le à la somme réellement disponible.
+- Notez ce qui reste à vérifier.
+
+Ce point peut éviter de promettre un versement sur une estimation.
+
+### 2. Prévenir la personne concernée
+
+Lui donner une information dont elle a besoin pour décider.
+
+**Exercice pratique**
+
+- Dites si la somme sera incomplète.
+- Indiquez quand vous pourrez confirmer le montant.
+- Convenez d’un moment qui lui convient aussi.
+
+Le proche peut commencer à organiser sa part.
+
+### 3. Nommer la dépense en consultation
+
+Donner à l’équipe une idée concrète des dommages.
+
+**Exercice pratique**
+
+- Retrouvez le contact habituel.
+- Dites de quelle charge l’argent provenait.
+- Demandez où obtenir un appui budgétaire.
+
+L’équipe peut proposer un relais adapté à la situation.
 
 ## Une réponse à l’atelier
 
 Gabin confirme à la bénévole qu’une chaise est prête et que le bois des suivantes est disponible. Pour les ferrures, il lui demande jusqu’à quand l’association peut attendre sa réponse. Dehors, il écrit à Nora que la somme prévue pour le loyer ne sera pas entière et qu’il voudrait lui en parler à table. Il relit son message sans ajouter qu’il réglera tout d’ici vendredi. Il ne connaît pas encore la date.
+
+---
+
+**Conclusion**
+
+Gabin peut annoncer un manque avant de savoir quand il pourra le combler. Le lendemain, le même montant lui donnera envie de rejouer. Nora peut déjà prévoir sa propre part avec cette information.

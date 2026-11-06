@@ -13,28 +13,84 @@
         "Surcharge sonore",
         "Repères de reprise"
       ],
-      "opening": "La cliente a pris le basilic qui penche le plus. Elle le redresse du bout du doigt, comme si elle essayait un chapeau à un enfant. Elle voudrait savoir combien de fois par semaine l’arroser. Nils retourne le pot pour voir si l’eau peut s’en écouler. Il pose une question sur le balcon, mais le chariot du livreur passe derrière eux. Quand la cliente reprend sa phrase, Nils a perdu le début. Il aperçoit sur le comptoir la fiche qu’Aïcha lui a laissée pour le comptage du rayon. En dessous du chiffre, il écrit « balcon ». Il demande à la cliente de reprendre à partir de là. Elle lui dit qu’elle a du soleil après le déjeuner, en ajoutant que son ancien basilic était mort avant le premier pesto.\n\nMaud arrive avec un enregistreur enveloppé dans une chaussette de sport. Elle veut capter le bruit de l’arrosoir pour annoncer la nouvelle émission de jardinage de la radio du quartier. Depuis six mois, Nils y lit des horaires de collecte et des annonces de tournois. Cette fois, elle lui demande aussi s’il aurait quelque chose à raconter sur les plantes. Elle a une minute à lui faire essayer, sans promesse de diffusion.\n\nNils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait raconter ce qui l’intéresse dans la question de la cliente : le temps qu’il faut pour regarder un pot avant de répondre. Mais Maud parle déjà du bruit de l’arrosoir, et Aïcha lui demande si le comptage est fini. Il recouvre la fiche de sa main. « Une chose à la fois. Je donne le chiffre à Aïcha et on s’assoit deux minutes dehors ? »",
+      "opening": "La cliente a pris le basilic qui penche le plus. Elle le redresse du bout du doigt, comme si elle essayait un chapeau à un enfant. Elle voudrait savoir combien de fois par semaine l’arroser. Nils retourne le pot pour voir si l’eau peut s’en écouler. Il pose une question sur le balcon, mais le chariot du livreur passe derrière eux. Quand la cliente reprend sa phrase, Nils a perdu le début. Il aperçoit sur le comptoir la fiche qu’Aïcha lui a laissée pour le comptage du rayon. En dessous du chiffre, il écrit « balcon ». Il demande à la cliente de reprendre à partir de là. Elle lui dit qu’elle a du soleil après le déjeuner, en ajoutant que son ancien basilic était mort avant le premier pesto.\n\nMaud arrive avec un enregistreur enveloppé dans une chaussette de sport. Elle veut capter le bruit de l’arrosoir pour annoncer la nouvelle émission de jardinage de la radio du quartier. Depuis six mois, Nils y lit des horaires de collecte et des annonces de tournois. Cette fois, elle lui demande aussi s’il aurait quelque chose à raconter sur les plantes. Elle a une minute à lui faire essayer, sans promesse de diffusion.\n\nNils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait raconter qu’une question sur l’arrosage lui donne d’abord envie de prendre le temps de regarder le pot. Mais Maud parle déjà du bruit de l’arrosoir, et Aïcha lui demande si le comptage est fini. Il recouvre la fiche de sa main. « Une chose à la fois. Je donne le chiffre à Aïcha et on s’assoit deux minutes dehors ? »",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Perdre le fil au milieu du bruit",
-          "text": "Les difficultés d’attention peuvent faire partie du vécu d’une personne qui a une schizophrénie. Elles n’ont ni la même place ni la même intensité chez tout le monde. Dans la pépinière, un chariot couvre des mots que n’importe qui pourrait manquer."
+          "heading": "Pourquoi le bruit coupe le fil",
+          "text": "Des difficultés d’attention peuvent accompagner la schizophrénie et compliquer le tri entre une voix utile et ce qui se passe autour. Tout le monde peut manquer des mots couverts par un chariot. Ce qui compte pour Nils, c’est l’effort qu’il lui faut ensuite pour revenir à sa tâche alors que deux personnes attendent une réponse."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils remarque aussi l’effort qu’il lui faut pour retrouver une phrase dès que plusieurs voix arrivent ensemble. Il connaît cet effort et sait qu’une consigne brève ou un mot écrit peut lui donner un point de reprise.\n\nSon diagnostic a été posé avant cette histoire. Il éclaire certains aspects de son expérience, dont il peut parler en suivi, sans expliquer tout ce qui se passe ce matin. Il sait poser une question de jardinage, choisir un exemple et remarquer une réponse trop rapide. Ce qui manque à cet instant, c’est la fin de la phrase de la cliente. Elle peut la lui redire."
+          "heading": "Comment l’attention se disperse-t-elle quand plusieurs voix se croisent ?",
+          "points": [
+            {
+              "heading": "Une phrase devient difficile à suivre",
+              "text": "Un bruit peut faire perdre davantage que le mot qu’il couvre. On peut encore entendre la suite sans savoir à quelle question elle répond.",
+              "examples": [
+                "Le passage du chariot fait perdre à Nils le début de la réponse sur le balcon.",
+                "À un comptoir, on pourrait entendre « jeudi » sans savoir s’il s’agit du retrait ou de la livraison."
+              ]
+            },
+            {
+              "heading": "Deux demandes se disputent la priorité",
+              "text": "Quand les voix arrivent ensemble, choisir laquelle écouter peut prendre assez de temps pour manquer les deux débuts.",
+              "examples": [
+                "Maud parle de l’arrosoir pendant qu’Aïcha attend le total des bacs.",
+                "Dans une réunion, une remarque lancée à côté peut faire perdre la question de la personne qui anime."
+              ]
+            },
+            {
+              "heading": "Revenir à l’échange coûte un effort",
+              "text": "Après l’interruption, l’attention peut rester prise par le bruit ou la seconde demande.",
+              "examples": [
+                "Nils écrit « balcon » avant de demander à la cliente de reprendre.",
+                "Dans une cuisine, on pourrait faire répéter la question même après l’arrêt de la hotte."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir ce qu’il veut essayer au micro",
-          "text": "Dans les soins, le NICE recommande de tenir compte de la situation de travail et des objectifs de la personne. La place que Nils cherche à la radio relève de ses goûts : il y vient déjà pour sa voix et voudrait y apporter ce qu’il observe à la pépinière. Il n’a pas besoin de faire de cet essai un rendez-vous consacré à sa santé.\n\nSur le banc, Maud peut lui donner deux informations concrètes : le temps disponible et la date d’un essai. Nils choisit le studio plutôt que le rayon pour la première prise. Il sait ce que coûte une matinée de travail interrompue et préfère finir le comptage avant de revenir à la radio. Si la minute ne suffit pas, ils pourront voir quel détail garder. La cliente et son balcon lui ont déjà donné un bon point de départ."
+          "heading": "3 techniques pour retrouver une seule conversation",
+          "points": [
+            {
+              "heading": "Faire passer une demande d’abord",
+              "objective": "Se donner le temps de recevoir une information complète.",
+              "exercise": [
+                "Nommez les deux demandes qui arrivent.",
+                "Dites à laquelle vous répondez d’abord.",
+                "Donnez à l’autre personne un moment pour vous retrouver."
+              ],
+              "benefit": "Cet ordre peut laisser moins de choses à suivre en même temps."
+            },
+            {
+              "heading": "Garder un mot de la question",
+              "objective": "Conserver le dernier point compris quand la phrase s’interrompt.",
+              "exercise": [
+                "Notez le mot que vous avez saisi.",
+                "Dites à l’autre où vous en étiez.",
+                "Demandez de reprendre à partir de ce mot."
+              ],
+              "benefit": "Le mot écrit peut servir de point de retour sans faire recommencer tout l’échange."
+            },
+            {
+              "heading": "Changer le cadre de l’écoute",
+              "objective": "Réduire un bruit évitable au moment où il gêne le plus.",
+              "exercise": [
+                "Repérez ce qui couvre la voix.",
+                "Proposez d’attendre ou de changer de place.",
+                "Reprenez avec une seule question."
+              ],
+              "benefit": "Un cadre plus calme peut rendre la conversation moins coûteuse."
+            }
+          ]
         }
       ],
       "ending_title": "La fiche dans la poche",
       "ending": "Aïcha vient chercher le total. Nils déchire la fiche en deux le long du pli et lui tend le haut. Sur le bas, à côté de « balcon », il écrit « quand arroser ? ». Dehors, Maud l’attend avec la chaussette qui dépasse de son sac. Il lui demande si elle peut garder son idée d’arrosoir pour une autre fois. Il voudrait commencer par la question, sans rien dessous. Maud lui propose le mardi, quand le studio est libre après les annonces. Il accepte l’essai, replie le papier une deuxième fois et le glisse derrière sa carte de bus.",
       "mirror": [
-        "Au rayon, Maud peut s’arrêter quand Nils recouvre la fiche. « Tu finis ton comptage. Je t’attends sur le banc et on parle juste de l’essai. » Elle peut ensuite lui demander quel son il aimerait entendre dans sa minute. Aïcha peut, elle, reprendre le chiffre dont elle a besoin et le laisser libre de faire le reste après. Chacune a une raison simple de lui parler ; quelques mots sur l’ordre des choses suffisent à dégager le passage."
+        "Au rayon, Maud peut s’arrêter quand Nils recouvre la fiche. « Tu finis ton comptage. Je t’attends sur le banc et on parle juste de l’essai. » Elle peut ensuite lui demander quel son il aimerait entendre dans sa minute. Aïcha peut, elle, reprendre le chiffre dont elle a besoin et le laisser libre de faire le reste après. Chacune a une raison simple de lui parler. Quelques mots sur l’ordre des choses suffisent à dégager le passage."
       ],
       "sources": [
         "oms-cddr",
@@ -46,7 +102,8 @@
         "next": "Il apporte au studio le bas de la fiche avec la question de la cliente."
       },
       "clinical_focus": "Difficultés attentionnelles",
-      "clinical_intro": "Un chariot interrompt la cliente et Nils écrit « balcon » pour reprendre sa question. Plus tard, quand Maud et Aïcha lui parlent en même temps, il demande de traiter une chose à la fois. Dans la schizophrénie, des difficultés d’attention peuvent gêner le travail. L’épisode montre comment le bruit et les demandes simultanées augmentent cet effort et comment Nils s’y adapte."
+      "clinical_intro": "Un chariot interrompt la cliente et Nils écrit « balcon » pour reprendre sa question. Plus tard, quand Maud et Aïcha lui parlent en même temps, il demande de traiter une chose à la fois. Dans la schizophrénie, des difficultés d’attention peuvent gêner le travail. L’épisode montre comment le bruit et les demandes simultanées augmentent cet effort et comment Nils s’y adapte.",
+      "conclusion": "Au rayon, Nils sait ce qu’il veut transmettre. L’attention lui demande surtout de trouver dans quel ordre écouter. La fiche l’accompagne au studio, où un autre genre de son va interrompre sa prise. Maud peut agir sur les conditions de l’échange dès qu’il le demande."
     },
     {
       "number": 2,
@@ -63,18 +120,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Une perception difficile à situer",
-          "text": "Dans la schizophrénie, il peut arriver qu’une personne entende une voix ou un son sans source extérieure perceptible. Une impression isolée ne suffit pas à établir ce qui s’est passé ni à qualifier une évolution clinique."
+          "heading": "Entendre un son qu’on ne peut pas situer",
+          "text": "La schizophrénie peut s’accompagner de perceptions auditives sans source extérieure perceptible. Une voix peut sembler proche et distincte alors que les personnes présentes n’ont rien entendu. La netteté de l’impression explique qu’elle puisse interrompre un travail. Un seul moment au casque ne permet pas de déterminer son origine ni de conclure à une rechute."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils sait ce qui l’a troublé : le son lui a paru proche et son prénom a capté son attention. Il peut en parler sans fournir d’explication sûre. Une part de son inquiétude tient au fait qu’il essayait justement de faire entendre sa propre voix.\n\nMaud peut répondre de ce qu’elle sait : elle n’a pas parlé. Elle peut aussi entendre que le moment a été pénible. Chercher ensemble une origine cachée au son, ou lui demander d’admettre sur-le-champ qu’il s’est trompé, ne lui donnerait pas ce qu’il vient chercher dans le couloir. Il lui faut du temps pour décider de la suite de l’essai."
+          "heading": "Comment une perception auditive inhabituelle peut-elle interrompre l’activité ?",
+          "points": [
+            {
+              "heading": "Un mot se détache des autres sons",
+              "text": "L’impression peut être très brève tout en ayant la netteté d’une parole ordinaire.",
+              "examples": [
+                "Nils croit entendre son prénom entre deux phrases sous le casque.",
+                "Au calme chez soi, une personne pourrait entendre un mot distinct sans situer de voix dans la pièce."
+              ]
+            },
+            {
+              "heading": "On ne trouve pas de source commune",
+              "text": "La personne entend quelque chose que l’autre ne peut pas confirmer. Le désaccord sur ce qui a été entendu laisse l’expérience et son effet bien présents.",
+              "examples": [
+                "Nils lève les yeux vers la console et Maud lui dit qu’elle n’a pas parlé.",
+                "Dans une entrée, on pourrait avoir entendu quelqu’un appeler alors que l’autre personne n’a perçu que la porte."
+              ]
+            },
+            {
+              "heading": "L’effet dure après le son",
+              "text": "Même quand la perception s’arrête, la surprise ou la crainte peut rendre la reprise difficile.",
+              "examples": [
+                "Dans le couloir, Nils tient encore son casque et cherche d’abord une chaise.",
+                "Chez soi, une personne pourrait poser le livre qu’elle lisait et avoir besoin d’un instant avant de reprendre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Convenir d’un signe qui suffit",
-          "text": "L’accord à trouver au studio est simple : quel geste fait arrêter une prise, et qui donne le signal pour la reprendre ? Nils propose la paume levée. Maud peut couper l’enregistrement dès qu’elle la voit. Ils peuvent faire le point ensuite hors du micro, qu’il ait levé la main pour une sensation difficile, une erreur de texte ou le col du pull. Ce geste vaut pour leur manière de travailler.\n\nLa question de santé suit son propre chemin. Nils a rendez-vous jeudi avec l’équipe de secteur. Il veut lui décrire le moment avec ses propres mots et se demander avec elle ce qui justifierait d’appeler plus tôt une autre fois. Le NICE invite à discuter du partage d’informations avec la personne et les proches concernés. Ici, la collègue peut tenir son rôle au studio avec ce que Nils choisit de lui dire."
+          "heading": "3 techniques pour faire une pause et décider de la suite",
+          "points": [
+            {
+              "heading": "Suspendre la tâche en cours",
+              "objective": "Se dégager de l’obligation de parler ou d’agir immédiatement.",
+              "exercise": [
+                "Faites le signe d’arrêt convenu ou dites « pause ».",
+                "Posez le matériel si vous pouvez le faire sans risque.",
+                "Choisissez un endroit où vous pouvez vous asseoir tranquillement."
+              ],
+              "benefit": "La pause peut laisser le temps de décider si la tâche peut reprendre."
+            },
+            {
+              "heading": "Dire l’effet sans résoudre l’origine",
+              "objective": "Obtenir une présence ou de l’espace sans enquête sur le son.",
+              "exercise": [
+                "Décrivez brièvement ce que vous avez cru entendre.",
+                "Dites ce que cela vous fait maintenant.",
+                "Demandez une aide précise ou un moment seul."
+              ],
+              "benefit": "Cette formulation peut permettre à l’autre de répondre au besoin immédiat."
+            },
+            {
+              "heading": "Garder les faits pour le suivi",
+              "objective": "Donner à l’équipe un récit utile si la perception inquiète ou se répète.",
+              "exercise": [
+                "Notez le lieu et le moment une fois au calme.",
+                "Ajoutez ce qui a changé dans votre activité ensuite.",
+                "Parlez-en à votre équipe selon le plan convenu, plus tôt si les expériences s’accentuent ou vous inquiètent."
+              ],
+              "benefit": "Le contexte peut aider les soignants à apprécier ce changement avec vous."
+            }
+          ]
         }
       ],
       "ending_title": "Le fichier sans date de diffusion",
@@ -92,7 +205,8 @@
         "next": "Il raconte le moment du studio à l’équipe jeudi et précise avec Elsa les appuis souhaités."
       },
       "clinical_focus": "Perceptions auditives inhabituelles",
-      "clinical_intro": "Nils croit entendre son prénom pendant qu’il parle dans le micro et se sent brusquement en alerte. Dans la schizophrénie, une voix peut être perçue avec beaucoup de netteté sans qu’on puisse en repérer une source. Cet instant garde sa part d’incertitude. Maud peut écouter ce qui l’a remué et lui laisser décider quand reprendre."
+      "clinical_intro": "Nils croit entendre son prénom pendant qu’il parle dans le micro et se sent brusquement en alerte. Dans la schizophrénie, une voix peut être perçue avec beaucoup de netteté sans qu’on puisse en repérer une source. Cet instant garde sa part d’incertitude. Maud peut écouter ce qui l’a remué et lui laisser décider quand reprendre.",
+      "conclusion": "Le son a assez remué Nils pour qu’il interrompe l’essai. Il choisit ensuite une nouvelle prise et garde la question de la perception pour son entretien de suivi. À côté de lui, Maud peut écouter ce qu’il a vécu et respecter son signe de pause."
     },
     {
       "number": 3,
@@ -109,22 +223,78 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Préparer un plan pendant que les choses tiennent",
-          "text": "Un plan discuté à l’avance peut préciser ce que la personne souhaite faire si son état change, les appuis qu’elle veut solliciter et la façon de joindre les professionnels. Nils a repéré des moments où plusieurs choses changeaient à la fois. L’équipe l’aide à distinguer ce qui mérite une conversation de suivi de ce qui demande un contact plus rapide. Son expérience de mardi peut entrer dans cette conversation sans devenir une rechute annoncée. Une mauvaise nuit, à elle seule, ne raconte pas la même chose que le retour de plusieurs difficultés qui s’accentuent."
+          "heading": "Reconnaître des changements propres à sa trajectoire",
+          "text": "Dans la schizophrénie, l’équipe peut aider à reconnaître les changements qui ont accompagné des périodes difficiles chez une personne. Ils prennent sens dans son histoire et dans leur évolution, sans valeur de seuil universel. Nils compare le son isolé du studio avec une période où son sommeil et la place des voix changeaient ensemble. Ce contraste sert à préparer le prochain contact."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Ils se mettent d’accord pour que Nils puisse appeler sans attendre son prochain rendez-vous s’il remarque que les expériences qui l’inquiètent reviennent davantage ou qu’il a plus de mal à mener sa journée. Ils vérifient aussi la marche à suivre si le service est fermé et qu’une aide ne peut pas attendre. Ces repères répondent à sa situation ; l’équipe peut les revoir avec lui."
+          "heading": "Comment repérer un changement qui mérite d’être discuté ?",
+          "points": [
+            {
+              "heading": "L’écart avec l’habitude",
+              "text": "Le point de comparaison est la vie ordinaire de la personne. La même nuit courte peut avoir un poids différent selon ce qu’il se passe autour.",
+              "examples": [
+                "Nils est remué au studio mais rentre, mange et dort comme d’habitude.",
+                "Lors d’une autre semaine, les réveils pourraient s’installer sans l’explication habituelle d’un trajet tôt le matin."
+              ]
+            },
+            {
+              "heading": "Plusieurs changements qui se rapprochent",
+              "text": "Le retour conjoint de difficultés connues mérite d’être décrit au soignant même si leur sens reste ouvert.",
+              "examples": [
+                "Nils se rappelle les réveils avant le jour et les voix qui prenaient davantage de place.",
+                "Une personne pourrait remarquer que des perceptions plus insistantes s’accompagnent de rendez-vous qu’elle commence à manquer."
+              ]
+            },
+            {
+              "heading": "Un effet sur les gestes quotidiens",
+              "text": "Ce qu’une expérience empêche ou modifie aide à préciser sa portée.",
+              "examples": [
+                "Le soir du studio, Nils a pu préparer son repas et rentrer avec l’enregistrement.",
+                "Si l’inquiétude obligeait une personne à quitter plusieurs activités d’affilée, elle pourrait le signaler avec les circonstances."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner à Elsa sa partie du plan",
-          "text": "Le NICE recommande d’aborder tôt la circulation des informations et de reprendre la discussion lorsque les besoins évoluent. L’infirmière demande à Nils ce qu’il veut faire figurer sur la copie qu’Elsa emportera. Il propose le numéro, la marche à suivre en dehors des horaires du service et la possibilité qu’elle soit présente à côté de lui s’il le demande. Il garde le récit du studio dans son entretien. Elsa sait donc à quoi elle peut répondre, et à qui poser une question générale si elle hésite.\n\nLe rôle qu’elle accepte laisse place à ses autres engagements. À la radio, un autre accord porte sur le déroulement des prises. Nils choisit où il parle de sa santé et peut retourner au studio avec une minute de jardinage en tête."
+          "heading": "3 techniques pour préparer un contact avec l’équipe",
+          "points": [
+            {
+              "heading": "Décrire deux moments différents",
+              "objective": "Donner au soignant des éléments de comparaison qui viennent de votre expérience.",
+              "exercise": [
+                "Choisissez une journée récente qui vous interroge.",
+                "Notez ce qui se passait lors d’une période plus difficile.",
+                "Apportez ce contraste au rendez-vous."
+              ],
+              "benefit": "Ces exemples peuvent rendre plus précise la discussion sur ce qui mérite un appel."
+            },
+            {
+              "heading": "Relire le plan avec un professionnel",
+              "objective": "Avoir une marche à suivre accessible quand il faut décider.",
+              "exercise": [
+                "Repérez ensemble les situations déjà prévues.",
+                "Vérifiez le premier numéro et le relais hors horaires.",
+                "Gardez la version convenue sur un support facile à retrouver."
+              ],
+              "benefit": "La décision de joindre quelqu’un peut demander moins de recherche sur le moment."
+            },
+            {
+              "heading": "Prévoir la part du proche",
+              "objective": "Choisir à l’avance quelle aide demander et à qui.",
+              "exercise": [
+                "Nommez le geste qui vous serait utile.",
+                "Vérifiez avec le proche quand il peut le faire.",
+                "Partagez le passage du plan que vous acceptez de lui laisser."
+              ],
+              "benefit": "Chacun peut savoir quoi faire sans disposer de tout le dossier."
+            }
+          ]
         }
       ],
       "ending_title": "Deux copies différentes",
-      "ending": "L’imprimante recrache une page de travers. Nils et Elsa rient de la bande blanche qui mange le bas du papier. Ils vérifient que les deux numéros se lisent et que la copie d’Elsa ne contient que le passage dont ils viennent de convenir. Elle la plie dans la poche intérieure de son sac. Nils photographie le verso de sa page pour pouvoir l’ouvrir depuis son téléphone. Sur la route, Aïcha lui envoie une photo des lots arrivés plus tôt que prévu : les étiquettes se sont décollées d’un bac. Il lui répond qu’il regardera lundi, au début de sa matinée.",
+      "ending": "L’imprimante recrache une page de travers. Nils et Elsa rient de la bande blanche qui mange le bas du papier. Ils vérifient que les deux numéros se lisent et que la copie d’Elsa ne contient que le passage dont ils viennent de convenir. Elle la plie dans la poche intérieure de son sac. Nils photographie le verso de sa page pour pouvoir l’ouvrir depuis son téléphone. Sur la route, Aïcha lui envoie une photo des lots arrivés plus tôt que prévu. Les étiquettes se sont décollées d’un bac. Il lui répond qu’il regardera lundi, au début de sa matinée.",
       "mirror": [
         "Elsa peut reprendre la question du texto en formulant une offre précise : « Si tu m’écris que tu veux de la compagnie pour appeler, je peux te dire tout de suite quand je suis libre. Tu peux appeler même si je ne réponds pas. » Elle peut faire vérifier sur place le numéro et le contact prévu hors horaires. Elle n’a pas à demander le contenu de la première partie de l’entretien pour pouvoir tenir l’engagement qu’elle vient de prendre."
       ],
@@ -138,7 +308,8 @@
         "next": "Le lundi, il revient à la pépinière et doit remettre les lots arrivés en ordre."
       },
       "clinical_focus": "Signes personnels de rechute",
-      "clinical_intro": "Se demander quand appeler l’équipe peut faire hésiter même quand on connaît bien son trouble. Nils décrit ce qui l’a remué au studio et les changements qui ont compté lors d’autres périodes de schizophrénie. Avec les soignants et Elsa, il prépare une réponse à son échelle. Sa sœur sait quoi faire s’il sollicite sa présence et ce qu’il souhaite garder privé."
+      "clinical_intro": "Se demander quand appeler l’équipe peut faire hésiter même quand on connaît bien son trouble. Nils décrit ce qui l’a remué au studio et les changements qui ont compté lors d’autres périodes de schizophrénie. Avec les soignants et Elsa, il prépare une réponse à son échelle. Sa sœur sait quoi faire s’il sollicite sa présence et ce qu’il souhaite garder privé.",
+      "conclusion": "Nils repart avec un numéro et des situations à discuter plutôt qu’avec une règle tirée d’une seule nuit. Au prochain épisode, son souci immédiat sera de remettre des lots en ordre. Elsa, elle, dispose de la partie du plan qui correspond à son rôle."
     },
     {
       "number": 4,
@@ -151,22 +322,78 @@
         "Difficultés attentionnelles",
         "Supports écrits"
       ],
-      "opening": "Aïcha a mis les étiquettes à sécher sur une caisse. L’une a gardé sa colle et s’est fixée au coin de sa manche. Nils sourit en voyant « LOT 14 » lui remonter le long du bras. Ils ont trente minutes avant l’ouverture pour remettre les aromatiques à leur place. Aïcha lui demande de recompter deux bacs, puis lui annonce depuis l’allée que le lot de gauche part au rayon. Au même moment, Matthieu, qui organise les livraisons, l’appelle pour qu’il dégage le passage. Nils pousse le premier bac vers la porte et se retrouve avec le chariot au milieu de l’allée. Il ne sait plus lequel des bacs devait sortir.\n\nIl pourrait continuer et espérer reconnaître le lot une fois dehors. Il regarde les deux tiges qui dépassent et revient chercher le bon de livraison. « Il me faut l’ordre, pas deux ordres. » Aïcha ouvre la bouche pour lui redire toute la suite. En le voyant saisir un carton pour écrire, elle s’arrête sur le premier geste : laisser l’allée libre. Nils note « recul chariot », puis « bon et bacs ».\n\nAïcha ajoute un trait à côté du deuxième point. Elle voulait indiquer le bac qu’elle avait compté. Nils croit qu’elle a rayé la tâche. Quand ils comprennent le malentendu, Aïcha retourne le carton. Ils mettent leurs initiales à côté de ce que chacun vient de finir. Ils vérifient les numéros encore imprimés sur les bacs avec ceux du bon. Le carton n’offre plus assez de place pour noter les lots un par un. Matthieu leur rapporte une feuille et une planchette dont la pince retient les coins.",
+      "opening": "Aïcha a mis les étiquettes à sécher sur une caisse. L’une a gardé sa colle et s’est fixée au coin de sa manche. Nils sourit en voyant « LOT 14 » lui remonter le long du bras. Ils ont trente minutes avant l’ouverture pour remettre les aromatiques à leur place. Aïcha lui demande de recompter deux bacs, puis lui annonce depuis l’allée que le lot de gauche part au rayon. Au même moment, Matthieu, qui organise les livraisons, l’appelle pour qu’il dégage le passage. Nils pousse le premier bac vers la porte et se retrouve avec le chariot au milieu de l’allée. Il ne sait plus lequel des bacs devait sortir.\n\nIl pourrait continuer et espérer reconnaître le lot une fois dehors. Il regarde les deux tiges qui dépassent et revient chercher le bon de livraison. « Il me faut l’ordre, pas deux ordres. » Aïcha ouvre la bouche pour lui redire toute la suite. En le voyant saisir un carton pour écrire, elle lui demande seulement de libérer l’allée. Nils note « recul chariot », puis « bon et bacs ».\n\nAïcha ajoute un trait à côté du deuxième point. Elle voulait indiquer le bac qu’elle avait compté. Nils croit qu’elle a rayé la tâche. Quand ils comprennent le malentendu, Aïcha retourne le carton. Ils mettent leurs initiales à côté de ce que chacun vient de finir. Ils vérifient les numéros encore imprimés sur les bacs avec ceux du bon. Le carton n’offre plus assez de place pour noter les lots un par un. Matthieu leur rapporte une feuille et une planchette dont la pince retient les coins.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qui aide à revenir à une consigne",
-          "text": "Certaines personnes qui vivent avec une schizophrénie ont des difficultés d’attention ou de mémoire qui gênent des tâches précises. Nils sait reconnaître le moment où il perd l’ordre d’une série d’instructions. La scène comporte aussi des problèmes de travail concrets : deux personnes parlent en même temps, le passage est encombré et l’étiquette n’est plus sur le bon bac. Ces éléments peuvent gêner la tâche pour plusieurs raisons. Ils ne permettent pas de tirer une conclusion clinique à partir de ce qui se passe à l’ouverture.\n\nLa première liste les aide à distinguer deux actions, puis crée un autre doute avec son trait ambigu."
+          "heading": "Garder une suite d’actions en tête",
+          "text": "La mémoire de travail permet de garder une information le temps d’en faire quelque chose. Elle peut être moins disponible chez certaines personnes qui vivent avec une schizophrénie. Nils a entendu les consignes des bacs et sait dégager l’allée. L’interruption lui fait perdre le lien entre le bon bac et sa destination. Rendre ce lien visible change la tâche."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils et Aïcha la modifient ensemble. La possibilité de reprendre au bon endroit dépend autant de la lisibilité de la feuille que de la personne qui la tient. Ils gardent le bon de livraison pour identifier les lots."
+          "heading": "Comment une consigne comprise peut-elle se perdre avant d’être appliquée ?",
+          "points": [
+            {
+              "heading": "L’ordre devient incertain",
+              "text": "On peut avoir retenu les gestes mais ne plus savoir lequel doit venir en premier.",
+              "examples": [
+                "Nils se souvient qu’il faut recompter et déplacer sans retrouver dans quel ordre.",
+                "En cuisine, on pourrait avoir retenu deux préparatifs sans savoir lequel devait précéder l’autre."
+              ]
+            },
+            {
+              "heading": "Une interruption efface un détail utile",
+              "text": "Le geste demandé maintenant prend la place d’une information qu’il fallait garder pour après.",
+              "examples": [
+                "Libérer le passage fait perdre à Nils le bac qui devait sortir.",
+                "Après avoir répondu au téléphone, on pourrait ne plus savoir à quel étage porter un colis déjà pris en main."
+              ]
+            },
+            {
+              "heading": "Le fait accompli se confond avec le reste",
+              "text": "Après plusieurs gestes proches, une trace ambiguë peut laisser planer un doute sur l’étape terminée.",
+              "examples": [
+                "Le trait d’Aïcha est compris par Nils comme une tâche barrée.",
+                "Dans une réserve, une liste sans coches peut amener à recompter une pile déjà vérifiée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se mettre d’accord sur le travail à finir",
-          "text": "Parler des conditions de travail fait partie des sujets que la personne peut aborder avec son équipe si elle le souhaite. Le NICE recommande de prendre en compte le travail dans l’évaluation et d’envisager des appuis pour les personnes qui veulent accéder à un emploi ou le reprendre. Dans la pépinière, le premier accord se passe entre collègues. Nils explique que les consignes lancées depuis deux endroits lui font perdre la suite. Aïcha lui dit ce qu’elle peut inscrire pendant qu’il dégage l’allée.\n\nNils ne s’engage pas à tenir une liste pour toute la livraison. Ils essaient la planchette quand il y a plusieurs tâches ou des lots à vérifier. Aïcha lui demande de regarder si elle reste lisible à l’usage. Cette solution a sa place près des bacs. Il lui faudra un autre accord pour la manière dont la radio le présentera."
+          "heading": "3 techniques pour garder une consigne disponible jusqu’au bout",
+          "points": [
+            {
+              "heading": "Faire préciser l’enchaînement",
+              "objective": "Réduire la quantité d’instructions à garder en même temps.",
+              "exercise": [
+                "Demandez quelle action passe en premier.",
+                "Écrivez le geste suivant en quelques mots.",
+                "Faites valider l’ordre avant de commencer."
+              ],
+              "benefit": "Une séquence courte et visible peut aider à reprendre après une interruption."
+            },
+            {
+              "heading": "Donner une signification aux marques",
+              "objective": "Savoir immédiatement ce qui a été fait et par qui.",
+              "exercise": [
+                "Choisissez une marque pour « vérifié ».",
+                "Faites-en un exemple sur la première ligne.",
+                "Utilisez la même marque jusqu’à la fin."
+              ],
+              "benefit": "Une convention partagée peut éviter de refaire une tâche ou d’en sauter une."
+            },
+            {
+              "heading": "Raccrocher l’étape à un objet",
+              "objective": "Vérifier une information sans la reconstruire de mémoire.",
+              "exercise": [
+                "Retrouvez le bon ou la fiche de référence.",
+                "Comparez un numéro avec l’objet à traiter.",
+                "Notez le résultat avant de passer au suivant."
+              ],
+              "benefit": "L’appui sur un document peut redonner l’information qui manquait au moment d’agir."
+            }
+          ]
         }
       ],
       "ending_title": "Les initiales au crayon",
@@ -184,7 +411,8 @@
         "next": "Il se rend à la radio pour discuter de la phrase qui accompagnera la chronique."
       },
       "clinical_focus": "Mémoire de travail",
-      "clinical_intro": "À la livraison, Nils comprend chaque consigne séparément. Garder leur ordre en tête et retrouver ce qu’il a déjà fait lui coûte davantage quand deux voix lui parlent en même temps. Ce type de difficulté cognitive peut compter dans la schizophrénie. Une liste vérifiée avec Aïcha montre ce que change le fait de rendre l’ordre des tâches visible."
+      "clinical_intro": "À la livraison, Nils comprend chaque consigne séparément. Garder leur ordre en tête et retrouver ce qu’il a déjà fait lui coûte davantage quand deux voix lui parlent en même temps. Ce type de difficulté cognitive peut compter dans la schizophrénie. Une liste vérifiée avec Aïcha montre ce que change le fait de rendre l’ordre des tâches visible.",
+      "conclusion": "Au lieu d’essayer de retenir deux ordres, Nils retrouve une suite vérifiable sur la planchette. La radio lui pose bientôt une autre question, celle de la phrase écrite à son sujet. Aïcha peut déjà aider à rendre les consignes lisibles sans demander d’explication médicale."
     },
     {
       "number": 5,
@@ -201,24 +429,80 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Être présenté pour ce qu’on apporte",
-          "text": "La stigmatisation liée à la schizophrénie peut limiter la place que des personnes prennent au travail ou dans la vie du quartier. Elle peut aussi peser sur le choix d’en parler. Ici, la première phrase de l’affiche ne nomme aucun diagnostic."
+          "heading": "Anticiper d’être ramené à son diagnostic",
+          "text": "La stigmatisation liée à la schizophrénie peut restreindre l’accès au travail et à la vie du quartier. La crainte de ces réactions peut peser avant même qu’une personne parle de sa santé. Nils ne sait pas comment Jo comprend sa formule. Il sait en revanche qu’il veut être identifié à l’antenne pour ses conseils de jardinage et choisir le reste."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Elle donne malgré tout à Nils un rôle qu’il n’a pas choisi et qu’il ne veut pas avoir à expliquer. Il tient à signer la chronique, et la précision du texte lui importe pour une autre raison : il veut qu’on sache quelle question lui poser.\n\nUne personne peut souhaiter témoigner de son expérience de santé, aujourd’hui ou plus tard. Elle peut aussi s’en tenir à son activité. Nils choisit ce qui sera dit de sa participation dans cette émission. Il n’a rien à raconter à Jo pour justifier la modification de l’affiche. Maud reconnaît qu’elle a entendu « rester discret » là où Nils demandait à être présenté autrement."
+          "heading": "Comment la crainte d’être réduit au diagnostic change-t-elle la prise de parole ?",
+          "points": [
+            {
+              "heading": "Une présentation suggère une histoire intime",
+              "text": "Un mot apparemment valorisant peut faire attendre de quelqu’un un récit personnel qu’il n’a pas choisi.",
+              "examples": [
+                "En lisant « se reconstruisent », Nils imagine déjà les questions sur sa vie.",
+                "Une annonce d’atelier axée sur les parcours de soins pourrait éclipser la démonstration que la personne est venue faire."
+              ]
+            },
+            {
+              "heading": "Se protéger risque de rendre invisible",
+              "text": "Pour éviter des questions, l’entourage peut proposer de supprimer des informations auxquelles la personne tient.",
+              "examples": [
+                "Maud envisage une présentation vide alors que Nils veut garder son prénom.",
+                "Un bénévole pourrait être présenté sans nom alors qu’il souhaitait être reconnu comme l’auteur du projet."
+              ]
+            },
+            {
+              "heading": "Le cadre peut changer entre deux supports",
+              "text": "L’accord donné pour une fiche ne vaut pas forcément pour une question en direct ou une nouvelle présentation.",
+              "examples": [
+                "Nils accepte l’affiche de jardinage et dit ce qu’il abordera si on lui propose une interview.",
+                "Une personne pourrait valider son portrait écrit et demander d’autres limites si une vidéo est prévue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préciser où vont le texte et la voix",
-          "text": "Le NICE recommande que la personne participe aux décisions sur la circulation des informations qui la concernent dans ses soins. À la radio, la question relève d’un accord éditorial entre Nils et ses collègues. Ils peuvent décider ensemble du texte de l’affiche et de son usage. Nils veut le revoir avant mise en ligne, avec son prénom et le sujet. Il précise aussi que le fichier de la minute est encore un essai. Pour en tirer un extrait public, il faudra le réécouter avec lui.\n\nJo peut lui proposer une place dans la première émission du mois, le troisième samedi qui vient. Maud propose de répéter ce vendredi, sans public. Une affiche correcte ne décide pas du format à sa place. Nils garde encore à choisir s’il veut lire un texte entier ou prendre une question avec Maud."
+          "heading": "3 techniques pour choisir comment se présenter",
+          "points": [
+            {
+              "heading": "Rédiger la ligne qu’on souhaite publier",
+              "objective": "Faire apparaître sa contribution dans ses propres mots.",
+              "exercise": [
+                "Repérez la formule qui vous gêne.",
+                "Écrivez une ligne sur ce que vous apportez.",
+                "Relisez-la sur le support final avant accord."
+              ],
+              "benefit": "La relecture peut faire apparaître une ambiguïté avant qu’elle soit publique."
+            },
+            {
+              "heading": "Préparer une réponse à une question intime",
+              "objective": "Pouvoir refuser une question sans quitter tout l’échange.",
+              "exercise": [
+                "Choisissez ce que vous souhaitez garder privé.",
+                "Trouvez une phrase simple pour le dire.",
+                "Préparez une question qui ramène au sujet que vous présentez."
+              ],
+              "benefit": "Une formule prête peut laisser plus de liberté face à une demande inattendue."
+            },
+            {
+              "heading": "Définir l’accord pour chaque usage",
+              "objective": "Garder la possibilité de décider si le cadre change.",
+              "exercise": [
+                "Nommez les supports pour lesquels vous donnez votre accord.",
+                "Demandez qu’on vous consulte avant tout nouvel usage.",
+                "Gardez le nom de la personne à qui signaler un écart."
+              ],
+              "benefit": "Un accord précis peut faciliter une correction sans exposition supplémentaire."
+            }
+          ]
         }
       ],
       "ending_title": "Les tomates au-dessus du texte",
-      "ending": "Jo imprime la maquette pour voir si la phrase tient en entier. Une tomate a perdu son ombre ; le pied du « j » de « jardinage » est encore lisible. Nils relit le texte et donne son accord pour cette version. Maud lui propose ensuite de répéter vendredi en fin de matinée. Il dit oui et note l’heure dans son agenda avant de ranger le téléphone. En sortant, il voit Jo coller la feuille au-dessus du bac à câbles. Depuis le couloir, on arrive à lire son prénom sans s’approcher de la porte.",
+      "ending": "Jo imprime la maquette pour voir si la phrase tient en entier. Une tomate a perdu son ombre. Le pied du « j » de « jardinage » est encore lisible. Nils relit le texte et donne son accord pour cette version. Maud lui propose ensuite de répéter vendredi en fin de matinée. Il dit oui et note l’heure dans son agenda avant de ranger le téléphone. En sortant, il voit Jo coller la feuille au-dessus du bac à câbles. Depuis le couloir, on arrive à lire son prénom sans s’approcher de la porte.",
       "mirror": [
-        "Quand Nils demande à garder son prénom, Maud peut lui rendre la souris ou dire : « D’accord. Quel sujet tu veux qu’on annonce à côté ? Je te renvoie le texte complet avant qu’il parte. » Si Jo demande pourquoi la première formule lui déplaît, elle peut s’en tenir à l’accord pris : l’affiche présente des questions de jardinage. Elle peut laisser à Nils la possibilité de répondre lui-même ou de passer à la suite du travail."
+        "Quand Nils demande à garder son prénom, Maud peut lui rendre la souris ou dire : « D’accord. Quel sujet tu veux qu’on annonce à côté ? Je te renvoie le texte complet avant qu’il parte. » Si Jo demande pourquoi la première formule lui déplaît, elle peut rappeler qu’ils ont choisi de présenter des questions de jardinage. Elle peut laisser à Nils la possibilité de répondre lui-même ou de passer à la suite du travail."
       ],
       "sources": [
         "oms-cddr",
@@ -230,7 +514,8 @@
         "next": "Une répétition est réservée pour vendredi avant le premier créneau à l’antenne, prévu le troisième samedi qui vient."
       },
       "clinical_focus": "Stigmatisation anticipée",
-      "clinical_intro": "L’affiche présente Nils comme quelqu’un qui se reconstruit. Il anticipe des questions sur sa santé alors qu’il voudrait parler de jardinage. La stigmatisation anticipée désigne la crainte d’être regardé ou traité différemment à cause du diagnostic. Le choix des mots de l’affiche lui permet de conserver son prénom et la maîtrise de ce qu’il partage sur sa schizophrénie."
+      "clinical_intro": "L’affiche présente Nils comme quelqu’un qui se reconstruit. Il anticipe des questions sur sa santé alors qu’il voudrait parler de jardinage. La stigmatisation anticipée désigne la crainte d’être regardé ou traité différemment à cause du diagnostic. Le choix des mots de l’affiche lui permet de conserver son prénom et la maîtrise de ce qu’il partage sur sa schizophrénie.",
+      "conclusion": "Nils conserve le droit d’être nommé et celui de garder sa santé privée. La répétition fixée pour vendredi pourra porter sur sa chronique. Les proches et collègues peuvent soutenir ce choix en demandant quels mots la personne veut signer."
     },
     {
       "number": 6,
@@ -243,26 +528,82 @@
         "Changements du sommeil",
         "Repérer une aggravation"
       ],
-      "opening": "Nils a promis de passer à la radio après le travail. Il a acheté deux croissants au supermarché parce que Maud n’a jamais rien à manger dans le studio, à part des pastilles pour la gorge. À la caisse, quelqu’un dit « c’est à vous » et il éprouve une certitude désagréable : il a l’impression qu’il y a dans ces mots quelque chose que lui seul est censé comprendre. Il paie et sort avec le sac ouvert. Une fois sur le trottoir, il retrouve l’autre moment de la veille, à l’arrêt du bus, quand une phrase banale lui a semblé le viser. L’impression ne passe pas aussi vite que mardi au studio.\n\nCela fait deux nuits qu’il se réveille très tôt et n’arrive plus à retrouver son sommeil. Au travail, il a terminé les commandes, mais il a fallu qu’Aïcha lui redise la dernière ligne et il a repris le même bon trois fois. Il pense au couloir de la radio. Il peut encore lever la paume et sortir d’une prise. Ce matin, il voudrait surtout savoir quoi faire de ces changements qui ont commencé avant d’arriver là.\n\nIl ouvre la photo du verso. Le service est encore joignable. Il choisit le banc à l’écart, où personne ne passe juste derrière son épaule. Quand le téléphone décroche, il donne son nom et dit qu’il appelle à propos de ce dont ils ont parlé jeudi. La personne lui demande s’il peut attendre quelques minutes pour qu’une soignante le rappelle. Il confirme son numéro et referme le sac aux croissants.",
+      "opening": "Nils a promis de passer à la radio après le travail. Il a acheté deux croissants au supermarché parce que Maud n’a jamais rien à manger dans le studio, à part des pastilles pour la gorge. À la caisse, quelqu’un dit « c’est à vous » et il éprouve une certitude désagréable. Il a l’impression qu’il y a dans ces mots quelque chose que lui seul est censé comprendre. Il paie et sort avec le sac ouvert. Une fois sur le trottoir, il retrouve l’autre moment de la veille, à l’arrêt du bus, quand une phrase banale lui a semblé le viser. L’impression ne passe pas aussi vite que mardi au studio.\n\nCela fait deux nuits qu’il se réveille très tôt et n’arrive plus à retrouver son sommeil. Au travail, il a terminé les commandes, mais il a fallu qu’Aïcha lui redise la dernière ligne et il a repris le même bon trois fois. Il pense au couloir de la radio. Il peut encore lever la paume et sortir d’une prise. Ce matin, il voudrait surtout savoir quoi faire de ces changements qui ont commencé avant d’arriver là.\n\nIl ouvre la photo du verso. Le service est encore joignable. Il choisit le banc à l’écart, où personne ne passe juste derrière son épaule. Quand le téléphone décroche, il donne son nom et dit qu’il appelle à propos de ce dont ils ont parlé jeudi. La personne lui demande s’il peut attendre quelques minutes pour qu’une soignante le rappelle. Il confirme son numéro et referme le sac aux croissants.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Un changement par rapport à ses journées habituelles",
-          "text": "Quand un événement ordinaire paraît porteur d’un sens personnel qui s’impose, la personne peut en être troublée. L’OMS décrit les convictions de référence parmi les manifestations possibles de la schizophrénie."
+          "heading": "Quand une phrase semble contenir un message pour soi",
+          "text": "Les convictions de référence font partie des manifestations possibles de la schizophrénie. Un événement ordinaire peut alors paraître personnellement adressé, au-delà de son sens apparent. Nils n’a pas besoin de décider seul si son impression relève d’un épisode. Sa répétition, le sommeil qui change et l’effort au travail donnent à l’équipe des éléments concrets à évaluer."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils raconte une impression plus insistante que d’habitude et le contexte dans lequel elle survient. Il n’a pas besoin de décider si le mot clinique s’applique. Il n’a pas à chercher un message dans ce qui a été dit à la caisse. Il peut signaler à l’équipe ce qu’il remarque, avec le sommeil et l’effort supplémentaire que sa matinée lui a demandé.\n\nLe plan lui donne une façon d’appeler avant de savoir s’il s’agit d’une rechute. Deux nuits difficiles, prises seules, ne permettent pas de l’affirmer. La soignante qui le rappelle lui demande ce qui a changé, ce qu’il arrive à faire dans la journée et de quoi il a besoin. C’est à l’équipe d’apprécier la situation avec lui."
+          "heading": "Comment une impression de référence peut-elle prendre de la place ?",
+          "points": [
+            {
+              "heading": "Un propos courant prend un second sens",
+              "text": "La personne comprend les mots et éprouve en même temps une signification plus personnelle qui s’impose.",
+              "examples": [
+                "À la caisse, « c’est à vous » semble indiquer à Nils quelque chose qu’il serait seul à comprendre.",
+                "Sur un quai, une annonce banale pourrait sembler contenir une allusion à sa propre journée."
+              ]
+            },
+            {
+              "heading": "Le sentiment se retrouve dans plusieurs lieux",
+              "text": "Quand une impression revient dans des situations différentes, elle peut occuper l’esprit après la fin des échanges.",
+              "examples": [
+                "Sur le trottoir, Nils repense au sentiment semblable éprouvé la veille au bus.",
+                "Une personne pourrait rester préoccupée chez elle après avoir eu cette impression dans deux conversations séparées."
+              ]
+            },
+            {
+              "heading": "La préoccupation prend du temps et de l’attention",
+              "text": "Il peut devenir plus difficile de terminer les gestes déjà engagés pendant qu’on reste troublé.",
+              "examples": [
+                "Nils sort de la caisse avec le sac ouvert et reporte sa répétition.",
+                "Quelqu’un pourrait avoir du mal à suivre sa liste de courses et décider de rentrer plus tôt."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Deux appels qui ont chacun leur objet",
-          "text": "Le NICE recommande aux professionnels de premier recours de se reporter à la partie du plan consacrée aux situations de crise s’ils soupçonnent une rechute. Dans le récit, le numéro du secteur et la marche à suivre si les difficultés s’accentuent avaient déjà été vérifiés. La soignante fixe avec Nils un point de suivi lundi, en début d’après-midi et reprend avec lui le contact prévu si la situation change avant. Il note l’heure pendant qu’elle la lui répète.\n\nAvec Maud, la demande tient en un message de travail. Nils dit qu’il ne pourra pas faire la répétition et qu’il aimerait choisir un autre créneau. Il lui propose de faire une maquette interne à partir de leur minute d’essai. Maud peut avancer sur les durées ; Nils garde la possibilité de réécouter le résultat avant toute diffusion. Le recours aux soins et le report de la prise se règlent chacun avec la bonne personne."
+          "heading": "3 techniques pour signaler une impression de référence qui insiste",
+          "points": [
+            {
+              "heading": "Décrire le mot entendu et l’impression",
+              "objective": "Transmettre à l’équipe ce qui est arrivé et l’effet que cela a eu.",
+              "exercise": [
+                "Retenez une phrase exacte si vous la connaissez.",
+                "Dites comment elle vous a paru vous concerner.",
+                "Précisez ce que vous avez fait juste après."
+              ],
+              "benefit": "Ces éléments peuvent aider le soignant à comprendre le vécu sans qu’il soit nécessaire d’en prouver le sens."
+            },
+            {
+              "heading": "Utiliser le contact prévu",
+              "objective": "Demander un avis quand l’impression se répète ou que plusieurs choses changent.",
+              "exercise": [
+                "Ouvrez la partie utile de votre plan de soins.",
+                "Appelez le service convenu et indiquez ce qui change.",
+                "Vérifiez avec lui la suite et le relais si cela s’accentue."
+              ],
+              "benefit": "Un contact précoce permet à l’équipe de décider avec vous ce qui demande une attention plus rapide."
+            },
+            {
+              "heading": "Reporter l’obligation immédiate",
+              "objective": "Libérer du temps pour la démarche de soins.",
+              "exercise": [
+                "Identifiez l’engagement qui peut attendre.",
+                "Prévenez de façon concise la personne concernée.",
+                "Convenez de la façon dont vous fixerez une autre date."
+              ],
+              "benefit": "Le report peut permettre de prendre l’appel sans devoir expliquer sa santé au travail."
+            }
+          ]
         }
       ],
       "ending_title": "Les croissants pour plus tard",
-      "ending": "Nils marche jusqu’à la radio, où Maud est déjà venue ouvrir. Il lui tend le sac. Maud prend un croissant et lui dit qu’elle a bien reçu le message. Elle lui propose mercredi prochain, après les annonces, et inscrit l’essai au crayon. Il confirme qu’elle peut utiliser la minute pour la maquette, puis remonte jusqu’au bus avec le second croissant. Il demande à Elsa par texto s’ils peuvent se voir un peu le soir. « J’ai appelé le secteur. J’ai un rendez-vous lundi. J’aimerais manger avec toi si tu as le temps. » Elle lui propose vingt minutes avant sa course du soir. Il prend ces vingt minutes.",
+      "ending": "La soignante rappelle Nils. Il lui parle des deux situations et des réveils qui ont changé. Ils conviennent d’un rendez-vous lundi et elle lui redit quel contact utiliser si les impressions prennent davantage de place avant. Nils prévient Maud qu’il ne répétera pas ce matin.\n\n\n\nIl marche jusqu’à la radio, où elle est déjà venue ouvrir. Il lui tend le sac. Maud prend un croissant et lui dit qu’elle a bien reçu le message. Elle lui propose mercredi prochain, après les annonces, et inscrit l’essai au crayon. Il confirme qu’elle peut utiliser la minute pour la maquette, puis remonte jusqu’au bus avec le second croissant. Il demande à Elsa par texto s’ils peuvent se voir un peu le soir. « J’ai appelé le secteur. J’ai un rendez-vous lundi. J’aimerais manger avec toi si tu as le temps. » Elle lui propose vingt minutes avant sa course du soir. Il prend ces vingt minutes.",
       "mirror": [
         "En recevant le message de report, Maud peut dire : « Je réserve mercredi et je te laisse la maquette à écouter. Tu veux que je confirme l’heure par texto ? » Elle peut s’en tenir à l’usage interne du fichier déjà convenu. Si Nils lui demande de l’aide pour joindre le secteur, elle peut trouver un endroit où il sera tranquille ou rester à sa demande. Elle n’a pas à déterminer ce qu’il faudrait raconter au soignant à la place de Nils."
       ],
@@ -276,39 +617,96 @@
         "next": "Il voit Elsa le soir et met en pratique la partie du plan qu’ils ont discutée ensemble."
       },
       "clinical_focus": "Impression de référence",
-      "clinical_intro": "À la caisse, une phrase ordinaire paraît porter un sens que Nils serait seul à comprendre. Ce vécu évoque une impression de référence, le sentiment qu’un événement revêt une signification personnelle. Comme l’impression insiste et que son sommeil change, Nils décrit ces faits à son équipe. Les professionnels peuvent replacer ces observations dans l’évolution de sa schizophrénie."
+      "clinical_intro": "À la caisse, une phrase ordinaire paraît porter un sens que Nils serait seul à comprendre. Ce vécu évoque une impression de référence, le sentiment qu’un événement revêt une signification personnelle. Comme l’impression insiste et que son sommeil change, Nils décrit ces faits à son équipe. Les professionnels peuvent replacer ces observations dans l’évolution de sa schizophrénie.",
+      "conclusion": "Nils appelle à partir d’un changement ressenti dans plusieurs lieux et laisse à l’équipe le soin de l’évaluer. Le prochain échange avec Elsa a un autre objet. Les personnes autour de lui peuvent respecter cette différence et faciliter le contact s’il le demande."
     },
     {
       "number": 7,
       "slug": "nils-vingt-minutes-chez-elsa",
-      "title": "Peur de la rechute et limites du soutien d’un proche",
+      "title": "Peur d’une rechute de schizophrénie entre deux rendez-vous",
       "description": "Elsa voudrait savoir si elle doit rester joignable toute la nuit. Nils lui dit ce qu’il est venu chercher pour ce soir.",
       "context": "Le vendredi soir, dans la cuisine d’Elsa",
       "topics": [
-        "Peur de la rechute",
-        "Soutien choisi",
-        "Charge des proches"
+        "Crainte du retour des symptômes",
+        "Temps entre les rendez-vous",
+        "Soutien choisi"
       ],
-      "opening": "Elsa coupe le croissant en deux sur une assiette à soupe parce que les assiettes plates sont dans le lave-vaisselle. Elle a mis un minuteur pour ne pas manquer la fermeture du magasin. Il reste vingt minutes et trois pots de confiture ouverts. Nils prend celui au fond duquel la cuillère ne tient plus debout. Il s’est promis de ne pas commencer la soirée par une explication de la caisse. À peine est-il assis qu’Elsa lui demande si quelqu’un lui a dit de dormir chez elle. Il n’a jamais parlé de dormir chez elle. Il voulait s’asseoir à cette table, où le pied boiteux fait remuer les tasses quand on s’appuie du coude.\n\nElsa se redresse. Elle peut laisser le téléphone allumé cette nuit, dit-elle. Demain, elle va aider à vider le garage d’une amie et n’est pas sûre de pouvoir décrocher. Elle a relu leur feuille et ne sait pas si le fait qu’il l’ait prévenue signifie qu’il l’invite à prendre la suite. Nils pose le couteau. « Je te l’ai dit pour que tu saches que j’ai un rendez-vous. Si je veux que tu m’aides à appeler, je te le demanderai. » Elsa attend. Il ajoute qu’il aurait aimé qu’elle lui demande d’abord ce qu’il voulait pour ce soir.\n\nLe minuteur a encore quinze minutes. Elsa lui demande si elle peut préparer du thé. Nils dit qu’il préférerait qu’elle reste assise deux minutes de plus. Elle lui pousse le pot de confiture et lui dit que, dans ce cas, il peut bien racler l’abricot. Il lui demande ensuite ce que son amie compte faire du vieux vélo qu’il avait essayé de lui racheter.",
+      "opening": "Elsa coupe le croissant en deux sur une assiette à soupe parce que les assiettes plates sont dans le lave-vaisselle. Elle a mis un minuteur pour ne pas manquer la fermeture du magasin. Il reste vingt minutes et trois pots de confiture ouverts. Nils prend celui au fond duquel la cuillère ne tient plus debout. Dans le bus, Nils a ressorti deux fois la feuille du rendez-vous. L’idée que les voix pourraient reprendre autant de place qu’autrefois lui serre le ventre. Il s’est promis de ne pas commencer la soirée par une explication de la caisse. À peine est-il assis qu’Elsa lui demande si quelqu’un lui a dit de dormir chez elle. Il n’a jamais parlé de dormir chez elle. Il voulait s’asseoir à cette table, où le pied boiteux fait remuer les tasses quand on s’appuie du coude.\n\nElsa se redresse. Elle peut laisser le téléphone allumé cette nuit, dit-elle. Demain, elle va aider à vider le garage d’une amie et n’est pas sûre de pouvoir décrocher. Elle a relu leur feuille et ne sait pas si le fait qu’il l’ait prévenue signifie qu’il l’invite à prendre la suite. Nils pose le couteau. « Je te l’ai dit pour que tu saches que j’ai un rendez-vous. Si je veux que tu m’aides à appeler, je te le demanderai. » Elsa attend. Il ajoute qu’il aurait aimé qu’elle lui demande d’abord ce qu’il voulait pour ce soir.\n\nLe minuteur a encore quinze minutes. Elsa lui demande si elle peut préparer du thé. Nils dit qu’il préférerait qu’elle reste assise deux minutes de plus. Elle lui pousse le pot de confiture et lui dit que, dans ce cas, il peut bien racler l’abricot. Il lui demande ensuite ce que son amie compte faire du vieux vélo qu’il avait essayé de lui racheter.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand l’inquiétude transforme une information en appel à l’aide",
-          "text": "Le soutien d’un proche peut prendre plusieurs formes, selon ce que les personnes ont convenu et ce qu’elles peuvent faire ce jour-là. Elsa a une copie du plan, avec un numéro et les options dont Nils a accepté qu’ils parlent. Elle se demande comment traduire cela en présence. En lui proposant d’être joignable toute la nuit, elle va plus loin que ce qu’il attend. Elle a aussi une matinée prévue le lendemain. Il est possible de revoir un accord quand il prête à confusion."
+          "heading": "La peur du retour des symptômes entre deux contacts",
+          "text": "La schizophrénie peut évoluer avec des périodes d’accentuation et d’accalmie. Après avoir connu un épisode difficile, la personne et ses proches peuvent redouter que ce qu’ils apprennent annonce une aggravation. Leur inquiétude a un effet réel sur la soirée. Elle ne renseigne pas à elle seule sur l’évolution clinique, qui se discute avec l’équipe."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le NICE recommande de proposer aux proches un soutien qui tienne compte de leurs besoins et de leur donner des repères sur le rôle des professionnels. Elsa peut demander à l’équipe comment fonctionne l’aide aux proches sans demander ce qui s’est dit dans un entretien. Nils reste libre de lui raconter une partie de sa journée, et de vouloir simplement partager une table."
+          "heading": "Comment la peur d’une rechute peut-elle changer les échanges ?",
+          "points": [
+            {
+              "heading": "Un rendez-vous semble annoncer plus qu’il ne dit",
+              "text": "L’inquiétude peut donner à une information de suivi le poids d’une urgence alors que les besoins restent à clarifier.",
+              "examples": [
+                "Elsa entend « rendez-vous lundi » et demande à Nils s’il doit dormir chez elle.",
+                "À l’annonce d’un entretien avancé, un parent pourrait annuler sa soirée avant de savoir si sa présence est souhaitée."
+              ]
+            },
+            {
+              "heading": "Une soirée ordinaire devient difficile à vivre",
+              "text": "La personne peut craindre que parler de son état fasse disparaître tout le reste de la conversation.",
+              "examples": [
+                "Nils voudrait manger le croissant et parler du vieux vélo, mais redoute d’avoir à reprendre tout le récit de la caisse.",
+                "Après avoir appelé son équipe, quelqu’un pourrait hésiter à dîner chez un ami par peur que chaque silence soit commenté."
+              ]
+            },
+            {
+              "heading": "La disponibilité du proche paraît sans limite",
+              "text": "L’incertitude peut pousser à promettre une veille qu’on ne sait pas tenir.",
+              "examples": [
+                "Elsa propose de laisser son téléphone allumé toute la nuit, puis rappelle qu’elle sera au garage le lendemain.",
+                "Un proche pourrait rester près de son portable au travail alors que le plan indique déjà qui appeler."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Ce que demande le texto",
-          "text": "En discutant avec l’équipe, Nils et Elsa avaient prévu qu’il puisse appeler le secteur directement et qu’Elsa soit présente à sa demande si elle est disponible. Ils s’aperçoivent qu’il leur manque un mot pour distinguer un texto qui informe d’une demande de présence. Nils pourra écrire « tu peux rester avec moi pendant que j’appelle ? » s’il souhaite précisément cela. Elsa pourra répondre franchement sur l’heure et la durée.\n\nSi elle est dans le garage, le chemin convenu avec l’équipe reste le même pour lui. Ils reprennent la feuille pour s’en assurer, puis la rangent. Le fait qu’Elsa parte comme prévu n’enlève rien aux quelques minutes passées ensemble. Nils a déjà organisé le suivi de lundi. Il peut lui demander de goûter la dernière cuillerée de confiture avant qu’elle remette son manteau."
+          "heading": "3 techniques pour vivre l’attente et garder le relais des soins",
+          "points": [
+            {
+              "heading": "Dire à quoi sert le message",
+              "objective": "Éviter qu’une information soit reçue comme une demande de surveillance.",
+              "exercise": [
+                "Précisez ce que l’équipe a prévu.",
+                "Dites si vous demandez quelque chose ce soir.",
+                "Nommez l’aide concrète si vous la souhaitez."
+              ],
+              "benefit": "Cette précision peut laisser au proche de quoi répondre à la demande réelle."
+            },
+            {
+              "heading": "Choisir une présence avec une limite",
+              "objective": "Préserver un moment ensemble qui convienne aux deux personnes.",
+              "exercise": [
+                "Demandez combien de temps chacun a.",
+                "Choisissez ce que vous souhaitez faire ensemble.",
+                "Convenez de la fin de ce moment."
+              ],
+              "benefit": "Une durée claire peut laisser de la place au soutien comme à la vie ordinaire."
+            },
+            {
+              "heading": "Vérifier le recours quand l’inquiétude monte",
+              "objective": "Laisser l’évaluation des changements à l’équipe.",
+              "exercise": [
+                "Retrouvez le contact déjà convenu.",
+                "Dites au proche comment vous comptez le joindre si nécessaire.",
+                "Gardez ce recours même si le proche est indisponible."
+              ],
+              "benefit": "La décision de demander un avis peut ainsi rester indépendante des horaires de l’entourage."
+            }
+          ]
         }
       ],
       "ending_title": "Le minuteur sur la table",
-      "ending": "Quand ça sonne, Elsa l’éteint du bout de la manche. Ils n’ont pas eu le temps de faire du thé. Elle retourne la moitié d’enveloppe sur laquelle elle écrit les horaires du magasin et note les deux heures où elle sera libre demain. Nils répond qu’il ne prévoit pas d’appel. Il la préviendra s’il a envie de passer après le garage, pour lui rapporter son pot de confiture lavé. Dans l’escalier, il entend la porte se rouvrir. Elsa lui rappelle le pot vide. Il le remonte sous la lumière du palier : il l’avait déjà mis dans sa poche.",
+      "ending": "Quand ça sonne, Elsa l’éteint du bout de la manche. Ils n’ont pas eu le temps de faire du thé. Elle retourne la moitié d’enveloppe sur laquelle elle écrit les horaires du magasin et note les deux heures où elle sera libre demain. Nils répond qu’il ne prévoit pas d’appel. Il la préviendra s’il a envie de passer après le garage, pour lui rapporter son pot de confiture lavé. Dans l’escalier, il entend la porte se rouvrir. Elsa lui rappelle le pot vide. Il l’avait déjà mis dans sa poche. Il le tient en l’air sous la lumière du palier.",
       "mirror": [
         "Quand le minuteur démarre, Elsa peut annoncer son temps disponible : « J’ai vingt minutes maintenant. Tu voudrais que je t’écoute, que je reste à côté pendant un appel, ou juste qu’on mange ? » Elle peut accepter la réponse de Nils et dire qu’elle ne sera pas joignable au garage. Si une aide professionnelle s’impose, leur accord indique comment la joindre. Le soutien d’Elsa peut se limiter au temps et au geste qu’elle est en mesure d’offrir."
       ],
@@ -321,8 +719,9 @@
         "choice": "Elsa et Nils distinguent une information, une demande de soutien et une démarche auprès des soins.",
         "next": "Nils se rend à son rendez-vous de lundi puis retrouve Maud mercredi pour reprendre l’essai radio."
       },
-      "clinical_focus": "Peur de la rechute",
-      "clinical_intro": "En apprenant que Nils a pris un rendez-vous, Elsa se demande si elle doit surveiller son téléphone toute la nuit. La peur d’une rechute de schizophrénie peut rendre la moindre information urgente aux yeux d’un proche. Leur échange clarifie ce que Nils lui demande ce soir et comment l’équipe reste joignable selon le plan convenu."
+      "clinical_focus": "Crainte du retour des symptômes",
+      "clinical_intro": "En apprenant que Nils a pris un rendez-vous, Elsa se demande si elle doit surveiller son téléphone toute la nuit. La peur d’une rechute de schizophrénie peut rendre la moindre information urgente aux yeux d’un proche. Leur échange clarifie ce que Nils lui demande ce soir et comment l’équipe reste joignable selon le plan convenu.",
+      "conclusion": "Le rendez-vous de lundi reste prévu. Nils peut avoir peur de la suite et vouloir une conversation sur autre chose. Elsa peut lui demander ce qui l’aiderait pendant ces vingt minutes et garder le recours à l’équipe pour ce qui relève des soins."
     },
     {
       "number": 8,
@@ -335,26 +734,82 @@
         "Récupération du fil",
         "Évolution du trouble"
       ],
-      "opening": "Il reste à l’écran la liste des trois annonces que Nils vient de lire. À la fin de celle du vide-grenier, il a dit « dimanche prochain » au lieu de la date ; Maud lui a fait reprendre la phrase. Maud ouvre la maquette qu’elle a montée vendredi. À force de l’emporter, Nils a donné au papier des basilics la forme de la poche de son pantalon. Il le déplie sur la console. Lundi, il a revu l’équipe. Le sommeil a commencé à reprendre son rythme et les impressions qui l’avaient inquiété se sont faites moins insistantes. Il est convenu d’en reparler en suivi et sait comment appeler si ça change. Aujourd’hui il a rendez-vous ici avec une phrase qu’il trouve trop longue.\n\nMaud lance la maquette. Son montage garde le froissement de papier, puis coupe un mot que Nils voulait conserver. Il demande à le remettre. Elle montre sur l’écran l’endroit où elle peut faire la correction et lui propose d’essayer la chronique avec une question en direct. Au moment où il commence, elle lui donne deux indications : parler plus près et raccourcir sa deuxième réponse. Il se penche, mais c’est la question précédente qui lui revient. « On reprend où ? » Ils s’aperçoivent qu’ils ne pensaient pas à la même réponse.\n\nNils trace une boîte autour du mot « terre » au milieu de la fiche. Si Maud lui redonne la question, il peut reprendre au mot encadré. Elle pourrait lui indiquer la distance au micro avant qu’ils lancent la prise. Il se recule juste assez pour que le bord de la table n’appuie plus sur son pull.",
+      "opening": "Il reste à l’écran la liste des trois annonces que Nils vient de lire. À la fin de celle du vide-grenier, il a dit « dimanche prochain » au lieu de la date. Maud lui a fait reprendre la phrase. Maud ouvre la maquette qu’elle a montée vendredi. À force de l’emporter, Nils a donné au papier des basilics la forme de la poche de son pantalon. Il le déplie sur la console. Lundi, il a revu l’équipe. Le sommeil a commencé à reprendre son rythme et les impressions qui l’avaient inquiété se sont faites moins insistantes. Il est convenu d’en reparler en suivi et sait comment appeler si ça change. Aujourd’hui il a rendez-vous ici avec une phrase qu’il trouve trop longue.\n\nMaud lance la maquette. Son montage garde le froissement de papier, puis coupe un mot que Nils voulait conserver. Il demande à le remettre. Elle montre sur l’écran l’endroit où elle peut faire la correction et lui propose d’essayer la chronique avec une question en direct. Au moment où il commence, elle lui demande de parler plus près et de raccourcir sa deuxième réponse. Il se penche, mais c’est la question précédente qui lui revient. « On reprend où ? » Ils s’aperçoivent qu’ils ne pensaient pas à la même réponse.\n\nNils trace une boîte autour du mot « terre » au milieu de la fiche. Si Maud lui redonne la question, il peut reprendre au mot encadré. Elle pourrait lui indiquer la distance au micro avant qu’ils lancent la prise. Il se recule juste assez pour que le bord de la table n’appuie plus sur son pull.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "La reprise d’une activité a ses propres difficultés",
-          "text": "L’évolution de la schizophrénie varie d’une personne à l’autre et dans le temps. Une reprise d’activité peut coexister avec des difficultés qui restent présentes ou surviennent par moments. Quand Nils perd une réponse dans le studio, il peut constater ce qui l’a gêné et essayer une autre façon de travailler. L’équipe de secteur a déjà examiné le changement qu’il a remarqué vendredi. Le rendez-vous de lundi ne dispense pas de son suivi. De la même façon, un essai de micro qui accroche ne permet pas de juger de l’évolution clinique."
+          "heading": "Ce qui reste difficile quand d’autres signes s’apaisent",
+          "text": "L’évolution de la schizophrénie peut différer selon les manifestations. Certaines difficultés cognitives restent présentes alors que des perceptions ou convictions inhabituelles occupent moins de place. Le sommeil et les impressions de Nils se sont améliorés depuis vendredi. À l’antenne, retenir le fil des indications demande encore des appuis. L’équipe suit les changements cliniques et Nils peut régler avec Maud ce qui gêne l’essai."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils a déjà repris le fil d’une consigne au rayon grâce à une note. La transposition au studio demande un choix de plus : il lui faut un mot qu’il trouve vite et une question dite à voix haute. Il veut pouvoir le tester avec la voix de Maud, puis l’adapter si l’antenne demande autre chose."
+          "heading": "Comment des difficultés d’attention peuvent-elles subsister pendant une amélioration ?",
+          "points": [
+            {
+              "heading": "Une activité familière demande encore des reprises",
+              "text": "Pouvoir revenir au studio laisse entière la question de ce qui coûte à chaque tâche.",
+              "examples": [
+                "Nils doit reprendre la date du vide-grenier malgré un meilleur sommeil.",
+                "De retour à une permanence, une personne pourrait saluer chacun avec plaisir mais relire plusieurs fois la même liste."
+              ]
+            },
+            {
+              "heading": "La difficulté varie selon la forme de la demande",
+              "text": "L’attention peut suffire à corriger un détail puis décrocher quand plusieurs réglages arrivent ensemble.",
+              "examples": [
+                "Nils fait remettre un mot au montage et perd le fil quand Maud ajoute deux consignes à la prise.",
+                "Dans un atelier, une personne pourrait suivre une réparation seule et se tromper quand on change en même temps l’ordre des pièces."
+              ]
+            },
+            {
+              "heading": "L’amélioration clinique et le résultat de travail se lisent séparément",
+              "text": "Une bonne prise ou une erreur renseigne d’abord sur le déroulement de cette tâche.",
+              "examples": [
+                "L’équipe sait comment les impressions ont changé. Le fichier montre, lui, un mot répété.",
+                "Une personne pourrait terminer une sortie sans accroc et avoir tout de même des expériences inhabituelles à raconter en consultation."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire un essai sur le contenu et la durée",
-          "text": "Maud a gardé une minute de montage. Le créneau de trois minutes annoncé par Jo permettrait d’enchaîner avec une question. Nils essaie deux fois : d’abord en lisant toute la réponse, puis en se donnant seulement le mot « terre ». Il préfère le deuxième essai. Il entend mieux à quel moment sa réponse devient trop technique. Maud lui demande ce qu’elle devrait lui redonner s’il s’arrête. Ils essaient de nouveau, cette fois avec la question complète et un silence avant sa voix.\n\nLa place qu’il veut occuper donne une direction à leur travail, comme le NICE invite les équipes à prendre en compte les objectifs de la personne dans l’accompagnement. Le montage et le partage du temps sont des décisions de radio. Nils veut entendre une vraie question d’une jardinière avant de choisir son premier sujet après l’introduction."
+          "heading": "3 techniques pour ajuster une reprise à l’attention disponible",
+          "points": [
+            {
+              "heading": "Régler une contrainte à la fois",
+              "objective": "Comparer les prises avec un seul changement à suivre.",
+              "exercise": [
+                "Choisissez d’abord la distance au micro ou un autre réglage.",
+                "Testez-la sur une phrase courte.",
+                "Gardez les remarques sur le texte pour après la prise."
+              ],
+              "benefit": "L’essai peut montrer quel ajustement aide ici."
+            },
+            {
+              "heading": "Comparer des versions de la même tâche",
+              "objective": "Observer la gêne au moment où elle survient.",
+              "exercise": [
+                "Reprenez la même question dans deux conditions convenues.",
+                "Notez l’endroit où vous perdez le fil.",
+                "Gardez la condition qui vous laisse plus de place pour répondre."
+              ],
+              "benefit": "La comparaison peut guider le travail sans servir de test de santé."
+            },
+            {
+              "heading": "Tenir deux suivis distincts",
+              "objective": "Porter chaque information à la personne qui peut agir.",
+              "exercise": [
+                "Notez le réglage qui manque au travail.",
+                "Gardez séparément les changements de sommeil ou d’expériences qui préoccupent.",
+                "Parlez du premier au collègue et des seconds à l’équipe selon le plan."
+              ],
+              "benefit": "Les interlocuteurs peuvent chacun répondre à une question précise."
+            }
+          ]
         }
       ],
       "ending_title": "Le mot au bord du pli",
-      "ending": "Maud fait repasser les deux prises. Dans la deuxième, il a répété « terre » sans s’en rendre compte. Nils lui dit de laisser la répétition dans le fichier de travail ; ils verront plus tard si elle gêne. Il replie la fiche en veillant à ce que la boîte reste visible. À côté du studio, une affichette annonce la permanence du jardin partagé du Clos des Mûriers, vendredi matin de la semaine suivante. Renée ouvre le jardin et répond aux questions sur les parcelles. Nils propose de passer la voir avec un micro, pour demander ce que les gens viennent chercher pendant la permanence. Il doit encore vérifier si l’heure tient avec son travail.",
+      "ending": "Maud fait repasser les deux prises. Dans la deuxième, il a répété « terre » sans s’en rendre compte. Nils lui dit de laisser la répétition dans le fichier de travail. Ils verront plus tard si elle gêne. Il replie la fiche en veillant à ce que la boîte reste visible. À côté du studio, une affichette annonce la permanence du jardin partagé du Clos des Mûriers, vendredi matin de la semaine suivante. Renée ouvre le jardin et répond aux questions sur les parcelles. Nils propose de passer la voir avec un micro, pour demander ce que les gens viennent chercher pendant la permanence. Il doit encore vérifier si l’heure tient avec son travail.",
       "mirror": [
         "Quand Nils demande « on reprend où ? », Maud peut lui redire toute la question et attendre avant de commenter la longueur ou le micro. « Tu veux reprendre au mot entouré ou depuis le début ? » Elle peut lui faire écouter les deux essais et parler de ce qu’un auditeur entend, comme elle le ferait avec n’importe quel chroniqueur. Elle peut aussi lui dire si une autre séance lui est possible. La date et le travail à faire suffisent pour organiser la reprise."
       ],
@@ -368,80 +823,195 @@
         "next": "Il examine la possibilité d’aller au jardin partagé pendant la permanence du vendredi."
       },
       "clinical_focus": "Fluctuation de l’attention",
-      "clinical_intro": "De retour au studio, Nils a retrouvé un meilleur sommeil et perd pourtant sa phrase quand Maud lui donne deux indications. Dans la schizophrénie, le fonctionnement peut évoluer différemment selon le symptôme et la situation. Cet essai lui permet de tester ce qui aide son attention ici, pendant que l’équipe suit séparément les impressions qui l’avaient inquiété."
+      "clinical_intro": "De retour au studio, Nils a retrouvé un meilleur sommeil et perd pourtant sa phrase quand Maud lui donne deux indications. Dans la schizophrénie, le fonctionnement peut évoluer différemment selon le symptôme et la situation. Cet essai lui permet de tester ce qui aide son attention ici, pendant que l’équipe suit séparément les impressions qui l’avaient inquiété.",
+      "conclusion": "La reprise de Nils montre qu’un mieux dans le suivi ne rend pas chaque activité facile d’emblée. Il teste une façon de travailler au studio, puis s’intéresse à la permanence du jardin. Maud peut discuter avec lui de la prise et de ses réglages."
     },
     {
       "number": 9,
       "slug": "nils-la-permanence-du-vendredi",
-      "title": "Peur d’être jugé au travail quand une demande est refusée",
-      "description": "La permanence de Renée tombe pendant la livraison du vendredi. Nils cherche une façon de préparer la chronique sans déplacer toute l’équipe.",
+      "title": "Quand un imprévu bloque la recherche d’une autre solution",
+      "description": "Le reportage devient impossible. Nils retrouve une autre façon de recueillir la question malgré l’effort que lui demande le changement de plan.",
       "context": "Le mercredi suivant, près du planning de la pépinière",
       "topics": [
-        "Peur du jugement",
-        "Stigmatisation anticipée",
-        "Souplesse dans les choix"
+        "Résolution de problème",
+        "Changement de plan",
+        "Participation choisie"
       ],
-      "opening": "Nils tient l’affichette avec un aimant en forme de fraise. Renée reçoit au Clos des Mûriers de huit à neuf heures, avant de porter des plants au centre social. À la radio, Maud aurait le temps de monter une courte prise le vendredi après-midi. Il a prévenu Renée par téléphone qu’il essaierait de passer, sous réserve de pouvoir échanger le début de sa matinée. Sur le planning, son prénom apparaît à huit heures dans la colonne des livraisons. Il pose l’index une case plus tard, comme s’il pouvait faire glisser les plantes à la même vitesse que le papier.\n\nMatthieu ouvre le tableau sur l’ordinateur. L’autre personne prévue partira avec le premier camion. Aïcha n’est pas disponible avant neuf heures. Il ne peut pas promettre qu’ils auront assez de monde au déchargement si Nils arrive en retard. Nils lui propose de rattraper l’heure un autre jour. Matthieu lui montre l’heure à couvrir vendredi, celle où arrivent les bacs. Nils finit par voir ce qu’il avait oublié : le temps se rattrape, mais les bacs arrivent à une heure qu’ils n’ont pas choisie. Le refus lui chauffe le visage. Il redoute que Matthieu lise dans cette demande qu’il faudra désormais compter sur quelqu’un d’autre. Matthieu lui demande s’il pourra confirmer l’heure à Aïcha. Nils répond oui. Il lui est plus facile de répondre à cette question qu’à celle qu’il venait de se poser sur sa place dans l’équipe.\n\nIl décroche l’affichette du tableau. Il aurait aimé prendre du son entre les parcelles, un bruit dont Maud ne devrait pas couper la fin pour faire entrer la musique. Renée lui a déjà dit qu’elle tenait la permanence pour recueillir des demandes de matériel et qu’elle ne voudrait pas faire attendre les gens. En mettant le papier à plat, il découvre une ligne au bas de l’affiche, sous la liste des outils à rapporter : on peut aussi écrire au jardin. Il enregistre l’adresse sur son téléphone avant de rendre à Matthieu l’aimant en forme de fraise.",
+      "opening": "Nils tient l’affichette avec un aimant en forme de fraise. Renée reçoit au Clos des Mûriers de huit à neuf heures, avant de porter des plants au centre social. À la radio, Maud aurait le temps de monter une courte prise le vendredi après-midi. Il a prévenu Renée par téléphone qu’il essaierait de passer, sous réserve de pouvoir échanger le début de sa matinée. Sur le planning, son prénom apparaît à huit heures dans la colonne des livraisons. Il pose l’index une case plus tard, comme s’il pouvait faire glisser les plantes à la même vitesse que le papier.\n\nMatthieu ouvre le tableau sur l’ordinateur. L’autre personne prévue partira avec le premier camion. Aïcha n’est pas disponible avant neuf heures. Il ne peut pas promettre qu’ils auront assez de monde au déchargement si Nils arrive en retard. Nils lui propose de rattraper l’heure un autre jour. Matthieu lui montre l’heure à couvrir vendredi, celle où arrivent les bacs. Nils finit par voir que rattraper son heure ne change rien à l’heure d’arrivée des bacs. Le refus lui chauffe le visage. Il redoute que Matthieu lise dans cette demande qu’il faudra désormais compter sur quelqu’un d’autre. Matthieu lui demande s’il pourra confirmer l’heure à Aïcha. Nils répond oui. Il lui est plus facile de répondre à cette question qu’à celle qu’il venait de se poser sur sa place dans l’équipe.\n\nUn instant, la chronique lui paraît aussi compromise que le déplacement. Il réessaie mentalement de faire entrer la permanence dans le même créneau et revient chaque fois aux bacs. Il décroche l’affichette du tableau. Il aurait aimé prendre du son entre les parcelles, un bruit dont Maud ne devrait pas couper la fin pour faire entrer la musique. Renée lui a déjà dit qu’elle tenait la permanence pour recueillir des demandes de matériel et qu’elle ne voudrait pas faire attendre les gens. En mettant le papier à plat, il découvre une ligne au bas de l’affiche, sous la liste des outils à rapporter, avec une adresse pour écrire au jardin. Il enregistre l’adresse sur son téléphone avant de rendre à Matthieu l’aimant en forme de fraise.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "La peur d’être jugé et ce qu’on peut vérifier",
-          "text": "Nils redoute de voir sa place à la pépinière fragilisée par une demande d’horaire. Quand une personne a déjà été regardée à travers un diagnostic, poser une demande ordinaire peut lui coûter davantage. Matthieu précise ce qui empêche l’échange ce vendredi. Cette réponse concrète donne à Nils une information distincte de ce qu’il craignait pour sa place dans l’équipe.\n\nUne personne qui vit avec une schizophrénie peut avoir besoin d’appuis pour le travail, comme le prévoient les recommandations du NICE. Les besoins se discutent avec elle et dépendent des tâches, de ses objectifs et de sa situation. Ici, le conflit d’horaires est celui de deux engagements : une livraison prévue et la seule permanence où Renée reçoit les jardiniers avant l’émission. Le fait que Matthieu ne trouve pas de remplacement n’apprend rien sur l’état de santé de Nils. Ils peuvent regarder les cases nécessaires sans poser de questions sur sa vie privée."
+          "heading": "Chercher une autre manière d’atteindre le même but",
+          "text": "La schizophrénie peut s’accompagner de difficultés de résolution de problèmes qui compliquent certaines tâches ordinaires. Une contrainte réelle peut alors demander un effort supplémentaire pour sortir d’une solution déjà envisagée. À la pépinière, l’absence de remplacement est un fait. La difficulté de Nils est de ne plus voir comment préparer sa chronique une fois le reportage de vendredi écarté."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils aime le travail du matin et veut garder sa place dans l’équipe. Il peut aussi être déçu de ne pas aller entre les parcelles. Quand il reprend le papier, il change la manière de faire son sujet. La demande qu’il avait prévue pour Renée reste pertinente même s’ils ne peuvent pas se voir à l’ouverture du jardin."
+          "heading": "Comment un imprévu peut-il faire perdre de vue les autres solutions ?",
+          "points": [
+            {
+              "heading": "Reprendre le même plan sous une autre forme",
+              "text": "On peut essayer plusieurs corrections qui dépendent toutes du même élément devenu indisponible.",
+              "examples": [
+                "Nils propose de décaler son heure, puis de la rattraper, alors que les bacs arrivent toujours à huit heures.",
+                "Une personne pourrait essayer trois trajets qui supposent tous qu’un même bus circule."
+              ]
+            },
+            {
+              "heading": "Mélanger le but et le moyen",
+              "text": "Le format imaginé peut finir par sembler indispensable au projet qu’il devait simplement servir.",
+              "examples": [
+                "Nils pense d’abord qu’il ne pourra pas recueillir de question s’il manque la permanence.",
+                "Pour une rencontre, on pourrait croire que l’absence de salle oblige à abandonner tout échange."
+              ]
+            },
+            {
+              "heading": "Remarquer tard une autre porte d’entrée",
+              "text": "Quand toute l’attention reste sur le plan initial, un canal disponible peut passer au second plan.",
+              "examples": [
+                "Nils ne voit l’adresse du jardin qu’en remettant l’affichette à plat.",
+                "En relisant une invitation à tête reposée, une personne pourrait repérer un moyen de contribuer par écrit."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander une contribution que Renée peut choisir",
-          "text": "Nils peut expliquer à Renée pourquoi il l’invite à donner une question et lui laisser le temps de dire si elle souhaite le faire. Un enregistrement implique de savoir qui sera entendu et sur quel support. Il imagine qu’elle pourrait apporter une question que les gens posent au jardin, avec leur accord si elle souhaite attribuer les mots à quelqu’un. Elle peut aussi poser la sienne. Un appel le samedi est possible si elle le souhaite et si la radio peut le préparer. Il peut encore prendre lui-même une question sans emprunter la voix du jardin.\n\nIl écrit la proposition à Maud. Elle tient en deux lignes : garder la minute prévue, puis choisir une question qu’il n’a pas inventée pour faire une bonne transition. La place que prendra Renée doit se discuter avec elle autant que le premier créneau s’est discuté avec lui."
+          "heading": "3 techniques pour retrouver une option quand le plan change",
+          "points": [
+            {
+              "heading": "Poser la contrainte en une phrase",
+              "objective": "Repérer le fait dont les nouvelles options doivent tenir compte.",
+              "exercise": [
+                "Demandez ce qui doit rester à l’heure prévue.",
+                "Notez le créneau ou la condition exacte.",
+                "Relisez-la avant de proposer un échange."
+              ],
+              "benefit": "La précision peut éviter de revenir à un arrangement qui dépend du même obstacle."
+            },
+            {
+              "heading": "Réécrire le but sans le premier moyen",
+              "objective": "Ouvrir une autre voie vers ce qui compte.",
+              "exercise": [
+                "Écrivez ce que vous vouliez obtenir.",
+                "Séparez-le du lieu ou du format prévu.",
+                "Imaginez deux moyens accessibles dans les conditions réelles."
+              ],
+              "benefit": "Une nouvelle voie peut apparaître sans renoncer au projet."
+            },
+            {
+              "heading": "Tester un moyen auprès de la personne concernée",
+              "objective": "Vérifier si la solution lui convient aussi.",
+              "exercise": [
+                "Proposez une option précise.",
+                "Demandez quel effort ou délai elle implique pour l’autre personne.",
+                "Attendez son accord avant de l’inscrire au planning."
+              ],
+              "benefit": "Le nouveau plan peut devenir praticable pour les deux parties."
+            }
+          ]
         }
       ],
       "ending_title": "L’adresse sous la liste des outils",
       "ending": "Dans son message, Nils explique à Renée qu’il restera à la pépinière vendredi matin. Il lui demande si elle accepterait de lui transmettre une question par écrit ou de la poser elle-même à la radio. Renée répond qu’elle peut passer au studio vendredi après la permanence, en début d’après-midi. Elle a une question à elle, qu’elle voudrait lui montrer sur place. Elle ne peut pas promettre d’être libre le samedi. Nils lui donne l’heure à laquelle Maud ouvre. Il demande ensuite à Matthieu où ils poseront la planchette vendredi. La case du planning n’a pas bougé et ils auront besoin de cocher les bacs en arrivant.",
       "mirror": [
-        "Devant le planning, Matthieu peut dire : « Vendredi à huit heures, il nous faut deux personnes ici. Je regarde avec toi s’il y a quelqu’un de disponible. » S’il ne trouve personne, il peut montrer quel créneau doit rester couvert et convenir de la suite du travail. Leur discussion peut rester centrée sur l’heure de la livraison. Nils peut chercher une autre façon de faire son sujet à la radio."
+        "Matthieu peut pointer l’heure d’arrivée des bacs et préciser ce qui ne bouge pas. « Il nous faut deux personnes à huit heures. Tu voulais surtout enregistrer sur place ou obtenir une question pour la radio ? » Si Nils veut en parler, ce dernier détail peut aider à trouver un autre moyen. Matthieu garde le planning de la pépinière et Nils décide avec Renée de la suite du sujet."
       ],
       "sources": [
         "oms-cddr",
-        "nice-psychose"
+        "nice-psychose",
+        "oms-schizophrenie"
       ],
       "continuity": {
         "choice": "Nils garde sa matinée de travail et propose à Renée de contribuer autrement que par un reportage au jardin.",
         "next": "Renée apporte sa question au studio le vendredi après-midi ; Nils et Maud doivent choisir le format avant la diffusion."
       },
-      "clinical_focus": "Peur du jugement",
-      "clinical_intro": "Nils craint qu’un changement de planning fasse douter Matthieu de sa fiabilité. Lorsqu’on vit avec un trouble stigmatisé comme la schizophrénie, cette crainte peut peser sur des demandes professionnelles ordinaires. En revenant à l’heure de la livraison et au nombre de personnes présentes, Nils et Matthieu identifient la contrainte réelle et la possibilité de préparer la chronique autrement."
+      "clinical_focus": "Résolution de problème après un imprévu",
+      "clinical_intro": "Nils ne peut pas quitter la pépinière au moment où Renée tient sa permanence. Il revient plusieurs fois à la même idée de reportage avant de distinguer le but et le moyen. Certaines personnes qui vivent avec une schizophrénie rencontrent des difficultés pour réorganiser une tâche face à un imprévu. La question écrite donne à Nils une autre voie vers sa chronique.",
+      "conclusion": "Le vendredi reste occupé par la livraison et la chronique reste possible. Nils retrouve une autre solution en séparant la rencontre au jardin de la question à faire entendre. Un collègue peut l’aider en précisant le fait à prendre en compte."
     },
     {
       "number": 10,
       "slug": "nils-la-question-sur-le-ticket",
-      "title": "Peur de perdre le fil et retour à la question essentielle",
-      "description": "Renée apporte une question qui bouscule le texte préparé. Nils choisit de raccourcir sa réponse et confirme ce qui pourra être diffusé.",
+      "title": "Quand les explications s’accumulent et font perdre la question",
+      "description": "Nils répond à trop de questions à la fois. Le ticket de Renée l’aide à retrouver l’idée qui doit ouvrir sa chronique.",
       "context": "Le vendredi après-midi, à la radio, la veille de l’émission",
       "topics": [
-        "Anxiété de performance",
+        "Organisation de la réponse",
         "Difficultés attentionnelles",
-        "Préparation du direct"
+        "Question centrale"
       ],
-      "opening": "Renée a noté sa question au dos d’un ticket où le total prend deux lignes. Depuis qu’elle a déplacé son basilic dans un pot rouge, les feuilles du bas jaunissent. Elle l’arrose comme le précédent et veut savoir s’il faut faire pareil quand le pot n’est plus au même endroit. Nils avait prévu de dire quelques mots sur la taille des pots. En lisant le ticket, il voit que ça ne répond pas à ce que Renée veut savoir. Il lui demande où elle a mis le basilic. Sous la gouttière, dit-elle, là où sa voisine a laissé de la place. Nils reprend son crayon et ajoute « pluie » à côté de « terre ».\n\nMaud a préparé deux micros. Renée est venue avec sa question écrite et ne voudrait pas qu’on l’enregistre. Elle peut expliquer où le pot se trouve tant qu’ils sont autour de la table. Maud range le deuxième pied. Renée accepte que Maud lise sa question le lendemain, avec son prénom et le nom du jardin. Elle veut entendre comment elle sera lue, parce qu’elle sait qu’elle a écrit deux fois « comme avant ».\n\nÀ l’essai, Nils explique longuement ce qui peut arriver à un pot à des endroits différents. Maud pointe le chronomètre ; la réponse prend presque tout le créneau. Renée demande à partir de quel moment elle peut reconnaître son problème dans ce qu’il raconte. Nils revient au ticket. Il y a assez de place au-dessous pour une seule ligne : « voir l’endroit avec elle ». Il demande à Renée de redire où tombe l’eau quand il pleut. Cette fois, il écoute la réponse entière avant d’écrire. Nils avait commencé à empiler les explications quand il avait senti le blanc venir. Il reconnaît ce réflexe. Plus il veut avoir toutes les réponses prêtes, plus il oublie celle qu’on vient de lui demander.",
+      "opening": "Renée a noté sa question au dos d’un ticket où le total prend deux lignes. Depuis qu’elle a déplacé son basilic dans un pot rouge, les feuilles du bas jaunissent. Elle l’arrose comme le précédent et veut savoir s’il faut faire pareil quand le pot n’est plus au même endroit. Nils avait prévu de dire quelques mots sur la taille des pots. En lisant le ticket, il voit que ça ne répond pas à ce que Renée veut savoir. Il lui demande où elle a mis le basilic. Sous la gouttière, dit-elle, là où sa voisine a laissé de la place. Nils reprend son crayon et ajoute « pluie » à côté de « terre ».\n\nMaud a préparé deux micros. Renée est venue avec sa question écrite et ne voudrait pas qu’on l’enregistre. Elle peut expliquer où le pot se trouve tant qu’ils sont autour de la table. Maud range le deuxième pied. Renée accepte que Maud lise sa question le lendemain, avec son prénom et le nom du jardin. Elle veut entendre comment elle sera lue, parce qu’elle sait qu’elle a écrit deux fois « comme avant ».\n\nÀ l’essai, Nils explique longuement ce qui peut arriver à un pot à des endroits différents. Maud pointe le chronomètre. La réponse prend presque tout le créneau. Renée demande à partir de quel moment elle peut reconnaître son problème dans ce qu’il raconte. Nils revient au ticket. Il y a assez de place au-dessous pour une seule ligne : « voir l’endroit avec elle ». Il demande à Renée de redire où tombe l’eau quand il pleut. Cette fois, il écoute la réponse entière avant d’écrire. Nils avait commencé à empiler les explications quand il avait senti le blanc venir. Il reconnaît ce réflexe. Plus il veut avoir toutes les réponses prêtes, plus il oublie celle qu’on vient de lui demander.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Alléger la réponse quand le direct inquiète",
-          "text": "Dans l’essai, Nils multiplie les explications parce qu’il craint de perdre le fil. Il a pourtant besoin d’entendre le dernier détail de Renée pour choisir sa réponse. Le chronomètre renseigne sur la place qu’il reste dans l’émission. Le ticket lui redonne le point de départ que la pression lui avait fait perdre.\n\nUne activité choisie peut faire partie des objectifs d’une personne suivie pour une schizophrénie. Dans un projet de quartier, chacun peut décider de la manière dont il souhaite contribuer. Renée souhaite apporter ses mots et les entendre relus avant la diffusion."
+          "heading": "Organiser une réponse sous pression",
+          "text": "Les difficultés de pensée et d’attention qui peuvent accompagner la schizophrénie prennent des formes variées. Chez Nils, la crainte de perdre le fil le pousse à ajouter des précisions avant d’avoir choisi l’idée centrale. Une réponse longue n’est pas en soi une manifestation du trouble. L’effet concret ici est que Renée ne reconnaît plus sa question dans ce qu’elle entend."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils a déjà demandé qu’on lui laisse choisir ce qu’il présente de lui-même et ce qu’on fait de sa voix. Ils peuvent maintenant régler la contribution de Renée avec la même précision. Elle lui montre l’information qui lui manque pour faire une réponse utile. Il lui montre le temps dont ils disposent. Maud sait quelle version de la question elle pourra lire.\n\nLe NICE demande de tenir compte des préférences et des objectifs de la personne dans l’accompagnement. Une réunion de radio a son propre objet. Nils peut y proposer ce qu’il veut faire sans que sa collègue ait à juger s’il est prêt sur le plan clinique. Renée peut corriger ses mots pour une raison aussi simple : elle veut pouvoir reconnaître sa question."
+          "heading": "Comment une réponse peut-elle perdre sa direction quand les idées s’accumulent ?",
+          "points": [
+            {
+              "heading": "Garder une réponse devenue secondaire",
+              "text": "Une préparation peut revenir automatiquement même après que la question a changé.",
+              "examples": [
+                "Nils avait travaillé la taille du pot avant de découvrir le rôle possible de la gouttière.",
+                "Une personne pourrait expliquer tout un trajet alors que son interlocuteur cherche seulement l’entrée du bâtiment."
+              ]
+            },
+            {
+              "heading": "Empiler les précisions pour éviter le blanc",
+              "text": "L’envie de couvrir chaque possibilité peut éloigner du détail qui permettait de répondre.",
+              "examples": [
+                "Nils énumère les endroits où un pot pourrait se trouver et remplit presque tout le créneau.",
+                "Dans un atelier, une personne pourrait détailler trois outils avant de demander quelle pièce est cassée."
+              ]
+            },
+            {
+              "heading": "Retrouver la question à partir d’un détail concret",
+              "text": "Le fil peut redevenir accessible quand on remet au premier plan les mots de l’autre.",
+              "examples": [
+                "Renée demande où commence sa question dans la réponse. Nils revient au ticket.",
+                "Un collègue pourrait relire le message initial pour retrouver la seule décision attendue."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer une marge dans le programme",
-          "text": "Les manifestations d’une schizophrénie peuvent varier avec le temps. Le programme de demain laisse aussi de la place aux imprévus ordinaires d’une émission. Nils et Maud peuvent convenir à l’avance de deux formats utilisables, et de celui qui convient si une personne souhaite s’arrêter ou si le temps manque. Ils choisissent une introduction montée, puis la question de Renée et une réponse courte en direct. Nils barre le deuxième exemple pour gagner du temps. Il garde le mot entouré sur la fiche.\n\nIls préparent aussi une prise complète à diffuser samedi si le direct n’est pas possible ou si Nils demande de ne pas le prendre avant de passer. Ils écoutent les deux fichiers avant de les désigner. Maud les distingue par leur contenu et Nils précise que son accord vaut pour cette émission. Pendant le direct, ils pourront conclure plus tôt en rendant le micro à Jo. Une main levée leur donne le signal, comme en répétition."
+          "heading": "3 techniques pour organiser une réponse autour de la question entendue",
+          "points": [
+            {
+              "heading": "Écrire ce qu’on vous demande",
+              "objective": "Remettre l’objectif de l’échange à portée de vue.",
+              "exercise": [
+                "Recopiez la question en une phrase.",
+                "Faites confirmer les mots qui comptent.",
+                "Gardez-la visible pendant la réponse."
+              ],
+              "benefit": "La phrase peut empêcher une ancienne version de reprendre toute la place."
+            },
+            {
+              "heading": "Construire un début court",
+              "objective": "Tester si l’autre retrouve sa demande dès le début.",
+              "exercise": [
+                "Choisissez une idée centrale.",
+                "Dites-la avant les autres détails.",
+                "Demandez si elle répond bien au point soulevé."
+              ],
+              "benefit": "Un retour précis peut aider à garder seulement les explications utiles."
+            },
+            {
+              "heading": "Prévoir une version de réserve",
+              "objective": "Avoir un format viable quand le temps ou l’attention ne permet plus le premier.",
+              "exercise": [
+                "Choisissez un passage court qui se suffit.",
+                "Décidez ensemble quand il pourra être utilisé.",
+                "Validez les mots et la diffusion avant l’événement."
+              ],
+              "benefit": "Un appui préparé peut laisser moins de décisions à prendre pendant la prise."
+            }
+          ]
         }
       ],
       "ending_title": "Deux fichiers qui portent leur nom",
@@ -457,36 +1027,93 @@
         "choice": "Nils garde la question de Renée entière, valide deux formats et limite son accord de diffusion à cette émission.",
         "next": "Le samedi, Nils et Maud vérifient le temps disponible et essaient le passage prévu à l’antenne."
       },
-      "clinical_focus": "Anxiété de performance",
-      "clinical_intro": "Quand Renée pose une autre question que prévu, Nils parle plus longtemps pour couvrir toutes les réponses possibles. La crainte d’un blanc peut pousser à charger une prise déjà exigeante. Les difficultés d’attention font partie de son vécu de la schizophrénie. Repartir d’une question précise et prévoir une autre forme de diffusion lui donnent une marge pour répondre."
+      "clinical_focus": "Organisation de la réponse sous pression",
+      "clinical_intro": "Quand Renée pose une autre question que prévu, Nils parle plus longtemps pour couvrir toutes les réponses possibles. La crainte d’un blanc peut pousser à charger une prise déjà exigeante. Les difficultés d’attention font partie de son vécu de la schizophrénie. Repartir d’une question précise et prévoir une autre forme de diffusion lui donnent une marge pour répondre.",
+      "conclusion": "Nils raccourcit sa réponse en retrouvant la question de Renée. Il dispose d’un format de réserve si les conditions changent à l’antenne. Un proche ou un collègue peut l’aider en lui disant exactement à quel moment le propos devient difficile à suivre."
     },
     {
       "number": 11,
       "slug": "nils-le-voyant-rouge",
       "title": "Blocage en direct et reprise grâce à un indice concret",
-      "description": "Le voyant s’allume et Nils perd un mot. Maud répète la question comme convenu ; il choisit le dernier détail qu’il veut donner.",
+      "description": "Le voyant s’allume et Nils perd un mot. Maud répète la question comme convenu. Il choisit le dernier détail qu’il veut donner.",
       "context": "Le samedi, pendant la première émission des Mains dans la terre",
       "topics": [
-        "Blocage attentionnel",
+        "Retour au bon contexte",
         "Indice de récupération",
-        "Peur du blanc"
+        "Appui du collègue"
       ],
-      "opening": "Jo a déplacé la chaise de Nils pour laisser entrer Maud avec ses feuilles. Quand Nils s’assied, le bras du micro lui cache le bas de la fiche. Il la fait glisser à côté du verre d’eau. Derrière la vitre, Jo lui montre trois doigts. Le sujet précédent s’est terminé à l’heure. Nils met le casque. Le voyant s’allume quand Jo lance l’introduction. Il entend sa voix telle qu’elle passe à l’antenne. Le froissement de la fiche a survécu au montage. Il reconnaît son propre souffle, plus court que dans son souvenir.\n\nMaud lit la question de Renée avec le « mon pot rouge » qu’elles ont validé, puis lève les yeux. Nils commence par le soleil, s’arrête et s’aperçoit qu’il est en train de répondre à la cliente de la pépinière. Il prend le verre, oublie de boire et cherche le cadre au crayon. Maud attend une seconde. Elle reprend la question en entier comme ils l’avaient essayé. La gouttière lui revient. Nils dit qu’il irait d’abord voir ce qui se passe dans le pot après la pluie. Il n’a pas vu le basilic de Renée et préfère lui poser une autre question plutôt que lui donner une fréquence.\n\nDerrière la vitre, Jo signale le temps qui reste. Nils pense à ce qu’il n’a pas dit sur la taille du pot. Sa main arrive au bord de la page. Il pourrait lever la paume s’il voulait s’arrêter. Il choisit de finir avec une question pour Renée : est-ce que l’eau reste dans la soucoupe ? Maud attend le point et rend la parole à Jo.",
+      "opening": "Jo a déplacé la chaise de Nils pour laisser entrer Maud avec ses feuilles. Quand Nils s’assied, le bras du micro lui cache le bas de la fiche. Il la fait glisser à côté du verre d’eau. Derrière la vitre, Jo lui montre trois doigts. Le sujet précédent s’est terminé à l’heure. Nils met le casque. Le voyant s’allume quand Jo lance l’introduction. Il entend sa voix telle qu’elle passe à l’antenne. Le froissement de la fiche a survécu au montage. Il reconnaît son propre souffle, plus court que dans son souvenir.\n\nMaud lit la question de Renée avec le « mon pot rouge » qu’elles ont validé, puis lève les yeux. Nils commence par le soleil, s’arrête et s’aperçoit qu’il est en train de répondre à la cliente de la pépinière. Il prend le verre, oublie de boire et cherche le cadre au crayon. Maud attend une seconde. Elle reprend la question en entier comme ils l’avaient essayé. La gouttière lui revient. Nils dit qu’il irait d’abord voir ce qui se passe dans le pot après la pluie. Il n’a pas vu le basilic de Renée et préfère lui poser une autre question plutôt que lui donner une fréquence.\n\nDerrière la vitre, Jo signale le temps qui reste. Nils pense à ce qu’il n’a pas dit sur la taille du pot. Sa main arrive au bord de la page. Il pourrait lever la paume s’il voulait s’arrêter. Il choisit de finir avec une question pour Renée. « Est-ce que l’eau reste dans la soucoupe ? » Maud attend le point et rend la parole à Jo.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Reprendre la parole à partir d’un repère",
-          "text": "Les difficultés d’attention que certaines personnes rencontrent avec une schizophrénie peuvent se faire sentir au cours d’une activité qu’elles aiment. La situation du direct demande aussi à n’importe quel chroniqueur de passer rapidement d’une écoute à une réponse."
+          "heading": "Passer d’un contexte à un autre en parlant",
+          "text": "Des difficultés cognitives peuvent accompagner la schizophrénie, notamment pour orienter l’attention et utiliser le contexte utile. À l’antenne, Nils commence par une réponse qui convenait à la cliente de la pépinière. Il lui faut retrouver la nouvelle situation en quelques secondes. Une hésitation reste courante en direct et ne permet pas de conclure sur l’état clinique."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Nils hésite entre deux situations de jardinage. La question de Maud lui restitue le contexte qu’il cherche et le mot encadré l’aide à retrouver sa réponse. Il reste libre de demander une sortie ou de choisir sa phrase de fin.\n\nCe résultat décrit un essai précis. On ne peut pas en déduire ce que sera sa journée suivante, ni tirer d’un silence à l’antenne une conclusion sur sa santé. La préparation a donné à Nils et à Maud un moyen de partager une tâche. Le temps laissé après la question importe autant que la feuille. Sans lui, elle aurait pu reprendre la réponse à sa place alors qu’il voulait encore parler."
+          "heading": "Comment l’ancien fil peut-il revenir au moment de prendre la parole ?",
+          "points": [
+            {
+              "heading": "Une réponse connue arrive trop vite",
+              "text": "La proximité de deux questions peut faire revenir celle qu’on a le plus répétée.",
+              "examples": [
+                "Nils commence par le soleil, un détail qui appartenait à la cliente de la pépinière.",
+                "En ouvrant une réunion, on pourrait donner l’heure de la séance précédente malgré le nouveau planning."
+              ]
+            },
+            {
+              "heading": "Le passage d’écouter à parler suspend la réponse",
+              "text": "Le signal attendu arrive, mais retrouver la situation en cours demande encore un instant.",
+              "examples": [
+                "Nils saisit son verre et oublie de boire en cherchant le cadre au crayon.",
+                "Après une annonce dans un atelier, une personne pourrait rester un instant devant son poste sans retrouver quel objet était concerné."
+              ]
+            },
+            {
+              "heading": "Un indice complet redonne le bon contexte",
+              "text": "Un mot seul peut aider si l’on sait déjà à quelle question le relier.",
+              "examples": [
+                "Maud redonne la question entière et la gouttière revient à Nils.",
+                "Dans une discussion de groupe, rappeler à la fois la demande et son auteur pourrait restituer le point précis."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Garder une place aux choix après l’émission",
-          "text": "Le soutien à l’activité et aux objectifs personnels fait partie des approches d’accompagnement décrites par le NICE. Le projet de Nils tient aussi au plaisir de parler d’une plante sans fermer la question trop tôt. Quand Maud voudra en reparler, ils pourront écouter la chronique en prêtant attention à ce que l’auditeur comprend. Ils pourront regarder si la question a été dite clairement et si les secondes disponibles lui ont permis de finir. Sa façon de décider s’il veut continuer compte autant que la demande de Jo.\n\nLe fichier de secours n’a pas servi. Son existence leur a pourtant laissé un choix au moment d’ouvrir le micro. Pour la suite, Nils veut garder les deux possibilités, et il pourra rediscuter de l’usage de chaque enregistrement. Les questions de suivi qu’il a avec le secteur restent du ressort de leurs rendez-vous et des contacts convenus."
+          "heading": "3 techniques pour retrouver le bon fil au moment de répondre",
+          "points": [
+            {
+              "heading": "Préparer un indice propre à la situation",
+              "objective": "Distinguer deux questions qui se ressemblent.",
+              "exercise": [
+                "Choisissez un mot présent seulement dans la demande actuelle.",
+                "Mettez-le à l’endroit où vous regarderez en parlant.",
+                "Vérifiez qu’il reste visible avec le matériel installé."
+              ],
+              "benefit": "Ce détail peut faire revenir la bonne situation plus vite."
+            },
+            {
+              "heading": "Convenir d’une relance entière",
+              "objective": "Avoir des mots utiles à retrouver en cas d’hésitation.",
+              "exercise": [
+                "Décidez qui peut redire la question.",
+                "Dites quel silence ou quel signe appellera la relance.",
+                "Reprenez à votre rythme après l’avoir entendue."
+              ],
+              "benefit": "La relance peut donner le contexte sans prendre la réponse à votre place."
+            },
+            {
+              "heading": "Prévoir une relève brève",
+              "objective": "Savoir comment laisser la parole si le fil ne revient pas.",
+              "exercise": [
+                "Choisissez un geste d’arrêt simple.",
+                "Confirmez qui peut poursuivre et avec quel texte.",
+                "Convenez du moment où vous débrieferez."
+              ],
+              "benefit": "Le droit de passer la main peut rendre l’essai plus souple."
+            }
+          ]
         }
       ],
       "ending_title": "Le verre encore plein",
@@ -503,40 +1130,97 @@
         "choice": "Nils utilise son repère pour reprendre la question à l’antenne et termine dans le temps prévu.",
         "next": "Il réécoute l’émission lundi et répond à la proposition de tenir une chronique régulière."
       },
-      "clinical_focus": "Blocage attentionnel",
-      "clinical_intro": "Le voyant s’allume et Nils hésite entre deux réponses. Il redoute de rester silencieux devant les auditeurs. Certaines personnes qui vivent avec une schizophrénie rencontrent des difficultés d’attention qui rendent ces transitions plus exigeantes. La question redite par Maud restitue le contexte. Avec quelques secondes et son mot repère, Nils peut choisir comment poursuivre sa propre réponse."
+      "clinical_focus": "Retour au bon contexte en direct",
+      "clinical_intro": "Le voyant s’allume et Nils hésite entre deux réponses. Il redoute de rester silencieux devant les auditeurs. Certaines personnes qui vivent avec une schizophrénie rencontrent des difficultés d’attention qui rendent ces transitions plus exigeantes. La question redite par Maud restitue le contexte. Avec quelques secondes et son mot repère, Nils peut choisir comment poursuivre sa propre réponse.",
+      "conclusion": "Le repère et la question redite aident Nils à quitter la première situation et à reprendre celle de Renée. Il pourra décider lundi ce qu’il veut renouveler. Maud connaît maintenant la forme de relance qu’il accepte."
     },
     {
       "number": 12,
       "slug": "nils-une-date-au-crayon",
-      "title": "Se mettre la pression après une réussite et choisir son rythme",
+      "title": "Choisir le rythme d’un projet quand les besoins peuvent varier",
       "description": "La radio lui propose de revenir chaque semaine. Nils choisit le rythme qu’il peut tenir et prépare déjà une autre question.",
       "context": "Le lundi après la première diffusion, au studio puis à la pépinière",
       "topics": [
-        "Pression de performance",
         "Rétablissement et autonomie",
-        "Gestion de l’effort"
+        "Rythme de participation",
+        "Appuis évolutifs"
       ],
       "opening": "Jo a laissé devant le clavier une feuille pour les quatre émissions du mois. Il a mis le prénom de Nils au crayon à côté de chaque samedi. Ce n’est qu’une proposition, explique Maud. Elle lance l’enregistrement du week-end. Ils réécoutent la question de Renée et le blanc au milieu. Nils se souvient d’un très long blanc. À l’écoute, c’est le petit choc du verre sur la table qui l’arrête. Maud trouve la question compréhensible. Elle aurait voulu annoncer un peu plus lentement le nom du jardin. Nils pense à Elsa, qui avait entendu « pot rouge » du fond de sa cuisine et raté le nom du Clos des Mûriers. Il note sur la feuille : « redire le lieu à la fin ».\n\nIl regarde les quatre samedis. Renée lui a proposé de passer voir le pot un après-midi où elle sera au jardin. Il a aussi ses matinées à la pépinière, le goût de rester chez lui certains week-ends et un rendez-vous de suivi déjà fixé. Il a d’abord envie de dire oui aux quatre dates, pour que Jo voie qu’il peut compter sur lui. La pensée le serre un peu. Quand il imagine ses semaines ainsi, il n’entend déjà plus ce qui lui a plu dans la première émission. Il propose une chronique le premier samedi du mois. Maud lui dit que Jo espérait faire revenir la même voix plus souvent. Nils lui demande combien de temps la radio pourrait garder un créneau par mois si, à l’occasion, il choisit une prise enregistrée. Elle va chercher Jo plutôt que de lui promettre une réponse.\n\nIls reviennent avec le calendrier des émissions. Jo peut lui réserver le premier samedi des deux prochains mois et faire le point avec lui après. Nils regarde les dates. La seconde tombe le jour du marché aux plants de la pépinière. Il garde la première et écrit « à voir » sur l’autre, assez lisiblement pour que Jo sache quand lui redemander.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Choisir sa cadence dans le rétablissement",
-          "text": "Une personne qui vit avec une schizophrénie peut avoir des projets et des besoins qui changent au cours du temps. L’OMS décrit des parcours différents selon les personnes, avec des périodes où les difficultés peuvent être plus ou moins présentes. Le suivi peut se poursuivre tandis qu’une activité prend sa place dans la vie ordinaire."
+          "heading": "Faire durer une activité choisie avec des besoins variables",
+          "text": "Le rétablissement avec une schizophrénie peut inclure le travail et des activités auxquelles la personne tient, pendant que le suivi et les besoins d’appui évoluent. Une chronique réussie ne dit pas ce que quatre samedis représenteraient pour Nils. Choisir un rythme et le revoir ensuite permet de parler de ce qui rend la participation tenable."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La chronique de Nils renseigne surtout sur ce qu’il veut faire avec les jardiniers du quartier. Il peut choisir la fréquence, tenir compte de ses autres engagements et demander à revoir le calendrier.\n\nDans les recommandations du NICE, les objectifs personnels et la situation de travail peuvent faire partie de la discussion avec les professionnels. Nils peut leur parler des horaires qu’il veut garder et de ce qui l’aide s’il en ressent le besoin. Il conserve aussi le chemin prévu pour demander un avis quand quelque chose change dans son quotidien. Le fait d’avoir une date à la radio lui donne un rendez-vous qu’il a choisi, avec Maud, autour d’un sujet qu’il connaît."
+          "heading": "Comment une réussite peut-elle masquer le coût d’un engagement répété ?",
+          "points": [
+            {
+              "heading": "Une prise aboutie ne montre qu’un moment",
+              "text": "Le résultat qu’entend le public ne raconte pas toute la préparation ni la récupération nécessaires.",
+              "examples": [
+                "Jo a entendu la chronique terminée. Nils se rappelle l’effort du blanc et du retour à la question.",
+                "Après un premier cours réussi, une personne pourrait avoir besoin de temps pour savoir ce qu’une présence hebdomadaire lui demande."
+              ]
+            },
+            {
+              "heading": "Un engagement régulier s’ajoute aux autres besoins",
+              "text": "La date disponible sur une feuille peut entrer en conflit avec des tâches, des soins ou du repos déjà nécessaires.",
+              "examples": [
+                "Le deuxième samedi mensuel tombe le jour du marché aux plants.",
+                "Une réunion de plus pourrait supprimer le seul créneau où la personne peut se rendre à son rendez-vous de suivi."
+              ]
+            },
+            {
+              "heading": "Le format peut varier avec les conditions",
+              "text": "Un projet peut durer même si la façon de participer change au fil des semaines.",
+              "examples": [
+                "Nils demande si une prise enregistrée peut remplacer le direct à l’occasion.",
+                "Quelqu’un pourrait préparer les documents d’un atelier depuis chez soi le jour où être présent demande trop d’effort."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire durer un accord qu’on peut modifier",
-          "text": "La première émission a appris quelque chose à chacun. Jo sait combien de temps une question de jardinage peut prendre. Maud sait où répéter le nom du jardin. Nils veut vérifier si son rendez-vous mensuel reste compatible avec la préparation qu’il aime faire : écouter une personne décrire son pot, regarder où il se trouve, choisir un détail que l’on peut raconter à la radio. Il n’a pas envie de préparer quatre questions dans le même mois.\n\nIls conviennent d’une date et d’une courte discussion avant la suivante. Le choix du direct ou de l’enregistré pourra se reprendre à chaque fois. Si une date ne tient pas, ils sauront à qui le dire et quand revoir le programme. Nils choisit aussi la formulation qui paraîtra dans le calendrier : « Une question de jardinage avec Nils ». Il la relit une dernière fois. Elle lui laisse de la place pour savoir plus tard quelle question poser."
+          "heading": "3 techniques pour choisir un rythme qu’on pourra revoir",
+          "points": [
+            {
+              "heading": "Regarder le coût complet d’un créneau",
+              "objective": "Inclure la préparation et le repos dans la décision.",
+              "exercise": [
+                "Placez sur la même page travail, rendez-vous et temps choisi.",
+                "Ajoutez les tâches autour de l’activité proposée.",
+                "Repérez une première date qui laisse une marge."
+              ],
+              "benefit": "Cette vue peut révéler un conflit avant qu’il oblige à se désister."
+            },
+            {
+              "heading": "Proposer plusieurs formes de participation",
+              "objective": "Garder le même projet avec une charge différente selon le moment.",
+              "exercise": [
+                "Décrivez le format que vous aimeriez essayer.",
+                "Préparez une variante que l’équipe peut réellement utiliser.",
+                "Vérifiez l’accord sur la façon de choisir entre les deux."
+              ],
+              "benefit": "Une variante convenue peut éviter de tout suspendre lorsqu’un seul format ne convient plus."
+            },
+            {
+              "heading": "Fixer une date de bilan",
+              "objective": "Réviser l’engagement sur ce qui s’est passé au lieu de promettre à l’avance.",
+              "exercise": [
+                "Confirmez une première date seulement.",
+                "Convenez de quand reparler de la suivante.",
+                "À ce moment, dites ce qui a convenu et ce qui demande un changement."
+              ],
+              "benefit": "Le bilan peut faire durer une participation qui reste choisie."
+            }
+          ]
         }
       ],
       "ending_title": "La question au dos de l’étiquette",
-      "ending": "De retour à la pépinière pour rendre la clef du local qu’il avait emportée après sa matinée, Nils trouve un pot rouge ébréché derrière les arrosoirs. Aïcha s’en sert pour les crayons. Il en prend un et lui demande quelle plante les clients reposent le plus souvent quand elle leur explique où la mettre. Elle répond : la menthe, quand ils découvrent la place qu’elle prend. Nils retourne une étiquette vierge et écrit « quelle place pour la menthe ? ». Il glisse l’étiquette derrière sa carte de bus. Cette fois, il n’a besoin de déchirer aucune feuille : le comptage est déjà sur la planchette.",
+      "ending": "De retour à la pépinière pour rendre la clef du local qu’il avait emportée après sa matinée, Nils trouve un pot rouge ébréché derrière les arrosoirs. Aïcha s’en sert pour les crayons. Il en prend un et lui demande quelle plante les clients reposent le plus souvent quand elle leur explique où la mettre. « La menthe, quand ils découvrent la place qu’elle prend », répond-elle. Nils retourne une étiquette vierge et écrit « quelle place pour la menthe ? ». Il glisse l’étiquette derrière sa carte de bus. Cette fois, le comptage est déjà sur la planchette. Il n’a besoin de déchirer aucune feuille.",
       "mirror": [
         "Devant les quatre samedis, Maud peut demander : « Lequel te convient, et quand est-ce qu’on regarde pour la prochaine date ? » Elle peut porter la question à Jo avec Nils et demander ce que la radio peut proposer. Elsa peut lui dire ce qu’elle a entendu depuis sa cuisine, ou lui demander s’il veut lui faire écouter la chronique. Chacune reste dans le rôle qu’elle a accepté. Nils peut leur parler de la menthe s’il en a envie."
       ],
@@ -549,8 +1233,9 @@
         "choice": "Nils accepte une chronique mensuelle à l’essai, confirme une date et décide de rediscuter de la suivante.",
         "next": "La diffusion est accomplie ; restent le suivi ordinaire, le prochain sujet choisi et une date à revoir avec la radio."
       },
-      "clinical_focus": "Pression de performance",
-      "clinical_intro": "Après sa première chronique, Nils voit son prénom à côté de quatre dates et se sent tenu de prouver qu’il peut revenir chaque semaine. Le rétablissement avec une schizophrénie peut inclure des projets qui ont du sens et des besoins variables selon les périodes. Choisir une cadence mensuelle lui permet d’expérimenter un engagement compatible avec son travail et son suivi."
+      "clinical_focus": "Rythme de participation et rétablissement",
+      "clinical_intro": "Après sa première chronique, Nils voit son prénom à côté de quatre dates et se sent tenu de prouver qu’il peut revenir chaque semaine. Le rétablissement avec une schizophrénie peut inclure des projets qui ont du sens et des besoins variables selon les périodes. Choisir une cadence mensuelle lui permet d’expérimenter un engagement compatible avec son travail et son suivi.",
+      "conclusion": "La chronique a trouvé sa place et le prochain sujet sera la menthe. Nils choisit une date avec une marge pour la suite, en tenant compte de ses autres engagements et du suivi. Ses proches peuvent s’intéresser au projet et lui laisser le choix de sa cadence."
     }
   ],
   "profile_topics": [

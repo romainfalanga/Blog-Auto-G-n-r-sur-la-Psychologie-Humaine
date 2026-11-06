@@ -34,14 +34,79 @@ Inès pose les deux gobelets à distance des feuilles. Elle peut travailler ici 
 
 Dans la dysmorphophobie, une préoccupation liée à l’apparence peut revenir si souvent qu’elle prend du temps à d’autres activités. Elle porte sur des défauts perçus et peut rester présente entre deux vérifications. L’importance de ce qui est perçu pour la personne peut être très différente de ce que les autres remarquent. Un professionnel s’intéresse à la souffrance, à l’entrave au quotidien et à l’effort pour poursuivre les activités. Sébastien connaît déjà son diagnostic. Il a appris à distinguer le travail qu’il sait faire du temps qu’il a parfois beaucoup de mal à lui consacrer.
 
-## Deux calques à l’heure de la remise
+## Comment les vérifications prennent-elles du temps sur le reste ?
 
-Inès trouve deux versions à trier au moment où elle pensait commencer le report. Elle ignore qu’il a plusieurs fois repris son téléphone, parfois sans se souvenir ensuite de l’heure. Lui aurait du mal à dire combien de temps chaque regard a duré. Il peut en revanche retrouver le moment où il avait arrêté de tracer, celui où la pendule lui a rappelé l’accord et l’effort pour reprendre un fil. Une pièce de décor finie ne montrerait pas à elle seule ce que cet après-midi lui a demandé.
+### Une première vérification qui s’étend
 
-## Traiter l’urgence de l’atelier et parler du reste dans un cadre choisi
+Un doute d’apparence peut rester actif après un premier regard.
 
-Inès a besoin de savoir quel calque elle peut utiliser maintenant. Une réponse claire peut lui permettre de commencer à l’heure dont elle dispose. Si Sébastien choisit de reparler de la difficulté avec son équipe de soins, il peut décrire l’après-midi à partir de la tâche interrompue et du temps qu’elle a perdu pour lui. Un exemple donne de la matière à l’échange sans exiger de montrer la photo ou de reconstituer chaque vérification. Il peut aussi tenir à ce que cette conversation reste à part du rendez-vous de travail.
+**Exemples concrets**
+
+- Sébastien rouvre une photo qui n’a aucun rapport avec le calque à rendre.
+- Dans un autre contexte, une image reçue au réveil peut retenir quelqu’un au moment de partir.
+
+### Une tâche entre deux retours à la photo
+
+La préoccupation occupe aussi les intervalles où l’image est fermée.
+
+**Exemples concrets**
+
+- Le fusain reste en suspens au-dessus du calque.
+- Quelqu’un ouvre un message de travail et n’en retient pas la demande.
+
+### Un coût visible quand l’heure arrive
+
+L’effet apparaît parfois au moment où quelqu’un attend le travail.
+
+**Exemples concrets**
+
+- Inès arrive et trouve deux calques encore à trier.
+- Dans une équipe, une remise à l’heure peut avoir absorbé la pause entière.
+
+## 3 techniques pour reprendre une tâche et décrire le temps perdu
+
+### 1. Identifier la remise du jour
+
+Dégager la décision attendue par la collègue.
+
+**Exercice pratique**
+
+- Relire ce qu’Inès attend.
+- Choisir le calque à reporter.
+- Indiquer ce qui reste pour demain.
+
+La transmission peut avancer même si l’attention reste fragile.
+
+### 2. Préparer un exemple pour le suivi
+
+Décrire le retentissement sans réexaminer l’image.
+
+**Exercice pratique**
+
+- Retenir une tâche qui s’est interrompue.
+- Nommer ce que le retard a changé.
+- Apporter cet exemple au rendez-vous.
+
+L’équipe peut mieux comprendre ce que la vérification prend à la journée.
+
+### 3. Fixer un rendez-vous de travail précis
+
+Garder un point de reprise à deux.
+
+**Exercice pratique**
+
+- Demander quand le panneau sera disponible.
+- Choisir une heure qui convient aux deux.
+- Préciser le plan à apporter.
+
+Chacun peut se préparer à la même décision.
 
 ## Le bon calque à côté des cafés
 
 Sébastien écrit « à reporter » au crayon dans la marge du second dessin. Il soulève le gobelet d’Inès, glisse un dessous en carton et pose le calque à côté. Il pourra finir seul le repère du volet supérieur demain. Inès veut d’abord voir les panneaux sur le plateau. Elle y sera à midi et lui garde le plan de montage. Sébastien accepte. Pendant qu’elle pose le calque sur le bois, il écrit à l’équipe de soins pour confirmer le prochain rendez-vous. Son café a tiédi. Il le boit debout pendant que le premier trait du calque passe sur le bois.
+
+---
+
+**Conclusion**
+
+Le calque finit par passer sur le bois. L’après-midi montre surtout le temps que la vérification a pris entre le premier doute et l’arrivée d’Inès. Le lendemain, la question se déplacera du téléphone au couloir du théâtre.

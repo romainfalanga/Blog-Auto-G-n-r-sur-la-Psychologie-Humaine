@@ -34,14 +34,79 @@ Elle aurait voulu poser la pochette ailleurs pendant une heure. De proche en pro
 
 Le trouble d’accumulation compulsive peut rendre les espaces de vie difficiles à utiliser quand les possessions s’y entassent. La difficulté à se séparer des objets y contribue, de même que les objets qui continuent d’arriver, qu’ils aient été cherchés ou soient entrés au fil du quotidien. Garder des papiers qui comptent ou recevoir des livres n’a rien d’inhabituel en soi. Le retentissement prend une forme concrète quand des usages réguliers se perdent, par exemple lire à sa table ou y recevoir quelqu’un. La sécurité du passage pose une question distincte, même si l’on renonce pour l’instant à s’installer.
 
-## Une place assise qui cesse d’être disponible
+## Comment l’encombrement fait-il perdre un usage du logement ?
 
-Agnès voit la chaise, le carton et la pochette qui glisse. Elle ne peut pas savoir que sa tante a déjà cherché seule une place la semaine précédente, ni que reconnaître l’écriture sur un papier rend la décision plus longue. Pour Nathalie, poser la pochette provisoirement ressemble vite à une demande de trancher son sort. Le trouble lui a été expliqué lors d’une évaluation antérieure. Elle peut reconnaître ce qui se passe et rester indécise devant cette feuille violette. Elle ressent cette gêne même seule. La visite la rend plus difficile à passer sous silence.
+### Une surface occupée
 
-## Trouver où s’asseoir aujourd’hui
+Le meuble est toujours là. Les affaires laissées dessus rendent sa fonction difficile à retrouver au moment où elle est nécessaire.
 
-Agnès et Nathalie peuvent chercher un lieu où faire les légendes maintenant, puis laisser à Nathalie le choix du prochain rendez-vous chez elle. Nathalie peut expliquer à l’équipe spécialisée qu’elle n’utilise plus sa table et que l’accès au séjour s’est rétréci. Ce changement de circulation mérite d’être signalé dès maintenant. Une description précise est utile même quand Nathalie ne sait pas encore ce qu’elle voudrait déplacer. Si le passage devient dangereux, l’équipe peut orienter vers une évaluation adaptée. En cas de danger immédiat, il faut solliciter les secours.
+**Exemples concrets**
+
+- Chez Nathalie, il reste un angle pour les tasses et aucune place pour l’ordinateur d’Agnès.
+- Dans un autre logement, une table de cuisine sert de dépôt et les repas se prennent sur un tabouret.
+
+### Un siège difficile à atteindre
+
+L’usage dépend aussi de ce qui entoure le meuble. Une chaise vide peut rester inutilisable si on ne peut ni y accéder facilement ni la reculer.
+
+**Exemples concrets**
+
+- Agnès doit contourner le carton avant de pouvoir approcher la chaise du séjour.
+- Un fauteuil peut être libre alors qu’un sac gêne chaque fois le passage entre le fauteuil et sa lampe.
+
+### Une activité écourtée ou déplacée
+
+Le changement finit parfois par se voir dans ce que la personne renonce à faire chez elle. Les objets restent alors associés à un coût qui dépasse la place qu’ils occupent.
+
+**Exemples concrets**
+
+- Nathalie lit trois pages debout puis ferme son roman.
+- Le travail à deux se poursuit à la médiathèque, après une matinée prévue chez Nathalie.
+
+## 3 techniques pour retrouver un usage précis
+
+### 1. Nommer ce qui manque
+
+Décrire l’activité devenue difficile pour que l’équipe sache d’où partir.
+
+**Exercice pratique**
+
+- Choisissez un moment récent où vous vouliez utiliser la pièce.
+- Décrivez le geste qui a bloqué, comme reculer la chaise.
+- Ajoutez ce que vous avez fait à la place.
+
+Un exemple concret peut orienter la discussion vers un objectif utile.
+
+### 2. Garder le rendez-vous possible
+
+Préserver l’activité prévue lorsque le lieu habituel ne convient plus.
+
+**Exercice pratique**
+
+- Demandez à l’autre personne de quelle installation elle a besoin.
+- Proposez un endroit que vous pouvez utiliser aujourd’hui.
+- Voyez quand vous souhaitez reparler d’un rendez-vous à la maison.
+
+La relation peut continuer pendant que l’usage du logement est repris.
+
+### 3. Signaler un changement de circulation
+
+Faire examiner séparément une gêne sur un trajet utile.
+
+**Exercice pratique**
+
+- Dites à l’équipe où le passage s’est rétréci.
+- Précisez ce que vous pouvez encore faire, comme ouvrir la porte.
+- Demandez quel relais solliciter si la situation se dégrade. En cas de danger immédiat, appelez les secours.
+
+Ce contact peut aider à décider de l’intervention adaptée.
 
 ## La table près des revues
 
 À la médiathèque, Agnès trouve une table près des revues. Nathalie la rejoint avec le livre qu’elle n’a pas terminé. Avant de s’asseoir, elle laisse un message à son équipe. Elle décrit le carton et la difficulté à rejoindre le séjour. Agnès lui montre ensuite les mots « trois coups de grille » dans sa première légende. Nathalie remet le son et les compte avec elle. L’après-midi, l’ergothérapeute Nora la rappelle. Elle vérifie que la porte d’entrée s’ouvre complètement et lui propose une visite vendredi pour examiner les passages et l’usage de la table. Nathalie accepte.
+
+---
+
+**Conclusion**
+
+Mardi, la table empêche une lecture et une séance de travail. La médiathèque permet de garder le rendez-vous, puis la visite de Nora précisera ce que Nathalie souhaite retrouver chez elle. Agnès peut contribuer en disant de quelle place elle a besoin.

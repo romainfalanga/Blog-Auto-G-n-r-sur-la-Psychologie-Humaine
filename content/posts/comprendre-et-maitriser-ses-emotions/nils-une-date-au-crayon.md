@@ -1,18 +1,18 @@
 ---
-title: Se mettre la pression après une réussite et choisir son rythme
+title: Choisir le rythme d’un projet quand les besoins peuvent varier
 description: La radio lui propose de revenir chaque semaine. Nils choisit le rythme
   qu’il peut tenir et prépare déjà une autre question.
 slug: nils-une-date-au-crayon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Pression de performance
+sujet: Rythme de participation et rétablissement
 contexte: Le lundi après la première diffusion, au studio puis à la pépinière
 tags:
 - Schizophrénie
-- Pression de performance
 - Rétablissement et autonomie
-- Gestion de l’effort
+- Rythme de participation
+- Appuis évolutifs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -27,22 +27,83 @@ Il regarde les quatre samedis. Renée lui a proposé de passer voir le pot un ap
 
 Ils reviennent avec le calendrier des émissions. Jo peut lui réserver le premier samedi des deux prochains mois et faire le point avec lui après. Nils regarde les dates. La seconde tombe le jour du marché aux plants de la pépinière. Il garde la première et écrit « à voir » sur l’autre, assez lisiblement pour que Jo sache quand lui redemander.
 
-## Choisir sa cadence dans le rétablissement
+## Faire durer une activité choisie avec des besoins variables
 
-Une personne qui vit avec une schizophrénie peut avoir des projets et des besoins qui changent au cours du temps. L’OMS décrit des parcours différents selon les personnes, avec des périodes où les difficultés peuvent être plus ou moins présentes. Le suivi peut se poursuivre tandis qu’une activité prend sa place dans la vie ordinaire.
+Le rétablissement avec une schizophrénie peut inclure le travail et des activités auxquelles la personne tient, pendant que le suivi et les besoins d’appui évoluent. Une chronique réussie ne dit pas ce que quatre samedis représenteraient pour Nils. Choisir un rythme et le revoir ensuite permet de parler de ce qui rend la participation tenable.
 
-## Comment cette difficulté se manifeste
+## Comment une réussite peut-elle masquer le coût d’un engagement répété ?
 
-La chronique de Nils renseigne surtout sur ce qu’il veut faire avec les jardiniers du quartier. Il peut choisir la fréquence, tenir compte de ses autres engagements et demander à revoir le calendrier.
+### Une prise aboutie ne montre qu’un moment
 
-Dans les recommandations du NICE, les objectifs personnels et la situation de travail peuvent faire partie de la discussion avec les professionnels. Nils peut leur parler des horaires qu’il veut garder et de ce qui l’aide s’il en ressent le besoin. Il conserve aussi le chemin prévu pour demander un avis quand quelque chose change dans son quotidien. Le fait d’avoir une date à la radio lui donne un rendez-vous qu’il a choisi, avec Maud, autour d’un sujet qu’il connaît.
+Le résultat qu’entend le public ne raconte pas toute la préparation ni la récupération nécessaires.
 
-## Faire durer un accord qu’on peut modifier
+**Exemples concrets**
 
-La première émission a appris quelque chose à chacun. Jo sait combien de temps une question de jardinage peut prendre. Maud sait où répéter le nom du jardin. Nils veut vérifier si son rendez-vous mensuel reste compatible avec la préparation qu’il aime faire : écouter une personne décrire son pot, regarder où il se trouve, choisir un détail que l’on peut raconter à la radio. Il n’a pas envie de préparer quatre questions dans le même mois.
+- Jo a entendu la chronique terminée. Nils se rappelle l’effort du blanc et du retour à la question.
+- Après un premier cours réussi, une personne pourrait avoir besoin de temps pour savoir ce qu’une présence hebdomadaire lui demande.
 
-Ils conviennent d’une date et d’une courte discussion avant la suivante. Le choix du direct ou de l’enregistré pourra se reprendre à chaque fois. Si une date ne tient pas, ils sauront à qui le dire et quand revoir le programme. Nils choisit aussi la formulation qui paraîtra dans le calendrier : « Une question de jardinage avec Nils ». Il la relit une dernière fois. Elle lui laisse de la place pour savoir plus tard quelle question poser.
+### Un engagement régulier s’ajoute aux autres besoins
+
+La date disponible sur une feuille peut entrer en conflit avec des tâches, des soins ou du repos déjà nécessaires.
+
+**Exemples concrets**
+
+- Le deuxième samedi mensuel tombe le jour du marché aux plants.
+- Une réunion de plus pourrait supprimer le seul créneau où la personne peut se rendre à son rendez-vous de suivi.
+
+### Le format peut varier avec les conditions
+
+Un projet peut durer même si la façon de participer change au fil des semaines.
+
+**Exemples concrets**
+
+- Nils demande si une prise enregistrée peut remplacer le direct à l’occasion.
+- Quelqu’un pourrait préparer les documents d’un atelier depuis chez soi le jour où être présent demande trop d’effort.
+
+## 3 techniques pour choisir un rythme qu’on pourra revoir
+
+### 1. Regarder le coût complet d’un créneau
+
+Inclure la préparation et le repos dans la décision.
+
+**Exercice pratique**
+
+- Placez sur la même page travail, rendez-vous et temps choisi.
+- Ajoutez les tâches autour de l’activité proposée.
+- Repérez une première date qui laisse une marge.
+
+Cette vue peut révéler un conflit avant qu’il oblige à se désister.
+
+### 2. Proposer plusieurs formes de participation
+
+Garder le même projet avec une charge différente selon le moment.
+
+**Exercice pratique**
+
+- Décrivez le format que vous aimeriez essayer.
+- Préparez une variante que l’équipe peut réellement utiliser.
+- Vérifiez l’accord sur la façon de choisir entre les deux.
+
+Une variante convenue peut éviter de tout suspendre lorsqu’un seul format ne convient plus.
+
+### 3. Fixer une date de bilan
+
+Réviser l’engagement sur ce qui s’est passé au lieu de promettre à l’avance.
+
+**Exercice pratique**
+
+- Confirmez une première date seulement.
+- Convenez de quand reparler de la suivante.
+- À ce moment, dites ce qui a convenu et ce qui demande un changement.
+
+Le bilan peut faire durer une participation qui reste choisie.
 
 ## La question au dos de l’étiquette
 
-De retour à la pépinière pour rendre la clef du local qu’il avait emportée après sa matinée, Nils trouve un pot rouge ébréché derrière les arrosoirs. Aïcha s’en sert pour les crayons. Il en prend un et lui demande quelle plante les clients reposent le plus souvent quand elle leur explique où la mettre. Elle répond : la menthe, quand ils découvrent la place qu’elle prend. Nils retourne une étiquette vierge et écrit « quelle place pour la menthe ? ». Il glisse l’étiquette derrière sa carte de bus. Cette fois, il n’a besoin de déchirer aucune feuille : le comptage est déjà sur la planchette.
+De retour à la pépinière pour rendre la clef du local qu’il avait emportée après sa matinée, Nils trouve un pot rouge ébréché derrière les arrosoirs. Aïcha s’en sert pour les crayons. Il en prend un et lui demande quelle plante les clients reposent le plus souvent quand elle leur explique où la mettre. « La menthe, quand ils découvrent la place qu’elle prend », répond-elle. Nils retourne une étiquette vierge et écrit « quelle place pour la menthe ? ». Il glisse l’étiquette derrière sa carte de bus. Cette fois, le comptage est déjà sur la planchette. Il n’a besoin de déchirer aucune feuille.
+
+---
+
+**Conclusion**
+
+La chronique a trouvé sa place et le prochain sujet sera la menthe. Nils choisit une date avec une marge pour la suite, en tenant compte de ses autres engagements et du suivi. Ses proches peuvent s’intéresser au projet et lui laisser le choix de sa cadence.

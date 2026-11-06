@@ -49,8 +49,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-aide-accord-pas-de-debarras-surprise/">Accepter de l’aide sans confier le sort de ses objets</a></h3>
-    <p class="parcours-resume">Agnès imagine une matinée de transport et Nathalie entend déjà qu’il faudra se séparer de ses affaires. Dans le trouble d’accumulation compulsive, une aide envisagée par un proche peut toucher des décisions vécues comme très difficiles. Dire qui intervient, sur quoi et avec quel accord permet de proposer un appui que chacun comprend.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-aide-accord-pas-de-debarras-surprise/">Quand une offre d’aide fait craindre un débarras</a></h3>
+    <p class="parcours-resume">Agnès évoque une camionnette et Nathalie imagine devoir choisir le sort de ses affaires devant plusieurs personnes. Dans le trouble d’accumulation compulsive, la perspective d’une séparation rapide peut rendre une proposition d’aide éprouvante. Nathalie précise ce qu’elle souhaite accepter et dans quelles conditions elle peut continuer à décider.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-aide-accord-pas-de-debarras-surprise/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -61,14 +61,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-passage-securite-incendie-relais/">Quand un danger dans l’immeuble demande un relais immédiat</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-passage-securite-incendie-relais/">Quand l’accès au logement compte dans une urgence</a></h3>
     <p class="parcours-resume">De la fumée est signalée dans l’escalier de l’immeuble de Nathalie. Un passage encombré peut compliquer les déplacements et l’intervention des secours, quelle que soit la cause du danger. L’épisode sépare l’appel immédiat aux pompiers, leurs consignes et le travail de prévention que Nathalie reprend avec son équipe une fois l’alerte terminée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-passage-securite-incendie-relais/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-tcc-decision-separation-accompagnee/">Travailler la difficulté à se séparer d’un objet en thérapie</a></h3>
-    <p class="parcours-resume">Nathalie veut comprendre pourquoi deux intercalaires identiques lui paraissent indispensables. Une thérapie cognitive et comportementale adaptée au trouble d’accumulation compulsive peut aborder les pensées, l’inconfort et les décisions autour des possessions. Nathalie choisit avec la psychologue ce qu’elle accepte d’essayer, puis décrit ce que l’expérience lui a coûté.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-tcc-decision-separation-accompagnee/">Quand la peur de manquer rend difficile une séparation</a></h3>
+    <p class="parcours-resume">Deux intercalaires identiques semblent nécessaires à Nathalie alors qu’elle en possède d’autres. Dans le trouble d’accumulation compulsive, une possibilité de manque peut devenir très convaincante au moment de se séparer d’un objet. Avec sa psychologue, Nathalie examine l’usage prévu, la peur qu’elle ressent et ce qui se passe après une décision choisie.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-tcc-decision-separation-accompagnee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -91,8 +91,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-visite-place-proche-accueil/">Recevoir un proche en gardant un accord qui lui convient aussi</a></h3>
-    <p class="parcours-resume">Agnès vient écrire deux légendes et Nathalie a prévu de lire près d’elle. Le trouble d’accumulation compulsive peut rendre les visites difficiles ou leur donner peu à peu la forme d’une séance de tri. Un accord précis permet ici de retrouver un moment partagé et de laisser les questions de soin à l’équipe qui suit Nathalie.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-visite-place-proche-accueil/">Quand les décisions de tri empiètent sur une visite</a></h3>
+    <p class="parcours-resume">Agnès a une heure pour terminer ses légendes. Un programme qui dépasse du buffet amène Nathalie à envisager plusieurs décisions de tri pendant ce temps. Dans le trouble d’accumulation compulsive, le temps pris par ces choix peut empiéter sur les échanges, même quand le logement permet de nouveau de s’asseoir ensemble.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nathalie-visite-place-proche-accueil/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

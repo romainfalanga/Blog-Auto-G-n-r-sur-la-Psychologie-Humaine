@@ -31,13 +31,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Deux calques à l’heure de la remise",
-          "text": "Inès trouve deux versions à trier au moment où elle pensait commencer le report. Elle ignore qu’il a plusieurs fois repris son téléphone, parfois sans se souvenir ensuite de l’heure. Lui aurait du mal à dire combien de temps chaque regard a duré. Il peut en revanche retrouver le moment où il avait arrêté de tracer, celui où la pendule lui a rappelé l’accord et l’effort pour reprendre un fil. Une pièce de décor finie ne montrerait pas à elle seule ce que cet après-midi lui a demandé."
+          "heading": "Comment les vérifications prennent-elles du temps sur le reste ?",
+          "points": [
+            {
+              "heading": "Une première vérification qui s’étend",
+              "text": "Un doute d’apparence peut rester actif après un premier regard.",
+              "examples": [
+                "Sébastien rouvre une photo qui n’a aucun rapport avec le calque à rendre.",
+                "Dans un autre contexte, une image reçue au réveil peut retenir quelqu’un au moment de partir."
+              ]
+            },
+            {
+              "heading": "Une tâche entre deux retours à la photo",
+              "text": "La préoccupation occupe aussi les intervalles où l’image est fermée.",
+              "examples": [
+                "Le fusain reste en suspens au-dessus du calque.",
+                "Quelqu’un ouvre un message de travail et n’en retient pas la demande."
+              ]
+            },
+            {
+              "heading": "Un coût visible quand l’heure arrive",
+              "text": "L’effet apparaît parfois au moment où quelqu’un attend le travail.",
+              "examples": [
+                "Inès arrive et trouve deux calques encore à trier.",
+                "Dans une équipe, une remise à l’heure peut avoir absorbé la pause entière."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Traiter l’urgence de l’atelier et parler du reste dans un cadre choisi",
-          "text": "Inès a besoin de savoir quel calque elle peut utiliser maintenant. Une réponse claire peut lui permettre de commencer à l’heure dont elle dispose. Si Sébastien choisit de reparler de la difficulté avec son équipe de soins, il peut décrire l’après-midi à partir de la tâche interrompue et du temps qu’elle a perdu pour lui. Un exemple donne de la matière à l’échange sans exiger de montrer la photo ou de reconstituer chaque vérification. Il peut aussi tenir à ce que cette conversation reste à part du rendez-vous de travail."
+          "heading": "3 techniques pour reprendre une tâche et décrire le temps perdu",
+          "points": [
+            {
+              "heading": "Identifier la remise du jour",
+              "objective": "Dégager la décision attendue par la collègue.",
+              "exercise": [
+                "Relire ce qu’Inès attend.",
+                "Choisir le calque à reporter.",
+                "Indiquer ce qui reste pour demain."
+              ],
+              "benefit": "La transmission peut avancer même si l’attention reste fragile."
+            },
+            {
+              "heading": "Préparer un exemple pour le suivi",
+              "objective": "Décrire le retentissement sans réexaminer l’image.",
+              "exercise": [
+                "Retenir une tâche qui s’est interrompue.",
+                "Nommer ce que le retard a changé.",
+                "Apporter cet exemple au rendez-vous."
+              ],
+              "benefit": "L’équipe peut mieux comprendre ce que la vérification prend à la journée."
+            },
+            {
+              "heading": "Fixer un rendez-vous de travail précis",
+              "objective": "Garder un point de reprise à deux.",
+              "exercise": [
+                "Demander quand le panneau sera disponible.",
+                "Choisir une heure qui convient aux deux.",
+                "Préciser le plan à apporter."
+              ],
+              "benefit": "Chacun peut se préparer à la même décision."
+            }
+          ]
         }
       ],
       "ending_title": "Le bon calque à côté des cafés",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Sébastien remet le bon calque, confirme le rendez-vous de soins et convient de retrouver Inès sur le plateau à midi le lendemain.",
         "next": "Inès apporte le premier volet reporté. La visite du plateau met en jeu la possibilité d’être vu et les règles encore floues autour des images."
-      }
+      },
+      "conclusion": "Le calque finit par passer sur le bois. L’après-midi montre surtout le temps que la vérification a pris entre le premier doute et l’arrivée d’Inès. Le lendemain, la question se déplacera du téléphone au couloir du théâtre."
     },
     {
       "number": 2,
@@ -77,13 +134,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le plan annoté pendant qu’il attendait",
-          "text": "Inès voit que Sébastien est resté dans le couloir et que le plan porte maintenant un trait qu’il n’a pas choisi. Elle peut lui dire ce qui s’est passé. C’était Nora, qui organise les images. Elle voulait savoir quand le panneau serait assez sec pour être photographié. Cette information répond à une question réelle. Sébastien, lui, entend aussi dans son attente la crainte que les autres se retournent quand il entrera. Il a connu cette sensation dans des salles où il n’y avait aucun appareil."
+          "heading": "Comment l’évitement se manifeste-t-il autour du plateau ?",
+          "points": [
+            {
+              "heading": "Attendre de savoir qui sera là",
+              "text": "L’entrée dans un lieu devient difficile quand le regard des autres paraît menaçant.",
+              "examples": [
+                "Sébastien reste derrière le rideau après avoir entendu parler de photos.",
+                "Quelqu’un peut hésiter à entrer dans une salle familière quand de nouvelles personnes sont arrivées."
+              ]
+            },
+            {
+              "heading": "Se sentir mieux en restant à l’écart",
+              "text": "Rester dans un lieu moins exposé peut calmer une partie de la détresse.",
+              "examples": [
+                "Sébastien se détend quand Inès revient dans le couloir.",
+                "Dans une autre situation, annuler un café peut donner un répit avant que l’envie d’y aller revienne."
+              ]
+            },
+            {
+              "heading": "Perdre une décision qui comptait",
+              "text": "Le soulagement immédiat peut s’accompagner d’une occasion manquée.",
+              "examples": [
+                "Les comédiens choisissent un emplacement avant que Sébastien ait pu donner son avis.",
+                "Une personne qui quitte un rendez-vous de groupe peut perdre l’occasion de présenter son idée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Retrouver une décision de métier",
-          "text": "Sébastien peut demander le plan de travail de Nora et préciser sa préférence pour aujourd’hui. Il peut aussi proposer un moment où Inès et lui pourront reprendre la décision de décor, si son avis leur est encore utile. Vérifier le volet pendant que la salle est libre lui permet de reprendre sa tâche. D’autres arrivées pourront rester difficiles. Le temps passé dans le couloir et le soulagement qu’il y a éprouvé pourront être discutés en consultation, sans transformer la prochaine entrée sur scène en exercice imposé par l’équipe du théâtre."
+          "heading": "3 techniques pour reprendre sa part dans une activité",
+          "points": [
+            {
+              "heading": "Demander ce qui est réellement prévu",
+              "objective": "Clarifier l’organisation autour des images.",
+              "exercise": [
+                "S’adresser à la personne qui les prépare.",
+                "Demander ce qu’elle souhaite photographier.",
+                "Indiquer son choix pour la journée."
+              ],
+              "benefit": "Une réponse précise peut éclairer la décision de travail."
+            },
+            {
+              "heading": "Retrouver le point de métier",
+              "objective": "Réexaminer un avis donné en son absence.",
+              "exercise": [
+                "Reprendre le plan déjà annoté.",
+                "Demander à Inès quand elle peut tenir le volet.",
+                "Regarder d’où le visage doit se lire."
+              ],
+              "benefit": "Sébastien peut contribuer à l’emplacement sans dépendre d’une nouvelle prise de vues."
+            },
+            {
+              "heading": "Raconter une occasion manquée",
+              "objective": "Situer l’évitement dans le suivi.",
+              "exercise": [
+                "Revenir au moment où le rideau l’a arrêté.",
+                "Expliquer ce qu’il voulait faire sur scène.",
+                "Dire ce que l’attente lui a apporté puis coûté."
+              ],
+              "benefit": "L’équipe peut discuter de cette difficulté à partir de son objectif."
+            }
+          ]
         }
       ],
       "ending_title": "La croix au fond de la salle",
@@ -99,7 +212,8 @@
       "continuity": {
         "choice": "Sébastien reprend l’emplacement du volet avec Inès, choisit des images du décor seul pour ce midi et fixe un déjeuner avec elle.",
         "next": "Le rendez-vous autour du repas lui donne une occasion de parler des questions qu’il est tenté de reposer à propos de son apparence."
-      }
+      },
+      "conclusion": "Sébastien retrouve son avis sur le décor et décide séparément des images du jour. Le retard qu’a causé l’attente reste perceptible dans le plan. Avec Inès, il pourra aussi parler de ce qui l’arrête quand il cherche une certitude."
     },
     {
       "number": 3,
@@ -123,13 +237,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le sandwich coupé à moitié",
-          "text": "Au début du repas, Inès entend une demande à laquelle elle croit pouvoir répondre gentiment. Quand la question revient, elle a commencé à choisir ses mots de plus en plus soigneusement. Sébastien remarque qu’il l’écoute pour en tirer une certitude qui tienne. Il aimerait aussi parler des heures où ce souci le fatigue, et du déjeuner qu’il a pris l’habitude de décaler quand il pense qu’il doit d’abord obtenir un avis. Pour l’instant, Inès voit le repas qui s’arrête. Sébastien est le seul à pouvoir lui dire ce que ce silence contient pour lui."
+          "heading": "Comment une réponse rassurante devient-elle insuffisante ?",
+          "points": [
+            {
+              "heading": "Un répit après un premier avis",
+              "text": "Le soulagement peut être sensible et de courte durée.",
+              "examples": [
+                "Sébastien reprend son sandwich après la réponse d’Inès.",
+                "À la maison, un avis peut permettre de reprendre une conversation pendant quelques instants."
+              ]
+            },
+            {
+              "heading": "Un doute qui change de forme",
+              "text": "La personne peut ensuite s’interroger sur la sincérité ou la précision de la réponse.",
+              "examples": [
+                "Sébastien se demande si Inès voulait lui éviter de la peine.",
+                "Une réponse écrite peut sembler trop brève et laisser la même question ouverte."
+              ]
+            },
+            {
+              "heading": "Un échange qui perd son but",
+              "text": "Les nouvelles demandes peuvent prendre la place du moment partagé.",
+              "examples": [
+                "Le repas s’arrête alors qu’Inès tient encore le couteau.",
+                "Un appel entre proches peut se prolonger autour du même avis alors qu’ils voulaient parler du week-end."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Chercher une forme d’appui qui puisse durer",
-          "text": "Sébastien et Inès peuvent se dire ce qui leur permet de rester en relation sans reprendre un avis sur l’apparence. Ils peuvent garder un moment pour écouter la difficulté ou reprendre ensemble ce qu’ils avaient prévu de faire. Si les demandes reviennent et que leurs réponses les épuisent, Sébastien peut en parler avec les professionnels qui le suivent. Leur rôle comprend l’aide à trouver une manière sensible d’impliquer un proche, quand la personne le souhaite et que ce proche l’accepte. Inès peut rester collègue et ne prendre aucun engagement de soin."
+          "heading": "3 techniques pour accueillir le doute dans la relation",
+          "points": [
+            {
+              "heading": "Dire ce qu’on veut partager",
+              "objective": "Rendre la demande de présence compréhensible.",
+              "exercise": [
+                "Nommer que la question continue à revenir.",
+                "Dire si on veut être écouté un moment.",
+                "Revenir au repas quand chacun est prêt."
+              ],
+              "benefit": "Un proche peut soutenir la personne sans rendre un avis de plus."
+            },
+            {
+              "heading": "Distinguer information et évaluation",
+              "objective": "Répondre à une question qui porte sur l’usage d’une image.",
+              "exercise": [
+                "Préciser de quelle photo il s’agit.",
+                "Demander qui y a accès.",
+                "S’adresser à Nora pour cette information."
+              ],
+              "benefit": "L’échange peut rester centré sur un fait qu’on peut vérifier."
+            },
+            {
+              "heading": "Décrire l’échange à l’équipe",
+              "objective": "Chercher une réponse soutenable si le même doute revient.",
+              "exercise": [
+                "Choisir un moment où l’avis a apaisé Sébastien.",
+                "Dire quand la question a repris.",
+                "Discuter des formes d’appui que chacun accepterait."
+              ],
+              "benefit": "L’équipe peut aider à ajuster l’implication des proches avec leur accord."
+            }
+          ]
         }
       ],
       "ending_title": "De la place pour deux cafés",
@@ -144,7 +314,8 @@
       "continuity": {
         "choice": "Sébastien confie le diagnostic à Inès en privé. Ils conviennent d’une réponse possible à la détresse sans nouvel avis sur son apparence. Il confirme le repas chez Camille.",
         "next": "Camille a vu qu’il se faisait rare aux repas. Sébastien doit choisir ce qu’il souhaite lui dire et s’il veut lui demander un appui pour son rendez-vous."
-      }
+      },
+      "conclusion": "Le premier avis d’Inès a calmé le doute assez longtemps pour une bouchée. Sébastien retrouve un autre sujet de conversation lorsqu’il lui parle de ce que ces questions lui coûtent. Il choisira de nouveau ses mots chez Camille."
     },
     {
       "number": 4,
@@ -168,13 +339,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le retard que Camille avait mis sur le compte du théâtre",
-          "text": "Camille sait quels messages elle a reçus. Elle en avait déduit que l’atelier imposait souvent des heures supplémentaires. Elle se rappelle surtout le dimanche où il n’est pas venu. Elle a passé l’heure du déjeuner à regarder si son téléphone s’allumait. Sébastien ignorait qu’elle l’avait attendu si longtemps. Lui se rappelle avoir écrit trois versions du même message pour cacher sa gêne. Aucun des deux n’a le récit entier. Ils commencent par s’entendre sur les réponses qu’ils pourront donner à leur tante, même si Sébastien hésite encore sur le reste."
+          "heading": "Comment la honte rend-elle le retentissement difficile à voir ?",
+          "points": [
+            {
+              "heading": "Une explication plus facile à donner",
+              "text": "La honte peut conduire à raconter une cause de remplacement.",
+              "examples": [
+                "Sébastien invoque l’atelier un dimanche où il ne parvient pas à sortir.",
+                "Quelqu’un peut présenter une absence comme un oubli alors qu’il a longtemps hésité devant sa porte."
+              ]
+            },
+            {
+              "heading": "Un besoin visible sans sa cause",
+              "text": "Les proches constatent les changements avant de savoir ce qui les a provoqués.",
+              "examples": [
+                "Camille se souvient d’avoir guetté un message pendant le repas.",
+                "Une amie peut constater plusieurs reports et en conclure que les emplois du temps ne concordent plus."
+              ]
+            },
+            {
+              "heading": "Des mots qui tardent malgré la confiance",
+              "text": "Pouvoir parler d’une difficulté dépend aussi du contexte et de la relation.",
+              "examples": [
+                "Sébastien attend que sa sœur pose le plat avant d’évoquer son rendez-vous.",
+                "Une personne peut facilement expliquer un travail en retard et chercher longtemps comment dire ce qui l’a arrêtée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Partager assez pour une demande précise",
-          "text": "Dire qu’une difficulté de santé a joué un rôle peut suffire pour commencer une conversation. Sébastien peut demander que cette information reste entre eux et préciser ce qui l’aiderait mardi, sans raconter ce qui a été dit dans ses consultations. Camille a la possibilité de refuser un accompagnement ou de proposer une disponibilité différente. Si Sébastien peine à dire au centre l’étendue du retentissement, il peut commencer par décrire le repas manqué et ce qui l’a empêché de partir. Les professionnels peuvent explorer cette difficulté avec lui et lui demander quelle place, s’il en souhaite une, donner à sa sœur."
+          "heading": "3 techniques pour parler de ce qu’on souhaite partager",
+          "points": [
+            {
+              "heading": "Partir d’un événement commun",
+              "objective": "Donner un point d’appui à la conversation.",
+              "exercise": [
+                "Nommer le dimanche où il n’est pas venu.",
+                "Dire à Camille ce qu’elle n’avait pas vu.",
+                "Lui laisser le temps de raconter ce qu’elle a attendu."
+              ],
+              "benefit": "Les deux récits peuvent éclairer le malentendu."
+            },
+            {
+              "heading": "Préciser la demande pour mardi",
+              "objective": "Formuler un appui sans élargir la confidence.",
+              "exercise": [
+                "Demander de se retrouver au tram.",
+                "Indiquer où l’accompagnement s’arrête.",
+                "Décider qui répondra à la tante."
+              ],
+              "benefit": "Camille peut accepter une aide dont elle connaît la portée."
+            },
+            {
+              "heading": "Ouvrir un sujet difficile en consultation",
+              "objective": "Donner au suivi accès à une difficulté peu racontée.",
+              "exercise": [
+                "Retenir un exemple de repas manqué.",
+                "Dire ce qui a empêché le départ.",
+                "Signaler ce qu’il est encore difficile de raconter."
+              ],
+              "benefit": "Le professionnel peut reprendre la question avec tact."
+            }
+          ]
         }
       ],
       "ending_title": "Jusqu’à la porte du centre",
@@ -190,37 +417,94 @@
       "continuity": {
         "choice": "Sébastien nomme le trouble à Camille, lui demande un appui limité au trajet et prend en charge sa réponse à leur tante.",
         "next": "Camille l’accompagne depuis le tram mardi. Sébastien garde la consultation pour lui et apporte un exemple de retentissement au travail et dans sa vie sociale."
-      }
+      },
+      "conclusion": "Camille comprend enfin pourquoi l’un des déjeuners a été manqué. Sébastien garde la main sur ce qu’il raconte et demande une présence jusqu’au centre. La consultation lui donnera un autre endroit pour décrire ce qu’on ne voyait pas."
     },
     {
       "number": 5,
       "slug": "sebastien-choisir-un-soin-pour-une-preoccupation-envahissante",
-      "title": "Choisir un soin pour une préoccupation qui envahit le quotidien",
-      "description": "Sébastien veut comprendre ce que l’équipe lui propose. Il apporte des exemples de son quotidien et discute de ce qu’il aimerait pouvoir reprendre.",
+      "title": "L’effort caché derrière une tâche qu’on arrive à finir",
+      "description": "Au centre, Sébastien décrit les heures et les activités que sa préoccupation lui prend, y compris les jours où le travail avance.",
       "context": "Le mardi suivant, dans le bureau de la psychologue du centre",
       "topics": [
-        "Soin consenti",
-        "Thérapie adaptée à la dysmorphophobie",
-        "Objectifs du suivi"
+        "Effort supplémentaire",
+        "Retentissement sur plusieurs activités",
+        "Objectifs de soin partagés"
       ],
-      "clinical_focus": "Choix de soin et objectifs partagés",
-      "clinical_intro": "Lors d’un rendez-vous spécialisé, Sébastien raconte une remise de calque presque manquée et un déjeuner auquel il n’est pas arrivé. Ces situations aident à préciser ce qu’il attend du soin. Il peut poser des questions sur l’approche proposée et participer à la décision, tandis que les choix de l’atelier et des images restent les siens.",
+      "clinical_focus": "Effort caché dans les activités maintenues",
+      "clinical_intro": "Sébastien a réussi à remettre son calque à Inès, après un après-midi où sa préoccupation sur l’apparence l’a longtemps occupé. Pendant son rendez-vous, il décrit aussi un déjeuner auquel il n’est pas arrivé. Ces deux situations aident à préciser le retentissement de la dysmorphophobie et à discuter de ce qu’il aimerait retrouver grâce au soin.",
       "opening": "Au pied du centre, Camille sait quel côté de la porte pousser avant lui. Elle est déjà venue y déposer un dossier pour son travail, il y a longtemps. Il lui dit qu’il avait oublié qu’elle connaissait l’endroit. Puis il lui tend la moitié d’une mandarine qu’il a pelée dans le tram. Camille la prend dans un coin de mouchoir et lui souhaite un bon rendez-vous. Ils se séparent devant les horaires, comme convenu. Le bureau est à l’étage. Avant de monter, Sébastien jette l’écorce dans une corbeille dont le couvercle se referme très lentement.\n\nAnaïs Vidal, la psychologue de l’équipe qui le suit, lui demande ce qu’il a envie de reprendre depuis le dernier point. Sébastien a écrit « calque » et « repas » au verso d’un billet de tram en attendant dans le couloir. Il pose le billet entre eux. Il peut dire quand Inès est entrée, ce qu’elle attendait de lui et ce qu’il n’avait pas fait depuis le début de l’après-midi. Pour le repas, il dit d’abord « j’ai fait faux bond ». Anaïs lui demande ce qui s’est passé avant le message.\n\nPlus tard, elle revient sur la thérapie dont ils avaient parlé lors d’un précédent entretien. Elle lui explique qu’ils travailleraient sur ces difficultés précises. Sébastien hoche la tête et reste sur le bord de la chaise. Il s’est demandé depuis s’il allait devoir montrer ses photos et laisser quelqu’un décider ce qui devrait ou non le gêner. Le billet de tram a bougé sous sa main. Il le remet droit et pose la question.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Discuter le soin à partir du quotidien",
-          "text": "Une thérapie cognitivo-comportementale adaptée à la dysmorphophobie fait partie des possibilités de soin chez l’adulte. Le choix se discute avec des professionnels formés, en tenant compte du retentissement, des préférences et de la situation de la personne. L’équipe peut expliquer ce qu’elle propose, les autres options pertinentes et les conditions du suivi. Sébastien souhaite récupérer du temps et se sentir moins pris dans les vérifications. Savoir ce qu’il veut retrouver aide à parler d’un objectif qui a du sens pour lui. Aucune photo du collectif n’a à servir de verdict sur son état."
+          "heading": "Comprendre le coût d’une activité maintenue",
+          "text": "La dysmorphophobie peut demander un effort important même quand la personne termine une tâche ou respecte un rendez-vous. Le retentissement se voit aussi dans le temps, l’attention et les autres activités que la préoccupation écarte. Pour Sébastien, le calque remis raconte le résultat et le déjeuner manqué montre une autre issue du même envahissement. Une thérapie cognitivo-comportementale adaptée fait partie des soins possibles chez l’adulte. Il peut discuter des options avec son équipe à partir des difficultés qu’il souhaite aborder et des possibilités qu’il veut retrouver."
         },
         {
           "role": "manifestations",
-          "heading": "Ce que dit le billet et ce qu’il garde encore",
-          "text": "Anaïs voit deux mots sur un papier. Dans le récit qu’il en fait, elle entend un retard qui a gêné le travail d’Inès, puis une absence qui l’a séparé d’un repas familial. Il lui dit aussi qu’à certains moments la question semble si urgente qu’il est difficile d’entendre celle de quelqu’un d’autre. Il a pu choisir le calque à temps pour qu’Inès fasse le report. Le travail a avancé et le coût reste pertinent pour le suivi. Son hésitation à poser une question sur les photos fait partie de ce qu’il veut éclaircir avant de s’engager."
+          "heading": "Comment l’effort reste-t-il caché derrière le résultat ?",
+          "points": [
+            {
+              "heading": "Un résultat obtenu au prix du reste",
+              "text": "Une tâche peut être livrée alors que le temps disponible pour la journée s’est réduit.",
+              "examples": [
+                "Inès a son calque, mais Sébastien a passé une partie de l’après-midi à revenir à une photo.",
+                "Un rendez-vous honoré peut avoir demandé de laisser une course de côté."
+              ]
+            },
+            {
+              "heading": "Une attention moins disponible pour les autres",
+              "text": "Quand le souci paraît urgent, une demande ordinaire peut demander un effort supplémentaire.",
+              "examples": [
+                "Sébastien raconte qu’il entend parfois difficilement la question d’une autre personne.",
+                "Au travail, quelqu’un peut avoir besoin qu’on redise une consigne déjà entendue."
+              ]
+            },
+            {
+              "heading": "Des conséquences qui diffèrent selon le lieu",
+              "text": "La même préoccupation peut laisser un travail terminé et empêcher une sortie.",
+              "examples": [
+                "Le calque arrive chez Inès et le dimanche chez la tante se passe sans lui.",
+                "Une personne peut tenir une réunion familière puis renoncer à un moment de détente prévu après."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Demander comment une proposition se décide",
-          "text": "Un entretien peut servir à comprendre ce que l’équipe propose et comment ils en reparleront si une étape soulève une difficulté. Sébastien peut demander sur quoi ils travailleraient, quelles adaptations seraient possibles et à qui s’adresser s’il veut en reparler. Il peut décider de commencer, demander du temps ou revenir sur une question. Une aide de Camille pour se rendre au centre reste une chose distincte. Si Sébastien souhaite qu’elle participe un jour à un échange, il peut préciser pour quoi et quelles informations il accepte de partager."
+          "heading": "3 techniques pour rendre cet effort visible au rendez-vous",
+          "points": [
+            {
+              "heading": "Apporter deux faits de vie",
+              "objective": "Décrire des conséquences dans des contextes différents.",
+              "exercise": [
+                "Choisir une tâche qui a abouti.",
+                "Choisir une activité manquée.",
+                "Dire ce que chacune a demandé."
+              ],
+              "benefit": "La discussion peut porter sur le résultat et sur son coût."
+            },
+            {
+              "heading": "Poser la question qui retient",
+              "objective": "Clarifier une inquiétude avant d’accepter le soin.",
+              "exercise": [
+                "Dire ce qu’on imagine devoir faire.",
+                "Demander comment une étape serait discutée.",
+                "Prendre le temps de répondre à la proposition."
+              ],
+              "benefit": "Sébastien peut choisir en connaissant le cadre."
+            },
+            {
+              "heading": "Formuler une priorité de soin",
+              "objective": "Situer un changement utile dans le quotidien.",
+              "exercise": [
+                "Nommer ce qu’on aimerait retrouver.",
+                "Demander comment on en reparlera.",
+                "Fixer le prochain point avec l’équipe."
+              ],
+              "benefit": "Une priorité partagée peut orienter le suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Un rendez-vous qui lui appartient",
@@ -237,21 +521,22 @@
       "continuity": {
         "choice": "Sébastien accepte de commencer une TCC adaptée après discussion. Il garde un rendez-vous lundi et confirme celui avec Nora pour les épreuves.",
         "next": "Les décisions de soin et d’image restent distinctes. Au rendez-vous de mercredi, il faut arrêter ce qui partira à l’impression et préciser le futur album."
-      }
+      },
+      "conclusion": "En partant du calque et du repas, Sébastien explique ce que lui coûte une journée que les autres peuvent croire ordinaire. Il choisit d’essayer le soin en gardant ses questions. À l’imprimerie, l’accord à donner portera cette fois sur les images du collectif."
     },
     {
       "number": 6,
       "slug": "sebastien-peur-du-regard-et-photo-publique",
-      "title": "Distinguer la peur du regard et le choix d’une photo publique",
-      "description": "Une affiche doit partir à l’impression. Sébastien précise ce qu’il veut voir circuler et discute de la place de son travail sur le papier.",
+      "title": "Anticiper le jugement avant qu’une photo existe",
+      "description": "Avant l’impression, Sébastien imagine les regards sur une photo encore inexistante. Il précise aussi ce qu’il accepte de rendre public.",
       "context": "Le mercredi, au local d’impression du quartier",
       "topics": [
-        "Crainte du regard",
-        "Accord sur les images",
-        "Reconnaissance du travail"
+        "Jugement anticipé",
+        "Attention détournée",
+        "Accord de diffusion"
       ],
-      "clinical_focus": "Crainte du jugement et accord sur l’image",
-      "clinical_intro": "Sébastien éprouve de l’inquiétude en imaginant l’affiche aux vitrines du quartier. Il a aussi une préférence précise sur la diffusion de son image. La dysmorphophobie peut peser sur la façon dont il anticipe le regard des autres. Son accord sur l’usage d’une photographie reste une décision distincte, quelle que soit l’intensité de cette inquiétude.",
+      "clinical_focus": "Jugement anticipé et retentissement",
+      "clinical_intro": "À l’imprimerie, le rectangle destiné à une photo est encore vide. Sébastien imagine déjà des inconnus devant l’affiche et ce qu’ils pourraient remarquer de lui. Cette anticipation liée à la dysmorphophobie pèse sur son attention. Son choix sur la diffusion d’une image se discute séparément avec l’équipe du théâtre.",
       "opening": "L’imprimeuse a posé un galet sur l’épreuve pour que le papier reste à plat. Sous le galet, Sébastien retrouve La Poste de nuit, le nom de la pièce. Plus bas, à côté de la date, un rectangle porte la mention « photo du collectif, à fournir ». Il déplace la pierre et voit la ligne des crédits au bas de l’affiche. Les noms sont petits. Le sien figure à côté de celui d’Inès, après le mot décor. Il avait emporté l’épreuve de la veille pour s’assurer que cette ligne serait là. En venant, il a répondu à sa tante qu’il passerait pour le café le dimanche dont Camille lui a parlé. Elle pourra déjeuner à l’heure qu’elle veut.\n\nMalik cherche un visuel qu’on puisse reconnaître depuis la rue. Nora demande si l’idée du rectangle leur convient avant qu’elle prépare quoi que ce soit. Sébastien sait que l’affiche sera collée chez le libraire, à l’entrée du gymnase et sur le panneau près du tram. Il imagine des inconnus devant le panneau et pense aussitôt à ce qu’ils pourraient remarquer de lui. En même temps, il a envie qu’on sache ce qu’il a fait sur cette pièce. Il tient son pouce sur la ligne des crédits et écoute Nora énumérer les fichiers qui doivent partir avant dix-sept heures.\n\nIl lui demande qui verrait une image mise dans l’album dont ils parlaient la semaine dernière. Malik avait prévu que les membres du collectif pourraient le consulter après la représentation. Nora ajoute qu’un choix pour l’album ne vaut pas pour l’affiche. Elle montre le rectangle vide et demande ce qu’ils ont sous la main si la photographie d’équipe n’y entre pas. Sébastien ouvre le rouleau où il avait mis un essai de la fenêtre du rez-de-chaussée.",
       "sections": [
         {
@@ -261,13 +546,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce qu’il veut rendre visible",
-          "text": "Nora voit qu’il lui demande des précisions sur deux destinations de l’image. Malik voit aussi qu’il revient à la ligne des crédits. Sébastien a envie qu’une personne venue voir la pièce puisse reconnaître sa contribution. Il souhaite que ses voisins trouvent la date en passant. Il n’a pas envie de figurer sur leur panneau d’affichage, même s’il imagine qu’un souvenir d’équipe pourrait lui plaire. Dans sa tête, l’idée du panneau déclenche une peur qu’il connaît. Sur la table, ils ont un dessin qu’ils peuvent retenir pour l’affiche. Il pourra décider plus tard s’il veut figurer dans l’album."
+          "heading": "Comment le jugement anticipé prend-il de l’avance sur la situation ?",
+          "points": [
+            {
+              "heading": "Un public imaginé avant la prise de vue",
+              "text": "La crainte peut apparaître dès qu’un usage est évoqué.",
+              "examples": [
+                "Un rectangle vide suffit à faire imaginer à Sébastien les regards devant le panneau du tram.",
+                "L’annonce d’une photo pour un programme peut occuper quelqu’un alors que personne n’a sorti d’appareil."
+              ]
+            },
+            {
+              "heading": "Une décision de métier qui passe au second plan",
+              "text": "Une pensée sur l’apparence peut occuper l’attention au moment où une autre discussion compte.",
+              "examples": [
+                "Sébastien tient son pouce sur les crédits en écoutant Nora parler des fichiers.",
+                "Quelqu’un peut retenir surtout le mot photo dans une réunion qui fixe aussi des horaires."
+              ]
+            },
+            {
+              "heading": "Des contextes d’image qui n’ont pas le même sens",
+              "text": "La crainte et les préférences de diffusion peuvent varier selon le public envisagé.",
+              "examples": [
+                "Sébastien souhaite être crédité en public et hésite encore sur l’album interne.",
+                "Une personne peut choisir un souvenir entre collègues et décliner une annonce en vitrine."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Nommer la destination d’une image avant de la choisir",
-          "text": "Le groupe peut préciser qui verra l’affiche, qui aura accès à son album et quand chacun pourra répondre. Sébastien peut donner deux réponses différentes ou garder la seconde pour plus tard. Il peut aussi défendre une proposition artistique, comme ses collègues, et demander qu’on lise mieux les crédits. Si la crainte du regard se prolonge dans d’autres lieux ou l’empêche de faire des choses qui lui importent, elle a sa place dans les échanges avec l’équipe de soins. Le départ des fichiers à l’imprimerie peut suivre son propre calendrier."
+          "heading": "3 techniques pour décider quand des regards sont déjà imaginés",
+          "points": [
+            {
+              "heading": "Identifier l’usage proposé",
+              "objective": "Distinguer la destination réelle de la scène redoutée.",
+              "exercise": [
+                "Demander où l’affiche sera posée.",
+                "Préciser qui verra l’album.",
+                "Répondre séparément pour chaque usage."
+              ],
+              "benefit": "La décision de diffusion peut rester à la personne."
+            },
+            {
+              "heading": "Revenir à la contribution attendue",
+              "objective": "Garder une place dans la discussion artistique.",
+              "exercise": [
+                "Relire la ligne des crédits.",
+                "Poser le dessin sur l’épreuve.",
+                "Demander l’avis sur sa lisibilité à distance."
+              ],
+              "benefit": "Le projet peut profiter de son avis de décorateur."
+            },
+            {
+              "heading": "Apporter une anticipation au suivi",
+              "objective": "Raconter comment l’inquiétude arrive avant une image.",
+              "exercise": [
+                "Retenir le moment où le rectangle l’a arrêté.",
+                "Dire ce qu’il a imaginé et ce qu’il voulait faire.",
+                "Reprendre l’exemple avec l’équipe."
+              ],
+              "benefit": "La consultation peut explorer le retentissement sans juger son accord."
+            }
+          ]
         }
       ],
       "ending_title": "La fenêtre prend la place du rectangle",
@@ -283,7 +624,8 @@
       "continuity": {
         "choice": "Le groupe envoie à l’impression une affiche illustrée par le dessin, avec des crédits plus lisibles. Sébastien garde sa décision sur l’album pour après le montage.",
         "next": "Il confirme le filage du jeudi. Le décor s’éprouve devant les autres, même si les prises de vues ne sont pas prévues ce jour-là."
-      }
+      },
+      "conclusion": "L’affiche part avec une fenêtre dessinée et des noms lisibles. Le rectangle vide montre à quel point un public imaginé peut arriver tôt dans la pensée de Sébastien. Sa réponse concernant l’album reste ouverte."
     },
     {
       "number": 7,
@@ -307,13 +649,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le signal manqué au milieu du filage",
-          "text": "Depuis la salle, Malik a vu que le volet est resté fermé. Inès, qui attendait son ouverture, a constaté la même chose. Ils n’ont pas accès au sens que Sébastien a donné au rire. Lui se rappelle l’urgence de comprendre ce que les autres venaient de dire. Il ne sait pas si l’un d’eux parlait de lui. Il entend ensuite Inès proposer une reprise et ajoute qu’il veut regarder le volet depuis la salle au second passage. Là, il a un avis de décorateur à former sur la durée d’un silence."
+          "heading": "Comment des paroles ambiguës deviennent-elles une certitude ?",
+          "points": [
+            {
+              "heading": "Entendre des fragments",
+              "text": "Quelques mots ou un rire peuvent attirer toute l’attention.",
+              "examples": [
+                "Derrière le panneau, Sébastien entend « on a vu » sans le reste.",
+                "Dans un autre lieu, une conversation coupée par une porte peut sembler significative sans qu’on en connaisse le sujet."
+              ]
+            },
+            {
+              "heading": "Croire comprendre de qui on parle",
+              "text": "La conviction que les mots concernent l’apparence peut s’imposer très vite.",
+              "examples": [
+                "Sébastien pense qu’une remarque vient d’être faite sur lui.",
+                "Un échange entre inconnus peut prendre le même sens pour une personne qui attend son tour dans un lieu public."
+              ]
+            },
+            {
+              "heading": "Être moins sûr après coup",
+              "text": "La force de l’interprétation peut varier selon le moment.",
+              "examples": [
+                "En rangeant, Sébastien pense encore au rire et se sent moins certain de sa cause.",
+                "En racontant la scène plus tard, une personne peut retrouver les mots entendus et douter de leur sens."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre le travail et garder un exemple pour le suivi",
-          "text": "L’équipe peut remettre en route la transition à partir d’un signal connu et distribuer les places utiles à la répétition. Sébastien peut dire qu’il a perdu le fil sans raconter ce qu’il a cru entendre. Il peut aussi revenir sur cette expérience avec la psychologue lors du rendez-vous prévu. Les mots entendus, le temps qu’ils ont pris dans sa tête et ce que cela a interrompu suffisent pour ouvrir l’échange. Il n’a pas à demander à tout le groupe de confirmer une interprétation pour que l’effet sur son attention soit pris au sérieux."
+          "heading": "3 techniques pour reprendre le fil quand une interprétation s’impose",
+          "points": [
+            {
+              "heading": "Repartir du signal manqué",
+              "objective": "Retrouver une action de métier définie.",
+              "exercise": [
+                "Dire que le signal n’a pas été entendu.",
+                "Demander le début de la reprise.",
+                "Choisir avec Inès la place qui permet de regarder le volet."
+              ],
+              "benefit": "Le filage peut reprendre sans enquête sur les collègues."
+            },
+            {
+              "heading": "Donner deux versions du même moment",
+              "objective": "Aider le suivi à entendre les faits et l’impression.",
+              "exercise": [
+                "Dire quels mots ont été entendus.",
+                "Décrire ce qu’on en a compris.",
+                "Indiquer si la certitude a changé ensuite."
+              ],
+              "benefit": "La psychologue peut mieux situer la force de la conviction."
+            },
+            {
+              "heading": "Partager la décision technique",
+              "objective": "Rester engagé dans la répétition.",
+              "exercise": [
+                "Regarder le passage depuis la salle.",
+                "Proposer un délai à l’équipe.",
+                "Laisser Malik l’inscrire sur la feuille."
+              ],
+              "benefit": "Le signal devient utilisable par d’autres personnes."
+            }
+          ]
         }
       ],
       "ending_title": "Deux secondes après la lettre",
@@ -329,21 +727,22 @@
       "continuity": {
         "choice": "Sébastien dit qu’il a manqué le signal, reprend le filage depuis la salle et règle le délai du volet avec Inès. Il confirme sa présence au montage.",
         "next": "Le signal est prêt pour samedi. Au montage, le partage d’une image hors de l’accord demandera une réponse distincte de la recherche de certitude sur son apparence."
-      }
+      },
+      "conclusion": "Sébastien ne saura peut-être pas de quoi parlaient les deux personnes. Il repère ce que cette conviction a interrompu et retrouve un avis sur le passage. Au montage, une image effectivement partagée demandera une autre réponse."
     },
     {
       "number": 8,
       "slug": "sebastien-image-partagee-hors-accord",
-      "title": "Réagir à une image partagée hors de l’accord",
-      "description": "Une photo de montage montre aussi Sébastien. Il demande qu’elle soit retirée du groupe et garde le choix de ce qu’il veut reprendre au plateau.",
+      "title": "Quand l’envie de revoir une photo persiste après son retrait",
+      "description": "Nora retire une image du groupe. Sébastien a encore envie d’y revenir et distingue cette envie de sa demande sur le partage.",
       "context": "Le samedi du montage, devant le décor mis en place",
       "topics": [
-        "Accord sur les images",
-        "Vérification",
-        "Réparation concrète"
+        "Image déclenchante",
+        "Envie de vérifier",
+        "Réparation du partage"
       ],
-      "clinical_focus": "Limite d’image et vérification répétée",
-      "clinical_intro": "Une photo destinée à montrer le décor inclut Sébastien sans qu’il ait donné son accord. Il peut demander une action sur le partage. Après cette demande, l’envie de retourner voir l’image a encore un autre sens pour lui. L’atelier peut prendre en charge le problème concret et laisser à l’équipe de soins le travail sur la détresse persistante.",
+      "clinical_focus": "Déclencheur réel et envie de vérifier",
+      "clinical_intro": "Une image de montage montre Sébastien en dehors de l’accord prévu. Nora peut retirer son envoi et expliquer ce qu’elle a fait. Chez Sébastien, l’envie de réexaminer son apparence persiste après cette réponse. La dysmorphophobie peut occuper ainsi la suite d’un incident réel, dont la réparation reste à la charge du collectif.",
       "opening": "Le panneau du fond fait enfin un angle droit avec la porte peinte. En reculant, Sébastien découvre que les fenêtres du haut ont la même couleur que le mur de la salle. Il appelle Inès pour lui montrer le raccord. À deux, ils retrouvent le pot de bleu dans une caisse marquée « quincaillerie », ce qui les fait rire. Nora demande si elle peut prendre une image des fenêtres pour les membres qui ont prêté les panneaux. Elle le fera depuis le fond et, comme convenu pour le montage, sans les gens. Sébastien répond qu’il termine d’écrire le numéro du pot et qu’il quitte le champ.\n\nDans l’escalier qui mène au lavabo, son téléphone vibre. Nora a mis l’image dans le groupe du collectif. Il reconnaît le volet et constate qu’il apparaît aussi sur le côté. Il était revenu récupérer la caisse quand elle a déclenché. Il reste debout sur une marche sans savoir s’il préfère lui écrire ou faire demi-tour. Il aurait envie de revenir sur l’image pour regarder ce qu’on peut voir de lui. Il voit déjà un message de Malik qui dit que le décor commence à avoir l’air d’une rue.\n\nNora arrive avec son manteau roulé autour du bras. Sébastien lui montre le message qu’il vient d’écrire et qu’il n’a pas envoyé : « Tu peux retirer la photo ? On avait dit le décor seul. » Elle s’arrête sur la marche du dessous. Elle rouvre son envoi sur son propre téléphone et lui dit qu’elle s’en occupe. Sébastien se décale pour laisser passer quelqu’un qui descend avec deux tasses.",
       "sections": [
         {
@@ -353,13 +752,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce que chacun peut savoir sur la photo",
-          "text": "Nora peut constater que l’image inclut Sébastien et qu’elle l’a mise dans le groupe. L’image est encore visible dans la conversation. Elle ignore qui l’a ouverte. Sébastien sait ce qu’il voit dans la notification et ce qu’il avait accepté. Il raconte ensuite à Inès que même une fois la question du retrait réglée, il s’attend à penser encore à l’image au moment de rentrer. Inès n’était pas dans l’escalier et ne sait pas ce que la photo lui a fait. Elle voit qu’il garde la caisse vide près de lui alors qu’elle a prévu de la remonter."
+          "heading": "Comment une image continue-t-elle à occuper l’attention après un incident ?",
+          "points": [
+            {
+              "heading": "Une notification qui prend le pas sur la tâche",
+              "text": "Une image inattendue peut raviver une préoccupation déjà présente.",
+              "examples": [
+                "Sébastien s’arrête sur la marche en reconnaissant le décor et sa présence sur le côté.",
+                "Dans une autre situation, le titre d’un message de groupe peut détourner l’attention d’une discussion en cours."
+              ]
+            },
+            {
+              "heading": "Deux questions en même temps",
+              "text": "Une demande de retrait et une envie d’examiner l’apparence peuvent coexister.",
+              "examples": [
+                "Sébastien écrit à Nora pour demander une action précise.",
+                "Sur la même marche, il songe aussi à regarder de nouveau ce que l’image montre de lui."
+              ]
+            },
+            {
+              "heading": "Une gêne qui dépasse la résolution pratique",
+              "text": "Après la réponse sur le partage, l’inquiétude peut revenir plus tard.",
+              "examples": [
+                "Sébastien pense encore à la photo sur le trajet du retour.",
+                "Quelqu’un peut repenser à une image le soir alors que la personne qui l’a envoyée a répondu depuis plusieurs heures."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Réparer le partage sans demander un verdict",
-          "text": "Nora peut dire exactement ce qu’elle fait, puis demander au groupe de ne pas conserver ou transmettre l’image envoyée par erreur. Elle peut proposer une autre photo du décor après avoir éclairci qui se trouve dans la salle. Sébastien peut décider de la tâche qu’il souhaite poursuivre et rapporter l’effet de la situation au centre. Si l’envie de vérifier revient, ses collègues peuvent entendre cette détresse. Ils n’ont pas besoin de revoir la photo avec lui ou de décrire son apparence pour que l’accord soit respecté."
+          "heading": "3 techniques pour traiter le partage et situer la gêne qui reste",
+          "points": [
+            {
+              "heading": "Demander une réparation précise",
+              "objective": "Agir sur ce que la personne responsable peut modifier.",
+              "exercise": [
+                "Rappeler l’accord de départ.",
+                "Demander à Nora de retirer l’envoi.",
+                "Lui demander ce qu’elle a pu faire."
+              ],
+              "benefit": "L’équipe peut donner une réponse sans commenter l’apparence."
+            },
+            {
+              "heading": "Retrouver une tâche choisie",
+              "objective": "Redonner une place à la suite du montage.",
+              "exercise": [
+                "Dire si on souhaite qu’Inès remonte la caisse.",
+                "Demander où se trouve le plan.",
+                "Reprendre la tâche qui compte encore."
+              ],
+              "benefit": "Sébastien peut décider de la suite même si la gêne reste présente."
+            },
+            {
+              "heading": "Décrire la suite au centre",
+              "objective": "Faire entendre ce qui a persisté après le retrait.",
+              "exercise": [
+                "Raconter le partage et sa réparation.",
+                "Dire ce qui revient sur le trajet ou chez soi.",
+                "Apporter la question à la séance prévue."
+              ],
+              "benefit": "Le suivi peut distinguer les effets de l’incident et la préoccupation qui dure."
+            }
+          ]
         }
       ],
       "ending_title": "La caisse revient au plateau",
@@ -375,7 +830,8 @@
       "continuity": {
         "choice": "Nora reconnaît et traite le partage hors accord. Sébastien revient pour terminer le montage et décide de parler au centre de l’effet qui persiste.",
         "next": "Au rendez-vous de lundi, il distingue l’incident réglé de la gêne qui s’étend de nouveau à des situations sans rapport avec le décor."
-      }
+      },
+      "conclusion": "Nora répond à l’écart sur le partage. L’inquiétude garde pourtant une place dans le retour de Sébastien. Lundi, il pourra dire au centre ce qui a changé avec le retrait et ce qui demande encore un appui."
     },
     {
       "number": 9,
@@ -399,13 +855,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Un montage réussi et une course abandonnée",
-          "text": "En voyant les panneaux assemblés, Malik peut savoir que Sébastien a fait une partie du travail prévu. Camille, au téléphone le dimanche soir, a entendu que son frère avait déjà mangé. Ni l’un ni l’autre ne sait ce qui s’est passé devant la boulangerie. Sébastien se souvient du bruit de la porte à chaque arrivée et du soulagement de s’en être éloigné. Il remarque aussi que ce soulagement n’a pas duré jusqu’au dîner. Ce contraste l’aide à parler de ce qu’il souhaite retrouver en dehors du théâtre."
+          "heading": "Comment la gêne peut-elle revenir dans un autre lieu ?",
+          "points": [
+            {
+              "heading": "Une journée de travail qui se termine",
+              "text": "Une activité accomplie peut coexister avec un trouble encore présent.",
+              "examples": [
+                "Les panneaux sont montés à la fin du samedi.",
+                "Une réunion peut se terminer comme prévu sans que le reste de la journée soit aussi accessible."
+              ]
+            },
+            {
+              "heading": "Une difficulté hors du contexte attendu",
+              "text": "La crainte du regard peut s’imposer dans un lieu sans lien avec l’événement précédent.",
+              "examples": [
+                "Le lendemain, Sébastien passe devant la boulangerie sans entrer.",
+                "Quelqu’un peut redouter l’attente dans un commerce alors qu’aucune image n’y est prévue."
+              ]
+            },
+            {
+              "heading": "Une trace différente selon l’interlocuteur",
+              "text": "Les personnes présentes voient chacune une partie du quotidien.",
+              "examples": [
+                "Malik a vu le travail fini et Camille entend seulement que son frère a déjà mangé.",
+                "Un professionnel peut découvrir au rendez-vous que les sorties se sont réduites en dehors du travail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Donner une suite au rendez-vous",
-          "text": "L’équipe peut reprendre avec Sébastien les situations où l’inquiétude a augmenté et discuter avec lui du suivi qui convient. Il peut demander ce qu’il fera s’il a besoin d’en parler avant la prochaine séance et retenir un objectif de quotidien qui compte pour lui. Au collectif, il lui reste à choisir s’il prend une tâche supplémentaire ou s’il garde la retouche déjà prévue. Il peut choisir en fonction du temps dont il dispose et de sa disponibilité, sans promettre qu’il se sentira mieux d’ici mercredi. Le choix de l’album peut encore attendre."
+          "heading": "3 techniques pour parler d’un retour de la gêne",
+          "points": [
+            {
+              "heading": "Mettre côte à côte deux moments",
+              "objective": "Décrire une fluctuation que le seul résultat ne montre pas.",
+              "exercise": [
+                "Retenir une activité accomplie.",
+                "Nommer la course à laquelle on a renoncé.",
+                "Raconter ce qui a pesé dans chaque lieu."
+              ],
+              "benefit": "L’équipe peut apprécier le changement dans plusieurs domaines."
+            },
+            {
+              "heading": "Préciser la suite avec l’équipe",
+              "objective": "Convenir d’un moyen de revenir sur une aggravation.",
+              "exercise": [
+                "Demander quand aura lieu le prochain point.",
+                "Vérifier comment joindre le centre si la gêne augmente.",
+                "Garder l’information accessible."
+              ],
+              "benefit": "Le relais peut être plus simple à demander si le quotidien se réduit."
+            },
+            {
+              "heading": "Répondre à l’engagement en cours",
+              "objective": "Choisir une charge de travail réaliste pour mercredi.",
+              "exercise": [
+                "Repérer la tâche déjà prévue.",
+                "Dire si l’accueil peut être pris en plus.",
+                "Confirmer à Malik ce qu’on assurera."
+              ],
+              "benefit": "Le collectif peut répartir la répétition avec une réponse claire."
+            }
+          ]
         }
       ],
       "ending_title": "Garder la retouche du mercredi",
@@ -421,37 +933,94 @@
       "continuity": {
         "choice": "Sébastien rapporte la nouvelle gêne à l’équipe, garde un suivi et confirme seulement la retouche mercredi.",
         "next": "Le collectif répartit l’accueil autrement. Mercredi, un problème de montage demande une répartition plus précise avant la première."
-      }
+      },
+      "conclusion": "Le montage réussi et la course abandonnée apportent deux informations différentes au suivi. Sébastien garde sa place sur la retouche de mercredi et laisse l’accueil à quelqu’un d’autre. Inès a, elle aussi, des limites de disponibilité."
     },
     {
       "number": 10,
       "slug": "sebastien-demander-un-appui-que-chacun-peut-tenir",
-      "title": "Demander un appui que chacun peut tenir",
-      "description": "Inès doit partir alors que le volet demande un dernier essai. Sébastien hésite à lui dire qu’il compte aussi sur sa présence pour vendredi.",
+      "title": "Quand une présence familière conditionne le choix de participer",
+      "description": "Sébastien croit d’abord qu’il ne pourra pas décider sans Inès. Il précise ce qu’il attend d’elle et reprend la question avec Nora.",
       "context": "Le mercredi de la retouche, en fin de journée",
       "topics": [
-        "Appui concret",
-        "Limites des proches",
-        "Partage des tâches"
+        "Appui familier",
+        "Crainte anticipée",
+        "Limites des proches"
       ],
-      "clinical_focus": "Appui concret et limites des proches",
-      "clinical_intro": "Sébastien confie à Inès qu’il préférerait l’avoir près de lui au moment de la photo. Il souhaite une présence et garde la décision de participer. Dire ce qu’il attend et entendre les limites d’Inès leur permet de finir leur travail sur le volet avant son départ. Sébastien pourra ensuite reprendre la question de l’album avec Nora.",
-      "opening": "En séchant, la peinture a fait une petite surépaisseur sur le bord du volet. Sébastien l’a reprise et attend qu’Inès vienne essayer la poignée. À cinq heures et quart, quelqu’un d’autre accueille les comédiens, comme convenu avec Malik. Des voix dans le couloir réclament une rallonge, un tabouret, deux exemplaires du texte. Sur l’escabeau replié, Sébastien a posé sa craie. Il veut reporter la croix tracée au sol sur le plan que Malik gardera dans la salle.\n\nInès essaie le volet, dit qu’il joue bien, puis cherche son écharpe. Elle doit partir plus tôt qu’il ne l’avait compris. Vendredi aussi, elle devra partir dès la fin de la représentation pour aller chercher quelqu’un à la gare. Sébastien croyait qu’elle serait là quand Nora demanderait qui veut faire la photo de l’album. Depuis leur déjeuner, il lui était devenu plus facile de dire à Inès que la question de son apparence l’occupait. L’idée de retrouver quelqu’un de familier dans le groupe lui avait donné envie de laisser sa réponse ouverte.\n\nIl tient la craie du bout des doigts et lui demande si elle peut rester un peu après la représentation. Inès réfléchit à son trajet, puis répond qu’elle ne peut pas. Pendant un instant, il voudrait qu’elle lui dise à l’avance que tout se passera bien. Puis il lui dit qu’il avait surtout imaginé leur conversation juste avant de répondre à Nora. Elle regarde la croix tracée au sol et dit qu’elle a cinq minutes maintenant, s’il veut lui expliquer ce qu’il avait en tête.",
+      "clinical_focus": "Crainte anticipée et appui familier",
+      "clinical_intro": "Sébastien espérait retrouver Inès avant de répondre à la proposition de photo. En apprenant son départ, il a envie qu’elle lui garantisse que tout se passera bien. La dysmorphophobie peut donner beaucoup de poids à un repère rassurant. Dans la scène, il distingue le besoin de présence de la décision qu’il souhaite prendre lui-même.",
+      "opening": "En séchant, la peinture a fait une petite surépaisseur sur le bord du volet. Sébastien l’a reprise et attend qu’Inès vienne essayer la poignée. À cinq heures et quart, quelqu’un d’autre accueille les comédiens, comme convenu avec Malik. Des voix dans le couloir réclament une rallonge, un tabouret, deux exemplaires du texte. Sur l’escabeau replié, Sébastien a posé sa craie. Il veut reporter la croix tracée au sol sur le plan que Malik gardera dans la salle.\n\nInès essaie le volet, dit qu’il joue bien, puis cherche son écharpe. Elle doit partir plus tôt qu’il ne l’avait compris. Vendredi aussi, elle devra partir dès la fin de la représentation pour aller chercher quelqu’un à la gare. Sébastien croyait qu’elle serait là quand Nora demanderait qui veut faire la photo de l’album. Depuis leur déjeuner, il lui était devenu plus facile de dire à Inès que la question de son apparence l’occupait. L’idée de retrouver quelqu’un de familier lui avait donné envie de laisser sa réponse ouverte. En apprenant le départ d’Inès, il pense aussitôt qu’il ne pourra pas décider sans elle.\n\nIl tient la craie du bout des doigts et lui demande si elle peut rester un peu après la représentation. Inès réfléchit à son trajet, puis répond qu’elle ne peut pas. Pendant un instant, il voudrait qu’elle lui dise à l’avance que tout se passera bien. Puis il lui dit qu’il avait surtout imaginé leur conversation juste avant de répondre à Nora. Elle regarde la croix tracée au sol et dit qu’elle a cinq minutes maintenant, s’il veut lui expliquer ce qu’il avait en tête.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Définir ce qu’on attend d’une présence",
-          "text": "Un proche peut apporter un appui à une personne qui vit avec une dysmorphophobie, dans la mesure de ses possibilités et selon ce qu’elle lui demande. Sébastien pensait qu’il lui serait plus facile de répondre à Nora si Inès était là. Il ne lui demande pas de décider qui figure sur l’image ou de l’aider à juger son apparence. Une présence choisie, un renseignement sur la photo et un rendez-vous de soins sont des formes d’appui différentes. Inès peut comprendre l’importance du premier appui et être indisponible ce soir-là."
+          "heading": "Ce qu’une présence familière peut représenter",
+          "text": "Une crainte liée à l’apparence peut prendre assez de place pour que la présence d’une personne familière semble indispensable avant même une décision. Un appui peut avoir du sens et être choisi. Quand l’inquiétude rend une seule réponse acceptable, le suivi peut aider à comprendre ce qui se joue autour de cet appui. Sébastien remarque qu’il voudrait d’abord une garantie sur vendredi. En parlant à Inès, il découvre une demande plus précise. Il aimerait pouvoir lui dire ce qui l’inquiète avant de répondre à Nora."
         },
         {
           "role": "manifestations",
-          "heading": "Le départ qu’il n’avait pas prévu",
-          "text": "Inès était venue essayer le volet. Elle découvre au moment de partir que Sébastien comptait sur elle vendredi. Lui se sent déçu alors même qu’elle ne s’était engagée à rien. Il éprouve aussi une vieille envie de lui demander si la photo peut bien se passer. Il peut nommer plus facilement la présence qu’il voulait. Il aurait aimé parler à quelqu’un qu’il connaît au moment de la proposition. Pour le décor, le dernier essai a déjà eu lieu. Il reste à transmettre à Malik où placer la croix et ce qu’il faut garder dans la conduite."
+          "heading": "Comment un appui familier peut-il sembler indispensable ?",
+          "points": [
+            {
+              "heading": "Compter sur une présence non convenue",
+              "text": "Quand le regard des autres inquiète, la présence imaginée peut prendre beaucoup d’importance.",
+              "examples": [
+                "Sébastien croit qu’Inès restera jusqu’à la photo.",
+                "Une personne peut prévoir une sortie en supposant qu’un proche connaîtra déjà le moment difficile."
+              ]
+            },
+            {
+              "heading": "Chercher une garantie quand le repère change",
+              "text": "L’absence annoncée peut faire ressurgir la recherche d’une réponse certaine.",
+              "examples": [
+                "Sébastien voudrait qu’Inès lui promette que tout se passera bien.",
+                "Dans un autre groupe, une personne peut vouloir demander plusieurs avis avant de savoir si elle ira."
+              ]
+            },
+            {
+              "heading": "Identifier un besoin plus précis",
+              "text": "Parler de l’appui souhaité peut distinguer la présence et la décision.",
+              "examples": [
+                "Sébastien dit qu’il aurait aimé parler avec Inès juste avant de répondre.",
+                "Une personne peut avoir surtout besoin de connaître le moment où une proposition sera faite."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répartir le travail et laisser le choix ouvert",
-          "text": "Sébastien peut demander à Nora de préciser comment elle proposera la photo, et jusqu’à quand une personne pourra donner sa réponse. Cela peut suffire pour préparer le moment sans solliciter un autre avis sur son apparence. Inès et lui peuvent finir la transmission du volet dans le temps dont elle dispose. Si Sébastien souhaite travailler en soin les demandes d’appui qui se répètent ou deviennent coûteuses, son équipe pourra réfléchir avec lui à la place qu’il veut donner à d’autres personnes. Une absence le vendredi peut rester une limite ordinaire à respecter."
+          "heading": "3 techniques pour demander un appui que chacun peut tenir",
+          "points": [
+            {
+              "heading": "Décrire la présence qu’on imaginait",
+              "objective": "Donner à Inès une demande à laquelle répondre.",
+              "exercise": [
+                "Dire à quel moment on espérait lui parler.",
+                "Écouter quand elle doit partir.",
+                "Décider ensemble de ce qu’ils peuvent faire maintenant."
+              ],
+              "benefit": "L’appui peut prendre une forme compatible avec leurs disponibilités."
+            },
+            {
+              "heading": "S’adresser à la personne qui organise",
+              "objective": "Garder une décision ouverte malgré l’absence d’Inès.",
+              "exercise": [
+                "Demander à Nora l’heure prévue.",
+                "Vérifier quand la réponse sera demandée.",
+                "Garder le choix pour ce moment."
+              ],
+              "benefit": "Une information pratique peut suffire à préparer le rendez-vous."
+            },
+            {
+              "heading": "Apporter une attente au suivi",
+              "objective": "Réfléchir à ce qui fait d’une présence une condition.",
+              "exercise": [
+                "Raconter comment on a appris le départ.",
+                "Dire quelle garantie on aurait voulu entendre.",
+                "Discuter d’autres formes d’appui acceptables."
+              ],
+              "benefit": "L’équipe peut aider à situer le besoin dans la relation et le soin."
+            }
+          ]
         }
       ],
       "ending_title": "La croix sur le plan de conduite",
@@ -467,7 +1036,8 @@
       "continuity": {
         "choice": "Inès indique quand elle peut aider. Sébastien termine la retouche avec elle et demande lui-même à Nora de préciser la proposition.",
         "next": "Le décor est prêt, le plan est transmis et les modalités de la photo sont claires. Sébastien décidera après la première."
-      }
+      },
+      "conclusion": "Inès part à l’heure qu’elle a annoncée et Sébastien garde sa place au collectif. En écrivant à Nora, il récupère une information qui lui manquait. Vendredi, il pourra encore choisir une fois la représentation terminée."
     },
     {
       "number": 11,
@@ -491,13 +1061,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "L’hésitation et le souvenir qu’il voudrait garder",
-          "text": "Nora voit que Sébastien n’a pas répondu tout de suite et qu’il lui pose une question sur la place de la fenêtre. Elle peut lui répondre à propos du cadre. Elle ignore le temps qu’il a passé à imaginer le moment et les jours où il ne serait pas resté. Lui reconnaît l’envie de quitter la salle qu’il connaît déjà. Il se rappelle aussi le rire au passage de la lettre et les morceaux de carton qu’Inès ramenait pour protéger le sol. Ce qu’il voudrait retrouver de la soirée est lié au travail fait avec ces gens."
+          "heading": "Comment l’inquiétude coexiste-t-elle avec l’envie de participer ?",
+          "points": [
+            {
+              "heading": "Une envie qui reste malgré la crainte",
+              "text": "L’importance d’un souvenir peut subsister pendant que revient la préoccupation.",
+              "examples": [
+                "Sébastien veut une trace du travail et s’inquiète de ce qu’on remarquera de lui.",
+                "Quelqu’un peut avoir envie d’un moment d’équipe tout en hésitant à en être photographié."
+              ]
+            },
+            {
+              "heading": "Des raisons de rester et de partir",
+              "text": "L’hésitation peut mêler ce qui compte pour la personne et l’envie de s’éloigner.",
+              "examples": [
+                "Sébastien envisage de rentrer à l’atelier et demande si la fenêtre entrera dans le cadre.",
+                "Une personne peut tenir à dire au revoir et vouloir quitter une salle devenue pénible."
+              ]
+            },
+            {
+              "heading": "Une participation qui garde ses limites",
+              "text": "Choisir une image peut dépendre de l’usage auquel on consent.",
+              "examples": [
+                "Sébastien accepte pour l’album du collectif.",
+                "Une personne peut participer à un souvenir privé et laisser l’usage public pour une autre discussion."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préparer la réponse et pouvoir changer d’avis",
-          "text": "Nora peut préciser l’usage convenu et attendre les réponses avant de faire la photo. Sébastien peut demander un temps, accepter pour l’album ou décliner. Les personnes qui partent continuent à figurer dans les crédits du spectacle et peuvent souhaiter d’autres souvenirs. Si l’expérience soulève une difficulté, il peut en reparler dans le cadre du suivi, en décrivant autant ce qu’il voulait que ce qui l’a préoccupé. L’accord trouvé à l’atelier règle la question de l’image. La thérapie se poursuit avec l’équipe spécialisée."
+          "heading": "3 techniques pour choisir dans un moment qui compte",
+          "points": [
+            {
+              "heading": "Dire ce qu’on veut garder",
+              "objective": "Identifier l’intérêt personnel du moment.",
+              "exercise": [
+                "Nommer le souvenir qu’on aimerait retrouver.",
+                "Demander si le décor fera partie du cadre.",
+                "Garder du temps pour écouter sa préférence."
+              ],
+              "benefit": "La réponse peut tenir compte de ce qui compte au-delà de l’inquiétude."
+            },
+            {
+              "heading": "Donner un accord précis",
+              "objective": "Rendre la décision compréhensible à la personne qui photographie.",
+              "exercise": [
+                "Écouter l’usage proposé.",
+                "Dire oui, non ou demander un instant.",
+                "Préciser à quel usage vaut la réponse."
+              ],
+              "benefit": "Nora peut respecter les accords de chacun."
+            },
+            {
+              "heading": "Reprendre l’expérience avec le suivi",
+              "objective": "Décrire une participation qui a encore demandé un effort.",
+              "exercise": [
+                "Dire ce qui a donné envie de rester.",
+                "Indiquer la gêne encore présente.",
+                "Raconter comment le choix a été fait."
+              ],
+              "benefit": "L’équipe peut situer ce moment dans un ensemble plus large."
+            }
+          ]
         }
       ],
       "ending_title": "Un groupe devant les volets ouverts",
@@ -513,7 +1139,8 @@
       "continuity": {
         "choice": "La première utilise le décor achevé. Sébastien décide d’être dans la photo de groupe pour le seul album interne.",
         "next": "Il garde son programme et retrouve Malik mardi pour reprendre le panneau. Les choix d’image et les soins peuvent être repris dans d’autres conditions."
-      }
+      },
+      "conclusion": "Le décor a joué et Sébastien participe à l’image qu’il a choisie. La crainte est encore là lorsque Nora déclenche. La suite du suivi regardera aussi les moments qui ne figurent dans aucun album."
     },
     {
       "number": 12,
@@ -537,13 +1164,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Une enveloppe, un café et du temps qui manque encore",
-          "text": "Malik a vu le décor jouer et constate que le panneau revient en bon état. Camille sait que son frère a vu leur tante. Sébastien est celui qui peut décrire ce que ces journées lui ont demandé. Il a trouvé de l’intérêt à la conversation sur le quartier. Le matin même, une préoccupation sur son apparence l’avait retenu longtemps avant qu’il prenne son manteau. L’album de Nora réunit des traces du travail. Il ne contient pas ces heures-là, et Sébastien veut en parler quand il verra Anaïs jeudi."
+          "heading": "Comment le retentissement se lit-il au-delà d’un événement réussi ?",
+          "points": [
+            {
+              "heading": "Des activités retrouvées en partie",
+              "text": "Une reprise peut rendre à la personne une place dans un lien ou un projet.",
+              "examples": [
+                "Sébastien partage un café avec sa tante et s’intéresse à l’histoire de l’arrêt de bus.",
+                "Quelqu’un peut reprendre un rendez-vous de quartier et y retrouver un intérêt précis."
+              ]
+            },
+            {
+              "heading": "Un effort qui reste dans la même journée",
+              "text": "Le plaisir d’un moment et un départ difficile peuvent coexister.",
+              "examples": [
+                "Sébastien a mis du temps à prendre son manteau avant le café.",
+                "Une personne peut participer à une réunion familière après une matinée occupée par les préoccupations."
+              ]
+            },
+            {
+              "heading": "Des envies qui donnent d’autres repères",
+              "text": "Les projets ordinaires renseignent sur ce qui compte pour la suite.",
+              "examples": [
+                "Sébastien pense à dessiner la rue pour lui et lit la proposition de Malik à son rythme.",
+                "Un rendez-vous de soin peut aussi partir d’une envie de retrouver un loisir que le trouble occupait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Reprendre les objectifs et laisser le prochain projet ouvert",
-          "text": "Le rendez-vous déjà prévu lui donne un endroit pour parler du café, de l’album et du temps qui lui a encore manqué. Il peut dire à l’équipe ce qu’il voudrait approfondir, ce qu’il pense du soin commencé et quelles difficultés restent les plus gênantes. Avec Malik, la lecture du mois suivant demande une autre réponse, qu’il peut donner sans attendre que toutes les journées deviennent faciles. Il peut demander le délai pour décider et choisir une activité pour le plaisir. Les futurs usages d’images pourront être discutés chaque fois qu’une proposition lui sera faite."
+          "heading": "3 techniques pour faire le point après une reprise",
+          "points": [
+            {
+              "heading": "Raconter une réussite entière",
+              "objective": "Inclure le résultat et le coût qui l’a précédé.",
+              "exercise": [
+                "Choisir un moment qui a compté.",
+                "Décrire ce qui a été difficile avant.",
+                "Dire ce qu’on a apprécié ensuite."
+              ],
+              "benefit": "L’équipe peut suivre les possibilités retrouvées et l’effort restant."
+            },
+            {
+              "heading": "Choisir un objectif de la suite",
+              "objective": "Garder une place à une activité voulue.",
+              "exercise": [
+                "Repérer une envie encore accessible.",
+                "Demander à Camille le temps qu’elle a.",
+                "Garder la marche et le dessin dans une durée choisie."
+              ],
+              "benefit": "Un projet personnel peut compter même sans engagement public."
+            },
+            {
+              "heading": "Réexaminer le soin au rendez-vous",
+              "objective": "Partager ce qui mérite d’être repris jeudi.",
+              "exercise": [
+                "Apporter un exemple hors du théâtre.",
+                "Nommer une difficulté qui gêne encore.",
+                "Demander comment poursuivre le travail commencé."
+              ],
+              "benefit": "Le suivi peut évoluer en fonction du quotidien de Sébastien."
+            }
+          ]
         }
       ],
       "ending_title": "Une rue à dessiner sans échéance",
@@ -559,7 +1242,8 @@
       "continuity": {
         "choice": "Sébastien reprend le décor, garde ouverte la proposition de Malik, organise un café avec Camille et maintient son suivi.",
         "next": "La commande de La Poste de nuit est close et l’album reste interne. La marche dans le quartier, le dessin et la suite du soin ont leurs propres échéances."
-      }
+      },
+      "conclusion": "Le décor est revenu à l’atelier et l’album conserve le souvenir choisi. Le café chez sa tante apporte une autre mesure de ce que Sébastien retrouve et de l’effort qui demeure. La prochaine page du carnet et le rendez-vous de jeudi ont chacun leur place."
     }
   ]
 }

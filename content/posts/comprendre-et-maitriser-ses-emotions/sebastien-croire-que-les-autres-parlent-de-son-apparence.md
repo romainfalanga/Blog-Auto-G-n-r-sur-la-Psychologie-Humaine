@@ -34,14 +34,79 @@ Malik remonte depuis la salle. Il demande si le signal était assez fort. Sébas
 
 Dans la dysmorphophobie, la personne peut être très convaincue que des regards ou des conversations portent sur son apparence. La force de cette impression peut varier avec les situations et la détresse. Ce que Sébastien a entendu tient en quelques mots et un rire. Ce qu’il en a compris a pris assez de place pour interrompre une tâche dont il connaissait le déroulement. Plus tard, il pourra décrire à son équipe le moment où il a perdu le fil et dire à quel point son interprétation lui paraissait certaine. Le rôle de ses collègues reste la répétition.
 
-## Le signal manqué au milieu du filage
+## Comment des paroles ambiguës deviennent-elles une certitude ?
 
-Depuis la salle, Malik a vu que le volet est resté fermé. Inès, qui attendait son ouverture, a constaté la même chose. Ils n’ont pas accès au sens que Sébastien a donné au rire. Lui se rappelle l’urgence de comprendre ce que les autres venaient de dire. Il ne sait pas si l’un d’eux parlait de lui. Il entend ensuite Inès proposer une reprise et ajoute qu’il veut regarder le volet depuis la salle au second passage. Là, il a un avis de décorateur à former sur la durée d’un silence.
+### Entendre des fragments
 
-## Reprendre le travail et garder un exemple pour le suivi
+Quelques mots ou un rire peuvent attirer toute l’attention.
 
-L’équipe peut remettre en route la transition à partir d’un signal connu et distribuer les places utiles à la répétition. Sébastien peut dire qu’il a perdu le fil sans raconter ce qu’il a cru entendre. Il peut aussi revenir sur cette expérience avec la psychologue lors du rendez-vous prévu. Les mots entendus, le temps qu’ils ont pris dans sa tête et ce que cela a interrompu suffisent pour ouvrir l’échange. Il n’a pas à demander à tout le groupe de confirmer une interprétation pour que l’effet sur son attention soit pris au sérieux.
+**Exemples concrets**
+
+- Derrière le panneau, Sébastien entend « on a vu » sans le reste.
+- Dans un autre lieu, une conversation coupée par une porte peut sembler significative sans qu’on en connaisse le sujet.
+
+### Croire comprendre de qui on parle
+
+La conviction que les mots concernent l’apparence peut s’imposer très vite.
+
+**Exemples concrets**
+
+- Sébastien pense qu’une remarque vient d’être faite sur lui.
+- Un échange entre inconnus peut prendre le même sens pour une personne qui attend son tour dans un lieu public.
+
+### Être moins sûr après coup
+
+La force de l’interprétation peut varier selon le moment.
+
+**Exemples concrets**
+
+- En rangeant, Sébastien pense encore au rire et se sent moins certain de sa cause.
+- En racontant la scène plus tard, une personne peut retrouver les mots entendus et douter de leur sens.
+
+## 3 techniques pour reprendre le fil quand une interprétation s’impose
+
+### 1. Repartir du signal manqué
+
+Retrouver une action de métier définie.
+
+**Exercice pratique**
+
+- Dire que le signal n’a pas été entendu.
+- Demander le début de la reprise.
+- Choisir avec Inès la place qui permet de regarder le volet.
+
+Le filage peut reprendre sans enquête sur les collègues.
+
+### 2. Donner deux versions du même moment
+
+Aider le suivi à entendre les faits et l’impression.
+
+**Exercice pratique**
+
+- Dire quels mots ont été entendus.
+- Décrire ce qu’on en a compris.
+- Indiquer si la certitude a changé ensuite.
+
+La psychologue peut mieux situer la force de la conviction.
+
+### 3. Partager la décision technique
+
+Rester engagé dans la répétition.
+
+**Exercice pratique**
+
+- Regarder le passage depuis la salle.
+- Proposer un délai à l’équipe.
+- Laisser Malik l’inscrire sur la feuille.
+
+Le signal devient utilisable par d’autres personnes.
 
 ## Deux secondes après la lettre
 
 Inès prend la poignée. Au fond de la salle, Sébastien lève la main deux secondes après la réplique et lui demande de garder ce délai. Dans le silence, le visage peint semble choisir s’il va répondre. Malik note le changement sur sa feuille de conduite. En rangeant, Sébastien pense encore au rire, mais il n’est plus aussi sûr d’en comprendre la raison. Il remet le morceau de papier sur l’ancien repère et dit à Inès qu’il viendra samedi pour le montage.
+
+---
+
+**Conclusion**
+
+Sébastien ne saura peut-être pas de quoi parlaient les deux personnes. Il repère ce que cette conviction a interrompu et retrouve un avis sur le passage. Au montage, une image effectivement partagée demandera une autre réponse.

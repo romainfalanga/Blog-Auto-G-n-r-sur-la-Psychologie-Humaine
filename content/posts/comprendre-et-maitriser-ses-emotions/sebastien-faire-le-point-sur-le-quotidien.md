@@ -34,14 +34,79 @@ Nora a envoyé le lien vers l’album des membres. Malik demande à Sébastien s
 
 L’évolution d’une dysmorphophobie se discute dans le temps, à partir de la souffrance, de l’effort et des possibilités d’agir au quotidien. Avoir terminé un travail ou accepté une photo peut compter pour la personne. Ces événements éclairent ses choix sans résumer l’évolution du trouble. Sébastien a encore des moments où une préoccupation prend le dessus. Il retrouve aussi l’envie de dessiner hors des heures d’atelier et peut raconter ce qu’il a apprécié au café. Les professionnels qui le suivent peuvent s’appuyer sur ces expériences pour reprendre les objectifs avec lui.
 
-## Une enveloppe, un café et du temps qui manque encore
+## Comment le retentissement se lit-il au-delà d’un événement réussi ?
 
-Malik a vu le décor jouer et constate que le panneau revient en bon état. Camille sait que son frère a vu leur tante. Sébastien est celui qui peut décrire ce que ces journées lui ont demandé. Il a trouvé de l’intérêt à la conversation sur le quartier. Le matin même, une préoccupation sur son apparence l’avait retenu longtemps avant qu’il prenne son manteau. L’album de Nora réunit des traces du travail. Il ne contient pas ces heures-là, et Sébastien veut en parler quand il verra Anaïs jeudi.
+### Des activités retrouvées en partie
 
-## Reprendre les objectifs et laisser le prochain projet ouvert
+Une reprise peut rendre à la personne une place dans un lien ou un projet.
 
-Le rendez-vous déjà prévu lui donne un endroit pour parler du café, de l’album et du temps qui lui a encore manqué. Il peut dire à l’équipe ce qu’il voudrait approfondir, ce qu’il pense du soin commencé et quelles difficultés restent les plus gênantes. Avec Malik, la lecture du mois suivant demande une autre réponse, qu’il peut donner sans attendre que toutes les journées deviennent faciles. Il peut demander le délai pour décider et choisir une activité pour le plaisir. Les futurs usages d’images pourront être discutés chaque fois qu’une proposition lui sera faite.
+**Exemples concrets**
+
+- Sébastien partage un café avec sa tante et s’intéresse à l’histoire de l’arrêt de bus.
+- Quelqu’un peut reprendre un rendez-vous de quartier et y retrouver un intérêt précis.
+
+### Un effort qui reste dans la même journée
+
+Le plaisir d’un moment et un départ difficile peuvent coexister.
+
+**Exemples concrets**
+
+- Sébastien a mis du temps à prendre son manteau avant le café.
+- Une personne peut participer à une réunion familière après une matinée occupée par les préoccupations.
+
+### Des envies qui donnent d’autres repères
+
+Les projets ordinaires renseignent sur ce qui compte pour la suite.
+
+**Exemples concrets**
+
+- Sébastien pense à dessiner la rue pour lui et lit la proposition de Malik à son rythme.
+- Un rendez-vous de soin peut aussi partir d’une envie de retrouver un loisir que le trouble occupait.
+
+## 3 techniques pour faire le point après une reprise
+
+### 1. Raconter une réussite entière
+
+Inclure le résultat et le coût qui l’a précédé.
+
+**Exercice pratique**
+
+- Choisir un moment qui a compté.
+- Décrire ce qui a été difficile avant.
+- Dire ce qu’on a apprécié ensuite.
+
+L’équipe peut suivre les possibilités retrouvées et l’effort restant.
+
+### 2. Choisir un objectif de la suite
+
+Garder une place à une activité voulue.
+
+**Exercice pratique**
+
+- Repérer une envie encore accessible.
+- Demander à Camille le temps qu’elle a.
+- Garder la marche et le dessin dans une durée choisie.
+
+Un projet personnel peut compter même sans engagement public.
+
+### 3. Réexaminer le soin au rendez-vous
+
+Partager ce qui mérite d’être repris jeudi.
+
+**Exercice pratique**
+
+- Apporter un exemple hors du théâtre.
+- Nommer une difficulté qui gêne encore.
+- Demander comment poursuivre le travail commencé.
+
+Le suivi peut évoluer en fonction du quotidien de Sébastien.
 
 ## Une rue à dessiner sans échéance
 
 Sébastien demande à Malik de lui envoyer le texte de la lecture et dit qu’il répondra après l’avoir lu. En sortant, il ouvre l’album. Son doigt s’arrête sur la fenêtre peinte et sur le groupe réuni devant elle. Il éprouve encore une gêne dont il parlera jeudi avec Anaïs. Il remet le téléphone dans sa poche, cherche sur le plan du quartier l’adresse de l’enveloppe et appelle Camille. Elle a vingt minutes après le travail demain. Ils décident de retrouver l’ancien arrêt de bus et de prendre un café s’il reste des tables dehors. Dans le carnet qu’il gardait pour un prochain chantier, Sébastien écrit le nom de la rue en haut de la première page.
+
+---
+
+**Conclusion**
+
+Le décor est revenu à l’atelier et l’album conserve le souvenir choisi. Le café chez sa tante apporte une autre mesure de ce que Sébastien retrouve et de l’effort qui demeure. La prochaine page du carnet et le rendez-vous de jeudi ont chacun leur place.

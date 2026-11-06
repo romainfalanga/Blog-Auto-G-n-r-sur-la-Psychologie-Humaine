@@ -30,20 +30,83 @@ Il retourne le téléphone sur la table. Nora lui demande si l’atelier a répo
 
 Au service, ils ont déjà parlé des soirs où Gabin attend le bus. Il n’avait pas cité les messages qui arrivent au milieu d’une soirée qu’il avait envie de passer autrement. Il ne sait pas lesquels il peut faire cesser ni ce qu’un dispositif de protection lui laisserait faire avec son téléphone. Nora doit repartir dans une heure et il avait envie de rester à table jusque-là. Il pourrait utiliser le contact du service pour poser une question précise. Il cherche d’abord l’information sur le repas avec elle, sur le carton qu’ils ont devant eux.
 
-## Réduire les invitations à jouer
+## Quand un message ramène l’attention au jeu
 
-Certaines protections peuvent réduire l’exposition aux sollicitations ou rendre l’accès au jeu plus difficile. Le NICE recommande d’en discuter avec la personne selon sa situation. Il cite notamment le blocage des messages commerciaux, les outils qui limitent l’accès au jeu en ligne, l’auto-exclusion lorsque le dispositif existe et le blocage des paiements liés au jeu lorsque la banque le propose.
+L’OMS décrit des envies de jouer qui surviennent au cours d’autres activités. Une sollicitation liée au jeu peut faire partie des circonstances à repérer. Pendant le repas, Gabin a beau retourner son téléphone, une partie de son attention reste occupée par le message. Le NICE propose de discuter de protections adaptées, dont le blocage des messages commerciaux et, quand ils existent, les dispositifs de limitation d’accès ou de paiement.
 
-## Comment cette difficulté se manifeste
+## Comment une sollicitation peut-elle interrompre une activité ?
 
-Gabin cherche ce qui s’applique à lui. La nature d’un outil et sa disponibilité peuvent changer selon le service. Il peut demander ce que la protection couvre, quels effets elle pourrait avoir sur ses usages et comment obtenir un appui si elle ne répond pas à son besoin.
+### Le rappel tient en quelques mots
 
-## Faire un choix que Gabin peut garder en main
+La personne peut reconnaître le sujet avant même d’avoir ouvert le message.
 
-L’équipe peut aider Gabin à choisir une première mesure et à décider quand en reparler. Il souhaite d’abord réduire les sollicitations reçues pendant ses soirées. S’il veut ensuite connaître les possibilités auprès de sa banque, il peut demander des informations à celle-ci et en discuter avec le service. Ses accès restent sous sa responsabilité. Nora peut lui tenir compagnie s’il le souhaite et si elle est disponible. Elle garde son propre téléphone et ses propres comptes en dehors de cette démarche.
+**Exemples concrets**
 
-L’envie peut revenir malgré une mesure de protection. Gabin garde les coordonnées du service pour ce moment. La question à reprendre avec l’équipe sera ce qui s’est passé et de quel appui il a besoin.
+- Gabin identifie la notification en cherchant un renseignement sur le repas de rue.
+- Une alerte apparaît pendant qu’une personne consulte les horaires du bus.
+
+### L’envie reste après l’écran éteint
+
+Ne plus voir le message ne suffit pas toujours à retrouver l’attention.
+
+**Exemples concrets**
+
+- Gabin sait où la notification réapparaîtrait s’il rallumait l’écran.
+- Une personne relit mentalement un message pendant qu’un ami lui parle.
+
+### La conversation perd une information
+
+Une envie apparue au milieu d’un échange peut avoir un effet immédiatement visible.
+
+**Exemples concrets**
+
+- Gabin redemande le nom de la personne qui propose des plats.
+- Quelqu’un oublie l’heure donnée pour un rendez-vous pendant qu’il pense à l’alerte.
+
+## 3 techniques pour limiter les sollicitations liées au jeu
+
+### 1. Garder le fil de l’échange
+
+Reprendre ce qu’on voulait faire au moment de l’alerte.
+
+**Exercice pratique**
+
+- Posez le téléphone hors du champ de vue.
+- Demandez qu’on vous redonne la dernière information.
+- Notez-la sur le support qui est déjà devant vous.
+
+La conversation peut continuer sans exiger que l’envie disparaisse.
+
+### 2. Repérer le canal à fermer
+
+Réduire les messages qui ramènent au jeu sans les rouvrir.
+
+**Exercice pratique**
+
+- Identifiez le type de notification si vous le connaissez déjà.
+- Notez-le pour l’intervenant.
+- Choisissez avec lui un réglage qui limite les messages.
+
+L’alerte peut revenir moins souvent par ce canal.
+
+### 3. Demander quelles barrières existent
+
+Savoir ce qu’un dispositif couvrirait avant de le choisir.
+
+**Exercice pratique**
+
+- Notez la protection dont vous voulez parler.
+- Demandez au service ou à la banque ce qu’il propose.
+- Vérifiez comment garder les usages ordinaires nécessaires.
+
+La mesure choisie peut mieux convenir à votre situation.
 
 ## Le carton dans la cuisine
 
 Gabin répond à l’atelier avec l’information retrouvée sur le carton. Au prochain échange avec le service, il montre le type de sollicitation qu’il veut limiter et choisit une première mesure avec l’intervenante. Il note la question qu’il posera à sa banque. En rentrant, il demande à Nora le prénom qu’il avait mal recopié sur la boîte. Elle le lui redonne et lui laisse le dernier morceau de tarte s’il le veut.
+
+---
+
+**Conclusion**
+
+Gabin reprend la conversation et discute d’un réglage avec son intervenante. À l’atelier, les pertes auront un autre effet, cette fois sur ce qu’il peut encore financer. Nora peut lui rendre le fil du repas, et l’équipe l’aider à choisir ses protections.

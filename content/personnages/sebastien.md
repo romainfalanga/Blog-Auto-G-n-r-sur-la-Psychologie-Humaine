@@ -54,14 +54,14 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-un-soin-pour-une-preoccupation-envahissante/">Choisir un soin pour une préoccupation qui envahit le quotidien</a></h3>
-    <p class="parcours-resume">Lors d’un rendez-vous spécialisé, Sébastien raconte une remise de calque presque manquée et un déjeuner auquel il n’est pas arrivé. Ces situations aident à préciser ce qu’il attend du soin. Il peut poser des questions sur l’approche proposée et participer à la décision, tandis que les choix de l’atelier et des images restent les siens.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-un-soin-pour-une-preoccupation-envahissante/">L’effort caché derrière une tâche qu’on arrive à finir</a></h3>
+    <p class="parcours-resume">Sébastien a réussi à remettre son calque à Inès, après un après-midi où sa préoccupation sur l’apparence l’a longtemps occupé. Pendant son rendez-vous, il décrit aussi un déjeuner auquel il n’est pas arrivé. Ces deux situations aident à préciser le retentissement de la dysmorphophobie et à discuter de ce qu’il aimerait retrouver grâce au soin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-un-soin-pour-une-preoccupation-envahissante/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-peur-du-regard-et-photo-publique/">Distinguer la peur du regard et le choix d’une photo publique</a></h3>
-    <p class="parcours-resume">Sébastien éprouve de l’inquiétude en imaginant l’affiche aux vitrines du quartier. Il a aussi une préférence précise sur la diffusion de son image. La dysmorphophobie peut peser sur la façon dont il anticipe le regard des autres. Son accord sur l’usage d’une photographie reste une décision distincte, quelle que soit l’intensité de cette inquiétude.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-peur-du-regard-et-photo-publique/">Anticiper le jugement avant qu’une photo existe</a></h3>
+    <p class="parcours-resume">À l’imprimerie, le rectangle destiné à une photo est encore vide. Sébastien imagine déjà des inconnus devant l’affiche et ce qu’ils pourraient remarquer de lui. Cette anticipation liée à la dysmorphophobie pèse sur son attention. Son choix sur la diffusion d’une image se discute séparément avec l’équipe du théâtre.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-peur-du-regard-et-photo-publique/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -72,8 +72,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-image-partagee-hors-accord/">Réagir à une image partagée hors de l’accord</a></h3>
-    <p class="parcours-resume">Une photo destinée à montrer le décor inclut Sébastien sans qu’il ait donné son accord. Il peut demander une action sur le partage. Après cette demande, l’envie de retourner voir l’image a encore un autre sens pour lui. L’atelier peut prendre en charge le problème concret et laisser à l’équipe de soins le travail sur la détresse persistante.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-image-partagee-hors-accord/">Quand l’envie de revoir une photo persiste après son retrait</a></h3>
+    <p class="parcours-resume">Une image de montage montre Sébastien en dehors de l’accord prévu. Nora peut retirer son envoi et expliquer ce qu’elle a fait. Chez Sébastien, l’envie de réexaminer son apparence persiste après cette réponse. La dysmorphophobie peut occuper ainsi la suite d’un incident réel, dont la réparation reste à la charge du collectif.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-image-partagee-hors-accord/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -84,8 +84,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-demander-un-appui-que-chacun-peut-tenir/">Demander un appui que chacun peut tenir</a></h3>
-    <p class="parcours-resume">Sébastien confie à Inès qu’il préférerait l’avoir près de lui au moment de la photo. Il souhaite une présence et garde la décision de participer. Dire ce qu’il attend et entendre les limites d’Inès leur permet de finir leur travail sur le volet avant son départ. Sébastien pourra ensuite reprendre la question de l’album avec Nora.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-demander-un-appui-que-chacun-peut-tenir/">Quand une présence familière conditionne le choix de participer</a></h3>
+    <p class="parcours-resume">Sébastien espérait retrouver Inès avant de répondre à la proposition de photo. En apprenant son départ, il a envie qu’elle lui garantisse que tout se passera bien. La dysmorphophobie peut donner beaucoup de poids à un repère rassurant. Dans la scène, il distingue le besoin de présence de la décision qu’il souhaite prendre lui-même.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sebastien-demander-un-appui-que-chacun-peut-tenir/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

@@ -91,7 +91,7 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/gabin-vis-dans-enveloppe/">Reprendre ses activités et son suivi après la crise</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/gabin-vis-dans-enveloppe/">Après une crise liée au jeu, reprendre une activité à sa mesure</a></h3>
     <p class="parcours-resume">Après l’appel d’urgence, Gabin voudrait rassurer les bénévoles en promettant d’être disponible pour tout le repas. Il choisit finalement une tâche courte dont il peut mesurer la charge. Cette reprise d’une activité qui compte pour lui a sa place à côté du suivi clinique et budgétaire. Gabin vérifie aussi avec le service quel contact utiliser si la détresse revient.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/gabin-vis-dans-enveloppe/" class="parcours-link">Lire</a>
   </div>

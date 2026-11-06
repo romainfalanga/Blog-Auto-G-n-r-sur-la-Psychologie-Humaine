@@ -33,14 +33,79 @@ Il déplie le ticket sur le coin du bureau. Il raconte le rire, le repas qu’il
 
 Dans une évaluation de symptômes dépressifs durables, l’histoire et les conséquences concrètes comptent autant que la description du jour. Le professionnel cherche depuis quand les difficultés sont présentes, comment elles se sont installées et dans quels contextes elles varient. Il s’intéresse aussi à la santé physique, aux autres difficultés, aux appuis et à ce que les soins ont changé ou laissé en suspens. Le diagnostic déjà posé donne à la docteure Rivière un point de départ. Le bilan du lundi porte sur ce que Timothée vit maintenant et sur les comparaisons qu’il peut faire.
 
-## Des souvenirs que l’on n’assemble pas d’un seul coup
+## Comment retrouver des repères quand la gêne s’est installée progressivement ?
 
-Les travaux à la résidence aident Timothée à retrouver une époque, même s’il ne se souvient pas du mois où sa fatigue a commencé. Le ticket, lui, apporte une comparaison à l’échelle d’une soirée. La préparation de l’atelier lui rappelle un intérêt encore présent et une difficulté à envisager la suite. Au travail, c’est le temps passé à se remettre entre deux tâches qui le frappe. Ces exemples ne se contredisent pas. La docteure et Timothée peuvent s’en servir pour parler de ce qui se prolonge à des rythmes différents. Lui-même n’avait jamais rapproché le magasin et sa pause au local d’entretien.
+### Un début difficile à dater
 
-## Choisir ce qui mérite d’être repris la prochaine fois
+L’installation progressive laisse parfois le souvenir d’une période plus que celui d’un premier jour.
 
-Un récit approximatif peut se préciser au fil des consultations. Timothée peut dire de quel repère il est sûr et où il hésite. S’il ne veut pas tenir un journal, il peut garder un souvenir de deux contextes où le coût lui a paru différent. La docteure peut demander ce qu’il voudrait voir devenir moins lourd et ce qu’il lui est possible de changer dans le suivi. Le prochain point peut reprendre le travail et les repas, ou toute autre difficulté qui prend davantage de place entre-temps. Le ticket reste une aide pour la conversation de Timothée.
+**Exemples concrets**
+
+- Timothée se rappelle les travaux à la résidence, sans retrouver le mois où la lassitude a commencé.
+- Il se souvient d’avoir espéré un changement lors de la réouverture, puis de l’avoir encore ressentie à la maison.
+
+### Un événement récent plus facile à retrouver
+
+Une trace ou un lieu peut préciser un moment sans expliquer à lui seul l’évolution.
+
+**Exemples concrets**
+
+- Le ticket lui rappelle les deux écoutes au magasin de Yacine.
+- Le sandwich lui rappelle une pause où il avait eu besoin de rester seul après la tournée.
+
+### Des rythmes différents selon les lieux
+
+L’évolution peut s’observer au travail, dans les relations et à la maison, avec des changements de rythme différents.
+
+**Exemples concrets**
+
+- Il décrit une longue fatigue au local et un intérêt plus bref pour le disque.
+- Il a préparé la rencontre avec Sacha tout en ayant du mal à imaginer des rendez-vous réguliers.
+
+## 3 techniques pour situer dans le temps ce qui paraît « pareil »
+
+### 1. Une période plutôt qu’une date exacte
+
+Donner un repère honnête au professionnel.
+
+**Exercice pratique**
+
+- Choisissez un événement dont vous vous souvenez.
+- Dites comment vous étiez avant et après.
+- Précisez ce dont vous n’êtes pas sûr.
+
+Le bilan peut avancer même si la chronologie se reconstruit peu à peu.
+
+### 2. Une comparaison entre deux lieux
+
+Faire entendre ce qui dure et ce qui varie.
+
+**Exercice pratique**
+
+- Prenez un exemple de travail.
+- Ajoutez un exemple à la maison ou avec un ami.
+- Dites ce qui vous paraît semblable ou différent.
+
+Le professionnel peut examiner une histoire plus complète qu’une impression générale.
+
+### 3. Un point à reprendre ensemble
+
+Éviter de vouloir tout observer entre les rendez-vous.
+
+**Exercice pratique**
+
+- Nommez la gêne que vous voulez décrire ensuite.
+- Convenez d’un seul repère utile.
+- Demandez à quel contact signaler un changement inquiétant.
+
+Timothée peut garder un fil entre les rendez-vous sans tenir un relevé permanent.
 
 ## Le ticket rendu à Timothée
 
 La docteure lui rend le ticket. Ils conviennent de garder le prochain point médical et de reprendre plus tôt contact si Timothée constate un changement qui l’inquiète. Il voit déjà Maud, la psychologue, le lendemain. Il décide d’y raconter ce qui se passe quand il essaie d’imaginer une prochaine séance avec Sacha et qu’il finit par se juger lui-même. En quittant le cabinet, il écrit « repas après le service » sous ses deux notes du jeudi. Il envoie une photo du ticket à Yacine pour lui demander vers quelle heure il était passé. Yacine lui répond qu’il peut lui dire ça après la fermeture. Timothée remet le papier dans la poche qui n’est pas trouée.
+
+---
+
+**Conclusion**
+
+L’époque des travaux et le ticket de jeudi aident Timothée à raconter deux échelles de temps. La docteure peut entendre ce qui perdure et ce qui bouge. Un proche peut lui rendre un repère qu’il demande.

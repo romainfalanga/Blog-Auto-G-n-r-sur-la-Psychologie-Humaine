@@ -34,14 +34,79 @@ Quand Inès revient, les comédiens ont donné leur avis sur l’emplacement du 
 
 Un évitement peut calmer la détresse sur le moment et rendre plus difficile l’accès à une activité qu’on avait envie de faire. Dans la dysmorphophobie, il peut être lié à une inquiétude persistante sur l’apparence et au sentiment d’être observé. Sébastien avait une raison de venir et une raison qu’il éprouvait comme très forte de ne pas franchir le rideau. Refuser une image, à lui seul, ne dit rien du trouble. Ici, ce qui l’arrête va jusqu’à manquer une décision de décor, alors même qu’il ignore encore si quelqu’un comptait le photographier.
 
-## Le plan annoté pendant qu’il attendait
+## Comment l’évitement se manifeste-t-il autour du plateau ?
 
-Inès voit que Sébastien est resté dans le couloir et que le plan porte maintenant un trait qu’il n’a pas choisi. Elle peut lui dire ce qui s’est passé. C’était Nora, qui organise les images. Elle voulait savoir quand le panneau serait assez sec pour être photographié. Cette information répond à une question réelle. Sébastien, lui, entend aussi dans son attente la crainte que les autres se retournent quand il entrera. Il a connu cette sensation dans des salles où il n’y avait aucun appareil.
+### Attendre de savoir qui sera là
 
-## Retrouver une décision de métier
+L’entrée dans un lieu devient difficile quand le regard des autres paraît menaçant.
 
-Sébastien peut demander le plan de travail de Nora et préciser sa préférence pour aujourd’hui. Il peut aussi proposer un moment où Inès et lui pourront reprendre la décision de décor, si son avis leur est encore utile. Vérifier le volet pendant que la salle est libre lui permet de reprendre sa tâche. D’autres arrivées pourront rester difficiles. Le temps passé dans le couloir et le soulagement qu’il y a éprouvé pourront être discutés en consultation, sans transformer la prochaine entrée sur scène en exercice imposé par l’équipe du théâtre.
+**Exemples concrets**
+
+- Sébastien reste derrière le rideau après avoir entendu parler de photos.
+- Quelqu’un peut hésiter à entrer dans une salle familière quand de nouvelles personnes sont arrivées.
+
+### Se sentir mieux en restant à l’écart
+
+Rester dans un lieu moins exposé peut calmer une partie de la détresse.
+
+**Exemples concrets**
+
+- Sébastien se détend quand Inès revient dans le couloir.
+- Dans une autre situation, annuler un café peut donner un répit avant que l’envie d’y aller revienne.
+
+### Perdre une décision qui comptait
+
+Le soulagement immédiat peut s’accompagner d’une occasion manquée.
+
+**Exemples concrets**
+
+- Les comédiens choisissent un emplacement avant que Sébastien ait pu donner son avis.
+- Une personne qui quitte un rendez-vous de groupe peut perdre l’occasion de présenter son idée.
+
+## 3 techniques pour reprendre sa part dans une activité
+
+### 1. Demander ce qui est réellement prévu
+
+Clarifier l’organisation autour des images.
+
+**Exercice pratique**
+
+- S’adresser à la personne qui les prépare.
+- Demander ce qu’elle souhaite photographier.
+- Indiquer son choix pour la journée.
+
+Une réponse précise peut éclairer la décision de travail.
+
+### 2. Retrouver le point de métier
+
+Réexaminer un avis donné en son absence.
+
+**Exercice pratique**
+
+- Reprendre le plan déjà annoté.
+- Demander à Inès quand elle peut tenir le volet.
+- Regarder d’où le visage doit se lire.
+
+Sébastien peut contribuer à l’emplacement sans dépendre d’une nouvelle prise de vues.
+
+### 3. Raconter une occasion manquée
+
+Situer l’évitement dans le suivi.
+
+**Exercice pratique**
+
+- Revenir au moment où le rideau l’a arrêté.
+- Expliquer ce qu’il voulait faire sur scène.
+- Dire ce que l’attente lui a apporté puis coûté.
+
+L’équipe peut discuter de cette difficulté à partir de son objectif.
 
 ## La croix au fond de la salle
 
 Inès a dix minutes avant de retrouver les comédiens. Elle tient le volet pendant que Sébastien va au fond de la salle. De là, il lui demande de le déplacer d’une largeur de main. Le visage apparaît entier. Il reporte leur décision sur le plan et trace une croix au sol, là où il se tient. Il convient avec Malik que les images du jour montreront le décor seul. Malik lui dit que la question de l’album reviendra mercredi prochain. En revenant, Sébastien range sa craie avec le plan. Il demande à Inès si elle déjeunera à l’atelier demain. Il a quelque chose à lui dire au sujet des vérifications qui lui ont pris du temps la veille.
+
+---
+
+**Conclusion**
+
+Sébastien retrouve son avis sur le décor et décide séparément des images du jour. Le retard qu’a causé l’attente reste perceptible dans le plan. Avec Inès, il pourra aussi parler de ce qui l’arrête quand il cherche une certitude.

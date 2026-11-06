@@ -49,8 +49,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-reprise-activite-limitee/">Reprendre une activité à la mesure de la journée</a></h3>
-    <p class="parcours-resume">Élina a envie d’écrire de nouveau et craint déjà de devoir produire un journal entier. Après une période où même certaines tâches courtes ont pris beaucoup de place, un engagement peut être défini à la mesure de ce qu’elle souhaite essayer. L’association lui offre l’occasion de distinguer le plaisir d’une rencontre, le travail que demande un article et les responsabilités qu’elle ne veut pas encore prendre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-reprise-activite-limitee/">Quand la charge qu’on imagine freine la reprise</a></h3>
+    <p class="parcours-resume">À la vue des anciens numéros, Élina a envie d’écrire et imagine déjà les appels, les corrections et le prix du papier. Après le départ de son poste, les responsabilités qui lui reviennent en tête occupent une place dans une demande qui portait sur une seule page. Elle doit retrouver ce que Mireille lui propose et la part du projet qu’elle veut essayer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/elina-reprise-activite-limitee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -67,8 +67,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-demander-relais-et-confidentialite/">Demander un relais sans raconter sa consultation</a></h3>
-    <p class="parcours-resume">L’association veut savoir qui peut distribuer le journal. Élina aimerait faire comprendre que son temps et son attention sont comptés. Elle peut décrire sa disponibilité sans donner accès à sa consultation. Dans une période de difficulté d’adaptation, un appui est parfois aussi concret que de savoir qui répond aux demandes, qui tient la table et à qui passer une tâche.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-demander-relais-et-confidentialite/">Quand le coût d’une matinée dépasse le créneau prévu</a></h3>
+    <p class="parcours-resume">L’association propose deux heures de permanence à Élina. Elle se souvient d’un samedi où elle a écourté ses courses puis laissé des messages en attente. Les difficultés d’adaptation se voient parfois après l’activité, dans la part de journée que la personne a encore les moyens de tenir. Elle veut expliquer sa disponibilité en gardant pour elle ce qu’elle a raconté au cabinet.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/elina-demander-relais-et-confidentialite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -79,13 +79,13 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-suivi-quand-difficultes-reviennent/">Faire le point quand les difficultés reviennent</a></h3>
-    <p class="parcours-resume">Élina a avancé son rendez-vous après une nuit passée à repenser au bureau et une démarche manquée le lendemain. Un suivi permet de remettre ce retour des difficultés à côté des moments où l’écriture et les rencontres ont été possibles. L’évolution du trouble de l’adaptation se discute dans le contexte de la personne. Élina et sa médecin examinent aussi quelle forme d’accompagnement lui conviendrait.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-suivi-quand-difficultes-reviennent/">Ce que le suivi regarde quand une préoccupation revient</a></h3>
+    <p class="parcours-resume">Élina a avancé son rendez-vous après une nuit passée à repenser au bureau. Sa médecin lui demande aussi ce qui l’intéresse et ce qui l’inquiète dans les jours où aucun rappel immédiat du départ ne s’impose. Le suivi d’un trouble de l’adaptation permet de vérifier comment les difficultés évoluent et si leur lien avec le changement ou ses conséquences reste au premier plan.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/elina-suivi-quand-difficultes-reviennent/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-activite-qui-a-du-sens/">Choisir ce qui compte quand l’élan manque</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/elina-activite-qui-a-du-sens/">Quand l’intérêt revient par un détail de la page</a></h3>
     <p class="parcours-resume">Élina ouvre une épreuve qu’elle avait hâte de voir et ne retrouve pas cet élan. Elle est encore occupée par des pensées sur le bureau. Une activité choisie peut garder un sens même quand l’envie d’y entrer fluctue. Face à la feuille, elle retrouve une raison précise de relire. Elle veut que les lecteurs puissent reconnaître le geste que Farida lui a montré et savoir où trouver le journal.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/elina-activite-qui-a-du-sens/" class="parcours-link">Lire</a>
   </div>

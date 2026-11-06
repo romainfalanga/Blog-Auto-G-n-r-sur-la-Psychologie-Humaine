@@ -1,6 +1,16 @@
 # Charte de rédaction des parcours cliniques
 
-Écrire en français pour des lecteurs sans formation clinique. Chaque épisode prend une décision, une hésitation ou un désaccord précis dans la vie ordinaire du personnage. Le texte commence par la scène, sans intertitre et d’au moins 180 mots. Trois sections distinctes expliquent ensuite le phénomène, montrent ses manifestations concrètes, puis proposent des façons de faire face ou de chercher un appui. Le texte revient au personnage pour résoudre l’enjeu de la scène, avec la part d’incertitude qui lui reste. « Du côté des proches » vient en dernier. Les douze épisodes mettent en jeu des situations variées. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.
+Écrire en français pour des lecteurs sans formation clinique. Choisir pour chaque épisode un aspect du trouble qui se distingue des onze autres et que la scène permet de comprendre. Cet aspect peut être une manifestation, un mécanisme, un retentissement ou une particularité de l’évolution. Relier le titre, le résumé, l’explication et le dénouement à cet aspect. Une activité, une décision ou un rendez-vous fournit le cadre où il devient perceptible.
+
+Suivre le déroulé de l’[article de Youssef sur l’alexithymie en couple](../../content/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple.md).
+
+1. Ouvrir sur une scène d’au moins 180 mots, sans intertitre. Montrer ce que la difficulté change pour le personnage dans cette situation.
+2. Expliquer l’aspect et son lien avec le trouble dans une section dédiée. Partir d’une phrase générale autonome, puis revenir à ce qui se joue dans la scène.
+3. Montrer comment l’aspect se manifeste. Sous « Comment … ? », développer trois sous-parties avec une explication et deux exemples concrets chacune. Situer ce que l’on observe dans chaque exemple.
+4. Proposer trois techniques numérotées. Donner pour chacune un objectif, un exercice pratique en trois étapes et une explication de son utilité possible. Adapter les étapes au contexte et au niveau de risque, en incluant le recours à un professionnel lorsque nécessaire.
+5. Revenir à l’histoire sous un intertitre tiré de la scène. Montrer un essai ou une décision, sa conséquence et l’incertitude qui reste. Les difficultés peuvent revenir après un essai qui a fonctionné ailleurs.
+6. Conclure après un séparateur. Résumer ce que cet épisode permet de comprendre et inscrire le dénouement dans le parcours du personnage.
+7. Terminer par « Du côté des proches ». Relier leur point de vue à ce que la scène a montré.
 
 Respecter les faits du canon et la chronologie du diagnostic. Si l’évaluation est en cours, faire comprendre les difficultés sans annoncer le résultat à la place du professionnel. Un diagnostic connu entre dans le récit quand il aide à situer l’expérience. La personne conserve un métier ou un projet, des relations, des ressources, des préférences et le droit de ne pas tout partager.
 
@@ -22,6 +32,6 @@ La quatrième vague distingue les repères du premier diagnostic et ceux des ép
 
 Les histoires d’origine donnent la direction. Le titre commence par le sujet de l’article, une difficulté, une émotion ou un mécanisme réel dans une situation concrète. Le prénom figure séparément au-dessus du titre. Dans la présentation, nommer le trouble documenté et ce qu’il change pour ce personnage. Le premier mot-clé reprend son intitulé et les quatre autres indiquent des manifestations ou enjeux qui reviennent dans plusieurs épisodes. La fiche peut annoncer un diagnostic que le personnage découvre plus tard dans l’histoire.
 
-Chaque épisode a un objet pédagogique propre. Dans le résumé de la fiche et de la carte, relier une réaction de la scène au trouble, à une émotion, à un mécanisme ou à un repère d’évaluation. Sur la page de l’article, entrer directement dans la scène. Un atelier, un objet ou un changement d’horaire sert à montrer ce fonctionnement. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient.
+Dans le résumé de la fiche et de la carte, relier une réaction de la scène à l’aspect abordé. Dans un récit d’enfance, vérifier l’apport de cette période pour comprendre le trouble et ouvrir sur d’autres contextes lorsque les sources l’appuient. Lors de la relecture, nommer l’aspect illustré dans chaque épisode, puis retrouver le moment où il devient visible et vérifier que les exemples et les techniques restent centrés sur lui. Renseigner les références dans le manuscrit et le dossier éditorial, sans bibliographie dans le fil de l’article.
 
 La huitième vague vérifie qui peut savoir quoi, à quel moment et avec quel accord. En cas de changement préoccupant, distinguer le fait observable, ce qu’en dit le personnage, la réponse d’un proche et l’évaluation de l’équipe de soins. Faire apparaître le relais dans la scène où il se produit et en reprendre les conséquences dans la suivante.

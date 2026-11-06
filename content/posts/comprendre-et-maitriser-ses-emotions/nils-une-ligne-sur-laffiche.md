@@ -27,22 +27,83 @@ Maud dit qu’ils peuvent laisser sa présentation vide s’il veut rester discr
 
 Maud reprend la maquette avec eux. Elle supprime la phrase, puis attend. Nils dicte une ligne avec son prénom, le nom de l’émission et sa question d’arrosage. Il ajoute que, si on lui propose une interview, il parlera du jardinage. Jo lit la nouvelle ligne à voix haute. Dans « comment savoir enfin quand arroser », Nils lui fait enlever le « enfin ». Il veut pouvoir annoncer une question simple sans sous-entendre que les auditeurs auraient dû y répondre tout seuls.
 
-## Être présenté pour ce qu’on apporte
+## Anticiper d’être ramené à son diagnostic
 
-La stigmatisation liée à la schizophrénie peut limiter la place que des personnes prennent au travail ou dans la vie du quartier. Elle peut aussi peser sur le choix d’en parler. Ici, la première phrase de l’affiche ne nomme aucun diagnostic.
+La stigmatisation liée à la schizophrénie peut restreindre l’accès au travail et à la vie du quartier. La crainte de ces réactions peut peser avant même qu’une personne parle de sa santé. Nils ne sait pas comment Jo comprend sa formule. Il sait en revanche qu’il veut être identifié à l’antenne pour ses conseils de jardinage et choisir le reste.
 
-## Comment cette difficulté se manifeste
+## Comment la crainte d’être réduit au diagnostic change-t-elle la prise de parole ?
 
-Elle donne malgré tout à Nils un rôle qu’il n’a pas choisi et qu’il ne veut pas avoir à expliquer. Il tient à signer la chronique, et la précision du texte lui importe pour une autre raison : il veut qu’on sache quelle question lui poser.
+### Une présentation suggère une histoire intime
 
-Une personne peut souhaiter témoigner de son expérience de santé, aujourd’hui ou plus tard. Elle peut aussi s’en tenir à son activité. Nils choisit ce qui sera dit de sa participation dans cette émission. Il n’a rien à raconter à Jo pour justifier la modification de l’affiche. Maud reconnaît qu’elle a entendu « rester discret » là où Nils demandait à être présenté autrement.
+Un mot apparemment valorisant peut faire attendre de quelqu’un un récit personnel qu’il n’a pas choisi.
 
-## Préciser où vont le texte et la voix
+**Exemples concrets**
 
-Le NICE recommande que la personne participe aux décisions sur la circulation des informations qui la concernent dans ses soins. À la radio, la question relève d’un accord éditorial entre Nils et ses collègues. Ils peuvent décider ensemble du texte de l’affiche et de son usage. Nils veut le revoir avant mise en ligne, avec son prénom et le sujet. Il précise aussi que le fichier de la minute est encore un essai. Pour en tirer un extrait public, il faudra le réécouter avec lui.
+- En lisant « se reconstruisent », Nils imagine déjà les questions sur sa vie.
+- Une annonce d’atelier axée sur les parcours de soins pourrait éclipser la démonstration que la personne est venue faire.
 
-Jo peut lui proposer une place dans la première émission du mois, le troisième samedi qui vient. Maud propose de répéter ce vendredi, sans public. Une affiche correcte ne décide pas du format à sa place. Nils garde encore à choisir s’il veut lire un texte entier ou prendre une question avec Maud.
+### Se protéger risque de rendre invisible
+
+Pour éviter des questions, l’entourage peut proposer de supprimer des informations auxquelles la personne tient.
+
+**Exemples concrets**
+
+- Maud envisage une présentation vide alors que Nils veut garder son prénom.
+- Un bénévole pourrait être présenté sans nom alors qu’il souhaitait être reconnu comme l’auteur du projet.
+
+### Le cadre peut changer entre deux supports
+
+L’accord donné pour une fiche ne vaut pas forcément pour une question en direct ou une nouvelle présentation.
+
+**Exemples concrets**
+
+- Nils accepte l’affiche de jardinage et dit ce qu’il abordera si on lui propose une interview.
+- Une personne pourrait valider son portrait écrit et demander d’autres limites si une vidéo est prévue.
+
+## 3 techniques pour choisir comment se présenter
+
+### 1. Rédiger la ligne qu’on souhaite publier
+
+Faire apparaître sa contribution dans ses propres mots.
+
+**Exercice pratique**
+
+- Repérez la formule qui vous gêne.
+- Écrivez une ligne sur ce que vous apportez.
+- Relisez-la sur le support final avant accord.
+
+La relecture peut faire apparaître une ambiguïté avant qu’elle soit publique.
+
+### 2. Préparer une réponse à une question intime
+
+Pouvoir refuser une question sans quitter tout l’échange.
+
+**Exercice pratique**
+
+- Choisissez ce que vous souhaitez garder privé.
+- Trouvez une phrase simple pour le dire.
+- Préparez une question qui ramène au sujet que vous présentez.
+
+Une formule prête peut laisser plus de liberté face à une demande inattendue.
+
+### 3. Définir l’accord pour chaque usage
+
+Garder la possibilité de décider si le cadre change.
+
+**Exercice pratique**
+
+- Nommez les supports pour lesquels vous donnez votre accord.
+- Demandez qu’on vous consulte avant tout nouvel usage.
+- Gardez le nom de la personne à qui signaler un écart.
+
+Un accord précis peut faciliter une correction sans exposition supplémentaire.
 
 ## Les tomates au-dessus du texte
 
-Jo imprime la maquette pour voir si la phrase tient en entier. Une tomate a perdu son ombre ; le pied du « j » de « jardinage » est encore lisible. Nils relit le texte et donne son accord pour cette version. Maud lui propose ensuite de répéter vendredi en fin de matinée. Il dit oui et note l’heure dans son agenda avant de ranger le téléphone. En sortant, il voit Jo coller la feuille au-dessus du bac à câbles. Depuis le couloir, on arrive à lire son prénom sans s’approcher de la porte.
+Jo imprime la maquette pour voir si la phrase tient en entier. Une tomate a perdu son ombre. Le pied du « j » de « jardinage » est encore lisible. Nils relit le texte et donne son accord pour cette version. Maud lui propose ensuite de répéter vendredi en fin de matinée. Il dit oui et note l’heure dans son agenda avant de ranger le téléphone. En sortant, il voit Jo coller la feuille au-dessus du bac à câbles. Depuis le couloir, on arrive à lire son prénom sans s’approcher de la porte.
+
+---
+
+**Conclusion**
+
+Nils conserve le droit d’être nommé et celui de garder sa santé privée. La répétition fixée pour vendredi pourra porter sur sa chronique. Les proches et collègues peuvent soutenir ce choix en demandant quels mots la personne veut signer.

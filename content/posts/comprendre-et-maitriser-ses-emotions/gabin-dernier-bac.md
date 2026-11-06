@@ -34,14 +34,79 @@ Nora a prévenu qu’elle travaille et qu’elle gardera son téléphone au vest
 
 Une situation vulnérable peut se présenter autrement que lors de la préparation du plan. Le NICE recommande de travailler avec la personne sur les situations à risque et sur les soutiens qu’elle pourra mobiliser.
 
-## Comment cette difficulté se manifeste
+## Comment plusieurs imprévus peuvent-ils rapprocher du jeu ?
 
-Chez Gabin, le retour tardif, l’atelier annulé et le rappel du versement se trouvent réunis. Il peut s’appuyer sur le repère choisi avec l’intervenante quand revient l’idée de régler la difficulté en jouant. Ensuite, il pourra lui expliquer ce qui a rendu le moment plus difficile à traverser et ce qui a été possible malgré le changement d’horaire. Le plan pourra être revu avec l’équipe.
+### Le repère de la soirée disparaît
 
-## Faire une demande qui reste possible quand Nora travaille
+Un changement d’horaire peut supprimer une activité attendue.
 
-Gabin peut utiliser le contact prévu et décrire la situation en peu de mots. Si le service est fermé, il suit les options qu’il a discutées avec les professionnels en fonction de l’urgence. Pour les chaises, il peut garder le rendez-vous de vérification pour un autre jour, avec l’accord de l’atelier. Ce report réduit une décision à prendre ce soir. Il peut encore demander de la compagnie à une personne disponible, en disant ce qu’il souhaite lui raconter. Le rôle de Nora reste celui qu’ils avaient convenu, un échange quand elle en a le temps. Le trajet d’aujourd’hui peut être repris avec l’intervenante au prochain point.
+**Exemples concrets**
+
+- Gabin finit après le dernier bus pour l’atelier.
+- Une personne doit renoncer à la promenade prévue après une journée difficile.
+
+### Le rappel financier survient au mauvais moment
+
+L’idée de réparer une perte peut se joindre à une contrariété déjà présente.
+
+**Exemples concrets**
+
+- Sur le quai, le rappel du versement arrive après l’annulation de l’atelier.
+- En rentrant tard, quelqu’un découvre une facture qu’il croyait réglée.
+
+### Le soutien habituel est indisponible
+
+L’envie peut devenir plus pressante lorsqu’un appui prévu n’est pas joignable.
+
+**Exemples concrets**
+
+- Nora est au travail et laisse son téléphone au vestiaire.
+- La personne à qui l’on parle d’habitude ne répond pas en pleine soirée.
+
+## 3 techniques pour utiliser son plan quand plusieurs difficultés s’ajoutent
+
+### 1. Consulter le recours de repli
+
+Trouver l’aide prévue sans attendre la réponse d’un proche.
+
+**Exercice pratique**
+
+- Ouvrez le plan convenu avec l’équipe.
+- Vérifiez le recours correspondant à l’heure et à la situation.
+- Laissez les informations demandées ou suivez le relais indiqué.
+
+Une démarche reste possible même si la première porte est fermée.
+
+### 2. Remettre la décision d’argent à son moment
+
+Éviter de traiter une échéance sous la pression de l’envie de jouer.
+
+**Exercice pratique**
+
+- Identifiez ce qui ne peut être vérifié ce soir.
+- Fixez le moment prévu pour reprendre le calcul.
+- Choisissez une prochaine étape ordinaire pour la soirée.
+
+Il peut devenir plus facile de passer l’heure sans ajouter une dépense.
+
+### 3. Décrire l’enchaînement à l’équipe
+
+Examiner le cumul plutôt qu’un détail isolé.
+
+**Exercice pratique**
+
+- Notez ce qui a changé en premier.
+- Ajoutez le moment où l’envie est revenue.
+- Indiquez le recours effectivement accessible.
+
+Le plan peut être ajusté à une soirée réelle.
 
 ## Un message sur le quai
 
 Gabin laisse son prénom et explique qu’il veut reprendre le soir où il sort plus tard que prévu. Il note aussi le rappel de versement qui l’a arrêté sur le quai. Une fois dans le bus, il demande à la bénévole quel jour l’établi sera libre pour vérifier la chaise. Il n’a plus envie de tout régler ce soir. Il garde la question du montant pour le rendez-vous budgétaire et décide de rentrer directement.
+
+---
+
+**Conclusion**
+
+Cette fois, Gabin laisse un message et rentre directement. Une autre semaine, la reprise du jeu lui posera la question de revenir vers l’équipe. Si Nora est occupée, le contact du service reste accessible selon l’accord convenu.

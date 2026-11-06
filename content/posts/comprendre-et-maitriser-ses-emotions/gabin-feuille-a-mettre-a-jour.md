@@ -34,14 +34,79 @@ Il commence à taper « Il y a un retard ». Il a déjà écrit ces mots au déb
 
 Une reprise du jeu peut survenir après une période où la personne avait retrouvé davantage de maîtrise. Le NICE recommande un accès rapide au soutien lorsque cela arrive et une discussion sur ce qui s’est passé.
 
-## Comment cette difficulté se manifeste
+## Comment une reprise du jeu peut-elle compliquer le retour aux soins ?
 
-Gabin peut apporter au service ce qu’il sait de la veille, même s’il ne comprend pas encore pourquoi le plan a été difficile à utiliser. Il peut dire ce que la perte change aujourd’hui et demander quand ils peuvent se parler. L’équipe pourra revoir avec lui les protections, le soutien et les besoins qui ont changé. Le fait d’avoir déjà parlé de ces difficultés lui donne un point de départ pour le rendez-vous.
+### Une amélioration fait attendre une trajectoire régulière
 
-## Actualiser les informations pour le foyer
+Rejouer peut surprendre après plusieurs semaines où la personne maîtrisait mieux ses dépenses.
 
-Nora peut organiser ses dépenses quand elle sait ce que Gabin est en mesure de verser. Il peut lui annoncer la somme confirmée, la part qui manque et le moment où il donnera des nouvelles. Il peut demander à revoir la conseillère budgétaire si une dépense essentielle est menacée. Nora peut refuser de couvrir l’écart ou demander un avis pour ses propres engagements. Si Gabin est trop bouleversé pour poursuivre le calcul, il peut demander de l’aide au service et convenir d’un moment pour reprendre la feuille. La situation de santé et le versement peuvent demander des réponses différentes.
+**Exemples concrets**
+
+- Gabin avait prévu la somme du loyer comme si elle ne pouvait plus changer.
+- Une personne hésite à dire qu’elle a rejoué après avoir annoncé une bonne période.
+
+### Le message vague revient facilement
+
+La honte peut pousser à minimiser les conséquences immédiates.
+
+**Exemples concrets**
+
+- Gabin retape « Il y a un retard ».
+- Quelqu’un cache le changement de montant en parlant seulement d’un souci de banque.
+
+### Le rendez-vous suivant paraît la seule option
+
+La personne peut hésiter à reprendre contact plus tôt alors que des dommages réapparaissent.
+
+**Exemples concrets**
+
+- Gabin se demande s’il peut rappeler avant son créneau.
+- Une personne prépare sa question puis referme le numéro du service.
+
+## 3 techniques pour demander un nouvel appui après avoir rejoué
+
+### 1. Demander un échange avancé
+
+Revenir vers l’équipe sans devoir avoir tout compris.
+
+**Exercice pratique**
+
+- Retrouvez le moyen de contact convenu.
+- Dites simplement que vous avez rejoué.
+- Demandez quel échange est possible avant la prochaine date.
+
+L’équipe peut déterminer avec vous la suite utile.
+
+### 2. Préparer les faits pour l’entretien
+
+Donner des éléments sur la reprise sans transformer la note en jugement.
+
+**Exercice pratique**
+
+- Notez ce qui se passait juste avant.
+- Indiquez le dommage que vous pouvez confirmer.
+- Apportez une protection que vous voudriez revoir.
+
+Ces éléments peuvent orienter la discussion.
+
+### 3. Actualiser l’information commune
+
+Limiter l’incertitude pour le foyer.
+
+**Exercice pratique**
+
+- Vérifiez la somme encore disponible.
+- Transmettez uniquement ce qui affecte la charge commune.
+- Donnez une date pour le point suivant.
+
+Le proche peut ajuster ses propres comptes.
 
 ## La chaise rangée et le message envoyé
 
 Gabin retrouve le contact et demande un échange plus tôt. Puis il envoie à Nora les deux informations qu’il a vérifiées et lui indique que le montant du prochain versement a changé. Il lui écrit quand il reviendra vers elle après le rendez-vous budgétaire. Nora répond qu’elle a reçu le message et regardera son propre échéancier. Gabin glisse la vis dans une enveloppe et la pose sur la chaise. Il enverra l’heure de son prochain passage à l’atelier quand il la connaîtra.
+
+---
+
+**Conclusion**
+
+Gabin retrouve le service et informe Nora. Plus tard dans la journée, une détresse qui s’accentue rendra nécessaire un autre type d’aide. Nora peut organiser sa part avec les chiffres confirmés.

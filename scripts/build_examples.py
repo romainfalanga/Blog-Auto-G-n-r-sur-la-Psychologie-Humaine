@@ -124,17 +124,28 @@ def extractive_metadata(body, meta):
     Opening and final narrative paragraphs are retained with exact offsets. This
     intentionally does not claim to be an abstractive synopsis of every scene.
     """
+    conclusion_at = body.rfind('\n\n---\n\n**Conclusion**\n\n') if meta.get('clinical_code') else -1
     paragraphs=[]
     for match in re.finditer(r'(?m)(?:^|\n\n)([^\n#][\s\S]*?)(?=\n\n|\Z)', body):
         value=match.group(1).strip()
-        if len(value)<80 or value.startswith(('---','![','<','*À lire','**À lire')):
+        if not value or (conclusion_at == -1 and len(value)<80) or value.startswith(('---','![','<','*À lire','**À lire')):
             continue
         start=body.find(value,match.start())
         paragraphs.append({'quote':value,'start':start,'end':start+len(value)})
-    name=str(meta.get('personnage',''))
-    narrative=[p for p in paragraphs if name and name.casefold() in p['quote'].casefold()]
-    selected=(narrative or paragraphs)
-    selected=([selected[0],selected[-1]] if len(selected)>1 else selected)
+    name=str(meta.get('personnage','')).casefold()
+    narrative = [p for p in paragraphs if name and name in p['quote'].casefold()]
+    if conclusion_at >= 0:
+        stages = list(re.finditer(r'^##[ \t]+.+$', body[:conclusion_at], re.MULTILINE))
+        opening = [p for p in paragraphs if p['end'] <= stages[0].start()]
+        ending = [p for p in paragraphs if stages[-1].end() <= p['start'] < conclusion_at]
+        if not opening or not ending:
+            raise ValueError(f'Missing opening or closing scene: {meta["slug"]}')
+        opening_named = [p for p in opening if p in narrative and len(p['quote']) >= 80]
+        ending_named = [p for p in ending if p in narrative and len(p['quote']) >= 80]
+        selected = [(opening_named or opening)[0], (ending_named or ending)[-1]]
+    else:
+        selected=narrative or paragraphs
+        selected=([selected[0],selected[-1]] if len(selected)>1 else selected)
     selected=list({p['start']:p for p in selected}.values())
     # Whole paragraphs preserve the conclusion rather than chopping mid-clause.
     summary='\n\n[…]\n\n'.join(p['quote'] for p in selected)

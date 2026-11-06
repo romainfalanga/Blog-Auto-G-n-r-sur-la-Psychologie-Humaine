@@ -46,8 +46,9 @@
     "gabin": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "79baf4a65d3b56bff6146ba1ed6cd04e724b4b4bb52b64a515aba9c153f79c6f",
-      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Rattrapage des pertes, honte, difficulté à s’arrêter, conséquences financières et reprise."
+      "article_format": 2,
+      "sha256": "6cd9b26c82408fddb0697aba539c56d2783d9fc1dd3b3e8237a01946c1f5317b",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Rattrapage des pertes, honte, difficulté à s’arrêter, conséquences financières et reprise. Récit et trame revus sur douze épisodes. Rattrapage des pertes, sollicitations, conséquences financières et reprise du jeu sont distincts. Sécurité immédiate et reprise des activités suivent des temporalités différentes."
     },
     "garance": {
       "date": "2026-11-06",
@@ -76,9 +77,10 @@
     "nils": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "7e75be2a831b149bdcff53f9b64a6f78034915a3c6e71048b1aa3c4e20fc2a36",
+      "article_format": 2,
+      "sha256": "d9971f83e5adae493c6b2d681c7842bc1953cbdb9b2b1f84e5af543652335b54",
       "dossier_sha256": "229051260dc269b6395916e836162e5a80db1185e186e1f6018f9f210a48d367",
-      "review": "Vague 4. La question des basilics mène à la première chronique. Raccords du studio, accord de diffusion, vécu psychotique et contacts de suivi vérifiés avec le dossier. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Attention, perceptions auditives, impressions de référence, stigmatisation et reprise du travail."
+      "review": "Vague 4. La question des basilics mène à la première chronique. Raccords du studio, accord de diffusion, vécu psychotique et contacts de suivi vérifiés avec le dossier. Titres, portrait et repères revus à partir des vingt premières fiches. Révision pédagogique. Attention, perceptions auditives, impressions de référence, stigmatisation et reprise du travail. Récit et trame revus sur douze épisodes. Perceptions, idées de référence, attention, mémoire de travail et crainte de rechute sont distinguées. L’ajustement du quotidien conserve sa place à côté du suivi."
     },
     "solene": {
       "date": "2026-11-06",
@@ -300,30 +302,34 @@
     "elina": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "6e02ed471f897f84fbfce6986a921de17aae7c14553310ad75ca7b17d1888920",
+      "article_format": 2,
+      "sha256": "466099b09407a9b652d11c66398c80f132ab713d14e0815f02ece6ebeeca5e95",
       "dossier_sha256": "52a757fe6e9653089ae5b089803b7b0ca118ccd544f07757842cca1e1542181d",
-      "review": "Les douze ouvertures, dénouements et raccords ont été relus. L’évaluation médicale au troisième épisode tient compte du changement et du retentissement. La diffusion du journal et le suivi d’Élina suivent des échéances distinctes. Les limites des appuis et les références du 6B43 ont été vérifiées."
+      "review": "Les douze ouvertures, dénouements et raccords ont été relus. L’évaluation médicale au troisième épisode tient compte du changement et du retentissement. La diffusion du journal et le suivi d’Élina suivent des échéances distinctes. Les limites des appuis et les références du 6B43 ont été vérifiées. Récit et trame revus sur douze épisodes. Perte de repères, préoccupations liées au changement, difficulté à reprendre et évolution après les contretemps sont distinguées dans les scènes et le suivi."
     },
     "timothee": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "5255ef100fa4138165a5475b911ff4a9ca586b288a0225a1790cfe881364f165",
+      "article_format": 2,
+      "sha256": "2dc993cf0c0dea7869607b48a57da31aa5c6163c8c3028ca78e2cc77243bfe6e",
       "dossier_sha256": "1971f55761809cdeedaa2f01735483568ad97784efc1cd918e11125739178f35",
-      "review": "Le diagnostic précède le récit. L’aggravation conduit à une évaluation directe de la sécurité et à un suivi rapproché. La relecture indépendante a vérifié ces passages et les raccords de la photo, du plat et de la première leçon."
+      "review": "Le diagnostic précède le récit. L’aggravation conduit à une évaluation directe de la sécurité et à un suivi rapproché. La relecture indépendante a vérifié ces passages et les raccords de la photo, du plat et de la première leçon. Récit et trame revus sur douze épisodes. Humeur basse durable, dévalorisation, aggravation à évaluer, indécision, sommeil et attention sont distingués. Relais en cas de danger et continuité du soin vérifiés."
     },
     "sebastien": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "c54c6cbd8839e2573de72bd34888b16dc2cb6beed3cc4b611a9d805851c80fd0",
+      "article_format": 2,
+      "sha256": "ca2a38829921fe76dd9cf1a4bf55207db28e6b96bcfcb1aeca242210e598f994",
       "dossier_sha256": "0e9e1e27baf4a0da0e885cf9fac0c474f85bc333df9f8a40dd4ac3ae56651541",
-      "review": "Le calendrier du décor, les accords de diffusion et les rendez-vous de soin ont été relus dans l’ordre. Les manifestations de la dysmorphophobie, les choix d’image et les appuis sont situés dans des scènes distinctes. Les références cliniques du 6B21 ont été recoupées."
+      "review": "Le calendrier du décor, les accords de diffusion et les rendez-vous de soin ont été relus dans l’ordre. Les manifestations de la dysmorphophobie, les choix d’image et les appuis sont situés dans des scènes distinctes. Les références cliniques du 6B21 ont été recoupées. Récit et trame revus sur douze épisodes. Coût des vérifications, évitement, réassurance et jugements anticipés ou perçus. L’accord sur la photo reste une décision distincte de la préoccupation qui suit."
     },
     "nathalie": {
       "date": "2026-11-06",
       "status": "editorially_reviewed",
-      "sha256": "6566efcb052bd61911bb87a685a8036dcb6bfa84d24d4273a364af68f315c068",
+      "article_format": 2,
+      "sha256": "6aa6f25bbc3b88a17e1974565eb070c11a7bdf266988fee51827c7a8a9ef9a95",
       "dossier_sha256": "221a14e8fbef2b4effa24da656df11d8a43be3ccce06d84a3b619b19787a327b",
-      "review": "Relecture indépendante des scènes d’accumulation, des accords avec Agnès et des relais professionnels. L’alerte liée à la fumée est suivie d’une vérification du passage dans le logement. Les raccords du projet sonore et les sources du 6B24 ont été vérifiés."
+      "review": "Relecture indépendante des scènes d’accumulation, des accords avec Agnès et des relais professionnels. L’alerte liée à la fumée est suivie d’une vérification du passage dans le logement. Les raccords du projet sonore et les sources du 6B24 ont été vérifiés. Récit et trame revus sur douze épisodes. Retentissement dans le logement, acquisitions, détresse de séparation et attachement aux objets distingués. La réponse à l’alerte de fumée précède le suivi des accès."
     }
   }
 }

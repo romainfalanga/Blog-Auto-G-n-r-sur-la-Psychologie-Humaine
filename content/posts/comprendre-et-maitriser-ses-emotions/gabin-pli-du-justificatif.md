@@ -34,18 +34,79 @@ Gabin voudrait repartir avec une phrase qui tienne dans un message. La conseill�
 
 Après des pertes au jeu, certaines conséquences continuent d’occuper la vie quotidienne. Une échéance peut approcher alors même que la personne peine à regarder les documents ou à en parler. Remettre les papiers dans sa poche laisse un peu de répit à Gabin. La dépense commune et le montant qui reste à régler sont toujours là quand il ressort la feuille.
 
-## Ce qui lui est difficile à dire
+## Comment l’évitement des comptes prolonge-t-il les conséquences du jeu ?
 
-Gabin prononce facilement le prix des ferrures. Pour parler du loyer, il commence par montrer la date. Le pli masque encore une partie du justificatif et il reprend la liste des chaises dès qu’une somme reste incertaine. À l’atelier, prévoir un achat lui est plus familier que de dire ce qu’il manque pour la dépense commune. À la maison, le même report laisse Nora attendre une information dont elle a besoin.
+### Les papiers se mélangent
 
-## Choisir une transparence qui permet d’agir
+Regrouper toutes les dépenses peut rendre le premier geste difficile.
 
-Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement.
+**Exemples concrets**
 
-Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.
+- Gabin range le loyer avec ses achats personnels.
+- Un échéancier disparaît dans une pile de reçus sans que sa date soit notée.
 
-Nora a besoin de savoir quelle part est versée et ce qui reste incertain pour prendre ses décisions. Gabin peut partager cette information sans lui transférer ses accès, ses documents personnels ou la charge de suivre ses dépenses. Il peut proposer un moment précis pour mettre à jour les chiffres et lui demander si ce format lui convient. Nora reste libre de s’informer sur sa propre situation auprès d’un service compétent et de définir ce qu’elle accepte de payer. Leur accord sur les charges garde ses limites, même si Gabin demande par ailleurs un soutien lié au jeu. La conseillère peut leur indiquer où se tourner si le manque met en difficulté une échéance essentielle.
+### Une dépense facile sert de détour
+
+Parler d’un achat ordinaire peut faire gagner du temps face à un chiffre qui fait honte.
+
+**Exemples concrets**
+
+- Gabin commence l’entretien par le prix des ferrures.
+- Quelqu’un passe en revue les petites courses avant de mentionner le retard d’une charge.
+
+### Une estimation tient lieu de vérification
+
+Le manque peut rester opaque quand certaines sommes ont été comptées plusieurs fois.
+
+**Exemples concrets**
+
+- Gabin connaît son premier versement et hésite encore sur le reste.
+- Une personne promet le même solde pour deux échéances proches.
+
+## 3 techniques pour reprendre des comptes qu’on repousse
+
+### 1. Sortir une feuille utile
+
+Commencer par la conséquence la plus pressante.
+
+**Exercice pratique**
+
+- Cherchez la pièce avec la prochaine date.
+- Mettez de côté les documents sans rapport.
+- Entourez la ligne qui reste à confirmer.
+
+Une première tâche courte peut rendre le dossier abordable.
+
+### 2. Faire vérifier un calcul
+
+Distinguer les sommes sûres des hypothèses.
+
+**Exercice pratique**
+
+- Apportez les justificatifs disponibles à un service de conseil.
+- Signalez le calcul dont vous doutez.
+- Gardez une note de ce qu’il faut encore retrouver.
+
+Le rendez-vous peut éclaircir un point même si des pièces manquent.
+
+### 3. Préparer le message commun
+
+Informer la personne sans ouvrir tout son dossier personnel.
+
+**Exercice pratique**
+
+- Notez le versement confirmé.
+- Ajoutez ce qui reste en suspens.
+- Indiquez quand vous referez les comptes ensemble.
+
+Chacun peut décider de sa part avec les informations qui le concernent.
 
 ## Ce qui tient sur une feuille
 
 Gabin repart avec trois lignes qu’il a rédigées lui-même. La première indique ce qu’il verse. La deuxième, ce qui reste à vérifier pour la charge commune. La troisième donne le jour où il fera le point avec Nora. Il photographie ces lignes et range ses autres papiers. Nora lui écrit qu’elle pourra regarder le document après son propre rendez-vous. Gabin prévient ensuite l’atelier qu’il attend avant d’acheter les ferrures. Cette fois, il sait exactement quelle dépense il reporte.
+
+---
+
+**Conclusion**
+
+Gabin ressort avec une dépense qu’il sait nommer et un achat qu’il reporte. Au service, il pourra revenir au moment où les chiffres lui ont donné envie de rejouer. La feuille ne contiendra que les renseignements qui concernent le foyer.

@@ -34,14 +34,79 @@ Il inscrit un chiffre dans la marge, puis le barre. C’est la somme qu’il vou
 
 Chercher à regagner au jeu une somme déjà perdue peut prolonger les dépenses et aggraver leurs conséquences. Chez Gabin, l’envie se présente comme un moyen de répondre à une question sur le loyer. Il peut reconnaître la situation en reprenant les faits.
 
-## Comment cette difficulté se manifeste
+## Comment l’envie de rattraper une perte peut-elle s’imposer ?
 
-La somme manque aujourd’hui et une mise supplémentaire peut créer une nouvelle perte. La difficulté à s’arrêter malgré les conséquences fait partie de ce que les professionnels examinent dans le trouble lié aux jeux d’argent. Un exemple comme cette pause aide le service à comprendre à quel moment l’idée prend de la place.
+### Une perte devient un objectif
 
-## Sortir la question du loyer du résultat du jeu
+Le chiffre fixe l’attention sur ce qui devrait revenir plutôt que sur l’argent disponible.
 
-Le NICE recommande d’examiner avec la personne ce qui précède les envies de jouer, le rôle qu’elle donne au jeu et ses difficultés financières. Gabin peut apporter deux questions distinctes. Il veut parler au service de ce qui lui arrive quand il a peur d’annoncer une perte. Il souhaite aussi connaître les appuis qui existent pour examiner son budget. Il peut demander un rendez-vous plus proche si l’envie persiste et parler à Nora du montant disponible. La situation du loyer doit être regardée avec les sommes qu’il connaît et, si besoin, l’aide d’un service compétent. Elle ne peut pas être résolue par un gain qu’il imagine.
+**Exemples concrets**
+
+- Gabin inscrit la somme perdue dans la marge avant de la barrer.
+- Une personne pense à retrouver le solde d’avant plutôt qu’au montant qu’elle a encore.
+
+### Le gain imaginé paraît acquis
+
+La personne peut anticiper le soulagement alors que rien n’a changé.
+
+**Exemples concrets**
+
+- Gabin répète mentalement la conversation avec Nora comme si le loyer était réglé.
+- On commence à compter sur un gain hypothétique pour promettre un remboursement.
+
+### Une échéance rend l’idée pressante
+
+L’urgence de rendre des comptes peut faire passer la reprise du jeu pour un moyen de régler le problème.
+
+**Exemples concrets**
+
+- Gabin pense à rejouer en préparant sa réponse pour mercredi.
+- Un rappel de facture fait resurgir la même idée au milieu du travail.
+
+## 3 techniques pour répondre à l’envie de rattraper une perte
+
+### 1. Revenir à l’argent réel
+
+Repérer le moment où un gain imaginé entre dans les comptes.
+
+**Exercice pratique**
+
+- Notez ce qui est déjà disponible.
+- Écartez du calcul toute somme espérée au jeu.
+- Soulignez la charge qui demande une réponse.
+
+La prochaine décision peut reposer sur un montant connu.
+
+### 2. Mettre l’envie en mots
+
+Séparer la pensée de la décision de jouer.
+
+**Exercice pratique**
+
+- Faites une pause dans le calcul.
+- Notez la phrase qui vous traverse.
+- Laissez-la au contact de soins convenu.
+
+L’équipe peut travailler avec vous à partir d’un moment précis.
+
+### 3. Traiter l’échéance autrement
+
+Chercher une action qui répond à la charge sans nouvelle mise.
+
+**Exercice pratique**
+
+- Repérez la personne qui attend une réponse.
+- Fixez avec elle un moment pour le point.
+- Demandez un conseil budgétaire si les montants restent confus.
+
+La charge peut être examinée même si la perte ne peut pas être effacée.
 
 ## Avant de remonter en cuisine
 
 Il range la feuille et laisse au service un message. Il décrit l’envie de rejouer quand il essaye de calculer ce qui manque. Ensuite seulement, il rouvre la conversation avec Nora pour lui proposer le moment qu’ils avaient évoqué. Sur son plateau, le persil a collé au bord de l’assiette. Il retourne au vestiaire et garde le papier avec lui. Le chiffre barré lui servira pour parler de ce qui lui a traversé l’esprit.
+
+---
+
+**Conclusion**
+
+L’envie de revenir à l’équilibre n’offre aucune garantie de récupérer la somme. Gabin garde la trace de cette pensée et apporte ses dépenses à la conseillère. Il lui reste à dire à Nora quand ils pourront faire le point.

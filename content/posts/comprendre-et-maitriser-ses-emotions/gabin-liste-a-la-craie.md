@@ -34,16 +34,79 @@ La bénévole lui laisse le temps de terminer son calcul. Elle dit qu’elle peu
 
 Les conséquences du jeu peuvent toucher les dépenses essentielles et les activités auxquelles une personne tient. Un appui budgétaire peut aider à préciser la marge disponible pour ces activités. Gabin sait quels achats il a suspendus et ce qui lui reste à confirmer pour le loyer.
 
-## Comment cette difficulté se manifeste
+## Comment les pertes au jeu se répercutent-elles sur les loisirs ?
 
-Dans l’atelier, il dispose de bois, d’un nombre limité de ferrures et de deux créneaux. Ces éléments lui permettent de proposer une contribution sans faire dépendre le repas d’argent dont il ignore encore la disponibilité. Le projet garde son intérêt même si une partie des chaises doit être empruntée.
+### L’achat manquant réduit la contribution
 
-## Participer avec un engagement que l’on peut tenir
+Une dépense de loisir peut devenir impossible une fois les charges protégées.
 
-Gabin peut dire ce qu’il pourra livrer et quand il aura besoin de confirmer l’état des chaises. L’association peut expliquer les conditions du prêt et refuser une solution si elle laisse encore trop de travail à répartir. Leurs échanges portent sur les moyens, le temps et les responsabilités. Gabin choisit s’il souhaite aussi expliquer pourquoi il revoit la dépense. L’atelier a surtout besoin de savoir ce qu’il peut prévoir.
+**Exemples concrets**
 
-Ils peuvent garder plusieurs manières de participer. Gabin sait repérer l’espace nécessaire entre deux tables de service. S’il manque un créneau pour monter les dernières chaises, cette compétence peut aussi être utile, à condition que ce soit un accord et que cela tienne dans son horaire.
+- Gabin ne peut plus acheter les ferrures des dernières chaises.
+- Une personne doit reporter l’achat des fournitures d’un club.
+
+### Le nombre annoncé continue de circuler
+
+Le groupe a pu organiser la suite autour d’une estimation faite avant les pertes.
+
+**Exemples concrets**
+
+- Huit bâtons restent inscrits au tableau de l’atelier.
+- Un voisin compte sur une quantité de matériel que personne n’a confirmée.
+
+### L’embarras donne envie de maintenir la promesse
+
+Il peut être difficile d’annoncer une baisse qui touche une activité appréciée.
+
+**Exemples concrets**
+
+- Gabin s’imagine devant la photo des huit chaises.
+- Une personne hésite à signaler qu’elle ne peut plus financer sa part d’une sortie.
+
+## 3 techniques pour adapter un projet aux moyens disponibles
+
+### 1. Compter ce qui est déjà là
+
+Trouver ce qui reste faisable sans nouvel achat.
+
+**Exercice pratique**
+
+- Faites l’inventaire du matériel.
+- Notez la quantité que vous pouvez réellement produire.
+- Vérifiez le temps nécessaire.
+
+Vous pouvez garder une partie du projet dans votre budget.
+
+### 2. Rectifier auprès du groupe
+
+Permettre à d’autres d’organiser ce qui manque.
+
+**Exercice pratique**
+
+- Donnez le nombre que vous confirmez.
+- Précisez la date à laquelle ce sera prêt.
+- Demandez ce que le groupe peut apporter.
+
+Le complément peut devenir une décision collective.
+
+### 3. Choisir une aide qui ne coûte pas
+
+Participer sans déplacer la charge vers une autre dépense.
+
+**Exercice pratique**
+
+- Demandez quelles tâches restent ouvertes.
+- Proposez celle qui tient dans votre horaire.
+- Convenez d’un point de contrôle avant le jour prévu.
+
+Votre participation peut rester utile sans nouvelle promesse financière.
 
 ## Quatre bâtons et un appel
 
 Gabin annonce quatre chaises et un soir pour les vérifier avant qu’elles sortent de l’atelier. La bénévole fait un appel et obtient la confirmation d’un prêt pour les quatre autres. Elle demande qui ira les chercher. Gabin regarde son planning et dit à quel moment il peut être là. Ils gardent la question du transport pour le prochain point. Avant de partir, il reprend la craie et dessine sur le plan le passage qu’il voudrait laisser entre les deux tables.
+
+---
+
+**Conclusion**
+
+Quatre chaises fabriquées et quatre prêtées suffisent pour l’atelier. Au foyer, une autre limite de dépense demandera une conversation différente. La bénévole peut confirmer le prêt dès qu’elle connaît la contribution de Gabin.

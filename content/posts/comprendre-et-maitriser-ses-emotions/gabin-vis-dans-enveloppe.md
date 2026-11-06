@@ -1,12 +1,12 @@
 ---
-title: Reprendre ses activités et son suivi après la crise
+title: Après une crise liée au jeu, reprendre une activité à sa mesure
 description: Après le relais urgent, Gabin reprend son suivi et revient à l’atelier
   pour une tâche convenue avec l’association.
 slug: gabin-vis-dans-enveloppe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Reprise progressive après une crise
+sujet: Retentissement après une crise liée au jeu
 contexte: reprendre une activité choisie après une période difficile et revoir les
   appuis avec les professionnels
 tags:
@@ -30,20 +30,83 @@ Gabin vient du service d’addictologie. Quelques jours se sont écoulés depuis
 
 Il ouvre le rabat et fait glisser la vis sur le bois. Il demande si l’atelier est libre jusqu’à cinq heures. La bénévole a besoin de l’établi un peu avant pour mettre les étiquettes sur les meubles prêtés. Ils disposent d’une demi-heure. Gabin peut vérifier le montage avec elle puis s’arrêter. Il essaie de ne pas transformer cette demi-heure en réponse à tout ce qu’il n’a pas réglé.
 
-## Garder un accès au suivi après la période aiguë
+## Une reprise de l’activité par étapes
 
-Après une reprise du jeu ou une crise, un suivi peut être repris ou adapté selon les besoins de la personne. Le NICE recommande que l’accès au soutien reste possible et que les appuis pour les conséquences du jeu soient discutés avec elle.
+Une crise liée au jeu peut interrompre des activités ordinaires et laisser plusieurs démarches ouvertes. Gabin reprend ses rendez-vous de soins et de conseil tout en essayant un retour court à l’atelier. La reprise d’une tâche choisie donne un repère sur ce qui lui est possible ce jour-là. Le NICE recommande de maintenir un accès à l’accompagnement selon les besoins.
 
-## Comment cette difficulté se manifeste
+## Comment une crise liée au jeu peut-elle encore peser après l’urgence ?
 
-Gabin a repris rendez-vous avec le service et posé une question sur la sécurité. Il peut aussi demander comment les professionnels qu’il a rencontrés vont se coordonner, selon son accord et sa situation. La suite clinique et le point sur ses finances ont leurs interlocuteurs. Il peut exprimer ses préférences, dire ce qui lui paraît encore difficile et vérifier quand il aura une prochaine réponse.
+### Les activités en cours ont été interrompues
 
-## Choisir une tâche qui tient dans la journée
+Le retour demande parfois de reprendre un détail laissé en suspens.
 
-Le retour à une activité peut garder une mesure choisie par la personne. Gabin veut que la chaise soit vérifiée et que l’association sache ce qu’il pourra faire le jour du repas. Il peut faire la première chose maintenant et laisser la seconde pour un autre échange. Si on lui demande comment il va, il peut répondre avec le degré de détail qu’il souhaite. La bénévole garde la possibilité de proposer une autre répartition si le temps manque.
+**Exemples concrets**
 
-Nora n’a pas à accompagner cette reprise. Si elle veut des nouvelles, elle peut en demander en tant que colocataire et amie. Le contact prévu avec le service reste accessible à Gabin indépendamment de l’atelier ou de sa disponibilité.
+- La chaise attend avec la vis dans l’enveloppe.
+- Un voisin a gardé de côté le matériel d’une personne absente.
+
+### La tentation de rassurer élargit la tâche
+
+Une promesse générale peut dépasser ce que la personne sait de ses moyens actuels.
+
+**Exemples concrets**
+
+- Gabin a envie de se rendre disponible pour tout le repas.
+- Une personne veut accepter tous les prochains créneaux dès son retour.
+
+### Les conséquences ont leur propre calendrier
+
+Un retour à un loisir ne solde pas les questions de santé ou d’argent.
+
+**Exemples concrets**
+
+- Gabin passe à l’atelier et a encore un rendez-vous pour le loyer.
+- Une personne reprend une sortie de quartier tout en vérifiant avec son équipe le relais si la détresse revient.
+
+## 3 techniques pour reprendre une activité après le relais urgent
+
+### 1. Borner une tâche choisie
+
+Reprendre une activité sans y engager toute la journée.
+
+**Exercice pratique**
+
+- Choisissez un geste précis avec le groupe.
+- Convenez du temps disponible.
+- Décidez ensemble de ce qui marquera la fin.
+
+La personne peut mesurer l’effort réel de ce retour.
+
+### 2. Annoncer un délai pour le prochain engagement
+
+Garder la possibilité d’en évaluer la charge.
+
+**Exercice pratique**
+
+- Demandez ce que la prochaine tâche exige.
+- Vérifiez votre horaire avant de répondre.
+- Donnez un jour pour confirmer.
+
+Le groupe peut s’organiser sur une promesse vérifiable.
+
+### 3. Retrouver les relais prévus
+
+Garder les questions de santé et de budget auprès des interlocuteurs compétents.
+
+**Exercice pratique**
+
+- Confirmez le prochain échange avec l’équipe.
+- Vérifiez qui appeler selon le besoin.
+- Gardez à part le rendez-vous qui concerne les comptes.
+
+Les démarches peuvent avancer sans être confiées à l’atelier.
 
 ## La chaise près du passage
 
 Gabin replace la vis et demande à la bénévole de vérifier avec lui que la chaise tient correctement. Ils en mettent deux côte à côte pour voir combien de place elles prennent. La bénévole lui propose de venir une heure avant le repas pour les disposer. Il accepte de vérifier son horaire à la cuisine et lui donne le jour où il répondra. Avant de repartir, il laisse la chaise à l’endroit où elle pourra être prise sans déplacer les autres.
+
+---
+
+**Conclusion**
+
+Gabin finit une tâche réelle et laisse la suivante ouverte le temps de vérifier son horaire. Au repas, il pourra voir ce que cet engagement a permis. La bénévole sait quand elle aura sa réponse.

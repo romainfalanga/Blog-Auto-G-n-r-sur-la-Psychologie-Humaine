@@ -27,22 +27,83 @@ C’est au moment où il cherche sa phrase suivante qu’il croit entendre « Ni
 
 « J’ai cru que quelqu’un m’appelait. Ça m’a remué. » Maud lui dit qu’elle n’a pas parlé et lui demande s’il veut rentrer chez lui. Il secoue la tête. Il voudrait s’asseoir une minute dehors avec le papier et reprendre, peut-être. Il ne veut pas expliquer son dossier dans l’escalier. Maud désigne la chaise près du radiateur, où elle pose d’habitude les câbles à réparer. Elle retire les câbles. Quand Nils s’assied, il aperçoit à travers la vitre son pull qui a laissé une fibre sur le siège du studio. L’enregistrement peut rester là lui aussi quelques minutes.
 
-## Une perception difficile à situer
+## Entendre un son qu’on ne peut pas situer
 
-Dans la schizophrénie, il peut arriver qu’une personne entende une voix ou un son sans source extérieure perceptible. Une impression isolée ne suffit pas à établir ce qui s’est passé ni à qualifier une évolution clinique.
+La schizophrénie peut s’accompagner de perceptions auditives sans source extérieure perceptible. Une voix peut sembler proche et distincte alors que les personnes présentes n’ont rien entendu. La netteté de l’impression explique qu’elle puisse interrompre un travail. Un seul moment au casque ne permet pas de déterminer son origine ni de conclure à une rechute.
 
-## Comment cette difficulté se manifeste
+## Comment une perception auditive inhabituelle peut-elle interrompre l’activité ?
 
-Nils sait ce qui l’a troublé : le son lui a paru proche et son prénom a capté son attention. Il peut en parler sans fournir d’explication sûre. Une part de son inquiétude tient au fait qu’il essayait justement de faire entendre sa propre voix.
+### Un mot se détache des autres sons
 
-Maud peut répondre de ce qu’elle sait : elle n’a pas parlé. Elle peut aussi entendre que le moment a été pénible. Chercher ensemble une origine cachée au son, ou lui demander d’admettre sur-le-champ qu’il s’est trompé, ne lui donnerait pas ce qu’il vient chercher dans le couloir. Il lui faut du temps pour décider de la suite de l’essai.
+L’impression peut être très brève tout en ayant la netteté d’une parole ordinaire.
 
-## Convenir d’un signe qui suffit
+**Exemples concrets**
 
-L’accord à trouver au studio est simple : quel geste fait arrêter une prise, et qui donne le signal pour la reprendre ? Nils propose la paume levée. Maud peut couper l’enregistrement dès qu’elle la voit. Ils peuvent faire le point ensuite hors du micro, qu’il ait levé la main pour une sensation difficile, une erreur de texte ou le col du pull. Ce geste vaut pour leur manière de travailler.
+- Nils croit entendre son prénom entre deux phrases sous le casque.
+- Au calme chez soi, une personne pourrait entendre un mot distinct sans situer de voix dans la pièce.
 
-La question de santé suit son propre chemin. Nils a rendez-vous jeudi avec l’équipe de secteur. Il veut lui décrire le moment avec ses propres mots et se demander avec elle ce qui justifierait d’appeler plus tôt une autre fois. Le NICE invite à discuter du partage d’informations avec la personne et les proches concernés. Ici, la collègue peut tenir son rôle au studio avec ce que Nils choisit de lui dire.
+### On ne trouve pas de source commune
+
+La personne entend quelque chose que l’autre ne peut pas confirmer. Le désaccord sur ce qui a été entendu laisse l’expérience et son effet bien présents.
+
+**Exemples concrets**
+
+- Nils lève les yeux vers la console et Maud lui dit qu’elle n’a pas parlé.
+- Dans une entrée, on pourrait avoir entendu quelqu’un appeler alors que l’autre personne n’a perçu que la porte.
+
+### L’effet dure après le son
+
+Même quand la perception s’arrête, la surprise ou la crainte peut rendre la reprise difficile.
+
+**Exemples concrets**
+
+- Dans le couloir, Nils tient encore son casque et cherche d’abord une chaise.
+- Chez soi, une personne pourrait poser le livre qu’elle lisait et avoir besoin d’un instant avant de reprendre.
+
+## 3 techniques pour faire une pause et décider de la suite
+
+### 1. Suspendre la tâche en cours
+
+Se dégager de l’obligation de parler ou d’agir immédiatement.
+
+**Exercice pratique**
+
+- Faites le signe d’arrêt convenu ou dites « pause ».
+- Posez le matériel si vous pouvez le faire sans risque.
+- Choisissez un endroit où vous pouvez vous asseoir tranquillement.
+
+La pause peut laisser le temps de décider si la tâche peut reprendre.
+
+### 2. Dire l’effet sans résoudre l’origine
+
+Obtenir une présence ou de l’espace sans enquête sur le son.
+
+**Exercice pratique**
+
+- Décrivez brièvement ce que vous avez cru entendre.
+- Dites ce que cela vous fait maintenant.
+- Demandez une aide précise ou un moment seul.
+
+Cette formulation peut permettre à l’autre de répondre au besoin immédiat.
+
+### 3. Garder les faits pour le suivi
+
+Donner à l’équipe un récit utile si la perception inquiète ou se répète.
+
+**Exercice pratique**
+
+- Notez le lieu et le moment une fois au calme.
+- Ajoutez ce qui a changé dans votre activité ensuite.
+- Parlez-en à votre équipe selon le plan convenu, plus tôt si les expériences s’accentuent ou vous inquiètent.
+
+Le contexte peut aider les soignants à apprécier ce changement avec vous.
 
 ## Le fichier sans date de diffusion
 
 Nils retourne dans la cabine et essaie la paume une fois, avant de parler. La petite barre rouge s’arrête sur l’écran. Maud attend son signe de tête pour lancer une nouvelle prise. Il lit la question, laisse un silence, puis dit ce qu’il demande à la cliente avant de parler d’arrosage. Ils écoutent la minute à voix basse. Elle contient un mot répété et un froissement de papier qui lui plaît assez. Maud l’enregistre sous « Basilic — essai » et lui en envoie une copie. Nils lui dit qu’elle peut le garder pour leur travail et lui demande de revenir vers lui s’ils veulent le diffuser.
+
+---
+
+**Conclusion**
+
+Le son a assez remué Nils pour qu’il interrompe l’essai. Il choisit ensuite une nouvelle prise et garde la question de la perception pour son entretien de suivi. À côté de lui, Maud peut écouter ce qu’il a vécu et respecter son signe de pause.

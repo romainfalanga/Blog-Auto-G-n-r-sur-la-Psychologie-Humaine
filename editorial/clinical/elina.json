@@ -31,13 +31,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Du panneau au comptoir, le fil perdu",
-          "text": "La question de Mireille porte sur un métier. Pour Élina, elle ouvre une conversation qu’elle croyait terminée et dans laquelle elle revient depuis son départ. Une fois dans l’allée des fleurs, elle ne se souvient plus du meuble, puis le souvenir du pain arrive quand Lucien range ses achats. Il n’a accès qu’à ce dernier moment. À la maison, le formulaire reste sur la table. Élina l’a commencé deux fois cette semaine, puis a rouvert les messages de son ancienne équipe pour vérifier ce qu’elle avait écrit. Même chez elle, une tâche courte reste en plan."
+          "heading": "Comment la perte de repères se voit-elle dans une journée ?",
+          "points": [
+            {
+              "heading": "Un trajet qui change de sens",
+              "text": "Quand un lieu reste mal connu, une rencontre imprévue peut détourner le fil d’une course déjà moins automatique.",
+              "examples": [
+                "Élina quitte le panneau des annonces et n’arrive plus à dire pourquoi elle se trouve dans l’allée des fleurs.",
+                "Une personne qui vient de déménager peut rentrer du nouveau quartier avec ses courses et avoir oublié le dépôt de courrier prévu sur le trajet."
+              ]
+            },
+            {
+              "heading": "Les interlocuteurs ne sont plus les mêmes",
+              "text": "Quand des échanges familiers disparaissent, des questions ordinaires peuvent demander davantage d’efforts.",
+              "examples": [
+                "Au bureau, il suffisait qu’Élina dise qu’elle préparait les textes. À Mireille, elle cherche encore les mots pour présenter ce qu’elle faisait.",
+                "Quelqu’un qui connaissait son ancienne gardienne peut hésiter à demander le jour de sortie des bacs au nouveau voisin."
+              ]
+            },
+            {
+              "heading": "Un détail ramène à ce qui a changé",
+              "text": "Dans le trouble de l’adaptation, les conséquences d’un changement peuvent occuper une place qui gêne les tâches en cours. Cette scène montre ce que le détour prend à Élina.",
+              "examples": [
+                "Elle repasse sa dernière conversation du bureau au lieu de revenir chercher son pain à onze heures.",
+                "À sa table, elle rouvre les messages de l’équipe et laisse le formulaire de changement d’adresse à moitié rempli."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Préserver l’invitation, reprendre une tâche",
-          "text": "Élina peut revenir au comptoir et demander si son pain est toujours disponible. Elle peut aussi demander à Mireille où se renseigner pour le meuble et lui dire ce qui l’intéresse dans le journal, sans encore lui promettre du temps. À la maison, elle peut chercher de quoi compléter le formulaire et le laisser en évidence pour une raison précise, avec la pièce qui lui manque, plutôt que comme rappel de tout ce qui reste en attente. Si les difficultés continuent, elle pourra décrire la course interrompue et la démarche qu’elle a reprise deux fois sans avancer."
+          "heading": "3 techniques pour retrouver un point d’appui",
+          "points": [
+            {
+              "heading": "Retrouver la première course",
+              "objective": "Retenir le geste qui avait motivé la sortie.",
+              "exercise": [
+                "Repérez ce que vous étiez venu faire.",
+                "Vérifiez auprès de la personne concernée si c’est encore possible.",
+                "Remettez les autres arrêts à un moment précis si nécessaire."
+              ],
+              "benefit": "Un repère concret peut aider à retrouver le fil de la matinée."
+            },
+            {
+              "heading": "Identifier une personne du quartier",
+              "objective": "Rendre une démarche nouvelle un peu plus familière.",
+              "exercise": [
+                "Choisissez une question simple, par exemple où donner un meuble.",
+                "Adressez-la à une personne qui connaît le quartier.",
+                "Notez le nom du lieu ou demandez à être orienté ailleurs."
+              ],
+              "benefit": "Un échange précis peut réduire la part d’inconnu dans une démarche."
+            },
+            {
+              "heading": "Décrire une interruption ordinaire",
+              "objective": "Garder un exemple de retentissement si la gêne se répète.",
+              "exercise": [
+                "Notez ce que vous étiez en train de faire.",
+                "Ajoutez ce qui a pris votre attention.",
+                "Repérez la conséquence et parlez-en à un professionnel si les difficultés gênent vos journées."
+              ],
+              "benefit": "Cet exemple peut rendre une consultation plus concrète."
+            }
+          ]
         }
       ],
       "ending_title": "Le journal à emporter",
@@ -53,7 +109,8 @@
       "continuity": {
         "choice": "Élina revient chercher le pain et accepte seulement de lire le journal avant de répondre à Mireille.",
         "next": "Lucien propose un café le dimanche. Le numéro reste chez Élina avec le formulaire inachevé, et Mireille attend une réponse lundi."
-      }
+      },
+      "conclusion": "Le pain attend encore au comptoir, et le formulaire reste ouvert. L’un et l’autre donnent une mesure de ce que coûte à Élina la perte de plusieurs habitudes à la fois. Lucien peut lui montrer un lieu ou proposer un café à partir de ce qu’ils partagent ce matin."
     },
     {
       "number": 2,
@@ -77,13 +134,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le café qui a refroidi",
-          "text": "Lucien était prêt à sortir quand il a constaté qu’Élina ne venait pas. De sa porte, il ne pouvait pas voir qu’elle avait eu trois fois l’intention de se lever de table. Elle se rappelle aussi avoir regardé l’heure à deux reprises en croyant qu’elle avait encore le temps. La même impression la suit jusque dans son lit. Les nuits où elle tarde à s’endormir, elle a beau éteindre l’écran, elle continue à reprendre la conversation. Le café manqué touche un lien qu’elle tenait à nouer. Le formulaire repassé sous le journal montre que cette gêne touche aussi des tâches dont personne ne lui demande des nouvelles."
+          "heading": "Comment une préoccupation envahissante reprend-elle la place ?",
+          "points": [
+            {
+              "heading": "Relire pour élucider une phrase",
+              "text": "Le souci a un objet précis. Les informations disponibles peuvent rester les mêmes à chaque retour.",
+              "examples": [
+                "Élina remonte la conversation pour entendre autrement « On fera comme on pourra ».",
+                "Une personne peut relire un message de départ pour vérifier le ton d’une réponse qui lui a déjà paru ambiguë."
+              ]
+            },
+            {
+              "heading": "Refaire le départ dans sa tête",
+              "text": "La pensée peut revenir sous la forme de scénarios où l’on imagine ce qui se serait passé en agissant autrement.",
+              "examples": [
+                "Élina se demande si l’équipe l’aurait saluée autrement en apprenant plus tôt son départ.",
+                "Une personne peut repasser plusieurs fois la remise des clés en imaginant la phrase qu’elle aurait pu dire."
+              ]
+            },
+            {
+              "heading": "Quitter la tâche sans s’en apercevoir",
+              "text": "Le coût du retour se voit parfois seulement lorsqu’une autre action n’a pas eu lieu.",
+              "examples": [
+                "Le téléphone annonce que Lucien est sorti avant qu’Élina remarque le temps écoulé.",
+                "Un autre soir, elle ferme l’écran puis reprend l’échange dans sa tête au moment de s’endormir."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Écrire deux exemples avant d’appeler",
-          "text": "Élina peut noter d’un côté ce qui demande une action réelle aujourd’hui, de l’autre la question qui revient au sujet du départ. Le but est de retrouver ce qu’elle était en train de faire, même si la question est toujours là. Pour un rendez-vous médical, elle peut partir de ce qu’elle n’arrive plus à faire comme avant et préciser depuis quand elle s’en aperçoit. Elle n’a besoin ni d’une explication achevée ni d’un relevé détaillé de ses nuits. Si elle souhaite un renseignement de Lucien sur les cabinets du quartier, elle peut lui dire uniquement qu’elle cherche un généraliste."
+          "heading": "3 techniques pour reprendre le fil d’une tâche",
+          "points": [
+            {
+              "heading": "Séparer le souci de l’action",
+              "objective": "Identifier ce qui peut avancer dans l’immédiat.",
+              "exercise": [
+                "Nommez en quelques mots la question qui revient.",
+                "Cherchez s’il y a une information nouvelle à demander.",
+                "Revenez à la démarche du moment si rien n’est à décider maintenant."
+              ],
+              "benefit": "La distinction peut éviter de traiter chaque retour de pensée comme une obligation."
+            },
+            {
+              "heading": "Répondre à la demande écrite",
+              "objective": "Délimiter la réponse que le message appelle réellement.",
+              "exercise": [
+                "Relisez la dernière question de l’association.",
+                "Repérez le jour et le geste proposés.",
+                "Répondez sur ce seul engagement ou demandez du temps."
+              ],
+              "benefit": "Une réponse limitée laisse la cadence pour un échange ultérieur."
+            },
+            {
+              "heading": "Préparer un premier contact",
+              "objective": "Décrire le débordement sur des moments ordinaires.",
+              "exercise": [
+                "Choisissez un rendez-vous ou une tâche interrompue.",
+                "Ajoutez un exemple lié au sommeil si cela vous concerne.",
+                "Contactez le cabinet et dites en quelques mots ce que vous souhaitez aborder."
+              ],
+              "benefit": "Les exemples donnent au médecin un point de départ pour l’entretien."
+            }
+          ]
         }
       ],
       "ending_title": "La question qui tient sur une ligne",
@@ -100,7 +213,8 @@
       "continuity": {
         "choice": "Élina prend un rendez-vous médical et répond à la proposition exacte de Mireille, avec une confirmation à donner jeudi.",
         "next": "Elle emporte deux exemples au rendez-vous mercredi. La rencontre avec l’association reste limitée à une page et dépend de sa confirmation."
-      }
+      },
+      "conclusion": "Élina reprend la proposition écrite de Mireille et note ce qui est resté en plan. Elle peut porter ces observations à sa médecin. Lucien peut contribuer par un renseignement ou une nouvelle invitation selon sa disponibilité."
     },
     {
       "number": 3,
@@ -124,13 +238,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Les faits que personne n’avait ensemble",
-          "text": "Chaque personne qui a croisé Élina jusque-là n’a vu qu’une partie de son quotidien. La boulangère sait qu’elle est revenue tard chercher le pain. Lucien sait qu’elle a raté un café et qu’elle dort mal. Au cabinet, Élina peut dire que ces moments se répètent et expliquer ce qui occupe alors son attention. Elle reconnaît qu’il lui arrive encore de faire des choses qui l’intéressent, puis de devoir consacrer beaucoup d’efforts à une démarche banale ou à un message. Ce contraste fait partie de ce que la docteure cherche à comprendre. Il dit ce que le changement lui coûte même quand la matinée a l’air de s’être bien passée."
+          "heading": "Comment le médecin relie-t-il les difficultés au changement ?",
+          "points": [
+            {
+              "heading": "Situer le début des difficultés",
+              "text": "L’ordre des événements aide le médecin à comprendre la situation dans laquelle les difficultés sont apparues.",
+              "examples": [
+                "Élina situe son déménagement dix jours après avoir rendu la clé du bureau.",
+                "Lorsqu’elle parle de ses soirées à reprendre les échanges, la docteure lui demande comment elle dormait auparavant."
+              ]
+            },
+            {
+              "heading": "Regarder plusieurs conséquences",
+              "text": "Les faits prennent leur sens dans les habitudes et les domaines qu’ils touchent.",
+              "examples": [
+                "Le café manqué concerne un contact qu’Élina souhaitait nouer.",
+                "Le formulaire toujours en attente lui fait décrire l’effort que demande une démarche courante depuis le départ."
+              ]
+            },
+            {
+              "heading": "Explorer d’autres explications",
+              "text": "Une expérience stressante peut accompagner plusieurs types de difficultés. La médecin écoute aussi ce qui se passe en dehors des rappels du bureau.",
+              "examples": [
+                "Élina décrit les moments où elle retrouve son intérêt pour le journal et les interruptions qui persistent.",
+                "La docteure lui demande si des inquiétudes surviennent ailleurs et s’informe sur sa santé et d’éventuelles périodes semblables."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Savoir ce que la consultation ouvre",
-          "text": "La personne peut demander comment le médecin comprend la situation et ce qui pourrait amener à revoir cette compréhension. Elle peut aussi dire ce qu’elle a les moyens d’essayer et ce qu’elle préférerait remettre à une prochaine discussion. Élina et la docteure peuvent convenir de reprendre des exemples de journées, examiner les options d’accompagnement et préciser quand reprendre contact si les difficultés s’accentuent. L’activité à la halle est une décision séparée. Élina peut en parler au cabinet pour décrire ce qu’elle souhaite faire, puis choisir avec l’association une présence qui lui convient."
+          "heading": "3 techniques pour préparer une évaluation",
+          "points": [
+            {
+              "heading": "Construire une courte chronologie",
+              "objective": "Retrouver l’ordre des changements et des premiers effets.",
+              "exercise": [
+                "Notez le premier changement dont vous vous souvenez.",
+                "Situez un exemple de gêne apparu ensuite.",
+                "Indiquez ce que vous faisiez ou ressentiez auparavant dans la même situation."
+              ],
+              "benefit": "Cette comparaison peut aider le médecin à situer ce qui a changé."
+            },
+            {
+              "heading": "Apporter un moment ordinaire",
+              "objective": "Expliquer un effet concret à partir de son propre point de vue.",
+              "exercise": [
+                "Choisissez une tâche qui a pris plus de place que prévu.",
+                "Dites ce qui occupait votre attention à ce moment.",
+                "Précisez ce qui a été interrompu ou remis à plus tard."
+              ],
+              "benefit": "Le détail peut montrer une gêne peu visible de l’extérieur."
+            },
+            {
+              "heading": "Noter la suite convenue",
+              "objective": "Pouvoir reprendre la discussion si les difficultés évoluent.",
+              "exercise": [
+                "Demandez comment la médecin comprend la situation actuelle.",
+                "Convenez du prochain échange.",
+                "Notez comment joindre le cabinet si vous avez besoin de reprendre contact avant."
+              ],
+              "benefit": "Un point de contact clair peut faciliter la suite du suivi."
+            }
+          ]
         }
       ],
       "ending_title": "Deux dates dans le carnet",
@@ -148,37 +318,94 @@
       "continuity": {
         "choice": "La docteure pose le diagnostic à l’issue de l’évaluation. Élina prend le rendez-vous de suivi et confirme à Mireille la lecture d’une page.",
         "next": "Samedi, Élina se rend à l’association avec ce seul engagement. Le suivi médical est prévu dans trois semaines, avec possibilité de reprendre contact avant."
-      }
+      },
+      "conclusion": "La docteure Roussel relie plusieurs changements vécus par Élina et pose le diagnostic pendant la consultation. Elles conviennent d’un suivi. Pour marcher avec elle samedi, Lucien a seulement besoin de connaître le lieu et l’heure qui leur conviennent."
     },
     {
       "number": 4,
       "slug": "elina-reprise-activite-limitee",
-      "title": "Reprendre une activité à la mesure de la journée",
-      "description": "À l’association, un ancien journal donne à Élina une idée de rubrique. Elle décide quelle part elle veut essayer cette semaine.",
+      "title": "Quand la charge qu’on imagine freine la reprise",
+      "description": "Une rubrique intéresse Élina. À la vue de la liste des rôles, elle se sent déjà chargée de tout le journal.",
       "context": "Le samedi suivant, dans le local de l’association de la halle",
       "topics": [
-        "Reprise choisie",
-        "Engagement limité",
-        "Nouveaux appuis"
+        "Charge anticipée",
+        "Rappel du rôle professionnel",
+        "Reprise choisie"
       ],
-      "clinical_focus": "Reprise d’activité à une échelle choisie",
-      "clinical_intro": "Élina a envie d’écrire de nouveau et craint déjà de devoir produire un journal entier. Après une période où même certaines tâches courtes ont pris beaucoup de place, un engagement peut être défini à la mesure de ce qu’elle souhaite essayer. L’association lui offre l’occasion de distinguer le plaisir d’une rencontre, le travail que demande un article et les responsabilités qu’elle ne veut pas encore prendre.",
+      "clinical_focus": "Anticipation de la charge à reprendre",
+      "clinical_intro": "À la vue des anciens numéros, Élina a envie d’écrire et imagine déjà les appels, les corrections et le prix du papier. Après le départ de son poste, les responsabilités qui lui reviennent en tête occupent une place dans une demande qui portait sur une seule page. Elle doit retrouver ce que Mireille lui propose et la part du projet qu’elle veut essayer.",
       "opening": "Mireille a retrouvé deux autres numéros et les maintient ouverts avec une boîte de punaises. Le local sent le papier qui a pris l’humidité. À côté des anciens feuillets, une feuille blanche porte le titre « À qui de jouer ? ». Trois personnes ont inscrit leur prénom dans une colonne. Élina est venue regarder une page, comme convenu. Elle a pris le chemin de la halle avec Lucien, puis lui a dit au revoir chez le fromager. Depuis qu’elle s’est assise, elle a déjà repéré un horaire sans jour et deux noms de rues mal orthographiés. C’est agréable de les voir. Aussitôt, elle se dit qu’elle pourrait tout vérifier.\n\nMireille lui demande quelle rubrique elle garderait. Dans un des numéros, on voit des photos de stands prises de loin. Élina préfère le dessin du crochet dans l’exemplaire qu’elle a rapporté. Une personne y a pris le temps de regarder à quoi servait un petit objet. Par la fenêtre, elle aperçoit Farida, qui a posé des bouquets de menthe dans un pot bleu, lourd au point de tenir la toile d’un panier quand elle replie son étal. Élina a envie de lui demander d’où vient ce pot. Elle inscrit « Un objet, une histoire » sur le revers d’une annonce périmée.\n\nMireille rapproche la feuille des prénoms. « Je te mets où ? » Sur le tableau figurent aussi les horaires du marché, le prix du papier et les gens à rappeler. Pendant une seconde, Élina regrette d’avoir écrit son idée. Elle pose la feuille entre elles, près de la boîte de punaises.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’un premier essai permet de savoir",
-          "text": "Reprendre une activité qui compte peut donner une occasion de retrouver un repère après un changement. On peut essayer une tâche particulière et observer la place qu’elle prend. Avoir envie de la faire donne une information. Le temps, la concentration et les relations qu’elle demande en donnent d’autres. Le trouble de l’adaptation peut encore gêner une personne qui manifeste de l’intérêt pour un projet. Ici, le rôle de rédactrice bénévole offre à Élina une façon de rencontrer les commerçants. L’association doit aussi répartir le travail pour que le plaisir de poser une question ne se transforme pas, par défaut, en responsabilité du numéro entier."
+          "heading": "Quand un ancien rôle occupe encore la pensée",
+          "text": "La crainte de la charge peut freiner une activité qui a pourtant de l’intérêt. Chez Élina, la liste des tâches fait revenir une façon de travailler qu’elle connaissait au bureau. Elle se représente plusieurs journées de responsabilités alors que Mireille lui demande où elle veut inscrire son nom. Dans un trouble de l’adaptation, les préoccupations liées au changement ou à ses conséquences peuvent compliquer une reprise. Le plaisir que lui donne l’idée de rencontrer Farida et la gêne devant le projet entier coexistent. L’association peut l’entendre à partir de la contribution qu’elle choisit."
         },
         {
           "role": "manifestations",
-          "heading": "Une bonne idée qui arrive avec le reste",
-          "text": "Devant les feuilles, Élina éprouve d’abord le plaisir de repérer un détail. Puis l’association lui rappelle son ancien poste, où elle se sentait chargée de corriger chaque erreur qu’elle voyait. Elle imagine les corrections, la fabrication et les appels alors qu’aucune de ces tâches ne lui a été confiée. Son hésitation arrive au moment où Mireille approche la liste. Mireille entend une idée de rubrique. Élina entend tout ce qui pourrait suivre si elle se met à la bonne place sur le tableau. En regardant le pot bleu, elle remarque qu’elle a envie de sortir parler à quelqu’un."
+          "heading": "Comment la charge qu’on imagine peut-elle freiner la reprise ?",
+          "points": [
+            {
+              "heading": "Voir d’abord le travail qui manque",
+              "text": "Un projet souhaité peut aussitôt faire revenir la quantité de tâches liées à l’ancien rôle.",
+              "examples": [
+                "Élina apprécie de reconnaître un horaire incomplet et pense aussitôt qu’elle pourrait vérifier toute la feuille.",
+                "À la vue d’une affiche mal imprimée, une ancienne maquettiste peut déjà imaginer tout le travail de fabrication qui suivrait."
+              ]
+            },
+            {
+              "heading": "Entendre une demande plus large que celle qui est faite",
+              "text": "Les conséquences qu’on redoute peuvent prendre plus de place que la question posée.",
+              "examples": [
+                "Quand Mireille approche la liste, Élina pense aux appels et au prix du papier alors qu’on lui demande où inscrire son nom.",
+                "Quelqu’un invité à relire un menu peut comprendre qu’il devra gérer les corrections de toute l’équipe."
+              ]
+            },
+            {
+              "heading": "Hésiter malgré une envie précise",
+              "text": "L’inquiétude liée à la charge et l’intérêt pour une tâche peuvent apparaître au même moment.",
+              "examples": [
+                "Élina regrette un instant d’avoir parlé de sa rubrique alors qu’elle veut toujours poser une question à Farida.",
+                "Une personne intéressée par une permanence peut hésiter si elle s’imagine déjà responsable de chaque samedi."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Décrire l’essai avec un verbe",
-          "text": "L’association peut demander à Élina si elle souhaite écouter, rédiger ou relire. Un début et une fin visibles rendent l’accord plus facile à revoir. Pour elle, cela peut être de demander à Farida si elle aimerait raconter l’histoire du pot, puis d’en tirer un texte court si toutes deux en ont envie. Mireille peut conserver les horaires et les appels. Élina pourra voir ce qu’une rencontre lui coûte, y compris après son retour à la maison. Le projet peut s’arrêter à un texte d’essai si le journal ne trouve pas d’autres volontaires pour la suite."
+          "heading": "3 techniques pour distinguer l’essai du projet entier",
+          "points": [
+            {
+              "heading": "Choisir le premier geste",
+              "objective": "Donner un périmètre à l’activité dont on a envie.",
+              "exercise": [
+                "Nommez le geste qui vous intéresse.",
+                "Identifiez la personne avec qui en parler.",
+                "Convenez de ce que vous voulez avoir fait à la fin de l’essai."
+              ],
+              "benefit": "Le projet peut prendre une taille plus facile à discuter."
+            },
+            {
+              "heading": "Regarder la feuille des rôles",
+              "objective": "Vérifier quelle responsabilité l’équipe propose effectivement.",
+              "exercise": [
+                "Demandez à quelle ligne le prénom serait inscrit.",
+                "Précisez ce que vous acceptez de prendre.",
+                "Laissez les tâches restantes aux personnes qui les choisissent."
+              ],
+              "benefit": "Les rôles écrits peuvent éviter d’attribuer tout le projet à la première personne qui a une idée."
+            },
+            {
+              "heading": "Revenir sur la charge après l’essai",
+              "objective": "Observer le coût d’une tâche avant d’en prendre une autre.",
+              "exercise": [
+                "Choisissez une date pour en reparler.",
+                "Repérez le temps et l’attention que l’essai a pris.",
+                "Décidez si vous gardez ce format ou si vous le modifiez."
+              ],
+              "benefit": "L’équipe peut adapter le projet à des disponibilités mieux connues."
+            }
+          ]
         }
       ],
       "ending_title": "Un pot et une colonne",
@@ -194,7 +421,8 @@
       "continuity": {
         "choice": "Élina choisit un seul texte d’essai sur le pot bleu. Farida lui donne rendez-vous mardi et relira le texte avant diffusion.",
         "next": "Mireille attend une mise en commun le samedi suivant et garde la charge des horaires. Élina aborde l’entretien avec un périmètre annoncé."
-      }
+      },
+      "conclusion": "Élina a envie d’entendre l’histoire du pot. Le tableau lui permet de choisir cette rencontre et de laisser les autres rôles visibles. Mireille peut organiser la suite à partir d’un engagement précis."
     },
     {
       "number": 5,
@@ -218,13 +446,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Trois lignes qui occupent la soirée",
-          "text": "Le plaisir de l’entretien a été réel. Farida a laissé Élina regarder comment elle prenait le pot, et une phrase suffit à évoquer le geste. À la rédaction, une formule la détourne de cette phrase et la ramène à l’ancien bureau. Ce détour s’ajoute au travail qui demande vraiment de l’attention. Quand Mireille demande si un autre texte tiendra sous le premier, elle parle de place sur la page. Pour Élina, la même question touche les heures qui viennent de passer et le dîner qui attend. Elle n’avait pas prévu de devoir choisir entre la version propre et le reste de sa soirée."
+          "heading": "Comment l’effort supplémentaire reste-t-il parfois invisible ?",
+          "points": [
+            {
+              "heading": "Un résultat aussi propre qu’avant",
+              "text": "La qualité de ce qui est rendu peut masquer le temps et l’attention qu’il a fallu y consacrer.",
+              "examples": [
+                "L’article envoyé à Mireille tient en quelques lignes, après une soirée de relectures.",
+                "Une personne peut arriver à l’heure après avoir dû vérifier trois fois son itinéraire et repousser un autre rendez-vous."
+              ]
+            },
+            {
+              "heading": "Des détours qui allongent la tâche",
+              "text": "Une pensée liée au changement peut reprendre de la place au milieu du travail réel.",
+              "examples": [
+                "En corrigeant « depuis toujours », Élina retourne lire les archives du bureau.",
+                "Pour remplir une enveloppe, elle peut chercher un document et rouvrir ensuite les messages de son ancienne équipe."
+              ]
+            },
+            {
+              "heading": "Un reste de journée plus difficile à tenir",
+              "text": "Le coût d’une tâche se voit aussi dans ce qui se décale après elle.",
+              "examples": [
+                "L’assiette reste vide alors qu’Élina termine une version correcte.",
+                "Après un achat qu’elle voulait faire, elle peut manquer de disponibilité pour répondre à une invitation qu’elle attendait."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire compter le temps réel",
-          "text": "On peut discuter du travail avant de s’accorder sur ce que la feuille contiendra. Élina peut envoyer ce qu’elle a rédigé en indiquant qu’elle s’en tient pour l’instant à un texte et qu’elle veut une seule relecture à deux. Elle peut prévoir de soumettre la phrase et l’origine du pot à Farida, qui sait précisément ce qu’elle a voulu dire. Le café manqué disait ce qu’Élina avait laissé de côté. La soirée montre ce que lui a coûté l’engagement qu’elle a pu tenir en partie. Elle pourra en parler lors du suivi. Si plusieurs tâches empiètent ainsi sur ses repas ou ses nuits, elle peut en parler à sa médecin."
+          "heading": "3 techniques pour tenir compte du coût réel",
+          "points": [
+            {
+              "heading": "Nommer le travail déjà fait",
+              "objective": "Faire entrer le temps passé dans une décision de charge.",
+              "exercise": [
+                "Notez l’heure ou le moment où vous avez commencé.",
+                "Repérez ce que la tâche a fait décaler.",
+                "Dites à votre interlocuteur ce que vous pouvez prendre ensuite."
+              ],
+              "benefit": "La discussion peut porter sur la charge vécue autant que sur la place sur la page."
+            },
+            {
+              "heading": "Partager une relecture précise",
+              "objective": "Répartir l’attention nécessaire sur un dernier point.",
+              "exercise": [
+                "Choisissez la phrase qui pose question.",
+                "Convenez d’une lecture commune à une heure disponible.",
+                "Identifiez la personne qui vérifiera le contenu avant diffusion."
+              ],
+              "benefit": "Une relecture partagée peut rendre plus visible la fin du travail."
+            },
+            {
+              "heading": "Apporter un résultat qui a coûté",
+              "objective": "Donner au suivi un exemple d’effort derrière une tâche accomplie.",
+              "exercise": [
+                "Choisissez une tâche dont vous avez tenu l’engagement.",
+                "Décrivez les interruptions et ce qui est resté en attente.",
+                "Parlez-en à votre médecin si ces débordements se répètent."
+              ],
+              "benefit": "Le professionnel peut examiner ce que le résultat ne montre pas."
+            }
+          ]
         }
       ],
       "ending_title": "Une seule colonne jointe",
@@ -240,7 +524,8 @@
       "continuity": {
         "choice": "Élina transmet un seul article d’essai et fixe une seule lecture à deux. Mireille garde la place restante pour les horaires.",
         "next": "Samedi, la lecture est prévue avant de faire valider le texte par Farida. Le travail de l’ancien bureau revient encore à l’esprit d’Élina."
-      }
+      },
+      "conclusion": "Le texte est parti, et Élina s’est enfin mise à table. Dire ce qu’a pris cette première colonne l’aide à convenir d’une seule relecture. Mireille dispose d’une information sur la charge, qu’elle peut mettre en regard de la sienne."
     },
     {
       "number": 6,
@@ -264,13 +549,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le trajet vers la sortie",
-          "text": "Élina n’a pas refusé la relecture. Elle a ralenti, trouvé une raison de traverser et commencé à regarder des boîtes d’œufs. Quand Mireille lui parle, son texte est là, mais elle le tient d’abord à l’envers. Elle reconnaît ce temps passé à se demander ce qui se fait désormais sans elle. Le pot correspond à la raison de sa venue. La pensée du bureau lui revient sans qu’elle ait voulu l’examiner. Mireille ne connaît ni le message de Yasmine ni ce que la photo a fait remonter."
+          "heading": "Comment un rappel du départ agit-il au milieu d’une autre activité ?",
+          "points": [
+            {
+              "heading": "Un détail familier prend toute la place",
+              "text": "Le rappel peut être discret et devenir très présent par ce qu’il évoque.",
+              "examples": [
+                "Le papier crème ramène Élina à l’armoire et aux livraisons de couvertures.",
+                "Une notification d’un ancien groupe de travail peut ramener une personne au dernier jour où elle y a écrit."
+              ]
+            },
+            {
+              "heading": "Le détour pour s’éloigner du rappel",
+              "text": "Une personne peut chercher à quitter le moment où les pensées reprennent, même si elle y était venue pour autre chose.",
+              "examples": [
+                "Élina se retrouve devant les œufs qu’elle ne voulait pas acheter.",
+                "Quelqu’un peut reporter une visite au marché parce que le chemin passe devant un lieu associé au poste quitté."
+              ]
+            },
+            {
+              "heading": "Un lien qu’on hésite à conserver",
+              "text": "La relation avec une personne peut rappeler le changement et compter encore pour d’autres raisons.",
+              "examples": [
+                "Élina veut revoir Yasmine et hésite à reprendre une tâche du bureau pour lui répondre.",
+                "Un ancien collègue peut proposer de déjeuner, alors que parler du travail pendant tout le repas serait encore difficile."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une réponse et un interlocuteur",
-          "text": "Élina peut laisser la question de papier en attente et chercher ce qu’elle souhaite dire à Yasmine en tant qu’ancienne collègue. Si elle veut reprendre contact, elle peut proposer un moment sans demande de travail. Sur place, un geste d’attention, suivre du doigt le début d’une phrase ou écouter Mireille lire, peut l’aider à revenir à la décision qu’elles étaient venues prendre. Elle peut aussi demander un moment avant de commencer. Ce sont des options distinctes. Poursuivre la relecture aujourd’hui ne l’oblige ni à résoudre la question du bureau ni à s’exposer à tous les rappels de son départ."
+          "heading": "3 techniques pour répondre à un rappel gênant",
+          "points": [
+            {
+              "heading": "Revenir à ce qu’on était venu faire",
+              "objective": "Retrouver une action présente quand un souvenir prend de la place.",
+              "exercise": [
+                "Repérez le moment où vous avez quitté le fil.",
+                "Choisissez un détail concret, comme le début de la phrase sur la feuille.",
+                "Décidez si vous reprenez l’activité ou demandez une pause."
+              ],
+              "benefit": "Le choix peut redevenir plus clair quand la tâche est de nouveau devant vous."
+            },
+            {
+              "heading": "Distinguer le service et le lien",
+              "objective": "Dire ce que vous souhaitez garder d’une relation.",
+              "exercise": [
+                "Identifiez la demande qui concerne l’ancien rôle.",
+                "Choisissez si vous voulez y répondre aujourd’hui.",
+                "Proposez un autre échange si vous souhaitez rester en lien."
+              ],
+              "benefit": "La relation peut prendre une forme qui vous convient à présent."
+            },
+            {
+              "heading": "Reprendre avec une personne présente",
+              "objective": "S’appuyer sur une aide disponible dans l’activité du moment.",
+              "exercise": [
+                "Dites que vous avez besoin d’un instant.",
+                "Demandez une action concrète, par exemple d’entendre la première phrase à voix haute.",
+                "Fixez ensemble ce que vous pouvez encore faire sur place."
+              ],
+              "benefit": "Cet appui peut faciliter une reprise de la tâche sans imposer un échange sur le passé."
+            }
+          ]
         }
       ],
       "ending_title": "La voix de Farida dans la pièce",
@@ -286,37 +627,94 @@
       "continuity": {
         "choice": "Élina fait relire puis valider le texte, et propose à Yasmine un échange sans reprendre la recherche de papier.",
         "next": "La réunion de mardi portera sur les rôles du tirage et de la distribution. Le texte de Farida est prêt."
-      }
+      },
+      "conclusion": "Élina relit le texte avec Mireille et propose à Yasmine un appel qui lui convient. Elle a ainsi pris deux décisions au moment où un même rappel menaçait de les confondre. Mireille peut lui offrir un choix sur le démarrage de la lecture."
     },
     {
       "number": 7,
       "slug": "elina-demander-relais-et-confidentialite",
-      "title": "Demander un relais sans raconter sa consultation",
-      "description": "Un tirage d’essai se prépare. Élina veut continuer à écrire et doit dire quelle part de la distribution elle peut prendre.",
+      "title": "Quand le coût d’une matinée dépasse le créneau prévu",
+      "description": "Élina veut contribuer au tirage. Son dernier samedi lui rappelle ce qu’une permanence de deux heures peut lui coûter ensuite.",
       "context": "Le mardi, pendant une réunion de l’association",
       "topics": [
-        "Soutien concret",
-        "Vie privée",
-        "Rôles partagés"
+        "Retentissement social",
+        "Disponibilité et fatigue",
+        "Relais choisi"
       ],
-      "clinical_focus": "Soutien pratique et choix de confidentialité",
-      "clinical_intro": "L’association veut savoir qui peut distribuer le journal. Élina aimerait faire comprendre que son temps et son attention sont comptés. Elle peut décrire sa disponibilité sans donner accès à sa consultation. Dans une période de difficulté d’adaptation, un appui est parfois aussi concret que de savoir qui répond aux demandes, qui tient la table et à qui passer une tâche.",
+      "clinical_focus": "Retentissement après une sortie prolongée",
+      "clinical_intro": "L’association propose deux heures de permanence à Élina. Elle se souvient d’un samedi où elle a écourté ses courses puis laissé des messages en attente. Les difficultés d’adaptation se voient parfois après l’activité, dans la part de journée que la personne a encore les moyens de tenir. Elle veut expliquer sa disponibilité en gardant pour elle ce qu’elle a raconté au cabinet.",
       "opening": "« Quarante, ça me semble un bon début. » Jo pose sur la table un paquet de papier presque vide pour donner une idée de l’épaisseur. Mireille a recopié les horaires sur une bande. Élina rapproche la bande du texte du pot et imagine la feuille pliée, avec le nom de la halle au bord. Le dimanche, elle a parlé avec Yasmine. Elles ont comparé les arbres devant leurs fenêtres, et au moment de raccrocher Élina lui a demandé si elle avait trouvé le papier crème. Quelqu’un du bureau s’en était occupé. Elle n’a pas demandé qui.\n\nJo peut faire le tirage. Mireille a réservé le local et sa grande table pour le samedi dans onze jours. Elle propose qu’Élina y soit de neuf à onze heures, parce qu’elle pourra répondre aux gens qui voudront savoir d’où vient l’histoire du pot. Élina a envie de voir les premiers lecteurs. Elle se souvient aussi de sa dernière matinée prévue dehors. Ce samedi-là, elle était rentrée sans avoir fini ses courses et n’avait plus répondu à personne jusqu’au soir. Elle tient à ne pas remplir tout le créneau comme si la question était déjà décidée.\n\n« Tu as une autre obligation ce matin-là ? » demande Mireille en consultant sa feuille. Élina pense à la consultation et à la date de suivi dans son carnet. Le rendez-vous ne tombe pas le samedi. Elle hésite à en parler pour que son refus paraisse assez sérieux. Sur la feuille de Mireille, il manque simplement un nom à côté d’une plage horaire.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce qu’une équipe a besoin de savoir",
-          "text": "Un appui peut être convenu à partir d’un besoin pratique sans que la personne partage des informations sur sa santé. Les effets d’une période difficile ne se voient pas toujours. On peut donc dire qu’une plage est trop longue ou qu’une responsabilité doit être répartie, même si le projet plaît. L’association a besoin de connaître les tâches et les disponibilités. Au cabinet, la discussion porte sur ce que la personne vit et sur les soins éventuels, avec ses préférences. Pour Élina, la question est de choisir ce qui sert chacune de ces conversations et ce qu’elle souhaite confier à quelqu’un."
+          "heading": "L’agenda ne montre pas toute la charge",
+          "text": "Le retentissement d’une difficulté d’adaptation peut se voir dans les heures qui suivent une activité. Le dernier samedi où Élina voulait rester dehors toute la matinée, elle est rentrée sans avoir fini ses courses et n’a plus répondu jusqu’au soir. Pour la permanence, Mireille regarde un agenda. Élina essaie aussi de compter l’attention que lui demandent les questions imprévues et la place qu’elle veut garder pour le reste du jour. Ce sont des faits sur lesquels elle peut s’appuyer pour fixer sa présence. Elle choisit ce qu’elle souhaite dire de sa santé."
         },
         {
           "role": "manifestations",
-          "heading": "Deux heures qui ont l’air libres",
-          "text": "L’agenda d’Élina ne montre rien de neuf à onze heures. Cela ne dit pas combien d’attention lui demande une matinée avec des questions imprévues, ni comment elle se sent ensuite. Mireille pense que l’autrice saura raconter ce qu’elle a vu. Élina trouve ce rôle attirant. C’est la durée et l’idée de rester la seule personne disponible qui la font hésiter. Sur le tableau des rôles, la ligne « distribution » n’a qu’une case. Mireille ne sait pas qu’Élina se demande depuis une minute si elle doit donner une raison médicale pour la laisser vide."
+          "heading": "Comment le coût d’une matinée se voit-il au-delà de l’agenda ?",
+          "points": [
+            {
+              "heading": "Un créneau vide paraît disponible",
+              "text": "La durée écrite d’une tâche donne une information partielle quand la personne doit aussi compter ce qui lui permet de tenir le reste de la journée.",
+              "examples": [
+                "Mireille voit deux heures libres, tandis qu’Élina se rappelle le samedi où elle a interrompu ses courses.",
+                "Une personne peut disposer d’un après-midi sans rendez-vous et prévoir de garder assez d’attention pour appeler son bailleur ensuite."
+              ]
+            },
+            {
+              "heading": "Le coût se découvre après le retour",
+              "text": "Le retentissement se manifeste parfois dans ce qui reste en attente une fois la rencontre terminée.",
+              "examples": [
+                "Le samedi précédent, Élina est rentrée et n’a plus répondu à personne jusqu’au soir.",
+                "Après une longue discussion associative, une personne peut avoir besoin de remettre à plus tard le message qu’elle voulait envoyer à sa famille."
+              ]
+            },
+            {
+              "heading": "La limite devient difficile à expliquer",
+              "text": "Quand la gêne est discrète, la personne peut hésiter à justifier une disponibilité réduite.",
+              "examples": [
+                "Élina regarde son carnet et envisage de parler de sa consultation pour que deux heures paraissent une limite recevable.",
+                "Une bénévole peut avoir envie d’écrire un long message pour expliquer qu’elle peut relire le journal et qu’elle préfère laisser l’accueil à quelqu’un d’autre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Répartir la présence et les demandes",
-          "text": "Élina peut dire quelles tâches elle veut conserver et de quelle présence elle est sûre. Pour un essai, elle pourrait relire le feuillet et passer un moment à la table, avec une autre personne qui se charge du créneau. Jo peut préciser ce que son engagement au tirage couvre. Mireille peut prendre le contact des lecteurs et le rôle qui lui convient ou chercher un autre relais. Un accord peut indiquer où laisser les feuillets et comment recueillir les retours lorsque personne ne parle au nom du journal. Ainsi, une question d’organisation ne dépend pas de la décision d’Élina de parler ou non de sa santé."
+          "heading": "3 techniques pour annoncer une disponibilité réaliste",
+          "points": [
+            {
+              "heading": "Partir de la dernière sortie",
+              "objective": "Tenir compte de la journée entière avant de promettre du temps.",
+              "exercise": [
+                "Repérez une activité comparable déjà faite.",
+                "Rappelez-vous ce que vous aviez pu faire ensuite.",
+                "Proposez une durée dont vous souhaitez faire l’essai."
+              ],
+              "benefit": "Cette estimation peut faire apparaître un besoin que l’agenda laisse invisible."
+            },
+            {
+              "heading": "Donner une réponse opérationnelle",
+              "objective": "Faire comprendre ce que l’équipe peut inscrire au tableau.",
+              "exercise": [
+                "Nommez le rôle que vous voulez garder.",
+                "Précisez le créneau que vous pouvez proposer.",
+                "Décidez vous-même des informations personnelles que vous souhaitez partager."
+              ],
+              "benefit": "L’équipe peut répartir les tâches à partir d’informations adaptées à la permanence."
+            },
+            {
+              "heading": "Prévoir le relais",
+              "objective": "Savoir qui poursuivra la tâche après votre départ.",
+              "exercise": [
+                "Demandez qui tiendra la table pendant le reste de la matinée.",
+                "Convenez de la façon de lui transmettre une question.",
+                "Fixez où déposer les exemplaires restants."
+              ],
+              "benefit": "Le relais peut rendre la contribution compatible avec les engagements de chacun."
+            }
+          ]
         }
       ],
       "ending_title": "Une ligne pour chaque rôle",
@@ -332,7 +730,8 @@
       "continuity": {
         "choice": "L’association répartit le tirage et la permanence. Élina s’engage sur la relecture de l’épreuve et garde le choix de son heure de passage.",
         "next": "La distribution de quarante exemplaires est prévue au local, onze jours après la réunion. L’épreuve doit être prête jeudi."
-      }
+      },
+      "conclusion": "Une permanence a des heures visibles et un coût qu’Élina estime à partir de ses samedis. Le tableau laisse une place pour les deux réalités. Mireille peut aider en organisant un relais qui tient aussi pour elle."
     },
     {
       "number": 8,
@@ -356,13 +755,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "La ligne changée et le reste de la matinée",
-          "text": "Élina apprend simplement que le local n’est plus libre. Ce qu’elle imagine ensuite va plus loin. Dans sa tête, Jo reprend son papier, Mireille retire les prénoms et la rubrique du pot n’aura servi qu’à occuper une semaine. Aucun de ces gestes n’a eu lieu. Pendant qu’elle attend, elle revient à un autre planning et dort peu. L’appel manqué de la banque l’ennuie aussi. Il lui faudra convenir d’une autre heure. La contrariété du marché et la difficulté à tenir sa matinée ne se confondent pas."
+          "heading": "Comment un nouvel imprévu ravive-t-il une difficulté ?",
+          "points": [
+            {
+              "heading": "Un obstacle concret à résoudre",
+              "text": "Un nouvel événement peut exiger une action réelle et faire écho à une difficulté encore présente.",
+              "examples": [
+                "La réunion de la mairie prend la place du journal au local.",
+                "Une personne qui vient de quitter un poste peut recevoir un vrai refus de location et devoir chercher un autre logement."
+              ]
+            },
+            {
+              "heading": "L’écho d’une situation antérieure",
+              "text": "La pensée peut revenir au changement initial alors que les circonstances et les personnes ont changé.",
+              "examples": [
+                "Élina attend que le document de l’association retrouve la ligne du local, comme elle attendait une date au bureau.",
+                "Un déménagement reporté peut rappeler l’attente d’une réponse lors d’un précédent départ, même si la nouvelle équipe cherche déjà une solution."
+              ]
+            },
+            {
+              "heading": "L’effet qui atteint le lendemain",
+              "text": "La gêne peut augmenter après plusieurs journées où certaines activités avaient repris.",
+              "examples": [
+                "Élina rouvre le message tard dans la nuit et manque le rappel de sa banque.",
+                "Une personne qui avait renoué avec des amis peut manquer un rendez-vous après une soirée passée à repenser à l’annonce d’un changement."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Traiter le changement de lieu et reprendre contact",
-          "text": "Mireille peut se renseigner sur l’entrée de la halle, avec une heure à laquelle informer Jo. Élina peut garder le texte en l’état pendant cette vérification. En parallèle, elle peut expliquer à sa médecin que les nuits et les démarches sont de nouveau plus difficiles, même si elle avait fait des choses agréables les jours précédents. La façon dont le problème déborde sur la journée fournit un point de départ pour le suivi. Appeler le cabinet ne l’oblige pas à attendre la réponse pour convenir d’un prochain rappel de la banque. Elle peut choisir l’ordre qui lui permettra de ne pas porter les trois questions en même temps."
+          "heading": "3 techniques pour répartir les suites d’un imprévu",
+          "points": [
+            {
+              "heading": "Vérifier ce qui a réellement changé",
+              "objective": "Dégager la décision pratique que l’événement demande.",
+              "exercise": [
+                "Reprenez le dernier message reçu.",
+                "Écrivez la conséquence certaine en une phrase.",
+                "Demandez qui peut vérifier la solution suivante et à quel moment."
+              ],
+              "benefit": "La décision peut avancer sans attendre que toutes les préoccupations s’apaisent."
+            },
+            {
+              "heading": "Rétablir un rendez-vous interrompu",
+              "objective": "Traiter une conséquence précise de la nuit ou de la matinée.",
+              "exercise": [
+                "Repérez l’appel ou la tâche qui a été manqué.",
+                "Recontactez l’interlocuteur pour convenir d’une autre heure.",
+                "Placez le nouveau créneau dans un endroit que vous consultez."
+              ],
+              "benefit": "Vous pouvez retrouver un point d’appui concret au milieu d’une journée perturbée."
+            },
+            {
+              "heading": "Signaler le retour de la gêne",
+              "objective": "Faire le point quand plusieurs moments du quotidien sont à nouveau touchés.",
+              "exercise": [
+                "Décrivez le changement récent.",
+                "Donnez un exemple lié au sommeil et un exemple du lendemain s’ils sont présents.",
+                "Demandez au cabinet si le rendez-vous peut être rapproché."
+              ],
+              "benefit": "Le professionnel peut décider de la suite avec vous à partir de ces faits."
+            }
+          ]
         }
       ],
       "ending_title": "Deux appels, deux demandes",
@@ -379,37 +834,94 @@
       "continuity": {
         "choice": "Élina demande à Mireille de vérifier un autre lieu, suspend l’impression et avance son rendez-vous médical au mardi.",
         "next": "La prochaine consultation peut reprendre la nuit difficile et l’appel manqué. Mireille attend un accord pour la table et garde Jo informé."
-      }
+      },
+      "conclusion": "L’association vérifie un autre emplacement pendant qu’Élina reprend le rendez-vous qu’elle avait manqué et appelle sa médecin. Les trois démarches répondent à des conséquences différentes de la nuit. Mireille peut s’occuper de la décision qui leur est commune."
     },
     {
       "number": 9,
       "slug": "elina-suivi-quand-difficultes-reviennent",
-      "title": "Faire le point quand les difficultés reviennent",
-      "description": "Au rendez-vous avancé, Élina raconte la nuit qui a suivi le changement de lieu et ce qui allait mieux les jours précédents.",
+      "title": "Ce que le suivi regarde quand une préoccupation revient",
+      "description": "Élina compare la nuit du contretemps et les jours plus faciles. Sa médecin regarde où les préoccupations restent liées au départ.",
       "context": "Le mardi en fin de journée, au cabinet de la docteure Roussel",
       "topics": [
-        "Suivi clinique",
-        "Évolution dans la vie ordinaire",
-        "Accompagnement choisi"
+        "Objet des préoccupations",
+        "Variation du retentissement",
+        "Réévaluation clinique"
       ],
-      "clinical_focus": "Suivi clinique quand les difficultés varient",
-      "clinical_intro": "Élina a avancé son rendez-vous après une nuit passée à repenser au bureau et une démarche manquée le lendemain. Un suivi permet de remettre ce retour des difficultés à côté des moments où l’écriture et les rencontres ont été possibles. L’évolution du trouble de l’adaptation se discute dans le contexte de la personne. Élina et sa médecin examinent aussi quelle forme d’accompagnement lui conviendrait.",
+      "clinical_focus": "Portée des préoccupations au fil du suivi",
+      "clinical_intro": "Élina a avancé son rendez-vous après une nuit passée à repenser au bureau. Sa médecin lui demande aussi ce qui l’intéresse et ce qui l’inquiète dans les jours où aucun rappel immédiat du départ ne s’impose. Le suivi d’un trouble de l’adaptation permet de vérifier comment les difficultés évoluent et si leur lien avec le changement ou ses conséquences reste au premier plan.",
       "opening": "Élina avait préparé la première consultation au dos d’un prix de radis. Cette fois, elle tient le carton du cabinet. Au verso, elle a inscrit l’heure de l’appel de la banque, qu’elle a eu ce matin. La médecin lui demande pourquoi elle a avancé la consultation. Élina répond d’abord que l’histoire du journal s’est compliquée. Puis elle parle du message attendu une grande partie de la nuit et du sentiment d’être ramenée au bureau, même après son appel à Mireille. Elle ne sait plus exactement de quelle réunion elle attendait la date à l’époque. Elle sait combien de fois elle a rouvert le document du marché dimanche.\n\nLa docteure Roussel lui demande comment se passaient les jours précédents. Élina raconte l’entretien avec Farida, puis le dîner mangé tard à cause de l’article. Elle parle de la promenade avec Lucien, du dimanche où elle a pu appeler Yasmine et du changement d’adresse qui a fini par partir. Elle ajoute qu’elle ne voudrait pas que la nuit de dimanche compte comme la preuve que le reste n’a servi à rien. Elle n’avait pas prévu de dire cette phrase. À l’entendre, elle s’aperçoit qu’elle demande aussi si les difficultés qui reviennent peuvent faire partie de la même histoire.\n\nLa médecin l’interroge sur le sommeil des autres nuits, sur ce qui l’intéresse encore et sur les préoccupations qui ne concernent pas le départ. Élina n’a pas les mêmes réponses pour tous les jours. Sur le carton qu’elle tient encore, l’encre du numéro a un peu bavé.",
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comparer des journées plutôt que juger une performance",
-          "text": "Un suivi clinique regarde ce qui a changé dans la gêne et ce qui continue à peser dans le contexte. Un jour où une tâche est accomplie n’indique pas à lui seul que les difficultés se sont résolues. Une mauvaise nuit ne suffit pas non plus à établir une aggravation durable. Le médecin peut reprendre le lien avec les événements et rouvrir d’autres pistes si les difficultés changent de forme, s’étendent ou persistent. Pour Élina, raconter une rencontre qui lui a plu et la soirée qui l’a suivie permet de parler de deux aspects de sa situation. Le suivi peut ajuster l’appui à partir de ces nuances."
+          "heading": "Reprendre l’objet et la portée de la gêne",
+          "text": "Dans le suivi d’un trouble de l’adaptation, le médecin peut examiner à nouveau ce qui occupe la pensée et les moments de vie que cela touche. Élina revient encore au planning de son ancien bureau. La docteure lui demande aussi ce qui a pu l’intéresser depuis leur première rencontre et si d’autres inquiétudes ont pris de la place. La reprise de certaines tâches et les difficultés du lundi aident à préciser ce que le changement continue de lui coûter. Si des difficultés nouvelles apparaissent ou s’étendent à d’autres domaines, la médecin peut reprendre d’autres hypothèses."
         },
         {
           "role": "manifestations",
-          "heading": "Le carton avec deux informations",
-          "text": "Le numéro imprimé sur le carton renvoie au cabinet. L’heure au dos renvoie à une démarche quotidienne. La veille, Élina a repris les deux questions au lieu de les laisser en attente sur la table. Elle décrit aussi la nuit qui lui a coûté une partie du lundi. Le même récit contient donc un progrès concret, une période de gêne et une préoccupation qui reste centrée sur le départ. En consultation, la docteure entend des faits répartis dans le temps et des détails qu’un collègue de l’association ne pourrait pas connaître en regardant le feuillet terminé."
+          "heading": "Comment l’objet et la portée des difficultés éclairent-ils le suivi ?",
+          "points": [
+            {
+              "heading": "Des préoccupations qui restent liées au départ",
+              "text": "Le sujet qui revient aide à comprendre ce qui se poursuit depuis le changement.",
+              "examples": [
+                "Quand la table doit être déplacée, Élina revient au planning de son ancien bureau et à la réponse qu’elle attendait.",
+                "Au cabinet, elle peut préciser que la longue nuit de dimanche était occupée par ce souvenir plutôt que par la démarche auprès de la banque."
+              ]
+            },
+            {
+              "heading": "La gêne et les reprises selon le domaine",
+              "text": "Une même période peut contenir une activité retrouvée, un effort important et une tâche de nouveau interrompue.",
+              "examples": [
+                "Élina a repris son changement d’adresse et parlé avec Yasmine, puis elle a manqué un rappel après sa mauvaise nuit.",
+                "L’entretien avec Farida lui a plu alors que la rédaction a repoussé l’heure du dîner."
+              ]
+            },
+            {
+              "heading": "Ce qui apparaît loin des rappels",
+              "text": "Le médecin s’intéresse aux moments où le changement ne vient pas immédiatement à l’esprit et aux difficultés qui pourraient apparaître ailleurs.",
+              "examples": [
+                "La docteure demande à Élina comment elle a dormi les autres nuits.",
+                "Elle lui demande quelles inquiétudes sont apparues dans d’autres moments, et ce qui continue à l’intéresser."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir le prochain appui avec la médecin",
-          "text": "Élina peut demander ce qu’un premier entretien avec une psychologue lui permettrait d’aborder, en quoi il serait distinct du suivi de sa généraliste et comment décider ensuite de la suite. Elle peut dire qu’elle voudrait parler de la place de l’ancien travail dans ses nuits, ainsi que de l’effort qu’exigent certaines tâches. Elles peuvent convenir d’un rendez-vous médical de suivi et rediscuter de ce qu’il faudra faire si les nuits ou les journées deviennent plus difficiles. Du côté de l’association, le choix de relire la page dépendra de l’heure de tirage et de ce qu’elle se sent en mesure de prendre."
+          "heading": "3 techniques pour faire le point sur ce qui évolue",
+          "points": [
+            {
+              "heading": "Comparer deux moments récents",
+              "objective": "Donner au suivi des exemples de gêne et de reprise.",
+              "exercise": [
+                "Choisissez une journée où une activité a été possible.",
+                "Choisissez un moment récent où la gêne est revenue.",
+                "Précisez ce que chaque situation vous a demandé."
+              ],
+              "benefit": "Cette comparaison peut permettre de discuter de l’évolution avec plus de précision."
+            },
+            {
+              "heading": "Repérer le sujet de la préoccupation",
+              "objective": "Situer la pensée qui occupait le plus de place au moment décrit.",
+              "exercise": [
+                "Retrouvez un fait précis de la semaine.",
+                "Dites ce qui vous revenait en tête.",
+                "Mentionnez si d’autres préoccupations ont commencé à gêner votre journée."
+              ],
+              "benefit": "Le médecin peut examiner la portée des difficultés et revoir ses hypothèses si besoin."
+            },
+            {
+              "heading": "Définir une demande d’accompagnement",
+              "objective": "Choisir ce qu’un premier entretien pourrait aborder.",
+              "exercise": [
+                "Formulez la difficulté dont vous souhaitez parler en premier.",
+                "Demandez ce que l’interlocuteur proposé peut vous offrir.",
+                "Convenez du prochain rendez-vous médical et décidez quand appeler pour l’entretien."
+              ],
+              "benefit": "Les deux échanges peuvent ainsi avoir des objectifs clairs pour vous."
+            }
+          ]
         }
       ],
       "ending_title": "Un rendez-vous et un nouvel emplacement",
@@ -427,20 +939,21 @@
       "continuity": {
         "choice": "Élina choisit un premier entretien psychologique et garde le suivi médical. Elle confirme la relecture après l’accord sur l’entrée de la halle.",
         "next": "L’épreuve doit mentionner le banc et le panneau près de l’entrée. Le premier entretien psychologique aura lieu le mercredi qui suit la distribution."
-      }
+      },
+      "conclusion": "La docteure retrouve ce qui relie les dernières difficultés au départ et interroge aussi les autres moments de la semaine. Élina choisit une première rencontre psychologique. Au marché, les échanges peuvent rester centrés sur l’épreuve du lendemain."
     },
     {
       "number": 10,
       "slug": "elina-activite-qui-a-du-sens",
-      "title": "Choisir ce qui compte quand l’élan manque",
-      "description": "Sur l’épreuve du journal, tout semble manquer de place. Élina choisit ce qu’elle veut que les lecteurs puissent trouver et lire.",
+      "title": "Quand l’intérêt revient par un détail de la page",
+      "description": "Élina ouvre une épreuve qu’elle attendait et ressent peu de chose. Le geste décrit par Farida retient enfin son regard.",
       "context": "Le mercredi matin, devant l’épreuve de Jo",
       "topics": [
-        "Activité qui a du sens",
-        "Attention au présent",
-        "Choix d’une contribution"
+        "Intérêt fluctuant",
+        "Préoccupation liée au départ",
+        "Attention à un détail"
       ],
-      "clinical_focus": "Action choisie malgré la préoccupation",
+      "clinical_focus": "Intérêt fluctuant sous l’effet des préoccupations",
       "clinical_intro": "Élina ouvre une épreuve qu’elle avait hâte de voir et ne retrouve pas cet élan. Elle est encore occupée par des pensées sur le bureau. Une activité choisie peut garder un sens même quand l’envie d’y entrer fluctue. Face à la feuille, elle retrouve une raison précise de relire. Elle veut que les lecteurs puissent reconnaître le geste que Farida lui a montré et savoir où trouver le journal.",
       "opening": "Jo a glissé l’épreuve dans la boîte aux lettres d’Élina. Il a plié la feuille pour qu’on voie le titre avant de l’ouvrir. Pendant des jours, elle a essayé d’imaginer ce que lui ferait le nom Les Nouvelles de la Halle imprimé de nouveau. À présent elle le lit et ne ressent pas grand-chose. La dernière publication de son ancien bureau est encore ouverte sur l’ordinateur. Elle avait voulu vérifier une date avant de dormir. Elle n’a pas rallumé l’écran ce matin, mais elle revoit l’endroit où la date figure, en haut de la page.\n\nAu crayon, elle entoure le mot « local ». Jo a utilisé la dernière version reçue avant le changement. Il faut écrire que les exemplaires seront disponibles près de l’entrée, au niveau du banc, puis laisser un peu de place pour que ce soit lisible. Le pli coupe la citation de Farida au milieu. On lit d’abord que le pot est bleu. Le geste du pouce apparaît en dépliant la feuille. Élina se surprend à suivre sur le papier le geste du pouce qui la cherche.\n\nLe bas de la feuille est occupé par une annonce appelant des volontaires. Mireille l’avait ajoutée en attendant de savoir si quelqu’un accepterait d’imprimer. Jo a écrit « appelle-moi avant midi » dans la marge. Élina pense à la page du bureau qu’elle voudrait refermer et à tous les détails qu’elle pourrait encore déplacer. Elle commence par aller chercher la feuille dont Farida avait approuvé le texte.",
       "sections": [
@@ -451,13 +964,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce qui arrête le regard sur la feuille",
-          "text": "Le nom du journal ne produit pas l’effet qu’Élina attendait. En revanche, elle suit le mouvement que la phrase de Farida lui rappelle. Le mot « local » souligné lui pose un problème qu’elle peut résoudre aujourd’hui. Le bureau la ramène à une question ancienne, sans résultat nouveau. Les deux se disputent son attention au cours de la même lecture. Jo verra peut-être seulement trois corrections sur la marge. Pour Élina, la différence se situe entre parcourir encore une fois la page entière et s’attarder enfin sur ce qu’un lecteur cherchera en l’ouvrant."
+          "heading": "Comment l’intérêt réapparaît-il au milieu des préoccupations ?",
+          "points": [
+            {
+              "heading": "L’entrain attendu ne vient pas",
+              "text": "L’intérêt éprouvé peut varier d’un moment à l’autre, y compris dans une activité souhaitée depuis longtemps.",
+              "examples": [
+                "Élina lit enfin le titre imprimé et éprouve peu de chose.",
+                "Une personne peut se réjouir à l’idée de rejoindre un atelier et se sentir distante en arrivant devant la table."
+              ]
+            },
+            {
+              "heading": "Un détail suscite encore une curiosité",
+              "text": "L’intérêt peut revenir par une action précise alors que la page entière paraît difficile à aborder.",
+              "examples": [
+                "En dépliant l’épreuve, Élina retrouve le geste du pouce de Farida.",
+                "Quelqu’un qui peine à ouvrir une lettre peut retrouver son intérêt à la lecture d’une phrase de la personne qui lui a écrit."
+              ]
+            },
+            {
+              "heading": "L’attention reste partagée",
+              "text": "Le plaisir d’un détail et les pensées liées au départ peuvent alterner pendant la même activité.",
+              "examples": [
+                "Élina revient à l’indication du banc et continue à penser à la date ouverte sur l’ordinateur.",
+                "Pendant une discussion agréable, une personne peut encore revenir un instant à une phrase entendue dans son ancien bureau."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Mettre la place disponible au service du lecteur",
-          "text": "Avant de répondre à Jo, Élina peut comparer l’épreuve et le texte validé, pour signaler ce qui doit changer dans l’emplacement indiqué et la présentation de la citation. L’annonce peut être réduite ou retirée si Mireille confirme qu’elle n’est plus utile. Une autre personne peut vérifier que les horaires restent lisibles après la modification. Lorsqu’une pensée du bureau revient, Élina peut la reconnaître puis se demander si une personne qui entre dans la halle saura où prendre un exemplaire. Elle n’a pas besoin de prolonger la séance jusqu’à retrouver l’entrain qu’elle attendait."
+          "heading": "3 techniques pour retrouver une action qui a du sens",
+          "points": [
+            {
+              "heading": "Choisir une question de lecteur",
+              "objective": "Donner un objectif précis au premier regard sur la page.",
+              "exercise": [
+                "Choisissez ce qu’un lecteur doit trouver.",
+                "Regardez où figure l’information sur l’épreuve.",
+                "Signalez l’ajustement qui permettrait de la lire."
+              ],
+              "benefit": "Une question concrète peut aider à commencer quand l’élan est faible."
+            },
+            {
+              "heading": "Prendre appui sur un détail",
+              "objective": "Revenir à ce qui a compté pendant la rencontre.",
+              "exercise": [
+                "Retrouvez la phrase approuvée par la personne interrogée.",
+                "Relisez-la avec le geste ou le souvenir auquel elle se rapporte.",
+                "Indiquez ce qui doit rester ensemble après la mise en page."
+              ],
+              "benefit": "Ce détail peut redonner une raison de contribuer à ce moment précis."
+            },
+            {
+              "heading": "Transmettre la prochaine correction",
+              "objective": "Arrêter la séance à une décision que l’équipe peut appliquer.",
+              "exercise": [
+                "Séparez vos corrections de celles qui relèvent des horaires ou du tirage.",
+                "Dites au partenaire ce que vous avez vérifié.",
+                "Convenez du moment où il vous remontrera l’épreuve."
+              ],
+              "benefit": "La tâche peut continuer grâce à une autre personne quand vous avez terminé votre part."
+            }
+          ]
         }
       ],
       "ending_title": "Le banc près de l’entrée",
@@ -472,7 +1041,8 @@
       "continuity": {
         "choice": "Élina choisit les corrections utiles au lecteur, puis donne son accord sur le texte. Mireille valide les informations et Jo lance le tirage.",
         "next": "Samedi, quarante exemplaires iront à la table près du banc, sous le panneau. Élina a gardé l’épreuve pour Farida."
-      }
+      },
+      "conclusion": "Élina n’éprouve pas le plaisir imaginé devant le titre. En retrouvant le geste de Farida dans la citation, elle sait pourtant ce qu’elle veut défendre sur la page. Jo peut suivre ses demandes sans attendre un signe d’enthousiasme."
     },
     {
       "number": 11,
@@ -481,11 +1051,11 @@
       "description": "Le journal paraît. Élina choisit quand venir à la table et comment partir en laissant la permanence à Mireille.",
       "context": "Le samedi du tirage, près de l’entrée de la halle",
       "topics": [
-        "Participation sociale",
-        "Présence choisie",
-        "Relais explicite"
+        "Retentissement social",
+        "Envie de lien",
+        "Présence choisie"
       ],
-      "clinical_focus": "Reprise du lien sans présence imposée",
+      "clinical_focus": "Retentissement social au moment de reprendre contact",
       "clinical_intro": "Quarante exemplaires attendent des lecteurs à l’entrée de la halle. Élina a envie de les voir ouvrir le journal, mais elle sait ce que lui coûtent parfois les matinées remplies. Retrouver un lien avec des personnes du quartier peut passer par une présence choisie. Grâce au relais convenu avec Mireille, la durée de sa visite reste une décision qu’Élina peut prendre.",
       "opening": "À neuf heures quarante-cinq, Mireille a déjà sorti la moitié du paquet. Le panneau penche un peu et un coin du journal se relève avec le courant d’air. Élina lui avait annoncé la veille qu’elle passerait de dix heures à dix heures et demie. Elle est venue plus tôt pour remettre l’épreuve à Farida. À l’étal, Farida ouvre la feuille et approche un instant le papier du pot. « En photo, on aurait dit qu’il est vert. Ça me plaît que tu l’aies décrit. » Élina sourit. Il lui a fallu longtemps pour trouver un mot pour ce bleu.\n\nDe retour près du banc, elle voit Lucien prendre un exemplaire dans la pile. Il demande si le crochet du fromager aura droit à un nouveau dessin. Une dame qu’Élina n’a jamais vue lui montre le bloc des horaires et demande si le marché ferme à la même heure quand il pleut. Mireille connaît la réponse. Pendant qu’elle la donne, Élina regarde la dame relire le titre. Elle avait oublié que la plupart des gens posent d’abord une question sur ce qu’ils vont pouvoir faire après avoir lu.\n\nÀ dix heures vingt, la dame revient avec quelqu’un et leur dit : « Les voilà, les gens du journal. » Élina se redresse. Elle a envie de rester assez longtemps pour entendre la suite. Elle remarque qu’elle a déjà deux questions en tête auxquelles elle voudrait répondre toute seule. La dame voudrait connaître les horaires d’une autre manifestation. La personne qui l’accompagne demande si le journal paraîtra chaque semaine. Mireille déplace le paquet vers le bord de la table. Dix minutes, c’est le temps de finir une conversation ou d’en commencer une autre.",
       "sections": [
@@ -496,13 +1066,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Le plaisir, les questions et l’heure",
-          "text": "Élina a attendu longtemps ce moment. Elle voit maintenant la dame montrer les horaires à quelqu’un qui vient de la rejoindre. Elle entend aussi une question qui lui rappelle l’habitude de son ancien bureau, quand elle annonçait déjà le prochain numéro pour montrer qu’elle était prête. Le journal est en circulation. Le prochain ne fait pas encore l’objet d’un accord. Lucien peut voir qu’elle suit la discussion et regarde l’heure. Il ne sait pas qu’elle repense en même temps aux samedis où elle est rentrée sans avoir pu garder un peu de temps pour elle."
+          "heading": "Comment la gêne et l’envie de lien se côtoient-elles à la table ?",
+          "points": [
+            {
+              "heading": "Un accueil qui compte",
+              "text": "Le lien social peut reprendre par des moments précis au milieu d’une période où sortir demande encore de l’attention.",
+              "examples": [
+                "Farida ouvre l’épreuve près du pot et reconnaît la couleur qu’Élina a décrite.",
+                "Lucien feuillette le journal et lui parle du crochet qu’ils connaissent tous les deux."
+              ]
+            },
+            {
+              "heading": "Plusieurs demandes arrivent à la fois",
+              "text": "Une activité plaisante peut demander plus de disponibilité quand les interlocuteurs ou les questions se multiplient.",
+              "examples": [
+                "Une lectrice parle des horaires, puis revient accompagnée d’une personne qui demande le prochain numéro.",
+                "Quelqu’un qui vient aider un moment peut se retrouver à répondre sur place à une demande qui concerne toute l’équipe."
+              ]
+            },
+            {
+              "heading": "Partir au milieu d’un échange agréable",
+              "text": "Le temps choisi peut permettre de venir alors que rester sans limite serait plus difficile.",
+              "examples": [
+                "Élina regarde l’heure tandis que la discussion l’intéresse encore.",
+                "Une personne peut écourter un repas qui lui plaît pour garder assez de temps avant une autre rencontre."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Passer une question à la bonne personne",
-          "text": "Élina peut remercier la dame et confier la question du prochain numéro à Mireille, qui recueille les retours et connaît l’accord de l’équipe. Elles peuvent convenir d’un signe avant qu’Élina parte, ou elle peut simplement dire l’heure qu’il est. Si elle veut rester un peu, elle peut se demander à quoi elle souhaite consacrer ces minutes et si elle peut encore y prendre part de la façon qui lui convient. Lucien peut lui proposer un café un autre jour sans joindre cette invitation à la fin de la permanence. Laisser des exemplaires chez un commerçant peut être proposé et accepté séparément."
+          "heading": "3 techniques pour reprendre contact à son rythme",
+          "points": [
+            {
+              "heading": "Choisir un moment et une personne",
+              "objective": "Définir ce qui donne envie de venir.",
+              "exercise": [
+                "Identifiez un échange auquel vous tenez.",
+                "Proposez une heure de passage.",
+                "Prévenez la personne qui tient le reste du créneau."
+              ],
+              "benefit": "La visite peut rester possible même si la matinée entière paraît trop chargée."
+            },
+            {
+              "heading": "Passer la question à la personne disponible",
+              "objective": "Garder une place dans la conversation sans porter toutes les réponses.",
+              "exercise": [
+                "Écoutez la question jusqu’au bout.",
+                "Dites qui dispose de l’information ou recueille les retours.",
+                "Présentez cette personne avant de reprendre votre propre activité."
+              ],
+              "benefit": "La conversation peut se poursuivre avec l’interlocuteur qui a accepté ce rôle."
+            },
+            {
+              "heading": "Prévoir un autre rendez-vous",
+              "objective": "Garder le lien en dehors de l’activité collective.",
+              "exercise": [
+                "Choisissez un moment où vous aimeriez revoir la personne.",
+                "Proposez un rendez-vous distinct de la permanence.",
+                "Convenez de vous prévenir en cas d’empêchement."
+              ],
+              "benefit": "Un échange choisi peut donner une autre occasion de se retrouver."
+            }
+          ]
         }
       ],
       "ending_title": "La table reste occupée",
@@ -518,7 +1144,8 @@
       "continuity": {
         "choice": "Élina va à la table et part à l’heure choisie. Mireille prend les questions. Farida propose de conserver les exemplaires restants et les retours.",
         "next": "Élina et Lucien ont convenu d’un café dimanche. L’équipe retrouvera les retours de Farida le samedi suivant, après le premier entretien psychologique d’Élina."
-      }
+      },
+      "conclusion": "Élina profite de la lecture et part à l’heure qu’elle avait choisie. Le journal continue de circuler, et Lucien la retrouvera le lendemain dans un autre cadre. La durée de la permanence dit peu de la qualité de ces rencontres."
     },
     {
       "number": 12,
@@ -527,11 +1154,11 @@
       "description": "Le journal a retrouvé des lecteurs. Élina décide avec l’association de ce qu’elle voudrait faire pour un second numéro.",
       "context": "Une semaine après le tirage, autour du banc de la halle",
       "topics": [
-        "Évolution variable",
-        "Répartition durable",
+        "Amélioration partielle",
+        "Préoccupations persistantes",
         "Suivi poursuivi"
       ],
-      "clinical_focus": "Bilan sans calendrier de guérison",
+      "clinical_focus": "Amélioration partielle et préoccupations persistantes",
       "clinical_intro": "Les exemplaires du journal ont circulé. Élina continue pourtant à perdre du temps dans les pensées liées au bureau, et elle a commencé un accompagnement. Une réussite et une difficulté persistante peuvent figurer dans le même bilan. L’association discute de la prochaine édition. Élina évalue avec les professionnels ce qui l’aide dans sa vie, sans caler cette évolution sur une date de parution.",
       "opening": "Farida a laissé un exemplaire sous le pot bleu pour que le papier ne s’envole pas. Les autres sont partis. Mireille soulève le bord de la feuille et retire trois bouts de papier. Une personne voudrait les jours d’ouverture de l’atelier de réemploi. Une autre propose un dessin du banc. Sur le troisième, quelqu’un a écrit « l’encoche, je l’ai cherchée » avec un trait dessous. Farida touche le bord du pot pour montrer l’endroit à Jo. Élina l’écoute expliquer de quel côté sa mère le prenait. Il y a des détails qu’elle n’aurait pas su raconter si elle était restée à sa table.\n\nDimanche, Lucien et Élina ont bu leur café avant qu’il refroidisse. Mardi, il l’a aidée à porter le petit meuble jusqu’à l’atelier. Mercredi, Élina a vu la psychologue. Elles ont parlé de la place du bureau dans ses soirées et convenu de se revoir. La veille de ce samedi, un ancien collègue a envoyé une photo de l’armoire qu’ils déménageaient à l’autre bout de la pièce. Élina a laissé son dîner en attente un moment pour l’agrandir et relire les messages qui suivaient. Après coup, elle a regretté le temps passé et voulu regarder encore un peu. Elle y pense quand Jo demande à quelle date ils pourraient imprimer la prochaine fois.\n\nSur le banc, Mireille pose la liste des rôles. Quelqu’un a écrit au crayon « chaque samedi ? » au-dessus de son nom. Élina aimerait faire un dessin de l’atelier de réemploi. Elle connaît maintenant la largeur de sa porte.",
       "sections": [
@@ -542,13 +1169,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Les traces de deux semaines différentes",
-          "text": "Sur le banc, il y a trois réponses de lecteurs et presque plus de papier à distribuer. Chez elle, Élina voit aussi qu’un formulaire a été envoyé, qu’un café a eu lieu et que le meuble est enfin sorti. La photo de l’armoire a pourtant occupé une partie d’une soirée où elle avait prévu autre chose. La nouvelle ville compte désormais des personnes qu’elle aime retrouver. L’ancienne équipe revient encore au détour d’une notification. Les deux situations coexistent au moment où Jo cherche un calendrier. Il demande quand il pourra imprimer. Élina se surprend à entendre une date à laquelle elle devrait se sentir prête à tout reprendre."
+          "heading": "Comment reconnaître une amélioration dans un domaine et une gêne qui persiste ?",
+          "points": [
+            {
+              "heading": "Une activité reprend",
+              "text": "Les effets du changement peuvent s’alléger dans certains moments de vie.",
+              "examples": [
+                "Des lecteurs ont emporté les feuillets et laissé des idées pour un autre numéro.",
+                "Le café manqué au début du parcours a finalement lieu chez Élina."
+              ]
+            },
+            {
+              "heading": "Un rappel continue à coûter du temps",
+              "text": "Une pensée liée au départ peut encore interrompre une soirée après plusieurs réussites.",
+              "examples": [
+                "Élina agrandit la photo de l’armoire du bureau pendant que son dîner attend.",
+                "Elle repasse les messages qui suivent et retrouve une envie de vérifier encore après avoir déjà regardé."
+              ]
+            },
+            {
+              "heading": "Les engagements suivent des rythmes différents",
+              "text": "L’évolution se lit dans les effets sur la vie quotidienne et le projet suit les décisions de l’équipe.",
+              "examples": [
+                "Élina peut choisir le dessin de l’atelier et maintenir le suivi dont elle a convenu.",
+                "Mireille peut organiser les horaires du prochain feuillet même si aucune date de parution n’est fixée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Prendre une décision sur la prochaine page",
-          "text": "L’équipe peut décider si elle souhaite faire un autre essai, avec un format, des rôles et une fréquence qu’elle peut tenir. Pour Élina, l’envie de dessiner la porte de l’atelier indique ce qu’elle aimerait reprendre. Jo peut annoncer les dates où il a du papier et du temps. Mireille peut voir si quelqu’un d’autre a envie de tenir la permanence. Du côté des soins, Élina peut raconter l’effet de la photo et ce qui s’est passé après, en gardant le suivi déjà prévu. Elle peut aussi dire en quoi l’entretien lui a convenu ou ce qu’elle aimerait qu’on aborde autrement."
+          "heading": "3 techniques pour faire un bilan sans tout confondre",
+          "points": [
+            {
+              "heading": "Raconter deux évolutions",
+              "objective": "Garder une image nuancée de la période récente.",
+              "exercise": [
+                "Notez un moment qui a retrouvé une place.",
+                "Décrivez un fait qui vous gêne encore.",
+                "Présentez les deux exemples au professionnel qui vous suit."
+              ],
+              "benefit": "Le suivi peut prendre en compte des changements différents dans la même semaine."
+            },
+            {
+              "heading": "Fixer la prochaine contribution",
+              "objective": "Définir une tâche sans décider de toute la suite.",
+              "exercise": [
+                "Choisissez le sujet ou le geste que vous voulez reprendre.",
+                "Vérifiez avec les autres qui tient les tâches restantes.",
+                "Convenez du moment où vous discuterez de la date."
+              ],
+              "benefit": "Le prochain numéro peut avancer au rythme de l’équipe."
+            },
+            {
+              "heading": "Préciser ce qu’on veut reprendre en entretien",
+              "objective": "Relier le suivi à ce qu’on vit actuellement.",
+              "exercise": [
+                "Choisissez une situation récente qui vous a surpris.",
+                "Notez l’effet concret sur la soirée ou la journée.",
+                "Dites ce qui vous a convenu au dernier rendez-vous et ce que vous aimeriez aborder."
+              ],
+              "benefit": "Ces éléments peuvent aider à ajuster la suite avec le professionnel."
+            }
+          ]
         }
       ],
       "ending_title": "Une feuille à la fois",
@@ -565,7 +1248,8 @@
       "continuity": {
         "choice": "Le premier numéro a circulé. L’équipe convient d’un second essai sous réserve de tenir la répartition des rôles. Élina choisit le sujet de l’atelier.",
         "next": "Le journal a repris. Élina prévoit de retourner à l’atelier pour le dessin et poursuit l’accompagnement qu’elle a choisi."
-      }
+      },
+      "conclusion": "Les lecteurs ont trouvé le journal et Élina a trouvé un sujet pour la page suivante. Les soirées où le bureau reprend de la place restent une question qu’elle peut aborder en consultation. Pour faire durer le journal, l’association peut s’en tenir aux rôles que chacun accepte."
     }
   ]
 }

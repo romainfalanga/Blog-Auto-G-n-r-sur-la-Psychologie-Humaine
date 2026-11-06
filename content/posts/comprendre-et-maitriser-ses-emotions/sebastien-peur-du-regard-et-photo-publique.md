@@ -1,21 +1,21 @@
 ---
-title: Distinguer la peur du regard et le choix d’une photo publique
-description: Une affiche doit partir à l’impression. Sébastien précise ce qu’il veut
-  voir circuler et discute de la place de son travail sur le papier.
+title: Anticiper le jugement avant qu’une photo existe
+description: Avant l’impression, Sébastien imagine les regards sur une photo encore
+  inexistante. Il précise aussi ce qu’il accepte de rendre public.
 slug: sebastien-peur-du-regard-et-photo-publique
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sébastien
-sujet: Crainte du jugement et accord sur l’image
+sujet: Jugement anticipé et retentissement
 contexte: Le mercredi, au local d’impression du quartier
 tags:
 - Dysmorphophobie
 - Trouble de la perception du corps
 - Body dysmorphic disorder
 - 6B21
-- Crainte du regard
-- Accord sur les images
-- Reconnaissance du travail
+- Jugement anticipé
+- Attention détournée
+- Accord de diffusion
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -34,14 +34,79 @@ Il lui demande qui verrait une image mise dans l’album dont ils parlaient la s
 
 Une dysmorphophobie peut accroître la crainte d’être remarqué ou jugé à cause de son apparence. On peut éprouver cette crainte et avoir aussi des raisons ordinaires de choisir où son image circule. Pour comprendre un évitement, le professionnel regarde ce qui rend les situations difficiles et l’entrave qu’elles créent. À l’imprimerie, Sébastien peut dire directement s’il souhaite figurer sur une affiche publique. L’accord sur cet usage se discute avec lui. Sa réponse ne sert pas à juger la gravité du trouble ou la qualité de son engagement.
 
-## Ce qu’il veut rendre visible
+## Comment le jugement anticipé prend-il de l’avance sur la situation ?
 
-Nora voit qu’il lui demande des précisions sur deux destinations de l’image. Malik voit aussi qu’il revient à la ligne des crédits. Sébastien a envie qu’une personne venue voir la pièce puisse reconnaître sa contribution. Il souhaite que ses voisins trouvent la date en passant. Il n’a pas envie de figurer sur leur panneau d’affichage, même s’il imagine qu’un souvenir d’équipe pourrait lui plaire. Dans sa tête, l’idée du panneau déclenche une peur qu’il connaît. Sur la table, ils ont un dessin qu’ils peuvent retenir pour l’affiche. Il pourra décider plus tard s’il veut figurer dans l’album.
+### Un public imaginé avant la prise de vue
 
-## Nommer la destination d’une image avant de la choisir
+La crainte peut apparaître dès qu’un usage est évoqué.
 
-Le groupe peut préciser qui verra l’affiche, qui aura accès à son album et quand chacun pourra répondre. Sébastien peut donner deux réponses différentes ou garder la seconde pour plus tard. Il peut aussi défendre une proposition artistique, comme ses collègues, et demander qu’on lise mieux les crédits. Si la crainte du regard se prolonge dans d’autres lieux ou l’empêche de faire des choses qui lui importent, elle a sa place dans les échanges avec l’équipe de soins. Le départ des fichiers à l’imprimerie peut suivre son propre calendrier.
+**Exemples concrets**
+
+- Un rectangle vide suffit à faire imaginer à Sébastien les regards devant le panneau du tram.
+- L’annonce d’une photo pour un programme peut occuper quelqu’un alors que personne n’a sorti d’appareil.
+
+### Une décision de métier qui passe au second plan
+
+Une pensée sur l’apparence peut occuper l’attention au moment où une autre discussion compte.
+
+**Exemples concrets**
+
+- Sébastien tient son pouce sur les crédits en écoutant Nora parler des fichiers.
+- Quelqu’un peut retenir surtout le mot photo dans une réunion qui fixe aussi des horaires.
+
+### Des contextes d’image qui n’ont pas le même sens
+
+La crainte et les préférences de diffusion peuvent varier selon le public envisagé.
+
+**Exemples concrets**
+
+- Sébastien souhaite être crédité en public et hésite encore sur l’album interne.
+- Une personne peut choisir un souvenir entre collègues et décliner une annonce en vitrine.
+
+## 3 techniques pour décider quand des regards sont déjà imaginés
+
+### 1. Identifier l’usage proposé
+
+Distinguer la destination réelle de la scène redoutée.
+
+**Exercice pratique**
+
+- Demander où l’affiche sera posée.
+- Préciser qui verra l’album.
+- Répondre séparément pour chaque usage.
+
+La décision de diffusion peut rester à la personne.
+
+### 2. Revenir à la contribution attendue
+
+Garder une place dans la discussion artistique.
+
+**Exercice pratique**
+
+- Relire la ligne des crédits.
+- Poser le dessin sur l’épreuve.
+- Demander l’avis sur sa lisibilité à distance.
+
+Le projet peut profiter de son avis de décorateur.
+
+### 3. Apporter une anticipation au suivi
+
+Raconter comment l’inquiétude arrive avant une image.
+
+**Exercice pratique**
+
+- Retenir le moment où le rectangle l’a arrêté.
+- Dire ce qu’il a imaginé et ce qu’il voulait faire.
+- Reprendre l’exemple avec l’équipe.
+
+La consultation peut explorer le retentissement sans juger son accord.
 
 ## La fenêtre prend la place du rectangle
 
 Nora photographie le dessin posé à plat, pendant que Malik appelle l’imprimeuse pour vérifier le délai. Sébastien propose d’agrandir la ligne des crédits. Malik recule de deux pas, lit leurs noms à voix haute, puis valide l’épreuve avec eux. L’affiche part avec le dessin et les noms. Sébastien dit à Nora qu’il reparlera de l’album après le montage. Il finit de rouler l’essai et ramasse le galet qu’il a fait glisser en dégageant le papier. En sortant, il confirme à Inès qu’il sera au filage des ouvertures jeudi et remet la craie dans la poche de sa veste.
+
+---
+
+**Conclusion**
+
+L’affiche part avec une fenêtre dessinée et des noms lisibles. Le rectangle vide montre à quel point un public imaginé peut arriver tôt dans la pensée de Sébastien. Sa réponse concernant l’album reste ouverte.

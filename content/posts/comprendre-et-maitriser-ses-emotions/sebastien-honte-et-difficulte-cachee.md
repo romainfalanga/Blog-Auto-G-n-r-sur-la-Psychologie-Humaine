@@ -34,14 +34,79 @@ Camille lui dit qu’il peut répondre plus tard, mais qu’elle ne veut plus di
 
 La honte peut rendre difficile de parler d’une dysmorphophobie, y compris à des personnes auprès desquelles on se sent généralement en confiance. Le temps pris par les préoccupations peut rester caché alors que l’entourage voit des changements de programme. Sébastien sait expliquer ce qu’il fait à l’atelier et trouve ses mots moins facilement pour ce qui l’a retenu chez lui. Il craint le jugement de sa sœur et se demande aussi quelle place cela prendrait dans leurs futurs échanges. Avoir reçu un diagnostic ne rend pas chacune de ces conversations facile.
 
-## Le retard que Camille avait mis sur le compte du théâtre
+## Comment la honte rend-elle le retentissement difficile à voir ?
 
-Camille sait quels messages elle a reçus. Elle en avait déduit que l’atelier imposait souvent des heures supplémentaires. Elle se rappelle surtout le dimanche où il n’est pas venu. Elle a passé l’heure du déjeuner à regarder si son téléphone s’allumait. Sébastien ignorait qu’elle l’avait attendu si longtemps. Lui se rappelle avoir écrit trois versions du même message pour cacher sa gêne. Aucun des deux n’a le récit entier. Ils commencent par s’entendre sur les réponses qu’ils pourront donner à leur tante, même si Sébastien hésite encore sur le reste.
+### Une explication plus facile à donner
 
-## Partager assez pour une demande précise
+La honte peut conduire à raconter une cause de remplacement.
 
-Dire qu’une difficulté de santé a joué un rôle peut suffire pour commencer une conversation. Sébastien peut demander que cette information reste entre eux et préciser ce qui l’aiderait mardi, sans raconter ce qui a été dit dans ses consultations. Camille a la possibilité de refuser un accompagnement ou de proposer une disponibilité différente. Si Sébastien peine à dire au centre l’étendue du retentissement, il peut commencer par décrire le repas manqué et ce qui l’a empêché de partir. Les professionnels peuvent explorer cette difficulté avec lui et lui demander quelle place, s’il en souhaite une, donner à sa sœur.
+**Exemples concrets**
+
+- Sébastien invoque l’atelier un dimanche où il ne parvient pas à sortir.
+- Quelqu’un peut présenter une absence comme un oubli alors qu’il a longtemps hésité devant sa porte.
+
+### Un besoin visible sans sa cause
+
+Les proches constatent les changements avant de savoir ce qui les a provoqués.
+
+**Exemples concrets**
+
+- Camille se souvient d’avoir guetté un message pendant le repas.
+- Une amie peut constater plusieurs reports et en conclure que les emplois du temps ne concordent plus.
+
+### Des mots qui tardent malgré la confiance
+
+Pouvoir parler d’une difficulté dépend aussi du contexte et de la relation.
+
+**Exemples concrets**
+
+- Sébastien attend que sa sœur pose le plat avant d’évoquer son rendez-vous.
+- Une personne peut facilement expliquer un travail en retard et chercher longtemps comment dire ce qui l’a arrêtée.
+
+## 3 techniques pour parler de ce qu’on souhaite partager
+
+### 1. Partir d’un événement commun
+
+Donner un point d’appui à la conversation.
+
+**Exercice pratique**
+
+- Nommer le dimanche où il n’est pas venu.
+- Dire à Camille ce qu’elle n’avait pas vu.
+- Lui laisser le temps de raconter ce qu’elle a attendu.
+
+Les deux récits peuvent éclairer le malentendu.
+
+### 2. Préciser la demande pour mardi
+
+Formuler un appui sans élargir la confidence.
+
+**Exercice pratique**
+
+- Demander de se retrouver au tram.
+- Indiquer où l’accompagnement s’arrête.
+- Décider qui répondra à la tante.
+
+Camille peut accepter une aide dont elle connaît la portée.
+
+### 3. Ouvrir un sujet difficile en consultation
+
+Donner au suivi accès à une difficulté peu racontée.
+
+**Exercice pratique**
+
+- Retenir un exemple de repas manqué.
+- Dire ce qui a empêché le départ.
+- Signaler ce qu’il est encore difficile de raconter.
+
+Le professionnel peut reprendre la question avec tact.
 
 ## Jusqu’à la porte du centre
 
 Sébastien dit qu’il se fait suivre pour une dysmorphophobie. Il raconte le dimanche où il n’a pas réussi à venir et demande si Camille peut faire avec lui le dernier bout du trajet, depuis le tram. Elle peut marcher jusque-là, puis elle a une course. Il lui dit que c’est exactement ce qu’il demande. Pour leur tante, il préfère répondre lui-même d’ici mercredi. Camille remet le plat au four pour tenir une deuxième part au chaud. Il tire la chaise par le côté sans attendre qu’elle le lui rappelle.
+
+---
+
+**Conclusion**
+
+Camille comprend enfin pourquoi l’un des déjeuners a été manqué. Sébastien garde la main sur ce qu’il raconte et demande une présence jusqu’au centre. La consultation lui donnera un autre endroit pour décrire ce qu’on ne voyait pas.

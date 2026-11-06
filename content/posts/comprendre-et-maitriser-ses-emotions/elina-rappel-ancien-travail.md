@@ -33,14 +33,79 @@ Mireille l’aperçoit de la porte. « La salle est libre. Tu veux qu’on y ail
 
 Les rappels d’un changement éprouvant peuvent raviver les pensées qui tournent autour de lui. Leur effet dépend de ce qu’ils évoquent pour la personne. La demande sur le papier crème pourrait être traitée en quelques mots. Elle remet aussi Élina en présence d’un lieu qu’elle a quitté, de tâches qu’elle ne supervise plus et d’une personne dont le lien avec elle est encore à redéfinir. Éviter un rappel peut se comprendre quand la gêne revient vite. La question, pour Élina, est de savoir ce dont elle souhaite s’éloigner maintenant et ce qu’elle tient à garder parmi ses activités et ses relations.
 
-## Le trajet vers la sortie
+## Comment un rappel du départ agit-il au milieu d’une autre activité ?
 
-Élina n’a pas refusé la relecture. Elle a ralenti, trouvé une raison de traverser et commencé à regarder des boîtes d’œufs. Quand Mireille lui parle, son texte est là, mais elle le tient d’abord à l’envers. Elle reconnaît ce temps passé à se demander ce qui se fait désormais sans elle. Le pot correspond à la raison de sa venue. La pensée du bureau lui revient sans qu’elle ait voulu l’examiner. Mireille ne connaît ni le message de Yasmine ni ce que la photo a fait remonter.
+### Un détail familier prend toute la place
 
-## Choisir une réponse et un interlocuteur
+Le rappel peut être discret et devenir très présent par ce qu’il évoque.
 
-Élina peut laisser la question de papier en attente et chercher ce qu’elle souhaite dire à Yasmine en tant qu’ancienne collègue. Si elle veut reprendre contact, elle peut proposer un moment sans demande de travail. Sur place, un geste d’attention, suivre du doigt le début d’une phrase ou écouter Mireille lire, peut l’aider à revenir à la décision qu’elles étaient venues prendre. Elle peut aussi demander un moment avant de commencer. Ce sont des options distinctes. Poursuivre la relecture aujourd’hui ne l’oblige ni à résoudre la question du bureau ni à s’exposer à tous les rappels de son départ.
+**Exemples concrets**
+
+- Le papier crème ramène Élina à l’armoire et aux livraisons de couvertures.
+- Une notification d’un ancien groupe de travail peut ramener une personne au dernier jour où elle y a écrit.
+
+### Le détour pour s’éloigner du rappel
+
+Une personne peut chercher à quitter le moment où les pensées reprennent, même si elle y était venue pour autre chose.
+
+**Exemples concrets**
+
+- Élina se retrouve devant les œufs qu’elle ne voulait pas acheter.
+- Quelqu’un peut reporter une visite au marché parce que le chemin passe devant un lieu associé au poste quitté.
+
+### Un lien qu’on hésite à conserver
+
+La relation avec une personne peut rappeler le changement et compter encore pour d’autres raisons.
+
+**Exemples concrets**
+
+- Élina veut revoir Yasmine et hésite à reprendre une tâche du bureau pour lui répondre.
+- Un ancien collègue peut proposer de déjeuner, alors que parler du travail pendant tout le repas serait encore difficile.
+
+## 3 techniques pour répondre à un rappel gênant
+
+### 1. Revenir à ce qu’on était venu faire
+
+Retrouver une action présente quand un souvenir prend de la place.
+
+**Exercice pratique**
+
+- Repérez le moment où vous avez quitté le fil.
+- Choisissez un détail concret, comme le début de la phrase sur la feuille.
+- Décidez si vous reprenez l’activité ou demandez une pause.
+
+Le choix peut redevenir plus clair quand la tâche est de nouveau devant vous.
+
+### 2. Distinguer le service et le lien
+
+Dire ce que vous souhaitez garder d’une relation.
+
+**Exercice pratique**
+
+- Identifiez la demande qui concerne l’ancien rôle.
+- Choisissez si vous voulez y répondre aujourd’hui.
+- Proposez un autre échange si vous souhaitez rester en lien.
+
+La relation peut prendre une forme qui vous convient à présent.
+
+### 3. Reprendre avec une personne présente
+
+S’appuyer sur une aide disponible dans l’activité du moment.
+
+**Exercice pratique**
+
+- Dites que vous avez besoin d’un instant.
+- Demandez une action concrète, par exemple d’entendre la première phrase à voix haute.
+- Fixez ensemble ce que vous pouvez encore faire sur place.
+
+Cet appui peut faciliter une reprise de la tâche sans imposer un échange sur le passé.
 
 ## La voix de Farida dans la pièce
 
 Mireille lit et s’interrompt sur « l’encoche ». En écoutant Mireille, Élina comprend que le lecteur saura d’où vient le pot sans savoir que Farida le saisit toujours du même côté. Elles ajoutent ce geste. Farida passe au local après avoir rangé son étal. Elle lit le texte à son tour et donne son accord pour le publier, y compris la citation. Élina répond ensuite à Yasmine qu’elle ne va pas chercher la référence et demande si elle voudrait parler dimanche. Mireille lui propose une réunion courte mardi pour décider qui pourrait faire un tirage d’essai.
+
+---
+
+**Conclusion**
+
+Élina relit le texte avec Mireille et propose à Yasmine un appel qui lui convient. Elle a ainsi pris deux décisions au moment où un même rappel menaçait de les confondre. Mireille peut lui offrir un choix sur le démarrage de la lecture.

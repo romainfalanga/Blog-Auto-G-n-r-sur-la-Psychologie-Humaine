@@ -34,14 +34,79 @@ L’ergothérapeute demande ce qu’Agnès a vu mardi. Nathalie connaît les fai
 
 L’évaluation d’une accumulation concerne la façon dont les objets arrivent, l’expérience des décisions de séparation et leurs effets au fil du temps. Une visite convenue ou les observations d’un proche peuvent apporter des éléments différents de ceux recueillis en entretien. Le professionnel tient compte de la santé et des circonstances. Un problème de mobilité ou des symptômes d’un autre trouble peuvent aussi peser sur l’usage du logement. Dans le suivi de Nathalie, la visite sert à réexaminer les usages et le risque à partir de son diagnostic déjà établi. Elle garde la main sur ce qu’elle souhaite raconter à Nora.
 
-## Ce que montrent le trajet et la chaise
+## Comment les difficultés apparaissent-elles dans une évaluation à domicile ?
 
-La porte d’entrée s’ouvre, mais la circulation se complique à l’approche du séjour. Ces observations portent sur deux endroits précis. Nathalie parle aussi des repas dans le fauteuil et de la place qu’elle n’a plus pour recevoir Agnès. Le trajet et la table n’ont pas changé au même moment. Une pochette contenant des papiers de librairie attire son regard. Certaines décisions sont suspendues depuis des années. Quand Nora lui demande ce qui aurait rendu le trajet plus simple mardi, elle peut répondre sans savoir combien d’objets elle serait prête à transmettre.
+### Le même espace à deux moments
 
-## Décider d’abord ce qui doit rester accessible
+Une pièce peut paraître aussi pleine lors de deux rendez-vous et avoir perdu un usage entre-temps. Situer le changement aide à comprendre son retentissement.
 
-Lorsqu’un passage se resserre, il est utile de le dire à l’équipe sans attendre d’avoir réglé toutes les décisions. Nora examine avec Nathalie le trajet vers la porte et ce qu’un tiers peut faire avec son accord. Selon le danger constaté, une intervention adaptée peut nécessiter l’appui de services compétents. Ni la nièce ni une amie n’ont à improviser une manutention. Dans le cas de Nathalie, Nora propose une action limitée aujourd’hui, un rendez-vous pour vérifier l’évolution et un contact si l’accès se réduit de nouveau. Pour la table, elles peuvent convenir d’un autre objectif.
+**Exemples concrets**
+
+- Nathalie mangeait encore à table lors du rendez-vous précédent. Elle mange maintenant parfois au fauteuil.
+- Quelqu’un peut avoir longtemps ouvert une armoire sans difficulté, puis cesser de l’utiliser quand son accès se resserre.
+
+### Ce que montre le trajet
+
+Une visite convenue renseigne sur des gestes précis et permet de distinguer des obstacles différents. La porte peut fonctionner alors qu’un trajet intérieur reste gêné.
+
+**Exemples concrets**
+
+- Nora voit la porte d’entrée s’ouvrir complètement.
+- À l’entrée du séjour, Nathalie doit faire un écart autour d’un carton.
+
+### Ce que seule la personne peut expliquer
+
+Les observations gagnent à être replacées dans l’histoire et dans le vécu de la personne. Un regard extérieur ne donne pas accès au sens des affaires ou au moment où la gêne a commencé.
+
+**Exemples concrets**
+
+- Nora voit la pochette. Nathalie sait que certaines décisions sur ces papiers remontent à la librairie.
+- Agnès a vu la chaise encombrée le mardi. Nathalie décrit aussi les repas qu’elle ne prend plus à table.
+
+## 3 techniques pour préparer une évaluation des usages chez soi
+
+### 1. Arriver avec un avant et un après
+
+Rendre perceptible un changement à l’équipe.
+
+**Exercice pratique**
+
+- Choisissez un usage que vous connaissiez bien dans cette pièce.
+- Rappelez-vous la dernière période où il restait possible.
+- Décrivez à quoi ressemble le même geste aujourd’hui.
+
+La comparaison peut préciser ce que vous souhaitez retrouver.
+
+### 2. Choisir ce qui sera montré
+
+Convenir du périmètre d’une visite à domicile.
+
+**Exercice pratique**
+
+- Demandez à l’avance le but de la visite.
+- Dites quelles pièces ou quels trajets vous êtes d’accord pour regarder ensemble.
+- Précisez quelles informations d’un proche vous souhaitez partager.
+
+L’équipe peut recueillir les éléments utiles dans un cadre que chacun comprend.
+
+### 3. Fixer une priorité avec l’équipe
+
+Traiter une difficulté de circulation selon le risque constaté.
+
+**Exercice pratique**
+
+- Montrez le passage qui vous préoccupe.
+- Demandez au professionnel quelle aide est adaptée aujourd’hui.
+- Notez qui contacter si l’accès change et quand refaire le point.
+
+Les prochaines décisions deviennent plus faciles à situer.
 
 ## L’accès, puis la table
 
 Avec l’accord de Nathalie, Nora l’aide à déplacer le carton léger vers un emplacement stable et vérifie avec elle que le trajet vers la porte reste dégagé. Les brochures y restent. Elles conviennent de laisser le passage libre. Nathalie appellera l’équipe s’il se rétrécit de nouveau. Nora reviendra avec une collègue pour une aide matérielle annoncée à l’avance, à laquelle Nathalie pourra donner des limites. Nathalie garde la pochette violette sur la table. Dans le carnet, sous « porte », elle note le numéro de l’équipe. Sous « table », elle écrit qu’elle voudrait une chaise où on peut reculer.
+
+---
+
+**Conclusion**
+
+L’observation de l’entrée change la priorité de Nora et Nathalie. Elles traitent le passage, puis réservent à la table un autre rendez-vous. Les proches peuvent partager ce qu’ils ont vu si Nathalie souhaite les associer.

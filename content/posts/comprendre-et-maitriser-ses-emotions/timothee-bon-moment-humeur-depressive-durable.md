@@ -33,14 +33,79 @@ Dehors, il prend un instant devant la vitrine avant de remettre son écharpe. Ce
 
 Une humeur dépressive persistante peut varier et laisser de la place à des moments plus légers. En consultation, le professionnel s’intéresse à ce qui entoure ces moments et à la façon dont la personne se sent sur une durée plus large. Le rire de Timothée fait partie de son vécu aussi bien que la lourdeur retrouvée au retour. Inversement, un retour de la lourdeur au cours d’une soirée ne suffit pas à conclure qu’un nouvel épisode dépressif a commencé. Le vécu de Timothée peut comporter les deux moments sans qu’ils s’annulent.
 
-## Le magasin et le chemin du retour
+## Comment des moments plus légers s’inscrivent-ils dans une humeur basse ?
 
-Yacine a entendu le rire et vu Timothée demander une seconde écoute. Timothée se rappelle aussi qu’il avait déjà moins d’élan pour la suite quand ils se sont mis à parler d’un repas. Il ne sait pas si c’est le rire avec un ami, la surprise dans le casque ou la possibilité de s’arrêter quand il veut qui a compté. Il n’avait pas besoin de trancher cette question dans le magasin. Pour raconter son jeudi, il lui suffit de faire une place au moment dans le casque et à ce qu’il a éprouvé ensuite.
+### Un plaisir reconnaissable dans l’instant
 
-## Laisser une place aux deux observations
+La lourdeur peut céder par moments. L’intérêt ou le rire a alors une place réelle dans la journée.
 
-Timothée peut dire à Yacine ce qu’il a aimé et décider séparément de rentrer. Pour le rendez-vous de suivi, s’il veut retenir cet exemple, il peut noter le lieu et quelques mots sur l’avant et l’après. Cela donne une indication plus précise qu’une conclusion sur toute la semaine. Il n’a pas à noter chaque changement, à provoquer des moments agréables pour les tester ou à prolonger une visite qui lui convient en l’état. Le choix du temps passé chez son ami lui appartient à chaque visite.
+**Exemples concrets**
+
+- Timothée remet le casque pour entendre l’hésitation sur le disque.
+- Il imite le grincement à Yacine et profite de le faire rire à son tour.
+
+### Un élan qui baisse avant le prochain projet
+
+L’envie de prolonger le moment peut retomber plus vite que le souvenir de ce qui a plu.
+
+**Exemples concrets**
+
+- Le choix d’un restaurant lui paraît déjà lointain à la sortie du magasin.
+- Dans un autre contexte, une promenade agréable peut se terminer par le désir de rentrer sans faire la course prévue.
+
+### Une lecture qui change avec le dernier moment
+
+Une soirée peut être racontée comme si seul son début ou seule sa fin avait compté.
+
+**Exemples concrets**
+
+- Timothée imagine dire oui au repas pour se prouver qu’il va mieux.
+- Dans le bus, la lourdeur retrouvée risque de prendre toute la place dans son souvenir de la visite.
+
+## 3 techniques pour raconter une variation sans tirer de verdict
+
+### 1. L’avant et l’après sur un même papier
+
+Conserver une variation concrète si l’on souhaite en parler.
+
+**Exercice pratique**
+
+- Nommez le lieu ou la personne présente.
+- Écrivez ce qui a eu du goût sur le moment.
+- Ajoutez en quelques mots ce que vous avez senti après.
+
+Le papier peut rappeler les deux parties de l’expérience en consultation.
+
+### 2. Une visite qui s’arrête au bon moment
+
+Reconnaître ce qui a plu et choisir séparément la suite.
+
+**Exercice pratique**
+
+- Dites ce que vous avez aimé.
+- Répondez à la nouvelle invitation selon votre disponibilité.
+- Laissez l’autre décider de sa soirée.
+
+Le plaisir partagé peut compter même si l’on ne reste pas manger.
+
+### 3. Des variations remises dans le temps
+
+Savoir quand parler d’un changement au professionnel.
+
+**Exercice pratique**
+
+- Repensez à ce qui se répète d’habitude.
+- Repérez si la gêne s’étend au-delà du moment.
+- Parlez-en au soignant si ce changement inquiète.
+
+La durée et les conséquences peuvent aider à préciser ce qui mérite une évaluation.
 
 ## Le nom au verso du ticket
 
 Yacine lui écrit le titre au verso d’un ticket de caisse. Timothée le plie autour de sa carte de bus. « Ça m’a fait du bien de l’écouter ici. Je vais quand même rentrer. » Yacine lui dit qu’il met le disque de côté jusqu’au prochain inventaire, puis baisse le rideau. Dans le bus, Timothée s’aperçoit qu’il tient encore le ticket. Il y ajoute au crayon « deux écoutes » et « lourd au retour ». Il compte garder le papier pour parler de sa semaine à la docteure Rivière.
+
+---
+
+**Conclusion**
+
+Le rire chez Yacine et la lourdeur du retour appartiennent à la même soirée. Timothée garde les deux sur son ticket. Yacine peut accueillir ce bref plaisir et le départ à l’heure choisie.

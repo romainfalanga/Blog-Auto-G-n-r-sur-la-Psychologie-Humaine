@@ -24,18 +24,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Comment les dommages du jeu s’étendent au foyer",
-          "text": "Le trouble lié aux jeux d’argent se manifeste par un comportement de jeu qui se répète, devient difficile à maîtriser et prend une place croissante malgré ses conséquences. La CIM-11 de l’OMS le classe sous le code 6C50. Il concerne les jeux dans lesquels de l’argent est engagé sur un résultat incertain. La CIM-11 décrit séparément le trouble lié à l’usage des jeux vidéo. L’évaluation professionnelle considère ce qui se passe dans la durée et ce que cela change dans la vie de la personne."
+          "heading": "Quand le jeu atteint une dépense essentielle",
+          "text": "La poursuite du jeu malgré des dommages est l’une des dimensions du trouble lié aux jeux d’argent décrites dans la CIM-11. Ici, Gabin a engagé de l’argent déjà destiné au loyer. La perte modifie donc aussi les comptes de Nora. Un montant isolé ne suffit pas à établir un trouble. L’équipe examine la répétition du comportement, sa maîtrise et ses conséquences."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Pour Gabin, l’exemple du loyer rend visible un effet qui dépasse la somme perdue. Nora comptait sur un versement pour une dépense commune. Il avait aussi promis à l’association de confirmer ce qu’il pourrait fabriquer. Nora et la bénévole ont chacune besoin d’informations pour prendre leurs décisions."
+          "heading": "Comment le jeu peut-il peser sur le loyer ?",
+          "points": [
+            {
+              "heading": "Une somme n’est plus disponible",
+              "text": "L’argent était déjà réservé à un besoin. Sa disparition crée un manque réel dès ce mois-ci.",
+              "examples": [
+                "Le montant mis de côté pour le loyer ne suffit plus au virement.",
+                "Une facture d’électricité reste en attente alors que le délai approche."
+              ]
+            },
+            {
+              "heading": "Le budget de l’autre bouge aussi",
+              "text": "Une charge commune oblige chacun à ajuster ses propres comptes.",
+              "examples": [
+                "Nora ne sait pas combien laisser sur le compte pour le loyer.",
+                "Un colocataire reporte un achat nécessaire en attendant de connaître sa part."
+              ]
+            },
+            {
+              "heading": "Le flou retarde la réponse",
+              "text": "Dire que le virement tarde peut sembler plus facile que d’annoncer un manque. Le proche ignore alors s’il doit agir.",
+              "examples": [
+                "Gabin a annoncé un retard sans préciser que le montant serait incomplet.",
+                "Une personne promet de « voir demain » sans connaître la somme disponible."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Dire la part qui concerne chacun",
-          "text": "Le NICE souligne que la honte et la crainte d’en parler peuvent compliquer l’accès au soutien. Gabin peut reprendre au prochain contact avec l’équipe ce qu’il n’a pas osé dire sur le loyer. Avec Nora, il peut commencer par l’information qui lui manque pour organiser ses comptes. Sa part n’est pas intégralement disponible à la date convenue. Il peut préciser ce qu’il sait et demander un moment pour parler du reste. Nora pourra dire ce que ce retard change pour elle.\n\nÀ l’atelier, une réponse plus courte suffit. Gabin peut annoncer le nombre de chaises déjà utilisables et convenir d’une date pour revoir le reste. Il garde le choix de ce qu’il souhaite partager sur sa santé."
+          "heading": "3 techniques pour faire le point sur une charge essentielle",
+          "points": [
+            {
+              "heading": "Photographier la situation du jour",
+              "objective": "Distinguer ce qui est confirmé de ce qui reste à calculer.",
+              "exercise": [
+                "Prenez l’avis de paiement.",
+                "Comparez-le à la somme réellement disponible.",
+                "Notez ce qui reste à vérifier."
+              ],
+              "benefit": "Ce point peut éviter de promettre un versement sur une estimation."
+            },
+            {
+              "heading": "Prévenir la personne concernée",
+              "objective": "Lui donner une information dont elle a besoin pour décider.",
+              "exercise": [
+                "Dites si la somme sera incomplète.",
+                "Indiquez quand vous pourrez confirmer le montant.",
+                "Convenez d’un moment qui lui convient aussi."
+              ],
+              "benefit": "Le proche peut commencer à organiser sa part."
+            },
+            {
+              "heading": "Nommer la dépense en consultation",
+              "objective": "Donner à l’équipe une idée concrète des dommages.",
+              "exercise": [
+                "Retrouvez le contact habituel.",
+                "Dites de quelle charge l’argent provenait.",
+                "Demandez où obtenir un appui budgétaire."
+              ],
+              "benefit": "L’équipe peut proposer un relais adapté à la situation."
+            }
+          ]
         }
       ],
       "ending_title": "Une réponse à l’atelier",
@@ -52,7 +108,8 @@
         "next": "Le lendemain, l’idée de revenir jouer pour effacer la perte lui revient pendant le service."
       },
       "clinical_focus": "Jeu malgré les conséquences",
-      "clinical_intro": "Gabin a puisé dans l’argent du loyer et ne dit à Nora qu’une partie de ce qui s’est passé. La honte retarde la conversation alors que Nora doit organiser ses propres dépenses. Dans le trouble lié aux jeux d’argent, les professionnels regardent comment la difficulté à maîtriser le jeu et sa poursuite malgré les dommages affectent la vie de la personne et de son entourage."
+      "clinical_intro": "Gabin a puisé dans l’argent du loyer et ne dit à Nora qu’une partie de ce qui s’est passé. La honte retarde la conversation alors que Nora doit organiser ses propres dépenses. Dans le trouble lié aux jeux d’argent, les professionnels regardent comment la difficulté à maîtriser le jeu et sa poursuite malgré les dommages affectent la vie de la personne et de son entourage.",
+      "conclusion": "Gabin peut annoncer un manque avant de savoir quand il pourra le combler. Le lendemain, le même montant lui donnera envie de rejouer. Nora peut déjà prévoir sa propre part avec cette information."
     },
     {
       "number": 2,
@@ -74,13 +131,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "La somme manque aujourd’hui et une mise supplémentaire peut créer une nouvelle perte. La difficulté à s’arrêter malgré les conséquences fait partie de ce que les professionnels examinent dans le trouble lié aux jeux d’argent. Un exemple comme cette pause aide le service à comprendre à quel moment l’idée prend de la place."
+          "heading": "Comment l’envie de rattraper une perte peut-elle s’imposer ?",
+          "points": [
+            {
+              "heading": "Une perte devient un objectif",
+              "text": "Le chiffre fixe l’attention sur ce qui devrait revenir plutôt que sur l’argent disponible.",
+              "examples": [
+                "Gabin inscrit la somme perdue dans la marge avant de la barrer.",
+                "Une personne pense à retrouver le solde d’avant plutôt qu’au montant qu’elle a encore."
+              ]
+            },
+            {
+              "heading": "Le gain imaginé paraît acquis",
+              "text": "La personne peut anticiper le soulagement alors que rien n’a changé.",
+              "examples": [
+                "Gabin répète mentalement la conversation avec Nora comme si le loyer était réglé.",
+                "On commence à compter sur un gain hypothétique pour promettre un remboursement."
+              ]
+            },
+            {
+              "heading": "Une échéance rend l’idée pressante",
+              "text": "L’urgence de rendre des comptes peut faire passer la reprise du jeu pour un moyen de régler le problème.",
+              "examples": [
+                "Gabin pense à rejouer en préparant sa réponse pour mercredi.",
+                "Un rappel de facture fait resurgir la même idée au milieu du travail."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Sortir la question du loyer du résultat du jeu",
-          "text": "Le NICE recommande d’examiner avec la personne ce qui précède les envies de jouer, le rôle qu’elle donne au jeu et ses difficultés financières. Gabin peut apporter deux questions distinctes. Il veut parler au service de ce qui lui arrive quand il a peur d’annoncer une perte. Il souhaite aussi connaître les appuis qui existent pour examiner son budget. Il peut demander un rendez-vous plus proche si l’envie persiste et parler à Nora du montant disponible. La situation du loyer doit être regardée avec les sommes qu’il connaît et, si besoin, l’aide d’un service compétent. Elle ne peut pas être résolue par un gain qu’il imagine."
+          "heading": "3 techniques pour répondre à l’envie de rattraper une perte",
+          "points": [
+            {
+              "heading": "Revenir à l’argent réel",
+              "objective": "Repérer le moment où un gain imaginé entre dans les comptes.",
+              "exercise": [
+                "Notez ce qui est déjà disponible.",
+                "Écartez du calcul toute somme espérée au jeu.",
+                "Soulignez la charge qui demande une réponse."
+              ],
+              "benefit": "La prochaine décision peut reposer sur un montant connu."
+            },
+            {
+              "heading": "Mettre l’envie en mots",
+              "objective": "Séparer la pensée de la décision de jouer.",
+              "exercise": [
+                "Faites une pause dans le calcul.",
+                "Notez la phrase qui vous traverse.",
+                "Laissez-la au contact de soins convenu."
+              ],
+              "benefit": "L’équipe peut travailler avec vous à partir d’un moment précis."
+            },
+            {
+              "heading": "Traiter l’échéance autrement",
+              "objective": "Chercher une action qui répond à la charge sans nouvelle mise.",
+              "exercise": [
+                "Repérez la personne qui attend une réponse.",
+                "Fixez avec elle un moment pour le point.",
+                "Demandez un conseil budgétaire si les montants restent confus."
+              ],
+              "benefit": "La charge peut être examinée même si la perte ne peut pas être effacée."
+            }
+          ]
         }
       ],
       "ending_title": "Avant de remonter en cuisine",
@@ -97,7 +210,8 @@
         "next": "Avec son accord, l’équipe lui propose un rendez-vous de conseil budgétaire pour examiner les dépenses du foyer."
       },
       "clinical_focus": "Rattrapage des pertes",
-      "clinical_intro": "Pendant sa pause, Gabin imagine l’argent déjà revenu sur son compte et la conversation difficile avec Nora déjà derrière lui. L’envie de rejouer lui paraît alors une solution à sa honte et à son problème de loyer. Cette recherche de rattrapage est fréquente dans le trouble lié aux jeux d’argent et une nouvelle mise expose à des pertes supplémentaires."
+      "clinical_intro": "Pendant sa pause, Gabin imagine l’argent déjà revenu sur son compte et la conversation difficile avec Nora déjà derrière lui. L’envie de rejouer lui paraît alors une solution à sa honte et à son problème de loyer. Cette recherche de rattrapage est fréquente dans le trouble lié aux jeux d’argent et une nouvelle mise expose à des pertes supplémentaires.",
+      "conclusion": "L’envie de revenir à l’équilibre n’offre aucune garantie de récupérer la somme. Gabin garde la trace de cette pensée et apporte ses dépenses à la conseillère. Il lui reste à dire à Nora quand ils pourront faire le point."
     },
     {
       "number": 3,
@@ -119,13 +233,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Ce qui lui est difficile à dire",
-          "text": "Gabin prononce facilement le prix des ferrures. Pour parler du loyer, il commence par montrer la date. Le pli masque encore une partie du justificatif et il reprend la liste des chaises dès qu’une somme reste incertaine. À l’atelier, prévoir un achat lui est plus familier que de dire ce qu’il manque pour la dépense commune. À la maison, le même report laisse Nora attendre une information dont elle a besoin."
+          "heading": "Comment l’évitement des comptes prolonge-t-il les conséquences du jeu ?",
+          "points": [
+            {
+              "heading": "Les papiers se mélangent",
+              "text": "Regrouper toutes les dépenses peut rendre le premier geste difficile.",
+              "examples": [
+                "Gabin range le loyer avec ses achats personnels.",
+                "Un échéancier disparaît dans une pile de reçus sans que sa date soit notée."
+              ]
+            },
+            {
+              "heading": "Une dépense facile sert de détour",
+              "text": "Parler d’un achat ordinaire peut faire gagner du temps face à un chiffre qui fait honte.",
+              "examples": [
+                "Gabin commence l’entretien par le prix des ferrures.",
+                "Quelqu’un passe en revue les petites courses avant de mentionner le retard d’une charge."
+              ]
+            },
+            {
+              "heading": "Une estimation tient lieu de vérification",
+              "text": "Le manque peut rester opaque quand certaines sommes ont été comptées plusieurs fois.",
+              "examples": [
+                "Gabin connaît son premier versement et hésite encore sur le reste.",
+                "Une personne promet le même solde pour deux échéances proches."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une transparence qui permet d’agir",
-          "text": "Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement.\n\nGabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.\n\nNora a besoin de savoir quelle part est versée et ce qui reste incertain pour prendre ses décisions. Gabin peut partager cette information sans lui transférer ses accès, ses documents personnels ou la charge de suivre ses dépenses. Il peut proposer un moment précis pour mettre à jour les chiffres et lui demander si ce format lui convient. Nora reste libre de s’informer sur sa propre situation auprès d’un service compétent et de définir ce qu’elle accepte de payer. Leur accord sur les charges garde ses limites, même si Gabin demande par ailleurs un soutien lié au jeu. La conseillère peut leur indiquer où se tourner si le manque met en difficulté une échéance essentielle."
+          "heading": "3 techniques pour reprendre des comptes qu’on repousse",
+          "points": [
+            {
+              "heading": "Sortir une feuille utile",
+              "objective": "Commencer par la conséquence la plus pressante.",
+              "exercise": [
+                "Cherchez la pièce avec la prochaine date.",
+                "Mettez de côté les documents sans rapport.",
+                "Entourez la ligne qui reste à confirmer."
+              ],
+              "benefit": "Une première tâche courte peut rendre le dossier abordable."
+            },
+            {
+              "heading": "Faire vérifier un calcul",
+              "objective": "Distinguer les sommes sûres des hypothèses.",
+              "exercise": [
+                "Apportez les justificatifs disponibles à un service de conseil.",
+                "Signalez le calcul dont vous doutez.",
+                "Gardez une note de ce qu’il faut encore retrouver."
+              ],
+              "benefit": "Le rendez-vous peut éclaircir un point même si des pièces manquent."
+            },
+            {
+              "heading": "Préparer le message commun",
+              "objective": "Informer la personne sans ouvrir tout son dossier personnel.",
+              "exercise": [
+                "Notez le versement confirmé.",
+                "Ajoutez ce qui reste en suspens.",
+                "Indiquez quand vous referez les comptes ensemble."
+              ],
+              "benefit": "Chacun peut décider de sa part avec les informations qui le concernent."
+            }
+          ]
         }
       ],
       "ending_title": "Ce qui tient sur une feuille",
@@ -142,7 +312,8 @@
         "next": "Au service d’addictologie, il revient sur l’heure où l’envie de rattraper la perte a pris le dessus."
       },
       "clinical_focus": "Évitement des conséquences financières",
-      "clinical_intro": "Devant la conseillère, Gabin parle d’abord des ferrures de l’atelier. Il sait en expliquer le prix alors que les chiffres du loyer lui font honte et restent incomplets. Les conséquences financières du trouble peuvent justifier un accompagnement spécifique. En séparant ses dépenses personnelles des charges communes, Gabin peut demander de l’aide et partager avec Nora ce dont elle a besoin pour décider."
+      "clinical_intro": "Devant la conseillère, Gabin parle d’abord des ferrures de l’atelier. Il sait en expliquer le prix alors que les chiffres du loyer lui font honte et restent incomplets. Les conséquences financières du trouble peuvent justifier un accompagnement spécifique. En séparant ses dépenses personnelles des charges communes, Gabin peut demander de l’aide et partager avec Nora ce dont elle a besoin pour décider.",
+      "conclusion": "Gabin ressort avec une dépense qu’il sait nommer et un achat qu’il reporte. Au service, il pourra revenir au moment où les chiffres lui ont donné envie de rejouer. La feuille ne contiendra que les renseignements qui concernent le foyer."
     },
     {
       "number": 4,
@@ -164,13 +335,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Le trajet après la fermeture est un exemple pour Gabin. L’inquiétude pour une dépense l’est aussi. Il peut raconter ce qu’il cherchait alors et ce qui l’a aidé à demander un contact. Il n’a pas besoin de raconter une soirée entière pour apporter des éléments utiles. Il peut aussi signaler quand son expérience change et quand un exemple ne ressemble pas aux précédents."
+          "heading": "Comment le contexte peut-il rendre l’envie de jouer plus pressante ?",
+          "points": [
+            {
+              "heading": "Le passage d’une tâche au vide",
+              "text": "La fin d’une activité structurée peut laisser place à une envie jusque-là en arrière-plan.",
+              "examples": [
+                "Gabin se retrouve seul après le départ des collègues.",
+                "Une personne y repense en attendant longtemps un trajet après une journée chargée."
+              ]
+            },
+            {
+              "heading": "L’émotion arrive avant l’idée",
+              "text": "Une inquiétude peut précéder l’envie et aider à en situer le début.",
+              "examples": [
+                "Le rappel de paiement arrête Gabin en pleine journée.",
+                "Une dispute sur une dépense fait remonter l’idée en rentrant."
+              ]
+            },
+            {
+              "heading": "Un détail rappelle l’épisode",
+              "text": "Un objet ordinaire peut aider à retrouver la chronologie après coup.",
+              "examples": [
+                "L’assiette froide rappelle à Gabin quand il a perdu le fil de sa pause.",
+                "Une note laissée dans le vestiaire rappelle le moment où l’on a voulu s’isoler."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Se donner des options que l’on peut vraiment utiliser",
-          "text": "Gabin et l’intervenante choisissent un repère personnel. Quand l’idée de récupérer une somme revient et qu’il commence à préparer une nouvelle mise, il peut reprendre le contact indiqué avec l’équipe. Ils regardent ce qui existe aux heures où le service habituel est fermé et la manière de demander une aide urgente si sa sécurité est en jeu. Il peut également demander à Nora si elle est d’accord pour un échange bref à son retour. Le plan reste utilisable quand elle travaille ou qu’elle n’est pas joignable.\n\nL’intervenante lui demande si la discussion des prochains rendez-vous est plus facile tôt dans la journée. Ils choisissent un créneau compatible avec la cuisine et gardent une autre possibilité à revoir."
+          "heading": "3 techniques pour repérer les circonstances de l’envie de jouer",
+          "points": [
+            {
+              "heading": "Reconstituer un court passage",
+              "objective": "Chercher ce qui change juste avant l’envie.",
+              "exercise": [
+                "Choisissez une situation récente.",
+                "Remontez d’un ou deux événements.",
+                "Notez ce que vous faisiez et ce qui a changé."
+              ],
+              "benefit": "La consultation peut partir de faits faciles à retrouver."
+            },
+            {
+              "heading": "Comparer deux moments",
+              "objective": "Éviter de construire le plan autour d’un seul horaire.",
+              "exercise": [
+                "Prenez un exemple de journée et un exemple de soirée.",
+                "Soulignez ce qu’ils ont en commun.",
+                "Apportez aussi leur différence à l’entretien."
+              ],
+              "benefit": "Le service peut proposer des appuis pour plusieurs circonstances."
+            },
+            {
+              "heading": "Choisir quand appeler",
+              "objective": "Rendre le recours accessible avant que l’envie occupe tout.",
+              "exercise": [
+                "Repérez le moment où vous commencez à hésiter.",
+                "Demandez quel contact utiliser à cette heure.",
+                "Gardez le renseignement à un endroit facile à ouvrir."
+              ],
+              "benefit": "Vous pourriez solliciter un soutien plus tôt."
+            }
+          ]
         }
       ],
       "ending_title": "La note à retrouver dans le bus",
@@ -187,7 +414,8 @@
         "next": "Une sollicitation pendant le repas lui donne un exemple concret pour discuter des moyens de protection."
       },
       "clinical_focus": "Déclencheurs de l’envie de jouer",
-      "clinical_intro": "Gabin s’attend à éprouver l’envie de jouer à l’arrêt de bus après le travail. Un rappel de paiement l’a aussi déclenchée en pleine journée. L’équipe lui demande de décrire la fatigue, l’inquiétude et le moment où l’idée de récupérer les pertes devient pressante. Ce repérage l’aide à choisir quand demander du soutien et quels recours il pourra utiliser à cette heure."
+      "clinical_intro": "Gabin s’attend à éprouver l’envie de jouer à l’arrêt de bus après le travail. Un rappel de paiement l’a aussi déclenchée en pleine journée. L’équipe lui demande de décrire la fatigue, l’inquiétude et le moment où l’idée de récupérer les pertes devient pressante. Ce repérage l’aide à choisir quand demander du soutien et quels recours il pourra utiliser à cette heure.",
+      "conclusion": "L’arrêt de bus donne un premier repère à Gabin, et le rappel de paiement en donne un autre. Au dîner, une notification ajoutera un déclencheur qu’il n’avait pas cité. Nora n’aura pas à être disponible à chaque retour du travail."
     },
     {
       "number": 5,
@@ -204,18 +432,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Réduire les invitations à jouer",
-          "text": "Certaines protections peuvent réduire l’exposition aux sollicitations ou rendre l’accès au jeu plus difficile. Le NICE recommande d’en discuter avec la personne selon sa situation. Il cite notamment le blocage des messages commerciaux, les outils qui limitent l’accès au jeu en ligne, l’auto-exclusion lorsque le dispositif existe et le blocage des paiements liés au jeu lorsque la banque le propose."
+          "heading": "Quand un message ramène l’attention au jeu",
+          "text": "L’OMS décrit des envies de jouer qui surviennent au cours d’autres activités. Une sollicitation liée au jeu peut faire partie des circonstances à repérer. Pendant le repas, Gabin a beau retourner son téléphone, une partie de son attention reste occupée par le message. Le NICE propose de discuter de protections adaptées, dont le blocage des messages commerciaux et, quand ils existent, les dispositifs de limitation d’accès ou de paiement."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gabin cherche ce qui s’applique à lui. La nature d’un outil et sa disponibilité peuvent changer selon le service. Il peut demander ce que la protection couvre, quels effets elle pourrait avoir sur ses usages et comment obtenir un appui si elle ne répond pas à son besoin."
+          "heading": "Comment une sollicitation peut-elle interrompre une activité ?",
+          "points": [
+            {
+              "heading": "Le rappel tient en quelques mots",
+              "text": "La personne peut reconnaître le sujet avant même d’avoir ouvert le message.",
+              "examples": [
+                "Gabin identifie la notification en cherchant un renseignement sur le repas de rue.",
+                "Une alerte apparaît pendant qu’une personne consulte les horaires du bus."
+              ]
+            },
+            {
+              "heading": "L’envie reste après l’écran éteint",
+              "text": "Ne plus voir le message ne suffit pas toujours à retrouver l’attention.",
+              "examples": [
+                "Gabin sait où la notification réapparaîtrait s’il rallumait l’écran.",
+                "Une personne relit mentalement un message pendant qu’un ami lui parle."
+              ]
+            },
+            {
+              "heading": "La conversation perd une information",
+              "text": "Une envie apparue au milieu d’un échange peut avoir un effet immédiatement visible.",
+              "examples": [
+                "Gabin redemande le nom de la personne qui propose des plats.",
+                "Quelqu’un oublie l’heure donnée pour un rendez-vous pendant qu’il pense à l’alerte."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire un choix que Gabin peut garder en main",
-          "text": "L’équipe peut aider Gabin à choisir une première mesure et à décider quand en reparler. Il souhaite d’abord réduire les sollicitations reçues pendant ses soirées. S’il veut ensuite connaître les possibilités auprès de sa banque, il peut demander des informations à celle-ci et en discuter avec le service. Ses accès restent sous sa responsabilité. Nora peut lui tenir compagnie s’il le souhaite et si elle est disponible. Elle garde son propre téléphone et ses propres comptes en dehors de cette démarche.\n\nL’envie peut revenir malgré une mesure de protection. Gabin garde les coordonnées du service pour ce moment. La question à reprendre avec l’équipe sera ce qui s’est passé et de quel appui il a besoin."
+          "heading": "3 techniques pour limiter les sollicitations liées au jeu",
+          "points": [
+            {
+              "heading": "Garder le fil de l’échange",
+              "objective": "Reprendre ce qu’on voulait faire au moment de l’alerte.",
+              "exercise": [
+                "Posez le téléphone hors du champ de vue.",
+                "Demandez qu’on vous redonne la dernière information.",
+                "Notez-la sur le support qui est déjà devant vous."
+              ],
+              "benefit": "La conversation peut continuer sans exiger que l’envie disparaisse."
+            },
+            {
+              "heading": "Repérer le canal à fermer",
+              "objective": "Réduire les messages qui ramènent au jeu sans les rouvrir.",
+              "exercise": [
+                "Identifiez le type de notification si vous le connaissez déjà.",
+                "Notez-le pour l’intervenant.",
+                "Choisissez avec lui un réglage qui limite les messages."
+              ],
+              "benefit": "L’alerte peut revenir moins souvent par ce canal."
+            },
+            {
+              "heading": "Demander quelles barrières existent",
+              "objective": "Savoir ce qu’un dispositif couvrirait avant de le choisir.",
+              "exercise": [
+                "Notez la protection dont vous voulez parler.",
+                "Demandez au service ou à la banque ce qu’il propose.",
+                "Vérifiez comment garder les usages ordinaires nécessaires."
+              ],
+              "benefit": "La mesure choisie peut mieux convenir à votre situation."
+            }
+          ]
         }
       ],
       "ending_title": "Le carton dans la cuisine",
@@ -232,7 +516,8 @@
         "next": "À l’atelier, la question des ferrures l’oblige à revoir le nombre de chaises avec l’association."
       },
       "clinical_focus": "Envie déclenchée par une sollicitation",
-      "clinical_intro": "Au dîner, Gabin retourne son téléphone dès qu’il reconnaît la notification. Son attention revient pourtant à l’écran et il demande à Nora de répéter. Une sollicitation liée au jeu peut réveiller l’envie pendant une activité à laquelle la personne tient. L’équipe aide Gabin à examiner les protections qui réduisent cette exposition et à choisir celles qu’il souhaite utiliser."
+      "clinical_intro": "Au dîner, Gabin retourne son téléphone dès qu’il reconnaît la notification. Son attention revient pourtant à l’écran et il demande à Nora de répéter. Une sollicitation liée au jeu peut réveiller l’envie pendant une activité à laquelle la personne tient. L’équipe aide Gabin à examiner les protections qui réduisent cette exposition et à choisir celles qu’il souhaite utiliser.",
+      "conclusion": "Gabin reprend la conversation et discute d’un réglage avec son intervenante. À l’atelier, les pertes auront un autre effet, cette fois sur ce qu’il peut encore financer. Nora peut lui rendre le fil du repas, et l’équipe l’aider à choisir ses protections."
     },
     {
       "number": 6,
@@ -254,13 +539,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Dans l’atelier, il dispose de bois, d’un nombre limité de ferrures et de deux créneaux. Ces éléments lui permettent de proposer une contribution sans faire dépendre le repas d’argent dont il ignore encore la disponibilité. Le projet garde son intérêt même si une partie des chaises doit être empruntée."
+          "heading": "Comment les pertes au jeu se répercutent-elles sur les loisirs ?",
+          "points": [
+            {
+              "heading": "L’achat manquant réduit la contribution",
+              "text": "Une dépense de loisir peut devenir impossible une fois les charges protégées.",
+              "examples": [
+                "Gabin ne peut plus acheter les ferrures des dernières chaises.",
+                "Une personne doit reporter l’achat des fournitures d’un club."
+              ]
+            },
+            {
+              "heading": "Le nombre annoncé continue de circuler",
+              "text": "Le groupe a pu organiser la suite autour d’une estimation faite avant les pertes.",
+              "examples": [
+                "Huit bâtons restent inscrits au tableau de l’atelier.",
+                "Un voisin compte sur une quantité de matériel que personne n’a confirmée."
+              ]
+            },
+            {
+              "heading": "L’embarras donne envie de maintenir la promesse",
+              "text": "Il peut être difficile d’annoncer une baisse qui touche une activité appréciée.",
+              "examples": [
+                "Gabin s’imagine devant la photo des huit chaises.",
+                "Une personne hésite à signaler qu’elle ne peut plus financer sa part d’une sortie."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Participer avec un engagement que l’on peut tenir",
-          "text": "Gabin peut dire ce qu’il pourra livrer et quand il aura besoin de confirmer l’état des chaises. L’association peut expliquer les conditions du prêt et refuser une solution si elle laisse encore trop de travail à répartir. Leurs échanges portent sur les moyens, le temps et les responsabilités. Gabin choisit s’il souhaite aussi expliquer pourquoi il revoit la dépense. L’atelier a surtout besoin de savoir ce qu’il peut prévoir.\n\nIls peuvent garder plusieurs manières de participer. Gabin sait repérer l’espace nécessaire entre deux tables de service. S’il manque un créneau pour monter les dernières chaises, cette compétence peut aussi être utile, à condition que ce soit un accord et que cela tienne dans son horaire."
+          "heading": "3 techniques pour adapter un projet aux moyens disponibles",
+          "points": [
+            {
+              "heading": "Compter ce qui est déjà là",
+              "objective": "Trouver ce qui reste faisable sans nouvel achat.",
+              "exercise": [
+                "Faites l’inventaire du matériel.",
+                "Notez la quantité que vous pouvez réellement produire.",
+                "Vérifiez le temps nécessaire."
+              ],
+              "benefit": "Vous pouvez garder une partie du projet dans votre budget."
+            },
+            {
+              "heading": "Rectifier auprès du groupe",
+              "objective": "Permettre à d’autres d’organiser ce qui manque.",
+              "exercise": [
+                "Donnez le nombre que vous confirmez.",
+                "Précisez la date à laquelle ce sera prêt.",
+                "Demandez ce que le groupe peut apporter."
+              ],
+              "benefit": "Le complément peut devenir une décision collective."
+            },
+            {
+              "heading": "Choisir une aide qui ne coûte pas",
+              "objective": "Participer sans déplacer la charge vers une autre dépense.",
+              "exercise": [
+                "Demandez quelles tâches restent ouvertes.",
+                "Proposez celle qui tient dans votre horaire.",
+                "Convenez d’un point de contrôle avant le jour prévu."
+              ],
+              "benefit": "Votre participation peut rester utile sans nouvelle promesse financière."
+            }
+          ]
         }
       ],
       "ending_title": "Quatre bâtons et un appel",
@@ -277,7 +618,8 @@
         "next": "À la colocation, Nora lui demande de revoir la façon dont ils organisent les achats en attendant de clarifier le loyer."
       },
       "clinical_focus": "Retentissement sur les activités choisies",
-      "clinical_intro": "Gabin aimerait fabriquer les huit chaises qu’il a laissé espérer. Les pertes et le retard du loyer ont changé ce qu’il peut consacrer à l’atelier, et le dire lui coûte. Les dommages du jeu peuvent se propager jusqu’aux loisirs et au lien social. Un projet adapté à ses ressources permet à Gabin de tenir un engagement réel avec les voisins."
+      "clinical_intro": "Gabin aimerait fabriquer les huit chaises qu’il a laissé espérer. Les pertes et le retard du loyer ont changé ce qu’il peut consacrer à l’atelier, et le dire lui coûte. Les dommages du jeu peuvent se propager jusqu’aux loisirs et au lien social. Un projet adapté à ses ressources permet à Gabin de tenir un engagement réel avec les voisins.",
+      "conclusion": "Quatre chaises fabriquées et quatre prêtées suffisent pour l’atelier. Au foyer, une autre limite de dépense demandera une conversation différente. La bénévole peut confirmer le prêt dès qu’elle connaît la contribution de Gabin."
     },
     {
       "number": 7,
@@ -294,18 +636,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "La part du proche dans une dépense commune",
-          "text": "Les conséquences du jeu peuvent toucher les finances et le quotidien des personnes qui partagent un foyer. Le NICE recommande de proposer un soutien aux proches qui en ont besoin, y compris séparément. Nora peut fixer ce qu’elle est prête à partager, protéger l’argent destiné à ses propres dépenses et demander conseil sur les engagements qui la concernent."
+          "heading": "La confiance après des dépenses devenues incertaines",
+          "text": "Les pertes liées au jeu peuvent fragiliser les accords qui organisent la vie commune. Le proche peut vouloir protéger sa part, et la personne qui a joué peut vivre ce changement comme une mise à distance. Les deux réactions sont visibles dans la cuisine de Gabin et Nora. Le NICE recommande aussi un soutien propre aux proches si les conséquences du jeu les touchent."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gabin a, de son côté, un espace pour parler du jeu et un rendez-vous de conseil budgétaire. Leur discussion dans la cuisine peut rester sur la part de chacun, les échéances connues et la manière de s’avertir d’un changement."
+          "heading": "Comment une limite d’argent peut-elle peser sur le lien ?",
+          "points": [
+            {
+              "heading": "L’accord change dans les petits gestes",
+              "text": "Séparer une dépense rend visible la prudence du proche.",
+              "examples": [
+                "Nora laisse deux paniers différents dans l’entrée.",
+                "Un colocataire paie son abonnement seul après un retard répété."
+              ]
+            },
+            {
+              "heading": "La protection est entendue comme une rupture",
+              "text": "Une décision sur l’argent peut sembler remettre en cause un plaisir partagé.",
+              "examples": [
+                "Gabin croit d’abord que Nora ne veut plus cuisiner avec lui.",
+                "Quelqu’un entend une demande de remboursement comme un refus de toute prochaine sortie."
+              ]
+            },
+            {
+              "heading": "Une promesse vise à rassurer trop vite",
+              "text": "Réparer le lien paraît parfois urgent alors que la dépense reste incertaine.",
+              "examples": [
+                "Gabin pense proposer de payer toutes les courses.",
+                "Une personne offre de régler un prochain repas avant d’avoir vérifié son solde."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Un accord assez précis pour les prochaines courses",
-          "text": "Ils peuvent convenir des achats qu’ils souhaitent encore faire à deux et préciser ce qu’ils paieront chacun. Leur accord a plus de chances de tenir s’ils parlent de l’argent disponible aujourd’hui et d’une date pour reprendre les points ouverts. Nora peut dire qu’elle ne consent pas à une avance et Gabin peut exprimer sa déception. Ils peuvent aussi décider qu’un repas partagé se fera avec ce que chacun a déjà chez soi.\n\nGabin garde le choix de reprendre la suite du loyer avec la conseillère. Nora peut solliciter son propre appui si elle veut comprendre les conséquences pour elle. Participer à un rendez-vous commun serait une décision de chacun."
+          "heading": "3 techniques pour parler d’argent sans présumer des intentions",
+          "points": [
+            {
+              "heading": "Vérifier le sens de la demande",
+              "objective": "Distinguer la limite financière de la relation.",
+              "exercise": [
+                "Reformulez l’achat dont il est question.",
+                "Demandez si la limite vaut pour cette semaine ou plus longtemps.",
+                "Parlez séparément de l’activité que vous aimeriez partager."
+              ],
+              "benefit": "Chacun peut préciser ce qu’il entendait."
+            },
+            {
+              "heading": "Définir une exception claire",
+              "objective": "Garder une dépense partagée si les deux y consentent.",
+              "exercise": [
+                "Choisissez un achat précis.",
+                "Convenez de la part de chacun.",
+                "Séparez les autres courses."
+              ],
+              "benefit": "Le plaisir commun peut rester compatible avec des comptes protégés."
+            },
+            {
+              "heading": "Reporter une offre incertaine",
+              "objective": "Éviter qu’une inquiétude déclenche une promesse coûteuse.",
+              "exercise": [
+                "Notez ce que vous aviez envie de proposer.",
+                "Comparez-le aux charges confirmées.",
+                "Revenez à l’autre après le point convenu."
+              ],
+              "benefit": "La réponse peut tenir compte des limites réelles."
+            }
+          ]
         }
       ],
       "ending_title": "La liste pliée en deux",
@@ -322,7 +720,8 @@
         "next": "Le soir d’une fermeture imprévue, Gabin essaie d’utiliser le plan sans compter sur la disponibilité de Nora."
       },
       "clinical_focus": "Peur du rejet après les pertes",
-      "clinical_intro": "Nora veut payer ses courses séparément. Gabin entend d’abord que sa colocataire ne souhaite plus cuisiner avec lui et il est tenté de promettre de tout régler. Les pertes peuvent fragiliser la confiance dans un foyer. En distinguant l’accord sur l’argent et le plaisir de partager un repas, ils peuvent parler de la blessure ressentie et décider de ce que chacun est prêt à assumer."
+      "clinical_intro": "Nora veut payer ses courses séparément. Gabin entend d’abord que sa colocataire ne souhaite plus cuisiner avec lui et il est tenté de promettre de tout régler. Les pertes peuvent fragiliser la confiance dans un foyer. En distinguant l’accord sur l’argent et le plaisir de partager un repas, ils peuvent parler de la blessure ressentie et décider de ce que chacun est prêt à assumer.",
+      "conclusion": "Nora garde ses dépenses séparées et le dîner reste possible. Une fermeture tardive mettra bientôt à l’épreuve le plan de soutien que Gabin garde pour lui. Nora garde ses comptes et choisit elle-même le plat qu’elle apporte."
     },
     {
       "number": 8,
@@ -344,13 +743,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Chez Gabin, le retour tardif, l’atelier annulé et le rappel du versement se trouvent réunis. Il peut s’appuyer sur le repère choisi avec l’intervenante quand revient l’idée de régler la difficulté en jouant. Ensuite, il pourra lui expliquer ce qui a rendu le moment plus difficile à traverser et ce qui a été possible malgré le changement d’horaire. Le plan pourra être revu avec l’équipe."
+          "heading": "Comment plusieurs imprévus peuvent-ils rapprocher du jeu ?",
+          "points": [
+            {
+              "heading": "Le repère de la soirée disparaît",
+              "text": "Un changement d’horaire peut supprimer une activité attendue.",
+              "examples": [
+                "Gabin finit après le dernier bus pour l’atelier.",
+                "Une personne doit renoncer à la promenade prévue après une journée difficile."
+              ]
+            },
+            {
+              "heading": "Le rappel financier survient au mauvais moment",
+              "text": "L’idée de réparer une perte peut se joindre à une contrariété déjà présente.",
+              "examples": [
+                "Sur le quai, le rappel du versement arrive après l’annulation de l’atelier.",
+                "En rentrant tard, quelqu’un découvre une facture qu’il croyait réglée."
+              ]
+            },
+            {
+              "heading": "Le soutien habituel est indisponible",
+              "text": "L’envie peut devenir plus pressante lorsqu’un appui prévu n’est pas joignable.",
+              "examples": [
+                "Nora est au travail et laisse son téléphone au vestiaire.",
+                "La personne à qui l’on parle d’habitude ne répond pas en pleine soirée."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Faire une demande qui reste possible quand Nora travaille",
-          "text": "Gabin peut utiliser le contact prévu et décrire la situation en peu de mots. Si le service est fermé, il suit les options qu’il a discutées avec les professionnels en fonction de l’urgence. Pour les chaises, il peut garder le rendez-vous de vérification pour un autre jour, avec l’accord de l’atelier. Ce report réduit une décision à prendre ce soir. Il peut encore demander de la compagnie à une personne disponible, en disant ce qu’il souhaite lui raconter. Le rôle de Nora reste celui qu’ils avaient convenu, un échange quand elle en a le temps. Le trajet d’aujourd’hui peut être repris avec l’intervenante au prochain point."
+          "heading": "3 techniques pour utiliser son plan quand plusieurs difficultés s’ajoutent",
+          "points": [
+            {
+              "heading": "Consulter le recours de repli",
+              "objective": "Trouver l’aide prévue sans attendre la réponse d’un proche.",
+              "exercise": [
+                "Ouvrez le plan convenu avec l’équipe.",
+                "Vérifiez le recours correspondant à l’heure et à la situation.",
+                "Laissez les informations demandées ou suivez le relais indiqué."
+              ],
+              "benefit": "Une démarche reste possible même si la première porte est fermée."
+            },
+            {
+              "heading": "Remettre la décision d’argent à son moment",
+              "objective": "Éviter de traiter une échéance sous la pression de l’envie de jouer.",
+              "exercise": [
+                "Identifiez ce qui ne peut être vérifié ce soir.",
+                "Fixez le moment prévu pour reprendre le calcul.",
+                "Choisissez une prochaine étape ordinaire pour la soirée."
+              ],
+              "benefit": "Il peut devenir plus facile de passer l’heure sans ajouter une dépense."
+            },
+            {
+              "heading": "Décrire l’enchaînement à l’équipe",
+              "objective": "Examiner le cumul plutôt qu’un détail isolé.",
+              "exercise": [
+                "Notez ce qui a changé en premier.",
+                "Ajoutez le moment où l’envie est revenue.",
+                "Indiquez le recours effectivement accessible."
+              ],
+              "benefit": "Le plan peut être ajusté à une soirée réelle."
+            }
+          ]
         }
       ],
       "ending_title": "Un message sur le quai",
@@ -367,7 +822,8 @@
         "next": "Une autre semaine, il rejoue et doit décider à qui en parler et quelles conséquences annoncer."
       },
       "clinical_focus": "Cumul de situations vulnérables",
-      "clinical_intro": "La fermeture tardive prive Gabin de son passage à l’atelier. Sur le quai, un rappel de versement ranime l’idée de rejouer pour rapporter une meilleure nouvelle. Son plan de soutien lui donne un contact à mobiliser même quand Nora travaille. Cette soirée lui fournit un exemple concret à revoir avec l’équipe, notamment sur le rôle des imprévus et l’accès à une aide en dehors des horaires habituels."
+      "clinical_intro": "La fermeture tardive prive Gabin de son passage à l’atelier. Sur le quai, un rappel de versement ranime l’idée de rejouer pour rapporter une meilleure nouvelle. Son plan de soutien lui donne un contact à mobiliser même quand Nora travaille. Cette soirée lui fournit un exemple concret à revoir avec l’équipe, notamment sur le rôle des imprévus et l’accès à une aide en dehors des horaires habituels.",
+      "conclusion": "Cette fois, Gabin laisse un message et rentre directement. Une autre semaine, la reprise du jeu lui posera la question de revenir vers l’équipe. Si Nora est occupée, le contact du service reste accessible selon l’accord convenu."
     },
     {
       "number": 9,
@@ -389,13 +845,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gabin peut apporter au service ce qu’il sait de la veille, même s’il ne comprend pas encore pourquoi le plan a été difficile à utiliser. Il peut dire ce que la perte change aujourd’hui et demander quand ils peuvent se parler. L’équipe pourra revoir avec lui les protections, le soutien et les besoins qui ont changé. Le fait d’avoir déjà parlé de ces difficultés lui donne un point de départ pour le rendez-vous."
+          "heading": "Comment une reprise du jeu peut-elle compliquer le retour aux soins ?",
+          "points": [
+            {
+              "heading": "Une amélioration fait attendre une trajectoire régulière",
+              "text": "Rejouer peut surprendre après plusieurs semaines où la personne maîtrisait mieux ses dépenses.",
+              "examples": [
+                "Gabin avait prévu la somme du loyer comme si elle ne pouvait plus changer.",
+                "Une personne hésite à dire qu’elle a rejoué après avoir annoncé une bonne période."
+              ]
+            },
+            {
+              "heading": "Le message vague revient facilement",
+              "text": "La honte peut pousser à minimiser les conséquences immédiates.",
+              "examples": [
+                "Gabin retape « Il y a un retard ».",
+                "Quelqu’un cache le changement de montant en parlant seulement d’un souci de banque."
+              ]
+            },
+            {
+              "heading": "Le rendez-vous suivant paraît la seule option",
+              "text": "La personne peut hésiter à reprendre contact plus tôt alors que des dommages réapparaissent.",
+              "examples": [
+                "Gabin se demande s’il peut rappeler avant son créneau.",
+                "Une personne prépare sa question puis referme le numéro du service."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Actualiser les informations pour le foyer",
-          "text": "Nora peut organiser ses dépenses quand elle sait ce que Gabin est en mesure de verser. Il peut lui annoncer la somme confirmée, la part qui manque et le moment où il donnera des nouvelles. Il peut demander à revoir la conseillère budgétaire si une dépense essentielle est menacée. Nora peut refuser de couvrir l’écart ou demander un avis pour ses propres engagements. Si Gabin est trop bouleversé pour poursuivre le calcul, il peut demander de l’aide au service et convenir d’un moment pour reprendre la feuille. La situation de santé et le versement peuvent demander des réponses différentes."
+          "heading": "3 techniques pour demander un nouvel appui après avoir rejoué",
+          "points": [
+            {
+              "heading": "Demander un échange avancé",
+              "objective": "Revenir vers l’équipe sans devoir avoir tout compris.",
+              "exercise": [
+                "Retrouvez le moyen de contact convenu.",
+                "Dites simplement que vous avez rejoué.",
+                "Demandez quel échange est possible avant la prochaine date."
+              ],
+              "benefit": "L’équipe peut déterminer avec vous la suite utile."
+            },
+            {
+              "heading": "Préparer les faits pour l’entretien",
+              "objective": "Donner des éléments sur la reprise sans transformer la note en jugement.",
+              "exercise": [
+                "Notez ce qui se passait juste avant.",
+                "Indiquez le dommage que vous pouvez confirmer.",
+                "Apportez une protection que vous voudriez revoir."
+              ],
+              "benefit": "Ces éléments peuvent orienter la discussion."
+            },
+            {
+              "heading": "Actualiser l’information commune",
+              "objective": "Limiter l’incertitude pour le foyer.",
+              "exercise": [
+                "Vérifiez la somme encore disponible.",
+                "Transmettez uniquement ce qui affecte la charge commune.",
+                "Donnez une date pour le point suivant."
+              ],
+              "benefit": "Le proche peut ajuster ses propres comptes."
+            }
+          ]
         }
       ],
       "ending_title": "La chaise rangée et le message envoyé",
@@ -412,7 +924,8 @@
         "next": "Le soir, sa détresse s’accentue et le besoin d’aide devient plus pressant que la discussion financière."
       },
       "clinical_focus": "Reprise du jeu et honte",
-      "clinical_intro": "Après plusieurs semaines où il gérait mieux ses dépenses, Gabin a rejoué. En retrouvant la somme manquante, il est tenté d’écrire le même message vague qu’au début. La honte peut rendre un nouveau contact difficile. Un accès rapide au suivi permet d’examiner ce qui s’est passé, de revoir les protections et de s’occuper des conséquences concrètes pour le foyer."
+      "clinical_intro": "Après plusieurs semaines où il gérait mieux ses dépenses, Gabin a rejoué. En retrouvant la somme manquante, il est tenté d’écrire le même message vague qu’au début. La honte peut rendre un nouveau contact difficile. Un accès rapide au suivi permet d’examiner ce qui s’est passé, de revoir les protections et de s’occuper des conséquences concrètes pour le foyer.",
+      "conclusion": "Gabin retrouve le service et informe Nora. Plus tard dans la journée, une détresse qui s’accentue rendra nécessaire un autre type d’aide. Nora peut organiser sa part avec les chiffres confirmés."
     },
     {
       "number": 10,
@@ -429,18 +942,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Quand la sécurité passe en premier",
-          "text": "Une reprise du jeu et ses conséquences peuvent s’accompagner d’une détresse aiguë. Le NICE recommande une évaluation urgente lorsqu’il existe un risque important ou immédiat pour la personne."
+          "heading": "Reconnaître quand la détresse exige un secours",
+          "text": "Une reprise du jeu et ses conséquences financières ou relationnelles peuvent s’accompagner d’une détresse aiguë. Le NICE recommande une évaluation urgente lorsque la sécurité de la personne est menacée. Le loyer donne un contexte à la situation de Gabin. Ce qui détermine l’action immédiate est la peur qu’il exprime de se faire du mal."
         },
         {
           "role": "manifestations",
-          "heading": "Quand il dit ce qu’il craint pour ce soir",
-          "text": "Gabin a déjà pris rendez-vous avec le service. Devant la porte, il n’arrive pourtant plus à se projeter jusqu’au lendemain. Il commence par parler du retard du loyer, le sujet qu’il sait nommer. Quand Nora lui demande ce qui l’inquiète ce soir, il dit qu’il a peur de se faire du mal. Cette phrase lui apprend ce qui est urgent dans la situation présente."
+          "heading": "Comment une détresse aiguë peut-elle apparaître après une reprise ?",
+          "points": [
+            {
+              "heading": "Le prochain moment devient difficile à envisager",
+              "text": "La personne peut ne plus réussir à se projeter dans un avenir pourtant proche. Cela appelle une écoute attentive, sans conclure sur ce seul signe.",
+              "examples": [
+                "Gabin n’arrive plus à imaginer le début de son service du lendemain.",
+                "Une personne dit qu’elle ne sait pas comment elle va tenir jusqu’au matin."
+              ]
+            },
+            {
+              "heading": "La discussion commence par la perte",
+              "text": "La question de l’argent peut précéder une parole plus directe sur la détresse.",
+              "examples": [
+                "Gabin commence par le retard de loyer et peine à dire pourquoi il redoute d’être seul.",
+                "Quelqu’un reparle d’une dette puis dit qu’il a peur de rester sans aide."
+              ]
+            },
+            {
+              "heading": "La sécurité est explicitement en jeu",
+              "text": "Une peur de se faire du mal demande un relais immédiat, quelle que soit la somme en cause.",
+              "examples": [
+                "Gabin exprime cette crainte et demande que Nora reste le temps d’appeler.",
+                "Une personne dit à son proche qu’elle craint de passer à l’acte maintenant."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Aider à appeler et laisser les professionnels prendre le relais",
-          "text": "Face à un danger immédiat, on contacte les services d’urgence. Ils peuvent orienter l’aide selon la situation. En parler clairement permet à l’interlocuteur de comprendre la demande. L’appel peut commencer par le lieu où se trouve la personne et ce qu’elle vient d’exprimer. Les détails du loyer et l’histoire complète du jeu pourront être abordés plus tard.\n\nNora peut rester à portée de voix si elle se sent en sécurité et aider Gabin à appeler. Elle peut lui laisser la parole ou transmettre elle-même ce qu’il vient de lui dire. Le service joint pourra préciser la conduite à tenir et évaluer la situation. Un proche peut avoir besoin d’aide pour lui-même après cet échange. Nora pourra en demander une et choisir ce qu’elle souhaite raconter. La prise en charge et la suite du suivi relèvent des professionnels. Les deux colocataires reprendront leurs questions d’argent quand la situation le permettra et quand chacun sera disponible."
+          "heading": "3 techniques pour demander un relais immédiat en cas de danger",
+          "points": [
+            {
+              "heading": "Dire la crainte et joindre les secours",
+              "objective": "Faire entendre le besoin d’aide sans attendre le rendez-vous habituel.",
+              "exercise": [
+                "Appelez les services d’urgence si vous craignez de vous faire du mal.",
+                "Dites où vous vous trouvez.",
+                "Indiquez clairement ce que vous redoutez."
+              ],
+              "benefit": "Le service peut évaluer le danger et organiser le relais."
+            },
+            {
+              "heading": "Prendre la parole avec l’accord de la personne si possible",
+              "objective": "Aider quand elle n’arrive pas à transmettre toutes les informations.",
+              "exercise": [
+                "Si vous êtes le proche présent, proposez de parler pendant l’appel.",
+                "Rapportez les mots entendus et ce que vous observez.",
+                "Suivez les indications données par les secours."
+              ],
+              "benefit": "L’interlocuteur peut disposer des faits nécessaires pour agir."
+            },
+            {
+              "heading": "Passer le relais en protégeant aussi le proche",
+              "objective": "Donner la priorité à la sécurité pendant l’attente.",
+              "exercise": [
+                "Laissez de côté la discussion financière.",
+                "Restez joignable si les secours le demandent et si c’est sûr pour vous.",
+                "Si vous êtes en danger, éloignez-vous pour appeler."
+              ],
+              "benefit": "Le proche peut contribuer au relais sans assurer seul la sécurité."
+            }
+          ]
         }
       ],
       "ending_title": "L’appel depuis l’entrée",
@@ -457,12 +1026,13 @@
         "next": "Après le relais urgent, il reprend contact avec le service d’addictologie et choisit comment revenir à l’atelier."
       },
       "clinical_focus": "Détresse aiguë et sécurité",
-      "clinical_intro": "Après avoir rejoué, Gabin a du mal à se projeter jusqu’au lendemain et confie à Nora qu’il craint de se faire du mal. Les dommages liés au jeu et une reprise peuvent s’accompagner d’une détresse intense. La peur qu’il exprime motive un appel urgent. Nora reste avec lui le temps de demander un relais, puis les professionnels évaluent la situation."
+      "clinical_intro": "Après avoir rejoué, Gabin a du mal à se projeter jusqu’au lendemain et confie à Nora qu’il craint de se faire du mal. Les dommages liés au jeu et une reprise peuvent s’accompagner d’une détresse intense. La peur qu’il exprime motive un appel urgent. Nora reste avec lui le temps de demander un relais, puis les professionnels évaluent la situation.",
+      "conclusion": "Le soir où Gabin dit qu’il craint de se faire du mal, l’appel passe avant les comptes. L’équipe reprendra le suivi après le relais urgent. D’ici là, Nora peut l’aider à transmettre les faits aux secours."
     },
     {
       "number": 11,
       "slug": "gabin-vis-dans-enveloppe",
-      "title": "Reprendre ses activités et son suivi après la crise",
+      "title": "Après une crise liée au jeu, reprendre une activité à sa mesure",
       "description": "Après le relais urgent, Gabin reprend son suivi et revient à l’atelier pour une tâche convenue avec l’association.",
       "context": "reprendre une activité choisie après une période difficile et revoir les appuis avec les professionnels",
       "topics": [
@@ -474,18 +1044,74 @@
       "sections": [
         {
           "role": "explanation",
-          "heading": "Garder un accès au suivi après la période aiguë",
-          "text": "Après une reprise du jeu ou une crise, un suivi peut être repris ou adapté selon les besoins de la personne. Le NICE recommande que l’accès au soutien reste possible et que les appuis pour les conséquences du jeu soient discutés avec elle."
+          "heading": "Une reprise de l’activité par étapes",
+          "text": "Une crise liée au jeu peut interrompre des activités ordinaires et laisser plusieurs démarches ouvertes. Gabin reprend ses rendez-vous de soins et de conseil tout en essayant un retour court à l’atelier. La reprise d’une tâche choisie donne un repère sur ce qui lui est possible ce jour-là. Le NICE recommande de maintenir un accès à l’accompagnement selon les besoins."
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gabin a repris rendez-vous avec le service et posé une question sur la sécurité. Il peut aussi demander comment les professionnels qu’il a rencontrés vont se coordonner, selon son accord et sa situation. La suite clinique et le point sur ses finances ont leurs interlocuteurs. Il peut exprimer ses préférences, dire ce qui lui paraît encore difficile et vérifier quand il aura une prochaine réponse."
+          "heading": "Comment une crise liée au jeu peut-elle encore peser après l’urgence ?",
+          "points": [
+            {
+              "heading": "Les activités en cours ont été interrompues",
+              "text": "Le retour demande parfois de reprendre un détail laissé en suspens.",
+              "examples": [
+                "La chaise attend avec la vis dans l’enveloppe.",
+                "Un voisin a gardé de côté le matériel d’une personne absente."
+              ]
+            },
+            {
+              "heading": "La tentation de rassurer élargit la tâche",
+              "text": "Une promesse générale peut dépasser ce que la personne sait de ses moyens actuels.",
+              "examples": [
+                "Gabin a envie de se rendre disponible pour tout le repas.",
+                "Une personne veut accepter tous les prochains créneaux dès son retour."
+              ]
+            },
+            {
+              "heading": "Les conséquences ont leur propre calendrier",
+              "text": "Un retour à un loisir ne solde pas les questions de santé ou d’argent.",
+              "examples": [
+                "Gabin passe à l’atelier et a encore un rendez-vous pour le loyer.",
+                "Une personne reprend une sortie de quartier tout en vérifiant avec son équipe le relais si la détresse revient."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Choisir une tâche qui tient dans la journée",
-          "text": "Le retour à une activité peut garder une mesure choisie par la personne. Gabin veut que la chaise soit vérifiée et que l’association sache ce qu’il pourra faire le jour du repas. Il peut faire la première chose maintenant et laisser la seconde pour un autre échange. Si on lui demande comment il va, il peut répondre avec le degré de détail qu’il souhaite. La bénévole garde la possibilité de proposer une autre répartition si le temps manque.\n\nNora n’a pas à accompagner cette reprise. Si elle veut des nouvelles, elle peut en demander en tant que colocataire et amie. Le contact prévu avec le service reste accessible à Gabin indépendamment de l’atelier ou de sa disponibilité."
+          "heading": "3 techniques pour reprendre une activité après le relais urgent",
+          "points": [
+            {
+              "heading": "Borner une tâche choisie",
+              "objective": "Reprendre une activité sans y engager toute la journée.",
+              "exercise": [
+                "Choisissez un geste précis avec le groupe.",
+                "Convenez du temps disponible.",
+                "Décidez ensemble de ce qui marquera la fin."
+              ],
+              "benefit": "La personne peut mesurer l’effort réel de ce retour."
+            },
+            {
+              "heading": "Annoncer un délai pour le prochain engagement",
+              "objective": "Garder la possibilité d’en évaluer la charge.",
+              "exercise": [
+                "Demandez ce que la prochaine tâche exige.",
+                "Vérifiez votre horaire avant de répondre.",
+                "Donnez un jour pour confirmer."
+              ],
+              "benefit": "Le groupe peut s’organiser sur une promesse vérifiable."
+            },
+            {
+              "heading": "Retrouver les relais prévus",
+              "objective": "Garder les questions de santé et de budget auprès des interlocuteurs compétents.",
+              "exercise": [
+                "Confirmez le prochain échange avec l’équipe.",
+                "Vérifiez qui appeler selon le besoin.",
+                "Gardez à part le rendez-vous qui concerne les comptes."
+              ],
+              "benefit": "Les démarches peuvent avancer sans être confiées à l’atelier."
+            }
+          ]
         }
       ],
       "ending_title": "La chaise près du passage",
@@ -501,8 +1127,9 @@
         "choice": "Gabin reprend rendez-vous avec les professionnels et choisit une tâche courte à l’atelier avant de confirmer sa disponibilité.",
         "next": "Au repas de rue, il voit ce que les quatre chaises ont rendu possible et décide ce qu’il souhaite garder pour la suite."
       },
-      "clinical_focus": "Reprise progressive après une crise",
-      "clinical_intro": "Après l’appel d’urgence, Gabin voudrait rassurer les bénévoles en promettant d’être disponible pour tout le repas. Il choisit finalement une tâche courte dont il peut mesurer la charge. Cette reprise d’une activité qui compte pour lui a sa place à côté du suivi clinique et budgétaire. Gabin vérifie aussi avec le service quel contact utiliser si la détresse revient."
+      "clinical_focus": "Retentissement après une crise liée au jeu",
+      "clinical_intro": "Après l’appel d’urgence, Gabin voudrait rassurer les bénévoles en promettant d’être disponible pour tout le repas. Il choisit finalement une tâche courte dont il peut mesurer la charge. Cette reprise d’une activité qui compte pour lui a sa place à côté du suivi clinique et budgétaire. Gabin vérifie aussi avec le service quel contact utiliser si la détresse revient.",
+      "conclusion": "Gabin finit une tâche réelle et laisse la suivante ouverte le temps de vérifier son horaire. Au repas, il pourra voir ce que cet engagement a permis. La bénévole sait quand elle aura sa réponse."
     },
     {
       "number": 12,
@@ -524,13 +1151,69 @@
         },
         {
           "role": "manifestations",
-          "heading": "Comment cette difficulté se manifeste",
-          "text": "Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine."
+          "heading": "Comment le quotidien peut-il s’améliorer alors que l’envie reste possible ?",
+          "points": [
+            {
+              "heading": "Le quotidien retrouve une place",
+              "text": "Une activité peut redevenir agréable avant que tous les dommages aient été réglés.",
+              "examples": [
+                "Gabin s’assoit au repas de rue après avoir installé ses chaises.",
+                "Une personne reprend un rendez-vous amical alors qu’un dossier de dette reste ouvert."
+              ]
+            },
+            {
+              "heading": "Certaines circonstances restent sensibles",
+              "text": "Une amélioration n’efface pas les situations dans lesquelles l’envie est revenue.",
+              "examples": [
+                "Gabin garde une question sur les fermetures accompagnées d’un rappel de paiement.",
+                "Quelqu’un remarque que les messages commerciaux le préoccupent encore les soirs de fatigue."
+              ]
+            },
+            {
+              "heading": "Les besoins n’avancent pas ensemble",
+              "text": "Le suivi de l’envie et le traitement de ses conséquences peuvent demander des points distincts.",
+              "examples": [
+                "Gabin a une date pour le loyer et une question différente pour le service.",
+                "Une personne choisit de revoir ses protections même après avoir organisé ses versements."
+              ]
+            }
+          ]
         },
         {
           "role": "strategies",
-          "heading": "Protéger les liens et répartir les responsabilités",
-          "text": "Gabin et Nora ont un accord sur les informations utiles à leurs dépenses communes. Chacun peut demander qu’il soit revu si les conditions changent. Nora peut continuer à séparer certains achats, garder son propre appui et choisir de venir au repas pour les personnes qu’elle souhaite y retrouver.\n\nDans l’association, Gabin peut proposer un entretien des chaises qui tienne dans les ressources du groupe et ses disponibilités. Il peut aussi choisir de venir une autre fois sans prendre le mobilier en charge. Il sait déjà ce qu’il aime dans cette fête. Les plats arrivent au fur et à mesure et chacun peut dire avec qui il a envie de s’asseoir."
+          "heading": "3 techniques pour ajuster ses appuis dans la durée",
+          "points": [
+            {
+              "heading": "Garder une question pour l’équipe",
+              "objective": "Suivre ce qui reste vulnérable sans interrompre une activité appréciée.",
+              "exercise": [
+                "Notez une situation précise à reprendre.",
+                "Indiquez ce qui vous aiderait à la traverser.",
+                "Apportez la note au rendez-vous."
+              ],
+              "benefit": "L’équipe peut ajuster l’appui sur un besoin actuel."
+            },
+            {
+              "heading": "Distinguer les calendriers",
+              "objective": "Donner un moment propre à chaque question.",
+              "exercise": [
+                "Fixez un point pour la dépense commune.",
+                "Confirmez l’échange de suivi avec le service.",
+                "Gardez des activités ordinaires hors de ces créneaux."
+              ],
+              "benefit": "Les problèmes ouverts peuvent être traités sans prendre tout le temps disponible."
+            },
+            {
+              "heading": "Vérifier ce qui est encore utile",
+              "objective": "Faire évoluer les protections à partir de ce qui se passe réellement.",
+              "exercise": [
+                "Repérez un appui que vous utilisez.",
+                "Notez une circonstance qu’il couvre mal.",
+                "Discutez de l’ajustement avec l’intervenant."
+              ],
+              "benefit": "Le soutien peut suivre l’évolution des besoins."
+            }
+          ]
         }
       ],
       "ending_title": "Gabin tire une chaise",
@@ -547,7 +1230,8 @@
         "next": "Il reprendra le loyer au jour convenu avec Nora et apportera au service sa question sur les soirs de fermeture."
       },
       "clinical_focus": "Suivi dans la durée",
-      "clinical_intro": "Au repas de rue, Gabin profite des échanges avec ses voisins. Les soirs de fermeture où il reçoit un rappel de paiement restent une situation qu’il souhaite travailler en consultation. L’amélioration du quotidien et la vulnérabilité à l’envie de jouer peuvent évoluer à des rythmes différents. Gabin garde un suivi pour ajuster ses protections et un rendez-vous distinct pour les conséquences financières."
+      "clinical_intro": "Au repas de rue, Gabin profite des échanges avec ses voisins. Les soirs de fermeture où il reçoit un rappel de paiement restent une situation qu’il souhaite travailler en consultation. L’amélioration du quotidien et la vulnérabilité à l’envie de jouer peuvent évoluer à des rythmes différents. Gabin garde un suivi pour ajuster ses protections et un rendez-vous distinct pour les conséquences financières.",
+      "conclusion": "Gabin peut profiter du repas avec Nora et les voisins tout en gardant les rendez-vous qu’il a choisis. Les chaises ont servi et le suivi reste disponible pour les difficultés qui persistent. Nora et les bénévoles peuvent profiter du repas avec lui."
     }
   ]
 }

@@ -34,14 +34,79 @@ Agnès est assise près de la vitre. Avant d’entrer, Nathalie lui avait propos
 
 L’accumulation peut avoir des effets sur la vie sociale, entre autres lorsque des visites deviennent difficiles ou que la personne redoute le jugement sur son logement. La honte et le retrait ne sont pas les seuls vécus possibles. Dans cette scène, Nathalie se représente une conversation qu’elle ne souhaite pas, alors que l’on vient seulement de lui proposer une image. Elle peut prendre cette crainte au sérieux tout en distinguant le projet public et ce qu’elle garde privé. Le suivi peut aussi prendre en compte le coût de ces situations, au-delà de l’encombrement à domicile.
 
-## Une invitation qui paraît demander davantage
+## Comment la honte du logement peut-elle réduire la participation ?
 
-Tarek donne trois options, dont celle de publier le son seul. Agnès voit Nathalie retirer sa feuille. Elle ne peut pas en déduire ce que sa tante ressent. Nathalie, elle, connaît déjà la gêne de refuser des visites ou d’inventer une autre raison de se retrouver à l’extérieur. Elle est tentée de partir au moment où elle allait lire une histoire qu’elle aime. Elle a envie d’enregistrer le récit et veut garder son appartement en dehors du projet. Avant de revenir près du micro, elle souhaite entendre que les deux peuvent aller ensemble.
+### Anticiper un jugement avant qu’il soit exprimé
 
-## Choisir ce qui accompagne la lecture
+Une question ordinaire peut évoquer tout ce que la personne redoute de montrer. La scène anticipée peut prendre plus de place que la demande réelle.
 
-Nathalie peut demander à Tarek ce qui sera affiché avec le son, puis donner son accord pour les seuls éléments qui lui conviennent. Elle peut parler à Agnès de la gêne de la photo sans lui déléguer le soin d’expliquer sa situation. S’il est devenu fréquent d’abandonner des activités de peur du regard, ce vécu peut être abordé avec la psychologue. Il est possible de réfléchir à ce qu’on souhaite reprendre, à ses conditions et à l’aide demandée, sans faire d’une confidence publique un passage obligé.
+**Exemples concrets**
+
+- Tarek propose trois options pour l’image. Nathalie imagine des gens du quartier reconnaître son buffet.
+- Une personne pense aux commentaires qu’elle pourrait entendre dès qu’un invité demande s’il peut passer.
+
+### Donner une autre raison pour préserver sa vie privée
+
+Quand parler du logement paraît coûteux, il peut sembler plus facile d’évoquer un détail qui évite d’ouvrir la conversation.
+
+**Exemples concrets**
+
+- Nathalie dit que la lumière chez elle serait mauvaise pour une photo.
+- Elle a déjà proposé de se voir dehors sans dire pourquoi recevoir lui posait problème.
+
+### Hésiter à participer à une activité désirée
+
+La gêne peut s’étendre à des projets qui ont lieu ailleurs. Rester libre du contenu partagé permet parfois de garder une activité à laquelle on tient.
+
+**Exemples concrets**
+
+- Nathalie envisage de ranger son carnet et de partir avant sa lecture.
+- Elle souhaite pourtant faire entendre le récit de l’anguille et garde son album près d’elle.
+
+## 3 techniques pour participer en gardant la maîtrise de ce qu’on partage
+
+### 1. Vérifier ce qui est proposé
+
+Clarifier une demande qui semble ouvrir trop largement la conversation.
+
+**Exercice pratique**
+
+- Demandez ce qui est nécessaire pour participer.
+- Vérifiez quelles informations seraient accessibles et à qui.
+- Répondez sur les seuls éléments que vous souhaitez partager.
+
+La réponse peut porter sur l’activité réelle et ses conditions.
+
+### 2. Préparer une réponse qui suffit
+
+Pouvoir rester dans le projet avec une formulation que l’on choisit.
+
+**Exercice pratique**
+
+- Décidez de ce que vous acceptez, comme le son seul.
+- Dites-le en une phrase à la personne qui organise.
+- Choisissez si vous voulez en parler séparément à un proche.
+
+La personne peut participer à ses conditions et réserver son récit personnel.
+
+### 3. Revenir sur une activité évitée en suivi
+
+Mettre des mots sur ce que la crainte du jugement change au quotidien.
+
+**Exercice pratique**
+
+- Repensez à une invitation qui vous intéressait.
+- Dites ce que vous craigniez qu’il arrive en l’acceptant.
+- Discutez avec votre équipe d’une façon de reprendre l’activité qui vous conviendrait.
+
+Le suivi peut prendre en compte le retentissement sur les relations et les projets.
 
 ## Le bruit de l’atelier dans le texte
 
 Nathalie dit à Agnès que l’image la fait hésiter et qu’elle veut publier seulement le son avec son prénom. Elle donne elle-même la réponse à Tarek. À la deuxième prise, elle garde la pause avant le mot « dehors » et le texte dure juste le temps prévu. Samira vient les rejoindre après l’enregistrement. Elle cherche pour son atelier de démonstration un ancien tampon de librairie et se souvient du « À réserver » de Nathalie. Elle demande si elle pourrait le lui prêter un jour. Nathalie lui dit qu’elle va regarder. Elle pose une main sur l’album, qu’elle a choisi de ramener chez elle.
+
+---
+
+**Conclusion**
+
+La gêne a presque coûté la lecture à Nathalie. Elle accepte que sa voix et son prénom accompagnent le récit et décide de garder le reste privé. Agnès a un rôle précis qu’elle peut tenir derrière la vitre, écouter la lecture.
