@@ -1099,6 +1099,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "34fdfd0ddba02245ec4e9680dad2b02ad0dac001b8673e76d2e7eb7a0a4226a0"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-amelioration-et-suite-du-suivi": {
+    "text": "Éric a animé son coin d’écoute et veut enregistrer d’autres habitants. Il remarque aussi que certaines invitations suscitent encore l’envie de boire. Dans la dépendance à l’alcool, les soignants regardent l’évolution sur la durée, y compris les risques et la place retrouvée par des activités choisies. Ces deux éléments peuvent être utiles au même rendez-vous.",
+    "source_heading": "Amélioration et maintien du suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2c327aa3e75d7289077ec280894c1abbc4e3fac64b2f6104c7da0858c6c40e9f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-confusion-demander-une-aide-urgente": {
+    "text": "Joëlle arrive pour reprendre un disque. Éric ne semble plus savoir quel jour ils sont et sa réponse change au cours de l’échange. Son état inhabituel fait passer la situation de l’aide entre proches à l’urgence médicale. Un sevrage compliqué fait partie des causes que les soignants peuvent devoir examiner selon l’histoire récente.",
+    "source_heading": "Confusion et urgence médicale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "aa4352bce7d50f7fd4ee2b72ea0e38a1e803d5e471a209b95ffa068056b3b851"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-deplacer-les-rendez-vous": {
+    "text": "Éric se surprend à proposer à sa sœur des horaires qui laissent libre la fin de journée au café. Ce déplacement peut passer pour un détail. Il fait ressortir la priorité que la consommation peut prendre dans la dépendance à l’alcool, jusque dans des engagements qui comptent et dans la façon d’organiser la semaine.",
+    "source_heading": "Priorité donnée à la consommation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7880a0e5b1c8743f04f9777fbbaf277107c89e3c3625d710455642d74b52f0db"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-distinguer-envie-et-sevrage": {
+    "text": "En consultation, Éric rapproche l’envie de boire ressentie devant le café et des tremblements survenus autrefois après une baisse de sa consommation. Le médecin lui demande de raconter séparément les deux moments. Comprendre quand les sensations apparaissent aide à distinguer l’envie, l’adaptation du corps et des symptômes qui exigent une évaluation médicale.",
+    "source_heading": "Envie, tolérance et sevrage",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "39e9fb2a630917b6a2955a9a7e78b02a70b9d59ff241092b1b5b85ec1f74b507"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-envie-au-detour-de-la-place": {
+    "text": "Une photo de la fanfare arrive sur le téléphone d’Éric au moment où il traverse la place. Son attention revient au café et il peine à penser à autre chose. Une forte envie de boire peut se réveiller dans un contexte familier. Ce qui précède l’envie et ce qu’Éric cherche à retrouver donnent des repères pour son suivi.",
+    "source_heading": "Envie de boire et contexte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0e2c844fa5f40ed8f1a3e61f8ae8f7b0f458761cdbf0b10bafd7cce9bffaaea7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-envie-de-boire-apres-une-reussite": {
+    "text": "Éric vient de terminer le service et entend quelqu’un complimenter la soupe. L’envie de boire revient avec le plaisir d’avoir cuisiné et le souvenir des fins de fête. Les moments agréables peuvent aussi compter dans le suivi d’une dépendance. Éric avait choisi ce qu’il voulait faire après le service, un engagement qui l’aide à décider sur place.",
+    "source_heading": "Envie de boire après une réussite",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bff250feb11858c913aa49a0d9c62f24ba9f3a8d65796903529157b295162aa4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-honte-avant-de-parler": {
+    "text": "Éric entend reparler du rendez-vous manqué et voudrait changer de sujet. Il craint que tout ce qu’il a préparé soit lu à travers ce que les autres imaginent de sa consommation. La honte peut le pousser à se taire ou à éviter un rendez-vous. Parler dans un cadre choisi peut l’aider à décrire une difficulté et à demander un appui précis.",
+    "source_heading": "Honte et peur du jugement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "573b17033edfbe0557e423ae752e589d2a18f9ec72bba3c4b4837f5a7a63ce4d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-perdre-lheure-depart": {
+    "text": "Éric avait annoncé l’heure de son départ et avait une raison d’y tenir. Il a pourtant continué à boire et a manqué le rendez-vous où il devait enregistrer la marchande du village. Ce moment éclaire une difficulté de la dépendance à l’alcool qui peut se répéter malgré des projets sincères et des conséquences déjà connues.",
+    "source_heading": "Difficulté à arrêter de boire",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "fd21fe99fbc3e5c3dd9e676d59e8cdf85d70680d63684d68d255ce1f40b758fa"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-reparer-un-engagement": {
+    "text": "Éric a repris son suivi après le sevrage. Quand il retrouve Joëlle, elle veut parler des fois où elle l’a attendu et de la peur qu’elle a eue le matin où elle a appelé le 15. L’amélioration de la santé et la confiance entre proches peuvent évoluer à des rythmes différents. Ils choisissent une chose qu’ils peuvent faire ensemble aujourd’hui.",
+    "source_heading": "Retentissement et réparation du lien",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "24d3eb8b77958a4b70749de9741a4761423d6a0808d43d0af6dbd344b92ca539"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-reparler-dune-reprise": {
+    "text": "Après une période qui lui semblait plus facile, Éric a recommencé à boire et la situation s’est répétée. Il hésite à en parler à l’équipe de soins. La reprise apporte des informations sur ce qui a changé et sur le soutien dont il peut avoir besoin. Elle peut amener à revoir les risques et la façon d’organiser le suivi.",
+    "source_heading": "Reprise de consommation et soins",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0c9ae6c0a8bd4446e3e5e9c021a514fd872cfb7fd03d8fbf514eb4fb7525769d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-soins-qui-se-parlent": {
+    "text": "Éric prépare le menu avec Mélissa et pense à l’appel du centre qu’il risque de manquer. Il hésite à coordonner ses rendez-vous avec son médecin habituel parce qu’il tient à choisir ce qui sera partagé. Cette scène montre comment le suivi de la dépendance peut tenir compte de la santé physique, du quotidien et des décisions de la personne.",
+    "source_heading": "Coordination du suivi addictologique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "23a7aec9a2368b56fb91e61721c633ae9574573aa1ab433182763c0b43586af0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eric-venir-sans-promettre-la-suite": {
+    "text": "Éric accepte de venir à une répétition et hésite quand on lui propose de passer au café après. Il redoute de perdre sa place parmi les anciens s’il décline. Dans le suivi d’une dépendance, préparer une réponse peut aider à distinguer le lien auquel on tient, l’invitation reçue et ce qu’on veut faire de la suite.",
+    "source_heading": "Pression du groupe et appartenance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d4fe13e215f00c988ec87c72a66619997f4ec793eccf3759b2151ee673597941"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi": {
     "text": "Au sens courant, espérer signifie envisager un avenir souhaitable, même si son issue reste incertaine. Dans le modèle de C. R. Snyder et de ses collègues, la pensée tournée vers un objectif comporte deux dimensions : imaginer des voies pour l’atteindre (pathways) et se sentir en mesure d’engager et de poursuivre l’action (agency).",
     "source_heading": "Qu'est-ce que l'espoir après un succès ?",
@@ -1678,6 +1750,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "c710a659ae11911dc94fc6783abde0a6663a0b582571036f8088c6acd94a00ef"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-ce-quil-veut-dire-a-martine": {
+    "text": "Martine propose à Joachim de commenter ses photos devant le public. Il se réjouit de parler de la carte et pense déjà au temps qu’il lui faudrait pour sortir d’une salle pleine. Il cherche un moyen de demander une place près du passage sans exposer toute son histoire. Une difficulté liée à l’agoraphobie peut ainsi peser sur un projet auquel la personne tient.",
+    "source_heading": "Confidentialité et participation à une réunion",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3a474dfb336f2bcd31a4650891acc3ed6b2af47f95a1dacef0250d9235532310"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-la-carte-laisse-un-chemin-ouvert": {
+    "text": "Joachim tient une carte qu’il a aidé à réaliser. Il a parfois changé de chemin, demandé un relais ou continué après une pause. Il n’a toujours pas choisi de date pour le belvédère. L’évolution de l’agoraphobie peut mêler des déplacements retrouvés et des difficultés qui persistent. Joachim fait le point sur ce qu’il peut faire et ce qu’il voudrait encore aborder en suivi.",
+    "source_heading": "Progrès et difficultés qui coexistent",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "897f9e71e484c80b2652374d28f9f8216160486e817368a7bb3b94165b74543e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-la-file-quil-quitte": {
+    "text": "Joachim quitte la file d’un étal avant d’arriver au comptoir. Sur le moment, il respire plus librement. Un peu plus tard, il pense au repas qu’il voulait préparer et à son rendez-vous avec Diego. Dans l’agoraphobie, le soulagement obtenu en s’éloignant peut avoir un poids immédiat, même quand la personne tient beaucoup à ce qu’elle abandonne.",
+    "source_heading": "Soulagement et coût de l’évitement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "37a05ae8c411439b9178d19c8a32f42c70d457f4b42eb3d7bcc3e0bde9d08ba6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-la-question-de-lascenseur": {
+    "text": "Joachim s’arrête devant l’ascenseur de la bibliothèque. L’idée qui lui revient ressemble à celle qu’il avait dans la file du marché. Il se demande à qui il pourrait parler s’il se sentait mal et voulait sortir. Pour distinguer l’agoraphobie d’une phobie spécifique, le clinicien cherche à savoir ce qui est redouté et dans quels contextes cette crainte apparaît.",
+    "source_heading": "Différence avec une phobie spécifique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f79c6f0f85026e09f4c06db8ddf8b3970972cb8f1fc40723dac8757260f5e700"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-la-veille-de-la-sortie": {
+    "text": "Le bus du lendemain est encore loin quand Joachim commence à chercher comment il pourrait rentrer plus tôt. Au dîner, il écoute à moitié sa fille et revient aux horaires dès que son téléphone s’allume. L’anxiété d’anticipation peut prendre du temps et de l’attention alors que la situation redoutée est encore à venir. Ce coût existe aussi les jours où la personne sort finalement.",
+    "source_heading": "Anxiété avant la sortie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3a207888a0aa3da8eb21312146816f236dceae25d88bfdedfba3c5a8cb71720e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-le-bus-du-retour": {
+    "text": "Joachim aime prendre des photos avec Diego. En attendant leur bus, il imagine le bus du retour bondé et se demande comment il pourrait descendre s’il se sentait mal. Dans l’agoraphobie, la perspective de manquer d’aide ou de ne pas pouvoir s’éloigner peut prendre le dessus sur ce qu’on avait envie de faire. Le trajet commence alors à peser bien avant de partir.",
+    "source_heading": "Crainte de ne pas pouvoir sortir",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f4c8b425ae2950769c74a16c309ec8d7e01e07e6fcbf92bef0562223a1e8cd82"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-le-detour-du-bus": {
+    "text": "Joachim a déjà pris le bus du lavoir dans le cadre convenu avec sa psychologue. Ce jour-là, le bus emprunte un autre trajet et l’idée de se sentir coincé revient d’un coup. Il se dit qu’il est revenu à son point de départ. L’agoraphobie peut varier d’une situation à l’autre. Regarder ce qui a changé permet de décrire le recul sans effacer ce qu’il a fait auparavant.",
+    "source_heading": "Retour de la peur et imprévu",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "188665def5f507e19e20dc73569e5d5459223703d13613e511f90cb2c9ef7d5b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-le-passage-detrempe": {
+    "text": "Devant un passage détrempé, Joachim se demande à la fois s’il risque de glisser et s’il trouverait de l’aide en cas de malaise. Samia lui montre où sa canne s’enfonce. La scène distingue un obstacle visible d’un scénario qui revient aussi dans d’autres lieux. En consultation comme sur la carte, les circonstances importent pour comprendre la décision de rebrousser chemin.",
+    "source_heading": "Peur et difficulté réelle d’accès",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "70f970fb863ecddac86d432811f5663415f6828608fc71bb891fd27fc6869c2f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-reprendre-la-parole-apres-la-pause": {
+    "text": "Quand plusieurs personnes entrent ensemble, Joachim sent monter la peur qu’il a déjà éprouvée au cinéma. Il s’absente avant de montrer sa photo. Diego peut reprendre une partie de la présentation comme ils l’ont convenu. Une situation redoutée peut demander beaucoup d’effort même quand on s’y était préparé. Ici, Joachim décide à nouveau de la place qu’il souhaite prendre dans la soirée.",
+    "source_heading": "Retrouver une marge de décision",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5d633322b411165c8bf2bd0976a5765681ac9a9571b1984f66d0d305729502e9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-se-mettre-daccord-sur-laide": {
+    "text": "Avec Diego, Joachim se sent prêt à aller un peu plus loin que lors de son dernier repérage. Il voudrait cependant garder la possibilité de répondre lui-même et de décider du retour. La présence d’un proche peut rendre une sortie envisageable dans l’agoraphobie. Dans cette scène, préciser le rôle de chacun aide les deux voisins à rester libres dans un projet qui leur importe.",
+    "source_heading": "Accompagnement et marge de choix",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "fbac41ce476e9e49790d0a8265f54d8bef8988b8f64e101ba9280a05b853f386"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-un-objectif-choisi-avec-louise": {
+    "text": "Joachim présente à Louise sa photo du sentier détrempé et lui parle du trajet qui lui manque encore. Il aimerait pouvoir rentrer en bus après un repérage sans que cette idée occupe toute sa veille. Le travail sur les situations redoutées peut faire partie d’une thérapie. Ici, le choix de l’objectif se discute avec Joachim et tient compte de ce qu’il voudrait retrouver.",
+    "source_heading": "Objectif de soin et choix du rythme",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ffdfa1c52fce5fe200996d8bcc04d8f953677c6539fe21498471e151d7965db5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/joachim-une-montee-dans-le-cinema": {
+    "text": "Au cinéma, Joachim sait déjà ce qu’il redoute quand la chaleur lui monte au visage. Il imagine qu’il aura du mal à atteindre la porte si les autres rangées se remplissent. Des symptômes de panique peuvent accompagner l’agoraphobie. Pour comprendre ce qui se passe, la clinicienne s’intéresse notamment au lieu, à ce que Joachim attendait et à la manière dont la peur est montée.",
+    "source_heading": "Agoraphobie et symptômes de panique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2c3b343ff69f2b8787cd520ce5eb2f196576b41d510e1d190da5ab80abd89b41"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire": {
     "text": "Jules veut voir les livres de Samuel et observe l’entrée du marché avant d’avancer. La peur commence ici dans ce qu’il s’attend à vivre. Un essai préparé avec sa psychiatre permet de revenir sur ses attentes et sur ce qu’il éprouve sur place. Il peut lui dire quand il veut s’arrêter et reprendre ensuite ce qui l’a surpris, dont le bruit soudain d’un chariot.",
     "source_heading": "Anxiété avant une situation redoutée",
@@ -2194,6 +2338,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "2628ddfe1c5519f9e48694022c95a332140c5a99ef01ddd8aa46c4e4076b2aa1"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-ce-que-le-suivi-mesure": {
+    "text": "Morgane redoute que sa consultation aboutisse à une discussion où seul son poids compte. Elle veut comprendre pourquoi le dernier épisode l’a découragée au point de presque annuler une répétition. Les soins psychologiques de l’hyperphagie boulimique peuvent cibler les épisodes, la détresse et leurs effets. Le rendez-vous lui permet de distinguer ces objectifs des questions de santé physique.",
+    "source_heading": "Les objectifs du suivi spécialisé",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "938d228d97fd1a9680cf0c8a180f529a7866184d6f748e2f4a5bd1e1881d008b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-deux-jours-de-travers": {
+    "text": "Quand la salle de répétition devient indisponible, Morgane pense à une autre journée tendue qui s’était achevée par un épisode. Une situation qui précède une crise peut donner une piste dans le suivi de l’hyperphagie boulimique. En comparant cette journée à celle qu’elle vient de vivre, Morgane découvre quels détails comptent pour elle et lesquels restent à explorer.",
+    "source_heading": "Les circonstances qui précèdent un épisode",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "96447cb32d7770c6960c37f107a0d9dec74038d5e3d6db525247e9b1641f4c82"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-deux-places-a-la-table": {
+    "text": "Morgane a plusieurs fois renoncé à voir Lucie après une crise. La honte éprouvée dans l’hyperphagie boulimique peut peser sur des décisions qui n’ont plus lieu à table. Quand sa sœur essaie de la rassurer en parlant d’un appétit ordinaire, Morgane cherche comment lui dire ce qui reste difficile longtemps après le moment de manger.",
+    "source_heading": "La honte qui prolonge la détresse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "16190e6d08919dd93bbb3bac138eb54730ebfd9365cb03dffa809502fd6cb6c7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-la-legende-sous-la-photo": {
+    "text": "Devant une photo de la matinée, Morgane se demande ce que les lecteurs vont remarquer d’elle. Elle peut aussi dire ce qu’elle a vraiment voulu transmettre. Quand l’hyperphagie boulimique pèse sur la façon dont elle se juge, reparler de ses choix et de ses relations élargit ce qu’elle peut raconter de cette journée. Elle garde la main sur ce qui relève de sa santé.",
+    "source_heading": "Choisir les mots de sa présentation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6b0253ab584b51f2d8663f766faa8e299364a825d6d4ef16b41b351f339ba964"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-la-photo-de-latelier": {
+    "text": "L’idée de paraître sur une photo fait imaginer à Morgane des commentaires qu’elle redoute sur son corps. Dans son hyperphagie boulimique, cette anticipation peut la pousser à abandonner une activité avant même qu’elle ait commencé. Elle cherche ici une façon de garder son rôle dans la matinée, avec un choix sur l’image et sur les informations qu’elle veut partager.",
+    "source_heading": "La crainte du regard avant l’événement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "cf80273e2d20593b9914d4a0cada696674f2224f3e134f6b55169a229f68c087"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-lappetit-au-dejeuner": {
+    "text": "Au déjeuner de départ de Marie, Morgane reprend de ce qu’elle a aimé et suit l’histoire que sa collègue raconte. Elle peut décider comment elle mange. Ce repère compte pour comprendre l’hyperphagie boulimique. Le plaisir et l’appétit d’un repas partagé ont leur place. Lors d’un épisode, Morgane éprouve une difficulté à diriger sa manière de manger qui lui laisse ensuite une détresse durable.",
+    "source_heading": "Appétit et pouvoir de décider",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "71b2b7659f47674db242e611461107883a3899b0ccfc5e8716a71a9820976c7f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-le-geste-qui-sarrete": {
+    "text": "Morgane sait ce que signifie, pour elle, manger avec plaisir. La veille, il lui semblait que la décision de s’arrêter ne lui appartenait plus. Dans l’hyperphagie boulimique, cette perte de contrôle répétée peut entraîner une souffrance importante. On en voit ici un effet le lendemain, lorsqu’elle hésite à ouvrir la note qu’elle avait promis de montrer à sa collègue.",
+    "source_heading": "Le sentiment de perdre la main",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4cf75216de2986c43843a8b56e99f3f6530aa96f22c5175d768495ebe18d741a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-le-mercredi-dapres": {
+    "text": "Quelques semaines après l’ouverture, Morgane peut apprécier ce que l’équipe a construit et parler encore de soirées où l’alimentation lui a semblé hors de contrôle. L’hyperphagie boulimique peut évoluer avec des périodes différentes. Elle continue à examiner ces épisodes en consultation et décide séparément de la place qu’elle veut prendre dans le prochain atelier et dans ses rendez-vous avec Lucie.",
+    "source_heading": "Un suivi qui avance avec la vie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "289bc94c4ac0b2eeb2faac0d8b2393a874737fa347503a466d9ef3b8ca8f4e54"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-le-message-de-trop": {
+    "text": "Dans l’hyperphagie boulimique, la honte et le secret peuvent rendre précieux un appui accepté. Morgane se sent pourtant regardée quand Sonia lui demande de confirmer comment s’est passé son déjeuner. Elle cherche une réponse qui garde leur confiance et rende leurs rôles plus clairs. Elles peuvent décider de ce que Sonia propose au travail et des questions que Morgane souhaite aborder en consultation.",
+    "source_heading": "Faire la différence entre présence et surveillance",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "35e20cabac3ef703f22d9c0b622ab5c692d6a647fe12b2029a3f81c7fa750e74"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-le-message-repris": {
+    "text": "Plusieurs jours s’étaient déroulés sans la perte de contrôle que Morgane redoutait. Lorsqu’un épisode revient, elle est tentée d’annuler la répétition et de taire ce changement à l’équipe. L’évolution de l’hyperphagie boulimique peut varier. Raconter cette soirée et ce qui l’a suivie donne au suivi un fait à examiner avec Morgane, alors qu’elle se juge déjà sévèrement.",
+    "source_heading": "Le découragement au retour d’une crise",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "92df182c0303d18e8f708695d99a2ed2b3926c3edbeeef7228ad09c100bcaf18"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-le-tablier-de-laccueil": {
+    "text": "Lors de la matinée, une visiteuse commente la façon dont un tablier tombe sur Morgane. Sa gêne prend de la place alors qu’elle voulait montrer comment soutenir une branche. Dans son hyperphagie boulimique, les préoccupations liées au regard peuvent compliquer des moments sociaux. La limite qu’elle exprime ici concerne la conversation qu’elle accepte d’avoir et le rôle qu’elle veut reprendre.",
+    "source_heading": "Revenir à son geste après une remarque",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b3f62251c0f51827aaef425a4e5b5a4f8de44fa8bb887af0e60487981dea9c15"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/morgane-les-mots-au-rendez-vous": {
+    "text": "Morgane se demande ce que sa collègue a compris du mot « boulimique ». Son diagnostic est déjà posé et elle veut pouvoir le nommer avec ses propres mots. La perte de contrôle peut se rencontrer dans les deux troubles. Anna l’aide à comprendre pourquoi la régularité des conduites compensatoires et l’ensemble de ce que vit la personne éclairent la distinction.",
+    "source_heading": "Une distinction à faire en consultation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e02c3a21432b608b92241d78a3d16b04a68c6d50430b901247216572ab45741a"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/nils-appel-avant-la-repetition": {
     "text": "À la caisse, une phrase ordinaire paraît porter un sens que Nils serait seul à comprendre. Ce vécu évoque une impression de référence, le sentiment qu’un événement revêt une signification personnelle. Comme l’impression insiste et que son sommeil change, Nils décrit ces faits à son équipe. Les professionnels peuvent replacer ces observations dans l’évolution de sa schizophrénie.",
     "source_heading": "Impression de référence",
@@ -2579,6 +2795,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "59cbd2b8085bd4bbf2c8a1d3726977730c4248fc22f8b780b4368015b7020b74"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-attendre-une-exception": {
+    "text": "Édith a choisi une heure qui convient à ses invités. Renaud annonce qu’il arrivera plus tard et demande qu’on décale le repas. Dans le trouble de la personnalité narcissique, l’attente d’un traitement de faveur peut devenir assez forte pour rendre les contraintes des autres secondaires. Le refus d’Édith l’oblige à regarder ce qu’il demandait réellement à tout le monde.",
+    "source_heading": "Attente de traitement de faveur",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5e550059ffc5f5f28bc92d15b13ad2f93145eceaf7bd05299f891c1d34ad1705"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-besoin-admiration-signature": {
+    "text": "Nora salue l’idée qui permettra aux visiteurs de reconnaître chaque étage. Renaud entend surtout qu’elle apprécie sa présentation et répond au singulier. Dans le trouble de la personnalité narcissique, l’admiration peut prendre une place importante dans la façon de mesurer sa valeur. La réaction de Yara ramène Renaud à une question concrète. Qui a réellement conçu ce qu’il vient de montrer ?",
+    "source_heading": "Besoin d’admiration",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ca63e55d79096ae589fe4e1a96caa4347a658ba51ba0292c9c68ac10787c0946"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-critique-honte-retour": {
+    "text": "Au premier essai, une visiteuse part vers la mauvaise porte en suivant un panneau conçu par Renaud. Yara demande de reprendre le texte. Il entend d’abord une remise en cause de sa compétence et attaque la manière dont l’essai s’est déroulé. Certaines personnes présentant ce trouble vivent la critique avec une honte aiguë. Ce que l’équipe doit corriger reste une question concrète.",
+    "source_heading": "Honte après une critique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8585ce8014fc85f72f7f2296bfa2cbb6b6c8d0e2a4376e53e77b3e35619a4d7f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-diagnostic-contextes-dsm-cim": {
+    "text": "Renaud relit deux messages qu’il veut apporter en consultation. L’un concerne une tâche qu’il a laissée en suspens au studio. L’autre lui rappelle le dîner où il voulait que tous attendent son arrivée. L’épisode montre pourquoi une évaluation s’intéresse à un fonctionnement dans la durée et à ses effets dans plusieurs situations. La thérapeute explique aussi les différences entre le DSM-5-TR et la CIM-11.",
+    "source_heading": "Persistance dans plusieurs contextes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6b349ccf2d0206b9ce99ab7d8358abeb06780c677db5fe4db201ce69027e1c70"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-ecouter-edith": {
+    "text": "Renaud arrive à l’heure pour aider Édith. Il a encore en tête la discussion difficile avec Yara et parle du centre sans laisser sa sœur finir. Prendre en compte le point de vue de l’autre peut devenir difficile quand la place qu’on cherche à défendre occupe l’essentiel de l’attention. Édith a besoin d’une heure de fin pour pouvoir compter sur leur accord.",
+    "source_heading": "Empathie et attention à l’autre",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9ee5b5dd049fd762551aa662054edcdb1c1dead7e886ab21451e322128870edb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-envie-credit-yara": {
+    "text": "Le journal local cite une phrase de Yara sur les formes que suivent les visiteurs. Renaud est nommé dans le dossier de projet, mais il vérifie plusieurs fois qu’il ne figure pas dans le journal. L’envie peut survenir quand la réussite de l’autre paraît diminuer sa propre valeur. Cet épisode distingue la place qu’il souhaite obtenir de celle qui revient à Yara.",
+    "source_heading": "Envie et comparaison de statut",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5fdf9f11e45221815cd3b87cb3b3262d26aebf2b82de96dffc5f88a199178316"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-fierte-besoin-regard": {
+    "text": "Le centre ouvre au public et Renaud observe les visiteurs trouver leur chemin. Il apprécie de voir ses panneaux servir, tout en guettant le moment où Nora prononcera son nom. L’épisode explore ce qui peut faire du bien dans la reconnaissance et la difficulté qui apparaît quand l’éloge devient indispensable pour sentir qu’un travail vaut quelque chose. Renaud essaie de garder les deux expériences en vue.",
+    "source_heading": "Fierté et besoin d’admiration",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "17ec98cc433816efaa9bc06aaa82e6002d018741b1fcd772cb4e34527c27abbb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-refus-limite-malik": {
+    "text": "Renaud voudrait garder une photo du dîner et l’envoyer à ses contacts. Malik préfère que la soirée reste privée. Renaud se sent visé par cette demande et s’apprête à mettre son ami en défaut devant les invités. L’épisode montre comment une limite peut être entendue comme un rejet quand l’image de soi prend une place importante, et ce que Renaud peut faire de cette impression.",
+    "source_heading": "Entendre le refus d’un proche",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "09deb3797b647f6e86a55146fd5871381517200af400fbd21d4f0d78f5cdf708"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-reparer-credit-public": {
+    "text": "Dans le programme de presse, l’équipe du centre a résumé trop vite la direction artistique et présenté une idée de Yara comme celle de Renaud. Cette version lui donne une reconnaissance qu’il aimerait garder. L’épisode suit ce qu’il fait de ce désir et du tort constaté. La correction doit atteindre le document que les visiteurs pourront lire.",
+    "source_heading": "Réparation après un crédit inexact",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4a1102a82c14ed42264df63d43e992eb596b1bee0d83b42a4f229911785ab7b4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-reprendre-apres-un-ecart": {
+    "text": "Nora demande au studio si un parcours peut être prêt pour l’automne. Renaud promet une date qui l’oblige à compter sur le temps de Yara. Des difficultés anciennes peuvent réapparaître après une période où on a trouvé d’autres réponses. La façon dont Renaud revient sur son engagement permet de voir ce qui a changé et ce qui demande encore du travail.",
+    "source_heading": "Reprise après un ancien réflexe",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "56c274bba023c2f76a26440f318ff64c5d8725fdb30aff8143f0468ae19b24af"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-retrait-apres-mise-ecart": {
+    "text": "Nora veut que Yara raconte elle-même les essais aux visiteurs. Renaud entend surtout qu’il ne sera pas la personne mise en avant et se retire du rendez-vous suivant. Une réponse de retrait peut accompagner la vulnérabilité à un jugement ou à une perte de statut perçue. Dans la scène, le silence de Renaud a un effet concret sur le travail de son équipe.",
+    "source_heading": "Retrait après une mise à l’écart perçue",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "40d9cd2b1d1996ddc0f0b8a4cb9ca36adb24a6131d5080294e972d248ea612a3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/renaud-tenir-place-et-laisser-place": {
+    "text": "Quelques mois ont passé depuis le premier rendez-vous. Au moment de présenter la visite d’automne, Renaud remarque qu’il cherche encore à savoir qui sera nommé. Il dispose aussi de faits précis pour juger du chemin parcouru. Il a repris une promesse trop rapide et demandé à Yara de choisir ce qu’elle voulait présenter. L’épisode distingue ce qu’il ressent et ce qu’il arrive à faire autrement.",
+    "source_heading": "Des changements observables dans le temps",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6f5fc78d5ecd94ed1e6d167b68143e3f5cdf8b3fb22c0c7d2cf25478f0534450"
   },
   "posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions": {
     "text": "Dans le langage courant, la résignation décrit ici le fait de renoncer parce qu’on s’attend à ce que l’effort ne change rien. Les recherches de Steven Maier et Martin Seligman sur l’impuissance apprise ont d’abord porté sur des animaux placés dans des situations qu’ils ne pouvaient contrôler.",
@@ -2987,6 +3275,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "3337254c65d468c471b17a3e41337718f9eeaff57700a209cc3a3b2411d3f19d"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-choisir-objectif-suivi": {
+    "text": "Thaïs pense qu’elle devrait vouloir monter partout pour que son suivi ait un sens. Sa psychologue lui demande quelle activité elle voudrait pouvoir choisir plus librement. Des thérapies psychologiques peuvent aider certaines personnes à travailler sur une phobie spécifique. Dans ce rendez-vous, l’objectif et les moyens éventuels se discutent à partir de ce que Thaïs tient à retrouver.",
+    "source_heading": "Décision partagée dans le suivi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "50c127b0bc5611304227da7a9441d99034cf8150f5e3da65f71705aa8fff414f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-dire-son-besoin-sans-dossier-medical": {
+    "text": "Depuis le repérage, Thaïs redoute que son refus de monter soit compris comme un désintérêt pour le terrain. Une phobie spécifique peut influencer les tâches qu’on accepte et rendre difficile le moment où il faut demander un aménagement. Elle précise ce qu’elle peut prendre en charge et la part de son histoire qu’elle souhaite garder privée.",
+    "source_heading": "Confidentialité et retentissement professionnel",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bd9491bbb9bd6c00bca88c9e9bc4bc8356d5977b5ae9d02c7c3ce79d8eacc0d7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-expedition-role-au-sol": {
+    "text": "Le vallon est rouvert et Thaïs retrouve le travail qu’elle voulait faire sur place. La peur des hauteurs continue de peser quand un imprévu pourrait l’amener vers la plateforme. La scène montre comment un aménagement ciblé permet de participer à un projet et comment la personne peut garder un rôle dans les décisions quand le plan change.",
+    "source_heading": "Participation et ajustement du travail",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "768f7379b8ceaf754e8ed4bffdb2728c1c7c780101a0815def0cab8914041dcd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-fermeture-meteo-et-soulagement": {
+    "text": "Quand Samir annonce la fermeture du sentier vers la station, Thaïs est soulagée. Elle est aussi déçue de ne pas entendre les habitants qui devaient les rejoindre. Une phobie spécifique peut influencer une partie de cette réaction, alors que la fermeture répond à un danger évalué pour tous. Ressentir du soulagement renseigne sur son vécu, tandis que le gestionnaire du lieu décide des accès.",
+    "source_heading": "Sécurité et émotions mixtes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8814cb1aa382ba09434015b0898050ee69a5242e2bd1482d5c2dd3fce022e12c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-peur-anticipation-plan-expedition": {
+    "text": "Thaïs est assise dans un bureau quand la photo d’une passerelle suffit à lui faire craindre une chute. Dans une phobie spécifique, l’anticipation de la situation peut déjà mobiliser beaucoup d’attention et modifier des décisions. Elle commence à chercher un autre itinéraire avant de connaître les accès. La scène montre le coût de cette peur avant le moindre déplacement.",
+    "source_heading": "Anxiété avant la confrontation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "13654e48b910ddd363c68d542a2d523cb8263a0c568668efd3b661542af147b4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-peur-et-prudence-belvedere": {
+    "text": "Samir arrête tout le groupe devant un chemin fermé. Plus loin, Thaïs se retrouve devant une plateforme ouverte et protégée, où elle redoute encore de tomber. Dans une phobie spécifique, la peur peut dépasser le danger présent dans une situation donnée. La comparaison aide à distinguer une précaution commune de l’intensité et du coût d’une peur durable.",
+    "source_heading": "Peur et risque réel",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "da5563a05afabd92dcec9e3954d62afeca98dfec9bd7ceedf35258ed18fe5ea9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-peur-revient-autre-situation": {
+    "text": "Thaïs a emprunté récemment un escalier qui lui coûtait depuis longtemps. Au cinéma, une autre cage d’escalier suffit à réveiller une peur intense. Dans une phobie spécifique, des réactions différentes peuvent se succéder même lorsque la personne fait des choix plus libres ailleurs. Thaïs cherche à comprendre ce soir-là sans transformer sa déception en verdict sur tout son suivi.",
+    "source_heading": "Variations de la peur",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c31c9c6defdf96d6c946786e65c1cdd5d70e6e84259e03b8459947be6dbefc12"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-progres-et-vie-quotidienne": {
+    "text": "Thaïs présente la carte et s’inquiète encore quand on lui propose de monter. Une phobie spécifique peut rester difficile dans certaines situations, alors que la personne retrouve du choix dans d’autres. En regardant ce que l’équipe a produit et ce qu’elle a pu décider au fil du projet, Thaïs distingue des progrès utiles de l’idée qu’elle devrait pouvoir franchir chaque hauteur.",
+    "source_heading": "Progrès dans les activités choisies",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ab62cb7726692e3b8a343f569e613f682699f2bc7aa70b6e3f3c9981dce62eca"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-reaction-image-mouvement": {
+    "text": "Thaïs a repris une photo en détail au bureau. Quand la même vue apparaît dans une vidéo et bascule vers l’eau, elle a l’impression de perdre son appui. Dans une phobie spécifique, certains indices ou représentations peuvent réveiller la peur alors qu’une autre version de la situation est supportable. Thaïs observe ce changement et choisit de le signaler.",
+    "source_heading": "Variation selon le contexte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "24c59d44c97977df8e0d1dc31167f0e4c11d816678b12294a2ebed29c5f15f4c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-se-confier-honte-escalier": {
+    "text": "Au moulin, Thaïs veut voir les affiches que son frère a repérées. À l’idée de monter, elle redoute surtout de tomber. Puis elle imagine les commentaires de Milo si elle renonce. La honte peut s’ajouter à la peur principale et retarder une demande d’aide. Thaïs essaie de mettre des mots sur ces deux expériences avec lui.",
+    "source_heading": "Honte et peur du jugement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ecd1541fd7e3fabb2cd22e41d679dfff1303844b219025347d5132349b82e41f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-soulagement-du-detour": {
+    "text": "Sur le chemin des archives, Thaïs choisit un détour dès qu’elle aperçoit la passerelle. La tension baisse et elle a immédiatement l’impression d’avoir trouvé la bonne solution. Une phobie spécifique peut pourtant continuer à réduire les choix quand le soulagement devient la raison principale de chaque détour. Les effets de ce trajet se mesurent aussi à l’heure du rendez-vous manqué.",
+    "source_heading": "Soulagement et maintien de l’évitement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3aec103ceb0a22cf537d3b2ecbc1a3afcdd9d6fb720efbdd0fb83160fe689a75"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/thais-soutenir-sans-promettre-pour-autre": {
+    "text": "Thaïs voudrait demander à Milo de rester avec elle pendant toute la rencontre publique. Elle redoute qu’une visite en hauteur lui soit proposée. Savoir ce qu’un proche peut faire rend le soutien plus prévisible. Elle cherche avec lui un accord qui lui laisse la possibilité de décider ce qu’elle fera sur place et qui respecte aussi sa disponibilité.",
+    "source_heading": "Soutien choisi et limites",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "654c45a3bfb534b3d751d95d797628b9f68ed6dcc2ed2ce3e01aedd8c155338b"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens": {
     "text": "On peut parler de trahison lorsqu’un engagement de confiance est rompu, par exemple quand une confidence est divulguée. Le sentiment de trahison peut aussi surgir alors que chacun n’avait pas compris la même chose.",
     "source_heading": "Définition de la trahison en amitié",
@@ -3007,6 +3367,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "376bef6acd7c12bc89b2473f3548ebd105a54051292dafca6ff9fe4c5bc7ed66"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-commentaires-autour-du-repas": {
+    "text": "Au repas des bénévoles, une plaisanterie sur l’apparence fait craindre à Victoire qu’on commente aussi son assiette. Les préoccupations corporelles peuvent déjà lui prendre beaucoup d’attention dans la boulimie nerveuse. Lila peut s’appuyer sur l’accord qu’elles ont trouvé, et Victoire choisit elle-même ce qu’elle souhaite demander au groupe. La rencontre garde un sujet qui compte pour elles.",
+    "source_heading": "Pression du regard en groupe",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c5c58f5a0e26585cf83751fc7b73947a3c6156abd89faaba3d30d8d69d5be665"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-dire-boulimie-a-une-amie": {
+    "text": "Victoire veut parler à Lila de la boulimie qu’elle lui cache. Elle redoute qu’à partir de là chaque repas ensemble devienne une épreuve commentée. La honte et l’anticipation du regard peuvent prolonger le secret autour des troubles alimentaires. Elle tente une demande limitée à leur relation et découvre ce que Lila peut en entendre.",
+    "source_heading": "Peur du jugement et confidence choisie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "c3d8864324f3cd64ab62e545e09e83461ee93fd792eb5337b267b6bb29af1a3b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-emotions-avant-apres-crise": {
+    "text": "Victoire apporte à Nora les messages qu’elle a failli envoyer à son frère. Elle se souvient surtout de la honte après la crise et hésite sur ce qu’elle éprouvait avant. Le suivi psychologique peut explorer les liens entre les circonstances, les émotions et la conduite alimentaire. Retrouver leur ordre aide Victoire à parler de cette journée sans lui imposer une cause unique.",
+    "source_heading": "Émotions avant et après une crise",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "337df3eef608b587e3da00d744817565d5771fb7ef62973aec872cb0f46d9044"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-honte-et-rendez-vous-annule": {
+    "text": "Après une crise, Victoire s’apprête à annuler une soirée avec son frère. La honte lui fait imaginer qu’il verrait toute sa journée à sa façon d’arriver. Dans la boulimie nerveuse, la souffrance qui suit les épisodes peut déborder sur des liens auxquels la personne tient. Victoire cherche une manière de répondre à son frère sans devoir lui faire le récit de sa journée.",
+    "source_heading": "Honte et retrait après une crise",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f9341da0ad2f65d93c4442936549cc1304285dfa262399c3c654157932015f6a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-malaise-boutique": {
+    "text": "À la fermeture, Victoire sent son cœur s’emballer et a un malaise. Elle voudrait d’abord terminer la conversation sur le prospectus. Une boulimie nerveuse peut avoir des conséquences physiques, et les soignants doivent apprécier chaque symptôme dans son contexte. Idriss appelle les secours dès qu’il comprend qu’elle se sent mal. L’épisode montre ce qu’il peut transmettre sans supposer une cause.",
+    "source_heading": "Malaise physique et relais médical",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5a6a764697f89b15343d7c207b643d54f159477d27941dac228669bd421b385f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-partager-suivi-et-garder-choix": {
+    "text": "Simon propose de remplacer Victoire à l’accueil du rallye. Elle apprécie l’offre et craint qu’il prenne en charge des décisions qu’elle veut garder. Quand l’entourage participe au soutien autour d’une boulimie nerveuse, chacun peut préciser ce qu’il souhaite transmettre et ce qu’il peut faire. Victoire choisit de parler à son frère du trouble et de lui proposer une aide concrète.",
+    "source_heading": "Place des proches et autonomie",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "70c766023310c98bd18ce9ad28f4d2829ec783e39cc552bc63263d780d72648a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-perte-controle-apres-fermeture": {
+    "text": "Victoire avait prévu de dessiner après la fermeture de la boutique. Une crise l’a laissée avec la sensation que ses gestes lui échappaient, puis avec la crainte de raconter ce qui s’était passé. Dans la boulimie nerveuse, cette perte de contrôle est une donnée clinique importante. Elle peut continuer de peser sur les choix du lendemain, jusque dans une conversation sur un projet qui compte.",
+    "source_heading": "Perte de contrôle pendant une crise",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "2b89c419e5ed6aeed1e9e823598c9e604eac25a62e1b7b2e3a5bd2ad30dc2d6e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-photo-image-corps": {
+    "text": "Lila propose une photo à la fin du repérage. En quelques instants, Victoire passe de la satisfaction d’avoir trouvé un repère utile aux débutants à l’impression que seul son corps sera évalué. Dans la boulimie nerveuse, les préoccupations liées au poids et à la silhouette peuvent prendre une place excessive dans l’estime de soi. Victoire cherche à préserver son choix sans renoncer à montrer son travail.",
+    "source_heading": "Image corporelle et estime de soi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1783a68148236585e84f3a9da992ee8ff965ed937d1eb7c628496008400e3c15"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-reapparition-apres-periode-stable": {
+    "text": "Victoire plie les plans avec Lila après des semaines plus stables. Une crise récente lui fait craindre d’avoir perdu ce qu’elle avait retrouvé. Dans la boulimie nerveuse, les symptômes peuvent s’atténuer puis redevenir plus présents. Parler de ce changement à l’équipe permet d’examiner ce qui se passe aujourd’hui et de décider quel appui reste possible pour le rallye.",
+    "source_heading": "Retour des crises et continuité du soin",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "31d23d4921198f126fb4a7e41424ea6688457181dd63f10fd852918846042c2a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-repetition-compensations": {
+    "text": "Victoire avait prévu de raconter une crise et d’écourter la consultation. Quand la médecin lui demande ce qui se passe ensuite, elle hésite à parler de ses compensations. Leur répétition et la peur de prendre du poids qu’elles cherchent à apaiser aident à comprendre la boulimie nerveuse. Mettre cette suite en mots permet de discuter de ses conséquences et d’adapter le suivi.",
+    "source_heading": "Crises et compensations répétées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f40aaf1cff6b13a8fbdbae1402f7b01b48c4d81f58380ee2f35d858b49d89ccd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-retrouver-place-apres-rallye": {
+    "text": "Victoire entend un participant dire qu’il a pu trouver la rue derrière la gare sans se presser. Elle se réjouit et s’aperçoit qu’une inquiétude autour de son corps revient encore quand le groupe propose une photo. Le suivi d’une boulimie nerveuse tient compte de la santé et de ce que la personne veut retrouver dans sa vie. Ici, les deux questions ont encore une place.",
+    "source_heading": "Reprise de place dans la vie quotidienne",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ca4983f5f802184a2a46de3780d9016c77aa07b239ea03aa6d27e7ba5d5353a1"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/victoire-suivi-apres-malaise": {
+    "text": "Victoire se sent mieux quand elle retrouve la docteure Benali. Elle hésite à parler de la peur qui lui est restée du malaise et des examens encore prévus. Dans la boulimie nerveuse, le suivi physique peut continuer après une évaluation urgente. La médecin reprend avec elle ce qui a été évalué et ce qui mérite d’être revu dans la durée.",
+    "source_heading": "Continuité du suivi physique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3dd3e4f80e1ba112dfb630a1bddd858326534901851718f0e233a62aad2956e4"
   },
   "posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse": {
     "text": "Le vide intérieur est une sensation de manque profond qui peut s’instaurer lorsque l’on perd quelque chose de significatif dans sa vie, comme lors d’une rupture amoureuse. En une phrase, on peut définir le vide intérieur comme une absence ressentie d’émotions, de sens ou de lien, qui crée une sensation de creux et de perte intérieure.",

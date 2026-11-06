@@ -2,7 +2,7 @@
 
 [Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
 
-Le catalogue réunit 771 articles et 65 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 32 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Le trouble est visible sur les cartes et dans les présentations des personnages concernés. Chaque épisode clinique commence par une introduction qui relie une notion et la scène. L’accueil réunit les personnages dans une même liste.
+Le catalogue réunit 843 articles et 71 personnages publics. Aux 387 récits des 33 personnages d’origine s’ajoutent 38 parcours cliniques de 12 épisodes. Chaque article comporte une rubrique « Du côté des proches » liée à sa scène. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Le trouble est visible sur les cartes et dans les présentations des personnages concernés. Chaque épisode clinique commence par une introduction qui relie une notion et la scène. L’accueil réunit les personnages dans une même liste.
 
 ## Personnalisation
 

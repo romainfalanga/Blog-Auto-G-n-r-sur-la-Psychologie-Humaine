@@ -1,0 +1,470 @@
+{
+  "character_id": "thais",
+  "bio": "À 28 ans, Thaïs travaille comme ingénieure en cartographie pour l’association Traverse. Elle veut publier une carte du vallon qui soit lisible par les habitants autant que par l’équipe de terrain. Une psychologue a identifié chez elle une phobie spécifique des hauteurs. Certains escaliers ajourés et points de vue protégés lui coûtent un effort que ses collègues voient peu. Avec son frère Milo, elle aime découvrir les anciens noms des lieux. Elle cherche comment participer aux relevés tout en gardant la main sur ce qu’elle raconte de sa santé.",
+  "profile_topics": [
+    "Phobie spécifique",
+    "Peur des hauteurs",
+    "Anxiété anticipatoire",
+    "Évitement",
+    "Confidentialité au travail"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "thais-peur-anticipation-plan-expedition",
+      "title": "La peur des hauteurs avant même le départ",
+      "description": "Devant une photo de passerelle, Thaïs prépare déjà des détours. Elle essaie de distinguer ses inquiétudes des besoins de l’expédition.",
+      "context": "À la réunion de préparation de la carte du vallon des Aulnes",
+      "topics": [
+        "Anxiété anticipatoire",
+        "Peur des hauteurs",
+        "Concentration"
+      ],
+      "clinical_focus": "Anxiété avant la confrontation",
+      "clinical_intro": "Thaïs est assise dans un bureau quand la photo d’une passerelle suffit à lui faire craindre une chute. Dans une phobie spécifique, l’anticipation de la situation peut déjà mobiliser beaucoup d’attention et modifier des décisions. Elle commence à chercher un autre itinéraire avant de connaître les accès. La scène montre le coût de cette peur avant le moindre déplacement.",
+      "opening": "Thaïs aurait voulu commencer par le nom du canal. Sur la carte de l’association, une même ligne portait trois noms selon la feuille dont elle provenait. Quand les habitants disaient « le petit canal », ils désignaient parfois le ruisseau d’à côté. Thaïs avait promis qu’on pourrait lire la nouvelle carte sans connaître les usages du bureau. Elle avait apporté un calque pour discuter des mots avec Samir et Inès avant de fixer la mission.\n\nSur l’écran, Samir affiche une photo prise sur la passerelle qui mène à la plateforme d’observation. La personne qui a photographié devait être penchée vers l’eau. Thaïs voit les lattes sous les pieds du photographe. Sa paume colle au verre qu’elle tient. Elle pense qu’elle sera la dernière de la file et imagine Inès se retourner pour lui demander de se presser. Quand Samir parle du portail de la station, elle ouvre un autre onglet et se met à suivre le canal du côté du village. La ligne s’arrête au milieu d’un pré. Elle y revient trois fois, alors que le groupe est déjà passé au choix des relevés.\n\nSa phobie spécifique des hauteurs est connue de la psychologue qu’elle consulte. Au bureau, personne n’en sait rien. Thaïs voulait demander si une personne devait tenir les notes à l’arrivée. Elle s’entend à la place proposer un parcours qui évite entièrement le point d’observation. Inès lui demande ce qu’elles feraient alors des photos des bornes. Thaïs ne sait plus quelle raison donner. La question sur le nom du canal, dont elle était sûre cinq minutes plus tôt, lui paraît maintenant lointaine.",
+      "sections": [
+        {
+          "heading": "Comment une image peut déclencher l’alarme",
+          "text": "Dans une phobie spécifique, la peur se concentre sur une situation ou un objet. Elle peut se déclencher lors d’une rencontre avec ce qui est redouté et aussi à l’idée de cette rencontre. Le lieu représenté sur l’écran reste loin du bureau. En revanche, Thaïs imagine déjà le sol sous ses chaussures et le moment où elle devra répondre à Inès. Les sensations qu’elle éprouve à sa place sont bien présentes. La scène rend visible l’effort qu’il lui faut pour suivre une discussion alors qu’elle s’attend à avoir très peur.\n\nUne photo inquiétante peut aussi susciter un malaise passager chez quelqu’un. Pour comprendre une phobie, un professionnel replace les réactions dans la durée et regarde leurs effets sur les déplacements, le travail ou d’autres activités. Le temps passé à préparer un trajet peut faire partie de ce retentissement, y compris quand personne ne remarque de sortie annulée."
+        },
+        {
+          "heading": "Séparer la question de la mission et celle de la peur",
+          "text": "Samir peut expliquer ce que l’expédition doit réellement produire et quels accès seront examinés. L’intérêt scientifique du point d’observation a sa place dans la réunion. Thaïs peut apporter une question de cartographie tout en réservant à sa psychologue les images précises qui lui viennent quand la passerelle apparaît. Rien ne l’oblige à décider ce matin quel rôle elle prendra sur chaque portion du trajet.\n\nIl peut être utile de pouvoir différer une décision quand plusieurs informations arrivent en même temps. Pour Thaïs, demander l’ordre du jour et la liste des points à documenter lui permet de revenir à des choix concrets. Avec sa psychologue, elle pourra ensuite expliquer que la peur a déjà pesé sur sa proposition et qu’elle cherche à comprendre cette habitude, dans cette réunion et dans d’autres situations."
+        }
+      ],
+      "ending_title": "Revenir au nom du canal",
+      "ending": "Thaïs ferme la carte du détour. Elle dit à Inès qu’elle a perdu la liste des photos et demande de reprendre depuis la première borne. Samir lui propose de venir au repérage du lendemain pour examiner les accès avant de répartir les postes. Elle accepte le repérage et garde la liste des postes à discuter. Quand l’écran revient au village, elle pose enfin son calque sur le nom du canal. Inès a entendu un quatrième nom chez sa voisine.",
+      "mirror": [
+        "Si quelqu’un hésite après avoir vu une photo du trajet, Inès peut préciser l’étape où en est l’équipe. « On vérifie les accès demain et on choisit les rôles ensuite. Tu veux que je te redonne la liste des photos ? » Une question sur la mission peut suffire pour reprendre la conversation. Si Thaïs souhaite expliquer ce qu’elle redoute, Inès peut l’écouter sans décider à sa place de ce qu’elle devra essayer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs accepte de participer au repérage avec Samir et Inès et demande de différer la répartition.",
+        "next": "Au repérage, l’équipe suit les consignes du lieu. Thaïs constate la différence entre une partie réellement fermée et une peur intense sur un accès autorisé."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "thais-peur-et-prudence-belvedere",
+      "title": "Quand la peur reste forte derrière le garde-corps",
+      "description": "Thaïs respecte une fermeture de terrain puis éprouve une peur intense devant une plateforme autorisée. Les deux situations appellent des choix distincts.",
+      "context": "Au repérage du vallon avant l’expédition",
+      "topics": [
+        "Danger réel",
+        "Peur des hauteurs",
+        "Peur de tomber"
+      ],
+      "clinical_focus": "Peur et risque réel",
+      "clinical_intro": "Samir arrête tout le groupe devant un chemin fermé. Plus loin, Thaïs se retrouve devant une plateforme ouverte et protégée, où elle redoute encore de tomber. Dans une phobie spécifique, la peur peut dépasser le danger présent dans une situation donnée. La comparaison aide à distinguer une précaution commune de l’intensité et du coût d’une peur durable.",
+      "opening": "Au bord de la route, Samir arrête le groupe devant une barrière fermée. Une portion du chemin a été interdite après la chute d’un arbre. Thaïs demande si la fermeture apparaît sur la carte officielle. Samir lui montre le panneau et note l’information pour prévenir la personne qui accueille les visiteurs à l’arrivée. Ils prennent tous le chemin balisé de l’autre côté de la station. Thaïs descend vers le canal en parlant avec Inès des noms qu’elles ont recueillis. Elle marche vite, contente de pouvoir relier la carte au bruit de l’eau.\n\nLa plateforme d’observation est ouverte. Samir vérifie l’accès prévu pour l’équipe et attend qu’un petit groupe de promeneurs libère le passage. Il demande à Thaïs où les photographies seraient les plus utiles. Sur la première marche, elle voit l’eau à travers le côté du garde-corps. Elle sait où se trouve la rambarde, mais son ventre se serre si fort qu’elle a du mal à lever la voix. Elle imagine son pied glisser alors qu’il est immobile. Elle finit par dire à Inès qu’elle préfère attendre en bas.\n\nInès redescend avec une photo du canal prise depuis le bout de la plateforme. En regardant l’image sur son téléphone, Thaïs repère un reflet qui rend le numéro de la borne illisible. Elle voudrait dire où il faudrait cadrer. Elle craint qu’on lui réponde que le plus simple serait de monter elle-même. Samir a entendu qu’elle voulait attendre. Il lui demande ce qu’il peut vérifier depuis le haut pendant qu’elle reste près du panneau.",
+      "sections": [
+        {
+          "heading": "Apprécier la peur dans son contexte",
+          "text": "Devant un chemin fermé après la chute d’un arbre, respecter la barrière est une décision de sécurité. Sur une plateforme en service, Thaïs éprouve une peur très forte à la vue de la hauteur. Ce contraste donne des éléments pour comprendre ce qu’elle vit, parce qu’elle connaît depuis longtemps cette réaction dans plusieurs lieux présentant la même caractéristique. Une situation autorisée peut encore comporter des règles à suivre. L’intensité de la peur ne donne à elle seule ni une estimation du risque, ni l’explication de cette peur.\n\nDans une évaluation clinique, le professionnel tient compte des conditions concrètes et de la façon dont la peur, l’évitement ou l’effort se répètent. Des signes physiques comme les tremblements ou les palpitations peuvent accompagner la peur. Leur présence, à elle seule, ne suffit pas à définir une phobie spécifique."
+        },
+        {
+          "heading": "Garder la sécurité et le travail dans leur rôle",
+          "text": "Samir doit vérifier les accès pour toute l’équipe. Il peut proposer à Thaïs de lui transmettre les informations qui permettront de décider à distance quelle photographie reprendre. En restant à un emplacement autorisé au sol, elle peut encore contrôler la référence de la borne et vérifier la précision d’une donnée. Si le site venait à fermer, le plan de toute l’équipe changerait.\n\nThaïs peut également garder pour une consultation la question de savoir ce qui s’est passé sur la marche et ce qui se répète ailleurs. Le travail de terrain suit les besoins de la mission et les règles du lieu. La prise en charge de sa peur suit des objectifs dont elle discute avec la psychologue. Ce jour-là, rester en bas est une décision qu’elle peut prendre sans devoir en tirer immédiatement une conclusion sur ses progrès."
+        }
+      ],
+      "ending_title": "La borne sur deux photos",
+      "ending": "Thaïs demande à Samir de vérifier de quel côté se trouve le numéro. Inès prend une deuxième photo. En rapprochant les deux images, Thaïs se rend compte que les chiffres correspondent à une ancienne feuille du cadastre. Elle note le lien avec le plan et envoie le renseignement au groupe. Avant de partir, elle demande à Samir de discuter des rôles au calme, au bureau, avec le tracé du repérage sous les yeux.",
+      "mirror": [
+        "Une personne responsable du terrain peut donner une consigne commune et entendre une demande individuelle. « Ce chemin est fermé pour tout le monde. Pour la plateforme, tu peux me dire ce dont tu as besoin ici. » En situation de peur, elle peut laisser à la personne un endroit autorisé où attendre et préciser comment l’équipe se retrouve. Si la personne veut travailler cette peur, le choix se discute avec un professionnel."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs reste au sol pour le point d’observation, contribue à l’identification de la borne et demande un entretien au bureau.",
+        "next": "Elle propose de coordonner des relevés depuis les points au sol et négocie exactement ce qui sera communiqué au groupe."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "thais-dire-son-besoin-sans-dossier-medical",
+      "title": "Expliquer un besoin de terrain en gardant son diagnostic privé",
+      "description": "Thaïs veut participer aux relevés. Elle cherche une façon de répartir les tâches sans que sa santé devienne un sujet de réunion.",
+      "context": "Au bureau de Traverse, après le repérage du vallon",
+      "topics": [
+        "Confidentialité au travail",
+        "Répartition des tâches",
+        "Crainte du jugement"
+      ],
+      "clinical_focus": "Confidentialité et retentissement professionnel",
+      "clinical_intro": "Depuis le repérage, Thaïs redoute que son refus de monter soit compris comme un désintérêt pour le terrain. Une phobie spécifique peut influencer les tâches qu’on accepte et rendre difficile le moment où il faut demander un aménagement. Elle précise ce qu’elle peut prendre en charge et la part de son histoire qu’elle souhaite garder privée.",
+      "opening": "Samir a imprimé deux exemplaires du tracé. Sur le sien, il a écrit « notes en direct » près du bâtiment de la station. Thaïs fait tourner le crayon entre ses doigts. La veille, en remontant du canal, elle avait entendu Inès proposer de faire d’abord « ce qu’on ne peut relever que d’en haut ». Elle s’était demandé si tout le monde avait entendu sa voix trembler lorsqu’elle avait dit qu’elle attendrait en bas.\n\nElle avait préparé un discours entier. Dedans, il y avait le nom donné à sa peur par la psychologue, le jour où elle avait renoncé à une terrasse pour l’anniversaire de Milo et le nombre de fois où elle avait prétexté une urgence de bureau. Assise devant Samir, elle ne veut plus raconter cette suite d’épisodes. Elle veut surtout qu’il sache qu’elle peut relever les inscriptions de la rive, prendre les questions du groupe et comparer les clichés pendant que les autres se déplacent.\n\nSamir lui demande si elle préfère travailler au bureau ce jour-là. Thaïs comprend à sa question qu’il a pris son attente au pied de la plateforme pour une demande de rester loin de l’expédition. Elle lui dit qu’elle veut être sur le terrain et qu’elle a besoin de points de travail au niveau du sol. La première moitié de la phrase sort très bas. À la seconde, elle pose son doigt sur l’emplacement d’où elle pourrait consulter la carte et recevoir les notes d’Inès. Samir demande ce qu’il peut écrire à l’équipe.",
+      "sections": [
+        {
+          "heading": "Quand la peur oblige à choisir ce qu’on dit",
+          "text": "Une phobie spécifique peut se traduire par des renoncements professionnels. Elle peut aussi rester peu visible lorsque la personne arrive à accomplir sa part du travail en dépensant beaucoup de temps et d’énergie à contourner certaines situations. Thaïs tient aux relevés et aux rencontres avec les habitants. Si les autres ne voient que ses refus devant une hauteur, ils peuvent tirer une conclusion erronée sur ses envies ou ses compétences.\n\nLa crainte d’être jugée s’ajoute ici à une peur dont le déclencheur principal reste la hauteur. Elle explique une partie de la difficulté de l’entretien. Cette nuance aide à comprendre pourquoi un besoin précis semble parfois demander un récit beaucoup plus intime. Thaïs peut parler des conséquences concrètes de la peur au travail, puis choisir séparément avec qui elle veut parler de son diagnostic."
+        },
+        {
+          "heading": "Décider ensemble de ce qui sera transmis",
+          "text": "Samir a besoin d’un plan praticable, dont les responsabilités sont claires. Thaïs peut nommer les postes qu’elle souhaite tenir et les conditions qui changeraient sa participation. Pour vérifier si cette répartition fonctionne, chacun peut relire ce qu’il devra faire sur place. Le partage d’informations peut rester limité à ce que Thaïs accepte et à ce qui est utile au groupe. Les questions de suivi et les raisons intimes n’ont pas à entrer dans le compte rendu.\n\nSi la répartition crée trop de travail pour Inès, cette dernière peut le dire et demander une adaptation. Un accord fait une place au choix de Thaïs et aux contraintes des collègues. Ils peuvent convenir d’un moment pour vérifier ce que cela donne, sans demander à Thaïs de franchir un point haut pour prouver qu’elle veut participer."
+        }
+      ],
+      "ending_title": "Un accord en deux lignes",
+      "ending": "Thaïs demande à relire le message avant l’envoi. Elle laisse la phrase qui lui attribue la coordination au sol et le contrôle des relevés. Elle ajoute le créneau où Inès pourra envoyer les photos et propose une pause à la station pour traiter les questions de noms. Samir lui dit de signaler si le plan crée une difficulté pendant la mission. Elle prend la carte et remarque qu’elle a encore le crayon dans la main.",
+      "mirror": [
+        "Samir peut vérifier ce qu’il a compris et demander un accord précis. « Je peux dire que tu coordonnes les points au sol et que nous reprenons les photos à la station. Tu veux que j’écrive autre chose ? » Si Thaïs se confie, il peut lui demander ce qui doit rester entre eux. Les autres personnes de l’équipe peuvent parler de leurs tâches et des contraintes de sécurité sans chercher le nom d’un trouble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs obtient une répartition de la mission au sol et valide un message qui ne dévoile pas son diagnostic.",
+        "next": "Le sujet de ce qu’elle veut partager revient en famille quand Milo propose un autre rendez-vous en hauteur."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "thais-se-confier-honte-escalier",
+      "title": "La honte de rebrousser chemin devant quelqu’un qu’on aime",
+      "description": "Milo croit que Thaïs évite leur rendez-vous. Elle lui explique ce qu’elle redoute dans l’escalier du moulin et choisit ce qu’elle lui confie.",
+      "context": "Le samedi, avec Milo à l’entrée d’un ancien moulin",
+      "topics": [
+        "Honte",
+        "Peur de tomber",
+        "Soutien des proches"
+      ],
+      "clinical_focus": "Honte et peur du jugement",
+      "clinical_intro": "Au moulin, Thaïs veut voir les affiches que son frère a repérées. À l’idée de monter, elle redoute surtout de tomber. Puis elle imagine les commentaires de Milo si elle renonce. La honte peut s’ajouter à la peur principale et retarder une demande d’aide. Thaïs essaie de mettre des mots sur ces deux expériences avec lui.",
+      "opening": "Milo a trouvé une affiche sur laquelle le nom du canal est écrit sans article. Le papier appartient à une petite exposition dans le moulin. Il se souvenait que Thaïs avait recherché ce nom pour la carte du vallon. En arrivant, elle a ri de voir qu’il avait apporté la même enveloppe que pour les cadeaux d’anniversaire. Il disait qu’elle pourrait y glisser les cartes postales de la boutique. Ils avaient prévu de rentrer à pied en suivant les jardins.\n\nÀ l’entrée, le bénévole désigne un escalier intérieur. Les marches laissent voir la cour à travers la cage. La visite se poursuit à l’étage. Thaïs s’arrête juste après le bureau d’accueil et dit qu’elle doit répondre à un message du travail. Milo l’attend près de l’affiche des horaires. Au bout d’un moment, il lui demande si elle préfère vraiment retourner au bureau un samedi. Elle reconnaît le ton qu’il prend quand elle annule au dernier moment. Elle a déjà utilisé le travail pour expliquer son départ lors de son anniversaire sur une terrasse.\n\nLe message qu’elle tient ouvert est une photo de la borne. Elle n’a rien à répondre. Quand Milo revient vers elle, Thaïs pense qu’il va lui dire de faire un effort. Elle lui demande de venir dans la cour où elle peut parler tranquillement. Il s’assoit avec elle sur le muret bas. Elle lui dit qu’elle veut toujours voir les affiches et qu’elle a surtout peur de tomber dans cet escalier. Les autres visiteurs sont déjà montés. Le silence de Milo la laisse finir.",
+      "sections": [
+        {
+          "heading": "La peur principale et ce qu’on redoute ensuite",
+          "text": "Une phobie spécifique peut s’accompagner d’une montée de peur si vive qu’elle devient visible. À la crainte de la situation s’ajoutent parfois l’embarras ou la peur d’être commenté. Thaïs redoute la hauteur dans l’escalier. Elle éprouve aussi de la honte à l’idée que Milo pense qu’elle exagère ou se désintéresse de ce qu’il a préparé. Ces deux expériences ont des conséquences différentes. L’une l’arrête à l’entrée et l’autre lui donne envie d’inventer une raison pour partir.\n\nUne montée de panique peut survenir au contact de ce qui fait peur ou à son anticipation. Les circonstances, le déclencheur, les difficultés rencontrées ailleurs et leur durée donnent au clinicien des éléments pour comprendre l’ensemble. Chez Thaïs, le lieu redouté reste lié aux hauteurs, même quand le regard des autres complique la situation."
+        },
+        {
+          "heading": "Rendre visible la sortie que chacun attendait",
+          "text": "Milo peut dire qu’il a cru que sa sœur n’avait plus envie de passer l’après-midi avec lui. Elle peut lui expliquer ce qu’elle souhaitait voir et ce qui l’a retenue dans le hall. Cette conversation n’exige pas de passer l’escalier pour vérifier ce qu’elle dit. Elle peut permettre à chacun de faire une nouvelle proposition en comprenant mieux la réaction de l’autre.\n\nThaïs peut aussi dire ce qui lui serait utile dans une prochaine sortie. Ici, elle préfère qu’on lui demande si elle veut une alternative avant de partir chercher une personne qui la ferait monter. Milo peut de son côté aller voir l’exposition ou rester avec elle. Un accord ponctuel permet de retrouver une partie de la sortie prévue et laisse à chacun sa décision."
+        }
+      ],
+      "ending_title": "Une carte postale dans l’enveloppe",
+      "ending": "Milo demande au bénévole s’il existe une reproduction de l’affiche à l’accueil. Thaïs le rejoint quand il lui fait signe. Ils trouvent le nom du canal sur une carte postale et un deuxième document avec une autre orthographe. Ils glissent les deux références dans l’enveloppe. En sortant, Thaïs dit à Milo qu’il peut lui demander directement si elle change d’avis sur une sortie. Elle lui demande de garder pour lui la conversation sur la peur.",
+      "mirror": [
+        "Milo peut vérifier ce qu’il a compris sans transformer la confidence en débat. « Tu voulais voir l’affiche. C’est surtout l’escalier qui t’a arrêtée. Tu veux que je demande s’il y a une reproduction ? » Il peut dire qu’il s’est senti laissé de côté et convenir d’une autre sortie. S’il reparle de sa peur, il peut garder les mots choisis par Thaïs et demander son accord avant d’en parler à quelqu’un."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs se confie à Milo et lui demande de garder cette information pour lui.",
+        "next": "Elle remarque seule le coût d’un détour qui, cette fois, lui apporte un soulagement immédiat et lui fait manquer un rendez-vous."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "thais-soulagement-du-detour",
+      "title": "Le soulagement du détour et ce qu’il coûte",
+      "description": "Pour éviter une passerelle urbaine, Thaïs change de trajet vers les archives. Le soulagement arrive vite, puis elle mesure ce qu’elle a perdu.",
+      "context": "Sur le trajet vers les archives municipales, une semaine avant l’expédition",
+      "topics": [
+        "Soulagement immédiat",
+        "Évitement",
+        "Retentissement dans le temps"
+      ],
+      "clinical_focus": "Soulagement et maintien de l’évitement",
+      "clinical_intro": "Sur le chemin des archives, Thaïs choisit un détour dès qu’elle aperçoit la passerelle. La tension baisse et elle a immédiatement l’impression d’avoir trouvé la bonne solution. Une phobie spécifique peut pourtant continuer à réduire les choix quand le soulagement devient la raison principale de chaque détour. Les effets de ce trajet se mesurent aussi à l’heure du rendez-vous manqué.",
+      "opening": "Les deux cartes postales du moulin sont coincées dans le livre que Thaïs rendra à Milo. Elle a pris rendez-vous aux archives municipales pour regarder les documents dont elles ont retrouvé les titres. Une archiviste a réservé une table avant son départ. En sortant du tram, Thaïs entend la cour d’une école derrière le mur et voit plus loin le toit du bâtiment. Il lui reste le passage au-dessus des voies. Les cyclistes ont mis pied à terre pour le traverser, comme le panneau le demande.\n\nÀ l’entrée de la passerelle, Thaïs voit les rails à travers le parapet. Elle pense que l’écart de hauteur va lui donner le sentiment de perdre l’équilibre. Elle repart vers l’arrêt. Si elle prend le tram dans l’autre sens puis le bus, elle pourra arriver par la rue des archives sans passer au-dessus des voies. Une fois revenue sous l’abri, elle sent ses épaules descendre. Elle envoie à Milo la photo d’un nom de rue qu’il trouvait drôle. Pendant quelques minutes, la journée reprend son rythme.\n\nLe bus met plus de temps que prévu. À l’arrivée, l’archiviste a remis les documents en réserve et s’apprête à partir. Thaïs lui dit qu’elle a mal évalué le trajet. Elle aurait préféré pouvoir comparer les deux feuilles avant la réunion de vendredi. Sur le banc devant les archives, elle se rend compte qu’elle avait oublié de regarder le délai du détour au moment où elle l’a choisi. Ce qui la pressait, à cet instant, c’était de faire baisser la peur.",
+      "sections": [
+        {
+          "heading": "Le soulagement arrive avant les conséquences",
+          "text": "Renoncer à un passage qui déclenche une peur intense peut faire retomber la tension rapidement. Ce changement immédiat peut rendre le détour particulièrement attirant quand une situation similaire se présente. Les conséquences du détour arrivent parfois plus tard et sont moins perceptibles sur le moment. Pour Thaïs, le soulagement survient dès l’abri du tram. Le rendez-vous manqué apparaît une fois qu’elle est devant les archives.\n\nCe fonctionnement s’apprécie dans la durée. Éviter un lieu peut être un choix adapté à la sécurité, à la fatigue ou au programme du jour. Un aménagement de travail peut aussi permettre une participation importante. Dans le suivi d’une phobie, il est possible d’examiner les situations où une personne perd de la marge de décision et celles où elle gagne une façon de participer à une activité qu’elle a choisie."
+        },
+        {
+          "heading": "Repérer les choix que Thaïs veut retrouver",
+          "text": "Thaïs peut arriver au rendez-vous avec sa psychologue en sachant ce qui comptait dans cette sortie. Elle voulait consulter deux feuilles avec l’archiviste et finir assez tôt pour aller à la réunion de vendredi. Elle peut lui dire à quel moment elle a changé de trajet, ce qu’elle a éprouvé ensuite et quelle autre possibilité elle aimerait avoir dans l’avenir. Ces détails donnent un objectif plus concret que l’idée de devoir emprunter toutes les passerelles.\n\nPour la carte, elle peut vérifier avec l’archiviste les modalités d’un nouveau créneau. Demander une date ou une cote précise répond au travail à faire. Si elle souhaite aborder la peur des hauteurs, cela se discute dans un cadre choisi avec sa psychologue. Les personnes chargées des documents peuvent l’aider sur leur propre domaine sans chercher à modifier son trajet."
+        }
+      ],
+      "ending_title": "Reprendre un créneau",
+      "ending": "Thaïs écrit à l’archiviste pour demander quand elles pourront reprendre le rendez-vous. Elle note les deux titres de documents dans son carnet et garde les cartes postales pour la prochaine fois. Puis elle ouvre une note pour sa consultation et inscrit simplement « le soulagement est arrivé avant que je vérifie l’heure ». Milo lui a répondu qu’il veut voir la drôle de plaque de rue. Elle lui envoie le nom de l’arrêt.",
+      "mirror": [
+        "Si Thaïs raconte son trajet, Milo peut l’aider à remettre les événements dans l’ordre. « Qu’est-ce qui t’a le plus soulagée à l’arrêt ? Et qu’est-ce qui comptait aux archives ? » Il peut proposer de lui garder les références qu’ils ont trouvées ensemble. Thaïs peut choisir si elle souhaite parler du passage en hauteur à sa psychologue et préciser les sorties qu’elle veut retrouver."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs demande un nouveau rendez-vous aux archives et retient l’écart entre le soulagement rapide et le retard.",
+        "next": "Le matin de l’expédition, une alerte concernant le site modifie réellement les possibilités du groupe."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "thais-fermeture-meteo-et-soulagement",
+      "title": "Quand une fermeture de terrain soulage et déçoit à la fois",
+      "description": "Une partie du vallon ferme le jour des relevés. Thaïs est soulagée et déçue à la fois, puis distingue l’alerte de ce qu’elle redoutait déjà.",
+      "context": "Le matin prévu pour les relevés dans le vallon",
+      "topics": [
+        "Évaluation du risque",
+        "Émotions mêlées",
+        "Perte de choix"
+      ],
+      "clinical_focus": "Sécurité et émotions mixtes",
+      "clinical_intro": "Quand Samir annonce la fermeture du sentier vers la station, Thaïs est soulagée. Elle est aussi déçue de ne pas entendre les habitants qui devaient les rejoindre. Une phobie spécifique peut influencer une partie de cette réaction, alors que la fermeture répond à un danger évalué pour tous. Ressentir du soulagement renseigne sur son vécu, tandis que le gestionnaire du lieu décide des accès.",
+      "opening": "Ils ont chargé le matériel avant de recevoir le message. Samir relit l’avis du gestionnaire du vallon près de la portière ouverte. La pluie de la nuit a fait monter l’eau et le sentier jusqu’à la station est fermé. Il demande de laisser le matériel dans le véhicule et contacte les deux habitants qu’ils devaient retrouver près du canal. Le groupe ne descendra pas ce matin. Inès remet le capuchon sur son appareil et demande combien de temps il faudra pour prévenir la mairie.\n\nThaïs sent d’abord un allègement qu’elle ne veut pas laisser paraître. Depuis la veille, elle imaginait le moment où la radio grésillerait et où quelqu’un lui demanderait de monter pour expliquer l’emplacement d’une borne. Le plan convenu avec Samir ne lui demandait rien de tel. Elle avait pourtant imaginé plusieurs façons de se justifier. Quand il prononce le mot « fermeture », l’image de la plateforme disparaît de sa tête.\n\nUn habitant a répondu au message. Il a sorti ses anciennes photos pour reconnaître la digue et demande si quelqu’un pourra encore venir les voir. Thaïs a envie de dire oui immédiatement. Elle pense au café que l’association utilise pour les réunions et vérifie s’il est ouvert. Inès lui demande si elle souhaite vraiment y aller après l’annulation. Thaïs lui explique qu’elle attendait surtout le moment de comparer les anciens noms avec ceux d’aujourd’hui. Elle se rend compte que le terrain lui manque déjà, même si une partie de la mission l’inquiétait.",
+      "sections": [
+        {
+          "heading": "Une consigne commune et un vécu individuel",
+          "text": "Les conditions réelles d’un lieu peuvent changer et rendre une sortie inadaptée pour tous. Samir applique la fermeture communiquée par le gestionnaire. Cette décision vaut aussi pour une personne qui n’éprouve aucune peur particulière des hauteurs. Dans l’évaluation d’une phobie spécifique, un professionnel tient également compte du risque raisonnable dans une situation. Il s’intéresse aux craintes qui restent très fortes même dans certains contextes ordinaires, et aux conséquences qu’elles ont dans la vie de la personne.\n\nThaïs ressent du soulagement et de la déception dans le même quart d’heure. Le premier sentiment se comprend notamment à partir du scénario redouté avant le départ. Le second rappelle un objectif réel. Aucun de ces sentiments ne décide de la réouverture du vallon. Ils peuvent l’aider à préciser ce qu’elle veut faire de la journée et ce qu’elle souhaite aborder dans le suivi."
+        },
+        {
+          "heading": "Sauver ce qui a du sens quand la mission change",
+          "text": "L’équipe peut répartir les choses qu’elle peut encore faire. Samir garde la responsabilité de vérifier les futurs accès. Inès pourra reprendre ses photographies à la date convenue. Thaïs peut proposer une rencontre au village pour identifier les noms de lieu et vérifier les repères dont ils auront besoin ensuite. Les données qui exigent de se rendre au canal restent à relever après la réouverture.\n\nAvoir une autre tâche n’efface pas forcément la peur de la prochaine sortie. Ce que Thaïs a imaginé avant de partir pourra être abordé avec sa psychologue. Elle peut lui expliquer que l’accord au sol était clair et que l’incertitude lui a tout de même pris une partie de la soirée. Cette différence entre les consignes connues et ce qu’elle anticipait constitue un point de départ pour leur échange."
+        }
+      ],
+      "ending_title": "Une matinée dans le village",
+      "ending": "L’habitant accepte de passer au café avec ses photographies. Thaïs prend les pochettes pour les regarder sans les abîmer. Samir convient d’une nouvelle date sous réserve de réouverture, et confirme que la répartition des rôles reste celle convenue après le repérage. La veille, Thaïs aurait voulu que tout le monde oublie la passerelle. En se rendant au café, elle se surprend à préparer la question qu’elle posera à sa psychologue sur les semaines à venir.",
+      "mirror": [
+        "Dans une annulation, les rôles peuvent rester nets. Samir annonce les accès fermés et les étapes à reprogrammer. Il peut demander à Thaïs si elle veut contribuer à une rencontre au village. Si elle parle de son soulagement, Inès peut lui laisser la place d’évoquer aussi sa déception. Une personne peut tenir au projet et redouter un passage, et décider librement de ce qu’elle souhaite partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs rencontre un habitant au café. La mission de terrain sera reprise après autorisation, avec le même partage des tâches.",
+        "next": "Elle échange avec sa psychologue sur le travail qu’elle souhaite engager et le rôle que la mission doit conserver."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "thais-choisir-objectif-suivi",
+      "title": "Choisir ce qu’on veut retrouver avant de travailler sur sa peur",
+      "description": "Chez sa psychologue, Thaïs cherche un objectif qui lui importe. Elle veut pouvoir choisir certaines sorties sans dépendre autant de la peur.",
+      "context": "Au cabinet de Mme Verdier, avant la reprise des relevés",
+      "topics": [
+        "Choix du soin",
+        "Objectifs personnels",
+        "Peur des hauteurs"
+      ],
+      "clinical_focus": "Décision partagée dans le suivi",
+      "clinical_intro": "Thaïs pense qu’elle devrait vouloir monter partout pour que son suivi ait un sens. Sa psychologue lui demande quelle activité elle voudrait pouvoir choisir plus librement. Des thérapies psychologiques peuvent aider certaines personnes à travailler sur une phobie spécifique. Dans ce rendez-vous, l’objectif et les moyens éventuels se discutent à partir de ce que Thaïs tient à retrouver.",
+      "opening": "Dans la salle d’attente, Thaïs efface un mot sur son téléphone. Elle avait écrit « monter » puis « pouvoir monter ». Elle pense au premier rendez-vous où Mme Verdier lui avait demandé ce que cette peur l’amenait à faire depuis des mois. Elle avait surtout décrit la difficulté à franchir des passerelles qu’elle savait ouvertes. Ce matin, elle a apporté les titres des deux documents d’archives, le message de Samir sur la fermeture et l’adresse d’un article de recherche sur la réalité virtuelle. En les regardant ensemble, elle a l’impression d’avoir préparé trois rendez-vous différents.\n\nMme Verdier lui demande par quoi elle veut commencer. Thaïs parle du trajet qui lui a fait manquer l’archiviste et de l’anniversaire de Milo, puis explique que la mission du vallon a été reprogrammée. Elle a encore le droit de coordonner les relevés au sol. Elle dit qu’elle devrait peut-être travailler sur sa peur jusqu’à pouvoir faire ce que fait Inès. Mme Verdier lui demande ce qu’elle choisirait si personne ne comparait leurs rôles.\n\nThaïs pense à la promenade avec Milo, au musée et au fait de pouvoir aller chercher un document sans que toute la matinée dépende d’un passage. Elle reprend sa phrase. Elle voudrait que la peur décide moins souvent de l’heure à laquelle elle part et des personnes qu’elle voit. Elle n’est pas certaine de vouloir travailler sur toutes les situations. Mme Verdier lui propose de discuter de ce premier objectif et des options avant de décider de la suite.",
+      "sections": [
+        {
+          "heading": "Le but du suivi peut partir d’une activité perdue",
+          "text": "La prise en charge d’une phobie spécifique peut inclure une thérapie comportementale et cognitive. Quand un travail avec les situations redoutées est envisagé, le choix des moyens et des conditions appartient à la personne et au professionnel qui l’accompagne. Il tient compte de l’objectif, du contexte et de la sécurité. Le fait que Thaïs choisisse de garder un rôle au sol pendant les relevés ne règle pas la question du soin. Elle peut conserver ce rôle et vouloir gagner de la liberté dans des déplacements qu’elle choisit pour elle-même.\n\nLe rendez-vous sert à préciser ce qui rend une option acceptable pour Thaïs. Elle peut demander comment se passerait le suivi, à quoi elle pourrait consentir ou renoncer et comment elles jugeraient si l’approche lui est utile. Les bénéfices possibles se discutent sans promesse de résultat individuel."
+        },
+        {
+          "heading": "Ce qu’une étude ajoute à la conversation",
+          "text": "Dans l’essai de Freeman et ses collègues, un programme précis en réalité virtuelle a réduit à court terme la peur rapportée par des adultes qui craignaient les hauteurs, par rapport au groupe témoin. La portée du résultat tient au programme étudié, aux personnes incluses et au suivi limité dans le temps. Il peut aider Thaïs à poser une question sur les options. Il ne permet pas de savoir quel accompagnement est indiqué pour elle ou ce qu’elle pourrait obtenir près de chez elle.\n\nMme Verdier peut accueillir sa curiosité et revenir aux possibilités du suivi. L’accord de Thaïs concerne ce qu’elles décideront ensemble. Ses collègues, son frère et le calendrier d’une mission n’ont pas à fixer les étapes ni à organiser une confrontation. Elle peut avancer à partir d’un objectif défini avec elle et signaler ce qui ne lui convient pas."
+        }
+      ],
+      "ending_title": "Un objectif écrit avec ses mots",
+      "ending": "Thaïs reprend son téléphone. Elle écrit « garder des sorties que j’ai choisies » à la place de « monter ». Elle accepte d’examiner avec Mme Verdier un accompagnement centré sur cette peur et demande qu’elles puissent revenir sur chaque décision. Dans le tram, elle confirme la date du prochain entretien. Elle envoie séparément à Samir le tableau des relevés au sol. Elle n’a besoin d’aucune phrase sur son suivi dans ce message.",
+      "mirror": [
+        "Milo peut soutenir le choix de Thaïs en lui demandant ce qu’elle voudrait retrouver. « Quand tu penses à nos sorties, qu’est-ce qui te manque le plus ? » Si elle évoque une option de soin, il peut l’écouter et proposer de reprendre la conversation quand elle en aura envie. Organiser une confrontation, même avec l’intention de l’aider, lui retirerait la possibilité de choisir les conditions avec sa psychologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies",
+        "freeman-hauteurs-2018"
+      ],
+      "continuity": {
+        "choice": "Thaïs choisit un objectif personnel et convient avec Mme Verdier de discuter des options au prochain rendez-vous.",
+        "next": "Pendant une projection professionnelle, Thaïs découvre qu’une image calme et une vidéo en mouvement peuvent susciter des réactions très différentes."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "thais-reaction-image-mouvement",
+      "title": "Pourquoi deux images de la même hauteur peuvent provoquer des réactions différentes",
+      "description": "Thaïs commente une photo du canal sans difficulté. Un mouvement de caméra la surprend, et elle demande une modification de la présentation.",
+      "context": "Pendant la préparation d’une projection publique au bureau",
+      "topics": [
+        "Contexte de la peur",
+        "Sensation de chute",
+        "Demande de pause"
+      ],
+      "clinical_focus": "Variation selon le contexte",
+      "clinical_intro": "Thaïs a repris une photo en détail au bureau. Quand la même vue apparaît dans une vidéo et bascule vers l’eau, elle a l’impression de perdre son appui. Dans une phobie spécifique, certains indices ou représentations peuvent réveiller la peur alors qu’une autre version de la situation est supportable. Thaïs observe ce changement et choisit de le signaler.",
+      "opening": "Inès a enregistré quelques secondes de la surface du canal pour la présentation de l’association. Thaïs lui a demandé de mettre en pause sur le mur de la station. Elle entoure à l’écran la borne dont elles ont enfin retrouvé la référence. L’image est plus lisible sur l’ordinateur qu’elle ne l’était sur le téléphone d’Inès au repérage. Elles remplacent une note ancienne et comparent la photo avec le plan d’archives qu’on a pu leur transmettre depuis.\n\nInès relance la vidéo pour vérifier la transition avec la carte. La caméra descend d’un coup vers le bord de la passerelle. Thaïs recule sa chaise et attrape la table, surprise par l’impression que son corps est parti vers l’avant. La séquence dure à peine le temps d’un mouvement de souris. Elle reste silencieuse alors qu’Inès lui demande si le nom du canal se lit bien. Pour la photo fixe, elle avait même proposé d’agrandir l’eau. Elle comprend mal pourquoi ces deux minutes ont été aussi différentes.\n\nInès arrête la lecture et lui demande si elle veut reprendre après la pause. Thaïs hésite. Elle pourrait demander de supprimer toutes les images prises en hauteur. En regardant la feuille des plans, elle se rappelle que leur but est de situer la borne et le canal. Elle demande de garder la photo fixe pour cette étape. Inès acquiesce et ouvre le dossier des images. Elles pourront décider séparément si un autre plan de la vidéo sert la présentation.",
+      "sections": [
+        {
+          "heading": "Une situation tolérable peut devenir difficile quand un indice change",
+          "text": "Une peur liée à une situation précise peut s’éveiller à son contact ou dès qu’on se la représente. Les circonstances modifient ce que la personne perçoit. Dans la photo fixe, Thaïs regarde le numéro de la borne. Le mouvement vers l’eau lui donne une impression soudaine de chute. L’exemple décrit sa réaction à cet instant. D’autres personnes peuvent réagir différemment à la même image, ou ressentir une gêne semblable pour d’autres raisons.\n\nReprendre une photo qui se passe bien ne permet pas de prévoir exactement ce que la personne éprouvera devant chaque représentation ou dans un lieu réel. Thaïs pourra décrire les deux moments à sa psychologue. Dire à quel instant le mouvement a changé l’expérience donne plus d’information que de résumer l’après-midi comme une réussite suivie d’un échec."
+        },
+        {
+          "heading": "Garder le pouvoir de demander une pause",
+          "text": "Dans un travail en commun, la possibilité de mettre une séquence en pause permet de continuer à discuter de sa fonction. Inès peut préciser à quoi sert la vidéo et demander à Thaïs si elle souhaite revoir une partie. Elle peut aussi préparer un aperçu stable lorsqu’une photo suffit. Thaïs n’est pas tenue de raconter ce que lui a dit sa psychologue pour faire une proposition de montage.\n\nSi elle souhaite réfléchir à ce qui est modifiable dans sa réaction, elle peut revenir sur cet épisode dans son suivi. Avec Mme Verdier, elle a commencé à discuter des options qui lui permettraient de garder des activités importantes. L’ordinateur du bureau reste un outil de présentation. Chacune garde la possibilité de dire qu’elle a besoin de connaître le contenu à venir ou de continuer la séance de travail autrement."
+        }
+      ],
+      "ending_title": "La borne reste à l’écran",
+      "ending": "Inès remplace le plan par la photo qui montre la borne. Thaïs choisit un fond assez clair pour faire ressortir le numéro et relit le nom du canal à voix haute. Elle demande qu’on annonce les vidéos avant de les lancer lors de la prochaine répétition. Puis elle note ce qui l’a surprise pour en parler à Mme Verdier. Elle garde une autre photo du canal pour expliquer comment ils ont vérifié le tracé.",
+      "mirror": [
+        "Inès peut proposer une pause et donner un choix simple. « Je peux te montrer l’image arrêtée, ou avancer au plan suivant. Qu’est-ce qui t’aiderait à reprendre ? » Elle peut demander ensuite si Thaïs préfère être prévenue avant un mouvement de caméra. Une adaptation de cette séance de travail peut suffire. Les décisions relatives à la prise en charge se discutent dans le cadre choisi avec la psychologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs remplace une séquence par une photo qui remplit le même objectif. Inès annonce les vidéos pendant les répétitions.",
+        "next": "Le gestionnaire rouvre l’accès au vallon et Thaïs met en œuvre la coordination au sol convenue avec Samir."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "thais-expedition-role-au-sol",
+      "title": "Prendre sa place sur le terrain avec une phobie des hauteurs",
+      "description": "Quand le vallon rouvre, Thaïs coordonne les relevés au sol. Une question imprévue l’amène à rappeler l’accord et à préciser son rôle.",
+      "context": "Le jour du terrain reprogrammé, après la réouverture du vallon",
+      "topics": [
+        "Retentissement professionnel",
+        "Participation",
+        "Limites convenues"
+      ],
+      "clinical_focus": "Participation et ajustement du travail",
+      "clinical_intro": "Le vallon est rouvert et Thaïs retrouve le travail qu’elle voulait faire sur place. La peur des hauteurs continue de peser quand un imprévu pourrait l’amener vers la plateforme. La scène montre comment un aménagement ciblé permet de participer à un projet et comment la personne peut garder un rôle dans les décisions quand le plan change.",
+      "opening": "Samir a confirmé la réouverture avec le gestionnaire et revu les consignes du jour. À la station, Thaïs pose les cartes sur une table à l’abri. Les questions qu’ils ont notées au café sont maintenant inscrites au dos de chaque feuille. Elle a une place d’où elle peut recevoir les photos et comparer les anciens noms avec ceux des deux habitants venus les rejoindre. Inès doit passer par le point d’observation ouvert pour prendre la vue manquante, avec Samir. Les autres relevés se font près du canal par le chemin balisé.\n\nLe premier habitant montre une borne qui n’est pas la bonne. Il explique qu’avant les travaux, le panneau portait un nom différent. Thaïs lui demande de suivre du doigt l’ancien chemin sur le plan. Le trait qu’il dessine va jusqu’à l’autre rive. Au même moment, Inès l’appelle pour dire qu’elle ne retrouve pas la marque sur la photographie. Elle demande si Thaïs peut venir lui montrer où regarder. Thaïs voit la plateforme à travers la vitre et sent monter l’ancienne envie d’expliquer qu’elle a oublié un rendez-vous.\n\nElle se rappelle ce qu’elles ont prévu pour les vérifications. Elle demande à Inès de lui envoyer les deux vues qu’elle a prises et dit qu’elle reste à la station. Le monsieur près de la carte a justement reconnu sur l’une d’elles un mur construit avant la crue. En attendant la photo, Thaïs lui demande à quelle époque il l’a vu pour la dernière fois. Inès rappelle plus tard et confirme avoir trouvé le bon point.",
+      "sections": [
+        {
+          "heading": "La part du travail qui change et celle qu’on retrouve",
+          "text": "Une phobie spécifique peut rendre certaines tâches difficiles même quand la personne tient à son métier. Cette difficulté peut être comprise en regardant les situations qui déclenchent la peur et ce que la personne continue de faire ailleurs. Thaïs exerce son jugement de cartographe en identifiant un point, en interrogeant un habitant et en vérifiant des sources. Elle a besoin d’une manière différente de recevoir une information qui dépend d’une vue en hauteur.\n\nDans ce cas, l’aménagement prévoit la place et les moyens de travailler. Il ne supprime pas toute réaction de peur. Quand Inès appelle, Thaïs retrouve la tension et envisage de se justifier. Elle peut rappeler l’accord sans attendre d’être parfaitement à l’aise. L’imprévu donne aussi au groupe des indications sur la façon de rendre le partage des tâches plus clair."
+        },
+        {
+          "heading": "Vérifier que l’accord répond aux besoins de chacun",
+          "text": "Le rôle de Samir est de maintenir les conditions de sécurité et de regarder avec l’équipe ce qui peut se faire depuis chaque emplacement. Inès peut dire si l’envoi des vues lui demande trop de temps ou si elle a besoin d’un moyen de comparer deux photos. Thaïs peut proposer un autre outil ou un autre créneau. Ces décisions relèvent de la mission et peuvent être évaluées sur le résultat du travail.\n\nLa question de savoir ce que Thaïs veut travailler dans son suivi a un autre cadre. Elle peut expliquer à Mme Verdier ce qu’elle a ressenti en répondant à l’appel et ce que cet accord a rendu possible. Une journée de terrain utile apporte des exemples de participation. Elle n’impose aucune conclusion sur la disparition de la peur ni sur les rôles des prochaines missions."
+        }
+      ],
+      "ending_title": "Le trait qui traverse le mur",
+      "ending": "En fin de matinée, Thaïs inscrit le nom que les habitants emploient encore à côté de celui des archives. Sur la photographie reçue, le mur s’arrête avant la borne. Elle montre pourquoi le vieux tracé traverse l’emplacement de la station. Inès revient avec assez de vues pour une première version. Samir lui demande si elles veulent noter un ajustement pour la prochaine mission. Thaïs propose que les photos soient identifiées dès l’envoi pour éviter de relancer le groupe.",
+      "mirror": [
+        "Quand un collègue propose un déplacement qui modifie le rôle convenu, Samir peut rappeler le plan et chercher l’information autrement. « Thaïs coordonne à la station. De quelle vue a-t-elle besoin pour nous répondre ? » Il peut ensuite demander à Inès si l’envoi est faisable. Une organisation explicite aide chacun à signaler une contrainte. Elle laisse à Thaïs la décision d’évoquer ou non la peur derrière sa demande."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "L’expédition aboutit aux relevés. Thaïs tient son rôle au sol et propose un ajustement concret au partage des photographies.",
+        "next": "Au cours d’une sortie choisie avec Milo, la peur redevient forte dans une situation qui semblait d’abord accessible."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "thais-peur-revient-autre-situation",
+      "title": "Quand la peur revient après une expérience plus facile",
+      "description": "Thaïs pensait pouvoir prendre un escalier au cinéma. La hauteur reste difficile ce soir-là, et elle discute d’une autre place avec Milo.",
+      "context": "Quelques semaines plus tard, à la projection d’un documentaire avec Milo",
+      "topics": [
+        "Fluctuation de la peur",
+        "Déception",
+        "Choix en situation"
+      ],
+      "clinical_focus": "Variations de la peur",
+      "clinical_intro": "Thaïs a emprunté récemment un escalier qui lui coûtait depuis longtemps. Au cinéma, une autre cage d’escalier suffit à réveiller une peur intense. Dans une phobie spécifique, des réactions différentes peuvent se succéder même lorsque la personne fait des choix plus libres ailleurs. Thaïs cherche à comprendre ce soir-là sans transformer sa déception en verdict sur tout son suivi.",
+      "opening": "En arrivant au cinéma, Thaïs et Milo parlent encore des traces blanches sur la façade de la boulangerie. Leur mère disait qu’elles montraient le niveau d’une crue. Milo prétend qu’un ancien propriétaire a simplement repeint les murs en deux fois. Ils ont réservé pour voir un film où des habitants racontent l’histoire des rivières de la région. Thaïs a choisi la séance. La semaine dernière, elle était retournée aux archives et avait pu prendre leur petit escalier, dont la vue est masquée par une cloison, malgré une appréhension qui lui prenait d’habitude plus de temps.\n\nAu cinéma, une partie de la salle est fermée pour une réparation. La personne à l’entrée propose deux places plus haut, derrière le dernier rang. Thaïs pense à l’escalier des archives. Elle commence à monter avec Milo. À la première ouverture sur la salle, elle voit l’inclinaison du balcon. Ses jambes tremblent. Elle agrippe la rampe et dit qu’elle préfère redescendre avec lui. Dans le hall, elle reste debout un moment, déçue que la sensation soit si vive alors qu’elle voulait surtout voir le film.\n\nMilo a envie de lui rappeler les archives. Il commence sa phrase, puis demande si elle veut savoir s’il reste une place en bas. Thaïs ne veut pas qu’il rate la séance. Elle lui dit de garder les billets le temps qu’elle parle à l’accueil. Elle aimerait voir le documentaire ce soir, même si les places qu’on lui propose ne sont plus celles qu’elle avait imaginées.",
+      "sections": [
+        {
+          "heading": "Comprendre deux réactions dans deux lieux",
+          "text": "La peur d’une situation peut varier avec les détails de cette situation, les circonstances du moment et les réactions passées. Un escalier court dont la vue est masquée et un balcon qui s’ouvre sur une salle peuvent susciter des réactions différentes. Thaïs a trouvé une façon de faire aux archives. Elle éprouve une peur intense dans le cinéma. Les deux événements peuvent être décrits ensemble dans le suivi. Ils ne justifient pas de conclure, à partir de ce soir, à l’échec d’un accompagnement ou à la perte de tout ce qui lui a déjà été utile.\n\nLe fait qu’une phobie soit centrée sur un type de situation n’implique pas que toutes ses variantes soient vécues de la même manière. La vue sur la salle et le changement de place imprévu ont compté pour Thaïs. Son récit aide la psychologue à comprendre précisément ce qu’elle a remarqué."
+        },
+        {
+          "heading": "Mesurer le choix qui reste possible",
+          "text": "Dans le hall, Thaïs peut envisager la suite à partir de son objectif de la soirée. Elle avait envie de voir le film avec Milo. Elle peut demander si des places se libèrent, accepter une autre séance ou laisser son frère entrer s’il le souhaite. La réponse du cinéma et l’envie de chacun guideront cette décision. Le cinéma n’a aucune raison de faire de l’accès au balcon une épreuve.\n\nPour le suivi, elle peut dire que l’escalier des archives était plus facile que prévu et qu’elle s’est sentie déçue en revenant dans le hall. Le fait de remettre deux expériences dans leur contexte aide à trouver des objectifs qui tiennent compte des difficultés qui persistent. Mme Verdier pourra reprendre avec elle ce qui lui convient dans l’accompagnement."
+        }
+      ],
+      "ending_title": "Deux places près de la porte",
+      "ending": "Deux personnes ne sont pas venues. La personne de l’accueil trouve deux places en bas, près de la porte de la salle. Thaïs demande à Milo s’il veut les prendre avec elle. Pendant le générique, elle pense à l’escalier, puis reconnaît la voix d’un homme qu’elle avait rencontré au café. À la sortie, elle dit à Milo qu’elle a encore du mal avec le souvenir de la montée. Elle préfère en reparler demain, quand ils n’auront plus de séance à rattraper.",
+      "mirror": [
+        "Milo peut lui laisser le temps de redescendre et demander ce qu’elle veut faire du film. « On peut demander pour le bas. Tu préfères que je vienne ou que je t’attende ? » Il peut aussi dire ce qu’il souhaite pour sa propre soirée. Un rappel des archives peut attendre que Thaïs ait envie de parler des deux sorties. Le rôle de Milo est de l’écouter et de prendre des décisions avec elle sur leur soirée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs voit le film depuis le bas avec Milo et décide de reparler de la montée le lendemain.",
+        "next": "Elle précise avec Milo quelle présence l’aide et ce qu’il peut réellement promettre pour la présentation de la carte."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "thais-soutenir-sans-promettre-pour-autre",
+      "title": "Demander de la présence en laissant à chacun sa décision",
+      "description": "Thaïs aimerait que Milo vienne lors de la présentation de la carte. Ils précisent ce qu’il peut faire et ce qu’elle préfère décider.",
+      "context": "Le lendemain de la projection, pendant la préparation de la rencontre publique",
+      "topics": [
+        "Demande de soutien",
+        "Accord concret",
+        "Limites des proches"
+      ],
+      "clinical_focus": "Soutien choisi et limites",
+      "clinical_intro": "Thaïs voudrait demander à Milo de rester avec elle pendant toute la rencontre publique. Elle redoute qu’une visite en hauteur lui soit proposée. Savoir ce qu’un proche peut faire rend le soutien plus prévisible. Elle cherche avec lui un accord qui lui laisse la possibilité de décider ce qu’elle fera sur place et qui respecte aussi sa disponibilité.",
+      "opening": "Chez Milo, deux tasses ont déjà été sorties quand Thaïs arrive. Elle a la maquette de l’affiche dans son sac. La carte sera présentée dans la salle basse de la mairie. L’association propose aussi aux visiteurs une courte visite de la galerie vitrée de l’étage, qui donne sur le vallon. Samir lui a dit qu’Inès pouvait faire cette visite avec ceux qui le souhaitent. Thaïs est certaine de ce qu’elle fera en bas. Elle pense tout de même à la demande qu’un habitant pourrait lui faire en montrant une ligne qu’on ne voit bien que d’en haut.\n\nElle voudrait demander à Milo de rester à côté d’elle toute la matinée. Quand elle lui dit qu’elle a besoin de sa présence, il annonce d’emblée qu’il peut promettre la première heure, puis doit rejoindre leur mère. Thaïs entend le mot « promettre » et pense à la façon dont elle a attendu dans le hall du cinéma en imaginant qu’il en avait assez. Le soir même, il est pourtant resté avec elle pendant tout le film.\n\nElle ouvre son sac et sort la maquette. Elle lui explique qu’elle aimerait avoir quelqu’un à côté d’elle pendant les premières questions. Elle veut pouvoir passer une question à Inès si elle concerne la galerie. Milo lui demande s’il doit dire quelque chose si on l’invite à monter. Thaïs lui répond qu’elle veut garder sa réponse. Elle préférerait qu’il l’aide à poser les affiches, avant l’ouverture des portes.",
+      "sections": [
+        {
+          "heading": "Préciser ce qu’on attend d’une présence",
+          "text": "Un proche peut vouloir aider et ne pas savoir ce que l’autre attend de lui. Thaïs peut avoir besoin de quelqu’un qui l’écoute, reste un moment avec elle ou partage une tâche. Ces gestes ont des effets différents. Au cinéma, elle a trouvé une autre place après avoir parlé avec Milo. Pour la rencontre, elle souhaite surtout qu’il soit là au début. Son choix de rester en bas sera partagé avec les organisateurs qui peuvent l’aider à répondre aux questions.\n\nIl est possible de demander une présence sans demander à un proche de décider de ce qu’il faut essayer ni de garantir qu’aucune peur ne reviendra. La responsabilité du suivi reste avec Thaïs et Mme Verdier. Milo peut dire à quels moments il peut venir et ce qu’il est prêt à faire. Tous deux peuvent choisir un autre accord si les circonstances changent."
+        },
+        {
+          "heading": "Conserver une réponse quand le proche n’est plus là",
+          "text": "Dans la phobie spécifique, le besoin de se préparer peut concerner des moments bien avant le passage redouté. Thaïs anticipe déjà une invitation vers la galerie. Elle peut s’assurer avec Samir et Inès que la présence de Milo ne sera pas la seule manière de garder son rôle au sol. Leur accord sur la répartition permet de prévoir à qui transmettre une question. Le fonctionnement de la présentation peut être expliqué à tous sans dévoiler son diagnostic.\n\nL’organisation de la rencontre répond aux besoins du projet et permet aux visiteurs d’accéder aux informations. Thaïs peut, de son côté, choisir ce qu’elle veut discuter dans son suivi sur cette crainte et sur ses choix. Un soutien familial et une décision professionnelle peuvent coexister sans demander à Milo de prendre la place de ses collègues ou de sa psychologue."
+        }
+      ],
+      "ending_title": "La première heure ensemble",
+      "ending": "Thaïs et Milo choisissent une heure d’arrivée. Il viendra l’aider à poser les affiches et partira après les premières questions. Elle lui demande d’apporter la carte postale du moulin pour expliquer d’où vient une des orthographes. Puis elle écrit à Inès pour vérifier qui prendra les questions sur la galerie. Elle ajoute à Milo que, s’il entend quelqu’un lui proposer la visite, elle préfère pouvoir répondre elle-même.",
+      "mirror": [
+        "Milo peut proposer une aide qu’il pourra réellement assurer. « Je peux venir à l’ouverture et rester une heure. Après, je rejoins maman. On décide de ce qui t’aiderait pendant que je suis là ? » Il peut laisser Thaïs répondre aux invitations qui la concernent. Si la demande dépasse ce qu’il peut offrir, mieux vaut en parler clairement et chercher avec elle quel appui elle souhaite demander ailleurs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs et Milo fixent une aide limitée à l’ouverture et conviennent qu’elle répondra elle-même aux invitations.",
+        "next": "La carte est présentée en salle basse. Thaïs tient le premier échange avec les habitants puis décide de la part qu’elle prendra dans une prochaine mission."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "thais-progres-et-vie-quotidienne",
+      "title": "Reconnaître les choix retrouvés alors que la peur existe encore",
+      "description": "Lors de la présentation, Thaïs fait lire la carte aux habitants. Elle choisit une prochaine mission et nomme ce qu’elle souhaite poursuivre en soin.",
+      "context": "À la présentation de la carte du vallon des Aulnes, en salle basse",
+      "topics": [
+        "Bilan personnel",
+        "Choix retrouvés",
+        "Suivi dans la durée"
+      ],
+      "clinical_focus": "Progrès dans les activités choisies",
+      "clinical_intro": "Thaïs présente la carte et s’inquiète encore quand on lui propose de monter. Une phobie spécifique peut rester difficile dans certaines situations, alors que la personne retrouve du choix dans d’autres. En regardant ce que l’équipe a produit et ce qu’elle a pu décider au fil du projet, Thaïs distingue des progrès utiles de l’idée qu’elle devrait pouvoir franchir chaque hauteur.",
+      "opening": "Sur la carte imprimée, Thaïs a laissé assez d’espace entre deux noms pour qu’une personne puisse les lire en suivant la ligne avec le doigt. Un homme reconnaît le chemin du moulin mais dit que le canal a changé de nom deux fois chez lui. Elle lui montre la carte postale que Milo a apportée. Ils comparent le texte avec la feuille tirée des archives. L’homme s’arrête sur une date puis raconte comment sa mère désignait la digue. Il accepte que l’équipe lui écrive pour préciser ce souvenir.\n\nMilo a déjà mis son manteau quand un visiteur demande si Thaïs peut lui montrer le trajet depuis la galerie. Elle entend un peu d’empressement dans la question et voit Inès près de la porte. Elle dit au visiteur qu’Inès fera la visite et qu’elle peut lui montrer ici ce qu’indiquent les deux tracés. Il s’approche de la carte. Thaïs se rend compte qu’elle ne cherche plus une raison qui justifierait de quitter la salle.\n\nAprès la présentation, Samir lui demande si elle veut coordonner le relevé d’un autre canal en début de printemps. Elle voudrait en connaître le but, les accès et la place prévue pour les habitants. Elle sait aussi que, la prochaine fois qu’elle regardera une vue plongeante, elle pourra encore sentir la peur. Elle n’a pas envie de fonder toute sa réponse sur ce moment possible. Elle demande à Samir de lui envoyer le dossier.",
+      "sections": [
+        {
+          "heading": "Regarder ce qui change dans la vie ordinaire",
+          "text": "Les difficultés d’une phobie spécifique se comprennent aussi à partir des activités qu’elles gênent ou rendent très coûteuses. Les changements utiles ne se limitent pas à l’intensité de la peur au moment du contact avec la situation. Thaïs a pris part aux relevés, demandé un ajustement au travail, consulté les documents qu’elle cherchait et gardé une sortie avec Milo malgré un changement de place. Ces événements ne résument pas toute sa vie. Ils lui donnent des exemples pour parler de ce qu’elle a retrouvé et de ce qui reste difficile.\n\nDans cette scène, rester en salle basse lui permet de présenter le travail qu’elle a choisi de faire. Le projet aboutit et elle s’inquiète encore lorsqu’un visiteur lui parle de l’étage. Le fait que les deux soient vrais l’aide à ne plus juger toute sa journée d’après une seule proposition."
+        },
+        {
+          "heading": "Faire un point sans se fixer une épreuve",
+          "text": "Dans le suivi, Thaïs peut revenir sur ses objectifs et expliquer lesquels ont changé. Elle veut pouvoir garder plus souvent les sorties qu’elle choisit. Elle aimerait toujours discuter des passerelles avec Mme Verdier. Elle peut décrire le trajet des archives, le cinéma et la manière dont elle a réparti les tâches sur le terrain. Les exemples aident à décider ensemble de ce qui mérite d’être poursuivi.\n\nAu travail, une nouvelle mission peut être acceptée, refusée ou ajustée après examen des conditions. Les questions qu’elle pose à Samir sur l’accès et la collecte font partie de son rôle de cartographe. Une rencontre réussie ouvre la discussion sur ce qu’elle veut faire ensuite. Elle n’a pas à rendre son suivi visible pour en tirer des décisions qui comptent dans sa vie."
+        }
+      ],
+      "ending_title": "Un tracé à discuter",
+      "ending": "En quittant la mairie, Thaïs met une version de la carte de côté pour l’archiviste qui l’a reçue. Elle retrouve dans son sac le carnet où elle avait inscrit le détour du tram. À la page suivante, elle écrit ce qu’elle veut reprendre avec Mme Verdier. Puis elle choisit avec Inès une heure pour examiner le dossier du prochain canal. Elle lui demande de commencer par les noms que les habitants utilisent.",
+      "mirror": [
+        "Un proche peut demander à Thaïs ce qui compte dans cette présentation. « Tu avais envie d’entendre les noms que les gens utilisent. Tu as pu leur poser tes questions ? » S’il sait qu’elle redoutait la galerie, il peut aussi l’écouter sur ce moment sans faire du passage en hauteur une condition de réussite. Un intérêt concret pour son travail permet de reconnaître ce qu’elle a choisi et accompli."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-phobies"
+      ],
+      "continuity": {
+        "choice": "Thaïs termine la carte et accepte d’examiner les conditions d’une nouvelle mission. Elle précise les sujets qu’elle veut reprendre en suivi.",
+        "next": "La carte publiée et les accords de travail restent disponibles pour la suite. Le suivi se poursuit autour des déplacements choisis par Thaïs."
+      }
+    }
+  ]
+}

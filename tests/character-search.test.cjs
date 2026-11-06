@@ -15,6 +15,13 @@ test('le trouble présenté sur la fiche passe avant une mention dans une histoi
  ]);
  assert.deepEqual(engine.search(items,'trouble panique').map(r=>r.entry.id),['diagnosis','scene']);
 });
+test('le mot narcissisme retrouve le parcours dédié avant les récits connexes',()=>{
+ const items=engine.prepare([
+  {id:'nadia',name:'Nadia',keywords:['Narcissisme au travail']},
+  {id:'renaud',name:'Renaud',diagnosis:'Trouble de la personnalité narcissique'}
+ ]);
+ assert.deepEqual(engine.search(items,'narcissisme').map(r=>r.entry.id),['renaud','nadia']);
+});
 test('accents, apostrophes et casse sont normalisés',()=>assert.deepEqual(ids('LÉA'),['b']));
 test('les mots se combinent même à distance',()=>assert.deepEqual(ids('travail réunion'),['a']));
 test('les variantes et formulations proches retrouvent les repères',()=>{assert.deepEqual(ids('pensées en boucle'),['a']);assert.deepEqual(ids('je rumine au travail'),['a']);assert.deepEqual(ids('burn-out'),['c']);});

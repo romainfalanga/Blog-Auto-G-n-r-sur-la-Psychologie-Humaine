@@ -1,0 +1,22 @@
+[
+  {
+    "id": "renaud",
+    "name": "Renaud",
+    "code": "DSM5TR-NPD",
+    "primary_reference": "apa-dsm-narcissique",
+    "diagnosis": {
+      "timing": "established",
+      "episode": null
+    },
+    "canon": {
+      "age": 42,
+      "setting": "Renaud dirige la création dans un studio de signalétique. Il voit régulièrement sa sœur Édith et son ami Malik.",
+      "independent_goal": "Concevoir avec Yara une signalétique utile et attribuer les contributions de chacun au moment de la présentation.",
+      "tension": "Sa recherche de reconnaissance, le sentiment de mériter des égards particuliers et sa difficulté à tenir compte du point de vue d’autrui fragilisent ses liens. Une critique peut susciter de la honte ou du retrait.",
+      "supports": "Professionnel qui l’accompagne et proches qui choisissent leurs limites. Yara conserve sa place de collaboratrice.",
+      "trajectory": "Diagnostic déjà posé selon le DSM-5-TR. Le parcours suit des réactions dans plusieurs relations, le suivi et des tentatives de changement qui prennent du temps.",
+      "guardrail": "Distinguer traits, diagnostic établi et comportements précis. La CIM-11 décrit le trouble de la personnalité de façon dimensionnelle. Éviter le diagnostic d’autrui et laisser aux personnes concernées leurs propres limites.",
+      "occupation": "directeur artistique"
+    }
+  }
+]

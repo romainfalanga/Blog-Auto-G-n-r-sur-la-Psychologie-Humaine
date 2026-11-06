@@ -1,0 +1,33 @@
+{
+  "references": {
+    "apa-dsm-narcissique": {
+      "title": "American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR",
+      "url": "https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/"
+    },
+    "edershile-et-al-2024": {
+      "title": "Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de la personnalité narcissique",
+    "aliases": [
+      "Trouble narcissique",
+      "Personnalité narcissique",
+      "Narcissisme pathologique"
+    ],
+    "references": [
+      "apa-dsm-narcissique",
+      "oms-cddr",
+      "edershile-et-al-2024"
+    ],
+    "points": [
+      "APA, présentation officielle du DSM-5-TR. Le trouble de la personnalité narcissique est un diagnostic de la classification catégorielle du DSM-5-TR. La surestimation de sa propre importance, la demande d’admiration et les difficultés à reconnaître les besoins d’autrui peuvent s’inscrire dans un fonctionnement persistant présent depuis le début de l’âge adulte et dans plusieurs contextes. L’inflexibilité, la souffrance ou le retentissement importent. Un comportement ou un conflit isolé ne permet aucune conclusion.",
+      "APA, présentation officielle. La vulnérabilité à la critique peut s’exprimer par de la honte, du dédain, une réaction défensive ou un retrait. Les présentations varient. Le récit montre une personne précise, avec ses compétences et ses choix, et préserve le point de vue des autres. Les préjudices se prennent au sérieux indépendamment de toute hypothèse diagnostique.",
+      "OMS, CDDR, chapitre des troubles de la personnalité, pp. 553–569. La CIM-11 évalue le fonctionnement de la personne et de ses relations, puis la sévérité du trouble lorsque les conditions sont réunies. Elle permet de préciser les domaines de traits, dont la dissocialité (6D11.2). Ce qualificatif couvre certains traits pouvant être décrits dans le narcissisme, comme l’attente d’un traitement de faveur et la difficulté à tenir compte des autres. Il ne correspond pas à un diagnostic CIM-11 autonome de personnalité narcissique et ne se déduit pas automatiquement d’un diagnostic DSM-5-TR.",
+      "Edershile et collègues (2024), étude expérimentale et évaluations répétées dans la vie quotidienne. Des variations d’états de grandiosité et de vulnérabilité ont été observées dans des situations de menace perçue sur le statut. Cette étude éclaire la variabilité de réactions. Elle ne permet pas d’attribuer un état, une cause ou un diagnostic à un individu à partir d’une scène.",
+      "APA, présentation officielle. Les données sur les prises en charge spécifiques restent limitées. La relation thérapeutique, des objectifs réalistes et le travail sur l’estime de soi et les relations font partie des points d’appui discutés dans la littérature. L’arc représente des essais dans le temps, avec des reprises et des conséquences qui demeurent. Les proches n’assurent pas les soins."
+    ]
+  },
+  "direction": "Renaud, 42 ans, dirige la création d’un petit studio de signalétique et conçoit avec Yara les repères d’un nouveau centre culturel. Sa parole précise, parfois sèche, glisse vite vers la mesure de sa place. Il éprouve sincèrement le plaisir du travail bien fait. Il a reçu le diagnostic après une évaluation professionnelle et poursuit ses consultations. La série relie ce qui se passe pour lui à des conséquences vérifiables au travail, auprès de son ami Malik et de sa sœur Édith. Chaque proche conserve sa voix, son droit à une limite et ses propres projets. Le retour au soin reste indépendant de l’accord des proches. Le projet se déroule sur plusieurs mois, du premier rendez-vous de janvier à une nouvelle visite publique en automne."
+}

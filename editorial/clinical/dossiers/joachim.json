@@ -1,0 +1,38 @@
+{
+  "references": {
+    "nhs-agoraphobie": {
+      "title": "NHS, présentation de l’agoraphobie",
+      "url": "https://www.nhs.uk/mental-health/conditions/agoraphobia/"
+    },
+    "nhs-agoraphobie-symptomes": {
+      "title": "NHS, manifestations de l’agoraphobie",
+      "url": "https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/"
+    },
+    "nhs-agoraphobie-prise-en-charge": {
+      "title": "NHS, prise en charge de l’agoraphobie",
+      "url": "https://www.nhs.uk/mental-health/conditions/agoraphobia/treatment/"
+    }
+  },
+  "dossier": {
+    "name": "Agoraphobie",
+    "aliases": [
+      "Peur de se retrouver coincé",
+      "Peur de manquer d’aide"
+    ],
+    "references": [
+      "oms-cddr",
+      "nhs-agoraphobie",
+      "nhs-agoraphobie-symptomes",
+      "nhs-agoraphobie-prise-en-charge"
+    ],
+    "points": [
+      "OMS CDDR, 6B02, pp. 275–276, et NHS, présentation et manifestations de l’agoraphobie. La peur peut apparaître dans plusieurs situations ou à leur anticipation. Le point commun tient à la difficulté redoutée de s’éloigner ou d’obtenir de l’aide en cas de malaise, d’intense anxiété ou d’autres symptômes redoutés. Le diagnostic tient compte de la persistance et du retentissement. La foule, l’espace ouvert, la distance et les lieux clos peuvent compter de façons différentes.",
+      "OMS CDDR, 6B02, pp. 276–277, et NHS, manifestations de l’agoraphobie. Les situations peuvent être évitées, abordées sous certaines conditions ou traversées au prix d’une anxiété intense. La présence d’une personne de confiance ou le choix d’un horaire peuvent avoir des effets différents selon la situation. Le fonctionnement apparent peut demander beaucoup d’effort, et la forme comme l’intensité des difficultés varient.",
+      "OMS CDDR, 6B02, pp. 278–279. Une attaque de panique peut survenir dans les situations redoutées. Le trouble panique se distingue notamment par des attaques inattendues et répétées, avec d’autres éléments à évaluer. Pour différencier l’agoraphobie d’une phobie spécifique, le clinicien s’intéresse à l’objet de la peur et à sa présence dans plusieurs situations. Un seul trajet, un battement cardiaque ou le choix d’une place ne tranche pas.",
+      "OMS CDDR, 6B02, p. 277, rubrique sur le seuil clinique. Les contraintes d’accessibilité, les risques locaux et une limitation physique peuvent justifier des précautions. L’évaluation situe l’anxiété et l’évitement dans leurs circonstances. Dans le récit, les observations du terrain restent descriptives et la carte ne certifie pas l’accessibilité du sentier.",
+      "NHS, prise en charge de l’agoraphobie, rubrique sur les thérapies psychologiques, et OMS CDDR, pp. 276–277. La thérapie cognitivo-comportementale et le travail progressif sur les situations redoutées sont des options. Joachim décide avec sa psychologue de ce qu’il veut aborder, de la place éventuelle de Diego et de ce qu’il rapporte à la séance. Le récit ne livre ni protocole à reproduire ni conseil sur un médicament.",
+      "OMS CDDR, 6B02, pp. 276–277, et NHS, manifestations de l’agoraphobie. Le vécu fluctue selon les situations et au fil du temps. Une étape réussie ou annulée ne détermine pas l’évolution à elle seule. Les appuis des proches sont convenus et limités. Ils visent à respecter les décisions de Joachim et la disponibilité de chacun."
+    ]
+  },
+  "direction": "Joachim, 58 ans, travaille dans un atelier de reprographie près de chez lui et photographie la ville à ses heures libres. Avec son voisin Diego, il relève des informations pour une carte de promenade. Martine coordonne l’association qui la publiera. Ana, fille adulte de Joachim, partage volontiers un repas ou un film avec lui. Samia a ses propres besoins de déplacement et vérifie des indications concrètes sur la boucle. Le diagnostic d’agoraphobie est établi avant l’histoire, et le suivi avec Louise, psychologue, est déjà engagé. La peur prend la forme d’une question précise sur le retour ou sur l’aide disponible si Joachim se sent mal. Elle traverse plusieurs contextes ordinaires. Les deux voisins distinguent peu à peu l’aide demandée, leurs choix sur la carte et le rôle de la clinicienne. La promenade près du lavoir, la branche côté verger et le belvédère au-delà des Aulnes ont des issues distinctes. L’exposition au cinéma et le détour du bus ne sont ni des épreuves à réussir ni des prescriptions pour le lecteur. Joachim prend des décisions révisables, garde une sortie en suspens et publie une carte qui indique ce qui a été observé."
+}

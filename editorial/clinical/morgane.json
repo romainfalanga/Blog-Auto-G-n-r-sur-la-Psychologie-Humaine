@@ -1,0 +1,475 @@
+{
+  "character_id": "morgane",
+  "bio": "Morgane a 42 ans et travaille comme fleuriste dans un atelier d’insertion. Elle aime voir une personne reprendre une branche et trouver elle-même où la placer. Elle est suivie pour une hyperphagie boulimique. Lorsque surviennent des épisodes pendant lesquels elle a l’impression de ne plus pouvoir choisir comment elle mange, la honte peut ensuite lui faire annuler un rendez-vous qu’elle attendait. Elle veut organiser avec Sonia et Yassine une matinée où chacun pourra essayer un geste de fleuriste et rester le temps qu’il souhaite.",
+  "profile_topics": [
+    "Hyperphagie boulimique",
+    "Perte de contrôle alimentaire",
+    "Honte après les épisodes",
+    "Crainte des commentaires corporels",
+    "Soutien choisi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "morgane-le-geste-qui-sarrete",
+      "title": "La perte de contrôle pendant un épisode d’hyperphagie boulimique",
+      "description": "Un épisode rend difficile le retour à l’atelier. Morgane distingue le moment où elle a perdu la main de ce qu’elle voudrait faire ce matin.",
+      "context": "Retrouver sa place à l’atelier après un épisode raconté à l’équipe qui la suit",
+      "topics": [
+        "Perte de contrôle",
+        "Épisodes récurrents",
+        "Retentissement au travail"
+      ],
+      "clinical_focus": "Le sentiment de perdre la main",
+      "clinical_intro": "Morgane sait ce que signifie, pour elle, manger avec plaisir. La veille, il lui semblait que la décision de s’arrêter ne lui appartenait plus. Dans l’hyperphagie boulimique, cette perte de contrôle répétée peut entraîner une souffrance importante. On en voit ici un effet le lendemain, lorsqu’elle hésite à ouvrir la note qu’elle avait promis de montrer à sa collègue.",
+      "opening": "Quand Morgane tourne la clé de l’atelier, Sonia a déjà posé les seaux près de l’évier. « Tu m’avais parlé d’une idée pour les portes ouvertes. Tu l’as encore en tête ? » Morgane répond qu’elle va prendre son tablier. Sa proposition est dans la poche de son manteau. Elle l’a relue dans le bus, puis elle a glissé le papier derrière son abonnement comme si elle rentrait chez elle.\n\nLa veille, il y a eu un épisode de son hyperphagie boulimique. Elle se souvient d’avoir pensé très nettement qu’elle voulait s’arrêter. La pensée avait continué à revenir sans lui rendre le sentiment de décider. Plus tard, quand Sonia lui avait envoyé une photo de la salle à réserver, elle avait laissé le message ouvert. Elle avait beau connaître la différence entre la crise et l’idée sur le papier, elle s’était mise à douter de la personne qui avait proposé de réunir des visiteurs.\n\nSonia prend une branche un peu lourde. Morgane lui montre comment la poser sur la main avant de choisir sa place dans la composition. La branche cesse de tirer. Elle se rappelle que c’était cela qu’elle voulait faire essayer aux gens. Il y aurait des personnes qui n’osent pas entrer quand elles voient un groupe déjà installé. On pouvait leur donner une place à la table sans les obliger à rester pour tout l’atelier. Elle décroche son manteau, et Sonia s’écarte pour lui faire de la place.",
+      "sections": [
+        {
+          "heading": "Ce qui se passe quand la décision échappe",
+          "text": "La perte de contrôle est un élément central de l’expérience d’un épisode. Morgane peut penser à s’arrêter et sentir malgré cela qu’elle n’arrive plus à diriger la manière dont elle mange. Pour comprendre l’hyperphagie boulimique, les professionnels regardent la répétition de ces moments, la souffrance et les effets dans la vie de la personne. Ils tiennent aussi compte de son état de santé et des autres explications possibles. Le récit de Morgane donne accès à ce sentiment de perte de contrôle, que Sonia ne pourrait pas observer en la voyant arriver au travail."
+        },
+        {
+          "heading": "Décrire aussi ce que l’épisode laisse derrière lui",
+          "text": "La difficulté ne s’est pas limitée à la soirée. Morgane a cessé de répondre à une collègue et s’est presque retirée d’un projet auquel elle tient. Elle peut raconter ce passage à l’équipe qui la suit. La scène du lendemain donne une information différente de celle de l’épisode lui-même. Elle montre le temps pendant lequel la honte a continué à peser sur ses décisions. À l’atelier, Morgane peut reprendre la conversation en donnant simplement le papier. Le projet appelle un avis de fleuriste. La question de santé a une autre place, au rendez-vous qu’elle a déjà pris."
+        }
+      ],
+      "ending_title": "Le papier à côté des seaux",
+      "ending": "Morgane déplie sa feuille. Elle propose des essais assez courts pour que quelqu’un qui passe puisse y prendre part. Sonia lui demande à quel moment elles pourront en reparler tranquillement. Elles conviennent d’en parler jeudi, à la fin du déjeuner de départ de Marie. Morgane écrit « essayer un geste » en haut de la feuille et, dans son carnet de suivi, note qu’elle voudrait expliquer pourquoi elle avait laissé le message sans réponse.",
+      "mirror": [
+        "« Oui, montre-moi ton idée quand tu veux. Est-ce qu’on aura le temps d’en reparler jeudi ? » Sonia peut poser une question sur le projet et attendre la réponse de Morgane. Si Morgane choisit de lui parler d’une soirée difficile, Sonia peut vérifier ce qu’elle attend de cet échange. Elles ont toutes les deux le droit de choisir le moment pour en parler."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane montre sa note et garde l’épisode pour le rendez-vous de suivi.",
+        "next": "Le déjeuner de départ de Marie précède la discussion du jeudi sur les essais courts."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "morgane-lappetit-au-dejeuner",
+      "title": "Avoir de l’appétit et garder le choix",
+      "description": "Au déjeuner de départ de Marie, Morgane retrouve un plaisir partagé. Elle distingue cet appétit de ce qu’elle vit pendant une crise.",
+      "context": "Participer à un repas entre adultes et préciser ensuite les gestes à proposer aux visiteurs",
+      "topics": [
+        "Appétit",
+        "Perte de contrôle ressentie",
+        "Plaisir à table"
+      ],
+      "clinical_focus": "Appétit et pouvoir de décider",
+      "clinical_intro": "Au déjeuner de départ de Marie, Morgane reprend de ce qu’elle a aimé et suit l’histoire que sa collègue raconte. Elle peut décider comment elle mange. Ce repère compte pour comprendre l’hyperphagie boulimique. Le plaisir et l’appétit d’un repas partagé ont leur place. Lors d’un épisode, Morgane éprouve une difficulté à diriger sa manière de manger qui lui laisse ensuite une détresse durable.",
+      "opening": "Marie raconte qu’à sa première semaine elle avait appelé toutes les renoncules des roses. Elle a retrouvé une étiquette pliée dans son vieux tablier et l’a amenée pour le prouver. Morgane lui demande d’attendre qu’elle ait fini de rire avant de faire tourner l’étiquette. Elle avait faim en s’asseyant. Ce que Marie a apporté lui plaît, elle en reprend et revient au récit. Elle a toujours envie de savoir ce que Sonia avait répondu à cette histoire de roses.\n\nQuelqu’un passe derrière sa chaise pour rejoindre le placard. Elle se décale, continue à écouter. Le mouvement ne vient pas lui voler la possibilité de choisir ce qu’elle fait. Elle connaît la sensation très différente d’être occupée à essayer de s’arrêter sans y parvenir. La mémoire de cette sensation est encore là. Elle ne prend pas toute la place ce jeudi. Quand Marie lui demande si elle gardera son tablier de rechange, Morgane répond qu’elle pourrait plutôt s’en servir à l’accueil pour quelqu’un qui a oublié le sien.\n\nLes chaises s’éloignent au fil des départs. Sonia apporte la note laissée près des seaux. Yassine, qui est arrivé la semaine précédente, vient rendre un feutre. Morgane lui demande ce qu’il aurait voulu essayer le premier jour s’il avait pu décider. Il répond qu’il aurait aimé terminer un bouquet à sa manière au lieu de regarder la main de quelqu’un d’autre. Morgane rapproche une chaise. « Tu peux t’asseoir. J’ai peut-être mis le verbe de travers dans mon idée. »",
+      "sections": [
+        {
+          "heading": "Entendre la différence que Morgane éprouve",
+          "text": "Un repas plaisant peut comporter un appétit marqué et une décision de se resservir. La CIM-11 décrit l’épisode d’hyperphagie en tenant compte d’une manière de manger nettement différente de l’habitude dans un temps délimité, avec une perte de contrôle ressentie. Pour Morgane, qui a déjà reçu un diagnostic, la distinction se reconnaît dans ce qu’elle pouvait décider au déjeuner. Son attention a pu rester disponible pour Marie, puis pour le projet. Un regard posé sur la table ou sur son assiette donnerait très peu d’accès à cette différence. Même si quelqu’un éprouve de la gêne après avoir beaucoup mangé, l’évaluation porte sur le vécu, la répétition et le retentissement."
+        },
+        {
+          "heading": "Laisser un repas partagé reprendre sa place",
+          "text": "La possibilité de parler d’autre chose peut faire partie de ce qui rend un repas agréable pour Morgane. Elle sait qu’elle pourrait se sentir autrement une autre fois. Elle peut apporter au suivi aussi bien un moment où elle s’est sentie libre de décider qu’un épisode difficile. La comparaison renseigne sur son expérience, selon ce qu’elle souhaite examiner. Son entourage a aussi le droit de profiter de la conversation. Marie souhaite raconter son arrivée et repartir avec un souvenir de ses collègues. La discussion sur les portes ouvertes commence quand le repas est terminé et garde son propre sujet."
+        }
+      ],
+      "ending_title": "Essayer, puis choisir",
+      "ending": "Yassine retourne la feuille. Il dessine une flèche entre « montrer » et « laisser essayer », puis demande s’il pourrait faire une proposition de bouquet avec trois directions possibles. Morgane lui répond qu’elle veut bien voir son dessin vendredi. Pour annoncer la matinée, Sonia propose une photo de l’atelier. Morgane glisse la vieille étiquette de Marie dans le tablier qu’elle va laisser à l’accueil.",
+      "mirror": [
+        "Au moment où chacun raconte quelque chose de l’atelier, Marie peut continuer son anecdote sans demander à Morgane de justifier ce qu’elle prend à table. Si Morgane revient plus tard sur le repas, une question précise peut l’aider à garder la main sur le sujet. « Tu veux me raconter ce qui t’a fait du bien aujourd’hui ? » La réponse peut rester une histoire de travail et de plaisir partagé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane écoute la proposition de Yassine après un déjeuner où elle a gardé le sentiment de choisir.",
+        "next": "Vendredi, Yassine apporte son dessin et la proposition de photo donne lieu à une décision."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "morgane-la-photo-de-latelier",
+      "title": "Anticiper le regard des autres avant une photo",
+      "description": "Une photo de l’équipe est proposée. Morgane hésite à garder sa place dans le projet et choisit ce qu’elle souhaite expliquer à Sonia.",
+      "context": "Décider qui apparaîtra sur une affiche publique et choisir la première confidence au travail",
+      "topics": [
+        "Anticipation du jugement",
+        "Préoccupations corporelles",
+        "Confidence choisie"
+      ],
+      "clinical_focus": "La crainte du regard avant l’événement",
+      "clinical_intro": "L’idée de paraître sur une photo fait imaginer à Morgane des commentaires qu’elle redoute sur son corps. Dans son hyperphagie boulimique, cette anticipation peut la pousser à abandonner une activité avant même qu’elle ait commencé. Elle cherche ici une façon de garder son rôle dans la matinée, avec un choix sur l’image et sur les informations qu’elle veut partager.",
+      "opening": "Yassine arrive le vendredi avec son dessin et le pose sur la table, à l’endroit où la vitre fait un rectangle de lumière. Il y a mis plusieurs manières de faire tenir une branche. Sonia regarde surtout les doigts qu’il a dessinés dans un coin. « C’est ça qu’il faut montrer. On pourrait mettre les gens de l’atelier avec leur essai, sur la photo de l’affiche. »\n\nMorgane est la première à tendre le dessin vers elle. Elle remarque que Yassine n’a pas fait de visage. La proposition de Sonia la ramène pourtant à une ancienne photo de famille où quelqu’un avait parlé de son corps avant de lui parler de la journée. Elle commence à imaginer le même trajet pour cette affiche. Une personne la reconnaîtrait, aurait le temps de la regarder, et viendrait commenter. Les mots qu’elle redoute ont déjà l’air de lui être adressés alors qu’elles n’ont même pas choisi de photographe. Elle prend l’air de quelqu’un qui relit un détail, puis elle dit qu’il serait plus simple que Sonia présente seule l’atelier.\n\n« Tu n’as plus envie de le faire ? » demande Yassine. Morgane regarde son doigt arrêté au milieu d’une flèche. Ce qu’elle redoute concerne la photo. La question de Yassine parle de la matinée entière. Elle lui répond qu’elle aimerait encore y être. Elle demande si les mains qu’il a dessinées pourraient donner l’idée du cadrage. Puis elle propose à Sonia de venir marcher dehors quand elles auront fini de ranger.",
+      "sections": [
+        {
+          "heading": "Quand une crainte conduit à renoncer plus largement",
+          "text": "Les préoccupations liées au corps et la peur d’être jugé peuvent compter dans le vécu de l’hyperphagie boulimique. Leur place varie selon les personnes. Pour Morgane, la photo réveille un souvenir et l’amène à prévoir une scène de commentaire. Elle pense se mettre à l’abri en quittant aussi la présentation. Cela lui coûterait un rôle qu’elle désirait. Distinguer le cadrage de la photo et la participation à la matinée lui rend une décision plus précise. Elle peut aussi parler en consultation du souvenir et de l’effort que lui demande cette anticipation."
+        },
+        {
+          "heading": "Choisir une information qui sert à la conversation",
+          "text": "Sonia a besoin de savoir ce que Morgane veut faire de la photo pour préparer l’affiche. Elle peut entendre cette réponse sans exiger de connaître tout le contexte. Morgane peut choisir d’ajouter que les commentaires sur le corps la touchent, de nommer le trouble ou de garder cette partie pour l’équipe. L’accord sur le cadrage doit aussi valoir pour Yassine et les autres personnes visibles. Sonia peut vérifier qui veut participer et à quelles conditions. Elle aide ainsi sur une décision de travail, et l’écoute qu’elle peut offrir à sa collègue se négocie à un autre moment."
+        }
+      ],
+      "ending_title": "Ce que Morgane dit en marchant",
+      "ending": "Dehors, Morgane explique qu’elle est suivie pour une hyperphagie boulimique et qu’elle a du mal quand elle s’attend à une remarque sur son corps. Elle précise qu’elle voudrait garder cela entre elles. Sonia lui demande si elle veut parler davantage. Morgane lui dit qu’elle aimerait surtout finir la marche et remettre le dessin de Yassine à plat en rentrant. Le rendez-vous avec Anna a lieu lundi. Morgane voudrait y reprendre la question des mots qu’elle vient d’employer.",
+      "mirror": [
+        "« On peut décider du cadrage ensemble. Pour ce que tu viens de me dire, je le garde pour moi. Tu veux qu’on marche encore un peu ? » Sonia peut répondre séparément à la proposition pour l’affiche et à la confidence. Elle peut éviter de parler à la place de Morgane devant le groupe, même si elle voudrait l’aider à expliquer un choix."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane conserve son rôle, propose un cadrage sur les gestes et confie le nom du trouble à Sonia seulement.",
+        "next": "Lundi, elle apporte à Anna les questions que cette première confidence a soulevées."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "morgane-les-mots-au-rendez-vous",
+      "title": "Pourquoi l’hyperphagie boulimique et la boulimie portent des noms proches",
+      "description": "Morgane demande à Anna comment distinguer son trouble de la boulimie et comment expliquer ses difficultés à une personne choisie.",
+      "context": "Reprendre en consultation le mot utilisé avec Sonia et les situations qui ont un coût social",
+      "topics": [
+        "Épisodes avec perte de contrôle",
+        "Compensation régulière",
+        "Suivi spécialisé"
+      ],
+      "clinical_focus": "Une distinction à faire en consultation",
+      "clinical_intro": "Morgane se demande ce que sa collègue a compris du mot « boulimique ». Son diagnostic est déjà posé et elle veut pouvoir le nommer avec ses propres mots. La perte de contrôle peut se rencontrer dans les deux troubles. Anna l’aide à comprendre pourquoi la régularité des conduites compensatoires et l’ensemble de ce que vit la personne éclairent la distinction.",
+      "opening": "Le lundi, Anna regarde la feuille que Morgane tient sur ses genoux. Il y a le dessin des mains d’un côté. De l’autre, Morgane a écrit « hyperphagie boulimique » et « crise de boulimie », l’un sous l’autre. Elle avait commencé par préparer une phrase pour Sonia au retour de la marche. Puis elle s’était demandé si elle avait dit le nom d’un trouble et laissé entendre qu’elle en avait un autre. À force de changer sa phrase, elle s’était retrouvée avec les deux expressions sans verbe.\n\nAnna lui demande si Sonia avait répondu quelque chose qui l’avait inquiétée. Morgane se rappelle surtout que Sonia avait attendu avant de parler. Il n’y avait eu aucun commentaire sur le mot. La question est aussi pour elle. Quand elle a commencé à décrire ses épisodes aux professionnels, elle connaissait le moment où elle voulait s’arrêter et le mal qu’elle avait à reprendre sa journée ensuite. Le reste, elle avait appris à en parler à son rythme. Elle voudrait comprendre ce que l’équipe a voulu dire en lui parlant d’hyperphagie boulimique.\n\nAnna revient avec elle sur les crises qui ont motivé le suivi et sur ce qui se passe pendant et après. Morgane explique qu’elle a souvent envie de disparaître de la conversation et qu’elle peut annuler un rendez-vous. Elle n’a pas de conduites compensatoires régulières. Cette partie compte pour le nom du trouble, lui dit Anna. Elles regardent ensemble ce qui avait motivé l’évaluation et notent les questions que Morgane voudrait reprendre avec le reste de l’équipe.",
+      "sections": [
+        {
+          "heading": "Mettre le même symptôme dans son contexte",
+          "text": "La perte de contrôle pendant des épisodes récurrents peut être au cœur de la boulimie et de l’hyperphagie boulimique. Dans la boulimie, ces épisodes s’accompagnent de façon régulière de conduites compensatoires inappropriées visant à prévenir la prise de poids. L’hyperphagie boulimique correspond à un autre ensemble clinique, avec des épisodes récurrents qui ne s’accompagnent pas régulièrement de telles conduites. Cette distinction se fait dans une évaluation qui considère la souffrance, le fonctionnement et d’autres explications possibles. La silhouette ne permet pas de départager les deux troubles. En français, on trouve « Frénésie alimentaire » dans la CIM-11 pour l’hyperphagie boulimique."
+        },
+        {
+          "heading": "Faire entrer la vie quotidienne dans le suivi",
+          "text": "Morgane décrit comment une crise peut être suivie d’une annulation ou d’heures où elle se sent moins disponible. L’équipe peut tenir compte de ce retentissement social, de la détresse et de sa santé physique dans le projet de soins. La HAS et la FFAB recommandent une prise en charge adaptée et discutée avec la personne. Dans la scène, la clarification du diagnostic donne surtout à Morgane un langage pour poser des questions. Elle peut choisir de parler à Lucie de ce qu’elle vit sans avoir à lui expliquer les catégories en détail. Le rendez-vous lui laisse aussi une place pour parler du projet qui l’occupe en ce moment."
+        }
+      ],
+      "ending_title": "Une phrase plutôt qu’un cours",
+      "ending": "À la sortie, Morgane range le dessin du côté intact dans son sac. Elle a noté « j’ai parfois l’impression que je ne peux plus décider comment je mange » sur un coin du papier. Lucie lui a proposé de se retrouver mercredi près de la librairie. Morgane lui répond qu’elle viendra et qu’elle aimerait lui parler d’une chose qui lui prend du temps. Elles conviennent de marcher d’abord un peu, avant de chercher une table.",
+      "mirror": [
+        "« Quand tu dis que c’était difficile, tu veux me dire comment tu l’as vécu ou ce que je peux faire cette semaine ? » Un proche qui se pose une question sur le nom du trouble peut aussi demander si la personne souhaite en parler. Lucie pourra écouter la difficulté que Morgane lui confie et lui laisser la décision de poser des questions cliniques à son équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane clarifie son diagnostic avec Anna et choisit une manière d’expliquer son vécu à Lucie.",
+        "next": "La rencontre près de la librairie met à l’épreuve ce qu’elle veut partager et ce qu’elle préfère garder en consultation."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "morgane-deux-places-a-la-table",
+      "title": "La honte qui rend une confidence difficile",
+      "description": "Morgane parle à Lucie de ses annulations. Sa sœur essaie de la rassurer, puis découvre ce que Morgane voudrait lui faire entendre.",
+      "context": "Dire à une proche ce que la honte change dans les rendez-vous et préciser la forme d’écoute recherchée",
+      "topics": [
+        "Honte",
+        "Isolement",
+        "Écoute sans minimisation"
+      ],
+      "clinical_focus": "La honte qui prolonge la détresse",
+      "clinical_intro": "Morgane a plusieurs fois renoncé à voir Lucie après une crise. La honte éprouvée dans l’hyperphagie boulimique peut peser sur des décisions qui n’ont plus lieu à table. Quand sa sœur essaie de la rassurer en parlant d’un appétit ordinaire, Morgane cherche comment lui dire ce qui reste difficile longtemps après le moment de manger.",
+      "opening": "Lucie attend devant la librairie avec un livre qu’elle a acheté parce que la couverture lui rappelait une cour où elles jouaient. Elle l’ouvre à la page où le nom de la rue apparaît. Morgane lit le nom à voix haute. Elles auraient pu s’être retrouvées simplement pour cela. Deux mercredis de suite, Morgane avait proposé de remettre leur marche. À chaque fois, Lucie avait répondu qu’elles trouveraient un autre jour.\n\nSur le chemin, Morgane lui parle de l’hyperphagie boulimique et de l’impression de ne plus pouvoir décider pendant certains épisodes. Elle essaie d’ajouter que, le lendemain, elle a quelquefois plus envie de cacher ce qui s’est passé que de sortir de chez elle. Lucie répond trop vite. « Ça arrive à tout le monde d’avoir beaucoup d’appétit. » Elle sourit en le disant, comme quand elle veut montrer qu’une chose n’a rien de honteux. Morgane replie le coin du ticket qui dépasse du livre. Elle pense à toutes les fois où elle avait presque souhaité que Lucie ne propose plus de la voir.\n\nElles atteignent le café dont les tables se sont libérées depuis leur départ de la librairie. Lucie demande si elle veut s’asseoir. Morgane lui dit qu’elle voudrait terminer sa phrase avant. Elle n’avait pas prévu ce qu’elle dirait si sa sœur trouvait une explication si vite. Le seul bout qu’elle a répété est celui qu’elle n’arrive plus à remettre dans le bon ordre. Elle laisse le ticket revenir à plat et recommence à parler du mercredi.",
+      "sections": [
+        {
+          "heading": "La honte se mesure aussi à ce qu’elle éloigne",
+          "text": "Dans l’hyperphagie boulimique, les épisodes peuvent s’accompagner de honte, de culpabilité ou de dégoût. Le regard que Morgane porte sur elle-même continue à peser après la crise et l’amène à réduire les occasions de voir sa sœur. Elle avait envie de retrouver Lucie et redoutait ce qu’elle pourrait deviner. Les deux sentiments peuvent coexister. La souffrance et le retentissement social ont une place dans l’évaluation et dans le suivi. Morgane peut expliquer à Anna qu’une partie difficile se joue quand elle voit une invitation apparaître sur son téléphone le lendemain."
+        },
+        {
+          "heading": "Passer de la rassurance à l’écoute",
+          "text": "Lucie cherchait à rendre la situation moins menaçante et a ramené ce qu’elle entendait à un appétit qu’elle connaît. La réponse laisse de côté la perte de contrôle et le coût qui suit. Elle peut reprendre en demandant ce que Morgane essayait de lui dire sur leurs rendez-vous. Morgane garde la possibilité de s’arrêter là ou d’évoquer le suivi. Leur marche peut rester une occasion de se voir, sans obligation de discuter de santé chaque fois. Un appui utile se construit sur une demande possible pour la proche. La présence de Lucie ce mercredi et l’accompagnement des soignants ont des fonctions différentes."
+        }
+      ],
+      "ending_title": "Une raison de reprendre la marche",
+      "ending": "Morgane dit qu’elle aurait voulu voir Lucie les deux autres mercredis. Lucie se tait un instant, puis lui demande si elle veut garder leur prochain rendez-vous même quand la veille a été difficile. Morgane répond qu’elle préférerait pouvoir lui écrire qu’elle a besoin d’un tour court. Elles s’installent près de la fenêtre et reviennent au plan imprimé dans le livre. Avant de rentrer, Morgane retrouve un message de Sonia. L’équipe a obtenu un créneau lundi pour essayer l’accueil des visiteurs.",
+      "mirror": [
+        "« J’ai voulu te rassurer et je crois que je suis passée à côté de ce que tu me disais. Tu veux reprendre ? » Lucie peut reconnaître l’effet de sa première réponse sans réclamer de détails. Elle peut proposer de marcher un autre mercredi et dire jusqu’à quelle heure elle est disponible. Morgane peut préférer un tour court, un appel ou reporter selon ce qu’elle souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane demande à Lucie de l’écouter au sujet des mercredis annulés et convient d’un soutien simple.",
+        "next": "Lundi, le groupe essaie l’accueil des visiteurs. Le tour court reste une option personnelle avec Lucie."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "morgane-deux-jours-de-travers",
+      "title": "Repérer un contexte sans le confondre avec une cause",
+      "description": "Un changement d’horaire laisse Morgane tendue. Avec Anna, elle cherche à comprendre pourquoi des journées ressemblantes ont eu des suites différentes.",
+      "context": "Comparer avec l’équipe deux journées de tension et réorganiser une répétition à l’atelier",
+      "topics": [
+        "Contexte des épisodes",
+        "Tension au travail",
+        "Repérage avec l’équipe"
+      ],
+      "clinical_focus": "Les circonstances qui précèdent un épisode",
+      "clinical_intro": "Quand la salle de répétition devient indisponible, Morgane pense à une autre journée tendue qui s’était achevée par un épisode. Une situation qui précède une crise peut donner une piste dans le suivi de l’hyperphagie boulimique. En comparant cette journée à celle qu’elle vient de vivre, Morgane découvre quels détails comptent pour elle et lesquels restent à explorer.",
+      "opening": "Le lundi, Sonia montre à Morgane la porte de la salle avant même de lui dire ce qui s’est passé. Un technicien a besoin de travailler derrière le mur. Elles ont l’autorisation de répéter dans l’atelier, avec la grande table, mais seulement en fin de journée. Yassine est déjà parti à la réserve pour apporter les supports de son essai. Morgane craint qu’il pense qu’elles vont déplacer la répétition chaque fois que son travail doit prendre de la place.\n\nElle sent la tension monter au moment où le téléphone sonne et qu’elle doit en même temps répondre à quelqu’un qui cherche l’évier. Elle pense à l’autre lundi. Une livraison avait été décalée, elle s’était longtemps reproché de l’avoir mal comprise et un épisode avait suivi le soir. Elle pourrait en tirer une explication très vite. Pourtant, en essayant de raconter cet autre jour, elle se rappelle aussi un appel qu’elle redoutait en rentrant et une gêne qui durait depuis le matin. Elle ne sait pas ce qui a compté pour elle.\n\nQuand Yassine revient, il demande si elles veulent encore voir sa proposition. « Je veux la voir, oui. Je n’ai pas vingt minutes avant la fin de journée. Est-ce que tu veux qu’on regarde ensemble ce qu’on pourra installer ici ? » Le premier support tient, le second dépasse un peu de la table. Yassine lui demande de lui laisser le temps de voir pourquoi. Morgane éloigne le téléphone et attend qu’il essaie par lui-même.",
+      "sections": [
+        {
+          "heading": "Une comparaison plutôt qu’une règle",
+          "text": "Les recommandations du NICE décrivent des formes d’accompagnement qui aident à examiner des situations où les épisodes surviennent. Les aspects émotionnels et les habitudes alimentaires peuvent faire partie du travail selon les besoins. Pour Morgane, le changement d’organisation mérite d’être raconté parce qu’il lui rappelle quelque chose. Plusieurs éléments avaient coexisté l’autre lundi, et un souvenir incomplet ne permet pas de décider lequel a joué un rôle. Lors de sa prochaine séance, elle peut apporter ce qu’elle a remarqué et dire ce qui lui échappe. Elle et Anna pourront comparer plusieurs situations à partir de questions qui ont du sens pour elle."
+        },
+        {
+          "heading": "Garder à la situation de travail ses propres solutions",
+          "text": "Sonia, Yassine et Morgane ont à trouver une place et un horaire. Morgane peut poser la question de la répétition sans avoir à raconter un épisode alimentaire. Prévenir d’un changement et répartir les appels sont des tâches que le groupe peut décider. Ce soutien sur le travail a sa valeur même si le suivi doit aussi explorer ce que Morgane traverse en rentrant chez elle. Elle peut être tendue et garder assez de place pour entendre Yassine, comme elle peut être gênée un autre soir dans des circonstances différentes. La comparaison aide à respecter cette variabilité."
+        }
+      ],
+      "ending_title": "Ce que les deux lundis ont en commun",
+      "ending": "Après la répétition, Morgane écrit quelques lignes pour Anna. Le premier lundi, elle se souvient d’être rentrée en rejouant l’échange avec le livreur. Ce soir, elle est surtout contente d’avoir vu Yassine résoudre le problème de la table. Elle ne veut pas donner le même sens à toute journée qui la fatigue. Sonia et elle ont obtenu un autre créneau pour la semaine suivante. Morgane demande que le début soit confié à Yassine.",
+      "mirror": [
+        "« La salle a changé. Je peux prévenir les personnes qui arrivent pendant que tu regardes les supports avec Yassine. Ça t’aide ? » Sonia peut proposer une répartition concrète sans deviner ce qui se passera dans la soirée. Si Morgane souhaite parler de la dernière fois, Sonia peut écouter ce qu’elle sait déjà et lui laisser la place de préciser ce qu’elle veut garder pour Anna."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane prévient Yassine et garde des éléments de contexte à discuter dans le suivi.",
+        "next": "Le début de la répétition suivante est confié à Yassine, et le groupe choisit comment annoncer la matinée."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "morgane-le-message-repris",
+      "title": "Une nouvelle crise après une période plus calme",
+      "description": "Après plusieurs jours plus faciles, un épisode revient. Morgane hésite à annuler l’essai prévu et demande un autre appui.",
+      "context": "Traverser un nouvel épisode sans tirer une conclusion sur le suivi ni abandonner les engagements utiles",
+      "topics": [
+        "Retour d’un épisode",
+        "Découragement",
+        "Reprise de contact"
+      ],
+      "clinical_focus": "Le découragement au retour d’une crise",
+      "clinical_intro": "Plusieurs jours s’étaient déroulés sans la perte de contrôle que Morgane redoutait. Lorsqu’un épisode revient, elle est tentée d’annuler la répétition et de taire ce changement à l’équipe. L’évolution de l’hyperphagie boulimique peut varier. Raconter cette soirée et ce qui l’a suivie donne au suivi un fait à examiner avec Morgane, alors qu’elle se juge déjà sévèrement.",
+      "opening": "L’annonce est prête. Yassine a écrit qu’on pourra venir avec une idée ou arriver sans savoir quoi faire. Morgane trouve que cette phrase est juste. Elle le lui avait dit hier, et avait promis de venir un peu avant pour l’entendre expliquer son essai. Elle ouvre son message du matin avec les clés de l’atelier dans la paume. Il lui demande si elle a toujours envie de voir la première présentation.\n\nLa veille, un nouvel épisode lui avait fait perdre le sentiment de pouvoir décider de s’arrêter. Cela faisait plusieurs jours qu’elle n’avait pas ressenti cette difficulté. Plus tard dans la soirée, elle s’était rappelé la façon dont elle avait raconté à Anna le dernier dimanche, puis avait pensé qu’elle avait parlé trop tôt des choses qui devenaient plus faciles. Elle avait repoussé la réponse à Sonia, qui demandait seulement si elle pouvait apporter la rallonge. Ce matin, le message de Yassine a l’air plus difficile à ouvrir que la porte de l’atelier.\n\nMorgane écrit qu’elle est désolée et qu’il vaut mieux que la répétition se fasse sans elle. Elle relit la fin. Yassine voudra peut-être commencer seul, mais c’était elle qui lui avait demandé si elle pouvait regarder. Si elle renonce aujourd’hui, elle aimerait au moins le faire pour une raison qu’elle peut dire clairement. Elle retire la phrase et écrit qu’elle sera là à l’heure prévue pour la répétition. Pour l’installation, elle demande à Sonia de prendre la rallonge et de lui dire à quel moment elles pourront décider ensemble.",
+      "sections": [
+        {
+          "heading": "Un retour de difficulté à examiner",
+          "text": "Un épisode survenu après une période plus calme apporte une information sur la situation actuelle. La répétition, le contexte, la souffrance et ce qui s’est passé ensuite aident l’équipe à comprendre l’évolution. Morgane est tentée de résumer la semaine à cette soirée. Les autres jours, les conditions dans lesquelles elle s’est sentie plus libre et les questions qui se posent aujourd’hui ont aussi leur place. Le NICE inclut le travail autour des difficultés futures et des rechutes dans certaines formes de prise en charge. Morgane peut revenir sur l’épisode sans devoir prouver à l’équipe qu’elle allait déjà mieux."
+        },
+        {
+          "heading": "Faire deux demandes de nature différente",
+          "text": "Au travail, Morgane sait qu’elle peut venir pour écouter Yassine et demander un relais pour l’installation. Elle n’a pas besoin de déclarer la soirée à toute l’équipe. Au suivi, la question porte sur ce qu’elle a éprouvé et sur le découragement qui a duré le lendemain. Elle décide d’utiliser le canal qu’Anna lui a indiqué pour signaler un changement et demander si elles peuvent en parler au prochain rendez-vous. Cette possibilité dépend de l’organisation de son service. L’aide de Sonia peut porter sur la tâche dont elles sont responsables ensemble."
+        }
+      ],
+      "ending_title": "Le message qu’elle garde",
+      "ending": "Yassine répond qu’il lui réserve une chaise au premier rang. Il a envie de lui montrer un geste qu’il n’avait pas encore essayé devant elle. Morgane dit qu’elle le verra tout à l’heure. Elle écrit ensuite à l’équipe avec les mots qu’elle a trouvés en consultation. Elle relit le dernier mot de l’annonce, « essayer », et le laisse tel quel. Sonia lui demande si elle veut qu’elles se retrouvent avant la répétition.",
+      "mirror": [
+        "Si Morgane demande de l’aide pour une tâche, Sonia peut s’en tenir à ce qu’elles ont à faire ensemble. « Je peux apporter la rallonge. Tu veux garder la première présentation avec Yassine ? » Si Morgane parle d’une soirée difficile, Sonia peut demander si elle souhaite être écoutée et lui laisser le choix de contacter son équipe. Elle peut aussi dire à quel moment elle sera disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane conserve l’écoute du premier essai, partage l’installation et signale le retour d’un épisode à l’équipe.",
+        "next": "Sonia propose un rendez-vous avant l’essai. Les deux doivent préciser ce que veut dire aider au travail."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "morgane-le-message-de-trop",
+      "title": "Quand une aide attendue se transforme en surveillance",
+      "description": "Sonia demande une réponse avant le déjeuner. Morgane précise quel soutien elle souhaite et quelle question elle réserve à l’équipe.",
+      "context": "Répondre à une collègue de confiance quand sa proposition de présence devient intrusive",
+      "topics": [
+        "Consentement",
+        "Limites de l’aide",
+        "Protection de la vie privée"
+      ],
+      "clinical_focus": "Faire la différence entre présence et surveillance",
+      "clinical_intro": "Dans l’hyperphagie boulimique, la honte et le secret peuvent rendre précieux un appui accepté. Morgane se sent pourtant regardée quand Sonia lui demande de confirmer comment s’est passé son déjeuner. Elle cherche une réponse qui garde leur confiance et rende leurs rôles plus clairs. Elles peuvent décider de ce que Sonia propose au travail et des questions que Morgane souhaite aborder en consultation.",
+      "opening": "Yassine essaie de faire tenir la branche sur le support et s’interrompt avant de tourner le poignet. Il explique à Morgane qu’il a ajouté une pause dans la démonstration. Il voudrait que les visiteurs aient le temps de regarder leur propre geste avant de l’écouter reprendre. Morgane pense qu’il a trouvé quelque chose qu’elle avait cherché longtemps. Elle lui demande si elle pourra s’installer à l’autre table pour regarder les réactions sans répondre à sa place.\n\nEn arrivant à la pause, Sonia lui montre un message resté sans réponse. Elle lui avait demandé la veille si elles pouvaient se voir avant l’essai. Elle a rajouté ce matin une question sur le déjeuner et lui demande de lui dire après si ça s’est bien passé. « Comme ça, je saurai que ça va. » Morgane s’entend répondre oui. Sa collègue s’est occupée de la rallonge, elle a pris du temps avant la répétition et elle voudrait l’aider. Morgane sait aussi qu’elle n’a pas envie de manger en pensant au compte qu’elle rendra ensuite. La réponse qu’elle vient de donner ne correspond pas à ce qu’elle aimerait vivre.\n\nSonia repart vers l’évier. Morgane la rejoint là où les visiteurs ne les entendront pas. Elle lui demande si elle voulait prendre un café avec elle ou savoir comment elle avait mangé. Sonia est surprise d’entendre les deux questions séparément. Elle répond qu’elle avait peur de passer à côté de quelque chose. Morgane lui dit que, pour elle, le message lui a donné l’impression qu’elle devait fournir une preuve pour que la journée continue normalement.",
+      "sections": [
+        {
+          "heading": "Reprendre un accord qui s’est brouillé",
+          "text": "Une personne de confiance peut rendre un soutien plus accessible dans les troubles des conduites alimentaires. La HAS et la FFAB situent la place de l’entourage dans une prise en charge adaptée et discutée. Sonia a entendu une confidence et en a déduit qu’elle devrait vérifier le déjeuner de Morgane. Morgane souhaite pouvoir solliciter de l’écoute sans être attendue au tournant sur un repas. Elle peut expliciter cette limite même si la première réponse a été oui. Sonia peut entendre la conséquence de son message et demander ce qu’elle peut offrir de précis au lieu de décider d’un suivi."
+        },
+        {
+          "heading": "Trouver une proposition que chacune peut tenir",
+          "text": "Elles peuvent s’accorder sur un café lorsqu’elles en ont envie et sur une disponibilité précise avant la matinée. Morgane peut garder la question des épisodes pour Anna. Si elle veut associer quelqu’un à une partie du suivi, elle peut en parler avec l’équipe et choisir ce qu’elle souhaite partager. La responsabilité clinique reste à la place où elle peut être assumée. Sonia peut dire ce qu’elle sait faire au travail et exprimer sa propre inquiétude. Morgane est libre d’accepter, de refuser ou de préciser sa demande. L’accord peut évoluer avec la situation."
+        }
+      ],
+      "ending_title": "Une demande à leur mesure",
+      "ending": "Sonia range son téléphone. Elle demande si Morgane veut encore qu’elles se voient avant la matinée pour faire le point sur les visiteurs. Morgane répond que oui. Elles conviennent aussi que Sonia attendra que Morgane ouvre elle-même une conversation sur le suivi. Un peu plus tard, Morgane lui propose un café et lui demande ce qu’elle a remarqué dans la pause de Yassine. L’équipe a répondu à son message. Anna reprendra avec elle jeudi le retour de l’épisode.",
+      "mirror": [
+        "« Je voulais savoir comment t’aider. J’ai compris que te demander un compte rendu du repas te met sous pression. Est-ce que le café avant la matinée te convient encore ? » Sonia peut revenir sur son idée et préciser son propre rôle. Une proposition de présence peut être acceptée seule. Si elles discutent du suivi un autre jour, elles peuvent choisir ensemble le moment et ce que chacune souhaite en dire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane refuse le compte rendu des repas et choisit une présence ordinaire et un accord de travail avec Sonia.",
+        "next": "Jeudi, Anna et Morgane font le point. La répartition avant la matinée est confirmée."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "morgane-ce-que-le-suivi-mesure",
+      "title": "Ce que Morgane souhaite voir évoluer dans son suivi",
+      "description": "Morgane apporte une question à Anna. Elle veut parler de ses crises et de leurs effets, ainsi que du suivi de sa santé physique.",
+      "context": "Préciser avec la psychologue les objectifs de soin et le rôle du suivi somatique",
+      "topics": [
+        "Objectifs de soin",
+        "Détresse après les crises",
+        "Suivi somatique"
+      ],
+      "clinical_focus": "Les objectifs du suivi spécialisé",
+      "clinical_intro": "Morgane redoute que sa consultation aboutisse à une discussion où seul son poids compte. Elle veut comprendre pourquoi le dernier épisode l’a découragée au point de presque annuler une répétition. Les soins psychologiques de l’hyperphagie boulimique peuvent cibler les épisodes, la détresse et leurs effets. Le rendez-vous lui permet de distinguer ces objectifs des questions de santé physique.",
+      "opening": "Dans la salle d’attente, Morgane regarde le carnet qu’elle a posé sur la chaise d’à côté. Jeudi dernier, elle l’avait ouvert directement à une page dont elle connaissait le titre. Ce matin, elle a écrit seulement « Qu’est-ce qu’on suit ? » Elle aimerait laisser la page ouverte devant Anna, même si l’écriture lui paraît plus grande qu’elle ne l’aurait voulu.\n\nAu début du rendez-vous, elle raconte le message de Yassine après l’épisode et la répétition à laquelle elle a finalement assisté. Elle parle aussi de la question de Sonia sur son déjeuner. Anna lui demande comment elle avait souhaité être aidée. Morgane explique qu’elle voulait retrouver une collègue avec qui elle peut partager le travail. En consultation, elle a une autre demande. Elle redoute que ses efforts se retrouvent à la fin réduits à ce que mesure une balance. Un changement physique peut l’inquiéter et elle voudrait pouvoir en parler avec le médecin. Aujourd’hui, elle s’aperçoit qu’elle aurait plus de facilité à répondre à une question sur sa taille de vêtements qu’à celle de ce qu’elle a ressenti le lendemain de l’épisode.\n\nAnna lui propose de prendre son carnet. Elle écrit que Morgane veut comprendre ce qui précède les épisodes et ce que le découragement lui fait abandonner ensuite. Elles laissent de la place pour les questions que Morgane veut poser au médecin. Morgane demande comment une thérapie consacrée à ces difficultés pourrait se dérouler. Elle aimerait pouvoir poser encore la question de la confidentialité avant de décider du format qui lui conviendrait.",
+      "sections": [
+        {
+          "heading": "Choisir les questions que le soin doit traiter",
+          "text": "Les recommandations sur l’hyperphagie boulimique décrivent des accompagnements psychologiques ciblés sur les épisodes et la détresse. Parmi les options chez l’adulte, le NICE mentionne un programme d’aide guidée et la thérapie cognitivo-comportementale adaptée aux troubles des conduites alimentaires. Le choix se discute avec les professionnels, en tenant compte de la situation et de ce que la personne peut suivre. Le poids peut avoir sa place dans une discussion médicale distincte, selon les besoins. La perte de poids ne constitue pas en elle-même l’objectif du traitement psychologique de ce trouble. Morgane peut demander quel professionnel répondra à quelle question et comment ils travailleront ensemble."
+        },
+        {
+          "heading": "S’accorder sur une manière de reparler de la difficulté",
+          "text": "Morgane et Anna ont désormais une scène précise pour discuter du découragement. Elles peuvent s’interroger sur le moment où la gêne prend assez de place pour qu’elle retire une réponse qu’elle avait envie de donner. Les épisodes récurrents et la santé physique continuent à être suivis. Pouvoir parler plus tôt d’une difficulté ou retrouver un contact choisi peut aussi compter pour Morgane. Ces repères viennent de ce qu’elle souhaite et de l’évaluation clinique. Ils peuvent être ajustés si ses besoins changent. Anna peut lui présenter des possibilités en précisant ce qu’elle sait de leur déroulement et les questions qui restent à discuter."
+        }
+      ],
+      "ending_title": "La page qui reste ouverte",
+      "ending": "Morgane demande à recevoir une présentation des possibilités avant de donner une réponse. Elle reprend le carnet et marque la page avec le ticket de la librairie. En sortant, elle vérifie avec Sonia qu’elles se retrouvent samedi un peu avant l’ouverture pour placer les panneaux. Au travail, le cadre d’accueil est décidé. En consultation, elle sait quelle question poser ensuite au médecin et ce qu’elle veut reprendre avec Anna.",
+      "mirror": [
+        "Si Morgane évoque son rendez-vous, Lucie peut demander ce qu’elle souhaite en retenir. « Est-ce qu’une partie t’a aidée à dire ce que tu attendais ? » Elle peut lui proposer de l’accompagner au prochain rendez-vous si Morgane le souhaite et si elle est disponible. La décision sur les soins reste à discuter avec l’équipe, et la sœur peut revenir avec Morgane à leur rendez-vous de marche."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane fixe avec Anna des objectifs liés aux épisodes et à leur retentissement et demande à connaître les options de suivi.",
+        "next": "Samedi, elle retrouve Sonia avant l’ouverture et conserve la consultation comme un espace à part."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "morgane-le-tablier-de-laccueil",
+      "title": "Répondre à une remarque sur le corps pendant une activité",
+      "description": "Le jour des portes ouvertes, une remarque sur un tablier trouble Morgane. Elle choisit la réponse qu’elle souhaite donner et poursuit son geste.",
+      "context": "Garder le choix de sa réponse à une remarque corporelle au cours de la matinée",
+      "topics": [
+        "Commentaires corporels",
+        "Limite exprimée",
+        "Reprise de l’attention"
+      ],
+      "clinical_focus": "Revenir à son geste après une remarque",
+      "clinical_intro": "Lors de la matinée, une visiteuse commente la façon dont un tablier tombe sur Morgane. Sa gêne prend de la place alors qu’elle voulait montrer comment soutenir une branche. Dans son hyperphagie boulimique, les préoccupations liées au regard peuvent compliquer des moments sociaux. La limite qu’elle exprime ici concerne la conversation qu’elle accepte d’avoir et le rôle qu’elle veut reprendre.",
+      "opening": "En arrivant, Morgane a décroché le tablier que Marie avait laissé à l’entrée. Elle l’a mis pour vérifier que la poche tient encore. Elle a glissé à l’intérieur une étiquette où elle a écrit « prêt » et dont il reste un bout visible. Sur la table d’essai, Sonia a posé le panneau à la hauteur où elles l’avaient imaginé. Elles entendent déjà des gens s’arrêter de l’autre côté de la porte.\n\nLa première visiteuse reste près de l’entrée et demande si elle peut regarder avant de choisir. Morgane l’invite à la table. Pendant qu’elle dégage le support, la femme lui dit que le tablier est bien fait pour cacher le ventre. Elle ajoute qu’elle aimerait le même. Morgane a déjà la branche dans la main. Elle oublie pendant un instant à quel endroit elle avait prévu de la faire reposer. À la table voisine, elle entend Yassine commencer sa démonstration. Elle pourrait lui demander de reprendre toute la sienne après. La visiteuse la regarde encore et ajoute qu’elle disait ça gentiment.\n\nMorgane serre la branche au lieu de la poser. Elle pense à ce que Sonia lui avait proposé le matin. Si l’une doit s’arrêter, l’autre demande d’abord si elle veut être relayée. Elle cherche une phrase qu’elle serait capable de dire avant de choisir. « Je préfère qu’on ne commente pas mon corps. Vous voulez essayer la branche avec moi ? » La visiteuse retire la main qu’elle avançait vers le tissu et regarde le support. Morgane sent qu’elle est encore troublée quand elle pose enfin la branche.",
+      "sections": [
+        {
+          "heading": "Une gêne qui peut faire perdre le fil",
+          "text": "Certaines personnes avec une hyperphagie boulimique connaissent des préoccupations corporelles qui pèsent sur leur manière de se juger. La scène montre une réaction à une remarque, dans le contexte propre de Morgane. Pendant un instant, une partie de son attention part dans ce que l’autre personne a voulu dire et dans l’idée de quitter la table. L’impact d’une conversation peut être réel même si son auteure croyait être aimable. Cette situation peut être reprise avec l’équipe comme un élément du vécu social. Elle ne permet pas de prévoir ce que Morgane éprouvera après l’ouverture ou à une autre occasion."
+        },
+        {
+          "heading": "Donner une limite puis choisir la suite",
+          "text": "Morgane peut choisir une réponse courte à la visiteuse. Elle peut aussi demander une pause ou laisser Sonia reprendre un geste si elle le préfère. Le fait qu’elle ait posé une limite ne l’oblige pas à poursuivre la démonstration. Elle peut essayer de retrouver sa place et remarquer si elle a besoin d’un instant. Sonia peut se rendre disponible sans donner d’explication personnelle aux visiteurs. L’entourage et les collègues peuvent contribuer à un échange plus respectueux en ramenant l’attention sur ce que la personne souhaite partager. Les décisions concernant le suivi se prennent dans l’espace prévu avec les professionnels."
+        }
+      ],
+      "ending_title": "Laisser la branche faire son poids",
+      "ending": "La visiteuse accepte d’essayer. Elle pousse d’abord sur la tige, puis desserre les doigts quand Morgane lui montre où elle peut l’appuyer. Morgane demande à Sonia de lui garder une minute entre deux visiteurs. De l’autre côté, Yassine lève son support pour montrer qu’il peut tenir sans la main. Un peu plus tard, quelqu’un propose d’envoyer une photo à la lettre du quartier. Morgane répond qu’elle veut revoir avec le groupe le cadrage et le texte avant leur envoi.",
+      "mirror": [
+        "Si Sonia a entendu la remarque, elle peut demander à Morgane de quoi elle a besoin dans l’instant. « Tu veux une minute, ou tu veux continuer ton essai ? » Elle peut prendre un rôle défini si Morgane le lui demande et préserver les informations qu’elles se sont confiées. Elle peut aussi rappeler aux visiteurs le geste proposé sans se lancer dans un échange sur le corps de sa collègue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca"
+      ],
+      "continuity": {
+        "choice": "Morgane pose une limite puis choisit de poursuivre le geste avec une courte pause ensuite.",
+        "next": "Le groupe doit relire la photo et la légende avant de les envoyer à la lettre du quartier."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "morgane-la-legende-sous-la-photo",
+      "title": "Choisir ce qu’on veut raconter de soi après une réussite",
+      "description": "Le groupe prépare la légende d’une photo. Morgane décide ce qu’elle souhaite montrer de son travail et ce qu’elle garde dans sa vie privée.",
+      "context": "Revenir sur la matinée en laissant une place aux compétences et à l’intimité",
+      "topics": [
+        "Image de soi",
+        "Choix de ce qu’on partage",
+        "Reconnaissance du travail collectif"
+      ],
+      "clinical_focus": "Choisir les mots de sa présentation",
+      "clinical_intro": "Devant une photo de la matinée, Morgane se demande ce que les lecteurs vont remarquer d’elle. Elle peut aussi dire ce qu’elle a vraiment voulu transmettre. Quand l’hyperphagie boulimique pèse sur la façon dont elle se juge, reparler de ses choix et de ses relations élargit ce qu’elle peut raconter de cette journée. Elle garde la main sur ce qui relève de sa santé.",
+      "opening": "Mardi, Sonia place la photo et le texte proposé sur le comptoir. On voit les mains de Yassine sur le support et celles de Morgane à l’autre bout de la table. Son tablier apparaît jusqu’à la poche. On distingue encore le papier marqué « prêt ». La légende parle d’une journée où l’équipe a surmonté ses appréhensions pour partager son métier. Morgane la relit deux fois. Elle se demande si les gens vont lui demander de quoi elle avait peur. Elle se demande aussi quelle partie de son corps ils regarderont en lisant cette phrase.\n\nYassine l’appelle vers sa table. Il veut faire vérifier son nom et propose qu’on indique dans la légende la pause qu’il avait prévue pour que les visiteurs essaient. Il a remarqué une femme qui revenait corriger son geste entre deux démonstrations. En l’écoutant, Morgane se rappelle le poids que la première visiteuse avait d’abord mis sur la tige et la façon dont elle avait ensuite déplacé ses doigts. La matinée lui avait demandé un effort, et elle avait aussi donné à quelqu’un un moyen de faire tenir sa branche.\n\nMorgane rejoint Sonia et lui demande si elles peuvent écrire ce que l’on voit réellement. Elle voudrait donner le nom de Yassine et préciser comment les essais se sont passés. Elle remarque une personne qui apparaît sur le bord d’une autre image et propose de demander avant d’utiliser cette version. Sonia ouvre le message de la lettre du quartier et attend que Morgane lui dise à quel moment elle veut répondre.",
+      "sections": [
+        {
+          "heading": "Retrouver plusieurs façons de parler de soi",
+          "text": "Les inquiétudes liées au poids ou à la silhouette peuvent peser sur l’évaluation que certaines personnes font d’elles-mêmes. Dans cette scène, Morgane s’attend à être interrogée sur ce qui lui coûte. Elle repère aussi ce qu’elle a choisi, ce qu’elle sait faire et la contribution de Yassine. Ce sont plusieurs éléments d’un même souvenir. L’effet de la matinée sur son image d’elle-même peut être discuté avec Anna si elle le souhaite. Elle peut se sentir fière et rester en difficulté un autre jour. La manière dont elle a participé décrit ce moment et le rôle qu’elle y a joué."
+        },
+        {
+          "heading": "Décider ensemble de la trace qu’on laisse",
+          "text": "Morgane peut discuter de la légende comme d’une décision de travail. Yassine peut choisir les mots qui décrivent sa démonstration. Une personne visible dans le cadre doit pouvoir se prononcer sur la diffusion de son image. Sonia peut tenir compte de la confidence de Morgane en respectant le choix déjà exprimé sur les informations personnelles. Elle peut également poser des questions simples aux autres personnes concernées. Un récit d’équipe peut parler des gestes montrés et de la manière dont les visiteurs les ont essayés. Le suivi spécialisé donne à Morgane un autre endroit pour revenir sur les appréhensions que ces décisions ont ravivées."
+        }
+      ],
+      "ending_title": "La légende qu’ils choisissent",
+      "ending": "La nouvelle légende indique le nom de Yassine près de son essai et celui de Morgane près de la table d’accueil. Elle explique que les personnes pouvaient venir à n’importe quel moment essayer un geste. La photo retenue montre seulement les personnes qui ont accepté ce cadrage. La lettre est partie, et Sonia apporte une demande de l’accueil. Des visiteurs aimeraient retrouver un essai dans quelques semaines. Morgane demande s’ils peuvent réserver un temps d’équipe pour décider de la suite.",
+      "mirror": [
+        "Yassine peut proposer de nommer la pause qu’il a préparée et demander si Morgane souhaite que son rôle à la table d’accueil figure dans le texte. Sonia peut vérifier les accords sans interpréter la gêne de sa collègue devant les autres. Si quelqu’un souhaite reprendre une photo sur laquelle une personne apparaît, le groupe peut demander son accord ou choisir une autre image."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane choisit avec le groupe une photo et une légende centrées sur le travail de chacun.",
+        "next": "Des visiteurs demandent une suite. L’équipe doit décider d’un rythme que ses membres peuvent tenir."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "morgane-le-mercredi-dapres",
+      "title": "Continuer le suivi quand des projets reprennent leur place",
+      "description": "Quelques semaines plus tard, Morgane choisit la place qu’elle veut garder dans l’atelier. Elle continue à parler des soirées difficiles à l’équipe.",
+      "context": "Poursuivre le soin et retrouver des engagements choisis au travail et avec sa sœur",
+      "topics": [
+        "Continuité des soins",
+        "Choix réalistes",
+        "Difficultés fluctuantes"
+      ],
+      "clinical_focus": "Un suivi qui avance avec la vie",
+      "clinical_intro": "Quelques semaines après l’ouverture, Morgane peut apprécier ce que l’équipe a construit et parler encore de soirées où l’alimentation lui a semblé hors de contrôle. L’hyperphagie boulimique peut évoluer avec des périodes différentes. Elle continue à examiner ces épisodes en consultation et décide séparément de la place qu’elle veut prendre dans le prochain atelier et dans ses rendez-vous avec Lucie.",
+      "opening": "Mercredi, Morgane pose deux propositions sur la table. L’accueil peut ouvrir une fois de plus le samedi matin, et Yassine aimerait cette fois choisir lui-même la disposition de son essai. Morgane sait ce qu’elle a envie de garder. Accueillir les personnes et leur demander si elles veulent regarder ou faire quelque chose lui plaît toujours. Elle voudrait avoir assez de temps pour observer le début de la démonstration de Yassine. À la première matinée, elle n’avait vu que la fin, avec la branche déjà posée.\n\nUne partie d’elle veut prendre toutes les places sur la feuille. Depuis la semaine dernière, elle a pourtant eu deux soirées dont elle aimerait parler au suivi. Elle avait pensé qu’il lui faudrait d’abord régler le problème pour accepter une nouvelle date. Maintenant qu’elle regarde le travail proposé, elle se demande combien de temps elle souhaite réellement y consacrer. La réponse qu’elle trouve concerne l’accueil. Elle ne sait toujours pas comment expliquer certaines soirées, et le rendez-vous avec Anna est prévu pour en parler.\n\nMorgane propose un essai où Yassine accueille les visiteurs quand il le veut et où elle tient la table au début seulement. Sonia demande qui reprendra ensuite l’accueil. Morgane lui dit que c’est la question qu’elle veut régler avant de répondre au message du quartier. Après le travail, Lucie lui envoie le nom d’une petite cour repérée dans son livre. Morgane regarde le trajet, puis lui demande si elle peut la retrouver avant la fermeture de la librairie. Elle choisirait volontiers une marche courte aujourd’hui.",
+      "sections": [
+        {
+          "heading": "Laisser au suivi sa place au fil du temps",
+          "text": "Le vécu de l’hyperphagie boulimique peut changer, avec des périodes plus calmes et des difficultés qui reviennent. La HAS et la FFAB décrivent un accompagnement qui s’inscrit dans la durée et s’ajuste à la personne. Morgane a pu faire aboutir un projet et connaître ensuite de nouvelles soirées difficiles. En consultation, la souffrance, le contexte et la santé physique continuent à être examinés. Elle peut apporter le récit de ce qui s’est passé et reparler des moyens de soutien qui lui conviennent. La fierté qu’elle éprouve au travail peut garder sa propre valeur, même lorsque le suivi doit revenir sur une difficulté."
+        },
+        {
+          "heading": "Garder le choix de la prochaine chose à faire",
+          "text": "La nouvelle matinée comporte des décisions concrètes. Yassine veut plus de place pour préparer sa démonstration. Sonia veut une répartition praticable. Morgane peut dire ce qu’elle aime dans l’accueil et proposer le temps qu’elle souhaite y passer. Avec Lucie, elle peut choisir une marche courte, comme elles en avaient parlé. Ce rendez-vous a un sens en lui-même. Les deux sœurs peuvent s’écouter et aussi s’intéresser à une cour dont elles avaient oublié le nom. Morgane garde la possibilité de dire un autre jour qu’elle a besoin de parler, de poser une limite ou de reprendre contact avec son équipe."
+        }
+      ],
+      "ending_title": "Au bout de la rue",
+      "ending": "Yassine inscrit son nom près du premier essai et demande à Morgane si elle veut voir la disposition vendredi. Elle lui dit qu’elle viendra. Le soir, Lucie l’attend à l’angle de la rue. La cour du livre a changé de nom et il faut passer devant une porte bleue pour retrouver son ancien mur. Morgane lui montre où elle voit encore la trace de la plaque. En rentrant, elle notera ce dont elle veut reparler jeudi avec Anna. Pour l’instant, elle a envie d’aller voir jusqu’où la rue continue.",
+      "mirror": [
+        "« On peut faire le tour court et s’arrêter à la porte bleue. Tu me dis si tu veux marcher un peu plus. » Lucie peut respecter l’accord qu’elles ont trouvé sans faire de leur sortie une mesure des progrès de Morgane. Si la discussion revient sur les soirées difficiles, elle peut écouter ce que sa sœur souhaite partager et lui proposer une aide qu’elle peut tenir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-ffab-tca",
+        "nice-ng69-hyperphagie"
+      ],
+      "continuity": {
+        "choice": "Morgane choisit une place précise dans le projet, retrouve sa sœur selon leur accord et garde un rendez-vous de suivi.",
+        "next": "Le projet continue sur un format choisi par l’équipe. Morgane garde le temps et l’espace de reparler de ses difficultés."
+      }
+    }
+  ]
+}

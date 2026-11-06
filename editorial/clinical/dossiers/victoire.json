@@ -1,0 +1,40 @@
+{
+  "references": {
+    "has-boulimie": {
+      "title": "Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique",
+      "url": "https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique"
+    },
+    "has-soins-coordonnes": {
+      "title": "Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée",
+      "url": "https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil"
+    },
+    "ameli-palpitations-urgence": {
+      "title": "Assurance Maladie, que faire en cas de palpitations cardiaques",
+      "url": "https://www.ameli.fr/assure/sante/themes/palpitations-cardiaques/bons-reflexes"
+    }
+  },
+  "dossier": {
+    "name": "Boulimie nerveuse",
+    "aliases": [
+      "Boulimie",
+      "Trouble des conduites alimentaires",
+      "TCA"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-boulimie",
+      "has-soins-coordonnes",
+      "ameli-palpitations-urgence"
+    ],
+    "points": [
+      "CIM-11 CDDR 6B81, p. 404–406. Des épisodes récurrents associent une perte de contrôle vécue et une façon de manger qui diffère nettement des habitudes. Un épisode s’apprécie dans son contexte. Une fête, un repas généreux ou une envie forte de manger pris isolément n’indiquent pas un trouble.",
+      "Le tableau comporte des comportements compensatoires inappropriés et répétés visant à éviter la prise de poids, une préoccupation excessive pour le poids ou la silhouette et une souffrance marquée ou un retentissement significatif. Évoquer la compensation par sa fonction et son coût. Omettre ses méthodes, chiffres et calendriers.",
+      "L’hyperphagie boulimique comporte des crises récurrentes sans les conduites compensatoires répétées caractéristiques de la boulimie nerveuse. L’évaluation clinique tient compte de l’évolution et de la présence possible d’une anorexie mentale, dont certaines présentations comportent aussi des crises et des compensations. L’apparence ne permet pas de trancher.",
+      "La honte, la culpabilité et l’effort pour dissimuler le trouble peuvent coexister avec un fonctionnement professionnel et des relations entretenus au prix d’efforts importants. Une préoccupation corporelle peut peser sur l’estime de soi. Les réponses émotionnelles et les circonstances des crises varient. Éviter une cause psychologique unique.",
+      "La HAS et la FFAB recommandent un suivi coordonné qui tient compte de la santé physique et psychique, des besoins nutritionnels et de la situation sociale et relationnelle. La psychothérapie peut explorer les liens entre émotions, pensées et conduite alimentaire. Les choix de soin et la place de l’entourage se discutent avec la personne.",
+      "Les crises et les compensations peuvent avoir des conséquences somatiques parfois graves. La surveillance médicale et les examens dépendent de la situation. Pour des palpitations accompagnées d’un malaise, l’Assurance Maladie recommande un appel aux secours médicaux. L’équipe évalue la cause, qui reste ouverte dans le récit.",
+      "Le CDDR décrit une évolution variable, avec des périodes plus stables et des réapparitions possibles des symptômes. La HAS situe la continuité du suivi au-delà du repérage initial et associe les objectifs de santé aux objectifs personnels et sociaux. Montrer une reprise de contact adaptée sans faire de l’activité choisie un traitement."
+    ]
+  },
+  "direction": "Victoire a le regard précis d’une dessinatrice. Dans sa voix, une direction ou une distance concerne d’abord les gens qui prennent une rue ensemble. Elle travaille avec Idriss, prépare avec Lila un rallye à vélo pour des débutants et aime les soirées musicales avec son frère Simon. La boulimie est diagnostiquée avant la première scène. Le secret, la honte, la valeur qu’elle attache à l’apparence et la répétition des compensations entravent ces liens, à des moments différents. Elle choisit ce que Lila et Simon savent, tandis que l’équipe spécialisée coordonne le suivi. Idriss reste collègue et réagit à un malaise observable. Chaque décision a une suite vérifiable, jusqu’au premier rallye et au choix de contribuer à un autre sans s’engager d’avance. Le projet garde son intérêt propre."
+}

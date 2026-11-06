@@ -1,0 +1,33 @@
+{
+  "references": {
+    "nhs-phobies": {
+      "title": "NHS, Phobias",
+      "url": "https://www.nhs.uk/mental-health/conditions/phobias/"
+    },
+    "freeman-hauteurs-2018": {
+      "title": "Freeman et al., essai randomisé sur la thérapie en réalité virtuelle pour la peur des hauteurs, The Lancet Psychiatry, 2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6063994/"
+    }
+  },
+  "dossier": {
+    "name": "Phobie spécifique",
+    "aliases": [
+      "Acrophobie",
+      "Phobie des hauteurs",
+      "Peur des hauteurs"
+    ],
+    "references": [
+      "oms-cddr",
+      "nhs-phobies",
+      "freeman-hauteurs-2018"
+    ],
+    "points": [
+      "CDDR 6B03, pages 280 à 283. Une peur marquée centrée sur un objet ou une situation, dont les hauteurs, peut apparaître en présence du déclencheur ou dès son anticipation. Les réactions répétées durent dans le temps et entraînent une détresse, un évitement ou des difficultés dans des activités importantes, parfois maintenues au prix d’efforts significatifs.",
+      "CDDR 6B03. Le clinicien apprécie la disproportion par rapport au danger réel dans son environnement, la durée, la récurrence et le retentissement. Une peur face à un bord exposé ou à des conditions de terrain dangereuses peut être adaptée. Des expériences négatives peuvent précéder une phobie, et un événement déclencheur identifiable est facultatif.",
+      "CDDR 6B03. Si des montées de panique arrivent en présence ou dans l’anticipation des hauteurs, cela ne suffit pas à établir un trouble panique. Dans l’agoraphobie, les craintes portent sur des conséquences redoutées dans plusieurs situations où s’échapper ou obtenir de l’aide semble difficile. La crainte du jugement peut accompagner la phobie sans constituer nécessairement le cœur du problème.",
+      "NHS, Phobias. Les sensations corporelles possibles comprennent tremblements, palpitations et étourdissements. Quand la peur affecte la vie quotidienne, une consultation permet de discuter d’options adaptées. Certaines thérapies psychologiques, dont les thérapies comportementales et cognitives, peuvent aider. Le travail envisagé dans le récit se décide avec la psychologue, hors des situations où les conditions réelles présentent un danger.",
+      "Freeman et al., 2018. Dans un essai randomisé de 100 adultes sélectionnés pour leur peur des hauteurs, un programme précis en réalité virtuelle a réduit la peur déclarée par rapport au groupe témoin à court terme. Le suivi rapporté était bref. Le résultat porte sur ce programme et ce groupe et ne permet pas de recommander un casque en autonomie ni de présumer l’accès au soin ou l’efficacité pour Thaïs."
+    ]
+  },
+  "direction": "Thaïs, 28 ans, ingénieure en cartographie de l’association Traverse, prête attention à la manière dont les autres utilisent une carte. Elle aime les relevés de terrain et les séances où les habitants corrigent les noms des chemins. La carte du vallon des Aulnes doit expliquer le parcours de l’eau et les accès autorisés. Samir supervise les conditions de terrain, Inès s’occupe des photographies, Milo est le frère de Thaïs et Mme Verdier la psychologue qu’elle consulte. La phobie spécifique des hauteurs est déjà diagnostiquée. Thaïs traverse facilement un espace fermé sans vue plongeante. Elle redoute de tomber même sur certains aménagements protégés. Garder des situations diverses au travail, dans la famille et dans le suivi, sans distribuer des étapes à exécuter. Les collègues évaluent le danger et les accès et n’organisent aucune confrontation thérapeutique. Thaïs décide ce qu’elle partage et reste pleinement responsable des choix cartographiques."
+}

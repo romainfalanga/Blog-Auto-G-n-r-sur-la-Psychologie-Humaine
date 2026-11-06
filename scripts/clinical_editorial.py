@@ -69,15 +69,19 @@ def validate_episode(episode, character, number, dossier):
     require(isinstance(mirror, list) and 1 <= len(mirror) <= 2 and all(prose(p) and '\n' not in p for p in mirror) and 40 <= words(' '.join(mirror)) <= 160, f'Rubrique des proches à revoir : {label}')
     require(words(' '.join([episode['opening'], episode['ending'], *[s['text'] for s in sections], *mirror])) >= 550, f'Épisode trop court : {label}')
     refs = episode['sources']
-    require(isinstance(refs, list) and len(set(refs)) >= 2 and 'oms-cddr' in refs and set(refs) <= set(dossier['references']), f'Sources cliniques non autorisées ou insuffisantes : {label}')
+    primary = character.get('primary_reference', 'oms-cddr')
+    require(isinstance(refs, list) and len(set(refs)) >= 2 and primary in refs and set(refs) <= set(dossier['references']), f'Sources cliniques non autorisées ou insuffisantes : {label}')
     continuity = episode['continuity']
     require(isinstance(continuity, dict) and prose(continuity.get('choice')) and prose(continuity.get('next')), f'Continuité à documenter : {label}')
 
 
 def sources_and_characters():
     catalogue = read(ROOT / 'data/clinical_catalog.json')
+    characters = [*catalogue['characters'], *read(EDITORIAL / 'additional_characters.json')]
     evidence = read(ROOT / 'data/clinical_sources.json')
-    return {character['id']: character for character in catalogue['characters']}, evidence
+    require(len({c['id'] for c in characters}) == len({c['code'] for c in characters}) == len(characters),
+            'Les identifiants et les références cliniques doivent être uniques.')
+    return {character['id']: character for character in characters}, evidence
 
 
 def dossier_path(ident):
@@ -104,7 +108,8 @@ def character_evidence(character, shared):
                 f'Adresse de source invalide : {path.name}, {key}')
     references = {**shared['references'], **sources}
     refs, points = dossier['references'], dossier['points']
-    require(prose(dossier['name']) and isinstance(refs, list) and 'oms-cddr' in refs
+    primary = character.get('primary_reference', 'oms-cddr')
+    require(prose(dossier['name']) and isinstance(refs, list) and primary in refs
             and len(set(refs)) >= 2 and set(refs) <= references.keys()
             and isinstance(points, list) and len(points) >= 3 and all(prose(point) for point in points)
             and isinstance(dossier.get('aliases', []), list) and all(prose(v) for v in dossier.get('aliases', [])),

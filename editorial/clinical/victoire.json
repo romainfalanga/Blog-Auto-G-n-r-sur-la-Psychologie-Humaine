@@ -1,0 +1,478 @@
+{
+  "character_id": "victoire",
+  "bio": "Victoire, 27 ans, travaille dans une boutique de vélos. Elle dessine les plans d’un rallye urbain parce qu’elle aime trouver des rues où les débutants peuvent se parler en roulant. Elle est suivie pour une boulimie nerveuse. Les crises lui laissent une impression de perte de contrôle, puis l’envie de compenser et la peur d’en parler. Même une photo peut lui faire oublier ce qu’elle apprécie dans une journée. Elle voudrait pouvoir compter sur son amie Lila sans que sa silhouette ou ses repas deviennent le sujet de leurs rencontres.",
+  "profile_topics": [
+    "Boulimie nerveuse",
+    "Perte de contrôle alimentaire",
+    "Compensations répétées",
+    "Honte et secret",
+    "Image corporelle et estime de soi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "victoire-perte-controle-apres-fermeture",
+      "title": "La perte de contrôle qui pèse encore le lendemain",
+      "description": "Victoire cherche les mots pour décrire une crise de boulimie et demande à Lila de garder sa place au repérage du rallye.",
+      "context": "derrière le comptoir d’une boutique de vélos, le lundi avant le premier repérage",
+      "topics": [
+        "Perte de contrôle alimentaire",
+        "Détresse après une crise",
+        "Retentissement au travail"
+      ],
+      "clinical_focus": "Perte de contrôle pendant une crise",
+      "clinical_intro": "Victoire avait prévu de dessiner après la fermeture de la boutique. Une crise l’a laissée avec la sensation que ses gestes lui échappaient, puis avec la crainte de raconter ce qui s’était passé. Dans la boulimie nerveuse, cette perte de contrôle est une donnée clinique importante. Elle peut continuer de peser sur les choix du lendemain, jusque dans une conversation sur un projet qui compte.",
+      "opening": "Le lundi, Victoire retourne la pancarte de la boutique avec l’impression d’avoir oublié un geste. Elle pense au plan resté sous la caisse. La veille, en rentrant, elle devait encore y tracer une rue. Puis elle a mangé avec la sensation de ne plus pouvoir s’arrêter. Elle se souvient d’avoir regardé le rouleau de papier au bout de la table et de s’être dit qu’elle allait le reprendre aussitôt. Quand elle a pu regarder l’heure, le trait lui paraissait aussi loin qu’une chose prévue pour quelqu’un d’autre. Elle a eu envie de compenser. Aujourd’hui, elle reconnaît le sentiment qu’elle avait essayé de décrire au service qui la suit pour une boulimie nerveuse. Pendant la crise, les choix qu’elle croyait encore pouvoir faire s’étaient réduits.\n\nIdriss pousse un vélo jusqu’au comptoir. Le propriétaire demande si sa fille pourra atteindre le frein sans déplacer toute la main. Victoire regarde la poignée, montre le réglage à Idriss et attend qu’ils fassent l’essai. Quand le père repart, elle voit le bord du plan dépasser sous le tiroir. Lila lui écrit qu’elle a réservé son samedi matin pour vérifier l’itinéraire des débutants. « On garde le départ du marché ? » Victoire commence une réponse qui dit qu’elle est prise. La phrase est presque terminée avant qu’elle s’aperçoive qu’elle voudrait encore aller voir cette rue. Elle tire le plan vers elle et le tourne dans le sens qu’il aura pour quelqu’un qui arrive de la gare.",
+      "sections": [
+        {
+          "heading": "Ce qui échappe pendant une crise",
+          "text": "La perte de contrôle décrit une expérience précise. Une personne peut avoir le sentiment de ne plus pouvoir interrompre ce qu’elle fait alors même qu’elle a envie de retrouver un choix. Dans la boulimie nerveuse, les crises reviennent et la façon de manger pendant ces moments diffère sensiblement de l’habitude. L’évaluation regarde leur répétition, les compensations et les préoccupations corporelles qui les accompagnent, ainsi que leurs conséquences. La quantité observée par quelqu’un d’autre dit peu du sentiment vécu sur le moment. Un dîner de fête ou le plaisir d’un repas copieux ont une place ordinaire dans la vie. Les professionnels rassemblent des informations bien plus larges pour comprendre un trouble. Victoire peut décrire à son équipe le moment où elle voulait reprendre son plan et où elle a senti qu’elle ne décidait déjà plus de la suite."
+        },
+        {
+          "heading": "Ce que la crise prend au lendemain",
+          "text": "L’effet d’une crise peut continuer après le retour au calme. Le trouble occupe parfois le temps disponible, le sommeil ou l’attention. À la boutique, Victoire vient de montrer avec assurance un réglage dont elle connaît l’importance. À côté, un message amical lui semble demander une énergie qu’elle a du mal à trouver. Les deux expériences peuvent coexister. Une réponse concernant le rallye peut rester simple. Elle est libre de dire quel point du parcours l’intéresse, quelle durée elle peut envisager ou si elle préfère attendre. Le rendez-vous spécialisé, lui, a une autre place. Victoire a le droit d’y parler de ce qu’elle vit même si elle a tenu son poste et mené une conversation ordinaire dans la journée."
+        }
+      ],
+      "ending_title": "Une rue à revoir ensemble",
+      "ending": "Victoire écrit qu’elle souhaite garder le samedi. Elle propose à Lila de se retrouver à l’entrée du marché et d’essayer d’abord le passage qui rejoint la gare. Lila connaît une personne qui n’a pas roulé en ville depuis longtemps et voudrait l’inviter. Victoire garde l’idée. Avant de refermer le tiroir, elle note sur un coin du plan le mot « interrompre », celui qu’elle veut apporter au prochain rendez-vous.",
+      "mirror": [
+        "En recevant une réponse hésitante, Lila peut demander « Tu veux qu’on regarde juste la rue du marché ou qu’on se garde la matinée ? » Elle offre une marge de choix et peut dire ce qui lui convient aussi. Si Victoire lui dit qu’une soirée a été difficile, Lila peut l’écouter avant de revenir au trajet. Un rendez-vous bref peut rester un bon moment pour elles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie"
+      ],
+      "continuity": {
+        "choice": "Victoire confirme le repérage du samedi et choisit de parler à l’équipe du moment où elle a perdu le contrôle.",
+        "next": "Lila vient au marché avec Manu, qui redécouvre la circulation à vélo. Le rendez-vous spécialisé a lieu le mardi suivant."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "victoire-photo-image-corps",
+      "title": "Quand une photo prend trop de place dans l’idée qu’on se fait de soi",
+      "description": "Pendant un repérage, Victoire remarque que son inquiétude autour de son apparence recouvre le plaisir de tracer une route avec Lila.",
+      "context": "premier essai du trajet entre le marché et la gare",
+      "topics": [
+        "Surévaluation de la silhouette",
+        "Attention captée par l’apparence",
+        "Consentement à l’image"
+      ],
+      "clinical_focus": "Image corporelle et estime de soi",
+      "clinical_intro": "Lila propose une photo à la fin du repérage. En quelques instants, Victoire passe de la satisfaction d’avoir trouvé un repère utile aux débutants à l’impression que seul son corps sera évalué. Dans la boulimie nerveuse, les préoccupations liées au poids et à la silhouette peuvent prendre une place excessive dans l’estime de soi. Victoire cherche à préserver son choix sans renoncer à montrer son travail.",
+      "opening": "Manu dit qu’il voudrait pouvoir indiquer qu’il tourne sans perdre de vue le portail bleu. Victoire lui demande où son regard se pose quand il arrive du marché. Il montre la vitrine fermée avant l’angle. Elle découvre qu’elle avait dessiné la flèche trop loin, au point où elle sait déjà de quel côté tourner. Ils recommencent à pied, vélos à la main. Cette fois, Manu peut désigner la rue dès qu’il voit le portail. Elle sort son crayon et entend Lila rire parce que le plan va finir par ressembler à une carte des enseignes disparues.\n\nAu moment de partir, Lila propose une photo pour le groupe du rallye. Elle demande à Victoire de tenir le plan ouvert. Victoire s’était jusque-là trouvée à l’aise avec eux. Elle regarde le rectangle d’ombre sur son manteau et imagine une suite de regards arrêtés sur elle. La question de Manu et l’idée qu’elle vient d’avoir lui semblent se retirer. Elle tend le plan vers Lila, puis le reprend parce qu’elle tient à ce que le portail soit visible. « On pourrait le poser sur le banc ? Je préfère qu’on voie la carte. » Elle ne dit pas qu’elle a peur de passer sa soirée à revenir à la photo. Lila attend qu’elle recule, photographie le papier et demande si elle peut l’envoyer avec son prénom. Victoire relit la ligne près du marché avant de répondre.",
+      "sections": [
+        {
+          "heading": "Quand l’apparence absorbe le jugement sur soi",
+          "text": "Beaucoup de personnes ont des préférences sur la façon dont elles apparaissent en photo. Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue. Victoire se souvient encore de ce qu’elle a fait pour aider Manu. Il lui devient difficile de sentir que cette contribution compte, car l’image qu’elle anticipe semble décider de tout. Ce glissement peut s’accompagner d’évitements ou d’un retour répété à la question de l’apparence. Les réactions sont variables. L’équipe qui accompagne Victoire peut explorer la place de ces préoccupations dans plusieurs situations et leurs liens avec les crises et les compensations. Elle s’intéresse aussi à la souffrance et au temps que ces pensées prennent, indépendamment de ce que le corps donne à voir."
+        },
+        {
+          "heading": "Garder la main sur ce qui devient public",
+          "text": "Le groupe peut avoir besoin d’un aperçu du trajet pour s’organiser. Victoire a une proposition précise qui répond à ce besoin et lui permet de choisir comment elle apparaît. Elle décide séparément si son prénom accompagne la carte. Lila peut lui demander ce qu’elle souhaite et accepter la réponse sans ouvrir une discussion sur son corps. Une photo refusée peut avoir des raisons très diverses. Dans le suivi, Victoire pourra revenir sur ce que ce moment a suscité chez elle, y compris si le groupe a respecté son choix. Ce qui l’inquiète à propos de l’apparence mérite d’être discuté pour le poids que cela prend dans sa vie. L’accord sur la photo règle une question concrète à laquelle Lila peut réellement répondre."
+        }
+      ],
+      "ending_title": "La carte porte son prénom",
+      "ending": "Victoire accepte que son prénom figure sous le plan. Sur le chemin du retour, elle repense encore à son manteau avant de se rappeler la vitrine que Manu avait regardée. Elle voudrait marquer l’endroit exact où se forme la décision de tourner. Elle promet d’envoyer la version corrigée à Lila après son rendez-vous du mardi et photographie le portail depuis le trottoir.",
+      "mirror": [
+        "Lila peut poser une question simple avant d’envoyer la photo. « Tu es d’accord pour le plan seul et pour que j’ajoute ton prénom ? » Si Victoire change d’avis, elles peuvent regarder ce que le groupe a besoin de voir et s’accorder sur une autre image. Un commentaire destiné à la rassurer sur sa silhouette ramènerait la conversation à ce qui lui pèse déjà."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie"
+      ],
+      "continuity": {
+        "choice": "Victoire choisit une photo du plan seul avec son prénom et note le repère donné par Manu.",
+        "next": "Mardi, elle apporte en consultation la crise de la veille du lundi et ce qui se passe ensuite, avant d’envoyer le plan."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "victoire-repetition-compensations",
+      "title": "Pourquoi parler des compensations quand les crises reviennent",
+      "description": "En consultation, Victoire décrit ce qui suit les crises. Le suivi tient compte des compensations et de ce qu’elles changent pour elle.",
+      "context": "rendez-vous avec la médecin qui coordonne le suivi de Victoire",
+      "topics": [
+        "Conduites compensatoires",
+        "Peur de prendre du poids",
+        "Évaluation du retentissement"
+      ],
+      "clinical_focus": "Crises et compensations répétées",
+      "clinical_intro": "Victoire avait prévu de raconter une crise et d’écourter la consultation. Quand la médecin lui demande ce qui se passe ensuite, elle hésite à parler de ses compensations. Leur répétition et la peur de prendre du poids qu’elles cherchent à apaiser aident à comprendre la boulimie nerveuse. Mettre cette suite en mots permet de discuter de ses conséquences et d’adapter le suivi.",
+      "opening": "Victoire pose le plan plié sur sa cuisse. Elle avait prévu de le corriger dans la salle d’attente, mais elle a seulement effacé un trait de crayon près de la gare. La docteure Benali connaît le diagnostic et a déjà organisé le suivi avec Nora, psychologue du service. Elle lui demande ce qui lui est resté de la dernière crise. Victoire lui dit qu’elle avait envie de s’interrompre et ne savait plus comment reprendre ce qu’elle faisait. La médecin attend, puis lui demande comment elle s’est sentie ensuite.\n\nVictoire a la réponse la plus courte sur le bout de la langue. Elle pourrait dire que le lendemain elle a travaillé, ce qui est vrai. Elle se rappelle pourtant que la crainte de prendre du poids s’était installée avec une telle force qu’elle avait cherché à compenser, comme à d’autres moments dont elles avaient déjà parlé. Cela lui avait donné l’impression de régler une chose pressante. Après, elle avait surtout peur d’en parler. « Il y a eu les compensations aussi. Je pensais ne vous raconter que la crise. » Elle laisse la phrase sur la table. La docteure Benali ne baisse pas la voix comme si une autre personne pouvait entendre derrière la porte. Elle demande ce que Victoire remarque de son état physique et combien la peur continue de peser après un épisode. Victoire déplie le plan par erreur en cherchant son téléphone. Elle découvre qu’elle a dessiné le portail sur la marge de sa liste de questions.",
+      "sections": [
+        {
+          "heading": "Ce que la compensation change dans l’évaluation",
+          "text": "Après une crise, certaines personnes ressentent une pression forte pour contrebalancer ce qu’elles redoutent pour leur poids. Dans la boulimie nerveuse, les comportements compensatoires inappropriés se répètent et font partie de ce que l’équipe évalue, avec la perte de contrôle, les préoccupations liées au corps et la souffrance ou le retentissement. L’hyperphagie boulimique comprend aussi des crises récurrentes avec perte de contrôle. L’évaluation y retrouve un autre tableau, sans la répétition des compensations qui caractérise la boulimie nerveuse. Les soignants examinent aussi la possibilité d’autres troubles, dont certaines formes d’anorexie mentale qui comportent des crises et des compensations. Chez Victoire, dire ce qui suit l’épisode aide à préciser ce qu’elle traverse et à parler de conséquences que le seul récit du repas aurait laissées de côté."
+        },
+        {
+          "heading": "Laisser une place à ce qui était difficile à dire",
+          "text": "L’impression de reprendre la main peut compter dans la répétition du comportement. Pour Victoire, la pression baisse brièvement et une autre inquiétude apparaît, celle de devoir dissimuler ce qui vient de se passer. La consultation peut suivre cet enchaînement avec elle, sans entrer ici dans les pratiques qui la mettent en difficulté. Son équipe peut évaluer son état physique, reprendre le calendrier du suivi et explorer avec elle les moments où elle souhaiterait un soutien. Selon la HAS, la prise en charge articule les dimensions médicale, psychologique, nutritionnelle et sociale. La docteure Benali lui demande quel point elle aimerait transmettre à Nora et quel sujet elle préfère aborder elle-même. Victoire propose que la médecin leur rappelle qu’elle a enfin parlé de l’après-crise."
+        }
+      ],
+      "ending_title": "Le portail dessiné à côté des questions",
+      "ending": "En sortant, Victoire s’assoit dans le couloir pour envoyer le plan à Lila. Elle déplace la flèche vers la vitrine, puis garde son téléphone ouvert. Elle voudrait dire à Lila qu’elle est suivie et lui demander ce qu’elle peut attendre d’une conversation. Elle lui propose de s’asseoir le lendemain près de la boutique, à la pause de midi. Dans son carnet, elle note l’accord sur ce que la docteure Benali transmettra à Nora.",
+      "mirror": [
+        "Lila peut dire qu’elle a un moment pour se poser avec Victoire. Si l’invitation débouche sur une confidence, elle peut lui demander quelle part elle a envie de raconter aujourd’hui. « Tu veux que je t’écoute ou qu’on parle de ce que je peux faire ? » Elle laisse à Victoire le choix des mots. Les questions de santé peuvent être reprises avec l’équipe qui la connaît."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire décrit à la médecin les compensations répétées, convient de la transmission à Nora et invite Lila à parler le lendemain.",
+        "next": "À la pause du mercredi, elle choisira ce qu’elle veut dire à Lila et ce qu’elle lui demande concrètement."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "victoire-dire-boulimie-a-une-amie",
+      "title": "Sortir du secret avec une demande qu’une amie peut entendre",
+      "description": "Victoire décide de nommer la boulimie à Lila et lui explique quels commentaires rendent leurs rencontres plus difficiles.",
+      "context": "une pause de midi sur un banc près de la boutique",
+      "topics": [
+        "Secret autour du trouble",
+        "Soutien choisi",
+        "Commentaires sur le corps"
+      ],
+      "clinical_focus": "Peur du jugement et confidence choisie",
+      "clinical_intro": "Victoire veut parler à Lila de la boulimie qu’elle lui cache. Elle redoute qu’à partir de là chaque repas ensemble devienne une épreuve commentée. La honte et l’anticipation du regard peuvent prolonger le secret autour des troubles alimentaires. Elle tente une demande limitée à leur relation et découvre ce que Lila peut en entendre.",
+      "opening": "À la pause du mercredi, Lila a choisi le banc d’où elles voient les bus s’arrêter devant la boutique. Elle raconte qu’une personne du groupe voudrait ajouter une côte au rallye. Victoire lui demande si cette personne est déjà rentrée seule avec un vélo dont le frein frotte. Lila rit, puis regarde le bout de papier que Victoire retourne entre ses doigts. « Tu voulais me dire autre chose ? »\n\nVictoire avait écrit le nom du trouble avant de partir, par crainte de finir avec une longue explication dont le mot manquerait. Elle a surtout envie que Lila la croie quand elle lui dit qu’une rencontre l’intéresse encore. Au marché, elle a aimé voir Manu trouver l’entrée de la rue. Depuis, elle redoute le prochain repas du groupe et la conversation que quelqu’un pourrait lancer sur les silhouettes. Elle s’attend déjà à devoir répondre avec légèreté. « Je suis suivie pour une boulimie nerveuse », dit-elle. Le bus arrive en soufflant et elle se demande si Lila l’a entendue.\n\nLila ouvre la bouche. Victoire se prépare à entendre qu’on ne l’aurait jamais deviné. Son amie demande ce que Victoire veut qu’elle sache. Victoire remet le papier dans sa poche. Elle lui dit qu’il y a des crises et qu’elle peut avoir très honte ensuite, même quand elle arrive à travailler. Pour commencer, elle aimerait que leurs rencontres restent des moments où personne n’a besoin de commenter son corps ou ce qu’elle mange. Lila regarde passer le bus et réfléchit avant de lui répondre.",
+      "sections": [
+        {
+          "heading": "L’anticipation du regard peut entretenir le secret",
+          "text": "La honte peut conduire à taire un épisode ou à organiser sa journée pour que personne ne voie sa détresse. Une personne peut tenir ses engagements avec un effort considérable et s’attendre à être jugée si elle raconte ce que cela lui coûte. Dire le nom du trouble peut alors représenter un risque relationnel. Victoire craint que Lila examine chaque geste au repas et change de sujet lorsqu’elles auraient parlé du rallye. Les recommandations de la HAS invitent à écouter la souffrance, à accorder de l’attention à la façon d’en parler et à tenir compte du rôle choisi pour l’entourage. La silhouette de Victoire ne renseigne pas Lila sur ce qui se passe. Lila peut prendre au sérieux les mots que son amie décide de lui confier."
+        },
+        {
+          "heading": "Trouver un accord que les deux personnes peuvent tenir",
+          "text": "Une confidence peut servir à obtenir un changement très concret dans la relation. Victoire veut retrouver des conversations où sa présence compte pour des raisons ordinaires. Elle peut préciser que la confidence lui appartient et indiquer ce qu’elle voudrait si le groupe commence à commenter les corps. Lila répond qu’elle pourra changer de sujet quand elle est là et qu’elle ne saura pas toujours reconnaître un moment difficile. Cette réponse lui donne une limite et un point d’appui. Les questions sur les soins restent disponibles auprès de l’équipe de Victoire. Si celle-ci souhaite y inviter son amie plus tard, elle pourra en discuter d’abord avec elle et préciser ce qu’elle voudrait partager dans ce cadre."
+        }
+      ],
+      "ending_title": "Une phrase qui peut tenir sur un banc",
+      "ending": "Lila dit qu’elle gardera la conversation entre elles. Elle demande si « on revient au trajet ? » conviendrait quand le groupe parle des silhouettes. Victoire préfère cette phrase à un signe dont il faudrait se rappeler le sens. Elles reviennent à la côte. Sur le plan, Victoire indique l’alternative qui permet de la contourner, puis regarde s’il lui reste assez de temps pour rapporter les clés à Idriss.",
+      "mirror": [
+        "Lila peut répondre « Merci de me l’avoir dit. Je peux éviter les commentaires et revenir au trajet si tu en as envie. » Elle demande ce que Victoire veut garder privé et ce qu’elle attend d’elle en groupe. Si elle a besoin de réfléchir, elle peut le dire. Elle pourra aussi continuer à proposer des sorties qui ont du sens pour elles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire annonce à Lila sa boulimie nerveuse et demande un soutien relationnel précis, avec confidentialité.",
+        "next": "Elle retrouve son frère Simon le dimanche pour une soirée de disques et doit décider quoi lui dire après une journée difficile."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "victoire-honte-et-rendez-vous-annule",
+      "title": "La honte après une crise et le rendez-vous qu’on s’apprête à annuler",
+      "description": "Avant une soirée de musique, la honte pousse Victoire à s’isoler. Elle cherche ce qu’elle veut dire à son frère et à son équipe.",
+      "context": "un dimanche soir, avant d’écouter des disques avec son frère Simon",
+      "topics": [
+        "Honte après une crise",
+        "Isolement relationnel",
+        "Reprendre contact"
+      ],
+      "clinical_focus": "Honte et retrait après une crise",
+      "clinical_intro": "Après une crise, Victoire s’apprête à annuler une soirée avec son frère. La honte lui fait imaginer qu’il verrait toute sa journée à sa façon d’arriver. Dans la boulimie nerveuse, la souffrance qui suit les épisodes peut déborder sur des liens auxquels la personne tient. Victoire cherche une manière de répondre à son frère sans devoir lui faire le récit de sa journée.",
+      "opening": "Le dimanche, Simon envoie une photo de la pochette qu’il a retrouvée chez eux. Victoire reconnaît les grands traits orange, ceux qui passent sur le visage du saxophoniste. Elle a dans son sac le disque qu’ils devaient comparer avec celui-ci. Elle le prend chaque fois qu’ils prévoient cette soirée, puis le laisse dans l’entrée parce qu’il fait partie des choses qu’elle peut encore remettre. Aujourd’hui, elle était prête à partir avant la crise. En voyant la photo, elle pense au moment où elle avait voulu s’interrompre. Elle a honte de se rappeler combien elle tenait à cette soirée quelques heures plus tôt et comme cette envie lui paraît fragile maintenant.\n\nElle écrit à Simon qu’elle a un problème à la boutique. Il demande s’il peut venir la chercher. Victoire s’aperçoit qu’elle a donné à son frère une raison qui l’amène à chercher une solution, alors qu’elle avait surtout peur qu’il la voie. Elle imagine que s’il venait à la porte, il reconnaîtrait aussitôt ce qu’elle n’a pas dit. Elle lit son message à voix basse. Simon lui demande seulement où elle est. Il ignore le diagnostic. Elle efface la réponse où elle allait lui demander de la laisser tranquille. « Je suis chez moi. J’ai eu une journée difficile et je préfère écourter un peu. Tu as envie que je vienne quand même ? » Elle remet le disque dans son sac et laisse l’écran sur la table.",
+      "sections": [
+        {
+          "heading": "La honte peut changer la façon de lire un message",
+          "text": "Les crises de boulimie sont souvent vécues avec une détresse qui persiste ensuite. La honte peut colorer l’idée que l’on se fait de soi et de ce que les autres vont remarquer. Victoire imagine un jugement à partir d’une offre de trajet. Elle voudrait pouvoir écouter Simon sans repasser son dimanche dans sa tête. Dans les difficultés alimentaires, le retentissement social peut commencer par ces choix discrets de se cacher, d’annuler ou de se montrer disponible malgré l’effort demandé. Une personne peut aussi préférer du calme après une journée éprouvante. Ce qui intéresse le suivi, c’est la manière dont l’isolement ou les justifications prennent de la place au fil du temps et ce que la personne aimerait retrouver."
+        },
+        {
+          "heading": "Dire l’effet du jour avant de décider de tout raconter",
+          "text": "Victoire a plusieurs questions distinctes. Elle cherche ce qu’elle a envie de faire ce soir, ce que Simon a besoin de savoir pour s’organiser et ce qu’elle souhaiterait reprendre avec son équipe. Dire que sa journée a été difficile lui permet de corriger le message sans révéler plus qu’elle ne veut. Simon a aussi le choix de garder la soirée ou de proposer une autre date. Le lendemain, Victoire pourra dire à Nora que l’envie d’annuler revient parfois avant même d’avoir lu la réponse de quelqu’un. En consultation, ce détail aide à parler du coût de la honte et des choix qu’elle réduit. L’équipe pourra examiner avec elle ce qui se passe dans d’autres situations et déterminer les appuis adaptés."
+        }
+      ],
+      "ending_title": "Écouter le premier morceau",
+      "ending": "Simon répond qu’elle peut venir pour écouter le premier morceau et repartir quand elle veut. Il a encore envie de retrouver les deux versions. Victoire marche jusqu’à chez lui avec le disque sous le bras. Quand il lui ouvre, elle lui montre la déchirure de sa pochette et lui demande s’il se souvient du jour où ils l’ont achetée. Elle gardera la question du premier message pour Nora.",
+      "mirror": [
+        "Simon peut répondre à la proposition telle qu’elle est formulée. « Oui, j’ai envie qu’on écoute ce morceau ensemble. Je peux aussi te raccompagner si tu veux rentrer ensuite. » Si l’explication change, il peut demander si elle souhaite en parler. Il garde la possibilité de dire qu’une autre soirée lui conviendrait mieux. Leur plaisir pour la musique peut rester le sujet de la rencontre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie"
+      ],
+      "continuity": {
+        "choice": "Victoire corrige son prétexte et propose une soirée plus courte. Elle garde le diagnostic privé et choisit d’aborder l’isolement en consultation.",
+        "next": "Au rendez-vous suivant, elle apporte les messages et cherche avec Nora ce qui précédait la crise ainsi que ce qui suivait."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "victoire-emotions-avant-apres-crise",
+      "title": "Qu’est-ce qui se passe avant la crise quand on ne sait nommer que la honte ?",
+      "description": "En consultation, Victoire reprend ce qui se passait avant la crise et ce qui a suivi. Nora l’aide à séparer les moments de la journée.",
+      "context": "entretien de suivi avec Nora, la psychologue du service",
+      "topics": [
+        "Contexte d’une crise",
+        "Émotions et conduite alimentaire",
+        "Alliance thérapeutique"
+      ],
+      "clinical_focus": "Émotions avant et après une crise",
+      "clinical_intro": "Victoire apporte à Nora les messages qu’elle a failli envoyer à son frère. Elle se souvient surtout de la honte après la crise et hésite sur ce qu’elle éprouvait avant. Le suivi psychologique peut explorer les liens entre les circonstances, les émotions et la conduite alimentaire. Retrouver leur ordre aide Victoire à parler de cette journée sans lui imposer une cause unique.",
+      "opening": "Nora demande à Victoire si elle veut lui lire le message ou raconter comment elle l’a écrit. Victoire aimerait raconter. Elle lève son téléphone et voit que la conversation de dimanche est encore ouverte sur une photo de disque. Elle passe vite au moment où elle a eu honte, parce que celui-là lui paraît assez net pour ne pas avoir besoin de chercher. Elle se sentait en faute avant même d’avoir répondu à Simon. Quand Nora lui demande ce qui se passait avant la crise, Victoire hausse les épaules. « Je croyais que j’étais juste énervée. »\n\nLe samedi, à la boutique, un client lui avait parlé de l’itinéraire comme d’une promenade pour les gens qui ne savent pas se débrouiller. Elle n’avait pas été blessée pour les raisons qu’il imaginait. Elle se rappelait Manu devant le portail, cherchant où poser les yeux. Elle avait voulu lui dire qu’il y a du plaisir à pouvoir tourner sans se presser. Le dimanche, elle était restée à regarder ses messages professionnels au lieu d’appeler Simon pour régler leur soirée. Elle se souvient aussi qu’elle était fatiguée. Nora l’invite à revenir à ce qui précède de peu l’épisode. Victoire fait glisser sa manche et cherche si elle se rappelle une sensation ou une phrase. « J’avais envie que ça s’arrête, mais je ne sais plus quoi. » Elle attend que Nora lui donne un mot. Nora lui demande ce qu’elle voudrait comprendre à partir de cette réponse.",
+      "sections": [
+        {
+          "heading": "Reconstituer des moments pour ouvrir plusieurs questions",
+          "text": "La psychothérapie peut examiner les liens entre pensées, émotions et comportements alimentaires, avec une attention aux situations dans lesquelles ils se produisent. Un épisode peut suivre une journée chargée, et d’autres survenir dans des circonstances différentes. La honte qui vient après peut être l’émotion la plus facile à retrouver dans le souvenir. Le travail avec Nora porte ici sur l’ordre des événements et la place que Victoire donne à chacun. Elle peut reconnaître une irritation, de la fatigue et une anticipation du regard de son frère, sans devoir décider que l’une de ces choses explique tout. Nora peut lui demander de distinguer ce dont elle se souvient et ce qu’elle reconstitue. Les incertitudes sont des informations utiles pour choisir ce qu’il reste à explorer."
+        },
+        {
+          "heading": "Choisir une question utile pour la prochaine fois",
+          "text": "Victoire aimerait mieux reconnaître les moments où un engagement important commence à ressembler à une chose qu’elle devra cacher. Nora lui propose de retenir une situation dont elles pourront reparler, comme le passage entre la fermeture de la boutique et le retour chez elle. Elle lui demande aussi si la partie physique du suivi lui semble claire et si elle sait à qui poser une question qui l’inquiète. La docteure Benali garde le fil des soins avec elle. Victoire convient qu’elle préfère savoir à qui parler plutôt que d’essayer de retrouver chaque détail de sa semaine. Elle peut aussi reprendre avec Idriss la phrase qui l’a heurtée, si elle souhaite simplement réfléchir à la façon dont la boutique présente le rallye."
+        }
+      ],
+      "ending_title": "Le mot débutant sur le prospectus",
+      "ending": "Victoire garde une question pour le prochain rendez-vous sur le moment où elle rentre de la boutique. En repartant, elle relit le prospectus qu’Idriss veut lui montrer le jeudi après le travail. Elle voudrait garder le mot « débutant » et rendre sa promesse visible. On peut venir apprendre à s’orienter à son rythme. Elle lui envoie cette phrase et lui propose de la regarder ensemble quand ils fermeront.",
+      "mirror": [
+        "Quand un proche entend une confidence sur une crise, il peut demander « Qu’est-ce qui t’est le plus difficile à raconter aujourd’hui ? » Il laisse le choix de répondre et peut accueillir une hésitation. Il peut aussi dire quand il est disponible et proposer de reparler d’un rendez-vous si la personne le souhaite. La recherche des liens entre symptômes et émotions peut se faire avec le professionnel qui accompagne déjà la personne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire et Nora choisissent un moment de vie à explorer sans attribuer la crise à une seule émotion. Victoire propose un essai de prospectus à Idriss.",
+        "next": "Jeudi après le travail, Idriss est présent lorsque Victoire éprouve des symptômes physiques soudains."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "victoire-malaise-boutique",
+      "title": "Prendre le malaise au sérieux quand on craint de déranger",
+      "description": "Victoire se sent mal à la boutique. Idriss appelle les secours et rapporte ce qu’il observe pendant qu’elle explique ce qu’elle ressent.",
+      "context": "une fermeture de la boutique avec Idriss et un appel aux secours",
+      "topics": [
+        "Retentissement physique",
+        "Malaise et palpitations",
+        "Relais vers les secours"
+      ],
+      "clinical_focus": "Malaise physique et relais médical",
+      "clinical_intro": "À la fermeture, Victoire sent son cœur s’emballer et a un malaise. Elle voudrait d’abord terminer la conversation sur le prospectus. Une boulimie nerveuse peut avoir des conséquences physiques, et les soignants doivent apprécier chaque symptôme dans son contexte. Idriss appelle les secours dès qu’il comprend qu’elle se sent mal. L’épisode montre ce qu’il peut transmettre sans supposer une cause.",
+      "opening": "Le jeudi, Idriss demande à Victoire de lire le prospectus depuis la porte. Elle recule jusqu’au tapis et voit que « à son rythme » disparaît derrière le dessin de la roue. Elle allait lui demander de déplacer le titre quand elle sent son cœur battre soudain très vite. Le bord de l’affiche devient difficile à fixer. Elle s’appuie au comptoir et dit à Idriss qu’elle a des palpitations et qu’elle se sent mal. Le prospectus reste entre eux, à la hauteur où il le tenait pour lui demander son avis.\n\nIdriss le pose et appelle aussitôt le Samu. Victoire entend qu’il donne l’adresse et explique le moment où elle a dû s’appuyer. Quand la personne au téléphone demande si elle peut parler, il s’approche et lui tend le téléphone. Victoire dit ce qu’elle ressent. Elle allait ajouter qu’elle a sûrement juste besoin de rentrer, puis elle s’aperçoit qu’elle n’en sait rien. Elle écoute les questions et suit les indications qui lui sont données pendant qu’Idriss reste près d’elle. Il remet la clé dans la serrure du rideau sans fermer l’accès.\n\nQuand l’équipe envoyée arrive, Victoire demande à parler de son suivi à l’écart. Elle explique qu’elle est suivie pour une boulimie nerveuse et dit ce qu’elle peut des épisodes récents. Idriss indique aux intervenants à quel moment il l’a entendue lui demander de l’aide. La personne qui l’examine lui explique qu’ils vont la conduire pour une évaluation médicale.",
+      "sections": [
+        {
+          "heading": "Des signes physiques demandent une évaluation propre",
+          "text": "La boulimie nerveuse peut avoir des répercussions somatiques qui justifient un suivi médical, y compris quand l’entourage voit surtout une personne qui continue à travailler et à tenir ses rendez-vous. Un malaise accompagné de palpitations demande une évaluation urgente. L’Assurance Maladie indique de contacter les secours médicaux lorsque les palpitations s’accompagnent d’un malaise. L’équipe pourra examiner la situation et rechercher différentes causes. Victoire peut dire qu’elle est suivie pour un trouble alimentaire pour donner aux soignants une information utile. Ils regarderont les symptômes du moment et les éléments pertinents de son dossier. Dans la scène, la démarche se déclenche dès le malaise, alors qu’Idriss ignore le diagnostic et que Victoire n’a encore rien expliqué de ses crises."
+        },
+        {
+          "heading": "Donner les faits et suivre les indications reçues",
+          "text": "Idriss peut signaler ce qu’il voit, dire quand les symptômes ont commencé et permettre à Victoire de décrire ce qu’elle ressent si elle peut parler. Les secours lui indiquent quoi faire pendant l’attente. Le rôle du collègue tient à la situation immédiate et à l’aide qu’il peut réellement apporter. Une fois le relais pris, Victoire garde la possibilité de parler aux professionnels de ses informations de santé dans des conditions qui lui conviennent autant que la situation le permet. La suite du bilan et les éventuels liens avec la boulimie se décideront à partir de l’examen. Le prospectus peut attendre et Idriss peut demander plus tard à Victoire ce qu’elle souhaite transmettre concernant le travail."
+        }
+      ],
+      "ending_title": "Le prospectus reste contre la caisse",
+      "ending": "Victoire confie sa clé à Idriss avant de partir avec les intervenants. Elle lui dit qu’elle lui écrira quand elle saura si elle revient travailler comme prévu. Idriss laisse le prospectus contre la caisse et reste disponible pour ouvrir le passage. Victoire indique à l’équipe où se trouve le contact de la docteure Benali. Elle veut que son suivi spécialisé fasse partie de ce que les soignants pourront reprendre après le bilan.",
+      "mirror": [
+        "Quand des palpitations s’accompagnent d’un malaise, un proche peut appeler le 15 ou le 112 en France et suivre les consignes données. Idriss peut dire « Elle m’a signalé des palpitations et un malaise pendant que nous étions debout. Elle peut vous parler. » Il indique l’adresse et reste disponible pour guider les intervenants. La conversation sur le travail peut attendre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "ameli-palpitations-urgence"
+      ],
+      "continuity": {
+        "choice": "Idriss appelle les secours, Victoire décrit le malaise et transmet son suivi en privé à l’équipe qui la conduit pour une évaluation.",
+        "next": "Après le passage aux urgences, la médecin coordinatrice reprend le bilan et le suivi. Idriss ne connaît toujours pas le diagnostic."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "victoire-suivi-apres-malaise",
+      "title": "Quand on se sent mieux et qu’il reste des questions de santé",
+      "description": "Après un malaise, Victoire reprend le bilan avec sa médecin et distingue ce qui a été évalué aux urgences de la suite du suivi.",
+      "context": "consultation après l’évaluation aux urgences et retour sur la coordination des soins",
+      "topics": [
+        "Suivi physique",
+        "Coordination des soins",
+        "Reprise après un malaise"
+      ],
+      "clinical_focus": "Continuité du suivi physique",
+      "clinical_intro": "Victoire se sent mieux quand elle retrouve la docteure Benali. Elle hésite à parler de la peur qui lui est restée du malaise et des examens encore prévus. Dans la boulimie nerveuse, le suivi physique peut continuer après une évaluation urgente. La médecin reprend avec elle ce qui a été évalué et ce qui mérite d’être revu dans la durée.",
+      "opening": "À la consultation suivante, Victoire a plié le compte rendu de sortie en deux et l’a glissé sous la carte du rallye. Les urgences l’ont laissée rentrer après leur évaluation et lui ont indiqué de reprendre contact avec l’équipe spécialisée. Elle se sent mieux depuis. Dans la salle d’attente, elle s’est dit qu’elle pourrait surtout vérifier quand elle reprendra son horaire habituel à la boutique. Quand la docteure Benali lui demande ce qu’elle a retenu de la soirée, elle parle d’abord de la lumière du plafond et du bruit des portes.\n\nLa médecin lui demande si elle a reçu des consignes pour la suite. Victoire déplie le papier et retrouve les questions qu’elle a gardées pour elle. Elle se demande ce qu’elle devrait faire si les sensations reviennent et quels examens sont encore utiles. Elle se demande aussi ce qu’elle dira à Simon si elle doit déplacer leur prochaine soirée. Simon lui a juste envoyé le nom d’un morceau. Elle lui a répondu qu’elle voulait l’écouter avec lui, puis elle a remis le téléphone dans son sac.\n\nLa docteure Benali reprend avec elle les éléments transmis et vérifie comment elle se sent aujourd’hui. Victoire dit que le plus dur a été de prendre au sérieux ce qu’elle ressentait sans savoir l’expliquer. La médecin convient avec elle des points à revoir et d’un contact pour les questions entre les rendez-vous. En abordant le travail, Victoire découvre qu’elle veut surtout éviter d’être seule à la fermeture pendant les premiers jours de reprise. Elle préfère parler de cette organisation avec Idriss elle-même.",
+      "sections": [
+        {
+          "heading": "Reprendre la suite après le bilan urgent",
+          "text": "Une évaluation aux urgences répond d’abord aux symptômes présents et à la sécurité immédiate. Un suivi spécialisé peut continuer à aborder les risques physiques, l’état psychique et les effets du trouble dans la vie quotidienne. Selon la situation, les soignants vérifient notamment l’équilibre de certains sels minéraux ou le fonctionnement cardiaque, et proposent des examens adaptés. Victoire demande ce que le bilan permet de comprendre et quels points restent à suivre. Elle peut poser cette question même si les sensations se sont apaisées. Le trouble connu donne aux professionnels un contexte. Les conclusions sur le malaise et les décisions de suivi reposent sur leur évaluation, sur l’évolution et sur ce que Victoire leur décrit."
+        },
+        {
+          "heading": "Choisir ce que chaque personne a besoin de savoir",
+          "text": "La coordination permet à l’équipe de se transmettre des éléments utiles à la prise en charge. La docteure Benali explique à Victoire ce qu’elle propose de reprendre avec Nora et confirme avec elle le prochain contact médical. Pour la boutique, Victoire a une demande d’organisation et souhaite discuter avec Idriss de ce qui est possible. Elle peut lui dire qu’elle reprend un suivi après le malaise, et décider du niveau de détail qu’elle souhaite partager. Elle demande aussi à la médecin quelles activités et quels engagements sont adaptés pendant cette période. Lila saura seulement ce que Victoire lui dira pour organiser la prochaine réunion. Chacun peut ainsi répondre à une question à sa portée."
+        }
+      ],
+      "ending_title": "Ce que Victoire écrit à Idriss",
+      "ending": "Dans le couloir, Victoire écrit à Idriss qu’elle reprend son suivi et voudrait faire les prochaines fermetures avec quelqu’un. Elle propose d’en parler au début de leur prochain service. Puis elle répond à Lila, qui a proposé de réunir les bénévoles avant le rallye. Elle peut venir à la réunion et préfère confier à Manu la démonstration du départ. Elle glisse le compte rendu dans la poche intérieure de son sac.",
+      "mirror": [
+        "Idriss peut dire « Je peux prendre les prochaines fermetures avec toi et on vérifie ensuite ce qui est possible. » S’il a besoin d’un renseignement pour organiser le travail, il peut poser la question directement sans demander le détail des soins. Lila peut prendre en compte le relais choisi pour la démonstration. Victoire garde la possibilité de leur dire autre chose si elle en a envie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire convient d’une suite médicale, choisit de demander un aménagement temporaire à Idriss et confie la démonstration à Manu.",
+        "next": "À la réunion des bénévoles qui suit, elle veut présenter le plan et s’appuyer sur l’accord passé avec Lila si les commentaires deviennent difficiles."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "victoire-commentaires-autour-du-repas",
+      "title": "Quand les commentaires sur les repas rendent une rencontre plus difficile",
+      "description": "Au repas des bénévoles, une plaisanterie sur le corps détourne l’attention de Victoire. Elle demande à reprendre le sujet du rallye.",
+      "context": "réunion des bénévoles suivie d’un repas partagé dans la salle du quartier",
+      "topics": [
+        "Commentaires sur l’apparence",
+        "Anticipation du jugement",
+        "Participation à un repas partagé"
+      ],
+      "clinical_focus": "Pression du regard en groupe",
+      "clinical_intro": "Au repas des bénévoles, une plaisanterie sur l’apparence fait craindre à Victoire qu’on commente aussi son assiette. Les préoccupations corporelles peuvent déjà lui prendre beaucoup d’attention dans la boulimie nerveuse. Lila peut s’appuyer sur l’accord qu’elles ont trouvé, et Victoire choisit elle-même ce qu’elle souhaite demander au groupe. La rencontre garde un sujet qui compte pour elles.",
+      "opening": "Manu arrive avec une flèche en carton qu’il tient à l’envers. Il veut montrer comment partir du marché avec les gens qui n’ont encore jamais roulé avec le groupe. Victoire le laisse finir puis lui demande à quel endroit il vérifiera que les dernières personnes ont vu le signal. Il réfléchit un moment et désigne la sortie de la place. C’était ce qu’elle espérait entendre. Elle garde la partie où elle présente le plan et lui laisse faire la démonstration. Après la réunion, quelques bénévoles rapprochent les chaises pour rester manger dans la salle du quartier.\n\nVictoire parle encore à Manu quand une plaisanterie sur la silhouette de quelqu’un arrive de l’autre côté de la table. Elle attend aussitôt le moment où les regards vont passer d’une personne à l’autre. Elle calcule mentalement ce qu’elle pourrait dire si on lui pose une question sur ce qu’elle mange. Manu lui montre le passage étroit derrière la gare et elle s’aperçoit qu’elle lui a répondu oui à une question qu’elle n’a pas entendue. Lila croise son regard. Elle demande « On revient au trajet ? », comme elles en avaient convenu sur le banc.\n\nVictoire a envie de laisser Lila finir toute la conversation à sa place. Elle voit pourtant que Manu lui tient encore le plan ouvert et voudrait une réponse. « J’aimerais qu’on parle d’autre chose que des silhouettes », dit-elle. Elle déplace le plan vers la lumière pour retrouver le passage dont il parlait. Quelqu’un demande si on entend les annonces de la gare depuis cette rue. Elle a une réponse à lui donner.",
+      "sections": [
+        {
+          "heading": "L’attention peut basculer vers le regard des autres",
+          "text": "Dans la boulimie nerveuse, le poids ou la silhouette peuvent déjà prendre une place importante dans les pensées. Un commentaire, même adressé à une autre personne, peut rappeler à quel point on redoute les jugements sur le corps ou les repas. Victoire anticipe les questions et perd le fil de ce que Manu lui demande. Son expérience varie selon les situations. Elle pourrait aussi être contrariée par la plaisanterie pour elle-même, comme n’importe quel membre du groupe. L’équipe peut explorer comment ces moments pèsent sur sa participation, comment ils s’articulent avec les crises ou les compensations et quels appuis Victoire veut mettre en place. Lila peut répondre à l’accord précis qu’elles ont trouvé entre elles."
+        },
+        {
+          "heading": "Revenir à une conversation à laquelle chacun peut prendre part",
+          "text": "Lila reprend la phrase convenue et laisse à Victoire le choix de dire davantage. La remarque de Victoire porte sur le sujet de la conversation. Elle peut être entendue par le groupe sans expliquer le diagnostic. Les bénévoles peuvent poser des questions sur le rallye, se répartir la démonstration ou parler d’un autre sujet qu’ils choisissent ensemble. Un proche qui connaît le trouble peut aussi demander après coup comment la personne a vécu le moment. Une présence prévisible ou une conversation qui laisse de la place à autre chose peut compter pour Victoire. Les décisions sur l’alimentation et les soins restent à discuter avec l’équipe, qui peut aussi reprendre ce qu’un repas partagé lui coûte aujourd’hui."
+        }
+      ],
+      "ending_title": "La rue derrière la gare",
+      "ending": "Victoire se penche pour montrer l’endroit où le groupe pourra s’arrêter tout entier sans bloquer l’entrée du parking. Manu propose de faire un essai avec elle quand les organisateurs auront vérifié les autorisations. Lila lui demande en partant si la phrase qu’elles avaient choisie lui a convenu. Victoire dit oui et ajoute qu’elle était contente de pouvoir dire la suite elle-même. Elles se donnent rendez-vous pour plier les plans avant le rallye.",
+      "mirror": [
+        "Lila peut revenir au sujet comme convenu et écouter si Victoire veut formuler sa demande elle-même. Au moment de partir, elle peut dire « J’ai repris notre phrase. Est-ce que ça t’a convenu cette fois ? » Elle laisse la possibilité de changer d’accord. Avec le reste du groupe, une proposition de discussion sur le trajet suffit pour faire avancer la réunion sans exposer une confidence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Lila revient au trajet selon leur accord et Victoire demande au groupe de laisser les silhouettes de côté. Manu garde la démonstration du départ.",
+        "next": "Après des semaines plus stables, le pliage des plans approche. Victoire connaît un nouvel épisode de crise et décide comment en parler."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "victoire-reapparition-apres-periode-stable",
+      "title": "Quand une crise revient après des semaines plus stables",
+      "description": "Avant de plier les plans du rallye, Victoire reconnaît qu’une crise est revenue et reprend contact avec le service qui la suit.",
+      "context": "quelques jours avant le rallye, après une période plus stable",
+      "topics": [
+        "Réapparition des symptômes",
+        "Évolution variable",
+        "Maintien du lien avec les soins"
+      ],
+      "clinical_focus": "Retour des crises et continuité du soin",
+      "clinical_intro": "Victoire plie les plans avec Lila après des semaines plus stables. Une crise récente lui fait craindre d’avoir perdu ce qu’elle avait retrouvé. Dans la boulimie nerveuse, les symptômes peuvent s’atténuer puis redevenir plus présents. Parler de ce changement à l’équipe permet d’examiner ce qui se passe aujourd’hui et de décider quel appui reste possible pour le rallye.",
+      "opening": "Lila frappe à la porte avec le sac de plans que Victoire devait récupérer le matin. Elle a pensé qu’elles pourraient les plier ici et boire quelque chose après. Victoire se réjouit de la voir avant de se demander ce que son amie va remarquer. Pendant plusieurs semaines, les crises avaient moins occupé ses soirées et elle pensait moins à la manière dont son corps apparaîtrait le jour du rallye. Hier, elle a vécu un nouvel épisode avec perte de contrôle. Elle est restée avec l’impression d’avoir parlé trop vite à Nora la dernière fois, quand elle lui avait dit qu’elle retrouvait un peu de temps le soir.\n\nLila ouvre un plan sur la table et cherche dans quel sens faire apparaître la gare. Victoire lui indique le bord qui se plie sans recouvrir le portail bleu. Elle fait ensuite deux fois le même pli sur le même plan. Lila s’arrête et lui demande si elle veut continuer ou laisser le sac ici. Victoire lui répond qu’une crise est revenue hier et qu’elle a envie de s’arrêter après cette pile. Lila demande si elle veut aussi qu’elle reste. Victoire dit qu’elle préfère écrire au service pendant que son amie termine la pile qu’elle a devant elle. Elle ouvre le message où la docteure Benali lui avait indiqué comment reprendre contact entre les rendez-vous. Elle allait écrire « ça recommence ». Elle précise ce qui l’inquiète et demande à quel moment elles pourront en parler.",
+      "sections": [
+        {
+          "heading": "Replacer un épisode dans l’évolution du trouble",
+          "text": "La boulimie nerveuse peut évoluer de façon variable, avec des symptômes persistants chez certaines personnes et des périodes d’apaisement puis de réapparition chez d’autres. Un épisode peut être source de détresse et justifier d’en reparler en consultation, même si des changements utiles ont déjà eu lieu. L’équipe peut regarder ce qui a changé, la répétition éventuelle des crises ou des compensations, leurs conséquences et l’état physique de la personne. Elle peut reprendre les ressources qu’elle utilise et les difficultés auxquelles elle se heurte encore. Pour Victoire, le fait d’avoir connu des soirées plus libres reste un élément de l’histoire. Dire à Nora ce qui vient d’arriver lui permettra de décrire ce dont elle a besoin maintenant."
+        },
+        {
+          "heading": "Répartir ce qui peut être fait aujourd’hui",
+          "text": "Victoire peut demander à Lila de l’aider sur une tâche dont les contours sont visibles, comme finir le pliage ou emporter ce qui reste. Lila peut dire ce qu’elle a le temps de faire. Elle n’a pas à déterminer la gravité de la reprise des symptômes. Pour cette question, Victoire utilise le contact convenu avec l’équipe et sait que la situation sera évaluée avec elle. Elle veut garder la possibilité de venir dimanche et revoir sa part du travail selon ce qu’elles décideront. La date du rallye donne une échéance au groupe. Elle laisse aussi des choix que Victoire peut ajuster indépendamment du rendez-vous de soins, comme présenter le plan au départ ou rester à l’accueil."
+        }
+      ],
+      "ending_title": "Le sac des plans à moitié plein",
+      "ending": "Lila termine la pile et prend le reste du sac avec elle. Avant de partir, elle demande si Victoire veut qu’elle repasse samedi. Victoire lui propose de la retrouver à la salle pour installer l’accueil. Elle met de côté le plan sur lequel on voit le portail avant la flèche. Le lendemain, le service lui propose un créneau pour parler avec Nora.",
+      "mirror": [
+        "Lila peut accueillir la phrase sur le retour d’une crise et poser une question à laquelle Victoire peut répondre aujourd’hui. « Tu veux que je continue les plans ou que je les emmène ? » Si Victoire contacte son équipe, Lila peut rester près d’elle si elles en ont toutes les deux envie. Elle peut aussi proposer un autre moment pour se voir et garder la possibilité de partir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire dit à Lila qu’une crise est revenue, réduit le pliage et écrit au service avec le contact prévu. Un échange avec Nora est fixé.",
+        "next": "Après cet échange, elle prépare l’accueil du samedi et décide ce qu’elle veut expliquer à Simon avant le rallye."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "victoire-partager-suivi-et-garder-choix",
+      "title": "Partager le suivi avec son frère et garder le choix de sa place",
+      "description": "Simon veut savoir quoi faire pour aider Victoire. Elle précise ce qu’elle lui confie et la place qu’elle souhaite garder au rallye.",
+      "context": "préparation de l’accueil du rallye avec Simon et Lila, après un échange avec l’équipe",
+      "topics": [
+        "Implication des proches",
+        "Autonomie dans le suivi",
+        "Confidentialité choisie"
+      ],
+      "clinical_focus": "Place des proches et autonomie",
+      "clinical_intro": "Simon propose de remplacer Victoire à l’accueil du rallye. Elle apprécie l’offre et craint qu’il prenne en charge des décisions qu’elle veut garder. Quand l’entourage participe au soutien autour d’une boulimie nerveuse, chacun peut préciser ce qu’il souhaite transmettre et ce qu’il peut faire. Victoire choisit de parler à son frère du trouble et de lui proposer une aide concrète.",
+      "opening": "Le samedi, Simon apporte le porte-cartes qui était dans l’entrée chez eux. Il demande où poser les pinces pour que le vent n’emporte pas les plans. Victoire lui montre la table près de la porte. Elle avait proposé à Lila d’assurer l’accueil le dimanche et de laisser Manu montrer le premier carrefour. Elle a reparlé des épisodes récents à Nora et sait quand elle revoit la docteure Benali. Elle a gardé son choix pour dimanche, avec la possibilité de passer la main si elle en a besoin.\n\nSimon lui demande si elle a encore eu des problèmes à la boutique depuis leur soirée de disques. Il l’a trouvée fatiguée au téléphone et propose de tenir l’accueil tout seul. Victoire pense à la réponse qu’elle lui avait donnée quand elle avait voulu annuler. Elle voudrait lui dire pourquoi certaines soirées lui demandent plus d’effort, même si elle ne sait pas encore quelle conversation cela ouvrira. Elle demande à Lila de continuer à installer les pinces, puis emmène Simon près de la fenêtre. « Je suis suivie pour une boulimie nerveuse. C’est de ça que j’avais du mal à te parler ce dimanche-là. »\n\nSimon commence par demander ce qu’il doit faire. Victoire lui dit qu’elle souhaite tenir l’accueil elle-même et qu’elle lui demandera de la relayer si elle veut s’absenter. Il voudrait savoir ce qu’il pourrait dire à quelqu’un qui lui demanderait des nouvelles. Elle réfléchit et lui répond qu’elle préfère garder le nom du trouble entre eux.",
+      "sections": [
+        {
+          "heading": "Faire de la place aux questions de chacun",
+          "text": "La HAS recommande de tenir compte de l’entourage dans l’accompagnement quand sa participation peut se discuter avec la personne. Un adulte peut choisir la part qu’il souhaite lui faire connaître et revenir sur cet accord. Les proches peuvent avoir envie de faire tout de suite quelque chose, surtout s’ils découvrent une difficulté qui dure. Simon propose de remplacer sa sœur parce qu’il voit une tâche concrète qu’il pourrait prendre. Victoire comprend son intention et garde la possibilité d’accepter une partie de l’offre. Elle pourra aussi parler avec Nora de ce que le partage change pour elle. Le rôle de Simon dans le rallye et le rôle que Victoire voudrait lui donner dans la suite des soins sont des décisions qu’ils peuvent prendre séparément."
+        },
+        {
+          "heading": "Donner un appui précis plutôt que s’engager à tout prendre en charge",
+          "text": "Une proposition peut préciser à quel moment et sur quoi le proche est disponible. Simon peut tenir l’accueil pendant une pause et annoncer à Victoire s’il doit partir. Victoire peut dire quand elle voudrait lui transmettre une question sur sa santé ou lui demander une présence à un rendez-vous, si cette idée lui convient plus tard. Le service reste le bon interlocuteur pour évaluer les symptômes et décider de la suite. Sur le moment, Simon veut savoir ce qu’il peut dire au groupe. Il pourra dire que Victoire tient l’accueil et qu’il la relaye pendant les pauses. L’échange laisse aussi de la place à leur relation de frère et sœur. Ils peuvent décider de reparler du disque qu’ils n’ont pas encore écouté ensemble."
+        }
+      ],
+      "ending_title": "La pince reste à droite du porte-cartes",
+      "ending": "Simon dit qu’il sera disponible au départ et qu’il pourra tenir l’accueil un moment si elle en a envie. Victoire lui montre où ranger la pince dont elle se sert d’une seule main. Elle rejoint Lila pour fixer au mur le plan que Manu présentera. Avant de partir, Simon lui demande si elle a encore sa version du morceau de dimanche. Elle répond qu’elle la lui apportera une autre fois.",
+      "mirror": [
+        "Simon peut dire « J’ai envie de comprendre comment je peux t’aider. Est-ce que le relais de demain te convient ? » Il peut demander ce que Victoire souhaite garder privé, puis reprendre une conversation ordinaire si elle en a envie. S’il a besoin de parler de ses inquiétudes, il peut chercher un appui pour lui-même et respecter les informations qu’elle lui a confiées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire nomme sa boulimie à Simon en privé, garde son rôle à l’accueil et choisit avec lui un relais ponctuel et un accord de confidentialité.",
+        "next": "Dimanche, Manu montre le départ et Victoire accueille le premier groupe. Simon peut la relayer si elle le lui demande."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "victoire-retrouver-place-apres-rallye",
+      "title": "Ce qu’on retrouve dans sa vie même quand le suivi continue",
+      "description": "Le jour du rallye, Victoire voit son trajet prendre vie. Elle décide à quoi elle souhaite encore contribuer et garde son prochain rendez-vous.",
+      "context": "le premier rallye urbain et les choix de Victoire pour la suite",
+      "topics": [
+        "Évolution du trouble",
+        "Reprise des activités choisies",
+        "Objectifs de suivi"
+      ],
+      "clinical_focus": "Reprise de place dans la vie quotidienne",
+      "clinical_intro": "Victoire entend un participant dire qu’il a pu trouver la rue derrière la gare sans se presser. Elle se réjouit et s’aperçoit qu’une inquiétude autour de son corps revient encore quand le groupe propose une photo. Le suivi d’une boulimie nerveuse tient compte de la santé et de ce que la personne veut retrouver dans sa vie. Ici, les deux questions ont encore une place.",
+      "opening": "Le dimanche, Victoire tend un plan à une femme qui a mis le guidon de son vélo contre sa hanche pour pouvoir déplier le papier. Elle lui demande d’où elle arrive. La femme montre la gare et lui dit qu’elle avait oublié la façon dont le marché ouvre sur deux rues. Manu lève sa flèche à la sortie de la place et attend que les dernières personnes la voient. Victoire le regarde, puis entend quelqu’un revenir vers la table. Il avait pu trouver le passage derrière la gare sans se presser. Elle lui demande quel repère l’a aidé. Il montre la vitrine qu’elle avait failli effacer du dessin.\n\nQuand le groupe se rassemble, quelqu’un propose une photo. Victoire sent revenir l’envie de regarder de quelle façon elle se tient. Elle voudrait que Simon lui dise où se mettre et s’entend presque lui poser la question. Elle se souvient qu’il peut prendre l’accueil un moment. Elle lui fait signe, lui confie les plans et sort jusqu’au trottoir avec Lila. Elle lui demande si elle a entendu ce que le participant a dit de la vitrine. Lila s’en souvient et propose de garder cette remarque pour la réunion de la semaine prochaine.\n\nVictoire revient vers l’entrée. Le groupe l’invite à préparer un autre parcours. Elle veut bien apporter ses notes sur celui-ci. Elle regarde la table, où son frère a laissé la pile du bon côté. Elle répond qu’elle décidera plus tard de la part qu’elle veut prendre dans le prochain rallye.",
+      "sections": [
+        {
+          "heading": "Tenir compte de ce qui compte pour la personne",
+          "text": "Les objectifs d’une prise en charge de la boulimie nerveuse peuvent inclure la réduction des crises et des compensations, l’état physique et psychique, et ce qui redevient possible dans les relations ou les activités. Pour Victoire, accueillir des débutants et entendre leur retour ont un sens qui dépasse la journée de soins. Elle peut apprécier ce moment et avoir encore des préoccupations corporelles. Une activité reprise peut donner à la consultation des exemples concrets de ce qui l’aide ou de ce qui lui coûte de l’effort. Les soignants poursuivent l’évaluation du trouble et de son évolution avec elle. Une journée qui se passe bien fait partie de ce récit, au même titre que les difficultés qui restent à aborder."
+        },
+        {
+          "heading": "Garder des choix pour les prochaines semaines",
+          "text": "Victoire se donne du temps avant d’accepter une nouvelle responsabilité. Elle sait qu’elle peut demander à Lila de reparler de la photo, de la réunion et du relais dont elle a eu besoin. Elle a également un prochain rendez-vous, où elle voudrait reprendre ses préoccupations autour du corps, l’évolution des crises et les questions de suivi physique convenues après le malaise. Ces sujets peuvent être discutés avec des personnes différentes. Simon peut lui dire ce qu’il a aimé en tenant l’accueil et garder ses propres projets. Victoire peut choisir ce qu’elle apporte au groupe et ce qu’elle garde pour sa consultation. Le premier trajet est terminé. La suite de ses soins se construit avec l’équipe."
+        }
+      ],
+      "ending_title": "La vitrine reste sur la carte",
+      "ending": "Victoire range le porte-cartes et glisse son plan dans son sac avec le disque qu’elle voulait faire écouter à Simon. Elle note le repère de la vitrine pour la réunion et envoie à Lila le moment où elle pourra venir présenter leurs observations. Elle repense à la photo et garde cette question pour Nora. Simon lui demande s’ils ont le temps d’écouter le morceau en rentrant. Elle aimerait surtout entendre comment il se termine.",
+      "mirror": [
+        "Lila peut demander à Victoire quel retour elle veut conserver sur le trajet et lui laisser choisir si elle se propose pour la suite. Simon peut dire « J’ai aimé voir le groupe partir. On écoute notre disque en rentrant ? » Si Victoire veut reparler du soutien qu’ils ont convenu, ils peuvent choisir un moment. Leur après-midi peut contenir aussi des choses qu’ils ont simplement envie de partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-boulimie",
+        "has-soins-coordonnes"
+      ],
+      "continuity": {
+        "choice": "Victoire termine le premier rallye, demande un relais ponctuel et propose de transmettre ses observations sans accepter d’avance un nouveau rôle.",
+        "next": "La réunion de retour et les rendez-vous de soins sont prévus séparément. Victoire retrouve Simon pour écouter leur disque."
+      }
+    }
+  ]
+}

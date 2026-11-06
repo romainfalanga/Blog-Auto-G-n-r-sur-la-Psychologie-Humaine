@@ -1,0 +1,43 @@
+{
+  "references": {
+    "has-alcool": {
+      "title": "HAS, agir en premier recours pour diminuer le risque alcool",
+      "url": "https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne"
+    },
+    "nice-dependance-alcool": {
+      "title": "NICE CG115, évaluation et prise en charge de la dépendance à l’alcool",
+      "url": "https://www.nice.org.uk/guidance/cg115/chapter/Recommendations"
+    },
+    "nice-complications-alcool": {
+      "title": "NICE CG100, évaluation et soins en cas de sevrage aigu d’alcool",
+      "url": "https://www.nice.org.uk/guidance/cg100/chapter/recommendations"
+    },
+    "service-public-samu": {
+      "title": "Service Public, numéros d’urgence médicale en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    }
+  },
+  "dossier": {
+    "name": "Dépendance à l’alcool",
+    "aliases": [
+      "Alcoolodépendance",
+      "Addiction à l’alcool",
+      "6C40.2"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-alcool",
+      "nice-dependance-alcool",
+      "nice-complications-alcool",
+      "service-public-samu"
+    ],
+    "points": [
+      "Le CDDR situe la dépendance dans la difficulté durable à réguler une consommation récurrente. Les professionnels examinent la maîtrise du début ou de la fin, la priorité qui prend de la place et la poursuite malgré les conséquences, ainsi que les éventuels signes d’adaptation physiologique. Les trois dimensions ne sont pas toutes présentes chez chaque personne.",
+      "La dépendance peut s’inscrire dans un usage continu ou épisodique. Le contexte, les conséquences et l’histoire personnelle rendent compte de la trajectoire. Les dommages et les risques méritent une attention même lorsque la dépendance n’est pas établie. L’expression trouble de l’usage de l’alcool couvre un cadre clinique plus large et son emploi dépend de la classification.",
+      "La tolérance concerne un effet moins marqué pour une consommation comparable. Le sevrage survient après une diminution ou un arrêt et demande d’envisager d’autres causes possibles. Une diminution brusque peut être dangereuse en cas de dépendance, notamment après une consommation importante et prolongée. L’équipe médicale évalue la nécessité et le cadre des soins. En France, un malaise avec confusion aiguë justifie un recours au 15 ou au 112.",
+      "La HAS recommande des échanges précoces, sans jugement, et une articulation des ressources sanitaires, psychologiques et sociales. NICE distingue l’évaluation du risque de sevrage, le suivi somatique et psychologique, le choix du cadre de soin et l’accompagnement des reprises. Le traitement et ses objectifs se discutent avec la personne.",
+      "Les appuis peuvent inclure une personne choisie, si chacun accepte le rôle envisagé. Une envie forte peut être liée à une situation reconnaissable et donner de la matière à la consultation. Après une reprise, l’équipe réévalue la situation présente et peut réviser le plan. Une amélioration durable s’apprécie dans le temps."
+    ]
+  },
+  "direction": "Éric a 52 ans et parle volontiers d’un geste de cuisine pour dire ce qu’il ne sait pas encore formuler. Mélissa travaille avec lui. Joëlle, sa sœur, peut se mettre en colère quand un engagement tombe et demander une réparation concrète. Pascal, ami de l’ancienne fanfare, accepte un soutien limité. Gérald coordonne le repas du village. Éric prépare une partie du repas puis rejoint un coin d’écoute de témoignages enregistrés, qu’il souhaite animer. Au fil de plusieurs mois, le récit garde la cuisine et l’écoute comme activités auxquelles il tient. Une reprise après une période d’amélioration conduit à une consultation puis à un relais médical urgent devant une confusion soudaine dont l’origine reste à évaluer. Aucune quantité consommée ni méthode de sevrage ne figure dans les épisodes. Le diagnostic est établi avant l’ouverture et la suite des soins reste visible après la résolution du projet."
+}

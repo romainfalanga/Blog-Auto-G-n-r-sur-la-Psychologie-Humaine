@@ -212,6 +212,48 @@
       "sha256": "92ab495ad7e856795f25285601e5c96088e571429ab7aaf40f2ec627507cfe4b",
       "dossier_sha256": "260c7a1cb2f1a70827092e0797a0501a104fda9e8d8fecf2a86dfff40f39bf5f",
       "review": "Vague 8. Les réservations, l’essai du registre, le double et le suivi avec Farah sont raccordés. Les faits vérifiables du club, le ressenti de Gasparde et l’évaluation par les professionnels sont distingués. Révision pédagogique. Distinction entre problème réel au club, conviction persistante, vécu et évaluation clinique."
+    },
+    "renaud": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "db1d50cc44edc2941aa579e5cca50328a3c1346cfd2197f76113c5764a17bc32",
+      "dossier_sha256": "3de15e24b086ca0708f0f9e0261d9fd7dbc914a30e6e1331933f2c5c472df710",
+      "review": "Le diagnostic DSM-5-TR et la distinction avec le modèle CIM-11 sont explicites. Besoin d’admiration, sensibilité à la critique, responsabilité, limites des proches et raccords de l’hiver à l’automne vérifiés."
+    },
+    "victoire": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "e90fecabc9e1eca5fc32338e47ef0d9833806242d554c9fcaa762acc0b2d3ab5",
+      "dossier_sha256": "29f8782fc0895b076c08d3999935ce249ab2803db52be55f5da7a8705967157c",
+      "review": "Perte de contrôle, compensations, image du corps et secret distingués. Relais médical après palpitations avec malaise, réapparition des crises et choix de partage vérifiés jusqu’au rallye."
+    },
+    "morgane": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "875019a0f8f28d5551c2014ae0d688dfff954f7c39a153bec5c02697d9a4906e",
+      "dossier_sha256": "0b4d3c9a1512a48d0733b5972e48cd52eba03ea195e33221c02ad27f37712df6",
+      "review": "Retentissement, perte de contrôle, appétit et différences avec la boulimie vérifiés. Relais, limites de soutien et accords de confidentialité cohérents jusqu’à la matinée publique."
+    },
+    "joachim": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "2c7331f0ab9097074e0657b3cf3ca26266fef400b5e09c2e9334c07a8aeb4492",
+      "dossier_sha256": "3ff4a6743f18a8002b543c76f98c7075c18c84112acadb59d632cbec10a1d813",
+      "review": "Crainte de manquer d’aide ou de ne pas pouvoir sortir distincte de la panique et d’une peur ciblée. Obstacles d’accessibilité, confidentialité, décisions de soins et rôle des proches vérifiés."
+    },
+    "thais": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "a045c2b0e0476831a5cb0df32b03458fddee57c19bb109323426a80640f1a53c",
+      "dossier_sha256": "0528cf38fb5eb1cb6f709b427af2a3bad100dd864881a25acc737b06053794e6",
+      "review": "Peur des hauteurs, évitement, sécurité réelle et retentissement au travail distingués. Soutien et suivi choisis avec une continuité vérifiée jusqu’à la publication de la carte."
+    },
+    "eric": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "42150e0d5f7694c3623307ca8713fdf360289292901be7823551021a21b726a6",
+      "dossier_sha256": "d56dd23a79a7bca240f111dfc25a5682742c31a86b22adbb9965a0c389e41be2",
+      "review": "Envie, perte de maîtrise, tolérance et sevrage distingués. Le relais urgent face à une confusion laisse l’évaluation à l’équipe. Soutien, reprise des soins et déroulement du repas relus."
     }
   }
 }

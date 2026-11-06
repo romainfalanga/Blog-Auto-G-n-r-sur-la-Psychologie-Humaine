@@ -1,0 +1,473 @@
+{
+  "character_id": "joachim",
+  "bio": "Joachim, 58 ans, vit avec une agoraphobie diagnostiquée et suivie par une psychologue. Il rejoint à pied l’atelier de reprographie où il travaille. Prendre un bus ou attendre dans une file peut en revanche l’occuper bien avant de partir. Il imagine le moment où il se sentirait mal et chercherait comment sortir. Il aime photographier la ville au ras du sol et prépare avec son voisin Diego une carte de promenade. Il voudrait y faire figurer des endroits qui donnent envie de s’arrêter et des indications qui aident chacun à choisir son chemin.",
+  "profile_topics": [
+    "Agoraphobie",
+    "Anxiété d’anticipation",
+    "Crainte de ne pas pouvoir sortir",
+    "Évitement des sorties",
+    "Accompagnement choisi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "joachim-le-bus-du-retour",
+      "title": "Quand la peur du retour arrête Joachim avant même le départ",
+      "description": "Joachim veut photographier le panneau des Aulnes. Au départ du bus, il imagine déjà un retour où il ne pourrait ni descendre ni demander de l’aide.",
+      "context": "À l’arrêt du bus, un samedi matin, avant un repérage photo avec Diego",
+      "topics": [
+        "Difficulté redoutée de s’éloigner",
+        "Anticipation du malaise",
+        "Déplacements évités"
+      ],
+      "clinical_focus": "Crainte de ne pas pouvoir sortir",
+      "clinical_intro": "Joachim aime prendre des photos avec Diego. En attendant leur bus, il imagine le bus du retour bondé et se demande comment il pourrait descendre s’il se sentait mal. Dans l’agoraphobie, la perspective de manquer d’aide ou de ne pas pouvoir s’éloigner peut prendre le dessus sur ce qu’on avait envie de faire. Le trajet commence alors à peser bien avant de partir.",
+      "opening": "Joachim a choisi son petit objectif. Il veut photographier le panneau des Aulnes de face pour que le nom du chemin reste lisible, puis de côté pour montrer de quel carrefour il est visible. Diego lui a confié le soin de repérer les endroits où une personne qui arrive seule pourrait hésiter. Joachim a dit oui sans se faire prier. Il apprécie que Diego lui pose une question de photographe. D’ordinaire, les gens lui demandent seulement d’agrandir les images.\n\nÀ l’arrêt, le soleil suffit à éclairer les horaires imprimés au dos de l’abri. Joachim regarde d’abord le trajet aller. Il connaît les deux premières rues. Son regard descend vers le tableau du retour. Après le marché, le bus dessert les Halles. Il imagine des passagers debout dans l’allée et se demande s’il saurait dire assez fort qu’il a besoin de descendre. Cette scène inventée lui arrive avec une précision absurde. Il voit jusqu’à la couleur du tissu qui couvrirait le dossier devant lui.\n\nLes portes du premier bus s’ouvrent. Joachim remet son appareil dans sa housse sans avoir pris de photo. Diego lui tient le battant de l’abri et attend de voir ce qu’il décide. Joachim lui a parlé de son agoraphobie il y a quelques mois, après l’avoir invité trois fois au même café à deux rues de chez eux. Il peut lui dire que ce matin, le retour l’empêche de monter. Il aurait aimé le lui dire avant qu’ils soient là tous les deux. Diego regarde le bus démarrer et demande s’il veut rester un peu sur le banc.",
+      "sections": [
+        {
+          "heading": "Ce que plusieurs lieux peuvent avoir en commun",
+          "text": "L’agoraphobie concerne la peur marquée de plusieurs situations où s’éloigner ou obtenir de l’aide semblerait difficile en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma et un trajet loin de chez soi peuvent ainsi susciter une peur semblable malgré leurs différences. Le scénario redouté et les conditions du lieu comptent autant que son nom. Dans le cas de Joachim, le bus qu’il s’apprête à prendre est presque vide. Le retour lui paraît déjà difficile parce qu’il imagine qu’au moment où il aurait besoin de sortir, l’allée serait occupée.\n\nUn professionnel regarde la durée, la répétition et les effets de la difficulté dans la vie de la personne. Rater un bus un matin peut avoir bien des explications. Chez Joachim, la crainte qu’il décrit a aussi affecté ses rendez-vous, ses courses et les moments passés avec sa fille. C’est au cours de son suivi, bien avant ce samedi, que le diagnostic a pris place."
+        },
+        {
+          "heading": "Reprendre les mots de la situation",
+          "text": "« Tu veux rester sur le banc ? » est une question à laquelle Joachim peut répondre sans expliquer toute son histoire. Il sait qu’il préfère regarder le départ suivant depuis l’arrêt. En consultation, il pourra détailler la crainte qui est revenue. Il a imaginé devoir descendre et ne pas réussir à se faire entendre. Une formule générale comme « j’ai peur du bus » risquerait de faire disparaître ce détail. Il pourra également dire ce à quoi il tenait dans la sortie. Le panneau, sa visibilité et le plaisir de cadrer l’image expliquent pourquoi cette annulation lui coûte quelque chose.\n\nDiego peut décider s’il a encore envie d’aller aux Aulnes aujourd’hui. La carte comporte des tâches que chacun peut choisir. Leur projet commun permet de se revoir autour d’une décision concrète, sans que l’un ait à convaincre l’autre que le trajet est facile."
+        }
+      ],
+      "ending_title": "La photo qui attend",
+      "ending": "Joachim demande à Diego de prendre le bus suivant s’il veut faire la promenade. Il lui propose de laisser le panneau pour un autre jour. En rentrant à pied, il s’arrête devant l’angle de la place où commencera la carte. Une plaque indique le nom de la rue en lettres presque effacées. Il photographie ce que les passants verront en arrivant de l’atelier, puis envoie l’image à Diego avec une phrase sur le point de départ.",
+      "mirror": [
+        "Diego peut reconnaître l’effort de la décision et demander ce que Joachim attend de lui maintenant. « Je peux rester quelques minutes ou poursuivre le repérage. Qu’est-ce qui t’arrange ? » Si Joachim choisit de rentrer, il peut s’en tenir à cet accord. Il peut aussi décider d’aller se promener pour lui-même. Leur relation a de la place pour une sortie ratée et pour des photos dont ils auront plaisir à reparler."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim reste à l’arrêt, laisse la photo des Aulnes en suspens et photographie le début de la promenade près de l’atelier.",
+        "next": "Diego poursuit le repérage et Joachim reprend la photo du point de départ lors de leur prochain échange sur la carte."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "joachim-la-veille-de-la-sortie",
+      "title": "L’anxiété du lendemain qui prend déjà la soirée",
+      "description": "Joachim regarde les horaires après le travail. Une sortie du lendemain prend toute la place alors qu’il voudrait dîner avec Ana.",
+      "context": "À l’atelier de reprographie, puis au dîner chez Joachim",
+      "topics": [
+        "Anxiété anticipatoire",
+        "Prévisions inquiétantes",
+        "Attention accaparée"
+      ],
+      "clinical_focus": "Anxiété avant la sortie",
+      "clinical_intro": "Le bus du lendemain est encore loin quand Joachim commence à chercher comment il pourrait rentrer plus tôt. Au dîner, il écoute à moitié sa fille et revient aux horaires dès que son téléphone s’allume. L’anxiété d’anticipation peut prendre du temps et de l’attention alors que la situation redoutée est encore à venir. Ce coût existe aussi les jours où la personne sort finalement.",
+      "opening": "À l’atelier de reprographie, Joachim place la photo de la plaque de rue à côté de l’image envoyée par Diego. Les deux clichés ont été pris à la même hauteur. Sur le sien, on voit la boîte aux lettres qui marque le début du chemin. Sur l’autre, la lumière arrive derrière un arbre et efface le premier virage. Joachim demande à Diego s’ils peuvent commencer par vérifier ensemble le croisement proche du lavoir. Celui-ci propose dimanche, après le marché. Il apporte le plan plié en deux et laisse à Joachim le choix de l’heure.\n\nAvant de rentrer, Joachim consulte l’horaire du lendemain. Le temps qu’il trouve une correspondance, l’atelier est vide et le store à moitié descendu. Il photographie le tableau sur son écran alors qu’il peut le consulter chez lui. À la cuisine, il dit à Ana qu’il a enfin compris pourquoi les deux prises de vue semblaient si différentes. Elle pose une assiette près de lui et lui raconte que sa collègue vient de lui confier une responsabilité nouvelle. Il lui demande de quelle collègue il s’agit. Elle vient de le dire.\n\nAna regarde le téléphone qui vibre. Joachim s’attend à trouver un nouveau message de Diego. C’est l’avis d’un colis livré le matin. Il ouvre quand même la photo de l’horaire. Ana reprend sa phrase en regardant ailleurs. Joachim se rend compte qu’elle s’est mise à parler plus vite. Il pose l’appareil sur le buffet et lui dit ce qu’il était en train de faire. Il aimerait entendre le reste avant qu’ils débarrassent.",
+      "sections": [
+        {
+          "heading": "Une peur qui commence avant la situation",
+          "text": "L’anxiété d’anticipation peut accompagner l’agoraphobie. La personne pense à une situation future et imagine ce qui arriverait si elle devait sortir ou trouver de l’aide. Une vérification peut donner une information utile, par exemple l’heure de fermeture d’un service. Joachim a déjà cette information quand il reprend son téléphone. Il repasse surtout des variantes de ce qui pourrait le coincer le lendemain. Pendant ces minutes, sa fille lui parle d’un événement important pour elle. La conversation perd en disponibilité alors qu’il est chez lui et que le déplacement reste incertain.\n\nCet effet aide à comprendre le retentissement de l’agoraphobie. Il y a les sorties que quelqu’un annule. Il y a aussi celles qu’il fait avec beaucoup d’effort et celles qui mobilisent du temps pendant les jours qui précèdent. Un proche peut voir un agenda à peu près rempli et ignorer la place que ces préparatifs ont prise."
+        },
+        {
+          "heading": "Choisir ce qui doit être décidé ce soir",
+          "text": "Ana demande à Joachim s’il lui reste une décision pratique à prendre. Il voudrait avertir Diego de l’endroit où il pense le rejoindre et savoir s’ils parleront de la carte après le repérage. Il peut envoyer ce message une fois le dîner terminé. La suite des horaires a une autre fonction pour lui. Il essaie d’obtenir l’assurance qu’une sortie ne sera jamais difficile. Cette assurance dépasse ce que le tableau du bus peut lui dire. Il décide de reparler de cette soirée avec Louise, sa psychologue. Il veut lui décrire le moment où il a perdu le fil du récit d’Ana.\n\nLa décision de ce soir appartient à Joachim. Il choisit d’inviter Ana à reprendre sa phrase. Elle peut lui dire si elle a envie de la raconter à nouveau. Le lendemain, ils pourront chacun poursuivre les projets qui les occupent, y compris si le repérage change encore de forme."
+        }
+      ],
+      "ending_title": "Un message après le dîner",
+      "ending": "Ana reprend depuis le moment où elle a trouvé une clé sur son bureau. Joachim découvre qu’il avait compris l’inverse. Sa collègue lui a confié la permanence qu’elle réclamait depuis des mois. Quand Ana part, il écrit à Diego qu’il passera par le marché et qu’ils pourront se voir du côté du lavoir. Il s’engage à lui confirmer le rendez-vous après ses courses. Il ajoute l’image de la boîte aux lettres au dossier qu’ils partagent.",
+      "mirror": [
+        "Ana peut parler du moment où elle a perdu son attention, en laissant Joachim lui dire ce qu’il faisait. « J’aimerais finir de te raconter ce qui s’est passé. Tu as besoin de régler quelque chose tout de suite ? » Elle peut aussi proposer de reprendre une autre fois. Aider son père à chercher un horaire reste possible s’il lui demande une information précise. La soirée a aussi de l’importance pour elle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim reprend le dîner avec Ana et convient avec Diego d’un repérage près du lavoir à confirmer après le marché.",
+        "next": "Au marché, Joachim découvre l’effort nécessaire pour rejoindre un étal qu’il connaît pourtant bien."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "joachim-la-file-quil-quitte",
+      "title": "Le soulagement de quitter une file et le prix de ce renoncement",
+      "description": "Joachim quitte la file du marché et se sent aussitôt soulagé. Son envie de préparer le repas qu’il avait promis revient quelques rues plus loin.",
+      "context": "Le dimanche matin, entre le marché et le lavoir",
+      "topics": [
+        "Évitement",
+        "Soulagement immédiat",
+        "Retentissement au quotidien"
+      ],
+      "clinical_focus": "Soulagement et coût de l’évitement",
+      "clinical_intro": "Joachim quitte la file d’un étal avant d’arriver au comptoir. Sur le moment, il respire plus librement. Un peu plus tard, il pense au repas qu’il voulait préparer et à son rendez-vous avec Diego. Dans l’agoraphobie, le soulagement obtenu en s’éloignant peut avoir un poids immédiat, même quand la personne tient beaucoup à ce qu’elle abandonne.",
+      "opening": "Pour le déjeuner, Joachim a promis à Ana des sardines et des pommes de terre au four. Il veut choisir les sardines chez la commerçante qui garde les petites caisses au fond de son étal. Elle lui a appris à distinguer les prises du matin en lui montrant un détail que les autres clients oublient de regarder. Il lui a donné un agrandissement d’une photo du marché, qu’elle a coincé sous le premier bac. Il peut voir le coin du papier depuis la file.\n\nDevant lui, une femme prend des nouvelles du fils de la commerçante. Derrière lui, un chariot roule jusqu’au pied de sa chaussure. Joachim essaie d’imaginer comment il sortirait du rang s’il se sentait mal. Il pourrait se faufiler entre les gens et dire pardon. Il se représente ce moment, l’arrêt des conversations, le temps que les personnes comprennent ce qu’il demande. Il regarde deux fois la distance jusqu’à l’allée. Quand la femme se retourne pour lui laisser un peu de place, il saisit l’ouverture et marche vers la rue.\n\nIl respire mieux presque tout de suite. Il est surpris de pouvoir regarder une façade dont il connaît les volets sans voir constamment le chariot. Il commence à marcher vers le lavoir. Au bout de la rue, une odeur de poisson grillé lui rappelle le déjeuner. Il s’arrête pour dire à Ana qu’il n’a pas acheté les sardines. Il a honte de lui écrire pour si peu, alors qu’elle attend seulement de savoir ce qu’ils feront ensemble. Diego l’attend encore à l’endroit qu’ils ont convenu de vérifier.",
+      "sections": [
+        {
+          "heading": "Comprendre ce que le soulagement change",
+          "text": "Dans l’agoraphobie, une personne peut quitter une situation redoutée ou ne s’y engager qu’à certaines conditions. Quitter la file réduit la tension de Joachim ce matin. Le répit rend sa décision très compréhensible. Il peut aussi rendre une autre sortie plus difficile à envisager, si s’éloigner devient la réponse qu’il attend pour être soulagé. Les approches cognitives et comportementales peuvent travailler sur cette boucle avec une professionnelle. Elles s’intéressent au rôle que le soulagement et les craintes prennent dans chaque situation.\n\nJoachim aurait aimé rester client de cet étal qu’il connaît bien. Il voudrait aussi avoir une matinée qui puisse contenir plusieurs choses. Le repas et le repérage ne perdent pas leur valeur parce qu’il s’est éloigné de la file. Les conséquences de son choix se voient à distance de l’étal, quand la préparation du déjeuner et la façon de rejoindre Diego doivent être revues."
+        },
+        {
+          "heading": "Garder le choix de la suite de sa journée",
+          "text": "Le chariot touchait presque la chaussure de Joachim, et demander de l’espace est une réponse ordinaire à cette situation. La peur qu’il a décrite portait également sur un malaise possible et le temps qu’il lui faudrait pour sortir du rang. Il pourra raconter les deux aspects à Louise. Ils donnent une image plus précise que le seul mot « marché ». Le suivi peut s’appuyer sur cet exemple sans que le voisin ou la famille organise un retour imprévu à l’étal.\n\nLe déjeuner peut changer. Ana lui propose de faire les pommes de terre avec ce qu’il a déjà chez lui et de choisir une autre fois le poisson ensemble. Il décide de voir Diego à l’endroit convenu. Marcher jusqu’au lavoir lui semble encore possible. Il est venu prendre des photos et il peut décider de ce qu’il fait après cette file, au lieu de laisser toutes les décisions de la matinée suspendues à l’achat des sardines."
+        }
+      ],
+      "ending_title": "Au lavoir, la sortie tient encore",
+      "ending": "Diego a placé le plan sur le muret. Joachim lui dit où il en est sans revenir sur chaque minute du marché. Il tient à photographier l’endroit où le chemin se divise. Depuis le côté où ils se sont arrêtés, le second passage disparaît derrière une haie. Diego l’indique du doigt. Joachim propose de noter cette séparation sur leur carte, puis rentre préparer le déjeuner. En mettant le four en route, il demande à Ana si elle pense encore au film qu’ils ont évoqué la semaine passée.",
+      "mirror": [
+        "Ana peut entendre la déception liée au repas et s’occuper avec Joachim de ce dont ils ont besoin aujourd’hui. « On peut manger ce que tu as prévu à côté, si tu en as encore envie. » Si elle se propose de passer au marché, elle peut lui demander une fois s’il souhaite son aide. Elle garde la possibilité de dire qu’elle manque de temps. Leur déjeuner peut redevenir un moment partagé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes",
+        "nhs-agoraphobie-prise-en-charge"
+      ],
+      "continuity": {
+        "choice": "Joachim quitte le marché, modifie le repas avec Ana et fait le relevé du carrefour du lavoir avec Diego.",
+        "next": "La carte comporte maintenant une bifurcation à préciser, et Joachim reprend avec Ana l’invitation au cinéma."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "joachim-une-montee-dans-le-cinema",
+      "title": "Une montée de panique dans un lieu qu’il redoute",
+      "description": "Dans la salle de cinéma, le cœur de Joachim s’accélère. Il reparle avec Ana et sa psychologue du lien entre cette peur et le lieu.",
+      "context": "Au cinéma de quartier, quelques jours après le marché",
+      "topics": [
+        "Symptômes de panique",
+        "Situation redoutée",
+        "Différence avec le trouble panique"
+      ],
+      "clinical_focus": "Agoraphobie et symptômes de panique",
+      "clinical_intro": "Au cinéma, Joachim sait déjà ce qu’il redoute quand la chaleur lui monte au visage. Il imagine qu’il aura du mal à atteindre la porte si les autres rangées se remplissent. Des symptômes de panique peuvent accompagner l’agoraphobie. Pour comprendre ce qui se passe, la clinicienne s’intéresse notamment au lieu, à ce que Joachim attendait et à la manière dont la peur est montée.",
+      "opening": "Le film commence par une voix qui semble sortir du mur de gauche. Joachim reconnaît le quartier qu’Ana lui a montré sur l’affiche. Il aime la façon dont le cadre suit une femme qui marche un peu plus vite que les passants autour d’elle. Il se dit qu’il aurait posé son appareil au même endroit. Ana a choisi deux sièges vers le bout de la rangée, avec son accord. Il lui a dit qu’il pourrait sortir au milieu du film et qu’elle était libre de rester. Ils ont acheté les places ensemble.\n\nUn groupe s’installe quand la salle est déjà sombre. La personne qui est en bout de rangée replie ses jambes pour laisser passer les autres. Joachim calcule à quelle hauteur il devrait lever le pied pour enjamber un sac posé dans l’allée. La chaleur lui monte au visage. Son cœur cogne assez fort pour prendre la place des paroles du film. Il croit que son visage est devenu rouge et attend un peu, le temps de retrouver ce qu’il pourrait dire aux personnes qui bloquent le passage.\n\nAna approche sa main de son accoudoir. Joachim lui souffle qu’il va gagner le hall. Elle hoche la tête et reste assise. Il demande aux deux personnes de se décaler. L’une se lève avec le sac. L’autre se penche pour lui laisser de la place. Près des affiches, Joachim reconnaît le bruit du réfrigérateur de la buvette. La vague retombe peu à peu. Il relit le titre du film en attendant de pouvoir décider s’il veut rentrer ou rester jusqu’à la fin de la séance.",
+      "sections": [
+        {
+          "heading": "Ce que dit le moment où la peur survient",
+          "text": "Une accélération du cœur, une sensation de chaleur ou un étourdissement peuvent accompagner une forte anxiété. Dans l’agoraphobie, des symptômes de panique peuvent apparaître dans les situations que la personne redoute. Pour évaluer un trouble panique, le professionnel s’intéresse entre autres à des attaques inattendues et répétées, aux inquiétudes et aux changements qu’elles entraînent. Les deux tableaux peuvent coexister. Le fait que Joachim ait dû se lever au cinéma apporte un exemple à son suivi, parmi d’autres situations où se pose la question du départ ou de l’aide.\n\nEn consultation, Joachim pourra reprendre l’ordre des événements. Il réfléchissait à la sortie avant de sentir son cœur cogner. Le groupe est arrivé et un passage qu’il pensait facile lui a paru moins praticable. Une personne a déplacé son sac quand il a parlé. Ces détails renseignent sur la peur, les sensations et ce qui s’est réellement passé."
+        },
+        {
+          "heading": "S’entendre à l’avance sur la suite",
+          "text": "Joachim et Ana avaient discuté du film et de ce qu’ils feraient si l’un voulait partir. Cela permet à Ana de regarder la suite et à Joachim de prendre quelques minutes dans le hall. Il n’a pas à dire tout de suite comment appeler ce qu’il vient de vivre. Plus tard, ils peuvent parler à la fois du film et du moment où il est sorti. Ils ont chacun vu une partie différente de la même soirée.\n\nPour Louise, l’intérêt de cette scène tient aussi à la question que Joachim se posait. Il voulait pouvoir demander le passage si la peur devenait trop forte. La réponse des personnes dans l’allée et la durée de son inconfort sont des éléments qu’il a observés. Il pourra les apporter au rendez-vous sans essayer de trancher lui-même ce qui relève de l’agoraphobie, des symptômes physiques ou d’un autre trouble. Cette précision laisse de la place à l’évaluation professionnelle."
+        }
+      ],
+      "ending_title": "Deux souvenirs de la même séance",
+      "ending": "Quand le générique se termine, Joachim est encore dans le hall. Il propose à Ana de marcher avec lui jusqu’au carrefour. Elle lui raconte comment le film revient dans la même rue à la fin. Joachim lui parle de la personne qui a ramassé le sac. Il a longtemps imaginé qu’il resterait assis faute de pouvoir demander le passage. Il ajoute ces deux détails à une note pour Louise, puis demande à Ana si elle se souvient de l’ombre qu’on voyait dans le premier plan.",
+      "mirror": [
+        "Ana peut s’en tenir à ce qu’ils ont convenu. Si elle retrouve son père dans le hall, elle peut lui demander « Tu veux me dire comment ça s’est passé ou tu préfères qu’on marche ? » Elle peut lui raconter la fin du film s’il a envie de l’entendre. La décision de revenir ou de parler de la séance en consultation reste à Joachim."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim quitte la salle, attend Ana dans le hall et note ce qu’il veut raconter à Louise sur le passage et sa peur.",
+        "next": "À la bibliothèque, il retrouve une crainte proche dans un lieu dont la configuration est tout autre."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "joachim-la-question-de-lascenseur",
+      "title": "Ce que Joachim redoute au moment de prendre l’ascenseur",
+      "description": "Un ascenseur l’inquiète comme la file du marché. Joachim précise ce qu’il redoute dans ces lieux différents.",
+      "context": "À la bibliothèque, puis au rendez-vous avec Louise",
+      "topics": [
+        "Phobie spécifique",
+        "Situation et scénario redouté",
+        "Évaluation clinique"
+      ],
+      "clinical_focus": "Différence avec une phobie spécifique",
+      "clinical_intro": "Joachim s’arrête devant l’ascenseur de la bibliothèque. L’idée qui lui revient ressemble à celle qu’il avait dans la file du marché. Il se demande à qui il pourrait parler s’il se sentait mal et voulait sortir. Pour distinguer l’agoraphobie d’une phobie spécifique, le clinicien cherche à savoir ce qui est redouté et dans quels contextes cette crainte apparaît.",
+      "opening": "La bibliothèque conserve des plans de la ville sur des tables qui font presque toute la longueur d’une pièce. Martine lui a conseillé d’aller vérifier le nom de l’impasse après le lavoir. Sur une photo ancienne, la plaque de rue est encore à sa place. Joachim a pris rendez-vous pour la consulter avant que l’équipe décide du texte de la carte. Au rez-de-chaussée, il rend le livre qu’Ana lui a prêté pour le trajet. L’agent lui montre ensuite le couloir qui mène aux archives.\n\nIl doit monter un étage. Une femme attend déjà l’ascenseur avec un classeur. La cabine descend et Joachim voit le numéro s’allumer. S’il se sentait mal à l’intérieur, il faudrait attendre que l’ascenseur s’arrête ou parler à quelqu’un par l’interphone. Il essaie d’imaginer la voix qui lui répondrait. Le temps qu’il sorte de cette pensée, la femme lui demande s’il monte. Il lui fait signe qu’elle peut partir et demande à l’agent où commence l’escalier. Il connaît d’autres ascenseurs qui l’occupent beaucoup moins, dont celui de son immeuble quand il rentre avec les courses.\n\nAu rendez-vous du soir, Louise lui demande de reprendre un exemple où il s’est éloigné et un exemple où il a trouvé une autre manière de faire. Il commence par le cinéma et raconte ensuite l’ascenseur. Il hésite en ajoutant la file du marché. Il se rend compte qu’à la bibliothèque, il a pris une autre voie et qu’au marché, il a renoncé à ce qu’il venait faire. Dans les deux cas, il s’était demandé comment il sortirait si quelque chose lui arrivait.",
+      "sections": [
+        {
+          "heading": "Regarder l’objet de la peur",
+          "text": "Une phobie spécifique porte sur un objet ou une situation circonscrite, par exemple certains animaux, la hauteur ou un espace clos. Pour comprendre une agoraphobie, l’évaluation cherche un autre lien entre les situations. La personne craint de se sentir mal ou de vivre un événement embarrassant ou difficile à maîtriser dans un endroit où partir ou être aidée lui semblerait compliqué. Un ascenseur peut ainsi apparaître dans des récits très différents. La question utile porte sur ce qui fait peur dans cet ascenseur et sur ce qui revient ailleurs.\n\nJoachim parle à Louise de sa propre manière d’imaginer un malaise dans la cabine. La même inquiétude se retrouve à l’extérieur, dans la file ou quand il pense au bus du retour. L’escalier lui permet ce jour-là d’accéder aux archives. Le diagnostic a été posé en tenant compte de plusieurs situations et de leurs conséquences dans sa vie. Cette scène aide surtout à préciser le suivi."
+        },
+        {
+          "heading": "Décrire les choix qui ont vraiment eu lieu",
+          "text": "Louise demande ce que Joachim a trouvé en montant. Un registre récent nomme correctement la rue, et la photographie ancienne situe le premier panneau à quelques mètres de l’endroit qu’ils avaient retenu. L’agent lui a donné la cote pour que Martine puisse vérifier l’information. Le rendez-vous de Joachim avait donc deux objets. Il est venu comprendre la difficulté rencontrée dans le hall et il a mené une recherche dont il est satisfait.\n\nPour une consultation, il peut être utile de raconter ce qu’on a continué à faire, ce qu’on a changé et ce à quoi on a renoncé. Joachim avait surtout préparé le récit de la montée d’anxiété. Dire qu’il est resté assez longtemps pour trouver le nom de la rue rend visible un aspect différent de sa journée. Louise peut ainsi lui demander à quels déplacements il voudrait consacrer son travail plutôt que de supposer que l’ascenseur des archives doit passer en premier."
+        }
+      ],
+      "ending_title": "La rue sur le plan",
+      "ending": "De retour chez lui, Joachim écrit le nom exact de la rue sur l’épreuve. Il joint la cote de la photo au dossier de la carte. Il envoie à Diego une proposition pour samedi. Il voudrait reprendre le passage du lavoir avec lui et convenir de la façon dont il peut l’accompagner. Il ne décide rien ce soir au sujet de l’ascenseur. En pliant l’épreuve, il laisse le nom du carrefour dépasser du rabat.",
+      "mirror": [
+        "Un agent ou un ami peut répondre à la demande qui lui est faite, par exemple indiquer l’escalier ou l’étage. Il peut demander « Tu veux que je te montre le passage ? » sans exiger la raison du détour. Si Joachim parle de sa peur, Diego peut l’écouter et lui demander ce qui l’aiderait pendant leur rendez-vous, en gardant les questions de diagnostic pour le suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie"
+      ],
+      "continuity": {
+        "choice": "Joachim prend l’escalier, vérifie la rue et décrit à Louise le scénario qu’il retrouve dans plusieurs lieux.",
+        "next": "Le nom de rue est confirmé. Joachim propose à Diego de discuter de l’accompagnement avant un nouveau passage au lavoir."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "joachim-se-mettre-daccord-sur-laide",
+      "title": "Être accompagné et rester celui qui choisit",
+      "description": "Diego propose de l’accompagner au lavoir. Joachim précise à quel moment il voudrait de l’aide et ce qu’il préfère dire lui-même.",
+      "context": "Le samedi suivant, sur le trajet vers le lavoir",
+      "topics": [
+        "Accompagnement choisi",
+        "Autonomie dans les décisions",
+        "Limites des proches"
+      ],
+      "clinical_focus": "Accompagnement et marge de choix",
+      "clinical_intro": "Avec Diego, Joachim se sent prêt à aller un peu plus loin que lors de son dernier repérage. Il voudrait cependant garder la possibilité de répondre lui-même et de décider du retour. La présence d’un proche peut rendre une sortie envisageable dans l’agoraphobie. Dans cette scène, préciser le rôle de chacun aide les deux voisins à rester libres dans un projet qui leur importe.",
+      "opening": "Diego arrive avec une règle pliante dans la poche et une tache de café sur la manche. Il a promis de rejoindre sa fille à midi. Joachim lui propose de s’arrêter au lavoir et de revenir par la rue dont il a vérifié le nom. Il voudrait continuer jusqu’au virage si le chemin lui paraît praticable. Diego lui dit qu’il pourra rentrer avec lui. Il aimerait aussi prendre le temps de relever la largeur du passage. Ils se mettent d’accord sur ce qu’ils veulent vérifier avant de rejoindre le trottoir.\n\nPrès du lavoir, Samia les rejoint. Elle connaît Martine et a proposé de lire le plan avant l’impression. Elle montre à Joachim la photo de la boîte aux lettres et lui demande s’il peut indiquer de quel côté arrive le bus. Diego répond d’abord qu’ils vont faire vite, parce que Joachim ne veut pas se retrouver loin de la rue. Joachim resserre les doigts sur son appareil. Samia n’avait pas posé de question sur le retour et Joachim n’avait pas envie d’en parler devant elle. Il lui montre l’angle de la photo et lui dit qu’il lui enverra une version plus large. Ils conviennent de revoir ensemble le passage jusqu’au verger un autre jour.\n\nQuand Samia s’éloigne, Joachim demande à Diego de le laisser répondre même si sa réponse prend un peu de temps. Diego prend le temps de replier sa règle avant de lui dire qu’il a parlé trop vite. Il n’avait pas compris qu’il pouvait proposer de rentrer sans décider du reste de la conversation. Joachim lui demande de marcher jusqu’au virage avec lui. Cette fois, il annonce lui-même le moment où il veut faire demi-tour.",
+      "sections": [
+        {
+          "heading": "Ce que peut changer la présence de quelqu’un",
+          "text": "Certaines personnes qui vivent avec une agoraphobie se rendent dans des lieux redoutés plus facilement en présence d’une personne de confiance. Pour Joachim, savoir que Diego est prêt à repartir avec lui laisse de la place à l’envie de faire une photo ou de discuter d’un chemin. L’aide a aussi des contours. Elle peut passer par un trajet partagé, une disponibilité limitée ou une réponse à une demande. La personne qui l’apporte peut avoir son propre emploi du temps.\n\nJoachim a choisi de parler de son agoraphobie à Diego et il préfère répondre à Samia comme contributeur de la carte. Cette différence lui importe. Être disponible pour le retour donne à Diego un rôle concret. Parler de la difficulté à sa place touche à un autre choix, celui des informations qui circulent. Les deux voisins peuvent corriger leur accord en s’appuyant sur ce qu’ils viennent de voir."
+        },
+        {
+          "heading": "Garder deux projets dans la même sortie",
+          "text": "Diego voudrait mesurer le passage et Joachim voudrait comparer les photos du virage. Ils peuvent se proposer l’un à l’autre des choses qu’ils auraient plaisir à faire, puis convenir d’un point où ils se séparent. Sur ce trajet, Joachim préfère rentrer avec Diego et a fixé le retour assez tôt pour qu’il puisse rejoindre sa fille. Samia peut leur demander un relevé à un autre moment.\n\nQuand la place de l’accompagnement change d’une sortie à l’autre, ce changement peut être décrit en consultation. Louise pourra demander à Joachim dans quelles situations il tient à être accompagné, ce que cela lui permet de faire et ce qu’il souhaite éventuellement aborder autrement. La présence de Diego au lavoir fait partie de leur organisation du jour. La façon d’aborder la peur sur le long terme relève du suivi et de ce que Joachim veut y travailler."
+        }
+      ],
+      "ending_title": "Revenir à l’heure convenue",
+      "ending": "Au virage, la lumière frappe le nom de la rue sur le côté. Joachim reprend sa photo de biais, comme il l’avait fait avec la plaque près de chez lui. Ils rentrent à temps pour le rendez-vous de Diego. Sur le pas de sa porte, Joachim lui propose de préparer avec Samia un relevé descriptif de l’itinéraire jusqu’au verger. Il aimerait savoir ce qui change selon qu’on arrive à pied, avec une canne ou en ayant besoin d’une assise.",
+      "mirror": [
+        "Diego peut demander ce que Joachim attend avant de marcher. « Je suis libre jusqu’à midi. Tu veux que je t’accompagne jusqu’au virage et qu’on rentre ensemble ? » Si une personne s’adresse à Joachim, il peut lui laisser la place de répondre. Il peut aussi dire ce qu’il a envie de relever pour la carte et convenir d’un autre moment si leurs besoins diffèrent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim demande à Diego de rester disponible pour le retour et de lui laisser les échanges qui le concernent.",
+        "next": "Samia apporte son regard sur le passage du verger et ils distinguent ensemble les obstacles observés des hypothèses."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "joachim-le-passage-detrempe",
+      "title": "La boue du verger et les autres raisons de faire demi-tour",
+      "description": "Au verger, Samia repère un passage glissant. Joachim remarque aussi la peur qu’il ressent ailleurs quand le retour lui paraît incertain.",
+      "context": "Après plusieurs jours de pluie, lors d’un relevé avec Samia et Diego",
+      "topics": [
+        "Obstacle observable",
+        "Précaution ordinaire",
+        "Peur liée au retour"
+      ],
+      "clinical_focus": "Peur et difficulté réelle d’accès",
+      "clinical_intro": "Devant un passage détrempé, Joachim se demande à la fois s’il risque de glisser et s’il trouverait de l’aide en cas de malaise. Samia lui montre où sa canne s’enfonce. La scène distingue un obstacle visible d’un scénario qui revient aussi dans d’autres lieux. En consultation comme sur la carte, les circonstances importent pour comprendre la décision de rebrousser chemin.",
+      "opening": "La première feuille mouillée colle au pied de Samia avant qu’ils atteignent le verger. Elle la détache sur un bord de pierre et leur fait signe de s’arrêter. Plus loin, quelqu’un est passé avec un vélo. La roue a tracé un sillon jusqu’à la grille. Diego ouvre son plan pour montrer le sentier en pointillé qui continue à droite. Samia demande s’il reste une assise sur cette branche. Elle aimerait avoir un endroit où s’arrêter quand elle rentre. Joachim reconnaît l’arbre qui cachait la grille sur sa photo. Il avait oublié que la terre descendait de ce côté.\n\nDiego pense pouvoir passer sans salir ses chaussures. Samia pose sa canne près du sillon. L’extrémité s’enfonce. Elle dit qu’elle veut revenir par la rue, sans aller jusqu’au banc. Joachim se surprend à répondre « moi aussi » plus fort qu’il ne voulait. Il avait déjà commencé à se demander qui viendrait s’ils se sentaient mal derrière la grille. Il cherche de nouveau la maison qu’il a vue en arrivant. Samia, elle, garde les yeux sur le sol en remontant jusqu’aux pierres.\n\nAu lavoir, ils comparent leurs notes. Diego avait écrit « praticable » avant de rejoindre le verger. Samia lui demande pour qui et par quel temps. Joachim reprend ses deux images. Il peut montrer la pente au retour, à la hauteur d’une personne qui voudrait faire demi-tour. Il propose aussi de vérifier la rue qui passe à côté du verger. Celle-ci rejoint peut-être le même croisement sans passer dans la terre. Samia veut décider sur place si cette variante lui convient.",
+      "sections": [
+        {
+          "heading": "Décrire un obstacle pour ce qu’il est",
+          "text": "Une personne peut éviter un trajet pour des raisons de terrain, d’accessibilité ou de santé. Ces éléments ont leur place dans l’évaluation d’une peur. La boue et la pente du verger sont observables. Samia explique pourquoi elle préfère changer de trajet avec sa canne. Sur la carte, écrire « terre en pente après la grille » donne une information dont chacun peut faire usage. L’indication peut préciser que le terrain a été vu après la pluie, puisque l’état du chemin peut changer.\n\nJoachim entend cette difficulté et décrit aussi une autre crainte. Il pense à l’aide qui manquerait derrière la grille. Il retrouve cette pensée sur des surfaces qu’il sait praticables, dans le bus ou au cinéma. Dans son suivi, les deux éléments peuvent être décrits ensemble. La peur qu’il éprouve dans plusieurs contextes ne retire rien aux difficultés matérielles du sentier ni à l’expérience de Samia."
+        },
+        {
+          "heading": "Apporter des détails qui servent à la décision",
+          "text": "Louise pourra demander à Joachim ce qu’il a observé sur place, ce qu’il a imaginé et ce que chacun a décidé. Il pourra lui montrer la photo du sillon, puis raconter une situation récente où il s’attendait à manquer d’aide sans avoir rencontré le même obstacle. Les deux récits permettent de parler de sa peur avec davantage de précision. La consultation peut s’intéresser aux effets de cette crainte tout en tenant compte des précautions utiles à un moment donné.\n\nPour le projet de carte, les trois promeneurs peuvent convenir d’un nouvel essai et choisir de ne pas publier une indication dont ils ne sont pas sûrs. Samia souhaite une description du sol et des places où s’arrêter. Elle propose de noter la position du banc depuis la rue avant de décider quel chemin emprunter. Cela aide Joachim à préciser ce qu’il voudrait prendre en photo lors de leur prochain passage."
+        }
+      ],
+      "ending_title": "Les deux indications au crayon",
+      "ending": "Joachim barre le mot « praticable » sur son épreuve et écrit le détail de la pente. Il laisse deux traits de crayon en direction de la rue. Diego viendra avec lui vérifier où l’un d’eux aboutit. De son côté, Samia préfère les rejoindre plus tard avec la version des images qu’elle pourra lire de près. En rentrant, Joachim retrouve la note pour Louise qu’il avait laissée près de l’entrée. Il ajoute un mot sur la grille, un autre sur le bus.",
+      "mirror": [
+        "Diego peut regarder ce que Samia lui montre et demander à chacun de quelle information il aurait besoin avant de poursuivre. « Je vois le sillon. Tu veux qu’on relève le sol, le banc, ou les deux ? » Si Joachim parle de sa peur de manquer d’aide, Diego peut l’écouter et respecter la décision prise sur le chemin. Décrire la pente et lui laisser parler de sa crainte sont deux formes d’attention."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie"
+      ],
+      "continuity": {
+        "choice": "Joachim et Samia renoncent à la branche détrempée, décrivent l’obstacle et proposent d’examiner une variante par la rue.",
+        "next": "Joachim apporte le cas du verger à Louise et choisit avec elle le déplacement qu’il voudrait travailler."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "joachim-un-objectif-choisi-avec-louise",
+      "title": "Choisir avec la psychologue le trajet qui compte",
+      "description": "Joachim sait ce qu’il aimerait faire aux Aulnes. Avec Louise, il choisit une situation à travailler et la part d’aide qu’il souhaite.",
+      "context": "En consultation avec Louise après le relevé au verger",
+      "topics": [
+        "Thérapie cognitivo-comportementale",
+        "Objectif choisi",
+        "Exposition progressive accompagnée"
+      ],
+      "clinical_focus": "Objectif de soin et choix du rythme",
+      "clinical_intro": "Joachim présente à Louise sa photo du sentier détrempé et lui parle du trajet qui lui manque encore. Il aimerait pouvoir rentrer en bus après un repérage sans que cette idée occupe toute sa veille. Le travail sur les situations redoutées peut faire partie d’une thérapie. Ici, le choix de l’objectif se discute avec Joachim et tient compte de ce qu’il voudrait retrouver.",
+      "opening": "Louise a laissé deux chaises libres près de la fenêtre. Joachim pose son plan sur celle qu’il n’occupe pas. Il montre le sillon du verger à l’endroit où la photo est restée gondolée après la pluie. Depuis cette sortie, Diego a suivi la rue parallèle jusqu’au croisement. Joachim l’a rejoint côté lavoir et a pris une image du banc depuis le passage en dur. La carte avance. Il reste un panneau qu’ils voudraient encore photographier près des Aulnes. Joachim a de nouveau consulté le trajet qui y mène. L’horaire lui est familier au point qu’il se surprend à le réciter en cherchant ses clés.\n\nLouise lui demande ce qu’il voudrait changer dans ces déplacements. Joachim pensait qu’elle lui proposerait d’abord de reprendre l’ascenseur de la bibliothèque. Il est soulagé de pouvoir parler du bus. Il dit qu’il aimerait surtout avoir envie d’accepter une sortie à laquelle il tient et pouvoir décider de la suite s’il commence à se sentir mal. La première idée qui lui vient est de faire le trajet entier jusqu’aux Aulnes. Elle lui paraît déjà trop difficile à raconter.\n\nIls reprennent une sortie plus proche, celle où le bus revient du lavoir jusqu’à la plaque de rue qu’il connaît. Joachim s’intéresse à ce qui se passerait s’il demandait un renseignement ou si l’allée lui semblait occupée. Louise lui propose d’en discuter dans le cadre de leur travail sur la peur et d’en reparler ensuite. Joachim veut pouvoir réviser ce qu’ils ont convenu selon ce qu’il observe. Il choisit d’en parler à Diego avant le prochain repérage.",
+      "sections": [
+        {
+          "heading": "Relier un soin à ce que la personne veut retrouver",
+          "text": "Les approches cognitives et comportementales font partie des options de prise en charge de l’agoraphobie. Elles peuvent porter sur les liens entre la peur, ce que la personne s’attend à vivre et les façons qu’elle a trouvées de se protéger ou d’éviter certaines situations. Une exposition progressive aux situations redoutées peut s’inscrire dans ce travail, avec un objectif et des modalités discutés avec une professionnelle. Le suivi tient compte des contraintes du lieu, de l’histoire de la personne et de ce qu’elle souhaite essayer.\n\nJoachim vient surtout avec une situation dont l’importance dépasse le trajet. Il souhaite retrouver du temps pour prendre ses photos, puis rentrer sans consacrer toute la veille à prévoir le pire. Ce but lui permet d’expliquer pourquoi le bus qui revient du lavoir l’intéresse davantage que l’ascenseur de la bibliothèque. Louise l’aide à examiner ce qu’il voudrait apprendre de cet essai."
+        },
+        {
+          "heading": "S’accorder sur la place de Diego",
+          "text": "Joachim pourra demander à Diego s’il est disponible pour une partie de la promenade. Diego peut répondre en fonction de son temps, de ses envies et de la carte. La décision sur le travail thérapeutique se discute avec Louise. Quand il la retrouve, Joachim peut raconter ce qui l’a surpris, ce qui l’a mis mal à l’aise et ce qu’il a choisi de faire. Un trajet qu’il n’a pas fait peut aussi donner une information sur le rythme ou sur la situation qu’il a retenue.\n\nJoachim choisit de garder le panneau des Aulnes pour plus tard. Il ne veut pas devoir terminer la photographie pour considérer que son rendez-vous de suivi a servi. Les deux décisions peuvent avancer séparément. L’association peut terminer une partie de la carte et Joachim peut continuer d’examiner le retour qu’il a choisi d’aborder avec sa psychologue."
+        }
+      ],
+      "ending_title": "Le travail choisi tient sur une ligne",
+      "ending": "En sortant, Joachim retrouve la photo du banc. Il lui manque encore le coin de la rue qui permettrait de le situer. Il demande à Diego s’ils peuvent s’en occuper lors du prochain rendez-vous. Il lui parle ensuite du retour près du lavoir et de la place qu’il aimerait lui proposer. Diego répond qu’il peut partager le début de la sortie. Joachim marque ce qu’ils viennent de convenir sous la photo. Le belvédère au-delà des Aulnes reste dans le dossier des idées à reprendre.",
+      "mirror": [
+        "Diego peut préciser sa disponibilité et le genre d’aide qu’il se sent de proposer. « Je peux marcher avec toi jusqu’au lavoir et voir le banc. Pour le retour, dis-moi ce que tu as prévu avec Louise. » Joachim décide ce qu’il veut partager sur la séance. Diego peut participer à la promenade et laisser les modalités de soin à Joachim et à sa psychologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-prise-en-charge"
+      ],
+      "continuity": {
+        "choice": "Joachim choisit avec Louise de travailler sur un retour qui compte pour lui. Diego accepte de partager le début de la sortie.",
+        "next": "Après des trajets courts travaillés en suivi, un détour imprévu du bus change les conditions du déplacement suivant."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "joachim-le-detour-du-bus",
+      "title": "Quand une sortie réussie ne règle pas la suivante",
+      "description": "Joachim a repris un trajet court. À l’annonce d’un détour, la peur revient et il reporte la visite du belvédère.",
+      "context": "À l’arrêt du lavoir, quelques semaines après le rendez-vous avec Louise",
+      "topics": [
+        "Variations de l’anxiété",
+        "Imprévu du trajet",
+        "Effet d’un recul sur la confiance"
+      ],
+      "clinical_focus": "Retour de la peur et imprévu",
+      "clinical_intro": "Joachim a déjà pris le bus du lavoir dans le cadre convenu avec sa psychologue. Ce jour-là, le bus emprunte un autre trajet et l’idée de se sentir coincé revient d’un coup. Il se dit qu’il est revenu à son point de départ. L’agoraphobie peut varier d’une situation à l’autre. Regarder ce qui a changé permet de décrire le recul sans effacer ce qu’il a fait auparavant.",
+      "opening": "Le banc du lavoir figure maintenant sur deux images. Sur la plus récente, un volet ouvert permet de reconnaître la maison qu’on longe avant de l’atteindre. Joachim la regarde en attendant le bus. Dans le cadre convenu avec Louise, il a repris deux trajets courts depuis leur rendez-vous. La première fois, Diego avait marché avec lui jusqu’à l’arrêt. Joachim a ensuite fait le retour seul un jour où les horaires et le parcours lui étaient familiers. À la descente, il était allé chercher le pain. Il se rappelle que la miche était encore chaude sous le papier.\n\nAujourd’hui, il voudrait rejoindre Diego au point de vue après les Aulnes. Le bus arrive avec une feuille derrière le pare-brise. Un autre passager en lit le premier mot à voix haute. La route est en travaux et la correspondance se fera au rond-point. Joachim ne connaît pas cet arrêt. Il se voit attendre au milieu des voitures sans savoir où se mettre si ses jambes faiblissent. Il demande au conducteur si le bus revient par le lavoir. Celui-ci lui donne le nom d’une rue qu’il ne reconnaît pas.\n\nJoachim laisse les portes se refermer. Il avait cru qu’après ses deux trajets, cette attente lui prendrait moins de forces. L’idée que tout revient le met en colère. Il voudrait jeter les deux photos du banc, puis s’aperçoit qu’il tient toujours son téléphone tourné vers elles. Il explique à Diego qu’il ne montera pas jusqu’au belvédère aujourd’hui. Il peut faire autre chose pour la carte, mais il tient à lui dire d’abord qu’il comptait vraiment venir.",
+      "sections": [
+        {
+          "heading": "Situer le changement avant de juger toute la suite",
+          "text": "Les formes que prend l’agoraphobie peuvent varier. Une personne peut traverser une situation avec beaucoup d’effort un jour et l’éviter dans d’autres circonstances. Joachim connaît le bus lorsqu’il passe près de la plaque de rue et il s’était préparé à ce retour. Il manque aujourd’hui un repère qu’il juge important. L’arrêt de correspondance a changé et il imagine qu’il aura du mal à demander de l’aide au milieu d’un carrefour inconnu. Le retour de sa peur a des éléments précis qu’il peut reprendre en consultation.\n\nIl se dit d’abord que ses précédents trajets n’ont servi à rien. Il peut pourtant dire qu’il a déjà pu descendre du bus, acheter du pain et rentrer. Ces faits gardent leur place à côté de ce qu’il a vécu aujourd’hui. Louise pourra s’intéresser au changement de parcours, à la colère et à la suite qu’il voudrait choisir."
+        },
+        {
+          "heading": "Décider ce qui peut avancer aujourd’hui",
+          "text": "Joachim a reporté le belvédère. Avec Diego, il peut maintenant examiner le trajet par la rue du verger et mettre à jour la description de la bifurcation. Ils choisissent un objectif qui convient au travail de la carte. La photo que Diego avait prévu de prendre au belvédère peut rester une photo personnelle jusqu’à ce que tous deux décident s’ils veulent étendre la carte jusque-là. Le détour du bus n’a pas à fixer le contenu du plan pour tous les promeneurs.\n\nPour le suivi, Joachim préfère noter ce qu’il avait voulu faire et ce que l’annonce a changé. Il peut aussi dire ce qu’il éprouve en y repensant. Lors d’un prochain rendez-vous, il décidera avec Louise s’il souhaite reprendre la question des trajets modifiés ou s’occuper d’abord du déplacement qu’il avait choisi."
+        }
+      ],
+      "ending_title": "Le belvédère reste en suspens",
+      "ending": "Diego envoie un message du chemin du retour. Il a envie de reprendre la variante par le verger avec lui avant d’ajouter un autre point de vue. Joachim lui propose de se voir à l’atelier pour regarder les deux images du banc. Il laisse le belvédère dans ses notes. Dans la marge, il écrit le nom du rond-point, la question qu’il a posée et la réponse qu’il n’a pas comprise. Il veut pouvoir relire cette page sans avoir à se raconter toute la matinée depuis le début.",
+      "mirror": [
+        "Diego peut répondre à la décision de Joachim et reconnaître ce qui lui tenait à cœur. « J’avais envie de voir le belvédère avec toi. Je comprends que ce soit remis à une autre fois. Je peux passer à l’atelier pour la variante. » Il peut lui demander s’il souhaite qu’on lui transmette le nouvel horaire, sans insister pour refaire le trajet ensemble. Il peut aussi garder sa propre sortie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes",
+        "nhs-agoraphobie-prise-en-charge"
+      ],
+      "continuity": {
+        "choice": "Joachim reporte le belvédère, garde les faits pour Louise et s’accorde avec Diego pour travailler sur la variante.",
+        "next": "À l’atelier, ils finalisent la version à présenter à Martine. Elle leur demande comment chacun souhaite intervenir."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "joachim-ce-quil-veut-dire-a-martine",
+      "title": "Demander une place près du passage et choisir ce qu’on dit",
+      "description": "Martine veut présenter la carte au public. Joachim craint la salle pleine et réfléchit à ce qu’il peut lui demander en privé.",
+      "context": "À l’atelier, quand l’association prépare la présentation de la carte",
+      "topics": [
+        "Choix de divulguer",
+        "Anticipation du malaise",
+        "Aménagement convenu"
+      ],
+      "clinical_focus": "Confidentialité et participation à une réunion",
+      "clinical_intro": "Martine propose à Joachim de commenter ses photos devant le public. Il se réjouit de parler de la carte et pense déjà au temps qu’il lui faudrait pour sortir d’une salle pleine. Il cherche un moyen de demander une place près du passage sans exposer toute son histoire. Une difficulté liée à l’agoraphobie peut ainsi peser sur un projet auquel la personne tient.",
+      "opening": "L’atelier est fermé depuis vingt minutes, mais l’épreuve de la carte occupe encore une table. Joachim a placé le nom de la rue des Aulnes en bas, du côté par lequel on peut revenir après le verger. Diego vérifie les légendes. Martine pose trois exemplaires de leur invitation entre les photos. Elle a prévu une présentation dans la petite salle de quartier. Elle espère que Joachim pourra expliquer d’où il a pris les images. Un habitant qu’elle connaît veut savoir si le banc est à l’ombre en fin d’après-midi. Joachim a très envie de lui répondre.\n\nMartine commence à décrire les chaises disposées devant l’écran. Pour être près de l’ordinateur, Joachim devrait arriver par une porte au fond de la salle, derrière plusieurs rangées. Il se demande combien de temps il lui faudrait pour les contourner s’il sentait la chaleur lui monter au visage comme au cinéma. Il voudrait proposer d’envoyer une vidéo. En même temps, l’idée que quelqu’un montre les photos sans dire pourquoi il les a prises lui donne l’impression de perdre quelque chose qu’il avait préparé.\n\nDiego demande à Martine si elle doit reprendre toutes les images. Joachim a envie qu’il pose une autre question à sa place. Il repense à Samia près du lavoir. Après la réunion, il demande à Martine de rester un moment. « J’aimerais montrer une photo près du passage latéral. Ça me laisse la possibilité de sortir si je me sens mal. Est-ce qu’on peut voir ensemble où mettre la table ? » Elle lui répond qu’elle doit vérifier l’installation et lui propose de regarder la salle quand elle viendra chercher les cartes.",
+      "sections": [
+        {
+          "heading": "Deux questions peuvent se poser dans la même salle",
+          "text": "Une personne peut avoir peur de se sentir mal et de devoir traverser une salle occupée. Une autre peut redouter d’être évaluée devant un public, même dans un lieu d’où elle pourrait sortir facilement. Les cliniciens s’intéressent à la crainte qui organise les décisions. Pour Joachim, une question sur le banc ou le cadrage est la bienvenue. La perspective de se retrouver au bout de plusieurs rangées lorsqu’il voudrait demander à sortir suffit toutefois à le faire hésiter.\n\nIl peut avoir peur de ce que les gens penseront s’il quitte la salle et aussi vouloir protéger des informations personnelles. Les deux réactions peuvent exister à côté de son agoraphobie. Le rendez-vous avec Louise lui permet de revenir sur ce qu’il redoute et de distinguer cette crainte de la façon dont il souhaite être connu des personnes du quartier."
+        },
+        {
+          "heading": "Formuler une demande qui permet de s’organiser",
+          "text": "Joachim choisit le détail que Martine peut utiliser. Il souhaite intervenir près du passage et partir quelques minutes si nécessaire. Martine peut examiner ce que cela implique pour la disposition de la salle, avec les besoins de circulation de tous. Joachim n’a pas besoin de s’engager à parler pendant toute la présentation pour participer au projet. Ils discutent d’une photo et d’une personne qui peut reprendre la parole si le programme change.\n\nCe qu’il en dit à Martine et ce qu’il en dit à Louise répondent à des buts différents. À Martine, il demande une organisation compatible avec sa présence. Avec Louise, il pourra examiner l’anticipation qui l’a occupé et les options qu’il voudrait travailler en suivi. Au moment de se séparer, il prévoit de dire à Diego seulement ce dont il a besoin de convenir avec lui pour la présentation."
+        }
+      ],
+      "ending_title": "Une photo qu’il choisit lui-même",
+      "ending": "Joachim choisit la photo du lavoir où l’on voit à la fois la rue et la pierre au bord de l’eau. Il sait par où la personne qui regarde pourra se repérer. Il propose à Martine de la montrer quand ils parleront de la bifurcation, et à Diego de commenter la suite. Il lui montre le signe qu’il fera s’il a besoin de lui passer la parole. Il garde dans sa poche la version avec les deux lignes au crayon. À l’association, il peut expliquer le relevé avec ses mots de photographe.",
+      "mirror": [
+        "Martine peut écouter la demande pratique de Joachim et vérifier avec lui ce qui est possible. « On regardera le passage. Si tu sors, veux-tu que Diego reprenne ou que l’on fasse une pause ? » Elle peut lui dire qui a besoin de connaître cet accord et limiter ce qui est transmis à l’installation et au déroulement de la soirée. Joachim reste libre de dire davantage."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim demande à Martine d’intervenir près du passage latéral, choisit sa photo et propose un relais à Diego.",
+        "next": "Lors de la présentation, la salle et les personnes qui arrivent mettent leur accord à l’épreuve."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "joachim-reprendre-la-parole-apres-la-pause",
+      "title": "S’absenter quelques minutes et reprendre sa place dans la soirée",
+      "description": "La salle se remplit avant que Joachim montre sa photo. Il sort un moment et décide comment reprendre la présentation.",
+      "context": "Le soir de la présentation, à la salle de quartier",
+      "topics": [
+        "Anxiété en situation",
+        "Relais convenu",
+        "Retour à une activité choisie"
+      ],
+      "clinical_focus": "Retrouver une marge de décision",
+      "clinical_intro": "Quand plusieurs personnes entrent ensemble, Joachim sent monter la peur qu’il a déjà éprouvée au cinéma. Il s’absente avant de montrer sa photo. Diego peut reprendre une partie de la présentation comme ils l’ont convenu. Une situation redoutée peut demander beaucoup d’effort même quand on s’y était préparé. Ici, Joachim décide à nouveau de la place qu’il souhaite prendre dans la soirée.",
+      "opening": "Samia a apporté une copie pliée du plan dans la poche de son manteau. Elle montre à Joachim le mot « pente » qu’il a ajouté près du verger. Un participant lui demande quel chemin prend la personne qui veut éviter la terre. Samia répond qu’elle utilise la rue parallèle et qu’elle tient à voir l’indication du banc. Joachim peut montrer les photos du virage. Martine lui a trouvé une place au bord du passage latéral, avec l’écran visible depuis sa chaise. Il sait quel moment elle lui a réservé et Diego a déjà regardé l’image suivante.\n\nUn groupe arrive pendant qu’on parle du point de départ. Les chaises bougent près de la porte et une personne s’arrête pour faire de la place. Joachim regarde ses chaussures. Il cherche le temps qu’il lui faudrait pour gagner le hall. Il voit un manteau dépasser de l’accoudoir. L’image du cinéma revient avec le sac dans l’allée. Joachim sent que sa voix va se briser s’il essaie de parler maintenant. Il fait le signe qu’il a proposé à Diego. Il demande le passage et rejoint le hall.\n\nUne affiche annonce un cours de dessin à l’étage. Joachim en lit les lignes sans réussir d’abord à se souvenir du premier mot. Dans la salle, il entend Diego décrire la pente. Le public pose une question sur le banc. Joachim connaît l’heure où le toit de la maison d’en face lui fait de l’ombre. Il attend le moment où le passage se dégage, puis décide de revenir s’asseoir. Il veut écouter la question jusqu’au bout avant de voir s’il prend la parole.",
+      "sections": [
+        {
+          "heading": "Comprendre l’effort quand quelqu’un participe quand même",
+          "text": "Une personne qui vit avec une agoraphobie peut rester dans une situation redoutée avec beaucoup de peur, en sortir ou y revenir à certaines conditions. Depuis la salle, les participants ont pu remarquer le départ de Joachim. Ils ont moins de raisons de connaître le temps qu’il a passé à imaginer cette configuration ou l’effort qu’il fournit pour entendre une question au milieu du bruit. Le fait qu’il soit revenu laisse une partie de ce vécu invisible. Un proche peut lui demander plus tard ce qui s’est passé pour lui, sans se prononcer sur ce qu’il aurait dû endurer.\n\nPour Joachim, la peur remonte quand le passage lui paraît encombré. L’accord avec Diego rend possible un départ sans laisser un blanc dans la présentation. Quand il revient, il garde la possibilité de s’asseoir et d’écouter. Parler reste une décision qu’il peut prendre au moment où elle se pose."
+        },
+        {
+          "heading": "Faire exister le projet pendant la pause",
+          "text": "Diego reprend le contenu préparé. Il peut parler de la rue parallèle et des observations de Samia. Il reste un interlocuteur du public quand Joachim est dans le hall. Il peut ensuite lui laisser reprendre la photo si Joachim lève la main, comme ils en sont convenus. Chacun sait ce qu’il a à dire. Leur accord a une utilité qui dépasse la gestion du départ.\n\nEn consultation, Joachim pourra décrire la configuration de la salle, le signe qu’il a fait et ce qui l’a amené à revenir. Il se souviendra peut-être autant du manteau que de la première question sur le banc. Louise pourra s’appuyer sur ces éléments et sur ce qu’il en dit aujourd’hui, avec son accord, pour continuer le travail qu’ils ont choisi ensemble. Un moment où il se sent encore mal peut coexister avec un moment où il prend la parole."
+        }
+      ],
+      "ending_title": "L’ombre sur le banc",
+      "ending": "Joachim lève la main quand Martine revient à la photo du lavoir. Il montre la façade qu’on distingue derrière le banc et explique de quel côté vient l’ombre plus tard dans la journée. Le participant lui demande s’il peut repartir avec une carte. Joachim lui tend son épreuve pliée et indique que l’association va mettre à disposition la version finale. Quand Diego propose de ranger les chaises, Joachim lui demande de lui garder une copie. Il voudrait l’apporter à Louise.",
+      "mirror": [
+        "Diego peut reprendre la présentation comme prévu, garder les informations personnelles hors du micro et laisser Joachim lui indiquer s’il veut intervenir. Après la séance, il peut lui dire « La question du banc est revenue pendant la pause. Tu as répondu à quelque chose que je ne savais pas. » Il peut demander comment Joachim souhaite reparler de ce départ à un moment tranquille, tout en poursuivant le rangement avec les autres."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes"
+      ],
+      "continuity": {
+        "choice": "Joachim sort quelques minutes, revient à sa place et répond à la question du banc pendant que Diego assure le relais prévu.",
+        "next": "Après la soirée, Joachim et Diego préparent la version finale et Joachim fait le point avec Louise."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "joachim-la-carte-laisse-un-chemin-ouvert",
+      "title": "Mesurer le chemin parcouru quand certaines sorties restent difficiles",
+      "description": "La carte du lavoir est prête. Joachim revient sur ses choix avec Louise et garde le belvédère pour une autre fois.",
+      "context": "À la remise de la carte, puis au suivi",
+      "topics": [
+        "Évolution par situations",
+        "Activités retrouvées",
+        "Continuité du suivi"
+      ],
+      "clinical_focus": "Progrès et difficultés qui coexistent",
+      "clinical_intro": "Joachim tient une carte qu’il a aidé à réaliser. Il a parfois changé de chemin, demandé un relais ou continué après une pause. Il n’a toujours pas choisi de date pour le belvédère. L’évolution de l’agoraphobie peut mêler des déplacements retrouvés et des difficultés qui persistent. Joachim fait le point sur ce qu’il peut faire et ce qu’il voudrait encore aborder en suivi.",
+      "opening": "La première carte tombe de travers dans le bac de l’atelier. Joachim la redresse et passe le doigt sur le lavoir, à l’endroit où le trait de la rue contourne le verger. Les photos montrent une plaque, le banc et le passage vu après la pluie. Martine a validé le texte avec Samia et Diego. Le chemin par la terre est décrit et la variante figure en trait continu. Le point de vue après les Aulnes n’entre pas dans la boucle proposée. Diego a gardé une image personnelle du belvédère. Il vient chercher les exemplaires avec sa règle pliante, qu’il avait oubliée ici depuis la réunion.\n\nEn attendant que la dernière feuille sèche, Diego demande à Joachim ce qu’il voudrait photographier ensuite. Joachim regarde le papier qui dépasse du bac. Il pense à l’endroit où le bus avait fait demi-tour et se demande si la route est de nouveau ouverte. Il aimerait voir ce qu’on photographie depuis le belvédère au lever du jour. Il ne sait pas encore s’il veut prendre le bus jusque-là. Il propose de marcher jusqu’au lavoir un autre matin pour reprendre la lumière sur l’eau. Diego dit qu’il aimerait venir s’ils passent par la rue du verger.\n\nAu rendez-vous suivant, Louise ouvre la carte à l’endroit où Joachim avait noté l’ombre. Il lui raconte la sortie du hall et la question qu’il a entendue en revenant. Avant, il aurait surtout cité les minutes passées dehors. Il prend plaisir à expliquer la réponse qu’il a donnée. Puis il lui montre dans son carnet ce qu’il s’est dit quand il a vu le détour du bus. Il voudrait parler des changements de trajet la prochaine fois.",
+      "sections": [
+        {
+          "heading": "Regarder la vie quotidienne sur plusieurs moments",
+          "text": "L’agoraphobie peut avoir des effets durables et variables. Un déplacement rendu possible et une situation qui reste très difficile peuvent exister à quelques jours d’intervalle. La comparaison gagne à porter sur des faits. Joachim a rejoint le lavoir avec Diego, repris un retour court dans le cadre de son suivi et choisi comment présenter une photo. Il a aussi quitté une file et reporté une visite après un changement de trajet. Avec Louise, il peut regarder ce que cela change pour ses sorties, son travail et ses relations.\n\nLe suivi peut s’intéresser à la peur et à la place que la personne retrouve pour des activités qui lui importent. Joachim a aimé expliquer l’ombre du banc. Ce détail a du sens même s’il ne dit rien du prochain voyage. Sa façon de choisir un rendez-vous, d’en parler et de tenir compte du temps des autres fait également partie du parcours qu’il peut raconter."
+        },
+        {
+          "heading": "Laisser une décision ouverte",
+          "text": "Le prochain projet de Joachim peut commencer par une photographie au lavoir. Il peut également reprendre en consultation le moment où l’arrêt du bus a changé. La durée et les priorités du suivi se discutent avec Louise selon ce dont il a besoin et ce qu’ils observent. Elle peut lui demander ce qu’il voudrait retrouver dans ses sorties et ce qui lui demande encore beaucoup d’effort.\n\nDiego peut garder son envie de marcher jusqu’au verger. Les deux hommes peuvent choisir de se retrouver pour la lumière du matin ou commencer chacun de leur côté. Le belvédère reste une idée que Joachim voudrait peut-être essayer. Il a déjà de quoi parler avec Diego quand ils se voient. La question de la prochaine photo leur rend un espace où chacun peut encore proposer quelque chose."
+        }
+      ],
+      "ending_title": "Une carte à montrer et un retour à discuter",
+      "ending": "Ana retrouve la carte dans sa boîte aux lettres. Joachim lui a entouré la plaque de rue qu’il a photographiée le premier matin. Quand elle vient dîner, elle lui demande de lui montrer le reflet qu’on voit au-dessus du lavoir. Joachim va chercher les autres images. Il lui propose de choisir une séance pour le prochain film, un jour où ils en auront envie tous les deux. Sur le buffet, il a laissé son carnet ouvert à la page du rond-point. Il sait ce qu’il voudra aborder avec Louise.",
+      "mirror": [
+        "Ana peut s’intéresser à une chose précise que Joachim a faite. « Tu me montres comment tu as pris la photo du lavoir ? » Elle peut entendre qu’une autre sortie reste incertaine et proposer un moment qui lui plaît aussi. S’ils reparlent du cinéma, ils peuvent reprendre ce qui leur avait convenu et revoir ensemble le déroulement. Joachim décide de ce qu’il souhaite travailler ensuite avec Louise."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-agoraphobie-symptomes",
+        "nhs-agoraphobie-prise-en-charge"
+      ],
+      "continuity": {
+        "choice": "Joachim publie la carte avec la variante du verger, garde le belvédère en suspens et choisit de discuter des trajets modifiés en suivi.",
+        "next": "Le projet de carte est terminé. Joachim conserve son lien avec Diego et poursuit son travail avec Louise en gardant la photographie pour lui-même."
+      }
+    }
+  ]
+}

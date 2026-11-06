@@ -527,6 +527,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "éric": {
+    "id": "eric",
+    "name": "Éric",
+    "keywords": [
+      "Dépendance à l’alcool",
+      "Difficulté à interrompre la consommation",
+      "Envie de boire liée au contexte",
+      "Conséquences sur les engagements",
+      "Honte et retour dans le soin"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "gabin": {
     "id": "gabin",
     "name": "Gabin",
@@ -596,6 +608,18 @@
       "Interruptions d’activité",
       "Appréhension du regard",
       "Sécurité et autonomie"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "joachim": {
+    "id": "joachim",
+    "name": "Joachim",
+    "keywords": [
+      "Agoraphobie",
+      "Anxiété d’anticipation",
+      "Crainte de ne pas pouvoir sortir",
+      "Évitement des sorties",
+      "Accompagnement choisi"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -671,6 +695,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "morgane": {
+    "id": "morgane",
+    "name": "Morgane",
+    "keywords": [
+      "Hyperphagie boulimique",
+      "Perte de contrôle alimentaire",
+      "Honte après les épisodes",
+      "Crainte des commentaires corporels",
+      "Soutien choisi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "nils": {
     "id": "nils",
     "name": "Nils",
@@ -719,6 +755,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "renaud": {
+    "id": "renaud",
+    "name": "Renaud",
+    "keywords": [
+      "Trouble de la personnalité narcissique",
+      "Besoin d’admiration",
+      "Attente de traitement de faveur",
+      "Honte face à la critique",
+      "Écoute et responsabilité"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "roxane": {
     "id": "roxane",
     "name": "Roxane",
@@ -764,6 +812,30 @@
       "Épisodes de l’humeur",
       "Signes de rechute",
       "Rétablissement au travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "thaïs": {
+    "id": "thais",
+    "name": "Thaïs",
+    "keywords": [
+      "Phobie spécifique",
+      "Peur des hauteurs",
+      "Anxiété anticipatoire",
+      "Évitement",
+      "Confidentialité au travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "victoire": {
+    "id": "victoire",
+    "name": "Victoire",
+    "keywords": [
+      "Boulimie nerveuse",
+      "Perte de contrôle alimentaire",
+      "Compensations répétées",
+      "Honte et secret",
+      "Image corporelle et estime de soi"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

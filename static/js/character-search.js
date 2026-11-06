@@ -15,6 +15,7 @@
     ['separation','rupture','divorce','separe','separee','divorcee'],
     ['deuil','veuf','veuve','veuvage'],
     ['timidite','timide','timides'],
+    ['narcissisme','narcissique','narcissiques'],
     ['creativite','creatif','creative','creatifs'],
     ['travail','professionnel','professionnelle','boulot','emploi'],
     ['parents','parent','parental','parentale','parentalite'],

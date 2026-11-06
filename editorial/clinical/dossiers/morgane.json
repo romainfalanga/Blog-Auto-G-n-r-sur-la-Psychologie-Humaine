@@ -1,0 +1,39 @@
+{
+  "references": {
+    "has-ffab-tca": {
+      "title": "Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf"
+    },
+    "nice-ng69-hyperphagie": {
+      "title": "NICE, recommandations NG69 sur les troubles des conduites alimentaires",
+      "url": "https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896"
+    },
+    "cim-11-hyperphagie": {
+      "title": "OMS, CIM-11 en français, entrée 6B82 « Frénésie alimentaire »",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1673294767"
+    }
+  },
+  "dossier": {
+    "name": "Hyperphagie boulimique",
+    "aliases": [
+      "Frénésie alimentaire (CIM-11)",
+      "Frénésie alimentaire",
+      "Binge-eating disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "has-ffab-tca",
+      "nice-ng69-hyperphagie",
+      "cim-11-hyperphagie"
+    ],
+    "points": [
+      "Dans le CDDR de l’OMS, 6B82, p. 407–410, les épisodes récurrents associent une perte de contrôle ressentie et une manière de manger nettement plus ou autrement que d’habitude pendant un temps délimité. La détresse marquée ou le retentissement significatif et les autres explications possibles font partie de l’évaluation. Le cadre CIM-11 admet que la quantité soit surtout jugée importante par la personne. Un repas copieux, un appétit prononcé ou une expérience isolée ne permettent pas de conclure.",
+      "L’intitulé français de la CIM-11 est « Frénésie alimentaire ». La HAS et la FFAB utilisent « hyperphagie boulimique ». La perte de contrôle peut se rencontrer dans les deux troubles. La boulimie comporte des conduites compensatoires inappropriées récurrentes destinées à prévenir la prise de poids. L’hyperphagie boulimique se caractérise par l’absence de leur accompagnement régulier. L’apparence corporelle ne permet pas cette distinction.",
+      "L’OMS décrit la honte, la culpabilité ou le dégoût comme des expériences fréquentes qui peuvent affecter la manière de se juger. Le trouble et son coût peuvent être dissimulés malgré une présence au travail. Une remarque sur le corps, le stress ou un conflit peut avoir une place dans le vécu individuel. Le rôle de chaque contexte se discute dans le suivi sans inférer une cause générale.",
+      "Les recommandations HAS/FFAB, notamment les sections 3.1, 3.2 et 3.4, situent une prise en charge coordonnée, adaptée aux besoins et discutée avec la personne. Elles prennent en compte la santé physique, psychique et le retentissement social et envisagent un accompagnement psychothérapeutique. L’implication des proches se discute et s’adapte au contexte. Dans le récit, le suivi spécialisé est déjà en cours et Morgane choisit ce qu’elle partage.",
+      "Le NICE NG69, partie sur l’hyperphagie boulimique, décrit l’aide guidée et les thérapies cognitivo-comportementales spécialisées parmi les options chez l’adulte. L’analyse de situations et la préparation aux difficultés futures peuvent y être travaillées. La perte de poids ne constitue pas en elle-même un objectif du traitement psychologique de l’hyperphagie boulimique. Le suivi somatique relève de décisions séparées avec les professionnels.",
+      "La durée, l’intensité, le contexte et le retentissement peuvent varier. Une activité retrouvée ou un épisode survenu après une période plus calme ne résument pas à eux seuls l’évolution. Décrire le vécu et le besoin d’aide au prochain rendez-vous ou demander un contact approprié si la situation le nécessite. Les proches proposent un appui, préservent les limites convenues et laissent les décisions de soins à la personne et à son équipe."
+    ]
+  },
+  "direction": "Morgane a 42 ans. Elle connaît le poids d’une branche dans une composition et le moment où quelqu’un a besoin d’essayer avec ses propres mains. À l’atelier d’insertion, elle veut une matinée où des visiteurs de passage peuvent apprendre un geste court, au lieu de devoir regarder une démonstration entière. Sonia est sa collègue. Yassine, récemment arrivé, tient à montrer ses essais et refuse les tâches qu’on décide à sa place. Lucie, la sœur de Morgane, a ses habitudes et peut entendre une limite. La psychologue Anna et les autres membres de l’équipe suivent Morgane pour une hyperphagie boulimique diagnostiquée avant le récit. Écrire les crises à travers la perte de contrôle, la détresse et les conséquences ordinaires, sans inventaire alimentaire ni détail de compensation. Les scènes ne font ni de la silhouette une preuve ni du travail un remède. La confidence, l’organisation des soins et la matinée suivent des rythmes distincts. Répartir les actes de soutien entre collègues, sœur et équipe avec leur accord. L’arc s’achève sur un projet réellement partagé et un suivi qui peut se poursuivre."
+}

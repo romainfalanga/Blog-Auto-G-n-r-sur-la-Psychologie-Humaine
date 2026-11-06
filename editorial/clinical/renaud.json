@@ -1,0 +1,474 @@
+{
+  "character_id": "renaud",
+  "bio": "Renaud a 42 ans et dirige la création dans un studio de signalétique. Le trouble de la personnalité narcissique a été reconnu lors d’une évaluation professionnelle, après des difficultés durables dans ses relations et au travail. Il conçoit avec Yara les repères d’un centre culturel. Il aime trouver une direction nette dans un bâtiment compliqué. Quand une idée plaît et que les regards se tournent vers quelqu’un d’autre, il a plus de mal à se situer. Avec sa sœur Édith, son ami Malik et sa thérapeute, il apprend à entendre ce qui se joue dans ces moments.",
+  "profile_topics": [
+    "Trouble de la personnalité narcissique",
+    "Besoin d’admiration",
+    "Attente de traitement de faveur",
+    "Honte face à la critique",
+    "Écoute et responsabilité"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "renaud-besoin-admiration-signature",
+      "title": "Besoin d’admiration quand une idée reçoit des éloges",
+      "description": "Renaud présente un projet conçu avec Yara. Au moment du compliment, il a du mal à lui faire la place qui lui revient.",
+      "context": "Premier rendez-vous de janvier au centre culturel, avec Yara et Nora",
+      "topics": [
+        "Besoin d’admiration",
+        "Attribution du travail",
+        "Place dans le groupe"
+      ],
+      "clinical_focus": "Besoin d’admiration",
+      "clinical_intro": "Nora salue l’idée qui permettra aux visiteurs de reconnaître chaque étage. Renaud entend surtout qu’elle apprécie sa présentation et répond au singulier. Dans le trouble de la personnalité narcissique, l’admiration peut prendre une place importante dans la façon de mesurer sa valeur. La réaction de Yara ramène Renaud à une question concrète. Qui a réellement conçu ce qu’il vient de montrer ?",
+      "opening": "Dans la petite salle de réunion, le chauffage fait gondoler l’angle de la feuille que Renaud vient de poser. Il pose sa tasse vide sur le bord pour l’aplatir. À travers le vitrage, il voit la porte du hall du futur centre culturel. Derrière, un escalier file tout droit jusqu’au deuxième étage. Quand on le prend, on laisse la salle de danse sur sa gauche sans jamais la voir. Il avait aimé ce défaut dès la première visite. C’était le genre de problème qui mérite davantage qu’une flèche.\n\nYara ouvre sur son ordinateur une suite de formes qu’elle a dessinées après avoir regardé comment les visiteurs se perdaient entre les deux ailes. Renaud montre de son côté les essais de caractères et les dimensions prévues pour les panneaux. Nora dirige le centre et prend des notes avec un feutre qui traverse le papier. « Cette idée de changer de forme à chaque étage est vraiment bonne. Comment tu y as pensé ? » Elle regarde Renaud, qui tient encore la feuille. Il sent une détente franche, comme après avoir remis correctement la dernière ligne d’un plan. « J’ai voulu que ça reste reconnaissable au premier coup d’œil », répond-il.\n\nYara referme doucement l’écran. Elle attend que Nora sorte répondre au téléphone pour lui dire qu’elle aimerait que l’origine de l’idée soit claire au moment de rédiger le dossier. Renaud a déjà préparé sa défense. Il allait répondre que Nora les avait très bien entendus tous les deux. Mais Yara lui demande s’il a écouté le pronom qu’il vient d’employer. Il regarde la tasse posée sur le papier. Il pourrait la soulever tout de suite. Il la laisse encore là.",
+      "sections": [
+        {
+          "heading": "Quand une appréciation prend beaucoup de place",
+          "text": "La reconnaissance peut avoir une valeur ordinaire. Renaud a réfléchi à la disposition des panneaux et a de bonnes raisons d’être heureux du retour de Nora. Dans le trouble de la personnalité narcissique, le besoin d’être admiré peut toutefois devenir assez intense pour orienter une partie des échanges. Une approbation attendue peut occuper l’attention au moment même où un partenaire de travail a quelque chose à dire.\n\nLe récit donne à voir deux effets du même moment. Pour Renaud, le compliment lui apporte du soulagement et confirme la place qu’il cherche à tenir. Pour Yara, la réponse efface la part de son travail dont dépend le projet. La question de la reconnaissance a donc une conséquence vérifiable. Nora repart avec une attribution inexacte et Yara doit l’arrêter avant que cette attribution se retrouve dans le dossier."
+        },
+        {
+          "heading": "Rétablir les faits au bon endroit",
+          "text": "Renaud peut reconnaître son plaisir d’avoir été écouté et corriger précisément ce qu’il a dit. Il se souvient que Yara a réalisé les observations et dessiné les formes de repérage. Lui a travaillé sur la composition des panneaux et la cohérence des textes. S’il apporte cette précision à Nora, elle pourra s’appuyer sur un récit fidèle pour rédiger sa note.\n\nLes difficultés qui ont conduit à son diagnostic se sont manifestées pendant des années, dans plus d’un domaine de sa vie. Cette scène éclaire une réaction particulière et son coût pour une collègue. Le soin peut l’aider à mieux repérer ce qui se passe au moment où la reconnaissance devient urgente. L’attribution du travail, elle, dépend des mots et des actes que les personnes concernées peuvent constater."
+        }
+      ],
+      "ending_title": "Deux lignes avant de partir",
+      "ending": "Nora revient en soufflant dans ses mains. Renaud reprend le plan. « La suite de formes, c’est Yara qui l’a conçue à partir de ses observations. J’ai travaillé sur les panneaux avec elle. » Yara déplie de nouveau son écran et propose de détailler son essai mardi. En rentrant, Renaud trouve le premier message de synthèse dans sa boîte. Il écrit les deux contributions dans sa réponse et met Yara en copie. Elle lui demande de relire ensemble la version publique quand elle arrivera. Il inscrit ce point dans leur agenda.",
+      "mirror": [
+        "Yara peut demander une correction située. « Quand Nora a posé la question sur les formes, tu as répondu en ton nom. J’ai dessiné cette suite et je veux que ce soit dit dans le dossier. » Elle peut demander une réponse écrite ou faire préciser elle-même sa contribution si le sujet revient. Si la situation se répète, elle peut poser ses conditions de collaboration avec l’appui du cadre professionnel qui lui convient."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud attribue à Yara la conception des formes devant Nora, puis l’inscrit dans la réponse de synthèse.",
+        "next": "Mardi, Yara détaille son essai. Ils doivent relire ensemble le document de présentation publique."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "renaud-attendre-une-exception",
+      "title": "L’attente d’une exception quand les autres ont déjà choisi",
+      "description": "Pour le dîner d’Édith, Renaud veut déplacer l’heure. Le refus de sa sœur l’oblige à considérer aussi les contraintes des invités.",
+      "context": "Dîner d’anniversaire d’Édith, un samedi de janvier",
+      "topics": [
+        "Attente de traitement de faveur",
+        "Frustration",
+        "Limites familiales"
+      ],
+      "clinical_focus": "Attente de traitement de faveur",
+      "clinical_intro": "Édith a choisi une heure qui convient à ses invités. Renaud annonce qu’il arrivera plus tard et demande qu’on décale le repas. Dans le trouble de la personnalité narcissique, l’attente d’un traitement de faveur peut devenir assez forte pour rendre les contraintes des autres secondaires. Le refus d’Édith l’oblige à regarder ce qu’il demandait réellement à tout le monde.",
+      "opening": "Renaud traverse la ville avec deux pâtisseries dans une boîte carrée, posée par terre derrière le siège conducteur. Le déjeuner professionnel qu’il a accepté déborde sur l’après-midi. Il a le temps de faire un détour au studio et d’arriver chez Édith avec quarante minutes de retard. Sur une aire de stationnement, il lui envoie un message. « Décalez un peu, je viens juste après. » Il range le téléphone dans le vide-poche et imagine déjà Édith expliquant que son frère est pris par le nouveau centre culturel.\n\nLorsqu’il se gare devant le studio, il trouve deux messages. Le premier vient de sa sœur. « On garde l’heure. Sophie reprend le train à vingt heures trente. Viens quand tu peux. » Le second est de Malik, qui apporte du pain. Il lui demande seulement s’il prend une bouteille d’eau au passage. Renaud appelle Édith. Il voudrait savoir pourquoi elle a décidé de commencer alors qu’il apporte le dessert. Il a même prévu une petite annonce à propos du projet. Édith laisse passer un bruit de couverts puis lui répond que Sophie a déjà modifié son trajet pour venir. « Je veux passer un moment avec elle aussi. »\n\nIl trouve le ton inutilement ferme. Pendant quelques secondes, il envisage d’annuler sa venue et de laisser les pâtisseries au studio pour lundi. Il regarde à nouveau le message de Malik. Le sien demandait à six personnes d’attendre. Celui de Malik demande une bouteille d’eau. Il n’a pas grand-chose à faire au studio. Il garde la clef dans sa poche, reprend sa voiture et dit à Édith qu’il les rejoindra dès qu’il aura traversé le pont.",
+      "sections": [
+        {
+          "heading": "Quand une préférence devient une attente",
+          "text": "La préférence pour un horaire différent peut être facile à expliquer. Dans cette scène, Renaud traite son retard comme une information à laquelle tout le groupe devrait s’adapter. Il suppose que sa présence et son annonce justifient l’exception. Une attente disproportionnée de traitement favorable peut faire partie des difficultés du trouble de la personnalité narcissique quand elle se répète et pèse sur les relations.\n\nLe sentiment d’être mal accueilli surgit pour lui avant qu’il entende la raison d’Édith. La contrainte de Sophie reste la même quel que soit le prestige du projet dont il veut parler. Le point de vue d’Édith compte également. Elle organise son anniversaire et peut choisir de passer du temps avec plusieurs personnes. Renaud peut éprouver sa déception tout en reconnaissant ces éléments."
+        },
+        {
+          "heading": "Choisir ce qui dépend de soi",
+          "text": "Édith formule une décision qu’elle peut appliquer. Elle garde l’heure et indique que son frère reste bienvenu. Elle répond à la demande réelle sans négocier la valeur du travail de Renaud ou celle de sa présence. Cela laisse un choix à chacun. Les invités peuvent commencer et Renaud peut organiser son déplacement ou arriver plus tard.\n\nDans une relation où ce genre de demande se répète, un accord explicite aide à voir ce que chacun peut tenir. Ici, la comparaison des deux messages fait comprendre à Renaud combien de personnes son choix mobilisait. Il pourra en parler à sa thérapeute s’il veut comprendre pourquoi une réponse négative lui a donné si vite envie de se retirer. Édith n’a pas à attendre cette discussion pour maintenir sa limite."
+        }
+      ],
+      "ending_title": "La chaise au bout de la table",
+      "ending": "La table est presque pleine quand il arrive. Édith a laissé une chaise au bout, à côté de Malik. Renaud dépose la boîte dans la cuisine et revient sans commencer son annonce. Sophie raconte qu’elle a changé de poste et son train part bientôt. Il lui demande à quelle gare elle descend. Quand elle s’en va, Édith lui propose de l’aider à porter deux cartons chez leur tante dimanche prochain. Elle veut y être à quinze heures. Il regarde l’horaire avant de dire oui.",
+      "mirror": [
+        "Édith peut dire clairement ce qu’elle organise. « Je garde l’heure parce que Sophie doit repartir. On t’attend quand tu arrives. » Si Renaud insiste, elle peut répéter l’information une fois et retourner à son dîner. Chacun peut prendre en charge son trajet. Édith peut aussi revoir un engagement ultérieur si elle s’aperçoit que les retards lui laissent régulièrement le travail à faire seule."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Édith conserve l’horaire de son dîner et Renaud la rejoint. Il s’engage ensuite à porter les cartons dimanche à quinze heures.",
+        "next": "Renaud a accepté l’horaire avant de promettre de venir. Le test de parcours avec Yara est prévu mardi."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "renaud-critique-honte-retour",
+      "title": "Quand une remarque sur le travail devient une humiliation",
+      "description": "Un essai dans le hall révèle une erreur sur un panneau. Renaud se défend avant de pouvoir entendre ce que Yara lui montre.",
+      "context": "Mardi après-midi, au premier essai dans le hall",
+      "topics": [
+        "Sensibilité à la critique",
+        "Honte",
+        "Réponse défensive"
+      ],
+      "clinical_focus": "Honte après une critique",
+      "clinical_intro": "Au premier essai, une visiteuse part vers la mauvaise porte en suivant un panneau conçu par Renaud. Yara demande de reprendre le texte. Il entend d’abord une remise en cause de sa compétence et attaque la manière dont l’essai s’est déroulé. Certaines personnes présentant ce trouble vivent la critique avec une honte aiguë. Ce que l’équipe doit corriger reste une question concrète.",
+      "opening": "Yara a invité trois personnes à retrouver deux salles depuis l’entrée. Elle leur a remis une feuille par personne et garde un peu de distance pour ne pas leur montrer où regarder. La première visiteuse prend la porte qui mène aux bureaux, revient et relit le panneau de Renaud. « Je croyais que c’était par là », dit-elle. La seconde fait le même détour. Derrière la cloison, Renaud suit le passage de leurs chaussures sur le sol gris.\n\nUne fois les visiteurs partis, Yara étale ses notes. Les formes les aident au changement d’étage. Dans le hall, le libellé d’une flèche a l’air de désigner toute l’aile. Yara propose d’essayer le nom complet de la salle. Renaud voit Nora noter quelque chose dans son carnet. Il lui paraît soudain impossible de reconnaître devant elle qu’il a raccourci le nom pour conserver la longueur de ligne qu’il préférait. « On aurait dû expliquer le bâtiment avant de les envoyer marcher », dit-il. Yara lui rappelle que les visiteurs du samedi découvriront eux aussi le hall. Il réplique que tout aurait été différent avec les panneaux à la bonne hauteur. Il voit Yara refermer ses notes, exactement comme elle avait refermé son écran le jeudi précédent.\n\nDehors, Renaud s’assoit sur un banc très bas. Son premier réflexe est de chercher une faute dans la façon dont Yara a préparé les consignes. Il pense à ce qu’il aurait dit si les visiteurs s’étaient bien orientés. Il aurait sûrement remercié Yara pour le test. Il ouvre leur conversation commune et tape « Il y a deux retours sur le même panneau ». Il laisse les mots en place avant d’écrire la suite.",
+      "sections": [
+        {
+          "heading": "Ce qui est en jeu quand la critique touche l’estime de soi",
+          "text": "Chez certaines personnes présentant un trouble de la personnalité narcissique, une critique peut être vécue comme une chute brutale de la valeur qu’elles s’accordent. De la honte ou de la colère peut surgir avant qu’elles traitent la remarque elle-même. La réponse se manifeste diversement, par une attaque, un effort pour retrouver le dessus ou un retrait. Les personnes éprouvent ces réactions de façons différentes.\n\nRenaud sait que la visiteuse est partie du mauvais côté. Lorsqu’il se sent observé par Nora, il pense surtout à l’idée qu’on pourrait le croire incompétent. La façon dont Yara a organisé l’essai devient une cible. Sa remarque fait perdre du temps à Yara et la place en position de justifier sa méthode. La honte ressentie éclaire ce passage de la discussion sans effacer ce qu’il vient de dire."
+        },
+        {
+          "heading": "Revenir à une correction qu’on peut observer",
+          "text": "La feuille de Yara contient les deux trajets. Renaud peut reprendre cette information et proposer d’essayer deux libellés avec la même consigne. Cette réponse revient sur la tâche commune. Elle ne demande pas à Yara de confirmer que son travail était bon et elle préserve la possibilité de contester l’essai pour une raison précise si une autre difficulté apparaît.\n\nCe passage fournit aussi un exemple dont Renaud pourra parler en consultation. Il y a la perception d’être jugé, la chaleur qu’il ressent en entendant la remarque, la défense formulée à voix haute et la réaction de Yara. Reconstituer ce qui s’est passé peut aider à repérer la part qu’il aurait la possibilité de traiter autrement. Il peut commencer par reconnaître ce qu’il a fait devant les personnes présentes."
+        }
+      ],
+      "ending_title": "Un nouveau libellé",
+      "ending": "Il envoie le message à Yara et à Nora. « J’ai attaqué le test alors que deux personnes ont mal compris le même panneau. Je vais préparer le nom complet pour le nouvel essai. » Yara répond plus tard. Elle accepte de refaire un passage, à condition qu’ils décident ensemble comment noter les trajets. Renaud range le téléphone avant de lire les autres échanges du studio. Dans son carnet, il garde la phrase sur la hauteur. Il veut comprendre pourquoi il l’a dite à cet instant.",
+      "mirror": [
+        "Yara peut recentrer l’échange sur le constat. « Deux personnes sont parties vers les bureaux. Je veux qu’on trouve quel texte nous pourrions réessayer. » Si les remarques portent sur sa compétence, elle peut suspendre la réunion et proposer un cadre où elle sera entendue. Elle peut décider séparément si elle a envie d’écouter Renaud parler de ce qu’il a ressenti. Son retour sur l’essai reste valable."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr",
+        "edershile-et-al-2024"
+      ],
+      "continuity": {
+        "choice": "Renaud reconnaît devant Yara et Nora qu’il a attaqué le test. Il propose de refaire le panneau avec le nom complet.",
+        "next": "Yara accepte un nouvel essai avec un accord sur les observations. Renaud garde une note sur sa réaction pour la consultation."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "renaud-ecouter-edith",
+      "title": "Entendre ce dont l’autre a besoin quand on veut être entendu",
+      "description": "Renaud vient aider Édith à porter des cartons. En racontant sa semaine, il passe à côté de ce que sa sœur lui demande.",
+      "context": "Dimanche à quinze heures, devant l’immeuble de leur tante",
+      "topics": [
+        "Empathie en contexte",
+        "Attention aux besoins d’autrui",
+        "Engagement concret"
+      ],
+      "clinical_focus": "Empathie et attention à l’autre",
+      "clinical_intro": "Renaud arrive à l’heure pour aider Édith. Il a encore en tête la discussion difficile avec Yara et parle du centre sans laisser sa sœur finir. Prendre en compte le point de vue de l’autre peut devenir difficile quand la place qu’on cherche à défendre occupe l’essentiel de l’attention. Édith a besoin d’une heure de fin pour pouvoir compter sur leur accord.",
+      "opening": "Le premier carton a gardé une poignée intacte. Édith le pose sur le paillasson de leur tante et prend le plus petit, qu’elle peut tenir près du corps. Renaud a trouvé une place dans la rue. Il lui montre les clefs à travers la vitre du hall, fier d’être à l’heure, puis remonte pour prendre le carton lourd. Dans l’escalier, il lui raconte le panneau que deux visiteurs n’ont pas compris. Il rejoue la voix de Nora qui lui demande à quelle date ils feront le prochain essai. Il croit qu’Édith va rire en entendant l’imitation.\n\nElle s’arrête à mi-étage. Elle a prévu un appel à seize heures et lui demande s’il peut faire le dernier trajet seul si leur tante les retient pour le café. Renaud lui dit qu’il a surtout besoin de savoir si l’équipe peut lui reprocher de faire attention à la présentation des panneaux. Édith change le carton de bras. « Je te demande pour seize heures. » Il remarque alors que son écharpe glisse et qu’elle ne peut pas la reprendre sans poser ce qu’elle porte. Il se décale pour la laisser atteindre le rebord de la fenêtre.\n\nEn bas, sa sœur lui explique qu’elle doit parler à une amie qui cherche une chambre et qu’elle lui a promis de lui garder ce créneau. Renaud allait lui dire qu’une discussion de ce genre peut attendre. Il se rappelle qu’il n’a encore posé aucune question sur ce qu’elle avait prévu. Il lui demande jusqu’à quelle heure elle peut rester dans l’immeuble. Édith lui montre la marche d’où l’on voit sa voiture. Elle pourra partir de là à moins dix.",
+      "sections": [
+        {
+          "heading": "Le besoin de l’autre peut rester hors du champ",
+          "text": "Tenir compte d’autrui suppose de pouvoir écouter ce que l’autre éprouve et de laisser cette information modifier une décision. Les difficultés d’empathie décrites dans le trouble de la personnalité narcissique peuvent concerner cette place accordée aux besoins d’autrui. Elles peuvent devenir particulièrement visibles lorsque la personne se concentre sur sa valeur ou le regard porté sur elle. Leur expression varie selon les personnes et les situations.\n\nRenaud voit qu’Édith porte un objet encombrant. Il lui laisse la place de le poser. Il lui est plus difficile d’entendre la demande sur l’heure car il veut encore être rassuré à propos de son travail. Ces deux faits peuvent coexister. Édith donne un renseignement dont il a besoin pour s’organiser et qui lui importe aussi pour sa propre vie."
+        },
+        {
+          "heading": "Faire compter ce qu’on a entendu",
+          "text": "Demander une heure précise permet à Renaud de choisir ce qu’il pourra porter seul. Il comprend qu’Édith a promis son temps à quelqu’un et qu’elle souhaite tenir cet engagement. La réponse devient plus complète dès lors que cette raison peut peser sur le plan de l’après-midi. Il peut garder son envie de raconter la réunion pour un moment où ils auront tous les deux le loisir de parler.\n\nLa discussion reste possible si Édith le souhaite. Renaud a fait un effort à un moment précis, dont ils peuvent constater le résultat. Pour savoir si sa manière d’écouter évolue dans la durée, sa thérapeute et lui peuvent revenir sur d’autres situations, notamment celles où reconnaître les besoins d’autrui lui demande davantage."
+        }
+      ],
+      "ending_title": "Le dernier carton près de la porte",
+      "ending": "À moins dix, Édith attrape son écharpe dans l’entrée. Renaud a posé le dernier carton près de la porte de leur tante pour le reprendre plus tard. Il descend avec elle pour tenir la porte du hall pendant qu’elle rejoint sa voiture. « Tu peux m’envoyer un message si tu veux un café en ville cette semaine ? » lui demande-t-elle. Il lui propose mercredi midi, puis pense à la réunion prévue et rouvre son agenda devant elle.",
+      "mirror": [
+        "Édith peut demander une réponse directement liée à la tâche. « J’ai promis d’être libre à seize heures. Est-ce que tu prends le dernier carton si je pars ? » Elle peut partir à l’heure annoncée, même si l’histoire du studio demeure inachevée. Si elle se sent souvent peu écoutée, elle peut choisir le temps qu’elle souhaite passer ensemble et en parler à quelqu’un en qui elle a confiance."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud prend en compte l’heure du départ d’Édith et porte le dernier carton seul.",
+        "next": "Il veut désormais proposer un moment pour parler plutôt que d’utiliser d’office le temps d’Édith. Les deux collaborateurs préparent toujours leur présentation publique."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "renaud-envie-credit-yara",
+      "title": "L’envie quand le mérite de l’autre devient visible",
+      "description": "Le journal local cite Yara. Bien que son nom figure au dossier, Renaud éprouve le crédit accordé à sa collègue comme une perte.",
+      "context": "Quatre semaines après le premier essai, dans le café où Malik prend sa pause",
+      "topics": [
+        "Envie",
+        "Comparaison de statut",
+        "Crédit professionnel"
+      ],
+      "clinical_focus": "Envie et comparaison de statut",
+      "clinical_intro": "Le journal local cite une phrase de Yara sur les formes que suivent les visiteurs. Renaud est nommé dans le dossier de projet, mais il vérifie plusieurs fois qu’il ne figure pas dans le journal. L’envie peut survenir quand la réussite de l’autre paraît diminuer sa propre valeur. Cet épisode distingue la place qu’il souhaite obtenir de celle qui revient à Yara.",
+      "opening": "Malik a plié le journal local pour le glisser sous sa soucoupe. Renaud aperçoit le bord de la photo et lui demande de lui passer la page. Il reconnaît l’escalier du hall, qui semble beaucoup plus large dans le journal. La journaliste a cité Yara sur le temps qu’il faut pour retrouver une salle dans un bâtiment inconnu. Le titre de l’encadré reprend une expression qu’elle avait utilisée mardi au studio. Plus bas, une phrase indique le nom du studio. Renaud retourne la page avant de vérifier s’il reste un paragraphe au verso.\n\nIl a relu avec Yara le dossier qui indique leurs deux rôles. Il était d’accord pour que la journaliste suive Yara durant un test, puisque c’est elle qui l’avait préparé. Aujourd’hui, il se souvient surtout d’avoir accepté très vite. « Elle aurait pu demander au directeur artistique aussi », dit-il. Malik repousse son verre et lui demande si l’article attribue son travail à quelqu’un d’autre. Renaud relit la citation. Yara parle bien de ce qu’elle a fait. Il lui vient tout de même une remarque sur le fait qu’elle s’exprime facilement devant une caméra. Il l’entend déjà prendre dans la bouche de Malik et devenir plus sèche encore.\n\nIl plie le journal en deux, puis le déplie. Il voudrait qu’il y ait une phrase sur le dessin des panneaux. Cela le gêne de le dire. Il finit par demander à Malik ce qu’il verrait de différent si son nom y figurait. « Tu serais content », répond son ami. Renaud touche du doigt la phrase de Yara. Il aurait aimé pouvoir répondre aussi simplement.",
+      "sections": [
+        {
+          "heading": "Lorsque la reconnaissance se lit comme une comparaison",
+          "text": "La joie pour quelqu’un et l’envie peuvent se côtoyer. Dans le trouble de la personnalité narcissique, la façon de se situer par rapport à autrui et de chercher de l’admiration peut donner beaucoup de poids à une comparaison. Le succès d’une autre personne peut être vécu comme le signe que sa propre place se réduit. Cette réaction ne se présente pas de manière uniforme et l’envie, à elle seule, ne renseigne pas sur un diagnostic.\n\nRenaud sait que l’encadré porte sur un test préparé par Yara. Il vérifie pourtant son propre nom avant de regarder ce qu’elle explique. Cette comparaison rapide lui fait envisager de rabaisser sa collègue pour se sentir à nouveau considéré. Malik pose une autre question, qui ramène l’échange au contenu de l’article et à ce que Renaud voudrait pour lui-même."
+        },
+        {
+          "heading": "Distinguer la place souhaitée et le crédit dû",
+          "text": "L’article est le résultat d’un choix d’angle. Le dossier public reste un endroit où les contributions doivent être attribuées avec précision. Renaud peut vérifier cet engagement avec Yara lorsqu’une nouvelle version arrive. Pour une autre occasion, il peut demander que son travail sur les panneaux soit présenté en tant que tel. Cette demande laisse à Yara son crédit et à la journaliste sa décision.\n\nReconnaître l’envie peut fournir un exemple utile en consultation. Renaud peut décrire ce qui l’a rendu jaloux, la remarque qu’il a envisagé de faire et l’effet qu’elle aurait pu avoir. Il garde aussi la possibilité de s’intéresser à ce que sa collègue a dit. La phrase citée explique un point qu’ils ont mis du temps à éclaircir ensemble."
+        }
+      ],
+      "ending_title": "Une citation en entier",
+      "ending": "Malik doit rentrer. Il laisse le journal sur la table et récupère le ticket de caisse qui dépassait du pli. Renaud lit enfin l’encadré du début à la fin. Il reconnaît un moment de l’essai où Yara avait demandé à une visiteuse de lui décrire son détour. Il lui envoie un mot précis sur cette citation. Puis il regarde l’invitation de Nora, reçue le matin. Elle veut leur parler de la présentation du mois suivant. Renaud confirme qu’il sera disponible.",
+      "mirror": [
+        "Malik peut faire une place au sentiment que Renaud exprime et garder sa liberté d’apprécier le travail de Yara. « Je comprends que tu aurais aimé être cité. Sa phrase explique ce qu’elle a fait pendant le test. » S’il sent qu’on lui demande de rabaisser quelqu’un, il peut quitter ce terrain. Il peut poursuivre le café sur un autre sujet ou rentrer comme il l’avait prévu."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr",
+        "edershile-et-al-2024"
+      ],
+      "continuity": {
+        "choice": "Renaud lit l’encadré en entier et reconnaît un apport de Yara dans un message. Il accepte le rendez-vous avec Nora.",
+        "next": "Nora organise la présentation du mois suivant. Les contributions de Renaud et de Yara figurent dans le dossier public déjà relu."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "renaud-retrait-apres-mise-ecart",
+      "title": "Se retirer quand on se sent relégué au second plan",
+      "description": "Nora propose à Yara de parler de son travail. Renaud renonce à venir et laisse une question de production à son équipe.",
+      "context": "Fin février au studio, après le rendez-vous sur la présentation de presse",
+      "topics": [
+        "Retrait après critique",
+        "Vulnérabilité narcissique",
+        "Conséquences professionnelles"
+      ],
+      "clinical_focus": "Retrait après une mise à l’écart perçue",
+      "clinical_intro": "Nora veut que Yara raconte elle-même les essais aux visiteurs. Renaud entend surtout qu’il ne sera pas la personne mise en avant et se retire du rendez-vous suivant. Une réponse de retrait peut accompagner la vulnérabilité à un jugement ou à une perte de statut perçue. Dans la scène, le silence de Renaud a un effet concret sur le travail de son équipe.",
+      "opening": "Nora tient la feuille du programme à deux mains, avec ses pouces de chaque côté d’une case beaucoup trop petite. Il y a trois interventions courtes et une seule case pour le studio. Elle propose que Yara explique les essais lors de la rencontre de presse. Renaud pourrait rester pour répondre aux questions de fabrication après la visite. La feuille circule dans la salle. Arrivé à lui, le papier a pris la chaleur des mains des autres. Il le regarde à peine. Il demande à Nora si le centre a modifié la responsabilité du studio. Elle lui répète qu’il s’agit de choisir une personne pour raconter le test.\n\nRenaud rentre sans passer par la cuisine commune. Sur son écran, une alerte lui rappelle que le fabricant vient le lendemain valider les dimensions avec eux. Il devait apporter un relevé qui permet à Yara de répondre à deux questions. Il déplace le relevé dans un autre dossier et envoie un message sec. « Je vous laisse faire la réunion. » Le soulagement est immédiat. Il n’aura pas à attendre qu’on lui demande de sortir un document pendant que Yara mène la discussion.\n\nLe lendemain, il entend le fabricant repartir avant de sortir de son bureau. Yara a reporté la validation de deux panneaux. Elle lui écrit qu’elle ne prendra pas de décision sur des mesures qu’elle n’a pas pu voir. Renaud avait imaginé qu’on le rappellerait dans la salle pour reconnaître son rôle. Le message lui demande surtout d’envoyer le relevé. Il va le chercher dans le dossier où il l’a placé. Le déplacement du fichier lui avait pris deux secondes. Celui du rendez-vous coûtera une semaine à l’équipe.",
+      "sections": [
+        {
+          "heading": "Quand le retrait apporte un soulagement immédiat",
+          "text": "Certaines personnes présentant ce trouble réagissent à une critique ou à une déception en s’isolant. La honte ou l’impression d’avoir perdu sa place peut rendre difficile le fait de rester en lien. Se retirer peut diminuer l’inconfort sur le moment. Le résultat peut aussi être un travail reporté ou une conversation laissée à la charge des autres. Ces effets dépendent de la situation et des responsabilités de chacun.\n\nRenaud peut choisir la part qu’il souhaite prendre dans la rencontre de presse. Il avait aussi accepté une tâche distincte auprès du fabricant. En laissant cette tâche en suspens, il met son équipe devant une décision qu’elle ne peut pas prendre. Comprendre la raison de son retrait l’aide à examiner ce qu’il pourra faire autrement. Cette compréhension ne remplace pas l’envoi du relevé."
+        },
+        {
+          "heading": "Répondre à la tâche et parler ailleurs du sentiment d’exclusion",
+          "text": "Le fichier est disponible. Renaud peut le remettre dans le dossier commun, convenir d’une date de rattrapage et prévenir la personne qui attend. Il peut parler à Nora de la répartition des rôles à un autre moment. Yara conserve la possibilité d’expliquer ses essais. La question de la représentation publique et la responsabilité technique peuvent chacune recevoir une réponse compréhensible.\n\nLe sentiment d’exclusion demeure pour Renaud. Il a prévu une consultation la semaine suivante. Il peut y apporter les deux messages, celui sur le programme et celui sur la validation. Examiner la différence entre ce que Nora a annoncé et ce qu’il en a conclu lui donne une situation précise à discuter. La relation de soin garde sa place à côté du travail de réparation dans l’équipe."
+        }
+      ],
+      "ending_title": "Le relevé dans le dossier commun",
+      "ending": "Renaud remet le document à sa place et envoie le lien à Yara et au fabricant. Il indique qu’il n’était pas venu alors qu’il avait le relevé et demande un créneau pour reprendre la validation. Yara peut venir jeudi matin. Elle lui demande de déposer les mesures la veille à l’avenir. Avant de fermer son agenda, il ajoute une note à son rendez-vous de consultation. Il écrit la phrase de Nora aussi exactement qu’il peut se la rappeler.",
+      "mirror": [
+        "Yara peut dire ce qu’elle attend pour travailler. « Le fabricant est venu et nous avons reporté deux décisions. J’ai besoin du relevé la veille, que tu viennes ou non. » Elle peut informer les personnes concernées du changement de date. Elle peut refuser de couvrir une absence récurrente et faire préciser les responsabilités par le studio. L’équipe de soins reste le lieu pour parler du retrait et du malaise si Renaud le souhaite."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr",
+        "edershile-et-al-2024"
+      ],
+      "continuity": {
+        "choice": "Renaud rend les mesures accessibles, reconnaît son absence et organise une nouvelle validation jeudi.",
+        "next": "Yara a demandé les mesures la veille. Renaud apporte sa perception du programme et sa réaction à sa prochaine consultation."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "renaud-diagnostic-contextes-dsm-cim",
+      "title": "Ce qu’un diagnostic éclaire dans plusieurs situations",
+      "description": "En consultation, Renaud relie un désaccord au travail et une attente familiale. Il demande aussi pourquoi les classifications diffèrent.",
+      "context": "Un jeudi après la validation avec le fabricant, en consultation",
+      "topics": [
+        "Diagnostic professionnel",
+        "Fonctionnement durable",
+        "DSM-5-TR et CIM-11"
+      ],
+      "clinical_focus": "Persistance dans plusieurs contextes",
+      "clinical_intro": "Renaud relit deux messages qu’il veut apporter en consultation. L’un concerne une tâche qu’il a laissée en suspens au studio. L’autre lui rappelle le dîner où il voulait que tous attendent son arrivée. L’épisode montre pourquoi une évaluation s’intéresse à un fonctionnement dans la durée et à ses effets dans plusieurs situations. La thérapeute explique aussi les différences entre le DSM-5-TR et la CIM-11.",
+      "opening": "Le fabricant a validé les dimensions le matin même. En arrivant à sa consultation, Renaud a encore sur son manteau un bout d’adhésif qui retenait le relevé au mur. Il le décolle et le roule entre ses doigts. Sa thérapeute lui demande ce qu’il veut reprendre aujourd’hui. Il lui montre la note où il a écrit la phrase de Nora sur le choix d’une intervenante. Sous la phrase, il a ajouté ce qu’il a répondu au sujet des responsabilités du studio. En relisant les deux lignes à voix haute, il se rend compte qu’elles ne parlent pas tout à fait de la même chose.\n\nRenaud dit que l’histoire lui rappelle le dîner d’Édith. Il avait demandé d’attendre son arrivée. Sa sœur lui avait répondu qu’une amie devait reprendre le train. Sur le coup, il lui avait fallu un moment pour entendre la raison qu’elle lui donnait. Il se souvient d’un changement d’horaire bien plus ancien, quand il travaillait avec un associé et que celui-ci avait refusé de recevoir un client en dehors des heures prévues. Il avait déjà eu cette sensation de compter moins. Il sort des dates qu’il croyait oubliées et s’arrête en voyant la surprise sur le visage de sa thérapeute.\n\nDepuis son évaluation, Renaud connaît le nom de son trouble. Il a essayé de le retrouver dans une autre classification et n’a pas vu la même entrée. Il demande si l’un des deux livres a raison. Sa thérapeute tourne la feuille et lui montre que deux descriptions peuvent suivre des logiques différentes. Il garde son doigt sur la note. Ce qui l’intéresse maintenant, c’est de comprendre comment une remarque sur une tâche finit par lui sembler dire quelle place il occupe parmi les gens.",
+      "sections": [
+        {
+          "heading": "Pourquoi l’évaluation s’intéresse au temps et aux contextes",
+          "text": "L’évaluation d’un trouble de la personnalité porte sur des difficultés durables et sur leurs effets. Le DSM-5-TR décrit le trouble de la personnalité narcissique à partir d’un ensemble de caractéristiques persistantes, qui peuvent concerner la façon de se voir, la recherche d’admiration et la place accordée aux autres. Les exemples du travail et de la vie proche permettent de voir ce qui revient et dans quelles circonstances. Leur gravité et les autres explications possibles se discutent en consultation.\n\nRenaud peut avoir tenu compte de sa sœur le dimanche et avoir trouvé difficile son refus le jour du dîner. Observer ces différences informe aussi sur son fonctionnement. Le travail avec sa thérapeute lui permet de parler à la fois des moments où son choix s’est resserré et des appuis qui l’aident parfois à répondre autrement."
+        },
+        {
+          "heading": "Deux manières de décrire les troubles de la personnalité",
+          "text": "Le DSM-5-TR nomme le trouble de la personnalité narcissique comme une catégorie. La CIM-11 adopte une approche dimensionnelle. Elle décrit les difficultés durables du fonctionnement personnel et relationnel, évalue leur sévérité et permet de préciser des domaines de traits. Parmi eux, la dissocialité peut décrire des difficultés à prendre en compte les droits ou les besoins d’autrui et certaines attentes de traitement de faveur.\n\nCe domaine peut rendre compte de certains traits narcissiques. Sa pertinence se juge pour la personne évaluée. L’intitulé DSM-5-TR ne fixe donc pas automatiquement un ensemble de traits ou un degré de sévérité en CIM-11. Renaud peut utiliser la description qu’on lui a expliquée pour poser des questions à son équipe et regarder ce qu’il souhaite travailler au quotidien."
+        }
+      ],
+      "ending_title": "Une phrase à garder sous les dates",
+      "ending": "La thérapeute lui demande ce qu’il voudrait pouvoir faire la prochaine fois qu’une place au premier rang lui échappe. Renaud fait glisser les deux messages sur l’écran. « Prévenir si je change d’avis, et envoyer ce que je devais envoyer. » Il écrit la phrase sous les dates. Ce soir, il n’appelle personne pour raconter le rendez-vous. Il veut d’abord demander à Yara si elle a reçu le nouveau document du centre. Il lui écrit pour convenir du moment où ils pourront le lire ensemble.",
+      "mirror": [
+        "Si Renaud choisit de raconter sa consultation, Édith peut préciser ce qu’elle aimerait entendre. « Je peux t’écouter un moment. Ce qui me touche dans notre relation, c’est de savoir si je peux compter sur l’heure convenue. » Elle peut accepter d’en parler ou garder cet échange pour un autre jour. Elle n’a pas besoin de connaître les détails du diagnostic pour dire ce qu’elle attend de leur accord."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud choisit de prévenir en cas de retrait et de rendre sa tâche disponible. Il garde la consultation privée.",
+        "next": "Il demande à Yara de convenir d’un moment pour relire le nouveau document du centre."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "renaud-reparer-credit-public",
+      "title": "Réparer une attribution qui a effacé la part de l’autre",
+      "description": "Un programme prête à Renaud une idée de Yara. Il doit décider comment faire modifier publiquement un avantage qu’il n’a pas demandé.",
+      "context": "En mars, au studio avant la rencontre de presse",
+      "topics": [
+        "Reconnaissance du préjudice",
+        "Attribution du travail",
+        "Réparation concrète"
+      ],
+      "clinical_focus": "Réparation après un crédit inexact",
+      "clinical_intro": "Dans le programme de presse, l’équipe du centre a résumé trop vite la direction artistique et présenté une idée de Yara comme celle de Renaud. Cette version lui donne une reconnaissance qu’il aimerait garder. L’épisode suit ce qu’il fait de ce désir et du tort constaté. La correction doit atteindre le document que les visiteurs pourront lire.",
+      "opening": "Le document est ouvert à la page du hall, sur l’écran où Yara a laissé deux versions côte à côte. Dans le dossier qu’ils ont relu, la phrase sur les formes porte son nom. Dans le programme préparé pour la presse, elle commence par « Sous la direction de Renaud » et lui attribue l’idée de la suite entière. Yara lui montre la ligne du curseur. « C’est ce que je voulais vérifier. » Elle a déjà répondu au centre qu’elle souhaiterait corriger le texte. On lui a demandé une confirmation de la direction du studio avant le prochain envoi.\n\nRenaud lit la version erronée une deuxième fois. À la première lecture, il avait éprouvé une satisfaction qu’il voudrait pouvoir faire disparaître de son visage. Il regarde le dossier initial. Les formes sont bien le travail de Yara et les panneaux comprennent aussi sa composition à lui. Il pourrait proposer une phrase où le sujet reste « le studio ». La personne qui lit saurait que Yara fait partie de l’équipe sans avoir besoin de s’arrêter sur ce qu’elle a dessiné.\n\nIl demande si elle a déjà une formulation. Yara lui montre les trois lignes qu’elle a envoyées. Elle veut pouvoir présenter ses observations en son nom lors de la rencontre. Elle lui demande aussi de vérifier que les étiquettes d’aperçu seront modifiées si le document est renvoyé en pièce jointe. Renaud cherche la date de la mise en ligne. Il reste une heure avant que Nora diffuse le lien. Il aurait été plus simple de passer rapidement à la photo. Il ouvre le message de Yara et lui demande s’il peut répondre dans le même fil.",
+      "sections": [
+        {
+          "heading": "Quand réparer implique de renoncer à un avantage",
+          "text": "Recevoir de la reconnaissance pour un travail qu’on n’a pas fait peut mettre une personne devant une décision. Chez Renaud, l’attribution erronée satisfait un besoin de visibilité particulièrement fort. Il cherche d’abord une formulation qui lui permettrait de garder une partie de cette place. La préoccupation pour sa propre image peut donner moins de poids à ce que l’erreur coûte à Yara.\n\nLe fait à traiter se vérifie dans deux documents. Yara a conçu les formes et mené les essais. Renaud a travaillé sur les textes et les panneaux. La correction porte sur le crédit diffusé et ne dépend pas de l’histoire de son diagnostic. Yara conserve une possibilité de vérifier ce qui change et de répondre si la phrase est reprise ailleurs."
+        },
+        {
+          "heading": "Faire parvenir la correction aux personnes concernées",
+          "text": "Renaud peut confirmer les contributions dans le fil du centre, puis demander que le programme déjà transmis soit remplacé. Il peut vérifier que la nouvelle version est bien celle que Nora rend accessible. Un accord verbal peut aider la conversation. Le document corrigé donne aux personnes qui le consultent une information dont elles peuvent se servir.\n\nPlus tard, Renaud peut parler en consultation de sa difficulté à se séparer de la phrase qui le mettait en avant. Il peut aussi constater que son travail reste décrit avec exactitude. Des objectifs de ce genre offrent des faits à regarder au fil du suivi. La collègue peut apprécier le changement sans être tenue de rassurer Renaud sur l’image qu’il y laisse."
+        }
+      ],
+      "ending_title": "La version que Nora envoie",
+      "ending": "Nora accuse réception et propose de retirer le premier fichier. Renaud envoie la description courte qu’ils ont relue ensemble. Lorsque la nouvelle pièce jointe arrive, Yara retrouve son nom à côté de sa contribution. Elle ferme l’ancienne version et demande à Renaud s’il pourra répondre aux questions du fabricant pendant qu’elle explique l’essai. Il répond oui. Avant de partir, il voit une invitation de Malik pour dîner le mois suivant. Il lui demande si Édith peut venir aussi.",
+      "mirror": [
+        "Yara peut apporter les deux versions et demander une action vérifiable. « Voilà l’attribution à rectifier et le texte que je te propose. J’aimerais lire le programme envoyé. » Si un crédit a déjà été publié, elle peut solliciter directement l’organisateur. Son besoin de voir son travail nommé vaut même si elle choisit de ne pas parler avec Renaud de ses raisons. Elle peut garder une trace de la demande si le problème se répète."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud confirme les contributions dans le fil du centre et vérifie avec Yara le remplacement du fichier.",
+        "next": "Yara doit présenter son essai à la presse. Renaud accepte sa part technique. Malik propose un dîner le mois suivant."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "renaud-refus-limite-malik",
+      "title": "Respecter une limite quand un refus ressemble à un rejet",
+      "description": "Malik souhaite un dîner sans photo diffusée. Renaud a du mal à entendre cette limite sans remettre en question l’invitation.",
+      "context": "Le dîner d’avril chez Malik, après la rencontre de presse",
+      "topics": [
+        "Limites entre amis",
+        "Interprétation du refus",
+        "Respect de la vie privée"
+      ],
+      "clinical_focus": "Entendre le refus d’un proche",
+      "clinical_intro": "Renaud voudrait garder une photo du dîner et l’envoyer à ses contacts. Malik préfère que la soirée reste privée. Renaud se sent visé par cette demande et s’apprête à mettre son ami en défaut devant les invités. L’épisode montre comment une limite peut être entendue comme un rejet quand l’image de soi prend une place importante, et ce que Renaud peut faire de cette impression.",
+      "opening": "Malik sort du four un plat qui touche presque les deux poignées de la table. Édith déplace le pain et Renaud se lève pour lui faire une place. Depuis l’entrée, la lumière tombe juste sur le milieu de la nappe. Il cadre avec ses doigts, par habitude, puis prend son téléphone. Le dîner est le premier où ils se retrouvent tous depuis janvier. Il aimerait en garder une image et l’envoyer à plusieurs personnes. Il dit déjà qu’il pourrait mettre la photo avec les quelques nouvelles du centre qu’on lui a demandées.\n\nMalik lève une main. Il dit qu’il préfère que la soirée reste privée et que rien de ce qui permet de les reconnaître ne soit diffusé. Renaud répond qu’il ne va pas faire une séance de portrait. Il voudrait que les autres trouvent sa demande légère et se rangent de son côté. Il regarde Édith, qui a repris son couteau. Malik repose le plat. « Je t’ai invité parce que j’avais envie de te voir. Je garde aussi ma réponse sur la photo. » Renaud s’entend demander depuis quand il faudrait se méfier de lui.\n\nIl voit le visage de Malik changer. Le plat est encore trop chaud et Édith l’aide à dégager une petite place pour le couvercle. Renaud descend le téléphone à la hauteur de sa poche. Il reste persuadé, pendant quelques secondes, que son ami vient de faire une remarque sur le genre de personne qu’il est. Il entend aussi la première partie de la réponse, celle sur l’invitation. Il regarde le plat qu’ils ont déplacé ensemble et repose son téléphone sur le meuble de l’entrée.",
+      "sections": [
+        {
+          "heading": "Une limite peut être ressentie comme une mise en cause",
+          "text": "Lorsqu’un sentiment de valeur dépend beaucoup de la façon dont on pense être perçu, une réponse négative peut prendre un poids important. Certaines personnes présentant un trouble de la personnalité narcissique éprouvent une forte sensibilité au jugement et peuvent se défendre en dépréciant l’autre ou en mettant en doute ses raisons. Les réactions varient. Pour comprendre celle de Renaud, la scène donne accès à ce qu’il entend et à la suite qu’il s’apprête à donner.\n\nMalik demande que le dîner reste privé et maintient son invitation. Renaud associe rapidement le refus de la photo à un manque de confiance. En invitant d’autres personnes à prendre parti, il fait peser sur Malik le coût de sa propre gêne. La raison donnée par son ami concerne le cadre dans lequel il veut recevoir."
+        },
+        {
+          "heading": "Reconnaître le cadre que l’autre a posé",
+          "text": "La réponse de Malik est assez précise pour que Renaud puisse s’y tenir. Il peut laisser le téléphone de côté, prendre part au repas et reparler de la façon dont il a réagi quand l’autre sera disponible. S’il souhaite envoyer des nouvelles du centre, il dispose d’autres images. Choisir l’une de ces images garde distinctes sa communication professionnelle et l’invitation de Malik.\n\nLe sentiment de rejet peut revenir même après cette décision. Renaud peut noter ce qu’il a entendu de travers pour en parler en consultation. Une reprise de l’échange peut aussi se faire à deux, si Malik la souhaite. La limite sur la photo n’a pas besoin de disparaître pour que leur relation garde une suite."
+        }
+      ],
+      "ending_title": "Le téléphone sur le meuble de l’entrée",
+      "ending": "Après le dessert, Renaud apporte deux assiettes dans la cuisine. Il demande à Malik s’il a le temps de parler une minute. « Je t’ai fait répondre sur la confiance alors que tu parlais de la photo. » Malik ferme le robinet. Il dit qu’il a entendu la reprise et veut finir la soirée tranquillement. Renaud revient s’asseoir. Au moment de partir, il pense à demander à Malik s’il voudra venir à l’ouverture du centre le mois suivant. Il lui propose de lui envoyer les horaires quand ils seront publics. Malik accepte de les recevoir et dit qu’il regardera s’il peut se libérer.",
+      "mirror": [
+        "Malik peut conserver une limite simple. « Je veux que le dîner reste privé. Je te demande de garder le téléphone de côté. » S’il préfère éviter un débat devant ses invités, il peut proposer d’en parler plus tard ou de faire une pause. Si l’accord est enfreint, il peut demander le retrait d’une image et décider dans quelles conditions il souhaite recevoir de nouveau. Son refus peut rester en place même après une excuse."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr",
+        "edershile-et-al-2024"
+      ],
+      "continuity": {
+        "choice": "Renaud pose son téléphone, reconnaît le déplacement de la discussion et accepte le souhait de Malik de clore l’échange.",
+        "next": "Aucune image du dîner n’est prise ou envoyée. Renaud a proposé d’envoyer à Malik les horaires publics de l’ouverture du centre."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "renaud-fierte-besoin-regard",
+      "title": "Garder la fierté d’un travail quand les éloges vont ailleurs",
+      "description": "Lors de l’ouverture du centre, Renaud veut voir les visiteurs se repérer. Il écoute aussi ce qu’il espère entendre sur son rôle.",
+      "context": "En mai, ouverture du centre culturel au public",
+      "topics": [
+        "Fierté du travail",
+        "Estime de soi",
+        "Besoin d’admiration"
+      ],
+      "clinical_focus": "Fierté et besoin d’admiration",
+      "clinical_intro": "Le centre ouvre au public et Renaud observe les visiteurs trouver leur chemin. Il apprécie de voir ses panneaux servir, tout en guettant le moment où Nora prononcera son nom. L’épisode explore ce qui peut faire du bien dans la reconnaissance et la difficulté qui apparaît quand l’éloge devient indispensable pour sentir qu’un travail vaut quelque chose. Renaud essaie de garder les deux expériences en vue.",
+      "opening": "Renaud est venu une demi-heure avant l’ouverture. Il regarde de nouveau le panneau près de l’escalier et voit qu’il a laissé assez d’espace pour le nom entier de la salle de danse. Il se souvient de la longueur de ligne qu’il avait voulu conserver en janvier. Aujourd’hui, quelqu’un pourrait se trouver devant la porte des bureaux et lire le nom de la salle depuis cette distance. Il va vérifier. Depuis la porte, il lit toute la ligne.\n\nUn couple entre et laisse passer deux adolescents qui courent vers la cour. L’homme pointe la forme au-dessus du numéro d’étage et suit son chemin sans demander de renseignement. Renaud a un plaisir précis à le regarder tourner au bon endroit. Il pense à Yara, qui lui avait fait essayer trois formes avant de proposer celle-ci. Il lui montre le trajet depuis la rambarde. Elle lui demande si le dernier panneau est lisible d’ici. Ils restent ensemble à chercher le bon angle jusqu’à ce que Nora leur fasse signe de descendre pour le mot d’accueil.\n\nNora remercie d’abord les personnes qui ont fait les essais et celles qui ouvrent le bâtiment le samedi. Renaud regarde le carton des noms à côté du micro. Il y a bien une ligne pour le studio. Il se demande combien de temps il attendrait avant de parler lui-même si elle oubliait. Quand une femme l’aborde pour demander qui a trouvé les formes, il voit Nora passer à la suite. Il répond à la femme. « Yara a dessiné les formes. J’ai travaillé avec elle sur les panneaux. Vous voulez voir la suite au premier ? »",
+      "sections": [
+        {
+          "heading": "La reconnaissance parmi d’autres sources de satisfaction",
+          "text": "Être fier d’un travail précis et souhaiter qu’il soit reconnu sont des expériences courantes. Dans le trouble de la personnalité narcissique, le besoin d’admiration peut prendre une place si importante qu’il devient difficile de profiter d’un résultat lorsque les autres n’y voient pas la même preuve de valeur. Pour une même personne, cette place peut varier avec la situation.\n\nRenaud éprouve réellement le plaisir de voir quelqu’un s’orienter. Il remarque ensuite qu’il attend le moment où l’équipe sera nommée. Les deux expériences se succèdent dans la même scène. Il peut désirer un remerciement et revenir à ce qu’il a observé. Le passage est lisible et une personne vient de l’utiliser. Ces faits restent présents pendant qu’il cherche sa place dans les mots de Nora."
+        },
+        {
+          "heading": "Donner un nom à ce qui satisfait dans le travail",
+          "text": "Renaud peut distinguer le goût du dessin, le résultat d’un essai, la collaboration et le désir d’être connu. Il peut souhaiter un retour direct sur les panneaux lors du bilan avec Nora. Cela lui donne une question précise à poser et laisse à la direction du centre la responsabilité de son mot d’accueil. Quand une visiteuse l’interroge, il peut répondre à sa question et donner les crédits justes.\n\nLe suivi peut l’aider à élargir la manière dont il mesure ce qui lui importe. Il veut continuer à remarquer les effets du travail et à entendre la part prise par d’autres. Ces objectifs prennent du temps. L’aisance qu’il éprouve un moment au pied de l’escalier lui donne un exemple à discuter."
+        }
+      ],
+      "ending_title": "Montrer le passage depuis le premier étage",
+      "ending": "Renaud accompagne la visiteuse jusqu’au palier. Elle lui raconte qu’elle cherche une salle pour revenir samedi avec sa fille. Il lui montre le repère qui reprend la forme au bout du couloir et elle le suit du regard. Il n’a entendu que la fin du mot d’accueil. Il en demande un résumé à Yara quand elle le rejoint. Nora voudrait les revoir en septembre pour préparer un parcours de visite temporaire. Cette fois, Renaud propose de fixer la répartition des tâches avant d’annoncer une date.",
+      "mirror": [
+        "Yara ou Nora peuvent faire un retour sur le travail avec des éléments qu’elles ont réellement observés. « Les deux visiteurs ont trouvé l’escalier. Le nom complet a aidé à reconnaître la porte. » Un éloge général reste possible s’il vient spontanément. Elles peuvent continuer de nommer les contributions et de dire ce qu’elles souhaitent reprendre. Leur rôle dans le projet leur permet de donner ce retour sans devoir s’occuper de la valeur que Renaud s’attribue."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr",
+        "edershile-et-al-2024"
+      ],
+      "continuity": {
+        "choice": "Renaud répond à une visiteuse avec une attribution précise et propose de répartir le prochain projet avant d’en annoncer la date.",
+        "next": "Le centre a ouvert. Nora souhaite un parcours temporaire à l’automne et doit revoir le studio en septembre."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "renaud-reprendre-apres-un-ecart",
+      "title": "Reprendre ses engagements après avoir cédé à un ancien réflexe",
+      "description": "En septembre, Renaud promet un rendu avant d’en parler à Yara. Son désir de saisir une occasion réveille un ancien problème de collaboration.",
+      "context": "En septembre, reprise du travail avec Nora sur le parcours temporaire",
+      "topics": [
+        "Retour d’un ancien réflexe",
+        "Objectifs réalistes",
+        "Responsabilité professionnelle"
+      ],
+      "clinical_focus": "Reprise après un ancien réflexe",
+      "clinical_intro": "Nora demande au studio si un parcours peut être prêt pour l’automne. Renaud promet une date qui l’oblige à compter sur le temps de Yara. Des difficultés anciennes peuvent réapparaître après une période où on a trouvé d’autres réponses. La façon dont Renaud revient sur son engagement permet de voir ce qui a changé et ce qui demande encore du travail.",
+      "opening": "Sur la table de réunion, Nora a étalé les deux parcours possibles. Le plus court traverse le hall où le studio a déjà posé ses panneaux. L’autre passe aussi par la cour, qu’il faudrait reconnaître depuis la rue. Elle voudrait savoir si une visite collective est possible à l’automne. Renaud entend qu’elle a parlé du projet à deux personnes venues de la ville voisine et qu’elles pourraient assister à l’essai. Il ouvre la page de septembre. Il pense à la façon dont on pourrait faire apparaître la cour sur un plan qui tient en poche. « On vous montre une version vendredi prochain », dit-il.\n\nEn rentrant, il écrit à Yara pour lui demander d’aménager deux matinées. Elle répond qu’elle a déjà accepté un travail pour la fin du mois. Ils avaient convenu de décider à deux avant d’annoncer une date. Renaud regarde la salle vide à côté de son bureau. Il avait dit « on » sans réfléchir à tout ce que ce mot engageait pour elle. Il sent pourtant monter une réponse qu’il connaît. Ce projet serait une vraie occasion et Yara pourrait faire un effort.\n\nIl ouvre son dernier message de préparation avec elle. Il y retrouve les dates convenues et la phrase où elle précise qu’elle peut venir à la réunion de lancement la semaine suivante. Il commence un message qui explique pourquoi il a promis la date. Il l’efface. Il demande plutôt si elle serait d’accord pour reparler d’un projet en octobre. Pour vendredi, il écrit à Nora qu’il a annoncé trop tôt le travail de l’équipe. Il garde son doigt un instant au-dessus du bouton avant d’envoyer.",
+      "sections": [
+        {
+          "heading": "Les changements peuvent être irréguliers",
+          "text": "Un suivi peut aider à repérer des difficultés et à développer d’autres réponses. Le besoin d’être reconnu, l’attrait d’une occasion ou la crainte de perdre une place peuvent peser de nouveau quand la situation change. Les données disponibles sur la prise en charge du trouble de la personnalité narcissique appellent à suivre des objectifs réalistes. Les progrès peuvent se voir à l’échelle de plusieurs situations, avec du temps et des reprises.\n\nRenaud avait formulé une règle précise en mai et la transgresse en septembre. Il commence par attendre que Yara s’ajuste. Puis il relit un engagement qui existe déjà. La décision observable est de reprendre l’annonce auprès de Nora sans faire endosser sa promesse à Yara. Le travail sur ce qu’il a éprouvé peut continuer en parallèle."
+        },
+        {
+          "heading": "S’occuper de la conséquence dans le bon ordre",
+          "text": "Nora a entendu une date et peut s’en être servie. Renaud doit la prévenir assez clairement pour qu’elle puisse changer son programme. Il peut dire quelle partie du travail il est en mesure d’assumer et vérifier les autres contributions avant d’annoncer un nouveau rendez-vous. La première promesse a pu faire perdre du temps. La révision de cette promesse en limite les effets possibles.\n\nYara peut garder son engagement ailleurs et choisir si elle souhaite participer à une nouvelle proposition. Si elle veut travailler avec lui, ils peuvent écrire la date et la responsabilité de chacun avant de confirmer. En consultation, Renaud dispose maintenant de deux exemples à comparer. Il avait attendu que la réunion soit passée pour remettre les mesures à disposition. Cette fois, il corrige la date le jour même."
+        }
+      ],
+      "ending_title": "La réunion qu’ils peuvent réellement proposer",
+      "ending": "Nora répond qu’elle n’a pas encore envoyé les invitations. Elle peut attendre le mercredi d’après. Yara est disponible ce jour-là pour une courte réunion et pourra décider de la suite après avoir vu le parcours. Renaud confirme seulement ce rendez-vous. Il rassemble les deux plans pour que chacun puisse les regarder avant la réunion. Le vendredi suivant, il passe encore devant le tableau où il avait écrit « version prête ». Il remplace la phrase par l’heure qu’ils ont réellement fixée.",
+      "mirror": [
+        "Yara peut rappeler le cadre qu’ils avaient convenu. « J’ai déjà un engagement. Je suis disponible mercredi pour en parler et je veux qu’on valide ensemble la prochaine date. » Elle peut garder cette réponse même si Renaud insiste sur l’occasion. Si elle accepte une réunion, elle peut en limiter l’objet à la répartition du travail. Renaud reste responsable de la correction de ce qu’il a annoncé à Nora."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud corrige son annonce à Nora, respecte l’engagement de Yara et confirme uniquement une réunion.",
+        "next": "Les deux plans peuvent être examinés mercredi. Les invitations attendent leur décision, et Yara n’a rien promis pour le rendu."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "renaud-tenir-place-et-laisser-place",
+      "title": "Tenir sa place dans la durée en laissant une place aux autres",
+      "description": "En automne, le parcours temporaire accueille ses premiers visiteurs. Renaud retrouve une difficulté familière et compare les choix qu’il a faits.",
+      "context": "À la première visite du parcours temporaire en automne",
+      "topics": [
+        "Progression dans le suivi",
+        "Partage du crédit",
+        "Réciprocité"
+      ],
+      "clinical_focus": "Des changements observables dans le temps",
+      "clinical_intro": "Quelques mois ont passé depuis le premier rendez-vous. Au moment de présenter la visite d’automne, Renaud remarque qu’il cherche encore à savoir qui sera nommé. Il dispose aussi de faits précis pour juger du chemin parcouru. Il a repris une promesse trop rapide et demandé à Yara de choisir ce qu’elle voulait présenter. L’épisode distingue ce qu’il ressent et ce qu’il arrive à faire autrement.",
+      "opening": "Le premier groupe d’automne est arrivé avec vingt minutes d’avance. Renaud laisse la porte ouverte sur la cour et cherche le repère qu’il a placé à hauteur des yeux. Lors de leur réunion de septembre, Yara et lui ont choisi le parcours court avec un arrêt possible dehors. Yara a repris le plan pour que le retour soit indiqué sur la même feuille. Renaud a dessiné la version qui résiste à la pluie. Ils ont annoncé la visite après avoir posé le dernier repère, la semaine précédente.\n\nNora pose deux cartons de nom sur une tablette. Elle demande à Yara si elle veut commencer par la manière dont ils ont choisi le trajet. Yara accepte et dit qu’elle restera avec le premier groupe jusqu’à l’escalier. Renaud voit une visiteuse qu’il reconnaît du jour de l’ouverture. Il aimerait qu’elle l’identifie. Il vérifie tout de même la répartition convenue et ouvre la porte à ceux qui se sont arrêtés pour lire le panneau. La visiteuse lève les yeux. « On peut refaire le tour à l’envers ? » Il lui montre le chemin de retour que Yara a ajouté.\n\nÀ la fin, Yara lui demande s’il a entendu la même question dehors. Il l’a entendue deux fois. Elle propose de faire un essai avec une flèche plus loin dans la cour et lui demande quand il souhaite en parler. Renaud est tenté de promettre qu’il s’en occupera dès lundi, devant les gens qui attendent leur manteau. Il regarde l’heure. Il a rendez-vous avec Malik et Édith à dix-huit heures. Il propose à Yara de lui envoyer ses observations le lendemain et de décider ensemble après.",
+      "sections": [
+        {
+          "heading": "Ce qui se voit quand une réponse change",
+          "text": "Le suivi d’un trouble de la personnalité s’intéresse au fonctionnement dans le temps. Une personne peut éprouver une réaction familière et trouver davantage de façons d’y répondre. La décision qu’elle prend, la place qu’elle laisse à autrui et les effets de ses actes donnent des points d’appui concrets pour examiner ce changement. Un seul jour facile offre un exemple parmi d’autres.\n\nRenaud continue de souhaiter être reconnu par la visiteuse et par Nora. Il conserve aussi l’accord passé avec Yara et peut décrire le travail qu’ils ont fait chacun. Il a annoncé la visite quand elle était prête et choisit un moment réaliste pour examiner la flèche. Les conséquences de ces décisions se constatent dans le travail. Yara peut décider de ses tâches et les visiteurs disposent d’un parcours utilisable."
+        },
+        {
+          "heading": "Garder un projet à soi et une relation à deux",
+          "text": "Le suivi donne à Renaud un endroit où reparler de ce qui lui coûte, même quand la collaboration se passe mieux. Avec sa thérapeute, il peut comparer ce qui s’est passé avant la visite et ce qu’il a fait dans la cour. Il peut aussi continuer à se demander quand son désir d’être remarqué lui rend difficile d’écouter quelqu’un. Les objectifs restent ajustables selon les situations qu’il rencontre.\n\nLes liens avec Malik et Édith ont également leur propre rythme. Renaud peut leur parler du centre quand ils ont envie d’en entendre parler. Ils peuvent discuter d’autre chose et garder leurs accords sur les horaires ou les images. Ce qui fait avancer leur relation se joue dans des échanges répétés, dont chacun peut décider de sa part."
+        }
+      ],
+      "ending_title": "Une place à la table de dix-huit heures",
+      "ending": "Il envoie un message court à Yara pour lui confirmer qu’il a noté les deux questions sur le retour. Dehors, la visiteuse repart par la cour. Renaud la voit lever la feuille pour la regarder à la lumière. Il aurait aimé lui parler encore du panneau. Il la laisse rejoindre les autres et ferme la porte derrière elle. À dix-huit heures, Édith lui fait signe depuis la table où Malik vient de s’asseoir. Renaud pose son manteau sur le dossier. Il a envie de raconter la visite. Il demande d’abord à Édith ce qu’il en est de la chambre que cherchait son amie.",
+      "mirror": [
+        "Édith et Malik peuvent apprécier un changement qu’ils ont remarqué et garder leurs limites ordinaires. « Je voulais te parler de la chambre. Merci de m’avoir demandé. » Ils peuvent choisir la suite de leurs échanges selon ce qu’ils vivent réellement. Leurs décisions et leur disponibilité leur appartiennent, même si Renaud souhaite parler des efforts qu’il fait avec sa thérapeute."
+      ],
+      "sources": [
+        "apa-dsm-narcissique",
+        "oms-cddr"
+      ],
+      "continuity": {
+        "choice": "Renaud tient les responsabilités convenues pour la visite, propose un moment distinct pour le prochain essai et respecte son rendez-vous.",
+        "next": "Le parcours temporaire est accessible. Yara et Renaud vérifieront ensemble le repère dans la cour. Renaud poursuit son suivi et ses liens au-delà du projet."
+      }
+    }
+  ]
+}

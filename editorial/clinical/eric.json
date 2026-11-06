@@ -1,0 +1,385 @@
+{
+  "character_id": "eric",
+  "bio": "Éric a 52 ans. Cuisinier dans une école, il aime rapporter du marché un légume dont Mélissa saura tirer une idée pour le menu. Il est suivi en addictologie pour une dépendance à l’alcool. Il lui arrive de rester boire alors qu’il avait prévu de rejoindre quelqu’un et de déplacer une sortie pour rester disponible au moment où les anciens amis se retrouvent. Au repas du village, il veut cuisiner puis animer un coin où les habitants pourront écouter leurs souvenirs du marché. Il aimerait pouvoir revoir les copains de la fanfare et choisir comment passer la suite de la journée.",
+  "profile_topics": [
+    "Dépendance à l’alcool",
+    "Difficulté à interrompre la consommation",
+    "Envie de boire liée au contexte",
+    "Conséquences sur les engagements",
+    "Honte et retour dans le soin"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "eric-perdre-lheure-depart",
+      "title": "Repousser son départ alors qu’on voulait arrêter de boire",
+      "description": "Éric repense au départ qu’il a repoussé et au premier entretien sonore qu’il a manqué pour le repas du village.",
+      "context": "Le lundi matin à la cuisine de l’école, après un rendez-vous manqué",
+      "topics": ["Perte de maîtrise", "Poursuite malgré les conséquences", "Engagements envers les autres"],
+      "clinical_focus": "Difficulté à arrêter de boire",
+      "clinical_intro": "Éric avait annoncé l’heure de son départ et avait une raison d’y tenir. Il a pourtant continué à boire et a manqué le rendez-vous où il devait enregistrer la marchande du village. Ce moment éclaire une difficulté de la dépendance à l’alcool qui peut se répéter malgré des projets sincères et des conséquences déjà connues.",
+      "opening": "Au marché, Éric a pris les poireaux que Mélissa lui avait montrés samedi. Elle lui avait dit de regarder sous la ficelle bleue, là où les pieds restent droits. Ce matin, il pose le panier à côté du sien dans la cuisine de l’école. Elle lui demande s’il a entendu la marchande raconter comment son père installait le stand autrefois. Il passe les doigts sur la ficelle. Il devait la retrouver au moment de replier son parasol. Elle avait accepté de parler dans le micro prêté par l’association pour le repas du village. À l’heure du rendez-vous, il était encore assis à la table des anciens de la fanfare.\n\nIl avait dit à Pascal qu’il partirait dès que l’horloge derrière le comptoir sonnerait. Il savait que la marchande ne pouvait pas attendre après le démontage. Quand le bruit des couverts avait couvert la sonnerie, il avait regardé son téléphone et mis sa veste sur ses genoux. Puis quelqu’un avait commencé à parler d’un air qu’ils jouaient sous la pluie. Éric avait remis sa veste sur le dossier et continué à boire. Il avait pensé une seconde fois à la marchande, plus tard, en voyant les tables vides devant le café. La gêne de l’appeler avait alors pris plus de place que la possibilité de la joindre.\n\nMélissa lui propose de l’aider à retrouver le contact de l’association. Éric a le numéro de la marchande. Ce qui lui manque, c’est une manière de rappeler sans laisser entendre qu’elle lui doit un deuxième rendez-vous. Il lui répond qu’il va s’en occuper à la pause et qu’il voudrait d’abord savoir si Mélissa tient toujours à cuisiner avec lui le jour du repas.",
+      "sections": [
+        {
+          "heading": "Le moment où la décision cesse de guider l’action",
+          "text": "Dans la dépendance à l’alcool, la difficulté à réguler la consommation peut porter sur le moment où l’on commence ou sur celui où l’on s’arrête. Éric avait fixé son départ et préparé l’enregistrement. Il a fait un premier geste pour partir, puis a repoussé ce moment. La même difficulté lui a déjà fait manquer d’autres engagements, ce qu’il a pu décrire à son équipe d’addictologie quand le diagnostic a été établi.\n\nUne soirée qui se prolonge renseigne sur ce qui s’est passé ce jour-là. Les soignants examinent la répétition du phénomène, les conséquences et la place de la consommation dans la vie de la personne. Éric aimait entendre ses amis retrouver les paroles d’un morceau. Le plaisir de cet échange et la difficulté à arrêter appartiennent tous les deux à la scène."
+        },
+        {
+          "heading": "Rappeler en donnant une place à la personne attendue",
+          "text": "Éric peut parler de son projet à Mélissa et garder le récit de la consommation pour les interlocuteurs qu’il choisit. Avec la marchande, il doit surtout répondre à une attente précise. Il avait pris un engagement, elle avait réservé du temps et il est arrivé trop tard. Un appel peut reconnaître cette conséquence et laisser à la marchande la décision de reparler du marché.\n\nEn consultation, Éric peut revenir sur les instants dont il se souvient, depuis la veste posée sur les genoux jusqu’à l’appel repoussé. Décrire ce déroulement aide à distinguer ce qu’il souhaitait faire, ce qui a changé au cours de la rencontre et ce qui a rendu le rattrapage difficile. L’équipe peut partir de cet exemple pour réexaminer les appuis qu’il avait prévus."
+        }
+      ],
+      "ending_title": "Un autre moment proposé par la marchande",
+      "ending": "À la pause, la marchande répond après deux sonneries. Éric lui dit qu’il lui a fait perdre du temps. Elle se rappelle du rendez-vous et ajoute qu’elle avait encore des cageots à monter dans la camionnette. Le dimanche prochain, elle ne veut pas se presser après le marché. Elle lui propose plutôt de passer un mercredi avant l’ouverture. Éric écrit le jour sur un coin de carton et demande s’il peut venir avec le micro. De retour au panier, Mélissa lui dit qu’elle est toujours partante pour le repas. Elle veut simplement qu’ils choisissent le menu assez tôt pour en parler avec Gérald.",
+      "mirror": [
+        "Mélissa peut demander quelle aide Éric voudrait à la pause. « Tu préfères que je te laisse appeler ou que je te retrouve le nom de la personne qui prête le micro ? » Elle peut aussi préciser ce qui compte pour travailler ensemble au repas. La marchande garde son temps et choisit si elle veut proposer un autre rendez-vous. Le récit du soin appartient à Éric."
+      ],
+      "sources": ["oms-cddr", "has-alcool", "nice-dependance-alcool"],
+      "continuity": {
+        "choice": "Éric rappelle la marchande, accepte son mercredi matin et confirme qu’il veut préparer le repas avec Mélissa.",
+        "next": "Le rendez-vous du mercredi est noté. Mélissa attend une proposition de menu avant la prochaine discussion avec Gérald."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "eric-deplacer-les-rendez-vous",
+      "title": "Déplacer un rendez-vous pour garder le temps de boire",
+      "description": "Joëlle demande à Éric de choisir un créneau fiable. Il remarque comment les retrouvailles au café ont déjà déplacé leurs projets.",
+      "context": "Le mardi en fin de journée dans le garage de Joëlle",
+      "topics": ["Priorité donnée à la consommation", "Rendez-vous déplacés", "Confiance au quotidien"],
+      "clinical_focus": "Priorité donnée à la consommation",
+      "clinical_intro": "Éric se surprend à proposer à sa sœur des horaires qui laissent libre la fin de journée au café. Ce déplacement peut passer pour un détail. Il fait ressortir la priorité que la consommation peut prendre dans la dépendance à l’alcool, jusque dans des engagements qui comptent et dans la façon d’organiser la semaine.",
+      "opening": "Joëlle tient la roue du vélo entre ses chaussures. Elle a déjà démonté le panier qui cognait contre le guidon et voudrait qu’Éric l’aide à faire un essai avant qu’elle ne le remonte. Elle travaille de bonne heure le samedi. Si le vélo roule, elle pourra prendre le chemin de la rivière et laisser la voiture à sa fille. Éric ouvre le calendrier sur son téléphone. Il lui propose dimanche en fin de matinée, puis se souvient qu’elle a déjà dit qu’elle travaillait la veille. Il remonte à vendredi. Joëlle lui demande pourquoi ils ne font pas l’essai ce soir. Il regarde l’heure sans répondre.\n\nLes anciens de la fanfare retrouvent parfois Gérald à cette heure-là. Éric ne sait même pas s’ils seront là aujourd’hui. Il avait juste laissé vide la fin de journée au cas où. Il se rend compte qu’il avait aussi proposé un autre horaire quand Joëlle avait voulu essayer le vélo la semaine passée. Elle avait renoncé à lui demander de venir, puis s’était débrouillée avec la roue seule. Il lui avait dit que le prochain soir irait mieux. Le prochain soir, il avait gardé la même place libre.\n\nJoëlle remet le panier contre le mur. Elle lui dit qu’elle ne veut plus attendre des réponses pendant qu’il décide s’il viendra. Elle peut faire un essai demain après son service avec une voisine, mais si Éric est disponible maintenant, elle a envie de partir avec lui. Il regarde le carton où il a inscrit mercredi pour la marchande. Il peut faire un tour de vélo aujourd’hui et parler de la cuisine demain avec Mélissa. Il demande à Joëlle de lui laisser le temps d’attacher son casque.",
+      "sections": [
+        {
+          "heading": "Reconnaître la place prise dans l’agenda",
+          "text": "Une priorité peut changer progressivement, avant même qu’une personne décide de boire à une occasion précise. Éric réserve une partie de la soirée aux retrouvailles possibles. Il protège aussi la disponibilité qui lui permettrait de rester boire avec le groupe. La préférence pour un moment agréable peut coexister avec la difficulté à donner du temps aux autres activités qui comptent.\n\nLes conséquences deviennent parfois visibles à travers des rendez-vous continuellement déplacés. Joëlle se souvient des attentes successives et peut dire ce qu’elles lui ont coûté. L’équipe d’addictologie examine, avec Éric, comment cet épisode s’inscrit dans sa vie. Elle peut aussi lui demander quels engagements il voudrait retrouver. Une relation compte à la fois pour elle-même et comme partie du quotidien à soutenir dans les soins."
+        },
+        {
+          "heading": "Faire un choix que chacun peut vérifier",
+          "text": "Éric remarque le temps qu’il a réservé au café en écoutant la proposition de Joëlle. Il peut s’engager sur un essai ce soir et lui dire combien de temps il restera au garage. Joëlle peut accepter ou choisir le rendez-vous avec sa voisine. Elle a besoin d’un trajet praticable avant samedi et peut avancer avec les ressources qu’elle a déjà trouvées.\n\nSi Éric évoque cette hésitation à son prochain rendez-vous, il peut préciser ce qu’il attend des anciens amis et les moments qu’il se rend difficilement disponibles pour autre chose. Le soin a une prise sur une situation concrète quand on voit ce qui est précieux dans chaque choix. Un tour de quartier avec sa sœur a sa propre valeur, quelle que soit la manière dont une autre fin de journée se passe."
+        }
+      ],
+      "ending_title": "Le guidon sans son panier",
+      "ending": "Ils font le tour du pâté de maisons. Joëlle descend près du portail et lui tend le vélo. « Écoute en tournant », dit-elle. Sans le panier, Éric entend enfin le frottement qui l’avait contrariée. Ils poussent le vélo jusqu’au garage et conviennent qu’elle s’occupera du dernier réglage avec la voisine si nécessaire. Éric lui demande si elle se souvient de la marchande qui laissait les pommes tachées aux musiciens après le marché. Joëlle reconnaît son prénom. Elle est d’accord pour qu’il lui raconte mercredi comment s’est passé l’entretien. Pour les réparations du vélo, elle garde l’horaire de la voisine.",
+      "mirror": [
+        "Joëlle peut rendre sa demande et sa limite claires. « J’ai besoin d’essayer le vélo avant samedi. Si ce soir ne va pas, j’irai avec ma voisine demain. » Elle peut être touchée par les rendez-vous repoussés et accepter un trajet partagé si elle en a toujours envie. Éric peut lui demander un nouveau moment sans lui faire porter la responsabilité de son emploi du temps ou de son suivi."
+      ],
+      "sources": ["oms-cddr", "has-alcool", "nice-dependance-alcool"],
+      "continuity": {
+        "choice": "Éric essaie le vélo avec Joëlle dès mardi. Elle conserve son autre appui pour le réglage.",
+        "next": "Joëlle veut savoir comment se passe l’entretien du mercredi. Éric compte encore parler du menu avec Mélissa."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "eric-envie-au-detour-de-la-place",
+      "title": "Une invitation suffit à raviver l’envie de boire",
+      "description": "Après un enregistrement au marché, un message fait revenir chez Éric l’envie de boire avec les amis de la fanfare.",
+      "context": "Le mercredi après le premier entretien sonore, sur la place du marché",
+      "topics": ["Envie impérieuse de boire", "Indices liés à une situation", "Appui choisi"],
+      "clinical_focus": "Envie de boire et contexte",
+      "clinical_intro": "Une photo de la fanfare arrive sur le téléphone d’Éric au moment où il traverse la place. Son attention revient au café et il peine à penser à autre chose. Une forte envie de boire peut se réveiller dans un contexte familier. Ce qui précède l’envie et ce qu’Éric cherche à retrouver donnent des repères pour son suivi.",
+      "opening": "La marchande a parlé dans le micro en empilant ses cagettes. Elle s’est interrompue pour dire qu’on n’entendrait pas les gens avec tout ce bruit. Éric lui a proposé de faire une pause et elle a préféré qu’il garde le bruit des cageots. Son père, quand il déchargeait, frappait toujours sur le bois pour savoir s’il avait bien calé la pile. Elle veut que celui qui écoutera l’enregistrement entende ce geste. Éric range le micro avec l’impression qu’il a maintenant quelque chose à proposer pour le repas du village.\n\nIl a presque atteint l’autre bord de la place quand une photo arrive dans la conversation des anciens. Gérald a retrouvé une image où Pascal tient son trombone par le mauvais côté. Derrière eux, Éric reconnaît la table du café et la marque blanche au mur. L’invitation est en dessous de l’image. Il avait prévu de rejoindre Mélissa pour lui faire écouter la fin de l’entretien. À cet instant, il a du mal à garder cette suite en tête. Le café est à quelques pas et il pense au calme bref qu’il éprouve parfois quand il a décidé d’y rester boire. Il se retrouve à lire les mêmes mots sur le téléphone en attendant que le désir baisse.\n\nIl téléphone à Pascal. Le mois dernier, après une consultation, il lui avait demandé s’il pouvait l’appeler quand il aurait besoin de parler d’une invitation. Pascal avait dit oui quand il est disponible. Aujourd’hui il peut marcher un peu, il doit récupérer le pain avant de rentrer. Éric lui demande de le rejoindre près du kiosque et lui dit qu’il ne veut pas passer par le café avec lui.",
+      "sections": [
+        {
+          "heading": "Ce qu’un détail familier rappelle",
+          "text": "Une envie forte de boire peut prendre de l’ampleur dans un lieu, une heure ou un échange associés à la consommation. La photo rassemble la table et le groupe, deux choses qui ont souvent précédé le moment de boire pour Éric. Elle rappelle aussi des relations auxquelles il tient. Il peut vouloir être avec les anciens et éprouver en même temps une envie de boire qui mobilise son attention.\n\nLa scène renseigne sur une envie dans son contexte. Le sevrage est une autre question clinique, qui se pose quand des symptômes apparaissent après une baisse ou un arrêt de la consommation. Éric peut préciser ce qu’il a ressenti, ce qui venait de se passer et s’il a remarqué d’autres changements. Son équipe peut donner un sens à ces éléments en tenant compte de son histoire et de son état de santé."
+        },
+        {
+          "heading": "Demander un appui assez précis pour recevoir une réponse",
+          "text": "Pascal sait qu’Éric peut lui demander de parler. Il lui reste à dire s’il a du temps et ce qu’il peut partager. Marcher jusqu’à la boulangerie est possible pour lui aujourd’hui. Éric peut demander un trajet qui ne passe pas devant le café et expliquer qu’il retrouvera ensuite Mélissa. La demande tient dans le moment, sans obliger Pascal à répondre à chaque invitation à sa place.\n\nEn consultation, Éric peut décrire le passage de l’entretien à la photo et ce qui a rendu possible la suite. Les aides qu’il souhaite préparer pourront varier selon qu’il se trouve seul, avec ses collègues ou au milieu des anciens. Son propre but reste important. Ce mercredi, il voulait écouter avec Mélissa la voix de la marchande et lui demander ce qu’elle entendait derrière."
+        }
+      ],
+      "ending_title": "Garder le son du bois",
+      "ending": "Pascal arrive au kiosque avec le sac vide plié dans sa poche. Éric lui fait entendre quelques secondes de l’enregistrement. Pascal reconnaît le bruit du bois et dit que son père empilait les caisses comme ça aussi. Ils descendent ensemble jusqu’à la boulangerie. Éric a encore envie de répondre à la photo quand ils se quittent. Il glisse le téléphone dans sa veste pour retrouver Mélissa à l’heure convenue. Au premier écouteur, elle croit qu’un mot est couvert. Ils repassent la fin et entendent la marchande s’arrêter le temps de caler une cagette. Éric laisse le bruit en place.",
+      "mirror": [
+        "Pascal peut donner une réponse qui tient dans son temps. « Je peux te retrouver près du kiosque et marcher jusqu’à la boulangerie. » Si le détour qu’Éric demande lui convient, ils peuvent le faire ensemble. Un jour où Pascal est occupé, il peut le dire avec la même franchise. Éric pourra revenir avec son équipe sur les moments où ce soutien est disponible et sur ceux où il faut un autre relais."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "has-alcool"],
+      "continuity": {
+        "choice": "Éric demande à Pascal un bref trajet ailleurs que devant le café et revient écouter le premier enregistrement avec Mélissa.",
+        "next": "Le bruit des cagettes est conservé. Éric dispose d’un exemple récent à raconter en consultation."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "eric-distinguer-envie-et-sevrage",
+      "title": "Distinguer l’envie de boire des signes de sevrage",
+      "description": "À son rendez-vous, Éric raconte une envie récente et des tremblements anciens. Le médecin l’aide à les situer.",
+      "context": "Le jeudi en consultation, après l’appel près du kiosque",
+      "topics": ["Envie de boire", "Adaptation physiologique", "Évaluation du risque de sevrage"],
+      "clinical_focus": "Envie, tolérance et sevrage",
+      "clinical_intro": "En consultation, Éric rapproche l’envie de boire ressentie devant le café et des tremblements survenus autrefois après une baisse de sa consommation. Le médecin lui demande de raconter séparément les deux moments. Comprendre quand les sensations apparaissent aide à distinguer l’envie, l’adaptation du corps et des symptômes qui exigent une évaluation médicale.",
+      "opening": "Éric a amené le carton où il a noté le rendez-vous de la marchande. Au dos, il a écrit « photo », puis « kiosque » parce qu’il craignait d’oublier dans quel ordre raconter les choses. Il s’assoit devant le docteur Lenoir, qui lui demande ce qu’il a envie d’aborder en premier. Éric raconte le message de Gérald et la marche avec Pascal. Il dit qu’il avait le bras tendu vers le téléphone comme s’il attendait encore une autre phrase. Il ne se souvient pas d’avoir tremblé ce jour-là. Il pense pourtant à un matin, au début de son suivi, où il tenait une tasse à deux mains.\n\nAvant cette matinée, l’alcool lui faisait moins d’effet qu’à une autre époque. Il avait poursuivi sa consommation et, quand il avait voulu la réduire brusquement, ses mains s’étaient mises à trembler et il avait beaucoup transpiré. Il avait appelé son médecin, qui avait pu l’évaluer et l’orienter. Ce souvenir revient à Éric chaque fois qu’il essaie de comprendre ce qu’il ressent devant le café. Il demande si les deux épisodes portent le même nom. Le docteur lui demande d’abord ce qui s’était passé la veille des tremblements, puis combien de temps cela avait duré.\n\nÉric s’aperçoit que le médecin a tracé deux petites lignes sur une feuille. Il y a, d’un côté, un matin où Éric avait eu besoin d’une évaluation et, de l’autre, la photo et le trajet avec Pascal. Il demande s’ils peuvent aussi parler de ce qu’il ferait s’il revoyait des signes physiques après un changement récent. La question lui paraît plus utile que de trouver un mot pour les deux souvenirs.",
+      "sections": [
+        {
+          "heading": "Ce que renseigne le moment où un signe apparaît",
+          "text": "La tolérance peut se traduire par un effet moins marqué pour une consommation comparable. Le sevrage peut survenir après une diminution ou un arrêt, lorsque le corps s’est adapté à l’alcool. Des tremblements ou des sueurs méritent d’être replacés dans ce qui précède et examinés par un professionnel. D’autres problèmes de santé peuvent entraîner des sensations proches.\n\nL’envie qu’Éric a éprouvée sur la place suit l’invitation et le rappel d’une situation familière. Son histoire ancienne de signes physiques apporte au médecin une autre information. Une dépendance peut se manifester par des difficultés répétées de maîtrise et de priorité, avec des signes physiques qui varient selon les personnes. Éric peut décrire ce qu’il vit aujourd’hui sans en déduire seul le risque de sevrage."
+        },
+        {
+          "heading": "Demander une évaluation avant un changement important",
+          "text": "Une baisse brusque après une consommation importante peut entraîner des complications graves. Le médecin évalue le risque en tenant compte du vécu d’Éric, de sa consommation récente, de ses antécédents et de son état physique. Les professionnels peuvent organiser un accompagnement et décider où les soins doivent avoir lieu. La difficulté ressentie le mercredi n’indique pas à elle seule quel accompagnement serait nécessaire.\n\nÉric demande à connaître le contact adapté si des signes reviennent ou si sa consommation change. Son équipe lui propose de noter le numéro du centre dans son téléphone et vérifie avec lui les situations qui demanderaient une aide urgente. Elle pourra revoir ces repères s’il revient avec une histoire différente."
+        }
+      ],
+      "ending_title": "Un numéro à côté du prénom",
+      "ending": "Éric tape « consultation » dans le répertoire et se rend compte qu’il a déjà deux fiches qui portent ce nom. Il garde celle de l’addictologie et ajoute le numéro que lui indique le docteur Lenoir. Le médecin lui propose de reparler de son suivi avec son médecin habituel, s’il souhaite les mettre en lien. Éric demande ce que cela changerait pour les rendez-vous qu’il voudrait tenir à l’école. Il reprend le carton et demande le temps d’y réfléchir. Sur le dos, à côté de « kiosque », il inscrit « médecin habituel » pour la prochaine fois.",
+      "mirror": [
+        "Si Éric confie qu’il s’inquiète de signes physiques, un proche peut lui demander s’il veut joindre le centre ou être accompagné pour un avis médical. Il peut lui proposer de raconter quand la situation a changé et ce qu’il ressent. La décision de sevrage et le choix du cadre relèvent des professionnels. Le proche peut écouter et transmettre des faits observables s’il faut demander de l’aide."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "nice-complications-alcool"],
+      "continuity": {
+        "choice": "Éric distingue les événements avec le médecin et enregistre le contact du centre. Il réfléchit à une coordination avec son médecin habituel.",
+        "next": "L’équipe lui a expliqué quand demander un avis ou un secours urgent. Éric a la proposition de coordination à reprendre."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "eric-soins-qui-se-parlent",
+      "title": "Accorder ses soins quand le travail et la santé se croisent",
+      "description": "Éric choisit ce que le centre peut partager avec son médecin et ce qu’il veut dire à Mélissa sur sa disponibilité.",
+      "context": "Une semaine plus tard, entre la cuisine de l’école et l’appel du centre",
+      "topics": ["Suivi somatique", "Coordination des soins", "Choix du patient"],
+      "clinical_focus": "Coordination du suivi addictologique",
+      "clinical_intro": "Éric prépare le menu avec Mélissa et pense à l’appel du centre qu’il risque de manquer. Il hésite à coordonner ses rendez-vous avec son médecin habituel parce qu’il tient à choisir ce qui sera partagé. Cette scène montre comment le suivi de la dépendance peut tenir compte de la santé physique, du quotidien et des décisions de la personne.",
+      "opening": "Mélissa pose une louche de soupe dans une assiette blanche et la pousse de son côté. Éric avait ajouté les feuilles des poireaux du marché pour retrouver un goût qu’il connaissait d’un restaurant où il travaillait autrefois. Il goûte en pensant à un appel qu’il risque de manquer. Une infirmière du centre doit lui téléphoner pendant la pause pour savoir s’il accepte de mettre en lien le docteur Lenoir et son médecin habituel. Il voudrait dire oui pour que chacun ait les informations dont il a besoin. Il a aussi peur que son médecin ne voie plus que cela quand il viendra lui parler d’autre chose.\n\nMélissa lui demande s’il veut prendre ses prochaines heures de pause avec elle pour choisir deux variantes du menu. Il a envie d’accepter. Il pense à des rendez-vous qu’il a déplacés parce que les reprendre au milieu des préparatifs lui semblait trop compliqué. Il dit qu’il peut faire un essai aujourd’hui et qu’il a déjà prévu un appel sur une partie de la pause. Mélissa lui demande de lui signaler quand il doit sortir, parce qu’elle devra finir de noter les ingrédients avant de ranger. Cette réponse le soulage. Il savait lui donner l’heure où il serait disponible. Il n’avait encore trouvé aucun mot qu’il aurait voulu employer devant elle pour parler du reste.\n\nDans le couloir, au moment de décrocher, il ressort le carton. À l’infirmière, il demande quel résumé sera envoyé et qui pourra le lire. Il aimerait que le médecin habituel puisse tenir compte de ses derniers changements de consommation quand ils parleront de son état physique. Il hésite à transmettre ce qu’il avait raconté sur Joëlle. L’infirmière lui propose de préciser le contenu utile avec le docteur Lenoir.",
+      "sections": [
+        {
+          "heading": "Plusieurs dimensions à suivre ensemble",
+          "text": "Un suivi de la dépendance à l’alcool peut réunir des questions médicales, psychologiques et sociales. Le médecin habituel peut évaluer l’état général, reprendre les symptômes rapportés et coordonner les examens nécessaires. L’équipe d’addictologie peut travailler avec Éric sur la consommation, les reprises et les situations où il perd la maîtrise. Ce partage peut se discuter à partir de ce qui est utile à ses soins.\n\nL’effet de la consommation sur sa vie se voit aussi dans sa façon de déplacer les rendez-vous ou de réserver une place à ses amis. En l’écoutant, l’équipe peut chercher avec lui des objectifs qui tiennent compte de ses besoins et des risques évalués. Le bilan de santé et les choix de vie peuvent ainsi éclairer une même décision."
+        },
+        {
+          "heading": "Rendre les rendez-vous compatibles avec les engagements",
+          "text": "Éric peut demander au centre quand il sera possible de discuter du résumé et en reprendre les termes avant l’envoi. S’il souhaite un relais pour un symptôme physique, cette information peut être distinguée des détails d’une conversation privée. Il peut aussi indiquer ses contraintes de travail pour trouver un moment où il pourra répondre et se concentrer.\n\nAvec Mélissa, Éric tient à finir un menu commun. Il peut annoncer une disponibilité précise et choisir plus tard s’il souhaite en dire davantage. Sa collègue peut organiser la fin de la pause sur la base de cette information. Un rendez-vous maintenu dans le soin et un accord clair au travail réduisent les occasions de devoir tout réorganiser au dernier moment."
+        }
+      ],
+      "ending_title": "La feuille du menu reste sur le comptoir",
+      "ending": "À la fin de l’appel, Éric accepte qu’on prépare le résumé et demande à le revoir avec le médecin du centre. Il rejoint Mélissa, qui a laissé les deux propositions sur la feuille. Elle lui dit qu’elle préfère celle où l’on sent les poireaux dès la première bouchée. Éric ajoute le nom de la marchande à côté des ingrédients, pour savoir à qui demander si elle serait d’accord de les fournir. Puis ils conviennent de rencontrer Gérald mardi, après l’école. Éric lira le menu avec Mélissa et gardera un moment pour parler du coin d’écoute.",
+      "mirror": [
+        "Mélissa peut dire ce qui l’aiderait dans leur préparation. « Dis-moi quand tu auras besoin de t’absenter, comme ça je saurai ce que je termine. » Si Éric parle de son suivi, elle peut lui demander ce qu’il souhaite partager et garder ces informations dans le cadre qu’il a choisi. Elle peut continuer à lui parler de leurs choix de cuisine et du projet qui les réunit."
+      ],
+      "sources": ["oms-cddr", "has-alcool", "nice-dependance-alcool"],
+      "continuity": {
+        "choice": "Éric prévoit de revoir le résumé de coordination avec le docteur Lenoir et fixe avec Mélissa une rencontre avec Gérald.",
+        "next": "Le menu est prêt pour mardi. Éric veut présenter le coin d’écoute et déterminer à qui il parlera de sa situation."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "eric-honte-avant-de-parler",
+      "title": "Quand la honte pousse à cacher les difficultés",
+      "description": "À la réunion, Éric craint d’être réduit à un rendez-vous manqué. Il choisit ce qu’il veut dire et avec qui.",
+      "context": "Le mardi à la salle des fêtes, au moment de présenter le menu",
+      "topics": ["Honte", "Crainte du jugement", "Confidentialité choisie"],
+      "clinical_focus": "Honte et peur du jugement",
+      "clinical_intro": "Éric entend reparler du rendez-vous manqué et voudrait changer de sujet. Il craint que tout ce qu’il a préparé soit lu à travers ce que les autres imaginent de sa consommation. La honte peut le pousser à se taire ou à éviter un rendez-vous. Parler dans un cadre choisi peut l’aider à décrire une difficulté et à demander un appui précis.",
+      "opening": "Gérald lit le menu en suivant les lignes avec le dos de son stylo. Éric a apporté le micro pour donner un aperçu du coin d’écoute. Il pose l’appareil au bord de la table et propose de faire entendre la marchande. Au moment où Mélissa tend le câble, Gérald se rappelle qu’ils devaient enregistrer le dimanche et demande si la camionnette avait dû attendre. Il le dit en rangeant le stylo, comme on demanderait à quelle heure une porte ferme. Éric entend la question et a envie de replier le câble avant même qu’on lui demande de répondre.\n\nIl pourrait raconter pourquoi il est arrivé trop tard. Il craint que chacun entende désormais « celui qui boit » quand on le voit entrer. Il s’imagine faire semblant d’avoir un souci d’appareil et reporter la démonstration. Mélissa, à côté de lui, lui demande si le son est assez fort pour eux trois. Il lui tend le casque. Il répond à Gérald qu’il a manqué le rendez-vous et qu’il s’est entendu avec la marchande pour venir mercredi avant l’ouverture. Gérald écoute le bruit des cagettes et demande si la marchande est d’accord pour qu’on le diffuse. Éric dit qu’elle a accepté après avoir entendu le fichier.\n\nSur le pas de la porte, il demande à Mélissa de marcher un peu avec lui. Il lui dit qu’il est suivi pour sa consommation d’alcool et que certains rendez-vous ont été difficiles à tenir. Il veut qu’elle puisse lui dire si un changement lui pose un problème. Il lui demande de garder la conversation entre eux. Mélissa attend qu’il ait fini avant de lui dire ce qu’elle peut prendre en charge dans le projet.",
+      "sections": [
+        {
+          "heading": "Ce qui se passe quand une conséquence devient un jugement sur soi",
+          "text": "La honte peut pousser une personne à se cacher quand elle anticipe d’être jugée. Éric a une conséquence à reconnaître. Il a fait manquer du temps à la marchande. Dans la salle, il passe très vite de ce fait à l’idée que Gérald et Mélissa pourraient désormais le voir d’une seule manière. L’envie de ranger le micro et de partir arrive avant qu’il ait pu entendre leur réponse.\n\nLa stigmatisation peut compliquer l’accès aux soins et la possibilité de parler des changements. La HAS insiste sur les échanges sans jugement autour de l’alcool. L’équipe qui suit Éric peut l’aider à distinguer ce qu’il craint du jugement des autres, ce qui s’est vraiment passé et ce qu’il veut demander pour continuer son suivi."
+        },
+        {
+          "heading": "Choisir un interlocuteur et un périmètre",
+          "text": "Éric peut répondre à Gérald au sujet du rendez-vous et de l’accord de diffusion. Il peut parler plus tard à Mélissa, dans un endroit où il se sent à l’aise. Sa collègue peut entendre la difficulté et rappeler qu’elle a besoin d’être prévenue si un horaire change. La confiance se discute à partir des actes qui les concernent et de la place que chacun veut tenir.\n\nParler à une personne choisie ne met pas la honte à distance pour de bon. Éric pourra encore hésiter à raconter une reprise ou à demander du temps pour un rendez-vous. Il a déjà dans le récit une expérience où sa demande de confidentialité a pu être entendue. Il peut s’en servir pour chercher les mots qui lui conviendront avec d’autres personnes."
+        }
+      ],
+      "ending_title": "Le temps annoncé pour chacun",
+      "ending": "Mélissa lui dit qu’elle peut garder leur conversation entre eux. Pour le repas, elle peut reprendre le service si elle sait à l’avance quand Éric compte partir vers le coin d’écoute. Elle ne veut pas répondre aux questions sur ses rendez-vous à sa place. Éric la remercie de lui dire ce qu’elle peut faire. De retour dans la salle, Gérald apporte un plan. Ils trouvent un coin où les gens pourront mettre le casque sans gêner le passage. Éric inscrit son prénom sur la feuille des deux rôles et propose qu’ils essaient le micro et le casque une semaine avant.",
+      "mirror": [
+        "Mélissa peut écouter et lui demander ce qu’il veut garder dans le cadre de leur échange. « Je peux te relayer au service. J’ai besoin de connaître l’heure où tu iras au coin d’écoute. » Elle peut reconnaître que la conversation lui a coûté et donner sa limite sans chercher à vérifier ses soins. Un besoin concernant le travail peut être discuté directement avec Éric."
+      ],
+      "sources": ["oms-cddr", "has-alcool", "nice-dependance-alcool"],
+      "continuity": {
+        "choice": "Éric partage une information avec Mélissa en privé et fixe avec elle le principe du passage du service au coin d’écoute.",
+        "next": "Mélissa connaît la situation et son périmètre. Gérald a inscrit le coin d’écoute au plan. Un essai est prévu une semaine avant."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "eric-venir-sans-promettre-la-suite",
+      "title": "Craindre de perdre le groupe quand on refuse le verre",
+      "description": "Éric veut retrouver les amis de la fanfare. Il prépare une réponse qui lui permet de rester en lien et de choisir la suite.",
+      "context": "Une répétition des anciens de la fanfare, plusieurs semaines avant le repas",
+      "topics": ["Peur de l’exclusion", "Pression sociale", "Soutien préparé"],
+      "clinical_focus": "Pression du groupe et appartenance",
+      "clinical_intro": "Éric accepte de venir à une répétition et hésite quand on lui propose de passer au café après. Il redoute de perdre sa place parmi les anciens s’il décline. Dans le suivi d’une dépendance, préparer une réponse peut aider à distinguer le lien auquel on tient, l’invitation reçue et ce qu’on veut faire de la suite.",
+      "opening": "Le pupitre de la fanfare penche en avant. Éric le redresse du bout de la chaussure pendant que Pascal cherche une feuille dans son dossier de partitions. Ils n’avaient plus joué ensemble depuis la remise des prix du village. Éric s’est inscrit pour tenir le rythme quand il faut reprendre après le silence. Gérald compte la mesure à voix basse, et Éric se souvient qu’il attendait toujours un battement de plus pour repartir. Il tape du doigt sur le pupitre. Gérald rit en se retournant. Pendant un instant, Éric retrouve quelque chose qu’il était venu chercher.\n\nÀ la fin du morceau, Gérald donne rendez-vous au café. Il dit à Éric qu’il a trouvé des photos d’un défilé et qu’il les a promises à tous. Éric aurait envie de les voir. La dernière fois qu’il s’est assis avec eux après une rencontre, il a repoussé l’heure de partir et manqué son rendez-vous. Cette fois, il sent qu’il pourrait dire oui rien que pour éviter le silence après son refus. Il ne sait pas si Gérald lui en voudra. Il ne veut pas non plus avoir à raconter son suivi devant ceux qui rangent les chaises.\n\nAvant la répétition, il avait demandé à Pascal s’il pourrait rester quelques minutes pour écouter un extrait du marché. Pascal lui avait dit qu’il avait le temps et qu’il devait partir ensuite. Éric demande à Gérald d’apporter les photos à la prochaine répétition. Il lui dit qu’il reste ici pour écouter un enregistrement et qu’il voudrait aussi parler d’un autre morceau. Sa voix se serre sur le dernier mot. Gérald ouvre sa sacoche pour vérifier si une photo s’y trouve déjà.",
+      "sections": [
+        {
+          "heading": "La place de l’invitation dans le désir de boire",
+          "text": "Les attentes du groupe et la crainte de s’en éloigner peuvent compter dans la difficulté à choisir. Éric associe le café à des souvenirs agréables, aux occasions de boire et à des départs qu’il a eu du mal à tenir. Quand l’invitation arrive, la perspective de perdre les photos et le moment partagé rend le refus plus coûteux. Le fait de vouloir garder des amis mérite sa place dans la discussion clinique.\n\nLes soins peuvent prendre en compte les situations sociales et les ressources dont la personne dispose. Éric peut parler de ce qui lui donne envie d’y aller et chercher comment retrouver une part de ces échanges ailleurs. Les occasions de se voir n’ont pas toutes la même signification pour lui."
+        },
+        {
+          "heading": "Une réponse assez courte pour rester utilisable",
+          "text": "Éric a prévu une phrase sur ce qu’il fera à la fin de la répétition. Elle lui permet de répondre à Gérald en laissant sa santé dans la sphère qu’il a choisie. Il peut demander à voir les photos au prochain rendez-vous. Gérald a le droit de préférer les montrer au café. Éric pourra alors décider ce qu’il souhaite faire de cette déception.\n\nAvec Pascal, le temps convenu est celui d’une écoute et s’arrête quand Pascal doit partir. Ce soutien peut donner une suite au rendez-vous sans transformer un ami en surveillant. Éric pourra reprendre en consultation les invitations où sa réponse est plus difficile à tenir et celles où une autre façon de se retrouver lui convient."
+        }
+      ],
+      "ending_title": "La photo pliée dans le dossier",
+      "ending": "Gérald sort une photo pliée. Éric y voit Pascal tenant le pupitre au-dessus de sa tête pour protéger la partition. Il lui demande s’il peut la regarder de plus près. Gérald lui laisse la photo jusqu’à la répétition suivante et emporte les autres. Après leur départ, Pascal met le casque et reconnaît le bruit des cagettes. Quand il doit rentrer, Éric a encore envie de savoir ce que les autres se racontent au café. Il envoie à Gérald le nom du morceau qu’il aimerait reprendre la prochaine fois et s’arrête un moment pour regarder ce qu’on voit du défilé derrière le pupitre.",
+      "mirror": [
+        "Gérald peut entendre une réponse sur la suite de la soirée et laisser la porte ouverte pour la répétition. « D’accord pour les photos la prochaine fois. Tu pensais à quel morceau ? » Pascal peut tenir le temps qu’il avait accepté et partir quand il en a besoin. Un proche peut partager une activité et accueillir un refus de sortir, même s’il ignore les raisons personnelles qui ont compté."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "has-alcool"],
+      "continuity": {
+        "choice": "Éric décline le café, prévoit de revoir des photos et écoute un extrait avec Pascal après la répétition.",
+        "next": "Gérald attend la photo au prochain rendez-vous. L’essai du coin d’écoute reste à organiser avant le repas."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "eric-reparler-dune-reprise",
+      "title": "Parler d’une reprise quand on a envie d’annuler le rendez-vous",
+      "description": "Éric a repris sa consommation à plusieurs occasions. Au téléphone, il hésite à dire au centre ce qui a changé.",
+      "context": "Un matin, plusieurs semaines après la répétition, depuis la cuisine d’Éric",
+      "topics": ["Reprise de consommation", "Évitement du suivi", "Ajustement de l’aide"],
+      "clinical_focus": "Reprise de consommation et soins",
+      "clinical_intro": "Après une période qui lui semblait plus facile, Éric a recommencé à boire et la situation s’est répétée. Il hésite à en parler à l’équipe de soins. La reprise apporte des informations sur ce qui a changé et sur le soutien dont il peut avoir besoin. Elle peut amener à revoir les risques et la façon d’organiser le suivi.",
+      "opening": "Éric détache une photo du bord de son miroir. C’est celle que Gérald lui a prêtée, avec Pascal sous le pupitre. La répétition suivante a été écourtée et Éric avait gardé la photo dans sa poche en attendant de la rendre. Ce soir-là, il a suivi les autres au café. Il s’était dit qu’il y resterait le temps de lui rendre la photo. Il a bu et il est reparti avec la photo. Depuis, il a recommencé à boire à d’autres moments, y compris des soirs où il avait prévu de rester disponible pour Joëlle. Il a répondu plus tard à ses messages, parfois le lendemain.\n\nCe matin, il doit rappeler le centre pour confirmer son rendez-vous de la semaine suivante. Il imagine qu’il suffirait de dire qu’il ne peut pas venir et qu’il reprendra une date. Il aurait alors quelques jours pour revenir avec quelque chose de plus rassurant à raconter. Il relit la ligne où il a enregistré le numéro du centre. Le médecin habituel a reçu le résumé dont ils avaient parlé. Il pourrait dire à l’équipe que sa situation a changé depuis. Il n’arrive pas à croire qu’ils auront encore envie d’en parler avec lui s’il commence par le dire aussi simplement.\n\nQuand le centre répond, Éric demande le nom de la personne à qui il peut raconter ce qui se passe. L’infirmière du centre le reconnaît et propose de l’écouter. Il lui dit qu’il a repris et qu’il s’est retrouvé à boire plusieurs fois alors qu’il avait prévu de partir ou d’aller chez sa sœur. Il a honte de dire combien cela l’occupe. L’infirmière lui demande s’il peut parler de ces derniers jours et de son état ce matin. Elle veut savoir s’il aurait besoin d’un avis avant la date prévue.",
+      "sections": [
+        {
+          "heading": "Ce que le retour dans le soin rend possible",
+          "text": "Une reprise de consommation peut suivre une période d’amélioration. Elle peut concerner une soirée, se répéter ou s’installer à nouveau. L’équipe a besoin de savoir ce qui s’est passé depuis le dernier rendez-vous et ce que la situation présente implique pour la santé. Elle peut aussi reprendre avec Éric les aides qui étaient accessibles et les circonstances où elles ne lui convenaient plus.\n\nLe premier refus qu’Éric a pu formuler à la répétition reste une expérience utile. Dans la situation suivante, le café est revenu comme suite immédiate de la rencontre, alors qu’il était venu rendre une photo. La discussion peut porter sur cette différence et sur les conséquences pour Joëlle. Parler du détail facilite un ajustement plus précis qu’une promesse générale d’aller mieux."
+        },
+        {
+          "heading": "Laisser l’équipe évaluer l’urgence du moment",
+          "text": "Après plusieurs reprises, le suivi peut devoir être rapproché. L’équipe vérifie l’état de la personne, les risques de sevrage et les besoins de soins ou d’orientation. Éric peut expliquer ce qu’il connaît de ses antécédents et signaler tout signe récent. Le choix d’un accompagnement appartient aux professionnels avec lui, en fonction des risques du moment.\n\nL’attente d’avoir de bonnes nouvelles pourrait retarder cette évaluation. Éric peut garder des projets au village et demander un délai pour les engagements qu’il ne peut plus garantir. Mélissa saura ce qu’elle doit préparer. Le centre peut l’aider à traiter les changements de santé au rythme où ils se présentent."
+        }
+      ],
+      "ending_title": "L’heure avancée sur le carton",
+      "ending": "L’infirmière reprend avec lui ce qu’il a signalé ce matin et lui propose un rendez-vous avancé pour le lendemain. Elle lui rappelle quand demander de l’aide si son état se dégrade. Éric déplace le carton sur la table et note l’heure. Il envoie ensuite à Joëlle un message où il explique qu’il a repris sa consommation, qu’il a appelé le centre et qu’il aimerait lui rendre le disque qu’elle lui avait prêté pour le projet. Joëlle peut passer demain avant son rendez-vous. Éric lui dit qu’elle n’aura pas besoin de l’attendre après.",
+      "mirror": [
+        "Joëlle peut reconnaître ce qu’elle a vécu et soutenir la démarche en cours. « J’ai attendu ta réponse, et j’ai eu besoin de m’organiser autrement. Je suis contente que tu aies pu parler au centre. » Elle peut proposer le passage qui lui convient et garder la liberté de repartir. Une aide au quotidien et l’évaluation de la santé peuvent se faire à des moments différents et par des personnes différentes."
+      ],
+      "sources": ["oms-cddr", "has-alcool", "nice-dependance-alcool"],
+      "continuity": {
+        "choice": "Éric raconte les reprises au centre, accepte un rendez-vous le lendemain et en informe Joëlle.",
+        "next": "Joëlle passe le lendemain avant le rendez-vous. Le centre et le médecin habituel connaissent le suivi en cours."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "eric-confusion-demander-une-aide-urgente",
+      "title": "Une confusion soudaine qui change le type d’aide",
+      "description": "Joëlle trouve Éric désorienté et appelle le 15 avant le rendez-vous prévu. L’équipe médicale évalue ce qui se passe.",
+      "context": "Le matin suivant l’appel au centre, au domicile d’Éric",
+      "topics": ["Confusion soudaine", "Évaluation d’un sevrage aigu", "Relais aux secours"],
+      "clinical_focus": "Confusion et urgence médicale",
+      "clinical_intro": "Joëlle arrive pour reprendre un disque. Éric ne semble plus savoir quel jour ils sont et sa réponse change au cours de l’échange. Son état inhabituel fait passer la situation de l’aide entre proches à l’urgence médicale. Un sevrage compliqué fait partie des causes que les soignants peuvent devoir examiner selon l’histoire récente.",
+      "opening": "Joëlle a prévu de reprendre le disque avant d’aller travailler. Éric ouvre la porte et lui demande si elle a déjà mis la table à la salle des fêtes. Il a les mains qui tremblent. Joëlle pense d’abord qu’il parle de la dernière réunion et lui dit qu’elle vient chercher son disque. Éric retourne vers la cuisine et se met à fouiller dans le tiroir où il garde les couverts. Il l’appelle depuis la cuisine pour lui demander de quel disque elle parle. Elle répète ce qu’ils se sont dit la veille, puis il lui demande à quelle heure leur mère doit rentrer. Leur mère est morte depuis des années. Joëlle lui parle de la fenêtre ouverte parce qu’il fait froid. Il répond quelque chose qu’elle ne parvient pas à suivre.\n\nElle le connaît préoccupé avant un rendez-vous. Cette fois, il a de la peine à reconnaître ce qui l’entoure. Le message qu’il lui a envoyé la veille parle d’une reprise de consommation et d’un rendez-vous avancé. Elle ne sait pas ce qu’il a bu depuis et ne comprend pas pourquoi il est ainsi. Le rendez-vous est prévu plus tard. Elle appelle le 15 et donne l’adresse. Elle décrit le changement rapide, les questions qui se mélangent, les tremblements et le dernier moment où elle l’a entendu lui parler de façon habituelle.\n\nOn lui pose des questions sur son état et sur ce qu’elle sait du suivi. Elle dit ce dont elle dispose et précise qu’elle ignore le reste. Elle suit les consignes de la personne au téléphone. Éric l’entend dire son prénom. Elle s’approche assez pour qu’il voie son visage et lui dit qu’elle est là, que des soignants vont venir et qu’ils regarderont ensemble ce qui se passe.",
+      "sections": [
+        {
+          "heading": "Un changement soudain demande une évaluation",
+          "text": "Une confusion qui apparaît rapidement justifie une aide médicale urgente. Un sevrage d’alcool peut entraîner des complications graves après une baisse ou un arrêt, notamment après une consommation importante et prolongée. D’autres problèmes de santé peuvent aussi provoquer une confusion. L’équipe doit évaluer l’état de la personne et l’histoire récente pour rechercher la cause et décider du lieu des soins.\n\nJoëlle connaît certains éléments et en découvre d’autres en arrivant. Les signes qu’elle décrit au 15, l’heure du changement si elle la connaît et le contexte du suivi donnent des points d’appui. La question de savoir s’il s’agit d’un sevrage se pose avec les soignants. La présence d’un rendez-vous prévu dans la journée ne répond pas à cette urgence."
+        },
+        {
+          "heading": "Ce que la sœur peut transmettre dans ce moment",
+          "text": "Joëlle peut transmettre une information reçue directement et dire quand elle manque d’un élément. Son rôle porte sur le changement qu’elle voit et sur l’appel. Le professionnel qui répond peut préciser ce qu’il faut faire en attendant l’arrivée d’une équipe. En France, le 15 ou le 112 permettent de joindre des secours pour une urgence médicale.\n\nAprès le relais, l’évaluation et les décisions de traitement passent aux soignants. Joëlle peut demander à qui parler pour être informée de la suite, dans le cadre qu’Éric voudra et pourra fixer. Son propre travail, le disque et le repas peuvent être repris plus tard. Dans l’immédiat, elle a reconnu qu’il fallait appeler et a fourni les renseignements qu’elle connaissait."
+        }
+      ],
+      "ending_title": "Le disque reste sur le buffet",
+      "ending": "Quand l’équipe arrive, Joëlle retrouve le message de la veille pour donner l’heure exacte. Elle dit ce qu’Éric lui a écrit et ce qu’elle a vu en entrant. Les soignants poursuivent l’évaluation et l’emmènent pour des soins. Le disque est sur le buffet, à côté du carton où il a noté l’heure du rendez-vous. Joëlle le laisse là. Elle téléphone à son travail pour prévenir qu’elle sera en retard, puis rejoint l’endroit où l’équipe lui a proposé d’attendre. Éric lui dira après la prise en charge ce qu’il a compris du sevrage que les médecins ont retenu.",
+      "mirror": [
+        "Devant une confusion soudaine, Joëlle appelle les secours et explique ce qui a changé. Elle peut dire « Hier il m’a écrit pour confirmer mon passage. Ce matin, il ne sait plus où nous sommes dans la journée. » Les faits qu’elle connaît aident le professionnel à orienter la réponse. Elle peut suivre ses indications et laisser l’équipe décider de l’évaluation et des soins."
+      ],
+      "sources": ["oms-cddr", "nice-complications-alcool", "service-public-samu"],
+      "continuity": {
+        "choice": "Joëlle appelle le 15 devant la confusion et l’équipe médicale assure le relais.",
+        "next": "Éric est pris en charge et pourra convenir de la suite avec les soignants. Le projet sonore reste en pause."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "eric-reparer-un-engagement",
+      "title": "Retrouver la confiance à partir d’un engagement précis",
+      "description": "Après son retour en soins, Éric parle avec Joëlle des rendez-vous manqués et de ce qu’il peut promettre aujourd’hui.",
+      "context": "Quelques semaines après la prise en charge urgente, au garage de Joëlle",
+      "topics": ["Retentissement sur les liens", "Confiance à reconstruire", "Engagement mesuré"],
+      "clinical_focus": "Retentissement et réparation du lien",
+      "clinical_intro": "Éric a repris son suivi après le sevrage. Quand il retrouve Joëlle, elle veut parler des fois où elle l’a attendu et de la peur qu’elle a eue le matin où elle a appelé le 15. L’amélioration de la santé et la confiance entre proches peuvent évoluer à des rythmes différents. Ils choisissent une chose qu’ils peuvent faire ensemble aujourd’hui.",
+      "opening": "Au fond du garage de Joëlle, le panier du vélo est revenu sur le guidon. Éric reconnaît les vis que sa sœur a mises de côté pour changer l’attache. Il est venu lui rendre le disque et lui demander si elle veut écouter la marchande avant le repas. Joëlle prend le disque et le retourne pour vérifier s’il est à elle. Elle ne trouve aucun nom dessus. Éric lui dit qu’il aurait dû lui rendre quand il s’était engagé à le faire. Il avait préparé cette phrase en venant. Il attend qu’elle regarde autre chose avant de dire le reste.\n\nDepuis sa sortie, le centre et le médecin habituel ont repris avec lui le suivi, et il retrouve peu à peu ses horaires à l’école. Il a recommencé à répondre à Mélissa pour le repas. Il voudrait dire à Joëlle que les rendez-vous reprennent et qu’elle peut compter sur lui. Elle lui répond qu’elle s’est inquiétée le matin où il ne la reconnaissait presque plus et qu’elle ne veut plus garder un après-midi libre sur une promesse incertaine. À plusieurs reprises, elle a attendu son appel pour savoir si elle pouvait partir. Éric sent monter l’envie de répondre que les choses sont différentes aujourd’hui. Il lui demande à la place quel rendez-vous elle a en tête. C’était celui du disque et un trajet à la ressourcerie, dont il n’avait pas pris la mesure.\n\nIl lui propose d’écouter l’entretien tout de suite, s’il lui reste un quart d’heure. Joëlle lui dit qu’elle peut rester le temps d’un seul enregistrement. Elle veut bien aider à choisir une phrase d’accueil pour le casque, et préfère qu’ils parlent du prochain trajet un autre jour.",
+      "sections": [
+        {
+          "heading": "Reprendre les conséquences à l’endroit où elles ont été vécues",
+          "text": "La dépendance à l’alcool peut se poursuivre malgré des conséquences dans les relations. Une reprise des soins peut améliorer la situation médicale et permettre de revoir les appuis. La personne avec qui un rendez-vous a été manqué a sa propre expérience de cet engagement et peut demander un changement concret. Éric peut reconnaître cette conséquence sans décider pour Joëlle ce qu’elle devrait ressentir.\n\nDans le récit, le disque a été une raison de se voir et le matin où elle est passée a aussi été celui des secours. Joëlle peut parler des deux événements. Éric sait ce qui l’aide dans ses soins et peut dire ce qu’il est prêt à partager. Ils disposent ainsi de plusieurs sujets, dont certains concernent le soin et d’autres leur manière de se retrouver."
+        },
+        {
+          "heading": "Faire une proposition que l’autre peut accepter ou refuser",
+          "text": "Éric propose une écoute qui peut avoir lieu maintenant, dans la durée que Joëlle a choisie. Elle n’a pas besoin de réserver une après-midi ni de s’engager à l’accompagner à d’autres rendez-vous. Ils pourront préparer le trajet qui reste à organiser à partir d’une date réelle et d’une autre possibilité pour Joëlle si nécessaire.\n\nLa consultation peut accueillir ce qu’Éric remarque dans ses liens depuis son retour. Les soignants peuvent l’aider à garder des activités choisies, à reprendre ses observations de santé et à définir les formes d’aide qu’il souhaite. La conversation avec Joëlle a aussi son sens propre. Elle leur permet de retrouver un sujet qu’ils ont envie de partager."
+        }
+      ],
+      "ending_title": "Écouter jusqu’au bruit des cagettes",
+      "ending": "Joëlle écoute l’entretien jusqu’au bruit des cagettes. Elle pense que certains prendront le casque au milieu de la phrase. Elle lui propose d’ajouter quelques mots pour leur dire qui parle et à quel endroit. Éric note cette idée. Il remercie Joëlle d’avoir appelé les secours et lui dit qu’il entend ce qu’elle lui demande sur les rendez-vous. Elle pose le disque sur l’étagère et va sortir le vélo. Éric repart avec le casque et une phrase d’accueil. Il confirme à Mélissa qu’il peut venir à l’essai prévu une semaine avant le repas. Ils fixeront l’heure du passage de la cuisine à l’écoute.",
+      "mirror": [
+        "Joëlle peut dire quelle rencontre lui convient et ce qu’elle ne veut plus organiser sur une attente. « Je peux écouter maintenant. Pour le trajet, on cherchera une date une autre fois. » Elle peut parler de sa peur et de ce qui l’a mise en difficulté. Éric garde le lien avec l’équipe de soins. Une écoute partagée peut leur faire du bien à tous deux sans devenir un engagement sur le reste."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "has-alcool"],
+      "continuity": {
+        "choice": "Éric rend le disque, reconnaît les attentes manquées et fait une écoute brève avec Joëlle, qui choisit la durée.",
+        "next": "Éric a une phrase d’accueil et confirme l’essai avec Mélissa. Le trajet avec Joëlle reste à discuter séparément."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "eric-envie-de-boire-apres-une-reussite",
+      "title": "L’envie de boire peut revenir un jour qui se passe bien",
+      "description": "Le repas se passe bien et Éric reçoit des compliments. Au moment de quitter la cuisine, l’envie de prolonger la fête revient.",
+      "context": "Le jour du repas du village, après le service de la soupe",
+      "topics": ["Envie de boire lors d’un moment agréable", "Transition préparée", "Activité choisie"],
+      "clinical_focus": "Envie de boire après une réussite",
+      "clinical_intro": "Éric vient de terminer le service et entend quelqu’un complimenter la soupe. L’envie de boire revient avec le plaisir d’avoir cuisiné et le souvenir des fins de fête. Les moments agréables peuvent aussi compter dans le suivi d’une dépendance. Éric avait choisi ce qu’il voulait faire après le service, un engagement qui l’aide à décider sur place.",
+      "opening": "Une femme rapporte son bol au passe-plat pour dire à Mélissa qu’elle a reconnu le poireau du marché. Éric tient encore la louche. Il attend qu’elle se tourne pour pouvoir sourire franchement. À l’essai de la semaine précédente, le coin d’écoute s’entendait depuis la cuisine quand on laissait la porte ouverte. Ils ont changé le casque de place et convenu que Mélissa reprendrait le service à ce moment du repas. Éric aperçoit le dessin que Joëlle lui a prêté pour indiquer le chemin. Un garçon montre du doigt le casque et demande à son père ce qu’on y entend.\n\nGérald passe derrière la table avec les photos de la fanfare. Éric en a une à lui rendre dans sa poche. Quelqu’un le félicite d’avoir retrouvé la marchande. Il est content que les deux parties du projet se rencontrent. Il retrouve aussi le désir de prolonger ce moment comme il l’a fait d’autres fois après un service. Gérald lui propose de rejoindre la table des anciens une fois qu’ils auront débarrassé. Éric pense qu’il aimerait entendre ce qu’ils diront du repas. Il a aussi envie d’aller y boire. Il en oublie un instant l’heure du casque.\n\nMélissa lui touche le coude et lui demande de lui passer la louche. Il lui dit qu’il peut tenir encore un peu. Elle montre les gens qui attendent près du dessin et lui dit qu’elle peut s’occuper du service. Éric repose la louche. Il sort la photo et propose à Gérald de venir la reprendre au coin d’écoute. Gérald regarde déjà le casque avec curiosité. Éric se lave les mains et sort de la cuisine en entendant Mélissa expliquer ce qu’ils ont mis dans la soupe.",
+      "sections": [
+        {
+          "heading": "La joie fait aussi partie des situations à comprendre",
+          "text": "Une envie de boire peut apparaître lors d’une inquiétude, d’une habitude du soir ou d’un événement que la personne a envie de fêter. Éric éprouve de la fierté et se souvient des fins de service où il allait retrouver le groupe et boire. L’envie arrive au moment où son rôle change et où il pourrait se laisser conduire par la suite familière. L’équipe de soins peut tenir compte de cette association, comme elle l’a fait pour l’invitation reçue sur la place.\n\nLe repas donne à Éric une expérience différente de la répétition de la fanfare. Le travail qui vient de réussir et les remerciements lui donnent envie de prolonger la journée. Il peut remarquer ce que chacun de ces moments suscite et en parler au prochain rendez-vous."
+        },
+        {
+          "heading": "Passer d’un rôle à l’autre avec un accord concret",
+          "text": "Éric et Mélissa ont convenu d’un moment où elle reprend la louche et où il va au casque. Cet accord donne une forme à ce qu’il voulait faire et réduit le temps où il doit se décider à nouveau devant plusieurs propositions. Mélissa voit un service à tenir et peut lui dire quand elle est prête. Éric choisit la réponse à donner à Gérald et l’invite à écouter.\n\nLes aides peuvent être adaptées à une situation précise. Éric pourra raconter pourquoi le passage a été difficile même si la journée lui plaisait. Le soin peut s’appuyer sur ce qu’il découvre dans des moments agréables et sur la place qu’il souhaite continuer de donner à ses amis."
+        }
+      ],
+      "ending_title": "La photo entre le dessin et le casque",
+      "ending": "Gérald trouve sa photo posée entre le dessin de Joëlle et le casque. Éric lui dit de commencer par le passage où la marchande cale les cagettes. Gérald ferme les yeux quelques secondes. Quand il les rouvre, il dit qu’il pourrait reconnaître la place rien qu’au bruit du chariot derrière elle. Deux personnes attendent leur tour. Éric demande à Gérald s’il peut garder la photo sur la table le temps d’expliquer l’enregistrement. Gérald est d’accord et retourne chercher Pascal pour lui faire entendre le chariot. Éric a encore envie de savoir ce qui se dit à l’autre table. Il peut d’ici entendre son prénom autrement.",
+      "mirror": [
+        "Mélissa peut tenir le relais prévu et rappeler le moment où elle est prête. « Donne-moi la louche. Les gens t’attendent au casque. » Gérald peut recevoir l’invitation à écouter et laisser Éric choisir s’il rejoindra le groupe plus tard. Un appui peut tenir dans ces gestes ordinaires. Les proches peuvent profiter du repas et des récits pour eux-mêmes."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "has-alcool"],
+      "continuity": {
+        "choice": "Éric passe la louche à Mélissa, anime le coin d’écoute et rend la photo à Gérald pendant l’événement.",
+        "next": "Le repas et l’écoute ont eu lieu. Éric pourra revenir en soins sur l’envie après le service et décider s’il veut reprendre les entretiens."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "eric-amelioration-et-suite-du-suivi",
+      "title": "Reconnaître ce qui va mieux et les moments qui restent difficiles",
+      "description": "Après le repas du village, Éric veut enregistrer une autre voix. Il parle au centre du plaisir retrouvé et des envies qui reviennent.",
+      "context": "Quelques semaines après le repas, puis au marché avec Pascal",
+      "topics": ["Suivi dans la durée", "Envies persistantes", "Projets retrouvés"],
+      "clinical_focus": "Amélioration et maintien du suivi",
+      "clinical_intro": "Éric a animé son coin d’écoute et veut enregistrer d’autres habitants. Il remarque aussi que certaines invitations suscitent encore l’envie de boire. Dans la dépendance à l’alcool, les soignants regardent l’évolution sur la durée, y compris les risques et la place retrouvée par des activités choisies. Ces deux éléments peuvent être utiles au même rendez-vous.",
+      "opening": "Le docteur Lenoir demande à Éric comment s’est passé le passage de la cuisine au casque. Éric lui raconte que Gérald a reconnu la place au bruit du chariot et que Pascal lui a proposé d’enregistrer un autre habitant. Il sort le programme du repas. Le nom de Mélissa est sur le menu et le sien sur le dessin du casque. Il montre où ils ont passé la louche de main en main. Puis il lui dit qu’il est resté quelques secondes à regarder la table des anciens avec une envie de boire qu’il n’avait pas prévue à ce moment-là.\n\nIl a gardé ses rendez-vous au centre et il a des nouvelles de son médecin habituel après la prise en charge. Certaines journées lui semblent plus faciles à organiser. Lorsqu’un ancien l’appelle le soir, il lui arrive encore de faire plusieurs fois le tour de l’appartement avant de répondre. Il craint que le médecin entende seulement qu’il a toujours envie ou seulement que le repas s’est bien passé. Il a apporté le programme pour pouvoir tenir ces deux choses devant lui pendant l’échange.\n\nIl demande s’ils peuvent reparler des invitations à la fin des journées qu’il a aimées. Le médecin l’invite à raconter deux moments différents depuis le repas. Éric en choisit un où il avait du temps pour appeler le centre et un où il s’était trouvé seul avec une réponse à donner. Puis il demande s’il peut garder leur rendez-vous de suivi même s’il commence les entretiens du marché le mercredi. Il peut les faire plus tôt et il tient à ce que la suite des soins ait une place à elle.",
+      "sections": [
+        {
+          "heading": "Suivre une évolution à travers plusieurs moments",
+          "text": "Dans la dépendance à l’alcool, la maîtrise de la consommation, sa place dans la vie et les conséquences peuvent évoluer au fil du temps. Les professionnels examinent cette trajectoire à partir de plusieurs situations et de l’état de santé. Le fait qu’Éric ait tenu un rendez-vous important apporte une information. Les envies qu’il décrit et les difficultés encore présentes en apportent d’autres. Les repères de rémission de la CIM-11 s’apprécient sur des périodes et avec une évaluation clinique.\n\nÉric peut revenir sur un moment où il a eu envie de boire sans pouvoir prévoir ce que cela dira de la suite. Son équipe peut examiner la fréquence des difficultés, les conditions où elles surviennent et la façon dont il souhaite organiser ses appuis."
+        },
+        {
+          "heading": "Garder une place pour les soins et une place pour le marché",
+          "text": "Le rendez-vous et l’entretien peuvent être prévus à des heures qui lui permettent de les faire l’un et l’autre. Éric pourra demander à Pascal quel mercredi lui convient. Il peut demander à son équipe de revenir sur les situations agréables qui l’ont surpris et sur la manière de la joindre quand il a besoin d’un avis. L’ajustement du suivi dépendra de ce qu’ils auront évalué ensemble.\n\nÉcouter un habitant parler de son travail a du prix pour Éric en dehors du soin. Le projet lui donne envie de savoir ce qu’il entendra la prochaine fois au marché. Il peut aussi continuer de voir Joëlle quand ils en ont envie et laisser un rendez-vous en suspens quand il a besoin de connaître sa disponibilité."
+        }
+      ],
+      "ending_title": "Le bruit qui manquait dans le premier entretien",
+      "ending": "Le mercredi suivant, au marché, Pascal lui demande par quoi commencer. Éric tient le micro et regarde un homme qui arrive avec un chariot vide. C’est lui qui emporte depuis trente ans les caisses que les marchands laissent à l’entrée. Il accepte de raconter un souvenir avant de continuer sa tournée. Éric lui demande si le chariot peut rester à côté d’eux, parce que c’est son bruit que Gérald a reconnu au repas. Pascal veut savoir s’ils iront retrouver les anciens ensuite. Éric lui dit qu’il a un rendez-vous après le marché et qu’il aimerait le revoir mercredi prochain. L’homme incline le chariot et le métal répond avant sa voix.",
+      "mirror": [
+        "Pascal peut proposer de revenir pour un autre entretien et demander quelle suite convient aujourd’hui. « Je peux venir mercredi. On parle de l’après quand on sait nos horaires ? » Il peut entendre qu’Éric a encore des moments difficiles et apprécier le travail qu’ils font ensemble. Éric et l’équipe gardent la possibilité de reparler des envies et des changements de santé dans le cadre du suivi."
+      ],
+      "sources": ["oms-cddr", "nice-dependance-alcool", "has-alcool"],
+      "continuity": {
+        "choice": "Éric revient sur les envies persistantes en consultation, garde le suivi et reprend les entretiens avec Pascal.",
+        "next": "Le coin d’écoute du repas a abouti. La collecte se poursuit à un rythme choisi et l’équipe reste impliquée dans le suivi."
+      }
+    }
+  ]
+}
