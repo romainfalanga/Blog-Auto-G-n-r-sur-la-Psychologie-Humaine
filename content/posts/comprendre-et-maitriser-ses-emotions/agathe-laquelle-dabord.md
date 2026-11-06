@@ -31,9 +31,9 @@ Elles imaginèrent la même scène en laissant les questions sur la table. Quand
 
 ## Comprendre une demande et formuler une réponse
 
-Le langage réceptif permet notamment de comprendre ce qu’on entend ; le langage expressif permet de trouver les mots et de construire sa réponse. Dans le trouble développemental du langage, ces deux dimensions peuvent demander des efforts différents. Quand Agathe ne sait pas à quoi renvoie « après », il lui faut d’abord une précision sur la question. Quand elle se représente l’étagère mais cherche son nom, du temps ou la possibilité de la montrer peuvent lui servir.
+Le langage réceptif permet notamment de comprendre ce qu’on entend. Le langage expressif permet de trouver les mots et de construire sa réponse. Dans le trouble développemental du langage, ces deux dimensions peuvent demander des efforts différents. Quand Agathe ne sait pas à quoi renvoie « après », il lui faut d’abord une précision sur la question. Quand elle se représente l’étagère mais cherche son nom, du temps ou la possibilité de la montrer peuvent lui servir.
 
-L’orthophoniste peut partir de cette distinction pour discuter avec Agathe de ce qui l’aide. Les papiers de la séance fournissent des exemples pour le suivi ; ils ne déterminent pas le profil clinique à eux seuls.
+L’orthophoniste peut partir de cette distinction pour discuter avec Agathe de ce qui l’aide. Les papiers de la séance fournissent des exemples pour le suivi. Ils ne déterminent pas le profil clinique à eux seuls.
 
 ## Comment distinguer une question mal comprise d’une réponse difficile à formuler ?
 

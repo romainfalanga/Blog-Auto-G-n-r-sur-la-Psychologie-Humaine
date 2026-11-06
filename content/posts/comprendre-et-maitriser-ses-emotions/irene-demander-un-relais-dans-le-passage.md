@@ -83,7 +83,7 @@ Donner les éléments utiles pour demander un avis de santé.
 **Exercice pratique**
 
 - Précisez ce qui s’est passé et où la douleur se situe.
-- Demandez immédiatement une aide médicale urgente si la situation paraît grave ; suivez les indications du professionnel.
+- Demandez immédiatement une aide médicale urgente si la situation paraît grave. Suivez les indications du professionnel.
 - Revenez avec l’équipe sur les conditions de l’activité avant de reprendre si le risque persiste.
 
 L’évaluation et la réponse médicale restent du ressort des soignants.

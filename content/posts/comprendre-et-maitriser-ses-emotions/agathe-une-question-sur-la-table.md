@@ -32,7 +32,7 @@ Quand vint la question des fleurs, elle poussa le feutre vers les CM1. Une élè
 
 ## Répondre à la question qu’on a retrouvée
 
-Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.
+Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé. Le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.
 
 Les questions sur les sachets et sur le banc ne demandent pas la même réponse. Agathe choisit de reprendre d’abord celle sur les graines. En redonnant une place aux autres questions, Camille l’aide à finir cet échange sans obliger le groupe à renoncer au suivant.
 

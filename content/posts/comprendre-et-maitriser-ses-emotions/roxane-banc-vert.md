@@ -50,7 +50,7 @@ Attendre que le bruit cesse peut faciliter l’écoute, mais il reste parfois de
 
 **Exemples concrets**
 
-- Au deuxième essai, Zoé comprend qu’il s’agit d’un banc ; elle garde encore le mauvais emplacement.
+- Au deuxième essai, Zoé comprend qu’il s’agit d’un banc. Elle garde encore le mauvais emplacement.
 - Sous un préau redevenu calme, un élève entend le nom d’une salle sans parvenir à savoir de quelle porte il s’agit.
 
 ### Un repère visible lève un doute précis

@@ -55,7 +55,7 @@ Une question réelle ou un objet montré peut aider à retrouver ce qui se passe
 
 ### Un relais prévisible évite une nouvelle interprétation
 
-Une intervention inattendue peut elle-même être lue comme un jugement ; un signe convenu garde un choix à la personne.
+Une intervention inattendue peut elle-même être lue comme un jugement. Un signe convenu garde un choix à la personne.
 
 **Exemples concrets**
 
@@ -108,4 +108,4 @@ Gaspard essaie de poser le plateau en gardant la motte devant le dessin. « Si t
 
 **Conclusion**
 
-Sacha garde le dessin et décide à quel geste Gaspard prendra les pots. La question de l’attention reste un travail de suivi ; samedi, le signal dira seulement qui poursuit la démonstration.
+Sacha garde le dessin et décide à quel geste Gaspard prendra les pots. La question de l’attention reste un travail de suivi. Samedi, le signal dira seulement qui poursuit la démonstration.

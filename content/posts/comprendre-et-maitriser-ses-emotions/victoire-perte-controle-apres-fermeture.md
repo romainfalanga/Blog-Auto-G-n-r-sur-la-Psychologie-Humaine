@@ -31,7 +31,7 @@ Idriss pousse un vélo jusqu’au comptoir. Le propriétaire demande si sa fille
 
 ## Ce qui échappe pendant une crise
 
-La perte de contrôle pendant une crise désigne le sentiment de ne plus pouvoir décider de la suite ou interrompre sa façon de manger. Dans la boulimie nerveuse, ces moments reviennent et la façon de manger diffère nettement de l’habitude. L’évaluation tient compte aussi des compensations, des préoccupations corporelles et du retentissement. Victoire voulait tracer une rue le soir même ; le mot qu’elle cherche le lendemain concerne ce qu’elle a éprouvé quand elle a voulu s’arrêter.
+La perte de contrôle pendant une crise désigne le sentiment de ne plus pouvoir décider de la suite ou interrompre sa façon de manger. Dans la boulimie nerveuse, ces moments reviennent et la façon de manger diffère nettement de l’habitude. L’évaluation tient compte aussi des compensations, des préoccupations corporelles et du retentissement. Victoire voulait tracer une rue le soir même. Le mot qu’elle cherche le lendemain concerne ce qu’elle a éprouvé quand elle a voulu s’arrêter.
 
 ## Comment la perte de contrôle se fait-elle sentir pendant et après la crise ?
 

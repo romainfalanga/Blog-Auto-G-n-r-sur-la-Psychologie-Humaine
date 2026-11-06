@@ -31,7 +31,7 @@ Dehors, il regarde l’heure. Il a encore quarante minutes avant sa prise de pos
 
 ## La même personne peut vivre deux échanges très différemment
 
-L’anxiété sociale peut varier selon le lieu, les interlocuteurs et le sentiment d’être observé. Une situation menée avec plus d’aisance ne prédit pas la suivante. Sacha discutait avec plaisir avec Jeanne ; l’arrivée d’Omar change le poids qu’il donne à sa propre façon de parler. Au suivi, cette différence peut être examinée sans effacer ce qu’il a déjà réussi ailleurs.
+L’anxiété sociale peut varier selon le lieu, les interlocuteurs et le sentiment d’être observé. Une situation menée avec plus d’aisance ne prédit pas la suivante. Sacha discutait avec plaisir avec Jeanne. L’arrivée d’Omar change le poids qu’il donne à sa propre façon de parler. Au suivi, cette différence peut être examinée sans effacer ce qu’il a déjà réussi ailleurs.
 
 ## Comment le contexte change-t-il l’effort pendant un échange ?
 

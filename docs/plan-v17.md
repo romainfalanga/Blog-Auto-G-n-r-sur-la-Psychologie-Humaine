@@ -51,16 +51,8 @@ L’[article sur l’alexithymie en couple](https://decodetonesprit.fr/posts/com
 
 Les 48 parcours déjà publiés à l’ouverture de cette reprise, soit 576 épisodes, suivent la trame. Le registre conserve les dates, les empreintes des manuscrits et les notes de relecture. Les épisodes reprennent leurs adresses et leur place dans les parcours.
 
-Le catalogue clinique compte 52 parcours et 624 épisodes à cette trame. La file de rédaction conserve 7 sujets dans cet ordre.
+Le catalogue clinique compte 59 parcours et 708 épisodes à cette trame. Les 27 sujets de la file prioritaire actuelle ont un parcours publié. Les dossiers comparatifs et les autres cas restent suivis dans la cartographie.
 
-| Code CIM-11 | Personnage | Sujet |
-| --- | --- | --- |
-| 6B25.1 | Cyril | Trouble d'excoriation compulsive |
-| 6C41.2 | Nawel | Dépendance au cannabis |
-| 6C4A.2 | Martin | Dépendance à la nicotine |
-| 6C43.2 | Séraphine | Dépendance aux opioïdes |
-| 6B61 | Ismaël | Amnésie dissociative |
-| 6B64 | Céleste | Trouble dissociatif de l'identité |
-| 6C72 | Olivier | Trouble compulsif du comportement sexuel |
+Le [dossier préparatoire de Malo](../editorial/clinical/dossiers/malo.json) documente la catatonie parmi les autres sujets à cadrer.
 
 `python3 scripts/clinical_editorial.py progress` indique les priorités, les dossiers, les manuscrits et les parcours déjà relus. Pour une reprise, partir de ces états et du registre avant de rédiger ou d’intégrer une série.

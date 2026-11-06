@@ -30,7 +30,7 @@ Victoire a la réponse la plus courte sur le bout de la langue. Elle pourrait di
 
 ## Ce que la compensation change dans l’évaluation
 
-Dans la boulimie nerveuse, les crises s’accompagnent de conduites compensatoires inappropriées et répétées, destinées à éviter une prise de poids redoutée. Leurs effets physiques et psychiques méritent une évaluation. L’hyperphagie boulimique présente elle aussi des crises avec perte de contrôle, sans ce recours régulier à la compensation ; certaines formes d’anorexie mentale peuvent aussi associer crises et compensations. L’évaluation de l’ensemble du tableau appartient aux soignants. Victoire essaie de leur parler de la partie de la soirée qu’elle avait prévu de passer sous silence.
+Dans la boulimie nerveuse, les crises s’accompagnent de conduites compensatoires inappropriées et répétées, destinées à éviter une prise de poids redoutée. Leurs effets physiques et psychiques méritent une évaluation. L’hyperphagie boulimique présente elle aussi des crises avec perte de contrôle, sans ce recours régulier à la compensation. Certaines formes d’anorexie mentale peuvent aussi associer crises et compensations. L’évaluation de l’ensemble du tableau appartient aux soignants. Victoire essaie de leur parler de la partie de la soirée qu’elle avait prévu de passer sous silence.
 
 ## Comment les compensations prolongent-elles ce qui se passe après la crise ?
 
@@ -40,7 +40,7 @@ Le retour du sentiment de pouvoir décider ne met pas forcément fin à la peur 
 
 **Exemples concrets**
 
-- Victoire a préparé le récit de sa crise ; il lui faut une seconde phrase pour dire la pression venue après.
+- Victoire a préparé le récit de sa crise. Il lui faut une seconde phrase pour dire la pression venue après.
 - Une personne peut retrouver une conversation ordinaire et rester préoccupée par ce qu’elle croit devoir contrebalancer.
 
 ### Un apaisement bref peut côtoyer d’autres coûts

@@ -108,4 +108,4 @@ Jeudi matin, Maud a mis le point « trajet » en premier sur la feuille. Hélèn
 
 **Conclusion**
 
-Le point trajet passe en premier, comme Hélène l’avait demandé. Elle peut choisir d’essayer l’aller avec Dario. Les deux mots entourés fixent l’essai ; le choix du trajet à long terme reste ouvert.
+Le point trajet passe en premier, comme Hélène l’avait demandé. Elle peut choisir d’essayer l’aller avec Dario. Les deux mots entourés fixent l’essai. Le choix du trajet à long terme reste ouvert.

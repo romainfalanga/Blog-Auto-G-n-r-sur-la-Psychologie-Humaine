@@ -43,7 +43,7 @@
               "heading": "L’idée est prête avant que l’autre la saisisse",
               "text": "Un écart entre ce que l’enfant veut dire et ce que l’autre entend ne renseigne ni sur son imagination ni sur sa compréhension.",
               "examples": [
-                "Roxane a déjà pensé à une fausse piste ; il lui manque un moyen de la faire entendre à Mme Sorel.",
+                "Roxane a déjà pensé à une fausse piste. Il lui manque un moyen de la faire entendre à Mme Sorel.",
                 "Dans un jeu de cartes, un enfant sait expliquer une règle et doit reprendre le mot qui précise quand passer son tour."
               ]
             },
@@ -110,7 +110,7 @@
       },
       "clinical_focus": "Intelligibilité de la parole",
       "clinical_intro": "La classe est déjà sortie quand Roxane explique sa devinette à Mme Sorel. L’enseignante reconnaît qu’il est question d’un bruit et lui demande de quel oiseau elle parle. Dans le trouble développemental des sons de la parole, produire ou enchaîner certains sons peut rendre un message difficile à comprendre même au calme. Roxane hésite à recommencer alors que son idée est déjà précise.",
-      "conclusion": "Mme Sorel a saisi une partie de la proposition ; le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner."
+      "conclusion": "Mme Sorel a saisi une partie de la proposition. Le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner."
     },
     {
       "number": 2,
@@ -146,7 +146,7 @@
               "heading": "Le calme rend une partie du message disponible",
               "text": "Attendre que le bruit cesse peut faciliter l’écoute, mais il reste parfois deux repères possibles ou des sons difficiles à reconnaître.",
               "examples": [
-                "Au deuxième essai, Zoé comprend qu’il s’agit d’un banc ; elle garde encore le mauvais emplacement.",
+                "Au deuxième essai, Zoé comprend qu’il s’agit d’un banc. Elle garde encore le mauvais emplacement.",
                 "Sous un préau redevenu calme, un élève entend le nom d’une salle sans parvenir à savoir de quelle porte il s’agit."
               ]
             },
@@ -539,7 +539,7 @@
         {
           "role": "explanation",
           "heading": "Un enregistrement fait entendre une situation",
-          "text": "Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.\n\nDans le trouble des sons de la parole, la facilité à distinguer un mot peut changer d’une prise à l’autre. Elle dépend de la façon dont les sons sont produits et aussi de ce que capte le micro. En comparant les prises, Roxane cherche celle qui donnera sa place au silence et à l’indice. Ce choix de montage ne mesure pas son niveau de parole."
+          "text": "Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table. Elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.\n\nDans le trouble des sons de la parole, la facilité à distinguer un mot peut changer d’une prise à l’autre. Elle dépend de la façon dont les sons sont produits et aussi de ce que capte le micro. En comparant les prises, Roxane cherche celle qui donnera sa place au silence et à l’indice. Ce choix de montage ne mesure pas son niveau de parole."
         },
         {
           "role": "manifestations",
@@ -623,7 +623,7 @@
       },
       "clinical_focus": "Variabilité de la parole enregistrée",
       "clinical_intro": "Dans le casque, le bruit d’un ruban adhésif explique pourquoi Zoé a perdu la fin d’une phrase. Roxane entend aussi combien le ton varie entre ses trois essais. Pour une personne qui a un trouble des sons de la parole, un enregistrement renseigne sur les mots compris dans cette situation. Roxane peut tenir compte de ce retour et choisir la prise qui ressemble à sa façon de raconter.",
-      "conclusion": "Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle ; le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes."
+      "conclusion": "Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle. Le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes."
     },
     {
       "number": 7,
@@ -887,7 +887,7 @@
               "objective": "Éviter que le tour avance avant la vérification.",
               "exercise": [
                 "Posez la bille là où la discussion s’est arrêtée.",
-                "Dites : « Je crois que tu proposes de partir d’ici ; c’est ça ? »",
+                "Dites : « Je crois que tu proposes de partir d’ici. C’est ça ? »",
                 "Attendez la confirmation de la personne qui parlait."
               ],
               "benefit": "Une pause courte laisse le temps de réparer le malentendu sans rejouer toute la manche."

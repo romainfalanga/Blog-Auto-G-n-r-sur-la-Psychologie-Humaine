@@ -37,7 +37,7 @@ Pour certaines personnes vivant avec un trouble du développement intellectuel, 
 
 ### Le nom commun ne donne pas le même point de départ
 
-Un bâtiment est un repère général ; les façades ou les accès peuvent laisser plusieurs réponses possibles.
+Un bâtiment est un repère général. Les façades ou les accès peuvent laisser plusieurs réponses possibles.
 
 **Exemples concrets**
 

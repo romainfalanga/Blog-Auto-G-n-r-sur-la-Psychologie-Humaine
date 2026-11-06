@@ -31,7 +31,7 @@ La personne qui montre le métier a accepté qu’Inès enregistre le bruit de l
 
 ## Quand le repas occupe aussi l’attention
 
-Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès ; en surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre.
+Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès. En surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre.
 
 ## Comment l’attention se partage-t-elle entre le repas et la conversation ?
 

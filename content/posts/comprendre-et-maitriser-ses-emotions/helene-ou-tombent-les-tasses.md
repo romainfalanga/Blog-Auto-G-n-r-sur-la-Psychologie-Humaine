@@ -59,7 +59,7 @@ Une précision utile porte sur l’étape à faire, sans effacer les compétence
 **Exemples concrets**
 
 - Maud écrit l’heure et le lieu sur une nouvelle feuille et raye l’ancienne ligne.
-- Une collègue ajoute le quai sur une fiche ; la personne peut ensuite préparer la caisse qu’elle connaît.
+- Une collègue ajoute le quai sur une fiche. La personne peut ensuite préparer la caisse qu’elle connaît.
 
 ## 3 techniques pour rendre une consigne de travail utilisable
 

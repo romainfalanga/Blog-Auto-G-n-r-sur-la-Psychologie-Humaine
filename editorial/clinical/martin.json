@@ -1,0 +1,1257 @@
+{
+  "character_id": "martin",
+  "bio": "Martin a quarante-sept ans, travaille comme ambulancier et vit avec une dépendance à la nicotine. Le café après une mission et les conversations avec Karim marquaient souvent l’heure d’une cigarette. Il veut changer sa consommation et garder ces moments de pause. Il peut en parler à sa médecin et choisir ce qu’il demande à Karim ou à sa partenaire Élodie. Avec sa fille Lina, il fabrique deux nichoirs pour le jardin partagé. Ils se disputent surtout sur la couleur des toits.",
+  "profile_topics": [
+    "Dépendance à la nicotine",
+    "Habitudes de pause",
+    "Envies de fumer",
+    "Manque de nicotine",
+    "Reprise après un écart"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "martin-le-premier-cafe",
+      "title": "Quand le café déclenche le geste de chercher une cigarette",
+      "description": "Au dépôt, Martin entend la machine à café et sa main va vers sa poche. Il remarque le geste avant même d’avoir pris sa tasse.",
+      "context": "au dépôt des ambulances, pendant une pause prévue après une mission",
+      "topics": [
+        "Repère de pause",
+        "Geste automatique",
+        "Dépendance à la nicotine"
+      ],
+      "clinical_focus": "Automatismes liés aux habitudes",
+      "clinical_intro": "La machine à café s’arrête et Martin porte la main à sa poche avant d’avoir pris sa tasse. À force de revenir ensemble, des moments ordinaires et la cigarette peuvent se lier. Un son, un lieu ou un geste suffit alors parfois à faire surgir une envie ou à amorcer le mouvement. Martin voudrait garder son café de fin de mission et comprendre à quel moment la cigarette s’invite.",
+      "opening": "La machine fait son dernier bruit d’eau, celui qui ressemble à une petite toux. Martin a déjà la main dans sa poche. Il cherchait une cuillère, croit-il d’abord, sauf que les cuillères sont juste devant lui. Sa main a pris le chemin de la poche où il garde ses cigarettes. Il ressort les doigts à vide et prend la tasse. Karim en a mis deux sur le plateau, les seules dont l’anse ne chauffe pas trop.\n\nIls viennent de rentrer au dépôt. Les transmissions et la remise en état de l’ambulance sont terminées. Ils ont leur pause dans la salle de repos. D’habitude, le café ouvre un moment à eux, avec une histoire de voisin ou une discussion sur les résultats du dimanche. Quand il fume, Martin attend d’être dehors à l’écart, loin des véhicules, du matériel et des patients. Aujourd’hui, il s’est dit qu’il voulait d’abord boire un café assis. Sa main a devancé la décision.\n\nIl sort un cahier bleu que Lina a posé près de ses clés ce matin. Sa fille y a dessiné deux nichoirs avec des toits de tailles différentes. En dessous, elle demande lequel serait le plus facile à construire. Martin montre les deux traits à Karim. Il dit que le deuxième a l’air d’un toit qui protège surtout le dessin du premier. Karim regarde de près. Martin s’aperçoit qu’il a déjà tourné sa chaise vers la porte et qu’il ne sait plus quand il l’a fait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le café finit par annoncer",
+          "text": "Quand deux actions reviennent souvent ensemble, la première peut faire venir la seconde à l’esprit. Dans la dépendance à la nicotine, des habitudes apprises peuvent ainsi déclencher une envie ou un mouvement avant une décision consciente. Martin connaît déjà son diagnostic. Il remarque le bruit de la machine, puis la direction que prennent ses mains et sa chaise. Son café lui plaît aussi pour la conversation avec Karim. En observant l’ordre des gestes, il peut chercher une façon de conserver ce moment."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les habitudes peuvent-elles amorcer le geste de fumer ?",
+          "points": [
+            {
+              "heading": "Un signal familier suffit",
+              "text": "Un bruit ou une odeur qui revient juste avant la cigarette peut finir par l’évoquer.",
+              "examples": [
+                "Le bruit de fin de la machine à café suffit pour que Martin glisse la main dans sa poche.",
+                "En rangeant la vaisselle après le dîner, une personne pourrait penser à fumer dès qu’elle entend l’eau s’arrêter, si c’est le signal habituel de sa sortie."
+              ]
+            },
+            {
+              "heading": "Le corps commence le trajet",
+              "text": "La posture ou les premiers pas peuvent précéder la prise de conscience de l’envie.",
+              "examples": [
+                "Martin a déjà tourné sa chaise vers la porte quand il se rend compte qu’il avait décidé de rester assis.",
+                "Quelqu’un pourrait se retrouver debout près de la porte du balcon avec sa tasse, avant de se demander ce qui l’y a amené."
+              ]
+            },
+            {
+              "heading": "Un repère subsiste quand le programme change",
+              "text": "Une pause prévue autrement peut garder un détail associé à l’ancienne routine.",
+              "examples": [
+                "Martin choisit le café à table. La même machine et la même tasse précèdent encore le geste de sa main.",
+                "En congé, le même thermos que celui emporté au travail pourrait rappeler à quelqu’un sa pause cigarette, même s’il se trouve dans sa cuisine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour repérer un automatisme de pause",
+          "points": [
+            {
+              "heading": "Remonter d’un geste",
+              "objective": "Identifier ce qui vient juste avant la main dans la poche ou le trajet vers la porte.",
+              "exercise": [
+                "Pendant une pause ordinaire où vous êtes libre, repérez le premier geste dont vous prenez conscience.",
+                "Remémorez-vous ce que vous veniez de voir, d’entendre ou de faire.",
+                "Notez ces deux éléments quand vous êtes disponible et à l’arrêt."
+              ],
+              "benefit": "Un repère concret peut être plus facile à discuter qu’une impression générale de fumer sans y penser."
+            },
+            {
+              "heading": "Déplacer un seul repère",
+              "objective": "Vérifier si un autre ordre vous laisse choisir comment prendre la pause.",
+              "exercise": [
+                "Gardez ce qui vous plaît, comme le café ou la conversation.",
+                "Choisissez une modification modeste, par exemple s’asseoir avant de prendre la première gorgée.",
+                "Après la pause, notez si votre attention est allée à la cigarette au même moment."
+              ],
+              "benefit": "Un changement limité peut aider à voir quel repère compte pour vous."
+            },
+            {
+              "heading": "Convenir d’une pause commune",
+              "objective": "Garder la conversation quand la sortie du café n’est plus automatique.",
+              "exercise": [
+                "Pendant un temps libre, demandez à la personne si elle souhaite prendre le café avec vous à une table où l’on ne fume pas.",
+                "Choisissez un moment qui convient à tous et aux règles du lieu.",
+                "À la fin, demandez-vous si c’est ce moment que vous voulez conserver."
+              ],
+              "benefit": "Une pause prévue ensemble peut donner une autre suite au café tout en laissant chacun libre de ses gestes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La tasse reste sur la table",
+      "ending": "Karim pousse vers lui le plateau. « Tu bois, ou tu dessines le devis ? » Martin prend une gorgée. Il lui dit que sa main est déjà partie chercher le paquet. Karim lui montre la chaise qui grince et dit qu’il attend de savoir pour le toit. Martin reste assis jusqu’à la fin du café. L’envie est encore là quand il revient au cahier. Sous les dessins, sur un coin qui lui appartient, il note « machine, main dans la poche ». Il décide de tracer chez lui les deux façades avant de donner son avis sur les toits.",
+      "conclusion": "Le bruit de la machine avait déjà annoncé une sortie à Martin. Il a quand même pu boire son café assis et écouter Karim. Il garde une note pour retrouver le moment précis où le geste a commencé. À la maison, une autre décision l’attend au milieu des planches.",
+      "mirror": [
+        "Karim peut répondre à ce que Martin vient de lui dire. « J’ai le temps de finir le café ici, si tu veux rester. Tu me montres l’autre toit ? » Il peut proposer sa compagnie et reprendre son travail quand la pause se termine. Le choix du lieu et du moment tient aussi à ce que le service leur permet ce jour-là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sevrage-tabagique",
+        "ansm-oxygene"
+      ],
+      "continuity": {
+        "choice": "Martin garde son café à table avec Karim et note le premier geste qui lui annonce une cigarette.",
+        "next": "Le cahier bleu rentre à la maison. Martin et Lina doivent tracer les façades et choisir leurs toits."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "martin-avant-le-deuxieme-trait",
+      "title": "Quand il devient difficile de garder la décision de fumer plus tard",
+      "description": "Martin s’était donné jusqu’à la fin du tracé des façades. Il sort avant le deuxième trait et décide d’en parler à sa médecin.",
+      "context": "à la maison, en préparant le bois avant le retour de Lina",
+      "topics": [
+        "Moment choisi",
+        "Difficulté à maîtriser l’usage",
+        "Demande de consultation"
+      ],
+      "clinical_focus": "Perte de maîtrise du moment",
+      "clinical_intro": "Martin se promet de terminer les deux tracés avant de sortir fumer. Il s’arrête au milieu du second. Une dépendance à la nicotine peut rendre difficile le respect d’une limite qu’on a choisie, qu’elle porte sur le moment ou la quantité. Martin se rappelle deux décisions semblables et cherche comment en parler à la docteure Bellon sans réduire son histoire à un chiffre.",
+      "opening": "Les deux façades tiennent sur une seule chute de bois si Martin rapproche un peu les toits. Lina a envoyé un message depuis chez son amie. Elle sera là avant le repas et veut savoir lequel des deux nichoirs aura le petit triangle au-dessus de l’entrée. Martin écrit « les deux si tu arrives à me convaincre » et laisse le téléphone sur le buffet. Il a posé l’équerre, le crayon et le cahier bleu dans l’ordre où il compte les reprendre.\n\nEn commençant, il se dit qu’il sortira fumer après le deuxième tracé. Il veut avoir quelque chose à lui montrer quand elle arrivera. Le premier toit prend forme. Pour le deuxième, la règle arrive sur un nœud. Martin essaie une autre position, vérifie la longueur et regarde la porte. Il pense qu’il en a pour une minute. Une minute plus tard, il a reposé le crayon au milieu du trait et il est dehors, seul dans sa cour, loin de la maison. Quand il rentre, l’équerre a gardé exactement le même angle.\n\nÉlodie met la table. Elle voit que Martin n’a pas enlevé sa veste et lui demande s’il repart. Il regarde les deux façades, une entière et une dont il manque le bout. Il se rappelle la veille, quand il avait annoncé qu’il attendrait d’avoir servi le café et qu’il était sorti pendant le dessert. « J’arrive à dire quand je veux y aller. Après, je pars avant. » Il cherche le numéro du cabinet de la docteure Bellon pendant qu’Élodie sort les assiettes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le moment réel échappe au projet",
+          "text": "La dépendance à la nicotine peut rendre difficile la maîtrise du début, de la fréquence ou du moment où l’on fume. Une décision sincère peut ainsi changer au contact de l’envie. Martin voulait terminer le tracé et s’aperçoit qu’il s’est interrompu. Ce qui l’intéresse ici est l’écart entre le moment qu’il avait choisi et ce qui s’est passé. Une situation seule ne permet pas de conclure à une dépendance. La docteure Bellon connaît déjà son histoire et peut reprendre ces faits avec lui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à maîtriser l’usage peut-elle se voir dans une décision ?",
+          "points": [
+            {
+              "heading": "Avancer le moment qu’on s’était fixé",
+              "text": "On peut décider de fumer après une activité puis changer d’heure alors que l’activité continue.",
+              "examples": [
+                "Martin pose le crayon avant de terminer le deuxième tracé, alors qu’il voulait attendre de lever l’équerre.",
+                "Une personne pourrait prévoir d’attendre la fin de son émission et sortir dès la première coupure, avant ce qu’elle avait choisi."
+              ]
+            },
+            {
+              "heading": "Modifier plusieurs fois la limite en cours de route",
+              "text": "Une décision sur le nombre ou la durée d’une pause peut devenir difficile à maintenir une fois qu’elle a commencé.",
+              "examples": [
+                "Lors d’une promenade seule, une personne peut partir en comptant ne fumer qu’à l’arrivée et redéfinir le point d’arrêt plusieurs fois sur le chemin.",
+                "Après un dîner, quelqu’un peut avoir prévu une cigarette dans sa cour et constater qu’il y est retourné plusieurs fois avant la fin de la soirée."
+              ]
+            },
+            {
+              "heading": "S’en apercevoir en comparant deux moments",
+              "text": "L’écart apparaît parfois surtout quand on retrouve la décision prise auparavant.",
+              "examples": [
+                "De retour près de l’équerre, Martin se rappelle qu’il s’était donné jusqu’à la fin du trait. Le repas de la veille lui revient aussi.",
+                "Un adulte peut retrouver la note où il avait prévu de fumer plus tard et constater qu’à plusieurs reprises l’heure réelle a été différente."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’une décision de fumer difficile à tenir",
+          "points": [
+            {
+              "heading": "Décrire deux moments sans compter pour se juger",
+              "objective": "Donner une place à ce que vous aviez prévu et à ce qui s’est passé.",
+              "exercise": [
+                "Choisissez deux situations récentes dont vous vous souvenez.",
+                "Écrivez pour chacune ce que vous vouliez faire puis à quel moment vous avez fumé.",
+                "Ajoutez ce qui restait à faire à ce moment-là, si cela vous aide à situer la scène."
+              ],
+              "benefit": "Deux exemples précis peuvent ouvrir une discussion avec un professionnel sur ce qui rend certaines limites difficiles à tenir."
+            },
+            {
+              "heading": "Prendre rendez-vous avec une question",
+              "objective": "Demander un accompagnement à partir d’une difficulté que vous avez constatée.",
+              "exercise": [
+                "Choisissez un professionnel de santé à qui en parler, par exemple votre médecin traitant.",
+                "En prenant rendez-vous, indiquez que vous voulez faire le point sur votre consommation de tabac.",
+                "Apportez une question, comme « Qu’est-ce qui pourrait m’aider quand je fume plus tôt que prévu ? »."
+              ],
+              "benefit": "La question peut aider le professionnel à partir du problème qui vous gêne et de l’objectif qui vous convient."
+            },
+            {
+              "heading": "Préparer un appui pour le prochain moment choisi",
+              "objective": "Disposer d’une possibilité quand l’envie arrive avant le moment prévu.",
+              "exercise": [
+                "Repérez une activité courte que vous souhaitez poursuivre ou reprendre.",
+                "Choisissez un geste simple à faire à l’arrivée de l’envie, comme poser l’objet et boire un verre d’eau.",
+                "Si cette limite reste difficile, notez-le pour le rendez-vous et demandez quel autre appui serait possible."
+              ],
+              "benefit": "Ce repère peut aider à garder le fil de l’activité et fournir un point de départ au suivi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le coin de l’équerre",
+      "ending": "Le cabinet peut le recevoir lundi. Martin écrit « avant la fin du trait » sur une feuille à part. En dessous, il ajoute « pendant le dessert » et note la date du rendez-vous en haut. Élodie lui demande s’il veut en parler maintenant ou finir son dessin. Il lui montre le nœud et lui dit qu’il préfère revenir à la question lundi. Quand Lina pousse la porte, le deuxième trait rejoint enfin le premier. Elle regarde les façades et se prononce pour deux petits triangles. Martin lui propose de les dessiner demain, après la permanence du jardin partagé. Il doit y demander où les nichoirs pourraient être placés.",
+      "conclusion": "Le tracé terminé n’efface pas le moment où Martin est sorti plus tôt que prévu. Il en garde un exemple pour la consultation et laisse à Lina la décision des triangles. Demain, il verra ce que le jardin peut accueillir.",
+      "mirror": [
+        "Élodie peut répondre à ce que Martin a choisi de dire. « Tu veux que je t’aide à trouver un créneau, ou tu préfères appeler ? » Une fois le rendez-vous pris, elle peut le laisser décider s’il souhaite reprendre la conversation. Lina arrive pour voir les façades et dessiner. Les notes destinées à la médecin restent entre les adultes concernés."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-arret-tabac",
+        "ameli-sevrage-tabagique"
+      ],
+      "continuity": {
+        "choice": "Martin prend rendez-vous avec la docteure Bellon pour lundi et garde deux situations où il a fumé plus tôt que prévu.",
+        "next": "Lina choisit les triangles. Martin va à la permanence du jardin pour obtenir un plan des emplacements."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "martin-sous-lauvent",
+      "title": "Quand une envie de fumer monte et change d’intensité",
+      "description": "Une averse retarde l’ouverture du jardin. Sur le banc, l’envie surprend Martin, puis recule avant que Mireille ait fini d’ouvrir.",
+      "context": "sous l’auvent du local associatif, avant la permanence du jardin",
+      "topics": [
+        "Envie soudaine",
+        "Intensité variable",
+        "Appui pendant l’attente"
+      ],
+      "clinical_focus": "Montée et recul de l’envie",
+      "clinical_intro": "En attendant l’ouverture du jardin, Martin sent une envie assez forte pour penser à repartir. Quelques instants plus tard, elle lui laisse de la place pour parler du plan avec Mireille. Une envie de fumer liée à la dépendance peut monter, varier et revenir. Observer ce changement aide à comprendre ce qui se passe pendant l’attente sans fixer de durée à respecter.",
+      "opening": "L’auvent du local est assez profond pour le banc, mais le bout où Martin s’est assis reçoit une goutte à chaque rafale. Il se pousse de la largeur d’une main et tient son cahier bleu debout contre ses genoux. Au jardin, la terre a pris la couleur des vis noires qu’il a rangées hier. Derrière le grillage, deux planches appuyées contre un mur lui font penser aux leurs. Lina lui a demandé de vérifier qu’on verrait les triangles depuis l’allée. Il a promis de poser la question.\n\nLa permanence devait commencer. Martin entend des clés au loin puis plus rien. Une envie de fumer monte si vite qu’il se voit déjà traverser la rue, repartir et revenir plus tard. Il tient son cahier de travers et s’en rend compte parce que la goutte a atteint le coin où Lina a dessiné son toit. Il le ferme et le glisse sous sa veste. Il n’a pas prévu de fumer ici. Pendant un moment, il ne pense presque qu’au départ.\n\nMireille arrive par l’autre allée avec un sac de graines et des bottes dont une couine. Elle s’arrête avant la grille. La bonne clé est, dit-elle, au bout du mauvais trousseau. Martin lui demande s’il peut poser son cahier à l’abri pendant qu’elle cherche. Au bout de quelques mots sur les gouttes qui tombent de l’auvent, il remarque que l’envie n’a plus exactement la même force. Il a encore envie de fumer et il voudrait aussi voir le plan.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie a un début et peut se modifier",
+          "text": "Une envie pressante de fumer peut occuper l’attention et donner l’impression qu’il faut agir aussitôt. Dans la dépendance à la nicotine, elle peut accompagner le manque ou surgir dans une situation qui rappelle la cigarette. Son intensité peut changer, parfois plusieurs fois dans un même moment. Sur le banc, Martin pense d’abord à repartir. Lorsqu’il recommence à regarder ce qui se passe sous l’auvent, l’envie est encore présente et lui laisse davantage de place pour autre chose."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une envie pressante de fumer peut-elle évoluer ?",
+          "points": [
+            {
+              "heading": "Le début surprend",
+              "text": "Une pensée ordinaire peut laisser soudain beaucoup de place à l’idée de fumer.",
+              "examples": [
+                "Martin regarde la pluie sur les planches et se voit presque aussitôt repartir de l’autre côté de la rue.",
+                "Une personne pourrait chercher un horaire sur son téléphone et se mettre d’un coup à réfléchir surtout à l’endroit où elle pourrait fumer."
+              ]
+            },
+            {
+              "heading": "L’attention se resserre au plus fort",
+              "text": "Le moment où l’envie est la plus forte peut rendre moins accessibles les autres raisons d’être là.",
+              "examples": [
+                "Pendant un moment, Martin ne pense presque qu’à partir, alors qu’il est venu chercher les emplacements pour Lina.",
+                "Dans une file d’attente, un adulte pourrait cesser de suivre ce que raconte son ami pour se demander s’il doit quitter la file."
+              ]
+            },
+            {
+              "heading": "L’intensité change avant que l’envie disparaisse",
+              "text": "Une personne peut recommencer à parler, à écouter ou à rester sur place alors que l’envie continue.",
+              "examples": [
+                "Martin parle à Mireille du cahier et des gouttes. Il sent encore l’envie, mais peut lui demander le plan.",
+                "En attendant un bus, quelqu’un pourrait retrouver le fil d’une conversation tout en ayant encore envie de fumer, puis sentir une autre montée plus tard."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traverser une montée de l’envie de fumer",
+          "points": [
+            {
+              "heading": "Nommer la montée",
+              "objective": "Se donner le temps de reconnaître l’envie avant de décider quoi faire.",
+              "exercise": [
+                "Dans un endroit où vous êtes disponible, dites-vous que l’envie vient de monter.",
+                "Choisissez un endroit sûr pour vous arrêter ou rester assis un instant.",
+                "Reprenez votre décision après ce petit temps et remarquez si l’intensité est la même."
+              ],
+              "benefit": "Cette pause peut créer un intervalle entre le début de l’envie et le geste. Sa durée utile peut varier."
+            },
+            {
+              "heading": "Donner une autre tâche à l’attention",
+              "objective": "Retrouver un élément concret du moment que vous souhaitez vivre.",
+              "exercise": [
+                "Repérez une petite action que vous pouvez faire sur place, comme protéger le cahier de la pluie.",
+                "Faites-la puis revenez à la raison de votre présence, par exemple à la question que vous vouliez poser.",
+                "Si l’envie revient, choisissez de poursuivre, de prendre l’air ailleurs ou de contacter un appui convenu."
+              ],
+              "benefit": "Une action simple peut redonner de la place à ce qui comptait avant que l’envie monte."
+            },
+            {
+              "heading": "Préparer un recours pour les envies qui se répètent",
+              "objective": "Pouvoir parler des montées difficiles sans attendre qu’elles deviennent toutes urgentes.",
+              "exercise": [
+                "Repérez un moment où l’envie vous a empêché de faire ce que vous vouliez.",
+                "Notez ce qu’elle vous a fait envisager et comment elle a évolué.",
+                "Si les envies sont fréquentes ou difficiles à traverser, discutez de cette situation avec le professionnel qui vous suit."
+              ],
+              "benefit": "Le récit d’une montée réelle peut aider à choisir un accompagnement qui tienne compte de vos journées."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux cercles sur le plan",
+      "ending": "Mireille finit par ouvrir. Martin la suit avec le cahier au sec. Sur le plan, elle lui montre deux tronçons possibles le long de la haie. Elle doit encore confirmer lequel laisse l’accès libre aux jardiniers. Elle lui propose de revenir dimanche avant la fermeture pour regarder depuis l’allée. Martin demande si de là, on verra un petit triangle sous le toit. Mireille répond que ça dépendra aussi de la taille du triangle. En sortant, il repense au moment où il se voyait déjà de l’autre côté de la rue. Il envoie à Lina une photo du plan, avec deux cercles et un point d’interrogation.",
+      "conclusion": "L’envie a failli décider du trajet de Martin. Elle a changé assez pour qu’il reste avec Mireille et obtienne le plan. Il a encore un rendez-vous au jardin, dimanche avant la fermeture. Cette fois, il sait où regarder depuis l’allée.",
+      "mirror": [
+        "Mireille peut accueillir la demande de Martin telle qu’elle vient. « Pose ton cahier ici. On regarde le plan quand tu veux. » S’il lui parle ensuite de l’envie qui l’a traversé, elle peut écouter ou proposer de reprendre la visite après un instant. Elle garde son rôle au jardin. Martin décide ce qu’il souhaite partager avec elle et ce qu’il garde pour la consultation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "tis-envies",
+        "ameli-sevrage-tabagique"
+      ],
+      "continuity": {
+        "choice": "Martin reste sous l’auvent, traverse la montée de l’envie et récupère le plan avec Mireille.",
+        "next": "Mireille attend Martin dimanche avant la fermeture pour confirmer l’emplacement en regardant depuis l’allée."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "martin-la-grille-fermee",
+      "title": "Quand la cigarette passe avant ce qu’on avait prévu",
+      "description": "Martin fait un détour pour racheter des cigarettes. Lorsqu’il arrive au jardin avec le plan de Lina, la grille est fermée.",
+      "context": "sur le chemin du jardin, avant la fermeture de la permanence",
+      "topics": [
+        "Priorité donnée au tabac",
+        "Organisation de la journée",
+        "Rendez-vous manqué"
+      ],
+      "clinical_focus": "Priorité donnée à la cigarette",
+      "clinical_intro": "Martin a rendez-vous au jardin pour valider la place des nichoirs. En voyant qu’il lui reste peu de cigarettes, il change de trajet et arrive après la fermeture. Dans la dépendance à la nicotine, prévoir où et quand on pourra fumer peut prendre de la place devant d’autres activités. Le plan toujours plié dans la poche l’aide à voir ce qui s’est retrouvé repoussé.",
+      "opening": "Le plan du jardin est plié de façon à ne montrer que les deux cercles. Lina en a ajouté un troisième près du banc de l’allée, pour rire. Elle dit que si les oiseaux n’aiment pas les toits, ils pourront se mettre sur le dossier. Ce dimanche, elle garde les planches à la maison avec Élodie. Martin doit juste passer voir Mireille avant la fermeture et vérifier que l’un des cercles convient. Il part assez tôt pour longer la haie et regarder depuis les deux bouts de l’allée.\n\nÀ l’angle de la rue, il touche le paquet dans sa poche. Il sait à peu près ce qu’il y reste et calcule déjà à quelle heure il pourra repasser devant le bureau de tabac. Il se dit que ce serait plus simple maintenant. Le détour n’est pas long. À l’arrivée, il y a une file qui dépasse sur le trottoir. Il regarde l’heure, puis la porte, puis le plan. Il se décale pour laisser sortir deux personnes et reste dans la file. Au retour, à l’angle de l’allée, il entend claquer le verrou.\n\nLa grille est déjà fermée quand il atteint le jardin. Au dos du plan, Lina a écrit « le plus près du banc ». Il n’a rien décidé avec Mireille. Il ouvre la conversation du groupe et commence à écrire qu’il a eu un empêchement. Il efface. Le rendez-vous ne vaut pas moins que le détour simplement parce qu’il peut encore être repris demain.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’organisation se met au service de la cigarette",
+          "text": "Une consommation peut prendre la priorité quand elle commence à organiser des trajets, des horaires ou des activités auxquelles on tient. C’est un retentissement possible de la dépendance à la nicotine. Martin voulait voir l’allée avec Mireille. Dans la rue, la question de savoir quand il retrouverait des cigarettes prend le dessus et il y consacre le temps de la visite. Le rendez-vous manqué lui indique ce que cette organisation lui coûte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la cigarette peut-elle passer devant d’autres activités ?",
+          "points": [
+            {
+              "heading": "Prévoir l’approvisionnement en premier",
+              "text": "La question de savoir quand on pourra se procurer des cigarettes peut changer le trajet avant que l’on ait commencé l’activité prévue.",
+              "examples": [
+                "Au coin de la rue, Martin change de direction pour passer au bureau de tabac au lieu de longer la haie.",
+                "Une personne pourrait choisir un autre chemin vers une activité en fonction d’un commerce ouvert, quitte à écourter le temps sur place."
+              ]
+            },
+            {
+              "heading": "Laisser la recherche occuper le temps disponible",
+              "text": "Un détour d’abord jugé bref peut s’allonger. La décision de l’interrompre devient parfois difficile.",
+              "examples": [
+                "Martin reste dans la file alors que l’heure de fermeture approche et qu’il a toujours le plan en main.",
+                "Un adulte pourrait attendre la réouverture d’un commerce et renoncer à passer chercher le matériel prévu pour son club."
+              ]
+            },
+            {
+              "heading": "Constater ce que les autres attendent encore",
+              "text": "Le coût du temps consacré au tabac se voit parfois en retrouvant une demande ou un engagement resté sans réponse.",
+              "examples": [
+                "Devant la grille fermée, Martin lit la préférence de Lina sans savoir encore si le point près du banc est possible.",
+                "Une personne pourrait retrouver un ami après un détour répété et se rendre compte qu’ils ont de moins en moins de temps pour marcher ensemble."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger le temps d’une activité qui compte",
+          "points": [
+            {
+              "heading": "Donner une heure à ce qui ne peut pas attendre",
+              "objective": "Rendre visibles les obligations et les rendez-vous qui risquent de passer après le tabac.",
+              "exercise": [
+                "Choisissez un engagement concret, comme la fermeture d’une permanence.",
+                "Notez quand il faut partir et combien de temps vous voulez garder sur place.",
+                "Si un détour se présente, regardez quelle partie de l’engagement il ferait perdre avant de décider."
+              ],
+              "benefit": "Cette limite peut aider à comparer deux choix au moment où l’un commence à prendre toute la place."
+            },
+            {
+              "heading": "Reprendre un engagement déjà manqué",
+              "objective": "Réparer le rendez-vous sans laisser l’activité dépendre d’un changement de consommation.",
+              "exercise": [
+                "Prévenez la personne concernée avec les faits que vous souhaitez partager.",
+                "Proposez un créneau ou un autre moyen de régler la question.",
+                "Gardez la prochaine étape simple, par exemple envoyer les deux photos utiles."
+              ],
+              "benefit": "La réparation peut rendre du temps au projet même si la difficulté avec le tabac est encore présente."
+            },
+            {
+              "heading": "Apporter au rendez-vous ce qui a été déplacé",
+              "objective": "Parler de la place que prend la consommation dans l’organisation de la journée.",
+              "exercise": [
+                "Notez l’activité que vous aviez prévu de faire et ce qui l’a retardée.",
+                "Repérez le moment où vous avez décidé de changer de trajet ou d’horaire.",
+                "Montrez un exemple au professionnel et demandez quel appui pourrait vous aider à protéger ce rendez-vous."
+              ],
+              "benefit": "Cette observation peut éclairer le retentissement de la dépendance au-delà du nombre de cigarettes."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le plan annoté dans le local",
+      "ending": "Martin écrit à Mireille qu’il a raté la fermeture et demande si une photo de l’allée peut suffire. Elle répond qu’elle a gardé le plan annoté dans le local. Le premier tronçon convient, à condition de laisser le passage libre. Elle lui demande une photo des nichoirs dès qu’ils seront montés et s’occupera ensuite de la validation avec l’association. À la maison, Martin annonce à Lina qu’ils peuvent préparer les deux boîtes, mais que la pose attendra l’accord. Il inscrit sur sa feuille de suivi « détour, permanence manquée ». Lundi, il veut pouvoir raconter la file autant que le paquet.",
+      "conclusion": "Martin a encore pu reprendre la question des emplacements avec Mireille. Le détour lui a coûté la visite qu’ils avaient prévue. Il garde ce détail pour la consultation et un autre engagement pour le jardin, envoyer la photo des deux nichoirs montés.",
+      "mirror": [
+        "Élodie peut écouter ce qui s’est passé sans se charger de vérifier les sorties suivantes. « Tu veux écrire à Mireille maintenant ? Je peux te laisser la table pour le faire. » Lina peut reprendre les triangles et demander où en est l’emplacement. Martin traite lui-même les horaires du jardin et apporte à sa médecin la part qui concerne le tabac."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-arret-tabac",
+        "ameli-sevrage-tabagique"
+      ],
+      "continuity": {
+        "choice": "Martin reprend contact avec Mireille après avoir manqué la permanence et note ce que le détour lui a coûté.",
+        "next": "L’emplacement près de la haie doit être confirmé sur photo. Martin voit lundi la docteure Bellon avec les notes qu’il a choisies."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "martin-le-repit-court",
+      "title": "Quand la cigarette semble calmer un inconfort qui revient",
+      "description": "Martin raconte l’attente avant de fumer et le bref répit qui suit. Avec sa médecin, il cherche un appui pour ce moment.",
+      "context": "au cabinet de la docteure Bellon, pour reparler de sa consommation de tabac",
+      "topics": [
+        "Soulagement bref",
+        "Retour de l’inconfort",
+        "Accompagnement au sevrage"
+      ],
+      "clinical_focus": "Soulagement provisoire du manque",
+      "clinical_intro": "Martin raconte à sa médecin une agitation qui baisse après une cigarette et remonte plus tard. Dans une dépendance à la nicotine, fumer peut soulager provisoirement un manque. Les circonstances, la fatigue et les préoccupations peuvent aussi jouer sur ce qu’on ressent. Martin reprend des exemples précis avec la docteure Bellon pour chercher une aide qui tienne compte du retour de l’inconfort.",
+      "opening": "La feuille pliée tient dans la poche du cahier bleu. Martin l’a relue dans la salle d’attente. Il y a deux lignes sur des cigarettes prises plus tôt que prévu et une troisième sur la grille fermée. Sur la première ligne, il a écrit « avant la fin du trait ». Ce matin, en voyant ces mots, il s’est rappelé ce qu’il avait senti au retour. Ses pieds étaient restés immobiles sous la table pendant un moment. Le nœud du bois, lui, n’avait pas bougé d’un millimètre.\n\nLa docteure Bellon lui demande ce qu’il aimerait comprendre depuis leur dernière conversation sur sa dépendance à la nicotine. Martin lui parle de ce moment sous la table. Il dit qu’avant de sortir il se sentait pressé de faire quelque chose sans savoir quoi. Après la cigarette, il avait pu reprendre le trait. Quand Lina est rentrée, il s’agitait à nouveau sur sa chaise. Il ne sait pas à quel moment cela a recommencé. Dimanche, il a trouvé du répit après le détour, mais la question du jardin l’a suivi jusqu’au dîner.\n\n« Le premier moment où ça retombe, c’est celui qui me donne l’impression que ça marche. » Il regarde la ligne sur la grille. Il ne voudrait pas perdre ses pauses ni passer toutes ses soirées à attendre de sortir. La docteure lui demande comment il dormait cette semaine et à quels moments il fumait d’ordinaire. Martin déplie la feuille jusqu’au bout. Pour une fois, il a gardé assez de place entre les lignes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le répit peut entretenir la répétition",
+          "text": "La nicotine peut soulager provisoirement les sensations de manque qui reviennent entre deux prises. Quand ce répit compte dans la décision de fumer, il peut contribuer à répéter la consommation. L’inconfort peut aussi venir d’une journée chargée, d’un souci ou d’un mauvais sommeil. Martin raconte ce qu’il a ressenti avant, juste après et plus tard. La docteure Bellon peut prendre en compte ces moments et ce qui se passait autour, sans attribuer d’avance toute son agitation au manque."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le soulagement provisoire peut-il peser sur l’envie suivante ?",
+          "points": [
+            {
+              "heading": "Guetter le moment où ça retombe",
+              "text": "Quand une sensation gênante diminue souvent après avoir fumé, l’idée de ce répit peut orienter la prochaine décision.",
+              "examples": [
+                "Martin se rappelle que ses pieds sont restés immobiles sous la table un moment après être rentré.",
+                "Quelqu’un pourrait attendre avec impatience sa prochaine sortie parce qu’il se souvient surtout de la baisse momentanée d’agitation lors de la dernière."
+              ]
+            },
+            {
+              "heading": "Retrouver l’inconfort alors que le problème reste là",
+              "text": "Un répit et une inquiétude peuvent coexister. Les sensations peuvent revenir même si elles se sont atténuées un moment.",
+              "examples": [
+                "Après le détour du dimanche, Martin ressent un répit et pense encore au jardin dont la grille a fermé.",
+                "Une personne pourrait se sentir momentanément moins tendue après une cigarette, puis se retrouver à nouveau agitée devant le courrier qu’elle s’apprête à ouvrir."
+              ]
+            },
+            {
+              "heading": "Se préparer à fumer avant le prochain inconfort",
+              "text": "Quand le retour de la gêne est redouté, la cigarette peut commencer à sembler nécessaire d’avance.",
+              "examples": [
+                "Martin se demande comment faire pour garder une soirée tranquille sans passer son temps à attendre de sortir.",
+                "Un adulte qui a plusieurs fois ressenti le manque en fin de matinée pourrait organiser sa journée autour d’une cigarette plus tôt, par crainte que la sensation revienne."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter d’un répit qui ne dure pas",
+          "points": [
+            {
+              "heading": "Décrire trois moments déjà vécus",
+              "objective": "Distinguer ce qui se passe avant la cigarette, après, puis plus tard.",
+              "exercise": [
+                "Reprenez un épisode passé sans chercher à le reproduire.",
+                "Notez la sensation avant, ce qui a semblé s’apaiser et ce qui est revenu.",
+                "Ajoutez le contexte de la journée, par exemple une nuit courte ou un rendez-vous manqué."
+              ],
+              "benefit": "Ce récit peut aider le professionnel à examiner plusieurs explications et les besoins d’aide."
+            },
+            {
+              "heading": "Poser la question du manque au professionnel",
+              "objective": "Faire le point sur les appuis disponibles pour les moments où l’inconfort revient.",
+              "exercise": [
+                "Apportez la description d’un moment qui vous gêne particulièrement.",
+                "Demandez ce qui pourrait aider pour le manque et comment signaler une gêne qui persiste.",
+                "Convenez du prochain contact où vous ferez le point sur ce que vous ressentez."
+              ],
+              "benefit": "Le suivi peut aider à choisir ou réévaluer une aide adaptée à votre situation."
+            },
+            {
+              "heading": "Identifier ce qui mérite encore une réponse",
+              "objective": "Garder une action possible pour la préoccupation qui subsiste après le répit.",
+              "exercise": [
+                "Choisissez une inquiétude nommée dans vos notes.",
+                "Repérez une petite chose à faire une fois disponible, comme écrire pour reprendre un rendez-vous.",
+                "Gardez la question de l’inconfort ou de la consommation pour votre suivi."
+              ],
+              "benefit": "Les deux démarches peuvent avancer séparément et rendre plus clair ce que vous attendez de chacune."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La date au bas de la feuille",
+      "ending": "La docteure Bellon reprend avec Martin les options d’accompagnement et ce qui s’est passé les autres fois où il a essayé de changer. Ils conviennent d’un plan pour arrêter le tabac fumé et d’une date qui lui convient, jeudi, au début de deux jours de repos. Martin lui demande comment la joindre si le sommeil ou la concentration deviennent difficiles. Elle lui indique le contact du cabinet et fixe un point de suivi. Il range sa feuille dans son enveloppe. Chez lui, les deux façades attendent sur le buffet. Il écrit à Lina qu’ils pourront assembler les boîtes dès qu’ils auront choisi la forme des toits.",
+      "conclusion": "Martin sait mieux décrire le répit qu’il cherche et ce qu’il ressent quand l’inconfort revient. Avec la docteure Bellon, il a choisi un plan et un moyen de reparler des premiers jours. Jeudi, il aura aussi un chantier de bois qui peut avancer à son propre rythme.",
+      "mirror": [
+        "Élodie peut demander à Martin quelle part du rendez-vous il a envie de partager. « Tu veux que je garde le petit déjeuner avec toi jeudi, ou tu préfères prendre ton temps seul ? » Elle peut garder une place pour un moment ordinaire. Les questions sur l’aide et les symptômes reviennent à Martin et à la docteure Bellon."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sevrage-tabagique",
+        "has-arret-tabac"
+      ],
+      "continuity": {
+        "choice": "Martin et la docteure Bellon conviennent d’un accompagnement, d’une date d’arrêt du tabac fumé et du moyen de joindre le cabinet.",
+        "next": "L’essai commence jeudi pendant deux jours de repos. Les façades sont prêtes pour le montage et Martin peut rappeler le cabinet si une difficulté le gêne."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "martin-la-vis-au-bord",
+      "title": "Quand le manque de nicotine gêne le sommeil et l’attention",
+      "description": "Après une nuit hachée, Martin relit trois fois la même cote. Il remet les outils de côté et contacte le cabinet comme prévu.",
+      "context": "à la maison, au deuxième jour de l’arrêt du tabac fumé",
+      "topics": [
+        "Sommeil perturbé",
+        "Irritabilité",
+        "Concentration et suivi"
+      ],
+      "clinical_focus": "Symptômes possibles du manque",
+      "clinical_intro": "Au deuxième jour sans tabac fumé, Martin a mal dormi et perd le fil d’une mesure simple. Une diminution de l’apport en nicotine peut s’accompagner d’irritabilité, de difficultés de concentration ou d’un sommeil perturbé. Ces signes peuvent aussi avoir d’autres causes. Martin remet le montage à plus tard et utilise le contact convenu avec sa médecin pour décrire ce qui le gêne.",
+      "opening": "Martin connaît le bruit de la canalisation à quatre heures du matin. Il a même pu distinguer cette nuit celle du lavabo de celle de l’évier. Au petit déjeuner, il essaie de raconter la différence à Élodie. Au milieu de la phrase, il se rend compte qu’elle cherche surtout un morceau de pain dans le sac. Il lui dit trop sèchement qu’il n’a pas fini de parler. Elle repose le sac. Martin baisse la voix. « Pardon, je reprends si tu veux. »\n\nC’est son deuxième jour sans tabac fumé. Il lui est arrivé d’avoir envie depuis hier, mais ce matin c’est autre chose qui lui prend du temps. Il relit trois fois une mesure au bas du dessin de Lina. À chaque fois il repart de la ligne d’au-dessus. Sur la table, la petite vis roule jusqu’au bord et il met la main dessous trop tard. Elle tombe sans bruit sur le tapis. Martin n’a encore sorti aucun outil. Il range les vis et décide que ce n’est pas le moment d’assembler les façades.\n\nÉlodie lui demande s’il veut s’allonger ou prendre l’air. Martin prend la feuille où il a noté le numéro du cabinet. La nuit hachée pourrait avoir plus d’une raison. La mesure qu’il relit et l’agacement au petit déjeuner lui donnent des exemples qu’il peut raconter. Il cherche l’horaire d’ouverture. Lina doit rentrer pour déjeuner et pourra encore décider du bleu qu’elle veut pour les triangles.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les premiers jours peuvent se faire sentir ailleurs que dans l’envie",
+          "text": "Une baisse de l’apport en nicotine peut s’accompagner de changements dans le sommeil, l’humeur ou la concentration. Dans la dépendance à la nicotine, ces manifestations du manque varient d’une personne à l’autre et peuvent évoluer. Elles ne permettent pas, seules, d’expliquer un mauvais sommeil ou une journée difficile. Martin est gêné au point de ranger ses vis. En appelant le cabinet, il peut décrire ce qui a changé et demander comment adapter la suite avec sa médecin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque peut-il se faire sentir dans une journée ?",
+          "points": [
+            {
+              "heading": "Dormir autrement",
+              "text": "Le sommeil peut devenir plus difficile à trouver ou être interrompu pendant une période de diminution ou d’arrêt.",
+              "examples": [
+                "Martin se réveille assez souvent pour entendre des bruits de la maison qu’il ne remarque pas d’habitude.",
+                "Un adulte pourrait mettre plus de temps à s’endormir après avoir réduit la nicotine et se demander comment en parler si cela continue."
+              ]
+            },
+            {
+              "heading": "Se sentir plus vite agacé",
+              "text": "L’irritabilité peut rendre une interaction ordinaire plus difficile, même si elle avait commencé sur un ton léger.",
+              "examples": [
+                "Martin parle sèchement à Élodie quand elle cherche le pain pendant son histoire.",
+                "Quelqu’un pourrait s’agacer d’une question de routine alors qu’il aurait pu y répondre calmement quelques jours plus tôt."
+              ]
+            },
+            {
+              "heading": "Perdre le fil d’une action familière",
+              "text": "Se concentrer peut demander plus d’effort, avec des effets différents selon la tâche et le moment.",
+              "examples": [
+                "Martin relit la cote sans la retenir et choisit de laisser les vis rangées.",
+                "En préparant une liste de courses, une personne pourrait revenir plusieurs fois sur la même ligne avant de se rendre compte qu’elle n’avance plus."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour s’appuyer sur le suivi si le manque gêne la journée",
+          "points": [
+            {
+              "heading": "Mettre de côté une tâche qui demande de la précision",
+              "objective": "Prendre en compte une difficulté d’attention avant un geste qui demande d’être vigilant.",
+              "exercise": [
+                "Faites une pause en laissant les outils ou le matériel dans un état sûr.",
+                "Choisissez une tâche simple et sans risque, ou remettez la séance à plus tard.",
+                "Si la gêne compromet la sécurité au travail, demandez le relais prévu par le service avant de reprendre la tâche."
+              ],
+              "benefit": "Reporter une tâche ou organiser un relais peut protéger la sécurité pendant qu’on cherche ce qui gêne."
+            },
+            {
+              "heading": "Décrire le changement au cabinet",
+              "objective": "Permettre au professionnel d’examiner le manque et d’autres causes possibles.",
+              "exercise": [
+                "Notez ce qui a changé et quand, par exemple des réveils et une difficulté à relire une mesure.",
+                "Indiquez depuis quand vous avez modifié votre consommation et ce qui a été convenu pour le suivi.",
+                "Contactez le professionnel si les symptômes gênent, persistent ou vous surprennent."
+              ],
+              "benefit": "Des exemples situés peuvent aider le professionnel à décider avec vous de la suite."
+            },
+            {
+              "heading": "Rouvrir une conversation après un accroc",
+              "objective": "Rester responsable de sa façon de parler quand l’agacement déborde sur un proche.",
+              "exercise": [
+                "Prenez un instant pour retrouver ce qui s’est dit.",
+                "Revenez sur vos mots avec une phrase courte, par exemple « J’ai parlé sèchement. Je reprends si tu veux. »",
+                "Demandez si c’est un bon moment pour continuer ou s’il vaut mieux faire une pause."
+              ],
+              "benefit": "Un retour simple peut rouvrir l’échange et laisser à l’autre le choix de la suite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les vis restent dans leur boîte",
+      "ending": "Le cabinet rappelle Martin en début d’après-midi. Il parle de la nuit, du petit déjeuner et de la cote. Avec la docteure Bellon, il reprend ce qu’il peut faire si la gêne se prolonge. Ils gardent le rendez-vous prévu. Elle lui rappelle qu’il peut reprendre contact avant si nécessaire. Quand Lina rentre, Martin lui dit que le montage attendra. Ils posent les façades à plat, comparent les deux bleus et en retiennent un pour les triangles. Le lendemain, avant de reprendre le travail, Martin veut retrouver une façon de faire sa pause avec Karim sans se retrouver d’emblée dans leur ancien coin de conversation.",
+      "conclusion": "Martin a vu que son inconfort débordait du moment où il pensait à fumer. Il a laissé les outils de côté et décrit ses difficultés au cabinet. Le choix de la couleur est resté à leur portée. La prochaine situation à préparer est le retour de la pause avec Karim.",
+      "mirror": [
+        "Élodie peut dire ce qu’elle a entendu et proposer un temps de pause. « Le ton est monté. Tu veux reprendre après le café ? » Elle peut laisser Martin joindre le cabinet ou lui offrir un moment calme s’il le demande. Lina peut choisir le bleu et attendre pour le montage. Les adultes gardent la responsabilité de la santé et de la sécurité à l’atelier."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sevrage-tabagique",
+        "has-arret-tabac"
+      ],
+      "continuity": {
+        "choice": "Martin reporte le montage, contacte la docteure Bellon et choisit la couleur avec Lina.",
+        "next": "Le montage attend que Martin soit disponible. Il a un suivi prévu et prépare son retour au dépôt après les deux jours de repos."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "martin-deux-places-a-table",
+      "title": "Quand la pause cigarette donne l’impression de faire partie du groupe",
+      "description": "À sa reprise au dépôt, Martin a envie de suivre ses collègues dehors. Ce qui lui manque dans leur ancien coin, c’est aussi la suite des histoires.",
+      "context": "dans la salle de repos du dépôt, pendant une pause le jour de la reprise",
+      "topics": [
+        "Envie en groupe",
+        "Rituel entre collègues",
+        "Pause partagée sans tabac"
+      ],
+      "clinical_focus": "Envie liée à la convivialité",
+      "clinical_intro": "Martin revient au dépôt. Quand deux collègues annoncent qu’ils vont fumer, il veut les suivre et retrouver leur façon de parler pendant la pause. Avec une dépendance à la nicotine, les moments de convivialité associés à la cigarette peuvent raviver l’envie. Martin cherche une façon de garder la conversation avec Karim dans un lieu où personne ne fume.",
+      "opening": "Les deux tasses dont l’anse ne chauffe pas sont déjà prises. Martin en choisit une plus petite. Il a mieux dormi cette nuit. En fin de matinée, après les transmissions et la vérification du matériel, l’équipe a sa pause. Deux collègues discutent d’une histoire qu’ils avaient laissée en suspens le jour où Martin est parti en repos. Quelqu’un aurait transporté un buffet à vélo. Martin n’a pas encore compris si le buffet était entier.\n\nUne collègue prend sa veste et annonce qu’elle va fumer. Le deuxième lui tient la porte. Ils vont dans l’espace autorisé, à l’écart des véhicules et du matériel. Martin se penche pour entendre la fin de la phrase. Depuis son retour, il a bu un café seul sans penser à fumer. Maintenant il en a envie. Il pense aussi que s’il reste à table, le buffet arrivera à destination sans lui. Avant, quand on lui proposait de descendre, il savait qu’on lui gardait une place dans l’histoire.\n\nKarim cherche où s’asseoir avec son café et une tartine pliée en deux. Martin est sur le point de dire qu’il descend aussi. Il a même la tasse en main. Il se demande à quel moment il pourrait dire qu’il essaie de ne plus fumer. Il connaît plusieurs façons de dire qu’il ne vient pas. Celle qu’il cherche doit laisser entendre qu’il veut quand même connaître la fin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le groupe ajoute à l’envie",
+          "text": "Des moments partagés qui allaient souvent avec la cigarette peuvent devenir des déclencheurs d’envie. La dépendance à la nicotine peut alors se faire sentir même dans une pause agréable. Chez Martin, l’invitation à suivre les collègues rappelle à la fois la cigarette et les conversations qu’il aime. Il n’a pas besoin de démêler ces deux raisons sur le moment pour proposer à Karim une autre façon de prendre le café."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la convivialité peut-elle raviver l’envie de fumer ?",
+          "points": [
+            {
+              "heading": "Une invitation rappelle une habitude commune",
+              "text": "Une phrase adressée au groupe peut évoquer ce qu’on faisait ensemble avant même que quelqu’un sorte un paquet.",
+              "examples": [
+                "Quand sa collègue prend sa veste pour fumer, Martin se voit déjà reprendre avec elle la conversation sur le buffet.",
+                "Un ami qui dit « On va prendre l’air ? » en fin de repas pourrait donner envie de fumer à une personne qui sortait toujours avec lui pour une cigarette."
+              ]
+            },
+            {
+              "heading": "La crainte de perdre la conversation s’y mêle",
+              "text": "Quand les échanges se poursuivent ailleurs, rester peut donner l’impression de manquer une partie du moment.",
+              "examples": [
+                "Martin pense surtout à la fin de l’histoire qu’il ne connaîtra pas s’il reste assis.",
+                "Lors d’une fête, quelqu’un pourrait hésiter à rester dans la salle quand les amis qu’il attendait depuis longtemps se retrouvent dehors pour fumer."
+              ]
+            },
+            {
+              "heading": "La facilité varie selon les personnes présentes",
+              "text": "Une pause qui paraît simple seul peut redevenir difficile lorsqu’on retrouve le groupe avec lequel on fumait.",
+              "examples": [
+                "Martin a bu un premier café sans penser à fumer. Quand ses collègues s’apprêtent à sortir, l’envie revient.",
+                "Un adulte pourrait passer une fin de repas calme chez lui et retrouver l’envie au même moment pendant le dîner mensuel de son club."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder le lien pendant une pause associée au tabac",
+          "points": [
+            {
+              "heading": "Préparer une réponse à l’invitation",
+              "objective": "Pouvoir exprimer son choix tout en laissant la conversation ouverte.",
+              "exercise": [
+                "Repensez à la phrase qui précède d’habitude le départ du groupe.",
+                "Choisissez une réponse à votre façon, par exemple « Je reste ici. Raconte-moi la fin quand tu reviens. »",
+                "Si on vous propose une cigarette, utilisez la réponse courte qui vous convient."
+              ],
+              "benefit": "Une réponse prête peut laisser de la place au lien et vous éviter de décider en quelques secondes quoi raconter de votre démarche."
+            },
+            {
+              "heading": "Retrouver quelqu’un dans un lieu sans tabac",
+              "objective": "Préserver la compagnie ou la conversation qui faisait partie du plaisir.",
+              "exercise": [
+                "Choisissez une personne avec qui vous aimeriez passer un moment.",
+                "Proposez un endroit sans fumée et un moment permis par l’organisation du lieu.",
+                "Si ce n’est pas possible, voyez si vous pouvez reprendre l’échange une autre fois."
+              ],
+              "benefit": "Un rendez-vous choisi ensemble peut conserver une part agréable de la pause avec d’autres repères."
+            },
+            {
+              "heading": "Demander un appui pour une scène de groupe qui se répète",
+              "objective": "Trouver une solution quand le choix entre partir et suivre le groupe reste difficile.",
+              "exercise": [
+                "Identifiez une rencontre où l’envie revient souvent.",
+                "Distinguez ce que vous voulez garder du moment et ce qui vous donne envie de fumer.",
+                "Si la difficulté persiste, préparez avec le professionnel qui vous suit une autre façon de vivre cette rencontre."
+              ],
+              "benefit": "Décrire le rôle du groupe peut aider à choisir un appui qui tienne compte de vos relations."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La tartine de Karim",
+      "ending": "Martin demande à Karim s’il finit son café avec lui. « J’essaie d’arrêter de fumer. Ça me ferait plaisir qu’on garde le café ensemble quand on peut. » Karim lui montre sa tartine. Il comptait rester ici pour la manger. Il peut aussi lui raconter la fin, à condition que Martin accepte qu’on ne sache toujours pas comment le buffet a passé le pont. Ils prennent deux places à table. L’envie accompagne les premières gorgées, puis Martin entend enfin ce qui est arrivé au tiroir du bas. Quand la pause se termine, ils débarrassent leurs tasses avant de reprendre le service. À la fin de sa journée, Martin se dit qu’il proposera le montage à Lina sur leur prochain après-midi libre. En faisant tourner les pièces dans sa tête, il voit enfin dans quel ordre ils pourront fixer les deux toits.",
+      "conclusion": "Martin a repéré ce qui change quand les collègues se lèvent ensemble. Il voulait retrouver les gens autant que leur coin de pause. Le café avec Karim lui donne une possibilité au dépôt. À la maison, d’autres envies se présentent et il hésite encore à dire combien elles lui prennent de place.",
+      "mirror": [
+        "Karim peut prendre la proposition de Martin au pied de la lettre. « Aujourd’hui, je finis mon café ici. Si demain je dois filer, on reprend l’histoire à la prochaine pause. » Il peut garder pour lui ce que Martin lui a confié, s’abstenir de proposer une cigarette et parler de ses propres disponibilités. Il reste un collègue avec qui Martin a plaisir à discuter."
+      ],
+      "sources": [
+        "oms-cddr",
+        "tis-soutien",
+        "tis-lien-social",
+        "ameli-sevrage-tabagique",
+        "ansm-oxygene"
+      ],
+      "continuity": {
+        "choice": "Martin propose une pause à table à Karim et choisit de lui dire ce qui motive cette demande.",
+        "next": "Martin et Lina assemblent les deux nichoirs un après-midi de repos. Il doit encore trouver une façon de parler à Élodie des envies du soir."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "martin-la-tasse-encore-chaude",
+      "title": "Quand la peur de décevoir retarde une demande d’aide pour arrêter de fumer",
+      "description": "Après le montage des nichoirs, Martin dit que tout va bien alors que les envies du soir le gênent. Il hésite à demander à Élodie de rester un peu à table.",
+      "context": "à la maison, après le montage des deux nichoirs et le rangement de l’atelier",
+      "topics": [
+        "Peur du jugement",
+        "Envies gardées pour soi",
+        "Soutien choisi"
+      ],
+      "clinical_focus": "Crainte de décevoir pendant l’arrêt",
+      "clinical_intro": "Les envies sont encore fortes à certains moments. Martin dit à Élodie que sa soirée se passe bien, par peur qu’elle soit déçue si elle le sait en difficulté. Quand on essaie de changer sa consommation, la crainte d’être jugé peut rendre difficile de dire qu’on a besoin d’aide. Martin cherche ce qu’il veut confier et ce qu’il souhaite demander.",
+      "opening": "Les deux boîtes tiennent debout pour la première fois. Martin a terminé l’assemblage cet après-midi pendant que Lina préparait les petits triangles bleus. Elle compare maintenant les toits à la hauteur de ses yeux. Elle trouve le plus penché plus joli et prétend que c’est celui qu’ils avaient prévu. Martin lui tend le cahier bleu pour qu’elle tranche avec le dessin. Ils vont prendre la photo de jour, quand le bleu ressortira mieux. Mireille pourra alors montrer le résultat aux autres jardiniers. Lina emporte le cahier pour y noter le bleu qu’ils ont choisi.\n\nÉlodie débarrasse les tasses. Martin s’est entendu lui dire ce matin qu’il commençait à trouver ses marques. Il pensait à son café avec Karim. Ce soir, il pense surtout à sortir fumer dès qu’il se retrouve seul dans la cuisine. Il a passé une partie de la veille à attendre que cette envie recule, en revenant plusieurs fois près de la porte. Élodie lui demande s’il voudrait garder sa tasse encore un peu. « Ça va, c’est bon », répond-il. Elle la prend et lui laisse la place sur la table.\n\nMartin ouvre leur conversation sur son téléphone alors qu’elle est encore à l’évier. Il écrit « en fait c’est plus difficile le soir ». Il regarde les mots et les efface. Il n’a pas refumé. Il imagine pourtant ce qu’elle pourrait entendre, comme si son café avec Karim ne comptait plus ou comme s’il avait annoncé trop tôt que les choses bougeaient. Ce qu’il aurait aimé demander tient en moins de mots que le message.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une difficulté peut rester cachée avant même qu’il y ait un écart",
+          "text": "La peur de décevoir peut freiner une demande d’aide quand une personne essaie d’arrêter de fumer. C’est une difficulté qui peut entourer la démarche, et chacun garde la liberté d’en parler ou de garder des détails privés. Martin avait raconté une pause qui lui convenait. Il redoute maintenant que dire ce qui se passe le soir change le sens de ce qu’Élodie a entendu le matin. Il peut lui demander un appui limité et réserver d’autres détails à sa médecin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur de décevoir peut-elle compliquer une demande d’aide ?",
+          "points": [
+            {
+              "heading": "Dire que ça va par crainte d’inquiéter",
+              "text": "Quand une personne redoute une réaction, elle peut répondre comme si la difficulté était déjà passée.",
+              "examples": [
+                "Martin dit « Ça va, c’est bon » alors qu’il aimerait qu’Élodie reste encore un peu près de la table.",
+                "Quelqu’un pourrait dire à un ami que sa soirée se passe bien alors que les envies reviennent depuis le repas et qu’il voudrait de la compagnie."
+              ]
+            },
+            {
+              "heading": "Renoncer à des mots qu’on avait trouvés",
+              "text": "Imaginer la réaction de l’autre peut suffire pour retenir une demande qui était prête.",
+              "examples": [
+                "Martin tape que les soirées sont difficiles, puis efface sa phrase sans savoir ce qu’Élodie aurait répondu.",
+                "Une personne pourrait écrire à un frère qu’elle redoute le week-end, puis ranger le téléphone parce qu’elle lui a parlé la veille de ce qui allait mieux."
+              ]
+            },
+            {
+              "heading": "Attendre d’aller mieux pour en parler",
+              "text": "On peut être tenté de réserver les nouvelles aux moments faciles et se retrouver seul aux moments où un soutien serait utile.",
+              "examples": [
+                "Une personne pourrait avoir envie d’appeler une amie à la sortie d’un repas, puis se promettre d’attendre le lendemain pour raconter la soirée une fois l’envie passée.",
+                "Un adulte pourrait reporter une question à son tabacologue parce qu’il aimerait arriver au prochain entretien avec seulement de bonnes nouvelles."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un appui sans devoir tout raconter",
+          "points": [
+            {
+              "heading": "Choisir ce que vous voulez confier",
+              "objective": "Exprimer une difficulté présente à la personne qui vous paraît capable de l’entendre.",
+              "exercise": [
+                "Choisissez un adulte avec qui vous vous sentez à l’aise.",
+                "Dites en une phrase ce qui vous gêne aujourd’hui, par exemple « Le soir, j’ai beaucoup envie de fumer. »",
+                "Gardez pour vous ou pour le professionnel les détails que vous ne voulez pas partager avec ce proche."
+              ],
+              "benefit": "Une phrase limitée peut faire connaître un besoin tout en respectant ce que vous souhaitez garder privé."
+            },
+            {
+              "heading": "Demander une chose que l’autre peut accepter ou refuser",
+              "objective": "Passer du récit d’une difficulté à une aide que vous choisissez tous les deux.",
+              "exercise": [
+                "Pensez à un moment précis où la présence d’un adulte pourrait vous être utile.",
+                "Proposez une action courte, comme finir une tasse ensemble après le rangement.",
+                "Demandez si ce moment lui convient et gardez une autre possibilité s’il n’est pas disponible."
+              ],
+              "benefit": "Une demande précise peut éviter à chacun d’avoir à deviner ce que l’autre attend."
+            },
+            {
+              "heading": "Garder un espace pour dire ce qui est difficile",
+              "objective": "Pouvoir poser des questions sur les envies même si vous souhaitez rester discret auprès de votre entourage.",
+              "exercise": [
+                "Retrouvez les coordonnées du professionnel qui vous accompagne ou d’une consultation de tabacologie.",
+                "Repérez un moment où vous avez hésité à parler d’une envie qui vous gênait.",
+                "Au prochain contact, dites ce qui se passe et demandez comment obtenir de l’aide plus tôt si le même moment se présente."
+              ],
+              "benefit": "L’entretien peut donner un lieu pour parler de la difficulté avant qu’elle soit passée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une tasse à remettre sur la table",
+      "ending": "Martin se lève pour reprendre sa tasse. Il demande à Élodie si elle peut rester assise avec lui jusqu’à ce qu’ils aient fini de boire. Il lui dit qu’il y a des pauses qui lui conviennent au dépôt et que les soirées lui prennent encore beaucoup de place. Elle peut rester ce soir. Demain elle dîne chez sa sœur, alors ils ne font pas du café une promesse pour tous les jours. Martin se rappelle qu’il a le contact du cabinet pour parler des envies qui persistent. Il lui dit que ce soir il préférerait voir avec elle comment cadrer la photo pour Mireille. En alignant les tasses, Élodie lui demande lequel des nichoirs penche. Il lui répond qu’ils penchent tous les deux, mais dans des sens qui s’arrangent.",
+      "conclusion": "Martin a pu dire à Élodie que le soir restait difficile et lui demander un peu de compagnie. Il peut apprécier son café avec Karim et demander de la compagnie à la maison le même jour. Demain, il enverra la photo à Mireille. Élodie dîne ailleurs et Martin retrouvera seul la cuisine après le repas.",
+      "mirror": [
+        "Élodie peut entendre la demande présente. « Ce soir, je peux finir ma tasse avec toi. Demain, je ne suis pas là. Tu veux qu’on parle d’un autre appui, ou tu y réfléchis ? » Elle peut répondre avec ses disponibilités et respecter les détails que Martin garde pour sa médecin. Lina reprend le cahier pour ses dessins. Sa place dans le projet est de donner son avis sur les nichoirs."
+      ],
+      "sources": [
+        "oms-cddr",
+        "tis-soutien",
+        "has-arret-tabac",
+        "oms-sevrage-tabac"
+      ],
+      "continuity": {
+        "choice": "Martin dit à Élodie que les envies du soir restent difficiles et lui demande de finir sa tasse avec lui ce soir.",
+        "next": "Il doit envoyer la photo des nichoirs à Mireille. Élodie dîne ailleurs le lendemain et Martin retrouve un moment seul à la fin de l’atelier."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "martin-une-ligne-pour-ce-soir",
+      "title": "Quand une cigarette fait croire que l’effort est perdu",
+      "description": "Après avoir refumé une cigarette, Martin pense qu’il a déjà gâché sa soirée. Il cherche ce qu’il peut encore décider avant de se coucher.",
+      "context": "à la maison, le soir du premier écart depuis l’arrêt du tabac fumé",
+      "topics": [
+        "Premier écart",
+        "Pensée du tout ou rien",
+        "Prochaine décision"
+      ],
+      "clinical_focus": "Pensée du tout ou rien après un écart",
+      "clinical_intro": "Martin a refumé une cigarette et pense que les jours où il a fait autrement ne comptent plus. Cette façon de voir l’écart peut pousser à laisser de côté le suivi ou les appuis qui ont déjà aidé. Une cigarette ne décide pas à elle seule de la suite. Martin reprend ce qui s’est passé et choisit comment il veut finir sa soirée.",
+      "opening": "La photo est prête depuis le début de l’après-midi. Lina a placé les deux nichoirs sur une marche et demandé à Martin de reculer jusqu’au rosier pour qu’on voie les petits triangles. Il a promis d’envoyer la photo à Mireille après le rangement. Élodie dîne chez sa sœur, comme prévu. Lina est sortie après l’atelier. Martin a remis les deux boîtes à l’abri sur l’étagère et laissé ouverte sur son téléphone la conversation avec Mireille.\n\nIl se retrouve à table après le repas avec le message presque prêt. Il a débarrassé la dernière assiette, pensé à finir l’envoi au retour et fumé une cigarette au fond de la cour, seul. C’est la première depuis le jeudi où il a commencé son arrêt du tabac fumé. En rentrant, il pose les clés sur le plan du jardin. Il voit les deux cercles sous l’anneau. Il se souvient du café qu’il a pris avec Karim et se dit que ça n’a servi à rien.\n\nLe message attend toujours. Martin pense qu’il pourrait ressortir. « Ce soir, c’est déjà fichu. » Il voit aussi l’heure du prochain rendez-vous avec la docteure Bellon sur sa feuille. Il avait prévu d’y raconter les pauses qui lui convenaient. Pendant un instant, il trouve que ce rendez-vous serait plus utile une autre semaine, quand il aurait quelque chose de mieux à dire. Il pose les deux mains à plat sur la table. Il a encore la photo à envoyer et la suite de la soirée devant lui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le jugement porté sur l’écart peut peser sur la suite",
+          "text": "Après avoir refumé, une personne peut penser que l’arrêt est entièrement raté et renoncer à des appuis qui lui servaient. Cette pensée du tout ou rien peut rendre plus difficile la prochaine décision dans une démarche d’arrêt du tabac. Chez Martin, « j’ai fumé une cigarette » devient « la soirée est fichue ». Prendre l’écart au sérieux permet de regarder ce qui l’a précédé et de décider de la suite à partir de cette situation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une pensée du tout ou rien peut-elle suivre un écart ?",
+          "points": [
+            {
+              "heading": "Traiter ce qu’on a essayé comme si cela n’avait pas eu lieu",
+              "text": "L’écart peut prendre toute la place dans le souvenir des jours qui le précèdent.",
+              "examples": [
+                "Martin pense que le café avec Karim n’a servi à rien alors qu’il se souvient d’avoir apprécié leur pause à table.",
+                "Quelqu’un pourrait oublier qu’il a trouvé une façon de prendre l’air après le déjeuner parce qu’il a refumé à un autre moment le week-end."
+              ]
+            },
+            {
+              "heading": "Faire de la première cigarette une décision pour le reste du soir",
+              "text": "L’idée que tout est déjà joué peut peser sur ce que l’on s’apprête à faire ensuite.",
+              "examples": [
+                "Martin pense à ressortir en se disant que la soirée est déjà fichue.",
+                "Une personne pourrait prévoir de rejoindre un ami à l’intérieur après avoir fumé, puis rester dehors parce qu’elle croit que son choix pour le reste de la fête ne change plus rien."
+              ]
+            },
+            {
+              "heading": "Écarter le suivi au moment où il peut servir",
+              "text": "Après un écart, une personne peut croire qu’elle doit d’abord aller mieux pour reprendre l’accompagnement.",
+              "examples": [
+                "Martin regarde la date du rendez-vous et envisage de le remettre à une semaine où il aurait une meilleure nouvelle.",
+                "Un adulte pourrait fermer le rappel de son appel avec un tabacologue parce qu’il pense ne plus avoir le droit de parler de ce qui l’avait aidé jusque-là."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre une décision après avoir refumé",
+          "points": [
+            {
+              "heading": "Écrire ce qui s’est passé en une ligne",
+              "objective": "Distinguer l’événement de ce que vous en concluez sur toute la tentative.",
+              "exercise": [
+                "Situez le moment en quelques mots.",
+                "Décrivez le fait, par exemple « J’ai fumé après avoir débarrassé la table. »",
+                "Si vous voulez comprendre l’écart, ajoutez ce que vous faisiez ou ressentiez juste avant."
+              ],
+              "benefit": "Un fait précis peut servir de point de départ à une discussion et laisse la suite ouverte."
+            },
+            {
+              "heading": "Choisir ce que vous faites juste après",
+              "objective": "Reprendre la main sur une décision qui reste à prendre.",
+              "exercise": [
+                "Repérez le prochain geste que vous aviez prévu avant de fumer.",
+                "Voyez si vous pouvez le faire maintenant dans un endroit sans tabac, comme terminer un message à table.",
+                "Si l’envie reste difficile, reprenez l’appui convenu avec le professionnel qui vous suit."
+              ],
+              "benefit": "Un choix pour le moment présent peut interrompre l’enchaînement que vous imaginiez pour la soirée."
+            },
+            {
+              "heading": "Garder ce que le suivi peut encore apporter",
+              "objective": "Apporter une difficulté récente et une ressource déjà utile au prochain contact.",
+              "exercise": [
+                "Retrouvez votre rendez-vous ou le moyen de joindre un professionnel.",
+                "Préparez ce que vous voulez dire sur cet écart et un exemple d’appui qui vous a déjà convenu.",
+                "Gardez le contact prévu ou demandez un entretien si vous n’en avez pas."
+              ],
+              "benefit": "Le suivi peut aider à faire le point et à ajuster votre démarche à partir de ce qui s’est passé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La photo part ce soir",
+      "ending": "Martin reprend le message à Mireille et envoie la photo. Il laisse le téléphone à table le temps de remplir un verre d’eau. Sur sa feuille de suivi, il écrit « après le rangement, seul, une cigarette dans la cour ». La ligne s’arrête là. Il garde le rendez-vous avec la docteure Bellon et ajoute qu’il voudrait lui parler de la prochaine fin de repas. Quand Élodie rentre, il lui demande s’ils peuvent en parler un instant. Ce qui lui vient d’abord, c’est qu’il a hésité à laisser tomber le rendez-vous. Il n’a pas besoin de promettre comment se passera le lendemain.",
+      "conclusion": "Martin a fumé une cigarette et il a encore pu choisir quoi faire après. Au prochain rendez-vous, il pourra revenir sur ce qui a précédé cette cigarette. La fin de repas reste une situation difficile et l’envie peut s’y présenter de nouveau.",
+      "mirror": [
+        "Élodie peut écouter ce que Martin veut lui dire ce soir-là. « Tu veux me raconter ce qui t’a fait hésiter à garder le rendez-vous ? Je peux t’écouter un moment. » Elle peut lui demander quel appui il souhaite sans lui demander de rendre compte de la soirée. Il choisit lui-même ce qu’il apporte à sa médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "tis-ecart",
+        "has-prevention-rechute",
+        "ameli-sevrage-tabagique"
+      ],
+      "continuity": {
+        "choice": "Martin envoie la photo, décrit l’écart avec des faits et garde le rendez-vous de suivi.",
+        "next": "Mireille présente les nichoirs à l’association. Martin va voir si les fins de repas restent difficiles dans les jours qui suivent."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "martin-deux-soirs-au-meme-endroit",
+      "title": "Quand plusieurs écarts révèlent un moment à préparer autrement",
+      "description": "Martin refume après deux fins de repas semblables. En rapprochant ces soirées, il repère ce qui se répète et rappelle sa médecin.",
+      "context": "à la maison, dans les jours suivant le premier écart, avant le rendez-vous de suivi",
+      "topics": [
+        "Écarts rapprochés",
+        "Situation récurrente",
+        "Suivi réajusté"
+      ],
+      "clinical_focus": "Répétition des écarts dans un contexte",
+      "clinical_intro": "Martin a de nouveau fumé après avoir rangé la cuisine. Ses cafés au dépôt se passent autrement, mais les fins de repas à la maison restent difficiles. Des écarts qui reviennent dans un contexte semblable peuvent aider à repérer où le plan d’arrêt doit être revu. Martin rapproche deux soirées et contacte sa médecin avant le rendez-vous prévu.",
+      "opening": "Mireille a envoyé un plan avec deux nouvelles marques. L’association a donné son accord pour fixer les deux nichoirs sur le premier tronçon de la haie. Le plus proche du banc de l’allée laisse le passage dégagé. Quelqu’un du jardin doit encore rassembler le matériel de fixation. Sur la photo de Lina, on voit à peine que les toits n’ont pas la même pente. Martin zoome au lieu de répondre tout de suite. Il pose le téléphone près du trousseau qu’il vient de laisser au bord de la table.\n\nIl vient de rentrer dans la cuisine après avoir fumé. Avant-hier aussi, il avait fini le repas, éteint la lumière de la cuisine et rejoint la cour. Après son premier écart, il avait repris sa soirée et gardé le rendez-vous. Il voit que la même suite de gestes s’est répétée. Ce soir, il avait déjà les clés dans la main avant d’avoir fini d’essuyer la table. Au dépôt, il s’est pourtant trouvé une autre façon de faire sa pause avec Karim, même les jours où les autres sortent.\n\nSur la feuille de suivi, Martin sépare les soirées pour voir ce qui les rapproche. L’une se passe un jour où il est de repos, l’autre après le travail. Élodie était à la maison ce soir. Ce qui revient, c’est surtout la fin du rangement, quand chacun passe à autre chose. Le prochain rendez-vous est encore dans plusieurs jours. Martin sait où trouver le numéro du cabinet. Il l’avait utilisé quand il n’arrivait plus à lire une mesure. Ce soir, c’est le même départ pour la cour qu’il veut décrire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que des écarts rapprochés permettent de repérer",
+          "text": "Plusieurs reprises de la cigarette peuvent faire apparaître une situation qui reste difficile malgré des changements ailleurs. Pendant une démarche d’arrêt, rapprocher les écarts aide à préparer un accompagnement adapté à ce moment. Martin remarque qu’il fume de nouveau après avoir rangé la cuisine, même si ses pauses au dépôt ont changé. Il peut décrire au cabinet ce qui revient et demander comment adapter le plan. La répétition mérite une réponse sans fixer à l’avance ce que sera la suite de sa consommation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment plusieurs écarts peuvent-ils révéler une situation difficile ?",
+          "points": [
+            {
+              "heading": "Retrouver la même transition",
+              "text": "Des journées différentes peuvent conduire à la même succession de gestes à un moment précis.",
+              "examples": [
+                "Martin sort dans la cour après le rangement, un soir de repos puis un soir où il a travaillé.",
+                "Une personne pourrait remarquer qu’elle refume au retour du dernier bus, que sa journée ait été calme ou chargée."
+              ]
+            },
+            {
+              "heading": "Commencer à prévoir la sortie avant ce moment",
+              "text": "Lorsqu’une situation se répète, certains préparatifs peuvent s’y installer de nouveau.",
+              "examples": [
+                "Martin prend les clés avant de finir la table, comme s’il avait déjà choisi la suite.",
+                "Après avoir refumé plusieurs fois à la fin d’une réunion, quelqu’un pourrait déjà choisir un chemin vers l’extérieur pendant qu’on range les chaises."
+              ]
+            },
+            {
+              "heading": "Voir la difficulté se concentrer dans un contexte",
+              "text": "Les changements utiles dans un cadre ne répondent pas toujours à une difficulté qui se présente ailleurs.",
+              "examples": [
+                "La pause avec Karim fonctionne au dépôt. À la maison, Martin retrouve plusieurs fois la même envie après le repas.",
+                "Un adulte pourrait avoir changé son trajet le matin et continuer à refumer en attendant son covoiturage le soir."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour revoir le plan quand les écarts se répètent",
+          "points": [
+            {
+              "heading": "Comparer les circonstances de deux écarts",
+              "objective": "Repérer ce qui se ressemble et ce qui change d’un moment à l’autre.",
+              "exercise": [
+                "Choisissez deux situations où vous avez refumé.",
+                "Pour chacune, retrouvez le lieu, ce qui s’achevait et le premier geste que vous avez remarqué.",
+                "Repérez ce qui revient, en gardant aussi une différence que vous voulez signaler."
+              ],
+              "benefit": "Comparer deux moments peut faire apparaître un point précis où chercher un autre appui."
+            },
+            {
+              "heading": "Demander un point plus tôt",
+              "objective": "Revoir la démarche avec un professionnel lorsque les écarts se rapprochent ou que la reprise s’installe.",
+              "exercise": [
+                "Contactez le professionnel qui vous suit, votre médecin traitant ou un tabacologue.",
+                "Dites ce qui se répète et depuis quand, avec un exemple de ce qui fonctionne à un autre moment.",
+                "Demandez quand vous pourrez revoir ensemble les aides prévues et convenez du prochain contact."
+              ],
+              "benefit": "Le professionnel peut réévaluer les difficultés et vous aider à choisir une réponse adaptée. En France, Tabac info service propose aussi un accompagnement au 39 89."
+            },
+            {
+              "heading": "Prévoir une autre suite au moment repéré",
+              "objective": "Préparer une action à la place du premier geste qui ramène à la cigarette.",
+              "exercise": [
+                "Avec le professionnel, reprenez le début de la scène qui revient souvent.",
+                "Choisissez un geste de remplacement possible ce jour-là, par exemple terminer le repas par un tour dehors dans un autre endroit.",
+                "Convenez de ce que vous pourrez faire et de qui joindre si l’aide prévue ne suffit pas."
+              ],
+              "benefit": "Une alternative située peut rendre la prochaine fin de repas moins dépendante de la décision à prendre sur le moment."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les clés à côté du plan",
+      "ending": "Le lendemain, Martin demande au cabinet de revoir la docteure Bellon plus tôt. Elle le rappelle et il lui décrit les fins de repas, les clés déjà en main et les cafés pris à table au dépôt. Elle lui demande ce qu’il ressent à ces moments et comment il a dormi ces derniers jours. Ils reprennent les aides prévues et fixent un point la semaine suivante. Pour le soir, Martin veut essayer de rester un peu à table quand Élodie peut lui tenir compagnie. S’il est seul et a envie de sortir, il essaiera de faire un petit tour de la place plutôt que de retourner dans la cour. Il sait à quel contact revenir si ces soirées restent difficiles. À Mireille, il répond qu’il a vu les deux marques. Elle lui propose de venir les repérer depuis l’allée quand le matériel sera arrivé.",
+      "conclusion": "En rapprochant ses soirées, Martin a trouvé un moment qui mérite plus d’appui. Il a pu en parler avant le rendez-vous initial et préparer une autre fin de repas avec sa médecin. Les emplacements des nichoirs sont confirmés. Il reste à les repérer sur place avant la pose.",
+      "mirror": [
+        "Élodie peut répondre à l’appui que Martin lui demande après l’appel. « Je peux rester à table ce soir. La semaine prochaine, dis-moi quels jours tu pensais me le proposer. » Elle peut choisir les moments où elle est disponible. C’est avec la docteure Bellon que Martin vérifie si le nouveau plan lui convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "tis-ecart",
+        "has-prevention-rechute",
+        "ameli-sevrage-tabagique",
+        "oms-sevrage-tabac"
+      ],
+      "continuity": {
+        "choice": "Martin obtient un contact plus tôt, réévalue les fins de repas avec la docteure Bellon et convient d’un suivi rapproché.",
+        "next": "Mireille a validé la haie et attend le matériel de pose. Quelques semaines plus tard, Martin retournera près du banc pour voir les emplacements."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "martin-le-bruit-de-la-grille",
+      "title": "Quand l’envie de fumer revient après des semaines plus calmes",
+      "description": "Martin retrouve le banc et le bruit de la grille. Une envie le surprend alors que ses fins de repas sont devenues plus faciles.",
+      "context": "au jardin partagé, quelques semaines après avoir revu le plan d’arrêt avec sa médecin",
+      "topics": [
+        "Retour d’une envie",
+        "Contexte familier",
+        "Évolution après l’arrêt"
+      ],
+      "clinical_focus": "Retour d’une envie après une accalmie",
+      "clinical_intro": "Martin pensait moins souvent à fumer depuis quelques semaines. Au jardin, l’attente devant la grille réveille une envie qui le surprend. Après l’arrêt du tabac, une situation autrefois associée à la cigarette peut raviver une envie alors que d’autres moments sont devenus plus faciles. Martin cherche un appui qu’il peut utiliser ici et décidera avec sa médecin si la suite du suivi doit changer.",
+      "opening": "Le banc n’a pas été déplacé. Martin retrouve sous l’auvent le bout qui reçoit les gouttes. Il s’assoit de l’autre côté, bien qu’il ne pleuve pas. Mireille lui a donné rendez-vous pour regarder les deux repères le long de la haie. Le matériel de pose est arrivé dans la semaine. Lina lui a confié le cahier bleu et demandé de regarder si les toits seront visibles depuis le banc de l’allée. Elle veut revenir le jour où les nichoirs seront fixés.\n\nLes fins de repas sont plus simples depuis quelques semaines. Parfois Martin fait le tour de la place. D’autres soirs, il reste à table, et la cour ne lui vient même pas à l’esprit. Il en a parlé au dernier point avec la docteure Bellon. Ici, il entend le trousseau de Mireille avant de la voir. Une envie de fumer le surprend. Il a tout de suite en tête le coin de rue où il allait parfois fumer en attendant l’ouverture, avant d’essayer d’arrêter.\n\nCe qui le gêne presque autant que l’envie, c’est de la retrouver ici. Il aurait cru que les soirées plus faciles lui diraient aussi comment se passerait l’attente devant la grille. Il ferme le cahier sans y mettre le plan et une feuille glisse à côté du banc. Mireille arrive, les clés encore en main. Elle lui demande s’il veut commencer par le repère au bout de la haie ou celui près du banc de l’allée. Martin ramasse sa feuille et répond qu’il aimerait d’abord poser ses affaires quelque part.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les envies peuvent évoluer différemment selon les situations",
+          "text": "Après une période plus calme, retrouver un lieu ou un moment lié à la cigarette peut faire revenir une envie. La baisse de l’envie dans certaines situations et le retour d’une envie dans une autre peuvent coexister pendant l’arrêt du tabac. Au jardin, Martin se souvient d’un ancien trajet dès qu’il entend les clés. La force de ce moment ne suffit pas à en identifier la cause ou à prévoir la suite. Il peut se servir de ce qu’il a appris ailleurs et en parler à son suivi si le besoin se présente."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une envie peut-elle revenir après une période plus calme ?",
+          "points": [
+            {
+              "heading": "Retrouver des repères rencontrés moins souvent",
+              "text": "Une activité ou un lieu qu’on retrouve de loin en loin peut encore évoquer des moments où l’on fumait.",
+              "examples": [
+                "Martin est revenu devant la grille après plusieurs semaines. Le banc, l’attente et les clés lui rappellent le chemin qu’il prenait pour aller fumer.",
+                "En reprenant une promenade au bord d’une rivière au printemps, une personne pourrait penser à la cigarette qu’elle fumait d’ordinaire au premier arrêt."
+              ]
+            },
+            {
+              "heading": "Être surpris par la différence entre deux moments",
+              "text": "Des habitudes changées au quotidien ne prédisent pas ce qu’on ressentira dans un autre cadre.",
+              "examples": [
+                "Martin passe des fins de repas plus simples et retrouve une envie nette pendant l’attente au jardin.",
+                "Quelqu’un qui n’a presque plus envie de fumer à la pause de midi pourrait être surpris de l’envie qui revient pendant une longue attente à un ancien arrêt de bus."
+              ]
+            },
+            {
+              "heading": "Se demander si les difficultés des premiers jours reviennent",
+              "text": "Une envie forte peut rappeler une période plus difficile, même lorsque le reste de la journée se passe autrement.",
+              "examples": [
+                "En entendant le trousseau, Martin se demande ce que vaut l’accalmie des dernières semaines. Il continue pourtant à manger et à faire ses pauses autrement la plupart du temps.",
+                "Une personne pourrait redouter de recommencer à mal dormir après une forte envie à une fête, alors que son sommeil ne s’est pas modifié cette semaine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une envie qui revient après une accalmie",
+          "points": [
+            {
+              "heading": "Replacer l’envie dans le parcours",
+              "objective": "Comprendre ce qui diffère entre le moment présent et ceux qui sont devenus plus faciles.",
+              "exercise": [
+                "Quand vous êtes disponible, nommez le lieu et le moment où l’envie est revenue.",
+                "Rappelez-vous ce que vous y faisiez avant, sans chercher à revivre la situation.",
+                "Comparez avec un moment récent où l’envie vous a moins gêné."
+              ],
+              "benefit": "Ce rapprochement peut montrer ce qui mérite un appui particulier et ce qui a déjà changé."
+            },
+            {
+              "heading": "Emporter un appui dans ce contexte",
+              "objective": "Pouvoir faire appel à un geste qui vous a déjà convenu, même dans un autre lieu.",
+              "exercise": [
+                "Retrouvez une possibilité que vous utilisez déjà, comme vous asseoir à l’écart ou rester un instant avec quelqu’un.",
+                "Adaptez-la à ce qui est possible ici, dans un lieu sûr et sans fumée.",
+                "Reprenez votre activité quand vous le souhaitez ou choisissez un autre moment si vous préférez partir."
+              ],
+              "benefit": "Un appui familier peut redonner un choix quand une envie vous prend par surprise."
+            },
+            {
+              "heading": "Préparer le prochain passage sans chercher à provoquer l’envie",
+              "objective": "Garder une option si vous devez retourner dans le même lieu.",
+              "exercise": [
+                "Choisissez un endroit où attendre ou une personne que vous pouvez retrouver sur place.",
+                "Gardez une solution de rechange si l’endroit ou la personne n’est pas disponible.",
+                "Si les envies reviennent souvent ou deviennent difficiles à gérer, discutez de ces moments avec le professionnel qui vous suit."
+              ],
+              "benefit": "Cette préparation peut vous aider à retrouver l’activité dans les conditions qui vous conviennent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le plan sur la table commune",
+      "ending": "Mireille lui montre la table du local. Martin s’assoit le temps qu’elle sorte la feuille où les jardiniers ont noté les deux emplacements. Quand elle revient, il a encore envie et peut regarder les marques avec elle. Ils reprennent le plan en marchant jusqu’au banc de l’allée. Il y a assez de place pour s’arrêter sans barrer l’allée. Pour samedi, Mireille fixe une heure où les deux personnes chargées de la pose seront là. Martin et Lina apporteront les nichoirs. Chez lui, Martin garde dans sa feuille de suivi deux mots, « grille, attente ». S’il veut en reparler, il saura de quel retour au jardin il s’agit.",
+      "conclusion": "Le jardin a ravivé une envie alors que les soirées sont devenues plus calmes. Martin a pu prendre un moment à la table commune et choisir de poursuivre la visite. Samedi, il reviendra avec Lina et les deux nichoirs. Ils savent désormais où les poser.",
+      "mirror": [
+        "Mireille peut répondre à la demande qu’elle entend. « Pose tes affaires à la table. Je reviens avec le plan quand tu es prêt à le regarder. » Elle peut proposer un endroit calme ou convenir d’une autre heure si Martin souhaite partir. Martin décide s’il veut parler de cette envie pendant son suivi. La visite peut se poursuivre au moment qui leur convient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sevrage-tabagique",
+        "tis-envie-tardive",
+        "has-prevention-rechute"
+      ],
+      "continuity": {
+        "choice": "Martin attend à la table commune, regarde les deux points de pose avec Mireille et situe le retour de l’envie dans sa feuille de suivi.",
+        "next": "Samedi, les adultes chargés de la pose seront au jardin. Martin et Lina apporteront les deux nichoirs."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "martin-les-deux-toits",
+      "title": "Quand les pauses retrouvent leur place sans cigarette",
+      "description": "Au jardin, le banc est pris. Martin se rend compte qu’il peut prendre sa pause ailleurs, après des semaines à essayer plusieurs façons de souffler.",
+      "context": "au jardin partagé, le jour de la pose des deux nichoirs",
+      "topics": [
+        "Nouvelles habitudes",
+        "Pauses modulables",
+        "Suivi dans la durée"
+      ],
+      "clinical_focus": "Réorganisation des pauses dans la durée",
+      "clinical_intro": "Martin voulait garder ce qu’il aimait dans ses pauses. Au jardin, le banc est occupé et il trouve un autre endroit pour s’asseoir avant la pose des nichoirs. Dans la durée, les pauses sans cigarette peuvent prendre plusieurs formes selon ce qui compte à ce moment. Martin garde des solutions qui lui conviennent et un suivi pour les moments où le tabac reprend de la place.",
+      "opening": "Lina a porté dans ses bras le nichoir dont le toit penche le plus. Elle s’est arrêtée deux fois pour mieux soutenir le fond. À la grille, Martin pose son nichoir et prend celui de Lina le temps qu’elle ouvre. Mireille leur indique où déposer les nichoirs. Deux jardiniers de l’association préparent la pose et vérifient leurs attaches. Les autres attendent de l’autre côté de l’allée, où ils ont de la place.\n\nMartin est venu avec le thermos. Il avait imaginé s’asseoir sur le banc de l’allée pendant les préparatifs. Deux jardinières s’y sont déjà installées pour trier des sachets de graines, avec un classeur entre elles. Il se demande où il pourrait faire une pause. Il y a quelque temps, la réponse lui aurait donné un trajet tout fait vers l’extérieur. Aujourd’hui, en tenant le thermos, il s’aperçoit qu’il veut surtout s’asseoir un instant et boire quelque chose de chaud. Le banc peut rester aux graines.\n\nIl propose à Élodie de le retrouver près de la table commune pendant qu’ils attendent. Elle veut d’abord voir avec Mireille où ils pourront prendre la photo. Martin sort une seule tasse. Il en a une autre dans son sac si elle vient plus tard. La semaine dernière, il a gardé un café avec Karim quand leur pause coïncidait. À la maison, il a encore choisi de sortir marcher deux soirs. Ce matin, c’est le temps de s’asseoir qui lui manque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les pauses peuvent garder plusieurs usages",
+          "text": "Au fil d’un arrêt du tabac, de nouvelles habitudes peuvent prendre place dans des moments longtemps associés à la cigarette. Les choix peuvent différer selon qu’on veut parler, changer d’air ou se reposer. Martin garde le café avec Karim quand ils sont libres ensemble et a trouvé une autre fin de repas certains soirs. Au jardin, il peut prendre une pause là où il y a de la place. Quand une ancienne envie revient, il garde le contact convenu avec la docteure Bellon pour en parler si besoin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les pauses peuvent-elles se réorganiser dans la durée ?",
+          "points": [
+            {
+              "heading": "Garder l’usage de la pause",
+              "text": "La cigarette peut avoir marqué l’heure d’un échange ou d’un temps pour souffler. On peut chercher une manière de garder cet usage qui convienne au lieu et aux personnes.",
+              "examples": [
+                "Martin continue de boire un café avec Karim quand ils ont une pause en commun.",
+                "Une personne pourrait conserver sa sortie après le déjeuner pour marcher un peu, parce que prendre l’air compte encore pour elle."
+              ]
+            },
+            {
+              "heading": "Changer d’appui quand le cadre change",
+              "text": "Plusieurs possibilités permettent de choisir selon le lieu, le temps et les personnes disponibles.",
+              "examples": [
+                "Martin comptait sur le banc. Il trouve une chaise à la table commune et garde son moment de repos.",
+                "Quand une collègue n’a pas de pause au même moment, quelqu’un pourrait prendre son thé seul et leur proposer de se retrouver un autre jour."
+              ]
+            },
+            {
+              "heading": "Continuer de s’appuyer sur le suivi quand une situation résiste",
+              "text": "Des moments plus simples peuvent coexister avec des envies ponctuelles. Le suivi aide à faire le point sur ce qui reste difficile.",
+              "examples": [
+                "Les fins de repas de Martin se passent souvent autrement. Il garde dans ses notes le moment où l’attente au jardin l’a surpris.",
+                "Une personne qui a gardé sa promenade de midi pourrait reparler à son tabacologue des soirées qui restent difficiles quand les invités s’en vont."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder des pauses qui vous conviennent dans la durée",
+          "points": [
+            {
+              "heading": "Retrouver la raison de la pause",
+              "objective": "Choisir une activité qui répond à ce que vous attendiez de ce moment.",
+              "exercise": [
+                "Repérez une pause que vous voulez garder.",
+                "Demandez-vous si vous cherchez de la compagnie, de l’air ou un endroit calme.",
+                "Choisissez une action qui répond à ce besoin dans le temps et le lieu disponibles."
+              ],
+              "benefit": "Ce choix peut conserver le plaisir ou le repos qui faisait l’intérêt de cette pause."
+            },
+            {
+              "heading": "Garder une autre possibilité pour les jours où le programme change",
+              "objective": "Pouvoir continuer à souffler quand la personne, le lieu ou l’heure habituels changent.",
+              "exercise": [
+                "Repérez ce qui peut manquer une autre fois, comme une place libre ou la présence d’un collègue.",
+                "Préparez une autre possibilité qui garde ce dont vous avez besoin ce jour-là.",
+                "Après l’avoir essayée, voyez si vous voulez la reprendre ou en choisir une autre."
+              ],
+              "benefit": "Disposer de plusieurs possibilités peut rendre la pause plus facile à conserver dans des journées différentes."
+            },
+            {
+              "heading": "Faire le point sur les situations qui restent difficiles",
+              "objective": "Garder un accès à l’aide même quand plusieurs nouvelles habitudes ont trouvé leur place.",
+              "exercise": [
+                "Retrouvez une pause qui vous convient et une situation où une envie revient encore.",
+                "Apportez ces deux exemples au professionnel qui vous accompagne.",
+                "Convenez avec lui du prochain point et de la façon de reprendre contact plus tôt si nécessaire."
+              ],
+              "benefit": "Le suivi peut aider à préserver ce qui fonctionne et à réviser ce qui répond moins bien à vos besoins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les triangles vus de l’allée",
+      "ending": "Mireille vient les chercher quand les deux nichoirs sont en place. Lina lui demande quel toit on voit le mieux depuis l’allée. Lina rejoint Martin dans l’allée, derrière le banc maintenant libre. On distingue les deux triangles. Celui du nichoir le plus éloigné a l’air un peu de travers. Lina dit que c’est l’autre qui l’est. Elle prend deux photos pour trancher plus tard.\n\nMartin propose de finir le thermos à la table. Élodie l’y rejoint. De retour à la maison, il met le cahier bleu près des clés. Lina pourra y coller les photos. Il garde sa feuille de suivi à part, avec la date du prochain rendez-vous et le numéro du cabinet. Dans le cahier, à côté des deux dessins, Lina a laissé une demi-page pour ce qu’ils verront au printemps.",
+      "conclusion": "Les nichoirs sont posés. Martin a gardé plusieurs façons de prendre une pause selon le moment et la compagnie. Il garde aussi un suivi pour les situations où l’envie revient. Lina et lui ont un autre rendez-vous avec le jardin, quand ils viendront regarder les nichoirs au printemps.",
+      "mirror": [
+        "Élodie peut se joindre à Martin s’il en a envie et si elle est disponible. « Tu me gardes une tasse ? J’arrive quand on a trouvé d’où Lina prendra la photo. » Leur pause peut rester un moment ordinaire. Lina choisit ses photos et ce qu’elle veut écrire sur les nichoirs. Martin conserve ses propres repères pour le prochain rendez-vous avec sa médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-sevrage-tabagique",
+        "tis-soutien",
+        "oms-sevrage-tabac"
+      ],
+      "continuity": {
+        "choice": "Les adultes désignés posent les nichoirs. Martin garde des façons différentes de faire ses pauses et poursuit le suivi convenu.",
+        "next": "Lina garde les photos et une page pour les prochaines observations au jardin. Martin a son prochain point avec la docteure Bellon."
+      }
+    }
+  ]
+}

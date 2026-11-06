@@ -32,7 +32,7 @@ Sur la feuille, la dernière aiguille est intacte. Il s’en sert pour montrer l
 
 ## Le même propos dans deux situations
 
-Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.
+Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations. L’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.
 
 Owen bute sur « sac » pendant que M. Vasseur cherche une décision avant la sonnerie. Le temps restant est une contrainte réelle pour réserver le préau. En traitant cette réservation séparément, le groupe peut accorder à l’idée d’Owen le temps de discussion qui lui manquait.
 

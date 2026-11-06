@@ -31,7 +31,7 @@ Mme Roussel arrive au bruit des chaises, avec une caisse de trousses oubliées. 
 
 ## Ce qui motive la restriction ne se voit pas de l’extérieur
 
-Dans l’ARFID, la restriction alimentaire n’est pas motivée par le poids ou la silhouette. Elle peut être liée à des sensations, à la crainte d’une conséquence pénible ou à un faible intérêt pour l’alimentation. Ces difficultés peuvent se combiner et leur évaluation appartient à des professionnels. Pour Adèle, la difficulté est sensorielle ; la question du camarade sur un régime ne renseigne pas sur ce qu’elle éprouve.
+Dans l’ARFID, la restriction alimentaire n’est pas motivée par le poids ou la silhouette. Elle peut être liée à des sensations, à la crainte d’une conséquence pénible ou à un faible intérêt pour l’alimentation. Ces difficultés peuvent se combiner et leur évaluation appartient à des professionnels. Pour Adèle, la difficulté est sensorielle. La question du camarade sur un régime ne renseigne pas sur ce qu’elle éprouve.
 
 ## Comment distinguer ce que l’on voit du motif d’une restriction ?
 
@@ -55,7 +55,7 @@ Attribuer un motif à quelqu’un en public peut le placer dans la position d’
 
 ### L’intéressé peut choisir à qui parler de son vécu
 
-L’équipe de soins peut avoir besoin de comprendre les motifs ; un camarade n’a pas à les connaître.
+L’équipe de soins peut avoir besoin de comprendre les motifs. Un camarade n’a pas à les connaître.
 
 **Exemples concrets**
 

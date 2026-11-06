@@ -33,7 +33,7 @@ Owen a les deux phrases sur un papier : « J’ai retourné la poignée. Le ruba
 
 Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.
 
-Owen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage ; leur comparaison ne fixe pas ce que sera sa parole au prochain essai.
+Owen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage. Leur comparaison ne fixe pas ce que sera sa parole au prochain essai.
 
 ## Comment deux prises d’un même texte peuvent-elles différer ?
 

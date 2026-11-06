@@ -1,0 +1,44 @@
+{
+  "references": {
+    "wfsbp-comportement-sexuel": {
+      "title": "WFSBP, recommandations sur l’évaluation et la prise en charge du trouble compulsif du comportement sexuel (Turner et coll., 2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37522807/"
+    },
+    "mayo-comportement-sexuel": {
+      "title": "Mayo Clinic, évaluation et prise en charge du comportement sexuel compulsif",
+      "url": "https://www.mayoclinic.org/diseases-conditions/compulsive-sexual-behavior/diagnosis-treatment/drc-20360453"
+    },
+    "etat-consentement-sexuel": {
+      "title": "Arrêtons les violences, repères sur le consentement sexuel",
+      "url": "https://www.arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles"
+    },
+    "ameli-sommeil-et-somnolence": {
+      "title": "Assurance maladie, somnolence diurne, causes et facteurs de risque",
+      "url": "https://www.ameli.fr/assure/sante/themes/somnolence-diurne/definition-symptomes-causes-consequences"
+    }
+  },
+  "dossier": {
+    "name": "Trouble compulsif du comportement sexuel",
+    "aliases": [
+      "Comportement sexuel compulsif"
+    ],
+    "references": [
+      "oms-cddr",
+      "wfsbp-comportement-sexuel",
+      "mayo-comportement-sexuel",
+      "etat-consentement-sexuel",
+      "ameli-sommeil-et-somnolence"
+    ],
+    "points": [
+      "OMS CDDR 2024, 6C72, pp. 526–527, « Essential (required) features ». Le trouble relève de difficultés durables à contrôler des impulsions ou envies sexuelles intenses et répétées, qui conduisent à des comportements répétés. Il existe une détresse marquée ou un retentissement significatif. Lorsque le fonctionnement reste apparemment préservé, son maintien peut nécessiter un effort important. Un épisode seul ne permet pas de conclure.",
+      "OMS CDDR 2024, 6C72, p. 526. Le comportement peut prendre la place d’activités ou d’obligations, revenir malgré des tentatives de réduction, continuer malgré des conséquences négatives ou procurer peu ou pas de satisfaction. Ces présentations peuvent se combiner. Les épisodes les abordent séparément et sans description explicite.",
+      "OMS CDDR 2024, 6C72, pp. 527–528, « Additional clinical features » et « Boundary with normality (threshold) ». Un désir marqué, une fréquence élevée, l’orientation ou la seule détresse due à des jugements moraux ou sociaux ne suffisent pas. La honte peut coexister avec un trouble établi ou mériter une écoute en dehors de ce trouble. Le jugement clinique porte sur le contrôle durablement altéré, la détresse et le fonctionnement, ainsi que sur les autres explications possibles.",
+      "OMS CDDR 2024, 6C72, p. 527 et pp. 529–531. Des émotions telles que l’ennui, la solitude ou l’anxiété peuvent précéder le comportement chez certaines personnes et guider la discussion sur les soins, sans valeur diagnostique propre. Le clinicien examine l’évolution et envisage d’autres explications, notamment les épisodes de l’humeur, certains médicaments, des substances ou une autre affection. Le récit ne met en scène aucune de ces explications concurrentes.",
+      "Turner et coll., WFSBP, résumé des recommandations, et Mayo Clinic, « Treatment » et « Coping and support ». L’information et la psychothérapie font partie des premières options à discuter. Le suivi peut porter sur le contexte des envies, les façons d’y répondre, les activités choisies et les ajustements d’accès qui conviennent à la personne. L’objectif peut être de retrouver une marge de choix et de limiter les conséquences, sans prescrire de norme de fréquence ou d’abstinence. Aucun médicament, durée de traitement ou efficacité chiffrée ne sont proposés.",
+      "Mayo Clinic, « Coping and support » et « Preparing for your appointment ». Recueillir quelques faits sur le contexte, les tentatives, le retentissement et les ressources peut aider l’entretien. Des retours de la difficulté sont possibles pendant le suivi. Les exemples de liste, créneau et reprise proposés dans le récit sont des appuis situés à ajuster avec l’équipe, sans surveillance par les proches ni garantie de résultat.",
+      "Arrêtons les violences, « Le consentement ». Le consentement sexuel est libre, éclairé, spécifique, préalable et révocable. Le silence ou l’absence de réaction ne vaut pas accord. L’impulsion, le diagnostic et la participation aux soins ne changent ni ces exigences ni la responsabilité de respecter l’autre. Simon fixe lui-même les limites de contact, garde le choix de sa distance et dispose de ses propres appuis. Le récit ne suppose aucune violence et ne charge jamais le partenaire de surveiller le comportement ou de le compenser.",
+      "OMS CDDR 2024, 6C72, pp. 526–527, et Assurance maladie, « L’insuffisance de sommeil ». Le temps de repos peut faire partie des soins personnels négligés lorsque le comportement prend la place d’une autre activité. L’épisode 11 montre des couchers repoussés avec un lever contraint. Le manque de sommeil peut peser sur la vigilance et l’attention. Une fatigue peut avoir plusieurs causes et le récit ne pose pas de diagnostic d’insomnie."
+    ]
+  },
+  "direction": "Olivier a 43 ans. Responsable d’un entrepôt, il repère vite un décalage dans une feuille de départ et garde dans sa poche un crayon dont il se sert aussi au festival Fenêtre courte. Nadia travaille avec lui à l’entrepôt. Au cinéma Le Passage, Élise coordonne les bénévoles et Farid conduit la projection. Un planning commun, avec sa date et ses anciennes copies rayées, porte la réparation qu’Olivier a choisie. Son partenaire Simon a ses répétitions de chorale et décide quand parler, où dormir et s’il souhaite revenir vers lui. La Dre Lenoir a établi le diagnostic avant la première scène. Olivier choisit ensuite le suivi et y parle de son usage répété de contenus à caractère sexuel, sans description. Le récit montre le temps absorbé, les tentatives qui ne tiennent pas, les conséquences, les moments d’ennui et le peu de satisfaction, puis des ajustements et des retours de la difficulté. Le travail et le festival reçoivent les faits d’organisation. Les éléments cliniques restent en consultation et dans ce qu’Olivier choisit de dire à Simon. La conclusion donne une issue à l’organisation du festival, laisse à Simon le temps qu’il demande et réserve à Olivier une prochaine séance de cinéma pour lui-même."
+}

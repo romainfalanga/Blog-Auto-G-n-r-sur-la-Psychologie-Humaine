@@ -53,7 +53,7 @@ Un partenaire peut juger un raccord commode alors que la personne entend autre c
 
 **Exemples concrets**
 
-- Nassim pense d’abord au départ du bus ; Owen revient à la façon dont il joue la phrase entière.
+- Nassim pense d’abord au départ du bus. Owen revient à la façon dont il joue la phrase entière.
 - Dans un entretien filmé, un participant peut préférer garder sa pause parce qu’elle laisse une place à ce qu’il dit ensuite.
 
 ### Une décision artistique ne règle pas la diffusion

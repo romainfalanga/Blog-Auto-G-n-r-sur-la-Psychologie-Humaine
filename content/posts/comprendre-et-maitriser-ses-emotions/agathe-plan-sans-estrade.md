@@ -52,7 +52,7 @@ Le groupe peut demander des explications qu’un partenaire habituel n’aurait 
 
 **Exemples concrets**
 
-- Inès connaît le carton et les raisons de sa forme ; les autres le découvrent au bureau.
+- Inès connaît le carton et les raisons de sa forme. Les autres le découvrent au bureau.
 - Un élève qui n’a pas vu le cabanon peut demander où il se trouve alors qu’Agathe allait parler de la boîte.
 
 ### Changer le format redistribue l’effort

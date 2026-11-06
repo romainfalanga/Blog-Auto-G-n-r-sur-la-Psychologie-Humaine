@@ -60,7 +60,7 @@ Le numéro d’une salle et la personne qui peut l’ouvrir font partie de l’a
 **Exemples concrets**
 
 - La responsable prévoit de remettre la clé aux accompagnateurs aux heures convenues.
-- Un local calme est disponible à midi mais sert à une réunion au dîner ; l’équipe doit vérifier l’autre option prévue.
+- Un local calme est disponible à midi mais sert à une réunion au dîner. L’équipe doit vérifier l’autre option prévue.
 
 ## 3 techniques pour évaluer un espace de repas avec la personne
 

@@ -32,7 +32,7 @@ Lison demande à rappeler Farah. Elle s’attend à devoir expliquer pourquoi le
 
 ## Donner une forme visible à un problème de quantités
 
-Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits.
+Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm. Celui de 75 cm, une. Celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits.
 
 Le trouble des apprentissages en mathématiques peut rendre certaines étapes de calcul ou de raisonnement plus coûteuses. Le gabarit aide ici Lison à vérifier une autre dimension du problème, la possibilité d’obtenir quatre bandes dans le tissu réel. Son essai donne à l’équipe un argument vérifiable pour demander l’échange.
 

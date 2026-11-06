@@ -27,7 +27,7 @@ Trois semaines après l’envoi du dossier, Danièle et Rébecca attendent le tr
 
 Danièle raconte qu’elle a enfin cousu les deux boutons de sa veste du même côté. Elle se lève pour lui montrer celui du bas. Au même moment, le panneau indique que le train entre en gare. Rébecca avale sa salive, une fois puis une deuxième. Elle se sent incapable de remonter la fermeture du sac sans se pencher. Son ventre se contracte d’une façon qu’elle connaît. Un groupe se dirige vers la partie du quai où elles sont assises. Danièle tend la main vers la poignée. Rébecca garde le sac près d’elle.
 
-« Attends, je voudrais rester assise encore un peu. » Elle sait que il y aura d’autres trains dans l’après-midi. Dans sa tête, pourtant, elle doit monter tout de suite ou rentrer avec Danièle, sans place entre les deux. Elle regarde l’heure d’arrivée sur son billet. À la maison, elle s’imaginait ouvrir la porte de la chambre. Sur le quai, elle ne parvient plus à imaginer le geste qui vient après s’être levée.
+« Attends, je voudrais rester assise encore un peu. » Elle sait qu’il y aura d’autres trains dans l’après-midi. Dans sa tête, pourtant, elle doit monter tout de suite ou rentrer avec Danièle, sans place entre les deux. Elle regarde l’heure d’arrivée sur son billet. À la maison, elle s’imaginait ouvrir la porte de la chambre. Sur le quai, elle ne parvient plus à imaginer le geste qui vient après s’être levée.
 
 ## Ce que le corps ajoute à la difficulté de partir
 

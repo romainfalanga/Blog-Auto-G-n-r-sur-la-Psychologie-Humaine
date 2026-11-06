@@ -31,7 +31,7 @@ Elle appelle Léon. Il décroche au moment où elle s’apprête à raccrocher e
 
 ## Contourner un lieu qui rappelle l’absence
 
-Dans un trouble du deuil prolongé, on peut penser très souvent à la personne décédée et éviter certains lieux ou moments qui rappellent sa mort ou son absence. Le détour peut donner de la marge sur le moment et écarter aussi une activité désirée lorsqu’il se répète. Blandine a préparé une lecture avec le chœur ; la vue de la salle rend cette rencontre trop difficile ce jeudi.
+Dans un trouble du deuil prolongé, on peut penser très souvent à la personne décédée et éviter certains lieux ou moments qui rappellent sa mort ou son absence. Le détour peut donner de la marge sur le moment et écarter aussi une activité désirée lorsqu’il se répète. Blandine a préparé une lecture avec le chœur. La vue de la salle rend cette rencontre trop difficile ce jeudi.
 
 ## Comment l’évitement peut-il modifier un projet qui compte ?
 

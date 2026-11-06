@@ -54,7 +54,7 @@ Le professionnel examine ce qui se passe dans plusieurs situations, y compris qu
 
 ### Des moments d’intérêt peuvent coexister avec des difficultés
 
-Un plaisir retrouvé n’efface pas ce qui reste douloureux ; l’évolution se regarde à plusieurs moments.
+Un plaisir retrouvé n’efface pas ce qui reste douloureux. L’évolution se regarde à plusieurs moments.
 
 **Exemples concrets**
 
@@ -107,4 +107,4 @@ Blandine met le rendez-vous dans son agenda et réserve le jeudi matin pour le p
 
 **Conclusion**
 
-Blandine peut parler du vers qui lui plaît et du travail qu’elle ne se sent pas de prendre. Sa thérapeute pourra continuer à éclairer ces situations ; vendredi, Blandine a un autre rendez-vous pour les partitions.
+Blandine peut parler du vers qui lui plaît et du travail qu’elle ne se sent pas de prendre. Sa thérapeute pourra continuer à éclairer ces situations. Vendredi, Blandine a un autre rendez-vous pour les partitions.

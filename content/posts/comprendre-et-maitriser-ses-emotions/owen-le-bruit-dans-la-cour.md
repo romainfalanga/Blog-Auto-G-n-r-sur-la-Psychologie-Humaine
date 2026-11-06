@@ -31,7 +31,7 @@ Lina regarde les deux essais sur l’ordinateur. Après le premier, elle sait po
 
 ## Ce que l’auditeur a compris
 
-On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.
+On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise. Ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.
 
 Lina a entendu Owen s’arrêter puis terminer sa réplique. Sa question sur la peur du personnage lui montre ce qui est passé dans le jeu. Un retour de spectateur peut ainsi porter sur le sens, le ton ou le récit, que la parole ait été fluide ou qu’un mot ait bloqué.
 

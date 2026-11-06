@@ -1040,59 +1040,59 @@
       ]
     },
     {
-      "title": "Parler du retentissement au travail en choisissant ce que l’on partage",
-      "description": "Alix retrouve Laurent autour du calendrier. Ils cherchent une façon de répartir les samedis en gardant la vie de chacun à sa place.",
+      "title": "Quand les variations d’énergie rendent les engagements au travail difficiles à prévoir",
+      "description": "Alix a du mal à savoir quels samedis il pourra assurer. Avec Laurent, il cherche un roulement qui tient quand son énergie varie.",
       "context": "Quand Alix revient préparer les prochains samedis avec Laurent",
-      "clinical_focus": "Confidentialité autour du retentissement professionnel",
-      "clinical_intro": "À la coopérative, Laurent a besoin de savoir qui peut ouvrir et animer. Alix sait que ses périodes de variation compliquent certains horaires et veut en parler assez pour revoir le roulement. Le retentissement d’un trouble cyclothymique peut faire l’objet d’un accord de travail sans obliger la personne à raconter ses soins. La scène montre comment Alix décide du détail utile.",
+      "clinical_focus": "Engagements professionnels fragilisés par les variations d’énergie",
+      "clinical_intro": "Laurent a besoin de savoir qui ouvrira le magasin et animera l’atelier. Alix voit que ses variations d’énergie lui rendent difficile de prévoir ce qu’il pourra assurer d’un samedi à l’autre. Dans le trouble cyclothymique, ce décalage peut peser sur la fiabilité des engagements au travail. Il cherche avec Laurent une façon de les prendre à partir de ses possibilités réelles.",
       "opening": "Laurent a mis deux magnets gris sur les samedis du mois prochain. Il veut garder le premier pour la caisse et le dernier pour les commandes groupées. Entre les deux, Alix voit un blanc à l’endroit où il avait envie de poser l’atelier. Après l’entretien avec la Dre Benali, il a écrit un message pour proposer un rendez-vous avec Laurent. Il en a retiré la phrase où il racontait la consultation. Ce détail lui appartient encore quand il arrive au magasin.\n\nLaurent sort une feuille où figurent les noms des personnes qui savent ouvrir. Deux d’entre elles ont proposé de montrer les matières si on leur préparait les échantillons. Il dit qu’il peut remplacer Alix un matin à condition de le savoir avant vendredi. Alix fait tourner le magnet d’un quart de tour. Il s’attendait à expliquer pourquoi il ne répondait pas à certains messages. Il peut commencer par dire qu’il lui arrive de se rendre compte tardivement que l’ouverture lui coûtera tout le reste de la journée.\n\n« Est-ce qu’on peut laisser un nom de relève et une heure pour décider ? » demande Alix. Laurent acquiesce et veut savoir ce qu’ils diront sur l’affiche. Alix lui montre le mot « équipe » qu’ils utilisent déjà pour les séances partagées. Il se demande s’il veut aussi lui parler du nom du trouble. Laurent attend une réponse sur les samedis. Il peut lui donner celle-là maintenant.",
       "conclusion": "Laurent sait à quelle heure il a besoin d’une réponse. Alix conserve la décision sur les détails qu’il partage. La relève et l’affiche donnent une suite concrète à ce qu’ils ont convenu.",
       "number": 11,
       "slug": "alix-ce-qui-entre-dans-le-roulement",
       "topics": [
-        "Confidentialité",
-        "Retentissement professionnel",
-        "Accord de travail"
+        "Variations d’énergie",
+        "Engagements professionnels",
+        "Relais au travail"
       ],
       "sections": [
         {
           "role": "explanation",
-          "heading": "Ce que l’équipe a besoin de savoir",
-          "text": "Les variations d’énergie et de fonctionnement peuvent modifier la possibilité d’assurer une tâche à l’heure prévue. Parler de leurs effets concrets aide parfois à s’organiser avec des collègues. Alix choisit de dire quels horaires sont plus difficiles et quel relais il souhaite demander. Le diagnostic, les rendez-vous et les détails de sa vie privée restent à sa discrétion. Un accord de travail est d’autant plus utile que chacun peut s’engager sur une action réalisable."
+          "heading": "La capacité à tenir un engagement peut varier",
+          "text": "Des variations d’énergie au cours de la cyclothymie peuvent rendre difficile de prévoir l’effort qu’exigera une tâche. Alix aimerait continuer à ouvrir et à montrer les matières. Il sait que, certains samedis, l’ouverture lui a demandé plus qu’il ne pouvait donner sans sacrifier la suite de sa journée. Nommer le décalage permet de choisir avec Laurent ce qu’il peut annoncer et ce qu’il voudrait garder révisable."
         },
         {
           "role": "manifestations",
-          "heading": "Comment partager un besoin de travail en gardant la main sur ses informations ?",
+          "heading": "Comment les variations d’énergie compliquent-elles les engagements au travail ?",
           "points": [
             {
-              "heading": "Distinguer la tâche et sa difficulté",
-              "text": "Une demande peut décrire le fonctionnement dont l’équipe doit tenir compte.",
+              "heading": "L’effort varie pour une même tâche",
+              "text": "Un créneau qui tenait une semaine peut demander beaucoup plus d’énergie une autre fois.",
               "examples": [
-                "Laurent a besoin du nom de la personne qui tiendra la caisse samedi.",
-                "Un collègue peut avoir besoin d’un délai de réponse pour organiser une ouverture et ne pas avoir besoin du détail d’une consultation."
+                "Alix sait assurer l’ouverture. Certains samedis, elle lui coûte presque tout le reste de la journée.",
+                "Un artisan peut tenir une présentation un matin et avoir besoin de répartir les mêmes gestes à une autre date."
               ]
             },
             {
-              "heading": "Voir ce qui se joue dans les questions",
-              "text": "Les personnes autour du travail peuvent parler de choses différentes avec les mêmes mots.",
+              "heading": "L’incertitude complique la promesse",
+              "text": "Quand ses possibilités varient, la personne peut hésiter entre prendre un engagement qui lui plaît et attendre de mieux connaître sa disponibilité.",
               "examples": [
-                "Alix pense à son suivi quand Laurent demande ce qu’ils afficheront.",
-                "Une question sur l’absence peut parfois vouloir dire qu’un horaire reste à couvrir."
+                "Alix voudrait mettre son nom sur l’atelier et demande à quelle heure il devra confirmer.",
+                "Quelqu’un peut vouloir prendre un rôle d’accueil et préférer le confirmer après avoir évalué ses autres tâches."
               ]
             },
             {
-              "heading": "Choisir où une information ira",
-              "text": "La personne peut décider d’un contenu différent pour l’associé et pour les visiteurs.",
+              "heading": "Le décalage a des effets pour l’équipe",
+              "text": "Quand une disponibilité change tard, les collègues doivent pouvoir reprendre la tâche dans le temps qui leur reste.",
               "examples": [
-                "Alix envisage de garder les soins pour lui et d’annoncer un atelier assuré en équipe.",
-                "Une personne peut convenir d’un relais avec une collègue et publier seulement le nom de l’atelier."
+                "Laurent peut assurer une relève si Alix le prévient avant vendredi.",
+                "Un atelier peut nécessiter une préparation différente si la personne qui devait le tenir annonce qu’elle ne pourra pas venir."
               ]
             }
           ]
         },
         {
           "role": "strategies",
-          "heading": "3 techniques pour poser un accord de travail et une limite de confidentialité",
+          "heading": "3 techniques pour tenir compte des variations dans un engagement",
           "points": [
             {
               "heading": "Formuler le besoin utile à l’équipe",

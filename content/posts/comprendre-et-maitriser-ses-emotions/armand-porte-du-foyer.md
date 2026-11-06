@@ -51,7 +51,7 @@ Une flèche demande parfois de relier un nom, une direction et un détail qu’o
 **Exemples concrets**
 
 - Devant le foyer, il manque à Armand un signe qu’il puisse retrouver en arrivant de la rue.
-- Un panneau indique « accueil provisoire » ; au tournant suivant, deux portes identiques n’ont plus d’indication.
+- Un panneau indique « accueil provisoire ». Au tournant suivant, deux portes identiques n’ont plus d’indication.
 
 ### La position change ce qu’on peut retrouver
 

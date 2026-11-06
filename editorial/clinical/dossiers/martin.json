@@ -1,0 +1,76 @@
+{
+  "references": {
+    "ameli-sevrage-tabagique": {
+      "title": "Assurance Maladie, Les astuces pour arrêter de fumer et le sevrage tabagique",
+      "url": "https://www.ameli.fr/assure/sante/themes/tabac/astuces-arreter-fumer-sevrage"
+    },
+    "has-arret-tabac": {
+      "title": "Haute Autorité de santé, Arrêt de la consommation de tabac, du dépistage individuel au maintien de l’abstinence en premier recours",
+      "url": "https://www.has-sante.fr/jcms/c_1718021/fr/arret-de-la-consommation-de-tabac-du-depistage-individuel-au-maintien-de-l-abstinence-en-premier-recours"
+    },
+    "tis-envies": {
+      "title": "Tabac info service, Je fais face aux envies des premiers jours",
+      "url": "https://www.tabac-info-service.fr/j-arrete-de-fumer/je-fais-face-aux-envies-des-premiers-jours"
+    },
+    "tis-soutien": {
+      "title": "Tabac info service, J’arrête de fumer seul ou accompagné ?",
+      "url": "https://www.tabac-info-service.fr/j-arrete-de-fumer/j-arrete-de-fumer-seul-ou-accompagne"
+    },
+    "tis-ecart": {
+      "title": "Tabac info service, J’ai refumé quelques cigarettes",
+      "url": "https://www.tabac-info-service.fr/j-arrete-de-fumer/j-ai-refume-quelques-cigarettes"
+    },
+    "ansm-oxygene": {
+      "title": "ANSM, Mise au point sur les risques et précautions d’emploi liés à l’utilisation des gaz à usage médical",
+      "url": "https://ansm.sante.fr/uploads/2021/03/11/64200b285675bf190d364fdaf0a4e4b8.pdf"
+    },
+    "tis-lien-social": {
+      "title": "Tabac info service, Lien social",
+      "url": "https://www.tabac-info-service.fr/questions-reponses/04_questions-mises-en-ligne/lien-social"
+    },
+    "has-prevention-rechute": {
+      "title": "Haute Autorité de santé, Arrêt de la consommation de tabac, recommandations, sections 4.5.6 et 4.5.7",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2014-01/recommandations_-_arret_de_la_consommation_de_tabac.pdf"
+    },
+    "tis-envie-tardive": {
+      "title": "Tabac info service, Envie de re fumer",
+      "url": "https://www.tabac-info-service.fr/questions-reponses/04_questions-mises-en-ligne/envie-de-re-fumer"
+    },
+    "oms-sevrage-tabac": {
+      "title": "Organisation mondiale de la Santé, WHO clinical treatment guideline for tobacco cessation in adults, 2024, section 3.1",
+      "url": "https://www.who.int/publications/i/item/9789240096431"
+    }
+  },
+  "dossier": {
+    "name": "Dépendance à la nicotine",
+    "aliases": [
+      "Dépendance nicotinique"
+    ],
+    "references": [
+      "oms-cddr",
+      "ameli-sevrage-tabagique",
+      "has-arret-tabac",
+      "tis-envies",
+      "tis-soutien",
+      "tis-ecart",
+      "ansm-oxygene",
+      "tis-lien-social",
+      "has-prevention-rechute",
+      "tis-envie-tardive",
+      "oms-sevrage-tabac"
+    ],
+    "points": [
+      "CIM-11, CDDR de l’OMS, code 6C4A.2, p. imprimées 446 et 463–467. La nicotine est le constituant du tabac qui entraîne la dépendance. Le CDDR décrit notamment la difficulté à maîtriser l’usage, la place croissante qu’il peut prendre devant d’autres activités et des manifestations physiologiques. L’envie pressante accompagne souvent le tableau. Le diagnostic est déjà établi avant le récit. Une envie, la quantité de cigarettes ou une scène isolée ne suffisent pas à conclure. L’arrêt du tabac fumé et l’abstinence de toute nicotine sont deux questions distinctes lorsqu’un substitut nicotinique fait partie du suivi.",
+      "Assurance Maladie, rubrique Après le sevrage du tabac, comment éviter les rechutes, et Tabac info service, envies des premiers jours. Un lieu, une activité, un moment social ou un état émotionnel associés à la cigarette peuvent raviver l’envie. Les envies peuvent fluctuer et d’autres activités peuvent aider à traverser une montée. Les habitudes, le besoin de pause et les sensations de manque peuvent se recouvrir. Le récit situe la durée, l’intensité et le sens de chaque envie chez Martin. Il ne donne pas de minuteur comme seuil et ne recommande pas de provoquer volontairement une envie ou de se tester avec une cigarette.",
+      "CDDR, p. 463–466 et 487, tableau 6.16, et Assurance Maladie, rubrique Un traitement de substitution nicotinique adapté. L’usage peut servir à prévenir ou calmer provisoirement le manque. Après une diminution ou un arrêt de la nicotine, des envies, de l’irritabilité, un sommeil perturbé ou une difficulté de concentration peuvent survenir. Leur cours varie. Une cigarette peut être vécue comme un soulagement sans qu’on puisse attribuer chaque inconfort à la nicotine ni confondre apaisement du manque et résolution d’un problème. Martin rapporte ses observations au médecin, qui peut examiner les autres causes et réévaluer l’aide. Les symptômes du récit n’établissent pas un diagnostic additionnel de sevrage.",
+      "HAS, recommandation sur l’arrêt du tabac en premier recours et outils de suivi, et Assurance Maladie, rubriques sur l’accompagnement professionnel et les traitements. Les entretiens et l’accompagnement se règlent selon le contexte, les préférences, le vécu des tentatives et les besoins. Des substituts nicotiniques peuvent aider à réduire le manque et les envies lorsqu’ils sont adaptés avec le professionnel. Aucun produit, dose, durée, changement de traitement ou calendrier n’est proposé au lecteur. Un symptôme inhabituel, gênant ou persistant mérite une discussion clinique. En cas de gêne qui compromet la sécurité, la priorité va à l’arrêt de la tâche et au relais prévu par le service avant tout appui lié au tabac.",
+      "Tabac info service, arrêt seul ou accompagné, et HAS, soutien psychologique du patient fumeur. Le soutien est proposé et choisi par la personne. Les proches adultes peuvent partager une pause, écouter ou offrir une aide précise. La gêne de Martin quand il doit en parler et son désir de discrétion appartiennent à son histoire. Sa fille construit et observe les nichoirs. Les adultes et les professionnels portent la démarche de soin. Tabac info service propose également un accompagnement par un tabacologue au 39 89, vérifié sur la page de l’Assurance Maladie.",
+      "Tabac info service, J’ai refumé quelques cigarettes, et HAS, outils de prévention de la rechute. La reprise d’une cigarette appelle un retour sur le contexte et les appuis disponibles. Plusieurs écarts rapprochés peuvent justifier de reprendre rapidement contact et de revoir le plan. Le récit distingue la pensée du tout ou rien, la répétition d’une situation difficile, le retour d’une envie après une période plus calme et l’évolution de la place de la cigarette. Le CDDR p. 465 fixe des spécificateurs cliniques de cours qui ne sont pas attribués dans ce récit. Un écart n’entraîne aucune modification de soin décidée seul ni une prévision individuelle de la suite.",
+      "ANSM, mise au point sur les gaz à usage médical, section sur les consignes d’utilisation de l’oxygène médicinal. Le tabac est écarté du véhicule, des patients et du matériel d’oxygène dans le récit. Les moments personnels sont réservés aux temps de pause prévus, hors conduite, transport, soin et préparation du matériel. Les vérifications, transmissions et appels restent prioritaires. Les activités de jardinage et l’installation des nichoirs gardent leurs propres règles de sécurité et leurs adultes responsables.",
+      "Tabac info service, Lien social et J’arrête de fumer seul ou accompagné. Les conversations et les personnes présentes peuvent faire partie des repères associés à la cigarette. Les appuis peuvent inclure une réponse à une proposition de cigarette, un autre lieu et un moment de convivialité choisi, sans exposition volontaire à la fumée. La crainte de décevoir est présentée comme le vécu de Martin, avant qu’il ait refumé, avec le choix de ce qu’il souhaite confier.",
+      "HAS, recommandations, sections 4.5.6 et 4.5.7. Un écart ponctuel se distingue d’une reprise prolongée. L’analyse du contexte et des pensées qui suivent l’écart aide à préparer la réponse et à maintenir le lien avec les soignants. Un contact anticipé permet de revoir les difficultés et les appuis quand la situation se répète. Le récit distingue la pensée du tout ou rien après un premier écart et l’examen de plusieurs écarts rapprochés qui se produisent après une même transition.",
+      "Tabac info service, Envie de re fumer, et Assurance Maladie, prévention de la rechute. Une envie liée à des activités ou des repères familiers peut revenir après une période plus calme. Son retour ne suffit pas à en déterminer la cause ni à annoncer la suite. Les changements peuvent différer selon les contextes. Le récit garde une place pour adapter les pauses aux besoins et aux disponibilités, et pour revoir les situations difficiles avec le professionnel. Les recommandations 2024 de l’OMS, section 3.1, documentent la place du soutien comportemental, en consultation ou par téléphone."
+    ]
+  },
+  "direction": "Martin, quarante-sept ans, a le sens des gestes qu’on fait dans le bon ordre et un humour qui n’arrive qu’à la deuxième phrase. Ambulancier avec Karim, il aime le café qui marque la fin d’une séquence, l’air frais et les histoires qu’on ne peut pas raconter en roulant. À la maison, sa partenaire Élodie respecte son espace et sa fille Lina dessine les deux nichoirs qu’ils construiront pour le jardin partagé. Mireille y organise les autorisations et la pose. La docteure Bellon connaît déjà la dépendance à la nicotine de Martin. Le cahier à couverture bleue porte au début ses plans et un relevé de ses pauses, puis le suivi passe à un support séparé et choisi. Donner un coût distinct aux automatismes, à la difficulté de modifier une décision de consommation, à la montée d’une envie, à la priorité donnée au tabac, au soulagement bref, aux symptômes de manque, à l’appartenance au groupe, à la peur de décevoir, au jugement sur un écart, à la répétition des écarts, à une envie tardive et à la réorganisation des pauses dans le temps. Le café, le banc et le son de la grille font passer des repères d’une scène à l’autre. Martin intervient sur ses pauses autorisées, prépare son rendez-vous et revoit le plan avec le professionnel. Aucun soin au volant ni essai pendant les missions. Élodie et Karim peuvent refuser ou discuter une demande. Lina garde le droit de poser une question et sa part créative au jardin. Les deux nichoirs sont posés à la fin. Les oiseaux, l’avenir des pauses et la suite du suivi ne sont pas annoncés d’avance."
+}

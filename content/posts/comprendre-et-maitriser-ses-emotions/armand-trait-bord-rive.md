@@ -50,7 +50,7 @@ Plusieurs interventions peuvent rendre plus difficile le retour à la phrase ini
 
 **Exemples concrets**
 
-- Un visiteur demande si Nadia doit raconter ; Armand veut seulement qu’elle lui montre l’endroit.
+- Un visiteur demande si Nadia doit raconter. Armand veut seulement qu’elle lui montre l’endroit.
 - À table, deux personnes proposent des mots en même temps et l’orateur demande où il s’était arrêté.
 
 ### Une autre formulation garde le sens

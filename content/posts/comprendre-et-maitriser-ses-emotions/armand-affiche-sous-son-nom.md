@@ -60,7 +60,7 @@ Un changement de texte ou de destinataire peut justifier une nouvelle vérificat
 **Exemples concrets**
 
 - Nadia réimprime une affiche avec la carte du pont à la place du portrait.
-- Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication ; l’équipe vérifie à nouveau l’accord.
+- Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication. L’équipe vérifie à nouveau l’accord.
 
 ## 3 techniques pour rendre un accord de partage compréhensible
 

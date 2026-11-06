@@ -34,7 +34,7 @@ Elle posa le plan sur le cahier et prit deux papiers. Sur le premier, elle dessi
 
 Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux.
 
-Agathe revoit les gestes de Lila et utilise des pronoms dont Inès ne connaît pas encore les référents. Deux dessins peuvent poser l’ordre des gestes ; les légendes disent ensuite ce qui a conduit à déplacer le signe. Ce travail porte sur l’histoire à transmettre et peut s’appuyer sur les images que l’enfant a déjà en tête.
+Agathe revoit les gestes de Lila et utilise des pronoms dont Inès ne connaît pas encore les référents. Deux dessins peuvent poser l’ordre des gestes. Les légendes disent ensuite ce qui a conduit à déplacer le signe. Ce travail porte sur l’histoire à transmettre et peut s’appuyer sur les images que l’enfant a déjà en tête.
 
 ## Comment raconter une scène à quelqu’un qui ne l’a pas vue ?
 

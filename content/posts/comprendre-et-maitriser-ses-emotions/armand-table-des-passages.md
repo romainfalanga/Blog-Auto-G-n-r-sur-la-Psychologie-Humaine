@@ -50,7 +50,7 @@ Plusieurs voix ou de nouvelles arrivées changent la difficulté d’un échange
 
 **Exemples concrets**
 
-- Deux questions se croisent quand les visiteurs entrent par la cour ; Armand passe la légende à Nadia.
+- Deux questions se croisent quand les visiteurs entrent par la cour. Armand passe la légende à Nadia.
 - Une personne répond à son voisin de table, puis préfère écouter quand la conversation se disperse entre plusieurs groupes.
 
 ### La participation peut se poursuivre autrement

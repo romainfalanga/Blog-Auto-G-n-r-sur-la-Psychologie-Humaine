@@ -109,4 +109,4 @@ Victoire confie sa clé à Idriss avant de partir avec les intervenants. Elle lu
 
 **Conclusion**
 
-Le prospectus reste contre la caisse et Idriss prend la fermeture en charge. Il a appelé à partir du malaise observé. La boulimie fait partie des éléments que Victoire transmet aux soignants ; l’origine des palpitations reste une question pour le bilan.
+Le prospectus reste contre la caisse et Idriss prend la fermeture en charge. Il a appelé à partir du malaise observé. La boulimie fait partie des éléments que Victoire transmet aux soignants. L’origine des palpitations reste une question pour le bilan.

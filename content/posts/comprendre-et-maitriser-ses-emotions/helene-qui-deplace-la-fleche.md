@@ -50,7 +50,7 @@ Savoir qui sera là au moment du changement permet de préciser qui fera la vér
 
 **Exemples concrets**
 
-- Maud et Dario déplaceront la table de Noël ; Hélène propose qu’ils vérifient aussi les deux entrées.
+- Maud et Dario déplaceront la table de Noël. Hélène propose qu’ils vérifient aussi les deux entrées.
 - Une équipe décide que les personnes qui déplacent la caisse regardent aussi si le panneau reste visible.
 
 ### L’accord peut porter sur une version déterminée

@@ -1,0 +1,27 @@
+{
+  "references": {
+    "nhs-excoriation": {
+      "title": "NHS, trouble d’excoriation compulsive et prise en charge",
+      "url": "https://www.nhs.uk/mental-health/conditions/skin-picking-disorder/"
+    },
+    "ameli-plaies-cutanees": {
+      "title": "Assurance Maladie, plaies cutanées et situations qui nécessitent une consultation",
+      "url": "https://www.ameli.fr/node/1262"
+    }
+  },
+  "dossier": {
+    "name": "Trouble d’excoriation compulsive",
+    "aliases": ["Dermatillomanie", "Trouble d’excoriation"],
+    "references": ["oms-cddr", "nhs-excoriation", "ameli-plaies-cutanees"],
+    "points": [
+      "OMS CDDR, 6B25.1, pp. 330–331, et NHS. Le trouble implique des manipulations répétées de la peau qui occasionnent des lésions, des difficultés à réduire ou arrêter le comportement et une souffrance ou un retentissement. Un geste occasionnel ne suffit pas à reconnaître ce trouble. La trichotillomanie relève de la même famille de comportements répétitifs centrés sur le corps mais concerne l’arrachage de cheveux ou de poils, avec perte de cheveux ou de poils. Une ressemblance ou un signe isolé ne suffit pas à conclure et les deux troubles peuvent coexister.",
+      "OMS CDDR, pp. 331–332, et NHS. La personne peut remarquer le comportement en cours ou après coup, avec des degrés variables de conscience. À d’autres moments, l’envie est perceptible avant le geste. Une sensation cutanée gênante ou une irrégularité perçue peut compter. Le récit sépare ces formes sans demander de provoquer l’envie, de vérifier le corps ou de reproduire les gestes.",
+      "OMS CDDR, pp. 331–332, et NHS. La tension, l’anxiété ou l’ennui peuvent précéder certains moments. Un soulagement ou une satisfaction de courte durée peut contribuer au retour du comportement. Certaines personnes disent ensuite ressentir de la honte ou une perte de contrôle. La fatigue décrit les circonstances de Cyril dans le canon et n’est pas présentée comme une cause établie pour tous.",
+      "OMS CDDR, p. 331, et NHS. Le comportement peut prendre du temps et interférer avec la vie quotidienne. La dissimulation des lésions peut rendre une difficulté moins visible et retarder le moment où la personne en parle. Les propos du proche et l’organisation de la vie collective laissent à la personne le choix de ce qu’elle explique. Un accompagnement ne se confond ni avec une inspection de la peau ni avec une obligation de rendre compte.",
+      "OMS CDDR, pp. 332–333, et NHS. Une affection cutanée peut coexister avec le trouble ou contribuer à une gêne qui l’accompagne. Le professionnel examine ce qui relève de la peau et les circonstances dans lesquelles le comportement persiste. Les lésions ou une gêne inhabituelle peuvent faire l’objet d’une évaluation médicale, distincte de l’accompagnement comportemental.",
+      "Assurance Maladie, rubrique sur les plaies qui s’aggravent, et NHS. L’aggravation d’une plaie, notamment si la douleur augmente avec une rougeur ou un gonflement, justifie un avis médical rapide. Le récit montre un appel le jour même suivi d’un examen, de consignes individualisées et d’un contrôle. Seul le soignant statue sur une éventuelle infection, les soins et les adaptations en lien avec l’état de la peau. Aucun article ne donne de manœuvre ni de traitement à reproduire.",
+      "OMS CDDR, p. 332, et NHS, sections sur l’évaluation et le traitement. Le retentissement peut évoluer de manière inégale dans le temps. Un accompagnement psychologique peut comprendre un travail sur la prise de conscience des circonstances et sur une réponse de remplacement moins nocive, dans le cadre de l’inversion d’habitude. Le récit montre une adaptation discutée avec la psychologue et réexaminée à partir d’un retour concret. Il ne transpose pas le protocole en exercice autonome, ne promet pas d’effet et ne présente pas la volonté ou l’aide d’un proche comme un traitement."
+    ]
+  },
+  "direction": "Cyril, 32 ans, est charpentier et participe à la remise en place de la clôture d’un jardin partagé. Aïcha coordonne les bénévoles. Nadia veut apprendre à signaler une latte abîmée sur le carnet du jardin et à dégager les feuilles autour du portillon. Cyril aime trouver une façon simple de transmettre les deux gestes. Il pense volontiers en termes d’ordre de passage et de travail qu’on peut reprendre le lendemain. Son diagnostic est établi avant la première scène. Théo, son ami, le connaît déjà. La docteure Le Guen suit les questions de peau et Mina, psychologue, travaille avec Cyril sur les circonstances du comportement et des pauses compatibles avec son quotidien. Au jardin, Cyril choisit ce qu’il dit et conserve un rôle si la médecin recommande des limites. La progression distingue le geste repéré tard, l’envie consciente, le soulagement bref, le temps perdu, la dissimulation, la complication à signaler, une gêne dermatologique à examiner, la fatigue située, le retour du geste malgré l’intention de l’interrompre, la gêne physique dans les tâches, l’envie pendant une attente et l’évolution sur la durée. Le jardin reste un projet auquel Cyril tient. L’histoire se termine après que Nadia a essayé les deux gestes et décidé de sa prochaine tournée. Les scènes omettent les détails du geste répétitif et des soins de peau."
+}

@@ -31,7 +31,7 @@ Maud arrive avec la photo pour la lettre et le planning du mardi. Hélène fait 
 
 ## Garder la main sur les appuis au fil des situations
 
-Le trouble du développement intellectuel s’inscrit dans la durée. Les apprentissages continuent et l’appui utile peut changer selon la tâche et l’environnement. Hélène ajuste ses panneaux à partir de ce que les clients voient ; pour le prochain trajet dévié, elle choisit un contact joignable sur une seule partie du parcours. Les deux décisions relèvent de ce qu’elle veut faire et de l’aide qu’elle souhaite à ce moment.
+Le trouble du développement intellectuel s’inscrit dans la durée. Les apprentissages continuent et l’appui utile peut changer selon la tâche et l’environnement. Hélène ajuste ses panneaux à partir de ce que les clients voient. Pour le prochain trajet dévié, elle choisit un contact joignable sur une seule partie du parcours. Les deux décisions relèvent de ce qu’elle veut faire et de l’aide qu’elle souhaite à ce moment.
 
 ## Comment l’autonomie se voit-elle quand les appuis restent ajustables ?
 

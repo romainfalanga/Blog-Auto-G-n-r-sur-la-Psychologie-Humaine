@@ -60,7 +60,7 @@ Ce qui rend une tâche lisible pour les autres mérite d’être distingué de c
 **Exemples concrets**
 
 - Gaspard peut mieux voir la racine grâce au dessin au recto.
-- Une fiche avec trois dates aide un groupe à suivre ; réciter chaque ligne en surveillant son ton peut avoir une autre fonction.
+- Une fiche avec trois dates aide un groupe à suivre. Réciter chaque ligne en surveillant son ton peut avoir une autre fonction.
 
 ## 3 techniques pour examiner le rôle d’une préparation
 

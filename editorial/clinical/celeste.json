@@ -1,0 +1,1241 @@
+{
+  "character_id": "celeste",
+  "bio": "Céleste, 34 ans, dessine des modèles de bijoux pour un collectif d’artisans. Elle peut reconnaître un dessin sans se rappeler la partie de la journée où elle l’a modifié. Elle est suivie pour un trouble dissociatif de l’identité et choisit à qui elle souhaite en parler. Avec Anouk, elle prépare six broches en laiton et en verre de récupération. Elle veut savoir quelles étapes elle peut promettre, et garder ce qu’elle préfère dans le métier, le moment où le profil d’un objet se décide sous le crayon.",
+  "profile_topics": [
+    "Trouble dissociatif de l’identité",
+    "Lacunes de mémoire",
+    "Continuité du sentiment de soi",
+    "Intrusions dissociatives",
+    "Retentissement sur le travail"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "celeste-la-boite-aux-deux-profils",
+      "title": "Les lacunes de mémoire quand une partie de la journée manque",
+      "description": "Céleste reconnaît ses traits sur une broche et ne se rappelle pas avoir achevé le dessin. Il lui faut un repère pour reprendre le travail.",
+      "context": "Au casier des prototypes du collectif",
+      "topics": [
+        "Lacunes de mémoire",
+        "Amnésie du quotidien",
+        "Repères de travail"
+      ],
+      "clinical_focus": "Lacunes dans la mémoire du quotidien",
+      "clinical_intro": "Céleste sait qu’elle a commencé à dessiner une broche vendredi. Le lundi, elle trouve deux profils terminés et ne se souvient pas de la fin du travail. Les lacunes du quotidien peuvent faire partie d’un trouble dissociatif de l’identité. Pour continuer la série, elle cherche quelle décision a été prise et ce qu’il reste à faire.",
+      "opening": "Céleste garde les morceaux de verre les plus ternes dans une boîte de pastilles. Elle connaît leur couleur seulement quand elle les pose contre le jour. Le lundi, elle en choisit un qui vient d’une fenêtre démontée et le dépose sur le tissu noir où elle dessine ses profils. Une rayure prend la lumière avant le reste. Elle voudrait en faire le bord de la première broche de la série des Reflets du passage.\n\nDans le casier des prototypes, deux profils en carton portent déjà ses initiales. Le premier a le bord rond qu’elle a dessiné vendredi matin. Le second, plus large, reçoit le verre presque sans jeu. Elle reconnaît la façon dont elle a doublé le trait au crayon. Elle ne retrouve rien de la fin de l’après-midi où elle a dû tracer et ranger le second carton. Son dernier souvenir net à l’atelier est celui du tissu noir retourné pour secouer la poussière avant le déjeuner. Puis il y a le sac des courses à la maison.\n\nAnouk arrive avec deux cafés et la chemise des dates. Jeanne attend deux broches pour un essai dans sa boutique le vendredi de la semaine suivante. L’ouverture de la vitrine des artisans, avec les six pièces, est encore un vendredi plus tard. Céleste avait prévu de lui écrire qu’un profil était retenu. À présent, elle ne sait pas si quelqu’un l’a déjà choisi. Elle aligne les deux cartons, bord à bord, et demande à Anouk ce qu’elle a vu avant de partir vendredi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une activité accomplie échappe au souvenir",
+          "text": "Dans le trouble dissociatif de l’identité, des périodes de la vie courante peuvent rester inaccessibles à la mémoire, bien au-delà d’un oubli ordinaire. Il peut s’agir d’un échange, d’une partie du travail ou d’un intervalle plus long. Céleste connaît déjà son diagnostic. Dans la CIM-11, le trouble implique aussi des discontinuités marquées dans le sentiment d’être soi et dans la façon de conduire ses actions. La présence d’une lacune, prise seule, ne dit pas ce qui l’a causée. La CIM-11 décrit aussi l’amnésie dissociative comme un trouble distinct. On ne l’ajoute pas sur la seule base de lacunes qui surviennent lors des épisodes d’un TDI.\n\nCéleste reconnaît les traits de son crayon. Ils renseignent sur le dessin en cours, sans lui rendre ce qu’elle a vécu vendredi. Il lui manque surtout une information pour reprendre la commande."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une lacune de mémoire se voit-elle dans une journée ordinaire ?",
+          "points": [
+            {
+              "heading": "Retrouver une trace sans retrouver le moment",
+              "text": "Une note ou un objet peut renseigner sur ce qui s’est passé alors que l’activité elle-même reste absente du souvenir.",
+              "examples": [
+                "Céleste reconnaît son double trait sur le deuxième carton mais ne se souvient pas de l’avoir terminé.",
+                "Une personne peut retrouver le ticket d’un retrait et reconnaître l’achat, sans se rappeler être passée au magasin ce jour-là."
+              ]
+            },
+            {
+              "heading": "Se rappeler ce qui précède et ce qui suit",
+              "text": "Il peut rester des repères de part et d’autre d’un intervalle sans que le passage entre eux revienne.",
+              "examples": [
+                "Céleste se rappelle avoir secoué son tissu avant le déjeuner, puis les courses à la maison. Une partie de l’après-midi lui manque.",
+                "Quelqu’un peut se souvenir d’avoir ouvert un dossier le matin et d’avoir repris un autre travail en fin de journée, sans retrouver la réunion qui a eu lieu entre les deux."
+              ]
+            },
+            {
+              "heading": "Ignorer ce qui a été décidé",
+              "text": "L’information manquante peut empêcher de savoir quelle suite donner à une tâche, même quand on dispose des objets nécessaires.",
+              "examples": [
+                "Les deux profils sont dans le casier. Céleste ne sait pas si l’un a déjà été choisi pour la boutique.",
+                "Devant deux versions d’un document, une personne peut reconnaître son travail sans savoir laquelle l’équipe attend pour l’impression."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre une tâche quand une partie de la journée manque",
+          "points": [
+            {
+              "heading": "Repérer où le travail en est",
+              "objective": "Trouver un point de reprise dans les éléments présents.",
+              "exercise": [
+                "Rassemblez seulement les pièces qui concernent la tâche en cours.",
+                "Relevez un fait lisible, comme une date, un nom de version ou une mention de validation.",
+                "Laissez ouvert ce que ces éléments ne permettent pas de vérifier."
+              ],
+              "benefit": "Une trace peut orienter la prochaine action sans qu’il faille retrouver le souvenir de l’action précédente."
+            },
+            {
+              "heading": "Demander un fait à la personne présente",
+              "objective": "Récupérer un renseignement précis auprès de quelqu’un qui a vu une partie du travail.",
+              "exercise": [
+                "Choisissez la question dont dépend votre prochaine décision.",
+                "Demandez à la personne ce qu’elle a vu elle-même.",
+                "Distinguez avec elle ce qui a été fait de ce qui reste à décider."
+              ],
+              "benefit": "Un renseignement limité peut suffire à remettre la tâche en route. Il laisse à chacun la possibilité de dire qu’il ne sait pas."
+            },
+            {
+              "heading": "Laisser une fiche pour la prochaine reprise",
+              "objective": "Rendre l’état de la tâche accessible sans devoir compter sur le souvenir d’une discussion.",
+              "exercise": [
+                "Inscrivez la date et le nom de la version.",
+                "Indiquez la prochaine étape ou la personne à qui poser la question.",
+                "Choisissez ensemble où laisser la fiche si le travail est partagé."
+              ],
+              "benefit": "Un repère commun peut réduire le travail à refaire si une partie de la journée échappe de nouveau."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux cartons, une fiche",
+      "ending": "Anouk dit qu’elle a vu Céleste déposer le deuxième carton dans le casier. Elles n’en ont validé aucun. Céleste appelle les profils A et B, puis glisse avec eux une fiche datée. Elle marque l’essai avec Jeanne et l’ouverture sur deux lignes séparées. Pour demain, elle écrit qu’il reste à choisir le profil. Anouk prend le café qu’elle avait posé sur le bord du casier. Le deuxième carton a une belle courbe, dit-elle. Céleste l’approche du verre. Elle peut lui répondre sur la courbe.",
+      "conclusion": "Céleste a trouvé où reprendre le projet sans retrouver le vendredi après-midi. La fiche garde la décision ouverte et permet à Anouk de savoir ce qui est attendu. Demain, elles pourront comparer les deux courbes sur la même table.",
+      "mirror": [
+        "Anouk peut dire exactement ce qu’elle a vu. « J’étais là quand tu as mis le deuxième carton dans le casier. Pour le choix, on peut le faire demain si tu veux. » Elle peut demander si Céleste préfère écrire la fiche ou qu’elle l’écrive avec elle. Elles peuvent reprendre le travail même s’il reste des choses que ni l’une ni l’autre ne sait."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste distingue les profils A et B, ouvre une fiche de travail et sépare les deux dates.",
+        "next": "Le mardi, elle se souvient du travail sur la table mais ne retrouve pas la même impression d’avoir choisi du début à la fin."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "celeste-le-trait-au-milieu",
+      "title": "Le sentiment d’être soi peut changer sans effacer le souvenir",
+      "description": "Céleste se rappelle les gestes du matin. La façon dont elle a vécu ses choix a changé au milieu du travail.",
+      "context": "À la table des dessins, avec Anouk",
+      "topics": [
+        "Sentiment de soi",
+        "Souvenir préservé",
+        "Discontinuité de l’action"
+      ],
+      "clinical_focus": "Discontinuité du sentiment d’être soi",
+      "clinical_intro": "Céleste se rappelle le moment où elle a rapproché les deux cartons et choisi un trait. Ce souvenir demeure, alors que sa façon de se sentir elle-même et de vivre le choix a changé au milieu de la tâche. Dans le TDI, un changement d’état ne s’accompagne pas toujours d’un blanc de mémoire.",
+      "opening": "Le mardi, Anouk pose la réglette transparente en travers des cartons. Elle en avait acheté trois pour les grilles de mots croisés de son père. Elle lui en a donné deux et en a gardé une pour les modèles. Céleste la fait glisser sur le trait qu’elle a dessiné vendredi. Sous le verre, elle aimerait qu’on distingue une petite ligne de laiton. C’est ce qu’elle avait écrit sur la fiche, avec un croquis si serré qu’Anouk doit le tourner pour le lire.\n\nElles essaient le même morceau sur A puis sur B. À un moment, la façon dont Céleste vit la scène change. Elle sait depuis combien de temps elle travaille avec Anouk. Pourtant, pendant qu’elle ramène B au milieu de la table, son rapport à cette amie, au dessin et à la personne qu’elle se sent être ne ressemble plus à celui de quelques minutes auparavant. Elle choisit vraiment le trait, avec une préférence très nette pour une ligne plus droite. Plus tard, cette décision lui paraîtra difficile à rattacher au fil de sa matinée. Elle se rappellera pourtant l’avoir prise, jusque dans le geste de pousser le carton avec l’index.\n\nAnouk propose de recopier immédiatement le trait sur le patron de la série. Céleste voit le verre faire une petite ombre sur la règle. Elle voudrait regarder encore le profil entier avant de le donner à l’atelier. Elle pose son crayon et demande qu’on laisse le carton au milieu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Se rappeler l’action et avoir vécu une rupture dans le sentiment de soi",
+          "text": "Dans le trouble dissociatif de l’identité, la continuité du sentiment d’être soi et d’agir peut être perturbée alors qu’un souvenir de l’action reste accessible. La CIM-11 décrit des états identitaires distincts qui prennent de façon récurrente la conduite de certaines activités. Les changements de mémoire varient d’un moment à l’autre.\n\nCéleste se rappelle le dessin, Anouk et le mouvement de son doigt. C’est la façon dont elle s’est vécue en train de choisir qui a changé. Elle a déjà discuté de ce type d’expérience dans son suivi. Une hésitation, un changement d’avis ou une manière différente de dessiner ne suffisent pas à reconnaître un changement d’état."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une discontinuité peut-elle être vécue quand le souvenir reste ?",
+          "points": [
+            {
+              "heading": "La façon de se sentir soi change pendant l’activité",
+              "text": "La personne peut connaître le lieu et les gens qui l’entourent alors que sa manière de se situer dans la scène change profondément.",
+              "examples": [
+                "Céleste sait qu’Anouk est son amie. La façon dont elle vit leur relation et sa propre place à la table change pendant la comparaison des cartons.",
+                "Quelqu’un peut reconnaître une équipe familière pendant une réunion et se vivre d’une façon très différente dans le rôle qu’il est en train d’y tenir."
+              ]
+            },
+            {
+              "heading": "Les détails du geste restent accessibles",
+              "text": "La discontinuité de l’expérience ne laisse pas forcément un intervalle vide dans le souvenir.",
+              "examples": [
+                "Céleste se rappelle avoir ramené le profil B au milieu de la table avec son index.",
+                "Une personne peut se souvenir d’avoir répondu à une question et de ce qui s’est dit ensuite, tout en décrivant une rupture dans la manière dont elle a vécu sa réponse."
+              ]
+            },
+            {
+              "heading": "Il faut du temps pour reprendre la décision",
+              "text": "Il peut être difficile de se réapproprier la suite d’une action dont on garde pourtant le souvenir.",
+              "examples": [
+                "Céleste veut revoir le profil entier avant de confirmer le trait qu’elle se rappelle avoir choisi.",
+                "Après une discussion dont les mots lui reviennent, quelqu’un peut demander un délai avant de confirmer un choix que son équipe pensait déjà arrêté."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prendre le temps de confirmer une décision",
+          "points": [
+            {
+              "heading": "Nommer le choix encore ouvert",
+              "objective": "Éviter qu’un trait d’essai soit pris pour une décision de production.",
+              "exercise": [
+                "Indiquez précisément ce qui a été fait.",
+                "Dites ce qui reste à confirmer.",
+                "Convenez du moment où vous reviendrez sur ce choix."
+              ],
+              "benefit": "Un statut partagé protège le travail en cours et donne du temps pour prendre la décision."
+            },
+            {
+              "heading": "Revenir au but de la tâche",
+              "objective": "Examiner un choix à partir de ce que l’objet doit permettre.",
+              "exercise": [
+                "Retenez une exigence du projet, comme la tenue du verre dans son logement.",
+                "Comparez les versions sur ce seul point.",
+                "Décidez d’un essai réversible avant la validation."
+              ],
+              "benefit": "Un essai donne un résultat dont on peut parler ensemble, même quand l’expérience du choix reste difficile à situer."
+            },
+            {
+              "heading": "Décrire en séance les deux faces de l’expérience",
+              "objective": "Permettre à la thérapeute d’entendre ce qui est resté accessible et ce qui a changé.",
+              "exercise": [
+                "Choisissez une situation dont vous souhaitez parler.",
+                "Dites ce dont vous vous souvenez et ce qui vous a paru différent dans votre manière de vivre l’action.",
+                "Demandez quel appui conviendrait si une décision importante se présente à ce moment-là."
+              ],
+              "benefit": "Cette description peut orienter le suivi sans qu’il soit nécessaire de provoquer un changement ou de le faire nommer par quelqu’un d’autre."
+            }
+          ]
+        }
+      ],
+      "ending_title": "B reste sur la table",
+      "ending": "Céleste écrit « trait à vérifier » sur la fiche. Elles regardent le verre contre le profil et retiennent B pour un essai, avec la ligne encore au crayon. Anouk emporte le profil A au casier. Céleste garde la réglette transparente, qu’elle utilisera demain sur une seconde épaisseur de verre. Elle se rappelle toujours le trait qu’elle a préféré sur le moment. Elle veut voir s’il tient sa place quand on regarde la broche de côté.",
+      "conclusion": "Le souvenir du dessin est là, et la décision mérite quand même du temps. Céleste peut choisir un essai sans expliquer à Anouk tout ce qu’elle a vécu pendant la matinée. Le prochain morceau de verre leur donnera de quoi discuter du bord.",
+      "mirror": [
+        "Anouk peut demander ce qu’elles peuvent considérer comme décidé. « Je range A. Pour B, on garde le trait au crayon jusqu’à l’essai de demain ? » Si Céleste préfère un autre rythme, elles peuvent regarder leurs disponibilités. Anouk peut parler de ce qu’elles ont dessiné sans proposer d’explication sur qui a choisi ou demander à Céleste de rejouer le moment."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste choisit B pour un essai et garde la ligne au crayon en attendant une autre épaisseur.",
+        "next": "Une pensée et une émotion s’imposent pendant la comparaison du deuxième verre, alors que Céleste reste aux commandes de la tâche."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "celeste-la-reglette-a-plat",
+      "title": "Une intrusion dissociative peut interrompre le fil d’une tâche",
+      "description": "Une pensée et une inquiétude s’imposent à Céleste pendant un essai. Elle garde le choix de ce qu’elle fait ensuite.",
+      "context": "Devant deux échantillons de verre",
+      "topics": [
+        "Intrusions dissociatives",
+        "Pensées qui s’imposent",
+        "Conduite de l’activité"
+      ],
+      "clinical_focus": "Intrusions pendant une action maintenue",
+      "clinical_intro": "Céleste compare deux morceaux de verre lorsqu’une pensée inattendue et une inquiétude s’imposent à elle. Elle continue à savoir ce qu’Anouk lui demande et décide de poser sa règle. Dans le TDI, une intrusion peut gêner l’activité sans que la conduite de celle-ci change. La scène montre cette différence à l’échelle d’un geste.",
+      "opening": "Anouk a apporté deux chutes de verre dans des pochettes de papier. La première paraît bleue sur le blanc et grise sur le tissu noir. La seconde garde sa couleur jusque sous la table. Céleste aime mieux la première pour les Reflets du passage. Elle voudrait que les gens se penchent un peu pour voir le bleu, comme elle le fait depuis lundi chaque fois qu’elle ouvre la boîte de pastilles.\n\nElle tient la réglette par un bout. Anouk lui demande quelle marge laisser près de l’encoche. Une phrase lui vient avec une insistance étrangère à la question. « Il faut tout remettre dans la boîte. » Elle ne l’entend pas comme une voix. En même temps, une inquiétude vive lui donne envie de refermer les pochettes. Elle voit bien que les deux morceaux sont à plat et qu’Anouk attend une mesure. Elle sait ce qu’elle veut faire de la broche. Ce qui lui manque pendant quelques secondes, c’est la place pour entendre la fin de la phrase d’Anouk et tenir son regard sur le bord.\n\nAnouk déplace une pochette pour dégager le verre gris. Céleste la voit faire. Elle sait aussi qu’elle peut demander un instant avant de donner sa réponse. Elle pose la réglette à plat, garde les deux pochettes ouvertes et indique le morceau le plus fin. Elle voudrait reprendre à partir de celui-là.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une expérience peut s’imposer sans prendre la conduite de la tâche",
+          "text": "Une intrusion dissociative peut prendre la forme d’une pensée, d’une émotion, d’une sensation ou d’une perception qui s’impose pendant une activité. Dans le TDI, cela peut arriver sans changement de l’état qui conduit l’action. La CIM-11 décrit aussi des intrusions dans le TDI partiel. Dans ce dernier, un état prédomine dans la vie quotidienne et les autres interviennent surtout par des intrusions, avec parfois de brefs moments où ils conduisent une action précise, sans prendre régulièrement en charge des pans de la vie quotidienne. Un seul épisode d’intrusion ne permet pas de faire la différence.\n\nCéleste sent une inquiétude et a une pensée qui la gêne. Elle sait ce qu’elle fait, choisit de poser la règle et demande où reprendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une intrusion peut-elle gêner une action que l’on continue de conduire ?",
+          "points": [
+            {
+              "heading": "Une pensée détourne le fil du travail",
+              "text": "La personne peut rester engagée dans sa tâche tout en trouvant difficile de suivre deux contenus à la fois.",
+              "examples": [
+                "La pensée de tout ranger s’impose à Céleste pendant qu’Anouk lui demande quelle marge laisser.",
+                "En triant des documents, une personne peut avoir une pensée insistante sans rapport avec la question de sa collègue et lui demander de répéter."
+              ]
+            },
+            {
+              "heading": "Une émotion arrive sans correspondre à la tâche",
+              "text": "L’émotion peut occuper une grande place alors que la personne continue à reconnaître la situation et à choisir comment y répondre.",
+              "examples": [
+                "Une inquiétude vive donne à Céleste envie de fermer les pochettes alors que les deux morceaux sont posés devant elle.",
+                "Quelqu’un peut sentir une peur soudaine en préparant une commande et choisir de finir de noter l’adresse avant de répondre à une demande."
+              ]
+            },
+            {
+              "heading": "Une impulsion demande une pause",
+              "text": "La personne peut sentir une envie de faire un autre geste tout en gardant la possibilité de suspendre ou de reprendre celui qu’elle a commencé.",
+              "examples": [
+                "Céleste a envie de tout ranger. Elle pose la réglette et laisse les pochettes ouvertes.",
+                "Pendant un appel, quelqu’un peut avoir une forte envie de raccrocher, puis demander un moment avant de décider de poursuivre ou de rappeler."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder le choix du prochain geste",
+          "points": [
+            {
+              "heading": "Mettre le geste en attente",
+              "objective": "Créer un instant où il n’est pas nécessaire de répondre ou de continuer.",
+              "exercise": [
+                "Posez ce que vous tenez si vous pouvez le faire en sécurité.",
+                "Dites de quoi vous avez besoin, par exemple un instant sans nouvelle question.",
+                "Décidez si vous souhaitez reprendre ou passer la tâche."
+              ],
+              "benefit": "Une courte interruption peut laisser de la place pour décider, même si la pensée ou l’émotion reste présente."
+            },
+            {
+              "heading": "Repartir d’une seule information",
+              "objective": "Réduire ce qu’il faut suivre en même temps pour reprendre le travail.",
+              "exercise": [
+                "Choisissez la question pratique qui compte maintenant.",
+                "Demandez qu’on vous la redise sans ajouter d’autre consigne.",
+                "Revenez au morceau, à la ligne ou à l’objet dont elle parle."
+              ],
+              "benefit": "Une question et un objet communs peuvent suffire à retrouver l’étape en cours."
+            },
+            {
+              "heading": "Donner un exemple actuel en séance",
+              "objective": "Discuter avec la thérapeute de l’effet des intrusions sur une activité.",
+              "exercise": [
+                "Retenez un moment que vous souhaitez décrire.",
+                "Dites ce qui s’est imposé et ce que vous pouviez encore décider.",
+                "Demandez quel appui envisager si cela revient pendant une tâche importante."
+              ],
+              "benefit": "L’exemple peut aider la thérapeute à comprendre votre difficulté sans qu’une autre personne lui attribue une origine."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le verre qui devient gris",
+      "ending": "« Redis-moi la question sur le bord », demande Céleste. Anouk montre l’endroit sur la fiche B. Elles conviennent de tester le verre le plus fin et de garder la même silhouette pour le plus épais, sans lancer la série. Céleste inscrit un mot pour chaque échantillon. La phrase qu’elle n’avait pas cherchée lui revient encore. Elle a cependant pu décider du prochain essai. Anouk remet le verre le plus épais dans sa pochette et lui laisse le morceau gris sur le tissu.",
+      "conclusion": "L’intrusion a pris une part de l’attention de Céleste sans décider du geste suivant. Elle a demandé une seule information et gardé son choix sur la broche. Il reste à voir comment le verre apparaît à la lumière de la boutique.",
+      "mirror": [
+        "Anouk peut laisser la réglette où Céleste l’a posée. « Je peux redire la question ou attendre un peu. Tu préfères quoi ? » Elle peut montrer le bord à mesurer si Céleste veut reprendre et proposer de garder l’autre morceau pour plus tard. Elle laisse à Céleste les mots qui lui conviennent pour parler de ce qu’elle vient de vivre."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste demande que la question soit répétée, puis retient le verre fin pour l’essai du profil B.",
+        "next": "Le vendredi, une perception de voix la gêne au moment de choisir où présenter le verre."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "celeste-la-vitre-du-passage",
+      "title": "Entendre une voix dont la source reste incertaine",
+      "description": "Dans le passage, Céleste croit entendre son prénom. Elle perd le fil des indications et choisit de reprendre la discussion ailleurs.",
+      "context": "Devant la vitrine du passage",
+      "topics": [
+        "Perception de voix",
+        "Retentissement sur l’attention",
+        "Évaluation clinique"
+      ],
+      "clinical_focus": "Retentissement d’une perception de voix",
+      "clinical_intro": "Devant la vitrine, Céleste entend son prénom sans savoir d’où vient la voix. Elle perd le fil d’une indication de Rachid. Une perception de voix peut survenir dans des contextes cliniques différents, notamment dans le trouble dissociatif de l’identité. Ce qu’elle a entendu et l’effet sur la conversation sont deux choses qu’elle peut décrire séparément.",
+      "opening": "Le vendredi, Rachid a la clé de la vitrine. La vitrine se trouve dans le passage, à deux portes du collectif, et Jeanne y laisse pour l’instant des bijoux en papier. Il retire un carton à dessin qui servait à caler le fond. Le soleil atteint d’abord le bord inférieur de la vitre. Céleste lui montre le petit verre gris. Si on le met à la hauteur des bijoux en papier, on ne voit que la rayure. Un cran plus bas, le bleu apparaît.\n\nRachid est en train de lui dire de quelle largeur ils disposent quand elle entend son prénom, distinct, tout près. Elle tourne la tête. Anouk tient le carton à dessin contre son manteau. Il y a du monde plus loin dans le passage, mais personne ne semble s’adresser à elle. Céleste regarde la place qu’elle vient de montrer et entend Rachid terminer sa phrase. La dimension lui a échappé. Elle connaît ces moments où elle perçoit une voix sans savoir d’où elle vient. Elle ne sait rien de plus sur celle-ci.\n\nSur le rebord de la vitre, il reste un bout de ruban posé par Jeanne. Céleste le montre du doigt et demande si la mesure concerne tout l’espace ou seulement la largeur après le ruban. Rachid recommence. Un livreur passe derrière eux avec son chariot. Céleste pourrait continuer à demander des précisions dans le passage. Elle préfère prendre le petit verre et écouter la suite au calme, à la table du collectif.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une voix entendue renseigne d’abord sur ce que la personne a perçu",
+          "text": "Entendre une voix dont on ne repère pas la source peut arriver dans des contextes différents. La CIM-11 décrit ce type de perception dans le trouble dissociatif de l’identité et dans des troubles psychotiques, dont la schizophrénie. Le clinicien examine le contexte, l’évolution et l’ensemble des expériences. Une forte désorganisation du discours ou des convictions délirantes, par exemple, font partie des éléments qu’il peut prendre en compte. La localisation apparente d’une voix ne suffit pas à départager les situations.\n\nCéleste a entendu son prénom et ne connaît pas la source de la voix. Elle peut en parler avec sa thérapeute et dire ce que ce moment a changé dans la conversation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une perception de voix peut-elle gêner ce que l’on fait ?",
+          "points": [
+            {
+              "heading": "L’attention quitte l’échange",
+              "text": "Même très brève, la perception peut faire perdre un morceau de conversation.",
+              "examples": [
+                "Céleste tourne la tête et n’entend pas la largeur que Rachid annonce.",
+                "Une personne peut entendre un appel pendant une réunion et manquer le changement d’heure indiqué juste après."
+              ]
+            },
+            {
+              "heading": "Il est difficile de savoir quoi répondre",
+              "text": "Quand la source reste incertaine, la personne peut hésiter entre répondre et attendre de voir si quelqu’un s’adresse à elle.",
+              "examples": [
+                "Dans le passage, Céleste regarde les personnes les plus proches après avoir entendu son prénom.",
+                "Quelqu’un peut hésiter à interrompre un appel pour demander à son interlocuteur s’il vient de parler."
+              ]
+            },
+            {
+              "heading": "Le lieu complique la reprise",
+              "text": "Le bruit ou les passages autour de la personne peuvent ajouter à l’effort pour écouter la suite de l’échange.",
+              "examples": [
+                "Le chariot passe au moment où Céleste voudrait entendre de nouveau la mesure. Elle propose d’aller à la table du collectif.",
+                "Dans un café, une personne peut préférer finir une conversation dehors après avoir perdu deux fois le fil de la discussion."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre l’échange et parler d’une perception de voix",
+          "points": [
+            {
+              "heading": "Retrouver l’information manquante",
+              "objective": "Revenir à la tâche sans devoir trancher l’origine de ce que l’on a entendu.",
+              "exercise": [
+                "Dites à quel endroit vous avez perdu le fil.",
+                "Demandez qu’on répète la seule information dont vous avez besoin.",
+                "Notez-la ou vérifiez-la avec l’autre personne si elle engage une décision."
+              ],
+              "benefit": "Le groupe peut poursuivre l’échange pendant que la question de la perception reste ouverte."
+            },
+            {
+              "heading": "Choisir où écouter la suite",
+              "objective": "Réduire le nombre d’éléments à suivre au même moment.",
+              "exercise": [
+                "Vérifiez si la discussion peut être déplacée ou reportée.",
+                "Proposez un endroit où vous pensez pouvoir écouter plus facilement.",
+                "Gardez la possibilité de revenir plus tard si vous êtes trop gêné pour continuer."
+              ],
+              "benefit": "Un lieu différent peut rendre la conversation plus facile, sans prédire ce que deviendra la perception."
+            },
+            {
+              "heading": "En parler avec un professionnel",
+              "objective": "Faire examiner un vécu qui revient, change ou gêne la vie courante.",
+              "exercise": [
+                "Retenez une situation dont vous souhaitez parler.",
+                "Indiquez ce que vous avez perçu, ce que vous faisiez et ce que vous ignorez encore.",
+                "Demandez comment reprendre contact si l’expérience change ou devient plus difficile à vivre."
+              ],
+              "benefit": "Le professionnel peut situer la perception dans son contexte et décider avec vous s’il faut compléter l’évaluation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La largeur sur le carton",
+      "ending": "À la table, Rachid reporte la largeur utile au dos du carton à dessin. Céleste lui montre l’endroit où elle veut poser les pièces. Anouk met un morceau gris à côté de la cote pour qu’il soit prêt lundi, quand Jeanne passera. Céleste choisit de noter deux phrases pour elle seule. Elle a entendu son prénom près de la vitrine. Elle a manqué la mesure. Elle verra avec sa thérapeute ce qu’il est utile d’en dire. Elle laisse le carton à Rachid et emporte le petit papier dans sa poche.",
+      "conclusion": "Céleste retrouve la dimension de la vitrine. La provenance de la voix reste incertaine, et elle peut en parler en suivi sans attendre de l’avoir déterminée. Lundi, Jeanne viendra regarder le premier montage.",
+      "mirror": [
+        "Rachid peut redonner la mesure ou proposer de reprendre à l’atelier. « Je parlais de l’espace après le ruban. On a le temps de le mettre sur le carton à l’intérieur. » Si Céleste évoque la voix, Anouk peut écouter ce qu’elle veut en dire et lui demander ce dont elle a besoin maintenant. Elle peut s’en tenir à ce qu’elle a elle-même entendu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste fait reprendre la discussion à l’intérieur et conserve, pour le suivi, deux observations distinctes.",
+        "next": "Le lundi, Jeanne vient voir le premier montage. Céleste ressent une distance inhabituelle vis-à-vis de ses gestes et du lieu."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "celeste-le-tissu-sous-la-main",
+      "title": "Le détachement quand un geste familier semble lointain",
+      "description": "Devant Jeanne, Céleste connaît son geste mais le sent lointain. Elle s’interrompt et trouve avec Anouk une autre façon de montrer le profil.",
+      "context": "Au premier essai de présentation",
+      "topics": [
+        "Dépersonnalisation",
+        "Déréalisation",
+        "Pause dans une tâche"
+      ],
+      "clinical_focus": "Détachement de soi et du lieu",
+      "clinical_intro": "Céleste connaît le profil qu’elle montre à Jeanne. Sa main lui semble pourtant lointaine et la table prend un aspect inhabituel. Des sensations de détachement peuvent accompagner le trouble dissociatif de l’identité. Le vécu compte pour elle surtout au moment de décider si elle peut encore montrer un geste précis ou si elle préfère changer de rôle.",
+      "opening": "Le lundi, Jeanne arrive avec la boîte dans laquelle elle compte transporter les deux broches d’essai. Elle veut vérifier que le bord de la plus large passe sous le couvercle. La boîte sent le papier neuf. Céleste a préparé un morceau de tissu noir pour montrer la silhouette du profil B. Anouk a apporté un fermoir de démonstration monté sur un carton. Elles vont présenter séparément les deux éléments, puisque la deuxième pièce n’est pas encore assemblée.\n\nCéleste tient le carton au-dessus du tissu. Elle sait qu’elle doit l’incliner légèrement pour que Jeanne voie le trait de côté. En soulevant le poignet, elle a l’impression que le geste se passe loin d’elle, presque derrière une vitre. Elle voit pourtant les deux petites marques sur son pouce et sait que c’est sa main qui tient le carton. Un instant, la table lui paraît elle aussi comme derrière la vitre. Elle reconnaît la boîte de Jeanne, qui est restée à la même place.\n\nJeanne se penche pour mieux voir. Céleste pourrait prendre la pince pour indiquer la place du fermoir, comme elle le fait souvent quand elle explique un modèle. Elle préfère poser le carton. Le fermoir qu’Anouk a monté sur le carton permettrait de montrer la même chose sans déplacer le verre. Céleste regarde son amie et lui demande si elle peut faire cette partie de la démonstration. Elle veut encore parler du bord, depuis sa chaise.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Reconnaître un geste qui semble pourtant lointain",
+          "text": "La dépersonnalisation désigne une impression d’être à distance de soi, de son corps ou de ses gestes. Dans la déréalisation, le lieu ou les objets peuvent paraître irréels alors que la personne sait qu’ils sont bien réels. Ces expériences peuvent accompagner un TDI ou survenir dans d’autres contextes. Elles ne suffisent pas à établir un changement d’état identitaire. Le trouble de dépersonnalisation-déréalisation correspond à une difficulté qui persiste ou revient et que le clinicien évalue séparément. Un détachement peut accompagner le TDI sans qu’on pose un second diagnostic.\n\nCéleste reconnaît sa main, son carton et la boîte de Jeanne. La sensation d’éloignement gêne quand même un geste précis. Elle choisit de parler du profil assise et de confier la manipulation à Anouk."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le détachement se fait-il sentir pendant une tâche familière ?",
+          "points": [
+            {
+              "heading": "Un geste paraît distant",
+              "text": "La personne peut reconnaître le geste et la partie de son corps qui le fait, tout en se sentant à distance de l’expérience.",
+              "examples": [
+                "Céleste voit sa main tenir le carton et sent son poignet presque derrière une vitre.",
+                "Une personne peut reconnaître sa propre main qui trace une ligne et avoir l’impression de regarder le geste depuis plus loin que d’habitude."
+              ]
+            },
+            {
+              "heading": "Le décor paraît étrange tout en restant familier",
+              "text": "Le lieu peut sembler lointain ou artificiel alors que ses éléments sont reconnaissables.",
+              "examples": [
+                "La table semble derrière une vitre à Céleste, qui voit que la boîte est bien à sa place habituelle pour la démonstration.",
+                "Dans une pièce connue, quelqu’un peut avoir l’impression que les voix arrivent de très loin tout en reconnaissant le lieu et les personnes."
+              ]
+            },
+            {
+              "heading": "La précision d’un geste coûte plus",
+              "text": "Continuer à suivre une explication et faire une manipulation peuvent demander plus d’attention que d’ordinaire.",
+              "examples": [
+                "Céleste peut parler de la ligne sur le carton et préfère confier à Anouk le geste du fermoir.",
+                "Au moment de faire un trait précis sur un patron, une personne peut poser son outil et demander à une collègue de montrer d’abord la ligne sur le dessin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour adapter une tâche quand tout paraît lointain",
+          "points": [
+            {
+              "heading": "Mettre en attente ce qui exige de la précision",
+              "objective": "Éviter de poursuivre une manipulation quand elle devient difficile à suivre.",
+              "exercise": [
+                "Interrompez le geste et mettez le matériel en sécurité si vous le pouvez.",
+                "Dites quelle tâche vous voulez mettre en attente.",
+                "Demandez un relais si une autre personne peut la prendre dans de bonnes conditions."
+              ],
+              "benefit": "La pause permet de décider de la suite sans devoir continuer une manipulation dans le doute."
+            },
+            {
+              "heading": "Retrouver un élément du contexte",
+              "objective": "Choisir un repère simple pour revenir à la situation en cours.",
+              "exercise": [
+                "Si cela vous convient, regardez un objet familier ou demandez à quelqu’un de vous dire à quelle étape vous en êtes.",
+                "Restez sur une seule information à la fois.",
+                "Choisissez si vous souhaitez rester, faire une pause ou reprendre plus tard."
+              ],
+              "benefit": "Un repère peut aider à situer le moment. Vous gardez le choix de la suite même si la sensation ne change pas."
+            },
+            {
+              "heading": "Conserver la part de travail que l’on peut faire",
+              "objective": "Participer sans cumuler une explication et une manipulation.",
+              "exercise": [
+                "Repérez ce que vous souhaitez expliquer ou décider.",
+                "Convenez de qui montre le geste à votre place.",
+                "Dites si vous voulez garder cette répartition pour la suite ou la revoir après la pause."
+              ],
+              "benefit": "Une tâche partagée peut rester possible en ajustant ce que chacun fait."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le fermoir sur le carton",
+      "ending": "Anouk montre le fermoir sur le carton et Jeanne vérifie que le bord passe sous le couvercle. Céleste reprend l’explication depuis sa chaise. Elle explique d’où regarder pour voir le bleu, et Jeanne déplace la boîte près de la fenêtre. À la fin, la table paraît moins lointaine à Céleste. Elle préfère quand même qu’Anouk emporte les deux pièces le vendredi de l’essai si elle est disponible. Jeanne ouvre le calendrier de sa boutique et dit qu’elle relira leur dernier message pour confirmer l’horaire.",
+      "conclusion": "Céleste connaît le geste, mais son impression d’en être éloignée compte dans la manière de le faire. Elle garde l’explication du profil et choisit un relais pour la manipulation. Jeanne va revenir au message qui précise ce qu’elle attend vendredi.",
+      "mirror": [
+        "Anouk peut demander quel morceau de la démonstration prendre. « Je peux montrer le fermoir. Tu veux expliquer le bord depuis ta chaise ? » Si Céleste préfère suspendre la présentation, elles peuvent proposer à Jeanne un autre moment. Anouk peut dire combien de temps elle a et attendre l’accord de Céleste avant de la toucher ou de déplacer ses affaires personnelles."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste interrompt la manipulation, garde l’explication du profil et envisage avec Anouk un relais pour l’essai.",
+        "next": "Jeanne retrouve une promesse écrite qui ne correspond pas au programme que Céleste a sur sa fiche."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "celeste-deux-vendredis-sur-la-fiche",
+      "title": "Quand une lacune de mémoire laisse un engagement incertain",
+      "description": "Jeanne attend six broches vendredi. Céleste retrouve son propre message sans se rappeler l’avoir envoyé et demande à revoir l’accord.",
+      "context": "Au moment de confirmer la commande",
+      "topics": [
+        "Engagements",
+        "Retentissement des lacunes",
+        "Réparation d’un malentendu"
+      ],
+      "clinical_focus": "Engagements difficiles à retracer",
+      "clinical_intro": "Céleste retrouve un message qui annonce six broches à Jeanne pour vendredi et ne se rappelle pas l’avoir envoyé. Une lacune de mémoire peut laisser une personne incertaine de ses engagements dans un trouble dissociatif de l’identité. La difficulté touche les deux côtés de l’accord. Jeanne a préparé sa vitrine et Céleste doit confirmer ce qui est réalisable.",
+      "opening": "Le mardi matin, Jeanne répond au dernier courriel sur les broches. « Très bien pour les six vendredi. Je préparerai l’espace en conséquence. » Céleste ouvre le registre et suit du doigt les deux lignes qu’elle a écrites. Deux broches pour l’essai de ce vendredi, puis six pour l’ouverture du vendredi suivant. Elle sait pourquoi elles ont prévu une semaine entre les deux. Anouk attend encore les fermoirs des quatre dernières pièces.\n\nSous la réponse de Jeanne se trouve le message de vendredi dernier, depuis l’adresse personnelle de Céleste. Elle y reconnaît sa façon de mettre le nom de la série en bas. Une phrase annonce que les six seront prêtes vendredi. L’heure d’envoi se situe entre deux moments dont elle se rappelle, la discussion devant la vitrine et le retour chez elle. Elle ne se souvient pas d’avoir écrit le message. Elle ne sait pas non plus si Jeanne a déplacé d’autres objets en comptant sur ces six places.\n\nElle commence une réponse où elle promet de trouver un moyen de terminer à temps. Puis elle ouvre le tiroir. Il y a deux fermoirs dans le compartiment de gauche et le bon de livraison des autres sous un élastique. L’arrivée est annoncée pour lundi. Céleste efface sa phrase. Elle demande à Rachid de vérifier avec elle le nombre de pièces que l’équipe peut réellement livrer. Le rendez-vous de vendredi peut encore avoir un sens si Jeanne accepte de revoir ce qu’elles y feront.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un engagement peut rester réel quand son souvenir manque",
+          "text": "Une lacune de mémoire peut rendre difficile le suivi des promesses et des décisions dans le trouble dissociatif de l’identité. Les personnes concernées peuvent retrouver ce qui a été dit grâce à un message ou au témoignage de quelqu’un, sans retrouver le souvenir correspondant. L’interlocuteur, lui, a pu préparer son travail à partir de ce qu’il a compris.\n\nCéleste distingue l’existence du message, le nombre de pièces prêtes et ce qu’elle ignore encore. Sa réponse porte sur le délai qu’elle peut tenir et sur ce que Jeanne a prévu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une lacune pèse-t-elle sur un engagement commun ?",
+          "points": [
+            {
+              "heading": "Une promesse est connue par sa trace",
+              "text": "La personne peut avoir à répondre d’une décision dont elle retrouve les mots seulement en la relisant.",
+              "examples": [
+                "Jeanne attend six broches et Céleste retrouve la promesse dans son propre courriel.",
+                "Une personne peut relire sa confirmation pour tenir un stand le samedi alors qu’elle n’a pas le souvenir d’avoir dit oui."
+              ]
+            },
+            {
+              "heading": "Le même accord peut être compris de deux façons",
+              "text": "Les personnes impliquées peuvent agir à partir de repères différents quand une information n’a pas été confirmée au même endroit.",
+              "examples": [
+                "Céleste suit la fiche à deux dates. Jeanne organise l’espace à partir du dernier message reçu.",
+                "Dans un groupe, quelqu’un peut retrouver un rendez-vous noté à 14 heures alors que son interlocuteur s’appuie sur un message qui le fixe à 15 heures."
+              ]
+            },
+            {
+              "heading": "Une deuxième promesse risque de prolonger le problème",
+              "text": "Quand il manque un repère, vouloir résoudre le malentendu trop vite peut pousser à donner une réponse qu’on ne peut pas vérifier.",
+              "examples": [
+                "Céleste commence par promettre qu’elle terminera quand même. Les fermoirs attendus lundi lui montrent qu’il faut revoir cette réponse.",
+                "Une personne peut vouloir confirmer un prêt dont elle ne retrouve pas les détails avant de vérifier si l’objet est encore à disposition."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour revoir un accord dont il manque une partie",
+          "points": [
+            {
+              "heading": "Vérifier ce qui peut vraiment être tenu",
+              "objective": "Établir ce que l’équipe peut faire avant de donner une nouvelle date.",
+              "exercise": [
+                "Relisez la promesse ou demandez qu’on vous la transmette.",
+                "Vérifiez les quantités, les étapes ou les personnes réellement disponibles.",
+                "Indiquez ce que vous pouvez confirmer et ce qui reste à discuter."
+              ],
+              "benefit": "Une réponse appuyée sur le travail disponible évite d’ajouter une nouvelle promesse incertaine."
+            },
+            {
+              "heading": "Reconnaître l’effet sur l’autre personne",
+              "objective": "Laisser une place à ce que l’interlocuteur a préparé.",
+              "exercise": [
+                "Nommez ce que votre dernier message lui a donné à attendre.",
+                "Demandez ce qu’il a déjà organisé.",
+                "Proposez un autre accord et laissez-lui le temps de répondre."
+              ],
+              "benefit": "Cette démarche peut permettre de trouver une solution praticable pour les deux personnes."
+            },
+            {
+              "heading": "Garder les confirmations ensemble",
+              "objective": "Donner à chacun une référence pour les prochains délais.",
+              "exercise": [
+                "Choisissez un endroit où l’équipe peut relire les engagements confirmés.",
+                "Inscrivez séparément l’essai, la livraison et les points en attente.",
+                "Mettez la date à jour quand la personne concernée a accepté le changement."
+              ],
+              "benefit": "Une confirmation accessible peut réduire les écarts entre ce que les personnes pensent avoir convenu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le trait bleu dans le registre",
+      "ending": "Rachid compte les pièces avec elle. Céleste appelle Jeanne et lui dit que son courriel annonçait six pièces trop tôt. Elle lui propose les deux broches pour vérifier l’emplacement le premier vendredi, puis les six pour l’ouverture le suivant. Jeanne a réservé le panneau et peut l’utiliser d’abord pour l’essai. Elle demande un horaire avant jeudi. Rachid trace une ligne bleue dans le registre pour séparer les deux dates, puis inscrit l’accord. Céleste envoie le même texte à Jeanne et au collectif. Le tiroir des fermoirs peut rester tel quel jusqu’à lundi.",
+      "conclusion": "Le message a eu un effet réel sur l’organisation de Jeanne. Céleste a pu en parler sans promettre davantage que l’équipe ne peut faire. L’accord tient maintenant sur deux lignes, que le collectif pourra relire avant la réunion.",
+      "mirror": [
+        "Rachid peut aider à vérifier le stock avec l’accord de Céleste. « Je compte les fermoirs avec toi. Tu veux appeler Jeanne seule ou qu’on lui parle ensemble ? » Jeanne peut dire de combien de pièces elle a besoin et ce qu’elle accepte de déplacer. Chacun peut prendre sa part de la discussion sans demander à Céleste pourquoi elle ne se rappelle pas le message."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Céleste reconnaît l’écart avec le courriel et convient de deux remises séparées, consignées au registre.",
+        "next": "Au collectif, la question se pose de savoir quelles raisons donner à l’équipe et lesquelles Céleste souhaite garder privées."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "celeste-une-ligne-pour-le-collectif",
+      "title": "L’effort que cachent des tâches menées à bien",
+      "description": "Le collectif voit que Céleste tient les délais. Pour y parvenir, elle passe une partie de ses matinées à vérifier où en est le travail.",
+      "context": "Avant la réunion du collectif",
+      "topics": [
+        "Effort de compensation",
+        "Fatigue au travail",
+        "Confidentialité"
+      ],
+      "clinical_focus": "Surcroît d’effort pour tenir ses tâches",
+      "clinical_intro": "Céleste a pu confirmer deux broches pour l’essai. Ce que le collectif ne voit pas, c’est le temps passé à relire les fiches et les messages pour s’assurer qu’elle n’a laissé passer aucune décision. Dans le trouble dissociatif de l’identité, maintenir certaines activités peut demander un effort important. Céleste cherche comment alléger le sien sans raconter son suivi à toute l’équipe.",
+      "opening": "Mercredi, Céleste est la première à l’atelier. Elle a apporté la feuille de papier fort sur laquelle elle doit dessiner le support des six broches. Elle préfère laisser du vide autour de chaque pièce. Sur les présentoirs de Jeanne, les bijoux voisins se font parfois de l’ombre. Elle pose sa réglette sur la feuille et trouve à peu près la place de la première broche.\n\nAvant de tracer, elle veut vérifier que les dates du registre et le message à Jeanne concordent bien. Le trait bleu est là, exactement où Rachid l’a mis la veille. Céleste relit tout de même le courriel entier. Puis elle compare la fiche B avec la pochette de verre. Elle a pris l’habitude de faire ce tour chaque fois qu’elle arrive. Quand une partie de sa journée lui manque, elle ne sait pas d’emblée à quel endroit cela change le travail. Aujourd’hui, les trois documents sont d’accord. Elle lève les yeux et entend déjà les autres s’installer pour la réunion. Elle n’a tracé qu’un coin du support.\n\nAnouk lui dit qu’elle peut porter les deux broches vendredi à dix heures, avant son autre commande. Céleste lui demande de rester une minute après la réunion. Elle voudrait que quelqu’un d’autre tienne à jour les remises dans le registre. Elle a passé sa matinée à s’en assurer. Elle ne veut pas que l’équipe apprenne le nom de son trouble au détour d’une demande de coup de main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une tâche accomplie peut avoir demandé beaucoup plus de travail",
+          "text": "Dans le trouble dissociatif de l’identité, le retentissement peut se voir dans l’effort nécessaire pour maintenir une activité, même quand le résultat paraît habituel. Vérifier ce qui reste à faire après des lacunes peut prendre du temps et laisser moins d’attention pour une autre tâche. Les besoins diffèrent d’une personne à l’autre et d’un moment à l’autre.\n\nLe collectif voit deux remises clairement datées. Céleste voit aussi le temps qu’elle passe à recouper les informations au lieu de dessiner. Elle veut faire connaître ce besoin précis et choisir ce qu’elle dit de sa santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le surcroît d’effort se manifeste-t-il au travail ?",
+          "points": [
+            {
+              "heading": "La vérification prend une partie du temps prévu",
+              "text": "Une tâche peut être terminée dans les délais au prix de vérifications que personne n’avait prévues dans la journée.",
+              "examples": [
+                "Céleste relit le courriel et le registre avant de commencer le support. Quand la réunion débute, elle a tracé un seul coin.",
+                "Une personne peut arriver tôt à une réunion pour relire toutes les décisions d’un dossier dont certaines discussions lui manquent."
+              ]
+            },
+            {
+              "heading": "La reprise est à refaire à plusieurs endroits",
+              "text": "Quand les repères sont dispersés, retrouver la suite du travail peut exiger de comparer plusieurs informations.",
+              "examples": [
+                "Pour le même projet, Céleste passe du registre au courriel, puis de la fiche B à la pochette de verre.",
+                "Au retour d’une pause, quelqu’un peut devoir relire deux carnets et la conversation de son équipe avant de savoir quel dessin reprendre."
+              ]
+            },
+            {
+              "heading": "Il reste moins de place pour le travail qu’on aime",
+              "text": "Les vérifications peuvent permettre d’avancer tout en entamant le temps ou l’attention disponibles pour le reste.",
+              "examples": [
+                "Céleste a les dates en tête au début de la réunion. Elle n’a plus le temps d’essayer l’espacement qu’elle imaginait pour les six broches.",
+                "Après avoir rapproché plusieurs listes de commandes, une personne peut devoir remettre au lendemain l’essai de matière qu’elle avait préparé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour réduire le travail de vérification",
+          "points": [
+            {
+              "heading": "Repérer la vérification qui prend le plus de place",
+              "objective": "Choisir un seul effort de reprise à alléger d’abord.",
+              "exercise": [
+                "Pensez à une tâche que vous avez pu terminer récemment.",
+                "Identifiez la vérification qui vous a demandé le plus de temps ou d’attention.",
+                "Retenez celle pour laquelle un changement serait utile cette semaine."
+              ],
+              "benefit": "Cette observation aide à demander un aménagement précis, même si le résultat du travail semble satisfaisant."
+            },
+            {
+              "heading": "Faire tenir une information à un seul endroit",
+              "objective": "Éviter de comparer plusieurs documents pour obtenir la même réponse.",
+              "exercise": [
+                "Choisissez avec l’équipe une information à centraliser, par exemple les dates validées.",
+                "Convenez du document à consulter et de qui le met à jour.",
+                "Essayez cette règle sur une remise et discutez de ce qu’elle vous a épargné."
+              ],
+              "benefit": "Il peut rester moins de vérifications à refaire au début d’une tâche."
+            },
+            {
+              "heading": "Préparer les mots de la demande",
+              "objective": "Demander un appui en choisissant ce que l’on partage.",
+              "exercise": [
+                "Formulez le changement dont vous avez besoin dans le travail.",
+                "Choisissez les personnes qui doivent en entendre parler.",
+                "Si quelqu’un veut en dire plus à votre place, indiquez ce que vous souhaitez garder pour vous."
+              ],
+              "benefit": "Une demande centrée sur la tâche donne à l’équipe une décision à prendre et vous laisse choisir les détails personnels."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne que Rachid tient à jour",
+      "ending": "Après la réunion, Céleste demande elle-même à Rachid de tenir à jour les remises dans le registre et de signaler tout changement au collectif. Il accepte pour cette série. Anouk confirme à Jeanne l’essai de vendredi à dix heures, avec deux pièces, et Rachid inscrit l’horaire. Pour le compte rendu, Céleste dit à Anouk qu’elle veut s’en tenir au nom de la personne qui tient le registre et au prochain rendez-vous. Anouk lui montre la ligne avant de l’envoyer. Céleste récupère sa feuille. Sur le papier fort, elle dessine deux rangées de trois emplacements et garde la bande de droite assez large pour le titre. Le soir, elle note sur un prospectus ce qui s’est passé quand elle a oublié le numéro d’un portail qu’on venait de lui dire. Elle a pris rendez-vous avec son médecin pour le lendemain.",
+      "conclusion": "Les deux remises étaient déjà convenues. En confiant la mise à jour des dates à Rachid, Céleste essaie de réduire l’effort pour les suivre. Elle a maintenant une place pour le dessin et un rendez-vous à honorer avec Anouk. Les oublis qui la gênent ailleurs auront leur propre discussion.",
+      "mirror": [
+        "Anouk peut demander quelle phrase laisser dans le compte rendu. « J’écris que Rachid met le registre à jour. Ça te va ? » Elle peut dire quelle partie elle a le temps de prendre, ici confirmer l’heure à Jeanne et porter les pièces. Si quelqu’un lui demande pourquoi Céleste a proposé ce changement, elle peut revenir à l’organisation retenue et laisser à son amie le choix d’en dire plus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi",
+        "apa-trauma-complexe"
+      ],
+      "continuity": {
+        "choice": "Rachid tient à jour les remises. Anouk confirme à Jeanne deux broches vendredi à dix heures. Le compte rendu reste centré sur le travail.",
+        "next": "Jeudi, Céleste consulte son médecin pour des oublis récents qui lui paraissent différents de ses lacunes habituelles."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "celeste-le-papier-du-medecin",
+      "title": "Des oublis inhabituels malgré un trouble dissociatif connu",
+      "description": "Depuis quelques jours, Céleste perd des informations qu’elle vient d’entendre. Comme ces oublis diffèrent de ses lacunes habituelles, elle consulte.",
+      "context": "Au cabinet du médecin traitant",
+      "topics": [
+        "Changement des oublis",
+        "Autres causes possibles",
+        "Consultation médicale"
+      ],
+      "clinical_focus": "Changement inhabituel des oublis",
+      "clinical_intro": "Céleste connaît les lacunes où une partie de sa journée lui manque. Depuis plusieurs jours, elle se rappelle certaines conversations mais perd rapidement l’information qu’elle vient d’y entendre. Une évolution inhabituelle des oublis mérite un avis médical, même quand un trouble dissociatif de l’identité est déjà connu. Céleste veut expliquer ce qui a changé et savoir à qui s’adresser ensuite.",
+      "opening": "Jeudi, le médecin de Céleste a deux crayons sur son bureau. L’un porte la marque du magasin de chaussures qui a fermé dans sa rue. Elle connaît cette enseigne depuis l’enfance. Elle le regarde le temps de trouver par où commencer. Il connaît le diagnostic pour lequel elle voit sa thérapeute. Ce qui l’amène aujourd’hui est plus difficile à expliquer que la fois où elle a perdu une partie du vendredi.\n\nDepuis dimanche, elle a plusieurs fois oublié une information presque aussitôt reçue. Au téléphone, sa sœur lui a donné l’étage où livrer un livre. Céleste se rappelle le rire de sa sœur juste avant la réponse. Elle a dû lui redemander l’étage au cours du même appel. Mardi, la pharmacienne lui a donné une heure pour venir chercher une commande. Céleste se rappelle avoir posé son cabas et entendu la réponse, mais dehors elle ne retrouvait plus l’heure. Ça recommence mercredi avec le numéro d’un portail qu’elle vient d’entendre. À l’atelier, il lui arrive plutôt de retrouver les traces d’un travail qu’elle ne se souvient pas d’avoir fait. C’est la répétition des petits oublis, dans plusieurs situations, qui l’a décidée à appeler le cabinet.\n\nCéleste a écrit deux de ces exemples sur le dos d’un prospectus. Elle l’a laissé près de son trousseau pour penser à l’emporter. Elle le sort de sa poche. Dans un coin, elle a aussi noté que ses nuits ont été hachées cette semaine. Elle ne sait pas quel rapport il y a, ni s’il y en a un. Elle tend le papier au médecin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui change dans les oublis mérite d’être examiné",
+          "text": "Des oublis qui persistent, s’aggravent ou changent et gênent la vie courante justifient un avis médical. Même quand un trouble dissociatif de l’identité a été diagnostiqué, le médecin peut rechercher une autre explication. Selon la situation, il s’intéresse entre autres au sommeil, aux effets de médicaments ou d’autres substances et à des causes neurologiques possibles. Ces pistes ne se départagent pas à partir d’un exemple.\n\nCéleste vient pour un changement apparu sur plusieurs jours. En France, une perte de mémoire brutale avec une difficulté à parler ou une faiblesse d’un membre, par exemple, justifie d’appeler sans attendre le 15 ou le 112."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un changement dans les oublis peut-il devenir perceptible ?",
+          "points": [
+            {
+              "heading": "Il ne ressemble pas aux difficultés habituelles",
+              "text": "La personne peut remarquer que ce qu’elle perd ou ce qui lui reste en mémoire a changé.",
+              "examples": [
+                "Céleste se rappelle avoir parlé à la pharmacienne, mais l’heure qu’elle vient d’entendre lui échappe.",
+                "Quelqu’un qui connaît des intervalles dont il ne se rappelle rien peut remarquer qu’il se souvient cette fois d’une conversation tout en oubliant, à plusieurs reprises, les réponses qu’on vient de lui donner."
+              ]
+            },
+            {
+              "heading": "Il se répète au-delà d’une seule situation",
+              "text": "Le fait de rencontrer la difficulté à plusieurs reprises donne un point de départ pour décrire son évolution.",
+              "examples": [
+                "Entre dimanche et mercredi, Céleste remarque des oublis lors d’un déplacement, chez elle au téléphone et à l’entrée d’un bâtiment.",
+                "Une personne peut devoir redemander plusieurs jours de suite une information qui vient de lui être donnée, au travail comme à la maison."
+              ]
+            },
+            {
+              "heading": "Des activités simples demandent une aide nouvelle",
+              "text": "Un oubli qui change peut se mesurer à ce qu’il oblige à refaire ou à demander dans la vie courante.",
+              "examples": [
+                "Céleste s’interrompt pendant son appel pour redemander à sa sœur l’étage où elle doit porter un livre.",
+                "Quelqu’un peut commencer à faire confirmer par écrit chaque heure de rendez-vous au cours d’une semaine où les horaires transmis oralement lui échappent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire examiner des oublis qui changent",
+          "points": [
+            {
+              "heading": "Prendre un avis sans attendre d’avoir une explication",
+              "objective": "Présenter le changement au médecin plutôt que le rattacher d’emblée à un trouble connu.",
+              "exercise": [
+                "Contactez le médecin si les oublis persistent, s’aggravent ou vous inquiètent.",
+                "Dites depuis quand ils vous semblent différents et ce qu’ils compliquent.",
+                "Si des troubles de mémoire surviennent brutalement avec un signe tel qu’une difficulté à parler, appelez les urgences sans attendre le rendez-vous."
+              ],
+              "benefit": "Le professionnel peut décider de la suite selon la situation que vous décrivez."
+            },
+            {
+              "heading": "Apporter deux situations récentes",
+              "objective": "Donner au médecin des exemples qu’il pourra comparer à vos difficultés habituelles.",
+              "exercise": [
+                "Notez, si vous le pouvez, la date approximative et le contexte de deux oublis.",
+                "Indiquez ce qui est resté dans votre souvenir et ce qui vous a manqué.",
+                "Apportez les informations demandées sur votre sommeil, votre santé ou les traitements en cours."
+              ],
+              "benefit": "Le médecin peut s’appuyer sur des faits concrets sans qu’il soit nécessaire de reconstituer chaque journée."
+            },
+            {
+              "heading": "Garder une trace de la suite proposée",
+              "objective": "Savoir quoi faire après l’entretien et vers qui revenir.",
+              "exercise": [
+                "Demandez quelles démarches sont prévues et par qui.",
+                "Vérifiez avec le médecin dans quelles circonstances le recontacter.",
+                "Gardez le rendez-vous ou la consigne écrite là où vous pourrez la retrouver."
+              ],
+              "benefit": "Une consigne accessible facilite le relais, même si le premier entretien ne permet pas encore d’expliquer les oublis."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux exemples au dos du prospectus",
+      "ending": "Le médecin reprend les dates avec Céleste et lui pose des questions sur son sommeil, ses traitements et le déroulé des oublis. Il l’examine. Il ne peut pas encore lui dire à quoi attribuer le changement. Il propose un bilan adapté et note la suite sur un papier que Céleste peut glisser avec son agenda. Elle lui demande quand rappeler si les oublis changent de nouveau et garde sa prochaine séance de psychothérapie. En rentrant, elle relit aussi la ligne du registre envoyée par Rachid. Anouk porte les deux broches chez Jeanne. Céleste ira regarder leur emplacement.",
+      "conclusion": "Un diagnostic déjà posé aide à raconter les difficultés habituelles. Il ne donne pas à lui seul la cause d’un changement. Céleste repart avec une suite médicale et conserve un rôle limité pour l’essai du lendemain.",
+      "mirror": [
+        "Si Céleste le souhaite, Anouk peut lui donner un fait qu’elle a directement observé ou l’aider à prendre un rendez-vous. « Tu veux que je vienne jusqu’au cabinet ou tu préfères y aller seule ? » Elle peut aussi porter les deux pièces comme convenu. Elle ne change pas le suivi de Céleste et ne décide pas de l’origine des oublis."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-bilan-memoire",
+        "ameli-troubles-memoire"
+      ],
+      "continuity": {
+        "choice": "Céleste fait examiner la modification des oublis, repart avec la suite du bilan et garde son prochain rendez-vous de psychothérapie.",
+        "next": "Vendredi à dix heures, Anouk apporte les deux broches et Céleste regarde avec Jeanne où les placer."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "celeste-deux-broches-a-lessai",
+      "title": "Quand on ne sait pas à quel souvenir rattacher une image",
+      "description": "À l’essai des deux broches, une image revient à Céleste. Elle ne sait pas si elle correspond à une scène qu’elle a vécue.",
+      "context": "Dans la boutique, au premier vendredi",
+      "topics": [
+        "Souvenir fragmentaire",
+        "Incertitude",
+        "Questions non suggestives"
+      ],
+      "clinical_focus": "Incertitude autour d’un souvenir fragmentaire",
+      "clinical_intro": "Devant la vitrine, une image revient à Céleste sans qu’elle puisse la rattacher à un moment précis. Les lacunes du trouble dissociatif de l’identité peuvent laisser des questions ouvertes sur ce qui s’est passé. Le fragment qu’elle a en tête et la décision à prendre aujourd’hui n’ont pas besoin d’une réponse commune. Céleste peut laisser le premier incertain et regarder les broches avec Jeanne.",
+      "opening": "Vendredi à dix heures, Anouk arrive devant la vitrine avec la boîte de Jeanne. Les deux broches sont calées dans le papier. Céleste reconnaît le verre fin de la plus large à la petite rayure qui attrape le bleu. Le bord passe sous le couvercle comme Jeanne l’avait prévu. Céleste étend le tissu noir sur le plateau pendant que Jeanne retire les bijoux en papier. Il reste deux petites bandes de ruban sur le fond de la vitrine.\n\nEn voyant la bande du bas, Céleste a en tête l’image d’une broche inclinée, traversée par une raie bleue. L’image lui paraît familière. Elle ne sait pas si elle revoit un essai devant la vitre, une idée venue en dessinant ou quelque chose qu’elle a regardé ailleurs. Elle se rappelle les deux pièces dans le casier cette semaine. Elle ne retrouve pas le moment auquel associer cette image. Jeanne lui demande quelle disposition elle avait en tête. Céleste ouvre la bouche pour dire qu’elles avaient retenu l’angle du bas. Elle s’arrête au mot « retenu ».\n\nAnouk défait le pli du papier autour de la deuxième broche. Anouk tourne la broche la plus large vers le ruban et la rayure disparaît presque. Céleste se penche pour voir si le bord reste lisible dans cette position. Elle dit à Jeanne qu’elle a une image en tête sans savoir d’où elle lui vient. Puis elle lui demande si elles peuvent regarder les deux positions avec les pièces qui sont là.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un détail familier ne permet pas toujours de situer ce qui s’est passé",
+          "text": "Un fragment qui revient à l’esprit peut être difficile à situer quand une partie du souvenir manque. Dans le suivi du trouble dissociatif de l’identité, cette incertitude peut être accueillie sans compléter les blancs ni suggérer un événement. Une impression de familiarité ou une image précise ne suffit pas à vérifier qu’un événement a eu lieu. Le TDI est souvent associé à des expériences traumatiques graves ou répétées. Une image, un symptôme ou une lacune ne permet pas d’en déduire une histoire particulière.\n\nÀ la vitrine, Céleste peut dire que l’image est là et que son origine lui échappe. Les broches sont disponibles pour essayer une disposition aujourd’hui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’incertitude peut-elle se présenter quand un fragment revient ?",
+          "points": [
+            {
+              "heading": "Un détail revient sans date ni lieu sûr",
+              "text": "Une image peut être accessible alors que la personne ne parvient pas à la relier à un moment précis.",
+              "examples": [
+                "Céleste a en tête une broche de biais et un reflet bleu. Elle ne sait pas où elle aurait vu cet angle.",
+                "Une personne peut avoir en tête un tissu rouge plié sur une table sans savoir à quelle visite elle associe cette image."
+              ]
+            },
+            {
+              "heading": "Une impression de familiarité se mêle à ce qui est vérifiable",
+              "text": "Il peut rester difficile de distinguer ce que l’on se rappelle d’une idée déjà envisagée ou d’une information lue depuis.",
+              "examples": [
+                "La rayure et le ruban sont bien devant Céleste. Elle ne sait pas s’ils appartiennent à la scène qu’elle croit revoir.",
+                "Quelqu’un peut trouver une image de son dessin très familière sans savoir s’il l’a vue sur le papier ou imaginée en préparant le projet."
+              ]
+            },
+            {
+              "heading": "Une réponse attendue donne envie de conclure",
+              "text": "Quand quelqu’un attend une décision, il peut être tentant de présenter comme certain un détail que l’on situe mal.",
+              "examples": [
+                "Devant Jeanne, Céleste est sur le point de dire qu’elles avaient déjà retenu l’angle qui lui vient à l’esprit.",
+                "Interrogée sur le lieu d’un repas ancien, une personne peut être tentée de donner le nom du premier endroit qui lui revient, même si elle hésite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser ouvert un souvenir incertain",
+          "points": [
+            {
+              "heading": "Employer les mots qui correspondent à ce que l’on sait",
+              "objective": "Pouvoir parler du fragment sans lui donner un statut qu’il n’a pas.",
+              "exercise": [
+                "Dites ce qui vous revient si vous souhaitez en parler.",
+                "Indiquez ce qui reste incertain, comme la date ou le lieu.",
+                "Arrêtez-vous là si vous ne voulez pas poursuivre la conversation."
+              ],
+              "benefit": "Ces mots laissent une place à ce que vous vivez sans transformer une impression en certitude."
+            },
+            {
+              "heading": "Prendre la décision qui appartient au présent",
+              "objective": "Poursuivre une tâche quand la question du passé peut rester ouverte.",
+              "exercise": [
+                "Précisez ce qu’il faut décider maintenant.",
+                "Regardez les éléments disponibles pour cette décision.",
+                "Faites un essai réversible si cela suffit pour choisir."
+              ],
+              "benefit": "Un essai peut faire avancer le travail même quand le fragment reste difficile à situer."
+            },
+            {
+              "heading": "Apporter la question en séance si elle prend de la place",
+              "objective": "Trouver un espace pour parler de l’incertitude ou de la gêne qu’elle entraîne.",
+              "exercise": [
+                "Dites à la thérapeute quel aspect vous préoccupe.",
+                "Expliquez ce que vous souhaitez aborder et ce que vous préférez laisser en suspens.",
+                "Convenez avec elle de la façon de poursuivre ou de mettre le sujet en pause."
+              ],
+              "benefit": "Le suivi peut s’intéresser à ce que cette incertitude change dans le présent sans chercher à faire apparaître un souvenir."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux angles dans la même lumière",
+      "ending": "Jeanne pose les deux broches sur le tissu noir, d’abord à plat, puis légèrement inclinées. Dans la deuxième position, le verre de la plus large prend le bleu sans masquer la ligne de laiton. Céleste demande qu’on retienne cette disposition et l’indique au crayon sur la fiche B. Les deux broches restent chez Jeanne, dans la vitrine fermée, jusqu’à l’ouverture. Quatre places seront à remplir le vendredi suivant. En quittant la boutique, Céleste pense encore à l’image du début. Elle ne sait toujours pas à quel moment la rattacher. Elle pourra dire en séance que l’incertitude l’a gênée et que l’essai lui a permis de décider.",
+      "conclusion": "L’image de la broche inclinée garde une origine incertaine. L’essai a donné une réponse à la question de Jeanne, celle de la disposition des pièces. Céleste pourra reprendre le carton à six places lundi sans attendre une autre réponse sur le passé.",
+      "mirror": [
+        "Jeanne peut accueillir un « je ne sais pas » et ramener la discussion à ce qui est devant elles. « Je peux te montrer les deux positions. Tu veux qu’on décide maintenant ou qu’on prenne un moment ? » Si Céleste évoque son image, Anouk peut écouter et éviter les questions qui contiennent déjà une réponse. Elle peut aussi dire qu’elle ne sait pas si cette scène a eu lieu."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Les deux premières broches sont essayées et restent dans la vitrine fermée. Céleste choisit leur angle à partir de ce qu’elles voient ensemble.",
+        "next": "Les quatre fermoirs arrivent lundi. Après des journées plus faciles, Céleste retrouve un vécu de détachement en préparant le support des six pièces."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "celeste-le-carton-a-six-places",
+      "title": "Le retour du détachement après quelques jours plus faciles",
+      "description": "Le carton avançait bien depuis lundi. Quand le geste lui paraît de nouveau lointain, Céleste revoit le déroulement de l’ouverture avec le collectif.",
+      "context": "Entre l’atelier et la séance de suivi",
+      "topics": [
+        "Fluctuations du trouble",
+        "Retour du détachement",
+        "Ajustements du suivi"
+      ],
+      "clinical_focus": "Évolution fluctuante des difficultés dissociatives",
+      "clinical_intro": "Depuis lundi, Céleste prépare le support des six broches avec moins de difficulté. Le mercredi, le geste de sa main lui semble de nouveau lointain. Le trouble dissociatif de l’identité peut évoluer par périodes, avec des difficultés qui reviennent après une accalmie. Céleste en parle en séance et cherche un ajustement pour le jour de l’ouverture.",
+      "opening": "Les quatre fermoirs sont arrivés lundi. Anouk les a posés dans le compartiment de droite, et Céleste a pu passer la journée à terminer le carton de la vitrine. Le mardi, elle a même ajouté des petites fentes pour qu’on puisse retirer chaque broche sans prendre appui sur la voisine. Rachid a installé le carton vide près de la fenêtre. On pouvait y lire les six places d’un seul coup d’œil.\n\nMercredi, Céleste revient pour finir la bande qui portera le titre. Elle tient le bout de papier contre le carton. Sa main lui paraît brusquement loin, comme le jour de la démonstration avec Jeanne. Elle sait que c’est elle qui tient la bande. Elle voudrait la poser droit, mais ne se sent plus assez près de son geste pour voir si elle l’appuie au bon endroit. Elle la dépose à côté. L’ouverture approche. On parle dans l’atelier d’une livraison qui prend du retard et quelqu’un cherche une table libre. Céleste a prévu de passer en séance dans l’après-midi. Elle emporte le nom de la série sur la petite bande de papier, qu’elle a glissée dans son agenda.\n\nChez sa thérapeute, elle a brièvement parlé du moment où elle a entendu son prénom près de la vitrine. Le petit papier est toujours dans son agenda. Quand elle parle du carton, elle décrit d’abord lundi et mardi. Le support avait avancé. Elle avait commencé à se demander si elle pouvait faire toute la mise en place elle-même vendredi. Puis elle lui parle du moment où sa main lui a semblé de nouveau lointaine. Elle a du mal à savoir sur laquelle de ces journées compter pour préparer la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une accalmie et le retour d’une difficulté font partie de la même évolution",
+          "text": "Le trouble dissociatif de l’identité évolue souvent de façon fluctuante. Certaines difficultés peuvent s’atténuer puis revenir. Des périodes plus éprouvantes peuvent coïncider avec leur retour, sans qu’un événement précis suffise à l’expliquer. On peut regarder ce qui s’est passé au fil de plusieurs jours, puis ajuster le soutien à ce qui gêne aujourd’hui.\n\nCéleste a fait des choix utiles pour le carton pendant deux journées plus faciles. Mercredi, une sensation qu’elle connaît revient. Elle garde par ailleurs la suite médicale prévue pour les oublis inhabituels qu’elle a signalés à son médecin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les fluctuations du trouble peuvent-elles se voir au fil des jours ?",
+          "points": [
+            {
+              "heading": "Une activité retrouve de la fluidité",
+              "text": "Pendant une accalmie, un geste ou une décision peuvent être moins souvent interrompus par les difficultés dissociatives.",
+              "examples": [
+                "Céleste a pu finir les six emplacements et ajouter les fentes avant de revoir la disposition avec Rachid.",
+                "Une personne qui se sent parfois à distance de ses gestes peut passer plusieurs jours à dessiner sans avoir besoin de faire une pause pour cette raison."
+              ]
+            },
+            {
+              "heading": "Une difficulté connue revient",
+              "text": "Le vécu peut changer de nouveau alors que les repères et le travail déjà fait sont encore là.",
+              "examples": [
+                "Devant le même carton, Céleste sent sa main lointaine au moment de poser le titre.",
+                "Après plusieurs journées continues, quelqu’un peut retrouver une lacune sur une partie d’un après-midi de travail."
+              ]
+            },
+            {
+              "heading": "Une prévision faite pendant l’accalmie mérite d’être revue",
+              "text": "Il peut être difficile de prévoir l’aide dont on aura besoin à partir d’une seule journée, même si elle s’est bien passée.",
+              "examples": [
+                "Céleste envisageait de tout installer elle-même vendredi. Elle souhaite maintenant avoir un relais pour la mise en place.",
+                "Après une semaine où les réunions ont été faciles à suivre, une personne peut prévoir de nouveau une pause ou un bref compte rendu quand des difficultés familières reviennent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster ses appuis quand les difficultés reviennent",
+          "points": [
+            {
+              "heading": "Comparer des moments plutôt que juger sa semaine",
+              "objective": "Décrire une variation sans résumer toute la période au dernier moment difficile.",
+              "exercise": [
+                "Choisissez un moment où la tâche a été plus facile et un autre où la difficulté est revenue.",
+                "Pour chacun, nommez une chose que vous avez pu faire et une chose qui vous a demandé un appui.",
+                "Apportez ces deux exemples en séance si vous souhaitez en parler."
+              ],
+              "benefit": "Les deux exemples donnent une image plus utile pour le suivi qu’un bilan établi sur la seule journée la plus difficile."
+            },
+            {
+              "heading": "Prévoir un relais qui peut rester en réserve",
+              "objective": "Garder un projet possible même s’il est difficile de prévoir comment on se sentira le jour venu.",
+              "exercise": [
+                "Choisissez une tâche qui peut être confiée à une autre personne si nécessaire.",
+                "Vérifiez qu’elle est disponible et qu’elle sait ce que cette tâche comprend.",
+                "Convenez d’une façon simple de demander le relais le jour même."
+              ],
+              "benefit": "Un relais prévu permet d’ajuster la journée à ce qui se passe au moment de la tâche."
+            },
+            {
+              "heading": "Revoir avec la thérapeute ce qui aide maintenant",
+              "objective": "Faire évoluer un appui en fonction des difficultés actuelles.",
+              "exercise": [
+                "Décrivez ce qui revient et la façon dont cela vous gêne.",
+                "Indiquez ce que vous pouvez déjà faire seul ou avec l’aide prévue.",
+                "Choisissez avec la thérapeute un point à reprendre lors d’une prochaine séance."
+              ],
+              "benefit": "Le suivi peut tenir compte des variations sans fixer un rythme de progrès à partir d’une seule accalmie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La bande reste à côté du carton",
+      "ending": "La thérapeute demande à Céleste ce qu’elle souhaite garder pour vendredi, même si sa main lui paraît lointaine à nouveau. Céleste veut parler du dessin et vérifier comment le bleu apparaît. Elle préférerait qu’une autre personne place les pièces. Elles conviennent de reparler de ces variations la semaine suivante. À l’atelier, Anouk accepte de prendre la mise en place si Céleste lui passe le carton. Elle doit partir à midi et le dit tout de suite. Elles fixent l’installation à dix heures, avant l’ouverture. La bande du titre reste à côté du support. Le carton est prêt pour le reste.",
+      "conclusion": "Les journées de lundi et mardi comptent autant que le retour du détachement mercredi. Céleste a avancé et peut ajuster le programme sans renoncer au dessin. Elle veut encore savoir ce que ce relais représente pour Anouk.",
+      "mirror": [
+        "Anouk peut demander comment organiser l’installation plutôt que de déduire le programme des journées précédentes. « Je peux placer les broches si tu me passes le carton. À midi je dois partir, est-ce que dix heures te convient ? » Elle précise sa disponibilité et laisse Céleste décider si elle souhaite lui dire ce qui a changé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi",
+        "apa-trauma-complexe"
+      ],
+      "continuity": {
+        "choice": "Céleste reprend la fluctuation en suivi. Anouk accepte un relais pour la mise en place, à dix heures avant l’ouverture.",
+        "next": "Jeudi, Céleste et Anouk parlent du décalage entre leurs souvenirs et du rôle que les rappels prennent dans leur amitié."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "celeste-deux-tasses-hors-de-latelier",
+      "title": "Quand une conversation manque à l’une des deux amies",
+      "description": "Anouk reprend un récit commencé samedi. Céleste n’en retrouve pas le souvenir et voudrait entendre la suite sans faire de leur café un interrogatoire.",
+      "context": "Au café avec Anouk, la veille de l’ouverture",
+      "topics": [
+        "Retentissement relationnel",
+        "Souvenir partagé",
+        "Amitié"
+      ],
+      "clinical_focus": "Asymétrie des souvenirs dans une amitié",
+      "clinical_intro": "Anouk se rappelle avoir raconté une histoire à Céleste samedi. Céleste ne retrouve pas cette conversation et Anouk se demande si son amie l’écoutait. Dans un trouble dissociatif de l’identité, les lacunes peuvent créer un décalage entre les souvenirs de deux personnes proches. Ce qui a compté pour chacune peut encore trouver sa place dans la conversation d’aujourd’hui.",
+      "opening": "Jeudi, Anouk propose de prendre un café de l’autre côté du passage. Les quatre dernières broches sont montées. Elles ont encore une heure avant de montrer le carton à Rachid. Céleste prend la table la plus proche de la porte, celle qui bouge quand on s’appuie dessus. Anouk glisse un bout de carton du dessous de verre sous un pied. Puis elle reprend l’histoire de la visite chez son père, samedi dernier. « Et cette fois, j’ai pensé à chercher derrière le coussin. »\n\nCéleste attend le mot suivant. Elle sait qu’Anouk donne des réglettes à son père pour ses mots croisés. Elle ne retrouve pas la conversation de samedi où il lui aurait fallu chercher quelque chose. « Derrière quel coussin ? » demande-t-elle. Anouk pose sa tasse. Elle se rappelle avoir passé un long moment à lui parler de la visite et à lui dire que son père allait bientôt changer d’appartement. « J’avais cru que tu voulais savoir comment ça avançait », dit-elle. Céleste ne sait plus ce qu’elle avait répondu. Elle voit qu’Anouk regarde son café plutôt que la rue.\n\nCéleste pourrait demander à son amie de reprendre toute la conversation. Elle voudrait d’abord lui dire qu’elle a envie de l’écouter aujourd’hui. Depuis plusieurs jours, elles se parlent surtout pour vérifier les heures et les broches. Anouk tourne sa tasse par l’anse, sans la soulever. Céleste se souvient du moment où elles ont acheté le tissu noir ensemble, dans une mercerie qui vendait aussi des boutons à l’unité. Samedi lui manque, et elle a toujours envie de rester là avec son amie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une même conversation peut laisser deux histoires différentes du moment",
+          "text": "Les lacunes de mémoire du trouble dissociatif de l’identité peuvent toucher des moments vécus ensemble et avoir un retentissement sur les relations proches. L’un garde le souvenir d’une conversation que l’autre ne retrouve pas. Le décalage peut être douloureux des deux côtés. Il ne permet pas de conclure que la personne qui ne se souvient pas se désintéressait de l’autre.\n\nAnouk espérait reprendre un sujet qui comptait pour elle. Céleste ne peut pas confirmer ce qu’elle a dit samedi, mais elle peut répondre à son amie maintenant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le décalage des souvenirs peut-il peser sur une relation ?",
+          "points": [
+            {
+              "heading": "Une conversation semble reprendre en plein milieu",
+              "text": "Un proche peut faire allusion à un échange en pensant que les deux personnes le situent encore.",
+              "examples": [
+                "Anouk parle du coussin en pensant que Céleste se rappelle pourquoi son père avait cherché derrière.",
+                "Quelqu’un peut entendre un ami reprendre une histoire commencée lors d’une promenade et ne pas retrouver la conversation à laquelle il fait référence."
+              ]
+            },
+            {
+              "heading": "L’absence de souvenir peut blesser",
+              "text": "Pour la personne qui se rappelle avoir parlé d’un sujet important, l’absence de repère commun peut donner l’impression de ne pas avoir été entendue.",
+              "examples": [
+                "Anouk s’attendait à reparler du déménagement et s’arrête quand Céleste lui demande de quel coussin elle parle.",
+                "Après avoir confié une inquiétude familiale, une personne peut avoir de la peine quand son amie ne situe pas le sujet quelques jours plus tard."
+              ]
+            },
+            {
+              "heading": "Les rappels prennent de la place entre les deux personnes",
+              "text": "Si l’un des proches se sent chargé de reprendre chaque conversation, les échanges peuvent finir par tourner autour de ce qui a été oublié.",
+              "examples": [
+                "À l’approche de l’ouverture, Céleste et Anouk se parlent surtout pour vérifier ce qui concerne le travail. Céleste voudrait aussi entendre comment va le père d’Anouk.",
+                "Dans un couple, l’un peut commencer à tenir une liste de tous les sujets abordés et s’apercevoir qu’il ne sait plus quand il parle simplement de sa journée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour se retrouver quand un échange ne revient pas",
+          "points": [
+            {
+              "heading": "Dire ce qui compte maintenant",
+              "objective": "Montrer que la conversation peut continuer même si le souvenir manque.",
+              "exercise": [
+                "Dites simplement que vous ne situez pas le moment évoqué.",
+                "Si vous souhaitez reprendre la discussion, demandez un point de départ sans demander le récit complet.",
+                "Écoutez s’il souhaite reprendre et acceptez s’il préfère en reparler plus tard."
+              ],
+              "benefit": "La discussion peut repartir de ce qui importe maintenant aux deux personnes."
+            },
+            {
+              "heading": "Reconnaître la déception quand elle est dite",
+              "objective": "Entendre ce que l’autre a vécu sans devoir reconstituer la conversation.",
+              "exercise": [
+                "Laissez l’autre personne dire ce qu’elle attendait de ce moment.",
+                "Reformulez ce que vous comprenez de sa déception.",
+                "Laissez à l’autre le choix de poursuivre ou de remettre cette conversation à plus tard."
+              ],
+              "benefit": "La peine de l’un et l’incertitude de l’autre peuvent être entendues dans le même échange."
+            },
+            {
+              "heading": "Limiter les rappels à ce qui a besoin d’être repris",
+              "objective": "Éviter que l’un devienne responsable de garder le fil de toute la relation.",
+              "exercise": [
+                "Nommez ensemble ce pour quoi un rappel vous rend service.",
+                "Décidez ce que chacun est à l’aise de rappeler et à quel moment.",
+                "Gardez un moment où aucune vérification n’est attendue."
+              ],
+              "benefit": "Cette limite peut préserver du temps où les deux personnes se retrouvent autour d’autre chose."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le café avant les broches",
+      "ending": "Céleste dit à Anouk qu’elle ne retrouve pas leur conversation. Elle lui demande si elle veut lui parler du déménagement maintenant. Anouk lui dit qu’elle était déçue de devoir recommencer. Puis elle lui raconte que son père a retrouvé sa grille dans la housse du coussin et qu’il a choisi une pièce plus claire dans son nouvel appartement. Elles restent encore un peu à table. Au retour, elles règlent la question du lendemain avec Rachid. Anouk placera les broches avant midi, comme prévu. Rachid tiendra le registre des remises et répondra aux questions d’horaires. Céleste pourra s’occuper du dessin de la série et de ce qu’elle veut en montrer.",
+      "conclusion": "Anouk se souvient de samedi et Céleste ne retrouve pas cet échange. Leur café leur a donné l’occasion de parler du déménagement aujourd’hui. Le lendemain, leur travail commun aura un cadre convenu avec Rachid, qu’elles n’auront pas à porter seules.",
+      "mirror": [
+        "Anouk peut dire ce qui lui manque et choisir ce qu’elle a envie de raconter de nouveau. « J’avais envie de continuer à t’en parler. Je peux te dire où on en est aujourd’hui. » Elle peut aussi préférer reprendre plus tard. Quand un rappel de travail serait utile, elle peut demander à Céleste ce qui lui convient, sans faire de chaque souvenir partagé une vérification."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi"
+      ],
+      "continuity": {
+        "choice": "Anouk et Céleste reparlent du déménagement dans le présent, puis confirment avec Rachid les rôles pour le lendemain.",
+        "next": "Vendredi, les quatre dernières broches rejoignent les deux pièces d’essai. Céleste compare ce qu’elle peut faire aisément avec les tâches pour lesquelles elle veut garder un relais."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "celeste-les-six-reflets-du-passage",
+      "title": "Des difficultés inégales entre les tâches d’un même métier",
+      "description": "Céleste sait expliquer le dessin des six broches. Le suivi des demandes du public lui demande un autre appui, qu’elle négocie pour la suite.",
+      "context": "Le vendredi de l’ouverture de la vitrine",
+      "topics": [
+        "Retentissement professionnel",
+        "Différences entre les tâches",
+        "Répartition du travail"
+      ],
+      "clinical_focus": "Retentissement variable selon les tâches",
+      "clinical_intro": "Le jour de l’ouverture, Céleste sait montrer comment le verre change de couleur quand on regarde la broche de biais. Elle perd en revanche le fil quand une demande de retrait s’ajoute à la présentation. Le retentissement d’un trouble dissociatif de l’identité peut varier d’une activité à l’autre. Céleste s’appuie sur cette différence pour trouver un rôle qui lui convient dans le collectif.",
+      "opening": "Le vendredi, à dix heures, Jeanne déverrouille la vitrine. Les deux broches de l’essai y sont encore, sur le tissu noir. Anouk arrive avec les quatre dernières. Céleste pose le carton à six places sur le comptoir et retrouve l’angle marqué sur la fiche B. Elle indique la première fente. Anouk y glisse la broche la plus large, qu’elle a prise dans la vitrine. Jeanne lui tend l’autre pièce de l’essai. Quand les quatre nouvelles les rejoignent, Céleste se penche à la hauteur du verre. Sur l’une des broches, le trait de laiton est visible même quand le bleu disparaît. C’est l’effet qu’elle avait cherché.\n\nÀ l’ouverture, une cliente lui demande pourquoi deux broches qui paraissent grises ne donnent pas le même bleu. Céleste lui montre l’angle du verre. Une autre personne veut savoir quand elle pourra retirer une broche. Elle dit avoir déjà posé la question en passant devant le carton. Céleste ne retrouve pas cet échange. Elle essaie de répondre et perd aussi le fil de son explication sur le verre. Le bord de la broche, lui, est juste devant elle. Elle peut reprendre par ce qu’il montre.\n\nRachid a posé le registre derrière le comptoir. Céleste lui passe la question sur le retrait et reste près du carton. Elle pense à la prochaine série. Elle voudrait garder le dessin, les essais de matière et ce moment où les gens regardent de plus près. Les promesses faites à trois endroits différents lui demandent une autre organisation.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les activités d’un même métier n’exigent pas toutes le même appui",
+          "text": "Le retentissement d’un trouble dissociatif de l’identité peut différer selon les activités. Des lacunes ou des interruptions dans le fil de l’action peuvent compliquer une tâche qui demande de retenir plusieurs échanges et d’en reprendre le cours plus tard. Une autre tâche, avec des éléments visibles au moment où l’on en a besoin, peut rester plus accessible. Ce qui aide dans une situation se discute avec la personne et se vérifie dans le travail.\n\nCéleste explique le profil de la broche en la regardant avec la cliente. Elle préfère que Rachid prenne les demandes de retrait et les inscrive au même endroit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement peut-il différer d’une tâche à l’autre ?",
+          "points": [
+            {
+              "heading": "Une décision est plus accessible avec l’objet sous les yeux",
+              "text": "Certaines activités offrent des repères immédiats qui permettent de décider ou d’expliquer sans retrouver un échange passé.",
+              "examples": [
+                "Devant la broche, Céleste peut montrer le bord et la manière dont le verre prend le bleu.",
+                "Une personne peut comparer deux tissus posés côte à côte et expliquer son choix, même si une discussion ancienne sur ces échantillons lui manque."
+              ]
+            },
+            {
+              "heading": "Le suivi des échanges demande de tenir le fil dans le temps",
+              "text": "Une tâche qui oblige à relier plusieurs demandes peut rester difficile au moment où une autre se déroule bien.",
+              "examples": [
+                "Céleste montre le dessin à une cliente mais ne retrouve pas l’échange au cours duquel une autre a posé sa question sur le retrait.",
+                "Quelqu’un peut présenter le document qu’il a sous les yeux et avoir besoin d’aide pour vérifier plusieurs changements d’horaire discutés dans la matinée."
+              ]
+            },
+            {
+              "heading": "Passer de l’une à l’autre peut couper une tâche accessible",
+              "text": "Le passage entre deux demandes différentes peut ajouter une difficulté quand il faut ensuite revenir au point laissé en suspens.",
+              "examples": [
+                "Céleste perd le fil de son explication sur le verre quand une autre personne lui demande une date de retrait.",
+                "Une personne peut travailler avec aisance sur une maquette et perdre le point qu’elle expliquait quand elle doit quitter la table pour traiter un message sur la livraison."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répartir le travail selon ce que demande chaque tâche",
+          "points": [
+            {
+              "heading": "Séparer ce que l’on fait au lieu de juger le poste en entier",
+              "objective": "Repérer où un appui permettrait de préserver une activité que l’on souhaite garder.",
+              "exercise": [
+                "Choisissez une journée de travail récente.",
+                "Distinguez deux tâches et ce que chacune demande.",
+                "Dites laquelle vous souhaitez garder et pour laquelle vous voulez un aménagement."
+              ],
+              "benefit": "La discussion peut porter sur des activités précises et tenir compte de ce qui reste possible."
+            },
+            {
+              "heading": "Prévoir qui répond à chaque type de demande",
+              "objective": "Éviter de passer sans cesse d’une tâche de création à un engagement de livraison.",
+              "exercise": [
+                "Indiquez le sujet que vous prenez en charge.",
+                "Convenez de la personne à qui transmettre les autres demandes.",
+                "Rendez ce partage facile à retrouver sur place, par exemple avec les noms près du registre."
+              ],
+              "benefit": "Un passage de relais clair permet de revenir plus facilement à la tâche engagée."
+            },
+            {
+              "heading": "Essayer un rôle sur un prochain projet",
+              "objective": "Faire de la répartition une décision qu’on peut revoir après l’avoir mise en pratique.",
+              "exercise": [
+                "Choisissez une étape ou une durée pour l’essai.",
+                "Vérifiez que les personnes qui prennent les autres tâches sont d’accord et disponibles.",
+                "Fixez un moment où vous pourrez dire ensemble ce qui a tenu et ce qui reste difficile."
+              ],
+              "benefit": "Un essai donne au collectif de quoi ajuster le rôle sans tirer de conclusion générale à partir d’une journée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le bord de la sixième broche",
+      "ending": "En fin de matinée, les six Reflets du passage occupent le carton. Jeanne a posé la bande du titre dans l’espace de droite. Céleste montre à Anouk le bord de la sixième broche, où le verre semble presque transparent. Elle propose qu’à la prochaine série elle dessine les profils et mène les essais, tandis que les confirmations passent par le registre. Rachid peut assurer cette partie pour le prochain projet. Ils en reparleront après le premier prototype. Anouk ferme la boîte vide avant de partir. Céleste voit dans son agenda le rendez-vous de suivi de la semaine suivante. Une cliente lui demande comment se décide le bord. Elle lui montre la sixième broche.",
+      "conclusion": "Les six pièces sont en vitrine. Céleste garde le dessin et une façon d’en parler qui lui plaît. Le suivi des remises repose sur un accord précis que le collectif pourra revoir. Elle continue ses soins et peut garder ces appuis quand certaines journées redeviennent difficiles.",
+      "mirror": [
+        "Rachid peut rediriger les questions de retrait vers le registre et dire à Céleste jusqu’à quand il peut s’en occuper. « Je confirme les dates. Si on me demande le dessin, j’envoie les gens vers toi ? » Anouk peut aussi vérifier le rôle qu’elle souhaite prendre sur le prochain projet. L’accord porte sur le travail de chacun et peut être revu si les besoins ou les disponibilités changent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "isst-d-tdi",
+        "apa-trauma-complexe"
+      ],
+      "continuity": {
+        "choice": "Les six broches sont présentées à l’ouverture. Céleste conserve les profils et les essais pour le prochain projet, avec un relais convenu pour les remises.",
+        "next": "Le collectif reverra la répartition après le prochain prototype. Céleste poursuit son suivi."
+      }
+    }
+  ]
+}

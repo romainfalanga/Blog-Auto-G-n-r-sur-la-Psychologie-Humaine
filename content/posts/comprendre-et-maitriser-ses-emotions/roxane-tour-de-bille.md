@@ -73,7 +73,7 @@ Quand les autres sont déjà passés à l’action, reprendre sa proposition dem
 **Exercice pratique**
 
 - Posez la bille là où la discussion s’est arrêtée.
-- Dites : « Je crois que tu proposes de partir d’ici ; c’est ça ? »
+- Dites : « Je crois que tu proposes de partir d’ici. C’est ça ? »
 - Attendez la confirmation de la personne qui parlait.
 
 Une pause courte laisse le temps de réparer le malentendu sans rejouer toute la manche.

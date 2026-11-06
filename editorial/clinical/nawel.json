@@ -1,0 +1,1261 @@
+{
+  "character_id": "nawel",
+  "bio": "Nawel, 28 ans, travaille à temps partiel dans un magasin et apprend la gravure dans un groupe d’adultes. Elle voudrait exposer trois estampes qui reprennent le trajet entre sa rue et le cours. Elle vit avec une dépendance au cannabis. Certaines fins de journée font revenir une envie forte et la place prise par la consommation rend des engagements plus difficiles à tenir. Avec son amie Soraya et une clinicienne en addictologie, Nawel cherche des façons de reprendre les activités qui comptent pour elle. Elle garde le choix de ce qu’elle confie et des appuis qu’elle demande.",
+  "profile_topics": [
+    "Dépendance au cannabis",
+    "Envie liée au contexte",
+    "Difficulté à réguler la consommation",
+    "Retentissement sur les activités",
+    "Suivi en addictologie"
+  ],
+  "episodes": [
+    {
+      "title": "Quand un trajet familier fait revenir l’envie de consommer",
+      "description": "Après la fermeture du magasin, Nawel retrouve l’arrêt de bus et une envie familière. Elle voudrait comprendre ce qui relie ce moment à ses soirs.",
+      "context": "À l’arrêt du bus après le travail",
+      "clinical_focus": "Envie déclenchée par des repères du quotidien",
+      "clinical_intro": "À la fermeture, Nawel retrouve le lampadaire sous lequel elle attend souvent le bus. Elle remarque qu’elle pense déjà à consommer alors qu’elle voulait regarder le cadrage de sa première estampe. Dans la dépendance au cannabis, certains lieux, horaires ou situations familières peuvent s’accompagner d’une envie. Le récit montre comment Nawel situe ce moment sans supposer que tout trajet identique aura la même suite.",
+      "opening": "La dernière cliente a reposé le cintre derrière la caisse au lieu de le remettre au bout du portant. Nawel le range avant de fermer le tiroir. Elle a pris dans son sac un carnet où elle dessine les trois endroits qu’elle voudrait graver cette année. Le premier est l’arrêt du bus, surtout le lampadaire qui éclairait le bord du banc. Soraya lui a proposé de tirer l’image en petit pour voir où garder du blanc.\n\nDehors, Nawel descend vers l’arrêt au moment où le magasin de l’autre côté baisse sa grille. À cette heure, elle pense souvent à consommer. Le soir n’a pas encore commencé et elle imagine déjà le moment où elle rentrera. Elle voit le lampadaire s’allumer et ne sort pas tout de suite le carnet. Le trajet lui donne presque l’impression que la suite a été décidée la veille. Elle attend le bus en tenant son sac contre elle.\n\nSalomé Vidal, qui la suit pour sa dépendance au cannabis, lui a demandé ce qu’elle remarquerait au début d’une envie. Nawel n’avait rien trouvé de précis à raconter. Ce soir, elle sait dire que le magasin a fermé, qu’elle a vu la grille descendre et qu’elle n’a pas pensé au dessin pendant quelques minutes. Elle entend un bus passer de l’autre côté de la rue.",
+      "conclusion": "Nawel peut situer l’envie avec le trajet, l’heure et le projet qu’elle avait en tête. Le lampadaire reste aussi le sujet d’une image qu’elle a choisie.",
+      "number": 1,
+      "slug": "nawel-larret-sous-le-lampadaire",
+      "topics": [
+        "Envie liée au contexte",
+        "Fin de journée",
+        "Habitude"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’envie peut arriver avant la décision",
+          "text": "Dans la dépendance au cannabis, une envie de consommer peut revenir dans des contextes associés à des usages précédents. Le lieu, l’heure ou la fin d’une activité peuvent aider à situer l’expérience. Nawel relie le moment de l’arrêt à ce qui se passait certains soirs. L’envie ne permet pas à elle seule de définir une dépendance, et sa présence ne fixe pas la suite de la soirée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un contexte familier peut-il faire revenir l’envie ?",
+          "points": [
+            {
+              "heading": "Un repère précède l’envie",
+              "text": "L’heure ou le lieu peuvent faire penser à une suite devenue familière.",
+              "examples": [
+                "Nawel voit s’allumer le lampadaire après la fermeture du magasin.",
+                "Quelqu’un peut remarquer une envie quand la journée de travail se termine et que le trajet de retour commence."
+              ]
+            },
+            {
+              "heading": "L’attention quitte un projet choisi",
+              "text": "Une envie peut occuper un moment qui avait un autre objet.",
+              "examples": [
+                "Le carnet reste dans le sac alors que Nawel voulait regarder le banc.",
+                "Une personne peut oublier de répondre à une invitation en pensant déjà à ce qu’elle fera en rentrant."
+              ]
+            },
+            {
+              "heading": "Le lieu garde plusieurs significations",
+              "text": "Un repère peut être lié à l’envie et à une activité qui compte.",
+              "examples": [
+                "Le lampadaire évoque pour Nawel des soirs de consommation et le dessin qu’elle veut faire.",
+                "Un trajet familier peut rester important pour rejoindre un cours même quand une envie y apparaît."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour raconter une envie située",
+          "points": [
+            {
+              "heading": "Garder un repère de début",
+              "objective": "Donner un exemple concret au suivi.",
+              "exercise": [
+                "Indiquez l’heure approximative et l’endroit.",
+                "Notez ce qui venait de se terminer.",
+                "Dites ce que l’envie a occupé dans votre attention."
+              ],
+              "benefit": "Le rendez-vous peut partir d’une situation identifiable."
+            },
+            {
+              "heading": "Retrouver une décision déjà choisie",
+              "objective": "Laisser de la place à une activité qui compte dans le même moment.",
+              "exercise": [
+                "Sortez le carnet si vous le souhaitez.",
+                "Choisissez le détail que vous étiez venue observer.",
+                "Gardez une phrase ou une esquisse à montrer à Soraya."
+              ],
+              "benefit": "Le trajet peut encore avoir une place dans le projet de gravure."
+            },
+            {
+              "heading": "Comparer avec un autre soir",
+              "objective": "Chercher des différences avant d’attribuer l’envie à un seul élément.",
+              "exercise": [
+                "Retrouvez un retour où vous avez remarqué autre chose.",
+                "Dites si l’heure, le lieu ou les personnes étaient différents.",
+                "Apportez les deux exemples à la clinicienne."
+              ],
+              "benefit": "Elle peut discuter avec vous de ce qui revient ou change."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La ligne blanche sous le banc",
+      "ending": "Nawel sort le carnet quand elle entend annoncer son bus. Elle dessine la ligne blanche que le lampadaire laisse sous le banc et écrit « après la fermeture » sur le bord. Soraya n’a besoin que de cette ligne pour discuter du cadrage. Nawel garde pour Salomé la phrase sur ce qui lui est venu dans l’attente. Le dessin et l’envie ont occupé le même arrêt.",
+      "mirror": [
+        "Soraya peut demander « Tu veux que je regarde la ligne du banc avec toi au prochain cours ? » Si Nawel lui parle de l’envie, elle peut l’écouter et lui demander si elle veut rester sur ce sujet. Leur discussion sur le dessin garde sa place, avec la durée dont chacune dispose."
+      ],
+      "continuity": {
+        "choice": "Nawel garde un détail pour l’estampe et un repère de contexte pour le suivi.",
+        "next": "Lors d’une fin de journée différente, elle remarque que l’intensité de l’envie peut varier au fil du même soir."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Une envie forte peut changer au cours de la même soirée",
+      "description": "Soraya propose de retrouver Nawel avant le cours. L’envie est encore là à son arrivée et prend une place différente lorsqu’elles regardent l’épreuve.",
+      "context": "Avant un cours de gravure, sur un trajet inhabituel",
+      "clinical_focus": "Fluctuation de l’intensité de l’envie",
+      "clinical_intro": "Nawel quitte le magasin plus tôt pour rencontrer Soraya. L’envie de consommer survient avant le rendez-vous et change au fil de la conversation. Dans la dépendance au cannabis, son intensité peut varier selon le moment et ce qui l’entoure. Nawel peut raconter cette variation au suivi même si elle ne sait pas ce qui l’explique ni ce qui se passera au retour.",
+      "opening": "Soraya a demandé une table près de la porte parce qu’elles partiront avant la fin du service. Elle a mis l’épreuve du lampadaire dans une enveloppe à fenêtre. Quand Nawel arrive, elle reconnaît le trait blanc avant même d’avoir ôté sa veste. Elle avait quitté le magasin assez tôt pour venir à pied. Elle a pourtant pensé à consommer pendant la plus grande partie du trajet et se demande si elle pourra écouter ce que Soraya veut lui dire.\n\nLes deux amies sortent l’épreuve. Soraya montre l’endroit où le bord du banc disparaît dans le noir. Nawel voit pourquoi le trait paraît plus épais que dans le carnet. Elle approche la feuille de la fenêtre et demande si elles pourraient garder une marge du côté gauche. Une minute plus tôt, elle se sentait absorbée par l’envie. Elle remarque qu’elle arrive maintenant à discuter du cadrage. L’envie reste présente par moments. Elle ne peut pas dire quelle part vient du changement de lieu et quelle part vient de la discussion.\n\nQuand le serveur apporte l’addition, Nawel cherche l’heure du cours. Elle pense au retour après la fermeture de l’atelier. L’envie reprend de la place. Soraya remet la feuille dans l’enveloppe et lui demande si elle veut marcher jusqu’au cours avec elle. Nawel peut répondre avant d’avoir décidé de la suite de sa soirée.",
+      "conclusion": "La place de l’envie a changé plusieurs fois pendant la soirée. Nawel peut conserver ces différences pour le rendez-vous et se souvenir qu’elle a choisi de montrer elle-même le lampadaire.",
+      "number": 2,
+      "slug": "nawel-la-table-ou-soraya-attend",
+      "topics": [
+        "Fluctuation de l’envie",
+        "Attention",
+        "Activité partagée"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie peut être intense puis prendre moins de place",
+          "text": "Une envie de consommer peut monter, diminuer ou revenir au cours d’une même période. Sa présence et son intensité peuvent s’évaluer à partir de ce que la personne remarque et de ce que cela change dans ses décisions. L’épreuve du lampadaire donne à Nawel un moment où elle s’aperçoit que son attention peut se déplacer. Le retour de l’envie ensuite fait aussi partie de ce qu’elle pourra raconter."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment remarquer que l’intensité d’une envie change ?",
+          "points": [
+            {
+              "heading": "Un premier moment peut occuper presque tout",
+              "text": "L’attention peut rester prise par l’envie avant une rencontre attendue.",
+              "examples": [
+                "Nawel y pense en marchant jusqu’à la table de Soraya.",
+                "Une personne peut avoir du mal à suivre le début d’un échange en sortant du travail."
+              ]
+            },
+            {
+              "heading": "L’attention devient disponible par moments",
+              "text": "L’envie peut rester présente et laisser davantage de place à une autre chose.",
+              "examples": [
+                "Nawel compare la marge de la feuille avec le dessin.",
+                "Quelqu’un peut se remettre à écouter une conversation avant de remarquer que l’envie est toujours là."
+              ]
+            },
+            {
+              "heading": "Une transition peut modifier à nouveau l’expérience",
+              "text": "Le changement suivant apporte un autre contexte.",
+              "examples": [
+                "L’addition rappelle à Nawel qu’elle rentrera plus tard de l’atelier.",
+                "Une personne peut se sentir plus préoccupée quand un rendez-vous touche à sa fin."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire les variations d’une envie",
+          "points": [
+            {
+              "heading": "Choisir deux moments différents",
+              "objective": "Donner une image de la variation sans chercher une mesure exacte.",
+              "exercise": [
+                "Situez un moment où l’envie prenait beaucoup de place.",
+                "Ajoutez une situation où votre attention a pu se déplacer.",
+                "Décrivez ce qui se passait autour de chaque moment."
+              ],
+              "benefit": "Ces repères donnent un exemple pour le suivi."
+            },
+            {
+              "heading": "Garder la prochaine décision simple",
+              "objective": "Répondre à un choix limité dans le présent.",
+              "exercise": [
+                "Écoutez la proposition de trajet vers le cours.",
+                "Dites si vous voulez y aller ensemble.",
+                "Laissez les autres questions pour le moment où elles se poseront."
+              ],
+              "benefit": "Vous pouvez retrouver une activité même si l’envie n’a pas disparu."
+            },
+            {
+              "heading": "Ouvrir la question au rendez-vous",
+              "objective": "Discuter d’une transition qui vous préoccupe.",
+              "exercise": [
+                "Choisissez le retour ou le départ que vous voulez examiner.",
+                "Dites ce que vous avez remarqué dans votre envie.",
+                "Demandez comment le suivi peut prendre cette situation en compte."
+              ],
+              "benefit": "Le soutien peut être discuté autour d’un moment qui compte pour vous."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe entre les deux amies",
+      "ending": "Nawel dit qu’elle veut bien marcher. Soraya lui donne l’enveloppe pour qu’elle montre elle-même la marge à Karim. Au coin de la rue, Nawel pense de nouveau à rentrer. Elle garde l’enveloppe sous le bras et continue jusqu’à l’atelier. Plus tard, elle note les deux endroits où elle a remarqué que l’envie prenait une place différente.",
+      "mirror": [
+        "Soraya peut proposer « Je pars dans cinq minutes pour le cours. Tu veux qu’on y aille ensemble ? » Elle peut accepter une autre réponse et garder son propre horaire. Si Nawel évoque l’envie, elle peut demander si elle souhaite en parler maintenant ou garder l’épreuve au centre de leur échange."
+      ],
+      "continuity": {
+        "choice": "Nawel remarque plusieurs moments différents et choisit de porter l’épreuve à Karim.",
+        "next": "Un autre soir, une décision sur la durée de la consommation ne suffit pas à garder l’heure prévue pour le cours."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Quand l’heure que l’on s’était fixée cesse de guider la suite",
+      "description": "Nawel voulait rejoindre le cours pour les premiers tirages. Elle constate que la fin qu’elle avait prévue se décale et que le rendez-vous est manqué.",
+      "context": "Une soirée où Nawel manque le début de l’atelier",
+      "clinical_focus": "Difficulté à mettre fin à la consommation",
+      "clinical_intro": "Nawel avait noté l’heure du bus sur le billet du cours. Après avoir commencé à consommer, elle repousse le moment de partir et découvre que les premiers tirages ont déjà eu lieu. Dans la dépendance au cannabis, la difficulté à réguler la consommation peut concerner le moment où elle s’arrête. L’épisode suit l’écart entre une intention réelle et ce qui s’est passé ensuite.",
+      "opening": "Karim a écrit « essais à dix-neuf heures » sur le billet qu’il a glissé dans l’enveloppe. Nawel l’a posé près des clés pour le retrouver avant de sortir. Ce soir, elle veut voir ce qui apparaît quand le bord du lampadaire laisse un peu plus de blanc. Elle est rentrée du magasin avec assez de temps pour passer par l’arrêt habituel. Elle a envoyé à Soraya un message pour lui dire qu’elle pensait arriver au début du cours.\n\nPlus tard, Nawel reprend le billet et voit qu’elle est encore chez elle. Elle avait consommé et s’était donné une heure pour terminer. Quand l’heure est arrivée, elle a décidé qu’elle pouvait prendre le bus suivant. Elle connaît le moment où elle a entendu partir le premier. Le carnet est resté dans l’enveloppe. En regardant le billet, elle comprend que le second bus est déjà passé lui aussi.\n\nSoraya lui a envoyé une photo de la table avec les deux épreuves à côté l’une de l’autre. Elle ne lui demande pas pourquoi elle n’est pas là. Nawel hésite à écrire qu’elle arrivera dans un instant. Elle ne sait pas si cela sera possible. Elle relit le message qu’elle a envoyé en rentrant du magasin. Elle y avait mis « je viens pour les essais » sans imaginer devoir expliquer plus tard l’heure à laquelle elle était encore chez elle.",
+      "conclusion": "L’heure était fixée et le cours comptait pour Nawel. Le report du départ montre une difficulté qu’elle peut décrire au suivi avec son effet concret sur les essais.",
+      "number": 3,
+      "slug": "nawel-une-heure-passee-sur-le-billet",
+      "topics": [
+        "Difficulté à réguler la consommation",
+        "Engagement prévu",
+        "Retentissement sur le cours"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La fin souhaitée peut se déplacer",
+          "text": "La dépendance peut s’accompagner d’une difficulté à réguler le début, la durée ou la fin d’une consommation. Pour Nawel, l’heure fixée était une intention claire avant de consommer et elle l’a ensuite repoussée. L’équipe d’addictologie peut examiner la répétition de ces écarts, le contexte et leurs conséquences. Le rendez-vous manqué aide à expliquer ce qui importe pour elle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à mettre fin à la consommation peut-elle se voir ?",
+          "points": [
+            {
+              "heading": "Le projet est défini au départ",
+              "text": "Une intention claire peut être présente avant que la situation évolue.",
+              "examples": [
+                "Nawel a noté l’heure et préparé le billet près des clés.",
+                "Quelqu’un peut avoir prévu un appel à une heure précise avant de commencer à consommer."
+              ]
+            },
+            {
+              "heading": "La première limite est repoussée",
+              "text": "Le moment que la personne s’était fixé peut cesser de régler la décision.",
+              "examples": [
+                "Nawel laisse partir un premier bus et compte sur le suivant.",
+                "Une personne peut déplacer l’heure qu’elle avait choisie alors que l’engagement approche."
+              ]
+            },
+            {
+              "heading": "Une conséquence devient visible plus tard",
+              "text": "La difficulté peut apparaître quand un autre moment est passé.",
+              "examples": [
+                "Soraya envoie la photo des épreuves déjà tirées.",
+                "Quelqu’un peut se rendre compte qu’une rencontre prévue ne pourra plus avoir lieu ce jour-là."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler d’un engagement manqué",
+          "points": [
+            {
+              "heading": "Raconter le premier report",
+              "objective": "Apporter au suivi un écart concret entre la décision et la suite.",
+              "exercise": [
+                "Notez l’engagement qui comptait.",
+                "Situez le moment où vous avez changé l’heure prévue.",
+                "Indiquez ce qui s’est passé pour le rendez-vous."
+              ],
+              "benefit": "L’équipe peut discuter de la régulation à partir d’un fait situé."
+            },
+            {
+              "heading": "Répondre à la personne qui attend",
+              "objective": "Donner une information fiable sur le moment actuel.",
+              "exercise": [
+                "Dites si vous pourrez encore venir.",
+                "Reconnaissez la partie de l’essai qui est déjà passée.",
+                "Demandez quel retour elle souhaite vous transmettre."
+              ],
+              "benefit": "L’autre peut organiser sa soirée et choisir la suite de l’échange."
+            },
+            {
+              "heading": "Clarifier une priorité au suivi",
+              "objective": "Nommer une activité que vous voulez retrouver.",
+              "exercise": [
+                "Choisissez un créneau de cours précis.",
+                "Expliquez ce qui a pris sa place récemment.",
+                "Demandez quels appuis vous pourriez discuter avec la clinicienne."
+              ],
+              "benefit": "Le suivi peut travailler avec un objectif défini par la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une réponse qui arrive après les tirages",
+      "ending": "Nawel dit qu’elle a manqué le début et qu’elle ne viendra pas pour la fin de la séance. Elle demande si Soraya peut lui garder une photo où l’on voit la marge. Soraya répond qu’elle lui montrera ce que Karim a retenu au prochain cours. Nawel retrouve le billet près des clés et le garde avec l’enveloppe. Elle voudrait expliquer à Salomé à quel moment le premier bus a cessé d’être son départ.",
+      "mirror": [
+        "Soraya peut répondre « Le premier tirage est fait. Je peux t’envoyer la photo, mais je ne peux pas rester après le cours. » Elle peut dire si le rendez-vous manqué l’a gênée. Si Nawel souhaite lui parler de la consommation, elle peut choisir le temps qu’elle a pour l’écouter."
+      ],
+      "continuity": {
+        "choice": "Nawel annonce qu’elle a manqué le cours et conserve la chronologie pour le suivi.",
+        "next": "Le choix d’une image suivante lui fait voir ce que les soirs organisés autour de la consommation ont progressivement déplacé."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Quand la consommation prend la place d’activités choisies",
+      "description": "En cherchant l’escalier pour sa deuxième estampe, Nawel se souvient des soirs où elle y retrouvait ses amis avant de rentrer.",
+      "context": "Entre le magasin et l’atelier, à la recherche de la deuxième image",
+      "clinical_focus": "Priorité progressive sur d’autres activités",
+      "clinical_intro": "Nawel retrouve l’escalier qu’elle prenait avec Soraya après le cours. Plusieurs soirs, elle est rentrée directement parce qu’elle organisait le retour autour de la consommation. Dans la dépendance au cannabis, cette dernière peut prendre une place croissante dans les décisions. L’épisode distingue un rendez-vous manqué d’une série de choix qui réduit peu à peu le temps passé avec les autres.",
+      "opening": "Les carreaux de l’escalier étaient plus rouges dans le souvenir de Nawel. À présent, la fissure du palier ressort surtout parce que la lumière arrive de côté. Elle monte quatre marches et regarde la rambarde d’où Soraya avait un jour accroché son sac. Elles restaient parfois là après le cours pour choisir le prochain sujet ou attendre quelqu’un. Nawel était venue chercher l’image qui irait avec le lampadaire. Elle voit aussi depuis combien de temps elle n’a plus fait ce détour.\n\nElle ne se rappelle pas le jour où elle a cessé d’y passer. Un soir, elle a dit qu’elle était fatiguée. Un autre, elle a quitté le cours avant que les autres rangent. Souvent, elle pensait déjà à rentrer pour consommer. L’autre fois, elle a manqué les essais du lampadaire. L’escalier lui rappelle des changements plus discrets, des conversations qui n’ont pas commencé et des messages auxquels elle répond maintenant le lendemain.\n\nSoraya lui demande en arrivant si elle veut reprendre le dessin un soir après le cours. Elle doit s’occuper de son frère cette semaine et peut rester jeudi, pendant un temps limité. Nawel regarde les marches. Elle a envie de lui dire oui tout de suite. Elle voudrait aussi savoir à quelle heure finit le cours et à quel moment Soraya devra partir. Elle prend une photo du carreau fendu avant de lui répondre.",
+      "conclusion": "Le détour que Nawel aimait a peu à peu disparu de ses soirées. Le rendez-vous de jeudi lui donne un exemple concret de ce qu’elle souhaite retrouver, à la mesure du temps disponible.",
+      "number": 4,
+      "slug": "nawel-lescalier-que-nawel-ne-prend-plus",
+      "topics": [
+        "Priorité de la consommation",
+        "Activités délaissées",
+        "Lien social"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La place prise dans l’emploi du temps",
+          "text": "Dans la dépendance, la consommation peut devenir prioritaire sur des activités, relations ou responsabilités auxquelles la personne reste attachée. Ce changement se voit parfois dans une accumulation de petites décisions. Nawel distingue le cours manqué du mouvement plus discret qui lui fait quitter plusieurs soirs de suite les moments avec ses amis. L’exemple aide à discuter au suivi de ce qu’elle souhaite retrouver."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une activité peut-elle perdre sa place progressivement ?",
+          "points": [
+            {
+              "heading": "Le retour devient la première décision",
+              "text": "Le reste de la soirée peut se régler autour d’un projet de consommation.",
+              "examples": [
+                "Nawel quitte le cours avant le rangement pour rentrer.",
+                "Une personne peut renoncer plusieurs fois à un détour qu’elle appréciait en planifiant déjà son retour."
+              ]
+            },
+            {
+              "heading": "Les petites rencontres s’espacent",
+              "text": "Un retentissement relationnel peut se former avant d’être clairement nommé.",
+              "examples": [
+                "Les conversations sur l’escalier n’ont plus lieu.",
+                "Des messages auxquels on répond plus tard peuvent remplacer des échanges réguliers avec un groupe."
+              ]
+            },
+            {
+              "heading": "L’intérêt pour l’activité reste présent",
+              "text": "Le fait de moins y participer ne dit pas à lui seul ce qu’elle représente.",
+              "examples": [
+                "Nawel veut retrouver le dessin du carreau fendu avec Soraya.",
+                "Quelqu’un peut regretter une promenade qu’il ne parvient plus à garder dans son horaire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour repérer une activité que l’on souhaite retrouver",
+          "points": [
+            {
+              "heading": "Relire quelques choix récents",
+              "objective": "Voir la place donnée aux différentes activités.",
+              "exercise": [
+                "Retrouvez deux moments où vous êtes rentrée plus tôt.",
+                "Notez ce que vous auriez voulu faire si vous étiez restée.",
+                "Dites ce qui comptait le plus dans chaque moment."
+              ],
+              "benefit": "La comparaison peut préciser une priorité à discuter au suivi."
+            },
+            {
+              "heading": "Poser un rendez-vous délimité",
+              "objective": "Choisir un temps que les deux personnes peuvent préparer.",
+              "exercise": [
+                "Demandez à Soraya de quel créneau elle dispose.",
+                "Choisissez ce que vous aimeriez dessiner ensemble.",
+                "Précisez l’heure à laquelle chacune pourra partir."
+              ],
+              "benefit": "Le rendez-vous peut tenir dans l’emploi du temps réel."
+            },
+            {
+              "heading": "Décrire le retentissement au cabinet",
+              "objective": "Faire entendre un changement discret mais répété.",
+              "exercise": [
+                "Nommez l’activité qui s’est espacée.",
+                "Expliquez ce qui oriente vos retours.",
+                "Demandez à la clinicienne de réfléchir avec vous à la place que vous voulez lui rendre."
+              ],
+              "benefit": "Le suivi peut tenir compte du quotidien et des liens."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le trait du carreau fendu",
+      "ending": "Nawel propose de rester vingt minutes le jeudi, avec le dessin du palier sur la première page. Soraya lui donne l’heure où elle devra partir. Elles descendent par l’autre côté et Nawel regarde la fissure une dernière fois. Au prochain rendez-vous, elle voudrait parler de cet escalier, des départs répétés et du temps qu’elle a envie d’y passer de nouveau.",
+      "mirror": [
+        "Soraya peut dire « Je peux rester un peu jeudi. Tu as envie de dessiner le palier ou de regarder nos tirages ? » Elle peut préciser l’heure de départ et laisser à Nawel la possibilité de décliner. Leur accord concerne la gravure et le temps partagé."
+      ],
+      "continuity": {
+        "choice": "Nawel repère une perte de place des échanges et fixe un court rendez-vous pour dessiner l’escalier.",
+        "next": "Un engagement envers Karim s’ajoute aux conséquences qu’elle connaît déjà, et elle doit décider comment lui répondre."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Reconnaître la poursuite d’une consommation malgré ses conséquences",
+      "description": "Nawel avait déjà vu ce que ses retards coûtaient au groupe. Un nouveau soir, la consommation prend encore la place d’un engagement auprès de Karim.",
+      "context": "À l’atelier, au moment de récupérer le cadre resté en attente",
+      "clinical_focus": "Poursuite malgré des conséquences déjà identifiées",
+      "clinical_intro": "Karim avait gardé un cadre pour que Nawel puisse essayer l’estampe de l’escalier. Elle savait ce qu’un départ repoussé avait coûté lors du premier tirage. Le rendez-vous suivant a lui aussi été manqué. Dans la dépendance au cannabis, la consommation peut se poursuivre malgré des conséquences que la personne connaît déjà. Nawel cherche comment reconnaître leur effet et en parler au suivi.",
+      "opening": "Karim a déplacé le cadre au-dessus de l’étagère des papiers épais. Nawel le reconnaît au morceau de ruban qui dépasse dans l’angle. Elle avait demandé qu’il le garde pour le soir précédent. Il lui avait dit qu’il devrait ensuite rendre la table à l’autre groupe. Elle se souvient d’avoir promis de prévenir avant l’ouverture si elle ne pouvait pas venir. Elle a finalement laissé le message en brouillon.\n\nDepuis le premier cours manqué, elle savait ce que cela pouvait faire de laisser les autres commencer seuls. Hier, elle a pensé au cadre et au message. Elle a quand même consommé, puis a attendu en se disant qu’elle aurait le temps de passer. Quand elle a regardé l’heure, Karim devait déjà ranger la table. Ce matin, le ruban est encore là, mais le créneau ne l’est plus. Elle se demande comment commencer sans promettre tout de suite de prendre le prochain.\n\nKarim termine une réparation de l’étagère. Il lui dit qu’il a dû déplacer un essai du deuxième groupe pour garder le cadre prêt. Nawel ne s’attendait pas à cette conséquence. Elle lui demande de lui dire ce qu’il lui faut désormais pour confirmer une table. Elle peut aussi retrouver l’exemple pour Salomé. Il y aura la première fois, ce qu’elle avait compris et ce qui s’est répété.",
+      "conclusion": "Nawel connaît désormais plusieurs effets des rendez-vous manqués. Elle peut en répondre auprès de Karim et discuter de la répétition avec Salomé sans annoncer un prochain créneau avant de pouvoir le confirmer.",
+      "number": 5,
+      "slug": "nawel-le-cadre-attend-a-latelier",
+      "topics": [
+        "Conséquences répétées",
+        "Poursuite de la consommation",
+        "Responsabilité"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le fait de connaître une conséquence peut ne pas suffire",
+          "text": "Une consommation peut se poursuivre alors que ses effets négatifs sont déjà identifiés. Cette persistance peut faire partie d’un trouble de dépendance, que le professionnel apprécie à partir d’une évolution plus large. Nawel se souvient du premier essai perdu et découvre un coût supplémentaire pour le groupe. Elle peut distinguer ce qu’elle savait, ce qui s’est passé et la responsabilité pratique qu’elle veut reprendre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une conséquence connue peut-elle se répéter ?",
+          "points": [
+            {
+              "heading": "Le souvenir est disponible avant la décision",
+              "text": "La personne peut se rappeler l’effet d’une situation antérieure.",
+              "examples": [
+                "Nawel pense au message et au premier cours manqué.",
+                "Quelqu’un peut se souvenir d’une promesse déjà annulée avant une nouvelle soirée semblable."
+              ]
+            },
+            {
+              "heading": "La conséquence ne règle pas à elle seule le comportement",
+              "text": "Savoir ce qui risque de se passer peut coexister avec une difficulté à changer la suite.",
+              "examples": [
+                "Nawel pense encore passer et continue à repousser sa décision.",
+                "Une personne peut maintenir une consommation même si elle avait prévu de protéger un rendez-vous."
+              ]
+            },
+            {
+              "heading": "Un coût pour d’autres devient visible",
+              "text": "Les conséquences peuvent concerner le temps ou les engagements d’autres personnes.",
+              "examples": [
+                "Karim a déplacé l’essai d’un autre groupe.",
+                "Un collègue peut avoir gardé un créneau libre qui ne peut plus être rendu au dernier moment."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de ce qui se répète malgré les conséquences",
+          "points": [
+            {
+              "heading": "Rapprocher les deux soirs",
+              "objective": "Faire apparaître ce que vous saviez et ce qui s’est reproduit.",
+              "exercise": [
+                "Nommez la première conséquence.",
+                "Dites quand elle vous est revenue à l’esprit.",
+                "Décrivez ce qui est arrivé cette fois."
+              ],
+              "benefit": "La clinicienne dispose d’un exemple de répétition et de retentissement."
+            },
+            {
+              "heading": "Écouter la limite de l’autre",
+              "objective": "Reconnaître le coût concret pour l’équipe.",
+              "exercise": [
+                "Demandez ce qui a dû changer à l’atelier.",
+                "Dites ce que vous aviez promis.",
+                "Vérifiez quel délai l’équipe souhaite désormais."
+              ],
+              "benefit": "Le prochain accord peut partir des contraintes réelles."
+            },
+            {
+              "heading": "Éviter une promesse que vous ne pouvez pas confirmer",
+              "objective": "Garder du temps pour discuter de la suite.",
+              "exercise": [
+                "Dites que vous souhaitez refaire l’essai.",
+                "Demandez quel créneau reste possible sans le réserver tout de suite.",
+                "Notez le moment où vous pourrez répondre."
+              ],
+              "benefit": "Vous pouvez reconnaître le rendez-vous manqué et choisir une suite crédible."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le cadre peut servir aux autres",
+      "ending": "Nawel remercie Karim d’avoir gardé le cadre et lui dit qu’elle voit ce que cela lui a demandé. Il préfère le laisser au groupe suivant et lui propose de reprendre la question vendredi. Elle accepte et laisse le cadre sur l’étagère. Dans l’enveloppe, elle ajoute une note sur le retard de l’autre groupe. Elle voudrait le raconter au cabinet, avec ce qu’elle avait pensé en lisant son propre rappel.",
+      "mirror": [
+        "Karim peut dire « Le cadre est disponible pour l’autre groupe aujourd’hui. Vendredi, je peux regarder avec toi où mettre un essai. » Il peut préciser ce qu’il a dû déplacer et ce dont il a besoin pour les prochains créneaux. Il peut garder la conversation sur l’atelier."
+      ],
+      "continuity": {
+        "choice": "Nawel reconnaît l’effet sur le groupe et reprend le rendez-vous de cadre sans faire une nouvelle promesse.",
+        "next": "Au cabinet, elle demande comment comprendre un effet ressenti différemment et la place de la tolérance dans l’évaluation."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Comprendre la tolérance et ce qu’elle dit de la dépendance",
+      "description": "Nawel décrit un effet qui lui paraît différent d’autrefois. Salomé replace cette observation dans l’histoire plus large de la consommation.",
+      "context": "En consultation d’addictologie, avant un nouvel essai de gravure",
+      "clinical_focus": "Tolérance et modification de l’effet ressenti",
+      "clinical_intro": "Nawel se rappelle l’effet qu’elle cherchait certains soirs et remarque qu’il lui paraît avoir changé. Dans les troubles liés aux substances, la tolérance désigne une réponse diminuée au fil d’expositions comparables. L’équipe distingue cette question de la maîtrise et des conséquences. Nawel peut décrire ce qu’elle a éprouvé sans essayer de vérifier l’effet par elle-même.",
+      "opening": "Au cabinet, Nawel sort l’enveloppe du lampadaire et pose sur la table le papier où elle a écrit ce que Karim a dû déplacer. Salomé demande comment elle a vécu ce soir-là. Nawel répond qu’elle avait attendu le même apaisement qu’elle croyait connaître en rentrant autrefois du magasin. Elle retrouve le moment où elle s’est demandé si les choses lui faisaient encore le même effet. Elle s’en souvient plus facilement que du début de l’atelier qu’elle a manqué.\n\nElle a cherché le mot pour en parler et a lu « tolérance » dans un document du cabinet. Elle demande si cela veut dire qu’elle a simplement pris une habitude, ou si c’est ce qui fait que la dépendance a été retenue lors de l’évaluation. Salomé lui demande ce qu’elle a remarqué dans le temps et ce qui pouvait être différent ces jours-là. Elle propose de garder séparées la question de l’effet et celle des engagements.\n\nNawel regarde le papier du cadre. Lorsqu’elle pense à son retour, elle pense d’abord à l’apaisement qu’elle voulait retrouver. Lorsqu’elle pense à Karim, elle se rappelle la table à rendre à l’autre groupe. Elle dit à Salomé que les deux histoires la préoccupent. Elle veut comprendre ce que le mot désigne sans en faire quelque chose qu’elle doit mesurer chez elle.",
+      "conclusion": "La question de l’effet attendu trouve sa place au cabinet. Nawel garde aussi le temps perdu et les engagements parmi les éléments qui comptent dans l’accompagnement.",
+      "number": 6,
+      "slug": "nawel-effet-attendu-et-effet-ressenti",
+      "topics": [
+        "Tolérance",
+        "Effets perçus",
+        "Évaluation clinique"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un effet qui change se discute dans le temps",
+          "text": "La tolérance correspond à une diminution de la réponse à une substance lors d’expositions comparables et répétées. Un effet perçu différemment peut avoir plusieurs explications. L’équipe le situe avec les autres informations et peut parler d’adaptation sans réduire la dépendance à cette seule question. Nawel s’intéresse aussi à la régulation de sa consommation et au temps que les décisions du soir prennent sur l’atelier."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’évolution d’un effet peut-elle entrer dans un bilan ?",
+          "points": [
+            {
+              "heading": "L’effet attendu reste dans la mémoire",
+              "text": "Une personne peut se rappeler ce qu’elle cherchait à un autre moment de sa vie.",
+              "examples": [
+                "Nawel se souvient de l’apaisement associé à ses premiers retours.",
+                "Quelqu’un peut décrire un changement en comparant le vécu de deux périodes, avec des détails encore incertains."
+              ]
+            },
+            {
+              "heading": "Le ressenti actuel demande son contexte",
+              "text": "Plusieurs facteurs peuvent peser sur ce que la personne remarque.",
+              "examples": [
+                "Salomé demande ce qui se passait les soirs où Nawel a perçu une différence.",
+                "Un professionnel peut tenir compte de ce qui a changé dans la vie quotidienne au même moment."
+              ]
+            },
+            {
+              "heading": "La régulation reste une question distincte",
+              "text": "Le bilan porte aussi sur les décisions et les conséquences.",
+              "examples": [
+                "Le rendez-vous de gravure a été perdu même si l’effet attendu est resté difficile à décrire.",
+                "Une personne peut demander de l’aide pour tenir ses engagements sans savoir quel rôle joue la tolérance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aborder la tolérance en consultation",
+          "points": [
+            {
+              "heading": "Comparer deux périodes connues",
+              "objective": "Décrire ce que vous avez remarqué sans provoquer un nouvel essai.",
+              "exercise": [
+                "Situez une période passée dont vous vous souvenez.",
+                "Dites quel changement vous avez perçu depuis.",
+                "Ajoutez le contexte et ce qui reste incertain."
+              ],
+              "benefit": "Le professionnel peut interpréter l’observation dans une histoire plus large."
+            },
+            {
+              "heading": "Poser une question sur le terme",
+              "objective": "Clarifier ce que la notion veut dire pour le suivi.",
+              "exercise": [
+                "Dites quel mot vous pose question.",
+                "Demandez comment il se distingue d’une habitude du soir.",
+                "Vérifiez ce que votre soignante peut en dire dans votre cas."
+              ],
+              "benefit": "Vous pouvez comprendre la notion sans vous évaluer seule."
+            },
+            {
+              "heading": "Garder une conséquence à discuter",
+              "objective": "Donner une place à la difficulté qui a un effet sur vos projets.",
+              "exercise": [
+                "Choisissez un rendez-vous qui a été touché.",
+                "Décrivez la décision qui a changé en cours de soirée.",
+                "Demandez comment ce retentissement peut entrer dans le suivi."
+              ],
+              "benefit": "L’accompagnement peut partir aussi de ce que vous souhaitez retrouver."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe et la feuille séparées",
+      "ending": "Salomé reprend les questions l’une après l’autre. Nawel lui dit qu’elle voudrait garder la gravure comme un des repères de leur prochain bilan. Elle repart avec une date et le contact du service si elle a besoin de parler d’un changement. Dans l’enveloppe, elle remet le dessin du lampadaire. La feuille sur le rendez-vous de Karim reste devant pour qu’elle la retrouve vendredi.",
+      "mirror": [
+        "Soraya peut écouter si Nawel souhaite raconter son rendez-vous. Elle peut demander « Tu veux que je t’écoute ou qu’on regarde ce qu’il reste à tirer pour l’escalier ? » Elle n’a pas besoin de mesurer un effet, de vérifier la consommation ou de décider ce que Nawel doit faire ensuite."
+      ],
+      "continuity": {
+        "choice": "Nawel clarifie la tolérance et garde un objectif concret pour le suivi de la dépendance.",
+        "next": "Plus tard, un changement de sommeil qu’elle situe dans le temps lui donne une question distincte à rapporter à l’équipe."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Parler d’un sommeil qui change au cours du suivi",
+      "description": "Nawel dort moins bien depuis un changement discuté au cabinet. Elle cherche à situer ce qui arrive avant de l’attribuer à une cause.",
+      "context": "Au réveil après plusieurs nuits difficiles, puis au contact du service",
+      "clinical_focus": "Troubles du sommeil et évaluation du sevrage",
+      "clinical_intro": "Nawel se réveille plusieurs fois au cours d’une période où sa consommation a changé. Elle pense aussi aux horaires du magasin et à la préparation de l’exposition. Des troubles du sommeil peuvent survenir lors d’un sevrage du cannabis, avec d’autres explications possibles. Nawel utilise le contact convenu pour décrire le moment où la difficulté est apparue et demander comment la faire évaluer.",
+      "opening": "La porte du magasin est encore fermée quand Nawel arrive devant. Elle a l’habitude de reconnaître le bruit du premier camion, mais elle est partie assez tôt pour n’entendre que la clé de la boutique voisine. Elle n’a pas dormi comme elle s’y attendait. Cette nuit encore, elle s’est réveillée plusieurs fois avant le jour. Elle a ouvert le carnet de l’escalier dans la cuisine puis l’a refermé quand elle a perdu le fil de son dessin.\n\nAu cabinet, elle et Salomé avaient parlé d’un changement concernant sa consommation et des moments où Nawel devrait les joindre. Elle a l’impression que les nuits difficiles sont venues autour de cette période. Elle pense aussi à l’ouverture plus tôt du magasin et à la question du cadre qu’elle a encore en tête le soir. En retrouvant le message avec le numéro du service, elle se demande s’il faut attendre d’être certaine du lien pour appeler.\n\nLa collègue qui ouvre ce matin la voit depuis la vitre et lui fait signe d’attendre quelques secondes. Nawel lui demande quand elle pourra prendre sa pause pour joindre le service. Elle n’a pas besoin de dire pourquoi devant le comptoir. Elle voudrait pouvoir expliquer qu’elle se réveille, depuis quand et ce que cela change dans sa journée.",
+      "conclusion": "Nawel a signalé le changement de sommeil et gardé les autres circonstances dans son récit. L’équipe pourra les examiner avec elle pendant que le rendez-vous de gravure reste à organiser.",
+      "number": 7,
+      "slug": "nawel-les-nuits-que-nawel-veut-situer",
+      "topics": [
+        "Sommeil",
+        "Chronologie du changement",
+        "Avis en addictologie"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un symptôme se situe avant de s’interpréter",
+          "text": "Des changements du sommeil peuvent faire partie des manifestations d’un sevrage du cannabis. Un sevrage peut survenir après une diminution ou un arrêt de la consommation. Un sommeil perturbé peut aussi avoir d’autres causes. L’équipe regarde la chronologie, le contexte et les autres difficultés éventuelles, sans demander à la personne de décider seule de leur origine. Nawel décrit le changement observé et l’effet qu’il a sur le travail. Le contact avec le service permet de déterminer la suite adaptée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un changement du sommeil peut-il être décrit au suivi ?",
+          "points": [
+            {
+              "heading": "L’apparition peut être située approximativement",
+              "text": "Quelques dates peuvent aider à remettre les événements dans l’ordre.",
+              "examples": [
+                "Nawel se souvient de plusieurs nuits difficiles après le dernier contact.",
+                "Une personne peut indiquer qu’un réveil inhabituel est revenu autour d’une modification récente."
+              ]
+            },
+            {
+              "heading": "La gêne s’étend au lendemain",
+              "text": "Les effets au travail ou à la maison peuvent apporter une information.",
+              "examples": [
+                "Nawel ouvre son carnet de bonne heure et n’arrive pas à reprendre le dessin.",
+                "Quelqu’un peut avoir du mal à garder une attention habituelle après plusieurs nuits interrompues."
+              ]
+            },
+            {
+              "heading": "D’autres changements sont présents",
+              "text": "Le contexte peut contenir plusieurs éléments à examiner.",
+              "examples": [
+                "Nawel travaille plus tôt et pense au rendez-vous du cadre.",
+                "Un horaire, une inquiétude ou un autre changement de santé peuvent aussi être discutés en consultation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour demander un avis sur un sommeil qui change",
+          "points": [
+            {
+              "heading": "Préparer une chronologie courte",
+              "objective": "Aider le service à comprendre l’ordre des événements.",
+              "exercise": [
+                "Notez la première nuit dont vous vous souvenez.",
+                "Dites ce qui a changé dans la même période.",
+                "Décrivez ce que vous remarquez le lendemain."
+              ],
+              "benefit": "L’entretien peut partir d’éléments concrets."
+            },
+            {
+              "heading": "Utiliser le contact convenu",
+              "objective": "Vérifier avec l’équipe quelle suite est indiquée.",
+              "exercise": [
+                "Retrouvez les coordonnées données au rendez-vous.",
+                "Expliquez la difficulté et son effet sur la journée.",
+                "Demandez comment et quand la faire évaluer."
+              ],
+              "benefit": "Le professionnel peut apprécier la situation avec vous."
+            },
+            {
+              "heading": "Demander une pause de travail adaptée",
+              "objective": "Garder une possibilité d’appeler sans exposer ses informations de santé.",
+              "exercise": [
+                "Choisissez un créneau compatible avec le service.",
+                "Indiquez à la collègue combien de temps vous demandez.",
+                "Convenez de la façon de couvrir le comptoir."
+              ],
+              "benefit": "L’appel peut avoir sa place dans la journée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une phrase au moment de la pause",
+      "ending": "Nawel joint le service et décrit les réveils et le changement d’horaire. La personne qui lui répond reprend les éléments avec elle et l’oriente vers un échange avec l’équipe. Nawel vérifie quand rappeler si la difficulté évolue. Elle range le carnet et rejoint la collègue au comptoir. Elle garde l’estampe de l’escalier pour un moment où elle pourra regarder la feuille sans avoir à surveiller l’heure.",
+      "mirror": [
+        "Soraya peut dire « Tu as dit que tu dors mal. Tu veux qu’on regarde la feuille un autre jour ? » Elle peut choisir le temps qu’elle a pour aider et laisser à Nawel le choix de parler de ce qu’elle a convenu avec le service. L’évaluation du sommeil revient aux professionnels."
+      ],
+      "continuity": {
+        "choice": "Nawel contacte le service pour faire évaluer le changement de sommeil sans en présumer la cause.",
+        "next": "Elle doit décider ce qu’elle souhaite dire à Soraya au sujet de son suivi et des soirées qu’elles ont déplacées."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Parler d’une dépendance quand on redoute d’être ramené à elle",
+      "description": "Soraya demande comment Nawel a vécu les derniers cours. Nawel envisage de nommer son suivi et choisit les détails qu’elle garde pour elle.",
+      "context": "Pendant un temps à deux, après le retour sur l’escalier",
+      "clinical_focus": "Crainte du jugement au moment de se confier",
+      "clinical_intro": "Nawel aimerait expliquer à Soraya pourquoi certains soirs ont pris une autre direction. Elle redoute qu’un mot sur sa dépendance au cannabis change la manière dont son amie voit tout le reste. La honte et l’anticipation du jugement peuvent compliquer une demande d’aide. Nawel choisit une part de ce qu’elle souhaite partager et demande à Soraya de respecter cette limite.",
+      "opening": "Soraya a apporté une épreuve de l’escalier sur papier léger. Elle la tient par le haut pour que Nawel voie la fissure du palier. Le trait que Nawel pensait trop fin devient visible dès qu’on recule un peu. Soraya dit qu’elle peut rester jusqu’au prochain bus et demande si elles veulent parler de la troisième image. Nawel aurait aimé lui montrer la porte vitrée, mais elle s’arrête au moment de refermer le carnet.\n\nIl y a une semaine, Soraya a attendu sa réponse et lui a envoyé les photos du premier tirage. Elle n’a pas demandé ce qui s’était passé avant le bus manqué. Nawel pourrait dire que les heures du magasin ont changé. Ce serait vrai et cela laisserait dans l’ombre les rendez-vous qui ont pris une autre place bien avant. Elle a peur que, si elle parle du cannabis, Soraya n’entende plus que ce mot quand elle lui propose de dessiner ensemble.\n\nSoraya retourne l’épreuve pour lire une inscription au dos. Nawel lui demande si elle peut lui dire quelque chose avant de parler de la porte. Elle veut raconter qu’elle est suivie et que certaines décisions du soir restent difficiles. Elle ne veut pas détailler sa consommation. Elle tient encore la feuille par le coin et sait qu’elle voudrait avoir le temps de finir.",
+      "conclusion": "Nawel a pu choisir ce qu’elle disait et la part qu’elle gardait privée. Elle revient au projet de la porte avec Soraya après avoir nommé le suivi et le temps qu’elle voudrait retrouver.",
+      "number": 8,
+      "slug": "nawel-un-mot-que-nawel-choisit-de-dire",
+      "topics": [
+        "Honte",
+        "Crainte du jugement",
+        "Confidence choisie"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le choix de se confier et la peur d’être jugée",
+          "text": "La crainte de réactions stigmatisantes peut rendre difficile le fait de parler d’une dépendance. La personne peut souhaiter partager une conséquence, un besoin ou l’existence d’un suivi et garder d’autres informations privées. Nawel a choisi de parler à Soraya parce que leurs rendez-vous comptent pour elle. La confidence ne décide pas de ce que Soraya doit accepter. Elle peut ouvrir un échange sur ce qu’elles souhaitent faire ensemble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la peur du jugement pèse-t-elle sur une confidence ?",
+          "points": [
+            {
+              "heading": "Une autre explication semble plus facile à donner",
+              "text": "La personne peut craindre le sens que l’autre donnera au mot dépendance.",
+              "examples": [
+                "Nawel envisage de dire seulement que ses horaires ont changé.",
+                "Quelqu’un peut mentionner la fatigue avant de savoir s’il veut évoquer son accompagnement."
+              ]
+            },
+            {
+              "heading": "La réaction redoutée occupe l’échange d’avance",
+              "text": "La personne peut craindre que tout le reste soit interprété à partir de cette information.",
+              "examples": [
+                "Nawel redoute que Soraya entende toujours le même mot quand elles parlent de gravure.",
+                "Une personne peut hésiter à parler d’un soin par peur que ses goûts et projets deviennent secondaires."
+              ]
+            },
+            {
+              "heading": "Le niveau de détail se choisit",
+              "text": "Le souhait de dire une chose peut coexister avec une limite sur les autres.",
+              "examples": [
+                "Nawel veut nommer son suivi sans détailler la consommation.",
+                "Quelqu’un peut demander de parler du rendez-vous manqué et garder le reste pour le cabinet."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir ce que l’on souhaite confier",
+          "points": [
+            {
+              "heading": "Préparer la première phrase",
+              "objective": "Dire ce qui vous amène à l’échange.",
+              "exercise": [
+                "Nommez la relation ou le rendez-vous qui compte.",
+                "Choisissez une information que vous souhaitez transmettre.",
+                "Demandez à votre amie si elle a le temps de vous écouter."
+              ],
+              "benefit": "La confidence peut partir d’un besoin situé."
+            },
+            {
+              "heading": "Dire la limite du détail",
+              "objective": "Garder la possibilité d’arrêter ou de reprendre plus tard.",
+              "exercise": [
+                "Précisez ce que vous préférez garder pour vous.",
+                "Dites à qui l’information est destinée.",
+                "Convenez d’un sujet sur lequel vous pouvez continuer ensemble."
+              ],
+              "benefit": "Votre proche peut comprendre ce que vous lui demandez."
+            },
+            {
+              "heading": "Chercher un lieu sûr pour parler de la honte",
+              "objective": "Garder une autre possibilité si la confidence est difficile.",
+              "exercise": [
+                "Apportez le moment à votre équipe d’addictologie.",
+                "Dites ce que vous redoutez dans la réaction de l’autre.",
+                "Demandez quels appuis de parole vous conviennent."
+              ],
+              "benefit": "L’échange clinique peut accueillir les hésitations sans décider à votre place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux mots avant la porte",
+      "ending": "Nawel dit à Soraya qu’elle est suivie pour une dépendance au cannabis et qu’elle voudrait garder cette information entre elles. Elle ajoute que certains départs lui échappent et qu’elle veut retrouver du temps pour l’atelier. Soraya écoute et demande si Nawel souhaite encore parler. Nawel dit qu’elle préfère maintenant lui montrer la porte. Elles mettent l’épreuve de l’escalier dans le carnet pour la protéger jusqu’au prochain cours.",
+      "mirror": [
+        "Soraya peut dire « Merci de m’en parler. Je garde cette information pour moi. Tu veux que je t’écoute encore ou qu’on regarde la porte ? » Elle peut demander ce que Nawel souhaite comme aide, puis préciser ce qu’elle peut offrir. Elle peut aussi parler de ses propres contraintes si un rendez-vous est en jeu."
+      ],
+      "continuity": {
+        "choice": "Nawel se confie à Soraya à un niveau de détail choisi et préserve le temps qu’elles ont pour la troisième image.",
+        "next": "Elles discutent ensuite de l’aide que Soraya pourrait apporter et de celle qu’elle ne souhaite pas prendre en charge."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Demander du soutien tout en gardant ses décisions",
+      "description": "Soraya propose d’appeler Nawel avant les cours. Les deux amies cherchent un accord utile qui respecte leurs horaires et la liberté de Nawel.",
+      "context": "À l’atelier, en préparant le tirage de la porte vitrée",
+      "clinical_focus": "Soutien choisi sans contrôle de la consommation",
+      "clinical_intro": "Soraya aimerait faciliter les retrouvailles du soir et propose de rappeler Nawel avant le cours. Nawel apprécie l’idée de se retrouver et redoute de devoir rendre compte de tout ce qu’elle fait entre le magasin et l’atelier. Dans l’accompagnement d’une dépendance, l’aide d’un proche peut rester précise et consentie. Les deux amies décident quel rendez-vous elles veulent tenir et quelle responsabilité chacune garde.",
+      "opening": "Karim place l’estampe de la porte sur une table près de la fenêtre. Il demande à Nawel de décider si elle veut laisser apparaître la personne qui se reflète dans la vitre. Elle voudrait garder seulement la poignée et un bout de lumière à hauteur du bras. Soraya trouve que l’image perdra son mouvement si elles enlèvent le reflet entier. Elles ont convenu de retrouver cette question au prochain cours après que Nawel aura terminé au magasin.\n\n« Tu veux que je t’appelle avant que tu rentres ? » demande Soraya. Elle peut attendre devant l’atelier le jeudi, mais elle a déjà un autre rendez-vous le mardi. Nawel entend d’abord la proposition de marcher ensemble jusqu’à la table. Puis elle se demande ce qu’elle devra répondre si elle a encore du mal à partir. Elle voudrait pouvoir dire qu’elle ne vient pas et en parler au cabinet sans avoir à donner toutes les raisons à son amie.\n\nSoraya repose l’épreuve. Elle lui demande si cela l’aiderait qu’elles se voient à l’arrêt plutôt qu’à l’atelier. Nawel connaît un banc où elles pourraient ouvrir le carnet en attendant. Elle propose d’envoyer elle-même un message avant une certaine heure. Si elle n’a pas écrit, Soraya pourra commencer le cours et garder le reflet pour qu’elles en discutent plus tard.",
+      "conclusion": "Les deux amies ont un rendez-vous qu’elles peuvent confirmer et un rôle qu’elles choisissent. L’appui concerne la gravure et la présence, tandis que Nawel garde la conduite de son suivi.",
+      "number": 9,
+      "slug": "nawel-deux-horaires-et-une-limite",
+      "topics": [
+        "Soutien consenti",
+        "Autonomie",
+        "Disponibilité des proches"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un appui peut être précis et révisable",
+          "text": "L’entourage peut soutenir une personne dans le cadre qu’elle choisit, par une présence, une écoute ou un rendez-vous. Le rôle d’un proche gagne à être distingué de l’évaluation clinique et du contrôle des décisions. Pour Nawel et Soraya, l’objet commun est le cours. Elles peuvent convenir d’une heure et d’une réponse en cas d’absence sans transformer l’amitié en surveillance de la consommation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître un soutien qui laisse de la place aux choix ?",
+          "points": [
+            {
+              "heading": "L’aide vise une activité partagée",
+              "text": "Un rendez-vous peut soutenir la participation à quelque chose que les deux personnes apprécient.",
+              "examples": [
+                "Nawel et Soraya veulent décider ensemble de la place du reflet.",
+                "Un ami peut proposer de marcher jusqu’à un cours sans demander de compte rendu médical."
+              ]
+            },
+            {
+              "heading": "La personne garde l’initiative qu’elle souhaite",
+              "text": "Elle peut dire qui contacte qui et dans quelles limites.",
+              "examples": [
+                "Nawel propose d’envoyer elle-même le message.",
+                "Quelqu’un peut choisir une heure de confirmation et garder pour son soignant les raisons d’un changement."
+              ]
+            },
+            {
+              "heading": "La disponibilité du proche a aussi un cadre",
+              "text": "L’appui dépend de ce que le proche peut offrir.",
+              "examples": [
+                "Soraya peut venir le jeudi et a déjà un engagement le mardi.",
+                "Une amie peut être disponible pendant un trajet et poursuivre ses propres activités ensuite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour définir un soutien à deux",
+          "points": [
+            {
+              "heading": "Nommer ce que vous voulez partager",
+              "objective": "Proposer une aide compréhensible et délimitée.",
+              "exercise": [
+                "Dites quel rendez-vous compte pour vous.",
+                "Indiquez le geste qui pourrait vous aider.",
+                "Demandez ce qui convient réellement à l’autre."
+              ],
+              "benefit": "L’accord peut s’appuyer sur un désir commun."
+            },
+            {
+              "heading": "Convenir d’une réponse en cas d’absence",
+              "objective": "Éviter que l’autre doive attendre sans information.",
+              "exercise": [
+                "Choisissez une heure pour confirmer.",
+                "Dites ce qui se passe sans réponse.",
+                "Laissez chacun garder son trajet ou son programme."
+              ],
+              "benefit": "Le soutien reste possible même si un rendez-vous change."
+            },
+            {
+              "heading": "Garder les questions de soins pour leur cadre",
+              "objective": "Séparer l’aide d’une amie et le suivi spécialisé.",
+              "exercise": [
+                "Identifiez la question que vous voulez poser à votre équipe.",
+                "Notez comment joindre le service.",
+                "Dites à votre proche ce que vous souhaitez partager de cette démarche."
+              ],
+              "benefit": "Chacun peut connaître son rôle sans devoir surveiller les décisions."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le banc et le reflet",
+      "ending": "Nawel propose dix-huit heures au banc et un message avant que Soraya quitte son travail. Elles choisissent ce qu’elles feront si Nawel ne peut pas venir. Soraya commencera le cours et laissera la feuille à plat pour qu’elles puissent la regarder plus tard. Nawel garde la question du suivi pour Salomé. Elle dit à Soraya qu’elle aimerait quand même essayer de dessiner le reflet sur un coin de papier.",
+      "mirror": [
+        "Soraya peut répondre « Je peux t’attendre au banc jusqu’à l’heure du cours. Si tu ne viens pas, je commence et on se parle plus tard. » Elle peut laisser à Nawel le choix de donner une raison. Si la conversation concerne le soin, elle peut demander quel appui est souhaité et préciser ses propres limites."
+      ],
+      "continuity": {
+        "choice": "Nawel et Soraya choisissent un horaire, une réponse sans attente prolongée et un appui qui ne repose pas sur le contrôle.",
+        "next": "Un déplacement des horaires modifie ensuite le contexte où Nawel avait commencé à retrouver les cours."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Reprendre le suivi quand un ancien fonctionnement revient",
+      "description": "Un nouvel horaire décale la rencontre avec Soraya. Nawel remarque que certaines décisions qu’elle avait commencé à retrouver lui échappent de nouveau.",
+      "context": "Après plusieurs changements d’horaire au magasin",
+      "clinical_focus": "Retour des difficultés après un changement d’organisation",
+      "clinical_intro": "Nawel avait retrouvé quelques cours en préparant l’heure avec Soraya. Le magasin ferme plus tard plusieurs soirs et elle remarque qu’elle recommence à organiser certains retours autour de la consommation. Le suivi de la dépendance peut tenir compte de ces variations. Le récit montre comment elle apporte le changement au cabinet et garde ce qui l’avait aidée, en l’adaptant aux nouveaux horaires.",
+      "opening": "La nouvelle fermeture est écrite au feutre violet au dos du registre. Nawel la connaît depuis le début de la semaine. Elle attend pourtant le bruit du volet à l’heure habituelle, comme si quelqu’un allait encore lui dire qu’elle peut partir. Au deuxième soir, elle a écrit trop tard pour retrouver Soraya au banc. Soraya a commencé le cours de son côté, selon leur accord. Elle lui a laissé un dessin de reflet sur le coin de l’épreuve.\n\nNawel a consommé après certains de ces retours et retrouve une façon de repousser l’heure à laquelle elle pensait rejoindre l’atelier. Elle hésite à dire à Salomé que tout est reparti comme avant. En reprenant le carnet, elle voit deux épreuves qu’elle a pu discuter la semaine précédente. Elle retrouve aussi le message envoyé à temps avant un cours qu’elle avait voulu garder. Ce soir, le banc ne peut plus servir de rendez-vous si elle part après Soraya.\n\nElle écrit à son amie pour lui demander quand elle souhaite parler du reflet. Soraya répond qu’elle peut à nouveau rester jeudi après le cours, sans attendre en bas. Nawel regarde le registre avant de répondre. Elle voudrait expliquer à l’équipe ce qui a changé au magasin, les deux retours qui l’ont préoccupée et la partie de leur accord qu’elle peut encore tenir.",
+      "conclusion": "Les horaires ont changé et certains soirs redeviennent difficiles. Nawel garde l’exemple des cours retrouvés et examine avec l’équipe comment maintenir une place pour eux dans sa situation actuelle.",
+      "number": 10,
+      "slug": "nawel-le-rideau-ferme-plus-tard",
+      "topics": [
+        "Retour de difficultés",
+        "Changement de contexte",
+        "Ajustement du suivi"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un retour de difficulté donne une information sur le contexte",
+          "text": "Au cours du suivi d’une dépendance, une personne peut retrouver des manières de décider qui lui posaient problème. Un changement d’horaire, de disponibilité ou de contexte peut rendre un appui moins accessible. L’équipe peut examiner ce qui a changé, ce qui reste difficile et ce que la personne veut garder. Nawel rapporte des retours précis et conserve des exemples de rendez-vous qu’elle a pu retrouver."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une difficulté peut-elle revenir avec de nouvelles contraintes ?",
+          "points": [
+            {
+              "heading": "Un repère n’est plus disponible à la même heure",
+              "text": "Un appui utile dépend parfois du moment et de la présence d’une autre personne.",
+              "examples": [
+                "Le banc ne convient plus quand Nawel quitte le magasin après Soraya.",
+                "Un échange avant un cours peut disparaître si les horaires des deux personnes changent."
+              ]
+            },
+            {
+              "heading": "Une ancienne organisation redevient familière",
+              "text": "La place donnée à la consommation peut reprendre dans les décisions du soir.",
+              "examples": [
+                "Nawel retrouve la façon de repousser son départ vers l’atelier.",
+                "Quelqu’un peut recommencer à renoncer à un détour qu’il avait recommencé à faire."
+              ]
+            },
+            {
+              "heading": "Les expériences réussies restent accessibles au bilan",
+              "text": "Les variations ne donnent pas toutes la même image du suivi.",
+              "examples": [
+                "Nawel retrouve les deux épreuves qu’elle avait discutées la semaine précédente.",
+                "Une personne peut raconter un rendez-vous tenu et un autre qu’elle a récemment manqué."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire le point après un retour de difficulté",
+          "points": [
+            {
+              "heading": "Nommer les nouvelles contraintes",
+              "objective": "Séparer ce qui a changé autour de la difficulté.",
+              "exercise": [
+                "Situez l’horaire qui ne correspond plus.",
+                "Dites quel appui vous n’avez pas retrouvé.",
+                "Ajoutez ce qui s’est passé lors des retours concernés."
+              ],
+              "benefit": "Le suivi peut examiner le contexte précis."
+            },
+            {
+              "heading": "Choisir ce qui peut rester dans l’accord",
+              "objective": "Préserver une possibilité commune qui tient dans les nouveaux horaires.",
+              "exercise": [
+                "Demandez quand Soraya peut parler du reflet.",
+                "Proposez un moment que vous pouvez confirmer.",
+                "Convenez de ce que chacune fait si le créneau change."
+              ],
+              "benefit": "Le projet de gravure peut continuer sur une autre base."
+            },
+            {
+              "heading": "Apporter les deux expériences au cabinet",
+              "objective": "Donner une place à l’appui utile et à la difficulté revenue.",
+              "exercise": [
+                "Retrouvez une situation où le rendez-vous a tenu.",
+                "Ajoutez une situation où la consommation a repris sa place.",
+                "Demandez comment l’équipe propose de travailler sur ce décalage."
+              ],
+              "benefit": "L’accompagnement peut s’ajuster à la situation actuelle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le rendez-vous se déplace à la table",
+      "ending": "Nawel demande à Soraya de garder dix minutes après le cours pour le reflet, si elle en a encore le temps jeudi. Elle garde le contact du service et apporte au rendez-vous le changement d’horaire et les deux soirs dont elle se souvient. Sur la feuille du reflet, elle entoure l’endroit où la lumière touche la poignée. La prochaine discussion pourra commencer là, même si elles n’arrivent plus par le même chemin.",
+      "mirror": [
+        "Soraya peut dire « Je peux regarder la porte jeudi après le cours. Si tu ne viens pas, je laisse la feuille dans ton casier. » Elle peut dire ce que la modification lui permet et garder la liberté de partir. Nawel choisit les éléments sur la consommation qu’elle souhaite réserver au cabinet."
+      ],
+      "continuity": {
+        "choice": "Nawel parle du changement d’horaire au rendez-vous et trouve avec Soraya un autre temps pour l’épreuve.",
+        "next": "Elle retrouve ensuite un moment qu’elle apprécie dans le groupe, distinct du simple fait d’arriver au cours."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Retrouver un intérêt et des liens dans une activité délaissée",
+      "description": "Nawel et le groupe découvrent un détail de la dernière estampe. Elle retrouve le plaisir d’une discussion qu’elle ne pensait plus avoir le temps de garder.",
+      "context": "À la fin d’un cours, en discutant du troisième tirage avec le groupe",
+      "clinical_focus": "Réinvestissement d’une activité et de liens choisis",
+      "clinical_intro": "Nawel avait pris l’habitude de quitter l’atelier avant que les autres parlent de leurs tirages. Elle reste cette fois pour comparer les reflets avec le groupe. Dans un parcours de soin pour la dépendance au cannabis, retrouver une activité ou une relation appréciée peut être un objectif à part entière. Nawel remarque ce que la discussion lui apporte, même quand certains soirs restent difficiles.",
+      "opening": "Le reflet tient finalement dans un angle de la vitre. Soraya remarque qu’on peut le voir en reculant d’un pas. Karim laisse les trois épreuves à plat près de la table pour que les autres puissent passer. Nawel retrouve d’abord l’arrêt au lampadaire, puis l’escalier. La porte est la seule image où elle n’a pas dessiné l’endroit depuis lequel elle la regardait. Elle attend de voir si quelqu’un le lui fera remarquer.\n\nEn fin de cours, une autre participante propose de faire le tour des tirages avant de les emporter. Nawel pensait rentrer dès que le cadre serait rangé. Elle a encore envie de partir au moment où la question du reflet revient. Elle se rappelle les soirs où le groupe restait près de l’escalier. Aujourd’hui, elle a le temps d’entendre au moins la première réponse. Elle dit qu’elle peut rester jusqu’à ce que la table soit libérée.\n\nUne participante voit dans la vitre quelqu’un qui va entrer. Nawel explique qu’elle avait d’abord voulu effacer entièrement la silhouette. Soraya raconte la première épreuve où elles ne se mettaient pas d’accord. Deux personnes rapprochent l’image de la porte et celle de l’arrêt. Nawel se prend à demander laquelle donnerait envie de regarder la suivante. Le cadre est déjà sur l’étagère. Il lui reste à décider l’ordre pour l’exposition.",
+      "conclusion": "Le groupe a aidé Nawel à décider comment montrer les trois images. Rester pour cette discussion lui a rendu un moment qu’elle apprécie, même si la suite de ses soirées garde ses difficultés.",
+      "number": 11,
+      "slug": "nawel-la-porte-quon-regarde-deux-fois",
+      "topics": [
+        "Engagement dans les activités",
+        "Appui du groupe",
+        "Intérêt retrouvé"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une activité peut redevenir importante pour elle-même",
+          "text": "Lorsque la consommation a pris du temps sur des activités ou des liens, le suivi peut prendre en compte ce que la personne souhaite retrouver. La participation peut avoir plusieurs formes et ne renseigne pas seule sur l’évolution du trouble. Nawel retrouve une discussion et un intérêt qu’elle avait peu à peu délaissés. Elle peut parler de ce moment avec Salomé et continuer de choisir la place qu’elle veut donner au groupe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment reconnaître qu’une activité retrouve une place ?",
+          "points": [
+            {
+              "heading": "Une raison précise donne envie de rester",
+              "text": "La présence peut s’appuyer sur un intérêt qui appartient à la personne.",
+              "examples": [
+                "Nawel attend les réactions sur le reflet dans la porte.",
+                "Quelqu’un peut choisir de rester après un atelier pour entendre un commentaire sur son travail."
+              ]
+            },
+            {
+              "heading": "Le lien fait partie de l’activité",
+              "text": "La reprise peut concerner aussi les échanges qui se font autour du projet.",
+              "examples": [
+                "Soraya raconte leur ancien désaccord sur le reflet.",
+                "Des participants peuvent reprendre une conversation qu’ils ne trouvaient plus le temps d’avoir."
+              ]
+            },
+            {
+              "heading": "Le temps choisi reste modulable",
+              "text": "La participation peut tenir dans une durée acceptable.",
+              "examples": [
+                "Nawel prévoit de rester jusqu’à ce que la table soit libérée.",
+                "Une personne peut assister à une partie d’un rendez-vous et préparer la suite un autre jour."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour donner de la place à une activité retrouvée",
+          "points": [
+            {
+              "heading": "Nommer ce qui vous y attache",
+              "objective": "Retrouver votre propre raison d’être présente.",
+              "exercise": [
+                "Choisissez une question que vous voulez poser au groupe.",
+                "Décidez à quel moment vous pouvez l’aborder.",
+                "Gardez la réponse que vous aimeriez retrouver."
+              ],
+              "benefit": "Le rendez-vous peut avoir un intérêt au-delà de l’horaire."
+            },
+            {
+              "heading": "Proposer un échange que chacun peut tenir",
+              "objective": "Garder le lien avec un temps disponible.",
+              "exercise": [
+                "Indiquez combien de temps vous pouvez rester.",
+                "Demandez ce que les autres ont envie de regarder.",
+                "Laissez un point à reprendre si la séance doit finir."
+              ],
+              "benefit": "Chacun peut participer selon ses possibilités."
+            },
+            {
+              "heading": "Raconter l’activité au suivi",
+              "objective": "Faire apparaître ce qui est redevenu possible.",
+              "exercise": [
+                "Décrivez l’échange auquel vous avez pris part.",
+                "Expliquez ce que vous avez aimé.",
+                "Dites ce qui vous semble encore difficile autour du retour."
+              ],
+              "benefit": "L’équipe peut tenir compte de vos priorités et des difficultés qui persistent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le lampadaire avant la porte",
+      "ending": "Nawel rapproche les trois feuilles. Elle garde le lampadaire en premier, puis l’escalier, puis la porte. Soraya propose de faire un essai avec les feuilles espacées, comme si la lumière laissait une place entre les images. Nawel l’écrit dans le carnet. Elle quitte l’atelier quand la table est libre. En passant près du palier, elle envoie au groupe la photo de l’ordre retenu.",
+      "mirror": [
+        "Soraya peut dire « J’aimerais voir ce que l’ordre donne sur le mur. Tu veux qu’on l’essaie dix minutes jeudi ? » Elle peut s’intéresser au projet et préciser le temps dont elle dispose. Si Nawel parle de son suivi, elle peut lui demander ce qu’elle souhaite en partager."
+      ],
+      "continuity": {
+        "choice": "Nawel garde un temps de discussion avec le groupe et fixe l’ordre des trois estampes.",
+        "next": "À l’ouverture de l’exposition, elle prépare un bilan qui tient compte du projet et de ce qui reste difficile."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    },
+    {
+      "title": "Faire le bilan d’un suivi au-delà d’une seule soirée",
+      "description": "Les trois estampes sont accrochées. Nawel parle des engagements retrouvés et des soirées encore difficiles lors de son suivi.",
+      "context": "À l’ouverture de l’exposition et avant le point suivant en addictologie",
+      "clinical_focus": "Bilan des changements dans plusieurs domaines",
+      "clinical_intro": "Le lampadaire, l’escalier et la porte sont accrochés dans l’ordre choisi. Nawel a retrouvé des moments avec le groupe et continue de rencontrer des difficultés certains soirs. Le suivi de la dépendance au cannabis peut tenir compte des décisions, de la consommation et du retentissement sur le quotidien. Nawel prépare un bilan qui donne une place aux progrès observés et à la suite des soins.",
+      "opening": "La première pince est trop basse. Nawel demande à Karim s’ils peuvent la remonter d’un cran pour que la ligne du banc soit au niveau du milieu de l’escalier. Une fois les trois feuilles accrochées, elle recule jusqu’au seuil. La porte vitrée ferme l’ensemble et le reflet y reste presque caché. Soraya arrive avec les cartons de titre et lui dit qu’elle pourra rester jusqu’à la première visite, puis ira retrouver son frère.\n\nNawel voulait dire que les trois images sont enfin au mur. Elle pense aussi au soir où l’équipe l’a rappelée parce que son sommeil avait changé. Elle se rappelle la dernière fermeture du magasin qui lui a encore laissé une impression de trajet décidé d’avance. Il y a eu un cours où elle a envoyé le message à temps, un autre qu’elle a manqué et la discussion où elle a gardé le reflet. Elle n’a pas envie d’effacer les différences pour savoir quoi dire à Salomé.\n\nUne personne regarde les feuilles avant que les cartons soient posés. « On doit commencer par lequel ? » demande-t-elle. Nawel dit que l’arrêt est celui qu’elle regarde en premier. Elle montre le trait blanc puis invite la personne à se déplacer vers l’escalier. Dans la poche du carnet, elle garde la date du rendez-vous qu’elle a convenu avec le cabinet.",
+      "conclusion": "L’exposition a donné à Nawel des rendez-vous et des échanges qu’elle voulait retrouver. Elle les garde dans son bilan avec les soirs qui restent difficiles et un prochain point convenu en addictologie.",
+      "number": 12,
+      "slug": "nawel-trois-estampes-sur-le-mur",
+      "topics": [
+        "Suivi dans la durée",
+        "Retentissement quotidien",
+        "Objectifs personnels"
+      ],
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le bilan rassemble des changements qui n’ont pas le même rythme",
+          "text": "Un suivi de dépendance peut s’appuyer sur la régulation de la consommation, la place qu’elle prend et ce qui change dans les activités, les relations et la santé. Une amélioration dans un domaine ne suffit pas à tirer une conclusion sur l’ensemble. Nawel peut décrire ce qu’elle a retrouvé et les moments qui lui demandent toujours un appui. Elle choisit avec l’équipe un objectif pour la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment voir ce qui change sur plusieurs aspects de la vie ?",
+          "points": [
+            {
+              "heading": "Des engagements deviennent plus accessibles",
+              "text": "Un accord mieux préparé peut permettre de reprendre une activité.",
+              "examples": [
+                "Nawel a pu participer à la discussion sur le reflet.",
+                "Une personne peut confirmer un rendez-vous plus tôt et retrouver un échange auquel elle tenait."
+              ]
+            },
+            {
+              "heading": "D’autres difficultés persistent",
+              "text": "Les changements ne sont pas uniformes dans toutes les situations.",
+              "examples": [
+                "Nawel pense à une fermeture qui l’a encore préoccupée avant de rentrer.",
+                "Un projet terminé peut coexister avec des soirées où les décisions restent difficiles à tenir."
+              ]
+            },
+            {
+              "heading": "La suite peut être décidée avec l’équipe",
+              "text": "Un bilan donne une place à la prochaine question utile.",
+              "examples": [
+                "Nawel garde la date prévue pour reparler des fermetures et des cours.",
+                "Une personne peut choisir au rendez-vous un contexte où elle voudrait plus de soutien."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un bilan qui suit votre quotidien",
+          "points": [
+            {
+              "heading": "Choisir deux faits à comparer",
+              "objective": "Décrire un effet utile et une difficulté récente.",
+              "exercise": [
+                "Nommez un engagement que vous avez retrouvé.",
+                "Ajoutez un moment où la consommation a encore occupé la place.",
+                "Dites ce qui rend les deux situations différentes."
+              ],
+              "benefit": "Le bilan peut partir d’exemples qui éclairent votre évolution."
+            },
+            {
+              "heading": "Garder un objectif choisi",
+              "objective": "Définir la prochaine question avec le soignant.",
+              "exercise": [
+                "Choisissez le moment de la semaine qui vous préoccupe.",
+                "Dites ce que vous aimeriez pouvoir y faire.",
+                "Demandez quel appui l’équipe propose de discuter."
+              ],
+              "benefit": "La suite peut rester liée à votre vie et à vos préférences."
+            },
+            {
+              "heading": "Convenir du prochain contact",
+              "objective": "Garder un lien clair après le rendez-vous.",
+              "exercise": [
+                "Vérifiez la date du point suivant.",
+                "Redemandez quel contact utiliser si quelque chose change.",
+                "Notez à part ce que vous voulez reprendre avec le groupe de gravure."
+              ],
+              "benefit": "Le soin et le projet peuvent chacun avoir une suite."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La lumière au bord du banc",
+      "ending": "Nawel laisse la personne comparer les trois estampes avant de raconter l’ordre qu’elle a choisi. Soraya accroche le dernier carton et lui demande si elle veut garder une photo pour le groupe. Nawel prend l’image avec les trois feuilles et le bord de la fenêtre. Plus tard, elle remet dans le carnet un mot sur le rendez-vous qu’elle veut préparer. Pour l’instant, elle revient près du lampadaire et demande à la visiteuse ce qu’elle a vu sur la porte.",
+      "mirror": [
+        "Soraya peut dire « Je peux rester jusqu’à la première visite. Tu veux qu’on prenne la photo maintenant ou après ? » Elle peut garder la limite donnée et s’intéresser à ce que Nawel a choisi de montrer. Le suivi appartient à Nawel et à l’équipe qui l’accompagne."
+      ],
+      "continuity": {
+        "choice": "Nawel présente les trois estampes et prépare un bilan qui tient compte de son quotidien et de ses difficultés.",
+        "next": "Le groupe peut prolonger le projet et Nawel poursuit le suivi avec le contact convenu."
+      },
+      "sources": [
+        "oms-cddr",
+        "has-reperage-cannabis",
+        "ameli-addictologie",
+        "oms-mhgap-cannabis"
+      ]
+    }
+  ]
+}

@@ -30,7 +30,7 @@ Au moment de partir, Lila propose une photo pour le groupe du rallye. Elle deman
 
 ## Quand l’apparence absorbe le jugement sur soi
 
-Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue. Avoir une préférence de cadrage est courant ; dans le suivi, c’est la place de ces pensées et leur retentissement que l’on explore. Quand Lila propose une photo, Victoire se souvient du manteau qu’elle porte et perd momentanément de vue la réponse qu’elle vient de trouver avec Manu.
+Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue. Avoir une préférence de cadrage est courant. Dans le suivi, c’est la place de ces pensées et leur retentissement que l’on explore. Quand Lila propose une photo, Victoire se souvient du manteau qu’elle porte et perd momentanément de vue la réponse qu’elle vient de trouver avec Manu.
 
 ## Comment une photo peut-elle prendre le dessus sur ce qu’on vient de faire ?
 
@@ -40,7 +40,7 @@ Une inquiétude sur l’apparence peut éclipser l’évaluation que l’on fais
 
 **Exemples concrets**
 
-- Manu montre à Victoire qu’il regarde la vitrine avant de tourner ; la proposition de photo détourne son attention de cette découverte.
+- Manu montre à Victoire qu’il regarde la vitrine avant de tourner. La proposition de photo détourne son attention de cette découverte.
 - Une personne satisfaite d’avoir terminé un bricolage peut ne plus parler que de son apparence lorsqu’on l’invite à poser devant.
 
 ### Le jugement est anticipé

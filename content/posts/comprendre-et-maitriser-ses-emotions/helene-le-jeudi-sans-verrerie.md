@@ -50,7 +50,7 @@ Un appel sans réponse laisse la décision ouverte et donne sa place à un relai
 
 **Exemples concrets**
 
-- Ilyes ne décroche pas ; Hélène reprend le numéro de la boutique.
+- Ilyes ne décroche pas. Hélène reprend le numéro de la boutique.
 - Une personne a le numéro du collègue qui devait l’attendre et appelle l’accueil lorsqu’il est occupé.
 
 ### Le but du déplacement peut être atteint autrement

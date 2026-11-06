@@ -31,7 +31,7 @@ Au petit déjeuner, elle ne se sent pas prête à reprendre une place au réfect
 
 ## Le groupe voit le retour, pas toujours le chemin
 
-Dans l’ARFID, participer à un projet avec les autres peut rester possible alors que les repas demandent encore un appui important. Une aide adaptée peut permettre de rejoindre l’activité ; l’effort fourni ne devient pas pour autant visible aux camarades. Adèle demande le cadre convenu au petit déjeuner et retrouve Inès pour présenter le dessin. Les deux moments disent des choses différentes sur sa matinée.
+Dans l’ARFID, participer à un projet avec les autres peut rester possible alors que les repas demandent encore un appui important. Une aide adaptée peut permettre de rejoindre l’activité. L’effort fourni ne devient pas pour autant visible aux camarades. Adèle demande le cadre convenu au petit déjeuner et retrouve Inès pour présenter le dessin. Les deux moments disent des choses différentes sur sa matinée.
 
 ## Comment l’appui au repas et la participation se côtoient-ils ?
 

@@ -51,7 +51,7 @@ Lire un courrier, retenir une échéance et reprendre la réponse le lendemain p
 
 **Exemples concrets**
 
-- Jeanne a repéré la date de l’enveloppe ; Armand veut garder sa place dans la réponse.
+- Jeanne a repéré la date de l’enveloppe. Armand veut garder sa place dans la réponse.
 - Une personne peut écrire sa lettre une fois assise et avoir besoin qu’on l’aide à repérer le dossier où la ranger.
 
 ### Deux récits éclairent deux conséquences
@@ -60,7 +60,7 @@ La personne et le proche n’observent pas toujours les mêmes moments d’une a
 
 **Exemples concrets**
 
-- Armand décrit ses recherches dans ses propres affaires ; Jeanne peut préciser quand une démarche est restée en attente.
+- Armand décrit ses recherches dans ses propres affaires. Jeanne peut préciser quand une démarche est restée en attente.
 - Au suivi, quelqu’un dit combien d’efforts prend la préparation d’un rendez-vous tandis que son proche décrit les appels nécessaires pour le confirmer.
 
 ## 3 techniques pour préparer un suivi à partir du quotidien

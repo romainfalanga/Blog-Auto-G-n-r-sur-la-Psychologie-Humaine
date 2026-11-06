@@ -56,7 +56,7 @@ Quand l’attention se déplace vers ce que le groupe regarde ou pourrait dire, 
 
 ### Un retour au sujet peut se faire à plusieurs
 
-Une phrase convenue peut ouvrir une réponse ; la personne choisit si elle souhaite prendre la suite.
+Une phrase convenue peut ouvrir une réponse. La personne choisit si elle souhaite prendre la suite.
 
 **Exemples concrets**
 
@@ -109,4 +109,4 @@ Victoire se penche pour montrer l’endroit où le groupe pourra s’arrêter to
 
 **Conclusion**
 
-La phrase de Lila rouvre une discussion que Victoire choisit de poursuivre. Elle peut dire sa limite et répondre à Manu sur le trajet. Le groupe a une information utile pour son essai ; Victoire et Lila savent désormais ce qui lui a convenu dans leur accord.
+La phrase de Lila rouvre une discussion que Victoire choisit de poursuivre. Elle peut dire sa limite et répondre à Manu sur le trajet. Le groupe a une information utile pour son essai. Victoire et Lila savent désormais ce qui lui a convenu dans leur accord.

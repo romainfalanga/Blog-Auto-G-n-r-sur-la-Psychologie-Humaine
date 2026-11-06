@@ -1,19 +1,20 @@
 ---
-title: Parler du retentissement au travail en choisissant ce que l’on partage
-description: Alix retrouve Laurent autour du calendrier. Ils cherchent une façon de
-  répartir les samedis en gardant la vie de chacun à sa place.
+title: Quand les variations d’énergie rendent les engagements au travail difficiles
+  à prévoir
+description: Alix a du mal à savoir quels samedis il pourra assurer. Avec Laurent,
+  il cherche un roulement qui tient quand son énergie varie.
 slug: alix-ce-qui-entre-dans-le-roulement
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Alix
-sujet: Confidentialité autour du retentissement professionnel
+sujet: Engagements professionnels fragilisés par les variations d’énergie
 contexte: Quand Alix revient préparer les prochains samedis avec Laurent
 tags:
 - Trouble cyclothymique
 - Cyclothymie
-- Confidentialité
-- Retentissement professionnel
-- Accord de travail
+- Variations d’énergie
+- Engagements professionnels
+- Relais au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,40 +29,40 @@ Laurent sort une feuille où figurent les noms des personnes qui savent ouvrir. 
 
 « Est-ce qu’on peut laisser un nom de relève et une heure pour décider ? » demande Alix. Laurent acquiesce et veut savoir ce qu’ils diront sur l’affiche. Alix lui montre le mot « équipe » qu’ils utilisent déjà pour les séances partagées. Il se demande s’il veut aussi lui parler du nom du trouble. Laurent attend une réponse sur les samedis. Il peut lui donner celle-là maintenant.
 
-## Ce que l’équipe a besoin de savoir
+## La capacité à tenir un engagement peut varier
 
-Les variations d’énergie et de fonctionnement peuvent modifier la possibilité d’assurer une tâche à l’heure prévue. Parler de leurs effets concrets aide parfois à s’organiser avec des collègues. Alix choisit de dire quels horaires sont plus difficiles et quel relais il souhaite demander. Le diagnostic, les rendez-vous et les détails de sa vie privée restent à sa discrétion. Un accord de travail est d’autant plus utile que chacun peut s’engager sur une action réalisable.
+Des variations d’énergie au cours de la cyclothymie peuvent rendre difficile de prévoir l’effort qu’exigera une tâche. Alix aimerait continuer à ouvrir et à montrer les matières. Il sait que, certains samedis, l’ouverture lui a demandé plus qu’il ne pouvait donner sans sacrifier la suite de sa journée. Nommer le décalage permet de choisir avec Laurent ce qu’il peut annoncer et ce qu’il voudrait garder révisable.
 
-## Comment partager un besoin de travail en gardant la main sur ses informations ?
+## Comment les variations d’énergie compliquent-elles les engagements au travail ?
 
-### Distinguer la tâche et sa difficulté
+### L’effort varie pour une même tâche
 
-Une demande peut décrire le fonctionnement dont l’équipe doit tenir compte.
-
-**Exemples concrets**
-
-- Laurent a besoin du nom de la personne qui tiendra la caisse samedi.
-- Un collègue peut avoir besoin d’un délai de réponse pour organiser une ouverture et ne pas avoir besoin du détail d’une consultation.
-
-### Voir ce qui se joue dans les questions
-
-Les personnes autour du travail peuvent parler de choses différentes avec les mêmes mots.
+Un créneau qui tenait une semaine peut demander beaucoup plus d’énergie une autre fois.
 
 **Exemples concrets**
 
-- Alix pense à son suivi quand Laurent demande ce qu’ils afficheront.
-- Une question sur l’absence peut parfois vouloir dire qu’un horaire reste à couvrir.
+- Alix sait assurer l’ouverture. Certains samedis, elle lui coûte presque tout le reste de la journée.
+- Un artisan peut tenir une présentation un matin et avoir besoin de répartir les mêmes gestes à une autre date.
 
-### Choisir où une information ira
+### L’incertitude complique la promesse
 
-La personne peut décider d’un contenu différent pour l’associé et pour les visiteurs.
+Quand ses possibilités varient, la personne peut hésiter entre prendre un engagement qui lui plaît et attendre de mieux connaître sa disponibilité.
 
 **Exemples concrets**
 
-- Alix envisage de garder les soins pour lui et d’annoncer un atelier assuré en équipe.
-- Une personne peut convenir d’un relais avec une collègue et publier seulement le nom de l’atelier.
+- Alix voudrait mettre son nom sur l’atelier et demande à quelle heure il devra confirmer.
+- Quelqu’un peut vouloir prendre un rôle d’accueil et préférer le confirmer après avoir évalué ses autres tâches.
 
-## 3 techniques pour poser un accord de travail et une limite de confidentialité
+### Le décalage a des effets pour l’équipe
+
+Quand une disponibilité change tard, les collègues doivent pouvoir reprendre la tâche dans le temps qui leur reste.
+
+**Exemples concrets**
+
+- Laurent peut assurer une relève si Alix le prévient avant vendredi.
+- Un atelier peut nécessiter une préparation différente si la personne qui devait le tenir annonce qu’elle ne pourra pas venir.
+
+## 3 techniques pour tenir compte des variations dans un engagement
 
 ### 1. Formuler le besoin utile à l’équipe
 

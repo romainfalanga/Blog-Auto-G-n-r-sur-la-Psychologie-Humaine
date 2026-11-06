@@ -34,7 +34,7 @@ Camille leur annonça qu’on pouvait mettre la feuille dans le classeur du caba
 
 Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas.
 
-Agathe doit encore faire préciser une phrase sur les copies pendant que Lila et Nora trouvent la réserve. Avec un trouble développemental du langage, les besoins peuvent varier selon l’échange et les appuis. L’activité réussie apporte une information sur le plan et les nouvelles jardinières ; les efforts d’Agathe restent à écouter à part.
+Agathe doit encore faire préciser une phrase sur les copies pendant que Lila et Nora trouvent la réserve. Avec un trouble développemental du langage, les besoins peuvent varier selon l’échange et les appuis. L’activité réussie apporte une information sur le plan et les nouvelles jardinières. Les efforts d’Agathe restent à écouter à part.
 
 ## Comment une passation réussie peut-elle coexister avec un échange encore difficile ?
 

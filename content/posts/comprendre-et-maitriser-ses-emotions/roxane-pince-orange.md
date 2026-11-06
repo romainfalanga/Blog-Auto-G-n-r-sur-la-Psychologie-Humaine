@@ -50,7 +50,7 @@ Un écart entre ce que l’enfant veut dire et ce que l’autre entend ne rensei
 
 **Exemples concrets**
 
-- Roxane a déjà pensé à une fausse piste ; il lui manque un moyen de la faire entendre à Mme Sorel.
+- Roxane a déjà pensé à une fausse piste. Il lui manque un moyen de la faire entendre à Mme Sorel.
 - Dans un jeu de cartes, un enfant sait expliquer une règle et doit reprendre le mot qui précise quand passer son tour.
 
 ### La reprise coûte quelque chose
@@ -108,4 +108,4 @@ Roxane dessine une gouttière sous « Je crois » et laisse l’autre case vide.
 
 **Conclusion**
 
-Mme Sorel a saisi une partie de la proposition ; le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner.
+Mme Sorel a saisi une partie de la proposition. Le dessin de la gouttière permet à Roxane d’en garder le détail. Zoé entre dans le jeu comme partenaire, avec une idée à elle. À deux, elles pourront chercher le bruit que Roxane voulait faire deviner.

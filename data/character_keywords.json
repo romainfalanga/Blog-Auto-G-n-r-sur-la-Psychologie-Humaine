@@ -479,6 +479,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "céleste": {
+    "id": "celeste",
+    "name": "Céleste",
+    "keywords": [
+      "Trouble dissociatif de l’identité",
+      "Lacunes de mémoire",
+      "Continuité du sentiment de soi",
+      "Intrusions dissociatives",
+      "Retentissement sur le travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "célian": {
     "id": "celian",
     "name": "Célian",
@@ -512,6 +524,18 @@
       "Priorité croissante donnée au jeu",
       "Retentissement sur le sommeil et le travail",
       "Lien social et difficulté à décrocher"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "cyril": {
+    "id": "cyril",
+    "name": "Cyril",
+    "keywords": [
+      "Trouble d’excoriation compulsive",
+      "Gestes remarqués après coup",
+      "Envie de toucher la peau",
+      "Lésions et retentissement",
+      "Adaptation des pauses"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -683,6 +707,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "ismaël": {
+    "id": "ismael",
+    "name": "Ismaël",
+    "keywords": [
+      "Amnésie dissociative",
+      "Lacunes autobiographiques",
+      "Savoirs et gestes appris",
+      "Appuis choisis au quotidien",
+      "Retentissement dans les relations et le travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "joachim": {
     "id": "joachim",
     "name": "Joachim",
@@ -779,6 +815,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "martin": {
+    "id": "martin",
+    "name": "Martin",
+    "keywords": [
+      "Dépendance à la nicotine",
+      "Habitudes de pause",
+      "Envies de fumer",
+      "Manque de nicotine",
+      "Reprise après un écart"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "mathis": {
     "id": "mathis",
     "name": "Mathis",
@@ -839,6 +887,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "nawel": {
+    "id": "nawel",
+    "name": "Nawel",
+    "keywords": [
+      "Dépendance au cannabis",
+      "Envie liée au contexte",
+      "Difficulté à réguler la consommation",
+      "Retentissement sur les activités",
+      "Suivi en addictologie"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "nils": {
     "id": "nils",
     "name": "Nils",
@@ -872,6 +932,18 @@
       "Communication sociale",
       "Imprévus et transitions",
       "Fatigue après l’effort"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "olivier": {
+    "id": "olivier",
+    "name": "Olivier",
+    "keywords": [
+      "Trouble compulsif du comportement sexuel",
+      "Difficulté persistante de contrôle",
+      "Retentissement sur les engagements",
+      "Situations qui précèdent une envie",
+      "Responsabilité dans les relations"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -956,6 +1028,18 @@
       "Évitement des rappels traumatiques",
       "Hypervigilance",
       "Cauchemars liés au trauma"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "séraphine": {
+    "id": "seraphine",
+    "name": "Séraphine",
+    "keywords": [
+      "Dépendance aux opioïdes",
+      "Envie impérieuse",
+      "Contrôle et priorité de l’usage",
+      "Douleur chronique",
+      "Suivi en addictologie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

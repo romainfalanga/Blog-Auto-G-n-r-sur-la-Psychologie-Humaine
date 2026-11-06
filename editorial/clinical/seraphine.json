@@ -1,0 +1,1258 @@
+{
+  "character_id": "seraphine",
+  "bio": "Séraphine, 44 ans, a repris son travail d’agente d’accueil après des douleurs suivies au long cours. À l’association La Traverse, elle veut ouvrir les archives aux anciens membres une fois par semaine. Elle retient le bruit des fêtes et cherche le nom des gens restés hors du cadre des photos. Elle vit avec une dépendance aux opioïdes déjà diagnostiquée. Une envie peut encore prendre toute la place alors qu’elle voudrait finir ce qu’elle a commencé. Avec son équipe de soins, elle tient à ce que ses douleurs continuent d’être entendues. Son amie Salomé prépare l’ouverture avec elle.",
+  "profile_topics": [
+    "Dépendance aux opioïdes",
+    "Envie impérieuse",
+    "Contrôle et priorité de l’usage",
+    "Douleur chronique",
+    "Suivi en addictologie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "seraphine-envie-imperieuse-au-milieu-du-tri",
+      "title": "Quand une envie impérieuse interrompt une tâche qui compte",
+      "description": "En triant les archives de La Traverse, Séraphine perd le fil de ce que lui dit Salomé. Une envie d’opioïdes accapare son attention.",
+      "context": "À La Traverse, au début du tri des archives",
+      "topics": [
+        "Envie impérieuse",
+        "Attention accaparée",
+        "Dépendance aux opioïdes"
+      ],
+      "clinical_focus": "Envie impérieuse qui accapare l’attention",
+      "clinical_intro": "Séraphine a posé une photo sans date entre deux tas d’archives. Salomé lui parle du lieu, mais la réponse de Séraphine arrive avec une question de retard. Une forte envie d’opioïdes peut prendre une grande place dans l’attention. La reconnaître aide ici à expliquer ce que la conversation lui coûte, sans en déduire un usage.",
+      "opening": "Séraphine reconnaît le rideau avant de reconnaître qui que ce soit sur la photo. Un fil blanc descend du haut jusqu’à la table des verres. Pendant les fêtes, le rideau frottait contre le parquet chaque fois qu’un bénévole passait derrière avec un plateau. De l’autre côté, près de la porte, on entendait alors les verres bien avant de voir les gens. Séraphine tend la photo à Salomé. « Il manque toujours quelqu’un. Qui servait, ce jour-là ? »\n\nElles ont poussé les cartons de La Traverse jusqu’au bout de la table. Le projet de Séraphine tient pour l’instant sur un papier coincé sous la boîte de trombones. Elle voudrait que les anciens membres puissent venir consulter les archives un après-midi par semaine. La photo irait dans le premier dossier ouvert au public si elles arrivaient à la dater. Salomé retourne le tirage. Le dos est blanc. Elle hésite entre deux salles où l’association a donné des fêtes.\n\nSéraphine sait ce que c’est, la pensée qui vient de s’imposer. Depuis qu’elle est suivie pour une dépendance aux opioïdes, elle l’a décrite plusieurs fois à Chloé, son infirmière en addictologie. Là, l’envie est forte au point qu’elle se rend compte qu’elle a cessé de regarder la photo. Elle entend le mot « cour » et demande à Salomé de répéter. Salomé lui avait déjà demandé si le rideau venait de la salle sur cour. Séraphine a répondu « oui » sans se souvenir de la question. Elle ramène le dossier rouge devant elle et s’aperçoit que ses doigts en ont aplati un coin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’envie prend dans l’instant",
+          "text": "Une envie impérieuse d’opioïdes peut mobiliser l’attention au point d’interrompre une activité en cours. On parle aussi de craving. Cette envie accompagne souvent la dépendance aux opioïdes et peut être éprouvée sans usage. Elle ne suffit pas à établir le trouble. Séraphine connaît son diagnostic depuis avant le tri. Pour dire ce qui vient de se passer, elle peut raconter le décalage entre la conversation qu’elle voulait suivre et la pensée à laquelle elle revenait."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une envie impérieuse peut-elle prendre de la place ?",
+          "points": [
+            {
+              "heading": "Une pensée revient au premier plan",
+              "text": "Une personne essaie de reprendre le fil et retrouve la même pensée au moment de se concentrer.",
+              "examples": [
+                "Séraphine se remet à regarder le tirage puis revient à l’envie avant d’avoir examiné le fond de la salle.",
+                "En lisant un menu avec un ami, quelqu’un peut recommencer la même ligne et s’apercevoir qu’il pense encore aux opioïdes."
+              ]
+            },
+            {
+              "heading": "Un morceau de conversation se perd",
+              "text": "Le décalage devient perceptible quand il faut répondre ou retenir une information.",
+              "examples": [
+                "Séraphine a entendu « cour », mais elle a perdu la question qui précédait ce mot.",
+                "Au téléphone, une personne peut demander une nouvelle fois l’heure d’un rendez-vous après en avoir entendu le jour."
+              ]
+            },
+            {
+              "heading": "L’envie prend le pas sur la tâche",
+              "text": "Le désir de continuer la tâche peut rester présent alors que l’attention s’y maintient difficilement.",
+              "examples": [
+                "La légende de la photo importe toujours à Séraphine, qui ne sait plus dans quel tas elle voulait la mettre.",
+                "En préparant des cartes pour un anniversaire, quelqu’un peut repérer deux enveloppes restées sans nom alors qu’il voulait les finir avant de partir."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour signaler une envie et retrouver un point d’appui",
+          "points": [
+            {
+              "heading": "Donner un repère à la tâche",
+              "objective": "Laisser une indication qui rend la reprise possible.",
+              "exercise": [
+                "Repérez le dernier élément dont vous êtes sûr.",
+                "Posez-le de côté avec une indication simple sur ce qui manque.",
+                "Dites, si quelqu’un travaille avec vous, ce que vous voulez reprendre plus tard."
+              ],
+              "benefit": "La tâche peut attendre sans qu’il faille garder tous ses détails en tête."
+            },
+            {
+              "heading": "Nommer l’expérience en une phrase",
+              "objective": "Disposer de mots à transmettre si l’on veut parler de l’envie.",
+              "exercise": [
+                "Décrivez ce que vous ressentez avec vos mots.",
+                "Ajoutez l’activité que l’envie a interrompue.",
+                "Choisissez à qui vous souhaitez le dire et ce que vous préférez garder pour l’entretien de soins."
+              ],
+              "benefit": "Une phrase précise peut aider un proche ou un soignant à comprendre le besoin du moment."
+            },
+            {
+              "heading": "Retrouver le contact de soins",
+              "objective": "Savoir qui joindre si l’envie devient difficile à traverser.",
+              "exercise": [
+                "Retrouvez le moyen de contact déjà convenu avec votre équipe.",
+                "Dites depuis quand l’envie vous gêne et ce que vous avez du mal à faire.",
+                "Demandez avec le soignant quelle suite est adaptée et quand reprendre contact."
+              ],
+              "benefit": "L’équipe peut apprécier la difficulté avec vous et proposer un suivi qui tient compte du moment."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le coin du dossier rouge",
+      "ending": "« J’ai perdu le fil. Tu peux me redire juste les deux salles ? » Salomé lui répond et attend. Séraphine écrit « lieu à vérifier » sur une feuille qu’elle glisse dans le dossier rouge avec la photo. Elle propose de demander à Karim où sont les anciens registres. Elle connaît le contact de Chloé et lui laisse, après le tri, un message sur l’envie et la conversation qu’elle a cessé de suivre. Elle rentre sans avoir trouvé la date. Le dossier est à part et Salomé sait où reprendre.",
+      "conclusion": "L’envie a interrompu le tri alors que Séraphine tenait toujours à la photo. En laissant un repère à Salomé et en signalant l’envie à Chloé, elle peut reprendre ces deux conversations, chacune à sa place.",
+      "mirror": [
+        "Quand Séraphine demande de répéter les deux salles, Salomé peut répondre à cette demande et proposer « Tu veux que je note où on en est ou tu préfères t’en charger ? » Si son amie évoque l’envie, Salomé peut l’écouter et lui demander si elle souhaite contacter Chloé. Elle peut aussi continuer à chercher la date dans les archives pendant que Séraphine prend ce temps."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6c43-2",
+        "has-diagnostic-opioides",
+        "has-opioides-recommandations"
+      ],
+      "continuity": {
+        "choice": "Séraphine isole le tirage à dater dans le dossier rouge, propose de chercher les registres avec Karim et signale l’envie à Chloé.",
+        "next": "Chloé rappelle après une journée d’accueil. Séraphine lui raconte aussi un autre moment où l’envie a surgi."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "seraphine-envie-au-moment-de-fermer",
+      "title": "Quand l’envie revient au même moment de la journée",
+      "description": "Au retour de l’accueil, Séraphine retrouve une envie déjà éprouvée à cette heure. Avec Chloé, elle regarde ce que ces moments ont en commun.",
+      "context": "À la fermeture de l’accueil, après le premier tri",
+      "topics": [
+        "Indices liés au contexte",
+        "Retour de l’envie",
+        "Observation en addictologie"
+      ],
+      "clinical_focus": "Contextes associés au retour de l’envie",
+      "clinical_intro": "La grille de l’accueil descend et Séraphine retrouve une forte envie à une heure qui lui est familière. Elle se rappelle aussi des fermetures où elle n’a rien ressenti de semblable. Dans la dépendance aux opioïdes, des situations associées à l’usage passé peuvent accompagner le retour de l’envie. Une coïncidence n’en donne pas la cause.",
+      "opening": "La grille fait deux bruits différents. Le premier roule au-dessus du comptoir. Le second vient d’une lame qui vibre plus longtemps que les autres. Séraphine tend la main vers l’interrupteur quand le premier bruit commence et éteint au second. C’est le genre de rythme qu’elle retient sans l’avoir voulu. Depuis sa reprise à l’accueil, elle a appris aussi quand le livreur sonne pour la pharmacie du quartier au lieu de son bureau. Elle lui montre la bonne porte d’un signe par la vitre.\n\nCe soir, après avoir tourné la clé, elle reste sur le seuil. L’envie est venue là, entre la fermeture et l’idée de rentrer. Le mardi de la semaine précédente, elle s’était retrouvée avec cette même pensée devant le panneau des horaires. Mercredi, elle était partie sans y penser. La grille avait vibré pareil et Séraphine avait accompagné une collègue jusqu’à l’arrêt de bus. Elle voudrait pouvoir dire d’emblée ce qui a changé. Elle sait seulement qu’à une autre période de sa vie, cette fin de journée lui faisait souvent penser aux opioïdes.\n\nChloé rappelle au moment où Séraphine sort son écharpe de son sac. Elle a reçu le message au sujet du tri. Séraphine commence à raconter la grille, puis reprend du début pour lui dire qu’elle parle de ce soir, pas de la photo. Un message de Karim apparaît sous le nom de Chloé. Il a trouvé deux cahiers de La Traverse. Il faut l’appeler pour savoir lequel commence à la bonne époque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les circonstances dans lesquelles l’envie revient",
+          "text": "Le retour d’une envie d’opioïdes peut être associé à des circonstances familières d’un usage passé. Des études en vie quotidienne ont aussi observé des liens avec des moments de stress. Ces associations varient d’une personne et d’un moment à l’autre. Séraphine se souvient de deux fermetures où l’envie est revenue et d’une autre où elle n’est pas apparue. Décrire ces différences aide l’entretien avec Chloé. Leur proximité dans le temps ne permet pas de désigner le bruit ou la solitude comme cause."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des circonstances familières peuvent-elles accompagner une envie ?",
+          "points": [
+            {
+              "heading": "Au passage entre deux activités",
+              "text": "Une transition habituelle peut donner un repère pour situer le retour de l’envie.",
+              "examples": [
+                "Séraphine retrouve cette pensée quand son service se termine, alors qu’elle n’a pas encore repris le chemin de chez elle.",
+                "Une personne remarque que l’envie revient certains soirs en descendant du bus, au moment où elle quitte le rythme du travail."
+              ]
+            },
+            {
+              "heading": "À un endroit lié à un souvenir",
+              "text": "Un lieu ou un bruit peut rappeler une période de vie sans faire revenir l’envie à chaque rencontre.",
+              "examples": [
+                "Séraphine entend la grille vibrer les deux fois, et aussi le soir où elle sort sans cette envie.",
+                "Quelqu’un qui passe devant une ancienne adresse peut se souvenir d’une époque d’usage et retrouver une forte envie certains jours seulement."
+              ]
+            },
+            {
+              "heading": "Dans un ensemble de circonstances",
+              "text": "L’heure, les personnes présentes et les préoccupations du jour peuvent changer en même temps.",
+              "examples": [
+                "Une fermeture à deux est facile à rappeler à Séraphine, mais elle ignore encore ce qui distingue cette sortie des autres.",
+                "En rentrant seul après une journée tendue, quelqu’un peut hésiter entre ce que lui rappelle le trajet et ce qui vient de se passer au travail."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire le contexte d’une envie avec son équipe",
+          "points": [
+            {
+              "heading": "Partir d’un moment déjà vécu",
+              "objective": "Décrire une situation sans chercher à la reproduire.",
+              "exercise": [
+                "Choisissez un moment dont vous vous souvenez.",
+                "Indiquez approximativement où vous étiez et ce que vous étiez en train de quitter ou de commencer.",
+                "Gardez la phrase pour votre soignant ou transmettez-la par le canal prévu."
+              ],
+              "benefit": "Un moment situé peut donner à l’entretien un point de départ concret."
+            },
+            {
+              "heading": "Ajouter une différence",
+              "objective": "Garder ouverte la question de ce qui a compté.",
+              "exercise": [
+                "Retrouvez de mémoire une situation ressemblante où l’envie n’était pas présente, si vous en avez une.",
+                "Nommez un détail qui différait entre ces deux moments.",
+                "Présentez la comparaison comme une observation et laissez les inconnues ouvertes."
+              ],
+              "benefit": "Une comparaison peut éviter de donner trop de poids à un seul détail."
+            },
+            {
+              "heading": "Choisir un appui pour une transition ordinaire",
+              "objective": "Prévoir avec l’équipe un contact si une difficulté connue revient.",
+              "exercise": [
+                "Indiquez à votre soignant le passage de la journée qui vous préoccupe.",
+                "Demandez quel appui est joignable dans ces circonstances.",
+                "Convenez de la façon de reprendre contact si vous en avez besoin."
+              ],
+              "benefit": "Le recours est plus simple à retrouver quand la transition se présente à nouveau."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Après le bruit de la grille",
+      "ending": "« Il y a des soirs où ça revient à la fermeture, et des soirs où je pars sans y penser. » Chloé lui propose de reprendre les deux fermetures à la prochaine consultation, si elle le souhaite. Elles conviennent de la manière de se joindre avant ce rendez-vous. Une fois dans le bus, Séraphine répond à Karim. Les deux cahiers commencent avant le déménagement des archives. Elle lui demande de les laisser ensemble près du dossier rouge. Elle ignore encore lequel porte la trace de la fête et pourquoi ce soir l’envie a repris autant de place.",
+      "conclusion": "L’heure de fermeture fournit à Séraphine un repère pour parler de l’envie. Les soirs différents font partie de l’observation. En les apportant tous les deux à Chloé, elle garde la possibilité de comprendre ce qui varie.",
+      "mirror": [
+        "Si Séraphine raconte à Salomé que certains retours du travail lui pèsent, son amie peut demander « Tu veux m’en parler maintenant ou qu’on se retrouve directement devant les cahiers ? » Elle peut proposer sa présence quand elle en a envie et en a le temps. L’équipe de soins peut reprendre les circonstances et les envies avec Séraphine si celles-ci se répètent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "preston-envie-opioides",
+        "has-opioides-recommandations"
+      ],
+      "continuity": {
+        "choice": "Séraphine compare deux fermetures avec Chloé et demande à Karim de mettre les deux cahiers ensemble près du dossier rouge.",
+        "next": "En prenant les cahiers, Séraphine retrouve une fiche qui lui rappelle le premier entretien sur la perte de contrôle."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "seraphine-intention-et-controle-de-lusage",
+      "title": "Quand les décisions sur l’usage deviennent difficiles à tenir",
+      "description": "Une fiche des archives ramène Séraphine à ses premiers entretiens. Elle avait du mal à garder la maîtrise de décisions qu’elle prenait pourtant au sérieux.",
+      "context": "À La Traverse, en ouvrant les deux cahiers retrouvés",
+      "topics": [
+        "Contrôle de l’usage",
+        "Intentions et actes",
+        "Histoire du diagnostic"
+      ],
+      "clinical_focus": "Difficulté à garder le contrôle de l’usage",
+      "clinical_intro": "En retrouvant une fiche écrite bien avant son diagnostic, Séraphine se rappelle la difficulté à faire tenir des décisions qu’elle prenait pour elle-même. L’altération du contrôle dans la dépendance aux opioïdes se comprend à partir de ce qui se répète dans l’histoire de la personne. Ici, un souvenir lui rend une partie de cette histoire.",
+      "opening": "Karim a apporté les deux cahiers dans un sac de courses, les tranches tournées vers l’intérieur. En les ouvrant, Séraphine laisse tomber une fiche quadrillée sur le carrelage. Au recto figurent la taille d’une estrade et le nom d’une personne chargée du prêt. Au verso, elle reconnaît sa façon de faire les barres de T. Elle avait noté un rendez-vous avec Salomé, bien après l’époque du rideau et de la photo. La fiche a servi de marque-page à quelqu’un. Elle ne se rappelle pas l’y avoir laissée.\n\nÀ cette période, elle prenait des décisions au sujet de son usage d’opioïdes qu’elle n’arrivait souvent pas à tenir. Elle se rappelle la sincérité avec laquelle elle pensait pouvoir garder la main. Quand elle reprenait les jours écoulés, ce qu’elle avait fait s’éloignait de ce qu’elle avait décidé. Certaines fois elle s’en apercevait au moment même et avait du mal à reprendre la main. D’autres fois elle le voyait seulement en retrouvant l’ordre des journées. À son premier entretien en addictologie, elle avait commencé par dire qu’il fallait qu’elle se décide mieux. Chloé lui avait demandé ce qui arrivait une fois la décision prise.\n\nSéraphine entend Karim poser le deuxième cahier. Il a trouvé un passage où quelqu’un a écrit « cuisine » trois fois dans la marge. À côté figure le prénom d’Irène, qui connaissait jusqu’à la dernière louche de l’association. Séraphine vient de passer plusieurs minutes sur une fiche récente qui ne lui apprendra rien sur la fête. Elle la repose sur la table, à portée de sa main. Elle se souvient qu’à l’entretien suivant, elle avait apporté plusieurs situations au lieu d’une seule.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’écart qui se répète entre décider et pouvoir faire",
+          "text": "Dans la dépendance aux opioïdes, la capacité à diriger son usage peut être altérée. La personne peut éprouver des difficultés à suivre une décision sur le fait d’utiliser ou de s’arrêter. L’équipe de soins examine ce qui se répète au fil du temps et la situation dans son ensemble. Séraphine avait pris ses décisions au sérieux. Leur écart répété avec ce qui se passait a pris un sens différent quand elle a pu le raconter et que les soignants ont repris avec elle une histoire plus longue."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à garder le contrôle peut-elle apparaître ?",
+          "points": [
+            {
+              "heading": "Une intention formulée avant les faits",
+              "text": "Le décalage se voit entre une décision sur l’usage et ce que la personne dit avoir vécu ensuite.",
+              "examples": [
+                "Séraphine se souvient de décisions nettes le matin et de plusieurs soirs où ce qu’elle avait fait s’en écartait.",
+                "Une personne peut raconter au soignant des moments répétés où elle a utilisé des opioïdes alors qu’elle avait décidé de ne pas le faire."
+              ]
+            },
+            {
+              "heading": "Une difficulté perceptible en cours de situation",
+              "text": "La personne peut constater que sa décision lui échappe au moment où elle voudrait la reprendre.",
+              "examples": [
+                "Séraphine se rappelle avoir vu certains écarts au moment même sans réussir à retrouver la maîtrise qu’elle croyait avoir.",
+                "Quelqu’un se souvient de moments où il voulait mettre fin à un usage en cours et où il n’y parvenait pas."
+              ]
+            },
+            {
+              "heading": "Un écart mieux visible en relisant plusieurs jours",
+              "text": "Une suite de situations donne plus de contexte qu’une résolution qu’on ne tient pas une fois.",
+              "examples": [
+                "En reprenant ses journées à l’entretien, Séraphine retrouve des écarts qu’elle avait traités comme des exceptions séparées.",
+                "Lors d’un rendez-vous, quelqu’un se souvient qu’il avait pris la même décision plusieurs fois et ne sait pas précisément quand les difficultés ont commencé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un entretien sur la perte de contrôle",
+          "points": [
+            {
+              "heading": "Dire ce que voulait la personne à ce moment-là",
+              "objective": "Donner au soignant accès à l’intention de départ.",
+              "exercise": [
+                "Repensez à une situation passée dont vous pouvez parler.",
+                "Formulez la décision que vous croyiez pouvoir tenir.",
+                "Ajoutez en quoi ce qui s’est passé s’en est écarté."
+              ],
+              "benefit": "L’entretien peut partir d’un fait plutôt que d’un jugement sur les efforts."
+            },
+            {
+              "heading": "Faire place à la répétition sans remplir les blancs",
+              "objective": "Situer plusieurs situations dans l’histoire quand c’est possible.",
+              "exercise": [
+                "Choisissez de mémoire deux moments qui vous paraissent parlants.",
+                "Indiquez lequel est venu le premier si vous le savez.",
+                "Dites clairement ce que vous ne pouvez pas dater."
+              ],
+              "benefit": "Le soignant peut explorer l’évolution sans exiger un calendrier exact."
+            },
+            {
+              "heading": "Préparer une demande de soutien",
+              "objective": "Trouver une suite clinique quand ces difficultés sont actuelles.",
+              "exercise": [
+                "Dites à un soignant si la difficulté appartient au passé ou se présente encore.",
+                "Décrivez la situation la plus difficile à raconter avec vos mots.",
+                "Demandez quel interlocuteur vous pouvez joindre avant le prochain rendez-vous si nécessaire."
+              ],
+              "benefit": "Le professionnel peut convenir avec vous d’un relais adapté à ce qui se passe aujourd’hui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fiche à côté du cahier",
+      "ending": "Karim laisse un doigt dans le cahier et répète « Irène ». Séraphine lui demande de marquer la page. Elle prend ensuite une feuille à elle pour reprendre avec Chloé ce qu’elle appelait autrefois « mieux se décider ». Elle écrit deux phrases sur la différence entre ses intentions d’alors et ce qui s’était répété. La fiche d’estrade revient dans le cahier, à la bonne place. À Salomé, elle envoie seulement la nouvelle des archives. « On a peut-être quelqu’un qui peut nous aider. Tu sais comment joindre Irène ? »",
+      "conclusion": "Séraphine retrouve le sérieux de ses intentions en se rappelant combien elles lui échappaient. Cette difficulté a pris sens dans une évaluation qui portait sur plusieurs situations. Aux archives, un autre souvenir lui donne cette fois une piste à suivre.",
+      "mirror": [
+        "Karim voit Séraphine revenir à une fiche pendant qu’il lit le cahier. Il peut dire « Je marque le nom d’Irène. Tu me dis quand tu veux qu’on regarde la suite. » Si elle confie plus tard à Salomé ce qu’elle a retrouvé de cette période, Salomé peut lui demander ce qui l’aiderait à en parler avec Chloé. Elle peut laisser Séraphine expliquer elle-même ce que la fiche lui a rappelé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6c43-2",
+        "has-diagnostic-opioides"
+      ],
+      "continuity": {
+        "choice": "Séraphine veut reprendre avec Chloé un souvenir de perte de contrôle et demande à Salomé comment joindre Irène.",
+        "next": "En préparant l’appel à Irène, Salomé et Séraphine retrouvent une ancienne liste de tâches et ce qui avait pris la place de certaines d’entre elles."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "seraphine-usage-qui-prend-la-place",
+      "title": "Quand l’usage réduit le temps consacré aux activités qui comptent",
+      "description": "Séraphine retrouve des tâches qu’elle aimait à La Traverse. Elle se rappelle la place que l’usage d’opioïdes avait prise sur le temps qu’elle leur donnait.",
+      "context": "À La Traverse, avant le premier appel à Irène",
+      "topics": [
+        "Priorité donnée à l’usage",
+        "Activités délaissées",
+        "Temps et disponibilité"
+      ],
+      "clinical_focus": "Priorité croissante de l’usage dans le quotidien",
+      "clinical_intro": "Séraphine retrouve son nom sur une feuille de permanences. Certaines tâches lui plaisaient encore quand elle s’est mise à les quitter plus tôt, puis à les laisser à d’autres. Dans la dépendance aux opioïdes, l’usage peut prendre une place croissante dans une journée et réduire celle d’activités auxquelles la personne reste attachée.",
+      "opening": "Le numéro d’Irène figure dans un classeur que Salomé garde avec la liste des gens qui ont demandé des nouvelles de La Traverse. Séraphine attend que l’après-midi soit assez avancé pour appeler. Elle déroule, entre-temps, une affiche jamais collée. Rémi, qui vérifie les feutres, lui tend celui qui écrit encore. Sous l’affiche se trouve une ancienne liste de permanences avec le prénom de Séraphine à côté du café. Elle le faisait assez léger pour que les gens reprennent une tasse. La pièce se remplissait avant même l’ouverture.\n\nPlus bas, à côté de son prénom, quelqu’un a tiré un trait pour prendre sa place. C’est son propre trait. Elle reconnaît la manière dont la ligne remonte au bout. Vers la fin de cette période, elle n’arrivait plus à dégager le même temps pour rester. Elle remettait les conversations à une autre semaine. Elle se souvient d’avoir quitté une table alors qu’elle avait encore envie de savoir ce qu’Irène racontait. À force, elle prévoyait déjà de partir au moment où d’autres s’installaient. Quand elle faisait ses plans, elle réservait de plus en plus de temps à l’usage d’opioïdes. Elle plaçait le reste dans les heures qui restaient.\n\nSalomé lui demande si elle a toujours envie de faire le café pour l’ouverture. Séraphine fait rouler le feutre entre ses mains. Oui, elle aimerait encore. Elle aperçoit sur le bord de la table les deux cahiers à dépouiller, les copies à préparer et le carton que Karim a rapporté du couloir. Elle choisit de sortir le téléphone pour appeler Irène pendant que le numéro est devant elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La place occupée dans le temps et les décisions",
+          "text": "Dans la dépendance aux opioïdes, l’usage peut acquérir une priorité croissante sur des intérêts ou des responsabilités du quotidien. Ce déplacement peut modifier l’emploi du temps même si la personne aime toujours les activités qu’elle délaisse. Un changement d’horaire ou une absence a de nombreuses explications possibles. Séraphine décrit ce qu’elle sait de la place que prenait alors l’usage dans sa vie. La liste lui rappelle à la fois ce qui avait reculé et ce à quoi elle tenait."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette priorité croissante peut-elle se voir dans une journée ?",
+          "points": [
+            {
+              "heading": "Le temps d’une activité se resserre",
+              "text": "La personne arrive encore à venir, mais reste de moins en moins longtemps parce que l’usage passe avant une partie du temps partagé.",
+              "examples": [
+                "Séraphine venait préparer le café et écourtait des conversations qu’elle aurait aimé poursuivre.",
+                "Une personne se souvient qu’elle écourtait ses soirées de répétition et explique au soignant le lien qu’elle faisait alors avec l’usage."
+              ]
+            },
+            {
+              "heading": "Des projets restent en attente",
+              "text": "Réserver du temps pour l’usage peut repousser une activité choisie alors que son intérêt reste intact.",
+              "examples": [
+                "Séraphine disait qu’elle écouterait l’histoire d’Irène la prochaine fois et se trouvait encore prise ailleurs la semaine suivante.",
+                "Quelqu’un repousse plusieurs fois la préparation d’une sortie attendue et raconte combien l’usage occupait déjà ses fins de semaine."
+              ]
+            },
+            {
+              "heading": "La journée s’organise autrement dès le début",
+              "text": "Le déplacement apparaît parfois dans la façon de prévoir les heures, avant même de devoir renoncer à une tâche.",
+              "examples": [
+                "Séraphine commençait à prévoir son départ avant le début des permanences où elle était autrefois restée jusqu’au rangement.",
+                "Une personne se rappelle qu’elle laissait des après-midi entiers sans projet parce que l’usage passait avant ce qu’elle aurait pu y inscrire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de la place prise par l’usage",
+          "points": [
+            {
+              "heading": "Comparer le temps consacré à une activité choisie",
+              "objective": "Montrer ce qui a changé dans une activité qui avait du sens.",
+              "exercise": [
+                "Choisissez une activité à laquelle vous teniez.",
+                "Décrivez le temps que vous lui consacriez auparavant et ce qui a changé.",
+                "Si vous voyez un lien avec l’usage, apportez-le au rendez-vous de soins."
+              ],
+              "benefit": "L’équipe peut comprendre un retentissement qui reste peu visible de l’extérieur."
+            },
+            {
+              "heading": "Dire ce que l’on voudrait retrouver",
+              "objective": "Faire entendre une préférence dans la discussion sur le suivi.",
+              "exercise": [
+                "Nommez un moment ou un rôle qui vous manque.",
+                "Précisez la partie qui compte le plus pour vous.",
+                "Demandez à votre soignant quelle place ce souhait peut avoir dans l’entretien."
+              ],
+              "benefit": "Un objectif choisi par la personne peut orienter la discussion sur ses besoins."
+            },
+            {
+              "heading": "Ajuster le premier engagement pratique",
+              "objective": "Donner une place réelle à un projet du présent.",
+              "exercise": [
+                "Choisissez un rôle que vous aimeriez reprendre à une occasion précise.",
+                "Vérifiez ce qu’il demande et le temps dont vous disposez.",
+                "Convenez avec les autres de la personne qui tient le reste."
+              ],
+              "benefit": "Une tâche délimitée permet de participer avec une charge connue de chacun."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le café et les copies",
+      "ending": "Irène décroche au troisième appel. Elle cherchait ses lunettes. Elle accepte de regarder la photo et peut passer samedi. Elle demande à Séraphine de ne rien lui dire sur la date avant de la lui montrer. Séraphine inscrit le rendez-vous sur le dossier rouge. Avec Salomé, elle garde le café et les légendes pour le premier essai d’accueil. Rémi se propose de préparer les copies. La liste ancienne reste ouverte un instant. Séraphine retrouve le plaisir qu’elle avait à entendre la première tasse contre sa soucoupe. Elle ne sait pas encore combien de temps tiendra un après-midi complet.",
+      "conclusion": "L’usage avait pris du temps à des activités dont Séraphine gardait le goût. Reconnaître ce déplacement aide à dire ce qu’elle aimerait retrouver. Pour l’essai, elle peut déjà choisir une part de l’accueil qu’elle souhaite tenir.",
+      "mirror": [
+        "À la question du café, Salomé peut ajouter « Tu veux faire le premier service ou t’occuper aussi du rangement ? » La discussion porte sur ce que Séraphine a envie de reprendre et le temps qu’elles ont toutes les deux. Si son amie raconte ce que l’usage occupait à l’époque, Salomé peut l’écouter sans relire à sa place les raisons de chaque absence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6c43-2",
+        "has-opioides-recommandations"
+      ],
+      "continuity": {
+        "choice": "Séraphine donne rendez-vous à Irène samedi et choisit le café et les légendes pour l’essai, avec les copies confiées à Rémi.",
+        "next": "Pour préparer la venue d’Irène et l’essai, Karim ressort les clés. Elles rappellent à Séraphine une conséquence qu’elle avait déjà vécue à plusieurs reprises."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "seraphine-usage-et-consequences-connues",
+      "title": "Quand l’usage se poursuit malgré des conséquences déjà vécues",
+      "description": "Une clé sur la table rappelle à Séraphine des bénévoles laissés à la porte. Elle avait compris l’effet de ces absences alors que l’usage se poursuivait.",
+      "context": "À La Traverse, en préparant l’accès à la salle",
+      "topics": [
+        "Poursuite malgré les conséquences",
+        "Engagements collectifs",
+        "Retentissement relationnel"
+      ],
+      "clinical_focus": "Poursuite de l’usage malgré des conséquences connues",
+      "clinical_intro": "Une clé rend à Séraphine le souvenir de personnes laissées devant la salle. Elle avait compris ce que ses absences leur coûtaient, puis l’usage s’était poursuivi. Dans la dépendance aux opioïdes, voir les conséquences de l’usage peut coexister avec une difficulté persistante à le réguler. Ce souvenir informe une décision pratique au présent.",
+      "opening": "Il y a deux clés plates dans le tiroir et une clé ronde que personne n’a réussi à identifier. Karim les dépose sur la table, à côté du dossier rouge. Il voudrait faire un essai de la serrure avant la venue d’Irène. Séraphine en reconnaît une à la marque laissée par un élastique. Elle la fait glisser vers le milieu de la table. « Celle-là ouvrait déjà du temps des répétitions. »\n\nDes années plus tôt, Salomé l’avait attendue sous l’auvent avec deux personnes qui avaient traversé la ville pour ranger des chaises. Séraphine avait la clé ce jour-là et n’était pas venue. Le lendemain, Salomé lui avait dit qu’elles avaient fini par repartir, l’une sans même lui laisser son numéro. Séraphine avait entendu la fatigue dans la voix de son amie. Elle avait dit qu’elle comprenait et qu’elle serait là la prochaine fois. L’usage auquel elle reliait cette absence s’était pourtant poursuivi. Il y avait eu une autre attente sous le même auvent, et Salomé avait fini par demander un double pour que le rangement puisse se faire.\n\nKarim essaie la première clé depuis l’intérieur. Elle tourne avec un frottement sec. Samedi, Séraphine est censée ouvrir à Irène, mais le café et les légendes lui demandent d’être dans la salle à la même heure. Elle prend le feutre qui écrit encore et l’approche de l’étiquette vierge. Il y a de la place pour un prénom. Elle le sait parce qu’elle a déjà rempli des étiquettes comme celle-ci. Elle demande à Karim s’ils peuvent plutôt y écrire le nom de la porte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir ce que l’usage a changé sans parvenir à l’enrayer",
+          "text": "La dépendance aux opioïdes peut se manifester par un usage qui continue alors que ses conséquences sont déjà connues de la personne. Dans la description de la CIM-11, cette poursuite s’inscrit dans la place croissante que prend l’usage. Elle permet ici de regarder le moment particulier où un tort a été compris et où la difficulté reste présente. Séraphine avait entendu ce que Salomé lui disait et tenait à leur engagement. Le même problème est revenu. En parler en soins aide à comprendre ce qui persistait, sans imputer chaque rendez-vous manqué à l’usage."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une conséquence déjà comprise peut-elle rester présente ?",
+          "points": [
+            {
+              "heading": "L’effet est nommé par une autre personne",
+              "text": "Un retour précis peut rendre visible ce que l’usage a changé pour quelqu’un d’autre.",
+              "examples": [
+                "Salomé raconte le trajet des bénévoles et leur attente quand la salle est restée fermée.",
+                "À propos d’un repas à deux, une personne entend que les reports liés à son usage laissent son ami sans savoir quand il peut compter sur leur rendez-vous."
+              ]
+            },
+            {
+              "heading": "L’effet est reconnu et la difficulté persiste",
+              "text": "La personne peut prendre au sérieux ce qu’elle a entendu et constater ensuite que l’usage se poursuit.",
+              "examples": [
+                "Séraphine se rappelle avoir compris la fatigue de Salomé avant qu’une deuxième attente ne se produise.",
+                "Quelqu’un raconte à son soignant avoir regretté des difficultés déjà vécues avec un collègue et avoir malgré cela continué à utiliser des opioïdes."
+              ]
+            },
+            {
+              "heading": "Le groupe réagit à la répétition",
+              "text": "Les autres peuvent changer leur organisation pour que l’activité puisse continuer.",
+              "examples": [
+                "Salomé demande un double de la clé après avoir de nouveau attendu sous l’auvent.",
+                "Après plusieurs changements de programme, une personne apprend qu’un groupe ouvre désormais la salle à deux et peut expliquer ce que cela représente pour elle."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des effets connus de l’usage",
+          "points": [
+            {
+              "heading": "Reprendre une conséquence datable",
+              "objective": "Décrire un effet concret dans une conversation avec un professionnel.",
+              "exercise": [
+                "Choisissez une situation qui vous revient assez clairement.",
+                "Notez ce que quelqu’un vous a dit ou ce que vous avez observé.",
+                "Ajoutez ce qui s’est passé ensuite et ce dont vous êtes incertain."
+              ],
+              "benefit": "Le récit peut aider à comprendre comment la difficulté a persisté."
+            },
+            {
+              "heading": "Écouter ce qu’un engagement a demandé à l’autre",
+              "objective": "Donner une place au vécu de la personne concernée si elle souhaite en parler.",
+              "exercise": [
+                "Choisissez un moment où chacun peut refuser ou remettre la discussion.",
+                "Demandez ce qui a été difficile dans la situation précise.",
+                "Reformulez ce que vous avez compris avant de parler d’un nouvel arrangement."
+              ],
+              "benefit": "L’échange peut rendre un besoin concret sans demander à l’autre de suivre votre santé."
+            },
+            {
+              "heading": "Distribuer l’accès à une tâche collective",
+              "objective": "Éviter qu’une activité entière dépende d’une seule personne.",
+              "exercise": [
+                "Repérez l’objet ou l’information dont les autres ont besoin pour commencer.",
+                "Décidez ensemble qui peut y avoir accès.",
+                "Vérifiez que le relais sait quand et comment ouvrir la salle."
+              ],
+              "benefit": "Le groupe peut tenir son engagement même si les personnes disponibles changent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une étiquette pour la porte",
+      "ending": "Karim écrit « porte sur rue » sur l’étiquette et fait essayer le double à Séraphine. Ils conviennent que Karim ouvrira à Irène samedi et que Salomé aura accès au double pour la suite. Séraphine lui dit ensuite ce dont elle s’est souvenue. Salomé se rappelle surtout les chaises qu’il a fallu rentrer un autre jour. Elle est contente que deux personnes puissent désormais ouvrir. Séraphine n’a aucune réponse à donner pour toutes les attentes d’autrefois. Elle peut reprendre ce souvenir à son prochain entretien et préparer, aujourd’hui, la place où Irène verra la photo.",
+      "conclusion": "Séraphine pouvait comprendre une conséquence et continuer à éprouver la difficulté liée à l’usage. Ce souvenir peut être repris en soins. Aujourd’hui, le double de la clé répond à un besoin de l’association que chacun peut partager.",
+      "mirror": [
+        "Salomé peut dire « Quand la salle est restée fermée, deux personnes sont reparties. Pour samedi, je veux qu’on puisse se passer la clé. » Elle peut parler de ce qu’elle a vécu et de sa disponibilité aujourd’hui. Si Séraphine veut discuter de l’usage qui se poursuivait, Salomé peut lui demander si elle souhaite reprendre le sujet avec Chloé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6c43-2",
+        "has-diagnostic-opioides",
+        "has-opioides-recommandations"
+      ],
+      "continuity": {
+        "choice": "Séraphine confie l’ouverture du samedi à Karim, fait prévoir un double pour Salomé et choisit de reprendre le souvenir en soins.",
+        "next": "En préparant une chaise pour Irène, Séraphine pense à sa douleur et à un effet de son ancien traitement qu’elle voudrait mieux comprendre."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "seraphine-tolerance-et-traitement-prescrit",
+      "title": "Un soulagement moins net suffit-il à parler de tolérance aux opioïdes ?",
+      "description": "Séraphine se souvient d’un soulagement qui avait changé sous traitement prescrit. Elle demande à la docteure Bensaïd ce que cela permet de comprendre.",
+      "context": "En consultation, avant la rencontre avec Irène",
+      "topics": [
+        "Tolérance aux opioïdes",
+        "Adaptation physique",
+        "Traitement prescrit"
+      ],
+      "clinical_focus": "Tolérance aux opioïdes et adaptation physique",
+      "clinical_intro": "Séraphine se rappelle qu’au cours d’un ancien traitement prescrit pour sa douleur, le soulagement lui avait paru moins net. La tolérance désigne une réponse moindre à un effet du médicament. Elle peut apparaître au cours d’un traitement. Dans l’histoire de Séraphine, la question est de comprendre le changement sans le prendre pour une preuve de dépendance.",
+      "opening": "Séraphine essaie la chaise qu’elles ont réservée à Irène. Le dossier bascule un peu quand elle s’adosse. Elle va chercher la chaise en bois près de la porte, la pousse avec le pied jusqu’au bout de la table et s’assoit une seconde fois. Ce mouvement lui rappelle une autre salle, celle où elle attendait les premiers rendez-vous pour sa douleur. Elle se levait dès qu’on ouvrait la porte, même si c’était pour appeler quelqu’un d’autre. Elle se souvient de semaines où rester assise lui paraissait plus facile qu’avant. À d’autres moments, le traitement qu’on lui avait prescrit semblait moins la soulager.\n\nElle retrouve le soir une ancienne note où elle avait écrit « ça tient moins ». Elle ne savait plus à quoi elle pensait exactement en notant ces trois mots. Le lendemain, devant la docteure Bensaïd, elle arrive à préciser qu’elle parlait de l’effet ressenti sur sa douleur. « Si c’était de la tolérance, ça voulait déjà dire que j’étais dépendante ? » Sa question porte sur cette période où elle ne connaissait pas encore son diagnostic. Elle cherche une façon de parler du traitement d’alors sans relire tous ses rendez-vous à travers ce qu’elle sait aujourd’hui.\n\nLa docteure lui demande comment la douleur variait à cette époque. Séraphine retrouve des trajets plus longs au travail et des matins où elle marchait encore facilement jusqu’à l’arrêt. Elle ne se rappelle pas si les changements sont arrivés en même temps. La note est utile, mais elle tient tout entière entre deux lignes de son carnet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La réponse du corps et le contrôle de l’usage",
+          "text": "La tolérance à un opioïde désigne une diminution de la réponse à l’un de ses effets. Une adaptation physique peut aussi se manifester par des symptômes en cas d’interruption du traitement. Ces phénomènes peuvent survenir pendant un traitement pris comme il a été prescrit. Ils ne suffisent pas à établir un diagnostic de dépendance aux opioïdes, qui implique aussi une difficulté à réguler l’usage. Un soulagement ressenti comme moindre peut avoir plusieurs explications. La docteure Bensaïd reprend le récit de Séraphine avec elle et laisse ouverte la cause de ce qu’elle a éprouvé à l’époque."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la question de l’adaptation physique peut-elle se poser ?",
+          "points": [
+            {
+              "heading": "Un effet paraît avoir changé",
+              "text": "Une personne peut remarquer qu’une activité est de nouveau difficile et se demander si l’effet ressenti est toujours le même.",
+              "examples": [
+                "Séraphine se souvient que la douleur lui semblait moins soulagée pendant certains trajets à pied.",
+                "En consultation, quelqu’un décrit un soulagement devenu moins perceptible lorsqu’il s’assoit pour déjeuner et demande comment interpréter ce changement."
+              ]
+            },
+            {
+              "heading": "Le traitement était prescrit",
+              "text": "L’existence d’une ordonnance donne un contexte de soin. Elle ne détermine ni la présence d’une adaptation physique ni celle d’un trouble.",
+              "examples": [
+                "Séraphine pose sa question en rapportant ce que lui avait prescrit son équipe à l’époque.",
+                "Une personne suivie pour une douleur chronique demande à son médecin si une adaptation du corps est possible même si le médicament est pris selon les indications reçues."
+              ]
+            },
+            {
+              "heading": "Le vocabulaire peut prêter à confusion",
+              "text": "Une personne peut entendre « le corps s’est adapté » et y associer une perte de contrôle, alors qu’il s’agit de questions distinctes.",
+              "examples": [
+                "Séraphine demande si une éventuelle tolérance annonçait à elle seule le diagnostic qu’elle connaît aujourd’hui.",
+                "À une consultation, quelqu’un demande si les symptômes physiques dont on lui a parlé sont du même ordre qu’une difficulté à diriger son usage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une question sur la tolérance",
+          "points": [
+            {
+              "heading": "Préciser l’effet dont on parle",
+              "objective": "Donner un exemple que le prescripteur peut interpréter dans son contexte.",
+              "exercise": [
+                "Nommez l’effet que vous pensiez ressentir.",
+                "Choisissez une activité qui vous fait remarquer le changement.",
+                "Indiquez au prescripteur depuis quand cela vous paraît différent et ce qui reste incertain."
+              ],
+              "benefit": "La description évite de confondre l’effet recherché et l’évolution de la douleur."
+            },
+            {
+              "heading": "Faire expliquer le mot employé",
+              "objective": "Comprendre une distinction sans déduire un diagnostic.",
+              "exercise": [
+                "Reprenez le mot entendu au rendez-vous, comme « tolérance ».",
+                "Demandez au soignant ce qu’il signifie et s’il décrit un fait établi ou une possibilité.",
+                "Reformulez la différence avec un trouble de la régulation de l’usage."
+              ],
+              "benefit": "Une explication explicite peut aider à poser la question suivante."
+            },
+            {
+              "heading": "Obtenir un interlocuteur pour une inquiétude",
+              "objective": "Savoir où demander une évaluation clinique.",
+              "exercise": [
+                "Adressez votre question au prescripteur ou au médecin qui coordonne votre suivi.",
+                "Dites si le changement vous gêne actuellement ou si vous reparlez d’un souvenir.",
+                "Demandez quand et comment faire le point avec lui."
+              ],
+              "benefit": "Un interlocuteur identifié peut répondre en tenant compte de la prescription et de votre situation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Trois mots dans le carnet",
+      "ending": "La docteure Bensaïd demande si Séraphine aimerait garder une phrase de l’entretien. Séraphine écrit que la tolérance concerne un effet et que ce qu’elle avait noté ne permet pas d’en trouver la cause aujourd’hui. Elle lui demande ensuite de réserver un échange à la douleur qu’elle éprouve ces jours-ci, surtout debout. La docteure prévoit de la rappeler après sa prochaine matinée à l’accueil. Avant de partir, Séraphine replie la page à l’endroit des trois mots. Il lui reste à raconter les trajets qu’elle fait maintenant.",
+      "conclusion": "Une réponse moindre à un effet peut être discutée sans conclure à un trouble de l’usage ni retrouver à coup sûr la cause du changement. Séraphine repart avec une distinction pour son ancienne question et un rendez-vous pour parler de sa douleur actuelle.",
+      "mirror": [
+        "Si Séraphine parle à Salomé des mots « ça tient moins », Salomé peut demander « Tu veux que je t’aide à te rappeler le trajet dont tu parles ? » Elle peut se tenir à ce qu’elle a vu et laisser Séraphine choisir ce qu’elle reprend avec sa médecin. L’interprétation de l’effet d’un traitement relève du rendez-vous de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6c43-2",
+        "has-diagnostic-opioides",
+        "has-opioides-recommandations"
+      ],
+      "continuity": {
+        "choice": "Séraphine distingue la question de l’ancien effet du traitement et demande un échange à sa médecin sur la douleur actuelle.",
+        "next": "La prochaine matinée à l’accueil donne à Séraphine des exemples concrets de ce que la douleur change. Elle les reprend avec la docteure Bensaïd."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "seraphine-douleur-et-retentissement-quotidien",
+      "title": "Décrire ce que la douleur change au cours d’une journée",
+      "description": "À l’accueil, Séraphine peut encore guider les visiteurs. Rester debout lui coûte davantage et elle veut que ce changement soit entendu en consultation.",
+      "context": "Après une matinée à l’accueil, lors d’un échange sur la douleur",
+      "topics": [
+        "Retentissement de la douleur",
+        "Évaluation de la douleur",
+        "Participation au travail"
+      ],
+      "clinical_focus": "Retentissement de la douleur au quotidien",
+      "clinical_intro": "Séraphine s’aperçoit que ses trajets et sa façon de tenir l’accueil ont changé. Elle voudrait dire à la docteure Bensaïd ce que la douleur lui demande aujourd’hui. Une dépendance aux opioïdes peut coexister avec une douleur qui mérite sa propre évaluation. Les difficultés rencontrées pendant une journée ordinaire donnent des exemples pour en parler.",
+      "opening": "Un homme montre à Séraphine un papier qui indique le deuxième étage. Elle lui explique où se trouve l’ascenseur puis retourne le plan vers lui pour qu’il puisse suivre le couloir du doigt. Quand il lève enfin les yeux, elle est assise derrière le comptoir. D’habitude, elle sort pour montrer l’angle à prendre. Ce matin, la douleur lui a déjà fait interrompre deux fois ce trajet. Elle garde sa place sur la chaise et demande au monsieur s’il voit la bande bleue au-dessus de la porte. Il la voit. Elle peut finir de le renseigner.\n\nÀ midi, elle hésite à repartir à pied. Hier, elle est descendue un arrêt plus loin, près de l’entrée du parc, et elle a pris le temps d’en faire le tour. Aujourd’hui, elle s’assoit à l’arrêt le plus proche. Dans son carnet, les mots sur l’ancien traitement se trouvent encore au pli. Elle cherche une page libre pour écrire la distance qu’elle a faite ce matin avant de s’arrêter. Elle écrit d’abord « jusqu’à l’angle », en se disant que la docteure Bensaïd lui demandera à quel angle elle pense.\n\nLa docteure Bensaïd appelle quand le bus arrive à son arrêt. Séraphine descend et elles reprennent la conversation sur le trottoir. Elle raconte la chaise de l’accueil, puis le détour par le parc la veille. La question de samedi lui revient. Si elle prépare le café debout puis attend Irène à côté de la porte, il lui restera encore à retrouver les bonnes pages dans le cahier.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La douleur et les gestes qu’elle rend plus coûteux",
+          "text": "La douleur chronique s’évalue aussi d’après ses variations et les effets qu’elle a sur la vie quotidienne. Un diagnostic de dépendance aux opioïdes ne permet pas de déduire l’origine d’une douleur ou le besoin exprimé par la personne. Au téléphone, Séraphine raconte les tâches qu’elle peut faire autrement, celles qu’elle a interrompues et ce qu’elle a pu faire la veille. Ces observations aident à comprendre son retentissement et à poursuivre une évaluation qui lui est propre."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le retentissement de la douleur peut-il devenir visible ?",
+          "points": [
+            {
+              "heading": "Une tâche reste possible autrement",
+              "text": "Une personne peut continuer une activité grâce à un aménagement simple ou en gardant seulement certains gestes.",
+              "examples": [
+                "Séraphine renseigne le visiteur assise et lui montre la bande bleue sur le plan au lieu de l’accompagner.",
+                "Une personne qui prépare une réunion peut installer les dossiers à hauteur de table quand les aller-retours dans la salle deviennent pénibles."
+              ]
+            },
+            {
+              "heading": "Un trajet ou une durée se réduit",
+              "text": "Décrire le moment où une activité devient difficile montre ce que la douleur change au-delà de sa seule intensité.",
+              "examples": [
+                "Séraphine indique l’angle du couloir où elle a dû s’arrêter.",
+                "Une personne peut expliquer au rendez-vous qu’elle a interrompu le trajet jusqu’au marché après le premier croisement."
+              ]
+            },
+            {
+              "heading": "Deux journées proches se passent différemment",
+              "text": "Les variations font partie de ce que la personne peut décrire, même si elle n’en connaît pas l’origine.",
+              "examples": [
+                "Séraphine a fait le tour du parc la veille et choisit aujourd’hui l’arrêt le plus proche.",
+                "Quelqu’un a préparé le déjeuner debout la veille et demande aujourd’hui une chaise après avoir sorti la planche."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire les effets de la douleur sur ses activités",
+          "points": [
+            {
+              "heading": "Décrire une tâche jusqu’au point où elle change",
+              "objective": "Donner un exemple de l’effet de la douleur sur une activité.",
+              "exercise": [
+                "Choisissez un geste ou un trajet de la journée.",
+                "Dites où la douleur vous a fait modifier, interrompre ou reprendre ce geste.",
+                "Précisez ce que vous avez pu faire ensuite."
+              ],
+              "benefit": "Le soignant peut se représenter la difficulté dans son contexte."
+            },
+            {
+              "heading": "Garder le contraste entre deux journées",
+              "objective": "Aider le professionnel à entendre les variations.",
+              "exercise": [
+                "Choisissez deux journées proches dont vous vous souvenez.",
+                "Notez une différence dans la tâche ou dans ce que vous pouviez accomplir.",
+                "Apportez les deux au rendez-vous et dites ce que vous ne pouvez pas expliquer."
+              ],
+              "benefit": "Le récit peut rendre une fluctuation plus visible qu’une note globale."
+            },
+            {
+              "heading": "Prévoir un aménagement en accord avec les autres",
+              "objective": "Garder une activité accessible lorsque la douleur en change certains gestes.",
+              "exercise": [
+                "Nommez le rôle que vous voulez continuer.",
+                "Demandez une adaptation précise, comme une place assise près des documents.",
+                "Convenez du relais pour les gestes que vous ne pouvez pas assurer ce jour-là."
+              ],
+              "benefit": "Une adaptation peut permettre de garder une tâche choisie pendant que l’évaluation continue."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La bande bleue sur le plan",
+      "ending": "Séraphine décrit à la docteure le dernier bout du trajet qu’elle a fait debout et la différence avec la veille. Elles conviennent de reprendre l’évolution au prochain rendez-vous. Aux archives, Séraphine demande à Salomé de déplacer le plateau de café près de la chaise en bois. Elle garde les légendes à portée de la main. Salomé pourra rapporter la cafetière quand il le faudra, et Karim ouvrira à Irène comme prévu. Séraphine ne sait pas combien de temps elle pourra rester debout samedi. La chaise et les cahiers peuvent déjà rester du même côté de la table.",
+      "conclusion": "Décrire les gestes que la douleur rend difficiles donne à Séraphine des mots pour son suivi et pour organiser l’accueil. Ces deux échanges permettent d’agir sur ce qui est connu, tandis que l’évaluation médicale continue.",
+      "mirror": [
+        "Salomé peut demander « Tu veux garder le café si je rapporte la cafetière, ou on échange une partie ? » Elle peut vérifier avec Séraphine ce que chacune peut faire samedi. Les détails dont elles ont besoin pour déplacer une chaise sont ceux que Séraphine veut donner. Elle garde le reste pour le rendez-vous de soins si elle le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parcours-douleur",
+        "has-opioides-recommandations",
+        "has-diagnostic-opioides"
+      ],
+      "continuity": {
+        "choice": "Séraphine raconte deux journées différentes à sa médecin, garde une place assise pour les légendes et demande à Salomé de prendre en charge le trajet avec la cafetière.",
+        "next": "À la rencontre avec Irène, un souvenir d’une parole retenue ramène Séraphine à ce qu’elle a peur de dire en soins."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "seraphine-peur-du-jugement-et-parole-retenue",
+      "title": "Quand la peur d’être jugée fait remettre une demande d’aide",
+      "description": "Séraphine trouve les mots pour dater une photo avec Irène. Une inquiétude lui fait encore remettre une question qu’elle voudrait poser en soins.",
+      "context": "À La Traverse, le jour où Irène vient voir la photo",
+      "topics": [
+        "Crainte du jugement",
+        "Accès à la parole",
+        "Soutien en addictologie"
+      ],
+      "clinical_focus": "Parole retenue par crainte d’être jugée",
+      "clinical_intro": "Séraphine avait repoussé une première demande d’aide parce qu’elle craignait de voir sa douleur mise en doute si elle parlait de son usage. Cette crainte peut laisser des difficultés hors de la conversation en soins. Aujourd’hui, elle a déjà un suivi. Il lui reste pourtant difficile de dire que deux problèmes se présentent parfois au même moment.",
+      "opening": "Irène pose ses lunettes sur la nappe et demande que la photo reste dans le bon sens. Séraphine la pousse jusqu’au bord de la table. Karim vient d’ouvrir la porte sur rue. Salomé rapportera la cafetière quand ils auront fini de regarder. Irène garde la photo un moment sans rien dire, puis pose un ongle près du rideau. « Là, c’est Fatou. On voit le coin de son tablier. On servait les verres à deux. » Elle cherche au dos du tirage une date qui n’y est pas. Ce soir-là, elle avait ramené la glace chez Nadine parce que la salle était restée un moment sans électricité.\n\nSéraphine sait dans quel cahier elle a lu le nom de Nadine. Elle le fait glisser vers elle et laisse Irène retrouver seule la phrase dans la marge. Le silence lui donne le temps de relire dans son carnet une question qu’elle garde depuis plusieurs jours. Elle voudrait dire à Chloé qu’à certains retours elle ressent à la fois la douleur et l’envie d’opioïdes. Elle craint qu’en rapprochant les deux, on pense qu’elle parle de sa douleur pour obtenir un médicament.\n\nElle a connu cette crainte avant le diagnostic. Elle avait commencé un message à l’équipe de soins, puis l’avait laissé sans suite. Elle n’avait demandé de l’aide qu’après d’autres journées qui l’avaient inquiétée. Ce matin encore, elle a ouvert le numéro de Chloé sans savoir par quel bout commencer. En face d’elle, Irène a posé le doigt sur une ligne et demande si Séraphine peut lui lire ce qui précède.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le jugement redouté change dans une demande",
+          "text": "La crainte d’être jugé à propos d’un usage peut retarder une demande de soins ou retenir une information au cours d’un suivi. Séraphine redoute que le fait d’évoquer l’envie mette sa douleur en doute. Elle peut parler assez facilement d’un trajet douloureux ou de l’envie à la fermeture du travail. Dans une même phrase, les deux lui paraissent plus difficiles à dire. Un entretien qui laisse une place à cette crainte peut permettre de reprendre ce qu’elle veut expliquer et ce qu’elle attend du soin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte du jugement peut-elle retenir une parole ?",
+          "points": [
+            {
+              "heading": "Un contact se prépare et reste en attente",
+              "text": "On peut reconnaître un besoin et hésiter encore à faire le premier pas par peur de la réponse.",
+              "examples": [
+                "Avant son diagnostic, Séraphine avait commencé un message au sujet de son usage sans l’envoyer.",
+                "Quelqu’un relève le numéro d’une consultation après une semaine difficile et repousse l’appel par peur du regard qu’il imagine."
+              ]
+            },
+            {
+              "heading": "Une partie de l’expérience reste de côté",
+              "text": "La personne donne certaines informations et retient celles qui lui paraissent susceptibles d’être mal comprises.",
+              "examples": [
+                "Séraphine parle des trajets douloureux à sa médecin et de l’envie à Chloé, tout en hésitant à dire qu’elles se rencontrent certains soirs.",
+                "Une personne décrit les conséquences sur son travail et garde pour elle la difficulté à parler des envies présentes depuis plusieurs jours."
+              ]
+            },
+            {
+              "heading": "Les mots cherchent à prévenir une conclusion",
+              "text": "La crainte peut prendre de la place avant même que la conversation ait commencé.",
+              "examples": [
+                "Séraphine cherche comment commencer sans avoir l’impression de devoir justifier la réalité de sa douleur.",
+                "Une personne essaie plusieurs formulations pour aborder l’usage avant un rendez-vous, de peur d’entendre que son autre demande ne sera plus prise au sérieux."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire une place à ce qu’on hésite à dire",
+          "points": [
+            {
+              "heading": "Commencer par la crainte elle-même",
+              "objective": "Faire entendre ce qui rend la demande difficile.",
+              "exercise": [
+                "Écrivez une phrase courte sur le jugement que vous redoutez.",
+                "Lisez-la ou montrez-la au soignant si vous vous sentez prêt à le faire.",
+                "Demandez-lui de prendre le temps d’entendre la question qui suit."
+              ],
+              "benefit": "Le professionnel peut reconnaître la crainte avant de reprendre les faits et la demande."
+            },
+            {
+              "heading": "Choisir l’interlocuteur et le cadre",
+              "objective": "Aborder la question à un moment où il est possible de parler.",
+              "exercise": [
+                "Repérez un soignant ou un service d’addictologie que vous pouvez joindre.",
+                "Demandez un échange dans un endroit ou par un moyen où vous vous sentez à l’aise.",
+                "Préparez une phrase sur le sujet que vous aimeriez traiter pendant l’entretien."
+              ],
+              "benefit": "Un cadre choisi peut rendre la demande moins difficile à formuler."
+            },
+            {
+              "heading": "Demander un appui avant l’appel",
+              "objective": "Être accompagné dans une démarche sans déléguer son récit.",
+              "exercise": [
+                "Choisissez une personne à qui vous souhaitez demander un appui.",
+                "Dites si vous voulez qu’elle vous écoute ou reste simplement à proximité.",
+                "Décidez vous-même de ce que vous souhaitez transmettre au service de soins."
+              ],
+              "benefit": "Une aide consentie peut rendre le premier contact plus accessible."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le coin du tablier",
+      "ending": "Le cahier indique la fête de juin 2007 et mentionne le transport de la glace après la panne. Irène confirme que c’est bien cette fête. Séraphine lui relit la légende avant de la glisser avec le tirage. Elle y a ajouté les prénoms des deux personnes qui servaient les verres. Plus tard, depuis chez elle, elle laisse à Chloé un message bref. « J’ai une question sur les soirs où j’ai mal et où l’envie revient. J’hésite parce que j’ai peur qu’on n’entende plus la douleur. » Elle a encore du mal à imaginer la réponse. La question est désormais posée.",
+      "conclusion": "La peur du jugement peut faire attendre avant d’aborder une difficulté, même avec un suivi déjà en place. Séraphine a trouvé une façon de dire cette crainte et le sujet qu’elle veut reprendre avec Chloé. La réponse reste à construire en entretien.",
+      "mirror": [
+        "Séraphine a choisi de poser sa question à Chloé depuis chez elle. Si elle confie à Salomé la crainte qui l’a fait attendre, son amie peut dire « Si tu veux essayer une phrase ici avant de la dire au rendez-vous, on peut prendre le temps. » Séraphine décide de ce qu’elle souhaite partager avec Salomé et de ce qu’elle réserve à l’entretien de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-opioides-recommandations",
+        "dis-parler-addiction"
+      ],
+      "continuity": {
+        "choice": "Séraphine et Irène datent la photo de juin 2007. Séraphine contacte Chloé à propos de la coexistence de la douleur et de l’envie et dit sa peur d’être jugée.",
+        "next": "Chloé propose de décrire une de ces soirées avec elle et demande ce que Séraphine voudrait voir transmis à la docteure Bensaïd."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "seraphine-douleur-envie-vecues-ensemble",
+      "title": "Parler d’une soirée où douleur et envie se rencontrent",
+      "description": "Séraphine reprend une soirée avec Chloé. Elle cherche des mots pour la douleur et pour l’envie, puis décide ce que sa médecin peut recevoir.",
+      "context": "Avec Chloé, après la rencontre avec Irène",
+      "topics": [
+        "Douleur et envie concomitantes",
+        "Coordination des soins",
+        "Partage choisi des informations"
+      ],
+      "clinical_focus": "Douleur et envie éprouvées au même moment",
+      "clinical_intro": "Séraphine a mal au retour du travail et éprouve aussi une forte envie d’opioïdes. Elle reprend le déroulé avec Chloé, qui connaît son diagnostic. La douleur et l’envie peuvent coexister et leurs variations ne coïncident pas toujours. Les décrire séparément aide à rendre les deux expériences audibles et à préparer leur suivi.",
+      "opening": "Avant de partir au rendez-vous, Séraphine ferme le dossier rouge sur la photo et la légende lue à Irène. Salomé lui a laissé un mot pour demander quand elles pourront faire un essai avec quelques anciens membres. Karim peut ouvrir un jeudi. Séraphine aime l’idée de finir sa journée de travail et de trouver, en arrivant, la porte déjà ouverte. Elle écrit « jeudi, à voir ensemble » sous le mot avant de quitter la salle.\n\nAu rendez-vous, Chloé lui redemande ce qui rendait la question difficile à poser. Séraphine reprend une soirée en partant de l’arrêt de bus. Ce jour-là, elle avait mal avant de quitter l’accueil. L’envie lui était venue plus tard dans le couloir de son immeuble. À la maison, elle avait pu finir le repas sans revenir sans cesse à cette pensée. Elle avait encore dû s’asseoir pour éplucher les pommes. Elle a d’autres souvenirs moins nets, dont un soir où l’envie est revenue sans que la douleur ait changé.\n\n« Quand je dis que j’ai encore mal, je parle de ce qui me gêne pour rester debout. Quand je dis que l’envie me prend, j’essaie de vous raconter autre chose. » Chloé demande si Séraphine voudrait que la docteure Bensaïd reçoive ces observations pour son prochain rendez-vous. Séraphine cherche à savoir si elles parlent des deux phrases qu’elle vient de dire ou de tout le récit. Elle rapproche sa chaise de la table pour lire avec Chloé ce qu’elles pourraient transmettre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une même soirée, deux questions de soins",
+          "text": "Une douleur et une envie impérieuse d’opioïdes peuvent se présenter au même moment. Leur proximité ne suffit pas à établir un lien de cause à effet. Décrire le déroulé et le retentissement de chacune aide l’équipe à poursuivre l’évaluation de la douleur et le suivi en addictologie. Chloé propose un échange limité à des informations utiles à la prise en charge. Le partage de ces informations entre professionnels est encadré par le secret et par les règles applicables à l’équipe et au consentement. Séraphine peut demander qui recevra quoi et dans quel but."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer la douleur et l’envie quand elles se présentent ensemble ?",
+          "points": [
+            {
+              "heading": "Revenir au déroulé de la journée",
+              "text": "Reprendre le moment où chaque difficulté devient perceptible peut aider à ne pas les raconter comme un seul événement.",
+              "examples": [
+                "Séraphine situe la douleur à l’accueil et l’apparition de l’envie dans le couloir de son immeuble.",
+                "Une personne décrit à son équipe une douleur présente pendant une course puis une envie arrivée sur le chemin du retour."
+              ]
+            },
+            {
+              "heading": "Décrire des retentissements différents",
+              "text": "Les deux vécus peuvent gêner des aspects distincts d’une même activité.",
+              "examples": [
+                "Séraphine s’assoit pour éplucher ses pommes alors qu’elle arrive de nouveau à penser au repas.",
+                "Quelqu’un peut préciser qu’il raccourcit un trajet parce qu’il a mal et qu’il a perdu le fil d’une conversation à cause de l’envie."
+              ]
+            },
+            {
+              "heading": "Garder en tête les soirs où une seule chose change",
+              "text": "Des variations différentes peuvent aider à poser une question sans en présumer la réponse.",
+              "examples": [
+                "Séraphine se rappelle une soirée où l’envie est apparue sans changement perceptible de la douleur.",
+                "Une personne raconte une matinée où un déplacement est devenu plus douloureux alors qu’elle ne rapporte aucune envie à ce moment-là."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des deux expériences à l’équipe de soins",
+          "points": [
+            {
+              "heading": "Écrire deux lignes pour un moment",
+              "objective": "Garder des descriptions distinctes lorsqu’on prépare l’entretien.",
+              "exercise": [
+                "Situez une soirée dont vous vous rappelez.",
+                "Sur une ligne, notez l’effet de la douleur sur un geste.",
+                "Sur une autre, indiquez quand l’envie a occupé votre attention et ce que vous ignorez du lien."
+              ],
+              "benefit": "Le soignant peut entendre deux questions même si elles se posent à la même heure."
+            },
+            {
+              "heading": "Demander qui suit chaque question",
+              "objective": "Éviter qu’une difficulté soit perdue entre deux rendez-vous.",
+              "exercise": [
+                "Présentez les deux préoccupations à un soignant qui vous connaît.",
+                "Demandez avec quel interlocuteur reprendre chacune d’elles.",
+                "Convenez du contact à utiliser si l’une devient plus préoccupante entre les rendez-vous."
+              ],
+              "benefit": "Un plan clair peut aider à obtenir une réponse adaptée à chaque difficulté."
+            },
+            {
+              "heading": "Relire les informations avant une transmission convenue",
+              "objective": "Comprendre le rôle du partage dans le suivi.",
+              "exercise": [
+                "Demandez qui recevra l’information et pour quel besoin.",
+                "Précisez les observations que vous souhaitez voir transmises et posez vos questions sur le partage.",
+                "Vérifiez avec les soignants comment la transmission s’organise et comment les deux sujets seront repris."
+              ],
+              "benefit": "Les professionnels peuvent mieux coordonner le suivi avec des informations pertinentes pour la situation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux phrases",
+      "ending": "Chloé relit un court message sur les soirs où douleur et envie ont coexisté et les questions de Séraphine sur leur évaluation. Séraphine donne son accord pour que Chloé l’adresse à la docteure Bensaïd, sans joindre le récit complet de la soirée. Chloé lui confirme ensuite l’envoi. Le rendez-vous sur la douleur reste prévu. Elles prévoient aussi de reparler des envies. Séraphine n’a pas encore compris ce qui joue les soirs où les deux se rencontrent. En rentrant, elle confirme à Salomé et Karim qu’ils peuvent essayer d’ouvrir la salle le jeudi suivant.",
+      "conclusion": "Dire la douleur et l’envie dans la même consultation peut permettre de préciser chacune. Séraphine a choisi ce qu’elle souhaitait transmettre à sa médecin et sait comment reprendre les deux sujets. Leur coexistence reste à explorer avec l’équipe.",
+      "mirror": [
+        "Si Séraphine dit à Salomé qu’elle a mal et perd le fil, Salomé peut demander « Est-ce que tu veux que je reprenne les légendes pendant que tu fais une pause ? » Elle peut répondre au besoin que son amie lui indique. Le partage entre Chloé et la docteure Bensaïd concerne les soins, et Séraphine choisit ce qu’elle veut en raconter à La Traverse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parcours-douleur",
+        "has-opioides-recommandations",
+        "fr-secret-soins"
+      ],
+      "continuity": {
+        "choice": "Séraphine donne son accord à une transmission ciblée entre Chloé et la docteure Bensaïd, garde les deux suivis et confirme un essai d’ouverture le jeudi suivant.",
+        "next": "Pendant cet essai, une perte de vigilance et une respiration anormale chez Rémi exigent le relais des secours."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "seraphine-absence-de-reponse-et-secours",
+      "title": "Une personne ne répond plus et respire mal",
+      "description": "Pendant l’essai d’ouverture, Rémi ne répond plus à Séraphine et respire mal. Elle appelle le 15 et décrit ce qu’elle observe.",
+      "context": "Pendant le premier essai d’ouverture des archives",
+      "topics": [
+        "Perte de vigilance",
+        "Respiration anormale",
+        "Appel au 15 ou au 112"
+      ],
+      "clinical_focus": "Perte de vigilance et respiration anormale",
+      "clinical_intro": "Rémi cesse de répondre pendant l’ouverture des archives et sa respiration devient irrégulière. Ces signes peuvent se produire lors d’une surdose d’opioïdes et dans d’autres urgences. Séraphine ignore la cause. Elle appelle immédiatement le 15, décrit l’état de Rémi et suit les consignes jusqu’à l’arrivée de l’équipe de secours.",
+      "opening": "Le premier visiteur demande s’il peut poser sa veste. Séraphine lui indique le crochet près du radiateur, celui dont la vis dépasse le moins. Il cherche une liste d’adhérents. Karim ouvre le registre à l’année demandée et glisse un papier sous la bonne ligne pour que les écritures ne se confondent pas. Près de la porte, Rémi aligne les copies de la photo. Il demande s’il faut en mettre une aussi devant la boîte à suggestions. Séraphine lui propose de la poser à plat pour que les gens puissent se rapprocher.\n\nElle apporte une légende à la table. Quand elle se retourne, Rémi est affaissé sur sa chaise. Elle l’appelle par son prénom. Il ne lui répond pas et sa respiration a de longues pauses. Séraphine sort aussitôt son téléphone et appelle le 15. Salomé s’approche. Séraphine lui demande de faire signe à Karim d’aller à l’entrée pour guider les secours. Elle donne l’adresse de l’association et précise que l’accès est par la porte sur rue, à côté du passage vers la cour.\n\nLa personne au téléphone demande ce qui vient de se passer. Séraphine dit que Rémi parlait avec elle quelques instants plus tôt, qu’il ne répond plus et que sa respiration lui paraît irrégulière. Elle répond aux questions sur ce qu’elle sait. Elle ignore ce qui a précédé son arrivée. La voix du 15 la guide. Salomé fait reculer les visiteurs pour laisser de la place. Séraphine suit les consignes et signale ce qu’elle observe jusqu’à ce que Karim revienne avec les secours.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des signes qui demandent un relais immédiat",
+          "text": "Une absence de réponse ou une respiration anormale doit faire appeler immédiatement les secours. Une perte de conscience et une respiration très ralentie ou irrégulière peuvent notamment se produire lors d’une surdose d’opioïdes. Ces signes peuvent aussi avoir d’autres causes. En France, l’appel au 15 ou au 112 permet de décrire l’urgence et de recevoir des consignes. Séraphine peut dire comment Rémi réagit et respire, à quel endroit il se trouve et ce qu’elle sait du début de la situation. Les secours prennent le relais pour l’évaluer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment décrire ce qui alerte pendant l’appel ?",
+          "points": [
+            {
+              "heading": "Dire si la personne répond",
+              "text": "Le changement de vigilance se rapporte à partir de ce que l’on a observé.",
+              "examples": [
+                "Séraphine dit que Rémi lui parlait peu auparavant et ne répond plus quand elle l’appelle.",
+                "À la fin d’un repas, un témoin peut dire aux secours que la personne n’arrive plus à répondre alors qu’elle prenait part à la conversation."
+              ]
+            },
+            {
+              "heading": "Décrire ce qui change dans la respiration",
+              "text": "Les faits observables aident la personne qui répond au téléphone à guider le témoin.",
+              "examples": [
+                "Séraphine indique que la respiration de Rémi présente de longues pauses.",
+                "Une personne qui voit une respiration devenir soudain très lente peut le dire pendant l’appel en précisant quand elle l’a remarqué."
+              ]
+            },
+            {
+              "heading": "Préciser ce qui est connu de la situation",
+              "text": "Une information concrète peut être utile même si l’origine du malaise est inconnue.",
+              "examples": [
+                "Séraphine sait que Rémi parlait quelques instants plus tôt. Elle dit qu’elle ignore ce qui a précédé son arrivée.",
+                "Si un témoin sait qu’un opioïde a été pris avant le malaise, il transmet ce fait aux secours, qui détermineront la conduite à tenir."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour alerter et passer le relais en urgence",
+          "points": [
+            {
+              "heading": "Appeler immédiatement",
+              "objective": "Mettre la personne en lien avec un service de secours sans attendre d’identifier la cause.",
+              "exercise": [
+                "En France, appelez le 15 ou le 112 dès qu’une personne ne répond pas ou respire anormalement.",
+                "Donnez l’adresse et dites si la personne répond et comment elle respire.",
+                "Suivez les consignes et restez en ligne tant que votre interlocuteur vous le demande."
+              ],
+              "benefit": "Le service peut évaluer l’urgence, guider le témoin et envoyer l’aide nécessaire."
+            },
+            {
+              "heading": "Faire guider les secours si quelqu’un peut aider",
+              "objective": "Faciliter l’arrivée de l’équipe pendant que l’appel se poursuit.",
+              "exercise": [
+                "Dites à la personne qui répond où se trouve l’entrée la plus directe.",
+                "Si quelqu’un d’autre est présent et disponible, demandez-lui d’aller attendre les secours à cette entrée.",
+                "Continuez à suivre les consignes auprès de la personne en difficulté."
+              ],
+              "benefit": "Le relais peut arriver au bon endroit sans interrompre l’aide guidée par téléphone."
+            },
+            {
+              "heading": "Résumer les faits à l’arrivée de l’équipe",
+              "objective": "Transmettre les informations utiles pour que les secours prennent la suite.",
+              "exercise": [
+                "Dites ce que vous avez vu en premier et ce qui a changé depuis.",
+                "Indiquez toute exposition dont vous avez connaissance et les actions déjà faites sur consigne.",
+                "Répondez aux questions et laissez l’équipe prendre le relais."
+              ],
+              "benefit": "L’équipe peut s’appuyer sur les observations du témoin pour sa propre évaluation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La porte sur rue",
+      "ending": "Karim revient en tenant la porte. Séraphine montre aux secours où se trouve Rémi et leur dit à quel moment il lui parlait encore et ce qui a changé depuis l’appel. L’équipe prend la suite. Salomé annonce aux visiteurs que l’essai s’arrête pour aujourd’hui. Plus tard, Séraphine retrouve sur le sol une copie qui a glissé de la table. Elle la ramasse et range les autres dans le dossier rouge. Elle ne sait pas ce qui est arrivé à Rémi. Elle convient avec Salomé et Karim qu’ils décideront ensemble de la reprise.",
+      "conclusion": "Séraphine a appelé sur ce qu’elle pouvait observer, sans devoir connaître la cause du malaise. Les secours ont pris la suite. L’arrêt de l’essai leur laisse le temps de se retrouver et de décider comment rouvrir les archives.",
+      "mirror": [
+        "À côté de Séraphine qui a appelé le 15, Salomé peut dire « Je fais de la place, et Karim attend l’équipe à la porte. » Si personne n’a encore appelé, elle peut le faire immédiatement au 15 ou au 112. Elle suit les consignes et transmet aux secours les faits qu’elle connaît. Après le relais, les bénévoles peuvent informer les visiteurs de la fermeture sans spéculer sur l’état de Rémi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-opioides-recommandations",
+        "fr-surdose-opioides",
+        "dis-relais-surdose",
+        "fr-secours-opioides",
+        "ameli-appel-secours-opioides"
+      ],
+      "continuity": {
+        "choice": "Séraphine appelle le 15 et suit les consignes jusqu’au relais des secours. L’association arrête l’essai et convient de rediscuter de l’ouverture.",
+        "next": "Après l’arrêt de l’essai, Séraphine distingue ce qu’elle peut décider avec l’association de l’appui supplémentaire dont elle veut parler à Chloé."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "seraphine-ambivalence-face-a-un-suivi",
+      "title": "Hésiter devant un rendez-vous de suivi plus rapproché",
+      "description": "Séraphine aimerait parler de ses envies plus près du moment où elles lui prennent du temps. Ajouter un rendez-vous lui paraît aussi difficile.",
+      "context": "La semaine suivant l’arrêt de l’essai, avant une nouvelle ouverture",
+      "topics": [
+        "Ambivalence face au suivi",
+        "Préférences en soins",
+        "Appui en addictologie"
+      ],
+      "clinical_focus": "Ambivalence face à un suivi plus rapproché",
+      "clinical_intro": "Quand les envies lui prennent encore du temps, Séraphine voudrait en parler avant son rendez-vous habituel. Elle craint aussi de manquer de place pour tout ce qu’elle a repris. Ces hésitations peuvent coexister dans un suivi de dépendance aux opioïdes. Les entendre ensemble aide à discuter d’une proposition qu’elle pourrait essayer.",
+      "opening": "Salomé a conservé le papier qui disait « essai jeudi » au dos du calendrier. Elle le pose face cachée pour avoir la place d’écrire. Karim a pris des nouvelles de Rémi et leur a dit qu’il lui laisserait le choix de répondre. Le groupe décide de proposer un nouvel essai aux personnes déjà invitées. Salomé se chargera des copies. Séraphine et Salomé inscrivent l’adresse de la salle à côté du téléphone de l’accueil. La première fois, Séraphine la connaissait et l’avait donnée de mémoire. Elle préfère que la prochaine personne puisse la lire sans avoir à la chercher.\n\nLe lendemain, chez Chloé, Séraphine sort son agenda et pose le pouce sur le jeudi. Elles ont déjà un prochain entretien prévu. Chloé lui propose de se parler plus tôt pour reprendre les soirs où les envies la gênent encore. Séraphine dit qu’elle serait soulagée de pouvoir poser ses questions au moment où elle se les rappelle le mieux. Elle imagine aussi l’enchaînement des rendez-vous avec l’accueil, les trajets et le prochain essai. Depuis sa reprise, elle aime retrouver une heure en milieu de semaine où elle peut simplement rentrer à pied.\n\nElle répond « comme vous voulez », puis laisse son agenda ouvert. Chloé lui demande ce qu’elle voudrait obtenir d’un échange plus tôt et ce qui rendrait ce créneau difficile. Séraphine lui montre le jeudi et se rend compte qu’elle ne sait pas encore si la proposition porte sur un seul entretien ou sur toutes les semaines.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux raisons valables devant une même proposition",
+          "text": "Une personne suivie pour une dépendance aux opioïdes peut avoir des raisons d’accepter une proposition de soins et des raisons d’hésiter. On parle d’ambivalence lorsque les deux mouvements sont présents ensemble. Cela peut se discuter sans déduire de l’hésitation ce que la personne veut pour sa santé. Chloé explore l’appui que Séraphine voudrait avoir quand les envies sont difficiles et les contraintes d’un rendez-vous supplémentaire. Le choix porte sur le suivi des envies. L’arrêt de l’essai des archives ne dit rien de leur évolution."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’ambivalence peut-elle apparaître pendant un suivi ?",
+          "points": [
+            {
+              "heading": "Un soulagement espéré accompagne une réserve",
+              "text": "La même proposition peut sembler utile et coûteuse à mettre en place.",
+              "examples": [
+                "Séraphine imagine pouvoir parler plus tôt de certains soirs et pense aussi au trajet qu’ajouterait un rendez-vous.",
+                "Une personne souhaiterait plus de temps pour expliquer des envies qui l’occupent et hésite devant un déplacement en plus dans sa semaine."
+              ]
+            },
+            {
+              "heading": "Un accord rapide laisse une question ouverte",
+              "text": "On peut se dire prêt à envisager une proposition alors qu’un détail changerait la décision.",
+              "examples": [
+                "Séraphine répond « comme vous voulez » et garde le jeudi sous le pouce parce qu’elle ignore si l’entretien se répéterait.",
+                "Quelqu’un accepte de discuter d’un appel et s’aperçoit qu’il voudrait d’abord savoir si l’horaire est flexible."
+              ]
+            },
+            {
+              "heading": "Une version plus précise permet d’exprimer une préférence",
+              "text": "Quand la durée, le but ou la fréquence sont clarifiés, la personne peut mieux dire ce qui lui convient.",
+              "examples": [
+                "Séraphine peut envisager un point sur les envies si elle sait qu’elles discuteront ensuite de la suite.",
+                "Une personne se dit plus disposée à venir après avoir choisi avec le soignant la difficulté dont ils parleront pendant le rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour discuter d’une proposition qui fait hésiter",
+          "points": [
+            {
+              "heading": "Formuler les deux côtés",
+              "objective": "Donner à chaque raison sa place dans l’entretien.",
+              "exercise": [
+                "Dites ce qui pourrait vous être utile dans la proposition.",
+                "Nommez ce qui la rend difficile à accepter aujourd’hui.",
+                "Demandez au soignant de reprendre ces deux éléments avec vous."
+              ],
+              "benefit": "La discussion peut tenir compte de l’aide recherchée et du coût que vous prévoyez."
+            },
+            {
+              "heading": "Clarifier le cadre du rendez-vous",
+              "objective": "Savoir à quoi l’on répond avant de choisir.",
+              "exercise": [
+                "Demandez sur quel sujet porterait l’échange.",
+                "Vérifiez le moment et le nombre de rendez-vous envisagés.",
+                "Indiquez ce que vous pouvez prévoir et les horaires qui vous posent problème."
+              ],
+              "benefit": "Une proposition plus concrète donne à la personne et au soignant une base pour décider."
+            },
+            {
+              "heading": "Choisir un point à revoir ensemble",
+              "objective": "Évaluer l’utilité d’un appui au fil du suivi.",
+              "exercise": [
+                "Formulez la question que vous aimeriez traiter lors du prochain échange.",
+                "Convenez du créneau et du moyen de reprendre contact si le besoin change.",
+                "Prévoyez quand reparler de ce que cet échange vous apporte."
+              ],
+              "benefit": "Il devient possible de discuter de la suite à partir de l’expérience de la personne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le jeudi sous le pouce",
+      "ending": "Chloé propose un seul entretien de plus pour parler des envies. Elles décideront ensemble de la suite. Séraphine choisit un mardi après sa matinée d’accueil. À Salomé, elle confirme le nouvel essai du jeudi et l’heure à laquelle elle pourra venir. Karim ouvrira. Elle n’a pas besoin de savoir aujourd’hui si des entretiens plus rapprochés lui conviendront sur la durée. Elle ajoute le mardi à son agenda, puis repousse le papier de la permanence pour laisser apparaître la semaine entière.",
+      "conclusion": "L’hésitation de Séraphine a rendu visibles une demande d’aide et des contraintes. En précisant avec Chloé ce qu’un entretien supplémentaire peut apporter, elle a choisi un essai de suivi. Le projet des archives garde son propre calendrier.",
+      "mirror": [
+        "Si Séraphine parle de son hésitation, Salomé peut dire « Je peux te dire quels jeudis je suis disponible. Pour le rendez-vous, tu veux que je t’écoute chercher ce qui te conviendrait ? » Elle peut aider à distinguer les questions d’horaire sans choisir le suivi à la place de son amie. Chloé et Séraphine peuvent continuer à en discuter."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-opioides-recommandations",
+        "has-entretien-motivationnel"
+      ],
+      "continuity": {
+        "choice": "Séraphine choisit avec Chloé un point supplémentaire le mardi pour parler des envies et confirme séparément le nouvel essai d’ouverture du jeudi.",
+        "next": "Après le nouvel essai et quelques semaines plus calmes, une envie plus forte revient le jour où les bénévoles doivent arrêter l’horaire de la permanence."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "seraphine-envie-qui-revient-et-suivi",
+      "title": "Quand une envie revient après une période plus calme",
+      "description": "Séraphine pensait arriver aux archives sans cette difficulté. Le retour de l’envie lui donne un nouveau point à reprendre avec Chloé.",
+      "context": "À La Traverse, au moment de fixer l’horaire des permanences",
+      "topics": [
+        "Retour de l’envie",
+        "Évolution dans la durée",
+        "Continuité du suivi"
+      ],
+      "clinical_focus": "Retour de l’envie après une accalmie",
+      "clinical_intro": "Après quelques semaines où les envies l’ont moins gênée, Séraphine en éprouve une forte le jour où l’association doit fixer son horaire. Le vécu des envies peut varier au cours du suivi d’une dépendance aux opioïdes. Ce retour mérite d’être dit pour ce qu’il est. À lui seul, il ne permet pas de conclure à une reprise d’usage.",
+      "opening": "Lors du nouvel essai, Séraphine avait laissé les visiteurs chercher une minute avant de proposer son aide. Au début, le silence lui avait paru long. Une femme avait fini par retrouver elle-même un bulletin qu’elle croyait disparu. En repartant, elle avait demandé si on pouvait venir le jeudi sans prévenir. Depuis, Salomé et Karim ont regardé leurs horaires. Aujourd’hui, ils vont décider à quelle heure la porte sur rue pourra rester ouverte chaque semaine.\n\nSéraphine a revu Chloé le mardi convenu. Elles ont gardé un moyen de se joindre avant l’entretien suivant. Depuis quelques semaines, l’envie avait moins pesé dans ses journées. Ce matin, elle revient pendant que Séraphine attend que le bus démarre. Elle voit plusieurs arrêts défiler avec cette pensée qui prend de nouveau de la place. Elle est surprise de la retrouver aussi forte. Hier, elle a pu rentrer et s’arrêter à la boulangerie sans y revenir sans cesse. Elle ne sait pas encore ce qui fera la différence demain.\n\nÀ La Traverse, le dossier rouge est ouvert à la page de la fête. Irène a apporté une petite carte avec le nom de famille de Fatou, qui a donné son accord pour qu’il figure dans la légende. Séraphine relit le nom à voix basse. Salomé lui demande si elle est prête à aller vérifier avec Karim la feuille des horaires. Séraphine n’a pas envie de remettre toute la discussion. Elle voudrait avoir un moment à elle avant de regarder la feuille avec eux.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’un retour d’envie permet de dire du moment présent",
+          "text": "L’intensité et le retentissement des envies peuvent changer au fil du suivi d’une dépendance aux opioïdes. Une envie qui revient après une période plus calme est une information à discuter. Elle ne renseigne pas à elle seule sur l’usage actuel ou sur l’ensemble de l’évolution. Séraphine peut dire ce qu’elle a éprouvé et la place que cela a prise dans son trajet. Chloé peut reprendre avec elle ce qui a changé et ce qui lui serait utile. La permanence des archives se décide selon les disponibilités et les relais de l’association."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un retour d’envie peut-il se faire remarquer après une accalmie ?",
+          "points": [
+            {
+              "heading": "La différence apparaît à l’échelle de plusieurs jours",
+              "text": "La personne reconnaît un changement par rapport à ce qu’elle éprouvait récemment.",
+              "examples": [
+                "Séraphine se rappelle plusieurs semaines où l’envie la gênait moins et un trajet où elle a repris beaucoup de place.",
+                "Une personne indique à son soignant qu’après plusieurs soirées tranquilles elle a eu du mal à suivre un appel de famille parce qu’elle pensait aux opioïdes."
+              ]
+            },
+            {
+              "heading": "La surprise peut rendre le moment difficile à raconter",
+              "text": "La personne peut avoir anticipé une journée ordinaire et chercher ses mots quand l’envie revient.",
+              "examples": [
+                "Séraphine n’avait pas prévu que l’attente du bus lui prendrait autant d’attention avant de rejoindre Salomé.",
+                "Quelqu’un qui s’apprête à décrire une période plus calme en consultation commence par raconter la forte envie éprouvée ce matin même."
+              ]
+            },
+            {
+              "heading": "Le besoin de soutien peut changer avant le rendez-vous",
+              "text": "Le prochain contact prévu peut sembler plus éloigné quand les envies se font plus présentes.",
+              "examples": [
+                "Séraphine retrouve le moyen de joindre Chloé entre deux entretiens après ce trajet plus difficile.",
+                "Une personne qui pensait pouvoir attendre le rendez-vous prévu demande à son équipe un échange plus tôt parce que les envies occupent de nouveau ses journées."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre contact quand l’envie revient",
+          "points": [
+            {
+              "heading": "Raconter le retour et l’accalmie",
+              "objective": "Montrer un changement sans ramener tout le suivi à une seule journée.",
+              "exercise": [
+                "Indiquez comment les envies vous gênaient les jours précédents.",
+                "Décrivez une situation récente où leur place a changé.",
+                "Dites ce que vous aimeriez comprendre avec le soignant."
+              ],
+              "benefit": "Les deux périodes peuvent entrer dans l’évaluation."
+            },
+            {
+              "heading": "Utiliser le contact convenu",
+              "objective": "Discuter des difficultés actuelles dans un délai adapté.",
+              "exercise": [
+                "Retrouvez le moyen de joindre l’équipe que vous avez déjà convenu.",
+                "Dites ce qui vous gêne aujourd’hui et si vous souhaitez un échange avant la date prévue.",
+                "Demandez quelle suite l’équipe propose et comment la joindre si la situation évolue."
+              ],
+              "benefit": "Le professionnel peut apprécier le besoin d’un rendez-vous ou d’un autre relais."
+            },
+            {
+              "heading": "Garder un relais dans un projet commun",
+              "objective": "Permettre une pause ou une absence sans que le projet s’arrête.",
+              "exercise": [
+                "Définissez ensemble une tâche que quelqu’un peut reprendre.",
+                "Mettez à sa disposition la clé ou l’information nécessaire.",
+                "Dites quel signal pratique vous donnerez quand vous aurez besoin de ce relais."
+              ],
+              "benefit": "Une organisation convenue peut soutenir la participation sans exposer la situation de santé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Tous les jeudis, de quinze à dix-sept heures",
+      "ending": "Séraphine demande quelques minutes avant de reprendre les horaires. Elle écrit à Chloé pour lui dire ce qui a changé après les dernières semaines, en utilisant le contact convenu. Le rendez-vous sur la douleur est toujours inscrit dans le carnet. En revenant à la table, Séraphine vérifie avec Salomé et Karim que l’association peut ouvrir tous les jeudis, de quinze à dix-sept heures. Salomé a le double et peut tenir l’accueil quand Séraphine demande le relais. Karim sait où reprendre si l’une d’elles manque. Séraphine glisse l’horaire sous la vitre de la porte sur rue. Le soir, Chloé lui propose un appel le lendemain. Dans le dossier, le nom entier de Fatou figure désormais sous la photo du rideau. Jeudi prochain, Séraphine aimerait sortir le cahier des fêtes d’hiver.",
+      "conclusion": "Le retour de l’envie change le besoin de parler avec Chloé après des semaines plus calmes. Séraphine a un suivi où reprendre ce changement. À La Traverse, la photo datée attend les visiteurs et la permanence peut désormais s’ouvrir chaque semaine avec un relais prévu.",
+      "mirror": [
+        "Quand Séraphine demande quelques minutes, Salomé peut dire « Je garde la feuille. Dis-moi quand tu veux qu’on la regarde, et jeudi je peux ouvrir si tu me le demandes. » Si son amie dit que l’envie est revenue, elle peut lui demander si elle a un contact de soins disponible. Chacune peut prendre la part du projet qu’elles ont prévue sans que Salomé ait à suivre les envies de Séraphine."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-opioides-recommandations",
+        "has-parcours-douleur",
+        "preston-envie-opioides"
+      ],
+      "continuity": {
+        "choice": "Séraphine signale le retour de l’envie à Chloé, garde le suivi de sa douleur et ouvre avec Salomé et Karim la permanence du jeudi de quinze à dix-sept heures avec un relais prévu.",
+        "next": "Les rendez-vous de soins se poursuivent. Les anciens membres ont un créneau hebdomadaire, et Séraphine choisit le cahier qu’elle souhaite leur présenter ensuite."
+      }
+    }
+  ]
+}

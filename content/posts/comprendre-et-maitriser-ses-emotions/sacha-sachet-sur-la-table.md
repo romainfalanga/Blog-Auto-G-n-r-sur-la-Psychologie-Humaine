@@ -46,7 +46,7 @@ Le professionnel cherche dans quels échanges la peur apparaît et ce qu’elle 
 
 ### Elle tient compte de ce que la personne préfère
 
-Une relation à deux peut convenir pleinement ; l’entretien cherche aussi les moments où la peur restreint un choix voulu.
+Une relation à deux peut convenir pleinement. L’entretien cherche aussi les moments où la peur restreint un choix voulu.
 
 **Exemples concrets**
 

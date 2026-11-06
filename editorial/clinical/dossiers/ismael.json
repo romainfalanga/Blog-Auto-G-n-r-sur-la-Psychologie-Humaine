@@ -1,0 +1,87 @@
+{
+  "references": {
+    "oms-cim11-amnesie-dissociative": {
+      "title": "Organisation mondiale de la Santé, CIM-11 MMS, 6B61, édition 2026-01",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#626975732"
+    },
+    "nhs-troubles-dissociatifs": {
+      "title": "NHS, Dissociative disorders, sections Dissociative amnesia et Diagnosing dissociative disorders",
+      "url": "https://www.nhs.uk/mental-health/conditions/dissociative-disorders/"
+    },
+    "ameli-troubles-memoire-causes": {
+      "title": "Assurance Maladie, Les différents troubles de la mémoire et leurs causes",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-memoire/troubles-memoire-causes"
+    },
+    "ameli-troubles-memoire-bilan": {
+      "title": "Assurance Maladie, Bilan mémoire et traitement des troubles de la mémoire",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-memoire/consultation-traitement"
+    },
+    "ameli-troubles-memoire-urgence": {
+      "title": "Assurance Maladie, Quand consulter en cas de troubles de la mémoire ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-memoire/que-faire-quand-consulter"
+    },
+    "ameli-avc-urgence": {
+      "title": "Assurance Maladie, Accident vasculaire cérébral : que faire ?",
+      "url": "https://www.ameli.fr/assure/sante/urgence/pathologies/avc"
+    },
+    "samhsa-tip57-memoire": {
+      "title": "SAMHSA, Trauma-Informed Care in Behavioral Health Services, TIP 57, Strategies To Manage Traumatic Memories, p. 133",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK207201/pdf/Bookshelf_NBK207201.pdf"
+    },
+    "loftus-palmer-formulation": {
+      "title": "Loftus et Palmer, Reconstruction of Automobile Destruction, Journal of Verbal Learning and Verbal Behavior, 1974",
+      "url": "https://stanford.edu/class/psych205/papers/Loftus-Palmer-1974.pdf"
+    },
+    "has-decision-medicale-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    },
+    "service-public-controle-permis-professionnel": {
+      "title": "Service Public, Contrôle médical obligatoire pour le permis de conduire professionnel",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1255"
+    },
+    "service-public-controle-permis-sante": {
+      "title": "Service Public, Permis de conduire et contrôle médical pour raisons de santé",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2686"
+    },
+    "service-public-visites-reprise": {
+      "title": "Service Public, Un salarié doit-il passer une visite médicale après un arrêt de travail ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2871"
+    },
+    "service-public-secret-medical": {
+      "title": "Service Public, Secret médical : de quoi s'agit-il ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34302"
+    }
+  },
+  "dossier": {
+    "name": "Amnésie dissociative",
+    "aliases": [
+      "6B61"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim11-amnesie-dissociative",
+      "nhs-troubles-dissociatifs",
+      "ameli-troubles-memoire-causes",
+      "ameli-troubles-memoire-bilan",
+      "ameli-troubles-memoire-urgence",
+      "ameli-avc-urgence",
+      "samhsa-tip57-memoire",
+      "loftus-palmer-formulation",
+      "has-decision-medicale-partagee",
+      "service-public-controle-permis-professionnel",
+      "service-public-controle-permis-sante",
+      "service-public-visites-reprise",
+      "service-public-secret-medical"
+    ],
+    "points": [
+      "Le CDDR de l’OMS (2024, pages 373 à 377, 6B61) décrit des souvenirs autobiographiques importants qui restent inaccessibles d’une façon qui dépasse l’oubli ordinaire, avec un retentissement significatif. La perte peut concerner une période délimitée ou certains événements d’une période. L’étendue et l’évolution varient. Il existe une association fréquente avec des événements difficiles ou stressants, dont le lien peut ne pas être apparent. Une lacune n’atteste pas qu’un événement précis, notamment traumatique, a eu lieu. Le diagnostic d’Ismaël a été évalué avant le récit, pour des lacunes anciennes de son histoire personnelle. Il sait qui il est, aucune fugue n’est montrée et aucune sous-catégorie n’est annoncée dans la narration. La CIM-11 distingue la fugue dissociative, où il peut y avoir perte du sentiment d’identité personnelle et départ soudain prolongé, du seul fait d’oublier une période. Les causes et le contenu de la période d’Ismaël restent privés et en partie inconnus.",
+      "L’Assurance Maladie distingue la mémoire des événements vécus de la mémoire des connaissances et de la mémoire des gestes appris. Le CDDR décrit la perte comme principalement autobiographique, pas comme une atteinte uniforme de toutes les formes de mémoire. Ismaël conserve certains savoir-faire et apprend des informations dans le présent. Le NHS rappelle que des pertes de compétences peuvent aussi exister dans d’autres présentations. Un geste d’atelier réussi n’est ni une épreuve diagnostique ni un avis d’aptitude à conduire. Les oublis de détails sont courants. Une perte étendue d’événements personnels importants et ses conséquences dans le temps se décrivent au professionnel, sans décider à partir d’un rappel qui a ou n’a pas fonctionné.",
+      "Le récit sépare souvenir personnel, récit d’un tiers, information portée par un document et hypothèse. Cette distinction repose sur la description de la mémoire autobiographique du CDDR et sur les formes de mémoire présentées par l’Assurance Maladie. Les faits du présent peuvent être consignés pour s’organiser. Le document mentionne ce qu’il atteste, sans montrer ce qu’Ismaël a éprouvé ni reconstituer ce qu’il ne se rappelle pas. Les expériences de Loftus et Palmer montrent, en laboratoire, que la formulation de questions après le visionnage d’un film peut influencer les réponses et certains rapports ultérieurs. Elles ne portent pas sur le diagnostic de l’amnésie dissociative ni sur la véracité d’un récit individuel. Le guide SAMHSA TIP 57 recommande une position neutre au sujet de la réalité d’un souvenir de traumatisme et déconseille les démarches suggestives de recherche active dans ce contexte. Aucun proche ou professionnel du récit ne propose de test, de visualisation, de stimulation ou de récupération de souvenirs. Une limite conversationnelle respecte le consentement sans décider du passé.",
+      "Le CDDR examine les effets de substances ou de médicaments, le traumatisme crânien, les maladies neurologiques ou autres affections et des diagnostics tels que les troubles neurocognitifs et l’état de stress post-traumatique. Les difficultés de mémoire peuvent avoir plusieurs formes et causes. L’évaluation du nouvel événement reste distincte du diagnostic d’Ismaël. L’Assurance Maladie recommande le 15 ou le 112 en cas de trouble de mémoire brutal avec d’autres signes neurologiques tels qu’un trouble de la parole, y compris si les signes régressent lorsqu’un AVC est possible. Dans l’atelier, Yann observe une difficulté soudaine à suivre l’échange et à parler. Il appelle immédiatement le 15 et suit les consignes. Ismaël ne conduit pas et est évalué médicalement. Le récit ne conclut pas à la cause de cet épisode. Les faits, horaires et changements observables aident l’évaluation. Les exemples d’évolution progressive ou de retentissement croissant mènent à un médecin, sans délai d’observation imposé à un signe urgent.",
+      "La décision médicale partagée de la HAS et le bilan de l’Assurance Maladie fondent les appuis de communication avec les soignants. Le carnet d’atelier, les libellés datés et les horaires choisis sont des moyens pratiques de gérer des tâches actuelles. Ils ne sont pas présentés comme des traitements spécifiques du 6B61 ou des exercices de mémoire. Yann propose une aide limitée, demande l’accord pour partager une information personnelle et distingue ses observations d’un récit supposé. En urgence il communique aux secours les informations nécessaires. L’évaluation et la conduite du suivi relèvent des professionnels. La persistance de certaines lacunes n’implique ni absence de progrès dans la vie quotidienne ni pronostic individuel.",
+      "Ismaël travaille en France pour une société privée de transport scolaire. Le contrôle médical du permis professionnel, y compris le permis B utilisé pour du ramassage scolaire, et le contrôle pour raisons de santé relèvent du médecin agréé et des procédures applicables. Le médecin du travail examine le poste, la reprise et les éventuels aménagements. Ces rôles sont distincts. Le suivi clinique de la perte de mémoire ne se substitue à aucun d’eux. Pendant son interruption de travail, Ismaël prend le bus ou se fait accompagner, conformément aux consignes reçues. Le récit ne fixe aucune reprise de conduite, aucun trajet d’essai et aucune activité de travail avant autorisation. Un entretien de préparation ne constitue pas un avis de reprise ou de permis. Le dossier médical et le diagnostic restent dans le circuit médical. L’employeur peut être informé des éléments nécessaires à l’organisation et recevoir les avis ou préconisations applicables sans recevoir les confidences cliniques."
+    ]
+  },
+  "direction": "Ismaël a 40 ans et conduit une navette scolaire pour une société privée. Il est en arrêt et son amnésie dissociative a déjà été évaluée. Une partie de ses souvenirs du mois où il a commencé à partager le hangar avec Yann lui reste inaccessible. Le récit se garde de définir ce qui s’y est passé au-delà d’une remise de clés attestée. Ismaël aime que les noms correspondent à ce qu’ils désignent et que les mesures partent du même bord. Yann parle vite et devient plus attentif à la différence entre ce dont il se souvient, ce qu’il suppose et ce qu’Ismaël accepte d’entendre. Ensemble ils restaurent un châssis bleu dont ils veulent retrouver l’usage. Une facture du hangar, une feuille de mesures et une fiche du jour ont des fonctions distinctes. Le récit suit l’accès inégal à des souvenirs importants, les savoir-faire conservés, le statut des traces, l’oubli ordinaire, la pression d’un récit suggéré, l’organisation présente avec consentement, une perte de mémoire inhabituelle qui conduit à un appel urgent et à une évaluation, le bilan encore ouvert, la continuité de son récit de vie, le retentissement professionnel, la confidentialité et l’évolution du quotidien. La docteure Charlier suit Ismaël. Le service de santé au travail prépare avec lui les démarches relatives au poste. Nora organise les tournées et reçoit seulement ce qui lui sert à organiser le service. Ismaël ne conduit dans aucune scène et n’exécute aucune tâche professionnelle pendant l’arrêt. La dernière fenêtre est remise en place et le retour au travail reste en préparation dans les circuits appropriés. Les lacunes anciennes n’ont pas à être remplies pour que l’atelier garde une place dans sa vie."
+}

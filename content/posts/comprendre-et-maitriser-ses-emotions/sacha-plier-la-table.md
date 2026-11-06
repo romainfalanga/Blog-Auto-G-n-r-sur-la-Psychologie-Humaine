@@ -41,7 +41,7 @@ Les personnes présentes ne voient pas toujours la surveillance ni les décision
 
 **Exemples concrets**
 
-- La fille d’un visiteur peut utiliser la fiche ; cela ne dit pas ce que montrer le plant a demandé à Sacha.
+- La fille d’un visiteur peut utiliser la fiche. Cela ne dit pas ce que montrer le plant a demandé à Sacha.
 - Une équipe voit une présentation se terminer et ignore combien d’énergie a pris le fait de répondre aux questions.
 
 ### Un autre engagement devient plus coûteux
@@ -108,4 +108,4 @@ Gaspard libère le ressort. Sacha replie la table avec lui, puis pose le chevale
 
 **Conclusion**
 
-Le chevalet peut servir un autre matin sans que Sacha fixe une nouvelle démonstration. Au cabinet, il parle de son dimanche ; à son frère, il propose un moment à deux qu’il a envie de partager.
+Le chevalet peut servir un autre matin sans que Sacha fixe une nouvelle démonstration. Au cabinet, il parle de son dimanche. À son frère, il propose un moment à deux qu’il a envie de partager.

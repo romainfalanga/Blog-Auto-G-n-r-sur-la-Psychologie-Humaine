@@ -31,7 +31,7 @@ Hélène prend le bordereau. Elle avait envie que les gens sachent qui a dessin�
 
 ## Dire oui à un usage et non à un autre
 
-L’autodétermination au travail comprend la possibilité d’accepter, de refuser ou de reporter séparément des propositions. Un support accessible et un délai peuvent aider une personne ayant un trouble du développement intellectuel à examiner ce qui est demandé. Hélène souhaite que son travail soit reconnu. Elle refuse le portrait et la mention de son accompagnement ; la photo des panneaux reste à discuter.
+L’autodétermination au travail comprend la possibilité d’accepter, de refuser ou de reporter séparément des propositions. Un support accessible et un délai peuvent aider une personne ayant un trouble du développement intellectuel à examiner ce qui est demandé. Hélène souhaite que son travail soit reconnu. Elle refuse le portrait et la mention de son accompagnement. La photo des panneaux reste à discuter.
 
 ## Comment un accord devient-il plus clair quand on sépare les demandes ?
 

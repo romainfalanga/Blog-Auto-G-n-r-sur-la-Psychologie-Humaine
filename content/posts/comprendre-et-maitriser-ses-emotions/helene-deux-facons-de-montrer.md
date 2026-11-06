@@ -41,7 +41,7 @@ Observer la première étape qui bloque permet de proposer une réponse plus pr�
 
 **Exemples concrets**
 
-- Hélène a choisi la flèche et l’image ; le premier tirage sort trop petit.
+- Hélène a choisi la flèche et l’image. Le premier tirage sort trop petit.
 - Une personne sait préparer les étiquettes et demande seulement de retrouver le réglage correspondant à leur format.
 
 ### Une démonstration peut laisser les commandes à la personne
@@ -108,4 +108,4 @@ Hélène écrit au dos des panneaux le jour prévu et le nom de chaque version. 
 
 **Conclusion**
 
-Hélène prépare ses deux versions après avoir résolu une question de papier. Le nom sur le carton pourra resservir ; le samedi, elle observera ce que les clients comprennent du panneau lui-même.
+Hélène prépare ses deux versions après avoir résolu une question de papier. Le nom sur le carton pourra resservir. Le samedi, elle observera ce que les clients comprennent du panneau lui-même.

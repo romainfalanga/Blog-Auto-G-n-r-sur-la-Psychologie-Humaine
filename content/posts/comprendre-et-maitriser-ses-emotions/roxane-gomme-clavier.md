@@ -32,7 +32,7 @@ Roxane ramène la gomme sur le carton pour le remettre droit. Elle écoute la tr
 
 ## Un enregistrement fait entendre une situation
 
-Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.
+Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table. Elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.
 
 Dans le trouble des sons de la parole, la facilité à distinguer un mot peut changer d’une prise à l’autre. Elle dépend de la façon dont les sons sont produits et aussi de ce que capte le micro. En comparant les prises, Roxane cherche celle qui donnera sa place au silence et à l’indice. Ce choix de montage ne mesure pas son niveau de parole.
 
@@ -111,4 +111,4 @@ Sur la feuille de Zoé, Roxane dessine un rectangle pour le bruit et un autre po
 
 **Conclusion**
 
-Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle ; le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes.
+Roxane garde deux pistes et un espace pour les réponses du public. Le fichier est prêt pour l’essai en salle. Le carton vierge lui laisse une place pour ce qu’elle découvrira là-bas. Une écoute au casque lui a donné un choix, avec des questions encore ouvertes.

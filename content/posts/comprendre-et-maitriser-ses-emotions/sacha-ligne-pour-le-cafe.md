@@ -55,7 +55,7 @@ Préparer un document, présenter le projet ou accueillir les participants sont 
 
 ### La préférence et la peur se décrivent dans le temps
 
-Une décision peut associer envie, limites et anxiété encore présente ; le suivi peut distinguer ces dimensions sur plusieurs exemples.
+Une décision peut associer envie, limites et anxiété encore présente. Le suivi peut distinguer ces dimensions sur plusieurs exemples.
 
 **Exemples concrets**
 

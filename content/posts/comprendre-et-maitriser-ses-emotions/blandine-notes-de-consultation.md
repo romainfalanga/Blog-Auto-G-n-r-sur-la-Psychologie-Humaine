@@ -31,7 +31,7 @@ La thérapeute lui demande ce qu’elle aimerait pouvoir choisir ces jours-là. 
 
 ## Partir d’une vie que la personne veut retrouver
 
-L’accompagnement d’un deuil prolongé peut aborder la douleur liée à la perte et les buts que la personne souhaite retrouver dans sa vie. Des recherches ont évalué des psychothérapies ciblées chez des adultes suivis pour un deuil compliqué ; ces résultats ne prédisent pas le chemin d’une personne. Blandine et sa thérapeute examinent le coût des activités courantes et ce que Blandine aimerait à nouveau pouvoir choisir.
+L’accompagnement d’un deuil prolongé peut aborder la douleur liée à la perte et les buts que la personne souhaite retrouver dans sa vie. Des recherches ont évalué des psychothérapies ciblées chez des adultes suivis pour un deuil compliqué. Ces résultats ne prédisent pas le chemin d’une personne. Blandine et sa thérapeute examinent le coût des activités courantes et ce que Blandine aimerait à nouveau pouvoir choisir.
 
 ## Comment l’accompagnement part-il de ce que la personne vit ?
 

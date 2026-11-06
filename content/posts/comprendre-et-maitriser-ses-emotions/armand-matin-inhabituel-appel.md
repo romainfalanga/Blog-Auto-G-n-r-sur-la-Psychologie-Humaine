@@ -41,7 +41,7 @@ Dans une confusion aiguë, suivre un échange bref peut devenir soudain beaucoup
 
 **Exemples concrets**
 
-- La veille, Armand parlait des cartes ; ce matin, il perd le fil au milieu de quelques mots.
+- La veille, Armand parlait des cartes. Ce matin, il perd le fil au milieu de quelques mots.
 - Une personne qui échangeait normalement au petit déjeuner ne parvient plus quelques heures plus tard à suivre une question simple.
 
 ### La vigilance peut être différente ou varier rapidement
@@ -108,4 +108,4 @@ L’équipe envoyée prend le relais. Jeanne leur indique qu’Armand a demandé
 
 **Conclusion**
 
-La veille, Armand avait pu discuter de ses cartes. Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite. Le rendez-vous à la bibliothèque attend ; l’équipe médicale a pris le relais.
+La veille, Armand avait pu discuter de ses cartes. Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite. Le rendez-vous à la bibliothèque attend. L’équipe médicale a pris le relais.

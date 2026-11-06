@@ -1,0 +1,1240 @@
+{
+  "character_id": "cyril",
+  "bio": "Cyril a 32 ans. Charpentier, il donne aussi du temps au jardin partagé, où les bénévoles remettent une clôture en place. Il veut montrer à Nadia deux gestes d’entretien qu’elle a choisis. Il vit avec un trouble d’excoriation compulsive déjà diagnostiqué. Certains jours de fatigue, les gestes qui abîment sa peau prennent du temps sur le reste et il lui est arrivé de cacher des lésions. Il peut parler de ce qu’il traverse à son ami Théo. Une médecin suit l’état de sa peau et Cyril ajuste ses pauses avec sa psychologue.",
+  "profile_topics": [
+    "Trouble d’excoriation compulsive",
+    "Gestes remarqués après coup",
+    "Envie de toucher la peau",
+    "Lésions et retentissement",
+    "Adaptation des pauses"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "cyril-remarquer-le-geste-apres-coup",
+      "title": "Le geste qu’on ne remarque qu’après coup",
+      "description": "À la fin du travail, Cyril perd le fil d’un message de Théo. Il se rend compte qu’il a de nouveau manipulé sa peau sans s’en apercevoir tout de suite.",
+      "context": "À l’atelier, après la journée de travail",
+      "topics": [
+        "Gestes peu conscients",
+        "Attention partagée",
+        "Reprise d’une activité"
+      ],
+      "clinical_focus": "Prise de conscience tardive du geste",
+      "clinical_intro": "Cyril s’assied après le travail pour écouter un message de Théo au sujet du jardin. Il en manque la fin et remarque seulement alors qu’il a manipulé sa peau. Dans le trouble d’excoriation compulsive, le geste peut revenir alors que l’attention est ailleurs. Chez Cyril, ce moment se voit surtout à l’échange qu’il lui faut reprendre.",
+      "opening": "Cyril a gardé les chutes de la semaine pour que quelqu’un vienne les chercher. Il barre le dernier nom sur la feuille de l’atelier et pose son sac près de la porte. Les autres ont déjà quitté le vestiaire. Il est content de pouvoir s’asseoir avant de repartir. Théo lui a envoyé un message au sujet du jardin partagé. La clôture déplacée par le vent sera remise en place avec les bénévoles. Aïcha doit confirmer les jours où l’équipe peut venir. Théo voudrait savoir si Cyril a encore envie de les aider à faire le tour des lattes à reprendre.\n\nLe message se termine sur un bruit de porte. Cyril ne sait pas si Théo a donné l’heure de leur rendez-vous. Il s’aperçoit qu’il a de nouveau manipulé sa peau pendant qu’il l’écoutait. Il connaît le trouble d’excoriation compulsive dont il parle en suivi, mais il n’a pas vu le geste commencer. Il aurait cru qu’il avait simplement passé quelques minutes assis avec son téléphone. Maintenant, il ne sait pas si Théo attend une réponse pour ce soir.\n\nIl pense d’abord lui écrire qu’il regardera son agenda en rentrant. Il aimerait pourtant lui dire pourquoi il tient à être là. Les gens viennent souvent lui demander s’il peut réparer un problème à leur place. Cette fois, une bénévole lui a demandé si elle pouvait apprendre quelque chose à faire elle-même. Il voudrait entendre la suite du message avant de lui répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le geste peut commencer alors que l’attention est ailleurs",
+          "text": "Le trouble d’excoriation compulsive se manifeste par des manipulations répétées de la peau qui entraînent des lésions et peuvent prendre beaucoup de place dans la vie. La personne ne remarque pas toujours le geste à son début. Chez Cyril, c’est le message à reprendre qui lui fait retrouver ce qui se passait à côté. Les comportements répétitifs centrés sur le corps comprennent aussi la trichotillomanie, qui concerne l’arrachage de cheveux ou de poils. La ressemblance entre certains gestes ne suffit pas à poser un diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le geste peut-il échapper à l’attention sur le moment ?",
+          "points": [
+            {
+              "heading": "L’attention est occupée ailleurs",
+              "text": "La personne peut être prise par ce qu’elle regarde, écoute ou attend quand le geste survient.",
+              "examples": [
+                "Cyril écoute le message de Théo après le travail et ne remarque pas le début du geste.",
+                "Une personne attend une réponse en lisant un article et s’aperçoit seulement au bout d’un moment de ce qu’elle faisait."
+              ]
+            },
+            {
+              "heading": "On s’en aperçoit à un changement d’activité",
+              "text": "La transition peut rendre perceptible ce qui passait au second plan.",
+              "examples": [
+                "Quand l’enregistrement s’arrête, Cyril remarque le geste et la partie du message qui lui a échappé.",
+                "Une personne se lève à la fin d’une émission et prend alors conscience qu’elle a touché sa peau à plusieurs reprises."
+              ]
+            },
+            {
+              "heading": "Il est parfois difficile de raconter le début",
+              "text": "Quand le geste a été peu remarqué, on peut décrire la situation sans savoir exactement à quel moment il a commencé.",
+              "examples": [
+                "Cyril peut dire ce qu’il écoutait mais ignore quand le geste est revenu.",
+                "Une personne se rappelle avoir attendu dans un couloir et ne sait plus si elle avait remarqué une envie au départ."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver le fil après avoir remarqué un geste tardivement",
+          "points": [
+            {
+              "heading": "Reprendre une information qui manque",
+              "objective": "Retrouver la tâche à laquelle on voulait répondre.",
+              "exercise": [
+                "Repérez le passage que vous n’avez pas suivi.",
+                "Réécoutez-le ou demandez une précision à la personne.",
+                "Répondez au point qu’elle attend."
+              ],
+              "benefit": "Une question précise peut suffire à reprendre un échange interrompu."
+            },
+            {
+              "heading": "Prévoir un moment clair pour répondre",
+              "objective": "Éviter qu’une attente peu définie s’ajoute à la fin de journée.",
+              "exercise": [
+                "Si vous avez besoin de rentrer d’abord, choisissez un moment réaliste pour rappeler.",
+                "Dites-le à la personne qui attend la réponse.",
+                "Mettez un seul rappel si cela vous aide."
+              ],
+              "benefit": "Vous pouvez retrouver l’échange au moment choisi sans demander à l’autre de surveiller vos gestes."
+            },
+            {
+              "heading": "Apporter un exemple au suivi",
+              "objective": "Aider le professionnel à comprendre dans quel cadre le geste est passé inaperçu.",
+              "exercise": [
+                "Pensez après coup à un moment qui vous revient.",
+                "Notez l’activité en cours et ce qui vous a fait remarquer le geste.",
+                "Dites au professionnel ce dont vous ne vous souvenez pas."
+              ],
+              "benefit": "Ces éléments peuvent aider à discuter de la prise de conscience sans chercher à reconstituer chaque instant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fin du message",
+      "ending": "Cyril réécoute les dernières secondes. Aïcha sera au jardin samedi matin et Nadia, la bénévole, voudrait d’abord faire le tour avec lui. Il envoie à Théo une réponse avec l’heure qu’il vient d’entendre. Dans son sac, il glisse le petit carnet qu’il utilise pour les projets du jardin. Il y inscrira ce que Nadia souhaite apprendre avant que le groupe décide de la suite de la clôture.",
+      "conclusion": "Cyril n’a pas remarqué le retour du geste pendant le message. Il a pu retrouver ce qui lui manquait et confirmer le rendez-vous. Au jardin, il voudra entendre jusqu’au bout la demande de Nadia avant de préparer quoi que ce soit.",
+      "mirror": [
+        "Théo peut répondre à la question qui lui arrive. « Oui, c’est bien samedi à dix heures. Tu veux qu’on se retrouve au portail ? » Si Cyril lui dit qu’il s’est aperçu du geste après coup, Théo peut écouter ce qu’il souhaite en dire. Il n’a pas besoin de regarder sa peau ou de lui demander de rendre compte du reste de sa journée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril réécoute le message et confirme à Théo sa venue au jardin samedi à dix heures.",
+        "next": "Avant de rencontrer Nadia au jardin, une sensation de peau retient son attention alors qu’il se prépare à partir."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "cyril-envie-attiree-par-une-sensation",
+      "title": "Quand une sensation de peau retient l’attention",
+      "description": "Avant le jardin, une sensation de peau prend de la place dans l’esprit de Cyril. Cette fois, il remarque l’envie avant que le geste commence.",
+      "context": "Le samedi matin, chez Cyril puis au jardin partagé",
+      "topics": [
+        "Envie de toucher la peau",
+        "Attention captée",
+        "Sensation cutanée"
+      ],
+      "clinical_focus": "Envie consciente liée à une sensation",
+      "clinical_intro": "En se préparant pour le jardin, Cyril remarque une irrégularité de peau et l’envie d’y revenir. La veille, il n’avait pas vu le geste commencer. Ici, il sent son attention revenir vers la même sensation avant d’avoir fait quoi que ce soit. Le trouble d’excoriation compulsive peut prendre ces formes différentes chez une même personne.",
+      "opening": "Cyril a laissé son carnet ouvert sur la table, à côté des clés du jardin que Théo lui a prêtées. Il a écrit le prénom de Nadia puis s’est arrêté. Elle lui avait dit qu’elle voulait apprendre quelque chose d’utile sans dépendre du jour où il est disponible. Il n’a encore aucune idée de la question qu’elle lui posera. Ça lui plaît. Il se demande si elle voudra commencer par le portillon ou par les grandes lattes qui bordent la rue.\n\nAu moment de partir, une sensation de peau retient son attention. Il remarque l’envie de s’en occuper, puis constate qu’il pense à la même chose pendant qu’il cherche ses clés. Il se souvient du message de Théo au vestiaire. Ce matin, il voit l’envie arriver. Elle ne le renseigne pas sur l’état de sa peau. Elle lui fait pourtant remettre ses clés sur la table et suspendre son départ. Théo doit l’attendre à l’entrée.\n\nSon téléphone s’allume. Aïcha demande si quelqu’un sait où le carnet du jardin a été rangé après la dernière pluie. Cyril se rappelle qu’elle avait choisi le tiroir du haut dans l’abri. Il répond et dit qu’il arrive dans quelques minutes. En retrouvant Théo, il n’a pas oublié la sensation, mais il peut dire à quoi il voulait consacrer la première partie de la matinée. Nadia est déjà près de l’abri.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie que l’on remarque avant le geste",
+          "text": "Dans le trouble d’excoriation compulsive, une sensation de peau ou une irrégularité perçue peut attirer l’attention et précéder une envie consciente. La personne peut avoir du mal à reprendre ce qu’elle faisait alors même qu’elle reconnaît cette envie. Le matin de la visite, Cyril sait ce qui lui revient à l’esprit. Il peut raconter à sa psychologue la différence avec le vestiaire où il n’avait pas remarqué le début du geste."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une sensation peut-elle détourner l’attention de ce qui était prévu ?",
+          "points": [
+            {
+              "heading": "L’envie a un point de départ perceptible",
+              "text": "La personne peut nommer une sensation qui a attiré son attention avant le geste.",
+              "examples": [
+                "Au moment de partir, Cyril remarque une sensation et se rend compte qu’il a envie d’y revenir.",
+                "Une personne qui prépare ses affaires constate qu’une gêne cutanée occupe soudain ses pensées."
+              ]
+            },
+            {
+              "heading": "L’attention peut revenir au même point",
+              "text": "L’envie peut prendre de la place alors que la personne essaie de finir une activité sans rapport.",
+              "examples": [
+                "Cyril cherche ses clés et constate qu’il pense encore à cette sensation.",
+                "Une personne en train de choisir un trajet perd quelques instants le fil parce que son attention revient à la gêne."
+              ]
+            },
+            {
+              "heading": "La suite du programme peut rester en suspens",
+              "text": "On peut hésiter à commencer l’activité prévue tant que l’envie occupe l’attention.",
+              "examples": [
+                "Cyril repose ses clés et attend avant de sortir pour rejoindre Théo.",
+                "Avant un appel qu’elle voulait passer, une personne laisse son téléphone de côté parce que l’envie est devenue très présente."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire de la place à l’activité prévue quand une envie est présente",
+          "points": [
+            {
+              "heading": "Retrouver un point de départ simple",
+              "objective": "Se rappeler ce que l’on voulait faire avant d’être interrompu.",
+              "exercise": [
+                "Reprenez la dernière chose que vous aviez préparée.",
+                "Choisissez la prochaine action ordinaire, par exemple confirmer l’heure d’arrivée.",
+                "Décidez si vous pouvez commencer maintenant ou si vous avez besoin d’un autre moment."
+              ],
+              "benefit": "L’envie peut encore être présente et la suite du programme devenir plus claire."
+            },
+            {
+              "heading": "Décrire au suivi la différence avec un geste peu remarqué",
+              "objective": "Donner au professionnel un exemple d’envie reconnue avant le geste.",
+              "exercise": [
+                "Choisissez une situation dont vous vous souvenez déjà.",
+                "Dites à quel moment vous avez remarqué l’envie.",
+                "Expliquez quelle activité a été suspendue."
+              ],
+              "benefit": "Le professionnel peut discuter d’appuis différents selon le moment où l’envie devient perceptible."
+            },
+            {
+              "heading": "Demander quel professionnel peut évaluer une gêne cutanée",
+              "objective": "Situer une question de peau quand une sensation nouvelle ou persistante vous inquiète.",
+              "exercise": [
+                "Décrivez ce que vous avez remarqué sans retourner chercher la sensation.",
+                "Prenez un avis médical si la gêne revient, persiste ou change.",
+                "Distinguez au rendez-vous la gêne de peau et l’envie qui l’a suivie."
+              ],
+              "benefit": "Le soignant peut examiner l’état de la peau et préciser ce qui relève de son suivi."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux lignes dans le carnet",
+      "ending": "Nadia dit qu’elle voudrait savoir quoi noter quand elle repère une latte abîmée. Puis elle montre le passage vers le portillon, encombré de feuilles à chaque pluie. Elle aimerait pouvoir s’en occuper aussi. Cyril écrit les deux idées dans le carnet. Ils conviennent de garder l’essai pour le jour où la clôture sera remise en place. D’ici là, Aïcha attend une confirmation de la livraison des lattes.",
+      "conclusion": "Cette fois, Cyril a remarqué l’envie et le moment où elle a interrompu son départ. Le carnet porte à présent les deux demandes de Nadia. La prochaine étape dépend d’un horaire de livraison que le groupe ne connaît pas encore.",
+      "mirror": [
+        "Théo peut garder le rendez-vous pratique s’il est possible de le décaler. « Je t’attends devant le portail. Je vais demander à Aïcha où est le carnet pendant ce temps. » Si Cyril lui parle de la sensation, il peut l’écouter et le laisser dire ce qu’il veut faire ensuite. Une question sur sa peau peut être reprise avec son médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril rejoint Nadia, inscrit ses deux demandes et convient de les essayer après la remise en place de la clôture.",
+        "next": "Un horaire de livraison incertain augmente la tension de Cyril avant qu’il ait une réponse à donner au jardin."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "cyril-soulagement-bref-quand-la-tension-monte",
+      "title": "Un soulagement bref quand la tension monte",
+      "description": "En attendant une livraison, Cyril retrouve le geste puis un calme qui dure peu. La question du jardin revient et il doit encore y répondre.",
+      "context": "En fin de journée, après un changement annoncé par le livreur",
+      "topics": [
+        "Montée de la tension",
+        "Soulagement passager",
+        "Pression dans l’organisation"
+      ],
+      "clinical_focus": "Soulagement bref et retour du geste",
+      "clinical_intro": "Le livreur annonce un retard et Cyril essaie de trouver un nouveau créneau pour le jardin. La tension monte et un geste connu lui apporte un répit de courte durée. Dans le trouble d’excoriation compulsive, un soulagement peut contribuer au retour du comportement. Pour Cyril, la question des horaires reste entière quand le répit se termine.",
+      "opening": "Aïcha a réservé le samedi matin pour la clôture. Trois bénévoles ont déjà dit qu’ils viendraient. Le livreur laisse un message à Cyril au moment où il arrive chez lui. Il ne sera peut-être pas là avant midi. Cyril cherche sur le groupe du jardin le nom de la personne qui doit partir à onze heures. Il trouve d’abord deux photos de pots que Nadia veut déplacer pour dégager le passage. Elle a prévu de venir tôt parce qu’elle veut voir la clôture une fois remise en place. Il ne voudrait pas que tout le monde l’attende pour rien.\n\nCyril ouvre le carnet et essaie de faire coïncider les heures. Une tension monte à mesure qu’il voit apparaître les réponses. Il retrouve le geste qui abîme sa peau, avec un calme bref qu’il connaît. Pendant un instant, les messages peuvent attendre. Puis il regarde de nouveau l’heure proposée. Le livreur n’a encore rien confirmé et la tension revient. Cyril pense qu’il pourrait attendre une réponse de plus avant d’en parler à Aïcha. Il entend déjà le téléphone vibrer sur la table.\n\nIl finit par appeler Théo. Celui-ci est en train de rentrer et n’a pas vu les messages. Cyril lui dit que le créneau n’est plus certain. Théo lui demande qui peut décider de maintenir la matinée. Cyril regarde le prénom d’Aïcha sur le carnet. Il peut lui laisser la décision et rappeler le livreur pour lui demander à partir de quelle heure il en saura davantage.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un répit qui ne dure pas toujours",
+          "text": "Certaines personnes qui vivent avec un trouble d’excoriation compulsive décrivent un apaisement ou une baisse de tension après le geste. Un répit bref peut contribuer à ce que le comportement revienne dans des situations éprouvantes. Le problème qui précédait le geste peut rester présent. Cyril retrouve la tension en relisant les messages. L’incertitude sur la livraison demande une décision distincte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la tension et le soulagement peuvent-ils se succéder ?",
+          "points": [
+            {
+              "heading": "La pression se fait sentir avant le geste",
+              "text": "Une attente ou plusieurs demandes peuvent précéder certains moments du trouble.",
+              "examples": [
+                "Cyril lit les réponses des bénévoles et se tend en essayant de trouver un horaire pour tous.",
+                "Une personne doit prévenir sa famille d’un changement de train et sent la tension monter pendant qu’elle attend la nouvelle heure."
+              ]
+            },
+            {
+              "heading": "Le geste peut apporter un répit",
+              "text": "La personne peut avoir l’impression que la tension diminue pour un temps.",
+              "examples": [
+                "Pendant un instant, Cyril trouve moins pressant de répondre au groupe.",
+                "Une personne qui attend un résultat décrit un apaisement bref alors que le message attendu n’est pas encore arrivé."
+              ]
+            },
+            {
+              "heading": "L’incertitude redevient présente ensuite",
+              "text": "Le soulagement peut passer tandis que la situation qui préoccupait la personne reste à régler.",
+              "examples": [
+                "Cyril reprend le téléphone et constate que le livreur n’a rien confirmé.",
+                "Une personne pense de nouveau à son rendez-vous annulé quand elle ouvre l’agenda et voit qu’il faut encore trouver une date."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire face à la pression quand le soulagement ne dure pas",
+          "points": [
+            {
+              "heading": "Séparer l’information et la décision",
+              "objective": "Diminuer le nombre de questions à traiter en même temps.",
+              "exercise": [
+                "Demandez à la personne qui a l’information ce qu’elle peut confirmer.",
+                "Identifiez qui décide pour le groupe.",
+                "Transmettez seulement ce qui est certain à cette personne."
+              ],
+              "benefit": "La responsabilité du calendrier peut être partagée au lieu de rester entre les mains d’une seule personne."
+            },
+            {
+              "heading": "Prévoir un temps entre deux demandes",
+              "objective": "Disposer d’un moment compatible avec la situation quand la pression monte.",
+              "exercise": [
+                "Choisissez un point où l’activité peut être interrompue sans conséquence.",
+                "Avec le professionnel qui vous suit, discutez d’une pause adaptée à ce cadre.",
+                "Vérifiez qui peut attendre ou prendre le relais pendant ce temps."
+              ],
+              "benefit": "Un moment prévu peut rendre une pause plus accessible quand plusieurs demandes arrivent."
+            },
+            {
+              "heading": "Parler du répit et de ce qui revient ensuite",
+              "objective": "Donner une image plus précise de ce que le geste change pour vous.",
+              "exercise": [
+                "Pensez à une situation qui a déjà eu lieu.",
+                "Décrivez ce que le geste a semblé changer et pendant combien de temps à peu près.",
+                "Dites quelle difficulté était toujours présente après."
+              ],
+              "benefit": "Le suivi peut aborder la fonction du soulagement sans résumer la situation à la seule envie de faire le geste."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un horaire à confirmer ensemble",
+      "ending": "Aïcha décide de déplacer la matinée de remise en place. Cyril lui donne le numéro du livreur et laisse le groupe recevoir sa réponse d’elle. Il écrit à Nadia qu’il garde les deux gestes qu’ils ont choisis. Il pourra lui apporter une fiche au prochain rendez-vous. En refermant le carnet, il sait quelle décision a été prise pour le jardin. Il voudrait encore reparler du moment où tout lui avait semblé plus calme.",
+      "conclusion": "Le bref répit n’a pas réglé l’horaire, mais il aide Cyril à comprendre une raison pour laquelle le geste revient sous pression. Aïcha reprend la décision pour le groupe. Cyril garde la préparation de la fiche pour Nadia.",
+      "mirror": [
+        "Théo peut demander ce que Cyril veut régler dans l’immédiat. « Est-ce que tu veux qu’on retrouve le numéro d’Aïcha ? Je peux regarder le groupe quand je serai rentré. » Si Cyril évoque le soulagement puis la tension revenue, Théo peut lui laisser le temps de le dire. Ils peuvent aussi décider ensemble à quel moment le reste de la conversation reprendra."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril transmet les informations à Aïcha, qui déplace la matinée, et promet une fiche à Nadia.",
+        "next": "En préparant la fiche après le dîner, Cyril remarque le temps que les gestes ont pris sur plusieurs soirées."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "cyril-temps-pris-sur-les-soirees",
+      "title": "Le temps que le geste prend sur les soirées",
+      "description": "En voulant préparer une fiche pour Nadia, Cyril retrouve les notes laissées en plan. Il mesure ce que les gestes prennent sur ses soirées.",
+      "context": "Chez Cyril, entre le dîner et un appel prévu avec Théo",
+      "topics": [
+        "Temps consacré au geste",
+        "Activités laissées en plan",
+        "Retentissement sur les soirées"
+      ],
+      "clinical_focus": "Temps absorbé et activités reportées",
+      "clinical_intro": "Cyril voulait finir la fiche du jardin après le dîner. Plusieurs soirs de suite, il s’est retrouvé à repousser cette tâche après un moment qui a pris plus de temps qu’il ne pensait. Le trouble d’excoriation compulsive peut réduire le temps disponible pour des activités ordinaires. Pour Cyril, cet effet se remarque dans les notes commencées et les conversations remises au lendemain.",
+      "opening": "Au dos du carnet, Cyril a écrit qu’il devait garder la fiche sur une seule page. Nadia lui a dit qu’elle ne viendrait pas au jardin chaque semaine. Si elle y va seule, elle veut savoir où laisser ses remarques pour que quelqu’un les lise. Cyril trouve trois façons de le dire. Il en note une sur un papier, pose le carnet sur la table et va ranger l’assiette du dîner. Il a promis d’appeler Théo avant son émission de radio.\n\nIl revient vers le carnet plus tard qu’il ne s’y attendait. Les gestes ont repris de la place pendant la soirée. Il ouvre la discussion avec Théo et retrouve le message de la veille dans lequel il avait déjà proposé de décaler leur appel. Il regarde les brouillons. Lundi, il avait commencé la phrase sur les lattes. Mardi, il avait remis la fiche au lendemain. Chaque soir, il pensait qu’il lui resterait assez de temps. Nadia n’a toujours pas reçu les deux lignes qu’il voulait lui donner.\n\nCe qui l’ennuie le plus, c’est de ne plus savoir comment tenir les petites promesses qu’il fait après le travail. Théo lui écrit que l’émission va commencer. Cyril pourrait lui dire qu’il était occupé. Il préfère préciser qu’il peut encore lui demander une chose, puis finir seul une version courte. Il veut vérifier le nom du carnet où les bénévoles notent leurs observations.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement se voit aussi dans le temps qui reste",
+          "text": "Le trouble d’excoriation compulsive peut occuper une part importante de la journée. Cet effet apparaît parfois à travers les tâches et les échanges que l’on doit écourter ou repousser. Chez Cyril, les notes inachevées donnent une idée de ce qui s’est répété sur plusieurs soirées. Il voudrait pouvoir garder du temps pour Nadia et pour Théo."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le temps pris par le geste peut-il se remarquer dans les activités ordinaires ?",
+          "points": [
+            {
+              "heading": "Une tâche courte peut rester inachevée",
+              "text": "Il peut rester moins de temps que prévu pour une activité simple.",
+              "examples": [
+                "Cyril revient au carnet et n’a toujours pas envoyé les deux lignes pour Nadia.",
+                "Une personne remet au lendemain la réponse à une invitation alors qu’elle pensait l’écrire après le repas."
+              ]
+            },
+            {
+              "heading": "Des reports s’ajoutent d’un soir à l’autre",
+              "text": "Le retentissement peut s’éclairer en regardant les engagements qui se déplacent.",
+              "examples": [
+                "Cyril retrouve plusieurs versions de la fiche et son message qui décalait déjà un appel.",
+                "Une personne voit qu’elle a remis plusieurs fois un rendez-vous téléphonique en croyant chaque fois pouvoir le tenir plus tard."
+              ]
+            },
+            {
+              "heading": "Il reste parfois moins de temps à partager",
+              "text": "La gêne déborde sur les moments que l’on avait réservés à quelqu’un.",
+              "examples": [
+                "Cyril retrouve Théo peu avant le début de son émission et ne peut plus l’appeler longtemps.",
+                "Deux personnes avaient prévu de préparer un repas ensemble. L’une d’elles n’a plus le temps que de parler de ce qu’il faut acheter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver du temps pour une activité qui compte",
+          "points": [
+            {
+              "heading": "Finir une version qui peut déjà servir",
+              "objective": "Choisir la part utile d’une tâche quand la soirée a avancé.",
+              "exercise": [
+                "Demandez-vous ce que l’autre doit recevoir en premier.",
+                "Faites une version assez courte pour le temps qui reste.",
+                "Dites quand vous pourrez compléter le reste si c’est nécessaire."
+              ],
+              "benefit": "Une première réponse peut faire avancer le projet sans repousser toute la tâche."
+            },
+            {
+              "heading": "Rétablir un rendez-vous précis",
+              "objective": "Retrouver un moment d’échange avec l’autre après un report.",
+              "exercise": [
+                "Dites quelle partie de la conversation vous tenez à reprendre.",
+                "Demandez à l’autre quel moment lui convient encore.",
+                "Confirmez un créneau que vous avez de bonnes chances de garder."
+              ],
+              "benefit": "Chacun peut organiser le reste de sa soirée et garder un temps commun."
+            },
+            {
+              "heading": "Parler de ce que les soirées ne permettent plus",
+              "objective": "Montrer le retentissement au professionnel par des exemples concrets.",
+              "exercise": [
+                "Choisissez deux choses que vous avez dû remettre.",
+                "Dites à peu près à quelle fréquence cela change vos soirées.",
+                "Précisez laquelle vous aimeriez retrouver en premier."
+              ],
+              "benefit": "Le suivi peut partir d’un effet quotidien qui compte pour vous."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une fiche qui tient sur une page",
+      "ending": "Théo répond que c’est bien le carnet de l’abri. Cyril écrit les deux intitulés et indique à Nadia où elle pourra retrouver sa fiche. Il l’envoie avant de ranger ses brouillons. Théo et lui conviennent de se voir au jardin le lendemain pour la photo des bénévoles. Ils auront le temps de reparler du reste après. En fermant son carnet, Cyril décide de parler au suivi des soirs où ses projets restent ouverts.",
+      "conclusion": "Les brouillons et l’appel décalé donnent à Cyril une façon de raconter le temps que lui prend le trouble. La fiche est prête et Théo a encore envie de lui parler. Au jardin, le moment de la photo posera une autre question à Cyril.",
+      "mirror": [
+        "Théo peut dire ce qu’il est encore possible de reprendre. « J’ai deux minutes avant l’émission. Si tu veux qu’on parle plus longtemps, on se voit demain après la photo. » Il peut entendre que Cyril manque de temps sans lui demander de raconter chaque soirée. Une réponse courte peut suffire pour la fiche."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril envoie la fiche, garde les soirées comme sujet de suivi et convient de retrouver Théo après la photo des bénévoles.",
+        "next": "Au moment de la photo au jardin, la crainte que l’on remarque une lésion change la place que Cyril est prêt à prendre."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "cyril-crainte-que-les-lesions-se-voient",
+      "title": "Se mettre à l’écart de peur qu’une lésion se voie",
+      "description": "Au jardin, Cyril hésite à se joindre à la photo des bénévoles. Il craint une question sur sa peau et choisit ce qu’il dit à Théo.",
+      "context": "Près du panneau du jardin, avant la photo des bénévoles",
+      "topics": [
+        "Lésions dissimulées",
+        "Crainte d’un regard",
+        "Parole choisie"
+      ],
+      "clinical_focus": "Dissimulation des lésions et retrait social",
+      "clinical_intro": "Cyril voulait rester près de Nadia pour parler de sa fiche. Au moment de la photo du groupe, il se demande ce que les autres verraient de sa peau et s’écarte. Des personnes qui vivent avec un trouble d’excoriation compulsive peuvent chercher à cacher des lésions. La crainte des questions peut alors changer des moments auxquels elles tenaient.",
+      "opening": "Aïcha a attendu que les derniers arrosoirs soient rangés. Elle voudrait une photo pour le panneau qui annonce les jours d’ouverture du jardin. Nadia arrive avec la fiche que Cyril lui a envoyée. Elle l’a pliée en deux et a déjà pensé à une question sur le carnet. Cyril s’apprête à lui répondre quand Aïcha leur demande de se rapprocher du panneau. Il avait dit qu’il participerait à la photo. Il connaît presque tout le monde et aime l’idée que les voisins voient qui fait vivre les parcelles.\n\nIl se demande tout à coup si l’on verra la lésion qu’il a cachée ces derniers jours. Il a déjà changé de place dans un groupe pour éviter qu’on lui pose une question sur sa peau. Cette fois, il propose de tenir le téléphone d’Aïcha. Une autre personne s’est déjà offerte. Cyril reste près de l’abri et ne sait plus s’il a envie de parler de la fiche devant les autres. Nadia remet le papier dans sa poche sans avoir entendu sa réponse.\n\nThéo le rejoint quand le groupe se disperse. Cyril pourrait parler seulement de la photo. Il lui dit qu’il a hésité à venir près du panneau parce qu’il craignait des questions sur sa main. Théo lui demande s’il veut le retrouver ailleurs pour en parler. Cyril montre le banc près de la sortie. Il voudrait aussi dire à Nadia qu’il a encore un moment pour sa question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le coût de cacher une lésion",
+          "text": "Le trouble d’excoriation compulsive peut s’accompagner de honte ou de la crainte que les lésions soient remarquées. La personne peut organiser sa place dans un groupe en fonction des questions qu’elle redoute. Cyril s’écarte pendant la photo et manque le moment où Nadia voulait lui parler. Il décide ensuite avec qui il est prêt à reprendre ce qui s’est passé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte d’un regard peut-elle changer une rencontre ?",
+          "points": [
+            {
+              "heading": "Une place choisie pour passer inaperçu",
+              "text": "La personne peut tenir à un événement et chercher une place où elle pense qu’on lui posera moins de questions.",
+              "examples": [
+                "Cyril reste près de l’abri alors qu’il avait prévu de rejoindre le groupe devant le panneau.",
+                "Pendant un repas, une personne change de place pour éviter une conversation sur des marques visibles qu’elle préfère garder privées."
+              ]
+            },
+            {
+              "heading": "Une autre activité peut servir de détour",
+              "text": "Prendre un rôle à côté du groupe peut sembler plus facile que d’y rester quand on redoute les regards.",
+              "examples": [
+                "Cyril propose de faire la photo alors qu’il avait envie d’y figurer.",
+                "Une personne qui voulait échanger avec des amis s’occupe du rangement au lieu de les rejoindre pour leur photo."
+              ]
+            },
+            {
+              "heading": "Une question importante reste sans réponse",
+              "text": "Quand l’effort pour se cacher prend de la place, une conversation que l’on attendait peut rester en suspens.",
+              "examples": [
+                "Cyril manque le moment où Nadia sort sa fiche parce qu’il cherche à s’écarter.",
+                "Une personne quitte un café avant de pouvoir remercier une collègue qui l’avait aidée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder la main sur ce que l’on dit de ses lésions",
+          "points": [
+            {
+              "heading": "Choisir comment participer",
+              "objective": "Faire une place à l’activité qui vous intéresse dans les conditions qui vous conviennent.",
+              "exercise": [
+                "Nommez la partie du moment à laquelle vous souhaitez prendre part.",
+                "Si vous le voulez, demandez un autre moment ou une autre place.",
+                "Revenez vers la personne avec qui vous vouliez parler."
+              ],
+              "benefit": "La rencontre peut continuer dans un cadre que vous avez choisi."
+            },
+            {
+              "heading": "Préparer une réponse courte",
+              "objective": "Avoir des mots disponibles si quelqu’un pose une question personnelle.",
+              "exercise": [
+                "Décidez si vous voulez répondre.",
+                "Choisissez une phrase que vous pouvez dire facilement, comme « Je préfère garder ça pour moi. »",
+                "Indiquez, si vous en avez envie, le sujet que vous voulez reprendre."
+              ],
+              "benefit": "Vous pouvez poser une limite sans devoir expliquer votre situation à tout le groupe."
+            },
+            {
+              "heading": "Distinguer à qui parler de quoi",
+              "objective": "Garder une voie d’accès aux soins quand on hésite à évoquer sa peau.",
+              "exercise": [
+                "Choisissez ce que vous pouvez dire à une personne de confiance.",
+                "Identifiez la question de santé que vous préférez poser en privé.",
+                "Adressez cette question à votre soignant, surtout si la plaie change ou vous inquiète."
+              ],
+              "benefit": "La réserve dans le groupe peut coexister avec un accès à l’aide dont vous avez besoin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le banc près du portail",
+      "ending": "Cyril dit à Théo qu’il préfère que la conversation reste entre eux. Ils conviennent de ne rien annoncer au groupe. Nadia passe devant le banc en partant. Cyril lui dit qu’il a vu sa fiche et voudrait l’entendre. Elle lui montre une note qu’elle a ajoutée et lui dit qu’ils pourront y revenir le jour de la remise en place. Cyril reste avec Théo un peu plus longtemps et rentre avec le carnet.",
+      "conclusion": "Éviter la photo a aussi éloigné Cyril de la question de Nadia. En choisissant de reprendre l’échange, il garde sa place dans le projet et la possibilité de parler en privé. Si sa peau change, il peut décider de ce qu’il dit au groupe et demander séparément un avis médical.",
+      "mirror": [
+        "Théo peut offrir un moment à l’écart. « Tu veux rester sur le banc avec moi ou je te laisse retrouver Nadia ? » Il peut garder pour lui ce que Cyril lui confie et lui demander de quelle aide il a envie. Si la question concerne l’état de la peau, il peut l’aider à joindre le médecin sans chercher à examiner la lésion."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril dit à Théo ce qui l’a éloigné de la photo, demande la discrétion et reparle de la fiche avec Nadia.",
+        "next": "Le lendemain, une douleur accrue et un gonflement poussent Cyril à signaler un changement de la plaie à sa médecin."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "cyril-plaie-qui-change-et-avis-rapide",
+      "title": "Une plaie plus douloureuse mérite un avis rapide",
+      "description": "La douleur augmente et la main de Cyril a gonflé. Il appelle le cabinet médical dans la journée et demande à Théo de prévenir le jardin.",
+      "context": "Chez Cyril, puis au cabinet médical dans la journée",
+      "topics": [
+        "Plaie qui s’aggrave",
+        "Avis médical dans la journée",
+        "Relais à un proche"
+      ],
+      "clinical_focus": "Aggravation cutanée et avis médical rapide",
+      "clinical_intro": "Au réveil, Cyril constate que sa plaie est plus douloureuse et que la peau autour a gonflé. Une lésion liée au trouble d’excoriation compulsive peut se compliquer et demande alors une attention médicale. Cyril contacte le cabinet sans attendre la prochaine séance avec sa psychologue. Il confie à Théo le message sur son absence au jardin.",
+      "opening": "Aïcha a envoyé l’horaire auquel le livreur pourra déposer les lattes. Cyril voulait être là pour expliquer l’ordre du travail qu’il avait préparé avec elle. Au petit déjeuner, la main qu’il avait cachée la veille lui fait plus mal. La peau autour de la lésion a gonflé depuis le soir. Il pose la tasse. Hier, il se demandait surtout si on verrait sa main sur une photo. Ce matin, ce qui le préoccupe est le changement qu’il n’attendait pas.\n\nIl pense d’abord appeler Théo pour lui demander si l’on peut repousser le passage au jardin. Il appelle le cabinet de la docteure Le Guen. Quand on lui demande le motif, il dit que la plaie est plus douloureuse qu’hier et que la main a gonflé. Il parle aussi des gestes qui avaient abîmé sa peau. Il peut être reçu dans la matinée. Le rendez-vous prévu avec Mina est plus tard dans la semaine. Il note l’heure du cabinet et laisse le carnet du jardin fermé.\n\nThéo répond quand Cyril sort pour se rendre au rendez-vous. Il peut s’occuper de la réception avec Aïcha et sait où retrouver l’ordre du travail. Cyril lui demande d’annoncer qu’il a un rendez-vous médical et qu’il donnera des nouvelles de sa disponibilité après. Il demande aussi que Nadia soit prévenue si l’horaire de la remise en place change. Théo a son numéro.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la lésion évolue, le soin a sa propre priorité",
+          "text": "Les lésions causées par des gestes répétés peuvent s’aggraver. Une douleur qui augmente avec un gonflement ou une rougeur justifie de demander rapidement un avis médical. Ces changements doivent être examinés pour savoir s’il existe une complication, dont une infection. Cyril décrit ce qui a changé et obtient une consultation dans la journée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des changements de plaie peuvent-ils amener à consulter rapidement ?",
+          "points": [
+            {
+              "heading": "La douleur augmente par rapport à la veille",
+              "text": "Une évolution douloureuse mérite d’être signalée au cabinet ou au service qui conseille sur la conduite à tenir.",
+              "examples": [
+                "Cyril dit que sa main lui fait plus mal le matin et qu’il a remarqué un gonflement.",
+                "Une personne qui connaissait déjà la plaie constate que la douleur augmente et que la peau autour a rougi."
+              ]
+            },
+            {
+              "heading": "La peau autour change d’aspect",
+              "text": "Une rougeur ou un gonflement nouveau peut apporter une information importante au professionnel.",
+              "examples": [
+                "Cyril peut dire que le gonflement est apparu depuis la veille.",
+                "Une personne remarque que la zone rouge autour de sa plaie s’étend au cours de la journée et sollicite un avis."
+              ]
+            },
+            {
+              "heading": "Un nouvel écoulement ou de la fièvre demande aussi un avis",
+              "text": "L’aggravation peut s’accompagner de signes différents, que le soignant examine dans leur ensemble.",
+              "examples": [
+                "Une personne appelle le cabinet car un écoulement est apparu sur une plaie jusque-là stable.",
+                "Une personne constate de la fièvre alors que la plaie devient plus douloureuse et demande un avis sans attendre."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour passer le relais quand une plaie s’aggrave",
+          "points": [
+            {
+              "heading": "Appeler pour un avis rapide",
+              "objective": "Faire examiner la plaie dans un délai adapté à ce qui a changé.",
+              "exercise": [
+                "Contactez un médecin ou un service de soins sans tarder.",
+                "Dites ce qui a changé et depuis quand.",
+                "Suivez l’orientation donnée par le professionnel."
+              ],
+              "benefit": "L’appel peut permettre d’obtenir l’examen approprié et d’éviter un délai lié à l’hésitation."
+            },
+            {
+              "heading": "Confier la tâche qui vous retient",
+              "objective": "Pouvoir aller au rendez-vous sans devoir organiser seul le reste de la journée.",
+              "exercise": [
+                "Identifiez la personne qui peut reprendre la tâche en cours.",
+                "Dites ce qu’elle doit savoir pour agir.",
+                "Précisez quand vous pourrez donner de vos nouvelles."
+              ],
+              "benefit": "Le rendez-vous peut avoir lieu même si une activité collective était prévue."
+            },
+            {
+              "heading": "Reprendre les consignes données au cabinet",
+              "objective": "Pouvoir suivre le soin et savoir qui recontacter.",
+              "exercise": [
+                "Demandez au soignant de préciser les soins et les activités qu’il recommande dans votre situation.",
+                "Vérifiez quels changements doivent vous faire reprendre contact.",
+                "Notez la date ou les modalités du contrôle proposé."
+              ],
+              "benefit": "Vous disposez d’un point d’appui pour la suite sans décider seul de l’évolution de la plaie."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le rendez-vous du matin",
+      "ending": "La docteure Le Guen examine la main. Elle pense qu’une infection est possible et indique à Cyril les soins à suivre. Elle fixe un contrôle et lui demande d’attendre son avis avant de reprendre les tâches du jardin qui sollicitent sa main. Cyril envoie un message à Théo. La livraison peut se faire sans lui et il tiendra Aïcha au courant de sa participation après le contrôle. Il ajoute une question à garder pour ce rendez-vous. Une ancienne irritation revient ailleurs et il voudrait en parler séparément.",
+      "conclusion": "Cyril a signalé le changement et confié la livraison à Théo. L’examen donne une suite à la question de la plaie. Au contrôle, il pourra aussi parler d’une irritation qui revient et demander ce qui mérite une attention distincte.",
+      "mirror": [
+        "Théo peut demander ce qui doit être transmis au jardin. « Je récupère les lattes avec Aïcha. Tu veux que je lui dise que tu nous répondras après le contrôle ? » Il peut proposer une aide pour le trajet si Cyril le souhaite. Il laisse l’examen, les soins et les consignes à l’équipe médicale."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation",
+        "ameli-plaies-cutanees"
+      ],
+      "continuity": {
+        "choice": "Cyril fait examiner la plaie dans la journée, suit les consignes et laisse Théo reprendre la livraison.",
+        "next": "Au contrôle, Cyril mentionne une gêne cutanée distincte et prépare les questions qu’il souhaite reprendre avec Mina."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "cyril-irritation-et-geste-qui-persiste",
+      "title": "Une irritation de peau et un geste qui persiste",
+      "description": "Au contrôle de la plaie, Cyril parle d’une irritation qui revient ailleurs. Avec sa médecin, il distingue la gêne de peau et ce qui persiste après.",
+      "context": "Au cabinet de la docteure Le Guen, lors du contrôle",
+      "topics": [
+        "Irritation de peau",
+        "Évaluation médicale",
+        "Geste persistant"
+      ],
+      "clinical_focus": "Gêne dermatologique et persistance du geste",
+      "clinical_intro": "Cyril revient faire contrôler sa main. Il veut aussi parler d’une irritation qu’il avait connue auparavant et qui le gêne de nouveau. Une affection cutanée peut accompagner un trouble d’excoriation compulsive. Le comportement peut aussi persister quand la gêne de peau diminue. Le rendez-vous aide Cyril à distinguer ce qu’il veut faire examiner et ce qu’il souhaite aborder au suivi.",
+      "opening": "Théo envoie une photo des lattes sous l’abri. Aïcha a noté l’heure à laquelle la prochaine équipe pourra commencer à remettre la clôture en place. Cyril regarde la photo dans la salle d’attente et agrandit le coin où il croit reconnaître le carnet. Il voudrait que Nadia puisse le retrouver sans avoir à demander à trois personnes. Il a laissé son propre carnet chez lui. Pour ce rendez-vous, il s’est écrit deux phrases au dos de la carte du cabinet.\n\nLa docteure Le Guen contrôle la plaie de la main et lui dit que son état s’est amélioré. Cyril lui parle ensuite d’une irritation à un autre endroit, semblable à celle qu’elle avait examinée quelques mois plus tôt. Il ne sait pas si le fait qu’elle revienne explique certaines envies de toucher sa peau. Il se souvient aussi de soirs où l’irritation avait disparu et où les gestes revenaient malgré tout. Il lui dit ces deux choses en gardant la carte sur ses genoux.\n\nLa docteure examine l’irritation séparément. Elle pose des questions sur sa durée et sur ce que Cyril remarque en dehors des moments où il a envie d’agir. Il lui parle du vestiaire et de la matinée où il a tardé à retrouver Théo. Elle lui indique les questions de peau qu’ils reprendront au cabinet. Il demande aussi ce qu’il peut proposer à Aïcha pour la prochaine matinée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une gêne de peau peut accompagner le trouble",
+          "text": "Une affection cutanée peut être présente en même temps qu’un trouble d’excoriation compulsive. Une gêne peut précéder certains gestes, qui peuvent aussi persister après l’amélioration de l’affection. Le professionnel examine la peau et tient compte de l’histoire de la personne. Cyril lui donne des exemples où les deux difficultés se sont accompagnées et d’autres où elles n’ont pas évolué ensemble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une irritation et le comportement peuvent-ils évoluer différemment ?",
+          "points": [
+            {
+              "heading": "Une gêne cutanée revient de son côté",
+              "text": "La personne peut avoir une question sur sa peau qui mérite une évaluation propre.",
+              "examples": [
+                "Cyril évoque une irritation à un endroit différent de la plaie contrôlée.",
+                "Une personne suivie pour des gestes répétés signale une démangeaison apparue récemment dans une autre zone."
+              ]
+            },
+            {
+              "heading": "La gêne peut attirer l’attention à certains moments",
+              "text": "L’irritation peut compter dans la situation sans expliquer chaque retour de l’envie.",
+              "examples": [
+                "Cyril se rappelle avoir remarqué une sensation de peau avant l’envie en partant au jardin.",
+                "Une personne remarque que son attention revient à une irritation au moment où elle se prépare à sortir."
+              ]
+            },
+            {
+              "heading": "Le geste peut revenir après une amélioration",
+              "text": "Le récit des moments où la peau gênait moins peut aider à comprendre ce qui persiste.",
+              "examples": [
+                "Cyril se souvient que des gestes sont revenus le soir après la disparition de l’irritation.",
+                "Une personne rapporte un retour du comportement devant une émission alors qu’elle n’éprouvait plus la gêne qu’elle avait signalée le mois précédent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour situer une gêne de peau et les moments où le geste persiste",
+          "points": [
+            {
+              "heading": "Décrire les deux histoires",
+              "objective": "Permettre au médecin d’examiner la gêne cutanée dans son contexte.",
+              "exercise": [
+                "Dites quand vous avez remarqué l’irritation et si elle a changé.",
+                "Rapportez un moment où le geste a suivi la gêne.",
+                "Ajoutez, si vous vous en souvenez, un moment où le geste est revenu alors que la gêne avait diminué."
+              ],
+              "benefit": "Le médecin peut considérer plusieurs explications sans devoir les déduire d’un seul épisode."
+            },
+            {
+              "heading": "Demander à qui adresser chaque question",
+              "objective": "Donner une suite distincte aux questions de peau et au comportement.",
+              "exercise": [
+                "Demandez quels changements de peau doivent être revus au cabinet.",
+                "Choisissez ce que vous voulez expliquer au professionnel qui suit le trouble.",
+                "Vérifiez s’il serait utile que les soignants échangent et comment le faire avec votre accord."
+              ],
+              "benefit": "Chaque professionnel peut reprendre la partie qu’il peut examiner avec vous."
+            },
+            {
+              "heading": "Vérifier les tâches possibles pendant le suivi de la plaie",
+              "objective": "Organiser une activité en tenant compte de la situation médicale.",
+              "exercise": [
+                "Décrivez au médecin les tâches prévues.",
+                "Demandez lesquelles vous pouvez reprendre et dans quelles conditions.",
+                "Convenez du moment où vous pourrez revoir ces indications."
+              ],
+              "benefit": "Vous pouvez préciser votre rôle en fonction d’un avis adapté à votre situation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux questions sur la carte",
+      "ending": "La médecin lui donne une suite pour l’irritation et poursuit le suivi de la main. Pour la prochaine matinée du jardin, Cyril peut prévoir de venir parler avec le groupe. Il transmet à Aïcha qu’il laisse encore les tâches qui sollicitent sa main aux autres bénévoles, comme la médecin le lui recommande. Sur sa carte, il garde une question pour Mina. Il voudrait comprendre pourquoi les gestes reprennent surtout à la fin de certaines journées, même quand sa peau ne le gênait pas au départ.",
+      "conclusion": "Le contrôle a permis de reparler de la plaie et d’examiner une autre gêne cutanée. Cyril a aussi des exemples de soirs où les gestes ont persisté alors que l’irritation avait diminué. Il peut partir de ces moments pour discuter de ses fins de journée avec Mina.",
+      "mirror": [
+        "Théo peut demander si Cyril veut lui transmettre quelque chose à propos du jardin. « Est-ce que tu veux que je prévienne Aïcha de la part que tu peux prendre samedi ? » Cyril peut lui répondre sur l’organisation. S’il souhaite évoquer l’irritation, Théo peut écouter et laisser les questions d’examen et de soin à la médecin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation",
+        "ameli-plaies-cutanees"
+      ],
+      "continuity": {
+        "choice": "Cyril fait examiner l’irritation distincte, confirme sa présence au jardin dans les limites convenues avec la médecin et garde une question pour Mina.",
+        "next": "Avec Mina, il reprend les fins de journée où la fatigue coïncide avec le retour du geste et discute d’un autre moment de pause."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "cyril-fin-de-journee-et-fatigue",
+      "title": "Quand les gestes reviennent les soirs de fatigue",
+      "description": "Cyril raconte à sa psychologue ce qui revient les soirs où il est épuisé. Ils choisissent un moment de pause qu’il pense pouvoir essayer.",
+      "context": "Au rendez-vous avec Mina, puis après une journée à l’atelier",
+      "topics": [
+        "Fatigue en fin de journée",
+        "Circonstances du geste",
+        "Pause discutée en suivi"
+      ],
+      "clinical_focus": "Contexte de fatigue et retour des gestes",
+      "clinical_intro": "Cyril reconnaît des fins de journée où les gestes reviennent alors qu’il est déjà fatigué et que la préparation du retour lui demande de l’effort. Il apporte un exemple à sa psychologue. Dans le trouble d’excoriation compulsive, les circonstances du comportement peuvent varier. Avec Mina, il cherche un aménagement qui tienne compte de ses horaires et de ce qu’il remarque chez lui.",
+      "opening": "Mina demande à Cyril ce qu’il voudrait reprendre depuis le dernier rendez-vous. Il apporte la carte du cabinet et une copie de la fiche qu’il a faite pour Nadia. Il parle des deux soirs où il l’a remise au lendemain. Les deux fois, il venait de journées chargées et s’était promis de faire plusieurs choses en rentrant. Il lui raconte aussi le vestiaire et le message qu’il a dû écouter une deuxième fois. En ce moment, il s’occupe surtout des commandes à l’atelier pour suivre l’avis reçu sur sa main. Au jardin, il a revu l’ordre du travail avec Aïcha avant de laisser l’équipe remettre la clôture en place. Il a surtout envie de comprendre ce qui se passe quand il est trop fatigué pour choisir par quoi commencer.\n\nMina lui demande comment se déroule la fin du travail. Cyril pense au banc devant l’atelier, où il attend parfois un collègue avant de rentrer. Il n’a pas besoin de parler ou de répondre à quelqu’un pendant qu’il y est. Les jours où il reste dans le vestiaire pour lire tous ses messages, il commence rarement à récupérer. Il ne veut pas transformer chaque pause en exercice à réussir. Ils discutent d’une option qu’il puisse essayer une fois le travail terminé et en dehors de la zone de travail.\n\nCyril voudrait s’asseoir au banc quelques minutes avant d’ouvrir les messages, s’il ne doit pas partir tout de suite. Il prévoit d’en reparler avec Mina, même s’il constate que cette pause ne change rien à l’envie. Il pense aussi demander à Théo de lui laisser jusqu’au retour pour répondre aux messages du jardin qui peuvent attendre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand les circonstances aident à choisir un appui",
+          "text": "Les circonstances des gestes peuvent varier dans le trouble d’excoriation compulsive. Un accompagnement psychologique peut aider à reconnaître les moments où ils surviennent et à discuter d’autres réponses possibles. La fatigue revient dans les exemples de Cyril. Il cherche avec Mina un changement assez simple pour ces soirs-là, sans présumer ce qu’il produira."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la fatigue peut-elle peser sur les circonstances du geste ?",
+          "points": [
+            {
+              "heading": "La fin de journée concentre plusieurs demandes",
+              "text": "Pour certaines personnes, les gestes reviennent à un moment où il reste peu de disponibilité pour passer d’une chose à l’autre.",
+              "examples": [
+                "Cyril retrouve à la fois ses messages, son sac à ranger et l’heure du retour après une journée chargée.",
+                "Une personne qui rentre épuisée doit rappeler un ami et préparer le dîner. Elle remarque que l’envie revient à ce moment de la soirée."
+              ]
+            },
+            {
+              "heading": "Une même pause peut devenir plus difficile à utiliser",
+              "text": "Selon l’activité et l’état de fatigue, un temps d’arrêt peut rester rempli de décisions.",
+              "examples": [
+                "Au vestiaire, Cyril répond aux messages au moment où il avait prévu de faire une pause.",
+                "Une personne s’assied après le travail pour souffler et passe finalement tout ce moment à rattraper les demandes du jour."
+              ]
+            },
+            {
+              "heading": "La fatigue compte différemment selon les jours",
+              "text": "Des journées semblables en apparence peuvent s’achever de façon différente.",
+              "examples": [
+                "Cyril évoque avec Mina deux soirées chargées et se souvient aussi du banc où il peut attendre sans avoir à répondre.",
+                "Une personne remarque qu’elle n’a pas vécu la même gêne deux soirs de fermeture et apporte cette différence au suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une pause adaptée aux jours où l’on est fatigué",
+          "points": [
+            {
+              "heading": "Choisir le moment avec le professionnel",
+              "objective": "Trouver un changement possible dans un cadre déjà connu.",
+              "exercise": [
+                "Décrivez la fin d’une journée où les gestes ont pris de la place.",
+                "Repérez avec le professionnel un temps d’arrêt possible en dehors du travail en cours.",
+                "Convenez du moment où vous pourrez en reparler."
+              ],
+              "benefit": "L’adaptation peut se faire à partir de vos contraintes plutôt que d’un exercice difficile à tenir."
+            },
+            {
+              "heading": "Déplacer une demande qui peut attendre",
+              "objective": "Réduire le nombre de décisions pendant la pause.",
+              "exercise": [
+                "Choisissez un échange qui n’a pas besoin de réponse immédiate.",
+                "Dites à l’autre quand vous comptez le reprendre.",
+                "Gardez le temps convenu pour ce que vous aviez prévu."
+              ],
+              "benefit": "Le proche peut organiser sa part et la pause peut rester disponible."
+            },
+            {
+              "heading": "Rapporter ce qui a été possible",
+              "objective": "Ajuster l’essai à partir de ce qui s’est passé.",
+              "exercise": [
+                "Dites si vous avez pu prendre la pause à l’endroit choisi.",
+                "Nommez ce qui a rendu ce moment accessible ou difficile.",
+                "Discutez d’un éventuel ajustement lors du suivi."
+              ],
+              "benefit": "L’essai peut apporter des informations même si l’envie reste présente."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le banc devant l’atelier",
+      "ending": "Le lendemain, une fois sorti, Cyril reste au banc quelques minutes avant de prendre son téléphone. Il voit ensuite le message de Théo et lui répond qu’il pourra parler du jardin en rentrant. Il arrive chez lui avec une seule question à traiter. Il ne sait pas si la même pause lui conviendra lors d’une journée qui se termine autrement. Il veut dire à Mina ce qui a rendu celle-ci possible.",
+      "conclusion": "Cyril a essayé une pause choisie pour une fin de journée où la fatigue compte. Il sait ce qui lui a permis de la prendre une fois. Il pourra parler avec Mina d’un autre jour où les choses se dérouleront autrement.",
+      "mirror": [
+        "Théo peut accepter de convenir d’une heure pour les messages qui peuvent attendre. « Je t’envoie la question pour le jardin. Tu me répondras quand tu seras rentré. » Si Cyril veut parler de la pause, Théo peut lui demander ce qu’il en a pensé. Il peut aussi dire à quelle heure il sera disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril essaie la pause choisie avec Mina et convient avec Théo du moment où il reprendra les messages du jardin.",
+        "next": "Après une journée qui se termine autrement, Cyril retrouve le geste malgré son intention de l’interrompre."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "cyril-geste-qui-revient-apres-un-essai",
+      "title": "Le retour du geste malgré l’intention de l’interrompre",
+      "description": "Un changement d’horaire bouscule l’essai de Cyril. Le geste revient et il hésite à en parler, avant de reprendre ce qui pourrait l’aider.",
+      "context": "Après le travail, un soir où Théo attend Cyril au jardin",
+      "topics": [
+        "Tentative d’interruption",
+        "Retour du comportement",
+        "Appui choisi"
+      ],
+      "clinical_focus": "Retour du geste malgré une intention",
+      "clinical_intro": "Cyril avait essayé la pause choisie avec sa psychologue. Un autre soir, le geste revient alors qu’il s’était dit qu’il l’interromprait. La difficulté à réduire ces gestes fait partie du trouble d’excoriation compulsive. Cyril a d’abord envie de ranger cette soirée parmi les échecs. Il en parle à Théo et retient ce qu’il voudrait reprendre au suivi.",
+      "opening": "Cyril avait prévu de retrouver Théo au jardin après sa journée. Aïcha leur a demandé de regarder quels créneaux restent libres avant de proposer un premier essai à Nadia. Cyril sort de l’atelier plus tard que prévu. Il envoie un message à Théo et s’assied à l’arrêt où il doit prendre son bus. Il pense à la pause qu’il avait pu prendre au banc la veille. Il est déjà assez tard pour qu’il arrive juste avant la fermeture. Il s’était promis de se donner un peu de temps s’il retrouvait l’envie.\n\nÀ l’arrêt, il remarque que le geste est revenu. Il s’interrompt quand le bus arrive, mais l’envie occupe encore une partie du trajet. Il trouve plus difficile d’écrire à Théo qu’il voudrait le voir. Ce matin, il pensait qu’après la veille il saurait refaire la même chose. Il imagine lui dire simplement qu’il a raté son bus. Le message de Théo est encore ouvert. Son ami lui demande s’il a envie de passer au jardin ou s’ils reprennent le carnet demain.\n\nCyril lui répond qu’il a envie de le voir un moment. En arrivant, il lui dit qu’il a eu plus de mal à interrompre le geste que la veille. Théo lui propose le banc près du portail. Cyril demande s’ils peuvent s’y asseoir d’abord et regarder le carnet seulement s’il en a encore envie ensuite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une intention ne suffit pas à interrompre le geste",
+          "text": "Une personne qui vit avec un trouble d’excoriation compulsive peut avoir du mal à réduire ou interrompre le comportement malgré des tentatives répétées. Un essai qui aide un jour peut être difficile à reprendre dans d’autres circonstances. Chez Cyril, le retour du geste lui fait hésiter à parler de sa soirée. Il cherche ce que l’essai et cette difficulté peuvent lui apprendre pour le prochain rendez-vous."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté à interrompre un geste peut-elle revenir après un essai ?",
+          "points": [
+            {
+              "heading": "L’intention est là avant le retour du geste",
+              "text": "Une personne peut souhaiter interrompre le comportement et se trouver de nouveau prise dans la situation.",
+              "examples": [
+                "Cyril s’était dit qu’il prendrait du temps si l’envie revenait. À l’arrêt, il s’aperçoit que le geste a repris.",
+                "Une personne avait prévu d’en reparler si l’envie revenait après le dîner, puis constate qu’elle a encore eu du mal à s’interrompre."
+              ]
+            },
+            {
+              "heading": "Une interruption peut laisser l’envie présente",
+              "text": "Le geste peut s’arrêter à un moment alors que la personne y pense encore.",
+              "examples": [
+                "Cyril prend le bus et constate que l’envie reste présente sur le trajet.",
+                "Une personne reprend une conversation après avoir interrompu le geste et trouve encore difficile de rester disponible."
+              ]
+            },
+            {
+              "heading": "La déception peut faire hésiter à demander de l’aide",
+              "text": "Le retour du comportement peut donner envie de taire l’essai qui avait aidé ou le moment où il a été difficile.",
+              "examples": [
+                "Cyril pense d’abord dire à Théo qu’il a seulement raté son bus.",
+                "Une personne hésite à raconter au suivi qu’une adaptation utile lundi n’a pas été possible le lendemain."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre un appui quand le geste revient malgré un essai",
+          "points": [
+            {
+              "heading": "Raconter les circonstances plutôt que juger l’essai",
+              "objective": "Donner au professionnel deux situations qu’il peut examiner avec vous.",
+              "exercise": [
+                "Retenez un jour où l’appui était accessible.",
+                "Ajoutez ce qui a changé le jour où le geste est revenu.",
+                "Demandez ce qui pourrait être adapté à partir de cette différence."
+              ],
+              "benefit": "Le suivi peut reprendre un obstacle concret au lieu de résumer l’essai à une réussite ou un échec."
+            },
+            {
+              "heading": "Demander une présence précise",
+              "objective": "Pouvoir retrouver quelqu’un après un moment pénible.",
+              "exercise": [
+                "Choisissez si vous voulez voir la personne ou parler plus tard.",
+                "Dites quelle aide vous conviendrait sur le moment.",
+                "Laissez-lui la possibilité de préciser sa disponibilité."
+              ],
+              "benefit": "Le proche peut apporter une présence choisie sans devoir interrompre le geste à votre place."
+            },
+            {
+              "heading": "Garder une suite accessible",
+              "objective": "Retrouver une part de ce que vous vouliez faire dans la soirée.",
+              "exercise": [
+                "Choisissez la question qui peut encore être traitée.",
+                "Décidez avec l’autre ce qui peut attendre.",
+                "Dites à quel moment vous reprendrez le reste."
+              ],
+              "benefit": "Une partie du projet peut rester possible même si l’effort a été plus grand que prévu."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carnet peut attendre sur le banc",
+      "ending": "Théo et Cyril s’assoient. Quand Aïcha passe près du portail, Cyril lui dit qu’il confirmera l’heure avec Nadia le lendemain. Aïcha lui apprend que l’équipe a remis la clôture en place et propose de faire le tour avec eux avant leur essai. Cyril dit à Théo qu’il veut encore parler à Mina du soir où le geste est revenu. Il sort son propre carnet avant de partir et note ce qu’il doit demander à Nadia le lendemain.",
+      "conclusion": "L’envie est restée présente malgré une première pause qui lui convenait. Cyril peut parler de ce retour avec sa psychologue et décider avec Aïcha de la part qu’il prendra au jardin. Théo a pu l’écouter sans lui demander de prouver ce qu’il avait essayé.",
+      "mirror": [
+        "Théo peut répondre à la demande de Cyril. « Je peux rester avec toi au banc. On ouvrira le carnet après si tu veux. » Il peut entendre sa déception et l’aider à décider de ce qui peut attendre. S’ils reparlent d’une pause, il laisse Cyril choisir s’il veut transmettre cet exemple à sa psychologue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Cyril parle du retour du geste à Théo et laisse l’organisation de l’essai au lendemain. Aïcha confirme que la clôture a été remise en place.",
+        "next": "Avec Aïcha et Nadia, il choisit comment transmettre les deux gestes d’entretien en tenant compte de la gêne qui persiste à la main."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "cyril-gene-de-la-main-et-role-au-jardin",
+      "title": "Une main encore sensible change les tâches du jour",
+      "description": "La main de Cyril reste sensible. Il reprend avec Nadia la façon de lui transmettre les deux gestes d’entretien en respectant l’avis médical.",
+      "context": "Au jardin, avec Nadia et Aïcha après la remise en place de la clôture",
+      "topics": [
+        "Gêne dans les activités",
+        "Adaptation d’un rôle",
+        "Information choisie"
+      ],
+      "clinical_focus": "Retentissement physique des lésions sur les tâches",
+      "clinical_intro": "La clôture est en place et Cyril voudrait préparer le premier essai avec Nadia. Sa main reste sensible et la médecin lui a demandé de laisser certaines tâches aux autres. Les lésions liées au trouble d’excoriation compulsive peuvent gêner des gestes ordinaires. Cyril choisit ce qu’il peut encore transmettre et ce qu’il souhaite expliquer au jardin.",
+      "opening": "Nadia arrive avec la fiche pliée dans sa poche. La clôture a été remise en place et Aïcha leur montre le passage que les bénévoles ont choisi de garder libre. Cyril se souvient des feuilles que Nadia lui avait montrées avant les travaux. Le tour commence au panneau et peut se terminer au portillon. Il avait d’abord imaginé faire la démonstration pendant que Nadia regarderait. Ce matin, sa main lui a rappelé sa présence quand il a rangé ses clés. Il se souvient de ce que la docteure lui a dit de laisser à d’autres jusqu’au prochain point.\n\nNadia lui demande s’il veut qu’elle apporte le matériel dont ils auront besoin. Il peut lui dire ce qu’il comptait faire. Il cherche une phrase qui lui permette de parler de sa main sans expliquer comment la lésion est apparue. Il dit qu’elle le gêne encore et qu’il ne prendra pas les tâches qui la sollicitent. Il propose de faire le premier tour à pied. Nadia dit qu’elle voulait de toute façon essayer elle-même.\n\nAïcha demande si l’un d’eux veut noter l’heure sur le panneau. Cyril propose que Nadia l’écrive et garde pour lui la question de l’ordre. Il aimerait lui montrer où elle peut retrouver l’ancienne page du carnet. Pour les feuilles, ils peuvent choisir ensemble quand le passage sera libre et demander un coup de main si le jardin doit fermer avant.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La peau peut gêner une activité de façon concrète",
+          "text": "Une lésion liée au trouble d’excoriation compulsive peut avoir un effet physique sur des tâches ordinaires. L’adaptation dépend de la gêne et de l’avis donné par le soignant qui a examiné la peau. Cyril ne cherche pas à éprouver ce que sa main supporte. Il précise à Nadia les tâches qu’il laisse et le rôle qu’il souhaite garder."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la gêne d’une lésion peut-elle changer une tâche prévue ?",
+          "points": [
+            {
+              "heading": "Un effort ordinaire rappelle la lésion",
+              "text": "Une tâche habituelle peut devenir inconfortable pendant les soins ou la cicatrisation.",
+              "examples": [
+                "Cyril a senti sa main en rangeant ses clés avant de rejoindre Nadia.",
+                "Une personne évoque au rendez-vous que prendre les poignées d’un panier lui demande plus d’effort depuis que sa peau est lésée."
+              ]
+            },
+            {
+              "heading": "Une partie de la tâche peut être confiée à quelqu’un",
+              "text": "La gêne peut rendre nécessaire une répartition différente, même si la personne connaît bien le travail.",
+              "examples": [
+                "Cyril garde le tour avec Nadia et laisse les tâches manuelles qui sollicitent sa main aux autres.",
+                "Après un avis médical, une personne renonce à porter les cartons mais retrouve avec une collègue l’ordre de la livraison."
+              ]
+            },
+            {
+              "heading": "La gêne change parfois ce qu’il faut dire aux autres",
+              "text": "Le groupe peut avoir besoin de connaître une limite pratique sans connaître les circonstances de la lésion.",
+              "examples": [
+                "Cyril explique à Nadia ce qu’il peut faire et choisit de garder l’origine de la plaie pour lui.",
+                "Une personne dit à un collègue quelle partie du rangement elle laisse pour le moment et propose de faire l’inventaire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour adapter une tâche quand la peau reste gênante",
+          "points": [
+            {
+              "heading": "Partir de l’avis médical reçu",
+              "objective": "Faire un choix compatible avec la situation de la peau.",
+              "exercise": [
+                "Reprenez les indications qui vous ont été données.",
+                "Repérez la partie du projet qui entre dans ce cadre.",
+                "Demandez un nouvel avis si la gêne évolue ou si une tâche reste difficile à situer."
+              ],
+              "benefit": "L’équipe peut préparer le travail à partir de limites que vous n’avez pas à déterminer seul."
+            },
+            {
+              "heading": "Partager les rôles à partir d’une tâche réelle",
+              "objective": "Garder une contribution que vous pouvez tenir.",
+              "exercise": [
+                "Nommez ce qui doit être fait et ce qui peut attendre.",
+                "Demandez à la personne ce qu’elle souhaite prendre.",
+                "Choisissez le rôle que vous pouvez assurer dans les conditions prévues."
+              ],
+              "benefit": "Chacun peut savoir ce qu’il fera sans que la personne gênée doive prouver ce qu’elle supporte."
+            },
+            {
+              "heading": "Dire seulement ce qui aide à s’organiser",
+              "objective": "Expliquer un besoin concret en gardant la maîtrise de ses informations.",
+              "exercise": [
+                "Choisissez la limite dont l’autre doit avoir connaissance.",
+                "Dites quelle part du travail vous proposez.",
+                "Précisez si cette organisation sera revue plus tard."
+              ],
+              "benefit": "Le projet peut avancer avec une information suffisante pour le groupe."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’ordre de passage sur le panneau",
+      "ending": "Nadia inscrit l’heure de leur tour et garde le carnet ouvert à la page qu’elle veut retrouver. Elle propose de commencer par repérer une latte à signaler. Ils s’occuperont des feuilles quand ils auront le passage pour eux. Cyril dit à Aïcha ce qu’il a déjà expliqué à Nadia sur son rôle. En sortant, il écrit à Théo qu’il a trouvé une manière de transmettre les deux choses sans mettre sa main à l’épreuve.",
+      "conclusion": "Cyril a rendu sa limite compréhensible et garde la part qu’il voulait prendre auprès de Nadia. L’essai est prévu près du panneau. Leur tour pourra commencer quand Nadia arrivera.",
+      "mirror": [
+        "Nadia peut demander à Cyril quelle part il veut prendre. « Tu veux m’expliquer où regarder, et je noterai ce que je trouve ? » Elle peut préciser ce qu’elle souhaite essayer et demander à Aïcha un coup de main pour le reste. Cyril n’a pas à expliquer la cause de la lésion pour que l’équipe prenne sa limite au sérieux."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation",
+        "ameli-plaies-cutanees"
+      ],
+      "continuity": {
+        "choice": "Cyril garde l’accompagnement verbal, transmet la limite qui change l’organisation et convient de commencer par le repérage d’une latte.",
+        "next": "Le jour de l’essai, un retard de Nadia crée une attente sans activité près du panneau."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "cyril-attente-qui-fait-revenir-lenvie",
+      "title": "L’envie qui revient pendant une attente",
+      "description": "Nadia est en retard pour le premier essai. Pendant qu’il attend sans tâche prévue, Cyril reconnaît l’envie et choisit ce qu’il veut faire.",
+      "context": "Au jardin, avant le premier essai avec Nadia",
+      "topics": [
+        "Ennui et attente",
+        "Envie qui revient",
+        "Choix pendant un temps libre"
+      ],
+      "clinical_focus": "Envie dans une attente sans occupation",
+      "clinical_intro": "Le bus de Nadia a du retard. Cyril se retrouve à attendre près du panneau sans avoir rien prévu pour ce moment. Dans le trouble d’excoriation compulsive, l’ennui peut précéder l’envie de toucher la peau. Chez Cyril, l’attente se prolonge et l’envie prend de la place. Il décide avec Théo comment passer ce temps avant de retrouver Nadia.",
+      "opening": "Cyril arrive près du panneau un peu avant l’heure. Il a pensé à une question pour Nadia. Il voudrait qu’elle lui dise comment elle repérerait une latte à signaler un jour où personne ne peut faire le tour avec elle. Il retrouve Théo, qui vient de raccompagner un voisin au portail. Nadia écrit qu’elle attend le prochain bus. Elle ne sait pas encore quand elle sera là. Le carnet est dans l’abri et Cyril n’a pas prévu d’autre chose pour ce quart d’heure.\n\nIl regarde passer deux personnes qui vont vers les parcelles. Il relit le message de Nadia, puis pose son téléphone. Il s’ennuie et commence à se demander à quel moment l’envie a pris autant de place. Il ne s’était pas senti sous pression en arrivant. Il avait même prévu de garder la matinée pour le jardin. Il se souvient qu’il voudrait raconter à Mina ce qui se passe aussi quand il n’y a rien à régler tout de suite.\n\nThéo lui demande s’il veut retourner au banc ou rester près du panneau. Cyril pense à l’ancien plan du jardin qu’il a aperçu dans l’abri. Il aimerait savoir si le chemin a toujours tourné à cet endroit. Il lui propose de regarder le plan ensemble en attendant. Quand Nadia en saura davantage, il lui demandera si elle peut encore faire le tour ou si elle préfère revenir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’ennui peut précéder certains moments d’envie",
+          "text": "Dans le trouble d’excoriation compulsive, l’envie peut survenir dans un moment sans occupation, y compris quand la personne ne se sent pas particulièrement tendue. Chez Cyril, c’est l’intervalle imprévu avant le tour qui laisse plus de place à l’envie. Il choisit une façon de passer l’attente et reste libre de revoir le programme."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’envie peut-elle prendre de la place dans un temps d’attente ?",
+          "points": [
+            {
+              "heading": "Un intervalle s’ouvre entre deux activités",
+              "text": "L’attente peut laisser plus de place à l’envie lorsque rien n’était prévu entre deux moments de la journée.",
+              "examples": [
+                "Cyril a préparé le tour avec Nadia, mais pas les minutes d’attente près du panneau.",
+                "Une personne arrive en avance pour retrouver un ami et remarque l’envie pendant qu’elle attend près de la gare."
+              ]
+            },
+            {
+              "heading": "L’envie peut survenir sans pression particulière",
+              "text": "On peut remarquer le trouble dans un moment tranquille, même si on l’associe aussi à d’autres circonstances.",
+              "examples": [
+                "Cyril a choisi de venir au jardin et remarque l’envie alors qu’aucune tâche ne presse.",
+                "Une personne retrouve l’envie un dimanche sans rendez-vous pendant qu’elle attend qu’une salle ouvre."
+              ]
+            },
+            {
+              "heading": "L’attente peut prendre toute l’attention",
+              "text": "L’envie peut compliquer le choix de ce que l’on veut faire des minutes disponibles.",
+              "examples": [
+                "Cyril relit le même message de Nadia et tarde à choisir s’il reste près du panneau.",
+                "Une personne qui attend le début d’une rencontre garde son téléphone ouvert sans parvenir à décider de la suite."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir ce que l’on fait d’une attente imprévue",
+          "points": [
+            {
+              "heading": "Donner un prochain point à l’attente",
+              "objective": "Savoir quand il sera possible de décider de la suite.",
+              "exercise": [
+                "Demandez à l’autre quand il pense avoir une information.",
+                "Choisissez un moment où vous regarderez ce qu’il en est.",
+                "Décidez alors si vous souhaitez maintenir ou déplacer le rendez-vous."
+              ],
+              "benefit": "L’attente peut avoir une limite qui convient aux personnes concernées."
+            },
+            {
+              "heading": "Choisir une occupation facultative",
+              "objective": "Garder la possibilité de faire quelque chose qui a un intérêt en soi.",
+              "exercise": [
+                "Pensez à une chose simple que vous aimeriez faire à cet endroit.",
+                "Demandez si quelqu’un souhaite la partager.",
+                "Choisissez ensuite si vous voulez continuer ou attendre autrement."
+              ],
+              "benefit": "Ce choix peut rendre l’intervalle plus vivable sans vous obliger à rester constamment occupé."
+            },
+            {
+              "heading": "Apporter un exemple d’attente au suivi",
+              "objective": "Examiner l’envie qui survient dans un cadre tranquille.",
+              "exercise": [
+                "Retenez un moment qui s’est déjà produit.",
+                "Dites ce qui était prévu et ce qui a laissé du temps libre.",
+                "Demandez quels appuis pourraient convenir aux attentes de ce type."
+              ],
+              "benefit": "Le professionnel peut discuter de situations qui passent inaperçues quand on ne parle que des journées sous pression."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le premier repère de Nadia",
+      "ending": "Théo retrouve le plan et ils parlent du chemin d’autrefois. Quand Nadia arrive, Cyril lui montre où le carnet est gardé et lui demande par quoi elle veut commencer. Elle repère une latte abîmée du côté de la rue et note l’emplacement avec ses mots. Elle montre sa note à Aïcha, qui pourra organiser la suite. Cyril et Nadia décident de revenir pour le portillon un jour où ils auront le passage libre.",
+      "conclusion": "L’attente a donné à Cyril un exemple différent des soirs pressés. Il a pu regarder le plan avec Théo et retrouver Nadia pour le premier essai. Nadia sait où laisser son observation et veut encore s’occuper des feuilles près du portillon.",
+      "mirror": [
+        "Théo peut demander à Cyril ce qu’il souhaite pendant l’attente. « Tu veux regarder le plan avec moi ou rester ici jusqu’au prochain message ? » Il peut lui dire combien de temps il est libre. Cyril peut choisir sa réponse même si l’envie est encore présente et garder pour son suivi ce qu’il aimerait examiner."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Nadia signale une latte abîmée dans le carnet. Cyril choisit une activité pendant l’attente et fixe avec elle un autre moment pour le portillon.",
+        "next": "Cyril reprend plusieurs semaines avec Mina avant de retrouver Nadia pour le second geste."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "cyril-progres-et-retours-du-geste",
+      "title": "Des semaines inégales avec le trouble d’excoriation compulsive",
+      "description": "Cyril parle avec Mina de semaines inégales, puis retrouve Nadia au portillon. Le second geste qu’elle voulait essayer trouve sa place.",
+      "context": "En consultation, puis au jardin partagé, plusieurs semaines après le début des travaux",
+      "topics": [
+        "Évolution des gestes",
+        "Bilan de plusieurs semaines",
+        "Continuité du suivi"
+      ],
+      "clinical_focus": "Fluctuation du trouble sur la durée",
+      "clinical_intro": "Cyril a trouvé une pause qui lui convient certains jours et a encore des soirées où le geste reprend de la place. Le trouble d’excoriation compulsive peut évoluer de façon inégale dans la durée. Avec Mina, il reprend les changements qu’il a remarqués. Au jardin, il retrouve Nadia pour le second geste d’entretien qu’elle voulait apprendre.",
+      "opening": "Cyril pose son carnet sur ses genoux. La page du jardin porte encore les deux repères qu’il avait écrits le premier samedi. Il dit à Mina que Nadia a essayé le premier geste et qu’ils ont prévu de s’occuper du portillon ensemble. Pour parler des dernières semaines, il se souvient aussi du soir à l’arrêt de bus. Il avait eu du mal à interrompre le geste. Depuis, il y a eu des soirs où il a pu reprendre une conversation comme prévu et d’autres où les gestes sont revenus et où il a décalé l’appel. Il ne voit pas une seule direction dans tout cela.\n\nMina lui demande quel changement lui importe le plus. Cyril aimerait garder la possibilité de répondre à Théo quand il a choisi de le faire. Il voudrait aussi se rappeler qu’il peut signaler assez tôt un changement de peau, comme il l’a fait au cabinet. Ils reprennent les pauses qu’il a pu prendre et conviennent de continuer le suivi à partir de ses fins de journée. La peau fait l’objet d’un point séparé avec la docteure Le Guen.\n\nAu jardin, Nadia attend près du portillon. Il n’a pas plu depuis la veille et le passage est libre. Elle lui montre où elle a retrouvé sa première note. Cyril est content de la voir ouvrir le carnet sans chercher son prénom dans les messages du groupe. Il lui demande ce qu’elle veut pouvoir faire seule la prochaine fois.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une évolution peut comporter des périodes différentes",
+          "text": "Le trouble d’excoriation compulsive peut durer et varier au fil des semaines ou des mois. Les gestes, l’effort et les effets sur la vie quotidienne peuvent changer à des rythmes différents. Cyril parle des pauses qui lui conviennent, des soirs où il peine encore et du projet auquel il continue de participer. Ces éléments permettent de préciser ce qu’il souhaite poursuivre au suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le trouble peut-il évoluer de façon inégale sur plusieurs semaines ?",
+          "points": [
+            {
+              "heading": "Des moments plus faciles et plus coûteux se succèdent",
+              "text": "Une période où le geste prend moins de place peut être suivie d’un moment plus difficile.",
+              "examples": [
+                "Cyril a gardé du temps pour certaines conversations et en a repoussé d’autres au cours des dernières semaines.",
+                "Une personne remarque que plusieurs soirées se sont déroulées comme prévu, puis parle au suivi de celles où la gêne est revenue."
+              ]
+            },
+            {
+              "heading": "Un progrès peut concerner la façon de demander de l’aide",
+              "text": "Le rapport au trouble peut changer même si le geste reste présent à certains moments.",
+              "examples": [
+                "Cyril sait qu’il peut appeler le cabinet quand sa peau change et qu’il veut continuer à parler des gestes avec Mina.",
+                "Une personne demande plus tôt de l’aide quand les gestes gênent sa journée, alors qu’elle a encore des moments où elle peine à les interrompre."
+              ]
+            },
+            {
+              "heading": "Les projets avancent à leur propre rythme",
+              "text": "Le bilan d’un projet peut coexister avec un suivi qui se poursuit sur des difficultés ordinaires.",
+              "examples": [
+                "Nadia peut faire sa prochaine tournée alors que Cyril continue à parler de ses fins de journée en consultation.",
+                "Une personne a repris un loisir qu’elle apprécie et garde un rendez-vous pour des gestes qui gênent encore sa vie à la maison."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire un bilan quand la gêne varie encore",
+          "points": [
+            {
+              "heading": "Comparer des moments qui comptent",
+              "objective": "Donner au professionnel des exemples de ce qui a changé et de ce qui reste difficile.",
+              "exercise": [
+                "Retenez une situation où vous avez pu faire ce qui vous importait.",
+                "Ajoutez un moment plus difficile dont vous vous souvenez.",
+                "Dites quel effet vous aimeriez examiner avec le professionnel."
+              ],
+              "benefit": "Le bilan peut se fonder sur ce que vous souhaitez retrouver dans votre vie."
+            },
+            {
+              "heading": "Choisir ce que l’on veut poursuivre au suivi",
+              "objective": "Garder un objectif assez précis pour être repris au rendez-vous suivant.",
+              "exercise": [
+                "Nommez l’appui qui mérite selon vous d’être poursuivi ou revu.",
+                "Demandez au professionnel comment vous pouvez en parler ensemble.",
+                "Fixez le prochain moment où vous en ferez le point."
+              ],
+              "benefit": "Le suivi peut évoluer avec les besoins que vous observez."
+            },
+            {
+              "heading": "Passer la main dans un projet partagé",
+              "objective": "Reconnaître la part que l’autre souhaite prendre après un essai commun.",
+              "exercise": [
+                "Demandez ce qu’il aimerait refaire à sa façon.",
+                "Convenez d’un moyen de retrouver l’information s’il en a besoin.",
+                "Choisissez si vous voulez garder une tâche commune pour la suite."
+              ],
+              "benefit": "Chacun peut continuer à contribuer selon ce qui l’intéresse."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La prochaine tournée de Nadia",
+      "ending": "Nadia dégage les feuilles près du portillon pendant que Cyril reste avec elle. Elle regarde le passage dégagé, puis décide qu’elle commencera sa prochaine tournée ici. Dans l’abri, elle ajoute la date sur la page du carnet et montre à Cyril la place laissée pour une autre observation. Il lui demande s’il peut lui parler un jour du petit panneau qu’il aimerait faire près des parcelles. Nadia propose d’en discuter avec Aïcha. Cyril ferme le carnet et rend les clés à Théo.",
+      "conclusion": "Nadia a essayé les deux gestes et sait comment reprendre sa tournée. Cyril garde ses rendez-vous et une idée de panneau à proposer au jardin. Les semaines ont changé certaines choses pour lui. Il sait lesquelles il veut regarder de plus près avec sa psychologue et qui appeler au sujet de sa peau.",
+      "mirror": [
+        "Théo peut prendre le temps de voir ce qui a changé pour Cyril sans tirer de conclusion à partir d’une bonne journée. « Tu veux me raconter le tour avec Nadia ? J’ai un moment avant de partir. » Il peut écouter aussi ce qui reste difficile et laisser à Cyril le choix du moment. Leur conversation peut se poursuivre autour du panneau dont Cyril a envie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhs-excoriation"
+      ],
+      "continuity": {
+        "choice": "Nadia essaie le second geste et choisit le point de départ de sa prochaine tournée. Cyril poursuit les soins et le suivi selon les rendez-vous convenus.",
+        "next": "La clôture est remise en place et les deux gestes ont été transmis. Cyril garde une idée de panneau à proposer au jardin et un objectif de suivi lié à ses fins de journée."
+      }
+    }
+  ]
+}

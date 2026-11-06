@@ -145,7 +145,7 @@
               "heading": "L’erreur peut être attribuée au mauvais élément",
               "text": "Un essai confus peut faire croire que l’activité doit être simplifiée alors que le rangement des pièces y contribue.",
               "examples": [
-                "Ilyès propose une seule route ; Irène veut garder les deux et vérifier la table d’abord.",
+                "Ilyès propose une seule route. Irène veut garder les deux et vérifier la table d’abord.",
                 "Deux enfants envisagent d’abandonner une scène avant de constater que les pages de brouillon ont été mélangées."
               ]
             },
@@ -237,7 +237,7 @@
           "points": [
             {
               "heading": "Le mouvement et la moquerie ont des effets distincts",
-              "text": "La manipulation peut attendre quelques secondes ; une remarque peut donner une autre raison de vouloir partir.",
+              "text": "La manipulation peut attendre quelques secondes. Une remarque peut donner une autre raison de vouloir partir.",
               "examples": [
                 "Irène peut reprendre son feutre quand Quentin a déjà imité ses mains.",
                 "Un élève s’arrête un instant pendant un jeu puis se retire lorsque d’autres rient de son geste."
@@ -350,7 +350,7 @@
               "text": "Un commentaire bien intentionné peut détourner l’attention de ce que la personne faisait.",
               "examples": [
                 "Irène pense aux remarques répétées de son père au lieu de regarder l’escalier.",
-                "Un adulte signale un geste pendant un dessin ; l’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place."
+                "Un adulte signale un geste pendant un dessin. L’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place."
               ]
             },
             {
@@ -484,7 +484,7 @@
               "objective": "Donner les éléments utiles pour demander un avis de santé.",
               "exercise": [
                 "Précisez ce qui s’est passé et où la douleur se situe.",
-                "Demandez immédiatement une aide médicale urgente si la situation paraît grave ; suivez les indications du professionnel.",
+                "Demandez immédiatement une aide médicale urgente si la situation paraît grave. Suivez les indications du professionnel.",
                 "Revenez avec l’équipe sur les conditions de l’activité avant de reprendre si le risque persiste."
               ],
               "benefit": "L’évaluation et la réponse médicale restent du ressort des soignants."
@@ -1030,7 +1030,7 @@
       },
       "clinical_focus": "Sécurité de l’environnement en situation",
       "clinical_intro": "Irène regarde où elle poserait sa trousse et voit que les visiteurs dépassent la file à cet endroit. Elle se souvient du heurt contre le chariot. Quand des mouvements répétés présentent un risque dans un espace encombré, il faut regarder l’usage réel du lieu. Garder l’accueil en petits groupes dans la salle lui permet de signaler un besoin de sécurité et de poursuivre le projet.",
-      "conclusion": "Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour ; la visibilité change, mais le poste d’Irène reste à l’écart du passage."
+      "conclusion": "Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour. La visibilité change, mais le poste d’Irène reste à l’écart du passage."
     },
     {
       "number": 11,

@@ -1,0 +1,1267 @@
+{
+  "character_id": "ismael",
+  "bio": "À 40 ans, Ismaël travaille comme conducteur de navette scolaire pour une société privée. Il est en arrêt et aimerait retrouver une routine où le hangar qu’il partage avec Yann garde sa place. Une amnésie dissociative, déjà évaluée, le prive de certains souvenirs importants de la période où ils ont commencé à partager l’atelier. Quand une réponse lui manque, il tient à pouvoir le dire dans ses propres mots. Il a un châssis bleu à remettre en place et une reprise à préparer avec les professionnels concernés.",
+  "profile_topics": [
+    "Amnésie dissociative",
+    "Lacunes autobiographiques",
+    "Savoirs et gestes appris",
+    "Appuis choisis au quotidien",
+    "Retentissement dans les relations et le travail"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "ismael-souvenir-manquant-premiere-cle",
+      "title": "Un souvenir important manque à l’histoire du hangar",
+      "description": "Ismaël se rappelle le hangar avant et après son installation. Le jour où il en a reçu la clé reste absent, et il renonce à raconter la scène.",
+      "context": "Le retour dans un atelier partagé après une interruption",
+      "topics": [
+        "Souvenirs autobiographiques",
+        "Lacune ancienne",
+        "Événements personnels"
+      ],
+      "clinical_focus": "Lacune autobiographique délimitée",
+      "clinical_intro": "Dans l’amnésie dissociative, certains moments importants de la vie peuvent rester hors d’atteinte alors que d’autres souvenirs sont accessibles. Ismaël revient dans le hangar qu’il partage avec Yann. Il connaît le trajet et se rappelle des travaux anciens. Lorsqu’il veut évoquer le jour où il a reçu la clé, il s’arrête au milieu de sa phrase.",
+      "opening": "Ismaël descend du bus deux arrêts avant le terminus. Il préfère entrer dans la cour par le côté des tilleuls, là où le gravier cède la place aux pavés. De l’autre côté, on arrive droit sur la gouttière qui fuit. Il la connaît depuis l’hiver où Yann lui avait prêté un seau, à l’époque où Ismaël venait encore en visite. Aujourd’hui il a sa propre clé au bout d’une cordelette noire. Il prend le temps d’essuyer ses chaussures avant de pousser la porte.\n\nYann a dégagé l’établi. Tout au fond, un châssis bleu occupe deux tréteaux. C’est le dernier cadre de la grande fenêtre à restaurer. Ismaël se rappelle avoir choisi cette peinture avec Yann bien après leur installation. Ils avaient essayé trois échantillons, puis gardé celui qui virait le moins au gris à la tombée du jour. Il prend le coin d’une couverture pour l’enlever. « Le jour où tu m’as donné la clé, j’avais… » La fin ne vient pas. Il voulait dire quelque chose d’aussi simple que l’endroit où il se tenait. Il repose la couverture, tout à fait capable de désigner la fenêtre et incapable de dire comment il avait pris sa place dans ce hangar.\n\nLa docteure Charlier et les professionnels qui l’ont évalué ont nommé son amnésie dissociative avant ce samedi. Ismaël a déjà parlé avec eux des lacunes de cette période. Il s’était cru prêt à retourner à l’atelier. Il avait même emporté un mètre. Ce qu’il n’avait pas prévu, c’est de garder son manteau debout devant un établi qu’il se rappelle avoir déplacé avec Yann, en se demandant s’il va rester.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une partie de son histoire reste inaccessible",
+          "text": "La mémoire autobiographique permet de se rappeler des événements de sa propre vie. Dans l’amnésie dissociative, l’accès à certains souvenirs personnels importants peut manquer d’une manière qui dépasse l’oubli ordinaire et qui a des conséquences dans la vie. Une lacune peut toucher une période délimitée ou seulement certains moments de cette période. Ismaël se rappelle des visites avant son installation et du choix de la peinture plus tard. Dans l’intervalle, le jour de la remise de clé lui échappe. Ce qui lui manque pèse sur son retour parce que la clé avait marqué le passage de visiteur à partenaire de l’atelier. Le fait de ne pas s’en rappeler ne dit rien de précis sur ce qui a entouré ce jour-là."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une lacune délimitée apparaît-elle dans la vie quotidienne ?",
+          "points": [
+            {
+              "heading": "Retrouver les bords de la période dans la vie courante",
+              "text": "Des événements avant ou après la période peuvent être disponibles spontanément. Cela ne permet pas de déduire ce qui manque entre les deux.",
+              "examples": [
+                "À l’entrée, Ismaël se rappelle le seau qu’il empruntait avant de travailler dans le hangar, puis les essais de peinture faits après son installation.",
+                "En regardant un vieux meuble, une personne se rappelle son usage dans deux logements successifs sans pouvoir évoquer certains moments de son déménagement."
+              ]
+            },
+            {
+              "heading": "Connaître un événement important sans pouvoir le raconter",
+              "text": "On peut savoir qu’un passage de sa vie a eu lieu et rester sans souvenir personnel du moment où il s’est produit.",
+              "examples": [
+                "Ismaël sait que Yann lui a donné la clé. Il n’arrive pas à raconter la remise, même en quelques mots.",
+                "Une personne sait qu’elle a rejoint un groupe auquel elle tient. Quand on évoque la période de son arrivée, elle ne se rappelle pas certaines rencontres importantes."
+              ]
+            },
+            {
+              "heading": "Rencontrer la lacune quand on voudrait prendre part",
+              "text": "Ce que la difficulté change se voit parfois dans le geste interrompu, le temps qu’on met à se décider ou le projet qu’on hésite à poursuivre.",
+              "examples": [
+                "Ismaël remet le coin de la couverture qu’il s’apprêtait à retirer et hésite à défaire son manteau.",
+                "Au moment de signer un texte collectif, une personne se retire de la partie qui raconte une période de sa vie dont certains moments lui échappent."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire place à une lacune déjà évaluée",
+          "points": [
+            {
+              "heading": "S’arrêter à ce qu’on sait",
+              "objective": "Donnez-vous une réponse qui laisse l’incertitude en place.",
+              "exercise": [
+                "Nommez le sujet qui se présente dans l’échange.",
+                "Dites en quelques mots ce que vous pouvez en dire aujourd’hui.",
+                "Arrêtez la conversation à cet endroit si vous le souhaitez."
+              ],
+              "benefit": "Vous pouvez exprimer la difficulté et rester libre de passer à autre chose."
+            },
+            {
+              "heading": "Choisir le premier geste du jour",
+              "objective": "Reprenez une part de l’activité que vous aviez choisie si vous souhaitez rester.",
+              "exercise": [
+                "Repérez une tâche simple liée à ce que vous êtes venu faire.",
+                "Décidez si vous voulez la faire seul, à deux ou une autre fois.",
+                "Dites ce que vous proposez à la personne présente."
+              ],
+              "benefit": "Une décision sur le présent peut rendre votre place dans la situation plus concrète."
+            },
+            {
+              "heading": "Décrire l’effet de la lacune au suivi",
+              "objective": "Donnez au professionnel un exemple de ce que la difficulté change pour vous.",
+              "exercise": [
+                "Choisissez une situation récente qui vous a gêné.",
+                "Notez l’action que vous avez interrompue ou différée, sans chercher à détailler la période inaccessible.",
+                "Si l’effet vous préoccupe, apportez cette observation au professionnel qui vous suit."
+              ],
+              "benefit": "Le suivi peut ainsi porter sur une difficulté que vous rencontrez aujourd’hui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le manteau sur le crochet",
+      "ending": "Yann pose les deux paumes sur l’établi. « Tu veux prendre un café ou on regarde le cadre ? » Ismaël répond qu’il ne peut pas finir sa phrase et qu’il préfère regarder le cadre. Il accroche son manteau au premier crochet. Le second est pris par le sac de Yann, qui le déplace par réflexe avant de s’apercevoir qu’il n’a pas besoin de lui faire de la place.\n\nIls découvrent le châssis. Le coin du haut a noirci et les deux côtés ne semblent plus à la même hauteur. Ismaël demande qu’on le laisse sur les tréteaux jusqu’au prochain créneau. Il reviendra mesurer les diagonales. Sur le chemin du bus, le souvenir de la remise de clé lui manque encore. Il peut toutefois se représenter la première chose qu’il fera en revenant.",
+      "conclusion": "Dans une amnésie dissociative, une lacune peut concerner un moment important tout en laissant d’autres souvenirs disponibles. La remise de clé garde son importance pour Ismaël même s’il ne peut pas la raconter. Il a décidé de revenir au hangar et a choisi par où reprendre le travail.",
+      "mirror": [
+        "Yann voit Ismaël remettre la couverture et garder son manteau. Il peut lui dire « On peut laisser la clé de côté. Tu veux qu’on découvre le cadre ou qu’on remette ça à une autre fois ? » Laisser plusieurs possibilités évite de prendre la gêne pour un refus de revenir. Yann peut aussi ranger ses affaires et se rendre disponible un autre jour si son ami préfère partir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "nhs-troubles-dissociatifs",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Ismaël laisse en suspens la remise de clé, reste au hangar et choisit les diagonales comme prochaine tâche.",
+        "next": "Le châssis bleu attend sur deux tréteaux et Ismaël revient avec le même mètre."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "ismael-gestes-connus-mesure-chassis",
+      "title": "Un geste appris reste disponible quand un souvenir manque",
+      "description": "Ismaël hésite à prendre le mètre à cause de la période qui lui échappe. Devant le châssis, il retrouve ses repères de mesure.",
+      "context": "Une mesure à deux sur le châssis bleu",
+      "topics": [
+        "Mémoire des gestes",
+        "Mémoire autobiographique",
+        "Savoir-faire préservés"
+      ],
+      "clinical_focus": "Savoir-faire conservé malgré les lacunes",
+      "clinical_intro": "Les souvenirs de sa propre vie et les gestes appris ne sont pas une seule et même chose. Dans l’amnésie dissociative, l’atteinte concerne principalement des souvenirs personnels. Ismaël se demande s’il sait encore prendre les mesures du châssis. En observant le bois avec Yann, il s’aperçoit qu’il peut faire le geste même si une partie de son histoire avec le hangar lui manque.",
+      "opening": "La seconde fois, Ismaël enlève son manteau avant de dire bonjour. Le châssis bleu est resté sur les tréteaux, comme convenu. Il le retrouve couvert d’une poussière fine, sauf à l’endroit où la couverture s’est repliée sur elle-même. Yann a sorti un mètre en ruban, un crayon et un vieux calendrier dont ils pourront utiliser le verso. Ismaël a le sien dans la poche. Il ne le sort pas tout de suite.\n\nIl était venu prendre des mesures. Maintenant que Yann tend la main vers le premier coin, Ismaël voudrait lui laisser la mesure et s’occuper du crayon. L’hésitation lui paraît un peu absurde. Il sait qu’il a déjà mesuré des fenêtres. Il sait aussi que des moments importants de sa première période au hangar ne lui reviennent pas. Depuis samedi, il a fini par se demander si ces deux choses allaient forcément de pair, comme s’il ne pouvait plus se fier à un geste lorsqu’il ignorait dans quelles circonstances il l’avait fait ici pour la première fois. « Attends », dit-il à Yann. Il approche sa main du bois.\n\nLe bord intérieur est entamé près d’un coin. Ismaël indique de l’ongle l’endroit intact où le crochet peut prendre appui. Il propose de partir des mêmes bords aux deux diagonales. Yann retourne le calendrier et dessine un rectangle avec le côté fendu en haut, pour que leurs chiffres restent lisibles la prochaine fois. Au premier nombre annoncé, il écrit trop vite et se trompe d’un chiffre. Ismaël le voit en se penchant pour détacher le mètre. Il reste près du cadre, cette fois, et lui demande le crayon.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une autre forme de mémoire entre en jeu",
+          "text": "Se rappeler comment faire un geste appris diffère du souvenir d’une occasion précise où l’on a fait ce geste. L’amnésie dissociative concerne surtout la mémoire de sa propre histoire. Selon les personnes, d’autres difficultés peuvent coexister et méritent d’être décrites au professionnel qui les évalue. Dans le cas d’Ismaël, le souvenir de certaines journées au hangar reste inaccessible et il peut pourtant prendre des mesures. Savoir placer le mètre et vérifier un chiffre permet une décision sur le châssis. Cette réussite ne constitue ni un test du trouble ni une évaluation de sa capacité à conduire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment cette différence se remarque-t-elle ?",
+          "points": [
+            {
+              "heading": "Savoir où commencer un geste familier",
+              "text": "Un outil et une tâche peuvent être familiers même lorsqu’un épisode de la vie pendant lequel on les a utilisés reste inaccessible.",
+              "examples": [
+                "Ismaël sait de quel bord prendre la mesure des deux diagonales sans pouvoir raconter certains jours de ses débuts au hangar.",
+                "Une personne ajuste la tension du fil de sa machine à coudre tout en gardant une lacune sur une période où elle participait à un atelier de couture."
+              ]
+            },
+            {
+              "heading": "Expliquer une règle sans raconter son apprentissage",
+              "text": "Le savoir que l’on utilise dans une tâche ne dépend pas toujours de la capacité à raconter une séance ou une journée particulière.",
+              "examples": [
+                "Ismaël explique à Yann pourquoi il veut partir de bords comparables. Il n’a pas besoin de préciser le jour où il a appris ce repère.",
+                "Une personne montre où ranger une pièce d’un jeu dont elle connaît les règles, alors que des souvenirs de son ancien club lui manquent."
+              ]
+            },
+            {
+              "heading": "Douter d’un savoir-faire encore présent",
+              "text": "Une difficulté dans la mémoire personnelle peut modifier la confiance dans d’autres activités. Le doute ne suffit pas à dire si une compétence a changé.",
+              "examples": [
+                "Ismaël s’apprête à demander à Yann de prendre toutes les mesures avant d’avoir regardé le bord du cadre.",
+                "Lors d’un atelier de dessin, une personne hésite à préparer sa palette. Le souvenir de certaines séances lui échappe et elle a peur de ne plus savoir mélanger ses couleurs."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver sa place dans une activité familière",
+          "points": [
+            {
+              "heading": "Choisir sa part dans une tâche sans risque",
+              "objective": "Repartez d’une activité simple que vous avez envie de faire.",
+              "exercise": [
+                "Choisissez un geste familier qui peut être interrompu facilement.",
+                "Décidez si vous préférez vous en charger ou demander un appui précis.",
+                "Arrêtez-vous si la tâche vous met en difficulté ou requiert un avis de sécurité."
+              ],
+              "benefit": "Cette démarche peut aider à répartir une tâche du quotidien sans donner de valeur clinique à sa réussite."
+            },
+            {
+              "heading": "Dire la règle utile au moment où elle sert",
+              "objective": "Rendez une décision pratique compréhensible à la personne qui vous accompagne.",
+              "exercise": [
+                "Identifiez le détail qu’elle a besoin de connaître pour la tâche.",
+                "Dites-le avec les objets présents, par exemple en désignant le bord à utiliser.",
+                "Demandez-lui de noter le résultat si vous souhaitez le retrouver plus tard."
+              ],
+              "benefit": "L’échange peut se poursuivre autour de ce que vous faites ensemble ce jour-là."
+            },
+            {
+              "heading": "Porter une inquiétude précise au suivi",
+              "objective": "Expliquez ce qui vous inquiète à propos d’une activité devenue difficile.",
+              "exercise": [
+                "Notez quel geste du présent est concerné et dans quelle situation le doute survient.",
+                "Distinguez ce que vous avez constaté de ce qui vous inquiète encore.",
+                "Si une compétence vous semble avoir changé, parlez-en au professionnel qui vous suit avant de vous engager dans une activité à risque."
+              ],
+              "benefit": "Le professionnel peut examiner la question à partir d’un exemple de fonctionnement actuel."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux diagonales au dos du calendrier",
+      "ending": "Ismaël barre le mauvais chiffre d’un trait, assez fin pour qu’on puisse encore le lire. La seconde mesure est plus longue. Yann propose de recommencer tout de suite. « On a le droit de garder deux valeurs différentes », dit Ismaël. Le cadre a bougé au fil des ans. Les deux mesures leur serviront quand ils choisiront comment le remettre en place.\n\nIl recopie les nombres sur une feuille avec la date du jour. À côté du dessin, il écrit « côté cour » et « côté établi ». Yann va chercher une chemise pour éviter que la feuille se perde sous les outils. Il en rapporte deux. Dans celle où ils pensaient classer le dessin, une facture ancienne du hangar dépasse. Ismaël en voit l’en-tête et le coin replié sans lire plus loin. Il propose de la laisser de côté pour aujourd’hui et range la feuille de mesures dans l’autre chemise.",
+      "conclusion": "Pouvoir mesurer un cadre et ne pas pouvoir raconter une journée importante sont deux expériences compatibles. Ismaël dispose aujourd’hui d’un savoir-faire qui l’aide à avancer sur la fenêtre. En séparant la mesure du présent de ce qui concerne le passé, il trouve aussi une place pour la feuille qu’il vient de produire.",
+      "mirror": [
+        "Quand Ismaël garde le mètre dans sa poche, Yann peut lui demander « Tu veux mesurer ou tenir le coin ? » Il lui laisse choisir sa part, y compris le droit de regarder seulement. Si le résultat est utile pour la fenêtre, Yann peut le commenter à ce titre. Il n’a pas à en tirer de conclusion sur la santé d’Ismaël ni à demander une démonstration supplémentaire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-causes",
+        "nhs-troubles-dissociatifs"
+      ],
+      "continuity": {
+        "choice": "Ismaël mesure avec Yann, corrige un chiffre et crée une feuille datée des deux diagonales.",
+        "next": "La facture ancienne repérée dans une chemise reste à part. Ismaël décidera s’il veut la consulter pour le rangement courant."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "ismael-facture-fait-sans-souvenir",
+      "title": "Connaître la date sans se souvenir de la journée",
+      "description": "Sur une facture du hangar, Ismaël lit la date de la remise de clé. Il peut classer le papier, mais il n’a toujours pas de récit de ce jour.",
+      "context": "Le tri des documents du hangar",
+      "topics": [
+        "Mémoire autobiographique",
+        "Traces documentaires",
+        "Information de seconde main"
+      ],
+      "clinical_focus": "Fait établi sans souvenir vécu",
+      "clinical_intro": "Apprendre un fait de son passé et se rappeler l’avoir vécu sont deux expériences différentes. Avec une amnésie dissociative, une pièce datée peut situer un événement dont le souvenir reste inaccessible. En triant une chemise, Ismaël lit la date où il a reçu son double de clé. Il peut dire d’où vient l’information, mais la journée ne lui revient pas.",
+      "opening": "La chemise brune dépasse d’une pile de catalogues. Ismaël vient de demander à Yann où ils rangent les papiers qu’ils doivent garder et ceux qu’ils peuvent jeter. L’établi sera plus commode si le dessin des diagonales reste à portée de main. Il retire le premier catalogue, puis le second. La facture du hangar se présente à nouveau, avec son coin plié et une tache circulaire à la place où quelqu’un a posé une tasse. Il décide cette fois de l’ouvrir. Il veut savoir dans quel dossier la mettre.\n\nSous les frais de serrure, une note porte la date et la mention « Double remis à Ismaël ». Le paraphe de Yann est dans la marge. Ismaël suit la ligne avec son doigt, comme il suivrait une rangée de chiffres. Le mois correspond bien à celui dont il a parlé avec la docteure Charlier. Il connaît maintenant le jour. En regardant sa main, posée à plat sur la table, il s’aperçoit qu’il ne sait toujours pas où elle se trouvait ce jour-là. Il lit la date une seconde fois avant de repousser légèrement la feuille.\n\nYann revient du fond du hangar avec une pile de papiers à classer. « Tu as trouvé où la mettre ? » Ismaël lui dit qu’il a trouvé le jour. Yann ne demande rien de plus. Il remet d’abord d’équerre la pile qu’il tient contre sa poitrine. Ismaël voudrait que ces deux choses, le papier et ce qui reste absent pour lui, puissent tenir sur le même établi sans que l’une prenne la place de l’autre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’une trace permet de savoir",
+          "text": "La mémoire autobiographique concerne des expériences de sa propre vie. Un document apporte un autre type d’information. Il peut indiquer qu’une remise de clé a été consignée, et quand. Il ne fournit pas l’expérience que la personne a vécue ni ce qu’elle en a pensé. Dans l’amnésie dissociative, il est possible d’apprendre une information de ce genre sans que le souvenir correspondant redevienne accessible. Ismaël peut désormais citer la date avec sa source. Il ne sait pas pour autant où il se trouvait au moment de la remise. L’absence de souvenir ne permet pas de déduire autre chose sur cette période."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la différence entre une trace et un souvenir se remarque-t-elle ?",
+          "points": [
+            {
+              "heading": "S’appuyer sur ce qui est inscrit",
+              "text": "Une trace peut répondre à la question pour laquelle elle a été produite. Il faut parfois dire d’où vient l’information pour conserver sa portée exacte.",
+              "examples": [
+                "Ismaël peut écrire que la remise du double est datée sur la facture. Il n’écrit pas qu’il se souvient de ce jour.",
+                "Un ancien bail situe le début d’une location. La personne qui le relit sait d’où vient la date, sans pouvoir évoquer son emménagement."
+              ]
+            },
+            {
+              "heading": "Garder distincts deux points de vue",
+              "text": "Ce qu’un autre se rappelle est son expérience. Une personne peut choisir d’en prendre connaissance ou de ne pas l’entendre. Dans les deux cas, cela reste le souvenir de l’autre.",
+              "examples": [
+                "Yann voit son paraphe sur la feuille. Il laisse Ismaël dire ce que cette ligne lui apprend, sans transformer son propre savoir en souvenir commun.",
+                "Deux membres d’une association ont des souvenirs différents de leur arrivée. Le registre donne à chacun une information administrative qu’ils peuvent lire sans s’accorder sur le vécu de l’autre."
+              ]
+            },
+            {
+              "heading": "Utiliser la trace pour une tâche actuelle",
+              "text": "Un papier peut être utile pour classer, payer ou ranger même s’il ne change rien au vécu que la personne peut raconter.",
+              "examples": [
+                "Ismaël rattache les frais de serrure au dossier du hangar. Il peut ensuite faire de la place à la feuille des mesures.",
+                "Une personne retrouve une référence dans un contrat qu’elle doit résilier. Elle se sert de ce numéro dans son courrier sans avoir besoin de raconter la signature."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour utiliser un document sans lui faire dire davantage",
+          "points": [
+            {
+              "heading": "Nommer la provenance d’un fait",
+              "objective": "Dites comment vous connaissez l’information que vous choisissez de communiquer.",
+              "exercise": [
+                "Repérez la ligne exacte dont vous avez besoin pour la tâche actuelle.",
+                "Formulez-la en commençant par « d’après le document » si la provenance compte.",
+                "Laissez de côté les détails que le document ne donne pas."
+              ],
+              "benefit": "Cette précision peut rendre l’information utile et empêcher qu’elle soit prise pour un récit personnel."
+            },
+            {
+              "heading": "Décider quoi faire du papier",
+              "objective": "Gardez la main sur la place que la trace prend dans le moment.",
+              "exercise": [
+                "Identifiez la raison pratique pour laquelle vous avez sorti le document.",
+                "Rangez-le dans le dossier qui correspond à cette raison, ou demandez qu’on le mette de côté.",
+                "Revenez à l’action que vous aviez choisie pour aujourd’hui si vous en avez envie."
+              ],
+              "benefit": "Ce rangement peut limiter le poids de la trace dans l’activité tout en permettant de la retrouver."
+            },
+            {
+              "heading": "Parler de ce que cette lecture a changé",
+              "objective": "Faites place à la réaction du présent si le document a été difficile à lire.",
+              "exercise": [
+                "Nommez ce que vous avez appris en une phrase courte.",
+                "Dites ce que vous souhaitez faire ensuite, y compris arrêter la conversation.",
+                "Si la réaction vous gêne durablement, évoquez-la avec le professionnel qui vous suit."
+              ],
+              "benefit": "Le suivi peut tenir compte de ce que ces rencontres avec des traces provoquent aujourd’hui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La chemise des factures",
+      "ending": "Ismaël propose d’écrire « serrurerie » sur la tranche de la chemise brune. Il glisse la facture à sa place et n’ajoute rien à ce qui y figure. Yann lui demande s’il veut la garder chez lui. « Elle est pour le hangar, elle reste au hangar », répond Ismaël. Il tourne la chemise pour pouvoir lire l’étiquette de l’autre bout de l’établi.\n\nLa feuille des diagonales va dans une pochette transparente à côté du dessin du cadre. Il la relit à Yann et ils remarquent qu’ils n’ont pas noté où ranger les petites pièces qui attendent le remontage. Yann désigne une boîte grise sur une étagère. Ismaël lui demande de la laisser là en attendant qu’ils aient une place choisie. Il sait maintenant dans quelle chemise retrouver la date de la remise. Le souvenir de la scène lui échappe toujours.",
+      "conclusion": "Le papier donne à Ismaël une information datée. Il ne lui rend pas le jour vécu. En choisissant une place pour la facture et une autre pour le dessin actuel, Ismaël peut s’appuyer sur chaque document pour ce à quoi il sert, tout en gardant la main sur ce qu’il dit de son histoire.",
+      "mirror": [
+        "Yann voit Ismaël relire la ligne de la facture. Il peut demander « Tu veux que je la classe avec la serrurerie ou qu’on la laisse de côté pour l’instant ? » Si Ismaël lui dit seulement qu’il a trouvé une date, Yann peut s’en tenir là. Il garde son souvenir éventuel pour lui et aide au rangement dans la mesure où son ami le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-causes",
+        "samhsa-tip57-memoire"
+      ],
+      "continuity": {
+        "choice": "Ismaël classe la facture parmi les papiers de serrurerie et laisse la date au statut d’information documentée.",
+        "next": "Il garde la feuille du châssis à portée de main. La boîte grise des pièces a encore une place provisoire."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "ismael-objet-egare-lacune-durable",
+      "title": "Un objet égaré ravive la peur d’une autre lacune",
+      "description": "Ismaël ne retrouve pas une boîte de pièces et s’inquiète aussitôt. La scène lui permet de distinguer cette recherche de ses lacunes anciennes.",
+      "context": "Une boîte de quincaillerie introuvable pendant le rangement",
+      "topics": [
+        "Oublis courants",
+        "Lacunes persistantes",
+        "Effets dans la vie quotidienne"
+      ],
+      "clinical_focus": "Oubli courant et lacune durable",
+      "clinical_intro": "Égarer un objet et rester sans souvenir d’un moment important de sa vie peuvent avoir des conséquences très différentes. Une amnésie dissociative déjà évaluée n’explique pas automatiquement chaque oubli. En cherchant une boîte de pièces, Ismaël redoute un instant qu’une autre partie de son histoire lui échappe. Il regarde ce qui se passe ce matin avant de tirer une conclusion.",
+      "opening": "Ismaël monte sur la première marche du perron pour regarder à travers la vitre de la porte. Yann a allumé la lampe de l’établi mais n’a pas encore ouvert. Ismaël le voit déplacer un sac de chiffons, puis une boîte de vis. Quand il entre, il va droit à l’étagère sur laquelle ils avaient laissé la boîte grise. Il y a deux marques nettes dans la poussière, toutes deux trop étroites pour la boîte. Il tend la main vers le rayon au-dessus, au cas où il l’aurait lui-même déplacée.\n\nIl ne la trouve ni là ni derrière le dessin des diagonales. Il retire son manteau et regarde l’étagère une nouvelle fois, depuis le fond du hangar. Sur le papier, la tâche est minuscule. Il voulait faire le compte des petites pièces disponibles avant de commander celles qui manquent. À la place, il se demande depuis combien de temps la boîte a disparu et quelle autre chose il aurait pu faire sans en garder le souvenir. Il se retient de parcourir tout l’atelier une troisième fois.\n\n« Tu as vu la boîte grise ce matin ? » demande-t-il. Yann vient de la poser près de l’entrée pour essuyer la poussière sous l’étagère. Ismaël l’a regardé bouger d’autres choses derrière la vitre et n’a rien vu de ce déplacement. La réponse règle la question de la boîte. Il garde pourtant un instant sa main sur le dossier de la chaise. Il s’était préparé à dire qu’il ne savait plus où il l’avait mise. Il lui faut quelques secondes pour revenir à ce qu’il était venu compter.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’un oubli du jour ne permet pas de conclure",
+          "text": "Les oublis ponctuels font partie de la vie courante. Une lacune durable sur des événements personnels importants peut gêner une personne d’une autre manière, et son évaluation tient compte du contexte, de l’évolution et des conséquences. Il n’existe pas de réponse unique qui permettrait de faire la différence chez soi. Ce matin, Ismaël ne retrouve pas un objet dont la place était provisoire. Il dispose d’une réponse en demandant ce qui a été déplacé. Sa difficulté ancienne concerne des moments qu’il ne peut pas raconter et qui continuent à peser dans plusieurs situations. La peur qui relie ces deux expériences est compréhensible. Elle ne renseigne pas à elle seule sur leur cause."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’écart entre ces situations se voit-il ?",
+          "points": [
+            {
+              "heading": "Vérifier la situation présente",
+              "text": "Une chose manquante peut d’abord signaler un changement pratique. La réponse sur ce point n’apprend rien, à elle seule, sur l’ensemble de la mémoire.",
+              "examples": [
+                "Yann a déplacé la boîte ce matin pour nettoyer. Quand Ismaël pose sa question, l’inventaire peut commencer.",
+                "Une personne cherche son carnet après le repas. Elle le retrouve dans le tiroir où elle l’a posé en débarrassant et reprend sa liste."
+              ]
+            },
+            {
+              "heading": "Ressentir la crainte après une difficulté minime",
+              "text": "Quand une lacune a déjà modifié une partie de sa vie, une question ordinaire peut prendre une portée qu’elle n’aurait pas eue auparavant.",
+              "examples": [
+                "Ismaël vérifie l’étagère plusieurs fois parce qu’il pense déjà aux moments qu’il ne peut pas raconter.",
+                "Une personne constate qu’elle a pris le mauvais sac pour sortir et passe aussitôt en revue ses inquiétudes de santé, alors que le changement de sac était une erreur ponctuelle."
+              ]
+            },
+            {
+              "heading": "Repérer un retentissement qui dure ou change",
+              "text": "Ce qui compte pour le bilan, c’est aussi ce qui se répète et ce que la difficulté empêche de faire. Un changement soudain accompagné de signes neurologiques relève d’une urgence.",
+              "examples": [
+                "Au fil des rencontres au hangar, la période ancienne demeure inaccessible et modifie les échanges sur l’installation. Ismaël peut le décrire à la docteure Charlier.",
+                "Une personne qui a de plus en plus de mal à suivre des rendez-vous et des tâches habituelles en parle à son médecin, même si chaque incident pris seul paraît mineur."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à une inquiétude liée à un oubli",
+          "points": [
+            {
+              "heading": "Résoudre le détail matériel",
+              "objective": "Faites une vérification en lien avec la tâche du moment.",
+              "exercise": [
+                "Décrivez le problème de façon concrète, par exemple « la boîte n’est plus sur l’étagère ».",
+                "Demandez à la personne présente si elle sait où se trouve l’objet.",
+                "Fixez une place convenue si cela aide la prochaine fois."
+              ],
+              "benefit": "Vous pouvez reprendre l’activité sans transformer la recherche d’un objet en épreuve de mémoire."
+            },
+            {
+              "heading": "Distinguer l’objet et l’inquiétude",
+              "objective": "Donnez des mots à la gêne qui reste après la réponse pratique.",
+              "exercise": [
+                "Dites en une phrase ce qui a été réglé.",
+                "Nommez la crainte que la situation a ravivée si vous souhaitez en parler.",
+                "Choisissez de poursuivre, de faire une pause ou de reprendre plus tard."
+              ],
+              "benefit": "Vous n’avez pas à faire disparaître la crainte pour décider ce qui vous convient."
+            },
+            {
+              "heading": "Demander un avis quand le quotidien change",
+              "objective": "Signalez au médecin les difficultés qui persistent, s’accentuent ou vous gênent.",
+              "exercise": [
+                "Choisissez un exemple de ce qui a changé dans une activité réelle.",
+                "Indiquez depuis quand vous le remarquez et ce que cela vous empêche de faire.",
+                "Prenez contact avec votre médecin. En France, appelez le 15 ou le 112 sans attendre si le trouble est brutal et accompagné, par exemple, d’une difficulté soudaine à parler."
+              ],
+              "benefit": "Ces observations aident à situer la gêne, et le relais urgent reste immédiat si la situation change brusquement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une place pour la boîte grise",
+      "ending": "Yann pose la boîte entre eux. Ismaël lui dit que, pendant un instant, il avait pris le problème de l’étagère pour autre chose. Il ne cherche pas à expliquer toute la période ancienne. Il retire simplement le couvercle. Une pièce est plus courte que les autres. Ils l’isolent avant de faire le compte.\n\nAprès l’inventaire, Ismaël choisit avec Yann le petit tiroir à droite de l’établi et y range la boîte. Il pose un carton devant pour que chacun pense à la remettre là. L’instant de crainte ne s’efface pas au moment où le tiroir se ferme, mais il sait ce qu’il veut faire des pièces. Yann prend dans sa poche le papier de la rencontre des ateliers de la cour. On leur propose d’y présenter le hangar. Ismaël demande à lire les questions chez lui.",
+      "conclusion": "Un incident ponctuel peut raviver une inquiétude sans prolonger la lacune ancienne. Ismaël a pu régler la question de la boîte et dire à Yann ce qu’elle avait réveillé chez lui. Les difficultés qui persistent ou changent gardent leur place dans son suivi.",
+      "mirror": [
+        "Quand Ismaël revient à l’étagère, Yann peut répondre au problème concret en disant « J’ai déplacé la boîte pour nettoyer. Elle est près de la porte. » Il peut aussi lui proposer de faire une pause si son ami lui dit qu’il a eu peur. Cette aide ne lui demande pas de trancher entre des causes de troubles de la mémoire. Si des difficultés nouvelles persistent, il peut encourager un avis médical."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-urgence",
+        "ameli-troubles-memoire-causes"
+      ],
+      "continuity": {
+        "choice": "Ismaël pose une question sur la boîte, sépare l’incident de sa crainte et fixe avec Yann un rangement stable.",
+        "next": "Yann apporte le formulaire de la rencontre des ateliers. Ismaël le lit avant de choisir ce qu’il veut y dire."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "ismael-pression-de-raconter-debuts",
+      "title": "La pression de raconter des débuts dont on ne se souvient pas",
+      "description": "Un formulaire demande une anecdote commune. Ismaël hésite à rendre la page, de peur de devoir parler comme s’il se rappelait ses débuts.",
+      "context": "La préparation d’une présentation à la rencontre des ateliers",
+      "topics": [
+        "Pression de raconter",
+        "Souvenirs incertains",
+        "Consentement à l’échange"
+      ],
+      "clinical_focus": "Pression à combler une lacune",
+      "clinical_intro": "Une demande de récit peut devenir pesante quand elle suppose que chacun se rappelle le même événement. Dans l’amnésie dissociative, des moments importants restent parfois inaccessibles. Ismaël souhaite présenter le hangar avec Yann. L’idée de devoir fournir une anecdote commune sur leurs débuts le retient davantage que celle de prendre la parole devant les autres.",
+      "opening": "Le formulaire a passé trois jours sur la table d’Ismaël, coincé sous la corbeille à pain. Il l’a sorti le premier soir pour écrire leurs deux prénoms. La ligne suivante demande l’adresse. Celle d’après porte l’intitulé « Une anecdote sur vos débuts ». Depuis, il déplace le formulaire selon qu’il prend du pain ou débarrasse la table. Il aurait pu le remettre à Yann sans rien ajouter. Il l’emporte finalement au hangar, plié en deux au niveau de la question.\n\nYann s’assied face à lui pour en parler. La rencontre des ateliers aura lieu dans la cour, avec quelques panneaux et des gens qui passeront d’un lieu à l’autre. Ils pourraient montrer le cadre avant sa repose. Ismaël a une idée pour faire voir la différence entre les deux diagonales sans avoir à soulever le châssis. Il prend le crayon, marque le verso d’un petit dessin et s’arrête. Il croit qu’il faudra tout de même écrire le texte du recto. Sur les affiches des autres ateliers, les histoires tiennent en trois phrases bien fermées.\n\n« Tu ne veux pas qu’on fasse la rencontre ? » demande Yann, qui a pris le silence d’Ismaël pour une hésitation sur le projet. Ismaël tourne la feuille. Il veut bien expliquer les mesures à qui voudra les entendre. Il ne veut pas d’une phrase commençant par « nous nous souvenons » pour un moment dont il ne se rappelle rien. Dire cela à Yann lui coûte. Il ne sait pas encore si la page peut être rendue avec cette case vide.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question peut laisser peu de place à l’incertitude",
+          "text": "Quand une lacune autobiographique touche un moment important, une demande ordinaire de récit peut devenir difficile à soutenir. La personne peut se sentir tenue de répondre, de se justifier ou de donner à un récit commun un accord qu’elle ne souhaite pas donner. La manière de formuler une question compte. Des travaux en laboratoire montrent que le choix des mots peut influer sur les réponses à propos d’une scène observée. Ces travaux ne permettent pas de savoir ce qu’une personne a vécu. Avec Ismaël, l’enjeu consiste à lui laisser choisir ce qu’il raconte et à accepter une réponse incertaine ou une absence de réponse."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la pression s’installe-t-elle dans un échange ?",
+          "points": [
+            {
+              "heading": "Faire d’une question une condition de participation",
+              "text": "Un formulaire ou un rituel peut donner l’impression qu’il faut produire un récit complet pour avoir sa place, même quand l’activité pourrait se faire autrement.",
+              "examples": [
+                "Ismaël garde le formulaire plusieurs jours sans le rendre, alors qu’il veut participer à la rencontre.",
+                "Dans une association, une personne souhaite tenir un stand mais hésite quand la fiche d’inscription demande à chacun de raconter son arrivée dans le groupe."
+              ]
+            },
+            {
+              "heading": "Confondre silence et refus de tout le projet",
+              "text": "Un proche peut interpréter un arrêt de parole comme un désintérêt. Poser une question sur le choix du présent laisse à l’autre la place de le préciser.",
+              "examples": [
+                "Yann se demande si Ismaël refuse la rencontre. Ismaël veut y venir et laisser une question de côté.",
+                "Une personne interrompt la rédaction d’un texte collectif. Sa collègue découvre qu’elle veut continuer à travailler sur le projet actuel, sans prendre part au passage sur ses débuts."
+              ]
+            },
+            {
+              "heading": "Se sentir engagé par un récit collectif",
+              "text": "Des mots comme « nous » peuvent donner à une phrase l’apparence d’un souvenir partagé. La personne peut ne pas vouloir que son nom engage ce qu’elle ne peut pas dire.",
+              "examples": [
+                "Ismaël hésite à signer un texte qui ferait de lui le narrateur des débuts. Il veut pouvoir décrire son travail d’aujourd’hui.",
+                "Une membre d’un groupe préfère signer le programme de la fête et laisser à chaque personne qui le souhaite la responsabilité de son propre témoignage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser une réponse ouverte sans quitter le projet",
+          "points": [
+            {
+              "heading": "Poser une limite à la question",
+              "objective": "Indiquez ce que vous souhaitez aborder.",
+              "exercise": [
+                "Repérez la question ou la formule qui vous donne l’impression de devoir raconter.",
+                "Dites simplement que vous ne souhaitez pas répondre à cette partie.",
+                "Si la demande revient, proposez de terminer l’échange ou de passer à un autre point."
+              ],
+              "benefit": "La limite est compréhensible sans que vous ayez à préciser la cause ou le contenu de la lacune."
+            },
+            {
+              "heading": "Contribuer à partir du présent",
+              "objective": "Cherchez une manière de participer que vous pouvez choisir librement.",
+              "exercise": [
+                "Nommez ce que vous voulez encore faire dans le projet.",
+                "Préparez un exemple actuel, comme un dessin que vous venez de faire.",
+                "Vérifiez que vous acceptez les mots et les images qui seront montrés avec votre nom."
+              ],
+              "benefit": "Votre contribution peut rester entière même quand une partie du récit demeure ouverte."
+            },
+            {
+              "heading": "Chercher un appui quand la demande persiste",
+              "objective": "Demandez un soutien si la pression se répète ou vous met en difficulté.",
+              "exercise": [
+                "Repérez le cadre où la question revient, par exemple une réunion ou un formulaire.",
+                "Dites à une personne de confiance quel appui concret vous souhaitez, comme relire une réponse courte.",
+                "Si la difficulté prend beaucoup de place, décrivez son effet au professionnel qui vous suit sans chercher à reconstituer les événements manquants."
+              ],
+              "benefit": "Vous pouvez préparer une réponse et parler de la gêne que l’échange provoque aujourd’hui."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le verso du formulaire",
+      "ending": "Ismaël tourne la feuille du côté du dessin et explique son idée. Deux fils tendus sur un petit rectangle de carton permettront de voir le principe. Yann regarde le dessin et fait glisser le formulaire pour le mettre entre eux. « On leur demande si ça suffit ? » Ils écrivent à la personne qui organise la rencontre. Elle leur répond dans l’après-midi qu’une présentation du chantier actuel lui convient. La question sur les débuts était facultative. Elle leur demande seulement à quelle heure ils pourront être là.\n\nIsmaël garde le dessin. Ils décident des deux vues qu’ils aimeraient prendre du châssis cette semaine et conviennent de relire ensemble le texte avant de le remettre. Il ne sait pas encore comment il répondra si quelqu’un l’interroge dans la cour. Il sait que Yann a entendu ce qu’il n’accepte pas de signer.",
+      "conclusion": "Le choix de laisser une question ouverte peut permettre de rester dans un projet auquel on tient. Ismaël garde sa place à la rencontre en proposant de parler du chantier actuel. La décision concerne ce qu’il souhaite raconter, et non ce qu’il devrait parvenir à se rappeler.",
+      "mirror": [
+        "En voyant le formulaire plié à la ligne sur les débuts, Yann peut dire « Tu veux qu’on voie si le dessin et les mesures suffisent ? » Il peut rédiger sa propre contribution sans engager Ismaël dans un récit commun. Si le groupe redemande une anecdote, il peut transmettre le choix convenu et laisser Ismaël parler seulement s’il le souhaite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "samhsa-tip57-memoire",
+        "loftus-palmer-formulation"
+      ],
+      "continuity": {
+        "choice": "Ismaël laisse la case sur ses débuts vide et présente avec Yann leur travail actuel.",
+        "next": "L’organisatrice accepte. Il reste à choisir des horaires et une manière de garder les informations utiles à l’atelier."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "ismael-aides-choisies-fiche-du-jour",
+      "title": "Un repère écrit aide à s’organiser sans raconter le passé",
+      "description": "Ismaël a plusieurs messages sur la rencontre et la fenêtre. Il demande à Yann une fiche commune pour les décisions qu’ils prennent au hangar.",
+      "context": "La préparation de la prochaine séance et des photos de la fenêtre",
+      "topics": [
+        "Appuis du présent",
+        "Organisation du quotidien",
+        "Choix de l’aide"
+      ],
+      "clinical_focus": "Organisation du présent avec un appui choisi",
+      "clinical_intro": "Un repère choisi peut faciliter une tâche présente sans changer l’accès aux souvenirs anciens. Ismaël doit organiser plusieurs décisions liées au hangar et à la rencontre des ateliers. Des messages successifs laissent plusieurs versions de l’heure à laquelle ils comptent venir. Il propose une fiche où il ne gardera avec Yann que les informations utiles à leur projet commun.",
+      "opening": "Il y a trois messages de Yann sur le téléphone, dont deux commencent par « plutôt ». Le premier concerne les photos, le second la commande de pièces et le troisième l’heure de la rencontre. Ismaël ouvre le fil à l’arrêt du bus pour vérifier ce qu’ils ont décidé. Le troisième message est une réponse au premier, et au milieu une photo montre une pièce trop courte. Il perd quelques minutes à remonter le fil avant de se rappeler qu’ils n’ont pas fixé l’heure.\n\nAu hangar, Yann a installé une pince en métal au bord de l’établi. Il y a glissé le formulaire et la feuille des diagonales, tous deux du même côté. Ismaël pose son téléphone près de la pince. « Quand on a décidé, tu peux m’aider à n’avoir qu’un seul endroit où le lire ? » Il connaît l’avantage de mettre les chiffres à côté du dessin qui leur donne un sens. Pour les rendez-vous, il aimerait retrouver le même rapport entre un mot et ce qu’il désigne.\n\nYann prend un cahier à spirale qu’il utilise pour les fournitures. Il demande si Ismaël veut ouvrir une page de plus. Ismaël regarde les anciennes listes et secoue la tête. Il ne veut pas que chaque hésitation devienne une ligne dans un cahier commun. Il veut lire ce qui a été décidé, par eux deux, pour la fenêtre et pour la cour. Yann pousse vers lui une feuille détachée. Ismaël lui demande de la garder d’un seul côté de la pince.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une aide à l’organisation garde un but concret",
+          "text": "Un repère extérieur, comme une fiche datée ou un horaire convenu, peut servir à organiser une activité en cours. Dans le parcours d’Ismaël, l’amnésie dissociative rend certains souvenirs de sa vie inaccessibles. La fiche d’atelier ne vise pas ces souvenirs. Elle lui permet de se référer aux décisions nouvelles et de distinguer ce qu’ils ont fixé de ce dont ils discutent encore. L’aide reste choisie et modifiable. Une autre personne pourrait préférer un autre support ou vouloir le garder pour elle. Si une difficulté nouvelle à retenir des informations s’installe, elle peut être décrite à un médecin séparément."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un repère choisi devient-il utile ?",
+          "points": [
+            {
+              "heading": "Réduire les versions d’un horaire",
+              "text": "Une information peut se perdre entre plusieurs messages même lorsqu’on se rappelle très bien en avoir parlé. Une version convenue facilite l’action du jour.",
+              "examples": [
+                "À l’arrêt du bus, Ismaël retrouve plusieurs propositions de Yann et aucune heure définitive. La fiche permet de marquer quand ils auront décidé.",
+                "Deux bénévoles gardent l’heure confirmée d’un rendez-vous sur une seule note partagée et laissent les propositions précédentes dans leurs messages."
+              ]
+            },
+            {
+              "heading": "Limiter ce qui est mis en commun",
+              "text": "Un support d’organisation peut rester centré sur les besoins du projet. Il n’a pas à recueillir les réactions ou les informations de santé.",
+              "examples": [
+                "Ismaël veut une feuille pour les photos et les petites pièces. Il ne demande pas à Yann de consigner les moments où il s’interroge sur sa mémoire.",
+                "Une personne accepte de partager la liste des courses avec sa colocataire et conserve pour elle les notes qui concernent son rendez-vous de santé."
+              ]
+            },
+            {
+              "heading": "Réviser le support après usage",
+              "text": "L’aide reste souple si la personne peut la déplacer, la simplifier ou y renoncer. Un changement de méthode répond alors à un problème pratique.",
+              "examples": [
+                "La fiche du jour et le plan de mesures restent sous la même pince, de deux côtés distincts. Ismaël peut retirer la fiche quand elle n’est plus utile.",
+                "Une personne garde le rappel d’une réunion sur papier après avoir constaté que l’alerte du téléphone arrive pendant son trajet et ne lui sert pas à préparer ses affaires."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour choisir un appui pour les décisions actuelles",
+          "points": [
+            {
+              "heading": "Créer une fiche courte",
+              "objective": "Donnez une place visible à quelques décisions du présent.",
+              "exercise": [
+                "Inscrivez la date et le nom de l’activité.",
+                "Notez au plus les éléments dont vous aurez besoin la prochaine fois, par exemple un horaire et une tâche.",
+                "Mettez une indication claire sur ce qui reste à décider."
+              ],
+              "benefit": "Vous pouvez retrouver les décisions sans parcourir de nouveau toutes les versions de la discussion."
+            },
+            {
+              "heading": "Fixer qui voit quoi",
+              "objective": "Accordez le support à ce que vous voulez partager.",
+              "exercise": [
+                "Dites à la personne qui vous aide quelles informations concernent le projet commun.",
+                "Choisissez ensemble où la fiche sera conservée et qui pourra la modifier.",
+                "Gardez les informations personnelles à part et changez l’accord si le support ne vous convient plus."
+              ],
+              "benefit": "Vous restez libre de demander une aide utile sans ouvrir l’accès à votre vie privée."
+            },
+            {
+              "heading": "Ajuster le repère à la séance suivante",
+              "objective": "Conservez seulement ce que l’aide facilite effectivement.",
+              "exercise": [
+                "Au début de la prochaine activité, utilisez la fiche pour un détail concret.",
+                "Enlevez une rubrique si elle encombre la page ou déplacez-la si vous ne la trouvez pas.",
+                "Si des difficultés nouvelles de mémoire vous gênent dans plusieurs activités, parlez-en à votre médecin."
+              ],
+              "benefit": "Vous pouvez modifier le support pour le quotidien et garder une démarche de soins distincte quand elle est nécessaire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La pince à deux côtés",
+      "ending": "Ismaël date la feuille et écrit « photos », puis « vérifier les pièces » et « rencontre, heure à fixer ». Il pose la feuille du côté de la pince qui donne sur la porte. Le dessin des diagonales reste de l’autre côté. Yann lit les trois lignes à voix haute pour vérifier qu’il est d’accord avec les tâches, puis écrit l’heure où il pourra revenir. Ismaël propose de prendre les photos avant de se mettre à reparler de la rencontre.\n\nEn partant, il fait une photo de la fiche pour la consulter sur le trajet. Ils n’ont pas résolu la question de l’heure de présentation. Il sait au moins que le blanc à côté de cette ligne veut dire qu’il reste une décision à prendre. Ils pourront ajouter l’heure à cette ligne la prochaine fois.",
+      "conclusion": "Une aide choisie peut réduire les hésitations autour d’un projet commun. La fiche qu’Ismaël met au point rassemble les décisions prises maintenant. Il peut la relire et la modifier avec Yann, pendant que les lacunes sur l’histoire du hangar demeurent une question distincte.",
+      "mirror": [
+        "Quand Ismaël repousse le cahier, Yann peut lui demander « Tu veux qu’on garde juste la date et les deux choses à faire ? » Il peut attendre que son ami écrive les lignes ou lui demander s’il veut les lui dicter. Le support reste à leur service tant que chacun le souhaite. Yann n’a pas à y ajouter un compte rendu sur la mémoire d’Ismaël."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "has-decision-medicale-partagee",
+        "ameli-troubles-memoire-bilan"
+      ],
+      "continuity": {
+        "choice": "Ismaël choisit une fiche commune datée, limitée aux tâches et horaires, et conserve sa feuille de mesures séparément.",
+        "next": "À la prochaine séance, ils commenceront par prendre les photos du châssis bleu."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "ismael-changement-brutal-parole-memoire",
+      "title": "Une difficulté soudaine à suivre et à parler change la situation",
+      "description": "En plein échange, Yann voit Ismaël perdre le fil et peiner à parler. Il appelle le 15 sans attribuer le changement à l’amnésie déjà connue.",
+      "context": "Un changement brutal pendant une séance au hangar",
+      "topics": [
+        "Trouble de la parole soudain",
+        "Évaluation urgente",
+        "Changement inhabituel de mémoire"
+      ],
+      "clinical_focus": "Changement brutal malgré un diagnostic connu",
+      "clinical_intro": "Une difficulté qui apparaît brutalement et s’accompagne d’un trouble de la parole doit être évaluée en urgence, même si des troubles de mémoire sont déjà connus. Au hangar, Ismaël est en train de préparer une photo lorsqu’il ne suit plus l’échange et que ses mots deviennent difficiles à prononcer. Yann appelle le 15 et décrit ce qu’il voit.",
+      "opening": "Ils ont sorti la fiche de la pince pour libérer le bord de l’établi. Yann tient une feuille claire derrière l’angle du châssis. Avec ce fond, la partie fendue se verra mieux sur la photo. Ismaël recule d’un pas, vérifie le cadrage et dit qu’il faut rapprocher le carton. Il préfère garder dans l’image la marque de crayon qui indique où part la mesure. Yann déplace la feuille. La lumière est plus franche que lors de leur première séance. Ils pourront enfin envoyer une photo où l’on voit le bord du bois.\n\nIsmaël baisse brusquement le téléphone. Il a l’air de ne plus savoir à quoi servait la photo. Sa question se coupe après quelques sons difficiles à comprendre. Il cherche le regard de Yann. Une minute plus tôt, il lui disait exactement où tenir le carton. Cette fois, il n’arrive plus à achever sa phrase. Yann pose la feuille et appelle le 15 tout de suite. Il décrit la difficulté apparue en plein échange et donne l’adresse du hangar. Il dit qu’Ismaël le regarde mais qu’il peine à parler.\n\nPendant l’appel, Yann voit l’écran du téléphone qu’Ismaël a posé sur le bois. La photo est restée ouverte. Il donne l’heure approximative du début des signes. La personne au bout du fil lui demande des précisions, puis lui indique quoi faire en attendant l’équipe. Yann reste près d’Ismaël. Il lui parle assez fort pour qu’il puisse l’entendre sans avoir à répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement brutal mérite sa propre évaluation",
+          "text": "Un diagnostic connu ne suffit pas à expliquer un symptôme nouveau. Une difficulté soudaine à parler, à comprendre ou à suivre ce qui se passe peut être le signe d’une urgence. En France, il faut alors appeler le 15 ou le 112 sans attendre, même si les signes s’atténuent. Les anciennes lacunes autobiographiques d’Ismaël concernaient des moments de sa vie. Cette fois, Yann voit un changement en quelques instants, au milieu d’une tâche en cours. Il n’a pas besoin de savoir si son ami a perdu un souvenir, a eu du mal à comprendre ou rencontre une autre difficulté pour appeler."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le caractère inhabituel se remarque-t-il ?",
+          "points": [
+            {
+              "heading": "Voir un changement au milieu d’une activité",
+              "text": "Le moment où quelque chose change donne un repère utile. Le proche peut raconter ce que la personne faisait juste avant et ce qu’il remarque ensuite.",
+              "examples": [
+                "Ismaël précise où placer le carton, puis s’interrompt brusquement et semble ne plus comprendre l’usage de la photo.",
+                "Pendant un repas, une personne qui suivait la conversation ne comprend soudain plus ce qu’on lui dit. Son voisin appelle le 15 sans attendre d’en connaître la raison."
+              ]
+            },
+            {
+              "heading": "Entendre une difficulté soudaine à parler",
+              "text": "Une parole subitement altérée justifie l’appel urgent. Il n’est pas nécessaire de faire répéter une phrase ou de vérifier d’autres signes avant d’appeler.",
+              "examples": [
+                "Yann entend les mots d’Ismaël se couper et devenir difficiles à comprendre, alors que la conversation était claire quelques instants plus tôt.",
+                "Au téléphone, quelqu’un entend sa sœur devenir brusquement incapable de finir une phrase. Il appelle le 15 ou le 112 et indique où elle se trouve."
+              ]
+            },
+            {
+              "heading": "Signaler un changement qui diminue",
+              "text": "Si un signe d’alerte s’atténue, le relais urgent reste nécessaire. L’évolution fait partie des informations à transmettre.",
+              "examples": [
+                "Pendant l’attente au hangar, Yann peut dire si la parole d’Ismaël devient plus compréhensible, même après avoir passé l’appel.",
+                "Une personne retrouve vite une parole plus claire après un changement brutal. Son accompagnant appelle le 15 ou le 112 s’il ne l’a pas déjà fait et indique que le signe a diminué."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour passer le relais lors d’un changement brutal",
+          "points": [
+            {
+              "heading": "Appeler tout de suite",
+              "objective": "Demandez un avis urgent dès l’apparition d’un signe comme une difficulté soudaine à parler.",
+              "exercise": [
+                "En France, appelez le 15 ou le 112 dès que vous remarquez le changement.",
+                "Donnez l’adresse exacte où se trouve la personne et expliquez brièvement ce qui vient de se produire.",
+                "Restez en ligne jusqu’à ce qu’on vous indique la suite."
+              ],
+              "benefit": "L’équipe peut apprécier l’urgence et organiser le relais sans attendre une explication de l’entourage."
+            },
+            {
+              "heading": "Décrire ce que vous voyez",
+              "objective": "Donnez aux secours des faits qu’ils peuvent utiliser.",
+              "exercise": [
+                "Dites ce que la personne faisait juste avant que la difficulté apparaisse.",
+                "Donnez l’heure du début si vous la connaissez, même approximativement.",
+                "Signalez au téléphone toute évolution et précisez ce que vous n’avez pas pu observer."
+              ],
+              "benefit": "Ces repères aident l’équipe à évaluer la situation, y compris quand la difficulté change rapidement."
+            },
+            {
+              "heading": "Suivre les consignes pendant l’attente",
+              "objective": "Laissez les secours décider de la conduite à tenir.",
+              "exercise": [
+                "Écoutez ce qu’on vous indique au téléphone.",
+                "Restez auprès de la personne si c’est possible et suivez les consignes reçues, y compris pour le transport.",
+                "À l’arrivée de l’équipe, transmettez les faits utiles et laissez-la prendre en charge la personne."
+              ],
+              "benefit": "Vous accompagnez la personne et donnez à l’équipe les éléments nécessaires pour poursuivre son évaluation."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le carton resté contre le cadre",
+      "ending": "Yann dit à Ismaël qu’une équipe vient. Il laisse le carton appuyé au cadre et suit les consignes qu’il a reçues. Quand les intervenants entrent dans le hangar, il leur montre où Ismaël se trouve et répète ce qu’il a vu. La voix de son ami est un peu plus nette. Yann le signale aussi. Il précise, lorsqu’on le lui demande, que les problèmes de mémoire dont Ismaël lui a parlé concernaient d’anciens moments de sa vie. Il n’a jamais vu ce changement en pleine conversation.\n\nIsmaël part avec l’équipe pour être évalué à l’hôpital. Yann reste un moment au hangar. Il remet la fiche sous la pince, puis note l’heure approximative et les quelques faits qu’il vient de transmettre.",
+      "conclusion": "Un changement brutal avec une difficulté à parler mérite un appel urgent, quelle que soit l’existence de lacunes anciennes. Yann a appelé au moment où la situation a changé et a transmis des faits. L’évaluation appartient à l’équipe médicale, et la cause de l’épisode reste à déterminer.",
+      "mirror": [
+        "Yann voit le téléphone s’abaisser et entend des mots brusquement difficiles à comprendre. Son premier geste est d’appeler le 15. Il peut ensuite dire à Ismaël « Les secours sont prévenus. Je reste près de toi. » Sa présence peut être simple. Il suit les consignes du service et, même si la parole s’améliore, laisse l’équipe assurer l’évaluation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-urgence",
+        "ameli-avc-urgence"
+      ],
+      "continuity": {
+        "choice": "Yann appelle le 15 dès les signes inhabituels, rapporte ses observations et passe le relais aux intervenants.",
+        "next": "Ismaël est évalué à l’hôpital. La docteure Charlier reprendra avec lui les éléments du suivi, sans attribuer le changement aux lacunes anciennes."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "ismael-bilan-separe-changement-nouveau",
+      "title": "Un bilan distinct quand la difficulté de mémoire change",
+      "description": "Après l’hôpital, Ismaël craint que tout soit rangé sous le même diagnostic. En consultation, il sépare la lacune ancienne de l’épisode du hangar.",
+      "context": "La consultation après l’évaluation à l’hôpital",
+      "topics": [
+        "Bilan de mémoire",
+        "Faits et observations",
+        "Autres causes possibles"
+      ],
+      "clinical_focus": "Bilan distinct pour une difficulté nouvelle",
+      "clinical_intro": "Des troubles de mémoire peuvent se ressembler tout en ayant des causes différentes. Après avoir été évalué à l’hôpital, Ismaël rencontre la docteure Charlier pour préparer la suite. Il ne sait pas comment raconter l’épisode du hangar. Il peut séparer ce qu’il a perçu, ce que Yann a observé et les questions qui restent ouvertes.",
+      "opening": "La docteure Charlier propose à Ismaël de poser l’enveloppe de l’hôpital sur la table basse pendant qu’il défait son manteau. Il préfère la garder sur ses genoux. Depuis son retour, elle a voyagé entre la table de la cuisine et le meuble de l’entrée, toujours fermée quand quelqu’un sonnait. Ce matin, il est venu en bus. Dans la pochette où il range son titre de transport, il a glissé un papier que Yann lui a donné avec l’heure de l’appel.\n\nLa docteure lui demande ce qui l’amène aujourd’hui. Ismaël commence par le premier mois au hangar. C’est le dossier qu’il connaît le mieux. Elle l’écoute, puis lui demande s’il veut aussi reprendre ce qui s’est produit devant le châssis. Il retire le papier de sa pochette. « C’est ça qui m’embête. Je ne sais pas s’il faut le mettre avec le reste. » Dans son propre récit, il peut parler du téléphone dans sa main, puis d’un moment où il a perdu le fil et a eu du mal à répondre. Il ne peut pas donner l’heure lui-même.\n\nYann lui a proposé de transmettre ce qu’il a noté. Ismaël lui a dit qu’il préférait apporter le papier et demander de l’aide si l’équipe avait besoin de reparler avec lui. Il le tend à la docteure en indiquant de qui il vient. Elle ouvre avec lui le courrier de l’hôpital, en gardant le petit papier à côté de l’enveloppe.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le bilan distingue des difficultés qui peuvent se ressembler",
+          "text": "Une difficulté de mémoire peut toucher des souvenirs anciens ou la capacité à retenir des informations récentes. Elle peut s’accompagner d’autres difficultés. Les professionnels examinent son contexte et envisagent, selon les signes, différentes causes, notamment les effets d’un médicament, un traumatisme crânien ou une affection neurologique. Le contenu du bilan dépend de la situation. L’évaluation antérieure d’Ismaël portait sur ses lacunes autobiographiques. L’épisode soudain a déjà donné lieu à une évaluation urgente et nécessite un suivi distinct. La docteure Charlier peut partir du courrier de l’hôpital et des observations recueillies, même si aucun des deux amis ne peut raconter à lui seul toute la scène."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment préparer un suivi quand l’explication reste ouverte ?",
+          "points": [
+            {
+              "heading": "Donner sa part du récit",
+              "text": "Le vécu de la personne apporte des informations, même quand sa description s’arrête à un endroit. Dire qu’un passage échappe est déjà une donnée utile.",
+              "examples": [
+                "Ismaël explique qu’il se rappelle avoir tenu le téléphone puis avoir eu du mal à suivre et à répondre. Il laisse l’heure à l’observation de Yann.",
+                "Une personne qui a été évaluée pour un changement de mémoire indique à son médecin le dernier moment qu’elle situe et ce qu’elle ne peut pas préciser."
+              ]
+            },
+            {
+              "heading": "Attribuer l’observation à son témoin",
+              "text": "Un horaire ou un comportement observé peut compléter ce que la personne a perçu. Préciser qui l’a observé aide à comprendre sa portée.",
+              "examples": [
+                "Le papier donné par Yann indique l’heure approximative et ce qu’il a entendu. Ismaël le présente comme une note de Yann.",
+                "Une personne accepte que sa colocataire décrive en consultation une conversation qu’elle a trouvée inhabituelle. Le médecin peut ensuite écouter séparément ce que chacune en dit."
+              ]
+            },
+            {
+              "heading": "Sortir avec une suite qui reste claire",
+              "text": "L’incertitude sur la cause peut durer. Il reste possible de préciser le prochain rendez-vous, les consignes immédiates et ce qui doit faire demander de l’aide.",
+              "examples": [
+                "Ismaël demande ce qu’il doit retenir pour les déplacements et quoi faire si la difficulté à parler revient.",
+                "Une personne repart d’une consultation avec les modalités de suivi et le contact à utiliser si une gêne persistante change, même si des examens sont encore prévus."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un suivi à partir des faits disponibles",
+          "points": [
+            {
+              "heading": "Séparer les périodes sur une note",
+              "objective": "Donnez au professionnel de quoi situer le changement.",
+              "exercise": [
+                "Indiquez sur quoi portait le suivi antérieur en une phrase.",
+                "Inscrivez sur une autre ligne le changement récent et ce que vous avez remarqué.",
+                "Apportez cette note et le compte rendu disponible au rendez-vous de suivi."
+              ],
+              "benefit": "La consultation peut traiter le changement récent sans le confondre avec une difficulté déjà évaluée."
+            },
+            {
+              "heading": "Choisir la part d’un proche dans l’entretien",
+              "objective": "Décidez comment transmettre une observation qui vous paraît utile.",
+              "exercise": [
+                "Demandez au proche ce qu’il a lui-même vu ou entendu.",
+                "Convenez de ce qui peut être transmis, par écrit ou lors d’un échange avec le professionnel.",
+                "Indiquez au soignant ce qui vient de votre expérience et ce qui vient du proche."
+              ],
+              "benefit": "Le témoignage peut compléter votre récit avec votre accord, sans devoir combler ce que vous ignorez."
+            },
+            {
+              "heading": "Noter la suite à suivre",
+              "objective": "Quittez l’entretien avec une idée pratique du prochain pas.",
+              "exercise": [
+                "Demandez quel rendez-vous ou examen le professionnel prévoit ensuite.",
+                "Reprenez avec lui les consignes pour les activités et le déplacement, puis gardez-les à portée de main.",
+                "Clarifiez quoi faire en cas de changement. En France, rappelez le 15 ou le 112 sans attendre si une difficulté soudaine à parler se manifeste de nouveau."
+              ],
+              "benefit": "Ces repères peuvent aider à suivre le bilan et à réagir sans délai si un signe d’alerte revient."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux papiers",
+      "ending": "La docteure place le papier de Yann sous la date du compte rendu. Elle relit ce qu’Ismaël a perçu et ce qui a été observé. Puis elle reprend avec lui la suite de l’évaluation décidée après l’hôpital. Ils conviennent d’un prochain point lorsque les éléments demandés seront disponibles. Ismaël note les consignes actuelles, dont celle de continuer à ne pas conduire. La docteure lui rappelle de faire appeler le 15 ou le 112 sans délai si une difficulté soudaine à parler se reproduit. Elle ne lui donne pas de cause certaine à emporter.\n\nDe retour à la maison, Ismaël remet les documents de soins dans leur pochette. Il écrit à Yann qu’il pourra passer le voir au hangar pour parler du panneau, en restant sur une tâche tranquille à table comme convenu avec la docteure. Il sait à quoi servira cette visite. La question de ce qui est arrivé pendant la photo reste du côté du suivi médical.",
+      "conclusion": "Un diagnostic ancien ne répond pas à toutes les questions que pose un changement récent. Ismaël et sa docteure distinguent ce qu’il a vécu, ce que Yann a constaté et ce que l’équipe doit encore examiner. Il peut suivre les consignes et garder ses projets modestes du moment pendant que le bilan se poursuit.",
+      "mirror": [
+        "Yann peut remettre l’heure à Ismaël en lui disant « J’ai noté ce que j’ai vu. Tu veux l’emporter ou que je reste disponible si la docteure a une question ? » Il respecte le choix qu’Ismaël fait en dehors de l’urgence. En cas de nouveau signe soudain comme une difficulté à parler, le relais est immédiat vers le 15 ou le 112."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-bilan",
+        "ameli-troubles-memoire-causes",
+        "ameli-troubles-memoire-urgence",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Ismaël distingue les observations de Yann de son propre récit et garde les consignes de suivi dont l’absence de conduite.",
+        "next": "Le bilan reste ouvert. Ismaël prévoit seulement de rejoindre Yann au hangar pour travailler au panneau, en restant sur une tâche tranquille."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "ismael-histoire-personnelle-lacune-appartenance",
+      "title": "Une lacune ancienne complique la façon de raconter sa place",
+      "description": "Sur le panneau de l’atelier, Ismaël hésite à se présenter comme l’un des deux occupants. Il cherche des mots qui lui ressemblent aujourd’hui.",
+      "context": "La rédaction du panneau pour la rencontre des ateliers",
+      "topics": [
+        "Récit personnel",
+        "Sentiment d’appartenance",
+        "Choix de ce qu’on raconte"
+      ],
+      "clinical_focus": "Continuité de l’histoire personnelle",
+      "clinical_intro": "Ne pas se rappeler un moment important peut rendre plus difficile la façon de parler de sa place dans une histoire commune. En préparant le panneau de la rencontre, Ismaël sait ce qu’il fait aujourd’hui avec Yann. Il hésite pourtant à se présenter comme l’un des deux occupants du hangar. Il cherche une formule qu’il puisse dire en son nom.",
+      "opening": "Ismaël a laissé sa clé dans sa poche pour frapper à la porte. Yann lui ouvre avec du ruban de papier autour de deux doigts. Il a préparé la table, avec les chaises du côté de la lumière. Le châssis est resté sur ses tréteaux. Ils ont convenu de s’occuper du panneau aujourd’hui, assis, sans reprendre les travaux. Yann a pris une photo du cadre après avoir demandé à Ismaël s’il voulait toujours le montrer. La fissure et la marque de crayon y figurent toutes les deux.\n\nAu-dessous de la photo, l’organisatrice leur a laissé un emplacement libre. La présentation peut ne parler que du chantier actuel. Ismaël veut écrire une phrase sur chacun. Il commence par Yann, qui s’occupe de trouver les pièces et sait depuis des années à quelle heure la cour prend le soleil. Pour lui-même, il écrit « vient donner un coup de main ». Il pose le crayon sur le mot « vient ». Il sait qu’il a sa clé. Il sait aussi à quel point il tient à ce que la fenêtre soit remise en place. Pourtant, dans la phrase, il se donne la place de quelqu’un de passage.\n\nYann attend qu’il lui demande un avis. Ismaël relit à voix haute, assez lentement pour entendre ce qui ne lui convient pas. Il ne manque pas une date à cette phrase. Il manque ce que l’atelier est devenu pour lui, et qu’il voudrait pouvoir dire même si les premiers jours ne lui reviennent pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une lacune gêne la façon de parler de soi",
+          "text": "Des souvenirs de sa propre vie aident à raconter comment on est devenu proche d’une personne ou engagé dans un lieu. Avec une amnésie dissociative, certains passages importants de cette histoire peuvent rester inaccessibles. Il peut alors être difficile de trouver les mots pour parler de ce lien. Ce vécu n’implique pas une perte d’identité. Ismaël sait qui il est et connaît la place qu’il tient dans le projet. La phrase du panneau lui fait sentir combien il avait l’habitude de présenter son rôle à partir de ses débuts. Il peut choisir de le décrire à partir de ce qui lui importe dans le hangar aujourd’hui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une lacune pèse-t-elle sur le récit que l’on fait de sa place ?",
+          "points": [
+            {
+              "heading": "Se donner un rôle plus petit que celui qu’on occupe",
+              "text": "Quand un récit d’entrée dans un groupe est difficile à faire, la personne peut hésiter sur les mots dont elle se sert pour se présenter, même si son rôle actuel est clair pour les autres.",
+              "examples": [
+                "Ismaël écrit qu’il vient donner un coup de main alors qu’il a sa clé et participe aux décisions de l’atelier.",
+                "Une personne qui anime une activité depuis longtemps se présente comme visiteuse. Le passage dont elle ne se rappelle pas certains moments comptait pour elle dans la manière de dire son engagement."
+              ]
+            },
+            {
+              "heading": "Hésiter devant une phrase qui commence par les débuts",
+              "text": "Une biographie brève invite souvent à faire tenir une histoire en quelques étapes. Un passage inaccessible peut suffire à rendre cette forme difficile, même si personne ne réclame de détails.",
+              "examples": [
+                "Ismaël sait que la case sur les débuts est facultative. Il hésite encore quand il veut écrire pourquoi il travaille dans ce hangar.",
+                "Un jardinier voudrait écrire quelques lignes pour le journal du quartier. Une période importante du premier projet lui échappe et il préfère présenter ce qu’il fait au jardin cette année."
+              ]
+            },
+            {
+              "heading": "Retrouver des mots à partir de ce qui compte aujourd’hui",
+              "text": "Décrire une préférence, un rôle ou un projet du présent permet de parler de soi. Cela laisse intact ce que l’on ignore d’un passage plus ancien.",
+              "examples": [
+                "Ismaël dit qu’il tient à faire les mesures du châssis et à voir rentrer la lumière côté cour.",
+                "Dans une présentation de groupe, une personne parle de la responsabilité qu’elle a choisie cette saison et garde pour elle une période qu’elle ne sait pas raconter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour se présenter avec les mots que l’on choisit",
+          "points": [
+            {
+              "heading": "Partir d’une responsabilité actuelle",
+              "objective": "Donnez un exemple de votre place telle que vous la vivez aujourd’hui.",
+              "exercise": [
+                "Choisissez une tâche ou une décision à laquelle vous prenez part.",
+                "Écrivez une phrase au présent qui dit ce que vous en faites ou ce que vous aimez y faire.",
+                "Gardez-la, adaptez-la ou écartez-la selon ce que vous souhaitez dire."
+              ],
+              "benefit": "Votre rôle peut être visible sans exiger une histoire complète de vos débuts."
+            },
+            {
+              "heading": "Parler de ce qui donne du sens au projet",
+              "objective": "Faites place à ce qui vous importe dans l’activité.",
+              "exercise": [
+                "Pensez à une chose du projet que vous voulez voir continuer.",
+                "Trouvez un mot concret pour la désigner, par exemple la lumière ou les séances à deux.",
+                "Si vous avez envie de le partager, dites pourquoi ce détail compte maintenant."
+              ],
+              "benefit": "Cette phrase peut vous ressembler sans vous obliger à raconter les étapes qui manquent."
+            },
+            {
+              "heading": "Apporter la gêne à un échange de suivi",
+              "objective": "Parlez du retentissement sur votre manière de vous présenter si cela devient pesant.",
+              "exercise": [
+                "Choisissez une situation récente où vous n’avez pas trouvé la place que vous souhaitiez dans votre propre récit.",
+                "Décrivez ce que vous auriez aimé dire et ce qui vous a retenu.",
+                "Si vous le souhaitez, parlez-en avec le professionnel qui vous suit en gardant le choix de ce que vous racontez."
+              ],
+              "benefit": "Cet échange peut porter sur la gêne actuelle et sur les situations où vous voudriez prendre davantage de place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le nom sous la photo",
+      "ending": "Ismaël gomme sa phrase et laisse le rectangle vide le temps d’écouter le bruit de la cour. Puis il écrit « Ismaël et Yann partagent cet atelier. Ils remettent en état la fenêtre côté cour. » En dessous, il ajoute à la main ce qu’ils montreront sur les diagonales. Yann lui demande où il veut poser son prénom sur le panneau. Ils ont chacun la même place au bas de la feuille. Ismaël colle le sien sans déplacer l’autre.\n\nL’organisatrice confirme le créneau du samedi à venir. Ismaël range le carton en attendant ce jour-là. En regardant l’heure du bus, il voit aussi un message du service de santé au travail. Le service a répondu à sa demande d’entretien pour parler de la reprise. Il le garde pour le lire chez lui. Il pourra poser des questions sur son poste, avec la même envie de dire ce qui compte aujourd’hui.",
+      "conclusion": "Une lacune peut compliquer le récit que l’on fait d’un lien sans effacer ce lien. Ismaël choisit des mots justes pour sa place dans l’atelier et ne cherche pas à compléter le début de l’histoire. Il emporte cette distinction quand un autre rôle important pour lui revient dans la conversation.",
+      "mirror": [
+        "Quand Ismaël bute sur « vient donner un coup de main », Yann peut lui demander « Est-ce que la phrase te convient pour ce qu’on fait aujourd’hui ? » Il peut parler du travail qu’il observe et laisser son ami choisir ses propres mots. Il n’a pas besoin de prouver l’ancienneté de leur lien pour lui faire une place sur le panneau."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-causes",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Ismaël décrit leur responsabilité commune au présent et signe le panneau qu’ils ont approuvé.",
+        "next": "Le créneau de la rencontre est confirmé pour le samedi à venir. Le service de santé au travail répond au sujet de l’entretien de préparation."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "ismael-reprise-travail-poste-et-permis",
+      "title": "Perdre le rythme du travail pendant un arrêt",
+      "description": "Ismaël voudrait retrouver le rythme de ses tournées. Il prépare la reprise avec la santé au travail et le contrôle du permis dans un autre circuit.",
+      "context": "La préparation d’un retour au poste de conducteur de navette scolaire",
+      "topics": [
+        "Retentissement professionnel",
+        "Santé au travail",
+        "Contrôle médical du permis"
+      ],
+      "clinical_focus": "Retentissement sur la routine professionnelle",
+      "clinical_intro": "Une difficulté de mémoire peut avoir des conséquences sur le travail et sur l’organisation des journées. Quand le poste implique de conduire, l’examen des conditions de reprise et le contrôle médical du permis suivent des démarches distinctes. Ismaël, toujours en arrêt, aimerait retrouver la régularité des tournées scolaires. Il prépare ses questions sans se fixer de date de retour.",
+      "opening": "Les réveils du matin sont encore réglés comme au temps de la navette. Ismaël a coupé les alertes au début de son arrêt et il n’a jamais effacé leurs noms. L’une correspond à l’heure à laquelle il sortait de chez lui, l’autre à celle où la première famille arrivait d’habitude à l’arrêt. En ouvrant l’application pour le rendez-vous, il voit les deux lignes grisées. Il pose le téléphone face contre la table et déplie le message du service de santé au travail qu’il a imprimé.\n\nAu début de l’arrêt, il disait qu’il voulait retrouver du temps au hangar. Il n’avait pas prévu que les heures sans tournées seraient si difficiles à placer. Il aimait l’arrivée des enfants par petits groupes. Il reconnaissait de loin ceux qui marchaient en traînant les pieds avant huit heures et qui lui disaient bonjour d’une voix claire au retour. Il aimerait reprendre le travail, mais depuis l’épisode de l’atelier il sait qu’il y a des questions de santé à reprendre avant de pouvoir envisager la conduite. La docteure Charlier lui a dit de continuer à ne pas conduire pendant l’évaluation. Il a aussi parlé avec elle de la démarche auprès d’un médecin agréé pour son permis.\n\nIsmaël ouvre la fiche de rendez-vous. Il avait préparé une seule question, sur une éventuelle reprise avec un horaire différent. Il se rend compte qu’il en a une autre, sur les responsabilités du poste et sur le moment où il saura si le retour peut se préparer concrètement. Il laisse les alertes désactivées et part pour son rendez-vous en bus.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un trouble de mémoire peut modifier la vie de travail",
+          "text": "Une lacune autobiographique peut peser sur la vie professionnelle, et un symptôme inhabituel peut demander une évaluation distincte avant certaines activités. L’effet concret dépend de la situation de la personne et des exigences du poste. Le médecin du travail peut examiner les conditions d’une reprise et les aménagements possibles. En France, le contrôle médical du permis utilisé pour le ramassage scolaire relève d’un médecin agréé et de la procédure administrative applicable. Ces démarches ont chacune leur rôle. Ismaël peut décrire son travail et ce que l’arrêt a changé, sans déduire de ses journées au hangar qu’il peut reprendre le volant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’interruption se répercute-t-elle sur la vie de travail ?",
+          "points": [
+            {
+              "heading": "Perdre les repères de la journée",
+              "text": "Une période d’arrêt change les horaires et les liens ordinaires qui venaient avec le travail. Le manque de routine peut persister même si la personne sait quoi faire chez elle.",
+              "examples": [
+                "Ismaël a encore les noms de ses alertes de tournée dans son téléphone. Il se lève sans les repères qu’elles lui donnaient.",
+                "Une salariée qui avait l’habitude de prendre son repas avec la même équipe peine à organiser ses journées depuis qu’elle est en arrêt."
+              ]
+            },
+            {
+              "heading": "Se poser des questions liées aux responsabilités du poste",
+              "text": "La même difficulté peut avoir un poids différent selon les activités professionnelles et leurs exigences. Le poste se discute avec les professionnels compétents.",
+              "examples": [
+                "Ismaël pense à la responsabilité de transporter des enfants et demande au médecin du travail comment seront examinées les conditions de reprise.",
+                "Un salarié qui utilise des machines parle de ses tâches et de ses difficultés récentes avec le service de santé au travail avant toute reprise de ces activités."
+              ]
+            },
+            {
+              "heading": "Chercher à savoir qui pourra répondre",
+              "text": "L’incertitude peut conduire à attendre d’un seul rendez-vous une réponse sur le soin, le poste et les autorisations. Clarifier les rôles donne une suite à chaque question.",
+              "examples": [
+                "Ismaël note séparément sa question sur les horaires du poste et celle sur le contrôle médical du permis.",
+                "Une conductrice distingue le suivi de sa santé, l’entretien sur les conditions de son emploi et la démarche relative à son permis."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer des questions avant une reprise de travail",
+          "points": [
+            {
+              "heading": "Décrire ce que le poste demande",
+              "objective": "Préparez un échange concret sur vos responsabilités et sur l’effet de l’interruption.",
+              "exercise": [
+                "Relevez les principales tâches à partir de votre poste habituel, sans les essayer pendant l’arrêt.",
+                "Notez ce qui vous préoccupe à propos des tâches ou du rythme.",
+                "Présentez ces éléments au médecin du travail et demandez quelles suites peuvent être envisagées."
+              ],
+              "benefit": "Une description du poste peut aider à examiner les conditions de reprise qui vous concernent."
+            },
+            {
+              "heading": "Préparer le contrôle médical dans le bon circuit",
+              "objective": "Repérez les démarches du permis lorsque votre travail implique de conduire.",
+              "exercise": [
+                "Vérifiez la procédure applicable à votre permis et à votre activité auprès du service compétent.",
+                "Demandez comment prendre rendez-vous avec un médecin agréé et quels documents médicaux lui présenter.",
+                "Respectez les consignes de non-conduite et attendez les avis et décisions qui s’appliquent à votre situation."
+              ],
+              "benefit": "Cette préparation peut faire avancer la démarche du permis, distincte de l’entretien sur le poste."
+            },
+            {
+              "heading": "Choisir un repère pendant l’attente",
+              "objective": "Retrouvez un rendez-vous choisi sans en faire une répétition du travail.",
+              "exercise": [
+                "Choisissez une activité de la semaine compatible avec les consignes de soins.",
+                "Fixez une heure et organisez un trajet autorisé si vous devez vous déplacer.",
+                "Laissez votre calendrier de reprise ouvert jusqu’à ce que les professionnels vous aient donné la suite des démarches."
+              ],
+              "benefit": "Un repère concret peut aider à organiser la semaine malgré l’incertitude sur le retour."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux rendez-vous, deux lignes",
+      "ending": "Au service de santé au travail, Ismaël explique ce qu’impliquent les tournées du matin et du soir et parle de sa situation au médecin du travail. Celui-ci lui indique comment l’examen de la reprise et d’éventuels aménagements pourra se poursuivre. Ismaël garde aussi le contact pour fixer un rendez-vous avec un médecin agréé, dans le circuit du permis. Il note les démarches sur deux lignes, puis écrit « en attente » là où il avait prévu de mettre une date de retour.\n\nÀ la sortie, il ouvre son calendrier. Il n’a pas de tournée à y inscrire. Il conserve le créneau de la rencontre des ateliers et vérifie l’heure du bus. Il apprend par un message de Nora, qui prépare les plannings de la société, qu’elle a besoin de savoir s’il doit encore rester absent de la grille. Il lui propose de l’appeler le lendemain pour parler de l’organisation.",
+      "conclusion": "Un arrêt peut bousculer une routine à laquelle la personne tient. Ismaël a pu décrire son poste et préparer les démarches qui concernent sa situation. La préparation du retour et le contrôle médical du permis avancent chacun dans leur cadre. Ismaël reste en arrêt et n’inscrit encore aucune tournée à son calendrier.",
+      "mirror": [
+        "Yann sait qu’Ismaël regarde encore les heures de tournée. Il peut lui dire « Je peux vérifier l’heure du bus avec toi si tu veux. On garde le samedi pour le panneau ? » Il aide pour une chose qu’ils peuvent organiser ensemble. Les décisions sur les conditions de reprise et sur la conduite restent dans les circuits compétents."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "ameli-troubles-memoire-bilan",
+        "service-public-visites-reprise",
+        "service-public-controle-permis-professionnel",
+        "service-public-controle-permis-sante"
+      ],
+      "continuity": {
+        "choice": "Ismaël parle du poste avec le médecin du travail et prévoit une démarche distincte auprès d’un médecin agréé, sans reprendre la conduite.",
+        "next": "Nora lui écrit pour savoir s’il doit rester absent de la grille. Ismaël propose de l’appeler le lendemain."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "ismael-lacunes-privees-et-organisation-du-travail",
+      "title": "La crainte de devoir expliquer ses lacunes au travail",
+      "description": "Avant d’appeler Nora, Ismaël prépare un récit qu’elle n’a pas demandé. Il choisit les informations utiles au planning et garde ses lacunes privées.",
+      "context": "Un échange téléphonique avec la personne qui organise les tournées",
+      "topics": [
+        "Confidentialité médicale",
+        "Retentissement au travail",
+        "Informations à partager"
+      ],
+      "clinical_focus": "Crainte de dévoiler ses lacunes au travail",
+      "clinical_intro": "Parler d’une interruption de travail peut faire craindre d’avoir à expliquer des difficultés de santé que l’on préfère garder privées. Avec une amnésie dissociative, cela peut vouloir dire évoquer des moments personnels que l’on ne sait pas raconter. Avant d’appeler Nora au sujet des plannings, Ismaël prépare deux phrases. Il s’aperçoit que la seconde répond à une question qu’elle ne lui a pas posée.",
+      "opening": "Ismaël a recopié le numéro de Nora en haut d’une feuille, alors qu’il l’a déjà dans son téléphone. En dessous, il a écrit qu’il est toujours en arrêt et qu’il n’a pas de date de retour. C’est ce qu’elle lui a demandé de préciser pour la grille des tournées. Sur la ligne suivante, il commence une phrase plus longue. Il voudrait lui donner une raison qu’elle comprenne du premier coup. Il s’arrête au milieu du mot « période ».\n\nCe qu’il ne sait pas raconter concerne sa vie, pas l’organisation de la tournée. Il craint tout de même que le silence après la première phrase ait l’air d’une chose qu’il cache. Il essaie de lire la seconde à voix haute. Il y entend une explication qu’il ne souhaitait pas donner. Il pousse la feuille jusqu’au bout de la table, revient s’asseoir et la reprend par le coin. La conversation sur sa mémoire, il l’a eue avec la docteure Charlier et le médecin du travail. À aucun moment Nora n’a demandé à l’entendre.\n\nIl appelle. Nora est en train de décaler une pause dans la grille. Elle lui demande si elle doit toujours organiser le service sans lui pour les prochains jours. Ismaël commence par lire la première phrase. Nora répond qu’elle comprend et qu’elle le laisse hors de la grille. Elle lui demande seulement de faire signe quand il aura une information sur le planning. À force d’avoir frotté la deuxième ligne, Ismaël a un peu de graphite sur l’index. Il le regarde pendant qu’ils conviennent de la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le diagnostic et l’organisation ne demandent pas les mêmes informations",
+          "text": "Une difficulté de santé peut modifier le travail sans que le diagnostic ou le récit personnel aient à circuler auprès de l’employeur. En France, le secret médical s’applique aux informations détenues par les professionnels qui assurent le suivi. Le service de santé au travail transmet les éléments qui relèvent de son rôle, par exemple certaines préconisations sur le poste, dans le cadre applicable. Ismaël peut informer Nora qu’il reste absent de la grille. Les questions médicales qui concernent la reprise ou le permis doivent être exposées aux professionnels compétents. L’appel de planning ne remplace aucune de ces démarches."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la crainte de devoir se dévoiler pèse-t-elle sur un échange professionnel ?",
+          "points": [
+            {
+              "heading": "Préparer une explication plus longue que la demande",
+              "text": "Une personne peut vouloir rendre son absence compréhensible en ajoutant des détails de santé, même quand l’échange porte sur les horaires.",
+              "examples": [
+                "Ismaël commence à écrire sur la période dont certains souvenirs lui manquent alors que Nora lui demande seulement s’il faut prévoir les tournées sans lui.",
+                "Une salariée rédige un paragraphe sur ses soins dans un message qui devait indiquer à quel moment elle pourra faire le point sur sa disponibilité."
+              ]
+            },
+            {
+              "heading": "Craindre qu’une réponse brève soit mal comprise",
+              "text": "Quand un trouble est difficile à expliquer, le silence ou une limite peut donner l’impression de manquer à une obligation. Vérifier le besoin de l’interlocuteur peut réduire cette incertitude.",
+              "examples": [
+                "Ismaël redoute que Nora trouve la première phrase trop courte. Elle peut pourtant préparer la grille avec ce qu’il lui dit.",
+                "Un collègue répond qu’il n’a pas encore d’information sur une date. Il propose de reprendre contact lorsque le service compétent aura précisé les suites."
+              ]
+            },
+            {
+              "heading": "Distinguer ce qu’il faut dire au soignant et ce qu’il faut dire pour le planning",
+              "text": "Les informations nécessaires à une évaluation de santé ne sont pas les mêmes que les renseignements utiles à la personne qui organise le travail.",
+              "examples": [
+                "Ismaël réserve les observations et le compte rendu aux professionnels concernés. Nora apprend seulement qu’il reste absent et n’a pas de date.",
+                "Une salariée transmet les documents administratifs requis à son employeur et garde ses questions cliniques pour l’entretien avec le professionnel qui les évaluera."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange sur le travail et garder sa vie privée",
+          "points": [
+            {
+              "heading": "Partir de la question posée",
+              "objective": "Répondez à ce que l’interlocuteur a besoin de savoir pour organiser le travail.",
+              "exercise": [
+                "Relisez sa demande et repérez le détail pratique qu’elle vise.",
+                "Préparez une réponse avec ce qui est connu et ce qui reste indéterminé.",
+                "Demandez si une autre information d’organisation est nécessaire."
+              ],
+              "benefit": "Vous pouvez faire avancer le planning sans vous sentir obligé de raconter votre histoire personnelle."
+            },
+            {
+              "heading": "Réserver chaque document à son destinataire",
+              "objective": "Vérifiez où doivent aller les informations de santé et les pièces administratives.",
+              "exercise": [
+                "Séparez ce que vous transmettez au professionnel de ce que l’employeur doit recevoir.",
+                "En cas de doute, demandez au service de santé au travail quelle démarche s’applique et qui reçoit quoi.",
+                "Présentez les éléments de santé utiles à l’évaluation au professionnel compétent dans le cadre prévu."
+              ],
+              "benefit": "Vous pouvez respecter les démarches nécessaires et éviter qu’un document médical se retrouve dans un échange de planning."
+            },
+            {
+              "heading": "Préparer une limite et une suite",
+              "objective": "Gardez une réponse possible si la conversation s’élargit.",
+              "exercise": [
+                "Choisissez une phrase courte, par exemple « Je préfère garder la partie médicale pour le rendez-vous prévu. »",
+                "Proposez de refaire le point lorsque vous aurez une information utile sur l’organisation.",
+                "Si la demande se répète et vous met en difficulté, demandez conseil au service de santé au travail."
+              ],
+              "benefit": "La limite peut rester claire tout en laissant une suite pratique à l’échange."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une ligne suffit à la grille",
+      "ending": "Nora relit la ligne qu’elle vient de modifier. Elle lui confirme qu’elle organise les prochains jours sans lui. Ismaël acquiesce et lui dit qu’il la préviendra quand il aura une information qui change le planning. La conversation s’arrête là. Il plie sa feuille à l’endroit où commence la deuxième phrase et n’envoie rien d’autre.\n\nPlus tard, au hangar, Yann lui demande si l’appel s’est bien passé. « Pour la grille, c’est réglé », répond Ismaël. Il tourne le carton pour vérifier qu’il passe par la porte sans se plier. Ils notent l’heure de la rencontre sur la fiche commune. Dans son agenda personnel, Ismaël garde la date du suivi médical et celle du rendez-vous confirmé par le cabinet du médecin agréé. Il peut accepter d’être là samedi sans rien annoncer sur une reprise.",
+      "conclusion": "Ismaël peut contribuer à l’organisation du travail sans livrer ses lacunes personnelles à Nora. Il a confirmé ce qui concerne les tournées et gardé les questions médicales dans les démarches prévues. La possibilité de refaire un point sur le planning lui laisse le temps d’obtenir des réponses des professionnels.",
+      "mirror": [
+        "Yann voit qu’Ismaël ne lui donne que le résultat de l’appel. Il peut lui dire « D’accord. Tu veux qu’on mette l’heure de samedi sur la fiche ? » S’il a besoin de savoir quel trajet convient à son ami, il peut lui poser cette question directement. Il n’a pas besoin de demander le contenu de l’entretien médical ou de répondre à Nora à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "service-public-secret-medical",
+        "service-public-visites-reprise",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Ismaël informe Nora de son absence et ne lui transmet que ce qui concerne l’organisation.",
+        "next": "Nora organise les tournées sans lui. Ismaël et Yann notent l’heure de la rencontre sur la fiche commune."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "ismael-lacunes-persistantes-vie-quotidienne",
+      "title": "Le quotidien avance même quand une lacune demeure",
+      "description": "La fenêtre est en place. Ismaël ne se souvient toujours pas du jour de la clé et choisit de garder un créneau au hangar dans sa semaine.",
+      "context": "La fin du chantier de la fenêtre et la suite du suivi",
+      "topics": [
+        "Évolution des lacunes",
+        "Reprise d’activités choisies",
+        "Routine personnelle"
+      ],
+      "clinical_focus": "Évolution du quotidien malgré des lacunes",
+      "clinical_intro": "Dans l’amnésie dissociative, les lacunes peuvent changer ou demeurer avec le temps. Les possibilités du quotidien peuvent aussi évoluer, à leur propre rythme. Après la rencontre des ateliers, Ismaël revient voir la fenêtre remise en place. Le jour où il a reçu la clé lui échappe toujours. Il peut néanmoins décider ce qu’il veut faire de ses prochains samedis au hangar.",
+      "opening": "De la cour, Ismaël voit le bleu du châssis qui encadre à nouveau la fenêtre. Le samedi précédent, pour la rencontre des ateliers, ils avaient posé le panneau contre la porte du hangar. Il avait montré son rectangle de carton à plusieurs voisins. Une femme s’était amusée à tirer les deux fils à la fois avant de lui demander pourquoi les longueurs différaient. Il avait sorti la feuille de mesures pour lui montrer d’où ils étaient partis. Il se rappelle cette scène en passant devant l’emplacement vide où se trouvait le panneau.\n\nYann a fait remettre le châssis en place dans la semaine, avec de l’aide. Ismaël n’a pas eu à le porter. Il est venu en bus pour voir le résultat et reprendre le panneau. À l’intérieur, la lumière atteint l’étagère où ils laissaient d’abord la boîte grise. Il ouvre le petit tiroir de droite et la trouve là, au fond, derrière le carton qui indique sa place. Il la laisse fermée. Ils n’ont plus besoin d’en compter les pièces.\n\nEn cherchant où ranger le panneau, il aperçoit la chemise brune des factures. Il sait quelle date porte la facture, mais la journée elle-même lui échappe toujours. Il y pense un moment, debout près de l’établi. Yann lui demande ce qu’il veut faire de l’heure du samedi quand ils n’auront plus de fenêtre à remettre en place. Ismaël lève la tête. Il s’était appliqué à prévoir ce qui arriverait jusqu’à la repose. Il n’a encore rien décidé pour après.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un changement dans la vie ne dit pas comment évolue la mémoire",
+          "text": "Dans l’amnésie dissociative, l’étendue et la durée des lacunes autobiographiques varient d’une personne à l’autre. Certaines peuvent persister. Les activités, les relations et les façons de s’organiser peuvent aussi changer pendant ce temps. Ismaël ne peut toujours pas raconter le jour de la remise de clé. Il a pourtant trouvé un rôle dans la présentation du chantier et peut envisager de revenir au hangar après la fin des travaux. Ces faits décrivent son quotidien. Ils ne renseignent ni sur la cause de l’épisode soudain ni sur les décisions médicales et administratives qui concernent la conduite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le quotidien change-t-il quand une lacune demeure ?",
+          "points": [
+            {
+              "heading": "Réussir une activité que l’on avait choisie",
+              "text": "Une réalisation peut avoir de la valeur même quand elle n’a aucun effet connu sur la mémoire. Elle montre ce que la personne a pu faire dans un contexte précis.",
+              "examples": [
+                "Ismaël retrouve la feuille de mesures et s’en sert pour expliquer les diagonales aux visiteurs de la cour.",
+                "Une personne revient à un rendez-vous d’un club qui lui tient à cœur alors que des souvenirs de sa première saison lui manquent toujours."
+              ]
+            },
+            {
+              "heading": "Conserver seulement les appuis encore utiles",
+              "text": "Une fois une tâche terminée, les supports et les habitudes peuvent être modifiés. Le choix de les garder dépend de ce à quoi ils servent maintenant.",
+              "examples": [
+                "La boîte grise garde sa place dans le tiroir et la fiche peut cesser de porter la ligne sur les photos.",
+                "Une personne conserve une note partagée pour les dates du club et enlève la rubrique consacrée à l’événement qui vient d’avoir lieu."
+              ]
+            },
+            {
+              "heading": "Faire un projet avec une question encore ouverte",
+              "text": "On peut prendre une décision modeste pour la semaine tout en poursuivant un suivi et en laissant l’avenir plus lointain indéterminé.",
+              "examples": [
+                "Ismaël envisage un samedi au hangar sans faire dépendre ce choix du retour de ses souvenirs ou d’une date de reprise des tournées.",
+                "Une personne garde un créneau pour voir un ami dans le cadre des consignes reçues et note à part le rendez-vous où le suivi sera discuté."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une routine utile pendant que le suivi continue",
+          "points": [
+            {
+              "heading": "Identifier ce qui est devenu possible",
+              "objective": "Faites le point sur une activité présente qui a du sens pour vous.",
+              "exercise": [
+                "Nommez une chose que vous avez pu faire au cours de la semaine.",
+                "Indiquez ce qui a rendu cette activité possible, par exemple un horaire accessible ou une aide choisie.",
+                "Sélectionnez ce que vous souhaitez conserver pour la prochaine fois."
+              ],
+              "benefit": "Cette observation peut aider à poursuivre ce qui vous convient sans chercher à mesurer l’évolution de vos souvenirs."
+            },
+            {
+              "heading": "Préserver un créneau qui vous appartient",
+              "objective": "Gardez une activité choisie compatible avec les consignes en cours.",
+              "exercise": [
+                "Décidez de ce que vous aimeriez faire, même brièvement.",
+                "Organisez l’horaire et le déplacement en respectant les consignes de soins.",
+                "Prévoyez de pouvoir écourter ou déplacer le rendez-vous si cela vous convient mieux."
+              ],
+              "benefit": "Un rendez-vous souple peut garder une place dans la semaine sans dépendre d’une décision qui n’est pas encore prise."
+            },
+            {
+              "heading": "Faire le point avec le professionnel sur les deux évolutions",
+              "objective": "Apportez au suivi ce qui a changé au quotidien et ce qui reste difficile.",
+              "exercise": [
+                "Relevez un exemple d’activité qui se passe différemment aujourd’hui.",
+                "Notez séparément une difficulté persistante ou une question nouvelle qui vous préoccupe.",
+                "Discutez des suites avec le professionnel et respectez les consignes en cours dans l’attente des décisions qui vous concernent."
+              ],
+              "benefit": "Les progrès pratiques et les questions de santé peuvent être examinés chacun pour ce qu’ils apportent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Samedi, quand la fenêtre sera déjà là",
+      "ending": "Ismaël retire de la pince la fiche avec les photos et les pièces à vérifier. Au dos, il écrit « samedi, onze heures ». Il voudrait apporter une tasse et rester assez longtemps pour voir comment la lumière arrive sur la table, même si Yann n’est pas là tout le temps. Celui-ci peut venir plus tard. Ils laissent chacun son prénom à côté de l’heure qui lui convient.\n\nIsmaël range le panneau à plat, au-dessus des catalogues. Son prochain point médical et le rendez-vous de contrôle du permis sont dans son agenda. La reprise du poste se prépare encore et il continue à prendre le bus. Avant de partir, il se recule juste assez pour voir le châssis entier. Il sait ce qu’il veut faire samedi, même s’il ne se rappelle toujours pas le jour où il a reçu la clé.",
+      "conclusion": "Les lacunes peuvent persister pendant que des activités reprennent une place dans la vie. Ismaël garde le hangar dans sa semaine après la fin du chantier. Le suivi de sa santé et les démarches de reprise se poursuivent. Il a choisi un rendez-vous qui a un sens pour lui dès maintenant.",
+      "mirror": [
+        "Yann peut confirmer le rendez-vous en disant « Samedi à onze heures, c’est bon pour toi. Moi, je viendrai plus tard. » Il peut apprécier avec lui la fenêtre remise en place et tenir compte de ce qu’il préfère faire au prochain passage. Son rôle d’ami tient aussi à la possibilité d’organiser son propre samedi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim11-amnesie-dissociative",
+        "nhs-troubles-dissociatifs",
+        "has-decision-medicale-partagee",
+        "service-public-controle-permis-sante"
+      ],
+      "continuity": {
+        "choice": "Ismaël choisit de conserver le samedi au hangar après la restauration et garde ses rendez-vous médicaux et le contrôle du permis.",
+        "next": "La fenêtre est en place. Les lacunes anciennes persistent, le suivi reste ouvert et aucune reprise du poste ou de la conduite n’a eu lieu."
+      }
+    }
+  ]
+}

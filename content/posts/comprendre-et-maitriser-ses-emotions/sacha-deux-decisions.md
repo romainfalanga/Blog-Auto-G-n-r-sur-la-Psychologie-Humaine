@@ -98,7 +98,7 @@ Préparer un projet collectif en tenant compte des disponibilités de chacun.
 - Répartissez les rôles selon ce que chacun veut montrer.
 - Fixez un créneau à revoir avant d’annoncer l’atelier.
 
-L’équipe teste son organisation ; le soin suit de son côté les objectifs discutés au cabinet.
+L’équipe teste son organisation. Le soin suit de son côté les objectifs discutés au cabinet.
 
 ## Six soucoupes à côté de la vitrine
 
@@ -108,4 +108,4 @@ Sacha pousse la dernière soucoupe de la pointe du pied pour libérer le passage
 
 **Conclusion**
 
-Sacha choisit de commencer la TCC et propose six places à la graineterie. Le papier du cabinet retourne dans le sac ; le plan de table reste à la disposition de Nora.
+Sacha choisit de commencer la TCC et propose six places à la graineterie. Le papier du cabinet retourne dans le sac. Le plan de table reste à la disposition de Nora.

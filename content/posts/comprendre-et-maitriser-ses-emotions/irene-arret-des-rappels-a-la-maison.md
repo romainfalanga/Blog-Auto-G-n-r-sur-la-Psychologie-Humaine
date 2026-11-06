@@ -51,7 +51,7 @@ Un commentaire bien intentionné peut détourner l’attention de ce que la pers
 **Exemples concrets**
 
 - Irène pense aux remarques répétées de son père au lieu de regarder l’escalier.
-- Un adulte signale un geste pendant un dessin ; l’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place.
+- Un adulte signale un geste pendant un dessin. L’enfant s’arrête pour répondre alors qu’il n’avait pas perdu sa place.
 
 ### Le besoin peut être décrit sans viser le geste lui-même
 

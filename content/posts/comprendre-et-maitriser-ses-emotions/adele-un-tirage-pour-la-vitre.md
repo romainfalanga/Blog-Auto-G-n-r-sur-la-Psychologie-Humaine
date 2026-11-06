@@ -41,7 +41,7 @@ Le jeune peut décrire l’effort que l’entourage n’a pas vu tandis qu’un 
 
 **Exemples concrets**
 
-- Eva retient qu’Adèle est restée dormir ; Adèle repense à la difficulté de refaire comme à midi.
+- Eva retient qu’Adèle est restée dormir. Adèle repense à la difficulté de refaire comme à midi.
 - Un parent dit que la sortie a eu lieu et le jeune raconte combien de temps il a cherché l’aide convenue.
 
 ### Deux repas du même séjour peuvent apporter des réponses différentes

@@ -32,7 +32,7 @@ Il écarte les deux billets du plan. Jeanne lui demande si elle peut chercher le
 
 ## L’heure qu’on ne sait plus d’où l’on tient
 
-La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu ; ce matin, l’enjeu est de vérifier l’heure qu’il utilisera.
+La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu. Ce matin, l’enjeu est de vérifier l’heure qu’il utilisera.
 
 ## Comment un renseignement récent peut-il échapper à Armand ?
 
@@ -52,7 +52,7 @@ Deux traces lisibles peuvent rester impossibles à départager si on ne se rappe
 **Exemples concrets**
 
 - Devant les billets de dix et onze heures, Armand reconnaît son écriture sans pouvoir dater la correction.
-- Deux notes affichées à la cuisine donnent des jours différents pour une livraison ; le souvenir de l’appel ne suffit plus à trancher.
+- Deux notes affichées à la cuisine donnent des jours différents pour une livraison. Le souvenir de l’appel ne suffit plus à trancher.
 
 ### Un souvenir ancien revient avec précision
 

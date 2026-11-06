@@ -31,7 +31,7 @@ Armand pense d’abord qu’il faut deux boîtes. Il essaie une corbeille pour l
 
 ## Un rangement se juge au moment où il sert
 
-Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand ; le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui.
+Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand. Le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui.
 
 ## Comment voit-on qu’un repère ne suffit plus ?
 

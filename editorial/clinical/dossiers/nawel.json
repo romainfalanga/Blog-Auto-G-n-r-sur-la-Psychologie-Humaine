@@ -1,0 +1,29 @@
+{
+  "references": {
+    "has-reperage-cannabis": {
+      "title": "Haute Autorité de santé, Repérage précoce et intervention brève, alcool, cannabis, tabac chez l’adulte",
+      "url": "https://www.has-sante.fr/jcms/c_1795221/"
+    },
+    "ameli-addictologie": {
+      "title": "Assurance Maladie, Addictions, à qui s’adresser",
+      "url": "https://www.ameli.fr/assure/sante/themes/addictions/suivi"
+    },
+    "oms-mhgap-cannabis": {
+      "title": "OMS, mhGAP, interventions psychosociales brèves, mise à jour 2023",
+      "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/drug-use-disorders/brief-psychosocial-interventions"
+    }
+  },
+  "dossier": {
+    "name": "Dépendance au cannabis",
+    "aliases": [],
+    "references": ["oms-cddr", "has-reperage-cannabis", "ameli-addictologie", "oms-mhgap-cannabis"],
+    "points": [
+      "OMS, CDDR 2024, dépendance aux substances, pp. 463–464, 6C41.2 : la régulation de la consommation peut être altérée et celle-ci prendre priorité sur les activités et les responsabilités. L’évaluation tient compte des conséquences et de l’évolution. Fréquence, envie, jugement moral ou signe isolé ne suffisent pas pour poser un diagnostic.",
+      "OMS, CDDR, chapitre des troubles dus à l’usage de substances : distinguer l’envie, le contrôle sur le moment de début et de fin, la priorité, la poursuite malgré les conséquences et les manifestations d’adaptation. Le contexte du soir et du travail est une donnée du récit et ne prédit pas le comportement.",
+      "OMS, CDDR, sevrage, pp. 479–480 et tableau 6.16 p. 484 : la tolérance concerne un effet modifié au cours de l’exposition. Des difficultés de sommeil et de l’irritabilité peuvent survenir lors d’un sevrage du cannabis. Ces symptômes sont non spécifiques. Le professionnel évalue leur chronologie et les autres causes possibles. Le récit ne détaille aucun usage, quantité, produit, combinaison, substitution ou conduite de sevrage.",
+      "HAS, repérage et intervention brève : discuter de l’évolution, du retentissement et des objectifs avec la personne. OMS mhGAP 2023, DRU1 : proposer l’évaluation, une intervention psychosociale adaptée et une suite, avec possibilité de recours spécialisé. La recommandation ne fixe aucun plan individuel dans un article.",
+      "Assurance Maladie, structures ambulatoires : en France, les équipes d’addictologie et les CSAPA peuvent proposer un accompagnement qui tient compte des besoins psychologiques, médicaux et sociaux et accueillir les proches. L’amie peut rester un appui pour la gravure, avec des limites choisies et une confidentialité respectée."
+    ]
+  },
+  "direction": "Nawel a 28 ans. Vendeuse à temps partiel, elle marche volontiers entre l’arrêt du bus et le cours de gravure. Soraya, amie du cours, apprécie les détails de ses estampes et garde ses propres heures. Karim anime le cours. Le suivi déjà établi est assuré par la clinicienne Salomé Vidal dans une équipe d’addictologie. Trois images jalonnent le parcours : l’arrêt au lampadaire, un escalier aux carreaux fendus et une porte vitrée. Les scènes disent comment la consommation et l’envie se greffent sur ses horaires, décisions et liens, sans décrire le produit, son usage ou une façon de le remplacer. La dernière ouverture se fait avec les trois images, chacune gardant son histoire. Nawel poursuit le suivi même lorsque les estampes sont prêtes."
+}

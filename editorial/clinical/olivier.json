@@ -1,0 +1,1251 @@
+{
+  "character_id": "olivier",
+  "bio": "Olivier, 43 ans, est responsable d’un entrepôt et bénévole au festival de courts métrages Fenêtre courte. Un trouble compulsif du comportement sexuel diagnostiqué par une psychiatre lui prend du temps qu’il voulait consacrer au travail, au cinéma ou à Simon, son partenaire. Il choisit de reprendre contact avec la consultation spécialisée et de réparer les problèmes de planning auxquels il a contribué. Simon garde le choix de prendre de la distance. Olivier aimerait retrouver le plaisir de regarder un film jusqu’au bout, avec ou sans la responsabilité de la séance.",
+  "profile_topics": [
+    "Trouble compulsif du comportement sexuel",
+    "Difficulté persistante de contrôle",
+    "Retentissement sur les engagements",
+    "Situations qui précèdent une envie",
+    "Responsabilité dans les relations"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "olivier-heures-reprise-entrepot",
+      "title": "Quand un comportement sexuel compulsif prend la place du travail prévu",
+      "description": "À l’entrepôt, Olivier retrouve deux lignes qu’il devait renseigner la veille. Le temps pris par son comportement a retardé la transmission.",
+      "context": "Un lundi matin dans le bureau de l’entrepôt",
+      "topics": [
+        "Temps absorbé",
+        "Obligations négligées",
+        "Comportement sexuel compulsif"
+      ],
+      "clinical_focus": "Temps absorbé et obligations négligées",
+      "clinical_intro": "En arrivant à l’entrepôt, Olivier retrouve une feuille de départ inachevée. La veille, il n’a pas réussi à consacrer à cette tâche le temps qu’il s’était réservé. Dans le trouble compulsif du comportement sexuel, un comportement difficile à contrôler peut prendre la place d’activités ou d’obligations. Olivier peut encore remettre l’équipe en route, mais il voit ce que le temps perdu a changé.",
+      "opening": "Quand Olivier arrive au bureau, Nadia lui tend la feuille des trois départs du matin. Le crayon est resté en travers, là où il l’a posé le vendredi. Les heures sont écrites en gros. Il manque, sur deux lignes, le nom des personnes qui doivent prendre la suite à la réception. Olivier avait proposé d’ajouter ces noms dimanche soir, depuis chez lui, après avoir reçu la réponse d’une collègue. Nadia a déjà réuni les documents autour de son poste et attend cette confirmation pour les transmettre.\n\nLa veille, Olivier a ouvert le message en rangeant sa tasse. Il a pensé qu’il aurait le temps de compléter la feuille après avoir regardé son téléphone. Quand il est retourné au message, le créneau qu’il s’était donné était passé. Il avait regardé des contenus à caractère sexuel, puis il y était revenu plusieurs fois alors qu’il voulait se remettre au travail. Ce n’était pas le premier soir où il perdait ainsi le temps qu’il avait réservé. Trois semaines plus tôt, la Dre Lenoir avait établi le diagnostic de trouble compulsif du comportement sexuel. Il avait gardé le numéro de la consultation sans encore fixer de rendez-vous de suivi.\n\nOlivier remet le crayon dans sa poche. Il a passé des semaines à dire qu’il se rattraperait le matin. Aujourd’hui, Nadia a besoin de savoir à quelle heure elle pourra transmettre la feuille. Après son service, il doit aussi aller au cinéma Le Passage. Le festival Fenêtre courte attend les horaires des bénévoles et il y reste deux cases à compléter.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps que les autres activités ne récupèrent pas",
+          "text": "Lorsqu’un comportement sexuel devient durablement difficile à contrôler, il peut occuper une part du temps au détriment d’engagements qui comptent pour la personne. Ce déplacement des activités fait partie des présentations possibles du trouble compulsif du comportement sexuel. La fréquence, le désir ou un retard isolé ne suffisent pas à caractériser ce trouble. La psychiatre d’Olivier a repris avec lui plusieurs mois d’essais, de reprises et de conséquences. Ce matin, le retentissement tient aux deux lignes que Nadia attend pour organiser le relais."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le temps pris par le comportement pèse-t-il sur les engagements ?",
+          "points": [
+            {
+              "heading": "Repousser le moment de commencer",
+              "text": "Un créneau prévu pour une tâche peut disparaître à force de reporter son début.",
+              "examples": [
+                "Olivier relit le message sur les départs après l’heure à laquelle il pensait avoir terminé la feuille.",
+                "Une personne repousse le moment de préparer son repas, puis se rend compte qu’elle a passé à autre chose pendant toute sa pause."
+              ]
+            },
+            {
+              "heading": "Laisser une tâche sans suite",
+              "text": "Même une étape courte peut rester en suspens. Quelqu’un d’autre peut attendre le résultat pour poursuivre.",
+              "examples": [
+                "Nadia a les documents sous la main, mais attend encore les deux noms qui lui permettent de les transmettre.",
+                "Une association prépare un envoi collectif. Une pièce que quelqu’un devait joindre la veille manque et le reste de l’équipe ne peut pas envoyer le dossier."
+              ]
+            },
+            {
+              "heading": "Réduire la place des activités choisies",
+              "text": "Ce qui est prévu pour soi peut aussi être repoussé, surtout si personne ne vient réclamer le temps qui lui était réservé.",
+              "examples": [
+                "Olivier choisit de regarder un court métrage un dimanche, puis éteint l’ordinateur avant de l’avoir lancé parce que la soirée est déjà finie.",
+                "Une personne ouvre son livre après le temps qu’elle avait réservé à la lecture et s’endort au bout de deux pages."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour protéger une obligation quand le temps déborde",
+          "points": [
+            {
+              "heading": "Rendre le retard visible assez tôt",
+              "objective": "Donner aux personnes qui attendent une information de quoi prendre une décision.",
+              "exercise": [
+                "Nommez le document ou l’étape qui manque.",
+                "Dites quand vous pensez pouvoir le transmettre.",
+                "Si ce délai pose problème, convenez avec l’équipe de ce qui doit être repris tout de suite."
+              ],
+              "benefit": "Un délai annoncé peut laisser à l’équipe une option autre que l’attente."
+            },
+            {
+              "heading": "Mettre une tâche à un horaire où elle peut commencer",
+              "objective": "Faire un essai sur un engagement concret dont la durée est connue.",
+              "exercise": [
+                "Choisissez une étape courte à terminer sur un créneau de travail prévu.",
+                "Préparez les informations dont vous aurez besoin.",
+                "Au prochain passage, vérifiez si l’étape a été faite et dites ce qu’il reste à traiter."
+              ],
+              "benefit": "Un créneau préparé peut rendre plus visible ce qui aide à commencer ou ce qui fait encore obstacle."
+            },
+            {
+              "heading": "Apporter un exemple de temps perdu en consultation",
+              "objective": "Permettre à l’équipe de soins de comprendre le retentissement à partir d’un fait.",
+              "exercise": [
+                "Choisissez un jour récent et nommez l’activité que vous aviez prévue.",
+                "Notez ce que vous n’avez pas pu faire dans le temps réservé.",
+                "Apportez ce seul exemple à l’entretien et demandez ce qu’il serait possible d’ajuster."
+              ],
+              "benefit": "Un fait précis peut aider à construire un objectif de suivi lié à la vie quotidienne."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les deux lignes au crayon",
+      "ending": "Olivier dit à Nadia qu’il peut lui remettre les noms avant la réunion du matin. Elle indique lequel il faut confirmer d’abord. Il ouvre le message de sa collègue sur le poste de travail, téléphone pour vérifier le second nom, puis le note sur la feuille. Nadia emporte les documents à l’heure qu’ils viennent de convenir. Olivier remet dans sa poche la carte de la consultation et raye le créneau du dimanche dans son agenda. La transmission est faite. Le planning du festival, lui, l’attend toujours au Passage.",
+      "conclusion": "Olivier a pu remettre la feuille à Nadia, avec du retard et un rattrapage. En regardant ce qu’il avait dû laisser de côté, il trouve une première chose à raconter au suivi. Au festival, il devra revenir sur la règle qu’il s’était donnée pour éviter de perdre encore une soirée.",
+      "mirror": [
+        "Nadia peut parler des deux lignes dont elle a besoin. « Dis-moi laquelle tu peux confirmer maintenant. Pour l’autre, j’ai besoin d’une heure. » Elle peut remonter un retard qui se répète par la voie habituelle de l’équipe. La raison intime de ce retard appartient à Olivier, et Nadia garde son rôle dans l’organisation du travail."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier annonce son retard à Nadia, confirme les deux noms et remet la feuille avant la réunion.",
+        "next": "Au Passage, le planning des bénévoles a deux cases à régler et Élise attend une heure de remise."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "olivier-regle-qui-ne-tient-pas-planning",
+      "title": "Tentatives répétées pour réduire un comportement qui reprend",
+      "description": "Devant le planning des bénévoles, Olivier pense aux règles qu’il s’est données et qui n’ont tenu que quelques jours. Il reprend contact avec l’équipe.",
+      "context": "Le même lundi dans le hall du cinéma Le Passage",
+      "topics": [
+        "Tentatives de réduction",
+        "Reprises du comportement",
+        "Reprise de contact avec les soins"
+      ],
+      "clinical_focus": "Tentatives de réduction qui échouent",
+      "clinical_intro": "Au cinéma, Olivier retrouve deux horaires qu’il s’était promis de régler la veille. Il avait essayé plusieurs façons de réduire son usage de contenus sexuels et n’a pas réussi à s’y tenir dans la durée. Ces tentatives répétées et difficiles à maintenir peuvent faire partie d’un trouble compulsif du comportement sexuel. Olivier décide d’en parler avec l’équipe plutôt que de se donner une nouvelle règle pour le soir même.",
+      "opening": "Le hall du Passage sent la peinture près de la porte qu’ils ont refaite pour le festival. Olivier tient le planning dans une chemise transparente. À douze jours de la première projection de Fenêtre courte, il reste une personne à trouver à l’accueil et une autre dont il faut confirmer l’heure. Élise lui avait demandé de lui remettre une version complète le dimanche. Elle ouvre la chemise et pose un doigt sur les deux cases blanches. Elle a demandé à l’équipe de passer le lendemain pour les consignes et veut pouvoir dire à quelle heure chacune commence.\n\nOlivier regarde les cases. Il repense à la consigne qu’il s’était écrite pour lui-même au début du mois. Il avait choisi de laisser le téléphone hors de la chambre après le dîner. Trois soirs, il l’a fait. Le quatrième, il est revenu le chercher et l’a gardé près de lui plusieurs heures. Avant cela, il s’était fixé une heure à laquelle s’arrêter. Certains soirs, il ne l’avait pas regardée. D’autres fois, il l’avait vue passer et avait continué.\n\nIl sort le crayon utilisé le matin à l’entrepôt. Élise a trouvé un nom pour l’accueil. Olivier peut joindre l’autre bénévole après la fermeture du hall. Il annonce qu’il lui fera parvenir la feuille avant la fin de la soirée. En remettant le crayon dans sa poche, il touche la carte donnée par la Dre Lenoir. Le secrétariat a laissé un moyen de demander un rappel. Il hésite entre expliquer chacune de ses tentatives dans le message et donner simplement ses disponibilités.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que racontent des tentatives qui n’ont pas tenu",
+          "text": "Dans le trouble compulsif du comportement sexuel, une personne peut essayer à plusieurs reprises de diminuer le comportement sans parvenir à maintenir le changement souhaité. Une tentative peut avoir été utile quelques jours et se révéler insuffisante dans d’autres circonstances. La difficulté se comprend avec son évolution et ses effets, au cours d’une évaluation professionnelle. Olivier peut parler des soirées où la règle a tenu et de celles où elle a cédé. Ces détails sont plus concrets que la promesse qu’il s’apprêtait à se faire encore."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les tentatives répétées peuvent-elles ne pas tenir dans la durée ?",
+          "points": [
+            {
+              "heading": "Tenir la décision pendant un temps",
+              "text": "Un début de changement est possible, puis le comportement peut reprendre dans un cadre différent ou moins préparé.",
+              "examples": [
+                "Olivier laisse son téléphone hors de la chambre plusieurs soirs. Un soir, il le reprend et n’arrive plus à suivre sa décision.",
+                "Une personne suit un horaire pendant ses jours travaillés, puis retrouve le comportement qu’elle voulait réduire lors de son premier week-end libre."
+              ]
+            },
+            {
+              "heading": "Dépasser une limite dont on se souvient",
+              "text": "Connaître sa propre décision ne suffit pas toujours à pouvoir s’y tenir au moment voulu.",
+              "examples": [
+                "Olivier voit passer l’heure qu’il avait fixée et continue alors qu’il comptait finir le tableau.",
+                "Une personne se rappelle qu’elle voulait commencer son activité en arrivant chez elle et reporte de nouveau ce choix au profit du comportement qu’elle essayait de réduire."
+              ]
+            },
+            {
+              "heading": "Resserrer la règle sans changer les conditions",
+              "text": "Après plusieurs reprises, la personne peut ajouter des interdits qui restent difficiles à appliquer dans les mêmes circonstances.",
+              "examples": [
+                "En voyant les cases vides, Olivier songe à une nouvelle règle absolue avant même de regarder à quels moments les anciennes lui ont posé problème.",
+                "Une personne qui reprend son téléphone à chaque soirée sans programme envisage de le ranger plus loin, tout en continuant d’attendre une information de travail dessus."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer une reprise du suivi après des essais qui n’ont pas tenu",
+          "points": [
+            {
+              "heading": "Demander un premier créneau de suivi",
+              "objective": "Passer de l’intention de demander de l’aide à une démarche précise.",
+              "exercise": [
+                "Retrouvez le moyen de contact proposé par la consultation ou votre médecin.",
+                "Indiquez que vous voulez reprendre une difficulté déjà évaluée et donnez vos créneaux.",
+                "Notez le rendez-vous ou le délai de rappel annoncé."
+              ],
+              "benefit": "Une demande courte peut suffire pour organiser l’entretien sans avoir à tout raconter au secrétariat."
+            },
+            {
+              "heading": "Comparer deux moments d’un même essai",
+              "objective": "Apporter des éléments qui aident à comprendre dans quelles conditions la décision tient.",
+              "exercise": [
+                "Choisissez une tentative dont vous vous souvenez.",
+                "Notez une circonstance où elle a tenu et une autre où elle a cédé.",
+                "Discutez de cet écart avec le professionnel pour chercher un appui adapté."
+              ],
+              "benefit": "Cette comparaison peut orienter le travail vers un contexte où la difficulté revient."
+            },
+            {
+              "heading": "Choisir un objectif limité pour commencer",
+              "objective": "Définir avec l’équipe un changement qui a du sens pour la personne.",
+              "exercise": [
+                "Nommez une activité qui a souvent perdu sa place.",
+                "Dites dans quelle situation vous souhaitez pouvoir y revenir.",
+                "Fixez avec le professionnel un moment pour revoir ce que l’essai change."
+              ],
+              "benefit": "Un objectif précis donne un repère à l’entretien suivant, même si la difficulté persiste."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La carte au bord de la chemise",
+      "ending": "Olivier confirme le deuxième horaire au téléphone et envoie la feuille à Élise à dix-neuf heures passées. Pendant qu’elle vérifie le nom du bénévole, il demande à la consultation de le rappeler. Le lendemain matin, le secrétariat lui propose mercredi après le travail. Il prend le créneau. Il a remis un planning complet et peut maintenant expliquer ce qui s’est passé avec ses règles du soir. Il laisse la carte dans la chemise transparente pour la retrouver avant le rendez-vous.",
+      "conclusion": "Olivier sait maintenant à qui parler des essais qui ont commencé à fonctionner puis se sont défaits. Le rendez-vous est fixé. Au cinéma, la feuille envoyée ne résout pas encore tout. Il reste des copies qui ne disent pas la même chose, et des bénévoles les ont déjà utilisées.",
+      "mirror": [
+        "Élise peut dire ce qu’elle attend après avoir vu les deux cases blanches. « Si une personne n’a pas confirmé, laisse la case visible et dis-moi quand tu pourras vérifier. Je déciderai ensuite comment couvrir le créneau. » La demande porte sur la tenue du planning. Olivier peut chercher de l’aide ailleurs pour ce qui lui a pris la soirée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier complète le planning et obtient un rendez-vous de suivi pour mercredi après le travail.",
+        "next": "Au briefing du mardi, Farid découvre que des bénévoles ont déjà reçu une copie provisoire."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "olivier-copies-planning-consequences",
+      "title": "Quand le comportement se répète malgré des conséquences déjà visibles",
+      "description": "Une ancienne copie du planning circule au festival. Olivier reconnaît un problème qui s’est déjà produit et propose une réparation vérifiable.",
+      "context": "Le mardi au briefing des bénévoles du Passage",
+      "topics": [
+        "Conséquences répétées",
+        "Retentissement sur le festival",
+        "Responsabilité dans l’organisation"
+      ],
+      "clinical_focus": "Persistance malgré des conséquences connues",
+      "clinical_intro": "Farid et une bénévole n’ont pas le même horaire. Olivier avait déjà vu ce qui arrive quand une vérification tarde, mais son comportement a de nouveau pris le temps prévu pour le planning. La répétition malgré des conséquences connues peut faire partie du trouble compulsif du comportement sexuel. Olivier reconnaît ce qui a affecté le festival et propose un changement dont l’équipe pourra vérifier l’effet.",
+      "opening": "Farid a disposé des gobelets en carton le long de la caisse. Il retourne celui qui lui sert à tenir son papier debout. Sur sa copie, l’équipe d’accueil prend son poste à dix-sept heures trente. Une bénévole qui vient d’arriver montre un courriel où elle a lu dix-huit heures. Olivier reconnaît ce premier tableau. Il l’a envoyé la semaine précédente en annonçant que la suite arriverait rapidement. Élise a le tableau qu’il lui a remis la veille, mais les bénévoles ne l’ont pas tous reçu. Elle leur demande d’attendre quelques minutes avant de modifier leurs trajets.\n\nOlivier connaît le problème. L’année précédente, il avait promis de vérifier un tableau avant sa diffusion et s’y était pris après que quelqu’un avait déjà déplacé son horaire de travail pour venir. Cette fois, il avait réservé son dimanche précisément pour empêcher que cela se reproduise. Il se souvient d’avoir pensé à cette ancienne dispute la veille, quand il n’arrivait pas à se détourner des contenus sexuels qu’il regardait. Il avait continué malgré l’image du bénévole qui attendait devant la porte.\n\nFarid passe le doigt sur la marge du papier. Il veut savoir quelle feuille ouvrir avant la première séance et à qui s’adresser s’il y a un changement. Olivier pourrait reprendre son explication depuis le début. Il comprend que la question porte sur la prochaine copie. Il demande à Élise si elle accepte qu’ils fixent ensemble une version qui fasse référence pour tout le monde.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Connaître l’effet et rencontrer de nouveau la difficulté",
+          "text": "Un comportement sexuel difficile à contrôler peut continuer alors que la personne en a déjà éprouvé les effets négatifs. Cette persistance fait partie des présentations possibles du trouble compulsif du comportement sexuel. La connaissance d’une conséquence peut compter dans le suivi, mais elle ne suffit pas toujours à faire changer le comportement. Olivier avait vu une bénévole réorganiser sa journée à cause d’une ancienne erreur. Il a de nouveau manqué le temps réservé à la vérification. Il peut reconnaître l’effet concret et prendre sa part dans la réparation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les conséquences déjà connues réapparaissent-elles dans la vie des autres ?",
+          "points": [
+            {
+              "heading": "Retrouver le même effet sur une organisation",
+              "text": "Une conséquence peut être déjà connue et se produire de nouveau quand le comportement prend la place du contrôle prévu.",
+              "examples": [
+                "Au Passage, une autre copie circule et deux bénévoles s’apprêtent à se présenter à des heures différentes.",
+                "Dans une association, un document arrive de nouveau trop tard pour la personne qui doit lancer une impression et qui doit réorganiser sa journée."
+              ]
+            },
+            {
+              "heading": "Laisser aux autres une part du rattrapage",
+              "text": "Quand un engagement n’est pas tenu, les conséquences touchent parfois aussi les personnes qui attendaient cette tâche.",
+              "examples": [
+                "Élise doit suspendre le briefing pour éviter que chacun change de trajet sur la foi d’un horaire différent.",
+                "Après un autre rendez-vous manqué, une personne proche garde un repas au chaud et doit décider seule à quelle heure elle repart."
+              ]
+            },
+            {
+              "heading": "S’appuyer sur une promesse que la situation dément",
+              "text": "Se rappeler un incident et vouloir éviter sa répétition ne suffit pas toujours. Un changement observable peut donner d’autres repères aux personnes concernées.",
+              "examples": [
+                "Olivier avait réservé le dimanche pour éviter le retard de l’année précédente. Farid lui demande désormais une version de référence.",
+                "Une personne promet de rappeler avant que son amie quitte le travail. Après plusieurs oublis, l’amie préfère décider de son trajet sans attendre cet appel."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour prendre sa part après des conséquences répétées",
+          "points": [
+            {
+              "heading": "Décrire ce qui s’est reproduit",
+              "objective": "Reconnaître le fait que les autres ont dû gérer.",
+              "exercise": [
+                "Dites quelle tâche ou quel engagement vous deviez tenir.",
+                "Précisez l’effet que vous voyez sur les personnes concernées.",
+                "Laissez chacune corriger votre compréhension ou donner sa propre priorité."
+              ],
+              "benefit": "Un constat partagé peut aider à choisir une réparation adaptée à ce qui s’est passé."
+            },
+            {
+              "heading": "Mettre la réparation à un endroit vérifiable",
+              "objective": "Donner aux autres un repère qu’ils peuvent utiliser sans dépendre de votre seule promesse.",
+              "exercise": [
+                "Convenez d’une version ou d’un relais commun avec l’équipe.",
+                "Indiquez la date et la personne qui confirme les changements.",
+                "Retirez les anciennes copies accessibles ou indiquez clairement qu’elles ne sont plus valables."
+              ],
+              "benefit": "Les personnes concernées peuvent retrouver l’information même si vous êtes indisponible."
+            },
+            {
+              "heading": "Parler en suivi de la conséquence qui se répète",
+              "objective": "Examiner ce qui se passe quand connaître le risque n’a pas suffi à orienter le choix.",
+              "exercise": [
+                "Prenez une conséquence vécue plusieurs fois.",
+                "Racontez ce que vous aviez prévu avant la dernière fois.",
+                "Demandez au professionnel de chercher avec vous ce qui aurait pu soutenir ce choix."
+              ],
+              "benefit": "L’entretien peut faire apparaître un besoin d’appui que le rappel de la conséquence ne couvrait pas."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La date au-dessus de la porte",
+      "ending": "Olivier reconnaît avoir laissé partir une copie provisoire sans transmettre la version complète à tout le monde. Il donne les deux horaires confirmés. Élise affiche une feuille datée près de la porte du bureau et prend la responsabilité de valider les changements. Farid colle une étiquette rouge sur sa vieille copie avant de la jeter. Olivier se charge de l’envoi à la liste des bénévoles pendant qu’Élise est encore là. Une personne signale qu’elle devra refaire son trajet. Olivier lui donne l’heure vérifiée et demande si elle souhaite qu’Élise cherche quelqu’un pour couvrir le début.",
+      "conclusion": "Le planning a une référence commune, et Olivier a nommé le retard qu’il a causé. Le souvenir de l’incident précédent ne lui avait pas suffi le dimanche. Avant la séance du mercredi, il essaiera de reconnaître dans quelles circonstances il perd le plus souvent le temps qu’il s’était réservé.",
+      "mirror": [
+        "Farid peut demander une seule version qu’il puisse retrouver. « Je prends la feuille datée. Si quelque chose bouge, qui me confirme le changement ? » La personne qui a dû refaire son trajet peut dire ce que ce retard lui coûte et décliner le nouvel horaire. L’organisation du festival doit tenir compte de cette réponse."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier envoie les horaires vérifiés, et Élise devient la personne qui confirme les modifications sur la version datée.",
+        "next": "Mercredi, après le départ des derniers dossiers, Olivier observe ce qui lui vient dans une pause avant la consultation."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "olivier-creux-apres-le-depart",
+      "title": "Ennui et tension dans les moments qui précèdent une envie",
+      "description": "Une pause s’ouvre à l’entrepôt après les départs. Olivier repère ce que l’attente fait monter chez lui avant le rendez-vous de suivi.",
+      "context": "Le mercredi à l’entrepôt après le dernier départ",
+      "topics": [
+        "Contexte des envies",
+        "Ennui et tension",
+        "Repères pour le suivi"
+      ],
+      "clinical_focus": "Émotions qui précèdent une envie",
+      "clinical_intro": "Après le dernier départ, Olivier se retrouve sans tâche immédiate et remarque une envie familière. Il se rappelle des fins de journée où l’attente ou la tension avaient précédé son usage de contenus sexuels. Chez certaines personnes qui présentent ce trouble, ces circonstances aident à comprendre quand l’envie surgit. Olivier note un seul moment pour pouvoir l’examiner avec la Dre Lenoir.",
+      "opening": "La dernière feuille est partie avec Nadia et Olivier vient de retirer un aimant vide du tableau. Il le tourne plusieurs fois entre ses doigts. Les dossiers du matin sont rangés. Il doit attendre la confirmation d’un horaire avant de pouvoir avancer sur ceux du lendemain. D’ordinaire, cette pause lui plaît. Il peut descendre chercher du café ou rester discuter avec l’équipe si quelqu’un est encore là. Aujourd’hui, la chaise de Nadia est rentrée sous la table et l’imprimante a cessé de chauffer.\n\nOlivier sort son téléphone personnel. Il ne sait pas quelle information il voulait voir en le prenant. Il reconnaît en revanche le mouvement qu’il fait souvent après une journée dense, lorsque le bruit s’arrête d’un coup. La veille, après le briefing, il était resté chez lui devant la chemise du festival en attendant un retour sur le tableau daté. Il avait eu envie d’ouvrir des contenus à caractère sexuel. Ce matin, il remarque d’abord son impatience de ne pouvoir finir le dossier. L’envie arrive alors qu’il fait glisser l’aimant le long du tableau.\n\nLe rendez-vous de la fin de journée figure dans son agenda. Il se demande comment parler de ces minutes alors que rien ne s’est encore passé. Il pourrait attendre d’avoir une soirée plus marquante à raconter. Il retire plutôt une feuille de brouillon de dessous les dossiers. Le bas de la page est libre. Il s’assied à la place où il a laissé sa tasse.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui se passe juste avant",
+          "text": "Dans le trouble compulsif du comportement sexuel, l’envie peut survenir dans des situations d’ennui, de solitude ou de tension. Ce lien varie selon la personne et n’a pas de valeur diagnostique à lui seul. Reprendre la situation en consultation peut aider à comprendre ce que la personne attend du comportement à ce moment-là. Olivier remarque la coupure entre des heures de travail rythmées et une attente où il ne peut plus avancer. L’envie qu’il ressent dans la pause et la décision qu’il prend ensuite sont deux faits qu’il peut raconter séparément."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une émotion ou une situation peut-elle précéder l’envie ?",
+          "points": [
+            {
+              "heading": "Passer d’un moment chargé à un temps vide",
+              "text": "La fin d’une activité peut ouvrir un temps où l’envie devient plus perceptible.",
+              "examples": [
+                "Olivier remarque l’envie quand le dernier dossier est parti et que le bureau se tait.",
+                "En rentrant d’une réunion, une personne remarque une envie familière lorsqu’elle se retrouve seule avant le repas."
+              ]
+            },
+            {
+              "heading": "Attendre une réponse avec impatience",
+              "text": "Un retard sur lequel on ne peut pas agir peut être une circonstance à examiner si l’envie revient régulièrement à ce moment-là.",
+              "examples": [
+                "Olivier ne peut pas préparer les feuilles du lendemain tant que l’horaire manque. Il sort son téléphone pendant l’attente.",
+                "Une personne attend une confirmation pour une sortie et remarque que sa tension et l’envie de reprendre un comportement montent ensemble."
+              ]
+            },
+            {
+              "heading": "Espérer un changement d’état",
+              "text": "La personne peut se tourner vers le comportement parce qu’elle espère se distraire ou faire cesser un inconfort. Cette attente peut être différente de l’effet qu’elle éprouvera ensuite.",
+              "examples": [
+                "Olivier se rappelle avoir voulu cesser de penser au tableau du festival en attendant la réponse d’Élise.",
+                "Après un trajet éprouvant, une personne remarque qu’elle voudrait faire taire sa contrariété en revenant tout de suite à son téléphone."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour décrire le contexte d’une envie sans provoquer la situation",
+          "points": [
+            {
+              "heading": "Noter le moment en trois éléments",
+              "objective": "Garder une trace que l’on peut expliquer sans entrer dans des détails intimes.",
+              "exercise": [
+                "Choisissez un moment récent dont vous vous souvenez.",
+                "Nommez ce qui venait de se terminer et ce que vous attendiez.",
+                "Ajoutez un mot sur votre état juste avant l’envie."
+              ],
+              "benefit": "Cette note peut aider à distinguer des circonstances différentes dans lesquelles l’envie surgit."
+            },
+            {
+              "heading": "Prévoir une pause qui répond au besoin du moment",
+              "objective": "Essayer un autre moyen de faire face à l’ennui ou à l’attente, selon la situation.",
+              "exercise": [
+                "Repérez une transition ordinaire qui vous laisse souvent désœuvré.",
+                "Choisissez une activité courte et disponible dans ce contexte.",
+                "Essayez-la au prochain moment naturel et retenez ce que cela change pour vous."
+              ],
+              "benefit": "Une pause préparée peut donner une option supplémentaire quand rien d’autre ne paraît disponible."
+            },
+            {
+              "heading": "Présenter des moments différents au professionnel",
+              "objective": "Examiner si une circonstance se répète ou si elle ne vaut que dans un exemple.",
+              "exercise": [
+                "Apportez un moment où l’envie était présente.",
+                "Pensez à une attente comparable où vous l’avez moins ressentie.",
+                "Regardez avec le professionnel quelles différences ont compté."
+              ],
+              "benefit": "La comparaison peut éviter de donner à une émotion ou à une situation une importance qu’elle n’a pas toujours."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La note sous l’aimant",
+      "ending": "Olivier écrit « après le dernier départ, en attendant l’horaire, je tourne en rond ». Il garde la note sous l’aimant le temps de prendre un café dans la salle commune. Quand il revient, l’horaire n’est toujours pas là. Il peut vérifier une autre feuille qui ne dépend pas de la réponse. En fin de service, il récupère sa note avant de rejoindre la Dre Lenoir. L’envie n’a pas eu la même intensité pendant toute la pause. Il pense qu’il pourra raconter cette différence en arrivant.",
+      "conclusion": "Olivier a reconnu un moment d’attente où l’envie est devenue plus forte. La pause lui donne un exemple précis à apporter en consultation. Il voudra aussi parler des soirs où il a poursuivi le comportement alors qu’il n’y trouvait plus le soulagement qu’il attendait.",
+      "mirror": [
+        "Si Nadia retrouve Olivier dans la salle commune, elle peut lui demander quelle feuille ils peuvent vérifier en attendant. « L’heure de demain manque encore. Tu veux reprendre la deuxième fiche avec moi pendant que j’attends la réponse ? » Elle peut entendre qu’il souhaite quelques minutes de pause. L’analyse de l’envie appartient à Olivier et à l’équipe de soins."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier note la transition et l’attente, puis emporte cet exemple au rendez-vous du mercredi.",
+        "next": "Avec la Dre Lenoir, il distingue ce qu’il attendait du comportement et la satisfaction qu’il en retirait."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "olivier-poursuivre-sans-satisfaction",
+      "title": "Poursuivre un comportement sexuel compulsif qui satisfait de moins en moins",
+      "description": "En consultation, Olivier revient sur un soir où il a continué malgré le peu de satisfaction et un film qu’il voulait voir.",
+      "context": "Le mercredi soir à la consultation de santé sexuelle",
+      "topics": [
+        "Satisfaction diminuée",
+        "Comportement répété",
+        "Objectifs de la psychothérapie"
+      ],
+      "clinical_focus": "Poursuite malgré une satisfaction faible",
+      "clinical_intro": "Chez la Dre Lenoir, Olivier raconte une soirée où il a continué de regarder des contenus sexuels alors que cela ne lui apportait presque plus rien. Poursuivre malgré peu de satisfaction fait partie des façons dont un trouble compulsif du comportement sexuel peut se manifester. Olivier cherche à décrire l’expérience dans la durée, puis choisit avec l’équipe un premier objectif pour ses soirées.",
+      "opening": "La Dre Lenoir a laissé de la place au milieu du bureau pour le papier qu’Olivier sort de sa poche. La note de l’entrepôt est un peu froissée, avec la trace ronde de l’aimant. Olivier lit ce qu’il a écrit et explique le silence après le dernier départ. Il parle aussi de la veille, quand il attendait qu’Élise lui confirme la version du planning. Il a pu faire autre chose à l’entrepôt. À la maison, il se souvient d’avoir continué pendant longtemps.\n\nIl essaie d’expliquer ce qui l’étonne. Il espérait se distraire. Au bout d’un moment, les contenus qu’il regardait lui apportaient peu de satisfaction. Il avait enregistré un court métrage sur les berges pour le regarder après avoir terminé les horaires. La fenêtre du film était ouverte, prête à lancer. Plusieurs fois, il l’a vue derrière ce qu’il regardait et s’est dit qu’il pouvait encore changer. Il ne l’a pas fait. Plus tard, il a fermé les deux fenêtres sans lancer le film. Il a d’abord pensé raconter seulement l’heure qu’il était au moment de fermer l’ordinateur.\n\nLa psychiatre lui demande ce qui a changé entre l’envie de commencer, le moment où il voulait passer à autre chose et celui où il a arrêté. Olivier pose le papier à plat. Il s’aperçoit qu’il ne donne pas la même réponse pour ces trois moments. Il aimerait pouvoir s’arrêter assez tôt pour avoir encore le choix de regarder le film.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’envie de continuer et la satisfaction peuvent évoluer différemment",
+          "text": "Un comportement sexuel difficile à contrôler peut se poursuivre alors qu’il procure peu ou pas de satisfaction. Cette possibilité figure dans les descriptions du trouble compulsif du comportement sexuel. Le plaisir, le désir et la marge de choix peuvent varier indépendamment d’un moment à l’autre. Au cabinet, Olivier se rappelle avoir commencé en espérant se distraire. Bien après que l’intérêt est retombé, il avait encore du mal à quitter ce qu’il regardait. La consultation peut s’intéresser à ce passage, sans lui demander de reproduire l’expérience."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la poursuite peut-elle se distinguer de la satisfaction ressentie ?",
+          "points": [
+            {
+              "heading": "Commencer avec une attente qui change ensuite",
+              "text": "La personne peut espérer un effet et se rendre compte au cours de l’activité qu’il ne dure pas ou qu’il n’est pas celui qu’elle attendait.",
+              "examples": [
+                "Olivier commence pour se distraire de l’attente, puis remarque que ce qu’il regarde l’intéresse à peine.",
+                "Une personne espère passer un moment agréable et se rend compte plus tard qu’elle continue avec un intérêt de plus en plus faible."
+              ]
+            },
+            {
+              "heading": "Rester alors qu’une autre activité attire davantage",
+              "text": "Vouloir faire quelque chose d’autre et parvenir à changer d’activité peuvent rester séparés.",
+              "examples": [
+                "Olivier aperçoit la fenêtre du film et veut le lancer, alors même qu’il a encore du mal à quitter celle qu’il utilise.",
+                "Une personne entend la musique qu’elle s’était gardée pour la soirée et se rend compte qu’elle tarde encore à se tourner vers elle."
+              ]
+            },
+            {
+              "heading": "Ne pouvoir décrire que le temps écoulé",
+              "text": "Il peut être difficile d’identifier le moment où l’expérience a cessé d’être satisfaisante. En consultation, des repères ordinaires peuvent aider à reprendre le déroulement.",
+              "examples": [
+                "Olivier pense d’abord dire seulement l’heure où il a éteint l’ordinateur. Il retrouve ensuite le moment où il a aperçu le film prêt à partir.",
+                "Une personne note qu’elle a fini bien plus tard que prévu. En reprenant la soirée avec un professionnel, elle situe le moment où elle avait déjà envie de lire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour travailler le moment où l’on voudrait passer à autre chose",
+          "points": [
+            {
+              "heading": "Reprendre une situation déjà passée",
+              "objective": "Distinguer l’effet attendu et l’expérience réelle avec le professionnel.",
+              "exercise": [
+                "Choisissez une situation dont vous vous souvenez sans la recréer.",
+                "Indiquez ce que vous espériez au début et ce qui vous est resté ensuite.",
+                "Relevez un moment où vous auriez voulu faire autre chose."
+              ],
+              "benefit": "Ces repères peuvent aider le professionnel à situer le passage qui pose difficulté."
+            },
+            {
+              "heading": "Choisir une suite qui vous intéresse",
+              "objective": "Donner une destination concrète au changement d’activité envisagé.",
+              "exercise": [
+                "Nommez une activité que vous auriez envie de reprendre, indépendamment de l’envie du moment.",
+                "Préparez au calme sa première étape avec les moyens dont vous disposez.",
+                "Au suivi, dites si cette suite était utilisable et dans quelles circonstances."
+              ],
+              "benefit": "Préparer cette étape peut faciliter le choix d’une activité qui compte déjà pour vous."
+            },
+            {
+              "heading": "Fixer un objectif avec l’équipe",
+              "objective": "Donner au suivi un repère qui tient compte de la marge de choix vécue.",
+              "exercise": [
+                "Dites au professionnel à quel moment vous voudriez retrouver une possibilité de choisir.",
+                "Choisissez ensemble une situation quotidienne sur laquelle travailler.",
+                "Convenez de ce que vous souhaitez raconter au prochain entretien."
+              ],
+              "benefit": "Un repère commun peut rendre l’ajustement plus précis qu’un jugement général sur toute la soirée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La fenêtre qui était déjà ouverte",
+      "ending": "Olivier choisit le moment où il avait encore envie de lancer le film. Avec la Dre Lenoir, il se donne un premier objectif pour un soir de semaine. Il voudrait pouvoir passer à l’activité qu’il avait préparée, même si l’envie est encore présente. Ils conviennent de se revoir et d’examiner aussi dans quelles situations un ajustement d’accès l’aiderait. Olivier remet la note de l’entrepôt dans sa poche. Dans le couloir, il enregistre l’heure du rendez-vous. Le film est toujours dans sa liste.",
+      "conclusion": "La soirée a continué alors qu’Olivier y trouvait peu de satisfaction. Il choisit de suivre ce qui se passe au moment où il voudrait changer d’activité. De retour chez lui, il aura aussi à dire ce que le trouble concerne pour lui et ce qui appartient à sa vie intime.",
+      "mirror": [
+        "Simon peut demander à Olivier ce qu’il souhaite lui dire du rendez-vous. « Si tu as envie de parler de ce que tu vas travailler, je peux t’écouter un moment. » Il peut décider qu’il préfère discuter d’une soirée qu’ils avaient prévue ensemble. Le contenu du suivi reste entre Olivier et la consultation, selon ce qu’Olivier choisit de partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier accepte un suivi régulier et choisit de travailler le passage vers une activité prévue.",
+        "next": "À la maison, il parle à Simon de la distinction entre son désir, le jugement qu’il porte sur lui et la difficulté de contrôle."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "olivier-desir-honte-et-controle",
+      "title": "Distinguer la honte, le désir et les difficultés de contrôle",
+      "description": "En parlant à Simon, Olivier sépare ce qu’il a appris à juger dans son désir du comportement qu’il n’arrivait plus à contrôler.",
+      "context": "Le jeudi soir dans la cuisine d’Olivier et Simon",
+      "topics": [
+        "Jugement moral",
+        "Désir et orientation",
+        "Difficulté de contrôle"
+      ],
+      "clinical_focus": "Honte morale et perte de contrôle",
+      "clinical_intro": "En cuisine, Olivier essaie de dire ce qui l’a conduit au suivi. Il se souvient du jugement qu’il a longtemps porté sur son attirance et le distingue des soirées où il perdait la possibilité de faire autre chose. Le trouble compulsif du comportement sexuel concerne une difficulté persistante de contrôle et ses effets. Le désir, sa fréquence, l’orientation et la seule honte morale ne suffisent pas à définir ce trouble.",
+      "opening": "Simon a laissé la soupe sous un couvercle et range les feuilles de sa chorale dans un sac de toile. Olivier soulève le couvercle sans prendre de bol. Il avait promis d’être à table un soir de la semaine précédente et n’était descendu qu’une fois que Simon avait fini. Depuis, il cherche une manière de lui parler de la consultation. Les phrases qu’il a préparées commencent toutes par un nombre de soirs. Il se demande s’il voudrait entendre la même chose à la place de Simon.\n\nPlus jeune, Olivier avait cru que son attirance pour les hommes disait quelque chose de mauvais sur lui. Il se rappelle la prudence avec laquelle il changeait de sujet quand ses amis parlaient de rendez-vous. Avant d’aller voir la Dre Lenoir, il lui était arrivé de reprendre ces mêmes jugements pour parler de ses soirées. Il avait d’abord pensé que le rendez-vous porterait sur la fréquence et sur la question de savoir s’il désirait trop. Au cabinet, ils avaient aussi parlé des moments où il voulait s’arrêter, du temps perdu et des engagements devenus difficiles à tenir.\n\nSimon vient s’asseoir et demande s’il peut avoir la louche. Olivier la lui donne. Il veut parler de ce qu’il a décidé pour son suivi. Il voudrait aussi entendre ce qui reste difficile pour Simon. Le sac de chorale est posé près de la porte. Simon regarde l’heure et lui dit qu’il a le temps d’en parler quelques minutes avant de partir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui fait l’objet du suivi",
+          "text": "Un désir intense ou fréquent et une orientation sexuelle font partie de la diversité de la sexualité. La honte liée uniquement à un jugement moral ou à la crainte du rejet ne suffit pas à définir le trouble compulsif du comportement sexuel. Une telle souffrance mérite d’être entendue pour elle-même. Le clinicien examine la capacité à orienter ou interrompre le comportement dans la durée et ce que la difficulté change dans la vie. Pour Olivier, ce travail distingue des jugements anciens sur lui-même et des situations où il n’arrivait plus à revenir à ce qu’il avait décidé de faire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la honte peut-elle se mêler à une difficulté de contrôle sans la définir ?",
+          "points": [
+            {
+              "heading": "Appliquer à son désir un jugement appris",
+              "text": "Une personne peut être très en souffrance à cause de jugements subis ou intériorisés, même quand elle garde la possibilité de décider comment elle agit.",
+              "examples": [
+                "Olivier se rappelle avoir longtemps eu honte de son attirance pour les hommes, avant les difficultés qui l’ont conduit à consulter.",
+                "Une personne renonce à parler de ses relations par peur des réactions de son entourage alors qu’elle choisit librement la place de sa vie intime."
+              ]
+            },
+            {
+              "heading": "Chercher la réponse dans une fréquence",
+              "text": "Compter peut paraître plus simple que parler de ce que la personne arrive à choisir et de l’effet sur ses activités. Le nombre ne dit pas si le comportement reste contrôlable.",
+              "examples": [
+                "Olivier prépare un nombre de soirs et peine à dire pourquoi il n’arrivait pas à passer à table à l’heure convenue.",
+                "Une personne compare sa fréquence à celle que ses amis évoquent et reste inquiète, alors qu’elle peut ajuster ses choix quand elle le souhaite."
+              ]
+            },
+            {
+              "heading": "Voir un effet concret derrière le jugement",
+              "text": "Même quand la honte existe, une difficulté durable de contrôle et ses conséquences méritent d’être décrites pour elles-mêmes.",
+              "examples": [
+                "Olivier revient à ce dîner auquel il tenait et au moment où il a voulu descendre sans arriver à quitter l’écran.",
+                "Une personne se juge durement après une autre sortie manquée. Au suivi, elle décrit ce qu’elle s’était préparée à faire et à quel moment elle a perdu le fil de ce choix."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler de la honte et du contrôle avec des repères différents",
+          "points": [
+            {
+              "heading": "Situer d’où vient un jugement",
+              "objective": "Donner à la souffrance morale ou sociale sa place propre dans la conversation.",
+              "exercise": [
+                "Choisissez une phrase dure que vous vous dites.",
+                "Demandez-vous quand vous l’avez entendue ou apprise.",
+                "Si vous souhaitez en parler, apportez cette phrase à un professionnel qui peut accueillir votre sexualité avec respect."
+              ],
+              "benefit": "Cette démarche peut aider à examiner la honte sans prendre ce jugement pour une conclusion clinique."
+            },
+            {
+              "heading": "Décrire un choix devenu difficile",
+              "objective": "Préciser ce que vous voulez comprendre du comportement au-delà de sa fréquence.",
+              "exercise": [
+                "Nommez une chose que vous vouliez faire à ce moment-là.",
+                "Décrivez ce qui a empêché de la commencer ou de la reprendre.",
+                "Dites si la difficulté s’est répétée et ce qu’elle a changé pour vous."
+              ],
+              "benefit": "Ce récit permet au professionnel de discuter du contrôle et du retentissement à partir de faits."
+            },
+            {
+              "heading": "Rendre une conversation possible sans imposer de détails",
+              "objective": "Distinguer ce que vous choisissez de partager et ce que l’autre souhaite entendre.",
+              "exercise": [
+                "Demandez à votre proche s’il est disponible pour parler.",
+                "Expliquez une conséquence qui le concerne et la démarche que vous engagez.",
+                "Laissez-lui la possibilité de remettre la conversation à un autre moment."
+              ],
+              "benefit": "Une conversation limitée peut permettre d’entendre l’expérience du proche sans l’obliger à prendre une place dans les soins."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux bols sur la table",
+      "ending": "Olivier dit qu’il avait voulu finir ce qu’il faisait et descendre dîner, et qu’il n’y est pas parvenu à l’heure prévue. Il explique qu’il a repris rendez-vous pour travailler ce qui se répète. Simon lui répond que le dîner de la semaine précédente l’a laissé seul à attendre sans savoir s’il devait ranger. Il remplit son bol et s’arrête là. Il voudrait qu’ils reparlent demain de la place qu’il souhaite prendre dans ces échanges. Olivier prend un second bol dans le placard. Le rendez-vous avec la Dre Lenoir reste dans son agenda.",
+      "conclusion": "Olivier peut parler du contrôle et des soirées qui ont changé sans juger son orientation ou son désir. Simon dit ce qu’une soirée d’attente lui a fait et choisit le moment d’en reparler. Au prochain échange, il voudra aussi décider de la distance dont il a besoin.",
+      "mirror": [
+        "Simon peut dire quelle conséquence il souhaite reprendre. « Je peux parler de ce dîner et de ce que j’attendais. Pour le reste, j’ai besoin d’y réfléchir. » Il peut être à l’écoute sans commenter l’orientation ou la fréquence du désir d’Olivier. Il décide du temps qu’il veut consacrer à la discussion et des sujets qu’il veut aborder."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier parle de son suivi et de la difficulté à interrompre le comportement. Simon propose de reparler le lendemain du rôle qu’il souhaite prendre.",
+        "next": "Vendredi, Simon précise la distance et le contact qui lui conviennent, et Olivier prend en charge ses démarches."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "olivier-limites-de-simon",
+      "title": "Quand les engagements manqués fragilisent la confiance dans le couple",
+      "description": "Simon ne veut plus passer ses soirées à attendre. Olivier entend la distance qu’il demande et confie la suite de ses démarches à la consultation.",
+      "context": "Le vendredi soir, chez Olivier et Simon",
+      "topics": [
+        "Confiance dans le couple",
+        "Limites de contact",
+        "Responsabilité personnelle"
+      ],
+      "clinical_focus": "Confiance fragilisée par les engagements manqués",
+      "clinical_intro": "À force de ne pas savoir quand Olivier serait disponible, Simon a commencé à organiser ses soirées autrement. La difficulté persistante d’Olivier à interrompre un comportement sexuel répétitif a pesé sur des engagements qu’ils avaient pris ensemble. Le vendredi, Simon explique ce dont il a besoin. Olivier peut entendre cette demande et poursuivre ses démarches de soin de son côté.",
+      "opening": "Le vendredi, Simon a retourné son sac de chorale sur la table pour retrouver un jeu de clés. Une pince à linge, deux partitions et un ticket de bus sont tombés près du sucrier. Olivier lui montre le jeu suspendu dans l’entrée. Simon ramasse ses partitions sans les remettre dans le sac. Il voudrait reprendre la conversation de la veille avant de faire sa valise. Sa sœur a de la place et il aimerait dormir chez elle quelque temps.\n\nLe dîner de la semaine dernière n’est pas le seul qu’il ait attendu, dit-il. Un autre soir, il avait laissé passer l’heure de partir à une répétition pour savoir si Olivier comptait encore manger avec lui. Depuis, il a pris l’habitude de laisser son sac près de la porte et de partir dès qu’il a fini de dîner. Il aime retrouver les autres chanteurs avant qu’ils se répartissent dans la salle. Il voudrait garder ce moment pour lui. Olivier reconnaît les deux soirs dont Simon parle. Dans les deux cas, il avait cru pouvoir interrompre ce qu’il regardait bien avant de devoir descendre.\n\n« Je veux qu’on garde les textos pour les choses de l’appartement », dit Simon. « Pour parler de nous, j’aimerais te recontacter moi-même. » Olivier se surprend à chercher quelque chose qui lui dirait quand ils se reverront. Il regarde les partitions. Simon en a plié une pour retrouver l’endroit où sa voix entre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui change quand on ne peut plus compter sur un horaire",
+          "text": "Dans le trouble compulsif du comportement sexuel, des difficultés répétées à s’arrêter peuvent avoir des effets concrets sur la vie à deux. Quand un engagement devient incertain, l’autre personne peut modifier ses projets ou choisir de prendre de la distance. Il appartient à la personne suivie de prendre en charge ses démarches et de respecter cette décision.\n\nSimon parle de ses soirées et de la façon dont il souhaite rester en contact. En matière sexuelle, les personnes doivent pouvoir choisir librement et comprendre à quoi elles consentent. L’accord porte sur un acte précis, vient avant cet acte et peut être retiré à tout moment. Le fait d’être en couple, le silence ou un accord passé ne suffisent pas. Le diagnostic ne change rien à ces repères."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la confiance se fragilise-t-elle dans le quotidien du couple ?",
+          "points": [
+            {
+              "heading": "Prévoir autour de l’incertitude",
+              "text": "Quand l’heure annoncée devient peu fiable, l’autre personne peut renoncer à attendre. Ce changement devient visible dans de petites décisions prises pour garder la main sur son temps.",
+              "examples": [
+                "Simon mange désormais avant de partir à la chorale, même si Olivier avait prévu de descendre.",
+                "Dans un autre couple, une personne réserve sa propre place au théâtre après avoir attendu plusieurs fois une confirmation qui n’est pas venue."
+              ]
+            },
+            {
+              "heading": "Craindre qu’un échange devienne une vérification",
+              "text": "Pour savoir s’il peut maintenir un projet, le partenaire peut se retrouver à demander régulièrement où en est l’autre. Il peut dire que ce rôle lui pèse et choisir d’en sortir.",
+              "examples": [
+                "Le soir où il avait répété son message pour demander à quelle heure Olivier descendrait, Simon n’a plus eu le temps de parler avec les autres chanteurs avant l’échauffement.",
+                "Ailleurs, une personne peut renoncer à rappeler chaque soir l’heure d’un départ et prendre le train qu’elle avait prévu."
+              ]
+            },
+            {
+              "heading": "Redéfinir le contact",
+              "text": "Après plusieurs engagements manqués, le partenaire peut vouloir moins d’échanges ou un cadre plus clair. Il décide de la distance qui lui convient et peut la modifier.",
+              "examples": [
+                "Simon choisit de dormir chez sa sœur et de réserver les messages aux questions de l’appartement.",
+                "Dans une autre situation, un partenaire propose de venir chercher ses affaires à une heure précise et de décider plus tard s’il souhaite discuter."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour assumer sa part et respecter la distance demandée",
+          "points": [
+            {
+              "heading": "Reconnaître l’effet d’un engagement manqué",
+              "objective": "Rester sur la conséquence que le partenaire a choisi de nommer.",
+              "exercise": [
+                "Reprenez le fait qu’il vient de citer, comme une heure convenue puis dépassée.",
+                "Reformulez l’effet qu’il décrit dans ses mots.",
+                "Demandez seulement s’il souhaite continuer cette conversation maintenant."
+              ],
+              "benefit": "Cette façon de répondre peut laisser au partenaire la place de dire ce qui l’a touché et de mettre fin à l’échange."
+            },
+            {
+              "heading": "Suivre les modalités de contact",
+              "objective": "Faire en sorte que la distance annoncée existe dans la vie quotidienne.",
+              "exercise": [
+                "Retenez le canal et les sujets que l’autre personne accepte.",
+                "Réservez ce canal aux sujets convenus.",
+                "Attendez que l’autre reprenne contact s’il a demandé à le faire lui-même."
+              ],
+              "benefit": "Une limite respectée peut épargner au partenaire de devoir la redire à chaque message."
+            },
+            {
+              "heading": "Confier la demande d’aide au bon interlocuteur",
+              "objective": "Prendre en charge son suivi sans confier la surveillance au partenaire.",
+              "exercise": [
+                "Repérez une situation où vous avez besoin d’aide pour vous arrêter.",
+                "Repérez comment joindre la personne ou le service qui vous accompagne.",
+                "Apportez cette situation au rendez-vous et demandez quelles ressources seraient adaptées."
+              ],
+              "benefit": "Le besoin d’aide peut être discuté dans le suivi, en laissant au partenaire le choix de sa place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les clés dans la poche du sac",
+      "ending": "Olivier lui dit qu’il comprend ce qu’il demande pour les messages. Il a envie de proposer une date pour reparler. Simon vient de lui dire qu’il prendrait lui-même cette décision. Olivier lui demande seulement s’il sait où sont les clés de la boîte aux lettres. Simon les glisse dans la poche de son sac avec celles de l’entrée.\n\nUne fois la porte refermée, Olivier ouvre le brouillon qu’il avait préparé. Il y avait écrit une question sur les soirs où il pourrait demander à Simon de lui rappeler d’éteindre le téléphone. Il déplace la question dans ses notes pour la Dre Lenoir. Le lendemain, il doit retrouver Élise au Passage. Il garde cette heure et celle du prochain rendez-vous.",
+      "conclusion": "Simon a pris des dispositions pour son temps et son espace. Olivier a une façon concrète d’en tenir compte et un rendez-vous où travailler la difficulté qui se répète. Au Passage, une feuille prête à l’heure donnera à voir une autre conséquence, celle qui reste souvent cachée derrière le travail rendu.",
+      "mirror": [
+        "Simon peut dire ce qu’il veut rendre possible pour lui-même. « Je dors chez ma sœur pour le moment. Je te recontacterai si je veux parler de nous. D’ici là, je garde les textos pour l’appartement. » S’il a besoin d’en parler à quelqu’un, il peut choisir un appui pour lui. Il n’a pas à vérifier le téléphone d’Olivier ni à évaluer ses progrès."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel",
+        "etat-consentement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Simon choisit de dormir chez sa sœur et de limiter les messages aux questions de l’appartement. Olivier respecte sa demande et réserve ses questions de suivi à la Dre Lenoir.",
+        "next": "Le samedi, Olivier retrouve Élise au Passage avec les badges préparés d’après la feuille datée. Il mesure le temps qu’il a pris ailleurs pour les rendre."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "olivier-badges-a-l-heure",
+      "title": "Des obligations tenues au prix de rattrapages invisibles",
+      "description": "Les badges du festival sont prêts. Olivier repense aux heures prises sur ses matinées pour rattraper deux soirs où il n’arrivait pas à s’arrêter.",
+      "context": "Le samedi de la répétition au cinéma Le Passage",
+      "topics": [
+        "Effort de compensation",
+        "Temps de rattrapage",
+        "Charge du bénévolat"
+      ],
+      "clinical_focus": "Effort de compensation derrière les obligations tenues",
+      "clinical_intro": "Les conséquences d’un trouble compulsif du comportement sexuel peuvent passer inaperçues quand la personne rattrape le temps perdu et tient ses engagements. Les badges d’Olivier sont bien arrivés à la répétition du festival. Lui seul sait ce qu’il a dû déplacer pour les finir, et il commence à se demander combien de travail il peut encore prendre.",
+      "opening": "Élise aligne les badges sur le comptoir du Passage et demande à Olivier comment il a fait pour avoir la bonne orthographe de tous les noms. Il a repris la feuille datée, puis vérifié les inscriptions auprès des bénévoles. Farid, qui arrive avec une pile de programmes, se donne aussitôt un autre travail. Il place les badges là où les bénévoles prendront leurs piles samedi prochain. De loin, l’ensemble ressemble à un jeu de cartes en train de se distribuer.\n\nOlivier est content que les noms soient justes. Il se rappelle aussi le mercredi matin où il avait repris la liste avant de partir à l’entrepôt, à l’heure où il marche habituellement jusqu’au pont. La veille, il avait voulu mettre les noms au propre après le briefing. Quand il avait réussi à se détourner des contenus sexuels qu’il regardait, il était déjà trop tard pour appeler les bénévoles. Plus tard dans la semaine, il avait déplacé un café avec un ancien collègue pour relire les badges. Il avait aussi perdu le premier créneau de relecture un soir où il avait voulu s’arrêter plusieurs fois. Il n’y a aucune trace de ces deux matinées sur le comptoir.\n\nÉlise sort un plan du hall et demande qui peut refaire les panneaux qui dirigent les spectateurs vers la salle. Olivier commence à lever la main. Le plan de l’an dernier conviendrait s’ils changeaient une flèche et agrandissaient une lettre. Il regarde le nombre de cases que Farid vient d’annoter. À l’entrepôt, le lundi sera chargé, et la première séance est dans une semaine.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Voir ce que coûte le travail de rattrapage",
+          "text": "Le trouble compulsif du comportement sexuel peut demander des efforts importants pour maintenir le travail, les engagements ou la vie sociale. Quand la personne n’a pas pu se dégager d’un comportement répétitif au moment prévu, le résultat final peut être intact et le reste de la journée remanié. C’est le coût de ces ajustements, dans le temps, qu’il peut être utile d’examiner en consultation.\n\nAu Passage, le nombre de badges préparés est exact. Olivier a aussi passé deux moments qu’il réservait à autre chose à reprendre la tâche. Les deux faits comptent pour comprendre ce qui lui arrive."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le coût du rattrapage peut-il passer inaperçu ?",
+          "points": [
+            {
+              "heading": "Déplacer une tâche vers une plage libre",
+              "text": "La personne fait le travail prévu plus tôt ou plus tard qu’elle ne l’aurait voulu. L’équipe reçoit le résultat sans voir ce que la personne a dû déplacer.",
+              "examples": [
+                "Olivier reprend la liste des bénévoles le mercredi matin avant son service, à l’heure de sa marche jusqu’au pont.",
+                "Dans une autre équipe, un bénévole termine une affiche pendant son samedi libre, après avoir perdu les deux soirs prévus pour la mettre en page."
+              ]
+            },
+            {
+              "heading": "Emprunter du temps à ce qui fait du bien",
+              "text": "Les activités qui n’ont ni date limite ni personne pour réclamer leur résultat offrent une marge de rattrapage. Cette marge peut se réduire à force d’être utilisée.",
+              "examples": [
+                "Pour relire les badges, Olivier remet à plus tard un café avec un ancien collègue qu’il voit peu.",
+                "Ailleurs, une personne envoie les invitations promises à temps en annulant de nouveau l’heure qu’elle voulait passer à la piscine."
+              ]
+            },
+            {
+              "heading": "Garder un emploi du temps sans réserve",
+              "text": "Si chaque rendu exige de prendre sur un autre moment, une petite demande supplémentaire devient difficile à accueillir. La personne peut repérer ce coût alors que les autres voient encore un planning qui tient.",
+              "examples": [
+                "Le changement d’une flèche paraît facile à Olivier, qui ne voit pourtant aucun moment libre pour refaire et imprimer les panneaux.",
+                "Dans une autre situation, une personne remet ses comptes le jour prévu et se rend compte qu’elle n’a plus de créneau pour un imprévu de la semaine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre le rattrapage visible et réduire sa charge",
+          "points": [
+            {
+              "heading": "Lire le résultat et son coût ensemble",
+              "objective": "Faire apparaître le travail et le temps qu’il a fallu reprendre sur le reste.",
+              "exercise": [
+                "Prenez un engagement tenu qui vous a demandé un rattrapage.",
+                "Retrouvez le créneau initial et celui que vous avez finalement utilisé.",
+                "Notez ce que vous avez déplacé pour faire cette place."
+              ],
+              "benefit": "Ce relevé ponctuel peut fournir au suivi une image plus juste qu’une liste des seuls retards."
+            },
+            {
+              "heading": "Vérifier son périmètre avant de s’engager",
+              "objective": "Préserver les engagements pris quand une tâche de plus se présente.",
+              "exercise": [
+                "Vérifiez les tâches dont vous avez déjà la charge.",
+                "Dites ce que vous pouvez prendre et jusqu’à quelle heure.",
+                "Laissez le responsable de l’équipe répartir ce qui reste et confirmer qui s’en occupe."
+              ],
+              "benefit": "La répartition peut empêcher qu’un nouvel engagement repose sur du temps dont vous ne disposez pas."
+            },
+            {
+              "heading": "Apporter un exemple de réussite coûteuse",
+              "objective": "Montrer au professionnel où la difficulté continue d’avoir des effets.",
+              "exercise": [
+                "Choisissez une tâche réussie pour laquelle vous avez dû beaucoup réorganiser votre journée.",
+                "Décrivez le moment où vous souhaitiez vous arrêter et la conséquence sur ce que vous aviez prévu.",
+                "Demandez avec le professionnel quel ajustement vous pourriez essayer sans sacrifier une autre activité."
+              ],
+              "benefit": "L’entretien peut porter sur l’effort réel, même quand le résultat final donne l’impression que tout a été simple."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une flèche et une heure de départ",
+      "ending": "Olivier dit qu’il peut montrer à Inès, une bénévole, où sont les anciens fichiers et l’aider à retrouver le bon format. Il doit quitter le cinéma à midi. Élise demande à Inès si elle peut finir les panneaux avec une autre personne. Inès choisit une deuxième paire de mains et règle l’heure d’impression avec Élise. Le planning des bénévoles reste affiché dans la version que toute l’équipe utilise.\n\nEn rentrant, Olivier passe par le pont. Il a gardé les deux moments pris sur ses matinées en tête. Avant de les oublier, il les note pour le prochain rendez-vous. Il remet aussi le court métrage des berges en haut de sa liste. Il voudrait essayer de le regarder un soir qu’il n’a pas déjà promis de remplir.",
+      "conclusion": "Le travail bien fait a lui aussi une histoire. Olivier peut montrer au suivi les deux matinées qu’il a dû réorganiser, et il a réparti une tâche nouvelle avant qu’elle n’empiète sur un autre moment. Lundi, il voudrait consacrer un créneau à un film qu’il a laissé de côté.",
+      "mirror": [
+        "Élise peut partir du travail visible et vérifier la place qu’il reste. « Les badges sont prêts. Pour les panneaux, est-ce que tu as un créneau, ou est-ce que je cherche quelqu’un ? » Elle peut prendre au sérieux l’heure de départ annoncée et organiser la suite avec les bénévoles disponibles. Olivier choisit ce qu’il raconte à propos de ses matinées."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier garde un rôle limité sur les panneaux et note les deux créneaux qui lui ont servi à rattraper les badges.",
+        "next": "Le lundi, Olivier ressort le court métrage des berges et essaie un ajustement d’accès choisi pour le temps de la projection."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "olivier-changer-acces-au-telephone",
+      "title": "Quand l’accès immédiat rend plus difficile de choisir une autre activité",
+      "description": "Olivier prépare un court métrage et modifie l’accès à son téléphone le temps de le regarder. Il observe ce que ce changement lui permet.",
+      "context": "Le lundi soir chez Olivier, quelques jours avant le festival",
+      "topics": [
+        "Accès immédiat aux contenus",
+        "Aménagement choisi",
+        "Activité prévue"
+      ],
+      "clinical_focus": "Accès immédiat et difficulté à interrompre",
+      "clinical_intro": "Un accès rapide aux contenus peut faire partie des situations où un comportement sexuel répétitif devient difficile à interrompre. Un aménagement choisi avec l’équipe de soins peut aider à garder une autre activité à portée. Olivier aimerait voir le court métrage des berges en entier. Il essaie de modifier la place du téléphone pendant la projection et observe ce que cela change.",
+      "opening": "Le lundi, en arrivant de l’entrepôt, Olivier ouvre le programme du festival à la page où il avait glissé le nom du court métrage des berges. Il retrouve la vidéo sur son ordinateur. Sur la première image, des bottes sont alignées au bord de l’eau. Il pose son téléphone à côté de la tasse. Il peut voir à la fois l’heure et la vidéo. Quand il attend qu’un film démarre ou qu’un fichier s’ouvre, il tend souvent la main sans savoir encore ce qu’il voudrait consulter.\n\nVers la fin de la semaine précédente, il avait remis le film en attente. Cette fois, il était revenu plusieurs fois vers des contenus sexuels sur le téléphone alors qu’il voulait lancer la vidéo sur l’ordinateur. Il se rappelle s’être dit qu’il prendrait sa tasse et irait s’asseoir ailleurs après la prochaine minute. La tasse était restée près de l’écran. Quand la Dre Lenoir lui avait demandé quels changements d’accès il pourrait essayer, il avait pensé à la prise de courant près de l’évier, où il recharge parfois le téléphone.\n\nOlivier a donné à Élise les références des anciens panneaux. Elle a déjà confirmé qu’Inès et une autre bénévole s’en occupent. Aucun changement n’est attendu de sa part ce soir. Le film dure dix-huit minutes. Il regarde une fois l’heure, prend le téléphone et se lève.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Modifier un détail de la situation",
+          "text": "La facilité d’accès peut peser sur la manière de répondre à une envie dans le trouble compulsif du comportement sexuel. Selon la situation, la personne peut essayer avec l’équipe de soins un changement dans son environnement qui lui laisse davantage de temps pour choisir la suite. L’accès à un écran ou le fait d’aimer regarder des contenus sexuels ne suffit pas à caractériser un trouble.\n\nPour Olivier, l’ajustement concerne un moment précis et un appareil personnel. Il veut rendre son film plus facile à commencer et constater ce qui se passe quand le téléphone quitte sa place habituelle."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’accès immédiat pèse-t-il sur les choix ?",
+          "points": [
+            {
+              "heading": "Ouvrir avant d’avoir décidé quoi faire",
+              "text": "Un objet toujours à la même place peut faire partie d’un enchaînement habituel. La personne le prend pour s’occuper quelques instants et reconnaît après coup vers quoi elle s’est tournée.",
+              "examples": [
+                "En attendant que le court métrage s’ouvre, Olivier saisit le téléphone resté près de sa tasse.",
+                "Ailleurs, une personne prend machinalement sa tablette avant une émission qu’elle voulait suivre. Elle se retrouve devant les contenus qu’elle avait décidé de quitter."
+              ]
+            },
+            {
+              "heading": "Rester à portée du même écran",
+              "text": "La proximité permet aussi de retourner rapidement au comportement au moment où la personne voulait le quitter. C’est parfois ce retour qui rend l’alternative plus difficile à démarrer.",
+              "examples": [
+                "La dernière fois, Olivier a gardé le film ouvert et a repris le téléphone plusieurs fois au lieu de lancer la projection.",
+                "Dans une autre soirée, une personne referme le navigateur et le rouvre avant d’avoir pris le livre posé sur le fauteuil."
+              ]
+            },
+            {
+              "heading": "Dépendre de la disponibilité du matériel",
+              "text": "Un même geste peut être plus ou moins facile selon que l’appareil est nécessaire à une tâche, déjà rangé ou tout près. Ces différences offrent des éléments à examiner dans le suivi.",
+              "examples": [
+                "Ce lundi, Élise n’attend aucune confirmation d’Olivier. Le téléphone peut rester à la cuisine pendant le film.",
+                "Un autre soir, une personne attend l’appel de son enfant et essaie de garder la sonnerie accessible tout en préparant sa musique sur un autre appareil."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster l’accès dans une situation précise",
+          "points": [
+            {
+              "heading": "Observer un trajet familier",
+              "objective": "Savoir à quel moment l’accès rapide entre dans ce qui se répète.",
+              "exercise": [
+                "Repérez un moment récent où vous vouliez changer d’activité.",
+                "Notez où était l’appareil et ce pour quoi vous l’aviez pris au départ.",
+                "Apportez cette séquence au suivi sans chercher à la reproduire."
+              ],
+              "benefit": "Le détail peut aider à choisir un aménagement adapté à votre situation réelle."
+            },
+            {
+              "heading": "Choisir un changement à sa mesure",
+              "objective": "Créer un peu d’espace pour une autre décision pendant un créneau limité.",
+              "exercise": [
+                "Choisissez avec le professionnel un moment où le changement est faisable.",
+                "Préparez l’activité voulue et placez l’appareil ailleurs en gardant les appels nécessaires accessibles.",
+                "Après le créneau, regardez à quel moment ce choix vous a aidé ou gêné."
+              ],
+              "benefit": "L’essai peut donner une alternative concrète à tester, sans demander à un proche de tenir le téléphone ou de surveiller son usage."
+            },
+            {
+              "heading": "Préparer les soirs où l’appareil est utile",
+              "objective": "Avoir une façon d’ajuster l’essai quand un appel ou une tâche demande de garder l’appareil.",
+              "exercise": [
+                "Précisez ce pour quoi l’appareil doit rester disponible.",
+                "Cherchez avec le professionnel une autre façon de séparer cet usage de votre activité prévue.",
+                "Revenez sur ce qui a été possible la fois suivante."
+              ],
+              "benefit": "Un ajustement compatible avec vos besoins a plus de chances d’être utilisable dans plusieurs situations."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le générique des berges",
+      "ending": "Olivier laisse le téléphone à la cuisine avec la sonnerie audible. Il vient s’asseoir et lance le film. Au milieu, pendant un plan d’eau presque immobile, il tend la main près de la tasse comme si le téléphone était encore là. Il pense à se lever. La femme aux bottes commence à traverser le cadre et il choisit de rester assis pour voir où elle va.\n\nIl regarde le générique jusqu’au bout, puis reprend le téléphone pour noter un détail. La main était partie vers la tasse avant qu’il pense à la cuisine. Ce soir, le détour par la cuisine lui a laissé quelques secondes pour décider s’il voulait se lever ou rester devant le film. Il veut dire à la Dre Lenoir comment cela s’est passé et se demande ce qu’il pourra essayer un jour où il attend un appel.",
+      "conclusion": "L’envie a encore pris de la place pendant le film. Changer l’accès à l’appareil a rendu possible, ce soir-là, la suite qu’Olivier avait choisie. Si les conditions changent, l’essai pourra être revu. La prochaine consultation permettra de comparer deux soirées qui n’ont pas demandé les mêmes ajustements.",
+      "mirror": [
+        "Comme les panneaux sont déjà pris en charge, Élise peut confirmer à Olivier ce que l’équipe attend de lui. « Inès a le fichier. Tu n’as rien à valider ce soir. » Si un imprévu survient, elle peut le traiter avec les bénévoles désignés. Olivier garde la possibilité de consacrer ce temps à un film et de discuter de l’aménagement du téléphone avec la Dre Lenoir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier pose son téléphone à la cuisine, garde les appels audibles et regarde le court métrage jusqu’au générique.",
+        "next": "Le mardi, il garde le téléphone près de lui en attendant une réponse de l’équipe. La difficulté revient et il la reprend le mercredi en consultation."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "olivier-reprendre-le-suivi-apres-une-reprise",
+      "title": "Quand la difficulté de s’arrêter revient pendant le suivi",
+      "description": "Olivier a regardé son film lundi, puis a de nouveau perdu une partie de sa soirée mardi. Il apporte les deux situations à la Dre Lenoir.",
+      "context": "Le mercredi suivant, à la consultation de santé sexuelle",
+      "topics": [
+        "Retour de la difficulté",
+        "Ajustement du suivi",
+        "Reprise après un écart"
+      ],
+      "clinical_focus": "Retour de la difficulté pendant le suivi",
+      "clinical_intro": "Un changement qui aide un soir peut être plus difficile à reprendre le lendemain. Pendant le suivi d’un trouble compulsif du comportement sexuel, les moments où le comportement reprend donnent des informations utiles sur ce qui reste difficile. Après une soirée où il a pu regarder son film et une autre où il n’a pas réussi à s’arrêter comme prévu, Olivier hésite sur ce qu’il va raconter.",
+      "opening": "Dans la salle d’attente, Olivier reconnaît le bruit du chariot qu’on pousse dans le couloir. Il a ressorti la note du lundi. « Le téléphone était à la cuisine. Film jusqu’au bout. » Il a écrit trois lignes pour mardi, puis raturé le mot « tout » dans « tout a recommencé ». Il regarde le trait que son crayon a creusé dans le papier.\n\nMardi soir, il attendait de savoir si Farid avait retrouvé la pancarte « Réservé » pour la première séance. Il avait gardé le téléphone près de lui pour pouvoir répondre. Farid avait envoyé une photo de la pancarte avant neuf heures. Olivier se rappelle avoir fermé leur échange et avoir ouvert peu après des contenus à caractère sexuel. Il voulait se lever pour aller se coucher. Il a posé le téléphone, l’a repris et s’est finalement retrouvé à éteindre la lampe bien plus tard qu’il ne l’avait prévu. Au réveil, il n’a pas eu besoin de regarder sa note pour savoir quelle soirée lui venait d’abord à l’esprit.\n\nLe matin à l’entrepôt, il a pensé décaler le rendez-vous pour revenir avec une semaine plus facile à raconter. Il a ouvert l’agenda sans toucher à l’heure. Quand Nadia lui a demandé s’il pouvait rester pour un appel en fin de service, il lui a dit qu’il avait rendez-vous. Elle a proposé de prendre l’appel elle-même. Dans la salle d’attente, il sort aussi les deux créneaux où il avait repris les badges. La Dre Lenoir ouvre la porte et lui propose d’entrer. Il garde les papiers dans le même ordre, le film en premier, les ratures juste derrière.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’apprend un retour de la difficulté",
+          "text": "La difficulté à interrompre un comportement sexuel répétitif peut revenir pendant le suivi. Le contexte peut changer d’une fois à l’autre et les ajustements demandent parfois d’être repris avec le professionnel. Un soir difficile ne permet pas de conclure à lui seul sur l’évolution. On peut examiner ce qui avait aidé, ce qui s’est passé cette fois et ce que le comportement continue de coûter.\n\nOlivier a pu regarder le film lundi et n’a pas pu se dégager du téléphone à l’heure prévue mardi. Raconter les deux soirs aide à savoir pour quelles situations son premier essai reste utilisable."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un retour de la difficulté se remarque-t-il pendant le suivi ?",
+          "points": [
+            {
+              "heading": "Retrouver l’ancienne difficulté dans un contexte nouveau",
+              "text": "Un appui choisi pour une situation peut ne pas être disponible ou utile dans une autre. Le retour du comportement invite alors à préciser quand et comment cet appui peut être repris.",
+              "examples": [
+                "Mardi, Olivier garde le téléphone sur la table parce qu’il attend une réponse. L’échange avec Farid est fini quand il ouvre les contenus.",
+                "Dans un autre suivi, une personne arrive à changer d’activité les soirs ordinaires puis ne retrouve pas ce passage lors d’un déplacement."
+              ]
+            },
+            {
+              "heading": "Voir une soirée difficile prendre toute la place",
+              "text": "Après la reprise du comportement, la personne peut avoir du mal à tenir ensemble ce qui a changé et ce qui reste difficile. Il devient utile de revenir à deux événements précis.",
+              "examples": [
+                "Olivier a écrit « tout a recommencé », alors qu’il sait encore raconter comment il a terminé le film lundi.",
+                "Une autre personne a mieux tenu deux soirées prévues et ne parle d’abord que de celle où elle a de nouveau dû annuler son projet."
+              ]
+            },
+            {
+              "heading": "Attendre d’aller mieux avant de retourner au rendez-vous",
+              "text": "L’envie d’apporter seulement des progrès peut rendre le retour au suivi plus difficile. Une difficulté récente peut pourtant y être discutée, même si elle est encore mal comprise.",
+              "examples": [
+                "À l’entrepôt, Olivier ouvre son agenda pour envisager de décaler la consultation du mercredi.",
+                "Ailleurs, une personne garde un message pour sa thérapeute dans ses brouillons parce qu’elle voudrait d’abord retrouver le rythme convenu."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre le fil du suivi après un retour de la difficulté",
+          "points": [
+            {
+              "heading": "Mettre côte à côte deux situations",
+              "objective": "Chercher ce qui diffère entre un moment où l’appui a servi et un autre où le comportement a repris.",
+              "exercise": [
+                "Choisissez un exemple de chaque situation.",
+                "Décrivez en quelques mots ce que vous comptiez faire et ce qui s’est passé.",
+                "Entourez une différence que vous aimeriez examiner en consultation."
+              ],
+              "benefit": "Comparer les circonstances peut faire apparaître un ajustement plus précis que de reprendre la même règle à l’identique."
+            },
+            {
+              "heading": "Se donner une phrase pour le rendez-vous",
+              "objective": "Pouvoir parler d’un retour de la difficulté sans avoir à tout expliquer d’un coup.",
+              "exercise": [
+                "Gardez le rendez-vous prévu, ou reprenez contact si vous devez le déplacer.",
+                "Préparez une première phrase sur le fait que vous hésitez à raconter.",
+                "Demandez au professionnel de vous aider à reprendre cet exemple dans l’ordre."
+              ],
+              "benefit": "Une phrase suffit parfois à ouvrir un échange que la personne repoussait en attendant de trouver une explication."
+            },
+            {
+              "heading": "Définir comment reprendre contact",
+              "objective": "Savoir comment demander de l’aide si l’appui choisi devient de nouveau difficile à utiliser.",
+              "exercise": [
+                "Repérez avec l’équipe l’obstacle rencontré cette fois.",
+                "Convenez d’un seul ajustement à essayer dans une situation ordinaire.",
+                "Demandez à qui vous adresser si la difficulté s’accentue avant le prochain rendez-vous."
+              ],
+              "benefit": "Savoir comment reprendre contact peut rendre plus facile de revenir au plan après une soirée difficile."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Les notes dans le même ordre",
+      "ending": "Olivier pose les deux notes côte à côte. En parlant de mardi, il situe la reprise après la réponse de Farid. La Dre Lenoir lui demande ce qu’il avait prévu de faire à ce moment-là. Il répond qu’il savait quand attendre la photo, mais n’avait rien prévu pour la minute d’après. Ils conviennent qu’un soir où un échange le retient, il essaiera de décider à l’avance ce qu’il fera dès que l’échange sera fini. Il lui montre aussi les deux créneaux pris sur ses matinées. Ils gardent pour le prochain rendez-vous la question du sommeil écourté.\n\nAu secrétariat, Olivier vérifie comment joindre l’équipe entre deux rendez-vous. Il remet la confirmation dans sa poche. La pancarte du festival est retrouvée. Il sait à quelle heure il doit arriver samedi.",
+      "conclusion": "La reprise du mardi a sa place dans le même suivi que l’essai du lundi. Olivier repart avec une façon de préparer la fin d’un échange et de joindre l’équipe si nécessaire. Au festival, il verra aussi ce que les couchers repoussés changent dans une tâche qu’il connaît bien.",
+      "mirror": [
+        "À l’entrepôt, Nadia peut répondre à ce qu’Olivier lui dit de son heure de départ. « Va à ton rendez-vous. Je prends l’appel et je note la réponse dans le dossier. » S’il demande un autre créneau plus tard, elle peut dire ce que l’équipe peut organiser. Olivier garde la décision de parler de la reprise du comportement avec la Dre Lenoir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier maintient le rendez-vous, compare deux soirées et définit avec la Dre Lenoir comment reprendre le fil après un échange.",
+        "next": "Le samedi de l’ouverture, après d’autres couchers tardifs, il mesure sa fatigue en préparant les places réservées au Passage."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "olivier-sommeil-court-et-premiere-seance",
+      "title": "Quand le comportement répétitif rogne le temps de sommeil",
+      "description": "Deux couchers repoussés se font sentir à la caisse du Passage. Olivier adapte sa soirée d’ouverture pour que le festival puisse partir à l’heure.",
+      "context": "Le samedi de l’ouverture du festival Fenêtre courte",
+      "topics": [
+        "Sommeil écourté",
+        "Fatigue le lendemain",
+        "Organisation du relais"
+      ],
+      "clinical_focus": "Sommeil écourté par le comportement répétitif",
+      "clinical_intro": "Lorsqu’un comportement sexuel répétitif se prolonge au-delà du moment où la personne voulait se coucher, il peut réduire le temps dont elle dispose pour dormir. Le lendemain, la fatigue peut se faire sentir jusque dans une tâche familière. Le samedi de l’ouverture du festival, Olivier lit deux fois la liste des places et cherche comment tenir son rôle avec le repos qui lui a manqué.",
+      "opening": "Au Passage, les flèches imprimées par Inès ont été fixées avec un ruban que Farid a déjà dû rabattre près de l’escalier. Olivier les voit en entrant. Le tableau des bénévoles porte toujours la date qu’Élise a annoncée au briefing. Chacun prend son badge au bon endroit. Sur le comptoir de la caisse, il reste une enveloppe par réservation de groupe et une liste à vérifier avant l’ouverture des portes.\n\nOlivier reconnaît les noms. Pourtant il arrive au bas de la page et ne sait plus s’il a compté l’enveloppe bleue. Le jeudi, puis la veille, il avait prévu de se coucher après avoir rangé la cuisine. Il s’était mis à regarder des contenus sexuels et y était revenu alors qu’il voulait déjà aller dormir. Quand il a enfin éteint, il s’est endormi rapidement. Vendredi matin, le réveil de l’entrepôt a sonné comme d’habitude. Ce samedi, il s’était engagé à venir avant les autres pour installer la caisse. Il a repoussé son réveil une fois et fini son café debout.\n\nFarid passe la tête par la porte et demande s’ils pourront ouvrir à l’heure. Olivier remet l’enveloppe bleue devant les autres. Il sait comment faire ce comptage et peut dire à quel endroit il s’est perdu. Élise est près du tableau et vient de répartir les bénévoles pour l’accueil. Olivier se rappelle qu’il s’était aussi inscrit pour le rangement après la dernière séance, bien après l’ouverture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps de sommeil pris sur la nuit",
+          "text": "Un comportement difficile à interrompre peut laisser moins de temps pour les soins personnels, dont le sommeil. Il arrive que la personne puisse s’endormir quand elle se couche enfin, mais qu’elle ait déjà perdu une partie du temps prévu pour dormir. Quand le réveil reste à la même heure, cette perte peut se traduire par de la fatigue ou une attention moins soutenue le lendemain.\n\nDans le récit, Olivier relie le temps écourté aux soirées qu’il n’a pas pu terminer comme prévu. Une fatigue peut avoir plusieurs causes. Si elle dure ou gêne régulièrement les activités, elle mérite d’être discutée avec un professionnel de santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le sommeil peut-il perdre de la place ?",
+          "points": [
+            {
+              "heading": "Repousser le moment d’aller dormir",
+              "text": "La personne a encore la possibilité de se coucher à l’heure prévue quand elle pense pour la première fois à s’arrêter. À force de reprendre le comportement, elle finit par entrer dans la chambre bien plus tard.",
+              "examples": [
+                "Jeudi, Olivier voulait aller dormir après avoir rangé la cuisine et est revenu plusieurs fois au téléphone avant d’éteindre.",
+                "Ailleurs, une personne pose un livre sur son oreiller pour terminer la soirée. Elle revient plusieurs fois à des contenus qu’elle voulait quitter et finit par entrer dans la chambre bien plus tard."
+              ]
+            },
+            {
+              "heading": "Retrouver un réveil qui ne bouge pas",
+              "text": "Une obligation du matin peut empêcher de reprendre le temps de repos perdu. La nuit est alors plus courte même si la personne s’endort vite.",
+              "examples": [
+                "Olivier doit se lever à la même heure pour l’entrepôt, même après un coucher retardé.",
+                "Une personne qui n’a pas réussi à interrompre le comportement se couche plus tard que prévu. Elle doit se lever à l’heure habituelle pour emmener son enfant à l’école."
+              ]
+            },
+            {
+              "heading": "Ressentir la fatigue pendant une tâche connue",
+              "text": "L’attention peut se relâcher au cours d’une activité ordinaire après une nuit écourtée. La personne peut demander un relais en parlant du besoin qui se voit.",
+              "examples": [
+                "Olivier perd le compte en lisant une liste de réservations qu’il a l’habitude de vérifier.",
+                "Dans une autre situation, une personne relit la même ligne d’un devis et remet la vérification avec son collègue à un moment où elle pourra être plus attentive."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver le temps de sommeil et organiser la journée suivante",
+          "points": [
+            {
+              "heading": "Distinguer coucher retardé et endormissement difficile",
+              "objective": "Décrire ce qui prend du temps avant que le sommeil puisse commencer.",
+              "exercise": [
+                "Repérez un ou deux soirs où le repos prévu a été écourté.",
+                "Notez à quel moment vous vouliez vous coucher et ce qui se passait encore à ce moment-là.",
+                "Parlez du lever et de votre état le lendemain avec le professionnel qui vous accompagne."
+              ],
+              "benefit": "Ces précisions peuvent aider à comprendre où le temps de sommeil se perd et si la fatigue demande une évaluation distincte."
+            },
+            {
+              "heading": "Préparer la transition d’un soir ordinaire",
+              "objective": "Chercher avec le suivi une étape qui protège le temps réservé au sommeil.",
+              "exercise": [
+                "Choisissez un soir où le lever est fixé par un engagement.",
+                "Convenez avec l’équipe d’un geste simple pour marquer la fin de l’activité du soir, comme préparer les affaires du lendemain.",
+                "Voyez ensuite si ce geste a rendu le passage vers le coucher plus faisable."
+              ],
+              "benefit": "Un repère choisi peut aider à essayer une autre transition. Il reste possible de le modifier si la difficulté revient."
+            },
+            {
+              "heading": "Prévoir un relais quand l’attention baisse",
+              "objective": "Adapter une tâche du jour aux effets perceptibles de la fatigue.",
+              "exercise": [
+                "Repérez la tâche où vous perdez le fil.",
+                "Dites ce dont vous avez besoin et demandez à la personne qui organise le travail de confirmer le relais.",
+                "Réservez un temps de repos au lieu d’ajouter une nouvelle tâche en fin de journée."
+              ],
+              "benefit": "Un relais prévu peut alléger la journée et laisser à l’équipe des consignes utilisables."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe bleue passe à Inès",
+      "ending": "Olivier dit à Élise qu’il a peu dormi et qu’il a perdu le fil du comptage. Elle demande à Inès de reprendre la vérification à partir de la liste et confirme qu’elle sera au comptoir avec Olivier à l’ouverture. Olivier garde son poste d’accueil. Il demande à se retirer du rangement tardif pendant que l’équipe peut encore s’organiser. Élise vérifie qui est disponible et ajoute le nom convenu sur la feuille datée. Farid annonce l’heure aux bénévoles. La première projection part à l’heure.\n\nOlivier laisse les consignes du lendemain à Inès, accroche son badge dans le bureau et glisse le crayon dans sa poche. Avant de partir, il remarque dans le programme une séance pour laquelle il n’a pris aucun service. Il pourrait revenir en spectateur le dimanche, après s’être reposé.",
+      "conclusion": "Le sommeil raccourci a pesé sur un geste qu’Olivier savait faire. Dire de quelle aide il avait besoin lui a permis de tenir son rôle et de prévoir la suite avec Élise. La première projection est lancée. Le lendemain, il pourra choisir ce qu’il veut faire de son temps au cinéma.",
+      "mirror": [
+        "En voyant Olivier revenir à l’enveloppe bleue, Élise peut proposer une répartition claire. « Inès vérifie les réservations. Tu restes avec moi à l’accueil et on regarde maintenant qui peut prendre le rangement. » Elle peut aussi dire quelles tâches restent à couvrir avant de confirmer le changement. Olivier peut parler de sa fatigue sans raconter sa vie intime à l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel",
+        "ameli-sommeil-et-somnolence"
+      ],
+      "continuity": {
+        "choice": "Olivier signale la fatigue, demande un relais au comptage et se retire du rangement tardif avec l’accord de l’équipe. La première séance commence à l’heure.",
+        "next": "Dimanche, Olivier revient au Passage sans badge de bénévole pour une séance qu’il a choisie dans le programme."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "olivier-choisir-sa-place-au-cinema",
+      "title": "Retrouver la possibilité de choisir même quand l’envie est là",
+      "description": "Olivier revient au festival comme spectateur. Une envie se fait sentir dans la file, et il se donne le temps de choisir ce qu’il veut faire.",
+      "context": "Le dimanche, dernier jour de Fenêtre courte, au Passage",
+      "topics": [
+        "Marge de choix",
+        "Activités qui comptent",
+        "Progrès dans le quotidien"
+      ],
+      "clinical_focus": "Choix possible malgré une envie présente",
+      "clinical_intro": "Le suivi d’un trouble compulsif du comportement sexuel peut aider à retrouver une marge de choix, même lorsque les envies se présentent encore. Les progrès peuvent se remarquer dans une activité que la personne peut enfin entreprendre ou reprendre. Olivier revient au Passage pour voir une projection. Dans la file, il éprouve encore une envie familière et s’aperçoit qu’il peut décider du prochain geste.",
+      "opening": "Le dimanche, Olivier remet le programme à plat sur le banc de l’entrée. Il a dormi plus longtemps et a pris le temps de déjeuner avant de sortir. Dans la poche de son manteau, il y a le crayon avec lequel il vérifie les horaires. Il a laissé le badge au Passage. La séance qu’il a entourée commence en milieu d’après-midi et réunit trois films dont il n’a vu que les titres. D’ordinaire, à cette heure du festival, il compte les réservations de groupe. Il aimerait être dans la salle dès la première image.\n\nSimon lui écrit à propos d’une chemise laissée dans l’entrée. Il veut la prendre mardi et demande qu’elle soit posée sur le banc. Olivier la sort du placard et lui confirme qu’elle y sera. Il vérifie ensuite l’heure de la séance. Simon avait dit qu’il reprendrait lui-même le reste de leur conversation. Le téléphone retourne dans la poche du manteau.\n\nAu Passage, la file avance jusqu’à la deuxième flèche. Farid sort du bureau pour ouvrir une porte et le salue de la main. Olivier s’attend à ce que quelqu’un lui demande d’aller chercher un badge ou de répondre à une question sur le planning. Personne ne le fait. Il entend deux spectatrices comparer les titres. Il a encore quelques minutes à attendre et reconnaît l’envie d’ouvrir des contenus sexuels, comme il l’a fait d’autres fois dans une pause. Il serre le crayon dans sa poche. Devant lui, une femme se décale pour laisser sortir quelqu’un et lui fait signe qu’il peut avancer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie peut être là pendant qu’on choisit",
+          "text": "Dans le trouble compulsif du comportement sexuel, le suivi peut aider à retrouver la possibilité d’agir autrement quand une envie apparaît. La personne peut parfois remarquer ce qui lui vient, puis décider du prochain geste en fonction de ce qui compte pour elle. Un tel moment n’annonce pas que les difficultés ont disparu. Il peut donner une indication concrète sur ce qui redevient possible.\n\nLe repère d’Olivier est simple. Cet après-midi, il peut rester dans la file et entrer pour voir la projection qu’il a choisie. Un autre jour, ce choix pourrait lui demander plus d’appui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une marge de choix peut-elle redevenir perceptible ?",
+          "points": [
+            {
+              "heading": "Reconnaître le moment de décider",
+              "text": "Une envie peut apparaître au milieu d’une activité ordinaire. La personne peut parfois la remarquer assez tôt pour voir ce qu’elle comptait faire juste avant.",
+              "examples": [
+                "En attendant près de la flèche, Olivier reconnaît une envie familière et retrouve l’heure du film qu’il est venu voir.",
+                "Dans une autre situation, une personne ressent une envie en attendant le bus et se rappelle qu’elle veut prendre celui qui arrive."
+              ]
+            },
+            {
+              "heading": "Continuer une activité même si l’envie reste",
+              "text": "La personne peut choisir un geste à sa portée alors que l’envie est encore présente. Ce geste vaut pour le moment où elle peut le faire.",
+              "examples": [
+                "Olivier avance avec la file et commande une place alors que l’envie ne s’est pas encore dissipée.",
+                "Ailleurs, une personne retourne auprès d’un ami et reprend la promenade prévue, même si son attention revient par moments vers le téléphone."
+              ]
+            },
+            {
+              "heading": "Repérer un changement dans ce qu’on peut faire",
+              "text": "Une évolution peut devenir visible dans un loisir repris, un rendez-vous tenu ou une soirée qui retrouve une place. Le sens de ce changement dépend de ce que la personne voulait faire.",
+              "examples": [
+                "Au Passage, Olivier voit le programme comme un spectateur et va s’asseoir dans la salle.",
+                "Une autre personne remarque qu’elle peut de nouveau aller au marché à l’heure où elle avait l’habitude d’y retrouver une amie."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver un choix quand une envie se présente",
+          "points": [
+            {
+              "heading": "Identifier une activité à garder dans sa vie",
+              "objective": "Choisir un repère qui a un sens personnel pour le suivi.",
+              "exercise": [
+                "Pensez à un moment auquel vous aimeriez redonner de la place.",
+                "Décrivez ce que vous feriez, avec une heure et un lieu si cela vous aide.",
+                "Discutez avec le professionnel d’un premier créneau adapté à votre situation."
+              ],
+              "benefit": "Un choix précis peut donner un point de départ qui tient compte de ce que vous souhaitez retrouver."
+            },
+            {
+              "heading": "Faire le prochain geste disponible",
+              "objective": "Continuer une activité choisie dans un moment ordinaire où l’envie est présente.",
+              "exercise": [
+                "Remarquez l’envie si elle se présente d’elle-même.",
+                "Revenez à l’activité que vous vouliez faire et repérez un premier geste possible.",
+                "Essayez ce geste s’il est à votre portée, puis voyez ce qui vous aide à continuer."
+              ],
+              "benefit": "L’expérience peut aider à voir qu’une décision reste parfois possible avant que l’envie ait changé."
+            },
+            {
+              "heading": "Décrire au suivi ce qui est redevenu possible",
+              "objective": "Partager un changement dans la vie quotidienne et ce qui demande encore un appui.",
+              "exercise": [
+                "Choisissez un moment où vous avez pu reprendre une activité qui vous importe.",
+                "Dites ce que vous avez fait et à quel moment cela a été plus difficile.",
+                "Convenez avec le professionnel d’un appui pour une situation où le choix reste plus étroit."
+              ],
+              "benefit": "Parler à la fois d’un progrès concret et d’une difficulté permet de poursuivre le travail à partir de ce qui se passe réellement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une place côté allée",
+      "ending": "Olivier avance. Devant la caisse, il demande une place côté allée pour la séance. Il remarque encore l’envie quand on lui tend le billet. Sur l’autre face du programme, il y a une ligne vide à côté des trois titres. Il s’installe. La première image montre un ballon coincé dans un arbre. Quand les lumières remontent, il note ces quelques mots au crayon et attend un instant avant de se lever.\n\nÀ la sortie de la dernière séance de Fenêtre courte, Élise décroche le planning daté et le garde pour le bilan. Olivier lui remet les anciennes copies rayées qu’il avait gardées dans sa chemise pour qu’elles partent au recyclage. Il glisse le billet dans cette même chemise, à côté de la confirmation de son prochain rendez-vous. Au bout de la rue, il regarde la programmation ordinaire du Passage. Mardi prochain, il aimerait revenir pour un film qu’il ne connaît pas.",
+      "conclusion": "Olivier a pu choisir le film et rester le voir avec une envie encore présente à son arrivée. Le festival a retrouvé un planning commun. Simon choisit quand il souhaite reparler de leur relation. Le prochain rendez-vous d’Olivier est déjà fixé, et le cinéma garde une place dans sa semaine.",
+      "mirror": [
+        "Au Passage, Farid peut accueillir Olivier comme il accueillerait un autre spectateur. « La salle est ouverte, il reste des places côté allée. » Ce geste laisse à Olivier le choix d’en dire davantage sur sa venue ou de profiter du film. Simon peut de son côté garder les échanges pratiques et décider s’il souhaite reparler de leur relation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "wfsbp-comportement-sexuel",
+        "mayo-comportement-sexuel"
+      ],
+      "continuity": {
+        "choice": "Olivier assiste à la séance en spectateur et remet à Élise les anciennes copies du planning pour clore la réparation. Il s’en tient aux échanges pratiques convenus avec Simon.",
+        "next": "Le festival a une feuille de référence pour son bilan. Olivier garde le prochain rendez-vous et envisage de revenir au cinéma la semaine suivante."
+      }
+    }
+  ]
+}

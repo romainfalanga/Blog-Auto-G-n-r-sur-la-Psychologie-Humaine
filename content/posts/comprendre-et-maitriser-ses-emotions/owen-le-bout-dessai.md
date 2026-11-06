@@ -52,7 +52,7 @@ Dire quelque chose à une amie ne vaut pas accord pour qu’elle le répète à 
 
 **Exemples concrets**
 
-- Lucile connaît déjà le bégaiement d’Owen ; Alma n’a pas à lui demander de l’expliquer.
+- Lucile connaît déjà le bégaiement d’Owen. Alma n’a pas à lui demander de l’expliquer.
 - Un jeune peut en parler à un partenaire d’atelier et préférer garder la question privée devant le public.
 
 ### La réponse peut venir plus tard

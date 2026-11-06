@@ -18,7 +18,7 @@
         {
           "role": "explanation",
           "heading": "L’heure qu’on ne sait plus d’où l’on tient",
-          "text": "La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu ; ce matin, l’enjeu est de vérifier l’heure qu’il utilisera."
+          "text": "La maladie d’Alzheimer peut rendre plus difficile la mémorisation d’une information récente et des circonstances dans lesquelles on l’a apprise. Les souvenirs plus anciens et les renseignements récents ne sont pas toujours accessibles de la même manière. Armand reconnaît le chemin du pont bas sans pouvoir replacer les deux billets dans l’ordre. Le diagnostic est déjà connu. Ce matin, l’enjeu est de vérifier l’heure qu’il utilisera."
         },
         {
           "role": "manifestations",
@@ -37,7 +37,7 @@
               "text": "Deux traces lisibles peuvent rester impossibles à départager si on ne se rappelle pas laquelle est arrivée en dernier.",
               "examples": [
                 "Devant les billets de dix et onze heures, Armand reconnaît son écriture sans pouvoir dater la correction.",
-                "Deux notes affichées à la cuisine donnent des jours différents pour une livraison ; le souvenir de l’appel ne suffit plus à trancher."
+                "Deux notes affichées à la cuisine donnent des jours différents pour une livraison. Le souvenir de l’appel ne suffit plus à trancher."
               ]
             },
             {
@@ -140,7 +140,7 @@
               "text": "Une flèche demande parfois de relier un nom, une direction et un détail qu’on ne voit pas encore.",
               "examples": [
                 "Devant le foyer, il manque à Armand un signe qu’il puisse retrouver en arrivant de la rue.",
-                "Un panneau indique « accueil provisoire » ; au tournant suivant, deux portes identiques n’ont plus d’indication."
+                "Un panneau indique « accueil provisoire ». Au tournant suivant, deux portes identiques n’ont plus d’indication."
               ]
             },
             {
@@ -310,7 +310,7 @@
       },
       "clinical_focus": "Mémoire de travail et décision",
       "clinical_intro": "Nadia demande à Armand si elle peut montrer les annotations de sa carte du pont bas. Il tient à garder l’original et doit examiner plusieurs possibilités à la fois. Mettre les options sous ses yeux l’aide à garder une trace de ce qu’il est en train de décider. Son hésitation sur la forme du don laisse intacte l’importance que la carte a pour lui.",
-      "conclusion": "Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction ; la sortie de Jeanne reste une histoire qu’il racontera s’il en a envie."
+      "conclusion": "Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction. La sortie de Jeanne reste une histoire qu’il racontera s’il en a envie."
     },
     {
       "number": 4,
@@ -346,7 +346,7 @@
               "heading": "Les étapes ne demandent pas le même soutien",
               "text": "Lire un courrier, retenir une échéance et reprendre la réponse le lendemain peuvent poser des difficultés différentes.",
               "examples": [
-                "Jeanne a repéré la date de l’enveloppe ; Armand veut garder sa place dans la réponse.",
+                "Jeanne a repéré la date de l’enveloppe. Armand veut garder sa place dans la réponse.",
                 "Une personne peut écrire sa lettre une fois assise et avoir besoin qu’on l’aide à repérer le dossier où la ranger."
               ]
             },
@@ -354,7 +354,7 @@
               "heading": "Deux récits éclairent deux conséquences",
               "text": "La personne et le proche n’observent pas toujours les mêmes moments d’une activité.",
               "examples": [
-                "Armand décrit ses recherches dans ses propres affaires ; Jeanne peut préciser quand une démarche est restée en attente.",
+                "Armand décrit ses recherches dans ses propres affaires. Jeanne peut préciser quand une démarche est restée en attente.",
                 "Au suivi, quelqu’un dit combien d’efforts prend la préparation d’un rendez-vous tandis que son proche décrit les appels nécessaires pour le confirmer."
               ]
             }
@@ -449,7 +449,7 @@
               "heading": "Les réponses proposées font perdre le tour",
               "text": "Plusieurs interventions peuvent rendre plus difficile le retour à la phrase initiale.",
               "examples": [
-                "Un visiteur demande si Nadia doit raconter ; Armand veut seulement qu’elle lui montre l’endroit.",
+                "Un visiteur demande si Nadia doit raconter. Armand veut seulement qu’elle lui montre l’endroit.",
                 "À table, deux personnes proposent des mots en même temps et l’orateur demande où il s’était arrêté."
               ]
             },
@@ -561,7 +561,7 @@
               "text": "Un changement de texte ou de destinataire peut justifier une nouvelle vérification.",
               "examples": [
                 "Nadia réimprime une affiche avec la carte du pont à la place du portrait.",
-                "Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication ; l’équipe vérifie à nouveau l’accord."
+                "Un prénom convenu pour une feuille distribuée en salle réapparaît dans un projet de publication. L’équipe vérifie à nouveau l’accord."
               ]
             }
           ]
@@ -722,7 +722,7 @@
       },
       "clinical_focus": "Charge de l’aidant familial",
       "clinical_intro": "Jeanne veut continuer à voir son père et commence à manquer de temps pour gérer son courrier et ses rendez-vous. Dans la maladie d’Alzheimer, l’aide se compose souvent de petites tâches qui finissent par peser sur un proche. Armand et Jeanne nomment ce qui peut être repris par un relais et ce que chacun souhaite garder.",
-      "conclusion": "Jeanne peut garder un moment avec Armand sans garder chaque jeudi. La demande d’ergothérapie concerne les papiers ; son propre contact de répit répond à une autre question. Ils finissent par ouvrir le paquet ensemble."
+      "conclusion": "Jeanne peut garder un moment avec Armand sans garder chaque jeudi. La demande d’ergothérapie concerne les papiers. Son propre contact de répit répond à une autre question. Ils finissent par ouvrir le paquet ensemble."
     },
     {
       "number": 8,
@@ -740,7 +740,7 @@
         {
           "role": "explanation",
           "heading": "Un rangement se juge au moment où il sert",
-          "text": "Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand ; le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui."
+          "text": "Un repère extérieur peut compenser une difficulté de mémoire dans une tâche précise sans restaurer la mémoire elle-même. Son utilité dépend de ce qu’il faut retrouver et de l’endroit où l’on cherche. Le coin du buffet a d’abord aidé Armand. Le courrier se mélange maintenant aux cartes. L’ergothérapeute l’aide à examiner ce que deux emplacements distincts changent chez lui."
         },
         {
           "role": "manifestations",
@@ -853,7 +853,7 @@
               "heading": "L’attention change nettement",
               "text": "Dans une confusion aiguë, suivre un échange bref peut devenir soudain beaucoup plus difficile.",
               "examples": [
-                "La veille, Armand parlait des cartes ; ce matin, il perd le fil au milieu de quelques mots.",
+                "La veille, Armand parlait des cartes. Ce matin, il perd le fil au milieu de quelques mots.",
                 "Une personne qui échangeait normalement au petit déjeuner ne parvient plus quelques heures plus tard à suivre une question simple."
               ]
             },
@@ -915,7 +915,7 @@
       "ending_title": "La radio éteinte",
       "ending": "L’équipe envoyée prend le relais. Jeanne leur indique qu’Armand a demandé qu’on éteigne la radio ; une soignante se présente près de lui et lui explique qu’ils vont l’emmener pour être examiné. Jeanne retrouve ses lunettes près du journal et les lui tend. Il veut les prendre avec lui. Après le départ, elle prévient Nadia que le rendez-vous doit être reporté. Elle laisse le carton gris au pied du buffet. Le plat du déjeuner est encore fermé et, dans le couloir, la porte qu’elle a poussée en entrant est restée entrouverte.",
       "mirror": [
-        "Devant la rupture avec l’échange de la veille, Jeanne peut dire : « Je vois que quelque chose a changé très vite. J’appelle le 15 et je reste près de toi. » Elle peut décrire ce qu’elle constate et signaler le diagnostic connu, sans attendre d’avoir une explication. Même si Armand a par moments l’air plus présent, Jeanne suit l’orientation donnée et passe le relais à l’équipe. Le rendez-vous au foyer se reporte après l’appel urgent."
+        "Devant la rupture avec l’échange de la veille, Jeanne peut dire : « Je vois que quelque chose a changé très vite. J’appelle le 15 et je reste près de toi. » Elle peut décrire ce qu’elle constate et signaler le diagnostic connu, sans attendre d’avoir une explication. Même si Armand a par moments l’air plus présent, Jeanne suit l’orientation donnée et passe le relais à l’équipe. Le rendez-vous à la bibliothèque est reporté après l’appel urgent."
       ],
       "sources": [
         "oms-cddr",
@@ -928,7 +928,7 @@
       },
       "clinical_focus": "Confusion aiguë et vigilance",
       "clinical_intro": "Jeanne trouve Armand très différent de la veille. Il peine à suivre quelques mots et son attention décroche au milieu d’une phrase. Ce changement rapide peut indiquer une confusion aiguë, y compris chez une personne déjà suivie pour Alzheimer. Jeanne appelle aussitôt le 15 et décrit ce qui a changé ainsi que la dernière fois où il lui semblait dans son état habituel.",
-      "conclusion": "La veille, Armand avait pu discuter de ses cartes. Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite. Le rendez-vous à la bibliothèque attend ; l’équipe médicale a pris le relais."
+      "conclusion": "La veille, Armand avait pu discuter de ses cartes. Le dimanche, la différence est assez nette pour que Jeanne appelle tout de suite. Le rendez-vous à la bibliothèque attend. L’équipe médicale a pris le relais."
     },
     {
       "number": 10,
@@ -1122,7 +1122,7 @@
       "ending_title": "Un exemplaire dans le carton vide",
       "ending": "Armand confirme le don des trois originaux. Nadia reprend avec lui la liste, une carte après l’autre, puis lui remet son exemplaire. Ils ajoutent à l’affiche le samedi à dix heures. Nadia gardera près d’elle la légende et une chaise restera libre au bord de la table pour qu’Armand puisse s’y asseoir quand il arrive. Il repart avec le carton gris vide, sauf la feuille. Dans la cour, il se rend compte qu’il le tient encore à deux mains. Il le passe sous son bras et se retourne pour regarder où l’affiche sera posée.",
       "mirror": [
-        "Si Jeanne accompagne Armand jusqu’au foyer, elle peut lui demander : « Tu veux que je garde ton exemplaire de la liste, ou tu le mets dans le carton ? » Elle peut le laisser demander à Nadia de distinguer le pont imprimé de l’original. Si Armand veut s’arrêter, elle peut l’appuyer dans cette demande. Nadia peut préciser les conditions du don et tenir la légende prête pour samedi ; Jeanne peut lui dire si elle n’est pas libre pour la rencontre."
+        "Si Jeanne accompagne Armand jusqu’à la bibliothèque, elle peut lui demander : « Tu veux que je garde ton exemplaire de la liste, ou tu le mets dans le carton ? » Elle peut le laisser demander à Nadia de distinguer le pont imprimé de l’original. Si Armand veut s’arrêter, elle peut l’appuyer dans cette demande. Nadia peut préciser les conditions du don et tenir la légende prête pour samedi. Jeanne peut lui dire si elle est disponible pour la rencontre au foyer."
       ],
       "sources": [
         "oms-cddr",
@@ -1171,7 +1171,7 @@
               "heading": "Le cadre peut devenir plus exigeant",
               "text": "Plusieurs voix ou de nouvelles arrivées changent la difficulté d’un échange pourtant bien commencé.",
               "examples": [
-                "Deux questions se croisent quand les visiteurs entrent par la cour ; Armand passe la légende à Nadia.",
+                "Deux questions se croisent quand les visiteurs entrent par la cour. Armand passe la légende à Nadia.",
                 "Une personne répond à son voisin de table, puis préfère écouter quand la conversation se disperse entre plusieurs groupes."
               ]
             },

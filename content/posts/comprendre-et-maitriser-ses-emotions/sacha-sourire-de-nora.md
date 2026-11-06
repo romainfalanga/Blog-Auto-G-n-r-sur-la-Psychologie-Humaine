@@ -50,7 +50,7 @@ Un sourire ou un silence peut être interprété sans que son sens soit connu.
 
 **Exemples concrets**
 
-- Nora sourit et se penche vers sa chaussure ; Sacha s’interroge sur ce qu’elle a voulu dire.
+- Nora sourit et se penche vers sa chaussure. Sacha s’interroge sur ce qu’elle a voulu dire.
 - Après un appel, une personne relit un message bref comme un signe d’agacement sans autre indication.
 
 ### Le souvenir oriente déjà la prochaine décision

@@ -37,7 +37,7 @@ La psychothérapie peut examiner les liens entre pensées, émotions et comporte
 
 ### Ce qui précède peut être mêlé
 
-Plusieurs circonstances et émotions peuvent précéder un épisode ; leur présence ne permet pas d’établir une cause unique.
+Plusieurs circonstances et émotions peuvent précéder un épisode. Leur présence ne permet pas d’établir une cause unique.
 
 **Exemples concrets**
 

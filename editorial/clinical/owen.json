@@ -129,7 +129,7 @@
         {
           "role": "explanation",
           "heading": "Le même propos dans deux situations",
-          "text": "Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.\n\nOwen bute sur « sac » pendant que M. Vasseur cherche une décision avant la sonnerie. Le temps restant est une contrainte réelle pour réserver le préau. En traitant cette réservation séparément, le groupe peut accorder à l’idée d’Owen le temps de discussion qui lui manquait."
+          "text": "Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations. L’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.\n\nOwen bute sur « sac » pendant que M. Vasseur cherche une décision avant la sonnerie. Le temps restant est une contrainte réelle pour réserver le préau. En traitant cette réservation séparément, le groupe peut accorder à l’idée d’Owen le temps de discussion qui lui manquait."
         },
         {
           "role": "manifestations",
@@ -438,7 +438,7 @@
         {
           "role": "explanation",
           "heading": "Ce que l’auditeur a compris",
-          "text": "On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.\n\nLina a entendu Owen s’arrêter puis terminer sa réplique. Sa question sur la peur du personnage lui montre ce qui est passé dans le jeu. Un retour de spectateur peut ainsi porter sur le sens, le ton ou le récit, que la parole ait été fluide ou qu’un mot ait bloqué."
+          "text": "On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise. Ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.\n\nLina a entendu Owen s’arrêter puis terminer sa réplique. Sa question sur la peur du personnage lui montre ce qui est passé dans le jeu. Un retour de spectateur peut ainsi porter sur le sens, le ton ou le récit, que la parole ait été fluide ou qu’un mot ait bloqué."
         },
         {
           "role": "manifestations",
@@ -542,7 +542,7 @@
         {
           "role": "explanation",
           "heading": "Dire ce qu’on attend du micro",
-          "text": "Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.\n\nOwen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage ; leur comparaison ne fixe pas ce que sera sa parole au prochain essai."
+          "text": "Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.\n\nOwen préfère le ton de la seconde prise alors qu’il y reprend le début de « poignée ». La première lui a demandé un effort différent et raconte le personnage autrement. Les deux fichiers servent à décider ce que l’on cherche au montage. Leur comparaison ne fixe pas ce que sera sa parole au prochain essai."
         },
         {
           "role": "manifestations",
@@ -664,7 +664,7 @@
               "heading": "Le choix dépend du destinataire et du contexte",
               "text": "Dire quelque chose à une amie ne vaut pas accord pour qu’elle le répète à d’autres personnes.",
               "examples": [
-                "Lucile connaît déjà le bégaiement d’Owen ; Alma n’a pas à lui demander de l’expliquer.",
+                "Lucile connaît déjà le bégaiement d’Owen. Alma n’a pas à lui demander de l’expliquer.",
                 "Un jeune peut en parler à un partenaire d’atelier et préférer garder la question privée devant le public."
               ]
             },
@@ -767,7 +767,7 @@
               "heading": "La personne enregistrée a son propre point d’écoute",
               "text": "Un partenaire peut juger un raccord commode alors que la personne entend autre chose dans sa prise.",
               "examples": [
-                "Nassim pense d’abord au départ du bus ; Owen revient à la façon dont il joue la phrase entière.",
+                "Nassim pense d’abord au départ du bus. Owen revient à la façon dont il joue la phrase entière.",
                 "Dans un entretien filmé, un participant peut préférer garder sa pause parce qu’elle laisse une place à ce qu’il dit ensuite."
               ]
             },

@@ -90,8 +90,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/alix-ce-qui-entre-dans-le-roulement/">Parler du retentissement au travail en choisissant ce que l’on partage</a></h3>
-    <p class="parcours-resume">À la coopérative, Laurent a besoin de savoir qui peut ouvrir et animer. Alix sait que ses périodes de variation compliquent certains horaires et veut en parler assez pour revoir le roulement. Le retentissement d’un trouble cyclothymique peut faire l’objet d’un accord de travail sans obliger la personne à raconter ses soins. La scène montre comment Alix décide du détail utile.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/alix-ce-qui-entre-dans-le-roulement/">Quand les variations d’énergie rendent les engagements au travail difficiles à prévoir</a></h3>
+    <p class="parcours-resume">Laurent a besoin de savoir qui ouvrira le magasin et animera l’atelier. Alix voit que ses variations d’énergie lui rendent difficile de prévoir ce qu’il pourra assurer d’un samedi à l’autre. Dans le trouble cyclothymique, ce décalage peut peser sur la fiabilité des engagements au travail. Il cherche avec Laurent une façon de les prendre à partir de ses possibilités réelles.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/alix-ce-qui-entre-dans-le-roulement/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

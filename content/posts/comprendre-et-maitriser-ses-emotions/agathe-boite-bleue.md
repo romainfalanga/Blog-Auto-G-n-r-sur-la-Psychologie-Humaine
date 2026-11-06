@@ -32,7 +32,7 @@ Elle revint vers Camille avec un sachet de pois. « Tu me montres où celui-là 
 
 ## Entendre les mots, retrouver l’ordre
 
-Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde.
+Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée. Il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde.
 
 Au cabanon, Agathe commence par l’objet qu’elle a reconnu. Camille peut lui montrer où mettre un sachet, puis rendre la suite visible une étape à la fois. Pour savoir si cette explication sert au groupe, elle peut demander où irait un autre sachet et regarder le choix des élèves.
 

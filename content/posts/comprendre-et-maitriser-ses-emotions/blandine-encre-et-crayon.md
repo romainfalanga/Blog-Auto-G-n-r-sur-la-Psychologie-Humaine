@@ -32,7 +32,7 @@ Léon demande s’il peut noter pour le prochain jeudi l’essai qu’ils vienne
 
 ## La place qu’un objet prend dans une journée
 
-Un objet du proche décédé peut porter un souvenir auquel on tient et occuper, certains jours, une place qui change ce qu’on arrive à faire. Dans l’évaluation d’un deuil prolongé, conserver un objet ne dit rien à lui seul ; on examine aussi l’effet durable des préoccupations et de la douleur. Blandine tient à garder Les Saules pour elle et accepte de discuter de l’usage de deux autres feuilles.
+Un objet du proche décédé peut porter un souvenir auquel on tient et occuper, certains jours, une place qui change ce qu’on arrive à faire. Dans l’évaluation d’un deuil prolongé, conserver un objet ne dit rien à lui seul. On examine aussi l’effet durable des préoccupations et de la douleur. Blandine tient à garder Les Saules pour elle et accepte de discuter de l’usage de deux autres feuilles.
 
 ## Comment un objet du proche peut-il avoir plusieurs places ?
 

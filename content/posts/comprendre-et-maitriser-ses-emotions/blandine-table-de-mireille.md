@@ -50,7 +50,7 @@ Se rassembler, apporter un objet ou prendre une photo peut répondre à des usag
 
 **Exemples concrets**
 
-- Blandine apporte le dossier pour retrouver à qui appartient un feuillet ; elle ne souhaite pas que son image circule.
+- Blandine apporte le dossier pour retrouver à qui appartient un feuillet. Elle ne souhaite pas que son image circule.
 - Une personne veut participer à un repas du souvenir et préfère ne pas figurer sur la photo envoyée au reste de la famille.
 
 ### Les proches et la personne ne regardent pas les mêmes périodes
@@ -108,4 +108,4 @@ Mireille prend la photo après que Blandine a rapproché du plat la carte au nom
 
 **Conclusion**
 
-La carte de Jeanne et le feuillet destiné à sa mère n’ont pas la même place dans ce déjeuner. Blandine peut décider de ce qu’elle transmet. L’émotion de ce jour a son contexte ; les effets durables du manque se discutent au fil du suivi.
+La carte de Jeanne et le feuillet destiné à sa mère n’ont pas la même place dans ce déjeuner. Blandine peut décider de ce qu’elle transmet. L’émotion de ce jour a son contexte. Les effets durables du manque se discutent au fil du suivi.

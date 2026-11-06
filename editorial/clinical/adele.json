@@ -362,7 +362,7 @@
               "text": "Le numéro d’une salle et la personne qui peut l’ouvrir font partie de l’aménagement.",
               "examples": [
                 "La responsable prévoit de remettre la clé aux accompagnateurs aux heures convenues.",
-                "Un local calme est disponible à midi mais sert à une réunion au dîner ; l’équipe doit vérifier l’autre option prévue."
+                "Un local calme est disponible à midi mais sert à une réunion au dîner. L’équipe doit vérifier l’autre option prévue."
               ]
             }
           ]
@@ -542,7 +542,7 @@
         {
           "role": "explanation",
           "heading": "Ce qui motive la restriction ne se voit pas de l’extérieur",
-          "text": "Dans l’ARFID, la restriction alimentaire n’est pas motivée par le poids ou la silhouette. Elle peut être liée à des sensations, à la crainte d’une conséquence pénible ou à un faible intérêt pour l’alimentation. Ces difficultés peuvent se combiner et leur évaluation appartient à des professionnels. Pour Adèle, la difficulté est sensorielle ; la question du camarade sur un régime ne renseigne pas sur ce qu’elle éprouve."
+          "text": "Dans l’ARFID, la restriction alimentaire n’est pas motivée par le poids ou la silhouette. Elle peut être liée à des sensations, à la crainte d’une conséquence pénible ou à un faible intérêt pour l’alimentation. Ces difficultés peuvent se combiner et leur évaluation appartient à des professionnels. Pour Adèle, la difficulté est sensorielle. La question du camarade sur un régime ne renseigne pas sur ce qu’elle éprouve."
         },
         {
           "role": "manifestations",
@@ -566,7 +566,7 @@
             },
             {
               "heading": "L’intéressé peut choisir à qui parler de son vécu",
-              "text": "L’équipe de soins peut avoir besoin de comprendre les motifs ; un camarade n’a pas à les connaître.",
+              "text": "L’équipe de soins peut avoir besoin de comprendre les motifs. Un camarade n’a pas à les connaître.",
               "examples": [
                 "Adèle dit à Inès qu’elle a prévu les repas avec les adultes et qu’elle préfère s’en tenir là.",
                 "Une personne décrit ses difficultés sensorielles au professionnel qui la suit et demande à ses collègues de ne pas commenter son assiette."
@@ -748,7 +748,7 @@
         {
           "role": "explanation",
           "heading": "Quand le repas occupe aussi l’attention",
-          "text": "Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès ; en surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre."
+          "text": "Pour une personne suivie pour un ARFID, la difficulté de manger et l’environnement du repas peuvent mobiliser l’attention au détriment d’un échange. Le repas peut être possible avec les appuis prévus et la conversation demander encore un effort. Adèle a choisi d’être près d’Inès. En surveillant les mouvements derrière sa chaise, elle perd le début d’une histoire qu’elle aurait aimé entendre."
         },
         {
           "role": "manifestations",
@@ -1058,7 +1058,7 @@
         {
           "role": "explanation",
           "heading": "Le groupe voit le retour, pas toujours le chemin",
-          "text": "Dans l’ARFID, participer à un projet avec les autres peut rester possible alors que les repas demandent encore un appui important. Une aide adaptée peut permettre de rejoindre l’activité ; l’effort fourni ne devient pas pour autant visible aux camarades. Adèle demande le cadre convenu au petit déjeuner et retrouve Inès pour présenter le dessin. Les deux moments disent des choses différentes sur sa matinée."
+          "text": "Dans l’ARFID, participer à un projet avec les autres peut rester possible alors que les repas demandent encore un appui important. Une aide adaptée peut permettre de rejoindre l’activité. L’effort fourni ne devient pas pour autant visible aux camarades. Adèle demande le cadre convenu au petit déjeuner et retrouve Inès pour présenter le dessin. Les deux moments disent des choses différentes sur sa matinée."
         },
         {
           "role": "manifestations",
@@ -1171,7 +1171,7 @@
               "heading": "Des observations différentes éclairent une même journée",
               "text": "Le jeune peut décrire l’effort que l’entourage n’a pas vu tandis qu’un adulte se rappelle ce qui a pu être fait.",
               "examples": [
-                "Eva retient qu’Adèle est restée dormir ; Adèle repense à la difficulté de refaire comme à midi.",
+                "Eva retient qu’Adèle est restée dormir. Adèle repense à la difficulté de refaire comme à midi.",
                 "Un parent dit que la sortie a eu lieu et le jeune raconte combien de temps il a cherché l’aide convenue."
               ]
             },

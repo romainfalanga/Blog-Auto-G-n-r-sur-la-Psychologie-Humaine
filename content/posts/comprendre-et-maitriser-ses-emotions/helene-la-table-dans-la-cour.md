@@ -31,7 +31,7 @@ En rentrant chercher les couverts pour vérifier qu’il y en a assez, Hélène 
 
 ## Une aide utile dépend aussi du moment où on la demande
 
-Des consignes de travail peu explicites peuvent demander un effort supplémentaire à une personne qui vit avec un trouble du développement intellectuel. Adapter la consigne peut être utile ; la personne garde le choix du moment et de l’interlocuteur avec qui la reprendre. Hélène veut savoir si l’horaire du dépôt change pour elle. Ce dimanche, elle préfère finir d’organiser le dîner avec Léa et poser la question à Maud le lendemain.
+Des consignes de travail peu explicites peuvent demander un effort supplémentaire à une personne qui vit avec un trouble du développement intellectuel. Adapter la consigne peut être utile. La personne garde le choix du moment et de l’interlocuteur avec qui la reprendre. Hélène veut savoir si l’horaire du dépôt change pour elle. Ce dimanche, elle préfère finir d’organiser le dîner avec Léa et poser la question à Maud le lendemain.
 
 ## Comment une consigne de travail vient-elle prendre de la place chez soi ?
 
@@ -50,7 +50,7 @@ Si quelqu’un donne la réponse avec tout son raisonnement, il reste parfois de
 
 **Exemples concrets**
 
-- Léa tend la main vers l’écran ; Hélène connaît la façon dont elles finissent d’habitude par relire le planning.
+- Léa tend la main vers l’écran. Hélène connaît la façon dont elles finissent d’habitude par relire le planning.
 - Un proche propose trois interprétations d’un message alors que seule l’équipe peut confirmer le lieu.
 
 ### Reporter laisse une place au moment présent

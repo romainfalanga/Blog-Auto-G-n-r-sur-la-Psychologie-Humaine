@@ -78,8 +78,8 @@ reading_topics:
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/esmee-quand-ines-demande-quoi-faire/">Accepter du soutien sans demander à un proche de surveiller</a></h3>
-    <p class="parcours-resume">Inès sait qu’Esmée est accompagnée pour sa trichotillomanie et lui demande si elle doit la prévenir lorsqu’elle pense remarquer une difficulté. Esmée redoute de se sentir observée au stand. Certaines formes de soutien peuvent aider lorsqu’elles sont choisies ensemble. Le récit montre comment les deux amies s’accordent sur une pause annoncée par Esmée et sur ce qu’Inès peut réellement prendre en charge.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/esmee-quand-ines-demande-quoi-faire/">Quand se sentir surveillée complique la reprise d’une activité</a></h3>
+    <p class="parcours-resume">Inès voudrait aider et propose de prévenir Esmée si elle la voit hésiter. Esmée imagine aussitôt la table du marché et l’effort qu’il lui faudrait pour suivre ce qu’Inès remarque. La gêne associée à la trichotillomanie peut prendre davantage de place si la personne se sent observée. Esmée choisit un appui qui lui laisse l’initiative de signaler son besoin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/esmee-quand-ines-demande-quoi-faire/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

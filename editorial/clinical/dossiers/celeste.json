@@ -1,0 +1,45 @@
+{
+  "references": {
+    "isst-d-tdi": {
+      "title": "ISSTD, recommandations de prise en charge du trouble dissociatif de l’identité chez l’adulte, 2011",
+      "url": "https://www.isst-d.org/wp-content/uploads/2025/12/GUIDELINES_REVISED2011.pdf"
+    },
+    "apa-trauma-complexe": {
+      "title": "American Psychological Association, recommandations de pratique pour le travail avec des adultes ayant vécu des traumatismes complexes, 2024",
+      "url": "https://www.apa.org/practice/guidelines/adults-complex-trauma-histories.pdf"
+    },
+    "ameli-bilan-memoire": {
+      "title": "Assurance Maladie, bilan des troubles de la mémoire",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-memoire/consultation-traitement"
+    },
+    "ameli-troubles-memoire": {
+      "title": "Assurance Maladie, quand consulter pour des troubles de la mémoire",
+      "url": "https://www.ameli.fr/assure/sante/themes/troubles-memoire/que-faire-quand-consulter"
+    }
+  },
+  "direction": "Céleste a 34 ans, dessine des bijoux dans un collectif et connaît son diagnostic avant l’ouverture. Elle regarde le profil des pièces, conserve ses essais et a le goût des solutions qu’une autre main peut reproduire. Anouk, son amie d’atelier, assemble les broches avec elle et négocie son temps. Rachid tient le registre du collectif et Jeanne prépare la vitrine. La série des Reflets du passage comprend six broches en laiton et verre de récupération. Deux sont présentées à Jeanne un vendredi pour l’essai. Les six sont réunies pour l’ouverture le vendredi suivant. Suivre la fiche B, la réglette transparente, le trait bleu sur le registre et le carton à six places. Le temps manquant ne sert ni de suspense ni de récit caché. Donner à voir un changement du sentiment de soi sans amnésie, puis une intrusion pendant que Céleste poursuit une tâche, et situer séparément une perception de voix, le détachement et l’effet des lacunes sur les engagements. Pour un changement inhabituel des oublis, le médecin examine la situation séparément de la psychothérapie. La thérapeute spécialisée travaille avec Céleste sur les conséquences présentes et le rythme du suivi. Aucun proche ne sollicite, ne nomme ou ne joue un état d’identité, ne fait reconstituer un souvenir et ne décide de ce que Céleste doit confier. Les repères sont consentis et limités aux tâches. L’histoire se termine sur les six pièces présentées et un rôle viable, avec des difficultés qui peuvent revenir et un suivi qui continue.",
+  "dossier": {
+    "name": "Trouble dissociatif de l’identité",
+    "aliases": [
+      "TDI"
+    ],
+    "references": [
+      "oms-cddr",
+      "isst-d-tdi",
+      "apa-trauma-complexe",
+      "ameli-bilan-memoire",
+      "ameli-troubles-memoire"
+    ],
+    "points": [
+      "Dans la CIM-11, le trouble dissociatif de l’identité (6B64) implique une perturbation de l’identité avec des discontinuités marquées dans le sentiment d’être soi et d’être l’auteur de ses actes. Au moins deux états identitaires distincts prennent de façon récurrente la conduite du fonctionnement dans différentes situations ou activités. L’alternance peut s’accompagner de changements dans l’expérience, le comportement, la perception et la mémoire. Un changement d’humeur, de goût ou de registre de parole pris isolément ne permet aucune conclusion. OMS, CDDR, 6B64, « Essential (required) features » et « Boundaries with other disorders and conditions », pp. 382–383 et 385–387.",
+      "Les périodes d’amnésie qui dépassent l’oubli ordinaire sont typiques. Elles peuvent concerner des activités de la vie courante. Un changement d’état ne s’accompagne pas toujours d’amnésie. Une personne peut se rappeler ce qu’elle a fait tout en décrivant une modification marquée de son expérience d’elle-même ou de son action. Le retentissement se mesure aussi à l’effort supplémentaire quand les activités restent possibles. OMS, CDDR, 6B64, « Essential (required) features » et « Additional clinical features », p. 383.",
+      "Des intrusions de pensées, d’émotions, de sensations ou de perceptions peuvent interférer avec l’activité sans que sa conduite change. Elles sont possibles dans le TDI comme dans le TDI partiel (6B65). Dans ce dernier, un état prédomine dans la vie ordinaire. Les autres peuvent interférer, avec parfois une prise de conduite brève et circonscrite, sans prise en charge récurrente de pans de la vie quotidienne comme dans le TDI. Une intrusion isolée ne départage pas ces diagnostics. OMS, CDDR, 6B64, « Additional clinical features », p. 383, et « Boundary with partial dissociative identity disorder », p. 386, puis 6B65, pp. 387–388.",
+      "Un vécu de dépersonnalisation ou de déréalisation peut accompagner le TDI. Dans la dépersonnalisation, une personne peut se sentir à distance de ses gestes ou d’elle-même. Dans la déréalisation, l’environnement peut lui sembler irréel tout en restant identifié comme réel. Ces expériences n’établissent ni un changement d’état identitaire ni un autre diagnostic dissociatif. L’amnésie dissociative et le trouble de dépersonnalisation-déréalisation ont leurs descriptions propres. Des lacunes qui ne surviennent que pendant des épisodes du TDI ne justifient pas un diagnostic d’amnésie dissociative en plus. Dans le trouble de dépersonnalisation-déréalisation, le vécu de détachement est persistant ou récurrent et s’évalue en tenant compte des autres causes possibles. OMS, CDDR, 6B64, « Boundary with other dissociative disorders », p. 386, 6B61 et 6B66.",
+      "Entendre une voix ou éprouver une pensée intrusive peut se rencontrer dans le TDI comme dans des troubles psychotiques. L’évaluation tient compte de l’ensemble de l’évolution et d’autres manifestations, notamment des convictions délirantes, d’une désorganisation du discours ou de manifestations négatives lorsqu’elles sont présentes. Le seul caractère interne ou externe d’une voix ne permet pas de conclure. Des expériences dissociatives peuvent aussi se produire dans le TSPT et le TSPT complexe. Le clinicien les situe par rapport à la reviviscence et à la continuité identitaire. OMS, CDDR, 6B64, « Boundary with schizophrenia and other primary psychotic disorders » et « Boundary with post-traumatic stress disorder and complex post-traumatic stress disorder », p. 386.",
+      "L’évaluation examine les autres explications possibles. Certains effets de substances ou de médicaments, troubles du sommeil ou affections neurologiques peuvent entraîner des signes qui se ressemblent. Des oublis qui s’aggravent, se modifient ou gênent le quotidien justifient un avis médical. Il ne faut pas attribuer d’emblée une modification au trouble connu. L’épisode présente une consultation pour des changements observés sur plusieurs jours, distincte des situations aiguës. L’Assurance Maladie recommande d’appeler le 15 ou le 112 en France quand les troubles de mémoire apparaissent brutalement avec des signes neurologiques tels qu’une difficulté à parler ou une faiblesse d’un membre. OMS, CDDR, 6B64, « Essential (required) features », p. 383, et Assurance Maladie, « Quand consulter » et « Bilan médical et diagnostic ».",
+      "L’évolution du TDI est généralement fluctuante. Une période où une tâche coûte moins d’effort peut être suivie d’un retour de difficultés, notamment dans un contexte plus éprouvant. L’observation d’une association dans le récit n’établit pas la cause d’un changement. La réussite d’une activité, le retour de symptômes et le suivi spécialisé peuvent coexister. OMS, CDDR, 6B64, « Course features », p. 384.",
+      "Les recommandations spécialisées de l’ISSTD, qui relèvent d’un consensus clinique, donnent une place à l’alliance, à la sécurité et à la continuité de la vie quotidienne. Les recommandations de pratique de l’APA sur les traumatismes complexes soutiennent la décision partagée et la prise en compte des préférences. Les scènes n’imposent ni calendrier, ni traitement standard, ni perspective de guérison. Une fiche d’atelier, une pause ou une répartition du travail sont des aménagements choisis. ISSTD, recommandations de 2011, « Phase 1: Establishing Safety, Stabilization, and Symptom Reduction », et APA, 2024, passages sur le pouvoir de décision et la collaboration.",
+      "Le suivi peut accueillir ce que la personne se rappelle et ce qui reste incertain. Les recommandations de l’ISSTD demandent une attitude neutre et prudente face aux souvenirs et d’éviter les questions suggestives. Le TDI est fréquemment associé à des traumatismes graves ou répétés, mais un symptôme, un dessin ou un comportement n’établit pas qu’un événement précis a eu lieu. L’entourage peut communiquer un fait contemporain et accepter un refus, sans chercher à faire émerger un état d’identité ou un souvenir. ISSTD, recommandations de 2011, « Issues in the treatment of traumatic memories », et OMS, CDDR, 6B64, « Additional clinical features » et « Course features », pp. 383–384."
+    ]
+  }
+}

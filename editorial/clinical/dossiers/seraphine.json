@@ -1,0 +1,83 @@
+{
+  "references": {
+    "oms-cim-6c43-2": {
+      "title": "OMS, CIM-11 en français, dépendance aux opioïdes",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1120716949"
+    },
+    "has-opioides-recommandations": {
+      "title": "Haute Autorité de santé, bon usage des médicaments opioïdes, recommandations",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2022-03/reco_opioides.pdf"
+    },
+    "has-diagnostic-opioides": {
+      "title": "Haute Autorité de santé, diagnostic du trouble de l’usage d’opioïdes",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2022-03/diagnostic_du_trouble_de_lusage_dopioides_-_fiche.pdf"
+    },
+    "has-parcours-douleur": {
+      "title": "Haute Autorité de santé, parcours de santé d’une personne présentant une douleur chronique",
+      "url": "https://www.has-sante.fr/jcms/p_3218057/fr/parcours-de-sante-d-une-personne-presentant-une-douleur-chronique"
+    },
+    "preston-envie-opioides": {
+      "title": "Preston et coll., étude en vie quotidienne sur le stress, les indices associés à l’usage et le craving, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29105663/"
+    },
+    "dis-parler-addiction": {
+      "title": "Drogues info service, parler de sa consommation et de la crainte du jugement",
+      "url": "https://www.drogues-info-service.fr/Les-drogues-et-vous/Ma-consommation-est-elle-un-probleme/Personne-ne-sait-je-n-ose-pas-en-parler"
+    },
+    "fr-secret-soins": {
+      "title": "Légifrance, article L. 1110-4 du Code de la santé publique",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031929082"
+    },
+    "fr-surdose-opioides": {
+      "title": "Ministère chargé de la Santé, reconnaître une surdose d’opioïdes et organiser le relais",
+      "url": "https://sante.gouv.fr/prevention-en-sante/addictions/article/surdoses-overdose-d-opioides-la-naloxone-est-utilisable-par-tous-et-peut-sauver"
+    },
+    "dis-relais-surdose": {
+      "title": "Drogues info service, reconnaître une surdose et appeler les secours",
+      "url": "https://www.drogues-info-service.fr/Actualites/Reconnaitre-une-overdose-et-sauver-des-vies"
+    },
+    "fr-secours-opioides": {
+      "title": "Service Public, numéros d’urgence en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    },
+    "has-entretien-motivationnel": {
+      "title": "Haute Autorité de santé, fiche sur l’entretien motivationnel et l’ambivalence",
+      "url": "https://www.has-sante.fr/jcms/p_3501842/fr/entretien-motivationnel"
+    },
+    "ameli-appel-secours-opioides": {
+      "title": "Assurance Maladie, perte de connaissance et informations à donner aux secours",
+      "url": "https://www.ameli.fr/assure/sante/urgence/pathologies/perte-connaissance"
+    }
+  },
+  "dossier": {
+    "name": "Dépendance aux opioïdes",
+    "aliases": [
+      "Trouble de dépendance aux opioïdes"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6c43-2",
+      "has-opioides-recommandations",
+      "has-diagnostic-opioides",
+      "has-parcours-douleur",
+      "preston-envie-opioides",
+      "dis-parler-addiction",
+      "fr-secret-soins",
+      "fr-surdose-opioides",
+      "dis-relais-surdose",
+      "fr-secours-opioides",
+      "has-entretien-motivationnel",
+      "ameli-appel-secours-opioides"
+    ],
+    "points": [
+      "La CIM-11 situe la dépendance aux opioïdes en 6C43.2. Le CDDR, pages 463 à 469, décrit une altération de la régulation de l’usage répété, qui peut toucher le contrôle, la priorité prise par l’usage et la poursuite malgré ses conséquences. L’envie impérieuse, appelée craving, accompagne souvent le trouble et peut accaparer l’attention. Une envie seule ne suffit pas à établir un diagnostic ou à inférer un usage. L’histoire présente un diagnostic connu, posé avant les scènes à partir d’une évaluation sur la durée. Les sous-codes d’évolution relèvent d’une évaluation clinique et ne sont pas fixés dans le récit.",
+      "Le CDDR distingue les adaptations physiologiques d’un syndrome de dépendance. La tolérance correspond à une réponse devenue moindre à un effet de la substance. Une adaptation du corps peut aussi se révéler par des symptômes au moment d’une interruption ou d’une réduction. La HAS distingue ces phénomènes, possibles dans un traitement prescrit, du trouble de l’usage qu’elle décrit selon le DSM-5. Ce terme plus large n’est pas un équivalent exact de 6C43.2. Une prescription, son ancienneté, un effet antalgique qui change ou des signes physiques isolés ne suffisent pas à établir un trouble. Le récit ne propose aucune modification de traitement et ne donne aucun moyen de provoquer ou de tester ces signes.",
+      "La HAS recommande une évaluation de la douleur, de son histoire, de ses variations et de son retentissement, y compris au travail et dans les activités. Un suivi d’addictologie et une évaluation de la douleur peuvent se poursuivre ensemble. Les soignants examinent les explications possibles d’un changement d’effet ou de symptômes, les bénéfices, les difficultés et les attentes. La douleur rapportée par Séraphine a sa place au suivi et ne permet pas à elle seule d’inférer un usage ou son motif. Aucun traitement ou effet individuel n’est déduit du récit.",
+      "L’étude de Preston et coll. est observationnelle. Dans un groupe traité pour un trouble de l’usage d’opioïdes, elle a relevé en vie quotidienne des associations entre l’envie rapportée, le stress et certains indices liés à l’usage. Une heure, un lieu ou une transition familière peut servir de repère à discuter avec l’équipe. Le CDDR, pages 481 à 482, distingue aussi des réactions transitoires dans un contexte associé à un usage passé et un syndrome de sevrage. Le récit ne conclut pas à une cause d’après une seule coïncidence et n’invite pas à reproduire le contexte pour vérifier une hypothèse.",
+      "Une crainte d’être jugée peut freiner la parole. La HAS insiste sur le suivi personnalisé, la coordination et les interventions sans stigmatisation. Une personne peut choisir le soutien qu’elle sollicite auprès d’un proche et préciser l’information qu’elle souhaite partager. Le partage professionnel est encadré par le secret, la nécessité des informations pour le soin et les règles applicables aux équipes et au consentement. Séraphine donne son accord à une transmission ciblée entre les soignantes impliquées. Une amie aide à l’organisation et à la demande de Séraphine, sans rôle de contrôle ni de soin.",
+      "Le CDDR décrit une évolution variable et sépare les difficultés actuelles, l’évolution du trouble et les conséquences sur la santé ou les activités. Des envies peuvent revenir après une période plus calme. Les signaler permet une réévaluation et un ajustement du suivi sans déduire une reprise d’usage. La HAS recommande un suivi qui tient compte des difficultés et des préférences. Sa fiche sur l’entretien motivationnel aide à situer l’ambivalence devant une proposition et à discuter d’un objectif que la personne peut choisir. Les rendez-vous de Séraphine suivent leur propre calendrier et ne sont pas conditionnés par le projet associatif.",
+      "Une surdose d’opioïdes peut s’accompagner d’une baisse marquée de vigilance, d’une absence de réaction ou d’une respiration anormalement lente ou irrégulière. Ces signes peuvent avoir d’autres causes. Une personne qui ne répond pas ou respire anormalement a besoin d’une évaluation immédiate. En France, appeler le 15 ou le 112, indiquer le lieu et les signes, préciser toute exposition connue sans supposer et suivre les consignes jusqu’au relais. Le ministère et la HAS décrivent la naloxone comme un antidote d’urgence aux surdoses d’opioïdes et la préparation avec les professionnels lorsque la situation le justifie. Le récit ne donne pas de geste d’administration. Séraphine appelle elle-même devant les signes observés chez un autre bénévole et les secours prennent le relais. La cause reste inconnue du récit et ne se déduit pas du diagnostic de Séraphine."
+    ]
+  },
+  "direction": "Séraphine a quarante-quatre ans et a repris son travail d’agente d’accueil après des douleurs prises en charge au long cours. Elle a la mémoire des lieux par leurs bruits et celle des fêtes par les personnes restées hors du cadre. À l’association La Traverse, elle prépare un après-midi hebdomadaire de consultation des archives pour les anciens membres. Un dossier rouge contient une photo à dater. Un registre et le témoignage d’Irène, qui a participé à la fête, permettent de retrouver l’année. Salomé, son amie de l’association, s’occupe des créneaux et des clés avec Karim. Chloé, infirmière en addictologie, et la docteure Bensaïd suivent Séraphine. Le diagnostic de dépendance aux opioïdes précède le premier épisode. Les scènes présentes et les souvenirs distinguent l’envie, la perte de contrôle, la priorité donnée à l’usage, ses conséquences et l’adaptation physique possible en traitement. L’évaluation de la douleur reste un fil à part entière. Les consultations montrent qui répond et ce que Séraphine choisit de confier. Elle appelle le 15 lors d’une urgence observée chez un bénévole et les secours prennent la suite. La dernière scène aboutit à une permanence hebdomadaire le jeudi de quinze à dix-sept heures, avec un relais convenu. La douleur et les envies continuent à être discutées dans leurs suivis respectifs."
+}

@@ -108,4 +108,4 @@ Irène propose deux horaires à Mylène. Ilyès lui demande s’ils peuvent mont
 
 **Conclusion**
 
-Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour ; la visibilité change, mais le poste d’Irène reste à l’écart du passage.
+Deux petits groupes pourront entrer dans la salle du conte, et un plan restera au comptoir. Une famille repart avant son tour. La visibilité change, mais le poste d’Irène reste à l’écart du passage.

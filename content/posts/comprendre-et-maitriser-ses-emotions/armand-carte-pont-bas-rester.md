@@ -108,4 +108,4 @@ Armand rapporte les cinq cartes. Nadia lui confie deux exemplaires de la feuille
 
 **Conclusion**
 
-Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction ; la sortie de Jeanne reste une histoire qu’il racontera s’il en a envie.
+Armand peut dire ce qu’il veut transmettre dès que les usages sont assez clairs pour être comparés. Le chemin du pont pourra être montré sur une reproduction. La sortie de Jeanne reste une histoire qu’il racontera s’il en a envie.

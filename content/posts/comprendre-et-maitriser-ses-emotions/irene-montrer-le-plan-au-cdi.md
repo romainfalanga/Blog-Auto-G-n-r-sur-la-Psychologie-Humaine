@@ -37,7 +37,7 @@ Les conséquences sociales de mouvements stéréotypés peuvent tenir à la réa
 
 ### Le mouvement et la moquerie ont des effets distincts
 
-La manipulation peut attendre quelques secondes ; une remarque peut donner une autre raison de vouloir partir.
+La manipulation peut attendre quelques secondes. Une remarque peut donner une autre raison de vouloir partir.
 
 **Exemples concrets**
 

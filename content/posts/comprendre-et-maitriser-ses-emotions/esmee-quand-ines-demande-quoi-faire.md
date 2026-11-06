@@ -1,19 +1,19 @@
 ---
-title: Accepter du soutien sans demander à un proche de surveiller
-description: Inès voudrait savoir comment réagir si Esmée a besoin d’une pause. Elles
-  distinguent un appui choisi d’une surveillance qui ajouterait de la gêne.
+title: Quand se sentir surveillée complique la reprise d’une activité
+description: Inès propose de prévenir Esmée si elle la voit hésiter. Esmée craint
+  de perdre le fil en guettant les réactions de son amie.
 slug: esmee-quand-ines-demande-quoi-faire
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Esmée
-sujet: Différence entre soutien choisi et surveillance
+sujet: Gêne accrue quand on se sent surveillée
 contexte: En vérifiant les rôles du stand avec Inès
 tags:
 - Trichotillomanie
 - Trouble d’arrachage des cheveux ou des poils
-- Soutien des proches
-- Consentement
-- Limites de l’aide
+- Sentiment d’être observée
+- Gêne liée à la trichotillomanie
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
@@ -28,38 +28,38 @@ Inès a imprimé les deux cartes de pause en plus des programmes. Sur l’une, e
 
 Elle se rappelle pourtant que la dernière fois, Inès avait gardé le carnet ouvert et qu’elle s’était sentie libre de revenir au moment convenu. Elle ne voudrait pas perdre cette aide. « Si j’ai besoin de la pause, j’aimerais te le dire moi-même », répond-elle. Inès regarde l’heure du stand. Elle doit s’occuper d’une caisse voisine pendant une partie de l’après-midi. Il leur reste à décider ce qui se passe quand elle n’est pas là.
 
-## Soutenir la personne et respecter son initiative
+## La crainte d’être observée peut s’ajouter à la difficulté
 
-La gêne liée à la trichotillomanie peut augmenter si la personne se sent scrutée. Le soutien d’un proche peut prendre une forme convenue, comme écouter, tenir brièvement un rôle ou accompagner une démarche demandée. La personne choisit ce qu’elle accepte et le proche indique ce qu’il peut faire. Esmée et Inès travaillent ici sur l’organisation du stand. Elles peuvent parler de l’effet de leur accord après l’avoir essayé.
+La gêne liée à la trichotillomanie peut s’accroître quand la personne se sent observée. Anticiper une remarque peut prendre de l’attention et rendre plus difficile le retour à une activité. Esmée a déjà vu qu’un geste simple d’Inès, garder le carnet ouvert, pouvait l’aider. Elle préfère garder l’initiative d’une pause et dire ce dont elle a besoin, sans avoir à guetter ce que son amie perçoit.
 
-## Comment distinguer un appui accepté d’une surveillance ?
+## Comment la crainte d’être observée peut-elle peser sur une activité ?
 
-### Le regard peut devenir une préoccupation de plus
+### L’attention se partage entre le travail et les regards
 
-Une intervention bien intentionnée peut avoir un effet différent de celui recherché.
-
-**Exemples concrets**
-
-- Esmée s’imagine devoir suivre ce qu’Inès remarque à chacun de ses gestes.
-- Quelqu’un peut se sentir moins libre de parler si chaque hésitation donne lieu à un commentaire.
-
-### Le signal peut venir de la personne
-
-Un accord donne la main à celle qui éprouve le besoin.
+Guetter ce qu’une autre personne remarque peut prendre de l’attention au moment de reprendre une tâche.
 
 **Exemples concrets**
 
-- Esmée propose de dire elle-même quand elle veut s’éloigner de la table.
-- Une étudiante peut demander un relais après avoir constaté qu’elle veut reprendre l’échange plus tard.
+- Esmée imagine qu’elle devrait suivre le regard d’Inès au milieu de la présentation.
+- Une personne peut perdre le fil d’une explication si elle anticipe une remarque à chaque hésitation.
 
-### L’aide dépend aussi de la disponibilité du proche
+### La confiance peut vaciller
 
-Un rôle précis permet de tenir compte des engagements des deux personnes.
+Une aide mal définie peut éveiller la crainte que la difficulté reste présente dans tous les échanges.
 
 **Exemples concrets**
 
-- Inès tient une autre caisse une partie de l’après-midi.
-- Une amie peut être disponible pour dix minutes et avoir besoin d’un autre relais ensuite.
+- Esmée regrette un instant d’avoir nommé le trouble quand elle pense à la façon dont Inès pourrait l’observer.
+- Une personne qui a parlé en privé peut hésiter à demander de l’aide si elle craint que ses gestes soient ensuite commentés.
+
+### Un soutien consenti rend la reprise plus prévisible
+
+Un appui dont la personne garde l’initiative peut lui laisser plus de liberté pour reprendre.
+
+**Exemples concrets**
+
+- Lors du précédent essai, Inès a gardé le carnet ouvert et Esmée s’est sentie libre de revenir à la table.
+- Une étudiante peut décider de demander elle-même un relais puis retrouver la page sur laquelle elle travaillait.
 
 ## 3 techniques pour convenir d’un appui avec une personne de confiance
 

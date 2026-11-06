@@ -108,4 +108,4 @@ Armand appelle le contact de la consultation mémoire, rappelle le besoin qu’i
 
 **Conclusion**
 
-Jeanne peut garder un moment avec Armand sans garder chaque jeudi. La demande d’ergothérapie concerne les papiers ; son propre contact de répit répond à une autre question. Ils finissent par ouvrir le paquet ensemble.
+Jeanne peut garder un moment avec Armand sans garder chaque jeudi. La demande d’ergothérapie concerne les papiers. Son propre contact de répit répond à une autre question. Ils finissent par ouvrir le paquet ensemble.

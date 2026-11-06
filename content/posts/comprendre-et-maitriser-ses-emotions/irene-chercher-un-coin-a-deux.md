@@ -50,7 +50,7 @@ Un essai confus peut faire croire que l’activité doit être simplifiée alors
 
 **Exemples concrets**
 
-- Ilyès propose une seule route ; Irène veut garder les deux et vérifier la table d’abord.
+- Ilyès propose une seule route. Irène veut garder les deux et vérifier la table d’abord.
 - Deux enfants envisagent d’abandonner une scène avant de constater que les pages de brouillon ont été mélangées.
 
 ### Un repère stable peut suffire pour reprendre

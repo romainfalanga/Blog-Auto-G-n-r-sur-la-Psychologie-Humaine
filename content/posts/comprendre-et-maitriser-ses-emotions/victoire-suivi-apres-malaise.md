@@ -48,7 +48,7 @@ Quand les sensations se calment, la personne peut encore appréhender leur retou
 
 ### Les deux consultations ont des fonctions différentes
 
-L’urgence apprécie la situation immédiate ; le suivi reprend l’évolution et les questions qui restent.
+L’urgence apprécie la situation immédiate. Le suivi reprend l’évolution et les questions qui restent.
 
 **Exemples concrets**
 
