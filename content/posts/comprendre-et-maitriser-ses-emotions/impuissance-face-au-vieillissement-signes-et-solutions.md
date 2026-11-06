@@ -15,9 +15,11 @@ draft: false
 
 Antoine a déjà soulevé un côté de la plaque de coffrage. Patrick avance pour prendre l’autre. Au premier mouvement, son dos le lance jusque dans la jambe gauche. Il lâche la poignée avant d’avoir soulevé quoi que ce soit.
 
-« Pose-la, on attend le chariot », dit-il. Antoine repose la plaque et demande s’il peut aller le chercher. Patrick allait répondre qu’il finirait bien par y arriver. Il reste appuyé contre le poteau et lui dit où trouver la clé.
+« Pose-la, on attend le chariot. » Antoine repose la plaque et demande s’il peut aller le chercher. Patrick allait répondre qu’il finirait bien par y arriver. Il reste appuyé contre le poteau et lui dit où trouver la clé. Dans le passage, deux autres ouvriers attendent de pouvoir entrer avec leur matériel. Patrick leur fait signe de prendre l’autre accès. Le bruit du chantier reprend aussitôt, un peu plus loin.
 
-Une fois seul, il refait mentalement le mouvement. À la maison, il a fini par demander de l’aide pour un bocal. Ici, il distribue le travail et voudrait qu’on puisse compter sur lui pour les mêmes gestes qu’avant. Quand le chariot revient, il hésite encore à se lever. Il indique plutôt à Antoine où déposer la plaque.
+Une fois seul, il regarde la poignée qu’il vient de lâcher. Il connaît le poids de cette plaque. Il l’a déjà portée et c’est ce qu’il a envie de dire si quelqu’un lui demande pourquoi elle est toujours là. À la maison, il avait confié le bocal à Catherine et continué à préparer les haricots. Ici, les autres attendent sa consigne, et il ne sait pas encore ce qu’il peut faire sans réveiller la douleur.
+
+Antoine revient avec le chariot et s’arrête à l’entrée de la zone. « Tu la veux où ? » Patrick avait prévu de montrer l’emplacement en avançant avec lui. Il hésite à quitter le poteau. De là où il se trouve, il peut lui indiquer le repère sur le mur. Antoine se tourne pour le chercher.
 
 ## Comprendre le sentiment d’impuissance
 

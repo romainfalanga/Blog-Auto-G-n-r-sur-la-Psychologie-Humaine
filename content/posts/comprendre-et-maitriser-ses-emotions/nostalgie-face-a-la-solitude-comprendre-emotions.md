@@ -13,11 +13,11 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Dans la caisse à outils, Patrick retrouve le petit niveau vert que Marcel lui a laissé. Un coin est cabossé. Il se rappelle très bien d’où vient le choc : Julien a voulu s’en servir comme d’un marteau, puis a juré que l’outil était déjà comme ça. Patrick l’avait grondé. Marcel, en se retournant, avait souri.
+Dans la caisse à outils, Patrick retrouve le petit niveau vert que Marcel lui a laissé. Un coin est cabossé. Il se rappelle d’où vient le choc : Julien a voulu s’en servir comme d’un marteau, puis a juré que l’outil était déjà comme ça. Patrick l’avait grondé. Marcel, en se retournant, avait souri. Patrick pose le niveau sur une traverse de l’établi. La bulle prend encore sa place entre les traits.
 
-Catherine est sortie faire des courses. Patrick a prévu de resserrer un raccord avant son retour, mais il reste assis dans le garage. Une photo de Julien est punaisée au-dessus de l’établi. À côté, sous une boîte de vis, il en trouve une de Stéphanie qui maintient une planche avec le pied. Elle porte son vieux bleu de travail, trop long pour elle.
+Catherine est sortie faire des courses. Patrick a prévu de resserrer un raccord avant son retour, mais il reste assis dans le garage. Une photo de Julien est punaisée au-dessus de l’établi. Sous une boîte de vis, il en trouve une de Stéphanie qui maintient une planche avec le pied. Elle porte son vieux bleu de travail, trop long pour elle. Il se souvient qu’elle avait dû rouler les ourlets deux fois. Elle avait ensuite insisté pour rester jusqu’à la pose de la dernière tablette.
 
-Il prend les deux photos et les retourne pour chercher une date. Dans son souvenir, Marcel travaillait à genoux alors même que tout le monde lui avait apporté un tabouret. Patrick a le sien sous lui. Il se souvient du bocal de dimanche et n’a pas envie de se relever tout de suite.
+Patrick retourne les photos pour chercher une date. Dans son souvenir, Marcel travaillait à genoux alors même que tout le monde lui avait apporté un tabouret. Patrick a le sien sous lui. Il se souvient du bocal du dimanche et n’a pas envie de se relever tout de suite. Il ouvre la conversation avec Stéphanie sur son téléphone. Le dernier message est une heure de rendez-vous.
 
 ## Comprendre ce que peut apporter un souvenir nostalgique
 

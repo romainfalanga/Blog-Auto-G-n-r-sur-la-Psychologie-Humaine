@@ -13,9 +13,11 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Océane passe d’un tabouret à l’autre pour demander qui veut participer à la prochaine critique de groupe. Mei n’entend que la fin. Trois personnes parlent en même temps. Elle a une idée pour la planche qu’elles regardent ; quand elle trouve où la glisser, la discussion est déjà passée à la suivante.
+Dans l’atelier, Océane passe d’un tabouret à l’autre pour organiser la prochaine critique. Mei arrive au bout de la table au milieu d’une discussion sur une planche. Elle voit d’où vient le problème que les autres essaient de décrire. Un personnage paraît flotter parce que le bord du cadre coupe ses pieds avant qu’on puisse situer le sol. Mei cherche à quel moment le dire. Quelqu’un tourne déjà la page.
 
-La veille, au dîner, Julien lui a raconté que ses examens de gestion le laissaient lui aussi en dehors de certaines discussions. Sur le moment, Mei avait parlé de ses cours en général. En atelier, elle voudrait trouver un moyen de dire ce qui la gêne précisément. Elle dessine trois cadres dans sa marge et regarde quelle partie du personnage dépasse.
+La veille, Julien lui a raconté qu’en gestion il lui arrivait de suivre un débat sans trouver de place pour intervenir. Mei lui avait répondu que ses cours à elle se passaient bien. Elle aurait pu lui parler de cette table où une personne commence presque toujours avant que l’autre ait fini. Elle voit pourtant Océane lever le doigt, attendre la fin d’une phrase et devoir demander à son tour qu’on l’écoute. Elle n’est pas la seule à chercher le bon moment.
+
+On vient lui demander si elle veut apporter une planche à la critique. Mei dit qu’elle va regarder où elle en est. Sur sa feuille, elle dessine trois rectangles autour du même personnage. Elle se rend compte qu’elle peut montrer ce qu’elle voulait expliquer tout à l’heure, même sans retrouver les mots au milieu de la discussion. Elle voudrait d’abord savoir si quelqu’un voit la différence entre les trois cadres. Elle rapproche son tabouret de la place qu’Océane vient de libérer.
 
 ## Définition du concept d'inadéquation
 

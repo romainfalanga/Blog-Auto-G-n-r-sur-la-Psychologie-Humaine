@@ -13,11 +13,11 @@ contexte: "en couple"
 draft: false
 ---
 
-« Celui-là a une vraie cuisine. » Léa tourne sa tablette vers Youssef. Elle a repéré plusieurs annonces à Lyon pendant qu’il finissait de ranger chez lui. Il n’a encore pris aucune décision et elle garde son studio à Paris. Pourtant, la vitesse à laquelle elle passe d’une photo à l’autre lui donne envie de lui dire qu’ils ont le temps.
+« Celui-là a une vraie cuisine. » Léa tourne sa tablette vers Youssef. Elle a repéré des annonces à Lyon pendant qu’il finissait de ranger chez lui. À Paris, elle garde son studio. Lui n’a encore pris aucune décision. Il se penche tout de même sur la photo et cherche où irait sa table. Léa est déjà passée à la pièce suivante. Elle revient en arrière quand il le lui demande et agrandit le plan de travail.
 
-« On peut arrêter de regarder si ça te stresse. » Léa relève les yeux. « C’est toi qui veux arrêter ? Moi, cette annonce m’intéresse. » Youssef allait lui proposer une promenade. Il s’aperçoit qu’il avait déjà préparé la réponse à une question qu’il ne lui avait pas posée.
+Deux annonces plus loin, Youssef a l’impression qu’ils sont en train de choisir. Léa écarte une image du bout de l’ongle pour en ouvrir une autre. Il trouve le geste brusque. « On peut arrêter de regarder si ça te stresse. » Elle relève les yeux. « C’est toi qui veux arrêter ? Moi, celle-ci m’intéresse. Il y a de la lumière, regarde. » Il allait lui proposer de sortir marcher. Il referme la bouche en voyant qu’elle a gardé la photo ouverte pour lui.
 
-Les photos défilent encore. Youssef pense à Nicolas, à la réponse « c’est logique » qu’il lui avait été si facile de donner à propos de sa mutation. Sur Lyon, il a surtout de l’appréhension. Il vient d’employer ce mot pour décrire ce que Léa ressent, sans avoir commencé par lui dire ce qu’il ressent, lui.
+Youssef pense à Nicolas, à la réponse « c’est logique » qu’il lui avait été si facile de donner à propos de sa mutation. De Lyon, il saurait expliquer plusieurs choses, à commencer par ce qu’il coûterait de déménager. Il regarde la cuisine sans retrouver les mots qu’il pourrait employer pour le reste. Tout à l’heure, il a prononcé « stress » sans hésiter. Il s’adressait à Léa.
 
 ## Définition du biais de projection
 

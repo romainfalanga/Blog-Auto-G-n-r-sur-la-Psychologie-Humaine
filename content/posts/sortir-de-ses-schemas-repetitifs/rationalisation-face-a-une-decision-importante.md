@@ -13,11 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Priya a imprimé le bail du nouveau local et entouré le prix du loyer. Sur une carte, le trajet gagne sept minutes depuis chez elle. Pour Claire, il y aurait peut-être un changement de bus supplémentaire. Elle repense à ce que la patiente lui a dit une semaine plus tôt, au moment où elle repliait son ordonnance.
+Priya a imprimé le bail du nouveau local et entouré le loyer. À côté, elle a posé une carte avec deux trajets. Depuis chez elle, elle gagnerait sept minutes. Pour Claire, il y aurait peut-être un changement de bus supplémentaire. Priya se rappelle la façon dont elle avait replié son ordonnance avant d’entendre la fin de sa question. Elle cherche le nom de l’arrêt. La carte a été imprimée trop petit, et elle finit par rapprocher la feuille de la lampe.
 
-Anjali lui a laissé trois appels. Priya connaît ses objections possibles, mais elle ne les a pas encore entendues. Le projet lui plaît pour des raisons qui n’ont rien à voir avec le poste de direction à la clinique. Elle voudrait pouvoir décider du fonctionnement de son propre cabinet. Le loyer, lui, resterait plus élevé quel que soit l’avis de sa mère.
+Anjali lui a laissé trois appels. Priya s’entend déjà lui dire que le local est trop cher. Le loyer est plus élevé, elle a le chiffre sous les yeux. Pourtant, elle ne sait pas encore ce que couvrent les charges, ni même ce qu’Anjali pense de ce projet. Ce qui lui plaît, cette fois, tient à son propre cabinet. En regardant la brochure de la clinique, elle imaginait organiser un service. Sur le plan du local, elle cherche simplement où les patients attendraient et ce qui dépendrait d’elle.
 
-Elle pose le téléphone écran contre table. Sur sa liste, le coût du local et la peur qu’Anjali s’inquiète ont fini dans la même colonne. Elle reprend la feuille à partir du haut.
+Elle met son téléphone face contre table et reprend la liste qui accompagnait le bail. Elle a écrit « Trop cher, à expliquer à maman » sur une seule ligne. Elle barre les trois derniers mots, puis les recopie plus bas. Le chiffre du loyer garde sa place. À côté, il manque encore des renseignements.
 
 ## Définition de la rationalisation face à une décision importante
 

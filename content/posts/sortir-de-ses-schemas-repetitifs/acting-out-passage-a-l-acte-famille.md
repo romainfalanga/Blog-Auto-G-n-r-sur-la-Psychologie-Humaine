@@ -13,11 +13,13 @@ contexte: "en famille"
 draft: false
 ---
 
-Dans le salon de sa mère, Patrick compare deux chemises de papiers. Il s’énerve contre une facture qu’il a déjà lue trois fois. Sur la dernière page, Marcel a écrit le montant au crayon, au centime près. Catherine lui propose de laisser cette chemise pour plus tard.
+Dans le salon de sa mère, Patrick compare deux chemises de papiers. Il relit une facture pour vérifier si elle a déjà été réglée. Sur la dernière page, Marcel a écrit le montant au crayon, au centime près, sans indiquer ce qu’il avait fait ensuite. Patrick connaît la façon dont son père formait le chiffre sept. Il vient de passer le doigt sur celui-ci trois fois.
 
-Patrick repousse sa chaise et traverse le couloir. Dans le garage de ses parents, il saisit une massue. Il frappe l’établi de Marcel plusieurs fois. Un éclat heurte une boîte métallique et tombe près de la porte. Patrick s’arrête, le dos douloureux, et voit que le bois a fendu. Il pose la massue hors de portée.
+Catherine lui propose de mettre la chemise de côté et de revenir aux papiers qu’ils ont déjà pu classer. Patrick répond qu’il lui manque seulement une date. Il tourne une page trop vite et la déchire près de l’agrafe. Catherine s’écarte de la table. Patrick pourrait la laisser ranger la chemise. Il repousse sa chaise sans lui dire ce qu’il va faire.
 
-Il ne voit pas Catherine depuis le garage. Il ne sait pas si elle est restée dans le salon. Quand il entend un bruit au bout du couloir, il dit qu’il ne va pas ressortir tout de suite.
+Dans le garage de ses parents, il prend la massue et frappe plusieurs fois l’établi de Marcel. Un éclat heurte une boîte métallique et tombe près de la porte. Patrick s’arrête, le dos douloureux. Le bois a fendu. Il pose la massue au fond du garage et se recule jusqu’au mur opposé.
+
+Il ne voit pas Catherine. Il ne sait pas si elle est restée dans le salon. Il entend un bruit au bout du couloir. Il annonce qu’il ne va pas sortir tout de suite. La facture est encore sur la table. D’ici, il ne sait même plus ce qu’il espérait lire dessus.
 
 ## Comprendre l’effet du geste sur les personnes présentes
 

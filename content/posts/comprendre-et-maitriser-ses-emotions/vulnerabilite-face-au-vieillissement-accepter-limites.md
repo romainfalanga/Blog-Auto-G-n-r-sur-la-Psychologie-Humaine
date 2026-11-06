@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-Le bocal glisse dans le torchon. Au deuxième essai, Patrick a mal jusque dans le poignet. Il pose les haricots près de l’évier et enfonce la pointe d’une petite cuillère sous le couvercle.
+Le bocal glisse dans le torchon. Au deuxième essai, la douleur dans le pouce de Patrick remonte jusque dans le poignet. Il pose les haricots près de l’évier et enfonce la pointe d’une petite cuillère sous le couvercle. Sur la planche, les tomates sont déjà coupées. Il lui manque juste les haricots pour finir le déjeuner.
 
-« Tu vas la tordre », dit Catherine, qui arrive avec le linge. Patrick a déjà sur la langue une remarque sur ceux qui conçoivent ces bocaux. Sur le chantier, il a réussi à cacher qu’il avait du mal à se pencher. Chez lui, Catherine tient son panier à deux mains et attend.
+« Tu vas la tordre », dit Catherine en arrivant avec le linge. Patrick a une remarque sur les fabricants de bocaux au bout de la langue. Il l’avait déjà faite la dernière fois et Catherine avait ouvert le pot pendant qu’il sortait les couverts. Elle a son panier à deux mains et, cette fois, attend qu’il lui dise de quoi il a besoin. Il essaie encore de tourner le couvercle, plus lentement. Le torchon se tasse sous sa paume.
 
-« T’as vu l’ouvre-bocal ? Mon pouce, là… » Il dégage la cuillère. Catherine lui montre le tiroir du bas et pose le panier. Il lui laisse le bocal. Quand le couvercle saute, il est encore occupé à chercher de quoi égoutter les haricots.
+Il avait dit à Catherine que son dos coinçait, l’autre soir, en sortant les bols. Du chantier, il se rappelle surtout le temps passé à chercher comment se pencher sans que les autres le voient. Là, Catherine est à deux pas. Il retire la cuillère du bocal. « T’as vu l’ouvre-bocal ? Mon pouce, là, ça tire. » Elle lui montre le tiroir du bas et pose le panier. « Tu veux que j’essaie ? » Il se décale pour lui faire de la place. Quand le couvercle saute, il est encore occupé à chercher la passoire. Il lui demande de laisser les haricots près de l’évier.
 
 ## Comprendre ce que signifie se montrer vulnérable
 

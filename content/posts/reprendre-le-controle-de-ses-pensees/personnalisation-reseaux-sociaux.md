@@ -13,11 +13,11 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-À la boutique de partitions, Hugo attend avec son étui à la main. Sur le téléphone, un ancien collègue annonce un concert. Hugo connaît les noms de presque tout le monde sur l’affiche. Le sien n’y figure pas. Il relit la légende jusqu’à l’arrivée du client suivant.
+À la boutique de partitions, Hugo garde l’étui entre ses chaussures pour ne pas bloquer la file. Il ouvre son fil en attendant son tour. Un ancien collègue annonce un concert et remercie les gens qui seront sur scène. Sur l’affiche, Hugo reconnaît le prénom d’un bassiste avec qui il a joué. Il agrandit l’image jusqu’à voir les pixels, puis revient à la légende. Son nom n’apparaît nulle part.
 
-Il commence son service au bar avec l’idée que son collègue lui en veut. Dans le métro du retour, il cherche encore la publication. L’annonce n’a pas changé. Il se rend compte qu’il a ajouté de mémoire une remarque que son collègue n’a pas écrite.
+Le client devant lui range son portefeuille. Hugo lève la tête et se rend compte qu’il ne se rappelle plus la référence qu’il était venu demander. Au bar, pendant le service, la phrase du collègue revient entre deux commandes. Hugo l’entend maintenant sous une autre forme : « Enfin la bonne équipe. » Il repense au dernier morceau joué avec lui. Il avait raté une entrée. Le collègue lui avait montré du doigt où reprendre et ils avaient continué. Plus la soirée avance, plus Hugo est certain que c’est de cette entrée qu’on se souvient.
 
-Hugo aimerait lui demander pourquoi il ne l’a pas appelé. Il pense à la dernière fois qu’il a accusé quelqu’un avant de vérifier ce qui s’était passé. Pour l’instant, il ne sait même pas s’il avait envie de jouer à ce concert avant de voir l’affiche.
+Dans le métro du retour, il rouvre la publication pour retrouver la phrase. Il lit « Heureux de jouer avec vous ». Il remonte jusqu’à l’affiche et s’apprête à écrire pour demander pourquoi on ne l’a pas appelé. Son pouce reste sur la case du commentaire. Il ne sait même pas à quelle heure a lieu ce concert, ni s’il aurait eu envie d’y jouer. Au moment de prendre sa correspondance, il met le téléphone dans sa poche sans envoyer sa question.
 
 ## Définition de la personnalisation
 

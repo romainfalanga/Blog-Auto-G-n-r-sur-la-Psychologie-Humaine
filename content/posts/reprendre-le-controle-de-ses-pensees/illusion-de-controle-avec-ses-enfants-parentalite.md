@@ -13,9 +13,13 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Les perles de sucre roulent sous le frigo. Yasmine avait soulevé le pot pour montrer la couleur à son père, Karim, l’ex-mari de Nadia. Il est arrivé avec des courses pour l’anniversaire. Sur la tablette, le programme affiche encore l’heure à laquelle la décoration aurait dû être prête.
+Nadia a agrandi sur sa tablette la photo du gâteau que Yasmine lui a montré pour son anniversaire. Le glaçage couvre juste le bord et les perles dessinent un cercle régulier. Elle a prévu de faire le cercle avant de mettre les boissons au frais. Chaque fois qu’elle passe devant le plan de travail, Yasmine ajoute une assiette de couleur ou déplace un verre pour que deux copines puissent s’asseoir ensemble.
 
-Nadia entend remonter le même « va dans ta chambre » que le jour de la farine. Cette fois, elle ne le dit pas. Elle demande d’abord à Yasmine si elle s’est fait mal. « Non. Il en reste dans le pot ? » Nadia ne sait plus combien elle en avait compté. Karim cherche le balai pendant qu’elles se penchent sur le pot.
+Karim, le père de Yasmine, arrive avec les courses. Yasmine soulève le pot pour lui montrer la couleur qu’elle a choisie. Le couvercle se détache dans sa main. Les perles roulent sous le frigo et rebondissent contre le pied de la table. Nadia a encore devant elle la photo et l’heure inscrite dans le programme. Elle s’entend presque redire la phrase du jour où le paquet de farine est tombé.
+
+« Tu t’es fait mal ? »
+
+Yasmine secoue la tête et veut savoir s’il reste quelque chose dans le pot. Karim pose les sacs et cherche le balai. Nadia se baisse à côté de sa fille. De près, il reste plusieurs perles coincées dans le rebord du couvercle. Yasmine entreprend de les déloger avec le bout du doigt. Nadia allait prendre le pot pour aller plus vite. Elle lui tend une soucoupe, puis aperçoit derrière elles les autres décorations encore fermées.
 
 ## Qu'est-ce que l'illusion de contrôle ?
 

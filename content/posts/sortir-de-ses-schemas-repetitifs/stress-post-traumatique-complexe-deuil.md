@@ -13,9 +13,13 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Djamila traverse le couloir sans allumer. Adam dort. Sous sa porte, la veilleuse découpe un rectangle orange que Djamila enjambe, comme si elle risquait de le réveiller en marchant dessus. Dans l’entrée, une porte claque chez les voisins. Elle serre les clés qu’elle tient encore, puis reconnaît la voix de la voisine sur le palier.
+Djamila traverse le couloir sans allumer. Adam dort. Sous sa porte, la veilleuse découpe un rectangle orange que Djamila enjambe, comme si elle risquait de le réveiller en marchant dessus. Dans l’entrée, une porte claque chez les voisins. Elle serre les clés qu’elle tient encore. Un instant plus tard, la voisine dit quelque chose sur le palier et son rire passe à travers la porte. Djamila reconnaît la voix. Il lui faut un peu plus de temps pour desserrer la main.
 
-Elle aurait voulu raconter à sa grand-mère le mot qu’Adam a inventé pour la veilleuse. Sa grand-mère est morte il y a trois mois. La porte qui claque lui rappelle plutôt les soirs où son ex-conjoint Samir haussait la voix. Quand son médecin lui demandera comment elle dort, elle ne saura pas laquelle de ces deux choses expliquer d’abord.
+Dans la cuisine, le verre d’Adam est resté à côté du sien. Elle aurait voulu raconter à sa grand-mère le mot qu’il a inventé pour la veilleuse. Elle se surprend encore à mettre de côté des choses à lui dire. Au bout de trois mois, il lui arrive de penser « demain » et de se rappeler, en prenant son téléphone, qu’il n’y a plus de numéro à appeler pour lui raconter ça.
+
+La porte qui vient de claquer lui rappelle d’autres soirs, ceux où Samir haussait la voix. Djamila attend d’entendre de nouveau la voisine. Celle-ci est déjà rentrée chez elle. Un grincement vient de la chambre, puis Adam se rendort. Djamila pose les clés sur un torchon pour qu’elles ne fassent pas de bruit.
+
+À son prochain rendez-vous, son médecin lui demandera peut-être comment elle dort. Elle essaie de trouver la première phrase en essuyant la table. Elle voudrait parler de sa grand-mère. Elle aimerait aussi pouvoir raconter ces quelques secondes dans l’entrée.
 
 ## Qu’est-ce que le trouble de stress post-traumatique complexe ?
 

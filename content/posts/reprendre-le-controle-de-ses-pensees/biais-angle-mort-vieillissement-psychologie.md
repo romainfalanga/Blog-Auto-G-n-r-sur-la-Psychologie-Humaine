@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-Du premier palier de l’échafaudage, Patrick voit Antoine se préparer à porter des parpaings. Il lui demande d’attendre, puis s’apprête à monter avec son sac de matériel. La douleur le reprend à la hauteur de la deuxième marche. Il serre la barre et redescend.
+Du premier palier de l’échafaudage, Patrick voit Antoine se préparer à porter des parpaings. Il lui demande d’attendre qu’on vérifie quel matériel est disponible. « Même pour finir la rangée ? » demande Antoine. Patrick répète qu’ils vont attendre et se tourne vers l’échelle avec son sac. Dans le sac, il y a les outils dont il aura besoin pour relever des mesures. Il avait prévu de les avoir en haut avant que les autres soient prêts.
 
-Il se souvient de l’étai qui a ripé le 10 avril. Ce jour-là aussi, il avait voulu aller plus vite que le matériel disponible. Antoine n’a pas à s’entendre dire d’être prudent pendant que son chef passe outre sa propre consigne.
+Sur la deuxième marche vers le palier suivant, la douleur le reprend. Il serre la barre, attend, puis redescend avec le sac. Il n’a pas envie de regarder en bas. Il s’attend à ce qu’Antoine lui demande si ça va et prépare déjà le « oui » qu’il lui donnera. Antoine est resté près des parpaings. Il lui montre le passage qu’il vient de dégager.
 
-« Laisse les parpaings où ils sont. Je vais demander ce qu’on peut utiliser. » Il dit ça d’en bas. Son sac est posé au pied de l’échafaudage. Pour la première fois de la matinée, il ne cherche pas à le reprendre.
+Patrick se souvient de l’étai qui a ripé le 10 avril. Ce jour-là, lui aussi voulait avancer une tâche avant que le matériel arrive. Il avait crié sur Antoine, puis dû dire à l’équipe que c’était lui qui avait donné l’ordre de commencer. Patrick pose son sac au pied de l’échafaudage. « Laisse les parpaings là. Je vais voir ce qu’on peut utiliser. » Les mesures attendront. Il a encore dans sa poche le numéro qu’il aurait voulu ne plus avoir à sortir.
 
 ## Comprendre la minimisation d’une douleur
 

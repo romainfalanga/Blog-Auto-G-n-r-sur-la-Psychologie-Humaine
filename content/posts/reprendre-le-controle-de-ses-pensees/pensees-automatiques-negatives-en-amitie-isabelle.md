@@ -13,11 +13,11 @@ contexte: "en amitié"
 draft: false
 ---
 
-Au café, Catherine retourne son téléphone, lit quelque chose et le repose. Isabelle allait lui raconter sa soirée de vendredi. À la place, elle demande si Catherine doit bientôt repartir. Elle regrette déjà le ton de sa question.
+Au café, Catherine retourne son téléphone, lit quelque chose et le repose. Isabelle allait lui raconter sa soirée de vendredi. À la place, elle demande si Catherine doit bientôt repartir. Sa question a le ton de quelqu’un qui s’apprête à demander l’addition. Catherine relève les yeux. « Tu voulais me dire quoi sur vendredi ? »
 
-Isabelle ajuste sa veste légère, le regard fuyant vers les passants. Elle se revoit quelques semaines plus tôt, lors de cette soirée seule après le départ de Théo, luttant contre la culpabilité face aux messages de sa mère Geneviève. Elle a fait du chemin depuis qu'elle a testé la méthode ABCDE pour gérer ses émotions, mais aujourd'hui, le terrain est différent. Ce n'est plus la psychologue scolaire lucide qui analyse le biais de groupe en salle des professeurs, c'est l'amie qui se sent soudainement illégitime. Catherine relève la tête, mais Isabelle a déjà construit tout un scénario où elle n'est qu'un poids, une compagnie par défaut pour son amie.
+Isabelle cherche le début de son histoire. Le vendredi où Théo est allé passer le week-end chez son père, elle a passé une partie de la soirée à se demander comment répondre à Geneviève. Elle avait tiré cinq colonnes dans un carnet, puis trouvé assez de place pour une chose que le message de sa mère ne disait pas. À la terrasse, elle aimerait retrouver un peu de ce temps. Catherine a déjà remis son téléphone devant elle. Isabelle commence à raconter la scène en parlant plus vite.
 
-Isabelle se souvient de moments où elle redoutait les disputes chez elle. À la terrasse, elle revient au geste de Catherine. Son amie range le téléphone. Isabelle remarque qu’elle continue de chercher dans son visage un signe qu’elle l’ennuie.
+Catherine l’interrompt pour dire qu’elle n’a pas compris qui avait appelé. Isabelle reprend la phrase. Quand elle voit le téléphone s’allumer au bord de la table, elle s’arrête au milieu. Catherine regarde l’écran, l’éteint et lui demande de continuer. Isabelle se demande si elle le fait par politesse. Elle repère l’addition glissée sous la soucoupe et commence à tirer le papier vers elle. Elle préférerait entendre de Catherine si elles ont encore du temps. Pour l’instant, la question lui paraît difficile à poser sans lui donner l’air d’un reproche.
 
 ## Définition des pensées automatiques négatives
 

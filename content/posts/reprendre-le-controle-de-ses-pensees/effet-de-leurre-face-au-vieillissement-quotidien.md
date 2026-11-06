@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-Patrick cherche de quoi renforcer l’étagère de Léo. Au bout du rayon bricolage, trois offres de sport se partagent un panneau : quarante euros par mois sans séance accompagnée, quatre-vingts avec quatre séances par mois, quatre-vingt-cinq avec deux. Il relit la dernière ligne et pense qu’à quatre-vingts euros, il ferait une bonne affaire.
+Patrick cherche de quoi renforcer l’étagère de Léo. Il a les mesures sur un bout de papier et compare deux équerres quand il remarque, au bout du rayon, un panneau pour une salle de sport. Les trois abonnements donnent le même accès aux machines. Le premier coûte quarante euros par mois, sans séance accompagnée. À quatre-vingts euros, quatre séances sont prévues. Le dernier forfait en donne deux pour quatre-vingt-cinq euros. Patrick refait le calcul entre les deux dernières lignes et pense qu’il a de la chance d’être tombé sur celle du milieu.
 
-Il n’était pas venu pour s’abonner. En cherchant son mètre dans sa poche, il sort aussi le bout de papier sur lequel Catherine avait noté le numéro du cabinet. Il n’a toujours pas appelé. Une part de lui préférerait rentrer avec une activité choisie et régler ça de son côté.
+En cherchant son mètre, il sort aussi le numéro du cabinet, recopié sur un autre papier. Il s’était dit qu’il appellerait après le chantier, puis avant le repas, puis le lendemain. Sur le panneau, il est seulement question d’horaires, de prix et de séances. Il pourrait rentrer avec un formulaire rempli et dire à Catherine qu’il s’est occupé de quelque chose. Il ne sait pas encore ce qu’il dirait au coach au premier rendez-vous.
 
-Le vendeur lui demande s’il souhaite un formulaire. Patrick regarde le prospectus. Son regard revient toujours au forfait du milieu. Il l’emporte pour faire le calcul ailleurs, avec l’équerre dont il a besoin pour Léo.
+« Vous voulez que je vous donne un formulaire ? » demande le vendeur. Patrick vérifie une nouvelle fois les quatre séances. Il a déjà oublié à combien revient le forfait sans accompagnement. Il prend le prospectus pour le relire ailleurs. À la caisse, il pose l’équerre sur le tapis et garde le papier plié dans sa main.
 
 ## Qu’est-ce qu’un effet de leurre ?
 

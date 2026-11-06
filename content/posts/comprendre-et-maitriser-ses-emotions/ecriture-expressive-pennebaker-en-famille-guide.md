@@ -13,11 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-Patrick retourne dans le garage de ses parents avec un carnet. Il le pose du côté de l’établi que la massue n’a pas fendu. La poussière est restée dans les rainures du bois. Il ne la balaie pas.
+Patrick retourne dans le garage de ses parents avec un carnet. Il le pose du côté de l’établi que la massue n’a pas fendu. La poussière est restée dans les rainures du bois. Il la voit aussi sur la boîte que l’éclat a heurtée. Il ne la balaie pas. Il tire le tabouret près du bord intact et prend le temps de s’asseoir.
 
-En mars, il avait écrit quelques lignes pour Marcel sur un bout de papier, puis refermé le tiroir de la cuisine. Cette fois, il voudrait écrire quelque chose qu’il puisse relire. Il a aussi laissé un message pour demander un rendez-vous au sujet de ce qui s’est passé dans le garage. Il attend qu’on le rappelle.
+En mars, il avait écrit quelques lignes pour Marcel sur un bout de papier. Le papier est toujours dans le tiroir de la cuisine. Il se rappelle où il l’a plié, mais à peine ce qu’il y a mis. Cette fois, il voudrait écrire quelque chose qu’il puisse relire. Il ne sait pas s’il commencera par Marcel ou par les coups. Il ouvre le carnet, le referme pour déplacer son téléphone et vérifie qu’il n’a pas d’appel manqué. Il a laissé un message pour demander un rendez-vous au sujet des coups. Il attend qu’on le rappelle.
 
-Catherine doit revenir avec Stéphanie. Ils n’ont pas repris le tri. Patrick ne sait pas si elle voudra le faire aujourd’hui. Il pousse le carnet vers le bord intact, le seul endroit où sa main ne bute pas sur le bois soulevé.
+Catherine doit revenir avec Stéphanie. Ils n’ont pas repris le tri. Patrick a dégagé la table du salon, au cas où. Il ne sait pas encore si Catherine voudra rouvrir les chemises de papiers. En cherchant une première phrase, il se surprend à préparer ce qu’il va lui dire avant qu’elle ait passé la porte. Il retourne à la page vide. À cet endroit de l’établi, sa main peut avancer sans buter sur le bois.
 
 ## Comprendre ce que la recherche appelle écriture expressive
 

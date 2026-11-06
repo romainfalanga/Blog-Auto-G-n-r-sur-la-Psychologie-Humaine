@@ -13,11 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-Sur l’écran, Antoine présente la nouvelle procédure de télétransmission. Priya a noté le nom des deux formulaires concernés. Elle attend qu’il parle des dossiers déjà en cours. Au lieu de cela, il revient à la page de connexion et répète qu’il suffit de suivre les étapes.
+Sur l’écran, Antoine présente la nouvelle procédure de télétransmission. Priya a noté le nom des deux formulaires concernés. Elle attend qu’il parle des dossiers déjà en cours. À la place, il revient à la page de connexion et répète qu’il suffit de suivre les étapes. Sur sa feuille, elle trace un trait sous le second formulaire. Le passage qu’elle attendait est déjà terminé.
 
-Elle coupe son micro. « Qu’il vienne passer un mardi ici. » À côté du clavier se trouve le dossier de Marc, après leur premier entretien. Il lui a demandé si les décisions seraient vraiment prises à deux. Elle a trouvé la question déplacée, puis n’a pas rappelé pour proposer une suite.
+Elle coupe son micro. « Qu’il vienne passer un mardi ici. » Elle s’aperçoit que la porte du bureau est entrouverte sur le couloir. Antoine continue sa présentation. À côté du clavier se trouve le dossier de Marc, après leur premier entretien. Il lui a demandé comment ils feraient s’ils voulaient tous les deux changer les horaires du cabinet. Elle lui avait répondu qu’il faudrait évidemment se mettre d’accord. Il avait alors demandé si les décisions seraient vraiment prises à deux. Priya a trouvé la question déplacée et n’a toujours pas proposé de deuxième rendez-vous.
 
-Sur le chat, une autre médecin pose la question des dossiers commencés. Priya a envie d’ajouter que personne, manifestement, n’a pensé à ce cas. Elle efface la phrase. Elle attend de voir si Antoine va répondre.
+Sur le chat, une autre médecin demande ce qu’elle doit faire des dossiers commencés. Quelqu’un ajoute que son logiciel ne ressemble pas à celui de la démonstration. Priya tape « Personne, manifestement, n’a prévu ce cas ». Elle s’arrête sur « personne ». Elle vient de lire deux messages qui posent la question qu’elle voulait poser. Elle efface sa phrase. Sur l’écran, Antoine referme la fenêtre qu’il partageait. Priya attend de voir s’il va lire le chat.
 
 ## Définition du concept de mépris
 

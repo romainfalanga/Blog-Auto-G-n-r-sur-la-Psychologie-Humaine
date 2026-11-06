@@ -13,9 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-Mei a apporté deux versions de la planche au rendez-vous avec M. Dubois. Sur la première, une silhouette bleue se dissout parmi des signes chinois. Sur l’autre, les signes sont plus espacés. Elle préfère la première et pose la seconde au-dessus, au cas où.
+Mei porte deux versions de la même planche au rendez-vous avec M. Dubois. Dans celle qu’elle préfère, une silhouette bleue se défait au milieu de signes chinois. Le bras tient dans un trait qui disparaît presque à l’endroit où les signes se resserrent. Dans l’autre, elle a dégagé un espace autour du personnage. Elle l’a faite après avoir passé une heure à imaginer les endroits que le professeur lui demanderait d’alléger.
 
-M. Dubois lui demande ce qu’elle a choisi de montrer. Mei s’entend dire : « La plus lisible, je pense. » Il tend la main vers la planche du dessous. Elle voudrait lui expliquer pourquoi elle l’a apportée. Pendant qu’il examine les deux dessins, elle retient sa phrase jusqu’à ne plus savoir par où commencer.
+Elle pose la seconde au-dessus de la première. M. Dubois regarde les deux coins qui dépassent et lui demande par laquelle elle veut commencer. Mei avait prévu d’expliquer le passage du bras au fond. Elle répond « la plus lisible, je pense », et tire vers lui la version du dessus. Le professeur la regarde quelques secondes avant de tendre la main vers la planche restée dessous.
+
+À la lumière de la table, Mei voit mieux pourquoi elle avait serré les signes. Le personnage a l’air de continuer dans le dessin, même là où le trait s’arrête. Elle pourrait montrer le bord du bras avec l’ongle. Au lieu de cela, elle commence à expliquer qu’elle peut encore déplacer plusieurs éléments. M. Dubois lui demande ce qu’elle voulait obtenir au départ. Elle relève la planche par un coin pour la faire pivoter. La ligne bleue se trouve maintenant de son côté à lui. Il attend encore sa réponse.
 
 ## Définition du concept d'assujettissement
 

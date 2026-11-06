@@ -13,11 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-Stéphanie n’a pas touché à son pain. Elle raconte à Patrick qu’elle ne sait plus quoi répondre à son responsable quand il lui demande de rester après son service. Patrick reconnaît la façon qu’elle a de lisser la serviette devant elle. Enfant, elle faisait déjà ça quand elle attendait une réponse de lui.
+Stéphanie n’a pas touché à son pain. Elle raconte à Patrick que son responsable lui demande encore de rester après son service. Il fait la demande au moment où elle prend son manteau, devant les autres. Patrick reconnaît la façon qu’elle a de lisser sa serviette. Enfant, elle faisait déjà ça quand elle attendait une réponse de lui.
 
-« Il doit encore pleuvoir demain », dit-il. Catherine tourne la tête vers la fenêtre. Le silence qui suit laisse entendre la cuillère de Julien au fond de sa tasse. Patrick a envie de demander à sa fille ce qui s’est passé au travail. Il cherche les mots et, pendant qu’il cherche, elle commence à ramasser les assiettes.
+« Il doit encore pleuvoir demain », dit-il. Catherine tourne la tête vers la fenêtre. Le silence qui suit laisse entendre la cuillère de Julien au fond de sa tasse. Stéphanie reprend son pain et casse un coin de la croûte. « Enfin, je vais me débrouiller. » Patrick voudrait savoir comment elle lui a répondu la dernière fois. Depuis le début, il imagine surtout ce qu’il dirait à ce responsable s’il l’avait devant lui. Rien de tout cela ne lui donne une phrase à adresser à sa fille.
 
-« Attends, laisse celle-là. » Il lui tend sa tasse au lieu de la prendre dans ses bras. Marcel, son père, répétait qu’un homme ne pleure pas. Patrick n’a jamais beaucoup discuté cette consigne. Il se demande à présent ce que Stéphanie a pu entendre dans sa remarque sur la pluie.
+Stéphanie se lève pour ramasser les assiettes. « Attends, laisse celle-là. » Patrick lui tend sa tasse au lieu de lui dire de se rasseoir. Il a le bras un peu trop loin de la table et doit le ramener quand elle ne prend pas la tasse tout de suite. Marcel, son père, répétait qu’un homme ne pleure pas. Patrick n’a jamais beaucoup discuté cette consigne. Il se demande à présent ce que sa fille a pu entendre dans sa remarque sur la pluie.
 
 ## Comprendre ce que signifie retenir l’expression d’une émotion
 

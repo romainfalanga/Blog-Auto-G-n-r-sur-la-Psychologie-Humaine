@@ -13,9 +13,13 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Monique a sorti la cocotte pour faire un bœuf bourguignon. En allant chercher une nappe, elle s’aperçoit qu’elle a prévu des quantités pour quatre. Ça lui arrive encore. Elle met une barquette de côté et envoie à sa fille Isabelle une photo du plat. Isabelle demande si elle compte sortir cet après-midi.
+Monique a sorti la cocotte pour faire un bœuf bourguignon. En allant chercher une nappe, elle s’aperçoit qu’elle a prévu des quantités pour quatre. Ça lui arrive encore. Elle met une barquette de côté avant de poser son assiette et envoie à sa fille Isabelle une photo du plat. « Tu sors un peu cet après-midi ? » lui demande Isabelle. Monique commence par répondre qu’elle a de quoi s’occuper.
 
-Geneviève a proposé de prendre le thé. À la bibliothèque, Monique discute avec des gens sans avoir à trouver de sujet. C’est souvent une question de livre ou d’horaire. Avec Geneviève, elle n’a pas cette entrée toute faite. Elle pense envoyer ses excuses. Elle hésite surtout entre son envie de rester tranquille et la crainte d’arriver sans rien à dire.
+Geneviève lui a proposé un thé. À la bibliothèque, Monique trouve toujours une entrée en matière : une date de retour, le nom d’un auteur, un livre remis dans le mauvais rayon. Quand quelqu’un s’attarde, elle prolonge volontiers la conversation. Elle sait aussi à quel moment reprendre son travail. Chez Geneviève, elle imagine qu’on lui demandera comment elle va. Elle ne tient pas à parler de Jean-Claude cet après-midi, mais elle aimerait pouvoir dire autre chose que « très bien ».
+
+Elle écrit à sa voisine qu’elle a de la cuisine à finir. Il lui suffit de lever les yeux pour voir la cocotte rincée sur l’égouttoir. Elle efface le message. À Isabelle, elle envoie simplement : « Geneviève passe tout à l’heure. » Elle aurait aimé entendre sa fille quelques minutes. Isabelle répond avec une photo de Lola, occupée à lire à la table de la cuisine.
+
+Monique laisse la barquette refroidir à découvert. Pour le thé, elle hésite encore. Elle aimerait garder le reste de l’après-midi pour elle, même si la visite peut lui faire du bien.
 
 ## Définition de l'isolement social et de l'aliénation
 

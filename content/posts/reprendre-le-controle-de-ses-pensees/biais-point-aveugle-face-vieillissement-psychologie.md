@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-Patrick déplie le plan de masse sur le capot. Son dos le lance lorsqu’il se penche, alors il bloque le coin de la feuille avec le mètre au lieu de tendre le bras. Sur le côté, un intérimaire dit qu’il a mal à l’épaule. Patrick marmonne qu’à son âge on récupère vite, avant de lui demander de terminer le lot.
+Patrick déplie le plan de masse sur le capot. Son dos le lance quand il se penche, alors il bloque le coin de la feuille avec le mètre au lieu de tendre le bras. Un intérimaire s’arrête de l’autre côté du véhicule. Il dit qu’il a mal à l’épaule et demande à changer de tâche pour la fin du poste. Patrick regarde le trait qu’il vient de suivre du doigt. Il n’a pas vu le geste dont parle le jeune homme.
 
-« Tu disais que les gars jugeaient les nouveaux parce qu’ils sont jeunes », lui fait remarquer un collègue. Patrick répond que lui sait reconnaître quelqu’un qui en rajoute. Il n’en sait rien, au fond. Il a surtout entendu une plainte au moment où il ne voulait pas que les autres remarquent la sienne.
+« À ton âge, on récupère vite. Termine le lot et on verra. » L’intérimaire se retourne avant que Patrick ait fini. Il reprend ses gants sur le siège de la camionnette. Un collègue, resté près du capot, lui rappelle ce qu’il disait des gars qui jugent les nouveaux parce qu’ils sont jeunes. Patrick répond qu’il sait reconnaître quelqu’un qui en rajoute. Le collègue lui demande s’il a vu le jeune porter quoi que ce soit ce matin. Patrick reprend son mètre.
 
-Il replie le plan, rate le pli, puis le recommence. Marcel montait sur les toits en se moquant des conseils de prudence. Patrick trouvait ça bête chez son père. Il a beaucoup plus d’arguments pour expliquer pourquoi, lui, peut encore travailler en ayant mal.
+Il replie le plan, rate le pli, puis le recommence. Marcel montait sur les toits en se moquant des conseils de prudence. Patrick trouvait ça bête chez son père. Quand le collègue lui propose de ranger le plan dans la camionnette, il s’apprête à dire qu’il n’a pas mal. L’autre lui a seulement proposé de prendre le plan.
 
 ## Qu’est-ce que le biais du point aveugle ?
 

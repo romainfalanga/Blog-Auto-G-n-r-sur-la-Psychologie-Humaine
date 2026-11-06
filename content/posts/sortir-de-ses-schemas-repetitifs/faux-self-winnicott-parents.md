@@ -13,9 +13,11 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Au restaurant, Wei demande à Mei si elle a pensé à reprendre des études de médecine. Il tient le ticket de la table six entre le pouce et l’index, prêt à repartir en cuisine. Mei lui répond qu’elle verra. Elle entend le ton appliqué qu’elle prend chaque fois que la question revient.
+Wei attend le ticket de la table six au bout du comptoir. Tandis que la machine imprime, il demande à Mei si elle a regardé les inscriptions en médecine. Elle était en train de lui raconter le vernissage. Le dessin dont elle parle n’est pas encore sorti de son carton. Elle répond qu’elle va voir, avec le ton sérieux qu’elle sait prendre pour que son père puisse passer à autre chose. Il arrache le ticket et lui demande si elle peut l’apporter en cuisine.
 
-Li lui demande d’aller chercher deux bols. Dans la réserve, Mei reçoit une photo d’Océane : leur dessin épinglé de travers après le vernissage. Elle répond par un pouce levé. Elle aurait plus de choses à lui dire qu’à Wei ce soir, mais la table six attend. Sur le chemin du retour elle s’arrête pour redresser un des bols sur la pile.
+Li lui demande aussi de prendre deux bols dans la réserve. À l’abri du bruit des couverts, Mei voit qu’Océane lui a envoyé une photo de leur accrochage. Sa planche penche légèrement et la lumière mange le haut de l’image. On voit tout de même les mains qu’elle a passées une soirée à reprendre. Elle répond par un pouce levé. Elle aimerait raconter à quelqu’un ce qu’elle a voulu faire de ces mains. Tout à l’heure, devant Wei, elle n’a pas dépassé le mot « vernissage ».
+
+En revenant avec les bols, elle entend son père répéter au serveur le numéro de la table. Le ticket s’est recourbé au contact de la vapeur. Mei le retourne pour que le six reste visible et pose les bols à portée de Li. Sur son téléphone, la photo est déjà redescendue sous d’autres messages. Elle la remonte d’un doigt avant de reprendre le service.
 
 ## Qu'est-ce que le faux self (Winnicott) ?
 Le « faux self » est une notion de la théorie psychanalytique de Donald Winnicott. Dans son essai de 1960, il distingue plusieurs formes d’adaptation, dont certaines peuvent protéger la spontanéité. Cette notion ne désigne ni un diagnostic ni une preuve sur la qualité du lien parental.

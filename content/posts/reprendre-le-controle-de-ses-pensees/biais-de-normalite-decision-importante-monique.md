@@ -13,9 +13,13 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Il y a une lettre de Jacques, une brochure et le courrier de la chaudière sur la table. Monique les écarte pour trouver une place à son assiette. Jacques a parlé d’habiter ensemble. Il aimerait un appartement plus près du centre. La maison où Monique a vécu avec Jean-Claude est plus grande qu’il ne lui en faut, et elle ne sait pas si elle veut la vendre.
+Il y a une lettre de Jacques, une brochure et le courrier de la chaudière sur la table. Monique les écarte pour trouver une place à son assiette. Jacques a parlé d’habiter ensemble. Il aimerait un appartement plus près du centre. Il a glissé la brochure avec la lettre en précisant qu’il l’avait prise pour les plans. Monique a déjà regardé deux fois le prix écrit en petits caractères. Ils n’ont parlé ni de budget ni de vente.
 
-En passant dans l’entrée, elle pense aux marches, qui lui coûtent certains soirs, puis au trajet jusqu’à la bibliothèque, qu’elle fait sans réfléchir. Sur un coin de la brochure, elle écrit : « Ce que j’aurais envie de garder. » Elle voudrait savoir si elle parle des meubles ou des habitudes.
+Dans l’entrée, elle baisse les yeux vers la marche où elle pose les sacs en rentrant des courses. Certains soirs, monter à l’étage lui coûte. À la bibliothèque, en revanche, elle arrive même quand elle a oublié de regarder l’heure. Elle sait à quelle fenêtre lever la main pour saluer Geneviève. Dans un appartement, elle aimerait ne plus avoir tout cet entretien. Elle aurait peut-être aussi moins de place pour fermer une porte et lire pendant que Jacques écoute la radio.
+
+Elle prend le téléphone pour appeler François. Il lui a déjà dit qu’il aimait revenir dans la maison familiale. Si elle lui demandait son avis maintenant, elle saurait à peu près ce qu’il lui répondrait. Elle repose le téléphone et revient à la brochure.
+
+Sur un coin de la page, elle écrit : « Ce que j’aurais envie de garder. » Le premier mot qui lui vient est « table ». Elle attend un peu avant de préciser de quelle table elle parle.
 
 ## Qu'est-ce que le biais du statu quo ?
 

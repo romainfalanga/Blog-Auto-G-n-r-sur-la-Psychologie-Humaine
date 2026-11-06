@@ -13,11 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-En salle de garde, Priya aligne les trois candidatures sur un bureau trop étroit. Marc a travaillé dans deux structures comparables au cabinet des Glycines. Son parcours lui rappelle celui de Damien. Elle avait presque écarté le dossier avant de lire la deuxième page.
+En salle de garde, Priya aligne les trois candidatures sur un bureau trop étroit. Pour lire celle du milieu, elle doit pousser les deux autres. Marc a travaillé dans deux structures comparables au cabinet des Glycines. Une ligne de son parcours lui a rappelé Damien. La première fois qu’elle a ouvert le dossier, elle l’a posé de côté avant de découvrir qu’il y avait une seconde page.
 
-La veille, elle a lu le récit d’un litige entre associés. Elle se souvient du montant de la dette et d’une phrase du jugement. De la façon dont les deux médecins répartissaient les gardes, elle n’a rien retenu. Dans le dossier de Marc, elle cherche la clause qui les aurait empêchés d’en arriver là, comme si les deux histoires se recouvraient.
+La veille, elle a lu le récit d’un litige entre associés. Elle se rappelle le montant de la dette et quelques mots du jugement, jusqu’à l’endroit où ils figuraient sur l’écran. Elle serait incapable de dire depuis combien de temps les médecins travaillaient ensemble. Elle cherche dans le dossier de Marc de quoi empêcher le scénario qu’elle imagine. Le CV ne dit rien de la façon dont il souhaiterait partager les gardes. Elle cherche encore, comme s’il avait pu l’écrire autrement.
 
-Le téléphone de garde sonne. Elle ferme les dossiers, répond, puis revient à celui de Marc. Sur la page de garde, elle écrit « appeler les références » et se rend compte qu’elle n’a posé cette question qu’à propos de lui.
+Le téléphone de garde sonne. Priya retourne la feuille, prend l’appel et note ce qu’elle doit faire ensuite. Quand elle reprend sa lecture, elle écrit « appeler les références » sur le dossier de Marc. Elle avait passé aussi vite sur les recommandations des deux autres, mais une idée de ce qui pouvait mal tourner ne lui est venue qu’en lisant le sien. Elle ouvre la candidature suivante en gardant son stylo à la main. La même information lui manque.
 
 ## Définition du concept de biais de disponibilité
 

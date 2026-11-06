@@ -13,11 +13,11 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Fabien est venu déjeuner chez son père. Quand celui-ci tend le bras vers les factures, il se lève pour les prendre avant même d’avoir entendu la demande. Son père lui montre une lettre qu’il ne comprend pas. Fabien en a déjà sorti deux autres de l’enveloppe.
+Le père de Fabien a repoussé son assiette pour déplier une lettre. Quand il tend le bras vers les factures, Fabien se lève. Il apporte l’enveloppe et commence à classer les feuilles par date. Son père suit du doigt une ligne de la première et lui dit qu’il voudrait comprendre d’où vient la somme. Fabien a déjà sorti deux autres courriers. Il pense au temps que lui prendront les appels s’il les fait demain pendant sa pause.
 
-Il se rappelle la conversation de mars à cette même table. Son père lui avait expliqué qu’il se taisait parfois de peur d’aggraver les disputes. Fabien ne connaît pas mieux les intentions de son père aujourd’hui. Il reconnaît seulement le mouvement de sa propre main : dès qu’un papier arrive, il le range comme s’il allait forcément l’emporter.
+À cette même table, en mars, son père lui avait parlé de sa manière de se taire quand il craignait d’aggraver une dispute. Fabien se rappelle surtout leur temps passé à débarrasser avant d’en arriver là. Il pourrait demander pourquoi ces lettres sont restées ensemble. Le premier mot qui lui vient est « encore », avec le ton qu’il n’avait pas voulu prendre en venant déjeuner.
 
-Il repose les autres lettres sur la table et lui demande par laquelle il veut commencer. Son père désigne la première. Fabien s’aperçoit qu’il n’a pas demandé de tout prendre.
+Il met les papiers en pile, dans le sens où il les rangera dans son sac. Son père retient du bout de l’index la lettre qu’il était en train de lire. « Celle-là, tu peux me dire ce qu’ils veulent ? » Fabien se rassied. Il lui demande de lui montrer le passage qui lui pose problème. Le doigt descend jusqu’au montant, puis revient à la date. Les deux autres courriers restent sur la table. Fabien les a déjà classés et il lui faut un effort pour ne pas les reprendre.
 
 ## Qu’est-ce que la parentification ?
 

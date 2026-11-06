@@ -13,9 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Sur la première page du document, Nadia lit « 80 % du portefeuille conservé ». Sur la deuxième : « 20 % du portefeuille perdu ». Le graphique a changé de couleur. À la seconde lecture, elle s’aperçoit que la période et les clients pris en compte sont les mêmes. Elle avait pourtant écrit « trop risqué » en marge de la deuxième page seulement.
+« Quatre sur cinq, c’est une bonne base », dit Nadia. Sur l’écran, le graphique est vert et le titre annonce que 80 % du portefeuille sera conservé. Elle avait prévu de demander un autre scénario de lancement. Elle pose la feuille correspondante sous son carnet. Autour de la table, on commence à parler des dates possibles.
 
-L’équipe lui demande son avis. Nadia lève la main pour qu’on attende un instant et rapproche les deux pages. Le lancement dépend du même groupe de clients dans les deux cas. Elle ne voit nulle part ce qui arrive si l’estimation est trop optimiste.
+La page suivante vient du dossier de risques. La barre orange s’arrête à 20 %. Le titre dit « portefeuille perdu ». Nadia dégage la feuille de sous le carnet et écrit « trop risqué » à côté du chiffre. Elle s’apprête à proposer un report quand elle reconnaît, en petit, le même mois et le même groupe de clients. Elle remonte d’une page. Les deux barres occupent à elles seules toute la largeur du graphique.
+
+Mathieu veut savoir s’ils peuvent conserver le créneau de lancement. Nadia lève la main pour demander un instant. Elle tourne son carnet de côté. Dans la première colonne, elle a noté « suffisant ». Dans la seconde, « trop risqué ». Elle pourrait expliquer l’écart si elle savait quelque chose de plus sur les clients de la deuxième page. Elle parcourt le bas du document à la recherche de la méthode. Il reste beaucoup de place sous le graphique, mais elle n’y trouve que le nom du dossier et son numéro de version.
 
 ## Définition du biais de cadrage
 

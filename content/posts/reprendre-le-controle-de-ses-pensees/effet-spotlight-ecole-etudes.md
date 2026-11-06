@@ -13,9 +13,11 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Mei vient de dépasser le bord du personnage. La bavure n’est pas large, mais elle ne voit plus qu’elle. Elle rapproche la planche de son tabouret au moment où M. Dubois s’arrête au chevalet d’à côté. Elle se demande combien d’étudiants l’ont regardée faire.
+Le pinceau vient de dépasser le bord du personnage. Mei tient la planche de biais pour voir si la couleur va couler. La bavure s’arrête à quelques millimètres de la manche. Debout à sa place, elle voit encore les deux silhouettes qu’elle a mises toute la matinée à séparer. Dès qu’elle recule, le petit trait lui revient au milieu du dessin comme s’il était plus foncé que les autres.
 
-Océane traverse l’atelier pour emprunter du diluant. Elle parle de deux silhouettes qui se détachent bien l’une de l’autre. Mei lui tend le flacon sans lui demander à quel dessin elle pense. Toute la séance, chaque bruit de pas lui fait relever la tête.
+M. Dubois s’arrête au chevalet d’à côté. Mei fait glisser sa planche vers le tabouret et prend le chiffon, sans l’approcher de la peinture fraîche. L’étudiant devant elle parle d’une couleur qu’il n’arrive pas à retrouver. Le professeur se penche sur sa palette. Mei a tout de même envie d’essuyer le trait avant qu’il reprenne sa tournée. À cet endroit, elle risque d’emporter le bord de la manche.
+
+Océane traverse l’atelier pour lui emprunter du diluant. Elle parle de deux formes qui se détachent bien l’une de l’autre. Mei lui tend le flacon sans demander si elle parle de sa planche. La question prend dans sa tête la forme d’une invitation à regarder plus près. Elle pose le chiffon sur sa cuisse et prépare une couleur pour la suite. Deux fois, le temps que la planche sèche, elle croit entendre quelqu’un s’arrêter derrière elle. La deuxième fois, c’est Océane qui revient poser le flacon.
 
 ## Définition de l'effet spotlight
 

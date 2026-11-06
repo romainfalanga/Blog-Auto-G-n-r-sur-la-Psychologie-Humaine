@@ -13,11 +13,11 @@ contexte: "en amitié"
 draft: false
 ---
 
-Priya descend les marches du cabinet en lisant le message de Julie. « Tu veux manger avec moi ce soir ? J’ai croisé Damien par hasard. On a parlé deux minutes. » Elle remonte d’une marche pour sortir du chemin des gens qui arrivent.
+Priya descend les marches du cabinet en lisant le message de Julie. « Tu veux manger avec moi ce soir ? J’ai croisé Damien par hasard. On a parlé deux minutes. » Elle remonte d’une marche pour sortir du chemin des gens qui arrivent. À la première lecture, elle n’a pas remarqué le mot « hasard ». Elle le relit maintenant, en tenant son téléphone assez bas pour que la personne qui attend devant elle ne voie pas l’écran.
 
-Elle tape « Il t’a demandé de mes nouvelles ? » puis efface la question. Elle se souvient de l’époque où Damien obtenait des nouvelles d’elle par des gens qui pensaient rendre service. Elle ignore ce que Julie lui a dit. Il lui suffit, à cet instant, de lire son prénom au milieu d’une invitation ordinaire.
+Elle tape « Il t’a demandé de mes nouvelles ? » puis efface la question. Quand elle était avec Damien, des gens lui transmettaient des choses sur elle en pensant rendre service. Elle se rappelle notamment ce que ça lui faisait d’apprendre qu’un renseignement donné à quelqu’un était déjà arrivé jusqu’à lui. Elle ignore de quoi Julie et lui ont parlé. Elle voudrait que Julie ait pensé, d’elle-même, à ne rien dire. Elles n’en ont jamais discuté.
 
-« Je ne viens pas ce soir. » Elle envoie la réponse avant de s’asseoir dans sa voiture. Il lui reste des courriers à signer. Elle songe à remonter au cabinet, mais les laisse pour le lendemain. Le message est arrivé une semaine avant qu’elle se décide à appeler Julie.
+« Je ne viens pas ce soir. » Elle envoie la réponse en arrivant à sa voiture. Il lui reste des courriers à signer, et elle songe à retourner au cabinet. Julie répond qu’elles peuvent remettre ça à plus tard. Priya laisse les courriers pour le lendemain. Les jours suivants, elle ouvre plusieurs fois leur échange. Elle retombe sur l’invitation et saute la dernière réponse. Il lui faudra une semaine pour décider de rappeler.
 
 ## Définition de la trahison en amitié
 

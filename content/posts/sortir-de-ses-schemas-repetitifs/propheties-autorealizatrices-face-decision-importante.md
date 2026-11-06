@@ -13,11 +13,13 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Il est quinze heures et la salle de Lyon est vide. Karim tient dans la main le numéro de Romain. Le virement pour réserver le local de Marseille remonte à plusieurs semaines. Il a cessé d’ajouter des dépenses au projet, sans obtenir de réponse claire sur la sortie de l’accord. Depuis, il laisse passer des appels de Romain par peur que son associé lui dise qu’il aurait dû l’écouter.
+Il est quinze heures et la salle de Lyon est vide. Sur le téléphone de Karim, le numéro de Romain est déjà affiché. Le virement pour réserver le local de Marseille remonte à plusieurs semaines. Il a cessé d’ajouter des dépenses au projet, sans obtenir de réponse claire sur la sortie de l’accord. Depuis, il laisse passer des appels de son associé. Il l’entend d’avance lui dire qu’il aurait dû l’écouter.
 
-Karim lance l’appel, raccroche avant la première sonnerie et se donne pour raison qu’il doit trouver les papiers d’abord. Le dernier message de Romain parlait aussi de l’équipe de Lyon. Karim l’avait ouvert sans répondre. Il craint maintenant que son silence ait laissé les autres sans moyen de savoir ce qu’il comptait faire.
+Il lance l’appel, raccroche avant la première sonnerie et se donne pour raison qu’il lui faut retrouver les papiers. Dans le dernier message, Romain lui demandait aussi ce qu’il avait dit à l’équipe de Lyon. Karim n’a rien dit. Au début, il attendait d’avoir des renseignements sur Marseille. Maintenant, il aimerait que Romain arrête de demander par message. Il a pourtant laissé sans réponse chaque appel où ils auraient pu en parler.
 
-La veille, Sofia lui a demandé s’ils pouvaient parler des prochaines dépenses du foyer. Il lui a répondu qu’il avait encore un service. Ce matin, elle lui a laissé les factures sur la table sans rien ajouter. Karim prend ce silence pour une condamnation, puis s’aperçoit qu’il ignore ce qu’elle aurait dit s’il était resté.
+La veille, Sofia lui a demandé s’ils pouvaient regarder les prochaines dépenses du foyer. Il lui a répondu qu’il avait encore un service. Ce matin, elle lui a laissé les factures sur la table. Il les a regardées debout et a attendu qu’elle lui dise quelque chose. Il est parti quand elle s’est mise à débarrasser les bols.
+
+Karim ouvre le tiroir près de la caisse. Le dossier de Marseille est là, avec l’enveloppe de la réservation. Il le trouve en moins d’une minute. Il referme le tiroir et reprend le téléphone.
 
 ## Définition des prophéties autoréalisatrices
 

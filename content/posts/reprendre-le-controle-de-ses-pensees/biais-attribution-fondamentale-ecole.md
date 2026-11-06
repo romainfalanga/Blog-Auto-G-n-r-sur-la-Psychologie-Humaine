@@ -13,11 +13,13 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Mathieu s’arrête sur le seuil du bureau. Il regarde les traces de boue qu’il vient de faire et annonce qu’il a encore manqué trois heures de cours. Isabelle a déjà « manque de motivation » en tête. Elle décale le dossier pour qu’il puisse s’asseoir.
+Mathieu s’arrête sur le seuil du bureau. Il regarde les traces de boue qu’il vient de faire et annonce qu’il a encore manqué trois heures de cours. Isabelle a déjà « manque de motivation » en tête. Elle décale son dossier pour qu’il puisse s’asseoir. Mathieu demande s’il aura besoin de sortir son carnet. Il garde son sac sur les genoux, la fermeture tournée vers lui.
 
-Il s’assoit avec son sac sur les genoux. Isabelle se rappelle l’empressement avec lequel elle essayait autrefois de savoir qui avait tort lors des disputes chez elle. Elle a envie d’aller aussi vite avec Mathieu. Le relevé d’absences lui apprend seulement quand il n’était pas là.
+Sur le relevé, Isabelle suit les absences du doigt. Elle a failli commencer par lui demander s’il savait ce qu’il risquait en continuant comme ça. Il vient de se présenter de lui-même à son bureau, et elle s’entend encore préparer cette phrase. Elle se souvient de l’empressement avec lequel elle cherchait, enfant, à comprendre qui avait tort quand ses parents se disputaient. Elle n’avait presque jamais entendu le début de la dispute.
 
-Depuis sa dispute avec Aurélie, Isabelle essaie de se demander ce qu’elle a réellement entendu avant de répondre. Avec Mathieu, c’est plus facile à dire qu’à faire. Elle lui demande ce qui s’est passé juste avant son premier cours manqué.
+« Je peux regarder quels cours c’était ? » demande Mathieu. Isabelle tourne l’écran de quelques centimètres. Il reconnaît le nom du professeur et pointe l’heure sans toucher l’écran. Elle allait lui demander pourquoi il n’avait pas fait davantage d’efforts. La ligne qu’il lui montre indique seulement qu’à cette heure-là, il n’était pas dans la salle.
+
+Depuis sa dispute avec Aurélie, elle essaie parfois de reprendre les mots exacts qu’elle a entendus. Avec Mathieu, il lui faut s’y reprendre aussi. Elle laisse le relevé affiché du côté de Mathieu. Elle lui demande ce qui s’est passé avant son premier cours manqué.
 
 ## Définition du biais d'attribution fondamentale
 

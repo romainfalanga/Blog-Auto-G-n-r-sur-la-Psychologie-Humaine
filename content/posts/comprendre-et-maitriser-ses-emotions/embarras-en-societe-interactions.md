@@ -13,9 +13,13 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Quelqu’un au vernissage demande où se trouve l’artiste. Mei lui indique sa propre planche sans répondre à la question. « Ah, c’est vous ? » dit la personne. Au même moment, quelqu’un rit derrière elles. Mei fait tomber le feuillet du programme en essayant de le plier.
+Au vernissage, une visiteuse tient le programme ouvert contre le mur pour faire correspondre les noms et les numéros. Elle demande à Mei où se trouve l’artiste du dessin devant elles. Mei lui montre la planche du bout du doigt. Il lui vient d’abord une réponse sur le numéro, puis elle comprend qu’on attend un nom.
 
-Elle se baisse pour le ramasser, ravie pendant une seconde de n’avoir à regarder personne. Sous les spots, elle voit la petite zone où elle avait hésité entre deux gris. Elle aimerait expliquer pourquoi elle a gardé le plus sombre. En relevant la tête, elle ne sait déjà plus si le rire concernait sa réponse.
+« Ah, c’est vous ? »
+
+Quelqu’un rit derrière elles au même moment. Mei baisse les yeux et essaye de plier son programme en deux sans retrouver le premier pli. Le feuillet lui échappe. Elle se baisse pour le ramasser. Elle voit les chaussures de la visiteuse qui restent tournées vers le mur et se demande si elle devrait faire comme si elle avait une course à faire de l’autre côté de la salle.
+
+En se relevant, elle retrouve sous les spots la petite zone qu’elle avait peinte deux fois. Au départ, le gris clair faisait disparaître la main contre le fond. Elle avait essayé un ton plus sombre sur une chute, puis repris toute cette partie du dessin. Elle aimerait en parler. La visiteuse attend encore devant la planche et Mei n’arrive pas à savoir depuis combien de temps elle se tait. Elle finit par dire son prénom. La visiteuse vérifie un numéro sur le programme. Derrière elles, le groupe s’est déplacé vers l’entrée. Mei serre son feuillet, désormais plié de travers.
 
 ## Qu'est-ce que l'embarras ?
 

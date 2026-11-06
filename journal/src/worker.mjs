@@ -147,7 +147,7 @@ async function likesResponse(env,userId) {
   return {likes,count:r.likes_count,explained_count:r.explained_count,source_version:snapshot.version};
 }
 const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
-const chat=createChatBackend({error,json,text,body,now,random,personal});
+const chat=createChatBackend({error,json,text,body,now,random,personal,catalogue:catalog});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
 function withoutPsychologyMap(value){

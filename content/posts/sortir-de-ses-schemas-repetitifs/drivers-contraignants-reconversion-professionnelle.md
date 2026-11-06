@@ -13,11 +13,15 @@ contexte: "en reconversion professionnelle"
 draft: false
 ---
 
-À vingt-deux heures trente, Margot ouvre un document vierge. À gauche de l’écran, il y en a déjà quatre qui s’appellent « Mémoire », dont un « définitif ». Elle pourrait rendre celui-là vendredi. Il manque une transition ; à la relecture, elle finit pourtant par reprendre la page entière.
+À vingt-deux heures trente, Margot ouvre un document vierge. À gauche de l’écran, il y en a déjà quatre qui s’appellent « Mémoire », dont un « définitif ». Elle pourrait rendre celui-là vendredi. Il manque une transition. Elle relit la phrase précédente pour savoir à quel mot raccrocher la suivante, change un verbe, puis déplace la phrase entière. Quand elle remonte pour vérifier ce que ça donne, les deux paragraphes disent presque la même chose.
 
-Philippe appelle de l’étage pour savoir si elle monte. « Dès que j’ai fini. » Elle dit ça depuis une heure. Dans son ancien bureau, une note aussi courte aurait été prête avant le déjeuner. Depuis qu’elle a quitté le commerce pour se former au coaching, elle vérifie même les phrases dont elle connaît déjà la suite.
+Philippe appelle de l’étage pour savoir si elle monte.
 
-Le lendemain, dans le métro, quelqu’un écrit sur le groupe de formation : « Vous avez compris ce qu’il faut mettre en annexe ? » Deux personnes répondent qu’elles hésitent aussi. Margot commence à taper. Elle range le téléphone avant d’envoyer.
+« Dès que j’ai fini. »
+
+Il lui demande s’il laisse la lumière. C’est la troisième fois qu’elle l’entend passer sur le palier. Dans son ancien bureau, elle aurait envoyé une note de cette longueur avant le déjeuner. Ici, elle hésite jusque sur le passage où elle raconte un entretien qu’elle a mené elle-même. En fermant le fichier, elle ajoute la date au nom pour le retrouver. Elle a gardé toutes les versions.
+
+Le lendemain, dans le métro, une participante écrit sur le groupe de formation : « Vous avez compris ce qu’il faut mettre en annexe ? » Deux personnes répondent qu’elles hésitent aussi. Margot sait répondre sur l’annexe. Elle commence par là, puis ajoute qu’elle aimerait un avis sur son introduction. Elle lit son message comme si quelqu’un d’autre l’avait écrit. Arrivée à sa station, elle envoie la réponse sur l’annexe et garde l’introduction pour elle.
 
 ## Qu'est-ce que les drivers contraignants ?
 

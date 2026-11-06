@@ -13,9 +13,11 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Chloé a gagné le trophée à quatorze ans. En essuyant l’étagère de son bureau, Margot le retrouve derrière un dossier. Une des danseuses a perdu un bras, probablement lors d’un déménagement de meubles. Elle avait oublié ça ; elle se rappelle très bien, en revanche, le retour de la compétition, Chloé endormie à l’arrière et Martin qui demandait quand ils allaient s’arrêter manger.
+Chloé a gagné le trophée à quatorze ans. En essuyant l’étagère de son bureau, Margot le retrouve derrière un dossier. Une des danseuses a perdu un bras, probablement lors d’un déménagement de meubles. Elle passe la main derrière la planche pour chercher le morceau. Elle n’y trouve que la poussière qu’elle repousse depuis qu’elle a installé les deux chaises pour ses séances.
 
-Dans la pièce que Chloé occupait, il y a maintenant deux chaises pour les séances. À dix-huit heures, Margot sait encore quelle marche grinçait quand sa fille rentrait. Elle ouvre la conversation avec Chloé, regarde les horaires et commence à taper « Tu ne donnes plus beaucoup de nouvelles ». Elle efface le début. Elle a envie de lui parler du trophée.
+Au retour de la compétition, Chloé s’était endormie à l’arrière, le trophée sur les genoux. Martin demandait quand ils allaient s’arrêter manger. Margot se rappelle avoir baissé le son de la radio et s’être agacée, très fort à voix basse, quand il a posé la question pour la quatrième fois. À présent, elle aimerait pouvoir rejouer ces dix minutes, jusqu’au bruit du trophée qui glissait contre la portière dans les virages.
+
+Philippe demande depuis le couloir s’il peut emporter les tasses. Margot lui montre la danseuse. Il se penche et reconnaît le trophée avant même qu’elle lui rappelle la compétition. Il se souvient surtout que Chloé voulait le monter elle-même dans sa chambre. Margot essuie le socle avec son chiffon, attend que Philippe soit redescendu et prend son téléphone. La dernière fois qu’elle a appelé sa fille, elles ont surtout parlé des horaires de dimanche. Elle commence à taper « Tu ne donnes plus beaucoup de nouvelles ». Le trophée est posé contre son coude. Elle efface la phrase. Ce qu’elle a envie de lui raconter tient dans la main.
 
 ## Définition de la nostalgie
 

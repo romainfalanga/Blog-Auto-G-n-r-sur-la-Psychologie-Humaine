@@ -13,9 +13,13 @@ contexte: "en période de fêtes de famille"
 draft: false
 ---
 
-Pour le déjeuner de famille, Monique a mis le plat au four avant l’arrivée de Jacques. Sur la table, il reste la place que Jean-Claude prenait d’habitude. Elle vient de la donner à Jacques sans s’en apercevoir. Elle déplace un couvert, puis le remet où il était.
+Pour le déjeuner de famille, Monique a mis le plat au four avant l’arrivée de Jacques. Elle a gardé la recette de sa mère et oublié à quel point la cocotte pleine est lourde. Elle avait demandé à François d’apporter le dessert. En préparant la table, elle est quand même allée vérifier deux fois s’il restait des biscuits, au cas où.
 
-Elle a envie de voir ses enfants et de les laisser parler à Jacques. Elle redoute aussi la question qu’ils pourraient lui poser sur la maison. Quand Jacques propose de mettre la carafe sur la table, Monique lui demande de la poser près de François. Le couvert ne bouge plus.
+Jacques retire sa veste dans l’entrée. Monique lui montre où il peut la mettre, puis revient déplacer un couvert. Elle vient de lui donner la place que Jean-Claude prenait d’habitude, celle d’où on tend le pain sans avoir à se lever. Elle fait glisser son verre vers la chaise voisine. De là, Jacques devrait se tourner chaque fois que quelqu’un lui parle depuis la cuisine. Elle remet le verre au premier endroit.
+
+« Je peux m’occuper de l’eau ? » demande Jacques. Elle lui tend la carafe et lui montre le bout de la table, près du couvert de François. Il fait ce qu’elle lui demande, puis retourne dans l’entrée chercher ses lunettes. Monique se rend compte qu’elle a préparé plusieurs réponses au cas où les enfants lui parleraient de la maison. Aucun d’eux n’a encore sonné. Il reste du temps avant que le plat soit prêt.
+
+Elle entend la cocotte bouillonner et baisse le four. En revenant dans la salle à manger, elle regarde la photo sur le meuble. Elle l’avait essuyée en mettant la table. Elle lui laisse sa place.
 
 ## Qu'est-ce que les loyautés invisibles de Boszormenyi-Nagy ?
 

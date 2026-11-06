@@ -13,9 +13,11 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Dans la buanderie de la résidence, Mei reconnaît la formule avant d’ouvrir la troisième publication : « Les studios ne gardent que les portfolios de six pages. » Elle l’a déjà mise en marge du sien. Cette fois le post n’indique aucun studio. Le précédent renvoyait à une vidéo où la phrase était prononcée à l’identique.
+À la buanderie de la résidence, Mei attend que le voyant du lave-linge s’éteigne. Sur son téléphone, un troisième compte reprend la règle des six pages. Elle connaît déjà la fin de la phrase avant de dérouler le texte. Les studios, lit-elle, ne gardent que les portfolios de six pages. Elle avait noté le chiffre en marge du sien la veille, à côté de la planche qu’elle pourrait déplacer pour faire de la place.
 
-Un message de Julien lui demande où ils dînent. Mei a envie de répondre « où tu veux », comme souvent. Elle lui propose un endroit qui ne soit pas trop bruyant et repose son téléphone pour vider le tambour. Le linge sent le savon. La phrase des six pages lui revient avant la fin du pliage.
+La première publication montrait une vidéo. Une autre citait un recruteur sans le nommer. Cette fois, il y a seulement des caractères blancs sur fond noir. Mei essaie de se rappeler dans laquelle elle avait vu le nom d’un studio. Elle retrouve surtout la voix de la vidéo qui prononçait la phrase, puis le même extrait sur un deuxième compte. Le voyant s’éteint pendant qu’elle fait défiler les publications enregistrées.
+
+Julien lui demande où ils dînent. Mei tape « où tu veux » et s’arrête après le dernier mot. Elle s’était reprise de la même façon en répondant à son invitation pour le film. Elle lui propose un endroit où ils pourront s’entendre parler. Elle range le téléphone et déplie un tee-shirt resté en boule au fond du tambour. La règle des six pages lui revient quand elle ouvre le sac pour y mettre le linge. Elle ne sait toujours pas si elle a lu trois conseils ou trois fois le même.
 
 ## Définition de l'effet de vérité illusoire
 

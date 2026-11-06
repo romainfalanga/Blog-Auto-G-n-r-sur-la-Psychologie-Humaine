@@ -13,11 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Djamila termine le tri des affaires de Samir, quatre mois après son départ. Dans un carton resté sous la table de la cuisine, elle retrouve un carnet d’Adam et la boîte qui contient son acte d’adoption. Elle était venue chercher du ruban adhésif. Elle s’assoit par terre avec le papier sur les genoux.
+Djamila termine le tri des affaires de Samir, quatre mois après son départ. Elle tire de sous la table de la cuisine un carton où elle pense avoir rangé le ruban adhésif. Le carnet d’Adam est dessus. Plus bas, elle reconnaît la boîte qui contient son acte d’adoption. Elle la soulève avec les deux mains, prend le papier et s’assoit par terre. Autour d’elle, il reste assez peu de choses à trier pour qu’elle ait cru en finir avant d’aller chercher son fils.
 
-Un bruit sec la fait sursauter dans la cage d’escalier. Elle reconnaît le pas du voisin et attend que sa porte se referme. Après la formation et les réussites au travail, elle aimerait que ce bruit ne lui fasse plus cet effet. Elle ne parvient pas à déplier le papier tout de suite.
+Un bruit sec retentit dans la cage d’escalier. Sa main se ferme sur le coin de la feuille. Elle reconnaît ensuite le pas du voisin et attend que sa porte se referme. À la formation, elle a pu aller au bout d’une objection devant plusieurs personnes. Dans sa cuisine, le palier est silencieux depuis un moment et Djamila hésite encore à faire du bruit en dépliant son papier.
 
-L’acte lui donne une date. Pour ce qui s’est passé avant, elle a surtout des récits rapportés, des questions et quelques images qu’elle ne sait pas situer. Elle pense à la peur de ne pas être attendue. Elle peut prendre cette peur au sérieux sans décider de quel âge elle lui vient.
+Elle remet le coin froissé à plat. L’acte lui donne une date. Des années qui précèdent, elle connaît des récits qu’elle ne sait pas toujours mettre dans l’ordre. Elle essaie de se rappeler qui lui a raconté quoi et perd vite le fil. À côté d’elle, le cahier est ouvert sur un dessin qu’Adam n’a pas terminé. Elle le rapproche pour qu’il ne soit pas pris dans les affaires à mettre en carton. Il reste un peu de temps avant d’aller le chercher chez Amina.
 
 ## Qu'est-ce que l'enfant intérieur ?
 

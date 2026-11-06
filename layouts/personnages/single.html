@@ -1,4 +1,27 @@
 {{ define "main" }}
+{{- $parcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
+{{- $parcours = $parcours | replaceRE `(<a[^>]*class="parcours-link"[^>]*>).*?(</a>)` "${1}Lire${2}" }}
+{{- $parcours = $parcours | replaceRE `(?s)<div class="parcours-(?:date|cat)">.*?</div>` "" }}
+{{- $counts := newScratch }}
+{{- $counts.Set "topics" (dict) }}
+{{- range findRESubmatch `<a href="(/posts/[^"<>]+)" class="parcours-link">Lire</a>` $parcours }}
+  {{- $link := index . 0 }}
+  {{- $id := trim (index . 1) "/" }}
+  {{- with index $.Site.Data.parcours_topics $id }}
+    {{- $topics := partial "parcours-topics.html" . }}
+    {{- $parcours = replace $parcours $link (printf "%s%s" $topics $link) }}
+    {{- range uniq . }}
+      {{- $count := index ($counts.Get "topics") . | default 0 }}
+      {{- $counts.SetInMap "topics" . (add $count 1) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- $recurring := slice }}
+{{- range $label, $count := $counts.Get "topics" }}
+  {{- if gt $count 1 }}
+    {{- $recurring = $recurring | append (dict "label" $label "count" $count) }}
+  {{- end }}
+{{- end }}
 <div class="personnages-page">
   <a class="catalogue-back" href="/#personnages"><span aria-hidden="true">←</span> Tous les personnages</a>
 
@@ -20,13 +43,18 @@
     {{ $presentation := .Description }}
     {{ with index .Site.Data.character_presentations ((.Params.prenom | default .Title) | lower) }}{{ $presentation = .presentation }}{{ end }}
     <p class="perso-profile-bio">{{ $presentation }}</p>
+    {{ with first 5 (sort $recurring "count" "desc") }}
+    <div class="perso-profile-themes">
+      <p id="perso-profile-themes-title">Thèmes récurrents</p>
+      <ul aria-labelledby="perso-profile-themes-title">
+        {{ range . }}<li>{{ .label }}</li>{{ end }}
+      </ul>
+    </div>
+    {{ end }}
     </div>
   </header>
 
   <div class="perso-parcours-page">
-    {{ $parcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
-    {{ $parcours = $parcours | replaceRE `(<a[^>]*class="parcours-link"[^>]*>).*?(</a>)` "${1}Lire${2}" }}
-    {{ $parcours = $parcours | replaceRE `(?s)<div class="parcours-(?:date|cat)">.*?</div>` "" }}
     {{ $parcours | safeHTML }}
   </div>
 

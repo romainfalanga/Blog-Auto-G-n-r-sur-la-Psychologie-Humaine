@@ -13,9 +13,13 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Le premier candidat, Marc, accroche le pied d’une chaise en entrant. Nadia écrit « hésitant » en haut de la fiche. Dix minutes plus tard, il décrit avec précision un lancement où son équipe avait changé de direction faute de données. Elle se rend compte qu’elle a pris plus de notes sur son entrée que sur sa réponse.
+Marc accroche du pied la chaise de l’entretien. Il la remet d’aplomb et cherche où poser son dossier. Pendant qu’il s’installe, Nadia inscrit « hésitant » en haut de la fiche. C’est le seul mot qu’elle ait écrit avant de lui poser la première question. Julie lui indique qu’il peut garder ses notes devant lui.
 
-Sarah passe ensuite. Elle a une façon plus assurée de présenter son parcours. Nadia a déjà une préférence avant la première question technique. Elle retourne la fiche de Marc et reprend les critères qu’elle avait préparés avec Julie.
+Plus tard, Nadia lui demande de raconter un lancement qui a changé de direction. Marc décrit le moment où l’équipe s’est rendu compte qu’elle ne savait presque rien du premier groupe de clients. Il détaille le test qu’ils ont conservé et celui qu’ils ont écarté. Nadia a une question à lui poser sur la suite. Pour faire de la place, elle la note tout en bas, loin du mot qui occupe déjà le haut de la feuille.
+
+Sarah entre avec son dossier ouvert à la bonne page. Elle résume son parcours dans le temps que Nadia s’était donné pour cette partie de l’entretien. Nadia coche spontanément la case « communication ». À la première relance technique, elle réalise qu’elle demande à Sarah comment elle avait tenu le délai, alors qu’elle s’était surtout intéressée aux chiffres avec Marc.
+
+Quand Sarah est partie, Julie empile les deux fiches. Nadia se surprend à vouloir commencer par l’aisance de la seconde candidate. Elle retourne la feuille de Marc et remet entre elles la grille préparée avant les entretiens.
 
 ## Définition de l'effet de primauté chez le manager
 

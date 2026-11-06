@@ -13,11 +13,13 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Un étai ripe. Patrick lâche la barre et crie à Antoine de reculer. Un second cri lui échappe, plus fort que le premier. Cette fois, le jeune homme a déjà fait deux pas en arrière.
+Un étai ripe. Patrick lâche la barre et crie à Antoine de reculer. Le jeune homme a déjà fait deux pas quand Patrick crie encore : « Bouge, abruti ! » Antoine regarde la barre, puis Patrick. Il ne bouge plus.
 
-La livraison est en retard. Patrick a voulu avancer les étais avant de reprendre les vérifications, alors qu’il avait dit quelques jours plus tôt qu’il attendrait le matériel. Quand il s’est baissé, son dos l’a surpris. Il ne sait pas exactement à quelle distance la barre est passée d’Antoine. Il demande à un collègue de garder la zone libre et descend vers la camionnette.
+Dix minutes plus tôt, ils attendaient une livraison. Antoine avait demandé s’ils reprenaient les vérifications en attendant. Patrick regardait la zone qu’il avait promis de libérer avant midi. Il avait dit, quelques jours plus tôt, qu’ils attendraient le matériel. Cette fois, il avait répondu qu’ils allaient juste avancer les étais. En se baissant, son dos l’a surpris. Il ne sait pas à quelle distance la barre est passée d’Antoine.
 
-Dans la cabine, il entend encore le mot qu’il a lancé à Antoine devant tout le monde. Il avait de quoi arrêter le travail sans l’insulter. À travers la vitre, il voit le jeune homme qui a repris ses gants. Patrick reste assis quelques minutes avant de retourner vers lui.
+Patrick demande à un collègue de garder la zone libre et descend vers la camionnette. Il s’assied sans fermer la portière. S’il entendait un autre chef parler comme ça à quelqu’un de l’équipe, il saurait quoi lui dire. Là, il trouve encore des raisons de parler du retard et de sa jambe. La première consigne, celle qui a fait reculer Antoine, était nécessaire. L’insulte est venue après.
+
+À travers la vitre, il voit Antoine ramasser ses gants là où il les avait lâchés. Le collègue a rejoint Antoine, loin de la barre. Patrick garde les mains sur ses cuisses. Il veut pouvoir retourner les voir sans recommencer à crier.
 
 ## Comprendre la colère en situation de conflit
 

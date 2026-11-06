@@ -13,11 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Dans l’ascenseur, Youssef garde le pouce sur l’écran pour que le message ne s’éteigne pas. Son entreprise lui propose de prendre la tête d’une équipe à Lyon. « Rémunération : 48 000 € bruts par an. » Il lit la ligne deux fois. Il n’a pas encore ouvert la fiche de poste et se surprend déjà à calculer ce qui lui resterait après un loyer.
+Dans l’ascenseur, Youssef garde le pouce sur l’écran pour que le message ne s’éteigne pas. Son entreprise lui propose de prendre la tête d’une équipe à Lyon. « Rémunération : 48 000 € bruts par an. » Il lit la ligne deux fois. Au moment de sortir, il en est déjà à se demander combien il lui resterait après un loyer. La porte a commencé à se refermer. Il passe de côté avant qu’elle le rattrape.
 
-En regagnant son poste, Youssef rouvre le message. Une collègue le voit chercher les prix des locations à Lyon et lui donne le nom d’un quartier. Il ajoute aussitôt un loyer à son calcul. Il ne sait toujours pas qui il serait censé encadrer.
+À son poste, il ouvre un onglet pour regarder les locations. Une collègue se penche vers son écran en passant et lui donne le nom d’un quartier. Il prend le prix de la première annonce et l’ajoute au calcul sur un coin de son carnet. La collègue lui demande quand on attend sa réponse. Il retourne au mail. Il faut appeler quelqu’un. Il a retenu les cinq chiffres du montant, et il doit encore relire le nom de la personne.
 
-Quand il en parle à Léa, elle lui demande ce que l’équipe fait exactement. Il cherche la réponse dans le mail. Il n’y trouve qu’un intitulé et le nom de la personne à appeler. Ils peuvent regarder des appartements sans que cela l’engage à accepter ce poste, et le choix de son salaire ne dit rien de l’endroit où elle fera son stage.
+Quand il en parle à Léa, elle lui demande ce que l’équipe fait exactement. Il agrandit la ligne sous le montant, puis la suivante. Le mail donne un intitulé, aucune description du travail. Il lui parle alors du quartier indiqué par sa collègue, comme si le plus simple était de reprendre par ce qu’il connaît. Léa reprend sa question sur l’équipe. Elle garde pour plus tard les annonces qu’ils ont regardées ensemble. Youssef cherche une pièce jointe dans le message.
 
 ## Qu'est-ce que le biais d'ancrage ?
 

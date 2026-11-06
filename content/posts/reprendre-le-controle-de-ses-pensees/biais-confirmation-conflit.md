@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Djamila vient d’annoncer à Antoine qu’elle pense qu’un signalement supplémentaire est nécessaire pour la femme et l’enfant qu’elle accompagne. Dans la salle de réunion de l’association, Antoine lui demande quel élément a changé depuis la dernière évaluation. Sa voix est sèche. La première pensée de Djamila : il veut encore me faire passer pour quelqu’un qui ne suit pas les dossiers.
+Djamila vient d’annoncer à Antoine qu’elle pense qu’un signalement supplémentaire est nécessaire pour la femme et l’enfant qu’elle accompagne. Dans la salle de réunion, Antoine lui demande quel élément a changé depuis la dernière évaluation. Sa voix est sèche. Djamila garde le doigt sur la ligne qu’elle allait lui montrer. Elle l’entend déjà ajouter qu’elle connaît mal son dossier.
 
-Moins d’une semaine plus tôt, le geste d’Amina à la brasserie lui a paru intrusif avant qu’elle trouve comment en parler. Avec Antoine, elle a aussi un fait précis : il est entré dans un entretien sans frapper. Il suffit qu’il parle de délai administratif pour que ces deux souvenirs lui reviennent ensemble.
+Antoine parle de délai et tourne une page. Djamila lui rappelle qu’il est entré sans frapper dans un entretien. Il relève la tête. « Je te demandais ce qui avait changé pour la famille. » Ce ton-là lui rappelle sa réaction au moment où elle lui a demandé de sortir du bureau. En cherchant une réponse, elle revoit aussi la main d’Amina sur son bras à la brasserie, quelques jours plus tôt. Elle avait mis un moment à pouvoir lui dire ce que ce geste lui avait fait.
 
-Elle sort boire un verre d’eau. Sur son téléphone, le dessin de dragon qu’Adam lui a montré le matin, sur la table du salon, s’affiche encore. Elle retourne à la salle et reprend là où Antoine l’a interrompue : quels éléments lui manquent avant qu’ils puissent décider de la suite ?
+Elle sort boire un verre d’eau. Son téléphone s’allume sous son pouce. Le dessin de dragon qu’Adam lui a montré le matin, sur la table du salon, s’affiche encore. Elle retourne à la salle avec le verre à moitié plein. Antoine a laissé le dossier ouvert. Djamila lui montre enfin la ligne. Elle ne sait toujours pas s’ils sont d’accord sur la suite. Elle voudrait entendre précisément ce qui lui manque pour se prononcer.
 
 ## Définition du biais de confirmation
 

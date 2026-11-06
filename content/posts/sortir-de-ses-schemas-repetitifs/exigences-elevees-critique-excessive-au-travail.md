@@ -13,9 +13,11 @@ contexte: "au travail"
 draft: false
 ---
 
-Julie a rendu le rapport de marché. Nadia retrouve d’abord la virgule au mauvais endroit, puis un défaut d’alignement. Elle prépare un retour sur ces deux points sans avoir vérifié le chiffre qui doit servir à prendre la décision.
+Julie a rendu le rapport de marché. Nadia ouvre le document pour vérifier la part des renouvellements, le chiffre que la direction attend. En haut de la page, une virgule sépare le sujet du verbe. Nadia l’entoure, descend d’une ligne et voit que le titre du tableau ne tombe pas à la verticale de la colonne. Elle commence un retour à Julie sur ces deux points. Le chiffre reste hors de l’écran.
 
-À dix ans, elle avait rapporté un dix-huit en mathématiques et Fatima lui avait demandé où étaient les deux autres points. Nadia pense aussi à Yasmine et à la farine, à l’ordre qu’elle a donné avant de vérifier ce qui s’était passé. Elle supprime du brouillon « encore un manque de rigueur ». Avant de demander une correction à Julie, elle veut trouver quelle erreur changerait réellement le rapport.
+À dix ans, elle avait posé sur la table un dix-huit en mathématiques. Fatima avait regardé la feuille et demandé où étaient les deux autres points. À l’époque, Nadia avait passé la fin du repas à refaire de tête le problème qu’elle avait raté. Cette fois, elle a déjà tapé « encore un manque de rigueur » lorsque Julie lui écrit pour savoir si elle peut prévenir l’équipe qu’elle s’occupe de la dernière version.
+
+Nadia aurait le temps de reprendre le tableau elle-même. Elle sait aussi comment ça se passe ensuite. Julie reçoit un document remis en forme dont elle doit retrouver les modifications, et Nadia garde dans sa tête le dossier de quelqu’un d’autre. Elle revient à son message et efface la remarque générale. Le geste lui rappelle la cuisine, le paquet de farine et la phrase sortie avant que Yasmine ait fini la sienne. Elle réduit le zoom pour voir le tableau entier. Deux séries se touchent sous le même titre.
 
 ## Définition des exigences élevées et de la critique excessive
 

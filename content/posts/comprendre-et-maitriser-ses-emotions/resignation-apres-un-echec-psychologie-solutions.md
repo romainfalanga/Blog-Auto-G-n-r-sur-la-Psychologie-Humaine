@@ -13,9 +13,11 @@ contexte: "après un échec"
 draft: false
 ---
 
-Margot tourne un carnet à couverture souple dans le rayon papeterie. Il est de la même taille que celui qu’elle n’ouvre plus. Deux semaines après le premier virement, plusieurs propositions restent sans réponse et un contact a décliné. Elle avait déjà noté dans quel ordre elle relancerait chacun ; le carnet est resté fermé depuis le dernier refus.
+Dans le rayon papeterie, Margot ouvre un carnet neuf. Il est de la même taille que celui qu’elle a laissé dans son sac. Elle imagine commencer en haut d’une page propre, avec deux colonnes, les personnes à rappeler et les nouvelles propositions. Dans l’ancien, les trois lignes où elle comptait noter les réponses sont restées vides. Deux semaines après le premier virement, un contact a décliné et les autres n’ont rien envoyé. Elle tourne encore une page du carnet neuf. Elle n’a pas de nouvelle ligne à y inscrire.
 
-Elle repose le neuf, traverse le parking et s’installe dans la voiture. Elle n’a pas envie d’appeler Sylvie. Imaginer les questions de sa mentor lui demande déjà un effort. Elle ouvre le dernier courriel pour vérifier si le refus concerne son tarif. Il n’y a pas de raison indiquée. Elle éteint l’écran et reste un moment sans mettre la clé dans le contact.
+Le sac lui tire sur l’épaule depuis l’entrée du magasin. Margot le remonte et remet le carnet dans le rayon. Sur le parking, elle passe devant deux voitures avant de se rendre compte qu’elle est garée plus près de la porte. Elle s’assied et pose le sac côté passager. Elle pourrait appeler Sylvie. Sa mentor lui demanderait peut-être quel rendez-vous elle peut encore proposer. Rien qu’à imaginer la question, Margot entend la réponse qui lui est venue en rentrant hier : à quoi bon ?
+
+Elle retrouve le courriel du refus et le lit jusqu’à la signature. Elle cherche un mot sur le tarif. Le message tient en deux phrases et aucune ne donne de raison. Son pouce reste sur « Répondre ». Elle ne voit pas ce qu’elle pourrait écrire sans que ça ressemble à une demande de changer d’avis. Elle éteint l’écran et garde les clés dans la main.
 
 ## Définition de la résignation après un échec
 

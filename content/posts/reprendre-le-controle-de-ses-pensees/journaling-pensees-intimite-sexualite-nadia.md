@@ -13,9 +13,11 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Antoine s’est endormi avant elle. Nadia regarde la fissure du plafond et pense à ce qu’elle aurait pu lui dire tout à l’heure. Elle avait envie d’être près de lui, sans avoir envie de faire comme les soirs où tout leur paraît plus simple. En cherchant quoi faire, elle s’est mise à compter mentalement les tâches du lendemain.
+Avant d’éteindre la lampe, Antoine lui a demandé si elle voulait se rapprocher. Nadia a déplacé son oreiller, contente de le sentir à côté d’elle. Elle aurait volontiers gardé sa main dans la sienne un moment. En même temps, elle s’est demandé ce qu’Antoine attendait ensuite et s’il allait être déçu de sa réponse. Il lui a fallu assez longtemps pour y penser que la conversation s’est arrêtée. Antoine lui a dit bonne nuit, puis il s’est endormi.
 
-Elle se lève et ouvre le carnet du petit bureau. Elle avait prévu de le prendre pour comparer des horaires de travail. Ce soir elle y note seulement la phrase qui lui revenait : « Je devrais arriver à arrêter de penser à ça. » Le fait qu’elle l’écrive ne lui dit pas encore ce qu’elle voulait, ni ce qu’Antoine a compris.
+Dans le noir, Nadia revient à l’instant où elle aurait pu parler. Elle essaie plusieurs réponses en pensée. Au milieu d’une phrase, elle se retrouve à compter les dossiers qu’elle devra ouvrir demain matin. Il y en a un dont elle connaît déjà le nom du fichier et l’heure à laquelle Julie en aura besoin. C’est plus facile de s’occuper de celui-là.
+
+Elle se lève et va chercher le carnet du petit bureau. Elle y avait tracé deux colonnes pour comparer des horaires de travail. Elle tourne la page pour avoir de la place et écrit d’abord « Je devrais arriver à arrêter de penser à ça ». Elle relit la phrase. Elle peut encore entendre le bruit de l’oreiller qu’elle a tiré vers Antoine. Les mots qu’il a prononcés, eux, se mélangent déjà avec ceux qu’elle lui prête. Elle garde la page ouverte.
 
 ## Définition du journaling de pensées
 

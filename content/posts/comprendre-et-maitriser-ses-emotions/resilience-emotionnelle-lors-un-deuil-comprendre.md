@@ -13,11 +13,11 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Patrick cherche une pince dans son garage et tombe sur celle que Marcel lui a offerte le jour où il est passé chef d’équipe. Son père avait entouré le manche de ruban pour que la pince ne glisse pas. Il en reste un bout sous la vis.
+Patrick cherche une pince dans son garage. Un écrou tourne avec la vis qu’il essaie de retirer. La première qu’il trouve est celle que Marcel lui a offerte le jour où il est passé chef d’équipe. Son père avait entouré le manche de ruban pour que la pince ne glisse pas. Il en reste un bout sous l’articulation, noir à force d’avoir pris la poussière et la graisse.
 
-L’enterrement a eu lieu trois jours plus tôt. Patrick s’est remis à descendre au garage sans raison précise : il déplace deux outils, il remonte. Aujourd’hui il reste devant l’établi, un doigt accroché au ruban. Au-dessus, Catherine ouvre le tiroir à couverts.
+L’enterrement a eu lieu trois jours plus tôt. Patrick descend souvent au garage depuis. Il prend un objet, le change de place, puis remonte. Aujourd’hui, il pince le ruban entre deux doigts. Il pensait l’enlever depuis des années parce qu’il colle à l’intérieur de la caisse. Il tire un peu, puis relâche. Au-dessus, Catherine ouvre le tiroir à couverts. Elle lui demande si elle peut commencer à servir.
 
-Il pourrait remettre la pince où elle était. Il la garde dans sa main jusqu’en haut de l’escalier. À mi-chemin, il se rappelle que Marcel lui a tendu l’outil manche en avant, comme s’il lui passait le relais d’une tâche très simple.
+« J’arrive. » Patrick laisse la vis en place. Il a oublié pourquoi il tenait à la retirer avant le dîner. Il monte avec la pince dans la main. Dans l’escalier, il retrouve un détail du jour où Marcel la lui a donnée. Son père la lui avait présentée manche en avant, comme quand ils travaillaient côte à côte. Patrick attendait une remarque sur sa promotion. Marcel avait seulement dit : « Tu peux la mettre dans ta caisse. » En haut, Patrick cherche de la place entre les assiettes.
 
 ## Comprendre la diversité des réactions après un décès
 

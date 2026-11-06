@@ -13,9 +13,13 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-La responsable du programme d’ateliers a surligné une ligne du cahier des charges. Margot doit utiliser le même script à chaque séance. Sur la page suivante, il est question de reconduire le programme si le groupe se remplit. Elle plie la page à l’endroit où elle voulait écrire « intéressant », sans savoir si elle y croit toujours.
+La responsable du programme d’ateliers fait pivoter le cahier des charges pour que Margot voie la ligne surlignée. À chaque séance, il faudra utiliser le même script. Margot avait préparé une activité à partir des situations que les participants choisiraient d’apporter. Elle retrouve la page où elle l’a notée et, sans s’en rendre compte, rabat la couverture de son carnet par-dessus. La responsable passe au nombre de groupes, puis à la possibilité de reconduire le programme. Margot suit les chiffres. Elle entend encore la phrase sur le script lorsque la responsable lui demande si elle a des questions.
 
-Dans la voiture, elle repense au premier appel. Maintenant, elle a l’impression qu’elle aurait dû deviner le cadre. Elle retrouve ses notes : une salle, deux groupes et le nom d’une personne à contacter. Aucune mention du script. Elle met un trait devant le mot « devait », qu’elle vient d’écrire en haut de la feuille, et prend une nouvelle page.
+« Je vais relire les documents au calme. »
+
+Dans la voiture, elle déplie le cahier des charges sur le volant. Le script lui paraît si central qu’elle a maintenant du mal à croire qu’il n’en ait jamais été question. Elle se repasse le premier appel. La salle, les deux groupes, la personne à contacter : elle retrouve les trois éléments sur la page qu’elle avait remplie pendant que la responsable parlait. Elle relit la marge, là où elle griffonne ce qui lui échappe. Elle n’y voit qu’un numéro de téléphone.
+
+Elle écrit en haut de la feuille : « Je devais m’en douter. » Si elle s’en était doutée, elle aurait demandé à voir le script avant de préparer son activité. Dans ses notes, le premier renseignement sur le format est celui qu’elle vient de recopier. Elle tire un trait devant « devais » et tourne la page.
 
 ## Définition du biais rétrospectif
 Le biais rétrospectif consiste à surestimer, après avoir pris connaissance d’un résultat, à quel point on aurait pu le prévoir. Dans les [expériences de Baruch Fischhoff](https://www.cmu.edu/epp/people/faculty/faculty-images-and-files/jep-hpp-hindsight-foresight-1975.pdf), apprendre l’issue d’un événement modifiait les jugements sur sa probabilité avant l’annonce.

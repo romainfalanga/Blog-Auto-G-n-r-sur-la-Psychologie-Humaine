@@ -13,11 +13,13 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Au réveil, Hugo retrouve le message qu’il a envoyé après le concert du Melody. Chloé ne lui a pas répondu. Depuis qu’elle ne dort plus à l’appartement, il a parfois envie de l’appeler dès qu’il se lève. Ce matin, il veut aussi bloquer son numéro pour ne pas avoir à attendre.
+Au réveil, Hugo retrouve le message qu’il a envoyé après le concert du Melody. La conversation s’arrête sur sa déclaration. Il regarde l’heure et se dit que Chloé dort peut-être encore. Il pose le téléphone, le reprend pour appeler, puis ouvre le menu où figure « Bloquer le contact ». Il aurait au moins une raison de cesser de vérifier l’écran.
 
-Il s’approche de la fenêtre. L’autre jour au studio, il a joué trop fort quand elle a voulu se rapprocher. Il se demande ce qu’il ferait si elle sonnait à la porte maintenant. Il aimerait l’entendre, mais il n’est pas certain de vouloir rouvrir cette conversation chez lui.
+Dans la cuisine, il remplit la cafetière et sort deux tasses par habitude. Depuis que Chloé ne dort plus à l’appartement, il laisse parfois la deuxième sur l’étagère du bas, celle qu’elle pouvait atteindre sans bouger la pile de bols. Il la replace en haut ce matin. Il aimerait pourtant entendre Chloé lui dire comment elle va. Il ouvre la conversation, tape « Salut » et s’arrête là. Une visite lui ferait plaisir aussi, jusqu’au moment où il faudrait choisir ce qu’ils se diraient dans cette pièce.
 
-Hugo pose son téléphone sur le bord de l’évier. Il peut avoir deux envies contraires sans laisser celle qui vient d’arriver décider pour l’autre.
+L’autre jour, Chloé avait demandé à se rapprocher et il avait fini par jouer si fort que sa voix se perdait. En y repensant, Hugo prend de nouveau le téléphone. Une phrase lui vient pour s’excuser, puis une autre qui lui demanderait pourquoi elle ne répond pas. Il sait laquelle risque de sortir la première s’il appelle maintenant.
+
+La cafetière commence à gargouiller. Hugo pose le téléphone sur le bord de l’évier pour attraper le manche. Le temps de remplir sa tasse, il a encore envie qu’elle appelle et redoute que l’écran s’allume.
 
 ## Qu’est-ce que l’ambivalence après une rupture ?
 

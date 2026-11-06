@@ -13,9 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-En sortant du pilates, Nadia retrouve un message de sa mère : « Tu as laissé le gilet de Yasmine. » Hier, chez Fatima, elle avait dit devant sa fille que sa mère ne savait pas poser de limites. Elle voulait lui parler de l’heure du coucher. À table, la phrase avait pris une autre tournure, et Fatima n’avait plus répondu.
+Le gilet de Yasmine est resté chez Fatima. Nadia lit le message dans le vestiaire du pilates, une chaussure encore à la main. Sa mère a ajouté qu’elle le mettrait dans un sac près de l’entrée. D’ordinaire, Nadia répondrait qu’elle passe en rentrant. Hier, elle a quitté la table en demandant à Yasmine d’enfiler son manteau sans avoir repris la conversation.
 
-Dans la voiture, Nadia commence à écrire qu’elle était fatiguée. Elle efface. Elle l’était, mais ça ne dira pas à sa mère ce qu’elle regrette. Elle garde le téléphone dans la main le temps de décider si elle peut passer chercher le gilet un autre jour ou si elle préfère l’appeler maintenant.
+Elle revoit le moment où sa mère avait dit que la petite pouvait terminer son dessert. Nadia voulait qu’elles rentrent assez tôt pour le coucher. « Avec toi, il n’y a jamais de limite », avait-elle dit en tendant le bras vers l’assiette. Yasmine avait regardé sa grand-mère avant de lui tendre elle-même le verre vide. Fatima avait pris le verre et demandé qui voulait de l’eau. Nadia n’avait plus entendu sa voix jusqu’au départ.
+
+Dans la voiture, elle tape qu’elle était fatiguée. C’est vrai et c’est aussi la première chose qu’elle aimerait que sa mère sache. Elle se demande ce qu’il restera du message si elle enlève cette phrase. Le gilet est utile, mais Yasmine en a un autre. Elle pourrait passer en coup de vent et parler de tout le reste. Dans le silence de la voiture, elle entend encore le « avec toi » qui avait précédé le reproche. Elle revient au nom de sa mère dans ses contacts.
 
 ## Définition du remords et de ses mécanismes
 

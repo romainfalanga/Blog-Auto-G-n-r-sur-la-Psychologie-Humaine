@@ -13,9 +13,13 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Nadia ouvre de nouveau l’offre de la scale-up. Le salaire est indiqué. Les horaires des soirs de lancement ne le sont pas. Elle connaît déjà ceux de son poste actuel, ce qui lui permet de prévoir avec son ex-mari les semaines où elle récupère Yasmine.
+Le salaire de la scale-up tient sur une ligne. Nadia le recopie à côté du sien. Pour les horaires, l’offre parle de disponibilité lors des lancements. Elle ouvre le calendrier de la semaine où Yasmine est chez elle, compte le trajet depuis l’adresse du nouveau bureau et essaie de placer la sortie de l’école. Le calcul marche jusqu’à la première soirée qui n’a pas d’heure.
 
-Elle regarde par la vitre du bureau. Julie passe devant sans s’arrêter : elles ont discuté du rapport de marché trois jours plus tôt, et Julie a rendu sa version elle-même. Nadia a parfois envisagé de partir en pensant que tout dépendait de sa présence. Aujourd’hui, c’est la case vide du calendrier de l’autre entreprise qui l’empêche de répondre. Elle veut savoir ce qu’elle pourrait y mettre avant de décider.
+À son poste actuel, elle sait quand appeler Karim pour convenir d’un échange de garde. Elle connaît aussi l’heure à laquelle elle rouvre parfois le portable après avoir couché Yasmine. Sur la feuille, elle inscrit « horaires connus » du côté de son entreprise. Elle commence à écrire « tard tous les soirs » dans l’autre colonne. Personne ne lui a donné ce renseignement. Elle pose son stylo.
+
+Julie traverse le couloir avec le rapport de marché. Trois jours plus tôt, Nadia s’attendait à reprendre le tableau après elle. Julie a clarifié l’intitulé, vérifié la série et remis sa version sans lui renvoyer le fichier. Nadia regarde l’heure de leur prochain point. Il y a peu, l’idée de partir lui donnait surtout envie de faire la liste de ce qui s’arrêterait en son absence.
+
+Elle remet l’offre à côté du calendrier. Le recruteur lui a laissé son numéro au bas du courriel. Elle entoure le mot « disponibilité » et se demande comment il le traduirait en jours de la semaine.
 
 ## Définition du biais de statu quo
 

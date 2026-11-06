@@ -13,9 +13,11 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Julien lui envoie l’affiche d’un film et demande s’ils le regardent chez lui. Mei commence à lui répondre qu’elle adore ce réalisateur. Elle ne connaît que le nom. Dans la petite chambre de la résidence, son croquis est encore ouvert à l’endroit où elle l’a laissé. Elle aimerait passer la soirée ici. Elle aimerait aussi le voir.
+Julien lui envoie l’affiche d’un film et propose de le regarder chez lui. Mei commence sa réponse par « J’adore ce réalisateur ». Elle connaît son nom parce qu’il est écrit en bas de l’image. Elle relit le message de Julien. Il lui propose un film, puis lui demande si ça lui dit. Elle a déjà tapé de quoi lui faire croire qu’elle y pensait depuis longtemps.
 
-Elle retourne le téléphone, ferme le carnet, puis le rouvre. À table au restaurant de ses parents, elle finit souvent par acquiescer parce que la question revient. Julien ne lui a posé la sienne qu’une fois. Elle lui demande s’il veut venir chez elle.
+Dans sa chambre, la lampe est allumée au-dessus du carnet. Elle a enfin trouvé à quelle hauteur placer la deuxième silhouette de son dessin. Si elle sort tout de suite, elle emportera le carnet sans l’ouvrir. Si elle reste, elle aimerait aussi voir Julien. Elle retourne le téléphone et essaye la hauteur sur un morceau de papier avant de décider. La ligne ne tombe plus dans le pied du personnage.
+
+Au restaurant de ses parents, elle répond parfois oui pour que la même question cesse de revenir. Julien n’a rien renvoyé. Elle peut encore lui dire ce qu’elle aimerait faire de cette soirée. Elle efface le message sur le réalisateur, écrit qu’elle préfère rester à la résidence et lui propose de venir. Au-dessus du clavier, elle voit l’affiche qu’il lui a envoyée. Elle a envie d’ajouter « on fera comme tu veux ». Elle laisse la phrase de côté et envoie l’adresse de l’entrée.
 
 ## Comprendre ce qui rend difficile de choisir dans l’intimité
 

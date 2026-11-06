@@ -13,11 +13,11 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-« Il ne reste que les vitres. » La phrase de sa sœur traverse la pièce avant même que Maëlle retire sa veste. Dans l'appartement où s'organise une journée de travaux en famille, les bâches froissent sous les chaussures et une odeur de peinture flotte près des plinthes. Maëlle apporte un gratin et pense rester une heure. La culpabilité de se reposer commence pourtant dès qu'elle aperçoit les chiffons alignés sur le rebord de la fenêtre.
+« Il ne reste que les vitres. » La phrase de Julie traverse la pièce avant même que Maëlle retire sa veste. Elle enjambe un pli dans la bâche et pose le gratin sur la table. La poignée du plat était encore chaude en bas de l’escalier. Maëlle frotte sa paume contre son jean, le temps que sa sœur revienne de la cuisine. Elle est venue pour le repas et a prévu de rentrer dans une heure.
 
-Chez elle, Julien garde la chambre libre après les postes du matin et le rideau provisoire tient toujours. Chez Julie, il reste des vitres et deux personnes ont déjà enlevé leurs vestes pour reprendre le chantier. Maëlle a apporté un plat. Elle s’était donné une heure pour le repas, mais, en voyant le seau près de la porte, elle commence à compter les fenêtres.
+Chez elle, Julien garde la chambre libre quand elle doit dormir après son poste, et le rideau posé devant le volet tient toujours. Avant de partir, Maëlle lui a dit qu’elle s’allongerait en rentrant. Dans l’appartement de Julie, une veste est suspendue à la poignée de la porte. Son frère l’a retirée pour reprendre le chantier. Il porte encore de la peinture au dos du poignet. Maëlle aperçoit le seau et calcule qu’elle aurait le temps de faire une vitre si elle commençait maintenant. « Tu veux que j’en fasse une ? » demande-t-elle.
 
-Sa sœur, Julie, désigne un tabouret libre. « Tu peux juste nous tenir compagnie. » Maëlle entend tout de même une dette. Elle imagine le commentaire qu'on fait quand elle part : elle est jeune, elle pourrait aider davantage. Personne ne prononce ces mots. Ils suffisent pourtant à orienter sa main vers un chiffon, tandis que ses jambes réclament surtout de rester assise.
+Julie désigne le tabouret libre près de la table. « Tu peux juste nous tenir compagnie. » Maëlle sait que c’est une réponse à la proposition qu’elle vient de faire. Elle s’entend en préparer une autre sur son âge, ses horaires, le temps que ça prendrait vraiment. Elle prend déjà un chiffon sur le rebord de la fenêtre. En le dépliant, elle voit qu’il est humide. Elle a envie de le poser et de se servir une part pendant que le plat est chaud.
 
 ## Qu'est-ce que la culpabilité de se reposer ?
 

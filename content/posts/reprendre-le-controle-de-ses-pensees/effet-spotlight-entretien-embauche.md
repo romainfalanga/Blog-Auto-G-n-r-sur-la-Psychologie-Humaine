@@ -13,11 +13,13 @@ contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-À La Défense, Lucas tire sa cravate vers la lumière pour vérifier la tache. Il remet le tissu en place quand la porte s’ouvre. Ce n’est pas son tour. Maxime l’a écouté répéter sa présentation la veille ; dans le hall, Lucas n’arrive plus à retrouver son exemple sur la campagne de marketing.
+Dans l’ascenseur, Lucas tourne le bout de sa cravate vers la lumière. La tache est toujours là. Il rabat sa veste par-dessus et respire lentement en suivant des yeux les étages qui s’allument. Dès que les portes s’ouvrent, il lâche le tissu pour serrer la main de la personne qui l’accueille.
 
-Autour de lui, des costumes gris discutent à voix basse, le capuchon d'un stylo claque, une odeur de café filtre flotte. Lucas se sent observé, comme si chaque respiration et chaque coup d'œil étaient scrutés. Il a pourtant travaillé sa présentation la veille, relu ses notes et répété son pitch avec Maxime dans le salon. Pourtant, un scénario tenace s'impose : tout le monde remarquera la tache et conclura qu'il n'est pas à la hauteur.
+« Vous pouvez attendre ici, on vient vous chercher. »
 
-Lucas essaie de retrouver une première phrase pour sa présentation. Il en a préparé deux avec Maxime. Il garde celle dont il se souvient et replie le coin de sa cravate sous sa veste.
+À La Défense, même les fauteuils de la salle d’attente lui paraissent trop clairs pour s’y faire discret. Il s’assied en travers et regarde les deux personnes qui parlent près de la machine à café. L’une baisse les yeux vers lui. Lucas est sûr qu’elle a vu la tache. Elle ramasse le stylo tombé près du fauteuil et reprend sa conversation. Il frotte le tissu avec son pouce, ce qui a surtout pour effet de le faire briller.
+
+La veille, Maxime lui a fait raconter la campagne de marketing sans ses notes. Dans le salon, Lucas avait su expliquer pourquoi il avait modifié le tableau des résultats. Maintenant, il retrouve le début de sa présentation, puis le chiffre exact qu’il veut donner. Il s’aperçoit qu’il cache toujours la cravate d’une main. Il pose ses notes sur ses genoux. À l’autre bout du hall, quelqu’un traverse la pièce avec un dossier sous le bras. Lucas attend qu’on vienne le chercher.
 
 ## Qu'est-ce que l'effet spotlight ?
 

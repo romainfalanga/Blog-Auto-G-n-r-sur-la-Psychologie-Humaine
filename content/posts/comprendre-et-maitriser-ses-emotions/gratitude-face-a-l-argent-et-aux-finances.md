@@ -13,9 +13,13 @@ contexte: "face à l'argent et aux finances"
 draft: false
 ---
 
-La chaudière a été réparée. Monique pose la facture à plat sur la nappe, à côté du devis. Un poste porte un nom différent. Elle retrouve l’enveloppe dans laquelle elle avait noté le prix annoncé et se demande si elle l’a recopié correctement.
+La chaudière a été réparée. Monique étale la facture sur la nappe, à côté du devis. Un poste porte un nom différent. Sur l’enveloppe où elle avait recopié le prix annoncé, la somme s’arrête au pli. Elle a dû relever la main pour tenir le rabat. Elle se demande si elle a écrit le prix de la pièce ou celui de l’intervention.
 
-Depuis qu’elle vit seule, elle tient à pouvoir payer ses dépenses sans que ses enfants aient à s’en mêler. Au cimetière, le démarrage de la voiture l’avait déjà inquiétée. En regardant cette facture, elle entend revenir une phrase de sa mère : on ne sait pas ce qui peut arriver. Elle se prépare à ranger les papiers, puis rappelle l’entreprise pour demander ce qui a été changé.
+Elle ouvre son cahier de comptes à la fin du mois. Il y a la chaudière, la batterie de la voiture à faire vérifier et, dans la marge, le titre d’un livre qu’elle hésite à acheter. Elle barre le titre du livre par réflexe, avant d’avoir fait l’addition. « On ne sait pas ce qui peut arriver », disait sa mère. Cette phrase lui a déjà évité des dépenses qu’elle aurait regrettées. Aujourd’hui, elle lui fait imaginer qu’il faudra appeler les enfants pour demander de l’argent. Pour le moment, elle a surtout besoin de comprendre une ligne.
+
+En allant chercher le téléphone, elle passe devant le radiateur du couloir. Elle avait pris l’habitude d’accélérer à cet endroit les jours où la chaudière ne tenait plus. Elle s’arrête pour poser la main sur la fonte chaude. Elle voudrait pouvoir se réjouir de la réparation tout en sachant ce qu’elle doit payer.
+
+Elle ramène le devis près du téléphone. Quand quelqu’un décroche, elle donne le numéro de facture et lit à voix haute les deux noms qui ne correspondent pas.
 
 ## Définition de la gratitude
 

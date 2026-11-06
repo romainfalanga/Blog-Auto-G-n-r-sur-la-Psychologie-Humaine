@@ -13,9 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Monique retrouve la date au dos d’un tirage de Bretagne. Jean-Claude rit sur la photo. Elle regarde sa veste, la façon dont il tient sa main, et cherche un signe de ce qu’elle n’a appris qu’après. Elle ne se rappelle pas avoir pensé à la maladie ce jour-là. Elle se rappelle qu’elle avait froid, et qu’ils n’étaient pas d’accord sur la route du retour.
+Monique retrouve la date au dos d’un tirage de Bretagne. C’est le séjour dont François avait demandé des nouvelles au déjeuner. Isabelle avait retrouvé le nom du village et Monique avait parlé de la lumière au moment de la photo. Maintenant elle regarde la main de Jean-Claude, qui retient le revers de sa veste. Il rit, mais sa main lui paraît crispée. Elle rapproche la photo de la fenêtre pour voir si elle peut comprendre pourquoi.
 
-Elle pose le tirage près du carnet dans lequel elle avait copié la phrase de Jean-Claude en mars. Tout à l’heure elle l’aurait raconté comme un très beau séjour. Elle pourrait le raconter maintenant comme le moment où elle aurait dû remarquer quelque chose. La date au dos est la même dans les deux cas.
+Elle se rappelle le vent et le plan qu’ils ont déplié contre une portière. Ils n’étaient pas d’accord sur la route du retour. Elle était même restée fâchée quelques kilomètres avant de lui demander où il comptait s’arrêter pour déjeuner. Si elle avait pensé à la maladie ce jour-là, elle ne se rappelle ni à quel moment ni à propos de quoi. Depuis qu’elle sait la suite, elle a du mal à regarder la main sur la photo sans chercher un indice.
+
+Elle pose le tirage à côté du carnet où elle avait copié la phrase de Jean-Claude en mars. « Si seulement on avait commencé plus tôt… » Il manque toujours la date sur ce papier-là. Au dos de la photo, elle retrouve la sienne, écrite sans autre commentaire. Elle prépare une page pour ce qu’elle se rappelle du voyage. Avant d’y ajouter ce qu’elle sait aujourd’hui, elle glisse un morceau de papier sous le tirage pour pouvoir le retourner facilement.
 
 ## Définition du biais rétrospectif
 

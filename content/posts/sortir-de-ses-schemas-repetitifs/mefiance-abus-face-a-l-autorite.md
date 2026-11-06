@@ -13,11 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-Priya trouve un recommandé de l’Ordre des médecins parmi les courriers du cabinet. Elle le lit debout. La première page annonce des changements informatiques. À la deuxième, elle tombe sur une phrase qui parle de vérification et revient au début pour savoir si la lettre la concerne personnellement.
+Priya trouve un recommandé de l’Ordre des médecins parmi les courriers du cabinet. Elle fend l’enveloppe en la tenant contre la table, entre deux rendez-vous. La première page annonce des changements informatiques. À la deuxième, elle tombe sur le mot « vérification » et relit son nom sur l’enveloppe. Tout d’un coup, il lui paraît important que le courrier soit arrivé à son nom plutôt qu’à celui du cabinet.
 
-Quatre jours plus tôt, en visioconférence, elle avait cru qu’Antoine passait volontairement sur les difficultés du cabinet. Il avait fini par demander le nom du logiciel pour vérifier. Elle a noté sa réponse, mais, devant cette lettre, elle se surprend à chercher de nouveau ce qu’on pourrait lui reprocher.
+Quatre jours plus tôt, en visioconférence, elle avait cru qu’Antoine passait volontairement sur les difficultés des médecins. Quand elle avait posé la question, il lui avait demandé le nom du logiciel. Elle avait fini par l’écrire dans le chat, en vérifiant les lettres une à une. Il devait se renseigner. Elle cherche sa note au milieu des papiers à traiter. La question est toujours là. Priya se demande ce qu’on pourrait lui reprocher si elle y répondait de travers.
 
-Elle ouvre le dossier de Marc, qu’elle n’a toujours pas rappelé. Sa première lecture l’avait amenée à voir des ressemblances avec Damien avant même de vérifier les références. Elle ne veut pas reproduire exactement ce tri. Elle cherche la rubrique du courrier qui indique le destinataire et ce qu’on attend de lui.
+Sous les courriers, le dossier de Marc attend encore. Elle n’a pas rappelé. À la première lecture, elle avait repéré une ressemblance avec Damien avant même de vérifier les références. Elle glisse le dossier sur le côté pour pouvoir étaler les deux feuilles du recommandé. À la ligne qu’elle vient de lire, le sujet de la phrase se trouve en haut de la page précédente. Elle reprend quelques lignes avant « vérification », cherchant à qui s’adresse la demande.
 
 ## Définition du schéma de méfiance et abus
 

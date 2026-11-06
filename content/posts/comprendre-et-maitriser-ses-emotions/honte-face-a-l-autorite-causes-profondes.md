@@ -13,9 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-M. Dubois rend les planches à la fin du cours. Il a entouré la zone où le personnage de Mei se confond avec le décor. À côté, il a écrit « intention ? ». Mei voit d’abord le point d’interrogation, puis Océane qui vient récupérer son stylet à côté d’elle. Elle retourne la feuille avant qu’Océane puisse lire.
+M. Dubois distribue les planches à la fin du cours. Mei reconnaît le coin qu’elle avait aplati contre sa manche au dernier rendez-vous. Sur le dessin, un cercle fin entoure l’endroit où le personnage se confond avec le décor. Le professeur a écrit « intention ? » dans la marge. Mei fait pivoter la planche sur la table, à la recherche d’une autre remarque qui préciserait le sens de celle-là.
 
-Au rendez-vous de mars, Mei avait défendu un choix de bleu. Ce matin, elle n’arrive pas à séparer cette annotation du reste : son travail, son envie de dessiner, le fait qu’elle soit là. Elle glisse la planche dans son carton. Il faudra la ressortir pour comprendre ce que M. Dubois lui demande.
+Océane revient chercher son stylet. Mei retourne la feuille si vite que le carton frotte contre la table. Océane récupère son stylet et lui demande si elle vient avec elle. Mei répond qu’elle a encore quelque chose à ranger. Elle attend que les autres quittent l’atelier avant d’ouvrir le carton. Au dernier rendez-vous, elle avait réussi à montrer le trait qu’elle voulait garder. Maintenant elle aimerait ranger toute la série sous cette feuille, du croquis le plus ancien jusqu’à la planche qu’elle devait finir ce week-end.
+
+Un coin dépasse quand elle rabat l’élastique. Mei le remet en place. Elle peut reprendre le contour chez elle, sans demander à personne ce que voulait dire l’annotation. Elle saurait durcir le trait sur toute la longueur. Elle connaît aussi la partie qu’elle ne retrouverait plus ensuite, là où le bras rejoint le fond. À la porte de l’atelier, elle s’arrête pour vérifier à quelle heure M. Dubois termine son prochain cours.
 
 ## Définition de la honte face à l'autorité
 

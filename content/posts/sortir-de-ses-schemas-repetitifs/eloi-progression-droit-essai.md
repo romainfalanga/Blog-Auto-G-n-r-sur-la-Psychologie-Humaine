@@ -15,9 +15,9 @@ draft: false
 
 Les cartes de commandes se mélangent sur la table. La dernière fois, Éloi savait par laquelle commencer. Il déplace la première, puis voit que la formatrice a changé un élément de la consigne.
 
-La formatrice modifie une demande dans le scénario. Éloi remet une carte au mauvais endroit, le remarque et recommence toute la suite. Il sait désormais demander une aide précise, mais il voudrait ne plus avoir à le faire sur ce point. L'exercice est censé préparer l'activité ; dans sa tête, il devient une épreuve où chaque essai doit être meilleur que le précédent. Le résultat moins fluide lui semble donc une régression incompréhensible.
+Éloi remet une carte au mauvais endroit. Il s’en aperçoit au moment d’y ajouter la suivante, ramasse les deux et recommence toute la suite. Il sait désormais demander une aide précise, mais il voudrait ne plus avoir à le faire sur ce point. L'exercice est censé préparer l'activité ; dans sa tête, il devient une épreuve où chaque essai doit être meilleur que le précédent. Le résultat moins fluide lui semble donc une régression incompréhensible.
 
-Il regarde les cartes et distingue enfin une différence : la dernière fois, la formatrice lui indique plusieurs transitions. Aujourd'hui, elle le laisse chercher davantage avant de revenir sur sa méthode. Ce changement ne garantit pas qu'il progresse. Il montre seulement que les deux performances ne se déroulent pas dans les mêmes conditions. Éloi demande ce qu'ils cherchent à observer cette fois et comment utiliser les erreurs sans devoir les cacher ou les multiplier au hasard.
+Il regarde les cartes et distingue enfin une différence : la dernière fois, la formatrice lui indiquait plusieurs transitions. Aujourd'hui, elle le laisse chercher davantage avant de revenir sur sa méthode. Ce changement ne garantit pas qu'il progresse. Il montre seulement que les deux performances ne se déroulent pas dans les mêmes conditions. Éloi demande ce qu'ils cherchent à observer cette fois et comment utiliser les erreurs sans devoir les cacher ou les multiplier au hasard.
 
 ## Qu'est-ce que la progression dans un apprentissage ?
 

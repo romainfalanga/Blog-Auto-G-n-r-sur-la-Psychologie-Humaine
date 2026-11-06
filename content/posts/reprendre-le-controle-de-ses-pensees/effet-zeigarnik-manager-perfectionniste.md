@@ -13,9 +13,13 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-À dix-sept heures douze, Nadia voit que son diaporama s’arrête sur un graphique sans légende. On l’a appelée en réunion au milieu de la préparation. Depuis, elle a ouvert trois fois le même message de Julie et n’a pas retrouvé le chiffre à inscrire sous le graphique.
+À dix-sept heures douze, Nadia reprend le diaporama là où elle l’a laissé avant la réunion. Le graphique de la troisième page porte encore un rectangle gris à la place de sa légende. Elle sait que Julie lui a envoyé le chiffre. Dans le fil de leurs messages, elle retrouve trois versions du tableau et le début d’une phrase qu’elle a dû lire en se levant.
 
-Elle doit récupérer Yasmine chez son père à dix-huit heures. Elle range une pile de dossiers qui ne lui servira pas ce soir, rouvre le fichier, puis retourne à sa boîte mail. Il lui reste assez de temps pour avancer sur un point. Elle ne sait pas encore lequel elle acceptera de laisser pour demain.
+Une collègue passe la tête dans le bureau pour récupérer les dossiers de la réunion. Nadia lui en tend deux, ouvre celui du dessous pour s’assurer que c’est le sien et répond à une question sur le lendemain. Quand la porte se referme, elle a la main sur la souris. Elle ne se rappelle plus quelle pièce jointe elle venait d’écarter. Elle rouvre la première.
+
+Son téléphone vibre. Karim, le père de Yasmine, lui demande si elle vient toujours à dix-huit heures. Yasmine veut lui montrer quelque chose avant qu’elles repartent ensemble. Nadia répond qu’elle sera là, puis voit sur l’écran de l’ordinateur la miniature de la page suivante. Le titre déborde du cadre. Elle le raccourcit, change l’alignement et revient à la légende vide.
+
+En comptant le trajet, il lui reste quelques minutes pour reprendre le tableau. Elle glisse les dossiers dans son sac, sauf la feuille qui porte les dates des séries. Sur l’écran, tout est encore ouvert.
 
 ### Qu’est-ce que l’effet Zeigarnik ?
 

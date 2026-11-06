@@ -13,11 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Dans le parc, Fabien ralentit assez pour regarder son téléphone. Une notification, mais rien de Véronique. Il a laissé Marine et Lucas chez leur mère et n’attend aucune réponse urgente. Il garde pourtant l’écran dans la main.
+Fabien vient de laisser Marine et Lucas chez leur mère. Au moment de partir, il a retenu la grille qui frotte sur le sol. Véronique avait proposé de la faire raboter la dernière fois qu’ils en avaient parlé. Ils s’étaient mis à comparer le prix de deux devis, puis il avait fallu aller chercher Lucas. Fabien pousse la grille de l’épaule pour la refermer. Elle passe encore si on la soulève un peu.
 
-Depuis la fin de son mariage, il fait parfois le compte du temps qu’ils ont passé à aménager la maison, des travaux qu’ils ont remis à plus tard, des vacances dont il se rappelle surtout les trajets. Il peine à croire que ces années puissent rester importantes alors qu’il n’y aura pas de retour à la vie d’avant.
+Il traverse le parc à pied. Une notification le fait ralentir. Véronique n’a aucune raison de lui écrire maintenant et, quand même, il sort son téléphone. Il pense aux samedis passés à tenir des planches pendant qu’elle vérifiait les mesures, au temps qu’il a fallu pour avoir une chambre où chacun des enfants puisse inviter un ami. Il ne regrette pas ces samedis. Ce qui lui vient en marchant, c’est l’idée qu’ils devraient encore déboucher sur quelque chose entre Véronique et lui.
 
-Sur le banc, Fabien ouvre une conversation avec Véronique. La dernière chose qu’il lui a demandée concerne les enfants. La suivante, dans le brouillon, ne concerne qu’eux deux. Il a envie de l’envoyer. Il peut aussi se demander ce qu’une réponse changerait aujourd’hui.
+Sur le banc, il ouvre leur conversation. Le dernier message concerne l’heure à laquelle il ramènera les enfants la prochaine fois. Dans le brouillon, il a écrit : « On a quand même construit tout ça ensemble. » Il essaie de trouver une question à ajouter. Il ne veut pas parler de la grille. Il s’imagine lui demander de tout reprendre, puis tente de se rappeler ce qu’il voudrait faire autrement aujourd’hui. À l’écran, il n’a toujours qu’une phrase sur ce qu’ils ont déjà fait.
 
 ## Qu’est-ce que le biais du coût irrécupérable ?
 

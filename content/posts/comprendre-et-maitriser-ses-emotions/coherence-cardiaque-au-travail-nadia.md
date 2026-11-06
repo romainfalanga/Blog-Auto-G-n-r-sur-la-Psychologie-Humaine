@@ -13,9 +13,11 @@ contexte: "au travail"
 draft: false
 ---
 
-Le lancement a pris du retard. Mathieu parle du budget pendant que Nadia cherche dans son agenda une place pour la réunion suivante. Elle a mal dormi ; elle s’est réveillée en pensant à la réponse qu’elle attend de Karim sur la garde de Yasmine. Quand Marc reprend sa question sur les dates, elle sent son cœur battre plus vite et manque la fin de sa phrase.
+Mathieu en est au budget du lancement quand Nadia trouve enfin un créneau commun dans son agenda. Il faudrait déplacer le rendez-vous qui suit et attendre la réponse de Karim, le père de Yasmine, pour savoir à quelle heure elle peut repartir chercher Yasmine. Elle s’est réveillée la nuit avec cette question en tête. À présent, elle vient de sélectionner une heure avant même d’avoir demandé qui aurait besoin d’être là.
 
-À midi, elle descend jusqu’au palier. Elle n’a pas besoin d’une réunion supplémentaire pour décider des prochains créneaux, même si c’est ce qu’elle s’apprêtait à proposer. Elle s’assoit près des casiers et essaie de respirer plus lentement, sans se forcer. Elle garde la porte ouverte sur le couloir.
+Marc revient sur les dates des campagnes. Nadia a déjà préparé la réponse qu’elle lui donnerait s’il contestait encore leur ordre. Il parle du retard de lancement et d’un jalon que l’équipe produit a décalé. Le cœur de Nadia accélère au milieu de son explication. Elle fixe la case bleue qu’elle vient de créer. Quand elle relève les yeux, Marc finit sa phrase et quelqu’un propose de reprendre le budget. Elle a perdu le nom du jalon.
+
+À midi, l’invitation de suivi attend toujours dans ses brouillons. Elle la laisse ouverte et descend jusqu’au palier. Près des casiers, on entend le bruit des assiettes derrière la porte du couloir. Elle s’assoit et prend le temps de respirer un peu plus lentement, sans chercher à remplir ses poumons davantage. Pendant la réunion, Julie avait gardé le calendrier ouvert devant elle. Elle n’a pas encore de réponse pour Marc. Elle voudrait au moins réentendre sa question avant d’envoyer une invitation à tout le monde.
 
 ## Définition et principes de la cohérence cardiaque
 Ici, « cohérence cardiaque » désigne une pratique de respiration lente et régulière. En respirant, la durée entre deux battements varie naturellement : c'est l'une des composantes de la variabilité de la fréquence cardiaque (VFC). Une respiration cadencée peut modifier cette variation pendant l'exercice. Cela ne permet ni de mesurer le stress en prenant simplement son pouls ni de conclure que le cœur fonctionne mieux.

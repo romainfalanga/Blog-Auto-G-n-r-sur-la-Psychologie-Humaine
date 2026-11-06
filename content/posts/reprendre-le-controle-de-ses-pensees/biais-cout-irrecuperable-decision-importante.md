@@ -13,9 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Au fond du placard, le carton a gondolé. Margot le tire en le soutenant par-dessous et sort trois trophées en Plexiglas, une courbe de croissance de 2018, un dossier dont elle a oublié le client. Elle avait prévu de dégager l’ancienne chambre de Chloé avant son rendez-vous avec Julie. Au bout d’une demi-heure, elle a surtout empilé les papiers dans un autre ordre.
+Au fond du placard, le carton a gondolé. Margot le tire en le soutenant par-dessous. Trois trophées en Plexiglas, une courbe de croissance de 2018, un dossier dont elle a oublié le client. Elle devait dégager l’ancienne chambre de Chloé avant son rendez-vous avec Julie. Au bout d’une demi-heure, elle a surtout empilé les papiers dans un autre ordre.
 
-Philippe passe devant la porte. Il part marcher, s’il fait encore jour quand elle aura fini. Margot ne sait pas lui répondre. Elle repense au temps qu’elle avait passé sur la courbe de 2018, le mois où tout le monde appelait le soir. Le dossier ne lui apprend rien sur son prochain rendez-vous. Le déposer au recyclage lui paraît pourtant plus difficile que de le déménager une quatrième fois.
+Un des trophées porte encore une trace d’adhésif sous le socle. Margot le retourne et retrouve le nom du salon où on le lui a remis. La courbe est de la même année. Elle se souvient du mois où les chiffres changeaient tous les soirs, quand elle gardait son téléphone sur la table pendant les repas pour rappeler les membres de son équipe. Elle soulève la pile pour mettre la courbe au recyclage. À la vue de ses annotations dans la marge, elle la repose sur le carton. Des soirées entières pour arriver à cette feuille, et elle est sur le point de la faire disparaître en une seconde.
+
+Philippe passe devant la porte, manteau sur le bras. Il demande s’il doit l’attendre pour marcher. Margot lui dit qu’elle a bientôt fini, puis s’écarte pour voir où passerait Julie avec son sac. La chaise qu’elle a apportée se coince contre les archives. Elle pourrait repousser la pile dans le placard. Elle connaît déjà le poids du carton et la façon de le soulever quand le fond menace de lâcher.
 
 ## Définition du biais du coût irrécupérable
 

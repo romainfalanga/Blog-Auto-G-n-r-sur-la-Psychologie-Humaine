@@ -13,11 +13,13 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Priya est assise au bord du lit, son verre entre les mains. Il vient de lui demander s’il peut rester. Elle répond qu’elle travaille tôt. C’est vrai, mais elle sait qu’il ne lui a pas demandé à quelle heure commence sa journée.
+Priya est assise au bord du lit, son verre entre les mains. Il vient de lui demander s’il peut rester. Elle répond qu’elle travaille tôt. Elle connaît même le nom de la première personne qu’elle doit recevoir demain. Elle pourrait lui dire à quelle heure elle a mis son réveil, s’il le lui demandait.
 
-Elle a trente-deux ans et fréquente cet homme depuis quelques semaines. Quand il se relève pour chercher son pull, elle aimerait qu’il attende encore un instant. Elle voudrait aussi qu’il rentre. Avec Damien, autrefois, une hésitation suffisait pour qu’il décide à sa place. Elle se demande si ce souvenir pèse sur sa réponse ce soir. Elle ne sait pas encore lequel de ses deux souhaits l’emporte.
+« Je peux partir avant que tu te lèves. » Il le dit en regardant le verre. Une goutte a coulé entre les doigts de Priya, jusqu’à son poignet. Elle l’essuie sur sa chemise de nuit, le temps de trouver quoi répondre. Elle aime l’entendre parler du matin comme si c’était une possibilité. Elle a aussi envie de fermer sa porte et de passer le reste de la soirée seule.
 
-Il retrouve le pull sur le dossier de la chaise. « Attends », dit-elle, puis elle lui demande de poser le verre qu’elle tient depuis tout à l’heure. C’est la seule chose qu’elle sache lui demander pour le moment.
+Quand il se relève, elle se souvient d’avoir cherché un prétexte du même genre avec Damien, à l’époque où une hésitation suffisait pour qu’il décide à sa place. Elle ne sait pas quelle part de son embarras vient de là. L’homme en face d’elle, qu’elle fréquente depuis quelques semaines, a commencé à chercher son pull. Il soulève le coin de la couverture, sans lui poser de nouveau la question.
+
+Il retrouve le pull sur le dossier de la chaise. Priya tend le verre en avant. « Tu peux me le poser là ? » Il se retourne vers elle. Elle garde la main tendue, toujours incapable de répondre à sa première question.
 
 ## Qu'est-ce que l'attachement évitant-dédaigneux (désactivation du système) ?
 

@@ -13,9 +13,13 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Samedi, au cimetière du village, Monique rapproche deux pots pour qu’ils tiennent dans le creux de la pierre. Elle pense aussitôt au gel annoncé. Sa mère aurait dit de ne pas mettre de fleurs aussi tôt dans la saison. Monique l’entend encore terminer une bonne nouvelle par « pourvu que ça dure ».
+Samedi, au cimetière du village, Monique rapproche deux pots pour qu’ils tiennent dans le creux de la pierre. Une tige s’est couchée sous le rebord. En la dégageant, elle pense au gel annoncé et se demande combien de jours les fleurs vont tenir. Sa mère aurait dit de ne pas les mettre si tôt. Même après une bonne nouvelle, elle trouvait souvent le temps d’ajouter « pourvu que ça dure ».
 
-Au retour, la voiture met plus de temps que d’habitude à démarrer. Elle pense à la batterie, à la facture, puis au déjeuner chez Isabelle, où elle risque d’arriver en retard. Quand le moteur part, elle appelle sa fille. « J’arrive. Tu as besoin que je prenne du pain ? » Elle ne sait pas encore si la voiture la lâchera.
+Sur le parking, la voiture met plus de temps que d’habitude à démarrer. Monique relâche la clé et attend un peu avant de réessayer. Elle pense à la batterie, au prix de la réparation, puis au déjeuner chez Isabelle. Si elle arrive en retard, sa fille aura sans doute laissé le plat au chaud trop longtemps. Le moteur part au deuxième essai. Elle laisse sa main sur le contact un instant, comme si elle pouvait l’empêcher de s’arrêter.
+
+Elle appelle Isabelle avant de prendre la route. « Il va falloir que je fasse voir la voiture. » Sa fille lui dit qu’elles ont le temps, puis commence à raconter un échange avec son patron. Monique l’interrompt pour demander si elle doit passer prendre du pain. Le pain est sur la table, répond Isabelle. Son histoire attendra qu’elle soit là.
+
+En raccrochant, Monique a encore envie de conseiller à sa fille de se méfier de ce patron. Elle ne sait même pas ce qu’il a dit. Elle garde le numéro du garage affiché sur son téléphone et le range dans son sac.
 
 ## Qu'est-ce que la négativité et le pessimisme ?
 

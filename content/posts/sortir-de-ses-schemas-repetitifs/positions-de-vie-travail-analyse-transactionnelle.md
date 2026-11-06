@@ -13,11 +13,11 @@ contexte: "au travail"
 draft: false
 ---
 
-Julie lui a répondu avant même qu’il ait envoyé la deuxième pièce jointe. Elle demande comment appliquer la directive à son atelier. Fabien relit le courriel deux fois : la première, il n’y entend qu’une objection; la deuxième, il regarde quelle question précise elle lui pose.
+Julie lui répond pendant qu’il cherche la deuxième pièce jointe. Dans l’atelier, elle ne voit pas comment appliquer la directive. Fabien n’a d’abord lu que « Je ne vois pas comment ». Il ouvre un brouillon avec la formule qu’il emploie quand un dossier se tend : « Je suis désolé de vous imposer ce changement. » Il est sur le point de lui promettre un délai qu’il n’a pas le pouvoir d’accorder.
 
-Fabien se prépare à lui écrire qu’il est désolé pour la directive. Il a pourtant besoin de tenir une date et Julie n’a pas demandé qu’il retire le texte. Elle veut savoir qui pourra prendre la relève au poste.
+Il revient au message. Après la première phrase, Julie a donné deux horaires et demandé qui pourra tenir le poste le temps de la bascule. Fabien ouvre le fichier qu’il s’apprêtait à joindre. Les horaires qui lui semblaient aller de soi apparaissent sur une ligne sans le nom de l’atelier. Il se souvient de la réunion où l’on a arrêté la date. Il peut expliquer ce qui oblige à la tenir. Pour savoir qui peut remplacer qui, il lui faudrait Julie devant le planning.
 
-Dans l’appartement, Fabien avait laissé Lucas finir sa phrase avant de parler des vacances. Il sait que le courriel de Julie n’a pas grand-chose à voir avec leur dispute. Il décide quand même d’attendre avant de répondre de mémoire.
+Chez lui, l’autre soir, il a fallu que Lucas lui répète l’heure du match avant qu’il regarde ce qu’il lui avait envoyé sur les vacances. Fabien revient sur le brouillon. Il a envie d’expédier une réponse avant de sortir du bureau. En relisant sa formule d’excuse, il se rend compte qu’il ne répond à aucune de ses questions. Il laisse la fenêtre ouverte, retrouve la deuxième pièce jointe et retourne voir les deux horaires donnés par Julie.
 
 ## Définition des positions de vie et de leurs enjeux
 

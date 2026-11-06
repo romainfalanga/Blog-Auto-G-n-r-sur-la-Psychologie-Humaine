@@ -64,7 +64,7 @@ function field(form,name,value) {const input=form.elements[name];assert.ok(input
 function chatFixture(extra={}) {
  let clientSerial=0;const env=environment({crypto:{randomUUID:()=> 'client-key-'+(++clientSerial)},...extra});Object.assign(env.ctx.state,{tab:'chat',chatDraft:'',chatOutbox:null,chatProposalDrafts:new Map(),chatSending:false,chatData:{consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]}});
  for(const name of ['drawChat','sendChat','pollChat','renderChat'])vm.runInContext(functionCode(name),env.ctx);
- const view=env.host('view');env.host('chat-quota');env.ctx.drawChat(view,()=>true);
+ const view=env.host('view');env.ctx.drawChat(view,()=>true);
  return {...env,view,get form(){return env.doc.getElementById('chat-form')},get input(){return env.doc.getElementById('chat-content')},get send(){return env.doc.getElementById('chat-form').querySelector('button[type=submit]')}};
 }
 
@@ -213,12 +213,14 @@ test('V5 removes the global likes badge and every stale badge update',()=>{
   assert.doesNotMatch(functionCode('renderLikes'),/plan-status|progressBlock/);
 });
 
-test('V5 empty conversation renders no invented message and places quota in the page tools',()=>{
-  const env=environment();env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[],proposals:[]};
-  env.host('chat-quota');env.ctx.drawChatProposal=()=>{};
+test('empty conversation renders no invented message and places weekly usage in the conversation toolbar',()=>{
+  const env=environment();env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{used:1,remaining:99,limit:100},messages:[],proposals:[]};
+  env.ctx.drawChatProposal=()=>{};
   vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
   assert.equal(host.querySelector('.chat-thread').children.length,0);
-  assert.equal(env.doc.getElementById('chat-quota').textContent,'99 / 100 messages');
+  const toolbar=host.querySelector('.conversation-toolbar');
+  assert.equal(toolbar.querySelector('h1').textContent,'Ambre · psychologue IA');
+  assert.equal(toolbar.querySelector('strong').textContent,'1 / 100');
   assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,false);
   assert.doesNotMatch(host.textContent,/Un espace pour prendre du recul|Vous pouvez commencer par une situation/);
 });
@@ -431,7 +433,7 @@ test('V7 legacy direct descriptions stay grammatical without inferring a gender 
 
 
 test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
- const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.match(functionCode('landing'),/<h1>Ambre<\/h1>/);
+ const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('drawChat'),env.ctx);assert.equal(env.ctx.PAGES.chat.title,'Ambre');assert.equal(env.ctx.PAGES.chat.path,'/mon-accompagnement/');env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:100},messages:[{role:'assistant',content:'Bonjour.'},{role:'user',content:'Mon accompagnement, dans mes propres mots.'}],proposals:[]};const host=env.host('view');env.ctx.drawChat(host,()=>true);assert.match(host.textContent,/Ambre · psychologue IA/);assert.equal(host.querySelector('.chat-assistant').querySelector('h3').textContent,'Ambre');assert.match(host.querySelector('.chat-user').textContent,/Mon accompagnement, dans mes propres mots/);assert.doesNotMatch(host.textContent,/Assistant IA/);assert.equal(host.querySelectorAll('h1').length,1);assert.doesNotMatch(functionCode('landing'),/<h1>Ambre<\/h1>/);
 });
 
 test('the public portrait renders three views without the cartography or a repeated Ambre note',async()=>{

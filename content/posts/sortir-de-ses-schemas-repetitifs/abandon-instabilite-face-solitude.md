@@ -13,11 +13,11 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Adrien pose le téléphone à côté de son verre, écran contre table. Il se donne jusqu’à la fin du morceau avant de le retourner. Au milieu du refrain, il le reprend. Toujours rien de Julien. Un an après le départ de Marina, il y a des soirs où dix minutes lui paraissent suffisantes pour décider qu’une personne est en train de sortir de sa vie.
+Adrien pose le téléphone à côté de son verre, écran contre table. Il se donne jusqu’à la fin du morceau avant de le retourner. Au milieu du refrain, il le reprend. Toujours rien de Julien. Il remonte jusqu’à leur dernier échange pour voir où la conversation aurait pu se gâter. Julien lui a envoyé une photo prise en courant. Adrien a répondu qu’il reconnaissait le pont, puis qu’il aurait bien besoin de sortir lui aussi. Il relit cette dernière phrase plus lentement. Il lui trouve un ton de demande qu’il n’avait pas entendu en l’écrivant.
 
-Dans sa mémoire, des souvenirs remontent : les absences répétées d’un père souvent parti, une mère débordée qui ne semblait jamais vraiment disponible. Adrien se souvient de ces instants où il cherchait un signe d’attachement, une preuve que quelqu’un serait toujours là. Mais l’instabilité de son enfance a marqué sa façon de voir ses relations aujourd’hui. Chaque rupture, chaque distance, ravive cette blessure profonde.
+Marina est partie depuis un an. Au début, Adrien gardait parfois une deuxième tasse sur la table après son café. Ce soir, il n’a laissé qu’un verre sur la table. Un instant, il pense à appeler Marina. Le bruit d’une clé monte de l’escalier. Il songe à ses parents, aux soirs où il guettait un retour et où sa mère, déjà occupée, lui disait qu’ils en parleraient demain. Il ne sait plus combien de temps il attendait. Il sait encore la facilité avec laquelle il pouvait s’asseoir près de la porte sans rien faire d’autre.
 
-Cette peur d’être abandonné, ressentie face à la solitude, n’est pas qu’un simple sentiment passager. Adrien trouve un nom pour cette attente que ses liens ne dureront pas : le schéma « abandon/instabilité », une notion de la thérapie des schémas. Adrien, comme beaucoup d’autres, vit ce schéma répétitif sans toujours comprendre pourquoi il se sent si démuni en étant seul.
+Il ouvre un nouveau message. « Tu fais quoi ? » À la relecture, il trouve la question sèche. Le morceau se termine. Il a oublié de regarder l’heure. Sur l’écran, la question qu’il voudrait poser à Julien est toujours en brouillon.
 
 ## Qu’est-ce que l’abandon et instabilité en psychologie ?
 

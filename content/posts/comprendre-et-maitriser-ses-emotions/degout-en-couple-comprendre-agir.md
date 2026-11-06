@@ -13,9 +13,15 @@ contexte: "en couple"
 draft: false
 ---
 
-Mercredi, Philippe a préparé un plat qu’ils faisaient souvent du temps où Martin et Chloé rentraient dîner. Margot mâche une bouchée, puis la laisse sur le bord de l’assiette. Philippe demande si c’est trop salé. Elle lui répond trop vite que non.
+Mercredi, Philippe a préparé le plat qu’ils faisaient souvent du temps où Martin et Chloé rentraient dîner. Il en a mis le reste dans une boîte et la laisse refroidir près de l’évier. Margot se sert peu. Au bout de quelques bouchées, elle repousse vers le bord de l’assiette le morceau qu’elle vient de couper.
 
-Ils ont à peine parlé depuis qu’ils se sont assis. Margot supporte mal le bruit des couverts ce soir, et encore moins l’idée de faire semblant que tout se passe bien. Elle se demande si elle en veut à Philippe pour les conversations qu’ils évitent ou si elle arrive simplement à table sans avoir envie de lui parler. Elle ne sait pas quoi dire qui soit vrai sans être blessant. Elle débarrasse son verre et laisse son assiette devant elle.
+« Trop salé ? » demande Philippe.
+
+Elle répond non avant qu’il ait fini de poser la question. Il goûte à son tour. Le couteau frotte sur la faïence, puis le pied de sa chaise accroche le sol quand il se rapproche de la table. Margot s’entend respirer par la bouche. Hier, à la même place, Philippe lui a raconté une conversation avec Martin et elle a ri. Ce soir, il mâche et elle a envie de s’asseoir à l’autre bout de la pièce.
+
+Philippe lui tend le pain. En se penchant, il risque de faire tomber le verre et Margot le rattrape par le pied. Elle garde la main autour. Il y a des semaines qu’elle voudrait lui parler des soirs où ils mangent et remontent chacun de leur côté. Elle pourrait lui dire qu’ils ne se parlent plus. Ils se sont parlé hier. Elle pourrait lui demander de faire moins de bruit. Elle sait le ton qu’elle prendrait.
+
+Elle se lève avec son verre, pose le pain à côté de la boîte encore tiède et laisse son assiette sur la table.
 
 ## Qu'est-ce que le dégoût en couple ?
 

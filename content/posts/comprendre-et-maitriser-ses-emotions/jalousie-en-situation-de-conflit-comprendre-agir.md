@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Léa prend une place au fond de l’amphithéâtre alors qu’il en reste une près de Zoé. Elle sait que son amie va finir par se retourner. Elle ne sait pas encore si elle veut lui faire signe ou lui laisser remarquer toute seule qu’elle s’est éloignée.
+Léa prend une place au fond de l’amphithéâtre alors qu’il en reste une près de Zoé. Elle pose sur ses genoux les notes qu’elle a préparées pour leur séance de révision. Quelques rangs plus bas, un étudiant montre à Zoé une page de son exposé. Zoé se penche, pose une question que Léa n’entend pas et rit avec lui. Léa cherche son stylo dans sa trousse jusqu’à ce qu’ils aient fini de parler.
 
-Quelques rangs plus bas, un étudiant montre à Zoé un passage de son exposé. Ils rient tous les deux. Léa n’entend pas la plaisanterie. Elle a passé du temps à préparer les notes pour leur séance de révision et s’aperçoit qu’elle est déjà en train d’en faire le compte.
+À la bibliothèque, elle avait vu la même tête penchée après l’annulation de leur déjeuner. Elle s’était installée hors de vue. Aujourd’hui, elle voudrait que Zoé remarque de loin qu’elle a choisi une autre place. Au moment où son amie se retourne, Léa fait semblant de relire le titre d’une page. Il lui faut un effort pour ne pas lever les yeux trop tôt.
 
-Cette réaction viscérale la ramène à ses séances de travail avec le Dr Moreau. Elle se souvient avoir analysé son besoin de sauver les autres pour stabiliser son propre monde. Aujourd'hui, ce n'est pas le désir de sauver qui l'anime, mais une volonté farouche de protéger son territoire affectif. La jalousie en situation de conflit n'est pas nouvelle pour elle, mais c'est la première fois qu'elle l'observe avec la lucidité de celle qui ne veut plus être l'esclave de ses vieux schémas d'abandon nés du divorce de ses parents.
+Le cours commence. Dans la marge de ses notes, Léa a écrit deux questions qu’elle comptait garder pour Zoé. Elle en efface une, puis la remet. Si Zoé révise avec le garçon, ces pages pourront tout de même lui servir. Léa se surprend à espérer qu’il manque une information à l’exposé qu’il vient de montrer. Elle cesse d’écouter quelques secondes, le temps de chercher ce qu’elle pourrait dire à Zoé après le cours. « Je vois que tu as déjà quelqu’un » lui vient plus facilement que la question qu’elle voudrait vraiment lui poser.
 
 ## Définition de la jalousie et mécanismes psychologiques
 

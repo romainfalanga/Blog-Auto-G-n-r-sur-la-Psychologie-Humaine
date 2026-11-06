@@ -13,11 +13,15 @@ contexte: "en couple"
 draft: false
 ---
 
-Chloé termine de régler son micro. Depuis leur reprise de contact, ils ont parlé du bar puis de la répétition, et Hugo a cru par moments qu’ils se retrouveraient. Quand elle lui sourit, il pense au contraire que ça ne peut pas durer. Il se penche sur sa pédale et lui répond à peine.
+Chloé termine de régler son micro. Hugo la regarde passer le câble derrière le pied du micro pour dégager le passage. Depuis qu’ils se reparlent, elle lui a expliqué son message et il s’est dit qu’ils pourraient encore se retrouver. Maintenant, elle lui sourit comme avant et il attend presque le moment où elle va se détourner.
 
-Chloé lui demande si elle peut s’approcher. Hugo prétend qu’il doit s’accorder. Il se souvient qu’elle lui a expliqué quelques jours plus tôt de quoi parlait son message. Cette fois, il ne demande rien. Il s’applique à paraître déjà ailleurs.
+« Je peux me mettre de ton côté ? J’entends mieux l’ampli d’ici. »
 
-Samba donne le décompte. Hugo entre trop fort et joue sur la voix de Chloé. Au deuxième passage, Samba s’arrête. Ils ont réservé la salle pour une heure et viennent de perdre un morceau entier.
+Hugo lui dit qu’il lui faut une minute pour s’accorder. La corde qu’il pince est juste. Il la fait sonner de nouveau, tourne la tête vers sa pédale et laisse Chloé déplacer le pied du micro toute seule. Il se demande si elle va lui proposer de sortir après la répétition. Il s’entraîne à répondre qu’il a déjà quelque chose.
+
+Samba compte quatre temps. Au premier couplet, Hugo pousse du pied le volume qu’ils avaient réglé ensemble. Sur la fin de la phrase, Chloé éloigne le micro de sa bouche. « Tu peux baisser un peu ? » Hugo répond qu’il s’entend à peine et regarde Samba comme s’il pouvait trancher. Samba relève ses baguettes. Au passage suivant, Hugo croit attendre le dernier mot. Il attaque encore par-dessus la voix.
+
+Samba arrête de jouer. La guitare continue une mesure dans la salle devenue silencieuse. Hugo retire la main des cordes. Sur la feuille de Samba, c’est toujours le premier morceau d’une répétition réservée pour une heure.
 
 ## Qu’est-ce que le schéma d’abandon et d’instabilité ?
 

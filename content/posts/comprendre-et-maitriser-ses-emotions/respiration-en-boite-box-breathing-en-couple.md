@@ -13,9 +13,15 @@ contexte: "en couple"
 draft: false
 ---
 
-Philippe laisse ses clés sur la table. Margot avait préparé une phrase en rentrant : depuis le dîner de mercredi, elle voudrait qu’ils parlent de leurs soirées. Quand elle l’entend répondre « On a dit qu’on en parlerait, oui », elle réplique qu’il n’a pas pensé à le faire. Elle connaît la phrase qui va suivre, celle sur les fois où elle s’enferme elle-même dans le bureau.
+Philippe laisse ses clés sur la table. Margot avait préparé une phrase en rentrant : depuis le dîner de mercredi, elle voudrait qu’ils parlent de leurs soirées. Elle avait choisi le moment où ils seraient tous les deux dans la cuisine, avant de mettre la table. Maintenant qu’il est là, elle dit seulement :
 
-Elle tire sa chaise et se rend compte qu’elle serre encore le dossier. Elle a envie de faire la liste des soirs où Philippe n’a pas posé de question. Au lieu de se lancer, elle lui dit qu’elle revient dans un instant. Elle va jusqu’à l’évier et pose les deux mains sur le plan de travail. Philippe, derrière elle, souffle qu’il n’a pas envie d’attendre toute la soirée.
+« Tu te souviens de ce qu’on s’était dit ? »
+
+« Qu’on en reparlerait. Oui. »
+
+Elle entend le « oui » comme une façon de clore la question. Elle répond qu’il n’y a pas pensé une seule fois. Philippe sort son téléphone. « On peut choisir un soir maintenant, si c’est ça que tu veux. » Il ouvre le calendrier et se met à chercher une date. Margot se penche pour voir, puis se redresse. Elle est venue parler de ce qui leur arrive quand ils se retrouvent à table. Elle voudrait qu’il la regarde avant de lui proposer jeudi ou vendredi.
+
+Elle tire une chaise. Elle serre encore le dossier alors que les pieds ont cessé de racler. Une liste lui vient, avec le nombre de repas pris sans conversation et les fois où elle est montée au bureau en disant qu’elle redescendrait. En lui jetant tout ça à la figure, elle risque de passer la soirée à discuter du nombre. Elle lui dit qu’elle revient dans un instant et va jusqu’à l’évier. Philippe souffle qu’il n’a pas envie d’attendre toute la soirée. Elle pose les deux mains sur le plan de travail. Elle a demandé une pause et elle va devoir revenir.
 
 ## Qu'est-ce que la respiration en boîte (box breathing) ?
 

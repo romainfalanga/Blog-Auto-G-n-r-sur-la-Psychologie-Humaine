@@ -13,9 +13,11 @@ contexte: "en période de reconversion professionnelle"
 draft: false
 ---
 
-La chaise est tournée de travers depuis que Margot a déplacé les cartons. Dans trente minutes, Julie va s’y asseoir. Ce sera la première consultation qu’elle mène en dehors des séances d’essai, comme celle avec Claire. Margot relit ses notes à voix basse. Dès qu’elle arrive à la question du début, une autre phrase lui revient : tu fais semblant d’être à ta place ici.
+La chaise est tournée de travers depuis que Margot a déplacé les cartons. Dans trente minutes, Julie va s’y asseoir. Ce sera la première consultation que Margot mène en dehors des séances d’essai. Elle a préparé trois questions et souligné celle par laquelle elle veut commencer. À voix haute, elle s’entend la lire comme une clause de contrat.
 
-Elle se regarde dans le miroir de l’entrée et repense à l’assurance qu’elle affichait en réunion. Elle sait mener un entretien. Elle ne sait pas encore si les questions qu’elle a préparées aideront Julie. Elle remonte ouvrir son carnet. Sur une page, elle note ce qu’elle propose dans le cadre du coaching. Elle laisse de la place pour ce que Julie lui demandera.
+Elle va chercher un verre d’eau et, en revenant, s’assied à la place de Julie. De là, on voit le carnet ouvert et la page qu’elle a recommencée deux fois. Claire, pendant l’essai, lui avait fait répéter une question. Margot avait d’abord parlé plus lentement, jusqu’à ce que Claire demande ce qu’elle entendait par « ce que vous cherchez à mobiliser ». Elles avaient fini par trouver des mots qui leur convenaient à toutes les deux. Depuis ce matin, Margot repense surtout au silence qui avait précédé la demande.
+
+Dans le miroir de l’entrée, elle cherche l’air assuré qu’elle avait quand elle recevait un client dans son ancien bureau. À l’époque, elle savait quels chiffres ouvrir si l’entretien prenait un autre tour. Elle remonte avec le verre et ramène la chaise un peu en biais, pour que Julie puisse s’asseoir sans bouger la table. Sur le carnet, elle écrit en deux phrases ce qu’elle propose dans le cadre du coaching. Elle garde ses trois questions sur la feuille. Au-dessous, elle laisse assez de place pour noter ce que Julie viendra lui demander.
 
 ## Définition des croyances limitantes
 

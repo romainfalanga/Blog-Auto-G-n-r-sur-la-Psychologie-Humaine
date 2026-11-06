@@ -13,9 +13,11 @@ contexte: "en voyage ou en expatriation"
 draft: false
 ---
 
-Dans le train vers Florence, Mei compte encore les minutes entre les deux correspondances. C’est son premier voyage aussi loin toute seule ; elle a enregistré l’adresse du logement trois fois. En rangeant son téléphone, elle voit les lignes électriques descendre d’un côté de la voie et remonter de l’autre à chaque poteau. Elle déplie son carnet pour essayer de trouver ce mouvement au crayon.
+Mei a enregistré trois fois l’adresse de son logement à Florence. Le train vient de repartir et elle vérifie l’heure de la prochaine correspondance. Elle n’était jamais partie aussi loin seule. Elle a glissé une copie de la planche remise à M. Dubois dans le carnet pour reprendre le dessin pendant le trajet. Le bord dépasse sous l’élastique. À chaque fois qu’elle ouvre le carnet, le même coin revient se mettre sous son crayon.
 
-Elle voulait mettre au propre la planche notée. Pendant plusieurs gares, elle ne s’occupe que du dessin très rapide commencé sur la tablette du train. Quand elle relève la tête, elle a passé le point du trajet qu’elle se proposait de surveiller. Elle vérifie la correspondance, puis revient aux lignes.
+En rangeant le téléphone, elle voit les câbles longer la voie. Ils plongent entre deux poteaux puis remontent presque d’un trait, et les premiers versants se laissent voir derrière eux. Mei tente de suivre les câbles au crayon. Son premier tracé a la courbe trop régulière. Le suivant accroche le bord du papier quand la rame prend un virage. Elle tourne la page et garde le crayon appuyé de côté pour attraper aussi la pente que le train vient de découvrir.
+
+Au moment où elle relève la tête, la gare qu’elle voulait surveiller est passée. Elle cherche le prochain arrêt sur l’écran du wagon, vérifie qu’elle a le temps de changer et sort son billet pour l’avoir à portée de main. Un autre voyageur repousse sa valise sous le siège. Mei regarde la ligne qu’elle vient de laisser au milieu de la page. Le versant avait disparu derrière un mur avant qu’elle le termine. Elle prend une autre couleur pour la portion de paysage qu’elle voit maintenant.
 
 ## Définition de l'émerveillement
 

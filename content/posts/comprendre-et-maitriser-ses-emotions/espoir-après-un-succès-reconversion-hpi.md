@@ -13,9 +13,11 @@ contexte: "après un succès"
 draft: false
 ---
 
-Le virement s’affiche sur le téléphone de Margot. C’est le premier règlement d’un programme complet, après les rendez-vous isolés du début. Elle lit le montant deux fois. Dans le bureau, à l’endroit où elle a posé une lampe pour les séances, le trophée de Chloé prend toujours la poussière.
+Le virement s’affiche sur le téléphone de Margot. Elle lit le montant, referme l’application et la rouvre. C’est le premier règlement d’un programme complet après les rendez-vous isolés du début. Dans le bureau, elle a gardé la feuille où elle avait estimé le nombre de séances qu’elle pourrait donner au printemps. En mars, devant les colonnes vides, elle repliait la feuille dès qu’elle entendait Philippe monter. Aujourd’hui, elle prend un crayon et remplit une ligne.
 
-Elle ouvre son calendrier pour voir combien de créneaux elle pourrait proposer le mois suivant. Elle en compte trop : lundi, par exemple, elle avait prévu d’aller marcher avec Philippe. Elle laisse les créneaux en brouillon et lui envoie une photo du virement, montant masqué, accompagnée d’un point d’exclamation. Puis elle revient au calendrier.
+Pour voir jusqu’où elle pourrait aller, elle ouvre son calendrier du mois suivant. À la suite du programme payé, elle imagine deux autres personnes, puis quatre. Elle se met à déplacer sur l’écran des rendez-vous qui n’existent pas. Le lundi, elle trouve tout un après-midi libre. Elle vient d’écrire « séance » quand elle aperçoit en dessous le mot « marche ». Philippe lui a demandé de lui garder du temps ce jour-là et elle en avait eu envie aussi. Sa première idée est qu’ils pourraient y aller plus tard. Elle efface la séance ajoutée par-dessus.
+
+La lampe des consultations est restée allumée. En se levant pour l’éteindre, Margot frôle le trophée de Chloé et le rattrape. Elle a envie de parler du virement à Philippe. La dernière fois qu’ils ont ouvert un calendrier ensemble, il leur a déjà fallu un moment pour se mettre d’accord sur une soirée. Elle masque le montant, envoie la capture avec un point d’exclamation et rouvre la page du mois suivant. Tous les créneaux sont encore en brouillon.
 
 ## Qu'est-ce que l'espoir après un succès ?
 

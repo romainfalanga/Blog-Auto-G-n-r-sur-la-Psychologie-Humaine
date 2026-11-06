@@ -13,11 +13,13 @@ contexte: "au travail"
 draft: false
 ---
 
-Isabelle a ouvert son rapport il y a dix minutes. Elle n’a encore écrit que la date. Une élève est venue après une dispute familiale, un autre n’a pas réussi à entrer en classe, puis la dernière est restée bien après la sonnerie. Quand quelqu’un frappe de nouveau, Isabelle espère un instant que la porte ne s’ouvrira pas.
+Isabelle a ouvert son rapport il y a dix minutes. Elle a écrit la date, puis la première moitié d’une phrase. Une élève est venue après une dispute familiale, un autre n’a pas réussi à entrer en classe et la dernière est restée bien après la sonnerie. Quelqu’un frappe. Isabelle espère un instant que la personne, faute de réponse, continuera dans le couloir.
 
-Le rapport est encore ouvert sur son écran. Isabelle relit une phrase et ne sait plus si elle l’a écrite ou simplement pensée. Ce soir, Théo voulait lui faire écouter un morceau. Elle aimerait avoir assez d’attention pour l’écouter jusqu’au bout.
+C’est une collègue qui cherche un créneau pour le lendemain. Isabelle commence par lui dire oui. En ouvrant l’agenda, elle voit que le créneau dont elles parlent commence à l’heure où doit finir un autre entretien. « Attends, je vérifie et je te réponds. » Sa collègue acquiesce. Isabelle a la main sur le bouton de la souris longtemps après qu’elle a refermé la porte.
 
-Elle regarde les trois entretiens sur son agenda. Ils se touchent. Elle n’a rien prévu entre la fin du dernier et l’arrivée du prochain élève. Elle ouvre un message pour l’équipe, le referme, puis écrit une question précise sur le rendez-vous de demain.
+Théo lui a écrit qu’il avait retrouvé le morceau qu’il voulait lui faire écouter. D’habitude, il lui en met les premières secondes et explique quelque chose par-dessus. Elle lui demande parfois de remettre au début parce qu’elle a envie d’entendre les deux. Ce soir, elle espère avoir assez d’attention pour ça. Sur l’écran, elle relit le même bout de phrase et s’aperçoit qu’elle ne sait plus ce qu’elle avait l’intention d’ajouter.
+
+Les trois entretiens se touchent sur l’agenda. Isabelle ouvre un message à l’équipe et écrit d’abord qu’elle va trouver une place. Elle efface la phrase. Il lui reste une question précise à poser sur la personne qui pourrait prendre le relais demain.
 
 ## Qu’est-ce que la fatigue de compassion ?
 

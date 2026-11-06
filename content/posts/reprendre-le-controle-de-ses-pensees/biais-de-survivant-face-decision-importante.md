@@ -13,11 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-La brochure de la clinique montre trois anciens généralistes qui ont accepté un poste de direction. Sur une photo, une médecin sourit devant un bâtiment que Priya connaît. Le texte dit qu’elle a enfin pu faire évoluer sa pratique.
+La brochure de la clinique est restée ouverte sur la table. Trois généralistes y racontent pourquoi ils ont accepté un poste de direction. Priya reconnaît un bâtiment derrière l’une des médecins. Elle a déjà fait des gardes tout près. Sous la photo, quelques lignes racontent que cette femme a enfin pu faire évoluer sa pratique. Priya tourne la page pour voir en quoi. Le témoignage s’arrête sur une autre photo.
 
-Anita lui a demandé si elle comptait déposer sa candidature. Priya sait ce que Raj trouverait intéressant dans le poste. Elle-même s’attarde sur la possibilité d’organiser un service. Puis elle revient aux trois photos. Aucun témoignage ne vient de quelqu’un qui a quitté la clinique ou qui a décliné l’offre.
+Anita lui a demandé si elle comptait déposer sa candidature. Priya a répondu qu’elle regardait les horaires. En réalité, elle en sait peu. Ce qui lui plaît à la lecture, c’est d’imaginer une journée où elle pourrait modifier l’organisation d’un service, au lieu de chercher un créneau entre deux consultations. Elle sait ce que Raj trouverait intéressant dans le poste. Elle aimerait pouvoir lui expliquer ce qu’elle ferait une semaine ordinaire. À trois endroits dans la brochure, on lui raconte surtout ce qui a donné envie de dire oui.
 
-Marc, de son côté, attend encore qu’elle lui propose une date. La question de l’association n’est pas la même. Elle ferme le dossier du cabinet, ouvre celui de la clinique et écrit en haut d’une feuille : « Qui est parti ? »
+Marc attend encore qu’elle lui propose une date. Sa réponse est toujours dans la boîte de réception, à côté du dossier de la clinique. Priya ferme le message. L’association soulève d’autres questions. Elle revient aux photos et cherche les fonctions occupées aujourd’hui par les trois personnes. Toutes sont encore en poste. Elle ne trouve pas de témoignage de quelqu’un qui aurait rendu son bureau. En haut d’une feuille, elle écrit « Qui est parti ? » et laisse de la place sous la question.
 
 ## Définition du concept : le biais de survivant
 

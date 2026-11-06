@@ -13,9 +13,11 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Mei ouvre son téléphone pour retrouver une référence. Une publicité lui montre, encore, le même logiciel de dessin et le même raccourci qui fait disparaître un fond en deux gestes. Elle reconnaît le début avant de l’entendre. Elle n’avait pas trouvé la démonstration convaincante la première fois. Maintenant, le nom est le premier qui lui vient quand elle pense à changer de logiciel.
+Il lui manque un pli dans l’aile gauche. Mei essaie de retrouver une référence sur son téléphone et tombe sur la publicité du logiciel. La main du démonstrateur n’est pas encore entrée dans l’image qu’elle sait où elle va cliquer. En deux gestes, le fond disparaît. La première fois, Mei avait trouvé que l’exemple ne disait rien sur le travail qu’elle faisait. À présent, elle reconnaît le nom au point de le chercher spontanément quand elle songe à changer d’outil.
 
-À côté d’elle, le croquis d’une créature aux ailes de papier attend qu’elle reprenne son aile gauche. Toutes les publicités qu’elle vient de voir montrent des bords impeccables. Elle examine son trait encore granuleux, le gomme sur quelques millimètres, puis s’arrête.
+Elle revient au croquis. Sa créature tient à peine debout sous ses ailes de papier. Mei a gardé un bord irrégulier pour donner l’impression que l’aile a été découpée à la main. Sur la vidéo, les lignes sont si lisses qu’on ne voit même pas où elles se rejoignent. Elle gomme quelques millimètres de son propre trait. Il reste sous l’aile une zone blanche où la créature paraît soudain plus légère qu’elle ne le voulait.
+
+Elle rouvre la démonstration et la regarde jusqu’à la fin pour voir si le logiciel ferait mieux à cet endroit. Le raccourci fonctionne très bien sur le fond montré, uni d’un bord à l’autre. Mei pose son téléphone contre le pot à crayons. Sur son dessin, elle doit encore décider quel morceau de l’aile passe devant la patte. Elle reprend la feuille en la tenant plus près de la lampe.
 
 ## Qu'est-ce que l'effet de simple exposition ?
 

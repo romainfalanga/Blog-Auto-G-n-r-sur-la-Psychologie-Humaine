@@ -13,9 +13,11 @@ contexte: "au travail"
 draft: false
 ---
 
-Marc, de l’équipe produit, demande qui a choisi le nouvel ordre des campagnes. Nadia répond d’abord que la décision a été prise la semaine précédente. C’est elle qui l’a prise. Julie, à côté d’elle, tient le calendrier sans avoir pu expliquer le décalage qu’elle propose.
+Marc, de l’équipe produit, montre les deux premières lignes du calendrier. Il veut savoir qui a choisi de faire passer cette campagne avant les autres. « L’ordre a été arrêté la semaine dernière », répond Nadia. Elle se rappelle le moment où elle a déplacé elle-même la ligne et les raisons qu’elle avait alors. Elle pourrait les donner une par une. En voyant Marc attendre, elle ajoute que l’ordre avait déjà été communiqué.
 
-Nadia entend sa voix accélérer. Elle reprend la question de Marc : est-ce le choix de la campagne qui lui pose problème, ou sa date ? Marc parle d’un conflit avec un autre lancement. Nadia regarde Julie, qui avait mis une remarque au même endroit dans le document. Elle lui laisse reprendre le point.
+Julie tient devant elle la version annotée du calendrier. Elle commence à tourner la feuille. Nadia l’a vue proposer un décalage dans le document partagé, mais elle n’a pas eu le temps de lui demander ce que cela changerait pour l’équipe. Elle poursuit sur les créneaux déjà réservés. Au milieu de sa phrase, Marc revient à la même ligne. Il a l’air de parler du jour du lancement, alors que Nadia est encore occupée à défendre son choix de campagne.
+
+Elle lui demande lequel des deux lui pose problème. Marc indique un autre lancement prévu au même moment. Nadia baisse les yeux vers la feuille de Julie. Une annotation figure exactement à l’endroit que Marc montre du doigt. Elle reconnaît les trois mots qu’elle avait lus entre deux messages, sans ouvrir le commentaire. Julie a ramené sa feuille de son côté. Nadia laisse la fin de sa propre phrase en suspens et lui demande de leur montrer le décalage.
 
 ## Qu’est-ce qui distingue un trait d’un trouble narcissique ?
 La confiance en soi n'est pas en soi un trait narcissique. En psychologie, les traits narcissiques sont des caractéristiques étudiées à des degrés variables. Le trouble narcissique de la personnalité est une catégorie clinique du DSM-5-TR. Son évaluation porte sur un ensemble persistant de difficultés, dont peuvent faire partie le sentiment de grandeur, le besoin d'admiration et le manque d'empathie. Un comportement en réunion ou un score de questionnaire de recherche ne permettent pas de poser ce diagnostic.

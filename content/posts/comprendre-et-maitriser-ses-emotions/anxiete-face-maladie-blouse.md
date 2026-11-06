@@ -13,9 +13,13 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-Priya vient de vérifier pour la troisième fois le numéro de téléphone du patient. Il doit rappeler avec les résultats d’un examen. Elle sait que le numéro est bon. Ce sont les mots « je vous tiens au courant » qu’elle n’arrive pas à laisser derrière elle.
+Le cabinet se vide. Priya vient de vérifier pour la troisième fois le numéro de téléphone du patient qui doit rappeler avec les résultats d’un examen. Le numéro est bon. C’est lui qui le lui a dicté, puis qui a dit « je vous tiens au courant » en remettant son manteau. Il lui avait fallu répéter les deux derniers chiffres parce que la porte était restée ouverte sur le couloir.
 
-À l’hôpital, lorsqu’ils attendaient les résultats de Raj, sa mère lui avait dit la même chose. Anjali avait continué de parler après, de sa place de parking et de la soupe à réchauffer. Priya se souvient mieux de ces détails que du reste de l’appel. Elle referme le dossier et commence à trier ceux du lendemain.
+Le jour où Raj attendait ses résultats à l’hôpital, Anjali lui avait dit la même chose. Sa mère avait parlé ensuite de sa place de parking et de la soupe à réchauffer. Priya tenait une cuillère au-dessus de son bol. Elle se rappelle avoir fini par la poser sur la nappe, d’un geste qu’elle voulait discret alors qu’Anjali était au téléphone. Elle se souvient mieux de cette tache que des mots qui sont venus après.
+
+La secrétaire passe la tête par la porte pour lui demander si elle a terminé. Priya répond qu’elle range les dossiers du lendemain. Quand les pas s’éloignent, elle ouvre de nouveau celui du patient. Elle trouve sa propre note sur la suite prévue. Il n’y a rien à corriger.
+
+Elle pense à demander à Anita si elle a eu des nouvelles de leur père cette semaine. Elle a son téléphone à portée de main. Elle commence plutôt à remettre les dossiers dans l’ordre des rendez-vous, avec une attention dont elle aurait eu du mal à expliquer l’urgence.
 
 ## Les manifestations silencieuses de l'angoisse en milieu médical
 

@@ -141,6 +141,7 @@ def build():
     examples = []
     characters = character_catalog()
     articles_data = {}
+    article_topics = json.loads((ROOT / 'data/parcours_topics.json').read_text())
     # Editorial links belong to the public story, never to its reader. Only
     # reviewed rows from the complete pack can add controlled concept IDs.
     pack_path = ROOT / 'data/editorial_pack_v10.json'
@@ -168,13 +169,14 @@ def build():
         if len(excerpt) > 10000:
             excerpt = excerpt[:7500] + '\n\n[Extrait intermédiaire omis]\n\n' + excerpt[-2000:]
         character = characters.get(meta.get('personnage', '').lower(), {})
+        topics = article_topics[relative.as_posix()]
         theme_sources = [meta.get('sujet', '')] + meta.get('tags', [])
-        # Generic site-wide tags add no information about affinity. The remaining
-        # frontmatter tags naturally fill the space freed by synonym deduplication.
+        # Search still uses established aliases and context tags. Editorial
+        # reading topics describe what this episode actually explores.
         keywords = unique_labels([value for value in theme_sources if normalized(value) != 'psychologie'], 3)
         articles_data[relative.as_posix()] = {
             'character': meta.get('personnage', ''), 'character_id': character.get('id', ''),
-            'keywords': keywords, 'character_keywords': character.get('keywords', []),
+            'keywords': topics, 'character_keywords': character.get('keywords', []),
             **metadata,
         }
         examples.append({
@@ -182,7 +184,7 @@ def build():
             'url': '/' + relative.parent.as_posix() + '/' + slug + '/',
             'character': meta.get('personnage', ''),
             'description': meta.get('description', ''),
-            'keywords': keywords, 'character_keywords': character.get('keywords', []),
+            'keywords': keywords, 'reading_topics': topics, 'character_keywords': character.get('keywords', []),
             'sujet': meta.get('sujet', ''), 'category': (meta.get('categories') or [''])[0],
             **metadata,
             'body': excerpt,

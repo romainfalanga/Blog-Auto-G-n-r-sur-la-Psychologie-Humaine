@@ -13,11 +13,13 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Le banc est encore humide. Hugo pose l’étui de sa guitare debout entre ses genoux pour éviter la flaque qui s’est formée dessous. Il sort du bar où il travaille et a pris le chemin du parc au lieu de rentrer. Il n’a pas envie d’ouvrir la porte de l’appartement.
+Au bar, Hugo a monté la dernière chaise sur une table sans s’apercevoir que la musique était coupée. En sortant, il prend la direction du parc. Chez lui, il y a une cafetière à vider et la place de Chloé sur le canapé. Il connaît le trajet jusqu’à la porte et, pour le moment, préfère marcher un peu plus loin.
 
-Depuis le départ de Chloé, il lui arrive de sentir le manque très fort et, l’instant d’après, de ne plus savoir ce qui l’intéresse. Théo, son frère jumeau, a appelé hier. Hugo a laissé sonner. Dans le parc, il ne trouve toujours rien qu’il saurait lui dire au téléphone.
+Le banc est humide. Il pose l’étui de sa guitare debout entre ses genoux pour éviter la flaque qui s’est formée dessous. D’habitude, après un service, il a un refrain en tête ou une phrase entendue au comptoir qu’il voudrait essayer de chanter. Ce soir, il se souvient qu’un client a retourné son verre sur la table. Il a passé un chiffon et apporté une autre bière. À part ça, il aurait du mal à raconter la soirée.
 
-Il finit par se lever. Sur l’écran, l’appel de Théo est encore le premier de la liste. Hugo rentre avec l’étui et le téléphone dans la même main.
+La veille, Théo a appelé. Hugo ouvre sa fiche et voit la photo de son frère, puis l’heure de l’appel. Il pourrait dire que Chloé lui manque. Sur le banc, il a surtout froid aux jambes et n’arrive pas à imaginer ce qui lui ferait plaisir. Il n’a aucune envie de rassurer Théo sur la suite.
+
+Les lampes de l’allée viennent de s’allumer. Hugo se lève et essuie le bas de l’étui avec sa manche. En reprenant le chemin de l’appartement, il garde le téléphone dans la même main. Le nom de Théo est encore en haut de la liste.
 
 ## Qu'est-ce que le vide intérieur ?
 

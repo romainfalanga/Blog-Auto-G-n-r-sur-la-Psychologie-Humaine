@@ -13,11 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-La première page porte le nom d’un professeur que Raj citait souvent. Priya regarde la signature avant d’arriver aux recommandations. Plus bas, une suggestion lui paraît aussitôt applicable. À la lecture suivante, elle voit qu’elle concerne une situation différente de celle du patient qu’elle recevra cet après-midi.
+Priya a imprimé le document pour préparer sa consultation de l’après-midi. La première page porte le nom d’un professeur que Raj citait souvent. Elle reconnaît le nom avant de lire le titre. Plus bas, une suggestion lui paraît assez claire pour être notée. Elle la copie et s’apprête à refermer le document. Puis un mot dans la phrase précédente l’arrête. Le passage porte sur une autre situation que celle du patient qu’elle doit recevoir. Elle remet la page devant elle.
 
-Elle entend encore son père au dîner, contester des consignes qu’il jugeait trop éloignées des patients. Le même soir, il lui suffisait parfois de donner le nom d’un collègue qu’il respectait pour clore la discussion. Priya a gardé ces deux réflexes. Elle essaie aujourd’hui de voir lequel vient de parler.
+À table, Raj pouvait s’agacer longtemps d’une consigne qu’il jugeait trop éloignée de ses patients. Priya se souvient d’avoir voulu savoir d’où venait son désaccord. Le nom d’un collègue qu’il respectait lui avait servi de réponse. Elle avait continué à manger. Aujourd’hui, il lui a suffi de voir une signature familière pour avoir envie d’avancer d’un paragraphe.
 
-Dans la pochette à côté d’elle, la lettre du 11 avril attend encore. Elle l’ouvre au marque-page et met les deux documents côte à côte. L’un demande une vérification du logiciel, l’autre expose une recommandation clinique. Elle sort deux feuilles différentes.
+La lettre du 11 avril dépasse d’une pochette. Priya l’ouvre au marque-page et la met à côté de la recommandation. Elle a mis plusieurs jours à traiter ce courrier, et quelques secondes à copier une ligne du second document. Sur le premier, elle essaie toujours de déterminer si le logiciel du cabinet est concerné. Elle sort deux feuilles de brouillon. Elle réserve l’une à la question du logiciel, l’autre à ce qu’elle doit encore vérifier avant de recevoir son patient.
 
 ## Définition du biais d'autorité
 

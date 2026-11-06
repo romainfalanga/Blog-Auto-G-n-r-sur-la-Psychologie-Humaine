@@ -14,7 +14,8 @@ function updateChatControls(){
  var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||!!(data.quota&&Number(data.quota.remaining||0)<=0);
  var mounted=document.getElementById('view'),shell=mounted&&mounted.chatShell;if(shell)shell.thread.querySelectorAll('button').forEach(function(button){if(button.dataset.chatRetry)button.disabled=!!(state.chatSending||!data.access||!data.access.allowed||data.quota&&Number(data.quota.remaining||0)<=0)});
  var input=form.elements.content;if(input)input.disabled=!!(data.access&&data.access.reason==='authentication_required');
- var quota=document.getElementById('chat-quota');if(quota&&data.quota)quota.textContent=Number(data.quota.remaining||0)+' / '+Number(data.quota.limit||100)+' messages';
+ var quota=document.getElementById('chat-quota');
+ if(quota&&data.quota)quota.textContent=data.quota.used+' / '+data.quota.limit;
 }
 function disposeChatInterface(){
  if(state.chatVoice){state.chatVoice.dispose();state.chatVoice=null}
@@ -60,8 +61,14 @@ function drawChatReadings(host,suggestions){
  if(!valid.length)return;var readings=el('aside','chat-readings');readings.setAttribute('aria-label','Lectures suggérées');readings.append(el('p','chat-readings-title','Pour prolonger cet échange'));valid.forEach(function(card){readings.append(card)});host.append(readings);
 }
 function createChatShell(view,current){
- var data=state.chatData||{},guest=data.access&&data.access.reason==='authentication_required',surface=el('section','conversation');surface.setAttribute('aria-label','Ambre');
- var toolbar=el('div','conversation-toolbar');toolbar.append(el('span','','Ambre · psychologue IA'));
+ var data=state.chatData||{},guest=data.access&&data.access.reason==='authentication_required',surface=el('section','conversation');
+ var toolbar=el('div','conversation-toolbar'),title=el('h1');
+ title.append(el('span','','Ambre'),el('span','conversation-title-divider',' · '),el('span','conversation-role','psychologue IA'));
+ title.id='conversation-title';surface.setAttribute('aria-labelledby',title.id);
+ var quota=el('div','message-quota'),quotaCount=el('div','message-quota-count'),count=el('strong','','—');count.id='chat-quota';
+ quotaCount.append(count,el('span','',' messages'));
+ quota.setAttribute('role','status');quota.append(quotaCount,el('span','','cette semaine'));
+ toolbar.append(title,quota);
  surface.append(toolbar);
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);

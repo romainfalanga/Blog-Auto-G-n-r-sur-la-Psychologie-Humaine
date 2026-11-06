@@ -13,9 +13,13 @@ contexte: "en période de reconversion professionnelle"
 draft: false
 ---
 
-Sous l’auvent de l’école de coaching, Margot cherche ses clés avec son carnet encore ouvert. Sylvie a entouré une seule de ses notes : « Essayer avec quelqu’un qui me connaît déjà. » Margot avait prévu de discuter du tarif et de la durée de ses séances. Elle repart avec une question beaucoup plus courte : à qui demander ?
+« Vous m’avez préparé un tarif et une séance de cinquante minutes », dit Sylvie en tournant le carnet vers Margot. « Vous avez quelqu’un à qui les proposer ? »
 
-Sur le parking, elle imagine Claire, une ancienne collègue, lui dire que le coaching ne se vend plus, qu’à cinquante-deux ans elle aurait mieux fait de garder son poste. Claire n’a jamais dit ça. Elle lui a demandé l’autre jour comment se passait la formation. Margot inscrit le prénom à côté du cercle tracé par Sylvie, puis démarre. Elle attendra d’être rentrée pour écrire.
+Margot sait expliquer combien d’entretiens lui permettraient de couvrir ses frais. Elle a fait le calcul en changeant le tarif trois fois. À la question de Sylvie, elle pense à Claire, une ancienne collègue. Aussitôt, elle imagine la conversation prendre le même tour qu’à l’époque où elles devaient convaincre un client qui avait déjà choisi un autre prestataire. Elle parle finalement d’une connaissance, sans donner le prénom. Sylvie entoure une ligne du carnet : « Essayer avec quelqu’un qui me connaît déjà. »
+
+Sur le parking de l’école, Margot cherche ses clés avec le carnet encore ouvert. Elle entend presque Claire lui dire qu’à cinquante-deux ans elle aurait mieux fait de garder son poste. En réalité, l’autre jour, Claire lui a demandé comment se passait la formation. Margot avait répondu « Ça avance » avant de lui poser une question sur son travail. Elle n’a guère laissé à Claire de quoi se faire un avis.
+
+Margot s’installe au volant et ouvre leur conversation. Elle écrit « J’aurais besoin d’un service » et laisse le curseur clignoter. Il faudrait expliquer la séance et dire combien elle coûte. Elle essaie de le formuler à voix haute. Les premiers mots sonnent comme une excuse. Elle note le prénom de Claire dans le carnet, à côté du cercle, et démarre. Elle rédigera le message chez elle.
 
 ## Qu'est-ce que la négativité et le pessimisme ?
 

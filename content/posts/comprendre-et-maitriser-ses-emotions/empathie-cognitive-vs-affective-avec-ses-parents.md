@@ -13,11 +13,13 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Sur le palier de sa mère, Isabelle pose le sac de courses et reprend son souffle. La dernière fois, elle était venue avec des papiers qu’elles n’avaient finalement pas ouverts. Ce soir, elle a prévenu Théo qu’elle rentrerait pour dîner. Au bruit de la clé, elle entend déjà Geneviève parler d’un courrier.
+Sur le palier de sa mère, Isabelle pose le sac de courses pour chercher ses clés. La dernière fois, elle était venue avec des papiers qu’elles n’avaient finalement pas ouverts. Ce soir, elle a prévenu Théo qu’elle rentrerait pour dîner. Elle arrive à peine à tourner la clé que Geneviève commence à lui parler d’un courrier. Elle ramasse le sac avant de répondre.
 
-Geneviève est assise dans son fauteuil en velours vert, le visage défait, fixant une lettre de l'assurance maladie. Dès qu'Isabelle entre, les reproches commencent, voilés sous une plainte lancinante sur sa santé déclinante et l'incompétence de l'administration. En tant qu'ancienne enfant parentifiée, le premier réflexe d'Isabelle est de se laisser absorber par la détresse de sa mère, de ressentir chaque onde de frustration comme si elle lui appartenait. Sa peau devient brûlante, son souffle se raccourcit. Elle perçoit le gouffre de la fatigue de compassion qui s'ouvre à nouveau, menaçant de l'engloutir après une journée déjà dense auprès des élèves en crise au collège.
+Geneviève est dans son fauteuil vert, une lettre de l’assurance maladie posée sur les genoux. « Tu vas voir comment ils écrivent. Tu n’appelles jamais au bon moment et après, il faut se dépêcher. » Isabelle pense d’abord que le « tu » lui est adressé. Elle voudrait expliquer pourquoi elle était encore au collège à cette heure. Sa mère lui tend le papier et parle déjà du dernier numéro qu’elle a essayé. Elle ne retrouve plus la personne qui lui avait répondu.
 
-Isabelle voit les doigts qui tambourinent sur la lettre. Elle peut lui demander ce qu’elle souhaite, tout en gardant en tête la fatigue qu’elle ressent.
+Isabelle prend la lettre. Au milieu de la page, elle se rend compte qu’elle l’a déjà parcourue sans rien en retenir. Elle a encore dans les oreilles un échange de la dernière heure au collège. Dans le sac, le carton de lait est tombé de côté. Elle le remet debout et dit qu’elle va s’asseoir une minute.
+
+Geneviève tapote le papier à l’endroit où il se replie. Isabelle pourrait aller chercher le téléphone et composer le numéro tout de suite. Elle regarde les doigts de sa mère et essaie d’entendre ce qu’elle vient de lui dire, en dessous du ton qui l’a fait se raidir.
 
 ## Comprendre le point de vue de l’autre et être touché
 

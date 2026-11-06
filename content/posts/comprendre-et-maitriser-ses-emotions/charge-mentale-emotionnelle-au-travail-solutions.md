@@ -13,9 +13,13 @@ contexte: "au travail"
 draft: false
 ---
 
-À la bibliothèque municipale, Monique vient faire sa permanence bénévole. Elle a deux fiches de prêt à corriger et quelques formulaires à rendre à la mairie. Dans la réserve, Claire, qui s’occupe du festival avec l’équipe, recompte des cartons. Antoine, un autre bénévole, lui dit de ne pas y passer la journée. Monique s’apprête à intervenir. Aucun des deux ne lui a rien demandé.
+À la bibliothèque municipale, Monique vient faire sa permanence bénévole. Elle a deux fiches de prêt à corriger et quelques formulaires à rendre à la mairie. Elle a déjà retrouvé la date du premier retour quand elle entend Claire recompter les cartons dans la réserve. Claire organise les stands du festival avec l’équipe. Antoine, un autre bénévole, lui dit qu’ils ont commandé le même nombre que l’an dernier et qu’elle pourrait passer à autre chose.
 
-Jacques a proposé une marche en forêt cet après-midi. Elle a décliné en pensant au travail qu’elle aurait à rattraper si la discussion tournait mal. Elle regarde ses deux fiches. Si elle les termine avant midi, elle peut encore faire la permanence comme prévu. Elle ne sait pas ce qu’il adviendra des cartons.
+Monique s’approche de la réserve. Elle s’attend à ce que Claire lui demande de trancher. Claire lui demande seulement de dégager le passage pour pouvoir poser un carton au sol. Monique pousse le chariot de livres, puis commence à calculer combien de stands ils pourraient déplacer. Elle a même une idée de l’endroit où elle apporterait du café pour qu’Antoine et Claire puissent reprendre la discussion. Sur son bureau, le nom de la lectrice attend toujours d’être recopié.
+
+Jacques a proposé une marche en forêt cet après-midi. Elle a décliné en prévision de ce qu’il lui faudrait rattraper après la permanence. À ce moment-là, Claire et Antoine n’avaient encore rien dit. Elle relit son message à Jacques. Elle lui a écrit « grosse journée », comme si elle savait déjà comment elle allait la passer.
+
+Monique rapporte le chariot à l’accueil et se rassied. Claire bouge un autre carton. Monique lève la tête, puis termine d’écrire le nom de la lectrice avant de chercher ce qui se passe.
 
 ## Définition de la charge mentale émotionnelle
 

@@ -13,9 +13,11 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-L’enveloppe est ouverte sur le siège passager. Margot a lu les deux premières pages au calme dans la voiture, puis s’est arrêtée à la clause sur les échéances. C’est une proposition de collaboration plus longue que le projet d’ateliers reçu en avril. À voir cette clause, elle se dit qu’elle retrouvera les contraintes de son ancien poste, à ceci près qu’elle aura signé pour y revenir.
+L’enveloppe est ouverte sur le siège passager. Margot a lu les deux premières pages au calme dans la voiture. La proposition porte sur une collaboration plus longue que les ateliers d’avril. Elle s’arrête à la clause sur les échéances. Dans son ancien poste, les délais étaient inscrits en petits caractères, au bas des documents, et revenaient occuper tout l’écran dès qu’un chiffre n’arrivait pas. À la deuxième lecture de cette clause, elle pense déjà aux appels qui lui prendraient ses soirées. Elle replie le contrat assez vivement pour déchirer le coin de la page.
 
-Elle fait courir son doigt le long de la phrase. Le délai figure dans le document. En revanche, elle ne voit aucune ligne sur la façon de conduire ses séances. Elle note les deux informations séparément. Cette fois, son premier réflexe n’est pas de donner une réponse : elle veut parler à la personne qui a rédigé le contrat.
+Le rendez-vous où elle a reçu l’enveloppe s’est pourtant terminé sur une question : comment avait-elle envie de conduire les séances ? Elle avait répondu qu’elle partirait de ce que les participants apporteraient. Son interlocutrice lui avait demandé un exemple et avait pris des notes. Margot se rappelle avoir trouvé la question sincère sur le moment. Depuis qu’elle a lu la clause, elle l’entend comme une simple politesse.
+
+Elle reprend le document. Le délai y figure, imprimé deux fois. Sur la méthode des séances, elle ne trouve aucune ligne. Dans la marge, elle a écrit « retour au même poste » à côté des échéances. Elle entoure les mots qui sont dans le contrat, puis prend son carnet pour noter ce qu’elle a entendu au rendez-vous. La phrase sur le retour au même poste reste dans la marge. Margot prend le numéro au dos de l’enveloppe. Elle veut demander à quoi l’engage le calendrier avant de se préparer à le subir.
 
 ## Définition du biais de croyance
 

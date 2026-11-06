@@ -13,9 +13,13 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Le paquet de farine bascule quand Yasmine le rapproche de la balance. Nadia la voit tendre la main pour le rattraper, trop tard. Elle hausse la voix avant même que le paquet soit par terre. « Monte dans ta chambre. Je vais finir. »
+Yasmine a choisi le saladier qui tourne sur le plan de travail quand on remue trop vite. Elle le cale avec un torchon et demande à Nadia d’allumer le four. Nadia revient d’une journée passée à reprendre un dossier interrompu plusieurs fois. Elle est d’accord pour faire le gâteau avant le dîner. Dans sa tête, il est déjà au four pendant qu’elle sort les assiettes.
 
-À huit ans, Yasmine sait peser les ingrédients. Nadia le sait aussi. Elle vient de passer la journée à reprendre un dossier après des interruptions ; elle avait imaginé le gâteau prêt avant le dîner. Elle se met à nettoyer très vite. Sur le plan de travail, Yasmine avait mis de côté la spatule qu’elle voulait utiliser.
+Yasmine sait peser les ingrédients. Elle lit le nombre à voix haute, verse encore un peu de farine et rapproche le paquet pour y remettre ce qui dépasse. Le fond accroche le bord de la balance. Nadia la voit tendre la main pour le rattraper et hausse la voix avant même que le paquet touche le carrelage. Yasmine essaie de dire qu’elle allait le tenir par en dessous.
+
+« Monte dans ta chambre. Je vais finir. »
+
+Nadia entend les pas de Yasmine dans l’escalier. Elle sort la poubelle du placard. Elle ramasse la farine par poignées, rince la balance et remet le saladier sur le torchon. Le four sonne. Elle pourrait continuer et appeler Yasmine quand tout sera prêt. En cherchant de quoi casser les œufs, elle trouve sur le plan de travail le petit bol que sa fille utilise pour les ouvrir un par un. La spatule est juste à côté. Yasmine a tout disposé assez près du bord pour pouvoir y accéder depuis son tabouret.
 
 ## Qu'est-ce que la frustration avec ses enfants ?
 

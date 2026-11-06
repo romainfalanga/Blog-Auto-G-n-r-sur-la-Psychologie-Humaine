@@ -13,11 +13,13 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-« Et pour le bus ? » demande Claire. Priya a déjà replié l’ordonnance. Claire vient de lui parler de sa fatigue et du jour où elle n’a pas pu rentrer à pied. Priya a posé ses questions sur les symptômes. Elle a oublié de revenir à ce trajet.
+« Et pour le bus ? » demande Claire. Priya a déjà replié l’ordonnance. Claire vient de lui parler de sa fatigue et du jour où elle n’a pas pu rentrer à pied. Priya a posé ses questions sur les symptômes, repris une information du dossier et rapproché le papier du bord de la table. Dans cet ordre, il n’y avait pas de place pour le trajet. Claire garde son manteau sur les genoux et attend.
 
-Elle lui demande de reprendre. Claire explique qu’elle hésite à traverser la ville pour ses rendez-vous parce qu’elle change de ligne sur le chemin. Priya note l’information. Dans la salle d’attente, deux personnes sont arrivées. Elle sent qu’elle voudrait terminer rapidement, comme elle avait voulu couper court à la visioconférence avant de poser sa question à Antoine.
+Priya lui demande de reprendre. À l’aller, explique Claire, elle peut prévoir de prendre le bus plus tôt. Au retour, il faut changer de ligne et rester debout si la correspondance prend du retard. « Je peux venir. C’est rentrer qui me pose problème. » Priya avait déjà commencé à lui répondre sur les horaires du prochain rendez-vous. Elle laisse Claire finir.
 
-Lorsque Claire repart, Priya ne sait pas si elle se presse par fatigue, par manque de temps ou parce que ce récit l’inquiète. Elle relit une ligne du dossier : « Difficulté du trajet retour. » C’est un problème qu’elle peut garder en vue sans d’abord résoudre la question de son propre calme.
+Deux personnes sont arrivées dans la salle d’attente. Elle les entend déplacer les chaises. Le désir d’en finir lui rappelle celui qu’elle a eu de quitter la visioconférence avant de poser sa question à Antoine. Elle note dans le dossier « Difficulté du trajet retour », puis relit la ligne à voix basse pour vérifier qu’elle a bien compris. Claire remet enfin son manteau.
+
+Une fois la porte fermée, Priya garde la main sur le clavier. Fatigue, retard, envie d’écourter un récit qui l’inquiète : elle aurait du mal à savoir ce qui a pesé le plus. La précision sur le retour est maintenant dans le dossier. Le rendez-vous suivant va commencer.
 
 ## Qu'est-ce que l'indifférence ?
 

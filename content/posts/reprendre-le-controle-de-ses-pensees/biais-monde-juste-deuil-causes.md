@@ -13,9 +13,13 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-« Si seulement on avait commencé plus tôt… » Monique retrouve cette phrase dans une liasse de dossiers médicaux de Jean-Claude. Elle reconnaît son écriture. Il n’a pas noté de date. Sur le papier placé juste au-dessous, il est question d’un rendez-vous différent. Elle a envie de rapprocher les deux feuilles ; rien ne prouve qu’elles parlent de la même chose.
+Monique tire d’une liasse de dossiers médicaux de Jean-Claude un papier plié en quatre. « Si seulement on avait commencé plus tôt… » La phrase s’arrête avant le bord. Elle reconnaît son écriture au point épais qu’il laissait quand il gardait le stylo posé. Il n’a pas mis de date.
 
-Geneviève sonne avec des madeleines. Monique les pose sur une assiette sans lui montrer le carnet. En lui demandant si elle prend du thé, elle s’entend déjà chercher qui aurait pu faire quelque chose, à quel moment, et pourquoi personne ne l’avait fait.
+Elle retrouve sous le papier la convocation pour un rendez-vous et rapproche les deux feuilles. En haut de la convocation, une heure a été rayée à la main. Pendant quelques secondes, elle tient là un retard, quelqu’un qui l’a décidé et le début d’une explication. Puis elle se rappelle qu’elle a défait les dossiers plusieurs fois. La phrase a pu se retrouver là au dernier rangement. Elle tourne la feuille pour chercher quelque chose au dos.
+
+La sonnette retentit. Geneviève apporte des madeleines encore tièdes et demande une assiette assez grande pour qu’elles refroidissent. Monique la lui tend. « Tu te souviens, quand on devait rappeler pour changer un rendez-vous ? » Geneviève demande de quel rendez-vous elle parle. Monique pourrait lui montrer le papier. Elle se contente de dire que c’est ancien et lui propose du thé.
+
+Pendant que Geneviève répartit les madeleines, Monique regarde la liasse depuis la porte. Il y a un mot dans un compte rendu qu’elle aimerait qu’on lui explique. Elle a aussi envie qu’on lui dise à quel moment elle aurait dû insister. Dans la cuisine, Geneviève attend toujours de savoir où sont les petites cuillères.
 
 ## Qu'est-ce que le biais du monde juste ?
 

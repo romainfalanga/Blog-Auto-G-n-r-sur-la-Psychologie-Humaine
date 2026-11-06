@@ -13,9 +13,11 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Nadia perd le fil à la cinquième diapositive. Elle prend une gorgée d’eau, passe par erreur à la suivante et revient en arrière. Elle est persuadée que Julie, qui connaît le déroulé, a vu qu’elle cherchait ses mots. Au bout de la table, Mathieu a la tête penchée sur ses notes.
+À la cinquième diapositive, il manque à Nadia le mot par lequel elle comptait enchaîner. Elle boit un peu d’eau. Son pouce avance d’une page avant qu’elle ait repris. La sixième s’affiche avec le tableau du calendrier, puis disparaît pendant qu’elle revient en arrière. Nadia connaît la présentation par cœur depuis la veille. De toutes les façons de montrer qu’elle a perdu le fil, elle croit avoir trouvé la plus voyante.
 
-La directrice du produit l’arrête sur une question de calendrier. Nadia répond plus vite qu’elle ne le voulait. Elle reprend la phrase pour préciser la date. Quand elle arrive au bout du diaporama, elle se rappelle surtout les secondes où elle n’a rien dit.
+Julie, qui a répété le passage avec elle, garde le doigt sur une ligne de son exemplaire. Elle ne lui souffle rien. Au bout de la table, Mathieu prend des notes sans relever la tête. Nadia ne sait pas s’il a entendu son début de phrase ou s’il attend qu’elle arrive au calendrier. Elle saute une transition qu’elle avait préparée et affiche de nouveau le tableau.
+
+La directrice du produit l’arrête pour savoir quelle date concerne son équipe. Nadia donne la réponse d’un trait, voit le stylo de Mathieu s’immobiliser et répète le jour plus lentement. Il écrit quelque chose. Elle arrive ensuite jusqu’à la dernière page sans se tromper de bouton. Au moment de ranger le verre, elle entend qu’on reparle d’une date. Elle pourrait rester pour écouter. Elle s’écarte pour laisser sortir la directrice et regarde les notes qu’elle a prises pour sa propre présentation. Rien n’y marque les secondes où elle a cru que toute la salle attendait.
 
 ## Définition de l'illusion de transparence
 

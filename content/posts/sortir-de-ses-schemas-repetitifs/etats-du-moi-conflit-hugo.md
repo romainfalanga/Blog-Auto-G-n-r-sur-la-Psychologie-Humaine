@@ -13,9 +13,13 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Théo attend Hugo dans l’escalier du studio. Il lui dit que Chloé est déjà en haut et qu’elle a accepté de parler un peu avant de partir. Hugo a préparé trois reproches; le premier lui revient chaque fois qu’il passe devant la salle où ils ont dû arrêter la répétition.
+Théo attend Hugo dans l’escalier du studio, à mi-hauteur, là où il faut se serrer pour laisser passer quelqu’un. Chloé est en haut. Elle a accepté de parler un peu avant de partir et attend qu’il monte. Hugo avait compté sur les minutes qui précèdent d’habitude la répétition pour trouver comment lui dire les choses. Il s’entend demander à son frère :
 
-Il voudrait lui faire reconnaître qu’elle l’a blessé. Il repense au message envoyé après le Melody et au suivant qu’il n’a pas envoyé. Chloé ne lui doit pas de réponse à cette déclaration. Il peut lui dire pourquoi il est venu et la laisser partir si elle ne veut pas en parler.
+« Elle t’a dit pourquoi elle ne m’a pas répondu ? »
+
+Théo secoue la tête. Il se décale pour le laisser passer. Hugo monte deux marches et retrouve le premier des trois reproches qu’il a préparés. Il a prévu le moment où elle devrait lui donner raison. Il imagine moins facilement ce qu’il lui dirait si elle refusait. Devant la porte de la salle, il repense à la fois où Samba avait levé les baguettes, puis arrêté parce qu’ils n’entendaient plus la voix.
+
+Hugo met la main dans sa poche. Il aurait envie de relire le message envoyé après le Melody, surtout pour retrouver le ton qu’il croit y avoir mis. À la place, il regarde le couloir. Il y a un étui posé près de la sortie et la partition de Chloé sur le pupitre. Il ne sait pas encore ce qu’elle acceptera de lui dire. Il entend Théo redescendre. La première chose qu’il peut demander, c’est combien de temps elle a.
 
 ## Définition des états du Moi (Parent, Adulte et Enfant)
 Les états du Moi, nommés Parent, Adulte et Enfant, appartiennent au modèle de l'analyse transactionnelle développé par Eric Berne. L’[International Transactional Analysis Association](https://staging.itaaworld.org/key-concepts-transactional-analysis) les présente comme des ensembles de pensées, d'émotions et de comportements. Ces mots servent de repères de lecture ; ils ne désignent ni des personnes distinctes ni des diagnostics.

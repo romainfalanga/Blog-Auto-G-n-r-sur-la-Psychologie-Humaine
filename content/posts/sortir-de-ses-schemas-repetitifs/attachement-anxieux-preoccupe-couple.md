@@ -13,11 +13,13 @@ contexte: "en couple"
 draft: false
 ---
 
-Aurélie est partie faire des courses. Isabelle a déjà vérifié deux fois qu’elle n’avait pas coupé les notifications. Au bout du couloir, Théo rit dans son casque. Elle écrit « Tu rentres vers quelle heure ? », puis efface le message. Ce qu’elle voudrait savoir, c’est si Aurélie lui en veut encore.
+Aurélie est partie faire des courses. Isabelle a déjà vérifié deux fois qu’elle n’avait pas coupé les notifications. Au bout du couloir, Théo rit dans son casque. Elle écrit « Tu rentres vers quelle heure ? », puis efface le message. Il leur manque du lait, et Isabelle pourrait lui demander si elle a pensé à en prendre. Elle sait très bien quelle réponse elle attendrait après ce message-là aussi.
 
-Quelques jours plus tôt, Aurélie lui avait confié vouloir un peu d’espace après une dispute anodine. Pourtant, cette « distance » résonnait pour Isabelle comme une menace, réveillant ses peurs intimes. Elle se surprenait à relire ses anciens textos, à scruter son téléphone pour un signe d’attention. Cette agitation constante l’épuisait, et elle se sentait encore plus isolée, enfermée dans une boucle qu’elle ne comprenait pas totalement.
+Quelques jours plus tôt, une dispute s’était achevée au moment où Aurélie lui avait demandé un peu de temps. Isabelle avait commencé à ranger la cuisine en faisant le moins de bruit possible. Chaque fois qu’Aurélie traversait la pièce, elle s’interrompait pour lui laisser l’occasion de reprendre la conversation. Aurélie avait fini par lui demander où se trouvait le torchon propre. Isabelle avait eu du mal à lui répondre simplement.
 
-Isabelle se souvient de moments où ses parents étaient présents et d’autres où ils étaient préoccupés. Elle se demande si cette histoire compte dans sa façon d’attendre une réponse. Cette question l’amène à observer ce qui se passe dans ses relations présentes.
+Théo s’annonce à la porte de la cuisine. Il veut savoir s’il peut manger le reste de tarte. Elle lui montre l’assiette sous le papier d’aluminium et il en prend une part. La question a trouvé sa réponse en quelques secondes. Isabelle se surprend à lui demander s’il veut autre chose, alors qu’il est déjà reparti avec son assiette.
+
+Elle relit la dernière phrase d’Aurélie, envoyée avant de sortir. « À tout à l’heure. » Elle cherche à y entendre le ton du matin. Dans la cour, une portière claque. Isabelle pose la main sur le téléphone qu’elle vient de retourner.
 
 ## Qu'est-ce que l'attachement anxieux-préoccupé (hyperactivation du système) ?
 

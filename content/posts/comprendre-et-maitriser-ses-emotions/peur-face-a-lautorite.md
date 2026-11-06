@@ -13,9 +13,11 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-La feuille se coince dans le tiroir à dossiers. Mei la pousse du plat de la main. Sur son formulaire, elle a laissé vide la ligne « Remarques pour l’enseignant ». Elle aurait pu y poser la question sur les contours, celle qu’elle a déjà travaillée après l’annotation de M. Dubois. Cette fois, la planche compte pour l’évaluation.
+La feuille se coince dans le tiroir où les étudiants déposent leurs travaux. Mei la pousse du plat de la main pour éviter de plier le coin. Sur le formulaire joint, elle n’a rien écrit à la ligne « Remarques pour l’enseignant ». Elle avait préparé une question sur le contour du personnage. Il lui aurait fallu l’écrire au-dessus de son nom, sur la feuille que M. Dubois tiendrait au moment de mettre la note.
 
-Elle attend que le tiroir soit fermé pour voir si ses doigts tremblent encore. Elle pourrait repartir et attendre la note. Elle repense aux réponses très courtes que Wei donnait autrefois quand elle lui montrait un dessin au restaurant. M. Dubois n’est pas son père. Il peut néanmoins lui demander des changements qu’elle n’aura pas le temps de discuter. Elle veut connaître le critère avant de refaire la planche.
+La dernière fois, une annotation lui avait fait ranger sa planche avant qu’Océane la voie. Elle avait fini par demander au professeur ce qu’il attendait du premier plan. Sa réponse l’avait aidée à reprendre le dessin. Cette fois, ils n’ont pas parlé du critère qui pèsera dans l’évaluation. Mei s’imagine devoir refaire une partie de la planche dans le peu de temps qui lui reste et sent ses doigts trembler sur la poignée.
+
+Elle se rappelle les réponses courtes de Wei quand elle apportait un dessin au restaurant. Avec son père, elle ne savait pas toujours s’il avait regardé. Ici, elle sait au moins que M. Dubois va reprendre le dossier et qu’il décidera de la note. Elle peut partir avant d’entendre quoi que ce soit. Sur le panneau des rendez-vous, le premier créneau libre est encore assez tôt pour lui permettre de refaire un essai. Elle lit l’heure une seconde fois sans lâcher la poignée.
 
 ## Qu'est-ce que la peur face à l'autorité ?
 

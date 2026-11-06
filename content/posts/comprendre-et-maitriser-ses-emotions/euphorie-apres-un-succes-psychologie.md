@@ -13,11 +13,11 @@ contexte: "après un succès"
 draft: false
 ---
 
-Dans la rue derrière le Melody, Hugo entend encore quelqu’un taper dans ses mains. Il n’a pas fermé son étui. Après deux heures sur scène, il a surtout envie de retourner à l’intérieur, de revoir le premier rang et de dire oui à chaque invitation.
+« Encore une ! » Au fond du Melody, quelqu’un crie alors que Hugo vient de débrancher sa guitare. Le câble forme une boucle autour de sa chaussure. Il se baisse pour l’enrouler et répète le début du dernier morceau en pinçant les cordes à vide. Après deux heures de concert, il pourrait repartir du premier accord. Une personne du premier rang le remercie sur le chemin de la sortie. Hugo lui demande quel passage elle a préféré et se penche vers elle pour l’entendre.
 
-Il sort son téléphone. La dernière conversation avec Chloé s’est arrêtée sur une répétition gâchée et ils se voient moins depuis. Il écrit : « Je t’aime. Tu me manques. On pourrait reprendre tous les deux. » Il envoie avant de rentrer dans le métro.
+Dans la rue, l’étui ne veut pas fermer. Il a laissé dépasser le bout de la sangle. Pendant qu’il la rentre, Hugo repense au moment où le public a repris deux mots de la chanson. Il sort son téléphone pour envoyer quelque chose à Chloé. La dernière fois qu’ils se sont parlé, ils essayaient encore de savoir comment reprendre après la répétition gâchée. Il commence par « Tu aurais dû être là ». À l’écran, ça lui paraît trop peu pour lui dire dans quel état il est. Il efface et écrit : « Je t’aime. Tu me manques. On pourrait reprendre tous les deux. » Le message part avant qu’il ait atteint l’entrée du métro.
 
-Sur le quai, le silence de l’écran lui paraît bref. Il est encore assez content du concert pour s’imaginer qu’elle le sera aussi. Il ouvre la conversation une deuxième fois et commence à taper. Le métro entre en station.
+Sur le quai, les panneaux indiquent une minute d’attente. Hugo s’imagine déjà lui raconter le concert, puis lui rejouer le dernier morceau chez lui. Il ouvre de nouveau la conversation. Il vient de taper « Je suis encore dehors » quand les phares apparaissent au bout du tunnel.
 
 ## Définition de l'euphorie après un succès
 

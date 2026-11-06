@@ -90,13 +90,15 @@ function limitQuestions(content,maximum=2){
 }
 const welcomeMessage=capabilities=>{
  const profile=capabilities.profile||{},name=profile.first_name;
- return {id:'ambre-welcome-v3',role:'assistant',content:`${name?'Bonjour '+name+'.':'Bonjour.'} Je suis Ambre. Je vous aide à mieux comprendre vos réactions, vos besoins et ce qui se joue dans vos relations. On peut partir d’une situation récente ou d’une question qui vous revient.
+ return {id:'ambre-welcome-v4',role:'assistant',content:`${name?'Bonjour '+name+'.':'Bonjour.'} Je suis Ambre. Je vous aide à comprendre vos réactions, celles de vos proches et ce qui se joue dans vos échanges.
 
-Votre portrait me donne des repères sur ce que vous vivez, ce qui compte pour vous et les façons de réagir que vous avez remarquées. Vos proches m’aident à situer ces réactions dans une relation précise. Votre ligne de vie apporte du recul sur les événements importants et sur la manière dont ils éclairent votre situation actuelle. Une nouvelle précision peut changer la façon dont on comprend plusieurs de ces éléments.
+Ce que vous écrivez dans Mon portrait m’aide à comprendre vos réactions et ce qui compte pour vous. Vos descriptions dans Mes proches m’aident à situer vos échanges avec chacun. Les événements que vous notez dans Ma ligne de vie me donnent des repères sur votre parcours et sur ce qui a changé avec le temps.
 
-${profile.has_information?'Je peux partir des informations déjà renseignées. ':''}Vous pouvez compléter À propos de moi, Mes proches et Ma ligne de vie à votre rythme, ou m’en parler ici. À chaque échange, je rapproche vos nouvelles précisions de ce que vous avez déjà partagé et je vous propose les ajouts ou corrections utiles. Vous pouvez les relire, les modifier et les valider ici.
+${profile.has_information?'Je peux partir des informations déjà renseignées. ':''}Vous pouvez remplir ces pages vous-même ou m’en parler ici. Je prépare les ajouts ou les corrections. Vous les relisez, vous pouvez les modifier, puis je les enregistre avec votre accord. Une précision peut aussi éclairer un événement ou une relation déjà évoquée.
 
-Quand un article du catalogue éclaire une situation ou une relation dont nous parlons, je peux vous le proposer et vous expliquer pourquoi. Si vous le lisez, on peut revenir ensemble sur le passage qui vous parle ou sur ce qui se passe autrement pour vous. Qu’aimeriez-vous comprendre en premier ?`};
+Quand un article du catalogue illustre un mécanisme qui vous parle, je peux vous le proposer. On peut ensuite comparer la scène à ce que vous vivez et voir comment elle éclaire vos réactions ou celles de vos proches.
+
+Quel phénomène psychologique aimeriez-vous mieux comprendre chez vous ou dans une relation ? Un exemple du quotidien suffit pour commencer.`};
 };
 function unavailableActionMessage(kind,hasReadings){
  return 'Cette proposition ne peut pas être enregistrée actuellement : '+(kind==='memory_append'?'la mémoire de précisions est pleine.':kind==='person_create'?'la limite de cinquante proches est atteinte.':kind==='life_event_create'?'la limite de cinq cents moments de vie est atteinte.':'aucun élément existant ne correspond à cette modification.')+' Aucun changement n’a été enregistré.'+(kind==='memory_append'?' Vous pouvez mettre à jour les informations concernées dans Mon portrait, À propos de moi.':hasReadings?' Vous pouvez explorer une lecture existante.':' Vous pouvez préciser votre demande ici.');
@@ -129,7 +131,7 @@ function excerpt(value,max,tail=0,start=0){
  const windows=tail&&tailStart<=end?[{start:Math.max(0,text.length-max),end:text.length}]:[{start,end},...(tail?[{start:tailStart,end:text.length}]:[])];
  return {text:(windows[0].start?'[… début omis …]\n':'')+windows.map(w=>text.slice(w.start,w.end)).join('\n[… passage omis …]\n')+(windows.at(-1).end<text.length?'\n[… suite omise …]':''),excerpt:true,windows};
 }
-export function createChatBackend({error,json,text,body,now,random,personal}) {
+export function createChatBackend({error,json,text,body,now,random,personal,catalogue=new Map()}) {
  const fail=(status,message,code)=>error(status,message,code);
  const stmt=(env,sql,...args)=>env.DB.prepare(sql).bind(...args);
  const first=(env,sql,...args)=>stmt(env,sql,...args).first();
@@ -333,10 +335,16 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
     const lookup=personal.readingLookup(turn.content,{limit:6}),eligible=new Set(candidates.map(c=>c.id));catalogueLookup=lookup;
     promptData.catalogue_lookup={...lookup,matches:lookup.matches.map(({url,...item})=>({...item,eligible_for_suggestion:eligible.has(item.id)}))};
    }catch{promptData.catalogue_lookup={status:'unavailable',absence_proven:false,matches:[]};}
-   promptData.reading_candidates=candidates.map(({id,title,character,reason})=>({id,title,character,reason}));
+   promptData.reading_candidates=candidates.map(({id,title,character,reason},index)=>{
+    const article=catalogue.get(id),quote=article?.summary_evidence?.[0]?.quote;
+    return {id,title,character,reason,concepts:article?.reading_topics,
+      story_excerpt:index<2&&quote?excerpt(quote,220).text:undefined};
+   });
    const totalTurns=Number(history[0]?.total||0);
    promptData.conversation_coverage={included_turns:includedTurns,total_turns:totalTurns,excerpted_turns:excerptedTurns,omitted_turns:totalTurns-includedTurns,truncated:includedTurns<totalTurns||excerptedTurns>0};
    while(JSON.stringify(promptData).length>16000){
+    const reading=promptData.reading_candidates.findLast(candidate=>candidate.story_excerpt);
+    if(reading){delete reading.story_excerpt;continue;}
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
     if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else if(promptData.catalogue_lookup?.matches.length>1){promptData.catalogue_lookup.matches.pop();promptData.catalogue_lookup.matches_truncated=true;}else break;
    }

@@ -562,30 +562,6 @@ hr {
 #main-content { scroll-margin-top: 80px; }
 main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 2.5rem); }
 .home-page main { padding-top: clamp(1.25rem, 3vw, 2.65rem); }
-.site-header { position: sticky; top: 0; z-index: 100; background: var(--color-card-bg); border-bottom: 1px solid var(--color-border); }
-.header-inner { max-width: calc(var(--max-width-wide) + 5rem); min-height: 68px; margin: 0 auto; padding-inline: clamp(1rem, 4vw, 2.5rem); display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
-.site-logo { display: inline-block; color: var(--color-text); font: 700 clamp(1.15rem, 2.5vw, 1.35rem)/1.25 var(--font-serif); letter-spacing: -.025em; white-space: nowrap; text-decoration: none; }
-.site-logo:hover { text-decoration: none; }
-.site-menu-toggle { display: none; align-items: center; justify-content: center; width: 44px; height: 44px; flex: none; border: 1px solid var(--color-border); border-radius: 9px; color: var(--color-text); background: var(--color-card-bg); cursor: pointer; }
-.nav-links { display: flex; align-items: center; gap: 4px; list-style: none; padding: 0; margin: 0; }
-.nav-links li { margin: 0; }
-.nav-links a { display: flex; align-items: center; min-height: 44px; padding: .45rem .65rem; border-radius: 7px; font: 550 .875rem/1.35 var(--font-sans); color: var(--color-text-light); text-decoration: none; white-space: nowrap; }
-.nav-links a:hover, .nav-links a[aria-current=page] { background: var(--color-accent-light); color: var(--color-accent); }
-.nav-links a[href="/mon-accompagnement/"] { color: var(--color-accent); font-weight: 700; }
-@media (min-width: 781px) and (max-width: 940px) {
-  .header-inner { gap: .625rem; padding-inline: 1rem; }
-  .site-logo { font-size: 1.15rem; }
-  .nav-links { gap: 0; }
-  .nav-links a { padding-inline: .32rem; font-size: .82rem; }
-}
-@media (max-width: 780px) {
-  .header-inner { min-height: 64px; gap: .75rem; }
-  .site-menu-toggle { display: inline-flex; }
-  .site-navigation { position: absolute; inset: 100% 0 auto; max-height: calc(100dvh - 64px); overflow: auto; background: var(--color-card-bg); border-bottom: 1px solid var(--color-border); box-shadow: 0 12px 24px rgba(23, 45, 60, .08); padding: .65rem clamp(1rem, 4vw, 2.5rem) 1rem; }
-  .site-navigation:not(.is-open) { display: none; }
-  .nav-links { flex-direction: column; align-items: stretch; }
-  .nav-links a { font-size: .95rem; padding-inline: .85rem; }
-}
 
 /* The catalogue opens with a short introduction and one search surface. */
 .hero { max-width: var(--max-width-wide); margin: 0 auto clamp(1.5rem, 3vw, 2.5rem); padding: clamp(1.35rem, 3vw, 2.25rem) clamp(1.25rem, 4.5vw, 4rem); display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(250px, 1fr); align-items: center; gap: clamp(1.75rem, 5vw, 4rem); text-align: left; border-radius: 18px; background: #E4EDF0; border: 1px solid var(--color-border); }
@@ -644,6 +620,12 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .perso-profile { display: block; align-items: start; gap: clamp(.8rem, 3vw, 1.5rem); max-width: none; margin: 0 0 2rem; padding: clamp(1.15rem, 4vw, 2.25rem); background: #E4EDF0; border: 1px solid var(--color-border); border-radius: 14px; text-align: left; }
 .perso-profile-name { margin: 0 0 .4rem; font-size: clamp(1.75rem, 4vw, 3.05rem); line-height: 1.1; letter-spacing: -.045em; }
 .perso-profile-bio { max-width: 64ch; margin: 0; color: var(--color-text-light); font-size: 1rem; line-height: 1.6; }
+.perso-profile-themes { margin-top: 1.05rem; }
+.perso-profile-themes p { margin: 0 0 .45rem; color: var(--color-text); font: 650 .84rem/1.4 var(--font-sans); }
+.perso-profile-themes ul, .parcours-topics { display: flex; flex-wrap: wrap; align-items: flex-start; gap: .35rem .45rem; padding: 0; list-style: none; }
+.perso-profile-themes ul { margin: 0; }
+.perso-profile-themes li, .parcours-topics li { max-width: 100%; margin: 0; padding: .24rem .55rem; border-radius: 5px; font: 550 .77rem/1.4 var(--font-sans); overflow-wrap: anywhere; }
+.perso-profile-themes li { border: 1px solid #C2D3DB; background: #F5F9FB; color: var(--color-text); }
 .perso-parcours-page { max-width: none; }
 .parcours-section-title { display: block; margin: 0 0 .85rem; padding: 0; border: 0; font-size: clamp(1.3rem, 3vw, 1.75rem); }
 .perso-parcours-list { display: block; overflow: hidden; border: 1px solid var(--color-border); border-radius: 12px; background: var(--color-card-bg); }
@@ -654,6 +636,8 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .parcours-title a { color: var(--color-text); }
 .parcours-title a:hover { color: var(--color-accent); }
 .parcours-resume { grid-column: 1; margin: 0; max-width: 70ch; color: var(--color-text-light); font-size: .88rem; line-height: 1.6; }
+.parcours-topics { grid-column: 1; margin: .4rem 0 0; }
+.parcours-topics li { background: #EDF4F1; color: #2C5A50; }
 .parcours-link { grid-column: 2; grid-row: 1 / span 2; display: inline-flex; align-items: center; gap: .35rem; min-height: 44px; padding: 0 .2rem; font-size: .86rem; font-weight: 650; }
 .parcours-link::after { content: "→" / ""; }
 .personnages-page .journal-invitation { max-width: none; margin: 1.6rem 0 0; }
@@ -702,6 +686,7 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .site-footer { margin-top: clamp(1.65rem, 5vw, 3.5rem); padding: 1.8rem 0 0; border-top: 1px solid var(--color-border); background: var(--color-footer-bg); }
 .footer-inner, .footer-bottom { max-width: calc(var(--max-width-wide) + 5rem); margin-inline: auto; padding-inline: clamp(1rem, 4vw, 2.5rem); }
 .footer-inner { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 1rem 1.6rem; }
+.footer-brand .site-logo { display: inline-block; color: var(--color-text); font: 700 clamp(1.15rem, 2.5vw, 1.35rem)/1.25 var(--font-serif); letter-spacing: -.025em; white-space: nowrap; text-decoration: none; }
 .footer-brand p { max-width: 34ch; margin: .6rem 0 0; color: var(--color-text-light); font-size: .88rem; line-height: 1.55; }
 .footer-section { display: block; text-align: left; }
 .footer-section h2 { margin: .15rem 0 .45rem; font: 700 .89rem/1.4 var(--font-sans); }

@@ -13,9 +13,13 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-La tasse de Monique a refroidi pendant qu’elle cherchait un numéro dans le carnet de Jean-Claude. Elle ne sait plus très bien quel numéro. Elle s’arrête à une page où il a noté le nom d’un garagiste, puis à une autre où l’encre a traversé le papier. Jean-Claude est mort depuis environ trois ans. Dans cette maison, elle ouvre encore un tiroir pour lui demander quelque chose avant de se rappeler qu’elle ne peut pas.
+La tasse de Monique a refroidi pendant qu’elle cherchait un numéro dans le carnet de Jean-Claude. Elle est partie de la lettre G, où il a mis le garagiste, et s’est retrouvée à la page des anniversaires. À côté de celui de François, il y a deux années barrées. Elle ne saurait plus dire laquelle des deux ils s’étaient disputés en faisant les comptes pour le cadeau.
 
-Le matin, à la bibliothèque où elle est bénévole, une lectrice avait voulu savoir si un livre serait disponible vendredi. Monique a donné la date tout de suite. Une fois rentrée, elle a passé une heure devant le carnet sans décider si elle voulait le ranger. Elle ouvre la fenêtre. Dehors, quelqu’un referme une portière.
+Elle se lève pour remettre de l’eau à chauffer. « Tu l’avais noté où ? » Le début de la phrase sort avant qu’elle y pense. Jean-Claude est mort depuis environ trois ans. Monique n’a toujours pas remplacé le carnet. Elle y trouve souvent ce qu’elle cherche, à condition de se rappeler le mot sous lequel il aurait classé la chose.
+
+Ce matin à la bibliothèque, une lectrice lui a demandé si son livre arriverait vendredi. Monique a sorti le registre des réservations et lui a proposé de l’appeler dès le retour du livre. Il lui reste le numéro de la lectrice sur un bout de papier dans sa poche. Chez elle, elle ouvre la conversation avec Isabelle, écrit « Je voulais te demander », puis reste devant le curseur. Sa fille lui avait déjà dit qu’elle pouvait appeler même quand elle n’avait rien de précis à raconter.
+
+Monique pose le téléphone près du courrier. Elle s’était promis de l’ouvrir après son thé. Maintenant, elle réchauffe la tasse pour la deuxième fois et ouvre la fenêtre. Dehors, quelqu’un referme une portière.
 
 ## Qu'est-ce que l'impuissance ?
 

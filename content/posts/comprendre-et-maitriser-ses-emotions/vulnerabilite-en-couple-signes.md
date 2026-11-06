@@ -13,11 +13,13 @@ contexte: "en couple"
 draft: false
 ---
 
-Au restaurant, l’homme en face de Priya lui demande ce qui lui plaît en dehors du travail. Il vient de lui raconter qu’il n’a pas vu ses enfants depuis plusieurs mois. Elle aurait pu dire qu’elle aime cuisiner le dimanche. À la place, elle parle d’un dossier qu’elle doit finir.
+Au restaurant, l’homme en face de Priya lui demande ce qui lui plaît en dehors du travail. Il vient de lui raconter qu’il n’a pas vu ses enfants depuis plusieurs mois. Elle a suivi son récit en tournant de temps en temps son verre pour que le pied reste au milieu du rond mouillé. Elle pense à la casserole qu’elle a laissée tremper dimanche après avoir cuisiné. Elle dit qu’elle a un dossier à finir.
 
-Il prend sa fourchette et lui laisse la place de continuer. Elle raconte un peu trop longtemps les difficultés de la semaine. Puis elle lui demande si ses enfants habitent loin. Il répond, mais n’a plus la même envie de détailler.
+Il reprend sa fourchette et lui laisse la place de continuer. Priya lui parle de ses rendez-vous, du retard de la veille et d’un formulaire qu’elle a dû imprimer à nouveau. Il lui demande si c’est souvent comme ça. Elle peut répondre sans réfléchir. Elle répond même un peu trop longtemps, jusqu’à ce qu’il doive ramener son assiette vers lui pour que le serveur ne l’emporte pas.
 
-Dans le bus du retour, Priya repense au moment où elle a parlé de son dossier. Elle n’a aucune envie de raconter toute sa vie à un homme qu’elle connaît peu. Elle se demande seulement si elle aurait pu lui dire qu’elle n’avait pas trouvé de réponse sur le moment.
+« Ils habitent loin, tes enfants ? » Cette fois, il lui donne le nom d’une ville et se remet à manger. Priya a l’impression d’avoir demandé trop tard. Elle n’ose pas revenir à la question qu’il lui avait posée au début.
+
+Dans le bus, elle commence à lui écrire qu’elle est bien rentrée alors qu’elle est encore à trois arrêts de chez elle. Elle remet le téléphone dans sa poche. Elle repense à la casserole, au fond qu’elle a laissé attacher en préparant le dahl d’Anjali. Elle aurait pu lui raconter ça. Le dossier a occupé toute la place, comme s’il avait fallu répondre sans lui laisser le temps de poser une autre question.
 
 ## Définition de la vulnérabilité et de ses mécanismes
 Ici, se montrer vulnérable consiste à dire quelque chose qui nous importe et dont on ne maîtrise pas la réception. Des [travaux sur la recherche de soutien dans le couple](https://pubmed.ncbi.nlm.nih.gov/10870908/) ont examiné ses liens avec l’attachement adulte. Un silence ou un refus de se confier ne permet pas de déduire le style d’attachement de quelqu’un.

@@ -17,6 +17,8 @@ import unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 TARGET = ROOT / 'data/article_intros.json'
 HEADING = re.compile(r'^(#{2,6})[ \t]+(.+?)[ \t]*#*[ \t]*$', re.MULTILINE)
+WORD = re.compile(r"[^\W_]+(?:[’'-][^\W_]+)*")
+MIN_OPENING_WORDS = 180
 DEFINITION_MARKERS = ('definition', "qu'est-ce", 'comprendre', 'concept', 'mecanisme', 'au-dela', "coup d'")
 CHARACTER_NAMES = [p['prenom'] for p in json.loads((ROOT / 'scripts/personnages.json').read_text())['personnages']]
 PERSONALIZED_SENTENCE = re.compile(r'\b(?:Pour|Chez|Dans le cas de|Comme)\s+(?:' + '|'.join(re.escape(name) for name in CHARACTER_NAMES) + r')\b')
@@ -110,6 +112,7 @@ def excerpt(paragraph: str) -> str:
 
 def build(write: bool = True) -> tuple[dict, dict]:
     output, report = {}, {'articles': 0, 'h3_definitions': [], 'short_complete_definitions': [], 'long_complete_definitions': []}
+    article_topics = json.loads((ROOT / 'data/parcours_topics.json').read_text())
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -122,6 +125,17 @@ def build(write: bool = True) -> tuple[dict, dict]:
             continue
         body = split[2]
         identifier = path.relative_to(ROOT / 'content').with_suffix('').as_posix()
+        first_heading = HEADING.search(body)
+        if not first_heading:
+            raise ValueError(f'No section after the opening scene: {identifier}')
+        opening_words = len(WORD.findall(plain_text(body[:first_heading.start()])))
+        if opening_words < MIN_OPENING_WORDS:
+            raise ValueError(f'Opening scene too short ({opening_words} words, minimum {MIN_OPENING_WORDS}): {identifier}')
+        topics = article_topics.get(identifier)
+        if not isinstance(topics, list) or not 2 <= len(topics) <= 3 or any(
+            not isinstance(topic, str) or not topic.strip() or topic.strip() != topic for topic in topics
+        ) or len({normalized(topic) for topic in topics}) != len(topics):
+            raise ValueError(f'Expected two or three distinct reading concepts: {identifier}')
         candidates = sections(body)
         definition = next((s for s in candidates if any(marker in normalized(s['heading']) for marker in DEFINITION_MARKERS)), None)
         if not definition or not definition['paragraphs']:
@@ -146,6 +160,8 @@ def build(write: bool = True) -> tuple[dict, dict]:
         if len(sentences(entry['text'])) > 3:
             raise ValueError(f'Excerpt exceeds three sentences: {identifier}')
         output[identifier] = entry
+    if stale_topics := article_topics.keys() - output.keys():
+        raise ValueError('Reading concepts without a published article: ' + ', '.join(sorted(stale_topics)))
     report['articles'] = len(output)
     if write:
         TARGET.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n')

@@ -13,9 +13,13 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Monique demande à l’accueil du notaire si le rendez-vous engage une démarche. La personne lui répond que c’est une consultation : elle pourra repartir avec les renseignements sur une éventuelle vente. Monique relit l’adresse de sa maison sur la chemise. Elle a apporté des questions sur les délais. Elle n’a pas décidé de vendre.
+Monique demande à l’accueil du notaire si le rendez-vous engage une démarche. La personne lui répond que c’est une consultation : elle pourra repartir avec des renseignements sur une éventuelle vente. Monique relit l’adresse de sa maison sur la chemise. Dans son agenda, elle avait écrit « vente », faute de place. Elle a apporté des questions sur les délais et le prix d’une estimation. Elle laisse son stylo dans son sac.
 
-En attendant, elle repense à la dernière nuit où Jean-Claude a dormi dans cette maison et à un soir récent où Jacques a ri en préparant le bœuf bourguignon avec elle. Un souvenir lui donne envie de partir et l’autre lui rappelle ce qu’elle quitterait. Elle essaie de se rappeler aussi un matin banal dans chaque lieu : les courses, le temps pour se préparer, la place pour lire quand quelqu’un d’autre fait du bruit.
+Dans la salle d’attente, elle revoit la dernière nuit où Jean-Claude a dormi dans cette maison. Elle s’était levée en essayant de ne pas faire grincer la porte. Le bruit du bois lui revient plus vite que les paroles échangées dans la chambre. Elle se souvient aussi de la première nuit où elle est rentrée seule après l’enterrement. Quand elle pense à partir, elle saute facilement d’une nuit à l’autre, sans retrouver les jours entiers où elle a simplement vécu là.
+
+Jacques a ri récemment en préparant le bœuf bourguignon avec elle. Il lui a rendu la cuillère après avoir goûté la sauce en cachette. Monique aimerait partager ce genre de soirée plus souvent. Elle essaie d’imaginer aussi un matin chez lui où ils auraient chacun quelque chose à faire. Elle ne sait pas encore où elle irait lire s’il allumait la radio.
+
+On appelle son nom. Elle reprend la chemise et vérifie qu’elle a gardé la page des questions au-dessus des autres.
 
 ## Définition du concept de peak-end rule
 

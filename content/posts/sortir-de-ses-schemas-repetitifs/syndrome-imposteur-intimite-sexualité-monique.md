@@ -13,9 +13,11 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Monique recentre le collier de perles et le remet de travers en enfilant son manteau. Elle a rendez-vous avec Jacques au salon de thé. À l’époque où ils enseignaient ensemble, elle n’aurait pas réfléchi à la façon de s’asseoir face à lui. Depuis qu’ils se voient autrement, elle se surprend à préparer jusqu’à la première phrase.
+Monique recentre le collier de perles et le remet de travers en enfilant son manteau. Elle a rendez-vous avec Jacques au salon de thé. Quand ils enseignaient ensemble, ils s’y retrouvaient parfois avec des copies à corriger. Ce matin, elle a mis son agenda dans son sac et ressorti le livre qu’elle comptait lui prêter. Elle ne sait plus si elle a envie de lui parler du livre ou de s’en servir pour passer l’heure sans être embarrassée.
 
-Elle avait acheté une glace avec Lola il y a quelques jours. Elle avait failli répondre à la place de sa petite-fille pour éviter de regarder les prix. Ce matin, elle craint de répondre à la place de Jacques, de décider qu’il la trouve seulement sympathique. Elle ne sait ni ce qu’il attend ni ce qu’elle voudra lui dire.
+En arrivant, elle trouve Jacques à une table près du mur. Il s’est levé pour lui faire de la place et a retiré son manteau du dossier de la chaise. Monique lui demande s’il a commandé. Elle voudrait aussi lui dire qu’elle est contente de le voir. Elle attend que la serveuse s’éloigne, puis découvre qu’elle a commencé à lui raconter les travaux de la chaudière.
+
+L’autre jour, au port, elle avait failli décider que Lola ne voulait pas de glace avant même de lui demander son parfum. Elle s’entend faire quelque chose de semblable avec Jacques. Il cherche ses mots, et elle suppose déjà qu’il ne la voit que comme une ancienne collègue. Pourtant, quand sa main frôle celle de Jacques sur la table, elle ne la retire pas. Elle aimerait qu’il reste un peu plus près, sans avoir à décider ce qui suivra.
 
 ## Définition du syndrome de l'imposteur
 

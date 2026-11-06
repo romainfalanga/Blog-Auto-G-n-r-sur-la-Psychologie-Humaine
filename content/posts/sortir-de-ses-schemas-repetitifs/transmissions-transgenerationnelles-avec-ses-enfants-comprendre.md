@@ -13,9 +13,13 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Sur le port, Lola s’arrête devant le glacier. Monique s’arrête aussi, mais dit d’abord qu’elles n’ont pas faim. Lola lit quand même les parfums. Le café coûte le même prix que les autres ; Monique vérifie deux fois, comme elle a vérifié la facture de la chaudière.
+Sur le port, Lola s’arrête devant le glacier. Monique s’arrête aussi, mais dit d’abord qu’elles n’ont pas faim. Lola continue de lire les parfums à travers la vitre. « Il y en a au café, comme tu aimes. » Monique vérifie le prix. Le café coûte autant que les autres. Elle le savait à la première lecture et remonte quand même jusqu’au haut du panneau, au cas où elle aurait regardé le tarif des petites portions.
 
-Sa mère portait ce même collier de perles, et rappelait volontiers que ce qu’on achète pour le plaisir pouvait toujours attendre. Monique ne sait plus qui a commencé à le dire dans la famille. Elle a repris la phrase avec ses enfants. Au moment où elle va la répéter à Lola, elle regarde les prix, compte ce qu’elle a dans son porte-monnaie et lui demande ce qu’elle prendrait.
+Lola lui demande ce qu’elles attendent. Monique a la main sur le collier de perles de sa mère. Petite, elle avait entendu dire qu’on pouvait toujours remettre à plus tard ce qu’on achetait pour le plaisir. À Isabelle aussi, elle a répondu plus d’une fois « il y en a à la maison » alors qu’elle n’avait pas regardé ce qui restait au congélateur. Elle aimait pourtant marcher avec elle après l’achat, en tenant les serviettes pendant qu’Isabelle essayait de finir son cornet avant qu’il coule.
+
+Une cliente ressort du glacier et Lola se pousse pour la laisser passer. « On peut juste regarder », dit-elle. Elle s’est déjà tournée vers le quai. Monique ouvre son porte-monnaie. Elle compte les pièces pour deux glaces et garde à part celles du parcmètre. La somme tient dans sa main. Elle pourrait encore dire qu’elles ont autre chose à faire, et Lola la suivrait.
+
+« Si on en prend une, toi, tu choisis quoi ? » Lola revient devant la vitre pour relire les deux derniers parfums.
 
 ## Définition des transmissions transgénérationnelles
 
