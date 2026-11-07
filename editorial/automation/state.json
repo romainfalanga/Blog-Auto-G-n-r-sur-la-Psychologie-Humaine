@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 24,
+  "revision": 37,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -5805,8 +5805,8 @@
       "snapshot_sha256": "cd6d6fadfa425ceb47768d275bd391a032390540743f08adf12acb0d6d0a96ab",
       "status": "active",
       "token_sha256": "977909c810e7771fdcfa1b55717d6bc91cd2c0b515305145ad0e536a91589d21",
-      "heartbeat_at": "2026-11-07T14:49:08Z",
-      "expires_at": "2026-11-07T15:19:08Z",
+      "heartbeat_at": "2026-11-07T14:53:03Z",
+      "expires_at": "2026-11-07T15:23:03Z",
       "checkpoints": [
         {
           "at": "2026-11-07T14:49:08Z",
@@ -5816,6 +5816,48 @@
           "observed": {
             "manuscript_sha256": "24788e031b690352cd3a346af28f736445add9b3d3cce155f41787723c5ba2ef",
             "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
+            "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:50:31Z",
+          "outputs": {
+            "editorial/clinical/louise.json": "220b3f124483e5dedb952d3edc8e21d29a13397f46fea687a1250eac39109471"
+          },
+          "observed": {
+            "manuscript_sha256": "220b3f124483e5dedb952d3edc8e21d29a13397f46fea687a1250eac39109471",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
+            "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:51:45Z",
+          "outputs": {
+            "editorial/clinical/louise.json": "457923952ed4e1d2d59abc06d2dd8aa5474858c7aeb680616bba6084f81660c6"
+          },
+          "observed": {
+            "manuscript_sha256": "457923952ed4e1d2d59abc06d2dd8aa5474858c7aeb680616bba6084f81660c6",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
+            "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:53:03Z",
+          "outputs": {
+            "editorial/clinical/louise.json": "ee5fc8f4bc3298a770d204599d1e420e0394ce5d1e767c5e02d88a0ddb4f7b21"
+          },
+          "observed": {
+            "manuscript_sha256": "ee5fc8f4bc3298a770d204599d1e420e0394ce5d1e767c5e02d88a0ddb4f7b21",
+            "episodes_present": 4,
             "manuscript_readable": true,
             "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
             "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
@@ -6370,8 +6412,52 @@
       "snapshot_sha256": "d8226e10144a7b1940e90988586a1c12557b5c35ae3c23892be364130c808065",
       "status": "active",
       "token_sha256": "d44646aa8ebdcdc9b4fe3af17a9a8bcc5e1620ae375af50c7a85d1e879d9160c",
-      "heartbeat_at": "2026-11-07T14:47:45Z",
-      "expires_at": "2026-11-07T15:17:45Z"
+      "heartbeat_at": "2026-11-07T14:51:47Z",
+      "expires_at": "2026-11-07T15:21:47Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-07T14:49:17Z",
+          "outputs": {
+            "editorial/clinical/constance.json": "f6930358246ff28a3993fd34cc01ff24d9d1615c93fe400dfd6dd7cf460cd18b"
+          },
+          "observed": {
+            "manuscript_sha256": "f6930358246ff28a3993fd34cc01ff24d9d1615c93fe400dfd6dd7cf460cd18b",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+            "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:50:33Z",
+          "outputs": {
+            "editorial/clinical/constance.json": "31e70502bfb1094ec3e2426091c0040ef5f316c1c3c99278b4c38edfdd448039"
+          },
+          "observed": {
+            "manuscript_sha256": "31e70502bfb1094ec3e2426091c0040ef5f316c1c3c99278b4c38edfdd448039",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+            "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:51:47Z",
+          "outputs": {
+            "editorial/clinical/constance.json": "d509dbd79ea9934719abc60ad5b2caec4e3f71eec336f124f45f7c4608f2eafd"
+          },
+          "observed": {
+            "manuscript_sha256": "d509dbd79ea9934719abc60ad5b2caec4e3f71eec336f124f45f7c4608f2eafd",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+            "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "1e92048277c64a9c8822d20f2ffb7721": {
       "id": "1e92048277c64a9c8822d20f2ffb7721",
@@ -6952,8 +7038,66 @@
       "snapshot_sha256": "e9f4d5aeae6056daa98ebdae212050e285ff095329577e8a3ba62c5954e47f91",
       "status": "active",
       "token_sha256": "c69b6729bd792638dee0cc518e167e3ea73affbda5f79350aa9c1495b64629a5",
-      "heartbeat_at": "2026-11-07T14:47:45Z",
-      "expires_at": "2026-11-07T15:17:45Z"
+      "heartbeat_at": "2026-11-07T14:52:54Z",
+      "expires_at": "2026-11-07T15:22:54Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-07T14:49:23Z",
+          "outputs": {
+            "editorial/clinical/mila.json": "a910e0a2f672a28129b2f0d509ede4ebac8a3fe7c972e5286a6058cfe923873f"
+          },
+          "observed": {
+            "manuscript_sha256": "a910e0a2f672a28129b2f0d509ede4ebac8a3fe7c972e5286a6058cfe923873f",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+            "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:50:30Z",
+          "outputs": {
+            "editorial/clinical/mila.json": "9adaa1bf4d11de65d2f9d888d1599b1e9a3d0fbc9b7cf64a62f3769db1f145ec"
+          },
+          "observed": {
+            "manuscript_sha256": "9adaa1bf4d11de65d2f9d888d1599b1e9a3d0fbc9b7cf64a62f3769db1f145ec",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+            "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:51:40Z",
+          "outputs": {
+            "editorial/clinical/mila.json": "c5d2f9ee667b8adbb3f2f47e3e300af7461da34ed725514073a39ce88e7a24b0"
+          },
+          "observed": {
+            "manuscript_sha256": "c5d2f9ee667b8adbb3f2f47e3e300af7461da34ed725514073a39ce88e7a24b0",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+            "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:52:54Z",
+          "outputs": {
+            "editorial/clinical/mila.json": "d76ab18e6b45e5cd3dd620f76eb3b4514db7d7212fc9892940924184f51d0b61"
+          },
+          "observed": {
+            "manuscript_sha256": "d76ab18e6b45e5cd3dd620f76eb3b4514db7d7212fc9892940924184f51d0b61",
+            "episodes_present": 4,
+            "manuscript_readable": true,
+            "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+            "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+            "review_sha256": null
+          }
+        }
+      ]
     },
     "a77b8fb4393f454da33feb6a0846f5aa": {
       "id": "a77b8fb4393f454da33feb6a0846f5aa",
@@ -7534,9 +7678,53 @@
       "snapshot_sha256": "a24dfcc8ac68a8903ab88d640c0f00721088223515740400ef24624106f0a642",
       "status": "active",
       "token_sha256": "c9f51a69288828fddc366dc13117f0640062d1c5d31c6ac366b6995e28b49f59",
-      "heartbeat_at": "2026-11-07T14:47:45Z",
-      "expires_at": "2026-11-07T15:17:45Z"
+      "heartbeat_at": "2026-11-07T14:52:13Z",
+      "expires_at": "2026-11-07T15:22:13Z",
+      "checkpoints": [
+        {
+          "at": "2026-11-07T14:50:17Z",
+          "outputs": {
+            "editorial/clinical/fanny.json": "339288e6f161394510ddf22dede75a0b043668d1211b48d74b319f32e7a255b6"
+          },
+          "observed": {
+            "manuscript_sha256": "339288e6f161394510ddf22dede75a0b043668d1211b48d74b319f32e7a255b6",
+            "episodes_present": 1,
+            "manuscript_readable": true,
+            "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
+            "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:51:16Z",
+          "outputs": {
+            "editorial/clinical/fanny.json": "a01347ad4413e76f17536999633f94755142875f9f83be3033dc2c193b14c031"
+          },
+          "observed": {
+            "manuscript_sha256": "a01347ad4413e76f17536999633f94755142875f9f83be3033dc2c193b14c031",
+            "episodes_present": 2,
+            "manuscript_readable": true,
+            "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
+            "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
+            "review_sha256": null
+          }
+        },
+        {
+          "at": "2026-11-07T14:52:13Z",
+          "outputs": {
+            "editorial/clinical/fanny.json": "db0a204cb4129d4af3cb450084a81222869431ac41e1253b32fedc32f8129d8c"
+          },
+          "observed": {
+            "manuscript_sha256": "db0a204cb4129d4af3cb450084a81222869431ac41e1253b32fedc32f8129d8c",
+            "episodes_present": 3,
+            "manuscript_readable": true,
+            "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
+            "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
+            "review_sha256": null
+          }
+        }
+      ]
     }
   },
-  "updated_at": "2026-11-07T14:49:08Z"
+  "updated_at": "2026-11-07T14:53:03Z"
 }

@@ -1,0 +1,319 @@
+{
+  "character_id": "fanny",
+  "bio": "À 33 ans, Fanny anime un atelier d’écriture dans une maison de quartier et défend les phrases longues face à Nora, sa coanimatrice amatrice de textes brefs. Son trouble de perception olfactive, déjà diagnostiqué, l’occupe parfois au point de perdre le fil d’une lecture et de chercher une assurance dans les gestes d’autrui. Avec son médecin et son thérapeute, elle explore ces difficultés. Elle veut surtout imprimer le recueil Les seuils avec les participantes et choisir la part d’accueil qu’elle assurera le soir de sa présentation.",
+  "profile_topics": [
+    "Trouble de perception olfactive",
+    "Préoccupation et attention",
+    "Interprétation des gestes",
+    "Vérification et réassurance",
+    "Participation choisie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "preoccupation-odeur-lecture-interrompue",
+      "title": "La préoccupation de son odeur qui interrompt une lecture aimée",
+      "description": "Pendant l’atelier, la crainte de son odeur détourne Fanny du texte qu’elle aime. Une question répétée permet de reprendre le travail.",
+      "context": "Premier atelier consacré au recueil Les seuils, à la maison de quartier",
+      "topics": [
+        "Préoccupation persistante",
+        "Attention retenue",
+        "Travail littéraire"
+      ],
+      "clinical_focus": "Préoccupation persistante autour de l’odeur",
+      "clinical_intro": "Une préoccupation persistante peut occuper l’attention jusque dans une activité appréciée. Dans le trouble de perception olfactive, appelé ici Olfactory reference disorder, elle concerne la crainte d’émettre une odeur offensante. Fanny connaît déjà son diagnostic. À l’atelier, la pensée revient pendant une lecture et lui fait manquer une question, sans que cela prouve quoi que ce soit sur son odeur.",
+      "opening": "L’arrêt de bus du texte n’a plus de banc. C’est ce détail que Fanny voudrait garder, même si Nora trouve le premier paragraphe trop long. Les participantes ont choisi Les seuils pour titre de leur recueil ; ce soir, chacune apporte une page à relire avant de penser à l’impression. Fanny aime ces trajets minuscules qui finissent par raconter une vie entière. À trente-trois ans, elle anime cet atelier depuis assez longtemps pour savoir qu’une hésitation sur un mot mérite parfois toute une discussion.\n\nElle commence la lecture et reconnaît la phrase qu’elle avait soulignée la semaine précédente. Puis la crainte de son odeur s’impose de nouveau. Elle continue de prononcer les mots, mais une partie de leur sens lui échappe. Son trouble de perception olfactive est déjà diagnostiqué ; elle en parle avec son médecin et son thérapeute. Le nom ne l’empêche pas, ce soir, de revenir à cette préoccupation au milieu de la page.\n\nUne participante lui demande où couper le paragraphe. Fanny répond « oui », puis voit que la question attendait autre chose. Nora approche deux propositions de couverture, une porte jaune et un escalier bleu. Fanny aimerait les regarder vraiment. Elle aimerait surtout entendre ce que l’autrice souhaite conserver de son arrêt de bus. Elle pose sa feuille à plat : « Tu peux reprendre ta question ? Je n’ai pas suivi jusqu’au bout. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand une crainte prend de la place dans la pensée",
+          "text": "Dans le trouble de perception olfactive, la préoccupation d’émettre une odeur jugée offensante peut devenir persistante et entraîner une détresse importante. Elle dépasse alors une inquiétude passagère par la place qu’elle prend et ses conséquences. Chez Fanny, la difficulté visible concerne ce qu’elle n’arrive plus à suivre. Le récit établit sa crainte et son retentissement, sans confirmer une odeur ni attribuer une intention aux personnes présentes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une préoccupation persistante prend-elle la place du texte ?",
+          "points": [
+            {
+              "heading": "La pensée revient dans une activité aimée",
+              "text": "L’intérêt pour une activité ne suffit pas toujours à empêcher le retour de la préoccupation.",
+              "examples": [
+                "Fanny reconnaît sa phrase préférée puis pense de nouveau à son odeur supposée.",
+                "Elle voudrait écouter la fin du trajet raconté, mais perd une partie du sens en continuant de lire."
+              ]
+            },
+            {
+              "heading": "Une question n’est entendue qu’en partie",
+              "text": "L’attention occupée ailleurs peut rendre une réponse décalée, sans traduire un manque de compétence ou d’intérêt.",
+              "examples": [
+                "Fanny répond oui à une question qui demandait un endroit où couper.",
+                "Elle doit demander à l’autrice de répéter pour comprendre les deux propositions de paragraphes."
+              ]
+            },
+            {
+              "heading": "Une décision ordinaire demande davantage de temps",
+              "text": "Le coût peut porter sur la disponibilité mentale, même quand le travail reste réalisable.",
+              "examples": [
+                "Les deux couvertures arrivent devant Fanny sans qu’elle puisse encore les comparer.",
+                "Le temps prévu pour plusieurs décisions ne suffit plus après la reprise de la discussion littéraire."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour retrouver une tâche choisie quand la préoccupation revient",
+          "points": [
+            {
+              "heading": "1. Nommer la difficulté sans demander un verdict",
+              "objective": "Dire ce qui gêne la présence à l’échange.",
+              "exercise": [
+                "Choisissez une phrase courte décrivant votre difficulté actuelle.",
+                "Dites par exemple que la préoccupation occupe votre attention, selon ce que vous souhaitez partager.",
+                "Précisez le besoin immédiat : réentendre une question ou prendre un moment."
+              ],
+              "benefit": "L’interlocutrice dispose d’une demande compréhensible sans devoir évaluer une odeur."
+            },
+            {
+              "heading": "2. Choisir une seule décision éditoriale",
+              "objective": "Adapter le travail de ce soir aux ressources disponibles.",
+              "exercise": [
+                "Reprenez avec la coanimatrice les décisions encore ouvertes.",
+                "Choisissez ensemble celle qui compte pour la séance.",
+                "Donnez un autre moment à la décision reportée."
+              ],
+              "benefit": "Le groupe sait ce qui sera terminé et ce qui attendra, sans faire de la séance une épreuve clinique."
+            },
+            {
+              "heading": "3. Apporter le coût attentionnel au suivi",
+              "objective": "Permettre au thérapeute de comprendre l’effet concret de la préoccupation.",
+              "exercise": [
+                "Retenez une situation où vous avez perdu le fil d’une tâche.",
+                "Décrivez ce que cela a empêché d’entendre ou de décider, sans relever des odeurs.",
+                "Reprenez cet exemple au rendez-vous pour discuter des besoins de soin."
+              ],
+              "benefit": "Le suivi s’appuie sur le retentissement vécu ; ces gestes quotidiens ne constituent pas un traitement autonome."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le paragraphe avant la couverture",
+      "ending": "L’autrice reprend sa question. Fanny lui demande ce que change la coupure pour la personne qui attend le bus. Elles relisent les deux versions ; l’autrice conserve finalement sa longue phrase. Nora sourit en rangeant les maquettes : elles choisiront la couverture à la prochaine séance. Fanny emporte les deux propositions. Sa préoccupation n’a pas disparu, mais elle sait quelle discussion a réellement eu lieu et ce qu’elle veut apporter à son prochain rendez-vous.",
+      "mirror": [
+        "Quand Fanny répond à côté, Nora peut proposer : « On reprend la question ou tu préfères une minute ? » Elle peut accepter de reporter la couverture tout en précisant la date où le groupe en aura besoin. Son aide concerne leur travail commun. Elle n’a ni à chercher ce que les autres auraient senti, ni à obtenir une confidence clinique pour permettre cette adaptation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny fait répéter la question, travaille avec l’autrice et reporte avec Nora le choix de couverture.",
+        "next": "Les deux maquettes, porte jaune et escalier bleu, seront départagées à la prochaine séance ; Fanny prévoit de décrire la perte du fil dans son suivi."
+      },
+      "conclusion": "La phrase de l’autrice a trouvé sa place, tandis que la couverture attend. La préoccupation persistante se comprend ici par le temps d’attention qu’elle prend à Fanny, et non par une preuve concernant son odeur. Le suivi reste le lieu pour en discuter."
+    },
+    {
+      "number": 2,
+      "slug": "gestes-ambigus-interpretes-comme-indices",
+      "title": "Les gestes des autres qui semblent parler de soi",
+      "description": "Une fenêtre ouverte et une main vers le visage prennent un sens inquiétant pour Fanny. Le vote sur la couverture reste une autre question.",
+      "context": "À la séance suivante, devant les deux maquettes de couverture",
+      "topics": [
+        "Idées de référence",
+        "Gestes ambigus",
+        "Interprétation incertaine"
+      ],
+      "clinical_focus": "Gestes d’autrui interprétés comme des indices",
+      "clinical_intro": "Des gestes ambigus peuvent être interprétés comme des messages à propos de soi. Dans le trouble de perception olfactive, ces idées de référence peuvent concerner la conviction que les autres remarquent une odeur supposée. Un mouvement observé ne révèle pourtant pas son intention. Fanny, dont le diagnostic est connu, rencontre cette difficulté au moment d’un vote qui lui tient à cœur.",
+      "opening": "La porte jaune est posée à gauche, l’escalier bleu à droite. Fanny les a sortis de leur enveloppe avant l’arrivée des participantes. Nora préfère l’escalier, dont les marches tiennent dans trois traits ; Fanny trouve que la porte laisse davantage de place à ce qu’on imagine derrière. Elles ont décidé de recueillir les avis sans annoncer leurs préférences. Le recueil appartient aux autrices, jusque dans cette décision. Fanny prépare la question et rapproche la feuille où elle notera le choix.\n\nEn face, une participante porte la main à son visage. Fanny s’interrompt intérieurement sur ce mouvement. Quand Nora ouvre la fenêtre, elle y relie aussitôt la même explication : les autres auraient remarqué son odeur. Une troisième personne sort de la salle pour répondre au téléphone. Fanny entend la sonnerie, mais cela ne desserre pas ce qu’elle croit comprendre. Elle voit maintenant ces gestes comme un ensemble dirigé vers elle. Rien dans la scène ne permet pourtant d’établir ce qu’ils signifient.\n\nSa main revient vers l’enveloppe. Elle pourrait y remettre les maquettes, dire qu’elles choisiront autrement. Nora lui demande si tout le monde a bien vu les deux dessins. Fanny regarde le haut de la porte jaune, dont le cadre a été tracé un peu de travers. Elle avait envie de défendre cette maladresse. Pour l’instant, elle doit surtout décider si elle pose la question préparée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un geste observé et le sens qu’on lui donne",
+          "text": "Les idées de référence font prendre des événements ou des gestes pour des signes qui concernent personnellement celui qui les observe. Dans le trouble déjà diagnostiqué chez Fanny, ils peuvent sembler confirmer que les autres remarquent l’odeur qu’elle redoute. Le mouvement de la main et l’ouverture de la fenêtre ont eu lieu ; leur signification reste inconnue. Inventer une explication rassurante certaine pour chaque geste maintiendrait la discussion autour d’un verdict impossible à tirer de cette scène."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment des gestes ambigus deviennent-ils des indices personnels ?",
+          "points": [
+            {
+              "heading": "Les mouvements prennent le premier plan",
+              "text": "L’attention quitte le travail partagé pour suivre ce qui paraît lié à la préoccupation.",
+              "examples": [
+                "Fanny observe la main portée au visage au lieu de regarder les deux maquettes.",
+                "Elle manque une partie de la question de Nora sur la visibilité des dessins."
+              ]
+            },
+            {
+              "heading": "Plusieurs événements semblent former un message",
+              "text": "Le rapprochement entre des gestes ne prouve pas qu’ils ont une cause commune.",
+              "examples": [
+                "Fanny relie la fenêtre ouverte au mouvement qu’elle vient de voir.",
+                "La sortie pour téléphoner entre dans la même interprétation, malgré la sonnerie entendue."
+              ]
+            },
+            {
+              "heading": "Le jugement paraît présent sans parole explicite",
+              "text": "La personne peut se sentir visée sans qu’un commentaire ait été prononcé.",
+              "examples": [
+                "Fanny envisage de remballer les dessins alors que personne ne lui a demandé de partir.",
+                "Elle peine à annoncer le vote parce qu’elle se sent déjà jugée par le groupe."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une décision possible devant un geste ambigu",
+          "points": [
+            {
+              "heading": "1. Distinguer une fois observation et interprétation",
+              "objective": "Décrire la situation sans transformer le sens supposé en fait établi.",
+              "exercise": [
+                "Choisissez un seul geste qui vous a arrêté.",
+                "Formulez ce qui a été vu, puis ce que vous en avez conclu.",
+                "Apportez cette distinction au suivi si elle reste difficile, sans recommencer l’analyse de chaque geste."
+              ],
+              "benefit": "Le thérapeute peut entendre le passage entre observation et conviction sans organiser une enquête sur autrui."
+            },
+            {
+              "heading": "2. Laisser une signification ouverte",
+              "objective": "Éviter de remplacer la certitude inquiétante par une obligation de preuve inverse.",
+              "exercise": [
+                "Reconnaissez que la signification de ce geste n’est pas connue.",
+                "Ne demandez pas aux personnes présentes de justifier leurs mouvements.",
+                "Choisissez si vous souhaitez reprendre la tâche ou demander un moment."
+              ],
+              "benefit": "La décision du quotidien n’exige pas que toutes les intentions deviennent certaines ; ce choix reste révisable."
+            },
+            {
+              "heading": "3. Demander un appui sur le vote",
+              "objective": "Solliciter une aide de coanimation plutôt qu’une évaluation corporelle.",
+              "exercise": [
+                "Identifiez la tâche exacte pour laquelle une aide serait utile.",
+                "Demandez par exemple à Nora de montrer les dessins pendant que vous posez la question.",
+                "Vérifiez son accord et notez le résultat du vote."
+              ],
+              "benefit": "La coopération porte sur le livre. Elle ne vaut ni soin autonome ni confirmation concernant une odeur."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une porte jaune sur la feuille",
+      "ending": "Fanny laisse l’enveloppe sur le côté et demande quelle image convient le mieux aux textes. Nora soulève les maquettes pour le fond de la salle. La porte jaune l’emporte ; Fanny inscrit ce choix avec la date. Elle reste tendue quand les feuilles circulent. Le vote décide d’une couverture, sans lui apprendre pourquoi la fenêtre a été ouverte. Elle réunit ensuite les textes déjà relus : il faudra les transmettre pour obtenir un devis.",
+      "mirror": [
+        "Nora peut tendre les maquettes et dire : « Je les montre, tu poses la question ? » Si Fanny lui parle de la fenêtre, elle peut entendre que ce moment lui pèse sans répondre pour les autres ni promettre qu’aucun regard ne la concerne. « Je peux t’aider à terminer le vote » garde une limite concrète. Nora ne devient pas l’interprète de toutes les personnes présentes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Le groupe choisit la porte jaune ; Fanny note le résultat sans chercher à faire expliquer les gestes.",
+        "next": "La couverture est arrêtée. Fanny doit déposer les textes relus pour que Nora prépare le premier devis."
+      },
+      "conclusion": "La porte jaune est retenue malgré une interprétation qui demeure pénible. Le choix littéraire et le sens attribué aux gestes restent deux questions différentes. Une coopération centrée sur le vote permet ici de poursuivre le projet sans fournir de verdict olfactif."
+    },
+    {
+      "number": 3,
+      "slug": "verifications-repetees-depart-retarde",
+      "title": "Les vérifications répétées qui retardent un départ ordinaire",
+      "description": "La pochette du recueil reste près de la porte : Fanny suspend son départ pour vérifier encore la source de l’odeur qu’elle redoute.",
+      "context": "Chez Fanny avant le dépôt des textes, puis au rendez-vous de suivi",
+      "topics": [
+        "Auto-vérification",
+        "Doute qui revient",
+        "Temps empêché"
+      ],
+      "clinical_focus": "Vérifications répétées de la source supposée",
+      "clinical_intro": "Vérifier soi-même la source supposée d’une odeur peut devenir un comportement répété dans le trouble de perception olfactive. Le contrôle ne règle pas nécessairement le doute et peut interrompre des actions ordinaires. Fanny connaît son diagnostic ; ce soir, elle ne demande l’avis de personne. C’est la répétition de ses propres vérifications qui retient le dossier près de la porte.",
+      "opening": "La pochette est jaune, comme la porte choisie pour la couverture. Fanny y a glissé les textes relus, les coordonnées de l’imprimeur et la feuille où chaque autrice a validé sa version. Elle a laissé de côté une copie de travail couverte de flèches : Nora n’aura pas à deviner laquelle est la bonne. Il reste seulement à descendre déposer le dossier dans la boîte interne de la maison de quartier avant la fermeture. Le trajet est court ; elle avait prévu de rentrer ensuite pour appeler Lucie.\n\nFanny prend ses clés, puis suspend son départ pour vérifier ce qu’elle croit être la source de l’odeur. Lorsqu’elle revient vers la pochette, le doute est de nouveau là. Elle ne sollicite personne et n’a pas ouvert de conversation sur son téléphone. C’est elle qui reprend un contrôle, puis retrouve les papiers au même endroit. La soirée avance sans que cette tâche simple progresse.\n\nElle s’assied quelques instants près de la porte et regarde le coin d’une page qui dépasse. Un titre penche légèrement parce que l’autrice l’a voulu ainsi ; Fanny avait défendu ce petit déséquilibre contre le goût plus régulier de Nora. Elle sait encore pourquoi il lui plaît. Ce qui lui manque maintenant, c’est la possibilité de terminer le trajet prévu. L’heure de fermeture approche, et elle n’a pas prévenu Nora.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le contrôle et le retour du doute",
+          "text": "Des vérifications répétées de l’odeur ou de sa source supposée font partie des manifestations possibles du trouble de perception olfactive. Elles se distinguent des demandes adressées à un proche. Le problème décrit ici n’est pas la découverte d’une information corporelle : c’est une action interrompue, puis un doute qui relance la vérification. Le récit ne détaille aucune méthode de contrôle à reproduire. La réponse clinique à ces comportements se discute avec le thérapeute, selon la situation propre à Fanny."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les vérifications répétées interrompent-elles le quotidien ?",
+          "points": [
+            {
+              "heading": "Une action commencée reste en suspens",
+              "text": "La vérification peut s’intercaler entre une intention concrète et sa réalisation.",
+              "examples": [
+                "Fanny a les clés en main mais ne part pas avec la pochette.",
+                "Le dossier est prêt ; elle revient pourtant près de la porte sans l’avoir déposé."
+              ]
+            },
+            {
+              "heading": "Le doute revient après le contrôle",
+              "text": "La répétition montre que l’action n’apporte pas la certitude durable espérée.",
+              "examples": [
+                "Fanny retrouve la même inquiétude lorsqu’elle revient vers les papiers.",
+                "Elle entreprend un autre contrôle sans disposer d’une nouvelle question pratique sur le dossier."
+              ]
+            },
+            {
+              "heading": "Une courte tâche occupe la soirée",
+              "text": "Le retentissement porte sur le temps et les engagements, indépendamment de la simplicité du trajet.",
+              "examples": [
+                "La fermeture approche alors que le dépôt devait prendre peu de temps.",
+                "L’appel à Lucie, prévu après son retour, n’a plus la même place dans la soirée."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour parler des vérifications et organiser la tâche empêchée",
+          "points": [
+            {
+              "heading": "1. Décrire ce qui n’a pas pu être fait",
+              "objective": "Rendre le coût des vérifications compréhensible dans le suivi.",
+              "exercise": [
+                "Choisissez une action que vous vouliez accomplir.",
+                "Décrivez en quelques mots comment les interruptions l’ont retardée, sans raconter une méthode de contrôle.",
+                "Apportez cet exemple au thérapeute avec ce que cela a changé dans votre soirée."
+              ],
+              "benefit": "Le professionnel entend le retentissement sans transformer la consultation en relevé d’odeurs."
+            },
+            {
+              "heading": "2. Discuter d’une réponse adaptée au comportement",
+              "objective": "Garder le travail clinique dans une décision partagée.",
+              "exercise": [
+                "Dites au thérapeute que le doute revient après vos vérifications.",
+                "Demandez à examiner avec lui ce qui serait pertinent dans votre situation.",
+                "Précisez vos difficultés et vos limites avant de convenir de la suite."
+              ],
+              "benefit": "Un soin peut être discuté sans consigne générale d’arrêt ni nouvelle routine imposée par l’article."
+            },
+            {
+              "heading": "3. Prévenir du retard matériel",
+              "objective": "Préserver une coordination de travail lorsque le dépôt n’a pas eu lieu.",
+              "exercise": [
+                "Informez la coanimatrice que le dossier ne sera pas disponible ce soir.",
+                "Proposez un autre moment de remise réaliste.",
+                "Confirmez où les documents pourront être récupérés."
+              ],
+              "benefit": "Nora peut organiser le devis ; cet échange ne lui demande aucun avis sur le corps de Fanny."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La pochette déposée le lendemain",
+      "ending": "Fanny écrit à Nora que les textes arriveront le lendemain matin. Elle les dépose alors dans la boîte interne et reçoit une confirmation de réception. À son rendez-vous de suivi, plus tard dans la journée, elle raconte les départs interrompus et la question manquée à l’atelier. Le thérapeute reprend avec elle l’effet de la préoccupation sur son attention et ses actions. Ils discutent de la suite sans transformer le dépôt effectué en obligation de réussir chaque départ futur.",
+      "mirror": [
+        "Nora peut répondre : « Je récupérerai la pochette demain ; j’enverrai le devis après. » Cette précision règle leur besoin de travail sans réclamer les détails des vérifications. Si Fanny lui confie sa difficulté, elle peut l’écouter et lui laisser la place d’en parler à son thérapeute. Elle n’a pas à surveiller ses départs, à interrompre ses gestes ou à prouver qu’un contrôle était inutile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "phillips-menard-2011"
+      ],
+      "continuity": {
+        "choice": "Fanny prévient Nora, dépose la pochette le lendemain et parle effectivement des interruptions et de l’attention au thérapeute.",
+        "next": "Nora possède les textes validés et prépare le devis. Le prochain échange portera sur le budget ; la réponse clinique aux vérifications reste discutée dans le suivi."
+      },
+      "conclusion": "Les textes sont transmis avec un jour de retard. Le dépôt et la consultation remplissent des fonctions différentes : l’un permet le devis, l’autre donne une place clinique à la difficulté. Aucun des deux ne garantit que le doute ne reviendra pas."
+    }
+  ]
+}

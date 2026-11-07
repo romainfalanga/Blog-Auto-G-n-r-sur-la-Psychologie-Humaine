@@ -1,0 +1,426 @@
+{
+  "character_id": "louise",
+  "bio": "Louise, 53 ans, est secrétaire dans un atelier de réparation de bateaux. Un épisode dépressif unique, déjà diagnostiqué, l’a conduite à réduire ses heures. Elle connaît les noms des coques, corrige au stylo violet et garde ses partitions d’alto dans une boîte rouge. Le chant lui manque, même quand le plaisir ne suit pas. Pour accueillir Claire, une amie qui revient à la chorale, elle cherche une place qui lui ressemble sans redevenir la responsable de tout. Agnès et son médecin traitant l’accompagnent.",
+  "profile_topics": [
+    "Épisode dépressif unique",
+    "Énergie diminuée",
+    "Plaisir émoussé",
+    "Ruminations et dévalorisation",
+    "Participation et suivi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "louise-energie-gestes-familiers",
+      "title": "Énergie diminuée : quand un appel prend toute la matinée",
+      "description": "À l’atelier, Louise mesure ce que lui coûte un simple rappel. Elle choisit sa tâche sans transformer sa fatigue en faute.",
+      "context": "au secrétariat de l’atelier de bateaux",
+      "topics": [
+        "Énergie diminuée",
+        "Coût de l’effort",
+        "Engagement limité"
+      ],
+      "clinical_focus": "Énergie diminuée dans les gestes familiers",
+      "clinical_intro": "La baisse d’énergie peut rendre coûteux des gestes autrefois familiers, même lorsque leur difficulté paraît faible. Dans un épisode dépressif déjà diagnostiqué, cet effort inhabituel mérite d’être entendu sans jugement sur la volonté. Délimiter une tâche ou demander un relais peut préserver une possibilité d’action ; cela ne suffit ni à expliquer toute fatigue ni à remplacer le suivi médical.",
+      "opening": "Le lundi, Louise reconnaît le nom d’Avel avant de regarder celui de son propriétaire. Le bateau figure sur une facture posée au-dessus du courrier, près du téléphone de l’atelier. Elle ôte le capuchon de son stylo violet, vérifie le numéro et pose l’index sur la première touche. Il faut appeler pour confirmer une ligne. Elle sait quoi demander. Pourtant, commencer lui coûte comme si l’appel contenait déjà tous ceux de la journée.\n\nDans la pièce voisine, Marc cherche une enveloppe. La porte laisse passer une odeur de bois humide et le froissement de son blouson. Louise déplace la boîte de factures pour dégager le combiné. Ce petit déplacement lui donne envie de s’asseoir plus profondément, les mains vides. Depuis son premier épisode dépressif, déjà diagnostiqué, ses heures de secrétariat sont réduites. Ce matin, même ce cadre allégé ne rend pas l’effort léger.\n\nElle finit par joindre le client. La conversation dure peu ; lorsqu’elle raccroche, elle regarde longtemps le trait violet qui clôt sa note. « Puisque c’est presque fini, tu peux mettre celle-ci au courrier ? » demande Marc en déposant son enveloppe. Il n’a pas entendu ce que l’appel lui a coûté. Louise regarde l’enveloppe, puis son sac. Une invitation d’Agnès y attend : Claire reviendra à la chorale dans environ huit semaines. Elle voudrait répondre autre chose que plus tard. « Presque fini, ça dépend de quel côté du bureau on regarde », dit-elle. Marc s’arrête, l’enveloppe encore sous sa main.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la dépense dépasse la taille du geste",
+          "text": "Une diminution de l’énergie peut modifier le coût d’une activité sans en changer la difficulté technique. Louise connaît son travail ; ce qui manque ici est la disponibilité pour le commencer et le poursuivre. Cette manifestation possible d’un épisode dépressif se distingue de la lenteur des gestes, que les autres peuvent observer : on peut répondre au téléphone à un rythme ordinaire et en sortir épuisé. Chez elle, le diagnostic existe déjà et le suivi permet de discuter ce retentissement. Une matinée semblable, isolément, ne permettrait pas de poser un diagnostic. Une fatigue inhabituelle ou qui change mérite aussi d’être décrite au médecin sans présumer de sa cause."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le manque d’énergie change-t-il cette matinée ?",
+          "points": [
+            {
+              "heading": "Commencer demande un élan disproportionné",
+              "text": "Le savoir-faire reste disponible, mais engager le geste absorbe une part importante des ressources. Le délai ne dit pas que la tâche serait sans importance pour la personne.",
+              "examples": [
+                "Devant le numéro d’Avel, Louise prépare sa question mais laisse sa main sur les touches avant de composer.",
+                "Elle a déjà lu l’invitation d’Agnès ; saisir le téléphone pour répondre lui paraît être une nouvelle dépense."
+              ]
+            },
+            {
+              "heading": "Une courte tâche laisse peu de réserve",
+              "text": "La durée visible ne mesure pas la fatigue éprouvée. Ajouter une petite opération peut alors peser davantage que l’entourage ne l’imagine.",
+              "examples": [
+                "Après le bref rappel, Louise reste assise devant sa note terminée au lieu de passer au courrier suivant.",
+                "L’enveloppe que Marc ajoute contient peu de travail, mais elle arrive quand Louise n’a plus de marge pour le prendre."
+              ]
+            },
+            {
+              "heading": "Deux activités importantes entrent en concurrence",
+              "text": "Une énergie diminuée peut obliger à choisir entre des engagements auxquels on tient. Ce choix contraint ne constitue pas une preuve d’indifférence au second.",
+              "examples": [
+                "Louise consacre l’effort disponible à la réponse attendue par le client et garde l’invitation dans son sac.",
+                "Elle souhaite accueillir Claire, mais envisager aussitôt une soirée de préparation s’ajouterait à sa matinée déjà coûteuse."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour alléger la demande sans effacer ses priorités",
+          "points": [
+            {
+              "heading": "Définir la tâche qui sera réellement faite",
+              "objective": "Donner une limite concrète à l’engagement du moment, plutôt que promettre un ensemble imprécis.",
+              "exercise": [
+                "Nommer le résultat nécessaire : ici, obtenir la confirmation du client et fermer sa note.",
+                "Dire à la personne concernée ce qui entre dans cet engagement : « Je termine ce rappel. »",
+                "Indiquer ce qui revient à un autre ou attendra : demander à Marc de prendre son enveloppe au courrier."
+              ],
+              "benefit": "La limite devient compréhensible au bureau. Elle peut éviter une accumulation de demandes tout en laissant à Louise un travail précis qu’elle sait accomplir."
+            },
+            {
+              "heading": "Choisir un temps sans nouvelle demande",
+              "objective": "Ménager un moment de récupération adapté à la situation, sans lui attribuer un effet de traitement.",
+              "exercise": [
+                "Repérer la fin de la tâche plutôt que remplir immédiatement le vide par la suivante.",
+                "Choisir une pause praticable, par exemple rester assise quelques instants avec un verre d’eau.",
+                "Dire quand l’échange professionnel pourra reprendre, quitte à réajuster si la fatigue demeure."
+              ],
+              "benefit": "Un intervalle choisi peut rendre la suite moins pressante. Il n’oblige pas l’énergie à revenir et ne justifie pas d’augmenter les heures déjà aménagées."
+            },
+            {
+              "heading": "Décrire le coût au rendez-vous prévu",
+              "objective": "Rendre la fatigue persistante visible dans le suivi au moyen de son retentissement réel.",
+              "exercise": [
+                "Retenir un exemple de tâche familière devenue coûteuse, comme ce rappel pourtant bref.",
+                "Dire au médecin ce qui a dû être laissé de côté et ce qui aide ou ne suffit plus.",
+                "Demander comment poursuivre le suivi et prendre contact avant le rendez-vous si la situation change ou s’aggrave."
+              ],
+              "benefit": "Le médecin dispose d’éléments concrets pour évaluer les besoins et les causes possibles. Louise n’a pas à prouver sa fatigue en multipliant les efforts."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’enveloppe reste du côté de Marc",
+      "ending": "« Le rappel est fait. L’enveloppe, je te la laisse. » Louise ne raconte pas sa santé à Marc ; les horaires qui concernent l’atelier lui suffisent. Il reprend son pli et demande seulement si le client a confirmé. Oui. Le dossier de ce matin est à jour.\n\nAprès un moment sans autre demande, Louise ouvre le message d’Agnès. « J’aimerais être là pour Claire. Je ne sais pas encore pour quelle part. » Elle envoie avant de pouvoir transformer cette phrase en promesse de tout préparer. Agnès propose de lui apporter le morceau envisagé. Louise accepte une écoute. Elle ne se sent pas reposée pour autant, et son heure de départ reste celle qui était prévue.",
+      "conclusion": "Cette matinée montre une énergie diminuée à travers le coût de gestes connus, pas à travers un manque de compétence. Louise ferme une tâche et laisse une possibilité au chant ; cette limite concrète accompagne son suivi sans annoncer son évolution.",
+      "mirror": [
+        "Marc peut répondre au refus par un geste simple : reprendre son enveloppe et laisser la tâche terminée rester terminée. « Je m’en charge » est plus utile ici qu’un commentaire sur ce que Louise devrait encore pouvoir faire. Il peut clarifier les priorités administratives sans demander un récit de santé.",
+        "Agnès peut proposer une écoute plutôt qu’un rôle d’organisation : « Je t’apporte la partition ; on verra ensuite ce que tu souhaites. » Elle n’a pas à mesurer les réserves de Louise. Si celle-ci décrit une fatigue persistante ou différente, elle peut l’encourager à en parler au médecin qui assure déjà son suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Louise termine le rappel et refuse l’enveloppe de Marc. Elle dit vouloir accueillir Claire sans prendre de rôle défini ; ses heures réduites restent inchangées.",
+        "next": "Agnès apportera une chanson à écouter. Louise a accepté ce moment, sans reprendre la préparation du retour."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "louise-plaisir-emousse-chanson",
+      "title": "Plaisir émoussé : reconnaître une chanson sans retrouver sa chaleur",
+      "description": "Louise retrouve les notes d’alto mais pas le plaisir attendu. Avec Agnès, elle essaie une présence qui n’exige pas l’enthousiasme.",
+      "context": "à la maison autour des partitions",
+      "topics": [
+        "Plaisir émoussé",
+        "Attachement préservé",
+        "Présence sans performance"
+      ],
+      "clinical_focus": "Plaisir émoussé dans une activité aimée",
+      "clinical_intro": "Une activité peut garder sa place dans une vie alors que le plaisir qu’elle procure devient faible ou absent. Cette expérience possible de la dépression ne signifie pas que les liens ont perdu leur valeur. Reconnaître ce décalage permet de parler de ce qui manque sans exiger une réaction joyeuse. Une reprise d’activité reste un choix personnel, accompagné par les soins nécessaires.",
+      "opening": "La boîte rouge accroche un peu sous le buffet. Louise la tire par la poignée, la pose sur la table et reconnaît l’écriture de Claire sur une chemise : altos, surtout ne pas monter. Elle sourit au mot, puis attend que quelque chose suive. Le sourire a été rapide. À l’intérieur, rien ne s’ouvre vraiment.\n\nAgnès arrive avec l’enregistrement d’une chanson que Claire demande depuis des années. Elle pose son téléphone contre le pot à cuillères. « C’est celle-là que tu voulais me faire entendre ? » Louise reconnaît dès les premières mesures le passage où les voix graves soutiennent les autres. Elle pourrait montrer la reprise sans écouter davantage. Elle se rappelle un fou rire, une note tenue beaucoup trop longtemps par Claire, la cheffe qui avait renoncé à parler. Le souvenir reste précis ; la chaleur qu’elle en attendait ne vient pas.\n\n« L’arrangement est juste », dit-elle. Agnès baisse le son. Louise entend dans sa propre phrase une appréciation de facture, pas une réponse à une amie. Elle voudrait expliquer qu’elle tient toujours à Claire, qu’elle a envie de retrouver leurs voix. Depuis son épisode dépressif, il lui arrive de savoir qu’une chose compte sans en éprouver le plaisir familier. Elle ne l’a pas choisi. Pourtant, devant le téléphone, elle songe à battre la mesure et à dire formidable. Agnès connaît son diagnostic parce qu’elle le lui a confié. Cela ne lui évite pas la peur de paraître ingrate. « Je reconnais tout. C’est la réjouissance qui manque à l’appel », finit-elle par dire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui compte et ce qui se ressent",
+          "text": "La diminution du plaisir peut concerner des activités auparavant appréciées, jusque dans les moments où elles ont effectivement lieu. Louise conserve des souvenirs, une préférence pour les voix d’alto et le désir de retrouver Claire ; ces éléments ne suffisent pas à produire une émotion agréable pendant l’écoute. L’intérêt, l’attachement et le plaisir ne se superposent donc pas forcément. Son trouble est déjà diagnostiqué : cette scène en décrit un vécu possible sans transformer une écoute décevante en preuve clinique. Inversement, un sourire ou un instant plus agréable ne permettrait pas de conclure à une amélioration générale. La place du chant se décide avec elle et ne remplace pas son suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le plaisir émoussé apparaît-il autour de la chanson ?",
+          "points": [
+            {
+              "heading": "Attendre une joie qui n’arrive pas",
+              "text": "L’anticipation d’un moment aimé peut perdre son relief. On sait pourquoi on l’a désiré sans sentir l’élan agréable attendu.",
+              "examples": [
+                "En sortant la chemise annotée par Claire, Louise se rappelle leur complicité mais reste intérieurement à distance.",
+                "Avant qu’Agnès lance le morceau, elle espère retrouver la chaleur des répétitions ; cette attente demeure terne."
+              ]
+            },
+            {
+              "heading": "Participer avec peu de satisfaction immédiate",
+              "text": "La personne peut écouter, reconnaître et apprécier une qualité technique sans éprouver le plaisir qui accompagnait autrefois ces gestes.",
+              "examples": [
+                "Louise reconnaît la ligne grave dès les premières mesures, mais le passage ne lui procure pas la joie habituelle.",
+                "Elle entend que l’arrangement convient et dit qu’il est juste, sans avoir envie de le réécouter aussitôt."
+              ]
+            },
+            {
+              "heading": "S’inquiéter de la réaction attendue par l’autre",
+              "text": "Le décalage peut provoquer un malaise supplémentaire : il faut alors expliquer son absence d’enthousiasme ou faire semblant. Ce reproche lié à l’écoute n’établit pas à lui seul une culpabilité excessive.",
+              "examples": [
+                "Devant Agnès, Louise envisage d’applaudir pour éviter que son silence paraisse blessant.",
+                "Elle craint que Claire ne compte plus pour elle aux yeux de son amie, alors qu’elle souhaite réellement son retour."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour laisser une place au chant sans commander la joie",
+          "points": [
+            {
+              "heading": "Dire le décalage avec des mots précis",
+              "objective": "Distinguer la valeur du lien de l’émotion disponible pendant ce moment.",
+              "exercise": [
+                "Choisir ce qui reste vrai : « Je tiens à Claire et je reconnais ce morceau. »",
+                "Ajouter ce qui manque aujourd’hui : « Je ne retrouve pas le plaisir attendu. »",
+                "Dire ce que l’on préfère éviter, par exemple devoir montrer de l’enthousiasme pour rassurer."
+              ],
+              "benefit": "L’autre reçoit une explication qui porte sur l’expérience présente. Louise peut être sincère sans faire de sa réaction une déclaration sur toute l’amitié."
+            },
+            {
+              "heading": "Essayer une écoute dont la fin est choisie",
+              "objective": "Rencontrer brièvement une activité aimée sans lui demander de produire un résultat émotionnel.",
+              "exercise": [
+                "Choisir un passage ou une seule écoute plutôt qu’une soirée de répétition à domicile.",
+                "Écouter ou suivre la partition selon ce qui paraît possible ; arrêter reste permis.",
+                "À la fin, choisir de garder, reposer ou reprendre la partition une autre fois, quelle que soit l’émotion ressentie."
+              ],
+              "benefit": "L’essai renseigne sur ce moment et respecte la préférence musicale de Louise. Il ne mesure ni la qualité de son amitié ni l’efficacité de ses soins."
+            },
+            {
+              "heading": "Convenir d’une compagnie où le silence est possible",
+              "objective": "Partager une présence sans jouer la personne heureuse pour protéger l’autre.",
+              "exercise": [
+                "Demander à Agnès si elle peut simplement rester le temps du morceau.",
+                "Préciser qu’un silence ou une réponse brève n’appelle pas forcément une relance.",
+                "Décider ensemble quand terminer la visite et garder les difficultés persistantes pour en parler aussi au soignant."
+              ],
+              "benefit": "Un accord simple peut enlever une obligation relationnelle de plus. Agnès reste une amie disponible dans certaines limites, sans devoir faire revenir le plaisir."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La partition reste sur la table",
+      "ending": "Agnès remet le volume juste assez fort pour entendre les voix. « On peut écouter la fin. Tu n’as pas de critique de concert à me rendre. » Louise laisse passer la dernière note sans applaudir. Le silence ne se transforme pas en explication à fournir.\n\nElle garde la partition hors de la boîte. « Je passerais bien à la prochaine répétition, pour entendre tout le monde. » Agnès lui rappelle seulement le lieu et l’heure. Louise n’a accepté ni le buffet ni les invitations. Elle ne sait pas si la salle lui fera davantage plaisir ; elle souhaite y être pour ce qu’elle connaît du chant et des personnes. En raccompagnant Agnès, elle n’affirme pas que cela lui a fait du bien. Elle dit merci d’être venue, et cette phrase lui paraît exacte.",
+      "conclusion": "Le plaisir émoussé laisse ici un décalage entre l’attachement et la sensation attendue. Louise garde une partition et choisit une venue possible ; elle n’a pas à fabriquer une joie pour légitimer ce lien ou son suivi.",
+      "mirror": [
+        "En baissant le son, Agnès peut demander : « Tu veux continuer, arrêter, ou qu’on reste un moment sans commenter ? » Elle laisse ainsi plusieurs choix réels. Lui rappeler tous leurs bons souvenirs dans le but d’obtenir un sourire risquerait d’ajouter une attente à celle que Louise éprouve déjà.",
+        "Une amie peut entendre « cela ne me fait presque rien » sans le traduire en rejet personnel. Elle peut aussi dire qu’elle doit partir et proposer un autre contact si elle le souhaite. L’absence de plaisir persistante appartient à la discussion avec les soignants ; l’amitié n’a pas à devenir une séance destinée à la corriger."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte",
+        "nice-ng222"
+      ],
+      "continuity": {
+        "choice": "Louise écoute sans jouer l’enthousiasme, garde la partition et choisit de venir entendre les voix à la prochaine répétition.",
+        "next": "La venue est décidée sans responsabilité d’organisation. La prochaine scène rendra visible le rythme de ses gestes et de ses réponses dans le groupe."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "louise-ralentissement-reponses-gestes",
+      "title": "Ralentissement : trouver sa réponse quand le groupe a déjà poursuivi",
+      "description": "À la répétition, les gestes et les réponses de Louise prennent davantage de temps. Attendre lui permet de garder ses choix.",
+      "context": "à la répétition de la chorale",
+      "topics": [
+        "Ralentissement psychomoteur",
+        "Temps de réponse",
+        "Aide consentie"
+      ],
+      "clinical_focus": "Ralentissement des gestes et des réponses",
+      "clinical_intro": "Le ralentissement associé à la dépression peut se voir dans les gestes, la parole ou le passage d’une action à une autre. Il ne se confond pas avec la seule sensation de fatigue. Quand le rythme collectif devance une personne, lui laisser du temps peut préserver sa participation. Un changement inhabituel reste à discuter avec un professionnel, sans en présumer la cause.",
+      "opening": "Le signet jaune doit être dans la boîte rouge, entre les feuilles d’alto et l’ancienne liste des chants. Louise le sait parce qu’elle l’a rangé là. Dans la salle, les chaises grincent sur le sol. Elle s’assoit près d’Agnès, pose la boîte sur ses genoux et commence à défaire les deux attaches. La première se soulève ; pour la seconde, sa main reste un instant dans le trajet avant de reprendre. Agnès a déjà sorti sa propre partition.\n\nLa cheffe s’approche. « Tu veux essayer le début avec nous ? » Louise regarde l’espace libre dans le rang. Elle sait ce qu’elle souhaite répondre : ce soir, elle préfère écouter. Sa bouche s’ouvre, mais une autre choriste intervient pour expliquer où commence la reprise. La cheffe se tourne vers elle. Louise referme les lèvres. Elle n’est pas fâchée contre la question ; elle n’a simplement pas rejoint la conversation assez vite.\n\nÀ la maison, le temps de ses gestes se remarquait moins. Ici, une partition est distribuée pendant qu’elle termine encore de poser le couvercle. Depuis son épisode dépressif déjà diagnostiqué, il lui arrive d’avoir ce rythme différent, que d’autres peuvent observer. Elle le trouve plus exposé que la fatigue qu’elle ressent seule. Agnès avance la main vers la boîte, puis la suspend. « Tu veux que je cherche ? » Louise secoue la tête. Elle n’a pas fini de choisir son geste. « La boîte n’est pas en retard pour un train », dit-elle enfin. Agnès retire sa main et attend.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un rythme observable qui ne dit pas toute la personne",
+          "text": "Un ralentissement psychomoteur peut toucher l’exécution des gestes ou le rythme de la parole au cours d’un épisode dépressif. Le mot désigne un changement observable, distinct du coût intérieur de l’effort : à l’atelier, Louise pouvait passer un appel rapidement et en être épuisée ; ici, les autres la devancent effectivement. Ce rythme ne rend pas sa décision moins valable. Tous les silences, hésitations ou gestes maladroits ne relèvent cependant pas de la dépression. Un changement nouveau, inhabituel ou qui s’accentue doit être décrit au médecin sans être automatiquement attribué au diagnostic connu. La scène n’est pas un examen à reproduire pour se juger."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le ralentissement se voit-il dans la salle ?",
+          "points": [
+            {
+              "heading": "Des gestes familiers prennent plus de temps",
+              "text": "Le mouvement peut garder son but et sa précision tout en se déroulant plus lentement. Terminer à la place de la personne n’est donc pas toujours l’aide qu’elle souhaite.",
+              "examples": [
+                "Louise ouvre la seconde attache pendant qu’Agnès a déjà installé son pupitre.",
+                "Elle finit de poser le couvercle alors que les autres reçoivent les partitions suivantes."
+              ]
+            },
+            {
+              "heading": "Une réponse arrive après la reprise de l’échange",
+              "text": "Le temps entre la question et la parole peut s’allonger. Le groupe remplit parfois cet intervalle, si bien que la réponse préparée n’a plus de place pour être entendue.",
+              "examples": [
+                "Louise veut dire qu’elle écoutera ce soir ; une choriste parle avant que sa phrase ne commence.",
+                "À la proposition d’aide d’Agnès, elle répond d’abord par un mouvement de tête, puis les mots viennent lorsque son amie attend."
+              ]
+            },
+            {
+              "heading": "Passer à l’action suivante demande un intervalle",
+              "text": "Le changement de séquence peut devenir visible sans que la personne ait oublié ce qu’elle veut faire. Le rythme des voisins accentue alors le décalage.",
+              "examples": [
+                "Après avoir ouvert la boîte, Louise ne saisit pas immédiatement la partition située sous sa main.",
+                "Au moment où le rang se lève, elle termine de dégager ses genoux avant de choisir de rester assise."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour faire une place à un rythme différent",
+          "points": [
+            {
+              "heading": "Garder la question ouverte jusqu’à la réponse",
+              "objective": "Permettre à Louise de dire son choix sans être devancée par une interprétation.",
+              "exercise": [
+                "Poser une question simple, comme « Tu préfères écouter ou essayer ce passage ? ».",
+                "Laisser un silence réel sans ajouter aussitôt des options ou répondre pour elle.",
+                "Revenir à sa réponse si une autre conversation l’a recouverte : « Tu allais nous dire quelque chose. »"
+              ],
+              "benefit": "Le groupe peut conserver sa vie collective tout en rendant une parole audible. Attendre respecte la décision sans prétendre modifier la vitesse de réponse."
+            },
+            {
+              "heading": "Demander quelle partie du geste aider",
+              "objective": "Recevoir une aide précise en gardant la maîtrise des gestes que l’on souhaite faire.",
+              "exercise": [
+                "Nommer l’opération proposée : porter la boîte, chercher le signet ou ranger les feuilles.",
+                "Laisser la personne accepter, refuser ou limiter cette proposition.",
+                "Faire seulement la part convenue, puis rendre l’objet ou l’espace nécessaire pour la suite."
+              ],
+              "benefit": "L’aide cesse d’être une prise en charge de toute l’activité. Louise peut accepter le poids de la boîte en moins et garder sa partition entre ses mains."
+            },
+            {
+              "heading": "Rapporter une situation de lenteur au médecin",
+              "objective": "Discuter un ralentissement qui persiste ou change au lieu de le tester dans le groupe.",
+              "exercise": [
+                "Décrire où le décalage se remarque, par exemple une réponse régulièrement couverte par les échanges.",
+                "Préciser ce qui semble différent de son rythme habituel et si d’autres changements sont apparus.",
+                "Demander au médecin comment évaluer cette évolution et quand reprendre contact si elle s’accentue."
+              ],
+              "benefit": "Une description située aide le suivi sans convertir Agnès en observatrice chargée de chronométrer Louise. La cause et les besoins restent évalués professionnellement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une chaise, puis sa propre réponse",
+      "ending": "Quand la cheffe repasse, Agnès n’annonce pas la décision. Louise prend le temps de dire : « Je reste sur cette chaise, pour écouter. » La cheffe acquiesce et reprend avec les autres. Le début du chant arrive pendant que Louise retrouve enfin le signet jaune. Elle glisse sa partition au bon endroit, plus lentement qu’elle ne l’aurait voulu, et entend tout de même les voix.\n\nÀ la fin, elle accepte qu’Agnès porte la boîte jusqu’à la porte. « La boîte oui ; la feuille, je la garde. » Personne ne tire la partition de ses doigts. Louise la range elle-même avant de repartir. Elle n’a pas chanté ce soir, et le groupe ne l’a pas laissée sans place. Le rythme reste différent ; elle sait maintenant quel exemple elle pourra décrire au médecin si cela se maintient.",
+      "conclusion": "Le ralentissement devient visible parce que les gestes et les paroles du groupe arrivent avant ceux de Louise. Une attente et une aide limitée lui laissent une décision propre ; elles ne renseignent pas à elles seules sur l’évolution de son épisode.",
+      "mirror": [
+        "Agnès a interrompu son geste vers la boîte : elle peut ensuite demander « Je la porte ou tu préfères la garder ? », puis respecter le périmètre choisi. Une personne qui parle moins vite conserve le droit de répondre elle-même. La cheffe peut simplement lui rendre le tour de parole qu’une autre intervention a recouvert.",
+        "Les proches n’ont pas à surveiller la rapidité des gestes ou à annoncer une cause. Ils peuvent dire ce qu’ils ont observé si Louise le souhaite et l’encourager à décrire un changement persistant ou inhabituel au médecin. Ils gardent leurs propres activités ; attendre une réponse ne demande pas de prendre en charge toute la soirée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Louise écoute depuis une chaise, répond elle-même à la cheffe et accepte le port de la boîte sans confier le rangement de sa partition.",
+        "next": "La répétition n’a pas exigé qu’elle suive le rythme des autres. Au bureau, la prochaine difficulté portera sur le fil de l’attention pendant un appel Avel."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "louise-concentration-facture-avel",
+      "title": "Concentration fragile : reprendre trois fois une facture connue",
+      "description": "Louise sait établir la facture d’Avel, mais les interruptions lui font perdre le fil. Une vérification ordinaire permet l’envoi exact.",
+      "context": "pendant la facturation à l’atelier",
+      "topics": [
+        "Concentration fragile",
+        "Interruptions",
+        "Compétences professionnelles"
+      ],
+      "clinical_focus": "Concentration fragile malgré les compétences",
+      "clinical_intro": "La dépression peut rendre l’attention plus difficile à soutenir, y compris dans un travail maîtrisé. Comprendre une information ne garantit pas qu’on pourra en garder le fil parmi les interruptions. Un cadre plus calme et des vérifications habituelles peuvent aider à mener une tâche précise. Le retentissement professionnel mérite aussi une discussion avec le médecin, sans conclure à une perte générale de capacités.",
+      "opening": "« Cette fois, la facture sera au nom de ma société », dit le propriétaire d’Avel. Louise ouvre le dossier du bateau. Elle connaît l’écran, les lignes déjà confirmées lors du précédent appel et le champ où doit aller l’adresse. Le client épelle un nom, puis ajoute le numéro de la rue. Louise entend chaque mot. Au moment de le reporter, le radiateur fait son tic sec et Marc demande depuis la porte si une livraison est annoncée. Elle répond qu’elle regardera. Quand elle revient à sa note, elle ne sait plus quelle partie elle a déjà saisie.\n\nLe client poursuit avec la ville. Louise revient au nom de la société, relit le début, perd la ville. « Un instant, je reprends l’adresse avec vous. » Sa voix reste professionnelle. Elle n’a pas besoin qu’on lui explique comment facturer ; elle a besoin que les informations cessent de se croiser. Sur l’écran, une ligne qu’elle vient de parcourir lui paraît toujours neuve.\n\nAprès l’appel, elle prend son stylo violet pour comparer la note et le document. Le numéro de rue manque. Elle le voit avant l’envoi, mais la découverte la serre davantage que l’erreur elle-même. Depuis son épisode dépressif, maintenir son attention lui demande des reprises qu’elle ne connaissait pas à ce degré. « Le logiciel ne s’est pas compliqué pendant le week-end », murmure-t-elle. Marc revient avec sa question de livraison. Louise met la main sur le téléphone : elle devra rappeler, puis terminer une chose avant de recommencer l’autre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Savoir faire, mais perdre le fil",
+          "text": "Des difficultés à maintenir l’attention peuvent faire partie d’un épisode dépressif. Elles peuvent toucher une tâche connue : la connaissance du travail ne disparaît pas, mais son déroulement demande davantage de reprises. Dans l’appel d’Avel, Louise comprend les mots du client ; c’est la continuité entre l’écoute, la note et la saisie qui devient fragile. La scène ne mesure pas sa mémoire et ne permet pas de lui attribuer une incapacité professionnelle globale. Elle montre une difficulté actuelle dans un contexte précis. La vérification avant envoi reste une règle ordinaire de son travail, et le médecin peut évaluer avec elle ce qui change, ses conséquences et les aides adaptées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la concentration fragile se manifeste-t-elle dans le dossier Avel ?",
+          "points": [
+            {
+              "heading": "Perdre sa place au milieu d’un échange",
+              "text": "Une interruption oblige à retrouver le point où l’on était. Cette reprise peut absorber l’attention qui devait aller à l’information suivante.",
+              "examples": [
+                "La question de Marc détourne Louise de l’adresse ; elle ne sait plus quelle partie vient d’être saisie.",
+                "Pendant qu’elle retrouve le nom de la société, le client énonce la ville et le fil de l’appel se défait à nouveau."
+              ]
+            },
+            {
+              "heading": "Relire sans intégrer la suite",
+              "text": "Parcourir une ligne ne signifie pas toujours qu’on en a conservé le contenu pour l’action suivante. La répétition peut ainsi augmenter la fatigue sans fermer la tâche.",
+              "examples": [
+                "Louise relit le nom sur sa note, puis revient au même début au lieu de passer au numéro.",
+                "Devant l’écran après l’appel, elle reconnaît les mots sans retrouver immédiatement ce qu’elle devait vérifier ensuite."
+              ]
+            },
+            {
+              "heading": "Omettre un élément que le contrôle retrouve",
+              "text": "Le résultat intermédiaire peut être incomplet même si la procédure est connue. La qualité finale dépend aussi du temps laissé aux vérifications et aux corrections.",
+              "examples": [
+                "Le numéro de rue manque dans le document préparé, ce que Louise remarque en comparant ses supports.",
+                "Pour confirmer l’adresse complète, elle doit rappeler au lieu de déduire le chiffre absent ou d’envoyer en l’état."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir une tâche administrative précise",
+          "points": [
+            {
+              "heading": "Demander une information à la fois",
+              "objective": "Diminuer ce qu’il faut tenir ensemble entre l’écoute et la saisie.",
+              "exercise": [
+                "Interrompre poliment le flot : « Je vais reprendre champ par champ pour que ce soit exact. »",
+                "Faire préciser un élément, le reporter, puis demander le suivant.",
+                "Relire à l’interlocuteur les données nécessaires et confirmer ce qui manque avant de conclure."
+              ],
+              "benefit": "L’échange devient compatible avec l’attention disponible ce jour-là. La demande reste professionnelle et n’exige pas que Louise explique sa santé au client."
+            },
+            {
+              "heading": "Protéger la fin de l’envoi",
+              "objective": "Réduire les interruptions pendant une étape qui demande de tenir plusieurs informations en regard.",
+              "exercise": [
+                "Dire à Marc quelle opération est en cours : la vérification et l’envoi de la facture Avel.",
+                "Convenir qu’il gardera sa question administrative pour la fin de cette opération, sauf urgence réelle.",
+                "Faire la vérification ordinaire, envoyer seulement le document exact, puis reprendre l’échange convenu."
+              ],
+              "benefit": "Un accord bref peut éviter de recommencer plusieurs fois le même passage. Il aménage une tâche ; il ne sert pas à rééduquer ou tester les capacités de Louise."
+            },
+            {
+              "heading": "Présenter les reprises dans le suivi",
+              "objective": "Faire entendre un retentissement qui reste souvent invisible quand le document final est correct.",
+              "exercise": [
+                "Choisir un exemple précis : informations comprises mais fil perdu pendant l’appel.",
+                "Décrire les rappels, le temps supplémentaire et la fatigue associés, ainsi que les adaptations déjà tentées.",
+                "Discuter avec le médecin de la suite du suivi et des besoins si ce retentissement se maintient ou s’accentue."
+              ],
+              "benefit": "La qualité de la facture envoyée ne masque pas le coût nécessaire pour l’obtenir. Le médecin dispose d’un vécu concret sans que Louise produise un score sur elle-même."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une adresse confirmée avant l’envoi",
+      "ending": "Louise rappelle le propriétaire d’Avel et lui demande le numéro, puis reprend l’adresse complète avec lui. Elle corrige le champ vide. Le stylo violet suit la dernière comparaison entre la note et l’écran. Quand Marc se montre, elle dit : « Je viens te répondre quand cet envoi est fini. » Il referme doucement la porte.\n\nLa facture exacte part. Louise inscrit l’envoi dans le dossier comme elle le fait habituellement ; rien ne reste en suspens pour le client. Sa compétence lui a permis de contrôler et de corriger, mais cela lui a demandé davantage de travail. Elle ouvre ensuite le suivi de livraison pour Marc. Le soir, un message d’Agnès arrive : entre deux morceaux, lequel choisirait-elle pour Claire ? Les différences sont expliquées clairement. Louise les comprend, ce qui ne rend pas encore la décision facile.",
+      "conclusion": "La facture d’Avel est exacte, et les reprises qui l’ont rendue possible comptent aussi. Louise peut exercer son métier tout en décrivant une concentration fragile. Un résultat correct ne suffit pas à effacer son coût ni à juger son état clinique.",
+      "mirror": [
+        "Marc peut dire « Je garde ma question jusqu’à ton envoi », puis réellement attendre. Il n’a pas besoin de demander un diagnostic pour convenir d’un temps sans interruption. S’il observe une difficulté administrative, il peut la décrire sans généraliser : « Tu m’as demandé de reprendre ce point », plutôt que « Tu n’arrives plus à travailler ».",
+        "Agnès, de son côté, peut entendre que Louise ait terminé son travail et soit pourtant très sollicitée par cette matinée. Les proches n’ont pas à organiser des exercices de mémoire. Si les reprises deviennent plus fréquentes ou gênantes, ils peuvent proposer un soutien pour en parler au soignant, avec son accord."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Louise confirme l’adresse, corrige le numéro omis et envoie la facture exacte. Elle obtient un intervalle sans interruption de Marc ; le dossier Avel est clos.",
+        "next": "Agnès lui demande de choisir entre deux chansons. Les informations sont comprises, mais le choix devient le problème distinct de l’épisode suivant."
+      }
+    }
+  ]
+}

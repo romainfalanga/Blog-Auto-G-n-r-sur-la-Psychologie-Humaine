@@ -1,0 +1,323 @@
+{
+  "character_id": "constance",
+  "article_format": 2,
+  "bio": "Constance, 35 ans, est chargée de paie dans une entreprise de paysage. Le trouble anxieux et dépressif mixte donne chez elle une place envahissante aux conséquences possibles d'une erreur, tandis que ses sorties pour photographier les enseignes perdent leur attrait. Son humour précis demeure, comme son goût des disques chinés avec Lucile. Avec sa collègue Johanna, elle veut présenter des règles de remplacement qui permettent de s'absenter plus sereinement. Une évaluation médicale déjà engagée l'aide à comprendre ce qui lui arrive et à choisir la suite.",
+  "profile_topics": [
+    "Trouble anxieux et dépressif mixte",
+    "Pensées répétitives",
+    "Intérêt et plaisir émoussés",
+    "Effort pour continuer",
+    "Évaluation et suivi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "constance-effort-invisible",
+      "title": "L’effort invisible derrière un travail terminé",
+      "description": "Le dossier est clos, mais Constance reste au bureau. Le déjeuner manqué rend visible le coût de cette matinée.",
+      "context": "Une pause après la paie",
+      "topics": [
+        "Effort pour continuer",
+        "Retentissement quotidien",
+        "Évaluation en cours"
+      ],
+      "clinical_intro": "Un travail accompli peut cacher une difficulté importante lorsque la personne doit y consacrer beaucoup plus d'effort et ne retrouve plus de disponibilité ensuite. Le résultat ne raconte pas toute la journée. Décrire ce coût, au travail et ailleurs, peut aider un professionnel à comprendre ce qui se passe sans décider d'avance de son explication.",
+      "opening": "Le dernier contrôle est fait. Sur l'écran de Constance, la fenêtre du dossier a laissé place à la photographie d'une vieille enseigne de mercerie. Les lettres rouges penchent toutes du même côté. Elle avait aimé cette obstination assez comique, le jour où elle avait pris la photo. Aujourd'hui, elle regarde surtout l'heure dans le coin. Johanna attend depuis un moment près de la porte, son déjeuner à la main. Dans la cour de l'entreprise de paysage, deux collègues rangent leurs bottes avant de partir manger.\n\nConstance sait que la paie a suivi les contrôles habituels. Aucune information nouvelle ne demande de rouvrir le travail. Pourtant, elle imagine encore la conversation avec un salarié qui découvrirait une erreur. Puis une autre conversation, plus pénible. Elle reste assise sans toucher au clavier. « J'organise une réunion préparatoire à la pause », dit-elle à Johanna, qui sourit sans partir. Le sourire de Constance dure moins longtemps que la phrase.\n\nLe médecin lui a demandé, lors d'une première consultation, de revenir raconter comment ses journées se passent. Elle avait pensé répondre : tout est fait. Mais le petit appareil photo dans son sac lui semble maintenant un objet de plus à porter. Elle voulait profiter du déjeuner pour photographier une enseigne au bout de la rue. Elle ne veut même plus choisir une direction. Johanna montre la feuille des remplacements posée entre elles. « On peut choisir une seule rubrique après manger. » Constance voudrait accepter ; il lui faut encore trouver comment se lever avec cette inquiétude qui n'a pas reçu l'avis de fin de tâche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le résultat ne montre pas",
+          "text": "Le retentissement d'une difficulté se mesure aussi à l'effort nécessaire pour maintenir ses activités et à ce qui devient moins accessible autour. Dans l'évaluation de Constance, la qualité du travail est une information, mais le déjeuner retardé et la sortie photo abandonnée en sont d'autres. Ils ne livrent pas encore un diagnostic. Le médecin doit mettre ces faits en rapport avec leur histoire, leur durée, sa santé et ses différents contextes de vie. L'évaluation globale décrite par NICE pour la dépression adulte invite à explorer ces dimensions ; elle ne permet pas de nommer à distance ce que vit Constance. Son projet professionnel reste par ailleurs une tâche réelle, qu'elle peut vouloir mener sans que toute sa vie se résume à lui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le surcroît d’effort devient-il visible ?",
+          "points": [
+            {
+              "heading": "Rester retenue après la tâche",
+              "text": "Le temps passé devant le dossier n'est plus consacré à une vérification définie. L'appréhension occupe encore une attention dont Constance aurait besoin pour passer à autre chose.",
+              "examples": [
+                "Devant l'écran d'accueil, elle prépare une réponse à une erreur qu'aucun fait nouveau ne signale.",
+                "Alors que Johanna propose de sortir, elle reste tournée vers le bureau sans savoir ce qu'elle devrait y faire."
+              ]
+            },
+            {
+              "heading": "Perdre la pause disponible",
+              "text": "Un espace existe dans l'organisation, mais il devient difficile à utiliser. Ce décalage rend le coût plus concret qu'une appréciation générale de sa productivité.",
+              "examples": [
+                "Son déjeuner reste dans le sac pendant qu'elle déroule une conversation imaginaire.",
+                "Elle entend les collègues revenir de la cour et constate qu'une partie de sa pause est déjà passée."
+              ]
+            },
+            {
+              "heading": "Ne plus avoir de place pour un intérêt personnel",
+              "text": "L'effort déborde sur une activité qui n'est pas une obligation. Le changement mérite d'être raconté sans faire de l'appareil photo un instrument d'évaluation.",
+              "examples": [
+                "Elle avait choisi une enseigne à photographier à midi et ne parvient plus à envisager le détour.",
+                "Le poids de l'appareil lui vient à l'esprit avant la curiosité pour les lettres rouges qu'elle aime habituellement repérer."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre cet effort racontable",
+          "points": [
+            {
+              "heading": "Décrire une matinée au médecin",
+              "objective": "L'objectif est de donner un exemple du coût réel, au-delà de « j'arrive à travailler ».",
+              "exercise": [
+                "Choisir cette matinée, avec un début de tâche et un moment où le travail était terminé.",
+                "Noter la pause retardée et l'activité personnelle devenue moins accessible, avec ses propres mots.",
+                "Apporter cet exemple au rendez-vous déjà engagé et dire ce qui semble difficile à expliquer."
+              ],
+              "benefit": "Cette description peut enrichir l'évaluation. Elle ne transforme pas une journée en test et ne dispense pas le professionnel d'explorer d'autres explications."
+            },
+            {
+              "heading": "Distinguer une vérification d’une attente inquiète",
+              "objective": "L'objectif est de repérer ce qui demande encore une action professionnelle précise.",
+              "exercise": [
+                "Reprendre la consigne de contrôle ordinaire sans en supprimer d'étape.",
+                "Nommer l'information manquante s'il en existe une ; sinon constater qu'aucun élément nouveau n'est apparu.",
+                "Décider de la suite de la tâche selon les règles du travail, même si le sentiment de fin tarde à venir."
+              ],
+              "benefit": "Cette distinction peut éviter de confondre toute persistance de l'inquiétude avec une erreur à rechercher. Une question concrète reste à traiter lorsqu'elle existe."
+            },
+            {
+              "heading": "Convenir d’un relais pour la pause",
+              "objective": "L'objectif est de rendre possible un déjeuner sans exiger d'être d'abord rassurée sur tout.",
+              "exercise": [
+                "Demander à Johanna si elle est disponible pour convenir d'un relais limité.",
+                "Préciser ensemble quelle demande éventuelle doit être adressée à qui, selon l'organisation existante.",
+                "Partir déjeuner à l'heure convenue et garder le choix d'une seule rubrique pour leur reprise."
+              ],
+              "benefit": "Un accord circonscrit partage une tâche réelle. Johanna ne devient ni garante de l'absence d'erreur ni responsable de l'état de Constance."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une rubrique après déjeuner",
+      "ending": "Constance glisse le déjeuner dans sa main et ferme vraiment la session. Dans l'escalier, l'idée d'une erreur revient. Elle ne retourne pas au bureau : elle n'a pas identifié d'action nouvelle à y mener. Johanna lui demande quelle rubrique serait utile en premier. « Celle qui dit à qui parler. C'est un début assez ambitieux pour aujourd'hui. » Elles choisissent le relais des demandes, sans rédiger le reste au milieu des assiettes. Sur le dos d'une feuille, Constance écrit pour le médecin : travail terminé, vingt minutes assise, photo laissée de côté. Le repas est tardif et elle demeure soucieuse. Mais sa matinée ne sera plus résumée par le seul mot « fait ». Dimanche, elle doit retrouver Lucile à la brocante.",
+      "conclusion": "Le fonctionnement visible laisse parfois hors champ un effort considérable. Constance commence à raconter ce qui disparaît autour du travail ; cette information nourrit l'évaluation en cours, tandis qu'une première rubrique et un déjeuner trouvent leur place.",
+      "mirror": [
+        "Johanna peut partir du déjeuner qui attend : « Tu veux qu'on se mette d'accord sur le relais, puis qu'on mange ? » Elle propose une aide précise et laisse Constance répondre. Elle peut aussi dire qu'elle doit déjeuner maintenant, sans promettre de couvrir toute demande ni de rester disponible sans limite. La fatigue apparente ne lui donne pas accès au dossier médical. Si Constance évoque les difficultés qui persistent, elle peut l'encourager à en parler au médecin déjà rencontré, sans nommer elle-même un trouble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "clinical_focus": "Retentissement masqué par le surcroît d'effort",
+      "continuity": {
+        "choice": "Constance rejoint Johanna pour un déjeuner tardif, note le coût de la matinée pour le médecin et choisit la rubrique des relais.",
+        "next": "Une première rubrique existe, et Constance a un exemple à apporter au médecin. Le dimanche prévu avec Lucile permettra de voir ce qui se passe lorsque la paie n'occupe plus la scène."
+      },
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "slug": "constance-plaisir-emousse",
+      "title": "Le plaisir familier devenu difficile à rejoindre",
+      "description": "Un disque longtemps cherché apparaît à la brocante. Constance le reconnaît, mais son enthousiasme habituel ne suit pas.",
+      "context": "La brocante avec Lucile",
+      "topics": [
+        "Intérêt émoussé",
+        "Temps libre",
+        "Changement à raconter"
+      ],
+      "clinical_intro": "Reconnaître ce qui nous plaît et en éprouver le plaisir ne se confondent pas toujours. Une activité familière peut sembler lointaine alors qu'on lui reste attaché. Lorsque ce changement pèse sur la vie, le raconter dans son contexte aide l'évaluation ; un achat sans enthousiasme ou une sortie décevante ne suffisent pas à expliquer, seuls, ce qui arrive.",
+      "opening": "Lucile brandit la pochette orange au-dessus d'une caisse de disques. Elle n'a pas besoin de dire le titre : Constance reconnaît la rayure blanche dans le dessin, celle qu'elle avait décrite plusieurs fois en espérant retrouver l'album. Le vendeur annonce son prix. « L'orange bénéficie donc d'une majoration saisonnière », répond Constance. Lucile rit et retourne la pochette pour lire les morceaux. Tout est exactement comme elles l'avaient imaginé, jusqu'au carton un peu mou au bord.\n\nConstance attend la petite poussée d'enthousiasme qui lui faisait autrefois interrompre une conversation pour sortir quelques pièces. Elle sait qu'elle veut le disque, mais le désir paraît séparé du geste. Elle le prend, le repose, demande au vendeur s'il accepte de le garder cinq minutes. Lucile regarde la rue qui mène au vieux cinéma. Elles ont prévu de photographier l'enseigne avant que la lumière tourne. L'appareil dans le sac de Constance n'a pas encore servi. La promenade lui paraît aussi éloignée qu'un rendez-vous dans une ville inconnue.\n\nUne pensée revient à propos de la rubrique commencée avec Johanna : qui répondra si quelqu'un n'a pas vu le nom du relais ? Rien ne peut être réglé ici, entre les caisses. Constance n'en déroule pas moins plusieurs suites possibles. Elle baisse les yeux sur le disque. « J'avais commandé une trouvaille. Il manque l'enthousiasme dans la livraison. » Lucile ne cherche pas immédiatement à la faire rire davantage. Elle lui demande si elle veut encore regarder les livres, aller boire quelque chose ou rentrer. Constance hésite : choisir lui semble déjà plus accessible que devoir retrouver l'état d'esprit attendu.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un écart avec ses propres habitudes",
+          "text": "L'intérêt et le plaisir peuvent devenir moins accessibles au cours de difficultés de santé psychique, mais leur émoussement demande une appréciation d'ensemble. Constance n'a pas changé d'avis sur chaque disque ni cessé d'aimer Lucile. Elle constate un décalage entre une activité choisie et ce qu'elle ressent, tandis que les préoccupations restent présentes hors du travail. Le médecin pourra explorer cet écart avec les autres changements et leurs contextes. Une préférence qui évolue, une déception ponctuelle et un changement plus envahissant ne se déduisent pas les uns des autres. L'album acheté ne servira donc ni de preuve de maladie ni de certificat de bonne santé. Les principes de choix et d'évaluation globale de NICE concernent ici la manière de parler du changement ; ils n'établissent pas une conclusion pour Constance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le plaisir familier devient-il moins accessible ?",
+          "points": [
+            {
+              "heading": "Reconnaître sans retrouver l’élan",
+              "text": "Le souvenir du plaisir reste précis, tandis que l'expérience présente est terne. C'est le contraste qui attire l'attention, pas l'absence d'une réaction spectaculaire.",
+              "examples": [
+                "Constance identifie immédiatement le dessin de l'album qu'elle cherchait, mais retarde l'achat.",
+                "Elle trouve encore une plaisanterie sur le prix sans sentir l'enthousiasme qu'elle associe aux trouvailles."
+              ]
+            },
+            {
+              "heading": "Voir la prochaine activité s’éloigner",
+              "text": "Se projeter dans une sortie appréciée peut demander davantage. Renoncer à une étape ce dimanche ne permet pas de conclure qu'elle ne l'aimera plus.",
+              "examples": [
+                "Le trajet vers le cinéma paraît disproportionné par rapport à sa longueur réelle.",
+                "Elle garde l'appareil dans son sac, alors que l'enseigne était l'autre raison de leur rendez-vous."
+              ]
+            },
+            {
+              "heading": "Retrouver la préoccupation dans le loisir",
+              "text": "L'absence de travail en cours n'assure pas une disponibilité immédiate. L'inquiétude occupe le temps libre que Constance espérait consacrer à autre chose.",
+              "examples": [
+                "En lisant les titres du disque, elle imagine un collègue qui chercherait le relais au mauvais endroit.",
+                "Elle cherche une solution de bureau tandis que Lucile lui montre les livres de la table voisine."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder un choix dans une sortie terne",
+          "points": [
+            {
+              "heading": "Choisir un format plus court",
+              "objective": "L'objectif est de conserver une possibilité d'activité sans exiger qu'elle rende joyeuse.",
+              "exercise": [
+                "Repérer ce qui reste envisageable aujourd'hui, par exemple acheter le disque puis prendre un café.",
+                "Choisir une seule étape et laisser les autres pour une autre date, sans dette de plaisir.",
+                "À la fin, décider librement de rentrer ou de prolonger, sans évaluer sa santé à partir du ressenti."
+              ],
+              "benefit": "Un format ajustable peut préserver une activité choisie. Cet essai personnel n'est pas une thérapie structurée et ne garantit pas le retour du plaisir."
+            },
+            {
+              "heading": "Dire ce qui est possible à l’amie",
+              "objective": "L'objectif est de rendre le rendez-vous négociable plutôt que de jouer l'enthousiasme.",
+              "exercise": [
+                "Demander à Lucile un moment pour préciser son état et son souhait.",
+                "Dire une phrase concrète : « Je suis contente de te voir, mais la promenade me paraît trop longue aujourd'hui. »",
+                "Proposer une alternative et écouter aussi ce que Lucile veut faire, ensemble ou séparément."
+              ],
+              "benefit": "Une formulation précise peut limiter les malentendus. Elle n'oblige pas à expliquer sa santé et laisse à chacune une place dans la sortie."
+            },
+            {
+              "heading": "Raconter le changement au médecin",
+              "objective": "L'objectif est d'apporter un contexte personnel que le seul bilan du travail laisserait de côté.",
+              "exercise": [
+                "Choisir le contraste entre la recherche ancienne du disque et le peu d'élan ressenti à la brocante.",
+                "Préciser ce qui a changé dans d'autres moments, ou dire qu'on ne sait pas encore si cela se répète.",
+                "Présenter cet exemple au médecin avec celui du déjeuner retardé, sans chercher à les convertir en résultat."
+              ],
+              "benefit": "Des exemples de plusieurs contextes peuvent aider l'évaluation. Le professionnel garde la tâche d'en apprécier l'ensemble et les explications possibles."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le disque peut attendre d’être écouté",
+      "ending": "Constance revient vers le vendeur et achète le disque. Ce n'est ni une promesse d'aller mieux ni une obligation de le mettre dès ce soir. Avec Lucile, elle choisit un café à la sortie de la brocante. Pour les photos, elle propose le samedi suivant. « Je veux garder l'idée. Je n'ai pas la même place pour elle aujourd'hui. » Lucile accepte et lui raconte le livre absurde qu'elle vient de trouver. Constance écoute sans retrouver tout l'entrain attendu. Avant de partir, elle dit qu'elle parlera au médecin de cette drôle de distance. Le ticket rejoint la feuille du déjeuner dans son sac. Le cinéma attendra une autre lumière ; la sortie n'est pas devenue une épreuve qu'elles doivent réussir.",
+      "conclusion": "L'émoussement du plaisir prend ici la forme d'un écart avec une habitude chère, associé à une préoccupation qui persiste. Constance en parlera dans l'évaluation déjà engagée ; elle garde le disque et une invitation, sans leur demander une réponse médicale.",
+      "mirror": [
+        "Lucile peut reprendre les mots de Constance : « On peut acheter le disque et laisser les photos pour samedi. Qu'est-ce qui te convient ? » Elle n'a pas à multiplier les surprises pour obtenir un sourire. Elle peut maintenir son propre envie de brocante et convenir d'un moment où se séparer. Si Constance veut parler du changement, elle peut écouter et soutenir la démarche médicale, sans interpréter l'achat ou le report comme une preuve diagnostique. Le disque pourra rester un objet à partager, pas un test à répéter."
+      ],
+      "clinical_focus": "Émoussement du plaisir familier",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "under_assessment",
+      "continuity": {
+        "choice": "Constance achète le disque orange, choisit un café avec Lucile et reporte les photos au samedi suivant ; elle apportera le changement au médecin.",
+        "next": "Le disque orange reste chez Constance et la sortie photo est reportée, pas annulée. Elle apporte à la consultation le déjeuner perdu et la brocante devenue terne, deux contextes qui ne donnent pas encore une réponse."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "constance-comprendre-tableau-mixte",
+      "title": "Comprendre un tableau anxieux et dépressif mixte",
+      "description": "Au rendez-vous, Constance apporte le déjeuner perdu et le disque orange. Le médecin les replace dans une histoire plus large.",
+      "context": "Le diagnostic expliqué en consultation",
+      "topics": [
+        "Tableau mixte",
+        "Évaluation globale",
+        "Choix du suivi"
+      ],
+      "clinical_intro": "Le trouble anxieux et dépressif mixte désigne une association de difficultés anxieuses et dépressives dont le retentissement compte, même si chaque versant ne correspond pas séparément à un autre trouble complet. Ce diagnostic demande une évaluation professionnelle de l'ensemble. Comprendre les mots employés, les questions encore ouvertes et la suite proposée permet de participer aux décisions de soins.",
+      "opening": "Le ticket de brocante tombe de la feuille quand Constance l'étale sur le bureau du médecin. Elle le retourne, face imprimée dessous. « Ce n'est pas un justificatif de sortie », précise-t-elle. Elle avait préparé deux exemples : la pause passée à rester assise devant un travail clos et le disque retrouvé sans la joie attendue. Maintenant qu'elle est là, ils lui paraissent presque trop petits. Le médecin lui demande ce qui les rend différents de ses habitudes, puis reprend l'histoire commencée lors de leur premier rendez-vous.\n\nIls reparlent de la période où les difficultés sont devenues présentes, des moments sans travail et de ce qui s'est maintenu ou déplacé. Constance décrit une appréhension qui revient, la difficulté à se détendre et cette manière d'avoir moins envie, sans être triste à chaque seconde. Les feuilles de remplacement n'expliquent pas tout : le changement débordait déjà leur préparation. Le médecin revient aussi sur sa santé physique, les médicaments ou substances éventuels, les changements de prise et les périodes anciennes où l'humeur aurait été inhabituellement élevée. Il aborde sa sécurité. Il ne prétend pas que les deux feuilles répondent à toutes ces questions.\n\nPuis il lui explique qu'au vu de l'évaluation menée, il retient un trouble anxieux et dépressif mixte. Les difficultés anxieuses et dépressives sont présentes ensemble, avec un coût réel ; chacune, considérée séparément, ne remplit pas les exigences d'un autre trouble complet. « Donc ce n'est pas deux dossiers qu'on agrafe ? » demande Constance. Le médecin reprend la différence. Elle n'est pas certaine de tout retenir. Cette fois, elle le dit avant de ranger sa feuille.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une appréciation d’ensemble qui reste suivie",
+          "text": "Un diagnostic clinique rassemble une histoire, des manifestations et leur retentissement en examinant les explications pertinentes. Dans le trouble anxieux et dépressif mixte décrit par l'OMS, la coexistence ne se résume pas à une inquiétude ajoutée à un jour triste. Plusieurs manifestations anxieuses et le versant dépressif sont appréciés dans leur durée, leur étendue et leur intensité. Chaque versant ne remplit pas séparément les exigences d'un autre trouble anxieux ou dépressif ; cela ne minimise pas la souffrance. Ce terme ne désigne pas non plus un épisode mixte bipolaire. Le médecin considère notamment la santé physique, les effets de substances ou médicaments, l'histoire de l'humeur et les événements de vie. Le projet de Constance ne devient pas une cause unique par sa présence dans le récit. Le suivi permet de reprendre ces questions si les faits changent, sans présenter aujourd'hui une exclusion médicale définitive. Les principes de choix et de suivi de NICE sur la dépression adulte éclairent la discussion ; ils ne constituent pas un protocole spécifique à ce diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le tableau prend-il sens dans l’histoire de Constance ?",
+          "points": [
+            {
+              "heading": "Une appréhension et un élan diminué ensemble",
+              "text": "Ces dimensions coexistent dans sa vie sans suivre chacune une frontière de lieu ou d'horaire. Leur rapprochement est réalisé par le médecin, pas par un calcul de signes.",
+              "examples": [
+                "Au bureau, l'idée d'une erreur demeure après les contrôles et laisse peu de place à la sortie photo.",
+                "À la brocante, la trouvaille reste terne tandis que des conséquences professionnelles possibles continuent de l'occuper."
+              ]
+            },
+            {
+              "heading": "Un coût que les résultats masquent",
+              "text": "La réalisation d'une activité ne dit pas combien elle demande ni ce qu'elle laisse disponible ensuite. Ce coût fait partie du retentissement discuté.",
+              "examples": [
+                "Constance peut dire que la paie est terminée tout en racontant le déjeuner qui n'a pas commencé.",
+                "Elle sait plaisanter avec Lucile et doit pourtant renoncer à une promenade attendue."
+              ]
+            },
+            {
+              "heading": "Plusieurs contextes à relier",
+              "text": "Les détails du quotidien éclairent le tableau, avec leur histoire et leurs différences. Ils ne sont pas des critères à cocher chez quelqu'un d'autre.",
+              "examples": [
+                "Le médecin demande ce qui se passe hors des journées de paie au lieu de limiter l'entretien au risque d'erreur.",
+                "Le ticket de brocante sert à retrouver une scène personnelle, tandis que les questions sur sa santé restent examinées à part."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour participer à l’explication et à la suite",
+          "points": [
+            {
+              "heading": "Reformuler les mots reçus",
+              "objective": "L'objectif est de vérifier sa compréhension sans devoir tout mémoriser immédiatement.",
+              "exercise": [
+                "Choisir une phrase de l'explication qui reste incertaine, comme la place des deux versants.",
+                "La redire avec ses mots au médecin et lui demander ce qui doit être précisé.",
+                "Garder une courte formulation comprise ensemble, si on souhaite une trace personnelle."
+              ],
+              "benefit": "La reformulation ouvre une correction possible. Elle ne demande pas à Constance de refaire l'évaluation ni de maîtriser une classification."
+            },
+            {
+              "heading": "Demander ce qui reste ouvert",
+              "objective": "L'objectif est de distinguer le diagnostic retenu des questions qui continuent d'être examinées.",
+              "exercise": [
+                "Dire quelle interrogation reste importante, par exemple le rapport entre les difficultés et le travail.",
+                "Demander au professionnel quels éléments de santé ou de contexte doivent encore être repris.",
+                "Vérifier comment signaler un changement et dans quelles circonstances le recontacter plus tôt."
+              ],
+              "benefit": "Une incertitude nommée peut devenir un sujet de suivi. L'entretien ne promet pas une explication définitive à toutes les sensations futures."
+            },
+            {
+              "heading": "Convenir d’une aide et d’un contact",
+              "objective": "L'objectif est de participer à une suite adaptée à ses besoins et préférences.",
+              "exercise": [
+                "Dire ce qu'on espère pouvoir aborder dans l'aide proposée et ce qui inquiète dans sa mise en place.",
+                "Discuter les possibilités avec le médecin et demander les informations nécessaires au choix.",
+                "Noter le rendez-vous ou le contact convenu et qui joindre si la situation change avant."
+              ],
+              "benefit": "Un accord explicite rend la suite plus concrète. Les aides retenues sont discutées en soins ; elles ne découlent pas d'un traitement standard inventé pour ce récit."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une feuille pour elle",
+      "ending": "Constance reprend : « Vous regardez ce qui se passe ensemble, et le fait que je travaille ne veut pas dire que ça ne coûte rien. » Le médecin précise ce qu'elle a bien compris et lui répond sur les éléments encore à examiner. Ils conviennent d'une aide psychologique et d'un rendez-vous de suivi ; elle sait comment reprendre contact si les difficultés changent ou deviennent préoccupantes. Elle glisse les informations dans une enveloppe, derrière le ticket. Johanna attend une rubrique, pas ce compte rendu. Elle ne décide pas de lui raconter la consultation. Dans le hall, une affiche annonce une écoute musicale à la médiathèque : un morceau du disque orange y figure. Constance note la date. Le choix d'y aller restera distinct des décisions de soin qu'elle vient de prendre.",
+      "conclusion": "L'explication rapproche des difficultés que Constance racontait séparément et leur rend un contexte. Le diagnostic est désormais connu d'elle, avec des questions à poursuivre et une aide convenue ; son partage au travail demeure un choix personnel.",
+      "mirror": [
+        "Un proche à qui Constance choisirait de parler peut demander : « Tu souhaites que je t'écoute, ou qu'on regarde ensemble ce qui a été convenu pour la suite ? » Il peut accepter qu'elle ne montre aucune feuille. Johanna, qui n'a pas reçu cette information, peut continuer à parler du projet sans chercher la réponse médicale. Aucun entourage n'a à vérifier la justesse du diagnostic à partir des activités du week-end. Si une difficulté devient préoccupante, soutenir le contact professionnel est plus adapté que proposer soi-même une nouvelle étiquette."
+      ],
+      "clinical_focus": "Appréciation clinique du tableau mixte",
+      "sources": [
+        "oms-cddr",
+        "nice-depression-constance"
+      ],
+      "diagnostic_stage": "diagnosis_explained",
+      "continuity": {
+        "choice": "Le médecin explique le diagnostic, convient avec Constance d'une aide psychologique et du suivi ; elle garde le compte rendu privé et repère une écoute à la médiathèque.",
+        "next": "Le diagnostic est expliqué et le suivi est organisé. Constance sait qui recontacter et n'a pas promis d'en informer le bureau. Elle décide d'essayer une soirée d'écoute musicale à la médiathèque avant de reprendre le travail avec Johanna."
+      }
+    }
+  ]
+}
