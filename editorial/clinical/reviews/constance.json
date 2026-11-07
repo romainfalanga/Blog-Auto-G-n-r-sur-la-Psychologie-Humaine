@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "constance",
+  "reviewer": "review_constance",
+  "reviewed_on": "2026-11-07",
+  "status": "passed",
+  "summary": "Lecture indépendante intégrale des douze épisodes, dans l’ordre, avec le canon, le design gelé, le dossier, la charte et le modèle d’alexithymie. Les douze aspects prévus sont distincts, perceptibles dans les scènes et développés par les exemples et les trois appuis. Le CDDR 6A73, pages 258–260, soutient la coexistence anxieuse et dépressive, le retentissement malgré le travail accompli et l’appréciation professionnelle de chaque versant. Les épisodes 1–2 conservent l’évaluation ouverte ; le médecin explique le diagnostic en 3 puis réévalue réellement en 11. Attention détournée, nuit hachée et autocritique ne deviennent pas un ensemble durable arbitrairement compatible avec plusieurs diagnostics ajoutés. NG222 reste une recommandation anglaise sur la dépression adulte, consultée dans son texte officiel indexé ; le guide OMS de gestion du stress garde une portée générale. Aucun n’est présenté comme protocole spécifique ou preuve d’efficacité des adaptations fictives du 6A73. Les contrôles professionnels, les limites de Johanna, le consentement de Lucile et la confidentialité sont conservés. Le circuit exceptionnel et le rangement sont décidés puis présentés, avec un retour d’expérience daté. Le suivi persiste au-delà de cette résolution sans annonce de guérison. Aucune correction en attente après cette lecture.",
+  "files": {
+    "editorial/clinical/designs/constance.json": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+    "editorial/clinical/dossiers/constance.json": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+    "editorial/clinical/constance.json": "ca2e8d0eb85e94b0720c598a68eb6143f42955de8e6c2f298a3b58352a2a374e"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Retentissement masqué par le surcroît d'effort",
+      "opening_quote": "Constance sait que la paie a suivi les contrôles habituels. Aucune information nouvelle ne demande de rouvrir le travail.",
+      "ending_quote": "Sur le dos d'une feuille, Constance écrit pour le médecin : travail terminé, vingt minutes assise, photo laissée de côté.",
+      "continuity_note": "Le bureau de paie, l’entreprise de paysage, la photo d’enseigne et l’humour administratif établissent la voix et le cadre canoniques. Le déjeuner a effectivement lieu et la première rubrique concerne le relais ; la brocante du dimanche prépare une scène hors travail.",
+      "clinical_note": "La pause perdue et la photo abandonnée montrent le coût derrière un résultat correct. L’évaluation médicale est déjà engagée mais aucun diagnostic n’est annoncé. Les appuis décrivent le retentissement, gardent les contrôles requis et organisent un relais limité sans promettre de faire disparaître l’appréhension.",
+      "relatives_note": "Johanna peut proposer un accord sur le relais puis déjeuner, ou annoncer qu’elle doit partir. Elle ne garantit pas l’absence d’erreur, ne réclame pas les informations médicales et renvoie les difficultés persistantes au médecin déjà rencontré."
+    },
+    {
+      "number": 2,
+      "focus": "Émoussement du plaisir familier",
+      "opening_quote": "Elle sait qu'elle veut le disque, mais le désir paraît séparé du geste.",
+      "ending_quote": "Le ticket rejoint la feuille du déjeuner dans son sac.",
+      "continuity_note": "La pochette orange cherchée avec Lucile est achetée, le café maintenu et les photos reportées au samedi. Le ticket et la feuille du déjeuner deviennent deux exemples concrets pour la consultation ; le disque n’est pas encore écouté ensemble.",
+      "clinical_note": "La reconnaissance précise de l’album et la plaisanterie coexistent avec peu d’élan, tandis que la préoccupation revient hors du bureau. La scène reste sous évaluation, sans transformer une sortie terne en diagnostic. Format ajustable, négociation amicale et récit au médecin restent facultatifs et sans dette de plaisir.",
+      "relatives_note": "Lucile peut accepter le café et le report des photos tout en gardant sa propre envie de brocante. Elle ne multiplie pas les surprises pour obtenir un sourire et n’utilise ni l’achat ni l’annulation partielle pour juger de la santé de Constance."
+    },
+    {
+      "number": 3,
+      "focus": "Appréciation clinique du tableau mixte",
+      "opening_quote": "Puis il lui explique qu'au vu de l'évaluation menée, il retient un trouble anxieux et dépressif mixte.",
+      "ending_quote": "Ils conviennent d'une aide psychologique et d'un rendez-vous de suivi ; elle sait comment reprendre contact si les difficultés changent ou deviennent préoccupantes.",
+      "continuity_note": "Les exemples du déjeuner et de la brocante entrent dans l’histoire médicale déjà commencée. Le diagnostic est expliqué à l’épisode prévu, l’aide et le suivi sont convenus, et la soirée de médiathèque naît d’une affiche sans devenir un soin prescrit.",
+      "clinical_note": "Le médecin explore durée, contextes, santé, substances ou médicaments, histoire d’élévation de l’humeur et sécurité. Plusieurs manifestations anxieuses et le versant dépressif sont appréciés globalement, chaque versant restant sous les exigences d’un autre trouble complet. Aucun barème ni traitement standard du 6A73 n’est donné ; les trois appuis soutiennent les décisions partagées.",
+      "relatives_note": "Le compte rendu reste privé et Johanna n’a pas reçu le diagnostic. Le proche éventuellement informé peut demander si Constance souhaite être écoutée ou regarder la suite convenue, sans exiger la feuille ni vérifier lui-même la justesse de l’évaluation."
+    },
+    {
+      "number": 4,
+      "focus": "Tension anxieuse pendant les pauses",
+      "opening_quote": "Cette tension familière a déjà été évoquée avec le médecin ; le nom expliqué en consultation n'a pas rendu les pauses faciles d'un seul coup.",
+      "ending_quote": "Une fois chez elle, elle glisse le papier dans la pochette orange et écrit au crayon : à faire écouter.",
+      "continuity_note": "L’écoute annoncée après la consultation a lieu. Constance choisit un extrait supplémentaire puis rentre ; le passage noté dans la pochette orange pourra être partagé avec Lucile, et le retour de Johanna sur la rubrique attend le lendemain.",
+      "clinical_note": "Les épaules hautes, le regard vers la porte et l’attente de la fin illustrent la difficulté à se détendre décrite pour 6A73. Le confort et l’attention à un détail sont des adaptations générales inspirées du guide OMS. Une sensation nouvelle ou préoccupante appelle une évaluation adaptée, sans prolongation forcée d’un exercice d’apaisement.",
+      "relatives_note": "Lucile, si elle reçoit le récit, peut s’intéresser au morceau gardé sans commenter la durée passée dans la salle. Elle ne prescrit pas une séance entière et soutient une appréciation professionnelle si un changement physique préoccupant est rapporté."
+    },
+    {
+      "number": 5,
+      "focus": "Pensées répétitives sans solution nouvelle",
+      "opening_quote": "La question de rangement est encore réelle. Les procès qu'elle déroule autour n'en font pas avancer la réponse.",
+      "ending_quote": "Elles laissent sur une note la décision de rangement à confirmer.",
+      "continuity_note": "L’ancienne impression est retirée du paquet d’essai et la version correcte identifiée. Le responsable devra encore décider du rangement de référence ; cette question reste explicitement ouverte jusqu’à l’épisode 10. La lecture d’essai peut maintenant porter sur une version précise.",
+      "clinical_note": "La remarque de Johanna est fondée avant que la pensée s’étende vers des scénarios sans information nouvelle. Cette répétition narrative n’est pas présentée comme exclusive du trouble ni comme TOC. Les trois appuis séparent fait et question, gardent une action utile et portent le retentissement au professionnel sans ritualiser la note en garantie.",
+      "relatives_note": "Johanna peut préciser la version utilisée et le temps qu’elle a pour le rangement, puis reprendre son travail. Elle refuse des garanties illimitées sans ridicule ni exigence de confidence ; la souffrance et les pensées répétitives restent appréciées dans le soin."
+    },
+    {
+      "number": 6,
+      "focus": "Attention détournée par la préoccupation",
+      "opening_quote": "Elle accuse le texte avant d'avoir vérifié qu'elle l'a compris.",
+      "ending_quote": "L'essai peut être transmis au responsable avec la question de rangement déjà isolée.",
+      "continuity_note": "L’essai ne contient pas de données personnelles. Une question redite permet de retrouver la rubrique et une expression réellement ambiguë reste à simplifier ; la scène distingue ce défaut du texte de l’attention momentanément détournée, puis transmet l’essai au responsable.",
+      "clinical_note": "Les mots parcourus sans sens retenu, la question perdue et l’effort de reprise sont situés dans cette lecture. Ils ne deviennent ni déficit cognitif ni épisode dépressif complet. Les appuis reprennent une question et reformulent avant correction ; une difficulté répétée ou étendue reste à évaluer, avec maintien des vérifications professionnelles.",
+      "relatives_note": "Johanna peut simplement redire la question et limiter le temps d’essai. Elle conserve son retour sur la phrase ambiguë sans chercher la cause médicale du décrochage ni tester toutes les conversations suivantes ; elle peut soutenir le recours professionnel si Constance décrit des répétitions."
+    },
+    {
+      "number": 7,
+      "focus": "Sommeil et fatigue à réévaluer",
+      "opening_quote": "Pourtant le bruit a compté, les pensées aussi, et elle ne sait pas quelle place donner à chaque élément.",
+      "ending_quote": "Constance reste fatiguée. Une image a tout de même été choisie, tandis que l'explication de la fatigue demeure à reprendre dans le bon cadre.",
+      "continuity_note": "La promenade photo reportée depuis la brocante est encore trop exigeante ce matin ; Lucile est prévenue et garde son programme. La photo depuis la fenêtre remplace une activité facultative, tandis que l’exemple de nuit et le contact médical sont conservés pour le suivi.",
+      "clinical_note": "Le camion, l’attente occupée par les pensées et la fatigue matinale laissent plusieurs facteurs à examiner. Une nuit hachée ne devient ni insomnie diagnostiquée ni preuve d’épisode dépressif. Récit bref, ajustement facultatif et recours si persistance ou changement préoccupant n’incluent aucun protocole de restriction du sommeil ni conseil médicamenteux.",
+      "relatives_note": "Lucile peut faire sa promenade de son côté et proposer un autre contact. La photo envoyée ne démontre pas que la fatigue a disparu ; l’amie ne surveille pas le repos, ne conseille pas un médicament et ne porte pas la responsabilité du sommeil."
+    },
+    {
+      "number": 8,
+      "focus": "Autocritique qui entretient le découragement",
+      "opening_quote": "Elle voit une version diminuée d'une journée qu'elle aurait dû mieux remplir.",
+      "ending_quote": "Constance note la phrase sur le courage pour en parler dans l'aide engagée.",
+      "continuity_note": "La photo de fenêtre, la nuit déjà notée et le disque orange reviennent sans effacer les décisions antérieures. Le disque est enfin écouté avec Lucile ; celle-ci préfère un autre morceau, et une sortie courte est fixée pour le samedi suivant.",
+      "clinical_note": "Le reproche de ne pas traverser la rue réduit un choix réel à ce qui manque et ajoute une condition à la musique. L’autocritique reste liée à cette situation, sans indignité globale ou persistante inventée. Les appuis essaient des mots sobres et apportent une phrase au soin ; la bienveillance générale du guide OMS n’est pas une efficacité démontrée pour cette adaptation.",
+      "relatives_note": "Lucile peut reconnaître le regret et proposer le disque, accepter un refus et conserver ses propres goûts. Elle n’a pas à dresser des preuves de valeur ni contester chaque mot jusqu’à convaincre Constance ; les reproches qui rétrécissent les activités peuvent être repris professionnellement."
+    },
+    {
+      "number": 9,
+      "focus": "Retrait devant les relations attendues",
+      "opening_quote": "Constance n'a pas cessé de vouloir la voir ; elle aimerait seulement arriver avec plus d'envie et moins d'inquiétude.",
+      "ending_quote": "Au carrefour convenu, elles se séparent.",
+      "continuity_note": "Le samedi promis arrive après l’écoute du disque. Le message non envoyé est remplacé par une proposition à laquelle Lucile consent ; la rue du cinéma est réellement parcourue et la séparation annoncée respectée. La photo rejoint celle de la fenêtre avant le retour au problème professionnel.",
+      "clinical_note": "L’appréhension d’être un poids et le moindre élan convergent vers l’annulation malgré l’attachement. Le texte préserve la solitude et le refus possibles, sans faire de toute annulation un symptôme. Format annoncé, trajet réversible et discussion des retraits répétés restent des choix amicaux ; la distinction avec l’activation comportementale structurée est explicite.",
+      "relatives_note": "Lucile accepte une rue puis poursuit vers la librairie ; elle ne promet pas de porter toute la journée. Une annulation reste possible sans faute ni bilan d’humeur final. L’amie garde ses activités et peut soutenir le soin lorsque l’inaccessibilité des rendez-vous devient répétée et pénible."
+    },
+    {
+      "number": 10,
+      "focus": "Inquiétude et contraintes concrètes",
+      "opening_quote": "Il manque un arbitrage ; il ne manque pas tout.",
+      "ending_quote": "Ils fixent le retour d'expérience au 24 novembre, à 10 heures, et confirment la présentation.",
+      "continuity_note": "La phrase simplifiée fonctionne mais les absences simultanées révèlent une vraie lacune. Le responsable désigne son rôle pour les exceptions et l’espace commun pour la référence, fermant aussi la question de rangement de l’épisode 5. La présentation et le retour d’expérience sont effectivement confirmés.",
+      "clinical_note": "L’absence d’un circuit est vérifiable ; l’extension vers l’inutilité du projet illustre l’appréhension et le découragement sans réduire la contrainte à la santé. Les trois appuis identifient le manque, sollicitent l’arbitrage compétent et réservent l’inquiétude persistante au suivi. Aucune règle juridique ou procédure de paie n’est inventée.",
+      "relatives_note": "Johanna pose sa limite sur les absences et demande une décision au responsable. Celui-ci répond sur l’organisation sans dossier médical ; ni le collègue ni le soignant ne reçoit la responsabilité de prévoir ou traiter tout ce qui appartient à l’autre périmètre."
+    },
+    {
+      "number": 11,
+      "focus": "Variations et réévaluation dans le temps",
+      "opening_quote": "Elle reprend la nuit hachée, le bruit du camion et l'appréhension qui avait suivi. Elle ne prétend pas que cette nuit a ressemblé à toutes les autres.",
+      "ending_quote": "Le prochain contact est fixé après la présentation ; Constance sait comment signaler plus tôt une modification préoccupante.",
+      "continuity_note": "Le rendez-vous annoncé a lieu et reprend photo du cinéma, matinée pesante, nuit et inquiétude après l’arbitrage. L’aide psychologique et ce qui reste à y apporter sont discutés ; un contact est fixé au-delà de la présentation, dont la préparation n’exige aucune confidence aux collègues.",
+      "clinical_note": "La trajectoire comprend des contextes contrastés sans déclarer attention, sommeil et autocritique tous durables et marqués ensemble. Le médecin réexamine santé, humeur, anxiété et circonstances sans diagnostic nouveau ni rémission déduits d’une journée. Les trois appuis gardent des exemples limités, les modalités de contact et les préférences dans l’ajustement de l’aide.",
+      "relatives_note": "Lucile peut entendre le samedi et le matin difficile sans choisir lequel ferait preuve. Elle ne réclame pas le compte rendu ; Johanna reste dans le projet. Un changement préoccupant appelle un appui vers le recours professionnel convenu avec accord et limites appropriés."
+    },
+    {
+      "number": 12,
+      "focus": "Participation malgré des difficultés persistantes",
+      "opening_quote": "Le rendez-vous médical suivant est déjà fixé ; la réunion ne décidera pas de son maintien.",
+      "ending_quote": "Les collègues retrouvent le document dans l'espace commun choisi et savent à qui adresser les exceptions.",
+      "continuity_note": "La présentation a réellement lieu, Johanna expose et répond à sa partie, le responsable reprend les exceptions et les consignes sont accessibles. Le 24 novembre à 10 heures reste la date du retour d’expérience. La photo avec Lucile est réalisée et le contact de soin reste prévu au-delà de l’enjeu résolu.",
+      "clinical_note": "La tension, le doute et l’effort demeurent pendant une participation effective : le fonctionnement n’est pas une preuve de guérison. Les trois appuis gardent le partage convenu, le traitement des questions réelles et la valeur du soin et du temps personnel. Les principes OMS et NICE ne transforment pas l’organisation en traitement du 6A73.",
+      "relatives_note": "La phrase de Johanna sur sa rubrique et le responsable montre une aide réellement partagée sans prise en charge de l’état de Constance. Lucile peut parler du cadrage et accepter une présence brève ; aucune ne transforme la journée en verdict sur l’évolution ou n’exige un récit de santé."
+    }
+  ]
+}

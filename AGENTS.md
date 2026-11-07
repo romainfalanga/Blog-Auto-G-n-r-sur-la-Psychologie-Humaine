@@ -1,0 +1,13 @@
+# Reprendre le chantier éditorial
+
+Avant d'écrire, lire `docs/agents-editoriaux.md`, `docs/etat-couverture.md` et `editorial/automation/state.json`. Ces fichiers et les manuscrits actuels font foi pour la progression ; un ancien résumé de conversation peut être périmé. Examiner `git status` et les brouillons existants avant toute reprise. Ne pas écraser ni recommencer des épisodes déjà sauvegardés.
+
+Pour le catalogue public, utiliser de vrais sous-agents distincts pour la création du personnage, la rédaction de sa série et la relecture indépendante. Suivre les cartes `editorial/agents/characters.md`, `stories.md` et `review.md`. Travailler sur plusieurs personnages en parallèle ; les douze épisodes d'un personnage restent écrits dans l'ordre par son rédacteur. Le contrôleur `scripts/editorial_pipeline.py` attribue et valide les missions ; il n'exécute aucun modèle. Ne pas présenter un simple brief ou une commande `claim` comme un agent qui rédige effectivement.
+
+La consigne établie est de produire ces histoires ici, sans appel d'API de génération ni GitHub Actions de production publique. Le fournisseur existant du service personnel reste séparé. Les tests CI et l'analyse privée du portrait ne constituent pas des générateurs du catalogue public.
+
+Respecter la charte et le modèle d'alexithymie en couple. Chaque épisode doit illustrer un aspect réel et distinct du trouble, fondé sur le dossier de sources. Les contrôles de format, citations et empreintes ne remplacent pas la relecture des faits, des raccords et des conseils aux proches.
+
+Sauvegarder régulièrement le code et les brouillons dans Git, et vérifier les empreintes transférées. Un manuscrit en cours peut être sauvegardé sur une branche de travail sans être publié. Après une panne, vérifier ce qui est réellement présent et restaurer les sources sauvegardées ; une écriture lancée sans résultat ne prouve pas une sauvegarde.
+
+Une publication nécessite le rapport indépendant accepté, l'intégration, les vérifications du projet et la vérification du déploiement distant. `publish` contrôle les fichiers locaux et ne déploie pas lui-même le site. Ne pas confondre un code de classification couvert par renvoi, un concept indexé, un plan prêt et un épisode effectivement rédigé et publié. Conserver toutes les lacunes restantes dans l'état de couverture.

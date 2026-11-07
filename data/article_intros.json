@@ -1031,6 +1031,78 @@
     "method": "definition_excerpt",
     "source_body_sha256": "62b3ab81393a1593f97436011cc582670b54d8fb2bf54cd89b41107f417a288b"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-attention-detournee": {
+    "text": "Une préoccupation peut occuper l'attention au moment même où l'on lit ou écoute. La personne a parcouru les mots, mais ne retrouve plus ce qu'ils disaient. Cette difficulté située ne suffit pas à conclure à un déficit ni à un nouveau diagnostic. Lorsqu'elle se répète ou s'étend, sa place et son retentissement méritent d'être discutés dans le suivi.",
+    "source_heading": "Attention détournée par la préoccupation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8bbe6885b626b6adc1f0e39cab8c463013a4bf2a1714a3f9559a3f47c281d423"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-autocritique-decouragement": {
+    "text": "Un jugement sévère peut prendre la place du récit d'une difficulté et rendre la prochaine action moins accessible. La personne ne voit plus ce qu'elle a choisi, seulement ce qui manque. Dans un tableau anxieux et dépressif mixte, ce découragement mérite d'être entendu sans conclure à une conviction générale d'indignité. Chercher des mots moins durs reste une possibilité, sans obligation de se sentir mieux.",
+    "source_heading": "Autocritique qui entretient le découragement",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "14ed544b71827efa8149e16988a10e145943362954b7761ecf74e3b641fe16bf"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-comprendre-tableau-mixte": {
+    "text": "Le trouble anxieux et dépressif mixte désigne une association de difficultés anxieuses et dépressives dont le retentissement compte, même si chaque versant ne correspond pas séparément à un autre trouble complet. Ce diagnostic demande une évaluation professionnelle de l'ensemble. Comprendre les mots employés, les questions encore ouvertes et la suite proposée permet de participer aux décisions de soins.",
+    "source_heading": "Appréciation clinique du tableau mixte",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ca0d7629bcb67d7006ecc12faa56d419c4a54cbed9660e75e824b0409b7cd8f7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-contrainte-reelle-anticipation": {
+    "text": "Une inquiétude peut signaler un problème concret tout en s'étendant vers des conséquences encore hypothétiques. Un diagnostic connu ne permet pas de décider que toute difficulté vient de la personne. Nommer l'information manquante et demander la décision à qui elle appartient préserve la réalité de la situation ; l'appréhension qui demeure peut, séparément, être discutée dans le suivi.",
+    "source_heading": "Inquiétude et contraintes concrètes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "a8cd5329251c6f9e6075dd77460db5ec9bc34950323dc03d24a300180e3d7667"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-effort-invisible": {
+    "text": "Un travail accompli peut cacher une difficulté importante lorsque la personne doit y consacrer beaucoup plus d'effort et ne retrouve plus de disponibilité ensuite. Le résultat ne raconte pas toute la journée. Décrire ce coût, au travail et ailleurs, peut aider un professionnel à comprendre ce qui se passe sans décider d'avance de son explication.",
+    "source_heading": "Retentissement masqué par le surcroît d'effort",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "3570ac06c2255055dd92b6b64824747ab82d470edb55315482fdb9111dfc7fa7"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-participer-difficultes-persistantes": {
+    "text": "Prendre part à une activité importante peut rester possible avec des difficultés présentes et des appuis choisis. La participation ne mesure pas à elle seule l'évolution d'un trouble anxieux et dépressif mixte. Répartir les rôles, traiter les questions réelles et préserver une vie hors de l'effort donnent un cadre concret, tandis que le suivi conserve son propre rythme.",
+    "source_heading": "Participation malgré des difficultés persistantes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f248ebcd069f890c1e52156fc8d87235aadae7970d9939dd6fe7725002c44469"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-pensees-sans-solution": {
+    "text": "Revenir sur une difficulté peut aider à la résoudre lorsqu'une question précise reste ouverte. Mais la pensée peut continuer après la réponse, puis passer à d'autres conséquences possibles. Dans un tableau anxieux et dépressif mixte, cette persistance peut prendre une place pénible et décourageante. Distinguer le fait traité de l'incertitude restante préserve les actions utiles sans exiger une certitude totale.",
+    "source_heading": "Pensées répétitives sans solution nouvelle",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4da7ca19ce82716139d7d2fe215e8f09565ee052bc58584e0131bc91a1fb877c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-plaisir-emousse": {
+    "text": "Reconnaître ce qui nous plaît et en éprouver le plaisir ne se confondent pas toujours. Une activité familière peut sembler lointaine alors qu'on lui reste attaché. Lorsque ce changement pèse sur la vie, le raconter dans son contexte aide l'évaluation ; un achat sans enthousiasme ou une sortie décevante ne suffisent pas à expliquer, seuls, ce qui arrive.",
+    "source_heading": "Émoussement du plaisir familier",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "958d45164b7e7197991913b314e69c76a911930de1110f3ab3f46670ec890382"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-retrait-relations": {
+    "text": "L'appréhension et le moindre élan peuvent conduire à se retirer d'un rendez-vous avec une personne à laquelle on reste attaché. Le retrait peut alors réduire les occasions de lien, sans traduire un désintérêt pour l'autre. Un format discuté peut rendre une rencontre envisageable ; il doit conserver le droit de refuser, d'écourter et de chercher une aide si les difficultés persistent.",
+    "source_heading": "Retrait devant les relations attendues",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6ca5a9291854dc6c0a4e4d535a6b4d38ec5a15f91f4216f5835d02964d83c7db"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-sommeil-fatigue": {
+    "text": "Une nuit interrompue peut rendre la matinée plus difficile, mais le contexte d'un réveil et l'histoire des difficultés comptent pour en comprendre la place. Dans un suivi anxieux et dépressif, sommeil et énergie peuvent être réexaminés sans attribuer toute fatigue au diagnostic connu. Décrire ce qui s'est passé et ajuster une exigence facultative sont des appuis, pas un traitement du sommeil.",
+    "source_heading": "Sommeil et fatigue à réévaluer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d495cfa57e5514a5fa109d9aad2397b53eb03bf088335fa5ae86f0b0f5167d08"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-tension-pendant-pause": {
+    "text": "Disposer d'un moment libre n'entraîne pas toujours une sensation de repos. Dans un tableau anxieux et dépressif mixte, la difficulté à se détendre peut rendre une activité choisie pénible, puis décourageante. Des ajustements modestes restent possibles, sans exiger un apaisement immédiat. Une sensation nouvelle ou préoccupante mérite cependant une évaluation adaptée et ne doit pas être attribuée automatiquement à l'anxiété.",
+    "source_heading": "Tension anxieuse pendant les pauses",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6620f741ef4bfefac97a883c216ee74b942ba0a932b4e16911526e45eb5bd45d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-variations-reevaluation": {
+    "text": "L'évolution d'un trouble anxieux et dépressif mixte s'apprécie dans le temps et dans plusieurs contextes. Un moment apprécié n'annule pas les difficultés ; une journée plus pénible ne suffit pas à conclure à un nouveau trouble ou à effacer les changements. Le suivi aide à examiner ce qui reste préoccupant et à ajuster l'aide avec la personne, sans calendrier de guérison imposé.",
+    "source_heading": "Variations et réévaluation dans le temps",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "5f57bfbbc275b2c16a0d8ea3ad8fa0f55256589497d918c3f915b7b1b77a7d2d"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir": {
     "text": "La culpabilité peut apparaître quand on pense avoir agi contre une valeur ou causé du tort. Dans une étude de June Price Tangney, les étudiants associaient souvent la culpabilité à une faute précise et la honte au regard porté sur eux.",
     "source_heading": "Définition de la culpabilité parentale",
@@ -1832,6 +1904,78 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "36a3a467e795fac943bdab1ca43a281fdd88f032574231f6e9af8553fee6a32a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires": {
+    "text": "L’attention tournée vers soi pendant un échange peut être une piste à explorer dans la compréhension individuelle du trouble de perception olfactive. Elle ne constitue pas un mécanisme universel établi. Fanny, dont le diagnostic est connu, surveille sa propre présence au point de perdre le propos d’une autrice. Son besoin immédiat concerne les mots qu’elle aimerait réellement entendre.",
+    "source_heading": "Autoattention qui entrave les échanges",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8784eec34dc8034acc21020e689c3c29d2beabfb0230c1364008c10999ad0f17"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-camouflage-preparation-envahissante": {
+    "text": "Dans le trouble de perception olfactive, des tentatives de camouflage ou de prévention de l’odeur supposée peuvent devenir excessives et contraignantes. Elles se distinguent d’une hygiène ordinaire ou du plaisir de s’habiller par leur place et leur retentissement. Fanny, dont le diagnostic est établi, le remarque dans un sac où les épreuves du livre ne trouvent presque plus de place.",
+    "source_heading": "Camouflage qui envahit la préparation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dddff944815739e0e1a7c54407cef148acdff6bebbb8671819d245f15a90c421"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-evaluation-clinique-trouble-olfactif": {
+    "text": "Un intitulé peut prêter à confusion sans décrire la même difficulté clinique. Le trouble de perception olfactive désigne ici le diagnostic 6B22, centré sur la préoccupation d’émettre une odeur offensante ; la phantosmie concerne une sensation d’odeur sans stimulus présent. Fanny connaît déjà son diagnostic. Son médecin peut préciser ce qui a été évalué et comment aborder une nouvelle question de santé.",
+    "source_heading": "Périmètre et limites de l’évaluation clinique",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f8b081a240012ba0a77b239588eca36bbe3f991adf6dcbf33a84d493a2ebc428"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-evitement-proximite-rencontre-choisie": {
+    "text": "L’évitement de situations sociales ou de proximité peut accompagner le trouble de perception olfactive. La crainte de l’odeur supposée contraint alors des rencontres pourtant souhaitées. Cela ne fait pas de toute préférence de distance un symptôme. Chez Fanny, déjà diagnostiquée, la difficulté apparaît dans l’écart entre son envie de choisir le papier et son projet soudain de supprimer la visite.",
+    "source_heading": "Évitement des situations de proximité",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "89481fdc98ba636fcb0b48143e7284b573e27183fcae172f323bd72c568c398e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-gestes-ambigus-interpretes-comme-indices": {
+    "text": "Des gestes ambigus peuvent être interprétés comme des messages à propos de soi. Dans le trouble de perception olfactive, ces idées de référence peuvent concerner la conviction que les autres remarquent une odeur supposée. Un mouvement observé ne révèle pourtant pas son intention. Fanny, dont le diagnostic est connu, rencontre cette difficulté au moment d’un vote qui lui tient à cœur.",
+    "source_heading": "Gestes d’autrui interprétés comme des indices",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "0f202d6d38c686abf92ab73cdd40a18dc3a53ece757ce841c73d2b9e3cae9007"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-honte-difficulte-a-se-confier": {
+    "text": "La honte peut rendre difficile le récit des préoccupations dans le trouble de perception olfactive. Elle peut conduire à minimiser ce qui pèse ou à s’en tenir aux détails pratiques, y compris avec un soignant qui connaît déjà le diagnostic. Fanny veut raconter une visite d’imprimerie ; elle se heurte surtout au jugement sévère qu’elle porte sur elle-même.",
+    "source_heading": "Honte et difficulté à se confier",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "08166b15081c563ace503644c734dee4983b3b78329745cc4e6ba09a463e15ed"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-preoccupation-odeur-lecture-interrompue": {
+    "text": "Une préoccupation persistante peut occuper l’attention jusque dans une activité appréciée. Dans le trouble de perception olfactive, appelé ici Olfactory reference disorder, elle concerne la crainte d’émettre une odeur offensante. Fanny connaît déjà son diagnostic. À l’atelier, la pensée revient pendant une lecture et lui fait manquer une question, sans que cela prouve quoi que ce soit sur son odeur.",
+    "source_heading": "Préoccupation persistante autour de l’odeur",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "ee5aaba70c2a76e183313e2874c4a6615e2b117781c5fe270be3e41040d6ddcb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-projet-reussi-preoccupation-persistante": {
+    "text": "Atteindre un objectif de vie ne permet pas de prédire l’évolution du trouble de perception olfactive. Une préoccupation peut rester présente au milieu d’une réussite réelle et le besoin de suivi continuer. Fanny connaît son diagnostic et termine aujourd’hui un projet collectif. Les livres remis et la part d’accueil choisie ont leur valeur propre, sans devenir des preuves de guérison.",
+    "source_heading": "Persistance possible après un projet réussi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "4a4cab1da4b4f0f50da3c030a7440ac394f3315c50a3d9b8076394919c7c66b5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-reassurance-repetee-relation-limites": {
+    "text": "Demander plusieurs fois une assurance peut faire partie du trouble de perception olfactive, même après une réponse reçue. La recherche d’un verdict diffère d’une demande d’aide pour traverser un moment pénible. Chez Fanny, déjà suivie pour ce trouble, elle déplace aujourd’hui une conversation de travail vers son odeur supposée. Nora peut reconnaître la souffrance et garder une limite à ces questions.",
+    "source_heading": "Réassurance répétée dans la relation",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "1dd258e3f54a2a4bbad83087c8d1fa22ec958461e3e131a7f3f196d06b8c57de"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-recul-variable-detresse-conviction": {
+    "text": "Le recul vis-à-vis des convictions peut varier dans le trouble de perception olfactive, notamment avec l’anxiété ou la détresse. Une possibilité envisagée à un moment peut devenir difficile à considérer ensuite. Cette variation n’indique ni manque d’intelligence ni mensonge. Fanny connaît son diagnostic ; elle se reproche pourtant de ne pas pouvoir penser à l’atelier comme elle l’a fait en consultation.",
+    "source_heading": "Recul variable selon l’état de détresse",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "aec43c3e1eb9c050ecaaec2e09ecb7e94476b0898015e95c468cfdcb93eba213"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-travail-accompli-cout-invisible": {
+    "text": "Un travail mené à terme peut coexister avec une souffrance et des efforts supplémentaires importants dans le trouble de perception olfactive. La qualité du résultat ne suffit pas à apprécier le retentissement. Fanny, déjà suivie, voit son recueil partir à l’impression. Elle pense aussi aux échanges avec sa sœur et au plaisir de lecture que la préoccupation lui a pris.",
+    "source_heading": "Retentissement masqué par le travail accompli",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "7ab3f3e7b12e9d4ec9a8ea9a06dd0bfe07095eb53001a8b5805bef6dc1004184"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-verifications-repetees-depart-retarde": {
+    "text": "Vérifier soi-même la source supposée d’une odeur peut devenir un comportement répété dans le trouble de perception olfactive. Le contrôle ne règle pas nécessairement le doute et peut interrompre des actions ordinaires. Fanny connaît son diagnostic ; ce soir, elle ne demande l’avis de personne. C’est la répétition de ses propres vérifications qui retient le dossier près de la porte.",
+    "source_heading": "Vérifications répétées de la source supposée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b0f22d9034e36015867b673912edde7d7dcdf405bfe44bf5edd43ac78cb76cbf"
   },
   "posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie": {
     "text": "L’expression « fatigue de compassion » est utilisée de plusieurs manières. Dans le modèle de Charles Figley, elle renvoie à l’impact que peut avoir l’exposition au traumatisme d’autrui dans une relation d’aide.",
@@ -3046,6 +3190,78 @@
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "fff525f8c78b054a70a6644e063adfcf73a9b9b6a0481cfa84e2ff18a211590d"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
+    "text": "La dépression peut rendre l’attention plus difficile à soutenir, y compris dans un travail maîtrisé. Comprendre une information ne garantit pas qu’on pourra en garder le fil parmi les interruptions. Un cadre plus calme et des vérifications habituelles peuvent aider à mener une tâche précise. Le retentissement professionnel mérite aussi une discussion avec le médecin, sans conclure à une perte générale de capacités.",
+    "source_heading": "Concentration fragile malgré les compétences",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "33f7b3f9264b321ae55fe642c3d9b655ab36c8dadb643d6b167e2ce32f4fca67"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-desespoir-avenir-retreci": {
+    "text": "Le désespoir peut fermer la possibilité d’imaginer un avenir différent du présent douloureux. Dans la dépression, cette conviction mérite d’être entendue et discutée avec un soignant ; un proche n’a pas à la défaire par des promesses. Différer une décision durable et demander une aide professionnelle peuvent protéger une marge de choix, même quand l’espoir ne revient pas dans l’instant.",
+    "source_heading": "Désespoir et avenir qui se rétrécit",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e21a2fdc0145c3ef29ee9b99f8dfe30bc2224e1639fb2140af4997709327c7f6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-devalorisation-retard-repare": {
+    "text": "La culpabilité peut porter sur une erreur réelle tout en prenant une ampleur qui dépasse ses conséquences. Dans la dépression, elle peut s’accompagner d’un jugement global de faible valeur personnelle. Distinguer le fait et cette condamnation ne revient pas à nier les responsabilités. Un entourage peut apporter une réponse précise ; les pensées persistantes et leur retentissement relèvent aussi du suivi professionnel.",
+    "source_heading": "Dévalorisation et culpabilité disproportionnée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "10e2243ef07a75b2a67578018dc1adb66c4d3f8552dbe9fbc9e83c433c8ecff9"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-energie-gestes-familiers": {
+    "text": "La baisse d’énergie peut rendre coûteux des gestes autrefois familiers, même lorsque leur difficulté paraît faible. Dans un épisode dépressif déjà diagnostiqué, cet effort inhabituel mérite d’être entendu sans jugement sur la volonté. Délimiter une tâche ou demander un relais peut préserver une possibilité d’action ; cela ne suffit ni à expliquer toute fatigue ni à remplacer le suivi médical.",
+    "source_heading": "Énergie diminuée dans les gestes familiers",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bcfb3d78127082b5cae83ad716fc0cd28c3b0e57bd8f737247122abb8ed0bdb3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-indecision-deux-partitions": {
+    "text": "L’indécision peut faire partie des difficultés dépressives : les options sont comprises, mais trancher devient inhabituellement pénible. Le choix se rouvre sans information nouvelle et prend une importance qui épuise. Des décisions modestes et réversibles peuvent être abordées avec une aide délimitée. Ces essais quotidiens ne remplacent pas l’évaluation des difficultés persistantes et ne disent pas à eux seuls ce qui les cause.",
+    "source_heading": "Indécision devant des choix ordinaires",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "dfa55548026742f8c3b253de0fddaf3940a42a5996e455305eb7986db64afce3"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-participation-deux-couplets-chaise": {
+    "text": "La participation et l’état clinique ne se confondent pas. Une personne suivie après un épisode dépressif peut réaliser un projet tout en restant fatiguée ou gênée dans d’autres activités. L’aide nécessaire peut coexister avec des compétences préservées. Définir une place choisie et maintenir le suivi permet de tenir compte de ce coût sans faire d’une réussite une preuve de guérison.",
+    "source_heading": "Participation avec un retentissement encore présent",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b3237432388c9962d2dfe16decb39ea3d704776ce7f94023ca4f99e444382e94"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-plaisir-emousse-chanson": {
+    "text": "Une activité peut garder sa place dans une vie alors que le plaisir qu’elle procure devient faible ou absent. Cette expérience possible de la dépression ne signifie pas que les liens ont perdu leur valeur. Reconnaître ce décalage permet de parler de ce qui manque sans exiger une réaction joyeuse. Une reprise d’activité reste un choix personnel, accompagné par les soins nécessaires.",
+    "source_heading": "Plaisir émoussé dans une activité aimée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "389946cb2b5ec414f67b73bdb84dd7d3f2d2fe0186b14e3b00cf98a81417db8c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-ralentissement-reponses-gestes": {
+    "text": "Le ralentissement associé à la dépression peut se voir dans les gestes, la parole ou le passage d’une action à une autre. Il ne se confond pas avec la seule sensation de fatigue. Quand le rythme collectif devance une personne, lui laisser du temps peut préserver sa participation. Un changement inhabituel reste à discuter avec un professionnel, sans en présumer la cause.",
+    "source_heading": "Ralentissement des gestes et des réponses",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "9dc79d1c692e9bdff466a6625807a8383500a7556e25de2e9e404b7335e5267f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-retrait-desir-lien": {
+    "text": "Le retrait relationnel peut accompagner la dépression sans signifier que l’on ne tient plus aux autres. Répondre ou rencontrer quelqu’un peut paraître trop coûteux et être repoussé, jusqu’à raréfier les occasions de lien. Un contact bref et facultatif peut laisser une ouverture. Les disponibilités des proches comptent aussi ; leur soutien ne constitue pas à lui seul un traitement.",
+    "source_heading": "Retrait relationnel malgré le désir de lien",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8806c03656636acc4eff0799d0f2bdb5ebb6bbf24efd3453d32771388cd2e4bd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-ruminations-appel-clos": {
+    "text": "Les ruminations sont des pensées négatives répétitives qui peuvent accompagner la dépression. Elles reviennent sur les mêmes faits sans déboucher sur une information ou une action utile. Les distinguer d’une réflexion qui avance permet de comprendre le temps qu’elles occupent. Reconnaître la répétition et reprendre un geste choisi constituent des appuis possibles ; les difficultés persistantes peuvent être abordées avec le soignant.",
+    "source_heading": "Ruminations sur les erreurs passées",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "27376e143f67886da4ee869b31280b73c30942daf63a2923dafeb80e855a956a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-sommeil-reveil-precoce": {
+    "text": "Les perturbations du sommeil peuvent accompagner la dépression et prendre des formes différentes selon les personnes. Un réveil précoce peut peser sur la journée et réduire la disponibilité du soir. Ni l’heure du réveil ni une nuit difficile ne permettent de conclure à un diagnostic ou à une cause unique. Décrire les changements au médecin aide à discuter les besoins réels.",
+    "source_heading": "Sommeil perturbé et retentissement diurne",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "e9e08eb2e06c97b5696c4aa6a0efa3aff0d15285293a70fddd99848f134c008c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-variations-suivi-confidence": {
+    "text": "L’évolution d’un épisode dépressif ne se lit pas dans une seule journée. Un mieux ponctuel peut coexister avec des difficultés importantes, et une période plus difficile mérite d’être évaluée sans être aussitôt nommée récidive. Raconter les changements et leur retentissement aide le suivi. La décision de partager des informations de santé reste distincte de l’évaluation et appartient à la personne.",
+    "source_heading": "Variations sans conclure à une récidive",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "bbaf9f0dc7db70d66b0ceea152e156785c0e2000c68d4c341d68d30ac63ca36e"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels": {
     "text": "Percevoir ses besoins corporels consiste à remarquer des sensations internes et à les mettre en relation avec le contexte pour choisir une réponse adaptée. Cela peut concerner la faim, la soif, le besoin de repos, une gêne ou un besoin de mouvement.",
     "source_heading": "Qu'est-ce que percevoir ses besoins corporels ?",
@@ -3489,6 +3705,78 @@
     "source_heading": "Malaise face à la proximité",
     "method": "reviewed_clinical_intro",
     "source_body_sha256": "32e41c07aaf97b40560eedcc5e55d83b80f60b978b48c3b38ab040328ef7fbe5"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-anticipation-affiche-retournee": {
+    "text": "Dans le mutisme sélectif, la crainte d’une attente orale peut restreindre une activité avant même qu’une question soit posée. Un enfant peut souhaiter que son travail soit visible tout en redoutant ce qui suivra. Le dessin caché dans cette fiction illustre ce conflit précis ; ni le soin apporté à une affiche ni son retrait ne sont des preuves diagnostiques.",
+    "source_heading": "Anticipation du regard sur sa parole",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "87c117a9836fdf8cdce427f49836a7bfee1f1d672860cf9679e2caf71e098abc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-apprentissages-deux-lignes": {
+    "text": "Une absence de réponse orale peut masquer ce qu’un élève a compris tout en empêchant de demander une précision sur ce qui reste difficile. Dans le mutisme sélectif, le silence ne mesure pas les capacités générales. Des productions scolaires peuvent apporter des informations partielles ; l’enseignant continue son travail pédagogique et les questions cliniques restent confiées aux professionnels.",
+    "source_heading": "Apprentissages masqués par la réponse absente",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "eb785f9e47ff9e5e1f76e0bad549ece278b2e983c01966acc28de7f05dbab915"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-besoins-pause-boite": {
+    "text": "Le mutisme sélectif peut gêner l’initiative nécessaire pour demander une aide, une pause ou un objet. L’absence de demande ne signifie donc pas absence de besoin. Les adultes doivent rendre l’aide réellement accessible, même lorsqu’un signal prévu reste inutilisable. Ces aménagements quotidiens ne remplacent pas l’évaluation d’un besoin de santé par la personne compétente.",
+    "source_heading": "Demande d’aide et besoins quotidiens",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "153613fc157c36a51b1d62a9068da727350336e85787d7e773576cf78ad55b48"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-evolution-jeu-acheve": {
+    "text": "L’évolution du mutisme sélectif varie, et une possibilité de communication dans un contexte ne se transfère pas automatiquement à un autre. Un projet collectif peut aboutir tandis que des difficultés importantes restent présentes. Les adultes peuvent reconnaître ce qui a été accompli et réévaluer les besoins avec les professionnels, sans calendrier imposé à la parole ni retrait soudain des appuis.",
+    "source_heading": "Évolution variable malgré un projet réussi",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b79df1a1f10bfa4b77066ed5f25fb9e6b608a008f63bc09877023fe5d2d3ac47"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-figement-carte-bleue": {
+    "text": "L’attente d’une réponse orale peut s’accompagner, chez certains enfants présentant un mutisme sélectif, d’un figement qui touche aussi les gestes. Une carte ou un dessin n’est donc pas toujours accessible. Cette réaction possible ne suffit pas à identifier un trouble ; dans un accompagnement déjà engagé, elle invite à ajuster la situation et à garder un adulte disponible.",
+    "source_heading": "Figement sous attente de parole",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "caa2b212f28294276c2ca3f18a40c3b93e7f67a078dfe209c8a0f952259772af"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-inquietude-retard-ines": {
+    "text": "Des difficultés anxieuses peuvent coexister avec un mutisme sélectif sans s’expliquer toutes par ce diagnostic. Une préoccupation observée chez un enfant reste à comprendre dans son contexte ; elle ne constitue pas automatiquement un autre trouble. Les proches peuvent donner une information fiable, écouter ce qui vient et transmettre au suivi une inquiétude répétée ou qui gêne la vie quotidienne.",
+    "source_heading": "Difficultés anxieuses associées à distinguer",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "6240189de26308272dfae59439b4311d2aa8f1f35ed4bf7057587d7029a9f568"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-irritabilite-boite-fermee": {
+    "text": "Chez certains enfants présentant un mutisme sélectif, des questions sur la parole ou les exigences de la journée peuvent s’accompagner d’irritabilité au retour à la maison. La voix alors disponible ne prouve pas que le silence scolaire était choisi. Toute colère ne relève toutefois pas du trouble : fatigue, contrariétés ordinaires et anxiété demandent à être distinguées si les difficultés persistent.",
+    "source_heading": "Irritabilité après les exigences de parole",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "eca70bdaff249471e6439896b0f3a8a64d65267894f85b014fb7d5e89fe5e591"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-langue-album-couleurs": {
+    "text": "Un silence dans une langue peu connue ne permet pas de conclure à un mutisme sélectif. Apprendre du vocabulaire et accéder à une parole déjà connue sont deux questions distinctes. Chez une enfant dont le diagnostic est établi, une difficulté nouvelle de compréhension mérite aussi d’être considérée pour elle-même, sans comparaison improvisée entre les langues ni démonstration exigée.",
+    "source_heading": "Langue de situation et compréhension",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "f24c3c7a9c3ba1220a67ac39de5b5f85146631a8430e297978589d72539f8c10"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-murmure-feutre-orange": {
+    "text": "Certaines présentations du mutisme sélectif comportent quelques mots très bas ou une voix modifiée, avec des difficultés toujours importantes. Une brève réponse ne signifie ni guérison ni disponibilité sur commande. L’adulte peut accueillir le contenu de ce qui a été dit d’une manière ordinaire, sans demander de répétition ni retirer les moyens de communication et le suivi convenus.",
+    "source_heading": "Réponses brèves et voix peu audible",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "d161b39a92485e623206854b586ca4a57edf3e73def3f6183bc04cd4e2f2476c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-pairs-cachette-deplacee": {
+    "text": "Le mutisme sélectif peut gêner l’initiative et la poursuite des échanges avec les autres enfants. Un silence peut alors être pris à tort pour un accord, tandis qu’une préférence reste sans place. Les adultes protègent la participation et arrêtent les paroles d’exclusion. Les camarades restent des partenaires de jeu, libres de leurs activités, sans rôle de thérapeute.",
+    "source_heading": "Réciprocité avec les pairs empêchée",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "b9ffb8dc552a98601bd7575ed1c9428ec05c46eee2afb17a136c3c46e1103ffd"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-parole-contextes-soleil-vert": {
+    "text": "Le mutisme sélectif peut rendre la parole inaccessible dans certaines situations alors qu’elle vient spontanément ailleurs. Ce contraste ne mesure ni la volonté de participer ni la valeur d’une idée. Pour un enfant déjà accompagné, les adultes peuvent chercher des moyens de contribution disponibles et discuter des difficultés avec les professionnels, sans lui demander de prouver ce qu’il sait dire.",
+    "source_heading": "Parole accessible selon les contextes",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "52deffd75aba2c9d6840aa0734138a25f529f9f243c978bebdf5efc66016998e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-suivi-page-soleil": {
+    "text": "Le suivi d’un mutisme sélectif peut croiser plusieurs contextes, car une consultation ne montre pas à elle seule tout le langage d’un enfant. Les informations de la famille et de l’école peuvent être utiles, avec un partage limité et convenu. La clinicienne décide des évaluations adaptées ; l’enfant n’a pas à fournir une performance orale pour que ses difficultés soient prises au sérieux.",
+    "source_heading": "Évaluation adaptée sans démonstration orale",
+    "method": "reviewed_clinical_intro",
+    "source_body_sha256": "8661b7ea247337032e925485f5c2e7b0ea9bb00bd5fc868f930d6185757a60fe"
   },
   "posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu": {
     "text": "Un soir, Mina n’arrive plus à trier les demandes du festival ni à retrouver tout de suite le numéro qu’elle a préparé. Dans un profil borderline, la détresse peut devenir intense et rendre les décisions ordinaires difficiles. Une crise demande une réponse adaptée à ce qui se passe sur le moment. Mina appelle le service indiqué dans son plan et lui explique ce qui a changé.",

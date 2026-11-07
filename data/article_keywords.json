@@ -6732,6 +6732,486 @@
       "Techniques pour agir face à la confusion émotionnelle"
     ]
   },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-attention-detournee": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Attention détournée",
+      "Préoccupation",
+      "Reprendre le fil"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8bbe6885b626b6adc1f0e39cab8c463013a4bf2a1714a3f9559a3f47c281d423",
+    "summary": "Johanna a posé le document d'essai entre elles. Aucun nom de salarié ni donnée personnelle n'y figure : elles cherchent seulement à savoir si le chemin vers un relais est compréhensible. Constance lit la première phrase et suit le bord de la feuille du doigt. Johanna demande où chercher le nom de la personne à contacter. La phrase est encore devant elle, pourtant Constance ne peut pas redire ce qu'elle vient de lire.\n\n[…]\n\nJohanna répète : « À qui j'adresse la demande si la personne habituelle est absente ? » Constance relit et trouve la rubrique. Cette fois elle peut expliquer le trajet. Une expression reste ambiguë ; elles la signalent pour la simplifier. Le reste n'a pas besoin d'être refait. « Donc il y avait une phrase à corriger et une voyageuse à récupérer », dit Constance. Johanna lui rend la feuille pour qu'elle y marque leur décision. L'essai peut être transmis au responsable avec la question de rangement déjà isolée. Constance garde pour son suivi une ligne sur l'attention partie vers une réunion future. Elle n'en tire pas un jugement sur tout son travail. Le dossier pourra attendre la rencontre prévue ; elle sort du bureau avec une tâche définie, plutôt qu'un texte entier devenu suspect.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Johanna a posé le document d'essai entre elles. Aucun nom de salarié ni donnée personnelle n'y figure : elles cherchent seulement à savoir si le chemin vers un relais est compréhensible. Constance lit la première phrase et suit le bord de la feuille du doigt. Johanna demande où chercher le nom de la personne à contacter. La phrase est encore devant elle, pourtant Constance ne peut pas redire ce qu'elle vient de lire.",
+        "start": 2,
+        "end": 422
+      },
+      {
+        "quote": "Johanna répète : « À qui j'adresse la demande si la personne habituelle est absente ? » Constance relit et trouve la rubrique. Cette fois elle peut expliquer le trajet. Une expression reste ambiguë ; elles la signalent pour la simplifier. Le reste n'a pas besoin d'être refait. « Donc il y avait une phrase à corriger et une voyageuse à récupérer », dit Constance. Johanna lui rend la feuille pour qu'elle y marque leur décision. L'essai peut être transmis au responsable avec la question de rangement déjà isolée. Constance garde pour son suivi une ligne sur l'attention partie vers une réunion future. Elle n'en tire pas un jugement sur tout son travail. Le dossier pourra attendre la rencontre prévue ; elle sort du bureau avec une tâche définie, plutôt qu'un texte entier devenu suspect.",
+        "start": 5546,
+        "end": 6337
+      }
+    ],
+    "canonical_concept": "Attention détournée par la préoccupation",
+    "context": "Une lecture d’essai avec Johanna",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reprendre un fil de lecture"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-autocritique-decouragement": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Autocritique située",
+      "Découragement",
+      "Bienveillance envers soi"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "14ed544b71827efa8149e16988a10e145943362954b7761ecf74e3b641fe16bf",
+    "summary": "Quelques jours après la photo prise depuis la fenêtre, Lucile vient boire quelque chose chez Constance. Le disque orange repose enfin près de la platine. Elles ne l'ont pas encore écouté ensemble. Lucile agrandit l'image sur le téléphone et montre le reflet de la lampe : on dirait que l'enseigne porte un chapeau. Constance regarde le coin où la lettre disparaît. « C'est surtout la preuve que je n'ai même plus le courage de traverser ma rue. »\n\n[…]\n\nConstance reprend le téléphone. « J'aurais voulu sortir. J'ai quand même choisi ce cadrage-là. » Elle n'essaie pas de trouver la photo extraordinaire ; le reflet lui plaît assez pour la garder. Puis elle pose le disque sur la platine. Lucile préfère le second morceau à celui noté après la médiathèque. « Réclamation recevable », répond Constance. Le désaccord léger remet entre elles autre chose que l'évaluation de son état. Elles conviennent d'une promenade courte le samedi suivant, avec la possibilité de rentrer tôt. Constance note la phrase sur le courage pour en parler dans l'aide engagée. Elle reste déçue de certaines journées, mais la musique ne doit plus attendre qu'une journée les ait toutes réparées.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Quelques jours après la photo prise depuis la fenêtre, Lucile vient boire quelque chose chez Constance. Le disque orange repose enfin près de la platine. Elles ne l'ont pas encore écouté ensemble. Lucile agrandit l'image sur le téléphone et montre le reflet de la lampe : on dirait que l'enseigne porte un chapeau. Constance regarde le coin où la lettre disparaît. « C'est surtout la preuve que je n'ai même plus le courage de traverser ma rue. »",
+        "start": 2,
+        "end": 448
+      },
+      {
+        "quote": "Constance reprend le téléphone. « J'aurais voulu sortir. J'ai quand même choisi ce cadrage-là. » Elle n'essaie pas de trouver la photo extraordinaire ; le reflet lui plaît assez pour la garder. Puis elle pose le disque sur la platine. Lucile préfère le second morceau à celui noté après la médiathèque. « Réclamation recevable », répond Constance. Le désaccord léger remet entre elles autre chose que l'évaluation de son état. Elles conviennent d'une promenade courte le samedi suivant, avec la possibilité de rentrer tôt. Constance note la phrase sur le courage pour en parler dans l'aide engagée. Elle reste déçue de certaines journées, mais la musique ne doit plus attendre qu'une journée les ait toutes réparées.",
+        "start": 5677,
+        "end": 6393
+      }
+    ],
+    "canonical_concept": "Autocritique qui entretient le découragement",
+    "context": "Une soirée autour de la photo et du disque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour desserrer un jugement trop dur"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-comprendre-tableau-mixte": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Tableau mixte",
+      "Évaluation globale",
+      "Choix du suivi"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ca0d7629bcb67d7006ecc12faa56d419c4a54cbed9660e75e824b0409b7cd8f7",
+    "summary": "Le ticket de brocante tombe de la feuille quand Constance l'étale sur le bureau du médecin. Elle le retourne, face imprimée dessous. « Ce n'est pas un justificatif de sortie », précise-t-elle. Elle avait préparé deux exemples : la pause passée à rester assise devant un travail clos et le disque retrouvé sans la joie attendue. Maintenant qu'elle est là, ils lui paraissent presque trop petits. Le médecin lui demande ce qui les rend différents de ses habitudes, puis reprend l'histoire commencée lors de leur premier rendez-vous.\n\n[…]\n\nConstance reprend : « Vous regardez ce qui se passe ensemble, et le fait que je travaille ne veut pas dire que ça ne coûte rien. » Le médecin précise ce qu'elle a bien compris et lui répond sur les éléments encore à examiner. Ils conviennent d'une aide psychologique et d'un rendez-vous de suivi ; elle sait comment reprendre contact si les difficultés changent ou deviennent préoccupantes. Elle glisse les informations dans une enveloppe, derrière le ticket. Johanna attend une rubrique, pas ce compte rendu. Elle ne décide pas de lui raconter la consultation. Dans le hall, une affiche annonce une écoute musicale à la médiathèque : un morceau du disque orange y figure. Constance note la date. Le choix d'y aller restera distinct des décisions de soin qu'elle vient de prendre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le ticket de brocante tombe de la feuille quand Constance l'étale sur le bureau du médecin. Elle le retourne, face imprimée dessous. « Ce n'est pas un justificatif de sortie », précise-t-elle. Elle avait préparé deux exemples : la pause passée à rester assise devant un travail clos et le disque retrouvé sans la joie attendue. Maintenant qu'elle est là, ils lui paraissent presque trop petits. Le médecin lui demande ce qui les rend différents de ses habitudes, puis reprend l'histoire commencée lors de leur premier rendez-vous.",
+        "start": 2,
+        "end": 532
+      },
+      {
+        "quote": "Constance reprend : « Vous regardez ce qui se passe ensemble, et le fait que je travaille ne veut pas dire que ça ne coûte rien. » Le médecin précise ce qu'elle a bien compris et lui répond sur les éléments encore à examiner. Ils conviennent d'une aide psychologique et d'un rendez-vous de suivi ; elle sait comment reprendre contact si les difficultés changent ou deviennent préoccupantes. Elle glisse les informations dans une enveloppe, derrière le ticket. Johanna attend une rubrique, pas ce compte rendu. Elle ne décide pas de lui raconter la consultation. Dans le hall, une affiche annonce une écoute musicale à la médiathèque : un morceau du disque orange y figure. Constance note la date. Le choix d'y aller restera distinct des décisions de soin qu'elle vient de prendre.",
+        "start": 6056,
+        "end": 6836
+      }
+    ],
+    "canonical_concept": "Appréciation clinique du tableau mixte",
+    "context": "Le diagnostic expliqué en consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour participer à l’explication et à la suite"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-contrainte-reelle-anticipation": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Contrainte réelle",
+      "Anticipation anxieuse",
+      "Responsabilité partagée"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a8cd5329251c6f9e6075dd77460db5ec9bc34950323dc03d24a300180e3d7667",
+    "summary": "Le responsable a suivi le trajet de la demande sur le document d'essai. La phrase simplifiée avec Johanna est plus claire. Il s'arrête pourtant au nom du relais. « Et si vous êtes absentes toutes les deux ? » demande-t-il. Constance sent ses mains se crisper sous la table. La question ressemble au début d'une de ses longues suites imaginées. Elle voudrait presque la reconnaître comme telle et passer à la suite. Mais elle relit : aucun circuit n'est indiqué pour ce cas.\n\n[…]\n\nLe responsable désigne son propre rôle comme destinataire des demandes lors des absences simultanées et précise où ce circuit sera indiqué. Il confirme l'espace commun où conserver la version de référence ; les anciennes feuilles ne feront pas partie du dossier à présenter. Johanna peut ainsi cesser d'être le relais implicite de chaque possibilité. Ils fixent le retour d'expérience au 24 novembre, à 10 heures, et confirment la présentation. Constance ajoute le circuit et le lieu, sans reprendre toutes les rubriques. Sa tension met plus longtemps à descendre que la décision à être écrite. Elle note cet écart pour le rendez-vous médical suivant. « Deux arbitrages, aucune reconstruction générale », dit-elle en rangeant les feuilles. La décision réelle ne soigne pas à elle seule ce qui persiste ; elle donne au projet une réponse qui lui manquait.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le responsable a suivi le trajet de la demande sur le document d'essai. La phrase simplifiée avec Johanna est plus claire. Il s'arrête pourtant au nom du relais. « Et si vous êtes absentes toutes les deux ? » demande-t-il. Constance sent ses mains se crisper sous la table. La question ressemble au début d'une de ses longues suites imaginées. Elle voudrait presque la reconnaître comme telle et passer à la suite. Mais elle relit : aucun circuit n'est indiqué pour ce cas.",
+        "start": 2,
+        "end": 475
+      },
+      {
+        "quote": "Le responsable désigne son propre rôle comme destinataire des demandes lors des absences simultanées et précise où ce circuit sera indiqué. Il confirme l'espace commun où conserver la version de référence ; les anciennes feuilles ne feront pas partie du dossier à présenter. Johanna peut ainsi cesser d'être le relais implicite de chaque possibilité. Ils fixent le retour d'expérience au 24 novembre, à 10 heures, et confirment la présentation. Constance ajoute le circuit et le lieu, sans reprendre toutes les rubriques. Sa tension met plus longtemps à descendre que la décision à être écrite. Elle note cet écart pour le rendez-vous médical suivant. « Deux arbitrages, aucune reconstruction générale », dit-elle en rangeant les feuilles. La décision réelle ne soigne pas à elle seule ce qui persiste ; elle donne au projet une réponse qui lui manquait.",
+        "start": 5923,
+        "end": 6777
+      }
+    ],
+    "canonical_concept": "Inquiétude et contraintes concrètes",
+    "context": "La réunion d’essai avec le responsable",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour traiter le manque et situer l’inquiétude"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-effort-invisible": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Effort pour continuer",
+      "Retentissement quotidien",
+      "Évaluation en cours"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "3570ac06c2255055dd92b6b64824747ab82d470edb55315482fdb9111dfc7fa7",
+    "summary": "Le dernier contrôle est fait. Sur l'écran de Constance, la fenêtre du dossier a laissé place à la photographie d'une vieille enseigne de mercerie. Les lettres rouges penchent toutes du même côté. Elle avait aimé cette obstination assez comique, le jour où elle avait pris la photo. Aujourd'hui, elle regarde surtout l'heure dans le coin. Johanna attend depuis un moment près de la porte, son déjeuner à la main. Dans la cour de l'entreprise de paysage, deux collègues rangent leurs bottes avant de partir manger.\n\n[…]\n\nConstance glisse le déjeuner dans sa main et ferme vraiment la session. Dans l'escalier, l'idée d'une erreur revient. Elle ne retourne pas au bureau : elle n'a pas identifié d'action nouvelle à y mener. Johanna lui demande quelle rubrique serait utile en premier. « Celle qui dit à qui parler. C'est un début assez ambitieux pour aujourd'hui. » Elles choisissent le relais des demandes, sans rédiger le reste au milieu des assiettes. Sur le dos d'une feuille, Constance écrit pour le médecin : travail terminé, vingt minutes assise, photo laissée de côté. Le repas est tardif et elle demeure soucieuse. Mais sa matinée ne sera plus résumée par le seul mot « fait ». Dimanche, elle doit retrouver Lucile à la brocante.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dernier contrôle est fait. Sur l'écran de Constance, la fenêtre du dossier a laissé place à la photographie d'une vieille enseigne de mercerie. Les lettres rouges penchent toutes du même côté. Elle avait aimé cette obstination assez comique, le jour où elle avait pris la photo. Aujourd'hui, elle regarde surtout l'heure dans le coin. Johanna attend depuis un moment près de la porte, son déjeuner à la main. Dans la cour de l'entreprise de paysage, deux collègues rangent leurs bottes avant de partir manger.",
+        "start": 2,
+        "end": 514
+      },
+      {
+        "quote": "Constance glisse le déjeuner dans sa main et ferme vraiment la session. Dans l'escalier, l'idée d'une erreur revient. Elle ne retourne pas au bureau : elle n'a pas identifié d'action nouvelle à y mener. Johanna lui demande quelle rubrique serait utile en premier. « Celle qui dit à qui parler. C'est un début assez ambitieux pour aujourd'hui. » Elles choisissent le relais des demandes, sans rédiger le reste au milieu des assiettes. Sur le dos d'une feuille, Constance écrit pour le médecin : travail terminé, vingt minutes assise, photo laissée de côté. Le repas est tardif et elle demeure soucieuse. Mais sa matinée ne sera plus résumée par le seul mot « fait ». Dimanche, elle doit retrouver Lucile à la brocante.",
+        "start": 5647,
+        "end": 6364
+      }
+    ],
+    "canonical_concept": "Retentissement masqué par le surcroît d'effort",
+    "context": "Une pause après la paie",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre cet effort racontable"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-participer-difficultes-persistantes": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Participation",
+      "Appuis partagés",
+      "Évolution ouverte"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f248ebcd069f890c1e52156fc8d87235aadae7970d9939dd6fe7725002c44469",
+    "summary": "Constance tient sa feuille par les deux coins. Les mains sont tendues, mais le début est lisible, dans la grande police qu'elle a choisie. Les collègues s'installent ; quelqu'un pose un vêtement de pluie sur un dossier de chaise. Johanna vérifie que le document partagé est ouvert au bon endroit. Elles ont convenu de se répartir les deux premières rubriques et de laisser au responsable les questions qui demandent un arbitrage.\n\n[…]\n\nLe responsable rappelle le circuit pour les absences simultanées. Les collègues retrouvent le document dans l'espace commun choisi et savent à qui adresser les exceptions. La date du 24 novembre, à 10 heures, figure sur l'invitation au retour d'expérience ; les cas rencontrés permettront de reprendre ce fonctionnement. Johanna répond aux questions de sa partie. Constance ne récupère pas toutes les phrases. La présentation est faite et l'essai peut commencer. En sortant, elle garde un peu de tension dans les mains et l'envie de repasser la réunion. Elle note seulement le point concret qui sera repris. Plus tard, elle rejoint Lucile devant le cinéma. La lumière découpe autrement la lettre qu'elles avaient photographiée. « Nouvelle version, même enseigne », dit-elle. Elles cherchent chacune un angle. Constance ne vérifie pas si le plaisir ressenti suffirait à prouver quelque chose. Le prochain contact de soin reste prévu, et l'image peut simplement rejoindre les autres.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Constance tient sa feuille par les deux coins. Les mains sont tendues, mais le début est lisible, dans la grande police qu'elle a choisie. Les collègues s'installent ; quelqu'un pose un vêtement de pluie sur un dossier de chaise. Johanna vérifie que le document partagé est ouvert au bon endroit. Elles ont convenu de se répartir les deux premières rubriques et de laisser au responsable les questions qui demandent un arbitrage.",
+        "start": 2,
+        "end": 431
+      },
+      {
+        "quote": "Le responsable rappelle le circuit pour les absences simultanées. Les collègues retrouvent le document dans l'espace commun choisi et savent à qui adresser les exceptions. La date du 24 novembre, à 10 heures, figure sur l'invitation au retour d'expérience ; les cas rencontrés permettront de reprendre ce fonctionnement. Johanna répond aux questions de sa partie. Constance ne récupère pas toutes les phrases. La présentation est faite et l'essai peut commencer. En sortant, elle garde un peu de tension dans les mains et l'envie de repasser la réunion. Elle note seulement le point concret qui sera repris. Plus tard, elle rejoint Lucile devant le cinéma. La lumière découpe autrement la lettre qu'elles avaient photographiée. « Nouvelle version, même enseigne », dit-elle. Elles cherchent chacune un angle. Constance ne vérifie pas si le plaisir ressenti suffirait à prouver quelque chose. Le prochain contact de soin reste prévu, et l'image peut simplement rejoindre les autres.",
+        "start": 6053,
+        "end": 7034
+      }
+    ],
+    "canonical_concept": "Participation malgré des difficultés persistantes",
+    "context": "La présentation des règles de remplacement",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour prendre sa part sans tout porter"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-pensees-sans-solution": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Pensées répétitives",
+      "Question traitée",
+      "Limites du relais"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4da7ca19ce82716139d7d2fe215e8f09565ee052bc58584e0131bc91a1fb877c",
+    "summary": "Johanna pose deux impressions devant Constance. L'une porte encore un ancien nom de rubrique. « J'ai retrouvé ça dans le dossier d'archives. Il faut éviter qu'il parte avec la version d'essai. » Elles reprennent le rangement, vérifient quelle version est utilisée et mettent à part celle qui ne doit pas être diffusée. La remarque était fondée et la correction nécessaire. Constance inscrit une question : qui gardera l'emplacement de référence après la présentation ?\n\n[…]\n\nConstance retire l'exemplaire ancien du paquet d'essai avec Johanna. Elles laissent sur une note la décision de rangement à confirmer. « Celle-là, on peut vraiment la poser au responsable », dit Johanna. Constance acquiesce. En prenant son manteau pour acheter son déjeuner, elle revoit le salarié imaginaire devant la mauvaise rubrique. Elle ne trouve pas d'élément neuf dans ce retour. Elle le laisse exister sans reprendre la conversation. Sur sa feuille personnelle pour le suivi, elle note seulement combien la question traitée reste présente. Le dossier demeure sur le bureau. Une lecture d'essai est fixée ; elle portera sur ce que les collègues comprennent, pas sur toutes les erreurs qu'aucune page ne pourrait garantir d'éviter.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Johanna pose deux impressions devant Constance. L'une porte encore un ancien nom de rubrique. « J'ai retrouvé ça dans le dossier d'archives. Il faut éviter qu'il parte avec la version d'essai. » Elles reprennent le rangement, vérifient quelle version est utilisée et mettent à part celle qui ne doit pas être diffusée. La remarque était fondée et la correction nécessaire. Constance inscrit une question : qui gardera l'emplacement de référence après la présentation ?",
+        "start": 2,
+        "end": 470
+      },
+      {
+        "quote": "Constance retire l'exemplaire ancien du paquet d'essai avec Johanna. Elles laissent sur une note la décision de rangement à confirmer. « Celle-là, on peut vraiment la poser au responsable », dit Johanna. Constance acquiesce. En prenant son manteau pour acheter son déjeuner, elle revoit le salarié imaginaire devant la mauvaise rubrique. Elle ne trouve pas d'élément neuf dans ce retour. Elle le laisse exister sans reprendre la conversation. Sur sa feuille personnelle pour le suivi, elle note seulement combien la question traitée reste présente. Le dossier demeure sur le bureau. Une lecture d'essai est fixée ; elle portera sur ce que les collègues comprennent, pas sur toutes les erreurs qu'aucune page ne pourrait garantir d'éviter.",
+        "start": 5839,
+        "end": 6577
+      }
+    ],
+    "canonical_concept": "Pensées répétitives sans solution nouvelle",
+    "context": "Une version ancienne de la rubrique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour retrouver la question du moment"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-plaisir-emousse": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Intérêt émoussé",
+      "Temps libre",
+      "Changement à raconter"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "958d45164b7e7197991913b314e69c76a911930de1110f3ab3f46670ec890382",
+    "summary": "Lucile brandit la pochette orange au-dessus d'une caisse de disques. Elle n'a pas besoin de dire le titre : Constance reconnaît la rayure blanche dans le dessin, celle qu'elle avait décrite plusieurs fois en espérant retrouver l'album. Le vendeur annonce son prix. « L'orange bénéficie donc d'une majoration saisonnière », répond Constance. Lucile rit et retourne la pochette pour lire les morceaux. Tout est exactement comme elles l'avaient imaginé, jusqu'au carton un peu mou au bord.\n\n[…]\n\nConstance revient vers le vendeur et achète le disque. Ce n'est ni une promesse d'aller mieux ni une obligation de le mettre dès ce soir. Avec Lucile, elle choisit un café à la sortie de la brocante. Pour les photos, elle propose le samedi suivant. « Je veux garder l'idée. Je n'ai pas la même place pour elle aujourd'hui. » Lucile accepte et lui raconte le livre absurde qu'elle vient de trouver. Constance écoute sans retrouver tout l'entrain attendu. Avant de partir, elle dit qu'elle parlera au médecin de cette drôle de distance. Le ticket rejoint la feuille du déjeuner dans son sac. Le cinéma attendra une autre lumière ; la sortie n'est pas devenue une épreuve qu'elles doivent réussir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lucile brandit la pochette orange au-dessus d'une caisse de disques. Elle n'a pas besoin de dire le titre : Constance reconnaît la rayure blanche dans le dessin, celle qu'elle avait décrite plusieurs fois en espérant retrouver l'album. Le vendeur annonce son prix. « L'orange bénéficie donc d'une majoration saisonnière », répond Constance. Lucile rit et retourne la pochette pour lire les morceaux. Tout est exactement comme elles l'avaient imaginé, jusqu'au carton un peu mou au bord.",
+        "start": 2,
+        "end": 488
+      },
+      {
+        "quote": "Constance revient vers le vendeur et achète le disque. Ce n'est ni une promesse d'aller mieux ni une obligation de le mettre dès ce soir. Avec Lucile, elle choisit un café à la sortie de la brocante. Pour les photos, elle propose le samedi suivant. « Je veux garder l'idée. Je n'ai pas la même place pour elle aujourd'hui. » Lucile accepte et lui raconte le livre absurde qu'elle vient de trouver. Constance écoute sans retrouver tout l'entrain attendu. Avant de partir, elle dit qu'elle parlera au médecin de cette drôle de distance. Le ticket rejoint la feuille du déjeuner dans son sac. Le cinéma attendra une autre lumière ; la sortie n'est pas devenue une épreuve qu'elles doivent réussir.",
+        "start": 5775,
+        "end": 6469
+      }
+    ],
+    "canonical_concept": "Émoussement du plaisir familier",
+    "context": "La brocante avec Lucile",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder un choix dans une sortie terne"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-retrait-relations": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Retrait relationnel",
+      "Appréhension",
+      "Présence choisie"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6ca5a9291854dc6c0a4e4d535a6b4d38ec5a15f91f4216f5835d02964d83c7db",
+    "summary": "Le message commence par « Je suis désolée ». Constance l'a tapé devant sa porte, son sac photo déjà sur l'épaule. Le samedi est arrivé avec une lumière fine sur les vitrines, exactement celle dont Lucile avait parlé pendant l'écoute du disque. Elles ont convenu d'une sortie courte. Pourtant, en cherchant ses clés, Constance s'est imaginée silencieuse pendant tout le trajet, puis Lucile essayant de l'animer, puis une séparation déçue. Elle a préparé l'annulation avant d'avoir échangé un mot ce matin.\n\n[…]\n\nConstance efface le message et descend. Avant de rejoindre le trottoir, elle appelle Lucile : « Je veux te voir. Je peux faire la rue du cinéma et rentrer au carrefour. Ça te va ? » Lucile accepte ; elle compte poursuivre ensuite vers une librairie. Elles marchent sans chercher à remplir tous les silences. Devant l'enseigne du cinéma, Constance trouve un cadrage où une lettre se reflète dans une vitre. La curiosité est discrète, et l'inquiétude ne s'est pas entièrement tue. Au carrefour convenu, elles se séparent. Lucile ne demande pas combien de plaisir la photo a produit. Constance garde l'image avec celle de la fenêtre. Une objection du responsable les attend au travail : cette rencontre n'aura pas à lui fournir la force de résoudre un problème qui appartient à l'organisation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message commence par « Je suis désolée ». Constance l'a tapé devant sa porte, son sac photo déjà sur l'épaule. Le samedi est arrivé avec une lumière fine sur les vitrines, exactement celle dont Lucile avait parlé pendant l'écoute du disque. Elles ont convenu d'une sortie courte. Pourtant, en cherchant ses clés, Constance s'est imaginée silencieuse pendant tout le trajet, puis Lucile essayant de l'animer, puis une séparation déçue. Elle a préparé l'annulation avant d'avoir échangé un mot ce matin.",
+        "start": 2,
+        "end": 506
+      },
+      {
+        "quote": "Constance efface le message et descend. Avant de rejoindre le trottoir, elle appelle Lucile : « Je veux te voir. Je peux faire la rue du cinéma et rentrer au carrefour. Ça te va ? » Lucile accepte ; elle compte poursuivre ensuite vers une librairie. Elles marchent sans chercher à remplir tous les silences. Devant l'enseigne du cinéma, Constance trouve un cadrage où une lettre se reflète dans une vitre. La curiosité est discrète, et l'inquiétude ne s'est pas entièrement tue. Au carrefour convenu, elles se séparent. Lucile ne demande pas combien de plaisir la photo a produit. Constance garde l'image avec celle de la fenêtre. Une objection du responsable les attend au travail : cette rencontre n'aura pas à lui fournir la force de résoudre un problème qui appartient à l'organisation.",
+        "start": 5570,
+        "end": 6360
+      }
+    ],
+    "canonical_concept": "Retrait devant les relations attendues",
+    "context": "Avant de rejoindre Lucile pour les photos",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour discuter une présence possible"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-sommeil-fatigue": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Sommeil interrompu",
+      "Fatigue située",
+      "Réévaluation"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d495cfa57e5514a5fa109d9aad2397b53eb03bf088335fa5ae86f0b0f5167d08",
+    "summary": "Le camion de livraison est parti depuis plusieurs heures. Constance se rappelle encore le bruit des roues sur les pavés, puis le volet métallique que quelqu'un avait relevé trop vite. Après ce réveil, elle avait attendu le sommeil en pensant à la réunion. Elle ne sait pas combien de temps elle est restée éveillée. Elle a ensuite dormi par morceaux et retrouvé le matin avec l'impression d'être déjà en retard sur son énergie.\n\n[…]\n\nConstance prévient Lucile qu'elle reporte la longue promenade et lui propose de choisir une autre date ensemble. Elle garde le rendez-vous médical prévu et ajoute l'exemple de cette nuit à sa feuille ; elle sait qu'elle peut contacter plus tôt si cela se répète ou l'inquiète. Puis elle prend l'appareil sans mettre son manteau. Dans la vitre, le reflet de la lampe coupe une lettre et transforme l'enseigne en mot presque comique. Elle fait une photo et l'envoie à Lucile : « Déplacement limité à trois pas. » La réponse parle du reflet, pas de la qualité de sa nuit. Constance reste fatiguée. Une image a tout de même été choisie, tandis que l'explication de la fatigue demeure à reprendre dans le bon cadre.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le camion de livraison est parti depuis plusieurs heures. Constance se rappelle encore le bruit des roues sur les pavés, puis le volet métallique que quelqu'un avait relevé trop vite. Après ce réveil, elle avait attendu le sommeil en pensant à la réunion. Elle ne sait pas combien de temps elle est restée éveillée. Elle a ensuite dormi par morceaux et retrouvé le matin avec l'impression d'être déjà en retard sur son énergie.",
+        "start": 2,
+        "end": 429
+      },
+      {
+        "quote": "Constance prévient Lucile qu'elle reporte la longue promenade et lui propose de choisir une autre date ensemble. Elle garde le rendez-vous médical prévu et ajoute l'exemple de cette nuit à sa feuille ; elle sait qu'elle peut contacter plus tôt si cela se répète ou l'inquiète. Puis elle prend l'appareil sans mettre son manteau. Dans la vitre, le reflet de la lampe coupe une lettre et transforme l'enseigne en mot presque comique. Elle fait une photo et l'envoie à Lucile : « Déplacement limité à trois pas. » La réponse parle du reflet, pas de la qualité de sa nuit. Constance reste fatiguée. Une image a tout de même été choisie, tandis que l'explication de la fatigue demeure à reprendre dans le bon cadre.",
+        "start": 5775,
+        "end": 6485
+      }
+    ],
+    "canonical_concept": "Sommeil et fatigue à réévaluer",
+    "context": "Un matin après une nuit hachée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire la nuit et ajuster la journée"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-tension-pendant-pause": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Difficulté à se détendre",
+      "Pause choisie",
+      "Sensations à discuter"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6620f741ef4bfefac97a883c216ee74b942ba0a932b4e16911526e45eb5bd45d",
+    "summary": "La médiathécaire annonce le troisième extrait. Constance connaît le titre : elle l'a relu sur la pochette orange avant de partir. La salle d'écoute est petite, avec des chaises dépareillées et une affiche de concert qui se décolle dans un angle. Elle avait choisi cette soirée après le rendez-vous médical. À présent, aucune feuille n'attend sa signature, personne ne lui demande une réponse, et ses épaules demeurent remontées comme dans un courant d'air.\n\n[…]\n\nConstance change de chaise et laisse le sac au sol. Ses épaules ne deviennent pas soudain légères. Elle décide pourtant de rester pour l'extrait annoncé, puis de rentrer. Au milieu du morceau, elle reconnaît une transition dont Lucile aimerait peut-être le rythme. Elle note son nom sur le programme. Une fois chez elle, elle glisse le papier dans la pochette orange et écrit au crayon : à faire écouter. Elle n'essaie pas de calculer la part de la soirée qui a été agréable. Elle a choisi une durée et un morceau, avec de la tension encore présente. Demain, Johanna doit lui faire un retour sur la première rubrique : cette soirée ne lui a pas fourni de garantie pour la réunion, et elle n'avait pas à le faire.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La médiathécaire annonce le troisième extrait. Constance connaît le titre : elle l'a relu sur la pochette orange avant de partir. La salle d'écoute est petite, avec des chaises dépareillées et une affiche de concert qui se décolle dans un angle. Elle avait choisi cette soirée après le rendez-vous médical. À présent, aucune feuille n'attend sa signature, personne ne lui demande une réponse, et ses épaules demeurent remontées comme dans un courant d'air.",
+        "start": 2,
+        "end": 458
+      },
+      {
+        "quote": "Constance change de chaise et laisse le sac au sol. Ses épaules ne deviennent pas soudain légères. Elle décide pourtant de rester pour l'extrait annoncé, puis de rentrer. Au milieu du morceau, elle reconnaît une transition dont Lucile aimerait peut-être le rythme. Elle note son nom sur le programme. Une fois chez elle, elle glisse le papier dans la pochette orange et écrit au crayon : à faire écouter. Elle n'essaie pas de calculer la part de la soirée qui a été agréable. Elle a choisi une durée et un morceau, avec de la tension encore présente. Demain, Johanna doit lui faire un retour sur la première rubrique : cette soirée ne lui a pas fourni de garantie pour la réunion, et elle n'avait pas à le faire.",
+        "start": 5672,
+        "end": 6384
+      }
+    ],
+    "canonical_concept": "Tension anxieuse pendant les pauses",
+    "context": "Une écoute à la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ajuster une pause tendue"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/constance-variations-reevaluation": {
+    "character": "Constance",
+    "character_id": "constance",
+    "keywords": [
+      "Variations dans le temps",
+      "Retentissement",
+      "Suivi maintenu"
+    ],
+    "character_keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5f57bfbbc275b2c16a0d8ea3ad8fa0f55256589497d918c3f915b7b1b77a7d2d",
+    "summary": "Constance a posé sa feuille à l'envers dans la salle d'attente. Elle l'a retournée deux fois, sans savoir par quel exemple commencer. La photo du cinéma est dans son téléphone : elle a vraiment aimé choisir ce reflet avec Lucile. Une matinée récente lui a pourtant paru pesante dès les premières heures, sans qu'un problème de rubrique l'explique. Elle craint que raconter le samedi rende l'aide inutile, puis que commencer par le matin efface tout ce qui a bougé.\n\n[…]\n\nConstance raconte les deux moments jusqu'au bout. Le médecin ne lui demande pas de choisir celui qui prouverait son état. Ils font le point sur l'aide engagée, reprennent la nuit et les changements récents, puis conviennent de poursuivre le suivi. Le prochain contact est fixé après la présentation ; Constance sait comment signaler plus tôt une modification préoccupante. Elle repart avec sa feuille, sans conclusion de rémission ou de nouveau trouble tirée d'une journée. Sur son téléphone, elle retrouve le cinéma et envoie à Lucile une remarque sur la lettre reflétée. Pour les collègues, elle présentera le fonctionnement du remplacement. Elle n'a pas besoin de raconter cette consultation pour expliquer où les consignes seront rangées. Le travail et le soin continuent, avec chacun leur place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Constance a posé sa feuille à l'envers dans la salle d'attente. Elle l'a retournée deux fois, sans savoir par quel exemple commencer. La photo du cinéma est dans son téléphone : elle a vraiment aimé choisir ce reflet avec Lucile. Une matinée récente lui a pourtant paru pesante dès les premières heures, sans qu'un problème de rubrique l'explique. Elle craint que raconter le samedi rende l'aide inutile, puis que commencer par le matin efface tout ce qui a bougé.",
+        "start": 2,
+        "end": 466
+      },
+      {
+        "quote": "Constance raconte les deux moments jusqu'au bout. Le médecin ne lui demande pas de choisir celui qui prouverait son état. Ils font le point sur l'aide engagée, reprennent la nuit et les changements récents, puis conviennent de poursuivre le suivi. Le prochain contact est fixé après la présentation ; Constance sait comment signaler plus tôt une modification préoccupante. Elle repart avec sa feuille, sans conclusion de rémission ou de nouveau trouble tirée d'une journée. Sur son téléphone, elle retrouve le cinéma et envoie à Lucile une remarque sur la lettre reflétée. Pour les collègues, elle présentera le fonctionnement du remplacement. Elle n'a pas besoin de raconter cette consultation pour expliquer où les consignes seront rangées. Le travail et le soin continuent, avec chacun leur place.",
+        "start": 5940,
+        "end": 6740
+      }
+    ],
+    "canonical_concept": "Variations et réévaluation dans le temps",
+    "context": "Le rendez-vous médical de réévaluation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une réévaluation nuancée"
+    ],
+    "clinical_code": "6A73",
+    "clinical_diagnosis": "Trouble anxieux et dépressif mixte"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir": {
     "character": "Karim",
     "character_id": "karim",
@@ -11920,6 +12400,487 @@
     "resources": [
       "Techniques pour réguler l’euphorie"
     ]
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Autoattention",
+      "Écoute du texte",
+      "Rôles de coanimation"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8784eec34dc8034acc21020e689c3c29d2beabfb0230c1364008c10999ad0f17",
+    "summary": "Avec Lucie, la veille, Fanny a relu deux premières phrases au téléphone. Elles ont gardé celle du bus et celle d’un retour de voyage ; sa sœur a préféré la plus courte, à la grande surprise de Fanny, qui lui a promis un jour la défense complète des points-virgules. L’appel a duré le temps dont Lucie disposait. Aujourd’hui, à la bibliothèque, ces deux textes figurent sur la feuille où le groupe prépare l’ordre des lectures. Les livres sont presque prêts ; il reste à construire une soirée qui appartienne à toutes les autrices.\n\n[…]\n\nLa participante reprend son idée : le retour de voyage donnera au récit du bus une autre résonance. Fanny relit et défend finalement ce texte court avec Nora. Elle décrit aussi au thérapeute, dans son suivi, la manière dont elle a perdu le propos en surveillant sa présence. Pour la soirée, elle choisit une présentation brève des décisions littéraires. Nora accepte la table d’accueil ; elles confirment ce partage et l’ordre des lectures. Les quarante-huit exemplaires seront retirés avant la présentation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Avec Lucie, la veille, Fanny a relu deux premières phrases au téléphone. Elles ont gardé celle du bus et celle d’un retour de voyage ; sa sœur a préféré la plus courte, à la grande surprise de Fanny, qui lui a promis un jour la défense complète des points-virgules. L’appel a duré le temps dont Lucie disposait. Aujourd’hui, à la bibliothèque, ces deux textes figurent sur la feuille où le groupe prépare l’ordre des lectures. Les livres sont presque prêts ; il reste à construire une soirée qui appartienne à toutes les autrices.",
+        "start": 2,
+        "end": 532
+      },
+      {
+        "quote": "La participante reprend son idée : le retour de voyage donnera au récit du bus une autre résonance. Fanny relit et défend finalement ce texte court avec Nora. Elle décrit aussi au thérapeute, dans son suivi, la manière dont elle a perdu le propos en surveillant sa présence. Pour la soirée, elle choisit une présentation brève des décisions littéraires. Nora accepte la table d’accueil ; elles confirment ce partage et l’ordre des lectures. Les quarante-huit exemplaires seront retirés avant la présentation.",
+        "start": 4530,
+        "end": 5038
+      }
+    ],
+    "canonical_concept": "Autoattention qui entrave les échanges",
+    "context": "À la bibliothèque, pendant la préparation de la soirée de présentation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reprendre un échange dont les mots ont échappé"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-camouflage-preparation-envahissante": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Camouflage excessif",
+      "Préparation envahissante",
+      "Choix personnels"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dddff944815739e0e1a7c54407cef148acdff6bebbb8671819d245f15a90c421",
+    "summary": "Fanny cherche sa chemise à motifs entre deux pulls. Les dessins ressemblent à de petites fenêtres ouvertes, ce qui lui paraît convenir à une visite pour Les seuils. Nora trouve les rapprochements de ce genre un peu faciles ; Fanny les aime quand même. Elles ont fixé le tirage à quarante-huit exemplaires et doivent rencontrer l’imprimeur pour choisir le papier. Fanny a préparé les épreuves et une liste de questions sur les marges, toutes orientées vers la place laissée aux phrases longues.\n\n[…]\n\nFanny enfile la chemise parce qu’elle aime son dessin. Elle demande à Nora d’emporter une partie des épreuves ; Nora accepte et garde aussi le devis. Fanny prendra les textes restants et leurs questions sur le papier. Rien n’a été retiré de force du sac. Le rendez-vous est confirmé ; la préparation envahissante demeure une question pour son suivi, distincte de cette solution de transport.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Fanny cherche sa chemise à motifs entre deux pulls. Les dessins ressemblent à de petites fenêtres ouvertes, ce qui lui paraît convenir à une visite pour Les seuils. Nora trouve les rapprochements de ce genre un peu faciles ; Fanny les aime quand même. Elles ont fixé le tirage à quarante-huit exemplaires et doivent rencontrer l’imprimeur pour choisir le papier. Fanny a préparé les épreuves et une liste de questions sur les marges, toutes orientées vers la place laissée aux phrases longues.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Fanny enfile la chemise parce qu’elle aime son dessin. Elle demande à Nora d’emporter une partie des épreuves ; Nora accepte et garde aussi le devis. Fanny prendra les textes restants et leurs questions sur le papier. Rien n’a été retiré de force du sac. Le rendez-vous est confirmé ; la préparation envahissante demeure une question pour son suivi, distincte de cette solution de transport.",
+        "start": 4603,
+        "end": 4994
+      }
+    ],
+    "canonical_concept": "Camouflage qui envahit la préparation",
+    "context": "Au domicile de Fanny, pendant la préparation de la visite à l’imprimerie",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour distinguer le projet de la préparation envahissante"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-evaluation-clinique-trouble-olfactif": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Évaluation clinique",
+      "Confusion des termes",
+      "Suivi médical coordonné"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f8b081a240012ba0a77b239588eca36bbe3f991adf6dcbf33a84d493a2ebc428",
+    "summary": "Le point-virgule attend dans la marge de la dernière épreuve. Fanny glisse la feuille dans son sac avant de partir chez le médecin. Elle voudrait la relire après le rendez-vous, quand elle pourra penser au texte autrement qu’entre deux recherches sur son téléphone. La veille, en cherchant les mots perception olfactive, elle a trouvé une page sur la phantosmie. Elle y a lu une description qui ne correspondait pas à la question qu’elle avait apportée à son thérapeute. Pourtant, la proximité des mots l’a retenue.\n\n[…]\n\nLe médecin regarde la page apportée et distingue le diagnostic établi des troubles sensoriels de l’odorat. Il reprend ce qui a été évalué et précise avec Fanny comment revenir vers lui pour un changement de santé. Elle n’entreprend pas les exercices trouvés en ligne. Plus tard, elle relit l’épreuve avec l’autrice : le point-virgule reste. Nora reçoit la version validée et transmet le bon à tirer. L’impression peut commencer ; la question médicale conserve son cadre de suivi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le point-virgule attend dans la marge de la dernière épreuve. Fanny glisse la feuille dans son sac avant de partir chez le médecin. Elle voudrait la relire après le rendez-vous, quand elle pourra penser au texte autrement qu’entre deux recherches sur son téléphone. La veille, en cherchant les mots perception olfactive, elle a trouvé une page sur la phantosmie. Elle y a lu une description qui ne correspondait pas à la question qu’elle avait apportée à son thérapeute. Pourtant, la proximité des mots l’a retenue.",
+        "start": 2,
+        "end": 517
+      },
+      {
+        "quote": "Le médecin regarde la page apportée et distingue le diagnostic établi des troubles sensoriels de l’odorat. Il reprend ce qui a été évalué et précise avec Fanny comment revenir vers lui pour un changement de santé. Elle n’entreprend pas les exercices trouvés en ligne. Plus tard, elle relit l’épreuve avec l’autrice : le point-virgule reste. Nora reçoit la version validée et transmet le bon à tirer. L’impression peut commencer ; la question médicale conserve son cadre de suivi.",
+        "start": 4839,
+        "end": 5318
+      }
+    ],
+    "canonical_concept": "Périmètre et limites de l’évaluation clinique",
+    "context": "Avant et pendant le rendez-vous habituel chez le médecin, puis devant la dernière épreuve",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer une clarification médicale utile"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-evitement-proximite-rencontre-choisie": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Évitement de proximité",
+      "Rencontre désirée",
+      "Adaptation choisie"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "89481fdc98ba636fcb0b48143e7284b573e27183fcae172f323bd72c568c398e",
+    "summary": "Fanny avait demandé à voir le papier avant de décider. Sur écran, le blanc lui semblait trop froid pour les récits de trajets du recueil ; elle voulait comprendre la différence en tournant une vraie page. Ce matin pourtant, elle ouvre le message de l’imprimeur pour chercher ce qui pourrait se régler par courriel. Elle imagine la place des sièges, la table et la proximité avec la personne qui montrera les échantillons. La crainte de son odeur supposée passe devant ses questions sur les marges.\n\n[…]\n\nFanny choisit de venir avec Nora pour examiner les papiers ; elles pourront finir par courriel si nécessaire. À l’imprimerie, elle donne son avis sur l’ivoire, où la ponctuation lui paraît moins dure que sur le blanc. Nora partage ce choix et termine la partie administrative comme elles l’ont convenu. Le bon à tirer sera envoyé. Fanny repart encore préoccupée. Elle ne sait pas comment raconter ce que la rencontre lui a coûté, même si sa préférence de papier a été entendue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Fanny avait demandé à voir le papier avant de décider. Sur écran, le blanc lui semblait trop froid pour les récits de trajets du recueil ; elle voulait comprendre la différence en tournant une vraie page. Ce matin pourtant, elle ouvre le message de l’imprimeur pour chercher ce qui pourrait se régler par courriel. Elle imagine la place des sièges, la table et la proximité avec la personne qui montrera les échantillons. La crainte de son odeur supposée passe devant ses questions sur les marges.",
+        "start": 2,
+        "end": 499
+      },
+      {
+        "quote": "Fanny choisit de venir avec Nora pour examiner les papiers ; elles pourront finir par courriel si nécessaire. À l’imprimerie, elle donne son avis sur l’ivoire, où la ponctuation lui paraît moins dure que sur le blanc. Nora partage ce choix et termine la partie administrative comme elles l’ont convenu. Le bon à tirer sera envoyé. Fanny repart encore préoccupée. Elle ne sait pas comment raconter ce que la rencontre lui a coûté, même si sa préférence de papier a été entendue.",
+        "start": 4473,
+        "end": 4950
+      }
+    ],
+    "canonical_concept": "Évitement des situations de proximité",
+    "context": "Le matin de la visite, puis à l’imprimerie avec Nora",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préserver un choix dans une rencontre difficile"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-gestes-ambigus-interpretes-comme-indices": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Idées de référence",
+      "Gestes ambigus",
+      "Interprétation incertaine"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "0f202d6d38c686abf92ab73cdd40a18dc3a53ece757ce841c73d2b9e3cae9007",
+    "summary": "La porte jaune est posée à gauche, l’escalier bleu à droite. Fanny les a sortis de leur enveloppe avant l’arrivée des participantes. Nora préfère l’escalier, dont les marches tiennent dans trois traits ; Fanny trouve que la porte laisse davantage de place à ce qu’on imagine derrière. Elles ont décidé de recueillir les avis sans annoncer leurs préférences. Le recueil appartient aux autrices, jusque dans cette décision. Fanny prépare la question et rapproche la feuille où elle notera le choix.\n\n[…]\n\nFanny laisse l’enveloppe sur le côté et demande quelle image convient le mieux aux textes. Nora soulève les maquettes pour le fond de la salle. La porte jaune l’emporte ; Fanny inscrit ce choix avec la date. Elle reste tendue quand les feuilles circulent. Le vote décide d’une couverture, sans lui apprendre pourquoi la fenêtre a été ouverte. Elle réunit ensuite les textes déjà relus : il faudra les transmettre pour obtenir un devis.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La porte jaune est posée à gauche, l’escalier bleu à droite. Fanny les a sortis de leur enveloppe avant l’arrivée des participantes. Nora préfère l’escalier, dont les marches tiennent dans trois traits ; Fanny trouve que la porte laisse davantage de place à ce qu’on imagine derrière. Elles ont décidé de recueillir les avis sans annoncer leurs préférences. Le recueil appartient aux autrices, jusque dans cette décision. Fanny prépare la question et rapproche la feuille où elle notera le choix.",
+        "start": 2,
+        "end": 498
+      },
+      {
+        "quote": "Fanny laisse l’enveloppe sur le côté et demande quelle image convient le mieux aux textes. Nora soulève les maquettes pour le fond de la salle. La porte jaune l’emporte ; Fanny inscrit ce choix avec la date. Elle reste tendue quand les feuilles circulent. Le vote décide d’une couverture, sans lui apprendre pourquoi la fenêtre a été ouverte. Elle réunit ensuite les textes déjà relus : il faudra les transmettre pour obtenir un devis.",
+        "start": 4485,
+        "end": 4920
+      }
+    ],
+    "canonical_concept": "Gestes d’autrui interprétés comme des indices",
+    "context": "À la séance suivante, devant les deux maquettes de couverture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une décision possible devant un geste ambigu"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-honte-difficulte-a-se-confier": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Honte",
+      "Parole limitée",
+      "Transmission au soignant"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "08166b15081c563ace503644c734dee4983b3b78329745cc4e6ba09a463e15ed",
+    "summary": "Lucie appelle pendant que Fanny remet les épreuves dans leur pochette. Elle a quelques minutes avant de préparer son dîner et demande quelle couverture a été retenue. « La porte jaune », répond Fanny. Elle voudrait raconter le papier ivoire, la manière dont une page semble différente dès qu’on la tourne vraiment. Elle commence une phrase sur les virgules, puis se rappelle combien la visite lui a coûté. Un mot arrive contre elle : incapable. Elle a donné son avis chez l’imprimeur, pourtant elle se parle comme si toute la rencontre avait été un échec.\n\n[…]\n\nFanny rappelle brièvement Lucie et lui raconte le papier ivoire. Elle ajoute que les rencontres lui coûtent beaucoup en ce moment ; elle ne souhaite pas en dire davantage. Lucie écoute puis lui demande quelle première phrase elle a préféré relire. Au rendez-vous suivant, Fanny remet au thérapeute une note où la crainte et la honte sont restées écrites. Il prend le temps de les reprendre avec elle, au-delà des délais du livre. Le bon à tirer arrive après cette séance.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Lucie appelle pendant que Fanny remet les épreuves dans leur pochette. Elle a quelques minutes avant de préparer son dîner et demande quelle couverture a été retenue. « La porte jaune », répond Fanny. Elle voudrait raconter le papier ivoire, la manière dont une page semble différente dès qu’on la tourne vraiment. Elle commence une phrase sur les virgules, puis se rappelle combien la visite lui a coûté. Un mot arrive contre elle : incapable. Elle a donné son avis chez l’imprimeur, pourtant elle se parle comme si toute la rencontre avait été un échec.",
+        "start": 2,
+        "end": 557
+      },
+      {
+        "quote": "Fanny rappelle brièvement Lucie et lui raconte le papier ivoire. Elle ajoute que les rencontres lui coûtent beaucoup en ce moment ; elle ne souhaite pas en dire davantage. Lucie écoute puis lui demande quelle première phrase elle a préféré relire. Au rendez-vous suivant, Fanny remet au thérapeute une note où la crainte et la honte sont restées écrites. Il prend le temps de les reprendre avec elle, au-delà des délais du livre. Le bon à tirer arrive après cette séance.",
+        "start": 4456,
+        "end": 4927
+      }
+    ],
+    "canonical_concept": "Honte et difficulté à se confier",
+    "context": "Au téléphone avec Lucie, puis dans la préparation et le déroulement d’une consultation",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "Le récit se limite au pratique",
+      "3 techniques pour transmettre une difficulté sans devoir tout raconter à tous"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-preoccupation-odeur-lecture-interrompue": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Préoccupation persistante",
+      "Attention retenue",
+      "Travail littéraire"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ee5aaba70c2a76e183313e2874c4a6615e2b117781c5fe270be3e41040d6ddcb",
+    "summary": "L’arrêt de bus du texte n’a plus de banc. C’est ce détail que Fanny voudrait garder, même si Nora trouve le premier paragraphe trop long. Les participantes ont choisi Les seuils pour titre de leur recueil ; ce soir, chacune apporte une page à relire avant de penser à l’impression. Fanny aime ces trajets minuscules qui finissent par raconter une vie entière. À trente-trois ans, elle anime cet atelier depuis assez longtemps pour savoir qu’une hésitation sur un mot mérite parfois toute une discussion.\n\n[…]\n\nL’autrice reprend sa question. Fanny lui demande ce que change la coupure pour la personne qui attend le bus. Elles relisent les deux versions ; l’autrice conserve finalement sa longue phrase. Nora sourit en rangeant les maquettes : elles choisiront la couverture à la prochaine séance. Fanny emporte les deux propositions. Sa préoccupation n’a pas disparu, mais elle sait quelle discussion a réellement eu lieu et ce qu’elle veut apporter à son prochain rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’arrêt de bus du texte n’a plus de banc. C’est ce détail que Fanny voudrait garder, même si Nora trouve le premier paragraphe trop long. Les participantes ont choisi Les seuils pour titre de leur recueil ; ce soir, chacune apporte une page à relire avant de penser à l’impression. Fanny aime ces trajets minuscules qui finissent par raconter une vie entière. À trente-trois ans, elle anime cet atelier depuis assez longtemps pour savoir qu’une hésitation sur un mot mérite parfois toute une discussion.",
+        "start": 2,
+        "end": 505
+      },
+      {
+        "quote": "L’autrice reprend sa question. Fanny lui demande ce que change la coupure pour la personne qui attend le bus. Elles relisent les deux versions ; l’autrice conserve finalement sa longue phrase. Nora sourit en rangeant les maquettes : elles choisiront la couverture à la prochaine séance. Fanny emporte les deux propositions. Sa préoccupation n’a pas disparu, mais elle sait quelle discussion a réellement eu lieu et ce qu’elle veut apporter à son prochain rendez-vous.",
+        "start": 4464,
+        "end": 4931
+      }
+    ],
+    "canonical_concept": "Préoccupation persistante autour de l’odeur",
+    "context": "Premier atelier consacré au recueil Les seuils, à la maison de quartier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour retrouver une tâche choisie quand la préoccupation revient"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-projet-reussi-preoccupation-persistante": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Persistance possible",
+      "Objectif de vie atteint",
+      "Suivi au-delà du projet"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "4a4cab1da4b4f0f50da3c030a7440ac394f3315c50a3d9b8076394919c7c66b5",
+    "summary": "Les quarante-huit exemplaires sont arrivés dans deux cartons que Nora ouvre sur la table d’accueil. La porte jaune apparaît d’abord en petites piles, puis dans les mains d’une participante qui cherche aussitôt son texte. Le papier ivoire a la couleur que Fanny avait espérée. Elle tourne jusqu’au récit du bus et retrouve le point-virgule resté en place, après la dernière validation de l’autrice. Ce détail lui donne envie de sourire autant que le titre sur la couverture. Le livre existe enfin ailleurs que dans des pochettes.\n\n[…]\n\nFanny présente brièvement les choix de ponctuation, l’ordre des lectures et le papier ivoire. Les participantes lisent ensuite leurs propres textes et les exemplaires leur sont remis. Après une conversation qu’elle a aimée, la crainte revient encore ; elle garde son rendez-vous de suivi. Nora tient la table d’accueil pour cette soirée, comme elles l’ont confirmé. Avec Lucie, Fanny parle d’une histoire qu’elle voudrait écrire elle-même, où personne ne prend le bus prévu au départ. Après la soirée, Nora et Fanny déposent la petite pile restante à la maison de quartier.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les quarante-huit exemplaires sont arrivés dans deux cartons que Nora ouvre sur la table d’accueil. La porte jaune apparaît d’abord en petites piles, puis dans les mains d’une participante qui cherche aussitôt son texte. Le papier ivoire a la couleur que Fanny avait espérée. Elle tourne jusqu’au récit du bus et retrouve le point-virgule resté en place, après la dernière validation de l’autrice. Ce détail lui donne envie de sourire autant que le titre sur la couverture. Le livre existe enfin ailleurs que dans des pochettes.",
+        "start": 2,
+        "end": 530
+      },
+      {
+        "quote": "Fanny présente brièvement les choix de ponctuation, l’ordre des lectures et le papier ivoire. Les participantes lisent ensuite leurs propres textes et les exemplaires leur sont remis. Après une conversation qu’elle a aimée, la crainte revient encore ; elle garde son rendez-vous de suivi. Nora tient la table d’accueil pour cette soirée, comme elles l’ont confirmé. Avec Lucie, Fanny parle d’une histoire qu’elle voudrait écrire elle-même, où personne ne prend le bus prévu au départ. Après la soirée, Nora et Fanny déposent la petite pile restante à la maison de quartier.",
+        "start": 4676,
+        "end": 5249
+      }
+    ],
+    "canonical_concept": "Persistance possible après un projet réussi",
+    "context": "À la bibliothèque, le soir de la présentation du recueil imprimé Les seuils",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clore un projet en laissant ouverte la suite du suivi"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-reassurance-repetee-relation-limites": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Réassurance répétée",
+      "Soutien et certitude",
+      "Limites relationnelles"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1dd258e3f54a2a4bbad83087c8d1fa22ec958461e3e131a7f3f196d06b8c57de",
+    "summary": "Nora a récupéré la pochette et obtenu un devis. Les seuils tient maintenant sur une feuille de chiffres : papier, couverture, façonnage, quantité. Fanny suit les lignes avec un crayon bleu. Elle trouve le mot façonnage presque aussi beau qu’un titre et voudrait comprendre pourquoi le prix change si elles commandent quelques exemplaires de plus. Elles disposent d’une enveloppe précise, réservée par la maison de quartier. Rien ne sera demandé aux participantes avant que chacune sache ce que le livre collectif deviendra.\n\n[…]\n\nFanny repose son téléphone sans envoyer de demande à Lucie. Elle dit à Nora qu’elle a besoin de comprendre la différence entre deux quantités. Elles reprennent cette ligne et choisissent quarante-huit exemplaires, dans l’enveloppe disponible. Nora note ce nombre avant de partir. Fanny n’obtient pas une certitude sur sa crainte ; elle obtient une décision qu’elles peuvent transmettre à l’imprimeur. La limite de Nora demeure et pourra se discuter à un autre moment.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora a récupéré la pochette et obtenu un devis. Les seuils tient maintenant sur une feuille de chiffres : papier, couverture, façonnage, quantité. Fanny suit les lignes avec un crayon bleu. Elle trouve le mot façonnage presque aussi beau qu’un titre et voudrait comprendre pourquoi le prix change si elles commandent quelques exemplaires de plus. Elles disposent d’une enveloppe précise, réservée par la maison de quartier. Rien ne sera demandé aux participantes avant que chacune sache ce que le livre collectif deviendra.",
+        "start": 2,
+        "end": 525
+      },
+      {
+        "quote": "Fanny repose son téléphone sans envoyer de demande à Lucie. Elle dit à Nora qu’elle a besoin de comprendre la différence entre deux quantités. Elles reprennent cette ligne et choisissent quarante-huit exemplaires, dans l’enveloppe disponible. Nora note ce nombre avant de partir. Fanny n’obtient pas une certitude sur sa crainte ; elle obtient une décision qu’elles peuvent transmettre à l’imprimeur. La limite de Nora demeure et pourra se discuter à un autre moment.",
+        "start": 4423,
+        "end": 4890
+      }
+    ],
+    "canonical_concept": "Réassurance répétée dans la relation",
+    "context": "À la maison de quartier, devant le premier devis d’impression",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour demander du soutien sans réclamer des verdicts répétés"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-recul-variable-detresse-conviction": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Recul variable",
+      "Conviction et détresse",
+      "Réponse différée"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "aec43c3e1eb9c050ecaaec2e09ecb7e94476b0898015e95c468cfdcb93eba213",
+    "summary": "Au rendez-vous où elle a remis sa note, Fanny a pu parler de l’imprimerie autrement que par ses délais. Le thérapeute l’a écoutée décrire sa crainte et la honte d’en parler. Dans ce contexte, elle a aussi pu dire que les gestes observés pendant la visite avaient peut-être un autre sens que celui qu’elle leur attribuait. Cette phrase ne lui semblait pas alors une concession à faire. Elle décrivait une possibilité qu’elle arrivait réellement à considérer.\n\n[…]\n\nFanny dit à Nora qu’elle doit relire la phrase avant de répondre. L’autrice accepte de garder cette correction pour le lendemain ; toutes les autres validations sont notées. Lors de son échange de suivi, Fanny raconte effectivement les deux moments au thérapeute, sans retirer ce qu’elle avait dit en consultation. Le bon à tirer attend encore sa ponctuation. Elle garde aussi une question pour le rendez-vous médical déjà prévu le lendemain : ce que désigne exactement son diagnostic en français.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au rendez-vous où elle a remis sa note, Fanny a pu parler de l’imprimerie autrement que par ses délais. Le thérapeute l’a écoutée décrire sa crainte et la honte d’en parler. Dans ce contexte, elle a aussi pu dire que les gestes observés pendant la visite avaient peut-être un autre sens que celui qu’elle leur attribuait. Cette phrase ne lui semblait pas alors une concession à faire. Elle décrivait une possibilité qu’elle arrivait réellement à considérer.",
+        "start": 2,
+        "end": 459
+      },
+      {
+        "quote": "Fanny dit à Nora qu’elle doit relire la phrase avant de répondre. L’autrice accepte de garder cette correction pour le lendemain ; toutes les autres validations sont notées. Lors de son échange de suivi, Fanny raconte effectivement les deux moments au thérapeute, sans retirer ce qu’elle avait dit en consultation. Le bon à tirer attend encore sa ponctuation. Elle garde aussi une question pour le rendez-vous médical déjà prévu le lendemain : ce que désigne exactement son diagnostic en français.",
+        "start": 4486,
+        "end": 4983
+      }
+    ],
+    "canonical_concept": "Recul variable selon l’état de détresse",
+    "context": "Entre une consultation et la relecture du bon à tirer à la maison de quartier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour décrire les variations de recul sans se condamner"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-travail-accompli-cout-invisible": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Retentissement fonctionnel",
+      "Réussite et souffrance",
+      "Limite de travail"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7ab3f3e7b12e9d4ec9a8ea9a06dd0bfe07095eb53001a8b5805bef6dc1004184",
+    "summary": "Le message de l’imprimeur contient quatre mots que Fanny attendait : Les seuils sous presse. Nora le lui transfère avec un bravo pour la dernière relecture. Les quarante-huit exemplaires auront leur porte jaune et leurs pages ivoire. Fanny agrandit la petite image jointe et reconnaît le titre placé un peu plus haut qu’au premier essai. Elle aime le résultat. Elle pense aussi à la soirée où Lucie avait du temps et où elle n’en avait plus, retenue par les préparatifs et les préoccupations.\n\n[…]\n\nFanny décline l’animation supplémentaire et conserve la présentation du recueil. Nora réserve la salle pour cette seule soirée. Dans son suivi, Fanny décrit le temps pris à sa relation avec Lucie et le plaisir de lecture devenu difficile ; le thérapeute l’entend sans s’arrêter au livre terminé. Elle convient ensuite avec sa sœur d’un appel pour choisir deux premières phrases à lire. L’impression continue, et sa semaine garde une place qu’elle ne souhaite pas remplir davantage.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de l’imprimeur contient quatre mots que Fanny attendait : Les seuils sous presse. Nora le lui transfère avec un bravo pour la dernière relecture. Les quarante-huit exemplaires auront leur porte jaune et leurs pages ivoire. Fanny agrandit la petite image jointe et reconnaît le titre placé un peu plus haut qu’au premier essai. Elle aime le résultat. Elle pense aussi à la soirée où Lucie avait du temps et où elle n’en avait plus, retenue par les préparatifs et les préoccupations.",
+        "start": 2,
+        "end": 494
+      },
+      {
+        "quote": "Fanny décline l’animation supplémentaire et conserve la présentation du recueil. Nora réserve la salle pour cette seule soirée. Dans son suivi, Fanny décrit le temps pris à sa relation avec Lucie et le plaisir de lecture devenu difficile ; le thérapeute l’entend sans s’arrêter au livre terminé. Elle convient ensuite avec sa sœur d’un appel pour choisir deux premières phrases à lire. L’impression continue, et sa semaine garde une place qu’elle ne souhaite pas remplir davantage.",
+        "start": 4575,
+        "end": 5056
+      }
+    ],
+    "canonical_concept": "Retentissement masqué par le travail accompli",
+    "context": "À la réception du message de l’imprimeur, puis en réunion à la bibliothèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre visible le coût derrière le travail accompli"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/fanny-verifications-repetees-depart-retarde": {
+    "character": "Fanny",
+    "character_id": "fanny",
+    "keywords": [
+      "Auto-vérification",
+      "Doute qui revient",
+      "Temps empêché"
+    ],
+    "character_keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b0f22d9034e36015867b673912edde7d7dcdf405bfe44bf5edd43ac78cb76cbf",
+    "summary": "La pochette est jaune, comme la porte choisie pour la couverture. Fanny y a glissé les textes relus, les coordonnées de l’imprimeur et la feuille où chaque autrice a validé sa version. Elle a laissé de côté une copie de travail couverte de flèches : Nora n’aura pas à deviner laquelle est la bonne. Il reste seulement à descendre déposer le dossier dans la boîte interne de la maison de quartier avant la fermeture. Le trajet est court ; elle avait prévu de rentrer ensuite pour appeler Lucie.\n\n[…]\n\nFanny écrit à Nora que les textes arriveront le lendemain matin. Elle les dépose alors dans la boîte interne et reçoit une confirmation de réception. À son rendez-vous de suivi, plus tard dans la journée, elle raconte les départs interrompus et la question manquée à l’atelier. Le thérapeute reprend avec elle l’effet de la préoccupation sur son attention et ses actions. Ils discutent de la suite sans transformer le dépôt effectué en obligation de réussir chaque départ futur.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La pochette est jaune, comme la porte choisie pour la couverture. Fanny y a glissé les textes relus, les coordonnées de l’imprimeur et la feuille où chaque autrice a validé sa version. Elle a laissé de côté une copie de travail couverte de flèches : Nora n’aura pas à deviner laquelle est la bonne. Il reste seulement à descendre déposer le dossier dans la boîte interne de la maison de quartier avant la fermeture. Le trajet est court ; elle avait prévu de rentrer ensuite pour appeler Lucie.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Fanny écrit à Nora que les textes arriveront le lendemain matin. Elle les dépose alors dans la boîte interne et reçoit une confirmation de réception. À son rendez-vous de suivi, plus tard dans la journée, elle raconte les départs interrompus et la question manquée à l’atelier. Le thérapeute reprend avec elle l’effet de la préoccupation sur son attention et ses actions. Ils discutent de la suite sans transformer le dépôt effectué en obligation de réussir chaque départ futur.",
+        "start": 4301,
+        "end": 4779
+      }
+    ],
+    "canonical_concept": "Vérifications répétées de la source supposée",
+    "context": "Chez Fanny avant le dépôt des textes, puis au rendez-vous de suivi",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler des vérifications et organiser la tâche empêchée"
+    ],
+    "clinical_code": "6B22",
+    "clinical_diagnosis": "Trouble de perception olfactive"
   },
   "posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie": {
     "character": "Camille",
@@ -19872,6 +20833,487 @@
     "clinical_code": "6A03.2",
     "clinical_diagnosis": "Trouble développemental des apprentissages avec déficit en mathématiques"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Concentration fragile",
+      "Interruptions",
+      "Compétences professionnelles"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "33f7b3f9264b321ae55fe642c3d9b655ab36c8dadb643d6b167e2ce32f4fca67",
+    "summary": "« Cette fois, la facture sera au nom de ma société », dit le propriétaire d’Avel. Louise ouvre le dossier du bateau. Elle connaît l’écran, les lignes déjà confirmées lors du précédent appel et le champ où doit aller l’adresse. Le client épelle un nom, puis ajoute le numéro de la rue. Louise entend chaque mot. Au moment de le reporter, le radiateur fait son tic sec et Marc demande depuis la porte si une livraison est annoncée. Elle répond qu’elle regardera. Quand elle revient à sa note, elle ne sait plus quelle partie elle a déjà saisie.\n\n[…]\n\nLa facture exacte part. Louise inscrit l’envoi dans le dossier comme elle le fait habituellement ; rien ne reste en suspens pour le client. Sa compétence lui a permis de contrôler et de corriger, mais cela lui a demandé davantage de travail. Elle ouvre ensuite le suivi de livraison pour Marc. Le soir, un message d’Agnès arrive : entre deux morceaux, lequel choisirait-elle pour Claire ? Les différences sont expliquées clairement. Louise les comprend, ce qui ne rend pas encore la décision facile.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Cette fois, la facture sera au nom de ma société », dit le propriétaire d’Avel. Louise ouvre le dossier du bateau. Elle connaît l’écran, les lignes déjà confirmées lors du précédent appel et le champ où doit aller l’adresse. Le client épelle un nom, puis ajoute le numéro de la rue. Louise entend chaque mot. Au moment de le reporter, le radiateur fait son tic sec et Marc demande depuis la porte si une livraison est annoncée. Elle répond qu’elle regardera. Quand elle revient à sa note, elle ne sait plus quelle partie elle a déjà saisie.",
+        "start": 2,
+        "end": 544
+      },
+      {
+        "quote": "La facture exacte part. Louise inscrit l’envoi dans le dossier comme elle le fait habituellement ; rien ne reste en suspens pour le client. Sa compétence lui a permis de contrôler et de corriger, mais cela lui a demandé davantage de travail. Elle ouvre ensuite le suivi de livraison pour Marc. Le soir, un message d’Agnès arrive : entre deux morceaux, lequel choisirait-elle pour Claire ? Les différences sont expliquées clairement. Louise les comprend, ce qui ne rend pas encore la décision facile.",
+        "start": 5857,
+        "end": 6356
+      }
+    ],
+    "canonical_concept": "Concentration fragile malgré les compétences",
+    "context": "pendant la facturation à l’atelier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour soutenir une tâche administrative précise"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-desespoir-avenir-retreci": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Désespoir",
+      "Avenir rétréci",
+      "Relais médical"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e21a2fdc0145c3ef29ee9b99f8dfe30bc2224e1639fb2140af4997709327c7f6",
+    "summary": "La date du retour de Claire est entourée sur le calendrier de la cuisine. Louise a posé dessous la boîte rouge, rapportée par Agnès. D’habitude, elle saurait au moins imaginer la salle : le rang des altos, la table de travers, Claire qui cherche où poser son manteau. Pendant cette semaine plus difficile, l’image s’arrête avant qu’elle y trouve une place pour elle.\n\n[…]\n\nIls précisent la suite de ce contact et la possibilité de rappeler si son état s’aggrave avant le rendez-vous. Louise ne promet pas d’aller chanter. Elle garde la boîte chez elle, fermée sous le buffet. Agnès demande si elle souhaite qu’elle reste encore quelques instants, puis dit quand elle devra partir. La certitude douloureuse n’a pas disparu ; elle est désormais portée jusqu’au médecin, qui prend le relais pour son évaluation et son suivi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La date du retour de Claire est entourée sur le calendrier de la cuisine. Louise a posé dessous la boîte rouge, rapportée par Agnès. D’habitude, elle saurait au moins imaginer la salle : le rang des altos, la table de travers, Claire qui cherche où poser son manteau. Pendant cette semaine plus difficile, l’image s’arrête avant qu’elle y trouve une place pour elle.",
+        "start": 2,
+        "end": 368
+      },
+      {
+        "quote": "Ils précisent la suite de ce contact et la possibilité de rappeler si son état s’aggrave avant le rendez-vous. Louise ne promet pas d’aller chanter. Elle garde la boîte chez elle, fermée sous le buffet. Agnès demande si elle souhaite qu’elle reste encore quelques instants, puis dit quand elle devra partir. La certitude douloureuse n’a pas disparu ; elle est désormais portée jusqu’au médecin, qui prend le relais pour son évaluation et son suivi.",
+        "start": 6171,
+        "end": 6619
+      }
+    ],
+    "canonical_concept": "Désespoir et avenir qui se rétrécit",
+    "context": "à la maison pendant une semaine plus difficile",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une marge et solliciter un relais clinique",
+      "3. Contacter le soignant sans condition d’exercice"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-devalorisation-retard-repare": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Dévalorisation",
+      "Culpabilité excessive",
+      "Responsabilité limitée"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "10e2243ef07a75b2a67578018dc1adb66c4d3f8552dbe9fbc9e83c433c8ecff9",
+    "summary": "« Salle réglée jeudi. » Les mots sont au crayon dans le coin de la partition. Louise a emporté la feuille choisie jusque sur le canapé. Agnès est restée le temps de vérifier qu’elles possédaient bien la même version. Cette annotation remonte à plusieurs années : Louise avait envoyé en retard le virement pour la location de la salle. Elle l’avait fait ensuite, la personne chargée des réservations avait confirmé le paiement et aucune dette n’était restée ouverte.\n\n[…]\n\n« Je ne vais pas me déclarer formidable sur cette pièce justificative », dit Louise. Agnès sourit : ce n’est pas ce qu’elle demande. Elles peuvent arrêter là. Louise remet la partition dans la boîte rouge sans rayer son nom du rang des altos. La honte n’a pas disparu, mais elle ne transforme pas ce soir en nouvelle séance de comptes. Elle souhaite parler au médecin de ces phrases qui dépassent les faits. Quand Agnès part, la place choisie pour la chanson reste la sienne.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Salle réglée jeudi. » Les mots sont au crayon dans le coin de la partition. Louise a emporté la feuille choisie jusque sur le canapé. Agnès est restée le temps de vérifier qu’elles possédaient bien la même version. Cette annotation remonte à plusieurs années : Louise avait envoyé en retard le virement pour la location de la salle. Elle l’avait fait ensuite, la personne chargée des réservations avait confirmé le paiement et aucune dette n’était restée ouverte.",
+        "start": 2,
+        "end": 467
+      },
+      {
+        "quote": "« Je ne vais pas me déclarer formidable sur cette pièce justificative », dit Louise. Agnès sourit : ce n’est pas ce qu’elle demande. Elles peuvent arrêter là. Louise remet la partition dans la boîte rouge sans rayer son nom du rang des altos. La honte n’a pas disparu, mais elle ne transforme pas ce soir en nouvelle séance de comptes. Elle souhaite parler au médecin de ces phrases qui dépassent les faits. Quand Agnès part, la place choisie pour la chanson reste la sienne.",
+        "start": 5928,
+        "end": 6403
+      }
+    ],
+    "canonical_concept": "Dévalorisation et culpabilité disproportionnée",
+    "context": "en reprenant la partition avec Agnès",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à un reproche qui prend toute la place"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-energie-gestes-familiers": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Énergie diminuée",
+      "Coût de l’effort",
+      "Engagement limité"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bcfb3d78127082b5cae83ad716fc0cd28c3b0e57bd8f737247122abb8ed0bdb3",
+    "summary": "Le lundi, Louise reconnaît le nom d’Avel avant de regarder celui de son propriétaire. Le bateau figure sur une facture posée au-dessus du courrier, près du téléphone de l’atelier. Elle ôte le capuchon de son stylo violet, vérifie le numéro et pose l’index sur la première touche. Il faut appeler pour confirmer une ligne. Elle sait quoi demander. Pourtant, commencer lui coûte comme si l’appel contenait déjà tous ceux de la journée.\n\n[…]\n\nAprès un moment sans autre demande, Louise ouvre le message d’Agnès. « J’aimerais être là pour Claire. Je ne sais pas encore pour quelle part. » Elle envoie avant de pouvoir transformer cette phrase en promesse de tout préparer. Agnès propose de lui apporter le morceau envisagé. Louise accepte une écoute. Elle ne se sent pas reposée pour autant, et son heure de départ reste celle qui était prévue.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lundi, Louise reconnaît le nom d’Avel avant de regarder celui de son propriétaire. Le bateau figure sur une facture posée au-dessus du courrier, près du téléphone de l’atelier. Elle ôte le capuchon de son stylo violet, vérifie le numéro et pose l’index sur la première touche. Il faut appeler pour confirmer une ligne. Elle sait quoi demander. Pourtant, commencer lui coûte comme si l’appel contenait déjà tous ceux de la journée.",
+        "start": 2,
+        "end": 435
+      },
+      {
+        "quote": "Après un moment sans autre demande, Louise ouvre le message d’Agnès. « J’aimerais être là pour Claire. Je ne sais pas encore pour quelle part. » Elle envoie avant de pouvoir transformer cette phrase en promesse de tout préparer. Agnès propose de lui apporter le morceau envisagé. Louise accepte une écoute. Elle ne se sent pas reposée pour autant, et son heure de départ reste celle qui était prévue.",
+        "start": 5828,
+        "end": 6228
+      }
+    ],
+    "canonical_concept": "Énergie diminuée dans les gestes familiers",
+    "context": "au secrétariat de l’atelier de bateaux",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour alléger la demande sans effacer ses priorités"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-indecision-deux-partitions": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Indécision",
+      "Choix réversible",
+      "Préférences personnelles"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "dfa55548026742f8c3b253de0fddaf3940a42a5996e455305eb7986db64afce3",
+    "summary": "À la boulangerie près du port, Agnès a déplacé la corbeille à pain pour étaler deux partitions. L’une est celle qu’elles ont écoutée chez Louise ; l’autre possède une entrée plus courte et un refrain que Claire connaît aussi. « La cheffe peut faire les deux. On cherche juste celle que tu préférerais. » Louise suit du doigt la ligne d’alto. Elle a compris : même durée de répétition, aucune urgence, deux possibilités acceptables.\n\n[…]\n\nQuand la serveuse revient, Agnès va commander au comptoir avec son accord. « Du thé pour moi », précise Louise. Elle accepte qu’Agnès choisisse le reste sans renoncer à cette préférence. Elles remettent la seconde chanson dans la chemise. Une question concrète est désormais fermée : elles ont un morceau pour Claire, pas une responsable de soirée. En rangeant la partition choisie dans la boîte rouge, Louise aperçoit au crayon une vieille mention sur le règlement de la salle. Elle n’en parle pas encore.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À la boulangerie près du port, Agnès a déplacé la corbeille à pain pour étaler deux partitions. L’une est celle qu’elles ont écoutée chez Louise ; l’autre possède une entrée plus courte et un refrain que Claire connaît aussi. « La cheffe peut faire les deux. On cherche juste celle que tu préférerais. » Louise suit du doigt la ligne d’alto. Elle a compris : même durée de répétition, aucune urgence, deux possibilités acceptables.",
+        "start": 2,
+        "end": 433
+      },
+      {
+        "quote": "Quand la serveuse revient, Agnès va commander au comptoir avec son accord. « Du thé pour moi », précise Louise. Elle accepte qu’Agnès choisisse le reste sans renoncer à cette préférence. Elles remettent la seconde chanson dans la chemise. Une question concrète est désormais fermée : elles ont un morceau pour Claire, pas une responsable de soirée. En rangeant la partition choisie dans la boîte rouge, Louise aperçoit au crayon une vieille mention sur le règlement de la salle. Elle n’en parle pas encore.",
+        "start": 5954,
+        "end": 6460
+      }
+    ],
+    "canonical_concept": "Indécision devant des choix ordinaires",
+    "context": "à la boulangerie du port avec Agnès",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour aborder un choix quotidien sans certitude parfaite"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-participation-deux-couplets-chaise": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Participation limitée",
+      "Retentissement persistant",
+      "Suivi maintenu"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b3237432388c9962d2dfe16decb39ea3d704776ce7f94023ca4f99e444382e94",
+    "summary": "Claire reconnaît la boîte rouge avant de voir Louise. Elle est posée sur la chaise laissée au bord du rang, à côté d’un manteau plié. Presque huit semaines ont passé depuis l’invitation restée dans le sac au bureau. Claire vient déposer son écharpe sur le dossier voisin. « Tu l’as toujours, cette boîte. » Louise répond que les attaches ont surtout besoin qu’on leur laisse du temps.\n\n[…]\n\nLe retour de Claire a eu lieu, avec les deux couplets de Louise et ce temps ensemble au bord du groupe. Louise rapporte sa boîte chez elle sans dossier d’invitations. Elle garde son rendez-vous médical. Pour la semaine suivante, elle décidera à nouveau ce qu’elle souhaite et ce qui lui est possible ; la soirée ne l’engage pas à retrouver d’un seul coup toute son énergie d’avant.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Claire reconnaît la boîte rouge avant de voir Louise. Elle est posée sur la chaise laissée au bord du rang, à côté d’un manteau plié. Presque huit semaines ont passé depuis l’invitation restée dans le sac au bureau. Claire vient déposer son écharpe sur le dossier voisin. « Tu l’as toujours, cette boîte. » Louise répond que les attaches ont surtout besoin qu’on leur laisse du temps.",
+        "start": 2,
+        "end": 386
+      },
+      {
+        "quote": "Le retour de Claire a eu lieu, avec les deux couplets de Louise et ce temps ensemble au bord du groupe. Louise rapporte sa boîte chez elle sans dossier d’invitations. Elle garde son rendez-vous médical. Pour la semaine suivante, elle décidera à nouveau ce qu’elle souhaite et ce qui lui est possible ; la soirée ne l’engage pas à retrouver d’un seul coup toute son énergie d’avant.",
+        "start": 6493,
+        "end": 6874
+      }
+    ],
+    "canonical_concept": "Participation avec un retentissement encore présent",
+    "context": "le soir du retour de Claire à la chorale",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder la place choisie après une réussite"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-plaisir-emousse-chanson": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Plaisir émoussé",
+      "Attachement préservé",
+      "Présence sans performance"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "389946cb2b5ec414f67b73bdb84dd7d3f2d2fe0186b14e3b00cf98a81417db8c",
+    "summary": "La boîte rouge accroche un peu sous le buffet. Louise la tire par la poignée, la pose sur la table et reconnaît l’écriture de Claire sur une chemise : altos, surtout ne pas monter. Elle sourit au mot, puis attend que quelque chose suive. Le sourire a été rapide. À l’intérieur, rien ne s’ouvre vraiment.\n\n[…]\n\nElle garde la partition hors de la boîte. « Je passerais bien à la prochaine répétition, pour entendre tout le monde. » Agnès lui rappelle seulement le lieu et l’heure. Louise n’a accepté ni le buffet ni les invitations. Elle ne sait pas si la salle lui fera davantage plaisir ; elle souhaite y être pour ce qu’elle connaît du chant et des personnes. En raccompagnant Agnès, elle n’affirme pas que cela lui a fait du bien. Elle dit merci d’être venue, et cette phrase lui paraît exacte.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La boîte rouge accroche un peu sous le buffet. Louise la tire par la poignée, la pose sur la table et reconnaît l’écriture de Claire sur une chemise : altos, surtout ne pas monter. Elle sourit au mot, puis attend que quelque chose suive. Le sourire a été rapide. À l’intérieur, rien ne s’ouvre vraiment.",
+        "start": 2,
+        "end": 305
+      },
+      {
+        "quote": "Elle garde la partition hors de la boîte. « Je passerais bien à la prochaine répétition, pour entendre tout le monde. » Agnès lui rappelle seulement le lieu et l’heure. Louise n’a accepté ni le buffet ni les invitations. Elle ne sait pas si la salle lui fera davantage plaisir ; elle souhaite y être pour ce qu’elle connaît du chant et des personnes. En raccompagnant Agnès, elle n’affirme pas que cela lui a fait du bien. Elle dit merci d’être venue, et cette phrase lui paraît exacte.",
+        "start": 5800,
+        "end": 6286
+      }
+    ],
+    "canonical_concept": "Plaisir émoussé dans une activité aimée",
+    "context": "à la maison autour des partitions",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour laisser une place au chant sans commander la joie"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-ralentissement-reponses-gestes": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Ralentissement psychomoteur",
+      "Temps de réponse",
+      "Aide consentie"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "9dc79d1c692e9bdff466a6625807a8383500a7556e25de2e9e404b7335e5267f",
+    "summary": "Le signet jaune doit être dans la boîte rouge, entre les feuilles d’alto et l’ancienne liste des chants. Louise le sait parce qu’elle l’a rangé là. Dans la salle, les chaises grincent sur le sol. Elle s’assoit près d’Agnès, pose la boîte sur ses genoux et commence à défaire les deux attaches. La première se soulève ; pour la seconde, sa main reste un instant dans le trajet avant de reprendre. Agnès a déjà sorti sa propre partition.\n\n[…]\n\nÀ la fin, elle accepte qu’Agnès porte la boîte jusqu’à la porte. « La boîte oui ; la feuille, je la garde. » Personne ne tire la partition de ses doigts. Louise la range elle-même avant de repartir. Elle n’a pas chanté ce soir, et le groupe ne l’a pas laissée sans place. Le rythme reste différent ; elle sait maintenant quel exemple elle pourra décrire au médecin si cela se maintient.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le signet jaune doit être dans la boîte rouge, entre les feuilles d’alto et l’ancienne liste des chants. Louise le sait parce qu’elle l’a rangé là. Dans la salle, les chaises grincent sur le sol. Elle s’assoit près d’Agnès, pose la boîte sur ses genoux et commence à défaire les deux attaches. La première se soulève ; pour la seconde, sa main reste un instant dans le trajet avant de reprendre. Agnès a déjà sorti sa propre partition.",
+        "start": 2,
+        "end": 437
+      },
+      {
+        "quote": "À la fin, elle accepte qu’Agnès porte la boîte jusqu’à la porte. « La boîte oui ; la feuille, je la garde. » Personne ne tire la partition de ses doigts. Louise la range elle-même avant de repartir. Elle n’a pas chanté ce soir, et le groupe ne l’a pas laissée sans place. Le rythme reste différent ; elle sait maintenant quel exemple elle pourra décrire au médecin si cela se maintient.",
+        "start": 5818,
+        "end": 6204
+      }
+    ],
+    "canonical_concept": "Ralentissement des gestes et des réponses",
+    "context": "à la répétition de la chorale",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour faire une place à un rythme différent"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-retrait-desir-lien": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Retrait relationnel",
+      "Désir de lien",
+      "Limites réciproques"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8806c03656636acc4eff0799d0f2bdb5ebb6bbf24efd3453d32771388cd2e4bd",
+    "summary": "Claire a laissé un message vocal. Louise reconnaît avant les mots sa façon de reprendre de l’air au milieu d’une phrase. Elle aimerait la retrouver avant la soirée, peut-être à la boulangerie, juste un café si cela lui convient. Louise réécoute la voix avec tendresse. Le brouillon commencé quelques jours plus tôt est toujours là. Elle pourrait le terminer, ou seulement répondre qu’elle a entendu. Elle retourne le téléphone sur la table.\n\n[…]\n\nLouise reprend son brouillon, garde la phrase sur le retour et envoie : « J’ai envie de te voir à la chorale. Je ne peux pas te promettre le café avant. » Elle n’ajoute aucune information de santé. Claire répond qu’elle sera contente de la retrouver là et qu’elles pourront décider le reste plus tard. Quand Agnès repart, Louise reste seule avec sa boîte rouge. Le contact a eu lieu sans que l’une de ses amies soit tenue de combler toute la soirée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Claire a laissé un message vocal. Louise reconnaît avant les mots sa façon de reprendre de l’air au milieu d’une phrase. Elle aimerait la retrouver avant la soirée, peut-être à la boulangerie, juste un café si cela lui convient. Louise réécoute la voix avec tendresse. Le brouillon commencé quelques jours plus tôt est toujours là. Elle pourrait le terminer, ou seulement répondre qu’elle a entendu. Elle retourne le téléphone sur la table.",
+        "start": 2,
+        "end": 442
+      },
+      {
+        "quote": "Louise reprend son brouillon, garde la phrase sur le retour et envoie : « J’ai envie de te voir à la chorale. Je ne peux pas te promettre le café avant. » Elle n’ajoute aucune information de santé. Claire répond qu’elle sera contente de la retrouver là et qu’elles pourront décider le reste plus tard. Quand Agnès repart, Louise reste seule avec sa boîte rouge. Le contact a eu lieu sans que l’une de ses amies soit tenue de combler toute la soirée.",
+        "start": 6019,
+        "end": 6468
+      }
+    ],
+    "canonical_concept": "Retrait relationnel malgré le désir de lien",
+    "context": "à la maison avant le retour de Claire",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour ouvrir un contact compatible avec les deux personnes"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-ruminations-appel-clos": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Ruminations",
+      "Dossier clos",
+      "Retour à une action choisie"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "27376e143f67886da4ee869b31280b73c30942daf63a2923dafeb80e855a956a",
+    "summary": "Le torchon bleu est presque sec. Louise en rapproche les deux coins, puis revient mentalement au propriétaire d’Avel : « Cette fois, la facture sera au nom de ma société. » Elle entend sa propre voix lorsqu’elle a demandé de reprendre l’adresse. Était-elle trop sèche ? Le client avait dit oui. Il aurait pu dire oui pour finir plus vite. Elle revoit le champ resté vide avant la vérification, puis le numéro confirmé lors du rappel. La facture exacte est partie. Il n’y a pas de travail administratif en attente.\n\n[…]\n\nLouise pose les coins l’un sur l’autre. « La facture est partie. Le ton, je ne pourrai pas le récupérer dans une enveloppe. » Elle ne consulte pas de nouveau sa messagerie professionnelle. Le dossier Avel reste fermé, avec son envoi exact.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le torchon bleu est presque sec. Louise en rapproche les deux coins, puis revient mentalement au propriétaire d’Avel : « Cette fois, la facture sera au nom de ma société. » Elle entend sa propre voix lorsqu’elle a demandé de reprendre l’adresse. Était-elle trop sèche ? Le client avait dit oui. Il aurait pu dire oui pour finir plus vite. Elle revoit le champ resté vide avant la vérification, puis le numéro confirmé lors du rappel. La facture exacte est partie. Il n’y a pas de travail administratif en attente.",
+        "start": 2,
+        "end": 515
+      },
+      {
+        "quote": "Louise pose les coins l’un sur l’autre. « La facture est partie. Le ton, je ne pourrai pas le récupérer dans une enveloppe. » Elle ne consulte pas de nouveau sa messagerie professionnelle. Le dossier Avel reste fermé, avec son envoi exact.",
+        "start": 5738,
+        "end": 5977
+      }
+    ],
+    "canonical_concept": "Ruminations sur les erreurs passées",
+    "context": "seule dans la cuisine après une répétition manquée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître la boucle et retrouver une marge de choix"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-sommeil-reveil-precoce": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Sommeil perturbé",
+      "Retentissement diurne",
+      "Adaptation de la présence"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e9e08eb2e06c97b5696c4aa6a0efa3aff0d15285293a70fddd99848f134c008c",
+    "summary": "Le port n’est encore éclairé que par les lampes des quais. Louise les aperçoit entre les rideaux et comprend qu’elle est réveillée trop tôt pour le jour qu’elle attendait. Elle se retourne, cherche une position où le sommeil reviendrait, puis écoute un camion passer. Son réveil n’a pas sonné. Elle ne souhaitait pas gagner ce temps-là.\n\n[…]\n\nDans son carnet de consultation, elle inscrit quelques mots sur le réveil et la journée, puis referme. Elle ne cherche pas à prévoir toute sa nuit. La répétition commence à son heure sans elle. Cette décision lui évite de tenir la salle comme une épreuve de résistance ; elle ne lui offre pas un sommeil assuré en échange. Le médecin pourra entendre ce qui persiste, et Louise conserve son rendez-vous.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le port n’est encore éclairé que par les lampes des quais. Louise les aperçoit entre les rideaux et comprend qu’elle est réveillée trop tôt pour le jour qu’elle attendait. Elle se retourne, cherche une position où le sommeil reviendrait, puis écoute un camion passer. Son réveil n’a pas sonné. Elle ne souhaitait pas gagner ce temps-là.",
+        "start": 2,
+        "end": 338
+      },
+      {
+        "quote": "Dans son carnet de consultation, elle inscrit quelques mots sur le réveil et la journée, puis referme. Elle ne cherche pas à prévoir toute sa nuit. La répétition commence à son heure sans elle. Cette décision lui évite de tenir la salle comme une épreuve de résistance ; elle ne lui offre pas un sommeil assuré en échange. Le médecin pourra entendre ce qui persiste, et Louise conserve son rendez-vous.",
+        "start": 6119,
+        "end": 6521
+      }
+    ],
+    "canonical_concept": "Sommeil perturbé et retentissement diurne",
+    "context": "à la maison un jour de répétition",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour tenir compte du sommeil dans la journée réelle"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/louise-variations-suivi-confidence": {
+    "character": "Louise",
+    "character_id": "louise",
+    "keywords": [
+      "Variations de l’état",
+      "Évaluation professionnelle",
+      "Confidence choisie"
+    ],
+    "character_keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "bbaf9f0dc7db70d66b0ceea152e156785c0e2000c68d4c341d68d30ac63ca36e",
+    "summary": "Le lendemain de l’appel, Louise entre dans le cabinet avec le petit carnet préparé après ses nuits écourtées. Elle cherche la page, trouve une liste de mots très simples : réveil, téléphone, répétition. « Ça va paraître incohérent. Hier matin, j’ai eu un moment plus facile. » Elle a pu préparer son repas avec moins d’effort. Une partie d’elle pense que cela aurait dû suffire à annuler le reste, y compris le rendez-vous obtenu après sa conviction que rien ne changerait.\n\n[…]\n\nChez elle, Louise appelle Claire. « Je suis suivie après un premier épisode dépressif. J’aimerais chanter une partie avec toi. Je ne veux pas détailler mes soins, et je préfère que ça reste entre nous. » Claire répond qu’elle peut garder cette confidence et qu’elle est contente de la retrouver. Louise propose deux couplets, puis une chaise. Elle convient ensuite de cette place avec la cheffe ; d’autres garderont les clés et s’occuperont du buffet. Elle n’explique pas sa santé au groupe pour obtenir cette répartition.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lendemain de l’appel, Louise entre dans le cabinet avec le petit carnet préparé après ses nuits écourtées. Elle cherche la page, trouve une liste de mots très simples : réveil, téléphone, répétition. « Ça va paraître incohérent. Hier matin, j’ai eu un moment plus facile. » Elle a pu préparer son repas avec moins d’effort. Une partie d’elle pense que cela aurait dû suffire à annuler le reste, y compris le rendez-vous obtenu après sa conviction que rien ne changerait.",
+        "start": 2,
+        "end": 475
+      },
+      {
+        "quote": "Chez elle, Louise appelle Claire. « Je suis suivie après un premier épisode dépressif. J’aimerais chanter une partie avec toi. Je ne veux pas détailler mes soins, et je préfère que ça reste entre nous. » Claire répond qu’elle peut garder cette confidence et qu’elle est contente de la retrouver. Louise propose deux couplets, puis une chaise. Elle convient ensuite de cette place avec la cheffe ; d’autres garderont les clés et s’occuperont du buffet. Elle n’explique pas sa santé au groupe pour obtenir cette répartition.",
+        "start": 6375,
+        "end": 6897
+      }
+    ],
+    "canonical_concept": "Variations sans conclure à une récidive",
+    "context": "au rendez-vous médical rapproché",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour parler de l’évolution sans se donner une étiquette nouvelle"
+    ],
+    "clinical_code": "6A70",
+    "clinical_diagnosis": "Épisode dépressif unique"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels": {
     "character": "Maëlle",
     "character_id": "maelle",
@@ -22763,6 +24205,486 @@
     ],
     "clinical_code": "6B41",
     "clinical_diagnosis": "Trouble de stress post-traumatique complexe"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-anticipation-affiche-retournee": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Anticipation anxieuse",
+      "Regard des autres",
+      "Participation scolaire"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "87c117a9836fdf8cdce427f49836a7bfee1f1d672860cf9679e2caf71e098abc",
+    "summary": "Mila a collé le titre de travers exprès. Une piste doit tourner, même dans ses lettres. Sous le mot « couleurs », elle a prévu une grande spirale, puis son soleil vert. La première carte bleue attend dans la boîte à indices, et cinq rectangles encore à terminer occupent le bord du bureau. Sam voudrait dessiner une flèche immense. Mila lui réserve une place, mais pas au milieu : on ne doit pas connaître la cachette avant de jouer.\n\n[…]\n\nMme Perrin explique le déroulement pendant que les autres rangent leur matériel. Elle lira les règles choisies ; l’affiche n’appellera pas de présentation surprise. Mila soulève un coin de la feuille, puis la retourne entièrement. La grande place vide lui semble maintenant trop grande. Elle dessine un soleil sur un petit carré et le colle dans le coin. Sam peut garder sa flèche, mais la pointe ne touchera pas le soleil. L’affiche annonce enfin la recherche d’objets. L’enseignante la garde à hauteur des enfants. Mila s’éloigne pour laver ses mains vertes ; elle n’a pas cessé de redouter certaines questions, mais son dessin est sur le panneau.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mila a collé le titre de travers exprès. Une piste doit tourner, même dans ses lettres. Sous le mot « couleurs », elle a prévu une grande spirale, puis son soleil vert. La première carte bleue attend dans la boîte à indices, et cinq rectangles encore à terminer occupent le bord du bureau. Sam voudrait dessiner une flèche immense. Mila lui réserve une place, mais pas au milieu : on ne doit pas connaître la cachette avant de jouer.",
+        "start": 2,
+        "end": 435
+      },
+      {
+        "quote": "Mme Perrin explique le déroulement pendant que les autres rangent leur matériel. Elle lira les règles choisies ; l’affiche n’appellera pas de présentation surprise. Mila soulève un coin de la feuille, puis la retourne entièrement. La grande place vide lui semble maintenant trop grande. Elle dessine un soleil sur un petit carré et le colle dans le coin. Sam peut garder sa flèche, mais la pointe ne touchera pas le soleil. L’affiche annonce enfin la recherche d’objets. L’enseignante la garde à hauteur des enfants. Mila s’éloigne pour laver ses mains vertes ; elle n’a pas cessé de redouter certaines questions, mais son dessin est sur le panneau.",
+        "start": 5187,
+        "end": 5836
+      }
+    ],
+    "canonical_concept": "Anticipation du regard sur sa parole",
+    "context": "Pendant la création de l’affiche du jeu de piste",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour clarifier ce qui suivra le travail montré"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-apprentissages-deux-lignes": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Apprentissages",
+      "Compréhension des consignes",
+      "Réponse non verbale"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "eb785f9e47ff9e5e1f76e0bad549ece278b2e983c01966acc28de7f05dbab915",
+    "summary": "Mme Perrin pose les six cartes sorties de la boîte devant le groupe. Chacune a son bord de couleur ; quelques images d’indices sont encore provisoires. Pour le jour du jeu, deux équipes devront recevoir autant de cartes l’une que l’autre. Mila prend une feuille quadrillée. Elle dessine deux longues lignes de trois cases, puis met un petit point au centre de chacune. Six places, aucune carte oubliée. Le tracé la satisfait davantage qu’une pile, où l’on ne voit jamais celle du dessous.\n\n[…]\n\nMme Perrin reconnaît la répartition sur la feuille et propose de s’en servir pour ranger les deux ensembles. Elle reprend ensuite les deux départs avec le groupe. Mila peut placer trois cartes sur chaque ligne ; cette fois, le bleu n’a plus à suivre l’orange pour les deux équipes. La question sur le trajet a reçu une explication scolaire, sans que cela prouve tout ce qu’elle sait ou ignore. L’enseignante conserve une observation limitée pour le rendez-vous de suivi convenu avec les parents. Sam propose d’essayer les cachettes avec elle à la récréation. Mila glisse sa feuille dans le plan : les cases serviront encore pour vérifier que personne n’a oublié une carte.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mme Perrin pose les six cartes sorties de la boîte devant le groupe. Chacune a son bord de couleur ; quelques images d’indices sont encore provisoires. Pour le jour du jeu, deux équipes devront recevoir autant de cartes l’une que l’autre. Mila prend une feuille quadrillée. Elle dessine deux longues lignes de trois cases, puis met un petit point au centre de chacune. Six places, aucune carte oubliée. Le tracé la satisfait davantage qu’une pile, où l’on ne voit jamais celle du dessous.",
+        "start": 2,
+        "end": 490
+      },
+      {
+        "quote": "Mme Perrin reconnaît la répartition sur la feuille et propose de s’en servir pour ranger les deux ensembles. Elle reprend ensuite les deux départs avec le groupe. Mila peut placer trois cartes sur chaque ligne ; cette fois, le bleu n’a plus à suivre l’orange pour les deux équipes. La question sur le trajet a reçu une explication scolaire, sans que cela prouve tout ce qu’elle sait ou ignore. L’enseignante conserve une observation limitée pour le rendez-vous de suivi convenu avec les parents. Sam propose d’essayer les cachettes avec elle à la récréation. Mila glisse sa feuille dans le plan : les cases serviront encore pour vérifier que personne n’a oublié une carte.",
+        "start": 5455,
+        "end": 6127
+      }
+    ],
+    "canonical_concept": "Apprentissages masqués par la réponse absente",
+    "context": "À la vérification des six indices et de leur répartition",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour distinguer acquis visibles et consigne à reprendre"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-besoins-pause-boite": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Demande d’aide",
+      "Besoins quotidiens",
+      "Relais adulte"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "153613fc157c36a51b1d62a9068da727350336e85787d7e773576cf78ad55b48",
+    "summary": "La boîte à indices vient d’une boîte à chaussures. Mila a décidé que son couvercle serait orange, « du rouge qui hésite », et que l’intérieur resterait blanc pour mieux retrouver les cartes. L’affiche est accrochée près de la bibliothèque. Aujourd’hui, les six rectangles doivent recevoir leur bord de couleur ; les images des cachettes seront précisées ensuite. Mila aime ce travail de petites pièces qui finissent par se ranger ensemble.\n\n[…]\n\nMme Perrin s’assure que Mila peut prendre la pause proposée et retrouver ensuite sa place si elle le souhaite. Elle ne poursuit pas une question pour obtenir le petit papier. Une autre adulte de l’école connaît le relais prévu ; Mila n’a pas à aller chercher Sam pour se faire comprendre. Au retour, la colle est accessible et son rectangle l’attend. Elle termine le bord orange en ajoutant une dent qui ressemble à une petite couronne. Les six supports de cartes sont maintenant prêts dans la boîte. Mme Perrin maintiendra la vérification des besoins pendant les étapes suivantes, à commencer par les indices qu’il faudra répartir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La boîte à indices vient d’une boîte à chaussures. Mila a décidé que son couvercle serait orange, « du rouge qui hésite », et que l’intérieur resterait blanc pour mieux retrouver les cartes. L’affiche est accrochée près de la bibliothèque. Aujourd’hui, les six rectangles doivent recevoir leur bord de couleur ; les images des cachettes seront précisées ensuite. Mila aime ce travail de petites pièces qui finissent par se ranger ensemble.",
+        "start": 2,
+        "end": 441
+      },
+      {
+        "quote": "Mme Perrin s’assure que Mila peut prendre la pause proposée et retrouver ensuite sa place si elle le souhaite. Elle ne poursuit pas une question pour obtenir le petit papier. Une autre adulte de l’école connaît le relais prévu ; Mila n’a pas à aller chercher Sam pour se faire comprendre. Au retour, la colle est accessible et son rectangle l’attend. Elle termine le bord orange en ajoutant une dent qui ressemble à une petite couronne. Les six supports de cartes sont maintenant prêts dans la boîte. Mme Perrin maintiendra la vérification des besoins pendant les étapes suivantes, à commencer par les indices qu’il faudra répartir.",
+        "start": 5364,
+        "end": 5996
+      }
+    ],
+    "canonical_concept": "Demande d’aide et besoins quotidiens",
+    "context": "Pendant la préparation de la boîte et du matériel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre l’aide accessible sans condition"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-evolution-jeu-acheve": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Évolution variable",
+      "Participation choisie",
+      "Poursuite du suivi"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b79df1a1f10bfa4b77066ed5f25fb9e6b608a008f63bc09877023fe5d2d3ac47",
+    "summary": "Le soleil vert est à sa place près de la bibliothèque. Mme Perrin lit les règles approuvées pendant que les deux groupes reçoivent chacun leurs trois cartes. Mila a posé la feuille aux deux lignes sous la boîte ouverte ; elle servira à retrouver les six places au retour. Le feutre orange est débouché. Sam regarde encore sa cachette préférée, sans dire où elle est. Quand la recherche commence, les enfants se dispersent dans la classe selon le cadre prévu.\n\n[…]\n\nMme Perrin reçoit la correction et aide les enfants à reprendre le bon trajet sans demander à Mila de commenter son invention devant eux. Le cahier vert est retrouvé sur l’autre étagère. Les six objets occupent enfin les six cases ; la classe garde les cartes et la règle corrigée pour rejouer. Mila colle son escargot au bas du plan, avec une maison orange et une minuscule porte verte. Sam lui propose une nouvelle cachette pour le ruban. Elle déplace son petit papier et garde son idée pour le disque. Le projet est achevé, avec un désaccord encore possible et une prochaine partie imaginable. À la sortie, Julien est bien présent comme convenu. La famille conserve le point avec la docteure Le Goff : les difficultés de parole et les autres préoccupations ne sont pas effacées par les six objets retrouvés.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le soleil vert est à sa place près de la bibliothèque. Mme Perrin lit les règles approuvées pendant que les deux groupes reçoivent chacun leurs trois cartes. Mila a posé la feuille aux deux lignes sous la boîte ouverte ; elle servira à retrouver les six places au retour. Le feutre orange est débouché. Sam regarde encore sa cachette préférée, sans dire où elle est. Quand la recherche commence, les enfants se dispersent dans la classe selon le cadre prévu.",
+        "start": 2,
+        "end": 460
+      },
+      {
+        "quote": "Mme Perrin reçoit la correction et aide les enfants à reprendre le bon trajet sans demander à Mila de commenter son invention devant eux. Le cahier vert est retrouvé sur l’autre étagère. Les six objets occupent enfin les six cases ; la classe garde les cartes et la règle corrigée pour rejouer. Mila colle son escargot au bas du plan, avec une maison orange et une minuscule porte verte. Sam lui propose une nouvelle cachette pour le ruban. Elle déplace son petit papier et garde son idée pour le disque. Le projet est achevé, avec un désaccord encore possible et une prochaine partie imaginable. À la sortie, Julien est bien présent comme convenu. La famille conserve le point avec la docteure Le Goff : les difficultés de parole et les autres préoccupations ne sont pas effacées par les six objets retrouvés.",
+        "start": 5549,
+        "end": 6359
+      }
+    ],
+    "canonical_concept": "Évolution variable malgré un projet réussi",
+    "context": "Le jour du jeu de piste des couleurs en classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour reconnaître le projet sans conclure sur l’évolution"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-figement-carte-bleue": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Figement",
+      "Attente de parole",
+      "Communication non verbale"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "caa2b212f28294276c2ca3f18a40c3b93e7f67a078dfe209c8a0f952259772af",
+    "summary": "Les six rectangles attendent sur la table, encore blancs pour la plupart. Mila a commencé par le bleu, un bleu de piscine, parce que « bleu » tout seul lui paraît trop court. Le plan plié est posé près du pot à crayons. Mme Perrin a annoncé cet atelier la veille ; elle regardera les cartes avant de commencer l’affiche. Mila avait imaginé glisser la bleue au fond de la boîte, comme un trésor qui attend les autres.\n\n[…]\n\nL’adulte couvre la table de séchage. Mme Perrin passe près des enfants, répond à une question sur la colle et reste disponible. Mila desserre enfin les doigts. Elle ne met pas tout de suite sa carte dans la boîte : elle ajoute d’abord un bord ondulé à son bleu de piscine. Plus tard seulement, elle y pose le rectangle. Personne ne rappelle la classe pour regarder. La première carte est rangée. Les autres seront complétées au fil des ateliers ; maintenant, il faut préparer l’affiche. Mme Perrin organise l’information des adultes avec la famille, pour que le prochain rendez-vous de travail ne contienne pas une nouvelle présentation surprise.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les six rectangles attendent sur la table, encore blancs pour la plupart. Mila a commencé par le bleu, un bleu de piscine, parce que « bleu » tout seul lui paraît trop court. Le plan plié est posé près du pot à crayons. Mme Perrin a annoncé cet atelier la veille ; elle regardera les cartes avant de commencer l’affiche. Mila avait imaginé glisser la bleue au fond de la boîte, comme un trésor qui attend les autres.",
+        "start": 2,
+        "end": 418
+      },
+      {
+        "quote": "L’adulte couvre la table de séchage. Mme Perrin passe près des enfants, répond à une question sur la colle et reste disponible. Mila desserre enfin les doigts. Elle ne met pas tout de suite sa carte dans la boîte : elle ajoute d’abord un bord ondulé à son bleu de piscine. Plus tard seulement, elle y pose le rectangle. Personne ne rappelle la classe pour regarder. La première carte est rangée. Les autres seront complétées au fil des ateliers ; maintenant, il faut préparer l’affiche. Mme Perrin organise l’information des adultes avec la famille, pour que le prochain rendez-vous de travail ne contienne pas une nouvelle présentation surprise.",
+        "start": 5144,
+        "end": 5790
+      }
+    ],
+    "canonical_concept": "Figement sous attente de parole",
+    "context": "À l’atelier des six cartes de couleurs",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour retirer une attente qui bloque"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-inquietude-retard-ines": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Inquiétude associée",
+      "Organisation familiale",
+      "Suivi clinique"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6240189de26308272dfae59439b4311d2aa8f1f35ed4bf7057587d7029a9f568",
+    "summary": "Mila prépare des numéros pour ranger les cartes après le jeu. Elle voudrait les dessiner comme des coquilles d’escargot : une spirale, deux spirales, puis elle renonce au troisième parce que cela prend trop de place. Sur la table, le plan porte les deux départs et les cachettes modifiées. Mme Perrin a reçu les besoins d’accompagnement convenus après la consultation, et le prochain point de suivi est resté prévu.\n\n[…]\n\nJulien vérifie sa disponibilité et confirme qu’il sera là à la sortie, quelle que soit l’heure de fin de la réparation. Inès précise qu’elle pourra arriver plus tard ; elle ne promet pas de ne jamais être retenue. Mila écoute, puis dessine un grand J dans une case au dos de sa feuille. Elle ne reprend pas tous les numéros ce soir-là. Les parents lui expliquent qu’ils souhaitent signaler cette préoccupation à la docteure Le Goff et recherchent son assentiment pour les faits partagés. Ils la transmettent dans l’échange convenu ; la clinicienne la reprendra au point de suivi prévu. L’organisation du jour du jeu est réglée. Les parents veulent aussi préserver la soirée suivante des questions répétées sur ses réponses à l’école.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mila prépare des numéros pour ranger les cartes après le jeu. Elle voudrait les dessiner comme des coquilles d’escargot : une spirale, deux spirales, puis elle renonce au troisième parce que cela prend trop de place. Sur la table, le plan porte les deux départs et les cachettes modifiées. Mme Perrin a reçu les besoins d’accompagnement convenus après la consultation, et le prochain point de suivi est resté prévu.",
+        "start": 2,
+        "end": 417
+      },
+      {
+        "quote": "Julien vérifie sa disponibilité et confirme qu’il sera là à la sortie, quelle que soit l’heure de fin de la réparation. Inès précise qu’elle pourra arriver plus tard ; elle ne promet pas de ne jamais être retenue. Mila écoute, puis dessine un grand J dans une case au dos de sa feuille. Elle ne reprend pas tous les numéros ce soir-là. Les parents lui expliquent qu’ils souhaitent signaler cette préoccupation à la docteure Le Goff et recherchent son assentiment pour les faits partagés. Ils la transmettent dans l’échange convenu ; la clinicienne la reprendra au point de suivi prévu. L’organisation du jour du jeu est réglée. Les parents veulent aussi préserver la soirée suivante des questions répétées sur ses réponses à l’école.",
+        "start": 5090,
+        "end": 5823
+      }
+    ],
+    "canonical_concept": "Difficultés anxieuses associées à distinguer",
+    "context": "À la maison, avant le jour du jeu de piste",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour répondre à une préoccupation sans la diagnostiquer"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-irritabilite-boite-fermee": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Irritabilité",
+      "Pression sur la parole",
+      "Vie familiale"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "eca70bdaff249471e6439896b0f3a8a64d65267894f85b014fb7d5e89fe5e591",
+    "summary": "Mila pose la boîte sur la table en laissant dépasser une carte. Pendant l’essai à l’école, une flèche trop large a mangé le bord du soleil ; il faudra la corriger avant le jeu. Le dessin des six images est terminé, mais cette dernière carte lui semble encore mal rangée dans son papier. Elle a demandé à rapporter le feutre orange pour réparer le bord. Julien coupe du pain pendant qu’elle pousse la corbeille à l’autre bout de la table.\n\n[…]\n\n« J’ai encore posé cette question. On peut arrêter ce bilan », dit Julien. Il ramasse le feutre et range le matériel à portée de main. La correction pourra attendre demain, ou Mme Perrin pourra reprendre l’essai avec Mila. Le repas continue avec une discussion sur la soupe trop épaisse. Plus tard, Mila demande son feutre ; elle ne répare pas la flèche, mais dessine un petit escargot dans un coin de papier. « Celui-là porte une maison orange. » Julien regarde le dessin sans revenir aux mots prononcés à l’école. La carte sera corrigée en classe. La reprise du feutre ne solde pas la soirée, et les parents conservent le relais clinique prévu.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mila pose la boîte sur la table en laissant dépasser une carte. Pendant l’essai à l’école, une flèche trop large a mangé le bord du soleil ; il faudra la corriger avant le jeu. Le dessin des six images est terminé, mais cette dernière carte lui semble encore mal rangée dans son papier. Elle a demandé à rapporter le feutre orange pour réparer le bord. Julien coupe du pain pendant qu’elle pousse la corbeille à l’autre bout de la table.",
+        "start": 2,
+        "end": 439
+      },
+      {
+        "quote": "« J’ai encore posé cette question. On peut arrêter ce bilan », dit Julien. Il ramasse le feutre et range le matériel à portée de main. La correction pourra attendre demain, ou Mme Perrin pourra reprendre l’essai avec Mila. Le repas continue avec une discussion sur la soupe trop épaisse. Plus tard, Mila demande son feutre ; elle ne répare pas la flèche, mais dessine un petit escargot dans un coin de papier. « Celui-là porte une maison orange. » Julien regarde le dessin sans revenir aux mots prononcés à l’école. La carte sera corrigée en classe. La reprise du feutre ne solde pas la soirée, et les parents conservent le relais clinique prévu.",
+        "start": 5148,
+        "end": 5794
+      }
+    ],
+    "canonical_concept": "Irritabilité après les exigences de parole",
+    "context": "À la maison, après un essai scolaire du parcours",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour sortir du bilan de parole à la maison"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-langue-album-couleurs": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Langue de situation",
+      "Compréhension",
+      "Accès à la parole"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f24c3c7a9c3ba1220a67ac39de5b5f85146631a8430e297978589d72539f8c10",
+    "summary": "L’album est presque aussi large que le plan de Mila. La bibliothécaire l’ouvre sur un arbre dont chaque feuille a une couleur différente. Sam trouve cela peu pratique pour un arbre ; Mila trouve cela très pratique pour un livre. Ils cherchent des images plus nettes pour les indices de leur jeu, en respectant les cachettes modifiées dans la cour. La règle des deux concepteurs est restée dessinée au dos du plan.\n\n[…]\n\nLa bibliothécaire montre la couleur associée au mot nouveau et Mme Perrin rappelle la règle en français. Les mots anglais resteront dans le livre. Mila choisit une feuille pour l’indice vert et commence à en copier les nervures ; Sam préfère pour une autre carte une forme ronde qui se reconnaîtra de loin. Les six indices ont maintenant leurs images, même si une carte demandera encore une correction après l’essai. Mme Perrin informe les parents de la question de compréhension à reprendre au rendez-vous déjà prévu. Le plan et les seules observations convenues pourront y être apportés. Mila ferme l’album après avoir regardé une dernière fois l’arbre impossible.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’album est presque aussi large que le plan de Mila. La bibliothécaire l’ouvre sur un arbre dont chaque feuille a une couleur différente. Sam trouve cela peu pratique pour un arbre ; Mila trouve cela très pratique pour un livre. Ils cherchent des images plus nettes pour les indices de leur jeu, en respectant les cachettes modifiées dans la cour. La règle des deux concepteurs est restée dessinée au dos du plan.",
+        "start": 2,
+        "end": 415
+      },
+      {
+        "quote": "La bibliothécaire montre la couleur associée au mot nouveau et Mme Perrin rappelle la règle en français. Les mots anglais resteront dans le livre. Mila choisit une feuille pour l’indice vert et commence à en copier les nervures ; Sam préfère pour une autre carte une forme ronde qui se reconnaîtra de loin. Les six indices ont maintenant leurs images, même si une carte demandera encore une correction après l’essai. Mme Perrin informe les parents de la question de compréhension à reprendre au rendez-vous déjà prévu. Le plan et les seules observations convenues pourront y être apportés. Mila ferme l’album après avoir regardé une dernière fois l’arbre impossible.",
+        "start": 5274,
+        "end": 5940
+      }
+    ],
+    "canonical_concept": "Langue de situation et compréhension",
+    "context": "À la bibliothèque, pour choisir les images des indices",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour rendre l’activité compréhensible sans épreuve de langue"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-murmure-feutre-orange": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Voix peu audible",
+      "Réponse brève",
+      "Variabilité selon le contexte"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d161b39a92485e623206854b586ca4a57edf3e73def3f6183bc04cd4e2f2476c",
+    "summary": "Le lendemain, la carte est revenue dans la boîte avec son bord abîmé. Mila la sort près du seuil de la classe, à côté de Mme Perrin, pendant un moment de correction prévu. Le soleil restera vert. Il faut seulement refaire l’angle orange autour de lui et amincir la grosse flèche qui déborde. Mila a posé à côté le petit escargot dessiné la veille ; elle hésite à le garder comme signature pour le plan entier.\n\n[…]\n\nMme Perrin tend le feutre orange sur la table et continue à accueillir les enfants. Mila refait l’angle sans toucher au soleil vert. La grosse flèche devient deux traits plus fins ; elle fait enfin rentrer la carte dans son rectangle. Le dernier indice corrigé rejoint les cinq autres dans la boîte. L’enseignante informe la famille uniquement dans le cadre factuel déjà convenu, sans comptage de mots ni cérémonie. Le déroulement du jeu reste celui approuvé : elle lira les règles, les groupes chercheront et Mila participera aux vérifications selon les possibilités du moment. Mila glisse son escargot près du plan. Pour la signature, elle n’a pas encore choisi la place.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lendemain, la carte est revenue dans la boîte avec son bord abîmé. Mila la sort près du seuil de la classe, à côté de Mme Perrin, pendant un moment de correction prévu. Le soleil restera vert. Il faut seulement refaire l’angle orange autour de lui et amincir la grosse flèche qui déborde. Mila a posé à côté le petit escargot dessiné la veille ; elle hésite à le garder comme signature pour le plan entier.",
+        "start": 2,
+        "end": 411
+      },
+      {
+        "quote": "Mme Perrin tend le feutre orange sur la table et continue à accueillir les enfants. Mila refait l’angle sans toucher au soleil vert. La grosse flèche devient deux traits plus fins ; elle fait enfin rentrer la carte dans son rectangle. Le dernier indice corrigé rejoint les cinq autres dans la boîte. L’enseignante informe la famille uniquement dans le cadre factuel déjà convenu, sans comptage de mots ni cérémonie. Le déroulement du jeu reste celui approuvé : elle lira les règles, les groupes chercheront et Mila participera aux vérifications selon les possibilités du moment. Mila glisse son escargot près du plan. Pour la signature, elle n’a pas encore choisi la place.",
+        "start": 5041,
+        "end": 5714
+      }
+    ],
+    "canonical_concept": "Réponses brèves et voix peu audible",
+    "context": "Au seuil de la classe, pendant la correction de la dernière carte",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir un mot sans en faire une épreuve"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-pairs-cachette-deplacee": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Relations avec les pairs",
+      "Initiative empêchée",
+      "Prévention de l’exclusion"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "b9ffb8dc552a98601bd7575ed1c9428ec05c46eee2afb17a136c3c46e1103ffd",
+    "summary": "Dans la cour, Sam a transformé le banc en bureau d’expédition. Le plan de Mila est tenu par une pierre à chaque coin ; les vraies cartes sont restées dans la classe, mais six petits papiers permettent d’essayer leurs positions. Il veut cacher l’objet rouge près du bac à feutres et le bleu derrière un livre de la bibliothèque. Mila trouve cette deuxième idée bonne. Elle n’aime pas la dernière : un objet vert près de la plante verte, cela se devine trop facilement.\n\n[…]\n\nMme Perrin pose de nouveau le plan à plat. Elle garde un espace où chacun peut déplacer un papier avant que les cachettes soient fixées. Mila décale enfin le vert vers l’autre étagère. Sam regarde, puis replace son idée de plante pour une autre couleur : « Là, c’est plus dur. » Ils ne choisissent pas exactement la même chose, et les deux propositions trouvent une place. Sam annonce qu’il va jouer au ballon. Mila retient la pierre pour que le plan ne s’envole pas et commence à redessiner la dernière flèche. La règle prévoit désormais que les deux concepteurs peuvent modifier le parcours. Il manque encore des images claires pour certains indices ; la prochaine recherche se fera à la bibliothèque.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la cour, Sam a transformé le banc en bureau d’expédition. Le plan de Mila est tenu par une pierre à chaque coin ; les vraies cartes sont restées dans la classe, mais six petits papiers permettent d’essayer leurs positions. Il veut cacher l’objet rouge près du bac à feutres et le bleu derrière un livre de la bibliothèque. Mila trouve cette deuxième idée bonne. Elle n’aime pas la dernière : un objet vert près de la plante verte, cela se devine trop facilement.",
+        "start": 2,
+        "end": 469
+      },
+      {
+        "quote": "Mme Perrin pose de nouveau le plan à plat. Elle garde un espace où chacun peut déplacer un papier avant que les cachettes soient fixées. Mila décale enfin le vert vers l’autre étagère. Sam regarde, puis replace son idée de plante pour une autre couleur : « Là, c’est plus dur. » Ils ne choisissent pas exactement la même chose, et les deux propositions trouvent une place. Sam annonce qu’il va jouer au ballon. Mila retient la pierre pour que le plan ne s’envole pas et commence à redessiner la dernière flèche. La règle prévoit désormais que les deux concepteurs peuvent modifier le parcours. Il manque encore des images claires pour certains indices ; la prochaine recherche se fera à la bibliothèque.",
+        "start": 5054,
+        "end": 5757
+      }
+    ],
+    "canonical_concept": "Réciprocité avec les pairs empêchée",
+    "context": "Dans la cour, au premier essai des cachettes sur le plan",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour garder une coopération réelle"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-parole-contextes-soleil-vert": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Accès à la parole",
+      "Choix de communication",
+      "Participation scolaire"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "52deffd75aba2c9d6840aa0734138a25f529f9f243c978bebdf5efc66016998e",
+    "summary": "« Un soleil jaune, tout le monde sait faire. Le mien sera vert. » Mila appuie si fort sur le crayon que le papier garde un creux. Inès pousse la corbeille de fruits pour lui laisser de la place. À huit ans, Mila veut inventer un jeu où sa classe cherchera des objets de couleurs. Elle a dessiné le trajet en boucle, parce qu’un chemin tout droit est, selon elle, « un chemin qui s’ennuie ». Dans la cuisine, elle explique que le soleil indiquera le départ et que personne ne devra chercher dehors.\n\n[…]\n\nAprès l’activité, Mme Perrin regarde la feuille dépliée à côté de Mila. « Le départ, c’est ce soleil ? » Mila l’entoure en vert. L’enseignante écrit une première règle : commencer près du soleil vert, à la bibliothèque. Elle laisse le reste du trajet ouvert. Mila replie son plan, mais cette fois la proposition est retenue. Six cartes restent à dessiner ; Mme Perrin annonce le moment où elles seront regardées, sans lui attribuer un tour de parole. Mila ne sait pas encore si elle pourra expliquer ses cachettes. Elle sait où commencer le prochain dessin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Un soleil jaune, tout le monde sait faire. Le mien sera vert. » Mila appuie si fort sur le crayon que le papier garde un creux. Inès pousse la corbeille de fruits pour lui laisser de la place. À huit ans, Mila veut inventer un jeu où sa classe cherchera des objets de couleurs. Elle a dessiné le trajet en boucle, parce qu’un chemin tout droit est, selon elle, « un chemin qui s’ennuie ». Dans la cuisine, elle explique que le soleil indiquera le départ et que personne ne devra chercher dehors.",
+        "start": 2,
+        "end": 499
+      },
+      {
+        "quote": "Après l’activité, Mme Perrin regarde la feuille dépliée à côté de Mila. « Le départ, c’est ce soleil ? » Mila l’entoure en vert. L’enseignante écrit une première règle : commencer près du soleil vert, à la bibliothèque. Elle laisse le reste du trajet ouvert. Mila replie son plan, mais cette fois la proposition est retenue. Six cartes restent à dessiner ; Mme Perrin annonce le moment où elles seront regardées, sans lui attribuer un tour de parole. Mila ne sait pas encore si elle pourra expliquer ses cachettes. Elle sait où commencer le prochain dessin.",
+        "start": 5413,
+        "end": 5970
+      }
+    ],
+    "canonical_concept": "Parole accessible selon les contextes",
+    "context": "De la cuisine familiale au premier plan du jeu en classe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour accueillir une contribution selon le contexte"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/mila-suivi-page-soleil": {
+    "character": "Mila",
+    "character_id": "mila",
+    "keywords": [
+      "Évaluation adaptée",
+      "Observations croisées",
+      "Confidentialité"
+    ],
+    "character_keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8661b7ea247337032e925485f5c2e7b0ea9bb00bd5fc868f930d6185757a60fe",
+    "summary": "Mila a mis le cahier dans son sac à l’envers. Ainsi, en l’ouvrant, on tomberait d’abord sur la dernière page blanche, pas sur l’histoire du dragon qu’elle ne veut montrer à personne. Elle accepte d’apporter le soleil vert et le plan du jeu à la consultation avec la docteure Le Goff. Julien a proposé de marquer la bonne page avec un papier ; elle a choisi le ticket de la bibliothèque. Il dépasse juste assez pour qu’elle le retrouve.\n\n[…]\n\nMila ouvre enfin le cahier à la page marquée. Elle maintient les autres feuilles d’une main et montre le soleil vert. La docteure Le Goff regarde cette page sans demander le dragon ni une explication orale de tout le parcours. Julien transmet les observations convenues ; les questions de langage seront appréciées dans le suivi, avec les relais que la clinicienne jugera nécessaires. Ensemble, les adultes précisent les besoins utiles à adresser à Mme Perrin et recherchent l’assentiment de Mila pour ce partage. L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation. Un point de suivi reste prévu. Mila remet le ticket entre les pages du cahier, qu’elle referme et range dans son sac : il pourra encore servir de passage secret.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mila a mis le cahier dans son sac à l’envers. Ainsi, en l’ouvrant, on tomberait d’abord sur la dernière page blanche, pas sur l’histoire du dragon qu’elle ne veut montrer à personne. Elle accepte d’apporter le soleil vert et le plan du jeu à la consultation avec la docteure Le Goff. Julien a proposé de marquer la bonne page avec un papier ; elle a choisi le ticket de la bibliothèque. Il dépasse juste assez pour qu’elle le retrouve.",
+        "start": 2,
+        "end": 437
+      },
+      {
+        "quote": "Mila ouvre enfin le cahier à la page marquée. Elle maintient les autres feuilles d’une main et montre le soleil vert. La docteure Le Goff regarde cette page sans demander le dragon ni une explication orale de tout le parcours. Julien transmet les observations convenues ; les questions de langage seront appréciées dans le suivi, avec les relais que la clinicienne jugera nécessaires. Ensemble, les adultes précisent les besoins utiles à adresser à Mme Perrin et recherchent l’assentiment de Mila pour ce partage. L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation. Un point de suivi reste prévu. Mila remet le ticket entre les pages du cahier, qu’elle referme et range dans son sac : il pourra encore servir de passage secret.",
+        "start": 5532,
+        "end": 6309
+      }
+    ],
+    "canonical_concept": "Évaluation adaptée sans démonstration orale",
+    "context": "À la consultation de suivi avec la docteure Le Goff",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [
+      "3 techniques pour préparer un partage utile au suivi"
+    ],
+    "clinical_code": "6B06",
+    "clinical_diagnosis": "Mutisme sélectif"
   },
   "posts/comprendre-et-maitriser-ses-emotions/mina-appeler-contact-prevu": {
     "character": "Mina",

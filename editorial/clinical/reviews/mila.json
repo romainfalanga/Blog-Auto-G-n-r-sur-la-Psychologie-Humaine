@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "character_id": "mila",
+  "reviewer": "review_mila",
+  "reviewed_on": "2026-11-07",
+  "status": "passed",
+  "summary": "Lecture indépendante intégrale des douze épisodes, dans leur ordre, avec le canon, le design gelé, le dossier, la charte et le modèle d’alexithymie. Les douze aspects sont distingués et visibles : contraste des contextes, figement, anticipation, besoins, apprentissages, réciprocité, langue, suivi, inquiétude associée, irritabilité, voix brève et évolution. Les descriptions concordent avec les CDDR 6B06, pages 293–295, et les passages officiels pertinents de l’ASHA, du NHS, du HSE et de l’aperçu public du RCSLT. Leurs contextes étrangers ne deviennent pas des procédures françaises ni des preuves d’efficacité des adaptations fictives. Les trois appuis de chaque épisode sont développés et proportionnés ; aucun ne cherche à obtenir ou récompenser la parole. Le diagnostic reste connu, les adultes garantissent les besoins même sans signe, et les relais cliniques annoncés sont effectifs. Le jeu aboutit sans pronostic tiré du murmure ni retrait des appuis. Aucune correction en attente après cette lecture.",
+  "files": {
+    "editorial/clinical/designs/mila.json": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+    "editorial/clinical/dossiers/mila.json": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+    "editorial/clinical/mila.json": "435dc4bcf0aa207ae933e61de50438f59341169766dc6cc21f3c7d4c63bc946f"
+  },
+  "findings": [],
+  "episode_checks": [
+    {
+      "number": 1,
+      "focus": "Parole accessible selon les contextes",
+      "opening_quote": "Elle connaît exactement la première phrase. Pourtant, devant les tables tournées vers elle, sa bouche ne la donne pas.",
+      "ending_quote": "L’enseignante écrit une première règle : commencer près du soleil vert, à la bibliothèque.",
+      "continuity_note": "Le récit établit la cuisine, le plan plié, le départ à la bibliothèque et l’escargot. Le choix vert est conservé après l’activité ; six cartes restent à réaliser, ce qui prépare précisément la séance suivante.",
+      "clinical_note": "La parole vive chez Inès et la phrase inaccessible devant la classe montrent le contraste contextuel sans choix volontaire du silence. Les exemples restent situés ; les appuis préservent contribution et réponse différée, sans tester le diagnostic déjà établi.",
+      "relatives_note": "Inès peut recevoir le soleil retenu en laissant Mila montrer ou changer de sujet. Les parents et Mme Perrin coordonnent le support avec son accord recherché ; aucune démonstration à domicile n’est demandée pour compenser le silence scolaire."
+    },
+    {
+      "number": 2,
+      "focus": "Figement sous attente de parole",
+      "opening_quote": "Mila ne peut ni répondre ni tendre la carte qu’elle choisissait sans peine quelques instants auparavant.",
+      "ending_quote": "Elle ne met pas tout de suite sa carte dans la boîte : elle ajoute d’abord un bord ondulé à son bleu de piscine.",
+      "continuity_note": "Le plan accepté et les six rectangles reviennent ; seule la carte bleue rejoint la boîte. Le passage à l’affiche conserve cinq supports inachevés et transmet aux adultes la nécessité d’éviter les demandes surprises.",
+      "clinical_note": "Les doigts serrés et la carte impossible à tendre rendent visible un blocage qui dépasse la voix. Le texte en fait une possibilité, sans critère spécifique. Les trois appuis retirent la demande et gardent une présence, sans guetter une performance de remplacement.",
+      "relatives_note": "Le déplacement de la boîte par Sam ne suffit pas et ne lui crée aucune responsabilité. La phrase proposée l’autorise à poursuivre son dessin ; Mme Perrin et les parents assurent l’information limitée et le relais clinique si les blocages entravent la journée."
+    },
+    {
+      "number": 3,
+      "focus": "Anticipation du regard sur sa parole",
+      "opening_quote": "Elle ne veut pas abandonner son affiche ; elle imagine encore la spirale visible à l’entrée.",
+      "ending_quote": "Elle dessine un soleil sur un petit carré et le colle dans le coin.",
+      "continuity_note": "La carte bleue et les cinq rectangles correspondent à l’étape précédente. Le soleil initialement prévu au centre devient un petit élément choisi dans le coin ; l’affiche peut annoncer le jeu avant la préparation du matériel.",
+      "clinical_note": "L’exemple de la camarade interrogée fait anticiper à Mila une demande qui n’a pas été annoncée pour elle. Ce lien explique le retrait de la feuille sans pathologiser le dessin soigné. Clarification, choix graphique et observation transmise restent des adaptations scolaires facultatives.",
+      "relatives_note": "Mme Perrin propose une explication discrète avant le choix, sans demander à Sam de convaincre Mila. Les parents ne l’interrogent pas longuement ; le partage est convenu et le traitement de l’anxiété demeure du ressort des professionnels."
+    },
+    {
+      "number": 4,
+      "focus": "Demande d’aide et besoins quotidiens",
+      "opening_quote": "Le petit papier dont elles ont parlé pour signaler une demande reste dans sa poche.",
+      "ending_quote": "Une autre adulte de l’école connaît le relais prévu ; Mila n’a pas à aller chercher Sam pour se faire comprendre.",
+      "continuity_note": "L’affiche est installée et la boîte reçoit ses six supports bordés, avant la clarification des indices. L’accès à la colle et le relais adulte sont effectifs au dénouement et restent prévus pour les étapes suivantes.",
+      "clinical_note": "La difficulté porte sur l’initiative d’une demande nécessaire, distincte d’une présentation devant la classe. Le signal inutilisé n’est pas un échec à corriger par privation : eau, pause, assistance et protection restent accessibles sans réponse réussie, avec procédure scolaire si un besoin de santé apparaît.",
+      "relatives_note": "Inès part du papier inutilisé et peut proposer d’en reparler avec l’enseignante. Les adultes vérifient les accès réels et un relais quand Mme Perrin est occupée ; ni les parents ni les pairs ne présument que tout besoin relève du mutisme."
+    },
+    {
+      "number": 5,
+      "focus": "Apprentissages masqués par la réponse absente",
+      "opening_quote": "Les deux lignes peuvent montrer une manière de répartir six objets ; elles ne disent pas encore ce que Mila comprend du parcours.",
+      "ending_quote": "Mila peut placer trois cartes sur chaque ligne ; cette fois, le bleu n’a plus à suivre l’orange pour les deux équipes.",
+      "continuity_note": "Les six supports désormais prêts deviennent deux ensembles de trois, avec images encore provisoires. La feuille quadrillée entre dans le plan et resservira au jeu final ; l’invitation de Sam à essayer les cachettes ouvre l’épisode suivant.",
+      "clinical_note": "Le raisonnement dessiné et la vraie confusion sur les départs sont séparés. Les exemples ne font du silence ni une incapacité ni la preuve d’une compréhension totale. Montrer une production, reprendre la consigne et transmettre les questions persistantes respectent les périmètres pédagogique et clinique.",
+      "relatives_note": "Julien peut restituer les deux faits reçus sans refaire l’exercice chez lui. L’école conserve l’enseignement, la clinicienne choisit une éventuelle évaluation du langage, et les observations partagées sont limitées avec l’assentiment recherché de Mila."
+    },
+    {
+      "number": 6,
+      "focus": "Réciprocité avec les pairs empêchée",
+      "opening_quote": "Ce n’est plus seulement une mauvaise cachette : le jeu qu’elle a inventé semble partir avec les autres.",
+      "ending_quote": "Mila décale enfin le vert vers l’autre étagère.",
+      "continuity_note": "L’essai se déroule sur le plan avec des papiers, les vraies cartes restant en classe. La cachette verte modifiée et la règle des deux concepteurs sont acquises ; le besoin d’images plus claires mène à la bibliothèque.",
+      "clinical_note": "La préférence non introduite, l’accord supposé par Sam et la remarque d’exclusion constituent trois retentissements lisibles de l’échange empêché. Mme Perrin protège la participation sans révéler le diagnostic ; aucun support n’est présenté comme lecture certaine des intentions.",
+      "relatives_note": "La phrase à Sam lui permet de vérifier un choix, demander l’aide de l’adulte puis rejoindre son match. La protection contre l’exclusion et le suivi des difficultés restent des responsabilités adultes ; le camarade conserve désaccords et autres activités."
+    },
+    {
+      "number": 7,
+      "focus": "Langue de situation et compréhension",
+      "opening_quote": "Mila s’arrête sur « purple ». Elle ne sait pas ce que ce mot veut dire.",
+      "ending_quote": "Les mots anglais resteront dans le livre.",
+      "continuity_note": "La recherche respecte les cachettes modifiées et la règle inscrite au dos du plan. Le choix de feuille pour le vert complète les images ; une carte reste à corriger après l’essai, et les observations limitées sont préparées pour la consultation.",
+      "clinical_note": "Le mot anglais inconnu, le mot français familier inaccessible et la question sur l’usage des étiquettes sont distingués. La bibliothécaire ne conclut pas à partir du regard fixe. Les trois appuis rendent l’activité compréhensible et réservent l’appréciation linguistique professionnelle, sans bilan amateur ni bilinguisme inventé.",
+      "relatives_note": "La bibliothécaire peut expliquer le mot par l’image sans obtenir une répétition. Inès et Julien autorisent un partage circonscrit avec la clinicienne, recherchent l’assentiment de Mila et gardent les conversations familiales ordinaires plutôt qu’un questionnaire domestique de couleurs."
+    },
+    {
+      "number": 8,
+      "focus": "Évaluation adaptée sans démonstration orale",
+      "opening_quote": "Julien ne commence pas à raconter tout ce qu’elle dit à la maison pour remplir le silence.",
+      "ending_quote": "L’enseignante recevra les informations d’accompagnement convenues, pas le contenu de la consultation.",
+      "continuity_note": "La consultation annoncée a effectivement lieu avec le ticket de bibliothèque, les cases et l’album comme observations limitées. La page du soleil est montrée tandis que le dragon reste privé ; des besoins convenus seront adressés à Mme Perrin et un point de suivi est maintenu.",
+      "clinical_note": "Le rendez-vous ajuste un suivi connu sans redécouverte diagnostique. Le silence au cabinet ne mesure pas tout le langage ; la clinicienne garde les décisions sur langage, audition et relais éventuels. Les trois appuis n’imposent ni démonstration, ni enregistrement domestique, ni test reproductible, ni diagnostic associé.",
+      "relatives_note": "Julien peut confirmer que les autres pages restent privées. Les parents donnent leur accord au partage nécessaire et recherchent l’assentiment de Mila ; montrer une page ne vaut pas accès à tout le cahier. L’école reçoit seulement les besoins utiles à l’accompagnement."
+    },
+    {
+      "number": 9,
+      "focus": "Difficultés anxieuses associées à distinguer",
+      "opening_quote": "Sa voix est disponible chez elle, mais cela ne suffit pas à libérer son attention.",
+      "ending_quote": "Ils la transmettent dans l’échange convenu ; la clinicienne la reprendra au point de suivi prévu.",
+      "continuity_note": "Les besoins issus de la consultation ont été reçus par Mme Perrin. Le possible retard au garage trouve une réponse concrète : Julien sera au portail. La question anxieuse est transmise effectivement et restera ouverte jusqu’au suivi, y compris après le jeu final.",
+      "clinical_note": "Les questions répétées, le portail imaginé vide et le travail de cartes interrompu donnent un objet distinct de l’attente de parole. Aucune anxiété de séparation n’est diagnostiquée et aucune causalité du mutisme n’est affirmée. Information fiable, écoute facultative et relais ne deviennent pas une mesure de peur.",
+      "relatives_note": "Inès peut préciser qui sera présent sans promettre qu’aucun retard n’arrivera jamais ni exiger une preuve de réassurance. Les parents gardent des limites à l’exploration des pensées ; ils transmettent les faits utiles avec l’assentiment recherché plutôt que de conclure eux-mêmes sur leur cause."
+    },
+    {
+      "number": 10,
+      "focus": "Irritabilité après les exigences de parole",
+      "opening_quote": "Sa voix remplit maintenant la cuisine ; elle aimerait que cette voix serve à parler du jeu, pas à raconter pourquoi elle ne sort pas ailleurs.",
+      "ending_quote": "La carte sera corrigée en classe.",
+      "continuity_note": "L’essai a laissé un bord et une flèche à réparer ; la présence de Julien à la sortie reste convenue. Sa question machinale contraste explicitement avec la décision de limiter les bilans. La flèche demeure non corrigée ce soir et l’escargot créé prépare la scène du lendemain.",
+      "clinical_note": "La colère audible ne devient pas une preuve de silence volontaire à l’école. L’explication conserve fatigue et contrariété de la carte comme possibilités et n’accuse pas les parents d’avoir causé le trouble. Arrêter le bilan, préserver un temps ordinaire et consulter si les tensions persistent restent proportionnés.",
+      "relatives_note": "Julien reconnaît sa question et cesse le bilan tout en maintenant les limites habituelles de respect. Il rend le matériel accessible et laisse attendre la carte ; la reprise du feutre n’est ni récompensée comme parole ni utilisée pour déclarer la difficulté résolue."
+    },
+    {
+      "number": 11,
+      "focus": "Réponses brèves et voix peu audible",
+      "opening_quote": "Elle ne les avait pas préparés comme une étape à réussir.",
+      "ending_quote": "Le dernier indice corrigé rejoint les cinq autres dans la boîte.",
+      "continuity_note": "Le lendemain, l’angle orange et la grosse flèche de la carte sont réparés ; l’escargot de la veille est présent mais n’a pas encore sa place finale. Les six indices sont prêts et le déroulement de lecture par Mme Perrin est fixé pour le jeu.",
+      "clinical_note": "Le murmure spontané sert un choix de couleur, puis la phrase suivante reste inaccessible à l’arrivée des enfants. Volume faible et accès contextuel sont décrits sans progression garantie. Les trois appuis accueillent le contenu, évitent reproduction et spectacle, et maintiennent les moyens convenus sans en figer tous les futurs usages.",
+      "relatives_note": "Mme Perrin peut simplement prendre l’orange. La famille reçoit seulement l’observation factuelle autorisée, sans diffusion ni répétition demandée à Mila. Sam n’a pas à réobtenir les mots et aucun adulte ne déduit guérison ou retrait immédiat des supports du murmure."
+    },
+    {
+      "number": 12,
+      "focus": "Évolution variable malgré un projet réussi",
+      "opening_quote": "Le murmure du feutre, la veille, n’ouvre pas cet échange plus large.",
+      "ending_quote": "À la sortie, Julien est bien présent comme convenu.",
+      "continuity_note": "Les deux groupes reçoivent trois cartes, la feuille aux cases ressert et une erreur de trajet est explicitement distinguée du bord réparé hier. Les six objets sont retrouvés ; l’escargot signe le plan, Julien tient son engagement et une prochaine partie laisse vivre le projet au-delà de sa clôture.",
+      "clinical_note": "La correction dessinée fonctionne alors que la réponse orale à plusieurs enfants reste empêchée : réussite scolaire et évolution clinique sont séparées. Les trois appuis maintiennent les accès, recueillent un retour sans score de courage et poursuivent le suivi, dont l’inquiétude déjà transmise. Aucun calendrier de parole n’est annoncé.",
+      "relatives_note": "Julien peut s’intéresser à la flèche en laissant Mila montrer ou passer à autre chose. Sam garde ses choix de jeu, les parents ne font pas de cette journée un bilan et la clinicienne conserve la réévaluation des besoins : les proches n’ont pas à prédire l’avenir de sa parole."
+    }
+  ]
+}

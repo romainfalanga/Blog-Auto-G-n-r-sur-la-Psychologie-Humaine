@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "character_id": "berenice",
+  "code": "6A41",
+  "article_format": 2,
+  "bio": "Bérénice, 52 ans, est agente d’accueil dans une salle de sport. Une catatonie provoquée par des substances ou des médicaments l’a conduite à l’hôpital avant son retour au comptoir. Elle veut comprendre ce qui lui est arrivé sans décider seule de la cause ni de son traitement. Avec sa fille Estelle, elle prépare un tournoi de badminton et choisit de tenir les inscriptions. Son médecin et son collègue Karim l’accompagnent, chacun à sa place. Elle retrouve son agrafeuse orange et le plaisir de contester une affiche mal placée.",
+  "profile_topics": [
+    "Catatonie provoquée par des substances ou des médicaments",
+    "Parole et initiative motrice entravées",
+    "Complications et soins médicaux",
+    "Vécu et souvenirs de l’épisode",
+    "Retour aux activités et suivi"
+  ],
+  "voice": "Bérénice aime les détails utiles, les panneaux lisibles et les échanges un peu piquants avec Karim. Elle ne parle pas comme une notice de médicament : elle demande ce que l'équipe a compris et ce qui reste à discuter. Pendant la phase aiguë, la narration ne remplit pas son silence par un monologue intérieur certain ; ensuite, elle raconte elle-même les fragments dont elle se souvient. Faire entendre ses préférences, ses refus et son humour sans faire de chaque phrase une preuve de rétablissement.",
+  "series_goal": "Préparer avec Estelle un tournoi associatif de badminton et y tenir les inscriptions dans un rôle qu'elle choisit, avec une relève réellement prévue. L'enjeu se construit depuis une enveloppe bleue mise de côté pendant l'hospitalisation jusqu'à un comptoir partagé le jour du tournoi. La résolution concerne sa contribution et sa relation à sa fille ; les décisions de soin et le suivi gardent leur calendrier propre.",
+  "continuity_rules": [
+    "Bérénice a 52 ans, reste agente d’accueil d'une salle de sport et ne devient ni entraîneuse ni organisatrice de soins. Estelle est sa fille ; Karim est son collègue. Le tournoi est un projet associatif de badminton, sans épreuve sportive imposée à Bérénice.",
+    "Avant l'épisode 1, un changement brutal inhabituel a conduit Estelle à alerter les secours et à une prise en charge hospitalière effective. Les premiers soins sont en cours dès l'ouverture. Aucun proche n'attend le nom du diagnostic pour demander de l'aide.",
+    "Épisode 1 under_assessment ; le médecin explique le diagnostic de 6A41 à l'épisode 2 diagnosis_explained ; épisodes 3 à 12 known. Le produit concerné est identifié dans le dossier médical après une évaluation étiologique ; son nom, son dosage et un calendrier médicamenteux ne sont pas livrés. Une seule succession de dates ne prouve jamais la cause.",
+    "Les épisodes 1 à 6 suivent la même phase aiguë hospitalière sur quelques jours, avec amélioration évaluée par l'équipe et fluctuations possibles. Les épisodes 7 à 12 se déroulent au cours des semaines suivant la sortie. Pas de douze crises, de catatonie active banalisée au travail ni de symptômes artificiellement prolongés jusqu'au tournoi.",
+    "La complication retenue est une déshydratation déjà traitée ; l'épisode 5 en explique l'enjeu et la surveillance. Ne pas inventer de complication thrombotique, de syndrome malin, d'addiction ou de trouble psychotique sous-jacent. La sortie à l'épisode 6 puis le retour à l'accueil à l'épisode 10 sont des décisions distinctes.",
+    "Aucune consigne d'arrêt, de reprise, de modification, de posologie ou de test médicamenteux. Aucun examen corporel par Estelle ou Karim, ni nourriture ou boisson forcée, ni exercice de mobilisation présenté comme soin. La prise en charge appartient aux professionnels ; les trois appuis des articles servent l'échange, la sécurité et les choix quotidiens.",
+    "Le mutisme ne vaut ni accord ni refus volontaire et ne certifie pas une compréhension préservée. Les souvenirs et la peur sont rapportés ensuite par Bérénice ; la narration ne les reconstruit pas en certitudes. Le mouvement bloqué ne devient pas une incapacité de décider dans tous les domaines.",
+    "Estelle reçoit les informations que Bérénice souhaite lui partager quand elle peut participer ; l'équipe garde son rôle dans l'information et les décisions de soins. Karim connaît les horaires et adaptations d'accueil, sans accès automatique au diagnostic ni aux traitements.",
+    "Une enveloppe bleue contient les feuilles du tournoi ; Estelle en tient d'abord la logistique avec les joueurs. Le gilet gris revient dans les scènes hospitalières puis à domicile. L'agrafeuse orange reste à la salle, où Karim garde les inscriptions jusqu'au retour convenu de Bérénice.",
+    "Un changement préoccupant ultérieur est évalué selon sa présentation et non présumé catatonique ou bénin. Une altération nouvelle importante ou brutale appelle un relais médical urgent, sans grille familiale. La lenteur isolée discutée à l'épisode 11 n'est pas qualifiée de rechute par un proche.",
+    "La dernière scène ferme l'organisation du tournoi : Bérénice tient les inscriptions, Estelle assure les contacts joueurs et Karim prend la clôture. La disparition clinique des signes, appréciée auparavant par l'équipe, et la reprise de ces activités ne sont pas confondues. Le suivi et les questions médicales demeurent ouverts."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Changement psychomoteur rapide et recours médical",
+      "scene": "Estelle entre dans la chambre d'hôpital avec l'enveloppe bleue du tournoi, puis la laisse fermée. La veille, elle a alerté les secours devant le changement brutal de sa mère ; Bérénice a déjà reçu les premiers soins et reste peu mobile, avec des réponses difficiles. Une infirmière reprend ses observations et prévient le médecin du changement constaté dans la chambre. L'évaluation continue ; personne n'attribue encore la situation au médicament évoqué par Estelle.",
+      "development": "Centrer l'aspect sur la rapidité et la gravité du changement par rapport au fonctionnement habituel, sans donner de liste pour reconnaître une catatonie. Trois angles : interruption inhabituelle des actes familiers ; impossibilité de poursuivre les engagements ordinaires ; nécessité d'un relais médical déjà effectif. Trois appuis à développer : transmettre les faits observés à l'équipe ; apporter les informations de traitement demandées sans interprétation causale ; remettre le tournoi à une personne disponible. Les proches ne stimulent pas, ne testent pas et ne font pas attendre les soins pour compléter une chronologie.",
+      "ending": "Estelle rapporte les faits au médecin et accepte de revenir avec les documents demandés. Elle confirme au groupe du tournoi qu'elle garde le contact logistique, sans annoncer de date de retour pour sa mère. Bérénice reste prise en charge à l'hôpital.",
+      "next": "Les informations demandées arrivent dans le dossier. Le médecin peut expliquer à Bérénice, dont les réponses redeviennent plus accessibles, le diagnostic retenu et ce qui soutient l'attribution au traitement.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "under_assessment"
+    },
+    {
+      "number": 2,
+      "focus": "Attribution médicamenteuse après évaluation clinique",
+      "scene": "Le médecin reprend avec Bérénice les éléments de son hospitalisation. Estelle a apporté les documents ; Bérénice demande que sa fille reste pour cette explication. Le médecin nomme la catatonie provoquée par des substances ou des médicaments et explique que l'équipe a identifié un traitement en cause après avoir examiné le tableau, l'exposition et les autres explications possibles. Bérénice demande si l'on peut vraiment dire cela parce que les deux événements se sont suivis.",
+      "development": "Faire de la question causale le centre de l'article. Trois distinctions : syndrome reconnu par l'évaluation ; traitement identifié comme explication compatible ; proximité des dates qui ne suffit pas à elle seule. Ne pas transformer les critères en outil autonome ou inventer un examen qui prouverait tout. Trois appuis : demander ce qui appuie la conclusion et ce qui reste à surveiller ; faire reformuler les mots inconnus ; convenir avec le médecin du prochain échange. Le soin médical est poursuivi indépendamment de la bonne compréhension immédiate de toutes les explications, et aucune prescription n'est détaillée.",
+      "ending": "Bérénice peut redire que l'équipe a évalué une complication liée à un traitement et que la cause ne se déduit pas d'un calendrier seul. Elle choisit de garder deux questions pour la prochaine visite. Estelle remet l'enveloppe bleue dans le sac, sans négocier de sortie autour du tournoi.",
+      "next": "Le diagnostic est désormais expliqué et connu. Pendant la visite suivante, le peu de paroles encore disponibles risque d'être pris pour une absence d'envie de participer à la conversation.",
+      "source_refs": ["oms-cddr", "icd11-6a41-berenice", "bap-catatonia-2023"],
+      "diagnostic_stage": "diagnosis_explained"
+    },
+    {
+      "number": 3,
+      "focus": "Parole entravée et compréhension possible",
+      "scene": "Estelle montre deux versions de l'affiche sans attendre de décision. Bérénice répond à peine ; sa fille commence à parler d'elle avec l'infirmière comme si elle n'était pas là. L'infirmière revient vers Bérénice et lui explique directement ce qui se passe. Le projet reste posé sur la table, sans transformer un silence en choix d'affiche ou en accord pour partager des informations.",
+      "development": "Distinguer la production d'une réponse et l'accès possible à ce que les autres disent. Trois angles : parole très réduite ; entourage tenté de combler le vide ; décisions qu'un silence ne permet pas de déduire. Trois appuis : s'adresser à elle simplement sans exiger une réponse ; laisser la conversation disponible et signaler la difficulté à l'équipe ; différer les décisions ordinaires non urgentes. Les soignants apprécient ses possibilités de participation aux décisions médicales. Ne pas inventer un code de clignement universel, une compréhension intacte certaine ou une technique qui ferait revenir la parole.",
+      "ending": "Estelle dit à sa mère qu'elle emporte les affiches et qu'aucun choix n'est requis aujourd'hui. Bérénice trouve plus tard une courte phrase pour demander son gilet gris. La demande compte pour ce qu'elle exprime, sans devenir la preuve d'un rétablissement complet.",
+      "next": "Le gilet est maintenant sur le fauteuil. La difficulté suivante concerne l'enchaînement d'un mouvement vers cet objet, distinct du peu de mots de la visite.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023", "zingela-experience-2022"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Initiative motrice bloquée malgré une intention",
+      "scene": "Dans la chambre, en présence d'une soignante, Bérénice veut prendre le gilet gris. Elle amorce le mouvement puis semble rester prise entre deux gestes. Estelle s'apprête à dire « vas-y, tu peux », puis s'arrête et rapporte ce qu'elle voit à la soignante. Ce n'est ni un exercice de rééducation ni une épreuve de volonté organisée par sa fille.",
+      "development": "Centrer l'article sur l'action qui ne s'engage ou ne s'enchaîne pas comme voulu. Trois angles : intention que Bérénice peut ensuite exprimer ; mouvement observable interrompu ; interprétation morale que l'entourage est tenté d'ajouter. Expliquer que les perturbations de l'initiative et de l'activité motrice appartiennent à certaines présentations, sans définir une personnalité indécise. Trois appuis : décrire le geste sans jugement ; demander à l'équipe comment accompagner ce moment ; laisser les objectifs pratiques non urgents être repris autrement. Ne jamais guider de force un membre ou chercher à reproduire un signe.",
+      "ending": "La soignante reprend la situation dans les soins et aide selon les besoins évalués. Estelle pose le gilet où l'équipe lui indique de le laisser. Bérénice ne reçoit ni encouragement à se dépasser ni reproche de ne pas avoir terminé le geste.",
+      "next": "Le besoin immédiat est pris en compte. Lors du point suivant, Bérénice demande pourquoi l'équipe suit encore ses apports alors que la difficulté lui paraît surtout concerner la parole et les mouvements.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Besoins corporels et complications médicales",
+      "scene": "Une soignante fait le point avec Bérénice sur les soins de la déshydratation déjà traitée et sur les besoins encore surveillés. Estelle a apporté une boisson que sa mère aime, puis comprend qu'elle doit d'abord demander si cette attention convient à la situation. Bérénice croyait que la reprise de quelques phrases signifiait que toute la partie médicale était derrière elle.",
+      "development": "Montrer pourquoi un trouble psychomoteur peut exposer le corps à des complications, sans transformer l'article en inventaire alarmant. Trois angles : apports devenus insuffisants ; actes ordinaires que le syndrome peut entraver ; surveillance qui ne se résume pas au retour de la parole. Trois appuis : demander à l'équipe ce qu'elle évalue et ce que le proche peut faire ; lui signaler une difficulté observée ; réserver l'aide pratique aux gestes autorisés et souhaités. Aucun objectif de volume, geste de déglutition, alimentation forcée ou mobilisation autonome. Les soins de la complication et ceux du syndrome restent explicites.",
+      "ending": "Estelle laisse la boisson de côté jusqu'à la réponse de l'équipe et propose plutôt de rapporter les affaires demandées. Bérénice obtient une explication sur les points médicaux suivis. La sortie n'est pas décidée parce qu'elle a pu boire ou parler pendant une visite.",
+      "next": "La déshydratation est prise en charge et surveillée. L'évolution des signes psychomoteurs demeure une autre question, car deux moments d'une même journée ne se ressemblent pas toujours.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Fluctuations et appréciation de l’amélioration",
+      "scene": "Le matin, Bérénice a pu plaisanter sur la position de l'affiche ; plus tard, ses réponses et ses gestes restent de nouveau difficiles. Estelle craint d'avoir rêvé l'amélioration. L'équipe reprend les observations de plusieurs moments et rappelle que la conversation du matin ne décide pas à elle seule de la suite. L'enveloppe bleue reste fermée le temps de ce point médical.",
+      "development": "Distinguer fluctuation des manifestations et jugement sur l'effort fourni. Trois angles : contraste entre deux moments ; risque d'attribuer ce contraste à la volonté ; évaluation longitudinale de l'amélioration. Trois appuis : rapporter des observations précises sans conclure à une guérison ou une aggravation ; demander ce qui motive le projet de sortie ; organiser avec l'équipe les contacts après celle-ci. Aucun proche ne répète une tâche pour mesurer les performances. Le cours bref fréquent du 6A41 n'est pas un compte à rebours applicable à chaque personne.",
+      "ending": "Après la poursuite des soins et une nouvelle appréciation clinique, l'équipe constate la résolution de la phase catatonique et organise la sortie avec Bérénice. Les contacts de suivi sont définis et Estelle s'occupe seulement du trajet convenu. La date du tournoi n'a pas déterminé cette décision.",
+      "next": "Bérénice revient chez elle ; la phase hospitalière est close et le suivi se poursuit. Elle peut maintenant raconter un vécu qui n'était pas déductible de son visage immobile.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Peur vécue derrière l’immobilité apparente",
+      "scene": "À la maison, Estelle dit qu'elle croyait sa mère calme pendant une visite. Bérénice lui répond qu'elle se souvient au contraire d'avoir eu très peur, sans avoir pu le montrer comme elle le voulait. Le gilet gris est sur le dossier de sa chaise. Elle parle d'une expérience précise, puis demande qu'elles cessent pour ce soir de revenir à la chambre d'hôpital.",
+      "development": "Centrer l'article sur l'écart possible entre apparence observée et vécu rapporté. Trois angles : calme apparent trompeur ; impossibilité de faire connaître une émotion ; besoin d'être écoutée après coup sans récit imposé. Présenter la peur comme un vécu possible, non comme cause du 6A41, preuve de conscience intacte ou mécanisme de défense établi. Trois appuis : écouter les mots choisis sans les corriger par l'observation extérieure ; demander si la conversation doit continuer ; proposer d'aborder ce vécu au suivi si Bérénice le souhaite. Aucun récit de traumatisme ni diagnostic supplémentaire n'est déduit.",
+      "ending": "Estelle reconnaît qu'elle ne savait pas ce que sa mère éprouvait. Elle accepte de changer de sujet ; Bérénice demande des nouvelles des joueurs du tournoi. Le récit de son hospitalisation lui appartient et n'est pas le prix à payer pour reprendre le projet.",
+      "next": "Bérénice a pu dire une part de son vécu sans devoir tout raconter. Au rendez-vous prévu, elle veut aussi parler de sa crainte d'un médicament sans que cette crainte soit prise pour une décision sur la prescription.",
+      "source_refs": ["oms-cddr", "zingela-experience-2022", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Inquiétudes et participation aux soins",
+      "scene": "Au rendez-vous de suivi, Bérénice pose devant son médecin la liste de traitements qu'il lui avait demandé d'apporter. Elle dit qu'elle a peur de ce qui pourrait se reproduire et qu'elle ne veut pas décider seule de la cause ou de la conduite à tenir. Elle a demandé à Estelle de l'accompagner, mais préfère commencer elle-même par ses questions.",
+      "development": "Passer de la conclusion étiologique à la participation éclairée aux soins. Trois angles : crainte légitime après une complication ; besoin d'une explication des bénéfices, risques et incertitudes ; distinction entre poser une question et conduire une décision médicamenteuse. Trois appuis : préparer deux questions avec les documents demandés ; demander une reformulation de la réponse ; vérifier le contact professionnel et la prochaine étape convenus. Le médecin examine l'histoire et les besoins actuels. Aucun changement, délai d'arrêt, reprise, substitution ou test n'est proposé ni décrit comme solution narrative.",
+      "ending": "Bérénice reformule ce qu'elle a compris et demande que le point encore incertain soit repris au prochain rendez-vous. Estelle complète seulement un fait que sa mère l'invite à rappeler. Les décisions médicales restent conduites dans le suivi.",
+      "next": "Le rendez-vous a eu lieu et les questions restantes ont une place définie. En rangeant les papiers à la maison, Bérénice et Estelle constatent qu'elles ne se rappellent pas la même partie de l'hospitalisation.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Souvenirs partiels et récit de l’épisode",
+      "scene": "En triant l'enveloppe bleue, Estelle situe le jour où elle a apporté le gilet. Bérénice se rappelle une phrase prononcée dans la chambre mais pas l'ordre des visites. Sa fille commence à combler le blanc, puis Bérénice précise qu'elle veut savoir ce qu'Estelle a vu sans qu'on lui dise ce qu'elle aurait forcément pensé.",
+      "development": "Distinguer souvenir personnel, observation d'un proche et information du dossier. Trois angles : souvenir précis à côté d'un blanc ; chronologies différentes ; pression de produire une histoire complète. Les récits de patients montrent une diversité de souvenirs, sans établir un trouble amnésique spécifique ni permettre d'en attribuer la cause. Trois appuis : laisser un élément non rappelé sans le forcer ; identifier qui rapporte chaque information ; demander une explication à l'équipe si une question médicale reste ouverte. Pas de technique de récupération de mémoire, de photos imposées ou de reconstitution présentée comme soin.",
+      "ending": "Elles gardent séparées les informations que chacune peut rapporter et laissent l'ordre des deux visites incertain. Bérénice range les documents médicaux à part des feuilles du tournoi. Elle demande à Karim quand elles pourraient reparler concrètement de son retour à l'accueil.",
+      "next": "Le récit médical n'a pas été forcé et les feuilles du tournoi sont retrouvées. La prochaine décision concerne une activité interrompue et les tâches que Bérénice souhaite reprendre avec Karim.",
+      "source_refs": ["oms-cddr", "zingela-experience-2022", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Retentissement professionnel et retour choisi",
+      "scene": "Dans le cadre du retour préparé avec son suivi et la salle, Bérénice retrouve le comptoir et son agrafeuse orange. Karim a gardé les inscriptions du tournoi. Elle veut reprendre cette tâche précise ; il propose d'abord de tout faire à sa place, puis lui demande quelle partie elle souhaite garder. Aucun exercice sportif ni test d'accueil n'est organisé pour vérifier sa santé.",
+      "development": "Montrer le retentissement d'une interruption médicale sur une place professionnelle, distinct de la persistance du syndrome. Trois angles : tâches reprises par d'autres pendant l'hospitalisation ; perte de maîtrise sur son propre rôle ; retour qui nécessite un accord concret. Trois appuis : définir une tâche ordinaire et la relève avec les personnes concernées ; dire quelle information de santé elle souhaite ou non partager ; maintenir les démarches de suivi utiles. Les arrangements fictifs ne sont ni une procédure légale ni un traitement de la catatonie. Le collègue n'apprécie pas l'aptitude médicale.",
+      "ending": "Bérénice reprend les inscriptions prévues ; Karim conserve les demandes générales du comptoir sur ce créneau. Elle indique aux collègues qu'elle revient après une hospitalisation et n'en dit pas davantage. L'enveloppe bleue reste accessible à tous deux pour la logistique du tournoi.",
+      "next": "La contribution est définie et le retour a commencé. Un délai de réponse remarqué un autre soir inquiète Bérénice ; elle apporte ce fait au contact de suivi plutôt que le laisser devenir une certitude de rechute.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Ralentissement ultérieur et nouvelle évaluation",
+      "scene": "Pendant le contact de suivi, Bérénice rapporte qu'un soir elle a tardé à répondre à Estelle et s'est aussitôt demandé si la catatonie revenait. Estelle peut décrire le moment sans lui donner de nom. Le médecin reprend ce changement, son contexte et l'état actuel ; le retour à l'accueil n'est ni une garantie que tout va bien ni une explication médicale de cette lenteur.",
+      "development": "Centrer l'article sur la nécessité d'évaluer sans tout rapporter au diagnostic connu. Trois distinctions : observation isolée et syndrome ; inquiétude personnelle et conclusion clinique ; contact de suivi et recours urgent face à une altération importante ou brutale. Trois appuis : rapporter le fait concret sans cotation familiale ; suivre le relais professionnel indiqué ; vérifier avec le médecin comment demander une aide urgente si la situation change fortement. Aucun seuil, test à domicile ou exercice d'attente n'est proposé. Le médecin ne prononce pas une absence de danger sur un seul mot ni une rechute sur une chronologie.",
+      "ending": "Le médecin évalue la situation et précise avec Bérénice la suite du suivi et le relais à utiliser en cas de changement préoccupant. Aucune nouvelle catatonie n'est affirmée dans le récit. Elle peut préparer le tournoi avec une relève prévue, sans faire de cet événement une surveillance clinique collective.",
+      "next": "Le changement a reçu un relais médical et le suivi continue. Bérénice et Estelle peuvent arrêter le rôle de chacune pour le tournoi ; ce choix ne vaut pas décision clinique sur l'évolution.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Résolution clinique et reprise d’une place",
+      "scene": "Le jour du tournoi, Bérénice agrafe les feuilles derrière le comptoir et rappelle à Estelle que l'affiche sera invisible si elle reste derrière la porte. L'équipe a déjà constaté la résolution de la phase catatonique ; cette décision ne se rejoue pas devant les joueurs. Bérénice a choisi de tenir les inscriptions pendant le créneau prévu, Estelle de répondre aux joueurs et Karim de prendre la clôture.",
+      "development": "Faire comprendre que le cours médical et la reprise des activités ont des repères différents. Trois angles : phase aiguë résolue sous soins ; conséquences pratiques de l'interruption encore à organiser ; projet et préférences qui dépassent le diagnostic. Trois appuis : tenir une contribution et une relève consenties ; distinguer le bilan de l'événement des questions à porter au suivi ; garder une perspective personnelle au-delà du tournoi. Le cours habituellement bref du 6A41 ne promet ni délai identique ni absence de problème ultérieur. Une inscription réussie, un rire ou une journée complète ne constituent pas un test de guérison.",
+      "ending": "Les joueurs sont inscrits et les feuilles remises à Estelle pour la suite des matchs. Karim prend la clôture comme convenu. Bérénice quitte le comptoir pour regarder une rencontre avec sa fille puis parler du prochain repas ensemble. Elle a tenu le rôle choisi sans devenir responsable de tout le tournoi.",
+      "next": "L'enjeu de la série est résolu : un tournoi préparé avec Estelle et une place précise réellement tenue, avec relève. Bérénice conserve le suivi prévu et le droit de reparler de ses inquiétudes ; ses relations et ses projets continuent au-delà de cet épisode médical.",
+      "source_refs": ["oms-cddr", "bap-catatonia-2023"],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

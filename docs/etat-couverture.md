@@ -2,11 +2,11 @@
 
 État au 2026-11-07.
 
-Le catalogue contient **1143 articles**, **96 personnages** et **63 parcours cliniques** de douze épisodes. **59** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
+Le catalogue contient **1191 articles**, **100 personnages** et **67 parcours cliniques** de douze épisodes. **63** parcours ont un code principal dans le chapitre 06 de la CIM-11. **4** parcours se situent dans d’autres chapitres ou dans le DSM-5-TR.
 
 **387 articles d’origine** disposent d’une preuve de lecture sémantique liée à l’empreinte de leur corps. Cette preuve est distincte des signaux de structure et de la relecture indépendante des passages sensibles.
 
-Il reste **91 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
+Il reste **87 cas du registre** à documenter et à traiter sous la forme appropriée. Les renvois à une variante ne comptent pas comme des textes écrits. Les catégories résiduelles, syndromes secondaires et différences entre référentiels restent à examiner.
 
 Les **161 repères internes indexés sur 161** ne constituent pas un inventaire de toute la psychologie. Une liaison secondaire ne vaut pas un épisode dédié. Les lacunes précises des grilles APA, RDoC et CIF sont consignées dans [la revue des concepts](../data/psychology_coverage_review.json). Le DSM-5-TR reste à comparer diagnostic par diagnostic au-delà des seules familles thématiques.
 
@@ -17,9 +17,9 @@ Les **161 repères internes indexés sur 161** ne constituent pas un inventaire 
 | Troubles neurodéveloppementaux | 44 | 11 | 0 | 21 | 12 |
 | Schizophrénie ou autres troubles psychotiques primaires | 64 | 5 | 0 | 42 | 17 |
 | Catatonie | 3 | 1 | 1 | 0 | 1 |
-| Troubles de l'humeur | 71 | 5 | 2 | 50 | 14 |
-| Troubles anxieux ou liés à la peur | 9 | 6 | 1 | 0 | 2 |
-| Troubles obsessionnels compulsifs ou apparentés | 27 | 6 | 1 | 11 | 9 |
+| Troubles de l'humeur | 71 | 7 | 0 | 50 | 14 |
+| Troubles anxieux ou liés à la peur | 9 | 7 | 0 | 0 | 2 |
+| Troubles obsessionnels compulsifs ou apparentés | 27 | 7 | 0 | 11 | 9 |
 | Troubles spécifiquement associés au stress | 8 | 4 | 2 | 0 | 2 |
 | Troubles dissociatifs | 32 | 4 | 3 | 18 | 7 |
 | Troubles du comportement alimentaire ou de la nutrition | 19 | 4 | 2 | 7 | 6 |
@@ -55,10 +55,6 @@ Ce tableau suit les scénarios candidats déjà présents dans la cartographie. 
 | Code | Sujet | Scénario candidat |
 | --- | --- | --- |
 | 6A41 | Catatonie provoquée par des substances ou des médicaments | Bérénice |
-| 6A70 | Épisode dépressif unique | Louise |
-| 6A73 | Trouble anxieux et dépressif mixte | Constance |
-| 6B06 | Mutisme sélectif | Mila |
-| 6B22 | Trouble de perception olfactive | Fanny |
 | 6B44 | Trouble réactionnel de l'attachement | Basile |
 | 6B45 | Trouble de l’engagement social désinhibé | Thaël |
 | 6B62 | État de transe | Agnès |

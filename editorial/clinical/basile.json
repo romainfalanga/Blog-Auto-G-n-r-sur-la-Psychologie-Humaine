@@ -1,0 +1,634 @@
+{
+  "character_id": "basile",
+  "bio": "Basile a 7 ans et reconnaît ses billes au bruit qu'elles font dans un tunnel. Accueilli par une famille, cet élève veut fabriquer avec sa classe une piste où chacun puisse jouer à sa façon. Son trouble réactionnel de l'attachement, déjà diagnostiqué par des professionnels, rend difficile le recours au réconfort des adultes, même lorsqu'il en aurait besoin. Nora, son adulte référente, son éducatrice et son équipe pédopsychiatrique cherchent des appuis avec lui. Basile garde ses blagues, ses idées de virages et le droit de préférer construire à côté plutôt que recevoir un câlin.",
+  "profile_topics": [
+    "Trouble réactionnel de l'attachement",
+    "Recours au réconfort",
+    "Réponses émotionnelles",
+    "Relations prévisibles",
+    "Participation scolaire"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "basile-chercher-reconfort-tunnel-effondre",
+      "title": "Chercher du réconfort quand le tunnel s’écroule",
+      "description": "Le tunnel de Basile s’affaisse. Nora est dans la pièce, mais il reste seul avec les morceaux et son projet pour l’école.",
+      "context": "Le rangement du premier prototype à la maison",
+      "topics": [
+        "Détresse peu partagée",
+        "Adulte disponible",
+        "Projet interrompu"
+      ],
+      "clinical_focus": "Chercher peu de réconfort",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le trouble réactionnel de l’attachement peut rendre très difficile le recours au réconfort d’un adulte quand l’enfant est en détresse. Basile, dont le diagnostic a été établi avant cette histoire, voit son tunnel s’effondrer. Nora se trouve près de lui. Sa présence ne suffit pourtant pas à lui faire chercher de l’aide auprès d’elle.",
+      "opening": "La bille verte fait deux petits coups contre les parois, puis disparaît. Basile attend le troisième bruit, celui qui signifie qu’elle est sortie. À la place, le toit du tunnel se couche sur le départ rapide. Il attrape le carton à deux mains. Un morceau lui reste entre les doigts, l’autre pend au ruban adhésif. « Mais tiens ! » Il le dit au tunnel, assez bas pour que Nora, près de l’évier, n’entende que le dernier mot.\n\nIl devait emporter son prototype à l’école demain. Mme Roux a demandé des idées pour une piste de classe. Basile avait prévu de montrer comment une bille pouvait partir très vite et finir tout doucement. Maintenant il n’y a plus de toit et la bille verte est sous la table. Il pourrait appeler Nora. Elle lui a dit qu’elle aurait terminé la vaisselle avant le repas. Il ne l’appelle pas. Il s’assied de l’autre côté de la table, les genoux contre les pieds de la chaise, et serre les deux bouts qui ne se rejoignent plus.\n\nNora se retourne. Il a la bouche pincée et tire encore sur le ruban. Elle pose le torchon. « J’ai vu le tunnel tomber. Je suis là. » Basile ne lève pas les yeux. Il cherche la poubelle du pied, puis ramène le morceau sur ses genoux. Il n’a pas décidé de le jeter. Il n’arrive plus à le remettre sur la table non plus. La lumière de la cuisine traverse le trou qui devait devenir l’entrée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un besoin d’appui qui ne devient pas une demande",
+          "text": "Chercher très peu de réconfort dans la détresse fait partie de la description du trouble réactionnel de l’attachement. Chez Basile, cette difficulté a été appréciée lors d’une évaluation spécialisée antérieure ; cette scène ne pose aucun diagnostic. Le silence devant Nora ne permet pas de savoir exactement ce qu’il éprouve, ni de conclure qu’il préfère toujours se débrouiller seul. On voit surtout son activité s’arrêter et les morceaux rester serrés contre lui alors qu’une adulte est disponible. Les informations anciennes utiles à son évaluation restent dans son dossier de soins. Son accueil dans une famille, pris isolément, ne serait pas une explication ni une preuve du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le faible recours au réconfort apparaît-il ici ?",
+          "points": [
+            {
+              "heading": "Rester avec ce qui a fait peine",
+              "text": "Basile garde le problème tout près de lui sans rejoindre l’adulte. Cette observation compte avec le contexte ; se mettre à l’écart n’a pas toujours la même signification.",
+              "examples": [
+                "Après l’effondrement, il s’assied derrière la table avec les deux morceaux sur ses genoux.",
+                "Quand Nora pose le torchon, il continue à tirer sur le ruban au lieu de lui montrer le toit."
+              ]
+            },
+            {
+              "heading": "Ne pas appeler malgré une présence accessible",
+              "text": "Une aide disponible peut rester difficile à solliciter. L’adulte n’a pas à attendre une demande bien formulée pour signaler sa présence et assurer les besoins ordinaires.",
+              "examples": [
+                "Basile sait que Nora est dans la cuisine, mais ne prononce pas son nom.",
+                "Le repas approche et Nora lui garde sa place même s’il ne répond pas à sa proposition de rester."
+              ]
+            },
+            {
+              "heading": "Ne plus laisser de place à la tâche partagée",
+              "text": "Le projet désiré reste suspendu. Cela montre un effet concret de la difficulté, sans transformer chaque réparation solitaire en signe clinique.",
+              "examples": [
+                "Il tient les deux extrémités, ce qui ne lui laisse aucune main pour prendre le ruban.",
+                "Il approche le carton de la poubelle, puis le ramène sans avoir pu choisir ce qu’il en fera."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rester disponible sans attendre un appel",
+          "points": [
+            {
+              "heading": "Nommer sa présence simplement",
+              "objective": "Pour l’adulte, rendre l’appui accessible sans demander une réponse affectueuse.",
+              "exercise": [
+                "Décrivez le fait visible : « Le tunnel est tombé. »",
+                "Indiquez où vous serez dans les minutes qui viennent.",
+                "Laissez passer un moment sans répéter les questions."
+              ],
+              "benefit": "L’enfant peut savoir qu’une aide existe même s’il ne la sollicite pas ; cela ne garantit pas un apaisement."
+            },
+            {
+              "heading": "Maintenir les besoins du moment",
+              "objective": "Préserver les soins ordinaires quand la conversation ne vient pas.",
+              "exercise": [
+                "Vérifiez les besoins immédiats sans faire raconter une émotion.",
+                "Annoncez la suite concrète, comme le repas et la place du matériel.",
+                "Proposez une présence à une distance acceptable, sans exiger de contact."
+              ],
+              "benefit": "Le quotidien peut continuer sans faire de la parole ou du rapprochement le prix de l’attention."
+            },
+            {
+              "heading": "Garder une possibilité pour le projet",
+              "objective": "Éviter qu’une décision définitive soit nécessaire au milieu de la difficulté.",
+              "exercise": [
+                "Proposez une boîte où les morceaux pourront attendre.",
+                "Demandez seulement si vous pouvez la laisser à portée.",
+                "Convenez d’un moment ordinaire pour revoir le rangement, avec le droit de différer la réparation."
+              ],
+              "benefit": "Préserver le carton permet une reprise éventuelle. Cette adaptation domestique ne constitue pas un traitement."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La boîte bleue reste ouverte",
+      "ending": "Nora rapporte une boîte bleue assez grande pour les deux morceaux. « Elle peut rester là jusqu’après le repas. » Basile ne vient pas vers elle. Il desserre un peu ses doigts et dépose le toit en travers du fond. La bille verte est encore sous la table ; Nora la pose à côté de la boîte en annonçant ce qu’elle fait.\n\n« Pas la poubelle », dit-il. Ils conviennent de reprendre le rangement après manger et de regarder le prototype le lendemain matin. Le carton reste cassé. Basile garde les épaules hautes en allant s’asseoir, mais le tunnel pourra encore partir quelque part.",
+      "conclusion": "Un enfant peut être en difficulté sans chercher le réconfort pourtant disponible. Dans cet épisode, Nora garde une présence et les besoins ordinaires accessibles. Basile ne paraît pas soulagé ; sa décision concerne seulement les morceaux qu’il veut conserver.",
+      "mirror": [
+        "Devant les mains de Basile occupées à tout retenir, Nora peut dire : « Je laisse la boîte ici. Tu n’as pas besoin de m’expliquer maintenant. » Elle continue à préparer le repas et garde un œil sur lui, sans prendre son silence pour une réponse sur leur relation. Si ces moments les mettent régulièrement en difficulté, elle peut les décrire à Samira ou à l’équipe qui suit Basile, en parlant de ce qu’elle a vu plutôt que d’une intention qu’elle lui attribue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "oms-mms-6b44"
+      ],
+      "continuity": {
+        "choice": "Basile conserve le tunnel effondré dans la boîte bleue ; Nora prévoit de reprendre le rangement après le repas.",
+        "next": "La boîte rangée avec ses morceaux sera rouverte le lendemain matin avant le départ à l’école."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "basile-recevoir-reconfort-deux-descentes",
+      "title": "Recevoir du réconfort sans se sentir aussitôt apaisé",
+      "description": "Nora reste près du tunnel cassé. Ses mots n’apaisent pas aussitôt Basile, qui cherche surtout ce qu’il pourrait faire du carton.",
+      "context": "Le lendemain matin devant la boîte bleue",
+      "topics": [
+        "Réponse au réconfort",
+        "Distance choisie",
+        "Présence sans insistance"
+      ],
+      "clinical_focus": "Recevoir difficilement le réconfort offert",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Répondre peu au réconfort proposé est une difficulté distincte de celle de ne pas le demander. Elle peut faire partie du trouble réactionnel de l’attachement déjà diagnostiqué chez Basile. Le lendemain de l’effondrement, Nora lui offre sa présence. Il entend ses mots, mais ne semble pas pouvoir s’y appuyer pour se sentir mieux immédiatement.",
+      "opening": "La boîte bleue est restée sur l’étagère basse après le rangement du soir. Nora la pose sur la table du petit déjeuner, loin du bol. Basile retire le couvercle et retrouve le toit plié en deux. La bille verte roule dans une rainure du fond. « Tu veux que je reste avec toi ? Ça peut faire de la peine, un tunnel cassé. » Il tourne la boîte pour avoir l’entrée devant lui. « C’est le ruban. Il collait même pas. »\n\nNora tire une chaise. Les genoux de Basile se rapprochent sous la sienne ; il bloque le carton avec son poignet. Elle s’arrête avant de s’asseoir. Le sac pour l’école attend contre la porte, vide de son prototype. Il a remis son manteau sur le dossier afin de pouvoir sortir vite, mais ses chaussures ne sont pas encore attachées. Nora dit qu’ils ont le temps de regarder les morceaux. Basile gratte une boule de colle sèche avec l’ongle. « Il collait pas », répète-t-il.\n\nElle avait pensé que rester près de lui rendrait ce matin moins pénible. Il n’a pas l’air plus tranquille. Elle ne peut pas savoir s’il souhaite qu’elle parte ou seulement qu’elle recule un peu. « Je peux m’asseoir au bout, là où il y a mon carton. » Basile pousse la boîte de quelques centimètres vers le centre. Il ne répond pas à la question, puis précise : « Faut pas coller le bol. » Nora éloigne son propre bol. Il vérifie la place libérée avant de toucher au toit.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’offre et son effet ne se confondent pas",
+          "text": "Une parole consolante peut être entendue sans apporter aussitôt du réconfort. La description du trouble réactionnel de l’attachement distingue le faible recours spontané à l’adulte et la réponse limitée à ses tentatives de consolation. Ici, Basile ne paraît pas s’apaiser quand Nora s’approche ; cette observation ne révèle pas ce qu’il ressent pour elle. Son diagnostic est déjà connu de l’équipe qui le suit. Nora peut ajuster sa présence sans chercher la formule qui obtiendrait enfin une marque d’affection. Les choix de chaise et de carton sont des arrangements de leur matinée, pas des exercices dont une efficacité thérapeutique serait démontrée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’offre de réconfort reste-t-elle difficile à recevoir ?",
+          "points": [
+            {
+              "heading": "Entendre sans paraître soulagé",
+              "text": "L’adulte peut parler avec douceur sans observer le changement qu’il espérait. L’absence de réaction visible ne permet pas de juger la qualité de leur lien.",
+              "examples": [
+                "Après la phrase de Nora sur la peine, Basile garde son poignet serré contre le carton.",
+                "Quand elle lui propose du temps, il gratte encore la colle au lieu de se détendre dans sa chaise."
+              ]
+            },
+            {
+              "heading": "Se tendre à l’approche",
+              "text": "Dans cette scène, la distance modifie ce que Basile semble pouvoir tolérer. Ce fait individuel ne fait pas d’un refus de proximité un critère de diagnostic.",
+              "examples": [
+                "Ses genoux se rapprochent lorsque Nora tire la chaise voisine.",
+                "Il cesse de déplacer le toit pendant qu’elle se penche, puis le retouche quand elle recule."
+              ]
+            },
+            {
+              "heading": "Revenir à la panne matérielle",
+              "text": "Le défaut du ruban reste au centre de ses réponses. Nora peut l’entendre sans obliger Basile à remplacer cette explication concrète par un discours émotionnel.",
+              "examples": [
+                "À la proposition de rester ensemble, il répond que le ruban ne collait pas.",
+                "Il demande de dégager le bol, une précision utile pour travailler, sans dire s’il va mieux."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour ajuster une présence offerte",
+          "points": [
+            {
+              "heading": "Annoncer sa place",
+              "objective": "Pour l’adulte, éviter une approche répétée que l’enfant doit repousser.",
+              "exercise": [
+                "Annoncez l’endroit où vous proposez de vous installer.",
+                "Laissez le choix entre deux distances réellement possibles, ou gardez celle qui n’envahit pas l’espace de l’enfant.",
+                "Restez à cette place sans tester régulièrement s’il accepterait désormais plus près."
+              ],
+              "benefit": "Une position claire peut rendre l’échange plus prévisible sans faire de la proximité un objectif."
+            },
+            {
+              "heading": "Faire quelque chose à côté",
+              "objective": "Permettre un moment partagé qui ne dépend pas d’une consolation réussie.",
+              "exercise": [
+                "Choisissez une activité ordinaire que vous pouvez faire avec votre propre matériel.",
+                "Dites que l’enfant peut poursuivre son idée ou faire une pause.",
+                "Répondez à ses demandes pratiques sans y ajouter une demande de sourire ou de merci."
+              ],
+              "benefit": "La tâche offre une manière de rester présents ensemble ; elle ne remplace pas la prise en charge clinique."
+            },
+            {
+              "heading": "Reprendre les ajustements entre adultes",
+              "objective": "Trouver du soutien lorsque les propositions de présence deviennent difficiles à régler.",
+              "exercise": [
+                "Notez le contexte concret d’un échange, sans prêter une intention à l’enfant.",
+                "Apportez cette situation au contact habituel avec l’éducatrice ou l’équipe.",
+                "Discutez avec eux d’un ajustement possible plutôt que de multiplier les tentatives pour obtenir une réponse."
+              ],
+              "benefit": "Les adultes peuvent être accompagnés dans leur façon d’aider sans faire porter l’échec supposé à l’enfant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Deux descentes dans la même boîte",
+      "ending": "Nora s’installe au bout de la table et découpe un rectangle dans son propre carton. Basile garde longtemps le toit entre ses mains. Puis il demande les ciseaux. « Si on coupe là, il y a deux descentes. Le tunnel, il est trop mou. » Nora lui passe la paire adaptée à son âge et reste à sa place.\n\nIl coupe sur le pli. Une descente sera haute, l’autre plus basse ; elles tiennent côte à côte dans la boîte. Ses gestes restent raides et il ne dit rien de la peine. Il ferme lui-même le couvercle et emporte les deux descentes en classe. Nora préviendra Samira au moment de leur échange habituel qu’ils cherchent encore comment traverser ces matinées.",
+      "conclusion": "Recevoir difficilement le réconfort ne signifie pas rejeter la personne qui le propose. Nora ajuste sa distance et Basile transforme le carton. Cette reprise concrète laisse entière la question de son apaisement et conserve les soutiens déjà présents.",
+      "mirror": [
+        "Nora peut être déçue que sa phrase douce ne semble rien changer. Elle peut garder cette déception pour un échange avec un adulte de confiance, puis dire à Basile : « Je reste au bout de la table. Les ciseaux sont ici si tu en as besoin. » Si elle sent qu’elle recommence à lui proposer une consolation pour vérifier son effet, elle peut s’arrêter et en parler à Samira. Basile n’a pas à démontrer qu’elle a bien fait."
+      ],
+      "sources": [
+        "oms-cddr",
+        "aacap-non-coercition",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Basile coupe le toit plié en deux descentes, pendant que Nora garde une activité et une chaise à distance.",
+        "next": "Les deux descentes partent dans la boîte bleue à l’école pour un premier essai avec Mme Roux et la classe."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "basile-plaisir-peu-visible-toc-final",
+      "title": "Un plaisir discret peut échapper aux adultes",
+      "description": "La bille franchit les deux descentes. Mme Roux attend un sourire ; Basile veut surtout garder le son qu’il vient d’entendre.",
+      "context": "Le premier essai des descentes avec la classe",
+      "topics": [
+        "Expression du plaisir",
+        "Réaction de l’adulte",
+        "Préférences de jeu"
+      ],
+      "clinical_focus": "Un plaisir peu visible aux adultes",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Une expression émotionnelle positive limitée peut accompagner le trouble réactionnel de l’attachement. Ce qui se voit ne permet pourtant pas de mesurer tout le plaisir d’un enfant. Basile, déjà suivi pour ce trouble, fait essayer ses deux descentes. Sa réaction sobre risque de masquer ce qui compte pour lui dans la réussite du parcours.",
+      "opening": "Mme Roux soulève un livre pour faire une pente. Basile en ajoute un deuxième, puis le retire : la bille verte saute déjà à la jointure. Les deux descentes sorties de la boîte bleue arrivent dans un couvercle en carton. Toute la table se penche lorsque Lila laisse partir la bille. Elle roule, hésite, traverse le raccord et touche le bord. Toc.\n\n« Cette fois, elle a tout fait ! Bravo ! » Mme Roux regarde Basile. Il fixe l’endroit où la bille s’est arrêtée. Elle attend une seconde, avec les mains encore ouvertes. Basile demande : « On peut garder ce couvercle ? » Elle dit oui, puis lui demande si cela lui fait plaisir. « Le bruit est bon. » Il retourne le couvercle pour voir de quel côté la bille l’a frappé. Un autre enfant essaie d’applaudir, mais s’arrête pour récupérer une bille tombée près de son pied. Lila trouve qu’on devrait mettre trois livres.\n\nPlus tard, pendant que Mme Roux aide la table voisine, Basile fait le bruit avec la langue. Toc. Lila répond avec un toc beaucoup trop fort. « C’est une casserole, ton arrivée », dit-il. Elle recommence encore plus fort. Basile cache sa bouche dans sa manche, puis reprend le couvercle avant qu’elle ne le transforme en tambour. Ils essaient une petite courbe avec une bande de carton. Elle se tord au milieu. « Une moustache ! » dit Lila. Basile pose la bille dans le creux pour vérifier si elle peut quand même passer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer une expression sans décider du sentiment",
+          "text": "Une réaction positive peu visible peut accompagner les difficultés sociales et émotionnelles du trouble réactionnel de l’attachement. Elle ne donne pas accès à tout ce que l’enfant éprouve. Mme Roux observe une réponse brève à son enthousiasme ; Basile exprime, lui, une préférence précise pour le son obtenu. Le narrateur ne peut pas en faire une mesure de joie intérieure. Sa plaisanterie avec Lila n’invalide pas son diagnostic connu et ne prouve pas une amélioration clinique. Les adultes peuvent prendre au sérieux ses paroles et ses choix, plutôt que chercher une expression qui confirmerait que l’activité lui plaît."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le plaisir risque-t-il de devenir peu visible ?",
+          "points": [
+            {
+              "heading": "Répondre sobrement à l’enthousiasme",
+              "text": "Le décalage entre la célébration de l’adulte et la réaction de l’enfant peut attirer toute l’attention, au détriment de l’activité elle-même.",
+              "examples": [
+                "Mme Roux s’exclame et Basile reste tourné vers le couvercle.",
+                "À la question sur son plaisir, il répond seulement que le bruit est bon."
+              ]
+            },
+            {
+              "heading": "Dire une préférence par un détail",
+              "text": "Une demande concrète renseigne sur ce que l’enfant veut conserver. Elle mérite une réponse même lorsqu’aucune joie démonstrative ne l’accompagne.",
+              "examples": [
+                "Basile demande si le couvercle pourra rester dans le projet.",
+                "Il examine le bord frappé par la bille afin de retrouver le même toc au prochain essai."
+              ]
+            },
+            {
+              "heading": "Réagir autrement dans un autre échange",
+              "text": "L’expression peut varier selon les moments et les partenaires. Une scène amusante avec un pair ne permet pas de conclure sur le recours au réconfort adulte.",
+              "examples": [
+                "Basile imite le bruit discrètement quand l’enseignante s’est éloignée de la table.",
+                "Avec Lila, il plaisante sur une arrivée qui ferait un bruit de casserole, puis revient à son montage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour accueillir une réaction discrète",
+          "points": [
+            {
+              "heading": "Décrire ce qui a fonctionné",
+              "objective": "Reconnaître la construction sans exiger une émotion en retour.",
+              "exercise": [
+                "Nommez le résultat précis : la bille a passé le raccord.",
+                "Laissez un temps à l’enfant pour son propre commentaire.",
+                "Continuez à lui donner accès au jeu même si le commentaire reste bref."
+              ],
+              "benefit": "La réussite peut être reconnue sans transformer le sourire ou le remerciement en condition de participation."
+            },
+            {
+              "heading": "Écouter le détail choisi",
+              "objective": "Comprendre une préférence à partir de ce que l’enfant communique réellement.",
+              "exercise": [
+                "Reprenez son mot, comme « le bruit », sans l’interpréter à sa place.",
+                "Demandez une précision utile à l’activité si elle est nécessaire.",
+                "Gardez une trace du choix sur le plan avec son accord."
+              ],
+              "benefit": "Le projet peut intégrer sa contribution au lieu de dépendre d’une lecture incertaine de son visage."
+            },
+            {
+              "heading": "Offrir un prochain choix concret",
+              "objective": "Laisser l’activité avancer sans mesurer des manifestations d’affection ou de joie.",
+              "exercise": [
+                "Présentez deux possibilités de construction compatibles avec le groupe.",
+                "Laissez aussi la possibilité de regarder avant de choisir.",
+                "Mettez en œuvre le choix retenu sans commenter le nombre de sourires obtenus."
+              ],
+              "benefit": "Une décision accessible permet de poursuivre la coopération. Cet appui quotidien n’est pas une évaluation du trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le virage moustache sera lent",
+      "ending": "Mme Roux revient avec une grande feuille. Elle n’interroge pas de nouveau Basile sur son plaisir. « J’écris quoi pour l’arrivée ? » Il répond : « Garder le toc. » Elle le note. Lila veut la courbe tordue sur le trajet rapide. La bille en sort au premier essai. Basile la ramasse : « La moustache, elle court pas. »\n\nIls dessinent donc le virage sur un chemin lent, à côté d’une ligne plus droite pour aller vite. Le troisième départ reste un point d’interrogation. Basile emporte le petit plan et les morceaux à la maison pour essayer un raccord. Le couvercle rentre lui aussi dans la boîte bleue, posé au-dessus des deux descentes pour qu’il ne se déforme pas.",
+      "conclusion": "Une expression positive discrète ne suffit pas à décrire ce qu’un enfant apprécie. Dans cet essai, le commentaire de Basile permet de conserver un son et de choisir un virage. Son projet avance sans que sa réaction à l’adulte devienne un examen.",
+      "mirror": [
+        "Mme Roux peut se surprendre à attendre un sourire après son bravo. Elle peut alors revenir à la bille : « Tu veux garder ce bord pour le toc ? » Elle entend ainsi ce que Basile choisit de partager. À la maison, Nora peut regarder le plan sans demander pourquoi il n’était pas plus content en classe. Les adultes peuvent échanger leurs observations utiles avec l’équipe, mais le rire aperçu avec Lila ne devient pas la preuve qu’un soutien serait devenu inutile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "La classe conserve le toc final ; Basile et Lila placent le nouveau virage moustache sur le chemin lent.",
+        "next": "Le plan et le matériel rentrent dans la boîte bleue pour essayer à la maison un raccord entre la descente et le virage."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "basile-irritation-offre-aide-raccord",
+      "title": "L’irritation surgit dans une offre d’aide ordinaire",
+      "description": "Julien propose de tenir le virage. Basile s’emporte et le raccord reste en suspens ; l’adulte doit trouver comment ne pas prolonger le conflit.",
+      "context": "La fixation du virage moustache sur un plateau à la maison",
+      "topics": [
+        "Irritation dans l’échange",
+        "Pause possible",
+        "Limite sans confrontation"
+      ],
+      "clinical_focus": "Irritation dans un échange sans menace",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Le trouble réactionnel de l’attachement peut s’accompagner d’irritation dans des échanges ordinaires avec les adultes qui prennent soin de l’enfant. Toute colère n’en relève pas pour autant. Basile, dont le diagnostic est connu, se fâche quand Julien propose une aide banale. Leur montage s’interrompt sans qu’aucun des deux sache expliquer précisément ce qui vient de se passer.",
+      "opening": "Le plan de la classe est coincé sous un verre vide. Basile a retrouvé deux morceaux de ruban et un plateau léger qui permettra de transporter le montage sans tout refaire. Il pose la descente basse devant le virage moustache. Le couvercle d’arrivée attend plus loin. Sur le papier, les lignes se touchent parfaitement. Sur le plateau, il reste un trou où la bille pourrait s’échapper.\n\nJulien passe derrière une chaise avec les assiettes du repas. « Je peux tenir la moustache pendant que tu colles. » Sa main n’a pas encore atteint le carton que Basile le repousse. « J’ai rien demandé ! » Le virage heurte le bord du plateau. Julien s’immobilise, les assiettes contre le ventre. Il venait seulement de proposer de tenir. Il a envie de le dire très fort.\n\nBasile garde un coude devant le matériel. Le pot de colle est encore fermé. Il ne regarde pas le trou qu’il voulait boucher et il ne reprend pas la phrase. Quand Julien lui demande ce qui l’a fâché, il hausse les épaules sans baisser le coude. La question laisse toute la table arrêtée. Nora, qui arrive avec le pain, pose la corbeille à l’autre bout. Julien reprend les assiettes une à une et respire avant de parler. Il n’a pas besoin de comprendre immédiatement pour éviter de hausser le ton. « Je vais poser ça. Le carton reste sur le plateau. » Basile regarde le virage qui dépasse du bord, sans encore le remettre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Décrire l’irritation sans inventer sa cause",
+          "text": "Une irritabilité peut apparaître dans certaines interactions non menaçantes avec les adultes proches chez un enfant présentant un trouble réactionnel de l’attachement. Cette description ne permet pas d’attribuer automatiquement chaque conflit au trouble, ni de reconstruire un événement ancien qui expliquerait la réaction. Dans cette scène, l’offre de Julien est ordinaire et l’irritation interrompt une tâche que Basile voulait réussir. On ne sait pas ce qu’il a compris de la proposition. Les adultes peuvent réduire la tension et maintenir une limite simple sans exiger qu’il fournisse une explication, qu’il raconte son passé ou qu’il prouve une intention amicale."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’irritation coupe-t-elle cet échange ?",
+          "points": [
+            {
+              "heading": "Une réponse vive avant l’action proposée",
+              "text": "La réaction arrive alors que l’aide n’a pas commencé. Constater cette succession ne prouve pas que l’adulte a fait du mal ni que l’enfant cherche délibérément un conflit.",
+              "examples": [
+                "Basile crie avant que Julien touche le virage.",
+                "Le mouvement de son coude ferme l’espace où une deuxième main aurait pu tenir le raccord."
+              ]
+            },
+            {
+              "heading": "Une offre devenue difficile à reprendre",
+              "text": "Une proposition pratique peut ne plus être accessible une fois l’échange tendu. Insister pour démontrer sa bonne intention risque de prolonger l’arrêt.",
+              "examples": [
+                "Julien voudrait expliquer qu’il aidait seulement, mais Basile garde le carton derrière son bras.",
+                "À la question sur sa colère, Basile hausse les épaules et ne recommence pas à coller."
+              ]
+            },
+            {
+              "heading": "L’activité désirée se retrouve suspendue",
+              "text": "L’irritation a un coût dans le projet lui-même. Ce retentissement peut être décrit sans juger le caractère de l’enfant.",
+              "examples": [
+                "Le pot de colle demeure fermé alors que le raccord devait être terminé avant le repas.",
+                "Le virage dépasse toujours du plateau, et aucune bille ne peut tester le passage."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour traverser un échange irrité",
+          "points": [
+            {
+              "heading": "Retirer la pression de l’échange",
+              "objective": "Pour l’adulte, réduire l’escalade sans obtenir d’abord une justification.",
+              "exercise": [
+                "Cessez la proposition qui n’est pas nécessaire à la sécurité immédiate.",
+                "Parlez d’une voix ordinaire en annonçant ce que vous allez faire.",
+                "Laissez un temps sans nouvelle question sur la cause de la réaction."
+              ],
+              "benefit": "L’enfant et l’adulte peuvent sortir du face-à-face avant de décider s’ils reprennent la tâche."
+            },
+            {
+              "heading": "Garder une limite simple pour le matériel",
+              "objective": "Préserver les personnes et les objets sans faire de l’obéissance une preuve d’attachement.",
+              "exercise": [
+                "Indiquez la règle concrète : le carton reste sur le plateau.",
+                "Écartez calmement ce qui doit être protégé en annonçant le geste si nécessaire.",
+                "Laissez le choix entre une pause et une reprise compatible avec cette règle."
+              ],
+              "benefit": "Une limite compréhensible peut coexister avec la possibilité de s’arrêter ; l’aide reste accessible ensuite."
+            },
+            {
+              "heading": "Accorder les réponses des adultes",
+              "objective": "Éviter que leur propre irritation fasse varier brusquement les réactions autour de l’enfant.",
+              "exercise": [
+                "Reprenez l’échange entre adultes à un autre moment.",
+                "Distinguez le geste observé, votre réaction et ce que vous ignorez.",
+                "Apportez à Samira les difficultés qui se répètent pour discuter des appuis avec l’équipe."
+              ],
+              "benefit": "Les adultes peuvent chercher une réponse cohérente sans demander à Basile de prendre en charge leur contrariété."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le plateau se porte à deux",
+      "ending": "Julien commence le repas. Il laisse le virage sur le plateau et ne revient pas obtenir une explication. Plus tard, Basile ramène le carton vers le centre. Il appuie le raccord contre une petite boîte pendant qu’il pose le ruban. La bille verte rejoint le couvercle, de travers, mais sans tomber.\n\nAu moment de ranger, il soulève un côté du plateau et voit l’autre fléchir. « Faut deux porteurs. » Julien prend le bord qu’il désigne ; ils le posent à plat près de la boîte bleue. Nora et Julien gardent pour l’échange prévu avec Samira la question de leurs réactions dans ces moments tendus. Avant de fermer le cartable, Nora lit un message : Mme Roux sera absente le lendemain de l’atelier. Le plateau pourra partir, mais il faut encore préciser à qui le confier.",
+      "conclusion": "L’irritation dans un échange ordinaire peut interrompre une activité importante sans livrer son explication. Julien garde une limite et laisse une pause. Le transport partagé rend le projet possible ; il ne résout pas à lui seul la difficulté émotionnelle.",
+      "mirror": [
+        "Les assiettes dans les mains, Julien peut se sentir attaqué et vouloir défendre immédiatement sa proposition. Il peut dire : « Je pose les assiettes. On peut laisser le montage pour après. » Il n’a pas à accepter des gestes dangereux, mais peut garder une limite sans obtenir d’excuses sur-le-champ. Nora et lui peuvent chercher du soutien auprès de Samira pour leurs propres hésitations. Basile n’est pas chargé de rassurer Julien sur sa valeur d’adulte accueillant."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Après une pause, Basile fixe le raccord sur le plateau ; il demande à Julien de porter l’autre côté pour le ranger.",
+        "next": "Le plateau est transportable. Le message annonçant l’absence de Mme Roux doit maintenant être traduit en relais concret."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "basile-relais-annonce-atelier-remplacante",
+      "title": "Un relais annoncé garde l’aide accessible",
+      "description": "Le plateau est prêt, mais Basile ignore à qui le donner pendant l’absence de Mme Roux. Un nom et un déroulement précis changent l’atelier.",
+      "context": "La préparation puis la journée d’absence de l’enseignante",
+      "topics": [
+        "Continuité des adultes",
+        "Relais scolaire",
+        "Repères concrets"
+      ],
+      "clinical_focus": "Stabilité des appuis et relais annoncés",
+      "diagnostic_stage": "known",
+      "clinical_intro": "La stabilité des adultes et la clarté de leurs relais peuvent soutenir un enfant qui utilise difficilement leur aide. C’est un appui d’environnement, pas un symptôme supplémentaire du trouble réactionnel de l’attachement. Avant une absence de Mme Roux, Basile connaît toujours la salle ; il lui manque surtout une personne précise à qui confier sa piste.",
+      "opening": "Le petit plateau entre de biais dans le grand compartiment du cartable. Pour qu’il ne plie pas, Nora a glissé un carton plat derrière. La boîte bleue contient les billes, les descentes détachables et le couvercle d’arrivée. Basile a vérifié deux fois que le raccord du virage moustache tient encore. À l’école, pourtant, il laisse le plateau dans son cartable. Les autres objets du projet s’alignent sur la table du fond. Le sien dépasse entre deux cahiers.\n\nMme Roux sera absente lors de la prochaine journée d’essais. Le message disait qu’une remplaçante serait là. « Elle va savoir pour le plateau ? » demande Basile à Nora au vestiaire. Nora connaît le nom de la remplaçante depuis la réponse reçue ce matin : Mme Vidal. Elle ne sait pas encore comment le matériel sera accueilli. « On va le demander à Mme Roux. » Basile ferme le rabat au lieu de sortir son montage.\n\nIl connaît la porte, les patères et la table qui penche un peu. Il ne sait pas à qui dire que le couvercle ne doit pas servir à ranger les crayons. Quand Mme Roux approche, il désigne seulement ce qui dépasse du cartable. « Demain, on le met où ? » Elle avait préparé les activités de la journée d’absence. Elle comprend qu’il reste à préparer aussi leur destinataire. Le plateau attend toujours, bien emballé, alors que rien ne manque au matériel pour commencer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La continuité se prépare avec des personnes et des gestes",
+          "text": "Un relais prévisible aide à rendre les soutiens concrets lorsqu’une relation avec l’adulte est difficile à mobiliser. Les recommandations britanniques NICE sur les difficultés d’attachement, plus larges que le seul diagnostic de Basile, insistent notamment sur la cohérence des intervenants et l’appui scolaire. Elles ne signifient pas qu’un adulte doit rester toujours présent. Ici, annoncer seulement une remplaçante laisse sans réponse la question du matériel et du moment de l’essai. Le dessin du programme et la présentation de Mme Vidal sont des aménagements choisis dans ce contexte, sans valeur de traitement démontré du trouble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un relais imprécis suspend-il l’activité ?",
+          "points": [
+            {
+              "heading": "Garder le matériel faute de destinataire",
+              "text": "La piste est prête, mais personne n’est encore clairement désigné pour la recevoir. Le retard ne dit rien, à lui seul, de l’envie de participer.",
+              "examples": [
+                "Basile laisse le plateau entre ses cahiers alors que les autres groupes ont posé leurs pièces.",
+                "Il vérifie l’emballage plutôt que d’installer le couvercle sur la table du fond."
+              ]
+            },
+            {
+              "heading": "Connaître le lieu sans connaître l’appui",
+              "text": "Les repères matériels et les repères relationnels apportent des informations différentes. Retrouver sa salle ne répond pas à toutes les questions.",
+              "examples": [
+                "Il sait où sont les patères mais ignore à qui expliquer l’usage du couvercle.",
+                "Le nom de Mme Vidal devient utile lorsqu’il est relié à un accueil précis du plateau."
+              ]
+            },
+            {
+              "heading": "Attendre une suite compréhensible",
+              "text": "Un déroulement incomplet peut laisser l’enfant en attente. Les adultes peuvent préciser ce qui est prévu sans garantir qu’aucun changement n’arrivera.",
+              "examples": [
+                "Basile demande où poser la piste avant de la sortir.",
+                "Il veut savoir si la personne qui reçoit le plateau sera aussi là pour faire rouler la bille."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un relais ordinaire",
+          "points": [
+            {
+              "heading": "Relier un nom à une tâche",
+              "objective": "Pour les adultes, rendre le remplacement concret avant l’absence.",
+              "exercise": [
+                "Nommez la personne qui sera présente et son rôle.",
+                "Précisez qui recevra le matériel et qui aidera à l’essai.",
+                "Proposez une présentation en amont si l’organisation le permet."
+              ],
+              "benefit": "Le relais devient une suite d’actions utilisables plutôt qu’une présence anonyme."
+            },
+            {
+              "heading": "Dessiner la journée prévue",
+              "objective": "Offrir un repère que l’enfant peut consulter à sa façon.",
+              "exercise": [
+                "Reprenez avec lui quelques moments importants de la journée.",
+                "Indiquez le retour prévu de l’adulte et la personne à contacter si cela change.",
+                "Laissez-le choisir s’il garde le dessin, sans en faire un exercice obligatoire."
+              ],
+              "benefit": "Le support peut réduire les informations à retenir. Il ne constitue ni une promesse absolue ni un protocole de soin."
+            },
+            {
+              "heading": "Transmettre les adaptations utiles",
+              "objective": "Maintenir un accueil cohérent sans exposer inutilement l’histoire de l’enfant.",
+              "exercise": [
+                "Organisez entre adultes concernés le partage des informations nécessaires selon leurs responsabilités.",
+                "Identifiez une personne disponible pour une difficulté pendant la journée.",
+                "Prévoyez comment les essais et les décisions seront transmis au retour."
+              ],
+              "benefit": "Le soutien peut continuer sans que l’enfant doive raconter seul ses besoins ou son diagnostic."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Mme Vidal reçoit le plateau",
+      "ending": "Mme Roux présente Mme Vidal avant la journée d’absence et lui montre la table du fond. Avec Basile, elles dessinent une boîte, une bille puis un cartable pour les étapes de l’atelier. Nora reprend le soir les moments prévus ; si quelque chose change, un adulte le lui dira. Basile garde le dessin sous le couvercle.\n\nLe jour venu, Mme Vidal l’attend à la table convenue. Il lui confie le plateau et vérifie l’arrivée. Lorsqu’un petit support tombe, il se baisse seul pour le chercher et ne sollicite pas davantage son réconfort. L’atelier a néanmoins lieu. Mme Vidal conserve les essais pour Mme Roux : le plan porte désormais trois chemins, mais aucune hauteur n’est encore fixée.",
+      "conclusion": "Préparer un relais ne supprime pas la difficulté à s’appuyer sur un adulte. Cela permet ici de maintenir l’atelier et le projet. Le plateau trouve une destinataire ; les besoins relationnels de Basile continuent à demander de l’attention.",
+      "mirror": [
+        "Nora peut répondre à la question du vestiaire sans promettre que tout sera pareil : « Mme Vidal recevra le plateau à cette table. Si le programme change, un adulte te le dira. » Mme Roux prépare avec sa collègue les informations utiles et leur transmission au retour. Elles n’ont pas besoin de demander à Basile une démonstration de confiance. S’il garde son dessin sans s’en servir devant elles, elles peuvent le laisser dans la boîte plutôt que vérifier s’il a bien appris la journée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Les adultes présentent Mme Vidal et l’accueil du plateau ; Basile confie son montage au lieu convenu et l’essai a lieu.",
+        "next": "Mme Vidal transmet le plateau et le plan des trois chemins à Mme Roux à son retour ; les hauteurs restent à choisir."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "basile-appui-apprendre-mesure-pente",
+      "title": "Savoir ce qu’on veut construire sans parvenir à demander l’appui",
+      "description": "Basile trouve la bonne pente mais ne sait pas mesurer son support. Faute de solliciter Mme Roux, il commence à abandonner son idée.",
+      "context": "Le choix des hauteurs après le retour de Mme Roux",
+      "topics": [
+        "Participation aux apprentissages",
+        "Aide adulte accessible",
+        "Idée conservée"
+      ],
+      "clinical_focus": "Un appui difficile à mobiliser pour apprendre",
+      "diagnostic_stage": "known",
+      "clinical_intro": "Des difficultés à mobiliser l’appui d’un adulte peuvent peser sur les apprentissages, même lorsque l’enfant a une idée claire de ce qu’il souhaite réaliser. Le trouble réactionnel de l’attachement de Basile est déjà connu. Pendant la mesure des supports, le problème apparaît dans sa participation ; cette scène ne permet pas de conclure à un trouble des apprentissages.",
+      "opening": "Mme Roux a retrouvé le plateau à la place indiquée par Mme Vidal. Elle déplie le plan des trois chemins et lit les petites flèches ajoutées pendant son absence. Basile montre la bille qui doit arriver doucement dans la moustache. Il cale la descente sur un morceau de carton plié. Trop haut, la bille sort. Un peu plus bas, elle tourne et touche le couvercle. Toc. « Là », dit-il.\n\nIl faut maintenant mesurer la cale pour en fabriquer une solide. Basile pose la règle contre le côté incliné, la reprend, fait un trait, puis l’efface. À la table voisine, un enfant appelle Mme Roux pour vérifier une découpe. Un autre lui demande de tenir sa règle. Basile regarde sa propre bande de carton. Il la tourne sans rien demander. Lila propose de faire plus haut : sur le chemin rapide, elle veut une arrivée qui ne traîne pas. Il la laisse rapprocher le support de sa pente à lui.\n\nLe temps de construction avance. La trace choisie commence à disparaître sous les coups de gomme. Basile sait toujours où la bille passait bien ; il ne sait pas comment transformer cet endroit en un nombre et une pièce qui tienne. « Fais comme toi », finit-il par dire à Lila. Elle commence à remonter le carton. Mme Roux arrive avec une règle large pour montrer à toute la table comment mesurer une hauteur. Basile remet un doigt sur le petit bout de trait qui reste.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’aide peut manquer à la tâche sans manquer dans la salle",
+          "text": "La possibilité d’utiliser une aide compte dans la participation scolaire. Les difficultés relationnelles d’un enfant peuvent gêner cet accès alors qu’un adulte est disponible et qu’une partie des compétences nécessaires est présente. Dans cette histoire, Basile choisit une pente par essais mais peine à mener la mesure et n’appelle pas Mme Roux. On ne peut pas déduire de cette scène une déficience, un manque de motivation ou un diagnostic supplémentaire. Son enseignante peut adapter l’accès à l’appui et, si le retentissement persiste, le décrire aux soutiens concernés. Elle ne remplace pas une évaluation clinique ou pédagogique par une interprétation de son silence."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la difficulté d’appui pèse-t-elle sur l’apprentissage ?",
+          "points": [
+            {
+              "heading": "Recommencer une étape sans obtenir de repère",
+              "text": "Les essais occupent le temps sans résoudre le point qui bloque. L’activité visible ne dit donc pas à elle seule si l’enfant peut avancer.",
+              "examples": [
+                "Basile pose la règle de plusieurs façons sans trouver la hauteur de la cale.",
+                "Il gomme le trait utile, puis cherche de nouveau l’endroit où il l’avait tracé."
+              ]
+            },
+            {
+              "heading": "Perdre du temps de contribution",
+              "text": "La difficulté à mobiliser l’adulte peut retarder une idée pendant que le groupe poursuit ses décisions.",
+              "examples": [
+                "D’autres élèves obtiennent une vérification tandis que Basile tourne sa bande de carton.",
+                "La table commence à choisir les pièces définitives alors que sa pente n’a pas encore de mesure."
+              ]
+            },
+            {
+              "heading": "Laisser un pair choisir à sa place",
+              "text": "Un renoncement apparent peut masquer un obstacle d’accès à l’aide. Le pair garde toutefois ses préférences et n’a pas à deviner ce besoin.",
+              "examples": [
+                "Basile dit à Lila de faire comme elle alors qu’il vient de trouver le passage souhaité.",
+                "Il laisse remonter son support vers la vitesse du chemin voisin avant de montrer le trait restant."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour rendre un appui scolaire utilisable",
+          "points": [
+            {
+              "heading": "Présenter une étape à la table",
+              "objective": "Pour l’enseignant, rendre l’aide disponible sans isoler l’enfant dans une mise à l’épreuve.",
+              "exercise": [
+                "Repérez l’étape concrète qui bloque plusieurs essais.",
+                "Montrez cette étape au groupe avec du matériel ordinaire.",
+                "Laissez chacun reprendre son projet, avec la possibilité de regarder encore."
+              ],
+              "benefit": "L’enfant peut recevoir un repère sans devoir commencer par expliquer publiquement sa difficulté."
+            },
+            {
+              "heading": "Convenir d’un passage",
+              "objective": "Donner un moment d’appui qui ne dépend pas entièrement d’un appel spontané.",
+              "exercise": [
+                "Annoncez quand vous pourrez venir regarder l’essai.",
+                "Demandez ce qu’il souhaite garder visible jusque-là, sans exiger une réponse longue.",
+                "Revenez comme prévu ou faites annoncer le changement par un adulte identifié."
+              ],
+              "benefit": "L’aide prend une place dans le déroulement de l’activité et peut être anticipée."
+            },
+            {
+              "heading": "Préserver la proposition en attente",
+              "objective": "Permettre à une idée tardive de compter dans le travail collectif.",
+              "exercise": [
+                "Gardez une trace simple de la version proposée.",
+                "Différez si possible la décision qui l’effacerait.",
+                "Au passage convenu, comparez les essais et notez la décision de la table."
+              ],
+              "benefit": "La contribution peut rester disponible pendant la recherche d’appui, sans enlever aux autres élèves leur propre place."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le trait qui n’a pas été gommé",
+      "ending": "Mme Roux propose de revenir après la table des découpes. Elle pose une petite feuille sur le bord pour garder la place du support. Basile repasse son trait au crayon et Lila écrit « lent » à côté. Quand l’enseignante revient, il lui montre la marque. Elle l’aide à tenir la règle droite ; il lit la graduation avec elle et trace la pièce à découper.\n\nIls gardent cette hauteur pour le chemin lent. Sur l’autre, Lila obtient l’essai plus rapide qu’elle souhaitait. Les deux mesures restent sur le plan au lieu de se remplacer. Basile remet la gomme dans la trousse et demande si le troisième chemin pourrait partir avec deux billes en même temps.",
+      "conclusion": "Un obstacle dans la participation peut tenir à l’appui difficile à mobiliser autant qu’à la tâche elle-même. Mme Roux rend ici la mesure accessible et conserve l’idée de Basile. La pente retenue n’établit aucun bilan de ses apprentissages ni de son trouble.",
+      "mirror": [
+        "Mme Roux peut remarquer les traits effacés avant de conclure que Basile a abandonné son idée. « Garde ta marque ; je viens la regarder après cette table » lui donne une suite concrète. Lila peut continuer à défendre son trajet rapide sans devenir celle qui doit l’aider à demander. Si ce type d’obstacle se répète, l’enseignante peut transmettre les observations utiles aux adultes concernés et à l’équipe, afin que les appuis scolaires soient discutés ensemble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Basile conserve sa marque ; l’aide de Mme Roux permet de mesurer la cale lente, tandis que Lila garde une hauteur distincte pour le rapide.",
+        "next": "Les deux hauteurs sont fixées sur le plan. Le troisième trajet reste à construire autour d’un départ possible avec deux billes."
+      }
+    }
+  ]
+}

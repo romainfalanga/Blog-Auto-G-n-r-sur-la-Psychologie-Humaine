@@ -492,6 +492,46 @@
       "sha256": "8c96455d8139f42662f3f5ae191730cf0f53e08da6d84849566ca275afb43f6c",
       "dossier_sha256": "42b8b16a0685f1fa7f74d868f6b6bdafc028bd4be343a7641439341158514da4",
       "review": "Lecture séquentielle puis seconde relecture indépendante contre dossier : catégorie DSM explicitement distinguée des dimensions CIM-11, désir de lien et réserve ordinaire respectés, mécanismes transversaux non présentés comme critères exclusifs. Préférences, désaccord et refus possibles ; aucune exposition imposée. Livre, horaire et salles cohérents. Douze aspects et trame complète de Youssef."
+    },
+    "louise": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "52c99f632da65fec513189c4e1f120e3eecacecec0e238a53c0e8029388d45ad",
+      "dossier_sha256": "2ba6f0b351f8d9c8ba8e25440170fce210ad905f44cc3a9d9a051e90cb81a25f",
+      "design_sha256": "bcfb9e1edb478d682630d77267f3c93038efa711543dc141916c3eb982bdc2f2",
+      "independent_review_sha256": "0f5957cab728d19adffeaba7cab018e56954b017a8501ac10b15693804c37b33",
+      "review": "Relecture indépendante des douze épisodes : énergie, plaisir et ralentissement distingués ; facture et boîte suivies ; échange médical effectif au désespoir puis réévaluation ; confidence choisie et participation finale sans pronostic de guérison. Portée anglaise de NICE explicitée."
+    },
+    "constance": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "ca2e8d0eb85e94b0720c598a68eb6143f42955de8e6c2f298a3b58352a2a374e",
+      "dossier_sha256": "b7ccbaf0fa02bce3cedf49448c222df5b04bdea0432d106f6ce90ad56e5412e5",
+      "design_sha256": "a9dee0417d0da2040a537a0946e5227759414badf611c4d768b4158449c7aad1",
+      "independent_review_sha256": "1269e2ca1bdbc166bb72d1e60f2a12476444ac70cf1e5bebe179fc693de3b50b",
+      "review": "Relecture indépendante des douze épisodes : évaluation 1–2, diagnostic professionnel expliqué en 3, réévaluation réelle en 11 ; symptômes associés situés sans diagnostics ajoutés ; circuit et rangement résolus avant présentation finale ; confidentialité et limites des proches ; NG222 et OMS utilisés selon leur portée."
+    },
+    "mila": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "435dc4bcf0aa207ae933e61de50438f59341169766dc6cc21f3c7d4c63bc946f",
+      "dossier_sha256": "9fca6fd10d5a7f1878eb82d01aac20dabbbef69e7202caf008dcf92a759682d0",
+      "design_sha256": "52ad3a7463a696d1ba22945b6478cdc077bbca01fbcd65e847a9915e9d6bc877",
+      "independent_review_sha256": "17baa94fdfdeea0faa6e1ffc9b121d3315091a9c68a70028c447ae64feaa6b62",
+      "review": "Relecture indépendante des douze épisodes : besoins accessibles sans condition de parole, évaluation et consultation effectives, inquiétude distincte transmise ; colère non assimilée à une opposition ; murmure sans demande de reproduction ni récompense ; jeu achevé avec six objets et suivi maintenu."
+    },
+    "fanny": {
+      "date": "2026-11-07",
+      "status": "editorially_reviewed",
+      "article_format": 2,
+      "sha256": "adff5eaf37c01f91a8f859c3921f0e25616a2b9997b60384130073c682ba4fc3",
+      "dossier_sha256": "478c5c949726e5133ce1e4cbc6bea43c1374186561bb293322884134a171b341",
+      "design_sha256": "9e48382ab72a437ad31a2ed1b1bb5087629eeb82b5044699c049e622cf11f0e8",
+      "independent_review_sha256": "60f9d850732679e4f353e7bf558c4c0d754d0e295cc4f69fbbe13e7b6b5cdfe0",
+      "review": "Relecture indépendante des douze épisodes : préoccupation distincte de la phantosmie, consultations effectivement réalisées, douze aspects et raccords du recueil ; autoattention limitée à une piste individuelle issue du cas publié ; proches sans évaluation olfactive ni exposition imposée ; réussite du projet distincte de l’évolution clinique."
     }
   }
 }

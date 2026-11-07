@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "character_id": "basile",
+  "code": "6B44",
+  "article_format": 2,
+  "bio": "Basile a 7 ans et reconnaît ses billes au bruit qu'elles font dans un tunnel. Accueilli par une famille, cet élève veut fabriquer avec sa classe une piste où chacun puisse jouer à sa façon. Son trouble réactionnel de l'attachement, déjà diagnostiqué par des professionnels, rend difficile le recours au réconfort des adultes, même lorsqu'il en aurait besoin. Nora, son adulte référente, son éducatrice et son équipe pédopsychiatrique cherchent des appuis avec lui. Basile garde ses blagues, ses idées de virages et le droit de préférer construire à côté plutôt que recevoir un câlin.",
+  "profile_topics": [
+    "Trouble réactionnel de l'attachement",
+    "Recours au réconfort",
+    "Réponses émotionnelles",
+    "Relations prévisibles",
+    "Participation scolaire"
+  ],
+  "voice": "Basile parle de pentes, de bruits et de vitesses, avec des phrases brèves mais pas un langage de bébé. Il appelle son raccord tordu le virage moustache et trouve les adultes peu précis quand ils disent bientôt. Il peut être drôle, persévérant ou agacé sans que ces traits deviennent des symptômes. Le narrateur montre une action et, seulement si Basile l'exprime ou si le point de vue le permet, ce qu'il ressent ; il distingue cela des hypothèses de Nora ou de l'enseignante. Aucun commentaire clinique savant ne lui est confié.",
+  "series_goal": "Construire et faire essayer la piste des trois chemins avec la classe : un trajet lent, un trajet rapide et un départ où deux joueurs peuvent coopérer, en laissant aussi la possibilité de regarder. Le projet a de vraies contraintes de carton, de place et de choix collectifs. Il aboutit au douzième épisode à une séance de jeu dont Basile garde une idée à améliorer ; cette réussite n'est ni une preuve d'attachement ni un test de guérison.",
+  "continuity_rules": [
+    "Basile reste un élève de 7 ans accueilli par une famille. Son diagnostic de Trouble réactionnel de l'attachement est établi avant la série par une équipe spécialisée ; diagnostic_stage vaut known dans les douze épisodes. Ne pas recréer de découverte diagnostique.",
+    "Les données précoces nécessaires à l'évaluation appartiennent à son dossier clinique antérieur, non détaillé ici. Ne pas inventer de maltraitance, d'institution, de pertes, d'âge de placement ou de souvenirs explicatifs ; ne pas déduire le diagnostic du placement, du retrait ou d'un refus de toucher.",
+    "Nora reste son adulte référente au domicile ; Julien est l'autre adulte de la famille accueillante. Samira est son éducatrice, Mme Roux son enseignante et la docteure Perrin est liée à son équipe pédopsychiatrique. Leur présence et leurs relais sont annoncés sans promettre une disponibilité absolue.",
+    "Lila est une camarade qui aime aller vite et peut contredire Basile, préférer un autre trajet ou quitter un essai. Elle ne devient ni petite thérapeute ni preuve que la relation aux adultes est désormais facile.",
+    "La boîte bleue, le prototype plié, le virage moustache, le plan des trois chemins et les deux départs circulent dans l'ordre. Le projet se déroule sur plusieurs semaines et chaque épisode reprend la décision matérielle du précédent.",
+    "Aucun câlin, regard soutenu, récit de son histoire ou remerciement n'est exigé. Un geste affectueux demeure un choix ; l'aide, les besoins et la participation ne sont jamais conditionnés à son acceptation. Les adultes assurent néanmoins la protection ordinaire et expliquent les gestes nécessaires.",
+    "Aucune thérapie d'attachement coercitive, contention présentée comme soin, privation, épreuve de confiance ou réparation par l'amour. Les aides du quotidien ne sont pas des traitements. Les options cliniques se discutent avec l'équipe, les responsables de Basile et son assentiment recherché.",
+    "Les difficultés de réconfort persistent à des degrés variables ; elles ne remplissent pas chaque scène et n'expliquent pas tous ses goûts ou conflits. Un rire avec Lila, un jeu réussi ou un refus de câlin ne prouvent ni guérison ni aggravation.",
+    "Les échanges utiles au soutien sont organisés par les adultes selon leurs responsabilités ; Basile n'a pas à porter seul le secret médical ou à expliquer son placement à sa classe. Le panneau public ne décrit que le jeu.",
+    "Un problème récent est apprécié pour lui-même, en lien avec la santé physique et le contexte. Le mal de ventre répété de l'épisode 11 reçoit un relais professionnel explicite ; aucune cause n'est attribuée au 6B44 sans évaluation.",
+    "Les conseils aux proches partent du geste visible et donnent une réponse possible sans les transformer en soignants. Ils gardent la possibilité de demander de l'aide ou de passer un relais préparé ; Basile ne prend pas soin de leur découragement."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "focus": "Chercher peu de réconfort",
+      "scene": "À la maison, le premier tunnel s'affaisse juste avant que Basile range son prototype pour l'école. Il serre les morceaux et s'assied derrière la table sans appeler Nora, qui se trouve dans la pièce. Le départ rapide dont il était fier a disparu et ses doigts continuent à vouloir tenir tout le carton à la fois.",
+      "development": "Montrer le contraste entre détresse et faible recours spontané au réconfort, sans lire une indépendance choisie ou une absence de besoin dans le silence. Trois manifestations à développer dans la situation : se mettre à l'écart avec les débris, ne pas appeler malgré l'adulte disponible, ne laisser aucune place à une réparation partagée au début. Trois appuis du quotidien : Nora signale qu'elle est disponible sans attendre une demande ; elle assure une présence et les besoins ordinaires sans exiger de mots ; elle propose de préserver les morceaux jusqu'à ce que Basile décide quoi en faire. Le diagnostic connu est brièvement attribué à l'équipe antérieure, sans reconstruction des critères ou du passé.",
+      "ending": "Basile ne vient pas chercher Nora et ne paraît pas soulagé ; il accepte pourtant que les morceaux restent dans la boîte bleue plutôt que dans la poubelle. Nora respecte la distance et convient avec lui de reprendre le rangement après le repas.",
+      "next": "Le prototype cassé est conservé et sera regardé le lendemain avant de partir à l'école. La boîte bleue transporte une possibilité de reprise, pas une promesse de rapprochement.",
+      "source_refs": ["oms-cddr", "nice-ng26", "oms-mms-6b44"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 2,
+      "focus": "Recevoir difficilement le réconfort offert",
+      "scene": "Le lendemain matin, Nora pose la boîte bleue sur la table et propose de rester avec Basile. Elle dit qu'un tunnel cassé peut faire de la peine. Il tourne la boîte, répond seulement que le ruban ne collait pas et reste tendu lorsque sa chaise approche ; une offre bienveillante ne devient pas aussitôt une consolation.",
+      "development": "Distinguer la réponse limitée au réconfort offert de la faible demande montrée au premier épisode. Trois manifestations : ne pas s'appuyer immédiatement sur la parole consolante, se raidir lorsque l'adulte se rapproche, revenir au défaut du ruban plutôt qu'à un échange apaisant. Ne pas en tirer un rejet de Nora ou une incapacité d'aimer. Trois appuis : annoncer où Nora s'assoit et laisser Basile choisir une distance ; offrir une activité côte à côte sans la présenter comme thérapie ; demander l'appui habituel de Samira si les adultes peinent à ajuster leur présence. Ne pas multiplier les offres jusqu'à obtenir une réponse.",
+      "ending": "Nora éloigne sa chaise et découpe son propre carton. Basile reste silencieux puis demande la paire de ciseaux pour transformer le tunnel en deux petites descentes ; sa tension n'a pas disparu et Nora ne lui demande pas s'il se sent enfin mieux.",
+      "next": "Les deux descentes remplacent le tunnel cassé. Basile emporte la boîte bleue en classe, où Mme Roux propose un premier essai collectif sans démonstration d'affection attendue.",
+      "source_refs": ["oms-cddr", "aacap-non-coercition", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 3,
+      "focus": "Un plaisir peu visible aux adultes",
+      "scene": "En classe, une bille franchit pour la première fois les deux descentes. Mme Roux s'enthousiasme et attend le sourire de Basile ; il fixe l'arrivée et dit que le bruit est bon. Plus tard, avec Lila, il imite discrètement le petit toc final. Son plaisir pour la piste risque d'être oublié si l'adulte ne regarde que sa réaction à elle.",
+      "development": "Aborder l'affect positif limité et la réactivité émotionnelle, en séparant ce qui est observé de ce que l'enfant éprouve. Trois points : réponse sobre à l'adulte enthousiaste, attention portée au son plutôt qu'à la célébration, réaction différente dans un autre échange sans valeur de contradiction diagnostique. Trois appuis : décrire le résultat sans exiger sourire ou merci ; prendre au sérieux le commentaire concret de Basile ; proposer un choix de construction qui ne dépend pas d'une joie démonstrative. Ne pas compter les sourires ou faire du rire avec Lila une preuve de rémission.",
+      "ending": "Mme Roux note le toc final sur le plan parce que Basile souhaite le conserver. Il dessine un virage tordu, que Lila baptise moustache, et décide qu'il sera réservé au chemin lent.",
+      "next": "Le virage moustache devient un choix commun. Deux vitesses doivent maintenant cohabiter sur le plan ; le matériel rentre à la maison pour un essai de raccord.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 4,
+      "focus": "Irritation dans un échange sans menace",
+      "scene": "À la maison, Julien propose de tenir le virage moustache pendant que Basile colle un raccord. L'offre est ordinaire, mais Basile repousse le carton et s'écrie qu'il n'a rien demandé. Le pot de colle reste fermé ; Julien se sent injustement pris à partie, alors que Basile ne sait pas expliquer ce qui l'a irrité.",
+      "development": "Montrer une irritabilité possible dans une interaction non menaçante, sans inventer une cause cachée ni faire de toute colère un symptôme. Trois manifestations : montée rapide de l'irritation, offre d'aide vécue comme difficile à recevoir, interruption de l'activité désirée. Trois appuis : Julien baisse la tension de l'échange sans exiger une explication ; il maintient une limite simple pour le matériel tout en laissant une pause ; Nora et lui reprennent avec Samira ce qui les aide à répondre de façon cohérente. Aucun adulte ne provoque la réaction pour l'analyser et Basile ne doit pas rassurer Julien.",
+      "ending": "Julien annonce qu'il laisse le carton sur le plateau et s'occupe du repas. Plus tard, Basile replace seul le raccord, puis demande que le plateau soit porté à deux ; cette aide matérielle ne résout pas la difficulté émotionnelle.",
+      "next": "Le virage tient sur un plateau transportable. Mme Roux prévient cependant qu'elle sera absente le lendemain de l'atelier ; le relais doit être expliqué avant le retour de la boîte.",
+      "source_refs": ["oms-cddr", "nice-ng26", "aacap-non-coercition"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 5,
+      "focus": "Stabilité des appuis et relais annoncés",
+      "scene": "Basile découvre le message sur l'absence de Mme Roux et garde le plateau dans son cartable. Il connaît la salle mais ne sait plus à quel adulte laisser le matériel ni qui restera pendant l'essai. Son projet se trouve suspendu à un relais que les adultes n'avaient d'abord décrit que par le mot remplaçante.",
+      "development": "L'aspect est la continuité concrète de l'environnement relationnel, un appui recommandé plutôt qu'un nouveau symptôme attribué au diagnostic. Trois effets à montrer : matériel retenu faute de destinataire clair, difficulté à utiliser une aide inconnue, activité retardée malgré un lieu familier. Trois appuis : Mme Roux présente à l'avance Mme Vidal et ses tâches ; Nora reprend avec Basile les horaires et le retour prévu sans promesse absolue ; les deux enseignantes partagent seulement les adaptations utiles et identifient un relais disponible. Un dessin de l'emploi du temps est une aide choisie, pas un traitement validé.",
+      "ending": "Mme Vidal accueille le plateau à l'endroit convenu et respecte le déroulement annoncé. Basile le pose, vérifie l'arrivée de la bille et ne cherche pas davantage son réconfort lorsqu'un morceau tombe ; le relais permet néanmoins de garder l'atelier ouvert.",
+      "next": "Mme Vidal transmet les essais et le plateau à Mme Roux à son retour. Les trois chemins sont dessinés ; il reste à choisir les hauteurs et Basile devra pouvoir contribuer à une tâche plus difficile.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 6,
+      "focus": "Un appui difficile à mobiliser pour apprendre",
+      "scene": "De retour en classe avec Mme Roux, Basile trouve une bonne pente mais ne sait pas mesurer le support qui doit la garder. Les autres groupes ont déjà sollicité l'enseignante ; lui efface ses traits et laisse Lila décider de la hauteur. Son idée risque d'être perdue alors qu'il sait très bien ce qu'il souhaite obtenir.",
+      "development": "Distinguer compétence dans une tâche et possibilité de s'appuyer sur l'adulte pour la mener, sans poser un trouble des apprentissages. Trois retentissements : essais recommencés sans aide, temps de construction perdu, décision abandonnée à un camarade. Trois appuis : Mme Roux propose une étape de mesure à toute la table sans mise à l'épreuve ; elle convient avec Basile d'un moment où regarder son essai ; elle conserve une trace de sa proposition pour qu'une réponse tardive reste utile au groupe. La difficulté scolaire appelle coordination avec ses soutiens si elle persiste, pas un diagnostic par l'enseignante.",
+      "ending": "Lors du passage convenu, Basile montre la trace qu'il n'avait pas effacée. Mme Roux aide à mesurer le support ; le groupe garde sa pente et Lila obtient un essai plus rapide sur l'autre chemin.",
+      "next": "Les deux hauteurs sont fixées sur le plan. Basile et Lila peuvent maintenant comparer leurs vitesses et inventer le départ à deux, sans que l'une de leurs préférences annule l'autre.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 7,
+      "focus": "Les pairs gardent une relation propre",
+      "scene": "Basile et Lila essaient deux billes au même départ. Il veut recommencer le lent virage moustache ; elle trouve qu'on attend trop et réclame une course. Ils inventent une arrivée où les deux billes font toc ensemble, puis se disputent encore sur qui les lâchera. Mme Roux voit leur échange vivant et doit éviter d'en conclure que tout appui adulte est désormais facile.",
+      "development": "Explorer la capacité d'échange réciproque avec un pair et ses limites, sans faire disparaître les difficultés envers les adultes. Trois moments : invention commune, désaccord ordinaire sur les règles, besoin d'un cadre adulte lorsque le tour de jeu reste bloqué. Trois appuis : laisser Lila exprimer ses envies plutôt que l'assigner au soutien de Basile ; rendre la règle du tour accessible à tous ; garder un adulte disponible pour le conflit sans demander aux enfants de se soigner. Les différences relationnelles n'établissent aucun diagnostic différentiel et la scène n'est pas une séance thérapeutique.",
+      "ending": "Lila choisit de construire l'arrivée rapide avec un autre groupe pendant un moment. Basile accepte que le départ à deux reste en attente ; à son retour, ils testent un tour chacun et gardent deux emplacements pour les billes.",
+      "next": "Le départ à deux est terminé et les camarades souhaitent montrer leur travail à Nora. L'accueil de visiteurs doit prévoir les salutations sans en faire une obligation de proximité.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 8,
+      "focus": "Le refus de contact reste un droit",
+      "scene": "Nora vient chercher le plateau après la classe. Une camarade annonce qu'on fera tous un gros câlin pour fêter la piste. Basile dit non et se remet devant le départ à deux ; Lila, elle aussi, préfère montrer une bille. Une célébration pourrait devenir une épreuve d'affection si les adultes laissaient le groupe insister.",
+      "development": "Le sujet est le respect corporel dans un accompagnement non coercitif ; refuser un câlin n'est pas une manifestation diagnostique en soi. Trois risques concrets : un non couvert par la fête, un geste affectueux confondu avec gratitude, une participation conditionnée à la proximité. Trois appuis : Mme Roux arrête l'insistance et rappelle la règle pour tous ; Nora offre un salut, un mot ou une démonstration sans réponse obligatoire ; les adultes distinguent l'assistance nécessaire à la sécurité d'une affection jamais exigée. Aucun entraînement au toucher et aucune proximité progressive prescrite.",
+      "ending": "Basile choisit de faire entendre le toc final à Nora depuis l'autre côté du plateau. Elle regarde sans tendre de nouveau les bras. Le groupe décide que les visiteurs pourront saluer comme ils le souhaitent et regarder avant de jouer.",
+      "next": "La possibilité de regarder devient une règle du futur panneau. Il faut maintenant rédiger ce panneau sans faire de l'histoire de Basile l'explication publique de cette règle.",
+      "source_refs": ["oms-cddr", "aacap-non-coercition", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 9,
+      "focus": "Participer sans exposer son histoire",
+      "scene": "Pendant la rédaction du panneau, un enfant demande pourquoi Basile arrive avec Nora et Samira certains jours. Un adulte propose maladroitement d'expliquer ses difficultés pour que chacun comprenne les règles du jeu. Basile recouvre le dessin de son virage avec sa main ; il voulait présenter sa piste et se retrouve au bord d'une présentation de lui-même.",
+      "development": "Montrer le retentissement de l'étiquetage et l'enjeu de confidentialité, sans confondre silence public et absence de coordination. Trois points : question d'un pair qui déborde le jeu, proposition adulte trop personnelle, retrait de la contribution à l'affiche. Trois appuis : Mme Roux recentre le panneau sur des règles utiles à tous ; les adultes concernés reprennent les modalités d'échange avec les responsables de l'enfant et recherchent son assentiment ; une réponse brève lui est proposée s'il en veut une, avec le droit de laisser un adulte répondre. Aucun récit des origines et aucune règle britannique présentée comme droit français.",
+      "ending": "Mme Roux retire la proposition personnelle et dit simplement que chacun peut regarder avant de jouer. Basile découvre son dessin et choisit de signer le nom du virage, pas une explication sur sa famille.",
+      "next": "Le panneau est terminé avec les trois trajets et les modes de participation. Les informations utiles au soutien restent échangées entre adultes concernés ; l'organisation matérielle de la séance demande encore un relais à la maison.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 10,
+      "focus": "Soutenir les adultes sans charger l'enfant",
+      "scene": "À la maison, Nora reçoit encore peu de réponse quand elle cherche à consoler Basile après un raccord défait. Elle se sent découragée et commence à lui demander s'il voit tout ce qu'elle essaie. Elle s'arrête, prévient Julien qu'elle a besoin d'un relais et garde avec Basile le rendez-vous de Samira déjà prévu ; le plateau attend sur la table.",
+      "development": "L'aspect est le soutien nécessaire aux adultes accueillants, distinct d'une responsabilité affective de l'enfant. Trois effets : découragement devant une réponse limitée, risque d'attendre une preuve de gratitude, fatigue qui fragilise la cohérence des réactions. Trois appuis : Nora formule sa difficulté à un autre adulte hors de la charge de Basile ; un relais annoncé maintient les besoins et les repères ; Samira et l'équipe discutent les besoins de soutien et les options adaptées à l'âge avec les responsables et l'enfant selon sa place. Ne pas imposer une thérapie familiale ou appliquer un programme préscolaire. Le projet reste une activité scolaire.",
+      "ending": "Julien reprend le transport prévu du plateau, comme annoncé à Basile. Nora échange avec Samira à un moment convenu entre adultes et revient au repas sans réclamer de réparation ; Basile choisit seulement où ranger le panneau pour ne pas le plier.",
+      "next": "Le transport et le rangement sont répartis pour la séance. Le lendemain, Basile se plaint à nouveau du ventre avant les essais ; les adultes devront considérer ce changement pour lui-même.",
+      "source_refs": ["oms-cddr", "nice-ng26", "aacap-non-coercition"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 11,
+      "focus": "Un changement mérite sa propre évaluation",
+      "scene": "Avant un essai, Basile pousse la boîte bleue et dit qu'il a encore mal au ventre. Nora avait entendu la même plainte la veille. Mme Roux ne l'interprète pas comme une façon d'éviter la relation ou l'exposition du projet : elle arrête l'activité pour lui et contacte Nora, qui demande un avis à un professionnel de santé.",
+      "development": "Le sujet est le risque d'attribuer tout problème au diagnostic connu et la nécessité d'une évaluation globale. Trois éléments à distinguer : plainte de l'enfant, répétition observée par les adultes, hypothèses qui restent ouvertes. Trois appuis : écouter et assurer les besoins immédiats sans attendre une explication émotionnelle ; transmettre les observations utiles au professionnel et suivre les consignes reçues ; ajuster l'organisation du jeu pendant que la question de santé suit son cours. Aucun diagnostic somatique ou psychiatrique supplémentaire, aucune explication par le stress et aucun conseil médical technique ne sont inventés.",
+      "ending": "Nora obtient un avis professionnel et garde la suite de l'évaluation selon les consignes reçues ; le récit n'en invente pas la conclusion. Mme Roux décale l'essai général et prévoit que le groupe puisse installer la piste si Basile a encore besoin de repos.",
+      "next": "La santé reste suivie séparément. La séance aura lieu avec une organisation permettant l'absence ou une participation brève ; si son état le permet suivant les conseils reçus, Basile choisira le moment où rejoindre la piste.",
+      "source_refs": ["oms-cddr", "nice-ng26"],
+      "diagnostic_stage": "known"
+    },
+    {
+      "number": 12,
+      "focus": "Une évolution sans preuve d'affection exigée",
+      "scene": "Le jour de la séance, les adultes ont vérifié que l'organisation reste compatible avec les conseils de santé reçus. Basile se sent disponible pour un moment de jeu et rejoint la classe près du chemin lent. Lila lance une course sur le rapide ; deux autres enfants choisissent de regarder. Lorsque le virage moustache se décolle, Basile reste d'abord seul avec le morceau, puis le pose à l'endroit convenu pour la réparation.",
+      "development": "Clore le projet en distinguant participation, changement observable et évolution clinique. Trois nuances : une difficulté de réconfort reste présente, un appui concret peut être utilisé sans échange affectif démonstratif, les trois façons de jouer fonctionnent ensemble. Trois appuis : les adultes reconnaissent l'action précise plutôt qu'un supposé progrès d'amour ; ils conservent les repères et le suivi malgré la réussite ; ils discutent les besoins dans la durée sans pronostic tiré de la fête. L'essai roumain et l'OMS permettent d'évoquer des possibilités d'évolution, jamais un délai ou une guérison garantie pour Basile.",
+      "ending": "Le virage réparé revient sur la piste et les trois chemins servent réellement. Basile garde un tour avec Lila, puis s'assied près du plateau ; Nora reste à la distance choisie sans câlin final. Il demande si un tunnel qui fait deux bruits pourrait entrer dans la prochaine version.",
+      "next": "La séance collective a abouti et le matériel est rangé dans la boîte bleue pour être réutilisé. La question de santé et le suivi pédopsychiatrique gardent leurs propres relais. Le prochain tunnel appartient aux envies de Basile, dont la vie continue au-delà de cette décision.",
+      "source_refs": ["oms-cddr", "nice-ng26", "smyke-beip-2012", "aacap-non-coercition"],
+      "diagnostic_stage": "known"
+    }
+  ]
+}

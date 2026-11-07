@@ -539,6 +539,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "constance": {
+    "id": "constance",
+    "name": "Constance",
+    "keywords": [
+      "Trouble anxieux et dépressif mixte",
+      "Pensées répétitives",
+      "Intérêt et plaisir émoussés",
+      "Effort pour continuer",
+      "Évaluation et suivi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "cyril": {
     "id": "cyril",
     "name": "Cyril",
@@ -644,6 +656,18 @@
       "Envie d’arracher",
       "Peur du regard",
       "Soutien choisi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "fanny": {
+    "id": "fanny",
+    "name": "Fanny",
+    "keywords": [
+      "Trouble de perception olfactive",
+      "Préoccupation et attention",
+      "Interprétation des gestes",
+      "Vérification et réassurance",
+      "Participation choisie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -827,6 +851,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "louise": {
+    "id": "louise",
+    "name": "Louise",
+    "keywords": [
+      "Épisode dépressif unique",
+      "Énergie diminuée",
+      "Plaisir émoussé",
+      "Ruminations et dévalorisation",
+      "Participation et suivi"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "maïwenn": {
     "id": "maiwenn",
     "name": "Maïwenn",
@@ -884,6 +920,18 @@
       "Difficultés de régulation émotionnelle",
       "Dévalorisation persistante",
       "Difficulté à se sentir proche"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "mila": {
+    "id": "mila",
+    "name": "Mila",
+    "keywords": [
+      "Mutisme sélectif",
+      "Anxiété de parole",
+      "Communication selon le contexte",
+      "Participation scolaire",
+      "Relations avec les pairs"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

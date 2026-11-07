@@ -24,15 +24,15 @@
     "other_frameworks": "APA pédagogique, RDoC recherche et CIF fonctionnement restent des grilles distinctes."
   },
   "counts": {
-    "articles": 1143,
-    "characters": 96,
-    "clinical_arcs": 63,
-    "clinical_episodes": 756,
+    "articles": 1191,
+    "characters": 100,
+    "clinical_arcs": 67,
+    "clinical_episodes": 804,
     "original_articles_reviewed": 387,
     "icd11_chapter06_codes": 858,
     "icd11_ungrouped_codes": 10,
-    "icd11_primary_arcs": 59,
-    "clinical_cases_pending": 91,
+    "icd11_primary_arcs": 63,
+    "clinical_cases_pending": 87,
     "other_published_arcs": 4,
     "internal_patterns": 161,
     "internal_patterns_indexed": 161
@@ -75,8 +75,7 @@
       "statuses": {
         "editorial_mapping_only": 50,
         "no_standalone_arc_planned": 14,
-        "pending_editorial_case": 2,
-        "published_primary_arc": 5
+        "published_primary_arc": 7
       }
     },
     {
@@ -85,8 +84,7 @@
       "codes": 9,
       "statuses": {
         "no_standalone_arc_planned": 2,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 6
+        "published_primary_arc": 7
       }
     },
     {
@@ -96,8 +94,7 @@
       "statuses": {
         "editorial_mapping_only": 11,
         "no_standalone_arc_planned": 9,
-        "pending_editorial_case": 1,
-        "published_primary_arc": 6
+        "published_primary_arc": 7
       }
     },
     {
@@ -2481,12 +2478,30 @@
       "label": "Épisode dépressif unique",
       "group_id": "BlockL1-6A6",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "louise"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "louise",
+        "name": "Louise",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/louise-concentration-facture-avel",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-desespoir-avenir-retreci",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-devalorisation-retard-repare",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-energie-gestes-familiers",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-indecision-deux-partitions",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-participation-deux-couplets-chaise",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-plaisir-emousse-chanson",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-ralentissement-reponses-gestes",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-retrait-desir-lien",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-ruminations-appel-clos",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-sommeil-reveil-precoce",
+          "posts/comprendre-et-maitriser-ses-emotions/louise-variations-suivi-confidence"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#578635574"
     },
     {
@@ -2808,12 +2823,30 @@
       "label": "Trouble anxieux et dépressif mixte",
       "group_id": "BlockL1-6A6",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "constance"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "constance",
+        "name": "Constance",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/constance-attention-detournee",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-autocritique-decouragement",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-comprendre-tableau-mixte",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-contrainte-reelle-anticipation",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-effort-invisible",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-participer-difficultes-persistantes",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-pensees-sans-solution",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-plaisir-emousse",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-retrait-relations",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-sommeil-fatigue",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-tension-pendant-pause",
+          "posts/comprendre-et-maitriser-ses-emotions/constance-variations-reevaluation"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#314468192"
     },
     {
@@ -3177,12 +3210,30 @@
       "label": "Mutisme sélectif",
       "group_id": "BlockL1-6B0",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "mila"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "mila",
+        "name": "Mila",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/mila-anticipation-affiche-retournee",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-apprentissages-deux-lignes",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-besoins-pause-boite",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-evolution-jeu-acheve",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-figement-carte-bleue",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-inquietude-retard-ines",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-irritabilite-boite-fermee",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-langue-album-couleurs",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-murmure-feutre-orange",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-pairs-cachette-deplacee",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-parole-contextes-soleil-vert",
+          "posts/comprendre-et-maitriser-ses-emotions/mila-suivi-page-soleil"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#167946871"
     },
     {
@@ -3348,12 +3399,30 @@
       "label": "Trouble de perception olfactive",
       "group_id": "BlockL1-6B2",
       "editorial_status": "parcours",
-      "coverage_status": "pending_editorial_case",
+      "coverage_status": "published_primary_arc",
       "reason": "diagnostic_distinct",
       "candidate_ids": [
         "fanny"
       ],
-      "published_primary": null,
+      "published_primary": {
+        "character_id": "fanny",
+        "name": "Fanny",
+        "reviewed_on": "2026-11-07",
+        "articles": [
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-autoattention-echanges-litteraires",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-camouflage-preparation-envahissante",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-evaluation-clinique-trouble-olfactif",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-evitement-proximite-rencontre-choisie",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-gestes-ambigus-interpretes-comme-indices",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-honte-difficulte-a-se-confier",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-preoccupation-odeur-lecture-interrompue",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-projet-reussi-preoccupation-persistante",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-reassurance-repetee-relation-limites",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-recul-variable-detresse-conviction",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-travail-accompli-cout-invisible",
+          "posts/comprendre-et-maitriser-ses-emotions/fanny-verifications-repetees-depart-retarde"
+        ]
+      },
       "reference_url": "https://icd.who.int/browse/2026-01/mms/fr#1119008568"
     },
     {
@@ -12231,34 +12300,6 @@
       "name": "Bérénice",
       "code": "6A41",
       "label": "Catatonie provoquée par des substances ou des médicaments",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "louise",
-      "name": "Louise",
-      "code": "6A70",
-      "label": "Épisode dépressif unique",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "constance",
-      "name": "Constance",
-      "code": "6A73",
-      "label": "Trouble anxieux et dépressif mixte",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "mila",
-      "name": "Mila",
-      "code": "6B06",
-      "label": "Mutisme sélectif",
-      "decision": "À documenter puis choisir entre récit, comparaison et dossier."
-    },
-    {
-      "character_id": "fanny",
-      "name": "Fanny",
-      "code": "6B22",
-      "label": "Trouble de perception olfactive",
       "decision": "À documenter puis choisir entre récit, comparaison et dossier."
     },
     {
