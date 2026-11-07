@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 238,
+  "revision": 242,
   "created_at": "2026-11-07T14:47:42Z",
   "cases": {
     "mathis": {
@@ -2818,7 +2818,7 @@
     "thael": {
       "character_id": "thael",
       "code": "6B45",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -2887,6 +2887,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T18:04:42Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "75375765f015d5f0e0e2422907b49fb0d35c8758cc1d975d481d907eb2a33503",
+          "dossier_sha256": "da175d9963bd9cc2ff48afed16bf8f74d31667769124bb1c493f65eff59d7ac1",
+          "design_sha256": "dec7a8f9af711389fe081c21e320e79cb56db47289fd6d920c92d07199fef782",
+          "independent_review_sha256": "25935d932f4e45c5bac95a60e9297169147faabfd1db35aa59173f9926d29b3b",
+          "review": "Douze épisodes relus indépendamment : désinhibition sociale distincte du tempérament et du TDAH, protection effective, consentement corporel et continuité ; aucune correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-aborder-inconnu-atelier.md": "3dc53e514ca99cd4edf01d3231fd77071f5330c26836e493c25290b752764186",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-limites-conversation-tissus.md": "07917f32e897abb89e9a487dc15777292a4d34c1d0a2209da46a633531d33164",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-proximite-corporelle-demonstration.md": "6679b7b71f22830df1ca95fdd43959c29d57e19e54b2cc8d2e6bec687c258b6d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-retour-regard-referent.md": "c7d81e31bc83e270f020b98622f75df705a092b2a3ef7657e6739f566066ca12",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-suivre-adulte-inconnu.md": "d63ec54865e5f5f2294b0c99cf16f9f342aabadccf6c5ec1c690da31ccbd172a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-lien-selectif-reparation.md": "17b9a1ac36ca62e211b7f2e2cc41ad3ae043e89ed4911a2e532c08f609758b44",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-joie-jeu-desinhibition.md": "01785e380f05f5e2b6fb2a3e032409a09ba2df576040cd51552b8b7173fa5d0d",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-impulsivite-desinhibition-repetition.md": "440eb58748b9f238d57ce64d4109eb93cf480b9cc70880e8325e14054c6baa39",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-etiquette-familiarite-affiche.md": "5482415f80a4b08ef159a1031efba53a44c6b57fa2407cc0d2c41701bbcbd326",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-charge-protection-adultes.md": "a10a9bab938e619f43a469734a653c9bfca4e4f9892405d45e8a367ab7260317",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-progres-variables-nouvelle-salle.md": "4c1cc8b5e5677c3b04c54a732c2a1c4f8ee05fb63838b0f563ec9fd035d81d4e",
+          "content/posts/comprendre-et-maitriser-ses-emotions/thael-public-choisi-cadre-protecteur.md": "d11a3d46e0999ba7a7b4d51d77dd64799b0a8d5783eb25f6acdf105b47570ab5",
+          "content/personnages/thael.md": "42385565a097e3e8f9745246dacd3c3498bc6b621369108cf62d33a3446fb860",
+          "data/article_mirrors/thael.json": "bfca5b2094ce8f8f29d150c97d730d249334250dfaa1c30d2db585982165eecc"
+        },
+        "topics_sha256": "65ede6f0c9d6b06dad2e764cc5a03f1eba197dc5f132dee3e60d785e1aaf3f5d"
       }
     },
     "gaelle": {
@@ -3258,7 +3288,7 @@
     "aubin": {
       "character_id": "aubin",
       "code": "6B84",
-      "stage": "ready_to_publish",
+      "stage": "published",
       "created_at": "2026-11-07T14:47:42Z",
       "active_job": null,
       "owners": {
@@ -3327,6 +3357,36 @@
         "design_sha256": null,
         "dossier_sha256": null,
         "review_sha256": null
+      },
+      "publication": {
+        "verified_at": "2026-11-07T18:04:42Z",
+        "release": {
+          "date": "2026-11-07",
+          "status": "editorially_reviewed",
+          "article_format": 2,
+          "sha256": "67e72e71cb7249b46010f86ccf20dafd3a871ac32529074271a54a514a56d3e5",
+          "dossier_sha256": "e2ec4cc9b8e4c10cbb677a12d2261ade939dbf0af6c5fe148dbbf4959959e100",
+          "design_sha256": "2e603abdda52c4b662f418ea7ed80ca21b202e6917b904735531a2918cb98601",
+          "independent_review_sha256": "39217d5d8c5c59a50e0626c02eebc043b83157109be702e21f046a2de66ded85",
+          "review": "Douze épisodes relus indépendamment : continuité, carences contextualisées, alerte immédiate et reprise conditionnée ; proches dans leur rôle. Rapport accepté sans correction ouverte."
+        },
+        "files": {
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-et-comprehension.md": "3771b78513c277bf018a2aee966c82d622c9aa63be48167d15182609caa15955",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-honte-et-aide-discrete.md": "d7803fdc0556dbd8e4287c3290c35a80a34399bd62cebc85897196775468d895",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-carences-et-bilan.md": "2a334386a1783dade8e4ff66bff3a910dbd477026ec7f42707dc4ad39246fa12",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-materiel-adapte-et-risque.md": "51938a1d4844acb230dd434af5f20f341a1cbafc40c5d22aebe03c458ea4df91",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-envie-pendant-attente.md": "62b3f6cd658ae5fbdf186305787c6ce7b6bc27f98342123aac21fec1d52386a3",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-pause-et-cooperation.md": "55d41721134ae36d3bcf48366e7e9e7581ad0fd50f88b65d3b6ee775f5389407",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-nouvel-environnement.md": "0b12dbc6d9f7fce2664b9837961e3bf83c1f3855a972a37dd1507894d12f3ce5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-recrudescence-sans-faute.md": "c6837743b027796dcb7b9343b72c0d0d4581990acb3709b0dd64351795646a7b",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-signaler-ingestion-possible.md": "329bb6f4d019d12f5941d8aa4476243ccc267842d8eb229de1274efcb0d17da9",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-coordination-apres-alerte.md": "c6e0e4536835ccae0fb0ef0bc15867cf9cd1eb72af42083ef3e5ada68cced6b5",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-autonomie-et-appui.md": "2d76dcc67bc11130addc85ce77b0f6a4fbac875c3772cdddac747fd36772e69a",
+          "content/posts/comprendre-et-maitriser-ses-emotions/aubin-participation-durable.md": "48d62d7f089b88d0c7115755caf9a023dc40bd3dd20f97260123f5ae86701604",
+          "content/personnages/aubin.md": "50542f4b50c2d2d2c67ddf80cd1873e7ac43dd20fb421b9eb9e8276c6cb54a91",
+          "data/article_mirrors/aubin.json": "5b4251c1cb3d9dad519c77f0e1ce9bc36700ebc17b1c3325f0157d7fbc9ae9e8"
+        },
+        "topics_sha256": "c5052739d55884793e9e9795ca36b939dc4cb291fa8d25f503eaaf4334dc5766"
       }
     },
     "nolwenn": {
@@ -29124,5 +29184,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T17:58:41Z"
+  "updated_at": "2026-11-07T18:04:42Z"
 }
