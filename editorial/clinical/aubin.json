@@ -110,6 +110,721 @@
         "choice": "Aubin garde les nuages et demande une phrase courte pour obtenir de l’aide.",
         "next": "Camille vient avant le prochain atelier discuter de cette demande ; le mélange gris perle reste à reprendre."
       }
+    },
+    {
+      "number": 2,
+      "slug": "aubin-honte-et-aide-discrete",
+      "title": "Pica : demander de l’aide sans être exposé devant le groupe",
+      "description": "Les questions publiques font hésiter Aubin à poursuivre le décor. Une aide discrète doit rester compatible avec la sécurité.",
+      "context": "Avant le deuxième atelier",
+      "topics": [
+        "Pica",
+        "Confidentialité",
+        "Honte"
+      ],
+      "clinical_focus": "Honte et confidentialité de l’aide",
+      "clinical_intro": "Recevoir de l’aide pour un pica peut devenir pénible lorsque les questions sont posées devant les autres. La gêne ne signifie pas que l’enfant refuse sa protection. Distinguer les informations nécessaires aux adultes responsables des confidences au groupe permet de chercher une aide discrète, sans promettre un secret incompatible avec les soins.",
+      "opening": "Camille arrive avec quelques minutes d’avance. Aubin attend près du décor, son carnet ouvert sur trois essais de ciel. Il a entouré le gris du milieu. À côté, il a écrit « pas une couverture », pour rappeler à Mme Legrand ce qu’il veut changer. Leur discussion doit servir à trouver la phrase courte demandée après le premier atelier. Il espère qu’elle prendra moins de temps que le choix des costumes.\n\nUn adulte l’aperçoit et demande assez fort s’il va mieux. Un autre ajoute une question sur la dernière séance. Autour du panneau, deux élèves continuent de travailler, mais Aubin a l’impression que la salle entière écoute. Il ferme son carnet. Camille n’a pas encore retiré son manteau. Les questions semblent bienveillantes ; cela ne change rien au fait qu’Aubin n’a pas choisi ce moment, ni ces personnes, pour y répondre.\n\nIl dit « oui » sans savoir ce qu’il vient de confirmer. Puis il demande si Inès pourrait faire tous les nuages. Ce serait plus simple : sans atelier, pas de questions à l’entrée. Mme Legrand remarque le carnet fermé et propose de poursuivre l’échange à l’écart, avec Camille. Aubin les suit en gardant le pouce entre les pages. Il ne veut pas perdre la couleur qu’il a trouvée, même s’il pense maintenant renoncer à la peindre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’intimité fait partie des conditions d’aide",
+          "text": "Le retentissement du pica peut dépasser les conduites alimentaires et affecter la participation sociale. Ici, les questions publiques rendent l’aide embarrassante pour Aubin. Sa réserve ne prouve ni dissimulation ni absence de besoin. Les adultes doivent disposer des éléments nécessaires à sa sécurité, mais leurs échanges peuvent être organisés à l’écart, expliqués à l’enfant et limités à ce qui est utile à chacun."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la gêne transforme-t-elle la demande d’aide ?",
+          "points": [
+            {
+              "heading": "Le carnet se ferme",
+              "text": "Une question publique peut interrompre une participation qui redevenait possible. Ce retentissement appartient à cette situation, pas à tous les enfants ayant un pica.",
+              "examples": [
+                "Aubin cache son échantillon de gris quand on lui demande comment il va.",
+                "Il cesse de parler du ciel pour compter les personnes qui écoutent."
+              ]
+            },
+            {
+              "heading": "Le projet semble menacé",
+              "text": "La honte ressentie peut rendre le retrait plus tentant que la demande d’aide.",
+              "examples": [
+                "Il envisage de laisser les nuages à Inès pour éviter ces échanges.",
+                "Il répond plus brièvement alors qu’il avait préparé plusieurs idées."
+              ]
+            },
+            {
+              "heading": "Les informations ont des destinataires",
+              "text": "La protection demande des échanges utiles entre adultes, sans transformer le groupe en public du suivi.",
+              "examples": [
+                "Camille parle avec l’enseignante à l’écart.",
+                "Les camarades n’ont pas besoin de connaître le contenu de la consultation."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser une aide discrète",
+          "points": [
+            {
+              "heading": "Choisir le signal ensemble",
+              "objective": "Faciliter un appel discret sans demander un récit public.",
+              "exercise": [
+                "Proposer à l’enfant de choisir un mot simple.",
+                "Vérifier que les adultes concernés connaissent sa signification.",
+                "Convenir de la réponse, avec présence adulte dans un espace préparé."
+              ],
+              "benefit": "Le signal peut rendre l’aide plus accessible ; il ne dispense pas de préciser immédiatement un risque médical éventuel."
+            },
+            {
+              "heading": "Définir qui doit savoir",
+              "objective": "Éviter les promesses de secret qui empêcheraient la protection.",
+              "exercise": [
+                "Expliquer quelles informations sont nécessaires à la sécurité.",
+                "Dire à l’enfant à quels adultes elles seront transmises et pourquoi.",
+                "Réserver les autres détails aux échanges appropriés."
+              ],
+              "benefit": "Un partage expliqué peut préserver l’intimité sans cacher aux personnes responsables ce qu’elles doivent connaître."
+            },
+            {
+              "heading": "Rouvrir la conversation sur le projet",
+              "objective": "Laisser une place à ce qui intéresse l’enfant après l’échange de sécurité.",
+              "exercise": [
+                "Demander s’il veut reprendre sa proposition artistique.",
+                "Écouter son choix sans exiger d’abord une confidence.",
+                "Noter la décision de travail que le groupe pourra utiliser."
+              ],
+              "benefit": "L’enfant peut retrouver une parole qui ne porte pas seulement sur son trouble."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Un entracte avant les questions",
+      "ending": "Aubin choisit « entracte ». C’est un mot du théâtre, et il peut le dire sans arrêter toute la salle. Mme Legrand précise qu’elle restera disponible et que les adultes chargés de l’aider le connaîtront. Camille explique que certaines informations de santé devront circuler pour le protéger, mais pas devant ses camarades. Aubin rouvre son carnet. « Celui du milieu, surtout pas le foncé. » La question du bilan déjà réalisé sera reprise au rendez-vous prévu avec sa médecin.",
+      "conclusion": "La discrétion ne consiste pas à supprimer les échanges nécessaires à la sécurité. Elle consiste ici à choisir leur cadre et leurs destinataires. Aubin peut demander un entracte tout en conservant une place d’élève et de créateur dans le groupe.",
+      "mirror": [
+        "Camille peut dire aux adultes : « Parlons-en à l’écart ; Aubin voulait aussi vous montrer une couleur. » Cette phrase protège un cadre sans reprocher leur inquiétude aux autres. À l’enfant, il est possible d’expliquer simplement qui recevra les informations utiles. Inutile de promettre que personne ne saura rien : l’aide discrète doit rester une aide réellement disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Le mot entracte et un échange à l’écart sont convenus ; Aubin reprend son projet.",
+        "next": "Le suivi déjà prévu avec sa médecin permettra de clarifier ce que dit le bilan antérieur."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "aubin-carences-et-bilan",
+      "title": "Pica et carences : pourquoi le bilan reste individuel",
+      "description": "Au suivi, une question sur les repas appelle une réponse nuancée. Le bilan du pica ne se résume pas à une carence supposée.",
+      "context": "Lors du suivi médical prévu",
+      "topics": [
+        "Pica",
+        "Bilan médical",
+        "Carences"
+      ],
+      "clinical_focus": "Carences et bilan individualisé",
+      "clinical_intro": "Une carence peut intervenir dans l’évaluation de conduites d’ingestion non alimentaire, mais le pica ne signifie pas automatiquement manquer d’un nutriment. Le professionnel distingue les situations et leur évolution. Un diagnostic déjà établi n’autorise ni à inventer un résultat biologique ni à remplacer le suivi par une modification des repas.",
+      "opening": "Dans la salle d’attente, Aubin compare le mur au gris de son carnet. Trop jaune. Il le dit à Camille, qui sourit puis relit les questions préparées pour la médecin. Ce rendez-vous était prévu avant la discussion avec Mme Legrand. Le diagnostic de pica et l’évaluation initiale sont déjà derrière eux ; aujourd’hui, il s’agit de poursuivre le suivi et de parler du théâtre.\n\nUne fois assis, Camille demande si changer les repas pourrait faire disparaître tout le problème. Aubin relève la tête. Il n’avait pas compris que son ciel pouvait dépendre de cette question. Il voudrait une réponse courte : pourra-t-il terminer les nuages ? La médecin ne transforme pas la demande en ordonnance improvisée. Elle explique qu’une carence et un pica ne sont pas des mots interchangeables et que le raisonnement dépend de la situation évaluée.\n\nAubin fait glisser son carnet sur ses genoux. Il attend que les adultes finissent de parler des causes pour raconter ce qui le préoccupe. La médecin lui demande ce qui a changé à l’atelier. « On a trouvé un mot. Entracte. » Il raconte ensuite les questions à l’entrée, les camarades tout près et l’envie de laisser tomber le décor. Ce n’est pas le rendez-vous qui lui a donné envie de partir. C’est d’avoir eu l’impression que son suivi devenait une conversation de toute la salle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question à examiner, pas une cause à présumer",
+          "text": "L’évaluation d’une ingestion non alimentaire doit tenir compte des causes possibles et de la situation de la personne. Lorsque les conduites s’expliquent entièrement par une carence, le raisonnement diagnostique diffère de celui d’un pica qui persiste après sa correction. Cela ne permet pas de conclure à partir d’un repas ou d’un récit. Pour Aubin, aucun résultat biologique n’est supposé ; sa médecin reste l’interlocutrice du bilan et de son évolution."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment éviter les raccourcis autour du bilan ?",
+          "points": [
+            {
+              "heading": "La recherche d’une réponse unique",
+              "text": "L’envie de trouver une cause simple est compréhensible, mais elle peut faire oublier le bilan individualisé.",
+              "examples": [
+                "Camille demande si un repas différent réglerait tout.",
+                "Aubin entend une solution annoncée avant de savoir ce que sa médecin en pense."
+              ]
+            },
+            {
+              "heading": "Le diagnostic garde son contexte",
+              "text": "Le diagnostic connu ne permet pas de déduire les résultats d’un examen ou les besoins nutritionnels de la personne.",
+              "examples": [
+                "La médecin reprend les questions sans annoncer une carence dans le récit.",
+                "Elle ne propose pas de tester le diagnostic en changeant simplement le menu."
+              ]
+            },
+            {
+              "heading": "Le vécu complète l’échange",
+              "text": "Parler du quotidien aide à discuter les adaptations, sans se substituer à l’évaluation clinique.",
+              "examples": [
+                "Aubin raconte la fermeture du carnet devant le groupe.",
+                "Il demande comment garder sa place dans le décor pendant le suivi."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer un échange médical utile",
+          "points": [
+            {
+              "heading": "Préparer deux questions distinctes",
+              "objective": "Séparer la question de santé et celle de la participation.",
+              "exercise": [
+                "Noter une interrogation à poser au soignant sur le bilan.",
+                "Ajouter une question concrète sur l’activité souhaitée.",
+                "Laisser le professionnel expliquer ce qui peut être répondu ou doit être réévalué."
+              ],
+              "benefit": "Cette préparation peut rendre le rendez-vous plus utile sans transformer le carnet en outil de diagnostic."
+            },
+            {
+              "heading": "Vérifier une explication entendue",
+              "objective": "Éviter qu’une hypothèse sur les carences devienne une certitude familiale.",
+              "exercise": [
+                "Reprendre la question avec les mots utilisés à la maison.",
+                "Demander au médecin ce qui est établi dans cette situation particulière.",
+                "Conserver ses consignes au lieu d’improviser un complément ou une correction alimentaire."
+              ],
+              "benefit": "Une formulation précise peut limiter les déductions injustifiées ; les décisions cliniques restent professionnelles."
+            },
+            {
+              "heading": "Transmettre les besoins utiles",
+              "objective": "Préparer les adaptations scolaires sans raconter toute la consultation.",
+              "exercise": [
+                "Faire préciser avec le professionnel les informations utiles à l’activité.",
+                "Expliquer à l’enfant ce qui sera partagé et avec qui.",
+                "Organiser avec les adultes concernés la discussion du poste et de l’aide disponible."
+              ],
+              "benefit": "Le lien entre suivi et atelier peut devenir concret sans exposer les détails médicaux au groupe."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une question sur les nuages",
+      "ending": "Aubin demande finalement si Mme Legrand doit connaître tout ce qu’ils viennent de dire. La médecin et Camille reprennent avec lui ce qui sera utile pour organiser sa participation et ce qui appartient à la consultation. Il décide que sa gêne devant les questions publiques doit faire partie de la discussion. Le poste de travail et l’aide disponible seront préparés avec les adultes concernés. Sur le chemin du retour, il laisse le carnet ouvert : le gris perle n’est pas devenu une prescription.",
+      "conclusion": "Les carences ne fournissent pas une explication automatique au pica. Le bilan individualisé permet aux soignants de distinguer les situations, tandis que le récit du quotidien éclaire les besoins d’Aubin. Sa participation se prépare avec les adultes sans remplacer le suivi.",
+      "mirror": [
+        "Camille peut poser sa question sur les repas sans s’accuser d’avoir manqué une solution évidente. Une phrase utile serait : « Qu’est-ce que nous savons pour lui, et qu’est-ce qui reste à discuter ? » Puis laisser Aubin parler des questions publiques. Les proches apportent leurs observations ; ils n’ont pas à déduire une carence, acheter un complément ou prouver une cause à domicile."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Aubin raconte la gêne publique à sa médecin ; le partage scolaire sera limité aux besoins utiles.",
+        "next": "Mme Legrand préparera deux organisations de poste compatibles avec les consignes discutées."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "aubin-materiel-adapte-et-risque",
+      "title": "Pica : un espace adapté ne signifie pas un risque nul",
+      "description": "Choisir un poste de peinture permet de participer. Cela ne rend pas les matériaux consommables ni la protection inutile.",
+      "context": "À la préparation du poste de peinture",
+      "topics": [
+        "Pica",
+        "Prévention",
+        "Matériel adapté"
+      ],
+      "clinical_focus": "Danger et apparence anodine",
+      "clinical_intro": "Préparer un espace pour une personne ayant un pica peut réduire certaines occasions de danger. Cette protection ne rend pas les matériaux consommables et n’efface pas le trouble. Les choix d’aménagement appartiennent aux adultes responsables, en lien avec les consignes professionnelles, tout en laissant à l’enfant des décisions réelles sur son activité.",
+      "opening": "Mme Legrand a gardé deux places possibles pour Aubin. Elles ont été préparées après les échanges utiles avec Camille, sans que l’enseignante reçoive le récit entier de la consultation. Depuis la première, on voit surtout le mur. Depuis la seconde, on aperçoit Inès et le haut du décor. Aubin choisit la seconde avant même qu’on lui demande pourquoi. « Si elle agrandit encore sa montagne, je pourrai protester. »\n\nMme Legrand parle de matériel adapté à leur activité et de ce que les adultes prendront en charge. Aubin regarde le poste, puis le panneau. Il demande si adapté veut dire qu’il ne risque plus rien. La question est sérieuse, malgré le sourire qui suivait sa remarque sur Inès. Il aimerait pouvoir poser le mot sécurité sur la table et ne plus y penser jusqu’au spectacle.\n\nL’enseignante précise que ces matériaux servent à peindre, pas à être consommés. Leur sélection et l’organisation du lieu ne rendent pas tout danger impossible. Elle restera disponible, et certaines opérations seront faites par les adultes. Aubin soupire : cela semble plus compliqué que choisir une couleur. Il ouvre pourtant son carnet des choix pour montrer la place du premier nuage. Le poste doit lui permettre de travailler avec les autres, pas seulement de rester assis quelque part dans la même salle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La prévention porte sur les conditions de l’activité",
+          "text": "Le pica expose à des risques physiques, notamment toxiques ou digestifs, qui ne se lisent pas dans l’apparence familière d’un environnement. Préparer le lieu constitue un appui préventif, distinct du traitement. Ici, les adultes sélectionnent et gèrent le matériel pour son usage artistique. Ils ne promettent pas un risque nul et n’organisent aucun test pour vérifier si Aubin saurait résister."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment distinguer adaptation et absence de danger ?",
+          "points": [
+            {
+              "heading": "Un mot trop rassurant",
+              "text": "Un matériel adapté à une activité n’est pas pour autant destiné à être consommé. Le sens du mot doit être précisé.",
+              "examples": [
+                "Aubin demande si adapté veut dire sans aucun risque.",
+                "Mme Legrand explique que le choix concerne l’usage artistique prévu."
+              ]
+            },
+            {
+              "heading": "Un environnement organisé",
+              "text": "La protection dépend aussi de la préparation et de la disponibilité des adultes, pas seulement de l’attention de l’enfant.",
+              "examples": [
+                "Les deux postes ont été préparés avant son arrivée.",
+                "Certaines opérations restent assurées par les adultes."
+              ]
+            },
+            {
+              "heading": "Un choix qui compte",
+              "text": "L’enfant peut participer aux décisions compatibles avec sa sécurité sans devenir responsable de leur validation.",
+              "examples": [
+                "Aubin choisit la place d’où il voit Inès.",
+                "Il demande que le nuage soit visible depuis leur espace commun."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour clarifier la protection du poste",
+          "points": [
+            {
+              "heading": "Préciser les mots de sécurité",
+              "objective": "Éviter qu’une étiquette rassurante soit comprise comme une garantie générale.",
+              "exercise": [
+                "Demander ce que signifie adapté dans cette activité.",
+                "Faire préciser par l’adulte l’usage autorisé et les limites.",
+                "Rappeler qu’un doute d’ingestion réclame un relais médical, pas une conclusion fondée sur l’apparence."
+              ],
+              "benefit": "Une explication concrète réduit les malentendus sans détailler des objets ou des conduites à reproduire."
+            },
+            {
+              "heading": "Organiser avant l’arrivée",
+              "objective": "Conserver la responsabilité de préparation du côté des adultes.",
+              "exercise": [
+                "Faire préparer l’espace selon les consignes retenues avec les interlocuteurs compétents.",
+                "Identifier l’adulte effectivement disponible pendant la séance.",
+                "Prévoir ce qui se passe si cette disponibilité manque."
+              ],
+              "benefit": "Une organisation anticipée peut limiter les situations à risque ; elle ne garantit pas l’absence de danger et ne traite pas le pica."
+            },
+            {
+              "heading": "Proposer un vrai choix artistique",
+              "objective": "Maintenir une décision personnelle à l’intérieur des conditions préparées.",
+              "exercise": [
+                "Présenter uniquement des options validées pour la séance.",
+                "Laisser l’enfant choisir celle qui sert le mieux son travail.",
+                "Inscrire le choix dans le projet et revoir les difficultés rencontrées ensuite."
+              ],
+              "benefit": "La participation conserve un contenu réel sans imposer à l’enfant de certifier lui-même la sécurité du poste."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le premier contour",
+      "ending": "Aubin retient la place qui donne sur le décor commun. Mme Legrand confirme sa disponibilité et les opérations réservées aux adultes. Il accepte cette répartition, sans prétendre l’apprécier entièrement. Il trace enfin l’emplacement du premier nuage sur le projet. Inès trouve qu’il est trop haut ; il lui répond que le ciel a le droit d’être en haut. Le travail reprend, puis le fond doit sécher. Cette attente, absente de son enthousiasme initial, donnera un autre rythme à la séance.",
+      "conclusion": "Un aménagement adapté soutient une activité sans transformer ses matériaux en produits consommables. Aubin peut choisir sa place et son ciel, tandis que les adultes gardent la préparation et la protection. Le suivi reste nécessaire au-delà du poste de peinture.",
+      "mirror": [
+        "Quand Aubin demande s’il ne risque plus rien, une réponse précise vaut mieux qu’un « ne t’inquiète pas ». Mme Legrand peut dire : « Nous avons préparé ce poste pour peindre, et je reste disponible. » Les proches n’ont pas à lui montrer des dangers pour le convaincre. Ils peuvent reconnaître son choix de place tout en conservant les limites prévues."
+      ],
+      "sources": [
+        "oms-cddr",
+        "thomas-oconnor-2023",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Aubin choisit le poste tourné vers Inès et accepte la répartition des opérations ; il place son premier nuage.",
+        "next": "Pendant le séchage du fond, l’attente va rendre la séance moins facile."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "aubin-envie-pendant-attente",
+      "title": "Pica : comprendre une difficulté qui varie pendant l’attente",
+      "description": "Le fond sèche et la séance devient plus difficile. Observer ce moment aide à préparer la suite sans inventer une cause universelle.",
+      "context": "Pendant le séchage du fond",
+      "topics": [
+        "Pica",
+        "Fluctuations",
+        "Temps d’attente"
+      ],
+      "clinical_focus": "Fluctuations selon les temps d’attente",
+      "clinical_intro": "Les difficultés liées au pica peuvent varier au cours du temps. Repérer les circonstances d’un moment plus difficile peut aider à en parler avec les professionnels, sans prouver qu’un contexte en est la cause. L’attente pèse aujourd’hui sur Aubin ; cela ne fait ni de l’ennui une explication universelle ni de l’occupation un traitement.",
+      "opening": "Le fond doit sécher. Aubin regarde Mme Legrand expliquer cette évidence à un groupe qui voudrait déjà ajouter les arbres. Au début de la séance, il avait une place, une couleur et un contour à défendre. Maintenant, son nuage n’a besoin de rien. Il observe Inès qui compare les tailles sur leur plan commun, puis le panneau qui ne semble pas changer d’une minute à l’autre.\n\nIl n’aime pas cette partie du travail. Il avait imaginé que retrouver une table adaptée suffirait à retrouver l’aisance du début. L’envie prend de nouveau de la place et il dit « entracte » à Mme Legrand. Elle l’accompagne dans l’espace préparé. Il lui explique qu’il était bien tout à l’heure, comme si cela rendait sa demande actuelle moins légitime. Elle ne lui demande pas de choisir quelle version de la séance est la vraie : les deux moments ont existé.\n\nAubin regarde le carnet des choix resté ouvert sur le projet. « Je peux au moins dire où vont les ombres ? » Mme Legrand lui propose de les lui décrire oralement pendant qu’elle note. Il commence par la partie haute. Ce ciel doit rester léger. Il n’a pas besoin d’un discours sur les vertus de la patience ; il voudrait que ce temps compte encore comme du travail avec les autres.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Observer un moment sans en faire une explication totale",
+          "text": "L’évolution du pica peut être variable, avec des difficultés plus ou moins présentes selon les périodes. Observer le contexte ne permet pas d’affirmer que le stress ou l’ennui explique tous les cas. Dans cet atelier, Aubin rapporte que l’attente lui pèse. Cette information sert à discuter l’organisation et le suivi, sans recréer la situation pour vérifier ce qu’il serait capable de supporter."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une fluctuation se repère-t-elle dans la séance ?",
+          "points": [
+            {
+              "heading": "Un changement pendant la séance",
+              "text": "Une activité peut devenir plus difficile à un moment donné sans invalider les moments précédents.",
+              "examples": [
+                "Aubin a participé au début puis demande un entracte pendant le séchage.",
+                "Le temps disponible lui paraît plus long quand il n’a plus de geste artistique prévu."
+              ]
+            },
+            {
+              "heading": "Une observation limitée",
+              "text": "Situer une difficulté aide à en parler, mais ne démontre pas une cause.",
+              "examples": [
+                "Il note que l’attente lui a pesé aujourd’hui.",
+                "Mme Legrand ne conclut pas que tout ennui provoquerait la même envie."
+              ]
+            },
+            {
+              "heading": "Une autre façon de participer",
+              "text": "Une adaptation peut préserver une contribution sans faire disparaître le trouble.",
+              "examples": [
+                "Aubin décrit oralement les ombres depuis l’espace préparé.",
+                "Le panneau avance sur le plan de la composition, même si sa peinture est interrompue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préparer les temps d’attente",
+          "points": [
+            {
+              "heading": "Noter le contexte sans verdict",
+              "objective": "Garder une information utile sans construire un diagnostic personnel.",
+              "exercise": [
+                "Après la mise en sécurité, proposer de nommer le moment difficile.",
+                "Distinguer ce qui a été observé de ce qui reste une hypothèse.",
+                "Partager les changements utiles au suivi avec les adultes concernés."
+              ],
+              "benefit": "Une observation située peut enrichir l’échange professionnel sans assigner une cause à chaque variation."
+            },
+            {
+              "heading": "Prévoir un rôle pendant l’attente",
+              "objective": "Éviter que le seul choix soit peindre ou disparaître du projet.",
+              "exercise": [
+                "Repérer avec l’enfant un temps de transition habituel.",
+                "Proposer une contribution compatible avec l’espace préparé et l’adulte disponible.",
+                "Laisser l’enfant choisir ou refuser cette proposition sans perdre son rôle."
+              ],
+              "benefit": "Une autre tâche peut soutenir sa participation ; elle n’est ni une récompense ni un traitement de l’envie."
+            },
+            {
+              "heading": "Réviser la séance avec les adultes",
+              "objective": "Adapter l’organisation à partir de ce qui s’est passé, sans provoquer de nouvelle difficulté.",
+              "exercise": [
+                "Reprendre brièvement la situation une fois l’enfant disponible.",
+                "Identifier un ajustement de rythme à discuter pour la prochaine séance.",
+                "Conserver les protections et demander conseil si les difficultés changent."
+              ],
+              "benefit": "Cette révision évite de transformer l’atelier en expérience destinée à tester les limites de l’enfant."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Des ombres dictées",
+      "ending": "Aubin dicte à Mme Legrand trois indications pour les ombres. Elle les note comme des décisions de décor, pas comme une mesure de sa conduite. Dans son carnet, il ajoute seulement que l’attente a été difficile aujourd’hui. Aucun tableau de bonnes séances n’est affiché. Quand il relève les yeux, Inès a repris une partie du dessin commun. Elle a cru qu’il ne reviendrait pas à la peinture. Aubin ne comprend pas encore ce déplacement, mais il voit que son nuage a changé de place.",
+      "conclusion": "Une séance comporte des moments différents ; une difficulté pendant l’attente n’annule pas la participation du début. Nommer le contexte et adapter l’organisation peut soutenir le projet, sans attribuer une cause certaine ni remplacer le suivi du pica.",
+      "mirror": [
+        "Mme Legrand peut répondre à « tout à l’heure ça allait » par « et maintenant tu as besoin d’aide, je l’entends ». Elle peut noter les ombres sans compter les minutes comme une performance. Camille pourra recevoir l’observation sur l’attente sans en faire une règle familiale. Il ne s’agit pas d’occuper Aubin à tout prix ou de lui demander de supporter davantage pour voir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Aubin contribue oralement aux ombres et note une difficulté située dans l’attente.",
+        "next": "Inès a interprété son éloignement comme un abandon de la peinture commune et déplacé le nuage."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "aubin-pause-et-cooperation",
+      "title": "Pica : garder sa place dans un travail à deux",
+      "description": "Une pause est prise pour un abandon. Clarifier le travail commun permet de préserver la coopération sans dévoiler tout le suivi.",
+      "context": "Au retour vers le projet commun",
+      "topics": [
+        "Pica",
+        "Coopération",
+        "Place dans le groupe"
+      ],
+      "clinical_focus": "Retentissement sur la coopération",
+      "clinical_intro": "Les interruptions nécessaires autour d’un pica peuvent avoir des conséquences sur le travail avec les autres. Un camarade peut mal comprendre une absence sans connaître le suivi de l’enfant. Clarifier les rôles et les temps communs aide à négocier la participation, sans faire de ce camarade un confident obligé ou un responsable de sécurité.",
+      "opening": "Le nuage est plus bas. Aubin le voit sur le dessin avant qu’Inès commence son explication. Pendant qu’il décrivait les ombres à Mme Legrand, elle a déplacé leur repère pour faire avancer le décor. Elle pensait qu’il avait choisi une autre tâche. Lui pensait qu’une pause laissait sa partie intacte jusqu’à leur prochaine discussion. Aucun des deux n’avait formulé cette règle.\n\n« Si tu fais mon ciel chaque fois que je sors, je sers à quoi ? » demande Aubin. Inès relève la tête, surprise. Elle lui montre la date de la répétition. Ce n’est pas son ciel qu’elle voulait prendre ; c’est le retard qu’elle essayait de réduire. Aubin trouve la nuance peu convaincante quand son nuage descend vers les arbres. Il a déjà eu peur de perdre cette place au premier atelier. Le dessin semble donner raison à cette peur.\n\nMme Legrand les rejoint et leur demande ce qui a changé dans le projet. Elle ne raconte ni la consultation ni le diagnostic pour résoudre leur dispute. Elle rappelle seulement qu’ils peuvent prévoir leurs tâches ensemble et qu’un temps d’absence ne décide pas à lui seul du partage. Aubin pose son carnet à côté du plan. Il veut retrouver son nuage, mais comprend qu’Inès ne pouvait pas deviner toutes les règles qu’il avait gardées dans sa tête.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une conséquence sociale, pas un manque d’intérêt",
+          "text": "Un trouble peut affecter la coopération par les interruptions et les adaptations qu’il nécessite. Cette conséquence ne signifie pas que l’enfant se désintéresse des autres. Aubin veut travailler avec Inès, mais leurs attentes diffèrent sur ce qui peut changer pendant son absence. Le désaccord artistique leur appartient ; le diagnostic n’explique pas chaque préférence et ne remplace pas une discussion ordinaire sur le projet."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment une pause devient-elle un malentendu ?",
+          "points": [
+            {
+              "heading": "Une absence interprétée",
+              "text": "Une interruption liée à un besoin d’aide peut être comprise comme un désengagement par un camarade qui n’en connaît pas la raison.",
+              "examples": [
+                "Inès avance sur le ciel parce qu’elle pense Aubin occupé ailleurs.",
+                "Aubin voit ce déplacement comme la preuve qu’on peut continuer sans lui."
+              ]
+            },
+            {
+              "heading": "Deux intentions différentes",
+              "text": "Le malentendu porte ici sur le travail partagé ; il n’établit ni malveillance ni symptôme supplémentaire.",
+              "examples": [
+                "Inès cherche à éviter un retard.",
+                "Aubin veut conserver la partie du projet qu’il a choisie."
+              ]
+            },
+            {
+              "heading": "Une explication limitée mais utile",
+              "text": "Il est possible de parler de l’organisation sans livrer les détails du suivi.",
+              "examples": [
+                "Aubin peut dire qu’il a parfois besoin de rejoindre un adulte.",
+                "Le calendrier indique les zones à préserver sans afficher son diagnostic."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver la coopération",
+          "points": [
+            {
+              "heading": "Revenir au fait visible",
+              "objective": "Discuter le désaccord sans supposer les intentions du camarade.",
+              "exercise": [
+                "Nommer le changement concret observé sur le projet.",
+                "Demander ce que l’autre cherchait à faire.",
+                "Dire ce que ce changement empêche ou inquiète pour son propre travail."
+              ],
+              "benefit": "Un fait partagé peut ouvrir une négociation plus précise que l’accusation d’avoir voulu prendre la place de l’autre."
+            },
+            {
+              "heading": "Choisir ce que l’on explique",
+              "objective": "Préserver l’intimité sans laisser toute l’organisation dans le flou.",
+              "exercise": [
+                "Proposer une phrase sur le besoin ponctuel d’aide adulte.",
+                "Laisser l’enfant décider s’il souhaite l’utiliser auprès de son camarade.",
+                "Confier aux adultes les informations de sécurité qui leur sont nécessaires."
+              ],
+              "benefit": "Une phrase limitée peut suffire à comprendre une interruption ; le camarade n’a pas à connaître le suivi ni à surveiller."
+            },
+            {
+              "heading": "Rendre le partage visible",
+              "objective": "Maintenir les contributions pendant les interruptions possibles.",
+              "exercise": [
+                "Dessiner les zones de travail de chacun sur le projet.",
+                "Convenir des modifications à discuter avant de les faire.",
+                "Prévoir un prochain temps commun compatible avec les appuis adultes."
+              ],
+              "benefit": "Un calendrier de coopération peut protéger la place de chacun sans garantir que tous les désaccords disparaissent."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La partie haute lui est réservée",
+      "ending": "Aubin propose de noter quand ils travailleront ensemble et ce qui devra attendre leur avis commun. Il dit seulement à Inès qu’il a parfois besoin de sortir avec un adulte. Elle lui réserve la partie haute et demande qu’il lui explique les ombres avant la prochaine séance. Ils ne tombent pas d’accord sur la forme de tous les nuages, mais chacun sait où reprendre. Leur calendrier inclut une visite de la salle du spectacle : il faudra voir ce gris sous les projecteurs.",
+      "conclusion": "Le besoin d’aide peut compliquer la coopération sans supprimer le désir de travailler ensemble. Aubin et Inès clarifient leurs rôles tout en gardant une relation de camarades. La sécurité reste portée par les adultes, pas par leur calendrier artistique.",
+      "mirror": [
+        "Mme Legrand peut demander « qu’aviez-vous prévu chacun ? » avant d’expliquer les intentions à leur place. Inès n’a pas à connaître le diagnostic pour respecter une zone de travail commune. Camille peut aider Aubin à préparer une phrase limitée s’il le souhaite, sans exiger qu’il raconte son suivi pour mériter sa place. Les désaccords sur les nuages peuvent rester des désaccords de décor."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "Aubin explique seulement son besoin de sorties avec un adulte et négocie un calendrier ; Inès lui réserve la partie haute.",
+        "next": "La visite inscrite au calendrier nécessite de préparer une salle encore inconnue du dispositif."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "aubin-nouvel-environnement",
+      "title": "Pica : préparer aussi les lieux que l’on découvre",
+      "description": "La salle de spectacle doit être préparée avant la visite. Les réussites à l’atelier ne remplacent pas la protection dans un nouveau lieu.",
+      "context": "Devant la salle de spectacle",
+      "topics": [
+        "Pica",
+        "Nouvel environnement",
+        "Responsabilité adulte"
+      ],
+      "clinical_focus": "Sécurité dans un nouvel environnement",
+      "clinical_intro": "La prévention des risques liés au pica doit tenir compte des lieux traversés. Une organisation utile dans un atelier ne se transfère pas automatiquement à un autre espace. La préparation d’un nouvel environnement reste une responsabilité adulte ; elle ne demande pas à l’enfant de prouver qu’il sait désormais tout contrôler.",
+      "opening": "La porte de la salle est ouverte, mais Mme Legrand demande à Aubin d’attendre avec elle dans l’espace prévu. Au-delà, il aperçoit déjà le décor déplacé pour la répétition. Le ciel paraît immense. Il n’avait pas compris, sur leur dessin, combien les nuages monteraient au-dessus des acteurs. Inès veut savoir si son grand contour ressemble encore à une montagne. Aubin répond qu’il lui faut les projecteurs pour décider.\n\nLa visite est inscrite dans leur calendrier depuis leur discussion sur le partage du travail. Aubin pensait donc pouvoir entrer directement. L’enseignante lui explique que les adultes doivent achever la préparation du lieu et confirmer qui restera disponible avec lui. Ce qui a été organisé dans l’atelier ne suffit pas à décrire cette salle. Il regarde l’ouverture et demande s’il a fait quelque chose de travers.\n\n« Non. C’est à nous de préparer cette visite », répond Mme Legrand. Elle ne lui propose pas d’essayer seul pour montrer qu’il sait faire attention. Aubin trouve l’attente longue, mais il n’a pas à convaincre quelqu’un qu’il mérite de voir son travail. Il ouvre son carnet pour retrouver la question précise qu’il voulait poser : est-ce que le gris perle restera gris quand les lumières s’allumeront ? À côté, Inès dessine une petite flèche vers sa montagne supposée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La transition demande sa propre préparation",
+          "text": "Une protection environnementale concerne des conditions concrètes, pas une qualité acquise une fois pour toutes par l’enfant. Une petite étude portant sur trois familles avec des troubles neurodéveloppementaux soutient l’intérêt d’une vérification adulte des nouveaux lieux ; elle ne prouve pas un résultat identique pour Aubin ni la disparition des envies. Le principe retenu ici est seulement de préparer la transition, sans reproduire une expérience clinique ou mettre l’enfant à l’épreuve."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment un nouveau lieu change-t-il les besoins de protection ?",
+          "points": [
+            {
+              "heading": "Un lieu ne vaut pas un autre",
+              "text": "La préparation d’un atelier ne garantit pas celle d’une salle où les accès et les activités diffèrent.",
+              "examples": [
+                "Le poste de peinture habituel ne sera pas utilisé pour cette visite.",
+                "Les adultes doivent définir un emplacement et une présence adaptés à la salle."
+              ]
+            },
+            {
+              "heading": "Une attente qui ne juge pas",
+              "text": "Le délai de préparation concerne l’organisation des adultes, pas la valeur des efforts de l’enfant.",
+              "examples": [
+                "Mme Legrand ne demande pas à Aubin de promettre qu’il fera attention.",
+                "Elle explique que la salle doit être prête avant leur entrée."
+              ]
+            },
+            {
+              "heading": "Un objectif conservé",
+              "text": "La prévention peut rester liée à ce que la personne vient accomplir.",
+              "examples": [
+                "Aubin veut observer la couleur sous la lumière du spectacle.",
+                "L’entrée se fait avec cet objectif après la préparation, sans épreuve de résistance."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour organiser une transition accompagnée",
+          "points": [
+            {
+              "heading": "Préparer chaque transition",
+              "objective": "Éviter de supposer qu’un nouvel espace est déjà adapté.",
+              "exercise": [
+                "Identifier à l’avance le prochain lieu avec les responsables.",
+                "Faire vérifier sa préparation selon les besoins et consignes convenus.",
+                "Différer l’accès si la préparation ou la disponibilité adulte manque."
+              ],
+              "benefit": "Cette organisation peut limiter les occasions de risque sans garantir une sécurité absolue ni remplacer un soin."
+            },
+            {
+              "heading": "Annoncer la responsabilité adulte",
+              "objective": "Empêcher que l’enfant vive la préparation comme un examen à réussir.",
+              "exercise": [
+                "Expliquer ce que les adultes doivent encore organiser.",
+                "Écarter toute demande de démonstration ou de promesse de contrôle parfait.",
+                "Donner une information concrète sur la suite possible."
+              ],
+              "benefit": "La personne peut attendre une organisation réelle au lieu de devoir rassurer l’entourage par une performance."
+            },
+            {
+              "heading": "Garder un but de visite précis",
+              "objective": "Préserver la participation dans les conditions préparées.",
+              "exercise": [
+                "Demander ce que l’enfant souhaite vérifier pour son projet.",
+                "Convenir du trajet et de l’accompagnement avec les adultes concernés.",
+                "Noter après la visite la décision artistique qui en découle."
+              ],
+              "benefit": "Le déplacement reste un temps du projet, sans devenir un protocole thérapeutique improvisé."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le gris sous les projecteurs",
+      "ending": "La préparation terminée, Mme Legrand confirme l’accompagnement prévu et fait entrer Aubin avec le groupe. Sous les projecteurs, son nuage semble presque blanc. Il n’est pas satisfait, mais cette fois le problème appartient au décor. Inès lui demande s’il veut modifier la forme ; il répond qu’il faut d’abord revoir l’ombre. La retouche est fixée au lendemain dans les conditions de l’atelier. La visite a rempli son rôle : elle leur a montré une modification nécessaire, pas une preuve de guérison.",
+      "conclusion": "Un nouveau lieu demande une préparation propre, même après plusieurs moments de participation réussie. Aubin peut regarder son ciel lorsque les adultes ont organisé la visite. La protection soutient ce déplacement sans transformer la transition en examen de volonté.",
+      "mirror": [
+        "Devant la porte, Mme Legrand peut préciser : « Ce délai concerne notre préparation, pas ce que tu as fait. » Cette parole donne un sens à l’attente sans promettre un accès immédiat. Camille et les autres adultes peuvent anticiper les lieux suivants avec les responsables. Inès reste disponible pour discuter du gris ; elle n’a pas à inspecter la salle ou à garantir la sécurité d’Aubin."
+      ],
+      "sources": [
+        "oms-cddr",
+        "thomas-oconnor-2023"
+      ],
+      "continuity": {
+        "choice": "La visite se fait après préparation adulte ; Aubin juge son gris trop clair et décide une retouche.",
+        "next": "La retouche prévue le lendemain rencontre une envie plus forte que lors des séances précédentes."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "aubin-recrudescence-sans-faute",
+      "title": "Pica : une envie plus forte n’efface pas les efforts",
+      "description": "La retouche doit attendre. Une difficulté plus forte appelle un ajustement et un relais, sans procès de volonté.",
+      "context": "Le lendemain de la visite du décor",
+      "topics": [
+        "Pica",
+        "Recrudescence",
+        "Découragement"
+      ],
+      "clinical_focus": "Recrudescence sans faute personnelle",
+      "clinical_intro": "Le pica peut évoluer de manière intermittente ou plus continue. Une période plus difficile ne démontre pas que les aides précédentes étaient inutiles ou que l’enfant manque de volonté. Les changements doivent être pris au sérieux, décrits aux adultes responsables et discutés dans le suivi, sans leur attribuer automatiquement une cause comme le trac.",
+      "opening": "Aubin arrive avec une décision précise : il faut assombrir le bas du nuage. La visite de la veille l’a convaincu que le gris perle disparaît sous les projecteurs. Il montre à Mme Legrand la petite flèche ajoutée dans son carnet, puis demande si la retouche pourra être terminée avant la fin de la séance. Inès a gardé libre la partie haute, comme ils l’avaient convenu.\n\nPourtant, il doit s’arrêter avant d’avoir fait ce qu’il voulait. L’envie lui paraît plus forte aujourd’hui. Il dit « entracte » et rejoint l’enseignante dans l’espace préparé, mais cette fois le mot lui semble une mauvaise nouvelle pour tout le monde. Il regarde son calendrier. La visite s’était déroulée comme prévu ; il avait eu une vraie discussion sur la lumière. Pourquoi le lendemain ne ressemble-t-il pas à cette réussite ?\n\n« Alors ça n’a servi à rien », dit-il. Mme Legrand lui demande ce qui est plus difficile maintenant, sans contester qu’il soit déçu. Il répond qu’il pensait pouvoir finir. Elle ne lui demande pas de tenir jusqu’au bout pour sauver la séance. Le décor peut attendre. Elle reste avec lui et prévient Camille de ce changement, en décrivant les faits utiles. Aubin entend sa propre phrase revenir autrement : non pas tous ses efforts annulés, mais une difficulté plus forte à prendre en compte aujourd’hui.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évolution ne se réduit pas à une ligne de progrès",
+          "text": "Une variation de l’intensité ou de la présence des difficultés est compatible avec le pica et mérite d’être examinée dans son contexte. Elle ne constitue pas une mesure de volonté. Le stress peut accompagner certaines fluctuations sans être leur explication universelle. Dans cette scène, le report du décor répond à une contrainte concrète ; le changement décrit par Aubin doit aussi être transmis pour adapter le suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le découragement accompagne-t-il une recrudescence ?",
+          "points": [
+            {
+              "heading": "Une comparaison défavorable",
+              "text": "Un moment plus difficile peut pousser l’enfant à effacer mentalement tout ce qui a précédé.",
+              "examples": [
+                "Aubin dit que les efforts n’ont servi à rien.",
+                "Il compare cette interruption à la visite où il avait pu regarder le décor."
+              ]
+            },
+            {
+              "heading": "Un changement à transmettre",
+              "text": "La variation est une information pour l’accompagnement, pas une faute à punir.",
+              "examples": [
+                "Mme Legrand note que l’envie a été décrite comme plus forte.",
+                "Elle transmet à Camille l’interruption de la retouche et les appuis utilisés."
+              ]
+            },
+            {
+              "heading": "Une cause laissée ouverte",
+              "text": "La proximité du spectacle ne suffit pas à expliquer une aggravation.",
+              "examples": [
+                "Aubin peut parler de son souci pour la couleur sans être réduit au trac.",
+                "Les adultes ne concluent pas que la pression du décor est l’unique cause."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour répondre à un moment plus difficile",
+          "points": [
+            {
+              "heading": "Séparer le constat du jugement",
+              "objective": "Nommer ce qui change sans mesurer la valeur de l’enfant.",
+              "exercise": [
+                "Reprendre son expression du jour, comme plus difficile ou plus fort.",
+                "Distinguer ce constat de la phrase tout est raté.",
+                "Conserver l’aide et la protection nécessaires maintenant."
+              ],
+              "benefit": "Cette distinction peut rendre une variation dicible sans demander à l’enfant de nier son découragement."
+            },
+            {
+              "heading": "Reporter la tâche, pas la protection",
+              "objective": "Adapter le projet sans en faire une récompense pour le contrôle des envies.",
+              "exercise": [
+                "Identifier ce qui peut attendre dans le calendrier artistique.",
+                "Annoncer le report et maintenir la contribution prévue.",
+                "Discuter la reprise selon les besoins et les consignes professionnelles."
+              ],
+              "benefit": "Le délai peut réduire une contrainte pratique ; il ne constitue pas un traitement et ne prouve pas l’origine de la difficulté."
+            },
+            {
+              "heading": "Transmettre un changement utile",
+              "objective": "Permettre aux adultes et aux soignants d’ajuster le suivi.",
+              "exercise": [
+                "Indiquer les faits observés et les mots de l’enfant.",
+                "Dire quelle réponse a été apportée dans la séance.",
+                "Demander un avis adapté si la difficulté augmente, en signalant immédiatement tout doute d’ingestion."
+              ],
+              "benefit": "Le relais s’appuie sur des éléments concrets plutôt que sur une accusation ou une explication inventée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La retouche change de date",
+      "ending": "Mme Legrand reporte la retouche et confirme que les nuages restent confiés à Aubin. Inès reçoit seulement la nouvelle organisation du travail. Aubin décide qu’il décrira lui-même à Camille ce qui lui a semblé plus difficile, même si l’enseignante a déjà transmis les faits. Il ne trouve pas cela réjouissant. Dans le carnet, il déplace la date plutôt que de barrer le ciel. Chez lui, cette conversation devra aussi laisser une place à une incertitude qu’il n’a pas encore formulée.",
+      "conclusion": "Une recrudescence demande une réponse adaptée, pas l’effacement des efforts ni une épreuve de volonté. Aubin reporte la retouche et décide de parler du changement. Le projet conserve sa place, tandis que les adultes assurent la protection et le relais.",
+      "mirror": [
+        "À « ça n’a servi à rien », Camille peut répondre : « Tu as pu participer à plusieurs moments, et aujourd’hui c’était plus difficile. Raconte-moi ce que tu veux que je sache. » Il n’est pas nécessaire de persuader immédiatement Aubin qu’il progresse. L’adulte peut accueillir sa déception, prendre en compte le changement et ne pas transformer la date du spectacle en obligation de contrôler ses envies."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nhft-pica"
+      ],
+      "continuity": {
+        "choice": "La retouche est reportée et Aubin choisit de décrire le changement à Camille.",
+        "next": "À la maison, Aubin exprime également une incertitude sur une ingestion possible, nécessitant un relais immédiat."
+      }
     }
   ]
 }

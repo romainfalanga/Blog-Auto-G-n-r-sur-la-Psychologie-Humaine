@@ -44,6 +44,8 @@ Le rapport indépendant doit être accepté et lié aux SHA256 actuels du dossie
 
 Après intégration, régénérer les introductions, le catalogue d'exemples et l'état de couverture, puis exécuter les vérifications du projet et le rendu Hugo. Publier le code, vérifier le commit réellement prêt chez l'hébergeur, synchroniser le catalogue du service d'accompagnement et ouvrir les nouveaux articles et portraits en ligne.
 
+Après le rendu Hugo et le déploiement, `python3 scripts/check_published_arcs.py ID1 ID2 --report /tmp/publication.json` compare le texte intégral de chaque récit servi (y compris la rubrique des proches) au rendu local. Une page d’erreur, une section absente ou un texte différent fait échouer la commande. Ce contrôle de fidélité ne remplace ni la relecture clinique ni la vérification du catalogue d’Ambre.
+
 Exécuter ensuite seulement `editorial_pipeline.py publish --character ID` et sauvegarder l'état mis à jour. Cette commande contrôle les fichiers intégrés et les empreintes locales ; elle n'interroge pas elle-même l'hébergeur et ne prouve pas un déploiement distant. Le pilote consigne séparément sa vérification en ligne. `status.publication_files_current` est une mesure de fraîcheur des preuves et fichiers locaux, pas une mesure de disponibilité du site.
 
 Les tests CI vérifient le dispositif ; ils ne génèrent aucun article. L'exhaustivité reste mesurée dans `docs/etat-couverture.md` et `data/coverage_status.json`, avec les cas non rédigés explicitement conservés dans la file.

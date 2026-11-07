@@ -111,6 +111,729 @@
         "choice": "Thaël choisit un carton souple pour une bouche fermable ; le visiteur repart seul.",
         "next": "La chaussette et la bouche de carton restent dans une boîte à son prénom. Une intervenante vient apporter des tissus à la séance suivante."
       }
+    },
+    {
+      "number": 2,
+      "slug": "thael-limites-conversation-tissus",
+      "title": "La familiarité verbale et les limites d’une conversation",
+      "description": "Une question intime interrompt le choix des tissus. Thaël peut apprendre ce qui reste privé sans être humilié devant le groupe.",
+      "context": "La visite d’une intervenante venue apporter des tissus",
+      "topics": [
+        "Questions intimes",
+        "Vie privée",
+        "Demande de matériel"
+      ],
+      "clinical_intro": "Une familiarité verbale excessive envers une personne inconnue peut faire partie du trouble de l’engagement social désinhibé. L’enjeu concerne ici le contenu de la conversation, pas seulement la rapidité de l’approche. Thaël pose une question intime à une intervenante. Les adultes posent une limite simple et l’aident à revenir aux tissus.",
+      "opening": "La boîte à son prénom retrouve le même coin de table. Thaël en sort la chaussette et la bouche encore séparée. Il fait claquer le carton entre ses doigts : cela ressemble à une porte minuscule. Aujourd’hui, une intervenante apporte des tissus. Il l’entend avant de la voir, parce que les sacs frottent contre ses jambes. Mireille est assise à proximité et Idriss dégage une place pour les étaler.\n\n« Tu dors avec qui, chez toi ? » demande Thaël dès que la visiteuse pose le premier sac. Elle s’arrête, les doigts autour d’un rouleau. Il poursuit : « On peut aller chez toi chercher le plus grand ? Pour une manche, grande comme ça. » Ses bras s’ouvrent largement. Il n’a encore regardé ni les tissus apportés ni le visage d’Idriss. La visiteuse explique qu’elle garde sa vie chez elle privée et que les morceaux sont ici pour l’atelier.\n\nThaël fronce le nez. Il avait imaginé des piles jusqu’au plafond et un rideau qui ferait tout le bras. Il ne comprend pas pourquoi la question a arrêté les mains. Idriss se rapproche du rouleau, toujours fermé. « On peut lui demander lesquels sont doux, ou lesquels font du bruit. » Thaël touche la rayure de sa chaussette. Il voudrait une manche qui se remarque même quand la bouche ne dit rien. Autour de lui, les autres enfants commencent à choisir ; son morceau, lui, n’existe encore que dans ses gestes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question peut franchir une limite relationnelle",
+          "text": "La familiarité verbale peut porter sur des sujets habituellement réservés à des relations plus proches. Dans le trouble déjà diagnostiqué de Thaël, elle fait partie des difficultés observées envers les inconnus. Sa question ne prouve ni une volonté d’embarrasser ni une intention cachée. Toutes ses curiosités ne deviennent pas pour autant des symptômes : demander comment se fabrique un tissu convient à cette rencontre. L’adulte peut protéger sa vie privée sans faire raconter celle de l’enfant en retour."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les limites de conversation sont-elles débordées ?",
+          "points": [
+            {
+              "heading": "Poser une question intime sans relation préalable",
+              "text": "Le sujet demandé suppose un accès personnel que la visiteuse n’a pas proposé.",
+              "examples": [
+                "Thaël demande avec qui elle dort avant de parler du tissu.",
+                "La visiteuse interrompt son déballage pour préciser ce qui reste privé."
+              ]
+            },
+            {
+              "heading": "Transformer une visite professionnelle en invitation",
+              "text": "Le besoin de matériel glisse vers l’idée d’un moment chez cette personne. L’autorisation n’a pas été donnée.",
+              "examples": [
+                "Thaël propose d’aller choisir les morceaux chez elle.",
+                "Il décrit la manche comme si ce déplacement était déjà prévu."
+              ]
+            },
+            {
+              "heading": "Perdre le fil du besoin initial",
+              "text": "La conversation arrêtée peut empêcher momentanément de demander ce qui était réellement recherché.",
+              "examples": [
+                "Il ne regarde pas les rouleaux disponibles sur la table.",
+                "Il garde les bras écartés pour montrer une taille sans encore choisir un morceau."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour poser une limite sans fermer l’échange",
+          "points": [
+            {
+              "heading": "Répondre brièvement sur la limite",
+              "objective": "Permettre à la visiteuse de garder ses informations personnelles.",
+              "exercise": [
+                "Dites calmement que ce sujet reste privé.",
+                "Précisez ce que vous êtes venue faire dans la salle.",
+                "Laissez Idriss poursuivre l’accueil sans débat public."
+              ],
+              "benefit": "Une réponse courte évite que la limite devienne une humiliation ou une négociation."
+            },
+            {
+              "heading": "Proposer une question liée à l’atelier",
+              "objective": "Donner une autre voie à l’intérêt de Thaël.",
+              "exercise": [
+                "Idriss montre les tissus présents.",
+                "Il propose une question sur leur texture ou leur bruit.",
+                "Il laisse Thaël choisir ses mots et accepte qu’il préfère regarder."
+              ],
+              "benefit": "Le lien peut continuer autour d’un sujet partagé, sans exiger une conversation réussie."
+            },
+            {
+              "heading": "Reprendre une demande concrète",
+              "objective": "Aider à formuler le besoin sans réclamer un accès personnel.",
+              "exercise": [
+                "Mireille reprend avec lui la taille de manche souhaitée.",
+                "Elle propose : « Est-ce qu’un de ces morceaux convient ? »",
+                "Elle laisse la réponse et le choix se faire sur place avec Idriss."
+              ],
+              "benefit": "Cette adaptation soutient l’activité ; les difficultés répétées restent discutées avec l’équipe spécialisée."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le morceau qui change de sens",
+      "ending": "Thaël passe un doigt sur un velours, puis dans l’autre sens. « Celui-là, il grince un peu. C’est lequel qui grince le plus ? » La visiteuse rapproche deux chutes. Il garde la première, plus grande, et annonce que Monsieur Peut-être aura une manche trop longue. Mireille replace le carton dans la boîte. À la prochaine séance, une démonstration de couture permettra de voir comment fixer le tissu. La visiteuse repart sans qu’aucune visite chez elle ait été organisée.",
+      "conclusion": "Une limite de conversation peut rester ferme sans réduire l’enfant à sa question. Thaël a obtenu un matériau en restant dans le cadre de l’atelier. Cela ouvre une étape de fabrication, sans suffire à résoudre la familiarité verbale.",
+      "mirror": [
+        "La visiteuse peut dire : « Je garde cela pour moi. Je peux te montrer les tissus. » Mireille n’a pas à présenter des excuses interminables ni à expliquer le diagnostic devant le groupe. Elle peut reprendre plus tard une demande de matériel avec Thaël, tout en laissant les informations cliniques aux échanges utiles avec les professionnels concernés."
+      ],
+      "clinical_focus": "Déborder les limites de conversation",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Thaël choisit le velours apporté sur place pour une manche trop grande.",
+        "next": "Le tissu choisi doit être fixé. Une personne extérieure assurera une démonstration de couture sous la responsabilité d’Idriss."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "thael-proximite-corporelle-demonstration",
+      "title": "La proximité corporelle avec une personne inconnue",
+      "description": "Thaël se presse contre la couturière pour voir. Une limite corporelle et une place accessible lui permettent de suivre la démonstration.",
+      "context": "La fixation de la grande manche",
+      "topics": [
+        "Espace corporel",
+        "Consentement",
+        "Accès à la démonstration"
+      ],
+      "clinical_intro": "Le trouble de l’engagement social désinhibé peut inclure une familiarité corporelle inhabituelle avec des adultes inconnus. Le besoin de voir ou de participer ne supprime pas les limites de chacun. Pendant une démonstration, Thaël s’appuie sur une couturière. Idriss organise une autre place, en préservant son accès à la fabrication.",
+      "opening": "Le velours déborde de la boîte et balaie le bord de la table. Thaël le pose sur la chaussette pour la troisième fois. Si Idriss le fixe tout en haut, la manche couvrira la bouche ; plus bas, elle traînera comme une petite couverture. Une couturière est venue montrer quelques assemblages. Elle installe son matériel à la place préparée par Idriss, qui garde les outils de couture du côté des adultes.\n\nThaël ne l’a jamais rencontrée. Pourtant, quand elle commence à expliquer le pli, il glisse sa chaise tout contre la sienne et appuie son épaule sur son bras. Il voudrait passer la tête juste devant ses mains. La couturière se décale aussitôt. « Je garde de la place autour de moi. Tu peux regarder d’ici. » Idriss arrive à côté de la table et lui offre une chaise placée en face, où le tissu sera tourné vers lui.\n\nThaël tient encore sa manche contre son ventre. De là où il était, il voyait surtout le dos d’une main ; de là où on lui propose d’aller, il ne sait pas encore ce qu’il verra. « Mais elle va le faire sans moi », dit-il. Idriss attend qu’il soit installé avant de reprendre la démonstration. Mireille reste à portée. La couturière étale le pli sans commencer l’assemblage, et la grande manche demeure libre, avec toute sa longueur inutile qui plaît tellement à Thaël.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Protéger l’espace de chacun tout en laissant participer",
+          "text": "La familiarité corporelle envers des inconnus peut accompagner le trouble de l’engagement social désinhibé. Elle ne donne pas accès au corps d’autrui et n’impose pas davantage à l’enfant de recevoir un contact. Ici, Thaël veut voir la fabrication ; cette intention n’annule pas la gêne de la couturière. Les adultes peuvent établir une limite et adapter la place de démonstration. Ces aménagements de loisir ne sont ni une thérapie de l’attachement ni une occasion d’exiger une proximité affective."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la proximité corporelle devient-elle une difficulté ?",
+          "points": [
+            {
+              "heading": "S’installer dans l’espace de l’autre",
+              "text": "La distance choisie suppose une familiarité qui n’existe pas entre ces deux personnes.",
+              "examples": [
+                "Thaël pousse sa chaise contre celle de la couturière.",
+                "Il prend appui sur son bras pour avancer la tête."
+              ]
+            },
+            {
+              "heading": "Surprendre la personne qui montre",
+              "text": "Le contact modifie la situation pour la visiteuse ; sa limite est recevable sans justification intime.",
+              "examples": [
+                "Elle se décale pour récupérer son espace de mouvement.",
+                "Elle interrompt le pli afin d’indiquer une autre place."
+              ]
+            },
+            {
+              "heading": "Craindre de perdre l’accès à l’activité",
+              "text": "L’enfant peut entendre le déplacement comme une exclusion. Ce vécu mérite une réponse concrète.",
+              "examples": [
+                "Thaël serre le velours au lieu de le poser devant la couturière.",
+                "Il dit qu’elle va faire la manche sans lui."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour garder une place sans imposer le contact",
+          "points": [
+            {
+              "heading": "Dire la limite avec des mots simples",
+              "objective": "Préserver l’espace corporel sans rejeter la personne.",
+              "exercise": [
+                "La couturière dit qu’elle a besoin de place autour de son bras.",
+                "Idriss reprend la consigne calmement si nécessaire.",
+                "Les adultes évitent de commenter Thaël devant les enfants."
+              ],
+              "benefit": "La limite devient compréhensible sans humiliation ni affection obligatoire."
+            },
+            {
+              "heading": "Rendre la démonstration visible",
+              "objective": "Répondre au besoin de voir dans des conditions adaptées.",
+              "exercise": [
+                "Idriss installe une place en face du tissu.",
+                "La couturière tourne le pli vers Thaël avant de reprendre.",
+                "Les adultes conservent la manipulation des outils et vérifient l’installation."
+              ],
+              "benefit": "L’accès à l’activité ne dépend plus du rapprochement corporel ; la sécurité de la couture reste assurée."
+            },
+            {
+              "heading": "Offrir un geste sans contact",
+              "objective": "Permettre un échange qui respecte les préférences de chacun.",
+              "exercise": [
+                "Proposez de saluer de la main ou simplement de parler.",
+                "Laissez Thaël choisir ou ne pas faire de geste.",
+                "Revenez au choix de l’emplacement de la manche sans exiger de câlin ni d’excuse corporelle."
+              ],
+              "benefit": "Une relation courtoise peut exister sans contact imposé ; aucune retenue corporelle n’est utilisée comme soin."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La manche balaie enfin la table",
+      "ending": "Installé en face, Thaël voit le pli entier. Il pose un doigt à distance des outils pour indiquer l’emplacement voulu : assez bas pour que la bouche reste libre. Idriss fixe ensuite la manche et la bouche de carton préparée au premier atelier. Thaël enfile la chaussette et fait tourner son bras. Le velours balaie la table ; Monsieur Peut-être ressemble enfin à quelqu’un. Il faudra encore choisir les couleurs du visage et d’une main dans la grande salle de matériel.",
+      "conclusion": "La limite corporelle et l’accès à la démonstration ont pu être maintenus ensemble. Thaël a participé au choix de la manche sans s’appuyer sur la visiteuse. Cette expérience ne remplace ni la protection adulte ni son suivi spécialisé.",
+      "mirror": [
+        "Vous pouvez dire : « Je veux bien te montrer, et j’ai besoin de cet espace. » Idriss peut alors déplacer le support et attendre que Thaël voie correctement. La couturière n’a pas à supporter un contact qui la gêne pour paraître accueillante. Thaël garde lui aussi le droit de ne pas être touché, et personne ne lui demande un câlin pour réparer l’échange."
+      ],
+      "clinical_focus": "La proximité corporelle avec un inconnu",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Thaël regarde depuis la place accessible et choisit la fixation de la manche ; Idriss fixe aussi la bouche.",
+        "next": "La bouche et la manche sont fixées par l’adulte. Il faut choisir la couleur du visage dans la grande salle de matériel."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "thael-retour-regard-referent",
+      "title": "Se déplacer sans vérifier où reste l’adulte référent",
+      "description": "Dans la salle de matériel, Thaël avance sans regarder où est Mireille. Les repères sont organisés et maintenus par les adultes.",
+      "context": "Le choix des couleurs dans la grande salle",
+      "topics": [
+        "Repérage du référent",
+        "Déplacement accompagné",
+        "Choix de peinture"
+      ],
+      "clinical_intro": "Une faible vérification de la présence de l’adulte référent peut apparaître dans le trouble de l’engagement social désinhibé. L’enfant s’éloigne sans rechercher le regard ou la position de cette personne. Dans la grande salle, Thaël avance vers les peintures. Mireille maintient le contact et l’accompagne, sans attendre qu’il se retrouve seul.",
+      "opening": "Monsieur Peut-être voyage dans sa boîte, la manche repliée trois fois. Idriss a expliqué que les pots de peinture sont rangés dans une autre salle du centre. Thaël voudrait une tête bleue, mais il existe plusieurs bleus, a précisé Zoé, occupée de son côté à dessiner un oiseau. Mireille prend la boîte et accompagne Thaël jusqu’au matériel pendant qu’Idriss reste avec le groupe de l’atelier.\n\nLa grande salle contient des tables plus hautes et des étagères basses chargées de pots. Thaël repère une tache bleue sur un couvercle et avance aussitôt. Il ne se retourne pas vers Mireille. Elle le suit de près et l’appelle ; il continue de commenter les couleurs, déjà adressé à un adulte d’un autre atelier. « Tu crois qu’une main jaune, ça va avec une tête bleue ? » L’homme lève les yeux du papier qu’il range.\n\nMireille arrive à côté de Thaël et pose doucement la boîte sur une table dégagée. Elle lui rappelle qu’ils choisissent ensemble. Thaël cherche maintenant le couvercle qui l’avait attiré. Il voit des pots presque semblables, et sa manche dépasse de la boîte. « C’était celui qui avait une mer dessus », dit-il. Mireille ne le laisse pas chercher seul sa place dans la pièce ; elle lui montre leur table, puis deux peintures que les responsables ont mises à disposition pour leur projet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le repère n’est pas seulement un endroit à mémoriser",
+          "text": "Vérifier peu où se trouve le référent lors d’un déplacement est une manifestation possible du trouble de l’engagement social désinhibé. L’enjeu est ici le maintien du repère relationnel dans l’espace : Thaël avance sans retour de regard vers Mireille. Il ne part pas avec quelqu’un dans cette scène. Une pièce attirante ne suffit pas à expliquer un diagnostic, déjà établi dans son cas. Un point de rendez-vous peut aider l’organisation, mais ne remplace jamais l’adulte qui accompagne effectivement l’enfant."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le repère adulte se perd-il dans le déplacement ?",
+          "points": [
+            {
+              "heading": "Avancer sans retour de regard",
+              "text": "Le mouvement vers le matériel n’inclut pas ici une vérification de la présence de Mireille.",
+              "examples": [
+                "Thaël marche vers le couvercle bleu sans se retourner.",
+                "Il continue à commenter les pots quand elle l’appelle."
+              ]
+            },
+            {
+              "heading": "Adresser la suite à une autre personne",
+              "text": "Le nouvel interlocuteur n’est pas l’adulte prévu pour accompagner cette recherche.",
+              "examples": [
+                "Thaël demande un avis de couleur à un adulte d’un autre atelier.",
+                "Mireille rétablit le contact en venant à côté de lui."
+              ]
+            },
+            {
+              "heading": "Ne plus savoir où reprendre le choix",
+              "text": "Le projet devient moins facile à poursuivre lorsque les repères se brouillent. Cette difficulté pratique n’est pas un critère supplémentaire.",
+              "examples": [
+                "Thaël ne retrouve plus le pot qui avait attiré son regard.",
+                "La boîte posée sur une table lui donne un point concret où reprendre la comparaison."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir un déplacement accompagné",
+          "points": [
+            {
+              "heading": "Nommer la personne responsable",
+              "objective": "Éviter qu’un accompagnement soit seulement supposé.",
+              "exercise": [
+                "Idriss et Mireille conviennent de qui accompagne Thaël.",
+                "Mireille lui dit qu’elle choisit les couleurs avec lui.",
+                "Elle conserve cette responsabilité jusqu’au relais explicite du retour."
+              ],
+              "benefit": "L’organisation ne dépend pas de la capacité de l’enfant à réclamer un adulte."
+            },
+            {
+              "heading": "Effectuer le trajet ensemble",
+              "objective": "Maintenir une présence réelle pendant la recherche.",
+              "exercise": [
+                "L’adulte accompagne le passage dans la salle.",
+                "Il rejoint calmement Thaël si son attention part vers une étagère.",
+                "Il reprend le choix à côté de lui sans organiser de séparation pour tester son retour."
+              ],
+              "benefit": "La proximité utile est maintenue sans transformer la circulation en épreuve."
+            },
+            {
+              "heading": "Montrer une base pour le matériel",
+              "objective": "Rendre la reprise de l’activité plus lisible.",
+              "exercise": [
+                "Choisissez une table dégagée avec les responsables de la salle.",
+                "Posez-y la boîte et montrez où comparer les deux pots.",
+                "Accompagnez aussi le retour vers cette table, même si le repère a été annoncé."
+              ],
+              "benefit": "Un endroit stable peut simplifier la tâche ; son oubli ne réduit jamais la protection offerte."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Le bleu revient avec eux",
+      "ending": "Mireille ouvre la boîte sur la table. Thaël rapproche les deux bleus de la chaussette et retient celui qu’il trouve « moins nuit ». Ils rapportent le pot ensemble ; Idriss reprend l’atelier à leur arrivée. Thaël peint le visage avec lui et choisit le jaune pour une main de carton préparée à la table. Les pièces restent à sécher. La prochaine fois, un intervenant musique apportera des idées de sons pour les marionnettes.",
+      "conclusion": "Le déplacement montre une faible vérification du référent, sans départ avec un inconnu. Mireille maintient le lien spatial au lieu d’attendre une erreur. Le choix de peinture avance grâce à cet accompagnement, qui demeure nécessaire après le retour.",
+      "mirror": [
+        "Mireille peut dire : « Je viens avec toi regarder les deux pots. Notre boîte est sur cette table. » Elle n’a pas besoin de demander : « Tu as vu comme tu m’avais oubliée ? » Ce reproche ferait du repérage un enjeu affectif. Si la salle rend l’accompagnement difficile, les adultes changent l’organisation et en parlent avec l’équipe, sans charger Thaël d’assurer seul sa sécurité."
+      ],
+      "clinical_focus": "Ne pas vérifier le retour au référent",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Thaël choisit le bleu avec Mireille ; ils reviennent ensemble et peignent le visage et une main jaune.",
+        "next": "La peinture sèche à l’atelier. Un intervenant musique est attendu pour proposer des sons aux marionnettes."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "thael-suivre-adulte-inconnu",
+      "title": "Accepter de partir avec un adulte inconnu",
+      "description": "À l’annonce d’un tambour dans le couloir, Thaël se lève pour suivre l’intervenant. Idriss intervient et organise la suite.",
+      "context": "La recherche d’une voix pour Monsieur Peut-être",
+      "topics": [
+        "Départ spontané",
+        "Responsabilité adulte",
+        "Choix d’un son"
+      ],
+      "clinical_intro": "La disposition à partir avec un adulte inconnu peut faire partie du trouble de l’engagement social désinhibé. Elle se distingue du fait d’explorer une salle sans regarder son référent. Thaël se lève pour accompagner un intervenant qu’il rencontre à peine. Idriss arrête le départ et organise la récupération du matériel, sans attendre un incident.",
+      "opening": "Le visage bleu a séché. Thaël fait fermer la bouche de carton et agite la main jaune devant Zoé. L’oiseau qu’elle prépare n’a pas encore de voix non plus. Sur la table, l’intervenant musique dispose quelques objets pour chercher des sons. Idriss le présente au groupe ; Mireille garde sa place près de Thaël. Celui-ci n’a jamais vu cet homme auparavant, mais il lui raconte déjà que sa marionnette ne doit surtout pas avoir une voix de bébé.\n\n« Il reste un tambour dans le couloir », dit l’intervenant en regardant Idriss. Thaël repousse immédiatement sa chaise. « Je viens ! » Il tient Monsieur Peut-être par la manche et se met en mouvement vers la porte, sans attendre la réponse de l’animateur. Idriss intervient aussitôt, avant qu’ils quittent la salle. Il rejoint Thaël et précise que les déplacements se décident avec les adultes responsables de l’atelier.\n\nL’intervenant s’arrête lui aussi. Il n’avait pas prévu d’emmener un enfant. Thaël laisse pendre la manche ; le tambour annoncé devient soudain un objet qu’il ne pourra pas aller chercher. « Mais c’est pour sa voix », dit-il, en levant la bouche bleue. Idriss lui répond qu’ils vont bien récupérer le tambour. Il se met d’accord avec Mireille et l’intervenant sur qui reste auprès du groupe. Thaël reste près de Mireille, déçu, tandis qu’elle remet la manche sur la table pour qu’elle ne traîne pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une envie de suivre qui engage la protection",
+          "text": "La disponibilité à partir avec une personne inconnue est une manifestation décrite du trouble de l’engagement social désinhibé. Dans cette scène, Thaël transforme l’annonce d’un objet à récupérer en possibilité de partir avec l’intervenant. Son envie de trouver une voix explique son projet du moment, sans rendre le départ approprié. Les adultes interviennent avant la sortie ; ils n’organisent ni piège ni simulation de danger. Cette observation utile sera transmise au suivi spécialisé, où elle prend place parmi d’autres informations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment l’annonce du matériel devient-elle un départ ?",
+          "points": [
+            {
+              "heading": "Entendre une possibilité comme une autorisation",
+              "text": "L’annonce adressée à Idriss n’est pas une invitation faite à l’enfant. Thaël se comporte pourtant comme si l’accord était donné.",
+              "examples": [
+                "Il dit « Je viens » dès que le tambour est mentionné.",
+                "Il ne demande pas à Idriss comment le matériel sera rapporté."
+              ]
+            },
+            {
+              "heading": "Mettre son corps en mouvement vers la sortie",
+              "text": "Le sujet dépasse la seule conversation familière : un déplacement avec l’inconnu s’amorce.",
+              "examples": [
+                "Thaël repousse sa chaise et prend la marionnette.",
+                "Idriss le rejoint avant qu’il quitte la salle."
+              ]
+            },
+            {
+              "heading": "Éprouver l’arrêt comme un obstacle au projet",
+              "text": "La déception peut être entendue sans revenir sur la protection. Elle ne prouve pas un refus volontaire de comprendre.",
+              "examples": [
+                "La manche retombe quand Idriss arrête le départ.",
+                "Thaël rappelle que le tambour servirait à la voix de sa marionnette."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour reprendre le cadre avant un départ",
+          "points": [
+            {
+              "heading": "Intervenir sans attendre la sortie",
+              "objective": "Assurer immédiatement la protection dont l’adulte est responsable.",
+              "exercise": [
+                "Idriss rejoint Thaël dès que le départ s’amorce.",
+                "Il dit calmement qu’il reste dans la salle avec Mireille.",
+                "Il maintient l’accompagnement pendant que le groupe est réorganisé."
+              ],
+              "benefit": "L’intervention ne dépend pas d’une promesse ou de la bonne réponse de Thaël."
+            },
+            {
+              "heading": "Clarifier les rôles entre adultes",
+              "objective": "Éviter qu’une récupération de matériel produise un relais implicite.",
+              "exercise": [
+                "Idriss convient explicitement avec Mireille de sa présence auprès de Thaël.",
+                "Il vérifie avec l’intervenant le maintien de l’activité du groupe.",
+                "Il récupère lui-même le tambour puis reprend sa place."
+              ],
+              "benefit": "Chacun sait ce qu’il assure ; la présence d’un visiteur ne devient pas une délégation automatique."
+            },
+            {
+              "heading": "Rendre le choix sonore possible sur place",
+              "objective": "Préserver le projet malgré la déception et transmettre le fait utile.",
+              "exercise": [
+                "Proposez les sons une fois le matériel revenu.",
+                "Laissez Thaël écouter ou différer son choix sans marchandage.",
+                "Transmettez factuellement le départ amorcé aux professionnels concernés dans le cadre du suivi."
+              ],
+              "benefit": "Le loisir continue tandis que la question de sécurité reçoit une attention distincte et professionnelle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Une voix de papier froissé",
+      "ending": "Idriss revient avec le tambour. Thaël l’écoute, puis trouve qu’il est trop gros pour une bouche qui dit peut-être. Il choisit le froissement d’un papier manipulé à côté de la marionnette et garde le tambour pour annoncer son entrée. Il boude encore un peu quand Mireille ferme la boîte. Idriss et elle consignent l’observation pour l’équipe spécialisée ; Mireille l’apporte au suivi convenu. Elle rapporte ensuite la boîte à la maison pour qu’ils puissent essayer le son.",
+      "conclusion": "L’intérêt pour un objet peut s’accompagner d’un départ immédiat avec un inconnu chez cet enfant déjà diagnostiqué. Idriss garde la protection effective et rend le projet possible autrement. Le choix d’une voix ne règle pas la vulnérabilité au départ.",
+      "mirror": [
+        "Mireille peut entendre « C’était pour sa voix » et répondre : « Oui, tu voulais le tambour. Les adultes s’occupent d’aller le chercher. » Elle n’a pas à obtenir une déclaration de peur pour que la limite soit valable. Sa propre inquiétude mérite un échange avec l’équipe ; elle ne devient pas une dette que Thaël devrait rembourser en la rassurant."
+      ],
+      "clinical_focus": "Accepter de partir avec un adulte inconnu",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Idriss récupère le tambour après relais explicite ; Thaël choisit le papier froissé pour la voix.",
+        "next": "La voix est choisie et l’incident a été transmis aux adultes concernés. Mireille rapporte la boîte à la maison pour essayer le son."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "thael-lien-selectif-reparation",
+      "title": "Un lien sélectif peut exister malgré la désinhibition",
+      "description": "Quand la bouche se décolle, Thaël cherche Mireille. Cette proximité peut coexister avec sa familiarité envers les inconnus.",
+      "context": "La réparation de la marionnette chez Mireille",
+      "topics": [
+        "Lien sélectif",
+        "Recherche d’aide",
+        "Inquiétude adulte"
+      ],
+      "clinical_intro": "Le trouble de l’engagement social désinhibé n’exclut pas un attachement sélectif à un adulte connu. Une familiarité envers les inconnus ne permet pas de conclure que les liens existants n’ont pas de valeur. Quand sa marionnette se défait, Thaël rejoint Mireille ; leur proximité ne supprime pas les précautions nécessaires à l’atelier.",
+      "opening": "Le papier froisse beaucoup plus fort dans la cuisine que dans l’atelier. Thaël le fait passer près de la bouche bleue de Monsieur Peut-être, pendant que Mireille prépare la table du goûter. Il a posé sa boîte sur une chaise pour garder les mains libres. La grande manche passe dans une assiette vide ; il rit et la retire avant que Mireille ait besoin de le demander.\n\nAu troisième essai, le carton se soulève d’un côté. Thaël ouvre encore la bouche de la marionnette, puis s’arrête : elle reste de travers. « Mireille, elle se dévisse. » Il vient jusqu’à elle en tenant l’objet à deux mains. Mireille se penche pour regarder et pose ce qu’elle faisait. Il se serre un moment près d’elle, sans lâcher le velours, puis lui montre la partie décollée.\n\nIls cherchent de quoi la réparer. Thaël reste debout contre la table. Il regarde Mireille sortir le matériel, puis demande : « T’es encore fâchée pour le tambour ? » Elle ne s’attendait pas à cette question maintenant. Au centre, elle a eu peur quand il s’est levé pour suivre l’intervenant. Elle a déjà partagé ce fait avec les adultes concernés, mais elle sent revenir l’image de la chaise repoussée. Thaël attend avec la bouche cassée dans la main. Il veut savoir s’ils vont toujours retourner à l’atelier, là où Zoé prépare son oiseau.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La familiarité extérieure ne mesure pas la valeur du lien",
+          "text": "Un attachement sélectif peut être présent chez un enfant ayant un trouble de l’engagement social désinhibé. Le recours à une personne familière et les comportements envers des inconnus ne s’annulent donc pas mutuellement. Thaël cherche ici Mireille pour un besoin concret et un moment de proximité. Cette scène n’est pas un test d’attachement, pas plus que le départ amorcé n’était une preuve de manque d’amour. Le diagnostic repose sur l’évaluation spécialisée, et leur relation ne doit pas devenir une épreuve permanente."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment le lien connu apparaît-il dans cette réparation ?",
+          "points": [
+            {
+              "heading": "Chercher cette adulte en particulier",
+              "text": "Thaël s’adresse à une personne avec qui il vit et partage des habitudes, plutôt qu’à un adulte interchangeable.",
+              "examples": [
+                "Il appelle Mireille par son prénom quand la bouche se décolle.",
+                "Il vient lui montrer l’endroit précis qui ne tient plus."
+              ]
+            },
+            {
+              "heading": "Accepter une proximité souhaitée",
+              "text": "Le rapprochement appartient à ce moment et à cet enfant. Il ne doit pas être exigé ou comptabilisé.",
+              "examples": [
+                "Thaël reste un instant serré près de Mireille.",
+                "Il se remet ensuite à côté de la table pour regarder la réparation."
+              ]
+            },
+            {
+              "heading": "Se préoccuper de la réponse de Mireille",
+              "text": "La question sur le tambour montre un enjeu relationnel concret sans permettre de lire toute son expérience intérieure.",
+              "examples": [
+                "Il demande si Mireille est encore fâchée.",
+                "Il veut savoir s’ils retourneront retrouver l’atelier et Zoé."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour soutenir le lien sans en demander la preuve",
+          "points": [
+            {
+              "heading": "Répondre au besoin présent",
+              "objective": "Offrir de l’aide sans faire de la proximité une obligation.",
+              "exercise": [
+                "Mireille regarde la bouche que Thaël lui montre.",
+                "Elle accueille le contact qu’ils souhaitent tous deux, sans le prolonger de force.",
+                "Elle propose de poser l’objet et de préparer la réparation."
+              ],
+              "benefit": "L’aide répond à la situation, sans utiliser un câlin comme certificat de relation réussie."
+            },
+            {
+              "heading": "Dire où se trouve la responsabilité",
+              "objective": "Dissocier la protection de l’amour à prouver.",
+              "exercise": [
+                "Répondez simplement que l’atelier continuera avec les repères prévus.",
+                "Dites que les adultes organisent les déplacements et tiennent à sa sécurité.",
+                "Évitez de demander qu’il promette de ne plus jamais vous faire peur."
+              ],
+              "benefit": "L’enfant n’a pas à assurer le calme de l’adulte pour garder sa place dans le projet."
+            },
+            {
+              "heading": "Confier son inquiétude au bon interlocuteur",
+              "objective": "Permettre à Mireille de recevoir elle aussi un soutien.",
+              "exercise": [
+                "Notez ce qui vous a inquiétée dans la situation du tambour.",
+                "Parlez-en à l’équipe qui accompagne l’accueil, hors de la conversation de réparation.",
+                "Revoyez ensemble les appuis nécessaires sans exiger de réponse affective de Thaël."
+              ],
+              "benefit": "L’inquiétude peut être travaillée entre adultes ; cette aide ne promet pas la disparition immédiate des comportements."
+            }
+          ]
+        }
+      ],
+      "ending_title": "Apprendre à la bouche à dire peut-être",
+      "ending": "« Je tiens à toi. Et oui, on continue l’atelier avec Idriss », répond Mireille. Elle ne demande pas à Thaël de lui rendre la même phrase. Ensemble, ils remettent la bouche en place ; elle assure la fixation pendant qu’il indique où le carton doit se plier. Le temps que cela tienne, il essaie le son du papier à côté. Il veut apprendre à Monsieur Peut-être à dire son propre nom. La boîte repartira à l’atelier avec la bouche réparée et sa voix froissée.",
+      "conclusion": "Le lien avec Mireille garde sa place malgré les comportements envers les inconnus. Réparer un objet et répondre à une inquiétude ne prouve aucune guérison. Le projet peut continuer dans une relation soutenue et un cadre protecteur maintenu.",
+      "mirror": [
+        "Entendre la question sur le tambour peut donner envie à Mireille de raconter toute sa peur. Elle peut commencer par : « On continue l’atelier, et les adultes s’organisent. » Son émotion reste légitime, mais Thaël n’a pas à la faire disparaître. Un échange séparé avec l’équipe lui permet de parler de sa charge sans transformer la réparation de la bouche en examen de leur lien."
+      ],
+      "clinical_focus": "Un lien sélectif peut rester présent",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26",
+        "aacap-non-coercition"
+      ],
+      "continuity": {
+        "choice": "Mireille confirme la poursuite de l’atelier et répare la bouche avec Thaël sans demande de preuve affective.",
+        "next": "La bouche réparée et le son reviennent à l’atelier. Thaël prépare une réplique comique avec Zoé."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "thael-joie-jeu-desinhibition",
+      "title": "Préserver la joie sans la confondre avec le trouble",
+      "description": "Le duo de marionnettes fait rire Thaël et Zoé. Leur plaisir partagé n’a pas à devenir une difficulté à corriger.",
+      "context": "L’invention des répliques avec Zoé",
+      "topics": [
+        "Humour partagé",
+        "Sociabilité",
+        "Observation précise"
+      ],
+      "clinical_intro": "La sociabilité joyeuse ne se confond pas avec le trouble de l’engagement social désinhibé. Le diagnostic concerne des difficultés précises dans les relations avec des inconnus, pas tout plaisir de parler. Thaël et Zoé inventent une scène comique. Leur rire peut être préservé pendant que les adultes maintiennent les règles d’accueil nécessaires.",
+      "opening": "La bouche tient. Thaël l’ouvre deux fois, puis la referme avec un petit claquement de carton. Zoé a terminé le bec de son oiseau et le pose juste à hauteur du visage bleu. « Tu veux venir dans mon arbre ? » demande-t-elle. Monsieur Peut-être répond avec un froissement : « Peut-être. » Thaël essaie de garder son sérieux, mais la manche accroche le bord de la boîte et les deux enfants rient.\n\nZoé recommence avec une question sur un ver de terre. Même réponse. Elle propose alors un bain dans une flaque, puis un voyage jusqu’à la lampe. Thaël veut que toutes les phrases finissent de la même façon. Idriss écoute en rangeant le matériel inutilisé. Mireille se tient à la place convenue ; l’atelier reste animé, mais chacun peut continuer son travail.\n\nUn adulte du centre passe déposer un document. En voyant Thaël rire si fort, il dit à Idriss, à voix basse mais assez près : « Il faudrait peut-être qu’il soit plus réservé, ça arrangerait les choses. » Idriss répond que le jeu avec Zoé peut continuer et que les adultes gardent leur organisation pour les visites. Thaël a entendu le mot réservé. Il arrête un instant la bouche de carton. « Réservé comme une chaise ? » demande-t-il. Zoé fait pencher l’oiseau : elle voudrait surtout savoir s’il peut dire autre chose que peut-être dans leur scène.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le tempérament ne fournit pas une cible à effacer",
+          "text": "Une sociabilité ordinaire, même très expressive, doit être distinguée de la désinhibition sociale clinique. Dans le trouble connu de Thaël, l’approche des adultes inconnus pose des questions précises de limites et de protection. Rire avec une enfant connue autour d’un jeu partagé ne désigne pas la même difficulté. Chercher à rendre Thaël globalement silencieux ou méfiant confondrait ces situations. Inversement, voir un échange heureux ne permet pas de considérer le trouble comme disparu : la protection continue sans étouffer ce plaisir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment la joie se distingue-t-elle de la difficulté clinique ?",
+          "points": [
+            {
+              "heading": "Construire un humour partagé",
+              "text": "Les deux enfants reprennent les propositions de l’autre dans un jeu commun. Ce plaisir a sa valeur propre.",
+              "examples": [
+                "Zoé invente des questions auxquelles la marionnette répond peut-être.",
+                "La manche qui accroche la boîte les fait rire ensemble."
+              ]
+            },
+            {
+              "heading": "Exprimer une préférence artistique",
+              "text": "Thaël peut avoir une idée insistante sans que tout désaccord relève de son diagnostic.",
+              "examples": [
+                "Il voudrait garder la même réponse à chaque question.",
+                "Zoé souhaite que son oiseau possède aussi une réplique qui compte."
+              ]
+            },
+            {
+              "heading": "Subir une généralisation par l’adulte",
+              "text": "Une observation globale sur le caractère risque de remplacer la description des situations qui nécessitent une aide.",
+              "examples": [
+                "Le rire devient, dans la remarque du visiteur, une raison de rendre Thaël réservé.",
+                "Le mot entendu interrompt momentanément son jeu avec la bouche bleue."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour préserver le jeu et préciser les limites",
+          "points": [
+            {
+              "heading": "Décrire le comportement réellement concerné",
+              "objective": "Éviter qu’un diagnostic absorbe toute la personnalité.",
+              "exercise": [
+                "Entre adultes concernés, nommez les situations précises qui nécessitent un accompagnement.",
+                "Distinguez-les de ce qui se passe maintenant entre les deux enfants.",
+                "Gardez les informations de santé hors d’une discussion devant le groupe."
+              ],
+              "benefit": "La réponse peut porter sur la protection utile au lieu de viser tout le tempérament."
+            },
+            {
+              "heading": "Laisser le rire avoir sa place",
+              "objective": "Soutenir une activité ordinaire sans lui donner une fonction thérapeutique.",
+              "exercise": [
+                "Idriss laisse les enfants essayer leurs répliques.",
+                "Il veille aux mêmes conditions de volume et de place que pour le groupe.",
+                "Il leur propose de garder les idées qui plaisent aux deux partenaires."
+              ],
+              "benefit": "Le loisir demeure un espace de création et de désaccord possible, pas une séance de correction de la personnalité."
+            },
+            {
+              "heading": "Rappeler l’organisation aux adultes",
+              "objective": "Conserver les protections sans faire taire l’enfant.",
+              "exercise": [
+                "Idriss accueille lui-même l’adulte qui passe.",
+                "Il indique que le jeu continue et reprend le document hors de la table des enfants.",
+                "Il maintient le relais avec Mireille comme prévu."
+              ],
+              "benefit": "Le cadre ne dépend ni du silence de Thaël ni d’une lecture optimiste de son rire."
+            }
+          ]
+        }
+      ],
+      "ending_title": "L’oiseau obtient son non",
+      "ending": "Zoé annonce que son oiseau dira non avant le dernier peut-être. Thaël proteste : Monsieur Peut-être devrait finir tout seul. Ils essaient pourtant les deux répliques, et le non très sec de l’oiseau fait revenir le rire. Thaël accepte de garder cette idée, sans cesser de préférer être le dernier à parler. Idriss leur propose maintenant de trouver une entrée de scène ; la boîte sert de coulisse pour le prochain essai.",
+      "conclusion": "Préserver la joie demande de regarder ce qui se passe avec précision. Thaël garde son humour et accepte une idée de Zoé. Cette avancée du duo ne sert pas de bilan clinique : les précautions envers les visiteurs demeurent en place.",
+      "mirror": [
+        "Mireille peut entendre la remarque et avoir peur que l’atelier devienne trop contraignant. Elle peut dire à Idriss : « Leur jeu fonctionne ; gardons-le. Pour les visiteurs, reprenons notre organisation. » Zoé n’a pas à corriger Thaël ni à surveiller ses relations. Elle reste une partenaire qui peut défendre sa réplique et trouver la manche drôle."
+      ],
+      "clinical_focus": "Préserver la joie sans pathologiser",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Thaël accepte le non de l’oiseau avant son dernier peut-être ; le duo conserve deux répliques.",
+        "next": "Le duo a deux répliques ; il lui manque une entrée de scène. La répétition demandera de garder un ordre court."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "thael-impulsivite-desinhibition-repetition",
+      "title": "Distinguer l’impulsivité dans une tâche de la désinhibition sociale",
+      "description": "Thaël part avant le signal et égare sa feuille. Ces difficultés de répétition méritent une description distincte de son diagnostic connu.",
+      "context": "La première répétition de l’entrée en scène",
+      "topics": [
+        "Départ avant le signal",
+        "Organisation de tâche",
+        "Évaluation spécialisée"
+      ],
+      "clinical_intro": "L’impulsivité générale et la désinhibition sociale ne sont pas équivalentes. Le trouble de l’engagement social désinhibé concerne particulièrement les relations avec des inconnus ; d’autres difficultés peuvent nécessiter une évaluation distincte. Pendant la répétition, Thaël commence trop tôt et perd sa feuille. Les adultes décrivent ces faits sans lui attribuer un nouveau diagnostic.",
+      "opening": "Idriss frappe doucement le tambour pour montrer le début. Après le son, Zoé doit avancer son oiseau ; Monsieur Peut-être vient ensuite répondre. Une feuille porte les deux répliques qu’ils ont choisies. Thaël la pose sur la boîte, puis fait entrer sa marionnette avant même qu’Idriss ait levé la main. « Attends, moi je suis encore derrière », dit Zoé en cherchant son bec de carton.\n\nIls reprennent. Cette fois, Thaël attend le son, mais ne retrouve plus la feuille. Elle a glissé sous la manche. Idriss la remet à plat ; au prochain essai, elle se retrouve par terre et Thaël a déjà dit peut-être. Il n’y a pas de visiteur près d’eux aujourd’hui. Mireille voit l’animateur hésiter entre recommencer et passer à autre chose. Thaël tape le bord de sa boîte : « Les mots, ils bougent tout le temps. »\n\nÀ un moment où les enfants rangent leurs accessoires à portée, Idriss dit à Mireille qu’il avait pensé retrouver la même difficulté que lors du départ vers le tambour. Elle propose de distinguer les faits : aujourd’hui, il s’agit d’un signal et d’une feuille, pas du choix de suivre une personne inconnue. Ils pourront en parler au rendez-vous déjà prévu avec la docteure Sorel. Thaël remet Monsieur Peut-être sur sa main. Il voudrait au moins réussir à apparaître après l’oiseau, et Zoé voudrait ne plus recommencer son entrée pendant qu’il cherche ses mots.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un diagnostic connu ne répond pas à toutes les questions",
+          "text": "La désinhibition sociale envers les inconnus se distingue d’une impulsivité présente dans des tâches ou des contextes plus variés. Un trouble de l’attention avec ou sans hyperactivité peut coexister avec un trouble de l’engagement social désinhibé, mais cette possibilité relève de l’évaluation spécialisée. Les essais de Thaël ne permettent ni de poser ni d’exclure ce diagnostic. Une réussite ponctuelle ne tranche pas davantage. Les adultes peuvent soutenir la répétition et transmettre les observations, sans transformer l’atelier en consultation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comment les difficultés de tâche apparaissent-elles pendant la répétition ?",
+          "points": [
+            {
+              "heading": "Commencer avant le signal prévu",
+              "text": "L’ordre du jeu est difficile à tenir dans certains essais. Il faut décrire l’action et son contexte avant d’en chercher la cause.",
+              "examples": [
+                "Monsieur Peut-être apparaît avant que la main d’Idriss se lève.",
+                "Thaël dit sa réplique alors que l’oiseau n’est pas encore en place."
+              ]
+            },
+            {
+              "heading": "Perdre le support commun",
+              "text": "L’organisation matérielle gêne aussi la tâche. Cette observation peut conduire à une adaptation immédiate sans étiquette clinique.",
+              "examples": [
+                "La feuille disparaît sous la grande manche.",
+                "Elle tombe au sol lors d’un nouvel essai."
+              ]
+            },
+            {
+              "heading": "Rapporter trop vite tous les faits au même trouble",
+              "text": "Le diagnostic déjà connu peut orienter excessivement le regard des adultes. La distinction maintient une question ouverte.",
+              "examples": [
+                "Idriss rapproche d’abord le signal manqué du départ vers le tambour.",
+                "Mireille rappelle qu’aucun inconnu n’est impliqué dans cette répétition."
+              ]
+            }
+          ]
+        },
+        {
+          "role": "strategies",
+          "heading": "3 techniques pour aider la tâche sans conclure au diagnostic",
+          "points": [
+            {
+              "heading": "Noter des faits situés",
+              "objective": "Préparer des informations utiles à l’équipe spécialisée.",
+              "exercise": [
+                "Indiquez l’activité, les personnes présentes et la consigne donnée.",
+                "Décrivez ce qui s’est produit sans écrire une intention ou une cause supposée.",
+                "Mentionnez aussi les essais réussis et les aides déjà proposées."
+              ],
+              "benefit": "Le professionnel reçoit un tableau contextualisé plutôt qu’une conclusion issue d’un seul atelier."
+            },
+            {
+              "heading": "Stabiliser la répétition",
+              "objective": "Réduire une difficulté matérielle qui entrave les deux enfants.",
+              "exercise": [
+                "Fixez une feuille commune sur la table.",
+                "Annoncez chaque nouvel essai avant le signal.",
+                "Proposez un passage court puis une pause ordinaire si le duo en a besoin."
+              ],
+              "benefit": "La tâche peut devenir plus accessible sans que son résultat prouve ou réfute un trouble."
+            },
+            {
+              "heading": "Transmettre au rendez-vous prévu",
+              "objective": "Séparer le soutien du loisir et la démarche clinique.",
+              "exercise": [
+                "Mireille rassemble les observations avec Idriss.",
+                "Elle les apporte à la docteure Sorel dans le cadre du suivi convenu.",
+                "Elle laisse les professionnels apprécier la nécessité d’explorer plus largement ces difficultés."
+              ],
+              "benefit": "La question reste prise en compte sans diagnostic improvisé ni bilan à produire pour le spectacle."
+            }
+          ]
+        }
+      ],
+      "ending_title": "La feuille reste à sa place",
+      "ending": "Idriss fixe les deux répliques sur la table. Il annonce un essai, frappe le tambour, et Thaël attend que l’oiseau passe. Le suivant se mélange encore : Monsieur Peut-être arrive trop tôt, la manche recouvre une partie du texte. Zoé propose d’arrêter là pour aujourd’hui. Mireille note les deux résultats et apporte ces observations au rendez-vous prévu, hors atelier. Aucun résultat diagnostique n’est annoncé au duo. Ils pourront néanmoins dessiner leur affiche à la séance suivante.",
+      "conclusion": "Décrire séparément une difficulté de tâche évite de tout expliquer par la désinhibition sociale. Les aménagements soutiennent le duo, tandis que l’équipe reçoit la question clinique. Le spectacle n’a pas à attendre que toute incertitude diagnostique soit résolue.",
+      "mirror": [
+        "Idriss peut reconnaître : « J’ai rapproché trop vite deux situations différentes. Regardons ce qui gêne cette répétition. » Mireille peut l’aider à préciser les faits sans devenir diagnosticienne. Zoé, elle, garde le droit de demander une pause et de travailler son oiseau ; elle n’a pas à rappeler les consignes à la place des adultes ni à mesurer les progrès de Thaël."
+      ],
+      "clinical_focus": "Distinguer impulsivité et désinhibition sociale",
+      "diagnostic_stage": "known",
+      "sources": [
+        "oms-cddr",
+        "nice-ng26"
+      ],
+      "continuity": {
+        "choice": "Une feuille commune est fixée ; les essais restent variables. Mireille apporte les observations au suivi sans résultat diagnostique inventé.",
+        "next": "Le rendez-vous aura lieu hors atelier, sans résultat diagnostique inventé. Le duo peut néanmoins dessiner une petite affiche de présentation."
+      }
     }
   ]
 }
